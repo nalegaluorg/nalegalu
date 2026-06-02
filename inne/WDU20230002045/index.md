@@ -26,15 +26,23 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002045) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2045/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 5 grudnia 2008 r. o organizacji rynku rybnego Rozdział 1 – Przepisy ogólne Rozdział 2 – Produkty rybne Rozdział 3 – Kodeksy dobrej praktyki rybackiej Rozdział 4 – Rejestr przedsiębiorców skupujących produkty rybołówstwa Rozdział 5 – Pierwsza sprzedaż produktów rybołówstwa Rozdział 6 – Organizacje producentów i ich związki oraz organizacje międzybranżowe Rozdział 7 – Pomoc finansowa na rynku rybnym Rozdział 8 – Nadzór, kontrola i monitorowanie obrotu niektórymi gatunkami ryb Rozdział 8a – Wprowadzanie do obrotu produktów rybołówstwa pochodzących z państw trzecich oraz powstrzymywanie i eliminowanie wprowadzania do obrotu produktów rybołówstwa pochodzących z nielegalnych, nieraportowanych i nieuregulowanych połowów Rozdział 9 – Kary pieniężne Rozdział 10 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 5 grudnia 2008 r. o organizacji rynku rybnego
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 grudnia 2008 r. o organizacji rynku rybnego (Dz. U. z 2021 r. poz. 678), z uwzględnieniem zmian wprowadzonych ustawą z dnia 26 maja 2023 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021–2027 (Dz. U. poz. 1273) oraz zmian wynikających z przepisów ogłoszonych przed dniem 17 sierpnia 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 56 ustawy z dnia 26 maja 2023 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021–2027 (Dz. U. poz. 1273), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 56 ustawy z dnia 26 maja 2023 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021–2027 (Dz. U. poz. 1273), który stanowi: „
+Przepisy ogólne
+Produkty rybne
+Kodeksy dobrej praktyki rybackiej
+Rejestr przedsiębiorców skupujących produkty rybołówstwa
+Pierwsza sprzedaż produktów rybołówstwa
+Organizacje producentów i ich związki oraz organizacje międzybranżowe
+Pomoc finansowa na rynku rybnym
 Art. 46–47a.
 (uchylone)
+Nadzór, kontrola i monitorowanie obrotu niektórymi gatunkami ryb
+Wprowadzanie do obrotu produktów rybołówstwa pochodzących z państw trzecich oraz powstrzymywanie i eliminowanie wprowadzania do obrotu produktów rybołówstwa pochodzących z nielegalnych, nieraportowanych i nieuregulowanych połowów
 1.
 Minister właściwy do spraw rybołówstwa:
 1)
@@ -46,16 +54,15 @@ przyjmuje powiadomienie, o którym mowa w art. 16 ust. 2 rozporządzenia nr 1005
 4)
 przechowuje zatwierdzone świadectwo połowowe, o którym mowa w pkt 1, przez okres wskazany w art. 22 ust. 4 rozporządzenia nr 1005/2008,
 5)
-realizuje obowiązki państwa członkowskiego Unii Europejskiej, o których mowa w art. 24 ust. 2 rozporządzenia nr 1005/2008
-jeżeli przywóz produktów rybołówstwa następuje przez drogowe, kolejowe albo lotnicze przejście graniczne.
+realizuje obowiązki państwa członkowskiego Unii Europejskiej, o których mowa w art. 24 ust. 2 rozporządzenia nr 1005/2008 – jeżeli przywóz produktów rybołówstwa następuje przez drogowe, kolejowe albo lotnicze przejście graniczne.
 2.
 W przypadkach określonych w art. 18 ust. 1 i 2 rozporządzenia nr 1005/2008, minister właściwy do spraw rybołówstwa zakazuje, w drodze decyzji, przywozu produktów rybołówstwa, jeżeli przywóz tych produktów następuje przez drogowe, kolejowe albo lotnicze przejście graniczne.
 3.
 Kopię decyzji, o której mowa w ust. 2, minister właściwy do spraw rybołówstwa niezwłocznie przekazuje granicznemu lekarzowi weterynarii oraz organom celnym, właściwym ze względu na miejsce położenia drogowego, kolejowego lub lotniczego przejścia granicznego.
 4.
 Decyzji, o której mowa w ust. 2, nadaje się rygor natychmiastowej wykonalności.
-(uchylony)
-1.
+(uchylony)Przez art. 49 pkt 2 ustawy, o której mowa w odnośniku 1; wejdzie w życie z dniem 5 października 2023 r.
+1W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 6..
 Główny Inspektor Rybołówstwa Morskiego:
 1)
 przyjmuje i sprawdza zatwierdzone świadectwo połowowe, o którym mowa w art. 14 ust. 1 lit. a i art. 16 ust. 1 rozporządzenia nr 1005/2008, oraz udokumentowane dowody, o których mowa w art. 14 ust. 1 lit. b tego rozporządzenia,
@@ -68,9 +75,8 @@ przeprowadza weryfikacje, o których mowa w art. 17 rozporządzenia nr 1005/2008
 5)
 przechowuje zatwierdzone świadectwo połowowe, o którym mowa w pkt 1, przez okres wskazany w art. 22 ust. 4 rozporządzenia nr 1005/2008,
 6)
-realizuje obowiązki państwa członkowskiego Unii Europejskiej, o których mowa w art. 24 ust. 2 rozporządzenia nr 1005/2008
-jeżeli przywóz produktów rybołówstwa następuje drogą morską.
-1.
+realizuje obowiązki państwa członkowskiego Unii Europejskiej, o których mowa w art. 24 ust. 2 rozporządzenia nr 1005/2008 – jeżeli przywóz produktów rybołówstwa następuje drogą morską.
+1W brzmieniu ustalonym przez art. 49 pkt 3 lit. a ustawy, o której mowa w odnośniku 1; wejdzie w życie z dniem 5 października 2023 r..
 Główny Inspektor Rybołówstwa Morskiego:
 1)
 przyjmuje i sprawdza zatwierdzone świadectwo połowowe, o którym mowa w art. 14 ust. 1 lit. a i art. 16 ust. 1 rozporządzenia nr 1005/2008, oraz udokumentowane dowody, o których mowa w art. 14 ust. 1 lit. b tego rozporządzenia;
@@ -84,16 +90,16 @@ przeprowadza weryfikacje, o których mowa w art. 17 rozporządzenia nr 1005/2008
 przechowuje zatwierdzone świadectwo połowowe, o którym mowa w pkt 1, przez okres wskazany w art. 22 ust. 4 rozporządzenia nr 1005/2008;
 6)
 realizuje obowiązki państwa członkowskiego Unii Europejskiej, o których mowa w art. 24 ust. 2 rozporządzenia nr 1005/2008.
-2.
+2W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 8..
 W przypadkach określonych w art. 7 ust. 3 zdanie trzecie i w art. 18 ust. 1 i 2 rozporządzenia nr 1005/2008, Główny Inspektor Rybołówstwa Morskiego zakazuje, w drodze decyzji, przywozu produktów rybołówstwa, jeżeli przywóz ich następuje drogą morską.
-2.
+2Ze zmianą wprowadzoną przez art. 49 pkt 3 lit. b ustawy, o której mowa w odnośniku 1; wejdzie w życie z dniem 5 października 2023 r..
 W przypadkach określonych w art. 7 ust. 3 zdanie trzecie i w art. 18 ust. 1 i 2 rozporządzenia nr 1005/2008, Główny Inspektor Rybołówstwa Morskiego zakazuje, w drodze decyzji, przywozu produktów rybołówstwa.
 3.
 Kopię decyzji, o której mowa w ust. 2, Główny Inspektor Rybołówstwa Morskiego niezwłocznie przekazuje granicznemu lekarzowi weterynarii oraz organom celnym, właściwym ze względu na miejsce położenia portu.
 4.
 Decyzji, o której mowa w ust. 2, nadaje się rygor natychmiastowej wykonalności.
 1.
-Główny Inspektor Rybołówstwa Morskiego w przypadku wydania decyzji, o której mowa w art. 62b ust. 2:
+Główny Inspektor Rybołówstwa Morskiego w przypadku wydania decyzji, o której mowa w art. 62b ust. 2:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 49 pkt 4 lit. a ustawy, o której mowa w odnośniku 1.
 1)
 z przyczyn określonych w art. 18 ust. 1 lit. a-d rozporządzenia nr 1005/2008 – nakazuje w tej decyzji dokonanie powrotnego wywozu produktów rybołówstwa;
 2)
@@ -104,16 +110,16 @@ Zajęcie produktów rybołówstwa odbywa się w trybie określonym w ustawie z d
 Produkty rybołówstwa, w stosunku do których sąd orzekł przepadek na rzecz Skarbu Państwa, podlegają zniszczeniu w całości lub w części, jeżeli ich sprzedaż jest niemożliwa, znacznie utrudniona lub nieuzasadniona.
 4.
 Środki pieniężne z tytułu nadwyżki kwoty uzyskanej ze sprzedaży produktów rybołówstwa, o których mowa w ust. 1, nad wydatkami związanymi z ich przechowaniem lub sprzedażą oraz należnościami celnymi i podatkowymi z tytułu dopuszczenia do obrotu na obszarze celnym Unii Europejskiej przeznacza się na rzecz organizacji pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2023 r. poz. 571).
-5.
+5Ze zmianą wprowadzoną przez art. 49 pkt 4 lit. b ustawy, o której mowa w odnośniku 1..
 Przepisu ust. 1 pkt 2 nie stosuje się, w przypadku gdy koszty związane z przechowaniem lub sprzedażą produktów rybołówstwa, o których mowa w ust. 1, oraz należnościami celnymi i podatkowymi z tytułu dopuszczenia tych produktów do obrotu na obszarze celnym Unii Europejskiej i orzeczenia przepadku na rzecz Skarbu Państwa rażąco przewyższyłyby wartość produktów rybołówstwa, a importer przed dniem wydania decyzji, o której mowa w art. 62b ust. 2, dokonał zniszczenia tych produktów oraz poinformował o tym odpowiednio ministra właściwego do spraw rybołówstwa albo Głównego Inspektora Rybołówstwa Morskiego.
 W przypadkach, o których mowa w art. 19 ust. 2 rozporządzenia nr 1005/2008, przepisy art. 16–18 tego rozporządzenia stosuje się w punkcie wejścia.
-1.
+1Ze zmianą wprowadzoną przez art. 49 pkt 5 ustawy, o której mowa w odnośniku 1..
 Główny Inspektor Rybołówstwa Morskiego zatwierdza:
 1)
 świadectwo połowowe – w przypadku, o którym mowa w art. 15 ust. 1 rozporządzenia nr 1005/2008;
 2)
 sekcję świadectwa połowowego – w przypadku, o którym mowa w art. 21 ust. 1 rozporządzenia nr 1005/2008, jeżeli powrotny wywóz produktów rybołówstwa następuje przez drogowe, kolejowe albo lotnicze przejście graniczne.
-2.
+2Ze zmianą wprowadzoną przez art. 49 pkt 5 ustawy, o której mowa w odnośniku 1..
 Główny Inspektor Rybołówstwa Morskiego odmawia, w drodze decyzji, zatwierdzenia:
 1)
 świadectwa połowowego – w przypadku gdy:
@@ -127,7 +133,7 @@ nie zawiera ono wymaganych informacji;
 sekcji świadectwa połowowego – w przypadku gdy nie zawiera ona wymaganych informacji.
 3.
 Decyzji, o której mowa w ust. 2, nadaje się rygor natychmiastowej wykonalności.
-4.
+4Ze zmianą wprowadzoną przez art. 49 pkt 5 ustawy, o której mowa w odnośniku 1..
 Główny Inspektor Rybołówstwa Morskiego przechowuje dokumenty, o których mowa w ust. 1, przez okres wskazany w art. 22 ust. 4 rozporządzenia nr 1005/2008.
 1.
 Główny Inspektor Rybołówstwa Morskiego zatwierdza sekcję świadectwa połowowego w przypadku, o którym mowa w art. 21 ust. 1 rozporządzenia nr 1005/2008, jeżeli powrotny wywóz produktów rybnych następuje drogą morską.
@@ -154,13 +160,37 @@ Minister właściwy do spraw rybołówstwa realizuje obowiązki i uprawnienia pa
 Główny Inspektor Rybołówstwa Morskiego realizuje obowiązki i uprawnienia państwa członkowskiego Unii Europejskiej określone w art. 11 ust. 2 i 3, art. 48 ust. 4 i art. 49 ust. 1 rozporządzenia nr 1005/2008.
 3.
 Minister właściwy do spraw rybołówstwa pełni funkcję organu centralnego, o którym mowa w art. 39 rozporządzenia nr 1010/2009.
+Kary pieniężne
+Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Produkty rybne
+
+#### Rozdział 3 – Kodeksy dobrej praktyki rybackiej
+
+#### Rozdział 4 – Rejestr przedsiębiorców skupujących produkty rybołówstwa
+
+#### Rozdział 5 – Pierwsza sprzedaż produktów rybołówstwa
+
+#### Rozdział 6 – Organizacje producentów i ich związki oraz organizacje międzybranżowe
+
+#### Rozdział 7 – Pomoc finansowa na rynku rybnym
+
+#### Rozdział 8 – Nadzór, kontrola i monitorowanie obrotu niektórymi gatunkami ryb
+
+#### Rozdział 8a – Wprowadzanie do obrotu produktów rybołówstwa pochodzących z państw trzecich oraz powstrzymywanie i eliminowanie wprowadzania do obrotu produktów rybołówstwa pochodzących z nielegalnych, nieraportowanych i nieuregulowanych połowów
+
+#### Rozdział 9 – Kary pieniężne
+
+#### Rozdział 10 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 **Art. 56.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 49 pkt 2 i 3, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
 - **2)** art. 51 pkt 10, który wchodzi w życie z dniem 1 stycznia 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 5 grudnia 2008 r. o organizacji rynku rybnego
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa:
 
@@ -187,7 +217,7 @@ Minister właściwy do spraw rybołówstwa pełni funkcję organu centralnego, o
 
 **Art. 4.** Do postępowań w sprawach indywidualnych rozstrzyganych w drodze decyzji stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że przepisy ustawy stanowią inaczej.
 
-#### Rozdział 2 Produkty rybne
+#### Rozdział 2
 
 **Art. 5.**
 
@@ -261,7 +291,7 @@ Minister właściwy do spraw rybołówstwa pełni funkcję organu centralnego, o
 
 **Art. 9.** (uchylony)
 
-#### Rozdział 3 Kodeksy dobrej praktyki rybackiej
+#### Rozdział 3
 
 **Art. 10.**
 
@@ -314,7 +344,7 @@ Minister właściwy do spraw rybołówstwa pełni funkcję organu centralnego, o
 
 **Art. 12.** Podmiot, który opracował kodeks umieszczony w wykazie, o którym mowa w art. 11 ust. 1, może uczestniczyć na prawach strony, w trybie i na zasadach określonych w przepisach Kodeksu postępowania administracyjnego dla organizacji społecznych, we wszelkich postępowaniach, w których strona powołuje się na okoliczność stosowania danego kodeksu.
 
-#### Rozdział 4 Rejestr przedsiębiorców skupujących produkty rybołówstwa
+#### Rozdział 4
 
 **Art. 13.**
 
@@ -373,7 +403,7 @@ Minister właściwy do spraw rybołówstwa pełni funkcję organu centralnego, o
 **Art. 16.** Minister właściwy do spraw rybołówstwa, w drodze decyzji, wykreśla przedsiębiorcę z rejestru skupujących w przypadku:
 
 - **1)** zakazania przedsiębiorcy prowadzenia działalności podlegającej wpisowi do rejestru skupujących na podstawie ostatecznej decyzji powiatowego lekarza weterynarii, wydanej w trybie przepisów o produktach pochodzenia zwierzęcego;
-- **2)** gdy przedsiębiorca, będąc do tego obowiązanym: nie wystawia: – dokumentu sprzedaży, o którym mowa w art. 62 ust. 1 lub art. 63 ust. 1 rozporządzenia nr 1224/2009, zwanego dalej „dokumentem sprzedaży”, lub – deklaracji przejęcia, o której mowa w art. 66 ust. 1 rozporządzenia nr 1224/2009, zwanej dalej „deklaracją przejęcia”, wystawia: – dokument sprzedaży z naruszeniem wymagań określonych w art. 62 ust. 1, art. 63 ust. 1 lub art. 64 ust. 1 rozporządzenia nr 1224/2009, – deklarację przejęcia z naruszeniem wymagań określonych w art. 66 ust. 1 lub 3 lub art. 67 ust. 1 rozporządzenia nr 1224/2009, nie przechowuje dokumentu sprzedaży lub deklaracji przejęcia przez okres, o którym mowa w art. 18 ust. 3 oraz w okresie ostatnich dwóch lat dwukrotnie została na niego nałożona kara pieniężna z tytułu niewykonania tych obowiązków;
+- **2)** gdy przedsiębiorca, będąc do tego obowiązanym: nie wystawia: – dokumentu sprzedaży, o którym mowa w art. 62 ust. 1 lub art. 63 ust. 1 rozporządzenia nr 1224/2009, zwanego dalej „dokumentem sprzedaży”, lub – deklaracji przejęcia, o której mowa w art. 66 ust. 1 rozporządzenia nr 1224/2009, zwanej dalej „deklaracją przejęcia”, wystawia: – dokument sprzedaży z naruszeniem wymagań określonych w art. 62 ust. 1, art. 63 ust. 1 lub art. 64 ust. 1 rozporządzenia nr 1224/2009, – deklarację przejęcia z naruszeniem wymagań określonych w art. 66 ust. 1 lub 3 lub art. 67 ust. 1 rozporządzenia nr 1224/2009, nie przechowuje dokumentu sprzedaży lub deklaracji przejęcia przez okres, o którym mowa w art. 18 ust. 3 – oraz w okresie ostatnich dwóch lat dwukrotnie została na niego nałożona kara pieniężna z tytułu niewykonania tych obowiązków;
     - **a)**
     - **b)**
     - **c)**
@@ -390,7 +420,7 @@ Minister właściwy do spraw rybołówstwa pełni funkcję organu centralnego, o
 
 3. Przepisu ust. 1 nie stosuje się, jeżeli wykreślenie z rejestru skupujących nastąpiło na skutek dokonania zgłoszenia, o którym mowa w art. 15 ust. 1 pkt 3.
 
-#### Rozdział 5 Pierwsza sprzedaż produktów rybołówstwa
+#### Rozdział 5
 
 **Art. 18.**
 
@@ -421,15 +451,11 @@ Minister właściwy do spraw rybołówstwa pełni funkcję organu centralnego, o
 
 **Art. 21.** Główny Inspektor Rybołówstwa Morskiego dokonuje kontroli kompletności i terminowości wystawiania i przekazywania oraz przechowywania dokumentów sprzedaży i deklaracji przejęcia.
 
-**Art. 22.**
-
-1. Przedsiębiorca wpisany do rejestru skupujących przesyła w formie elektronicznej informacje, o których mowa w art. 64 lub art. 66 ust. 3 rozporządzenia nr 1224/2009, do Centrum Monitorowania Rybołówstwa stanowiącego ośrodek monitorowania rybołówstwa w rozumieniu rozporządzenia nr 1224/2009.
-
-2. (uchylony)
+**Art. 22.** 1W brzmieniu ustalonym przez art. 49 pkt 1 lit. a ustawy z dnia 26 maja 2023 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021–2027 (Dz. U. poz. 1273), która weszła w życie z dniem 19 lipca 2023 r.. Przedsiębiorca wpisany do rejestru skupujących przesyła w formie elektronicznej informacje, o których mowa w art. 64 lub art. 66 ust. 3 rozporządzenia nr 1224/2009, do Centrum Monitorowania Rybołówstwa stanowiącego ośrodek monitorowania rybołówstwa w rozumieniu rozporządzenia nr 1224/2009. 2. (uchylony)Przez art. 49 pkt 1 lit. b ustawy, o której mowa w odnośniku 1.
 
 **Art. 23.** (uchylony)
 
-#### Rozdział 6 Organizacje producentów i ich związki oraz organizacje międzybranżowe
+#### Rozdział 6
 
 **Art. 24.**
 
@@ -652,7 +678,7 @@ Minister właściwy do spraw rybołówstwa pełni funkcję organu centralnego, o
 3. Minister właściwy do spraw rybołówstwa dokonuje oceny zgodności wniosku o rozszerzenie zasad organizacji z warunkami określonymi w:
 
 - **1)** art. 22 rozporządzenia nr 1379/2013 – w przypadku wniosku organizacji producentów lub związku organizacji producentów albo
-- **2)** art. 23 rozporządzenia nr 1379/2013 – w przypadku wniosku organizacji międzybranżowej i niezwłocznie informuje daną organizację, w formie pisemnej, o wyniku tej oceny.
+- **2)** art. 23 rozporządzenia nr 1379/2013 – w przypadku wniosku organizacji międzybranżowej – i niezwłocznie informuje daną organizację, w formie pisemnej, o wyniku tej oceny.
 
 4. W przypadku stwierdzenia, że nie są spełnione warunki określone odpowiednio w art. 22 albo art. 23 rozporządzenia nr 1379/2013, minister właściwy do spraw rybołówstwa wzywa, w formie pisemnej, organizację producentów, związek organizacji producentów lub organizację międzybranżową do uzupełnienia wniosku o rozszerzenie zasad organizacji w terminie 14 dni od dnia doręczenia wezwania pod rygorem pozostawienia wniosku bez rozpoznania.
 
@@ -675,7 +701,7 @@ Minister właściwy do spraw rybołówstwa pełni funkcję organu centralnego, o
 
 **Art. 45.** (uchylony)
 
-#### Rozdział 7 Pomoc finansowa na rynku rybnym
+#### Rozdział 7
 
 **Art. 48.**
 
@@ -696,7 +722,7 @@ Minister właściwy do spraw rybołówstwa pełni funkcję organu centralnego, o
 
 2. Minister właściwy do spraw rybołówstwa określa ceny progowe dla mechanizmu składowania zgodnie z art. 31 ust. 2 i 3 rozporządzenia nr 1379/2013 i podaje je do publicznej wiadomości, w formie określonej w załączniku IV do rozporządzenia nr 1419/2013, na stronie internetowej urzędu obsługującego ministra właściwego do spraw rybołówstwa. (uchylone)
 
-#### Rozdział 8 Nadzór, kontrola i monitorowanie obrotu niektórymi gatunkami ryb
+#### Rozdział 8
 
 **Art. 60.** Minister właściwy do spraw rybołówstwa:
 
@@ -764,16 +790,16 @@ Minister właściwy do spraw rybołówstwa pełni funkcję organu centralnego, o
 6. Minister właściwy do spraw rybołówstwa może określić, w drodze rozporządzenia:
 
 - **1)** rodzaje dokumentów, o których mowa w ust. 2, które uznaje się za potwierdzające pochodzenie danego produktu rybnego, w tym dokonanie połowu zgodnie z warunkami określonymi dla danego gatunku, lub
-- **2)** szczegółowy sposób i tryb potwierdzania pochodzenia produktu rybnego, w tym dokonania połowu zgodnie z warunkami określonymi dla danego gatunku, w odniesieniu do połowów prowadzonych przez uprawnionych do rybactwa w rozumieniu art. 4 ust. 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym lub armatorów statków rybackich mając na względzie zapewnienie skutecznej kontroli wprowadzania do obrotu produktów rybnych z gatunków, których zasoby są objęte środkami służącymi ich zrównoważonej eksploatacji, a także zapewnienie niewprowadzania do obrotu produktów rybnych pochodzących z nielegalnych, nierejestrowanych lub nieudokumentowanych połowów lub o nieudokumentowanym pochodzeniu.
+- **2)** szczegółowy sposób i tryb potwierdzania pochodzenia produktu rybnego, w tym dokonania połowu zgodnie z warunkami określonymi dla danego gatunku, w odniesieniu do połowów prowadzonych przez uprawnionych do rybactwa w rozumieniu art. 4 ust. 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym lub armatorów statków rybackich – mając na względzie zapewnienie skutecznej kontroli wprowadzania do obrotu produktów rybnych z gatunków, których zasoby są objęte środkami służącymi ich zrównoważonej eksploatacji, a także zapewnienie niewprowadzania do obrotu produktów rybnych pochodzących z nielegalnych, nierejestrowanych lub nieudokumentowanych połowów lub o nieudokumentowanym pochodzeniu.
 
 7. Minister właściwy do spraw rybołówstwa, w przypadku gdy przepisy Unii Europejskiej, umów lub porozumień międzynarodowych dotyczące wprowadzania do obrotu produktów rybnych z gatunków, o których mowa w ust. 1, ustalą inne obowiązki niż określone w ust. 3–5, w tym obowiązki dotyczące obrotu tymi produktami, określi, w drodze rozporządzenia:
 
 - **1)** warunki lub tryb realizacji tych obowiązków lub
-- **2)** rodzaje dokumentów niezbędnych do realizacji tych obowiązków mając na względzie ochronę żywych zasobów wód i zapewnienie ich zrównoważonej eksploatacji oraz pewności obrotu, a także realizację zobowiązań Rzeczypospolitej Polskiej wynikających z przepisów Unii Europejskiej, umów lub porozumień międzynarodowych.
+- **2)** rodzaje dokumentów niezbędnych do realizacji tych obowiązków – mając na względzie ochronę żywych zasobów wód i zapewnienie ich zrównoważonej eksploatacji oraz pewności obrotu, a także realizację zobowiązań Rzeczypospolitej Polskiej wynikających z przepisów Unii Europejskiej, umów lub porozumień międzynarodowych.
 
-#### Rozdział 8a Wprowadzanie do obrotu produktów rybołówstwa pochodzących z państw trzecich oraz powstrzymywanie i eliminowanie wprowadzania do obrotu produktów rybołówstwa pochodzących z nielegalnych, nieraportowanych i nieuregulowanych połowów
+#### Rozdział 8a
 
-#### Rozdział 9 Kary pieniężne
+#### Rozdział 9
 
 **Art. 63.**
 
@@ -789,7 +815,7 @@ Minister właściwy do spraw rybołówstwa pełni funkcję organu centralnego, o
 - **8)** (uchylony)
 - **9)** wprowadza do obrotu produkty rybne niezaopatrzone w dokument potwierdzający ich pochodzenie wbrew zakazowi, o którym mowa w art. 62 ust. 5,
 - **10)** będąc do tego obowiązanym, nie posiada dokumentacji połowów dla Dissostichus spp. w rozumieniu art. 3 lit. b rozporządzenia nr 1035/2001 lub nienależycie taką dokumentację wypełnia,
-- **11)** wprowadza do obrotu produkty rybołówstwa o wymiarach mniejszych od minimalnych wielkości określonych dla poszczególnych gatunków produktów rybołówstwa w rozporządzeniu nr 2406/96 podlega karze pieniężnej do wysokości nieprzekraczającej dwudziestokrotnego przeciętnego wynagrodzenia w gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+- **11)** wprowadza do obrotu produkty rybołówstwa o wymiarach mniejszych od minimalnych wielkości określonych dla poszczególnych gatunków produktów rybołówstwa w rozporządzeniu nr 2406/96 – podlega karze pieniężnej do wysokości nieprzekraczającej dwudziestokrotnego przeciętnego wynagrodzenia w gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 2. Minister właściwy do spraw rybołówstwa określi, w drodze rozporządzenia, wysokość kar pieniężnych za naruszenia, o których mowa w ust. 1, mając na względzie rodzaj naruszenia i stopień tego naruszenia ze względu na prawidłowe funkcjonowanie rynku rybnego oraz oddziaływanie na stan żywych zasobów wód oraz wysokość możliwej do osiągnięcia korzyści finansowej wynikającej z naruszenia.
 
@@ -816,13 +842,13 @@ Minister właściwy do spraw rybołówstwa pełni funkcję organu centralnego, o
 
 **Art. 66.**
 
-1. Od nieuiszczonych w terminie kar pieniężnych pobiera się odsetki za zwłokę w wysokości i na zasadach określonych dla zaległości podatkowych w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.).
+1. Od nieuiszczonych w terminie kar pieniężnych pobiera się odsetki za zwłokę w wysokości i na zasadach określonych dla zaległości podatkowych w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556, 614, 1059, 1193, 1234, 1450 i 1598.).
 
 2. Egzekucja wymierzonych kar wraz z odsetkami za zwłokę następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
 3. Kwoty ściągnięte z tytułu kar pieniężnych stanowią dochód budżetu państwa.
 
-#### Rozdział 10 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+#### Rozdział 10
 
 **Art. 67.** (pominięty)
 
@@ -833,7 +859,7 @@ Minister właściwy do spraw rybołówstwa pełni funkcję organu centralnego, o
 - **1)** przedsiębiorców skupujących produkty rybne,
 - **2)** organizacji producentów rybnych objętych pomocą finansową,
 - **3)** organizacji międzybranżowych,
-- **4)** związków organizacji producentów rybnych prowadzone na podstawie przepisów dotychczasowych stają się odpowiednio rejestrami, o których mowa w art. 13 ust. 1 i art. 24 ust. 4.
+- **4)** związków organizacji producentów rybnych – prowadzone na podstawie przepisów dotychczasowych stają się odpowiednio rejestrami, o których mowa w art. 13 ust. 1 i art. 24 ust. 4.
 
 **Art. 70.**
 
@@ -855,5 +881,5 @@ Minister właściwy do spraw rybołówstwa pełni funkcję organu centralnego, o
 
 **Art. 74.** Traci moc ustawa z dnia 22 stycznia 2004 r. o organizacji rynku rybnego i pomocy finansowej w gospodarce rybnej (Dz. U. poz. 291 i 956, z 2006 r. poz. 64 oraz z 2007 r. poz. 125).
 
-**Art. 75.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 75.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 16 lutego 2011 r.. 1) W brzmieniu ustalonym przez art. 49 pkt 1 lit. a ustawy z dnia 26 maja 2023 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021–2027 (Dz. U. poz. 1273), która weszła w życie z dniem 19 lipca 2023 r. 2) Przez art. 49 pkt 1 lit. b ustawy, o której mowa w odnośniku 1. 3) Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 4. 4) Przez art. 49 pkt 2 ustawy, o której mowa w odnośniku 1; wejdzie w życie z dniem 5 października 2023 r. 5) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 6. 6) W brzmieniu ustalonym przez art. 49 pkt 3 lit. a ustawy, o której mowa w odnośniku 1; wejdzie w życie z dniem 5 października 2023 r. 7) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 8. 8) Ze zmianą wprowadzoną przez art. 49 pkt 3 lit. b ustawy, o której mowa w odnośniku 1; wejdzie w życie z dniem 5 października 2023 r. 9) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 49 pkt 4 lit. a ustawy, o której mowa w odnośniku 1. 10) Ze zmianą wprowadzoną przez art. 49 pkt 4 lit. b ustawy, o której mowa w odnośniku 1. 11) Ze zmianą wprowadzoną przez art. 49 pkt 5 ustawy, o której mowa w odnośniku 1. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556, 614, 1059, 1193, 1234, 1450 i 1598. 13) Ustawa została ogłoszona w dniu 16 lutego 2011 r.
 

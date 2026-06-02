@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-24 |
 | Data wydania | 2018-10-26 |
-| Wejście w życie | 2018-10-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002052) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2052/text.pdf) |
 
@@ -158,5 +157,5 @@ Protokół posiedzenia Rady podpisują obecni na posiedzeniu współprzewodnicz�
 § 18.
 Rada uchwala regulamin Rady, który określa szczegółową organizację i tryb działania Rady, w tym szczegółową organizację i tryb działania zespołów problemowych.
 § 19.
-Rozporządzenie wchodzi w życie z dniem 29 października 2018 r.
+Rozporządzenie wchodzi w życie z dniem 29 października 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 8 października 2015 r. w sprawie Rady Działalności Pożytku Publicznego (Dz. U. poz. 1706), które zgodnie z art. 47 ustawy z dnia 15 września 2017 r. o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U. z 2018 r. poz. 1813) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 8 października 2015 r. w sprawie Rady Działalności Pożytku Publicznego (Dz. U. poz. 1706), które zgodnie z art. 47 ustawy z dnia 15 września 2017 r. o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U. z 2018 r. poz. 1813) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

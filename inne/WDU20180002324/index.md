@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 11 grudnia 2018 r. w sprawie warunków korzystania z uprawnień w publicznych sieciach telekomunikacyjnych
+# Rozporządzenie Ministra Cyfryzacjiz dnia 11 grudnia 2018 r. w sprawie warunków korzystania z uprawnień w publicznych sieciach telekomunikacyjnych Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-11 |
 | Data wydania | 2018-12-12 |
-| Wejście w życie | 2019-03-01 |
 | Ostatnia zmiana | 2024-08-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002324) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2324/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Zmiana przydzielonego numeru Rozdział 3 – Przeniesienie przydzielonego numeru przy zmianie lokalizacji Rozdział 4 – Przeniesienie przydzielonego numeru przy zmianie dostawcy usług zapewniającego przyłączenie do publicznej sieci telekomunikacyjnej Rozdział 5 – Wybór dostawcy publicznie dostępnych usług telefonicznych Rozdział 6 – Przepis przejściowy i przepisy końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 73 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2018 r. poz. 1954 i 2245) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa warunki korzystania przez abonenta:
@@ -46,6 +46,7 @@ publicznie dostępnej usługi telefonicznej będącego stroną umowy z dostawcą
 publicznie dostępnej usługi telefonicznej będącego stroną umowy z dostawcą usług zapewniającym przyłączenie do ruchomej publicznej sieci telekomunikacyjnej operatora o znaczącej pozycji rynkowej z uprawnienia do wyboru dostawcy publicznie dostępnych usług telefonicznych, którego usługi są dostępne w połączonych sieciach, w przypadku gdy Prezes Urzędu Komunikacji Elektronicznej, zwany dalej „Prezesem UKE”, na podstawie art. 72 ust. 3 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne nałoży obowiązek realizacji tego uprawnienia na wyznaczonego operatora o znaczącej pozycji na tym rynku.
 2.
 Ilekroć w rozporządzeniu jest mowa o „ustawie”, rozumie się przez to ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne.
+Zmiana przydzielonego numeru
 § 2.
 1.
 Abonent publicznie dostępnej usługi telefonicznej występuje do dostawcy usług zapewniającego mu przyłączenie do publicznej sieci telekomunikacyjnej z wnioskiem o zmianę przydzielonego numeru, jeżeli korzystanie z przydzielonego numeru jest dla abonenta uciążliwe.
@@ -81,6 +82,7 @@ Na żądanie abonenta wyrażone w momencie złożenia wniosku dostawca usług, o
 Żądanie abonenta, o którym mowa w ust. 2, określa jednolity sposób doręczania wszystkich zawiadomień, o których mowa w § 2 ust. 6 oraz § 3 ust. 1 i 3–5.
 § 5.
 W przypadku zakresów numeracji służących do bezpośredniego połączenia z abonentem sieci wewnętrznej, zwanych dalej „DDI”, zmianie podlega zakres 10 numerów lub wielokrotność takiego zakresu, z zachowaniem ciągłości ostatnich cyfr od 0 do 9.
+Przeniesienie przydzielonego numeru przy zmianie lokalizacji
 § 6.
 1.
 Abonent stacjonarnej publicznej sieci telekomunikacyjnej w przypadku zmiany miejsca zamieszkania, siedziby lub miejsca wykonywania działalności, zwanych dalej „lokalizacją”, występuje do dostawcy usług zapewniającego mu przyłączenie do stacjonarnej publicznej sieci telekomunikacyjnej operatora z wnioskiem o przeniesienie przydzielonego numeru do nowej lokalizacji w ramach istniejącej sieci tego samego operatora.
@@ -122,6 +124,7 @@ Na żądanie abonenta wyrażone w momencie złożenia wniosku, dostawca usług, 
 Żądanie abonenta, o którym mowa w ust. 2, określa jednolity sposób doręczania wszystkich zawiadomień, o których mowa w § 6 ust. 5 oraz § 7 ust. 1 i 3–5.
 § 9.
 W przypadku zakresów numeracji DDI przeniesieniu podlega zakres 10 numerów lub wielokrotność takiego zakresu, z zachowaniem ciągłości ostatnich cyfr od 0 do 9.
+Przeniesienie przydzielonego numeru przy zmianie dostawcy usług zapewniającego przyłączenie do publicznej sieci telekomunikacyjnej
 § 10.
 1.
 W celu realizacji uprawnienia, o którym mowa w art. 71 ust. 1 ustawy, abonent będący stroną umowy z dostawcą usług zapewniającym przyłączenie do stacjonarnej lub ruchomej publicznej sieci telekomunikacyjnej występuje do nowego dostawcy usług, zwanego dalej „nowym dostawcą”, z wnioskiem o przeniesienie przydzielonego numeru.
@@ -194,8 +197,7 @@ Termin na rozpatrzenie przez nowego dostawcę wniosku wynosi odpowiednio:
 3)
 3 dni robocze, gdy abonent będący stroną umowy z dostawcą usług zapewniającym przyłączenie do ruchomej publicznej sieci telekomunikacyjnej składa wniosek w sposób inny niż określony w pkt 1,
 4)
-5 dni roboczych, gdy abonent będący stroną umowy z dostawcą usług zapewniającym przyłączenie do stacjonarnej publicznej sieci telekomunikacyjnej składa wniosek w sposób inny niż określony w pkt 2
-od momentu złożenia wniosku.
+5 dni roboczych, gdy abonent będący stroną umowy z dostawcą usług zapewniającym przyłączenie do stacjonarnej publicznej sieci telekomunikacyjnej składa wniosek w sposób inny niż określony w pkt 2 – od momentu złożenia wniosku.
 9.
 Nowy dostawca zawiadamia abonenta o terminie przeniesienia przydzielonego numeru lub o przyczynie odmowy przeniesienia numeru.
 10.
@@ -207,15 +209,13 @@ Przeniesienie numeru, na wyraźne żądanie abonenta zawarte we wniosku, następ
 1)
 1 dnia roboczego – w przypadku abonentów będących stroną umowy z dostawcą usług zapewniającym przyłączenie do ruchomej publicznej sieci telekomunikacyjnej lub
 2)
-7 dni roboczych – w przypadku abonentów będących stroną umowy z dostawcą usług zapewniającym przyłączenie do stacjonarnej publicznej sieci telekomunikacyjnej
-od dnia zawarcia umowy, o której mowa w ust. 10, albo w późniejszym terminie w trakcie trwania dotychczasowej umowy, wskazanym przez abonenta.
+7 dni roboczych – w przypadku abonentów będących stroną umowy z dostawcą usług zapewniającym przyłączenie do stacjonarnej publicznej sieci telekomunikacyjnej – od dnia zawarcia umowy, o której mowa w ust. 10, albo w późniejszym terminie w trakcie trwania dotychczasowej umowy, wskazanym przez abonenta.
 13.
 Przeniesienie przydzielonego numeru nie może powodować przerwy w świadczeniu usług telekomunikacyjnych dłuższej niż:
 1)
 6 godzin w porze nocnej pomiędzy godziną 0:00 a 6:00 – w przypadku abonentów będących stroną umowy z dostawcą usług zapewniającym przyłączenie do ruchomej publicznej sieci telekomunikacyjnej lub
 2)
-24 godziny, liczone od określonego w umowie, o której mowa w ust. 10, dnia rozpoczęcia świadczenia tych usług – w przypadku abonentów będących stroną umowy z dostawcą usług zapewniającym przyłączenie do stacjonarnej publicznej sieci telekomunikacyjnej
-chyba że abonent wyraził w umowie zgodę na dłuższą przerwę, określając czas jej trwania.
+24 godziny, liczone od określonego w umowie, o której mowa w ust. 10, dnia rozpoczęcia świadczenia tych usług – w przypadku abonentów będących stroną umowy z dostawcą usług zapewniającym przyłączenie do stacjonarnej publicznej sieci telekomunikacyjnej – chyba że abonent wyraził w umowie zgodę na dłuższą przerwę, określając czas jej trwania.
 14.
 Abonent może zrezygnować z przeniesienia przydzielonego numeru najpóźniej w terminie 2 dni przed planowaną datą przeniesienia numeru, składając oświadczenie do dotychczasowego dostawcy usług lub nowego dostawcy.
 15.
@@ -246,6 +246,7 @@ Na żądanie abonenta wyrażone w momencie złożenia wniosku nowy dostawca dor�
 Żądanie abonenta, o którym mowa w ust. 2, określa jednolity sposób doręczania wszystkich zawiadomień, o których mowa w § 10 ust. 5 i 9 oraz § 11, a także potwierdzenia, o którym mowa w § 10 ust. 15.
 § 14.
 W przypadku zakresów numeracji DDI przeniesieniu podlega zakres 10 numerów lub wielokrotność takiego zakresu, z zachowaniem ciągłości ostatnich cyfr od 0 do 9.
+Wybór dostawcy publicznie dostępnych usług telefonicznych
 § 15.
 1.
 Abonent będący stroną umowy z dostawcą usług zapewniającym przyłączenie do stacjonarnej publicznej sieci telekomunikacyjnej operatora o znaczącej pozycji rynkowej wybiera dostawcę publicznie dostępnych usług telefonicznych przez numer dostępu lub preselekcję.
@@ -296,8 +297,7 @@ W przypadku negatywnego rozpatrzenia zlecenia preselekcji dostawca usług zapewn
 1)
 abonenta,
 2)
-wybranego przez abonenta dostawcę publicznie dostępnych usług telefonicznych
-o odmowie realizacji zlecenia preselekcji wraz z podaniem uzasadnienia.
+wybranego przez abonenta dostawcę publicznie dostępnych usług telefonicznych – o odmowie realizacji zlecenia preselekcji wraz z podaniem uzasadnienia.
 2.
 Odmowa realizacji zlecenia preselekcji jest udzielana abonentowi wyłącznie w przypadku:
 1)
@@ -329,23 +329,35 @@ Na żądanie abonenta wyrażone w momencie złożenia wniosku, dostawca usług, 
 Żądanie abonenta, o którym mowa w ust. 1, określa jednolity sposób doręczania wszystkich zawiadomień, o których mowa w § 17 ust. 5, § 18 ust. 1 pkt 1 i ust. 3–5, § 19 ust. 2 i § 20 ust. 1.
 3.
 Jeżeli abonent zażądał przekazania treści zawiadomień, o których mowa w § 17 ust. 5, § 18 ust. 1 pkt 1 i ust. 3–5, § 19 ust. 2 i § 20 ust. 1, telefonicznie, wskazuje jednocześnie inny sposób zawiadomienia, jaki dostawca usług, o którym mowa w § 15 ust. 1, będzie mógł zastosować w przypadku, gdyby abonent ten nie odbierał połączenia lub z przyczyn technicznych leżących po jego stronie dostawca usług nie mógł nawiązać z nim połączenia.
+Przepis przejściowy i przepisy końcowe
 § 23.
 Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 24.
 Traci moc rozporządzenie Ministra Infrastruktury z dnia 16 grudnia 2010 r. w sprawie warunków korzystania z uprawnień w publicznych sieciach telefonicznych (Dz. U. poz. 1670).
 § 25.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2019 r.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761).
+Rozporządzenie wchodzi w życie z dniem 1 marca 2019 r. 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Zmiana przydzielonego numeru
+#### Rozdział 2 – Zmiana przydzielonego numeru
 
-#### Rozdział 3 Przeniesienie przydzielonego numeru przy zmianie lokalizacji
+#### Rozdział 3 – Przeniesienie przydzielonego numeru przy zmianie lokalizacji
 
-#### Rozdział 4 Przeniesienie przydzielonego numeru przy zmianie dostawcy usług zapewniającego przyłączenie do publicznej sieci telekomunikacyjnej
+#### Rozdział 4 – Przeniesienie przydzielonego numeru przy zmianie dostawcy usług zapewniającego przyłączenie do publicznej sieci telekomunikacyjnej
 
-#### Rozdział 5 Wybór dostawcy publicznie dostępnych usług telefonicznych
+#### Rozdział 5 – Wybór dostawcy publicznie dostępnych usług telefonicznych
 
-#### Rozdział 6 Przepis przejściowy i przepisy końcowe
+#### Rozdział 6 – Przepis przejściowy i przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

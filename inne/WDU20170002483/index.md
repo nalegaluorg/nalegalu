@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-21 |
 | Data wydania | 2017-12-29 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002483) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2483/text.pdf) |
 
@@ -43,18 +42,16 @@ rolników, o których mowa w art. 66 ust. 1 pkt 1 lit. b i pkt 34 ustawy z dnia 
 2)
 domowników rolników, o których mowa w pkt 1,
 3)
-domowników rolników, którzy prowadzą działalność w zakresie działów specjalnych w rozumieniu art. 6 pkt 5 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2017 r. poz. 2336), zwanych dalej „działami specjalnymi”, i dodatkowo w gospodarstwie rolnym
-dokonuje się za każdy miesiąc na podstawie ewidencji prowadzonej przez Kasę Rolniczego Ubezpieczenia Społecznego, zwaną dalej „KRUS”, aktualizowanej na podstawie złożonego przez rolnika oświadczenia o wielkości gospodarstwa rolnego, wskazującego liczbę hektarów przeliczeniowych użytków rolnych, przyjętych dla celów ustalenia wymiaru składek na ubezpieczenie społeczne rolników, oraz dane identyfikujące rolnika, w tym imię i nazwisko oraz miejsce zamieszkania rolnika.
+domowników rolników, którzy prowadzą działalność w zakresie działów specjalnych w rozumieniu art. 6 pkt 5 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2017 r. poz. 2336), zwanych dalej „działami specjalnymi”, i dodatkowo w gospodarstwie rolnym – dokonuje się za każdy miesiąc na podstawie ewidencji prowadzonej przez Kasę Rolniczego Ubezpieczenia Społecznego, zwaną dalej „KRUS”, aktualizowanej na podstawie złożonego przez rolnika oświadczenia o wielkości gospodarstwa rolnego, wskazującego liczbę hektarów przeliczeniowych użytków rolnych, przyjętych dla celów ustalenia wymiaru składek na ubezpieczenie społeczne rolników, oraz dane identyfikujące rolnika, w tym imię i nazwisko oraz miejsce zamieszkania rolnika.
 § 3.
 1.
 Wymiaru składek na ubezpieczenie zdrowotne rolników prowadzących działalność:
 1)
 wyłącznie w zakresie działów specjalnych,
 2)
-w zakresie działów specjalnych i dodatkowo w gospodarstwie rolnym
-dokonuje się za każdy miesiąc na podstawie ewidencji prowadzonej przez KRUS i złożonego przez rolnika oświadczenia o rodzaju, rozmiarze prowadzonej działalności w zakresie działów specjalnych i kwocie przewidywanego dochodu z prowadzonej działalności w zakresie działów specjalnych, zwanej dalej „kwotą przewidywanego dochodu”, oraz danych identyfikujących rolnika, w tym imieniu i nazwisku oraz miejscu zamieszkania rolnika.
+w zakresie działów specjalnych i dodatkowo w gospodarstwie rolnym – dokonuje się za każdy miesiąc na podstawie ewidencji prowadzonej przez KRUS i złożonego przez rolnika oświadczenia o rodzaju, rozmiarze prowadzonej działalności w zakresie działów specjalnych i kwocie przewidywanego dochodu z prowadzonej działalności w zakresie działów specjalnych, zwanej dalej „kwotą przewidywanego dochodu”, oraz danych identyfikujących rolnika, w tym imieniu i nazwisku oraz miejscu zamieszkania rolnika.
 2.
-Do oświadczenia, o którym mowa w ust. 1, dołącza się odpis decyzji naczelnika urzędu skarbowego wydanej na podstawie deklaracji o rodzajach i rozmiarach zamierzonej produkcji w roku podatkowym, o której mowa w art. 43 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.), zwanej dalej „decyzją”.
+Do oświadczenia, o którym mowa w ust. 1, dołącza się odpis decyzji naczelnika urzędu skarbowego wydanej na podstawie deklaracji o rodzajach i rozmiarach zamierzonej produkcji w roku podatkowym, o której mowa w art. 43 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089, 1428, 1448, 1530, 1971, 2056, 2175, 2201 i 2203.), zwanej dalej „decyzją”.
 3.
 Kwota przewidywanego dochodu w roku podatkowym powinna być zgodna z kwotą dochodu ustaloną w decyzji.
 4.
@@ -107,5 +104,5 @@ Dokonaną na pokrycie danego tytułu wykonawczego wpłatę rozlicza się na pokr
 § 8.
 W przypadku złożenia przez rolnika oświadczenia, o którym mowa w § 3 ust. 1, po upływie terminów określonych w § 3 ust. 7, 10 i 11 lub zgłoszenia zmian mających wpływ na wysokość składki i podleganie ubezpieczeniu zdrowotnemu po upływie wyznaczonego terminu, o którym mowa w § 5 ust. 1, do dnia 31 marca 2018 r. do ustalenia wysokości składki stosuje się przepisy dotychczasowe.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 20 grudnia 2004 r. w sprawie szczegółowego sposobu ustalania podstawy wymiaru składek na ubezpieczenie zdrowotne rolników, ich domowników oraz osób pobierających emeryturę lub rentę rolniczą, a także terminów i trybu ich opłacania (Dz. U. poz. 2872), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 3 ustawy z dnia 2 grudnia 2016 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. poz. 2250). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089, 1428, 1448, 1530, 1971, 2056, 2175, 2201 i 2203. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 20 grudnia 2004 r. w sprawie szczegółowego sposobu ustalania podstawy wymiaru składek na ubezpieczenie zdrowotne rolników, ich domowników oraz osób pobierających emeryturę lub rentę rolniczą, a także terminów i trybu ich opłacania (Dz. U. poz. 2872), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 3 ustawy z dnia 2 grudnia 2016 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. poz. 2250).
 

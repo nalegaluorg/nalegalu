@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-05-12 |
 | Data wydania | 2006-06-27 |
-| Wejście w życie | 2006-07-12 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061070722) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/722/text.pdf) |
 
@@ -33,7 +32,7 @@ source: "eli-html"
 1. Osoby, które:
 
 - **1)** uzyskały uprawnienia tłumacza przysięgłego przed dniem wejścia w życie ustawy albo
-- **2)** zostały ustanowione tłumaczem przysięgłym na podstawie przepisów obowiązujących przed dniem wejścia w życie ustawy, lecz nie złożyły przyrzeczenia wobec prezesa sądu okręgowego stają się tłumaczami przysięgłymi w rozumieniu ustawy pod warunkiem wpisu, na swój wniosek, złożony w terminie 2 lat od dnia wejścia w życie ustawy, na listę tłumaczy przysięgłych, o której mowa w art. 6 ust. 2. Osoby, o których mowa w pkt 2, przed uzyskaniem wpisu na listę tłumaczy przysięgłych są obowiązane złożyć wobec Ministra Sprawiedliwości ślubowanie, zgodnie z art. 7.
+- **2)** zostały ustanowione tłumaczem przysięgłym na podstawie przepisów obowiązujących przed dniem wejścia w życie ustawy, lecz nie złożyły przyrzeczenia wobec prezesa sądu okręgowego – stają się tłumaczami przysięgłymi w rozumieniu ustawy pod warunkiem wpisu, na swój wniosek, złożony w terminie 2 lat od dnia wejścia w życie ustawy, na listę tłumaczy przysięgłych, o której mowa w art. 6 ust. 2. Osoby, o których mowa w pkt 2, przed uzyskaniem wpisu na listę tłumaczy przysięgłych są obowiązane złożyć wobec Ministra Sprawiedliwości ślubowanie, zgodnie z art. 7.
 
 2. Do wniosku, o którym mowa w ust. 1, tłumacz przysięgły załącza także zaświadczenie, wydane przez prezesa sądu, przy którym został ustanowiony, potwierdzające okoliczności ustanowienia tłumaczem przysięgłym.
 

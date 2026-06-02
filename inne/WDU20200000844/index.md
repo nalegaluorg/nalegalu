@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 8 maja 2020 r. w sprawie sposobu prowadzenia postępowania kwalifikacyjnego dla kandydatów na stanowisko wojewódzkiego inspektora ochrony roślin i nasiennictwa i jego zastępcy
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 8 maja 2020 r. w sprawie sposobu prowadzenia postępowania kwalifikacyjnego dla kandydatów na stanowisko wojewódzkiego inspektora ochrony roślin i nasiennictwa i jego zastępcy Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-05-08 |
 | Data wydania | 2020-05-12 |
-| Wejście w życie | 2020-05-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000844) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/844/text.pdf) |
 
@@ -236,8 +235,7 @@ odrzucenia przez komisję kwalifikacyjną wszystkich ofert złożonych do postę
 2)
 niewyłonienia kandydata, lub
 3)
-unieważnienia postępowania
-przeprowadza się ponowne postępowanie kwalifikacyjne.
+unieważnienia postępowania – przeprowadza się ponowne postępowanie kwalifikacyjne.
 2.
 Główny Inspektor zamieszcza ogłoszenie o ponownym postępowaniu kwalifikacyjnym przed upływem 30 dni od dnia zakończenia poprzedniego postępowania kwalifikacyjnego.
 § 16.
@@ -252,6 +250,5 @@ Do postępowań kwalifikacyjnych wszczętych i niezakończonych przed dniem wej�
 2.
 Do stwierdzenia nieważności postępowania kwalifikacyjnego zakończonego przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy tego rozporządzenia.
 § 18.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 17 września 2004 r. w sprawie warunków i sposobu prowadzenia postępowania kwalifikacyjnego dla kandydatów na stanowisko wojewódzkiego inspektora ochrony roślin i nasiennictwa oraz jego zastępców (Dz. U. poz. 2215 oraz z 2009 r. poz. 1534), które zgodnie z art. 68 ust. 1 pkt 1 ustawy z dnia 13 lutego 2020 r. o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa (Dz. U. poz. 425 i 695) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 17 września 2004 r. w sprawie warunków i sposobu prowadzenia postępowania kwalifikacyjnego dla kandydatów na stanowisko wojewódzkiego inspektora ochrony roślin i nasiennictwa oraz jego zastępców (Dz. U. poz. 2215 oraz z 2009 r. poz. 1534), które zgodnie z art. 68 ust. 1 pkt 1 ustawy z dnia 13 lutego 2020 r. o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa (Dz. U. poz. 425 i 695) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 17 września 2004 r. w sprawie warunków i sposobu prowadzenia postępowania kwalifikacyjnego dla kandydatów na stanowisko wojewódzkiego inspektora ochrony roślin i nasiennictwa oraz jego zastępców (Dz. U. poz. 2215 oraz z 2009 r. poz. 1534), które zgodnie z art. 68 ust. 1 pkt 1 ustawy z dnia 13 lutego 2020 r. o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa (Dz. U. poz. 425 i 695) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

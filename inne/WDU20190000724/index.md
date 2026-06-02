@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 12 kwietnia 2019 r. w sprawie konkursu na kandydata na stanowisko dyrektora instytucji kultury
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 12 kwietnia 2019 r. w sprawie konkursu na kandydata na stanowisko dyrektora instytucji kultury Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-12 |
 | Data wydania | 2019-04-18 |
-| Wejście w życie | 2019-04-19 |
 | Ostatnia zmiana | 2025-09-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000724) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/724/text.pdf) |
 
@@ -52,8 +51,7 @@ Przepisów ust. 1 i 2 nie stosuje się do konkursu przeprowadzanego w związku z
 1)
 wygaśnięciem aktu powołania albo
 2)
-odwołaniem
-dotychczasowego dyrektora instytucji kultury przed upływem okresu, na jaki został powołany, oraz w przypadku konkursu na dyrektora nowej instytucji kultury.
+odwołaniem – dotychczasowego dyrektora instytucji kultury przed upływem okresu, na jaki został powołany, oraz w przypadku konkursu na dyrektora nowej instytucji kultury.
 § 4.
 1.
 Organizator ogłasza konkurs nie później niż:
@@ -66,8 +64,7 @@ Przepisów ust. 1 nie stosuje się do konkursu przeprowadzanego w związku z:
 1)
 wygaśnięciem aktu powołania albo
 2)
-odwołaniem
-dotychczasowego dyrektora przed upływem okresu, na jaki został powołany.
+odwołaniem – dotychczasowego dyrektora przed upływem okresu, na jaki został powołany.
 3.
 Ogłoszenie o konkursie zamieszcza się:
 1)
@@ -138,6 +135,5 @@ Komisja kończy działalność po przekazaniu organizatorowi wyników konkursu w
 § 13.
 W przypadku gdy kadencja dotychczasowego dyrektora instytucji kultury kończy się przed dniem 19 kwietnia 2020 r. i dochowanie terminów, o których mowa w § 3 ust. 1 i § 4 ust. 1, jest niemożliwe, stosuje się § 3 ust. 2.
 § 14.
-Rozporządzenie wchodzi w życie z dniem 19 kwietnia 2019 r.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury z dnia 30 czerwca 2004 r. w sprawie organizacji i trybu przeprowadzania konkursu na kandydata na stanowisko dyrektora instytucji kultury (Dz. U. poz. 1629), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 4 ustawy z dnia 6 grudnia 2018 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2019 r. poz. 115).
+Rozporządzenie wchodzi w życie z dniem 19 kwietnia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury z dnia 30 czerwca 2004 r. w sprawie organizacji i trybu przeprowadzania konkursu na kandydata na stanowisko dyrektora instytucji kultury (Dz. U. poz. 1629), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 4 ustawy z dnia 6 grudnia 2018 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2019 r. poz. 115). 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury z dnia 30 czerwca 2004 r. w sprawie organizacji i trybu przeprowadzania konkursu na kandydata na stanowisko dyrektora instytucji kultury (Dz. U. poz. 1629), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 4 ustawy z dnia 6 grudnia 2018 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2019 r. poz. 115).
 

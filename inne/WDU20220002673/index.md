@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-08 |
 | Data wydania | 2022-12-19 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002673) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2673/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Przyjmowanie, przechowywanie i wydawanie depozytów pieniężnych Rozdział 3 – Przyjmowanie, przechowywanie i wydawanie depozytów wartościowych Rozdział 4 – Przekazywanie depozytów pieniężnych i wartościowych między zakładami Rozdział 5 – Rozliczanie wynagrodzenia za pracę Rozdział 6 – Dokonywanie zakupów Rozdział 7 – Pobieranie zryczałtowanej opłaty miesięcznej w związku z użytkowaniem sprzętu elektronicznego lub elektrycznego Rozdział 8 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 249 § 3 pkt 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 249 § 3 pkt 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 472, 1236 i 2054 oraz z 2022 r. poz. 22, 655, 1855 i 2600.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa czynności administracyjne zakładów karnych i aresztów śledczych, zwanych dalej „zakładami”, związane z prowadzeniem depozytu przedmiotów wartościowych i środków pieniężnych osób pozbawionych wolności, dotyczące w szczególności: przyjmowania, przechowywania, wydawania, przekazywania między jednostkami organizacyjnymi, rozliczania należności za pracę, dokonywania zakupów oraz ewidencjonowania i dokumentowania tych czynności.
 § 2.
@@ -49,6 +49,7 @@ pieczątka imienna – pieczątkę zawierającą w szczególności imię i nazwi
 dyspozycja transportowa – dokument informujący o mającym nastąpić przetransportowaniu osadzonego;
 8)
 finansowy pakiet depozytowy – zaklejoną i opieczętowaną kopertę zawierającą koperty z przedmiotami wartościowymi, karty depozytowe oraz dokumenty dotyczące zobowiązań finansowych.
+Przyjmowanie, przechowywanie i wydawanie depozytów pieniężnych
 § 3.
 1.
 Depozyty pieniężne przyjmuje i wydaje depozytor, a w razie jego nieobecności – funkcjonariusz lub pracownik.
@@ -151,6 +152,7 @@ Depozytor zawiadamia na piśmie dział penitencjarny oraz osobę odpowiedzialną
 W przypadku przyjęcia osadzonego z transportu, zwolnienia z zakładu, skreślenia z ewidencji lub zgonu depozytor przekazuje pisemną informację o tym fakcie do organów egzekucyjnych lub wierzycieli w terminie 7 dni od dnia zaistnienia tego zdarzenia.
 4.
 Zakład przyjmujący osadzonego z transportu przejmuje realizację zajęć egzekucyjnych i innych tytułów wykonawczych.
+Przyjmowanie, przechowywanie i wydawanie depozytów wartościowych
 § 13.
 1.
 Przy przyjęciu osadzonego do zakładu depozytor, w obecności osadzonego, przyjmuje depozyt wartościowy i umieszcza go w kopercie depozytowej oraz zakleja.
@@ -210,6 +212,7 @@ sposobu przechowywania i zabezpieczenia koperty depozytowej.
 W przypadku stwierdzenia w trakcie inwentaryzacji niezgodności zawartości koperty depozytowej z opisem, niezgodności zapisów i podpisów, uszkodzenia koperty lub braku możliwości sprawdzenia zawartości koperty depozytowej, depozyt wartościowy umieszcza się w nowej kopercie depozytowej, stosując przepisy § 14.
 § 20.
 W sprawach nieuregulowanych w niniejszym rozdziale przepisy § 3, § 4, § 10 oraz § 11 ust. 2 i 4 stosuje się odpowiednio.
+Przekazywanie depozytów pieniężnych i wartościowych między zakładami
 § 21.
 1.
 Na podstawie dyspozycji transportowej depozytor sporządza w 3 egzemplarzach oznaczonych jako A, B i C finansowy wykaz depozytów, który podpisują główny księgowy i depozytor.
@@ -245,6 +248,7 @@ Jeżeli transport grupowy został rozdzielony, a zakład otrzymał finansowy pak
 Środki pieniężne, które wpłyną do zakładu po przetransportowaniu osadzonego, dział finansowy przekazuje do zakładu, w którym osadzony aktualnie przebywa, w terminie 7 dni od dnia ich wpływu.
 2.
 Rozliczenia środków pieniężnych dokonuje dział finansowy zakładu, w którym osadzony aktualnie przebywa.
+Rozliczanie wynagrodzenia za pracę
 § 25.
 1.
 Podstawę rozliczenia wynagrodzenia za pracę stanowi lista płac.
@@ -293,6 +297,7 @@ potrąceń z tytułu zajęć egzekucyjnych lub innych tytułów wykonawczych;
 pozostającej do dyspozycji osadzonego.
 § 29.
 Środki pieniężne uzyskane z potrąceń, o których mowa w art. 125 § 1 i art. 143 § 1 pkt 7 k.k.w., dział finansowy przekazuje właściwym podmiotom do końca miesiąca, w którym nastąpił wpływ środków z tytułu wynagrodzenia.
+Dokonywanie zakupów
 § 30.
 1.
 Osadzeni, z wyjątkiem wskazanych w art. 92 pkt 8 k.k.w., dokonują zakupów w kantynie w sposób określony w porządku wewnętrznym, na podstawie paragonów.
@@ -315,17 +320,35 @@ Dokonanie zakupów potwierdza podpisem na paragonach osadzony, osoba wydająca t
 Kwotę stanowiącą równowartość dokonanych przez osadzonego zakupów depozytor rozlicza w części III karty depozytowej.
 7.
 Decyzje o nagrodzie, uldze lub karze dyscyplinarnej, związanej z prawem do dokonywania zakupów, dział penitencjarny przekazuje niezwłocznie do działu finansowego.
+Pobieranie zryczałtowanej opłaty miesięcznej w związku z użytkowaniem sprzętu elektronicznego lub elektrycznego
 § 31.
 1.
 Potrącenia zryczałtowanej miesięcznej opłaty, o której mowa w art. 110b § 1 k.k.w., dokonuje się na podstawie wykazów przekazanych za pośrednictwem poczty elektronicznej do działu finansowego w pierwszym dniu roboczym każdego miesiąca o godz. 6.00. Wykazy generowane są przez system raportujący, na podstawie danych w Centralnej Bazie Danych Osób Pozbawionych Wolności według stanu na pierwszy dzień roboczy miesiąca na godz. 00.00.
 2.
 Środki finansowe, o których mowa w art. 110b § 2 k.k.w., podlegają przekazaniu w terminie do piątego dnia każdego miesiąca za miesiąc poprzedni.
+Przepis końcowy
 § 32.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 28 grudnia 2017 r. w sprawie prowadzenia depozytu przedmiotów wartościowych i środków pieniężnych osób pozbawionych wolności (Dz. U. z 2018 r. poz. 196), które traci moc z dniem wejścia w życie ustawy z dnia 5 sierpnia 2022 r. o zmianie ustawy – Kodeks karny wykonawczy oraz niektórych innych ustaw (Dz. U. poz. 1855). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 472, 1236 i 2054 oraz z 2022 r. poz. 22, 655, 1855 i 2600. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 28 grudnia 2017 r. w sprawie prowadzenia depozytu przedmiotów wartościowych i środków pieniężnych osób pozbawionych wolności (Dz. U. z 2018 r. poz. 196), które traci moc z dniem wejścia w życie ustawy z dnia 5 sierpnia 2022 r. o zmianie ustawy – Kodeks karny wykonawczy oraz niektórych innych ustaw (Dz. U. poz. 1855).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Przyjmowanie, przechowywanie i wydawanie depozytów pieniężnych
+#### Rozdział 2 – Przyjmowanie, przechowywanie i wydawanie depozytów pieniężnych
+
+#### Rozdział 3 – Przyjmowanie, przechowywanie i wydawanie depozytów wartościowych
+
+#### Rozdział 4 – Przekazywanie depozytów pieniężnych i wartościowych między zakładami
+
+#### Rozdział 5 – Rozliczanie wynagrodzenia za pracę
+
+#### Rozdział 6 – Dokonywanie zakupów
+
+#### Rozdział 7 – Pobieranie zryczałtowanej opłaty miesięcznej w związku z użytkowaniem sprzętu elektronicznego lub elektrycznego
+
+#### Rozdział 8 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
 
 ### Dział finansowy, na wniosek osadzonego, przekazuje środki pieniężne na rzecz określonych osób, instytucji lub organizacji, w formie polecenia przelewu lub za pośrednictwem operatora. W uzasadnionych przypadkach dyrektor zakładu może wyrazić zgodę na dokonanie wypłaty w zakładzie.
 
@@ -333,19 +356,19 @@ Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
 
 ### Dział finansowy na pisemny wniosek osadzonego dokonuje wymiany zagranicznych środków płatniczych przekazanych do depozytu wartościowego na krajowe środki płatnicze w banku położonym najbliżej siedziby zakładu.
 
-#### Rozdział 3 Przyjmowanie, przechowywanie i wydawanie depozytów wartościowych
+#### Rozdział 3
 
-#### Rozdział 4 Przekazywanie depozytów pieniężnych i wartościowych między zakładami
+#### Rozdział 4
 
 ### Dział finansowy na podstawie egzemplarza A finansowego wykazu depozytów dokonuje, w terminie 7 dni od dnia przetransportowania, przelewu środków pieniężnych na rachunki bankowe zakładu przyjmującego transport osadzonych. Egzemplarz A stanowi podstawę do rozliczenia środków pieniężnych w części III karty depozytowej.
 
-#### Rozdział 5 Rozliczanie wynagrodzenia za pracę
+#### Rozdział 5
 
-#### Rozdział 6 Dokonywanie zakupów
+#### Rozdział 6
 
 ### Dział finansowy otrzymuje z kantyny oryginały paragonów wraz z ich zestawieniem, zawierającym w szczególności numer Identyfikatora Danych Osobowych (IDO) osadzonego oraz wartość dokonanych przez niego zakupów.
 
-#### Rozdział 7 Pobieranie zryczałtowanej opłaty miesięcznej w związku z użytkowaniem sprzętu elektronicznego lub elektrycznego
+#### Rozdział 7
 
-#### Rozdział 8 Przepis końcowy
+#### Rozdział 8
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Infrastrukturyz dnia 7 czerwca 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie dokumentów oraz informacji wymaganych przy ubieganiu się o zezwolenie na zarządzanie lotniskiem użytku publicznego
+# Obwieszczenie Ministra Infrastrukturyz dnia 7 czerwca 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie dokumentów oraz informacji wymaganych przy ubieganiu się o zezwolenie na zarządzanie lotniskiem użytku publicznego Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 
 | Pole | Wartość |
 |---|---|
@@ -37,19 +37,14 @@ rozporządzeniem Ministra Infrastruktury z dnia 19 kwietnia 2018 r. zmieniający
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 28 grudnia 2017 r. zmieniającego rozporządzenie w sprawie dokumentów oraz informacji wymaganych przy ubieganiu się o zezwolenie na zarządzanie lotniskiem użytku publicznego (Dz. U. z 2018 r. poz. 26), który stanowi:
-„
+§ 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 28 grudnia 2017 r. zmieniającego rozporządzenie w sprawie dokumentów oraz informacji wymaganych przy ubieganiu się o zezwolenie na zarządzanie lotniskiem użytku publicznego (Dz. U. z 2018 r. poz. 26), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Infrastruktury z dnia 19 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie dokumentów oraz informacji wymaganych przy ubieganiu się o zezwolenie na zarządzanie lotniskiem użytku publicznego (Dz. U. poz. 805), który stanowi:
-„
+§ 2 rozporządzenia Ministra Infrastruktury z dnia 19 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie dokumentów oraz informacji wymaganych przy ubieganiu się o zezwolenie na zarządzanie lotniskiem użytku publicznego (Dz. U. poz. 805), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2018 r.
-” .
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
-Załącznik – Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 20 lutego 2013 r. w sprawie dokumentów oraz informacji wymaganych przy ubieganiu się o zezwolenie na zarządzanie lotniskiem użytku publicznego
+Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2018 r. ” . 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
+Załącznik – Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 20 lutego 2013 r. w sprawie dokumentów oraz informacji wymaganych przy ubieganiu się o zezwolenie na zarządzanie lotniskiem użytku publicznegoObecnie działem administracji rządowej – transport kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 Na podstawie art. 175a ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2018 r. poz. 1183) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe wymagania w zakresie dokumentów oraz informacji, jakie jest obowiązany przedstawić przedsiębiorca ubiegający się o zezwolenie na prowadzenie działalności gospodarczej w zakresie zarządzania lotniskiem użytku publicznego.
@@ -59,7 +54,7 @@ Do wniosku, o którym mowa w art. 175 ust. 1 ustawy z dnia 3 lipca 2002 r. – P
 1)
 dokumenty określające jego status prawny (akt zawiązania osoby prawnej, wypis z właściwego rejestru);
 2)
-(uchylony);
+(uchylony);Przez § 1 rozporządzenia Ministra Infrastruktury z dnia 19 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie dokumentów oraz informacji wymaganych przy ubieganiu się o zezwolenie na zarządzanie lotniskiem użytku publicznego (Dz. U. poz. 805), które weszło w życie z dniem 30 kwietnia 2018 r.
 3)
 oświadczenie o nadaniu numeru identyfikacji podatkowej (NIP);
 4)
@@ -80,7 +75,7 @@ e)
 założenia stanowiące podstawę dla sporządzenia prognoz finansowych,
 f)
 informację, że przedsiębiorca nie zalega z płatnościami składek na ubezpieczenia społeczne i zdrowotne ani płatnościami podatków oraz opłat publicznoprawnych, albo oświadczenie, że zawarto ugodę dotyczącą zaległych płatności;
-7)
+7W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 28 grudnia 2017 r. zmieniającego rozporządzenie w sprawie dokumentów oraz informacji wymaganych przy ubieganiu się o zezwolenie na zarządzanie lotniskiem użytku publicznego (Dz. U. z 2018 r. poz. 26), które weszło w życie z dniem 6 stycznia 2018 r.)
 zatwierdzone sprawozdanie finansowe za poprzedni rok obrotowy wraz ze sprawozdaniem z badania, jeżeli obowiązek poddania sprawozdania finansowego badaniu wynika z przepisów o rachunkowości lub innych przepisów szczególnych dotyczących sprawozdań finansowych – w przypadku przedsiębiorcy prowadzącego działalność gospodarczą w roku obrotowym poprzedzającym rok złożenia wniosku;
 8)
 oświadczenia osób zarządzających działalnością przedsiębiorstwa, że nie cofnięto im koncesji lub zezwolenia na prowadzenie działalności gospodarczej w okresie ostatnich 5 lat przed złożeniem wniosku;
@@ -130,6 +125,5 @@ Dokumenty, o których mowa w § 2, sporządzone w języku obcym dołącza się w
 § 4.
 Traci moc rozporządzenie Ministra Infrastruktury z dnia 4 sierpnia 2005 r. w sprawie dokumentów oraz informacji, jakie jest obowiązany przedstawić przedsiębiorca ubiegający się o zezwolenie na zarządzanie lotniskiem użytku publicznego (Dz. U. poz. 1535).
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – transport kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) Przez § 1 rozporządzenia Ministra Infrastruktury z dnia 19 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie dokumentów oraz informacji wymaganych przy ubieganiu się o zezwolenie na zarządzanie lotniskiem użytku publicznego (Dz. U. poz. 805), które weszło w życie z dniem 30 kwietnia 2018 r. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 28 grudnia 2017 r. zmieniającego rozporządzenie w sprawie dokumentów oraz informacji wymaganych przy ubieganiu się o zezwolenie na zarządzanie lotniskiem użytku publicznego (Dz. U. z 2018 r. poz. 26), które weszło w życie z dniem 6 stycznia 2018 r. 4) Rozporządzenie zostało ogłoszone w dniu 28 lutego 2013 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 28 lutego 2013 r.. 1) Obecnie działem administracji rządowej – transport kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) Przez § 1 rozporządzenia Ministra Infrastruktury z dnia 19 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie dokumentów oraz informacji wymaganych przy ubieganiu się o zezwolenie na zarządzanie lotniskiem użytku publicznego (Dz. U. poz. 805), które weszło w życie z dniem 30 kwietnia 2018 r. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 28 grudnia 2017 r. zmieniającego rozporządzenie w sprawie dokumentów oraz informacji wymaganych przy ubieganiu się o zezwolenie na zarządzanie lotniskiem użytku publicznego (Dz. U. z 2018 r. poz. 26), które weszło w życie z dniem 6 stycznia 2018 r. 4) Rozporządzenie zostało ogłoszone w dniu 28 lutego 2013 r.
 

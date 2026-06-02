@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 10 listopada 2020 r. zmieniające rozporządzenie w sprawie szczegółowych zasad otrzymywania i wysokości uposażenia zasadniczego policjantów, dodatków do uposażenia oraz ustalania wysługi lat, od której jest uzależniony wzrost uposażenia zasadniczego
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 10 listopada 2020 r. zmieniające rozporządzenie w sprawie szczegółowych zasad otrzymywania i wysokości uposażenia zasadniczego policjantów, dodatków do uposażenia oraz ustalania wysługi lat, od której jest uzależniony wzrost uposażenia zasadniczego Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,36 +22,29 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-10 |
 | Data wydania | 2020-11-10 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001988) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1988/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 101 ust. 2, art. 102 i art. 104 ust. 6 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2020 r. poz. 360, 956 i 1610) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 6 grudnia 2001 r. w sprawie szczegółowych zasad otrzymywania i wysokości uposażenia zasadniczego policjantów, dodatków do uposażenia oraz ustalania wysługi lat, od której jest uzależniony wzrost uposażenia zasadniczego (Dz. U. z 2015 r. poz. 1236, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 6 grudnia 2001 r. w sprawie szczegółowych zasad otrzymywania i wysokości uposażenia zasadniczego policjantów, dodatków do uposażenia oraz ustalania wysługi lat, od której jest uzależniony wzrost uposażenia zasadniczego (Dz. U. z 2015 r. poz. 1236, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 385, z 2017 r. poz. 135 i 253, z 2018 r. poz. 309, 486 i 819, z 2019 r. poz. 240, 366 i 636 oraz z 2020 r. poz. 599.) wprowadza się następujące zmiany:
 1)
 w § 6:
 a)
-w ust. 1 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 i 12 w brzmieniu:
-„
+w ust. 1 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 i 12 w brzmieniu: „
 11)
 dodatek kontrterrorystyczny;
 12)
-dodatek dla policjantów w wyodrębnionych oddziałach prewencji.
-” ,
+dodatek dla policjantów w wyodrębnionych oddziałach prewencji. ” ,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Dodatki do uposażenia wymienione w ust. 1 pkt 1–9 oraz 11–12 są dodatkami o charakterze stałym.
-” ;
+Dodatki do uposażenia wymienione w ust. 1 pkt 1–9 oraz 11–12 są dodatkami o charakterze stałym. ” ;
 2)
 w § 15 w ust. 1 uchyla się pkt 3;
 3)
-po § 15 dodaje się § 15a i §15b w brzmieniu:
-„
-Dodatek kontrterrorystyczny
+po § 15 dodaje się § 15a i §15b w brzmieniu: „ Dodatek kontrterrorystyczny
 § 15a.
 1.
 Policjantowi pełniącemu służbę na stanowisku etatowym w Centralnym Pododdziale Kontrterrorystycznym Policji „BOA” lub w samodzielnym pododdziale kontrterrorystycznym Policji przysługuje dodatek kontrterrorystyczny w wysokości 500 złotych.
@@ -65,9 +58,7 @@ Przy ustalaniu, podwyższaniu i obniżaniu wysokości dodatku kontrterrorystyczn
 1.
 Policjantowi pełniącemu służbę na stanowisku etatowym w oddziale prewencji Policji lub samodzielnym pododdziale prewencji Policji przysługuje dodatek dla policjantów w wyodrębnionych oddziałach prewencji w wysokości 500 złotych.
 2.
-Przepis ust. 1 nie ma zastosowania do policjanta w służbie kandydackiej.
-” .
+Przepis ust. 1 nie ma zastosowania do policjanta w służbie kandydackiej. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 385, z 2017 r. poz. 135 i 253, z 2018 r. poz. 309, 486 i 819, z 2019 r. poz. 240, 366 i 636 oraz z 2020 r. poz. 599.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 385, z 2017 r. poz. 135 i 253, z 2018 r. poz. 309, 486 i 819, z 2019 r. poz. 240, 366 i 636 oraz z 2020 r. poz. 599.
 

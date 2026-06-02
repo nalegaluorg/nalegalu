@@ -22,22 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-11-06 |
 | Data wydania | 2012-11-19 |
-| Wejście w życie | 2012-12-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001269) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1269/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 10 ust. 8 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. Nr 26, poz. 306, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 10 ust. 8 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. Nr 26, poz. 306, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 85, poz. 924 i Nr 154, poz. 1799, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 45, poz. 391, Nr 60, poz. 535 i Nr 180, poz. 1759, z 2004 r. Nr 116, poz. 1207, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 28, poz. 143, Nr 96, poz. 620 i Nr 238, poz. 1578 oraz z 2011 r. Nr 291, poz. 1707.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sportu i Turystyki z dnia 17 stycznia 2012 r. w sprawie przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi (Dz. U. poz. 112) § 3 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Sportu i Turystyki z dnia 17 stycznia 2012 r. w sprawie przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi (Dz. U. poz. 112) § 3 otrzymuje brzmienie: „
 § 3.
 Nagrodę roczną przyznaje:
 1)
 kierownikom podmiotów, o których mowa w art. 1 pkt 2 i 9 ustawy – minister właściwy do spraw kultury fizycznej albo minister właściwy do spraw turystyki;
 2)
-zastępcom kierowników i głównym księgowym podmiotów, o których mowa w art. 1 pkt 2 i 9 ustawy – organ lub osoba właściwe dla nich w sprawach z zakresu prawa pracy.
-” .
+zastępcom kierowników i głównym księgowym podmiotów, o których mowa w art. 1 pkt 2 i 9 ustawy – organ lub osoba właściwe dla nich w sprawach z zakresu prawa pracy. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 85, poz. 924 i Nr 154, poz. 1799, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 45, poz. 391, Nr 60, poz. 535 i Nr 180, poz. 1759, z 2004 r. Nr 116, poz. 1207, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 28, poz. 143, Nr 96, poz. 620 i Nr 238, poz. 1578 oraz z 2011 r. Nr 291, poz. 1707.
 

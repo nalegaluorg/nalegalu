@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 12 października 2017 r. w sprawie wyznaczenia organu do prowadzenia Rejestru Zastawów Skarbowych
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 12 października 2017 r. w sprawie wyznaczenia organu do prowadzenia Rejestru Zastawów Skarbowych Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-12 |
 | Data wydania | 2017-10-16 |
-| Wejście w życie | 2017-10-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001919) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1919/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 43 § 5 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatk
 § 1.
 Wyznacza się Naczelnika Trzeciego Urzędu Skarbowego w Szczecinie do prowadzenia Rejestru Zastawów Skarbowych.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 

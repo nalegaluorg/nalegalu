@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwojuz dnia 6 czerwca 2016 r. w sprawie wymagań dla urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej
+# Rozporządzenie Ministra Rozwojuz dnia 6 czerwca 2016 r. w sprawie wymagań dla urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-06 |
 | Data wydania | 2016-06-09 |
-| Wejście w życie | 2016-06-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000817) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/817/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Procedury oceny zgodności Rozdział 3 – Zakres dokumentacji technicznej i elementy deklaracji zgodności Rozdział 4 – Sposób oznakowania urządzeń i systemów ochronnych Rozdział 5 – Przepis końcowy
+Treść rozporządzenia
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Procedury oceny zgodności
+
+#### Rozdział 3 – Zakres dokumentacji technicznej i elementy deklaracji zgodności
+
+#### Rozdział 4 – Sposób oznakowania urządzeń i systemów ochronnych
+
+#### Rozdział 5 – Przepis końcowy
 
 ## Załącznik nr 1 — – Grupy i kategorie urządzeń oraz zakres dotyczących ich wymagań uzupełniających
 
@@ -49,8 +58,9 @@ Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Procedu
 ## Załącznik nr 10 — – Elementy deklaracji zgodności
 
 Treść rozporządzenia
-Na podstawie art. 12 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2014/34/UE Parlamentu Europejskiego i Rady z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej (Dz. Urz. UE L 96 z 29.03.2014, str. 309). Na podstawie art. 12 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542) zarządza się, co następuje:
+Rozdział 1
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -106,7 +116,8 @@ użytkowanie zgodnie z przeznaczeniem – użycie wyrobu zalecane przez producen
 Grupy i kategorie urządzeń oraz zakres dotyczących ich wymagań uzupełniających określa załącznik nr 1 do rozporządzenia.
 2.
 Wymagania w zakresie projektowania i budowy dla urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej, sprzętu zabezpieczającego, sterującego i regulacyjnego przeznaczonego do użytku poza atmosferą potencjalnie wybuchową, który wymagany jest lub przyczynia się do bezpiecznego funkcjonowania urządzeń i systemów ochronnych wobec zagrożeń wybuchowych, oraz komponentów, które są częścią urządzeń i systemów ochronnych, określa załącznik nr 2 do rozporządzenia.
-Rozdział 2 Procedury oceny zgodności
+Rozdział 2
+Procedury oceny zgodności
 § 5.
 Procedurami oceny zgodności dla urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej, sprzętu zabezpieczającego, sterującego i regulacyjnego przeznaczonego do użytku poza atmosferą potencjalnie wybuchową, który wymagany jest lub przyczynia się do bezpiecznego funkcjonowania urządzeń i systemów ochronnych wobec zagrożeń wybuchowych, oraz komponentów, które są częścią urządzeń i systemów ochronnych, stosowanymi przez producenta przed wprowadzeniem ich do obrotu są:
 1)
@@ -154,12 +165,14 @@ W przypadku, o którym mowa w ust. 3, producent wystawia pisemne świadectwo zgo
 W przypadku wymagań dotyczących bezpieczeństwa ludzi, o których mowa w załączniku nr 2 pkt 1.2.7 do rozporządzenia, oprócz procedur oceny zgodności określonych w ust. 1 i 2, można również zastosować moduł A.
 6.
 Przepisów ust. 1, 2 i 5 nie stosuje się do urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej innych niż komponenty, a których użytkowanie jest istotne dla bezpieczeństwa, w przypadku gdy na uzasadniony wniosek producenta albo importera wydane zostało zezwolenie na wprowadzenie do obrotu lub oddanie do użytku tych urządzeń i systemów ochronnych.
-Rozdział 3 Zakres dokumentacji technicznej i elementy deklaracji zgodności
+Rozdział 3
+Zakres dokumentacji technicznej i elementy deklaracji zgodności
 § 7.
 Dokumentacja techniczna, w celu zapewnienia zgodności wyrobu, zawiera, odpowiednio do zastosowanej procedury oceny zgodności, informacje określone w załączniku nr 3 pkt 3 ppkt 3 do rozporządzenia, w załączniku nr 8 pkt 2 do rozporządzenia lub w załączniku nr 9 pkt 2 do rozporządzenia.
 § 8.
 Elementy deklaracji zgodności określa załącznik nr 10 do rozporządzenia.
-Rozdział 4 Sposób oznakowania urządzeń i systemów ochronnych
+Rozdział 4
+Sposób oznakowania urządzeń i systemów ochronnych
 § 9.
 1.
 Urządzenia i systemy ochronne przeznaczone do użytku w atmosferze potencjalnie wybuchowej, sprzęt zabezpieczający, sterujący i regulacyjny przeznaczony do użytku poza atmosferą potencjalnie wybuchową, który wymagany jest lub przyczynia się do bezpiecznego funkcjonowania urządzeń i systemów ochronnych wobec zagrożeń wybuchowych, są objęte oznakowaniem CE, które umieszcza się przed wprowadzeniem ich do obrotu.
@@ -177,10 +190,10 @@ Za oznakowaniem CE oraz, w stosownych przypadkach, za numerem identyfikacyjnym j
 Za oznakowaniem CE oraz, w stosownych przypadkach, za numerem identyfikacyjnym jednostki notyfikowanej, a także za oznakowaniami, symbolami i informacjami, o których mowa w ust. 6, można umieścić znaki wskazujące na szczególne zagrożenie lub szczególne zastosowanie wyrobu.
 8.
 Na urządzeniach i systemach ochronnych, które zostały zaprojektowane dla atmosfery wybuchowej spowodowanej przez gazy, pary lub mgły lub dla atmosfery wybuchowej spowodowanej przez pyły, umieszcza się oznakowanie, o którym mowa w załączniku nr 2 pkt 1.0.4 ppkt 7 i 8 do rozporządzenia.
-Rozdział 5 Przepis końcowy
+Rozdział 5
+Przepis końcowy
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2014/34/UE Parlamentu Europejskiego i Rady z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej (Dz. Urz. UE L 96 z 29.03.2014, str. 309). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 22 grudnia 2005 r. w sprawie zasadniczych wymagań dla urządzeń i systemów ochronnych przeznaczonych do użytku w przestrzeniach zagrożonych wybuchem (Dz. U. poz. 2203), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 131 ust. 1 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 22 grudnia 2005 r. w sprawie zasadniczych wymagań dla urządzeń i systemów ochronnych przeznaczonych do użytku w przestrzeniach zagrożonych wybuchem (Dz. U. poz. 2203), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 131 ust. 1 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542). 1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2014/34/UE Parlamentu Europejskiego i Rady z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej (Dz. Urz. UE L 96 z 29.03.2014, str. 309). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 22 grudnia 2005 r. w sprawie zasadniczych wymagań dla urządzeń i systemów ochronnych przeznaczonych do użytku w przestrzeniach zagrożonych wybuchem (Dz. U. poz. 2203), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 131 ust. 1 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542).
 
 ## Załącznik nr 1 — – Grupy i kategorie urządzeń oraz zakres dotyczących ich wymagań uzupełniających
 
@@ -191,8 +204,7 @@ Kategoria urządzeń M 1 obejmuje urządzenia zaprojektowane i, w razie potrzeby
 1)
 w przypadku defektu jednego ze środków zabezpieczających, przynajmniej drugi niezależny środek zapewni wymagany poziom zabezpieczenia albo
 2)
-wymagany poziom zabezpieczenia będzie zapewniony w przypadku wystąpienia dwóch niezależnych od siebie uszkodzeń.
-Urządzenia tej kategorii muszą spełniać wymagania uzupełniające określone w załączniku nr 2 pkt 2.0.1 do rozporządzenia.
+wymagany poziom zabezpieczenia będzie zapewniony w przypadku wystąpienia dwóch niezależnych od siebie uszkodzeń. Urządzenia tej kategorii muszą spełniać wymagania uzupełniające określone w załączniku nr 2 pkt 2.0.1 do rozporządzenia.
 2.
 Kategoria urządzeń M 2 obejmuje urządzenia zaprojektowane tak, aby mogły funkcjonować zgodnie z parametrami ruchowymi ustalonymi przez producenta oraz by mogły zapewnić wysoki poziom zabezpieczenia. Urządzenia tej kategorii przeznaczone są do prac w wyrobiskach podziemnych kopalń i w częściach instalacji powierzchniowych kopalń, w których istnieje prawdopodobieństwo wystąpienia zagrożenia gazem kopalnianym lub pyłem palnym. Urządzenie jest przewidziane do wyłączenia w przypadku wystąpienia atmosfery wybuchowej. Środki zabezpieczenia dotyczące urządzeń tej kategorii zapewniają wymagany poziom zabezpieczenia podczas normalnego działania, a także w przypadku bardziej surowych warunków eksploatacji, w szczególności powstałych na skutek nieostrożnego obchodzenia się z urządzeniem i zmieniających się warunków środowiska. Urządzenia tej kategorii muszą spełniać wymagania uzupełniające określone w załączniku nr 2 pkt 2.0.2 do rozporządzenia.
 II.
@@ -200,11 +212,9 @@ Grupa urządzeń II
 1.
 Kategoria urządzeń 1 obejmuje urządzenia zaprojektowane tak, aby mogły funkcjonować zgodnie z parametrami ruchowymi ustalonymi przez producenta oraz zapewniać bardzo wysoki poziom zabezpieczenia. Urządzenia tej kategorii przeznaczone są do użytku w miejscach, w których atmosfera wybuchowa spowodowana przez mieszaniny powietrza z gazami, parami, mgłami lub mieszaniny pyłowo-powietrzne występuje stale, często lub przez długi czas. Urządzenia tej kategorii muszą zapewniać wymagany poziom zabezpieczenia nawet w przypadku rzadko występujących zdarzeń dotyczących urządzeń i charakteryzują się środkami zabezpieczenia takimi, że:
 1)
-w przypadku defektu jednego ze środków zabezpieczających, przynajmniej drugi niezależny środek zapewni wymagany poziom zabezpieczenia
-albo
+w przypadku defektu jednego ze środków zabezpieczających, przynajmniej drugi niezależny środek zapewni wymagany poziom zabezpieczenia albo
 2)
-wymagany poziom zabezpieczenia będzie zapewniony w przypadku wystąpienia dwóch niezależnych od siebie uszkodzeń.
-Urządzenia tej kategorii muszą spełniać wymagania uzupełniające określone w załączniku nr 2 pkt 2.1.
+wymagany poziom zabezpieczenia będzie zapewniony w przypadku wystąpienia dwóch niezależnych od siebie uszkodzeń. Urządzenia tej kategorii muszą spełniać wymagania uzupełniające określone w załączniku nr 2 pkt 2.1.
 2.
 Kategoria urządzeń 2 obejmuje urządzenia zaprojektowane tak, aby mogły funkcjonować zgodnie z parametrami ruchowymi ustalonymi przez producenta i zapewniać wysoki poziom zabezpieczenia. Urządzenia tej kategorii przeznaczone są do użytku w przestrzeniach, w których zachodzi prawdopodobieństwo sporadycznego wystąpienia atmosfery wybuchowej spowodowanej przez gazy, pary, mgły lub mieszaniny pyłowo-powietrzne. Środki zabezpieczenia dotyczące urządzeń tej kategorii zapewniają wymagany poziom zabezpieczenia nawet w przypadku częstych zaburzeń lub uszkodzeń urządzeń, które zwykle należy brać pod uwagę. Urządzenia tej kategorii muszą spełniać wymagania uzupełniające określone w załączniku nr 2 pkt 2.2.
 3.
@@ -228,8 +238,7 @@ przede wszystkim, o ile to możliwe, zapobiec tworzeniu atmosfery wybuchowej prz
 2)
 zapobiec powstaniu zapłonu w atmosferze wybuchowej, uwzględniając charakter każdego źródła zapłonu, elektrycznego lub nieelektrycznego;
 3)
-w przypadku gdyby mimo wszystko doszło do wybuchu zdolnego zagrozić swym działaniem bezpośrednio lub pośrednio bezpieczeństwu osób i, w odpowiednim przypadku, zwierząt domowych lub mienia, natychmiast go powstrzymać lub ograniczyć zasięg płomienia i ciśnienia wybuchu do wystarczającego poziomu bezpieczeństwa.
-Urządzenia i systemy ochronne muszą być zaprojektowane i wykonane po odpowiedniej analizie możliwych uszkodzeń podczas użytkowania, aby uniknąć, na ile jest to możliwe, sytuacji niebezpiecznych. Możliwości nieprawidłowego użytkowania, które można przewidzieć, muszą być brane pod uwagę.
+w przypadku gdyby mimo wszystko doszło do wybuchu zdolnego zagrozić swym działaniem bezpośrednio lub pośrednio bezpieczeństwu osób i, w odpowiednim przypadku, zwierząt domowych lub mienia, natychmiast go powstrzymać lub ograniczyć zasięg płomienia i ciśnienia wybuchu do wystarczającego poziomu bezpieczeństwa. Urządzenia i systemy ochronne muszą być zaprojektowane i wykonane po odpowiedniej analizie możliwych uszkodzeń podczas użytkowania, aby uniknąć, na ile jest to możliwe, sytuacji niebezpiecznych. Możliwości nieprawidłowego użytkowania, które można przewidzieć, muszą być brane pod uwagę.
 1.0.2.
 Szczególne warunki kontroli i konserwacji Urządzenia i systemy ochronne podlegające szczególnym warunkom kontroli i konserwacji muszą być projektowane i wytwarzane z uwzględnieniem tych warunków.
 1.0.3.
@@ -251,8 +260,7 @@ oznakowanie specjalne zabezpieczenia przeciwwybuchowego, a za nim symbol grupy u
 7)
 w przypadku urządzeń grupy II literę „G” (dotyczącą atmosfery wybuchowej spowodowanej przez gazy, pary lub mgły) lub
 8)
-literę „D” (dotyczącą atmosfery wybuchowej spowodowanej przez pyły).
-Ponadto tam, gdzie jest to niezbędne, powinny one również być oznakowane wszystkimi informacjami istotnymi dla ich bezpiecznego użytkowania.
+literę „D” (dotyczącą atmosfery wybuchowej spowodowanej przez pyły). Ponadto tam, gdzie jest to niezbędne, powinny one również być oznakowane wszystkimi informacjami istotnymi dla ich bezpiecznego użytkowania.
 1.0.5.
 Instrukcje W zakresie bezpieczeństwa dokumentacja opisująca urządzenie lub system ochronny nie może być sprzeczna z instrukcjami dołączanymi do każdego urządzenia i systemu ochronnego zawierającymi co najmniej:
 1)
@@ -416,8 +424,7 @@ w miarę potrzeb urządzenie należy konstruować tak, aby pył nie mógł do ni
 5)
 w celu zapobieżenia zapaleniu pyłu zawieszonego temperatury powierzchni części urządzeń powinny być wyraźnie niższe od temperatury zapłonu przewidywanej mieszaniny pyłowo-powietrznej;
 6)
-urządzenia muszą być tak zaprojektowane, aby otwarcie ich części, które mogą być źródłem zapłonu, było możliwe tylko przy wyłączonym zasilaniu lub w warunkach iskrobezpiecznych. Jeżeli wyłączenie urządzeń nie jest możliwe, producent powinien umieścić tabliczkę ostrzegawczą na otwieranych częściach urządzeń.
-W razie potrzeby urządzenia muszą być wyposażone w odpowiednie dodatkowe systemy blokujące.
+urządzenia muszą być tak zaprojektowane, aby otwarcie ich części, które mogą być źródłem zapłonu, było możliwe tylko przy wyłączonym zasilaniu lub w warunkach iskrobezpiecznych. Jeżeli wyłączenie urządzeń nie jest możliwe, producent powinien umieścić tabliczkę ostrzegawczą na otwieranych częściach urządzeń. W razie potrzeby urządzenia muszą być wyposażone w odpowiednie dodatkowe systemy blokujące.
 2.0.2.
 Wymagania mające zastosowanie do urządzeń grupy I kategorii M 2 Urządzenia grupy I kategorii M 2 muszą spełniać następujące wymagania:
 1)
@@ -439,20 +446,17 @@ wymagany poziom zabezpieczenia był zapewniony w przypadku wystąpienia dwóch n
 2)
 w urządzeniach, których powierzchnie mogą się nagrzewać, muszą być wprowadzone środki zapewniające, że nawet w najbardziej niekorzystnych okolicznościach nie zostanie przekroczona określona maksymalna dopuszczalna temperatura powierzchni. Należy uwzględnić również przyrosty temperatury wynikające z akumulacji ciepła i z reakcji chemicznych;
 3)
-muszą być tak zaprojektowane, aby otwarcie ich części, które mogą być źródłem zapłonu, było możliwe tylko przy wyłączonym zasilaniu lub w warunkach iskrobezpiecznych. Jeżeli wyłączenie urządzeń nie jest możliwe, producent powinien umieścić tabliczkę ostrzegawczą na otwieranych częściach urządzeń. W razie potrzeby urządzenia muszą być wyposażone w odpowiednie dodatkowe systemy blokujące.
-Niniejsze wymaganie dotyczy bezpiecznego otwierania części urządzeń również w atmosferze wybuchowej spowodowanej przez mieszaniny pyłowo-powietrzne.
+muszą być tak zaprojektowane, aby otwarcie ich części, które mogą być źródłem zapłonu, było możliwe tylko przy wyłączonym zasilaniu lub w warunkach iskrobezpiecznych. Jeżeli wyłączenie urządzeń nie jest możliwe, producent powinien umieścić tabliczkę ostrzegawczą na otwieranych częściach urządzeń. W razie potrzeby urządzenia muszą być wyposażone w odpowiednie dodatkowe systemy blokujące. Niniejsze wymaganie dotyczy bezpiecznego otwierania części urządzeń również w atmosferze wybuchowej spowodowanej przez mieszaniny pyłowo-powietrzne.
 2.1.2.
 Atmosfera wybuchowa spowodowana przez mieszaniny pyłowo-powietrzne Urządzenia grupy II kategorii 1 działające w atmosferze wybuchowej spowodowanej przez mieszaniny pyłowo-powietrzne muszą spełniać następujące wymagania:
 1)
-muszą być tak zaprojektowane i wykonane, aby nie wystąpiło zapalenie mieszanin pyłowo-powietrznych, nawet w przypadku rzadkich zdarzeń dotyczących urządzeń.
-Muszą być one wyposażone w takie środki zabezpieczające, aby:
+muszą być tak zaprojektowane i wykonane, aby nie wystąpiło zapalenie mieszanin pyłowo-powietrznych, nawet w przypadku rzadkich zdarzeń dotyczących urządzeń. Muszą być one wyposażone w takie środki zabezpieczające, aby:
 a)
 w przypadku defektu jednego ze środków zabezpieczających, przynajmniej drugi niezależny środek zapewnił wymagany poziom zabezpieczenia, albo
 b)
 wymagany poziom zabezpieczenia był zapewniony w przypadku wystąpienia dwóch niezależnych od siebie uszkodzeń;
 2)
-gdzie zachodzi konieczność, muszą być zaprojektowane tak, aby wnikanie oraz wydostawanie się pyłu mogło się odbywać tylko w specjalnie do tego celu przewidzianych miejscach urządzenia.
-Wejścia kabli i elementy przyłączeniowe muszą również spełniać to wymaganie;
+gdzie zachodzi konieczność, muszą być zaprojektowane tak, aby wnikanie oraz wydostawanie się pyłu mogło się odbywać tylko w specjalnie do tego celu przewidzianych miejscach urządzenia. Wejścia kabli i elementy przyłączeniowe muszą również spełniać to wymaganie;
 3)
 w celu zapobieżenia zapaleniu pyłu zawieszonego temperatura powierzchni części urządzeń powinna być wyraźnie niższa od temperatury zapalenia spodziewanej mieszaniny pyłowo-powietrznej.
 2.2.
@@ -533,8 +537,7 @@ nazwę i adres producenta oraz, w przypadku wniosku składanego przez upoważnio
 2)
 pisemną deklarację, że taki sam wniosek nie został złożony w żadnej innej jednostce notyfikowanej;
 3)
-dokumentację techniczną, umożliwiającą ocenę zgodności wyrobu z mającymi do niego zastosowanie wymaganiami rozporządzenia oraz obejmuje odpowiednią analizę i ocenę ryzyka. Dokumentacja techniczna określa mające zastosowanie wymagania i obejmuje, w stopniu odpowiednim dla takiej oceny, projekt, produkcję i działanie wyrobu.
-Dokumentacja techniczna zawiera przynajmniej następujące elementy:
+dokumentację techniczną, umożliwiającą ocenę zgodności wyrobu z mającymi do niego zastosowanie wymaganiami rozporządzenia oraz obejmuje odpowiednią analizę i ocenę ryzyka. Dokumentacja techniczna określa mające zastosowanie wymagania i obejmuje, w stopniu odpowiednim dla takiej oceny, projekt, produkcję i działanie wyrobu. Dokumentacja techniczna zawiera przynajmniej następujące elementy:
 a)
 ogólny opis wyrobu,
 b)
@@ -848,7 +851,7 @@ Upoważniony przedstawiciel Zobowiązania producenta określone w pkt 2.2 i 5 mo
 
 Deklaracja zgodności zawiera określone we wskazanej kolejności następujące elementy:
 1.
-Nagłówek „Deklaracja zgodności (Nr XXXX)”.
+Nagłówek „Deklaracja zgodności (Nr XXXX)Producent może, ale nie musi, nadać numer deklaracji zgodności.”.
 2.
 Nazwę wyrobu lub modelu wyrobu (numer wyrobu, typu, partii lub serii).
 3.
@@ -866,6 +869,5 @@ Informację: „… (nazwa i numer jednostki notyfikowanej) przeprowadziła … 
 9.
 Informacje dodatkowe, o ile występują.
 10.
-Informację, w czyim imieniu deklaracja zgodności została podpisana, oraz imię, nazwisko, stanowisko i podpis osoby upoważnionej do sporządzenia deklaracji zgodności, a także miejsce i datę sporządzenia tej deklaracji.
-1) Producent może, ale nie musi, nadać numer deklaracji zgodności.
+Informację, w czyim imieniu deklaracja zgodności została podpisana, oraz imię, nazwisko, stanowisko i podpis osoby upoważnionej do sporządzenia deklaracji zgodności, a także miejsce i datę sporządzenia tej deklaracji. 1) Producent może, ale nie musi, nadać numer deklaracji zgodności.
 

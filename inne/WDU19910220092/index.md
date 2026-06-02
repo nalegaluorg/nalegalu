@@ -22,13 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1991-02-14 |
 | Data wydania | 1991-03-21 |
-| Wejście w życie | 1991-04-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910220092) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/92/text.pdf) |
 
-Treść ustawy Dział I – Przepisy wprowadzające Dział II – Zmiany w przepisach obowiązujących Dział III – Przepis końcowy
+Przepisy wprowadzające
+Zmiany w przepisach obowiązujących
+Przepis końcowy
 
-### Dział I Przepisy wprowadzające
+### Dział I – Przepisy wprowadzające
+
+### Dział II – Zmiany w przepisach obowiązujących
+
+### Dział III – Przepis końcowy
+
+### Dział I
 
 **Art. 1.** Ustawa – Prawo o notariacie wchodzi w życie po upływie 1 miesiąca od dnia ogłoszenia.
 
@@ -132,7 +139,7 @@ Treść ustawy Dział I – Przepisy wprowadzające Dział II – Zmiany w przep
 
 **Art. 22.** W okresie znoszenia państwowych biur notarialnych wydatki tych biur, nie pokryte przez biura, są ponoszone z budżetu Ministerstwa Sprawiedliwości.
 
-### Dział II Zmiany w przepisach obowiązujących
+### Dział II
 
 **Art. 23.** W Kodeksie postępowania cywilnego wprowadza się następujące zmiany:
 
@@ -246,7 +253,7 @@ Treść ustawy Dział I – Przepisy wprowadzające Dział II – Zmiany w przep
 - **17)** w art. 111 wyrazy „prezesa komisji arbitrażowej” i przecinek przed tymi wyrazami skreśla się;
 - **18)** w art. 123 w ust. 1 i 3 użyte w odpowiedniej liczbie i przypadku wyrazy „państwowe biuro notarialne” zastępuje się użytymi w takiej samej liczbie i przypadku wyrazami „sąd rejonowy”.
 
-### Dział III Przepis końcowy
+### Dział III
 
 **Art. 25.** Ustawa wchodzi w życie po upływie 1 miesiąca od dnia ogłoszenia.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 17 lutego 2016 r. w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych
+# Rozporządzenie Ministra Zdrowiaz dnia 17 lutego 2016 r. w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy Rady 93/42/EWG z dnia 14 czerwca 1993 r. dotyczącej wyrobów medycznych (Dz. Urz. WE L 169 z 12.07.1993, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 12, str. 82, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-02-17 |
 | Data wydania | 2016-02-19 |
-| Wejście w życie | 2016-02-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000211) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/211/text.pdf) |
 
@@ -108,8 +107,7 @@ przeprowadza ocenę zgodności z zastosowaniem procedur:
 a)
 deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 2 do rozporządzenia, albo
 b)
-deklaracji zgodności WE – zapewnienie jakości produkcji, określonej w załączniku nr 5 do rozporządzenia
-odnoszących się do uzyskania i utrzymania sterylności do momentu otwarcia lub uszkodzenia opakowania oraz do działań jednostki notyfikowanej w tym zakresie;
+deklaracji zgodności WE – zapewnienie jakości produkcji, określonej w załączniku nr 5 do rozporządzenia – odnoszących się do uzyskania i utrzymania sterylności do momentu otwarcia lub uszkodzenia opakowania oraz do działań jednostki notyfikowanej w tym zakresie;
 2)
 po zakończeniu procedury sporządza oświadczenie, w którym stwierdza, że sterylizacja została przeprowadzona zgodnie z instrukcjami wytwórców.
 7.
@@ -128,7 +126,7 @@ Autoryzowany przedstawiciel może przeprowadzić ocenę zgodności wyrobu medycz
 § 9.
 Wysokość opłaty za wydanie przez Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, zwanego dalej „Prezesem Urzędu”, opinii, o której mowa w art. 29 ust. 9 ustawy, w przypadku opinii dotyczącej:
 1)
-substancji, która stosowana oddzielnie byłaby produktem leczniczym antyseptycznym, tradycyjnym produktem leczniczym roślinnym, o którym mowa w art. 20a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.), zwanej dalej „Prawem farmaceutycznym”, lub produktem leczniczym roślinnym, dla którego opracowano monografię wspólnotową – wynosi 240% minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę, zwanego dalej „minimalnym wynagrodzeniem”;
+substancji, która stosowana oddzielnie byłaby produktem leczniczym antyseptycznym, tradycyjnym produktem leczniczym roślinnym, o którym mowa w art. 20a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28, 277, 788, 875, 1771, 1830, 1918, 1926 i 1991.), zwanej dalej „Prawem farmaceutycznym”, lub produktem leczniczym roślinnym, dla którego opracowano monografię wspólnotową – wynosi 240% minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę, zwanego dalej „minimalnym wynagrodzeniem”;
 2)
 zmiany, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 1 – wynosi 100% minimalnego wynagrodzenia;
 3)
@@ -158,11 +156,12 @@ zmiany, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, dotyczą
 15)
 substancji będącej dopuszczonym do obrotu produktem leczniczym innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 500% minimalnego wynagrodzenia.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 20 lutego 2016 r.
+Rozporządzenie wchodzi w życie z dniem 20 lutego 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 12 stycznia 2011 r. w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych (Dz. U. Nr 16, poz. 74), które traci moc z dniem 20 lutego 2016 r. w związku z wejściem w życie ustawy z dnia 11 września 2015 r. o zmianie ustawy o wyrobach medycznych oraz niektórych innych ustaw (Dz. U. poz. 1918). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy Rady 93/42/EWG z dnia 14 czerwca 1993 r. dotyczącej wyrobów medycznych (Dz. Urz. WE L 169 z 12.07.1993, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 12, str. 82, z późn. zm.). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28, 277, 788, 875, 1771, 1830, 1918, 1926 i 1991. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 12 stycznia 2011 r. w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych (Dz. U. Nr 16, poz. 74), które traci moc z dniem 20 lutego 2016 r. w związku z wejściem w życie ustawy z dnia 11 września 2015 r. o zmianie ustawy o wyrobach medycznych oraz niektórych innych ustaw (Dz. U. poz. 1918).
 
 ## Załącznik nr 1 — – Wymagania zasadnicze dla wyrobów medycznych
 
-Część I. Wymagania ogólne
+Część I.
+Wymagania ogólne
 1.
 Wyroby medyczne muszą być zaprojektowane i wytworzone tak, aby ich stosowanie w przewidzianych warunkach i zgodnie z przewidzianym zastosowaniem nie zagrażało zdrowiu i bezpieczeństwu pacjentów, użytkowników oraz innych osób. Ryzyko związane z używaniem wyrobu medycznego zgodnie z przewidzianym zastosowaniem może być dopuszczone pod warunkiem, że przeważają korzyści wynikające z jego zastosowania u pacjenta, i że wyroby zapewniają wysoki poziom bezpieczeństwa i ochrony zdrowia. Wymagania te obejmują w szczególności:
 1)
@@ -189,7 +188,8 @@ Dla wyrobu medycznego:
 ryzyko działań niepożądanych musi być możliwe do przyjęcia uwzględniając przewidziane działanie wyrobu medycznego;
 2)
 wykazanie zgodności z wymaganiami zasadniczymi musi obejmować ocenę kliniczną, chyba że wykazanie zgodności z wymaganiami zasadniczymi bez wykonania oceny klinicznej jest należycie uzasadnione.
-Część II. Wymagania dotyczące projektu i wykonania
+Część II.
+Wymagania dotyczące projektu i wykonania
 7.
 Właściwości chemiczne, fizyczne i biologiczne
 7.1.
@@ -760,8 +760,7 @@ metod monitorowania skuteczności systemu jakości;
 4)
 zapisów dotyczących jakości, w szczególności sprawozdania z kontroli, badań, wzorcowań i dokumenty dotyczące kwalifikacji personelu;
 5)
-jeżeli końcową kontrolę i badania końcowe wyrobów medycznych lub ich elementów przeprowadza inny podmiot – metod monitorowania skutecznego funkcjonowania systemu jakości, a w szczególności rodzaj i zakres nadzoru nad tym podmiotem.
-Kontrola dokumentacji systemu jakości określonej w pkt 1–5 nie obejmuje tych elementów procesów wytwarzania, które dotyczą zapewnienia sterylności.
+jeżeli końcową kontrolę i badania końcowe wyrobów medycznych lub ich elementów przeprowadza inny podmiot – metod monitorowania skutecznego funkcjonowania systemu jakości, a w szczególności rodzaj i zakres nadzoru nad tym podmiotem. Kontrola dokumentacji systemu jakości określonej w pkt 1–5 nie obejmuje tych elementów procesów wytwarzania, które dotyczą zapewnienia sterylności.
 3.3.
 Jednostka notyfikowana dokonuje audytów systemu jakości w celu ustalenia, czy spełnia wymagania określone w ust. 3.2, przyjmując przy tym domniemanie, że system jakości, w przypadku którego wdrożono odpowiednie normy zharmonizowane, jest zgodny z tymi wymaganiami. W skład zespołu oceniającego wchodzi co najmniej jedna osoba posiadająca doświadczenie w ocenie danej technologii. Procedura oceny obejmuje inspekcję w zakładzie wytwórcy, a także, w uzasadnionych przypadkach, w zakładach dostawców lub podwykonawców wytwórcy w celu kontroli procesów wytwarzania. Jednostka notyfikowana powiadamia wytwórcę o wyniku inspekcji oraz przedstawia wnioski z uzasadnieniami.
 3.4.
@@ -921,8 +920,7 @@ jeżeli wyrób medyczny zawiera, jako integralną część substancję, która u
 f)
 jeżeli wyrób medyczny jest produkowany z wykorzystaniem tkanek pochodzenia zwierzęcego – środki zarządzania ryzykiem zastosowane w celu zmniejszenia ryzyka infekcji,
 g)
-wyniki wykonanych obliczeń projektowych, kontroli, badań technicznych i podobnych.
-Wytwórca podejmuje niezbędne środki w celu zapewnienia, że wyroby wytwarzane są według dokumentacji, o której mowa w pkt 2, i zatwierdza ocenę skuteczności podjętych środków albo, jeżeli to konieczne, przeprowadza audyt skuteczności tych środków.
+wyniki wykonanych obliczeń projektowych, kontroli, badań technicznych i podobnych. Wytwórca podejmuje niezbędne środki w celu zapewnienia, że wyroby wytwarzane są według dokumentacji, o której mowa w pkt 2, i zatwierdza ocenę skuteczności podjętych środków albo, jeżeli to konieczne, przeprowadza audyt skuteczności tych środków.
 4.
 Dokumentacja i oświadczenie wydane zgodnie z niniejszym załącznikiem są przechowywane przez okres określony w art. 32 ust. 1 lub 2 ustawy.
 5.

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 25 lipca 2018 r. w sprawie wykazu jednoosobowych spółek hodowli roślin uprawnych lub hodowli zwierząt gospodarskich o szczególnym znaczeniu dla gospodarki narodowej
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 25 lipca 2018 r. w sprawie wykazu jednoosobowych spółek hodowli roślin uprawnych lub hodowli zwierząt gospodarskich o szczególnym znaczeniu dla gospodarki narodowej Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-25 |
 | Data wydania | 2018-08-08 |
-| Wejście w życie | 2018-08-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001525) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1525/text.pdf) |
 
@@ -33,8 +32,7 @@ Na podstawie art. 5 ust. 6 ustawy z dnia 19 października 1991 r. o gospodarowan
 § 1.
 Określa się wykaz jednoosobowych spółek hodowli roślin uprawnych lub hodowli zwierząt gospodarskich o szczególnym znaczeniu dla gospodarki narodowej, w których prawa z udziałów albo akcji wykonuje Krajowy Ośrodek Wsparcia Rolnictwa, który stanowi załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 13 października 2016 r. w sprawie wykazu jednoosobowych spółek hodowli roślin uprawnych lub hodowli zwierząt gospodarskich o szczególnym znaczeniu dla gospodarki narodowej (Dz. U. poz. 1746), które na podstawie art. 60 ust. 1 pkt 1 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 13 października 2016 r. w sprawie wykazu jednoosobowych spółek hodowli roślin uprawnych lub hodowli zwierząt gospodarskich o szczególnym znaczeniu dla gospodarki narodowej (Dz. U. poz. 1746), które na podstawie art. 60 ust. 1 pkt 1 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 13 października 2016 r. w sprawie wykazu jednoosobowych spółek hodowli roślin uprawnych lub hodowli zwierząt gospodarskich o szczególnym znaczeniu dla gospodarki narodowej (Dz. U. poz. 1746), które na podstawie art. 60 ust. 1 pkt 1 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 Załącznik – Wykaz jednoosobowych spółek hodowli roślin uprawnych lub hodowli zwierząt gospodarskich o szczególnym znaczeniu dla gospodarki narodowej, w których prawa z udziałów albo akcji wykonuje krajowy ośrodek wsparcia rolnictwa
 1.
 Spółki hodowli rośl in uprawnych:

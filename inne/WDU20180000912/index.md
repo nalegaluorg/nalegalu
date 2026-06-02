@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 marca 2018 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
+# Ustawa z dnia 22 marca 2018 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym, ustawę z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, ustawę z dnia 28 listopada 2014 r. o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych oraz ustawę z dnia 15 grudnia 2016 r. o ustanowieniu „Programu modernizacji Służby Więziennej w latach 2017–2020”.
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,45 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-22 |
 | Data wydania | 2018-05-16 |
-| Wejście w życie | 2018-05-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000912) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/912/text.pdf) |
 
-Treść ustawy Art. 1. Art. 2. Art. 3. Art. 4. Art. 5. Art. 6. Art. 7. Art. 8. Art. 9. Art. 10. Art. 11. Art. 12. Art. 13. Art. 14. Art. 15. Art. 16. Art. 17.
-Załącznik – Szczegółowy podział kwot przeznaczonych na realizację programu na poszczególne przedsięwzięcia w Służbie Więziennej w tysiącach złotych
+Kształcenie funkcjonariuszy i pracowników Służby Więziennej
+Służba kandydacka
 
-**Art. 1.** W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2017 r. poz. 631 i 1321 oraz z 2018 r. poz. 138 i 730) wprowadza się następujące zmiany:
+**Art. 1.**
+
+**Art. 2.**
+
+**Art. 3.**
+
+**Art. 4.**
+
+**Art. 5.**
+
+**Art. 6.**
+
+**Art. 7.**
+
+**Art. 8.**
+
+**Art. 9.**
+
+**Art. 10.**
+
+**Art. 11.**
+
+**Art. 12.**
+
+**Art. 13.**
+
+**Art. 14.**
+
+**Art. 15.**
+
+**Art. 16.**
+
+**Art. 17.** Załącznik – Szczegółowy podział kwot przeznaczonych na realizację programu na poszczególne przedsięwzięcia w Służbie Więziennej w tysiącach złotych W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2017 r. poz. 631 i 1321 oraz z 2018 r. poz. 138 i 730) wprowadza się następujące zmiany:
 
 - **1)** po art. 1 dodaje się art. 1a w brzmieniu: „ W celu realizacji uprawnień wynikających z podległości Służby Więziennej Minister Sprawiedliwości może, na podstawie przepisów ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. poz. 1092), przeprowadzać kontrole organów Służby Więziennej i jednostek organizacyjnych Służby Więziennej, o których mowa w art. 7 i art. 8 ust. 1. ” ;
 - **2)** w art. 7 pkt 4 otrzymuje brzmienie: „
@@ -40,7 +71,7 @@ Załącznik – Szczegółowy podział kwot przeznaczonych na realizację progra
 - **3a)** uczelnia Służby Więziennej, zwana dalej „Uczelnią”; ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
-1a. Uczelnia jest uczelnią służb państwowych nadzorowaną przez Ministra Sprawiedliwości, działającą na podstawie przepisów ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm.), posiadającą osobowość prawną, która może realizować proces dydaktyczny również poza swoją siedzibą z wykorzystaniem infrastruktury Służby Więziennej. ” ;
+1a. Uczelnia jest uczelnią służb państwowych nadzorowaną przez Ministra Sprawiedliwości, działającą na podstawie przepisów ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 398, 650, 730 i 912.), posiadającą osobowość prawną, która może realizować proces dydaktyczny również poza swoją siedzibą z wykorzystaniem infrastruktury Służby Więziennej. ” ;
 
 - **4)** w art. 9 w ust. 2 po pkt 2 dodaje się pkt 2a w brzmieniu: „
 - **2a)** na Uczelni: programy studiów, liczbę studentów i liczbę miejsc zakwaterowania, harmonogramy szkoleń i doskonalenia zawodowego; ” ;
@@ -51,8 +82,6 @@ Załącznik – Szczegółowy podział kwot przeznaczonych na realizację progra
 - **5)** w art. 11 w ust. 1 po pkt 9 dodaje się pkt 9a w brzmieniu: „
 - **9a)** ustalanie programów szkoleń wstępnego, zawodowego oraz specjalistycznego w Służbie Więziennej dla funkcjonariuszy i pracowników; ” ;
 - **6)** po art. 13 dodaje się art. 13a w brzmieniu: „
-
-**Art. 13a.**
 
 1. Uczelnią kieruje Rektor.
 
@@ -179,10 +208,10 @@ Załącznik – Szczegółowy podział kwot przeznaczonych na realizację progra
 - **5)** sposób przeprowadzania rozmowy kwalifikacyjnej i testu wiedzy oraz punktację stosowaną do ich oceny,
 - **6)** punktację stosowaną do oceny testu sprawności fizycznej,
 - **7)** sposób dokonywania anonimizacji rankingu kandydatów do służby w Służbie Więziennej ogłaszanego na stronie internetowej podmiotu przeprowadzającego postępowanie kwalifikacyjne,
-- **8)** tryb dokonywania wyboru jednostki organizacyjnej przez kandydatów do służby w Służbie Więziennej uwzględniając powszechność dostępu do informacji o postępowaniu kwalifikacyjnym, czynności niezbędne do przeprowadzenia tego postępowania i ustalenia w jego toku kwalifikacji kandydata, jego kompetencji i przydatności do pełnienia służby w Służbie Więziennej oraz potrzebę zapewnienia sprawności przeprowadzania postępowania kwalifikacyjnego, przejrzystości stosowanych kryteriów oceny, obiektywności wyników postępowania i wyboru kandydatów posiadających w największym stopniu cechy, umiejętności oraz kwalifikacje przydatne do realizacji zadań służbowych, a także mając na względzie charakter służby w Służbie Więziennej oraz warunki jej pełnienia. ” ;
+- **8)** tryb dokonywania wyboru jednostki organizacyjnej przez kandydatów do służby w Służbie Więziennej – uwzględniając powszechność dostępu do informacji o postępowaniu kwalifikacyjnym, czynności niezbędne do przeprowadzenia tego postępowania i ustalenia w jego toku kwalifikacji kandydata, jego kompetencji i przydatności do pełnienia służby w Służbie Więziennej oraz potrzebę zapewnienia sprawności przeprowadzania postępowania kwalifikacyjnego, przejrzystości stosowanych kryteriów oceny, obiektywności wyników postępowania i wyboru kandydatów posiadających w największym stopniu cechy, umiejętności oraz kwalifikacje przydatne do realizacji zadań służbowych, a także mając na względzie charakter służby w Służbie Więziennej oraz warunki jej pełnienia. ” ;
 - **10)** po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „
 
-#### Rozdział 6a Kształcenie funkcjonariuszy i pracowników Służby Więziennej
+#### Rozdział 6a
 
 **Art. 43a.** Kształcenie funkcjonariuszy i pracowników obejmuje:
 
@@ -384,7 +413,7 @@ Załącznik – Szczegółowy podział kwot przeznaczonych na realizację progra
 - **5)** warunki dopuszczenia do szkolenia strzeleckiego,
 - **6)** podstawowe komendy podczas strzelań,
 - **7)** obowiązki uczestników szkolenia strzeleckiego,
-- **8)** zasady użytkowania i wymagania dotyczące strzelnic, będących w zarządzie Służby Więziennej mając na względzie zapewnienie właściwego poziomu umiejętności strzeleckich funkcjonariuszy w zależności od potrzeb jednostek organizacyjnych oraz zapewnienie bezpiecznego przebiegu szkolenia strzeleckiego.
+- **8)** zasady użytkowania i wymagania dotyczące strzelnic, będących w zarządzie Służby Więziennej – mając na względzie zapewnienie właściwego poziomu umiejętności strzeleckich funkcjonariuszy w zależności od potrzeb jednostek organizacyjnych oraz zapewnienie bezpiecznego przebiegu szkolenia strzeleckiego.
 
 1. Doskonalenie zawodowe funkcjonariuszy i pracowników jest organizowane jako:
 
@@ -509,7 +538,7 @@ Załącznik – Szczegółowy podział kwot przeznaczonych na realizację progra
 - **3)** rodzaj wykształcenia wymagany do zajmowania poszczególnych stanowisk,
 - **4)** rodzaj szkolenia specjalistycznego oraz zawodowego wymagany do zajmowania niektórych stanowisk,
 - **5)** maksymalne stopnie przypisane do poszczególnych stanowisk,
-- **6)** tryb nadawania funkcjonariuszom stopni uwzględniając konieczność posiadania przez funkcjonariuszy odpowiednich kwalifikacji specjalistycznych i zawodowych na określonych stanowiskach służbowych. ” ;
+- **6)** tryb nadawania funkcjonariuszom stopni – uwzględniając konieczność posiadania przez funkcjonariuszy odpowiednich kwalifikacji specjalistycznych i zawodowych na określonych stanowiskach służbowych. ” ;
 - **15)** w art. 56 ust. 3 otrzymuje brzmienie: „
 
 3. Przeciętne uposażenie funkcjonariuszy stanowi wielokrotność kwoty bazowej, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa. Przez przeciętne uposażenie funkcjonariuszy należy rozumieć uposażenie wraz z miesięczną równowartością nagrody rocznej. ” ;
@@ -520,7 +549,7 @@ Załącznik – Szczegółowy podział kwot przeznaczonych na realizację progra
 
 - **17)** po rozdziale 7 dodaje się rozdział 7a w brzmieniu: „
 
-#### Rozdział 7a Służba kandydacka
+#### Rozdział 7a
 
 **Art. 62a.** Służba kandydacka polega na:
 
@@ -625,9 +654,11 @@ Załącznik – Szczegółowy podział kwot przeznaczonych na realizację progra
     - **a)**
 
 - **7)** Rektora, Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej i komendanta ośrodka doskonalenia kadr Służby Więziennej,
-- **8)** prorektora Uczelni, zastępcy Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, zastępcy komendanta ośrodka szkolenia Służby Więziennej i zastępcy komendanta ośrodka doskonalenia kadr Służby Więziennej ” , w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) Dyrektor Generalny – w odniesieniu do zastępcy Dyrektora Generalnego, dyrektora okręgowego, Rektora, Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej oraz komendanta ośrodka doskonalenia kadr Służby Więziennej bezpośrednio mu podległego; ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) Rektor – w odniesieniu do prorektora Uczelni; ” ;
+- **8)** prorektora Uczelni, zastępcy Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, zastępcy komendanta ośrodka szkolenia Służby Więziennej i zastępcy komendanta ośrodka doskonalenia kadr Służby Więziennej ” , w ust. 2: pkt 2 otrzymuje brzmienie: „
     - **b)**
 
+- **2)** Dyrektor Generalny – w odniesieniu do zastępcy Dyrektora Generalnego, dyrektora okręgowego, Rektora, Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej oraz komendanta ośrodka doskonalenia kadr Służby Więziennej bezpośrednio mu podległego; ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** Rektor – w odniesieniu do prorektora Uczelni; ” ;
 - **19)** po art. 66 dodaje się art. 66a w brzmieniu: „
 
 **Art. 66a.**
@@ -667,7 +698,7 @@ Załącznik – Szczegółowy podział kwot przeznaczonych na realizację progra
 
 - **1)** przeniesienie funkcjonariusza na niższe stanowisko służbowe, o którym mowa w art. 85 ust. 2,
 - **2)** zwolnienie funkcjonariusza ze służby, o którym mowa w art. 96 ust. 2,
-- **3)** zawieszenie funkcjonariusza w czynnościach służbowych w przypadku, o którym mowa w art. 94 ust. 2 wymaga zgody Ministra Sprawiedliwości.
+- **3)** zawieszenie funkcjonariusza w czynnościach służbowych w przypadku, o którym mowa w art. 94 ust. 2 – wymaga zgody Ministra Sprawiedliwości.
 
 4. Do funkcjonariusza, o którym mowa w ust. 1, nie stosuje się przepisów art. 77 pkt 2 oraz art. 81. ” ;
 
@@ -704,8 +735,11 @@ Załącznik – Szczegółowy podział kwot przeznaczonych na realizację progra
     - **b)**
 
 - **3a)** Rektor – o prorektorach Uczelni, kierownikach komórek organizacyjnych oraz funkcjonariuszach pełniących służbę na stanowiskach samodzielnych; ” ;
-- **26)** w art. 89: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) w służbie stałej – nie później niż 30 dni przed upływem każdych 4 lat służby do osiągnięcia 20 lat służby oraz każdych 5 lat służby po przekroczeniu 20 lat służby; ” , – dodaje się pkt 3 w brzmieniu: „ 3) w służbie kandydackiej – nie później niż w ciągu 7 dni po ukończeniu kursu przygotowawczego oraz nie później niż w terminie 30 dni przed ukończeniem każdego roku studiów. ” , ust. 4 otrzymuje brzmienie: „
+- **26)** w art. 89: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** w służbie stałej – nie później niż 30 dni przed upływem każdych 4 lat służby do osiągnięcia 20 lat służby oraz każdych 5 lat służby po przekroczeniu 20 lat służby; ” , dodaje się pkt 3 w brzmieniu: „
+- **3)** w służbie kandydackiej – nie później niż w ciągu 7 dni po ukończeniu kursu przygotowawczego oraz nie później niż w terminie 30 dni przed ukończeniem każdego roku studiów. ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Opiniowanie służbowe przeprowadza się niezależnie od terminów, o których mowa w ust. 1, w następujących przypadkach:
@@ -720,9 +754,11 @@ Załącznik – Szczegółowy podział kwot przeznaczonych na realizację progra
 - **27)** w art. 96: w ust. 1 pkt 1 otrzymuje brzmienie: „
     - **a)**
 
-- **1)** nieprzydatności do służby stwierdzonej w opinii służbowej w okresie służby przygotowawczej albo w okresie służby kandydackiej; ” , w ust. 2: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) braku postępów w nauce w służbie kandydackiej; ” , – w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „ 10) gdy dalsze pozostawanie funkcjonariusza w służbie nie daje się pogodzić z dobrem służby. ” ;
+- **1)** nieprzydatności do służby stwierdzonej w opinii służbowej w okresie służby przygotowawczej albo w okresie służby kandydackiej; ” , w ust. 2: po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **b)**
 
+- **1a)** braku postępów w nauce w służbie kandydackiej; ” , w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
+- **10)** gdy dalsze pozostawanie funkcjonariusza w służbie nie daje się pogodzić z dobrem służby. ” ;
 - **28)** w art. 97 w ust. 1 po pkt 2 dodaje się pkt 2a-2c w brzmieniu: „
 - **2a)** nieukończenia kursu przygotowawczego, o którym mowa w art. 62c ust. 1;
 - **2b)** nieuzyskania pozytywnej opinii, o której mowa w art. 62c ust. 3;
@@ -852,33 +888,21 @@ Załącznik – Szczegółowy podział kwot przeznaczonych na realizację progra
 
 - **b)**
 - **1)** Dyrektorowi Generalnemu, zastępcy Dyrektora Generalnego, dyrektorowi okręgowemu, Rektorowi, Komendantowi Centralnego Ośrodka Szkolenia Służby Więziennej, komendantowi ośrodka szkolenia Służby Więziennej i komendantowi ośrodka doskonalenia kadr Służby Więziennej bezpośrednio podległego Dyrektorowi Generalnemu oraz funkcjonariuszom Centralnego Zarządu Służby Więziennej – jest Minister Sprawiedliwości;
-- **2)** zastępcy dyrektora okręgowego, dyrektorowi zakładu karnego lub aresztu śledczego, prorektorowi Uczelni, zastępcy Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, zastępcy komendanta ośrodka szkolenia Służby Więziennej, zastępcy komendanta ośrodka doskonalenia kadr Służby Więziennej bezpośrednio podległego Dyrektorowi Generalnemu oraz funkcjonariuszom okręgowego inspektoratu Służby Więziennej, Uczelni, Centralnego Ośrodka Szkolenia Służby Więziennej, ośrodka szkolenia Służby Więziennej i ośrodka doskonalenia kadr Służby Więziennej bezpośrednio podległego Dyrektorowi Generalnemu – jest Dyrektor Generalny; ” .
+- **2)** zastępcy dyrektora okręgowego, dyrektorowi zakładu karnego lub aresztu śledczego, prorektorowi Uczelni, zastępcy Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, zastępcy komendanta ośrodka szkolenia Służby Więziennej, zastępcy komendanta ośrodka doskonalenia kadr Służby Więziennej bezpośrednio podległego Dyrektorowi Generalnemu oraz funkcjonariuszom okręgowego inspektoratu Służby Więziennej, Uczelni, Centralnego Ośrodka Szkolenia Służby Więziennej, ośrodka szkolenia Służby Więziennej i ośrodka doskonalenia kadr Służby Więziennej bezpośrednio podległego Dyrektorowi Generalnemu – jest Dyrektor Generalny; ” . W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 200, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2494 oraz z 2018 r. poz. 106, 138, 317, 398, 650, 685 i 858.) w art. 21 w ust. 1 pkt 80 otrzymuje brzmienie: „
+- **80)** przychody ze stosunku służbowego otrzymane w służbie kandydackiej przez funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Więziennej; ” . W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2018 r. poz. 132, 138 i 730) w art. 5 ust. 2 otrzymuje brzmienie: „
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 200, z późn. zm.) w art. 21 w ust. 1 pkt 80 otrzymuje brzmienie: „
+2. Podstawę wymiaru renty inwalidzkiej dla funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej w służbie kandydackiej stanowi odpowiednie uposażenie zasadnicze przewidziane dla najniższego stanowiska służbowego wraz z dodatkiem za posiadany stopień, z miesiąca, w którym nastąpiło zwolnienie funkcjonariusza ze służby. ” . W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2017 r. poz. 1383, 1386 i 2120 oraz z 2018 r. poz. 138, 357 i 730) w art. 87 ust. 4 otrzymuje brzmienie: „
 
-- **80)** przychody ze stosunku służbowego otrzymane w służbie kandydackiej przez funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Więziennej; ” .
+4. Zasady, o której mowa w ust. 3, nie stosuje się, jeżeli zmniejszenie podstawy wymiaru składek poniżej minimalnego wynagrodzenia nastąpiło na skutek pobierania wynagrodzenia za czas niezdolności do pracy wypłaconego na podstawie przepisów Kodeksu pracy, zasiłków i świadczenia rehabilitacyjnego z ubezpieczenia chorobowego lub z ubezpieczenia wypadkowego. Zasady tej nie stosuje się również, jeżeli podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe stanowiła kwota zasiłku stałego z pomocy społecznej, świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego określonych w przepisach o świadczeniach rodzinnych lub zasiłku dla opiekuna określonego w przepisach o ustaleniu i wypłacie zasiłków dla opiekunów, oraz do: pracowników, o których mowa w art. 6 ust. 2 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2017 r. poz. 847 oraz z 2018 r. poz. 650), żołnierzy niezawodowych w służbie czynnej, ubezpieczonych odbywających służbę zastępczą, a także pozostających w służbie kandydackiej funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej. ” . W ustawie z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. z 2018 r. poz. 373 i 730) w art. 2 pkt 2 otrzymuje brzmienie: „
 
-**Art. 3.** W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2018 r. poz. 132, 138 i 730) w art. 5 ust. 2 otrzymuje brzmienie: „ 2. Podstawę wymiaru renty inwalidzkiej dla funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej w służbie kandydackiej stanowi odpowiednie uposażenie zasadnicze przewidziane dla najniższego stanowiska służbowego wraz z dodatkiem za posiadany stopień, z miesiąca, w którym nastąpiło zwolnienie funkcjonariusza ze służby. ” .
-
-**Art. 4.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2017 r. poz. 1383, 1386 i 2120 oraz z 2018 r. poz. 138, 357 i 730) w art. 87 ust. 4 otrzymuje brzmienie: „ 4. Zasady, o której mowa w ust. 3, nie stosuje się, jeżeli zmniejszenie podstawy wymiaru składek poniżej minimalnego wynagrodzenia nastąpiło na skutek pobierania wynagrodzenia za czas niezdolności do pracy wypłaconego na podstawie przepisów Kodeksu pracy, zasiłków i świadczenia rehabilitacyjnego z ubezpieczenia chorobowego lub z ubezpieczenia wypadkowego. Zasady tej nie stosuje się również, jeżeli podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe stanowiła kwota zasiłku stałego z pomocy społecznej, świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego określonych w przepisach o świadczeniach rodzinnych lub zasiłku dla opiekuna określonego w przepisach o ustaleniu i wypłacie zasiłków dla opiekunów, oraz do: pracowników, o których mowa w art. 6 ust. 2 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2017 r. poz. 847 oraz z 2018 r. poz. 650), żołnierzy niezawodowych w służbie czynnej, ubezpieczonych odbywających służbę zastępczą, a także pozostających w służbie kandydackiej funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej. ” .
-
-**Art. 5.** W ustawie z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. z 2018 r. poz. 373 i 730) w art. 2 pkt 2 otrzymuje brzmienie: „
-
-- **2)** pracownicy – rozumie się osoby zatrudnione w jednostkach, o których mowa w pkt 1, oraz żołnierzy zawodowych, żołnierzy odbywających nadterminową zasadniczą służbę wojskową, żołnierzy odbywających okresową służbę wojskową, funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej i Służby Więziennej – z wyjątkiem pełniących służbę kandydacką – oraz funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego i Służby Celno-Skarbowej; ” .
-
-**Art. 6.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2017 r. poz. 1952 oraz z 2018 r. poz. 107, 138, 650 i 730) w art. 3 w pkt 1 w lit. c tiret dwunaste otrzymuje brzmienie: „ – należności pieniężne ze stosunku służbowego otrzymywane w czasie służby kandydackiej przez funkcjonariuszy Policji, Państwowej Straży Pożarnej, Straży Granicznej, Biura Ochrony Rządu i Służby Więziennej, obliczone za okres, w którym osoby te uzyskały dochód, ” .
-
-**Art. 7.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.) wprowadza się następujące zmiany:
-
+- **2)** pracownicy – rozumie się osoby zatrudnione w jednostkach, o których mowa w pkt 1, oraz żołnierzy zawodowych, żołnierzy odbywających nadterminową zasadniczą służbę wojskową, żołnierzy odbywających okresową służbę wojskową, funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej i Służby Więziennej – z wyjątkiem pełniących służbę kandydacką – oraz funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego i Służby Celno-Skarbowej; ” . W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2017 r. poz. 1952 oraz z 2018 r. poz. 107, 138, 650 i 730) w art. 3 w pkt 1 w lit. c tiret dwunaste otrzymuje brzmienie: „ – należności pieniężne ze stosunku służbowego otrzymywane w czasie służby kandydackiej przez funkcjonariuszy Policji, Państwowej Straży Pożarnej, Straży Granicznej, Biura Ochrony Rządu i Służby Więziennej, obliczone za okres, w którym osoby te uzyskały dochód, ” . W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697, 730, 771 i 858.) wprowadza się następujące zmiany:
 - **1)** w art. 81 ust. 7 otrzymuje brzmienie: „
 
 7. Podstawę wymiaru składek dla funkcjonariuszy Państwowej Straży Pożarnej i Służby Więziennej będących w służbie kandydackiej stanowi kwota odpowiadająca wysokości minimalnego wynagrodzenia. ” ;
 
 - **2)** w art. 85 ust. 3 otrzymuje brzmienie: „
 
-3. Za funkcjonariuszy, o których mowa w art. 81 ust. 7, składkę oblicza, finansuje ze środków własnych i odprowadza odpowiednio szkoła Państwowej Straży Pożarnej albo uczelnia Służby Więziennej. ” .
-
-**Art. 8.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183 i 2201 oraz z 2018 r. poz. 138, 398, 650 i 730) wprowadza się następujące zmiany:
+3. Za funkcjonariuszy, o których mowa w art. 81 ust. 7, składkę oblicza, finansuje ze środków własnych i odprowadza odpowiednio szkoła Państwowej Straży Pożarnej albo uczelnia Służby Więziennej. ” . W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183 i 2201 oraz z 2018 r. poz. 138, 398, 650 i 730) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w ust. 1 pkt 25 otrzymuje brzmienie: „
 - **25)** uczelnia służb państwowych – uczelnię publiczną nadzorowaną przez ministra właściwego do spraw wewnętrznych albo Ministra Sprawiedliwości; ” ;
@@ -935,43 +959,30 @@ Załącznik – Szczegółowy podział kwot przeznaczonych na realizację progra
 
 **Art. 163a.** W uczelni służb państwowych do liczby studentów studiujących na studiach niestacjonarnych nie wlicza się:
 
-- **1)** strażaków w służbie stałej skierowanych na te studia przez właściwego przełożonego, o którym mowa w art. 32 ust. 1 pkt 1–3, 5, 6 i 8 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2017 r. poz. 1204, z późn. zm.);
+- **1)** strażaków w służbie stałej skierowanych na te studia przez właściwego przełożonego, o którym mowa w art. 32 ust. 1 pkt 1–3, 5, 6 i 8 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2017 r. poz. 1204, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1321 i 1567 oraz z 2018 r. poz. 106, 138, 650 i 730.);
 - **2)** funkcjonariuszy Służby Więziennej w służbie stałej skierowanych na te studia przez właściwe organy Służby Więziennej, o których mowa w art. 7 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2017 r. poz. 631 i 1321 oraz z 2018 r. poz. 138, 730 i 912). ” ;
 - **13)** w art. 169 ust. 17 otrzymuje brzmienie: „
 
-17. W uczelni wojskowej i w uczelni służb państwowych warunki i tryb przyjęcia na studia kandydatów na żołnierzy zawodowych i funkcjonariuszy służb państwowych ustala, na wniosek senatu, odpowiednio Minister Obrony Narodowej, minister właściwy do spraw wewnętrznych albo Minister Sprawiedliwości. ” .
+17. W uczelni wojskowej i w uczelni służb państwowych warunki i tryb przyjęcia na studia kandydatów na żołnierzy zawodowych i funkcjonariuszy służb państwowych ustala, na wniosek senatu, odpowiednio Minister Obrony Narodowej, minister właściwy do spraw wewnętrznych albo Minister Sprawiedliwości. ” . W ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2017 r. poz. 1120 oraz z 2018 r. poz. 106, 138 i 730) w art. 35 w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu: „
 
-**Art. 9.** W ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2017 r. poz. 1120 oraz z 2018 r. poz. 106, 138 i 730) w art. 35 w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** Rektor-Komendant uczelni Służby Więziennej; ” . W ustawie z dnia 28 listopada 2014 r. o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych (Dz. U. z 2018 r. poz. 481 i 730) w art. 5 ust. 2 otrzymuje brzmienie: „
 
-- **1a)** Rektor-Komendant uczelni Służby Więziennej; ” .
-
-**Art. 10.** W ustawie z dnia 28 listopada 2014 r. o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych (Dz. U. z 2018 r. poz. 481 i 730) w art. 5 ust. 2 otrzymuje brzmienie: „ 2. Przepis ust. 1 dotyczy także funkcjonariusza Policji, Państwowej Straży Pożarnej, Służby Ochrony Państwa i Służby Więziennej, który odbył służbę kandydacką i chce pozostać w służbie. ” .
-
-**Art. 11.** W ustawie z dnia 15 grudnia 2016 r. o ustanowieniu „Programu modernizacji Służby Więziennej w latach 2017–2020” (Dz. U. poz. 2176) wprowadza się następujące zmiany:
+2. Przepis ust. 1 dotyczy także funkcjonariusza Policji, Państwowej Straży Pożarnej, Służby Ochrony Państwa i Służby Więziennej, który odbył służbę kandydacką i chce pozostać w służbie. ” . W ustawie z dnia 15 grudnia 2016 r. o ustanowieniu „Programu modernizacji Służby Więziennej w latach 2017–2020” (Dz. U. poz. 2176) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 pkt 6 otrzymuje brzmienie: „
 - **6)** budowę nowych jednostek organizacyjnych Służby Więziennej oraz rozbudowę i poprawę infrastruktury budowlanej; ” ;
 - **2)** załącznik nr 1 do ustawy otrzymuje brzmienie określone w załączniku do niniejszej ustawy.
 
-**Art. 12.**
-
 1. Jednostkę organizacyjną Służby Więziennej, o której mowa w art. 8 ust. 1 pkt 3a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, tworzy się w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 2. Jednostka organizacyjna Służby Więziennej, o której mowa w art. 8 ust. 1 pkt 3a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, rozpoczyna funkcjonowanie od dnia 1 stycznia 2019 r. Postępowanie kwalifikacyjne, o którym mowa w art. 39 ustawy zmienianej w art. 1, rozpoczęte i niezakończone przed dniem wejścia w życie ustawy prowadzi się na podstawie przepisów dotychczasowych.
 
-**Art. 14.**
-
 1. Szkolenia wstępne, zawodowe, specjalistyczne lub doskonalenie zawodowe w Służbie Więziennej rozpoczęte i niezakończone przed dniem wejścia w życie ustawy prowadzi się na podstawie przepisów dotychczasowych.
 
-2. Szkolenia wstępne, zawodowe, specjalistyczne lub doskonalenie zawodowe w Służbie Więziennej rozpoczęte po dniu wejścia w życie ustawy i niezakończone przed dniem 1 stycznia 2019 r. prowadzi się na podstawie przepisów dotychczasowych.
-
-**Art. 15.** Minister właściwy do spraw szkolnictwa wyższego w terminie 3 miesięcy od dnia wejścia w życie ustawy dokona zmiany przepisów wykonawczych wydanych na podstawie art. 96 ust. 2 i art. 155 ust. 5 ustawy zmienianej w art. 8 w zakresie dotyczącym uczelni nadzorowanej przez Ministra Sprawiedliwości.
-
-**Art. 16.**
+2. Szkolenia wstępne, zawodowe, specjalistyczne lub doskonalenie zawodowe w Służbie Więziennej rozpoczęte po dniu wejścia w życie ustawy i niezakończone przed dniem 1 stycznia 2019 r. prowadzi się na podstawie przepisów dotychczasowych. Minister właściwy do spraw szkolnictwa wyższego w terminie 3 miesięcy od dnia wejścia w życie ustawy dokona zmiany przepisów wykonawczych wydanych na podstawie art. 96 ust. 2 i art. 155 ust. 5 ustawy zmienianej w art. 8 w zakresie dotyczącym uczelni nadzorowanej przez Ministra Sprawiedliwości.
 
 1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 55 i art. 205 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 55 i art. 205 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 119 ust. 3 i 4 oraz art. 168 ust. 9 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 119 ust. 3 i 4 oraz art. 168 ust. 9 ustawy zmienianej w art. 1, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 119 ust. 3 i 4 oraz art. 168 ust. 9 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 119 ust. 3 i 4 oraz art. 168 ust. 9 ustawy zmienianej w art. 1, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 10 i 12 oraz art. 5, które wchodzą w życie z dniem 1 stycznia 2019 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym, ustawę z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, ustawę z dnia 28 listopada 2014 r. o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych oraz ustawę z dnia 15 grudnia 2016 r. o ustanowieniu „Programu modernizacji Służby Więziennej w latach 2017–2020”. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 398, 650, 730 i 912. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2494 oraz z 2018 r. poz. 106, 138, 317, 398, 650, 685 i 858. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697, 730, 771 i 858. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1321 i 1567 oraz z 2018 r. poz. 106, 138, 650 i 730. Załącznik – Szczegółowy podział kwot przeznaczonych na realizację programu na poszczególne przedsięwzięcia w Służbie Więziennej w tysiącach złotych Lp. Wyszczególnienie 2017 r. 2018 r. 2019 r. 2020 r. RAZEM 1 Zakup uzbrojenia 5 220 2 820 2 016 2 016 12 072 2 Zakup sprzętu i wyposażenia specjalnego 2 193 2 193 2 193 2 193 8 772 3 Zakup i modernizacja urządzeń zabezpieczenia techniczno-ochronnego oraz sprzętu ratowniczo-pożarniczego 2 735 6 775 5 425 5 615 20 550 4 Termomodernizacja obiektów budowlanych 10 000 32 985 33 444 40 221 116 650 5 Zapewnienie bezpieczeństwa elektroenergetycznego jednostek penitencjarnych 5 223 1 666 365 200 7 454 6 Budowa nowych jednostek organizacyjnych Służby Więziennej oraz rozbudowa i poprawa infrastruktury budowlanej 42 442 173 343 159 016 139 525 514 326 7 Zakup i wymiana taboru samochodowego 14 800 14 060 7 780 11 800 48 440 8 Modernizacja systemów informatycznych i systemów łączności 2 000 22 800 8 000 7 100 39 900 9 Modernizacja podmiotów leczniczych dla osób pozbawionych wolności 11 916 30 065 8 014 6 000 55 995 10 Zmiana systemu zatrudniania personelu medycznego 9 600 9 600 9 600 9 600 38 400 11 Wzmocnienie systemu motywacyjnego uposażeń funkcjonariuszy Służby Więziennej, z tego 88 277 95 187 203 081 211 526 598 071 wzrost wielokrotności kwoty bazowej do poziomu 3,19 83 883 90 793 193 317 201 762 569 755 wydatki relacjonowane do uposażeń 4 394 4 394 9 764 9 764 28 316 12 Wzrost konkurencyjności wynagrodzeń pracowników cywilnych Służby Więziennej, z tego 6 162 6 686 14 079 14 708 41 635 wzrost wynagrodzeń 5 140 5 576 11 741 12 265 34 722 pochodne od wynagrodzeń 1 022 1 110 2 338 2 443 6913 Razem 200 568 398 180 453 013 450 504 1 502 265 w tym Źródła finansowania: Budżet CZSW 80 568 123 832 140 885 235 834 581 119 Rezerwa celowa 120 000 274 348 312 128 214 670 921 146
 
-**Art. 17.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 10 i 12 oraz art. 5, które wchodzą w życie z dniem 1 stycznia 2019 r. Załącznik – Szczegółowy podział kwot przeznaczonych na realizację programu na poszczególne przedsięwzięcia w Służbie Więziennej w tysiącach złotych Lp. Wyszczególnienie 2017 r. 2018 r. 2019 r. 2020 r. RAZEM 1 Zakup uzbrojenia 5 220 2 820 2 016 2 016 12 072 2 Zakup sprzętu i wyposażenia specjalnego 2 193 2 193 2 193 2 193 8 772 3 Zakup i modernizacja urządzeń zabezpieczenia techniczno-ochronnego oraz sprzętu ratowniczo-pożarniczego 2 735 6 775 5 425 5 615 20 550 4 Termomodernizacja obiektów budowlanych 10 000 32 985 33 444 40 221 116 650 5 Zapewnienie bezpieczeństwa elektroenergetycznego jednostek penitencjarnych 5 223 1 666 365 200 7 454 6 Budowa nowych jednostek organizacyjnych Służby Więziennej oraz rozbudowa i poprawa infrastruktury budowlanej 42 442 173 343 159 016 139 525 514 326 7 Zakup i wymiana taboru samochodowego 14 800 14 060 7 780 11 800 48 440 8 Modernizacja systemów informatycznych i systemów łączności 2 000 22 800 8 000 7 100 39 900 9 Modernizacja podmiotów leczniczych dla osób pozbawionych wolności 11 916 30 065 8 014 6 000 55 995 10 Zmiana systemu zatrudniania personelu medycznego 9 600 9 600 9 600 9 600 38 400 11 Wzmocnienie systemu motywacyjnego uposażeń funkcjonariuszy Służby Więziennej, z tego 88 277 95 187 203 081 211 526 598 071 wzrost wielokrotności kwoty bazowej do poziomu 3,19 83 883 90 793 193 317 201 762 569 755 wydatki relacjonowane do uposażeń 4 394 4 394 9 764 9 764 28 316 12 Wzrost konkurencyjności wynagrodzeń pracowników cywilnych Służby Więziennej, z tego 6 162 6 686 14 079 14 708 41 635 wzrost wynagrodzeń 5 140 5 576 11 741 12 265 34 722 pochodne od wynagrodzeń 1 022 1 110 2 338 2 443 6913 Razem 200 568 398 180 453 013 450 504 1 502 265 w tym Źródła finansowania: Budżet CZSW 80 568 123 832 140 885 235 834 581 119 Rezerwa celowa 120 000 274 348 312 128 214 670 921 146
 

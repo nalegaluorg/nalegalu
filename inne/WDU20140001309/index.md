@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-09-24 |
 | Data wydania | 2014-09-30 |
-| Wejście w życie | 2014-10-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001309) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1309/text.pdf) |
 
@@ -57,5 +56,5 @@ Obowiązek ubezpieczenia powstaje nie później niż w dniu poprzedzającym dzie
 § 5.
 Przepisy rozporządzenia stosuje się do umów ubezpieczenia zawartych od dnia wejścia w życie rozporządzenia.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 8 października 2014 r.
+Rozporządzenie wchodzi w życie z dniem 8 października 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 18 kwietnia 2012 r. w sprawie obowiązkowego ubezpieczenia biur usług płatniczych wymaganego w związku z wykonywaniem transakcji płatniczych wynikających z umowy o świadczenie usług płatniczych (Dz. U. poz. 434), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 36 ust. 1 ustawy z dnia 12 lipca 2013 r. o zmianie ustawy o usługach płatniczych oraz niektórych innych ustaw (Dz. U. poz. 1036). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 18 kwietnia 2012 r. w sprawie obowiązkowego ubezpieczenia biur usług płatniczych wymaganego w związku z wykonywaniem transakcji płatniczych wynikających z umowy o świadczenie usług płatniczych (Dz. U. poz. 434), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 36 ust. 1 ustawy z dnia 12 lipca 2013 r. o zmianie ustawy o usługach płatniczych oraz niektórych innych ustaw (Dz. U. poz. 1036).
 

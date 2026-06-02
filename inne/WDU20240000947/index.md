@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 25 czerwca 2024 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie szczegółowego zakresu danych zawartych w deklaracjach podatkowych i w ewidencji w zakresie podatku od towarów i usług
+# Rozporządzenie Ministra Finansówz dnia 25 czerwca 2024 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie szczegółowego zakresu danych zawartych w deklaracjach podatkowych i w ewidencji w zakresie podatku od towarów i usług Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-25 |
 | Data wydania | 2024-06-27 |
-| Wejście w życie | 2024-07-01 |
 | Ostatnia zmiana | 2024-06-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000947) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/947/text.pdf) |
 
@@ -37,6 +36,5 @@ w § 2 wyrazy „Do dnia 31 grudnia 2024 r.” zastępuje się wyrazami „Do dn
 3)
 w § 6 wyrazy „z dniem 1 lipca 2024 r.” zastępuje się wyrazami „z dniem 1 lutego 2026 r.”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2024 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2024 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 

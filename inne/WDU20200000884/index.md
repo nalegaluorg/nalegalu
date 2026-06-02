@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-05-06 |
 | Data wydania | 2020-05-18 |
-| Wejście w życie | 2020-05-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000884) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/884/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Sposób ewidencjonowania mienia Skarbu Państwa przez państwowe jednostki organizacyjne i jednostki, którym powierzono mienie Skarbu Państwa Rozdział 3 – Sposób, tryb oraz terminy przekazywania informacji i danych związanych z ewidencjonowaniem mienia Skarbu Państwa Rozdział 4 – Ewidencja zbiorcza mienia Skarbu Państwa Rozdział 5 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 44 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2020 r. poz. 735) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa sposób ewidencjonowania mienia Skarbu Państwa, w tym sposób prowadzenia zbiorczej ewidencji, o której mowa w art. 43 pkt 3 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym, oraz związane z tym obowiązki jednostek organizacyjnych, którym powierzono to mienie.
 § 2.
@@ -38,8 +38,7 @@ jednostce ewidencji podstawowej – należy przez to rozumieć:
 a)
 państwową jednostkę organizacyjną, w zakresie przysługujących jej uprawnień wynikających z praw majątkowych Skarbu Państwa, oraz
 b)
-właściwego ministra, w zakresie praw majątkowych Skarbu Państwa nieprzypisanych państwowym jednostkom organizacyjnym
-zobowiązanych do prowadzenia ewidencji mienia Skarbu Państwa na zasadach określonych w przepisach o rachunkowości;
+właściwego ministra, w zakresie praw majątkowych Skarbu Państwa nieprzypisanych państwowym jednostkom organizacyjnym – zobowiązanych do prowadzenia ewidencji mienia Skarbu Państwa na zasadach określonych w przepisach o rachunkowości;
 2)
 jednostce ewidencji przedmiotowej – należy przez to rozumieć podmiot zobowiązany na podstawie odrębnych przepisów do prowadzenia ewidencji przedmiotowo wyróżnionych składników mienia Skarbu Państwa;
 3)
@@ -48,6 +47,7 @@ jednostce pomocniczej ewidencji zbiorczej – należy przez to rozumieć jednost
 bilansie – należy przez to rozumieć bilans oraz bilans skonsolidowany, o których mowa w przepisach o rachunkowości;
 5)
 bilansie łącznym – należy przez to rozumieć bilans łączny jednostek budżetowych i placówek podległych dysponentowi części budżetowej, sporządzony zgodnie ze szczególnymi zasadami rachunkowości dla jednostek budżetowych.
+Sposób ewidencjonowania mienia Skarbu Państwa przez państwowe jednostki organizacyjne i jednostki, którym powierzono mienie Skarbu Państwa
 § 3.
 Jednostka ewidencji podstawowej sporządza sprawozdanie o stanie mienia Skarbu Państwa na dzień 31 grudnia każdego roku, w formie bilansu, zgodnie z przepisami o rachunkowości.
 § 4.
@@ -55,6 +55,7 @@ Jednostka ewidencji podstawowej sporządza sprawozdanie o stanie mienia Skarbu P
 Jednostka ewidencji przedmiotowej sporządza sprawozdanie o stanie mienia Skarbu Państwa na dzień 31 grudnia każdego roku w formie informacji, której przedmiot, zakres i stopień szczegółowości jest zgodny z przedmiotem, zakresem i stopniem szczegółowości prowadzonej przez nią ewidencji mienia Skarbu Państwa.
 2.
 Jednostka ewidencji przedmiotowej sporządzająca sprawozdanie o stanie mienia Skarbu Państwa w formie wymaganej przez przepisy odrębne jest zwolniona z obowiązku, o którym mowa w ust. 1.
+Sposób, tryb oraz terminy przekazywania informacji i danych związanych z ewidencjonowaniem mienia Skarbu Państwa
 § 5.
 1.
 Jednostki ewidencji podstawowej przekazują jednostce pomocniczej ewidencji zbiorczej kopię sprawozdania, o którym mowa w § 3, w terminach i na zasadach określonych dla przekazywania sprawozdań finansowych, a jeżeli nie mają takiego obowiązku, w terminie 7 dni od dnia zatwierdzenia sprawozdania finansowego.
@@ -81,6 +82,7 @@ Dokument na potrzeby ewidencji mienia Skarbu Państwa sporządza się z uwzględ
 Dokument o stanie mienia Skarbu Państwa jest przekazywany w postaci papierowej, jako kopia dokumentu oryginalnego, lub w postaci elektronicznej.
 2.
 Dokument, o którym mowa w ust. 1, może być przekazany za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344).
+Ewidencja zbiorcza mienia Skarbu Państwa
 § 11.
 1.
 Dokumenty o stanie mienia Skarbu Państwa sporządzone przez jednostki ewidencji podstawowej i jednostki ewidencji przedmiotowej stanowią źródło danych ewidencji zbiorczej mienia Skarbu Państwa.
@@ -269,16 +271,27 @@ prawa majątkowe, które na mocy obowiązujących przepisów zostały przypisane
 W ewidencji zbiorczej mienia Skarbu Państwa wyodrębnia się ponadto zasoby przeznaczone na realizację zobowiązań publicznoprawnych, wynikające z odrębnych przepisów.
 § 22.
 Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej prowadzi ewidencję zbiorczą mienia Skarbu Państwa w systemie teleinformatycznym.
+Przepis końcowy
 § 23.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 20 września 2017 r. w sprawie sposobu ewidencjonowania mienia Skarbu Państwa (Dz. U. poz. 1804), które utraciło moc na podstawie art. 21 ust. 1 ustawy z dnia 21 lutego 2019 r. o zmianie ustawy o zasadach zarządzania mieniem państwowym oraz niektórych innych ustaw (Dz. U. poz. 492). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 20 września 2017 r. w sprawie sposobu ewidencjonowania mienia Skarbu Państwa (Dz. U. poz. 1804), które utraciło moc na podstawie art. 21 ust. 1 ustawy z dnia 21 lutego 2019 r. o zmianie ustawy o zasadach zarządzania mieniem państwowym oraz niektórych innych ustaw (Dz. U. poz. 492).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Sposób ewidencjonowania mienia Skarbu Państwa przez państwowe jednostki organizacyjne i jednostki, którym powierzono mienie Skarbu Państwa
+#### Rozdział 2 – Sposób ewidencjonowania mienia Skarbu Państwa przez państwowe jednostki organizacyjne i jednostki, którym powierzono mienie Skarbu Państwa
 
-#### Rozdział 3 Sposób, tryb oraz terminy przekazywania informacji i danych związanych z ewidencjonowaniem mienia Skarbu Państwa
+#### Rozdział 3 – Sposób, tryb oraz terminy przekazywania informacji i danych związanych z ewidencjonowaniem mienia Skarbu Państwa
 
-#### Rozdział 4 Ewidencja zbiorcza mienia Skarbu Państwa
+#### Rozdział 4 – Ewidencja zbiorcza mienia Skarbu Państwa
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

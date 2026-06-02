@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-09 |
 | Data wydania | 2018-05-17 |
-| Wejście w życie | 2018-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000932) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/932/text.pdf) |
 
@@ -30,7 +29,7 @@ source: "eli-html"
 
 **Art. 2.**
 
-1. Ustawę stosuje się do świadczeniobiorców oraz osób uprawnionych do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji w rozumieniu przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.).
+1. Ustawę stosuje się do świadczeniobiorców oraz osób uprawnionych do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji w rozumieniu przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697, 730, 771 i 858.).
 
 2. Wsparcie, o którym mowa w art. 1, jest realizowane przez świadczeniodawców, o których mowa w art. 5 pkt 41 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
@@ -40,7 +39,7 @@ source: "eli-html"
 
 2. Dostępność, o której mowa w ust. 1, zapewniana jest na zasadach określonych w przepisach ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
-**Art. 4.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697, 730, 771 i 858.) wprowadza się następujące zmiany:
 
 - **1)** w art. 47 po ust. 1a dodaje się ust. 1b w brzmieniu: „
 
@@ -55,5 +54,5 @@ source: "eli-html"
 - **4)** w art. 136 w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu: „
 - **1a)** z zakresu rehabilitacji leczniczej w części dotyczącej świadczeń udzielanych świadczeniobiorcom, o których mowa w art. 47 ust. 1a i 1b, kwota zobowiązania, o której mowa w ust. 1 pkt 5, jest zmieniana przez dostosowanie jej do potrzeb zdrowotnych oraz wykonania tej umowy; ” .
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 lipca 2018 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 lipca 2018 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697, 730, 771 i 858. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697, 730, 771 i 858.
 

@@ -26,16 +26,21 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001270) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1270/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej Rozdział 1 – Przepisy ogólne Rozdział 2 – Zakwaterowanie zbiorowe żołnierzy Rozdział 3 Rozdział 3a Rozdział 4 – Zakwaterowanie żołnierzy zawodowych i innych osób Rozdział 5 – Zakwaterowanie w internatach i kwaterach internatowych Rozdział 6 Rozdział 7 – Zakwaterowanie przejściowe Rozdział 7a – Wykonywanie zadań Agencji przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji Rozdział 8 – Przepisy karne Rozdział 9 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 sierpnia 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 12 i art. 13 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 12 i art. 13 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872), które stanowią: „
+Przepisy ogólne
+Zakwaterowanie zbiorowe żołnierzy
 (uchylony)
 (uchylony)
+Zakwaterowanie żołnierzy zawodowych i innych osób
+Zakwaterowanie w internatach i kwaterach internatowych
 (uchylony)
+Zakwaterowanie przejściowe
+Wykonywanie zadań Agencji przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji
 1.
 Zadania Agencji w stosunku do osób, o których mowa w art. 87 ust. 1 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego, wykonuje państwowa jednostka budżetowa – Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji podległa ministrowi właściwemu do spraw wewnętrznych.
 2.
@@ -46,17 +51,17 @@ Zadania Agencji w stosunku do osób, o których mowa w art. 87 ust. 1 ustawy z d
 (uchylony)
 5.
 (uchylony)
-6.
+6W brzmieniu ustalonym przez art. 3 pkt 7 ustawy, o której mowa w odnośniku 1..
 Osoba fizyczna inna niż wskazana w art. 87 ust. 1 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego, która zajmuje lokal mieszkalny na podstawie umowy najmu, uiszcza opłaty za używanie lokalu mieszkalnego i opłaty pośrednie na zasadach i w wysokości określonych w art. 36 ust. 1 i 3.
 7.
 W przypadku umowy najmu zawartej z osobą prawną, jednostką samorządu terytorialnego albo państwową lub samorządową jednostką organizacyjną nieposiadającą osobowości prawnej, do opłat za używanie lokalu mieszkalnego i opłat pośrednich mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
-1.
+1W brzmieniu ustalonym przez art. 3 pkt 8 lit. a ustawy, o której mowa w odnośniku 1..
 W odniesieniu do lokali mieszkalnych będących w zasobie Zarządu Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji przepisy art. 36 ust. 1 i 3 oraz art. 37 ust. 2 i 3 stosuje się odpowiednio.
-1a.
+1aDodany przez art. 3 pkt 8 lit. b ustawy, o której mowa w odnośniku 1..
 Wartość odtworzeniową lokali mieszkalnych będących w zasobie Zarządu Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji stanowi iloczyn powierzchni użytkowej danego lokalu oraz wskaźnika przeliczeniowego kosztu odtworzenia 1 m2 powierzchni użytkowej budynków mieszkalnych, o którym mowa w art. 2 ust. 1 pkt 12 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725), obowiązującego na dzień 1 stycznia danego roku.
 2.
 Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposób naliczania oraz rozliczania opłat za używanie lokali mieszkalnych i opłat pośrednich, sposób obliczania zaliczek na opłaty pośrednie oraz wzory kalkulacji stawki opłat za używanie 1 m2 powierzchni użytkowej lokalu mieszkalnego, biorąc pod uwagę tytuł prawny do lokali mieszkalnych.
-1.
+1W brzmieniu ustalonym przez art. 3 pkt 9 ustawy, o której mowa w odnośniku 1..
 W odniesieniu do lokali mieszkalnych będących w zasobie Zarządu Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji przepisy art. 31, art. 41, art. 44a, art. 45, art. 48a i art. 48b stosuje się odpowiednio.
 2.
 W przypadku lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej przekazanego do dyspozycji innej jednostki organizacyjnej podległej lub nadzorowanej przez ministra właściwego do spraw wewnętrznych, zajmowanego przez osobę, która otrzymała przydział lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej, na zasadach określonych w przepisach:
@@ -67,8 +72,7 @@ rozdziału 12 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U
 3)
 rozdziału 8 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2024 r. poz. 127 i 1089) lub
 4)
-rozdziału 8 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2024 r. poz. 325 i 1222),
-postępowanie w sprawie opróżnienia lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej prowadzi organ, w którego dyspozycji pozostaje lokal mieszkalny, miejsce w internacie albo kwaterze internatowej, na zasadach i w trybie przewidzianym w przepisach tej ustawy, na podstawie której nastąpił przydział lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej.
+rozdziału 8 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2024 r. poz. 325 i 1222), postępowanie w sprawie opróżnienia lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej prowadzi organ, w którego dyspozycji pozostaje lokal mieszkalny, miejsce w internacie albo kwaterze internatowej, na zasadach i w trybie przewidzianym w przepisach tej ustawy, na podstawie której nastąpił przydział lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej.
 3.
 Dyrektor Zarządu Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji, na wniosek osoby zajmującej lokal mieszkalny w zasobie Zarządu Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji, może dokonać zamiany tego lokalu mieszkalnego na inny lokal mieszkalny, niezasiedlony albo zajmowany przez inną osobę, jeżeli:
 1)
@@ -90,9 +94,8 @@ wzór wezwania do opróżnienia lokalu mieszkalnego, miejsca w internacie albo k
 2)
 wzór decyzji o opróżnieniu lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej,
 3)
-wzór wniosku o zamianę lokalu mieszkalnego
-uwzględniając uproszczony charakter wzorów tych dokumentów.
-1.
+wzór wniosku o zamianę lokalu mieszkalnego – uwzględniając uproszczony charakter wzorów tych dokumentów.
+1W brzmieniu ustalonym przez art. 3 pkt 10 ustawy, o której mowa w odnośniku 1..
 W odniesieniu do internatów i kwater internatowych będących w zasobie Zarządu Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji przepisy art. 51, art. 53 ust. 2 i 4 oraz art. 53a stosuje się odpowiednio.
 2.
 Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
@@ -116,29 +119,53 @@ standard i wyposażenie internatów zabezpieczały potrzeby mieszkaniowe osób u
 przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dokumentu obejmującego zakres wyposażenia oraz jego stan techniczny.
 (uchylony)
 (uchylony)
+Przepisy karne
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Zakwaterowanie zbiorowe żołnierzy
+
+#### Rozdział 3
+
+#### Rozdział 3a
+
+#### Rozdział 4 – Zakwaterowanie żołnierzy zawodowych i innych osób
+
+#### Rozdział 5 – Zakwaterowanie w internatach i kwaterach internatowych
+
+#### Rozdział 6
+
+#### Rozdział 7 – Zakwaterowanie przejściowe
+
+#### Rozdział 7a – Wykonywanie zadań Agencji przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji
+
+#### Rozdział 8 – Przepisy karne
+
+#### Rozdział 9 – Przepisy przejściowe i końcowe
 
 **Art. 12.**
 
 1. Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 48d ust. 17 i art. 53 ust. 5 ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 48d ust. 17 i art. 53 ust. 5 ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą,
-- **2)** art. 35 ust. 2, art. 48 ust. 4, art. 63 ust. 4, art. 87 ust. 3, art. 102, art. 107, art. 287 ust. 6, art. 312 ust. 11, art. 331 ust. 9 i art. 403 ust. 8 ustawy zmienianej w art. 10 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 35 ust. 2, art. 48 ust. 4, art. 63 ust. 4, art. 87 ust. 3, art. 102, art. 107, art. 287 ust. 6, art. 312 ust. 11, art. 331 ust. 9 i art. 403 ust. 8 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie przepisów dotychczasowych.
+- **2)** art. 35 ust. 2, art. 48 ust. 4, art. 63 ust. 4, art. 87 ust. 3, art. 102, art. 107, art. 287 ust. 6, art. 312 ust. 11, art. 331 ust. 9 i art. 403 ust. 8 ustawy zmienianej w art. 10 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 35 ust. 2, art. 48 ust. 4, art. 63 ust. 4, art. 87 ust. 3, art. 102, art. 107, art. 287 ust. 6, art. 312 ust. 11, art. 331 ust. 9 i art. 403 ust. 8 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą – nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie przepisów dotychczasowych.
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 78b ust. 2 i art. 78d ust. 2 ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 78b ust. 2 i art. 78d ust. 2 ustawy zmienianej w art. 3,
-- **2)** art. 127 ust. 18 ustawy zmienianej w art. 10 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 127 ust. 18 ustawy zmienianej w art. 10 nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane.
+- **2)** art. 127 ust. 18 ustawy zmienianej w art. 10 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 127 ust. 18 ustawy zmienianej w art. 10 – nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane.
 
 3. Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 49 ust. 3 i 4 oraz art. 54a ust. 5 ustawy uchylonej w art. 823 pkt 2 ustawy zmienianej w art. 10 i utrzymane przez nią w mocy nie dłużej niż przez 18 miesięcy od dnia jej wejścia w życie zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 75 i art. 78 ust. 7 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą,
-- **2)** art. 24 ust. 8, art. 102 ust. 10 i art. 137c ust. 6 ustawy uchylonej w art. 823 pkt 12 ustawy zmienianej w art. 10 i utrzymane przez nią w mocy nie dłużej niż przez 18 miesięcy od dnia jej wejścia w życie zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 203 ust. 8, art. 468 ust. 10 i art. 78 ust. 7 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie przepisów dotychczasowych.
+- **2)** art. 24 ust. 8, art. 102 ust. 10 i art. 137c ust. 6 ustawy uchylonej w art. 823 pkt 12 ustawy zmienianej w art. 10 i utrzymane przez nią w mocy nie dłużej niż przez 18 miesięcy od dnia jej wejścia w życie zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 203 ust. 8, art. 468 ust. 10 i art. 78 ust. 7 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą – nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie przepisów dotychczasowych.
 
 4. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 6 ust. 2 pkt 1–3 oraz art. 29 ust. 8 ustawy uchylonej w art. 823 pkt 2 ustawy zmienianej w art. 10 i utrzymane przez nią w mocy nie dłużej niż przez 18 miesięcy od dnia jej wejścia w życie zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 27 ust. 2 pkt 1–3 oraz art. 86 ustawy zmienianej w art. 10, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie przepisów dotychczasowych.
 
 **Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -148,7 +175,7 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
     - **a)**
     - **b)**
 
-- **2)** magazynowaniu lub przechowywaniu urządzeń, uzbrojenia, środków materiałowych i sprzętu wojskowego w budynkach i lokalach oraz na gruntach będących własnością Skarbu Państwa, pozostających w trwałym zarządzie organów wojskowych lub powierzonych Agencji Mienia Wojskowego, uzyskanych czasowo na te cele od właściwych organów administracji rządowej, jednostek samorządu terytorialnego, osób prawnych lub fizycznych.
+- **2)** magazynowaniu lub przechowywaniu urządzeń, uzbrojenia, środków materiałowych i sprzętu wojskowego – w budynkach i lokalach oraz na gruntach będących własnością Skarbu Państwa, pozostających w trwałym zarządzie organów wojskowych lub powierzonych Agencji Mienia Wojskowego, uzyskanych czasowo na te cele od właściwych organów administracji rządowej, jednostek samorządu terytorialnego, osób prawnych lub fizycznych.
 
 2. Minister Obrony Narodowej, w drodze zarządzenia, określi:
 
@@ -206,7 +233,7 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
 
 **Art. 52.** (uchylony)
 
-#### Rozdział 2 Zakwaterowanie zbiorowe żołnierzy
+#### Rozdział 2
 
 **Art. 6.** (uchylony)
 
@@ -233,7 +260,7 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
 
 #### Rozdział 3a
 
-#### Rozdział 4 Zakwaterowanie żołnierzy zawodowych i innych osób
+#### Rozdział 4
 
 **Art. 21.**
 
@@ -259,9 +286,7 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
 - **4)** otrzymał pomoc finansową wypłaconą w formie zaliczkowej lub bezzwrotnej do dnia 31 grudnia 1995 r. na podstawie przepisów ustawy z dnia 20 maja 1976 r. o zakwaterowaniu sił zbrojnych (Dz. U. z 1992 r. poz. 19 oraz z 1994 r. poz. 36);
 - **5)** nabył własnościowe spółdzielcze prawo do lokalu mieszkalnego od Agencji.
 
-7. W przypadku gdy oboje małżonkowie są żołnierzami zawodowymi, jednemu z małżonków przysługuje prawo do zakwaterowania realizowane w formie przydziału kwatery albo innego lokalu mieszkalnego, a drugiemu w formie przydziału miejsca w internacie albo kwaterze internatowej albo wypłaty świadczenia mieszkaniowego; w przypadku braku możliwości przydziału kwatery albo innego lokalu mieszkalnego, prawo do zakwaterowania jest realizowane w formie przydziału miejsc w internacie albo kwaterze internatowej, albo w formie wypłaty świadczeń mieszkaniowych. Małżonkowie wybierają, na ich wniosek, formę realizowania prawa do zakwaterowania. Małżonkowi, który wybrał realizację prawa do zakwaterowania w formie przydziału kwatery albo innego lokalu mieszkalnego, nie przysługuje norma na małżonka, który korzysta z innej formy realizacji prawa do zakwaterowania.
-
-7a. Przepisów ust. 1–3 i 7 nie stosuje się do żołnierza, o którym mowa w art. 7 ust. 1 pkt 4a.
+7. W przypadku gdy oboje małżonkowie są żołnierzami zawodowymi, jednemu z małżonków przysługuje prawo do zakwaterowania realizowane w formie przydziału kwatery albo innego lokalu mieszkalnego, a drugiemu w formie przydziału miejsca w internacie albo kwaterze internatowej albo wypłaty świadczenia mieszkaniowego; w przypadku braku możliwości przydziału kwatery albo innego lokalu mieszkalnego, prawo do zakwaterowania jest realizowane w formie przydziału miejsc w internacie albo kwaterze internatowej, albo w formie wypłaty świadczeń mieszkaniowych. Małżonkowie wybierają, na ich wniosek, formę realizowania prawa do zakwaterowania. Małżonkowi, który wybrał realizację prawa do zakwaterowania w formie przydziału kwatery albo innego lokalu mieszkalnego, nie przysługuje norma na małżonka, który korzysta z innej formy realizacji prawa do zakwaterowania. 7aW brzmieniu ustalonym przez art. 3 pkt 1 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872), która weszła w życie z dniem 29 września 2023 r.. Przepisów ust. 1–3 i 7 nie stosuje się do żołnierza, o którym mowa w art. 7 ust. 1 pkt 4a.
 
 8. Żołnierz zawodowy traci prawo do zakwaterowania w miejscowości, w której pełni służbę przez czas pełnienia tej służby, jeżeli:
 
@@ -290,7 +315,7 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
 - **1)** żołnierza zawodowego, który do dnia śmierci zajmował lokal mieszkalny lub nie otrzymał decyzji o przydziale lokalu mieszkalnego, z wyłączeniem przypadków, o których mowa w art. 21 ust. 6, o ile do dnia śmierci nabył prawo do emerytury wojskowej lub jego śmierć pozostaje w związku ze służbą wojskową,
 - **2)** żołnierza, o którym mowa w art. 7 ust. 1 pkt 4a, oraz żołnierza pełniącego dobrowolną zasadniczą służbę wojskową albo terytorialną służbę wojskową, których śmierć pozostaje w związku ze służbą wojskową,
 - **3)** żołnierza, o którym mowa w pkt 1 i 2, zmarłego w ciągu 3 lat po zwolnieniu ze służby wojskowej, jeżeli śmierć nastąpiła wskutek urazów doznanych w czasie pełnienia służby lub chorób powstałych w tym czasie, albo w ciągu 3 lat po zwolnieniu ze służby, jeżeli śmierć nastąpiła wskutek wypadku pozostającego w związku z pełnieniem czynnej służby wojskowej,
-- **4)** żołnierza uprawnionego do odprawy mieszkaniowej w dniu zwolnienia ze służby wojskowej, zmarłego przed dniem wypłaty tej odprawy wspólnie zamieszkałym z nim w dniu jego śmierci: małżonkowi, zstępnym, wstępnym, osobom przysposobionym i osobom przysposabiającym przysługują uprawnienia, o których mowa w ust. 4, a w przypadku żołnierza, o którym mowa w pkt 4 – uprawnienie, o którym mowa w ust. 4 pkt 1.
+- **4)** żołnierza uprawnionego do odprawy mieszkaniowej w dniu zwolnienia ze służby wojskowej, zmarłego przed dniem wypłaty tej odprawy – wspólnie zamieszkałym z nim w dniu jego śmierci: małżonkowi, zstępnym, wstępnym, osobom przysposobionym i osobom przysposabiającym przysługują uprawnienia, o których mowa w ust. 4, a w przypadku żołnierza, o którym mowa w pkt 4 – uprawnienie, o którym mowa w ust. 4 pkt 1.
 
 4. Osobom, o których mowa w ust. 3, przysługują:
 
@@ -372,7 +397,7 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
 
 3. W przypadku śmierci osoby, o której mowa w ust. 2, członkowie rodziny, o których mowa w art. 26 ust. 3, stale z nią zamieszkujący do chwili jej śmierci, mają prawo zajmowania lokalu mieszkalnego. W takim przypadku dyrektor oddziału regionalnego zawiera na ich wniosek umowę najmu do końca okresu obowiązywania tytułu prawnego, który przysługiwał osobie zmarłej.
 
-4. W przypadku umowy najmu zawartej z osobą prawną, jednostką samorządu terytorialnego albo państwową lub samorządową jednostką organizacyjną nieposiadającą osobowości prawnej, do opłat za używanie lokalu mieszkalnego i opłat pośrednich mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061). Do osób innych niż żołnierze zawodowi, które zajmują lokale mieszkalne będące w zasobie mieszkaniowym i internatowym Agencji, w zakresie nieuregulowanym w ustawie mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny oraz ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.).
+4. W przypadku umowy najmu zawartej z osobą prawną, jednostką samorządu terytorialnego albo państwową lub samorządową jednostką organizacyjną nieposiadającą osobowości prawnej, do opłat za używanie lokalu mieszkalnego i opłat pośrednich mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061). Do osób innych niż żołnierze zawodowi, które zajmują lokale mieszkalne będące w zasobie mieszkaniowym i internatowym Agencji, w zakresie nieuregulowanym w ustawie mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny oraz ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858, 859, 863 i 1222.).
 
 1. Osoby inne niż żołnierz zawodowy, które zamieszkują kwatery albo inne lokale mieszkalne, są obowiązane do ich opróżnienia w terminie trzydziestu dni od dnia doręczenia wezwania właściwego dyrektora oddziału regionalnego. Przepis art. 41 ust. 5 stosuje się odpowiednio.
 
@@ -402,17 +427,13 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
 
 1. Osoba, która zajmuje lokal mieszkalny uiszcza opłaty za używanie lokalu w wysokości nie większej niż 3 % wartości odtworzeniowej lokalu w skali rocznej, określonej na podstawie ust. 2, oraz zaliczki na opłaty pośrednie w terminie do piętnastego dnia każdego miesiąca, od dnia przekazania lokalu mieszkalnego. Za dzień wpłaty opłat przyjmuje się dzień ich wpływu na rachunek bankowy Agencji.
 
-2. Wartość odtworzeniową lokalu stanowi iloczyn powierzchni użytkowej danego lokalu oraz wartości odtworzeniowej 1 m2 powierzchni użytkowej lokalu mieszkalnego, ogłaszanej przez Prezesa Agencji raz w roku nie później niż do końca roku kalendarzowego, w formie komunikatu, która jest średnią arytmetyczną, wyliczoną na podstawie wskaźnika przeliczeniowego kosztu odtworzenia 1 m2 powierzchni użytkowej budynków mieszkalnych ogłaszanego przez wojewodów dla poszczególnych powiatów, za pierwsze półrocze na rok następny.
-
-2a. Wzrost miesięcznej opłaty za używanie 1 m2 powierzchni użytkowej lokali mieszkalnych zajmowanych przez:
+2. Wartość odtworzeniową lokalu stanowi iloczyn powierzchni użytkowej danego lokalu oraz wartości odtworzeniowej 1 m2 powierzchni użytkowej lokalu mieszkalnego, ogłaszanej przez Prezesa Agencji raz w roku nie później niż do końca roku kalendarzowego, w formie komunikatu, która jest średnią arytmetyczną, wyliczoną na podstawie wskaźnika przeliczeniowego kosztu odtworzenia 1 m2 powierzchni użytkowej budynków mieszkalnych ogłaszanego przez wojewodów dla poszczególnych powiatów, za pierwsze półrocze na rok następny. 2aDodany przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 1.. Wzrost miesięcznej opłaty za używanie 1 m2 powierzchni użytkowej lokali mieszkalnych zajmowanych przez:
 
 - **1)** żołnierzy zawodowych,
 - **2)** emerytów wojskowych,
 - **3)** rencistów wojskowych,
 - **4)** wdowy po żołnierzach zawodowych, emerytach wojskowych lub rencistach wojskowych,
-- **5)** dzieci żołnierzy zawodowych do czasu zawarcia przez nie związku małżeńskiego, nie dłużej jednak niż do dnia ukończenia 25. roku życia, chyba że przed tym dniem stały się niezdolne do pracy oraz samodzielnej egzystencji i nie zawarły związku małżeńskiego nie może przewyższać wskaźnika waloryzacji określonego na dany rok w decyzji Ministra Obrony Narodowej wydanej do końca I kwartału.
-
-2b. Kalkulowane koszty utrzymania lokali mieszkalnych, które są zajmowane przez osoby wymienione w ust. 2a, pomniejszone o przychody należne z tytułu opłat za używanie lokali są pokrywane z dotacji podmiotowej, o której mowa w art. 29 ust. 1 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego.
+- **5)** dzieci żołnierzy zawodowych do czasu zawarcia przez nie związku małżeńskiego, nie dłużej jednak niż do dnia ukończenia 25. roku życia, chyba że przed tym dniem stały się niezdolne do pracy oraz samodzielnej egzystencji i nie zawarły związku małżeńskiego – nie może przewyższać wskaźnika waloryzacji określonego na dany rok w decyzji Ministra Obrony Narodowej wydanej do końca I kwartału. 2bDodany przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 1.. Kalkulowane koszty utrzymania lokali mieszkalnych, które są zajmowane przez osoby wymienione w ust. 2a, pomniejszone o przychody należne z tytułu opłat za używanie lokali są pokrywane z dotacji podmiotowej, o której mowa w art. 29 ust. 1 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego.
 
 3. Agencja ma prawo pobierać zaliczki na opłaty pośrednie.
 
@@ -501,7 +522,7 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
 - **2)** małoletniego,
 - **3)** osobę niepełnosprawną w rozumieniu przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089 i 1165) lub ubezwłasnowolnioną,
 - **4)** obłożnie chorego – osobę, która dysponuje dokumentem urzędowym lub zaświadczeniem lekarskim stwierdzającym stan zdrowia, w którym chory bez narażenia życia lub zdrowia nie może prowadzić normalnej egzystencji, a w szczególności nie jest zdolny do podjęcia żadnej pracy, wydanym nie wcześniej niż miesiąc przed wykonywaniem przymusowego wykwaterowania,
-- **5)** emeryta i rencistę wraz z osobami wspólnie z nimi zamieszkującymi, nie wydaje się decyzji o opróżnieniu lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej. W takim przypadku dyrektor oddziału regionalnego kieruje do sądu powszechnego pozew o opróżnienie lokalu mieszkalnego, orzeczenie o uprawnieniu do zawarcia umowy najmu socjalnego lokalu, o wezwanie do udziału w postępowaniu gminy oraz zasądzenie odszkodowania.
+- **5)** emeryta i rencistę – wraz z osobami wspólnie z nimi zamieszkującymi, nie wydaje się decyzji o opróżnieniu lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej. W takim przypadku dyrektor oddziału regionalnego kieruje do sądu powszechnego pozew o opróżnienie lokalu mieszkalnego, orzeczenie o uprawnieniu do zawarcia umowy najmu socjalnego lokalu, o wezwanie do udziału w postępowaniu gminy oraz zasądzenie odszkodowania.
 
 1. Wniosek o przydział kwatery albo innego lokalu mieszkalnego zawiera dane osobowe żołnierza oraz członków jego rodziny niezbędne do ustalenia jego uprawnień.
 
@@ -509,7 +530,7 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
 
 - **1)** tryb składania wniosków o przydział kwatery albo innego lokalu mieszkalnego,
 - **2)** wzór wniosku o przydział kwatery albo innego lokalu mieszkalnego,
-- **3)** wzór decyzji o przydziale kwatery albo innego lokalu mieszkalnego uwzględniając sprawność postępowania oraz uproszczony charakter wzorów tych dokumentów.
+- **3)** wzór decyzji o przydziale kwatery albo innego lokalu mieszkalnego – uwzględniając sprawność postępowania oraz uproszczony charakter wzorów tych dokumentów.
 
 **Art. 46.** (uchylony)
 
@@ -544,8 +565,7 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
 **Art. 48.** (uchylony) W razie samowolnego zajęcia lokalu mieszkalnego przedstawiciel Agencji, w asyście Żandarmerii Wojskowej lub Policji, dokonuje wykwaterowania osób, które zajęły lokal mieszkalny, na ich koszt, bez obowiązku dostarczenia innego lokalu. 1. Na wniosek żołnierza zawodowego dyrektor oddziału regionalnego właściwy dla garnizonu, w którym żołnierz zawodowy jest wyznaczony na stanowisko służbowe, może dokonać zamiany lokalu mieszkalnego dotychczas zajmowanego przez żołnierza zawodowego na inny lokal mieszkalny w tym garnizonie lub w miejscowości pobliskiej lub innej miejscowości niezasiedlony, albo zajmowany przez innego żołnierza zawodowego lub osobę inną niż żołnierz zawodowy. 1a. Dyrektor oddziału regionalnego właściwy ze względu na miejsce położenia lokalu mieszkalnego zajmowanego przez osobę inną niż żołnierz zawodowy może, na wniosek tej osoby, dokonać zamiany tego lokalu mieszkalnego na inny lokal mieszkalny, niezasiedlony albo zajmowany przez żołnierza zawodowego albo osobę inną niż żołnierz zawodowy. 2. W przypadkach, o których mowa w ust. 1 i 1a, do żołnierza zawodowego przepis art. 24 ust. 1 stosuje się odpowiednio, a z osobą inną niż żołnierz zawodowy dyrektor oddziału regionalnego właściwy ze względu na miejsce położenia lokalu mieszkalnego zawiera umowę najmu lokalu mieszkalnego na czas, na jaki obowiązywał tytuł prawny do dotychczas zajmowanego lokalu mieszkalnego. 3. Koszty zamiany lokalu mieszkalnego ponoszą żołnierz zawodowy lub osoba, o których mowa w ust. 1 i 1a. 4. Zamiany lokalu mieszkalnego nie dokonuje się, jeżeli o zamianę ubiega się osoba, która na podstawie art. 29b lub art. 41 jest obowiązana do opróżnienia lokalu mieszkalnego. W przypadku zajmowania przez żołnierza zawodowego lokalu mieszkalnego znajdującego się w budynku przeznaczonym do przebudowy, rozbiórki lub z innej przyczyny uniemożliwiającej dalsze zamieszkiwanie w nim, dyrektor oddziału regionalnego właściwy dla garnizonu, w którym żołnierz zawodowy zajmuje lokal mieszkalny, informuje o tym żołnierza zawodowego, uchyla decyzję o przydziale lokalu mieszkalnego i wydaje decyzję o przydziale lokalu mieszkalnego odpowiadającego uprawnieniom żołnierza zawodowego. 1. Świadczenie mieszkaniowe, o którym mowa w art. 21 ust. 2 pkt 3, przysługuje żołnierzowi zawodowemu przez czas pełnienia służby w danym garnizonie w wysokości iloczynu stawki podstawowej i współczynnika świadczenia mieszkaniowego zależnego od garnizonu. 2. Świadczenie mieszkaniowe nie przysługuje żołnierzowi zawodowemu:
 
 - **1)** (uchylony)
-- **2)** przeniesionemu do dyspozycji zwolnionemu z wykonywania zadań służbowych;
-- **3)** pobierającemu świadczenia, o których mowa w art. 291 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089 i 1222);
+- **2)** przeniesionemu do dyspozycji zwolnionemu z wykonywania zadań służbowych; 3W brzmieniu ustalonym przez art. 3 pkt 3 lit. a ustawy, o której mowa w odnośniku 1.) pobierającemu świadczenia, o których mowa w art. 291 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089 i 1222);
 - **4)** wyznaczonemu do pełnienia zawodowej służby wojskowej poza granicami państwa, korzystającemu z prawa do nieodpłatnego zakwaterowania w lokalu mieszkalnym albo równoważnika pieniężnego na wynajęcie lokalu mieszkalnego na podstawie przepisów ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny;
 - **5)** przebywającemu w areszcie.
 
@@ -561,9 +581,7 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
 
 8. W przypadku zajmowania lokalu mieszkalnego albo miejsca w internacie albo kwaterze internatowej świadczenie mieszkaniowe wypłaca się od dnia następującego po dniu zwolnienia lokalu lub miejsca w internacie.
 
-9. W przypadku uprawnienia do świadczenia mieszkaniowego za okres krótszy niż miesiąc kalendarzowy świadczenie jest wypłacane za ten okres w wysokości 1/30 za każdy dzień.
-
-10. W przypadku skierowania żołnierza otrzymującego świadczenie mieszkaniowe do wykonywania zadań służbowych poza garnizon pełnienia służby, na okres nie dłuższy niż 6 miesięcy, żołnierzowi przysługuje świadczenie mieszkaniowe w wysokości określonej dla garnizonu, z którego żołnierz został skierowany do wykonywania zadań służbowych poza garnizon pełnienia służby.
+9. W przypadku uprawnienia do świadczenia mieszkaniowego za okres krótszy niż miesiąc kalendarzowy świadczenie jest wypłacane za ten okres w wysokości 1/30 za każdy dzień. 10W brzmieniu ustalonym przez art. 3 pkt 3 lit. b ustawy, o której mowa w odnośniku 1.. W przypadku skierowania żołnierza otrzymującego świadczenie mieszkaniowe do wykonywania zadań służbowych poza garnizon pełnienia służby, na okres nie dłuższy niż 6 miesięcy, żołnierzowi przysługuje świadczenie mieszkaniowe w wysokości określonej dla garnizonu, z którego żołnierz został skierowany do wykonywania zadań służbowych poza garnizon pełnienia służby.
 
 11. W przypadku zakwaterowania żołnierza zawodowego na zasadach, o których mowa w art. 7 ust. 2, wysokość świadczenia mieszkaniowego ulega zmniejszeniu o uśrednione koszty utrzymania miejsca zakwaterowania, począwszy od miesiąca następującego po miesiącu, w którym nastąpiło zakwaterowanie.
 
@@ -575,14 +593,12 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
 
 15. Świadczenie mieszkaniowe jest wypłacane przez dyrektora oddziału regionalnego Agencji właściwego miejscowo dla garnizonu, w którym żołnierz pełni służbę wojskową, na podstawie wykazu sporządzanego przez tego dyrektora.
 
-16. Świadczenie mieszkaniowe wypłacane przez Agencję jest pokrywane z dotacji budżetowej.
-
-17. Minister Obrony Narodowej określi, w drodze rozporządzenia:
+16. Świadczenie mieszkaniowe wypłacane przez Agencję jest pokrywane z dotacji budżetowej. 17W brzmieniu ustalonym przez art. 3 pkt 3 lit. c ustawy, o której mowa w odnośniku 1.. Minister Obrony Narodowej określi, w drodze rozporządzenia:
 
 - **1)** wysokość stawki podstawowej i współczynnik świadczenia mieszkaniowego dla każdego garnizonu, uwzględniając cenę rynkową najmu lokali mieszkalnych w garnizonie oraz szczególne znaczenie garnizonu dla obronności kraju;
 - **2)** uśrednione koszty utrzymania miejsca zakwaterowania, uwzględniając koszty utrzymania obiektów koszarowych kompleksów wojskowych obliczone na podstawie danych z roku poprzedniego.
 
-#### Rozdział 5 Zakwaterowanie w internatach i kwaterach internatowych
+#### Rozdział 5
 
 **Art. 49.** (uchylony)
 
@@ -609,15 +625,7 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
 
 4. Miejsce w internacie lub kwaterze internatowej nie przysługuje, jeżeli żołnierz zawodowy lub jego małżonek zamieszkuje w lokalu mieszkalnym w miejscowości, w której żołnierz zajmuje stanowisko służbowe, pozostaje w dyspozycji, albo w miejscowości pobliskiej, albo żołnierz zawodowy zaspokoił swoje potrzeby mieszkaniowe w tej miejscowości, korzystając z uprawnień, o których mowa w art. 21 ust. 6.
 
-5. Miejsce w internacie lub kwaterze internatowej nie przysługuje, jeżeli pracownik, o którym mowa w ust. 1 pkt 3, lub jego małżonek zamieszkuje w lokalu mieszkalnym w miejscowości, w której jest zatrudniony lub w miejscowości pobliskiej.
-
-6. Uprawnienie, o którym mowa w ust. 1, nie przysługuje żołnierzowi, o którym mowa w ust. 1 pkt 1, jeżeli zapewniono mu zakwaterowanie we wspólnej kwaterze stałej.
-
-7. Dyrektor oddziału regionalnego właściwy dla garnizonu, w którym żołnierz pełni służbę wojskową, kieruje żołnierza do zamieszkiwania w internacie albo kwaterze internatowej w formie czynności materialno-technicznej.
-
-8. Dyrektor oddziału regionalnego właściwy dla garnizonu, w którym żołnierz pełni służbę wojskową, odmawia przydzielenia miejsca w internacie albo kwaterze internatowej, w drodze decyzji administracyjnej.
-
-9. W przypadku osób innych niż żołnierze zawodowi skierowanie do zamieszkiwania w internacie albo kwaterze internatowej i odmowa przydzielenia miejsca w internacie albo kwaterze internatowej następują w formie czynności materialno-technicznej. (uchylony)
+5. Miejsce w internacie lub kwaterze internatowej nie przysługuje, jeżeli pracownik, o którym mowa w ust. 1 pkt 3, lub jego małżonek zamieszkuje w lokalu mieszkalnym w miejscowości, w której jest zatrudniony lub w miejscowości pobliskiej. 6Ze zmianą wprowadzoną przez art. 3 pkt 4 lit. a ustawy, o której mowa w odnośniku 1.. Uprawnienie, o którym mowa w ust. 1, nie przysługuje żołnierzowi, o którym mowa w ust. 1 pkt 1, jeżeli zapewniono mu zakwaterowanie we wspólnej kwaterze stałej. 7Dodany przez art. 3 pkt 4 lit. b ustawy, o której mowa w odnośniku 1.. Dyrektor oddziału regionalnego właściwy dla garnizonu, w którym żołnierz pełni służbę wojskową, kieruje żołnierza do zamieszkiwania w internacie albo kwaterze internatowej w formie czynności materialno-technicznej. 8Dodany przez art. 3 pkt 4 lit. b ustawy, o której mowa w odnośniku 1.. Dyrektor oddziału regionalnego właściwy dla garnizonu, w którym żołnierz pełni służbę wojskową, odmawia przydzielenia miejsca w internacie albo kwaterze internatowej, w drodze decyzji administracyjnej. 9Dodany przez art. 3 pkt 4 lit. b ustawy, o której mowa w odnośniku 1.. W przypadku osób innych niż żołnierze zawodowi skierowanie do zamieszkiwania w internacie albo kwaterze internatowej i odmowa przydzielenia miejsca w internacie albo kwaterze internatowej następują w formie czynności materialno-technicznej. (uchylony)
 
 **Art. 53.**
 
@@ -625,8 +633,7 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
 
 2. Do zakwaterowania żołnierzy zawodowych stosuje się następujące zasady:
 
-- **1)** żołnierzowi, w zależności od zajmowanego stanowiska służbowego, przysługuje norma powierzchni użytkowej podstawowej: od 7 do 10 m2 – dla zajmujących stanowiska służbowe od stopnia etatowego szeregowego (marynarza) do stopnia etatowego starszego szeregowego specjalisty (starszego marynarza specjalisty) włącznie, od 8 do 12 m2- dla zajmujących stanowiska służbowe od stopnia etatowego kaprala (mata) do stopnia etatowego starszego sierżanta sztabowego (starszego bosmana sztabowego) włącznie, od 10 do 15 m2- dla zajmujących stanowiska służbowe od stopnia etatowego młodszego chorążego (młodszego chorążego marynarki) do stopnia etatowego starszego chorążego sztabowego (starszego chorążego sztabowego marynarki) włącznie, od 12 do 18 m2- dla zajmujących stanowiska służbowe od stopnia etatowego podporucznika (podporucznika marynarki) do stopnia etatowego kapitana (kapitana marynarki) włącznie, od 15 do 20 m2- dla zajmujących stanowiska służbowe od stopnia etatowego majora (komandora podporucznika) do stopnia etatowego pułkownika (komandora) włącznie, od 20 do 25 m2- dla zajmujących stanowiska służbowe od stopnia etatowego generała brygady (kontradmirała) do stopnia etatowego generała (admirała) włącznie;
-    - **a)**
+- **1)** żołnierzowi, w zależności od zajmowanego stanowiska służbowego, przysługuje norma powierzchni użytkowej podstawowej: aW brzmieniu ustalonym przez art. 3 pkt 5 lit. a ustawy, o której mowa w odnośniku 1.) od 7 do 10 m2 – dla zajmujących stanowiska służbowe od stopnia etatowego szeregowego (marynarza) do stopnia etatowego starszego szeregowego specjalisty (starszego marynarza specjalisty) włącznie, od 8 do 12 m2- dla zajmujących stanowiska służbowe od stopnia etatowego kaprala (mata) do stopnia etatowego starszego sierżanta sztabowego (starszego bosmana sztabowego) włącznie, od 10 do 15 m2- dla zajmujących stanowiska służbowe od stopnia etatowego młodszego chorążego (młodszego chorążego marynarki) do stopnia etatowego starszego chorążego sztabowego (starszego chorążego sztabowego marynarki) włącznie, od 12 do 18 m2- dla zajmujących stanowiska służbowe od stopnia etatowego podporucznika (podporucznika marynarki) do stopnia etatowego kapitana (kapitana marynarki) włącznie, od 15 do 20 m2- dla zajmujących stanowiska służbowe od stopnia etatowego majora (komandora podporucznika) do stopnia etatowego pułkownika (komandora) włącznie, od 20 do 25 m2- dla zajmujących stanowiska służbowe od stopnia etatowego generała brygady (kontradmirała) do stopnia etatowego generała (admirała) włącznie;
     - **b)**
     - **c)**
     - **d)**
@@ -635,19 +642,12 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
 
 - **2)** żołnierzowi zawodowemu, na jego wniosek, dyrektor oddziału regionalnego może przydzielić miejsce w internacie albo kwaterze internatowej o większej powierzchni użytkowej podstawowej niż powierzchnia maksymalna, o której mowa w pkt 1. Za powierzchnię użytkową podstawową większą niż jej maksymalna wielkość określona w pkt 1, żołnierz ponosi opłatę w pełnej wysokości.
 
-3. Koszty zajmowania przez żołnierzy zawodowych internatów i kwater internatowych pokrywa się z dotacji budżetowej.
+3. Koszty zajmowania przez żołnierzy zawodowych internatów i kwater internatowych pokrywa się z dotacji budżetowej. 4W brzmieniu ustalonym przez art. 3 pkt 5 lit. b ustawy, o której mowa w odnośniku 1.. Koszty zajmowania przez żołnierzy zawodowych miejsc w internacie lub kwaterze internatowej obejmują koszty utrzymania 1 m2 powierzchni użytkowej, w tym koszty zużycia materiałów i energii, usług obcych, podatków i opłat, wynagrodzeń, świadczeń, ubezpieczeń społecznych i innych pozostałych, odpisu na fundusz remontowy w skali roku oraz koszty zarządu.
 
-4. Koszty zajmowania przez żołnierzy zawodowych miejsc w internacie lub kwaterze internatowej obejmują koszty utrzymania 1 m2 powierzchni użytkowej, w tym koszty zużycia materiałów i energii, usług obcych, podatków i opłat, wynagrodzeń, świadczeń, ubezpieczeń społecznych i innych pozostałych, odpisu na fundusz remontowy w skali roku oraz koszty zarządu.
+4a. Przepisy ust. 2 i 3 stosuje się odpowiednio do żołnierza, o którym mowa w art. 51 ust. 1a. 4bDodany przez art. 3 pkt 5 lit. c ustawy, o której mowa w odnośniku 1.. Dyrektor oddziału regionalnego w przypadku niedysponowania zasobem spełniającym kryterium przydzielenia żołnierzowi miejsca w internacie albo kwaterze internatowej odpowiadającego normie powierzchni użytkowej podstawowej w zależności od zajmowanego stanowiska służbowego może przydzielić żołnierzowi miejsce w internacie albo kwaterze internatowej o większej powierzchni użytkowej podstawowej niż powierzchnia maksymalna, o której mowa w ust. 2 pkt 1. W takiej sytuacji żołnierz nie ponosi z tego tytułu opłat. W przypadku pozyskania zasobu spełniającego kryterium przydzielenia żołnierzowi miejsca w internacie albo kwaterze internatowej odpowiadającego normie powierzchni użytkowej podstawowej, dyrektor oddziału regionalnego przydziela żołnierzowi miejsce w internacie albo kwaterze internatowej spełniające to kryterium. Żołnierz może odmówić przyjęcia tego miejsca. W takim przypadku ponosi opłatę za nadwyżkę powierzchni użytkowej podstawowej zajmowanego miejsca, począwszy od dnia przydzielenia miejsca w internacie albo kwaterze internatowej zgodnego z uprawnieniami. 4cDodany przez art. 3 pkt 5 lit. c ustawy, o której mowa w odnośniku 1.. Dyrektor oddziału regionalnego w przypadku niedysponowania zasobem spełniającym kryterium przydzielenia żołnierzowi miejsca w internacie albo kwaterze internatowej odpowiadającego normie powierzchni użytkowej podstawowej w zależności od zajmowanego stanowiska służbowego może przydzielić żołnierzowi miejsce w internacie albo kwaterze internatowej o mniejszej powierzchni użytkowej podstawowej niż powierzchnia minimalna, o której mowa w ust. 2 pkt 1. W takiej sytuacji żołnierz wyraża pisemną zgodę na przydzielenie takiego miejsca. W przypadku pozyskania miejsca zgodnego z uprawnieniami dyrektor oddziału regionalnego przydziela żołnierzowi normatywne miejsce w internacie albo kwaterze internatowej.
 
-4a. Przepisy ust. 2 i 3 stosuje się odpowiednio do żołnierza, o którym mowa w art. 51 ust. 1a.
+5. Minister Obrony Narodowej określi, w drodze rozporządzenia: 1W brzmieniu ustalonym przez art. 3 pkt 5 lit. d ustawy, o której mowa w odnośniku 1.) sposób ustalania opłat za zajmowanie miejsca w internacie lub kwaterze internatowej, terminy i sposób pobierania tych opłat, a także wzór kalkulacji rocznej kosztów utrzymania 1 m2 powierzchni użytkowej miejsca w internacie lub kwaterze internatowej,
 
-4b. Dyrektor oddziału regionalnego w przypadku niedysponowania zasobem spełniającym kryterium przydzielenia żołnierzowi miejsca w internacie albo kwaterze internatowej odpowiadającego normie powierzchni użytkowej podstawowej w zależności od zajmowanego stanowiska służbowego może przydzielić żołnierzowi miejsce w internacie albo kwaterze internatowej o większej powierzchni użytkowej podstawowej niż powierzchnia maksymalna, o której mowa w ust. 2 pkt 1. W takiej sytuacji żołnierz nie ponosi z tego tytułu opłat. W przypadku pozyskania zasobu spełniającego kryterium przydzielenia żołnierzowi miejsca w internacie albo kwaterze internatowej odpowiadającego normie powierzchni użytkowej podstawowej, dyrektor oddziału regionalnego przydziela żołnierzowi miejsce w internacie albo kwaterze internatowej spełniające to kryterium. Żołnierz może odmówić przyjęcia tego miejsca. W takim przypadku ponosi opłatę za nadwyżkę powierzchni użytkowej podstawowej zajmowanego miejsca, począwszy od dnia przydzielenia miejsca w internacie albo kwaterze internatowej zgodnego z uprawnieniami.
-
-4c. Dyrektor oddziału regionalnego w przypadku niedysponowania zasobem spełniającym kryterium przydzielenia żołnierzowi miejsca w internacie albo kwaterze internatowej odpowiadającego normie powierzchni użytkowej podstawowej w zależności od zajmowanego stanowiska służbowego może przydzielić żołnierzowi miejsce w internacie albo kwaterze internatowej o mniejszej powierzchni użytkowej podstawowej niż powierzchnia minimalna, o której mowa w ust. 2 pkt 1. W takiej sytuacji żołnierz wyraża pisemną zgodę na przydzielenie takiego miejsca. W przypadku pozyskania miejsca zgodnego z uprawnieniami dyrektor oddziału regionalnego przydziela żołnierzowi normatywne miejsce w internacie albo kwaterze internatowej.
-
-5. Minister Obrony Narodowej określi, w drodze rozporządzenia:
-
-- **1)** sposób ustalania opłat za zajmowanie miejsca w internacie lub kwaterze internatowej, terminy i sposób pobierania tych opłat, a także wzór kalkulacji rocznej kosztów utrzymania 1 m2 powierzchni użytkowej miejsca w internacie lub kwaterze internatowej,
 - **2)** tryb przydzielania miejsc w internacie lub kwaterze internatowej oraz wzory dokumentów stanowiących podstawę przydzielania miejsca w internacie lub kwaterze internatowej;
 - **3)** (uchylony)
 - **4)** standard oraz wyposażenie kwater internatowych i internatów;
@@ -655,25 +655,19 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
 - **6)** tryb wyrażania zgody na pobyt opiekuna lub najbliższego członka rodziny, o którym mowa w art. 4 pkt 12 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa, wraz z weteranem uprawnionym oraz wzory dokumentów stanowiących podstawę ubiegania się o zgodę;
 - **7)** tryb wyrażania zgody na przedłużenie zakwaterowania, o którym mowa w art. 51 ust. 3a, w internacie lub kwaterze internatowej oraz wzory dokumentów stanowiących podstawę ubiegania się o zgodę.
 
-6. W rozporządzeniu, o którym mowa w ust. 5, należy uwzględnić, aby:
+6. W rozporządzeniu, o którym mowa w ust. 5, należy uwzględnić, aby: 1W brzmieniu ustalonym przez art. 3 pkt 5 lit. e ustawy, o której mowa w odnośniku 1.) ustalanie opłat za zajmowanie miejsc w kwaterze internatowej lub w internacie uwzględniało kalkulację kosztów utrzymania takiej kwatery lub internatu oraz jednolitość ustalania kalkulacji tych kosztów;
 
-- **1)** ustalanie opłat za zajmowanie miejsc w kwaterze internatowej lub w internacie uwzględniało kalkulację kosztów utrzymania takiej kwatery lub internatu oraz jednolitość ustalania kalkulacji tych kosztów;
 - **2)** przydzielanie miejsc w internacie lub kwaterze internatowej odbywało się w sposób pozwalający na bezzwłoczne realizowanie prawa żołnierzy do zakwaterowania, a wzory dokumentów w tych sprawach były możliwie uproszczone;
 - **3)** (uchylony)
 - **4)** standard i wyposażenie kwater internatowych i internatów zaspokajały potrzeby mieszkaniowe żołnierzy na odpowiednim poziomie;
 - **5)** przyjmowanie i zdawanie kwatery internatowej i pokoju w internacie odbywało się na podstawie dokumentu obejmującego zakres wyposażenia oraz jego stan techniczny.
 
-1. Dyrektor oddziału regionalnego może, pod warunkiem zaspokojenia potrzeb żołnierzy zawodowych, zakwaterować w internacie albo kwaterze internatowej:
+1. Dyrektor oddziału regionalnego może, pod warunkiem zaspokojenia potrzeb żołnierzy zawodowych, zakwaterować w internacie albo kwaterze internatowej:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 3 pkt 6 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 1.
 
 - **1)** dziecko żołnierza albo pracownika, o którym mowa w art. 51 ust. 1 pkt 3, pobierające naukę poza miejscowością zamieszkania, niebędącą miejscowością pobliską;
-- **2)** żołnierza zawodowego, którego prawo do zakwaterowania, o którym mowa w art. 21 ust. 6, zostało zrealizowane w miejscowości pełnienia służby lub miejscowości pobliskiej;
-- **3)** żołnierza zawodowego, którego prawo do zakwaterowania jest realizowane przez przydział kwatery albo innego lokalu mieszkalnego w miejscowości innej niż ta, w której żołnierz pełni służbę, lub miejscowości pobliskiej.
+- **2)** żołnierza zawodowego, którego prawo do zakwaterowania, o którym mowa w art. 21 ust. 6, zostało zrealizowane w miejscowości pełnienia służby lub miejscowości pobliskiej; 3Dodany przez art. 3 pkt 6 lit. a tiret drugie ustawy, o której mowa w odnośniku 1.) żołnierza zawodowego, którego prawo do zakwaterowania jest realizowane przez przydział kwatery albo innego lokalu mieszkalnego w miejscowości innej niż ta, w której żołnierz pełni służbę, lub miejscowości pobliskiej.
 
-2. Osoby, o których mowa w ust. 1, są obowiązane uiszczać opłaty za korzystanie z internatu lub kwatery internatowej w pełnej wysokości za zajmowaną powierzchnię użytkową.
-
-3. W przypadku wystąpienia potrzeb żołnierzy, o których mowa w art. 51 ust. 1 pkt 1, osoby wymienione w ust. 1 są obowiązane opróżnić miejsce w internacie albo kwaterze internatowej w terminie 30 dni od dnia doręczenia wezwania.
-
-4. W sytuacji niewykonania obowiązku, o którym mowa w ust. 3, osoby wymienione w ust. 1 są zobowiązane uiszczać odszkodowanie w wysokości 150 % opłaty za korzystanie z internatu albo kwatery internatowej. Przepisy art. 37 i art. 41 ust. 6 stosuje się odpowiednio.
+2. Osoby, o których mowa w ust. 1, są obowiązane uiszczać opłaty za korzystanie z internatu lub kwatery internatowej w pełnej wysokości za zajmowaną powierzchnię użytkową. 3Dodany przez art. 3 pkt 6 lit. b ustawy, o której mowa w odnośniku 1.. W przypadku wystąpienia potrzeb żołnierzy, o których mowa w art. 51 ust. 1 pkt 1, osoby wymienione w ust. 1 są obowiązane opróżnić miejsce w internacie albo kwaterze internatowej w terminie 30 dni od dnia doręczenia wezwania. 4Dodany przez art. 3 pkt 6 lit. b ustawy, o której mowa w odnośniku 1.. W sytuacji niewykonania obowiązku, o którym mowa w ust. 3, osoby wymienione w ust. 1 są zobowiązane uiszczać odszkodowanie w wysokości 150 % opłaty za korzystanie z internatu albo kwatery internatowej. Przepisy art. 37 i art. 41 ust. 6 stosuje się odpowiednio.
 
 1. Dyrektor oddziału regionalnego Agencji może, pod warunkiem zaspokojenia potrzeb żołnierzy zawodowych i w ramach posiadanych możliwości, wyrazić zgodę na pobyt czasowy w internacie albo w kwaterze internatowej, odwiedzających żołnierza członków rodziny, o których mowa w art. 26 ust. 3, oraz odwiedzających weterana uprawnionego najbliższych członków rodziny, o których mowa w art. 4 pkt 12 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa. Pobyt członków rodziny żołnierza i najbliższych członków rodziny weterana uprawnionego nie może przekroczyć łącznie 7 dni w miesiącu.
 
@@ -683,7 +677,7 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
 
 #### Rozdział 6
 
-#### Rozdział 7 Zakwaterowanie przejściowe
+#### Rozdział 7
 
 **Art. 62.**
 
@@ -825,19 +819,11 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
 
 2. Rada Ministrów określi, w drodze rozporządzenia, sposób finansowania przedsięwzięć związanych z zakwaterowaniem osób w warunkach, o których mowa w ust. 1, oraz organy właściwe w tych sprawach.
 
-#### Rozdział 7a Wykonywanie zadań Agencji przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji
+#### Rozdział 7a
 
-#### Rozdział 8 Przepisy karne
+#### Rozdział 8
 
-**Art. 79.** Kto narusza zakaz wstępu na teren zajęty na zakwaterowanie Sił Zbrojnych lub na teren objęty strefą niebezpieczeństwa, podlega karze grzywny.
-
-**Art. 80.**
-
-1. Kto wbrew przepisom ustawy zajmuje samowolnie kwaterę lub lokal mieszkalny albo lokal będący w Zarządzie Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych albo oddaje je w podnajem lub użycza, podlega karze grzywny.
-
-2. Osoba przebywająca w kwaterze lub lokalu mieszkalnym albo lokalu będącym w Zarządzie Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych, która w sposób złośliwy lub uporczywy zakłóca osobom zamieszkującym w danym budynku korzystanie z zajmowanego lokalu mieszkalnego lub pomieszczeń przynależnych do tego lokalu, podlega karze grzywny.
-
-3. Kto, będąc obowiązany do zwolnienia zajmowanej kwatery albo innego lokalu mieszkalnego, opróżnia je bez zawiadomienia o tym odpowiednio Agencji albo Zarządu Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji, podlega karze grzywny.
+**Art. 79.** Kto narusza zakaz wstępu na teren zajęty na zakwaterowanie Sił Zbrojnych lub na teren objęty strefą niebezpieczeństwa, podlega karze grzywny. Art. 80W brzmieniu ustalonym przez art. 3 pkt 11 ustawy, o której mowa w odnośniku 1.. 1. Kto wbrew przepisom ustawy zajmuje samowolnie kwaterę lub lokal mieszkalny albo lokal będący w Zarządzie Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych albo oddaje je w podnajem lub użycza, podlega karze grzywny. 2. Osoba przebywająca w kwaterze lub lokalu mieszkalnym albo lokalu będącym w Zarządzie Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych, która w sposób złośliwy lub uporczywy zakłóca osobom zamieszkującym w danym budynku korzystanie z zajmowanego lokalu mieszkalnego lub pomieszczeń przynależnych do tego lokalu, podlega karze grzywny. 3. Kto, będąc obowiązany do zwolnienia zajmowanej kwatery albo innego lokalu mieszkalnego, opróżnia je bez zawiadomienia o tym odpowiednio Agencji albo Zarządu Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji, podlega karze grzywny.
 
 **Art. 81.**
 
@@ -847,7 +833,7 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
 
 **Art. 82.** Orzekanie w sprawach o wykroczenia określone w art. 79–81 następuje w trybie przepisów o postępowaniu w sprawach o wykroczenia. Żołnierze odpowiadają za te czyny na zasadach określonych w ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny.
 
-#### Rozdział 9 Przepisy przejściowe i końcowe
+#### Rozdział 9
 
 **Art. 83.** (uchylony)
 
@@ -873,8 +859,8 @@ przyjmowanie i zdawanie pokoju w internacie odbywało się z uwzględnieniem dok
 
 **Art. 94.**
 
-1. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z zastrzeżeniem ust. 2.
+1. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 26 lipca 1995 r., z zastrzeżeniem ust. 2.
 
-2. Przepisy rozdziałów 4–6 oraz art. 86–91 wchodzą w życie z dniem 1 stycznia 1996 r.
+2. Przepisy rozdziałów 4–6 oraz art. 86–91 wchodzą w życie z dniem 1 stycznia 1996 r. 1) W brzmieniu ustalonym przez art. 3 pkt 1 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872), która weszła w życie z dniem 29 września 2023 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858, 859, 863 i 1222. 3) Dodany przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 1. 4) W brzmieniu ustalonym przez art. 3 pkt 3 lit. a ustawy, o której mowa w odnośniku 1. 5) W brzmieniu ustalonym przez art. 3 pkt 3 lit. b ustawy, o której mowa w odnośniku 1. 6) W brzmieniu ustalonym przez art. 3 pkt 3 lit. c ustawy, o której mowa w odnośniku 1. 7) Ze zmianą wprowadzoną przez art. 3 pkt 4 lit. a ustawy, o której mowa w odnośniku 1. 8) Dodany przez art. 3 pkt 4 lit. b ustawy, o której mowa w odnośniku 1. 9) W brzmieniu ustalonym przez art. 3 pkt 5 lit. a ustawy, o której mowa w odnośniku 1. 10) W brzmieniu ustalonym przez art. 3 pkt 5 lit. b ustawy, o której mowa w odnośniku 1. 11) Dodany przez art. 3 pkt 5 lit. c ustawy, o której mowa w odnośniku 1. 12) W brzmieniu ustalonym przez art. 3 pkt 5 lit. d ustawy, o której mowa w odnośniku 1. 13) W brzmieniu ustalonym przez art. 3 pkt 5 lit. e ustawy, o której mowa w odnośniku 1. 14) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 3 pkt 6 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 1. 15) Dodany przez art. 3 pkt 6 lit. a tiret drugie ustawy, o której mowa w odnośniku 1. 16) Dodany przez art. 3 pkt 6 lit. b ustawy, o której mowa w odnośniku 1. 17) W brzmieniu ustalonym przez art. 3 pkt 7 ustawy, o której mowa w odnośniku 1. 18) W brzmieniu ustalonym przez art. 3 pkt 8 lit. a ustawy, o której mowa w odnośniku 1. 19) Dodany przez art. 3 pkt 8 lit. b ustawy, o której mowa w odnośniku 1. 20) W brzmieniu ustalonym przez art. 3 pkt 9 ustawy, o której mowa w odnośniku 1. 21) W brzmieniu ustalonym przez art. 3 pkt 10 ustawy, o której mowa w odnośniku 1. 22) W brzmieniu ustalonym przez art. 3 pkt 11 ustawy, o której mowa w odnośniku 1. 23) Ustawa została ogłoszona w dniu 26 lipca 1995 r.
 
 

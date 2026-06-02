@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-09-24 |
 | Data wydania | 2014-09-30 |
-| Wejście w życie | 2014-10-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001308) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1308/text.pdf) |
 
@@ -44,5 +43,5 @@ Obowiązek zawarcia umowy gwarancji bankowej albo ubezpieczeniowej powstaje nie 
 § 4.
 Przepisy rozporządzenia stosuje się do umów gwarancji bankowej albo ubezpieczeniowej zawartych od dnia wejścia w życie rozporządzenia.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 8 października 2014 r.
+Rozporządzenie wchodzi w życie z dniem 8 października 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 18 kwietnia 2012 r. w sprawie minimalnej sumy gwarancji bankowej i ubezpieczeniowej wymaganej w związku z wykonywaniem przez biuro usług płatniczych transakcji płatniczych wynikających z umowy o świadczenie usług płatniczych oraz terminu powstania obowiązku zawarcia umowy gwarancji (Dz. U. poz. 437), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 36 ust. 1 ustawy z dnia 12 lipca 2013 r. o zmianie ustawy o usługach płatniczych oraz niektórych innych ustaw (Dz. U. poz. 1036). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 18 kwietnia 2012 r. w sprawie minimalnej sumy gwarancji bankowej i ubezpieczeniowej wymaganej w związku z wykonywaniem przez biuro usług płatniczych transakcji płatniczych wynikających z umowy o świadczenie usług płatniczych oraz terminu powstania obowiązku zawarcia umowy gwarancji (Dz. U. poz. 437), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 36 ust. 1 ustawy z dnia 12 lipca 2013 r. o zmianie ustawy o usługach płatniczych oraz niektórych innych ustaw (Dz. U. poz. 1036).
 

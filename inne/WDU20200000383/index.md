@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-09 |
 | Data wydania | 2020-03-09 |
-| Wejście w życie | 2020-03-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000383) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/383/text.pdf) |
 
@@ -35,7 +34,7 @@ source: "eli-html"
 1. W roku 2020 minister właściwy do spraw budżetu, na wniosek Krajowej Rady Radiofonii i Telewizji, przekaże jednostkom publicznej radiofonii i telewizji skarbowe papiery wartościowe jako rekompensatę z tytułu utraconych:
 
 - **1)** w latach 2018 i 2019, a niezrekompensowanych na podstawie art. 11a,
-- **2)** w roku 2020 wpływów z opłat abonamentowych z tytułu zwolnień, o których mowa w art. 4 ust. 1, z przeznaczeniem na realizację przez jednostki publicznej radiofonii i telewizji misji publicznej, o której mowa w art. 21 ust. 1 ustawy o radiofonii i telewizji.
+- **2)** w roku 2020 – wpływów z opłat abonamentowych z tytułu zwolnień, o których mowa w art. 4 ust. 1, z przeznaczeniem na realizację przez jednostki publicznej radiofonii i telewizji misji publicznej, o której mowa w art. 21 ust. 1 ustawy o radiofonii i telewizji.
 
 2. Łączna wartość nominalna skarbowych papierów wartościowych, o których mowa w ust. 1, wynosi 1 950 000 tys. zł.
 

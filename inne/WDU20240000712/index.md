@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 6 maja 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla
+# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 6 maja 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Środowiska z dnia 12 marca 2018 r. w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla (Dz. U. z 2019 r. poz. 1493), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Klimatu i Środowiska z dnia 3 listopada 2023 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla (Dz. U. poz. 2410).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 3 listopada 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla (Dz. U. poz. 2410), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 3 listopada 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla (Dz. U. poz. 2410), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
-Załącznik – Rozporządzenie Ministra Środowiska z dnia 12 marca 2018 r. w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
+Załącznik – Rozporządzenie Ministra Środowiska z dnia 12 marca 2018 r. w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węglaNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 Na podstawie art. 400a ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki udzielania pomocy publicznej przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej, na podstawie ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla, zwanej dalej „pomocą”.
@@ -80,9 +77,8 @@ Koszty realizacji celów, o których mowa w § 6 ust. 1, pomniejsza się o docho
 Pomoc podlega sumowaniu z inną pomocą publiczną udzielaną w związku z tymi samymi kosztami, jeżeli pomoc ta została zatwierdzona przez Komisję Europejską.
 4.
 Całkowita wartość zsumowanej pomocy nie może powodować przekroczenia intensywności pomocy określonej w ust. 1.
-§ 9.
+§ 9W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 3 listopada 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla (Dz. U. poz. 2410), które weszło w życie z dniem 22 listopada 2023 r..
 Rozporządzenie obowiązuje do dnia 31 grudnia 2027 r.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 3 listopada 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla (Dz. U. poz. 2410), które weszło w życie z dniem 22 listopada 2023 r. 3) Rozporządzenie zostało ogłoszone w dniu 20 marca 2018 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 20 marca 2018 r.. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 3 listopada 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla (Dz. U. poz. 2410), które weszło w życie z dniem 22 listopada 2023 r. 3) Rozporządzenie zostało ogłoszone w dniu 20 marca 2018 r.
 

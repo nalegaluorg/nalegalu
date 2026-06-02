@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-01 |
 | Data wydania | 2024-03-05 |
-| Wejście w życie | 2024-03-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000313) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/313/text.pdf) |
 
@@ -274,5 +273,5 @@ w Szczecinie, dla miast i gmin objętych zasięgiem działania powiatów: goleni
 f)
 w Świnoujściu, dla miast i gmin objętych zasięgiem działania powiatów: gryfickiego i kamieńskiego oraz miasta Świnoujście.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 14 kwietnia 2022 r. w sprawie Centralnego Wojskowego Centrum Rekrutacji oraz wojskowych centrów rekrutacji (Dz. U. poz. 856), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 ust. 1 pkt 2 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 14 kwietnia 2022 r. w sprawie Centralnego Wojskowego Centrum Rekrutacji oraz wojskowych centrów rekrutacji (Dz. U. poz. 856), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 ust. 1 pkt 2 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-04-05 |
 | Data wydania | 2013-04-18 |
-| Wejście w życie | 2013-05-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000469) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/469/text.pdf) |
 
@@ -33,23 +32,17 @@ W rozporządzeniu Ministra Sprawiedliwości z dnia 5 marca 2004 r. w sprawie prz
 1)
 w § 26:
 a)
-po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Prezes sądu może wyznaczyć do czynności, o których mowa w ust. 1, referendarza sądowego lub asystenta sędziego, a w wyjątkowych przypadkach – kierownika sekretariatu.
-” ,
+Prezes sądu może wyznaczyć do czynności, o których mowa w ust. 1, referendarza sądowego lub asystenta sędziego, a w wyjątkowych przypadkach – kierownika sekretariatu. ” ,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Zaliczenia do kategorii A akt wymienionych w § 7, 10, 13, 17 i 20 dokonuje co 5 lat sędzia, referendarz sądowy lub asystent sędziego wyznaczony do tej czynności przez prezesa sądu.
-” ;
+Zaliczenia do kategorii A akt wymienionych w § 7, 10, 13, 17 i 20 dokonuje co 5 lat sędzia, referendarz sądowy lub asystent sędziego wyznaczony do tej czynności przez prezesa sądu. ” ;
 2)
-w § 27 ust. 2 otrzymuje brzmienie:
-„
+w § 27 ust. 2 otrzymuje brzmienie: „
 2.
-Przed przekazaniem akt do zniszczenia prezes sądu powołuje komisję w celu przeprowadzenia czynności związanych z brakowaniem akt. Komisji przewodniczy sędzia, referendarz sądowy lub asystent sędziego wyznaczony do tej czynności przez prezesa sądu.
-” .
+Przed przekazaniem akt do zniszczenia prezes sądu powołuje komisję w celu przeprowadzenia czynności związanych z brakowaniem akt. Komisji przewodniczy sędzia, referendarz sądowy lub asystent sędziego wyznaczony do tej czynności przez prezesa sądu. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

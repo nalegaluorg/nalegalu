@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 8 czerwca 2016 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań dotyczących programów ochrony w lotnictwie cywilnym
+# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 8 czerwca 2016 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań dotyczących programów ochrony w lotnictwie cywilnym Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-08 |
 | Data wydania | 2016-07-08 |
-| Wejście w życie | 2016-07-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000992) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/992/text.pdf) |
 
@@ -37,29 +36,23 @@ Na podstawie art. 189 ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (D
 § 1.
 W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 15 marca 2013 r. w sprawie szczegółowych wymagań dotyczących programów ochrony w lotnictwie cywilnym (Dz. U. poz. 374) wprowadza się następujące zmiany:
 1)
-w § 3 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 i 8 w brzmieniu:
-„
+w § 3 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 i 8 w brzmieniu: „
 7)
 znanego dostawcy zaopatrzenia pokładowego określa załącznik nr 7 do rozporządzenia;
 8)
-znanego dostawcy zaopatrzenia portu lotniczego określa załącznik nr 8 do rozporządzenia.
-” ;
+znanego dostawcy zaopatrzenia portu lotniczego określa załącznik nr 8 do rozporządzenia. ” ;
 2)
 w § 4:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Program ochrony jest przedstawiany do zatwierdzenia Prezesowi Urzędu Lotnictwa Cywilnego, wraz z kompletem załączników, w formie wydruku oraz na informatycznym nośniku danych umożliwiającym kopiowanie jego treści, z zastrzeżeniem ust. 4.
-” ,
+Program ochrony jest przedstawiany do zatwierdzenia Prezesowi Urzędu Lotnictwa Cywilnego, wraz z kompletem załączników, w formie wydruku oraz na informatycznym nośniku danych umożliwiającym kopiowanie jego treści, z zastrzeżeniem ust. 4. ” ,
 b)
-dodaje się ust. 4 i 5 w brzmieniu:
-„
+dodaje się ust. 4 i 5 w brzmieniu: „
 4.
 Program ochrony znanego dostawcy zaopatrzenia pokładowego i program ochrony znanego dostawcy zaopatrzenia portu lotniczego jest przedstawiany do zatwierdzenia podmiotowi, który dokonuje wyznaczenia. Przepisy ust. 1–3 stosuje się odpowiednio.
 5.
-Program ochrony znanego dostawcy zaopatrzenia pokładowego albo program ochrony znanego dostawcy zaopatrzenia portu lotniczego zatwierdzony w innym państwie członkowskim Unii Europejskiej zgodnie z pkt 8.1.4.4 lub pkt 9.1.3.4 załącznika do rozporządzenia wykonawczego Komisji (UE) 2015/1998 z dnia 5 listopada 2015 r. ustanawiającego szczegółowe środki w celu wprowadzenia w życie wspólnych podstawowych norm ochrony lotnictwa cywilnego (Dz. Urz. UE L 299 z 14.11.2015, str. 1, z późn. zm.), obejmujący środki kontroli w zakresie ochrony, o których mowa odpowiednio w pkt 8.1.5 lub pkt 9.1.4 załącznika do tego rozporządzenia, uznaje się za spełniający wymogi niniejszego rozporządzenia.
-” ;
+Program ochrony znanego dostawcy zaopatrzenia pokładowego albo program ochrony znanego dostawcy zaopatrzenia portu lotniczego zatwierdzony w innym państwie członkowskim Unii Europejskiej zgodnie z pkt 8.1.4.4 lub pkt 9.1.3.4 załącznika do rozporządzenia wykonawczego Komisji (UE) 2015/1998 z dnia 5 listopada 2015 r. ustanawiającego szczegółowe środki w celu wprowadzenia w życie wspólnych podstawowych norm ochrony lotnictwa cywilnego (Dz. Urz. UE L 299 z 14.11.2015, str. 1, z późn. zm.), obejmujący środki kontroli w zakresie ochrony, o których mowa odpowiednio w pkt 8.1.5 lub pkt 9.1.4 załącznika do tego rozporządzenia, uznaje się za spełniający wymogi niniejszego rozporządzenia. ” ;
 3)
 w załączniku nr 1 do rozporządzenia:
 a)
@@ -69,35 +62,29 @@ w pkt 4.6 dodaje się ppkt 4.6.5 i 4.6.6 w brzmieniu:
 4.6.5.
 Kategorie przedmiotów zabronionych do wnoszenia do strefy zastrzeżonej.
 4.6.6.
-Zwolnienia z zakazu wnoszenia przedmiotów zabronionych do strefy zastrzeżonej.
-” ,
+Zwolnienia z zakazu wnoszenia przedmiotów zabronionych do strefy zastrzeżonej. ” ,
 c)
 dodaje się pkt 4.14 i 4.15 w brzmieniu:
 4.14.
 Lokalizacja oraz organizacja, sposób i warunki dostępu do stanowiska rozpoznania i neutralizacji materiałów i urządzeń wybuchowych.
 4.15.
-Przewóz broni palnej, gazowej i amunicji.
-” ;
+Przewóz broni palnej, gazowej i amunicji. ” ;
 4)
 w załączniku nr 2 do rozporządzenia:
 a)
 w pkt 11 dodaje się ppkt 11.4 w brzmieniu:
 11.4.
-Karty identyfikacyjne członków załogi przewoźnika lotniczego.
-” ,
+Karty identyfikacyjne członków załogi przewoźnika lotniczego. ” ,
 b)
 w pkt 13 dodaje się ppkt 13.10 w brzmieniu:
 13.10.
-Wzór karty identyfikacyjnej członka załogi przewoźnika lotniczego.
-” ;
+Wzór karty identyfikacyjnej członka załogi przewoźnika lotniczego. ” ;
 5)
 w załączniku nr 4 do rozporządzenia w pkt 9 ppkt 9.5 otrzymuje brzmienie:
 9.5.
-Procedury ochrony i kontroli dostępu realizowane przez znanych dostawców wyznaczonych przez zarejestrowanego dostawcę zaopatrzenia pokładowego.
-” ;
+Procedury ochrony i kontroli dostępu realizowane przez znanych dostawców wyznaczonych przez zarejestrowanego dostawcę zaopatrzenia pokładowego. ” ;
 6)
-w załączniku nr 6 do rozporządzenia dodaje się pkt 11 w brzmieniu:
-„
+w załączniku nr 6 do rozporządzenia dodaje się pkt 11 w brzmieniu: „
 11.
 Wewnętrzny system kontroli jakości w zakresie ochrony lotnictwa cywilnego
 11.1.
@@ -107,8 +94,7 @@ Czynności audytorskie z zakresu ochrony lotnictwa cywilnego.
 11.3.
 Przeglądy systemu ochrony obiektów.
 11.4.
-Testy systemu ochrony obiektów.
-” ;
+Testy systemu ochrony obiektów. ” ;
 7)
 dodaje się załączniki nr 7 i 8 do rozporządzenia w brzmieniu określonym odpowiednio w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
 § 2.
@@ -117,8 +103,7 @@ Programy ochrony portu lotniczego i innego lotniska niepodlegającego alternatyw
 2.
 Programy ochrony znanego dostawcy zaopatrzenia pokładowego oraz programy ochrony znanego dostawcy zaopatrzenia portu lotniczego, zatwierdzone przed dniem wejścia w życie niniejszego rozporządzenia, podlegają dostosowaniu do wymogów niniejszego rozporządzenia w terminie dwóch lat od dnia wejścia w życie rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
 
 ## Załącznik nr 1 — – Szczegółowe wymagania dotyczące programu ochrony znanego dostawcy zaopatrzenia pokładowego
 

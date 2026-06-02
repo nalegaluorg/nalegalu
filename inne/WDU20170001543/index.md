@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 lipca 2017 r. o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz niektórych innych ustaw
+# Ustawa z dnia 20 lipca 2017 r. o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 27 czerwca 2003 r. o rencie socjalnej, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 12 grudnia 2013 r. o cudzoziemcach oraz ustawę z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci.
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-20 |
 | Data wydania | 2017-08-17 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001543) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1543/text.pdf) |
+
+Zezwolenie na pobyt czasowy ze względu na pracę sezonową
 
 **Art. 1.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2017 r. poz. 1065, 1292, 1321 i 1428) wprowadza się następujące zmiany:
 
 - **1)** w odnośniku nr 1 do tytułu ustawy w zdaniu pierwszym w tiret ósmym kropkę zastępuje się przecinkiem i dodaje się tiret dziewiąte w brzmieniu: „ – dyrektywy Parlamentu Europejskiego i Rady 2014/36/UE z dnia 26 lutego 2014 r. w sprawie warunków wjazdu i pobytu obywateli państw trzecich w celu zatrudnienia w charakterze pracownika sezonowego (Dz. Urz. UE L 94 z 28.03.2014, str. 375). ” ;
-- **2)** w art. 1: w ust. 3: – w pkt 2 po lit. ha dodaje się lit. hb w brzmieniu: „ hb) posiadających w Rzeczypospolitej Polskiej wizę wydaną w celu, o którym mowa w art. 60 ust. 1 pkt 5a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub zezwolenie na pobyt czasowy, o którym mowa w art. 185a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, albo przebywających na terytorium Rzeczypospolitej Polskiej w ramach ruchu bezwizowego w związku z wnioskiem wpisanym do ewidencji wniosków, o której mowa w art. 88p ust. 1 pkt 1, ” , – pkt 3 otrzymuje brzmienie: „ 3) cudzoziemców towarzyszących na terytorium Rzeczypospolitej Polskiej cudzoziemcowi, o którym mowa w pkt 2 lit. a-c, jako członkowie rodziny w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2017 r. poz. 900); ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) cudzoziemców – członków rodzin cudzoziemców, o których mowa w pkt 2 lit. d, i, j oraz l; ” , dodaje się ust. 7 w brzmieniu: „
+- **2)** w art. 1: w ust. 3: – w pkt 2 po lit. ha dodaje się lit. hb w brzmieniu: „ hb) posiadających w Rzeczypospolitej Polskiej wizę wydaną w celu, o którym mowa w art. 60 ust. 1 pkt 5a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub zezwolenie na pobyt czasowy, o którym mowa w art. 185a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, albo przebywających na terytorium Rzeczypospolitej Polskiej w ramach ruchu bezwizowego w związku z wnioskiem wpisanym do ewidencji wniosków, o której mowa w art. 88p ust. 1 pkt 1, ” , pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** cudzoziemców towarzyszących na terytorium Rzeczypospolitej Polskiej cudzoziemcowi, o którym mowa w pkt 2 lit. a-c, jako członkowie rodziny w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2017 r. poz. 900); ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** cudzoziemców – członków rodzin cudzoziemców, o których mowa w pkt 2 lit. d, i, j oraz l; ” , dodaje się ust. 7 w brzmieniu: „
     - **b)**
 
 7. Na zasadach określonych w ustawie osoby, o których mowa w ust. 3 pkt 2 lit. hb, mogą korzystać z usług rynku pracy dotyczących pracy sezonowej w rozumieniu art. 88 ust. 2, z wyłączeniem prawa do świadczeń określonych w art. 41–42a. ” ;
@@ -58,8 +62,11 @@ source: "eli-html"
 
 - **6)** w art. 43 w ust. 1 pkt 9 otrzymuje brzmienie: „
 - **9)** jest cudzoziemcem, o którym mowa w art. 1 ust. 3 pkt 2 lit. h, ha lub hb, z zastrzeżeniem art. 1 ust. 6 i 7 ” ;
-- **7)** w art. 87: w ust. 1: – po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) posiada ważne zaświadczenie wydane na podstawie art. 35 ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej; ” , – pkt 10 otrzymuje brzmienie: „ 10) towarzyszy na terytorium Rzeczypospolitej Polskiej cudzoziemcowi, o którym mowa w pkt 7–9, jako członek rodziny w rozumieniu ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin; ” , – w pkt 12 po lit. c dodaje się lit. ca w brzmieniu: „ ca) na podstawie dokumentu, o którym mowa w art. 61 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, określającego status członka rodziny członka misji dyplomatycznej lub urzędu konsularnego państwa obcego albo innej osoby zrównanej z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, pozostającego z tą osobą we wspólnocie domowej, jeżeli pomiędzy Rzecząpospolitą Polską a państwem obcym zostały zawarte umowa lub porozumienie międzynarodowe w sprawie wykonywania działalności zarobkowej przez członków rodzin członków personelu misji dyplomatycznych lub urzędów konsularnych, lub ” , w ust. 2 uchyla się pkt 7, dodaje się ust. 3 i 4 w brzmieniu: „
+- **7)** w art. 87: w ust. 1: po pkt 6 dodaje się pkt 6a w brzmieniu: „
     - **a)**
+
+- **6a)** posiada ważne zaświadczenie wydane na podstawie art. 35 ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej; ” , pkt 10 otrzymuje brzmienie: „
+- **10)** towarzyszy na terytorium Rzeczypospolitej Polskiej cudzoziemcowi, o którym mowa w pkt 7–9, jako członek rodziny w rozumieniu ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin; ” , – w pkt 12 po lit. c dodaje się lit. ca w brzmieniu: „ ca) na podstawie dokumentu, o którym mowa w art. 61 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, określającego status członka rodziny członka misji dyplomatycznej lub urzędu konsularnego państwa obcego albo innej osoby zrównanej z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, pozostającego z tą osobą we wspólnocie domowej, jeżeli pomiędzy Rzecząpospolitą Polską a państwem obcym zostały zawarte umowa lub porozumienie międzynarodowe w sprawie wykonywania działalności zarobkowej przez członków rodzin członków personelu misji dyplomatycznych lub urzędów konsularnych, lub ” , w ust. 2 uchyla się pkt 7, dodaje się ust. 3 i 4 w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -87,7 +94,7 @@ source: "eli-html"
     - **h)**
     - **i)**
 
-- **2)** dane osoby przebywającej na terytorium Rzeczypospolitej Polskiej, posiadającej dokumenty potwierdzające wypełnienie obowiązków określonych w art. 88c ust. 6 pkt 1 i 2 i upoważnionej do reprezentowania pracodawcy wobec wojewody i organów, o których mowa w art. 88f ust. 3: imię (imiona) i nazwisko, obywatelstwo, nazwę, serię, numer, datę wydania i datę ważności dokumentu tożsamości oraz nazwę organu, który wydał ten dokument, adres do korespondencji na terytorium Rzeczypospolitej Polskiej, numer telefonu oraz numer faksu lub adres poczty elektronicznej o charakterze służbowym w przypadkach, o których mowa w art. 88 ust. 1 pkt 3–5;
+- **2)** dane osoby przebywającej na terytorium Rzeczypospolitej Polskiej, posiadającej dokumenty potwierdzające wypełnienie obowiązków określonych w art. 88c ust. 6 pkt 1 i 2 i upoważnionej do reprezentowania pracodawcy wobec wojewody i organów, o których mowa w art. 88f ust. 3: imię (imiona) i nazwisko, obywatelstwo, nazwę, serię, numer, datę wydania i datę ważności dokumentu tożsamości oraz nazwę organu, który wydał ten dokument, adres do korespondencji na terytorium Rzeczypospolitej Polskiej, numer telefonu oraz numer faksu lub adres poczty elektronicznej o charakterze służbowym – w przypadkach, o których mowa w art. 88 ust. 1 pkt 3–5;
     - **a)**
     - **b)**
     - **c)**
@@ -116,17 +123,22 @@ source: "eli-html"
     - **c)**
     - **d)**
 
-- **11)** w art. 88c: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku, o którym mowa w art. 88 ust. 1 pkt 1, wojewoda wydaje zezwolenie, jeżeli: ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) wysokość miesięcznego wynagrodzenia, o którym mowa w pkt 1, nie będzie niższa niż wysokość minimalnego wynagrodzenia za pracę; ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
+- **11)** w art. 88c: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku, o którym mowa w art. 88 ust. 1 pkt 1, wojewoda wydaje zezwolenie, jeżeli: ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
+
+- **1a)** wysokość miesięcznego wynagrodzenia, o którym mowa w pkt 1, nie będzie niższa niż wysokość minimalnego wynagrodzenia za pracę; ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
     - **b)**
 
 1b. W przypadku gdy specyfika pracy tymczasowej wykonywanej przez cudzoziemca nie pozwala na wskazanie głównego miejsca jej wykonywania, informację, o której mowa w ust. 1 pkt 2, wydaje starosta właściwy ze względu na siedzibę lub miejsce zamieszkania pracodawcy użytkownika. ” , w ust. 3 pkt 1 otrzymuje brzmienie: „
 
 - **c)**
-- **1)** zawód, w którym cudzoziemiec ma wykonywać pracę, lub rodzaj pracy, która ma być mu powierzona, znajduje się w wykazie, o którym mowa w art. 10 ust. 4 pkt 1, określonym przez wojewodę właściwego ze względu na główne miejsce wykonywania pracy, siedzibę lub miejsce zamieszkania podmiotu powierzającego wykonywanie pracy cudzoziemcowi albo pracodawcy użytkownika, odpowiednio do właściwości miejscowej starosty, określonej w ust. 1 pkt 2, ust. 1a lub 1b; ” , w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku, o którym mowa w art. 88 ust. 1 pkt 2, wojewoda wydaje zezwolenie, jeżeli podmiot, którego członkiem zarządu, komplementariuszem lub prokurentem ma być cudzoziemiec: ” , – pkt 1 otrzymuje brzmienie: „ 1) w roku podatkowym poprzedzającym złożenie wniosku osiągnął dochód nie niższy niż 12-krotność aktualnego w dniu złożenia wniosku przeciętnego miesięcznego wynagrodzenia w województwie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 30 ust. 2 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2017 r. poz. 79 i 1442), oraz zatrudnia na czas nieokreślony i w pełnym wymiarze czasu pracy przez okres co najmniej roku poprzedzającego złożenie wniosku co najmniej dwóch pracowników, którzy nie podlegają obowiązkowi posiadania zezwolenia na pracę, lub ” , w ust. 6: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku, o którym mowa w art. 88 ust. 1 pkt 3–5, wojewoda wydaje zezwolenie, jeżeli: ” , – pkt 2 otrzymuje brzmienie: „ 2) wysokość wynagrodzenia, która będzie przysługiwała cudzoziemcowi za wykonywanie pracy, nie będzie niższa o więcej niż 30% od wysokości aktualnego w dniu złożenia wniosku przeciętnego miesięcznego wynagrodzenia w województwie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 30 ust. 2 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego; ” ;
+- **1)** zawód, w którym cudzoziemiec ma wykonywać pracę, lub rodzaj pracy, która ma być mu powierzona, znajduje się w wykazie, o którym mowa w art. 10 ust. 4 pkt 1, określonym przez wojewodę właściwego ze względu na główne miejsce wykonywania pracy, siedzibę lub miejsce zamieszkania podmiotu powierzającego wykonywanie pracy cudzoziemcowi albo pracodawcy użytkownika, odpowiednio do właściwości miejscowej starosty, określonej w ust. 1 pkt 2, ust. 1a lub 1b; ” , w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku, o którym mowa w art. 88 ust. 1 pkt 2, wojewoda wydaje zezwolenie, jeżeli podmiot, którego członkiem zarządu, komplementariuszem lub prokurentem ma być cudzoziemiec: ” , pkt 1 otrzymuje brzmienie: „
     - **d)**
+
+- **1)** w roku podatkowym poprzedzającym złożenie wniosku osiągnął dochód nie niższy niż 12-krotność aktualnego w dniu złożenia wniosku przeciętnego miesięcznego wynagrodzenia w województwie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 30 ust. 2 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2017 r. poz. 79 i 1442), oraz zatrudnia na czas nieokreślony i w pełnym wymiarze czasu pracy przez okres co najmniej roku poprzedzającego złożenie wniosku co najmniej dwóch pracowników, którzy nie podlegają obowiązkowi posiadania zezwolenia na pracę, lub ” , w ust. 6: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku, o którym mowa w art. 88 ust. 1 pkt 3–5, wojewoda wydaje zezwolenie, jeżeli: ” , pkt 2 otrzymuje brzmienie: „
     - **e)**
 
+- **2)** wysokość wynagrodzenia, która będzie przysługiwała cudzoziemcowi za wykonywanie pracy, nie będzie niższa o więcej niż 30% od wysokości aktualnego w dniu złożenia wniosku przeciętnego miesięcznego wynagrodzenia w województwie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 30 ust. 2 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego; ” ;
 - **12)** w art. 88f: ust. 1 i 1a otrzymują brzmienie: „
     - **a)**
 
@@ -145,16 +157,24 @@ source: "eli-html"
 
 1b. Do cudzoziemca, który złożył wniosek o zezwolenie na pobyt czasowy, o którym mowa w art. 114 ust. 1, art. 126 ust. 1, art. 127 lub art. 142 ust. 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub wniosek o udzielenie zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, w celu kontynuowania pracy wykonywanej zgodnie z posiadanym przez siebie zezwoleniem na pracę lub zezwoleniem na pobyt czasowy, stosuje się przepis ust. 1a. ” ;
 
-- **14)** w art. 88h: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) dostosowywania, w przypadku, o którym mowa w art. 88c ust. 6, wysokości wynagrodzenia cudzoziemca do aktualnej wysokości przeciętnego miesięcznego wynagrodzenia w województwie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 30 ust. 2 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego, co najmniej raz w roku; ” , – pkt 4 otrzymuje brzmienie: „ 4) przekazania jednego egzemplarza zezwolenia na pracę cudzoziemcowi, którego dotyczy zezwolenie, w formie pisemnej; ” , – pkt 6 otrzymuje brzmienie: „ 6) zachowania należytej staranności w postępowaniach o zezwolenie, przedłużenie i uchylenie zezwolenia na pracę cudzoziemca; ” , ust. 2 otrzymuje brzmienie: „
+- **14)** w art. 88h: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** dostosowywania, w przypadku, o którym mowa w art. 88c ust. 6, wysokości wynagrodzenia cudzoziemca do aktualnej wysokości przeciętnego miesięcznego wynagrodzenia w województwie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 30 ust. 2 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego, co najmniej raz w roku; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** przekazania jednego egzemplarza zezwolenia na pracę cudzoziemcowi, którego dotyczy zezwolenie, w formie pisemnej; ” , pkt 6 otrzymuje brzmienie: „
+- **6)** zachowania należytej staranności w postępowaniach o zezwolenie, przedłużenie i uchylenie zezwolenia na pracę cudzoziemca; ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
-2. W stosunku do cudzoziemca pełniącego funkcję w zarządzie osoby prawnej wpisanej do rejestru przedsiębiorców lub będącej spółką kapitałową w organizacji albo prowadzącego sprawy spółki komandytowej lub komandytowo-akcyjnej jako komplementariusz, albo będącego prokurentem przepisów ust. 1 pkt 1–3 nie stosuje się. ” , w ust. 3 wyrazy „art. 88 pkt 3–5” zastępuje się wyrazami „art. 88 ust. 1 pkt 3–5”, w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku stwierdzenia naruszenia przepisów ust. 1–3, niewypłacenia należnego wynagrodzenia lub nieopłacenia należnych składek na ubezpieczenia społeczne podmiot powierzający wykonywanie pracy cudzoziemcowi jest obowiązany do: ” , – pkt 2 otrzymuje brzmienie: „ 2) wypłacenia cudzoziemcowi zaległego wynagrodzenia za okres wykonywanej pracy w wysokości zgodnej z zezwoleniem na pracę oraz opłacenia związanych z nim składek na ubezpieczenia społeczne i zaliczek na podatek dochodowy. ” ;
+2. W stosunku do cudzoziemca pełniącego funkcję w zarządzie osoby prawnej wpisanej do rejestru przedsiębiorców lub będącej spółką kapitałową w organizacji albo prowadzącego sprawy spółki komandytowej lub komandytowo-akcyjnej jako komplementariusz, albo będącego prokurentem przepisów ust. 1 pkt 1–3 nie stosuje się. ” , w ust. 3 wyrazy „art. 88 pkt 3–5” zastępuje się wyrazami „art. 88 ust. 1 pkt 3–5”, w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku stwierdzenia naruszenia przepisów ust. 1–3, niewypłacenia należnego wynagrodzenia lub nieopłacenia należnych składek na ubezpieczenia społeczne podmiot powierzający wykonywanie pracy cudzoziemcowi jest obowiązany do: ” , pkt 2 otrzymuje brzmienie: „
 
 - **c)**
 - **d)**
-- **15)** w art. 88j: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) nie spełnił wymogów określonych w art. 88c; ” , – w pkt 9 po lit. a dodaje się lit. aa w brzmieniu: „ aa) nie spełnia wymagań podmiotu powierzającego wykonywanie pracy cudzoziemcowi określonych w informacji starosty o braku możliwości zaspokojenia potrzeb kadrowych pracodawcy, ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **2)** wypłacenia cudzoziemcowi zaległego wynagrodzenia za okres wykonywanej pracy w wysokości zgodnej z zezwoleniem na pracę oraz opłacenia związanych z nim składek na ubezpieczenia społeczne i zaliczek na podatek dochodowy. ” ;
+- **15)** w art. 88j: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** nie spełnił wymogów określonych w art. 88c; ” , w pkt 9 po lit. a dodaje się lit. aa w brzmieniu: „ nie spełnia wymagań podmiotu powierzającego wykonywanie pracy cudzoziemcowi określonych w informacji starosty o braku możliwości zaspokojenia potrzeb kadrowych pracodawcy, ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **aa)**
     - **b)**
 
 1a. Przepisy ust. 1 pkt 3–7 stosuje się odpowiednio w przypadku, gdy osobą ukaraną jest osoba fizyczna, która działała w imieniu podmiotu powierzającego wykonywanie pracy cudzoziemcowi. ” , po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
@@ -400,8 +420,13 @@ source: "eli-html"
 
 3. Przepisy ust. 1 i 2 stosuje się odpowiednio w przypadku wniosku cudzoziemca o udzielenie zezwolenia na pobyt czasowy, o którym mowa w art. 114 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, w celu kontynuacji zatrudnienia u danego pracodawcy. ” ;
 
-- **19)** w art. 90: w ust. 1: – pkt 5 otrzymuje brzmienie: „ 5) wykaz dokumentów, które podmiot powierzający wykonywanie pracy cudzoziemcowi jest obowiązany dołączyć do wniosku o wydanie zezwolenia na pracę albo przedstawić w trakcie postępowania administracyjnego, ” , – w pkt 6 na końcu dodaje się przecinek i dodaje się pkt 7–9 w brzmieniu: „ 7) wzory zaświadczeń o wpisie do ewidencji wniosków w sprawie pracy sezonowej, 8) wzory oświadczeń o powierzeniu wykonywania pracy cudzoziemcowi, 9) tryb postępowania w sprawie wpisu oświadczenia o powierzeniu wykonywania pracy cudzoziemcowi do ewidencji oświadczeń ” , – część wspólna otrzymuje brzmienie: „ – mając na uwadze specyfikę sytuacji, o których mowa w art. 87 ust. 3 i 4 oraz art. 88, pierwszeństwo dostępu do rynku pracy dla obywateli polskich i cudzoziemców, o których mowa w art. 87 ust. 1 pkt 1–11, oraz zapewnienie właściwej organizacji postępowania w sprawach wydawania i przedłużania zezwoleń na pracę oraz w sprawach wpisu do ewidencji oświadczeń. ” , uchyla się ust. 7, dodaje się ust. 9–11 w brzmieniu: „
+- **19)** w art. 90: w ust. 1: pkt 5 otrzymuje brzmienie: „
     - **a)**
+
+- **5)** wykaz dokumentów, które podmiot powierzający wykonywanie pracy cudzoziemcowi jest obowiązany dołączyć do wniosku o wydanie zezwolenia na pracę albo przedstawić w trakcie postępowania administracyjnego, ” , w pkt 6 na końcu dodaje się przecinek i dodaje się pkt 7–9 w brzmieniu: „
+- **7)** wzory zaświadczeń o wpisie do ewidencji wniosków w sprawie pracy sezonowej,
+- **8)** wzory oświadczeń o powierzeniu wykonywania pracy cudzoziemcowi,
+- **9)** tryb postępowania w sprawie wpisu oświadczenia o powierzeniu wykonywania pracy cudzoziemcowi do ewidencji oświadczeń ” , część wspólna otrzymuje brzmienie: „ – mając na uwadze specyfikę sytuacji, o których mowa w art. 87 ust. 3 i 4 oraz art. 88, pierwszeństwo dostępu do rynku pracy dla obywateli polskich i cudzoziemców, o których mowa w art. 87 ust. 1 pkt 1–11, oraz zapewnienie właściwej organizacji postępowania w sprawach wydawania i przedłużania zezwoleń na pracę oraz w sprawach wpisu do ewidencji oświadczeń. ” , uchyla się ust. 7, dodaje się ust. 9–11 w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -420,16 +445,17 @@ source: "eli-html"
 1a. Podmiot powierzający wykonywanie pracy cudzoziemcowi składa:
 
 - **1)** wniosek o wydanie zezwolenia na pracę sezonową lub jego przedłużenie,
-- **2)** oświadczenie o powierzeniu wykonywania pracy cudzoziemcowi w celu dokonania wpisu w ewidencji oświadczeń po dokonaniu jednorazowej wpłaty w wysokości nie większej niż 10% minimalnego wynagrodzenia za pracę za każdego cudzoziemca. ” , ust. 2 otrzymuje brzmienie: „
+- **2)** oświadczenie o powierzeniu wykonywania pracy cudzoziemcowi w celu dokonania wpisu w ewidencji oświadczeń – po dokonaniu jednorazowej wpłaty w wysokości nie większej niż 10% minimalnego wynagrodzenia za pracę za każdego cudzoziemca. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Wpłaty, o których mowa w ust. 1 i 1a, stanowią dochód budżetu państwa, z zastrzeżeniem ust. 2a. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
 - **c)**
 
-2a. W przypadku wpłaty dokonywanej w związku z wnioskiem o wydanie zezwolenia na pracę sezonową lub oświadczeniem o powierzeniu wykonywania pracy cudzoziemcowi, 50% tej wpłaty stanowi dochód powiatu. ” , w ust. 3: – we wprowadzeniu do wyliczenia wyrazy „wysokość wpłaty, o której mowa w ust. 1” zastępuje się wyrazami „wysokość wpłat, o których mowa w ust. 1 i 1a”, – w pkt 4 kropkę zastępuje się przecinkiem i dodaje się wyraz „lub” oraz dodaje się pkt 5 w brzmieniu: „ 5) liczbę oświadczeń o powierzeniu wykonywania pracy cudzoziemcowi składanych przez podmioty powierzające wykonywanie pracy cudzoziemcowi. ” ;
+2a. W przypadku wpłaty dokonywanej w związku z wnioskiem o wydanie zezwolenia na pracę sezonową lub oświadczeniem o powierzeniu wykonywania pracy cudzoziemcowi, 50% tej wpłaty stanowi dochód powiatu. ” , w ust. 3: – we wprowadzeniu do wyliczenia wyrazy „wysokość wpłaty, o której mowa w ust. 1” zastępuje się wyrazami „wysokość wpłat, o których mowa w ust. 1 i 1a”, w pkt 4 kropkę zastępuje się przecinkiem i dodaje się wyraz „lub” oraz dodaje się pkt 5 w brzmieniu: „
 
 - **d)**
+- **5)** liczbę oświadczeń o powierzeniu wykonywania pracy cudzoziemcowi składanych przez podmioty powierzające wykonywanie pracy cudzoziemcowi. ” ;
 - **21)** po art. 90a dodaje się art. 90b-90e w brzmieniu: „
 
 **Art. 90b.**
@@ -520,7 +546,7 @@ source: "eli-html"
 - **3)** konsulom w celu prowadzenia postępowań w sprawie wydania wizy;
 - **4)** Szefowi Urzędu do Spraw Cudzoziemców w celu prowadzenia postępowań w sprawie zezwoleń na pobyt czasowy, zezwoleń na pobyt rezydenta długoterminowego Unii Europejskiej, udzielenia ochrony międzynarodowej, zobowiązania cudzoziemca do powrotu oraz przedłużenia wizy i prowadzenia konsultacji zgodnie z art. 67–69 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
 - **5)** Państwowej Inspekcji Pracy w celu prowadzenia kontroli legalności zatrudnienia, innej pracy zarobkowej oraz wykonywania pracy przez cudzoziemców, oraz kontroli przestrzegania przepisów ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług;
-- **6)** Straży Granicznej w celu dokonywania kontroli ruchu granicznego zgodnie z art. 1 ust. 2 pkt 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2016 r. poz. 1643, z późn. zm.) oraz prowadzenia kontroli legalności wykonywania pracy przez cudzoziemców, prowadzenia działalności gospodarczej przez cudzoziemców, powierzania wykonywania pracy cudzoziemcom oraz pobytu cudzoziemców;
+- **6)** Straży Granicznej w celu dokonywania kontroli ruchu granicznego zgodnie z art. 1 ust. 2 pkt 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2016 r. poz. 1643, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 768, 1086 i 1321.) oraz prowadzenia kontroli legalności wykonywania pracy przez cudzoziemców, prowadzenia działalności gospodarczej przez cudzoziemców, powierzania wykonywania pracy cudzoziemcom oraz pobytu cudzoziemców;
 - **7)** Policji w celu prowadzenia kontroli legalności pobytu cudzoziemców;
 - **8)** naczelnikowi urzędu celno-skarbowego w celu prowadzenia kontroli legalności pobytu cudzoziemców.
 
@@ -553,7 +579,7 @@ source: "eli-html"
 
 11. Kto nie dopełnia obowiązku, o którym mowa w art. 90d ust. 1 lub 2, podlega karze grzywny od 200 zł do 2000 zł. ” .
 
-**Art. 2.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.) w art. 50 w ust. 14a w pkt 3 w lit. d dodaje się przecinek oraz dodaje się pkt 4 i 5 w brzmieniu: „
+**Art. 2.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921, 1948, 2138, 2255 i 2260 oraz z 2017 r. poz. 38, 60, 777, 962, 1027, 1321, 1428 i 1475.) w art. 50 w ust. 14a w pkt 3 w lit. d dodaje się przecinek oraz dodaje się pkt 4 i 5 w brzmieniu: „
 
 - **4)** liczbę ubezpieczonych,
 - **5)** okres rozliczeniowy ” .
@@ -564,7 +590,7 @@ source: "eli-html"
 
 **Art. 4.** W ustawie z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. z 2013 r. poz. 982 i 1650 oraz z 2014 r. poz. 1175 i 1682) w art. 2 pkt 3 otrzymuje brzmienie: „
 
-- **3)** cudzoziemcom posiadającym kartę pobytu z adnotacją „dostęp do rynku pracy”, z wyłączeniem obywateli państw trzecich, którzy uzyskali zezwolenie na pracę na terytorium państwa członkowskiego na okres nieprzekraczający 6 miesięcy, obywateli państw trzecich przyjętych w celu podjęcia studiów lub pracy sezonowej oraz obywateli państw trzecich, którzy mają prawo do wykonywania pracy na podstawie wizy; ” . W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2016 r. poz. 1518, z późn. zm.) w art. 1 w ust. 2 w pkt 2 lit. d otrzymuje brzmienie: „ posiadającym kartę pobytu z adnotacją „dostęp do rynku pracy”, z wyłączeniem obywateli państw trzecich, którzy uzyskali zezwolenie na pracę na terytorium państwa członkowskiego na okres nieprzekraczający 6 miesięcy, obywateli państw trzecich przyjętych w celu podjęcia studiów lub pracy sezonowej oraz obywateli państw trzecich, którzy mają prawo do wykonywania pracy na podstawie wizy. ” .
+- **3)** cudzoziemcom posiadającym kartę pobytu z adnotacją „dostęp do rynku pracy”, z wyłączeniem obywateli państw trzecich, którzy uzyskali zezwolenie na pracę na terytorium państwa członkowskiego na okres nieprzekraczający 6 miesięcy, obywateli państw trzecich przyjętych w celu podjęcia studiów lub pracy sezonowej oraz obywateli państw trzecich, którzy mają prawo do wykonywania pracy na podstawie wizy; ” . W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2016 r. poz. 1518, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1579 oraz z 2017 r. poz. 60, 624, 777, 1321 i 1428.) w art. 1 w ust. 2 w pkt 2 lit. d otrzymuje brzmienie: „ posiadającym kartę pobytu z adnotacją „dostęp do rynku pracy”, z wyłączeniem obywateli państw trzecich, którzy uzyskali zezwolenie na pracę na terytorium państwa członkowskiego na okres nieprzekraczający 6 miesięcy, obywateli państw trzecich przyjętych w celu podjęcia studiów lub pracy sezonowej oraz obywateli państw trzecich, którzy mają prawo do wykonywania pracy na podstawie wizy. ” .
     - **d)**
 
 **Art. 6.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2016 r. poz. 1827 oraz z 2017 r. poz. 624, 1273 i 1529) w załączniku do ustawy w części III wprowadza się następujące zmiany:
@@ -573,7 +599,9 @@ source: "eli-html"
 
 2. Zezwolenie na pobyt czasowy, z wyłączeniem zezwolenia udzielonego na podstawie art. 181 ust. 1 oraz art. 185a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2016 r. poz. 1990, 1948 i 2066 oraz z 2017 r. poz. 60, 858 i 1543) ” ;
 
-- **2)** po ust. 2b dodaje się ust. 2c w brzmieniu: 2c. Zezwolenie, o którym mowa w art. 185a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach 170 zł
+- **2)** po ust. 2b dodaje się ust. 2c w brzmieniu:
+
+2c. Zezwolenie, o którym mowa w art. 185a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach 170 zł
 
 **Art. 7.** W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2016 r. poz. 1990, 1948 i 2066 oraz z 2017 r. poz. 60 i 858) wprowadza się następujące zmiany:
 
@@ -668,7 +696,7 @@ source: "eli-html"
 
 - **18)** w dziale V po rozdziale 10 dodaje się rozdział 10a w brzmieniu: „
 
-#### Rozdział 10a Zezwolenie na pobyt czasowy ze względu na pracę sezonową
+#### Rozdział 10a
 
 **Art. 185a.**
 
@@ -691,7 +719,7 @@ source: "eli-html"
 - **20)** w art. 302 w ust. 1 pkt 4 otrzymuje brzmienie: „
 - **4)** wykonuje lub w dniu wszczęcia kontroli legalności wykonywania pracy prowadzonej przez uprawniony do tego organ wykonywał pracę bez odpowiedniego zezwolenia na pracę lub oświadczenia o powierzeniu wykonywania pracy cudzoziemcowi wpisanego do ewidencji oświadczeń, lub ” .
 
-**Art. 8.** W ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. poz. 195, z późn. zm.) w art. 1 w ust. 2 w pkt 2 lit. d otrzymuje brzmienie: „
+**Art. 8.** W ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. poz. 195, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1579 oraz z 2017 r. poz. 60, 245, 624, 777 i 1428.) w art. 1 w ust. 2 w pkt 2 lit. d otrzymuje brzmienie: „
 
 posiadającym kartę pobytu z adnotacją „dostęp do rynku pracy”, jeżeli zamieszkują z członkami rodzin na terytorium Rzeczypospolitej Polskiej, z wyłączeniem obywateli państw trzecich, którzy uzyskali zezwolenie na pracę na terytorium państwa członkowskiego na okres nieprzekraczający sześciu miesięcy, obywateli państw trzecich przyjętych w celu podjęcia studiów lub pracy sezonowej oraz obywateli państw trzecich, którzy mają prawo do wykonywania pracy na podstawie wizy. ” .
 
@@ -720,6 +748,6 @@ posiadającym kartę pobytu z adnotacją „dostęp do rynku pracy”, jeżeli z
 **Art. 15.** Ustawa wchodzi w życie z dniem 1 stycznia 2018 r., z wyjątkiem:
 
 - **1)** art. 12, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
-- **2)** art. 1 pkt 15 lit. e w zakresie art. 88j ust. 6 i art. 1 pkt 18 w zakresie art. 88z ust. 9, które wchodzą w życie z dniem 1 lipca 2018 r.
+- **2)** art. 1 pkt 15 lit. e w zakresie art. 88j ust. 6 i art. 1 pkt 18 w zakresie art. 88z ust. 9, które wchodzą w życie z dniem 1 lipca 2018 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 27 czerwca 2003 r. o rencie socjalnej, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 12 grudnia 2013 r. o cudzoziemcach oraz ustawę z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 768, 1086 i 1321. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921, 1948, 2138, 2255 i 2260 oraz z 2017 r. poz. 38, 60, 777, 962, 1027, 1321, 1428 i 1475. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1579 oraz z 2017 r. poz. 60, 624, 777, 1321 i 1428. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1579 oraz z 2017 r. poz. 60, 245, 624, 777 i 1428.
 
 

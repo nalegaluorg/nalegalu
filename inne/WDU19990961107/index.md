@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1999-11-05 |
 | Data wydania | 1999-12-03 |
-| Wejście w życie | 2000-01-03 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990961107) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/1107/text.pdf) |
 
@@ -53,8 +52,10 @@ source: "eli-html"
 
 3. Program, o którym mowa w ust. 1, jest finansowany z budżetu państwa w wysokości 0,5% wartości podatku akcyzowego od wyrobów tytoniowych. ” ;
 
-- **4)** w art. 5: w ust. 1: – w zdaniu wstępnym wyrazy „wyraźnie wyodrębnionymi miejscami” zastępuje się wyrazami „pomieszczeniami wyodrębnionymi i odpowiednio przystosowanymi”, – pkt 3 otrzymuje brzmienie: „ 3) w pomieszczeniach zakładów pracy oraz innych obiektów użyteczności publicznej, a w małych, jednoizbowych lokalach gastronomicznych – poza wyraźnie wyodrębnionymi miejscami. ” , dodaje się ust. 1a w brzmieniu: „
+- **4)** w art. 5: w ust. 1: – w zdaniu wstępnym wyrazy „wyraźnie wyodrębnionymi miejscami” zastępuje się wyrazami „pomieszczeniami wyodrębnionymi i odpowiednio przystosowanymi”, pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** w pomieszczeniach zakładów pracy oraz innych obiektów użyteczności publicznej, a w małych, jednoizbowych lokalach gastronomicznych – poza wyraźnie wyodrębnionymi miejscami. ” , dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Za wprowadzenie zakazu palenia tytoniu w miejscach, o których mowa w ust. 1, odpowiedzialny jest właściciel lub użytkownik obiektu. ” , ust. 3 otrzymuje brzmienie: „

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-07-28 |
 | Data wydania | 2011-09-08 |
-| Wejście w życie | 2011-09-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111871112) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1112/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 75, poz. 398, Nr 149, poz. 887 i Nr 168, poz. 1001.) wprowadza się następujące zmiany:
 
 - **1)** w art. 58 dodaje się ust. 4 w brzmieniu: „
 
@@ -57,5 +56,5 @@ source: "eli-html"
 
 2. Decyzję w sprawie ponownego ustalenia wysokości emerytury, z uwzględnieniem przeliczonego kapitału początkowego, organ rentowy wydaje w ciągu 60 dni od dnia wyjaśnienia ostatniej okoliczności niezbędnej do wydania decyzji.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 75, poz. 398, Nr 149, poz. 887 i Nr 168, poz. 1001.
 

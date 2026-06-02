@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 15 marca 2017 r. zmieniające rozporządzenie w sprawie zastosowań małoobszarowych środka ochrony roślin
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 15 marca 2017 r. zmieniające rozporządzenie w sprawie zastosowań małoobszarowych środka ochrony roślin Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-15 |
 | Data wydania | 2017-03-27 |
-| Wejście w życie | 2017-04-11 |
 | Ostatnia zmiana | 2025-10-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000640) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/640/text.pdf) |
 
@@ -41,9 +40,7 @@ załącznik nr 1 otrzymuje brzmienie określone w załączniku nr 1 do niniejsze
 2)
 załącznik nr 2 otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Ministra Rolnictwa i Rozwoju Wsi z dnia 15 marca 2017 r. (poz. ……)
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Ministra Rolnictwa i Rozwoju Wsi z dnia 15 marca 2017 r. (poz. ……) 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 ## Załącznik nr 1 — – Rośliny, które nie są powszechnie uprawiane na terytorium Rzeczypospolitej Polskiej
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-05 |
 | Data wydania | 2015-09-04 |
-| Wejście w życie | 2015-09-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001308) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1308/text.pdf) |
 
@@ -64,7 +63,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-3. Przedsiębiorca składa do Banku Gospodarstwa Krajowego wniosek o przyznanie premii technologicznej, do którego dołącza warunkową umowę kredytu technologicznego albo promesę kredytu technologicznego. Wniosek o przyznanie premii technologicznej jest równocześnie wnioskiem o dofinansowanie projektu, o którym mowa w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, z późn. zm.). ” , uchyla się ust. 4;
+3. Przedsiębiorca składa do Banku Gospodarstwa Krajowego wniosek o przyznanie premii technologicznej, do którego dołącza warunkową umowę kredytu technologicznego albo promesę kredytu technologicznego. Wniosek o przyznanie premii technologicznej jest równocześnie wnioskiem o dofinansowanie projektu, o którym mowa w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 378, 1130 i 1240.). ” , uchyla się ust. 4;
 
 - **c)**
 - **5)** uchyla się art. 6;
@@ -152,5 +151,5 @@ source: "eli-html"
 
 **Art. 3.** Do umów o wypłatę premii technologicznych, zawartych przez Bank Gospodarstwa Krajowego przed dniem 1 lipca 2014 r., w tym do wypłaty lub częściowej wypłaty premii technologicznych, stosuje się przepisy dotychczasowe.
 
-**Art. 4.** Do zwrotu kosztów przysługujących Bankowi Gospodarstwa Krajowego z tytułu udzielania premii technologicznej na podstawie umów, o których mowa w art. 3, stosuje się przepisy dotychczasowe. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 4.** Do zwrotu kosztów przysługujących Bankowi Gospodarstwa Krajowego z tytułu udzielania premii technologicznej na podstawie umów, o których mowa w art. 3, stosuje się przepisy dotychczasowe. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 378, 1130 i 1240.
 

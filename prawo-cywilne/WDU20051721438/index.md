@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
+# Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji oraz ustawę z dnia 13 czerwca 1967 r. o kosztach sądowych w sprawach cywilnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-28 |
 | Data wydania | 2005-09-09 |
-| Wejście w życie | 2005-12-10 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051721438) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1438/text.pdf) |
 
+Mediacja i postępowanie pojednawcze”;
 6)
-w rozdziale 1 działu II tytułu VI księgi pierwszej części pierwszej po tytule rozdziału dodaje się oddział 1 w brzmieniu:
-„
+w rozdziale 1 działu II tytułu VI księgi pierwszej części pierwszej po tytule rozdziału dodaje się oddział 1 w brzmieniu: „
+Mediacja
+Postępowanie pojednawcze”;
 8)
-po art. 202 dodaje się art. 2021 w brzmieniu:
-„
+po art. 202 dodaje się art. 2021 w brzmieniu: „
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384 oraz z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398 i Nr 169, poz. 1413 i 1417.) wprowadza się następujące zmiany:
 
 - **1)** art. 10 otrzymuje brzmienie: „
 
@@ -61,9 +61,9 @@ po art. 202 dodaje się art. 2021 w brzmieniu:
 
 - **5)** tytuł rozdziału 1 działu II tytułu VI księgi pierwszej części pierwszej otrzymuje brzmienie: „
 
-#### Rozdział 1. Mediacja i postępowanie pojednawcze”;
+#### Rozdział 1.
 
-##### Oddział 1. Mediacja
+##### Oddział 1.
 
 **Art. 1831.**
 
@@ -160,7 +160,7 @@ po art. 202 dodaje się art. 2021 w brzmieniu:
 
 - **7)** w rozdziale 1 działu II tytułu VI księgi pierwszej części pierwszej przed art. 184 wprowadza się oznaczenie i tytuł oddziału: „
 
-##### Oddział 2. Postępowanie pojednawcze”;
+##### Oddział 2.
 
 **Art. 2021.** Jeżeli strony przed wszczęciem postępowania sądowego zawarły umowę o mediację, sąd kieruje strony do mediacji na zarzut pozwanego zgłoszony przed wdaniem się w spór co do istoty sprawy. ” ;
 
@@ -211,7 +211,7 @@ po art. 202 dodaje się art. 2021 w brzmieniu:
 
 - **b)**
 
-**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783 oraz z 2005 r. Nr 48, poz. 462 i Nr 157, poz. 1316.) wprowadza się następujące zmiany:
 
 - **1)** w art. 123 w § 1 po pkt 2 kropkę zastępuje się przecinkiem i dodaje się pkt 3 w brzmieniu: „
 - **3)** przez wszczęcie mediacji. ” ;
@@ -223,13 +223,13 @@ po art. 202 dodaje się art. 2021 w brzmieniu:
 
 § 1. Roszczenie stwierdzone prawomocnym orzeczeniem sądu lub innego organu powołanego do rozpoznawania spraw danego rodzaju albo orzeczeniem sądu polubownego, jak również roszczenie stwierdzone ugodą zawartą przed sądem albo przed sądem polubownym albo ugodą zawartą przed mediatorem i zatwierdzoną przez sąd, przedawnia się z upływem lat dziesięciu, chociażby termin przedawnienia roszczeń tego rodzaju był krótszy. Jeżeli stwierdzone w ten sposób roszczenie obejmuje świadczenia okresowe, roszczenie o świadczenia okresowe należne w przyszłości ulega przedawnieniu trzyletniemu. ” .
 
-**Art. 3.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2002 r. Nr 110, poz. 968, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2002 r. Nr 110, poz. 968, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984, Nr 127, poz. 1090, Nr 141, poz. 1178, Nr 153, poz. 1271, Nr 169, poz. 1387, Nr 199, poz. 1672, Nr 200, poz. 1679 i Nr 216, poz. 1824, z 2003 r. Nr 80, poz. 718, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 193, poz. 1884, Nr 217, poz. 2124 i Nr 228, poz. 2255, z 2004 r. Nr 68, poz. 623, Nr 91, poz. 870 i 871, Nr 96, poz. 959 i Nr 116, poz. 1203 oraz z 2005 r. Nr 86, poz. 732.) wprowadza się następujące zmiany:
 
 - **1)** w art. 110w w § 4 pkt 2 otrzymuje brzmienie: „
 - **2)** właściwej jednostce samorządu terytorialnego oraz organom ubezpieczeń społecznych z wezwaniem, aby najpóźniej w dniu licytacji zgłosiły zestawienie podatków i innych danin publicznych, należnych na dzień licytacji, ” ;
 - **2)** w art. 112b uchyla się § 5.
 
-**Art. 4.** W ustawie z dnia 13 czerwca 1967 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2002 r. Nr 9, poz. 88, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 13 czerwca 1967 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2002 r. Nr 9, poz. 88, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 233, poz. 1955, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874 i Nr 139, poz. 1323, z 2004 r. Nr 210, poz. 2135 oraz z 2005 r. Nr 68, poz. 609.) wprowadza się następujące zmiany:
 
 - **1)** po art. 4 dodaje się art. 41 w brzmieniu: „
 
@@ -239,5 +239,5 @@ po art. 202 dodaje się art. 2021 w brzmieniu:
 
 **Art. 361.** Jeżeli w toku postępowania zawarto ugodę przed mediatorem, sąd z urzędu zwraca stronie 3/4 uiszczonego wpisu. ” .
 
-**Art. 5.** Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji oraz ustawę z dnia 13 czerwca 1967 r. o kosztach sądowych w sprawach cywilnych. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384 oraz z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398 i Nr 169, poz. 1413 i 1417. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783 oraz z 2005 r. Nr 48, poz. 462 i Nr 157, poz. 1316. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984, Nr 127, poz. 1090, Nr 141, poz. 1178, Nr 153, poz. 1271, Nr 169, poz. 1387, Nr 199, poz. 1672, Nr 200, poz. 1679 i Nr 216, poz. 1824, z 2003 r. Nr 80, poz. 718, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 193, poz. 1884, Nr 217, poz. 2124 i Nr 228, poz. 2255, z 2004 r. Nr 68, poz. 623, Nr 91, poz. 870 i 871, Nr 96, poz. 959 i Nr 116, poz. 1203 oraz z 2005 r. Nr 86, poz. 732. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 233, poz. 1955, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874 i Nr 139, poz. 1323, z 2004 r. Nr 210, poz. 2135 oraz z 2005 r. Nr 68, poz. 609.
 

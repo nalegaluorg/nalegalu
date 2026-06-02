@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 7 lutego 2024 r. w sprawie szczególnego trybu postępowania przy sprzedaży zajętych ruchomości ulegających szybkiemu zepsuciu oraz przy przechowywaniu i sprzedaży zajętych kosztowności
+# Rozporządzenie Ministra Finansówz dnia 7 lutego 2024 r. w sprawie szczególnego trybu postępowania przy sprzedaży zajętych ruchomości ulegających szybkiemu zepsuciu oraz przy przechowywaniu i sprzedaży zajętych kosztowności Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-07 |
 | Data wydania | 2024-02-09 |
-| Wejście w życie | 2024-03-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000171) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/171/text.pdf) |
 
@@ -60,6 +59,5 @@ Do sprzedaży zajętych kosztowności stosuje się odpowiednio przepisy § 1 ust
 § 7.
 Do sprzedaży ruchomości ulegających szybkiemu zepsuciu oraz przechowywania i sprzedaży kosztowności zajętych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 25 marca 2024 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 8 lipca 2020 r. w sprawie szczególnego trybu postępowania przy sprzedaży zajętych ruchomości ulegających szybkiemu zepsuciu oraz przechowywaniu i sprzedaży zajętych kosztowności (Dz. U. poz. 1239), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ust. 1 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 556 i 1059).
+Rozporządzenie wchodzi w życie z dniem 25 marca 2024 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 8 lipca 2020 r. w sprawie szczególnego trybu postępowania przy sprzedaży zajętych ruchomości ulegających szybkiemu zepsuciu oraz przechowywaniu i sprzedaży zajętych kosztowności (Dz. U. poz. 1239), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ust. 1 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 556 i 1059). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 8 lipca 2020 r. w sprawie szczególnego trybu postępowania przy sprzedaży zajętych ruchomości ulegających szybkiemu zepsuciu oraz przechowywaniu i sprzedaży zajętych kosztowności (Dz. U. poz. 1239), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ust. 1 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 556 i 1059).
 

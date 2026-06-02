@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 1 września 2016 r. w sprawie działań naprawczych
+# Rozporządzenie Ministra Środowiskaz dnia 1 września 2016 r. w sprawie działań naprawczych Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-01 |
 | Data wydania | 2016-09-05 |
-| Wejście w życie | 2016-09-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001396) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1396/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 14 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. z 2014 r. poz. 1789 oraz z 2015 r. poz. 277 i 1926) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2004/35/WE Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie odpowiedzialności za środowisko w odniesieniu do zapobiegania i zaradzania szkodom wyrządzonym środowisku naturalnemu (Dz. Urz. UE L 143 z 30.04.2004, str. 56; Dz. Urz. UE L 102 z 11.04.2006, str. 15; Dz. Urz. UE L 140 z 05.06.2009, str. 114 oraz Dz. Urz. UE L 178 z 28.06.2013, str. 66; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 357). Na podstawie art. 14 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. z 2014 r. poz. 1789 oraz z 2015 r. poz. 277 i 1926) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -127,6 +126,5 @@ koszty oczyszczania doprowadzające do usunięcia zanieczyszczenia byłyby niepr
 4.
 Sposób użytkowania terenu określa się na podstawie jego faktycznego zagospodarowania i wykorzystania, chyba że inny sposób zagospodarowania terenu wynika z miejscowego planu zagospodarowania przestrzennego.
 § 9.
-Rozporządzenie wchodzi z dniem 5 września 2016 r.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2004/35/WE Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie odpowiedzialności za środowisko w odniesieniu do zapobiegania i zaradzania szkodom wyrządzonym środowisku naturalnemu (Dz. Urz. UE L 143 z 30.04.2004, str. 56; Dz. Urz. UE L 102 z 11.04.2006, str. 15; Dz. Urz. UE L 140 z 05.06.2009, str. 114 oraz Dz. Urz. UE L 178 z 28.06.2013, str. 66; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 357). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 4 czerwca 2008 r. w sprawie rodzajów działań naprawczych oraz warunków i sposobu ich prowadzenia (Dz. U. poz. 664), które zgodnie z art. 38 pkt 2 ustawy z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1101) traci moc z dniem wejścia w życie niniejszego rozporządzenia..
+Rozporządzenie wchodzi z dniem 5 września 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 4 czerwca 2008 r. w sprawie rodzajów działań naprawczych oraz warunków i sposobu ich prowadzenia (Dz. U. poz. 664), które zgodnie z art. 38 pkt 2 ustawy z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1101) traci moc z dniem wejścia w życie niniejszego rozporządzenia.. 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2004/35/WE Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie odpowiedzialności za środowisko w odniesieniu do zapobiegania i zaradzania szkodom wyrządzonym środowisku naturalnemu (Dz. Urz. UE L 143 z 30.04.2004, str. 56; Dz. Urz. UE L 102 z 11.04.2006, str. 15; Dz. Urz. UE L 140 z 05.06.2009, str. 114 oraz Dz. Urz. UE L 178 z 28.06.2013, str. 66; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 357). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 4 czerwca 2008 r. w sprawie rodzajów działań naprawczych oraz warunków i sposobu ich prowadzenia (Dz. U. poz. 664), które zgodnie z art. 38 pkt 2 ustawy z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1101) traci moc z dniem wejścia w życie niniejszego rozporządzenia..
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-22 |
 | Data wydania | 2015-09-25 |
-| Wejście w życie | 2015-10-10 |
 | Ostatnia zmiana | 2025-01-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001476) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1476/text.pdf) |
 
@@ -33,26 +32,21 @@ W rozporządzeniu Ministra Infrastruktury z dnia 18 lipca 2005 r. w sprawie ogó
 1)
 w § 19:
 a)
-ust. 1 i 2 otrzymują brzmienie:
-„
+ust. 1 i 2 otrzymują brzmienie: „
 1.
 Do pociągu należy włączać pojazdy kolejowe ze sprawnie działającymi urządzeniami hamulcowymi, z wyjątkiem pojazdów kolejowych przesyłanych do naprawy lub do wyładunku, o ile ich hamulec nie może być naprawiony bez skierowania do jednostki wykonującej prace w zakresie utrzymania, oraz pojazdy kolejowe, których urządzenia hamulcowe muszą być wyłączone, zgodnie z § 15 ust. 8.
 2.
-Działanie hamulca zespolonego oraz hamulca ręcznego pociągu powinno być sprawdzane przez rewidentów taboru kolejowego, a gdy ich nie ma – przez kierownika pociągu lub przez innych pracowników przewoźnika kolejowego, przy współdziałaniu drużyny trakcyjnej, z zastrzeżeniem ust. 2a-2c.
-” ,
+Działanie hamulca zespolonego oraz hamulca ręcznego pociągu powinno być sprawdzane przez rewidentów taboru kolejowego, a gdy ich nie ma – przez kierownika pociągu lub przez innych pracowników przewoźnika kolejowego, przy współdziałaniu drużyny trakcyjnej, z zastrzeżeniem ust. 2a-2c. ” ,
 b)
-po ust. 2 dodaje się ust. 2a-2c w brzmieniu:
-„
+po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „
 2a.
 W przypadku pociągu zestawionego z jednego pojazdu kolejowego z napędem, składającego się z jednego lub wielu członów, wyposażonego w hamulce tarczowe, posiadającego nierozłączalny w normalnej eksploatacji główny przewód hamulcowy oraz manometry lub wskaźniki wskazujące ciśnienie powietrza w cylindrach hamulcowych na wszystkich wózkach jezdnych i sygnalizację stanu zahamowania i odhamowania pojazdu kolejowego w kabinie sterowniczej, dopuszcza się jednoosobowe wykonywanie uproszczonej próby hamulca przez maszynistę na podstawie tych wskazań.
 2b.
 W przypadku pociągu składającego się z pojazdów kolejowych, o których mowa w ust. 2a, wyposażonych w sygnalizację stanu zahamowania i odhamowania w kabinie sterowniczej wszystkich hamulców na wszystkich pojazdach kolejowych w składzie pociągu oraz wskazującą stan właściwego napełnienia sprężonym powietrzem głównego przewodu hamulcowego we wszystkich pojazdach kolejowych w składzie pociągu, dopuszcza się wykonywanie uproszczonej próby hamulca przez maszynistę na podstawie tych wskazań.
 2c.
-Przepis ust. 2b stosuje się wyłącznie w przypadku, gdy wszystkie pojazdy kolejowe w składzie pociągu przystosowane są do współdziałania z urządzeniami sygnalizacyjnymi w kabinie sterowniczej w zakresie, o którym mowa w ust. 2b.
-” ,
+Przepis ust. 2b stosuje się wyłącznie w przypadku, gdy wszystkie pojazdy kolejowe w składzie pociągu przystosowane są do współdziałania z urządzeniami sygnalizacyjnymi w kabinie sterowniczej w zakresie, o którym mowa w ust. 2b. ” ,
 c)
-ust. 3–5 otrzymują brzmienie:
-„
+ust. 3–5 otrzymują brzmienie: „
 3.
 Szczegółową próbę hamulca należy wykonać:
 1)
@@ -84,55 +78,39 @@ nastąpiło zamknięcie lub otwarcie, nawet częściowe lub chwilowe, przewodu z
 6)
 wyłączono co najmniej jeden pojazd kolejowy ze składu pociągu.
 5.
-Po dokonaniu napraw urządzeń hamulcowych pojazdów w składzie pociągu i włączeniu hamulca – w pojazdach poddanych naprawie hamulec tych pojazdów poddaje się takim badaniom, jak podczas próby szczegółowej hamulca.
-” ,
+Po dokonaniu napraw urządzeń hamulcowych pojazdów w składzie pociągu i włączeniu hamulca – w pojazdach poddanych naprawie hamulec tych pojazdów poddaje się takim badaniom, jak podczas próby szczegółowej hamulca. ” ,
 d)
-ust. 8 otrzymuje brzmienie:
-„
+ust. 8 otrzymuje brzmienie: „
 8.
-Szczegółowe postanowienia w sprawie wykonywania prób hamulców określa przewoźnik kolejowy w przepisach wewnętrznych.
-” ;
+Szczegółowe postanowienia w sprawie wykonywania prób hamulców określa przewoźnik kolejowy w przepisach wewnętrznych. ” ;
 2)
-po § 30g dodaje się § 30h w brzmieniu:
-„
+po § 30g dodaje się § 30h w brzmieniu: „
 § 30h.
-Wydając przepisy wewnętrzne dotyczące systemu ERTMS/ETCS, przewoźnicy kolejowi i zarządcy infrastruktury uwzględniają przepisy, o których mowa w Dodatku A załącznika do decyzji Komisji 2012/757/WE z dnia 14 listopada 2012 r. w sprawie technicznej specyfikacji interoperacyjności w zakresie podsystemu „Ruch kolejowy” systemu kolei w Unii Europejskiej i zmieniającej decyzję 2007/756/WE (Dz. Urz. UE L 345 z 15.12.2012, str. 1, z późn. zm.).
-” ;
+Wydając przepisy wewnętrzne dotyczące systemu ERTMS/ETCS, przewoźnicy kolejowi i zarządcy infrastruktury uwzględniają przepisy, o których mowa w Dodatku A załącznika do decyzji Komisji 2012/757/WE z dnia 14 listopada 2012 r. w sprawie technicznej specyfikacji interoperacyjności w zakresie podsystemu „Ruch kolejowy” systemu kolei w Unii Europejskiej i zmieniającej decyzję 2007/756/WE (Dz. Urz. UE L 345 z 15.12.2012, str. 1, z późn. zm.). ” ;
 3)
-w § 33 po ust. 9 dodaje się ust. 9a w brzmieniu:
-„
+w § 33 po ust. 9 dodaje się ust. 9a w brzmieniu: „
 9a.
-Jeżeli na posterunku odgałęźnym bez semaforów wyjazdowych i na posterunku bocznicowym nie może być podany sygnał zezwalający na semaforze wjazdowym, to zezwoleniem na przejazd pociągu jest wydanie drużynie pociągowej rozkazu pisemnego lub podanie sygnału zastępczego.
-” ;
+Jeżeli na posterunku odgałęźnym bez semaforów wyjazdowych i na posterunku bocznicowym nie może być podany sygnał zezwalający na semaforze wjazdowym, to zezwoleniem na przejazd pociągu jest wydanie drużynie pociągowej rozkazu pisemnego lub podanie sygnału zastępczego. ” ;
 4)
-w § 42 ust. 2 otrzymuje brzmienie:
-„
+w § 42 ust. 2 otrzymuje brzmienie: „
 2.
-Po wprowadzeniu ruchu jednotorowego dwukierunkowego po torze czynnym pociągi zapowiada się telefonicznie według zasad ustalonych dla szlaków jednotorowych z ruchem dwukierunkowym. Kolejne pociągi tego samego kierunku jazdy wyprawia się w odstępach posterunków następczych, natomiast pociągi przeciwnych kierunków – w odstępach posterunków zapowiadawczych.
-” ;
+Po wprowadzeniu ruchu jednotorowego dwukierunkowego po torze czynnym pociągi zapowiada się telefonicznie według zasad ustalonych dla szlaków jednotorowych z ruchem dwukierunkowym. Kolejne pociągi tego samego kierunku jazdy wyprawia się w odstępach posterunków następczych, natomiast pociągi przeciwnych kierunków – w odstępach posterunków zapowiadawczych. ” ;
 5)
-w § 48 ust. 7 otrzymuje brzmienie:
-„
+w § 48 ust. 7 otrzymuje brzmienie: „
 7.
-Na miejscu wypadku każdy członek drużyny pociągowej powinien przedsięwziąć odpowiednie środki zapobiegające następstwom wypadku, w szczególności osłonić sygnałami miejsce wypadku, zgłosić wypadek dyżurnemu ruchu oraz zapewnić w miarę możliwości pomoc ofiarom wypadku. Należy również zabezpieczyć ślady, które mogłyby ułatwić ustalenie przyczyn wypadku, oraz zabezpieczyć mienie kolejowe, ładunek i bagaże podróżnych.
-” ;
+Na miejscu wypadku każdy członek drużyny pociągowej powinien przedsięwziąć odpowiednie środki zapobiegające następstwom wypadku, w szczególności osłonić sygnałami miejsce wypadku, zgłosić wypadek dyżurnemu ruchu oraz zapewnić w miarę możliwości pomoc ofiarom wypadku. Należy również zabezpieczyć ślady, które mogłyby ułatwić ustalenie przyczyn wypadku, oraz zabezpieczyć mienie kolejowe, ładunek i bagaże podróżnych. ” ;
 6)
-w § 59 ust. 5 otrzymuje brzmienie:
-„
+w § 59 ust. 5 otrzymuje brzmienie: „
 5.
-Na liniach kolejowych znaczenia miejscowego i bocznicach dopuszcza się stosowanie sygnałów i wskaźników innych niż ustalone rozporządzeniem, na warunkach określonych w przepisach wewnętrznych wydanych przez zarządcę infrastruktury.
-” ;
+Na liniach kolejowych znaczenia miejscowego i bocznicach dopuszcza się stosowanie sygnałów i wskaźników innych niż ustalone rozporządzeniem, na warunkach określonych w przepisach wewnętrznych wydanych przez zarządcę infrastruktury. ” ;
 7)
-w § 96 ust. 1 otrzymuje brzmienie:
-„
+w § 96 ust. 1 otrzymuje brzmienie: „
 1.
-Stosuje się następujący sygnał ostrzeżenia: sygnał Rp 1 „Baczność”: jeden długi ton dźwiękowym urządzeniem ostrzegającym pojazdu kolejowego (rys. 99).
-” ;
+Stosuje się następujący sygnał ostrzeżenia: sygnał Rp 1 „Baczność”: jeden długi ton dźwiękowym urządzeniem ostrzegającym pojazdu kolejowego (rys. 99). ” ;
 8)
 w § 112 w ust. 2 w pkt 23 wprowadzenie do wyliczenia otrzymuje brzmienie: „ wskaźnik W 28 „Wskaźnik kanału radiowego” oznacza miejsce zmiany i obowiązujący od tego miejsca numer kanału radiołączności pociągowej: okrągła czarna tablica, a na niej żółte oznaczenie literowo-cyfrowe; litera stanowi uzgodniony z Prezesem Urzędu Transportu Kolejowego wyróżnik zarządcy infrastruktury, którego wskaźnik dotyczy; liczba wskazuje numer kanału radiołączności pociągowej, przydzielonego danemu zarządcy infrastruktury (rys. 192): ” ;
 9)
-§ 113 otrzymuje brzmienie:
-„
+§ 113 otrzymuje brzmienie: „
 § 113.
 1.
 Wskaźniki We stosowane na liniach kolejowych zelektryfikowanych określają obowiązujący maszynistę sposób prowadzenia elektrycznego pojazdu trakcyjnego wynikający z układu zasilania i układu oraz stanu sieci trakcyjnej.
@@ -170,8 +148,7 @@ wskaźnik We 4a, We 4b, We 4c ustawia się w odległości nie mniejszej niż 15 
 5)
 wskaźniki We 8a, We 8b, We 8c „Wskaźniki jazdy bezprądowej” oznaczają miejsce, przez które elektryczny pojazd trakcyjny powinien przejeżdżać bez pobierania prądu trakcyjnego z sieci trakcyjnej: przy przejeździe po torze, przy którym jest ustawiony wskaźnik (wskaźnik We 8a), przy jeździe na tor odgałęziający się w prawo od toru, przy którym jest ustawiony wskaźnik (wskaźnik We 8b), lub przy jeździe na tor odgałęziający się w lewo od toru, przy którym jest ustawiony wskaźnik (wskaźnik We 8c): dwa równoległe białe paski pionowe i pod nimi jeden biały pasek poziomy, niestykający się z paskami pionowymi; wskaźnik obowiązujący dla torów odgałęziających się uzupełniony jest małą kwadratową czarną tablicą z białym trójkątem zwróconym ostrzem odpowiednio w prawo lub w lewo, w zależności od tego, którego toru odgałęziającego się dotyczy (rys. 203); wskaźniki We 8a, We 8b i We 8c ustawia się w odległości nie mniejszej niż 30 m i nie większej niż 80 m przed elementem podłużnego sekcjonowania sieci jezdnej, takim jak izolowane przęsło naprężenia, przerwa powietrzna, izolator sekcyjny, który oddziela elektrycznie dwa odcinki sieci i przez który należy przejeżdżać bez pobierania prądu trakcyjnego z sieci;
 6)
-wskaźniki We 9a, We 9b „Wskaźniki jazdy pod prądem” oznaczają miejsce, od którego elektryczny zespół trakcyjny (wskaźnik We 9a) lub lokomotywa elektryczna (wskaźnik We 9b) mogą jechać, pobierając prąd trakcyjny z sieci trakcyjnej: białe paski w kształcie korytka; wskaźnik obowiązujący lokomotywy elektryczne uzupełniony jest małą kwadratową białą tablicą z czarną obwódką oraz czarną literą „L” (rys. 204); wskaźnik We 9a dotyczący elektrycznych zespołów trakcyjnych ustawia się w odległości nie mniejszej niż 200 m i nie większej niż 250 m, a wskaźnik We 9b dotyczący lokomotyw – w odległości nie mniejszej niż 30 m i nie większej niż 100 m za miejscem, które należy przejeżdżać bez pobierania prądu trakcyjnego z sieci.
-” .
+wskaźniki We 9a, We 9b „Wskaźniki jazdy pod prądem” oznaczają miejsce, od którego elektryczny zespół trakcyjny (wskaźnik We 9a) lub lokomotywa elektryczna (wskaźnik We 9b) mogą jechać, pobierając prąd trakcyjny z sieci trakcyjnej: białe paski w kształcie korytka; wskaźnik obowiązujący lokomotywy elektryczne uzupełniony jest małą kwadratową białą tablicą z czarną obwódką oraz czarną literą „L” (rys. 204); wskaźnik We 9a dotyczący elektrycznych zespołów trakcyjnych ustawia się w odległości nie mniejszej niż 200 m i nie większej niż 250 m, a wskaźnik We 9b dotyczący lokomotyw – w odległości nie mniejszej niż 30 m i nie większej niż 100 m za miejscem, które należy przejeżdżać bez pobierania prądu trakcyjnego z sieci. ” .
 § 2.
 Przewoźnicy kolejowi i zarządcy infrastruktury dostosowują swoje przepisy wewnętrzne do wymogów niniejszego rozporządzenia w terminie nie dłuższym niż rok od dnia wejścia w życie niniejszego rozporządzenia.
 § 3.

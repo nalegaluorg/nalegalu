@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw
+# Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw Niniejszą ustawą zmienia się także: ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-11-16 |
 | Data wydania | 2006-12-11 |
-| Wejście w życie | 2007-03-12 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062261648) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1648/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.) wprowadza się następujące zmiany:
+Postępowanie przyspieszone
+
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493 oraz z 2006 r. Nr 190, poz. 1409 i Nr 218, poz. 1592.) wprowadza się następujące zmiany:
 
 - **1)** art. 49a otrzymuje brzmienie: „
 
@@ -64,7 +65,7 @@ source: "eli-html"
 
 § 21. Występkiem o charakterze chuligańskim jest występek polegający na umyślnym zamachu na zdrowie, na wolność, na cześć lub nietykalność cielesną, na bezpieczeństwo powszechne, na działalność instytucji państwowych lub samorządu terytorialnego, na porządek publiczny, albo na umyślnym niszczeniu, uszkodzeniu lub czynieniu niezdatną do użytku cudzej rzeczy, jeżeli sprawca działa publicznie i bez powodu albo z oczywiście błahego powodu, okazując przez to rażące lekceważenie porządku prawnego. ” .
 
-**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479 oraz z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647.) wprowadza się następujące zmiany:
 
 - **1)** w art. 244 § 1 otrzymuje brzmienie: „
 
@@ -74,7 +75,7 @@ source: "eli-html"
 - **10)** oskarżony w postępowaniu sądowym nie miał obrońcy w wypadkach określonych w art. 79 § 1 i 2, art. 80 oraz art. 517i § 1 lub obrońca nie brał udziału w czynnościach, w których jego udział był obowiązkowy, ” ;
 - **3)** po rozdziale 54 dodaje się rozdział 54a w brzmieniu: „
 
-#### Rozdział 54a Postępowanie przyspieszone
+#### Rozdział 54a
 
 **Art. 517a.** W postępowaniu przyspieszonym stosuje się przepisy o postępowaniu zwyczajnym, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
 
@@ -136,13 +137,13 @@ source: "eli-html"
 
 **Art. 646.** W sprawach podlegających orzecznictwu sądów wojskowych nie stosuje się przepisów o postępowaniu uproszczonym, prywatnoskargowym, nakazowym i przyspieszonym. Poza tym stosuje się przepisy działów poprzednich, chyba że przepisy działu niniejszego stanowią inaczej. ” .
 
-**Art. 3.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.) w art. 196a § 2 otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701, Nr 120, poz. 1268 i Nr 122, poz. 1318, z 2001 r. Nr 98, poz. 1071, Nr 111, poz. 1194 i Nr 151, poz. 1686, z 2002 r. Nr 74, poz. 676, Nr 121, poz. 1033 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479 oraz z 2006 r. Nr 104, poz. 708.) w art. 196a § 2 otrzymuje brzmienie: „
 
 § 2. Instytucje, fundacje, stowarzyszenia lub organizacje społeczne, które w wyniku wykonania prawomocnie orzeczonego środka karnego w postaci nawiązki określonej w art. 47 i 57a § 2 Kodeksu karnego lub świadczenia pieniężnego określonego w art. 49 Kodeksu karnego otrzymały środki finansowe, są obowiązane do sporządzania i przekazywania Ministrowi Sprawiedliwości rocznych sprawozdań dotyczących wykorzystania tych środków w terminie do dnia 20 lutego roku następującego po roku, w którym je otrzymały, oraz do wyodrębnienia tych środków w ewidencji księgowej. ” .
 
-**Art. 4.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. Nr 106, poz. 1148, z późn. zm.) w art. 90 § 3 otrzymuje brzmienie: „
+**Art. 4.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. Nr 106, poz. 1148, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 109, poz. 1031 i Nr 213, poz. 2081, z 2004 r. Nr 128, poz. 1351 oraz z 2005 r. Nr 132, poz. 1103 i Nr 143, poz. 1203.) w art. 90 § 3 otrzymuje brzmienie: „
 
 § 3. Postępowanie przyspieszone stosuje się także wobec sprawców wykroczeń o charakterze chuligańskim. ” .
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się także: ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493 oraz z 2006 r. Nr 190, poz. 1409 i Nr 218, poz. 1592. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479 oraz z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701, Nr 120, poz. 1268 i Nr 122, poz. 1318, z 2001 r. Nr 98, poz. 1071, Nr 111, poz. 1194 i Nr 151, poz. 1686, z 2002 r. Nr 74, poz. 676, Nr 121, poz. 1033 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479 oraz z 2006 r. Nr 104, poz. 708. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 109, poz. 1031 i Nr 213, poz. 2081, z 2004 r. Nr 128, poz. 1351 oraz z 2005 r. Nr 132, poz. 1103 i Nr 143, poz. 1203.
 

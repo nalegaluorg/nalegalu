@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-11-02 |
 | Data wydania | 2012-11-12 |
-| Wejście w życie | 2012-11-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001234) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1234/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 78b ust. 2 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2009 r. Nr 146, poz. 1188, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 78b ust. 2 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2009 r. Nr 146, poz. 1188, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 166, poz. 1317, Nr 210, poz. 1628 i Nr 216, poz. 1676, z 2010 r. Nr 7, poz. 45, Nr 47, poz. 278, Nr 200, poz. 1326 i Nr 217, poz. 1429 oraz z 2011 r. Nr 106, poz. 622 i Nr 142, poz. 830.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 6 grudnia 2005 r. w sprawie wysokości opłaty za udział w egzaminie adwokackim (Dz. U. Nr 244, poz. 2069 oraz z 2006 r. Nr 15, poz. 110) § 1 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Sprawiedliwości z dnia 6 grudnia 2005 r. w sprawie wysokości opłaty za udział w egzaminie adwokackim (Dz. U. Nr 244, poz. 2069 oraz z 2006 r. Nr 15, poz. 110) § 1 otrzymuje brzmienie: „
 § 1.
-Opłata za udział w egzaminie adwokackim jest równa 80% minimalnego wynagrodzenia za pracę, ustalonego na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. Nr 200, poz. 1679, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 157, poz. 1314), obowiązującego w roku przeprowadzenia egzaminu.
-” .
+Opłata za udział w egzaminie adwokackim jest równa 80% minimalnego wynagrodzenia za pracę, ustalonego na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. Nr 200, poz. 1679, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 157, poz. 1314), obowiązującego w roku przeprowadzenia egzaminu. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 166, poz. 1317, Nr 210, poz. 1628 i Nr 216, poz. 1676, z 2010 r. Nr 7, poz. 45, Nr 47, poz. 278, Nr 200, poz. 1326 i Nr 217, poz. 1429 oraz z 2011 r. Nr 106, poz. 622 i Nr 142, poz. 830.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-10 |
 | Data wydania | 2015-12-23 |
-| Wejście w życie | 2015-12-24 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002180) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2180/text.pdf) |
 
@@ -53,7 +52,7 @@ została przygotowana w wyniku wystąpienia do starosty ponad 50% właścicieli 
 4)
 dla której sporządzono w formie opisowej i graficznej założenia do projektu scalenia zawierające analizę istniejącego stanu oraz kierunki proponowanych zmian, w szczególności:
 a)
-przebieg istniejących i projektowanych dróg w rozumieniu przepisów ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460, z późn. zm.),
+przebieg istniejących i projektowanych dróg w rozumieniu przepisów ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 774, 870, 1336, 1830 i 1890.),
 b)
 usytuowanie gruntów:
 – zajętych przez urządzenia melioracji wodnych podstawowych oraz przewidzianych do wykonania na tych gruntach takich urządzeń,
@@ -77,8 +76,7 @@ pracami scaleniowymi,
 b)
 zagospodarowaniem poscaleniowym,
 3)
-podatku od towarów i usług (VAT), zgodnie z art. 69 ust. 3 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), zwanego dalej „rozporządzeniem nr 1303/2013”
-które są uzasadnione zakresem operacji, niezbędne do osiągnięcia jej celu oraz racjonalne.
+podatku od towarów i usług (VAT), zgodnie z art. 69 ust. 3 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), zwanego dalej „rozporządzeniem nr 1303/2013” – które są uzasadnione zakresem operacji, niezbędne do osiągnięcia jej celu oraz racjonalne.
 § 6.
 1.
 Pomoc jest przyznawana w wysokości 100% kosztów kwalifikowalnych, z tym że nie wyższej niż równowartość:
@@ -305,5 +303,5 @@ uwzględnione w oddzielnym systemie rachunkowości albo gdy do ich identyfikacji
 2.
 Do przyznawania i wypłaty środków finansowych z tytułu kosztów ogólnych, o których mowa w ust. 1, przepisu § 17 ust. 3 nie stosuje się.
 § 24.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 774, 870, 1336, 1830 i 1890.
 

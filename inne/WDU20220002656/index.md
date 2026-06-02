@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 15 grudnia 2022 r. w sprawie opłat elektronicznych pobieranych w Systemie Poboru Opłaty Elektronicznej KAS oraz przekazywania kar grzywny
+# Rozporządzenie Ministra Finansówz dnia 15 grudnia 2022 r. w sprawie opłat elektronicznych pobieranych w Systemie Poboru Opłaty Elektronicznej KAS oraz przekazywania kar grzywny Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-15 |
 | Data wydania | 2022-12-16 |
-| Wejście w życie | 2022-12-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002656) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2656/text.pdf) |
 
@@ -177,8 +176,7 @@ nienależnie pobranej opłaty elektronicznej,
 2)
 niewykorzystanych środków stanowiących saldo konta rozliczeniowego, na które zostały wniesione na poczet opłaty elektronicznej w trybie przedpłaty,
 3)
-środków pozostałych po zamknięciu konta rozliczeniowego, dokonanego na pisemny wniosek korzystającego z dróg publicznych
-w sposób, w jaki zostały one wniesione.
+środków pozostałych po zamknięciu konta rozliczeniowego, dokonanego na pisemny wniosek korzystającego z dróg publicznych – w sposób, w jaki zostały one wniesione.
 2.
 Pobierający opłatę rozpatruje wniosek, o którym mowa w ust. 1, w terminie 30 dni roboczych od dnia jego otrzymania.
 3.
@@ -221,13 +219,11 @@ rozliczenia opłaty elektronicznej wniesionej przed dniem wejścia w życie nini
 2)
 reklamacji w zakresie prawidłowości naliczonej opłaty elektronicznej, złożonej i nierozpatrzonej przed dniem wejścia w życie niniejszego rozporządzenia,
 3)
-zwrotu nienależnie pobranej opłaty elektronicznej, wniesionej przed dniem wejścia w życie niniejszego rozporządzenia i niezwróconej do tego dnia
-stosuje się przepisy niniejszego rozporządzenia.
+zwrotu nienależnie pobranej opłaty elektronicznej, wniesionej przed dniem wejścia w życie niniejszego rozporządzenia i niezwróconej do tego dnia – stosuje się przepisy niniejszego rozporządzenia.
 2.
 Przepisu ust. 1 pkt 3 nie stosuje się do zwrotu środków wpłaconych na poczet opłaty elektronicznej, wniesionych do dnia 14 czerwca 2021 r. i niezwróconych do dnia wejścia w życie niniejszego rozporządzenia. W takim przypadku stosuje się przepisy rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 27 sierpnia 2015 r. w sprawie wnoszenia i rozliczania opłat elektronicznych (Dz. U. poz. 1406 oraz z 2018 r. poz. 2015), w brzmieniu z dnia 14 czerwca 2021 r., z tym że zwrot środków wpłaconych na poczet opłaty elektronicznej jest dokonywany w terminie 12 miesięcy od dnia złożenia żądania na piśmie, zgodnie z tymi przepisami.
 § 17.
 Przepis § 12 ust. 2 stosuje się do wniosków złożonych od dnia wejścia w życie niniejszego rozporządzenia.
 § 18.
-Rozporządzenie wchodzi w życie z dniem 18 grudnia 2022 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 8 czerwca 2021 r. w sprawie opłat elektronicznych pobieranych w Systemie Poboru Opłaty Elektronicznej KAS oraz przekazywania kar pieniężnych (Dz. U. poz. 1058), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 23 ustawy z dnia 15 kwietnia 2021 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz niektórych innych ustaw (Dz. U. poz. 1005).
+Rozporządzenie wchodzi w życie z dniem 18 grudnia 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 8 czerwca 2021 r. w sprawie opłat elektronicznych pobieranych w Systemie Poboru Opłaty Elektronicznej KAS oraz przekazywania kar pieniężnych (Dz. U. poz. 1058), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 23 ustawy z dnia 15 kwietnia 2021 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz niektórych innych ustaw (Dz. U. poz. 1005). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 8 czerwca 2021 r. w sprawie opłat elektronicznych pobieranych w Systemie Poboru Opłaty Elektronicznej KAS oraz przekazywania kar pieniężnych (Dz. U. poz. 1058), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 23 ustawy z dnia 15 kwietnia 2021 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz niektórych innych ustaw (Dz. U. poz. 1005).
 

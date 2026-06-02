@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-28 |
 | Data wydania | 2019-11-15 |
-| Wejście w życie | 2019-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002220) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2220/text.pdf) |
 
@@ -33,11 +32,9 @@ W rozporządzeniu Ministra Sprawiedliwości z dnia 25 września 2014 r. w sprawi
 1)
 w pkt 18 uchyla się lit. g;
 2)
-w pkt 31 po lit. a dodaje się lit. aa w brzmieniu:
-„
+w pkt 31 po lit. a dodaje się lit. aa w brzmieniu: „
 aa)
-Sąd Rejonowy w Łukowie – dla obszaru właściwości tego Sądu,
-” .
+Sąd Rejonowy w Łukowie – dla obszaru właściwości tego Sądu, ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 1 grudnia 2019 r.
 

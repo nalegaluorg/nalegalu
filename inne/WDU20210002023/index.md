@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Edukacji i Naukiz dnia 20 października 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkolnictwa Wyższego w sprawie statutu Narodowej Agencji Wymiany Akademickiej
+# Obwieszczenie Ministra Edukacji i Naukiz dnia 20 października 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkolnictwa Wyższego w sprawie statutu Narodowej Agencji Wymiany Akademickiej Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 
 | Pole | Wartość |
 |---|---|
@@ -32,19 +32,15 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 12 września 2017 r. w sprawie statutu Narodowej Agencji Wymiany Akademickiej (Dz. U. poz. 1771), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji i Nauki z dnia 12 stycznia 2021 r. zmieniającym rozporządzenie w sprawie statutu Narodowej Agencji Wymiany Akademickiej (Dz. U. poz. 96).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 12 stycznia 2021 r. zmieniającego rozporządzenie w sprawie statutu Narodowej Agencji Wymiany Akademickiej (Dz. U. poz. 96), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 12 stycznia 2021 r. zmieniającego rozporządzenie w sprawie statutu Narodowej Agencji Wymiany Akademickiej (Dz. U. poz. 96), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
-Załącznik – Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 12 września 2017 r. w sprawie statutu Narodowej Agencji Wymiany Akademickiej
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
+Załącznik – Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 12 września 2017 r. w sprawie statutu Narodowej Agencji Wymiany AkademickiejObecnie działem administracji rządowej – szkolnictwo wyższe i nauka kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 Na podstawie art. 16 ustawy z dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany Akademickiej (Dz. U. z 2019 r. poz. 1582) zarządza się, co następuje:
 § 1.
 Narodowej Agencji Wymiany Akademickiej nadaje się statut, stanowiący załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 października 2017 r.
-1) Obecnie działem administracji rządowej – szkolnictwo wyższe i nauka kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
+Rozporządzenie wchodzi w życie z dniem 1 października 2017 r. 1) Obecnie działem administracji rządowej – szkolnictwo wyższe i nauka kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 Załącznik – Statut Narodowej Agencji Wymiany Akademickiej
 § 1.
 1.
@@ -61,11 +57,11 @@ opracowywanie systemu oceny wniosków o udział w programie;
 opracowywanie założeń konkursów, ogłaszanie konkursów oraz przyznawanie nagród za działalność i osiągnięcia o istotnym znaczeniu w obszarze umiędzynarodowienia szkolnictwa wyższego i nauki;
 4)
 podejmowanie współpracy z jednostkami administracji rządowej i samorządowej, organizacjami pozarządowymi oraz z innymi podmiotami w sprawach dotyczących działalności Agencji;
-5)
+5Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji i Nauki z dnia 12 stycznia 2021 r. zmieniającego rozporządzenie w sprawie statutu Narodowej Agencji Wymiany Akademickiej (Dz. U. poz. 96), które weszło w życie z dniem 30 stycznia 2021 r.)
 prowadzenie systematycznej ewaluacji realizowanych programów i innych zadań Agencji, w tym dokonywanie oceny ich wpływu na rozwój nauki i gospodarki oraz przedstawianie ministrowi właściwemu do spraw szkolnictwa wyższego i nauki planu ewaluacji realizowanych programów i innych zadań Agencji;
 6)
 przedkładanie Radzie Agencji, zwanej dalej „Radą”, do zaopiniowania projektów planów, o których mowa w art. 9 ust. 1 pkt 2 ustawy, oraz sprawozdań, o których mowa w art. 9 ust. 1 pkt 3 ustawy;
-7)
+7Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 występowanie do ministra właściwego do spraw szkolnictwa wyższego i nauki z wnioskami o przyznanie Agencji dotacji z budżetu państwa;
 8)
 zapewnianie prawidłowej organizacji wewnętrznej Agencji umożliwiającej sprawną i efektywną realizację jej zadań;
@@ -114,28 +110,27 @@ Przewodniczący Rady zwołuje posiedzenia Rady:
 z własnej inicjatywy;
 2)
 na wniosek co najmniej trzech członków Rady lub Dyrektora.
-2a.
+2aDodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Posiedzenia Rady mogą odbywać się przy użyciu środków komunikacji elektronicznej, zapewniających w szczególności:
 1)
 transmisję posiedzenia w czasie rzeczywistym,
 2)
-wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy posiedzenia mogą wypowiadać się w jego toku
-z zachowaniem niezbędnych zasad bezpieczeństwa.
+wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy posiedzenia mogą wypowiadać się w jego toku – z zachowaniem niezbędnych zasad bezpieczeństwa.
 3.
 W przypadku, o którym mowa w ust. 2 pkt 2, posiedzenie Rady zwołuje się w terminie nie dłuższym niż czternaście dni od dnia otrzymania wniosku.
-3a.
+3aDodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 W uzasadnionym przypadku przewodniczący Rady może zwołać posiedzenie Rady w terminie późniejszym niż określony w ust. 3.
 4.
 W przypadku nieobecności przewodniczącego Rady jego zadania wykonuje zastępca przewodniczącego.
 5.
 Zawiadomienie o posiedzeniu Rady wraz z projektem porządku obrad i wykazem materiałów przeznaczonych do rozpatrzenia uczestnicy posiedzenia otrzymują nie później niż na siedem dni przed terminem posiedzenia.
-5a.
+5aDodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 W uzasadnionych przypadkach przewodniczący Rady może zwołać posiedzenie Rady i przekazać dokumenty wymienione w ust. 5, z pominięciem terminu, o którym mowa w tym przepisie.
 6.
 Członkowie Rady pełnią swoje funkcje osobiście i nie mogą ustanawiać pełnomocników.
 7.
 W posiedzeniach Rady mogą uczestniczyć, z głosem doradczym, Dyrektor, zastępcy Dyrektora oraz osoby zaproszone przez przewodniczącego Rady.
-§ 7.
+§ 7Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Minister właściwy do spraw szkolnictwa wyższego i nauki zwołuje i otwiera pierwsze posiedzenie nowo powołanej Rady.
 § 8.
 1.
@@ -151,7 +146,7 @@ W przypadku, o którym mowa w ust. 3, sporządza się protokół zawierający w 
 Z posiedzeń Rady sporządza się protokół, w którym zamieszcza się w szczególności listę uczestników posiedzenia, przyjęty porządek obrad oraz treść rozstrzygnięć. Protokół podpisuje przewodniczący Rady.
 2.
 Projekt protokołu jest udostępniany członkom Rady z możliwością wnoszenia uwag co do jego treści.
-3.
+3Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Przewodniczący Rady przekazuje ministrowi właściwemu do spraw szkolnictwa wyższego i nauki oraz Dyrektorowi kopie protokołów, o których mowa w ust. 1 i w § 8 ust. 4.
 § 10.
 1.
@@ -169,25 +164,24 @@ upowszechniania nauki języka polskiego za granicą,
 e)
 uznawalności wykształcenia i uwierzytelniania dokumentów urzędowych przeznaczonych do obrotu prawnego z zagranicą,
 f)
-promocji i upowszechniania informacji o polskim systemie szkolnictwa wyższego i nauki,
-fa) współpracy międzynarodowej,
+promocji i upowszechniania informacji o polskim systemie szkolnictwa wyższego i nauki, fa)Dodana przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. współpracy międzynarodowej,
 g)
 analiz i ewaluacji,
 h)
 prawnych,
-i)
+iW brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 organizacyjnych,
-ia)
+iaDodana przez § 1 pkt 4 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2.)
 administracyjnych,
 j)
 finansowo-księgowych;
 2)
 stanowisko samodzielne – główny księgowy Agencji.
-2.
+2Ze zmianą wprowadzoną przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Komórki organizacyjne lub stanowiska samodzielne, właściwe do spraw, o których mowa w ust. 1 pkt 1 lit. a-ia, mogą być łączone.
 3.
 Bezpośredni nadzór nad:
-1)
+1Ze zmianą wprowadzoną przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 komórkami organizacyjnymi lub stanowiskami samodzielnymi, o których mowa w ust. 1 pkt 1 lit. a-ia, sprawuje Dyrektor albo zastępca Dyrektora;
 2)
 komórką organizacyjną właściwą do spraw finansowo-księgowych sprawuje główny księgowy Agencji.
@@ -195,6 +189,5 @@ komórką organizacyjną właściwą do spraw finansowo-księgowych sprawuje gł
 1.
 Dyrektor ustala, w drodze zarządzenia, regulamin organizacyjny Agencji określający strukturę organizacyjną, zakres zadań i tryb pracy komórek organizacyjnych.
 2.
-(uchylony).
-2) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji i Nauki z dnia 12 stycznia 2021 r. zmieniającego rozporządzenie w sprawie statutu Narodowej Agencji Wymiany Akademickiej (Dz. U. poz. 96), które weszło w życie z dniem 30 stycznia 2021 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 6) Dodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 2. 7) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 8) Dodana przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 10) Dodana przez § 1 pkt 4 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 11) Ze zmianą wprowadzoną przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2. 12) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
+(uchylony).Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 2) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji i Nauki z dnia 12 stycznia 2021 r. zmieniającego rozporządzenie w sprawie statutu Narodowej Agencji Wymiany Akademickiej (Dz. U. poz. 96), które weszło w życie z dniem 30 stycznia 2021 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 6) Dodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 2. 7) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 8) Dodana przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 10) Dodana przez § 1 pkt 4 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 11) Ze zmianą wprowadzoną przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2. 12) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
 

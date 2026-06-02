@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-11-13 |
 | Data wydania | 2015-11-27 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001977) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1977/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 100 § 13 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 100 § 13 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247, z 2014 r. poz. 486, 579, 786 i 969 oraz z 2015 r. poz. 21, 396, 841, 1186, 1269, 1549, 1707 i 1855.) zarządza się, co następuje:
 § 1.
 W sprawach poboru należności wynikających z grzywien nałożonych w drodze mandatu karnego, stanowiących dochód budżetu państwa, właściwy miejscowo jest Naczelnik Pierwszego Urzędu Skarbowego w Opolu.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247, z 2014 r. poz. 486, 579, 786 i 969 oraz z 2015 r. poz. 21, 396, 841, 1186, 1269, 1549, 1707 i 1855.
 

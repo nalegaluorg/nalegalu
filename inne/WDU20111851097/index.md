@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-07-29 |
 | Data wydania | 2011-09-06 |
-| Wejście w życie | 2011-09-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111851097) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1097/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 marca 1982 r. o scalaniu i wymianie gruntów (Dz. U. z 2003 r. Nr 178, poz. 1749, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 marca 1982 r. o scalaniu i wymianie gruntów (Dz. U. z 2003 r. Nr 178, poz. 1749, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 116, poz. 1206, z 2006 r. Nr 227, poz. 1658, z 2007 r. Nr 64, poz. 427 oraz z 2009 r. Nr 92, poz. 753.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
@@ -55,5 +54,5 @@ source: "eli-html"
 
 - **3)** uchyla się art. 34.
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 116, poz. 1206, z 2006 r. Nr 227, poz. 1658, z 2007 r. Nr 64, poz. 427 oraz z 2009 r. Nr 92, poz. 753.
 

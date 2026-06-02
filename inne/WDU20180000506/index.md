@@ -26,28 +26,25 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000506) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/506/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Finansów z dnia 4 września 2015 r. w sprawie audytu wewnętrznego oraz informacji o pracy i wynikach tego audytu Rozdział 1 – Przepisy ogólne Rozdział 2 – Sposób sporządzania i elementy planu audytu oraz sprawozdania z prowadzenia audytu wewnętrznego Rozdział 3 – Planowanie i realizacja zadania audytowego oraz informowanie o jego wynikach Rozdział 4 – Audyt wewnętrzny zlecony i ocena prowadzenia audytu wewnętrznego Rozdział 5 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Finansów z dnia 4 września 2015 r. w sprawie audytu wewnętrznego oraz informacji o pracy i wynikach tego audytu
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523)ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 4 września 2015 r. w sprawie audytu wewnętrznego oraz informacji o pracy i wynikach tego audytu (Dz. U. poz. 1480), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rozwoju i Finansów z dnia 15 lutego 2017 r. zmieniającym rozporządzenie w sprawie audytu wewnętrznego oraz informacji o pracy i wynikach tego audytu (Dz. U. poz. 296).
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 32 i § 33 rozporządzenia Ministra Finansów z dnia 4 września 2015 r. w sprawie audytu wewnętrznego oraz informacji o pracy i wynikach tego audytu (Dz. U. poz. 1480), które stanowią:
-„
+§ 32 i § 33 rozporządzenia Ministra Finansów z dnia 4 września 2015 r. w sprawie audytu wewnętrznego oraz informacji o pracy i wynikach tego audytu (Dz. U. poz. 1480), które stanowią: „
 § 32.
 Do zadań audytowych oraz czynności sprawdzających, rozpoczętych i niezakończonych przed dniem wejścia w życie rozporządzenia, stosuje się przepisy dotychczasowe.
 § 33.
-W 2015 r. do sporządzenia planu audytu na rok 2016 nie stosuje się przepisów rozdziału 2 rozporządzenia wymienionego w § 34.
-” ;
+W 2015 r. do sporządzenia planu audytu na rok 2016 nie stosuje się przepisów rozdziału 2 rozporządzenia wymienionego w § 34. ” ;
 2)
-§ 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 15 lutego 2017 r. zmieniającego rozporządzenie w sprawie audytu wewnętrznego oraz informacji o pracy i wynikach tego audytu (Dz. U. poz. 296), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 15 lutego 2017 r. zmieniającego rozporządzenie w sprawie audytu wewnętrznego oraz informacji o pracy i wynikach tego audytu (Dz. U. poz. 296), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. ” .
 Załącznik – Rozporządzenie Ministra Finansów z dnia 4 września 2015 r. w sprawie audytu wewnętrznego oraz informacji o pracy i wynikach tego audytu
 Na podstawie art. 285 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077 oraz z 2018 r. poz. 62) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowy sposób i tryb przeprowadzania audytu wewnętrznego oraz przekazywania informacji o pracy i wynikach audytu wewnętrznego.
 § 2.
@@ -127,6 +124,7 @@ dotyczące monitorowania realizacji zaleceń i przeprowadzania czynności sprawd
 Dokumentacja dotycząca zadania audytowego i pozostała dokumentacja audytu wewnętrznego stanowią własność jednostki.
 § 6.
 W uzasadnionych przypadkach audytor wewnętrzny, realizując zadanie audytowe, może korzystać z pomocy ekspertów.
+Sposób sporządzania i elementy planu audytu oraz sprawozdania z prowadzenia audytu wewnętrznego
 § 7.
 1.
 Kierownik komórki audytu wewnętrznego, opracowując plan audytu, o którym mowa w art. 283 ust. 1 ustawy, przeprowadza analizę ryzyka uwzględniającą sposób zarządzania ryzykiem w jednostce.
@@ -182,6 +180,7 @@ informacje o zadaniach audytowych, w tym zleconych, o których mowa w art. 292 u
 inne istotne informacje związane z funkcjonowaniem audytu wewnętrznego w jednostce w roku poprzednim, w tym dotyczące przeprowadzenia oceny wewnętrznej i zewnętrznej audytu wewnętrznego.
 2.
 Kierownik komórki audytu wewnętrznego jednostki w dziale administracji rządowej w terminie do dnia 15 lutego każdego roku przesyła kopię sprawozdania, o którym mowa w ust. 1, do komórki audytu wewnętrznego utworzonej w ministerstwie właściwym dla tego działu.
+Planowanie i realizacja zadania audytowego oraz informowanie o jego wynikach
 § 13.
 Kierownik komórki audytu wewnętrznego informuje audytowanego o planowanej realizacji zadania.
 § 14.
@@ -288,6 +287,7 @@ W wyniku czynności doradczych audytor wewnętrzny może przedstawić propozycje
 Sposób wykonania i dokumentowania przebiegu oraz wyniku czynności doradczych powinien być odpowiedni do rodzaju i charakteru działań audytora wewnętrznego.
 § 25.
 Przepisy § 19 i § 21–23 dotyczące kierownika jednostki stosuje się odpowiednio do dyrektora generalnego w urzędzie administracji rządowej, w którym tworzy się stanowisko dyrektora generalnego urzędu.
+Audyt wewnętrzny zlecony i ocena prowadzenia audytu wewnętrznego
 § 26.
 1.
 Audytor wewnętrzny przeprowadza audyt wewnętrzny zlecony zgodnie z założeniami przekazanymi przez Ministra Finansów.
@@ -304,7 +304,7 @@ Współpraca, o której mowa w ust. 1, polega w szczególności na:
 przekazywaniu dokumentów, kopii, odpisów oraz wyciągów z dokumentów i innych materiałów związanych z przeprowadzaniem audytu wewnętrznego zleconego;
 2)
 udzielaniu informacji i wyjaśnień.
-§ 29.
+§ 29W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 15 lutego 2017 r. zmieniającego rozporządzenie w sprawie audytu wewnętrznego oraz informacji o pracy i wynikach tego audytu (Dz. U. poz. 296), które weszło w życie z dniem 1 marca 2017 r..
 Przepisy § 26–28 stosuje się odpowiednio do audytu wewnętrznego zleconego przez Szefa Krajowej Administracji Skarbowej.
 § 30.
 W zakresie nieuregulowanym w niniejszym rozdziale do przeprowadzania audytu wewnętrznego zleconego stosuje się odpowiednio przepisy rozdziału 3.
@@ -325,22 +325,33 @@ Po rozpatrzeniu wyjaśnień lub zastrzeżeń, pracownicy, o których mowa w ust.
 W przypadku nieuwzględnienia dodatkowych wyjaśnień lub zastrzeżeń, o których mowa w ust. 2, pracownicy, o których mowa w ust. 1, informują o tym na piśmie kierownika jednostki, wraz z uzasadnieniem.
 5.
 W terminie 7 dni kalendarzowych od dnia otrzymania wyniku oceny kierownik jednostki może zgłosić Ministrowi Finansów swoje stanowisko na piśmie.
+Przepisy przejściowe i końcowe
 § 32.
-(pominięty).
+(pominięty).Zamieszczony w obwieszczeniu.
 § 33.
-(pominięty).
+(pominięty).Zamieszczony w obwieszczeniu.
 § 34.
 Traci moc rozporządzenie Ministra Finansów z dnia 1 lutego 2010 r. w sprawie przeprowadzania i dokumentowania audytu wewnętrznego (Dz. U. poz. 108).
 § 35.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem § 7–11, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem § 7–11, które wchodzą w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 28 września 2015 r.. 1) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 15 lutego 2017 r. zmieniającego rozporządzenie w sprawie audytu wewnętrznego oraz informacji o pracy i wynikach tego audytu (Dz. U. poz. 296), które weszło w życie z dniem 1 marca 2017 r. 2) Zamieszczony w obwieszczeniu. 3) Rozporządzenie zostało ogłoszone w dniu 28 września 2015 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Sposób sporządzania i elementy planu audytu oraz sprawozdania z prowadzenia audytu wewnętrznego
+#### Rozdział 2 – Sposób sporządzania i elementy planu audytu oraz sprawozdania z prowadzenia audytu wewnętrznego
 
-#### Rozdział 3 Planowanie i realizacja zadania audytowego oraz informowanie o jego wynikach
+#### Rozdział 3 – Planowanie i realizacja zadania audytowego oraz informowanie o jego wynikach
 
-#### Rozdział 4 Audyt wewnętrzny zlecony i ocena prowadzenia audytu wewnętrznego
+#### Rozdział 4 – Audyt wewnętrzny zlecony i ocena prowadzenia audytu wewnętrznego
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

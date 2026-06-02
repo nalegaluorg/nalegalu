@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-02-24 |
 | Data wydania | 2014-03-21 |
-| Wejście w życie | 2014-04-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000367) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/367/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 11 ust. 7b ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 11 ust. 7b ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371, z 2012 r. poz. 627, 664, 769 i 951 oraz z 2013 r. poz. 628, 675, 829, 1351 i 1650.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 19 grudnia 2005 r. w sprawie wart ochronnych pełnionych przez funkcjonariuszy Straży Granicznej na pokładzie statku powietrznego (Dz. U. Nr 266, poz. 2243 oraz z 2013 r. poz. 223) w § 9 ust. 1 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 19 grudnia 2005 r. w sprawie wart ochronnych pełnionych przez funkcjonariuszy Straży Granicznej na pokładzie statku powietrznego (Dz. U. Nr 266, poz. 2243 oraz z 2013 r. poz. 223) w § 9 ust. 1 otrzymuje brzmienie: „
 1.
 Wyposażenie funkcjonariuszy wart ochronnych:
 1)
@@ -60,8 +58,7 @@ podręcznej apteczki pierwszej pomocy,
 g)
 kabury na magazynki,
 h)
-telefonu służbowego.
-” .
+telefonu służbowego. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371, z 2012 r. poz. 627, 664, 769 i 951 oraz z 2013 r. poz. 628, 675, 829, 1351 i 1650.
 

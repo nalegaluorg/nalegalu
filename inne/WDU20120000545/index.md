@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-05-02 |
 | Data wydania | 2012-05-18 |
-| Wejście w życie | 2012-06-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000545) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/545/text.pdf) |
 
@@ -30,7 +29,7 @@ Treść rozporządzenia
 Na podstawie art. 87 ustawy z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych (Dz. U. Nr 174, poz. 1038) zarządza się, co następuje:
 § 1.
 1.
-Dane, o których mowa w art. 85 ust. 2 ustawy z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych, zwanej dalej „ustawą”, są gromadzone w systemie teleinformatycznym, w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm.).
+Dane, o których mowa w art. 85 ust. 2 ustawy z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych, zwanej dalej „ustawą”, są gromadzone w systemie teleinformatycznym, w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 12, poz. 65 i Nr 73, poz. 501, z 2008 r. Nr 127, poz. 817, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131 i Nr 182, poz. 1228 oraz z 2011 r. Nr 112, poz. 654, Nr 185, poz. 1092 i Nr 204, poz. 1195.).
 2.
 Dane, o których mowa w art. 85 ust. 2 ustawy, wprowadza się do rejestru ukaranych pielęgniarek i położnych, zwanego dalej „rejestrem”, niezwłocznie po otrzymaniu od przewodniczącego sądu pielęgniarek i położnych odpisu prawomocnego orzeczenia sądu pielęgniarek i położnych o ukaraniu.
 § 2.
@@ -51,8 +50,7 @@ ograniczenia zakresu czynności w wykonywaniu zawodu,
 3)
 zawieszenia prawa wykonywania zawodu,
 4)
-pozbawienia prawa wykonywania zawodu
-przewodniczący okręgowej rady pielęgniarek i położnych, w terminie 14 dni od dnia otrzymania prawomocnego orzeczenia, przesyła wszystkim podmiotom leczniczym, w których ukarana pielęgniarka lub położna udziela świadczeń zdrowotnych, informację o ukaraniu jedną z kar określonych w pkt 1–4.
+pozbawienia prawa wykonywania zawodu – przewodniczący okręgowej rady pielęgniarek i położnych, w terminie 14 dni od dnia otrzymania prawomocnego orzeczenia, przesyła wszystkim podmiotom leczniczym, w których ukarana pielęgniarka lub położna udziela świadczeń zdrowotnych, informację o ukaraniu jedną z kar określonych w pkt 1–4.
 § 6.
 1.
 W razie orzeczenia kary zawieszenia prawa wykonywania zawodu, właściwa ze względu na miejsce wykonywania zawodu okręgowa rada pielęgniarek i położnych wzywa ukaraną pielęgniarkę lub położną do złożenia dokumentu prawa wykonywania zawodu.
@@ -67,5 +65,5 @@ Z chwilą zatarcia kary nałożonej prawomocnym orzeczeniem sądu pielęgniarek 
 § 9.
 W przypadku orzeczenia przez sąd pielęgniarek i położnych opublikowania orzeczenia o ukaraniu w biuletynie okręgowej izby pielęgniarek i położnych, której obwiniona jest członkiem, lub w przypadku złożenia przez uniewinnioną wniosku, o którym mowa w art. 84 ust. 1 ustawy, przewodniczący sądu pielęgniarek i położnych wydaje zarządzenie o przekazaniu przewodniczącemu właściwej okręgowej rady pielęgniarek i położnych orzeczenia do opublikowania, z wyłączeniem danych osobowych pokrzywdzonego.
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 12, poz. 65 i Nr 73, poz. 501, z 2008 r. Nr 127, poz. 817, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131 i Nr 182, poz. 1228 oraz z 2011 r. Nr 112, poz. 654, Nr 185, poz. 1092 i Nr 204, poz. 1195.
 

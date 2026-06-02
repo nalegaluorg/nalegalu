@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 18 lutego 2020 r. w sprawie gmin, dla których będą sporządzane wykazy nieruchomości Skarbu Państwa
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 18 lutego 2020 r. w sprawie gmin, dla których będą sporządzane wykazy nieruchomości Skarbu Państwa Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-02-18 |
 | Data wydania | 2020-02-28 |
-| Wejście w życie | 2020-03-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000331) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/331/text.pdf) |
 
@@ -33,8 +32,7 @@ Na podstawie art. 99 ust. 11 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie K
 § 1.
 W załączniku do rozporządzenia wskazuje się gminy, dla których, w celu przygotowania obszaru Inwestycji oraz stworzenia Zasobu umożliwiającego dokonywanie sprawnej i skutecznej zamiany nieruchomości, sporządza się wykazy nieruchomości Skarbu Państwa, którymi gospodarują podmioty, o których mowa w art. 99 ust. 1 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258).
 Załącznik – Gminy, dla których, w celu przygotowania obszaru inwestycji oraz stworzenia zasobu umożliwiającego dokonywanie sprawnej i skutecznej zamiany nieruchomości, sporządza się wykazy nieruchomości skarbu państwa, którymi gospodarują podmioty, o których mowa w art. 99 ust. 1 ustawy z dnia 10 maja 2018 r. o centralnym porcie komunikacyjnym
 Województwo mazowieckie:
 1)
@@ -574,8 +572,7 @@ powiat – gmina Miasto Stołeczne Warszawa;
 31)
 powiat – gmina Miasto Płock;
 32)
-powiat – gmina Miasto Radom.
-Województwo łódzkie:
+powiat – gmina Miasto Radom. Województwo łódzkie:
 1)
 powiat brzeziński:
 a)

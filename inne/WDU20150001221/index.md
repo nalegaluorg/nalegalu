@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-25 |
 | Data wydania | 2015-08-24 |
-| Wejście w życie | 2015-09-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001221) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1221/text.pdf) |
 
@@ -100,7 +99,7 @@ source: "eli-html"
 
 2. Do złożenia wniosku, o którym mowa w ust. 1 pkt 7, jest uprawniony również zakładający lotnisko, o którym mowa w art. 55 ust. 2 pkt 1–3, i Polska Agencja Żeglugi Powietrznej. Lasy Państwowe zarządzające na podstawie ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2014 r. poz. 1153 oraz z 2015 r. poz. 349 i 671) nieruchomościami w stosunku do których wydano decyzję Prezesa Urzędu, o której mowa w ust. 1 pkt 7, są obowiązane do dokonania nieodpłatnie wycinki drzew i krzewów oraz ich uprzątnięcia w terminie ustalonym w odrębnym porozumieniu albo umowy między Lasami Państwowymi a zakładającym lotnisko, o którym mowa w art. 55 ust. 2 pkt 13, zarządzającym takim lotniskiem, o którym mowa w art. 174 ust. 2, lub Polską Agencją Żeglugi Powietrznej. Drewno pozyskane z wycinki drzew i krzewów, o której mowa w zdaniu poprzednim, staje się nieodpłatnie własnością Lasów Państwowych. Koszty wycinki drzew i krzewów w wieku do 20 lat oraz ich uprzątnięcia ponosi zakładający lotnisko użytku publicznego, o którym mowa w art. 55 ust. 2 pkt 1–3, zarządzający takim lotniskiem, o którym mowa w art. 174 ust. 2, lub Polska Agencja Żeglugi Powietrznej.
 
-3. Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych decyzją Prezesa Urzędu, o której mowa w ust. 1 pkt 7, z wyjątkiem drzew i krzewów usuwanych z nieruchomości wpisanych do rejestru zabytków, nie stosuje się przepisów ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.).
+3. Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych decyzją Prezesa Urzędu, o której mowa w ust. 1 pkt 7, z wyjątkiem drzew i krzewów usuwanych z nieruchomości wpisanych do rejestru zabytków, nie stosuje się przepisów ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842, z 2014 r. poz. 805, 850, 926, 1002, 1101 i 1863 oraz z 2015 r. poz. 222, 774 i 1045.).
 
 4. Do gruntów rolnych i leśnych objętych decyzją Prezesa Urzędu, o której mowa w ust. 1 pkt 7, nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2015 r. poz. 909). ” ;
 
@@ -142,5 +141,5 @@ source: "eli-html"
 
 **Art. 2.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 116 ust. 5 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 116 ust. 5 ustawy zmienianej w art. 1 nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842, z 2014 r. poz. 805, 850, 926, 1002, 1101 i 1863 oraz z 2015 r. poz. 222, 774 i 1045.
 

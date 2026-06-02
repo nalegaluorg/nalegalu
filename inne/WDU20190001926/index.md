@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-04 |
 | Data wydania | 2019-10-10 |
-| Wejście w życie | 2020-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001926) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1926/text.pdf) |
 
@@ -31,32 +30,25 @@ Na podstawie art. 20 pkt 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju s�
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 28 grudnia 2018 r. w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw (Dz. U. poz. 2548 oraz z 2019 r. poz. 603 i 1305) wprowadza się następujące zmiany:
 1)
-w § 1 pkt 3 otrzymuje brzmienie:
-„
+w § 1 pkt 3 otrzymuje brzmienie: „
 3)
-Sąd Apelacyjny w Katowicach – obejmujący obszar właściwości sądów okręgowych w: Bielsku-Białej, Częstochowie, Gliwicach, Katowicach i Rybniku oraz rozpoznający sprawy z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego oraz zgodności z prawdą oświadczeń lustracyjnych, pracy i ubezpieczeń społecznych, a także sprawy gospodarcze oraz inne sprawy z zakresu prawa gospodarczego i cywilnego należące do sądu gospodarczego na podstawie odrębnych ustaw;
-” ;
+Sąd Apelacyjny w Katowicach – obejmujący obszar właściwości sądów okręgowych w: Bielsku-Białej, Częstochowie, Gliwicach, Katowicach i Rybniku oraz rozpoznający sprawy z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego oraz zgodności z prawdą oświadczeń lustracyjnych, pracy i ubezpieczeń społecznych, a także sprawy gospodarcze oraz inne sprawy z zakresu prawa gospodarczego i cywilnego należące do sądu gospodarczego na podstawie odrębnych ustaw; ” ;
 2)
 w § 2 w pkt 3:
 a)
-lit. c otrzymuje brzmienie:
-„
+lit. c otrzymuje brzmienie: „
 c)
-Sąd Okręgowy w Gliwicach – obejmujący obszar właściwości sądów rejonowych w: Gliwicach, Rudzie Śląskiej, Tarnowskich Górach i Zabrzu oraz rozpoznający sprawy z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego oraz zgodności z prawdą oświadczeń lustracyjnych, pracy i ubezpieczeń społecznych, prowadzenia rejestru dzienników i czasopism, a także sprawy gospodarcze oraz inne sprawy z zakresu prawa gospodarczego i cywilnego należące do sądu gospodarczego na podstawie odrębnych ustaw,
-” ,
+Sąd Okręgowy w Gliwicach – obejmujący obszar właściwości sądów rejonowych w: Gliwicach, Rudzie Śląskiej, Tarnowskich Górach i Zabrzu oraz rozpoznający sprawy z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego oraz zgodności z prawdą oświadczeń lustracyjnych, pracy i ubezpieczeń społecznych, prowadzenia rejestru dzienników i czasopism, a także sprawy gospodarcze oraz inne sprawy z zakresu prawa gospodarczego i cywilnego należące do sądu gospodarczego na podstawie odrębnych ustaw, ” ,
 b)
-w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu:
-„
+w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „
 e)
-Sąd Okręgowy w Rybniku – obejmujący obszar właściwości sądów rejonowych w: Jastrzębiu-Zdroju, Raciborzu, Rybniku, Wodzisławiu Śląskim i Żorach oraz rozpoznający sprawy z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy i ubezpieczeń społecznych oraz prowadzenia rejestru dzienników i czasopism;
-” ;
+Sąd Okręgowy w Rybniku – obejmujący obszar właściwości sądów rejonowych w: Jastrzębiu-Zdroju, Raciborzu, Rybniku, Wodzisławiu Śląskim i Żorach oraz rozpoznający sprawy z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy i ubezpieczeń społecznych oraz prowadzenia rejestru dzienników i czasopism; ” ;
 3)
 w § 3:
 a)
 w pkt 7 uchyla się lit. b, c, e, g oraz i,
 b)
-po pkt 29 dodaje się pkt 29a w brzmieniu:
-„
+po pkt 29 dodaje się pkt 29a w brzmieniu: „
 29a)
 w obszarze właściwości Sądu Okręgowego w Rybniku:
 a)
@@ -68,8 +60,7 @@ Sąd Rejonowy w Rybniku – dla miasta Rybnik oraz gmin: Czerwionka-Leszczyny, G
 d)
 Sąd Rejonowy w Wodzisławiu Śląskim – dla miast: Pszów, Radlin, Rydułtowy i Wodzisław Śląski oraz gmin: Godów, Gorzyce, Lubomia, Marklowice i Mszana oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, a także do prowadzenia ksiąg wieczystych,
 e)
-Sąd Rejonowy w Żorach – dla miasta Żory oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, a także do prowadzenia ksiąg wieczystych;
-” .
+Sąd Rejonowy w Żorach – dla miasta Żory oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, a także do prowadzenia ksiąg wieczystych; ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
 

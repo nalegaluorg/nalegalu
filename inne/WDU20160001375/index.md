@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 26 sierpnia 2016 r. w sprawie sposobu prowadzenia przez publiczne szkoły i placówki artystyczne dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 26 sierpnia 2016 r. w sprawie sposobu prowadzenia przez publiczne szkoły i placówki artystyczne dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-08-26 |
 | Data wydania | 2016-08-31 |
-| Wejście w życie | 2016-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001375) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1375/text.pdf) |
 
@@ -200,16 +199,11 @@ Do czasu ukończenia szkoły przez uczniów arkusze ocen przechowuje się oddzie
 Szkoła zakłada księgi arkuszy ocen.
 3.
 4.
-Na końcu księgi arkuszy ocen umieszcza się adnotację:
-„
+Na końcu księgi arkuszy ocen umieszcza się adnotację: „ Księga zawiera:
 1).
-....................... arkuszy ocen uczniów, (podać liczbę)
-którzy ukończyli szkołę;
+....................... arkuszy ocen uczniów, (podać liczbę) którzy ukończyli szkołę;
 2).
-....................... arkuszy ocen uczniów, (podać liczbę)
-którzy z różnych przyczyn opuścili szkołę.
-” .
-Adnotację na końcu księgi arkuszy ocen opatruje się pieczęcią szkoły oraz pieczątką i podpisem dyrektora szkoły.
+....................... arkuszy ocen uczniów, (podać liczbę) którzy z różnych przyczyn opuścili szkołę. ” . Adnotację na końcu księgi arkuszy ocen opatruje się pieczęcią szkoły oraz pieczątką i podpisem dyrektora szkoły.
 § 7.
 Protokoły postępowania rekrutacyjnego, stanowiące dokumentację przyjęć kandydatów do szkół i placówek, sporządza się i przechowuje zgodnie z przepisami w sprawie warunków i trybu przyjmowania uczniów do publicznych szkół i publicznych placówek artystycznych oraz przechodzenia z jednych typów szkół do innych.
 § 8.
@@ -271,10 +265,7 @@ Przepisy rozporządzenia stosuje się także do szkół pomaturalnych biblioteka
 § 14.
 Traci moc rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 24 sierpnia 2011 r. w sprawie sposobu prowadzenia przez publiczne szkoły i placówki artystyczne dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji (Dz. U. poz. 1118).
 § 15.
-Rozporządzenie wchodzi w życie z dniem 1 września 2016 r.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
+Rozporządzenie wchodzi w życie z dniem 1 września 2016 r. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
 
 # Księga arkuszy ocen zawiera ułożone w porządku alfabetycznym wykazy uczniów wszystkich klas, którzy w danym roku szkolnym ukończyli lub opuścili szkołę, oraz ich arkusze ocen. Na pierwszej stronie księgi arkuszy ocen umieszcza się adnotację: „Księga arkuszy ocen uczniów, którzy w roku szkolnym...................... ukończyli lub opuścili szkołę”.
-
-# Księga zawiera:
 

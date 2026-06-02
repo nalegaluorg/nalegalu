@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-28 |
 | Data wydania | 2022-05-05 |
-| Wejście w życie | 2022-05-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000951) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/951/text.pdf) |
 
@@ -188,5 +187,5 @@ powstanie okoliczności uniemożliwiających odbycie obowiązkowej zasadniczej s
 § 6.
 Osobom, wobec których właściwa komisja lekarska orzekła czasową niezdolność do czynnej służby wojskowej, jeżeli posiadają przeznaczenie do odbycia obowiązkowej zasadniczej służby wojskowej, przeznaczenie to zawiesza się na okres czasowej niezdolności. Osoby te przeznacza się ponownie do służby po określeniu przez komisję lekarską ich zdolności do czynnej służby wojskowej.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 19 października 2010 r. w sprawie szczegółowych zasad przeznaczania do służby osób uznanych za zdolne do czynnej służby wojskowej i podlegających obowiązkowi odbycia zasadniczej służby wojskowej (Dz. U. poz. 1329), które zgodnie art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 19 października 2010 r. w sprawie szczegółowych zasad przeznaczania do służby osób uznanych za zdolne do czynnej służby wojskowej i podlegających obowiązkowi odbycia zasadniczej służby wojskowej (Dz. U. poz. 1329), które zgodnie art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

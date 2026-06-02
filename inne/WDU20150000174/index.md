@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-01-09 |
 | Data wydania | 2015-02-02 |
-| Wejście w życie | 2015-02-17 |
 | Ostatnia zmiana | 2025-07-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000174) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/174/text.pdf) |
 
@@ -34,8 +33,7 @@ Rozporządzenie określa warunki udzielania zwolnień z:
 1)
 podatku od nieruchomości,
 2)
-podatku od środków transportowych
-stanowiących pomoc publiczną, wprowadzanych w drodze uchwał rad gmin, na podstawie art. 7 ust. 3 lub art. 12 ust. 4 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych, zwaną dalej „pomocą”.
+podatku od środków transportowych – stanowiących pomoc publiczną, wprowadzanych w drodze uchwał rad gmin, na podstawie art. 7 ust. 3 lub art. 12 ust. 4 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych, zwaną dalej „pomocą”.
 2.
 Pomoc może być udzielana jako:
 1)
@@ -45,8 +43,7 @@ pomoc na kulturę i zachowanie dziedzictwa kulturowego,
 3)
 pomoc na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną,
 4)
-pomoc na infrastrukturę lokalną
-do której mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1), zwanego dalej „rozporządzeniem Komisji UE nr 651/2014”.
+pomoc na infrastrukturę lokalną – do której mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1), zwanego dalej „rozporządzeniem Komisji UE nr 651/2014”.
 § 2.
 Rozporządzenia nie stosuje się w przypadkach, o których mowa w art. 1 ust. 2–5 i art. 13 rozporządzenia Komisji UE nr 651/2014.
 § 3.
@@ -167,7 +164,7 @@ narzędzi, przyrządów i aparatury,
 d)
 wyposażenia technicznego do prac biurowych,
 e)
-urządzeń infrastruktury technicznej wymienionych w art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2014 r. poz. 518, z późn. zm.),
+urządzeń infrastruktury technicznej wymienionych w art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2014 r. poz. 518, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 659, 805, 822, 906 i 1200.),
 f)
 infrastruktury telekomunikacyjnej w rozumieniu art. 2 pkt 8 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, 827 i 1198);
 3)
@@ -175,7 +172,7 @@ cenę nabycia wartości niematerialnych i prawnych, jeżeli spełniają one łą
 a)
 będą wykorzystywane wyłącznie w zakładzie otrzymującym pomoc,
 b)
-podlegają amortyzacji zgodnie z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.),
+podlegają amortyzacji zgodnie z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4.),
 c)
 są nabyte na warunkach rynkowych od osób trzecich niepowiązanych z nabywcą,
 d)
@@ -244,8 +241,7 @@ intensywność pomocy udzielanej MŚP, z wyłączeniem nowych inwestycji o koszt
 a)
 20 punktów procentowych brutto w przypadku małych przedsiębiorców,
 b)
-10 punktów procentowych brutto w przypadku średnich przedsiębiorców
-w stosunku do maksymalnej intensywności określonej dla poszczególnych obszarów określonych w § 3 rozporządzenia Rady Ministrów z dnia 30 czerwca 2014 r. w sprawie ustalenia mapy pomocy regionalnej na lata 2014–2020.
+10 punktów procentowych brutto w przypadku średnich przedsiębiorców – w stosunku do maksymalnej intensywności określonej dla poszczególnych obszarów określonych w § 3 rozporządzenia Rady Ministrów z dnia 30 czerwca 2014 r. w sprawie ustalenia mapy pomocy regionalnej na lata 2014–2020.
 3.
 W przypadku pomocy, o której mowa w ust. 2, maksymalną wartość pomocy udzielanej na realizację dużego projektu inwestycyjnego ustala się zgodnie ze wzorem określonym w art. 2 pkt 20 rozporządzenia Komisji UE nr 651/2014.
 4.
@@ -335,5 +331,5 @@ Rada gminy w uchwale, o której mowa w § 1 ust. 1, może skrócić okres korzys
 § 15.
 Rozporządzenie obowiązuje do dnia 31 grudnia 2020 r.
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 659, 805, 822, 906 i 1200. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4.
 

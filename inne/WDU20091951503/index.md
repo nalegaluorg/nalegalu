@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-10-23 |
 | Data wydania | 2009-11-23 |
-| Wejście w życie | 2009-12-08 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091951503) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1503/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz. U. Nr 65, poz. 594, z późn. zm.) po art. 5a dodaje się art. 5b w brzmieniu: „
+**Art. 1.** W ustawie z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz. U. Nr 65, poz. 594, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 217, poz. 2124, z 2004 r. Nr 91, poz. 870, z 2006 r. Nr 157, poz. 1119 oraz z 2009 r. Nr 65, poz. 545.) po art. 5a dodaje się art. 5b w brzmieniu: „
 
 **Art. 5b.**
 
@@ -34,5 +33,5 @@ source: "eli-html"
 
 2. Przez pożyczkę, o której mowa w ust. 1, rozumie się również objęcie przez Skarb Państwa wyemitowanych przez BGK dłużnych papierów wartościowych. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 217, poz. 2124, z 2004 r. Nr 91, poz. 870, z 2006 r. Nr 157, poz. 1119 oraz z 2009 r. Nr 65, poz. 545.
 

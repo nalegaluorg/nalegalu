@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-01-22 |
 | Data wydania | 2004-03-02 |
-| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040330285) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/285/text.pdf) |
+
+Zabezpieczenie danych osobowych
 
 **Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. Nr 101, poz. 926 i Nr 153, poz. 1271 oraz z 2004 r. Nr 25, poz. 219) wprowadza się następujące zmiany:
 
@@ -43,7 +44,7 @@ source: "eli-html"
 2. Ustawę stosuje się również do:
 
 - **1)** podmiotów niepublicznych realizujących zadania publiczne,
-- **2)** osób fizycznych i osób prawnych oraz jednostek organizacyjnych niebędących osobami prawnymi, jeżeli przetwarzają dane osobowe w związku z działalnością zarobkową, zawodową lub dla realizacji celów statutowych które mają siedzibę albo miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, albo w państwie trzecim, o ile przetwarzają dane osobowe przy wykorzystaniu środków technicznych znajdujących się na terytorium Rzeczypospolitej Polskiej. ” ;
+- **2)** osób fizycznych i osób prawnych oraz jednostek organizacyjnych niebędących osobami prawnymi, jeżeli przetwarzają dane osobowe w związku z działalnością zarobkową, zawodową lub dla realizacji celów statutowych – które mają siedzibę albo miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, albo w państwie trzecim, o ile przetwarzają dane osobowe przy wykorzystaniu środków technicznych znajdujących się na terytorium Rzeczypospolitej Polskiej. ” ;
 - **3)** dodaje się art. 3a w brzmieniu: „
 
 1. Ustawy nie stosuje się do:
@@ -51,7 +52,7 @@ source: "eli-html"
 - **1)** osób fizycznych, które przetwarzają dane wyłącznie w celach osobistych lub domowych,
 - **2)** podmiotów mających siedzibę lub miejsce zamieszkania w państwie trzecim, wykorzystujących środki techniczne znajdujące się na terytorium Rzeczypospolitej Polskiej wyłącznie do przekazywania danych.
 
-2. Ustawy, z wyjątkiem przepisów art. 14–19 i art. 36 ust. 1, nie stosuje się również do prasowej działalności dziennikarskiej w rozumieniu ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. Nr 5, poz. 24, z późn. zm.) oraz do działalności literackiej lub artystycznej, chyba że wolność wyrażania swoich poglądów i rozpowszechniania informacji istotnie narusza prawa i wolności osoby, której dane dotyczą. ” ;
+2. Ustawy, z wyjątkiem przepisów art. 14–19 i art. 36 ust. 1, nie stosuje się również do prasowej działalności dziennikarskiej w rozumieniu ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. Nr 5, poz. 24, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 34, poz. 187, z 1990 r. Nr 29, poz. 173, z 1991 r. Nr 100, poz. 442, z 1996 r. Nr 114, poz. 542, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 90, poz. 999, z 2001 r. Nr 112, poz. 1198 oraz z 2002 r. Nr 153, poz. 1271.) oraz do działalności literackiej lub artystycznej, chyba że wolność wyrażania swoich poglądów i rozpowszechniania informacji istotnie narusza prawa i wolności osoby, której dane dotyczą. ” ;
 
 - **4)** w art. 7: pkt 4 otrzymuje brzmienie: „
     - **a)**
@@ -118,9 +119,10 @@ source: "eli-html"
 - **13)** w art. 25: w ust. 1 pkt 4 otrzymuje brzmienie: „
     - **a)**
 
-- **4)** prawie dostępu do treści swoich danych oraz ich poprawiania, ” , w ust. 2: – uchyla się pkt 2 i 4, – pkt 5 otrzymuje brzmienie: „ 5) dane są przetwarzane przez administratora, o którym mowa w art. 3 ust. 1 i ust. 2 pkt 1, na podstawie przepisów prawa, ” ;
+- **4)** prawie dostępu do treści swoich danych oraz ich poprawiania, ” , w ust. 2: – uchyla się pkt 2 i 4, pkt 5 otrzymuje brzmienie: „
     - **b)**
 
+- **5)** dane są przetwarzane przez administratora, o którym mowa w art. 3 ust. 1 i ust. 2 pkt 1, na podstawie przepisów prawa, ” ;
 - **14)** w art. 29 ust. 1 otrzymuje brzmienie: „
 
 1. W przypadku udostępniania danych osobowych w celach innych niż włączenie do zbioru, administrator danych udostępnia posiadane w zbiorze dane osobom lub podmiotom uprawnionym do ich otrzymania na mocy przepisów prawa. ” ;
@@ -145,7 +147,7 @@ source: "eli-html"
 - **19)** w art. 33 w ust. 1 zdanie wstępne otrzymuje brzmienie: „ Na wniosek osoby, której dane dotyczą, administrator danych jest obowiązany, w terminie 30 dni, poinformować o przysługujących jej prawach oraz udzielić, odnośnie jej danych osobowych, informacji, o których mowa w art. 32 ust. 1 pkt 1–5a, a w szczególności podać w formie zrozumiałej: ” ;
 - **20)** rozdział 5 otrzymuje brzmienie: „
 
-#### Rozdział 5 Zabezpieczenie danych osobowych
+#### Rozdział 5
 
 **Art. 36.**
 
@@ -169,8 +171,14 @@ source: "eli-html"
 
 2. Osoby, które zostały upoważnione do przetwarzania danych, są obowiązane zachować w tajemnicy te dane osobowe oraz sposoby ich zabezpieczenia. Minister właściwy do spraw administracji publicznej w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, sposób prowadzenia i zakres dokumentacji, o której mowa w art. 36 ust. 2, oraz podstawowe warunki techniczne i organizacyjne, jakim powinny odpowiadać urządzenia i systemy informatyczne służące do przetwarzania danych osobowych, uwzględniając zapewnienie ochrony przetwarzanych danych osobowych odpowiedniej do zagrożeń oraz kategorii danych objętych ochroną, a także wymagania w zakresie odnotowywania udostępniania danych osobowych i bezpieczeństwa przetwarzanych danych. ” ;
 
-- **21)** w art. 41: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) oznaczenie podmiotu prowadzącego zbiór i adres jego siedziby lub miejsca zamieszkania, w tym numer identyfikacyjny rejestru podmiotów gospodarki narodowej, jeżeli został mu nadany, oraz podstawę prawną upoważniającą do prowadzenia zbioru, a w przypadku podmiotu, o którym mowa w art. 31a, oznaczenie tego podmiotu i adres jego siedziby lub miejsce zamieszkania, ” , – pkt 3 otrzymuje brzmienie: „ 3) cel przetwarzania danych, ” , – dodaje się pkt 3a w brzmieniu: „ 3a) opis kategorii osób, których dane dotyczą, oraz zakres przetwarzanych danych, ” , – pkt 6 otrzymuje brzmienie: „ 6) informację o sposobie wypełnienia warunków technicznych i organizacyjnych, określonych w przepisach, o których mowa w art. 39a, ” , – pkt 7 otrzymuje brzmienie: „ 7) informację dotyczącą ewentualnego przekazywania danych do państwa trzeciego. ” , ust. 2 otrzymuje brzmienie: „
+- **21)** w art. 41: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** oznaczenie podmiotu prowadzącego zbiór i adres jego siedziby lub miejsca zamieszkania, w tym numer identyfikacyjny rejestru podmiotów gospodarki narodowej, jeżeli został mu nadany, oraz podstawę prawną upoważniającą do prowadzenia zbioru, a w przypadku podmiotu, o którym mowa w art. 31a, oznaczenie tego podmiotu i adres jego siedziby lub miejsce zamieszkania, ” , pkt 3 otrzymuje brzmienie: „
+- **3)** cel przetwarzania danych, ” , dodaje się pkt 3a w brzmieniu: „
+- **3a)** opis kategorii osób, których dane dotyczą, oraz zakres przetwarzanych danych, ” , pkt 6 otrzymuje brzmienie: „
+- **6)** informację o sposobie wypełnienia warunków technicznych i organizacyjnych, określonych w przepisach, o których mowa w art. 39a, ” , pkt 7 otrzymuje brzmienie: „
+- **7)** informację dotyczącą ewentualnego przekazywania danych do państwa trzeciego. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Administrator danych jest obowiązany zgłaszać Generalnemu Inspektorowi każdą zmianę informacji, o której mowa w ust. 1, w terminie 30 dni od dnia dokonania zmiany w zbiorze danych. Do zgłaszania zmian stosuje się odpowiednio przepisy o rejestracji zbiorów danych. ” ;
@@ -230,9 +238,9 @@ source: "eli-html"
 
 **Art. 48.** W przypadkach innych niż wymienione w art. 47 ust. 2 i 3 przekazanie danych osobowych do państwa trzeciego, które nie daje gwarancji ochrony danych osobowych przynajmniej takich, jakie obowiązują na terytorium Rzeczypospolitej Polskiej, może nastąpić po uzyskaniu zgody Generalnego Inspektora, pod warunkiem że administrator danych zapewni odpowiednie zabezpieczenia w zakresie ochrony prywatności oraz praw i wolności osoby, której dane dotyczą. ” .
 
-**Art. 2.** W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. Nr 20, poz. 101, z późn. zm.) w art. 2 pkt 4 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. Nr 20, poz. 101, z późn. zm.Zmiany ustawy zostały ogłoszone w Dz. U. z 1982 r. Nr 31, poz. 214, z 1985 r. Nr 22, poz. 98 i Nr 50, poz. 262, z 1987 r. Nr 21, poz. 123, z 1989 r. Nr 34, poz. 178, z 1991 r. Nr 100, poz. 443, z 1993 r. Nr 1, poz. 1, z 1995 r. Nr 34, poz. 163 i Nr 142, poz. 701, z 1996 r. Nr 73, poz. 350, Nr 89, poz. 402, Nr 106, poz. 496 i Nr 139, poz. 647, z 1997 r. Nr 75, poz. 469 i Nr 133, poz. 883, z 1998 r. Nr 155, poz. 1016 i Nr 160, poz. 1065, z 1999 r. Nr 110, poz. 1255, z 2000 r. Nr 6, poz. 69 i Nr 48, poz. 552, z 2001 r. Nr 154, poz. 1784 i 1800, z 2002 r. Nr 214, poz. 1805 i Nr 240, poz. 2052 oraz z 2003 r. Nr 45, poz. 391 i Nr 65, poz. 595.) w art. 2 pkt 4 otrzymuje brzmienie: „
 
 - **4)** Prezesa Polskiej Akademii Nauk, sekretarza stanu, członka Krajowej Rady Radiofonii i Telewizji, pierwszego zastępcy Prezesa Narodowego Banku Polskiego, podsekretarza stanu (wiceministra), wiceprezesa Narodowego Banku Polskiego, Sekretarza Komitetu Integracji Europejskiej, Zastępcy Rzecznika Praw Obywatelskich, Zastępcy Generalnego Inspektora Ochrony Danych Osobowych, Rzecznika Ubezpieczonych, kierownika urzędu centralnego, wiceprezesa Polskiej Akademii Nauk, wojewody, zastępcy kierownika urzędu centralnego, wicewojewody. ” . Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy tej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
+**Art. 4.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 34, poz. 187, z 1990 r. Nr 29, poz. 173, z 1991 r. Nr 100, poz. 442, z 1996 r. Nr 114, poz. 542, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 90, poz. 999, z 2001 r. Nr 112, poz. 1198 oraz z 2002 r. Nr 153, poz. 1271. 2) Zmiany ustawy zostały ogłoszone w Dz. U. z 1982 r. Nr 31, poz. 214, z 1985 r. Nr 22, poz. 98 i Nr 50, poz. 262, z 1987 r. Nr 21, poz. 123, z 1989 r. Nr 34, poz. 178, z 1991 r. Nr 100, poz. 443, z 1993 r. Nr 1, poz. 1, z 1995 r. Nr 34, poz. 163 i Nr 142, poz. 701, z 1996 r. Nr 73, poz. 350, Nr 89, poz. 402, Nr 106, poz. 496 i Nr 139, poz. 647, z 1997 r. Nr 75, poz. 469 i Nr 133, poz. 883, z 1998 r. Nr 155, poz. 1016 i Nr 160, poz. 1065, z 1999 r. Nr 110, poz. 1255, z 2000 r. Nr 6, poz. 69 i Nr 48, poz. 552, z 2001 r. Nr 154, poz. 1784 i 1800, z 2002 r. Nr 214, poz. 1805 i Nr 240, poz. 2052 oraz z 2003 r. Nr 45, poz. 391 i Nr 65, poz. 595.
 

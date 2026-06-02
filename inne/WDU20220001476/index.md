@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-06-24 |
 | Data wydania | 2022-07-13 |
-| Wejście w życie | 2022-11-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001476) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1476/text.pdf) |
 
@@ -95,8 +94,7 @@ utraty przez posiadacza prawa do korzystania z paszportu dyplomatycznego lub pas
 2)
 utracenia przez nie ważności,
 3)
-likwidacji lub reorganizacji jednostki je przechowującej
-są przechowywane w urzędzie obsługującym ministra właściwego do spraw zagranicznych.
+likwidacji lub reorganizacji jednostki je przechowującej – są przechowywane w urzędzie obsługującym ministra właściwego do spraw zagranicznych.
 § 7.
-Rozporządzenie wchodzi w życie z dniem określonym w komunikacie wydanym na podstawie art. 110a ustawy.
+Rozporządzenie wchodzi w życie z dniem określonym w komunikacie wydanym na podstawie art. 110a ustawy.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 16 lipca 2010 r. w sprawie trybu i miejsca przechowywania paszportów dyplomatycznych i paszportów służbowych Ministerstwa Spraw Zagranicznych (Dz. U. poz. 927 oraz z 2018 r. poz. 270), które utraci moc z dniem wejścia w życie ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. poz. 350 i 583). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 16 lipca 2010 r. w sprawie trybu i miejsca przechowywania paszportów dyplomatycznych i paszportów służbowych Ministerstwa Spraw Zagranicznych (Dz. U. poz. 927 oraz z 2018 r. poz. 270), które utraci moc z dniem wejścia w życie ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. poz. 350 i 583).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 17 września 2018 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w ramach Programu Operacyjnego Polska Cyfrowa 2014–2020
+# Rozporządzenie Ministra Finansówz dnia 17 września 2018 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w ramach Programu Operacyjnego Polska Cyfrowa 2014–2020 Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-17 |
 | Data wydania | 2018-09-26 |
-| Wejście w życie | 2018-11-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001825) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1825/text.pdf) |
 
@@ -35,9 +34,9 @@ Rozporządzenie określa szczegółowe warunki oraz tryb udzielania pomocy de mi
 Do pomocy de minimis udzielanej na podstawie niniejszego rozporządzenia nie stosuje się przepisów rozporządzenia Ministra Finansów z dnia 28 marca 2018 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów (Dz. U. poz. 707).
 § 2.
 1.
-Pomoc de minimis jest udzielana mikroprzedsiębiorcy, małemu lub średniemu przedsiębiorcy, o którym mowa w art. 2 pkt 27 i art. 10 ust. 1 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2017 r. poz. 1907, z późn. zm.), zwanemu dalej „przedsiębiorcą telekomunikacyjnym”, w formie udzielanej przez BGK gwarancji spłaty kredytu przeznaczonego na finansowanie rozwoju prowadzonej przez niego działalności gospodarczej, w tym realizacji inwestycji szerokopasmowych, zgodnie z przepisami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1), zwanego dalej „rozporządzeniem Komisji”.
+Pomoc de minimis jest udzielana mikroprzedsiębiorcy, małemu lub średniemu przedsiębiorcy, o którym mowa w art. 2 pkt 27 i art. 10 ust. 1 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2017 r. poz. 1907, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 106, 138, 650, 1118, 1560 i 1629.), zwanemu dalej „przedsiębiorcą telekomunikacyjnym”, w formie udzielanej przez BGK gwarancji spłaty kredytu przeznaczonego na finansowanie rozwoju prowadzonej przez niego działalności gospodarczej, w tym realizacji inwestycji szerokopasmowych, zgodnie z przepisami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1), zwanego dalej „rozporządzeniem Komisji”.
 2.
-Pomoc de minimis nie może być udzielona w przypadkach wskazanych w art. 1 ust. 1 rozporządzenia Komisji oraz art. 3 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1301/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i przepisów szczególnych dotyczących celu „Inwestycje na rzecz wzrostu i zatrudnienia” oraz w sprawie uchylenia rozporządzenia (WE) nr 1080/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 289, z późn. zm.).
+Pomoc de minimis nie może być udzielona w przypadkach wskazanych w art. 1 ust. 1 rozporządzenia Komisji oraz art. 3 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1301/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i przepisów szczególnych dotyczących celu „Inwestycje na rzecz wzrostu i zatrudnienia” oraz w sprawie uchylenia rozporządzenia (WE) nr 1080/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 289, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 330 z 21.12.2013, str. 12 oraz Dz. Urz. UE L 193 z 02.08.2018, str. 1..
 § 3.
 1.
 Pomoc de minimis podlega kumulacji z inną pomocą zgodnie z art. 5 rozporządzenia Komisji.
@@ -68,6 +67,5 @@ Zabezpieczenie udzielonej gwarancji stanowi weksel własny in blanco wraz z dekl
 § 8.
 Pomoc de minimis jest udzielana do dnia 30 czerwca 2021 r.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 20 listopada 2018 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 106, 138, 650, 1118, 1560 i 1629. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 330 z 21.12.2013, str. 12 oraz Dz. Urz. UE L 193 z 02.08.2018, str. 1.
+Rozporządzenie wchodzi w życie z dniem 20 listopada 2018 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 106, 138, 650, 1118, 1560 i 1629. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 330 z 21.12.2013, str. 12 oraz Dz. Urz. UE L 193 z 02.08.2018, str. 1.
 

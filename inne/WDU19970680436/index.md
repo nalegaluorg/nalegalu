@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1997-04-25 |
 | Data wydania | 1997-06-30 |
-| Wejście w życie | 1997-07-31 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970680436) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/436/text.pdf) |
 
@@ -121,8 +120,17 @@ source: "eli-html"
 
 3. Do osób, o których mowa w ust. 1 i 2, nie stosuje się przepisów o świadczeniach przewidzianych w rozdziałach 2, 3 i 4. ” ;
 
-- **13)** w art. 21: w ust. 2: – w pkt 1 skreśla się wyrazy „lub dobrowolnie zadeklarowała odstępstwo od narodowości polskiej”, – pkt 2 otrzymuje brzmienie: „ 2) przymusowo pełniła służbę w armii niemieckiej lub dobrowolnie zadeklarowała odstępstwo od narodowości polskiej, jeżeli potem do końca wojny nie brała udziału w walce o niepodległość Polski, ” – po pkt 2 dodaje się pkt 21 w brzmieniu: „ 21) kolaborowała z radzieckimi władzami okupacyjnymi w latach 1939–1941, ” – pkt 4 otrzymuje brzmienie: „ 4) w latach 1944–1956: a) pełniła służbę lub funkcję i była zatrudniona w strukturach Urzędów Bezpieczeństwa, Służby Bezpieczeństwa i Informacji Wojskowej, a także nadzorujących je komórkach jednostek zwierzchnich związanych ze stosowaniem represji wobec osób działających na rzecz suwerenności i niepodległości Rzeczypospolitej Polskiej, b) była zatrudniona, pełniła służbę lub funkcję w jednostkach organizacyjnych lub na stanowiskach związanych ze stosowaniem represji wobec osób podejrzanych lub skazanych za działalność podjętą na rzecz suwerenności i niepodległości Rzeczypospolitej Polskiej: – w organach prokuratury i prokuraturze wojskowej, – w sądownictwie powszechnym lub wojskowym, – w służbie więziennej, c) była zatrudniona, pełniła służbę lub funkcję w aparacie bezpieczeństwa publicznego poza strukturami Urzędów Bezpieczeństwa, Służby Bezpieczeństwa lub Informacji Wojskowej, jeżeli podczas i w związku z tą działalnością wykonywała zadania śledcze i operacyjne związane bezpośrednio ze zwalczaniem organizacji oraz osób działających na rzecz suwerenności i niepodległości Rzeczypospolitej Polskiej, ” – w pkt 6 kropkę zastępuje się przecinkiem i dodaje się pkt 7 w brzmieniu: „ 7) dopuściła się zabójstwa lub innej zbrodni wobec osób cywilnych w okresie do 31 grudnia 1956 r. w związku z działalnością uznaną za działalność kombatancką lub równorzędną w rozumieniu ustawy, za co została skazana prawomocnym wyrokiem sądu. ” , po ust. 2 dodaje się ust. 3 i 4 w brzmieniu: „
+- **13)** w art. 21: w ust. 2: – w pkt 1 skreśla się wyrazy „lub dobrowolnie zadeklarowała odstępstwo od narodowości polskiej”, pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** przymusowo pełniła służbę w armii niemieckiej lub dobrowolnie zadeklarowała odstępstwo od narodowości polskiej, jeżeli potem do końca wojny nie brała udziału w walce o niepodległość Polski, ” po pkt 2 dodaje się pkt 21 w brzmieniu: „
+- **21)** kolaborowała z radzieckimi władzami okupacyjnymi w latach 1939–1941, ” pkt 4 otrzymuje brzmienie: „
+- **4)** w latach 1944–1956: pełniła służbę lub funkcję i była zatrudniona w strukturach Urzędów Bezpieczeństwa, Służby Bezpieczeństwa i Informacji Wojskowej, a także nadzorujących je komórkach jednostek zwierzchnich związanych ze stosowaniem represji wobec osób działających na rzecz suwerenności i niepodległości Rzeczypospolitej Polskiej, była zatrudniona, pełniła służbę lub funkcję w jednostkach organizacyjnych lub na stanowiskach związanych ze stosowaniem represji wobec osób podejrzanych lub skazanych za działalność podjętą na rzecz suwerenności i niepodległości Rzeczypospolitej Polskiej: – w organach prokuratury i prokuraturze wojskowej, – w sądownictwie powszechnym lub wojskowym, – w służbie więziennej, była zatrudniona, pełniła służbę lub funkcję w aparacie bezpieczeństwa publicznego poza strukturami Urzędów Bezpieczeństwa, Służby Bezpieczeństwa lub Informacji Wojskowej, jeżeli podczas i w związku z tą działalnością wykonywała zadania śledcze i operacyjne związane bezpośrednio ze zwalczaniem organizacji oraz osób działających na rzecz suwerenności i niepodległości Rzeczypospolitej Polskiej, ” w pkt 6 kropkę zastępuje się przecinkiem i dodaje się pkt 7 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **7)** dopuściła się zabójstwa lub innej zbrodni wobec osób cywilnych w okresie do 31 grudnia 1956 r. w związku z działalnością uznaną za działalność kombatancką lub równorzędną w rozumieniu ustawy, za co została skazana prawomocnym wyrokiem sądu. ” , po ust. 2 dodaje się ust. 3 i 4 w brzmieniu: „
     - **b)**
 
 3. Nie stosuje się przepisu ust. 2 pkt 4 lit. a) i b) wobec osób:
@@ -138,16 +146,23 @@ source: "eli-html"
 
 3. Wnioski o przyznanie uprawnień z tytułów określonych w art. 1–4 mogą być kierowane, w trybie, o którym mowa w ust. 1, do dnia 31 grudnia 1997 r. przez osoby zamieszkałe na stałe w Polsce, a do dnia 31 grudnia 1998 r. przez osoby zamieszkałe poza granicami Polski. ” ;
 
-- **15)** w art. 23: w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) doraźną pomoc, o której mowa w art. 19, oraz na finansowanie kosztów administracyjnych związanych z przyznawaniem i udzielaniem tej pomocy, ” – w pkt 2 po wyrazach „z wyjątkiem” dodaje się wyrazy „ust. 1 pkt 2 oraz”, – pkt 3 i 4 otrzymują brzmienie: „ 3) finansowanie kosztów rozszerzenia bazy domów pomocy społecznej, zakładów leczniczych, a także kosztów utrzymania ośrodków wczasowo-rehabilitacyjnych przeznaczonych dla kombatantów i innych osób uprawnionych, 4) upamiętnianie i popularyzowanie historii dotyczącej walk o Odrodzenie Polski i represji wojennych oraz okresu powojennego, w tym na działalność dokumentacyjną i wydawniczą. ” , w ust. 4 w pkt 1 wyrazy „art. 20 ust. 2 pkt 1” zastępuje się wyrazami „art. 20 ust. 1 pkt 2 i ust. 2 pkt 1”;
+- **15)** w art. 23: w ust. 3: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** doraźną pomoc, o której mowa w art. 19, oraz na finansowanie kosztów administracyjnych związanych z przyznawaniem i udzielaniem tej pomocy, ” – w pkt 2 po wyrazach „z wyjątkiem” dodaje się wyrazy „ust. 1 pkt 2 oraz”, pkt 3 i 4 otrzymują brzmienie: „
+- **3)** finansowanie kosztów rozszerzenia bazy domów pomocy społecznej, zakładów leczniczych, a także kosztów utrzymania ośrodków wczasowo-rehabilitacyjnych przeznaczonych dla kombatantów i innych osób uprawnionych,
+- **4)** upamiętnianie i popularyzowanie historii dotyczącej walk o Odrodzenie Polski i represji wojennych oraz okresu powojennego, w tym na działalność dokumentacyjną i wydawniczą. ” , w ust. 4 w pkt 1 wyrazy „art. 20 ust. 2 pkt 1” zastępuje się wyrazami „art. 20 ust. 1 pkt 2 i ust. 2 pkt 1”;
     - **b)**
 
 - **16)** art. 24 otrzymuje brzmienie: „
 
 **Art. 24.** Świadczenia pieniężne przewidziane dla kombatantów i innych osób uprawnionych oraz pozostałych po nich członków rodzin, a także ryczałt energetyczny określony w art. 20 ust. 2 pkt 3 i ust. 3, są wypłacane przez właściwe organy rentowe ze środków będących w dyspozycji tych organów i finansowane z budżetu państwa. Świadczenia te oraz ryczałt wraz z odsetkami za opóźnienie w ustaleniu do nich prawa lub ich wypłaty oraz koszty obsługi podlegają refundacji na rzecz Funduszu Ubezpieczeń Społecznych oraz Funduszu Emerytalno-Rentowego Kasy Rolniczego Ubezpieczenia Społecznego z dotacji budżetu państwa. ” ;
 
-- **17)** w art. 25: w ust. 2: – w pkt 1 lit. a) otrzymuje brzmienie: „ a) w pkt 1, 3 i 4, z zastrzeżeniem art. 21 ust. 3, ” – w pkt 1 lit. b) po wyrazach „w pkt 2,” dodaje się wyraz „21,”, – pkt 2 otrzymuje brzmienie: „ 2) które na mocy dotychczasowych przepisów uzyskały uprawnienia kombatanckie wyłącznie z tytułu działalności w latach 1944–1956 w charakterze «uczestników walk o ustanowienie i utrwalenie władzy ludowej» lub innych tytułów niż wymienione w art. 1 ust. 2, w art. 2 oraz w art. 4. Uprawnienia te zachowują jednak osoby, które uczestniczyły w Wojnie Domowej w Hiszpanii w latach 1936–1939 lub które uprawnienia te uzyskały z tytułów określonych w ustawie, oraz żołnierze z poboru, którzy pełnili służbę wojskową w Wojsku Polskim w okresie od 10 maja 1945 r. do 30 czerwca 1947 r. ” , w ust. 4 skreśla się ostatnie zdanie, w ust. 6 po wyrazie „pozbawienia” dodaje się wyrazy „i przywrócenia”;
+- **17)** w art. 25: w ust. 2: w pkt 1 lit. a) otrzymuje brzmienie: „ w pkt 1, 3 i 4, z zastrzeżeniem art. 21 ust. 3, ” – w pkt 1 lit. b) po wyrazach „w pkt 2,” dodaje się wyraz „21,”, pkt 2 otrzymuje brzmienie: „
     - **a)**
+    - **a)**
+
+- **2)** które na mocy dotychczasowych przepisów uzyskały uprawnienia kombatanckie wyłącznie z tytułu działalności w latach 1944–1956 w charakterze «uczestników walk o ustanowienie i utrwalenie władzy ludowej» lub innych tytułów niż wymienione w art. 1 ust. 2, w art. 2 oraz w art. 4. Uprawnienia te zachowują jednak osoby, które uczestniczyły w Wojnie Domowej w Hiszpanii w latach 1936–1939 lub które uprawnienia te uzyskały z tytułów określonych w ustawie, oraz żołnierze z poboru, którzy pełnili służbę wojskową w Wojsku Polskim w okresie od 10 maja 1945 r. do 30 czerwca 1947 r. ” , w ust. 4 skreśla się ostatnie zdanie, w ust. 6 po wyrazie „pozbawienia” dodaje się wyrazy „i przywrócenia”;
     - **b)**
     - **c)**
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-30 |
 | Data wydania | 2021-06-30 |
-| Wejście w życie | 2021-07-01 |
 | Ostatnia zmiana | 2025-01-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001188) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1188/text.pdf) |
 
@@ -31,60 +30,47 @@ Na podstawie art. 41 § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju są
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 18 czerwca 2019 r. – Regulamin urzędowania sądów powszechnych (Dz. U. poz. 1141 oraz z 2020 r. poz. 1640) wprowadza się następujące zmiany:
 1)
-w § 74 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
-„
+w § 74 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 2.
-Jeżeli akta sprawy prowadzone są w systemie teleinformatycznym, w aktach zamieszcza się raport z losowania.
-” ;
+Jeżeli akta sprawy prowadzone są w systemie teleinformatycznym, w aktach zamieszcza się raport z losowania. ” ;
 2)
-po § 120 dodaje się § 120a w brzmieniu:
-„
+po § 120 dodaje się § 120a w brzmieniu: „
 § 120a.
 1.
 Po uprawomocnieniu się postanowienia o sprostowaniu orzeczenia wytworzonego w postępowaniu przed sądem rejestrowym odbywającym się za pośrednictwem systemu teleinformatycznego albo w postępowaniach prowadzonych na podstawie prawa upadłościowego oraz ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2020 r. poz. 814 i 1298 oraz z 2021 r. poz. 1080 i 1177), zwanej dalej „prawem restrukturyzacyjnym”, w systemie teleinformatycznym umieszcza się wzmiankę o sprostowaniu. Wzmianka ma postać dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym kierownika sekretariatu wydziału. W systemie teleinformatycznym zamieszcza się również tekst orzeczenia uwzględniający sprostowanie.
 2.
 Odpisy i wypisy sprostowanego orzeczenia wydaje się w brzmieniu uwzględniającym sprostowanie, a na żądanie uczestnika postępowania przesyła się mu wzmiankę o sprostowaniu lub jej odpis w postaci papierowej.
 3.
-Do sprostowania i uzupełnienia uzasadnienia stosuje się odpowiednio przepisy ust. 1 i 2.
-” ;
+Do sprostowania i uzupełnienia uzasadnienia stosuje się odpowiednio przepisy ust. 1 i 2. ” ;
 3)
-§ 128 otrzymuje brzmienie:
-„
+§ 128 otrzymuje brzmienie: „
 § 128.
 1.
 Sąd rejestrowy, w zakresie określonym w art. 10 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2021 r. poz. 112 oraz z 2020 r. poz. 2320), zwanej dalej „ustawą o K.R.S.”, po uiszczeniu opłaty kancelaryjnej, wydaje w postaci elektronicznej dokumenty złożone do akt rejestrowych w postaci elektronicznej oraz w postaci papierowej ich kopie i odpisy.
 2.
 Sąd rejestrowy, w którym są przechowywane akta rejestrowe podmiotu, wydaje, po uiszczeniu opłaty kancelaryjnej, w postaci papierowej i elektronicznej kopie i odpisy dokumentów złożonych do akt w postaci papierowej.
 3.
-Dokumenty oraz ich kopie i odpisy w postaci elektronicznej wydawane są za pośrednictwem systemu teleinformatycznego obsługującego postępowanie rejestrowe.
-” ;
+Dokumenty oraz ich kopie i odpisy w postaci elektronicznej wydawane są za pośrednictwem systemu teleinformatycznego obsługującego postępowanie rejestrowe. ” ;
 4)
-po § 174 dodaje się § 174a w brzmieniu:
-„
+po § 174 dodaje się § 174a w brzmieniu: „
 § 174a.
-Jeżeli postępowanie przed sądem rejestrowym odbywa się za pośrednictwem systemu teleinformatycznego, wzmianka o sprostowaniu protokołu ma formę dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym.
-” ;
+Jeżeli postępowanie przed sądem rejestrowym odbywa się za pośrednictwem systemu teleinformatycznego, wzmianka o sprostowaniu protokołu ma formę dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym. ” ;
 5)
 w § 198:
 a)
 w ust. 3 zdanie pierwsze otrzymuje brzmienie: „ Akta rejestrowe prowadzone w postaci papierowej są przechowywane we właściwym sądzie rejestrowym i nie mogą być wynoszone poza miejsce ich przechowywania, z wyjątkiem przypadku przesłania akt lub ich części sądowi odwoławczemu w razie wniesienia środka odwoławczego. ” ,
 b)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-Akta rejestrowe prowadzone w postaci papierowej są udostępniane zainteresowanym pod nadzorem upoważnionego pracownika sądowego w sądzie rejestrowym albo w sądzie odwoławczym w razie przesłania ich temu sądowi.
-” ,
+Akta rejestrowe prowadzone w postaci papierowej są udostępniane zainteresowanym pod nadzorem upoważnionego pracownika sądowego w sądzie rejestrowym albo w sądzie odwoławczym w razie przesłania ich temu sądowi. ” ,
 c)
-dodaje się ust. 5 i 6 w brzmieniu:
-„
+dodaje się ust. 5 i 6 w brzmieniu: „
 5.
 Dokumenty składane do sądu rejestrowego podlegają przed ich udostępnieniem ocenie przez ten sąd w celu ochrony danych osobowych.
 6.
-Zbiór dokumentów, o którym mowa w art. 9 ust. 6 ustawy o K.R.S., udostępnia się na zasadach przewidzianych dla akt prowadzonych w postaci papierowej.
-” ;
+Zbiór dokumentów, o którym mowa w art. 9 ust. 6 ustawy o K.R.S., udostępnia się na zasadach przewidzianych dla akt prowadzonych w postaci papierowej. ” ;
 6)
-po § 198 dodaje się § 198a i § 198b w brzmieniu:
-„
+po § 198 dodaje się § 198a i § 198b w brzmieniu: „
 § 198a.
 1.
 Przedstawienie akt sprawy prowadzonych w systemie teleinformatycznym sądowi odwoławczemu lub Sądowi Najwyższemu, a także udostępnienie ich innym uprawnionym podmiotom następuje poprzez przyznanie dostępu do tych akt w systemie teleinformatycznym.
@@ -104,58 +90,47 @@ Po zwrocie do sądu pierwszej instancji akt postępowań prowadzonych przez sąd
 1.
 Do zbioru dokumentów, o którym mowa w art. 9 ust. 6 ustawy o K.R.S., stosuje się odpowiednio przepisy rozporządzenia dotyczące akt rejestrowych w postaci papierowej.
 2.
-Dokumentację w postaci papierowej dotyczącą spraw, w których postępowanie odbywa się lub powinno się odbywać za pośrednictwem systemu teleinformatycznego, dołącza się do zbioru dokumentów, o którym mowa w art. 9 ust. 6 ustawy o K.R.S.
-” ;
+Dokumentację w postaci papierowej dotyczącą spraw, w których postępowanie odbywa się lub powinno się odbywać za pośrednictwem systemu teleinformatycznego, dołącza się do zbioru dokumentów, o którym mowa w art. 9 ust. 6 ustawy o K.R.S. ” ;
 7)
-§ 199 otrzymuje brzmienie:
-„
+§ 199 otrzymuje brzmienie: „
 § 199.
 1.
 W razie oddalenia wniosku o złożenie do akt rejestrowych dokumentów w postaci papierowej zawierających dane, których zgłoszenia sądowi rejestrowemu wymagają właściwe przepisy, sąd zwraca dokumenty podmiotowi wnioskującemu.
 2.
-W razie oddalenia wniosku o złożenie do akt rejestrowych dokumentów w postaci elektronicznej, zawierających dane, których zgłoszenia sądowi rejestrowemu wymagają właściwe przepisy, sąd zarządza wyłączenie dostępu do dokumentów w systemie teleinformatycznym.
-” ;
+W razie oddalenia wniosku o złożenie do akt rejestrowych dokumentów w postaci elektronicznej, zawierających dane, których zgłoszenia sądowi rejestrowemu wymagają właściwe przepisy, sąd zarządza wyłączenie dostępu do dokumentów w systemie teleinformatycznym. ” ;
 8)
-po § 199 dodaje się § 199a w brzmieniu:
-„
+po § 199 dodaje się § 199a w brzmieniu: „
 § 199a.
 1.
 W przypadku dokumentów w postaci elektronicznej, o których mowa w art. 10 ust. 4a pkt 1 ustawy o K.R.S., sąd zarządza wyłączenie dostępu do dokumentów w systemie teleinformatycznym.
 2.
 Dokumenty w postaci papierowej, o których mowa w art. 10 ust. 4a pkt 2 ustawy o K.R.S., sąd wyłącza z akt rejestrowych i składa w prowadzonym oddzielnie niejawnym zbiorze dokumentów.
 3.
-Informacje otrzymane z Biura Informacyjnego Krajowego Rejestru Karnego w postaci elektronicznej w trybie określonym w art. 21a ustawy o K.R.S. podlegają udostępnieniu wyłącznie uczestnikom postępowania.
-” ;
+Informacje otrzymane z Biura Informacyjnego Krajowego Rejestru Karnego w postaci elektronicznej w trybie określonym w art. 21a ustawy o K.R.S. podlegają udostępnieniu wyłącznie uczestnikom postępowania. ” ;
 9)
-§ 204 otrzymuje brzmienie:
-„
+§ 204 otrzymuje brzmienie: „
 § 204.
 1.
 Obowiązek, o którym mowa w art. 8a ust. 2 pkt 2 ustawy z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców (Dz. U. z 2017 r. poz. 2278) może być wykonywany poprzez przesłanie ministrowi właściwemu do spraw wewnętrznych elektronicznych kopii dokumentów lub postanowień za pomocą wskazanego przez tego ministra środka komunikacji elektronicznej w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 2.
 Wykonanie obowiązku, o którym mowa w ust. 1, jest ewidencjonowane w wykazie prowadzonym w sekretariacie wydziału.
 3.
-Obowiązek, o którym mowa w ust. 1, uważa się za wykonany po otrzymaniu od ministra właściwego do spraw wewnętrznych zwrotnego potwierdzenia dostarczenia korespondencji wysłanej drogą elektroniczną.
-” ;
+Obowiązek, o którym mowa w ust. 1, uważa się za wykonany po otrzymaniu od ministra właściwego do spraw wewnętrznych zwrotnego potwierdzenia dostarczenia korespondencji wysłanej drogą elektroniczną. ” ;
 10)
 w § 210 zdanie pierwsze otrzymuje brzmienie: „ Wnioski o zarejestrowanie spółki, której umowę zawarto przy wykorzystaniu wzorca umowy udostępnionego w systemie teleinformatycznym, złożone za pośrednictwem systemu teleinformatycznego są rozpoznawane w terminie jednego dnia roboczego od daty wpływu wniosku. ” ;
 11)
 uchyla się § 211;
 12)
-w § 212 ust. 3 otrzymuje brzmienie:
-„
+w § 212 ust. 3 otrzymuje brzmienie: „
 3.
-Jeżeli przepisy prawa restrukturyzacyjnego oraz prawa upadłościowego, przewidują wykonywanie tych samych czynności przez sędziego-komisarza i zastępcę sędziego-komisarza, podziału pracy dokonuje przewodniczący wydziału (kierownik sekcji).
-” ;
+Jeżeli przepisy prawa restrukturyzacyjnego oraz prawa upadłościowego, przewidują wykonywanie tych samych czynności przez sędziego-komisarza i zastępcę sędziego-komisarza, podziału pracy dokonuje przewodniczący wydziału (kierownik sekcji). ” ;
 13)
-w § 216 ust. 1 otrzymuje brzmienie:
-„
+w § 216 ust. 1 otrzymuje brzmienie: „
 1.
-Jeżeli przepisy szczególne przewidują wpis do Rejestru Dłużników Niewypłacalnych (RDN) informacji na podstawie orzeczenia, o którym mowa w art. 373 ust. 1 prawa upadłościowego, sąd upadłościowy, wraz z odpisem postanowienia przesyła do Krajowego Rejestru Sądowego dane niezbędne do dokonania wpisu RDN wraz z informacją, czy zakaz został orzeczony na podstawie przepisów prawa upadłościowego w brzmieniu obowiązującym przed dniem 1 stycznia 2016 r., czy w brzmieniu obowiązującym od dnia 1 stycznia 2016 r.
-” ;
+Jeżeli przepisy szczególne przewidują wpis do Rejestru Dłużników Niewypłacalnych (RDN) informacji na podstawie orzeczenia, o którym mowa w art. 373 ust. 1 prawa upadłościowego, sąd upadłościowy, wraz z odpisem postanowienia przesyła do Krajowego Rejestru Sądowego dane niezbędne do dokonania wpisu RDN wraz z informacją, czy zakaz został orzeczony na podstawie przepisów prawa upadłościowego w brzmieniu obowiązującym przed dniem 1 stycznia 2016 r., czy w brzmieniu obowiązującym od dnia 1 stycznia 2016 r. ” ;
 14)
-w dziale IV w rozdziale 5 dodaje się oddział 3 w brzmieniu:
-„
+w dziale IV w rozdziale 5 dodaje się oddział 3 w brzmieniu: „
+Przepisy szczególne w sprawach upadłościowych i restrukturyzacyjnych prowadzonych z wykorzystaniem systemu teleinformatycznego
 § 216a.
 1.
 Akta sprawy prowadzi się w systemie teleinformatycznym.
@@ -197,8 +172,7 @@ Wgląd do akt zakończonych lub toczących się postępowań restrukturyzacyjnyc
 2.
 Zbiór dokumentów, o którym mowa w § 216a ust. 3, przewodniczący wydziału udostępnia na żądanie Ministra Sprawiedliwości.
 § 216f.
-Do zbioru dokumentów, o którym mowa w § 216a ust. 3, stosuje się odpowiednio przepisy rozporządzenia dotyczące akt sprawy w postaci papierowej.
-” .
+Do zbioru dokumentów, o którym mowa w § 216a ust. 3, stosuje się odpowiednio przepisy rozporządzenia dotyczące akt sprawy w postaci papierowej. ” .
 § 2.
 W sprawach, w których przed dniem wejścia w życie niniejszego rozporządzenia wpłynął wniosek o ogłoszenie upadłości, wniosek o wszczęcie wtórnego postępowania upadłościowego, wniosek o uznanie orzeczenia o wszczęciu zagranicznego postępowania upadłościowego, wniosek restrukturyzacyjny, wniosek o stwierdzenie wykonania, zmianę albo uchylenie układu, wniosek o orzeczenie zakazu, o którym mowa w art. 373 ust. 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2020 r. poz. 1228 i 2320 oraz z 2021 r. poz. 1080 i 1177), lub wniosek o otwarcie postępowania o zatwierdzenie układu na zgromadzeniu wierzycieli, o którym mowa w art. 49125tej ustawy, stosuje się przepisy dotychczasowe.
 § 3.
@@ -206,5 +180,5 @@ Do postępowań prowadzonych na podstawie ustawy z dnia 28 lutego 2003 r. – Pr
 § 4.
 Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r., z wyjątkiem § 1 pkt 12–14 i § 2, które wchodzą w życie z dniem 1 grudnia 2021 r.
 
-##### Oddział 3 Przepisy szczególne w sprawach upadłościowych i restrukturyzacyjnych prowadzonych z wykorzystaniem systemu teleinformatycznego
+##### Oddział 3
 

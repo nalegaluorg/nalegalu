@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 1 lipca 2021 r. w sprawie szczegółowych wymagań, jakie mają być spełnione, aby uzyskać zezwolenie na prowadzenie księgi hodowlanej dla zwierząt gospodarskich
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 1 lipca 2021 r. w sprawie szczegółowych wymagań, jakie mają być spełnione, aby uzyskać zezwolenie na prowadzenie księgi hodowlanej dla zwierząt gospodarskich Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-07-01 |
 | Data wydania | 2021-07-08 |
-| Wejście w życie | 2021-07-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001248) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1248/text.pdf) |
 
@@ -53,6 +52,5 @@ zatrudnia co najmniej jednego specjalistę do spraw hodowli lub selekcji zwierz�
 4)
 zapewnia w statucie lub umowie, na podstawie których działa, równe traktowanie jego członków.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 28 kwietnia 2008 r. w sprawie dodatkowych wymagań, jakie powinny spełniać związki hodowców lub inne podmioty ubiegające się o prowadzenie księgi hodowlanej drobiu, zwierząt futerkowych i pszczół (Dz. U. poz. 512), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 53 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 28 kwietnia 2008 r. w sprawie dodatkowych wymagań, jakie powinny spełniać związki hodowców lub inne podmioty ubiegające się o prowadzenie księgi hodowlanej drobiu, zwierząt futerkowych i pszczół (Dz. U. poz. 512), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 53 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36). 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 28 kwietnia 2008 r. w sprawie dodatkowych wymagań, jakie powinny spełniać związki hodowców lub inne podmioty ubiegające się o prowadzenie księgi hodowlanej drobiu, zwierząt futerkowych i pszczół (Dz. U. poz. 512), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 53 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36).
 

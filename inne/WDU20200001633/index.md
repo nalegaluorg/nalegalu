@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-21 |
 | Data wydania | 2020-09-23 |
-| Wejście w życie | 2020-10-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001633) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1633/text.pdf) |
 
@@ -80,5 +79,5 @@ legitymacja potwierdzająca nadanie orderu – w przypadku weterana-żołnierza 
 2)
 akt mianowania na wyższy stopień wojskowy, wydany na podstawie art. 76 ust. 8 pkt 2 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1541 i 2020 oraz z 2020 r. poz. 374) – w przypadku weterana-żołnierza i weterana poszkodowanego-żołnierza szczególnie zasłużonych z tytułu działalności na rzecz suwerennej i demokratycznej Rzeczypospolitej Polskiej.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 23 marca 2012 r. w sprawie sposobu dofinansowania pobytu weterana-żołnierza i weterana poszkodowanego-żołnierza w Domu Weterana (Dz. U. z 2016 r. poz. 1653), które na podstawie art. 19 ust. 1 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 23 marca 2012 r. w sprawie sposobu dofinansowania pobytu weterana-żołnierza i weterana poszkodowanego-żołnierza w Domu Weterana (Dz. U. z 2016 r. poz. 1653), które na podstawie art. 19 ust. 1 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

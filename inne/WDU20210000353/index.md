@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 21 stycznia 2021 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw
+# Ustawa z dnia 21 stycznia 2021 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawę z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych, ustawę z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz ustawę z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-01-21 |
 | Data wydania | 2021-02-25 |
-| Wejście w życie | 2021-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000353) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/353/text.pdf) |
 
@@ -154,5 +153,5 @@ source: "eli-html"
 
 **Art. 16.** Zmiana wysokości przyznanego świadczenia uzupełniającego, w wyniku podwyższenia kwoty, o której mowa w art. 2 ust. 2 oraz art. 4 ust. 1 i 2 ustawy zmienianej w art. 5, następuje z urzędu od dnia 1 marca 2021 r.
 
-**Art. 17.** Ustawa wchodzi w życie z dniem 1 marca 2021 r., z wyjątkiem art. 9 ust. 2, art. 11 i art. 12, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+**Art. 17.** Ustawa wchodzi w życie z dniem 1 marca 2021 r., z wyjątkiem art. 9 ust. 2, art. 11 i art. 12, które wchodzą w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawę z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych, ustawę z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz ustawę z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji.
 

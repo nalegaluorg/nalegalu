@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 18 listopada 2022 r. w sprawie postępowania z dokumentami związanymi z dokonywaniem niektórych czynności dotyczących usług finansowania społecznościowego
+# Rozporządzenie Ministra Finansówz dnia 18 listopada 2022 r. w sprawie postępowania z dokumentami związanymi z dokonywaniem niektórych czynności dotyczących usług finansowania społecznościowego Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-18 |
 | Data wydania | 2022-12-06 |
-| Wejście w życie | 2022-12-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002508) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2508/text.pdf) |
 
@@ -87,6 +86,5 @@ bieżącego kontrolowania funkcjonowania wszystkich organizacyjnych i techniczno
 5)
 bieżącej weryfikacji przyjętych metod i środków ochrony dokumentów.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 maja 2024 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw
+# Ustawa z dnia 9 maja 2024 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 23 października 2018 r. o Funduszu Solidarnościowym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-09 |
 | Data wydania | 2024-06-12 |
-| Wejście w życie | 2024-11-01 |
 | Ostatnia zmiana | 2024-12-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000863) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/863/text.pdf) |
 
@@ -91,7 +90,7 @@ source: "eli-html"
 4. W przypadku:
 
 - **1)** rozstrzygnięcia, o którym mowa w ust. 1, które nie uwzględnia w całości wniosku, o którym mowa w art. 17a ust. 1, lub uwzględnia ten wniosek w części,
-- **2)** stwierdzenia w związku z przeprowadzonym postępowaniem wyjaśniającym lub kontrolą, że płatnik składek nie spełnia warunków, o których mowa w art. 17a lub art. 17b Zakład wydaje decyzję.
+- **2)** stwierdzenia w związku z przeprowadzonym postępowaniem wyjaśniającym lub kontrolą, że płatnik składek nie spełnia warunków, o których mowa w art. 17a lub art. 17b – Zakład wydaje decyzję.
 
 5. Decyzje, postanowienia, zawiadomienia, wezwania, informacje i inne pisma w sprawie zwolnienia z opłacenia składek, o których mowa w art. 17a, Zakład sporządza i doręcza wnioskodawcy w postaci elektronicznej na profilu informacyjnym.
 
@@ -124,7 +123,7 @@ source: "eli-html"
 - **10)** w art. 86 w ust. 2 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
 - **7)** prawidłowość i rzetelność danych, informacji i oświadczeń przekazanych przez płatnika składek we wniosku, o którym mowa w art. 17a ust. 1. ” .
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.) w art. 4778w§ 2 w pkt 4a kropkę zastępuje się średnikiem i dodaje się pkt 4b w brzmieniu: „
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858 i 859.) w art. 4778w§ 2 w pkt 4a kropkę zastępuje się średnikiem i dodaje się pkt 4b w brzmieniu: „
 
 - **4b)** o zwolnienie z opłacenia składek, o których mowa w art. 17a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2024 r. poz. 497 i 863). ” .
 
@@ -141,7 +140,7 @@ source: "eli-html"
 - **2)** w art. 104 w ust. 1 w pkt 3 w lit. k kropkę zastępuje się przecinkiem i dodaje się lit. I w brzmieniu: „ zwolnionych z obowiązku opłacenia składek za siebie zgodnie z art. 32 ust. 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w miesiącu korzystania ze zwolnienia z opłacenia składek na ubezpieczenia emerytalne, rentowe i wypadkowe zgodnie z art. 17a tej ustawy. ” .
     - **l)**
 
-**Art. 6.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.) w art. 52aa dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. Zakład Ubezpieczeń Społecznych może wystąpić z wnioskiem do Szefa Krajowej Administracji Skarbowej o informację o kwocie rocznego przychodu z pozarolniczej działalności gospodarczej uzyskanego przez płatnika składek, o którym mowa w art. 17a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. Wymiana informacji odbywa się w formie elektronicznej. ” .
+**Art. 6.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850.) w art. 52aa dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. Zakład Ubezpieczeń Społecznych może wystąpić z wnioskiem do Szefa Krajowej Administracji Skarbowej o informację o kwocie rocznego przychodu z pozarolniczej działalności gospodarczej uzyskanego przez płatnika składek, o którym mowa w art. 17a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. Wymiana informacji odbywa się w formie elektronicznej. ” .
 
 **Art. 7.** W ustawie z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2024 r. poz. 296) w art. 4 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Płatnik składek nie opłaca za siebie składki na Fundusz Solidarnościowy za miesiąc korzystania ze zwolnienia z opłacenia składek na ubezpieczenia emerytalne, rentowe i wypadkowe zgodnie z art. 17a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz na Fundusz Pracy i Fundusz Solidarnościowy zgodnie z art. 32 ust. 2 tej ustawy. ” .
 
@@ -158,5 +157,5 @@ source: "eli-html"
 - **5)** okoliczności faktyczne uzasadniające udzielenie zamówienia bez zastosowania przepisów o zamówieniach publicznych;
 - **6)** nazwę (firmę) podmiotu albo imię i nazwisko osoby, z którymi została zawarta umowa.
 
-**Art. 9.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 4 miesięcy od dnia ogłoszenia, z wyjątkiem art. 8, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 4 miesięcy od dnia ogłoszenia, z wyjątkiem art. 8, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 23 października 2018 r. o Funduszu Solidarnościowym. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858 i 859. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850.
 

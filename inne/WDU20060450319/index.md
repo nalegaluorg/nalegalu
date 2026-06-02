@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 17 lutego 2006 r. o likwidacji Rządowego Centrum Studiów Strategicznych
+# Ustawa z dnia 17 lutego 2006 r. o likwidacji Rządowego Centrum Studiów Strategicznych Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 września 1982 r. o pracownikach urzędów państwowych, ustawę z dnia 8 sierpnia 1996 r. o Radzie Ministrów, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 18 grudnia 1998 r. o służbie cywilnej, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym oraz ustawę z dnia 30 czerwca 2005 r. o finansach publicznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-02-17 |
 | Data wydania | 2006-03-17 |
-| Wejście w życie | 2006-04-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060450319) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/319/text.pdf) |
 
@@ -47,14 +46,11 @@ koordynacji opracowywania przez samorządy województw regionalnych programów o
 10)
 współpracy z jednostkami samorządu terytorialnego oraz organizacjami je zrzeszającymi, a także z partnerami społeczno-gospodarczymi, w zakresie dotyczącym rozwoju społeczno-gospodarczego kraju, w tym rozwoju regionalnego;
 11)
-nadzorowania wykonania i rozliczenia zawartych kontraktów wojewódzkich.
-” ;
+nadzorowania wykonania i rozliczenia zawartych kontraktów wojewódzkich. ” ;
 2)
-w art. 38 ust. 1 otrzymuje brzmienie:
-„
+w art. 38 ust. 1 otrzymuje brzmienie: „
 1.
-W celu realizacji swoich zadań minister kierujący określonym działem współdziała, na zasadach i w trybie określonych w odrębnych przepisach oraz w zakresie wynikającym z potrzeb danego działu, z innymi członkami Rady Ministrów oraz innymi organami administracji rządowej i państwowymi jednostkami organizacyjnymi, organami samorządu terytorialnego, jak również z organami samorządu gospodarczego, zawodowego, związków zawodowych i organizacji pracodawców oraz innych organizacji społecznych i przedstawicielstw środowisk zawodowych i twórczych.
-” .
+W celu realizacji swoich zadań minister kierujący określonym działem współdziała, na zasadach i w trybie określonych w odrębnych przepisach oraz w zakresie wynikającym z potrzeb danego działu, z innymi członkami Rady Ministrów oraz innymi organami administracji rządowej i państwowymi jednostkami organizacyjnymi, organami samorządu terytorialnego, jak również z organami samorządu gospodarczego, zawodowego, związków zawodowych i organizacji pracodawców oraz innych organizacji społecznych i przedstawicielstw środowisk zawodowych i twórczych. ” .
 
 **Art. 1.** Z dniem 31 marca 2006 r. likwiduje się Rządowe Centrum Studiów Strategicznych działające przy Prezesie Rady Ministrów, zwane dalej „Centrum”.
 
@@ -63,14 +59,14 @@ W celu realizacji swoich zadań minister kierujący określonym działem współ
 - **1)** sporządzania ocen skutków społeczno-gospodarczych projektowanych regulacji,
 - **2)** opracowywania ocen międzynarodowych uwarunkowań sytuacji kraju oraz długofalowych koncepcji polityki zagranicznej,
 - **3)** opracowywania ocen funkcjonalności struktur państwa i sprawności ich działania,
-- **4)** przygotowywania innych analiz, prognoz, koncepcji, programów i ocen, zleconych przez Prezesa Rady Ministrów stają się zadaniami, które realizuje, z upoważnienia Prezesa Rady Ministrów, Kancelaria Prezesa Rady Ministrów.
+- **4)** przygotowywania innych analiz, prognoz, koncepcji, programów i ocen, zleconych przez Prezesa Rady Ministrów – stają się zadaniami, które realizuje, z upoważnienia Prezesa Rady Ministrów, Kancelaria Prezesa Rady Ministrów.
 
-**Art. 3.** W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2001 r. Nr 86, poz. 953, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2001 r. Nr 86, poz. 953, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 98, poz. 1071, Nr 123, poz. 1353 i Nr 128, poz. 1403, z 2002 r. Nr 1, poz. 18, Nr 153, poz. 1271 i Nr 240, poz. 2052, z 2003 r. Nr 228, poz. 2256 oraz z 2005 r. Nr 10, poz. 71 i Nr 169, poz. 1417.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w ust. 2 uchyla się pkt 4;
 - **2)** w art. 21 w ust. 4 w zdaniu drugim wyrazy „jednostek, o których mowa w art. 1 ust. 2 pkt 4 i 4a,” zastępuje się wyrazami „jednostki, o której mowa w art. 1 ust. 2 pkt 4a,”.
 
-**Art. 4.** W ustawie z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703 oraz z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104.) wprowadza się następujące zmiany:
 
 - **1)** uchyla się art. 14j-14o;
 - **2)** w art. 29 po pkt 1 dodaje się pkt 1a-1d w brzmieniu: „
@@ -79,7 +75,7 @@ W celu realizacji swoich zadań minister kierujący określonym działem współ
 - **1c)** opracowywanie ocen funkcjonalności struktur państwa i sprawności ich działania;
 - **1d)** przygotowywanie innych analiz, prognoz, koncepcji, programów i ocen, zleconych przez Prezesa Rady Ministrów; ” .
 
-**Art. 5.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2003 r. Nr 159, poz. 1548, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2003 r. Nr 159, poz. 1548, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 162, poz. 1568 i Nr 190, poz. 1864, z 2004 r. Nr 19, poz. 177, Nr 69, poz. 624, Nr 91, poz. 873, Nr 96, poz. 959, Nr 116, poz. 1206, Nr 238, poz. 2390 i Nr 273, poz. 2702 oraz z 2005 r. Nr 17, poz. 141, Nr 33, poz. 288, Nr 155, poz. 1298, Nr 169, poz. 1414 i 1417 i Nr 267, poz. 2258.) wprowadza się następujące zmiany:
 
 - **1)** art. 23a otrzymuje brzmienie: „
 
@@ -87,13 +83,13 @@ W celu realizacji swoich zadań minister kierujący określonym działem współ
 
 ### Dział rozwój regionalny obejmuje sprawy:
 
-**Art. 6.** W ustawie z dnia 18 grudnia 1998 r. o służbie cywilnej (Dz. U. z 1999 r. Nr 49, poz. 483, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 18 grudnia 1998 r. o służbie cywilnej (Dz. U. z 1999 r. Nr 49, poz. 483, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 70, poz. 778 i Nr 110, poz. 1255, z 2001 r. Nr 102, poz. 1116, Nr 111, poz. 1194, Nr 128, poz. 1403 i Nr 154, poz. 1800, z 2002 r. Nr 150, poz. 1237, Nr 153, poz. 1271, Nr 238, poz. 2025 i Nr 240, poz. 2052, z 2003 r. Nr 228, poz. 2256 i 2257, z 2004 r. Nr 33, poz. 287, Nr 179, poz. 1845 i Nr 273, poz. 2703 oraz z 2005 r. Nr 10, poz. 71, Nr 132, poz. 1110 i Nr 249, poz. 2104.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w ust. 1 uchyla się pkt 4;
 - **2)** w art. 41 w ust. 1 pkt 2 otrzymuje brzmienie: „
 - **2)** osoby kierującej departamentem (komórką równorzędną) i jej zastępcy w urzędach, o których mowa w art. 2 ust. 1 pkt 1 i 2, oraz osoby kierującej wydziałem (komórką równorzędną) i jej zastępcy w urzędach wojewódzkich, ” .
 
-**Art. 7.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. Nr 80, poz. 717, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. Nr 80, poz. 717, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492 oraz z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087.) wprowadza się następujące zmiany:
 
 - **1)** art. 46 otrzymuje brzmienie: „
 

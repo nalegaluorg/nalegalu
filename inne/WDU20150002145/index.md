@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 2 grudnia 2015 r. w sprawie szczegółowego zakresu informacji wymaganych do podania do publicznej wiadomości przez właściwe organy Państwowej Straży Pożarnej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 2 grudnia 2015 r. w sprawie szczegółowego zakresu informacji wymaganych do podania do publicznej wiadomości przez właściwe organy Państwowej Straży Pożarnej Niniejsze rozporządzenie dokonuje, w zakresie swojej regulacji, wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2012/18/UE z dnia 4 lipca 2012 r. w sprawie kontroli zagrożeń poważnymi awariami związanymi z substancjami niebezpiecznymi, zmieniającej, a następnie uchylającej dyrektywę Rady 96/82/WE (Dz. Urz. UE L 197 z 24.07.2012, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-02 |
 | Data wydania | 2015-12-18 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002145) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2145/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 267 ust. 3 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 267 ust. 3 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122, 151, 277, 478, 774, 881, 933, 1045, 1223, 1434, 1593, 1688 i 1936.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -178,5 +177,5 @@ innych kwestii, ważnych dla bezpieczeństwa mieszkańców.
 2.
 Instrukcję, o której mowa w ust. 1, sporządza się w zwartej i czytelnej formie opisowej z wykorzystaniem tabel i rysunków.
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 4 czerwca 2002 r. w sprawie szczegółowego zakresu informacji wymaganych do podania do publicznej wiadomości przez komendanta wojewódzkiego Państwowej Straży Pożarnej (Dz. U. Nr 78, poz. 712), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 7 ustawy z dnia 23 lipca 2015 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1434). 2) Niniejsze rozporządzenie dokonuje, w zakresie swojej regulacji, wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2012/18/UE z dnia 4 lipca 2012 r. w sprawie kontroli zagrożeń poważnymi awariami związanymi z substancjami niebezpiecznymi, zmieniającej, a następnie uchylającej dyrektywę Rady 96/82/WE (Dz. Urz. UE L 197 z 24.07.2012, str. 1). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122, 151, 277, 478, 774, 881, 933, 1045, 1223, 1434, 1593, 1688 i 1936. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 4 czerwca 2002 r. w sprawie szczegółowego zakresu informacji wymaganych do podania do publicznej wiadomości przez komendanta wojewódzkiego Państwowej Straży Pożarnej (Dz. U. Nr 78, poz. 712), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 7 ustawy z dnia 23 lipca 2015 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1434).
 

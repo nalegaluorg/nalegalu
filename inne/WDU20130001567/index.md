@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 października 2013 r. o zmianie ustawy o nadzorze nad rynkiem finansowym oraz niektórych innych ustaw
+# Ustawa z dnia 23 października 2013 r. o zmianie ustawy o nadzorze nad rynkiem finansowym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych oraz ustawę z dnia 12 maja 2011 r. o kredycie konsumenckim.
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-10-23 |
 | Data wydania | 2013-12-17 |
-| Wejście w życie | 2014-01-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001567) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1567/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2012 r. poz. 1149, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2012 r. poz. 1149, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166 i 1385 oraz z 2013 r. poz. 70, 1012 i 1036.) wprowadza się następujące zmiany:
 
 - **1)** art. 2 otrzymuje brzmienie: „
 
 **Art. 2.** Celem nadzoru nad rynkiem finansowym jest zapewnienie prawidłowego funkcjonowania tego rynku, jego stabilności, bezpieczeństwa oraz przejrzystości, zaufania do rynku finansowego, a także zapewnienie ochrony interesów uczestników tego rynku również poprzez rzetelną informację dotyczącą funkcjonowania rynku, przez realizację celów określonych w szczególności w ustawie – Prawo bankowe, ustawie z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych, ustawie z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego, ustawie z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym, ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych oraz ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych. ” ;
 
 - **2)** w art. 4 w ust. 1 pkt 4 otrzymuje brzmienie: „
-- **4)** podejmowanie działań edukacyjnych i informacyjnych w zakresie funkcjonowania rynku finansowego, jego zagrożeń oraz podmiotów na nim funkcjonujących w celu ochrony uzasadnionych interesów uczestników rynku finansowego, w szczególności poprzez nieodpłatne publikowanie – w formie i czasie przez siebie określonym – ostrzeżeń i komunikatów w publicznym radiu i telewizji w rozumieniu przepisów ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226, z późn. zm.); ” ;
+- **4)** podejmowanie działań edukacyjnych i informacyjnych w zakresie funkcjonowania rynku finansowego, jego zagrożeń oraz podmiotów na nim funkcjonujących w celu ochrony uzasadnionych interesów uczestników rynku finansowego, w szczególności poprzez nieodpłatne publikowanie – w formie i czasie przez siebie określonym – ostrzeżeń i komunikatów w publicznym radiu i telewizji w rozumieniu przepisów ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 85, poz. 459, Nr 112, poz. 654, Nr 153, poz. 903 i Nr 160, poz. 963 oraz z 2012 r. poz. 1209 i 1315.); ” ;
 - **3)** po art. 6a dodaje się art. 6b w brzmieniu: „
 
 **Art. 6b.**
@@ -48,17 +47,17 @@ source: "eli-html"
 
 5. Na podstawie zawiadomienia przekazanego Komisji przez prokuratora, informacje, o których mowa w ust. 1, uzupełnia się każdorazowo o wzmiankę o prawomocnej odmowie wszczęcia postępowania przygotowawczego albo o prawomocnym umorzeniu postępowania przygotowawczego, a w przypadku wniesienia aktu oskarżenia o wzmiankę o prawomocnym orzeczeniu sądu.
 
-6. W przypadku gdy w związku z podejrzeniem popełnienia przestępstwa określonego w ust. 1, postępowanie przygotowawcze prowadzone jest z urzędu lub na podstawie zawiadomienia podmiotu innego niż Komisja, prokurator zawiadamia o tym Komisję, wskazując w zawiadomieniu firmę (nazwę) lub inne oznaczenie prowadzonej przez dany podmiot działalności, w związku z którą prowadzone jest postępowanie. Przepisy ust. 2–5 stosuje się odpowiednio, z zastrzeżeniem, że na liście, o której mowa w ust. 4, zamieszcza się informację jedynie w przypadku gdy Przewodniczący Komisji skorzystał z uprawnień przysługujących mu na podstawie art. 6 ust. 2. ” . W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2013 r. poz. 482, z późn. zm.) w art. 138c § 1a otrzymuje brzmienie: „
+6. W przypadku gdy w związku z podejrzeniem popełnienia przestępstwa określonego w ust. 1, postępowanie przygotowawcze prowadzone jest z urzędu lub na podstawie zawiadomienia podmiotu innego niż Komisja, prokurator zawiadamia o tym Komisję, wskazując w zawiadomieniu firmę (nazwę) lub inne oznaczenie prowadzonej przez dany podmiot działalności, w związku z którą prowadzone jest postępowanie. Przepisy ust. 2–5 stosuje się odpowiednio, z zastrzeżeniem, że na liście, o której mowa w ust. 4, zamieszcza się informację jedynie w przypadku gdy Przewodniczący Komisji skorzystał z uprawnień przysługujących mu na podstawie art. 6 ust. 2. ” . W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2013 r. poz. 482, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 829, 1247 i 1446.) w art. 138c § 1a otrzymuje brzmienie: „
 
 § 1a. Tej samej karze podlega, kto zawierając z konsumentem umowę o kredyt konsumencki nie dopełnia obowiązku oceny zdolności kredytowej. ” .
 
-**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm.) w art. 105 w ust. 4 pkt 3 otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529 oraz z 2013 r. poz. 777, 1036 i 1289.) w art. 105 w ust. 4 pkt 3 otrzymuje brzmienie: „
 
 - **3)** instytucjom kredytowym – informacji stanowiących tajemnicę bankową w zakresie niezbędnym do oceny zdolności kredytowej konsumenta, o której mowa w art. 9 ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim. ” .
 
-**Art. 4.** W ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. Nr 81, poz. 530, z późn. zm.) w art. 26 ust. 4 otrzymuje brzmienie: „ 4. Przepisu ust. 1 nie stosuje się do instytucji ustawowo obowiązanych do oceny zdolności kredytowej lub oceny ryzyka operacyjnego. ” .
+**Art. 4.** W ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. Nr 81, poz. 530, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 217, poz. 1427 oraz z 2011 r. Nr 126, poz. 715, Nr 149, poz. 887 i Nr 171, poz. 1016.) w art. 26 ust. 4 otrzymuje brzmienie: „ 4. Przepisu ust. 1 nie stosuje się do instytucji ustawowo obowiązanych do oceny zdolności kredytowej lub oceny ryzyka operacyjnego. ” .
 
-**Art. 5.** W ustawie z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. Nr 126, poz. 715, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. Nr 126, poz. 715, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 165, poz. 984 i Nr 201, poz. 1181 oraz z 2012 r. poz. 1193.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 pkt 10 otrzymuje brzmienie: „
 - **10)** stopa oprocentowania kredytu – stopa oprocentowania wyrażona jako stałe lub zmienne oprocentowanie stosowane do wypłaconej kwoty na podstawie umowy o kredyt w stosunku rocznym; ” ;
@@ -85,6 +84,6 @@ source: "eli-html"
 
 - **6)** w art. 23 dotychczasową treść oznacza się jako ust. 1 i dodaje ust. 2 w brzmieniu: „
 
-2. Termin ważności formularza wynosi co najmniej 1 dzień roboczy. ” . Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+2. Termin ważności formularza wynosi co najmniej 1 dzień roboczy. ” . Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych oraz ustawę z dnia 12 maja 2011 r. o kredycie konsumenckim. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166 i 1385 oraz z 2013 r. poz. 70, 1012 i 1036. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 85, poz. 459, Nr 112, poz. 654, Nr 153, poz. 903 i Nr 160, poz. 963 oraz z 2012 r. poz. 1209 i 1315. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 829, 1247 i 1446. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529 oraz z 2013 r. poz. 777, 1036 i 1289. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 217, poz. 1427 oraz z 2011 r. Nr 126, poz. 715, Nr 149, poz. 887 i Nr 171, poz. 1016. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 165, poz. 984 i Nr 201, poz. 1181 oraz z 2012 r. poz. 1193.
 
 

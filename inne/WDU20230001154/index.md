@@ -26,22 +26,44 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001154) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1154/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich Rozdział 1 – Przepisy ogólne Rozdział 2 – Bezpieczeństwo w górach Rozdział 3 – Podmioty uprawnione do wykonywania ratownictwa górskiego, zakres ich obowiązków i uprawnień oraz zasady finansowania ich działalności Rozdział 4 – Bezpieczeństwo na zorganizowanych terenach narciarskich Rozdział 5 – Podmioty uprawnione do wykonywania ratownictwa narciarskiego na zorganizowanych terenach narciarskich, zakres ich obowiązków i uprawnień oraz zasady finansowania ich działalności Rozdział 6 – Nadzór i kontrola nad ratownictwem górskim Rozdział 7 – Przepisy karne Rozdział 8 – Przepisy zmieniające, przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich (Dz. U. z 2022 r. poz. 1425), z uwzględnieniem zmian wprowadzonych:
 1)
 ustawą z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705),
 2)
-ustawą z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 kwietnia 2023 r.
+ustawą z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 kwietnia 2023 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 226 i art. 234 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705), które stanowią:
-„
+art. 226 i art. 234 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705), które stanowią: „
+Przepisy ogólne
+Bezpieczeństwo w górach
+Podmioty uprawnione do wykonywania ratownictwa górskiego, zakres ich obowiązków i uprawnień oraz zasady finansowania ich działalności
+Bezpieczeństwo na zorganizowanych terenach narciarskich
+Podmioty uprawnione do wykonywania ratownictwa narciarskiego na zorganizowanych terenach narciarskich, zakres ich obowiązków i uprawnień oraz zasady finansowania ich działalności
+Nadzór i kontrola nad ratownictwem górskim
+Przepisy karne
+Przepisy zmieniające, przejściowe i końcowe
 Art. 47–51.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Bezpieczeństwo w górach
+
+#### Rozdział 3 – Podmioty uprawnione do wykonywania ratownictwa górskiego, zakres ich obowiązków i uprawnień oraz zasady finansowania ich działalności
+
+#### Rozdział 4 – Bezpieczeństwo na zorganizowanych terenach narciarskich
+
+#### Rozdział 5 – Podmioty uprawnione do wykonywania ratownictwa narciarskiego na zorganizowanych terenach narciarskich, zakres ich obowiązków i uprawnień oraz zasady finansowania ich działalności
+
+#### Rozdział 6 – Nadzór i kontrola nad ratownictwem górskim
+
+#### Rozdział 7 – Przepisy karne
+
+#### Rozdział 8 – Przepisy zmieniające, przejściowe i końcowe
 
 **Art. 226.** Do postępowań w sprawach uznawania kwalifikacji zawodowych wszczętych i niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe. ” „
 
@@ -80,7 +102,7 @@ Art. 47–51.
 
 **Art. 29.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa:
 
@@ -99,14 +121,9 @@ Art. 47–51.
 - **5)** narciarskiej trasie zjazdowej – rozumie się przez to tereny przeznaczone do uprawiania narciarstwa i snowboardingu, zapewniające istnienie wolnej przestrzeni do zjazdu, odpowiedniej do stopnia trudności narciarskiej trasy zjazdowej i zdolności przewozowej urządzeń transportu linowego i taśmowego przeznaczonych do transportu osób, przy których się znajdują;
 - **6)** nartostradzie – rozumie się przez to tereny przeznaczone do uprawiania narciarstwa zjazdowego i snowboardingu, o szerokości co najmniej 3 m, służące w szczególności do komunikacji pomiędzy: narciarskimi trasami zjazdowymi, zorganizowanymi terenami narciarskimi, stacjami urządzeń transportu linowego i taśmowego przeznaczonych do transportu osób, oraz trasy dojazdowe do dróg, parkingów i obiektów użyteczności publicznej;
 - **7)** ratownictwie górskim – rozumie się przez to organizowanie i udzielanie pomocy osobom, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia w górach oraz transportowanie zwłok z gór;
-- **8)** ratownictwie narciarskim – rozumie się przez to organizowanie i udzielanie pomocy osobom, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia na zorganizowanych terenach narciarskich;
-- **9)** ratowniku górskim – rozumie się przez to osobę posiadającą uprawnienia ratownicze lub instruktorskie w zakresie ratownictwa górskiego oraz specjalistyczną wiedzę z zakresu technik ratownictwa górskiego i topografii obszaru, na którym działa dany podmiot uprawniony do wykonywania ratownictwa górskiego, i spełniającą wymagania określone w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2022 r. poz. 1720, 1733, 2705 i 2770) dla lekarza systemu, pielęgniarki systemu, ratownika medycznego realizujących doskonalenie zawodowe lub ratownika, zatrudnioną lub pełniącą służbę w tym podmiocie lub będącą członkiem tego podmiotu;
-- **9)** ratowniku górskim – rozumie się przez to osobę posiadającą uprawnienia ratownicze lub instruktorskie w zakresie ratownictwa górskiego oraz specjalistyczną wiedzę z zakresu technik ratownictwa górskiego i topografii obszaru, na którym działa dany podmiot uprawniony do wykonywania ratownictwa górskiego, spełniającą wymagania określone w: ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2022 r. poz. 1720, 1733, 2705 i 2770) dla lekarza systemu i pielęgniarki systemu realizujących doskonalenie zawodowe lub ratownika, ustawie z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705) dla ratownika medycznego realizującego doskonalenie zawodowe zatrudnioną lub pełniącą służbę w tym podmiocie lub będącą członkiem tego podmiotu;
+- **8)** ratownictwie narciarskim – rozumie się przez to organizowanie i udzielanie pomocy osobom, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia na zorganizowanych terenach narciarskich; 9W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 2.) ratowniku górskim – rozumie się przez to osobę posiadającą uprawnienia ratownicze lub instruktorskie w zakresie ratownictwa górskiego oraz specjalistyczną wiedzę z zakresu technik ratownictwa górskiego i topografii obszaru, na którym działa dany podmiot uprawniony do wykonywania ratownictwa górskiego, i spełniającą wymagania określone w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2022 r. poz. 1720, 1733, 2705 i 2770) dla lekarza systemu, pielęgniarki systemu, ratownika medycznego realizujących doskonalenie zawodowe lub ratownika, zatrudnioną lub pełniącą służbę w tym podmiocie lub będącą członkiem tego podmiotu; 9W brzmieniu ustalonym przez art. 214 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705), która wejdzie w życie z dniem 22 czerwca 2023 r.) ratowniku górskim – rozumie się przez to osobę posiadającą uprawnienia ratownicze lub instruktorskie w zakresie ratownictwa górskiego oraz specjalistyczną wiedzę z zakresu technik ratownictwa górskiego i topografii obszaru, na którym działa dany podmiot uprawniony do wykonywania ratownictwa górskiego, spełniającą wymagania określone w: ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2022 r. poz. 1720, 1733, 2705 i 2770) dla lekarza systemu i pielęgniarki systemu realizujących doskonalenie zawodowe lub ratownika, ustawie z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705) dla ratownika medycznego realizującego doskonalenie zawodowe – zatrudnioną lub pełniącą służbę w tym podmiocie lub będącą członkiem tego podmiotu; 10W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 2.) ratowniku narciarskim – rozumie się przez to osobę, która ukończyła szkolenie w zakresie transportu osób potrzebujących pomocy na zorganizowanych terenach narciarskich, organizowane przez podmiot uprawniony do wykonywania ratownictwa górskiego i spełniającą wymagania określone w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym dla lekarza systemu, pielęgniarki systemu, ratownika medycznego realizujących doskonalenie zawodowe lub ratownika; 10W brzmieniu ustalonym przez art. 214 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705), która wejdzie w życie z dniem 22 czerwca 2023 r.) ratowniku narciarskim – rozumie się przez to osobę, która ukończyła szkolenie w zakresie transportu osób potrzebujących pomocy na zorganizowanych terenach narciarskich organizowane przez podmiot uprawniony do wykonywania ratownictwa górskiego, spełniającą wymagania określone w: ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym dla lekarza systemu i pielęgniarki systemu realizujących doskonalenie zawodowe lub ratownika, ustawie z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych dla ratownika medycznego realizującego doskonalenie zawodowe;
     - **a)**
     - **b)**
-
-- **10)** ratowniku narciarskim – rozumie się przez to osobę, która ukończyła szkolenie w zakresie transportu osób potrzebujących pomocy na zorganizowanych terenach narciarskich, organizowane przez podmiot uprawniony do wykonywania ratownictwa górskiego i spełniającą wymagania określone w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym dla lekarza systemu, pielęgniarki systemu, ratownika medycznego realizujących doskonalenie zawodowe lub ratownika;
-- **10)** ratowniku narciarskim – rozumie się przez to osobę, która ukończyła szkolenie w zakresie transportu osób potrzebujących pomocy na zorganizowanych terenach narciarskich organizowane przez podmiot uprawniony do wykonywania ratownictwa górskiego, spełniającą wymagania określone w: ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym dla lekarza systemu i pielęgniarki systemu realizujących doskonalenie zawodowe lub ratownika, ustawie z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych dla ratownika medycznego realizującego doskonalenie zawodowe;
     - **a)**
     - **b)**
 
@@ -114,7 +131,7 @@ Art. 47–51.
 - **12)** zarządzającym zorganizowanym terenem narciarskim – rozumie się przez to osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej będącą właścicielem, użytkownikiem, najemcą, dzierżawcą lub posiadającą inny tytuł prawny do zorganizowanego terenu narciarskiego lub urządzeń transportu linowego lub taśmowego przeznaczonych do transportu osób, przy których znajduje się zorganizowany teren narciarski;
 - **13)** zorganizowanym terenie narciarskim – rozumie się przez to ogólnie udostępnione i odpowiednio naśnieżone lub z odpowiednio przygotowanym sztucznym podłożem, oznaczone i zabezpieczone tereny przeznaczone do uprawiania narciarstwa lub snowboardingu, znajdujące się przy urządzeniach transportu linowego lub taśmowego przeznaczonych do transportu osób, a także narciarskie trasy biegowe oraz parki narciarskie i pólka ćwiczebne.
 
-#### Rozdział 2 Bezpieczeństwo w górach
+#### Rozdział 2
 
 **Art. 3.**
 
@@ -135,7 +152,7 @@ Art. 47–51.
 - **4)** użytkowania sprzętu odpowiedniego do rodzaju podejmowanej aktywności, sprawnego technicznie i zgodnie z jego przeznaczeniem i zasadami użycia;
 - **5)** bezzwłocznego informowania podmiotów uprawnionych do wykonywania ratownictwa górskiego o zaistniałym wypadku lub zaginięciu osoby oraz o innych zdarzeniach nadzwyczajnych mogących mieć wpływ na bezpieczeństwo osób.
 
-#### Rozdział 3 Podmioty uprawnione do wykonywania ratownictwa górskiego, zakres ich obowiązków i uprawnień oraz zasady finansowania ich działalności
+#### Rozdział 3
 
 **Art. 5.**
 
@@ -371,7 +388,7 @@ Art. 47–51.
 
 3. W przypadku, gdy podmiot uprawniony do wykonywania ratownictwa górskiego nie przedstawił sprawozdania, o którym mowa w ust. 1, minister właściwy do spraw wewnętrznych wstrzymuje przekazywanie kolejnych dotacji do czasu przedstawienia sprawozdania.
 
-#### Rozdział 4 Bezpieczeństwo na zorganizowanych terenach narciarskich
+#### Rozdział 4
 
 **Art. 19.**
 
@@ -401,7 +418,7 @@ Art. 47–51.
 **Art. 23.** Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw kultury fizycznej oraz ministrem właściwym do spraw transportu określi, w drodze rozporządzenia:
 
 - **1)** dopuszczalne obciążenie narciarskiej trasy zjazdowej oraz sposób jego obliczania,
-- **2)** szczegółowe warunki oświetlania zorganizowanych terenów narciarskich mając na uwadze konieczność zapewnienia bezpieczeństwa osób korzystających z tych terenów.
+- **2)** szczegółowe warunki oświetlania zorganizowanych terenów narciarskich – mając na uwadze konieczność zapewnienia bezpieczeństwa osób korzystających z tych terenów.
 
 **Art. 24.**
 
@@ -421,7 +438,7 @@ Art. 47–51.
 - **2)** miejsca prowadzonych prac konserwacyjnych, zabiegów sztucznego naśnieżania oraz stabilizacji pokrywy śnieżnej,
 - **3)** miejsca w pobliżu podpór, urządzeń transportu linowego i taśmowego przeznaczonych do transportu osób,
 - **4)** granice narciarskich tras zjazdowych i nartostrad,
-- **5)** miejsca szczególnie niebezpieczne o trudnym do przewidzenia ukształtowaniu oznacza się właściwym znakiem ostrzegawczym oraz zabezpiecza w taki sposób by nie stwarzały zagrożenia dla osób przebywających na tych terenach.
+- **5)** miejsca szczególnie niebezpieczne o trudnym do przewidzenia ukształtowaniu – oznacza się właściwym znakiem ostrzegawczym oraz zabezpiecza w taki sposób by nie stwarzały zagrożenia dla osób przebywających na tych terenach.
 
 2. Przeszkody sztuczne, a w szczególności urządzenia transportu taśmowego, podpory urządzeń transportu linowego, słupy oświetleniowe, urządzenia naśnieżające, pojazdy mechaniczne znajdujące się w odległości mniejszej niż 2 m od granicy trasy zjazdowej lub nartostrady są odpowiednio zabezpieczone.
 
@@ -463,7 +480,7 @@ Art. 47–51.
 - **4)** użytkowania sprawnego technicznie sprzętu narciarskiego i snowboardowego odpowiedniego do rodzaju podejmowanej aktywności, zgodnie z jego przeznaczeniem i zasadami użycia;
 - **5)** bezzwłocznego informowania ratowników narciarskich o zaistniałym wypadku lub zaginięciu osoby oraz o innych zdarzeniach nadzwyczajnych mogących mieć wpływ na bezpieczeństwo osób.
 
-#### Rozdział 5 Podmioty uprawnione do wykonywania ratownictwa narciarskiego na zorganizowanych terenach narciarskich, zakres ich obowiązków i uprawnień oraz zasady finansowania ich działalności
+#### Rozdział 5
 
 **Art. 32.**
 
@@ -517,7 +534,7 @@ Art. 47–51.
 
 7. Zarządzający zorganizowanym terenem narciarskim, w przypadku trwałego zaprzestania wykonywania działalności gospodarczej, obowiązany jest do przekazania informacji, o których mowa w ust. 3, podmiotowi uprawnionemu do wykonywania ratownictwa górskiego.
 
-#### Rozdział 6 Nadzór i kontrola nad ratownictwem górskim
+#### Rozdział 6
 
 **Art. 38.**
 
@@ -601,7 +618,7 @@ Art. 47–51.
 
 **Art. 44.** Podmiot uprawniony do wykonywania ratownictwa górskiego objęty kontrolą, w terminie 30 dni od dnia otrzymania protokołu kontroli, stanowiska kontrolującego, o którym mowa w art. 42 ust. 3, lub poprawionego protokołu kontroli zawiadamia ministra właściwego do spraw wewnętrznych o wykonaniu wniosków i zaleceń pokontrolnych zawartych w protokole kontroli albo o przyczynach ich niewykonania.
 
-#### Rozdział 7 Przepisy karne
+#### Rozdział 7
 
 **Art. 45.**
 
@@ -611,7 +628,7 @@ Art. 47–51.
 
 **Art. 46.** Postępowanie w sprawach określonych w art. 45 prowadzi się na podstawie ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
-#### Rozdział 8 Przepisy zmieniające, przejściowe i końcowe
+#### Rozdział 8
 
 **Art. 52.** W okresie roku od dnia wejścia w życie niniejszej ustawy ratownictwo narciarskie może wykonywać ratownik, ratownik medyczny, lekarz systemu, pielęgniarka systemu w rozumieniu przepisów ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym lub osoba posiadająca ważne zaświadczenie o ukończeniu kursu w zakresie kwalifikowanej pierwszej pomocy.
 
@@ -623,8 +640,5 @@ Art. 47–51.
 
 **Art. 54.** Do dnia uzyskania zgody, o której mowa w art. 5 ust. 1, nie dłużej jednak niż do 24 miesięcy od dnia wejścia w życie niniejszej ustawy, za podmioty uprawnione do wykonywania ratownictwa górskiego uznaje się Górskie Ochotnicze Pogotowie Ratunkowe i Tatrzańskie Ochotnicze Pogotowie Ratunkowe.
 
-**Art. 55.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 50 i art. 51, które wchodzą w życie z dniem 2 stycznia 2012 r.
-
-- **1)** W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 2. 2) W brzmieniu ustalonym przez art. 214 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705), która wejdzie w życie z dniem 22 czerwca 2023 r. 3) Dodany przez art. 21 ustawy z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658), która weszła w życie z dniem 21 kwietnia 2023 r. 4) Ustawa została ogłoszona w dniu 30 września 2011 r.
-
+**Art. 55.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszeniaUstawa została ogłoszona w dniu 30 września 2011 r., z wyjątkiem art. 50 i art. 51, które wchodzą w życie z dniem 2 stycznia 2012 r. 1) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 2. 2) W brzmieniu ustalonym przez art. 214 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705), która wejdzie w życie z dniem 22 czerwca 2023 r. 3) Dodany przez art. 21 ustawy z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658), która weszła w życie z dniem 21 kwietnia 2023 r. 4) Ustawa została ogłoszona w dniu 30 września 2011 r.
 

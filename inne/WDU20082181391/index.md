@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2006/38/WE Parlamentu Europejskiego i Rady z dnia 17 maja 2006 r. zmieniającej dyrektywę 1999/62/WE w sprawie pobierania opłat za użytkowanie niektórych typów infrastruktury przez pojazdy ciężarowe (Dz. Urz. UE L 157 z 09.06.2006, str. 8).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-11-07 |
 | Data wydania | 2008-12-09 |
-| Wejście w życie | 2008-12-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082181391) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1391/text.pdf) |
 
@@ -31,7 +30,7 @@ source: "eli-html"
 - **1)** w art. 13: w ust. 1 dodaje się pkt 3 w brzmieniu: „
     - **a)**
 
-- **3)** przejazdy po drogach krajowych pojazdów samochodowych, w rozumieniu art. 2 pkt 33 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.), za które uważa się także zespół pojazdów składający się z pojazdu samochodowego oraz przyczepy lub naczepy o dopuszczalnej masie całkowitej powyżej 3,5 tony, w tym autobusów niezależnie od ich dopuszczalnej masy całkowitej. ” , w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Od opłat, o których mowa w ust. 1 pkt 1 i 2 oraz w ust. 2, są zwolnione: ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+- **3)** przejazdy po drogach krajowych pojazdów samochodowych, w rozumieniu art. 2 pkt 33 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238 oraz z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015 i Nr 209, poz. 1320.), za które uważa się także zespół pojazdów składający się z pojazdu samochodowego oraz przyczepy lub naczepy o dopuszczalnej masie całkowitej powyżej 3,5 tony, w tym autobusów niezależnie od ich dopuszczalnej masy całkowitej. ” , w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Od opłat, o których mowa w ust. 1 pkt 1 i 2 oraz w ust. 2, są zwolnione: ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -67,7 +66,7 @@ source: "eli-html"
 6. Rada Ministrów, w drodze rozporządzenia:
 
 - **1)** określi drogi krajowe lub ich odcinki, na których pobiera się opłatę elektroniczną,
-- **2)** ustali dla nich wysokość stawek opłaty elektronicznej za przejazd kilometra, dla danej kategorii pojazdu, w wysokości nie większej niż określona w ust. 4 mając na uwadze potrzeby utrzymania i ochrony dróg istotnych dla rozwoju sieci drogowej, koszty poboru opłaty elektronicznej oraz klasę drogi, na której jest pobierana opłata elektroniczna.
+- **2)** ustali dla nich wysokość stawek opłaty elektronicznej za przejazd kilometra, dla danej kategorii pojazdu, w wysokości nie większej niż określona w ust. 4 – mając na uwadze potrzeby utrzymania i ochrony dróg istotnych dla rozwoju sieci drogowej, koszty poboru opłaty elektronicznej oraz klasę drogi, na której jest pobierana opłata elektroniczna.
 
 7. Rada Ministrów w rozporządzeniu, o którym mowa w ust. 6, może:
 
@@ -92,7 +91,7 @@ source: "eli-html"
 
 4. Umowa, o której mowa w ust. 1, przewiduje coroczne prawo odkupu, za wynagrodzeniem ustalonym na podstawie tej umowy, na rzecz Generalnego Dyrektora Dróg Krajowych i Autostrad lub drogowej spółki specjalnego przeznaczenia, systemu elektronicznego poboru opłat elektronicznych, w przypadku gdy system ten został sfinansowany ze środków operatora. ” ;
 
-- **4)** w art. 13i: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wprowadzane po dniu 1 stycznia 2007 r. systemy elektronicznego poboru opłat, o których mowa w art. 13 ust. 1 pkt 3 i ust. 2, oraz opłaty za przejazd autostradą, o których mowa w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2004 r. Nr 256, poz. 2571, z późn. zm.), powinny wykorzystywać co najmniej jedną z następujących technologii: ” , ust. 3 otrzymuje brzmienie: „
+- **4)** w art. 13i: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wprowadzane po dniu 1 stycznia 2007 r. systemy elektronicznego poboru opłat, o których mowa w art. 13 ust. 1 pkt 3 i ust. 2, oraz opłaty za przejazd autostradą, o których mowa w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2004 r. Nr 256, poz. 2571, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 155, poz. 1297 i Nr 172, poz. 1440, z 2006 r. Nr 12, poz. 61 oraz z 2007 r. Nr 23, poz. 136 i Nr 99, poz. 666.), powinny wykorzystywać co najmniej jedną z następujących technologii: ” , ust. 3 otrzymuje brzmienie: „
     - **a)**
     - **b)**
 
@@ -168,7 +167,7 @@ source: "eli-html"
 5. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
 
 - **1)** tryb, sposób i termin wnoszenia opłat elektronicznych oraz ich rozliczania, w tym tryb dokonywania zwrotu nienależnie pobranych opłat elektronicznych,
-- **2)** tryb i termin przekazywania opłat elektronicznych oraz kar pieniężnych, o których mowa w art. 13k ust. 1 i 2, na rachunek Krajowego Funduszu Drogowego mając na uwadze sprawny pobór opłat elektronicznych od użytkowników, efektywną obsługę Krajowego Funduszu Drogowego, o którym mowa w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, oraz technologię wykorzystaną w systemie elektronicznego poboru opłat elektronicznych. ” ;
+- **2)** tryb i termin przekazywania opłat elektronicznych oraz kar pieniężnych, o których mowa w art. 13k ust. 1 i 2, na rachunek Krajowego Funduszu Drogowego – mając na uwadze sprawny pobór opłat elektronicznych od użytkowników, efektywną obsługę Krajowego Funduszu Drogowego, o którym mowa w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, oraz technologię wykorzystaną w systemie elektronicznego poboru opłat elektronicznych. ” ;
 - **8)** art. 40d otrzymuje brzmienie: „
 
 **Art. 40d.**
@@ -179,7 +178,7 @@ source: "eli-html"
 
 3. Obowiązek uiszczenia opłat określonych w art. 13 ust. 1 pkt 2, art. 13f ust. 1 i art. 40 ust. 3 oraz kar pieniężnych określonych w art. 13g ust. 1, art. 13k ust. 1 i 2, art. 29a ust. 1 i 2 oraz w art. 40 ust. 12 przedawnia się z upływem 5 lat, licząc od końca roku kalendarzowego, w którym opłaty lub kary powinny zostać uiszczone. ” .
 
-**Art. 2.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2004 r. Nr 256, poz. 2571, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2004 r. Nr 256, poz. 2571, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 155, poz. 1297 i Nr 172, poz. 1440, z 2006 r. Nr 12, poz. 61 oraz z 2007 r. Nr 23, poz. 136 i Nr 99, poz. 666.) wprowadza się następujące zmiany:
 
 - **1)** art. 37a otrzymuje brzmienie: „
 
@@ -215,7 +214,7 @@ source: "eli-html"
 
 1. Stawki opłat, o których mowa w art. 37a ust. 2, warunki zmian tych stawek oraz sposób ich wprowadzenia ustala umowa o budowę i eksploatację albo wyłącznie eksploatację autostrady.
 
-2. Stawki, o których mowa w ust. 1, nie mogą być wyższe niż stawki obliczone zgodnie z przepisami wydanymi na podstawie art. 13ha ust. 5 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2007 r. Nr 19, poz. 115, z późn. zm.).
+2. Stawki, o których mowa w ust. 1, nie mogą być wyższe niż stawki obliczone zgodnie z przepisami wydanymi na podstawie art. 13ha ust. 5 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2007 r. Nr 19, poz. 115, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 23, poz. 136 i Nr 192, poz. 1381 oraz z 2008 r. Nr 54, poz. 326 i Nr 218, poz. 1391.).
 
 3. Spółka ogłasza w prasie o zasięgu lokalnym i ogólnokrajowym oraz w punktach poboru opłat informację o wysokości opłat za przejazd autostradą lub ich zmianie, w terminie co najmniej czternastu dni przed dniem rozpoczęcia pobierania tych opłat.
 
@@ -228,7 +227,7 @@ source: "eli-html"
 - **1)** zróżnicować stawki opłat za przejazd autostradą ze względu na liczbę osi, emisję spalin pojazdu samochodowego, porę dnia, kategorię dnia i porę roku, mając na uwadze zapewnienie potrzeb ochrony środowiska, płynności ruchu, ochronę dróg publicznych, optymalizację wykorzystania infrastruktury transportu lądowego, a także propagowanie bezpieczeństwa ruchu drogowego;
 - **2)** wprowadzić stawki abonamentowe dla niektórych użytkowników autostrady w wysokości nie mniejszej niż 87% stawki opłaty za przejazd autostradą, z zachowaniem zasady przejrzystości i niedyskryminacji. ” ;
 - **4)** uchyla się art. 37f;
-- **5)** art. 37g i 37ga otrzymują brzmienie: „ Od opłat za przejazd autostradą są zwolnione pojazdy uprzywilejowane wykonujące zadania określone w art. 53 ust. 2 pkt 1 lit. a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.). Zasady poboru opłat w systemie elektronicznym określają przepisy ustawy z dnia 21 marca 1985 r. o drogach publicznych. ” ;
+- **5)** art. 37g i 37ga otrzymują brzmienie: „ Od opłat za przejazd autostradą są zwolnione pojazdy uprzywilejowane wykonujące zadania określone w art. 53 ust. 2 pkt 1 lit. a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238 oraz z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015 i Nr 209, poz. 1320.). Zasady poboru opłat w systemie elektronicznym określają przepisy ustawy z dnia 21 marca 1985 r. o drogach publicznych. ” ;
 - **6)** w art. 39b w ust. 1: pkt 5 i 5a otrzymują brzmienie: „
     - **a)**
 
@@ -377,6 +376,6 @@ source: "eli-html"
 **Art. 8.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, Nr 176, poz. 1238 i Nr 192, poz. 1381) art. 42 traci moc z dniem 30 czerwca 2011 r. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia:
 
 - **1)** z tym że art. 13 ust. 1 pkt 3 ustawy zmienianej w art. 1, dodawany niniejszą ustawą, stosuje się od dnia 1 lipca 2011 r.;
-- **2)** z wyjątkiem art. 3 pkt 1 lit. b, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia niniejszej ustawy oraz art. 3 pkt 2–11, które wchodzą w życie z dniem 1 lipca 2011 r.
+- **2)** z wyjątkiem art. 3 pkt 1 lit. b, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia niniejszej ustawy oraz art. 3 pkt 2–11, które wchodzą w życie z dniem 1 lipca 2011 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2006/38/WE Parlamentu Europejskiego i Rady z dnia 17 maja 2006 r. zmieniającej dyrektywę 1999/62/WE w sprawie pobierania opłat za użytkowanie niektórych typów infrastruktury przez pojazdy ciężarowe (Dz. Urz. UE L 157 z 09.06.2006, str. 8). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238 oraz z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015 i Nr 209, poz. 1320. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 155, poz. 1297 i Nr 172, poz. 1440, z 2006 r. Nr 12, poz. 61 oraz z 2007 r. Nr 23, poz. 136 i Nr 99, poz. 666. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 155, poz. 1297 i Nr 172, poz. 1440, z 2006 r. Nr 12, poz. 61 oraz z 2007 r. Nr 23, poz. 136 i Nr 99, poz. 666. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 23, poz. 136 i Nr 192, poz. 1381 oraz z 2008 r. Nr 54, poz. 326 i Nr 218, poz. 1391. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238 oraz z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015 i Nr 209, poz. 1320.
 
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 27 października 2016 r. w sprawie Krajowej Rady Konsultacyjnej do Spraw Osób Niepełnosprawnych
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 27 października 2016 r. w sprawie Krajowej Rady Konsultacyjnej do Spraw Osób Niepełnosprawnych Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-27 |
 | Data wydania | 2016-10-31 |
-| Wejście w życie | 2016-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001783) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1783/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 44 ust. 3 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. poz. 721, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 44 ust. 3 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. poz. 721, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. poz. 1016, 1243, 1244 i 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645, z 2014 r. poz. 598, 877, 1198, 1457 i 1873, z 2015 r. poz. 218, 493, 1240, 1273, 1359, 1649 i 1886 oraz z 2016 r. poz. 195 i 1336.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -150,6 +149,5 @@ Protokół posiedzenia zespołu problemowego podpisują przewodniczący oraz wyz
 § 15.
 Rada uchwala regulamin Rady oraz regulaminy zespołów problemowych.
 § 16.
-Rozporządzenie wchodzi w życie z dniem 1 listopada 2016 r.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. poz. 1016, 1243, 1244 i 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645, z 2014 r. poz. 598, 877, 1198, 1457 i 1873, z 2015 r. poz. 218, 493, 1240, 1273, 1359, 1649 i 1886 oraz z 2016 r. poz. 195 i 1336. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 15 listopada 2007 r. w sprawie sposobu i trybu działania Krajowej Rady Konsultacyjnej do Spraw Osób Niepełnosprawnych (Dz. U. poz. 1695), które traci moc z dniem 1 listopada 2016 r. w związku z wejściem w życie art. 1 pkt 4 ustawy z dnia 19 lipca 2016 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz niektórych innych ustaw (Dz. U. poz. 1336).
+Rozporządzenie wchodzi w życie z dniem 1 listopada 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 15 listopada 2007 r. w sprawie sposobu i trybu działania Krajowej Rady Konsultacyjnej do Spraw Osób Niepełnosprawnych (Dz. U. poz. 1695), które traci moc z dniem 1 listopada 2016 r. w związku z wejściem w życie art. 1 pkt 4 ustawy z dnia 19 lipca 2016 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz niektórych innych ustaw (Dz. U. poz. 1336). 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. poz. 1016, 1243, 1244 i 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645, z 2014 r. poz. 598, 877, 1198, 1457 i 1873, z 2015 r. poz. 218, 493, 1240, 1273, 1359, 1649 i 1886 oraz z 2016 r. poz. 195 i 1336. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 15 listopada 2007 r. w sprawie sposobu i trybu działania Krajowej Rady Konsultacyjnej do Spraw Osób Niepełnosprawnych (Dz. U. poz. 1695), które traci moc z dniem 1 listopada 2016 r. w związku z wejściem w życie art. 1 pkt 4 ustawy z dnia 19 lipca 2016 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz niektórych innych ustaw (Dz. U. poz. 1336).
 

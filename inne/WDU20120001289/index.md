@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 6 listopada 2012 r. zmieniające rozporządzenie w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie
+# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 6 listopada 2012 r. zmieniające rozporządzenie w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 24 lipca 2012 r. pod numerem 2012/0451/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w zakresie norm i przepisów technicznych (Dz. Urz. WE L 204 z 21.07.1998, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-11-06 |
 | Data wydania | 2012-11-22 |
-| Wejście w życie | 2013-02-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001289) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1289/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2010 r. Nr 243, poz. 1623, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2010 r. Nr 243, poz. 1623, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 32, poz. 159, Nr 45, poz. 235, Nr 94, poz. 551, Nr 135, poz. 789, Nr 142, poz. 829, Nr 185, poz. 1092 i Nr 232, poz. 1377 oraz z 2012 r. poz. 472, 951 i 1256.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Infrastruktury z dnia 12 kwietnia 2002 r. w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie (Dz. U. Nr 75, poz. 690, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Ministra Infrastruktury z dnia 12 kwietnia 2002 r. w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie (Dz. U. Nr 75, poz. 690, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2003 r. Nr 33, poz. 270, z 2004 r. Nr 109, poz. 1156, z 2008 r. Nr 201, poz. 1238, z 2009 r. Nr 56, poz. 461 oraz z 2010 r. Nr 239, poz. 1597.) wprowadza się następujące zmiany:
 1)
 uchyla się § 191 i § 192;
 2)
-w dziale IV po rozdziale 8 dodaje się rozdział 8a w brzmieniu:
-„
+w dziale IV po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „
+Instalacja telekomunikacyjna
 § 192a.
 Mieszkania w budynku mieszkalnym wielorodzinnym i odrębne mieszkania w budynku zamieszkania zbiorowego należy wyposażyć w instalację wejściowej sygnalizacji dzwonkowej oraz w odpowiednią sygnalizację alarmowo-przyzywową dostosowaną do potrzeb osób niepełnosprawnych.
 § 192b.
@@ -153,8 +152,7 @@ impedancję wyjściową 75 Ω lub umożliwienie montażu konwerterów z wyjście
 c)
 możliwość odbioru sygnału z co najmniej dwóch satelitów,
 d)
-możliwość odbioru sygnału o dwóch ortogonalnych polaryzacjach
-przy czym możliwe jest zastosowanie pojedynczej anteny dwuogniskowej;
+możliwość odbioru sygnału o dwóch ortogonalnych polaryzacjach – przy czym możliwe jest zastosowanie pojedynczej anteny dwuogniskowej;
 3)
 wzmacniacze, przełączniki wielozakresowe (multiswitche) oraz pozostały osprzęt aktywny i pasywny służący do odbioru programów telewizyjnych i radiofonicznych rozpowszechnianych w sposób rozsiewczy satelitarny.
 8.
@@ -168,10 +166,10 @@ W instalacji telekomunikacyjnej, o której mowa w § 192e pkt 7, należy stosowa
 12.
 Główne ciągi instalacji telekomunikacyjnej powinny być prowadzone poza mieszkaniami i lokalami użytkowymi oraz innymi pomieszczeniami, których sposób użytkowania może spowodować przerwy lub zakłócenia przekazywanego sygnału.
 13.
-W dostępnych dla ludzi miejscach, w których znajdują się zakończenia włókien światłowodowych, powinno być umieszczone, w widocznym miejscu, odpowiednie oznakowanie ostrzegające przed niewidzialnym promieniowaniem optycznym.
-” ;
+W dostępnych dla ludzi miejscach, w których znajdują się zakończenia włókien światłowodowych, powinno być umieszczone, w widocznym miejscu, odpowiednie oznakowanie ostrzegające przed niewidzialnym promieniowaniem optycznym. ” ;
 3)
-w załączniku nr 1 do rozporządzenia po lp. 47 dodaje się lp. 47a w brzmieniu: Lp. Miejsce powołania normy Numer normy Tytuł normy (zakres powołania) 1 2 3 4 47a § 192b PN-EN 50174–2:2010 Technika Informatyczna – Instalacje okablowania – Część 2: Planowanie i wykonywanie instalacji wewnątrz budynków
+w załączniku nr 1 do rozporządzenia po lp. 47 dodaje się lp. 47a w brzmieniu:
+Lp. Miejsce powołania normy Numer normy Tytuł normy (zakres powołania) 1 2 3 4 47a § 192b PN-EN 50174–2:2010 Technika Informatyczna – Instalacje okablowania – Część 2: Planowanie i wykonywanie instalacji wewnątrz budynków
 § 2.
 Przepisów rozporządzenia nie stosuje się, jeżeli przed dniem wejścia w życie rozporządzenia:
 1)
@@ -179,7 +177,7 @@ został złożony wniosek o pozwolenie na budowę lub odrębny wniosek o zatwier
 2)
 zostało dokonane zgłoszenie budowy lub wykonanie robót budowlanych w przypadku, gdy nie jest wymagane uzyskanie decyzji o pozwoleniu na budowę.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 24 lipca 2012 r. pod numerem 2012/0451/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w zakresie norm i przepisów technicznych (Dz. Urz. WE L 204 z 21.07.1998, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 32, poz. 159, Nr 45, poz. 235, Nr 94, poz. 551, Nr 135, poz. 789, Nr 142, poz. 829, Nr 185, poz. 1092 i Nr 232, poz. 1377 oraz z 2012 r. poz. 472, 951 i 1256. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2003 r. Nr 33, poz. 270, z 2004 r. Nr 109, poz. 1156, z 2008 r. Nr 201, poz. 1238, z 2009 r. Nr 56, poz. 461 oraz z 2010 r. Nr 239, poz. 1597.
 
-#### Rozdział 8a Instalacja telekomunikacyjna
+#### Rozdział 8a
 

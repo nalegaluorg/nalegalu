@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 9 lutego 2024 r. zmieniające rozporządzenie w sprawie procedur oceny zgodności wyrobów wykorzystujących energię oraz ich oznakowania
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 9 lutego 2024 r. zmieniające rozporządzenie w sprawie procedur oceny zgodności wyrobów wykorzystujących energię oraz ich oznakowania Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-09 |
 | Data wydania | 2024-02-15 |
-| Wejście w życie | 2024-03-01 |
 | Ostatnia zmiana | 2025-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000188) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/188/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 9 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2023 r. poz. 215) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Gospodarki z dnia 17 grudnia 2010 r. w sprawie procedur oceny zgodności wyrobów wykorzystujących energię oraz ich oznakowania (Dz. U. z 2022 r. poz. 599) odnośnik nr 3 otrzymuje brzmienie:
-„
-3) Do wymagań dotyczących ekoprojektu odnoszą się:
+W rozporządzeniu Ministra Gospodarki z dnia 17 grudnia 2010 r. w sprawie procedur oceny zgodności wyrobów wykorzystujących energię oraz ich oznakowania (Dz. U. z 2022 r. poz. 599) odnośnik nr 3 otrzymuje brzmienie: „ 3) Do wymagań dotyczących ekoprojektu odnoszą się:
 1)
 rozporządzenie Komisji (WE) nr 641/2009 z dnia 22 lipca 2009 r. w sprawie wykonania dyrektywy 2005/32/WE Parlamentu Europejskiego i Rady w odniesieniu do wymogów dotyczących ekoprojektu dla pomp cyrkulacyjnych bezdławnicowych wolnostojących i pomp cyrkulacyjnych bezdławnicowych zintegrowanych z produktami (Dz. Urz. UE L 191 z 23.07.2009, str. 35, Dz. Urz. UE L 180 z 12.07.2012, str. 4, Dz. Urz. UE L 346 z 20.12.2016, str. 51 oraz Dz. Urz. UE L 272 z 25.10.2019, str. 74);
 2)
@@ -87,9 +84,7 @@ rozporządzenie Komisji (UE) 2023/826 z dnia 17 kwietnia 2023 r. ustanawiające 
 27)
 rozporządzenie Komisji (UE) 2023/1670 z dnia 16 czerwca 2023 r. ustanawiające wymogi dotyczące ekoprojektu dla smartfonów, telefonów komórkowych innych niż smartfony, telefonów bezprzewodowych i komputerów typu slate na podstawie dyrektywy Parlamentu Europejskiego i Rady 2009/125/WE oraz zmieniające rozporządzenie Komisji (UE) 2023/826 (Dz. Urz. UE L 214 z 31.08.2023, str. 47);
 28)
-rozporządzenie Komisji (UE) 2023/2533 z dnia 17 listopada 2023 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/125/WE w odniesieniu do wymogów dotyczących ekoprojektu dla suszarek bębnowych dla gospodarstw domowych, zmieniające rozporządzenie Komisji (UE) 2023/826 i uchylające rozporządzenie Komisji (UE) nr 932/2012 (Dz. Urz. UE L 2023/2533 z 22.11.2023).
-” .
+rozporządzenie Komisji (UE) 2023/2533 z dnia 17 listopada 2023 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/125/WE w odniesieniu do wymogów dotyczących ekoprojektu dla suszarek bębnowych dla gospodarstw domowych, zmieniające rozporządzenie Komisji (UE) 2023/826 i uchylające rozporządzenie Komisji (UE) nr 932/2012 (Dz. Urz. UE L 2023/2533 z 22.11.2023). ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 

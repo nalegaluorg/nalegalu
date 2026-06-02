@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-10-08 |
 | Data wydania | 2010-11-12 |
-| Wejście w życie | 2010-11-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102131396) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1396/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. Nr 179, poz. 1485, z późn. zm.) wprowadza się następujące zmiany:
+Kara pieniężna
+
+**Art. 1.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. Nr 179, poz. 1485, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 66, poz. 469 i Nr 120, poz. 826, z 2007 r. Nr 7, poz. 48 i Nr 82, poz. 558, z 2009 r. Nr 18, poz. 97, Nr 63, poz. 520, Nr 92, poz. 753 i Nr 98, poz. 817 oraz z 2010 r. Nr 28, poz. 146 i Nr 143, poz. 962.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4: pkt 27 otrzymuje brzmienie: „
     - **a)**
@@ -87,11 +88,11 @@ source: "eli-html"
 - **7)** tytuł rozdziału 5 otrzymuje brzmienie: „ Prekursory, środki odurzające, substancje psychotropowe i środki zastępcze ” ;
 - **8)** po art. 44a dodaje się art. 44b i art. 44c w brzmieniu: „
 
-**Art. 44b.** Zakazuje się wytwarzania i wprowadzania do obrotu na terytorium Rzeczypospolitej Polskiej środków zastępczych. 1. W przypadku stwierdzenia wytwarzania lub wprowadzania do obrotu środka zastępczego lub produktu, co do którego zachodzi podejrzenie, że jest on środkiem zastępczym, właściwy państwowy inspektor sanitarny stosuje odpowiednio przepisy art. 27c ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2006 r. Nr 122, poz. 851, z późn. zm.). 2. Główny Inspektor Sanitarny informuje opinię publiczną o wydaniu decyzji, o której mowa w art. 27c ust. 1 ustawy wymienionej w ust. 1. ” ;
+**Art. 44b.** Zakazuje się wytwarzania i wprowadzania do obrotu na terytorium Rzeczypospolitej Polskiej środków zastępczych. 1. W przypadku stwierdzenia wytwarzania lub wprowadzania do obrotu środka zastępczego lub produktu, co do którego zachodzi podejrzenie, że jest on środkiem zastępczym, właściwy państwowy inspektor sanitarny stosuje odpowiednio przepisy art. 27c ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2006 r. Nr 122, poz. 851, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 143, poz. 1032, Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 220, poz. 1600, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 20, poz. 106, Nr 92, poz. 753 i Nr 157, poz. 1241 oraz z 2010 r. Nr 21, poz. 105, Nr 81, poz. 529, Nr 130, poz. 871, Nr 182, poz. 1228 i Nr 213, poz. 1396.). 2. Główny Inspektor Sanitarny informuje opinię publiczną o wydaniu decyzji, o której mowa w art. 27c ust. 1 ustawy wymienionej w ust. 1. ” ;
 
 - **9)** po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „
 
-#### Rozdział 6a Kara pieniężna
+#### Rozdział 6a
 
 **Art. 52a.**
 
@@ -101,7 +102,7 @@ source: "eli-html"
 
 3. Ustalając wysokość kary pieniężnej, o której mowa w ust. 1, właściwy państwowy inspektor sanitarny uwzględnia w szczególności ilość wytworzonego lub wprowadzonego do obrotu środka zastępczego.
 
-4. Do kary pieniężnej, o której mowa w ust. 1, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.), z tym że organowi, o którym mowa w ust. 2, przysługują uprawnienia organu podatkowego.
+4. Do kary pieniężnej, o której mowa w ust. 1, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676 oraz z 2010 r. Nr 40, poz. 230, Nr 57, poz. 355, Nr 127, poz. 858, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 197, poz. 1306.), z tym że organowi, o którym mowa w ust. 2, przysługują uprawnienia organu podatkowego.
 
 5. Kara pieniężna, o której mowa w ust. 1, stanowi dochód budżetu państwa. ” ;
 
@@ -109,7 +110,7 @@ source: "eli-html"
 
 **Art. 68.** Kto prowadzi reklamę lub promocję wbrew zakazom określonym w art. 20 ust. 1 lub 3, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. ” .
 
-**Art. 2.** W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2006 r. Nr 122, poz. 851, z późn. zm.) po art. 27b dodaje się art. 27c w brzmieniu: „
+**Art. 2.** W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2006 r. Nr 122, poz. 851, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 143, poz. 1032, Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 220, poz. 1600, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 20, poz. 106, Nr 92, poz. 753 i Nr 157, poz. 1241 oraz z 2010 r. Nr 21, poz. 105, Nr 81, poz. 529, Nr 130, poz. 871 i Nr 182, poz. 1228.) po art. 27b dodaje się art. 27c w brzmieniu: „
 
 **Art. 27c.**
 
@@ -132,5 +133,5 @@ source: "eli-html"
 
 **Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 23 ust. 4 i art. 24 ust. 6 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 23 ust. 4 i art. 24 ust. 6 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 66, poz. 469 i Nr 120, poz. 826, z 2007 r. Nr 7, poz. 48 i Nr 82, poz. 558, z 2009 r. Nr 18, poz. 97, Nr 63, poz. 520, Nr 92, poz. 753 i Nr 98, poz. 817 oraz z 2010 r. Nr 28, poz. 146 i Nr 143, poz. 962. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 143, poz. 1032, Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 220, poz. 1600, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 20, poz. 106, Nr 92, poz. 753 i Nr 157, poz. 1241 oraz z 2010 r. Nr 21, poz. 105, Nr 81, poz. 529, Nr 130, poz. 871, Nr 182, poz. 1228 i Nr 213, poz. 1396. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676 oraz z 2010 r. Nr 40, poz. 230, Nr 57, poz. 355, Nr 127, poz. 858, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 197, poz. 1306. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 143, poz. 1032, Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 220, poz. 1600, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 20, poz. 106, Nr 92, poz. 753 i Nr 157, poz. 1241 oraz z 2010 r. Nr 21, poz. 105, Nr 81, poz. 529, Nr 130, poz. 871 i Nr 182, poz. 1228.
 

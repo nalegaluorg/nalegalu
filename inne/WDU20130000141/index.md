@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-01-18 |
 | Data wydania | 2013-01-30 |
-| Wejście w życie | 2013-02-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000141) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/141/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wykaz zakażeń i chorób zakaźnych występujących wśród żołnierzy, funkcjonariuszy i pracowników jednostek oraz innych osób objętych zakresem działania Państwowej Inspekcji Sanitarnej, Wojskowej Inspekcji Sanitarnej, Państwowej Inspekcji Sanitarnej Ministerstwa Spraw Wewnętrznych, Inspekcji Weterynaryjnej, Wojskowej Inspekcji Weterynaryjnej i Inspekcji Ochrony Środowiska
 Treść rozporządzenia
-Na podstawie art. 24 ust. 3 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. Nr 234, poz. 1570, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 24 ust. 3 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. Nr 234, poz. 1570, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 76, poz. 641, z 2010 r. Nr 107, poz. 679 i Nr 257, poz. 1723 oraz z 2012 r. poz. 892.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -47,7 +46,7 @@ przez przekazanie kopii w postaci papierowej lub w postaci elektronicznej.
 § 4.
 Dane są przechowywane przez okres 5 lat.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 76, poz. 641, z 2010 r. Nr 107, poz. 679 i Nr 257, poz. 1723 oraz z 2012 r. poz. 892.
 Załącznik – Wykaz zakażeń i chorób zakaźnych występujących wśród żołnierzy, funkcjonariuszy i pracowników jednostek oraz innych osób objętych zakresem działania Państwowej Inspekcji Sanitarnej, Wojskowej Inspekcji Sanitarnej, Państwowej Inspekcji Sanitarnej Ministerstwa Spraw Wewnętrznych, Inspekcji Weterynaryjnej, Wojskowej Inspekcji Weterynaryjnej i Inspekcji Ochrony Środowiska
 1)
 bąblowica i wągrzyca;

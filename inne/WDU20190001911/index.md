@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 7 października 2019 r. w sprawie trybu łączenia, podziału i likwidacji instytutów działających w ramach Sieci Badawczej Łukasiewicz
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 7 października 2019 r. w sprawie trybu łączenia, podziału i likwidacji instytutów działających w ramach Sieci Badawczej Łukasiewicz Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. z 2019 r. poz. 1530).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-07 |
 | Data wydania | 2019-10-09 |
-| Wejście w życie | 2019-10-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001911) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1911/text.pdf) |
 
@@ -171,6 +170,5 @@ Prezes Centrum Łukasiewicz we wniosku składanym zgodnie z § 5 ust. 1 pkt 1 ws
 2)
 uchwała, o której mowa w § 6, wchodzi w życie nie wcześniej niż w tym dniu.
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. z 2019 r. poz. 1530).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. z 2019 r. poz. 1530).
 

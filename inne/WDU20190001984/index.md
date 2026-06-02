@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 11 października 2019 r. zmieniające rozporządzenie w sprawie prowadzenia depozytu w stacjonarnym zakładzie opieki zdrowotnej
+# Rozporządzenie Ministra Zdrowiaz dnia 11 października 2019 r. zmieniające rozporządzenie w sprawie prowadzenia depozytu w stacjonarnym zakładzie opieki zdrowotnej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-11 |
 | Data wydania | 2019-10-18 |
-| Wejście w życie | 2019-11-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001984) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1984/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 40 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2019 r. poz. 1127, 1128, 1590, 1655 i 1696) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 30 lipca 2009 r. w sprawie prowadzenia depozytu w stacjonarnym zakładzie opieki zdrowotnej (Dz. U. poz. 1068) w § 4 ust. 1 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Zdrowia z dnia 30 lipca 2009 r. w sprawie prowadzenia depozytu w stacjonarnym zakładzie opieki zdrowotnej (Dz. U. poz. 1068) w § 4 ust. 1 otrzymuje brzmienie: „
 1.
-Rzeczy wartościowe w depozycie przechowuje się w opakowaniu trwale zamkniętym, oznaczonym nadrukiem, naklejką lub pieczęcią zakładu, zawierającymi nazwę zakładu, jego adres, numer identyfikacji podatkowej (NIP) i numer telefonu, oraz oznaczonym numerem, pod którym depozyt został zapisany w księdze depozytów.
-” .
+Rzeczy wartościowe w depozycie przechowuje się w opakowaniu trwale zamkniętym, oznaczonym nadrukiem, naklejką lub pieczęcią zakładu, zawierającymi nazwę zakładu, jego adres, numer identyfikacji podatkowej (NIP) i numer telefonu, oraz oznaczonym numerem, pod którym depozyt został zapisany w księdze depozytów. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 

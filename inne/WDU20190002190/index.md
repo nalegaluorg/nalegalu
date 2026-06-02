@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 16 października 2019 r. w sprawie Krajowego Rejestru Mechanicznego Wspomagania Krążenia
+# Rozporządzenie Ministra Zdrowiaz dnia 16 października 2019 r. w sprawie Krajowego Rejestru Mechanicznego Wspomagania Krążenia Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-16 |
 | Data wydania | 2019-11-13 |
-| Wejście w życie | 2019-11-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002190) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2190/text.pdf) |
 
@@ -56,7 +55,7 @@ imię (imiona) i nazwisko,
 b)
 płeć,
 c)
-numer PESEL, a w przypadku osób, które nie mają nadanego numeru PESEL – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość, albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm.),
+numer PESEL, a w przypadku osób, które nie mają nadanego numeru PESEL – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość, albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 28 z 04.02.2016, str. 18.,
 d)
 datę urodzenia,
 e)
@@ -146,8 +145,7 @@ ocenę w skali New York Heart Association (NYHA),
 z)
 tryb wykonania zabiegu,
 aa)
-uzasadnienie medyczne udzielenia świadczenia – główne i współistniejące,
-ab) dane dotyczące procedur medycznych wykonanych w ramach świadczenia opieki zdrowotnej:
+uzasadnienie medyczne udzielenia świadczenia – główne i współistniejące, ab) dane dotyczące procedur medycznych wykonanych w ramach świadczenia opieki zdrowotnej:
 – kod procedury medycznej,
 – liczbę powtórzeń wykonanej procedury,
 – datę wykonania procedury,
@@ -203,8 +201,7 @@ wszczepianie wspomagania krążenia systemem ECLS ECMO,
 d)
 wszczepianie całkowicie sztucznego serca,
 e)
-wszczepianie innych pomp wspomagania krążenia
-w zakresie, o którym mowa w § 4 pkt 1 lit. a-e oraz g-h, pkt 2 lit. a-v oraz y i pkt 3–7, za pośrednictwem dedykowanego systemu informatycznego, w terminie do 10. dnia miesiąca następującego po miesiącu, w którym usługodawca wykazał do rozliczenia świadczenie, o którym mowa w § 5 ust. 1 pkt 1;
+wszczepianie innych pomp wspomagania krążenia – w zakresie, o którym mowa w § 4 pkt 1 lit. a-e oraz g-h, pkt 2 lit. a-v oraz y i pkt 3–7, za pośrednictwem dedykowanego systemu informatycznego, w terminie do 10. dnia miesiąca następującego po miesiącu, w którym usługodawca wykazał do rozliczenia świadczenie, o którym mowa w § 5 ust. 1 pkt 1;
 2)
 Narodowy Fundusz Zdrowia w zakresie, o którym mowa w § 4 pkt 1 lit. b-d, f oraz h, pkt 2 lit. d tiret drugie, j-l oraz w-ac i pkt 5, 6 i 8, do systemu, o którym mowa w pkt 1, w terminie 120 dni od dnia przekazania danych przez usługodawcę.
 2.
@@ -236,6 +233,5 @@ Tworzy się Krajowy Rejestr Mechanicznego Wspomagania Krążenia.
 § 7.
 Podmiot prowadzący rejestr, nie później niż po upływie 6 miesięcy od dnia wejścia w życie rozporządzenia, poinformuje usługodawców o terminie, w którym dane i identyfikatory, o których mowa w § 4, przekazuje się po raz pierwszy.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 28 z 04.02.2016, str. 18.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 28 z 04.02.2016, str. 18.
 

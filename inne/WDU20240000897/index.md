@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 10 czerwca 2024 r. zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników Centralnego Ośrodka Badania Odmian Roślin Uprawnych oraz przyznawania innych świadczeń związanych z pracą
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 10 czerwca 2024 r. zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników Centralnego Ośrodka Badania Odmian Roślin Uprawnych oraz przyznawania innych świadczeń związanych z pracą Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-10 |
 | Data wydania | 2024-06-18 |
-| Wejście w życie | 2024-07-03 |
 | Ostatnia zmiana | 2024-06-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000897) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/897/text.pdf) |
 
@@ -41,8 +40,7 @@ załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załącznik
 2)
 załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 
 ## Załącznik nr 1 — – Tabela miesięcznych stawek wynagrodzenia zasadniczego
 

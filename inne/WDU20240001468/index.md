@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-27 |
 | Data wydania | 2024-10-03 |
-| Wejście w życie | 2024-10-18 |
 | Ostatnia zmiana | 2024-10-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001468) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1468/text.pdf) |
 
@@ -40,5 +39,5 @@ Warunkiem używania wyrobów tytoniowych w środkach przewozu osób jest brak um
 2.
 Dopuszcza się używanie wyrobów tytoniowych w nieoznakowanych samochodach osobowych należących do Sił Zbrojnych, jeżeli wszystkie znajdujące się w tych samochodach osoby udzieliły wyraźnej zgody na używanie wyrobów tytoniowych.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 14 lutego 2012 r. w sprawie szczegółowych warunków używania wyrobów tytoniowych na terenie obiektów oraz w środkach przewozu osób podlegających Ministrowi Obrony Narodowej (Dz. U. poz. 193), które utraciło moc z dniem 9 września 2017 r. zgodnie z art. 10 ustawy z dnia 22 lipca 2016 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. poz. 1331). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 14 lutego 2012 r. w sprawie szczegółowych warunków używania wyrobów tytoniowych na terenie obiektów oraz w środkach przewozu osób podlegających Ministrowi Obrony Narodowej (Dz. U. poz. 193), które utraciło moc z dniem 9 września 2017 r. zgodnie z art. 10 ustawy z dnia 22 lipca 2016 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. poz. 1331).
 

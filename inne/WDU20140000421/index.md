@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-03-21 |
 | Data wydania | 2014-04-01 |
-| Wejście w życie | 2014-04-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000421) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/421/text.pdf) |
 
@@ -33,12 +32,11 @@ Treść rozporządzenia
 ## Załącznik nr 2 — – Normy wyposażenia, które może być przyznane funkcjonariuszom
 
 Treść rozporządzenia
-Na podstawie art. 88 ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 88 ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455, Nr 117, poz. 677 i Nr 230, poz. 1371, z 2012 r. poz. 627 i 908 oraz z 2013 r. poz. 628, 675, 1247 i 1351.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Prezesa Rady Ministrów z dnia 16 grudnia 2003 r. w sprawie uzbrojenia i wyposażenia funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. Nr 219, poz. 2155 oraz z 2004 r. Nr 24, poz. 218) wprowadza się następujące zmiany:
 1)
-w § 2 ust. 1 otrzymuje brzmienie:
-„
+w § 2 ust. 1 otrzymuje brzmienie: „
 1.
 Funkcjonariuszowi przysługuje uzbrojenie obejmujące:
 1)
@@ -52,11 +50,9 @@ sportową;
 2)
 broń pneumatyczną;
 3)
-amunicję do broni, o której mowa w pkt 1 i 2.
-” ;
+amunicję do broni, o której mowa w pkt 1 i 2. ” ;
 2)
-§ 3 otrzymuje brzmienie:
-„
+§ 3 otrzymuje brzmienie: „
 § 3.
 1.
 Funkcjonariuszowi przysługuje wyposażenie:
@@ -73,13 +69,11 @@ sprzęt:
 2)
 specjalne.
 2.
-Normy wyposażenia określa załącznik nr 2 do rozporządzenia.
-” ;
+Normy wyposażenia określa załącznik nr 2 do rozporządzenia. ” ;
 3)
 uchyla się § 4;
 4)
-w § 5 w ust. 2 pkt 1 otrzymuje brzmienie:
-„
+w § 5 w ust. 2 pkt 1 otrzymuje brzmienie: „
 1)
 pomieszczenia służbowe, w których przechowuje się indywidualnie lub zbiorowo broń, o której mowa w § 2 ust. 1 pkt 1 i 2, zwaną dalej „bronią”, i amunicję będącą w użytkowaniu funkcjonariuszy:
 a)
@@ -87,22 +81,19 @@ są zlokalizowane w budynkach murowanych będących pod stałą całodobową och
 b)
 posiadają drzwi wyposażone w co najmniej dwa zamki, w tym jeden atestowany, lub drzwi metalowe antywłamaniowe atestowane,
 c)
-w przypadku zlokalizowania ich na kondygnacji parterowej lub ostatniej – posiadają okna wyposażone w jedno z następujących zabezpieczeń: krata, siatka, żaluzja antywłamaniowa lub szyby o podwyższonej odporności na przebicie i rozbicie;
-” ;
+w przypadku zlokalizowania ich na kondygnacji parterowej lub ostatniej – posiadają okna wyposażone w jedno z następujących zabezpieczeń: krata, siatka, żaluzja antywłamaniowa lub szyby o podwyższonej odporności na przebicie i rozbicie; ” ;
 5)
 uchyla się § 11;
 6)
-§ 12 otrzymuje brzmienie:
-„
+§ 12 otrzymuje brzmienie: „
 § 12.
-W przypadku zwolnienia ze służby, zawieszenia w czynnościach służbowych, przeniesienia do służby w innej miejscowości, oddelegowania do wykonywania zadań służbowych poza Agencją Bezpieczeństwa Wewnętrznego albo na polecenie przełożonego, funkcjonariusz jest obowiązany do niezwłocznego zwrócenia do właściwej jednostki lub komórki organizacyjnej Agencji Bezpieczeństwa Wewnętrznego przyznanego mu uzbrojenia i wyposażenia, o których mowa w § 2 i § 3.
-” ;
+W przypadku zwolnienia ze służby, zawieszenia w czynnościach służbowych, przeniesienia do służby w innej miejscowości, oddelegowania do wykonywania zadań służbowych poza Agencją Bezpieczeństwa Wewnętrznego albo na polecenie przełożonego, funkcjonariusz jest obowiązany do niezwłocznego zwrócenia do właściwej jednostki lub komórki organizacyjnej Agencji Bezpieczeństwa Wewnętrznego przyznanego mu uzbrojenia i wyposażenia, o których mowa w § 2 i § 3. ” ;
 7)
 załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 8)
 załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455, Nr 117, poz. 677 i Nr 230, poz. 1371, z 2012 r. poz. 627 i 908 oraz z 2013 r. poz. 628, 675, 1247 i 1351.
 
 ## Załącznik nr 1 — – Normy uzbrojenia, które może być przyznane funkcjonariuszom
 

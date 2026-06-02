@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 9 sierpnia 2017 r. w sprawie zasad organizacji i udzielania pomocy psychologiczno-pedagogicznej w publicznych przedszkolach, szkołach i placówkach
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 9 sierpnia 2017 r. w sprawie zasad organizacji i udzielania pomocy psychologiczno-pedagogicznej w publicznych przedszkolach, szkołach i placówkach Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-09 |
 | Data wydania | 2017-08-25 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001591) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1591/text.pdf) |
 
@@ -250,8 +249,7 @@ W przypadku:
 1)
 szkoły podstawowej, branżowej szkoły I stopnia, liceum ogólnokształcącego i technikum,
 2)
-placówek, o których mowa w art. 2 pkt 4 ustawy
-zajęcia związane z wyborem kierunku kształcenia i zawodu uzupełniają działania szkoły i placówki w zakresie doradztwa zawodowego.
+placówek, o których mowa w art. 2 pkt 4 ustawy – zajęcia związane z wyborem kierunku kształcenia i zawodu uzupełniają działania szkoły i placówki w zakresie doradztwa zawodowego.
 § 19.
 Porady, konsultacje, warsztaty i szkolenia prowadzą nauczyciele, wychowawcy grup wychowawczych i specjaliści.
 § 20.
@@ -398,6 +396,5 @@ udzielaniu pomocy psychologiczno-pedagogicznej.
 § 28.
 Wsparcie merytoryczne dla nauczycieli, wychowawców grup wychowawczych i specjalistów udzielających pomocy psychologiczno-pedagogicznej w przedszkolu, szkole i placówce, na wniosek dyrektora przedszkola, szkoły i placówki, zapewniają poradnie oraz placówki doskonalenia nauczycieli.
 § 29.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r., z wyjątkiem § 18 pkt 2, który wchodzi w życie z dniem 1 września 2018 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r., z wyjątkiem § 18 pkt 2, który wchodzi w życie z dniem 1 września 2018 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 

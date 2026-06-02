@@ -22,21 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-03-13 |
 | Data wydania | 2015-03-19 |
-| Wejście w życie | 2015-03-20 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000381) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/381/text.pdf) |
 
 Treść rozporządzenia
-Załącznik – Wymagania Dobrej Praktyki Dystrybucyjnej dotyczące przedsiębiorców prowadzących obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, oraz pośredników w obrocie produktami leczniczymi Rozdział 1 – ZARZĄDZANIE JAKOŚCIĄ Rozdział 2 – PERSONEL Rozdział 3 – POMIESZCZENIA I SPRZĘT Rozdział 4 – DOKUMENTACJA Rozdział 5 – CZYNNOŚCI Rozdział 6 – REKLAMACJE, ZWROTY, PODEJRZENIA SFAŁSZOWANIA PRODUKTÓW LECZNICZYCH, WSTRZYMANIE I WYCOFANIE PRODUKTÓW LECZNICZYCH Rozdział 7 – DZIAŁANIA ZLECANE PODMIOTOM ZEWNĘTRZNYM Rozdział 8 – KONTROLE WEWNĘTRZNE Rozdział 9 – TRANSPORT Rozdział 10 – SZCZEGÓLNE WARUNKI DOTYCZĄCE POŚREDNIKÓW W OBROCIE PRODUKTAMI LECZNICZYMI
+Załącznik – Wymagania Dobrej Praktyki Dystrybucyjnej dotyczące przedsiębiorców prowadzących obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, oraz pośredników w obrocie produktami leczniczymi
 Treść rozporządzenia
-Na podstawie art. 79 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 79 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28 i 277.) zarządza się, co następuje:
 § 1.
 Wymagania Dobrej Praktyki Dystrybucyjnej dotyczące przedsiębiorców prowadzących obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, oraz pośredników w obrocie takimi produktami leczniczymi, określa załącznik do rozporządzenia.
 § 2.
 Przedsiębiorcy prowadzący w dniu wejścia w życie rozporządzenia obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, dostosują się do wymagań określonych w rozporządzeniu w terminie 12 miesięcy od dnia wejścia w życie rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 26 lipca 2002 r. w sprawie procedur Dobrej Praktyki Dystrybucyjnej (Dz. U. Nr 144, poz. 1216), które utraciło moc z dniem wejścia w życie ustawy z dnia 19 grudnia 2014 r. o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw (Dz. U. z 2015 r. poz. 28). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28 i 277. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 26 lipca 2002 r. w sprawie procedur Dobrej Praktyki Dystrybucyjnej (Dz. U. Nr 144, poz. 1216), które utraciło moc z dniem wejścia w życie ustawy z dnia 19 grudnia 2014 r. o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw (Dz. U. z 2015 r. poz. 28).
 Załącznik – Wymagania Dobrej Praktyki Dystrybucyjnej dotyczące przedsiębiorców prowadzących obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, oraz pośredników w obrocie produktami leczniczymi
+ZARZĄDZANIE JAKOŚCIĄ
 1.1
 Warunki ogólne Przedsiębiorcy prowadzący obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, zwani dalej „przedsiębiorcami”, stosują system jakości określający obowiązki, procesy i zasady zarządzania ryzykiem związane z ich działalnością. Działania podejmowane w zakresie dystrybucji są jasno zdefiniowane i podlegają systematycznemu przeglądowi. Należy udokumentować, a w uzasadnionych przypadkach zwalidować, kluczowe dla jakości produktów leczniczych etapy procesów dystrybucji i ich istotne zmiany. Za system jakości odpowiedzialne są osoby kierujące przedsiębiorstwem.
 1.2
@@ -95,6 +95,7 @@ zmiany otoczenia biznesowego i zmiany celów;
 wyniki przeglądu zarządczego systemu jakości są udokumentowane niezwłocznie po jego zakończeniu w postaci papierowej lub elektronicznej, a o wynikach przeglądu informuje się odpowiedni personel.
 1.5
 Zarządzanie ryzykiem w zakresie jakości Zarządzanie ryzykiem w zakresie jakości jest systematycznym procesem oceny, kontroli, wymiany informacji i przeglądu ryzyka związanego z jakością produktów leczniczych. Można go stosować zarówno prospektywnie, jak i retrospektywnie. Zarządzanie ryzykiem w zakresie jakości zapewnia, aby ocena ryzyka związanego z jakością była oparta na wiedzy naukowej, doświadczeniach w stosowaniu danego procesu, a także by ocena ta w ostatecznym wyniku była związana z ochroną pacjenta. Nakład pracy, stopień sformalizowania i zakres dokumentowania danego procesu jest współmierny do poziomu ryzyka.
+PERSONEL
 2.1
 Warunki ogólne Konieczne jest zatrudnienie wystarczającej liczby kompetentnego personelu do wykonania zadań związanych z obrotem produktami leczniczymi, za które odpowiedzialny jest przedsiębiorca. Personel przechodzi szkolenie wstępne, stanowiskowe oraz szkolenia przypominające wynikające z przeglądu ryzyka związanego z jakością produktów leczniczych. Szkolenia personelu podlegają udokumentowaniu. Zakres zadań poszczególnych pracowników jest jednoznacznie zdefiniowany, a ich realizacja jest rejestrowana.
 2.2
@@ -165,6 +166,7 @@ personel zajmujący się produktami leczniczymi, które ze względu na swoje wł
 odbycie szkolenia jest dokumentowane, a jego efektywność okresowo oceniana i dokumentowana.
 2.5
 Higiena Przedsiębiorca opracuje procedury w zakresie higieny personelu, odpowiednie do wykonywanych przez niego działań. Obejmują one kwestie zdrowia, higieny i odzieży. Przedsiębiorca kontroluje przestrzeganie tych procedur.
+POMIESZCZENIA I SPRZĘT
 3.1
 Warunki ogólne Przedsiębiorca dysponuje lokalem stanowiącym konstrukcyjnie samodzielną całość, składającym się co najmniej z pomieszczeń, o których mowa w pkt 3.2 ppkt 3, 8–10 i 18, objętych wydanym zezwoleniem na prowadzenie hurtowni farmaceutycznej. Pomieszczenia te są urządzone i wyposażone tak, aby zapewnić należyte przechowywanie i dystrybucję produktów leczniczych. Pomieszczenia utrzymuje się w czystości, są suche i utrzymują temperaturę mieszczącą się w granicach przewidzianych dla przechowywanych produktów leczniczych.
 3.2
@@ -281,6 +283,7 @@ przedsiębiorca sporządza raporty z walidacji i kwalifikacji, zawierające pods
 dokumentuje się odstępstwa od ustalonych procedur oraz podejmuje działania w celu usunięcia odstępstw i uniknięcia ich ponownego wystąpienia (działania naprawcze i zapobiegawcze);
 5)
 personel sporządza i zatwierdza dokumenty poświadczające wykonaną walidację i akceptację poszczególnych odstępstw od procesów lub sprzętu.
+DOKUMENTACJA
 4.1
 Warunki ogólne
 1)
@@ -335,6 +338,7 @@ j)
 nazwę i adres odbiorcy, jeżeli dotyczy;
 16)
 przeprowadzenie danej operacji jest na bieżąco ewidencjonowane.
+CZYNNOŚCI
 5.1
 Warunki ogólne
 1)
@@ -421,6 +425,7 @@ Eksport do państw trzecich
 przedsiębiorca wprowadza środki zapobiegające wprowadzeniu do obrotu na teren państw Unii Europejskiej produktów leczniczych przeznaczonych wyłącznie na eksport, które nie posiadają pozwolenia na dopuszczenie do obrotu na terenie Unii Europejskiej;
 2)
 przedsiębiorcy dostarczają produkty lecznicze podmiotom w państwach trzecich, zapewniając, aby takie dostawy trafiały wyłącznie do podmiotów posiadających zezwolenie lub uprawnienie do otrzymywania produktów leczniczych do dystrybucji hurtowej lub do dostaw dla ludności zgodnie z właściwymi przepisami prawnymi i administracyjnymi w tych państwach.
+REKLAMACJE, ZWROTY, PODEJRZENIA SFAŁSZOWANIA PRODUKTÓW LECZNICZYCH, WSTRZYMANIE I WYCOFANIE PRODUKTÓW LECZNICZYCH
 6.1
 Warunki ogólne
 1)
@@ -499,6 +504,7 @@ czynności związane z wycofaniem lub wstrzymaniem produktu leczniczego są ewid
 osoby odpowiedzialne za wycofanie lub wstrzymanie produktu leczniczego mają łatwy i bezpośredni dostęp do dokumentacji dotyczącej dystrybucji, zawierającej pełne informacje o dostawcach i odbiorcach, którym bezpośrednio dostarczono ten produkt (wraz z adresami, numerami telefonu lub faksu w godzinach pracy i poza nimi, numerami serii, datami ważności, oraz informacje o dostarczonych ilościach), w tym informacje dotyczące wywiezionych produktów i próbek produktów leczniczych;
 6)
 przebieg procesu wycofania lub wstrzymania produktu leczniczego jest dokumentowany w celu sporządzenia końcowego raportu.
+DZIAŁANIA ZLECANE PODMIOTOM ZEWNĘTRZNYM
 7.1
 Warunki ogólne Czynności objęte GDP zleca się w formie pisemnej umowy. Umowa określa procedury kontroli dotyczące zleconych czynności. Jeżeli zlecenie dotyczy czynności z zakresu obrotu hurtowego, zleceniobiorca posiada zezwolenie na prowadzenie hurtowni farmaceutycznej.
 7.2
@@ -525,6 +531,7 @@ zleceniobiorca umożliwia przeprowadzanie audytów w każdym czasie, w tym u str
 zleceniobiorca powstrzyma się od jakichkolwiek działań, które mogą mieć niekorzystny wpływ na jakość produktów leczniczych, którymi zajmuje się na zlecenie zleceniodawcy;
 6)
 zleceniobiorca przekazuje zleceniodawcy informacje, które mogą wpływać na jakość produktów leczniczych, zgodnie z wymogami umowy.
+KONTROLE WEWNĘTRZNE
 8.1
 Warunki ogólne Przedsiębiorca prowadzi kontrole wewnętrzne, których celem jest monitorowanie wdrażania i przestrzegania GDP, oraz proponuje niezbędne środki naprawcze i zapobiegawcze.
 8.2
@@ -543,6 +550,7 @@ sprawozdania pokontrolne zawierają wszelkie spostrzeżenia;
 egzemplarz sprawozdania pokontrolnego przekazywany jest kierownictwu i innym odpowiednim osobom;
 7)
 w razie odnotowania nieprawidłowości lub niedociągnięć należy ustalić ich przyczynę, podjąć działania naprawcze i zapobiegawcze, a także udokumentować podjęte działania i kontynuować działania naprawcze i zapobiegawcze.
+TRANSPORT
 9.1
 Warunki ogólne
 1)
@@ -615,6 +623,7 @@ przedsiębiorca wprowadzi system kontroli ponownego wykorzystania wkładów chł
 przedsiębiorca odpowiednio fizycznie oddzieli zamrożone i schłodzone wkłady chłodzące;
 10)
 przedsiębiorca w pisemnej procedurze określi proces dostawy wrażliwych produktów leczniczych oraz kontrolę sezonowych wahań temperatury.
+SZCZEGÓLNE WARUNKI DOTYCZĄCE POŚREDNIKÓW W OBROCIE PRODUKTAMI LECZNICZYMI
 10.1
 System jakości pośrednika w obrocie produktami leczniczymi, zwanego dalej „pośrednikiem”:
 1)
@@ -642,23 +651,43 @@ kwalifikacji uprawnień podmiotów prowadzących obrót produktami leczniczymi;
 2)
 pośrednik prowadzi, w postaci pisemnej lub elektronicznej, ewidencję transakcji kupna lub sprzedaży, o której mowa w art. 73e pkt 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
 
-#### Rozdział 1 ZARZĄDZANIE JAKOŚCIĄ
+#### Rozdział 1 – ZARZĄDZANIE JAKOŚCIĄ
 
-#### Rozdział 2 PERSONEL
+#### Rozdział 2 – PERSONEL
 
-#### Rozdział 3 POMIESZCZENIA I SPRZĘT
+#### Rozdział 3 – POMIESZCZENIA I SPRZĘT
 
-#### Rozdział 4 DOKUMENTACJA
+#### Rozdział 4 – DOKUMENTACJA
 
-#### Rozdział 5 CZYNNOŚCI
+#### Rozdział 5 – CZYNNOŚCI
 
-#### Rozdział 6 REKLAMACJE, ZWROTY, PODEJRZENIA SFAŁSZOWANIA PRODUKTÓW LECZNICZYCH, WSTRZYMANIE I WYCOFANIE PRODUKTÓW LECZNICZYCH
+#### Rozdział 6 – REKLAMACJE, ZWROTY, PODEJRZENIA SFAŁSZOWANIA PRODUKTÓW LECZNICZYCH, WSTRZYMANIE I WYCOFANIE PRODUKTÓW LECZNICZYCH
 
-#### Rozdział 7 DZIAŁANIA ZLECANE PODMIOTOM ZEWNĘTRZNYM
+#### Rozdział 7 – DZIAŁANIA ZLECANE PODMIOTOM ZEWNĘTRZNYM
 
-#### Rozdział 8 KONTROLE WEWNĘTRZNE
+#### Rozdział 8 – KONTROLE WEWNĘTRZNE
 
-#### Rozdział 9 TRANSPORT
+#### Rozdział 9 – TRANSPORT
 
-#### Rozdział 10 SZCZEGÓLNE WARUNKI DOTYCZĄCE POŚREDNIKÓW W OBROCIE PRODUKTAMI LECZNICZYMI
+#### Rozdział 10 – SZCZEGÓLNE WARUNKI DOTYCZĄCE POŚREDNIKÓW W OBROCIE PRODUKTAMI LECZNICZYMI
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
 

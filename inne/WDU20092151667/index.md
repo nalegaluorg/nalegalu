@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-12-02 |
 | Data wydania | 2009-12-18 |
-| Wejście w życie | 2010-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092151667) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1667/text.pdf) |
 

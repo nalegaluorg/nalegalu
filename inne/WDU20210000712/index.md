@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 16 kwietnia 2021 r. w sprawie programu pilotażowego w zakresie wykorzystania elektronicznych stetoskopów w podstawowej opiece zdrowotnej
+# Rozporządzenie Ministra Zdrowiaz dnia 16 kwietnia 2021 r. w sprawie programu pilotażowego w zakresie wykorzystania elektronicznych stetoskopów w podstawowej opiece zdrowotnej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-16 |
 | Data wydania | 2021-04-16 |
-| Wejście w życie | 2021-04-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000712) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/712/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97, 159 i 694.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa program pilotażowy w zakresie wykorzystania elektronicznych stetoskopów w podstawowej opiece zdrowotnej, zwany dalej „programem pilotażowym”.
 § 2.
@@ -135,6 +134,5 @@ Ocena wyników programu pilotażowego jest dokonywana przez ministra właściweg
 § 14.
 Podmiotem obowiązanym do wdrożenia, finansowania, monitorowania i ewaluacji programu pilotażowego jest minister właściwy do spraw zdrowia.
 § 15.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97, 159 i 694.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97, 159 i 694.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-03-23 |
 | Data wydania | 2012-03-28 |
-| Wejście w życie | 2012-04-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000341) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/341/text.pdf) |
 
@@ -48,5 +47,5 @@ Ustala się następujące współczynniki różnicujące wysokość opłaty reje
 2.
 Za zatrudnienie, o którym mowa w ust. 1 pkt 2–7, przyjmuje się średnie zatrudnienie w ostatnim kwartale przed złożeniem wniosku o rejestrację.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 23 kwietnia 2004 r. w sprawie współczynników różnicujących wysokość opłaty rejestracyjnej w krajowym systemie ekozarządzania i audytu (EMAS) (Dz. U. Nr 94, poz. 932), które zgodnie z art. 16 ustawy z dnia 15 lipca 2011 r. o krajowym systemie ekozarządzania i audytu (EMAS) (Dz. U. Nr 178, poz. 1060) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 23 kwietnia 2004 r. w sprawie współczynników różnicujących wysokość opłaty rejestracyjnej w krajowym systemie ekozarządzania i audytu (EMAS) (Dz. U. Nr 94, poz. 932), które zgodnie z art. 16 ustawy z dnia 15 lipca 2011 r. o krajowym systemie ekozarządzania i audytu (EMAS) (Dz. U. Nr 178, poz. 1060) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

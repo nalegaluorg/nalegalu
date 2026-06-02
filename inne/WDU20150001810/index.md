@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-23 |
 | Data wydania | 2015-11-05 |
-| Wejście w życie | 2015-11-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001810) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1810/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 378, 1130, 1240 i 1767.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom w ramach Programu Operacyjnego Infrastruktura i Środowisko 2014–2020 pomocy publicznej, zwanej dalej „pomocą”, na projekty inwestycyjne w zakresie budowy lub przebudowy jednostek kogeneracji zapewniających wysokosprawną kogenerację, zwane dalej „projektami inwestycyjnymi”, a także podmioty udzielające tej pomocy.
 § 2.
@@ -81,7 +80,7 @@ sprzęt i wyposażenie;
 6)
 wartości niematerialne i prawne;
 7)
-podatek od towarów i usług, jeżeli przedsiębiorca nie ma możliwości obniżenia kwoty podatku należnego o kwotę podatku naliczonego, w rozumieniu przepisów ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.);
+podatek od towarów i usług, jeżeli przedsiębiorca nie ma możliwości obniżenia kwoty podatku należnego o kwotę podatku naliczonego, w rozumieniu przepisów ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35, 1027 i 1608, z 2014 r. poz. 312, 1171 i 1662 oraz z 2015 r. poz. 211, 605, 978, 1223 i 1649.);
 8)
 inne opłaty i obciążenia bezpośrednio związane z realizacją projektu inwestycyjnego, z wyłączeniem kosztów poniesionych na działania informacyjne i promocyjne.
 5.
@@ -113,7 +112,7 @@ informacje wskazane w art. 6 ust. 2 zdanie drugie rozporządzenia nr 651/2014;
 2)
 inne informacje i dokumenty niezbędne do dokonania oceny wniosku, wskazane przez podmiot udzielający pomocy w dokumentach dotyczących naboru.
 4.
-Do wniosku przedsiębiorca załącza dokumenty przygotowane zgodnie z przepisami wydanymi na podstawie art. 37 ust. 6 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.).
+Do wniosku przedsiębiorca załącza dokumenty przygotowane zgodnie z przepisami wydanymi na podstawie art. 37 ust. 6 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.).
 5.
 Po przeprowadzeniu oceny wniosku pomoc może zostać udzielona przedsiębiorcy na podstawie umowy o dofinansowanie projektu.
 6.
@@ -121,5 +120,5 @@ Podmiot udzielający pomocy informuje pisemnie przedsiębiorcę o braku obowiąz
 § 14.
 Pomoc jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4, w związku z art. 59 rozporządzenia nr 651/2014.
 § 15.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 378, 1130, 1240 i 1767. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35, 1027 i 1608, z 2014 r. poz. 312, 1171 i 1662 oraz z 2015 r. poz. 211, 605, 978, 1223 i 1649. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.
 

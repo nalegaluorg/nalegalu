@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-31 |
 | Data wydania | 2017-08-22 |
-| Wejście w życie | 2017-10-01 |
 | Ostatnia zmiana | 2024-10-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001561) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1561/text.pdf) |
 
@@ -211,8 +210,7 @@ imię ojca,
 6)
 imię matki,
 7)
-datę urodzenia
-osoby wyszukiwanej.
+datę urodzenia – osoby wyszukiwanej.
 § 15.
 Osoba, o której mowa w art. 12 pkt 8 ustawy, wskazuje w pytaniu do systemu dane personalne, o których mowa w § 14.
 § 16.

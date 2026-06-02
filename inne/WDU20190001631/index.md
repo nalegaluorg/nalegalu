@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-19 |
 | Data wydania | 2019-08-28 |
-| Wejście w życie | 2019-09-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001631) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1631/text.pdf) |
 
 **Art. 1.**
 
-1. Ustawa określa szczególne uprawnienia osób poszkodowanych z tytułu szkód powstałych na terytorium Rzeczypospolitej Polskiej w przypadku wyczerpania sumy gwarancyjnej ustalonej w umowach ubezpieczenia, o których mowa w art. 4 pkt 1 i 3 ustawy z dnia 28 lipca 1990 r. o działalności ubezpieczeniowej (Dz. U. z 1996 r. poz. 62, z późn. zm.), oraz ustalonej w umowach ubezpieczenia, o których mowa w art. 4 pkt 1 i 2 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2018 r. poz. 473 i 2448 oraz z 2019 r. poz. 125 i 730), zawartych przed dniem 1 stycznia 2006 r., zwanych dalej „poszkodowanymi”.
+1. Ustawa określa szczególne uprawnienia osób poszkodowanych z tytułu szkód powstałych na terytorium Rzeczypospolitej Polskiej w przypadku wyczerpania sumy gwarancyjnej ustalonej w umowach ubezpieczenia, o których mowa w art. 4 pkt 1 i 3 ustawy z dnia 28 lipca 1990 r. o działalności ubezpieczeniowej (Dz. U. z 1996 r. poz. 62, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 272, 554, 685, 769, 770 i 934, z 1998 r. poz. 1015, z 1999 r. poz. 483, 1178 i 1255, z 2000 r. poz. 483, 552, 819, 1193 i 1216, z 2001 r. poz. 424, 961, 1084 i 1189, z 2002 r. poz. 253 i 365 oraz z 2003 r. poz. 424 i 535.), oraz ustalonej w umowach ubezpieczenia, o których mowa w art. 4 pkt 1 i 2 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2018 r. poz. 473 i 2448 oraz z 2019 r. poz. 125 i 730), zawartych przed dniem 1 stycznia 2006 r., zwanych dalej „poszkodowanymi”.
 
 2. Przepisy ustawy stosuje się odpowiednio również do poszkodowanych w przypadkach określonych w art. 51 ust. 2 pkt 1 i 2 ustawy z dnia 28 lipca 1990 r. o działalności ubezpieczeniowej, jeżeli zdarzenie, z którego wynikła szkoda, miało miejsce przed dniem 1 stycznia 2004 r., oraz do poszkodowanych w przypadkach, o których mowa w art. 98 ust. 1 pkt 1 lub 3 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, jeżeli zdarzenie, z którego wynikła szkoda, miało miejsce przed dniem 1 stycznia 2006 r.
 
@@ -56,5 +55,5 @@ source: "eli-html"
 
 **Art. 7.** W przypadku gdy po dniu wejścia w życie ustawy poszkodowany zgłosi do zakładu ubezpieczeń roszczenie o wypłatę renty na podstawie art. 444 § 2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, a łączna kwota wypłaconych świadczeń z umowy ubezpieczenia, o której mowa w art. 1 ust. 1, przekroczyła przed dniem wejścia w życie ustawy sumę gwarancyjną określoną w tej umowie i zakład ubezpieczeń nie jest zobowiązany do wypłaty renty, zakład ten przekazuje zgłoszenie roszczenia o wypłatę renty Funduszowi wraz z aktami sprawy i powiadamia o tym poszkodowanego. Przepis art. 4 ust. 2 stosuje się odpowiednio.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 272, 554, 685, 769, 770 i 934, z 1998 r. poz. 1015, z 1999 r. poz. 483, 1178 i 1255, z 2000 r. poz. 483, 552, 819, 1193 i 1216, z 2001 r. poz. 424, 961, 1084 i 1189, z 2002 r. poz. 253 i 365 oraz z 2003 r. poz. 424 i 535.
 

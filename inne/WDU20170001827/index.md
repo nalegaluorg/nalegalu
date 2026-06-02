@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 22 września 2017 r. w sprawie sposobu prowadzenia dokumentacji przebiegu służby funkcjonariusza Służby Celno-Skarbowej
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 22 września 2017 r. w sprawie sposobu prowadzenia dokumentacji przebiegu służby funkcjonariusza Służby Celno-Skarbowej Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-22 |
 | Data wydania | 2017-10-03 |
-| Wejście w życie | 2017-10-18 |
 | Ostatnia zmiana | 2026-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001827) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1827/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 160 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 160 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086 i 1321.) zarządza się, co następuje:
 § 1.
 Akta osobowe funkcjonariusza Służby Celno-Skarbowej, zwane dalej „aktami”, składają się z części A, B i C.
 § 2.
@@ -116,6 +115,5 @@ Kierownik jednostki organizacyjnej może żądać od funkcjonariusza oryginałó
 § 7.
 Akta prowadzone na podstawie dotychczasowych przepisów zostaną dostosowane do przepisów niniejszego rozporządzenia w terminie 6 miesięcy od dnia jego wejścia w życie.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086 i 1321. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 13 października 2010 r. w sprawie sposobu prowadzenia dokumentacji przebiegu służby funkcjonariusza Służby Celno-Skarbowej (Dz. U. poz. 1311 oraz z 2017 r. poz. 742), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379 i 1537).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 13 października 2010 r. w sprawie sposobu prowadzenia dokumentacji przebiegu służby funkcjonariusza Służby Celno-Skarbowej (Dz. U. poz. 1311 oraz z 2017 r. poz. 742), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379 i 1537). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086 i 1321. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 13 października 2010 r. w sprawie sposobu prowadzenia dokumentacji przebiegu służby funkcjonariusza Służby Celno-Skarbowej (Dz. U. poz. 1311 oraz z 2017 r. poz. 742), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379 i 1537).
 

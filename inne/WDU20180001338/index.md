@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 czerwca 2018 r. o zmianie ustawy o systemach oceny zgodności i nadzoru rynku oraz niektórych innych ustaw
+# Ustawa z dnia 15 czerwca 2018 r. o zmianie ustawy o systemach oceny zgodności i nadzoru rynku oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, ustawę z dnia 11 maja 2001 r. – Prawo o miarach, ustawę z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego, ustawę z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, ustawę z dnia 28 marca 2003 r. o transporcie kolejowym, ustawę z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy oraz ustawę z dnia 2 grudnia 2016 r. o wyposażeniu morskim.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-15 |
 | Data wydania | 2018-07-11 |
-| Wejście w życie | 2018-07-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001338) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1338/text.pdf) |
 
@@ -34,7 +33,7 @@ source: "eli-html"
 - **3)** rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/426 z dnia 9 marca 2016 r. w sprawie urządzeń spalających paliwa gazowe oraz uchylenia dyrektywy 2009/142/WE (Dz. Urz. UE L 81 z 31.03.2016, str. 99). ” ;
 - **2)** w art. 1 dodaje się ust. 8–10 w brzmieniu: „
 
-8. Do urządzeń kolei linowych, modyfikacji urządzeń kolei linowych wymagających nowego zezwolenia oraz do podsystemów i elementów bezpieczeństwa, wobec których stosuje się przepisy rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/424 z dnia 9 marca 2016 r. w sprawie urządzeń kolei linowych i uchylenia dyrektywy 2000/9/WE (Dz. Urz. UE L 81 z 31.03.2016, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem (UE) 2016/424”, nie stosuje się ustawy, z wyjątkiem przepisów art. 2, art. 4 pkt 1, 3–5, 7, 12, 13, 14, 28 i 29, art. 4a, art. 4d, art. 8 ust. 3, art. 10 ust. 3 i 4, art. 11 ust. 2, art. 22–27, art. 28 ust. 3, art. 29 ust. 1 i 3–5, art. 35, art. 36, rozdziału 7, art. 88 ust. 2 pkt 1 i ust. 3 pkt 1, art. 89 ust. 2 pkt 1, ust. 3 pkt 1 i ust. 4 pkt 1, art. 89a ust. 2 pkt 1, art. 90 ust. 3 pkt 1, art. 91 ust. 2 pkt 1, art. 92 ust. 2 pkt 1, art. 93 ust. 2 pkt 1, art. 94 ust. 2 pkt 1, art. 95–98 oraz przepisów wydanych na podstawie art. 8 ust. 4.
+8. Do urządzeń kolei linowych, modyfikacji urządzeń kolei linowych wymagających nowego zezwolenia oraz do podsystemów i elementów bezpieczeństwa, wobec których stosuje się przepisy rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/424 z dnia 9 marca 2016 r. w sprawie urządzeń kolei linowych i uchylenia dyrektywy 2000/9/WE (Dz. Urz. UE L 81 z 31.03.2016, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 266 z 30.09.2016, str. 8.), zwanego dalej „rozporządzeniem (UE) 2016/424”, nie stosuje się ustawy, z wyjątkiem przepisów art. 2, art. 4 pkt 1, 3–5, 7, 12, 13, 14, 28 i 29, art. 4a, art. 4d, art. 8 ust. 3, art. 10 ust. 3 i 4, art. 11 ust. 2, art. 22–27, art. 28 ust. 3, art. 29 ust. 1 i 3–5, art. 35, art. 36, rozdziału 7, art. 88 ust. 2 pkt 1 i ust. 3 pkt 1, art. 89 ust. 2 pkt 1, ust. 3 pkt 1 i ust. 4 pkt 1, art. 89a ust. 2 pkt 1, art. 90 ust. 3 pkt 1, art. 91 ust. 2 pkt 1, art. 92 ust. 2 pkt 1, art. 93 ust. 2 pkt 1, art. 94 ust. 2 pkt 1, art. 95–98 oraz przepisów wydanych na podstawie art. 8 ust. 4.
 
 9. Do środków ochrony indywidualnej, wobec których stosuje się przepisy rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/425 z dnia 9 marca 2016 r. w sprawie środków ochrony indywidualnej oraz uchylenia dyrektywy Rady 89/686/EWG (Dz. Urz. UE L 81 z 31.03.2016, str. 51), zwanego dalej „rozporządzeniem (UE) 2016/425”, nie stosuje się ustawy, z wyjątkiem przepisów:
 
@@ -61,7 +60,7 @@ source: "eli-html"
 - **14)** notyfikacji – należy przez to rozumieć zgłoszenie Komisji Europejskiej i państwom członkowskim Unii Europejskiej autoryzowanych jednostek oceniających zgodność; ” , po pkt 25 dodaje się pkt 25a w brzmieniu: „
     - **e)**
 
-- **25a)** uznanej organizacji strony trzeciej – należy przez to rozumieć jednostkę oceniającą zgodność, autoryzowaną do: uprawniania personelu, gdy zgodnie z wymaganiami dla wytwarzania urządzeń ciśnieniowych personel powinien posiadać uprawnienia do przeprowadzania badań nieniszczących połączeń, których nie można rozdzielić inaczej niż metodami niszczącymi, lub uprawniania personelu lub zatwierdzania instrukcji technologicznych, gdy zgodnie z wymaganiami dla wytwarzania urządzeń ciśnieniowych personel powinien posiadać uprawnienia do wykonywania połączeń elementów składowych obciążonych działaniem ciśnienia oraz elementów bezpośrednio do nich przyłączonych, a połączeń tych nie można rozdzielić inaczej niż metodami niszczącymi notyfikowaną zgodnie z art. 29; ” ;
+- **25a)** uznanej organizacji strony trzeciej – należy przez to rozumieć jednostkę oceniającą zgodność, autoryzowaną do: uprawniania personelu, gdy zgodnie z wymaganiami dla wytwarzania urządzeń ciśnieniowych personel powinien posiadać uprawnienia do przeprowadzania badań nieniszczących połączeń, których nie można rozdzielić inaczej niż metodami niszczącymi, lub uprawniania personelu lub zatwierdzania instrukcji technologicznych, gdy zgodnie z wymaganiami dla wytwarzania urządzeń ciśnieniowych personel powinien posiadać uprawnienia do wykonywania połączeń elementów składowych obciążonych działaniem ciśnienia oraz elementów bezpośrednio do nich przyłączonych, a połączeń tych nie można rozdzielić inaczej niż metodami niszczącymi – notyfikowaną zgodnie z art. 29; ” ;
     - **a)**
     - **b)**
 
@@ -256,7 +255,7 @@ source: "eli-html"
 - **3)** zaprzestania udostępniania wyrobu,
 - **4)** odzyskania wyrobu,
 - **5)** zniszczenia wyrobu lub
-- **6)** powiadomienia konsumentów lub innych użytkowników o stwierdzonych niezgodnościach z wymaganiami, określając termin i sposób powiadomienia wyznaczając termin na przedstawienie dowodów potwierdzających wykonanie tego postanowienia.
+- **6)** powiadomienia konsumentów lub innych użytkowników o stwierdzonych niezgodnościach z wymaganiami, określając termin i sposób powiadomienia – wyznaczając termin na przedstawienie dowodów potwierdzających wykonanie tego postanowienia.
 
 2. Środki, o których mowa w ust. 1, stosuje się w zależności od rodzaju stwierdzonych niezgodności wyrobu z wymaganiami, rodzaju niezgodności formalnych lub stopnia zagrożenia powodowanego przez wyrób, mając na celu w szczególności usunięcie istniejącego zagrożenia dla życia i zdrowia użytkowników wyrobu, a także zagrożenia dla mienia, środowiska oraz interesu publicznego. ” ;
 
@@ -304,32 +303,32 @@ source: "eli-html"
 
 - **1)** art. 11 ust. 1 rozporządzenia (UE) 2016/424 lub
 - **2)** art. 8 ust. 1 rozporządzenia (UE) 2016/425, lub
-- **3)** art. 7 ust. 1 rozporządzenia (UE) 2016/426 podlega karze pieniężnej w wysokości do 100 000 zł.
+- **3)** art. 7 ust. 1 rozporządzenia (UE) 2016/426 – podlega karze pieniężnej w wysokości do 100 000 zł.
 
 3. Importer, który nie wypełnia obowiązków określonych w przepisach:
 
 - **1)** art. 13 ust. 1 rozporządzenia (UE) 2016/424 lub
 - **2)** art. 10 ust. 1 rozporządzenia (UE) 2016/425, lub
-- **3)** art. 9 ust. 1 rozporządzenia (UE) 2016/426 podlega karze pieniężnej w wysokości do 100 000 zł. ” ;
+- **3)** art. 9 ust. 1 rozporządzenia (UE) 2016/426 – podlega karze pieniężnej w wysokości do 100 000 zł. ” ;
 - **34)** w art. 89 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2–4 w brzmieniu: „
 
 2. Producent, który nie wypełnia obowiązku umieszczenia oznakowania CE, określonego w przepisach:
 
 - **1)** art. 11 ust. 2 rozporządzenia (UE) 2016/424 lub
 - **2)** art. 8 ust. 2 rozporządzenia (UE) 2016/425, lub
-- **3)** art. 7 ust. 2 rozporządzenia (UE) 2016/426 podlega karze pieniężnej w wysokości do 20 000 zł.
+- **3)** art. 7 ust. 2 rozporządzenia (UE) 2016/426 – podlega karze pieniężnej w wysokości do 20 000 zł.
 
 3. Importer, który nie wypełnia obowiązku zapewnienia umieszczenia oznakowania CE, określonego w przepisach:
 
 - **1)** art. 13 ust. 2 rozporządzenia (UE) 2016/424 lub
 - **2)** art. 10 ust. 2 rozporządzenia (UE) 2016/425, lub
-- **3)** art. 9 ust. 2 rozporządzenia (UE) 2016/426 podlega karze pieniężnej w wysokości do 20 000 zł.
+- **3)** art. 9 ust. 2 rozporządzenia (UE) 2016/426 – podlega karze pieniężnej w wysokości do 20 000 zł.
 
 4. Dystrybutor, który nie wypełnia obowiązku sprawdzenia oznakowania CE, określonego w przepisach:
 
 - **1)** art. 14 ust. 2 rozporządzenia (UE) 2016/424 lub
 - **2)** art. 11 ust. 2 rozporządzenia (UE) 2016/425, lub
-- **3)** art. 10 ust. 2 rozporządzenia (UE) 2016/426 podlega karze pieniężnej w wysokości do 20 000 zł. ” ;
+- **3)** art. 10 ust. 2 rozporządzenia (UE) 2016/426 – podlega karze pieniężnej w wysokości do 20 000 zł. ” ;
 - **35)** po art. 89 dodaje się art. 89a w brzmieniu: „
 
 **Art. 89a.**
@@ -337,13 +336,13 @@ source: "eli-html"
 1. Dystrybutor, który udostępnia na rynku wyrób i nie dopełnia obowiązków w zakresie sprawdzenia:
 
 - **1)** umieszczenia na wyrobie, a gdy jest to wymagane – na opakowaniu, w załączonym dokumencie lub na etykiecie, informacji umożliwiających identyfikację wyrobu,
-- **2)** dołączenia do wyrobu instrukcji, informacji, w tym dotyczących bezpieczeństwa użytkowania oraz, jeżeli jest to wymagane, kopii deklaracji zgodności i etykiety, sporządzonych w języku polskim w sposób jasny, zrozumiały i czytelny podlega karze pieniężnej w wysokości do 10 000 zł.
+- **2)** dołączenia do wyrobu instrukcji, informacji, w tym dotyczących bezpieczeństwa użytkowania oraz, jeżeli jest to wymagane, kopii deklaracji zgodności i etykiety, sporządzonych w języku polskim w sposób jasny, zrozumiały i czytelny – podlega karze pieniężnej w wysokości do 10 000 zł.
 
 2. Dystrybutor, który nie wypełnia obowiązków sprawdzenia, z wyłączeniem obowiązku sprawdzenia oznakowania CE, określonych w przepisach:
 
 - **1)** art. 14 ust. 2 akapit pierwszy rozporządzenia (UE) 2016/424, z wyłączeniem obowiązku sprawdzenia wymagań wskazanych w art. 11 ust. 6 i art. 13 ust. 3 tego rozporządzenia, lub
 - **2)** art. 11 ust. 2 akapit pierwszy rozporządzenia (UE) 2016/425, z wyłączeniem obowiązku sprawdzenia wymagań wskazanych w art. 8 ust. 6 i art. 10 ust. 3 tego rozporządzenia, lub
-- **3)** art. 10 ust. 2 akapit pierwszy lub drugi rozporządzenia (UE) 2016/426, z wyłączeniem obowiązku sprawdzenia wymagań wskazanych w art. 7 ust. 6 i art. 9 ust. 3 tego rozporządzenia podlega karze pieniężnej w wysokości do 10 000 zł. ” ;
+- **3)** art. 10 ust. 2 akapit pierwszy lub drugi rozporządzenia (UE) 2016/426, z wyłączeniem obowiązku sprawdzenia wymagań wskazanych w art. 7 ust. 6 i art. 9 ust. 3 tego rozporządzenia – podlega karze pieniężnej w wysokości do 10 000 zł. ” ;
 - **36)** w art. 90: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Producent albo instalator wyrobu wprowadzonego do obrotu lub oddanego do użytku, który nie dopełnia obowiązków w zakresie dołączania do wyrobu, sporządzonych w jasnej, zrozumiałej i czytelnej formie, w języku polskim, zgodnie z wymaganiami: ” , w ust. 2 pkt 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
@@ -355,7 +354,7 @@ source: "eli-html"
 
 - **1)** art. 11 ust. 5–7 rozporządzenia (UE) 2016/424 lub
 - **2)** art. 8 ust. 5–8 rozporządzenia (UE) 2016/425, lub
-- **3)** art. 7 ust. 5–7 rozporządzenia (UE) 2016/426 podlega karze pieniężnej w wysokości do 10 000 zł. ” ;
+- **3)** art. 7 ust. 5–7 rozporządzenia (UE) 2016/426 – podlega karze pieniężnej w wysokości do 10 000 zł. ” ;
 - **37)** art. 91 otrzymuje brzmienie: „
 
 **Art. 91.**
@@ -369,13 +368,13 @@ source: "eli-html"
 
 - **2)** zapewnienia dołączenia do wyrobu informacji umożliwiających identyfikację wyrobu, sporządzonych zgodnie z wymaganiami lub
 - **3)** umieszczenia na wyrobie informacji umożliwiających jego identyfikację, sporządzonych w języku polskim lub
-- **4)** zapewnienia dołączenia do wyrobu, w stosownych przypadkach, kopii deklaracji zgodności lub innych dokumentów podlega karze pieniężnej w wysokości do 10 000 zł.
+- **4)** zapewnienia dołączenia do wyrobu, w stosownych przypadkach, kopii deklaracji zgodności lub innych dokumentów – podlega karze pieniężnej w wysokości do 10 000 zł.
 
 2. Importer, który nie wypełnia obowiązków, z wyłączeniem obowiązku zapewnienia umieszczenia oznakowania CE, określonych w przepisach:
 
 - **1)** art. 13 ust. 2 akapit pierwszy lub ust. 3, lub 4 rozporządzenia (UE) 2016/424 lub
 - **2)** art. 10 ust. 2 akapit pierwszy lub ust. 3, lub 4 rozporządzenia (UE) 2016/425, lub
-- **3)** art. 9 ust. 2 akapit pierwszy lub drugi, lub ust. 3, lub 4 rozporządzenia (UE) 2016/426 podlega karze pieniężnej w wysokości do 10 000 zł. ” ;
+- **3)** art. 9 ust. 2 akapit pierwszy lub drugi, lub ust. 3, lub 4 rozporządzenia (UE) 2016/426 – podlega karze pieniężnej w wysokości do 10 000 zł. ” ;
 - **38)** art. 92–94 otrzymują brzmienie: „
 
 **Art. 92.**
@@ -384,39 +383,39 @@ source: "eli-html"
 
 - **1)** sporządzania dokumentacji technicznej wyrobu lub deklaracji zgodności, zgodnie z wymaganiami lub
 - **2)** przechowywania dokumentacji technicznej wyrobu lub deklaracji zgodności lub dokumentacji niezbędnej do wykazania zgodności wyrobu z wymaganiami, lub
-- **3)** udzielenia organowi nadzoru rynku informacji lub udostępnienia dokumentacji w języku polskim, w celu wykazania zgodności wyrobu z wymaganiami podlega karze pieniężnej w wysokości do 10 000 złotych.
+- **3)** udzielenia organowi nadzoru rynku informacji lub udostępnienia dokumentacji w języku polskim, w celu wykazania zgodności wyrobu z wymaganiami – podlega karze pieniężnej w wysokości do 10 000 złotych.
 
 2. Producent, który nie wypełnia obowiązków, z wyłączeniem obowiązku zapewnienia umieszczenia oznakowania CE, określonych w przepisach:
 
 - **1)** art. 11 ust. 2 lub 3, lub 9 rozporządzenia (UE) 2016/424 lub
 - **2)** art. 8 ust. 2 lub 3, lub 10 rozporządzenia (UE) 2016/425, lub
-- **3)** art. 7 ust. 2 lub 3, lub 9 rozporządzenia (UE) 2016/426 podlega karze pieniężnej w wysokości do 10 000 zł.
+- **3)** art. 7 ust. 2 lub 3, lub 9 rozporządzenia (UE) 2016/426 – podlega karze pieniężnej w wysokości do 10 000 zł.
 
 **Art. 93.**
 
 1. Importer, który nie dopełnia obowiązków w zakresie:
 
 - **1)** przechowywania kopii deklaracji zgodności lub zapewnienia udostępniania dokumentacji technicznej lub
-- **2)** udzielenia organowi nadzoru rynku informacji lub udostępnienia dokumentacji w języku polskim, w celu wykazania zgodności wyrobu z wymaganiami podlega karze pieniężnej w wysokości do 10 000 zł.
+- **2)** udzielenia organowi nadzoru rynku informacji lub udostępnienia dokumentacji w języku polskim, w celu wykazania zgodności wyrobu z wymaganiami – podlega karze pieniężnej w wysokości do 10 000 zł.
 
 2. Importer, który nie wypełnia obowiązków określonych w przepisach:
 
 - **1)** art. 13 ust. 8 i 9 rozporządzenia (UE) 2016/424 lub
 - **2)** art. 10 ust. 8 i 9 rozporządzenia (UE) 2016/425, lub
-- **3)** art. 9 ust. 8 i 9 rozporządzenia (UE) 2016/426 podlega karze pieniężnej w wysokości do 10 000 zł.
+- **3)** art. 9 ust. 8 i 9 rozporządzenia (UE) 2016/426 – podlega karze pieniężnej w wysokości do 10 000 zł.
 
 **Art. 94.**
 
 1. Upoważniony przedstawiciel, który nie dopełnia obowiązków w zakresie:
 
 - **1)** przechowywania dokumentacji technicznej lub deklaracji zgodności, lub dokumentacji niezbędnej do wykazania zgodności wyrobu z wymaganiami lub
-- **2)** udzielenia organowi nadzoru rynku informacji lub udostępnienia dokumentacji w języku polskim, w celu wykazania zgodności wyrobu z wymaganiami podlega karze pieniężnej w wysokości do 10 000 zł.
+- **2)** udzielenia organowi nadzoru rynku informacji lub udostępnienia dokumentacji w języku polskim, w celu wykazania zgodności wyrobu z wymaganiami – podlega karze pieniężnej w wysokości do 10 000 zł.
 
 2. Upoważniony przedstawiciel, który nie wypełnia obowiązków określonych w przepisach:
 
 - **1)** art. 11 ust. 3 lub 9 rozporządzenia (UE) 2016/424 lub
 - **2)** art. 8 ust. 3 lub 10 rozporządzenia (UE) 2016/425, lub
-- **3)** art. 7 ust. 3 lub 9 rozporządzenia (UE) 2016/426 podlega karze pieniężnej w wysokości do 10 000 zł. ” ;
+- **3)** art. 7 ust. 3 lub 9 rozporządzenia (UE) 2016/426 – podlega karze pieniężnej w wysokości do 10 000 zł. ” ;
 - **39)** w art. 97: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -531,9 +530,10 @@ source: "eli-html"
 - **4)** w art. 40e: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Kontrolę przeprowadza się w obecności kontrolowanego lub osoby przez niego upoważnionej. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Kontrolowany lub osoba przez niego upoważniona są obowiązani umożliwić wykonywanie kontroli, a w szczególności: ” , – pkt 6 otrzymuje brzmienie: „ 6) udostępnić dokumenty w celu sporządzenia kopii; zgodność kopii z oryginałem dokumentu potwierdza kontrolowany lub osoba przez niego upoważniona. ” ;
+1. Kontrolę przeprowadza się w obecności kontrolowanego lub osoby przez niego upoważnionej. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Kontrolowany lub osoba przez niego upoważniona są obowiązani umożliwić wykonywanie kontroli, a w szczególności: ” , pkt 6 otrzymuje brzmienie: „
 
 - **b)**
+- **6)** udostępnić dokumenty w celu sporządzenia kopii; zgodność kopii z oryginałem dokumentu potwierdza kontrolowany lub osoba przez niego upoważniona. ” ;
 - **5)** w art. 41a ust. 4 otrzymuje brzmienie: „
 
 4. Dowodem z dokumentu w postępowaniu może być tylko oryginał dokumentu lub jego kopia poświadczona przez organ administracji publicznej, notariusza, adwokata, radcę prawnego, rzecznika patentowego, doradcę podatkowego, stronę postępowania lub osobę przez nią upoważnioną. ” .
@@ -548,7 +548,7 @@ source: "eli-html"
 3. Prezes UTK jest organem nadzoru rynku w rozumieniu ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2017 r. poz. 1398 oraz z 2018 r. poz. 650 i 1338) w zakresie:
 
 - **1)** wyrobów przeznaczonych do stosowania w infrastrukturze kolejowej, na bocznicach kolejowych, kolejach wąskotorowych oraz w metrze, związanych z prowadzeniem i bezpieczeństwem ruchu, a także wykonywaniem przewozów osób i towarów oraz eksploatacją pojazdów kolejowych;
-- **2)** urządzeń kolei linowych, modyfikacji urządzeń kolei linowych wymagających nowego zezwolenia oraz do podsystemów i elementów bezpieczeństwa, wobec których stosuje się przepisy rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/424 z dnia 9 marca 2016 r. w sprawie urządzeń kolei linowych i uchylenia dyrektywy 2000/9/WE (Dz. Urz. UE L 81 z 31.03.2016, str. 1, z późn. zm.).
+- **2)** urządzeń kolei linowych, modyfikacji urządzeń kolei linowych wymagających nowego zezwolenia oraz do podsystemów i elementów bezpieczeństwa, wobec których stosuje się przepisy rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/424 z dnia 9 marca 2016 r. w sprawie urządzeń kolei linowych i uchylenia dyrektywy 2000/9/WE (Dz. Urz. UE L 81 z 31.03.2016, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 266 z 30.09.2016, str. 8.).
 
 3a. Do oceny zgodności wyrobów, o których mowa w ust. 3, akredytacji, autoryzacji i notyfikacji w tym zakresie, a także kontroli spełniania przez te wyroby wymagań, stwarzania przez nie zagrożenia lub w zakresie niezgodności formalnych, a także postępowań w tych sprawach, stosuje się przepisy ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku. ” , uchyla się ust. 4–6;
 
@@ -586,7 +586,7 @@ source: "eli-html"
 
 1. W zakresie dopuszczalności:
 
-- **1)** udostępniania na rynku w rozumieniu art. 3 pkt 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/424 z dnia 9 marca 2016 r. w sprawie urządzeń kolei linowych i uchylenia dyrektywy 2000/9/WE (Dz. Urz. UE L 81 z 31.03.2016, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem (UE) 2016/424”, za równoważne ze spełnieniem wymagań i niestwarzaniem zagrożenia, w rozumieniu ustawy zmienianej w art. 1, uważa się spełnienie przez odpowiednio podsystemy lub elementy bezpieczeństwa warunków określonych w art. 46 akapit pierwszy rozporządzenia (UE) 2016/424;
+- **1)** udostępniania na rynku w rozumieniu art. 3 pkt 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/424 z dnia 9 marca 2016 r. w sprawie urządzeń kolei linowych i uchylenia dyrektywy 2000/9/WE (Dz. Urz. UE L 81 z 31.03.2016, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 266 z 30.09.2016, str. 8.), zwanego dalej „rozporządzeniem (UE) 2016/424”, za równoważne ze spełnieniem wymagań i niestwarzaniem zagrożenia, w rozumieniu ustawy zmienianej w art. 1, uważa się spełnienie przez odpowiednio podsystemy lub elementy bezpieczeństwa warunków określonych w art. 46 akapit pierwszy rozporządzenia (UE) 2016/424;
 - **2)** oddawania do użytku w rozumieniu art. 3 pkt 12 rozporządzenia (UE) 2016/424 za równoważne ze spełnieniem wymagań i z niestwarzaniem zagrożenia, w rozumieniu ustawy zmienianej w art. 1, uważa się spełnienie przez urządzenia kolei linowych warunków określonych w art. 46 akapit drugi rozporządzenia (UE) 2016/424;
 - **3)** udostępniania na rynku w rozumieniu art. 3 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/425 z dnia 9 marca 2016 r. w sprawie środków ochrony indywidualnej oraz uchylenia dyrektywy Rady 89/686/EWG (Dz. Urz. UE L 81 z 31.03.2016, str. 51), zwanego dalej „rozporządzeniem (UE) 2016/425”, za równoważne ze spełnieniem wymagań i z niestwarzaniem zagrożenia, w rozumieniu ustawy zmienianej w art. 1, uważa się spełnienie przez środki ochrony indywidualnej warunków określonych w art. 47 ust. 1 rozporządzenia (UE) 2016/425;
 - **4)** udostępniania na rynku w rozumieniu art. 2 pkt 14 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/426 z dnia 9 marca 2016 r. w sprawie urządzeń spalających paliwa gazowe oraz uchylenia dyrektywy 2009/142/WE (Dz. Urz. UE L 81 z 31.03.2016, str. 99), zwanego dalej „rozporządzeniem (UE) 2016/426”, i oddawania do użytku w rozumieniu art. 2 pkt 16 rozporządzenia 2016/426 za równoważne ze spełnieniem wymagań i z niestwarzaniem zagrożenia, w rozumieniu ustawy zmienianej w art. 1, uważa się spełnienie przez urządzenia warunków określonych w art. 44 ust. 1 rozporządzenia (UE) 2016/426;
@@ -602,5 +602,5 @@ source: "eli-html"
 
 **Art. 13.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 61 ust. 7 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 61 ust. 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 3 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 14.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 6 lit. a, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
+**Art. 14.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 6 lit. a, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, ustawę z dnia 11 maja 2001 r. – Prawo o miarach, ustawę z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego, ustawę z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, ustawę z dnia 28 marca 2003 r. o transporcie kolejowym, ustawę z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy oraz ustawę z dnia 2 grudnia 2016 r. o wyposażeniu morskim. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 266 z 30.09.2016, str. 8. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 266 z 30.09.2016, str. 8. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 266 z 30.09.2016, str. 8.
 

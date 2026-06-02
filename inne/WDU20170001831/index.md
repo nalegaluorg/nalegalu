@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-21 |
 | Data wydania | 2017-10-03 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-11-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001831) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1831/text.pdf) |
 
@@ -62,8 +61,7 @@ ubezpieczenie zdrowotne,
 4)
 Fundusz Pracy,
 5)
-Fundusz Gwarantowanych Świadczeń Pracowniczych
-zwane dalej „składkami”.
+Fundusz Gwarantowanych Świadczeń Pracowniczych – zwane dalej „składkami”.
 2.
 W deklaracji płatnik składek rozlicza:
 1)
@@ -108,8 +106,7 @@ Fundusz Emerytur Pomostowych w wysokości wykazanej w deklaracji kwoty należnyc
 3)
 ubezpieczenie zdrowotne w wysokości wykazanej w deklaracji kwoty należnych do zapłaty składek za dany miesiąc kalendarzowy,
 4)
-Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych w wysokości wykazanej w deklaracji kwoty należnych do zapłaty składek, określonej w deklaracji za dany miesiąc kalendarzowy
-na przydzielony przez Zakład płatnikowi składek numer rachunku składkowego.
+Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych w wysokości wykazanej w deklaracji kwoty należnych do zapłaty składek, określonej w deklaracji za dany miesiąc kalendarzowy – na przydzielony przez Zakład płatnikowi składek numer rachunku składkowego.
 2.
 Jeżeli zgodnie z odrębnymi przepisami część składek na poszczególne ubezpieczenia społeczne i na ubezpieczenie zdrowotne podlega finansowaniu z budżetu państwa lub Funduszu Kościelnego i jest przekazywana przez te podmioty bezpośrednio do Zakładu, w deklaracji płatnik składek wykazuje odpowiednio kwoty składek finansowanych z tych źródeł.
 3.
@@ -325,8 +322,7 @@ Fundusz Pracy,
 3)
 Fundusz Gwarantowanych Świadczeń Pracowniczych,
 4)
-ubezpieczenie zdrowotne
-potrąca Zakład z dokonanych wpłat.
+ubezpieczenie zdrowotne – potrąca Zakład z dokonanych wpłat.
 § 31.
 1.
 Składki za okres do dnia 31 grudnia 1998 r., które nie uległy przedawnieniu, płatnik składek opłaca na wskazany rachunek bankowy terenowej jednostki organizacyjnej Zakładu, oznaczając dokonywaną wpłatę numerem konta płatnika składek (NKP), nadanym według zasad obowiązujących przed dniem 1 stycznia 1999 r., w wysokości i na zasadach określonych w przepisach obowiązujących do dnia 31 grudnia 1998 r.
@@ -337,5 +333,5 @@ Przepis ust. 2 stosuje się do wynagrodzeń należnych za styczeń 1999 r., wyp�
 § 32.
 Do wpłat dokonanych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 33.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 18 kwietnia 2008 r. w sprawie szczegółowych zasad i trybu postępowania w sprawach rozliczania składek, do których poboru jest zobowiązany Zakład Ubezpieczeń Społecznych (Dz. U. poz. 465 oraz z 2009 r. poz. 1181), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie art. 1 pkt 11 lit. a ustawy z dnia 11 maja 2017 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1027). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 18 kwietnia 2008 r. w sprawie szczegółowych zasad i trybu postępowania w sprawach rozliczania składek, do których poboru jest zobowiązany Zakład Ubezpieczeń Społecznych (Dz. U. poz. 465 oraz z 2009 r. poz. 1181), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie art. 1 pkt 11 lit. a ustawy z dnia 11 maja 2017 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1027).
 

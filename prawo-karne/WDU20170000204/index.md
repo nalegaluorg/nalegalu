@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-15 |
 | Data wydania | 2017-02-01 |
-| Wejście w życie | 2017-05-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000204) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/204/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 1083, z 1999 r. poz. 931, z 2000 r. poz. 701 i 1268, z 2001 r. poz. 1071 i 1194, z 2002 r. poz. 676 i 1679, z 2003 r. poz. 1061, 1380 i 1750, z 2004 r. poz. 889, 2135, 2405, 2426 i 2703, z 2005 r. poz. 1363 i 1479, z 2006 r. poz. 708 i 1648, z 2007 r. poz. 849, z 2008 r. poz. 620 i 1344, z 2009 r. poz. 39, 119, 504, 817, 911, 963, 1475, 1540 i 1589, z 2010 r. poz. 191, 227, 842 i 1228, z 2011 r. poz. 201, 202, 654, 734, 1092, 1280 i 1431, z 2012 r. poz. 908, z 2013 r. poz. 628 i 1247, z 2014 r. poz. 287, 619 i 1707, z 2015 r. poz. 21, 396, 431, 541, 1269 i 1573 oraz z 2016 r. poz. 428, 437, 1948 i 2138 oraz z 2017 r. poz. 60.) wprowadza się następujące zmiany:
 
 - **1)** w art. 43 w § 7 pkt 2 otrzymuje brzmienie: „
 - **2)** potrąceń w wysokości 7% wynagrodzenia przysługującego za pracę skazanych zatrudnionych w formach określonych w art. 121 § 2, ” ;
@@ -40,7 +39,7 @@ source: "eli-html"
 - **1)** samorządu terytorialnego,
 - **2)** podmiotów, dla których organ gminy, powiatu lub województwa jest organem założycielskim,
 - **3)** państwowych lub samorządowych jednostek organizacyjnych,
-- **4)** spółek prawa handlowego z wyłącznym udziałem Skarbu Państwa lub gminy, powiatu lub województwa w wymiarze nieprzekraczającym 90 godzin miesięcznie, skazanemu nie przysługuje wynagrodzenie.
+- **4)** spółek prawa handlowego z wyłącznym udziałem Skarbu Państwa lub gminy, powiatu lub województwa – w wymiarze nieprzekraczającym 90 godzin miesięcznie, skazanemu nie przysługuje wynagrodzenie.
 
 § 2. Skazanemu, za jego pisemną zgodą lub na jego wniosek, dyrektor zakładu karnego może zezwolić na nieodpłatne zatrudnienie przy pracach, o których mowa w § 1, w wymiarze przekraczającym 90 godzin miesięcznie lub przy pracach na cele społeczne na rzecz podmiotów, o których mowa w art. 56 § 3, oraz innych organizacji pożytku publicznego. ” , dodaje się § 5–8 w brzmieniu: „
 
@@ -60,5 +59,5 @@ source: "eli-html"
 
 **Art. 2.** Zezwolenia wydane na podstawie art. 123a § 2 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym, zachowują moc przez okres, na jaki zostały wydane.
 
-**Art. 3.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 30 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 30 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 1083, z 1999 r. poz. 931, z 2000 r. poz. 701 i 1268, z 2001 r. poz. 1071 i 1194, z 2002 r. poz. 676 i 1679, z 2003 r. poz. 1061, 1380 i 1750, z 2004 r. poz. 889, 2135, 2405, 2426 i 2703, z 2005 r. poz. 1363 i 1479, z 2006 r. poz. 708 i 1648, z 2007 r. poz. 849, z 2008 r. poz. 620 i 1344, z 2009 r. poz. 39, 119, 504, 817, 911, 963, 1475, 1540 i 1589, z 2010 r. poz. 191, 227, 842 i 1228, z 2011 r. poz. 201, 202, 654, 734, 1092, 1280 i 1431, z 2012 r. poz. 908, z 2013 r. poz. 628 i 1247, z 2014 r. poz. 287, 619 i 1707, z 2015 r. poz. 21, 396, 431, 541, 1269 i 1573 oraz z 2016 r. poz. 428, 437, 1948 i 2138 oraz z 2017 r. poz. 60.
 

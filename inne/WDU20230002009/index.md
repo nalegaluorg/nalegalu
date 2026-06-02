@@ -26,15 +26,122 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002009) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2009/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych Tytuł I – Przepisy ogólne Tytuł II – Organizacja i ogólne zasady udzielania wzajemnej pomocy Dział I – Organizacja udzielania wzajemnej pomocy Dział II – Ogólne zasady udzielania wzajemnej pomocy Dział III – Ujawnianie informacji i dokumentów Dział IV – Stosowanie języków i tłumaczenia Tytuł III – Występowanie o udzielenie pomocy do państwa członkowskiego w zakresie należności pieniężnych, o których mowa w art. 2 pkt 1–6 Dział I – Przepisy ogólne Dział II – Wniosek o udzielenie informacji Dział III – Wniosek o powiadomienie Dział IV – Występowanie o odzyskanie należności pieniężnych i ich rozliczanie Rozdział 1 – Wniosek o odzyskanie należności pieniężnych Rozdział 2 – Zarzuty Rozdział 3 – Zmiana i wycofanie wniosku o odzyskanie należności pieniężnych Dział V – Wniosek o podjęcie środków zabezpieczających należności pieniężne Dział VI – Przedawnienie Tytuł IV – Udzielanie pomocy państwu członkowskiemu w zakresie należności pieniężnych, o których mowa w art. 2 pkt 1–6 Dział I – Przepisy ogólne Dział II – Udzielanie informacji Rozdział 1 – Informacje bez wniosku Rozdział 2 – Informacje na wniosek Dział III – Powiadomienie Dział IV – Dochodzenie należności pieniężnych Rozdział 1 – Realizacja wniosku o odzyskanie należności pieniężnych Rozdział 2 – Spory Rozdział 3 – Zmiana i wycofanie wniosku o odzyskanie należności pieniężnych Dział V – Zabezpieczenie należności pieniężnych Tytuł V – Wzajemna pomoc w zakresie należności pieniężnych, o których mowa w art. 2 pkt 7 Dział I – Przepisy ogólne Dział II – Występowanie o udzielenie pomocy do państwa członkowskiego lub państwa trzeciego Rozdział 1 – Wniosek o udzielenie informacji i wniosek o powiadomienie Rozdział 2 – Wniosek o odzyskanie należności pieniężnych i wniosek o podjęcie środków zabezpieczających należności pieniężne Dział III – Udzielanie pomocy na wniosek państwa członkowskiego lub państwa trzeciego Rozdział 1 – Udzielanie informacji i odzyskiwanie należności pieniężnych Rozdział 2 – Zabezpieczenie należności pieniężnych Tytuł VI – Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2021 r. poz. 2157), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 556 i 1059) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 sierpnia 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 29 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 556 i 1059), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 29 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 556 i 1059), który stanowi: „
+Przepisy ogólne
+Organizacja i ogólne zasady udzielania wzajemnej pomocy
+Organizacja udzielania wzajemnej pomocy
+Ogólne zasady udzielania wzajemnej pomocy
+Ujawnianie informacji i dokumentów
+Stosowanie języków i tłumaczenia
+Występowanie o udzielenie pomocy do państwa członkowskiego w zakresie należności pieniężnych, o których mowa w art. 2 pkt 1–6
+Przepisy ogólne
+Wniosek o udzielenie informacji
+Wniosek o powiadomienie
+Występowanie o odzyskanie należności pieniężnych i ich rozliczanie
+Wniosek o odzyskanie należności pieniężnych
+Zarzuty
+Zmiana i wycofanie wniosku o odzyskanie należności pieniężnych
+Wniosek o podjęcie środków zabezpieczających należności pieniężne
+Przedawnienie
+Udzielanie pomocy państwu członkowskiemu w zakresie należności pieniężnych, o których mowa w art. 2 pkt 1–6
+Przepisy ogólne
+Udzielanie informacji
+Informacje bez wniosku
+Informacje na wniosek
+Powiadomienie
+Dochodzenie należności pieniężnych
+Realizacja wniosku o odzyskanie należności pieniężnych
+Spory
+Zmiana i wycofanie wniosku o odzyskanie należności pieniężnych
+Zabezpieczenie należności pieniężnych
+Wzajemna pomoc w zakresie należności pieniężnych, o których mowa w art. 2 pkt 7
+Przepisy ogólne
+Występowanie o udzielenie pomocy do państwa członkowskiego lub państwa trzeciego
+Wniosek o udzielenie informacji i wniosek o powiadomienie
+Wniosek o odzyskanie należności pieniężnych i wniosek o podjęcie środków zabezpieczających należności pieniężne
+Udzielanie pomocy na wniosek państwa członkowskiego lub państwa trzeciego
+Udzielanie informacji i odzyskiwanie należności pieniężnych
+Zabezpieczenie należności pieniężnych
+Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
 Art. 110–122.
 (pominięte)
+
+## Tytuł I – Przepisy ogólne
+
+## Tytuł II – Organizacja i ogólne zasady udzielania wzajemnej pomocy
+
+### Dział I – Organizacja udzielania wzajemnej pomocy
+
+### Dział II – Ogólne zasady udzielania wzajemnej pomocy
+
+### Dział III – Ujawnianie informacji i dokumentów
+
+### Dział IV – Stosowanie języków i tłumaczenia
+
+## Tytuł III – Występowanie o udzielenie pomocy do państwa członkowskiego w zakresie należności pieniężnych, o których mowa w art. 2 pkt 1–6
+
+### Dział I – Przepisy ogólne
+
+### Dział II – Wniosek o udzielenie informacji
+
+### Dział III – Wniosek o powiadomienie
+
+### Dział IV – Występowanie o odzyskanie należności pieniężnych i ich rozliczanie
+
+#### Rozdział 1 – Wniosek o odzyskanie należności pieniężnych
+
+#### Rozdział 2 – Zarzuty
+
+#### Rozdział 3 – Zmiana i wycofanie wniosku o odzyskanie należności pieniężnych
+
+### Dział V – Wniosek o podjęcie środków zabezpieczających należności pieniężne
+
+### Dział VI – Przedawnienie
+
+## Tytuł IV – Udzielanie pomocy państwu członkowskiemu w zakresie należności pieniężnych, o których mowa w art. 2 pkt 1–6
+
+### Dział I – Przepisy ogólne
+
+### Dział II – Udzielanie informacji
+
+#### Rozdział 1 – Informacje bez wniosku
+
+#### Rozdział 2 – Informacje na wniosek
+
+### Dział III – Powiadomienie
+
+### Dział IV – Dochodzenie należności pieniężnych
+
+#### Rozdział 1 – Realizacja wniosku o odzyskanie należności pieniężnych
+
+#### Rozdział 2 – Spory
+
+#### Rozdział 3 – Zmiana i wycofanie wniosku o odzyskanie należności pieniężnych
+
+### Dział V – Zabezpieczenie należności pieniężnych
+
+## Tytuł V – Wzajemna pomoc w zakresie należności pieniężnych, o których mowa w art. 2 pkt 7
+
+### Dział I – Przepisy ogólne
+
+### Dział II – Występowanie o udzielenie pomocy do państwa członkowskiego lub państwa trzeciego
+
+#### Rozdział 1 – Wniosek o udzielenie informacji i wniosek o powiadomienie
+
+#### Rozdział 2 – Wniosek o odzyskanie należności pieniężnych i wniosek o podjęcie środków zabezpieczających należności pieniężne
+
+### Dział III – Udzielanie pomocy na wniosek państwa członkowskiego lub państwa trzeciego
+
+#### Rozdział 1 – Udzielanie informacji i odzyskiwanie należności pieniężnych
+
+#### Rozdział 2 – Zabezpieczenie należności pieniężnych
+
+## Tytuł VI – Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
 
 **Art. 29.** Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia, z wyjątkiem:
 
@@ -43,9 +150,9 @@ Art. 110–122.
 - **3)** art. 6, który wchodzi w życie po upływie 30 dni od dnia ogłoszenia;
 - **4)** art. 4, który wchodzi w życie z dniem 1 kwietnia 2023 r.;
 - **5)** art. 1 pkt 13 lit. a w zakresie art. 27 § 1 pkt 2 lit. a tiret pierwsze i trzecie oraz lit. b tiret pierwsze i drugie, art. 3 pkt 1, 3–6, art. 7, art. 19, art. 20 oraz art. 28a, które wchodzą w życie z dniem 1 lipca 2023 r.;
-- **6)** art. 1 pkt 7 i 8, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych
+- **6)** art. 1 pkt 7 i 8, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnychNiniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2010/24/UE z dnia 16 marca 2010 r. w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności dotyczących podatków, ceł i innych obciążeń (Dz. Urz. UE L 84 z 31.03.2010, str. 1).
 
-## Tytuł I Przepisy ogólne
+## Tytuł I
 
 **Art. 1.** Ustawa określa zasady:
 
@@ -80,13 +187,13 @@ Art. 110–122.
 
 **Art. 4.**
 
-1. Dochodzenie oraz zabezpieczenie należności pieniężnych państw członkowskich lub państw trzecich odbywa się w trybie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.), zwanej dalej „ustawą o postępowaniu egzekucyjnym w administracji”.
+1. Dochodzenie oraz zabezpieczenie należności pieniężnych państw członkowskich lub państw trzecich odbywa się w trybie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614, 852, 1059, 1130, 1193, 1369, 1429 i 1523.), zwanej dalej „ustawą o postępowaniu egzekucyjnym w administracji”.
 
 2. Jeżeli przepisy ustawy nie stanowią inaczej, w sprawach dotyczących wzajemnej pomocy stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
 
-## Tytuł II Organizacja i ogólne zasady udzielania wzajemnej pomocy
+## Tytuł II
 
-### Dział I Organizacja udzielania wzajemnej pomocy
+### Dział I
 
 **Art. 5.**
 
@@ -142,7 +249,7 @@ Art. 110–122.
 - **6)** zapewnieniu integralności danych w systemach informatycznych organów;
 - **7)** określeniu zasad bezpieczeństwa przetwarzanych danych osobowych.
 
-### Dział II Ogólne zasady udzielania wzajemnej pomocy
+### Dział II
 
 **Art. 12.** Wzajemna pomoc jest realizowana na podstawie wniosku o udzielenie pomocy, z zastrzeżeniem art. 64.
 
@@ -196,9 +303,9 @@ Art. 110–122.
 
 - **1)** wzory wniosków o udzielenie pomocy kierowanych do państw trzecich,
 - **2)** wzory zaktualizowanego tytułu wykonawczego i zagranicznego tytułu wykonawczego,
-- **3)** wzór zarządzenia zabezpieczenia uwzględniając potrzebę zapewnienia możliwości elektronicznego przetwarzania danych zawartych w tych dokumentach.
+- **3)** wzór zarządzenia zabezpieczenia – uwzględniając potrzebę zapewnienia możliwości elektronicznego przetwarzania danych zawartych w tych dokumentach.
 
-### Dział III Ujawnianie informacji i dokumentów
+### Dział III
 
 **Art. 24.**
 
@@ -229,7 +336,7 @@ Art. 110–122.
 
 2. Centralne biuro łącznikowe przekazuje sprzeciw lub zgodę wierzyciela lub organu egzekucyjnego w terminie 10 dni roboczych od dnia otrzymania wniosku od państwa członkowskiego.
 
-### Dział IV Stosowanie języków i tłumaczenia
+### Dział IV
 
 **Art. 30.**
 
@@ -257,9 +364,9 @@ Art. 110–122.
 
 3. Minister właściwy do spraw finansów publicznych informuje centralne biuro łącznikowe o porozumieniach, o których mowa w ust. 1 i 2.
 
-## Tytuł III Występowanie o udzielenie pomocy do państwa członkowskiego w zakresie należności pieniężnych, o których mowa w art. 2 pkt 1–6
+## Tytuł III
 
-### Dział I Przepisy ogólne
+### Dział I
 
 **Art. 33.**
 
@@ -284,7 +391,7 @@ Art. 110–122.
 
 **Art. 36.** Spory dotyczące istnienia lub wysokości należności pieniężnych, wszczęcia i prowadzenia egzekucji administracyjnej należności pieniężnych lub doręczenia decyzji, postanowienia, orzeczenia lub innego dokumentu wydanego w Rzeczypospolitej Polskiej, odnoszących się do należności pieniężnych, ich dochodzenia lub zabezpieczenia, rozstrzygane są na podstawie odrębnych przepisów obowiązujących na terytorium Rzeczypospolitej Polskiej.
 
-### Dział II Wniosek o udzielenie informacji
+### Dział II
 
 **Art. 37.**
 
@@ -296,7 +403,7 @@ Art. 110–122.
 - **2)** imię i nazwisko lub nazwę podmiotu, jego adres zamieszkania lub siedziby oraz inne posiadane dane służące do identyfikacji podmiotu;
 - **3)** określenie rodzaju i wysokości należności pieniężnych.
 
-### Dział III Wniosek o powiadomienie
+### Dział III
 
 **Art. 38.**
 
@@ -321,9 +428,9 @@ Art. 110–122.
 - **1)** jednolity formularz służący do powiadomienia;
 - **2)** dokument będący przedmiotem powiadomienia.
 
-### Dział IV Występowanie o odzyskanie należności pieniężnych i ich rozliczanie
+### Dział IV
 
-#### Rozdział 1 Wniosek o odzyskanie należności pieniężnych
+#### Rozdział 1
 
 **Art. 40.**
 
@@ -373,7 +480,7 @@ Art. 110–122.
 
 2. Jeżeli otrzymana przez organ egzekucyjny lub wierzyciela od państwa członkowskiego należność pieniężna jest wyższa albo niższa od wysokości należności pieniężnej wyrażonej w złotych w jednolitym tytule wykonawczym, różnica stanowi odpowiednio dochód albo stratę organu egzekucyjnego lub wierzyciela.
 
-#### Rozdział 2 Zarzuty
+#### Rozdział 2
 
 **Art. 46.**
 
@@ -416,7 +523,7 @@ Art. 110–122.
 - **3)** występuje z wnioskiem o dalsze odzyskiwanie należności pieniężnych, chyba że wystąpił z takim wnioskiem na podstawie art. 47 ust. 2;
 - **4)** informuje państwo członkowskie o zakończeniu postępowania w sprawie zarzutów w sprawie jednolitego tytułu wykonawczego, w przypadku gdy wystąpił z wnioskiem o dalsze odzyskiwanie należności pieniężnych na podstawie art. 47 ust. 2.
 
-#### Rozdział 3 Zmiana i wycofanie wniosku o odzyskanie należności pieniężnych
+#### Rozdział 3
 
 **Art. 51.** Organ egzekucyjny może, w każdym czasie, zmienić albo wycofać wniosek o odzyskanie należności pieniężnych, wskazując przyczynę zmiany albo wycofania wniosku.
 
@@ -430,7 +537,7 @@ Art. 110–122.
 
 **Art. 54.** Do zmienionego jednolitego tytułu wykonawczego stosuje się odpowiednio przepisy art. 41–51 i art. 53.
 
-### Dział V Wniosek o podjęcie środków zabezpieczających należności pieniężne
+### Dział V
 
 **Art. 55.** Organ egzekucyjny może wystąpić z wnioskiem o podjęcie środków zabezpieczających należności pieniężne, gdy toczy się postępowanie w sprawie istnienia lub określenia wysokości należności pieniężnych, postępowanie w sprawie wszczęcia i prowadzenia egzekucji administracyjnej należności pieniężnych albo gdy nie został wystawiony pierwotny tytuł wykonawczy, a odrębne przepisy umożliwiają zabezpieczenie tych należności.
 
@@ -448,15 +555,15 @@ Art. 110–122.
 
 **Art. 57.** Do wniosku o podjęcie środków zabezpieczających należności pieniężne stosuje się odpowiednio przepisy art. 41 ust. 3, art. 44, art. 51 i art. 52.
 
-### Dział VI Przedawnienie
+### Dział VI
 
 **Art. 58.** Czynności podjęte przez państwo członkowskie zgodnie z wnioskiem o udzielenie pomocy wywołują taki skutek w zakresie biegu terminu przedawnienia, jak analogiczne czynności podjęte na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 59.** Organ egzekucyjny informuje państwo członkowskie o zdarzeniach wywołujących skutek w zakresie biegu terminu przedawnienia należności pieniężnych będących przedmiotem wniosku o odzyskanie należności pieniężnych lub wniosku o podjęcie środków zabezpieczających należności pieniężne.
 
-## Tytuł IV Udzielanie pomocy państwu członkowskiemu w zakresie należności pieniężnych, o których mowa w art. 2 pkt 1–6
+## Tytuł IV
 
-### Dział I Przepisy ogólne
+### Dział I
 
 **Art. 60.**
 
@@ -487,15 +594,15 @@ Art. 110–122.
 
 **Art. 63.** Przedawnienie należności pieniężnych państwa członkowskiego występującego z wnioskiem o udzielenie pomocy określają przepisy obowiązujące w tym państwie.
 
-### Dział II Udzielanie informacji
+### Dział II
 
-#### Rozdział 1 Informacje bez wniosku
+#### Rozdział 1
 
 **Art. 64.** W przypadku przewidywanego zwrotu:
 
 - **1)** podatku,
 - **2)** nadpłaty podatku – z wyłączeniem podatku od towarów i usług,
-- **3)** należności celnych podmiotowi mającemu siedzibę lub miejsce zamieszkania w państwie członkowskim organ podatkowy właściwy w sprawie zwrotu może przekazać przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej informację o przewidywanym zwrocie do właściwego państwa członkowskiego. Przekazywanie informacji może odbywać się z wykorzystaniem wniosków o udzielenie pomocy.
+- **3)** należności celnych – podmiotowi mającemu siedzibę lub miejsce zamieszkania w państwie członkowskim organ podatkowy właściwy w sprawie zwrotu może przekazać przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej informację o przewidywanym zwrocie do właściwego państwa członkowskiego. Przekazywanie informacji może odbywać się z wykorzystaniem wniosków o udzielenie pomocy.
 
 **Art. 65.** Informacja, o której mowa w art. 64, powinna zawierać następujące dane:
 
@@ -505,7 +612,7 @@ Art. 110–122.
 - **4)** wysokość i rodzaj należności celnych będących przedmiotem zwrotu;
 - **5)** termin zwrotu podatku, nadpłaty podatku lub należności celnych.
 
-#### Rozdział 2 Informacje na wniosek
+#### Rozdział 2
 
 **Art. 66.** Na wniosek o udzielenie informacji pochodzący od państwa członkowskiego udziela się wszelkich informacji, które są istotne do powiadomienia, dochodzenia lub zabezpieczenia należności pieniężnych.
 
@@ -527,7 +634,7 @@ Art. 110–122.
 
 3. Centralne biuro łącznikowe lub naczelnik urzędu skarbowego informuje państwo członkowskie o przyczynach odmowy udzielenia informacji.
 
-### Dział III Powiadomienie
+### Dział III
 
 **Art. 69.**
 
@@ -559,9 +666,9 @@ Art. 110–122.
 
 5. Naczelnik urzędu skarbowego informuje państwo członkowskie o dacie doręczenia, wyjaśniając przyczyny ponownego doręczenia.
 
-### Dział IV Dochodzenie należności pieniężnych
+### Dział IV
 
-#### Rozdział 1 Realizacja wniosku o odzyskanie należności pieniężnych
+#### Rozdział 1
 
 **Art. 73.**
 
@@ -573,7 +680,7 @@ Art. 110–122.
 
 **Art. 75.**
 
-1. Od należności pieniężnych państw członkowskich, o których mowa w art. 2 pkt 1–3, nalicza się odsetki w wysokości i na zasadach określonych w przepisach działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.).
+1. Od należności pieniężnych państw członkowskich, o których mowa w art. 2 pkt 1–3, nalicza się odsetki w wysokości i na zasadach określonych w przepisach działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556, 614, 1059, 1193, 1234 i 1450.).
 
 2. Odsetki nalicza się od dnia otrzymania przez centralne biuro łącznikowe wniosku o odzyskanie należności pieniężnych.
 
@@ -581,7 +688,7 @@ Art. 110–122.
 
 **Art. 77.** Wniosek o odzyskanie należności pieniężnych uznaje się za zrealizowany, jeżeli należności pieniężne zostały wyegzekwowane w złotych w wysokości, która po przeliczeniu według kursu wymiany wskazanego w tym wniosku, jest równa wysokości należności pieniężnych określonych w walucie państwa członkowskiego w jednolitym tytule wykonawczym, niezależnie od odsetek i opłaty prolongacyjnej, o której mowa w art. 76.
 
-#### Rozdział 2 Spory
+#### Rozdział 2
 
 **Art. 78.** Spory dotyczące należności pieniężnych państwa członkowskiego, pierwotnego tytułu wykonawczego, jednolitego tytułu wykonawczego oraz powiadomienia dokonanego przez państwo członkowskie są rozstrzygane przez właściwy organ tego państwa zgodnie z przepisami obowiązującymi w tym państwie.
 
@@ -597,7 +704,7 @@ Art. 110–122.
 
 5. Na wniosek państwa członkowskiego lub z urzędu organ egzekucyjny może dokonać zabezpieczenia należności pieniężnych w czasie zawieszenia postępowania egzekucyjnego.
 
-#### Rozdział 3 Zmiana i wycofanie wniosku o odzyskanie należności pieniężnych
+#### Rozdział 3
 
 **Art. 80.**
 
@@ -635,7 +742,7 @@ Art. 110–122.
 
 2. Centralne biuro łącznikowe przekazuje do państwa członkowskiego informację o wysokości wypłaconych należności pieniężnych, o których mowa w ust. 1, wraz z numerem rachunku bankowego, na który należy przekazać kwotę równą wysokości wypłaconych należności pieniężnych.
 
-### Dział V Zabezpieczenie należności pieniężnych
+### Dział V
 
 **Art. 84.** Dokument zabezpieczenia otrzymany od państwa członkowskiego nie podlega zatwierdzeniu, uzupełnieniu ani zastąpieniu.
 
@@ -647,17 +754,16 @@ Art. 110–122.
 
 - **1)** nazwę i adres siedziby lub inne dane dotyczące organu lub urzędu występującego z wnioskiem o podjęcie środków zabezpieczających należności pieniężne;
 - **2)** imię i nazwisko lub nazwę podmiotu, adres zamieszkania lub siedziby oraz inne posiadane dane niezbędne do identyfikacji podmiotu;
-- **3)** określenie rodzaju i wysokości należności pieniężnych wyrażonych w złotych oraz okresu, którego dotyczą te należności;
-- **4)** klauzulę organu egzekucyjnego o przyjęciu zarządzenia zabezpieczenia do wykonania.
-- **4)** (uchylony)
+- **3)** określenie rodzaju i wysokości należności pieniężnych wyrażonych w złotych oraz okresu, którego dotyczą te należności; 4W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 5.) klauzulę organu egzekucyjnego o przyjęciu zarządzenia zabezpieczenia do wykonania.
+- **4)** (uchylony)Przez art. 5 pkt 1 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 556 i 1059), która wejdzie w życie z dniem 25 marca 2024 r.
 
 3. (uchylony)
 
 **Art. 86.** Do wniosku o podjęcie środków zabezpieczających należności pieniężne stosuje się odpowiednio przepisy art. 73 oraz art. 77–83.
 
-## Tytuł V Wzajemna pomoc w zakresie należności pieniężnych, o których mowa w art. 2 pkt 7
+## Tytuł V
 
-### Dział I Przepisy ogólne
+### Dział I
 
 **Art. 87.**
 
@@ -675,9 +781,9 @@ Art. 110–122.
 
 **Art. 90.** Centralne biuro łącznikowe lub organ egzekucyjny może, w uzasadnionych przypadkach, wystąpić z wnioskiem o przesłanie dodatkowych informacji niezbędnych do realizacji wniosku o udzielenie pomocy do państwa członkowskiego lub państwa trzeciego.
 
-### Dział II Występowanie o udzielenie pomocy do państwa członkowskiego lub państwa trzeciego
+### Dział II
 
-#### Rozdział 1 Wniosek o udzielenie informacji i wniosek o powiadomienie
+#### Rozdział 1
 
 **Art. 91.** Wierzyciel lub organ egzekucyjny może, w każdym czasie, wycofać wniosek o udzielenie informacji.
 
@@ -685,7 +791,7 @@ Art. 110–122.
 
 **Art. 93.** Powiadomienie dokonane przez państwo członkowskie lub państwo trzecie, zgodnie z przepisami regulującymi powiadomienia obowiązującymi w tym państwie, wywołuje takie same skutki, jak doręczenie takiego dokumentu zgodnie z przepisami obowiązującymi w Rzeczypospolitej Polskiej.
 
-#### Rozdział 2 Wniosek o odzyskanie należności pieniężnych i wniosek o podjęcie środków zabezpieczających należności pieniężne
+#### Rozdział 2
 
 **Art. 94.**
 
@@ -722,9 +828,9 @@ Art. 110–122.
 
 **Art. 99.** Do wniosku o podjęcie środków zabezpieczających należności pieniężne stosuje się odpowiednio przepisy art. 96–98.
 
-### Dział III Udzielanie pomocy na wniosek państwa członkowskiego lub państwa trzeciego
+### Dział III
 
-#### Rozdział 1 Udzielanie informacji i odzyskiwanie należności pieniężnych
+#### Rozdział 1
 
 **Art. 100.**
 
@@ -743,9 +849,8 @@ Art. 110–122.
 - **1)** nazwę i adres siedziby lub inne dane dotyczące organu lub urzędu występującego z wnioskiem o odzyskanie należności pieniężnych;
 - **2)** imię i nazwisko lub nazwę podmiotu, adres zamieszkania lub siedziby oraz inne posiadane dane niezbędne do identyfikacji podmiotu;
 - **3)** określenie rodzaju i wysokości należności pieniężnych wyrażonych w złotych oraz okresu, którego dotyczą należności pieniężne;
-- **4)** oznaczenie pierwotnego tytułu wykonawczego;
-- **5)** klauzulę organu egzekucyjnego o skierowaniu zagranicznego tytułu wykonawczego do egzekucji administracyjnej.
-- **5)** (uchylony)
+- **4)** oznaczenie pierwotnego tytułu wykonawczego; 5W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 7.) klauzulę organu egzekucyjnego o skierowaniu zagranicznego tytułu wykonawczego do egzekucji administracyjnej.
+- **5)** (uchylony)Przez art. 5 pkt 2 ustawy, o której mowa w odnośniku 5.
 
 3. (uchylony)
 
@@ -771,34 +876,34 @@ Art. 110–122.
 
 3. Minister właściwy do spraw finansów publicznych może uzgodnić z państwem członkowskim lub państwem trzecim inny niż wskazany w ust. 1 termin przekazywania należności pieniężnych wyegzekwowanych w kwocie poniżej 1500 euro.
 
-#### Rozdział 2 Zabezpieczenie należności pieniężnych
+#### Rozdział 2
 
 **Art. 108.** Centralne biuro łącznikowe sporządza zarządzenie zabezpieczenia na wniosek o podjęcie środków zabezpieczających należności pieniężne pochodzący od państwa członkowskiego lub państwa trzeciego.
 
 **Art. 109.** Do wniosku o podjęcie środków zabezpieczających należności pieniężne stosuje się odpowiednio przepisy art. 103–106.
 
-## Tytuł VI Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
+## Tytuł VI
 
 **Art. 123.**
 
 1. Do postępowań egzekucyjnych w administracji wszczętych i niezakończonych przed dniem wejścia w życie ustawy, mają zastosowanie przepisy dotychczasowe, z zastrzeżeniem ust. 2–6.
 
-2. Organ egzekucyjny może, na podstawie art. 13 § 1 ustawy zmienianej w art. 111, w brzmieniu dotychczasowym, zwolnić określony składnik majątkowy zobowiązanego bez zgody wierzyciela.
+2. Organ egzekucyjny może, na podstawie art. 13 § 1 ustawy zmienianej w art. 111Artykuł 111 zawiera zmiany do ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji., w brzmieniu dotychczasowym, zwolnić określony składnik majątkowy zobowiązanego bez zgody wierzyciela.
 
-3. Do wstrzymania czynności egzekucyjnych lub postępowania egzekucyjnego na podstawie art. 23 § 6 ustawy zmienianej w art. 111, w brzmieniu dotychczasowym, nie jest wymagana zgoda wierzyciela.
+3. Do wstrzymania czynności egzekucyjnych lub postępowania egzekucyjnego na podstawie art. 23 § 6 ustawy zmienianej w art. 111Artykuł 111 zawiera zmiany do ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji., w brzmieniu dotychczasowym, nie jest wymagana zgoda wierzyciela.
 
-4. Do wszczęcia i prowadzenia egzekucji z nieruchomości stosuje się przepisy działu II rozdziału 7 ustawy zmienianej w art. 111, w brzmieniu nadanym niniejszą ustawą.
+4. Do wszczęcia i prowadzenia egzekucji z nieruchomości stosuje się przepisy działu II rozdziału 7 ustawy zmienianej w art. 111Artykuł 111 zawiera zmiany do ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji., w brzmieniu nadanym niniejszą ustawą.
 
 5. Do postępowań, o których mowa w ust. 1, mają zastosowanie przepisy:
 
-- **1)** art. 17a, art. 26b, art. 36 § 1, art. 56 § 1, art. 57 § 1 i art. 71 § 3 ustawy zmienianej w art. 111, w brzmieniu nadanym niniejszą ustawą;
-- **2)** art. 49 ust. 4 ustawy zmienianej w art. 113, art. 105 ust. 1 pkt 2 lit. v ustawy zmienianej w art. 115, art. 54 pkt 8a ustawy zmienianej w art. 116, art. 19 ust. 2 pkt 3a ustawy zmienianej w art. 117, art. 8a ustawy zmienianej w art. 118, art. 18a ustawy zmienianej w art. 119, art. 281 ust. 1 pkt 10a ustawy zmienianej w art. 120, art. 149 pkt 10 ustawy zmienianej w art. 121 oraz art. 9f ust. 1 pkt 15a ustawy zmienianej w art. 122, w brzmieniu nadanym niniejszą ustawą.
+- **1)** art. 17a, art. 26b, art. 36 § 1, art. 56 § 1, art. 57 § 1 i art. 71 § 3 ustawy zmienianej w art. 111Artykuł 111 zawiera zmiany do ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji., w brzmieniu nadanym niniejszą ustawą;
+- **2)** art. 49 ust. 4 ustawy zmienianej w art. 113Artykuł 113 zawiera zmiany do ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych., art. 105 ust. 1 pkt 2 lit. v ustawy zmienianej w art. 115Artykuł 115 zawiera zmiany do ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe., art. 54 pkt 8a ustawy zmienianej w art. 116Artykuł 116 zawiera zmiany do ustawy z dnia 26 października 2000 r. o giełdach towarowych., art. 19 ust. 2 pkt 3a ustawy zmienianej w art. 117Artykuł 117 zawiera zmiany do ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej., art. 8a ustawy zmienianej w art. 118Artykuł 118 zawiera zmiany do ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego., art. 18a ustawy zmienianej w art. 119Artykuł 119 zawiera zmiany do ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych., art. 281 ust. 1 pkt 10a ustawy zmienianej w art. 120Artykuł 120 zawiera zmiany do ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych., art. 149 pkt 10 ustawy zmienianej w art. 121Artykuł 121 zawiera zmiany do ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. oraz art. 9f ust. 1 pkt 15a ustawy zmienianej w art. 122Artykuł 122 zawiera zmiany do ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych., w brzmieniu nadanym niniejszą ustawą.
 
-6. Przepisy art. 28b i art. 28c ustawy zmienianej w art. 111, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do postępowań egzekucyjnych w administracji wszczętych i niezakończonych przed dniem wejścia w życie tych przepisów.
+6. Przepisy art. 28b i art. 28c ustawy zmienianej w art. 111Artykuł 111 zawiera zmiany do ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji., w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do postępowań egzekucyjnych w administracji wszczętych i niezakończonych przed dniem wejścia w życie tych przepisów.
 
 **Art. 124.**
 
-1. Do wniosków państwa członkowskiego lub państwa trzeciego o udzielenie pomocy wniesionych do organu wykonującego przed dniem 1 stycznia 2012 r. i niezrealizowanych do dnia wejścia w życie ustawy zastosowanie mają przepisy działu I rozdziału 7 ustawy zmienianej w art. 111, w brzmieniu dotychczasowym, z wyłączeniem art. 66b § 3 i art. 66h § 2 i 4 tej ustawy, z tym że funkcje organu wykonującego sprawuje centralne biuro łącznikowe.
+1. Do wniosków państwa członkowskiego lub państwa trzeciego o udzielenie pomocy wniesionych do organu wykonującego przed dniem 1 stycznia 2012 r. i niezrealizowanych do dnia wejścia w życie ustawy zastosowanie mają przepisy działu I rozdziału 7 ustawy zmienianej w art. 111Artykuł 111 zawiera zmiany do ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji., w brzmieniu dotychczasowym, z wyłączeniem art. 66b § 3 i art. 66h § 2 i 4 tej ustawy, z tym że funkcje organu wykonującego sprawuje centralne biuro łącznikowe.
 
 2. Do wniosków państwa członkowskiego lub państwa trzeciego o udzielenie pomocy wniesionych do organu wykonującego od dnia 1 stycznia 2012 r. i niezrealizowanych do dnia wejścia w życie ustawy zastosowanie mają przepisy niniejszej ustawy.
 
@@ -806,15 +911,15 @@ Art. 110–122.
 
 1. Do wniosków polskich wierzycieli i organów egzekucyjnych o udzielenie pomocy przez państwo członkowskie lub państwo trzecie wniesionych do organu wnioskującego przed dniem 1 stycznia 2012 r. i nieprzekazanych do tych państw do dnia wejścia w życie ustawy zastosowanie mają przepisy niniejszej ustawy.
 
-2. Do wniosków polskich wierzycieli i organów egzekucyjnych o udzielenie pomocy przez państwo członkowskie lub państwo trzecie wniesionych do organu wnioskującego przed dniem 1 stycznia 2012 r. i przekazanych do tych państw zastosowanie mają przepisy działu I rozdziału 7 ustawy zmienianej w art. 111, w brzmieniu dotychczasowym, z wyłączeniem art. 66b § 3 i art. 66h § 2 i 4 tej ustawy, z tym że funkcje organu wnioskującego sprawuje centralne biuro łącznikowe.
+2. Do wniosków polskich wierzycieli i organów egzekucyjnych o udzielenie pomocy przez państwo członkowskie lub państwo trzecie wniesionych do organu wnioskującego przed dniem 1 stycznia 2012 r. i przekazanych do tych państw zastosowanie mają przepisy działu I rozdziału 7 ustawy zmienianej w art. 111Artykuł 111 zawiera zmiany do ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji., w brzmieniu dotychczasowym, z wyłączeniem art. 66b § 3 i art. 66h § 2 i 4 tej ustawy, z tym że funkcje organu wnioskującego sprawuje centralne biuro łącznikowe.
 
 3. Do wniosków polskich wierzycieli i organów egzekucyjnych o udzielenie pomocy przez państwo członkowskie lub państwo trzecie wniesionych do organu wnioskującego od dnia 1 stycznia 2012 r. zastosowanie mają przepisy niniejszej ustawy.
 
-**Art. 126.** Informację dotyczącą pomocy, o której mowa w art. 66a ustawy zmienianej w art. 111, w brzmieniu dotychczasowym, za 2013 r. i przekazywaną do Komisji Europejskiej zgodnie z art. 66b § 3 tej ustawy, minister właściwy do spraw finansów publicznych sporządzi i przekaże w formie i w zakresie określonych w art. 7.
+**Art. 126.** Informację dotyczącą pomocy, o której mowa w art. 66a ustawy zmienianej w art. 111Artykuł 111 zawiera zmiany do ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji., w brzmieniu dotychczasowym, za 2013 r. i przekazywaną do Komisji Europejskiej zgodnie z art. 66b § 3 tej ustawy, minister właściwy do spraw finansów publicznych sporządzi i przekaże w formie i w zakresie określonych w art. 7.
 
-**Art. 127.** Przepisy wykonawcze wydane na podstawie art. 6 § 2, art. 15 § 5, art. 26 § 2, art. 65, art. 67 § 1, art. 67c § 7 i 15, art. 109 § 1, art. 110r § 2 oraz art. 156 § 2 ustawy zmienianej w art. 111, pozostają w mocy do czasu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie tych przepisów, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie ustawy.
+**Art. 127.** Przepisy wykonawcze wydane na podstawie art. 6 § 2, art. 15 § 5, art. 26 § 2, art. 65, art. 67 § 1, art. 67c § 7 i 15, art. 109 § 1, art. 110r § 2 oraz art. 156 § 2 ustawy zmienianej w art. 111Artykuł 111 zawiera zmiany do ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji., pozostają w mocy do czasu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie tych przepisów, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 128.** Do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 26 § 2 ustawy zmienianej w art. 111, przepisu art. 27 § 1 pkt 12 tej ustawy nie stosuje się. Do tytułu wykonawczego wierzyciel dołącza dowód doręczenia upomnienia, a jeżeli doręczenie upomnienia nie było wymagane, podaje w tytule wykonawczym podstawę prawną braku tego obowiązku.
+**Art. 128.** Do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 26 § 2 ustawy zmienianej w art. 111Artykuł 111 zawiera zmiany do ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji., przepisu art. 27 § 1 pkt 12 tej ustawy nie stosuje się. Do tytułu wykonawczego wierzyciel dołącza dowód doręczenia upomnienia, a jeżeli doręczenie upomnienia nie było wymagane, podaje w tytule wykonawczym podstawę prawną braku tego obowiązku.
 
-**Art. 129.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 111 pkt 16, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
+**Art. 129.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 111 pkt 16, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszeniaUstawa została ogłoszona w dniu 6 listopada 2013 r.. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2010/24/UE z dnia 16 marca 2010 r. w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności dotyczących podatków, ceł i innych obciążeń (Dz. Urz. UE L 84 z 31.03.2010, str. 1). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614, 852, 1059, 1130, 1193, 1369, 1429 i 1523. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556, 614, 1059, 1193, 1234 i 1450. 4) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 5. 5) Przez art. 5 pkt 1 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 556 i 1059), która wejdzie w życie z dniem 25 marca 2024 r. 6) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 7. 7) Przez art. 5 pkt 2 ustawy, o której mowa w odnośniku 5. 8) Artykuł 111 zawiera zmiany do ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji. 9) Artykuł 113 zawiera zmiany do ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych. 10) Artykuł 115 zawiera zmiany do ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe. 11) Artykuł 116 zawiera zmiany do ustawy z dnia 26 października 2000 r. o giełdach towarowych. 12) Artykuł 117 zawiera zmiany do ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej. 13) Artykuł 118 zawiera zmiany do ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego. 14) Artykuł 119 zawiera zmiany do ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych. 15) Artykuł 120 zawiera zmiany do ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych. 16) Artykuł 121 zawiera zmiany do ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. 17) Artykuł 122 zawiera zmiany do ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych. 18) Ustawa została ogłoszona w dniu 6 listopada 2013 r.
 

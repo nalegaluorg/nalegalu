@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-08-06 |
 | Data wydania | 2010-08-20 |
-| Wejście w życie | 2010-09-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101521023) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1023/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2004 r. Nr 253, poz. 2531, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2004 r. Nr 253, poz. 2531, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 17, poz. 141, Nr 85, poz. 728 i Nr 267, poz. 2258, z 2006 r. Nr 51, poz. 377, Nr 83, poz. 574 i Nr 133, poz. 935, z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 411, z 2009 r. Nr 18, poz. 97, Nr 115, poz. 965 i Nr 201, poz. 1540 oraz z 2010 r. Nr 28, poz. 146 i Nr 127, poz. 857.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6 w ust. 2 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „
 - **11)** przeprowadzanie jawnych i otwartych konkursów na stanowiska członków rad nadzorczych w jednostkach publicznej radiofonii i telewizji. ” ;
@@ -88,5 +87,5 @@ source: "eli-html"
 
 **Art. 4.** W przypadku niezgłoszenia żadnego kandydata do przeprowadzanego po raz pierwszy konkursu na członka rady nadzorczej spółki publicznej radiofonii i telewizji albo niewyłonienia w przeprowadzanym po raz pierwszy konkursie wymaganej liczby członków rady, Krajowa Rada Radiofonii i Telewizji przeprowadzi niezwłocznie konkurs na członka rady dotyczący miejsc nieobsadzonych, biorąc pod uwagę wyłącznie kandydatów posiadających kompetencje w dziedzinie prawa, finansów, kultury oraz mediów, zgłoszonych przez członków Krajowej Rady.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 17, poz. 141, Nr 85, poz. 728 i Nr 267, poz. 2258, z 2006 r. Nr 51, poz. 377, Nr 83, poz. 574 i Nr 133, poz. 935, z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 411, z 2009 r. Nr 18, poz. 97, Nr 115, poz. 965 i Nr 201, poz. 1540 oraz z 2010 r. Nr 28, poz. 146 i Nr 127, poz. 857.
 

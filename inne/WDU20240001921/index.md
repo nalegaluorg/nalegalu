@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Sportu i Turystykiz dnia 20 grudnia 2024 r. zmieniające rozporządzenie w sprawie wyróżnień i nagród pieniężnych za wybitne osiągnięcia sportowe
+# Rozporządzenie Ministra Sportu i Turystykiz dnia 20 grudnia 2024 r. zmieniające rozporządzenie w sprawie wyróżnień i nagród pieniężnych za wybitne osiągnięcia sportowe Minister Sportu i Turystyki kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2722).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-20 |
 | Data wydania | 2024-12-23 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2025-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001921) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1921/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 34 ust. 4 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z
 § 1.
 W rozporządzeniu Ministra Sportu z dnia 22 maja 2020 r. w sprawie wyróżnień i nagród pieniężnych za wybitne osiągnięcia sportowe (Dz. U. poz. 929 i 2407) wprowadza się następujące zmiany:
 1)
-§ 6–10 otrzymują brzmienie:
-„
+§ 6–10 otrzymują brzmienie: „
 § 6.
 1.
 W sportach i konkurencjach sportowych objętych programem igrzysk olimpijskich, igrzysk paraolimpijskich lub igrzysk głuchych nagroda może być przyznana za:
@@ -111,8 +109,7 @@ W sportach i konkurencjach sportowych nieobjętych programem igrzysk olimpijskic
 2)
 2. miejsca – w wysokości do 0,40-krotności podstawy;
 3)
-3. miejsca – w wysokości do 0,27-krotności podstawy.
-” ;
+3. miejsca – w wysokości do 0,27-krotności podstawy. ” ;
 2)
 użyty w § 11 w ust. 1 wyraz „6,5-krotności” zastępuje się wyrazem „3,64-krotności”;
 3)
@@ -120,6 +117,5 @@ użyty w § 12 wyraz „5-krotności” zastępuje się wyrazem „2,66‑krotno
 § 2.
 Do spraw dotyczących wniosków o przyznanie nagród pieniężnych na podstawie wyników sportowych uprawniających do nagrody pieniężnej osiągniętych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
-1) Minister Sportu i Turystyki kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2722).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r. 1) Minister Sportu i Turystyki kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2722).
 

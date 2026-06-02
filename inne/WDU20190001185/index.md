@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 18 czerwca 2019 r. w sprawie sposobu przesyłania informacji o nieruchomościach i obiektach budowlanych oraz deklaracji na podatek od nieruchomości za pomocą środków komunikacji elektronicznej
+# Rozporządzenie Ministra Finansówz dnia 18 czerwca 2019 r. w sprawie sposobu przesyłania informacji o nieruchomościach i obiektach budowlanych oraz deklaracji na podatek od nieruchomości za pomocą środków komunikacji elektronicznej Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-18 |
 | Data wydania | 2019-06-26 |
-| Wejście w życie | 2019-07-01 |
 | Ostatnia zmiana | 2025-10-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001185) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1185/text.pdf) |
 
@@ -49,6 +48,5 @@ podpisem osobistym;
 3)
 podpisem zaufanym.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2019 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 

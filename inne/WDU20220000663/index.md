@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-15 |
 | Data wydania | 2022-03-23 |
-| Wejście w życie | 2022-03-24 |
 | Ostatnia zmiana | 2026-05-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000663) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/663/text.pdf) |
 
@@ -69,8 +68,7 @@ w więcej niż jednej szkole wyższej lub na kilku kierunkach studiów – tylko
 2)
 przed terminem przewidzianym w programie nauczania – okres do uzyskania dyplomu ich ukończenia,
 3)
-I stopnia i kontynuowania nauki na uzupełniających studiach II stopnia – oba te okresy
-w wymiarze korzystniejszym dla funkcjonariusza.
+I stopnia i kontynuowania nauki na uzupełniających studiach II stopnia – oba te okresy – w wymiarze korzystniejszym dla funkcjonariusza.
 5.
 Do ustalenia wysokości dodatku za wysługę lat, w razie równoczesnego pozostawania w więcej niż jednym stosunku pracy albo równoczesnego pozostawania w stosunku pracy i kontynuowania nauki w szkole wyższej, wlicza się zakończone okresy pracy lub nauki, w wymiarze korzystniejszym dla funkcjonariusza.
 6.
@@ -153,8 +151,7 @@ Funkcjonariuszowi, wobec którego w dniu 1 stycznia 2022 r. jest wykonywana kara
 § 11.
 Przepisy rozporządzenia mają zastosowanie do wysokości dodatków za wysługę lat, dodatków służbowych oraz dodatków za stopień funkcjonariuszy od dnia 1 stycznia 2022 r., z zastrzeżeniem § 8, który ma zastosowanie od dnia wejścia w życie rozporządzenia.
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 13 stycznia 2011 r. w sprawie dodatków o charakterze stałym do uposażenia zasadniczego funkcjonariuszy Służby Więziennej (Dz. U. z 2016 r. poz. 2044), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 30 ust. 2 ustawy z dnia 17 grudnia 2021 r. o ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2022–2025”, o ustanowieniu „Programu modernizacji Służby Więziennej w latach 2022–2025” oraz o zmianie ustawy o Policji i niektórych innych ustaw (Dz. U. poz. 2448).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 13 stycznia 2011 r. w sprawie dodatków o charakterze stałym do uposażenia zasadniczego funkcjonariuszy Służby Więziennej (Dz. U. z 2016 r. poz. 2044), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 30 ust. 2 ustawy z dnia 17 grudnia 2021 r. o ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2022–2025”, o ustanowieniu „Programu modernizacji Służby Więziennej w latach 2022–2025” oraz o zmianie ustawy o Policji i niektórych innych ustaw (Dz. U. poz. 2448). 1) Rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 13 stycznia 2011 r. w sprawie dodatków o charakterze stałym do uposażenia zasadniczego funkcjonariuszy Służby Więziennej (Dz. U. z 2016 r. poz. 2044), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 30 ust. 2 ustawy z dnia 17 grudnia 2021 r. o ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2022–2025”, o ustanowieniu „Programu modernizacji Służby Więziennej w latach 2022–2025” oraz o zmianie ustawy o Policji i niektórych innych ustaw (Dz. U. poz. 2448).
 Załącznik – Wysokość dodatku za stopień
 Lp. Nazwa stopnia Stawka miesięczna w zł 1 generał 2371 2 pułkownik 2160 3 podpułkownik 2002 4 major 1897 5 kapitan 1738 6 porucznik 1686 7 podporucznik 1633 8 starszy chorąży 1549 9 chorąży 1506 10 młodszy chorąży 1475 11 starszy sierżant sztabowy 1359 12 sierżant sztabowy 1306 13 starszy sierżant 1264 14 sierżant 1222 15 plutonowy 1200 16 starszy kapral 1179 17 kapral 1158 18 starszy szeregowy 1021 19 szeregowy 1000
 

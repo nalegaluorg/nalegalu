@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-12 |
 | Data wydania | 2016-09-28 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001565) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1565/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 20 pkt 5 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 20 pkt 5 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1595 i 1781 oraz z 2016 r. poz. 147, 437, 633 i 960.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 29 listopada 2012 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw należących do właściwości wydziałów rodzinnych i nieletnich z obszarów właściwości innych sądów rejonowych (Dz. U. poz. 1349) w § 1 uchyla się pkt 3.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1595 i 1781 oraz z 2016 r. poz. 147, 437, 633 i 960.
 

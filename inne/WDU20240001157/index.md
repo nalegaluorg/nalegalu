@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Finansówz dnia 1 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi
+# Obwieszczenie Ministra Finansówz dnia 1 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -39,31 +39,24 @@ rozporządzeniem Ministra Finansów z dnia 9 października 2023 r. zmieniającym
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 i § 3 rozporządzenia Ministra Finansów z dnia 20 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. poz. 750), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Finansów z dnia 20 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. poz. 750), które stanowią: „
 § 2.
 Do przewozów towarów, o których mowa w § 1 pkt 9 rozporządzenia zmienianego w § 1, rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Finansów z dnia 8 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. poz. 1596), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Finansów z dnia 8 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. poz. 1596), które stanowią: „
 § 2.
 Do przewozów towarów, o których mowa w § 1 pkt 9 rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 3)
-§ 2 i § 3 rozporządzenia Ministra Finansów z dnia 9 października 2023 r. zmieniającego rozporządzenie w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. poz. 2185), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Finansów z dnia 9 października 2023 r. zmieniającego rozporządzenie w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. poz. 2185), które stanowią: „
 § 2.
 Do przewozów towarów, o których mowa w § 1 pkt 7 lit. b rozporządzenia zmienianego w § 1, rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
-” .
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
-Załącznik – Rozporządzenie Ministra Finansów z dnia 25 kwietnia 2022 r. w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi
+Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. ” . 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Załącznik – Rozporządzenie Ministra Finansów z dnia 25 kwietnia 2022 r. w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymiNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 Na podstawie art. 3 ust. 11 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2023 r. poz. 104 i 1523) zarządza się, co następuje:
 § 1.
 Systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi jest objęty przewóz:
@@ -72,15 +65,13 @@ towarów objętych pozycjami Nomenklatury Scalonej, zwanej dalej „CN”:
 a)
 od 1507 do 1516 i
 b)
-1517, z wyłączeniem margaryny oraz margaryny płynnej
-jeżeli masa brutto przesyłki towarów objętych tymi pozycjami przekracza 500 kg lub jej objętość przekracza 500 litrów;
+1517, z wyłączeniem margaryny oraz margaryny płynnej – jeżeli masa brutto przesyłki towarów objętych tymi pozycjami przekracza 500 kg lub jej objętość przekracza 500 litrów;
 2)
 towarów objętych pozycjami CN:
 a)
 4813 – bibułka papierosowa, jeżeli może być stosowana do maszynowej produkcji papierosów, z wyłączeniem bibułki papierosowej w książeczkach lub tutkach,
 b)
-5910 – taśma formująca, jeżeli może być stosowana do maszynowej produkcji papierosów
-jeżeli masa brutto przesyłki towarów objętych tymi pozycjami przekracza 10 kg;
+5910 – taśma formująca, jeżeli może być stosowana do maszynowej produkcji papierosów – jeżeli masa brutto przesyłki towarów objętych tymi pozycjami przekracza 10 kg;
 3)
 towarów, bez względu na pozycję CN, zawierających w swym składzie alkohol etylowy o rzeczywistej objętościowej mocy alkoholu przekraczającej 50 % objętości skażony:
 a)
@@ -88,18 +79,17 @@ mieszaniną alkoholu izopropylowego (propan-2-ol) i benzoesanu denatonium lub
 b)
 mieszaniną alkoholu tert-butylowego i benzoesanu denatonium, lub
 c)
-alkoholem izopropylowym
-jeżeli masa brutto przesyłki tych towarów przekracza 500 kg lub jej objętość przekracza 500 litrów;
+alkoholem izopropylowym – jeżeli masa brutto przesyłki tych towarów przekracza 500 kg lub jej objętość przekracza 500 litrów;
 4)
 towarów objętych pozycją CN ex 2711 – propan, butan albo mieszaniny propanu-butanu, bez względu na ich ilość w przesyłce;
 5)
 towarów objętych kodem CN ex 2905 11 00 – metanol (alkohol metylowy) pochodzenia syntetycznego, jeżeli masa brutto przesyłki towarów objętych tym kodem przekracza 500 kg lub jej objętość przekracza 500 litrów;
 6)
 towarów objętych pozycją CN 3814 zawierających więcej niż 70 % masy olejów ropy naftowej, innych niż towary objęte tą pozycją zawierające alkohol etylowy, jeżeli masa brutto przesyłki towarów objętych tą pozycją przekracza 500 kg lub jej objętość przekracza 500 litrów;
-7)
+7W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 9 października 2023 r. zmieniającego rozporządzenie w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. poz. 2185), które weszło w życie z dniem 12 stycznia 2024 r.)
 towarów innych niż wymienione w art. 3 ust. 2 pkt 1–3a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi, zwanej dalej „ustawą o systemie monitorowania”, będących jednocześnie odpadami w rozumieniu ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029):
 a)
-które podlegają przepisom rozporządzenia (WE) nr 1013/2006 Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie przemieszczania odpadów (Dz. Urz. UE L 190 z 12.07.2006, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 1013/2006”, bez względu na ich ilość w przesyłce,
+które podlegają przepisom rozporządzenia (WE) nr 1013/2006 Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie przemieszczania odpadów (Dz. Urz. UE L 190 z 12.07.2006, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 27.11.2007, str. 7, Dz. Urz. UE L 188 z 16.07.2008, str. 7, Dz. Urz. UE L 299 z 08.11.2008, str. 50, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 97 z 16.04.2009, str. 8, Dz. Urz. UE L 140 z 05.06.2009, str. 114, Dz. Urz. UE L 119 z 13.05.2010, str. 1, Dz. Urz. UE L 182 z 12.07.2011, str. 2, Dz. Urz. UE L 46 z 17.02.2012, str. 30, Dz. Urz. UE L 79 z 21.03.2013, str. 19, Dz. Urz. UE L 330 z 10.12.2013, str. 1, Dz. Urz. UE L 334 z 13.12.2013, str. 46, Dz. Urz. UE L 189 z 27.06.2014, str. 135, Dz. Urz. UE L 332 z 19.11.2014, str. 15, Dz. Urz. UE L 277 z 22.10.2015, str. 61, Dz. Urz. UE L 294 z 11.11.2015, str. 1 oraz Dz. Urz. UE L 433 z 22.12.2020, str. 11.Rozporządzenie utraciło moc ze skutkiem od dnia 20 maja 2024 r. na podstawie art. 85 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157 z dnia 11 kwietnia 2024 r. w sprawie przemieszczania odpadów, zmiany rozporządzeń (UE) nr 1257/2013 i (UE) 2020/1056 oraz uchylenia rozporządzenia (WE) nr 1013/2006 (Dz. Urz. UE L 2024/1157 z 30.04.2024); przepisy rozporządzenia stosuje się jednak nadal do dnia 21 maja 2026 r., z wyjątkami określonymi w art. 85 ust. 2–3 i ust. 5–7 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157. Zgodnie z art. 85 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157 odesłania do uchylonego rozporządzenia należy traktować jako odesłania do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157, zgodnie z tabelą korelacji określoną w załączniku XIII., zwanego dalej „rozporządzeniem 1013/2006”, bez względu na ich ilość w przesyłce,
 b)
 w przypadku których masa brutto przesyłki jest równa albo przekracza 1000 kg lub jej objętość jest równa albo przekracza 1000 litrów, wymienionych w załączniku do rozporządzenia Ministra Klimatu z dnia 2 stycznia 2020 r. w sprawie katalogu odpadów (Dz. U. poz. 10) oznaczonych kodem:
 – 08 01 11* – odpady farb i lakierów zawierających rozpuszczalniki organiczne lub inne substancje niebezpieczne,
@@ -118,9 +108,8 @@ towarów objętych pozycją:
 a)
 CN 2701 – węgiel; brykiety, brykietki i podobne paliwa stałe wytwarzane z węgla,
 b)
-CN 2704 – koks i półkoks, z węgla, węgla brunatnego (lignitu) lub torfu, nawet aglomerowany; węgiel retortowy
-jeżeli masa brutto przesyłki towarów objętych tą pozycją przekracza 500 kg;
-9)
+CN 2704 – koks i półkoks, z węgla, węgla brunatnego (lignitu) lub torfu, nawet aglomerowany; węgiel retortowy – jeżeli masa brutto przesyłki towarów objętych tą pozycją przekracza 500 kg;
+9Dodany przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 20 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. poz. 750), które weszło w życie z dniem 21 kwietnia 2023 r.; w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 8 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. poz. 1596), które weszło w życie z dniem 12 sierpnia 2023 r.)
 towarów:
 a)
 objętych kodami CN:
@@ -206,7 +195,7 @@ Przepisu § 1 pkt 6 nie stosuje się do towarów:
 objętych procedurą celną tranzytu, składowania, odprawy czasowej, przetwarzania, wywozu albo powrotnym wywozem;
 2)
 przewożonych w opakowaniach jednostkowych, których objętość nie przekracza 11 litrów.
-7.
+7W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Przepisu § 1 pkt 7:
 1)
 lit. a nie stosuje się do towarów:
@@ -216,8 +205,8 @@ b)
 objętych procedurą celną tranzytu,
 c)
 przeznaczonych do odzysku, jeżeli ich ilość w przesyłce nie przekracza 20 kg, które:
-– zostały wyszczególnione w załączniku III lub IIIB do rozporządzenia 1013/2006 ,
-– są mieszaninami, niesklasyfikowanymi pod żadnym kodem w załączniku III do rozporządzenia 1013/2006 lub składającymi się z dwóch lub więcej rodzajów odpadów wymienionych w załączniku III do rozporządzenia 1013/2006 , jeżeli skład tych mieszanin nie utrudnia poddania ich racjonalnemu ekologicznie odzyskowi i mieszaniny te zostały wyszczególnione w załączniku IIIA do rozporządzenia 1013/2006 ;
+– zostały wyszczególnione w załączniku III lub IIIB do rozporządzenia 1013/2006 Rozporządzenie utraciło moc ze skutkiem od dnia 20 maja 2024 r. na podstawie art. 85 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157 z dnia 11 kwietnia 2024 r. w sprawie przemieszczania odpadów, zmiany rozporządzeń (UE) nr 1257/2013 i (UE) 2020/1056 oraz uchylenia rozporządzenia (WE) nr 1013/2006 (Dz. Urz. UE L 2024/1157 z 30.04.2024); przepisy rozporządzenia stosuje się jednak nadal do dnia 21 maja 2026 r., z wyjątkami określonymi w art. 85 ust. 2–3 i ust. 5–7 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157. Zgodnie z art. 85 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157 odesłania do uchylonego rozporządzenia należy traktować jako odesłania do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157, zgodnie z tabelą korelacji określoną w załączniku XIII.,
+– są mieszaninami, niesklasyfikowanymi pod żadnym kodem w załączniku III do rozporządzenia 1013/2006 Rozporządzenie utraciło moc ze skutkiem od dnia 20 maja 2024 r. na podstawie art. 85 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157 z dnia 11 kwietnia 2024 r. w sprawie przemieszczania odpadów, zmiany rozporządzeń (UE) nr 1257/2013 i (UE) 2020/1056 oraz uchylenia rozporządzenia (WE) nr 1013/2006 (Dz. Urz. UE L 2024/1157 z 30.04.2024); przepisy rozporządzenia stosuje się jednak nadal do dnia 21 maja 2026 r., z wyjątkami określonymi w art. 85 ust. 2–3 i ust. 5–7 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157. Zgodnie z art. 85 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157 odesłania do uchylonego rozporządzenia należy traktować jako odesłania do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157, zgodnie z tabelą korelacji określoną w załączniku XIII.lub składającymi się z dwóch lub więcej rodzajów odpadów wymienionych w załączniku III do rozporządzenia 1013/2006 Rozporządzenie utraciło moc ze skutkiem od dnia 20 maja 2024 r. na podstawie art. 85 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157 z dnia 11 kwietnia 2024 r. w sprawie przemieszczania odpadów, zmiany rozporządzeń (UE) nr 1257/2013 i (UE) 2020/1056 oraz uchylenia rozporządzenia (WE) nr 1013/2006 (Dz. Urz. UE L 2024/1157 z 30.04.2024); przepisy rozporządzenia stosuje się jednak nadal do dnia 21 maja 2026 r., z wyjątkami określonymi w art. 85 ust. 2–3 i ust. 5–7 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157. Zgodnie z art. 85 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157 odesłania do uchylonego rozporządzenia należy traktować jako odesłania do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157, zgodnie z tabelą korelacji określoną w załączniku XIII., jeżeli skład tych mieszanin nie utrudnia poddania ich racjonalnemu ekologicznie odzyskowi i mieszaniny te zostały wyszczególnione w załączniku IIIA do rozporządzenia 1013/2006 Rozporządzenie utraciło moc ze skutkiem od dnia 20 maja 2024 r. na podstawie art. 85 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157 z dnia 11 kwietnia 2024 r. w sprawie przemieszczania odpadów, zmiany rozporządzeń (UE) nr 1257/2013 i (UE) 2020/1056 oraz uchylenia rozporządzenia (WE) nr 1013/2006 (Dz. Urz. UE L 2024/1157 z 30.04.2024); przepisy rozporządzenia stosuje się jednak nadal do dnia 21 maja 2026 r., z wyjątkami określonymi w art. 85 ust. 2–3 i ust. 5–7 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157. Zgodnie z art. 85 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157 odesłania do uchylonego rozporządzenia należy traktować jako odesłania do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157, zgodnie z tabelą korelacji określoną w załączniku XIII.;
 2)
 lit. b nie stosuje się do towarów:
 a)
@@ -232,7 +221,7 @@ których przewóz jest realizowany na podstawie art. 5 ustawy o systemie monitor
 objętych procedurą celną tranzytu, składowania, odprawy czasowej, przetwarzania, wywozu albo powrotnym wywozem;
 3)
 przewożonych w opakowaniach jednostkowych, których masa brutto nie przekracza 25 kg.
-9.
+9Dodany przez § 1 pkt 2 rozporządzenia wymienionego jako pierwsze w odnośniku 5; w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia wymienionego jako drugie w odnośniku 5..
 Przepisu § 1 pkt 9:
 1)
 lit. a nie stosuje się do towarów, których przewóz jest realizowany na podstawie:
@@ -251,6 +240,5 @@ objętych procedurą celną tranzytu.
 § 3.
 Do przewozów towarów, o których mowa w § 1 pkt 8, niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 9 października 2023 r. zmieniającego rozporządzenie w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. poz. 2185), które weszło w życie z dniem 12 stycznia 2024 r. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 27.11.2007, str. 7, Dz. Urz. UE L 188 z 16.07.2008, str. 7, Dz. Urz. UE L 299 z 08.11.2008, str. 50, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 97 z 16.04.2009, str. 8, Dz. Urz. UE L 140 z 05.06.2009, str. 114, Dz. Urz. UE L 119 z 13.05.2010, str. 1, Dz. Urz. UE L 182 z 12.07.2011, str. 2, Dz. Urz. UE L 46 z 17.02.2012, str. 30, Dz. Urz. UE L 79 z 21.03.2013, str. 19, Dz. Urz. UE L 330 z 10.12.2013, str. 1, Dz. Urz. UE L 334 z 13.12.2013, str. 46, Dz. Urz. UE L 189 z 27.06.2014, str. 135, Dz. Urz. UE L 332 z 19.11.2014, str. 15, Dz. Urz. UE L 277 z 22.10.2015, str. 61, Dz. Urz. UE L 294 z 11.11.2015, str. 1 oraz Dz. Urz. UE L 433 z 22.12.2020, str. 11. 4) Rozporządzenie utraciło moc ze skutkiem od dnia 20 maja 2024 r. na podstawie art. 85 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157 z dnia 11 kwietnia 2024 r. w sprawie przemieszczania odpadów, zmiany rozporządzeń (UE) nr 1257/2013 i (UE) 2020/1056 oraz uchylenia rozporządzenia (WE) nr 1013/2006 (Dz. Urz. UE L 2024/1157 z 30.04.2024); przepisy rozporządzenia stosuje się jednak nadal do dnia 21 maja 2026 r., z wyjątkami określonymi w art. 85 ust. 2–3 i ust. 5–7 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157. Zgodnie z art. 85 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157 odesłania do uchylonego rozporządzenia należy traktować jako odesłania do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157, zgodnie z tabelą korelacji określoną w załączniku XIII. 5) Dodany przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 20 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. poz. 750), które weszło w życie z dniem 21 kwietnia 2023 r.; w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 8 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. poz. 1596), które weszło w życie z dniem 12 sierpnia 2023 r. 6) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 7) Dodany przez § 1 pkt 2 rozporządzenia wymienionego jako pierwsze w odnośniku 5; w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia wymienionego jako drugie w odnośniku 5. 8) Rozporządzenie zostało ogłoszone w dniu 26 kwietnia 2022 r. 9) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 20 sierpnia 2020 r. w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. poz. 1477, z 2021 r. poz. 163, 782 i 1012 oraz z 2022 r. poz. 178), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 24 pkt 2 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. poz. 835).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 26 kwietnia 2022 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 20 sierpnia 2020 r. w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. poz. 1477, z 2021 r. poz. 163, 782 i 1012 oraz z 2022 r. poz. 178), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 24 pkt 2 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. poz. 835). 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 9 października 2023 r. zmieniającego rozporządzenie w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. poz. 2185), które weszło w życie z dniem 12 stycznia 2024 r. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 27.11.2007, str. 7, Dz. Urz. UE L 188 z 16.07.2008, str. 7, Dz. Urz. UE L 299 z 08.11.2008, str. 50, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 97 z 16.04.2009, str. 8, Dz. Urz. UE L 140 z 05.06.2009, str. 114, Dz. Urz. UE L 119 z 13.05.2010, str. 1, Dz. Urz. UE L 182 z 12.07.2011, str. 2, Dz. Urz. UE L 46 z 17.02.2012, str. 30, Dz. Urz. UE L 79 z 21.03.2013, str. 19, Dz. Urz. UE L 330 z 10.12.2013, str. 1, Dz. Urz. UE L 334 z 13.12.2013, str. 46, Dz. Urz. UE L 189 z 27.06.2014, str. 135, Dz. Urz. UE L 332 z 19.11.2014, str. 15, Dz. Urz. UE L 277 z 22.10.2015, str. 61, Dz. Urz. UE L 294 z 11.11.2015, str. 1 oraz Dz. Urz. UE L 433 z 22.12.2020, str. 11. 4) Rozporządzenie utraciło moc ze skutkiem od dnia 20 maja 2024 r. na podstawie art. 85 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157 z dnia 11 kwietnia 2024 r. w sprawie przemieszczania odpadów, zmiany rozporządzeń (UE) nr 1257/2013 i (UE) 2020/1056 oraz uchylenia rozporządzenia (WE) nr 1013/2006 (Dz. Urz. UE L 2024/1157 z 30.04.2024); przepisy rozporządzenia stosuje się jednak nadal do dnia 21 maja 2026 r., z wyjątkami określonymi w art. 85 ust. 2–3 i ust. 5–7 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157. Zgodnie z art. 85 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157 odesłania do uchylonego rozporządzenia należy traktować jako odesłania do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1157, zgodnie z tabelą korelacji określoną w załączniku XIII. 5) Dodany przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 20 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. poz. 750), które weszło w życie z dniem 21 kwietnia 2023 r.; w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 8 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. poz. 1596), które weszło w życie z dniem 12 sierpnia 2023 r. 6) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 7) Dodany przez § 1 pkt 2 rozporządzenia wymienionego jako pierwsze w odnośniku 5; w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia wymienionego jako drugie w odnośniku 5. 8) Rozporządzenie zostało ogłoszone w dniu 26 kwietnia 2022 r. 9) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 20 sierpnia 2020 r. w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. poz. 1477, z 2021 r. poz. 163, 782 i 1012 oraz z 2022 r. poz. 178), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 24 pkt 2 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. poz. 835).
 

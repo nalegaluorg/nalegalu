@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 10 grudnia 2018 r. w sprawie wniosków o zmianę wpisu do rejestru brokerów
+# Rozporządzenie Ministra Finansówz dnia 10 grudnia 2018 r. w sprawie wniosków o zmianę wpisu do rejestru brokerów Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-10 |
 | Data wydania | 2018-12-20 |
-| Wejście w życie | 2019-01-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002371) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2371/text.pdf) |
 
@@ -170,6 +169,5 @@ w przypadku złożenia wniosku w sposób, o którym mowa w § 2 ust. 7 – oświ
 § 6.
 W przypadku wniosków złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia, dane objęte wnioskiem wpisywane są do rejestru brokerów przez organ nadzoru.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 15 stycznia 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 8 września 2014 r. w sprawie wniosków o zmianę wpisu do rejestru brokerów ubezpieczeniowych (Dz. U. poz. 1273), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2018 r. poz. 2210 i 2243).
+Rozporządzenie wchodzi w życie z dniem 15 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 8 września 2014 r. w sprawie wniosków o zmianę wpisu do rejestru brokerów ubezpieczeniowych (Dz. U. poz. 1273), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2018 r. poz. 2210 i 2243). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 8 września 2014 r. w sprawie wniosków o zmianę wpisu do rejestru brokerów ubezpieczeniowych (Dz. U. poz. 1273), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2018 r. poz. 2210 i 2243).
 

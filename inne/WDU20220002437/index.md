@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 23 listopada 2022 r. zmieniające rozporządzenie w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 23 listopada 2022 r. zmieniające rozporządzenie w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-23 |
 | Data wydania | 2022-11-25 |
-| Wejście w życie | 2022-11-26 |
 | Ostatnia zmiana | 2025-09-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002437) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2437/text.pdf) |
 
@@ -37,14 +36,11 @@ w ust. 2 objaśnienie symbolu Cr otrzymuje brzmienie: „ Cr – cenę referency
 b)
 w ust. 3 użyty w różnym przypadku wyraz „źródła” zastępuje się użytymi w odpowiednim przypadku wyrazami „jednostki kogeneracji”,
 c)
-po ust. 4 dodaje się ust. 4a w brzmieniu:
-„
+po ust. 4 dodaje się ust. 4a w brzmieniu: „
 4a.
-W przypadku jednostek kogeneracji, o których mowa w ust. 1, w których do wytwarzania ciepła jest zużywanych jednocześnie kilka rodzajów paliw, przy obliczaniu wskaźnika referencyjnego ustala się średnią ze wskaźników referencyjnych ważoną planowanym udziałem energii chemicznej poszczególnych rodzajów paliw zużywanych do wytwarzania energii elektrycznej i ciepła w tych jednostkach.
-” ,
+W przypadku jednostek kogeneracji, o których mowa w ust. 1, w których do wytwarzania ciepła jest zużywanych jednocześnie kilka rodzajów paliw, przy obliczaniu wskaźnika referencyjnego ustala się średnią ze wskaźników referencyjnych ważoną planowanym udziałem energii chemicznej poszczególnych rodzajów paliw zużywanych do wytwarzania energii elektrycznej i ciepła w tych jednostkach. ” ,
 d)
-ust. 5 i 6 otrzymują brzmienie:
-„
+ust. 5 i 6 otrzymują brzmienie: „
 5.
 Wskaźnik referencyjny, o którym mowa w ust. 4, można zwiększyć w zależności od wielkości możliwej produkcji ciepła i dla jednostek kogeneracji, w których ciepło jest wytwarzane w jednostkach kogeneracji o sumie mocy zainstalowanej cieplnej:
 1)
@@ -78,14 +74,11 @@ w ust. 11 wyraz „źródeł” zastępuje się wyrazami „jednostek kogeneracj
 2)
 w § 28 w ust. 1a zdanie pierwsze otrzymuje brzmienie: „ Zmiana wprowadzonej do stosowania taryfy dla ciepła, dla której ceny i stawki opłat ustala się na podstawie § 11 i § 12, może nastąpić w przypadku istotnej zmiany cen zakupu uprawnień do emisji dwutlenku węgla lub zmiany cen paliw, przy czym analizy i oceny skutków ekonomicznych tych zmian dokonuje się wyłącznie w zakresie zmiany cen zakupu uprawnień do emisji lub zmiany cen paliw. ” ;
 3)
-§ 45e otrzymuje brzmienie:
-„
+§ 45e otrzymuje brzmienie: „
 § 45e.
-Do dnia 15 marca 2023 r. przedsiębiorstwo energetyczne stosujące uproszczony sposób kalkulacji cen i stawek opłat, o którym mowa w § 13 ust. 1, może wystąpić z wnioskiem o zmianę taryfy przed upływem okresu jej stosowania, jeżeli w dotychczasowej taryfie wzrost uzasadnionych planowanych przychodów ze sprzedaży ciepła, o którym mowa w § 13 ust. 1, został ograniczony zgodnie z § 13 ust. 6, a po zatwierdzeniu tej taryfy wskaźnik zmiany przychodów, o którym mowa w § 13 ust. 6, uległ zmianie.
-” ;
+Do dnia 15 marca 2023 r. przedsiębiorstwo energetyczne stosujące uproszczony sposób kalkulacji cen i stawek opłat, o którym mowa w § 13 ust. 1, może wystąpić z wnioskiem o zmianę taryfy przed upływem okresu jej stosowania, jeżeli w dotychczasowej taryfie wzrost uzasadnionych planowanych przychodów ze sprzedaży ciepła, o którym mowa w § 13 ust. 1, został ograniczony zgodnie z § 13 ust. 6, a po zatwierdzeniu tej taryfy wskaźnik zmiany przychodów, o którym mowa w § 13 ust. 6, uległ zmianie. ” ;
 4)
-po § 47 dodaje się § 47a i § 47b w brzmieniu:
-„
+po § 47 dodaje się § 47a i § 47b w brzmieniu: „
 § 47a.
 1.
 W przypadku jednostek kogeneracji, o których mowa w § 13 ust. 1, w taryfie albo jej zmianie, zatwierdzanej przez Prezesa Urzędu Regulacji Energetyki do dnia 31 marca 2023 r., przedsiębiorstwo energetyczne może doliczyć do ceny ciepła oznaczonej symbolem CC, ustalonej zgodnie z § 13, kwotę w wysokości do:
@@ -96,8 +89,7 @@ W przypadku jednostek kogeneracji, o których mowa w § 13 ust. 1, w taryfie alb
 3)
 28 zł/GJ – w przypadku jednostek kogeneracji opalanych olejem opałowym,
 4)
-25 zł/GJ – w przypadku jednostek kogeneracji stanowiących instalacje odnawialnego źródła energii
-z tytułu pokrycia kosztów paliwa, które nie zostały uwzględnione w cenie referencyjnej, o której mowa w § 13 ust. 2 i 3.
+25 zł/GJ – w przypadku jednostek kogeneracji stanowiących instalacje odnawialnego źródła energii – z tytułu pokrycia kosztów paliwa, które nie zostały uwzględnione w cenie referencyjnej, o której mowa w § 13 ust. 2 i 3.
 2.
 W przypadku jednostek kogeneracji, o których mowa w § 13 ust. 1, w których do wytwarzania ciepła jest zużywanych jednocześnie kilka rodzajów paliw, kwotę, o której mowa w ust. 1, ustala się jako średnią z wartości kwot określonych w ust. 1 ważoną planowanym udziałem energii chemicznej poszczególnych paliw zużywanych do wytwarzania energii elektrycznej i ciepła w tych jednostkach.
 3.
@@ -105,9 +97,7 @@ Cena ciepła po doliczeniu kwoty, o której mowa w ust. 1 albo 2, może być wy�
 4.
 W taryfie albo jej zmianie, zatwierdzanej przez Prezesa Urzędu Regulacji Energetyki do dnia 31 marca 2023 r., doliczenie do ceny ciepła kwoty, o której mowa w ust. 1 albo 2, stosuje się nie dłużej niż do dnia 30 kwietnia 2023 r.
 § 47b.
-Przedsiębiorstwo energetyczne stosujące uproszczony sposób kalkulacji cen i stawek opłat, o którym mowa w § 13 ust. 1, do dnia 15 marca 2023 r., może wystąpić z wnioskiem o zmianę taryfy przed upływem okresu jej stosowania, jeżeli zmiana dotyczy doliczenia do ceny ciepła kwoty, o której mowa w § 47a ust. 1 albo 2.
-” .
+Przedsiębiorstwo energetyczne stosujące uproszczony sposób kalkulacji cen i stawek opłat, o którym mowa w § 13 ust. 1, do dnia 15 marca 2023 r., może wystąpić z wnioskiem o zmianę taryfy przed upływem okresu jej stosowania, jeżeli zmiana dotyczy doliczenia do ceny ciepła kwoty, o której mowa w § 47a ust. 1 albo 2. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 1 lit. g, który wchodzi w życie z dniem 1 stycznia 2028 r.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 1 lit. g, który wchodzi w życie z dniem 1 stycznia 2028 r. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 

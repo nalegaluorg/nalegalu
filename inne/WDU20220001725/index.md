@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-05 |
 | Data wydania | 2022-08-17 |
-| Wejście w życie | 2022-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001725) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1725/text.pdf) |
 
@@ -32,8 +31,11 @@ source: "eli-html"
     - **a)**
 
 - **4)** spłatę kredytów i pożyczek, o których mowa w art. 45 ust. 1, wraz z odsetkami i innymi kosztami bezpośrednio związanymi z tymi kredytami i pożyczkami;
-- **5)** spłatę zobowiązań finansowych, o których mowa w art. 45a ust. 1, wraz z odsetkami i innymi kosztami bezpośrednio związanymi z tymi zobowiązaniami. ” , w ust. 4: – uchyla się pkt 6, – w pkt 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „ odszkodowań lub kar umownych oraz zwróconych zaliczek wypłaconych w poprzednich latach budżetowych, wpływów ze zrealizowanych gwarancji, zabezpieczeń oraz innych środków otrzymanych w toku realizacji umów zawartych przez jednostki budżetowe resortu obrony narodowej, niezależnie od źródła finansowania tych umów, dotyczących: ” , – pkt 9 otrzymuje brzmienie: „ 9) kredytów, pożyczek oraz wyemitowanych obligacji, o których mowa w art. 45 ust. 1, oraz zobowiązań finansowych, o których mowa w art. 45a ust. 1; ” , – po pkt 14 dodaje się pkt 14a w brzmieniu: „ 14a) środków pochodzących ze źródeł zagranicznych niepodlegających zwrotowi, o których mowa w art. 5 ust. 1 pkt 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych; ” , w ust. 8 po wyrazach „ust. 2 i 3 pkt 1,” dodaje się wyrazy „4 i 5,”;
+- **5)** spłatę zobowiązań finansowych, o których mowa w art. 45a ust. 1, wraz z odsetkami i innymi kosztami bezpośrednio związanymi z tymi zobowiązaniami. ” , w ust. 4: – uchyla się pkt 6, – w pkt 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „ odszkodowań lub kar umownych oraz zwróconych zaliczek wypłaconych w poprzednich latach budżetowych, wpływów ze zrealizowanych gwarancji, zabezpieczeń oraz innych środków otrzymanych w toku realizacji umów zawartych przez jednostki budżetowe resortu obrony narodowej, niezależnie od źródła finansowania tych umów, dotyczących: ” , pkt 9 otrzymuje brzmienie: „
     - **b)**
+
+- **9)** kredytów, pożyczek oraz wyemitowanych obligacji, o których mowa w art. 45 ust. 1, oraz zobowiązań finansowych, o których mowa w art. 45a ust. 1; ” , po pkt 14 dodaje się pkt 14a w brzmieniu: „
+- **14a)** środków pochodzących ze źródeł zagranicznych niepodlegających zwrotowi, o których mowa w art. 5 ust. 1 pkt 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych; ” , w ust. 8 po wyrazach „ust. 2 i 3 pkt 1,” dodaje się wyrazy „4 i 5,”;
     - **c)**
 
 - **2)** w art. 42: w ust. 1 pkt 2 otrzymuje brzmienie: „

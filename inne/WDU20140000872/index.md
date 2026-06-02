@@ -42,7 +42,7 @@ W wykazie norm oceny procentowej uszczerbku na zdrowiu funkcjonariuszy określa 
 § 4. 1. Ustalenie stopnia uszczerbku na zdrowiu funkcjonariusza następuje według stanu jego zdrowia z dnia ustalenia stopnia uszczerbku, po zakończeniu leczenia.
 2. W przypadku gdy uszczerbek na zdrowiu jest niewątpliwy zgodnie z aktualną wiedzą medyczną, ustalenie stopnia uszczerbku na zdrowiu jest możliwe przed zakończeniem leczenia funkcjonariusza.
 § 5. Rozporządzenie wchodzi w życie z dniem 1 lipca 2014 r.
-Prezes Rady Ministrów: D. Tusk Nazwa choroby pozostającej w Szczególne warunki lub właściwości służby wywołujące związku z pełnieniem służby chorobę 1 2 3 1 Zatrucia ostre albo przewlekłe lub Narażenie na działanie szkodliwych dla zdrowia substancji ich następstwa wywołane przez chemicznych.
+Prezes Rady Ministrów: D. Tusk Prezesa Rady Ministrów z dnia poz. (…) Załącznik nr 1 Wykaz chorób pozostających w związku z pełnieniem służby w Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnym Biurze Antykorupcyjnym Nazwa choroby pozostającej w Szczególne warunki lub właściwości służby wywołujące związku z pełnieniem służby chorobę 1 2 3 1 Zatrucia ostre albo przewlekłe lub Narażenie na działanie szkodliwych dla zdrowia substancji ich następstwa wywołane przez chemicznych.
 substancje chemiczne Okres, w którym wystąpienie udokumentowanych objawów chorobowych upoważnia do rozpoznania choroby pozostającej w związku ze służbą wynosi: w przypadku zatruć ostrych 3 dni od zatrucia, w przypadku zatruć przewlekłych nie określa się.
 2 Psychozy reaktywne oporne na Ostry stres spowodowany zdarzeniami zaistniałymi w czasie leczenie (F23) pełnienia służby. Ostry początek choroby.
 Okres, w którym wystąpienie udokumentowanych objawów chorobowych upoważnia do rozpoznania choroby pozostającej w związku ze służbą, mimo wcześniejszego ustania narażenia na czynniki szkodliwe i uciążliwe występujące w warunkach służby, wynosi 2 tygodnie od zdarzenia.
@@ -156,7 +156,9 @@ Udział w działaniach wojennych.
 Okres, w którym wystąpienie udokumentowanych objawów chorobowych upoważnia do rozpoznania choroby pozostającej w związku ze służbą, wynosi 12 miesięcy od urazu. Okres zaburzenia obsesyjno- dokumentowania objawów chorobowych wynosi co najmniej -kompulsywne 6 miesięcy.
 2) zaburzenia osobowościowe Trwała zmiana osobowości po przeżyciu sytuacji ekstremalnej lub katastrofy.
 28 Przewlekła niewydolność żylna Długotrwałe przebywanie w pozycji stojącej lub wymuszonej kończyn dolnych w stadium C5 pozycji ciała i C6 według klasyfikacji CEAP powyżej 5 lat służby w tych warunkach.
-Treść Procent uszczerbku na zdrowiu A. USZKODZENIA GŁOWY
+
+## Załącznik nr 2 — WYKAZ NORM OCENY PROCENTOWEJ USZCZERBKU NA ZDROWIU FUNKCJONARIUSZY AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO, AGENCJI WYWIADU I CENTRALNEGO BIURA ANTYKORUPCYJNEGO Treść Procent uszczerbku na zdrowiu A. USZKODZENIA GŁOWY
+
 1. Uszkodzenie powłok czaszki (bez uszkodzeń kostnych)
 a) uszkodzenie powłoki czaszki w zależności od rozmiaru, ruchomości, tkliwości 0–10 blizn
 b) pozbawienie owłosienia (w zależności od obszaru): poniżej 25% powierzchni skóry owłosionej 0–10 od 25% do 75% powierzchni skóry owłosionej 11–20 powyżej 75% powierzchni skóry owłosionej 21–30 SPOSÓB USTALENIA USZCZERBKU NA ZDROWIU W przypadku uzupełnienia ubytku skóry owłosionej przeszczepem skóry oraz odtworzenia owłosienia należy oceniać według poz. 1a.
@@ -779,5 +781,5 @@ b) zespół lęku uogólnionego 10–40
 c) zespół lęku panicznego 10–40
 d) zaburzenia depresyjno-lękowe nawracające 20–40
 e) zaburzenia obsesyjno-kompulsyjne 20–40
-2) Zaburzenia osobowościowe 20–40 211 Przewlekła niewydolność żylna kończyn dolnych (stadium C5 i C6 według 20–50 klasyfikacji CEAP)
+2) Zaburzenia osobowościowe 20–40 211 Przewlekła niewydolność żylna kończyn dolnych (stadium C5 i C6 według 20–50 klasyfikacji CEAP) 06/109rch
 

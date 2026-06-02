@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 24 lutego 2020 r. zmieniające rozporządzenie w sprawie ograniczeń lotów na czas nie dłuższy niż 3 miesiące
+# Rozporządzenie Ministra Infrastrukturyz dnia 24 lutego 2020 r. zmieniające rozporządzenie w sprawie ograniczeń lotów na czas nie dłuższy niż 3 miesiące Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-02-24 |
 | Data wydania | 2020-03-05 |
-| Wejście w życie | 2020-03-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000355) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/355/text.pdf) |
 
@@ -35,6 +34,5 @@ w § 4 w ust. 1 w pkt 2 po wyrazach „Agencję Wywiadu,” dodaje się wyrazy �
 2)
 w § 7 w ust. 1 w pkt 2 po wyrazach „Szefa Agencji Wywiadu,” dodaje się wyrazy „Szefa Centralnego Biura Antykorupcyjnego,”.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257).
 

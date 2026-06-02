@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-19 |
 | Data wydania | 2019-09-03 |
-| Wejście w życie | 2019-11-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001687) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1687/text.pdf) |
 
@@ -97,7 +96,7 @@ source: "eli-html"
 
 - **1)** sposób przekazania przez konsula kwoty stanowiącej równowartość kwoty wpłaconej przez osobę trzecią,
 - **2)** sposób przeliczania równowartości kwoty, która ma być przekazana,
-- **3)** wzór potwierdzenia przekazania kwoty stanowiącej równowartość kwoty wpłaconej przez osobę trzecią mając na uwadze konieczność zapewnienia sprawności prowadzonego postępowania, efektywnego udzielania pomocy konsularnej oraz transparentność działań konsula. ” ;
+- **3)** wzór potwierdzenia przekazania kwoty stanowiącej równowartość kwoty wpłaconej przez osobę trzecią – mając na uwadze konieczność zapewnienia sprawności prowadzonego postępowania, efektywnego udzielania pomocy konsularnej oraz transparentność działań konsula. ” ;
 - **15)** w art. 49 w ust. 2 po wyrazach „art. 21” dodaje się wyrazy „i art. 41”;
 - **16)** w art. 60 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 

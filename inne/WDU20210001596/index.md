@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji i Naukiz dnia 27 sierpnia 2021 r. zmieniające rozporządzenie w sprawie rodzajów i szczegółowych zasad działania placówek publicznych, warunków pobytu dzieci i młodzieży w tych placówkach oraz wysokości i zasad odpłatności wnoszonej przez rodziców za pobyt ich dzieci w tych placówkach
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 27 sierpnia 2021 r. zmieniające rozporządzenie w sprawie rodzajów i szczegółowych zasad działania placówek publicznych, warunków pobytu dzieci i młodzieży w tych placówkach oraz wysokości i zasad odpłatności wnoszonej przez rodziców za pobyt ich dzieci w tych placówkach Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-27 |
 | Data wydania | 2021-08-31 |
-| Wejście w życie | 2021-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001596) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1596/text.pdf) |
 
@@ -49,11 +48,9 @@ w § 34:
 a)
 w ust. 1 w pkt 2 skreśla się wyrazy „, specjalnego ośrodka szkolno-wychowawczego, młodzieżowego ośrodka socjoterapii lub nie mogą przebywać w bursie”,
 b)
-po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-W uzasadnionych przypadkach dzieci i młodzież, o których mowa w ust. 1, mogą uczęszczać do specjalnego ośrodka wychowawczego w miejscu zamieszkania.
-” ,
+W uzasadnionych przypadkach dzieci i młodzież, o których mowa w ust. 1, mogą uczęszczać do specjalnego ośrodka wychowawczego w miejscu zamieszkania. ” ,
 c)
 w ust. 3: – we wprowadzeniu do wyliczenia skreśla się wyrazy „gimnazjum lub”, – pkt 2 otrzymuje brzmienie: „2) 21. rok życia – w przypadku wychowanków zagrożonych niedostosowaniem społecznym.”;
 5)
@@ -67,39 +64,31 @@ uchyla się ust. 2,
 c)
 w ust. 3 skreśla się wyrazy „albo przedszkola funkcjonującego w ośrodku, jeżeli takie przedszkole zostało utworzone”,
 d)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
-Do szkoły funkcjonującej w specjalnym ośrodku szkolno-wychowawczym, za zgodą organu prowadzącego ośrodek, mogą również uczęszczać uczniowie niebędący wychowankami ośrodka, posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność, o której mowa w § 32, jeżeli szkoła dysponuje wolnymi miejscami.
-” ,
+Do szkoły funkcjonującej w specjalnym ośrodku szkolno-wychowawczym, za zgodą organu prowadzącego ośrodek, mogą również uczęszczać uczniowie niebędący wychowankami ośrodka, posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność, o której mowa w § 32, jeżeli szkoła dysponuje wolnymi miejscami. ” ,
 e)
-ust. 8 otrzymuje brzmienie:
-„
+ust. 8 otrzymuje brzmienie: „
 8.
-Specjalny ośrodek wychowawczy zapewnia wychowankom realizację obowiązku nauki poza ośrodkiem.
-” ;
+Specjalny ośrodek wychowawczy zapewnia wychowankom realizację obowiązku nauki poza ośrodkiem. ” ;
 6)
 w § 38:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
 Liczba wychowanków w grupie wychowawczej w:
 1)
 specjalnym ośrodku szkolno-wychowawczym – odpowiada liczbie uczniów w oddziale odpowiedniego rodzaju szkoły specjalnej, określonej w przepisach wydanych na podstawie art. 60 ust. 2 ustawy;
 2)
-specjalnym ośrodku wychowawczym – wynosi do 12.
-” ,
+specjalnym ośrodku wychowawczym – wynosi do 12. ” ,
 b)
 uchyla się ust. 5;
 7)
-w § 40 ust. 4 i 5 otrzymują brzmienie:
-„
+w § 40 ust. 4 i 5 otrzymują brzmienie: „
 4.
 Opiekę w porze nocnej sprawują co najmniej dwie osoby.
 5.
-W przypadku gdy w specjalnym ośrodku szkolno-wychowawczym lub specjalnym ośrodku wychowawczym przebywa więcej niż 48 wychowanków, liczbę osób sprawujących opiekę w porze nocnej zwiększa się o co najmniej jednego wychowawcę grupy wychowawczej na każdych kolejnych 48 wychowanków.
-” ;
+W przypadku gdy w specjalnym ośrodku szkolno-wychowawczym lub specjalnym ośrodku wychowawczym przebywa więcej niż 48 wychowanków, liczbę osób sprawujących opiekę w porze nocnej zwiększa się o co najmniej jednego wychowawcę grupy wychowawczej na każdych kolejnych 48 wychowanków. ” ;
 8)
 w § 49 w ust. 2 w pkt 3 skreśla się wyrazy „odpowiednio podstawy programowej wychowania przedszkolnego oraz”;
 9)
@@ -114,6 +103,5 @@ Arkusze organizacji publicznych specjalnych ośrodków szkolno-wychowawczych i p
 2.
 W przypadku wprowadzenia zmian w arkuszach organizacji publicznych specjalnych ośrodków szkolno-wychowawczych i publicznych specjalnych ośrodków wychowawczych na rok szkolny 2021/2022 zgodnie z ust. 1, zmienione arkusze organizacji są przedstawiane ponownie do zatwierdzenia organowi prowadzącemu w terminie do dnia 30 września 2021 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 września 2021 r.
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
+Rozporządzenie wchodzi w życie z dniem 1 września 2021 r. 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 

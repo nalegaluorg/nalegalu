@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 27 sierpnia 2019 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej
+# Rozporządzenie Ministra Zdrowiaz dnia 27 sierpnia 2019 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-27 |
 | Data wydania | 2019-08-28 |
-| Wejście w życie | 2019-08-29 |
 | Ostatnia zmiana | 2025-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001629) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1629/text.pdf) |
 
@@ -33,22 +32,17 @@ W rozporządzeniu Ministra Zdrowia z dnia 4 stycznia 2019 r. zmieniającym rozpo
 1)
 w § 2:
 a)
-w ust. 2 po pkt 3 dodaje się średnik oraz pkt 4 i 5 w brzmieniu:
-„
+w ust. 2 po pkt 3 dodaje się średnik oraz pkt 4 i 5 w brzmieniu: „
 4)
 1 października 2019 r. – w terminie do dnia 14 października 2019 r.;
 5)
-1 stycznia 2020 r. – w terminie do dnia 14 stycznia 2020 r.
-” ,
+1 stycznia 2020 r. – w terminie do dnia 14 stycznia 2020 r. ” ,
 b)
-w ust. 4 pkt 1 otrzymuje brzmienie:
-„
+w ust. 4 pkt 1 otrzymuje brzmienie: „
 1)
-wysokość dodatkowych środków na świadczenia opieki zdrowotnej udzielane przez osoby, o których mowa w ust. 1, w okresie od dnia 1 stycznia 2019 r. do dnia 31 marca 2020 r. w kwocie stanowiącej iloczyn liczby etatów albo równoważników etatów i kwoty określonej w § 3;
-” ;
+wysokość dodatkowych środków na świadczenia opieki zdrowotnej udzielane przez osoby, o których mowa w ust. 1, w okresie od dnia 1 stycznia 2019 r. do dnia 31 marca 2020 r. w kwocie stanowiącej iloczyn liczby etatów albo równoważników etatów i kwoty określonej w § 3; ” ;
 2)
 w § 3 wyrazy „31 sierpnia 2019 r.” zastępuje się wyrazami „31 marca 2020 r.”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 

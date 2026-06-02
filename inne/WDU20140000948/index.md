@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-07-16 |
 | Data wydania | 2014-07-18 |
-| Wejście w życie | 2014-07-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000948) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/948/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 129j ust. 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 129j ust. 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312, 486, 529, 768 i 822.) zarządza się, co następuje:
 § 1.
 Środkami działającymi podobnie do alkoholu są:
 1)
@@ -137,5 +136,5 @@ czytelny podpis osoby badanej – jeżeli jego złożenie jest możliwe;
 14)
 czytelne podpisy osób pobierających i badających próbki śliny, krwi lub moczu.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 20 lipca 2014 r.
+Rozporządzenie wchodzi w życie z dniem 20 lipca 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 11 czerwca 2003 r. w sprawie wykazu środków działających podobnie do alkoholu oraz warunków i sposobu przeprowadzania badań na ich obecność w organizmie (Dz. U. Nr 116, poz. 1104 oraz z 2004 r. Nr 52, poz. 524), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 137 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2014 r. poz. 600). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312, 486, 529, 768 i 822. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 11 czerwca 2003 r. w sprawie wykazu środków działających podobnie do alkoholu oraz warunków i sposobu przeprowadzania badań na ich obecność w organizmie (Dz. U. Nr 116, poz. 1104 oraz z 2004 r. Nr 52, poz. 524), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 137 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2014 r. poz. 600).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 9 sierpnia 2021 r. w sprawie pomocy finansowej z budżetu państwa dla kół gospodyń wiejskich
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 9 sierpnia 2021 r. w sprawie pomocy finansowej z budżetu państwa dla kół gospodyń wiejskich Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-06 |
 | Data wydania | 2021-08-09 |
-| Wejście w życie | 2021-08-09 |
 | Ostatnia zmiana | 2024-10-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001438) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1438/text.pdf) |
 
@@ -111,6 +110,5 @@ Do zwrotu pomocy stosuje się przepisy ustawy z dnia 9 maja 2008 r. o Agencji Re
 § 8.
 Prezes Agencji opracuje i udostępni, w dniu ogłoszenia informacji o naborze wniosków o przyznanie pomocy, na stronie internetowej administrowanej przez Agencję oraz w siedzibach biur powiatowych Agencji, wzór formularza wniosku o przyznanie pomocy oraz wzór sprawozdania z wydatkowania pomocy.
 § 9.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
 

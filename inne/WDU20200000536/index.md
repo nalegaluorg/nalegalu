@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 26 marca 2020 r. zmieniające rozporządzenie w sprawie szkolenia pielęgniarek i położnych dokonujących przetaczania krwi i jej składników
+# Rozporządzenie Ministra Zdrowiaz dnia 26 marca 2020 r. zmieniające rozporządzenie w sprawie szkolenia pielęgniarek i położnych dokonujących przetaczania krwi i jej składników Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-03-26 |
 | Data wydania | 2020-03-26 |
-| Wejście w życie | 2020-03-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000536) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/536/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 21 ust. 7 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2019 r. poz. 1222) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 16 maja 2017 r. w sprawie szkolenia pielęgniarek i położnych dokonujących przetaczania krwi i jej składników (Dz. U. poz. 1026) po § 6 dodaje się § 6a w brzmieniu:
-„
+W rozporządzeniu Ministra Zdrowia z dnia 16 maja 2017 r. w sprawie szkolenia pielęgniarek i położnych dokonujących przetaczania krwi i jej składników (Dz. U. poz. 1026) po § 6 dodaje się § 6a w brzmieniu: „
 § 6a.
 1.
 W przypadku stanu zagrożenia epidemicznego albo stanu epidemii ważność zaświadczeń wydanych na podstawie § 6 ust. 1 ulega przedłużeniu o sześć miesięcy, licząc od dnia upływu ich ważności.
@@ -41,9 +39,7 @@ W przypadku nieustania okoliczności będących podstawą przedłużenia ważno�
 4.
 W przypadku gdy ostatni dzień ważności zaświadczenia, o którym mowa w § 6 ust. 1, upływa w okresie trzech miesięcy od ustania okoliczności, o których mowa w ust. 1 i 2, ważność zaświadczenia może zostać przedłużona o 3 miesiące przez kierownika jednostki organizacyjnej publicznej służby krwi, który je wydał, jeżeli w tym okresie nie jest możliwe przeprowadzenie szkolenia uzupełniającego, o którym mowa w § 2 ust. 3.
 5.
-Wniosek o przedłużenie ważności zaświadczenia, o którym mowa w ust. 4, należy złożyć najwcześniej na 30 dni przed upływem ważności zaświadczenia, nie później jednak niż w ostatnim dniu okresu ważności.
-” .
+Wniosek o przedłużenie ważności zaświadczenia, o którym mowa w ust. 4, należy złożyć najwcześniej na 30 dni przed upływem ważności zaświadczenia, nie później jednak niż w ostatnim dniu okresu ważności. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 

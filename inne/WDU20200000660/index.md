@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 10 kwietnia 2020 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu rehabilitacji leczniczej
+# Rozporządzenie Ministra Zdrowiaz dnia 10 kwietnia 2020 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu rehabilitacji leczniczej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 
 | Pole | Wartość |
 |---|---|
@@ -22,27 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-04-10 |
 | Data wydania | 2020-04-10 |
-| Wejście w życie | 2020-04-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000660) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/660/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu rehabilitacji leczniczej (Dz. U. z 2018 r. poz. 465 i 2396 oraz z 2019 r. poz. 1061 i 2082) wprowadza się następujące zmiany:
 1)
-w § 3 dodaje się ust. 5 w brzmieniu:
-„
+w § 3 dodaje się ust. 5 w brzmieniu: „
 5.
-W okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii dopuszcza się zawieszenie terminów, o których mowa w § 6 ust. 2 pkt 1, 3, 5 i 6, oraz terminów przyjęcia na świadczenia realizowane w warunkach stacjonarnych, obejmujące rehabilitacje, o których mowa w § 4 pkt 4, określonych w załączniku nr 4 do rozporządzenia.
-” ;
+W okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii dopuszcza się zawieszenie terminów, o których mowa w § 6 ust. 2 pkt 1, 3, 5 i 6, oraz terminów przyjęcia na świadczenia realizowane w warunkach stacjonarnych, obejmujące rehabilitacje, o których mowa w § 4 pkt 4, określonych w załączniku nr 4 do rozporządzenia. ” ;
 2)
-po § 4 dodaje się § 4a w brzmieniu:
-„
+po § 4 dodaje się § 4a w brzmieniu: „
 § 4a.
-W okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, w zakresie świadczeń określonych w § 4 pkt 1–3 dopuszcza się realizację porad lekarskich, porad lub wizyt terapeutycznych z wykorzystaniem systemów teleinformatycznych lub systemów łączności, jeżeli ten sposób realizacji świadczenia opieki zdrowotnej nie zagraża pogorszeniem stanu zdrowia świadczeniobiorcy.
-” .
+W okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, w zakresie świadczeń określonych w § 4 pkt 1–3 dopuszcza się realizację porad lekarskich, porad lub wizyt terapeutycznych z wykorzystaniem systemów teleinformatycznych lub systemów łączności, jeżeli ten sposób realizacji świadczenia opieki zdrowotnej nie zagraża pogorszeniem stanu zdrowia świadczeniobiorcy. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.
 

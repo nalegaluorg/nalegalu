@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 marca 2008 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw
+# Ustawa z dnia 28 marca 2008 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników oraz ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,17 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-03-28 |
 | Data wydania | 2008-04-23 |
-| Wejście w życie | 2008-05-08 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080670411) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/411/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.) w art. 29 w ust. 1 pkt 2 otrzymuje brzmienie: „
+**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421, z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534 oraz z 2007 r. Nr 17, poz. 95, Nr 82, poz. 558, Nr 191, poz. 1368 i 1369 i Nr 200, poz. 1445.) w art. 29 w ust. 1 pkt 2 otrzymuje brzmienie: „
 
 - **2)** mężczyzna – po osiągnięciu wieku 60 lat, jeżeli ma co najmniej 35-letni okres składkowy i nieskładkowy albo jeżeli ma co najmniej 25-letni okres składkowy i nieskładkowy oraz został uznany za całkowicie niezdolnego do pracy. ” .
 
 **Art. 2.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2008 r. Nr 50, poz. 291) w art. 41b ust. 11 otrzymuje brzmienie: „ 11. Nadpłacone lub nienależnie opłacone składki nie podlegają zwrotowi, jeżeli od dnia ich opłacenia upłynęło 10 lat. ” .
 
-**Art. 3.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 17, poz. 95, Nr 21, poz. 125, Nr 112, poz. 769, Nr 115, poz. 791, 792 i 793 i Nr 176, poz. 1243 oraz z 2008 r. Nr 63, poz. 394.) wprowadza się następujące zmiany:
 
 - **1)** w art. 24: po ust. 6e dodaje się ust. 6f w brzmieniu: „
     - **a)**
@@ -67,5 +66,5 @@ source: "eli-html"
 
 3. Przepis art. 50 ust. 1c i 2 ustawy, o której mowa w art. 3, w brzmieniu nadanym niniejszą ustawą, stosuje się do obliczania wysokości hipotetycznej emerytury podawanej w informacji o stanie konta, przesyłanej poczynając od 2009 r.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników oraz ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421, z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534 oraz z 2007 r. Nr 17, poz. 95, Nr 82, poz. 558, Nr 191, poz. 1368 i 1369 i Nr 200, poz. 1445. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 17, poz. 95, Nr 21, poz. 125, Nr 112, poz. 769, Nr 115, poz. 791, 792 i 793 i Nr 176, poz. 1243 oraz z 2008 r. Nr 63, poz. 394.
 

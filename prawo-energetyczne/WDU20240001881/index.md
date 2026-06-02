@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 21 listopada 2024 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw
+# Ustawa z dnia 21 listopada 2024 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 26 października 2000 r. o giełdach towarowych, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu, ustawę z dnia 20 lutego 2015 r. o odnawialnych źródłach energii oraz ustawę z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-21 |
 | Data wydania | 2024-12-19 |
-| Wejście w życie | 2025-01-20 |
 | Ostatnia zmiana | 2024-12-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001881) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1881/text.pdf) |
 
@@ -37,15 +36,17 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-- **3c)** wodór niskoemisyjny – wodór pochodzący ze źródeł nieodnawialnych, wytworzony w sposób niewyrządzający poważnych szkód dla celów środowiskowych, który spełnia wymaganie dotyczące osiągnięcia progu redukcji emisji gazów cieplarnianych na poziomie 70 % w porównaniu z wartością odpowiednika kopalnego dla paliw odnawialnych pochodzenia niebiologicznego określoną zgodnie z metodyką, o której mowa w przepisach rozporządzenia delegowanego Komisji (UE) 2023/1185 z dnia 10 lutego 2023 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2001 poprzez ustanowienie minimalnego progu ograniczenia emisji gazów cieplarnianych w przypadku pochodzących z recyklingu paliw węglowych oraz poprzez określenie metodyki oceny ograniczenia emisji gazów cieplarnianych, uzyskanego dzięki odnawialnym ciekłym i gazowym paliwom transportowym pochodzenia niebiologicznego oraz pochodzącym z recyklingu paliwom węglowym (Dz. Urz. UE L 157 z 20.06.2023, str. 20); 3d) wodór odnawialny – wodór wytworzony z odnawialnego źródła energii; 3e) wodór odnawialny pochodzenia niebiologicznego – wodór odnawialny wytworzony zgodnie z metodykami, o których mowa w przepisach: rozporządzenia delegowanego Komisji (UE) 2023/1184 z dnia 10 lutego 2023 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2001 przez ustanowienie unijnej metodyki określającej szczegółowe zasady produkcji paliw odnawialnych pochodzenia niebiologicznego (Dz. Urz. UE L 157 z 20.06.2023, str. 11, z późn. zm.), do którego wytworzenia wykorzystano energię odnawialną inną niż energia otrzymywana z biomasy, biogazu, biogazu rolniczego, biometanu, biopłynów oraz wodoru odnawialnego, oraz rozporządzenia delegowanego Komisji (UE) 2023/1185 z dnia 10 lutego 2023 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2001 poprzez ustanowienie minimalnego progu ograniczenia emisji gazów cieplarnianych w przypadku pochodzących z recyklingu paliw węglowych oraz poprzez określenie metodyki oceny ograniczenia emisji gazów cieplarnianych, uzyskanego dzięki odnawialnym ciekłym i gazowym paliwom transportowym pochodzenia niebiologicznego oraz pochodzącym z recyklingu paliwom węglowym; ” , w pkt 6a wyrazy „i ładowania energią elektryczną w punktach ładowania” zastępuje się wyrazami „, a także ładowania energią elektryczną w punktach ładowania i tankowania pojazdów wodorem na stacjach wodoru”, pkt 8 otrzymuje brzmienie: „
+- **3c)** wodór niskoemisyjny – wodór pochodzący ze źródeł nieodnawialnych, wytworzony w sposób niewyrządzający poważnych szkód dla celów środowiskowych, który spełnia wymaganie dotyczące osiągnięcia progu redukcji emisji gazów cieplarnianych na poziomie 70 % w porównaniu z wartością odpowiednika kopalnego dla paliw odnawialnych pochodzenia niebiologicznego określoną zgodnie z metodyką, o której mowa w przepisach rozporządzenia delegowanego Komisji (UE) 2023/1185 z dnia 10 lutego 2023 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2001 poprzez ustanowienie minimalnego progu ograniczenia emisji gazów cieplarnianych w przypadku pochodzących z recyklingu paliw węglowych oraz poprzez określenie metodyki oceny ograniczenia emisji gazów cieplarnianych, uzyskanego dzięki odnawialnym ciekłym i gazowym paliwom transportowym pochodzenia niebiologicznego oraz pochodzącym z recyklingu paliwom węglowym (Dz. Urz. UE L 157 z 20.06.2023, str. 20); 3d) wodór odnawialny – wodór wytworzony z odnawialnego źródła energii; 3e) wodór odnawialny pochodzenia niebiologicznego – wodór odnawialny wytworzony zgodnie z metodykami, o których mowa w przepisach: rozporządzenia delegowanego Komisji (UE) 2023/1184 z dnia 10 lutego 2023 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2001 przez ustanowienie unijnej metodyki określającej szczegółowe zasady produkcji paliw odnawialnych pochodzenia niebiologicznego (Dz. Urz. UE L 157 z 20.06.2023, str. 11, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2024/1408 z 21.05.2024.), do którego wytworzenia wykorzystano energię odnawialną inną niż energia otrzymywana z biomasy, biogazu, biogazu rolniczego, biometanu, biopłynów oraz wodoru odnawialnego, oraz rozporządzenia delegowanego Komisji (UE) 2023/1185 z dnia 10 lutego 2023 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2001 poprzez ustanowienie minimalnego progu ograniczenia emisji gazów cieplarnianych w przypadku pochodzących z recyklingu paliw węglowych oraz poprzez określenie metodyki oceny ograniczenia emisji gazów cieplarnianych, uzyskanego dzięki odnawialnym ciekłym i gazowym paliwom transportowym pochodzenia niebiologicznego oraz pochodzącym z recyklingu paliwom węglowym; ” , w pkt 6a wyrazy „i ładowania energią elektryczną w punktach ładowania” zastępuje się wyrazami „, a także ładowania energią elektryczną w punktach ładowania i tankowania pojazdów wodorem na stacjach wodoru”, pkt 8 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **d)**
     - **e)**
 
-- **8)** zaopatrzenie w ciepło, energię elektryczną, paliwa gazowe lub wodór – procesy związane z dostarczaniem ciepła, energii elektrycznej, paliw gazowych lub wodoru do odbiorców; ” , w pkt 12a: – w lit. b część wspólna otrzymuje brzmienie: „ – oraz wytwarzaniem lub sprzedażą tej energii, albo ” , – dodaje się lit. c w brzmieniu: „ c) w odniesieniu do wodoru: – przesyłaniem lub – dystrybucją, lub – magazynowaniem – oraz wytwarzaniem lub sprzedażą tego wodoru; ” , w pkt 23b: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ zarządzanie ograniczeniami systemowymi – działalność gospodarczą wykonywaną przez operatora systemu w ramach świadczonych odpowiednio usług przesyłania lub dystrybucji, lub przesyłania wodoru, lub dystrybucji wodoru, w celu zapewnienia bezpiecznego funkcjonowania systemu: ” , – w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ c) wodorowego oraz zapewnienia, zgodnie z przepisami wydanymi na podstawie art. 9 ust. 8a, wymaganych parametrów technicznych wodoru w przypadku wystąpienia ograniczeń technicznych w przepustowości tego systemu; ” , w pkt 45 w lit. b w tiret trzecim średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ produkcję wodoru; ” , pkt 59a otrzymuje brzmienie: „
+- **8)** zaopatrzenie w ciepło, energię elektryczną, paliwa gazowe lub wodór – procesy związane z dostarczaniem ciepła, energii elektrycznej, paliw gazowych lub wodoru do odbiorców; ” , w pkt 12a: w lit. b część wspólna otrzymuje brzmienie: „ – oraz wytwarzaniem lub sprzedażą tej energii, albo ” , dodaje się lit. c w brzmieniu: „ w odniesieniu do wodoru: – przesyłaniem lub – dystrybucją, lub – magazynowaniem – oraz wytwarzaniem lub sprzedażą tego wodoru; ” , w pkt 23b: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ zarządzanie ograniczeniami systemowymi – działalność gospodarczą wykonywaną przez operatora systemu w ramach świadczonych odpowiednio usług przesyłania lub dystrybucji, lub przesyłania wodoru, lub dystrybucji wodoru, w celu zapewnienia bezpiecznego funkcjonowania systemu: ” , w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ wodorowego oraz zapewnienia, zgodnie z przepisami wydanymi na podstawie art. 9 ust. 8a, wymaganych parametrów technicznych wodoru w przypadku wystąpienia ograniczeń technicznych w przepustowości tego systemu; ” , w pkt 45 w lit. b w tiret trzecim średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ produkcję wodoru; ” , pkt 59a otrzymuje brzmienie: „
     - **f)**
+    - **c)**
     - **g)**
+    - **c)**
     - **h)**
     - **c)**
     - **i)**
@@ -56,7 +57,7 @@ source: "eli-html"
     - **c)**
     - **j)**
 
-- **77)** sieć przesyłowa wodorowa – sieć wodorową, z wyłączeniem sieci wodorowej ograniczonej geograficznie, za której ruch sieciowy jest odpowiedzialny operator systemu przesyłowego wodorowego, która: jest bezpośrednio połączona z instalacją magazynową wodoru, lub służy do transportu wodoru do innej sieci wodorowej lub instalacji magazynowej wodoru w tym sieć wodorową mogącą służyć do dostarczania wodoru do odbiorców bezpośrednio przyłączonych do tej sieci;
+- **77)** sieć przesyłowa wodorowa – sieć wodorową, z wyłączeniem sieci wodorowej ograniczonej geograficznie, za której ruch sieciowy jest odpowiedzialny operator systemu przesyłowego wodorowego, która: jest bezpośrednio połączona z instalacją magazynową wodoru, lub służy do transportu wodoru do innej sieci wodorowej lub instalacji magazynowej wodoru – w tym sieć wodorową mogącą służyć do dostarczania wodoru do odbiorców bezpośrednio przyłączonych do tej sieci;
     - **a)**
     - **b)**
 
@@ -107,10 +108,13 @@ source: "eli-html"
 
 1c. Dostarczanie wodoru odbywa się, po uprzednim przyłączeniu do sieci, o którym mowa w art. 7, na podstawie umowy sprzedaży wodoru i umowy o świadczenie usług przesyłania wodoru lub dystrybucji wodoru albo umowy sprzedaży wodoru, umowy o świadczenie usług przesyłania wodoru lub dystrybucji wodoru i umowy o świadczenie usług magazynowania wodoru.
 
-1d. Sprzedawca wodoru jest obowiązany do zawarcia umowy o świadczenie usług przesyłania wodoru lub dystrybucji wodoru z operatorem systemu przesyłowego wodorowego lub z operatorem systemu dystrybucyjnego wodorowego, do którego sieci odbiorca wodoru jest przyłączony. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Umowy, o których mowa w ust. 1 i 1c, zawierają co najmniej: ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–7 w brzmieniu: „ 5) umowa sprzedaży wodoru – postanowienia określające: miejsce dostarczenia wodoru do odbiorcy, ilość wodoru, cenę lub sposób jej ustalenia i warunki wprowadzania zmian tej ceny, sposób prowadzenia rozliczeń, odpowiedzialność stron za niedotrzymanie warunków umowy oraz okres obowiązywania umowy i warunki jej rozwiązania; 6) umowa o świadczenie usług przesyłania wodoru lub dystrybucji wodoru – postanowienia określające: moc umowną, miejsca dostarczania i odbioru wodoru, standardy jakościowe, warunki zapewnienia niezawodności i ciągłości dostarczania wodoru, wysokość opłat i warunki wprowadzania zmian wysokości tych opłat, sposób prowadzenia rozliczeń, parametry techniczne wodoru oraz wysokość bonifikaty za niedotrzymanie tych parametrów, odpowiedzialność stron za niedotrzymanie warunków umowy oraz okres obowiązywania umowy i warunki jej rozwiązania; 7) umowa o świadczenie usług magazynowania wodoru – postanowienia określające: moc umowną i warunki wprowadzania jej zmian, przyznaną pojemność magazynową, moc odbioru i moc zatłaczania wodoru, miejsce, okres i sposób jego przechowywania, wysokość opłat i warunki wprowadzania zmian wysokości tych opłat, sposób prowadzenia rozliczeń, odpowiedzialność stron za niedotrzymanie warunków umowy oraz okres obowiązywania umowy i warunki jej rozwiązania. ” , po ust. 3b dodaje się ust. 3c w brzmieniu: „
+1d. Sprzedawca wodoru jest obowiązany do zawarcia umowy o świadczenie usług przesyłania wodoru lub dystrybucji wodoru z operatorem systemu przesyłowego wodorowego lub z operatorem systemu dystrybucyjnego wodorowego, do którego sieci odbiorca wodoru jest przyłączony. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Umowy, o których mowa w ust. 1 i 1c, zawierają co najmniej: ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–7 w brzmieniu: „
 
 - **b)**
-- **c)**
+- **5)** umowa sprzedaży wodoru – postanowienia określające: miejsce dostarczenia wodoru do odbiorcy, ilość wodoru, cenę lub sposób jej ustalenia i warunki wprowadzania zmian tej ceny, sposób prowadzenia rozliczeń, odpowiedzialność stron za niedotrzymanie warunków umowy oraz okres obowiązywania umowy i warunki jej rozwiązania;
+- **6)** umowa o świadczenie usług przesyłania wodoru lub dystrybucji wodoru – postanowienia określające: moc umowną, miejsca dostarczania i odbioru wodoru, standardy jakościowe, warunki zapewnienia niezawodności i ciągłości dostarczania wodoru, wysokość opłat i warunki wprowadzania zmian wysokości tych opłat, sposób prowadzenia rozliczeń, parametry techniczne wodoru oraz wysokość bonifikaty za niedotrzymanie tych parametrów, odpowiedzialność stron za niedotrzymanie warunków umowy oraz okres obowiązywania umowy i warunki jej rozwiązania;
+- **7)** umowa o świadczenie usług magazynowania wodoru – postanowienia określające: moc umowną i warunki wprowadzania jej zmian, przyznaną pojemność magazynową, moc odbioru i moc zatłaczania wodoru, miejsce, okres i sposób jego przechowywania, wysokość opłat i warunki wprowadzania zmian wysokości tych opłat, sposób prowadzenia rozliczeń, odpowiedzialność stron za niedotrzymanie warunków umowy oraz okres obowiązywania umowy i warunki jej rozwiązania. ” , po ust. 3b dodaje się ust. 3c w brzmieniu: „
+    - **c)**
 
 3c. Dostarczanie wodoru może odbywać się na podstawie umowy kompleksowej wodorowej zawierającej postanowienia umowy sprzedaży wodoru i umowy o świadczenie usług przesyłania wodoru lub dystrybucji wodoru. Umowa kompleksowa wodorowa dotycząca dostarczania wodoru może zawierać także postanowienia umowy o świadczenie usług magazynowania wodoru. ” , po ust. 4aa dodaje się ust. 4ab-4ae w brzmieniu: „ 4ab. Umowa kompleksowa wodorowa może zawierać także postanowienia umowy sprzedaży wodoru, umowy o świadczenie usług przesyłania wodoru lub dystrybucji wodoru lub umowy o świadczenie usług magazynowania wodoru, zawartych przez sprzedawcę na rzecz i w imieniu odbiorcy końcowego z przedsiębiorstwem energetycznym zajmującym się przesyłaniem wodoru, dystrybucją wodoru lub magazynowaniem wodoru. 4ac. Umowa sprzedaży wodoru, umowa o świadczenie usług przesyłania wodoru lub dystrybucji wodoru, a także umowa kompleksowa wodorowa zawierają postanowienia określające maksymalne dopuszczalne ograniczenia w poborze wodoru. 4ad. Umowę o świadczenie usług przesyłania wodoru lub dystrybucji wodoru zawiera się przy użyciu wzorca umowy. Operator systemu przesyłowego wodorowego, operator systemu dystrybucyjnego wodoru i operator systemu połączonego wodorowego zamieszczają na swoich stronach internetowych oraz udostępniają w swoich siedzibach wzorzec umowy o świadczenie usług przesyłania wodoru i wzorzec umowy o świadczenie usług dystrybucji wodoru. 4ae. Dane osobowe gromadzone na potrzeby zawarcia umowy o świadczenie usług przesyłania wodoru oraz dystrybucji wodoru obejmują:
 
@@ -144,9 +148,12 @@ source: "eli-html"
 
 - **e)**
 
-5a. Przedsiębiorstwo energetyczne zajmujące się przesyłaniem wodoru lub dystrybucją wodoru jest obowiązane zapewnić realizację i finansowanie budowy i rozbudowy sieci wodorowej, w tym na potrzeby przyłączania podmiotów ubiegających się o przyłączenie, na warunkach określonych w przepisach wydanych na podstawie art. 9 ust. 8a oraz w przepisach odrębnych. ” , w ust. 8: – po pkt 1a dodaje się pkt 1b w brzmieniu: „ 1b) za przyłączenie do sieci wodorowej pobiera się opłatę ustaloną na podstawie rzeczywistych nakładów poniesionych na realizację przyłączenia; ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) za przyłączenie źródeł współpracujących z siecią oraz sieci przedsiębiorstw energetycznych zajmujących się przesyłaniem wodoru lub dystrybucją wodoru pobiera się opłatę ustaloną na podstawie rzeczywistych nakładów poniesionych na realizację przyłączenia; ” , – w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „ 7) za przyłączenie instalacji magazynowej wodoru pobiera się opłatę ustaloną na podstawie rzeczywistych nakładów poniesionych na realizację przyłączenia. ” ;
+5a. Przedsiębiorstwo energetyczne zajmujące się przesyłaniem wodoru lub dystrybucją wodoru jest obowiązane zapewnić realizację i finansowanie budowy i rozbudowy sieci wodorowej, w tym na potrzeby przyłączania podmiotów ubiegających się o przyłączenie, na warunkach określonych w przepisach wydanych na podstawie art. 9 ust. 8a oraz w przepisach odrębnych. ” , w ust. 8: po pkt 1a dodaje się pkt 1b w brzmieniu: „
 
 - **f)**
+- **1b)** za przyłączenie do sieci wodorowej pobiera się opłatę ustaloną na podstawie rzeczywistych nakładów poniesionych na realizację przyłączenia; ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** za przyłączenie źródeł współpracujących z siecią oraz sieci przedsiębiorstw energetycznych zajmujących się przesyłaniem wodoru lub dystrybucją wodoru pobiera się opłatę ustaloną na podstawie rzeczywistych nakładów poniesionych na realizację przyłączenia; ” , w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
+- **7)** za przyłączenie instalacji magazynowej wodoru pobiera się opłatę ustaloną na podstawie rzeczywistych nakładów poniesionych na realizację przyłączenia. ” ;
 - **8)** w art. 7 w ust. 2 i 7, w art. 7a w ust. 1 w pkt 3 i w ust. 2 oraz w art. 16 w ust. 7 w pkt 1 i w ust. 10 wyrazy „paliw gazowych lub energii” zastępuje się wyrazami „paliw gazowych, energii lub wodoru”;
 - **9)** w art. 7a w ust. 1: w pkt 1 i 2 wyrazy „systemu elektroenergetycznego albo” zastępuje się wyrazami „systemu elektroenergetycznego, systemu wodorowego albo”, w pkt 4 wyrazy „paliw gazowych i energii” zastępuje się wyrazami „paliw gazowych, energii lub wodoru”;
     - **a)**
@@ -166,7 +173,7 @@ source: "eli-html"
 - **3)** warunki świadczenia usług przesyłania wodoru, dystrybucji wodoru, magazynowania wodoru, prowadzenia ruchu sieciowego i eksploatacji sieci wodorowej oraz korzystania z systemu wodorowego i połączeń międzysystemowych,
 - **4)** warunki współpracy pomiędzy operatorami systemów, w tym z innymi przedsiębiorstwami energetycznymi, w zakresie prowadzenia ruchu sieciowego oraz postępowania w sytuacjach awaryjnych,
 - **5)** zakres, warunki i sposób zarządzania ograniczeniami w systemie wodorowym,
-- **6)** parametry jakościowe wodoru biorąc pod uwagę bezpieczeństwo i niezawodne funkcjonowanie systemu wodorowego, równoprawne traktowanie użytkowników tego systemu, wymagania w zakresie ochrony środowiska oraz budowy i eksploatacji urządzeń, instalacji i sieci wodorowych. ” , w ust. 9 wyrazy „paliw gazowych” zastępuje się wyrazami „paliw gazowych i wodoru”;
+- **6)** parametry jakościowe wodoru – biorąc pod uwagę bezpieczeństwo i niezawodne funkcjonowanie systemu wodorowego, równoprawne traktowanie użytkowników tego systemu, wymagania w zakresie ochrony środowiska oraz budowy i eksploatacji urządzeń, instalacji i sieci wodorowych. ” , w ust. 9 wyrazy „paliw gazowych” zastępuje się wyrazami „paliw gazowych i wodoru”;
     - **b)**
 
 - **12)** w art. 9c: po ust. 1d dodaje się ust. 1e-1h w brzmieniu: „
@@ -272,7 +279,7 @@ source: "eli-html"
 
 - **1)** konkurencję na rynku wytwarzania wodoru, przesyłania wodoru, dystrybucji wodoru lub obrotu wodorem,
 - **2)** prawidłowe funkcjonowanie i rozwój rynku wodoru,
-- **3)** system wodorowy na terytorium Rzeczypospolitej Polskiej lub Unii Europejskiej.
+- **3)** system wodorowy – na terytorium Rzeczypospolitej Polskiej lub Unii Europejskiej.
 
 3. Prezes Urzędu Regulacji Energetyki cofa, w drodze decyzji, odstępstwo, o którym mowa w ust. 1, w przypadku gdy:
 
@@ -350,7 +357,7 @@ source: "eli-html"
 - **3)** kryteriów bezpieczeństwa funkcjonowania systemu wodorowego,
 - **4)** współpracy pomiędzy operatorami systemów wodorowych,
 - **5)** przekazywania informacji pomiędzy przedsiębiorstwami energetycznymi oraz pomiędzy przedsiębiorstwami energetycznymi a odbiorcami,
-- **6)** procedury zmiany sprzedawcy oraz zgłaszania i przyjmowania przez operatora systemu dystrybucyjnego wodorowego do realizacji umów sprzedaży wodoru lub umów kompleksowych wodorowych z uwzględnieniem przepisów o ochronie danych osobowych.
+- **6)** procedury zmiany sprzedawcy oraz zgłaszania i przyjmowania przez operatora systemu dystrybucyjnego wodorowego do realizacji umów sprzedaży wodoru lub umów kompleksowych wodorowych – z uwzględnieniem przepisów o ochronie danych osobowych.
 
 3d. Instrukcja opracowywana dla instalacji magazynowej wodoru określa szczegółowe warunki korzystania z tej instalacji przez użytkowników systemu magazynowania wodoru oraz warunki i sposób prowadzenia ruchu i eksploatacji oraz planowania rozbudowy tej instalacji, w szczególności dotyczące:
 
@@ -360,7 +367,7 @@ source: "eli-html"
 - **4)** kryteriów bezpieczeństwa funkcjonowania tej instalacji,
 - **5)** procedur postępowania w przypadku awarii,
 - **6)** współpracy pomiędzy operatorem systemu magazynowania wodoru a operatorami innych systemów wodorowych,
-- **7)** przekazywania informacji pomiędzy operatorami systemów wodorowych oraz pomiędzy operatorem systemu magazynowania wodoru a odbiorcami z uwzględnieniem przepisów o ochronie danych osobowych. ” , po ust. 5aa dodaje się ust. 5 w brzmieniu: „
+- **7)** przekazywania informacji pomiędzy operatorami systemów wodorowych oraz pomiędzy operatorem systemu magazynowania wodoru a odbiorcami – z uwzględnieniem przepisów o ochronie danych osobowych. ” , po ust. 5aa dodaje się ust. 5 w brzmieniu: „
     - **c)**
 
 5. Operator systemu magazynowania wodoru, który jest przyłączony do sieci przesyłowej wodorowej, uwzględnia w instrukcji ruchu i eksploatacji instalacji magazynowej wodoru wymagania określone w opracowanej przez operatora systemu przesyłowego wodorowego instrukcji ruchu i eksploatacji sieci przesyłowej wodorowej. ” , po ust. 9 dodaje się ust. 9a w brzmieniu: „
@@ -557,9 +564,13 @@ source: "eli-html"
 
 - **2)** rodzaj, datę oraz okres wyznaczenia;
 - **3)** aktualną treść wyznaczenia. ” ;
-- **17)** w art. 9h1: w ust. 1 wyrazy „lub operatorem systemu połączonego” zastępuje się wyrazami „, operatorem systemu połączonego, operatorem systemu przesyłowego wodorowego lub operatorem systemu połączonego wodorowego”, w ust. 2: – po pkt 1 dodaje się pkt 1a i 1b w brzmieniu: „ 1a) na wniosek właściciela sieci przesyłowej wodorowej, o którym mowa w art. 9h ust. 31 albo ust. 34 pkt 1; 1b) na wniosek operatora systemu przesyłowego wodorowego złożony łącznie z wnioskiem o udzielenie odstępstwa zgodnie z art. 9d3 ust. 1; ” , – pkt 2 otrzymuje brzmienie: „ 2) z urzędu, w przypadku braku wniosków, o których mowa w pkt 1–1b; ” , ust. 5 otrzymuje brzmienie: „
+- **17)** w art. 9h1: w ust. 1 wyrazy „lub operatorem systemu połączonego” zastępuje się wyrazami „, operatorem systemu połączonego, operatorem systemu przesyłowego wodorowego lub operatorem systemu połączonego wodorowego”, w ust. 2: po pkt 1 dodaje się pkt 1a i 1b w brzmieniu: „
     - **a)**
     - **b)**
+
+- **1a)** na wniosek właściciela sieci przesyłowej wodorowej, o którym mowa w art. 9h ust. 31 albo ust. 34 pkt 1;
+- **1b)** na wniosek operatora systemu przesyłowego wodorowego złożony łącznie z wnioskiem o udzielenie odstępstwa zgodnie z art. 9d3 ust. 1; ” , pkt 2 otrzymuje brzmienie: „
+- **2)** z urzędu, w przypadku braku wniosków, o których mowa w pkt 1–1b; ” , ust. 5 otrzymuje brzmienie: „
     - **c)**
 
 5. Prezes Urzędu Regulacji Energetyki po stwierdzeniu, że przedsiębiorstwo energetyczne spełnia kryteria niezależności, o których mowa w art. 9d ust. 1a, przyznaje temu przedsiębiorstwu, w drodze decyzji, certyfikat niezależności, w terminie 100 dni roboczych od dnia złożenia wniosku, o którym mowa w ust. 2 pkt 1–1b, albo od dnia złożenia wniosku Komisji Europejskiej, o którym mowa w ust. 2 pkt 3. ” , ust. 6 otrzymuje brzmienie: „
@@ -569,7 +580,7 @@ source: "eli-html"
 6. Jeżeli Prezes Urzędu Regulacji Energetyki nie wyda decyzji, o której mowa w ust. 5:
 
 - **1)** w terminie 100 dni roboczych od dnia złożenia wniosku, o którym mowa w ust. 2 pkt 1–1b, albo od dnia złożenia wniosku Komisji Europejskiej, o którym mowa w ust. 2 pkt 3, lub
-- **2)** w terminie 2 miesięcy od dnia wydania przez Komisję Europejską pozytywnej opinii albo od dnia upływu terminu, o którym mowa w ust. 4 przyjmuje się, że certyfikat niezależności został przyznany. ” , w ust. 12 zdanie pierwsze otrzymuje brzmienie: „ W przypadku odmowy wydania certyfikatu niezależności lub stwierdzenia, po sprawdzeniu, o którym mowa w ust. 11, że operator systemu przesyłowego, operator systemu połączonego, operator systemu przesyłowego wodorowego albo operator systemu połączonego wodorowego nie spełnia kryteriów niezależności, o których mowa w art. 9d ust. 1a, lub kryteriów, o których mowa w ust. 7, Prezes Urzędu Regulacji Energetyki określa, w drodze decyzji, kryteria, które nie są spełnione, oraz wyznacza termin na podjęcie działań mających na celu spełnienie tych kryteriów. ” ;
+- **2)** w terminie 2 miesięcy od dnia wydania przez Komisję Europejską pozytywnej opinii albo od dnia upływu terminu, o którym mowa w ust. 4 – przyjmuje się, że certyfikat niezależności został przyznany. ” , w ust. 12 zdanie pierwsze otrzymuje brzmienie: „ W przypadku odmowy wydania certyfikatu niezależności lub stwierdzenia, po sprawdzeniu, o którym mowa w ust. 11, że operator systemu przesyłowego, operator systemu połączonego, operator systemu przesyłowego wodorowego albo operator systemu połączonego wodorowego nie spełnia kryteriów niezależności, o których mowa w art. 9d ust. 1a, lub kryteriów, o których mowa w ust. 7, Prezes Urzędu Regulacji Energetyki określa, w drodze decyzji, kryteria, które nie są spełnione, oraz wyznacza termin na podjęcie działań mających na celu spełnienie tych kryteriów. ” ;
     - **e)**
 
 - **18)** w art. 9h2: ust. 1 otrzymuje brzmienie: „
@@ -578,8 +589,10 @@ source: "eli-html"
 1. W przypadku:
 
 - **1)** gdy o przyznanie certyfikatu niezależności wystąpi właściciel sieci przesyłowej, właściciel sieci przesyłowej wodorowej lub przedsiębiorstwo energetyczne, na które podmiot z państwa niebędącego państwem członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym wywiera decydujący wpływ, o którym mowa w art. 9d ust. 1c,
-- **2)** wystąpienia okoliczności, w wyniku których podmiot, o którym mowa w pkt 1, może wywierać decydujący wpływ, o którym mowa w art. 9d ust. 1c, na operatora systemu przesyłowego lub operatora systemu przesyłowego wodorowego albo na sieć przesyłową lub sieć przesyłową wodorową Prezes Urzędu Regulacji Energetyki, w terminie 100 dni roboczych od dnia złożenia wniosku o przyznanie certyfikatu niezależności lub wystąpienia okoliczności, przekazuje Komisji Europejskiej stanowisko wraz z wnioskiem o wydanie opinii w sprawie spełniania przez właściciela sieci przesyłowej, właściciela sieci przesyłowej wodorowej lub przedsiębiorstwo energetyczne wymagań określonych w art. 9d ust. 1 albo ust. 13 i14 oraz ust. 1a oraz wpływu przyznania im certyfikatu niezależności na bezpieczeństwo dostaw paliw gazowych, energii elektrycznej lub wodoru w Unii Europejskiej lub na istotne interesy dotyczące bezpieczeństwa Rzeczypospolitej Polskiej lub Unii Europejskiej. ” , w ust. 2: – w pkt 1 i 3 wyrazy „paliw gazowych lub energii elektrycznej” zastępuje się wyrazami „paliw gazowych, energii elektrycznej lub wodoru”, – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) stosunków w zakresie własności, obrotu lub stosunków handlowych, które mogłyby negatywnie wpływać na zdolność właściciela sieci przesyłowej, właściciela sieci przesyłowej wodorowej, operatora systemu przesyłowego lub operatora systemu przesyłowego wodorowego do zapewnienia dostaw gazu ziemnego lub wodoru do Rzeczypospolitej Polskiej lub Unii Europejskiej; ” , w ust. 4: – w pkt 1 wyrazy „dwóch miesięcy” zastępuje się wyrazami „50 dni roboczych”, – w pkt 2 wyrazy „czterech miesięcy” zastępuje się wyrazami „100 dni roboczych”, ust. 5 otrzymuje brzmienie: „
+- **2)** wystąpienia okoliczności, w wyniku których podmiot, o którym mowa w pkt 1, może wywierać decydujący wpływ, o którym mowa w art. 9d ust. 1c, na operatora systemu przesyłowego lub operatora systemu przesyłowego wodorowego albo na sieć przesyłową lub sieć przesyłową wodorową – Prezes Urzędu Regulacji Energetyki, w terminie 100 dni roboczych od dnia złożenia wniosku o przyznanie certyfikatu niezależności lub wystąpienia okoliczności, przekazuje Komisji Europejskiej stanowisko wraz z wnioskiem o wydanie opinii w sprawie spełniania przez właściciela sieci przesyłowej, właściciela sieci przesyłowej wodorowej lub przedsiębiorstwo energetyczne wymagań określonych w art. 9d ust. 1 albo ust. 13 i14 oraz ust. 1a oraz wpływu przyznania im certyfikatu niezależności na bezpieczeństwo dostaw paliw gazowych, energii elektrycznej lub wodoru w Unii Europejskiej lub na istotne interesy dotyczące bezpieczeństwa Rzeczypospolitej Polskiej lub Unii Europejskiej. ” , w ust. 2: – w pkt 1 i 3 wyrazy „paliw gazowych lub energii elektrycznej” zastępuje się wyrazami „paliw gazowych, energii elektrycznej lub wodoru”, po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **b)**
+
+- **2a)** stosunków w zakresie własności, obrotu lub stosunków handlowych, które mogłyby negatywnie wpływać na zdolność właściciela sieci przesyłowej, właściciela sieci przesyłowej wodorowej, operatora systemu przesyłowego lub operatora systemu przesyłowego wodorowego do zapewnienia dostaw gazu ziemnego lub wodoru do Rzeczypospolitej Polskiej lub Unii Europejskiej; ” , w ust. 4: – w pkt 1 wyrazy „dwóch miesięcy” zastępuje się wyrazami „50 dni roboczych”, – w pkt 2 wyrazy „czterech miesięcy” zastępuje się wyrazami „100 dni roboczych”, ust. 5 otrzymuje brzmienie: „
     - **c)**
     - **d)**
 
@@ -599,12 +612,14 @@ source: "eli-html"
 2. Operator systemu przesyłowego gazowego oraz
 
 - **1)** operator systemu przesyłowego wodorowego, któremu udzielono odstępstwa, o którym mowa w art. 9d3 ust. 1, albo
-- **2)** operator systemu połączonego wodorowego wyznaczony na sieci przesyłowej wodorowej, któremu udzielono odstępstwa, o którym mowa w art. 9d3 ust. 1 działają w formie jednej spółki akcyjnej, której jedynym akcjonariuszem jest Skarb Państwa.
+- **2)** operator systemu połączonego wodorowego wyznaczony na sieci przesyłowej wodorowej, któremu udzielono odstępstwa, o którym mowa w art. 9d3 ust. 1 – działają w formie jednej spółki akcyjnej, której jedynym akcjonariuszem jest Skarb Państwa.
 
 3. Operator systemu przesyłowego wodorowego albo operator systemu połączonego wodorowego wyznaczony na sieci przesyłowej wodorowej, któremu nie udzielono odstępstwa, o którym mowa w art. 9d3 ust. 1, działa w formie spółki akcyjnej, której jedynym akcjonariuszem jest operator systemu przesyłowego gazowego. ” ;
 
-- **20)** w art. 16: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych lub energii, lub przesyłaniem wodoru, lub dystrybucją wodoru sporządza, dla obszaru swojego działania, plan rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na paliwa gazowe, energię lub wodór, na okres nie krótszy niż 3 lata, uwzględniając: ” , – pkt 4 otrzymuje brzmienie: „ 4) dziesięcioletni plan rozwoju sieci o zasięgu unijnym, o którym mowa w art. 26 ust. 3 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1789 z dnia 13 czerwca 2024 r. w sprawie rynków wewnętrznych gazu odnawialnego, gazu ziemnego i wodoru, zmiany rozporządzeń (UE) nr 1227/2011, (UE) 2017/1938, (UE) 2019/942 i (UE) 2022/869 oraz decyzji (UE) 2017/684, a także uchylenia rozporządzenia (WE) nr 715/2009 (Dz. Urz. UE L 2024/1789 z 15.07.2024), zwanego dalej „rozporządzeniem 2024/1789”, art. 30 ust. 1 lit. b rozporządzenia 2019/943 lub art. 59 ust. 1 lit. c rozporządzenia 2024/1789 – w przypadku przedsiębiorstwa energetycznego zajmującego się przesyłaniem paliw gazowych, energii elektrycznej lub wodoru; ” , w ust. 1a wyrazy „paliw gazowych lub energii elektrycznej” zastępuje się wyrazami „paliw gazowych, energii elektrycznej lub wodoru”, po ust. 1a dodaje się ust. 1b w brzmieniu: „
+- **20)** w art. 16: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych lub energii, lub przesyłaniem wodoru, lub dystrybucją wodoru sporządza, dla obszaru swojego działania, plan rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na paliwa gazowe, energię lub wodór, na okres nie krótszy niż 3 lata, uwzględniając: ” , pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** dziesięcioletni plan rozwoju sieci o zasięgu unijnym, o którym mowa w art. 26 ust. 3 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2024/1789 z dnia 13 czerwca 2024 r. w sprawie rynków wewnętrznych gazu odnawialnego, gazu ziemnego i wodoru, zmiany rozporządzeń (UE) nr 1227/2011, (UE) 2017/1938, (UE) 2019/942 i (UE) 2022/869 oraz decyzji (UE) 2017/684, a także uchylenia rozporządzenia (WE) nr 715/2009 (Dz. Urz. UE L 2024/1789 z 15.07.2024), zwanego dalej „rozporządzeniem 2024/1789”, art. 30 ust. 1 lit. b rozporządzenia 2019/943 lub art. 59 ust. 1 lit. c rozporządzenia 2024/1789 – w przypadku przedsiębiorstwa energetycznego zajmującego się przesyłaniem paliw gazowych, energii elektrycznej lub wodoru; ” , w ust. 1a wyrazy „paliw gazowych lub energii elektrycznej” zastępuje się wyrazami „paliw gazowych, energii elektrycznej lub wodoru”, po ust. 1a dodaje się ust. 1b w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -623,11 +638,19 @@ source: "eli-html"
 
 6a. Plan rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na wodór sporządzany przez operatora systemu przesyłowego gazowego i operatora systemu przesyłowego wodorowego uwzględnia plan rozwoju sporządzony przez operatora systemu dystrybucyjnego wodorowego.
 
-6b. Plan rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na wodór sporządzany przez operatora systemu dystrybucyjnego wodorowego uwzględnia plan rozwoju sporządzony przez operatora systemu dystrybucyjnego gazowego i operatora systemu dystrybucyjnego elektroenergetycznego, których systemy są zlokalizowane na obszarze działania tego operatora systemu dystrybucyjnego wodorowego. ” , w ust. 7: – pkt 2 i 3 otrzymują brzmienie: „ 2) przedsięwzięcia w zakresie modernizacji, rozbudowy albo budowy sieci oraz planowanych nowych źródeł paliw gazowych lub energii, w tym instalacji odnawialnego źródła energii, lub wodoru, w tym instalacji wytwarzających wodór niskoemisyjny lub wodór odnawialny oraz sieci, która powstała w celu przesyłania wodoru do sieci przesyłowej wodorowej; 3) przedsięwzięcia w zakresie modernizacji, rozbudowy lub budowy połączeń z systemami gazowymi, systemami elektroenergetycznymi albo systemami wodorowymi innych państw – w przypadku planów sporządzanych przez przedsiębiorstwa energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych lub energii elektrycznej lub przesyłaniem wodoru, lub dystrybucją wodoru; ” , – w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10–12 w brzmieniu: „ 10) w przypadku planu sporządzanego przez operatora systemu przesyłowego wodorowego: a) określenie sieci, która jest lub może zostać przekształcona na cele przesyłania wodoru, w szczególności w celu dostarczania wodoru odbiorcom końcowym w sektorach gospodarki, w których potencjał redukcji emisji gazów cieplarnianych jest ograniczony, biorąc pod uwagę efektywność energetyczną i ekonomiczną, b) informacje dotyczące lokalizacji odbiorców końcowych w sektorach, o których mowa w lit. a, w celu wykorzystania wodoru niskoemisyjnego i wodoru odnawialnego w tych sektorach; 11) w przypadku planu sporządzanego przez operatora systemu dystrybucyjnego wodorowego – informacje dotyczące możliwości przekształcenia sieci gazowych w sieci dystrybucyjne wodorowe oraz stopnia, w jakim to przekształcenie jest wymagane do zaspokojenia prognozowanego zapotrzebowania na wodór; 12) w przypadku planu sporządzanego przez operatora systemu przesyłowego gazowego i operatora systemu przesyłowego wodorowego – ocenę możliwego sposobu zaspokojenia potrzeb występujących w systemie gazowym, systemie elektroenergetycznym i systemie wodorowym lub, w stosownych przypadkach – w systemie ciepłowniczym, z uwzględnieniem informacji dotyczących lokalizacji i wielkości aktywów w zakresie magazynowania energii i przetwarzania energii elektrycznej do postaci paliw gazowych lub wodoru, a także informacji o wspólnej lokalizacji instalacji służącej do wytwarzania wodoru oraz instalacji służącej do wykorzystania wodoru. ” , w ust. 9: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Operator systemu przesyłowego gazowego, operator systemu przesyłowego elektroenergetycznego albo operator systemu przesyłowego wodorowego, określając w planie, o którym mowa w ust. 2, poziom połączeń międzysystemowych gazowych, elektroenergetycznych albo wodorowych, biorą w szczególności pod uwagę: ” , – w pkt 2 wyrazy „albo elektroenergetyczne” zastępuje się wyrazami „, elektroenergetyczne albo wodorowe”, – w pkt 3 wyrazy „albo elektroenergetycznych” zastępuje się wyrazami „, elektroenergetycznych albo wodorowych”, ust. 11 otrzymuje brzmienie: „
+6b. Plan rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na wodór sporządzany przez operatora systemu dystrybucyjnego wodorowego uwzględnia plan rozwoju sporządzony przez operatora systemu dystrybucyjnego gazowego i operatora systemu dystrybucyjnego elektroenergetycznego, których systemy są zlokalizowane na obszarze działania tego operatora systemu dystrybucyjnego wodorowego. ” , w ust. 7: pkt 2 i 3 otrzymują brzmienie: „
 
 - **g)**
-- **h)**
-- **i)**
+- **2)** przedsięwzięcia w zakresie modernizacji, rozbudowy albo budowy sieci oraz planowanych nowych źródeł paliw gazowych lub energii, w tym instalacji odnawialnego źródła energii, lub wodoru, w tym instalacji wytwarzających wodór niskoemisyjny lub wodór odnawialny oraz sieci, która powstała w celu przesyłania wodoru do sieci przesyłowej wodorowej;
+- **3)** przedsięwzięcia w zakresie modernizacji, rozbudowy lub budowy połączeń z systemami gazowymi, systemami elektroenergetycznymi albo systemami wodorowymi innych państw – w przypadku planów sporządzanych przez przedsiębiorstwa energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych lub energii elektrycznej lub przesyłaniem wodoru, lub dystrybucją wodoru; ” , w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10–12 w brzmieniu: „
+- **10)** w przypadku planu sporządzanego przez operatora systemu przesyłowego wodorowego: określenie sieci, która jest lub może zostać przekształcona na cele przesyłania wodoru, w szczególności w celu dostarczania wodoru odbiorcom końcowym w sektorach gospodarki, w których potencjał redukcji emisji gazów cieplarnianych jest ograniczony, biorąc pod uwagę efektywność energetyczną i ekonomiczną, informacje dotyczące lokalizacji odbiorców końcowych w sektorach, o których mowa w lit. a, w celu wykorzystania wodoru niskoemisyjnego i wodoru odnawialnego w tych sektorach;
+    - **a)**
+    - **b)**
+
+- **11)** w przypadku planu sporządzanego przez operatora systemu dystrybucyjnego wodorowego – informacje dotyczące możliwości przekształcenia sieci gazowych w sieci dystrybucyjne wodorowe oraz stopnia, w jakim to przekształcenie jest wymagane do zaspokojenia prognozowanego zapotrzebowania na wodór;
+- **12)** w przypadku planu sporządzanego przez operatora systemu przesyłowego gazowego i operatora systemu przesyłowego wodorowego – ocenę możliwego sposobu zaspokojenia potrzeb występujących w systemie gazowym, systemie elektroenergetycznym i systemie wodorowym lub, w stosownych przypadkach – w systemie ciepłowniczym, z uwzględnieniem informacji dotyczących lokalizacji i wielkości aktywów w zakresie magazynowania energii i przetwarzania energii elektrycznej do postaci paliw gazowych lub wodoru, a także informacji o wspólnej lokalizacji instalacji służącej do wytwarzania wodoru oraz instalacji służącej do wykorzystania wodoru. ” , w ust. 9: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Operator systemu przesyłowego gazowego, operator systemu przesyłowego elektroenergetycznego albo operator systemu przesyłowego wodorowego, określając w planie, o którym mowa w ust. 2, poziom połączeń międzysystemowych gazowych, elektroenergetycznych albo wodorowych, biorą w szczególności pod uwagę: ” , – w pkt 2 wyrazy „albo elektroenergetyczne” zastępuje się wyrazami „, elektroenergetyczne albo wodorowe”, – w pkt 3 wyrazy „albo elektroenergetycznych” zastępuje się wyrazami „, elektroenergetycznych albo wodorowych”, ust. 11 otrzymuje brzmienie: „
+    - **h)**
+    - **i)**
 
 11. W planie, o którym mowa w ust. 1, uwzględnia się także zapotrzebowanie na nowe zdolności w systemie przesyłowym lub systemie dystrybucyjnym, lub systemie przesyłowym wodorowym, lub systemie dystrybucyjnym wodorowym zgłoszone przez podmioty przyłączone do sieci lub podmioty ubiegające się o przyłączenie do sieci. ” , w ust. 12: – we wprowadzeniu do wyliczenia wyrazy „paliw gazowych lub energii elektrycznej” zastępuje się wyrazami „paliw gazowych, energii elektrycznej lub wodoru”, – w pkt 1 wyrazy „paliw gazowych lub energii” zastępuje się wyrazami „paliw gazowych, energii elektrycznej lub wodoru”, – w pkt 2 wyrazy „paliw gazowych lub energii elektrycznej” zastępuje się wyrazami „paliw gazowych, energii elektrycznej lub wodoru”, ust. 14a otrzymuje brzmienie: „
 
@@ -697,8 +720,9 @@ source: "eli-html"
     - **l)**
 
 - **22)** w art. 24 w ust. 1 wyrazy „paliw gazowych i energii elektrycznej” zastępuje się wyrazami „paliw gazowych, energii elektrycznej i wodoru”;
-- **23)** w art. 32 w ust. 1: w pkt 1: – w lit. d dodaje się tiret czwarte-szóste w brzmieniu: „ – wyłącznie z wodoru niskoemisyjnego, – wyłącznie z wodoru odnawialnego, – wyłącznie z wodoru odnawialnego pochodzenia niebiologicznego, ” , – w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „ g) wodoru; ” , w pkt 2 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ wodoru, z wyjątkiem lokalnego magazynowania wodoru w małej instalacji magazynowej wodoru; ” , pkt 3 otrzymuje brzmienie: „
+- **23)** w art. 32 w ust. 1: w pkt 1: w lit. d dodaje się tiret czwarte-szóste w brzmieniu: „ – wyłącznie z wodoru niskoemisyjnego, – wyłącznie z wodoru odnawialnego, – wyłącznie z wodoru odnawialnego pochodzenia niebiologicznego, ” , w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „ wodoru; ” , w pkt 2 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ wodoru, z wyjątkiem lokalnego magazynowania wodoru w małej instalacji magazynowej wodoru; ” , pkt 3 otrzymuje brzmienie: „
     - **a)**
+    - **g)**
     - **b)**
     - **c)**
     - **c)**
@@ -755,8 +779,10 @@ source: "eli-html"
 
 8. Minister właściwy do spraw gospodarki surowcami energetycznymi w porozumieniu z ministrem właściwym do spraw klimatu określi, w drodze rozporządzenia, wzór rejestru instalacji magazynowych wodoru, wzór informacji, o której mowa w ust. 3, oraz jej aktualizacji, a także format danych zamieszczanych w rejestrze instalacji magazynowych wodoru, kierując się koniecznością ujednolicenia formy przekazywania informacji dotyczących instalacji magazynowych wodoru oraz możliwością agregowania informacji zawartej w rejestrach instalacji magazynowych wodoru prowadzonych przez operatora systemu wodorowego. ” ;
 
-- **27)** w art. 44: w ust. 1: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) dostarczania wodoru, w tym kosztów stałych, kosztów zmiennych i przychodów, odrębnie dla wytwarzania wodoru, przesyłania wodoru, dystrybucji wodoru, magazynowania wodoru oraz obrotu wodorem; ” , – w pkt 2 wyrazy „pkt 1” zastępuje się wyrazami „pkt 1 i 1a”, w ust. 2 po wyrazach „skroplonego gazu ziemnego,” dodaje się wyrazy „przesyłania wodoru, dystrybucji wodoru, magazynowania wodoru lub obrotu wodorem”, po ust. 2 dodaje się ust. 21 w brzmieniu: „
+- **27)** w art. 44: w ust. 1: po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
+
+- **1a)** dostarczania wodoru, w tym kosztów stałych, kosztów zmiennych i przychodów, odrębnie dla wytwarzania wodoru, przesyłania wodoru, dystrybucji wodoru, magazynowania wodoru oraz obrotu wodorem; ” , – w pkt 2 wyrazy „pkt 1” zastępuje się wyrazami „pkt 1 i 1a”, w ust. 2 po wyrazach „skroplonego gazu ziemnego,” dodaje się wyrazy „przesyłania wodoru, dystrybucji wodoru, magazynowania wodoru lub obrotu wodorem”, po ust. 2 dodaje się ust. 21 w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -800,11 +826,17 @@ source: "eli-html"
 
 20. Uprawnienia budowlane w specjalności instalacyjnej w zakresie sieci, instalacji i urządzeń cieplnych, wentylacyjnych, gazowych, wodociągowych i kanalizacyjnych bez ograniczeń uprawniają do projektowania obiektu budowlanego lub kierowania robotami budowlanymi związanymi z obiektem budowlanym, takim jak: sieci i instalacje cieplne, wentylacyjne, gazowe, wodorowe, wodociągowe i kanalizacyjne. ” ;
 
-- **2)** w art. 29: w ust. 1: – w pkt 2 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „ f) wodorowych o ciśnieniu roboczym nie wyższym niż 0,5 MPa; ” , – w pkt 23 w lit. f dodaje się przecinek i dodaje się lit. g w brzmieniu: „ g) wodorowych ” , – w pkt 33 kropkę zastępuje się średnikiem i dodaje się pkt 34 w brzmieniu: „ 34) instalacji do wytwarzania wodoru w procesie elektrolizy wraz z infrastrukturą towarzyszącą o łącznej mocy nieprzekraczającej 10 MW. ” , w ust. 2 w pkt 29 w lit. d dodaje się przecinek i dodaje się lit. e w brzmieniu: „ wodorowymi ” , w ust. 3: – w pkt 1 lit. c otrzymuje brzmienie: „ c) sieci gazowych, sieci wodorowych oraz sieci elektroenergetycznych innych niż wymienione w ust. 1 pkt 2 lit. a, e i f; ” , – w pkt 3 w lit. e kropkę zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „ f) urządzeń do oczyszczania wodoru o przepustowości nie większej niż 250 kg wodoru na dobę. ” ;
+- **2)** w art. 29: w ust. 1: w pkt 2 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „ wodorowych o ciśnieniu roboczym nie wyższym niż 0,5 MPa; ” , w pkt 23 w lit. f dodaje się przecinek i dodaje się lit. g w brzmieniu: „ wodorowych ” , w pkt 33 kropkę zastępuje się średnikiem i dodaje się pkt 34 w brzmieniu: „
     - **a)**
+    - **f)**
+    - **g)**
+
+- **34)** instalacji do wytwarzania wodoru w procesie elektrolizy wraz z infrastrukturą towarzyszącą o łącznej mocy nieprzekraczającej 10 MW. ” , w ust. 2 w pkt 29 w lit. d dodaje się przecinek i dodaje się lit. e w brzmieniu: „ wodorowymi ” , w ust. 3: w pkt 1 lit. c otrzymuje brzmienie: „ sieci gazowych, sieci wodorowych oraz sieci elektroenergetycznych innych niż wymienione w ust. 1 pkt 2 lit. a, e i f; ” , w pkt 3 w lit. e kropkę zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „ urządzeń do oczyszczania wodoru o przepustowości nie większej niż 250 kg wodoru na dobę. ” ;
     - **b)**
     - **e)**
     - **c)**
+    - **c)**
+    - **f)**
 
 - **3)** w załączniku do ustawy w tabeli w wierszu Kategorii XXVI w kolumnie pierwszej treść otrzymuje brzmienie: „ Kategoria XXVI – sieci, jak: elektroenergetyczne, telekomunikacyjne, gazowe, wodorowe, ciepłownicze, wodociągowe, kanalizacyjne oraz rurociągi przesyłowe ” .
 
@@ -828,7 +860,7 @@ source: "eli-html"
 
 **Art. 5.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, 834, 1089, 1222, 1847 i 1853) w art. 248 w ust. 2a pkt 8 otrzymuje brzmienie: „
 
-- **8)** transportu substancji niebezpiecznych: rurociągami, z uwzględnieniem pompowni, rurociągami wodorowymi znajdującymi się poza zakładami o zwiększonym ryzyku lub zakładami o dużym ryzyku. ” .
+- **8)** transportu substancji niebezpiecznych: rurociągami, z uwzględnieniem pompowni, rurociągami wodorowymi – znajdującymi się poza zakładami o zwiększonym ryzyku lub zakładami o dużym ryzyku. ” .
     - **a)**
     - **b)**
 
@@ -877,11 +909,13 @@ source: "eli-html"
 
 - **1)** wymagania dotyczące pomiarów, rejestracji i sposobu obliczania ilości wodoru odnawialnego transportowanego środkami transportu innymi niż sieci gazowe albo sieci wodorowe,
 - **2)** miejsce dokonywania pomiarów ilości wodoru odnawialnego transportowanego środkami transportu innymi niż sieci gazowe albo sieci wodorowe,
-- **3)** sposób przeliczania ilości wodoru odnawialnego transportowanego środkami transportu innymi niż sieci gazowe albo sieci wodorowe na ilość energii wyrażoną w MWh biorąc pod uwagę potrzebę zapewnienia bezpieczeństwa obrotu, dostępne technologie oraz potrzebę ustalenia ilości wodoru odnawialnego wytworzonego i transportowanego środkami transportu innymi niż sieci gazowe albo sieci wodorowe. ” ;
-- **4)** w art. 120: w ust. 1 w części wspólnej wyrazy „sieci odpowiednio elektroenergetycznej, gazowej albo sieci ciepłowniczej lub chłodniczej” zastępuje się wyrazami „sieci odpowiednio elektroenergetycznej, gazowej, wodorowej albo sieci ciepłowniczej lub chłodniczej”, w ust. 5: – pkt 2 otrzymuje brzmienie: „ 2) wodoru odnawialnego – miejsce wprowadzenia do środka transportu innego niż sieci gazowe albo sieci wodorowe; ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) biogazu albo biogazu rolniczego – miejsce wprowadzenia do środka transportu innego niż sieci gazowe; ” ;
+- **3)** sposób przeliczania ilości wodoru odnawialnego transportowanego środkami transportu innymi niż sieci gazowe albo sieci wodorowe na ilość energii wyrażoną w MWh – biorąc pod uwagę potrzebę zapewnienia bezpieczeństwa obrotu, dostępne technologie oraz potrzebę ustalenia ilości wodoru odnawialnego wytworzonego i transportowanego środkami transportu innymi niż sieci gazowe albo sieci wodorowe. ” ;
+- **4)** w art. 120: w ust. 1 w części wspólnej wyrazy „sieci odpowiednio elektroenergetycznej, gazowej albo sieci ciepłowniczej lub chłodniczej” zastępuje się wyrazami „sieci odpowiednio elektroenergetycznej, gazowej, wodorowej albo sieci ciepłowniczej lub chłodniczej”, w ust. 5: pkt 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
 
+- **2)** wodoru odnawialnego – miejsce wprowadzenia do środka transportu innego niż sieci gazowe albo sieci wodorowe; ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** biogazu albo biogazu rolniczego – miejsce wprowadzenia do środka transportu innego niż sieci gazowe; ” ;
 - **5)** w art. 121: w ust. 2 pkt 5 otrzymuje brzmienie: „
     - **a)**
 
@@ -903,9 +937,11 @@ source: "eli-html"
     - **c)**
 
 - **6)** 1 MWh wodoru odnawialnego wprowadzonego do sieci przesyłowej gazowej, sieci dystrybucyjnej gazowej albo sieci wodorowej, albo
-- **7)** 1 MWh wodoru odnawialnego transportowanego środkami transportu innymi niż sieci gazowe albo sieci wodorowe, przeliczonego zgodnie z przepisami wydanymi na podstawie art. 62a. ” , w ust. 12: – pkt 3 otrzymuje brzmienie: „ 3) transportowanego środkami transportu innymi niż sieci gazowe albo sieci wodorowe wodoru odnawialnego z ilości wodoru odnawialnego wskazanej w gwarancji pochodzenia, która uległa rozdzieleniu, albo ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) transportowanego środkami transportu innymi niż sieci gazowe biogazu albo biogazu rolniczego z ilości biogazu albo biogazu rolniczego wskazanej w gwarancji pochodzenia, która uległa rozdzieleniu, albo ” . W ustawie z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2024 r. poz. 1289 i 1853) wprowadza się następujące zmiany:
+- **7)** 1 MWh wodoru odnawialnego transportowanego środkami transportu innymi niż sieci gazowe albo sieci wodorowe, przeliczonego zgodnie z przepisami wydanymi na podstawie art. 62a. ” , w ust. 12: pkt 3 otrzymuje brzmienie: „
     - **d)**
 
+- **3)** transportowanego środkami transportu innymi niż sieci gazowe albo sieci wodorowe wodoru odnawialnego z ilości wodoru odnawialnego wskazanej w gwarancji pochodzenia, która uległa rozdzieleniu, albo ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** transportowanego środkami transportu innymi niż sieci gazowe biogazu albo biogazu rolniczego z ilości biogazu albo biogazu rolniczego wskazanej w gwarancji pochodzenia, która uległa rozdzieleniu, albo ” . W ustawie z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2024 r. poz. 1289 i 1853) wprowadza się następujące zmiany:
 - **1)** w art. 2: pkt 28a otrzymuje brzmienie: „
     - **a)**
 
@@ -955,12 +991,12 @@ source: "eli-html"
 **Art. 16.** W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy:
 
 - **1)** o wydanie decyzji o pozwoleniu na budowę, odrębnej decyzji o zatwierdzeniu projektu zagospodarowania działki lub terenu oraz projektu architektoniczno-budowlanego,
-- **2)** zgłoszenia budowy lub wykonywania innych robót budowlanych stosuje się przepisy dotychczasowe.
+- **2)** zgłoszenia budowy lub wykonywania innych robót budowlanych – stosuje się przepisy dotychczasowe.
 
 **Art. 17.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 54 ust. 6 i 7 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 54 ust. 6 i 7 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą,
-- **2)** art. 62a ustawy zmienianej w art. 8 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 62a ustawy zmienianej w art. 8 w brzmieniu nadanym niniejszą ustawą nie dłużej jednak niż przez 36 miesięcy od dnia wejścia w życie niniejszej ustawy.
+- **2)** art. 62a ustawy zmienianej w art. 8 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 62a ustawy zmienianej w art. 8 w brzmieniu nadanym niniejszą ustawą – nie dłużej jednak niż przez 36 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 18.**
 
@@ -983,9 +1019,9 @@ source: "eli-html"
 
 - **1)** po pierwszym kwartale – co najmniej o 20 %,
 - **2)** po dwóch kwartałach – co najmniej o 15 %,
-- **3)** po trzech kwartałach – co najmniej o 10 % Prezes Urzędu Regulacji Energetyki stosuje mechanizm korygujący polegający na obniżeniu kosztów realizacji zadań, o których mowa w ust. 1.
+- **3)** po trzech kwartałach – co najmniej o 10 % – Prezes Urzędu Regulacji Energetyki stosuje mechanizm korygujący polegający na obniżeniu kosztów realizacji zadań, o których mowa w ust. 1.
 
 4. W przypadku gdy wielkość wydatków w poszczególnych miesiącach jest zgodna z planem finansowym, przepisu ust. 3 nie stosuje się.
 
-**Art. 19.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 1 pkt 20 lit. a tiret drugie w zakresie, w jakim dotyczy dziesięcioletniego planu rozwoju sieci wodorowej o zasięgu unijnym, który wchodzi w życie z dniem 1 stycznia 2027 r.
+**Art. 19.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 1 pkt 20 lit. a tiret drugie w zakresie, w jakim dotyczy dziesięcioletniego planu rozwoju sieci wodorowej o zasięgu unijnym, który wchodzi w życie z dniem 1 stycznia 2027 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 26 października 2000 r. o giełdach towarowych, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu, ustawę z dnia 20 lutego 2015 r. o odnawialnych źródłach energii oraz ustawę z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych. 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2024/1408 z 21.05.2024.
 

@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-29 |
 | Data wydania | 2024-04-30 |
-| Wejście w życie | 2024-05-01 |
 | Ostatnia zmiana | 2025-06-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000675) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/675/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 47 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Prezesa Rady Ministrów z dnia 16 grudnia 2009 r. w sprawie sposobu przeprowadzania postępowania kwalifikacyjnego w służbie cywilnej (Dz. U. z 2021 r. poz. 141) w § 20 ust. 1 otrzymuje brzmienie:
-„
+W rozporządzeniu Prezesa Rady Ministrów z dnia 16 grudnia 2009 r. w sprawie sposobu przeprowadzania postępowania kwalifikacyjnego w służbie cywilnej (Dz. U. z 2021 r. poz. 141) w § 20 ust. 1 otrzymuje brzmienie: „
 1.
-Wysokość opłaty za przystąpienie do postępowania kwalifikacyjnego w danym roku, o której mowa w art. 45 ustawy, wynosi 17% minimalnego wynagrodzenia za pracę przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę, zaokrąglonego w dół do pełnego złotego w ten sposób, że pomija się końcówki wyrażone w groszach.
-” .
+Wysokość opłaty za przystąpienie do postępowania kwalifikacyjnego w danym roku, o której mowa w art. 45 ustawy, wynosi 17% minimalnego wynagrodzenia za pracę przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę, zaokrąglonego w dół do pełnego złotego w ten sposób, że pomija się końcówki wyrażone w groszach. ” .
 § 2.
 1.
 Pracownikowi służby cywilnej ubiegającemu się o mianowanie w służbie cywilnej w 2024 r., który wniósł opłatę, o której mowa w art. 45 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej, w wysokości określonej w § 20 ust. 1 rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, przysługuje zwrot wysokości różnicy między opłatą wniesioną przez pracownika a opłatą w wysokości określonej w § 20 ust. 1 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.

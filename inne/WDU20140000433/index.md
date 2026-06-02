@@ -31,14 +31,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 maja 2008 r. w sprawie akredytacji podmiotów świadczących usługi doradcze w ramach działania „Korzystanie z usług doradczych przez rolników i posiadaczy lasów” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 89, poz. 546), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 19 listopada 2012 r. zmieniającym rozporządzenie w sprawie akredytacji podmiotów świadczących usługi doradcze w ramach działania „Korzystanie z usług doradczych przez rolników i posiadaczy lasów” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 1357).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 19 listopada 2012 r. zmieniającego rozporządzenie w sprawie akredytacji podmiotów świadczących usługi doradcze w ramach działania „Korzystanie z usług doradczych przez rolników i posiadaczy lasów” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 1357), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 19 listopada 2012 r. zmieniającego rozporządzenie w sprawie akredytacji podmiotów świadczących usługi doradcze w ramach działania „Korzystanie z usług doradczych przez rolników i posiadaczy lasów” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 1357), które stanowią: „
 § 2.
 Do spraw wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 maja 2008 r. w sprawie akredytacji podmiotów świadczących usługi doradcze w ramach działania „Korzystanie z usług doradczych przez rolników i posiadaczy lasów” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 maja 2008 r. w sprawie akredytacji podmiotów świadczących usługi doradcze w ramach działania „Korzystanie z usług doradczych przez rolników i posiadaczy lasów” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486).
 Na podstawie art. 36 ust. 9 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. z 2013 r. poz. 173) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb udzielania oraz cofania akredytacji podmiotom, o których mowa w art. 36 ust. 1 pkt 3 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, zwanej dalej „ustawą”.
@@ -67,14 +65,14 @@ rodzaj świadczonych usług doradczych;
 wartość świadczonych usług doradczych.
 3.
 Sprawozdanie, o którym mowa w ust. 1 pkt 6, składa się zgodnie ze wzorem zamieszczonym na stronie internetowej urzędu obsługującego ministra właściwego do spraw rozwoju wsi.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 19 listopada 2012 r. zmieniającego rozporządzenie w sprawie akredytacji podmiotów świadczących usługi doradcze w ramach działania „Korzystanie z usług doradczych przez rolników i posiadaczy lasów” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 1357), które weszło w życie z dniem 18 grudnia 2012 r..
 W przypadku gdy o świadczenie usług doradczych świadczonych posiadaczom lasów ubiega się Państwowe Gospodarstwo Leśne Lasy Państwowe, przepisów ust. 1 pkt 1 i 5 nie stosuje się.
 § 3.
 1.
 Wniosek o udzielenie akredytacji składa się osobiście lub przez upoważnioną osobę bezpośrednio w urzędzie obsługującym ministra właściwego do spraw rozwoju wsi albo nadaje przesyłką poleconą w polskiej placówce pocztowej operatora publicznego.
 2.
 Wniosek o udzielenie akredytacji składa się zgodnie ze wzorem wniosku zamieszczonym na stronie internetowej urzędu obsługującego ministra właściwego do spraw rozwoju wsi.
-§ 4.
+§ 4W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Wniosek o udzielenie akredytacji oprócz informacji określonych w art. 36 ust. 3 ustawy zawiera:
 1)
@@ -112,7 +110,7 @@ W przypadku gdy o świadczenie usług doradczych świadczonych posiadaczom lasó
 W sprawach oceny wniosków o udzielenie akredytacji minister właściwy do spraw rozwoju wsi powołuje zespół, zwany dalej „zespołem akredytacyjnym”, do którego zadań należy:
 1)
 analiza wniosków o udzielenie akredytacji;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.)
 sporządzanie opinii w sprawie udzielenia, odmowy udzielenia lub cofnięcia akredytacji.
 2.
 W skład zespołu akredytacyjnego wchodzi:
@@ -127,7 +125,7 @@ Zespół akredytacyjny działa na podstawie regulaminu zatwierdzonego przez mini
 Akredytacja jest udzielana na okres do dnia 31 grudnia 2015 r.
 2.
 Decyzja o udzieleniu akredytacji, oprócz składników określonych w art. 36 ust. 5 ustawy, zawiera:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.)
 określenie obszaru świadczenia usług doradczych;
 2)
 imiona i nazwiska osób, które będą świadczyć usługi doradcze.
@@ -138,26 +136,25 @@ Minister właściwy do spraw rozwoju wsi prowadzi wykaz podmiotów, którym udzi
 imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres podmiotu doradczego, któremu udzielono akredytacji;
 2)
 określenie rodzaju świadczonych usług doradczych;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 określenie obszaru świadczenia usług doradczych;
 4)
 imiona i nazwiska osób, które będą świadczyć usługi doradcze;
-5)
+5W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 datę udzielenia lub zmiany akredytacji.
 2.
 Wykaz, o którym mowa w ust. 1, jest zamieszczany na stronie internetowej urzędu obsługującego ministra właściwego do spraw rozwoju wsi.
 § 8.
 1.
 Minister właściwy do spraw rozwoju wsi cofa akredytację, oprócz przypadków określonych w art. 36 ust. 7 ustawy, także w przypadku:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 gdy w wyniku kontroli, o której mowa w art. 37 ustawy, w tym obejmującej weryfikację informacji uzyskanych przez agencję płatniczą w wyniku kontroli beneficjentów działania „Korzystanie z usług doradczych przez rolników i posiadaczy lasów” i przekazanych Centrum Doradztwa Rolniczego z siedzibą w Brwinowie w ramach współpracy, o której mowa w art. 34 ustawy, stwierdzono, że usługi doradcze świadczone przez podmiot, któremu udzielono akredytacji, naruszają interesy prawne lub ekonomiczne rolników lub posiadaczy lasów lub interesy finansowe Unii Europejskiej lub sektora finansów publicznych, chyba że w wyniku tej kontroli stwierdzono, że naruszenie to nie powoduje istotnego wpływu na prawidłowość świadczonych usług doradczych;
 2)
-(uchylony);
+(uchylony);Przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 3)
 likwidacji lub upadłości podmiotu, któremu udzielono akredytacji.
 2.
 Podmiot, któremu cofnięto akredytację, skreśla się z wykazu, o którym mowa w § 7 ust. 1.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 19 listopada 2012 r. zmieniającego rozporządzenie w sprawie akredytacji podmiotów świadczących usługi doradcze w ramach działania „Korzystanie z usług doradczych przez rolników i posiadaczy lasów” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 1357), które weszło w życie z dniem 18 grudnia 2012 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 2. 9) Przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2. 10) Rozporządzenie zostało ogłoszone w dniu 23 maja 2008 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 23 maja 2008 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 19 listopada 2012 r. zmieniającego rozporządzenie w sprawie akredytacji podmiotów świadczących usługi doradcze w ramach działania „Korzystanie z usług doradczych przez rolników i posiadaczy lasów” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 1357), które weszło w życie z dniem 18 grudnia 2012 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 2. 9) Przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2. 10) Rozporządzenie zostało ogłoszone w dniu 23 maja 2008 r.
 

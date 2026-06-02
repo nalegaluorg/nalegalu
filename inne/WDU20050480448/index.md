@@ -22,15 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-03-03 |
 | Data wydania | 2005-03-25 |
-| Wejście w życie | 2005-03-25 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050480448) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/448/text.pdf) |
 
 **Art. 1.**
 
-1. Ustawa określa sposób udzielania dopłat z budżetu państwa do umów na budowę w polskich stoczniach niektórych typów statków morskich, określonych w rozporządzeniu Rady (WE) nr 1177/2002 z dnia 27 czerwca 2002 r. dotyczącym tymczasowego mechanizmu ochronnego dla przemysłu stoczniowego (Dz. Urz. WE L 172 z 2.07.2002; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 29, str. 485, z późn. zm.).
+1. Ustawa określa sposób udzielania dopłat z budżetu państwa do umów na budowę w polskich stoczniach niektórych typów statków morskich, określonych w rozporządzeniu Rady (WE) nr 1177/2002 z dnia 27 czerwca 2002 r. dotyczącym tymczasowego mechanizmu ochronnego dla przemysłu stoczniowego (Dz. Urz. WE L 172 z 2.07.2002; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 29, str. 485, z późn. zm.Wymienione rozporządzenie zostało zmienione rozporządzeniem Rady (WE) nr 502/2004 z dnia 11 marca 2004 r. zmieniającym rozporządzenie (WE) nr 1177/2002 dotyczące tymczasowego mechanizmu ochronnego dla przemysłu stoczniowego (Dz. Urz. WE L 081 z 19.03.2004).).
 
-2. Dopłaty mogą być udzielane do umów zawartych po dniu 24 października 2002 r., lecz przed dniem utraty mocy obowiązującej tymczasowego mechanizmu ochronnego dla przemysłu stoczniowego, pod warunkiem że dostarczenie statku nastąpi po dniu wejścia w życie ustawy.
+2. Dopłaty mogą być udzielane do umów zawartych po dniu 24 października 2002 r.Zgodnie z art. 4 rozporządzenia Rady dopłaty stosuje się do umów zawartych po dniu ogłoszenia w Dzienniku Urzędowym Wspólnot Europejskich rozpoczęcia postępowania rozstrzygającego spór z Koreą w sprawie stosowania nieuczciwej konkurencji., lecz przed dniem utraty mocy obowiązującej tymczasowego mechanizmu ochronnego dla przemysłu stoczniowego, pod warunkiem że dostarczenie statku nastąpi po dniu wejścia w życie ustawy.
 
 **Art. 2.**
 
@@ -135,10 +134,7 @@ source: "eli-html"
 - **2)** sposób dokonywania przez BGK kontroli w zakresie przestrzegania przez wnioskodawcę obowiązków wynikających z umowy;
 - **3)** rodzaje dokumentów umożliwiających stwierdzenie spełnienia przez wnioskodawcę warunków, od których jest uzależnione przekazanie środków pieniężnych z tytułu dopłaty.
 
-**Art. 8.** Minister właściwy do spraw gospodarki uruchamia środki budżetu państwa przeznaczone na dopłatę do budowy statku, zgodnie z art. 29 ust. 4 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. Nr 15, poz. 148, z późn. zm.). Środki przekazuje się na rachunek bankowy BGK w terminie umożliwiającym przekazanie ich na rachunek bankowy wnioskodawcy w terminie do 30 dni od dnia dostarczenia statku przez stocznię polską.
+**Art. 8.** Minister właściwy do spraw gospodarki uruchamia środki budżetu państwa przeznaczone na dopłatę do budowy statku, zgodnie z art. 29 ust. 4 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. Nr 15, poz. 148, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851, z 2004 r. Nr 19, poz. 177, Nr 93, poz. 890, Nr 121, poz. 1264, Nr 123, poz. 1291, Nr 210, poz. 2135 i Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114.). Środki przekazuje się na rachunek bankowy BGK w terminie umożliwiającym przekazanie ich na rachunek bankowy wnioskodawcy w terminie do 30 dni od dnia dostarczenia statku przez stocznię polską.
 
-**Art. 9.** Ustawa wchodzi w życie z dniem ogłoszenia.
-
-- **1)** Wymienione rozporządzenie zostało zmienione rozporządzeniem Rady (WE) nr 502/2004 z dnia 11 marca 2004 r. zmieniającym rozporządzenie (WE) nr 1177/2002 dotyczące tymczasowego mechanizmu ochronnego dla przemysłu stoczniowego (Dz. Urz. WE L 081 z 19.03.2004). 2) Zgodnie z art. 4 rozporządzenia Rady dopłaty stosuje się do umów zawartych po dniu ogłoszenia w Dzienniku Urzędowym Wspólnot Europejskich rozpoczęcia postępowania rozstrzygającego spór z Koreą w sprawie stosowania nieuczciwej konkurencji. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851, z 2004 r. Nr 19, poz. 177, Nr 93, poz. 890, Nr 121, poz. 1264, Nr 123, poz. 1291, Nr 210, poz. 2135 i Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114.
-
+**Art. 9.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Wymienione rozporządzenie zostało zmienione rozporządzeniem Rady (WE) nr 502/2004 z dnia 11 marca 2004 r. zmieniającym rozporządzenie (WE) nr 1177/2002 dotyczące tymczasowego mechanizmu ochronnego dla przemysłu stoczniowego (Dz. Urz. WE L 081 z 19.03.2004). 2) Zgodnie z art. 4 rozporządzenia Rady dopłaty stosuje się do umów zawartych po dniu ogłoszenia w Dzienniku Urzędowym Wspólnot Europejskich rozpoczęcia postępowania rozstrzygającego spór z Koreą w sprawie stosowania nieuczciwej konkurencji. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851, z 2004 r. Nr 19, poz. 177, Nr 93, poz. 890, Nr 121, poz. 1264, Nr 123, poz. 1291, Nr 210, poz. 2135 i Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114.
 

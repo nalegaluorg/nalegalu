@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 22 czerwca 2020 r. w sprawie przyznawania zapomogi weteranowi-funkcjonariuszowi i weteranowi poszkodowanemu-funkcjonariuszowi na pobyt w Domu Weterana
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 22 czerwca 2020 r. w sprawie przyznawania zapomogi weteranowi-funkcjonariuszowi i weteranowi poszkodowanemu-funkcjonariuszowi na pobyt w Domu Weterana Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-22 |
 | Data wydania | 2020-07-02 |
-| Wejście w życie | 2020-07-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001174) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1174/text.pdf) |
 
@@ -59,14 +58,12 @@ pobierającemu emeryturę lub rentę policyjną na podstawie ustawy z dnia 18 lu
 2)
 pozostającemu w stosunku służbowym – za pośrednictwem jednostki organizacyjnej odpowiednio Policji, Straży Granicznej albo Państwowej Straży Pożarnej właściwej dla miejsca pełnienia służby funkcjonariusza oraz Służby Ochrony Państwa,
 3)
-niepobierającemu emerytury lub renty policyjnej i niepozostającemu w stosunku służbowym – za pośrednictwem jednostki organizacyjnej odpowiednio Policji, Straży Granicznej albo Państwowej Straży Pożarnej właściwej dla ostatniego miejsca pełnienia służby funkcjonariusza oraz Służby Ochrony Państwa
-przekazem pocztowym na wskazany adres lub przelewem na wskazane konto bankowe.
+niepobierającemu emerytury lub renty policyjnej i niepozostającemu w stosunku służbowym – za pośrednictwem jednostki organizacyjnej odpowiednio Policji, Straży Granicznej albo Państwowej Straży Pożarnej właściwej dla ostatniego miejsca pełnienia służby funkcjonariusza oraz Służby Ochrony Państwa – przekazem pocztowym na wskazany adres lub przelewem na wskazane konto bankowe.
 § 5.
 1.
 Fundusz na zapomogi tworzy się w ramach środków budżetowych części budżetu państwa, której dysponentem jest minister właściwy do spraw wewnętrznych.
 2.
 Fundusz na zapomogi stanowi pięćdziesięciokrotność kwoty bazowej dla żołnierzy zawodowych i funkcjonariuszy, ogłaszanej corocznie w ustawie budżetowej.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 6 czerwca 2012 r. w sprawie warunków i trybu przyznawania weteranowi-funkcjonariuszowi i weteranowi poszkodowanemu-funkcjonariuszowi zapomogi na pobyt w Domu Weterana oraz sposobu tworzenia funduszu na zapomogi (Dz. U. poz. 686 oraz z 2019 r. poz. 220), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 19 ust. 1 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 6 czerwca 2012 r. w sprawie warunków i trybu przyznawania weteranowi-funkcjonariuszowi i weteranowi poszkodowanemu-funkcjonariuszowi zapomogi na pobyt w Domu Weterana oraz sposobu tworzenia funduszu na zapomogi (Dz. U. poz. 686 oraz z 2019 r. poz. 220), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 19 ust. 1 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 6 czerwca 2012 r. w sprawie warunków i trybu przyznawania weteranowi-funkcjonariuszowi i weteranowi poszkodowanemu-funkcjonariuszowi zapomogi na pobyt w Domu Weterana oraz sposobu tworzenia funduszu na zapomogi (Dz. U. poz. 686 oraz z 2019 r. poz. 220), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 19 ust. 1 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726).
 

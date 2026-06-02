@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 stycznia 2016 r. o zmianie ustawy o Policji oraz niektórych innych ustaw
+# Ustawa z dnia 15 stycznia 2016 r. o zmianie ustawy o Policji oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 28 września 1991 r. o kontroli skarbowej, ustawę z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawę z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym oraz ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-01-15 |
 | Data wydania | 2016-02-04 |
-| Wejście w życie | 2016-02-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000147) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/147/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2015 r. poz. 355, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2015 r. poz. 355, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 529, 1045, 1066, 1217, 1268, 1890, 2023 i 2281.) wprowadza się następujące zmiany:
 
-- **1)** w art. 19: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przy wykonywaniu czynności operacyjno-rozpoznawczych, podejmowanych przez Policję w celu zapobieżenia, wykrycia, ustalenia sprawców, a także uzyskania i utrwalenia dowodów, ściganych z oskarżenia publicznego, umyślnych przestępstw: ” , – pkt 8 otrzymuje brzmienie: „ 8) ściganych na mocy umów międzynarodowych ratyfikowanych za uprzednią zgodą wyrażoną w ustawie, określonych w polskiej ustawie karnej, ” , ust. 6 otrzymuje brzmienie: „
+- **1)** w art. 19: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przy wykonywaniu czynności operacyjno-rozpoznawczych, podejmowanych przez Policję w celu zapobieżenia, wykrycia, ustalenia sprawców, a także uzyskania i utrwalenia dowodów, ściganych z oskarżenia publicznego, umyślnych przestępstw: ” , pkt 8 otrzymuje brzmienie: „
     - **a)**
+
+- **8)** ściganych na mocy umów międzynarodowych ratyfikowanych za uprzednią zgodą wyrażoną w ustawie, określonych w polskiej ustawie karnej, ” , ust. 6 otrzymuje brzmienie: „
     - **b)**
 
 6. Kontrola operacyjna prowadzona jest niejawnie i polega na:
@@ -59,7 +60,7 @@ source: "eli-html"
 
 - **g)**
 
-12a. Usługodawca świadczący usługi drogą elektroniczną będący mikro- lub małym przedsiębiorcą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez Policję kontroli operacyjnej stosownie do posiadanej infrastruktury. ” , po ust. 15e dodaje się ust. 15f-15j w brzmieniu: „
+12a. Usługodawca świadczący usługi drogą elektroniczną będący mikro- lub małym przedsiębiorcą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65.) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez Policję kontroli operacyjnej stosownie do posiadanej infrastruktury. ” , po ust. 15e dodaje się ust. 15f-15j w brzmieniu: „
 
 - **h)**
 
@@ -101,9 +102,9 @@ source: "eli-html"
 
 1. W celu zapobiegania lub wykrywania przestępstw albo w celu ratowania życia lub zdrowia ludzkiego bądź wsparcia działań poszukiwawczych lub ratowniczych, Policja może uzyskiwać dane niestanowiące treści odpowiednio, przekazu telekomunikacyjnego, przesyłki pocztowej albo przekazu w ramach usługi świadczonej drogą elektroniczną, określone w:
 
-- **1)** art. 180c i art. 180d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.), zwane dalej „danymi telekomunikacyjnymi”,
+- **1)** art. 180c i art. 180d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069, 1893 i 2281.), zwane dalej „danymi telekomunikacyjnymi”,
 - **2)** art. 82 ust. 1 pkt 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529 oraz z 2015 r. poz. 1830), zwane dalej „danymi pocztowymi”,
-- **3)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422 oraz z 2015 r. poz. 1844), zwane dalej „danymi internetowymi” oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
+- **3)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422 oraz z 2015 r. poz. 1844), zwane dalej „danymi internetowymi” – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
 
 2. Przedsiębiorca telekomunikacyjny, operator pocztowy lub usługodawca świadczący usługi drogą elektroniczną udostępnia nieodpłatnie dane, o których mowa w ust. 1:
 
@@ -147,7 +148,7 @@ source: "eli-html"
 - **1)** z wykazu, o którym mowa w art. 179 ust. 9 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **2)** o których mowa w art. 161 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **3)** w przypadku użytkownika, który nie jest osobą fizyczną numer zakończenia sieci oraz siedzibę lub miejsce wykonywania działalności gospodarczej, firmę lub nazwę i formę organizacyjną tego użytkownika,
-- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
+- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
 
 2. Do udostępniania i przetwarzania danych, o których mowa w ust. 1, art. 20c ust. 2–7 stosuje się. ” ;
 
@@ -156,10 +157,13 @@ source: "eli-html"
 
 1. W celu poszukiwania osób zaginionych Policja może uzyskiwać dane telekomunikacyjne, pocztowe i internetowe oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą; przepisy art. 20c ust. 2–7 stosuje się. ” .
 
-**Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2014 r. poz. 1402, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2014 r. poz. 1402, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822 oraz z 2015 r. poz. 529, 1045, 1066, 1217, 1268, 1322, 1336, 1607, 1642, 1830, 1890, 2023 i 2281.) wprowadza się następujące zmiany:
 
-- **1)** w art. 9e: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) określonych w art. 183 § 2, 4 i 5, art. 184 § 1 i 2, art. 263 § 1 i 2, art. 278 § 1, art. 291 § 1 i art. 306 Kodeksu karnego, art. 55 i art. 56 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2012 r. poz. 124, z późn. zm.), a także art. 44 i art. 46a ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2015 r. poz. 793, 1893 i 1991) oraz art. 109 ust. 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446, z późn. zm.), jeżeli przestępstwa te pozostają w związku z przemieszczaniem przedmiotów przestępstwa przez granicę państwową, ” , – pkt 7 otrzymuje brzmienie: „ 7) ściganych na mocy umów międzynarodowych ratyfikowanych za uprzednią zgodą wyrażoną w ustawie, określonych w polskiej ustawie karnej ” , ust. 7 otrzymuje brzmienie: „
+- **1)** w art. 9e: w ust. 1: pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** określonych w art. 183 § 2, 4 i 5, art. 184 § 1 i 2, art. 263 § 1 i 2, art. 278 § 1, art. 291 § 1 i art. 306 Kodeksu karnego, art. 55 i art. 56 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2012 r. poz. 124, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 28, 875, 1893, 1916 i 2014.), a także art. 44 i art. 46a ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2015 r. poz. 793, 1893 i 1991) oraz art. 109 ust. 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 397, 774 i 1505.), jeżeli przestępstwa te pozostają w związku z przemieszczaniem przedmiotów przestępstwa przez granicę państwową, ” , pkt 7 otrzymuje brzmienie: „
+- **7)** ściganych na mocy umów międzynarodowych ratyfikowanych za uprzednią zgodą wyrażoną w ustawie, określonych w polskiej ustawie karnej ” , ust. 7 otrzymuje brzmienie: „
     - **b)**
 
 7. Kontrola operacyjna prowadzona jest niejawnie i polega na:
@@ -189,7 +193,7 @@ source: "eli-html"
 
 - **g)**
 
-13a. Usługodawca świadczący usługi drogą elektroniczną będący mikro- lub małym przedsiębiorcą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez Straż Graniczną kontroli operacyjnej stosownie do posiadanej infrastruktury. ” , po ust. 16e dodaje się ust. 16f-16j w brzmieniu: „
+13a. Usługodawca świadczący usługi drogą elektroniczną będący mikro- lub małym przedsiębiorcą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65.) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez Straż Graniczną kontroli operacyjnej stosownie do posiadanej infrastruktury. ” , po ust. 16e dodaje się ust. 16f-16j w brzmieniu: „
 
 - **h)**
 
@@ -225,9 +229,9 @@ source: "eli-html"
 
 1. W celu zapobiegania lub wykrywania przestępstw Straż Graniczna może uzyskiwać dane niestanowiące treści odpowiednio, przekazu telekomunikacyjnego, przesyłki pocztowej albo przekazu w ramach usługi świadczonej drogą elektroniczną, określone w:
 
-- **1)** art. 180c i art. 180d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.), zwane dalej „danymi telekomunikacyjnymi”,
+- **1)** art. 180c i art. 180d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069, 1893 i 2281.), zwane dalej „danymi telekomunikacyjnymi”,
 - **2)** art. 82 ust. 1 pkt 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529 oraz z 2015 r. poz. 1830), zwane dalej „danymi pocztowymi”,
-- **3)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422 oraz z 2015 r. poz. 1844), zwane dalej „danymi internetowymi” oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
+- **3)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422 oraz z 2015 r. poz. 1844), zwane dalej „danymi internetowymi” – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
 
 2. Przedsiębiorca telekomunikacyjny, operator pocztowy lub usługodawca świadczący usługi drogą elektroniczną udostępnia nieodpłatnie dane, o których mowa w ust. 1:
 
@@ -271,20 +275,20 @@ source: "eli-html"
 - **1)** z wykazu, o którym mowa w art. 179 ust. 9 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **2)** o których mowa w art. 161 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **3)** w przypadku użytkownika, który nie jest osobą fizyczną numer zakończenia sieci oraz siedzibę lub miejsce wykonywania działalności gospodarczej, firmę lub nazwę i formę organizacyjną tego użytkownika,
-- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
+- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
 
 2. Do udostępniania i przetwarzania danych, o których mowa w ust. 1, art. 10b ust. 2–7 stosuje się. ” .
 
-**Art. 3.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2015 r. poz. 553, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2015 r. poz. 553, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 788, 1269, 1357, 1649 i 2281.) wprowadza się następujące zmiany:
 
 - **1)** w art. 36b: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
 1. W celu zapobiegania lub wykrywania przestępstw skarbowych lub przestępstw, o których mowa w art. 2 ust. 1 pkt 14b i art. 36c ust. 1 pkt 3, wywiad skarbowy może uzyskiwać dane niestanowiące treści odpowiednio, przekazu telekomunikacyjnego, przesyłki pocztowej albo przekazu w ramach usługi świadczonej drogą elektroniczną, określone w:
 
-- **1)** art. 180c i art. 180d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.), zwane dalej „danymi telekomunikacyjnymi”,
+- **1)** art. 180c i art. 180d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069, 1893 i 2281.), zwane dalej „danymi telekomunikacyjnymi”,
 - **2)** art. 82 ust. 1 pkt 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529 oraz z 2015 r. poz. 1830), zwane dalej „danymi pocztowymi”,
-- **3)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422 oraz z 2015 r. poz. 1844), zwane dalej „danymi internetowymi” oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przedsiębiorca telekomunikacyjny, operator pocztowy lub usługodawca świadczący usługi drogą elektroniczną udostępnia nieodpłatnie dane, o których mowa w ust. 1: ” , ust. 3 otrzymuje brzmienie: „
+- **3)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422 oraz z 2015 r. poz. 1844), zwane dalej „danymi internetowymi” – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przedsiębiorca telekomunikacyjny, operator pocztowy lub usługodawca świadczący usługi drogą elektroniczną udostępnia nieodpłatnie dane, o których mowa w ust. 1: ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -320,12 +324,14 @@ source: "eli-html"
 - **1)** z wykazu, o którym mowa w art. 179 ust. 9 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **2)** o których mowa w art. 161 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **3)** w przypadku użytkownika, który nie jest osobą fizyczną numer zakończenia sieci oraz siedzibę lub miejsce wykonywania działalności gospodarczej, firmę lub nazwę i formę organizacyjną tego użytkownika,
-- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
+- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
 
 2. Do udostępniania i przetwarzania danych, o których mowa w ust. 1, art. 36b ust. 2, 3, 6 i 7 oraz art. 36d ust. 1 stosuje się. ” ;
 
-- **3)** w art. 36c: w ust. 1: – pkt 5 otrzymuje brzmienie: „ 5) ściganych na mocy umów międzynarodowych ratyfikowanych za uprzednią zgodą wyrażoną w ustawie, określonych w polskiej ustawie karnej ” , – część wspólna otrzymuje brzmienie: „ – jeżeli inne środki okazały się bezskuteczne albo będą nieprzydatne, Sąd, na pisemny wniosek Generalnego Inspektora Kontroli Skarbowej, złożony po uzyskaniu pisemnej zgody Prokuratora Generalnego, może, w drodze postanowienia, zarządzić kontrolę operacyjną. ” , ust. 4 otrzymuje brzmienie: „
+- **3)** w art. 36c: w ust. 1: pkt 5 otrzymuje brzmienie: „
     - **a)**
+
+- **5)** ściganych na mocy umów międzynarodowych ratyfikowanych za uprzednią zgodą wyrażoną w ustawie, określonych w polskiej ustawie karnej ” , część wspólna otrzymuje brzmienie: „ – jeżeli inne środki okazały się bezskuteczne albo będą nieprzydatne, Sąd, na pisemny wniosek Generalnego Inspektora Kontroli Skarbowej, złożony po uzyskaniu pisemnej zgody Prokuratora Generalnego, może, w drodze postanowienia, zarządzić kontrolę operacyjną. ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Kontrola operacyjna prowadzona jest niejawnie i polega na:
@@ -349,7 +355,7 @@ source: "eli-html"
 
 - **f)**
 
-10a. Usługodawca świadczący usługi drogą elektroniczną będący mikro- lub małym przedsiębiorcą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez wywiad skarbowy kontroli operacyjnej stosownie do posiadanej infrastruktury. ” , po ust. 13 dodaje się ust. 13a w brzmieniu: „
+10a. Usługodawca świadczący usługi drogą elektroniczną będący mikro- lub małym przedsiębiorcą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65.) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez wywiad skarbowy kontroli operacyjnej stosownie do posiadanej infrastruktury. ” , po ust. 13 dodaje się ust. 13a w brzmieniu: „
 
 - **g)**
 
@@ -389,9 +395,9 @@ source: "eli-html"
 
 **Art. 4.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2015 r. poz. 1198 i 1890) po art. 6 dodaje się art. 6a w brzmieniu: „
 
-**Art. 6a.** Prezesi wojskowych sądów okręgowych właściwych dla siedziby organu wnioskującego o udostępnienie danych przekazują corocznie Ministrowi Sprawiedliwości informację na temat przetwarzania danych telekomunikacyjnych, pocztowych i internetowych, z podziałem na liczbę i rodzaj udostępnianych danych, oraz wyników przeprowadzonych kontroli, w terminie do dnia 31 marca roku następującego po roku nią objętym, celem realizacji zadania, o którym mowa w art. 175b § 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.). ” .
+**Art. 6a.** Prezesi wojskowych sądów okręgowych właściwych dla siedziby organu wnioskującego o udostępnienie danych przekazują corocznie Ministrowi Sprawiedliwości informację na temat przetwarzania danych telekomunikacyjnych, pocztowych i internetowych, z podziałem na liczbę i rodzaj udostępnianych danych, oraz wyników przeprowadzonych kontroli, w terminie do dnia 31 marca roku następującego po roku nią objętym, celem realizacji zadania, o którym mowa w art. 175b § 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1595 i 1781 oraz z 2016 r. poz. 147.). ” .
 
-**Art. 5.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1595 i 1781.) wprowadza się następujące zmiany:
 
 - **1)** w art. 16 w § 4a w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 - **3)** kontroli danych telekomunikacyjnych, pocztowych i internetowych – do spraw związanych z kontrolą pozyskiwania danych telekomunikacyjnych, pocztowych i internetowych przez Policję, Agencję Bezpieczeństwa Wewnętrznego, Straż Graniczną, Centralne Biuro Antykorupcyjne, Służbę Celną i wywiad skarbowy. ” ;
@@ -410,9 +416,9 @@ source: "eli-html"
 
 1. W celu zapobiegania lub wykrywania przestępstw, w tym przestępstw skarbowych, popełnionych przez osoby, o których mowa w art. 3 ust. 2 pkt 1, 3, 4, 5 i 6, albo w celu ratowania życia lub zdrowia ludzkiego bądź wsparcia działań poszukiwawczych lub ratowniczych, Żandarmeria Wojskowa może uzyskiwać dane niestanowiące treści odpowiednio, przekazu telekomunikacyjnego, przesyłki pocztowej albo przekazu w ramach usługi świadczonej drogą elektroniczną, określone w:
 
-- **1)** art. 180c i art. 180d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.), zwane dalej „danymi telekomunikacyjnymi”,
+- **1)** art. 180c i art. 180d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069, 1893 i 2281.), zwane dalej „danymi telekomunikacyjnymi”,
 - **2)** art. 82 ust. 1 pkt 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529 oraz z 2015 r. poz. 1830), zwane dalej „danymi pocztowymi”,
-- **3)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422 oraz z 2015 r. poz. 1844), zwane dalej „danymi internetowymi” oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
+- **3)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422 oraz z 2015 r. poz. 1844), zwane dalej „danymi internetowymi” – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
 
 2. Przedsiębiorca telekomunikacyjny, operator pocztowy lub usługodawca świadczący usługi drogą elektroniczną udostępnia nieodpłatnie dane, o których mowa w ust. 1:
 
@@ -456,7 +462,7 @@ source: "eli-html"
 - **1)** z wykazu, o którym mowa w art. 179 ust. 9 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **2)** o których mowa w art. 161 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **3)** w przypadku użytkownika, który nie jest osobą fizyczną numer zakończenia sieci oraz siedzibę lub miejsce wykonywania działalności gospodarczej, firmę lub nazwę i formę organizacyjną tego użytkownika,
-- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
+- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
 
 2. Do udostępniania i przetwarzania danych, o których mowa w ust. 1, art. 30 ust. 2–7 stosuje się. ” ;
 
@@ -470,10 +476,10 @@ source: "eli-html"
 - **3)** przeciwko życiu, określonych w art. 148–150 Kodeksu karnego,
 - **4)** określonych w art. 140, art. 156 § 1 i 3, art. 163 § 1 i 3, art. 164 § 1, art. 165 § 1 i 3, art. 166, art. 167, art. 171 § 1, art. 173 § 1 i 3, art. 189, art. 189a, art. 200, art. 200a, art. 202 § 3 i 4, art. 211a, art. 223, art. 228 § 1 i 3–5, art. 229 § 1 i 3–5, art. 230 § 1, art. 230a § 1, art. 231 § 1 i 2, art. 232, art. 245, art. 246, art. 252 § 1–3, art. 258, art. 263 § 1 i 2, art. 265, art. 269, art. 280–282, art. 285 § 1, art. 286 § 1 i 2, art. 299 § 1–6, art. 305, art. 310 § 1, 2 i 4, art. 339 § 2, art. 345 § 2 i 3 oraz art. 358 § 2 Kodeksu karnego,
 - **5)** skarbowych, jeżeli wartość przedmiotu czynu lub uszczuplenie należności publicznoprawnej przekraczają pięćdziesięciokrotną wysokość najniższego wynagrodzenia za pracę określonego na podstawie odrębnych przepisów,
-- **6)** określonych w art. 8 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny (Dz. U. Nr 88, poz. 554, z późn. zm.),
+- **6)** określonych w art. 8 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny (Dz. U. Nr 88, poz. 554, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 113, poz. 715, z 2009 r. Nr 141, poz. 1149 i Nr 206, poz. 1589 oraz z 2010 r. Nr 98, poz. 626.),
 - **7)** określonych w art. 43 i art. 44 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2015 r. poz. 793, 1893 i 1991),
-- **8)** określonych w art. 53 ust. 1, art. 55 ust. 1, art. 56 ust. 1, art. 58 ust. 1, art. 59 ust. 1 oraz art. 62 ust. 1 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2012 r. poz. 124, z późn. zm.),
-- **9)** ściganych na mocy umów międzynarodowych ratyfikowanych za uprzednią zgodą wyrażoną w ustawie, określonych w polskiej ustawie karnej gdy inne środki okazały się bezskuteczne albo będą nieprzydatne, wojskowy sąd okręgowy, na pisemny wniosek Komendanta Głównego Żandarmerii Wojskowej, złożony po uzyskaniu pisemnej zgody Prokuratora Generalnego, lub na pisemny wniosek komendanta oddziału Żandarmerii Wojskowej, złożony po uzyskaniu zgody Komendanta Głównego Żandarmerii Wojskowej i pisemnej zgody właściwego wojskowego prokuratora okręgowego, może, w drodze postanowienia, zarządzić kontrolę operacyjną. ” , ust. 7 otrzymuje brzmienie: „
+- **8)** określonych w art. 53 ust. 1, art. 55 ust. 1, art. 56 ust. 1, art. 58 ust. 1, art. 59 ust. 1 oraz art. 62 ust. 1 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2012 r. poz. 124, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 28, 875, 1893, 1916 i 2014.),
+- **9)** ściganych na mocy umów międzynarodowych ratyfikowanych za uprzednią zgodą wyrażoną w ustawie, określonych w polskiej ustawie karnej – gdy inne środki okazały się bezskuteczne albo będą nieprzydatne, wojskowy sąd okręgowy, na pisemny wniosek Komendanta Głównego Żandarmerii Wojskowej, złożony po uzyskaniu pisemnej zgody Prokuratora Generalnego, lub na pisemny wniosek komendanta oddziału Żandarmerii Wojskowej, złożony po uzyskaniu zgody Komendanta Głównego Żandarmerii Wojskowej i pisemnej zgody właściwego wojskowego prokuratora okręgowego, może, w drodze postanowienia, zarządzić kontrolę operacyjną. ” , ust. 7 otrzymuje brzmienie: „
     - **b)**
 
 7. Kontrola operacyjna prowadzona jest niejawnie i polega na:
@@ -497,7 +503,7 @@ source: "eli-html"
 
 - **f)**
 
-13a. Usługodawca świadczący usługi drogą elektroniczną będący mikro- lub małym przedsiębiorcą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez Żandarmerię Wojskową kontroli operacyjnej stosownie do posiadanej infrastruktury. ” , po ust. 16e dodaje się ust. 16f-16j w brzmieniu: „
+13a. Usługodawca świadczący usługi drogą elektroniczną będący mikro- lub małym przedsiębiorcą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65.) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez Żandarmerię Wojskową kontroli operacyjnej stosownie do posiadanej infrastruktury. ” , po ust. 16e dodaje się ust. 16f-16j w brzmieniu: „
 
 - **g)**
 
@@ -540,7 +546,7 @@ source: "eli-html"
 1. Sąd, na pisemny wniosek Szefa ABW, złożony po uzyskaniu pisemnej zgody Prokuratora Generalnego, może, w drodze postanowienia, zarządzić kontrolę operacyjną – gdy inne środki okazały się bezskuteczne albo będą nieprzydatne – przy wykonywaniu czynności operacyjno-rozpoznawczych podejmowanych przez ABW w celu rozpoznawania, zapobiegania i wykrywania przestępstw, o których mowa w:
 
 - **1)** art. 5 ust. 1 pkt 2 lit. a, c, d, e,
-- **2)** rozdziałach XXXV-XXXVII Kodeksu karnego oraz rozdziałach 6 i 7 Kodeksu karnego skarbowego – jeżeli godzą w podstawy ekonomiczne państwa oraz w celu uzyskania i utrwalenia dowodów tych przestępstw i ścigania ich sprawców. ” , ust. 6 otrzymuje brzmienie: „
+- **2)** rozdziałach XXXV-XXXVII Kodeksu karnego oraz rozdziałach 6 i 7 Kodeksu karnego skarbowego – jeżeli godzą w podstawy ekonomiczne państwa – oraz w celu uzyskania i utrwalenia dowodów tych przestępstw i ścigania ich sprawców. ” , ust. 6 otrzymuje brzmienie: „
     - **b)**
 
 6. Kontrola operacyjna prowadzona jest niejawnie i polega na:
@@ -570,7 +576,7 @@ source: "eli-html"
 
 - **g)**
 
-12a. Usługodawca świadczący usługi drogą elektroniczną będący mikro- lub małym przedsiębiorcą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez ABW kontroli operacyjnej stosownie do posiadanej infrastruktury. ” , po ust. 15g dodaje się ust. 15h-15l w brzmieniu: „
+12a. Usługodawca świadczący usługi drogą elektroniczną będący mikro- lub małym przedsiębiorcą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65.) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez ABW kontroli operacyjnej stosownie do posiadanej infrastruktury. ” , po ust. 15g dodaje się ust. 15h-15l w brzmieniu: „
 
 - **h)**
 
@@ -603,9 +609,9 @@ source: "eli-html"
 
 1. ABW może uzyskiwać niezbędne do realizacji zadań, o których mowa w art. 5 ust. 1, dane niestanowiące treści odpowiednio, przekazu telekomunikacyjnego, przesyłki pocztowej albo przekazu w ramach usługi świadczonej drogą elektroniczną, określone w:
 
-- **1)** art. 180c i art. 180d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.), zwane dalej „danymi telekomunikacyjnymi”,
+- **1)** art. 180c i art. 180d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069, 1893 i 2281.), zwane dalej „danymi telekomunikacyjnymi”,
 - **2)** art. 82 ust. 1 pkt 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529 oraz z 2015 r. poz. 1830), zwane dalej „danymi pocztowymi”,
-- **3)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422 oraz z 2015 r. poz. 1844), zwane dalej „danymi internetowymi” oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przedsiębiorca telekomunikacyjny, operator pocztowy lub usługodawca świadczący usługi drogą elektroniczną udostępnia nieodpłatnie dane, o których mowa w ust. 1, odpowiednio: ” , ust. 3 otrzymuje brzmienie: „
+- **3)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422 oraz z 2015 r. poz. 1844), zwane dalej „danymi internetowymi” – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przedsiębiorca telekomunikacyjny, operator pocztowy lub usługodawca świadczący usługi drogą elektroniczną udostępnia nieodpłatnie dane, o których mowa w ust. 1, odpowiednio: ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -641,20 +647,20 @@ source: "eli-html"
 - **1)** z wykazu, o którym mowa w art. 179 ust. 9 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **2)** o których mowa w art. 161 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **3)** w przypadku użytkownika, który nie jest osobą fizyczną numer zakończenia sieci oraz siedzibę lub miejsce wykonywania działalności gospodarczej, firmę lub nazwę i formę organizacyjną tego użytkownika,
-- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
+- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
 
 2. Do udostępniania i przetwarzania danych, o których mowa w ust. 1, art. 28 ust. 2–7 stosuje się. ” .
 
 **Art. 8.** W ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422 oraz z 2015 r. poz. 1844) w art. 18 ust. 6 otrzymuje brzmienie: „ 6. Usługodawca nieodpłatnie udostępnia dane, o których mowa w ust. 1–5, organom państwa uprawnionym na podstawie odrębnych przepisów na potrzeby prowadzonych przez nie postępowań. ” .
 
-**Art. 9.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 9.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069, 1893 i 2281.) wprowadza się następujące zmiany:
 
 - **1)** w art. 179 po ust. 4c dodaje się ust. 4d w brzmieniu: „
 
 4d. Zapewnienia warunków technicznych dostępu i utrwalania za pomocą interfejsów nie stosuje się do przedsiębiorców telekomunikacyjnych będących mikroprzedsiębiorcami albo małymi przedsiębiorcami w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, z zastrzeżeniem ust. 4c. ” ;
 
 - **2)** uchyla się art. 180g;
-- **3)** w art. 209 w ust. 1 uchyla się pkt 28. W ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 253, z późn. zm.) wprowadza się następujące zmiany:
+- **3)** w art. 209 w ust. 1 uchyla się pkt 28. W ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 253, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 502 i 1055 oraz z 2015 r. poz. 1066 i 1224.) wprowadza się następujące zmiany:
 - **1)** w art. 20 ust. 2 otrzymuje brzmienie: „
 
 2. Szefowie SKW i SWW mogą upoważnić podległych żołnierzy zawodowych lub funkcjonariuszy do załatwiania spraw w ich imieniu w określonym zakresie, z zastrzeżeniem, że upoważnienie Szefa SKW nie może obejmować spraw, o których mowa w art. 29 ust. 3, art. 33 ust. 1 i art. 34 ust. 1, a także art. 31, z wyłączeniem upoważnienia zastępcy Szefa SKW w zakresie określonym w art. 31 ust. 7a. ” ;
@@ -693,7 +699,7 @@ source: "eli-html"
 
 - **g)**
 
-11a. Usługodawca świadczący usługi drogą elektroniczną będący mikro- lub małym przedsiębiorcą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez SKW kontroli operacyjnej stosownie do posiadanej infrastruktury. ” , po ust. 14e dodaje się ust. 14f-14j w brzmieniu: „
+11a. Usługodawca świadczący usługi drogą elektroniczną będący mikro- lub małym przedsiębiorcą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65.) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez SKW kontroli operacyjnej stosownie do posiadanej infrastruktury. ” , po ust. 14e dodaje się ust. 14f-14j w brzmieniu: „
 
 - **h)**
 
@@ -722,9 +728,9 @@ source: "eli-html"
 
 1. SKW może uzyskiwać niezbędne do realizacji zadań, o których mowa w art. 5, dane niestanowiące treści odpowiednio, przekazu telekomunikacyjnego, przesyłki pocztowej albo przekazu w ramach usługi świadczonej drogą elektroniczną, określone w:
 
-- **1)** art. 180c i art. 180d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.), zwane dalej „danymi telekomunikacyjnymi”,
+- **1)** art. 180c i art. 180d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198, z 2015 r. poz. 1069, 1893 i 2281 oraz z 2016 r. poz. 147.), zwane dalej „danymi telekomunikacyjnymi”,
 - **2)** art. 82 ust. 1 pkt 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529 oraz z 2015 r. poz. 1830), zwane dalej „danymi pocztowymi”,
-- **3)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422, z 2015 r. poz. 1844 oraz z 2016 r. poz. 147), zwane dalej „danymi internetowymi” oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przedsiębiorca telekomunikacyjny, operator pocztowy lub usługodawca świadczący usługi drogą elektroniczną udostępnia nieodpłatnie dane, o których mowa w ust. 1: ” , ust. 3–5 otrzymują brzmienie: „
+- **3)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422, z 2015 r. poz. 1844 oraz z 2016 r. poz. 147), zwane dalej „danymi internetowymi” – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przedsiębiorca telekomunikacyjny, operator pocztowy lub usługodawca świadczący usługi drogą elektroniczną udostępnia nieodpłatnie dane, o których mowa w ust. 1: ” , ust. 3–5 otrzymują brzmienie: „
     - **b)**
     - **c)**
 
@@ -765,11 +771,11 @@ source: "eli-html"
 - **1)** z wykazu, o którym mowa w art. 179 ust. 9 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **2)** o których mowa w art. 161 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **3)** w przypadku użytkownika, który nie jest osobą fizyczną numer zakończenia sieci oraz siedzibę lub miejsce wykonywania działalności gospodarczej, firmę lub nazwę i formę organizacyjną tego użytkownika,
-- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
+- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
 
 2. Do udostępniania i przetwarzania danych, o których mowa w ust. 1, art. 32 ust. 2–9 stosuje się. ” .
 
-**Art. 11.** W ustawie z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2014 r. poz. 1411, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 11.** W ustawie z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2014 r. poz. 1411, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822 oraz z 2015 r. poz. 1066, 1217, 1224, 1268 i 2023.) wprowadza się następujące zmiany:
 
 - **1)** w art. 10 ust. 2 otrzymuje brzmienie: „
 
@@ -802,7 +808,7 @@ source: "eli-html"
 
 - **f)**
 
-12a. Usługodawca świadczący usługi drogą elektroniczną będący mikro- lub małym przedsiębiorcą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez CBA kontroli operacyjnej stosownie do posiadanej infrastruktury. ” , po ust. 15e dodaje się ust. 15f-15j w brzmieniu: „
+12a. Usługodawca świadczący usługi drogą elektroniczną będący mikro- lub małym przedsiębiorcą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65.) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez CBA kontroli operacyjnej stosownie do posiadanej infrastruktury. ” , po ust. 15e dodaje się ust. 15f-15j w brzmieniu: „
 
 - **g)**
 
@@ -837,9 +843,9 @@ source: "eli-html"
 
 1. CBA może uzyskiwać niezbędne do realizacji zadań, o których mowa w art. 2, dane niestanowiące treści odpowiednio, przekazu telekomunikacyjnego, przesyłki pocztowej albo przekazu w ramach usługi świadczonej drogą elektroniczną, określone w:
 
-- **1)** art. 180c i art. 180d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.), zwane dalej „danymi telekomunikacyjnymi”,
+- **1)** art. 180c i art. 180d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198, z 2015 r. poz. 1069, 1893 i 2281 oraz z 2016 r. poz. 147.), zwane dalej „danymi telekomunikacyjnymi”,
 - **2)** art. 82 ust. 1 pkt 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529 oraz z 2015 r. poz. 1830), zwane dalej „danymi pocztowymi”,
-- **3)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422, z 2015 r. poz. 1844 oraz z 2016 r. poz. 147), zwane dalej „danymi internetowymi” oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przedsiębiorca telekomunikacyjny, operator pocztowy lub usługodawca świadczący usługi drogą elektroniczną udostępnia nieodpłatnie dane, o których mowa w ust. 1: ” , ust. 3 otrzymuje brzmienie: „
+- **3)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422, z 2015 r. poz. 1844 oraz z 2016 r. poz. 147), zwane dalej „danymi internetowymi” – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przedsiębiorca telekomunikacyjny, operator pocztowy lub usługodawca świadczący usługi drogą elektroniczną udostępnia nieodpłatnie dane, o których mowa w ust. 1: ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -875,19 +881,19 @@ source: "eli-html"
 - **1)** z wykazu, o którym mowa w art. 179 ust. 9 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **2)** o których mowa w art. 161 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **3)** w przypadku użytkownika, który nie jest osobą fizyczną numer zakończenia sieci oraz siedzibę lub miejsce wykonywania działalności gospodarczej, firmę lub nazwę i formę organizacyjną tego użytkownika,
-- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
+- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
 
 2. Do udostępniania i przetwarzania danych, o których mowa w ust. 1, art. 18 ust. 2–7 stosuje się. ” .
 
-**Art. 12.** W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2015 r. poz. 990, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 12.** W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2015 r. poz. 990, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1045, 1217, 1268, 1269, 1479, 1642, 1830, 1890 i 2023.) wprowadza się następujące zmiany:
 
 - **1)** w art. 75d: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
 1. W celu zapobiegania lub wykrywania przestępstw skarbowych, o których mowa w rozdziale 9 Kodeksu karnego skarbowego, Służba Celna może uzyskiwać dane niestanowiące treści odpowiednio, przekazu telekomunikacyjnego albo przekazu w ramach usługi świadczonej drogą elektroniczną, określone w:
 
-- **1)** art. 180c i art. 180d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.), zwane dalej „danymi telekomunikacyjnymi”,
-- **2)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422, z 2015 r. poz. 1844 oraz z 2016 r. poz. 147), zwane dalej „danymi internetowymi” oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przedsiębiorca telekomunikacyjny lub usługodawca świadczący usługi drogą elektroniczną udostępnia nieodpłatnie dane telekomunikacyjne lub internetowe: ” , ust. 3 otrzymuje brzmienie: „
+- **1)** art. 180c i art. 180d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198, z 2015 r. poz. 1069, 1893 i 2281 oraz z 2016 r. poz. 147.), zwane dalej „danymi telekomunikacyjnymi”,
+- **2)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422, z 2015 r. poz. 1844 oraz z 2016 r. poz. 147), zwane dalej „danymi internetowymi” – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przedsiębiorca telekomunikacyjny lub usługodawca świadczący usługi drogą elektroniczną udostępnia nieodpłatnie dane telekomunikacyjne lub internetowe: ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -924,7 +930,7 @@ source: "eli-html"
 - **1)** z wykazu, o którym mowa w art. 179 ust. 9 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **2)** o których mowa w art. 161 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **3)** w przypadku użytkownika, który nie jest osobą fizyczną numer zakończenia sieci oraz siedzibę lub miejsce wykonywania działalności gospodarczej, firmę lub nazwę i formę organizacyjną tego użytkownika,
-- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
+- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
 
 2. Do udostępniania i przetwarzania danych, o których mowa w ust. 1, art. 75d ust. 2–7 stosuje się. ” .
 
@@ -940,5 +946,5 @@ source: "eli-html"
 
 **Art. 16.** Do kontroli operacyjnej prowadzonej na podstawie art. 27 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu w brzmieniu dotychczasowym, w celu realizacji zadań określonych w art. 5 ust. 1 pkt 2 lit. b tej ustawy, niezakończonej do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 17.** Ustawa wchodzi w życie z dniem 7 lutego 2016 r.
+**Art. 17.** Ustawa wchodzi w życie z dniem 7 lutego 2016 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 28 września 1991 r. o kontroli skarbowej, ustawę z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawę z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym oraz ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 529, 1045, 1066, 1217, 1268, 1890, 2023 i 2281. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069, 1893 i 2281. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822 oraz z 2015 r. poz. 529, 1045, 1066, 1217, 1268, 1322, 1336, 1607, 1642, 1830, 1890, 2023 i 2281. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 28, 875, 1893, 1916 i 2014. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 397, 774 i 1505. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069, 1893 i 2281. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 788, 1269, 1357, 1649 i 2281. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069, 1893 i 2281. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1595 i 1781 oraz z 2016 r. poz. 147. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1595 i 1781. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069, 1893 i 2281. 16) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 113, poz. 715, z 2009 r. Nr 141, poz. 1149 i Nr 206, poz. 1589 oraz z 2010 r. Nr 98, poz. 626. 17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 28, 875, 1893, 1916 i 2014. 18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65. 19) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65. 20) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069, 1893 i 2281. 21) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069, 1893 i 2281. 22) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 502 i 1055 oraz z 2015 r. poz. 1066 i 1224. 23) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65. 24) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198, z 2015 r. poz. 1069, 1893 i 2281 oraz z 2016 r. poz. 147. 25) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822 oraz z 2015 r. poz. 1066, 1217, 1224, 1268 i 2023. 26) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65. 27) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198, z 2015 r. poz. 1069, 1893 i 2281 oraz z 2016 r. poz. 147. 28) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1045, 1217, 1268, 1269, 1479, 1642, 1830, 1890 i 2023. 29) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198, z 2015 r. poz. 1069, 1893 i 2281 oraz z 2016 r. poz. 147.
 

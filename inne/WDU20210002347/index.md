@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-15 |
 | Data wydania | 2021-12-17 |
-| Wejście w życie | 2022-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002347) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2347/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 72 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 72 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 28 grudnia 2011 r. w sprawie szczegółowego sposobu klasyfikacji tytułów dłużnych zaliczanych do państwowego długu publicznego (Dz. U. poz. 1767) w § 3 w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ kredyty i pożyczki, przy czym do tej kategorii, oprócz umów kredytu i pożyczek, zalicza się również umowy o partnerstwie publiczno-prywatnym oraz umowy o poprawę efektywności energetycznej, które mają wpływ na poziom długu publicznego, dłużne papiery wartościowe, których zbywalność jest ograniczona, umowy sprzedaży, w których cena jest płatna w ratach, umowy leasingu zawarte z producentem lub finansującym, w których ryzyko i korzyści z tytułu własności są przeniesione na korzystającego z rzeczy, a także umowy nienazwane o terminie zapłaty dłuższym niż rok, związane z finansowaniem usług, dostaw, robót budowlanych, które wywołują skutki ekonomiczne podobne do umowy pożyczki lub kredytu, z uwzględnieniem podziału na: ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270.
 

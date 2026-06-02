@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-04-02 |
 | Data wydania | 2004-04-30 |
-| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040910874) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/874/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2001 r. Nr 101, poz. 1114, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2001 r. Nr 101, poz. 1114, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 25, poz. 253 i Nr 56, poz. 517 oraz z 2003 r. Nr 96, poz. 874.) wprowadza się następujące zmiany:
 
 - **1)** po art. 1 dodaje się art. 1a w brzmieniu: „
 
@@ -53,11 +52,11 @@ source: "eli-html"
 
 - **1)** dysponuje lub wykorzystuje częstotliwość na podstawie decyzji wydanej przez polski organ administracji publicznej albo
 - **2)** korzysta z satelity wykorzystującego rezerwację zasobów orbitalnych dokonaną przez polski organ administracji publicznej, jeżeli nie dysponuje lub nie wykorzystuje częstotliwości na podstawie decyzji wydanej przez właściwy organ władzy publicznej państwa członkowskiego Unii Europejskiej albo
-- **3)** korzysta ze stacji dosyłowej do satelity zlokalizowanej na terytorium Rzeczypospolitej Polskiej, jeżeli nie korzysta z satelity wykorzystującego rezerwację zasobów orbitalnych dokonaną przez właściwy organ władzy publicznej państwa członkowskiego Unii Europejskiej pomimo że nie odpowiada on warunkom określonym w ust. 1–3 i nie został uznany za nadawcę ustanowionego w państwie członkowskim Unii Europejskiej na podstawie przepisów prawa tego państwa odpowiadających warunkom określonym w ust. 1–3. ” ;
+- **3)** korzysta ze stacji dosyłowej do satelity zlokalizowanej na terytorium Rzeczypospolitej Polskiej, jeżeli nie korzysta z satelity wykorzystującego rezerwację zasobów orbitalnych dokonaną przez właściwy organ władzy publicznej państwa członkowskiego Unii Europejskiej – pomimo że nie odpowiada on warunkom określonym w ust. 1–3 i nie został uznany za nadawcę ustanowionego w państwie członkowskim Unii Europejskiej na podstawie przepisów prawa tego państwa odpowiadających warunkom określonym w ust. 1–3. ” ;
 - **2)** w art. 4: po pkt 1a dodaje się pkt 1b i 1c w brzmieniu: „
     - **a)**
 
-- **1b)** osobą zagraniczną jest osoba zagraniczna w rozumieniu art. 4 pkt 3 ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. Nr 101, poz. 1178, z późn. zm.).
+- **1b)** osobą zagraniczną jest osoba zagraniczna w rozumieniu art. 4 pkt 3 ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. Nr 101, poz. 1178, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 86, poz. 958 i Nr 114, poz. 1193, z 2001 r. Nr 49, poz. 509, Nr 67, poz. 679, Nr 102, poz. 1115 i Nr 147, poz. 1643, z 2002 r. Nr 1, poz. 2, Nr 115, poz. 995 i Nr 130, poz. 1112, z 2003 r. Nr 86, poz. 789, Nr 128, poz. 1176 i Nr 217, poz. 2125 oraz z 2004 r. Nr 54, poz. 535 i Nr 91, poz. 870).
 - **1c)** zespołem twórczym jest zespół osób tworzących audycje, do którego zalicza się w szczególności: reżysera, autora scenariusza, scenografa, operatora, odtwórców głównych ról i kompozytora, ” , po pkt 4 dodaje się pkt 4a w brzmieniu: „
     - **b)**
 
@@ -94,7 +93,7 @@ source: "eli-html"
 
 - **1)** nadawców w pierwszym roku rozpowszechniania przez nich programu,
 - **2)** programów wyspecjalizowanych, dla których brak jest wystarczającej liczby audycji, o których mowa w ust. 1 i 3,
-- **3)** programów rozpowszechnianych wyłącznie w sposób satelitarny lub kablowy dostępnych w całości za opłatą, z wyłączeniem opłat określonych w rozdziale 7 i podstawowych opłat pobieranych przez operatorów satelitarnych lub operatorów sieci kablowych uwzględniając konieczność zachowania proporcji audycji wytworzonych pierwotnie w języku polskim i audycji europejskich. ” ;
+- **3)** programów rozpowszechnianych wyłącznie w sposób satelitarny lub kablowy dostępnych w całości za opłatą, z wyłączeniem opłat określonych w rozdziale 7 i podstawowych opłat pobieranych przez operatorów satelitarnych lub operatorów sieci kablowych – uwzględniając konieczność zachowania proporcji audycji wytworzonych pierwotnie w języku polskim i audycji europejskich. ” ;
 - **5)** art. 15a otrzymuje brzmienie: „
 
 1. Nadawcy programów telewizyjnych przeznaczają co najmniej 10% kwartalnego czasu nadawania programu na audycje europejskie wytworzone przez producentów niezależnych, z wyłączeniem serwisów informacyjnych, reklam, telesprzedaży, transmisji sportowych, przekazów tekstowych i teleturniejów. W czasie przeznaczonym na audycje europejskie wytworzone przez producentów niezależnych, audycje wytworzone w okresie 5 lat przed rozpowszechnieniem w programie powinny stanowić co najmniej 50%.
@@ -103,7 +102,7 @@ source: "eli-html"
 
 - **1)** sposób prowadzenia przez nadawcę ewidencji czasu nadawania,
 - **2)** czas przechowywania ewidencji, nie krótszy niż 1 rok,
-- **3)** zakres informacji zawartych w ewidencji, w tym dane o terminie rozpowszechniania audycji, rzeczywisty czas trwania audycji, tytuł i producenta audycji uwzględniając możliwość prowadzenia ewidencji w formie elektronicznej, konieczność zapewnienia przejrzystości oraz jawności informacji znajdujących się w ewidencji oraz nieobciążania nadawców nadmiernymi utrudnieniami i kosztami w związku z prowadzeniem ewidencji. ” ;
+- **3)** zakres informacji zawartych w ewidencji, w tym dane o terminie rozpowszechniania audycji, rzeczywisty czas trwania audycji, tytuł i producenta audycji – uwzględniając możliwość prowadzenia ewidencji w formie elektronicznej, konieczność zapewnienia przejrzystości oraz jawności informacji znajdujących się w ewidencji oraz nieobciążania nadawców nadmiernymi utrudnieniami i kosztami w związku z prowadzeniem ewidencji. ” ;
 - **6)** art. 15b otrzymuje brzmienie: „
 
 1. Audycją europejską jest audycja, która pochodzi z:
@@ -129,20 +128,27 @@ source: "eli-html"
 
 4. Filmy fabularne i filmy telewizyjne, z wyłączeniem serii, seriali i audycji dokumentalnych, trwające ponad 45 minut, mogą być przerwane, w celu nadania reklam lub telesprzedaży, wyłącznie jeden raz podczas każdego okresu pełnych 45 minut. Kolejne przerwy w celu nadania reklam lub telesprzedaży są dopuszczalne, jeżeli film trwa co najmniej 20 minut dłużej niż dwa lub więcej okresów pełnych 45 minut.
 
-5. Audycje inne niż określone w ust. 3 i 4 mogą być przerywane w celu nadania reklam lub telesprzedaży, jeżeli okres pomiędzy kolejnymi przerwami w danej audycji wynosi w programie telewizyjnym co najmniej 20 minut, a w programie radiowym co najmniej 10 minut. ” , w ust. 6: – pkt 3 otrzymuje brzmienie: „ 3) audycji publicystycznych i dokumentalnych o czasie krótszym niż 30 minut; jeżeli czas ich emisji wynosi co najmniej 30 minut, stosuje się przepisy ust. 2–5, ” , – dodaje się pkt 4 w brzmieniu: „ 4) audycji przeznaczonych dla dzieci. ” ;
+5. Audycje inne niż określone w ust. 3 i 4 mogą być przerywane w celu nadania reklam lub telesprzedaży, jeżeli okres pomiędzy kolejnymi przerwami w danej audycji wynosi w programie telewizyjnym co najmniej 20 minut, a w programie radiowym co najmniej 10 minut. ” , w ust. 6: pkt 3 otrzymuje brzmienie: „
 
 - **b)**
+- **3)** audycji publicystycznych i dokumentalnych o czasie krótszym niż 30 minut; jeżeli czas ich emisji wynosi co najmniej 30 minut, stosuje się przepisy ust. 2–5, ” , dodaje się pkt 4 w brzmieniu: „
+- **4)** audycji przeznaczonych dla dzieci. ” ;
 - **8)** w art. 16b: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
 1. Zakazane jest nadawanie reklamy:
 
-- **1)** wyrobów tytoniowych, rekwizytów tytoniowych, produktów imitujących wyroby tytoniowe lub rekwizyty tytoniowe oraz symboli związanych z używaniem tytoniu, w zakresie regulowanym przez ustawę z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. z 1996 r. Nr 10, poz. 55, z późn. zm.),
-- **2)** napojów alkoholowych, w zakresie regulowanym przez ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2002 r. Nr 147, poz. 1231, z późn. zm.),
-- **3)** usług medycznych, w rozumieniu ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. Nr 91, poz. 408, z późn. zm.), świadczonych wyłącznie na podstawie skierowania lekarza,
+- **1)** wyrobów tytoniowych, rekwizytów tytoniowych, produktów imitujących wyroby tytoniowe lub rekwizyty tytoniowe oraz symboli związanych z używaniem tytoniu, w zakresie regulowanym przez ustawę z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. z 1996 r. Nr 10, poz. 55, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 96, poz. 1107 oraz z 2003 r. Nr 229, poz. 2274.),
+- **2)** napojów alkoholowych, w zakresie regulowanym przez ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2002 r. Nr 147, poz. 1231, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 167, poz. 1372, z 2003 r. Nr 80, poz. 719 i Nr 122, poz. 1143 oraz z 2004 r. Nr 29, poz. 257.),
+- **3)** usług medycznych, w rozumieniu ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. Nr 91, poz. 408, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 63, poz. 315, z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 138, poz. 682, z 1996 r. Nr 24, poz. 110, z 1997 r. Nr 104, poz. 661, Nr 121, poz. 769 i Nr 158, poz. 1041, z 1998 r. Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1115, z 1999 r. Nr 28, poz. 255 i 256 i Nr 84, poz. 935, z 2000 r. Nr 3, poz. 28, Nr 12, poz. 136, Nr 43, poz. 489, Nr 84, poz. 948, Nr 114, poz. 1193 i Nr 120, poz. 1268, z 2001 r. Nr 5, poz. 45, Nr 88, poz. 961, Nr 100, poz. 1083, Nr 111, poz. 1193, Nr 113, poz. 1207, Nr 126, poz. 1382, 1383 i 1384 i Nr 128, poz. 1407, z 2002 r. Nr 113, poz. 984 oraz z 2003 r. Nr 45, poz. 391, Nr 124, poz. 1151 i 1152, Nr 171, poz. 1663, Nr 213, poz. 2081 i Nr 223, poz. 2215.), świadczonych wyłącznie na podstawie skierowania lekarza,
 - **4)** produktów leczniczych, w zakresie regulowanym przez ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2004 r. Nr 53, poz. 533 i Nr 69, poz. 625),
-- **5)** wideoloterii, gier cylindrycznych, gier w karty, gier w kości, zakładów wzajemnych, gier na automatach, w zakresie regulowanym ustawą z dnia 29 lipca 1992 r. o grach i zakładach wzajemnych (Dz. U. z 2004 r. Nr 4, poz. 27). ” , w ust. 2: – zdanie wstępne otrzymuje brzmienie: „ Zakazane jest nadawanie reklam: ” , – pkt 1–4 otrzymują brzmienie: „ 1) nawołujących bezpośrednio małoletnich do nabywania produktów lub usług, 2) zachęcających małoletnich do wywierania presji na rodziców lub inne osoby w celu skłonienia ich do zakupu reklamowanych produktów lub usług, 3) wykorzystujących zaufanie małoletnich, jakie pokładają oni w rodzicach, nauczycielach i innych osobach, 4) w nieuzasadniony sposób ukazujących małoletnich w niebezpiecznych sytuacjach, ” , w ust. 3 pkt 4 otrzymuje brzmienie: „
+- **5)** wideoloterii, gier cylindrycznych, gier w karty, gier w kości, zakładów wzajemnych, gier na automatach, w zakresie regulowanym ustawą z dnia 29 lipca 1992 r. o grach i zakładach wzajemnych (Dz. U. z 2004 r. Nr 4, poz. 27). ” , w ust. 2: – zdanie wstępne otrzymuje brzmienie: „ Zakazane jest nadawanie reklam: ” , pkt 1–4 otrzymują brzmienie: „
     - **b)**
+
+- **1)** nawołujących bezpośrednio małoletnich do nabywania produktów lub usług,
+- **2)** zachęcających małoletnich do wywierania presji na rodziców lub inne osoby w celu skłonienia ich do zakupu reklamowanych produktów lub usług,
+- **3)** wykorzystujących zaufanie małoletnich, jakie pokładają oni w rodzicach, nauczycielach i innych osobach,
+- **4)** w nieuzasadniony sposób ukazujących małoletnich w niebezpiecznych sytuacjach, ” , w ust. 3 pkt 4 otrzymuje brzmienie: „
     - **c)**
 
 - **4)** zagrażać fizycznemu, psychicznemu lub moralnemu rozwojowi małoletnich, ” ;
@@ -175,7 +181,7 @@ source: "eli-html"
 
 - **1)** cechy oraz szczegółowe warunki kwalifikowania, rozpowszechniania i sposób zapowiadania audycji lub innych przekazów, o których mowa w ust. 5,
 - **2)** podział małoletnich na kategorie wiekowe oraz szczegółowe warunki kwalifikowania i rozpowszechniania audycji lub innych przekazów, o których mowa w ust. 5b, z uwzględnieniem godzin nadawania audycji lub innych przekazów przeznaczonych dla danej kategorii wiekowej,
-- **3)** wzory symboli graficznych i formuł zapowiedzi, o których mowa w ust. 5a i 5b, oraz sposób ich prezentacji uwzględniając stopień szkodliwości audycji dla małoletnich w poszczególnych kategoriach wiekowych. ” ;
+- **3)** wzory symboli graficznych i formuł zapowiedzi, o których mowa w ust. 5a i 5b, oraz sposób ich prezentacji – uwzględniając stopień szkodliwości audycji dla małoletnich w poszczególnych kategoriach wiekowych. ” ;
 - **12)** w art. 21: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -211,7 +217,7 @@ source: "eli-html"
 
 **Art. 31a.**
 
-1. Spółki, o których mowa w art. 26 ust. 2 i 3, są obowiązane do określenia w dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.), zasad rachunkowości, w tym zakładowego planu kont, w sposób zapewniający ujęcie w księgach rachunkowych przychodów i związanych z nimi kosztów odrębnie w odniesieniu do działalności, o której mowa w art. 21 ust. 1, oraz pozostałej działalności, a także metod przypisywania kosztów i przychodów do poszczególnych rodzajów prowadzonej działalności.
+1. Spółki, o których mowa w art. 26 ust. 2 i 3, są obowiązane do określenia w dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276.), zasad rachunkowości, w tym zakładowego planu kont, w sposób zapewniający ujęcie w księgach rachunkowych przychodów i związanych z nimi kosztów odrębnie w odniesieniu do działalności, o której mowa w art. 21 ust. 1, oraz pozostałej działalności, a także metod przypisywania kosztów i przychodów do poszczególnych rodzajów prowadzonej działalności.
 
 2. Obowiązek, o którym mowa w ust. 1, nie narusza obowiązków w zakresie rachunkowości i sprawozdawczości wynikających z odrębnych przepisów.
 
@@ -238,7 +244,7 @@ source: "eli-html"
 3. Koncesja może być również udzielona:
 
 - **1)** osobie zagranicznej lub
-- **2)** spółce zależnej, w rozumieniu Kodeksu spółek handlowych, od osoby zagranicznej których siedziba lub stałe miejsce zamieszkania znajduje się w państwie członkowskim Europejskiego Obszaru Gospodarczego – bez stosowania ograniczeń zawartych w ust. 2. ” ;
+- **2)** spółce zależnej, w rozumieniu Kodeksu spółek handlowych, od osoby zagranicznej – których siedziba lub stałe miejsce zamieszkania znajduje się w państwie członkowskim Europejskiego Obszaru Gospodarczego – bez stosowania ograniczeń zawartych w ust. 2. ” ;
 - **17)** w art. 36 w ust. 1 pkt 4 otrzymuje brzmienie: „
 - **4)** przewidywany udział audycji, o których mowa w art. 15 ust. 1 i 3, w programie telewizyjnym albo utworów, o których mowa w art. 15 ust. 2, w programie radiowym lub telewizyjnym, ” ;
 - **18)** art. 40a otrzymuje brzmienie: „
@@ -300,6 +306,6 @@ source: "eli-html"
 **Art. 4.** Ustawa wchodzi w życie z dniem 1 maja 2004 r., z wyjątkiem:
 
 - **1)** art. 31a, art. 31b i art. 50 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, które wchodzą w życie z dniem 1 lipca 2004 r.;
-- **2)** art. 26 ust. 2a ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, który wchodzi w życie z dniem 1 stycznia 2005 r.
+- **2)** art. 26 ust. 2a ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, który wchodzi w życie z dniem 1 stycznia 2005 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 25, poz. 253 i Nr 56, poz. 517 oraz z 2003 r. Nr 96, poz. 874. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 86, poz. 958 i Nr 114, poz. 1193, z 2001 r. Nr 49, poz. 509, Nr 67, poz. 679, Nr 102, poz. 1115 i Nr 147, poz. 1643, z 2002 r. Nr 1, poz. 2, Nr 115, poz. 995 i Nr 130, poz. 1112, z 2003 r. Nr 86, poz. 789, Nr 128, poz. 1176 i Nr 217, poz. 2125 oraz z 2004 r. Nr 54, poz. 535 i Nr 91, poz. 870 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 96, poz. 1107 oraz z 2003 r. Nr 229, poz. 2274. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 167, poz. 1372, z 2003 r. Nr 80, poz. 719 i Nr 122, poz. 1143 oraz z 2004 r. Nr 29, poz. 257. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 63, poz. 315, z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 138, poz. 682, z 1996 r. Nr 24, poz. 110, z 1997 r. Nr 104, poz. 661, Nr 121, poz. 769 i Nr 158, poz. 1041, z 1998 r. Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1115, z 1999 r. Nr 28, poz. 255 i 256 i Nr 84, poz. 935, z 2000 r. Nr 3, poz. 28, Nr 12, poz. 136, Nr 43, poz. 489, Nr 84, poz. 948, Nr 114, poz. 1193 i Nr 120, poz. 1268, z 2001 r. Nr 5, poz. 45, Nr 88, poz. 961, Nr 100, poz. 1083, Nr 111, poz. 1193, Nr 113, poz. 1207, Nr 126, poz. 1382, 1383 i 1384 i Nr 128, poz. 1407, z 2002 r. Nr 113, poz. 984 oraz z 2003 r. Nr 45, poz. 391, Nr 124, poz. 1151 i 1152, Nr 171, poz. 1663, Nr 213, poz. 2081 i Nr 223, poz. 2215. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276.
 
 

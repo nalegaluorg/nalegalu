@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 20 grudnia 2021 r. w sprawie określenia wysokości jednorazowego odszkodowania z tytułu wypadku przy pracy rolniczej lub rolniczej choroby zawodowej oraz zasiłku chorobowego
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 20 grudnia 2021 r. w sprawie określenia wysokości jednorazowego odszkodowania z tytułu wypadku przy pracy rolniczej lub rolniczej choroby zawodowej oraz zasiłku chorobowego Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-20 |
 | Data wydania | 2021-12-23 |
-| Wejście w życie | 2022-01-01 |
 | Ostatnia zmiana | 2026-04-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002396) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2396/text.pdf) |
 
@@ -39,6 +38,5 @@ Do ustalenia wysokości jednorazowego odszkodowania z tytułu wypadku przy pracy
 § 5.
 Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 maja 2007 r. w sprawie określenia wysokości jednorazowego odszkodowania z tytułu wypadku przy pracy rolniczej lub rolniczej choroby zawodowej oraz zasiłku chorobowego (Dz. U. z 2021 r. poz. 1440).
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 

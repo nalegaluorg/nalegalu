@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 9 września 2016 r. w sprawie kształcenia osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 9 września 2016 r. w sprawie kształcenia osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-09 |
 | Data wydania | 2016-09-13 |
-| Wejście w życie | 2016-09-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001453) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1453/text.pdf) |
 
@@ -111,8 +110,7 @@ b)
 c)
 ostatecznej decyzji administracyjnej w sprawie potwierdzenia w Rzeczypospolitej Polskiej wykształcenia średniego, wydanej na podstawie art. 93a ustawy, albo
 d)
-świadectwa lub innego dokumentu wydanych za granicą uznanych w drodze nostryfikacji do dnia 31 marca 2015 r. za równorzędne ze świadectwem dojrzałości, świadectwem ukończenia liceum ogólnokształcącego, świadectwem ukończenia liceum profilowanego lub świadectwem ukończenia technikum
-jeżeli szkoła dysponuje wolnymi miejscami.
+świadectwa lub innego dokumentu wydanych za granicą uznanych w drodze nostryfikacji do dnia 31 marca 2015 r. za równorzędne ze świadectwem dojrzałości, świadectwem ukończenia liceum ogólnokształcącego, świadectwem ukończenia liceum profilowanego lub świadectwem ukończenia technikum – jeżeli szkoła dysponuje wolnymi miejscami.
 § 8.
 Uczeń przybywający z zagranicy jest kwalifikowany na odpowiedni semestr oraz przyjmowany do publicznej szkoły dla dorosłych, z wyjątkiem szkoły policealnej dla dorosłych, na podstawie dokumentów, jeżeli szkoła dysponuje wolnymi miejscami.
 § 9.
@@ -142,8 +140,7 @@ do publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie po
 3)
 na kształcenie ustawiczne w formach pozaszkolnych, lub
 4)
-na kwalifikacyjne kursy zawodowe
-odbywa się w trakcie roku szkolnego, o przyjęciu ucznia decyduje odpowiednio dyrektor publicznej szkoły lub publicznej placówki, zgodnie z art. 20a ust. 2 i 3 ustawy.
+na kwalifikacyjne kursy zawodowe – odbywa się w trakcie roku szkolnego, o przyjęciu ucznia decyduje odpowiednio dyrektor publicznej szkoły lub publicznej placówki, zgodnie z art. 20a ust. 2 i 3 ustawy.
 § 11.
 1.
 Dyrektor publicznej szkoły może zdecydować o przeprowadzeniu odpowiednio:
@@ -154,8 +151,7 @@ sprawdzianu uzdolnień kierunkowych, o którym mowa w art. 20f ust. 5 ustawy,
 3)
 sprawdzianu kompetencji językowych, o którym mowa w art. 20j ust. 1 ustawy,
 4)
-sprawdzianu uzdolnień lub predyspozycji przydatnych w danym zawodzie, o którym mowa w art. 20g ust. 1a i art. 20k ust. 1a ustawy
-jeżeli jest to uzasadnione specyfiką kształcenia w danej szkole, a stopień przygotowania do tego kształcenia ucznia przybywającego z zagranicy nie wynika z dokumentów.
+sprawdzianu uzdolnień lub predyspozycji przydatnych w danym zawodzie, o którym mowa w art. 20g ust. 1a i art. 20k ust. 1a ustawy – jeżeli jest to uzasadnione specyfiką kształcenia w danej szkole, a stopień przygotowania do tego kształcenia ucznia przybywającego z zagranicy nie wynika z dokumentów.
 2.
 Dyrektor publicznej szkoły wyznacza termin sprawdzianu predyspozycji językowych, o którym mowa w art. 7b ust. 1 i art. 20i ust. 1 ustawy, sprawdzianu uzdolnień kierunkowych, o którym mowa w art. 20f ust. 5 ustawy, sprawdzianu kompetencji językowych, o którym mowa w art. 20j ust. 1 ustawy, sprawdzianu uzdolnień lub predyspozycji przydatnych w danym zawodzie, o którym mowa w art. 20g ust. 1a i art. 20k ust. 1a ustawy, oraz prób sprawności fizycznej, o których mowa w art. 20h ust. 1 pkt 3 ustawy, a także wyznacza osoby przeprowadzające ten sprawdzian lub próby sprawności fizycznej. Przepis § 13 ust. 3 stosuje się odpowiednio.
 § 12.
@@ -272,6 +268,5 @@ przebywa dłużej niż miesiąc poza granicami Rzeczypospolitej Polskiej w okres
 § 24.
 Do dnia 31 sierpnia 2019 r. przepisy § 3 ust. 1 i 2 stosuje się do oddziału przedszkolnego zorganizowanego w szkole podstawowej.
 § 25.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 30 lipca 2015 r. w sprawie warunków i trybu przyjmowania do publicznych przedszkoli, innych form wychowania przedszkolnego, szkół i placówek osób niebędących obywatelami polskimi oraz obywateli polskich, którzy pobierali naukę w szkołach funkcjonujących w systemach oświaty innych państw, a także organizacji dodatkowej nauki języka polskiego, dodatkowych zajęć wyrównawczych oraz nauki języka i kultury kraju pochodzenia (Dz. U. poz. 1202), które utraciło moc z dniem 1 września 2016 r. w związku z wejściem w życie ustawy z dnia 23 czerwca 2016 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1010).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 30 lipca 2015 r. w sprawie warunków i trybu przyjmowania do publicznych przedszkoli, innych form wychowania przedszkolnego, szkół i placówek osób niebędących obywatelami polskimi oraz obywateli polskich, którzy pobierali naukę w szkołach funkcjonujących w systemach oświaty innych państw, a także organizacji dodatkowej nauki języka polskiego, dodatkowych zajęć wyrównawczych oraz nauki języka i kultury kraju pochodzenia (Dz. U. poz. 1202), które utraciło moc z dniem 1 września 2016 r. w związku z wejściem w życie ustawy z dnia 23 czerwca 2016 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1010). 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 30 lipca 2015 r. w sprawie warunków i trybu przyjmowania do publicznych przedszkoli, innych form wychowania przedszkolnego, szkół i placówek osób niebędących obywatelami polskimi oraz obywateli polskich, którzy pobierali naukę w szkołach funkcjonujących w systemach oświaty innych państw, a także organizacji dodatkowej nauki języka polskiego, dodatkowych zajęć wyrównawczych oraz nauki języka i kultury kraju pochodzenia (Dz. U. poz. 1202), które utraciło moc z dniem 1 września 2016 r. w związku z wejściem w życie ustawy z dnia 23 czerwca 2016 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1010).
 

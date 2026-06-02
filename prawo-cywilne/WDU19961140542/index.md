@@ -22,19 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1996-08-23 |
 | Data wydania | 1996-09-27 |
-| Wejście w życie | 1996-12-28 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961140542) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/542/text.pdf) |
 
+Gwarancja jakości”;
 27)
-w art. 577 § 1 otrzymuje brzmienie:
-„
+w art. 577 § 1 otrzymuje brzmienie: „
 § 1.
-W wypadku gdy kupujący otrzymał od sprzedawcy dokument gwarancyjny co do jakości rzeczy sprzedanej, poczytuje się w razie wątpliwości, że wystawca dokumentu (gwarant) jest obowiązany do usunięcia wady fizycznej rzeczy lub do dostarczenia rzeczy wolnej od wad, jeżeli wady te ujawnią się w ciągu terminu określonego w gwarancji.
-” ;
+W wypadku gdy kupujący otrzymał od sprzedawcy dokument gwarancyjny co do jakości rzeczy sprzedanej, poczytuje się w razie wątpliwości, że wystawca dokumentu (gwarant) jest obowiązany do usunięcia wady fizycznej rzeczy lub do dostarczenia rzeczy wolnej od wad, jeżeli wady te ujawnią się w ciągu terminu określonego w gwarancji. ” ;
 28)
-art. 578 otrzymuje brzmienie:
-„
+art. 578 otrzymuje brzmienie: „
 
 **Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509 oraz z 1995 r. Nr 83, poz. 417) wprowadza się następujące zmiany:
 
@@ -145,7 +142,7 @@ art. 578 otrzymuje brzmienie:
 
 - **26)** tytuł działu III w tytule XI księgi trzeciej otrzymuje brzmienie: „
 
-### Dział III. Gwarancja jakości”;
+### Dział III.
 
 **Art. 578.** Jeżeli w gwarancji inaczej nie zastrzeżono, odpowiedzialność z tytułu gwarancji obejmuje tylko wady powstałe z przyczyn tkwiących w sprzedanej rzeczy. ” ;
 

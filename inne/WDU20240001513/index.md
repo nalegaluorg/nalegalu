@@ -26,15 +26,32 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001513) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1513/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną Rozdział 1 – Przepisy ogólne Rozdział 2 – Obowiązki usługodawcy świadczącego usługi drogą elektroniczną Rozdział 3 – Wyłączenie odpowiedzialności usługodawcy z tytułu świadczenia usług drogą elektroniczną Rozdział 4 – Zasady ochrony danych osobowych w związku ze świadczeniem usług drogą elektroniczną Rozdział 5 – Przepisy karne Rozdział 6 – Zmiany w przepisach obowiązujących
+Załącznik – Tekst jednolity ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344), z uwzględnieniem zmian wprowadzonych ustawą z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222) oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 października 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 124 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 124 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), który stanowi: „
+Przepisy ogólne
+Obowiązki usługodawcy świadczącego usługi drogą elektroniczną
+Wyłączenie odpowiedzialności usługodawcy z tytułu świadczenia usług drogą elektroniczną
+Zasady ochrony danych osobowych w związku ze świadczeniem usług drogą elektroniczną
+Przepisy karne
+Zmiany w przepisach obowiązujących
 Art. 26–29.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Obowiązki usługodawcy świadczącego usługi drogą elektroniczną
+
+#### Rozdział 3 – Wyłączenie odpowiedzialności usługodawcy z tytułu świadczenia usług drogą elektroniczną
+
+#### Rozdział 4 – Zasady ochrony danych osobowych w związku ze świadczeniem usług drogą elektroniczną
+
+#### Rozdział 5 – Przepisy karne
+
+#### Rozdział 6 – Zmiany w przepisach obowiązujących
 
 **Art. 124.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
 
@@ -42,9 +59,9 @@ Art. 26–29.
 - **2)** art. 44 pkt 9 w zakresie art. 20 ust. 1 pkt 2 lit. b, który wchodzi w życie z dniem 1 grudnia 2024 r.;
 - **3)** art. 39 pkt 24 i 27, które wchodzą w życie z dniem 1 stycznia 2025 r.;
 - **4)** art. 39 pkt 31, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
-- **5)** art. 49 i art. 106, które wchodzą w życie z dniem 18 października 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną
+- **5)** art. 49 i art. 106, które wchodzą w życie z dniem 18 października 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektronicznąNiniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2000/31/WE z dnia 8 czerwca 2000 r. w sprawie niektórych aspektów prawnych usług społeczeństwa informacyjnego, w szczególności handlu elektronicznego na rynku wewnętrznym (dyrektywa o handlu elektronicznym) (Dz. Urz. WE L 178 z 17.07.2000). Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa:
 
@@ -55,11 +72,7 @@ Art. 26–29.
 **Art. 2.** Określenia użyte w ustawie oznaczają:
 
 - **1)** adres elektroniczny – oznaczenie systemu teleinformatycznego umożliwiające porozumiewanie się za pomocą środków komunikacji elektronicznej, w szczególności poczty elektronicznej;
-- **2)** informacja handlowa – każdą informację przeznaczoną bezpośrednio lub pośrednio do promowania towarów, usług lub wizerunku przedsiębiorcy lub osoby wykonującej zawód, której prawo do wykonywania zawodu jest uzależnione od spełnienia wymagań określonych w odrębnych ustawach, z wyłączeniem informacji umożliwiającej porozumiewanie się za pomocą środków komunikacji elektronicznej z określoną osobą oraz informacji o towarach i usługach niesłużącej osiągnięciu efektu handlowego pożądanego przez podmiot, który zleca jej rozpowszechnianie, w szczególności bez wynagrodzenia lub innych korzyści od producentów, sprzedawców i świadczących usługi;
-- **3)** system teleinformatyczny – zespół współpracujących ze sobą urządzeń informatycznych i oprogramowania, zapewniający przetwarzanie i przechowywanie, a także wysyłanie i odbieranie danych poprzez sieci telekomunikacyjne za pomocą właściwego dla danego rodzaju sieci telekomunikacyjnego urządzenia końcowego w rozumieniu ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2024 r. poz. 34, 731 i 834);
-- **3)** system teleinformatyczny – zespół współpracujących ze sobą urządzeń informatycznych i oprogramowania, zapewniający przetwarzanie i przechowywanie, a także wysyłanie i odbieranie danych poprzez sieci telekomunikacyjne za pomocą właściwego dla danego rodzaju sieci telekomunikacyjnego urządzenia końcowego w rozumieniu ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221);
-- **4)** świadczenie usługi drogą elektroniczną – wykonanie usługi świadczonej bez jednoczesnej obecności stron (na odległość), poprzez przekaz danych na indywidualne żądanie usługobiorcy, przesyłanej i otrzymywanej za pomocą urządzeń do elektronicznego przetwarzania, włącznie z kompresją cyfrową, i przechowywania danych, która jest w całości nadawana, odbierana lub transmitowana za pomocą sieci telekomunikacyjnej w rozumieniu ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne;
-- **4)** świadczenie usługi drogą elektroniczną – wykonanie usługi świadczonej bez jednoczesnej obecności stron (na odległość), poprzez przekaz danych na indywidualne żądanie usługobiorcy, przesyłanej i otrzymywanej za pomocą urządzeń do elektronicznego przetwarzania, włącznie z kompresją cyfrową, i przechowywania danych, która jest w całości nadawana, odbierana lub transmitowana za pomocą sieci telekomunikacyjnej w rozumieniu ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej;
+- **2)** informacja handlowa – każdą informację przeznaczoną bezpośrednio lub pośrednio do promowania towarów, usług lub wizerunku przedsiębiorcy lub osoby wykonującej zawód, której prawo do wykonywania zawodu jest uzależnione od spełnienia wymagań określonych w odrębnych ustawach, z wyłączeniem informacji umożliwiającej porozumiewanie się za pomocą środków komunikacji elektronicznej z określoną osobą oraz informacji o towarach i usługach niesłużącej osiągnięciu efektu handlowego pożądanego przez podmiot, który zleca jej rozpowszechnianie, w szczególności bez wynagrodzenia lub innych korzyści od producentów, sprzedawców i świadczących usługi; 3W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 3.) system teleinformatyczny – zespół współpracujących ze sobą urządzeń informatycznych i oprogramowania, zapewniający przetwarzanie i przechowywanie, a także wysyłanie i odbieranie danych poprzez sieci telekomunikacyjne za pomocą właściwego dla danego rodzaju sieci telekomunikacyjnego urządzenia końcowego w rozumieniu ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2024 r. poz. 34, 731 i 834); 3Ze zmianą wprowadzoną przez art. 26 pkt 1 lit. a ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), która wejdzie w życie z dniem 10 listopada 2024 r.) system teleinformatyczny – zespół współpracujących ze sobą urządzeń informatycznych i oprogramowania, zapewniający przetwarzanie i przechowywanie, a także wysyłanie i odbieranie danych poprzez sieci telekomunikacyjne za pomocą właściwego dla danego rodzaju sieci telekomunikacyjnego urządzenia końcowego w rozumieniu ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221); 4W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 5.) świadczenie usługi drogą elektroniczną – wykonanie usługi świadczonej bez jednoczesnej obecności stron (na odległość), poprzez przekaz danych na indywidualne żądanie usługobiorcy, przesyłanej i otrzymywanej za pomocą urządzeń do elektronicznego przetwarzania, włącznie z kompresją cyfrową, i przechowywania danych, która jest w całości nadawana, odbierana lub transmitowana za pomocą sieci telekomunikacyjnej w rozumieniu ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne; 4Ze zmianą wprowadzoną przez art. 26 pkt 1 lit. b ustawy, o której mowa w odnośniku 3.) świadczenie usługi drogą elektroniczną – wykonanie usługi świadczonej bez jednoczesnej obecności stron (na odległość), poprzez przekaz danych na indywidualne żądanie usługobiorcy, przesyłanej i otrzymywanej za pomocą urządzeń do elektronicznego przetwarzania, włącznie z kompresją cyfrową, i przechowywania danych, która jest w całości nadawana, odbierana lub transmitowana za pomocą sieci telekomunikacyjnej w rozumieniu ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej;
 - **5)** środki komunikacji elektronicznej – rozwiązania techniczne, w tym urządzenia teleinformatyczne i współpracujące z nimi narzędzia programowe, umożliwiające indywidualne porozumiewanie się na odległość przy wykorzystaniu transmisji danych między systemami teleinformatycznymi, a w szczególności pocztę elektroniczną;
 - **6)** usługodawca – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która prowadząc, chociażby ubocznie, działalność zarobkową lub zawodową świadczy usługi drogą elektroniczną;
 - **7)** usługobiorca – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która korzysta z usługi świadczonej drogą elektroniczną;
@@ -106,18 +119,18 @@ Art. 26–29.
 2. Zadania polegające na:
 
 - **1)** umożliwieniu usługodawcom i usługobiorcom otrzymywania informacji ogólnych na temat ich praw i obowiązków, jak również na temat procedur reklamacyjnych oraz naprawiania szkody w przypadku sporów, łącznie z informacjami na temat praktycznych aspektów związanych z wykorzystaniem tych procedur,
-- **2)** umożliwieniu usługodawcom i usługobiorcom uzyskiwania danych szczegółowych dotyczących władz, stowarzyszeń lub organizacji, od których mogą oni otrzymać dalsze informacje lub praktyczną pomoc wykonują jednostki organizacyjne – punkty kontaktowe dla usługodawców i usługobiorców.
+- **2)** umożliwieniu usługodawcom i usługobiorcom uzyskiwania danych szczegółowych dotyczących władz, stowarzyszeń lub organizacji, od których mogą oni otrzymać dalsze informacje lub praktyczną pomoc – wykonują jednostki organizacyjne – punkty kontaktowe dla usługodawców i usługobiorców.
 
 1. Punkty kontaktowe, o których mowa w art. 3c ust. 1 i 2, tworzy, w drodze rozporządzenia, minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw informatyzacji.
 
 2. Rozporządzenie, o którym mowa w ust. 1, określa w szczególności:
 
 - **1)** liczbę i rodzaj punktów kontaktowych oraz ich szczegółowy zakres zadań,
-- **2)** warunki techniczne i organizacyjne punktu kontaktowego uwzględniając potrzebę zapewnienia właściwej realizacji zadań punktów kontaktowych.
+- **2)** warunki techniczne i organizacyjne punktu kontaktowego – uwzględniając potrzebę zapewnienia właściwej realizacji zadań punktów kontaktowych.
 
 **Art. 4.** Jeżeli ustawa wymaga uzyskania zgody usługobiorcy, stosuje się przepisy o ochronie danych osobowych.
 
-#### Rozdział 2 Obowiązki usługodawcy świadczącego usługi drogą elektroniczną
+#### Rozdział 2
 
 **Art. 5.**
 
@@ -187,30 +200,23 @@ Art. 26–29.
 3. Przepisy ust. 1 i 2 nie naruszają przepisów ustawy:
 
 - **1)** z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022 r. poz. 1233) oraz
-- **2)** z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2023 r. poz. 227 oraz z 2024 r. poz. 1473).
-
-**Art. 10.**
+- **2)** z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2023 r. poz. 227 oraz z 2024 r. poz. 1473). Art. 10Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 9..
 
 1. Zakazane jest przesyłanie niezamówionej informacji handlowej skierowanej do oznaczonego odbiorcy będącego osobą fizyczną za pomocą środków komunikacji elektronicznej, w szczególności poczty elektronicznej.
 
 2. Informację handlową uważa się za zamówioną, jeżeli odbiorca wyraził zgodę na otrzymywanie takiej informacji, w szczególności udostępnił w tym celu identyfikujący go adres elektroniczny.
 
-3. Działanie, o którym mowa w ust. 1, stanowi czyn nieuczciwej konkurencji w rozumieniu przepisów ustawy, o której mowa w art. 9 ust. 3 pkt 1. (uchylony)
+3. Działanie, o którym mowa w ust. 1, stanowi czyn nieuczciwej konkurencji w rozumieniu przepisów ustawy, o której mowa w art. 9 ust. 3 pkt 1. (uchylony)Przez art. 26 pkt 3 ustawy, o której mowa w odnośniku 3.
 
 **Art. 11.** W sprawach nieuregulowanych w ustawie do świadczenia usług drogą elektroniczną, w szczególności do składania oświadczeń woli w postaci elektronicznej, stosuje się przepisy Kodeksu cywilnego oraz innych ustaw.
 
-#### Rozdział 3 Wyłączenie odpowiedzialności usługodawcy z tytułu świadczenia usług drogą elektroniczną
+#### Rozdział 3
 
-**Art. 12.**
-
-1. Usługodawca, który świadczy usługi drogą elektroniczną obejmujące transmisję w sieci telekomunikacyjnej danych przekazywanych przez odbiorcę usługi lub zapewnienie dostępu do sieci telekomunikacyjnej w rozumieniu ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, nie ponosi odpowiedzialności za treść tych danych, jeżeli:
+**Art. 12.** 1W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 11.. Usługodawca, który świadczy usługi drogą elektroniczną obejmujące transmisję w sieci telekomunikacyjnej danych przekazywanych przez odbiorcę usługi lub zapewnienie dostępu do sieci telekomunikacyjnej w rozumieniu ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, nie ponosi odpowiedzialności za treść tych danych, jeżeli:
 
 - **1)** nie jest inicjatorem przekazu danych;
 - **2)** nie wybiera odbiorcy przekazu danych;
-- **3)** nie wybiera oraz nie modyfikuje informacji zawartych w przekazie.
-
-1. Usługodawca, który świadczy usługi drogą elektroniczną obejmujące transmisję w sieci telekomunikacyjnej danych przekazywanych przez odbiorcę usługi lub zapewnienie dostępu do sieci telekomunikacyjnej w rozumieniu ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, nie ponosi odpowiedzialności za treść tych danych, jeżeli:
-
+- **3)** nie wybiera oraz nie modyfikuje informacji zawartych w przekazie. 1Ze zmianą wprowadzoną przez art. 26 pkt 4 ustawy, o której mowa w odnośniku 3.. Usługodawca, który świadczy usługi drogą elektroniczną obejmujące transmisję w sieci telekomunikacyjnej danych przekazywanych przez odbiorcę usługi lub zapewnienie dostępu do sieci telekomunikacyjnej w rozumieniu ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, nie ponosi odpowiedzialności za treść tych danych, jeżeli:
 - **1)** nie jest inicjatorem przekazu danych;
 - **2)** nie wybiera odbiorcy przekazu danych;
 - **3)** nie wybiera oraz nie modyfikuje informacji zawartych w przekazie.
@@ -237,7 +243,7 @@ Art. 26–29.
 
 4. Przepisów ust. 1–3 nie stosuje się, jeżeli usługodawca przejął kontrolę nad usługobiorcą w rozumieniu przepisów o ochronie konkurencji i konsumentów. Art. 15. Podmiot, który świadczy usługi określone w art. 12–14, nie jest obowiązany do sprawdzania przekazywanych, przechowywanych lub udostępnianych przez niego danych, o których mowa w art. 12–14.
 
-#### Rozdział 4 Zasady ochrony danych osobowych w związku ze świadczeniem usług drogą elektroniczną
+#### Rozdział 4
 
 **Art. 16.** (uchylony)
 
@@ -281,19 +287,11 @@ Art. 26–29.
 
 5. (uchylony) Art. 20–22. (uchylone)
 
-#### Rozdział 5 Przepisy karne
+#### Rozdział 5
 
-**Art. 23.** Kto wbrew obowiązkom określonym w art. 5 nie podaje danych, o których mowa w art. 5 ust. 2, 3 lub 5, albo podaje dane nieprawdziwe lub niepełne, podlega karze grzywny.
+**Art. 23.** Kto wbrew obowiązkom określonym w art. 5 nie podaje danych, o których mowa w art. 5 ust. 2, 3 lub 5, albo podaje dane nieprawdziwe lub niepełne, podlega karze grzywny. Art. 24Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 13.. 1. Kto przesyła za pomocą środków komunikacji elektronicznej niezamówione informacje handlowe, podlega karze grzywny. 2. Ściganie wykroczenia, o którym mowa w ust. 1, następuje na wniosek pokrzywdzonego. (uchylony)Przez art. 26 pkt 5 ustawy, o której mowa w odnośniku 3. Art. 25W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 15.. Orzekanie w sprawach o czyny określone w art. 23 i 24 następuje w trybie przepisów o postępowaniu w sprawach o wykroczenia. Orzekanie w sprawach o czyny określone w art. 23 następuje w trybie przepisów o postępowaniu w sprawach o wykroczenia.
 
-**Art. 24.**
+#### Rozdział 6
 
-1. Kto przesyła za pomocą środków komunikacji elektronicznej niezamówione informacje handlowe, podlega karze grzywny.
-
-2. Ściganie wykroczenia, o którym mowa w ust. 1, następuje na wniosek pokrzywdzonego. (uchylony)
-
-**Art. 25.** Orzekanie w sprawach o czyny określone w art. 23 i 24 następuje w trybie przepisów o postępowaniu w sprawach o wykroczenia. Orzekanie w sprawach o czyny określone w art. 23 następuje w trybie przepisów o postępowaniu w sprawach o wykroczenia.
-
-#### Rozdział 6 Zmiany w przepisach obowiązujących
-
-**Art. 30.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 5 ust. 5, który stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
+**Art. 30.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszeniaUstawa została ogłoszona w dniu 9 września 2002 r., z wyjątkiem art. 5 ust. 5, który stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii EuropejskiejRzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej z dniem 1 maja 2004 r.. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2000/31/WE z dnia 8 czerwca 2000 r. w sprawie niektórych aspektów prawnych usług społeczeństwa informacyjnego, w szczególności handlu elektronicznego na rynku wewnętrznym (dyrektywa o handlu elektronicznym) (Dz. Urz. WE L 178 z 17.07.2000). Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne. 2) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 3. 3) Ze zmianą wprowadzoną przez art. 26 pkt 1 lit. a ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), która wejdzie w życie z dniem 10 listopada 2024 r. 4) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 5. 5) Ze zmianą wprowadzoną przez art. 26 pkt 1 lit. b ustawy, o której mowa w odnośniku 3. 6) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 7. 7) W brzmieniu ustalonym przez art. 26 pkt 2 ustawy, o której mowa w odnośniku 3. 8) Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 9. 9) Przez art. 26 pkt 3 ustawy, o której mowa w odnośniku 3. 10) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 11. 11) Ze zmianą wprowadzoną przez art. 26 pkt 4 ustawy, o której mowa w odnośniku 3. 12) Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 13. 13) Przez art. 26 pkt 5 ustawy, o której mowa w odnośniku 3. 14) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 15. 15) W brzmieniu ustalonym przez art. 26 pkt 6 ustawy, o której mowa w odnośniku 3. 16) Ustawa została ogłoszona w dniu 9 września 2002 r. 17) Rzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej z dniem 1 maja 2004 r.
 

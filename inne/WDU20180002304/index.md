@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 6 grudnia 2018 r. w sprawie przekazywania izbom lekarskim środków finansowych na pokrycie kosztów czynności wykonywanych przez izby lekarskie
+# Rozporządzenie Ministra Zdrowiaz dnia 6 grudnia 2018 r. w sprawie przekazywania izbom lekarskim środków finansowych na pokrycie kosztów czynności wykonywanych przez izby lekarskie Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-06 |
 | Data wydania | 2018-12-10 |
-| Wejście w życie | 2018-12-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002304) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2304/text.pdf) |
 
@@ -98,6 +97,5 @@ W pierwszej umowie, o której mowa w § 4 ust. 1, uwzględnia się koszty wykona
 2.
 Pierwsze sprawozdanie z wykonywania zadań obejmuje faktyczną realizację zadań w okresie od dnia 1 stycznia 2018 r. do dnia sporządzenia sprawozdania oraz przewidywane wykonanie zadań od dnia sporządzenia sprawozdania do dnia 31 grudnia 2018 r.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 18 maja 2010 r. w sprawie przekazywania izbom lekarskim środków finansowych na pokrycie kosztów czynności wykonywanych przez izby lekarskie (Dz. U. poz. 611), które utraciło moc z dniem 12 maja 2018 r. na podstawie art. 8 ustawy z dnia 23 marca 2017 r. o zmianie ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta oraz niektórych innych ustaw (Dz. U. poz. 836).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 18 maja 2010 r. w sprawie przekazywania izbom lekarskim środków finansowych na pokrycie kosztów czynności wykonywanych przez izby lekarskie (Dz. U. poz. 611), które utraciło moc z dniem 12 maja 2018 r. na podstawie art. 8 ustawy z dnia 23 marca 2017 r. o zmianie ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta oraz niektórych innych ustaw (Dz. U. poz. 836). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 18 maja 2010 r. w sprawie przekazywania izbom lekarskim środków finansowych na pokrycie kosztów czynności wykonywanych przez izby lekarskie (Dz. U. poz. 611), które utraciło moc z dniem 12 maja 2018 r. na podstawie art. 8 ustawy z dnia 23 marca 2017 r. o zmianie ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta oraz niektórych innych ustaw (Dz. U. poz. 836).
 

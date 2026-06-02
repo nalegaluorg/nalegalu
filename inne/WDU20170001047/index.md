@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 25 maja 2017 r. w sprawie dokumentów mających znaczenie dla kontroli celno-skarbowej w zakresie przestrzegania przepisów prawa celnego, innych przepisów związanych z przywozem i wywozem towarów oraz przepisów z zakresu refundacji wywozowych, a także osób obowiązanych do przechowywania tych dokumentów
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 25 maja 2017 r. w sprawie dokumentów mających znaczenie dla kontroli celno-skarbowej w zakresie przestrzegania przepisów prawa celnego, innych przepisów związanych z przywozem i wywozem towarów oraz przepisów z zakresu refundacji wywozowych, a także osób obowiązanych do przechowywania tych dokumentów Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-05-25 |
 | Data wydania | 2017-05-30 |
-| Wejście w życie | 2017-06-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001047) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1047/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 89 ust. 1 pkt 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 89 ust. 1 pkt 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708 i 768.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -79,7 +78,7 @@ regulaminy, których obowiązek sporządzenia wynika z przepisów prawa celnego;
 11)
 ewidencje i rejestry, których obowiązek prowadzenia wynika z przepisów prawa celnego, w tym:
 a)
-ewidencja prowadzona na podstawie art. 148 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.) , zwanego dalej „UKC”,
+ewidencja prowadzona na podstawie art. 148 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 354 z 23.12.2016, str. 32 oraz Dz. Urz. UE L 42 z 18.02.2017, str. 43.) , zwanego dalej „UKC”,
 b)
 ewidencje, inne niż te, o których mowa w art. 214 ust. 1 UKC, prowadzone w związku z korzystaniem z procedury celnej lub uregulowaniem sytuacji towaru, jeżeli taki obowiązek został określony przez organ Krajowej Administracji Skarbowej,
 c)
@@ -175,6 +174,5 @@ przedsiębiorca posiadający pozwolenie AEO lub jego przedstawiciel celny, o kt�
 15)
 podmiot prowadzący działalność gospodarczą podlegającą kontroli, o którym mowa w art. 74 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej – w przypadku dokumentów dotyczących urzędowego sprawdzenia, o których mowa w § 2 pkt 33, w zakresie, w jakim dotyczą przepisów prawa celnego.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708 i 768. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 354 z 23.12.2016, str. 32 oraz Dz. Urz. UE L 42 z 18.02.2017, str. 43. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 29 października 2009 r. w sprawie rodzajów dokumentów mających znaczenie dla kontroli wykonywanych przez Służbę Celną, a także osób obowiązanych do ich przechowywania (Dz. U. poz. 1424 oraz z 2016 r. poz. 731 i 1737), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 29 października 2009 r. w sprawie rodzajów dokumentów mających znaczenie dla kontroli wykonywanych przez Służbę Celną, a także osób obowiązanych do ich przechowywania (Dz. U. poz. 1424 oraz z 2016 r. poz. 731 i 1737), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708 i 768. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 354 z 23.12.2016, str. 32 oraz Dz. Urz. UE L 42 z 18.02.2017, str. 43. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 29 października 2009 r. w sprawie rodzajów dokumentów mających znaczenie dla kontroli wykonywanych przez Służbę Celną, a także osób obowiązanych do ich przechowywania (Dz. U. poz. 1424 oraz z 2016 r. poz. 731 i 1737), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379).
 

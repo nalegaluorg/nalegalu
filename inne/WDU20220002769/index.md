@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-15 |
 | Data wydania | 2022-12-27 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002769) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2769/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 49 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2022 r. poz. 459 i 830) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. poz. 1031, z późn. zm.) w załączniku nr 1 „Identyfikatory i nazwy jednostek podziału terytorialnego kraju”:
+W rozporządzeniu Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. poz. 1031, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2000 r. poz. 161, z 2001 r. poz. 100 i 1840, z 2002 r. poz. 1459, z 2003 r. poz. 2022, z 2004 r. poz. 2535, z 2005 r. poz. 1706, z 2006 r. poz. 246 i 1577, z 2007 r. poz. 1386, z 2008 r. poz. 1358, z 2009 r. poz. 1559, z 2010 r. poz. 1727, z 2012 r. poz. 403 i 1389, z 2013 r. poz. 1585, z 2014 r. poz. 1829, z 2015 r. poz. 2266, z 2016 r. poz. 1916, z 2017 r. poz. 2248, z 2018 r. poz. 717, z 2019 r. poz. 339, z 2020 r. poz. 629 i 2260 oraz z 2021 r. poz. 2434.) w załączniku nr 1 „Identyfikatory i nazwy jednostek podziału terytorialnego kraju”:
 1)
 w części dotyczącej województwa dolnośląskiego powiatu średzkiego w części Gminy wyrazy „Miękinia 021803 2” zastępuje się wyrazami: „Miękinia 021803 3 Miękinia – miasto 021803 4 Miękinia – obszar wiejski 021803 5”;
 2)
@@ -69,5 +68,5 @@ wyrazy „Piekoszów 260414 2” zastępuje się wyrazami: „Piekoszów 260414 
 7)
 w części dotyczącej województwa wielkopolskiego powiatu pilskiego w części Gminy wyrazy „Miasteczko Krajeńskie 301905 2” zastępuje się wyrazami: „Miasteczko Krajeńskie 301905 3 Miasteczko Krajeńskie – miasto 301905 4 Miasteczko Krajeńskie – obszar wiejski 301905 5”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2000 r. poz. 161, z 2001 r. poz. 100 i 1840, z 2002 r. poz. 1459, z 2003 r. poz. 2022, z 2004 r. poz. 2535, z 2005 r. poz. 1706, z 2006 r. poz. 246 i 1577, z 2007 r. poz. 1386, z 2008 r. poz. 1358, z 2009 r. poz. 1559, z 2010 r. poz. 1727, z 2012 r. poz. 403 i 1389, z 2013 r. poz. 1585, z 2014 r. poz. 1829, z 2015 r. poz. 2266, z 2016 r. poz. 1916, z 2017 r. poz. 2248, z 2018 r. poz. 717, z 2019 r. poz. 339, z 2020 r. poz. 629 i 2260 oraz z 2021 r. poz. 2434.
 

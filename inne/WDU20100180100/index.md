@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-01-08 |
 | Data wydania | 2010-02-04 |
-| Wejście w życie | 2010-02-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100180100) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/100/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. Nr 158, poz. 1121, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. Nr 158, poz. 1121, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 237 poz. 1654 oraz z 2009 r. Nr 6, poz. 33, Nr 125, poz. 1035 i Nr 157, poz. 1241.) wprowadza się następujące zmiany:
 
 - **1)** po art. 8 dodaje się art. 8a w brzmieniu: „
 
@@ -66,5 +65,5 @@ source: "eli-html"
 
 **Art. 2.** Do roszczeń z tytułu niewypłacalności pracodawcy, o której mowa w art. 8a ustawy zmienianej w art. 1, powstałych od dnia 1 października 2006 r., stosuje się przepisy w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 237 poz. 1654 oraz z 2009 r. Nr 6, poz. 33, Nr 125, poz. 1035 i Nr 157, poz. 1241.
 

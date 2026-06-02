@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 14 lutego 2024 r. zmieniające rozporządzenie w sprawie leków, które mogą być traktowane jako surowce farmaceutyczne przy sporządzaniu leków recepturowych
+# Rozporządzenie Ministra Zdrowiaz dnia 14 lutego 2024 r. zmieniające rozporządzenie w sprawie leków, które mogą być traktowane jako surowce farmaceutyczne przy sporządzaniu leków recepturowych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-14 |
 | Data wydania | 2024-02-16 |
-| Wejście w życie | 2024-03-02 |
 | Ostatnia zmiana | 2025-03-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000203) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/203/text.pdf) |
 
@@ -37,6 +36,5 @@ w pkt 2 wyrazy „24,66 zł” zastępuje się wyrazami „63,63 zł, w tym nale
 § 2.
 Do recept na lek recepturowy, przyjętych do realizacji i niezrealizowanych do dnia wejścia w życie niniejszego rozporządzenia, stosuje się przepis § 6 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

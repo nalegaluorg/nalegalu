@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju Regionalnegoz dnia 15 listopada 2013 r. zmieniające rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał Ludzki
+# Rozporządzenie Ministra Rozwoju Regionalnegoz dnia 15 listopada 2013 r. zmieniające rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał Ludzki Zgodnie z art. 25 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712 i Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237 oraz z 2013 r. poz. 714) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Kapitał Ludzki.
 
 | Pole | Wartość |
 |---|---|
@@ -22,79 +22,68 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-15 |
 | Data wydania | 2013-11-25 |
-| Wejście w życie | 2013-11-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001370) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1370/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 6b ust. 10 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2007 r. Nr 42, poz. 275, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 6b ust. 10 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2007 r. Nr 42, poz. 275, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 116, poz. 730 i 732 i Nr 227, poz. 1505 oraz z 2010 r. Nr 96, poz. 620, Nr 240, poz. 1603 i Nr 257, poz. 1726.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Rozwoju Regionalnego z dnia 4 września 2012 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 1064) wprowadza się następujące zmiany:
 1)
-w § 3 w ust. 1 pkt 1 otrzymuje brzmienie:
-„
+w § 3 w ust. 1 pkt 1 otrzymuje brzmienie: „
 1)
-bezzwrotnego wsparcia finansowego, zwanego dalej „wsparciem”, podmiotom określonym w § 9 ust. 2–4, § 18 ust. 1, § 21 ust. 1, § 23 ust. 1, § 24 ust. 1 oraz w § 26a ust. 1;
-” ;
+bezzwrotnego wsparcia finansowego, zwanego dalej „wsparciem”, podmiotom określonym w § 9 ust. 2–4, § 18 ust. 1, § 21 ust. 1, § 23 ust. 1, § 24 ust. 1 oraz w § 26a ust. 1; ” ;
 2)
 w § 6:
 a)
-w ust. 1 po pkt 7 dodaje się przecinek i pkt 8 w brzmieniu:
-„
+w ust. 1 po pkt 7 dodaje się przecinek i pkt 8 w brzmieniu: „
 8)
-w ramach wsparcia na zindywidualizowane usługi doradcze w formie opieki mentorskiej dla kobiet planujących rozpoczęcie albo rozwój prowadzonej działalności gospodarczej, o którym mowa w § 26a ust. 1
-” ,
+w ramach wsparcia na zindywidualizowane usługi doradcze w formie opieki mentorskiej dla kobiet planujących rozpoczęcie albo rozwój prowadzonej działalności gospodarczej, o którym mowa w § 26a ust. 1 ” ,
 b)
-ust. 10 otrzymuje brzmienie:
-„
+ust. 10 otrzymuje brzmienie: „
 10.
-Podmioty, o których mowa w § 9 ust. 2 i 3, § 18 ust. 1, § 23 ust. 1, § 24 ust. 1, § 26a ust. 1, oraz wykonawcy świadczący usługi, o których mowa w § 27 ust. 1, w przypadku udzielania wsparcia objętego regułami pomocy de minimis wydają beneficjentom pomocy zaświadczenia o pomocy de minimis zgodnie z odrębnymi przepisami.
-” ;
+Podmioty, o których mowa w § 9 ust. 2 i 3, § 18 ust. 1, § 23 ust. 1, § 24 ust. 1, § 26a ust. 1, oraz wykonawcy świadczący usługi, o których mowa w § 27 ust. 1, w przypadku udzielania wsparcia objętego regułami pomocy de minimis wydają beneficjentom pomocy zaświadczenia o pomocy de minimis zgodnie z odrębnymi przepisami. ” ;
 3)
 w § 7:
 a)
-w ust. 1 po pkt 5 dodaje się pkt 5a w brzmieniu:
-„
+w ust. 1 po pkt 5 dodaje się pkt 5a w brzmieniu: „
 5a)
-wsparcia na zindywidualizowane usługi doradcze w formie opieki mentorskiej dla kobiet planujących rozpoczęcie albo rozwój prowadzonej działalności gospodarczej, o którym mowa w § 26a ust. 1,
-” ,
+wsparcia na zindywidualizowane usługi doradcze w formie opieki mentorskiej dla kobiet planujących rozpoczęcie albo rozwój prowadzonej działalności gospodarczej, o którym mowa w § 26a ust. 1, ” ,
 b)
-dodaje się ust. 4 w brzmieniu:
-„
+dodaje się ust. 4 w brzmieniu: „
 4.
-Wielkość pomocy de minimis udzielonej przedsiębiorcom w ramach wsparcia na zindywidualizowane usługi doradcze w formie opieki mentorskiej dla kobiet planujących rozpoczęcie albo rozwój prowadzonej działalności gospodarczej, o którym mowa w § 26a ust. 1, może wynosić do 100% wydatków kwalifikowalnych, z zastrzeżeniem § 6 ust. 5.
-” ;
+Wielkość pomocy de minimis udzielonej przedsiębiorcom w ramach wsparcia na zindywidualizowane usługi doradcze w formie opieki mentorskiej dla kobiet planujących rozpoczęcie albo rozwój prowadzonej działalności gospodarczej, o którym mowa w § 26a ust. 1, może wynosić do 100% wydatków kwalifikowalnych, z zastrzeżeniem § 6 ust. 5. ” ;
 4)
-w § 9 ust. 3 otrzymuje brzmienie:
-„
+w § 9 ust. 3 otrzymuje brzmienie: „
 3.
-Agencja może udzielić projektodawcy będącemu organizacją pracodawców lub organizacją związkową w rozumieniu przepisów ustawy z dnia 23 maja 1991 r. o organizacjach pracodawców (Dz. U. Nr 55, poz. 235, z późn. zm.), ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2002 r. Nr 112, poz. 979, z późn. zm.) oraz ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2001 r. Nr 79, poz. 854, z późn. zm.) wsparcia z przeznaczeniem na realizację projektu mającego na celu zwiększenie zdolności adaptacyjnych pracowników i przedsiębiorstw lub tworzenie i rozwój, w szczególności poprzez zwiększenie wartości, funduszy szkoleniowych utworzonych przez pracodawców będących mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami, zwanego dalej „wsparciem na wzmacnianie potencjału adaptacyjnego przedsiębiorców”.
-” ;
+Agencja może udzielić projektodawcy będącemu organizacją pracodawców lub organizacją związkową w rozumieniu przepisów ustawy z dnia 23 maja 1991 r. o organizacjach pracodawców (Dz. U. Nr 55, poz. 235, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 34, poz. 148, z 1997 r. Nr 121, poz. 769, z 2000 r. Nr 60, poz. 700 i Nr 107, poz. 1127, z 2001 r. Nr 100, poz. 1080 oraz z 2004 r. Nr 240, poz. 2407.), ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2002 r. Nr 112, poz. 979, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 137, poz. 1304, z 2009 r. Nr 6, poz. 33 oraz z 2011 r. Nr 205, poz. 1206 i Nr 207, poz. 1230.) oraz ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2001 r. Nr 79, poz. 854, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1080 i Nr 128, poz. 1405, z 2002 r. Nr 135, poz. 1146 i Nr 240, poz. 2052, z 2003 r. Nr 63, poz. 590 i Nr 213, poz. 2081, z 2004 r. Nr 240, poz. 2407, z 2008 r. Nr 90, poz. 562, z 2011 r. Nr 244, poz. 1454 oraz z 2013 r. poz. 896.) wsparcia z przeznaczeniem na realizację projektu mającego na celu zwiększenie zdolności adaptacyjnych pracowników i przedsiębiorstw lub tworzenie i rozwój, w szczególności poprzez zwiększenie wartości, funduszy szkoleniowych utworzonych przez pracodawców będących mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami, zwanego dalej „wsparciem na wzmacnianie potencjału adaptacyjnego przedsiębiorców”. ” ;
 5)
 w § 10 uchyla się ust. 2;
 6)
-w § 14 ust. 7 otrzymuje brzmienie:
-„
+w § 14 ust. 7 otrzymuje brzmienie: „
 7.
-W przypadku projektów realizowanych wyłącznie na potrzeby danego przedsiębiorcy lub przedsiębiorców powiązanych z nim organizacyjnie, kapitałowo lub gospodarczo podstawą wyliczenia wielkości pomocy publicznej dla przedsiębiorców na pokrycie kosztów uczestnictwa w szkoleniu tych przedsiębiorców lub pracowników przez nich delegowanych w ramach wsparcia na rozwój kapitału ludzkiego są wydatki wskazane w ust. 1 i 5, przy czym wydatki, o których mowa w ust. 1 pkt 3 oraz ust. 5, kwalifikują się do wsparcia jedynie do wysokości sumy kwot wydatków kwalifikowalnych, o których mowa w ust. 1 pkt 1 i 2.
-” ;
+W przypadku projektów realizowanych wyłącznie na potrzeby danego przedsiębiorcy lub przedsiębiorców powiązanych z nim organizacyjnie, kapitałowo lub gospodarczo podstawą wyliczenia wielkości pomocy publicznej dla przedsiębiorców na pokrycie kosztów uczestnictwa w szkoleniu tych przedsiębiorców lub pracowników przez nich delegowanych w ramach wsparcia na rozwój kapitału ludzkiego są wydatki wskazane w ust. 1 i 5, przy czym wydatki, o których mowa w ust. 1 pkt 3 oraz ust. 5, kwalifikują się do wsparcia jedynie do wysokości sumy kwot wydatków kwalifikowalnych, o których mowa w ust. 1 pkt 1 i 2. ” ;
 7)
 w § 15:
 a)
 w ust. 1:
-– pkt 2 otrzymuje brzmienie: „ 2) tworzenie i zwiększenie wartości funduszy szkoleniowych utworzonych przez pracodawców będących mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami z przeznaczeniem na wydatki wskazane w pkt 1; ” ,
-– pkt 10 i 11 otrzymują brzmienie: „ 10) prowadzenie badań i analiz związanych z tworzeniem i funkcjonowaniem nowych rozwiązań dotyczących funduszy szkoleniowych utworzonych przez pracodawców będących mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami; 11) prowadzenie działań promocyjnych związanych ze stworzonym rozwiązaniem dotyczącym funduszy szkoleniowych utworzonych przez pracodawców będących mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami. ” ,
+pkt 2 otrzymuje brzmienie: „
+2)
+tworzenie i zwiększenie wartości funduszy szkoleniowych utworzonych przez pracodawców będących mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami z przeznaczeniem na wydatki wskazane w pkt 1; ” ,
+pkt 10 i 11 otrzymują brzmienie: „
+10)
+prowadzenie badań i analiz związanych z tworzeniem i funkcjonowaniem nowych rozwiązań dotyczących funduszy szkoleniowych utworzonych przez pracodawców będących mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami;
+11)
+prowadzenie działań promocyjnych związanych ze stworzonym rozwiązaniem dotyczącym funduszy szkoleniowych utworzonych przez pracodawców będących mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami. ” ,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Wydatki, o których mowa w ust. 1 pkt 6–9, są kwalifikowalne do wysokości określonej w ogłoszeniu o konkursie, o którym mowa w art. 29 ust. 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, jednakże nieprzekraczającej łącznie 10% wartości całkowitych wydatków kwalifikowalnych projektu objętego wsparciem na wzmacnianie potencjału adaptacyjnego przedsiębiorców, przy czym jeżeli wydatki te dotyczą przedsiębiorcy, wsparcie na wzmacnianie potencjału adaptacyjnego przedsiębiorców w części przeznaczonej na pokrycie tych wydatków stanowi pomoc de minimis dla tego przedsiębiorcy.
-” ;
+Wydatki, o których mowa w ust. 1 pkt 6–9, są kwalifikowalne do wysokości określonej w ogłoszeniu o konkursie, o którym mowa w art. 29 ust. 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, jednakże nieprzekraczającej łącznie 10% wartości całkowitych wydatków kwalifikowalnych projektu objętego wsparciem na wzmacnianie potencjału adaptacyjnego przedsiębiorców, przy czym jeżeli wydatki te dotyczą przedsiębiorcy, wsparcie na wzmacnianie potencjału adaptacyjnego przedsiębiorców w części przeznaczonej na pokrycie tych wydatków stanowi pomoc de minimis dla tego przedsiębiorcy. ” ;
 8)
 w § 17 uchyla się ust. 2;
 9)
-po rozdziale 4 dodaje się rozdział 4a w brzmieniu:
-„
+po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
+Szczegółowe przeznaczenie i warunki udzielania wsparcia na rozwój kapitału ludzkiego w formie staży u przedsiębiorcy
 § 20a.
 Agencja może udzielić wsparcia mikroprzedsiębiorcy, małemu i średniemu przedsiębiorcy na organizację i prowadzenie staży skierowanych do studentów i absolwentów szkół ponadgimnazjalnych i wyższych, którzy nie ukończyli 30 roku życia, który:
 1)
@@ -127,8 +116,7 @@ szkoleń stażysty niezbędnych do efektywnego odbycia stażu; szczególnie koni
 8)
 związanych z przygotowaniem merytorycznym programu stażowego,
 9)
-zatrudnienia stażysty na umowę o pracę na czas odbycia stażu, w wysokości do 50% kosztów wynagrodzenia
-w łącznej wysokości nieprzekraczającej 3000 złotych w przeliczeniu na miesiąc dla 1 osoby odbywającej staż.
+zatrudnienia stażysty na umowę o pracę na czas odbycia stażu, w wysokości do 50% kosztów wynagrodzenia – w łącznej wysokości nieprzekraczającej 3000 złotych w przeliczeniu na miesiąc dla 1 osoby odbywającej staż.
 2.
 Koszt wynagrodzenia opiekuna stażysty, o którym mowa w ust. 1 pkt 4, stanowi:
 1)
@@ -136,11 +124,9 @@ refundację przedsiębiorcy całości lub części wynagrodzenia opiekuna staży
 2)
 refundację przedsiębiorcy dodatku do wynagrodzenia opiekuna stażysty w wysokości nieprzekraczającej 10% jego wynagrodzenia wynikającego ze zwiększonego zakresu zadań związanego z opieką nad stażystą, ale nie więcej niż 500 złotych miesięcznie.
 3.
-Podstawą wyliczenia wielkości pomocy de minimis dla przedsiębiorcy są wydatki bezpośrednio związane z organizacją stażu w przedsiębiorstwie, o których mowa w ust. 1.
-” ;
+Podstawą wyliczenia wielkości pomocy de minimis dla przedsiębiorcy są wydatki bezpośrednio związane z organizacją stażu w przedsiębiorstwie, o których mowa w ust. 1. ” ;
 10)
-§ 21 otrzymuje brzmienie:
-„
+§ 21 otrzymuje brzmienie: „
 § 21.
 1.
 Agencja może udzielić wsparcia na prowadzenie punktu konsultacyjnego podmiotowi działającemu na rzecz rozwoju gospodarczego, który:
@@ -157,27 +143,23 @@ wykorzystania, w okresie realizacji projektu objętego wsparciem, nowych środk�
 d)
 prowadzenia odrębnej ewidencji księgowej dla projektu objętego wsparciem.
 2.
-Wsparcie na prowadzenie punktu konsultacyjnego jest przeznaczone na finansowanie wydatków związanych z realizacją projektu polegającego na prowadzeniu punktu konsultacyjnego i świadczeniu usług doradczych w zakresie podejmowania i wykonywania działalności gospodarczej dla przedsiębiorców oraz osób zamierzających podjąć działalność gospodarczą, zgodnie ze standardami w zakresie świadczenia tych usług, określonymi w przepisach wydanych na podstawie art. 6a ust. 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości.
-” ;
+Wsparcie na prowadzenie punktu konsultacyjnego jest przeznaczone na finansowanie wydatków związanych z realizacją projektu polegającego na prowadzeniu punktu konsultacyjnego i świadczeniu usług doradczych w zakresie podejmowania i wykonywania działalności gospodarczej dla przedsiębiorców oraz osób zamierzających podjąć działalność gospodarczą, zgodnie ze standardami w zakresie świadczenia tych usług, określonymi w przepisach wydanych na podstawie art. 6a ust. 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości. ” ;
 11)
-w § 22 ust. 4 i 5 otrzymują brzmienie:
-„
+w § 22 ust. 4 i 5 otrzymują brzmienie: „
 4.
 Wielkość wsparcia na prowadzenie punktu konsultacyjnego i świadczenie usług doradczych dla osób zamierzających podjąć działalność gospodarczą może wynieść do 100% wydatków kwalifikowalnych w ramach wsparcia poniesionych na ten cel.
 5.
-Wielkość wsparcia na świadczenie usług doradczych dla przedsiębiorców nie może przekroczyć różnicy pomiędzy kosztami usług doradczych a częściową odpłatnością ponoszoną przez przedsiębiorców korzystających z tych usług oraz 90% wydatków kwalifikowalnych w ramach wsparcia przeznaczonych na ten cel.
-” ;
+Wielkość wsparcia na świadczenie usług doradczych dla przedsiębiorców nie może przekroczyć różnicy pomiędzy kosztami usług doradczych a częściową odpłatnością ponoszoną przez przedsiębiorców korzystających z tych usług oraz 90% wydatków kwalifikowalnych w ramach wsparcia przeznaczonych na ten cel. ” ;
 12)
-po rozdziale 7 dodaje się rozdział 7a w brzmieniu:
-„
+po rozdziale 7 dodaje się rozdział 7a w brzmieniu: „
+Szczegółowe przeznaczenie i warunki udzielania wsparcia na zindywidualizowane usługi doradcze w formie opieki mentorskiej dla kobiet planujących rozpoczęcie albo rozwój prowadzonej działalności gospodarczej
 § 26a.
 1.
 Agencja może udzielić podmiotowi działającemu na rzecz rozwoju gospodarczego lub podmiotowi działającemu na rzecz innowacyjności, spełniającemu warunki określone w ust. 2, wsparcia z przeznaczeniem na świadczenie zindywidualizowanych usług doradczych w formie opieki mentorskiej dla kobiet w zakresie rozpoczęcia albo rozwoju prowadzonej działalności gospodarczej, które mają miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej oraz:
 1)
 prowadzą działalność gospodarczą na terytorium Rzeczypospolitej Polskiej nie dłużej niż 36 miesięcy od dnia wystawienia pierwszej faktury sprzedaży produktu lub usługi albo
 2)
-zamierzają rozpocząć własną działalność gospodarczą na terytorium Rzeczypospolitej Polskiej
-zwanego dalej „wsparciem na usługi mentorskie dla kobiet”.
+zamierzają rozpocząć własną działalność gospodarczą na terytorium Rzeczypospolitej Polskiej – zwanego dalej „wsparciem na usługi mentorskie dla kobiet”.
 2.
 Wsparcie na usługi mentorskie dla kobiet może być udzielone podmiotowi działającemu na rzecz rozwoju gospodarczego lub innowacyjności, który spełnia łącznie następujące warunki:
 1)
@@ -229,33 +211,25 @@ Jeżeli wsparcie na usługi mentorskie dla kobiet dotyczy usług świadczonych p
 3.
 Podstawą wyliczenia wielkości pomocy de minimis dla przedsiębiorcy w ramach wsparcia na usługi mentorskie dla kobiet są wydatki bezpośrednio związane ze świadczeniem usług doradczych, o których mowa w § 26b ust. 1 pkt 1, dla tego przedsiębiorcy.
 4.
-Zaświadczenie o pomocy de minimis udzielonej przedsiębiorcy w ramach wsparcia na usługi mentorskie dla kobiet wydaje temu przedsiębiorcy podmiot otrzymujący wsparcie.
-” ;
+Zaświadczenie o pomocy de minimis udzielonej przedsiębiorcy w ramach wsparcia na usługi mentorskie dla kobiet wydaje temu przedsiębiorcy podmiot otrzymujący wsparcie. ” ;
 13)
-w § 33 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu:
-„
+w § 33 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
 6)
-podmiotów, o których mowa w § 26a ust. 1 – w zakresie wsparcia na usługi mentorskie dla kobiet.
-” ;
+podmiotów, o których mowa w § 26a ust. 1 – w zakresie wsparcia na usługi mentorskie dla kobiet. ” ;
 14)
-w § 35 ust. 1 otrzymuje brzmienie:
-„
+w § 35 ust. 1 otrzymuje brzmienie: „
 1.
-Agencja przeprowadza konkurs, o którym mowa w § 33 pkt 2–6, informując o rozpoczęciu przyjmowania wniosków o udzielenie wsparcia i zamieszczając ogłoszenie, w szczególności na stronie internetowej Agencji.
-” ;
+Agencja przeprowadza konkurs, o którym mowa w § 33 pkt 2–6, informując o rozpoczęciu przyjmowania wniosków o udzielenie wsparcia i zamieszczając ogłoszenie, w szczególności na stronie internetowej Agencji. ” ;
 15)
-§ 38 otrzymuje brzmienie:
-„
+§ 38 otrzymuje brzmienie: „
 § 38.
-Rozporządzenie stosuje się do pomocy publicznej lub pomocy de minimis udzielonej do dnia 30 czerwca 2014 r.
-” .
+Rozporządzenie stosuje się do pomocy publicznej lub pomocy de minimis udzielonej do dnia 30 czerwca 2014 r. ” .
 § 2.
 Do umów o udzielenie wsparcia na rozwój kapitału ludzkiego oraz na wzmacnianie potencjału adaptacyjnego przedsiębiorców, zawieranych na podstawie wniosków o udzielenie wsparcia złożonych po dniu 25 września 2012 r., stosuje się przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-2) Zgodnie z art. 25 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712 i Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237 oraz z 2013 r. poz. 714) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Kapitał Ludzki. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 116, poz. 730 i 732 i Nr 227, poz. 1505 oraz z 2010 r. Nr 96, poz. 620, Nr 240, poz. 1603 i Nr 257, poz. 1726. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 34, poz. 148, z 1997 r. Nr 121, poz. 769, z 2000 r. Nr 60, poz. 700 i Nr 107, poz. 1127, z 2001 r. Nr 100, poz. 1080 oraz z 2004 r. Nr 240, poz. 2407. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 137, poz. 1304, z 2009 r. Nr 6, poz. 33 oraz z 2011 r. Nr 205, poz. 1206 i Nr 207, poz. 1230. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1080 i Nr 128, poz. 1405, z 2002 r. Nr 135, poz. 1146 i Nr 240, poz. 2052, z 2003 r. Nr 63, poz. 590 i Nr 213, poz. 2081, z 2004 r. Nr 240, poz. 2407, z 2008 r. Nr 90, poz. 562, z 2011 r. Nr 244, poz. 1454 oraz z 2013 r. poz. 896.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zgodnie z art. 25 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712 i Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237 oraz z 2013 r. poz. 714) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Kapitał Ludzki. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 116, poz. 730 i 732 i Nr 227, poz. 1505 oraz z 2010 r. Nr 96, poz. 620, Nr 240, poz. 1603 i Nr 257, poz. 1726. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 34, poz. 148, z 1997 r. Nr 121, poz. 769, z 2000 r. Nr 60, poz. 700 i Nr 107, poz. 1127, z 2001 r. Nr 100, poz. 1080 oraz z 2004 r. Nr 240, poz. 2407. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 137, poz. 1304, z 2009 r. Nr 6, poz. 33 oraz z 2011 r. Nr 205, poz. 1206 i Nr 207, poz. 1230. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1080 i Nr 128, poz. 1405, z 2002 r. Nr 135, poz. 1146 i Nr 240, poz. 2052, z 2003 r. Nr 63, poz. 590 i Nr 213, poz. 2081, z 2004 r. Nr 240, poz. 2407, z 2008 r. Nr 90, poz. 562, z 2011 r. Nr 244, poz. 1454 oraz z 2013 r. poz. 896.
 
-#### Rozdział 4a Szczegółowe przeznaczenie i warunki udzielania wsparcia na rozwój kapitału ludzkiego w formie staży u przedsiębiorcy
+#### Rozdział 4a
 
-#### Rozdział 7a Szczegółowe przeznaczenie i warunki udzielania wsparcia na zindywidualizowane usługi doradcze w formie opieki mentorskiej dla kobiet planujących rozpoczęcie albo rozwój prowadzonej działalności gospodarczej
+#### Rozdział 7a
 

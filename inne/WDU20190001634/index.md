@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 19 sierpnia 2019 r. zmieniające rozporządzenie w sprawie regulaminu konkursu na stanowisko dyrektora publicznego przedszkola, publicznej szkoły podstawowej, publicznej szkoły ponadpodstawowej lub publicznej placówki oraz trybu pracy komisji konkursowej
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 19 sierpnia 2019 r. zmieniające rozporządzenie w sprawie regulaminu konkursu na stanowisko dyrektora publicznego przedszkola, publicznej szkoły podstawowej, publicznej szkoły ponadpodstawowej lub publicznej placówki oraz trybu pracy komisji konkursowej Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-19 |
 | Data wydania | 2019-08-28 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001634) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1634/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Edukacji Narodowej z dnia 11 sierpnia 2017 r. w spraw
 1)
 w pkt 4:
 a)
-lit. e i f otrzymują brzmienie:
-„
+lit. e i f otrzymują brzmienie: „
 e)
 poświadczonych przez kandydata za zgodność z oryginałem kopii dokumentów potwierdzających posiadanie wymaganego wykształcenia, w tym dyplomu ukończenia studiów pierwszego stopnia, studiów drugiego stopnia, jednolitych studiów magisterskich lub świadectwa ukończenia studiów podyplomowych, z zakresu zarządzania albo świadectwa ukończenia kursu kwalifikacyjnego z zakresu zarządzania oświatą,
 f)
@@ -44,16 +42,13 @@ w przypadku cudzoziemca – poświadczonej przez kandydata za zgodność z orygi
 – dokumentu potwierdzającego prawo do wykonywania zawodu tłumacza przysięgłego języka polskiego,
 ” ,
 b)
-lit. n otrzymuje brzmienie:
-„
+lit. n otrzymuje brzmienie: „
 n)
-w przypadku nauczyciela i nauczyciela akademickiego – oświadczenia, że kandydat nie był prawomocnie ukarany karą dyscyplinarną, o której mowa w art. 76 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2018 r. poz. 967 i 2245 oraz z 2019 r. poz. 730 i 1287), lub karą dyscyplinarną, o której mowa w art. 276 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.), lub karą dyscyplinarną, o której mowa w art. 140 ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm.),
-” ;
+w przypadku nauczyciela i nauczyciela akademickiego – oświadczenia, że kandydat nie był prawomocnie ukarany karą dyscyplinarną, o której mowa w art. 76 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2018 r. poz. 967 i 2245 oraz z 2019 r. poz. 730 i 1287), lub karą dyscyplinarną, o której mowa w art. 276 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.), lub karą dyscyplinarną, o której mowa w art. 140 ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 650, 730, 912, 1000, 1115 i 1693.), ” ;
 2)
 w pkt 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „ informację o: ” .
 § 2.
 Konkursy na stanowiska dyrektorów publicznych przedszkoli, publicznych szkół lub publicznych placówek ogłoszone i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia są prowadzone według dotychczasowych przepisów.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 650, 730, 912, 1000, 1115 i 1693.
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 650, 730, 912, 1000, 1115 i 1693.
 

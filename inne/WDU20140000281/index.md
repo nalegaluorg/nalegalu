@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarkiz dnia 17 lutego 2014 r. w sprawie wymagań, którym powinny odpowiadać przyrządy do pomiaru prędkości pojazdów w ruchu drogowym, oraz szczegółowego zakresu badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych
+# Rozporządzenie Ministra Gospodarkiz dnia 17 lutego 2014 r. w sprawie wymagań, którym powinny odpowiadać przyrządy do pomiaru prędkości pojazdów w ruchu drogowym, oraz szczegółowego zakresu badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 3 września 2013 r., pod numerem 2013/0500/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-02-17 |
 | Data wydania | 2014-03-06 |
-| Wejście w życie | 2014-03-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000281) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/281/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Wymagania w zakresie konstrukcji, materiałów i wykonania przyrządów Rozdział 3 – Wymagania w zakresie charakterystyk metrologicznych przyrządów Rozdział 4 – Wymagania w zakresie warunków właściwego stosowania przyrządów oraz zakres informacji, jaki powinna zawierać instrukcja obsługi Rozdział 5 – Szczegółowy zakres badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej przyrządów Rozdział 6 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 9a ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2013 r. poz. 1069) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa:
@@ -53,8 +53,7 @@ Wymagań określonych w rozporządzeniu nie stosuje się do przyrządu:
 1)
 wyprodukowanego lub wprowadzonego do obrotu w innym państwie członkowskim Unii Europejskiej albo Republice Turcji lub
 2)
-wyprodukowanego w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – będącym stroną umowy o Europejskim Obszarze Gospodarczym
-zgodnie z przepisami obowiązującymi w tych państwach, pod warunkiem że przyrząd ten spełnia wymagania w stopniu odpowiadającym przepisom rozporządzenia.
+wyprodukowanego w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – będącym stroną umowy o Europejskim Obszarze Gospodarczym – zgodnie z przepisami obowiązującymi w tych państwach, pod warunkiem że przyrząd ten spełnia wymagania w stopniu odpowiadającym przepisom rozporządzenia.
 § 3.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
@@ -83,6 +82,7 @@ przyrząd radarowy – przyrząd do pomiaru prędkości pojazdów w ruchu drogow
 urządzenie dodatkowe rejestrujące – urządzenie dodatkowe rejestrujące zmierzoną prędkość, datę i czas dokonania pomiaru prędkości oraz inne dane o kontrolowanym pojeździe;
 9)
 warunki znamionowe użytkowania – warunki użytkowania przyrządu, w których charakterystyki metrologiczne przyrządu są zawarte w określonych granicach.
+Wymagania w zakresie konstrukcji, materiałów i wykonania przyrządów
 § 4.
 1.
 Konstrukcja i wykonanie przyrządu oraz materiały użyte do jego wykonania powinny zapewniać trwałość przyrządu podczas jego użytkowania.
@@ -211,6 +211,7 @@ numer fabryczny (numer seryjny) i rok produkcji;
 nadany znak zatwierdzenia typu.
 2.
 Oznaczenia, o których mowa w ust. 1, powinny ulegać zniszczeniu przy próbie ich usunięcia.
+Wymagania w zakresie charakterystyk metrologicznych przyrządów
 § 19.
 Błąd pomiaru wykonanego przyrządem w warunkach znamionowych użytkowania nie powinien przekraczać wartości błędów granicznych dopuszczalnych określonych w § 21 pkt 2.
 § 20.
@@ -253,6 +254,7 @@ Wartość średnią, o której mowa w ust. 1, oblicza się na podstawie błędó
 3% wartości mierzonej – dla prędkości powyżej 100 km/h.
 3.
 W przypadku przyrządu bezobsługowego wyniki pomiarów prędkości podczas badania w warunkach znamionowych użytkowania powinny potwierdzać odpowiedni poziom ufności.
+Wymagania w zakresie warunków właściwego stosowania przyrządów oraz zakres informacji, jaki powinna zawierać instrukcja obsługi
 § 23.
 1.
 Przyrząd powinien być stosowany w warunkach znamionowych użytkowania w sposób zgodny z instrukcją obsługi i decyzją zatwierdzenia typu.
@@ -293,6 +295,7 @@ W przypadku przyrządu bezobsługowego instrukcja obsługi powinna zawierać dod
 opis warunków, jakie należy brać pod uwagę przy wyznaczaniu miejsca instalacji;
 2)
 opis sposobu zapewnienia odpowiedniego poziomu ufności wskazującego, że błąd każdego wyniku pomiaru zawiera się w granicach błędów granicznych dopuszczalnych.
+Szczegółowy zakres badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej przyrządów
 § 25.
 Ustala się następujące warunki dla badań przyrządu w laboratorium:
 1)
@@ -355,8 +358,7 @@ sprawdzenie w laboratorium, czy podczas oddziaływania na przyrząd pola elektro
 a)
 10 V/m w zakresie częstotliwości od 27 MHz do 1 GHz,
 b)
-20 V/m w zakresie częstotliwości od 1,4 GHz do 2 GHz
-wartości błędów pomiaru nie przekraczają wartości błędów granicznych dopuszczalnych;
+20 V/m w zakresie częstotliwości od 1,4 GHz do 2 GHz – wartości błędów pomiaru nie przekraczają wartości błędów granicznych dopuszczalnych;
 13)
 sprawdzenie w laboratorium, czy podczas oddziaływania na przyrząd wyładowań elektrostatycznych o wartości napięcia probierczego:
 a)
@@ -364,15 +366,13 @@ a)
 b)
 8 kV – dla wyładowania przez powietrze,
 c)
-8 kV – dla wyładowania pośredniego do płyt sprzęgających, poziomej i pionowej
-wartości błędów pomiaru nie przekraczają wartości błędów granicznych dopuszczalnych;
+8 kV – dla wyładowania pośredniego do płyt sprzęgających, poziomej i pionowej – wartości błędów pomiaru nie przekraczają wartości błędów granicznych dopuszczalnych;
 14)
 sprawdzenie w laboratorium, czy podczas oddziaływania na przyrząd serii szybkich elektrycznych stanów przejściowych o polaryzacji dodatniej i ujemnej, czasie trwania impulsu 50 ns i czasie jego narastania 10 ns, o wartości szczytowej napięcia:
 a)
 1 kV – na przyłączu zasilania i uziemienia lub zerowania ochronnego,
 b)
-0,5 kV – na przyłączach sygnałowych i sterujących
-wartości błędów pomiaru nie przekraczają wartości błędów granicznych dopuszczalnych;
+0,5 kV – na przyłączach sygnałowych i sterujących – wartości błędów pomiaru nie przekraczają wartości błędów granicznych dopuszczalnych;
 15)
 sprawdzenie, czy wartości błędów pomiaru wykonywanego przyrządem poza laboratorium w warunkach znamionowych użytkowania nie przekraczają wartości błędów granicznych dopuszczalnych.
 2.
@@ -444,22 +444,35 @@ Podczas legalizacji pierwotnej i ponownej sprawdzenie wartości błędów pomiar
 Podczas legalizacji pierwotnej i ponownej sprawdzenie wartości błędów pomiarów w warunkach znamionowych użytkowania prędkościomierza kontrolnego, o którym mowa w § 3 pkt 4 lit. b, wykonuje się w miejscu jego zainstalowania, w przypadku gdy przyrząd ten lub jego część są zainstalowane na stałe w tym miejscu.
 4.
 Z zastrzeżeniem ust. 1, podczas legalizacji pierwotnej i ponownej sprawdzenie wartości błędów pomiarów w warunkach znamionowych użytkowania przyrządów, o których mowa w § 3 pkt 6 i 7, może być wykonywane w miejscu użytkowania tych przyrządów.
+Przepisy przejściowe i końcowe
 § 32.
 Do prawnej kontroli metrologicznej przyrządów w sprawach wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 33.
 Traci moc rozporządzenie Ministra Gospodarki z dnia 9 listopada 2007 r. w sprawie wymagań, którym powinny odpowiadać przyrządy do pomiaru prędkości pojazdów w ruchu drogowym, oraz szczegółowego zakresu badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych (Dz. U. Nr 225, poz. 1663).
 § 34.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 3 września 2013 r., pod numerem 2013/0500/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Wymagania w zakresie konstrukcji, materiałów i wykonania przyrządów
+#### Rozdział 2 – Wymagania w zakresie konstrukcji, materiałów i wykonania przyrządów
 
-#### Rozdział 3 Wymagania w zakresie charakterystyk metrologicznych przyrządów
+#### Rozdział 3 – Wymagania w zakresie charakterystyk metrologicznych przyrządów
 
-#### Rozdział 4 Wymagania w zakresie warunków właściwego stosowania przyrządów oraz zakres informacji, jaki powinna zawierać instrukcja obsługi
+#### Rozdział 4 – Wymagania w zakresie warunków właściwego stosowania przyrządów oraz zakres informacji, jaki powinna zawierać instrukcja obsługi
 
-#### Rozdział 5 Szczegółowy zakres badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej przyrządów
+#### Rozdział 5 – Szczegółowy zakres badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej przyrządów
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

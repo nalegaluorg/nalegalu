@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 30 listopada 2016 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
+# Ustawa z dnia 30 listopada 2016 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne, ustawę z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych, ustawę z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, ustawę z dnia 23 listopada 2002 r. o Sądzie Najwyższym, ustawę z dnia 17 czerwca 2004 r. o skardze na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i postępowaniu sądowym bez nieuzasadnionej zwłoki, ustawę z dnia 28 stycznia 2016 r. – Prawo o prokuraturze, ustawę z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze, ustawę z dnia 11 marca 2016 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw oraz ustawę z dnia 10 czerwca 2016 r. o zmianie ustawy – Kodeks postępowania karnego, ustawy o zawodach lekarza i lekarza dentysty oraz ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-30 |
 | Data wydania | 2016-12-22 |
-| Wejście w życie | 2017-01-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002103) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2103/text.pdf) |
 
@@ -74,7 +73,7 @@ source: "eli-html"
 
 § 3. W przypadku gdy obwiniony popełnił dwa lub więcej przewinienia dyscyplinarne, zanim zapadło pierwsze, choćby nieprawomocne, orzeczenie co do któregokolwiek z nich, na wniosek ukaranego wydaje się orzeczenie łączne, o ile orzeczone kary podlegają łączeniu według zasad przewidzianych w § 2. ” .
 
-**Art. 2.** W ustawie z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2006 r. poz. 1584, z późn. zm.)w art. 10:
+**Art. 2.** W ustawie z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2006 r. poz. 1584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. poz. 1458, z 2009 r. poz. 1375, z 2010 r. poz. 1228, z 2015 r. poz. 1635 oraz z 2016 r. poz. 1202, 1948 i 2074.)w art. 10:
 
 - **1)** w ust. 3 zdanie pierwsze otrzymuje brzmienie: „ Informacje zawarte w oświadczeniu o stanie majątkowym, z wyjątkiem oświadczenia złożonego przez Prezesa Naczelnego Sądu Administracyjnego albo Pierwszego Prezesa Sądu Najwyższego, stanowią tajemnicę prawnie chronioną i podlegają ochronie przewidzianej dla informacji niejawnych o klauzuli tajności „zastrzeżone” określonej w przepisach o ochronie informacji niejawnych, chyba że osoba, która złożyła oświadczenie, wyraziła pisemną zgodę na ich ujawnienie. ” ;
 - **2)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
@@ -123,7 +122,7 @@ source: "eli-html"
 
 - **1)** w art. 1 dodaje się ust. 3 w brzmieniu: „
 
-3. Przepisy ustawy stosuje się zgodnie ze standardami wynikającymi z Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r. poz. 284, z późn. zm.). ” ;
+3. Przepisy ustawy stosuje się zgodnie ze standardami wynikającymi z Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r. poz. 284, z późn. zm.Zmiany wymienionej Konwencji zostały ogłoszone w Dz. U. z 1995 r. poz. 175, 176 i 177, z 1998 r. poz. 962, z 2001 r. poz. 266, z 2003 r. poz. 364, z 2010 r. poz. 587 oraz z 2014 r. poz. 1155.). ” ;
 
 - **2)** w art. 2: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -132,7 +131,7 @@ source: "eli-html"
 
 - **b)**
 
-1b. Przepisu ust. 1 nie stosuje się w sprawach, o których mowa w art. 1 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm.), chyba że dotyczą one obowiązku naprawienia szkody, zadośćuczynienia za doznaną krzywdę lub nawiązki orzeczonej na rzecz pokrzywdzonego. ” , ust. 2 otrzymuje brzmienie: „
+1b. Przepisu ust. 1 nie stosuje się w sprawach, o których mowa w art. 1 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 1083, z 1999 r. poz. 931, z 2000 r. poz. 701 i 1268, z 2001 r. poz. 1071 i 1194, z 2002 r. poz. 676 i 1679, z 2003 r. poz. 1061, 1380 i 1750, z 2004 r. poz. 889, 2135, 2405, 2426 i 2703, z 2005 r. poz. 1363 i 1479, z 2006 r. poz. 708 i 1648, z 2007 r. poz. 849, z 2008 r. poz. 620 i 1344, z 2009 r. poz. 39, 119, 504, 817, 911, 963, 1475, 1540 i 1589, z 2010 r. poz. 191, 227, 842 i 1228, z 2011 r. poz. 201, 202, 654, 734, 1092, 1280 i 1431, z 2012 r. poz. 908, z 2013 r. poz. 628 i 1247, z 2014 r. poz. 287, 619 i 1707, z 2015 r. poz. 21, 396, 431, 541, 1269 i 1573 oraz z 2016 r. poz. 428, 437 i 1948.), chyba że dotyczą one obowiązku naprawienia szkody, zadośćuczynienia za doznaną krzywdę lub nawiązki orzeczonej na rzecz pokrzywdzonego. ” , ust. 2 otrzymuje brzmienie: „
 
 - **c)**
 
@@ -216,6 +215,6 @@ source: "eli-html"
 **Art. 16.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 9, który wchodzi w życie z dniem 1 stycznia 2017 r.;
-- **2)** art. 10 i art. 15, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+- **2)** art. 10 i art. 15, które wchodzą w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne, ustawę z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych, ustawę z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, ustawę z dnia 23 listopada 2002 r. o Sądzie Najwyższym, ustawę z dnia 17 czerwca 2004 r. o skardze na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i postępowaniu sądowym bez nieuzasadnionej zwłoki, ustawę z dnia 28 stycznia 2016 r. – Prawo o prokuraturze, ustawę z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze, ustawę z dnia 11 marca 2016 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw oraz ustawę z dnia 10 czerwca 2016 r. o zmianie ustawy – Kodeks postępowania karnego, ustawy o zawodach lekarza i lekarza dentysty oraz ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. poz. 1458, z 2009 r. poz. 1375, z 2010 r. poz. 1228, z 2015 r. poz. 1635 oraz z 2016 r. poz. 1202, 1948 i 2074. 3) Zmiany wymienionej Konwencji zostały ogłoszone w Dz. U. z 1995 r. poz. 175, 176 i 177, z 1998 r. poz. 962, z 2001 r. poz. 266, z 2003 r. poz. 364, z 2010 r. poz. 587 oraz z 2014 r. poz. 1155. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 1083, z 1999 r. poz. 931, z 2000 r. poz. 701 i 1268, z 2001 r. poz. 1071 i 1194, z 2002 r. poz. 676 i 1679, z 2003 r. poz. 1061, 1380 i 1750, z 2004 r. poz. 889, 2135, 2405, 2426 i 2703, z 2005 r. poz. 1363 i 1479, z 2006 r. poz. 708 i 1648, z 2007 r. poz. 849, z 2008 r. poz. 620 i 1344, z 2009 r. poz. 39, 119, 504, 817, 911, 963, 1475, 1540 i 1589, z 2010 r. poz. 191, 227, 842 i 1228, z 2011 r. poz. 201, 202, 654, 734, 1092, 1280 i 1431, z 2012 r. poz. 908, z 2013 r. poz. 628 i 1247, z 2014 r. poz. 287, 619 i 1707, z 2015 r. poz. 21, 396, 431, 541, 1269 i 1573 oraz z 2016 r. poz. 428, 437 i 1948.
 
 

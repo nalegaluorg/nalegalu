@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 18 maja 2018 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej z tytułu wykonywania działalności brokerskiej
+# Rozporządzenie Ministra Finansówz dnia 18 maja 2018 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej z tytułu wykonywania działalności brokerskiej Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-18 |
 | Data wydania | 2018-06-06 |
-| Wejście w życie | 2018-10-01 |
 | Ostatnia zmiana | 2025-10-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001085) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1085/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 28 ust. 4 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. poz. 2486 oraz z 2018 r. poz. 378 i 650) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/97 z dnia 20 stycznia 2016 r. w sprawie dystrybucji ubezpieczeń (Dz. Urz. UE L 26 z 02.02.2016, str. 19 oraz Dz. Urz. UE L 76 z 19.03.2018, str. 28). Na podstawie art. 28 ust. 4 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. poz. 2486 oraz z 2018 r. poz. 378 i 650) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy zakres obowiązkowego ubezpieczenia odpowiedzialności cywilnej za szkody powstałe z tytułu wykonywania działalności brokerskiej w zakresie ubezpieczeń lub reasekuracji, zwanego dalej „ubezpieczeniem OC”, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną tego ubezpieczenia.
 § 2.
@@ -60,6 +59,5 @@ Przepisy rozporządzenia stosuje się do umów ubezpieczenia OC zawartych od dni
 2.
 Umowy ubezpieczenia OC zawarte na podstawie dotychczasowych przepisów obowiązują do końca okresu, na jaki zostały zawarte, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie rozporządzenia.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/97 z dnia 20 stycznia 2016 r. w sprawie dystrybucji ubezpieczeń (Dz. Urz. UE L 26 z 02.02.2016, str. 19 oraz Dz. Urz. UE L 76 z 19.03.2018, str. 28). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 12 lutego 2015 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej z tytułu wykonywania działalności brokerskiej (Dz. U. poz. 275), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. poz. 2486 oraz z 2018 r. poz. 378 i 650).
+Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 12 lutego 2015 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej z tytułu wykonywania działalności brokerskiej (Dz. U. poz. 275), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. poz. 2486 oraz z 2018 r. poz. 378 i 650). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/97 z dnia 20 stycznia 2016 r. w sprawie dystrybucji ubezpieczeń (Dz. Urz. UE L 26 z 02.02.2016, str. 19 oraz Dz. Urz. UE L 76 z 19.03.2018, str. 28). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 12 lutego 2015 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej z tytułu wykonywania działalności brokerskiej (Dz. U. poz. 275), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. poz. 2486 oraz z 2018 r. poz. 378 i 650).
 

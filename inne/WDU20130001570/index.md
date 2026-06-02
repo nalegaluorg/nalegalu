@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-12 |
 | Data wydania | 2013-12-17 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001570) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1570/text.pdf) |
 
@@ -33,7 +32,7 @@ Treść rozporządzenia
 ## Załącznik nr 2 — – Wykaz sprzętu stanowiącego wyposażenie lokalu podmiotu wykonującego czynności z zakresu zaopatrzenia w wyroby medyczne dostępne na zlecenie z zakresu optyki okularowej
 
 Treść rozporządzenia
-Na podstawie art. 159 ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 159 ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548 oraz z 2013 r. poz. 154, 879, 983 i 1290.) zarządza się, co następuje:
 § 1.
 Lokal podmiotu wykonującego czynności z zakresu zaopatrzenia w wyroby medyczne dostępne na zlecenie, zwanego dalej „podmiotem”, musi spełniać następujące wymagania:
 1)
@@ -73,7 +72,7 @@ Wykaz sprzętu stanowiącego wyposażenie lokalu podmiotu wykonującego czynnoś
 § 5.
 Wykaz sprzętu stanowiącego wyposażenie lokalu podmiotu wykonującego czynności z zakresu zaopatrzenia w wyroby medyczne dostępne na zlecenie z zakresu optyki okularowej określa załącznik nr 2 do rozporządzenia.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 12 października 2004 r. w sprawie szczegółowych wymagań, jakim powinien odpowiadać lokal podmiotu wykonującego czynności z zakresu zaopatrzenia w środki pomocnicze i wyroby medyczne będące przedmiotami ortopedycznymi (Dz. U. Nr 231, poz. 2327), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 85 ust. 1 pkt 3 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. Nr 122, poz. 696, z 2012 r. poz. 95 i 742 oraz z 2013 r. poz. 766 i 1290). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548 oraz z 2013 r. poz. 154, 879, 983 i 1290. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 12 października 2004 r. w sprawie szczegółowych wymagań, jakim powinien odpowiadać lokal podmiotu wykonującego czynności z zakresu zaopatrzenia w środki pomocnicze i wyroby medyczne będące przedmiotami ortopedycznymi (Dz. U. Nr 231, poz. 2327), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 85 ust. 1 pkt 3 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. Nr 122, poz. 696, z 2012 r. poz. 95 i 742 oraz z 2013 r. poz. 766 i 1290).
 
 ## Załącznik nr 1 — – Wykaz sprzętu stanowiącego wyposażenie lokalu podmiotu wykonującego czynności z zakresu zaopatrzenia w wyroby medyczne dostępne na zlecenie z zakresu protetyki słuchu
 

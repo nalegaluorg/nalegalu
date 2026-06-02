@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-10 |
 | Data wydania | 2024-04-18 |
-| Wejście w życie | 2024-04-21 |
 | Ostatnia zmiana | 2024-04-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000587) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/587/text.pdf) |
 
@@ -87,5 +86,5 @@ samodzielne stanowisko do spraw audytu wewnętrznego.
 § 7.
 Osoby zajmujące w dniu wejścia w życie niniejszego rozporządzenia stanowiska Dyrektora Biura i zastępców Dyrektora Biura, powołane na te stanowiska na podstawie rozporządzenia Ministra Sprawiedliwości z dnia 16 grudnia 2022 r. w sprawie organu właściwego w sprawach zaopatrzenia emerytalnego funkcjonariuszy Służby Więziennej oraz ich rodzin (Dz. U. poz. 2721 oraz z 2023 r. poz. 515), zachowują swoje stanowiska.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 21 kwietnia 2024 r.
+Rozporządzenie wchodzi w życie z dniem 21 kwietnia 2024 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 16 grudnia 2022 r. w sprawie organu właściwego w sprawach zaopatrzenia emerytalnego funkcjonariuszy Służby Więziennej oraz ich rodzin (Dz. U. poz. 2721 oraz z 2023 r. poz. 515), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 28 ustawy z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 16 grudnia 2022 r. w sprawie organu właściwego w sprawach zaopatrzenia emerytalnego funkcjonariuszy Służby Więziennej oraz ich rodzin (Dz. U. poz. 2721 oraz z 2023 r. poz. 515), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 28 ustawy z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 14 lipca 2017 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 14 lipca 2017 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-14 |
 | Data wydania | 2017-08-02 |
-| Wejście w życie | 2017-08-17 |
 | Ostatnia zmiana | 2025-10-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001478) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1478/text.pdf) |
 
@@ -42,9 +41,9 @@ szczegółowe wymagania, jakim powinna odpowiadać umowa o przyznaniu pomocy, zw
 przypadki, w których następcy prawnemu beneficjenta albo nabywcy gospodarstwa rolnego lub jego części jest przyznawana pomoc, oraz warunki i tryb przyznawania tej pomocy.
 § 2.
 1.
-Pomoc przyznaje się rolnikowi, o którym mowa w art. 18 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.) , zwanego dalej „rozporządzeniem nr 1305/2013”:
+Pomoc przyznaje się rolnikowi, o którym mowa w art. 18 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 1 i Dz. Urz. UE L 129 z 19.05.2017, str. 1.) , zwanego dalej „rozporządzeniem nr 1305/2013”:
 1)
-który jest posiadaczem samoistnym lub zależnym nieruchomości położonej na terytorium Rzeczypospolitej Polskiej na obszarze wymienionym w części I, II lub III załącznika do decyzji wykonawczej Komisji 2014/709/UE z dnia 9 października 2014 r. w sprawie środków kontroli w zakresie zdrowia zwierząt w odniesieniu do afrykańskiego pomoru świń w niektórych państwach członkowskich i uchylającej decyzję wykonawczą 2014/178/UE (Dz. Urz. UE L 295 z 11.10.2014, str. 63, z późn. zm.) ;
+który jest posiadaczem samoistnym lub zależnym nieruchomości położonej na terytorium Rzeczypospolitej Polskiej na obszarze wymienionym w części I, II lub III załącznika do decyzji wykonawczej Komisji 2014/709/UE z dnia 9 października 2014 r. w sprawie środków kontroli w zakresie zdrowia zwierząt w odniesieniu do afrykańskiego pomoru świń w niektórych państwach członkowskich i uchylającej decyzję wykonawczą 2014/178/UE (Dz. Urz. UE L 295 z 11.10.2014, str. 63, z późn. zm.Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 41 z 17.02.2015, str. 46, Dz. Urz. UE L 92 z 08.04.2015, str. 109, Dz. Urz. UE L 129 z 27.05.2015, str. 41, Dz. Urz. UE L 188 z 16.07.2015, str. 45, Dz. Urz. UE L 203 z 31.07.2015, str. 14, Dz. Urz. UE L 211 z 08.08.2015, str. 34, Dz. Urz. UE L 218 z 19.08.2015, str. 16, Dz. Urz. UE L 224 z 27.08.2015, str. 39, Dz. Urz. UE L 259 z 06.10.2015, str. 27, Dz. Urz. UE L 334 z 22.12.2015, str. 46, Dz. Urz. UE L 35 z 11.02.2016, str. 12, Dz. Urz. UE L 80 z 31.03.2016, str. 36, Dz. Urz. UE L 142 z 31.05.2016, str. 14, Dz. Urz. UE L 202 z 28.07.2016, str. 45, Dz. Urz. UE L 217 z 12.08.2016, str. 38, Dz. Urz. UE L 228 z 23.08.2016, str. 33, Dz. Urz. UE L 234 z 31.08.2016, str. 12, Dz. Urz. UE L 270 z 05.10.2016, str. 17, Dz. Urz. UE L 293 z 28.10.2016, str. 46, Dz. Urz. UE L 334 z 09.12.2016, str. 40, Dz. Urz. UE L 32 z 07.02.2017, str. 40, Dz. Urz. UE L 50 z 28.02.2017, str. 82, Dz. Urz. UE L 80 z 25.03.2017, str. 35, Dz. Urz. UE L 114 z 03.05.2017, str. 26 i Dz. Urz. UE L 172 z 05.07.2017, str. 16.) ;
 2)
 który prowadzi chów lub hodowlę nie mniej niż 300 świń na obszarze, o którym mowa w pkt 1;
 3)
@@ -58,7 +57,7 @@ pełnoletni.
 3.
 Warunki przyznania pomocy, o których mowa w ust. 1 pkt 1 i 2 i ust. 2, powinny być spełnione co najmniej od dnia złożenia wniosku o przyznanie pomocy.
 4.
-W przypadku rolnika będącego osobą prawną albo spółką osobową w rozumieniu ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2016 r. poz. 1578, z późn. zm.), pomoc jest przyznawana, jeżeli poza warunkami wymienionymi w ust. 1 jest ponadto wpisany do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym co najmniej od dnia złożenia wniosku o przyznanie pomocy, a w przypadku przedsiębiorcy zagranicznego będącego osobą prawną albo jednostką organizacyjną niebędącą osobą prawną posiadającą zdolność prawną, który wykonuje działalność gospodarczą na terytorium Rzeczypospolitej Polskiej w ramach oddziału – jeżeli poza warunkami wymienionymi w ust. 1 jego oddział jest ponadto wpisany do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym co najmniej od dnia złożenia wniosku o przyznanie pomocy.
+W przypadku rolnika będącego osobą prawną albo spółką osobową w rozumieniu ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2016 r. poz. 1578, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1579, 2255 i 2260 oraz z 2017 r. poz. 791, 1089 i 1133.), pomoc jest przyznawana, jeżeli poza warunkami wymienionymi w ust. 1 jest ponadto wpisany do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym co najmniej od dnia złożenia wniosku o przyznanie pomocy, a w przypadku przedsiębiorcy zagranicznego będącego osobą prawną albo jednostką organizacyjną niebędącą osobą prawną posiadającą zdolność prawną, który wykonuje działalność gospodarczą na terytorium Rzeczypospolitej Polskiej w ramach oddziału – jeżeli poza warunkami wymienionymi w ust. 1 jego oddział jest ponadto wpisany do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym co najmniej od dnia złożenia wniosku o przyznanie pomocy.
 5.
 W przypadku rolnika będącego wspólnikiem spółki cywilnej, pomoc jest przyznawana, jeżeli numer identyfikacyjny został nadany spółce oraz jeżeli:
 1)
@@ -114,8 +113,7 @@ operacja będzie realizowana nie więcej niż w dwóch etapach, a wykonanie zakr
 a)
 36 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w dwóch etapach,
 b)
-24 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w jednym etapie
-lecz nie później niż do dnia 30 czerwca 2023 r.;
+24 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w jednym etapie – lecz nie później niż do dnia 30 czerwca 2023 r.;
 2)
 złożenie wniosku o płatność pośrednią nastąpi w terminie 24 miesięcy od dnia zawarcia umowy;
 3)
@@ -169,8 +167,7 @@ miała wymiary dostosowane do szerokości i wysokości pojazdów, które przez n
 b)
 zabezpieczyć podłoże przed przesiąkaniem środka dezynfekcyjnego z tej niecki,
 c)
-zabezpieczyć środek dezynfekcyjny przed działaniem czynników zewnętrznych, w tym przez zadaszenie tej niecki
-w celu zapobieżenia rozprzestrzenianiu się afrykańskiego pomoru świń.
+zabezpieczyć środek dezynfekcyjny przed działaniem czynników zewnętrznych, w tym przez zadaszenie tej niecki – w celu zapobieżenia rozprzestrzenianiu się afrykańskiego pomoru świń.
 § 6.
 Wprzypadku podmiotu ubiegającego się o przyznanie pomocy, o którym mowa w § 3, pomoc przyznaje się na operację polegającą na zaopatrzeniu w sprzęt do utrzymywania urządzeń wodnych służących zabezpieczeniu gospodarstw rolnych przed zalaniem, podtopieniem lub nadmiernym uwilgoceniem spowodowanym przez powódź lub deszcz nawalny.
 § 7.
@@ -348,8 +345,7 @@ oświadczenie:
 a)
 właściciela albo współwłaściciela nieruchomości o wyrażeniu zgody na realizację operacji, w przypadku gdy operacja będzie realizowana na nieruchomości niestanowiącej własności podmiotu ubiegającego się o przyznanie pomocy albo stanowiącej współwłasność podmiotu ubiegającego się o przyznanie pomocy – w przypadku rolnika,
 b)
-współposiadacza nieruchomości o wyrażeniu zgody na ubieganie się o przyznanie pomocy przez podmiot ubiegający się o przyznanie pomocy, w przypadku gdy operacja będzie realizowana na nieruchomości stanowiącej przedmiot współposiadania – w przypadku rolnika
-sporządzone na formularzu opracowanym i udostępnionym przez Agencję;
+współposiadacza nieruchomości o wyrażeniu zgody na ubieganie się o przyznanie pomocy przez podmiot ubiegający się o przyznanie pomocy, w przypadku gdy operacja będzie realizowana na nieruchomości stanowiącej przedmiot współposiadania – w przypadku rolnika – sporządzone na formularzu opracowanym i udostępnionym przez Agencję;
 10)
 kopie ostatecznych pozwoleń, zezwoleń lub innych decyzji, w tym dotyczących ocen oddziaływania na środowisko, których uzyskanie jest wymagane przez odrębne przepisy do realizacji inwestycji objętych operacją, a także kopie innych dokumentów potwierdzających spełnienie warunków realizacji inwestycji objętych operacją określonych w odrębnych przepisach – w przypadku gdy w ramach operacji będą realizowane tego typu inwestycje;
 11)
@@ -513,7 +509,7 @@ Wniosek złożony przez podmiot ubiegający się o przyznanie pomocy, o którym 
 1.
 Poza postanowieniami określonymi w art. 36 ust. 1 ustawy umowa może zawierać inne postanowienia dotyczące realizacji operacji, w szczególności zobowiązania beneficjenta dotyczące:
 1)
-zapewnienia trwałości operacji zgodnie z art. 71 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.) ;
+zapewnienia trwałości operacji zgodnie z art. 71 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 338 z 13.12.2016, str. 34 i Dz. Urz. UE L 129 z 19.05.2017, str. 1.) ;
 2)
 osiągnięcia wskaźnika realizacji celu operacji;
 3)
@@ -676,6 +672,5 @@ uwzględnione w oddzielnym systemie rachunkowości albo gdy do ich identyfikacji
 3.
 Do przyznawania i wypłaty środków finansowych z tytułu kosztów ogólnych, o których mowa w ust. 1 i 2, przepisu § 24 ust. 2 nie stosuje się.
 § 35.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 1 i Dz. Urz. UE L 129 z 19.05.2017, str. 1. 3) Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 41 z 17.02.2015, str. 46, Dz. Urz. UE L 92 z 08.04.2015, str. 109, Dz. Urz. UE L 129 z 27.05.2015, str. 41, Dz. Urz. UE L 188 z 16.07.2015, str. 45, Dz. Urz. UE L 203 z 31.07.2015, str. 14, Dz. Urz. UE L 211 z 08.08.2015, str. 34, Dz. Urz. UE L 218 z 19.08.2015, str. 16, Dz. Urz. UE L 224 z 27.08.2015, str. 39, Dz. Urz. UE L 259 z 06.10.2015, str. 27, Dz. Urz. UE L 334 z 22.12.2015, str. 46, Dz. Urz. UE L 35 z 11.02.2016, str. 12, Dz. Urz. UE L 80 z 31.03.2016, str. 36, Dz. Urz. UE L 142 z 31.05.2016, str. 14, Dz. Urz. UE L 202 z 28.07.2016, str. 45, Dz. Urz. UE L 217 z 12.08.2016, str. 38, Dz. Urz. UE L 228 z 23.08.2016, str. 33, Dz. Urz. UE L 234 z 31.08.2016, str. 12, Dz. Urz. UE L 270 z 05.10.2016, str. 17, Dz. Urz. UE L 293 z 28.10.2016, str. 46, Dz. Urz. UE L 334 z 09.12.2016, str. 40, Dz. Urz. UE L 32 z 07.02.2017, str. 40, Dz. Urz. UE L 50 z 28.02.2017, str. 82, Dz. Urz. UE L 80 z 25.03.2017, str. 35, Dz. Urz. UE L 114 z 03.05.2017, str. 26 i Dz. Urz. UE L 172 z 05.07.2017, str. 16. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1579, 2255 i 2260 oraz z 2017 r. poz. 791, 1089 i 1133. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 338 z 13.12.2016, str. 34 i Dz. Urz. UE L 129 z 19.05.2017, str. 1.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 1 i Dz. Urz. UE L 129 z 19.05.2017, str. 1. 3) Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 41 z 17.02.2015, str. 46, Dz. Urz. UE L 92 z 08.04.2015, str. 109, Dz. Urz. UE L 129 z 27.05.2015, str. 41, Dz. Urz. UE L 188 z 16.07.2015, str. 45, Dz. Urz. UE L 203 z 31.07.2015, str. 14, Dz. Urz. UE L 211 z 08.08.2015, str. 34, Dz. Urz. UE L 218 z 19.08.2015, str. 16, Dz. Urz. UE L 224 z 27.08.2015, str. 39, Dz. Urz. UE L 259 z 06.10.2015, str. 27, Dz. Urz. UE L 334 z 22.12.2015, str. 46, Dz. Urz. UE L 35 z 11.02.2016, str. 12, Dz. Urz. UE L 80 z 31.03.2016, str. 36, Dz. Urz. UE L 142 z 31.05.2016, str. 14, Dz. Urz. UE L 202 z 28.07.2016, str. 45, Dz. Urz. UE L 217 z 12.08.2016, str. 38, Dz. Urz. UE L 228 z 23.08.2016, str. 33, Dz. Urz. UE L 234 z 31.08.2016, str. 12, Dz. Urz. UE L 270 z 05.10.2016, str. 17, Dz. Urz. UE L 293 z 28.10.2016, str. 46, Dz. Urz. UE L 334 z 09.12.2016, str. 40, Dz. Urz. UE L 32 z 07.02.2017, str. 40, Dz. Urz. UE L 50 z 28.02.2017, str. 82, Dz. Urz. UE L 80 z 25.03.2017, str. 35, Dz. Urz. UE L 114 z 03.05.2017, str. 26 i Dz. Urz. UE L 172 z 05.07.2017, str. 16. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1579, 2255 i 2260 oraz z 2017 r. poz. 791, 1089 i 1133. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 338 z 13.12.2016, str. 34 i Dz. Urz. UE L 129 z 19.05.2017, str. 1.
 

@@ -31,13 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 24 stycznia 2005 r. w sprawie szczegółowego sposobu przeprowadzenia egzaminu na tłumacza przysięgłego (Dz. U. poz. 129), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 30 października 2018 r. zmieniającym rozporządzenie w sprawie szczegółowego sposobu przeprowadzenia egzaminu na tłumacza przysięgłego (Dz. U. poz. 2138).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Sprawiedliwości z dnia 30 października 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego sposobu przeprowadzenia egzaminu na tłumacza przysięgłego (Dz. U. poz. 2138), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Sprawiedliwości z dnia 30 października 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego sposobu przeprowadzenia egzaminu na tłumacza przysięgłego (Dz. U. poz. 2138), które stanowią: „
 § 2.
 Do egzaminów przeprowadzanych na dotychczasowych zasadach i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 24 stycznia 2005 r. w sprawie szczegółowego sposobu przeprowadzenia egzaminu na tłumacza przysięgłego
 Na podstawie art. 4 ust. 7 ustawy z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego (Dz. U. z 2019 r. poz. 1326) zarządza się, co następuje:
 § 1.
@@ -47,7 +45,7 @@ Egzamin na tłumacza przysięgłego, zwany dalej „egzaminem”, jest przeprowa
 Termin i miejsce egzaminu wyznacza Przewodniczący Komisji.
 2.
 Przewodniczący Komisji powiadamia kandydata na tłumacza przysięgłego, zwanego dalej „kandydatem”, o terminie i miejscu egzaminu nie później niż na 21 dni przed dniem egzaminu.
-§ 3.
+§ 3W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 30 października 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego sposobu przeprowadzenia egzaminu na tłumacza przysięgłego (Dz. U. poz. 2138), które weszło w życie z dniem 29 listopada 2018 r..
 1.
 W trakcie części pisemnej egzaminu kandydat nie może korzystać z materiałów pomocniczych, z wyjątkiem przyniesionych przez siebie słowników, glosariuszy, leksykonów i encyklopedii w postaci papierowej.
 2.
@@ -71,7 +69,7 @@ W trakcie egzaminu osoba, która do niego przystąpiła, może opuścić salę e
 Przewodniczący zespołu egzaminacyjnego powiadamia osoby przystępujące do egzaminu o treści przepisów § 3, § 4 ust. 2 oraz § 5 ust. 3.
 § 7.
 1.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 1)
 dwóch z języka polskiego na język obcy, w tym jednego, który jest pismem sądowym, urzędowym lub tekstem prawniczym;
 2)
@@ -82,7 +80,7 @@ Pisemna praca egzaminacyjna zostaje opatrzona kodem cyfrowym. Praca zostaje odko
 5.
 Na pracy pisemnej kandydatowi nie wolno umieszczać swojego nazwiska ani żadnych innych danych pozwalających ustalić jego tożsamość.
 § 8.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 1..
 Po przeprowadzeniu części pisemnej egzaminu zespół egzaminacyjny ustala jego wynik stanowiący sumę punktów przyznawanych dla każdego z 4 tekstów, osobno, w zakresie umiejętności językowych i tłumaczeniowych; za umiejętności:
 1)
 tłumaczeniowe przyznaje się do 25 punktów:
@@ -94,7 +92,7 @@ c)
 za stronę formalną tłumaczenia (znajomość formalnych zasad wykonywania tłumaczeń poświadczonych);
 2)
 językowe przyznaje się do 25 punktów, w szczególności za poprawność interpunkcyjną, ortograficzną, gramatyczną, leksykalną (leksyka niespecjalistyczna) i stylistyczną.
-1a.
+1aDodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 W przypadku popełnienia przez kandydata błędu powodującego istotne naruszenie sensu tekstu źródłowego (błąd krytyczny) można obniżyć punktację o nie więcej niż 10 punktów w kategorii umiejętności tłumaczeniowych za każdy taki błąd.
 2.
 Maksymalna liczba punktów możliwa do uzyskania przez kandydata z części pisemnej egzaminu wynosi 200 punktów.
@@ -107,16 +105,16 @@ Do części ustnej egzaminu dopuszcza się kandydatów, którzy uzyskali ocenę 
 3.
 Przewodniczący Komisji może w wyjątkowych wypadkach wyznaczyć termin części ustnej egzaminu w terminie krótszym niż określony w ust. 1.
 § 10.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1..
 1)
 a vista (kandydat otrzymuje do tłumaczenia tekst w formie pisemnej) z języka obcego na język polski dwóch tekstów, w tym jednego, który jest pismem sądowym, urzędowym lub tekstem prawniczym;
 2)
 konsekutywnym (egzaminator odczytuje lub odtwarza tekst z przerwami na tłumaczenie) z języka polskiego na język obcy dwóch tekstów, w tym jednego, który jest pismem sądowym, urzędowym lub tekstem prawniczym.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1..
 Teksty do tłumaczenia a vista są wręczane kandydatowi bezpośrednio przed tłumaczeniem, przy czym kandydat otrzymuje 2 minuty na przeczytanie tych tekstów przed rozpoczęciem tłumaczenia.
 3.
 § 11.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 1..
 Po przeprowadzeniu części ustnej egzaminu zespół egzaminacyjny ustala jego wynik stanowiący sumę punktów przyznawanych dla każdego z 4 tekstów, osobno, w zakresie umiejętności językowych i tłumaczeniowych; za umiejętności:
 1)
 tłumaczeniowe przyznaje się do 25 punktów:
@@ -126,7 +124,7 @@ b)
 za stronę terminologiczną tłumaczenia (terminologia i frazeologia języka specjalistycznego);
 2)
 językowe przyznaje się do 25 punktów, w szczególności za poprawność gramatyczną, leksykalną (leksyka niespecjalistyczna), stylistyczną, fonetyczno-intonacyjną, dykcję i płynność wypowiedzi.
-1a.
+1aDodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 W przypadku popełnienia przez kandydata błędu krytycznego można obniżyć punktację o nie więcej niż 10 punktów w kategorii umiejętności tłumaczeniowych za każdy taki błąd.
 2.
 Maksymalna liczba punktów możliwa do uzyskania przez kandydata z części pisemnej egzaminu wynosi 200 punktów.
@@ -142,7 +140,7 @@ Przewodniczący zespołu egzaminacyjnego przekazuje protokół oraz utrwalony za
 4.
 Kopia protokołu jest przekazywana Ministrowi Sprawiedliwości, który na jego podstawie wydaje niezwłocznie świadectwa potwierdzające nabycie uprawnień do wykonywania zawodu tłumacza przysięgłego.
 § 13.
-Rozporządzenie wchodzi w życie z dniem 27 stycznia 2005 r.
+Rozporządzenie wchodzi w życie z dniem 27 stycznia 2005 r. 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 30 października 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego sposobu przeprowadzenia egzaminu na tłumacza przysięgłego (Dz. U. poz. 2138), które weszło w życie z dniem 29 listopada 2018 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 1. 4) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 1. 5) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1. 6) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 1. 7) Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 1.
 
 ## Część pisemną egzaminu przeprowadza się w wydzielonej sali, w warunkach zapewniających samodzielną pracę osób, które do niego przystąpiły.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-08-30 |
 | Data wydania | 2002-09-18 |
-| Wejście w życie | 2002-10-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021521265) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1265/text.pdf) |
 
@@ -155,7 +154,7 @@ source: "eli-html"
 
 - **1)** skrócony opis wytwarzania produktu leczniczego,
 - **2)** opis metod kontroli stosowanych w procesie wytwarzania, w tym metod badania analitycznego, ilościowego i jakościowego składników i gotowego produktu leczniczego, a także testów specjalnych w zakresie: jałowości, obecności substancji gorączkotwórczych lub endotoksyn, metali ciężkich, testów biologicznych i toksyczności oraz testów przeprowadzanych w poszczególnych etapach procesu wytwarzania,
-- **3)** wyniki, streszczenia oraz sprawozdania z badań: jakościowych, biologicznych, mikrobiologicznych, farmakologicznych i toksykologicznych, klinicznych wraz z raportami ekspertów,
+- **3)** wyniki, streszczenia oraz sprawozdania z badań: jakościowych, biologicznych, mikrobiologicznych, farmakologicznych i toksykologicznych, klinicznych – wraz z raportami ekspertów,
     - **a)**
     - **b)**
     - **c)**
@@ -216,7 +215,7 @@ source: "eli-html"
 
 - **1)** zbyt małej liczby przypadków występowania schorzenia, w których określony produkt leczniczy mógłby być przebadany, aby umożliwić dostarczenie pełnych danych,
 - **2)** niewłaściwego stanu wiedzy w zakresie ocenianych właściwości,
-- **3)** niemożliwości prowadzenia badań ze względów etycznych minister właściwy do spraw zdrowia może wydać pozwolenie na dopuszczenie do obrotu pod warunkami określonymi w ust. 2.
+- **3)** niemożliwości prowadzenia badań ze względów etycznych – minister właściwy do spraw zdrowia może wydać pozwolenie na dopuszczenie do obrotu pod warunkami określonymi w ust. 2.
 
 2. Minister właściwy do spraw zdrowia może wydać pozwolenie, o którym mowa w ust. 1, o ile:
 
@@ -263,7 +262,7 @@ source: "eli-html"
 
 - **1)** są podawane doustnie lub zewnętrznie,
 - **2)** w oznakowaniu i ulotce nie zawierają wskazań do stosowania,
-- **3)** charakteryzują się odpowiednim stopniem rozcieńczenia, gwarantującym bezpieczeństwo stosowania; to jest nie zawierają więcej niż 1/10 000 części roztworu macierzystego lub nie więcej niż 1/100 najmniejszej dawki substancji czynnej zawartej w produkcie leczniczym wydawanym na podstawie recepty podlegają uproszczonej procedurze dopuszczenia do obrotu.
+- **3)** charakteryzują się odpowiednim stopniem rozcieńczenia, gwarantującym bezpieczeństwo stosowania; to jest nie zawierają więcej niż 1/10 000 części roztworu macierzystego lub nie więcej niż 1/100 najmniejszej dawki substancji czynnej zawartej w produkcie leczniczym wydawanym na podstawie recepty – podlegają uproszczonej procedurze dopuszczenia do obrotu.
 
 2. Wniosek o dopuszczenie do obrotu produktów, o których mowa w ust. 1, powinien zawierać w szczególności:
 
@@ -292,7 +291,7 @@ source: "eli-html"
 4. Produkty homeopatyczne weterynaryjne podlegają także uproszczonej procedurze dopuszczania do obrotu, o ile:
 
 - **1)** ich oznakowanie nie zawiera wskazań do stosowania,
-- **2)** charakteryzują się odpowiednim stopniem rozcieńczenia, gwarantującym bezpieczeństwo stosowania; to jest nie zawierają więcej niż 1/10 000 części roztworu macierzystego lub nie więcej niż 1/100 najmniejszej dawki substancji czynnej zawartej w produkcie leczniczym wydawanym na podstawie recepty lekarza weterynarii z wyłączeniem produktów stosowanych u zwierząt, których tkanki lub produkty przeznaczone są do spożycia.
+- **2)** charakteryzują się odpowiednim stopniem rozcieńczenia, gwarantującym bezpieczeństwo stosowania; to jest nie zawierają więcej niż 1/10 000 części roztworu macierzystego lub nie więcej niż 1/100 najmniejszej dawki substancji czynnej zawartej w produkcie leczniczym wydawanym na podstawie recepty lekarza weterynarii – z wyłączeniem produktów stosowanych u zwierząt, których tkanki lub produkty przeznaczone są do spożycia.
 
 5. Wniosek o dopuszczenie do obrotu produktów, o których mowa w ust. 4, powinien zawierać w szczególności:
 
@@ -336,8 +335,10 @@ source: "eli-html"
 
 - **1)** jednostki zajmujące się badaniami produktów leczniczych i produktów leczniczych weterynaryjnych, uwzględniając w szczególności zakres badań, jakie powinny być wykonane dla oceny jakości produktu leczniczego, kwalifikacje personelu zatrudnionego w danej jednostce, doświadczenie w zakresie analizy produktów leczniczych,
 - **2)** cennik opłat pobieranych za badania jakościowe, o których mowa w ust. 1, uwzględniając w szczególności zakres przeprowadzanych badań, nakład środków związanych z badaniem oraz rodzaj produktu poddanego badaniu. ” ;
-- **19)** w art. 23: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) nazwę i adres wytwórcy, u którego następuje zwolnienie serii produktu leczniczego, miejsca wytwarzania, gdzie następuje zwolnienie jego serii, ” , – w pkt 3 po wyrazach „jego postać,” dodaje się wyrazy „, drogę podania, moc,” po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **19)** w art. 23: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** nazwę i adres wytwórcy, u którego następuje zwolnienie serii produktu leczniczego, miejsca wytwarzania, gdzie następuje zwolnienie jego serii, ” , – w pkt 3 po wyrazach „jego postać,” dodaje się wyrazy „, drogę podania, moc,” po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Dane objęte pozwoleniem są jawne. ” , w ust. 2 wyrazy „charakterystyki produktu leczniczego,” zastępuje się wyrazami „Charakterystyki Produktu Leczniczego,”;
@@ -400,13 +401,17 @@ source: "eli-html"
 
 8. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, tryb i sposób uznawania zezwoleń, o których mowa w ust. 4, uwzględniając w szczególności spełnienie wymagań Dobrej Praktyki Wytwarzania. ” ;
 
-- **31)** w art. 39: w ust. 1 w pkt 1 wyrazy „miejsce wytwarzania i kontroli” zastępuje się wyrazami „miejsca wytwarzania, zakres wytwarzania oraz miejsca kontroli” oraz wyrazy „formę farmaceutyczną” zastępuje się wyrazami „postać farmaceutyczną”, w ust. 2 po wyrazach „wydaje się” dodaje się wyrazy „na czas nieokreślony”, w ust. 4: – pkt 3 otrzymuje brzmienie: „ 3) wzór wniosku o udzielenie zezwolenia na wytwarzanie produktów leczniczych, z uwzględnieniem dokumentów potwierdzających dane, o których mowa w ust. 1, oraz rodzaje dokumentów dołączonych do wniosku, uwzględniając rodzaj produktu leczniczego oraz zakres wytwarzania objęty zezwoleniem, ” , – dodaje się pkt 4 w brzmieniu: „ 4) wzór wniosku o zmianę zezwolenia na wytwarzanie produktu leczniczego, z uwzględnieniem danych dotyczących zmian. ” ;
+- **31)** w art. 39: w ust. 1 w pkt 1 wyrazy „miejsce wytwarzania i kontroli” zastępuje się wyrazami „miejsca wytwarzania, zakres wytwarzania oraz miejsca kontroli” oraz wyrazy „formę farmaceutyczną” zastępuje się wyrazami „postać farmaceutyczną”, w ust. 2 po wyrazach „wydaje się” dodaje się wyrazy „na czas nieokreślony”, w ust. 4: pkt 3 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **c)**
 
-- **32)** w art. 40: w ust. 1: – w pkt 2 wyraz „miejsca” zastępuje się wyrazem „miejsc”, – pkt 4 otrzymuje brzmienie: „ 4) szczegółowy zakres wytwarzania objęty zezwoleniem, ” , dodaje się ust. 3 w brzmieniu: „
+- **3)** wzór wniosku o udzielenie zezwolenia na wytwarzanie produktów leczniczych, z uwzględnieniem dokumentów potwierdzających dane, o których mowa w ust. 1, oraz rodzaje dokumentów dołączonych do wniosku, uwzględniając rodzaj produktu leczniczego oraz zakres wytwarzania objęty zezwoleniem, ” , dodaje się pkt 4 w brzmieniu: „
+- **4)** wzór wniosku o zmianę zezwolenia na wytwarzanie produktu leczniczego, z uwzględnieniem danych dotyczących zmian. ” ;
+- **32)** w art. 40: w ust. 1: – w pkt 2 wyraz „miejsca” zastępuje się wyrazem „miejsc”, pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** szczegółowy zakres wytwarzania objęty zezwoleniem, ” , dodaje się ust. 3 w brzmieniu: „
     - **b)**
 
 3. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzór zezwolenia, uwzględniając w szczególności dane określone w ust. 1. ” ;
@@ -441,8 +446,10 @@ source: "eli-html"
 - **39)** w art. 52: w ust. 2 pkt 6 otrzymuje brzmienie: „
     - **a)**
 
-- **6)** sponsorowanie konferencji, zjazdów i kongresów naukowych dla osób upoważnionych do wystawiania recept i osób zaopatrujących w produkty lecznicze. ” , w ust. 3: – w pkt 2 wyrazy „charakterystyki produktu leczniczego,” zastępuje się wyrazami „Charakterystyki Produktu Leczniczego,”, – dodaje się pkt 5 w brzmieniu: „ 5) udostępnienie Charakterystyki Produktu Leczniczego. ” , dodaje się ust. 4 w brzmieniu: „
+- **6)** sponsorowanie konferencji, zjazdów i kongresów naukowych dla osób upoważnionych do wystawiania recept i osób zaopatrujących w produkty lecznicze. ” , w ust. 3: – w pkt 2 wyrazy „charakterystyki produktu leczniczego,” zastępuje się wyrazami „Charakterystyki Produktu Leczniczego,”, dodaje się pkt 5 w brzmieniu: „
     - **b)**
+
+- **5)** udostępnienie Charakterystyki Produktu Leczniczego. ” , dodaje się ust. 4 w brzmieniu: „
     - **c)**
 
 4. Reklamę, o której mowa w ust. 1, uznaje się za reklamę publiczną w rozumieniu ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363 oraz z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820 i Nr 141, poz. 1179) oraz ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509 oraz z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715, Nr 89, poz. 804, Nr 135, poz. 1146 i Nr 141, poz. 1182). ” ;
@@ -498,9 +505,10 @@ source: "eli-html"
 
 - **b)**
 
-5. Kontrolę seryjną wstępną, o której mowa w ust. 4, wykonują jednostki badawczo-rozwojowe oraz laboratoria kontroli jakości leków. ” , w ust. 10: – w pkt 2 wyrazy „w ust. 4 i 7” zastępuje się wyrazami „w ust. 4 pkt 1 i 3 oraz ust. 7”, – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) laboratoria kontroli jakości leków specjalizujące się w badaniach produktów, o których mowa w ust. 4 pkt 2, uwzględniając w szczególności spełnienie przez te podmioty wymagań Dobrej Praktyki Klinicznej w zakresie kontroli laboratoryjnej, ” ;
+5. Kontrolę seryjną wstępną, o której mowa w ust. 4, wykonują jednostki badawczo-rozwojowe oraz laboratoria kontroli jakości leków. ” , w ust. 10: – w pkt 2 wyrazy „w ust. 4 i 7” zastępuje się wyrazami „w ust. 4 pkt 1 i 3 oraz ust. 7”, po pkt 2 dodaje się pkt 2a w brzmieniu: „
 
 - **c)**
+- **2a)** laboratoria kontroli jakości leków specjalizujące się w badaniach produktów, o których mowa w ust. 4 pkt 2, uwzględniając w szczególności spełnienie przez te podmioty wymagań Dobrej Praktyki Klinicznej w zakresie kontroli laboratoryjnej, ” ;
 - **50)** w art. 68: w ust. 3 na końcu dodaje się wyrazy „w ramach obrotu detalicznego”, w ust. 4 skreśla się wyrazy „lub lekarza weterynarii”, w ust. 7 pkt 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
@@ -512,9 +520,10 @@ source: "eli-html"
 
 1a. Lekarz weterynarii w celu ratowania życia lub zdrowia zwierząt, a w szczególności ograniczenia cierpienia zwierząt, stosuje produkty lecznicze weterynaryjne.
 
-1b. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia, sposób postępowania przy stosowaniu produktów leczniczych w sytuacji, gdy brak jest odpowiedniego weterynaryjnego produktu leczniczego dopuszczonego do obrotu dla danego gatunku zwierząt, uwzględniając w szczególności konieczność zapewnienia, że żywność pochodząca od leczonych zwierząt nie zawiera pozostałości szkodliwych dla konsumenta. ” , w ust. 2: – w zdaniu wstępnym po wyrazie „przeciwbakteryjne” dodaje się wyraz „, przeciwpasożytnicze”, – dodaje się pkt 6 w brzmieniu: „ 6) okres karencji określony w pozwoleniu. ” ;
+1b. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia, sposób postępowania przy stosowaniu produktów leczniczych w sytuacji, gdy brak jest odpowiedniego weterynaryjnego produktu leczniczego dopuszczonego do obrotu dla danego gatunku zwierząt, uwzględniając w szczególności konieczność zapewnienia, że żywność pochodząca od leczonych zwierząt nie zawiera pozostałości szkodliwych dla konsumenta. ” , w ust. 2: – w zdaniu wstępnym po wyrazie „przeciwbakteryjne” dodaje się wyraz „, przeciwpasożytnicze”, dodaje się pkt 6 w brzmieniu: „
 
 - **b)**
+- **6)** okres karencji określony w pozwoleniu. ” ;
 - **52)** w art. 70: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
@@ -586,10 +595,12 @@ source: "eli-html"
 
 - **b)**
 
-2a. Jeżeli kierownik nie ma specjalizacji z zakresu farmacji aptecznej, w aptece musi być zatrudniony, w pełnym wymiarze czasu pracy, przynajmniej jeden farmaceuta posiadający taką specjalizację. ” , w ust. 4 wyraz „aptekarza” zastępuje się wyrazami „farmaceutę, o którym mowa w ust. 1,”, w ust. 5: – pkt 1 otrzymuje brzmienie: „ 1) organizacja pracy w aptece, polegająca między innymi na przyjmowaniu, wydawaniu, przechowywaniu i identyfikacji produktów leczniczych i wyrobów medycznych, prawidłowym sporządzaniu leków recepturowych i leków aptecznych oraz udzielaniu informacji o lekach, ” , – w pkt 5 po wyrazach „leczniczych i” dodaje się wyrazy „określonych odrębnymi przepisami”, – w pkt 7 wyrazy „rejestru aptekarzy” zastępuje się wyrazami „rejestru farmaceutów”, – dodaje się pkt 8 w brzmieniu: „ 8) wstrzymywanie lub wycofywanie z obrotu i stosowania produktów leczniczych po uzyskaniu decyzji właściwego organu. ” ;
+2a. Jeżeli kierownik nie ma specjalizacji z zakresu farmacji aptecznej, w aptece musi być zatrudniony, w pełnym wymiarze czasu pracy, przynajmniej jeden farmaceuta posiadający taką specjalizację. ” , w ust. 4 wyraz „aptekarza” zastępuje się wyrazami „farmaceutę, o którym mowa w ust. 1,”, w ust. 5: pkt 1 otrzymuje brzmienie: „
 
 - **c)**
 - **d)**
+- **1)** organizacja pracy w aptece, polegająca między innymi na przyjmowaniu, wydawaniu, przechowywaniu i identyfikacji produktów leczniczych i wyrobów medycznych, prawidłowym sporządzaniu leków recepturowych i leków aptecznych oraz udzielaniu informacji o lekach, ” , – w pkt 5 po wyrazach „leczniczych i” dodaje się wyrazy „określonych odrębnymi przepisami”, – w pkt 7 wyrazy „rejestru aptekarzy” zastępuje się wyrazami „rejestru farmaceutów”, dodaje się pkt 8 w brzmieniu: „
+- **8)** wstrzymywanie lub wycofywanie z obrotu i stosowania produktów leczniczych po uzyskaniu decyzji właściwego organu. ” ;
 - **63)** art. 89 otrzymuje brzmienie: „
 
 **Art. 89.**
@@ -688,16 +699,22 @@ source: "eli-html"
 
 6. Przepis ust. 4a nie dotyczy farmaceuty posiadającego uprawnienia, o których mowa w art. 88 ust. 2. ” ;
 
-- **68)** w art. 100: w ust. 1: – zdanie wstępne otrzymuje brzmienie „Podmioty, o których mowa w art. 99 ust. 4, występujące o zezwolenie na prowadzenie apteki ogólnodostępnej składają wniosek zawierający:”, – pkt 1 i 2 otrzymują brzmienie: „ 1) oznaczenie podmiotu, jego siedzibę i adres, a w przypadku osoby fizycznej imię, nazwisko oraz adres, 2) NIP oraz numer PESEL, w przypadku gdy podmiot jest osobą fizyczną, ” , – w pkt 6 wyrazy „osoby składającej” zastępuje się wyrazem „składającego”, w ust. 2 w pkt 5 wyraz „aptekarza” zastępuje się wyrazem „farmaceuty”, w ust. 3 skreśla się wyraz „farmaceuta”;
+- **68)** w art. 100: w ust. 1: – zdanie wstępne otrzymuje brzmienie „Podmioty, o których mowa w art. 99 ust. 4, występujące o zezwolenie na prowadzenie apteki ogólnodostępnej składają wniosek zawierający:”, pkt 1 i 2 otrzymują brzmienie: „
     - **a)**
+
+- **1)** oznaczenie podmiotu, jego siedzibę i adres, a w przypadku osoby fizycznej imię, nazwisko oraz adres,
+- **2)** NIP oraz numer PESEL, w przypadku gdy podmiot jest osobą fizyczną, ” , – w pkt 6 wyrazy „osoby składającej” zastępuje się wyrazem „składającego”, w ust. 2 w pkt 5 wyraz „aptekarza” zastępuje się wyrazem „farmaceuty”, w ust. 3 skreśla się wyraz „farmaceuta”;
     - **b)**
     - **c)**
 
 - **69)** w art. 101 w pkt 1 po wyrazach „art. 99 ust. 4” dodaje się wyrazy „, 4a i 4b”;
 - **70)** w art. 102 pkt 1 otrzymuje brzmienie: „
 - **1)** nazwę i siedzibę podmiotu, na rzecz którego zostało wydane zezwolenie, a w przypadku osoby fizycznej imię, nazwisko i adres, ” ;
-- **71)** w art. 104: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) śmierci osoby, na rzecz której zostało wydane zezwolenie, jeżeli zezwolenie zostało wydane na rzecz podmiotu będącego osobą fizyczną, ” , – dodaje się pkt 3 w brzmieniu: „ 3) likwidacji osoby prawnej, o ile odrębne przepisy nie stanowią inaczej. ” , skreśla się ust. 3 i 4;
+- **71)** w art. 104: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** śmierci osoby, na rzecz której zostało wydane zezwolenie, jeżeli zezwolenie zostało wydane na rzecz podmiotu będącego osobą fizyczną, ” , dodaje się pkt 3 w brzmieniu: „
+- **3)** likwidacji osoby prawnej, o ile odrębne przepisy nie stanowią inaczej. ” , skreśla się ust. 3 i 4;
     - **b)**
 
 - **72)** w art. 108: w ust. 4 dodaje się pkt 6 w brzmieniu: „

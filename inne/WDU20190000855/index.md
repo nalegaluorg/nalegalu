@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-16 |
 | Data wydania | 2019-05-09 |
-| Wejście w życie | 2019-05-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000855) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/855/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Tryb i termin zgłaszania kandydatów na członków komisji kwalifikacyjnej oraz powoływania i odwoływania członków komisji kwalifikacyjnej Rozdział 3 – Wysokość wynagrodzenia przewodniczącego, zastępcy przewodniczącego i członków komisji kwalifikacyjnej Rozdział 4 – Zakres informacji zawartych w kwestionariuszu osobowym osoby uprawnionej do przystąpienia do egzaminu wstępnego Rozdział 5 – Sposób przeprowadzania egzaminu wstępnego Rozdział 6 – Obsługa administracyjna i techniczna komisji kwalifikacyjnej, przekazywanie środków na obsługę oraz rozliczanie wydatków związanych z tą obsługą Rozdział 7 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 87 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244 oraz z 2019 r. poz. 55 i 730) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -43,6 +43,7 @@ a)
 sposób działania komisji kwalifikacyjnej,
 b)
 sposób zorganizowania obsługi administracyjnej i technicznej komisji kwalifikacyjnej przez izby komornicze, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą.
+Tryb i termin zgłaszania kandydatów na członków komisji kwalifikacyjnej oraz powoływania i odwoływania członków komisji kwalifikacyjnej
 § 2.
 Minister Sprawiedliwości powołuje członków komisji kwalifikacyjnej w terminie do dnia 1 kwietnia danego roku.
 § 3.
@@ -61,8 +62,8 @@ Minister Sprawiedliwości:
 1)
 odwołuje członka komisji kwalifikacyjnej w przypadku, o którym mowa w art. 80 ust. 2 ustawy,
 2)
-może odwołać członka komisji kwalifikacyjnej w przypadku, o którym mowa w art. 80 ust. 3 ustawy
-niezwłocznie po uzyskaniu informacji o zaistnieniu przesłanek wskazanych w tych przepisach, o czym zawiadamia Krajową Radę Komorniczą i przewodniczącego właściwej komisji egzaminacyjnej.
+może odwołać członka komisji kwalifikacyjnej w przypadku, o którym mowa w art. 80 ust. 3 ustawy – niezwłocznie po uzyskaniu informacji o zaistnieniu przesłanek wskazanych w tych przepisach, o czym zawiadamia Krajową Radę Komorniczą i przewodniczącego właściwej komisji egzaminacyjnej.
+Wysokość wynagrodzenia przewodniczącego, zastępcy przewodniczącego i członków komisji kwalifikacyjnej
 § 5.
 1.
 Przewodniczący komisji kwalifikacyjnej za udział w jej pracach z tytułu każdorazowego przeprowadzenia egzaminu wstępnego otrzymuje wynagrodzenie w łącznej wysokości:
@@ -84,6 +85,7 @@ W przypadku odwołania dotychczasowego albo wygaśnięcia członkostwa, i powoł
 Członkowie komisji kwalifikacyjnej niebędący pracownikami administracji rządowej za udział w jej pracach z tytułu każdorazowego przeprowadzenia egzaminu wstępnego otrzymują wynagrodzenie w wysokości 32 zł za każdego zdającego, nie mniej niż 3200 zł i nie więcej niż 6400 zł.
 6.
 Wynagrodzenia, o których mowa w ust. 1‒5, wypłaca się po przeprowadzeniu egzaminu wstępnego, na pisemny wniosek przewodniczącego komisji kwalifikacyjnej lub jego zastępcy dołączony do protokołu z przebiegu egzaminu wstępnego.
+Zakres informacji zawartych w kwestionariuszu osobowym osoby uprawnionej do przystąpienia do egzaminu wstępnego
 § 6.
 Kwestionariusz osobowy osoby uprawnionej do przystąpienia do egzaminu wstępnego zawiera następujące informacje:
 1)
@@ -106,6 +108,7 @@ numer telefonu;
 wskazanie adresu poczty elektronicznej kandydata do doręczeń, a w przypadku jego braku ‒ oświadczenie o nieposiadaniu takiego adresu;
 10)
 dotyczące ukończenia wyższych studiów prawniczych w Rzeczypospolitej Polskiej i uzyskania tytułu magistra lub zagranicznych studiów prawniczych uznanych w Rzeczypospolitej Polskiej.
+Sposób przeprowadzania egzaminu wstępnego
 § 7.
 1.
 Przewodniczący komisji kwalifikacyjnej wyznacza miejsce przeprowadzenia egzaminu wstępnego oraz godziny rejestracji kandydatów.
@@ -170,6 +173,7 @@ W momencie oddania pracy kandydat otrzymuje pokwitowanie odbioru zestawu pytań 
 Z czynności odbioru zestawu pytań testowych wraz z kartą odpowiedzi sporządza się protokół, który zawiera w szczególności godzinę odbioru zestawu pytań testowych wraz z kartą odpowiedzi dla danego numeru kodu i podpis członka komisji kwalifikacyjnej odbierającego zestaw pytań testowych wraz z kartą odpowiedzi.
 § 16.
 Niewykorzystane zestawy pytań testowych wraz z kartami odpowiedzi zwraca się Ministrowi Sprawiedliwości w stanie nienaruszonym. Protokół zwrotu podpisuje przewodniczący komisji kwalifikacyjnej.
+Obsługa administracyjna i techniczna komisji kwalifikacyjnej, przekazywanie środków na obsługę oraz rozliczanie wydatków związanych z tą obsługą
 § 17.
 1.
 Siedzibą komisji kwalifikacyjnej jest siedziba rady właściwej izby komorniczej, zwanej dalej „radą”.
@@ -198,20 +202,35 @@ Właściwa rada przekazuje, nie później niż w terminie 35 dni od zakończenia
 Minister Sprawiedliwości dokonuje ostatecznego rozliczenia wydatków związanych z obsługą administracyjną i techniczną komisji kwalifikacyjnej na podstawie sprawozdania finansowego właściwej rady, o którym mowa w § 20 ust. 2, w terminie 2 miesięcy od dnia jego otrzymania, mając na względzie zasadę racjonalności i celowości wydatków.
 2.
 Wydatki ujęte w sprawozdaniu finansowym należy udokumentować odpowiednio kopiami rachunków, faktur lub innymi dokumentami finansowymi, potwierdzonymi za zgodność z oryginałem przez przewodniczącego lub wiceprzewodniczącego właściwej rady.
+Przepis końcowy
 § 22.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 6 września 2013 r. w sprawie komisji egzaminacyjnych oraz przeprowadzania egzaminów konkursowego i komorniczego (Dz. U. z 2016 r. poz. 82), rozporządzeniem Ministra Sprawiedliwości z dnia 17 grudnia 2014 r. w sprawie wynagrodzenia przewodniczącego i członków komisji do spraw przeprowadzenia egzaminów konkursowego i komorniczego oraz przewodniczącego i członków zespołu do przygotowywania pytań testowych oraz zadań pisemnych na egzamin konkursowy i komorniczy (Dz. U. poz. 1925) oraz rozporządzeniem Ministra Sprawiedliwości z dnia 3 grudnia 2013 r. w sprawie określenia wzoru zgłoszenia o przystąpieniu do egzaminu konkursowego na aplikację komorniczą oraz wniosku o dopuszczenie do egzaminu komorniczego (Dz. U. poz. 1521), które tracą moc w zakresie uregulowanym w niniejszym rozporządzeniu z dniem jego wejścia w życie, na podstawie art. 300 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244 oraz z 2019 r. poz. 55 i 730). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 6 września 2013 r. w sprawie komisji egzaminacyjnych oraz przeprowadzania egzaminów konkursowego i komorniczego (Dz. U. z 2016 r. poz. 82), rozporządzeniem Ministra Sprawiedliwości z dnia 17 grudnia 2014 r. w sprawie wynagrodzenia przewodniczącego i członków komisji do spraw przeprowadzenia egzaminów konkursowego i komorniczego oraz przewodniczącego i członków zespołu do przygotowywania pytań testowych oraz zadań pisemnych na egzamin konkursowy i komorniczy (Dz. U. poz. 1925) oraz rozporządzeniem Ministra Sprawiedliwości z dnia 3 grudnia 2013 r. w sprawie określenia wzoru zgłoszenia o przystąpieniu do egzaminu konkursowego na aplikację komorniczą oraz wniosku o dopuszczenie do egzaminu komorniczego (Dz. U. poz. 1521), które tracą moc w zakresie uregulowanym w niniejszym rozporządzeniu z dniem jego wejścia w życie, na podstawie art. 300 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244 oraz z 2019 r. poz. 55 i 730).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Tryb i termin zgłaszania kandydatów na członków komisji kwalifikacyjnej oraz powoływania i odwoływania członków komisji kwalifikacyjnej
+#### Rozdział 2 – Tryb i termin zgłaszania kandydatów na członków komisji kwalifikacyjnej oraz powoływania i odwoływania członków komisji kwalifikacyjnej
 
-#### Rozdział 3 Wysokość wynagrodzenia przewodniczącego, zastępcy przewodniczącego i członków komisji kwalifikacyjnej
+#### Rozdział 3 – Wysokość wynagrodzenia przewodniczącego, zastępcy przewodniczącego i członków komisji kwalifikacyjnej
 
-#### Rozdział 4 Zakres informacji zawartych w kwestionariuszu osobowym osoby uprawnionej do przystąpienia do egzaminu wstępnego
+#### Rozdział 4 – Zakres informacji zawartych w kwestionariuszu osobowym osoby uprawnionej do przystąpienia do egzaminu wstępnego
 
-#### Rozdział 5 Sposób przeprowadzania egzaminu wstępnego
+#### Rozdział 5 – Sposób przeprowadzania egzaminu wstępnego
 
-#### Rozdział 6 Obsługa administracyjna i techniczna komisji kwalifikacyjnej, przekazywanie środków na obsługę oraz rozliczanie wydatków związanych z tą obsługą
+#### Rozdział 6 – Obsługa administracyjna i techniczna komisji kwalifikacyjnej, przekazywanie środków na obsługę oraz rozliczanie wydatków związanych z tą obsługą
 
-#### Rozdział 7 Przepis końcowy
+#### Rozdział 7 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
 

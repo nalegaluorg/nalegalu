@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 31 marca 2017 r. w sprawie szczegółowych wymagań dotyczących wytwarzania i jakości materiału szkółkarskiego
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 31 marca 2017 r. w sprawie szczegółowych wymagań dotyczących wytwarzania i jakości materiału szkółkarskiego Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-31 |
 | Data wydania | 2017-04-11 |
-| Wejście w życie | 2017-04-26 |
 | Ostatnia zmiana | 2025-05-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000757) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/757/text.pdf) |
 
@@ -37,7 +36,7 @@ Treść rozporządzenia
 ## Załącznik nr 4 — – Zakres dokumentacji dotyczącej identyfikacji i monitorowania punktów krytycznych oraz sposób jej prowadzenia
 
 Treść rozporządzenia
-Na podstawie art. 72 pkt 1–3b ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2017 r. poz. 633) zarządza się, co następuje:
+Niniejsze rozporządzenie wdraża dyrektywę wykonawczą Komisji 2014/98/UE z dnia 15 października 2014 r. w sprawie wykonania dyrektywy Rady 2008/90/WE w odniesieniu do szczegółowych wymogów dotyczących rodzajów i gatunków roślin sadowniczych, o których mowa w załączniku I do tej dyrektywy, szczegółowych wymogów wobec dostawców oraz szczegółowych zasad dotyczących inspekcji urzędowych (Dz. Urz. UE L 298 z 16.10.2014, str. 22). Na podstawie art. 72 pkt 1–3b ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2017 r. poz. 633) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -71,8 +70,7 @@ Wymagania:
 1)
 w zakresie wytwarzania i jakości materiału szkółkarskiego kategorii elitarny, kategorii kwalifikowany oraz materiału szkółkarskiego CAC,
 2)
-dla gleby i podłoża, w których jest uprawiany materiał szkółkarski kategorii elitarny lub kategorii kwalifikowany, oraz warunki i metody pobierania prób gleby i podłoża
-są określone w załączniku nr 2 do rozporządzenia.
+dla gleby i podłoża, w których jest uprawiany materiał szkółkarski kategorii elitarny lub kategorii kwalifikowany, oraz warunki i metody pobierania prób gleby i podłoża – są określone w załączniku nr 2 do rozporządzenia.
 § 5.
 1.
 Plantacje materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany zakłada się z zachowaniem:
@@ -152,12 +150,33 @@ Do oceny polowej materiału szkółkarskiego kategorii elitarny lub kategorii kw
 2.
 Wniosek o dokonanie oceny polowej materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany dla porzeczek i agrestu w 2017 r. składa się w terminie 14 dni od dnia wejścia w życie rozporządzenia.
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie wdraża dyrektywę wykonawczą Komisji 2014/98/UE z dnia 15 października 2014 r. w sprawie wykonania dyrektywy Rady 2008/90/WE w odniesieniu do szczegółowych wymogów dotyczących rodzajów i gatunków roślin sadowniczych, o których mowa w załączniku I do tej dyrektywy, szczegółowych wymogów wobec dostawców oraz szczegółowych zasad dotyczących inspekcji urzędowych (Dz. Urz. UE L 298 z 16.10.2014, str. 22). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 15 lipca 2015 r. w sprawie szczegółowych wymagań dotyczących wytwarzania i jakości roślin sadowniczych, materiału szkółkarskiego CAC, materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych i ozdobnych oraz sadzonek winorośli, a także metod oceny polowej, pobierania prób i oceny laboratoryjnej oraz oceny tożsamości materiału siewnego kategorii elitarny lub kwalifikowany roślin sadowniczych (Dz. U. poz. 1124), które na podstawie art. 10 ustawy z dnia 16 grudnia 2016 r. o zmianie ustawy o nasiennictwie oraz ustawy o ochronie roślin (Dz. U. poz. 2246) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 15 lipca 2015 r. w sprawie szczegółowych wymagań dotyczących wytwarzania i jakości roślin sadowniczych, materiału szkółkarskiego CAC, materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych i ozdobnych oraz sadzonek winorośli, a także metod oceny polowej, pobierania prób i oceny laboratoryjnej oraz oceny tożsamości materiału siewnego kategorii elitarny lub kwalifikowany roślin sadowniczych (Dz. U. poz. 1124), które na podstawie art. 10 ustawy z dnia 16 grudnia 2016 r. o zmianie ustawy o nasiennictwie oraz ustawy o ochronie roślin (Dz. U. poz. 2246) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie wdraża dyrektywę wykonawczą Komisji 2014/98/UE z dnia 15 października 2014 r. w sprawie wykonania dyrektywy Rady 2008/90/WE w odniesieniu do szczegółowych wymogów dotyczących rodzajów i gatunków roślin sadowniczych, o których mowa w załączniku I do tej dyrektywy, szczegółowych wymogów wobec dostawców oraz szczegółowych zasad dotyczących inspekcji urzędowych (Dz. Urz. UE L 298 z 16.10.2014, str. 22). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 15 lipca 2015 r. w sprawie szczegółowych wymagań dotyczących wytwarzania i jakości roślin sadowniczych, materiału szkółkarskiego CAC, materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych i ozdobnych oraz sadzonek winorośli, a także metod oceny polowej, pobierania prób i oceny laboratoryjnej oraz oceny tożsamości materiału siewnego kategorii elitarny lub kwalifikowany roślin sadowniczych (Dz. U. poz. 1124), które na podstawie art. 10 ustawy z dnia 16 grudnia 2016 r. o zmianie ustawy o nasiennictwie oraz ustawy o ochronie roślin (Dz. U. poz. 2246) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 
 ## Załącznik nr 1 — – Opis kategorii i stopni kwalifikacji oraz liczby pokoleń materiału szkółkarskiego
 
-Kategoria Stopnie kwalifikacji nazwa stopnia i symbol liczba pokoleń oraz ich oznaczenia1) – drzewa liczba pokoleń oraz ich oznaczenia1) – rośliny jagodowe opis kategorii i stopni Elitarny rośliny kandydackie Rośliny stanowiące rozmnożenia poprzedzające materiał szkółkarski przedbazowy, przeznaczone do produkcji materiału szkółkarskiego przedbazowego. przedbazowy(PB) Materiał szkółkarski, który:1) został wytworzony zgodnie z działaniami zapewniającymi zachowanie właściwych cech tej odmiany oraz ochrony przed porażeniem chorobami i szkodnikami w warunkach kontrolowanych;2) jest przeznaczony do produkcji materiału bazowego;3) został uznany po urzędowej ocenie za spełniający wymagania szczegółowe;4) został rozmnożony bezpośrednio ze zidentyfikowanej rośliny przeznaczonej do rozmnażania (rośliny matecznej) kategorii przedbazowy lub z rośliny kandydackiej. bazowy(B) 1 pokolenie – oliwka europejska;2 pokolenia -brzoskwinia, czereśnia, figa pospolita, grusza, jabłoń, kasztan jadalny, leszczyna, migdałowiec, morela, oliwka europejska, orzech włoski, pigwa pospolita, pistacja właściwa, pomarańcza, cytryna i inne, poncyria, śliwa domowa, śliwa japońska i wiśnia;3 pokolenia – podkładki: brzoskwini, czereśni, gruszy, jabłoni, kasztana jadalnego, migdałowca, moreli, pomarańczy, cytryny i innych, poncyrii, śliwy domowej, śliwy japońskiej i wiśni. 2 pokolenia -borówka, jeżyna2' i malina2';3 pokolenia -porzeczka3' i agrest3';5 pokoleń -truskawka i poziomka. Materiał szkółkarski, który:1) został wytworzony zgodnie z działaniami zapewniającymi zachowanie właściwych cech tej odmiany oraz ochrony przed porażeniem chorobami i szkodnikami;2) jest przeznaczony do produkcji materiału kategorii kwalifikowany;3) został uznany po urzędowej ocenie za spełniający wymagania szczegółowe;4) został wytworzony z materiału kategorii przedbazowy lub z bazowej rośliny matecznej. Kwalifikowany(C) Materiał szkółkarski, w szczególności zrazy, podkładki, nasiona, sadzonki oraz materiał nasadzeniowy, który:1) został wytworzony z materiału kategorii elitarny lub z kwalifikowanej rośliny matecznej;2) jest przeznaczony do rozmnażania lub do nasadzeń owocujących;3) został uznany po urzędowej ocenie za spełniający wymagania szczegółowe. Objaśnienia: 1) Kolejne pokolenia oznacza się przez wpisanie cyfry arabskiej po symbolu stopnia. 2) Rośliny mateczne każdego pokolenia są utrzymywane maksymalnie przez cztery lata. 3) Rośliny mateczne każdego pokolenia są utrzymywane maksymalnie przez sześć lat.
+Kategoria Stopnie kwalifikacji nazwa stopnia i symbol liczba pokoleń oraz ich oznaczenia1) – drzewa liczba pokoleń oraz ich oznaczenia1) – rośliny jagodowe opis kategorii i stopni Elitarny rośliny kandydackie Rośliny stanowiące rozmnożenia poprzedzające materiał szkółkarski przedbazowy, przeznaczone do produkcji materiału szkółkarskiego przedbazowego. przedbazowy
+(PB) Materiał szkółkarski, który:
+1) został wytworzony zgodnie z działaniami zapewniającymi zachowanie właściwych cech tej odmiany oraz ochrony przed porażeniem chorobami i szkodnikami w warunkach kontrolowanych;
+2) jest przeznaczony do produkcji materiału bazowego;
+3) został uznany po urzędowej ocenie za spełniający wymagania szczegółowe;
+4) został rozmnożony bezpośrednio ze zidentyfikowanej rośliny przeznaczonej do rozmnażania (rośliny matecznej) kategorii przedbazowy lub z rośliny kandydackiej. bazowy
+(B) 1 pokolenie – oliwka europejska;
+2 pokolenia -brzoskwinia, czereśnia, figa pospolita, grusza, jabłoń, kasztan jadalny, leszczyna, migdałowiec, morela, oliwka europejska, orzech włoski, pigwa pospolita, pistacja właściwa, pomarańcza, cytryna i inne, poncyria, śliwa domowa, śliwa japońska i wiśnia;
+3 pokolenia – podkładki:
+brzoskwini, czereśni, gruszy, jabłoni, kasztana jadalnego, migdałowca, moreli, pomarańczy, cytryny i innych, poncyrii, śliwy domowej, śliwy japońskiej i wiśni. 2 pokolenia -borówka,
+jeżyna2' i malina2';
+3 pokolenia –
+porzeczka3' i agrest3';
+5 pokoleń -truskawka i poziomka. Materiał szkółkarski, który:
+1) został wytworzony zgodnie z działaniami zapewniającymi zachowanie właściwych cech tej odmiany oraz ochrony przed porażeniem chorobami i szkodnikami;
+2) jest przeznaczony do produkcji materiału kategorii kwalifikowany;
+3) został uznany po urzędowej ocenie za spełniający wymagania szczegółowe;
+4) został wytworzony z materiału kategorii przedbazowy lub z bazowej rośliny matecznej. Kwalifikowany
+(C) Materiał szkółkarski, w szczególności zrazy, podkładki, nasiona, sadzonki oraz materiał nasadzeniowy, który:
+1) został wytworzony z materiału kategorii elitarny lub z kwalifikowanej rośliny matecznej;
+2) jest przeznaczony do rozmnażania lub do nasadzeń owocujących;
+3) został uznany po urzędowej ocenie za spełniający wymagania szczegółowe.
+Objaśnienia: 1) Kolejne pokolenia oznacza się przez wpisanie cyfry arabskiej po symbolu stopnia. 2) Rośliny mateczne każdego pokolenia są utrzymywane maksymalnie przez cztery lata. 3) Rośliny mateczne każdego pokolenia są utrzymywane maksymalnie przez sześć lat.
 
 ## Załącznik nr 2 — – Wymagania w zakresie wytwarzania i jakości materiału szkółkarskiego kategorii elitarny, kategorii kwalifikowany oraz materiału szkółkarskiego CAC
 
@@ -500,17 +519,267 @@ b)
 c)
 powinny mieć co najmniej trzy oczka;
 9)
-oczek – powinna być określona liczba wykształconych oczek.
-Dostawcy mogą, w sposób zgodny z wymaganiami określonymi w pkt 1–9, ustalać własne klasy jakości dla materiału szkółkarskiego wprowadzanego do obrotu.
+oczek – powinna być określona liczba wykształconych oczek. Dostawcy mogą, w sposób zgodny z wymaganiami określonymi w pkt 1–9, ustalać własne klasy jakości dla materiału szkółkarskiego wprowadzanego do obrotu.
 Tabela I
 A.
-Wykaz organizmów szkodliwych, od których powinny być wolne lub praktycznie wolne* rośliny i materiał rozmnożeniowy Rodzaj lub gatunek roślin Organizmy szkodliwe Castanea sativa Mill. GrzybyMycosphaerella maculiformisPhytophthora cambivoraPhytophthora cinnamomiChoroby wirusopodobneWirus mozaiki kasztana (ChMV) Citrus L., Fortunella Swingle, Poncirus Raf. OwadyAleurotrixus floccosusParabemisia myricaeNicieniePratylenchus vulnusTylenchus semipenetransGrzybyPhytophthora citrophtoraPhytophthora parasitica Corylus avellana L. RoztoczaPhytoptus avellanaeGrzybyArmillariella melleaVerticillium dahliaeVerticillium albo-atrumBakterieXanthomonas arboricola pv. corylina Pseudomonas avellanae Cydonia oblonga Mill., Malus Mill. i Pyrus L. OwadyEriosoma lanigerumPsylla spp.NicienieMeloidogyne haplaMeloidogyne javanicaPratylenchus penetransPratylenchus vulnusGrzybyArmillariella melleaChondrostereum purpureumGlomerella cingulataPezicula albaPezicula malicorticisNectria galligenaPhytophthora cactorumRoessleria pallidaVerticillium dahliaeVerticillium albo-atrumBakterieAgrobacterium tumefaciensPseudomonas syringae pv. syringaeWirusyInne niż wymienione w tabeli II Ficus carica L. OwadyCeroplastes rusciNicienieHeterodera ficiMeloidogyne arenariaMeloidogyne incognitoMeloidogyne javanicaPratylenchus penetransPratylenchus vulnusGrzybyArmillaria melleaBakteriePhytomonas ficiChoroby wirusopodobneChoroba mozaikowa figi Juglans regia L. OwadyEpidiaspis leperiiPseudaulacaspis pentagonaQuadraspidiotus perniciosusGrzybyArmillariella melleaNectria galligenaChondrostereum purpureumPhytophthora cactorumBakterieAgrobacterium tumefaciensXanthomonas arboricola pv. juglandis Olea europaea L. NicienieMeloidogyne arenariaMeloidogyne incognitoMeloidogyne javanicaPratylenchus vulnusBakteriePseudomonas savastanoi pv. savastanoiChoroby wirusopodobneZłożona żółtaczka liści typu 3 Pistacia vera L. NicieniePratylenchus pene transPratylenchus vulnusGrzybyPhytophthora cryptogeaPhytophthora cambivoraRosellinia necatrixVerticillium dahlia Prunus amygdalus, P. armeniaca, P. domestica, P. persica i P. salicina OwadyPseudaulacaspis pentagonaQuadraspidiotus perniciosusNicienieMeloidogyne arenariaMeloidogyne javanicaMeloidogyne incognitoPratylenchus penetransPratylenchus vulnusGrzybyPhytophthora cactorumVerticillium dahliaeBakterieAgrobacterium tumefaciensPseudomonas syringae pv. morsprunorumPseudomonas syringae pv. Syringae (na P. armeniaca)Pseudomonas viridiflava (na P. armeniaca) Prunus avium, P. cerasus OwadyQuadraspidiotus perniciosusNicienieMeloidogyne arenariaMeloidogyne javanicaMeloidogyne incognitoPratylenchus pene transPratylenchus vulnusGrzybyPhytophthora cactorumBakterieAgrobacterium tumefaciensPseudomonas syringae pv. morsprunorum Ribes L. Owady i roztoczaDasyneura tetensiDitylenchus dipsaciPseudaulacaspis pentagonaQuadraspidiotus perniciosusTetranycus urticaeCecidophyopsis ribisGrzybySphaerotheca mors-uvaeMicrosphaera grossulariaeDiaporthe strumella (Phomopsis ribicola) Rubus L. GrzybyPeronospora rubi Objaśnienie: * Określenie „praktycznie wolny od organizmów szkodliwych” oznacza, że stopień występowania organizmów szkodliwych w materiale rozmnożeniowym lub w roślinach sadowniczych jest wystarczająco niski, aby zapewnić dopuszczalną jakość i użyteczność materiału rozmnożeniowego lub roślin sadowniczych.
+Wykaz organizmów szkodliwych, od których powinny być wolne lub praktycznie wolne* rośliny i materiał rozmnożeniowy
+Rodzaj lub gatunek roślin Organizmy szkodliwe Castanea sativa Mill. Grzyby
+Mycosphaerella maculiformis
+Phytophthora cambivora
+Phytophthora cinnamomi
+Choroby wirusopodobne
+Wirus mozaiki kasztana (ChMV) Citrus L., Fortunella Swingle, Poncirus Raf. Owady
+Aleurotrixus floccosus
+Parabemisia myricae
+Nicienie
+Pratylenchus vulnus
+Tylenchus semipenetrans
+Grzyby
+Phytophthora citrophtora
+Phytophthora parasitica Corylus avellana L. Roztocza
+Phytoptus avellanae
+Grzyby
+Armillariella mellea
+Verticillium dahliae
+Verticillium albo-atrum
+Bakterie
+Xanthomonas arboricola pv. corylina Pseudomonas avellanae Cydonia oblonga Mill., Malus Mill. i Pyrus L. Owady
+Eriosoma lanigerum
+Psylla spp.
+Nicienie
+Meloidogyne hapla
+Meloidogyne javanica
+Pratylenchus penetrans
+Pratylenchus vulnus
+Grzyby
+Armillariella mellea
+Chondrostereum purpureum
+Glomerella cingulata
+Pezicula alba
+Pezicula malicorticis
+Nectria galligena
+Phytophthora cactorum
+Roessleria pallida
+Verticillium dahliae
+Verticillium albo-atrum
+Bakterie
+Agrobacterium tumefaciens
+Pseudomonas syringae pv. syringae
+Wirusy
+Inne niż wymienione w tabeli II Ficus carica L. Owady
+Ceroplastes rusci
+Nicienie
+Heterodera fici
+Meloidogyne arenaria
+Meloidogyne incognito
+Meloidogyne javanica
+Pratylenchus penetrans
+Pratylenchus vulnus
+Grzyby
+Armillaria mellea
+Bakterie
+Phytomonas fici
+Choroby wirusopodobne
+Choroba mozaikowa figi Juglans regia L. Owady
+Epidiaspis leperii
+Pseudaulacaspis pentagona
+Quadraspidiotus perniciosus
+Grzyby
+Armillariella mellea
+Nectria galligena
+Chondrostereum purpureum
+Phytophthora cactorum
+Bakterie
+Agrobacterium tumefaciens
+Xanthomonas arboricola pv. juglandis Olea europaea L. Nicienie
+Meloidogyne arenaria
+Meloidogyne incognito
+Meloidogyne javanica
+Pratylenchus vulnus
+Bakterie
+Pseudomonas savastanoi pv. savastanoi
+Choroby wirusopodobne
+Złożona żółtaczka liści typu 3 Pistacia vera L. Nicienie
+Pratylenchus pene trans
+Pratylenchus vulnus
+Grzyby
+Phytophthora cryptogea
+Phytophthora cambivora
+Rosellinia necatrix
+Verticillium dahlia Prunus amygdalus, P. armeniaca, P. domestica, P. persica i P. salicina Owady
+Pseudaulacaspis pentagona
+Quadraspidiotus perniciosus
+Nicienie
+Meloidogyne arenaria
+Meloidogyne javanica
+Meloidogyne incognito
+Pratylenchus penetrans
+Pratylenchus vulnus
+Grzyby
+Phytophthora cactorum
+Verticillium dahliae
+Bakterie
+Agrobacterium tumefaciens
+Pseudomonas syringae pv. morsprunorum
+Pseudomonas syringae pv. Syringae (na P. armeniaca)
+Pseudomonas viridiflava (na P. armeniaca) Prunus avium, P. cerasus Owady
+Quadraspidiotus perniciosus
+Nicienie
+Meloidogyne arenaria
+Meloidogyne javanica
+Meloidogyne incognito
+Pratylenchus pene trans
+Pratylenchus vulnus
+Grzyby
+Phytophthora cactorum
+Bakterie
+Agrobacterium tumefaciens
+Pseudomonas syringae pv. morsprunorum Ribes L. Owady i roztocza
+Dasyneura tetensi
+Ditylenchus dipsaci
+Pseudaulacaspis pentagona
+Quadraspidiotus perniciosus
+Tetranycus urticae
+Cecidophyopsis ribis
+Grzyby
+Sphaerotheca mors-uvae
+Microsphaera grossulariae
+Diaporthe strumella (Phomopsis ribicola) Rubus L. Grzyby
+Peronospora rubi
+Objaśnienie: * Określenie „praktycznie wolny od organizmów szkodliwych” oznacza, że stopień występowania organizmów szkodliwych w materiale rozmnożeniowym lub w roślinach sadowniczych jest wystarczająco niski, aby zapewnić dopuszczalną jakość i użyteczność materiału rozmnożeniowego lub roślin sadowniczych.
 B.
-Wykaz organizmów szkodliwych, od których powinny być wolne lub praktycznie wolne* rośliny i materiał rozmnożeniowy, lub których występowanie nie powinno przekroczyć dopuszczalnego poziomu tolerancji Organizmy szkodliwe z podziałem na rodzaje i gatunki roślin Poziomy tolerancji (%) elitarne kandydackie, przedbazowe bazowe kwalifikowane Fragaria L. Owady i roztocza Chaetosiphon fragaefoliae 0 0,5 1 Phytonemus pallidus 0 0 0,1 Nicienie Aphelenchoides fragariae 0 0 1 Ditylenchus dipsaci 0 0,5 1 Meloidogyne hapla 0 0,5 1 Pratylenchus vulnus 0 1 1 Grzyby Rhizoctonia fragariae 0 0 1 Podosphaera aphanis (Wallroth) Braun & Takamatsu 0 0,5 1 Verticillium albo-atrum 0 0,2 2 Verticillium dahliae 0 0,2 2 Bakterie Candidatus Phlomobacter fragariae 0 0 1 Wirusy Wirus pstrości truskawki (SMoV) 0 0,1 2 Choroby powodowane przez fitoplazmy 0 0 1 Fitoplazma żółtaczki astra 0 0,2 1 Wybujałość liści truskawki 0 0,1 0,5 Stolbur jako śmiertelne zamieranie truskawki 0 0,2 1 Fitoplazma zielenienia płatków truskawki 0 0 1 Phytoplasma fragariae 0 0 1 Ribes L. Nicienie Aphelenchoides ritzemabosi 0 0,05 0,5 Wirusy Mozaika aukuby i żółtaczka porzeczki czarnej łącznie 0 0,05 0,5 Przejaśnienie nerwów i żółtaczka nerwów czarnej porzeczki, otaśmienie nerwów agrestu 0 0,05 0,5 Rubus L. Owady Resseliella theobaldi 0 0 0,5 Bakterie Agrobacterium spp. 0 0,1 1 Rhodococcus fascians 0 0,1 1 Wirusy Wirus mozaiki jabłoni (ApMV), wirus nekrozy jeżyny (BRNV), wirus mozaiki ogórka (CMV), pstrość liści maliny (RLMV), plamistość liści maliny (RLSV), wirus chlorozy nerwów liści maliny (RVCV), wirus żółtaczki nerwów liści maliny (RYNV) 0 0 0,5 Vaccinium L. Grzyby Exobasidium vaccinii var. vaccinii 0 0,5 1 Godronia cassandrae (anamorf Topospora myrtilli) 0 0,1 0,5 Bakterie Agrobacterium tumefaciens 0 0 0,5 Wirusy 0 0 0,5 Objaśnienie: * Określenie „praktycznie wolny od organizmów szkodliwych” oznacza, że stopień występowania organizmów szkodliwych w materiale rozmnożeniowym lub w roślinach sadowniczych jest wystarczająco niski, aby zapewnić dopuszczalną jakość i użyteczność materiału rozmnożeniowego lub roślin sadowniczych.
-Tabela II Wykaz szczególnych organizmów szkodliwych, od których powinny być wolne lub praktycznie wolne* rośliny i materiał rozmnożeniowy
-Rodzaj lub gatunek roślin Organizmy szkodliwe Citrus L., Fortunella Swingle i Poncirus Raf. Wirusy Wirus różnobarwności cytrusowych (CW) Wirus psorozy cytrusowych (CPsV) Wirus plamistości liści cytrusowych (CLBV) Choroby wirusopodobne Impietratura Cristacortis Wiroidy Wiroid łuszczycy kory cytrusowych (CEVd) Wiroid karłowatości chmielu (HSVd) wariant Cachexia Corylus avellana L. Wirusy Wirus mozaiki jabłoni (ApMV) Fitoplazmy Fitoplazma maculatura lineare orzecha laskowego Cydonia oblonga Mili., Malus Mili. i Pyrus L. WirusyWirus chlorotycznej plamistości liści jabłoni (ACLSV)Wirus żłobkowatości pnia jabłoni (ASGV)Wirus jamkowatości pnia jabłoni (ASPV)Choroby wirusopodobneSpękania kory, nekrozy korySzorstkość koryGumowatość drewna, żółta plamistość pigwyWiroidyWiroid pęcherzykowatych zrakowaceń gruszy (PBCVd) Fragaria L. NicienieAphelenchoides blastoforusAphelenchoides fragariaeAphelenchoides ritzemabosiDitylenchus dipsaciGrzybyPhytophthora cactorumColletotrichum acutatumWirusyWirus pstrości truskawki (SMoV) Juglans regia L. WirusyWirus liściozwoju czereśni (CLRV) Malus Mill. WirusyWirus chlorotycznej plamistości liści jabłoni (ACLSV)Wirus mozaiki jabłoni (ApMV)Wirus żłobkowatości pnia jabłoni (ASGV)Wirus jamkowatości pnia jabłoni (ASPV)Choroby wirusopodobneGumowatość drewna, spłaszczenie konarówPodkówkowate spękanie jabłoniZaburzenia owoców: zdrobnienie owoców, zielone marszczenie, nierówność owoców Ben Davis, szorstkość skórki, gwiaździste spękania, rdzawe pierścienie, rdzawe brodawkiWiroidyWiroid bliznowatości skórki jabłek (ASSVd)Wiroid marszczenia owoców jabłek (ADFVd) Olea europaea L. GrzybyVerticillium dahliaeWirusyWirus mozaiki gęsiówki (ArMV)Wirus liściozwoju czereśni (CLRV)Utajony wirus pierścieniowej plamistości truskawki (SLRV) Prunus amygdalus Batsch WirusyWirus chlorotycznej plamistości liści jabłoni (ACLSV)Wirus mozaiki jabłoni (ApMV)Wirus karłowatości śliwy (PDV)Wirus nekrotycznej pierścieniowej plamistości wiśni (PNRSV) Prunus armeniaca L. WirusyWirus chlorotycznej plamistości liści jabłoni (ACLSV)Wirus mozaiki jabłoni (ApMV)Utajony wirus moreli (ApLV)Wirus karłowatości śliwy (PDV)Wirus nekrotycznej pierścieniowej plamistości wiśni (PNRSV) Prunus avium i P. cerasus WirusyWirus chlorotycznej plamistości liści jabłoni (ACLSV)Wirus mozaiki jabłoni (ApMV)Wirus mozaiki gęsiówki (ArMV)Wirus zielonej pierścieniowej pstrości czereśni (CGRMV)Wirus liściozwoju czereśni (CLRV)Wirus nekrotycznej rdzawej plamistości czereśni (CNRMV)Wirus 1 i 2 drobnienia czereśni (LChVl, LChV2)Wirus plamistości liści czereśni (ChMLV)Wirus karłowatości śliwy (PDV)Wirus nekrotycznej pierścieniowej plamistości wiśni (PNRSV)Wirus pierścieniowej plamistości maliny (RpRSV)Utajony wirus pierścieniowej plamistości truskawki (SLRSV)Wirus czarnej pierścieniowej plamistości pomidora (TBRV) Prunus domestica i P. salicina WirusyWirus chlorotycznej plamistości liści jabłoni (ACLSV)Wirus mozaiki jabłoni (ApMV)Utajony wirus pierścieniowej plamistości mirabelki (MLRSV)Wirus karłowatości śliwy (PDV)Wirus nekrotycznej pierścieniowej plamistości wiśni (PNRSV) Prunus persica WirusyWirus chlorotycznej plamistości liści jabłoni (ACLSV)Wirus mozaiki jabłoni (ApMV)Utajony wirus moreli (ApLV)Wirus karłowatości śliwy (PDV)Wirus nekrotycznej pierścieniowej plamistości wiśni (PNRSV)Utajony wirus pierścieniowej plamistości truskawki (SLRSV)WiroidyUtajony wiroid mozaiki brzoskwini (PLMVd) Ribes L. Wirusyodpowiednio dla danego gatunkuWirus mozaiki gęsiówki (ArMV)Wirus rewersji porzeczki czarnej (BRV)Wirus mozaiki ogórka (CMV)Wirusy otaśmienia nerwów agrestu (GVBaV)Utajony wirus pierścieniowej plamistości truskawki (SLRSV)Wirus pierścieniowej plamistości maliny (RpRSV) Rubus L. GrzybyPhytophthora spp. wywołujący zakażenie RubusWirusyodpowiednio dla danego gatunkuWirus mozaiki jabłoni (ApMV)Wirus nekrozy jeżyny (BRNV)Wirus mozaiki ogórka (CMV)Pstrość liści maliny (RLMV)Plamistość liści maliny (RLSV)Chloroza nerwów liści maliny (RVCV)Wirus żółtaczki nerwów liści maliny (RYNV)Wirus krzaczastej karłowatości maliny (RBDV)FitoplazmyFitoplazma karłowatości malinyChoroby wirusopodobneŻółta plamistość liści maliny Vaccinium L. WirusyWirus nitkowatości borówki wysokiej (BSSV)Wirus czerwonej pierścieniowej plamistości borówki wysokiej (BRRV)Wirus oparzeliny borówki wysokiej (BlScV)Wirus szoku borówki wysokiej (BlShV)FitoplazmyFitoplazma karłowatości borówki wysokiej Fitoplazma miotlastości borówki wysokiej Fitoplazma pozornego kwitnienia żurawinyChoroby wirusopodobneMozaika borówki wysokiej Pierścieniowa plamistość żurawiny Objaśnienie: * Określenie „praktycznie wolny od organizmów szkodliwych” oznacza, że stopień występowania organizmów szkodliwych w materiale rozmnożeniowym lub w roślinach sadowniczych jest wystarczająco niski, aby zapewnić dopuszczalną jakość i użyteczność materiału rozmnożeniowego lub roślin sadowniczych.
-Tabela III Wykaz organizmów szkodliwych glebowych
-Rodzaj lub gatunek roślin Organizmy szkodliwe Fragaria L. NicienieLongidorus attenuatusLongidorus elongatusLongidorus macrosomaXiphinema diversicaudatum Juglans regia L. NicienieXiphinema diversicaudatum Olea europaea L. NicienieXiphinema diversicaudatum Pistacia vera L. NicienieXiphinema index Prunus avium i P. cerasus NicienieLongidorus attenuatusLongidorus elongatusLongidorus macrosomaXiphinema diversicaudatum P. domestica, P. persica i P. salicina NicienieLongidorus attenuatusLongidorus elongatusXiphinema diversicaudatum Ribes L. NicienieLongidorus elongatusLongidorus macrosomaXiphinema diversicaudatum Rubus L. NicienieLongidorus attenuatusLongidorus elongatusLongidorus macrosomaXiphinema diversicaudatum 1)Standardy w zakresie Środków Fitosanitarnych wydawane przez Europejską i Śródziemnomorską Organizację Ochrony Roślin na podstawie Konwencji w sprawie utworzenia Europejskiej i Śródziemnomorskiej Organizacji Ochrony Roślin, podpisanej w Paryżu dnia 18 kwietnia 1951 r. (Dz. U. z 1959 r. poz. 191 oraz z 1963 r. poz. 219). 2) http://www.inhort.pl/projekty -badawcze/projekty-finansowane-przez-mrirw/program-wieloletrii-io-2015–2020/metodyki-szkolkarskie-do-rozporzadzenia-mrirw
+Wykaz organizmów szkodliwych, od których powinny być wolne lub praktycznie wolne* rośliny i materiał rozmnożeniowy, lub których występowanie nie powinno przekroczyć dopuszczalnego poziomu tolerancji
+Organizmy szkodliwe z podziałem na rodzaje i gatunki roślin Poziomy tolerancji (%) elitarne kandydackie, przedbazowe bazowe kwalifikowane Fragaria L. Owady i roztocza Chaetosiphon fragaefoliae 0 0,5 1 Phytonemus pallidus 0 0 0,1 Nicienie Aphelenchoides fragariae 0 0 1 Ditylenchus dipsaci 0 0,5 1 Meloidogyne hapla 0 0,5 1 Pratylenchus vulnus 0 1 1 Grzyby Rhizoctonia fragariae 0 0 1 Podosphaera aphanis (Wallroth) Braun & Takamatsu 0 0,5 1 Verticillium albo-atrum 0 0,2 2 Verticillium dahliae 0 0,2 2 Bakterie Candidatus Phlomobacter fragariae 0 0 1 Wirusy Wirus pstrości truskawki (SMoV) 0 0,1 2 Choroby powodowane przez fitoplazmy 0 0 1 Fitoplazma żółtaczki astra 0 0,2 1 Wybujałość liści truskawki 0 0,1 0,5 Stolbur jako śmiertelne zamieranie truskawki 0 0,2 1 Fitoplazma zielenienia płatków truskawki 0 0 1 Phytoplasma fragariae 0 0 1 Ribes L. Nicienie Aphelenchoides ritzemabosi 0 0,05 0,5 Wirusy Mozaika aukuby i żółtaczka porzeczki czarnej łącznie 0 0,05 0,5 Przejaśnienie nerwów i żółtaczka nerwów czarnej porzeczki, otaśmienie nerwów agrestu 0 0,05 0,5 Rubus L. Owady Resseliella theobaldi 0 0 0,5 Bakterie Agrobacterium spp. 0 0,1 1 Rhodococcus fascians 0 0,1 1 Wirusy Wirus mozaiki jabłoni (ApMV), wirus nekrozy jeżyny (BRNV), wirus mozaiki ogórka (CMV), pstrość liści maliny (RLMV), plamistość liści maliny (RLSV), wirus chlorozy nerwów liści maliny (RVCV), wirus żółtaczki nerwów liści maliny (RYNV) 0 0 0,5 Vaccinium L. Grzyby Exobasidium vaccinii var. vaccinii 0 0,5 1 Godronia cassandrae (anamorf Topospora myrtilli) 0 0,1 0,5 Bakterie Agrobacterium tumefaciens 0 0 0,5 Wirusy 0 0 0,5
+Objaśnienie: * Określenie „praktycznie wolny od organizmów szkodliwych” oznacza, że stopień występowania organizmów szkodliwych w materiale rozmnożeniowym lub w roślinach sadowniczych jest wystarczająco niski, aby zapewnić dopuszczalną jakość i użyteczność materiału rozmnożeniowego lub roślin sadowniczych.
+Tabela II
+Wykaz szczególnych organizmów szkodliwych, od których powinny być wolne lub praktycznie wolne* rośliny i materiał rozmnożeniowy
+Rodzaj lub gatunek roślin Organizmy szkodliwe Citrus L., Fortunella Swingle i Poncirus Raf. Wirusy Wirus różnobarwności cytrusowych (CW) Wirus psorozy cytrusowych (CPsV) Wirus plamistości liści cytrusowych (CLBV) Choroby wirusopodobne Impietratura Cristacortis Wiroidy Wiroid łuszczycy kory cytrusowych (CEVd) Wiroid karłowatości chmielu (HSVd) wariant Cachexia Corylus avellana L. Wirusy Wirus mozaiki jabłoni (ApMV) Fitoplazmy Fitoplazma maculatura lineare orzecha laskowego Cydonia oblonga Mili., Malus Mili. i Pyrus L. Wirusy
+Wirus chlorotycznej plamistości liści jabłoni (ACLSV)
+Wirus żłobkowatości pnia jabłoni (ASGV)
+Wirus jamkowatości pnia jabłoni (ASPV)
+Choroby wirusopodobne
+Spękania kory, nekrozy kory
+Szorstkość kory
+Gumowatość drewna, żółta plamistość pigwy
+Wiroidy
+Wiroid pęcherzykowatych zrakowaceń gruszy (PBCVd) Fragaria L. Nicienie
+Aphelenchoides blastoforus
+Aphelenchoides fragariae
+Aphelenchoides ritzemabosi
+Ditylenchus dipsaci
+Grzyby
+Phytophthora cactorum
+Colletotrichum acutatum
+Wirusy
+Wirus pstrości truskawki (SMoV) Juglans regia L. Wirusy
+Wirus liściozwoju czereśni (CLRV) Malus Mill. Wirusy
+Wirus chlorotycznej plamistości liści jabłoni (ACLSV)
+Wirus mozaiki jabłoni (ApMV)
+Wirus żłobkowatości pnia jabłoni (ASGV)
+Wirus jamkowatości pnia jabłoni (ASPV)
+Choroby wirusopodobne
+Gumowatość drewna, spłaszczenie konarów
+Podkówkowate spękanie jabłoni
+Zaburzenia owoców: zdrobnienie owoców, zielone marszczenie, nierówność owoców Ben Davis, szorstkość skórki, gwiaździste spękania, rdzawe pierścienie, rdzawe brodawki
+Wiroidy
+Wiroid bliznowatości skórki jabłek (ASSVd)
+Wiroid marszczenia owoców jabłek (ADFVd) Olea europaea L. Grzyby
+Verticillium dahliae
+Wirusy
+Wirus mozaiki gęsiówki (ArMV)
+Wirus liściozwoju czereśni (CLRV)
+Utajony wirus pierścieniowej plamistości truskawki (SLRV) Prunus amygdalus Batsch Wirusy
+Wirus chlorotycznej plamistości liści jabłoni (ACLSV)
+Wirus mozaiki jabłoni (ApMV)
+Wirus karłowatości śliwy (PDV)
+Wirus nekrotycznej pierścieniowej plamistości wiśni (PNRSV) Prunus armeniaca L. Wirusy
+Wirus chlorotycznej plamistości liści jabłoni (ACLSV)
+Wirus mozaiki jabłoni (ApMV)
+Utajony wirus moreli (ApLV)
+Wirus karłowatości śliwy (PDV)
+Wirus nekrotycznej pierścieniowej plamistości wiśni (PNRSV) Prunus avium i P. cerasus Wirusy
+Wirus chlorotycznej plamistości liści jabłoni (ACLSV)
+Wirus mozaiki jabłoni (ApMV)
+Wirus mozaiki gęsiówki (ArMV)
+Wirus zielonej pierścieniowej pstrości czereśni (CGRMV)
+Wirus liściozwoju czereśni (CLRV)
+Wirus nekrotycznej rdzawej plamistości czereśni (CNRMV)
+Wirus 1 i 2 drobnienia czereśni (LChVl, LChV2)
+Wirus plamistości liści czereśni (ChMLV)
+Wirus karłowatości śliwy (PDV)
+Wirus nekrotycznej pierścieniowej plamistości wiśni (PNRSV)
+Wirus pierścieniowej plamistości maliny (RpRSV)
+Utajony wirus pierścieniowej plamistości truskawki (SLRSV)
+Wirus czarnej pierścieniowej plamistości pomidora (TBRV) Prunus domestica i P. salicina Wirusy
+Wirus chlorotycznej plamistości liści jabłoni (ACLSV)
+Wirus mozaiki jabłoni (ApMV)
+Utajony wirus pierścieniowej plamistości mirabelki (MLRSV)
+Wirus karłowatości śliwy (PDV)
+Wirus nekrotycznej pierścieniowej plamistości wiśni (PNRSV) Prunus persica Wirusy
+Wirus chlorotycznej plamistości liści jabłoni (ACLSV)
+Wirus mozaiki jabłoni (ApMV)
+Utajony wirus moreli (ApLV)
+Wirus karłowatości śliwy (PDV)
+Wirus nekrotycznej pierścieniowej plamistości wiśni (PNRSV)
+Utajony wirus pierścieniowej plamistości truskawki (SLRSV)
+Wiroidy
+Utajony wiroid mozaiki brzoskwini (PLMVd) Ribes L. Wirusy
+odpowiednio dla danego gatunku
+Wirus mozaiki gęsiówki (ArMV)
+Wirus rewersji porzeczki czarnej (BRV)
+Wirus mozaiki ogórka (CMV)
+Wirusy otaśmienia nerwów agrestu (GVBaV)
+Utajony wirus pierścieniowej plamistości truskawki (SLRSV)
+Wirus pierścieniowej plamistości maliny (RpRSV) Rubus L. Grzyby
+Phytophthora spp. wywołujący zakażenie Rubus
+Wirusy
+odpowiednio dla danego gatunku
+Wirus mozaiki jabłoni (ApMV)
+Wirus nekrozy jeżyny (BRNV)
+Wirus mozaiki ogórka (CMV)
+Pstrość liści maliny (RLMV)
+Plamistość liści maliny (RLSV)
+Chloroza nerwów liści maliny (RVCV)
+Wirus żółtaczki nerwów liści maliny (RYNV)
+Wirus krzaczastej karłowatości maliny (RBDV)
+Fitoplazmy
+Fitoplazma karłowatości maliny
+Choroby wirusopodobne
+Żółta plamistość liści maliny Vaccinium L. Wirusy
+Wirus nitkowatości borówki wysokiej (BSSV)
+Wirus czerwonej pierścieniowej plamistości borówki wysokiej (BRRV)
+Wirus oparzeliny borówki wysokiej (BlScV)
+Wirus szoku borówki wysokiej (BlShV)
+Fitoplazmy
+Fitoplazma karłowatości borówki wysokiej Fitoplazma miotlastości borówki wysokiej Fitoplazma pozornego kwitnienia żurawiny
+Choroby wirusopodobne
+Mozaika borówki wysokiej Pierścieniowa plamistość żurawiny
+Objaśnienie: * Określenie „praktycznie wolny od organizmów szkodliwych” oznacza, że stopień występowania organizmów szkodliwych w materiale rozmnożeniowym lub w roślinach sadowniczych jest wystarczająco niski, aby zapewnić dopuszczalną jakość i użyteczność materiału rozmnożeniowego lub roślin sadowniczych.
+Tabela III
+Wykaz organizmów szkodliwych glebowych
+Rodzaj lub gatunek roślin Organizmy szkodliwe Fragaria L. Nicienie
+Longidorus attenuatus
+Longidorus elongatus
+Longidorus macrosoma
+Xiphinema diversicaudatum Juglans regia L. Nicienie
+Xiphinema diversicaudatum Olea europaea L. Nicienie
+Xiphinema diversicaudatum Pistacia vera L. Nicienie
+Xiphinema index Prunus avium i P. cerasus Nicienie
+Longidorus attenuatus
+Longidorus elongatus
+Longidorus macrosoma
+Xiphinema diversicaudatum P. domestica, P. persica i P. salicina Nicienie
+Longidorus attenuatus
+Longidorus elongatus
+Xiphinema diversicaudatum Ribes L. Nicienie
+Longidorus elongatus
+Longidorus macrosoma
+Xiphinema diversicaudatum Rubus L. Nicienie
+Longidorus attenuatus
+Longidorus elongatus
+Longidorus macrosoma
+Xiphinema diversicaudatum
+1)Standardy w zakresie Środków Fitosanitarnych wydawane przez Europejską i Śródziemnomorską Organizację Ochrony Roślin na podstawie Konwencji w sprawie utworzenia Europejskiej i Śródziemnomorskiej Organizacji Ochrony Roślin, podpisanej w Paryżu dnia 18 kwietnia 1951 r. (Dz. U. z 1959 r. poz. 191 oraz z 1963 r. poz. 219). 2) http://www.inhort.pl/projekty -badawcze/projekty-finansowane-przez-mrirw/program-wieloletrii-io-2015–2020/metodyki-szkolkarskie-do-rozporzadzenia-mrirw
 
 ## Załącznik nr 3 — – Wymagania dotyczące dokonywania oceny polowej, pobierania prób oraz oceny laboratoryjnej materiału szkółkarskiego
 
@@ -525,8 +794,7 @@ Pigwa, jabłoń i grusza (Cydonia oblonga Mill., Malus Mill., Pyrus L.) Wszystki
 1)
 co piętnaście lat dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby kwalifikowanych roślin matecznych w odniesieniu do organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, innych niż wiroidy i choroby wirusopodobne, a także w przypadku wątpliwości dotyczących występowania organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A;
 2)
-dla materiału szkółkarskiego kategorii kwalifikowany w przypadku wątpliwości dotyczących występowania organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II.
-Materiał szkółkarski CAC Pobrania prób i oceny laboratoryjnej dokonuje się w przypadku wątpliwości dotyczących występowania organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II.
+dla materiału szkółkarskiego kategorii kwalifikowany w przypadku wątpliwości dotyczących występowania organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II. Materiał szkółkarski CAC Pobrania prób i oceny laboratoryjnej dokonuje się w przypadku wątpliwości dotyczących występowania organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II.
 5.
 Figa (Ficus carica L.) Wszystkie kategorie Oceny polowej dokonuje się raz w roku w terminie umożliwiającym sprawdzenie wymagań w zakresie wytwarzania i jakości. Pobrania prób i oceny laboratoryjnej dokonuje się w przypadku wątpliwości dotyczących występowania organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A.
 6.
@@ -536,15 +804,13 @@ Orzech włoski (Juglans regia L.) Wszystkie kategorie Oceny polowej dokonuje si�
 1)
 co trzy lata dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby bazowych roślin matecznych w odniesieniu do organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II;
 2)
-dla materiału szkółkarskiego kategorii kwalifikowany w przypadku wątpliwości dotyczących występowania organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II.
-Materiał szkółkarski CAC Pobrania prób i oceny laboratoryjnej dokonuje się w przypadku wątpliwości dotyczących występowania organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II.
+dla materiału szkółkarskiego kategorii kwalifikowany w przypadku wątpliwości dotyczących występowania organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II. Materiał szkółkarski CAC Pobrania prób i oceny laboratoryjnej dokonuje się w przypadku wątpliwości dotyczących występowania organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II.
 8.
 Oliwka europejska (Olea europaea L.) Wszystkie kategorie Oceny polowej dokonuje się raz w roku w terminie umożliwiającym sprawdzenie wymagań w zakresie wytwarzania i jakości. Kategoria elitarny w stopniu przedbazowy Pobrania prób i oceny laboratoryjnej dla każdej przedbazowej rośliny matecznej dokonuje się co dziesięć lat w odniesieniu do organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, a także w tabeli I w części A – w przypadku wątpliwości dotyczących ich występowania. Kategoria elitarny w stopniu bazowy Pobrania prób i oceny laboratoryjnej dokonuje się co trzydzieści lat dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby bazowych roślin matecznych w odniesieniu do organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II. Kategoria kwalifikowany Pobrania prób i oceny laboratoryjnej dokonuje się:
 1)
 w przypadku roślin matecznych wykorzystywanych do produkcji nasion co czterdzieści lat dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby roślin w odniesieniu do organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II;
 2)
-w przypadku roślin matecznych innych niż nasienne rośliny mateczne co trzydzieści lat dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby roślin w odniesieniu do organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II.
-Materiał szkółkarski CAC Pobrania prób i oceny laboratoryjnej dokonuje się w przypadku wątpliwości dotyczących występowania organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II.
+w przypadku roślin matecznych innych niż nasienne rośliny mateczne co trzydzieści lat dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby roślin w odniesieniu do organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II. Materiał szkółkarski CAC Pobrania prób i oceny laboratoryjnej dokonuje się w przypadku wątpliwości dotyczących występowania organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II.
 9.
 Pistacja właściwa (Pistacia vera L.) Wszystkie kategorie Oceny polowej dokonuje się raz w roku w terminie umożliwiającym sprawdzenie wymagań w zakresie wytwarzania i jakości. Pobrania prób i oceny laboratoryjnej dokonuje się w przypadku wątpliwości dotyczących występowania organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A.
 10.
@@ -554,8 +820,7 @@ co roku dla każdej kwitnącej przedbazowej rośliny matecznej w odniesieniu do 
 2)
 w przypadku brzoskwini dla każdej kwitnącej przedbazowej rośliny matecznej po roku od jej uznania za przedbazową roślinę mateczną w odniesieniu do utajonego wiroida mozaiki brzoskwini (PLMVd);
 3)
-dla każdej przedbazowej rośliny matecznej co dziesięć lat w odniesieniu do wirusów innych niż PDV i PNRSV, właściwych dla gatunków wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, a także w tabeli I w części A – w przypadku wątpliwości dotyczących ich występowania.
-Kategoria elitarny w stopniu bazowy Pobrania prób i oceny laboratoryjnej dokonuje się:
+dla każdej przedbazowej rośliny matecznej co dziesięć lat w odniesieniu do wirusów innych niż PDV i PNRSV, właściwych dla gatunków wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, a także w tabeli I w części A – w przypadku wątpliwości dotyczących ich występowania. Kategoria elitarny w stopniu bazowy Pobrania prób i oceny laboratoryjnej dokonuje się:
 1)
 co roku dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby kwitnących bazowych roślin matecznych w odniesieniu do PDV i PNRSV oraz dla reprezentatywnej liczby drzew sadzonych z przeznaczeniem na zapylanie, a jeżeli jest to uzasadnione – dla głównych drzew zapylających w środowisku w odniesieniu do PDV i PNRSV;
 2)
@@ -563,8 +828,7 @@ raz w roku w przypadku brzoskwini dla określonej, na podstawie analizy ryzyka, 
 3)
 raz na trzy lata dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby niekwitnących bazowych roślin matecznych w odniesieniu do PDV i PNRSV;
 4)
-raz na dziesięć lat dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby bazowych roślin matecznych w odniesieniu do organizmów szkodliwych innych niż PDV i PNRSV, właściwych dla gatunków wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II.
-Kategoria kwalifikowany Pobrania prób i oceny laboratoryjnej dokonuje się:
+raz na dziesięć lat dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby bazowych roślin matecznych w odniesieniu do organizmów szkodliwych innych niż PDV i PNRSV, właściwych dla gatunków wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II. Kategoria kwalifikowany Pobrania prób i oceny laboratoryjnej dokonuje się:
 1)
 co roku dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby kwitnących kwalifikowanych roślin matecznych w odniesieniu do PDV i PNRSV oraz dla reprezentatywnej liczby drzew sadzonych z przeznaczeniem na zapylanie, a jeżeli jest to uzasadnione – dla głównych drzew zapylających w środowisku w odniesieniu do PDV i PNRSV;
 2)
@@ -572,29 +836,25 @@ raz w roku w przypadku brzoskwini dla określonej, na podstawie analizy ryzyka, 
 3)
 raz na trzy lata dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby niekwitnących kwalifikowanych roślin matecznych w odniesieniu do PDV i PNRSV;
 4)
-raz na piętnaście lat dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby kwalifikowanych roślin matecznych w odniesieniu do organizmów szkodliwych innych niż PDV i PNRSV, właściwych dla gatunków wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II.
-Kategoria CAC Pobrania prób i oceny laboratoryjnej dokonuje się w przypadku wątpliwości dotyczących występowania organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II.
+raz na piętnaście lat dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby kwalifikowanych roślin matecznych w odniesieniu do organizmów szkodliwych innych niż PDV i PNRSV, właściwych dla gatunków wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II. Kategoria CAC Pobrania prób i oceny laboratoryjnej dokonuje się w przypadku wątpliwości dotyczących występowania organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II.
 11.
 Czereśnia i wiśnia (Prunus avium i P. cerasus) Wszystkie kategorie Oceny polowej dokonuje się raz w roku w terminie umożliwiającym sprawdzenie wymagań w zakresie wytwarzania i jakości. Kategoria elitarny w stopniu przedbazowy Pobrania prób i oceny laboratoryjnej dokonuje się:
 1)
 co roku dla każdej kwitnącej przedbazowej rośliny matecznej w odniesieniu do PDV i PNRSV oraz dla każdego drzewa sadzonego z przeznaczeniem na zapylanie, a jeżeli jest to uzasadnione – dla głównych drzew zapylających w środowisku w odniesieniu do PDV i PNRSV;
 2)
-co dziesięć lat dla każdej przedbazowej rośliny matecznej w odniesieniu do organizmów szkodliwych innych niż PDV i PNRSV, właściwych dla gatunków wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, a także w tabeli I w części A – w przypadku wątpliwości dotyczących ich występowania.
-Kategoria elitarny w stopniu bazowy Pobrania prób i oceny laboratoryjnej dokonuje się:
+co dziesięć lat dla każdej przedbazowej rośliny matecznej w odniesieniu do organizmów szkodliwych innych niż PDV i PNRSV, właściwych dla gatunków wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, a także w tabeli I w części A – w przypadku wątpliwości dotyczących ich występowania. Kategoria elitarny w stopniu bazowy Pobrania prób i oceny laboratoryjnej dokonuje się:
 1)
 co roku dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby kwitnących bazowych roślin matecznych w odniesieniu do PDV i PNRSV oraz dla reprezentatywnej liczby drzew sadzonych z przeznaczeniem na zapylanie, a jeżeli jest to uzasadnione – dla głównych drzew zapylających w środowisku w odniesieniu do PDV i PNRSV;
 2)
 raz na trzy lata dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby niekwitnących bazowych roślin matecznych w odniesieniu do PDV i PNRSV;
 3)
-raz na dziesięć lat dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby bazowych roślin matecznych w odniesieniu do organizmów szkodliwych innych niż PDV i PNRSV, właściwych dla gatunków wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II.
-Kategoria kwalifikowany Pobrania prób i oceny laboratoryjnej dokonuje się:
+raz na dziesięć lat dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby bazowych roślin matecznych w odniesieniu do organizmów szkodliwych innych niż PDV i PNRSV, właściwych dla gatunków wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II. Kategoria kwalifikowany Pobrania prób i oceny laboratoryjnej dokonuje się:
 1)
 co roku dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby kwitnących kwalifikowanych roślin matecznych w odniesieniu do PDV i PNRSV oraz dla reprezentatywnej liczby drzew sadzonych z przeznaczeniem na zapylanie, a jeżeli jest to uzasadnione – dla głównych drzew zapylających w środowisku w odniesieniu do PDV i PNRSV;
 2)
 raz na trzy lata dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby niekwitnących kwalifikowanych roślin matecznych w odniesieniu do PDV i PNRSV;
 3)
-raz na piętnaście lat dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby kwalifikowanych roślin matecznych w odniesieniu do organizmów szkodliwych innych niż PDV i PNRSV, właściwych dla gatunków wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II.
-Materiał szkółkarski CAC Pobrania prób i oceny laboratoryjnej dokonuje się w przypadku wątpliwości dotyczących występowania organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II.
+raz na piętnaście lat dla określonej, na podstawie analizy ryzyka, reprezentatywnej liczby kwalifikowanych roślin matecznych w odniesieniu do organizmów szkodliwych innych niż PDV i PNRSV, właściwych dla gatunków wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II. Materiał szkółkarski CAC Pobrania prób i oceny laboratoryjnej dokonuje się w przypadku wątpliwości dotyczących występowania organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I w części A i w tabeli II.
 12.
 Porzeczka i agrest (Ribes L.) Kategoria elitarny w stopniu przedbazowy Oceny polowej dokonuje się dwa razy w roku w terminie umożliwiającym sprawdzenie wymagań w zakresie wytwarzania i jakości. Pobrania prób i oceny laboratoryjnej dokonuje się co cztery lata dla każdej przedbazowej rośliny matecznej w odniesieniu do organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, a także w tabeli I – w przypadku wątpliwości dotyczących ich występowania. Kategoria elitarny w stopniu bazowy, kategoria kwalifikowany i materiał szkółkarski CAC Oceny polowej dokonuje się raz w roku w terminie umożliwiającym sprawdzenie wymagań w zakresie wytwarzania i jakości. Pobrania prób i oceny laboratoryjnej dokonuje się w przypadku wątpliwości dotyczących występowania organizmów szkodliwych wymienionych w załączniku nr 2 do rozporządzenia w tabeli I i w tabeli II.
 13.

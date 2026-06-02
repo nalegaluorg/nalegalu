@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1997-08-21 |
 | Data wydania | 1997-10-02 |
-| Wejście w życie | 1998-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971170752) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/752/text.pdf) |
 
@@ -177,8 +176,10 @@ source: "eli-html"
 
 **Art. 1231.** Rada Ministrów, w drodze rozporządzenia, określa wysokość wynagrodzenia kuratorów zawodowych. ” ;
 
-- **21)** w art. 124: w § 1: – w pkt 4 skreśla się wyrazy „referendarza i”, a na końcu kropkę zastępuje się przecinkiem, – po pkt 4 dodaje się pkt 5 w brzmieniu: „ 5) szczególne warunki mianowania referendarza sądowego, zmiany warunków pracy oraz rozwiązywania stosunku pracy, a także organizację aplikacji referendarskiej, przebieg egzaminu, skład komisji egzaminacyjnej, sposób powoływania jej członków i postępowania komisji egzaminacyjnej. ” , po § 2 dodaje się § 2a w brzmieniu: „
+- **21)** w art. 124: w § 1: – w pkt 4 skreśla się wyrazy „referendarza i”, a na końcu kropkę zastępuje się przecinkiem, po pkt 4 dodaje się pkt 5 w brzmieniu: „
     - **a)**
+
+- **5)** szczególne warunki mianowania referendarza sądowego, zmiany warunków pracy oraz rozwiązywania stosunku pracy, a także organizację aplikacji referendarskiej, przebieg egzaminu, skład komisji egzaminacyjnej, sposób powoływania jej członków i postępowania komisji egzaminacyjnej. ” , po § 2 dodaje się § 2a w brzmieniu: „
     - **b)**
 
 § 2a. Minister Sprawiedliwości w porozumieniu z Ministrem Pracy i Polityki Socjalnej, w drodze rozporządzenia, określa szczegółowe zasady wynagradzania referendarza sądowego. ” , w § 3 wyraz „referendarzy” zastępuje się wyrazami „referendarzy sądowych”.

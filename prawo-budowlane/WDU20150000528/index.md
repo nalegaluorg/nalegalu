@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 marca 2015 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw
+# Ustawa z dnia 20 marca 2015 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych i ustawę z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-03-20 |
 | Data wydania | 2015-04-15 |
-| Wejście w życie | 2015-04-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000528) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/528/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.) w art. 29 w ust. 1 pkt 4 otrzymuje brzmienie: „
+**Art. 1.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151, 200 i 443.) w art. 29 w ust. 1 pkt 4 otrzymuje brzmienie: „
 
 - **4)** altan działkowych i obiektów gospodarczych, o których mowa w ustawie z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2014 r. poz. 40); ” .
 
@@ -71,5 +70,5 @@ source: "eli-html"
 
 2. W przypadku gdy ostateczna decyzja o nakazie rozbiórki obiektu budowlanego, o którym mowa w ust. 1, wydana przed dniem wejścia w życie niniejszej ustawy, nie została jeszcze wykonana, właściwy organ nadzoru budowlanego, który wydał tę decyzję w pierwszej instancji, stwierdza jej wygaśnięcie.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych i ustawę z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151, 200 i 443.
 

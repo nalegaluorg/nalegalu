@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-08 |
 | Data wydania | 2015-12-09 |
-| Wejście w życie | 2015-12-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002089) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2089/text.pdf) |
 
@@ -33,24 +32,19 @@ W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegó�
 1)
 w § 13e:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-W 2015 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, który w 2015 r. prowadzi gospodarstwo w rozumieniu art. 2 pkt 8 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, w którym są utrzymywane zwierzęta gospodarskie z gatunku świnia ( sus scrofa ), położone na obszarze określonym w § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 3 kwietnia 2015 r. w sprawie wprowadzenia „Programu bioasekuracji mającego na celu zapobieganie szerzeniu się afrykańskiego pomoru świń” na lata 2015–2018 (Dz. U. poz. 517).
-” ,
+W 2015 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, który w 2015 r. prowadzi gospodarstwo w rozumieniu art. 2 pkt 8 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, w którym są utrzymywane zwierzęta gospodarskie z gatunku świnia ( sus scrofa ), położone na obszarze określonym w § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 3 kwietnia 2015 r. w sprawie wprowadzenia „Programu bioasekuracji mającego na celu zapobieganie szerzeniu się afrykańskiego pomoru świń” na lata 2015–2018 (Dz. U. poz. 517). ” ,
 b)
 uchyla się ust. 2,
 c)
-ust. 6 otrzymuje brzmienie:
-„
+ust. 6 otrzymuje brzmienie: „
 6.
-Pomoc, o której mowa w ust. 1, jest przyznawana w drodze decyzji kierownika biura powiatowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę producenta rolnego, na wniosek tego producenta rolnego złożony w terminie do dnia 14 grudnia 2015 r., na formularzu opracowanym i udostępnionym przez Agencję na jej stronie internetowej.
-” ,
+Pomoc, o której mowa w ust. 1, jest przyznawana w drodze decyzji kierownika biura powiatowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę producenta rolnego, na wniosek tego producenta rolnego złożony w terminie do dnia 14 grudnia 2015 r., na formularzu opracowanym i udostępnionym przez Agencję na jej stronie internetowej. ” ,
 d)
 uchyla się ust. 9;
 2)
-po § 13e dodaje się § 13f w brzmieniu:
-„
+po § 13e dodaje się § 13f w brzmieniu: „
 § 13f.
 1.
 W 2015 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie objętym działem administracji rządowej – rybołówstwo, o której mowa w § 2 ust. 1 pkt 6, podatnikowi podatku rolnego, który w 2015 r. prowadził chów lub hodowlę ryb słodkowodnych w stawach rybnych położonych na obszarze gmin, w których wystąpiła susza w rozumieniu przepisów o ubezpieczeniach upraw rolnych i zwierząt gospodarskich.
@@ -79,8 +73,7 @@ oświadczenia i zaświadczenia dotyczące pomocy de minimis lub de minimis w rol
 2)
 oświadczenie podatnika podatku rolnego o powierzchni stawu zarybionego, na wskazanej we wniosku działce ewidencyjnej;
 3)
-oświadczenie podatnika podatku rolnego o złożeniu do Instytutu Rybactwa Śródlądowego im. Stanisława Sakowicza w Olsztynie formularza sprawozdania (RRW-22) dotyczącego powierzchni stawów rybnych oraz ilości ryb wyprodukowanych w stawach rybnych i innych urządzeniach służących do chowu lub hodowli za rok 2013 i 2014, o którym mowa w przepisach o statystyce publicznej.
-” .
+oświadczenie podatnika podatku rolnego o złożeniu do Instytutu Rybactwa Śródlądowego im. Stanisława Sakowicza w Olsztynie formularza sprawozdania (RRW-22) dotyczącego powierzchni stawów rybnych oraz ilości ryb wyprodukowanych w stawach rybnych i innych urządzeniach służących do chowu lub hodowli za rok 2013 i 2014, o którym mowa w przepisach o statystyce publicznej. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

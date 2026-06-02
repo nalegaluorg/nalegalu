@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 20 maja 2020 r. w sprawie sposobu i trybu wyłaniania kandydatów na członków Rady Narodowego Centrum Nauki
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 20 maja 2020 r. w sprawie sposobu i trybu wyłaniania kandydatów na członków Rady Narodowego Centrum Nauki Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 kwietnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 724).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-05-20 |
 | Data wydania | 2020-05-27 |
-| Wejście w życie | 2020-06-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000943) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/943/text.pdf) |
 
@@ -92,8 +91,7 @@ Zgłoszenia kandydatów:
 1)
 złożone po upływie terminu określonego w ogłoszeniu, o którym mowa w § 1 ust. 1,
 2)
-niespełniające wymagań, o których mowa w ust. 1 pkt 1 lit. b lub w § 3
-nie podlegają ocenie merytorycznej.
+niespełniające wymagań, o których mowa w ust. 1 pkt 1 lit. b lub w § 3 – nie podlegają ocenie merytorycznej.
 3.
 Na podstawie wyników oceny formalnej Zespół sporządza listę kandydatów, których zgłoszenia będą podlegały ocenie merytorycznej, zawierającą imię i nazwisko każdego kandydata, jego stopień naukowy lub tytuł profesora oraz wskazanie reprezentowanej przez niego dziedziny nauki i przekazuje tę listę ministrowi wraz z protokołem z posiedzenia.
 4.
@@ -110,16 +108,13 @@ różnych dziedzin nauki reprezentowanych przez kandydatów zamieszczonych na li
 2)
 różnych rodzajów podmiotów zgłaszających, których kandydaci zostali zamieszczeni na liście, o której mowa w § 5 ust. 3,
 3)
-organizacji zgłaszających, których kandydaci zostali zamieszczeni na liście, o której mowa w § 5 ust. 3
-i przekazuje ją ministrowi wraz z protokołem z posiedzenia.
+organizacji zgłaszających, których kandydaci zostali zamieszczeni na liście, o której mowa w § 5 ust. 3 – i przekazuje ją ministrowi wraz z protokołem z posiedzenia.
 § 7.
 W latach 2020 i 2022:
 1)
 uczelnia, która na podstawie art. 192 ust. 2 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z 2019 r. poz. 39 i 534 oraz z 2020 r. poz. 695 i 875) wstąpiła w ogół praw i obowiązków jej podstawowej jednostki organizacyjnej, która posiadała kategorię naukową A+ albo A,
 2)
-podmiot, o którym mowa w art. 7 ust. 1 pkt 4–6, 7 i 8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, posiadający kategorię naukową A+ albo A
-może zgłosić dwóch kandydatów do Rady w dziedzinie nauki, do której należą dyscypliny naukowe, w których prowadzi działalność naukową.
+podmiot, o którym mowa w art. 7 ust. 1 pkt 4–6, 7 i 8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, posiadający kategorię naukową A+ albo A – może zgłosić dwóch kandydatów do Rady w dziedzinie nauki, do której należą dyscypliny naukowe, w których prowadzi działalność naukową.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 kwietnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 724). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 23 września 2010 r. w sprawie sposobu i trybu wyłaniania kandydatów na członków Rady Narodowego Centrum Nauki (Dz. U. poz. 1220), które utraciło moc z dniem 1 lipca 2019 r. zgodnie z art. 349 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z 2019 r. poz. 39 i 534 oraz z 2020 r. poz. 695 i 875).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 23 września 2010 r. w sprawie sposobu i trybu wyłaniania kandydatów na członków Rady Narodowego Centrum Nauki (Dz. U. poz. 1220), które utraciło moc z dniem 1 lipca 2019 r. zgodnie z art. 349 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z 2019 r. poz. 39 i 534 oraz z 2020 r. poz. 695 i 875). 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 kwietnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 724). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 23 września 2010 r. w sprawie sposobu i trybu wyłaniania kandydatów na członków Rady Narodowego Centrum Nauki (Dz. U. poz. 1220), które utraciło moc z dniem 1 lipca 2019 r. zgodnie z art. 349 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z 2019 r. poz. 39 i 534 oraz z 2020 r. poz. 695 i 875).
 

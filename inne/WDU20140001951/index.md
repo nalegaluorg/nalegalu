@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-24 |
 | Data wydania | 2014-12-30 |
-| Wejście w życie | 2014-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001951) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1951/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 25 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 25 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 17 listopada 2014 r. zmieniającym rozporządzenie w sprawie rejestru wyborców oraz trybu przekazywania przez Rzeczpospolitą Polską innym państwom członkowskim Unii Europejskiej danych zawartych w tym rejestrze (Dz. U. poz. 1693) § 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 17 listopada 2014 r. zmieniającym rozporządzenie w sprawie rejestru wyborców oraz trybu przekazywania przez Rzeczpospolitą Polską innym państwom członkowskim Unii Europejskiej danych zawartych w tym rejestrze (Dz. U. poz. 1693) § 2 otrzymuje brzmienie: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2015 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 marca 2015 r. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 31 grudnia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2014 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072.
 

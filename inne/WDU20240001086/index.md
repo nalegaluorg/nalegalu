@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 16 lipca 2024 r. w sprawie składu i trybu działania komisji orzekającej oraz trybu orzekania o stanie zdrowia diagnosty laboratoryjnego
+# Rozporządzenie Ministra Zdrowiaz dnia 16 lipca 2024 r. w sprawie składu i trybu działania komisji orzekającej oraz trybu orzekania o stanie zdrowia diagnosty laboratoryjnego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-16 |
 | Data wydania | 2024-07-22 |
-| Wejście w życie | 2024-08-06 |
 | Ostatnia zmiana | 2024-07-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001086) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1086/text.pdf) |
 
@@ -160,6 +159,5 @@ Komisja ulega również rozwiązaniu z dniem podjęcia przez Krajową Radę uchw
 § 13.
 Do postępowań rozpoczętych i niezakończonych przed komisją, o której mowa w art. 15 ust. 1 ustawy z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. z 2022 r. poz. 2162), przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy tego rozporządzenia.
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 2 czerwca 2004 r. w sprawie trybu powoływania i organizacji oraz orzekania komisji orzekającej w przedmiocie niezdolności diagnosty laboratoryjnego do wykonywania czynności diagnostyki laboratoryjnej lub ograniczenia w wykonywaniu tych czynności (Dz. U. poz. 1513), które utraciło moc z dniem 11 grudnia 2023 r. zgodnie z art. 164 ust. 1 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. z 2023 r. poz. 2125).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 2 czerwca 2004 r. w sprawie trybu powoływania i organizacji oraz orzekania komisji orzekającej w przedmiocie niezdolności diagnosty laboratoryjnego do wykonywania czynności diagnostyki laboratoryjnej lub ograniczenia w wykonywaniu tych czynności (Dz. U. poz. 1513), które utraciło moc z dniem 11 grudnia 2023 r. zgodnie z art. 164 ust. 1 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. z 2023 r. poz. 2125). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 2 czerwca 2004 r. w sprawie trybu powoływania i organizacji oraz orzekania komisji orzekającej w przedmiocie niezdolności diagnosty laboratoryjnego do wykonywania czynności diagnostyki laboratoryjnej lub ograniczenia w wykonywaniu tych czynności (Dz. U. poz. 1513), które utraciło moc z dniem 11 grudnia 2023 r. zgodnie z art. 164 ust. 1 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. z 2023 r. poz. 2125).
 

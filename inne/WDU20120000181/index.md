@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-02-06 |
 | Data wydania | 2012-02-17 |
-| Wejście w życie | 2012-03-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000181) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/181/text.pdf) |
 
@@ -38,7 +37,7 @@ patrole ratownicze;
 3)
 punkty pomocy medycznej.
 2.
-Zespoły wyjazdowe, o których mowa w ust. 1 pkt 1, nie mogą być jednocześnie jednostkami systemu Państwowe Ratownictwo Medyczne, o których mowa w art. 32 ust. 1 pkt 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm.).
+Zespoły wyjazdowe, o których mowa w ust. 1 pkt 1, nie mogą być jednocześnie jednostkami systemu Państwowe Ratownictwo Medyczne, o których mowa w art. 32 ust. 1 pkt 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 89, poz. 590 i Nr 166, poz. 1172, z 2008 r. Nr 17, poz. 101 i Nr 237, poz. 1653, z 2009 r. Nr 11, poz. 59 i Nr 122, poz. 1007, z 2010 r. Nr 107, poz. 679 i Nr 219, poz. 1443 oraz z 2011 r. Nr 30, poz. 151, Nr 112, poz. 654 i Nr 208, poz. 1240 i 1241.).
 3.
 Zespołami wyjazdowymi są:
 1)
@@ -48,7 +47,7 @@ zespół wyjazdowy z lekarzem, zwany dalej „zespołem z lekarzem”, odpowiada
 4.
 Patrol ratowniczy, o którym mowa w ust. 1 pkt 2, składa się co najmniej z dwóch osób uprawnionych co najmniej do udzielania kwalifikowanej pierwszej pomocy w rozumieniu art. 3 pkt 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, z zastrzeżeniem ust. 9, i posiada co najmniej wyposażenie określone w § 4.
 5.
-W punkcie pomocy medycznej, o którym mowa w ust. 1 pkt 3, zlokalizowanym w miejscu odbywania imprezy masowej, wyposażonym co najmniej w produkty lecznicze w rozumieniu art. 2 pkt 32 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.) oraz w wyposażenie wyrobu medycznego i wyroby medyczne w rozumieniu art. 2 ust. 1 pkt 33 i 38 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. Nr 107, poz. 679 oraz z 2011 r. Nr 102, poz. 586 i Nr 113, poz. 657), wymienione w § 5 ust. 2, pomocy medycznej udzielają co najmniej dwie osoby, w tym:
+W punkcie pomocy medycznej, o którym mowa w ust. 1 pkt 3, zlokalizowanym w miejscu odbywania imprezy masowej, wyposażonym co najmniej w produkty lecznicze w rozumieniu art. 2 pkt 32 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679 oraz z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696.) oraz w wyposażenie wyrobu medycznego i wyroby medyczne w rozumieniu art. 2 ust. 1 pkt 33 i 38 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. Nr 107, poz. 679 oraz z 2011 r. Nr 102, poz. 586 i Nr 113, poz. 657), wymienione w § 5 ust. 2, pomocy medycznej udzielają co najmniej dwie osoby, w tym:
 1)
 lekarz posiadający prawo wykonywania zawodu oraz co najmniej trzyletnie doświadczenie w udzielaniu świadczeń zdrowotnych oraz
 2)
@@ -224,8 +223,7 @@ Pomoc medyczna udzielana w punkcie pomocy medycznej, patrolu ratowniczym oraz w 
 1)
 przez lekarza – w historii zdrowia i choroby,
 2)
-przez pielęgniarkę – w karcie indywidualnej opieki pielęgniarskiej
-o których mowa w przepisach wydanych na podstawie art. 30 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2012 r. poz. 159).
+przez pielęgniarkę – w karcie indywidualnej opieki pielęgniarskiej – o których mowa w przepisach wydanych na podstawie art. 30 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2012 r. poz. 159).
 2.
 Patrol ratowniczy składający się z osób uprawnionych do udzielania kwalifikowanej pierwszej pomocy w rozumieniu art. 3 pkt 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym dokumentuje wykonane czynności w karcie udzielonej kwalifikowanej pierwszej pomocy, o której mowa w przepisach wydanych na podstawie art. 14 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380 oraz z 2010 r. Nr 57, poz. 353).
 3.
@@ -242,8 +240,7 @@ lekarza systemu, o którym mowa w art. 3 pkt 3 ustawy z dnia 8 września 2006 r.
 2)
 pielęgniarki systemu, o której mowa w art. 3 pkt 6 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, albo
 3)
-ratownika medycznego
-oraz posiada co najmniej 5-letnie doświadczenie w udzielaniu świadczeń zdrowotnych w jednostkach systemu Państwowe Ratownictwo Medyczne.
+ratownika medycznego – oraz posiada co najmniej 5-letnie doświadczenie w udzielaniu świadczeń zdrowotnych w jednostkach systemu Państwowe Ratownictwo Medyczne.
 3.
 Koordynator medyczny imprezy oraz lekarz, o którym mowa w § 1 ust. 5 pkt 1, posiadają znajomość języka angielskiego, umożliwiającą komunikację z osobami poszkodowanymi, potwierdzoną co najmniej pisemnym oświadczeniem o znajomości języka angielskiego.
 4.
@@ -260,5 +257,5 @@ Koordynatora medycznego imprezy oznakowuje się poprzez umieszczenie na kamizelc
 § 11.
 Przepisy rozporządzenia stosuje się do zabezpieczenia medycznego imprez masowych, organizowanych od dnia 1 kwietnia 2012 r.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 89, poz. 590 i Nr 166, poz. 1172, z 2008 r. Nr 17, poz. 101 i Nr 237, poz. 1653, z 2009 r. Nr 11, poz. 59 i Nr 122, poz. 1007, z 2010 r. Nr 107, poz. 679 i Nr 219, poz. 1443 oraz z 2011 r. Nr 30, poz. 151, Nr 112, poz. 654 i Nr 208, poz. 1240 i 1241. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679 oraz z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696.
 

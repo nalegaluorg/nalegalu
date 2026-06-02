@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-05 |
 | Data wydania | 2015-09-08 |
-| Wejście w życie | 2016-01-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001327) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1327/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2015 r. poz. 155, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2015 r. poz. 155, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 541, 1045 i 1273.) wprowadza się następujące zmiany:
 
 - **1)** w art. 106 dodaje się ust. 3 w brzmieniu: „
 
@@ -43,7 +42,7 @@ source: "eli-html"
 
 1a. Obowiązek przedstawienia zaświadczenia o ukończeniu kursu dla kierujących pojazdami uprzywilejowanymi nie dotyczy funkcjonariuszy i kierujących, o których mowa w art. 106 ust. 3.
 
-1b. W stosunku do kierujących pojazdami ochotniczych straży pożarnych, o których mowa w art. 106 ust. 3, dodatkowym warunkiem wydania zezwolenia na kierowanie pojazdem uprzywilejowanym jest przedstawienie zaświadczenia wydanego przez podmiot, o którym mowa w art. 32 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380, z późn. zm.), potwierdzającego, że osoba ma być kierującym pojazdem ochotniczej straży pożarnej. ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
+1b. W stosunku do kierujących pojazdami ochotniczych straży pożarnych, o których mowa w art. 106 ust. 3, dodatkowym warunkiem wydania zezwolenia na kierowanie pojazdem uprzywilejowanym jest przedstawienie zaświadczenia wydanego przez podmiot, o którym mowa w art. 32 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 353, z 2012 r. poz. 908, z 2013 r. poz. 1635 oraz z 2015 r. poz. 867.), potwierdzającego, że osoba ma być kierującym pojazdem ochotniczej straży pożarnej. ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
 
 - **b)**
 - **1)** zakres zezwolenia, o którym mowa w art. 108 ust. 1, odpowiadający: rodzajowi ukończonego kursu, oraz zakresowi badań lekarskich i psychologicznych; ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
@@ -63,5 +62,5 @@ source: "eli-html"
 - **4)** w art. 122 w ust. 1 pkt 1 otrzymuje brzmienie: „
 - **1)** wykonywaniem przez starostę zadań, o których mowa w art. 10 ust. 1 i 2, art. 15 ust. 1, art. 16 ust. 1, art. 18 ust. 2, art. 28 ust. 3, 8 i 10, art. 30 ust. 1, 3–5, art. 31 ust. 1, art. 33 ust. 2, art. 38 ust. 2, art. 43 ust. 1, art. 44 ust. 1–4 i 7, art. 45 ust. 1 i 3, art. 46 ust. 1–3, 6 i 7, art. 47 ust. 5 i 6, art. 92 ust. 1 i 3, art. 96 ust. 2 pkt 2, art. 97 ust. 1, art. 99 ust. 1–3, art. 102 ust. 1, art. 103 ust. 1 i 3 oraz art. 109 ust. 1–4b; ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 4 stycznia 2016 r.
+**Art. 2.** Ustawa wchodzi w życie z dniem 4 stycznia 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 541, 1045 i 1273. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 353, z 2012 r. poz. 908, z 2013 r. poz. 1635 oraz z 2015 r. poz. 867.
 

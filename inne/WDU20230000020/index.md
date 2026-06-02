@@ -26,20 +26,36 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000020) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/20/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się Rozdział 1 – Przepisy ogólne Rozdział 2 – Obsługa osób uprawnionych Rozdział 3 – Rejestr tłumaczy Rozdział 4 – Dofinansowanie kosztów szkolenia PJM, SJM, SKOGN lub tłumacza-przewodnika Rozdział 5 – Polska Rada Języka Migowego Rozdział 6 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się (Dz. U. z 2017 r. poz. 1824), z uwzględnieniem zmian wprowadzonych:
 1)
 ustawą z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583),
 2)
-ustawą z dnia 8 kwietnia 2022 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 830)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 30 listopada 2022 r.
+ustawą z dnia 8 kwietnia 2022 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 830) oraz zmian wynikających z przepisów ogłoszonych przed dniem 30 listopada 2022 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 116 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583), który stanowi:
-„
+art. 116 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583), który stanowi: „
+Przepisy ogólne
+Obsługa osób uprawnionych
+Rejestr tłumaczy
+Dofinansowanie kosztów szkolenia PJM, SJM, SKOGN lub tłumacza-przewodnika
+Polska Rada Języka Migowego
+Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Obsługa osób uprawnionych
+
+#### Rozdział 3 – Rejestr tłumaczy
+
+#### Rozdział 4 – Dofinansowanie kosztów szkolenia PJM, SJM, SKOGN lub tłumacza-przewodnika
+
+#### Rozdział 5 – Polska Rada Języka Migowego
+
+#### Rozdział 6 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 **Art. 116.** Ustawa wchodzi w życie z dniem ogłoszenia, z mocą od dnia 24 lutego 2022 r., z wyjątkiem:
 
@@ -55,7 +71,7 @@ art. 116 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z
 - **4)** art. 1 pkt 38 w zakresie art. 66a ust. 3–7 i 9–12, który wchodzi w życie po upływie 2 dni od dnia ogłoszenia;
 - **5)** art. 17 pkt 15 i 16, które wchodzą w życie z dniem 1 stycznia 2023 r. ” . Załącznik – Tekst jednolity ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa zasady:
 
@@ -76,8 +92,7 @@ art. 116 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
-- **1)** osobie przybranej – należy przez to rozumieć osobę, która ukończyła 16 lat i została wybrana przez osobę uprawnioną w celu ułatwienia porozumienia z osobą uprawnioną i udzielenia jej pomocy w załatwieniu spraw w organach administracji publicznej, jednostkach systemu, podmiotach leczniczych, jednostkach Policji, Państwowej Straży Pożarnej i straży gminnych oraz jednostkach ochotniczych działających w tych obszarach;
-- **1a)** języku polskim – należy przez to rozumieć język polski w piśmie nauczany metodą glottodydaktyczną; przepisy art. 11a ust. 1 ustawy z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2021 r. poz. 672) stosuje się odpowiednio do osób uprawnionych mieszkających na terenie Rzeczypospolitej Polskiej;
+- **1)** osobie przybranej – należy przez to rozumieć osobę, która ukończyła 16 lat i została wybrana przez osobę uprawnioną w celu ułatwienia porozumienia z osobą uprawnioną i udzielenia jej pomocy w załatwieniu spraw w organach administracji publicznej, jednostkach systemu, podmiotach leczniczych, jednostkach Policji, Państwowej Straży Pożarnej i straży gminnych oraz jednostkach ochotniczych działających w tych obszarach; 1aDodany przez art. 87 pkt 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583), która weszła w życie z dniem 12 marca 2022 r., z mocą od dnia 24 lutego 2022 r.) języku polskim – należy przez to rozumieć język polski w piśmie nauczany metodą glottodydaktyczną; przepisy art. 11a ust. 1 ustawy z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2021 r. poz. 672) stosuje się odpowiednio do osób uprawnionych mieszkających na terenie Rzeczypospolitej Polskiej;
 - **2)** polskim języku migowym (PJM) – należy przez to rozumieć naturalny wizualno-przestrzenny język komunikowania się osób uprawnionych;
 - **3)** systemie językowo-migowym (SJM) – należy przez to rozumieć podstawowy środek komunikowania się osób uprawnionych, w którym znaki migowe wspierają wypowiedź dźwiękowo-artykulacyjną;
 - **4)** sposobach komunikowania się osób głuchoniewidomych (SKOGN) – należy przez to rozumieć podstawowy środek komunikowania się osób uprawnionych, w którym sposób przekazu komunikatu jest dostosowany do potrzeb wynikających z łącznego występowania dysfunkcji narządu wzroku i słuchu;
@@ -109,9 +124,9 @@ art. 116 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z
 - **1)** organy administracji publicznej,
 - **2)** jednostki systemu,
 - **3)** podmioty lecznicze,
-- **4)** jednostki Policji, Państwowej Straży Pożarnej i straże gminne oraz jednostki ochotnicze działające w tych obszarach zwane dalej „podmiotami zobowiązanymi”.
+- **4)** jednostki Policji, Państwowej Straży Pożarnej i straże gminne oraz jednostki ochotnicze działające w tych obszarach – zwane dalej „podmiotami zobowiązanymi”.
 
-#### Rozdział 2 Obsługa osób uprawnionych
+#### Rozdział 2
 
 **Art. 7.**
 
@@ -174,7 +189,7 @@ art. 116 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z
 
 2. Organ administracji publicznej zamieszcza wszystkie niezbędne informacje o organie i sposobach realizacji ustawy, w miejscach dostępnych dla osób uprawnionych.
 
-#### Rozdział 3 Rejestr tłumaczy
+#### Rozdział 3
 
 **Art. 15.**
 
@@ -196,7 +211,7 @@ art. 116 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z
 - **6)** wzór oświadczenia potwierdzającego znajomość PJM, SJM i SKOGN,
 - **7)** zasady wpisu do rejestru, zmiany danych i skreślenia na liście,
 - **8)** tryb udostępniania informacji, ich zakres, a także tryb udostępniania wniosków oraz ich składania,
-- **9)** zakres danych publikowanych w rejestrze mając na uwadze potrzebę zapewnienia sprawnego funkcjonowania rejestru.
+- **9)** zakres danych publikowanych w rejestrze – mając na uwadze potrzebę zapewnienia sprawnego funkcjonowania rejestru.
 
 **Art. 17.**
 
@@ -206,11 +221,9 @@ art. 116 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z
 
 3. Wynagrodzenie, o którym mowa w ust. 2, jest wypłacane przez organ administracji publicznej, na zasadach określonych w odrębnych przepisach.
 
-#### Rozdział 4 Dofinansowanie kosztów szkolenia PJM, SJM, SKOGN lub tłumacza-przewodnika
+#### Rozdział 4
 
-**Art. 18.**
-
-1. Osoby, o których mowa w:
+**Art. 18.** 1W brzmieniu ustalonym przez art. 16 ustawy z dnia 8 kwietnia 2022 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 830), która weszła w życie z dniem 15 kwietnia 2022 r., z mocą od dnia 24 lutego 2022 r.. Osoby, o których mowa w:
 
 - **1)** art. 2 ust. 1 – mogą korzystać z wybranej przez siebie formy szkolenia PJM, SJM, SKOGN lub tłumacza-przewodnika;
 - **2)** art. 2 ust. 1 pkt 1 – mogą korzystać z wybranej przez siebie formy szkolenia z języka polskiego.
@@ -223,9 +236,9 @@ art. 116 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z
 
 - **1)** tryb składania i rozpatrywania wniosków o dofinansowanie kosztów szkolenia, o którym mowa w ust. 1, wysokość oraz sposób przyznawania i przekazywania środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych na ten cel,
 - **2)** zakres oraz formę dodatkowych informacji i dokumentów składanych wraz z wnioskiem, o którym mowa w pkt 1,
-- **3)** wzory wniosków, o których mowa w pkt 1 mając na uwadze prawidłowe funkcjonowanie mechanizmu dofinansowania kosztów szkolenia języka polskiego, PJM, SJM, SKOGN i tłumacza-przewodnika oraz uwzględnienie potrzeb osób korzystających z tych szkoleń, a także uwzględniając różnice w grupach uprawnionych do dofinansowania.
+- **3)** wzory wniosków, o których mowa w pkt 1 – mając na uwadze prawidłowe funkcjonowanie mechanizmu dofinansowania kosztów szkolenia języka polskiego, PJM, SJM, SKOGN i tłumacza-przewodnika oraz uwzględnienie potrzeb osób korzystających z tych szkoleń, a także uwzględniając różnice w grupach uprawnionych do dofinansowania.Część wspólna ze zmianą wprowadzoną przez art. 87 pkt 2 lit. b ustawy, o której mowa w odnośniku 1.
 
-#### Rozdział 5 Polska Rada Języka Migowego
+#### Rozdział 5
 
 **Art. 19.**
 
@@ -301,7 +314,7 @@ art. 116 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z
 
 6. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze zarządzenia, sposób i tryb działania Rady, w tym jej organizację, mając na względzie zapewnienie sprawnego funkcjonowania Rady.
 
-#### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+#### Rozdział 6
 
 **Art. 26.** (pominięty)
 
@@ -313,5 +326,5 @@ art. 116 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z
 
 **Art. 28.** W sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-**Art. 29.** Ustawa wchodzi w życie z dniem 1 kwietnia 2012 r., z wyjątkiem art. 7 i art. 8, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 29.** Ustawa wchodzi w życie z dniem 1 kwietnia 2012 r., z wyjątkiem art. 7 i art. 8, które wchodzą w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 3 października 2011 r.. 1) Dodany przez art. 87 pkt 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583), która weszła w życie z dniem 12 marca 2022 r., z mocą od dnia 24 lutego 2022 r. 2) W brzmieniu ustalonym przez art. 16 ustawy z dnia 8 kwietnia 2022 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 830), która weszła w życie z dniem 15 kwietnia 2022 r., z mocą od dnia 24 lutego 2022 r. 3) Część wspólna ze zmianą wprowadzoną przez art. 87 pkt 2 lit. b ustawy, o której mowa w odnośniku 1. 4) Ustawa została ogłoszona w dniu 3 października 2011 r.
 

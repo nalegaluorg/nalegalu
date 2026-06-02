@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 3 listopada 2022 r. w sprawie trybu i terminów przekazywania danych pomiędzy rejestrem PESEL a rejestrami centralnymi
+# Rozporządzenie Ministra Cyfryzacjiz dnia 3 listopada 2022 r. w sprawie trybu i terminów przekazywania danych pomiędzy rejestrem PESEL a rejestrami centralnymi Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-03 |
 | Data wydania | 2022-11-10 |
-| Wejście w życie | 2022-11-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002288) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2288/text.pdf) |
 
@@ -73,6 +72,5 @@ Po zarejestrowaniu w rejestrze PESEL zmiany danych posiadacza dokumentu paszport
 3.
 Po nadaniu lub zmianie numeru PESEL przez ministra właściwego do spraw informatyzacji rejestr PESEL przekazuje numer PESEL do RSC.
 § 9.
-Rozporządzenie wchodzi w życie z dniem określonym w komunikacie wydanym na podstawie art. 110a ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 24 grudnia 2014 r. w sprawie trybu i terminów przekazywania danych pomiędzy rejestrem PESEL a rejestrami centralnymi (Dz. U. poz. 1942), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. poz. 350 i 583).
+Rozporządzenie wchodzi w życie z dniem określonym w komunikacie wydanym na podstawie art. 110a ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 24 grudnia 2014 r. w sprawie trybu i terminów przekazywania danych pomiędzy rejestrem PESEL a rejestrami centralnymi (Dz. U. poz. 1942), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. poz. 350 i 583). 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 24 grudnia 2014 r. w sprawie trybu i terminów przekazywania danych pomiędzy rejestrem PESEL a rejestrami centralnymi (Dz. U. poz. 1942), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. poz. 350 i 583).
 

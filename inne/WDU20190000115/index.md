@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-06 |
 | Data wydania | 2019-01-18 |
-| Wejście w życie | 2019-04-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000115) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/115/text.pdf) |
 
@@ -62,7 +61,7 @@ source: "eli-html"
 
 5b. Obsługę komisji konkursowej, o której mowa w ust. 4, w tym niezbędne warunki organizacyjne i środki finansowe związane z przeprowadzeniem postępowania konkursowego na kandydata na stanowisko dyrektora instytucji kultury oraz działalnością komisji konkursowej, zapewnia organizator.
 
-5c. Członkowi komisji konkursowej, o której mowa w ust. 4, zamieszkałemu poza miejscowością, w której odbywa się posiedzenie komisji konkursowej, niebędącemu pracownikiem podmiotu, którego jest przedstawicielem w komisji konkursowej, biorącemu udział w posiedzeniu komisji konkursowej organizator zwraca koszty podróży w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.). ” , ust. 6 otrzymuje brzmienie: „
+5c. Członkowi komisji konkursowej, o której mowa w ust. 4, zamieszkałemu poza miejscowością, w której odbywa się posiedzenie komisji konkursowej, niebędącemu pracownikiem podmiotu, którego jest przedstawicielem w komisji konkursowej, biorącemu udział w posiedzeniu komisji konkursowej organizator zwraca koszty podróży w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432.). ” , ust. 6 otrzymuje brzmienie: „
 
 - **c)**
 
@@ -70,7 +69,7 @@ source: "eli-html"
 
 - **1)** podania do publicznej wiadomości informacji o zamiarze ogłoszenia konkursu, w tym terminu i miejsca podania tej informacji do publicznej wiadomości,
 - **2)** ogłoszenia konkursu, w tym terminu i miejsca publikacji tego ogłoszenia,
-- **3)** przeprowadzania konkursu uwzględniając przyczyny ogłoszenia konkursu, konieczność zapewnienia powszechnego dostępu do informacji o zamiarze ogłoszenia konkursu, do ogłoszenia konkursu oraz do jego warunków, zapewnienie sposobu rzetelnej oceny uczestników konkursu oraz sprawnego przeprowadzenia procedury konkursowej. ” , dodaje się ust. 7–13 w brzmieniu: „
+- **3)** przeprowadzania konkursu – uwzględniając przyczyny ogłoszenia konkursu, konieczność zapewnienia powszechnego dostępu do informacji o zamiarze ogłoszenia konkursu, do ogłoszenia konkursu oraz do jego warunków, zapewnienie sposobu rzetelnej oceny uczestników konkursu oraz sprawnego przeprowadzenia procedury konkursowej. ” , dodaje się ust. 7–13 w brzmieniu: „
     - **d)**
 
 7. Członkiem komisji konkursowej nie może być osoba:
@@ -121,7 +120,7 @@ source: "eli-html"
 
 9. Bilans zamknięcia przekształcanego instytutu badawczego staje się bilansem otwarcia państwowej instytucji kultury.
 
-10. Pracownicy przekształcanego instytutu badawczego stają się pracownikami państwowej instytucji kultury na zasadach określonych w art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.).
+10. Pracownicy przekształcanego instytutu badawczego stają się pracownikami państwowej instytucji kultury na zasadach określonych w art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432.).
 
 11. Przekształcany instytut badawczy staje się państwową instytucją kultury z dniem dokonania wpisu państwowej instytucji kultury do rejestru instytucji kultury.
 
@@ -129,5 +128,5 @@ source: "eli-html"
 
 13. Instytucja kultury utworzona w trybie ust. 1–12 wstępuje we wszystkie stosunki prawne, których podmiotem była przekształcona instytucja, bez względu na charakter prawny tych stosunków, w szczególności pozostaje podmiotem zezwoleń, koncesji oraz ulg, które zostały przyznane tej instytucji przed jej przekształceniem, chyba że ustawa lub decyzja o udzieleniu zezwolenia, koncesji lub ulgi stanowi inaczej.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 3, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 3, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-04 |
 | Data wydania | 2022-11-23 |
-| Wejście w życie | 2022-12-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002414) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2414/text.pdf) |
 
@@ -42,7 +41,7 @@ source: "eli-html"
 
 - **1)** posiadaniu statusu dużego przedsiębiorcy składa się najpóźniej w momencie zawarcia pierwszej transakcji handlowej między stronami,
 - **2)** uzyskaniu statusu dużego przedsiębiorcy składa się najpóźniej w momencie zawarcia pierwszej transakcji handlowej między stronami po uzyskaniu tego statusu,
-- **3)** utracie statusu dużego przedsiębiorcy składa się najpóźniej w momencie zawarcia pierwszej transakcji handlowej między stronami po utracie tego statusu jednokrotnie, w formie, w jakiej jest zawierana ta transakcja handlowa. ” ;
+- **3)** utracie statusu dużego przedsiębiorcy składa się najpóźniej w momencie zawarcia pierwszej transakcji handlowej między stronami po utracie tego statusu – jednokrotnie, w formie, w jakiej jest zawierana ta transakcja handlowa. ” ;
 - **4)** po art. 9 dodaje się art. 9a w brzmieniu: „
 
 **Art. 9a.**
@@ -54,7 +53,7 @@ source: "eli-html"
 - **5)** w art. 13a: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Podmioty, o których mowa w art. 27b ust. 2 pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2021 r. poz. 1800, z późn. zm.), których indywidualne dane zostały podane do publicznej wiadomości w terminie wskazanym w art. 27b ust. 1 tej ustawy, z wyłączeniem podmiotów publicznych będących podmiotami leczniczymi oraz podmiotów, o których mowa w art. 6 ust. 1 pkt 1 i ust. 2 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, przekazują ministrowi właściwemu do spraw gospodarki drogą elektroniczną w terminie do dnia 30 kwietnia roku bezpośrednio następującego po roku, w którym ich indywidualne dane zostały podane do publicznej wiadomości, sprawozdanie o stosowanych przez te podmioty w poprzednim roku kalendarzowym terminach zapłaty w transakcjach handlowych. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+1. Podmioty, o których mowa w art. 27b ust. 2 pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2021 r. poz. 1800, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1927, 2105, 2106, 2269 i 2427 oraz z 2022 r. poz. 583, 655, 830, 872, 1079, 1265, 1561, 1812, 1967, 2014 i 2180.), których indywidualne dane zostały podane do publicznej wiadomości w terminie wskazanym w art. 27b ust. 1 tej ustawy, z wyłączeniem podmiotów publicznych będących podmiotami leczniczymi oraz podmiotów, o których mowa w art. 6 ust. 1 pkt 1 i ust. 2 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, przekazują ministrowi właściwemu do spraw gospodarki drogą elektroniczną w terminie do dnia 30 kwietnia roku bezpośrednio następującego po roku, w którym ich indywidualne dane zostały podane do publicznej wiadomości, sprawozdanie o stosowanych przez te podmioty w poprzednim roku kalendarzowym terminach zapłaty w transakcjach handlowych. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
 - **b)**
 
@@ -66,10 +65,28 @@ source: "eli-html"
     - **c)**
     - **d)**
 
-3. Za przekazanie w terminie sprawozdania, o którym mowa w ust. 1, jest odpowiedzialny kierownik podmiotu, o którym mowa w art. 27b ust. 2 pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych. Za kierownika podmiotu uznaje się członka zarządu lub innego organu zarządzającego tego podmiotu, osobę pełniącą funkcję takiego organu, a jeżeli w podmiocie tym nie działa taki organ – osobę zarządzającą jego działalnością. W przypadku spółki komandytowo-akcyjnej oraz spółki komandytowej za kierownika podmiotu uznaje się komplementariusza prowadzącego sprawy spółki, a w przypadku spółki jawnej – wspólnika prowadzącego sprawy spółki. Za kierownika podmiotu uznaje się również likwidatora, syndyka oraz zarządcę ustanowionego w postępowaniu restrukturyzacyjnym. ” , w ust. 4: – we wprowadzeniu do wyliczenia wyrazy „art. 27b ust. 2 pkt 1 i 2” zastępuje się wyrazami „art. 27b ust. 2 pkt 2”, – pkt 2–5 otrzymują brzmienie: „ 2) wartość świadczeń pieniężnych otrzymanych w poprzednim roku kalendarzowym w terminie określonym w umowie; 3) wartość świadczeń pieniężnych spełnionych w poprzednim roku kalendarzowym w terminie określonym w umowie; 4) wartość świadczeń pieniężnych nieotrzymanych w poprzednim roku kalendarzowym w terminie określonym w umowie, w przypadku których przekroczono ten termin o: a) nie więcej niż 5 dni, b) 6 do 30 dni, c) 31 do 60 dni, d) 61 do 120 dni, e) więcej niż 120 dni; 5) wartość świadczeń pieniężnych niespełnionych w poprzednim roku kalendarzowym w terminie określonym w umowie, w przypadku których przekroczono ten termin o: a) nie więcej niż 5 dni, b) 6 do 30 dni, c) 31 do 60 dni, d) 61 do 120 dni, e) więcej niż 120 dni; ” , – dodaje się pkt 6 i 7 w brzmieniu: „ 6) udział procentowy poszczególnych świadczeń pieniężnych, o których mowa w pkt 4, w całkowitej wartości świadczeń pieniężnych należnych temu podmiotowi w poprzednim roku kalendarzowym; 7) udział procentowy poszczególnych świadczeń pieniężnych, o których mowa w pkt 5, w całkowitej wartości świadczeń pieniężnych, do których spełnienia zobowiązany był ten podmiot w poprzednim roku kalendarzowym. ” , po ust. 4 dodaje się ust. 4a-4d w brzmieniu: „
+3. Za przekazanie w terminie sprawozdania, o którym mowa w ust. 1, jest odpowiedzialny kierownik podmiotu, o którym mowa w art. 27b ust. 2 pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych. Za kierownika podmiotu uznaje się członka zarządu lub innego organu zarządzającego tego podmiotu, osobę pełniącą funkcję takiego organu, a jeżeli w podmiocie tym nie działa taki organ – osobę zarządzającą jego działalnością. W przypadku spółki komandytowo-akcyjnej oraz spółki komandytowej za kierownika podmiotu uznaje się komplementariusza prowadzącego sprawy spółki, a w przypadku spółki jawnej – wspólnika prowadzącego sprawy spółki. Za kierownika podmiotu uznaje się również likwidatora, syndyka oraz zarządcę ustanowionego w postępowaniu restrukturyzacyjnym. ” , w ust. 4: – we wprowadzeniu do wyliczenia wyrazy „art. 27b ust. 2 pkt 1 i 2” zastępuje się wyrazami „art. 27b ust. 2 pkt 2”, pkt 2–5 otrzymują brzmienie: „
 
 - **e)**
-- **f)**
+- **2)** wartość świadczeń pieniężnych otrzymanych w poprzednim roku kalendarzowym w terminie określonym w umowie;
+- **3)** wartość świadczeń pieniężnych spełnionych w poprzednim roku kalendarzowym w terminie określonym w umowie;
+- **4)** wartość świadczeń pieniężnych nieotrzymanych w poprzednim roku kalendarzowym w terminie określonym w umowie, w przypadku których przekroczono ten termin o: nie więcej niż 5 dni, 6 do 30 dni, 31 do 60 dni, 61 do 120 dni, więcej niż 120 dni;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **5)** wartość świadczeń pieniężnych niespełnionych w poprzednim roku kalendarzowym w terminie określonym w umowie, w przypadku których przekroczono ten termin o: nie więcej niż 5 dni, 6 do 30 dni, 31 do 60 dni, 61 do 120 dni, więcej niż 120 dni; ” , dodaje się pkt 6 i 7 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **6)** udział procentowy poszczególnych świadczeń pieniężnych, o których mowa w pkt 4, w całkowitej wartości świadczeń pieniężnych należnych temu podmiotowi w poprzednim roku kalendarzowym;
+- **7)** udział procentowy poszczególnych świadczeń pieniężnych, o których mowa w pkt 5, w całkowitej wartości świadczeń pieniężnych, do których spełnienia zobowiązany był ten podmiot w poprzednim roku kalendarzowym. ” , po ust. 4 dodaje się ust. 4a-4d w brzmieniu: „
+    - **f)**
 
 4a. Dane, o których mowa w ust. 4 pkt 2–7, podaje się z uwzględnieniem art. 13 ust. 2.
 
@@ -192,6 +209,6 @@ source: "eli-html"
 **Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 4, który wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia;
-- **2)** art. 1 pkt 5, 6 i 15 oraz art. 3 ust. 4 i 5, które wchodzą w życie z dniem 1 stycznia 2023 r.
+- **2)** art. 1 pkt 5, 6 i 15 oraz art. 3 ust. 4 i 5, które wchodzą w życie z dniem 1 stycznia 2023 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1927, 2105, 2106, 2269 i 2427 oraz z 2022 r. poz. 583, 655, 830, 872, 1079, 1265, 1561, 1812, 1967, 2014 i 2180.
 
 

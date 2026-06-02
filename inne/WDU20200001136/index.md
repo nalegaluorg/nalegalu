@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-29 |
 | Data wydania | 2020-06-29 |
-| Wejście w życie | 2020-06-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001136) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1136/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Prezesa Rady Ministrów z dnia 24 grudnia 2019 r. w sprawie wp
 1)
 w § 8 w ust. 2 wyrazy „30 dni od dnia ogłoszenia komunikatu, o którym mowa w § 5” zastępuje się wyrazami „do dnia 31 października danego roku kalendarzowego”;
 2)
-w § 10 po ust. 1 dodaje się ust. 1a-1e w brzmieniu:
-„
+w § 10 po ust. 1 dodaje się ust. 1a-1e w brzmieniu: „
 1a.
 W 2020 r. pośrednik kredytu hipotecznego ustala zaliczkę na poczet pokrycia kosztów nadzoru za rok 2020 w wysokości stanowiącej iloczyn sumy przychodów z działalności pośrednictwa kredytu hipotecznego uzyskanych przez pośrednika kredytu hipotecznego, w tym przez jego agentów, w roku 2019 i stawki 0,1%.
 1b.
@@ -44,8 +42,7 @@ W 2020 r. Przewodniczący Komisji Nadzoru Finansowego podaje do publicznej wiado
 1d.
 W 2020 r. pośrednik kredytu hipotecznego przekazuje Urzędowi Komisji Nadzoru Finansowego deklarację o wysokości należnej wpłaty, o której mowa w § 6, w terminie do dnia 30 listopada 2020 r.
 1e.
-W 2020 r. w przypadku powstania niedopłaty pośrednik kredytu hipotecznego dokonuje wpłaty należności przelewem na rachunek bankowy Urzędu Komisji Nadzoru Finansowego, w terminie do dnia 30 listopada 2020 r.
-” .
+W 2020 r. w przypadku powstania niedopłaty pośrednik kredytu hipotecznego dokonuje wpłaty należności przelewem na rachunek bankowy Urzędu Komisji Nadzoru Finansowego, w terminie do dnia 30 listopada 2020 r. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

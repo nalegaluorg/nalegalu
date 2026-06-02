@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1993-12-10 |
 | Data wydania | 1993-12-24 |
-| Wejście w życie | 1994-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19931290602) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1993/602/text.pdf) |
 
@@ -49,7 +48,7 @@ source: "eli-html"
 3a. W razie zbiegu okresów opłacania składek na Fundusz Emerytalny Rolników i Fundusz Ubezpieczenia Społecznego Rolników, przypadających od dnia 1 lipca 1977 r., z okresami:
 
 - **1)** innego ubezpieczenia społecznego, nawet jeżeli okresy składkowe i nieskładkowe, ustalone w myśl art. 2–4, nie wymagałyby uzupełnienia w celu nabycia prawa do świadczenia,
-- **2)** pobierania emerytury lub renty z ubezpieczenia społecznego świadczenie ulega zwiększeniu, o którym mowa w ust. 3, za okres opłacania tych składek. ” , po ust. 3a dodaje się ust. 3b i 3c w brzmieniu: „
+- **2)** pobierania emerytury lub renty z ubezpieczenia społecznego – świadczenie ulega zwiększeniu, o którym mowa w ust. 3, za okres opłacania tych składek. ” , po ust. 3a dodaje się ust. 3b i 3c w brzmieniu: „
     - **b)**
 
 3b. Zwiększeniu, o którym mowa w ust. 3, za okres opłacania składek na Fundusz Emerytalny Rolników, Fundusz Ubezpieczenia Społecznego Rolników i ubezpieczenie emerytalno-rentowe rolników ulega również świadczenie, nawet jeżeli okresy składkowe i nieskładkowe nie wymagałyby uzupełnienia w celu nabycia tego świadczenia.

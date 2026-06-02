@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwojuz dnia 21 stycznia 2016 r. w sprawie wymagań dotyczących prowadzenia procesu termicznego przekształcania odpadów oraz sposobów postępowania z odpadami powstałymi w wyniku tego procesu
+# Rozporządzenie Ministra Rozwojuz dnia 21 stycznia 2016 r. w sprawie wymagań dotyczących prowadzenia procesu termicznego przekształcania odpadów oraz sposobów postępowania z odpadami powstałymi w wyniku tego procesu Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/75/UE z dnia 24 listopada 2010 r. w sprawie emisji przemysłowych (zintegrowane zapobieganie zanieczyszczeniom i ich kontrola) (Dz. Urz. UE L 334 z 17.12.2010, str. 17, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-01-21 |
 | Data wydania | 2016-01-22 |
-| Wejście w życie | 2016-01-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000108) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/108/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 160 ust. 8 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 160 ust. 8 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238, z 2014 r. poz. 695, 1101 i 1322 oraz z 2015 r. poz. 87, 122, 933, 1045, 1688, 1936 i 2281.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -122,5 +121,5 @@ Stężenie metali ciężkich w wyciągach wodnych z badania wymywalności tych m
 4.
 Badanie wymywalności metali ciężkich z wyrobów betonowych, zawierających unieszkodliwione odpady niebezpieczne, o których mowa w ust. 1, przeprowadza się przez całkowite zanurzenie w wodzie próbki badanego materiału i utrzymanie jej przez 48 godzin przy stałym mieszaniu; do badania używa się wody niezawierającej chloru, o temperaturze w granicach 18°-22°C i twardości w granicach 3–6 mval/dm3; stosunek wagowy wody do materiału badanego powinien wynosić 10:1.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 24 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 24 stycznia 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 21 marca 2002 r. w sprawie wymagań dotyczących prowadzenia procesu termicznego przekształcania odpadów (Dz. U. Nr 37, poz. 339, z 2004 r. Nr 1, poz. 2 oraz z 2010 r. Nr 61, poz. 380), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 250 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, 888 i 1238, z 2014 r. poz. 695, 1101 i 1322 oraz z 2015 r. poz. 87, 122, 933, 1045, 1688, 1936 i 2281). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/75/UE z dnia 24 listopada 2010 r. w sprawie emisji przemysłowych (zintegrowane zapobieganie zanieczyszczeniom i ich kontrola) (Dz. Urz. UE L 334 z 17.12.2010, str. 17, z późn. zm.). 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238, z 2014 r. poz. 695, 1101 i 1322 oraz z 2015 r. poz. 87, 122, 933, 1045, 1688, 1936 i 2281. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 21 marca 2002 r. w sprawie wymagań dotyczących prowadzenia procesu termicznego przekształcania odpadów (Dz. U. Nr 37, poz. 339, z 2004 r. Nr 1, poz. 2 oraz z 2010 r. Nr 61, poz. 380), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 250 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, 888 i 1238, z 2014 r. poz. 695, 1101 i 1322 oraz z 2015 r. poz. 87, 122, 933, 1045, 1688, 1936 i 2281).
 

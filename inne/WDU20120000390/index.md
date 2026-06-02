@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-04-02 |
 | Data wydania | 2012-04-11 |
-| Wejście w życie | 2012-04-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000390) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/390/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wykaz bibliotek zaliczonych do bibliotek naukowych
 Treść rozporządzenia
-Na podstawie art. 21 ust. 4 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. Nr 85, poz. 539, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 21 ust. 4 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. Nr 85, poz. 539, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2001 r. Nr 129, poz. 1440, z 2002 r. Nr 113, poz. 984, z 2004 r. Nr 238, poz. 2390, z 2006 r. Nr 220, poz. 1600 oraz z 2011 r. Nr 112, poz. 654 i Nr 207, poz. 1230.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób i tryb zaliczania bibliotek do bibliotek naukowych, o których mowa w art. 21 ust. 2 pkt 5 ustawy z dnia 27 czerwca 1997 r. o bibliotekach, zwanych dalej „bibliotekami naukowymi”, oraz ustala ich wykaz.
 § 2.
@@ -85,7 +84,7 @@ Biblioteki zaliczone do bibliotek naukowych na podstawie dotychczasowych przepis
 2.
 W przypadku bibliotek, o których mowa w ust. 1, ocenę w zakresie spełniania kryteriów, o których mowa w § 2, przeprowadza się nie wcześniej niż trzy lata, a nie później niż cztery lata od dnia zaliczenia biblioteki do bibliotek naukowych.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Sztuki z dnia 19 marca 1998 r. w sprawie zasad i trybu zaliczania bibliotek do bibliotek naukowych oraz ustalania ich wykazu (Dz. U. Nr 44, poz. 269, z 2001 r. Nr 28, poz. 313 i Nr 114, poz. 1219, z 2006 r. Nr 240, poz. 1742 oraz z 2010 r. Nr 121, poz. 811), które na podstawie art. 13 pkt 3 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. Nr 207, poz. 1230) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2001 r. Nr 129, poz. 1440, z 2002 r. Nr 113, poz. 984, z 2004 r. Nr 238, poz. 2390, z 2006 r. Nr 220, poz. 1600 oraz z 2011 r. Nr 112, poz. 654 i Nr 207, poz. 1230. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Sztuki z dnia 19 marca 1998 r. w sprawie zasad i trybu zaliczania bibliotek do bibliotek naukowych oraz ustalania ich wykazu (Dz. U. Nr 44, poz. 269, z 2001 r. Nr 28, poz. 313 i Nr 114, poz. 1219, z 2006 r. Nr 240, poz. 1742 oraz z 2010 r. Nr 121, poz. 811), które na podstawie art. 13 pkt 3 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. Nr 207, poz. 1230) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 Załącznik – Wykaz bibliotek zaliczonych do bibliotek naukowych
 1.
 Biblioteka Śląska w Katowicach

@@ -22,17 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1989-05-29 |
 | Data wydania | 1989-06-06 |
-| Wejście w życie | 1989-07-19 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890340178) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1989/178/text.pdf) |
 
+Powszechnie obowiązująca wykładnia ustaw
 1.
 Trybunał Konstytucyjny ustala powszechnie obowiązującą wykładnię ustaw na wniosek Prezydenta, Prezesa Rady Ministrów, Pierwszego Prezesa Sądu Najwyższego, Prezesa Naczelnego Sądu Administracyjnego, Rzecznika Praw Obywatelskich, Prokuratora Generalnego Polskiej Rzeczypospolitej Ludowej.
 2.
 Trybunał Konstytucyjny ustala powszechnie obowiązującą wykładnię ustaw na posiedzeniu pełnego składu w drodze uchwały.
 3.
-Uchwały, o których mowa w ust. 2, ogłasza się w Dzienniku Ustaw Polskiej Rzeczypospolitej Ludowej.
-” ;
+Uchwały, o których mowa w ust. 2, ogłasza się w Dzienniku Ustaw Polskiej Rzeczypospolitej Ludowej. ” ;
 6)
 w art. 14 ust. 3 wyrazy „dokonuje się w toku tej samej lub najbliższej sesji Sejmu, w której nastąpiło odwołanie lub stwierdzenie wygaśnięcia mandatu członka Trybunału” zastępuje się wyrazami „Sejm dokonuje nie później niż w okresie trzech miesięcy od odwołania lub stwierdzenia wygaśnięcia mandatu członka Trybunału”;
 7)
@@ -249,8 +248,10 @@ w ust. 1 i 2 wyrazy „Rada Państwa” zastępuje się wyrazami „Rada Ministr
 **Art. 12.** W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. Nr 31, poz. 214, z 1984 r. Nr 35, poz. 187, z 1988 r. Nr 19, poz. 132 i z 1989 r. Nr 4, poz. 24) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 ust. 1 pkt 2 wyrazy „Kancelarii Rady Państwa” zastępuje się wyrazami „Kancelarii Prezydenta”;
-- **2)** w art. 48: w ust. 1: – w pkt 1 dodaje się wyrazy „biura Trybunału Konstytucyjnego i Rzecznika Praw Obywatelskich oraz Państwowej Inspekcji Pracy”, – pkt 2 otrzymuje brzmienie: „ 2) Prezydent Polskiej Rzeczypospolitej Ludowej w odniesieniu do pracowników Kancelarii Prezydenta, Sądu Najwyższego i Prokuratury Polskiej Rzeczypospolitej Ludowej ” , w ust. 3 wyrazy „Marszałkowi Sejmu i Przewodniczącemu Rady Państwa” zastępuje się wyrazami „Prezydentowi, Marszałkowi Sejmu i Marszałkowi Senatu”.
+- **2)** w art. 48: w ust. 1: – w pkt 1 dodaje się wyrazy „biura Trybunału Konstytucyjnego i Rzecznika Praw Obywatelskich oraz Państwowej Inspekcji Pracy”, pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** Prezydent Polskiej Rzeczypospolitej Ludowej w odniesieniu do pracowników Kancelarii Prezydenta, Sądu Najwyższego i Prokuratury Polskiej Rzeczypospolitej Ludowej ” , w ust. 3 wyrazy „Marszałkowi Sejmu i Przewodniczącemu Rady Państwa” zastępuje się wyrazami „Prezydentowi, Marszałkowi Sejmu i Marszałkowi Senatu”.
     - **b)**
 
 **Art. 13.** W ustawie z dnia 14 grudnia 1982 r. o ochronie tajemnicy państwowej i służbowej (Dz. U. Nr 40, poz. 271) w art. 7 ust. 6 wprowadza się następujące zmiany:
@@ -349,7 +350,7 @@ w pkt 1 skreśla się przecinek i dodaje wyrazy „oraz powoływanych lub nadzor
 
 - **5)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
 
-#### Rozdział 4a Powszechnie obowiązująca wykładnia ustaw
+#### Rozdział 4a
 
 **Art. 20.**
 

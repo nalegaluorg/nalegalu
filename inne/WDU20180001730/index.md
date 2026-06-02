@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Energiiz dnia 3 września 2018 r. w sprawie zabezpieczenia finansowego wnoszonego przez dostawców mocy oraz uczestników aukcji wstępnych
+# Rozporządzenie Ministra Energiiz dnia 3 września 2018 r. w sprawie zabezpieczenia finansowego wnoszonego przez dostawców mocy oraz uczestników aukcji wstępnych Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-03 |
 | Data wydania | 2018-09-06 |
-| Wejście w życie | 2018-09-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001730) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1730/text.pdf) |
 
@@ -60,7 +59,7 @@ Zabezpieczenie finansowe, o którym mowa w § 2 ust. 1 i 2, może mieć formę:
 1)
 pieniężną; w takim przypadku wpłaty kwoty zabezpieczenia dokonuje się na oprocentowany rachunek bankowy prowadzony dla operatora, lub
 2)
-gwarancji ubezpieczeniowej lub bankowej, udzielonej przez instytucję finansową mającą siedzibę na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, posiadającą rating kredytowy w rozumieniu art. 3 pkt 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1060/2009 z dnia 16 września 2009 r. w sprawie agencji ratingowych (Dz. Urz. UE L 302 z 17.11.2009, str. 1, z późn. zm.), co najmniej na poziomie kategorii ratingowej wskazanej w § 7 ust. 2 oraz spełniający wymagania, o których mowa w § 7 ust. 3;
+gwarancji ubezpieczeniowej lub bankowej, udzielonej przez instytucję finansową mającą siedzibę na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, posiadającą rating kredytowy w rozumieniu art. 3 pkt 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1060/2009 z dnia 16 września 2009 r. w sprawie agencji ratingowych (Dz. Urz. UE L 302 z 17.11.2009, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 350 z 29.12.2009, str. 59, Dz. Urz. UE L 145 z 31.05.2011, str. 30, Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 146 z 31.05.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1 oraz Dz. Urz. UE L 347 z 28.12.2017, str. 35., co najmniej na poziomie kategorii ratingowej wskazanej w § 7 ust. 2 oraz spełniający wymagania, o których mowa w § 7 ust. 3;
 3)
 poręczenia spółki:
 a)
@@ -68,7 +67,7 @@ z grupy kapitałowej, będącej w stosunku do podmiotu, któremu udzielane jest 
 b)
 posiadającej rating kredytowy w rozumieniu art. 3 pkt 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1060/2009 z dnia 16 września 2009 r. w sprawie agencji ratingowych, co najmniej na poziomie kategorii ratingowej wskazanej w § 7 ust. 2 oraz spełniający wymagania, o których mowa w § 7 ust. 3, oraz
 c)
-która do umowy poręczenia dołączyła oświadczenie, złożone w formie aktu notarialnego, o poddaniu się egzekucji w trybie z art. 777 § 1 pkt 5 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm.).
+która do umowy poręczenia dołączyła oświadczenie, złożone w formie aktu notarialnego, o poddaniu się egzekucji w trybie z art. 777 § 1 pkt 5 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637 i 1693.).
 2.
 Zabezpieczenie finansowe może być ustanowione w kilku formach jednocześnie, tak by opiewały one na łączną kwotę nie niższą niż wartość wymagana.
 3.
@@ -110,8 +109,7 @@ Przepis ust. 3 stosuje się odpowiednio w przypadku, gdy długoterminowy rating 
 1)
 instytucji, o której mowa w § 3 ust. 1 pkt 2, lub
 2)
-spółce, o której mowa w § 3 ust. 1 pkt 3
-przez agencje ratingowe wskazane w § 7 ust. 1 lub podtrzymanych kategorii ratingowych spadnie poniżej poziomu kategorii ratingowej wskazanej w § 7 ust. 2.
+spółce, o której mowa w § 3 ust. 1 pkt 3 – przez agencje ratingowe wskazane w § 7 ust. 1 lub podtrzymanych kategorii ratingowych spadnie poniżej poziomu kategorii ratingowej wskazanej w § 7 ust. 2.
 § 6.
 1.
 Operator zwraca zabezpieczenie finansowe złożone przez:
@@ -143,6 +141,5 @@ pkt 3 – wynosi BBB-.
 3.
 Rating kredytowy, o którym mowa w ust. 1, powinien być aktualny. Za aktualny rating kredytowy uznaje się długoterminowy rating kredytowy z najniższą kategorią ratingową spośród ostatnio nadanych temu podmiotowi przez agencje ratingowe wskazane w ust. 1 lub podtrzymanych kategorii ratingowych. Warunkiem koniecznym uznania ratingu kredytowego za aktualny jest nadanie lub podtrzymanie kategorii ratingowej przez agencję ratingową, wskazaną w ust. 1, nie wcześniej niż w ciągu ostatnich 18 miesięcy kalendarzowych.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 350 z 29.12.2009, str. 59, Dz. Urz. UE L 145 z 31.05.2011, str. 30, Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 146 z 31.05.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1 oraz Dz. Urz. UE L 347 z 28.12.2017, str. 35. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637 i 1693.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 350 z 29.12.2009, str. 59, Dz. Urz. UE L 145 z 31.05.2011, str. 30, Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 146 z 31.05.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1 oraz Dz. Urz. UE L 347 z 28.12.2017, str. 35. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637 i 1693.
 

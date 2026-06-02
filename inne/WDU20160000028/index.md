@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 14 grudnia 2015 r. w sprawie oceny okresowej bezpieczeństwa składowiska odpadów promieniotwórczych
+# Rozporządzenie Rady Ministrówz dnia 14 grudnia 2015 r. w sprawie oceny okresowej bezpieczeństwa składowiska odpadów promieniotwórczych Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2011/70/Euratom z dnia 19 lipca 2011 r. ustanawiającą ramy wspólnotowe w zakresie odpowiedzialnego i bezpiecznego gospodarowania wypalonym paliwem jądrowym i odpadami promieniotwórczymi (Dz. Urz. UE L 199 z 02.08.2011, str. 48).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-14 |
 | Data wydania | 2016-01-08 |
-| Wejście w życie | 2016-01-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000028) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/28/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 55g ust. 7 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2014 r. poz. 1512 oraz z 2015 r. poz. 1505 i 1893) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej dnia 21 lipca 2015 r., pod numerem 2015/0397/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy UE 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 55g ust. 7 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2014 r. poz. 1512 oraz z 2015 r. poz. 1505 i 1893) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa zakres oceny okresowej bezpieczeństwa składowiska odpadów promieniotwórczych, zwanej dalej „oceną okresową”, oraz zakres raportu z oceny okresowej.
 § 2.
@@ -75,5 +74,5 @@ podsumowanie analiz, o których mowa w pkt 1, pozwalające na ogólną ocenę be
 3)
 program niezbędnych modernizacji i działań mających na celu podniesienie poziomu bezpieczeństwa w toku dalszej eksploatacji składowiska odpadów promieniotwórczych.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2011/70/Euratom z dnia 19 lipca 2011 r. ustanawiającą ramy wspólnotowe w zakresie odpowiedzialnego i bezpiecznego gospodarowania wypalonym paliwem jądrowym i odpadami promieniotwórczymi (Dz. Urz. UE L 199 z 02.08.2011, str. 48). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej dnia 21 lipca 2015 r., pod numerem 2015/0397/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy UE 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-07 |
 | Data wydania | 2024-05-14 |
-| Wejście w życie | 2024-05-15 |
 | Ostatnia zmiana | 2025-10-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000727) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/727/text.pdf) |
 
@@ -35,7 +34,9 @@ w § 5:
 a)
 w ust. 2:
 – w pkt 3 wyraz „wnioski” zastępuje się wyrazami „wnioski formalne”,
-– pkt 5 otrzymuje brzmienie: „ 5) wykaz dokumentów stanowiących przedmiot obrad wraz z informacją o sposobie zapoznania się z nimi. ” ,
+pkt 5 otrzymuje brzmienie: „
+5)
+wykaz dokumentów stanowiących przedmiot obrad wraz z informacją o sposobie zapoznania się z nimi. ” ,
 – uchyla się pkt 6,
 b)
 w ust. 5 w zdaniu pierwszym wyraz „wniosków” zastępuje się wyrazami „wniosków formalnych”;
@@ -48,7 +49,9 @@ w ust. 2:
 – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do obowiązków sekretarza Kolegium, w zakresie wskazanym w art. 66 ust. 7 ustawy, należy: ” ,
 – uchyla się pkt 4,
 – w pkt 7 skreśla się wyrazy „oraz harmonogramu ich realizacji”,
-– po pkt 10 dodaje się pkt 10a w brzmieniu: „ 10a) monitorowanie wykonywania zadań wynikających z rekomendacji i opinii Kolegium oraz decyzji przewodniczącego Kolegium; ” .
+po pkt 10 dodaje się pkt 10a w brzmieniu: „
+10a)
+monitorowanie wykonywania zadań wynikających z rekomendacji i opinii Kolegium oraz decyzji przewodniczącego Kolegium; ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

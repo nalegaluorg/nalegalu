@@ -31,13 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 1 czerwca 2004 r. w sprawie określenia warunków udzielania zezwoleń na zajęcie pasa drogowego (Dz. U. poz. 1481), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Rady Ministrów z dnia 2 lutego 2015 r. zmieniającym rozporządzenie w sprawie określenia warunków udzielania zezwoleń na zajęcie pasa drogowego (Dz. U. poz. 328).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 2 lutego 2015 r. zmieniającego rozporządzenie w sprawie określenia warunków udzielania zezwoleń na zajęcie pasa drogowego (Dz. U. poz. 328), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 2 lutego 2015 r. zmieniającego rozporządzenie w sprawie określenia warunków udzielania zezwoleń na zajęcie pasa drogowego (Dz. U. poz. 328), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Tekst jednolity rozporządzenia Rady Ministrów z dnia 1 czerwca 2004 r. w sprawie określenia warunków udzielania zezwoleń na zajęcie pasa drogowego
-Na podstawie art. 40 ust. 16 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 40 ust. 16 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 774, 870, 1336, 1830, 1890 i 2281 oraz z 2016 r. poz. 770 i 903.) zarządza się, co następuje:
 § 1.
 1.
 Zajmujący pas drogowy przed planowanym zajęciem pasa składa wniosek do zarządcy drogi o wydanie zezwolenia na zajęcie pasa drogowego.
@@ -63,7 +61,7 @@ Projekt organizacji ruchu związany z robotami prowadzonymi w pasie drogowym pow
 W przypadku zajęcia pasa drogowego w celu prowadzenia robót do wniosku, o którym mowa w ust. 1, należy dołączyć dodatkowo:
 1)
 ogólny plan orientacyjny w skali 1:10 000 lub 1:25 000 z zaznaczeniem zajmowanego odcinka pasa drogowego oraz informację o sposobie zabezpieczenia robót, jeżeli nie jest wymagany projekt organizacji ruchu;
-2)
+2W brzmieniu ustalonym przez § 1 rozporządzenia Rady Ministrów z dnia 2 lutego 2015 r. zmieniającego rozporządzenie w sprawie określenia warunków udzielania zezwoleń na zajęcie pasa drogowego (Dz. U. poz. 328), które weszło w życie z dniem 25 marca 2015 r.)
 oświadczenie o:
 a)
 posiadaniu ważnego pozwolenia na budowę obiektu umieszczanego w pasie drogowym lub
@@ -105,5 +103,5 @@ sposób odbioru przedmiotowego odcinka pasa drogowego;
 3)
 zasady usuwania usterek i wad technicznych, powstałych w ciągu 24 miesięcy od daty odbioru pasa drogowego.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 19 czerwca 2004 r..Z dniem wejścia w życie niniejszego rozporządzenia utraciły moc przepisy § 1–7, 9 i 12 rozporządzenia Rady Ministrów z dnia 24 stycznia 1986 r. w sprawie wykonania niektórych przepisów ustawy o drogach publicznych (Dz. U. poz. 33 i 239, z 1995 r. poz. 670, z 1997 r. poz. 631, z 1998 r. poz. 968, z 1999 r. poz. 623 oraz z 2002 r. poz. 1240) utrzymane w mocy na podstawie art. 9 ustawy z dnia 14 listopada 2003 r. o zmianie ustawy o drogach publicznych oraz o zmianie niektórych innych ustaw (Dz. U. poz. 1953). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 774, 870, 1336, 1830, 1890 i 2281 oraz z 2016 r. poz. 770 i 903. 2) W brzmieniu ustalonym przez § 1 rozporządzenia Rady Ministrów z dnia 2 lutego 2015 r. zmieniającego rozporządzenie w sprawie określenia warunków udzielania zezwoleń na zajęcie pasa drogowego (Dz. U. poz. 328), które weszło w życie z dniem 25 marca 2015 r. 3) Rozporządzenie zostało ogłoszone w dniu 19 czerwca 2004 r. 4) Z dniem wejścia w życie niniejszego rozporządzenia utraciły moc przepisy § 1–7, 9 i 12 rozporządzenia Rady Ministrów z dnia 24 stycznia 1986 r. w sprawie wykonania niektórych przepisów ustawy o drogach publicznych (Dz. U. poz. 33 i 239, z 1995 r. poz. 670, z 1997 r. poz. 631, z 1998 r. poz. 968, z 1999 r. poz. 623 oraz z 2002 r. poz. 1240) utrzymane w mocy na podstawie art. 9 ustawy z dnia 14 listopada 2003 r. o zmianie ustawy o drogach publicznych oraz o zmianie niektórych innych ustaw (Dz. U. poz. 1953).
 

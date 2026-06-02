@@ -31,21 +31,19 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2015 r. poz. 1484) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 5 listopada 2004 r. w sprawie ławników izb morskich (Dz. U. Nr 243, poz. 2437), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 3 kwietnia 2014 r. zmieniającym rozporządzenie w sprawie ławników izb morskich (Dz. U. poz. 531).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 3 kwietnia 2014 r. zmieniającego rozporządzenie w sprawie ławników izb morskich (Dz. U. poz. 531), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 3 kwietnia 2014 r. zmieniającego rozporządzenie w sprawie ławników izb morskich (Dz. U. poz. 531), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Tekst jednolity rozporządzenia Ministra Sprawiedliwości z dnia 5 listopada 2004 r. w sprawie ławników izb morskich
 Na podstawie art. 12 ust. 3 ustawy z dnia 1 grudnia 1961 r. o izbach morskich (Dz. U. z 2015 r. poz. 735 i 1320) zarządza się, co następuje:
-§ 1.
+§ 1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 3 kwietnia 2014 r. zmieniającego rozporządzenie w sprawie ławników izb morskich (Dz. U. poz. 531), które weszło w życie z dniem 10 maja 2014 r..
 Rozporządzenie określa szczegółowy tryb powoływania ławników izb morskich, zwanych dalej „ławnikami”, oraz zasady ich wyznaczania do udziału w posiedzeniach izb morskich.
 § 2.
 1.
 Ławników powołuje minister właściwy do spraw gospodarki morskiej:
 1)
 z listy kandydatów na ławników przedstawionej przez przewodniczących izb morskich oraz
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.)
 spośród osób wskazanych przez:
 a)
 Dowódcę Generalnego Rodzajów Sił Zbrojnych,
@@ -77,7 +75,7 @@ Ze złożenia ślubowania sporządza się protokół.
 Jeżeli przewiduje się, że posiedzenie będzie trwać czas dłuższy, przewodniczący izby może wyznaczyć jednego lub dwóch ławników dodatkowych. Ławnik dodatkowy bierze udział w posiedzeniu, a w naradzie i głosowaniu tylko wówczas, gdy zastępuje ławnika, który ustąpił ze składu orzekającego.
 3.
 Przewodniczący izby morskiej, wyznaczając ławników do udziału w posiedzeniach, uwzględnia ich kwalifikacje zawodowe potrzebne do rozpoznania danej sprawy, przestrzegając w miarę możliwości kolejności równomiernego wyznaczania ławników.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1..
 Jeżeli sprawa dotyczy wypadku morskiego, w którym uczestniczyła jednostka pływająca Marynarki Wojennej, Straży Granicznej lub Policji, do składu orzekającego izby morskiej należy wyznaczyć ławnika wpisanego na listę spośród osób wskazanych przez Dowódcę Generalnego Rodzajów Sił Zbrojnych, Komendanta Głównego Straży Granicznej lub Komendanta Głównego Policji.
 § 8.
 1.
@@ -87,9 +85,9 @@ Jeżeli względy szczególne tego wymagają, przewodniczący Odwoławczej Izby M
 § 9.
 Wyznaczony do udziału w posiedzeniu izby morskiej ławnik jest obowiązany przybyć punktualnie na posiedzenie, a w razie niemożności przybycia jest obowiązany bezzwłocznie zawiadomić o tym przewodniczącego izby morskiej, wskazując przyczynę oraz przedstawiając dowody usprawiedliwiające jego nieobecność.
 § 10.
-(uchylony).
+(uchylony).Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1.
 § 11.
 Ławnicy po upływie okresu, na który zostali powołani, mogą być wyznaczani do udziału w posiedzeniach izb morskich do czasu otrzymania przez przewodniczącego izby morskiej listy ławników powołanych na następny okres.
 § 12.
-Rozporządzenie wchodzi w życie z dniem 15 listopada 2004 r.
+Rozporządzenie wchodzi w życie z dniem 15 listopada 2004 r.Z dniem wejścia w życie niniejszego rozporządzenia utraciło moc rozporządzenie Rady Ministrów z dnia 11 stycznia 1962 r. w sprawie ławników izb morskich (Dz. U. Nr 8, poz. 38, z 1984 r. Nr 44, poz. 232, z 1989 r. Nr 14, poz. 71, z 1990 r. Nr 72, poz. 426 oraz z 1992 r. Nr 81, poz. 420), na podstawie art. 3 ustawy z dnia 5 marca 2004 r. o zmianie ustawy o izbach morskich (Dz. U. Nr 62, poz. 575). 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 3 kwietnia 2014 r. zmieniającego rozporządzenie w sprawie ławników izb morskich (Dz. U. poz. 531), które weszło w życie z dniem 10 maja 2014 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 4) Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1. 5) Z dniem wejścia w życie niniejszego rozporządzenia utraciło moc rozporządzenie Rady Ministrów z dnia 11 stycznia 1962 r. w sprawie ławników izb morskich (Dz. U. Nr 8, poz. 38, z 1984 r. Nr 44, poz. 232, z 1989 r. Nr 14, poz. 71, z 1990 r. Nr 72, poz. 426 oraz z 1992 r. Nr 81, poz. 420), na podstawie art. 3 ustawy z dnia 5 marca 2004 r. o zmianie ustawy o izbach morskich (Dz. U. Nr 62, poz. 575).
 

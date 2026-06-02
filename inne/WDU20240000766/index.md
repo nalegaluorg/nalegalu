@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-14 |
 | Data wydania | 2024-05-21 |
-| Wejście w życie | 2024-05-22 |
 | Ostatnia zmiana | 2026-01-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000766) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/766/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 175f ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 175f ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.) zarządza się, co następuje:
 § 1.
 1.
 Rozporządzenie określa:
@@ -95,5 +94,5 @@ Plan przeglądu wydatków sporządza się po raz pierwszy w terminie do dnia 30 
 § 9.
 Sprawozdanie, o którym mowa w § 7, sporządza się po raz pierwszy w terminie do dnia 31 maja 2025 r. i obejmuje nim propozycje zmian, o których mowa w art. 175e ust. 2 i 3 ustawy, zawarte w raportach sporządzonych do dnia 31 grudnia 2024 r.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.
 

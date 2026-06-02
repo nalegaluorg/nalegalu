@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 26 stycznia 2018 r. w sprawie przenoszenia do służby w Biurze Ochrony Rządu
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 26 stycznia 2018 r. w sprawie przenoszenia do służby w Biurze Ochrony Rządu Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-26 |
 | Data wydania | 2018-01-29 |
-| Wejście w życie | 2018-01-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000259) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/259/text.pdf) |
 
@@ -145,6 +144,5 @@ Kwalifikacje zawodowe uprawniające do mianowania na pierwszy stopień oficerski
 2.
 Kwalifikacje zawodowe inne niż wskazane w ust. 1, uzyskane w dotychczasowych jednostkach Policji, Straży Granicznej lub Państwowej Straży Pożarnej przez funkcjonariusza przeniesionego do służby w BOR, uznaje się za równorzędne z kwalifikacjami zawodowymi w BOR.
 § 11.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 

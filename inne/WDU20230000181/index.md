@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 stycznia 2023 r. o zmianie ustawy o Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15 oraz niektórych innych ustaw
+# Ustawa z dnia 13 stycznia 2023 r. o zmianie ustawy o Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15 oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe, ustawę z dnia 16 września 1982 r. o pracownikach urzędów państwowych, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym oraz ustawę z dnia 8 grudnia 2017 r. o Sądzie Najwyższym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-01-13 |
 | Data wydania | 2023-01-26 |
-| Wejście w życie | 2023-02-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000181) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/181/text.pdf) |
 
@@ -58,7 +57,7 @@ source: "eli-html"
     - **b)**
 
 - **2)** interwencja i wspieranie osób poszkodowanych w postępowaniach prowadzonych przed organami państwa, w tym uczestniczenie w postępowaniach karnych na prawach oskarżyciela posiłkowego;
-- **3)** przekazywanie niezwłocznie władzom organizacji i podmiotów informacji o podejrzeniu: popełnienia przestępstwa, o którym mowa w art. 1 pkt 2, niezawiadomienia właściwego organu o podejrzeniu popełnienia przestępstwa, o którym mowa w art. 1 pkt 2 celem wszczęcia odpowiedniego postępowania, w tym postępowania dyscyplinarnego;
+- **3)** przekazywanie niezwłocznie władzom organizacji i podmiotów informacji o podejrzeniu: popełnienia przestępstwa, o którym mowa w art. 1 pkt 2, niezawiadomienia właściwego organu o podejrzeniu popełnienia przestępstwa, o którym mowa w art. 1 pkt 2 – celem wszczęcia odpowiedniego postępowania, w tym postępowania dyscyplinarnego;
     - **a)**
     - **b)**
 
@@ -74,7 +73,7 @@ source: "eli-html"
 - **4)** członków samorządu zawodu farmaceuty, o której mowa w art. 21 pkt 2 ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2021 r. poz. 1850);
 - **5)** osoby wykonującej czynności wynikające z ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2022 r. poz. 2123), o której mowa w art. 50 ust. 1 tej ustawy;
 - **6)** psychologa, o której mowa w art. 14 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026);
-- **7)** pracownika socjalnego, o której mowa w art. 119 ust. 2 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm.).
+- **7)** pracownika socjalnego, o której mowa w art. 119 ust. 2 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2270 oraz z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967, 2127, 2140 i 2754.).
 
 2. W zakresie niezbędnym do realizacji zadań, o których mowa w art. 2 ust. 2 pkt 1 i 2 i art. 3 ust. 2 pkt 2, Komisja ma prawo dostępu do:
 
@@ -502,7 +501,7 @@ source: "eli-html"
 
 **Art. 40.** W sprawach nieuregulowanych w ustawie do:
 
-- **1)** organizacji i przebiegu posiedzenia w postępowaniu wyjaśniającym stosuje się odpowiednio przepisy art. 206, art. 2061, art. 210, art. 214 § 1, art. 215 i art. 219 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.);
+- **1)** organizacji i przebiegu posiedzenia w postępowaniu wyjaśniającym stosuje się odpowiednio przepisy art. 206, art. 2061, art. 210, art. 214 § 1, art. 215 i art. 219 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687.);
 - **2)** osób wysłuchiwanych, biegłych, świadków, pełnomocników, postępowania dowodowego, terminów i doręczeń w postępowaniu wyjaśniającym stosuje się odpowiednio przepisy części pierwszej księgi I tytułu IV działu I i V, tytułu VI działu I, III i IV ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego;
 - **3)** postępowania odwoławczego stosuje się odpowiednio przepisy o ochronie dóbr osobistych i przepisy części pierwszej księgi I tytułu VI działu V rozdziału 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego;
 - **4)** zwrotu kosztów podróży, o których mowa w art. 38e ust. 2, oraz wynagrodzenia biegłego i zwrotu poniesionych przez niego wydatków niezbędnych do wydania opinii stosuje się odpowiednio przepisy tytułu III ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2022 r. poz. 1125 oraz z 2023 r. poz. 181). ” ;
@@ -560,5 +559,5 @@ source: "eli-html"
 
 **Art. 10.** W celu realizacji przez Komisję do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 zadania, o którym mowa w art. 2 ust. 2 pkt 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, prokurator właściwej prokuratury albo prezes właściwego sądu, na wniosek przewodniczącego Komisji, przeprowadzi analizę akt zakończonych postępowań i przekaże posiadane orzeczenia o odmowie wszczęcia albo o umorzeniu postępowania ze względu na przedawnienie karalności przestępstwa, o którym mowa w art. 1 pkt 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, które uprawomocniły się przed dniem wejścia w życie ustawy zmienianej w art. 1, wraz z aktami sprawy.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe, ustawę z dnia 16 września 1982 r. o pracownikach urzędów państwowych, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym oraz ustawę z dnia 8 grudnia 2017 r. o Sądzie Najwyższym. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2270 oraz z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967, 2127, 2140 i 2754. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687.
 

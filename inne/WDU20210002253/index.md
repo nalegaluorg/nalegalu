@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 23 listopada 2021 r. w sprawie programu pilotażowego oddziaływań terapeutycznych skierowanych do dzieci i młodzieży problemowo korzystających z nowych technologii cyfrowych oraz ich rodzin
+# Rozporządzenie Ministra Zdrowiaz dnia 23 listopada 2021 r. w sprawie programu pilotażowego oddziaływań terapeutycznych skierowanych do dzieci i młodzieży problemowo korzystających z nowych technologii cyfrowych oraz ich rodzin Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-23 |
 | Data wydania | 2021-12-06 |
-| Wejście w życie | 2021-12-07 |
 | Ostatnia zmiana | 2025-07-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002253) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2253/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wykaz realizatorów programu pilotażowego oddziaływań terapeutycznych skierowanych do dzieci i młodzieży przed rozpoczęciem realizacji obowiązku szkolnego, objętych obowiązkiem szkolnym i obowiązkiem nauki oraz kształcących się w szkołach ponadpodstawowych do ich ukończenia, problemowo korzystających z nowych technologii cyfrowych, oraz ich rodzin
 Treść rozporządzenia
-Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120 i 2232.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa program pilotażowy oddziaływań terapeutycznych skierowanych do dzieci i młodzieży przed rozpoczęciem realizacji obowiązku szkolnego, objętych obowiązkiem szkolnym i obowiązkiem nauki oraz kształcących się w szkołach ponadpodstawowych do ich ukończenia, problemowo korzystających z nowych technologii cyfrowych, oraz ich rodzin, zwany dalej „programem pilotażowym”.
 § 2.
@@ -195,8 +194,7 @@ Fundusz jest obowiązany do uwzględnienia w raporcie końcowym, o którym mowa 
 3.
 Raport końcowy, o którym mowa w ust. 1, Fundusz przekazuje ministrowi właściwemu do spraw zdrowia.
 § 16.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120 i 2232.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120 i 2232.
 Załącznik – Wykaz realizatorów programu pilotażowego oddziaływań terapeutycznych skierowanych do dzieci i młodzieży przed rozpoczęciem realizacji obowiązku szkolnego, objętych obowiązkiem szkolnym i obowiązkiem nauki oraz kształcących się w szkołach ponadpodstawowych do ich ukończenia, problemowo korzystających z nowych technologii cyfrowych, oraz ich rodzin
 1)
 Centrum Medyczne MULTIMED Tadeusz Jucyk Spółka Jawna w Koninie;

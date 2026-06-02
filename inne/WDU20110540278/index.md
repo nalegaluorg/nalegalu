@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 4 lutego 2011 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw
+# Ustawa z dnia 4 lutego 2011 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 grudnia 2003 r. o ochronie roślin oraz ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-02-04 |
 | Data wydania | 2011-03-11 |
-| Wejście w życie | 2011-03-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110540278) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/278/text.pdf) |
 
@@ -49,7 +48,7 @@ source: "eli-html"
 6. Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca, spadkobierca wstępujący do postępowania w sprawie przyznania płatności lub wsparcia, o których mowa w ust. 1 i 1a:
 
 - **1)** dołącza do wniosku, o którym mowa w ust. 2, albo
-- **2)** składa wraz z postanowieniem sądu, o którym mowa w ust. 5, oświadczenia pozostałych spadkobierców o wyrażeniu zgody na wstąpienie tego spadkobiercy na miejsce spadkodawcy i przyznanie mu płatności lub wsparcia. ” ;
+- **2)** składa wraz z postanowieniem sądu, o którym mowa w ust. 5, – oświadczenia pozostałych spadkobierców o wyrażeniu zgody na wstąpienie tego spadkobiercy na miejsce spadkodawcy i przyznanie mu płatności lub wsparcia. ” ;
 - **7)** po art. 22 dodaje się art. 22a w brzmieniu: „
 
 **Art. 22a.**
@@ -105,10 +104,14 @@ source: "eli-html"
 - **12)** w art. 27: po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
 
-1a. Jeżeli po doręczeniu decyzji w sprawie przyznania płatności obszarowych, płatności cukrowej, płatności do pomidorów lub płatności do krów i owiec rolnik, do którego decyzja została skierowana, został rozwiązany albo przekształcony albo wystąpiło inne zdarzenie prawne, w wyniku którego zaistniało następstwo prawne, z wyłączeniem przypadku, o którym mowa w ust. 1, prawa, które przysługiwałyby temu rolnikowi jako stronie postępowania, przysługują następcy prawnemu. ” , w ust. 4: – pkt 2 otrzymuje brzmienie: „ 2) zarejestrowanym aktem poświadczenia dziedziczenia sporządzonym przez notariusza – w terminie 14 dni od dnia wpisu aktu poświadczenia dziedziczenia do rejestru aktów poświadczenia dziedziczenia, albo ” , – dodaje się pkt 3 w brzmieniu: „ 3) w przypadku gdy nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku: a) zaświadczeniem sądu o zarejestrowaniu wniosku o stwierdzenie nabycia spadku albo b) kopią wniosku o stwierdzenie nabycia spadku: – potwierdzoną za zgodność z oryginałem przez sąd albo – potwierdzoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika Agencji, wraz z potwierdzeniem nadania tego wniosku w polskiej placówce pocztowej operatora publicznego albo kopią tego potwierdzenia poświadczoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika Agencji ” , po ust. 4 dodaje się ust. 4a-4c w brzmieniu: „
+1a. Jeżeli po doręczeniu decyzji w sprawie przyznania płatności obszarowych, płatności cukrowej, płatności do pomidorów lub płatności do krów i owiec rolnik, do którego decyzja została skierowana, został rozwiązany albo przekształcony albo wystąpiło inne zdarzenie prawne, w wyniku którego zaistniało następstwo prawne, z wyłączeniem przypadku, o którym mowa w ust. 1, prawa, które przysługiwałyby temu rolnikowi jako stronie postępowania, przysługują następcy prawnemu. ” , w ust. 4: pkt 2 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **2)** zarejestrowanym aktem poświadczenia dziedziczenia sporządzonym przez notariusza – w terminie 14 dni od dnia wpisu aktu poświadczenia dziedziczenia do rejestru aktów poświadczenia dziedziczenia, albo ” , dodaje się pkt 3 w brzmieniu: „
+- **3)** w przypadku gdy nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku: zaświadczeniem sądu o zarejestrowaniu wniosku o stwierdzenie nabycia spadku albo kopią wniosku o stwierdzenie nabycia spadku: – potwierdzoną za zgodność z oryginałem przez sąd albo – potwierdzoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika Agencji, wraz z potwierdzeniem nadania tego wniosku w polskiej placówce pocztowej operatora publicznego albo kopią tego potwierdzenia poświadczoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika Agencji ” , po ust. 4 dodaje się ust. 4a-4c w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
 
 4a. W przypadku, o którym mowa w ust. 4 pkt 3, spadkobierca składa prawomocne postanowienie sądu o stwierdzeniu nabycia spadku w terminie 14 dni od dnia uprawomocnienia się tego postanowienia.
 
@@ -121,7 +124,7 @@ source: "eli-html"
 5. Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca, spadkobierca występujący z wnioskiem, o którym mowa w ust. 4:
 
 - **1)** dołącza do tego wniosku albo
-- **2)** składa wraz z postanowieniem sądu, o którym mowa w ust. 4a oświadczenia pozostałych spadkobierców o wyrażeniu zgody na wypłatę mu płatności obszarowych, płatności cukrowej, płatności do pomidorów lub płatności do krów i owiec. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+- **2)** składa wraz z postanowieniem sądu, o którym mowa w ust. 4a – oświadczenia pozostałych spadkobierców o wyrażeniu zgody na wypłatę mu płatności obszarowych, płatności cukrowej, płatności do pomidorów lub płatności do krów i owiec. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
     - **e)**
 
 5a. Zgoda, o której mowa w ust. 5, nie jest wymagana, jeżeli miałaby być wyrażona przez małoletniego, a wniosek, o którym mowa w ust. 4, został złożony przez spadkobiercę będącego przedstawicielem ustawowym tego małoletniego. ” , ust. 7 otrzymuje brzmienie: „
@@ -157,7 +160,7 @@ source: "eli-html"
 
 - **15)** w art. 37a dodaje się ust. 5 w brzmieniu: „
 
-5. W przypadku gdy rolnik nie podjął działań naprawczych, o których mowa w ust. 3 pkt 2, w terminie wyznaczonym w decyzji w sprawie przyznania płatności obszarowych, płatności cukrowej, płatności do pomidorów lub płatności do krów i owiec, stosuje się art. 29 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 98, poz. 634, z późn. zm.). ” ;
+5. W przypadku gdy rolnik nie podjął działań naprawczych, o których mowa w ust. 3 pkt 2, w terminie wyznaczonym w decyzji w sprawie przyznania płatności obszarowych, płatności cukrowej, płatności do pomidorów lub płatności do krów i owiec, stosuje się art. 29 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 98, poz. 634, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 115, poz. 961, z 2010 r. Nr 76, poz. 490 i Nr 257, poz. 1726 oraz z 2011 r. Nr 34, poz. 168.). ” ;
 
 - **16)** w art. 37b po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
@@ -167,7 +170,7 @@ source: "eli-html"
 
 1. Prezes Agencji odstępuje od ustalenia kwot nienależnie lub nadmiernie pobranych płatności obszarowych, płatności cukrowej, płatności do pomidorów lub płatności do krów i owiec, o którym mowa w art. 29 ust. 1 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa, w przypadku gdy kwota każdej z tych płatności nie jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu euro ustalonego zgodnie z art. 3 rozporządzenia nr 1913/2006. ” .
 
-**Art. 2.** W ustawie z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2008 r. Nr 133, poz. 849, z późn. zm.) w art. 68 uchyla się ust. 2.
+**Art. 2.** W ustawie z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2008 r. Nr 133, poz. 849, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 20, poz. 106, Nr 31, poz. 206 i Nr 98, poz. 817 oraz z 2010 r. Nr 47, poz. 278.) w art. 68 uchyla się ust. 2.
 
 **Art. 3.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2010 r. Nr 112, poz. 744) wprowadza się następujące zmiany:
 
@@ -189,5 +192,5 @@ source: "eli-html"
 
 2. Przepisy wykonawcze, o których mowa w ust. 1, mogą być zmieniane na podstawie art. 31b ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem 15 marca 2011 r.
+**Art. 6.** Ustawa wchodzi w życie z dniem 15 marca 2011 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 grudnia 2003 r. o ochronie roślin oraz ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 115, poz. 961, z 2010 r. Nr 76, poz. 490 i Nr 257, poz. 1726 oraz z 2011 r. Nr 34, poz. 168. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 20, poz. 106, Nr 31, poz. 206 i Nr 98, poz. 817 oraz z 2010 r. Nr 47, poz. 278.
 

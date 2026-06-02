@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-09-11 |
 | Data wydania | 2014-10-20 |
-| Wejście w życie | 2015-06-01 |
 | Ostatnia zmiana | 2025-11-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001420) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1420/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Warunki eksploatacji lotnisk certyfikowanych Rozdział 3 – Warunki eksploatacji lotnisk o ograniczonej certyfikacji Rozdział 4 – Warunki eksploatacji lotnisk użytku wyłącznego Rozdział 5 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 83 ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2013 r. poz. 1393 oraz z 2014 r. poz. 768) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa warunki eksploatacji dla lotnisk:
 1)
@@ -42,7 +42,7 @@ użytku wyłącznego.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
-koordynatorze ruchu naziemnego – należy przez to rozumieć pracownika lotniska wykonującego zadania, o których mowa w rozdziale 3 pkt 3.4.3 Załącznika 2 „Przepisy ruchu lotniczego” do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. Nr 53, poz. 212 i 214, z późn. zm.) ogłoszonego w załączniku do obwieszczenia Nr 19 Prezesa Urzędu Lotnictwa Cywilnego z dnia 13 listopada 2012 r. w sprawie ogłoszenia tekstu Załącznika 2 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. Urz. ULC poz. 105);
+koordynatorze ruchu naziemnego – należy przez to rozumieć pracownika lotniska wykonującego zadania, o których mowa w rozdziale 3 pkt 3.4.3 Załącznika 2 „Przepisy ruchu lotniczego” do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. Nr 53, poz. 212 i 214, z późn. zm.Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 1963 r. Nr 24, poz. 137 i 138, z 1969 r. Nr 27, poz. 210 i 211, z 1976 r. Nr 21, poz. 130 i 131, Nr 32, poz. 188 i 189 i Nr 39, poz. 227 i 228, z 1984 r. Nr 39, poz. 199 i 200, z 2000 r. Nr 39, poz. 446 i 447, z 2002 r. Nr 58, poz. 527 i 528, z 2003 r. Nr 78, poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371.) ogłoszonego w załączniku do obwieszczenia Nr 19 Prezesa Urzędu Lotnictwa Cywilnego z dnia 13 listopada 2012 r. w sprawie ogłoszenia tekstu Załącznika 2 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. Urz. ULC poz. 105);
 2)
 lotnisku certyfikowanym – należy przez to rozumieć lotnisko podlegające obowiązkowi certyfikacji, o którym mowa w art. 59a ust. 1 pkt 1 ustawy;
 3)
@@ -73,8 +73,9 @@ d)
 lotniskową służbę ratowniczo-gaśniczą;
 12)
 TWR – należy przez to rozumieć organ właściwy do zapewnienia służby kontroli ruchu lotniczego dla ruchu lotniskowego (Aerodrome Control Tower).
+Warunki eksploatacji lotnisk certyfikowanych
 § 3.
-System zarządzania bezpieczeństwem, o którym mowa w art. 68 ust. 3 pkt 3 ustawy, stosowany na lotniskach powinien być zgodny z wymaganiami ustanowionymi przez Organizację Międzynarodowego Lotnictwa Cywilnego (ICAO) w Doc 9859 „Podręcznik zarządzania bezpieczeństwem”.
+System zarządzania bezpieczeństwem, o którym mowa w art. 68 ust. 3 pkt 3 ustawy, stosowany na lotniskach powinien być zgodny z wymaganiami ustanowionymi przez Organizację Międzynarodowego Lotnictwa Cywilnego (ICAO) w Doc 9859 „Podręcznik zarządzania bezpieczeństwem”Doc 9859 „Podręcznik zarządzania bezpieczeństwem” został ogłoszony w załączniku do wytycznych nr 10 Prezesa Urzędu Lotnictwa Cywilnego z dnia 22 września 2011 r. w sprawie wprowadzenia do stosowania wymagań ustanowionych przez Organizację Międzynarodowego Lotnictwa Cywilnego (ICAO) – Doc 9859 (Dz. Urz. ULC Nr 15, poz. 94)..
 § 4.
 W celu zapewnienia bezpiecznej eksploatacji lotniska, zarządzający lotniskiem opracowuje i wdraża na lotnisku procedury operacyjne, które określają sposób postępowania w zakresie:
 1)
@@ -271,8 +272,7 @@ czyszczeniem nawierzchni sztucznych, w tym usuwaniem śniegu,
 3)
 koszeniem i usuwaniem trawy,
 4)
-wykonywaniem pomiarów i inspekcji
-powinny być prowadzone w taki sposób, aby przeszkody powstałe w trakcie ich trwania mogły być usunięte bez zbędnej zwłoki i nie zakłócały operacji lotniskowych.
+wykonywaniem pomiarów i inspekcji – powinny być prowadzone w taki sposób, aby przeszkody powstałe w trakcie ich trwania mogły być usunięte bez zbędnej zwłoki i nie zakłócały operacji lotniskowych.
 4.
 Na lotniskach kontrolowanych prace krótkotrwałe w polu manewrowym mogą być realizowane wyłącznie po uzyskaniu zezwolenia wydanego przez TWR.
 5.
@@ -312,8 +312,7 @@ oceny stanu ogrodzenia lotniska,
 2)
 obecności zwierząt na lotnisku,
 3)
-miejsc zlokalizowanych na terenie lotniska mogących sprzyjać żerowaniu ptaków lub stanowiących dla nich miejsce lęgów, schronienia lub odpoczynku
-powinny być przeprowadzane codziennie.
+miejsc zlokalizowanych na terenie lotniska mogących sprzyjać żerowaniu ptaków lub stanowiących dla nich miejsce lęgów, schronienia lub odpoczynku – powinny być przeprowadzane codziennie.
 3.
 Procedury przeciwdziałania zagrożeniom ze strony zwierząt powinny określać:
 1)
@@ -356,6 +355,7 @@ pojazdów, urządzeń i sprzętu specjalistycznego;
 ogrodzenia lotniska;
 8)
 obiektów innych niż określone w pkt 1–7, wykorzystywanych dla potrzeb operacji lotniskowych.
+Warunki eksploatacji lotnisk o ograniczonej certyfikacji
 § 22.
 Zarządzający lotniskiem wdraża na lotnisku system zarządzania bezpieczeństwem, w ramach którego:
 1)
@@ -459,6 +459,7 @@ działania dotyczące identyfikacji stref zlokalizowanych w otoczeniu lotniska, 
 czynności podejmowane w przypadku stwierdzenia zderzenia statku powietrznego ze zwierzęciem;
 5)
 sposób sporządzania oceny skuteczności czynności podejmowanych w zakresie przeciwdziałania zagrożeniom ze strony zwierząt.
+Warunki eksploatacji lotnisk użytku wyłącznego
 § 32.
 Zarządzający lotniskiem określa strukturę zarządzania lotniskiem, w tym zadania i obowiązki personelu, oraz zapewnia środki techniczne w liczbie uwzględniającej zakres zadań i obowiązków wynikających z art. 68 i 69 ustawy.
 § 33.
@@ -503,16 +504,27 @@ czynności dotyczące kontroli stanu ogrodzenia lotniska, jeżeli lotnisko jest 
 środki i metody stosowane przez zarządzającego lotniskiem w celu kontrolowania, eliminowania lub minimalizowania zagrożeń ze strony zwierząt, w tym wnioskowanie o dokonanie redukcyjnego odstrzału zwierzyny, o którym mowa w art. 82 pkt 6 ustawy, oraz o wydanie zezwoleń z zakresu ochrony gatunkowej;
 4)
 sposób sporządzania oceny skuteczności czynności podejmowanych w zakresie przeciwdziałania zagrożeniom ze strony zwierząt.
+Przepis końcowy
 § 35.
-Rozporządzenie wchodzi w życie z dniem 1 czerwca 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 czerwca 2015 r. 2) Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 1963 r. Nr 24, poz. 137 i 138, z 1969 r. Nr 27, poz. 210 i 211, z 1976 r. Nr 21, poz. 130 i 131, Nr 32, poz. 188 i 189 i Nr 39, poz. 227 i 228, z 1984 r. Nr 39, poz. 199 i 200, z 2000 r. Nr 39, poz. 446 i 447, z 2002 r. Nr 58, poz. 527 i 528, z 2003 r. Nr 78, poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371. 3) Doc 9859 „Podręcznik zarządzania bezpieczeństwem” został ogłoszony w załączniku do wytycznych nr 10 Prezesa Urzędu Lotnictwa Cywilnego z dnia 22 września 2011 r. w sprawie wprowadzenia do stosowania wymagań ustanowionych przez Organizację Międzynarodowego Lotnictwa Cywilnego (ICAO) – Doc 9859 (Dz. Urz. ULC Nr 15, poz. 94).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Warunki eksploatacji lotnisk certyfikowanych
+#### Rozdział 2 – Warunki eksploatacji lotnisk certyfikowanych
 
-#### Rozdział 3 Warunki eksploatacji lotnisk o ograniczonej certyfikacji
+#### Rozdział 3 – Warunki eksploatacji lotnisk o ograniczonej certyfikacji
 
-#### Rozdział 4 Warunki eksploatacji lotnisk użytku wyłącznego
+#### Rozdział 4 – Warunki eksploatacji lotnisk użytku wyłącznego
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

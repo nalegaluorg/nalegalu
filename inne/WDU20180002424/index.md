@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-14 |
 | Data wydania | 2018-12-27 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002424) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2424/text.pdf) |
 
@@ -150,5 +149,5 @@ W roku 2019 rada właściwej izby komorniczej określi harmonogram zajęć semin
 2.
 W roku 2019 rada właściwej izby komorniczej przesyła do zatwierdzenia Krajowej Radzie Komorniczej projekt harmonogramu zajęć seminaryjnych, o którym mowa w ust. 1, w terminie 3 dni od dnia jego uchwalenia. Krajowa Rada Komornicza zatwierdza projekt harmonogramu zajęć seminaryjnych, biorąc pod uwagę w szczególności wykonanie ramowego programu aplikacji w terminie 7 dni od dnia jego otrzymania. Zatwierdzony harmonogram zajęć seminaryjnych rada właściwej izby komorniczej umieszcza na swojej stronie internetowej i przesyła do wiadomości Ministrowi Sprawiedliwości w terminie 3 dni od dnia ich otrzymania.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 21 grudnia 2007 r. w sprawie organizacji i przebiegu aplikacji komorniczej (Dz. U. z 2017 r. poz. 173), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 300 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 21 grudnia 2007 r. w sprawie organizacji i przebiegu aplikacji komorniczej (Dz. U. z 2017 r. poz. 173), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 300 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244).
 

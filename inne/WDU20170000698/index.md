@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 29 marca 2017 r. w sprawie ewidencji automatów do gier
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 29 marca 2017 r. w sprawie ewidencji automatów do gier Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-29 |
 | Data wydania | 2017-03-31 |
-| Wejście w życie | 2017-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000698) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/698/text.pdf) |
 
@@ -123,8 +122,10 @@ Wzór ewidencji określa załącznik do rozporządzenia.
 § 12.
 Podmioty prowadzące w dniu wejścia w życie niniejszego rozporządzenia działalność określoną w art. 15j ust. 1 pkt 3 i 5 ustawy z dnia 19 listopada 2009 r. o grach hazardowych mają obowiązek spełnić wymagania dotyczące prowadzenia ewidencji określone w przepisach niniejszego rozporządzenia w okresie miesiąca od dnia wejścia w życie niniejszego rozporządzenia.
 § 13.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2017 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2017 r. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 Załącznik – Ewidencja produkowanych lub magazynowanych automatów do gier (wzór)
-Ewidencja produkowanych lub magazynowanych automatów do gier w .... (adres miejsca magazynowania automatów do gier)....prowadzona przez .... (dane podmiotu prowadzącego ewidencję i rodzaj prowadzonej przez niego działalności).... Lp. Nazwa i rodzaj automatu do gier Numer fabryczny automatu do gier Nazwa i wersja programu gry, o ile został zainstalowany w automacie do gier Data produkcji automatu do gier (automat nowy /używany) Data przyjęcia automatu do gier do miejsca magazynowania Nazwa i kraj producenta automatu do gier Dane sprzedawcy, nabywcy wewnątrzwspól-notowego lub importera automatu do gier Dane podmiotu przekazującego automat do gier do badania Data nabycia, nabycia wewnątrzwspól-notowego lub importu automatu do gier Data wyprowadzenia automatu do gier z miejsca magazynowania Dane odbiorcy automatu do gier Dane przewoźnika automatu do gier Data i rodzaj uszkodzenia lub data zniszczenia automatu do gier Imię i nazwisko osoby dokonującej wpisu oraz, w przypadku ewidencji w postaci papierowej, podpis tej osoby
+Ewidencja produkowanych lub magazynowanych automatów do gier w .... (adres miejsca magazynowania automatów do gier)....
+prowadzona przez .... (dane podmiotu prowadzącego ewidencję i rodzaj prowadzonej przez niego działalności).... Lp. Nazwa i rodzaj automatu do gier Numer fabryczny automatu do gier Nazwa i wersja programu gry, o ile został zainstalowany w automacie do gier Data produkcji automatu do gier (automat nowy /używany) Data przyjęcia automatu do gier do miejsca magazynowania Nazwa i kraj producenta automatu do gier Dane sprzedawcy, nabywcy wewnątrzwspól-
+notowego lub importera automatu do gier Dane podmiotu przekazującego automat do gier do badania Data nabycia, nabycia wewnątrzwspól-
+notowego lub importu automatu do gier Data wyprowadzenia automatu do gier z miejsca magazynowania Dane odbiorcy automatu do gier Dane przewoźnika automatu do gier Data i rodzaj uszkodzenia lub data zniszczenia automatu do gier Imię i nazwisko osoby dokonującej wpisu oraz, w przypadku ewidencji w postaci papierowej, podpis tej osoby
 

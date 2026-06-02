@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-21 |
 | Data wydania | 2016-07-22 |
-| Wejście w życie | 2016-07-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001090) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1090/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 18 ust. 8 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2015 r. poz. 355, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 18 ust. 8 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2015 r. poz. 355, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 529, 1045, 1066, 1217, 1268, 1890, 2023 i 2281 oraz z 2016 r. poz. 147, 437, 669, 862, 904 i 960.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -100,5 +99,5 @@ Organ koordynujący może wyznaczyć policjanta lub zespół policjantów do wyk
 4.
 Organ koordynujący może określić, że wymianę informacji prowadzi się za pośrednictwem policjanta lub zespołu policjantów wyznaczonego do wykonywania funkcji łącznikowej.
 § 10.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 6 sierpnia 2013 r. w sprawie szczegółowych warunków i sposobu użycia oddziałów i pododdziałów Policji oraz Sił Zbrojnych Rzeczypospolitej Polskiej w razie zagrożenia bezpieczeństwa publicznego lub zakłócenia porządku publicznego (Dz. U. poz. 1037), które traci moc na podstawie art. 63 ust. 1 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. poz. 904) z dniem wejścia w życie niniejszego rozporządzenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 529, 1045, 1066, 1217, 1268, 1890, 2023 i 2281 oraz z 2016 r. poz. 147, 437, 669, 862, 904 i 960. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 6 sierpnia 2013 r. w sprawie szczegółowych warunków i sposobu użycia oddziałów i pododdziałów Policji oraz Sił Zbrojnych Rzeczypospolitej Polskiej w razie zagrożenia bezpieczeństwa publicznego lub zakłócenia porządku publicznego (Dz. U. poz. 1037), które traci moc na podstawie art. 63 ust. 1 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. poz. 904) z dniem wejścia w życie niniejszego rozporządzenia.
 

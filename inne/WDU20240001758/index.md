@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Sportu i Turystykiz dnia 27 listopada 2024 r. w sprawie udzielania dotacji z Turystycznego Funduszu Pomocowego
+# Rozporządzenie Ministra Sportu i Turystykiz dnia 27 listopada 2024 r. w sprawie udzielania dotacji z Turystycznego Funduszu Pomocowego Minister Sportu i Turystyki kieruje działem administracji rządowej – turystyka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2722).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-27 |
 | Data wydania | 2024-11-29 |
-| Wejście w życie | 2024-11-30 |
 | Ostatnia zmiana | 2024-12-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001758) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1758/text.pdf) |
 
@@ -130,6 +129,5 @@ Maksymalna wysokość dotacji jest równa kwocie wpłat na poczet umowy o udzia�
 3.
 Jeżeli wysokość środków określona zgodnie z art. 15kc ust. 14b ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych jest niewystarczająca na dokonanie wypłat dotacji w pełnej wysokości, wypłaty dotacji obniża się proporcjonalnie w stosunku do wysokości tych środków.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Sportu i Turystyki kieruje działem administracji rządowej – turystyka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2722).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Sportu i Turystyki kieruje działem administracji rządowej – turystyka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2722).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 20 sierpnia 2021 r. zmieniające rozporządzenie w sprawie wymiarów i okresów ochronnych organizmów morskich oraz szczegółowych warunków wykonywania rybołówstwa komercyjnego
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 20 sierpnia 2021 r. zmieniające rozporządzenie w sprawie wymiarów i okresów ochronnych organizmów morskich oraz szczegółowych warunków wykonywania rybołówstwa komercyjnego Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-20 |
 | Data wydania | 2021-08-24 |
-| Wejście w życie | 2021-08-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001546) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1546/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 10 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (
 § 1.
 W rozporządzeniu Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 21 sierpnia 2019 r. w sprawie wymiarów i okresów ochronnych organizmów morskich oraz szczegółowych warunków wykonywania rybołówstwa komercyjnego (Dz. U. poz. 1701 oraz z 2021 r. poz. 310 i 1417) w § 16 w ust. 2 wyrazy „11 września” zastępuje się wyrazami „1 września”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
 

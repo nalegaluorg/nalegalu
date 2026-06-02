@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 17 grudnia 2021 r. zmieniające rozporządzenie w sprawie udzielania pomocy na realizację inwestycji służących podniesieniu poziomu ochrony środowiska w ramach regionalnych programów operacyjnych na lata 2014–2020
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 17 grudnia 2021 r. zmieniające rozporządzenie w sprawie udzielania pomocy na realizację inwestycji służących podniesieniu poziomu ochrony środowiska w ramach regionalnych programów operacyjnych na lata 2014–2020 Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-17 |
 | Data wydania | 2021-12-22 |
-| Wejście w życie | 2022-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002390) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2390/text.pdf) |
 
@@ -31,25 +30,21 @@ Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji
 § 1.
 W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 5 listopada 2015 r. w sprawie udzielania pomocy na realizację inwestycji służących podniesieniu poziomu ochrony środowiska w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. z 2021 r. poz. 1096) wprowadza się następujące zmiany:
 1)
-w § 10 ust. 2 otrzymuje brzmienie:
-„
+w § 10 ust. 2 otrzymuje brzmienie: „
 2.
 Maksymalną intensywność pomocy, o której mowa w § 1 pkt 1, zwiększa się również o:
 1)
 5 punktów procentowych – w przypadku gdy inwestycja jest realizowana na obszarze województw: dolnośląskiego i wielkopolskiego oraz na obszarach regionu warszawskiego stołecznego należących do gmin: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym i Żabia Wola;
 2)
-15 punktów procentowych – w przypadku gdy inwestycja jest realizowana na obszarach należących do województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego i zachodniopomorskiego oraz regionu mazowieckiego regionalnego.
-” ;
+15 punktów procentowych – w przypadku gdy inwestycja jest realizowana na obszarach należących do województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego i zachodniopomorskiego oraz regionu mazowieckiego regionalnego. ” ;
 2)
-w § 11 ust. 2 otrzymuje brzmienie:
-„
+w § 11 ust. 2 otrzymuje brzmienie: „
 2.
 Maksymalną intensywność pomocy, o której mowa w § 1 pkt 2, zwiększa się o:
 1)
 5 punktów procentowych – w przypadku gdy inwestycja jest realizowana na obszarze województw: dolnośląskiego i wielkopolskiego oraz na obszarach regionu warszawskiego stołecznego należących do gmin: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym i Żabia Wola;
 2)
-15 punktów procentowych – w przypadku gdy inwestycja jest realizowana na obszarach należących do województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego i zachodniopomorskiego oraz regionu mazowieckiego regionalnego.
-” .
+15 punktów procentowych – w przypadku gdy inwestycja jest realizowana na obszarach należących do województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego i zachodniopomorskiego oraz regionu mazowieckiego regionalnego. ” .
 § 2.
 1.
 Do umów zawartych i decyzji o dofinansowaniu projektu podjętych przed dniem wejścia w życie niniejszego rozporządzenia, na podstawie których udzielono pomocy, stosuje się przepisy dotychczasowe.
@@ -58,6 +53,5 @@ Do umów zawieranych i decyzji o dofinansowaniu projektu podejmowanych od dnia 1
 3.
 Wnioski, o których mowa w ust. 2, wymagające uzupełnienia w zakresie wynikającym z przepisów rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem uzupełnia się na wezwanie podmiotu udzielającego pomocy w terminie wyznaczonym przez ten podmiot, nie krótszym niż 14 dni od dnia otrzymania wezwania.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
 

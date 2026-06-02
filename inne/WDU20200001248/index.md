@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 24 czerwca 2020 r. zmieniające rozporządzenie w sprawie podstawy programowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 24 czerwca 2020 r. zmieniające rozporządzenie w sprawie podstawy programowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2268).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-24 |
 | Data wydania | 2020-07-16 |
-| Wejście w życie | 2020-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001248) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1248/text.pdf) |
 
@@ -37,24 +36,19 @@ tylko w zakresie podstawowym – przedmioty: muzyka, plastyka, podstawy przedsi�
 2)
 w zakresie podstawowym i w zakresie rozszerzonym: język polski, język obcy nowożytny, matematyka, język mniejszości narodowej lub etnicznej oraz język regionalny – język kaszubski, historia, wiedza o społeczeństwie, geografia, biologia, chemia, filozofia, fizyka, informatyka;
 3)
-tylko w zakresie rozszerzonym – przedmioty: historia muzyki, historia sztuki, język łaciński i kultura antyczna.
-”
-zastępuje się wyrazami „Przedmioty w liceum ogólnokształcącym i technikum mogą być nauczane w zakresie podstawowym lub w zakresie rozszerzonym:
+tylko w zakresie rozszerzonym – przedmioty: historia muzyki, historia sztuki, język łaciński i kultura antyczna. ” zastępuje się wyrazami „Przedmioty w liceum ogólnokształcącym i technikum mogą być nauczane w zakresie podstawowym lub w zakresie rozszerzonym:
 1)
 tylko w zakresie podstawowym – przedmioty: muzyka, plastyka, podstawy przedsiębiorczości, wychowanie fizyczne, edukacja dla bezpieczeństwa, wychowanie do życia w rodzinie, etyka;
 2)
 w zakresie podstawowym i w zakresie rozszerzonym – przedmioty: język polski, język obcy nowożytny, matematyka, język mniejszości narodowej lub etnicznej oraz język regionalny – język kaszubski, historia, wiedza o społeczeństwie, geografia, biologia, chemia, filozofia, język łaciński i kultura antyczna, fizyka, informatyka;
 3)
-tylko w zakresie rozszerzonym – przedmioty: historia muzyki, historia sztuki.
-” ;
+tylko w zakresie rozszerzonym – przedmioty: historia muzyki, historia sztuki. ” ;
 2)
 część zatytułowana „ Język łaciński i kultura antyczna ” otrzymuje brzmienie: „ Język łaciński i kultura antyczna Rolą przedmiotu język łaciński i kultura antyczna realizowanego w zakresie podstawowym jest wyposażenie uczniów w umiejętność czytania pod kierunkiem nauczyciela prostych tekstów łacińskich. Celem zajęć nie jest przekazywanie uczniom wiedzy deklaratywnej o języku i jego strukturze gramatycznej, ale kształcenie przede wszystkim umiejętności oraz pokazanie uczniom oddziaływania języka łacińskiego oraz kultury grecko-rzymskiego antyku na języki i kulturę europejską wieków późniejszych. Podstawa programowa ma dać nauczycielom szansę wykształcenia wśród uczniów przekonania z jednej strony o doniosłości, z drugiej – o atrakcyjności tych humanistycznych zagadnień. Zasadniczą rolą przedmiotu język łaciński i kultura antyczna realizowanego w zakresie rozszerzonym jest kształtowanie humanistycznej wrażliwości uczniów i przekazanie im wiedzy na temat języka łacińskiego i kultury starożytnej Grecji i Rzymu, jak również ich roli w rozwoju kultury i języka polskiego. W związku z tym cele kształcenia zostały zdefiniowane w taki sposób, aby obejmowały receptywne i produktywne kompetencje w zakresie języka łacińskiego, w tym przede wszystkim znajomość charakterystycznych dla łaciny zjawisk językowych oraz umiejętność rozumienia i przekładu tekstu łacińskiego na język polski, a także kompetencje kulturowe w zakresie kultury starożytnej Grecji i Rzymu oraz obecności i recepcji tradycji antycznej (w tym roli języka łacińskiego) w dziejach i kulturze polskiej. ” ;
 3)
 w części zatytułowanej „ JĘZYK POLSKI ZAKRES PODSTAWOWY I ROZSZERZONY ”, w części zatytułowanej „Warunki i sposób realizacji ” wyrazy „Podstawa programowa kładzie duży nacisk na zapoznawanie uczniów z literaturą współczesną, dlatego też materiał literacki, poczynając od dzieł literatury starożytnej aż do literatury wojny i okupacji oraz utworów tematycznie z nią związanych, musi zostać zrealizowany w klasach I-III. Klasa IV liceum ogólnokształcącego oraz IV i V technikum w całości przeznaczone są na czytanie utworów literatury po 1945 r. oraz kształcenie i rozwijanie refleksji o ich związkach z tradycją literacką i kulturową.” zastępuje się wyrazami „Podstawa programowa kładzie duży nacisk na zapoznawanie uczniów z literaturą współczesną, dlatego też materiał literacki, poczynając od dzieł literatury starożytnej aż do literatury wojny i okupacji oraz utworów tematycznie z nią związanych, jest realizowany w klasach I-III liceum ogólnokształcącego oraz w klasach I-IV technikum. Klasa IV liceum ogólnokształcącego oraz klasa V technikum są w całości przeznaczone na czytanie utworów literatury po 1945 r. oraz kształcenie i rozwijanie refleksji o ich związkach z tradycją literacką i kulturową.”;
 4)
-część zatytułowana „ JĘZYK ŁACIŃSKI I KULTURA ANTYCZNA ZAKRES ROZSZERZONY ” otrzymuje brzmienie:
-„
-JĘZYK ŁACIŃSKI I KULTURA ANTYCZNA ZAKRES PODSTAWOWY Cele kształcenia – wymagania ogólne
+część zatytułowana „ JĘZYK ŁACIŃSKI I KULTURA ANTYCZNA ZAKRES ROZSZERZONY ” otrzymuje brzmienie: „ JĘZYK ŁACIŃSKI I KULTURA ANTYCZNA ZAKRES PODSTAWOWY Cele kształcenia – wymagania ogólne
 I.
 W zakresie kompetencji językowych. Znajomość podstaw języka łacińskiego pozwalająca czytać pod kierunkiem nauczyciela nieskomplikowane, różnorodne formalnie i pochodzące z różnych epok oryginalne teksty łacińskie.
 II.
@@ -268,8 +262,7 @@ nabiera intelektualnej ciekawości i umiejętności dyskusji nad problemami kult
 5)
 wykształca w sobie kompetencje potrzebne do świadomego uczestnictwa w kulturze;
 6)
-potrafi zdystansować się wobec stereotypów oraz własnych przesądów.
-Warunki i sposób realizacji
+potrafi zdystansować się wobec stereotypów oraz własnych przesądów. Warunki i sposób realizacji
 1.
 Lekcje językowe Zawarty w podstawie programowej materiał gramatyczny zaleca się prezentować uczniom wraz z lekturą wybranych przez nauczyciela, ilustrujących go tekstów, w czasie 19 lekcji. Materiał dotyczący deklinacji zaleca się wprowadzać „poziomo” (poszczególne przypadki jednocześnie we wszystkich deklinacjach), a nie „pionowo” (kolejne deklinacje), jak jest to tradycją w polskiej dydaktyce języka łacińskiego. Zaleca się podział 19 lekcji na cztery działy. Na dział I zaleca się przeznaczyć cztery lekcje, natomiast na działy II, III i IV – po pięć lekcji. W każdym z tych działów na pierwszej lekcji (całej albo jej części) zaleca się wprowadzić i omówić nowy materiał gramatyczny, kolejne lekcje mają służyć jedynie lekturze tekstów nakierowanej na ich zrozumienie pod kierunkiem i z pomocą nauczyciela. Zalecane jest przy tym, żeby uczniowie przygotowywali się również do lekcji w domu, korzystając ze świeżo zdobytej wiedzy gramatycznej oraz ze słówek podanych w słowniczku. Działy:
 I.
@@ -609,8 +602,7 @@ dostrzega znaczenie języka łacińskiego oraz kultury starożytnej Grecji i Rzy
 4)
 jest świadomy antycznych korzeni kultury polskiej, europejskiej i światowej;
 5)
-dzięki poznaniu źródeł kultury polskiej, europejskiej i światowej staje się jej świadomym odbiorcą i uczestnikiem.
-Kanon tekstów:
+dzięki poznaniu źródeł kultury polskiej, europejskiej i światowej staje się jej świadomym odbiorcą i uczestnikiem. Kanon tekstów:
 1)
 Cyceron: De amicitia, De senectute, In Verrem, In Catilinam, Pro Archia poeta, wybór listów, Disputationes Tusculanae ;
 2)
@@ -622,16 +614,11 @@ Liwiusz: Ab urbe condita (księga I);
 5)
 Hyginus: Fabulae ;
 6)
-Seneka: Epistulae morales ad Lucillium .
-Kanon tekstów przedmiotu język łaciński i kultura antyczna realizowanego na poziomie rozszerzonym zawiera listę autorów i dzieł zalecanych do wykorzystania w wybranych przez nauczyciela fragmentach, w postaci oryginalnej lub preparowanej. Nauczyciel w zależności od warunków organizacyjnych i potrzeb może dokonać wyboru jednego lub więcej spośród zalecanych tekstów. Wybrany fragment (w postaci oryginalnej lub preparowanej) nie powinien odbiegać pod względem gramatycznym, stylistycznym i leksykalnym od norm językowych łaciny klasycznej. Warunki i sposób realizacji Kształcenie klasyczne ze względu na swoją specyfikę oraz wielowymiarowość nie poddaje się precyzyjnym podziałom i kwantyfikacji. Głównym założeniem kształcenia klasycznego realizowanego w ramach przedmiotu jest pogłębienie humanistycznej formacji ucznia i przygotowanie go do podjęcia studiów na kierunkach językowych, kulturowych i społecznych. W realizacji procesu dydaktycznego jest więc niezbędne wyodrębnienie treści z zakresu języka oraz treści kulturowych, przy czym podział ten nie może przebiegać „poziomo”, a treści językowe i kulturowe powinny wzajemnie się przenikać, dając uczniowi możliwość zapoznania się z najważniejszymi osiągnięciami grecko-rzymskiego antyku i ich recepcją w kulturze późniejszej. Ponadto zaleca się korelację treści nauczania z zakresu języka łacińskiego i kultury antycznej z innymi przedmiotami humanistycznymi (w szczególności z językiem polskim, historią, filozofią). Założenie kształtowania w trakcie procesu dydaktycznego obok kompetencji językowych także kulturowych nie wyklucza jednoczesnego dążenia do osiągnięcia przez doskonalenie kompetencji językowych, które powinno być skoncentrowane na odbiorze, rozumieniu i umiejętności poprawnego przekładu tekstu łacińskiego na język polski. Zaleca się więc stosowanie przez nauczycieli zróżnicowanych metod nauczania, technik i środków dydaktycznych, w tym szerokie zastosowanie technik multimedialnych i nowych technologii, co wymaga zapewnienia przez szkołę odpowiednich warunków realizacji procesu dydaktycznego (sali wyposażonej w rzutnik multimedialny i komputer ze stałym łączem internetowym, dostępu do słowników łacińsko-polskich i innych materiałów pomocniczych). Wszystkie te działania powinny służyć rozwijaniu u uczniów świadomości znaczenia języka łacińskiego i kultury antycznej w różnych dziedzinach współczesnej kultury i nauki. Nauczanie języka łacińskiego i kultury antycznej to proces wymagający odpowiednich warunków organizacyjnych. Zaleca się cztero- lub trzyletni cykl kształcenia, który zapewni równomierny rozkład treści nauczania i osiągnięcie celów kształcenia.
-” ;
+Seneka: Epistulae morales ad Lucillium . Kanon tekstów przedmiotu język łaciński i kultura antyczna realizowanego na poziomie rozszerzonym zawiera listę autorów i dzieł zalecanych do wykorzystania w wybranych przez nauczyciela fragmentach, w postaci oryginalnej lub preparowanej. Nauczyciel w zależności od warunków organizacyjnych i potrzeb może dokonać wyboru jednego lub więcej spośród zalecanych tekstów. Wybrany fragment (w postaci oryginalnej lub preparowanej) nie powinien odbiegać pod względem gramatycznym, stylistycznym i leksykalnym od norm językowych łaciny klasycznej. Warunki i sposób realizacji Kształcenie klasyczne ze względu na swoją specyfikę oraz wielowymiarowość nie poddaje się precyzyjnym podziałom i kwantyfikacji. Głównym założeniem kształcenia klasycznego realizowanego w ramach przedmiotu jest pogłębienie humanistycznej formacji ucznia i przygotowanie go do podjęcia studiów na kierunkach językowych, kulturowych i społecznych. W realizacji procesu dydaktycznego jest więc niezbędne wyodrębnienie treści z zakresu języka oraz treści kulturowych, przy czym podział ten nie może przebiegać „poziomo”, a treści językowe i kulturowe powinny wzajemnie się przenikać, dając uczniowi możliwość zapoznania się z najważniejszymi osiągnięciami grecko-rzymskiego antyku i ich recepcją w kulturze późniejszej. Ponadto zaleca się korelację treści nauczania z zakresu języka łacińskiego i kultury antycznej z innymi przedmiotami humanistycznymi (w szczególności z językiem polskim, historią, filozofią). Założenie kształtowania w trakcie procesu dydaktycznego obok kompetencji językowych także kulturowych nie wyklucza jednoczesnego dążenia do osiągnięcia przez doskonalenie kompetencji językowych, które powinno być skoncentrowane na odbiorze, rozumieniu i umiejętności poprawnego przekładu tekstu łacińskiego na język polski. Zaleca się więc stosowanie przez nauczycieli zróżnicowanych metod nauczania, technik i środków dydaktycznych, w tym szerokie zastosowanie technik multimedialnych i nowych technologii, co wymaga zapewnienia przez szkołę odpowiednich warunków realizacji procesu dydaktycznego (sali wyposażonej w rzutnik multimedialny i komputer ze stałym łączem internetowym, dostępu do słowników łacińsko-polskich i innych materiałów pomocniczych). Wszystkie te działania powinny służyć rozwijaniu u uczniów świadomości znaczenia języka łacińskiego i kultury antycznej w różnych dziedzinach współczesnej kultury i nauki. Nauczanie języka łacińskiego i kultury antycznej to proces wymagający odpowiednich warunków organizacyjnych. Zaleca się cztero- lub trzyletni cykl kształcenia, który zapewni równomierny rozkład treści nauczania i osiągnięcie celów kształcenia. ” ;
 5)
-w części zatytułowanej „ BIOLOGIA ZAKRES PODSTAWOWY ” w części zatytułowanej „ Cele kształcenia – wymagania ogólne ” w dziale II pkt 3 otrzymuje brzmienie:
-„
+w części zatytułowanej „ BIOLOGIA ZAKRES PODSTAWOWY ” w części zatytułowanej „ Cele kształcenia – wymagania ogólne ” w dziale II pkt 3 otrzymuje brzmienie: „
 3)
-rozumie znaczenie poradnictwa genetycznego i transplantologii;
-” .
+rozumie znaczenie poradnictwa genetycznego i transplantologii; ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2020 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2268).
+Rozporządzenie wchodzi w życie z dniem 1 września 2020 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2268).
 

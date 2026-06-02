@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 18 października 2006 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw
+# Ustawa z dnia 18 października 2006 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego oraz ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-10-18 |
 | Data wydania | 2006-11-21 |
-| Wejście w życie | 2007-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062081540) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1540/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2001 r. Nr 17, poz. 209, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2001 r. Nr 17, poz. 209, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 110, poz. 1189, z 2002 r. Nr 1, poz. 2 i Nr 113, poz. 984, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 96, poz. 874, Nr 217, poz. 2125, Nr 228, poz. 2256 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 273, poz. 2703, z 2005 r. Nr 62, poz. 551 i Nr 86, poz. 732 oraz z 2006 r. Nr 149, poz. 1077.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 ust. 2–4a otrzymują brzmienie: „
 
@@ -146,7 +145,7 @@ source: "eli-html"
 
 4. W przypadku różnic między wpisem ogłoszonym zgodnie z obowiązującymi przepisami w języku polskim a dobrowolnie ogłoszonymi informacjami, jak też między treścią dokumentów złożonych do akt rejestrowych w języku polskim a treścią dokumentów ogłoszonych dobrowolnie, treść ogłoszeń dobrowolnych nie może stanowić zarzutu wobec osób trzecich. Osoby trzecie mogą powoływać się na dobrowolne ogłoszenia, chyba że spółka udowodni, że osoba trzecia wiedziała o treści ogłoszenia w języku polskim. ” .
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258 oraz z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379 i Nr 208, poz. 1537.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6943 dodaje się § 3, 4 i 5 w brzmieniu: „
 
@@ -162,7 +161,7 @@ source: "eli-html"
 
 § 3. Wypisy aktów notarialnych, wyciągi, odpisy i poświadczenia dokumentów mogą być przesłane do sądu drogą elektroniczną, jeżeli notariusz opatrzył je bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu. ” .
 
-**Art. 3.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.) art. 79 otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155, z 2005 r. Nr 10, poz. 66, Nr 184, poz. 1539 i Nr 267, poz. 2252 oraz z 2006 r. Nr 157, poz. 1119.) art. 79 otrzymuje brzmienie: „
 
 **Art. 79.** Kto wbrew przepisom ustawy:
 
@@ -172,13 +171,13 @@ source: "eli-html"
 - **4)** nie składa sprawozdania finansowego lub sprawozdania z działalności we właściwym rejestrze sądowym,
 - **5)** nie udostępnia sprawozdania finansowego i innych dokumentów, o których mowa w art. 68,
 - **6)** prowadzi działalność usługową w zakresie prowadzenia ksiąg rachunkowych bez wymaganych uprawnień,
-- **7)** prowadzi działalność usługową w zakresie prowadzenia ksiąg rachunkowych lub wykonywania czynności doradztwa podatkowego, do wykonywania których jest uprawniony zgodnie z odrębnymi przepisami – bez spełnienia obowiązku zawarcia umowy ubezpieczenia, o której mowa w art. 80a ust. 1 podlega grzywnie albo karze ograniczenia wolności. ” .
+- **7)** prowadzi działalność usługową w zakresie prowadzenia ksiąg rachunkowych lub wykonywania czynności doradztwa podatkowego, do wykonywania których jest uprawniony zgodnie z odrębnymi przepisami – bez spełnienia obowiązku zawarcia umowy ubezpieczenia, o której mowa w art. 80a ust. 1 – podlega grzywnie albo karze ograniczenia wolności. ” .
 
-**Art. 4.** W ustawie z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego (Dz. U. z 1996 r. Nr 6, poz. 42, z późn. zm.) w art. 1 w ust. 3 pkt 3 otrzymuje brzmienie: „
+**Art. 4.** W ustawie z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego (Dz. U. z 1996 r. Nr 6, poz. 42, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 121, poz. 770, z 2000 r. Nr 114, poz. 1193, z 2003 r. Nr 228, poz. 2256, z 2004 r. Nr 273, poz. 2703 oraz z 2006 r. Nr 73, poz. 501.) w art. 1 w ust. 3 pkt 3 otrzymuje brzmienie: „
 
 - **3)** inne obwieszczenia i ogłoszenia, jeżeli ich ogłoszenie w Monitorze Sądowym i Gospodarczym jest wymagane lub dopuszczone przez ustawy. ” .
 
-**Art. 5.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539 oraz z 2006 r. Nr 133, poz. 935.) wprowadza się następujące zmiany:
 
 - **1)** w art. 127 dodaje się § 5 w brzmieniu: „
 
@@ -218,6 +217,6 @@ source: "eli-html"
 
 - **4)** w art. 595 § 1 otrzymuje brzmienie: „
 
-§ 1. Kto, będąc członkiem zarządu spółki handlowej, dopuszcza do tego, że pisma i zamówienia handlowe oraz informacje, o których mowa w art. 127 § 5, art. 206 § 1 i art. 374 § 1, nie zawierają danych określonych w tych przepisach – podlega grzywnie do 10 000 złotych. ” . Ustawa wchodzi w życie z dniem 1 stycznia 2007 r.
+§ 1. Kto, będąc członkiem zarządu spółki handlowej, dopuszcza do tego, że pisma i zamówienia handlowe oraz informacje, o których mowa w art. 127 § 5, art. 206 § 1 i art. 374 § 1, nie zawierają danych określonych w tych przepisach – podlega grzywnie do 10 000 złotych. ” . Ustawa wchodzi w życie z dniem 1 stycznia 2007 r. 1) Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego oraz ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 110, poz. 1189, z 2002 r. Nr 1, poz. 2 i Nr 113, poz. 984, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 96, poz. 874, Nr 217, poz. 2125, Nr 228, poz. 2256 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 273, poz. 2703, z 2005 r. Nr 62, poz. 551 i Nr 86, poz. 732 oraz z 2006 r. Nr 149, poz. 1077. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258 oraz z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379 i Nr 208, poz. 1537. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155, z 2005 r. Nr 10, poz. 66, Nr 184, poz. 1539 i Nr 267, poz. 2252 oraz z 2006 r. Nr 157, poz. 1119. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 121, poz. 770, z 2000 r. Nr 114, poz. 1193, z 2003 r. Nr 228, poz. 2256, z 2004 r. Nr 273, poz. 2703 oraz z 2006 r. Nr 73, poz. 501. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539 oraz z 2006 r. Nr 133, poz. 935.
 
 

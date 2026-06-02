@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 4 grudnia 2019 r. w sprawie wymagań, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora oraz inne stanowisko kierownicze w publicznej szkole artystycznej oraz publicznej placówce artystycznej
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 4 grudnia 2019 r. w sprawie wymagań, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora oraz inne stanowisko kierownicze w publicznej szkole artystycznej oraz publicznej placówce artystycznej Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2254).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-04 |
 | Data wydania | 2019-12-20 |
-| Wejście w życie | 2020-01-04 |
 | Ostatnia zmiana | 2024-05-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002470) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2470/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 62 ust. 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 62 ust. 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1078, 1287, 1680, 1681, 1818, 2197 i 2248.) zarządza się, co następuje:
 § 1.
 1.
 Stanowisko dyrektora danego typu szkoły artystycznej może zajmować nauczyciel mianowany lub dyplomowany, który spełnia łącznie następujące wymagania:
@@ -44,14 +43,13 @@ co najmniej bardzo dobrą ocenę pracy w okresie ostatnich pięciu lat pracy lub
 b)
 pozytywną ocenę dorobku zawodowego w okresie ostatniego roku albo
 c)
-w przypadku nauczyciela akademickiego – pozytywną ocenę okresową w okresie ostatnich czterech lat pracy w uczelni
-przed przystąpieniem do konkursu na stanowisko dyrektora, a w przypadkach, o których mowa w art. 63 ust. 11 i 12 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, przed powierzeniem stanowiska dyrektora;
+w przypadku nauczyciela akademickiego – pozytywną ocenę okresową w okresie ostatnich czterech lat pracy w uczelni – przed przystąpieniem do konkursu na stanowisko dyrektora, a w przypadkach, o których mowa w art. 63 ust. 11 i 12 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, przed powierzeniem stanowiska dyrektora;
 5)
 spełnia warunki zdrowotne niezbędne do wykonywania pracy na stanowisku kierowniczym;
 6)
 ma pełną zdolność do czynności prawnych i korzysta z pełni praw publicznych;
 7)
-nie był prawomocnie ukarany karą dyscyplinarną, o której mowa w art. 76 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2019 r. poz. 2215), a w przypadku nauczyciela akademickiego – karą dyscyplinarną, o której mowa w art. 276 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.), lub karą dyscyplinarną, o której mowa w art. 140 ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm.), oraz nie toczy się przeciwko niemu postępowanie dyscyplinarne;
+nie był prawomocnie ukarany karą dyscyplinarną, o której mowa w art. 76 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2019 r. poz. 2215), a w przypadku nauczyciela akademickiego – karą dyscyplinarną, o której mowa w art. 276 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730, 823, 1655, 1818, 2020 i 2070.), lub karą dyscyplinarną, o której mowa w art. 140 ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 650, 730, 912, 1000, 1115 i 1693.), oraz nie toczy się przeciwko niemu postępowanie dyscyplinarne;
 8)
 nie był skazany prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 9)
@@ -157,8 +155,7 @@ nauczyciel mianowany lub dyplomowany, zatrudniony na stanowisku wymagającym kwa
 2)
 nauczyciel mianowany lub dyplomowany, zatrudniony na stanowisku innym niż określone w pkt 1, na którym są realizowane zadania z zakresu oświaty, w urzędzie organu administracji rządowej, kuratorium oświaty, Centrum Edukacji Artystycznej, Centralnej Komisji Egzaminacyjnej i okręgowych komisjach egzaminacyjnych, lub na stanowisku, na którym są realizowane zadania z zakresu oświaty, w urzędzie organu administracji samorządowej, lub
 3)
-nauczyciel mianowany lub dyplomowany urlopowany lub zwolniony z obowiązku świadczenia pracy na podstawie przepisów ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2019 r. poz. 263)
-spełniający wymagania określone w rozporządzeniu dla danego typu szkoły artystycznej lub placówki artystycznej o danej specjalności, z wyjątkiem wymogu posiadania co najmniej bardzo dobrej oceny pracy albo pozytywnej oceny dorobku zawodowego.
+nauczyciel mianowany lub dyplomowany urlopowany lub zwolniony z obowiązku świadczenia pracy na podstawie przepisów ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2019 r. poz. 263) – spełniający wymagania określone w rozporządzeniu dla danego typu szkoły artystycznej lub placówki artystycznej o danej specjalności, z wyjątkiem wymogu posiadania co najmniej bardzo dobrej oceny pracy albo pozytywnej oceny dorobku zawodowego.
 § 8.
 1.
 Osoba zajmująca w dniu wejścia w życie rozporządzenia stanowisko dyrektora szkoły artystycznej, zespołu szkół artystycznych lub placówki artystycznej może zajmować to stanowisko do końca okresu, na jaki odpowiednio powierzono jej to stanowisko albo powołano na to stanowisko.
@@ -174,6 +171,5 @@ Stanowiska, o których mowa w § 1–5, może zajmować również osoba, która 
 § 11.
 Traci moc rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 29 marca 2018 r. w sprawie wymagań, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora oraz inne stanowisko kierownicze w publicznej szkole artystycznej oraz publicznej placówce artystycznej (Dz. U. poz. 693).
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2254). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1078, 1287, 1680, 1681, 1818, 2197 i 2248. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730, 823, 1655, 1818, 2020 i 2070. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 650, 730, 912, 1000, 1115 i 1693.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2254). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1078, 1287, 1680, 1681, 1818, 2197 i 2248. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730, 823, 1655, 1818, 2020 i 2070. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 650, 730, 912, 1000, 1115 i 1693.
 

@@ -26,14 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002474) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2474/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej Rozdział 1 – Przepisy ogólne Rozdział 2 – Udzielanie kredytu technologicznego i premii technologicznej Rozdział 3 Rozdział 4 – Status centrum badawczo-rozwojowego Rozdział 4a – Pomoc udzielana w ramach programów w obszarze innowacyjności Rozdział 5 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2021 r. poz. 706), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 października 2022 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 139 i art. 146 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 139 i art. 146 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079), które stanowią: „
+Przepisy ogólne
+Udzielanie kredytu technologicznego i premii technologicznej
 (uchylony)
+Status centrum badawczo-rozwojowego
+Pomoc udzielana w ramach programów w obszarze innowacyjności
 Minister właściwy do spraw gospodarki ustanawia programy w obszarze innowacyjności gospodarki realizujące politykę innowacyjną państwa, dotyczące w szczególności:
 1)
 innowacyjnych produktów, usług i rynków;
@@ -117,8 +120,7 @@ szczegółowe wymagania, o których mowa w ust. 1,
 4)
 przedmiot konkursu, w tym zadania przewidziane do realizacji,
 5)
-kwotę przeznaczoną na finansowanie konkursu
-mając na uwadze potrzebę zapewnienia sprawnej organizacji i cele ustanowionych programów zgodnie z art. 21a.
+kwotę przeznaczoną na finansowanie konkursu – mając na uwadze potrzebę zapewnienia sprawnej organizacji i cele ustanowionych programów zgodnie z art. 21a.
 5.
 Podmiot, o którym mowa w ust. 1, otrzymuje środki finansowe na organizowanie i finansowanie programów ustanowionych zgodnie z art. 21a.
 1.
@@ -140,8 +142,21 @@ Do wyboru podmiotów, którym zostanie udzielona pomoc finansowa, o której mowa
 2.
 Przepis ust. 1 może być odpowiednio stosowany w przypadku pomocy finansowej udzielanej ze środków innych niż pochodzące z budżetu Unii Europejskiej.
 Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, szczegółowe przeznaczenie oraz szczegółowe warunki udzielania pomocy finansowej, o której mowa w art. 21b, uwzględniając efektywne i skuteczne jej wykorzystanie oraz zapewnienie przejrzystości jej udzielania, a także cele programów ustanowionych zgodnie z art. 21a.
+Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 Art. 22–28.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Udzielanie kredytu technologicznego i premii technologicznej
+
+#### Rozdział 3
+
+#### Rozdział 4 – Status centrum badawczo-rozwojowego
+
+#### Rozdział 4a – Pomoc udzielana w ramach programów w obszarze innowacyjności
+
+#### Rozdział 5 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 **Art. 139.**
 
@@ -160,7 +175,7 @@ Art. 22–28.
 - **7)** art. 125 pkt 10, 17, 18 i 20, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
 - **8)** art. 113 pkt 19 i art. 142 ust. 4, które wchodzą w życie po upływie 36 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa zasady wspierania działalności innowacyjnej poprzez:
 
@@ -172,7 +187,7 @@ Art. 22–28.
 
 1. Użyte w ustawie określenia oznaczają:
 
-- **1)** badania – badania naukowe w rozumieniu art. 4 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.);
+- **1)** badania – badania naukowe w rozumieniu art. 4 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117 i 1459.);
 - **2)** bank kredytujący – bank udzielający kredytu technologicznego w związku z umową zawartą z Bankiem Gospodarstwa Krajowego;
 - **3)** działalność innowacyjna – działalność polegającą na opracowaniu nowej technologii i uruchomieniu na jej podstawie wytwarzania nowych lub znacząco ulepszonych towarów, procesów lub usług;
 - **4)** inwestycja technologiczna – inwestycję polegającą na: zakupie nowej technologii, jej wdrożeniu oraz uruchomieniu na jej podstawie wytwarzania nowych lub znacząco ulepszonych produktów, procesów lub usług oraz zapewnieniu warunków dla prowadzenia produkcji tych produktów, procesów lub usług albo wdrożeniu własnej nowej technologii oraz uruchomieniu na jej podstawie wytwarzania nowych lub znacząco ulepszonych produktów oraz zapewnieniu warunków dla prowadzenia produkcji tych produktów, procesów lub usług;
@@ -196,7 +211,7 @@ Art. 22–28.
 
 2. Ilekroć w ustawie jest mowa o fakturach, należy przez to rozumieć także inne dowody księgowe o równoważnej wartości dowodowej.
 
-#### Rozdział 2 Udzielanie kredytu technologicznego i premii technologicznej
+#### Rozdział 2
 
 **Art. 3.**
 
@@ -262,9 +277,7 @@ Art. 22–28.
 
 2. (uchylony)
 
-3. Bank Gospodarstwa Krajowego zawiera z przedsiębiorcą umowę o wypłatę premii technologicznej, która jest równocześnie umową o dofinansowanie projektu w rozumieniu art. 2 pkt 26 lit. a ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020.
-
-3a. Bank Gospodarstwa Krajowego zawiera umowę o wypłatę premii technologicznej nie później niż do końca okresu obowiązywania mapy pomocy regionalnej na lata 2022–2027, określonej w przepisach wydanych na podstawie art. 10 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
+3. Bank Gospodarstwa Krajowego zawiera z przedsiębiorcą umowę o wypłatę premii technologicznej, która jest równocześnie umową o dofinansowanie projektu w rozumieniu art. 2 pkt 26 lit. a ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020. 3aW brzmieniu ustalonym przez art. 111 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079); wszedł w życie z dniem 21 maja 2022 r.. Bank Gospodarstwa Krajowego zawiera umowę o wypłatę premii technologicznej nie później niż do końca okresu obowiązywania mapy pomocy regionalnej na lata 2022–2027, określonej w przepisach wydanych na podstawie art. 10 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
 
 4. (uchylony)
 
@@ -370,13 +383,13 @@ Art. 22–28.
 
 **Art. 13.**
 
-1. W sprawach nieuregulowanych w niniejszym rozdziale do udzielania kredytu technologicznego oraz czynności związanych z wykonywaniem umowy kredytu technologicznego, w tym do ustanawiania zabezpieczeń, stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2021 r. poz. 2439, z późn. zm.).
+1. W sprawach nieuregulowanych w niniejszym rozdziale do udzielania kredytu technologicznego oraz czynności związanych z wykonywaniem umowy kredytu technologicznego, w tym do ustanawiania zabezpieczeń, stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2021 r. poz. 2439, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2447 oraz z 2022 r. poz. 830, 872, 1358, 1488, 1692 i 1933.).
 
 2. Nie narusza tajemnicy bankowej, o której mowa w art. 104 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, udostępnianie przez Bank Gospodarstwa Krajowego informacji stanowiących tajemnicę bankową, związanych z przyznawaniem i wypłatą przez Bank Gospodarstwa Krajowego premii technologicznej, instytucjom uprawnionym do przeprowadzania kontroli oraz organom ochrony prawnej uprawnionym do uzyskania takich informacji na podstawie odrębnych przepisów.
 
 #### Rozdział 3
 
-#### Rozdział 4 Status centrum badawczo-rozwojowego
+#### Rozdział 4
 
 **Art. 17.**
 
@@ -448,9 +461,9 @@ Art. 22–28.
 
 **Art. 21.** (uchylony)
 
-#### Rozdział 4a Pomoc udzielana w ramach programów w obszarze innowacyjności
+#### Rozdział 4a
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+#### Rozdział 5
 
 **Art. 29.** Środki pieniężne zgromadzone na rachunku bankowym Funduszu Kredytu Technologicznego utworzonego na podstawie ustawy z dnia 29 lipca 2005 r. o niektórych formach wspierania działalności innowacyjnej stanowią środki pieniężne Funduszu Kredytu Technologicznego utworzonego na podstawie art. 14 ust. 1 niniejszej ustawy.
 
@@ -521,5 +534,5 @@ Art. 22–28.
 
 **Art. 37.** Traci moc ustawa z dnia 29 lipca 2005 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. poz. 1484 oraz z 2006 r. poz. 723), z wyjątkiem art. 9–11, które tracą moc z dniem 31 grudnia 2008 r.
 
-**Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 14–16 oraz art. 29–31, które wchodzą w życie z dniem 1 stycznia 2009 r.
+**Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 2 lipca 2008 r., z wyjątkiem art. 14–16 oraz art. 29–31, które wchodzą w życie z dniem 1 stycznia 2009 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117 i 1459. 2) W brzmieniu ustalonym przez art. 111 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079); wszedł w życie z dniem 21 maja 2022 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2447 oraz z 2022 r. poz. 830, 872, 1358, 1488, 1692 i 1933. 4) Ustawa została ogłoszona w dniu 2 lipca 2008 r.
 

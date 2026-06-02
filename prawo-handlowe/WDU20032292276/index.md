@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-12-12 |
 | Data wydania | 2003-12-31 |
-| Wejście w życie | 2004-01-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032292276) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2276/text.pdf) |
 
@@ -572,13 +571,13 @@ source: "eli-html"
 **Art. 590.** Kto w celu umożliwienia bezprawnego głosowania na walnym zgromadzeniu lub bezprawnego wykonywania praw mniejszości:
 
 - **1)** wystawia fałszywe zaświadczenie o złożeniu dokumentu akcji uprawniającej do głosowania,
-- **2)** użycza innemu dokumentu akcji, która nie uprawnia jej właściciela do głosowania podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+- **2)** użycza innemu dokumentu akcji, która nie uprawnia jej właściciela do głosowania – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
 **Art. 591.** Kto przy głosowaniu na walnym zgromadzeniu lub wykonywaniu praw mniejszości posługuje się:
 
 - **1)** fałszywym zaświadczeniem o złożeniu dokumentu akcji uprawniającej do głosowania,
 - **2)** cudzym dokumentem akcji bez zgody właściciela,
-- **3)** cudzym dokumentem akcji, która nie uprawnia jej właściciela do głosowania podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. ” ;
+- **3)** cudzym dokumentem akcji, która nie uprawnia jej właściciela do głosowania – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. ” ;
 - **101)** w art. 592 zdanie wstępne otrzymuje brzmienie: „ Członek zarządu, który dopuszcza do wydania dokumentów akcji: ” ;
 - **102)** w art. 625 § 2 otrzymuje brzmienie: „
 
@@ -602,8 +601,13 @@ source: "eli-html"
 - **4)** w art. 26 w ust. 3 w pkt 3 kropkę zastępuje się przecinkiem i dodaje się pkt 4 i 5 w brzmieniu: „
 - **4)** zapasów towarów i materiałów (opakowań) objętych ewidencją wartościową w punktach obrotu detalicznego jednostki – przeprowadzono raz w roku,
 - **5)** zapasów drewna w jednostkach prowadzących gospodarkę leśną – przeprowadzono raz w roku. ” ;
-- **5)** w art. 28: w ust. 1: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) nieruchomości oraz wartości niematerialne i prawne zaliczane do inwestycji – według zasad, stosowanych do środków trwałych oraz wartości niematerialnych i prawnych, określonych w pkt 1 oraz w art. 31, art. 32 ust. 1–5 i art. 33 ust. 1 lub według ceny rynkowej bądź inaczej określonej wartości godziwej, ” , – pkt 3 otrzymuje brzmienie: „ 3) udziały w innych jednostkach oraz inne niż wymienione w pkt 1a inwestycje zaliczone do aktywów trwałych – według ceny nabycia, pomniejszonej o odpisy z tytułu trwałej utraty wartości lub według wartości godziwej; wartość w cenie nabycia można przeszacować do wartości w cenie rynkowej, a różnicę z przeszacowania rozliczyć zgodnie z art. 35 ust. 4, ” , – po pkt 9 dodaje się pkt 9a w brzmieniu: „ 9a) udziały (akcje) własne – według cen nabycia, ” , – pkt 10 otrzymuje brzmienie: „ 10) kapitały (fundusze) własne, z wyjątkiem udziałów (akcji) własnych, oraz pozostałe aktywa i pasywa – w wartości nominalnej. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **5)** w art. 28: w ust. 1: po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
+
+- **1a)** nieruchomości oraz wartości niematerialne i prawne zaliczane do inwestycji – według zasad, stosowanych do środków trwałych oraz wartości niematerialnych i prawnych, określonych w pkt 1 oraz w art. 31, art. 32 ust. 1–5 i art. 33 ust. 1 lub według ceny rynkowej bądź inaczej określonej wartości godziwej, ” , pkt 3 otrzymuje brzmienie: „
+- **3)** udziały w innych jednostkach oraz inne niż wymienione w pkt 1a inwestycje zaliczone do aktywów trwałych – według ceny nabycia, pomniejszonej o odpisy z tytułu trwałej utraty wartości lub według wartości godziwej; wartość w cenie nabycia można przeszacować do wartości w cenie rynkowej, a różnicę z przeszacowania rozliczyć zgodnie z art. 35 ust. 4, ” , po pkt 9 dodaje się pkt 9a w brzmieniu: „
+- **9a)** udziały (akcje) własne – według cen nabycia, ” , pkt 10 otrzymuje brzmienie: „
+- **10)** kapitały (fundusze) własne, z wyjątkiem udziałów (akcji) własnych, oraz pozostałe aktywa i pasywa – w wartości nominalnej. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. W przypadkach nabycia udziałów (akcji) własnych w drodze egzekucji za cenę nabycia uważa się cenę nabycia ustaloną w postępowaniu egzekucyjnym, powiększoną o koszty poniesione w toku postępowania egzekucyjnego, które nie zostały spółce zwrócone. W przypadku nieodpłatnego nabycia udziałów (akcji) własnych cena nabycia obejmuje wszystkie koszty ponoszone przez spółkę na ich nabycie. ” ;
@@ -674,7 +678,7 @@ source: "eli-html"
 
 3. Do jednostek niebędących spółkami handlowymi, jeżeli nie prowadzą działalności gospodarczej, nie stosuje się przepisów rozdziałów 6 i 7 ustawy. ” .
 
-**Art. 3.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2001 r. Nr 17, poz. 209, z późn. zm.) w art. 38 w pkt 9:
+**Art. 3.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2001 r. Nr 17, poz. 209, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 110, poz. 1189, z 2002 r. Nr 1, poz. 2 i Nr 113, poz. 984 oraz z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 96, poz. 874 i Nr 217, poz. 2125.) w art. 38 w pkt 9:
 
 - **1)** lit. a i b otrzymują brzmienie: „ wysokość kapitału zakładowego, liczbę i wartość nominalną akcji, a jeżeli akcjonariusze wnoszą wkłady niepieniężne – zaznaczenie tej okoliczności, z podaniem wartości nominalnej objętych w zamian za nie akcji, wysokość kapitału docelowego, jeżeli statut to przewiduje, i wzmiankę, czy zarząd jest upoważniony do emisji warrantów subskrypcyjnych, ” ;
     - **a)**
@@ -683,11 +687,11 @@ source: "eli-html"
 - **2)** lit. e otrzymuje brzmienie: „ wartość nominalną warunkowego podwyższenia kapitału zakładowego, ” .
     - **e)**
 
-**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.) w art. 129 dodaje się ust. 3 w brzmieniu: „ 3. Przeznaczenie do podziału między akcjonariuszy kwoty przekraczającej zysk za ostatni rok obrotowy, pomniejszony o niepokryte straty, akcje własne oraz o kwoty, które nie mogą być przeznaczone na wypłatę dywidendy, wymaga zgody Komisji Nadzoru Bankowego. ” .
+**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074 oraz z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594 i Nr 228, poz. 2260.) w art. 129 dodaje się ust. 3 w brzmieniu: „ 3. Przeznaczenie do podziału między akcjonariuszy kwoty przekraczającej zysk za ostatni rok obrotowy, pomniejszony o niepokryte straty, akcje własne oraz o kwoty, które nie mogą być przeznaczone na wypłatę dywidendy, wymaga zgody Komisji Nadzoru Bankowego. ” .
 
 **Art. 5.** W przypadku niespełnienia wymogów dotyczących minimalnej wartości udziału w terminie określonym w art. 624 § 1 ustawy nowelizowanej w art. 1, nie stosuje się przepisów art. 624 § 4 tej ustawy.
 
 **Art. 6.** Przepis art. 2 ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzonych za rok obrotowy rozpoczynający się w 2004 r., z tym że w sprawozdaniach finansowych za rok obrotowy rozpoczynający się w 2003 r. jednostki, w rozumieniu przepisów ustawy nowelizowanej w art. 2, mogą uwzględnić zmiany wynikające z niniejszej ustawy, zamieszczając odpowiednią informację o tym we wprowadzeniu do sprawozdania finansowego.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3 pkt 2, który wchodzi w życie z dniem 1 stycznia 2005 r.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3 pkt 2, który wchodzi w życie z dniem 1 stycznia 2005 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 110, poz. 1189, z 2002 r. Nr 1, poz. 2 i Nr 113, poz. 984 oraz z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 96, poz. 874 i Nr 217, poz. 2125. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074 oraz z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594 i Nr 228, poz. 2260.
 

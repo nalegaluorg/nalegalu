@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-03-09 |
 | Data wydania | 2012-03-26 |
-| Wejście w życie | 2012-04-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000311) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/311/text.pdf) |
 
@@ -33,18 +32,15 @@ Treść rozporządzenia
 ## Załącznik nr 2 — – Kryteria oceny LSR w zakresie dodatkowych zadań
 
 Treść rozporządzenia
-Na podstawie art. 29 ust. 1 pkt 2 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 29 ust. 1 pkt 2 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 76, poz. 490 i Nr 148, poz. 993, z 2011 r. Nr 205, poz. 1202 oraz z 2012 r. poz. 243.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 23 maja 2008 r. w sprawie szczegółowych kryteriów i sposobu wyboru lokalnej grupy działania do realizacji lokalnej strategii rozwoju w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 103, poz. 659) wprowadza się następujące zmiany:
 1)
-w § 2 w ust. 1 w pkt 5 lit. c otrzymuje brzmienie:
-„
+w § 2 w ust. 1 w pkt 5 lit. c otrzymuje brzmienie: „
 c)
-działanie, o którym mowa w art. 5 ust. 1 pkt 23 ustawy, wynosi nie więcej niż iloczyn liczby mieszkańców zameldowanych na pobyt stały, na obszarze objętym LSR, według stanu na dzień 31 grudnia 2006 r. i kwoty 29 zł, z tym że na koszty bieżące (administracyjne) LGD określone w przepisach dotyczących funkcjonowania lokalnej grupy działania, nabywania umiejętności i aktywizacji, wydanych na podstawie art. 29 ust. 1 pkt 1 ustawy, przeznacza się nie więcej niż 15% sumy środków przewidzianych na działania, o których mowa w art. 5 ust. 1 pkt 21–23 ustawy;
-” ;
+działanie, o którym mowa w art. 5 ust. 1 pkt 23 ustawy, wynosi nie więcej niż iloczyn liczby mieszkańców zameldowanych na pobyt stały, na obszarze objętym LSR, według stanu na dzień 31 grudnia 2006 r. i kwoty 29 zł, z tym że na koszty bieżące (administracyjne) LGD określone w przepisach dotyczących funkcjonowania lokalnej grupy działania, nabywania umiejętności i aktywizacji, wydanych na podstawie art. 29 ust. 1 pkt 1 ustawy, przeznacza się nie więcej niż 15% sumy środków przewidzianych na działania, o których mowa w art. 5 ust. 1 pkt 21–23 ustawy; ” ;
 2)
-po § 2 dodaje się § 2a w brzmieniu:
-„
+po § 2 dodaje się § 2a w brzmieniu: „
 § 2a.
 1.
 LGD, która zawarła z samorządem województwa umowę, o której mowa w art. 14 ust. 3 ustawy, zwaną dalej „umową”, może być wybrana do realizacji LSR w zakresie dodatkowych zadań, jeżeli:
@@ -85,93 +81,68 @@ W przypadku LGD, które uzyskały taką samą liczbę punktów w ramach oceny, o
 5.
 Jeżeli ustalenie kolejności wyboru LGD do realizacji LSR w zakresie dodatkowych zadań jest niemożliwe na podstawie ust. 4, o tej kolejności decyduje wyższa wielkość liczbowa wyrażająca stosunek wysokości kwoty stanowiącej sumę wnioskowanych kwot pomocy finansowej w ramach działania, o którym mowa w art. 5 ust. 1 pkt 21 ustawy, ustalonych według stanu na dzień ogłoszenia konkursu na wybór LGD do realizacji LSR w zakresie dodatkowych zadań oraz na podstawie wniosków o przyznanie tej pomocy obejmujących operacje wybrane przez LGD, które mieszczą się w ramach limitu dostępnych środków wskazanych w informacji o możliwości składania wniosków o przyznanie tej pomocy, do wysokości kwoty określonej w budżecie LSR na to działanie.
 6.
-LGD, która na realizację LSR w zakresie dodatkowych zadań przewidziała środki w wysokości wyższej niż wysokość maksymalnych kwot określonych w ust. 1 pkt 3 dla takiej LGD, może być wybrana do realizacji LSR w zakresie dodatkowych zadań, jeżeli odpowiednio zmniejszy wysokość tych środków, o czym właściwy organ samorządu województwa informuje LGD w formie pisemnej, podając termin dokonania tych zmian nie dłuższy niż 7 dni od dnia doręczenia tej informacji.
-” ;
+LGD, która na realizację LSR w zakresie dodatkowych zadań przewidziała środki w wysokości wyższej niż wysokość maksymalnych kwot określonych w ust. 1 pkt 3 dla takiej LGD, może być wybrana do realizacji LSR w zakresie dodatkowych zadań, jeżeli odpowiednio zmniejszy wysokość tych środków, o czym właściwy organ samorządu województwa informuje LGD w formie pisemnej, podając termin dokonania tych zmian nie dłuższy niż 7 dni od dnia doręczenia tej informacji. ” ;
 3)
 w § 3:
 a)
-ust. 1 i 2 otrzymują brzmienie:
-„
+ust. 1 i 2 otrzymują brzmienie: „
 1.
 Właściwy organ samorządu województwa, po przeprowadzeniu co najmniej jednej ogólnodostępnej konferencji na temat podejścia Leader, ogłasza konkurs na wybór LGD do realizacji LSR, po uzgodnieniu terminu składania wniosków o wybór LGD do realizacji LSR, zwanych dalej „wnioskami”, z instytucją zarządzającą. Nie przeprowadza się konferencji na temat podejścia Leader w przypadku konkursu na wybór LGD do realizacji LSR w zakresie dodatkowych zadań.
 2.
-Konkurs na wybór LGD do realizacji LSR ogłasza się nie częściej niż dwukrotnie w okresie wdrażania Programu, przy czym drugi konkurs może być ogłoszony wyłącznie w celu dokonania wyboru LGD do realizacji LSR w zakresie dodatkowych zadań.
-” ,
+Konkurs na wybór LGD do realizacji LSR ogłasza się nie częściej niż dwukrotnie w okresie wdrażania Programu, przy czym drugi konkurs może być ogłoszony wyłącznie w celu dokonania wyboru LGD do realizacji LSR w zakresie dodatkowych zadań. ” ,
 b)
-w ust. 3 pkt 4 otrzymuje brzmienie:
-„
+w ust. 3 pkt 4 otrzymuje brzmienie: „
 4)
-wysokości dostępnych środków przeznaczonych na realizację LSR, przy czym w przypadku drugiego konkursu wskazuje się przewidywaną wysokość tych środków.
-” ,
+wysokości dostępnych środków przeznaczonych na realizację LSR, przy czym w przypadku drugiego konkursu wskazuje się przewidywaną wysokość tych środków. ” ,
 c)
-po ust. 3 dodaje się ust. 3a w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a w brzmieniu: „
 3a.
-Ostateczny limit dostępnych środków na realizację LSR w zakresie dodatkowych zadań ogłasza właściwy organ samorządu województwa w terminie 14 dni od dnia rozpoczęcia terminu składania wniosków w ramach drugiego konkursu.
-” ;
+Ostateczny limit dostępnych środków na realizację LSR w zakresie dodatkowych zadań ogłasza właściwy organ samorządu województwa w terminie 14 dni od dnia rozpoczęcia terminu składania wniosków w ramach drugiego konkursu. ” ;
 4)
-w § 4 ust. 1 otrzymuje brzmienie:
-„
+w § 4 ust. 1 otrzymuje brzmienie: „
 1.
-Wniosek składa się bezpośrednio w urzędzie marszałkowskim albo samorządowej jednostce samorządu województwa, na obszarze którego znajduje się siedziba LGD, w terminie określonym w ogłoszeniu o konkursie na wybór LGD do realizacji LSR, a w przypadku ubiegania się o wybór w drugim konkursie – w urzędzie marszałkowskim albo samorządowej jednostce samorządu województwa, z którym LGD zawarła umowę.
-” ;
+Wniosek składa się bezpośrednio w urzędzie marszałkowskim albo samorządowej jednostce samorządu województwa, na obszarze którego znajduje się siedziba LGD, w terminie określonym w ogłoszeniu o konkursie na wybór LGD do realizacji LSR, a w przypadku ubiegania się o wybór w drugim konkursie – w urzędzie marszałkowskim albo samorządowej jednostce samorządu województwa, z którym LGD zawarła umowę. ” ;
 5)
 w § 5:
 a)
-w ust. 1 pkt 5 otrzymuje brzmienie:
-„
+w ust. 1 pkt 5 otrzymuje brzmienie: „
 5)
-wskazanie liczby mieszkańców zameldowanych na pobyt stały, na obszarze objętym LSR, według stanu na dzień 31 grudnia 2006 r., chyba że LGD ubiega się o wybór w drugim konkursie;
-” ,
+wskazanie liczby mieszkańców zameldowanych na pobyt stały, na obszarze objętym LSR, według stanu na dzień 31 grudnia 2006 r., chyba że LGD ubiega się o wybór w drugim konkursie; ” ,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Do wniosku dołącza się LSR w formie papierowej i jako dokument elektroniczny w rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne oraz inne dokumenty niezbędne do dokonania wyboru LGD do realizacji opracowanej przez nią LSR, a w przypadku ubiegania się o wybór w drugim konkursie do wniosku dołącza się projekt zmiany LSR w formie papierowej oraz inne dokumenty niezbędne do dokonania wyboru LGD do realizacji LSR w zakresie dodatkowych zadań.
-” ;
+Do wniosku dołącza się LSR w formie papierowej i jako dokument elektroniczny w rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne oraz inne dokumenty niezbędne do dokonania wyboru LGD do realizacji opracowanej przez nią LSR, a w przypadku ubiegania się o wybór w drugim konkursie do wniosku dołącza się projekt zmiany LSR w formie papierowej oraz inne dokumenty niezbędne do dokonania wyboru LGD do realizacji LSR w zakresie dodatkowych zadań. ” ;
 6)
-po § 7 dodaje się § 7a w brzmieniu:
-„
+po § 7 dodaje się § 7a w brzmieniu: „
 § 7a.
-Do wniosków złożonych w drugim konkursie nie stosuje się § 7.
-” ;
+Do wniosków złożonych w drugim konkursie nie stosuje się § 7. ” ;
 7)
 w § 8:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
 Jeżeli wniosek nie został złożony w terminie lub nie zawiera nazwy LGD lub jej adresu i nie można ustalić tego adresu na podstawie posiadanych danych, lub nie zostały do niego dołączone:
 1)
 LSR – w przypadku wniosku złożonego w pierwszym konkursie,
 2)
-projekt zmiany LSR – w przypadku wniosku złożonego w drugim konkursie
-właściwy organ samorządu województwa pozostawia wniosek bez rozpatrzenia.
-” ,
+projekt zmiany LSR – w przypadku wniosku złożonego w drugim konkursie – właściwy organ samorządu województwa pozostawia wniosek bez rozpatrzenia. ” ,
 b)
-po ust. 3 dodaje się ust. 3a w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a w brzmieniu: „
 3a.
-Do rozpatrywania wniosków złożonych w drugim konkursie nie stosuje się ust. 3.
-” ,
+Do rozpatrywania wniosków złożonych w drugim konkursie nie stosuje się ust. 3. ” ,
 c)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
-Właściwy organ samorządu województwa, pozostawiając wniosek bez rozpatrzenia, nie przeprowadza w stosunku do danej LGD dalszego postępowania mającego na celu sprawdzenie, czy ta LGD spełnia warunki, o których mowa w § 2 ust. 1 albo § 2a ust. 1.
-” ;
+Właściwy organ samorządu województwa, pozostawiając wniosek bez rozpatrzenia, nie przeprowadza w stosunku do danej LGD dalszego postępowania mającego na celu sprawdzenie, czy ta LGD spełnia warunki, o których mowa w § 2 ust. 1 albo § 2a ust. 1. ” ;
 8)
-po § 10 dodaje się § 10a w brzmieniu:
-„
+po § 10 dodaje się § 10a w brzmieniu: „
 § 10a.
 1.
 Właściwe organy wszystkich samorządów województw wspólnie opracują listę wszystkich LGD, w kolejności uzyskania od najwyższej do najniższej liczby punktów w ramach oceny, o której mowa w § 2a ust. 1 pkt 1, zawierającą liczbę uzyskanych punktów oraz wskazanie, które z LGD zostały wybrane do realizacji LSR w zakresie dodatkowych zadań.
 2.
-Listę, o której mowa w ust. 1, właściwe organy wszystkich samorządów województw niezwłocznie zamieszczają na stronach internetowych urzędów marszałkowskich albo samorządowych jednostek.
-” ;
+Listę, o której mowa w ust. 1, właściwe organy wszystkich samorządów województw niezwłocznie zamieszczają na stronach internetowych urzędów marszałkowskich albo samorządowych jednostek. ” ;
 9)
-§ 11 otrzymuje brzmienie:
-„
+§ 11 otrzymuje brzmienie: „
 § 11.
 1.
 Właściwy organ samorządu województwa informuje LGD, w formie pisemnej, o wyniku ocen, o których mowa w § 2 ust. 1 pkt 6 albo § 2a ust. 1 pkt 1, wraz z uzasadnieniem, oraz o wyniku wyboru LGD do realizacji LSR, w terminie 7 dni od dnia dokonania tego wyboru.
@@ -180,46 +151,35 @@ W informacji, o której mowa w ust. 1, właściwy organ samorządu województwa,
 1)
 umowy, dołączając projekt takiej umowy – w przypadku LGD wybranych w pierwszym konkursie;
 2)
-umowy zmieniającej umowę, dołączając projekt takiej umowy – w przypadku LGD wybranych w drugim konkursie.
-” ;
+umowy zmieniającej umowę, dołączając projekt takiej umowy – w przypadku LGD wybranych w drugim konkursie. ” ;
 10)
-po § 12 dodaje się § 12a w brzmieniu:
-„
+po § 12 dodaje się § 12a w brzmieniu: „
 § 12a.
-Do rozpatrywania wniosków złożonych w drugim konkursie nie stosuje się przepisów § 12.
-” ;
+Do rozpatrywania wniosków złożonych w drugim konkursie nie stosuje się przepisów § 12. ” ;
 11)
-w § 13 w ust. 2 w pkt 4 dodaje się lit. i w brzmieniu:
-„
+w § 13 w ust. 2 w pkt 4 dodaje się lit. i w brzmieniu: „
 i)
-opracowania formularza ankiety na potrzeby monitorowania LSR udostępnianego beneficjentom działania, o którym mowa w art. 5 ust. 1 pkt 21 ustawy.
-” ;
+opracowania formularza ankiety na potrzeby monitorowania LSR udostępnianego beneficjentom działania, o którym mowa w art. 5 ust. 1 pkt 21 ustawy. ” ;
 12)
 w załączniku nr 1 do rozporządzenia:
 a)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-Określenie celów ogólnych i szczegółowych LSR, wskazanie planowanych przedsięwzięć oraz przedstawienie wskaźników (produktu, rezultatu i oddziaływania) realizacji celów LSR oraz przedsięwzięć.
-” ,
+Określenie celów ogólnych i szczegółowych LSR, wskazanie planowanych przedsięwzięć oraz przedstawienie wskaźników (produktu, rezultatu i oddziaływania) realizacji celów LSR oraz przedsięwzięć. ” ,
 b)
-po ust. 10 dodaje się ust. 10a w brzmieniu:
-„
+po ust. 10 dodaje się ust. 10a w brzmieniu: „
 10a.
-Określenie harmonogramu przewidywanych terminów podawania do publicznej wiadomości informacji o możliwości składania wniosków o przyznanie pomocy w ramach działania, o którym mowa w art. 5 ust. 1 pkt 21 ustawy, z podziałem na półrocza.
-” ,
+Określenie harmonogramu przewidywanych terminów podawania do publicznej wiadomości informacji o możliwości składania wniosków o przyznanie pomocy w ramach działania, o którym mowa w art. 5 ust. 1 pkt 21 ustawy, z podziałem na półrocza. ” ,
 c)
-ust. 13 otrzymuje brzmienie:
-„
+ust. 13 otrzymuje brzmienie: „
 13.
-Zasady i sposób dokonywania oceny (ewaluacji) własnej, w szczególności sporządzania rocznych sprawozdań z realizacji LSR.
-” ;
+Zasady i sposób dokonywania oceny (ewaluacji) własnej, w szczególności sporządzania rocznych sprawozdań z realizacji LSR. ” ;
 13)
 dodaje się załączniki nr 3 i 4 do rozporządzenia w brzmieniu określonym odpowiednio w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
 § 2.
 Lokalne grupy działania dostosują lokalne strategie rozwoju do przepisów rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 5 miesięcy od dnia wejścia w życie niniejszego rozporządzenia, z tym że określając harmonogram przewidywanych terminów podawania do publicznej wiadomości informacji o możliwości składania wniosków o przyznanie pomocy w ramach działania, o którym mowa w art. 5 ust. 1 pkt 21 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, z podziałem na półrocza, wskazuje się jedynie te terminy, które przypadają nie wcześniej niż w dniu wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 76, poz. 490 i Nr 148, poz. 993, z 2011 r. Nr 205, poz. 1202 oraz z 2012 r. poz. 243.
 
 ## Załącznik nr 1 — – Kryteria oceny efektywności lgd oraz realizacji LSR
 

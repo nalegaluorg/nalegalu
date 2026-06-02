@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 lipca 2015 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o notariacie oraz niektórych innych ustaw
+# Ustawa z dnia 24 lipca 2015 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o notariacie oraz niektórych innych ustaw Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 650/2012 z dnia 4 lipca 2012 r. w sprawie jurysdykcji, prawa właściwego, uznawania i wykonywania orzeczeń, przyjmowania i wykonywania dokumentów urzędowych dotyczących dziedziczenia oraz w sprawie ustanowienia europejskiego poświadczenia spadkowego (Dz. Urz. UE L 201 z 27.07.2012, str. 107, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-24 |
 | Data wydania | 2015-08-11 |
-| Wejście w życie | 2015-08-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001137) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1137/text.pdf) |
 
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 28 lipca 1983 r. o podatku od spadków i darowizn, ustawę z dnia 13 lutego 1984 r. o funkcjach konsulów Rzeczypospolitej Polskiej, ustawę z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych oraz ustawę z dnia 4 lutego 2011 r. – Prawo prywatne międzynarodowe.
+Europejskie poświadczenie spadkowe
+Europejskie poświadczenia spadkowe
 W zakresie nieuregulowanym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 650/2012 z dnia 4 lipca 2012 r. w sprawie jurysdykcji, prawa właściwego, uznawania i wykonywania orzeczeń, przyjmowania i wykonywania dokumentów urzędowych dotyczących dziedziczenia oraz w sprawie ustanowienia europejskiego poświadczenia spadkowego (Dz. Urz. UE L 201 z 27.07.2012, str. 107, z późn. zm.) do czynności dotyczących europejskiego poświadczenia spadkowego stosuje się odpowiednio przepisy o sporządzaniu aktu poświadczenia dziedziczenia, chyba że przepisy niniejszego rozdziału stanowią inaczej.
 Przy czynnościach dotyczących europejskiego poświadczenia spadkowego stosuje się odpowiednio przepisy art. 670, art. 672–674 i art. 676 Kodeksu postępowania cywilnego.
 § 1.
@@ -44,10 +46,9 @@ Na czynności notariusza w przedmiocie wydania, sprostowania, zmiany lub uchylen
 § 2.
 Na postanowienie sądu drugiej instancji wydane w wyniku rozpoznania zażalenia skarga kasacyjna nie przysługuje.
 § 3.
-W postępowaniach dotyczących europejskiego poświadczenia spadkowego skarga o stwierdzenie niezgodności z prawem prawomocnego orzeczenia nie przysługuje.
-” .
+W postępowaniach dotyczących europejskiego poświadczenia spadkowego skarga o stwierdzenie niezgodności z prawem prawomocnego orzeczenia nie przysługuje. ” .
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978 i 1062.) wprowadza się następujące zmiany:
 
 - **1)** art. 39 otrzymuje brzmienie: „
 
@@ -88,7 +89,7 @@ W postępowaniach dotyczących europejskiego poświadczenia spadkowego skarga o 
 
 - **8)** w części czwartej w księdze drugiej po tytule VII dodaje się tytuł VIIa w brzmieniu: „
 
-## Tytuł VIIA Europejskie poświadczenie spadkowe
+## Tytuł VIIA
 
 **Art. 11421.** W zakresie nieuregulowanym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 650/2012 z dnia 4 lipca 2012 r. w sprawie jurysdykcji, prawa właściwego, uznawania i wykonywania orzeczeń, przyjmowania i wykonywania dokumentów urzędowych dotyczących dziedziczenia oraz w sprawie ustanowienia europejskiego poświadczenia spadkowego (Dz. Urz. UE L 201 z 27.07.2012, str. 107, z późn. zm.) do postępowań dotyczących europejskiego poświadczenia spadkowego stosuje się odpowiednio przepisy o stwierdzeniu nabycia spadku i przedmiotu zapisu windykacyjnego, chyba że przepisy niniejszego tytułu stanowią inaczej.
 
@@ -112,7 +113,7 @@ W postępowaniach dotyczących europejskiego poświadczenia spadkowego skarga o 
 
 § 3. W postępowaniach dotyczących europejskiego poświadczenia spadkowego skarga o stwierdzenie niezgodności z prawem prawomocnego orzeczenia nie przysługuje. ” .
 
-**Art. 2.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2014 r. poz. 164, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2014 r. poz. 164, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 993 i 1585 oraz z 2015 r. poz. 218 i 978.) wprowadza się następujące zmiany:
 
 - **1)** w art. 79 po pkt 1a dodaje się pkt 1b w brzmieniu: „
 - **1b)** podejmuje czynności dotyczące europejskiego poświadczenia spadkowego; ” ;
@@ -172,10 +173,11 @@ W postępowaniach dotyczących europejskiego poświadczenia spadkowego skarga o 
 - **10)** w art. 95e: § 1 otrzymuje brzmienie: „
     - **a)**
 
-§ 1. Po spisaniu protokołu dziedziczenia notariusz sporządza akt poświadczenia dziedziczenia, jeżeli nie ma wątpliwości co do istnienia jurysdykcji krajowej, treści właściwego prawa obcego, osoby spadkobiercy i wysokości udziałów w spadku, a w przypadku, gdy spadkodawca uczynił zapis windykacyjny – także co do osoby, na której rzecz spadkodawca uczynił zapis windykacyjny, i przedmiotu zapisu. ” , w § 2: – uchyla się pkt 3, – pkt 4 otrzymuje brzmienie: „ 4) w sprawie brak jurysdykcji krajowej. ” , dodaje się § 3 w brzmieniu: „
+§ 1. Po spisaniu protokołu dziedziczenia notariusz sporządza akt poświadczenia dziedziczenia, jeżeli nie ma wątpliwości co do istnienia jurysdykcji krajowej, treści właściwego prawa obcego, osoby spadkobiercy i wysokości udziałów w spadku, a w przypadku, gdy spadkodawca uczynił zapis windykacyjny – także co do osoby, na której rzecz spadkodawca uczynił zapis windykacyjny, i przedmiotu zapisu. ” , w § 2: – uchyla się pkt 3, pkt 4 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **4)** w sprawie brak jurysdykcji krajowej. ” , dodaje się § 3 w brzmieniu: „
+    - **c)**
 
 § 3. Jeżeli spadek ma przypaść jako spadkobiercy ustawowemu gminie lub Skarbowi Państwa, a przedstawione przez osobę zainteresowaną dowody nie są wystarczające do sporządzenia aktu poświadczenia dziedziczenia, notariusz może sporządzić akt poświadczenia dziedziczenia dopiero po wezwaniu spadkobierców przez ogłoszenie dokonane na koszt osoby zainteresowanej. Przepisy art. 673 i art. 674 Kodeksu postępowania cywilnego stosuje się odpowiednio. ” ;
 
@@ -190,9 +192,9 @@ W postępowaniach dotyczących europejskiego poświadczenia spadkowego skarga o 
 
 - **12)** w dziale II po rozdziale 3a dodaje się rozdział 3b w brzmieniu: „
 
-#### Rozdział 3b Europejskie poświadczenia spadkowe
+#### Rozdział 3b
 
-**Art. 3.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.) art. 987 otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4, 397 i 539.) art. 987 otrzymuje brzmienie: „
 
 **Art. 987.** Jeżeli osoba powołana jako wykonawca testamentu nie chce tego obowiązku przyjąć, składa odpowiednie oświadczenie przed sądem albo notariuszem. ” .
 
@@ -226,7 +228,7 @@ W postępowaniach dotyczących europejskiego poświadczenia spadkowego skarga o 
     - **c)**
     - **b)**
 
-**Art. 7.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.) w art. 24 w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+**Art. 7.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4, 238, 539, 957, 978 i 1045.) w art. 24 w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
 
 - **4)** wydanie europejskiego poświadczenia spadkowego. ” .
 
@@ -242,7 +244,7 @@ W postępowaniach dotyczących europejskiego poświadczenia spadkowego skarga o 
 - **1)** art. 11421–11426 ustawy zmienianej w art. 1,
 - **2)** art. 79 pkt 1b i art. 95q-95x ustawy zmienianej w art. 2,
 - **3)** art. 19 ust. 4b ustawy zmienianej w art. 5,
-- **4)** art. 66a ustawy zmienianej w art. 8 w brzmieniu nadanym niniejszą ustawą, nie stosuje się do spadków otwartych przed dniem 17 sierpnia 2015 r.
+- **4)** art. 66a ustawy zmienianej w art. 8 – w brzmieniu nadanym niniejszą ustawą, nie stosuje się do spadków otwartych przed dniem 17 sierpnia 2015 r.
 
-**Art. 10.** Ustawa wchodzi w życie z dniem 17 sierpnia 2015 r.
+**Art. 10.** Ustawa wchodzi w życie z dniem 17 sierpnia 2015 r. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 650/2012 z dnia 4 lipca 2012 r. w sprawie jurysdykcji, prawa właściwego, uznawania i wykonywania orzeczeń, przyjmowania i wykonywania dokumentów urzędowych dotyczących dziedziczenia oraz w sprawie ustanowienia europejskiego poświadczenia spadkowego (Dz. Urz. UE L 201 z 27.07.2012, str. 107, z późn. zm.). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 28 lipca 1983 r. o podatku od spadków i darowizn, ustawę z dnia 13 lutego 1984 r. o funkcjach konsulów Rzeczypospolitej Polskiej, ustawę z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych oraz ustawę z dnia 4 lutego 2011 r. – Prawo prywatne międzynarodowe. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978 i 1062. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 993 i 1585 oraz z 2015 r. poz. 218 i 978. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4, 397 i 539. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4, 238, 539, 957, 978 i 1045.
 

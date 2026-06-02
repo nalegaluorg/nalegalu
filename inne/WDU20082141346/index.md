@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 października 2008 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz niektórych innych ustaw
+# Ustawa z dnia 24 października 2008 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz niektórych innych ustaw Niniejszą ustawą zmienia się: ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, ustawę z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych, ustawę z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego i ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia.
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,28 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-10-24 |
 | Data wydania | 2008-12-03 |
-| Wejście w życie | 2008-12-18 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082141346) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1346/text.pdf) |
 
+Niniejsza ustawa w zakresie swojej regulacji:
+wykonuje postanowienia następujących rozporządzeń Wspólnoty Europejskiej:
+a)
+rozporządzenia Rady (WE) nr 1234/2007 z dnia 22 października 2007 r. ustanawiającego wspólną organizację rynków rolnych oraz przepisy szczegółowe dotyczące niektórych produktów rolnych(Dz. Urz. UE L 299 z 16.11.2007, str. 1, z późn. zm.),
+b)
+rozporządzenia Komisji (WE) nr 589/2008 z dnia 23 czerwca 2008 r. ustanawiającego szczegółowe zasady wykonywania rozporządzenia Rady (WE) nr 1234/2007 w sprawie norm handlowych w odniesieniu do jaj (Dz. Urz. UE L 163 z 24.06.2008, str. 6, z późn. zm.);
+2)
+dokonuje częściowego wdrożenia dyrektywy 2000/13/WE Parlamentu Europejskiego i Rady z dnia 20 marca 2000 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich w zakresie etykietowania, prezentacji i reklamy środków spożywczych (Dz. Urz. WE L 109 z 06.05.2000, str. 29, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 5, str. 75) – w zakresie regulacji dotyczących spraw znakowania, prezentacji i reklamy środków spożywczych.
+Przepisy karne i kary pieniężne”;
 17)
 w art. 40:
 a)
 w ust. 1:
 – uchyla się pkt 1 i 2,
-– pkt 5 otrzymuje brzmienie: „ 5) nie zgłasza wojewódzkiemu inspektorowi podjęcia albo prowadzenia lub zaprzestania prowadzenia działalności w zakresie produkcji, składowania, konfekcjonowania lub obrotu artykułami rolno-spożywczymi ” ,
+pkt 5 otrzymuje brzmienie: „
+5)
+nie zgłasza wojewódzkiemu inspektorowi podjęcia albo prowadzenia lub zaprzestania prowadzenia działalności w zakresie produkcji, składowania, konfekcjonowania lub obrotu artykułami rolno-spożywczymi ” ,
 b)
-ust. 2. otrzymuje brzmienie:
-„
+ust. 2. otrzymuje brzmienie: „
 2.
 Kto:
 1)
@@ -52,53 +61,58 @@ będąc producentem, nie prowadzi ewidencji zgodnie z art. 20 rozporządzenia nr
 7)
 prowadząc punkt odbioru, nie prowadzi ewidencji zgodnie z art. 21 rozporządzenia nr 589/2008,
 8)
-prowadząc zakład pakowania, nie prowadzi ewidencji zgodnie z art. 22 rozporządzenia nr 589/2008
-podlega karze grzywny.
-” ,
+prowadząc zakład pakowania, nie prowadzi ewidencji zgodnie z art. 22 rozporządzenia nr 589/2008 – podlega karze grzywny. ” ,
 c)
 uchyla się ust. 3,
 d)
-ust. 4a otrzymuje brzmienie:
-„
+ust. 4a otrzymuje brzmienie: „
 4a.
 Kto, wbrew obowiązkowi określonemu w art. 5 rozporządzenia nr 485/2008, nie udostępnia dokumentów lub nie udziela informacji objętych zakresem kontroli
 – podlega karze grzywny.
 ” ,
 e)
 w ust. 4b:
-– w pkt 2 lit. a otrzymuje brzmienie: „ a) części B załącznika V do rozporządzenia nr 1234/2007 lub ” ,
-– w pkt 3 lit. a otrzymuje brzmienie: „ a) części A załącznika V do rozporządzenia nr 1234/2007 lub ” ,
+w pkt 2 lit. a otrzymuje brzmienie: „
+a)
+części B załącznika V do rozporządzenia nr 1234/2007 lub ” ,
+w pkt 3 lit. a otrzymuje brzmienie: „
+a)
+części A załącznika V do rozporządzenia nr 1234/2007 lub ” ,
 – w pkt 3 uchyla się lit. c,
 f)
 w ust. 4c:
-– pkt 1 otrzymuje brzmienie: „ 1) nie poddaje klasyfikacji lub ustalaniu masy tusz wieprzowych zgodnie z wymaganiami określonymi w części B załącznika V do rozporządzenia nr 1234/2007, ” ,
-– pkt 4 i 5 otrzymują brzmienie: „ 4) nie znakuje tusz wieprzowych zgodnie z art. 43 lit. m rozporządzenia nr 1234/2007, 5) nie dopełnia obowiązku, o którym mowa w art. 15a ust. 3c lub 3d, w terminie określonym w art. 15a ust. 3e ” ,
+pkt 1 otrzymuje brzmienie: „
+1)
+nie poddaje klasyfikacji lub ustalaniu masy tusz wieprzowych zgodnie z wymaganiami określonymi w części B załącznika V do rozporządzenia nr 1234/2007, ” ,
+pkt 4 i 5 otrzymują brzmienie: „
+4)
+nie znakuje tusz wieprzowych zgodnie z art. 43 lit. m rozporządzenia nr 1234/2007,
+5)
+nie dopełnia obowiązku, o którym mowa w art. 15a ust. 3c lub 3d, w terminie określonym w art. 15a ust. 3e ” ,
 g)
 w ust. 4d:
-– w pkt 1 lit. a otrzymuje brzmienie: „ a) części A załącznika V do rozporządzenia nr 1234/2007, ” ,
-– pkt 5 otrzymuje brzmienie: „ 5) nie dopełnia obowiązku, o którym mowa w art. 15a ust. 3c lub 3d, w terminie określonym w art. 15a ust. 3e ” ,
+w pkt 1 lit. a otrzymuje brzmienie: „
+a)
+części A załącznika V do rozporządzenia nr 1234/2007, ” ,
+pkt 5 otrzymuje brzmienie: „
+5)
+nie dopełnia obowiązku, o którym mowa w art. 15a ust. 3c lub 3d, w terminie określonym w art. 15a ust. 3e ” ,
 h)
-po ust. 4d dodaje się ust. 4e w brzmieniu:
-„
+po ust. 4d dodaje się ust. 4e w brzmieniu: „
 4e.
 Kto:
 1)
 prowadząc rzeźnię, nie klasyfikuje bydła w wieku do 12 miesięcy zgodnie z pkt II załącznika Xla do rozporządzenia nr 1234/2007,
 2)
-nie znakuje zgodnie z pkt IV załącznika Xla do rozporządzenia nr 1234/2007 mięsa, o którym mowa w pkt I załącznika Xla do tego rozporządzenia
-podlega karze grzywny.
-” ,
+nie znakuje zgodnie z pkt IV załącznika Xla do rozporządzenia nr 1234/2007 mięsa, o którym mowa w pkt I załącznika Xla do tego rozporządzenia – podlega karze grzywny. ” ,
 i)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
-Orzekanie w sprawach o czyny, o których mowa w ust. 1–4e, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
-” ;
+Orzekanie w sprawach o czyny, o których mowa w ust. 1–4e, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia. ” ;
 18)
-po art. 40 dodaje się art. 40a w brzmieniu:
-„
+po art. 40 dodaje się art. 40a w brzmieniu: „
 
-**Art. 1.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2005 r. Nr 187, poz. 1577, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2005 r. Nr 187, poz. 1577, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 208, poz. 1541 oraz z 2007 r. Nr 176, poz. 1238.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3: pkt 6 otrzymuje brzmienie: „
     - **a)**
@@ -143,15 +157,17 @@ po art. 40 dodaje się art. 40a w brzmieniu:
 - **1)** rolników, w rozumieniu przepisów o ubezpieczeniu społecznym rolników, w zakresie prowadzonej działalności rolniczej oraz podmiotów wyrabiających wino gronowe lub moszcz gronowy z winogron pochodzących z upraw winorośli położonych na terytorium Rzeczypospolitej Polskiej; ” ;
 - **6)** w art. 15 pkt 6 otrzymuje brzmienie: „
 - **6)** może określić szczegółowy zakres i sposób znakowania nieprzeznaczonych bezpośrednio dla konsumenta finalnego niektórych grup i rodzajów opakowanych artykułów rolno-spożywczych lub artykułów rolno-spożywczych bez opakowań ” ;
-- **7)** w art. 17: w ust. 1 w pkt 1: – lit. b otrzymuje brzmienie: „ b) kontrola jakości handlowej artykułów rolno-spożywczych przywożonych spoza państw członkowskich Unii Europejskiej oraz spoza państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, w tym kontrola graniczna tych artykułów, ” , – lit. e otrzymuje brzmienie: „ e) kontrola artykułów rolno-spożywczych posiadających zarejestrowane na podstawie przepisów o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych chronione nazwy pochodzenia, chronione oznaczenia geograficzne albo będących gwarantowanymi tradycyjnymi specjalnościami oraz współpraca z jednostkami sprawującymi taką kontrolę w innych państwach; ” , ust. 2b otrzymuje brzmienie: „
+- **7)** w art. 17: w ust. 1 w pkt 1: lit. b otrzymuje brzmienie: „ kontrola jakości handlowej artykułów rolno-spożywczych przywożonych spoza państw członkowskich Unii Europejskiej oraz spoza państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, w tym kontrola graniczna tych artykułów, ” , lit. e otrzymuje brzmienie: „ kontrola artykułów rolno-spożywczych posiadających zarejestrowane na podstawie przepisów o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych chronione nazwy pochodzenia, chronione oznaczenia geograficzne albo będących gwarantowanymi tradycyjnymi specjalnościami oraz współpraca z jednostkami sprawującymi taką kontrolę w innych państwach; ” , ust. 2b otrzymuje brzmienie: „
     - **a)**
+    - **b)**
+    - **e)**
     - **b)**
 
 2b. Minister właściwy do spraw rynków rolnych może, w drodze rozporządzenia, określić:
 
 - **1)** szczegółowy sposób kontroli jakości handlowej artykułów rolno-spożywczych lub
 - **2)** wzory dokumentów związanych z przeprowadzaniem kontroli jakości handlowej artykułów rolno-spożywczych, lub
-- **3)** wzory dokumentów stwierdzających jakość handlową niektórych artykułów rolno-spożywczych lub ich grup biorąc pod uwagę konieczność dostosowania sposobu dokonywania kontroli do wymagań związanych ze swobodnym przepływem towarów oraz mając na względzie obowiązki określone w art. 8, 10 i 11 rozporządzenia (WE) nr 882/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie kontroli urzędowych przeprowadzanych w celu sprawdzenia zgodności z prawem paszowym i żywnościowym oraz regułami dotyczącymi zdrowia zwierząt i dobrostanu zwierząt (Dz. Urz. UE L 165 z 30.04.2004, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 200, z późn. zm.). ” ;
+- **3)** wzory dokumentów stwierdzających jakość handlową niektórych artykułów rolno-spożywczych lub ich grup – biorąc pod uwagę konieczność dostosowania sposobu dokonywania kontroli do wymagań związanych ze swobodnym przepływem towarów oraz mając na względzie obowiązki określone w art. 8, 10 i 11 rozporządzenia (WE) nr 882/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie kontroli urzędowych przeprowadzanych w celu sprawdzenia zgodności z prawem paszowym i żywnościowym oraz regułami dotyczącymi zdrowia zwierząt i dobrostanu zwierząt (Dz. Urz. UE L 165 z 30.04.2004, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 200, z późn. zm.). ” ;
 - **8)** w art. 17a w ust. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
 - **6)** mięsa pochodzącego z bydła w wieku do 12 miesięcy. ” ;
 - **9)** w art. 17c ust. 1–4 otrzymują brzmienie: „
@@ -268,7 +284,7 @@ po art. 40 dodaje się art. 40a w brzmieniu:
 
 - **16)** tytuł rozdziału 5 otrzymuje brzmienie: „
 
-#### Rozdział 5 Przepisy karne i kary pieniężne”;
+#### Rozdział 5
 
 **Art. 40a.**
 
@@ -292,23 +308,23 @@ po art. 40 dodaje się art. 40a w brzmieniu:
 
 7. Kary pieniężne stanowią dochód budżetu państwa i są wpłacane na rachunek bankowy wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych albo wojewódzkiego inspektoratu Inspekcji Handlowej.
 
-8. W zakresie nieuregulowanym w ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.). ” .
+8. W zakresie nieuregulowanym w ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378, Nr 225, poz. 1671 oraz z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320.). ” .
 
-**Art. 2.** W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2001 r. Nr 4, poz. 25, z późn. zm.) w art. 18:
+**Art. 2.** W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2001 r. Nr 4, poz. 25, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 110, poz. 1189, z 2002 r. Nr 135, poz. 1145 i Nr 166, poz. 1360, z 2003 r. Nr 223, poz. 2220 i Nr 229, poz. 2275, z 2004 r. Nr 34, poz. 293, z 2005 r. Nr 180, poz. 1495, z 2007 r. Nr 147, poz. 1033 oraz z 2008 r. Nr 157, poz. 976.) w art. 18:
 
 - **1)** ust. 1 otrzymuje brzmienie: „
 
 1. Wojewódzki inspektor, w drodze decyzji, może:
 
 - **1)** zarządzić w toku kontroli ograniczenie wprowadzania do obrotu, wstrzymanie wprowadzania do obrotu lub wycofanie z obrotu produktów albo wstrzymanie świadczenia usług, albo niezwłoczne usunięcie stwierdzonych nieprawidłowości, jeżeli jest to konieczne ze względu na bezpieczeństwo lub interes konsumentów albo interes gospodarczy państwa;
-- **2)** nakazać przedsiębiorcy, w ramach sprawowanego nadzoru, o którym mowa w art. 17 ust. 3 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2005 r. Nr 187, poz. 1577, z późn. zm.), wstrzymanie wprowadzania do obrotu lub wycofanie z obrotu w jego punktach sprzedaży całej partii artykułu rolno-spożywczego zafałszowanego, jeżeli stwierdzony rodzaj nieprawidłowości może odnosić się do całej partii produkcyjnej artykułu rolno-spożywczego. ” ;
+- **2)** nakazać przedsiębiorcy, w ramach sprawowanego nadzoru, o którym mowa w art. 17 ust. 3 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2005 r. Nr 187, poz. 1577, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 208, poz. 1541, z 2007 r. Nr 176, poz. 1238 oraz z 2008 r. Nr 214, poz. 1346.), wstrzymanie wprowadzania do obrotu lub wycofanie z obrotu w jego punktach sprzedaży całej partii artykułu rolno-spożywczego zafałszowanego, jeżeli stwierdzony rodzaj nieprawidłowości może odnosić się do całej partii produkcyjnej artykułu rolno-spożywczego. ” ;
 - **2)** dodaje się ust. 4 i 5 w brzmieniu: „
 
 4. Właściwość miejscową organu Inspekcji w sprawach, o których mowa w ust. 1 pkt 2, ustala się według miejsca przeprowadzania kontroli.
 
 5. Informacje zawarte w decyzjach, o których mowa w ust. 1, dotyczące zafałszowania artykułów rolno-spożywczych, podaje się do publicznej wiadomości, z pominięciem informacji stanowiących tajemnicę przedsiębiorstwa oraz inne tajemnice podlegające ochronie na podstawie przepisów odrębnych. ” .
 
-**Art. 3.** W ustawie z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2005 r. Nr 244, poz. 2081, z późn. zm.) w art. 4 w ust. 2 pkt 3 otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2005 r. Nr 244, poz. 2081, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 50, poz. 363 i Nr 208, poz. 1541, z 2007 r. Nr 115, poz. 794 oraz z 2008 r. Nr 127, poz. 816.) w art. 4 w ust. 2 pkt 3 otrzymuje brzmienie: „
 
 - **3)** posiada przyrządy pomiarowe poświadczone dowodem legalizacji albo świadectwem wzorcowania zgodnie z przepisami o miarach, zapewniające prawidłowe pomiary ilości mleka podczas jego załadunku oraz rozładunku. ” .
 
@@ -319,12 +335,11 @@ po art. 40 dodaje się art. 40a w brzmieniu:
 **Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 17 lit. e, lit. f w zakresie dotyczącym art. 40 ust. 4c pkt 1 i 4 oraz lit. g w zakresie dotyczącym art. 40 ust. 4d pkt 1 lit. a, które wchodzą w życie z dniem 1 stycznia 2009 r.;
-- **2)** art. 3, który wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-- **2)** Niniejsza ustawa w zakresie swojej regulacji:
+- **2)** art. 3, który wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się: ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, ustawę z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych, ustawę z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego i ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia. 2) Niniejsza ustawa w zakresie swojej regulacji:
 - **1)** wykonuje postanowienia następujących rozporządzeń Wspólnoty Europejskiej: rozporządzenia Rady (WE) nr 1234/2007 z dnia 22 października 2007 r. ustanawiającego wspólną organizację rynków rolnych oraz przepisy szczegółowe dotyczące niektórych produktów rolnych (Dz. Urz. UE L 299 z 16.11.2007, str. 1, z późn. zm.), rozporządzenia Komisji (WE) nr 589/2008 z dnia 23 czerwca 2008 r. ustanawiającego szczegółowe zasady wykonywania rozporządzenia Rady (WE) nr 1234/2007 w sprawie norm handlowych w odniesieniu do jaj (Dz. Urz. UE L 163 z 24.06.2008, str. 6, z późn. zm.);
     - **a)**
     - **b)**
 
-- **2)** dokonuje częściowego wdrożenia dyrektywy 2000/13/WE Parlamentu Europejskiego i Rady z dnia 20 marca 2000 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich w zakresie etykietowania, prezentacji i reklamy środków spożywczych (Dz. Urz. WE L 109 z 06.05.2000, str. 29, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 5, str. 75) – w zakresie regulacji dotyczących spraw znakowania, prezentacji i reklamy środków spożywczych.
+- **2)** dokonuje częściowego wdrożenia dyrektywy 2000/13/WE Parlamentu Europejskiego i Rady z dnia 20 marca 2000 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich w zakresie etykietowania, prezentacji i reklamy środków spożywczych (Dz. Urz. WE L 109 z 06.05.2000, str. 29, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 5, str. 75) – w zakresie regulacji dotyczących spraw znakowania, prezentacji i reklamy środków spożywczych. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 208, poz. 1541 oraz z 2007 r. Nr 176, poz. 1238. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378, Nr 225, poz. 1671 oraz z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 110, poz. 1189, z 2002 r. Nr 135, poz. 1145 i Nr 166, poz. 1360, z 2003 r. Nr 223, poz. 2220 i Nr 229, poz. 2275, z 2004 r. Nr 34, poz. 293, z 2005 r. Nr 180, poz. 1495, z 2007 r. Nr 147, poz. 1033 oraz z 2008 r. Nr 157, poz. 976. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 208, poz. 1541, z 2007 r. Nr 176, poz. 1238 oraz z 2008 r. Nr 214, poz. 1346. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 50, poz. 363 i Nr 208, poz. 1541, z 2007 r. Nr 115, poz. 794 oraz z 2008 r. Nr 127, poz. 816.
 
 

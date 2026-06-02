@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-09 |
 | Data wydania | 2022-11-24 |
-| Wejście w życie | 2022-11-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002423) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2423/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 18c ust. 9 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 18c ust. 9 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1728 i 2448 oraz z 2022 r. poz. 655, 1115, 1855 i 1933.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -52,7 +51,7 @@ dowodu osobistego;
 2)
 legitymacji służbowej;
 3)
-dokumentu potwierdzającego tożsamość cudzoziemca, o którym mowa w art. 3 pkt 3 oraz art. 226 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354, z późn. zm.);
+dokumentu potwierdzającego tożsamość cudzoziemca, o którym mowa w art. 3 pkt 3 oraz art. 226 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 91, 583, 830, 835, 1383, 1561 i 2185.);
 4)
 dokumentu paszportowego;
 5)
@@ -140,5 +139,5 @@ W nagłych przypadkach funkcjonariusz może odstąpić od realizacji czynności,
 3.
 O podjęciu czynności służbowych, o których mowa w ust. 1 i 2, funkcjonariusz informuje kierownika i sporządza notatkę służbową, którą przekazuje temu kierownikowi.
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1728 i 2448 oraz z 2022 r. poz. 655, 1115, 1855 i 1933. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 91, 583, 830, 835, 1383, 1561 i 2185.
 

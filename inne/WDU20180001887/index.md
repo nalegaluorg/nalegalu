@@ -26,7 +26,19 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001887) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1887/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 9 lutego 2004 r. w sprawie szczegółowych zasad zatrudniania skazanych Rozdział 1 – Przepisy ogólne Rozdział 2 – Zasady zatrudniania odpłatnego skazanych Rozdział 3 – Zasady zatrudniania nieodpłatnego skazanych Rozdział 4 – Zasady wynagradzania skazanych zatrudnionych odpłatnie przy pracach porządkowych i pomocniczych wykonywanych na rzecz jednostek organizacyjnych Służby Więziennej Rozdział 5 – Zasady udzielania skazanym zwolnień od pracy lub urlopów wypoczynkowych oraz zasady usprawiedliwiania okresów niewykonywania pracy przez skazanych Rozdział 6 – Przepis końcowy
+Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 9 lutego 2004 r. w sprawie szczegółowych zasad zatrudniania skazanych
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Zasady zatrudniania odpłatnego skazanych
+
+#### Rozdział 3 – Zasady zatrudniania nieodpłatnego skazanych
+
+#### Rozdział 4 – Zasady wynagradzania skazanych zatrudnionych odpłatnie przy pracach porządkowych i pomocniczych wykonywanych na rzecz jednostek organizacyjnych Służby Więziennej
+
+#### Rozdział 5 – Zasady udzielania skazanym zwolnień od pracy lub urlopów wypoczynkowych oraz zasady usprawiedliwiania okresów niewykonywania pracy przez skazanych
+
+#### Rozdział 6 – Przepis końcowy
 
 ## Załącznik nr 1 — – Tabela wynagrodzeń zasadniczych dla stanowisk pracy skazanych zatrudnionych przy pracach porządkowych oraz pomocniczych wykonywanych na rzecz jednostek organizacyjnych Służby Więziennej
 
@@ -42,26 +54,23 @@ rozporządzeniem Ministra Sprawiedliwości z dnia 31 lipca 2017 r. zmieniającym
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 i § 3 rozporządzenia Ministra Sprawiedliwości z dnia 6 czerwca 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad zatrudniania skazanych (Dz. U. poz. 746), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Sprawiedliwości z dnia 6 czerwca 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad zatrudniania skazanych (Dz. U. poz. 746), które stanowią: „
 § 2.
 Wynagrodzenie zasadnicze określone w załączniku do rozporządzenia, o którym mowa w § 1, w brzmieniu określonym w niniejszym rozporządzeniu, przysługuje skazanemu od dnia 8 marca 2011 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2–4 rozporządzenia Ministra Sprawiedliwości z dnia 31 lipca 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad zatrudniania skazanych (Dz. U. poz. 1675), które stanowią:
-„
+§ 2–4 rozporządzenia Ministra Sprawiedliwości z dnia 31 lipca 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad zatrudniania skazanych (Dz. U. poz. 1675), które stanowią: „
 § 2.
 Druki oznaczone jako „Akta osobowe część „C”” mogą być stosowane do wyczerpania zapasów, nie dłużej jednak niż do dnia 30 czerwca 2018 r.
 § 3.
 Umowy o zatrudnienie nieodpłatne skazanych przy pracach porządkowych na rzecz samorządu terytorialnego, przy pracach publicznych na rzecz organów administracji publicznej lub przy pracach wykonywanych na cele charytatywne zawarte przed dniem wejścia w życie niniejszego rozporządzenia zachowują moc na okres, na jaki zostały zawarte, nie dłużej jednak niż do dnia 31 grudnia 2017 r.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 9 lutego 2004 r. w sprawie szczegółowych zasad zatrudniania skazanych
 Na podstawie art. 129 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2018 r. poz. 652, 1010 i 1387) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Rozdział 1
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -72,7 +81,8 @@ zasady zatrudniania nieodpłatnego skazanych;
 zasady wynagradzania skazanych zatrudnionych odpłatnie przy pracach porządkowych i pomocniczych wykonywanych na rzecz jednostek organizacyjnych Służby Więziennej;
 4)
 zasady udzielania skazanym zwolnień od pracy lub urlopów wypoczynkowych oraz zasady usprawiedliwiania okresów niewykonywania pracy przez skazanych.
-Rozdział 2 Zasady zatrudniania odpłatnego skazanych
+Rozdział 2
+Zasady zatrudniania odpłatnego skazanych
 § 2.
 Skazani mogą być zatrudnieni odpłatnie:
 1)
@@ -91,7 +101,7 @@ umowę o zatrudnienie odpłatne skazanych w przypadku określonym w § 2 pkt 2;
 umowę o zatrudnienie odpłatne skazanych lub porozumienie dotyczące warunków zatrudnienia skazanych na podstawie umowy o pracę, umowy zlecenia, umowy o dzieło lub umowy o pracę nakładczą w przypadkach określonych w § 2 pkt 3.
 § 4.
 Wykaz stanowisk, o którym mowa w § 3 pkt 1, podlega corocznej aktualizacji w oparciu o analizy zatrudnienia odpłatnego przeprowadzane przez jednostki organizacyjne Służby Więziennej.
-§ 4a.
+§ 4aDodany przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 31 lipca 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad zatrudniania skazanych (Dz. U. poz. 1675), które weszło w życie z dniem 2 września 2017 r..
 Skierowanie skazanego do zatrudnienia w jednostkach organizacyjnych Służby Więziennej obowiązuje w okresie przebywania skazanego w zakładzie karnym, w którym nastąpiło skierowanie.
 § 5.
 1.
@@ -116,7 +126,7 @@ Wynagrodzenie za pracę skazanego, zatrudnionego na podstawie skierowania do pra
 Podmiot zatrudniający skazanego jest obowiązany:
 1)
 dostarczyć do zakładu karnego obowiązujące u niego przepisy dotyczące zatrudnienia, zwłaszcza w zakresie czasu pracy i wynagrodzenia, oraz informować o dokonywanych w nich zmianach;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 6 czerwca 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad zatrudniania skazanych (Dz. U. poz. 746), które weszło w życie z dniem 6 lipca 2011 r.)
 niezwłocznie po zatrudnieniu przesłać do zakładu karnego potwierdzenie zatrudnienia skazanego, zawierające imię i nazwisko, imię ojca, stanowisko oraz przyznaną stawkę wynagrodzenia;
 3)
 informować zakład karny o przypadkach negatywnego zachowania skazanego.
@@ -126,20 +136,22 @@ Podmiot zatrudniający skazanego na podstawie skierowania do pracy może wniosko
 Dyrektor zakładu karnego ma obowiązek informowania zatrudniającego o zmianach sytuacji skazanego mającej wpływ na zatrudnienie oraz prawo wstrzymania zatrudnienia lub rozwiązania umowy o zatrudnienie z powodu nieprzestrzegania przez zatrudniającego skazanych warunków tego zatrudnienia.
 § 11.
 Zakład karny, niezależnie od przepisów obowiązujących w tym zakresie podmiot zatrudniający skazanego, prowadzi dokumentację zatrudnienia odpłatnego.
-Rozdział 3 Zasady zatrudniania nieodpłatnego skazanych
+Rozdział 3
+Zasady zatrudniania nieodpłatnego skazanych
 § 12.
 Skazani mogą być zatrudnieni nieodpłatnie w przypadkach i na warunkach określonych w art. 123a § 1, 2 i 3 Kodeksu karnego wykonawczego.
 § 13.
 Dyrektor zakładu karnego kieruje skazanego do zatrudnienia nieodpłatnego w oparciu o:
 1)
 wykaz stanowisk skazanych zatrudnionych nieodpłatnie przy pracach porządkowych oraz pomocniczych, sporządzany przez jednostki organizacyjne Służby Więziennej;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.)
 umowę o zatrudnienie nieodpłatne skazanych przy pracach na cele społeczne zawartą przez dyrektora zakładu karnego z podmiotem wyznaczonym przez właściwy organ gminy na postawie art. 123a § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy.
-Rozdział 4 Zasady wynagradzania skazanych zatrudnionych odpłatnie przy pracach porządkowych i pomocniczych wykonywanych na rzecz jednostek organizacyjnych Służby Więziennej
+Rozdział 4
+Zasady wynagradzania skazanych zatrudnionych odpłatnie przy pracach porządkowych i pomocniczych wykonywanych na rzecz jednostek organizacyjnych Służby Więziennej
 § 14.
 1.
 Ustala się tabelę wynagrodzeń zasadniczych dla stanowisk pracy skazanych zatrudnionych przy pracach porządkowych oraz pomocniczych wykonywanych odpłatnie na rzecz jednostek organizacyjnych Służby Więziennej. Tabelę wynagrodzeń zasadniczych dla stanowisk pracy skazanych zatrudnionych przy pracach porządkowych oraz pomocniczych wykonywanych na rzecz jednostek organizacyjnych Służby Więziennej określa załącznik nr 1 do rozporządzenia.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Ustala się minimalną godzinową stawkę wynagrodzenia zasadniczego w wysokości wynikającej z podzielenia minimalnego wynagrodzenia, ustalanego zgodnie z przepisami ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2017 r. poz. 847 oraz z 2018 r. poz. 650), przez liczbę godzin przypadających do przepracowania w danym miesiącu.
 3.
 Godzinową stawkę wynagrodzenia zasadniczego ustala się, dzieląc przyznane skazanemu miesięczne wynagrodzenie zasadnicze przez liczbę godzin przypadających do przepracowania w miesiącu.
@@ -149,10 +161,11 @@ Skazanemu zatrudnionemu odpłatnie przy pracach porządkowych oraz pomocniczych 
 2.
 Skazanemu wykonującemu pracę w porze nocnej przysługuje dodatek do wynagrodzenia za każdą godzinę pracy w porze nocnej, w wysokości 20% przyznanej godzinowej stawki wynagrodzenia zasadniczego.
 § 16.
-(uchylony).
+(uchylony).Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.
 § 17.
-(uchylony).
-Rozdział 5 Zasady udzielania skazanym zwolnień od pracy lub urlopów wypoczynkowych oraz zasady usprawiedliwiania okresów niewykonywania pracy przez skazanych
+(uchylony).Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.
+Rozdział 5
+Zasady udzielania skazanym zwolnień od pracy lub urlopów wypoczynkowych oraz zasady usprawiedliwiania okresów niewykonywania pracy przez skazanych
 § 18.
 Dyrektor zakładu karnego przy skierowaniu skazanego do pracy powiadamia zatrudniającego o przewidywanym terminie nabycia przez skazanego prawa do zwolnienia od pracy.
 § 19.
@@ -167,9 +180,9 @@ W razie przerwy w zatrudnieniu zawinionej przez skazanego lub trwającej łączn
 § 20.
 Zmiana miejsca pracy lub zakładu karnego nie pozbawia skazanego prawa do zwolnienia od pracy.
 § 21.
-1.
+1Oznaczenie ust. 1 nadane przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1..
 Zwolnienia od pracy udziela skazanemu dyrektor zakładu karnego niezwłocznie po uzyskaniu przez niego prawa. Na wniosek zatrudniającego zwolnienie od pracy może być udzielone w terminie późniejszym, nie później jednak niż w ciągu 60 dni kalendarzowych od dnia uzyskania do niego prawa.
-2.
+2Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1..
 Skazanemu po roku nieprzerwanej pracy przysługuje zwolnienie od pracy adekwatne do formy zatrudnienia w dniu, w którym nabył uprawnienia do zwolnienia od pracy.
 § 22.
 Na wniosek skazanego, za zgodą zatrudniającego, zwolnienie od pracy może być dzielone, przy czym pełne wykorzystanie zwolnienia od pracy musi nastąpić nie później niż w terminie 60 dni, licząc od dnia uzyskania prawa, a jedna część zwolnienia powinna obejmować nie mniej niż 5 dni roboczych.
@@ -189,7 +202,7 @@ W razie gdy skazany został wycofany z zatrudnienia po uzyskaniu prawa do zwolni
 § 28.
 Wysokość wynagrodzenia za okres zwolnienia od pracy oraz wysokość ekwiwalentu pieniężnego za niewykorzystane zwolnienie od pracy z zachowaniem prawa do wynagrodzenia oblicza się na zasadach ogólnych dotyczących pracowniczych urlopów wypoczynkowych.
 § 29.
-(uchylony).
+(uchylony).Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1.
 § 30.
 1.
 Urlopu wypoczynkowego przysługującego skazanemu zatrudnionemu na podstawie umowy o pracę udziela pracodawca. O urlopie wypoczynkowym pracodawca powiadamia dyrektora zakładu karnego najpóźniej w terminie 14 dni przed jego planowanym rozpoczęciem.
@@ -217,10 +230,10 @@ O przyczynach niewykonywania przez skazanego pracy dyrektor zakładu karnego nie
 W jednostkach organizacyjnych Służby Więziennej zatrudniających skazanych stosuje się akta i dokumenty z wykorzystaniem odpowiednich druków.
 2.
 Wykaz druków dotyczących zatrudniania skazanych określa załącznik nr 2 do rozporządzenia.
-3.
+3Dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1..
 Dokumenty wymienione w lit. B, C, D i H załącznika nr 2 do rozporządzenia mogą być prowadzone w formie elektronicznej.
 § 35.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 1..
 Administracja zakładu karnego wydaje skazanemu, który był zatrudniony odpłatnie w czasie pobytu w zakładzie karnym, zaświadczenie o zatrudnieniu.
 2.
 W zaświadczeniu należy określić w szczególności rodzaje i okresy zatrudnienia oraz wysokość otrzymywanego wynagrodzenia.
@@ -228,19 +241,25 @@ W zaświadczeniu należy określić w szczególności rodzaje i okresy zatrudnie
 Zaświadczenie należy wydać skazanemu z urzędu, najpóźniej w dniu zwolnienia z zakładu karnego, a jeżeli jest to niemożliwe, przesłać niezwłocznie po zwolnieniu na adres podany przez skazanego.
 4.
 Przepisy ust. 1–3 nie naruszają obowiązku wydania świadectwa pracy określonego w przepisach prawa pracy.
-5.
+5Dodany przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Zaświadczenie dotyczące wyłącznie okresów zatrudnienia nieodpłatnego wydaje się na wniosek skazanego.
-Rozdział 6 Przepis końcowy
+Rozdział 6
+Przepis końcowy
 § 36.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 25 lutego 2004 r..Z dniem wejścia w życie niniejszego rozporządzenia utraciło moc rozporządzenie Ministra Sprawiedliwości z dnia 26 sierpnia 1998 r. w sprawie szczegółowych zasad zatrudniania skazanych (Dz. U. poz. 727 oraz z 2002 r. poz. 1046) zachowane w mocy na podstawie art. 8 ustawy z dnia 24 lipca 2003 r. o zmianie ustawy – Kodeks karny wykonawczy oraz niektórych innych ustaw (Dz. U. poz. 1380). 1) Dodany przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 31 lipca 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad zatrudniania skazanych (Dz. U. poz. 1675), które weszło w życie z dniem 2 września 2017 r. 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 6 czerwca 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad zatrudniania skazanych (Dz. U. poz. 746), które weszło w życie z dniem 6 lipca 2011 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 6) Oznaczenie ust. 1 nadane przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 7) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 8) Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1. 9) Dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1. 10) W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 1. 11) Dodany przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 1. 12) Rozporządzenie zostało ogłoszone w dniu 25 lutego 2004 r. 13) Z dniem wejścia w życie niniejszego rozporządzenia utraciło moc rozporządzenie Ministra Sprawiedliwości z dnia 26 sierpnia 1998 r. w sprawie szczegółowych zasad zatrudniania skazanych (Dz. U. poz. 727 oraz z 2002 r. poz. 1046) zachowane w mocy na podstawie art. 8 ustawy z dnia 24 lipca 2003 r. o zmianie ustawy – Kodeks karny wykonawczy oraz niektórych innych ustaw (Dz. U. poz. 1380).
 
-## Załącznik nr 1 — – Tabela wynagrodzeń zasadniczych dla stanowisk pracy skazanych zatrudnionych przy pracach porządkowych oraz pomocniczych wykonywanych na rzecz jednostek organizacyjnych Służby Więziennej
+## Załącznik nr 1 — – Tabela wynagrodzeń zasadniczych dla stanowisk pracy skazanych zatrudnionych przy pracach porządkowych oraz pomocniczych wykonywanych na rzecz jednostek organizacyjnych Służby WięziennejW brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.
 
-Grupa stanowiskowa Nazwa stanowiska Miesięczne wynagrodzenie zasadnicze I Pracownik transportu, pracownik gospodarczy (sprzątający, pomoc w pralni itp.), pomoc magazyniera, pomoc kucharza, pomoc palacza c.o. i inne stanowiska niewymagające kwalifikacji zawodowych 100%-110%minimalnego wynagrodzenia II Bibliotekarz, pracownik radiowęzła, rolnik, hodowca zwierząt, ogrodnik Obsługa maszyn pralniczych 100%-115%minimalnego wynagrodzenia III Palacz c.o.Kwalifikowane prace robotnicze wymagające dyplomu czeladnika lub świadectwa ukończenia kursu albo równorzędne w zawodach: fryzjer, szewc, krawiec, introligator, kucharz, masarz, elektryk, hydraulik, tapicer, spawacz, tokarz, ślusarz, frezer, mechanik samochodowy i innych 100%-120%minimalnego wynagrodzenia IV Stanowiska robotnicze wymagające kwalifikacji mistrza w zawodzie (wykonywane samodzielnie prace wysoko kwalifikowane) 100%-125%minimalnego wynagrodzenia
+Grupa stanowiskowa Nazwa stanowiska Miesięczne wynagrodzenie zasadnicze I Pracownik transportu, pracownik gospodarczy (sprzątający, pomoc w pralni itp.), pomoc magazyniera, pomoc kucharza, pomoc palacza c.o. i inne stanowiska niewymagające kwalifikacji zawodowych 100%-110%
+minimalnego wynagrodzenia II Bibliotekarz, pracownik radiowęzła, rolnik, hodowca zwierząt, ogrodnik Obsługa maszyn pralniczych 100%-115%
+minimalnego wynagrodzenia III Palacz c.o.
+Kwalifikowane prace robotnicze wymagające dyplomu czeladnika lub świadectwa ukończenia kursu albo równorzędne w zawodach: fryzjer, szewc, krawiec, introligator, kucharz, masarz, elektryk, hydraulik, tapicer, spawacz, tokarz, ślusarz, frezer, mechanik samochodowy i innych 100%-120%
+minimalnego wynagrodzenia IV Stanowiska robotnicze wymagające kwalifikacji mistrza w zawodzie (wykonywane samodzielnie prace wysoko kwalifikowane) 100%-125%
+minimalnego wynagrodzenia
 
 ## Załącznik nr 2 — – Wykaz druków dotyczących zatrudniania skazanych
 
-A.
+AW brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 1..
 Akta zatrudnieniowe – symbol R-1 format 450 mm × 320 mm
 B.
 Rejestr zatrudnienia osadzonego – symbol R-2 format A-4
@@ -259,5 +278,5 @@ Rejestr zatrudnienia nieodpłatnego osadzonego – symbol R-8 format A-4
 I.
 Karta pracy osadzonego zatrudnionego nieodpłatnie – symbol R-9 format A-4
 J.
-Karta pracy osadzonego zatrudnionego nieodpłatnie w wymiarze do 90 godzin miesięcznie – symbol R-10 format A-4
+Karta pracy osadzonego zatrudnionego nieodpłatnie w wymiarze do 90 godzin miesięcznie – symbol R-10 format A-4 15) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 1.
 

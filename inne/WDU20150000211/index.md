@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy o Służbie Celnej, ustawy o urzędach i izbach skarbowych oraz niektórych innych ustaw
+# Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy o Służbie Celnej, ustawy o urzędach i izbach skarbowych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 28 lipca 1983 r. o podatku od spadków i darowizn, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 28 września 1991 r. o kontroli skarbowej, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 18 grudnia 2003 r. o ochronie roślin, ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 19 marca 2004 r. – Prawo celne, ustawę z dnia 24 sierpnia 2006 r. o podatku tonażowym, ustawę z dnia 10 lipca 2007 r. o nawozach i nawożeniu, ustawę z dnia 21 listopada 2008 r. o służbie cywilnej, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 19 listopada 2009 r. o grach hazardowych, ustawę z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin oraz ustawę z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-01-15 |
 | Data wydania | 2015-02-12 |
-| Wejście w życie | 2015-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000211) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/211/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2013 r. poz. 1404, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2013 r. poz. 1404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 1055, 1215, 1395 i 1662.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w ust. 1 po pkt 9a dodaje się pkt 9b w brzmieniu: „
 - **9b)** wykonywanie zadań, o których mowa w art. 9 ust. 1 lit. a rozporządzenia Komisji (UE) nr 737/2010 z dnia 10 sierpnia 2010 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1007/2009 w sprawie handlu produktami z fok (Dz. Urz. UE L 216 z 17.08.2010, str. 1); ” ;
@@ -36,9 +35,11 @@ source: "eli-html"
 4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
 - **1)** właściwość miejscową urzędów celnych oraz izb celnych do wykonywania zadań określonych w Kodeksie karnym skarbowym,
-- **2)** właściwość miejscową wyznaczonych urzędów celnych do prowadzenia postępowań przygotowawczych w sprawach o niektóre przestępstwa skarbowe i wykroczenia skarbowe, określone w art. 133 § 1 pkt 1 Kodeksu karnego skarbowego mając na uwadze zapewnienie sprawnego wykonywania zadań Służby Celnej. ” ;
-- **4)** w art. 10: w ust. 3: – pkt 5 otrzymuje brzmienie: „ 5) wykonywanie funkcji specjalnej jednostki w rozumieniu art. 85 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549), zwanego dalej „rozporządzeniem (UE) nr 1306/2013”; ” , – uchyla się pkt 6, po ust. 3 dodaje się ust. 3a w brzmieniu: „
+- **2)** właściwość miejscową wyznaczonych urzędów celnych do prowadzenia postępowań przygotowawczych w sprawach o niektóre przestępstwa skarbowe i wykroczenia skarbowe, określone w art. 133 § 1 pkt 1 Kodeksu karnego skarbowego – mając na uwadze zapewnienie sprawnego wykonywania zadań Służby Celnej. ” ;
+- **4)** w art. 10: w ust. 3: pkt 5 otrzymuje brzmienie: „
     - **a)**
+
+- **5)** wykonywanie funkcji specjalnej jednostki w rozumieniu art. 85 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549), zwanego dalej „rozporządzeniem (UE) nr 1306/2013”; ” , – uchyla się pkt 6, po ust. 3 dodaje się ust. 3a w brzmieniu: „
     - **b)**
 
 3a. W celu zapewnienia sprawnego i efektywnego wykonywania zadań, w szczególności nadzoru nad działalnością dyrektorów izb celnych i naczelników urzędów celnych oraz kształtowania polityki kadrowej i szkoleniowej w Służbie Celnej, Szef Służby Celnej może wydawać zarządzenia. ” ;
@@ -104,8 +105,11 @@ source: "eli-html"
 
 10. W przypadkach, o których mowa w ust. 1, 3 i 4, stosuje się odpowiednio przepisy art. 91–93. ” ;
 
-- **10)** w art. 30: w ust. 3: – pkt 6 otrzymuje brzmienie: „ 6) prawidłowość wypłaty refundacji wywozowych przyznawanych w przypadku wywozu produktów rolnych do państw trzecich, realizowanych w ramach finansowania wspólnej polityki rolnej, zgodnie z rozporządzeniem (UE) nr 1306/2013 i na zasadach określonych w tytule V rozdziale III tego rozporządzenia; ” , – po pkt 9 dodaje się pkt 9a w brzmieniu: „ 9a) przestrzeganie przepisów z zakresu ochrony zdrowia zwierząt oraz bezpieczeństwa produktów pochodzenia zwierzęcego, ochrony roślin, środków ochrony roślin oraz jakości handlowej artykułów rolno-spożywczych, w zakresie należącym do właściwości Inspekcji Weterynaryjnej, Państwowej Inspekcji Ochrony Roślin i Nasiennictwa oraz Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, określonym w rozporządzeniu wydanym na podstawie ust. 8; ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
+- **10)** w art. 30: w ust. 3: pkt 6 otrzymuje brzmienie: „
     - **a)**
+
+- **6)** prawidłowość wypłaty refundacji wywozowych przyznawanych w przypadku wywozu produktów rolnych do państw trzecich, realizowanych w ramach finansowania wspólnej polityki rolnej, zgodnie z rozporządzeniem (UE) nr 1306/2013 i na zasadach określonych w tytule V rozdziale III tego rozporządzenia; ” , po pkt 9 dodaje się pkt 9a w brzmieniu: „
+- **9a)** przestrzeganie przepisów z zakresu ochrony zdrowia zwierząt oraz bezpieczeństwa produktów pochodzenia zwierzęcego, ochrony roślin, środków ochrony roślin oraz jakości handlowej artykułów rolno-spożywczych, w zakresie należącym do właściwości Inspekcji Weterynaryjnej, Państwowej Inspekcji Ochrony Roślin i Nasiennictwa oraz Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, określonym w rozporządzeniu wydanym na podstawie ust. 8; ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
     - **b)**
 
 6a. Kontrole, o których mowa w ust. 3 pkt 9a, Służba Celna wykonuje na przejściach granicznych oraz w oddziałach celnych wewnętrznych. ” , dodaje się ust. 8 w brzmieniu: „
@@ -182,7 +186,7 @@ source: "eli-html"
 2. Posiadacz zezwolenia jest uprawniony do zgłaszania uwag do wyników monitorowania przeprowadzonego przez organ Służby Celnej. Do monitorowania stosuje się odpowiednio przepisy art. 32, art. 33, art. 34 ust. 1 pkt 1 i ust. 2, art. 58 ust. 2, 4–6 oraz art. 63. W przypadku niewykonania przez posiadacza zezwolenia zaleceń, o których mowa w art. 58 ust. 5, organ Służby Celnej wszczyna postępowanie audytowe. Czynności monitorowania dokumentuje się w formie pisemnej. Dokumentacja obejmuje informacje o spełnieniu lub niespełnieniu danego warunku lub kryterium przez posiadacza zezwolenia, jak również zalecenia dotyczące konieczności podjęcia przez niego działań w celu zapewnienia ich spełniania oraz informacje o niewykonaniu zaleceń. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
 - **1)** sposób przeprowadzania czynności monitorowania,
-- **2)** rodzaj i wzory dokumentów stosowanych w toku monitorowania uwzględniając potrzebę ujednolicenia monitorowania przez organy Służby Celnej, zapewnienia rzetelności informacji gromadzonych w toku monitorowania oraz ujednolicenia dokumentów stosowanych przez organy Służby Celnej. ” ;
+- **2)** rodzaj i wzory dokumentów stosowanych w toku monitorowania – uwzględniając potrzebę ujednolicenia monitorowania przez organy Służby Celnej, zapewnienia rzetelności informacji gromadzonych w toku monitorowania oraz ujednolicenia dokumentów stosowanych przez organy Służby Celnej. ” ;
 - **18)** w art. 62 ust. 1 otrzymuje brzmienie: „
 
 1. Przepisy art. 58–61 i art. 63 stosuje się odpowiednio w przypadku wszczęcia przez organ Służby Celnej, na wniosek podmiotu lub z urzędu, postępowania audytowego po wydaniu zezwolenia. ” ;
@@ -266,8 +270,11 @@ source: "eli-html"
 
 - **11)** trwałej utraty zdolności fizycznej lub psychicznej do pełnienia służby na zajmowanym stanowisku, stwierdzonej przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych, a w przypadku funkcjonariuszy wykonujących zadania, o których mowa w art. 2 ust. 1 pkt 4–6 – przez komisję lekarską podległą ministrowi właściwemu do spraw wewnętrznych, jeżeli nie ma możliwości pełnienia służby przez funkcjonariusza na innym stanowisku odpowiednim do jego stanu zdrowia i kwalifikacji zawodowych albo gdy funkcjonariusz odmawia przejścia na inne stanowisko;
 - **12)** niezgłoszenia się do służby w terminie 14 dni od dnia zakończenia okresu oddelegowania, o którym mowa w art. 88, art. 89 i art. 89a. ” ;
-- **29)** w art. 105: dotychczasową treść oznacza się jako ust. 1 i w tym ust.: – pkt 3 otrzymuje brzmienie: „ 3) powołania do innej służby państwowej, objęcia funkcji z wyboru w organach wykonawczych samorządu terytorialnego, podjęcia pracy w instytucji Unii Europejskiej, jednostce utworzonej przez Unię Europejską lub organizacji międzynarodowej; ” , – pkt 8 otrzymuje brzmienie: „ 8) dwukrotnego nieusprawiedliwionego niestawienia się na badania, o których mowa w art. 130 ust. 3, lub niepoddania się im, a także w przypadku dwukrotnego nieusprawiedliwionego niestawienia się na obserwację, o której mowa w art. 130 ust. 4, chyba że skierowanie do komisji lekarskiej nastąpiło na wniosek funkcjonariusza; ” , dodaje się ust. 2 w brzmieniu: „
+- **29)** w art. 105: dotychczasową treść oznacza się jako ust. 1 i w tym ust.: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** powołania do innej służby państwowej, objęcia funkcji z wyboru w organach wykonawczych samorządu terytorialnego, podjęcia pracy w instytucji Unii Europejskiej, jednostce utworzonej przez Unię Europejską lub organizacji międzynarodowej; ” , pkt 8 otrzymuje brzmienie: „
+- **8)** dwukrotnego nieusprawiedliwionego niestawienia się na badania, o których mowa w art. 130 ust. 3, lub niepoddania się im, a także w przypadku dwukrotnego nieusprawiedliwionego niestawienia się na obserwację, o której mowa w art. 130 ust. 4, chyba że skierowanie do komisji lekarskiej nastąpiło na wniosek funkcjonariusza; ” , dodaje się ust. 2 w brzmieniu: „
     - **b)**
 
 2. Przepisu ust. 1 pkt 3 nie stosuje się w odniesieniu do funkcjonariusza oddelegowanego na podstawie art. 88 ust. 2. ” ;
@@ -401,7 +408,7 @@ source: "eli-html"
 - **6)** warunki przyznawania równoważnika pieniężnego w zamian za składniki umundurowania oraz za okresowe czyszczenie umundurowania,
 - **7)** sposób noszenia poszczególnych rodzajów umundurowania, oznaczeń stopni służbowych oraz znaków identyfikacji osobistej funkcjonariuszy,
 - **8)** przypadki, w których funkcjonariusz może zostać zwolniony z obowiązku wykonywania obowiązków służbowych w umundurowaniu,
-- **9)** wartość punktu przeliczeniowego uwzględniając we wzorach umundurowania wizerunek orła białego ustalony dla godła państwowego oraz biorąc pod uwagę zastosowanie określonego rodzaju umundurowania funkcjonariusza do realizowanych przez niego zadań. ” ;
+- **9)** wartość punktu przeliczeniowego – uwzględniając we wzorach umundurowania wizerunek orła białego ustalony dla godła państwowego oraz biorąc pod uwagę zastosowanie określonego rodzaju umundurowania funkcjonariusza do realizowanych przez niego zadań. ” ;
 - **42)** w art. 152 ust. 1 i 2 otrzymują brzmienie: „
 
 1. W przypadku urlopów, o których mowa w art. 138 ust. 1, 4 i 6, art. 139 i art. 141 ust. 1 pkt 2, funkcjonariusz otrzymuje uposażenie i inne świadczenia pieniężne należne na zajmowanym stanowisku służbowym.
@@ -524,8 +531,10 @@ source: "eli-html"
 - **1)** z urlopu wychowawczego, urlopu macierzyńskiego, dodatkowego urlopu macierzyńskiego, urlopu ojcowskiego, urlopu na warunkach urlopu macierzyńskiego, dodatkowego urlopu na warunkach urlopu macierzyńskiego, urlopu rodzicielskiego;
 - **2)** ze zwolnienia od wykonywania zajęć służbowych z przyczyn, o których mowa w art. 185 § 2 lub art. 188 Kodeksu pracy;
 - **3)** ze zwolnienia od wykonywania zajęć służbowych w razie urodzenia się dziecka, zgodnie z przepisami wydanymi na podstawie art. 2982 Kodeksu pracy;
-- **4)** ze zwolnienia od wykonywania zajęć służbowych z powodu konieczności osobistego sprawowania opieki nad dzieckiem, o którym mowa w art. 33 ust. 1 pkt 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa. ” , w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) korzystania przez funkcjonariusza z urlopu bezpłatnego; ” , – uchyla się pkt 2, po ust. 3 dodaje się ust. 3a w brzmieniu: „
+- **4)** ze zwolnienia od wykonywania zajęć służbowych z powodu konieczności osobistego sprawowania opieki nad dzieckiem, o którym mowa w art. 33 ust. 1 pkt 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa. ” , w ust. 3: pkt 1 otrzymuje brzmienie: „
     - **c)**
+
+- **1)** korzystania przez funkcjonariusza z urlopu bezpłatnego; ” , – uchyla się pkt 2, po ust. 3 dodaje się ust. 3a w brzmieniu: „
     - **d)**
 
 3a. Do uposażenia, o którym mowa w ust. 1, nie wlicza się uposażenia otrzymanego w okresie zawieszenia funkcjonariusza w pełnieniu obowiązków służbowych w przypadkach, o których mowa w art. 103, chyba że:
@@ -561,7 +570,7 @@ source: "eli-html"
 - **2)** ekwiwalentu za przysługujący do dnia wygaśnięcia stosunku służbowego urlop wypoczynkowy, nie więcej niż za ostatnie 3 lata,
 - **3)** uposażenia za przedłużony czas służby, o którym mowa w art. 112 ust. 9,
 - **4)** nagrody jubileuszowej, o której mowa w art. 154,
-- **5)** nagrody rocznej, o której mowa w art. 155 o ile nie zostały wypłacone funkcjonariuszowi.
+- **5)** nagrody rocznej, o której mowa w art. 155 – o ile nie zostały wypłacone funkcjonariuszowi.
 
 6. Wysokość odprawy pośmiertnej ustala się zgodnie z zasadami określonymi w art. 163 ust. 1–3.
 
@@ -586,23 +595,26 @@ source: "eli-html"
 
 1. W przypadku wydania decyzji o przeniesieniu, powierzeniu pełnienia obowiązków służbowych na innym stanowisku, przeniesieniu na niższe stanowisko, przeniesieniu na inne lub równorzędne stanowisko służbowe w związku z reorganizacją jednostki organizacyjnej, określeniu warunków pełnienia służby w związku ze zniesieniem jednostki organizacyjnej bądź zawieszeniu w pełnieniu obowiązków służbowych, funkcjonariusz może, w terminie 14 dni od dnia doręczenia decyzji, złożyć wniosek o ponowne rozpatrzenie sprawy. ” .
 
-**Art. 2.** W ustawie z dnia 21 czerwca 1996 r. o urzędach i izbach skarbowych (Dz. U. z 2004 r. Nr 121, poz. 1267, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 21 czerwca 1996 r. o urzędach i izbach skarbowych (Dz. U. z 2004 r. Nr 121, poz. 1267, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 183, poz. 1538 i Nr 249, poz. 2104, z 2009 r. Nr 157, poz. 1241 oraz z 2010 r. Nr 127, poz. 858.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5: ust. 1c otrzymuje brzmienie: „
     - **a)**
 
-1c. Minister właściwy do spraw finansów publicznych sprawuje kontrolę prawidłowości wykonywania zadań należących do zakresu działania dyrektorów izb skarbowych i naczelników urzędów skarbowych oraz kontrolę urzędów obsługujących te organy, a także kontrolę przestrzegania zasad etyki zawodowej oraz bezstronności i obiektywizmu działania pracowników izb skarbowych. ” , uchyla się ust. 1d, uchyla się ust. 3, w ust. 6: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do zadań naczelników urzędów skarbowych należy: ” , – po pkt 7a dodaje się pkt 7b i 7c w brzmieniu: „ 7b) dysponowanie środkami pieniężnymi zgromadzonymi na rachunkach bankowych urzędu obsługującego naczelnika urzędu skarbowego; 7c) wspieranie podatników w prawidłowym wypełnianiu przez nich obowiązków podatkowych; ” , w ust. 6a wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do zadań urzędów skarbowych należy: ” , po ust. 6a dodaje się ust. 6b w brzmieniu: „
+1c. Minister właściwy do spraw finansów publicznych sprawuje kontrolę prawidłowości wykonywania zadań należących do zakresu działania dyrektorów izb skarbowych i naczelników urzędów skarbowych oraz kontrolę urzędów obsługujących te organy, a także kontrolę przestrzegania zasad etyki zawodowej oraz bezstronności i obiektywizmu działania pracowników izb skarbowych. ” , uchyla się ust. 1d, uchyla się ust. 3, w ust. 6: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do zadań naczelników urzędów skarbowych należy: ” , po pkt 7a dodaje się pkt 7b i 7c w brzmieniu: „
 
 - **b)**
 - **c)**
 - **d)**
-- **e)**
-- **f)**
+- **7b)** dysponowanie środkami pieniężnymi zgromadzonymi na rachunkach bankowych urzędu obsługującego naczelnika urzędu skarbowego;
+- **7c)** wspieranie podatników w prawidłowym wypełnianiu przez nich obowiązków podatkowych; ” , w ust. 6a wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do zadań urzędów skarbowych należy: ” , po ust. 6a dodaje się ust. 6b w brzmieniu: „
+    - **e)**
+    - **f)**
 
-6b. Kontrolę, o której mowa w ust. 6 pkt 3, przeprowadza się na podstawie analizy ryzyka rozumianego jako prawdopodobieństwo wystąpienia naruszenia przepisów prawa. Kontrole mogą być również przeprowadzane niezależnie od rezultatów analizy ryzyka, o ile mają one charakter losowy. ” , w ust. 7: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do zadań dyrektorów izb skarbowych należy: ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) zarządzanie ryzykiem zewnętrznym, w tym identyfikowanie obszarów zagrożeń mogących mieć wpływ na prawidłowość wypełniania obowiązków podatkowych; ” , po ust. 7 dodaje się ust. 7a-7c w brzmieniu: „
+6b. Kontrolę, o której mowa w ust. 6 pkt 3, przeprowadza się na podstawie analizy ryzyka rozumianego jako prawdopodobieństwo wystąpienia naruszenia przepisów prawa. Kontrole mogą być również przeprowadzane niezależnie od rezultatów analizy ryzyka, o ile mają one charakter losowy. ” , w ust. 7: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do zadań dyrektorów izb skarbowych należy: ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
 
 - **g)**
-- **h)**
+- **1a)** zarządzanie ryzykiem zewnętrznym, w tym identyfikowanie obszarów zagrożeń mogących mieć wpływ na prawidłowość wypełniania obowiązków podatkowych; ” , po ust. 7 dodaje się ust. 7a-7c w brzmieniu: „
+    - **h)**
 
 7a. Naczelnik urzędu skarbowego wykonuje zadania przy pomocy urzędu skarbowego, a dyrektor izby skarbowej przy pomocy izby skarbowej.
 
@@ -652,7 +664,7 @@ source: "eli-html"
 
 - **3)** wpłacić pobrany podatek na rachunek urzędu skarbowego, przy pomocy którego naczelnik urzędu skarbowego właściwy ze względu na siedzibę płatnika wykonuje swoje zadania, w terminie do 7 dnia miesiąca następującego po miesiącu, w którym pobrano podatek, a także przekazać w tym terminie deklarację o wysokości pobranego i wpłaconego przez płatnika podatku, sporządzoną według ustalonego wzoru, wraz z informacją o kwocie podatku należnego poszczególnym gminom; ” .
 
-**Art. 6.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863 oraz z 2015 r. poz. 73.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5a pkt 8 otrzymuje brzmienie: „
 - **8)** urzędzie skarbowym – oznacza to urząd skarbowy, przy pomocy którego odpowiednio właściwy dla podatnika lub płatnika naczelnik urzędu skarbowego wykonuje swoje zadania; ” ;
@@ -738,11 +750,11 @@ source: "eli-html"
 
 - **b)**
 
-5. Podatnicy prowadzący księgi rachunkowe obowiązani do sporządzenia sprawozdania finansowego przekazują do urzędu skarbowego sprawozdanie finansowe w terminie złożenia zeznania. ” . W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2011 r. Nr 41, poz. 214, z późn. zm.) w art. 25 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+5. Podatnicy prowadzący księgi rachunkowe obowiązani do sporządzenia sprawozdania finansowego przekazują do urzędu skarbowego sprawozdanie finansowe w terminie złożenia zeznania. ” . W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2011 r. Nr 41, poz. 214, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 53, poz. 273 i Nr 230, poz. 1371, z 2012 r. poz. 362 i 1544, z 2013 r. poz. 628 i 1145 oraz z 2014 r. poz. 915, 1055 i 1822.) w art. 25 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
 1a. W przypadku decyzji, o której mowa w art. 24 ust. 1 pkt 1 lit. a, w zakresie podatku akcyzowego lub podatku od wydobycia niektórych kopalin, wierzycielem obowiązków wynikających z tej decyzji jest właściwy dyrektor izby celnej. ” .
 
-**Art. 8.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662 oraz z 2015 r. poz. 73.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4a pkt 6 otrzymuje brzmienie: „
 - **6)** urzędzie skarbowym – oznacza to urząd skarbowy, przy pomocy którego właściwy dla podatnika naczelnik urzędu skarbowego wykonuje swoje zadania; ” ;
@@ -758,13 +770,13 @@ source: "eli-html"
 
 1. W terminie do końca pierwszego miesiąca roku następującego po roku podatkowym, w którym powstał obowiązek zapłaty podatku, płatnicy, o których mowa w art. 26, i podatnicy, o których mowa w art. 22 ust. 4b, art. 25a oraz art. 26 ust. 1b i 4, są obowiązani przesłać do urzędu skarbowego, przy pomocy którego naczelnik urzędu skarbowego właściwy według siedziby podatnika wykonuje swoje zadania, a w przypadku podatników wymienionych w art. 3 ust. 2, do urzędu skarbowego, przy pomocy którego naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych wykonuje swoje zadania, roczne deklaracje sporządzone według ustalonego wzoru. ” .
 
-**Art. 9.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm.) w art. 37o w ust. 1 część wspólna otrzymuje brzmienie: „ – na wyodrębniony rachunek bankowy izby celnej właściwej dla dokonywania wpłat kwot z tytułu zapłaty podatku akcyzowego. ” .
+**Art. 9.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2013 r. poz. 433, 843, 1543 i 1646 oraz z 2014 r. poz. 805, 1310 i 1559.) w art. 37o w ust. 1 część wspólna otrzymuje brzmienie: „ – na wyodrębniony rachunek bankowy izby celnej właściwej dla dokonywania wpłat kwot z tytułu zapłaty podatku akcyzowego. ” .
 
-**Art. 10.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) w art. 140ad w ust. 2 pkt 2 otrzymuje brzmienie: „
+**Art. 10.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312, 486, 529, 768, 822 i 970.) w art. 140ad w ust. 2 pkt 2 otrzymuje brzmienie: „
 
 - **2)** w terminie późniejszym – w formie przelewu na wyodrębniony rachunek bankowy organu prowadzącego postępowanie administracyjne w sprawie o nałożenie kary, a w przypadku poboru kaucji przez organy celne – na wyodrębniony rachunek bankowy izby celnej określonej w przepisach odrębnych, przy czym koszty przelewów ponosi obowiązany podmiot. ” .
 
-**Art. 11.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 11.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289 oraz z 2014 r. poz. 183, 567, 915, 1171, 1215, 1328 i 1644.) wprowadza się następujące zmiany:
 
 - **1)** w art. 130 w § 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Pracownik urzędu gminy (miasta), starostwa, urzędu marszałkowskiego, izby skarbowej, funkcjonariusz celny lub pracownik urzędu celnego, izby celnej, urzędu obsługującego ministra właściwego do spraw finansów publicznych oraz członek samorządowego kolegium odwoławczego podlegają wyłączeniu od udziału w postępowaniu w sprawach dotyczących zobowiązań podatkowych oraz innych spraw normowanych przepisami prawa podatkowego, w których: ” ;
 - **2)** w art. 143 w § 2 pkt 1 i 2 otrzymują brzmienie: „
@@ -779,7 +791,7 @@ source: "eli-html"
 
 § 3. Minister właściwy do spraw finansów publicznych może upoważnić pracowników izb skarbowych i urzędów kontroli skarbowej do bezpośredniej wymiany informacji w związku z realizowaniem zadań z zakresu planowanych lub trwających jednoczesnych kontroli oraz do uczestnictwa w spotkaniach organizacyjnych dotyczących tych kontroli. ” .
 
-**Art. 12.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 12.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324, z 2001 r. Nr 74, poz. 784, Nr 88, poz. 961, Nr 125, poz. 1363 i 1369 i Nr 134, poz. 1509, z 2002 r. Nr 141, poz. 1183, Nr 169, poz. 1384, Nr 172, poz. 1412 i Nr 200, poz. 1679, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 135, poz. 1268, Nr 137, poz. 1302 i Nr 202, poz. 1958, z 2004 r. Nr 210, poz. 2135 i Nr 263, poz. 2619, z 2005 r. Nr 143, poz. 1199, Nr 164, poz. 1366 i Nr 169, poz. 1420, z 2006 r. Nr 183, poz. 1353 i Nr 217, poz. 1588, z 2008 r. Nr 141, poz. 888, Nr 143, poz. 894 i Nr 209, poz. 1316, z 2009 r. Nr 157, poz. 1241 i Nr 201, poz. 1541, z 2010 r. Nr 3, poz. 13, Nr 28, poz. 146, Nr 75, poz. 473, Nr 219, poz. 1442 i Nr 226, poz. 1478, z 2011 r. Nr 106, poz. 622 i Nr 131, poz. 764, z 2012 r. poz. 1529 i 1540 oraz z 2014 r. poz. 223, 1328 i 1563.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 w ust. 1 pkt 13 otrzymuje brzmienie: „
 - **13)** urząd skarbowy – urząd skarbowy, przy pomocy którego właściwy dla podatnika naczelnik urzędu skarbowego wykonuje swoje zadania. ” ;
@@ -797,21 +809,21 @@ source: "eli-html"
 
 4. Do dnia 31 stycznia roku następującego po roku podatkowym osoba duchowna jest obowiązana złożyć w urzędzie skarbowym, przy pomocy którego naczelnik urzędu skarbowego właściwy według miejsca wykonywania funkcji o charakterze duszpasterskim wykonuje swoje zadania, roczną deklarację, według ustalonego wzoru, o wysokości składki na ubezpieczenie zdrowotne, o którym mowa w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zapłaconej i odliczonej od ryczałtu w poszczególnych kwartałach. ” .
 
-**Art. 13.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2014 r. poz. 669, z późn. zm.) po art. 18 dodaje się art. 18a w brzmieniu: „
+**Art. 13.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2014 r. poz. 669, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1146, 1662 i 1722.) po art. 18 dodaje się art. 18a w brzmieniu: „
 
 **Art. 18a.** Kontrole należące do zakresu działania właściwych organów Inspekcji wykonuje również Służba Celna w zakresie określonym w przepisach odrębnych. ” .
 
-**Art. 14.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm.) w art. 94 w ust. 4 pkt 2 otrzymuje brzmienie: „
+**Art. 14.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805, 915 i 1310.) w art. 94 w ust. 4 pkt 2 otrzymuje brzmienie: „
 
 - **2)** przelewu na wyodrębniony rachunek bankowy organu prowadzącego postępowanie administracyjne w sprawie o nałożenie kary, a w przypadku poboru kaucji przez organy celne – na wyodrębniony rachunek bankowy izby celnej określonej w przepisach odrębnych, przy czym koszty przelewów ponosi zobowiązany podmiot. ” .
 
-**Art. 15.** W ustawie z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2014 r. poz. 621, z późn. zm.) w art. 102 dodaje się ust. 3 w brzmieniu: „ 3. Kontrole należące do zakresu działania właściwych organów Inspekcji wykonuje również Służba Celna w zakresie określonym w przepisach odrębnych. ” .
+**Art. 15.** W ustawie z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2014 r. poz. 621, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 822, 907 i 1662.) w art. 102 dodaje się ust. 3 w brzmieniu: „ 3. Kontrole należące do zakresu działania właściwych organów Inspekcji wykonuje również Służba Celna w zakresie określonym w przepisach odrębnych. ” .
 
 **Art. 16.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2010 r. Nr 112, poz. 744, z 2011 r. Nr 54, poz. 278 oraz z 2014 r. poz. 29) w art. 3 po ust. 6 dodaje się ust. 6a w brzmieniu: „ 6a. Kontrole należące do zakresu działania właściwych organów Inspekcji Weterynaryjnej wykonuje również Służba Celna w zakresie określonym w przepisach odrębnych. ” .
 
-**Art. 17.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.) w art. 2 pkt 13 otrzymuje brzmienie: „
+**Art. 17.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35, 1027 i 1608 oraz z 2014 r. poz. 312, 1171 i 1662.) w art. 2 pkt 13 otrzymuje brzmienie: „
 
-- **13)** urzędzie skarbowym – rozumie się przez to urząd skarbowy, przy pomocy którego właściwy dla podatnika naczelnik urzędu skarbowego wykonuje swoje zadania; ” . W ustawie z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2013 r. poz. 727, z późn. zm.) wprowadza się następujące zmiany:
+- **13)** urzędzie skarbowym – rozumie się przez to urząd skarbowy, przy pomocy którego właściwy dla podatnika naczelnik urzędu skarbowego wykonuje swoje zadania; ” . W ustawie z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2013 r. poz. 727, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1149 oraz z 2014 r. poz. 768 i 1662.) wprowadza się następujące zmiany:
 - **1)** w art. 57 dodaje się ust. 3 w brzmieniu: „
 
 3. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw łączności i po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, może określić, w drodze rozporządzenia, wzór formularza wpłaty gotówkowej oraz polecenia przelewu na rachunek organu celnego, uwzględniając dane identyfikujące wpłacającego oraz tytuł wpłaty. ” ;
@@ -832,7 +844,7 @@ source: "eli-html"
 
 **Art. 19.** W ustawie z dnia 24 sierpnia 2006 r. o podatku tonażowym (Dz. U. z 2014 r. poz. 511) w art. 12 ust. 1 otrzymuje brzmienie: „ 1. Przedsiębiorcy żeglugowi są obowiązani za każdy miesiąc roku podatkowego obliczać podatek tonażowy w sposób określony w art. 5 ust. 4 i wpłacać bez wezwania do urzędu skarbowego, przy pomocy którego naczelnik urzędu skarbowego właściwy w sprawach podatku tonażowego wykonuje swoje zadania, w terminie do 20 dnia każdego miesiąca za miesiąc poprzedni, a za grudzień – w terminie złożenia zeznania. ” .
 
-**Art. 20.** W ustawie z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. Nr 147, poz. 1033, z późn. zm.) w art. 37 w ust. 3 pkt 1 otrzymuje brzmienie: „
+**Art. 20.** W ustawie z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. Nr 147, poz. 1033, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 106, poz. 622 i Nr 171, poz. 1016 oraz z 2014 r. poz. 29 i 915.) w art. 37 w ust. 3 pkt 1 otrzymuje brzmienie: „
 
 - **1)** opłatę sankcyjną, o której mowa w ust. 1, wnosi się na rachunek urzędu skarbowego, przy pomocy którego Naczelnik Drugiego Urzędu Skarbowego Warszawa-Śródmieście wykonuje swoje zadania; ” .
 
@@ -852,7 +864,7 @@ source: "eli-html"
 
 1d. Koszty świadczeń związanych z przeniesieniami urzędników służby cywilnej przenoszonych w tym samym urzędzie do innej miejscowości, o których mowa w ust. 1b, finansowane są ze środków będących w dyspozycji dyrektora generalnego urzędu. ” .
 
-**Art. 22.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2014 r. poz. 752, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 22.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2014 r. poz. 752, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1559, 1662 i 1877 oraz z 2015 r. poz. 18.) wprowadza się następujące zmiany:
 
 - **1)** w art. 14: ust. 9 otrzymuje brzmienie: „
     - **a)**
@@ -868,7 +880,7 @@ source: "eli-html"
 11. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
 - **1)** wykaz urzędów celnych i izb celnych, których odpowiednio naczelnicy i dyrektorzy są właściwi do wykonywania zadań w zakresie akcyzy na terytorium kraju, oraz terytorialny zasięg ich działania, uwzględniając liczbę podatników prowadzących działalność na danym obszarze,
-- **2)** właściwą izbę celną lub właściwe izby celne, na których rachunek bankowy dokonuje się wpłaty kwot z tytułu zapłaty akcyzy, przedpłat akcyzy i wpłat dziennych oraz z których rachunku bankowego dokonuje się wypłaty kwot z tytułu zwrotu akcyzy, a także określi terytorialny zasięg ich działania w tym zakresie uwzględniając potrzebę zapewnienia sprawnego poboru i zwrotu akcyzy. ” ;
+- **2)** właściwą izbę celną lub właściwe izby celne, na których rachunek bankowy dokonuje się wpłaty kwot z tytułu zapłaty akcyzy, przedpłat akcyzy i wpłat dziennych oraz z których rachunku bankowego dokonuje się wypłaty kwot z tytułu zwrotu akcyzy, a także określi terytorialny zasięg ich działania w tym zakresie – uwzględniając potrzebę zapewnienia sprawnego poboru i zwrotu akcyzy. ” ;
 - **2)** w art. 15: po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
 
@@ -877,13 +889,13 @@ source: "eli-html"
 - **1)** kwoty stanowiącej wartość podatkowych znaków akcyzy,
 - **2)** kwoty na pokrycie kosztów wytworzenia znaków akcyzy,
 - **3)** należności za legalizacyjne znaki akcyzy,
-- **4)** należności za legalizacyjne znaki akcyzy pomniejszonych o koszty ich wytworzenia na wniosek organu podatkowego, który odpowiednio wydał decyzję o odmowie wydania lub sprzedaży znaków akcyzy lub wydał upoważnienie do odbioru znaków akcyzy w razie wystąpienia strat lub zwrotu tych znaków akcyzy. ” , ust. 3 otrzymuje brzmienie: „
+- **4)** należności za legalizacyjne znaki akcyzy pomniejszonych o koszty ich wytworzenia – na wniosek organu podatkowego, który odpowiednio wydał decyzję o odmowie wydania lub sprzedaży znaków akcyzy lub wydał upoważnienie do odbioru znaków akcyzy w razie wystąpienia strat lub zwrotu tych znaków akcyzy. ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
 - **1)** wykaz urzędów celnych i izb celnych, których odpowiednio naczelnicy i dyrektorzy są właściwi w zakresie spraw dotyczących znaków akcyzy, a także terytorialny zasięg ich działania, uwzględniając terytorialne rozmieszczenie podmiotów obowiązanych do oznaczania wyrobów akcyzowych znakami akcyzy;
-- **2)** właściwą izbę celną lub właściwe izby celne, na których rachunek bankowy lub z których rachunku bankowego dokonuje się odpowiednio: wpłaty – kwoty stanowiącej wartość podatkowych znaków akcyzy, – kwoty na pokrycie kosztów wytworzenia znaków akcyzy, – należności za legalizacyjne znaki akcyzy, wypłaty z tytułu zwrotu kwot lub należności, o których mowa w lit. a, oraz należności, o których mowa w ust. 1a pkt 4 a także określi terytorialny zasięg ich działania w tym zakresie, uwzględniając potrzebę zapewnienia sprawnego rozliczania kwot stanowiących wartość podatkowych znaków akcyzy, kwot na pokrycie kosztów wytworzenia znaków akcyzy i należności za legalizacyjne znaki akcyzy. ” ;
+- **2)** właściwą izbę celną lub właściwe izby celne, na których rachunek bankowy lub z których rachunku bankowego dokonuje się odpowiednio: wpłaty – kwoty stanowiącej wartość podatkowych znaków akcyzy, – kwoty na pokrycie kosztów wytworzenia znaków akcyzy, – należności za legalizacyjne znaki akcyzy, wypłaty z tytułu zwrotu kwot lub należności, o których mowa w lit. a, oraz należności, o których mowa w ust. 1a pkt 4 – a także określi terytorialny zasięg ich działania w tym zakresie, uwzględniając potrzebę zapewnienia sprawnego rozliczania kwot stanowiących wartość podatkowych znaków akcyzy, kwot na pokrycie kosztów wytworzenia znaków akcyzy i należności za legalizacyjne znaki akcyzy. ” ;
     - **a)**
     - **b)**
 
@@ -895,15 +907,15 @@ source: "eli-html"
 
 5. Organami podatkowymi właściwymi do orzekania w sprawie zwrotu akcyzy w przypadku dostawy wewnątrzwspólnotowej albo eksportu samochodu osobowego, od którego akcyza została zapłacona na terytorium kraju, są naczelnik urzędu celnego, któremu została złożona deklaracja podatkowa dla tej akcyzy lub zgłoszenie celne, w którym została obliczona i wykazana kwota tej akcyzy, lub który wydał decyzję określającą wysokość tej akcyzy, z tytułu ostatniej czynności podlegającej opodatkowaniu, której przedmiotem był ten samochód osobowy, i właściwy dla tego naczelnika w zakresie akcyzy dyrektor izby celnej. ” .
 
-**Art. 23.** W ustawie z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. Nr 201, poz. 1540, z późn. zm.) w art. 77 ust. 5 otrzymuje brzmienie: „ 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+**Art. 23.** W ustawie z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. Nr 201, poz. 1540, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 857, z 2011 r. Nr 106, poz. 622 i Nr 134, poz. 779, z 2013 r. poz. 1036 oraz z 2014 r. poz. 768 i 1717.) w art. 77 ust. 5 otrzymuje brzmienie: „ 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
 - **1)** wykaz urzędów celnych i izb celnych, których odpowiednio naczelnicy i dyrektorzy są właściwi do wykonywania zadań w zakresie podatku od gier, oraz terytorialny zasięg ich działania, uwzględniając liczbę podatników prowadzących działalność na danym obszarze,
-- **2)** właściwą izbę celną lub właściwe izby celne, na których rachunek bankowy dokonuje się zapłaty podatku od gier, wpłat dziennych, dopłat i kar pieniężnych lub wpłaty niektórych opłat, o których mowa w art. 68 ust. 1, a także określi terytorialny zasięg ich działania w tym zakresie uwzględniając potrzebę zapewnienia sprawnego poboru podatku od gier, wpłat dziennych, dopłat i kar pieniężnych oraz opłat. ” .
+- **2)** właściwą izbę celną lub właściwe izby celne, na których rachunek bankowy dokonuje się zapłaty podatku od gier, wpłat dziennych, dopłat i kar pieniężnych lub wpłaty niektórych opłat, o których mowa w art. 68 ust. 1, a także określi terytorialny zasięg ich działania w tym zakresie – uwzględniając potrzebę zapewnienia sprawnego poboru podatku od gier, wpłat dziennych, dopłat i kar pieniężnych oraz opłat. ” .
 
 **Art. 24.** W ustawie z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin (Dz. U. poz. 362 oraz z 2014 r. poz. 1215) w art. 11 ust. 3 otrzymuje brzmienie: „ 3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
 - **1)** urzędy celne lub urząd celny i izby celne lub izbę celną, których odpowiednio naczelnicy i dyrektorzy są właściwi w zakresie podatku, a także terytorialny zasięg ich działania, uwzględniając gospodarcze potrzeby podatników,
-- **2)** właściwą izbę celną lub właściwe izby celne, na których rachunek bankowy dokonuje się zapłaty podatku, oraz określi terytorialny zasięg ich działania w tym zakresie uwzględniając potrzebę zapewnienia sprawnego poboru podatku. ” .
+- **2)** właściwą izbę celną lub właściwe izby celne, na których rachunek bankowy dokonuje się zapłaty podatku, oraz określi terytorialny zasięg ich działania w tym zakresie – uwzględniając potrzebę zapewnienia sprawnego poboru podatku. ” .
 
 **Art. 25.** W ustawie z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. poz. 1289) w art. 95 ust. 3 otrzymuje brzmienie: „ 3. Zaktualizowany tytuł wykonawczy powinien zawierać imię i nazwisko oraz określenie stanowiska służbowego pracownika obsługującego organ egzekucyjny. ” .
 
@@ -974,5 +986,5 @@ source: "eli-html"
 
 **Art. 43.** Minister właściwy do spraw finansów publicznych, po upływie 12 miesięcy od dnia wejścia w życie niniejszej ustawy, przedstawi Sejmowi ocenę rozwiązań dotyczących zasad ustalania wysokości uposażenia funkcjonariusza celnego należnego w okresie przebywania na zwolnieniu lekarskim.
 
-**Art. 44.** Ustawa wchodzi w życie z dniem 1 kwietnia 2015 r., z wyjątkiem art. 1 pkt 27, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 44.** Ustawa wchodzi w życie z dniem 1 kwietnia 2015 r., z wyjątkiem art. 1 pkt 27, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 28 lipca 1983 r. o podatku od spadków i darowizn, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 28 września 1991 r. o kontroli skarbowej, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 18 grudnia 2003 r. o ochronie roślin, ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 19 marca 2004 r. – Prawo celne, ustawę z dnia 24 sierpnia 2006 r. o podatku tonażowym, ustawę z dnia 10 lipca 2007 r. o nawozach i nawożeniu, ustawę z dnia 21 listopada 2008 r. o służbie cywilnej, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 19 listopada 2009 r. o grach hazardowych, ustawę z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin oraz ustawę z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 1055, 1215, 1395 i 1662. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 183, poz. 1538 i Nr 249, poz. 2104, z 2009 r. Nr 157, poz. 1241 oraz z 2010 r. Nr 127, poz. 858. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863 oraz z 2015 r. poz. 73. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 53, poz. 273 i Nr 230, poz. 1371, z 2012 r. poz. 362 i 1544, z 2013 r. poz. 628 i 1145 oraz z 2014 r. poz. 915, 1055 i 1822. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662 oraz z 2015 r. poz. 73. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2013 r. poz. 433, 843, 1543 i 1646 oraz z 2014 r. poz. 805, 1310 i 1559. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312, 486, 529, 768, 822 i 970. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289 oraz z 2014 r. poz. 183, 567, 915, 1171, 1215, 1328 i 1644. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324, z 2001 r. Nr 74, poz. 784, Nr 88, poz. 961, Nr 125, poz. 1363 i 1369 i Nr 134, poz. 1509, z 2002 r. Nr 141, poz. 1183, Nr 169, poz. 1384, Nr 172, poz. 1412 i Nr 200, poz. 1679, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 135, poz. 1268, Nr 137, poz. 1302 i Nr 202, poz. 1958, z 2004 r. Nr 210, poz. 2135 i Nr 263, poz. 2619, z 2005 r. Nr 143, poz. 1199, Nr 164, poz. 1366 i Nr 169, poz. 1420, z 2006 r. Nr 183, poz. 1353 i Nr 217, poz. 1588, z 2008 r. Nr 141, poz. 888, Nr 143, poz. 894 i Nr 209, poz. 1316, z 2009 r. Nr 157, poz. 1241 i Nr 201, poz. 1541, z 2010 r. Nr 3, poz. 13, Nr 28, poz. 146, Nr 75, poz. 473, Nr 219, poz. 1442 i Nr 226, poz. 1478, z 2011 r. Nr 106, poz. 622 i Nr 131, poz. 764, z 2012 r. poz. 1529 i 1540 oraz z 2014 r. poz. 223, 1328 i 1563. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1146, 1662 i 1722. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805, 915 i 1310. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 822, 907 i 1662. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35, 1027 i 1608 oraz z 2014 r. poz. 312, 1171 i 1662. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1149 oraz z 2014 r. poz. 768 i 1662. 16) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 106, poz. 622 i Nr 171, poz. 1016 oraz z 2014 r. poz. 29 i 915. 17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1559, 1662 i 1877 oraz z 2015 r. poz. 18. 18) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 857, z 2011 r. Nr 106, poz. 622 i Nr 134, poz. 779, z 2013 r. poz. 1036 oraz z 2014 r. poz. 768 i 1717.
 

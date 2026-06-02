@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Sportu i Turystykiz dnia 27 listopada 2024 r. w sprawie przekazywania środków z Funduszu Rozwoju Kultury Fizycznej
+# Rozporządzenie Ministra Sportu i Turystykiz dnia 27 listopada 2024 r. w sprawie przekazywania środków z Funduszu Rozwoju Kultury Fizycznej Minister Sportu i Turystyki kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2722).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-27 |
 | Data wydania | 2024-11-29 |
-| Wejście w życie | 2024-11-30 |
 | Ostatnia zmiana | 2025-11-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001753) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1753/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Dofinansowanie realizacji zadań inwestycyjnych Rozdział 3 – Dofinansowanie realizacji zadań z zakresu rozwijania sportu i aktywności fizycznej Rozdział 4 – Dofinansowanie realizacji zadań z zakresu rozwoju turystyki Rozdział 5 – Umowa, płatności i rozliczenie Rozdział 6 – Przepisy epizodyczne, przejściowe i przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 86 ust. 6 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2023 r. poz. 227 oraz z 2024 r. poz. 1473) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -65,6 +65,7 @@ zadanie z zakresu rozwijania sportu i aktywności fizycznej – zadanie z zakres
 zadanie z zakresu rozwoju turystyki – zadanie z zakresu rozwoju turystyki społecznej sprzyjającej aktywności fizycznej społeczeństwa oraz polegające na zapobieganiu skutkom klęski żywiołowej lub ich usunięciu w rozumieniu przepisów ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej – w turystyce.
 § 3.
 Środki Funduszu przeznacza się na dofinansowanie realizacji zadań, o których mowa w § 1 pkt 1, w formie dotacji.
+Dofinansowanie realizacji zadań inwestycyjnych
 § 4.
 1.
 Dofinansowanie realizacji zadania inwestycyjnego ze środków Funduszu może wynieść do 70 % wydatków kwalifikowanych tego zadania.
@@ -173,6 +174,7 @@ liczbę ludności w województwie;
 inne wskaźniki istotne dla racjonalnego rozwoju regionalnej infrastruktury sportowej określone w programie inwestycyjnym, o którym mowa w ust. 1.
 4.
 Do programu inwestycyjnego, o którym mowa w ust. 1, stosuje się przepisy § 6 oraz § 7.
+Dofinansowanie realizacji zadań z zakresu rozwijania sportu i aktywności fizycznej
 § 9.
 W celu dofinansowania realizacji zadań z zakresu rozwijania sportu i aktywności fizycznej ze środków Funduszu minister ogłasza programy z zakresu rozwijania sportu i aktywności fizycznej.
 § 10.
@@ -241,6 +243,7 @@ regulamin lub inne niezbędne informacje związane ze specyfiką planowanego zad
 zaświadczenie lub informację sporządzoną na podstawie ewidencji właściwej dla formy organizacyjnej wnioskodawcy wraz z oświadczeniem potwierdzającym zgodność i aktualność danych na dzień składania wniosku, o którym mowa w ust. 1;
 4)
 statut, umowę lub akt założycielski dotyczący prowadzenia działalności przez wnioskodawcę; inne dokumenty związane z realizacją zadania z zakresu rozwijania sportu i aktywności fizycznej wskazane we właściwym programie z zakresu rozwijania sportu i aktywności fizycznej.
+Dofinansowanie realizacji zadań z zakresu rozwoju turystyki
 § 12.
 1.
 W celu dofinansowania realizacji zadań z zakresu rozwoju turystyki ze środków Funduszu minister ogłasza programy:
@@ -260,6 +263,7 @@ do 80 % wydatków kwalifikowanych w przypadku realizacji zadania dotyczącego sc
 do 99 % wydatków kwalifikowanych w przypadku realizacji zadania w zakresie zapobiegania skutkom klęski żywiołowej lub ich usunięcia w rozumieniu przepisów ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej – w turystyce.
 5.
 Do realizacji zadania z zakresu rozwoju turystyki w zakresie programów, o których mowa w ust. 1 pkt 2, stosuje się odpowiednio postanowienia rozdziału 3.
+Umowa, płatności i rozliczenie
 § 13.
 1.
 Wniosek o dofinansowanie realizacji zadań, o których mowa w § 1 pkt 1, zaakceptowany przez ministra, stanowi podstawę do zawarcia umowy o dofinansowanie z wnioskodawcą.
@@ -290,7 +294,7 @@ w przypadku podmiotu, który uzyskał dofinansowanie realizacji zadania inwestyc
 a)
 wykonywania robót budowlanych, o których mowa w art. 3 pkt 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2024 r. poz. 725, 834 i 1222), lub innych zmian w obiektach sportowych lub turystycznych, wraz z usługami towarzyszącymi, w tym obsługą inwestorską,
 b)
-zakupu, transportu i montażu lub wytworzenia we własnym zakresie środków trwałych, z wyjątkiem tych, których wartość początkowa nie przekracza kwoty, o której mowa w art. 16f ust. 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805, z późn. zm.),
+zakupu, transportu i montażu lub wytworzenia we własnym zakresie środków trwałych, z wyjątkiem tych, których wartość początkowa nie przekracza kwoty, o której mowa w art. 16f ust. 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 1222, 1572, 1585, 1593, 1685 i 1717.),
 c)
 przygotowania do realizacji zadania inwestycyjnego w zakresie, o którym mowa w lit. a i b, w szczególności kosztów opracowania dokumentacji projektowej, przygotowania gruntu pod budowę, ekspertyz, świadectw, operatów, studiów, pomiarów geodezyjnych i prac geologicznych oraz prac archeologicznych, niezbędnych do realizacji zadania inwestycyjnego lub zadania z zakresu rozwoju turystyki w zakresie realizacji programu, o którym mowa w § 12 ust. 1 pkt 1,
 d)
@@ -333,6 +337,7 @@ W przypadku stwierdzenia wykorzystania dofinansowania niezgodnie z przeznaczenie
 Dofinansowanie jest przekazywane na rachunek bankowy wnioskodawcy w wysokości i na warunkach wynikających z umowy o dofinansowanie.
 § 15.
 W przypadku zmniejszenia rzeczywistych przychodów Funduszu w stosunku do założonego planu minister może zmniejszyć przyznane dofinansowanie.
+Przepisy epizodyczne, przejściowe i przepis końcowy
 § 16.
 1.
 Przed przyznaniem dofinansowania realizacji zadania inwestycyjnego lub zadania z zakresu rozwoju turystyki, polegających na zapobieganiu lub usuwaniu skutków klęski żywiołowej w rozumieniu przepisów ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej, minister właściwy do spraw kultury fizycznej pisemnie przekazuje Ministrowi – Członkowi Rady Ministrów właściwemu do spraw odbudowy po powodzi we wrześniu 2024 r. listę wniosków złożonych w ramach programu, celem zasięgnięcia opinii.
@@ -348,18 +353,29 @@ Do postępowań o dofinansowanie realizacji zadań, o których mowa w § 1 pkt 1
 2.
 Do umów o dofinansowanie realizacji zadań, o których mowa w § 1 pkt 1, ze środków Funduszu zawartych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 18.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Sportu i Turystyki kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2722). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 1222, 1572, 1585, 1593, 1685 i 1717. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sportu i Turystyki z dnia 12 sierpnia 2019 r. w sprawie przekazywania środków z Funduszu Rozwoju Kultury Fizycznej (Dz. U. z 2024 r. poz. 1169 i 1253), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 73 ust. 1 ustawy z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473 i 1717).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sportu i Turystyki z dnia 12 sierpnia 2019 r. w sprawie przekazywania środków z Funduszu Rozwoju Kultury Fizycznej (Dz. U. z 2024 r. poz. 1169 i 1253), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 73 ust. 1 ustawy z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473 i 1717). 1) Minister Sportu i Turystyki kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2722). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 1222, 1572, 1585, 1593, 1685 i 1717. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sportu i Turystyki z dnia 12 sierpnia 2019 r. w sprawie przekazywania środków z Funduszu Rozwoju Kultury Fizycznej (Dz. U. z 2024 r. poz. 1169 i 1253), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 73 ust. 1 ustawy z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473 i 1717).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Dofinansowanie realizacji zadań inwestycyjnych
+#### Rozdział 2 – Dofinansowanie realizacji zadań inwestycyjnych
 
-#### Rozdział 3 Dofinansowanie realizacji zadań z zakresu rozwijania sportu i aktywności fizycznej
+#### Rozdział 3 – Dofinansowanie realizacji zadań z zakresu rozwijania sportu i aktywności fizycznej
 
-#### Rozdział 4 Dofinansowanie realizacji zadań z zakresu rozwoju turystyki
+#### Rozdział 4 – Dofinansowanie realizacji zadań z zakresu rozwoju turystyki
 
-#### Rozdział 5 Umowa, płatności i rozliczenie
+#### Rozdział 5 – Umowa, płatności i rozliczenie
 
-#### Rozdział 6 Przepisy epizodyczne, przejściowe i przepis końcowy
+#### Rozdział 6 – Przepisy epizodyczne, przejściowe i przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

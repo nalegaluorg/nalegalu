@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 stycznia 2023 r. o zmianie ustawy o bezpieczeństwie morskim oraz niektórych innych ustaw
+# Ustawa z dnia 13 stycznia 2023 r. o zmianie ustawy o bezpieczeństwie morskim oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki, ustawę z dnia 20 grudnia 1996 r. o portach i przystaniach morskich, ustawę z dnia 26 października 2000 r. o Polskim Rejestrze Statków, ustawę z dnia 18 września 2001 r. – Kodeks morski, ustawę z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich, ustawę z dnia 5 sierpnia 2015 r. o pracy na morzu, ustawę z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m, ustawę z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym oraz ustawę z dnia 11 września 2019 r. o pracy na statkach rybackich.
 
 | Pole | Wartość |
 |---|---|
@@ -22,22 +22,63 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-01-13 |
 | Data wydania | 2023-02-08 |
-| Wejście w życie | 2023-03-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000261) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/261/text.pdf) |
 
-Treść ustawy Art. 1. Art. 2. Art. 3. Art. 4. Art. 5. Art. 6. Art. 7. Art. 8. Art. 9. Art. 10. Art. 11. Art. 12. Art. 13. Art. 14. Art. 15. Art. 16. Art. 17. Art. 18. Art. 19. Art. 20. Art. 21.
-Załącznik – Opłaty
+Przepisy karne
 
-**Art. 1.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2022 r. poz. 515, 1604, 2185 i 2687) wprowadza się następujące zmiany:
+**Art. 1.**
+
+**Art. 2.**
+
+**Art. 3.**
+
+**Art. 4.**
+
+**Art. 5.**
+
+**Art. 6.**
+
+**Art. 7.**
+
+**Art. 8.**
+
+**Art. 9.**
+
+**Art. 10.**
+
+**Art. 11.**
+
+**Art. 12.**
+
+**Art. 13.**
+
+**Art. 14.**
+
+**Art. 15.**
+
+**Art. 16.**
+
+**Art. 17.**
+
+**Art. 18.**
+
+**Art. 19.**
+
+**Art. 20.**
+
+**Art. 21.** Załącznik – Opłaty W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2022 r. poz. 515, 1604, 2185 i 2687) wprowadza się następujące zmiany:
 
 - **1)** w art. 4: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Przepisów ustawy, z zastrzeżeniem przypadków w niej określonych, nie stosuje się do jednostek pływających Sił Zbrojnych Rzeczypospolitej Polskiej, Straży Granicznej, Policji i Służby Ochrony Państwa. ” , w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) statków rybackich o długości do 45 m; ” , – pkt 4 otrzymuje brzmienie: „ 4) jachtów rekreacyjnych o długości do 45 m; ” , – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) statków o pojemności brutto (GT) poniżej 300 jednostek; ” , ust. 4 otrzymuje brzmienie: „
+1. Przepisów ustawy, z zastrzeżeniem przypadków w niej określonych, nie stosuje się do jednostek pływających Sił Zbrojnych Rzeczypospolitej Polskiej, Straży Granicznej, Policji i Służby Ochrony Państwa. ” , w ust. 2: pkt 2 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **2)** statków rybackich o długości do 45 m; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** jachtów rekreacyjnych o długości do 45 m; ” , po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** statków o pojemności brutto (GT) poniżej 300 jednostek; ” , ust. 4 otrzymuje brzmienie: „
+    - **c)**
 
 4. Rada Ministrów, kierując się względami bezpieczeństwa uprawianej żeglugi, może, w drodze rozporządzenia, poddać odpowiednim przepisom ustawy jednostki pływające Sił Zbrojnych Rzeczypospolitej Polskiej, Straży Granicznej, Policji i Służby Ochrony Państwa. ” ;
 
@@ -97,8 +138,6 @@ Załącznik – Opłaty
 - **g)**
 - **4)** szczegółowy zakres informacji zawartych w sprawozdaniu i ocenie, o których mowa w ust. 8 pkt 2 lit. f, oraz termin ich przekazania ” ;
 - **4)** po art. 8 dodaje się art. 8a w brzmieniu: „
-
-**Art. 8a.**
 
 1. Minister właściwy do spraw gospodarki morskiej może powierzyć, w drodze umowy, uznanej organizacji wykonywanie zadań administracji morskiej w zakresie:
 
@@ -186,8 +225,6 @@ Załącznik – Opłaty
 
 - **7)** po art. 19 dodaje się art. 19a w brzmieniu: „
 
-**Art. 19a.**
-
 1. W przypadku gdy armator albo kapitan statku zgłosi statek do inspekcji albo audytu upoważnionej uznanej organizacji, upoważniona uznana organizacja informuje o tym fakcie oraz o planowanym terminie przeprowadzenia inspekcji albo audytu właściwego dyrektora urzędu morskiego.
 
 2. W przypadku, o którym mowa w ust. 1, upoważniona uznana organizacja przeprowadza inspekcje i audyty państwa bandery w celu wydania wszystkich wymaganych dla danego statku certyfikatów i dokumentów statku, z wyłączeniem certyfikatów wymaganych zgodnie z przepisami rozdziału XI-2 Konwencji SOLAS oraz z przepisami Kodeksu ISPS.
@@ -243,7 +280,7 @@ Załącznik – Opłaty
 4. Minister właściwy do spraw gospodarki morskiej, kierując się koniecznością zapewnienia odpowiedniego poziomu bezpieczeństwa i ochrony środowiska w odniesieniu do:
 
 - **1)** statków, których przynależność jest zmieniana z obcej na polską, oraz
-- **2)** statków zarejestrowanych w rejestrze administracyjnym polskich statków żeglugi śródlądowej przed wpisaniem do polskiego rejestru okrętowego określi, w drodze rozporządzenia, sposób przeprowadzania oceny stanu technicznego statku oraz wymagane warunki, jakie statek powinien spełniać, aby został wpisany do polskiego rejestru okrętowego, w tym maksymalny wiek statku oraz kategorie statków, do których warunki te nie mają zastosowania. ” , dodaje się ust. 5–7 w brzmieniu: „
+- **2)** statków zarejestrowanych w rejestrze administracyjnym polskich statków żeglugi śródlądowej przed wpisaniem do polskiego rejestru okrętowego – określi, w drodze rozporządzenia, sposób przeprowadzania oceny stanu technicznego statku oraz wymagane warunki, jakie statek powinien spełniać, aby został wpisany do polskiego rejestru okrętowego, w tym maksymalny wiek statku oraz kategorie statków, do których warunki te nie mają zastosowania. ” , dodaje się ust. 5–7 w brzmieniu: „
     - **c)**
 
 5. Jeżeli statek ma wartość historyczną albo jeżeli przemawia za tym ważny interes publiczny, minister właściwy do spraw gospodarki morskiej może, w drodze decyzji, zwolnić statek, którego przynależność jest zmieniana z obcej na polską albo zarejestrowany w rejestrze administracyjnym polskich statków żeglugi śródlądowej, z obowiązku spełniania niektórych warunków określonych w przepisach wydanych na podstawie ust. 4, wskazując warunki użytkowania statku.
@@ -565,7 +602,7 @@ Załącznik – Opłaty
 
 - **1)** ma ukończone 18 lat;
 - **2)** ma pełną zdolność do czynności prawnych i nie jest pozbawiona praw publicznych;
-- **3)** posiada: zaświadczenie o ukończeniu przeszkolenia w zakresie bezpieczeństwa wydane przez dyrektora służby SAR dla ratowników brzegowych stacji ratowniczych Służby SAR albo świadectwa przeszkolenia w zakresie indywidualnych technik ratunkowych, ochrony przeciwpożarowej stopnia podstawowego, bezpieczeństwa własnego i odpowiedzialności wspólnej oraz elementarnych zasad udzielania pierwszej pomocy medycznej, albo świadectwo przeszkolenia w zakresie bezpieczeństwa na jachtach komercyjnych o których mowa w przepisach wydanych na podstawie art. 68 lub art. 70 ust. 4 i 5;
+- **3)** posiada: zaświadczenie o ukończeniu przeszkolenia w zakresie bezpieczeństwa wydane przez dyrektora służby SAR dla ratowników brzegowych stacji ratowniczych Służby SAR albo świadectwa przeszkolenia w zakresie indywidualnych technik ratunkowych, ochrony przeciwpożarowej stopnia podstawowego, bezpieczeństwa własnego i odpowiedzialności wspólnej oraz elementarnych zasad udzielania pierwszej pomocy medycznej, albo świadectwo przeszkolenia w zakresie bezpieczeństwa na jachtach komercyjnych – o których mowa w przepisach wydanych na podstawie art. 68 lub art. 70 ust. 4 i 5;
     - **a)**
     - **b)**
     - **c)**
@@ -604,18 +641,14 @@ Załącznik – Opłaty
 - **b)**
 - **c)**
 
-19. 2. Koszty przejazdów oraz pobytu audytorów/inspektorów poza siedzibami urzędów morskich związane z przeprowadzaniem audytu lub inspekcji, w tym audytów dodatkowych lub inspekcji doraźnych, o których mowa w art. 20 ust. 1 pkt 5, ust. 2 pkt 1 i 5 oraz art. 22 ust. 2 pkt 2 i 3 i ust. 2a pkt 2, z przeprowadzeniem oceny stanu technicznego, o której mowa w art. 28 ust. 1 pkt 2, ponosi armator statku. W przypadku gdy opłata netto wynosi poniżej 10 PLN odstępuje się od jej pobrania. ” .
-
-**Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061, 1115, 1855 i 2600 oraz z 2023 r. poz. 185) wprowadza się następujące zmiany:
+19. 2. Koszty przejazdów oraz pobytu audytorów/inspektorów poza siedzibami urzędów morskich związane z przeprowadzaniem audytu lub inspekcji, w tym audytów dodatkowych lub inspekcji doraźnych, o których mowa w art. 20 ust. 1 pkt 5, ust. 2 pkt 1 i 5 oraz art. 22 ust. 2 pkt 2 i 3 i ust. 2a pkt 2, z przeprowadzeniem oceny stanu technicznego, o której mowa w art. 28 ust. 1 pkt 2, ponosi armator statku. W przypadku gdy opłata netto wynosi poniżej 10 PLN odstępuje się od jej pobrania. ” . W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061, 1115, 1855 i 2600 oraz z 2023 r. poz. 185) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w ust. 2 po pkt 5d dodaje się pkt 5e w brzmieniu: „
 - **5e)** współdziałanie z innymi organami i służbami w zakresie rozpoznawania zagrożeń dla bezpieczeństwa terminala regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu i przeciwdziałania tym zagrożeniom; ” ;
 - **2)** w art. 11 w ust. 1 pkt 13 otrzymuje brzmienie: „
-- **13)** dokonywania sprawdzenia prewencyjnego: osób doprowadzanych, umieszczanych lub przebywających w pomieszczeniach dla osób zatrzymanych lub osób konwojowanych, w celu ochrony przed bezprawnymi zamachami na życie lub zdrowie osób lub mienie, a także w celu ochrony przed nieuprawnionymi działaniami skutkującymi zagrożeniem życia lub zdrowia lub bezpieczeństwa i porządku publicznego, osób wchodzących lub przebywających na obszarze objętym zakazem, o którym mowa w art. 27a ust. 1 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich (Dz. U. z 2022 r. poz. 2257 oraz z 2023 r. poz. 261). ” .
+- **13)** dokonywania sprawdzenia prewencyjnego: osób doprowadzanych, umieszczanych lub przebywających w pomieszczeniach dla osób zatrzymanych lub osób konwojowanych, w celu ochrony przed bezprawnymi zamachami na życie lub zdrowie osób lub mienie, a także w celu ochrony przed nieuprawnionymi działaniami skutkującymi zagrożeniem życia lub zdrowia lub bezpieczeństwa i porządku publicznego, osób wchodzących lub przebywających na obszarze objętym zakazem, o którym mowa w art. 27a ust. 1 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich (Dz. U. z 2022 r. poz. 2257 oraz z 2023 r. poz. 261). ” . W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2022 r. poz. 457, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1079, 1250, 1604, 2185, 2515 i 2687.) wprowadza się następujące zmiany:
     - **a)**
     - **b)**
-
-**Art. 3.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2022 r. poz. 457, z późn. zm.) wprowadza się następujące zmiany:
 
 - **1)** po art. 3a dodaje się art. 3bwbrzmieniu: „
 
@@ -645,12 +678,10 @@ Załącznik – Opłaty
 - **6)** po art. 60c dodaje się art. 60ca w brzmieniu: „ Art. 60ca. Kto na obszarach określonych w art. 60a lub art. 60b:
 - **1)** wbrew przepisom art. 51 § 1 ustawy z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2018 r. poz. 2175, z 2022 r. poz. 2642 oraz z 2023 r. poz. 261) uprawia żeglugę jachtem, nie posiadając na nim karty bezpieczeństwa wydanej na podstawie art. 23 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim,
 - **2)** uprawia żeglugę jachtem nieoznaczonym zgodnie z przepisami art. 12 § 1 i § 2a ustawy z dnia 18 września 2001 r. – Kodeks morski albo art. 21 ust. 1 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2022 r. poz. 1097 i 2642) oraz przepisami wydanymi na podstawie art. 21 ust. 3 tej ustawy,
-- **3)** narusza przepisy wydane na podstawie art. 3 ust. 2, art. 3b ust. 1 oraz art. 48 ust. 1 w ten sposób, że uprawia żeglugę na akwenach zamkniętych dla ruchu jednostek sportowo-rekreacyjnych albo bez wymaganej zgody podlega karze grzywny. ” ;
+- **3)** narusza przepisy wydane na podstawie art. 3 ust. 2, art. 3b ust. 1 oraz art. 48 ust. 1 w ten sposób, że uprawia żeglugę na akwenach zamkniętych dla ruchu jednostek sportowo-rekreacyjnych albo bez wymaganej zgody – podlega karze grzywny. ” ;
 - **7)** w art. 60d ust. 1 otrzymuje brzmienie: „
 
-1. Orzekanie w sprawach o czyny określone w art. 60a-60ca następuje w trybie przewidzianym w przepisach ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124). ” .
-
-**Art. 4.** W ustawie z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2020 r. poz. 1955 oraz z 2022 r. poz. 1250) wprowadza się następujące zmiany:
+1. Orzekanie w sprawach o czyny określone w art. 60a-60ca następuje w trybie przewidzianym w przepisach ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124). ” . W ustawie z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2020 r. poz. 1955 oraz z 2022 r. poz. 1250) wprowadza się następujące zmiany:
 
 - **1)** w art. 10a ust. 1 otrzymuje brzmienie: „
 
@@ -658,11 +689,9 @@ Załącznik – Opłaty
 
 - **2)** w art. 38 ust. 1 i 2 otrzymują brzmienie: „
 
-1. Właściwość organów oraz tryb wymierzania i ściągania kar pieniężnych z tytułu naruszenia przepisów, o których mowa w art. 36–37c, oraz sposób wykorzystania kwot ściągniętych z tytułu kar pieniężnych regulują przepisy ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2022 r. poz. 457, z późn. zm.).
+1. Właściwość organów oraz tryb wymierzania i ściągania kar pieniężnych z tytułu naruszenia przepisów, o których mowa w art. 36–37c, oraz sposób wykorzystania kwot ściągniętych z tytułu kar pieniężnych regulują przepisy ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2022 r. poz. 457, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1079, 1250, 1604, 2185, 2515 i 2687 oraz z 2023 r. poz. 261.).
 
-2. Wysokość kar pieniężnych, o których mowa w art. 36–37c, ustala się z uwzględnieniem zakresu naruszeń, korzyści finansowych uzyskanych z tytułu naruszeń i powtarzalności naruszeń. ” .
-
-**Art. 5.** W ustawie z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2022 r. poz. 1624) wprowadza się następujące zmiany:
+2. Wysokość kar pieniężnych, o których mowa w art. 36–37c, ustala się z uwzględnieniem zakresu naruszeń, korzyści finansowych uzyskanych z tytułu naruszeń i powtarzalności naruszeń. ” . W ustawie z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2022 r. poz. 1624) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 po ust. 4 dodaje się ust. 4a w brzmieniu: „
 
@@ -784,13 +813,11 @@ Załącznik – Opłaty
 2. W przypadku wydania rozporządzenia, o którym mowa w ust. 1, jeżeli większa część nieruchomości gruntowych znajdujących się w granicach portu stanowi przedmiot:
 
 - **1)** własności Skarbu Państwa i nie została oddana w użytkowanie wieczyste lub
-- **2)** użytkowania wieczystego Skarbu Państwa zadania i uprawnienia podmiotu zarządzającego portem wskazanym w przepisach wydanych na podstawie ust. 1 wykonuje właściwy dyrektor urzędu morskiego, z zastrzeżeniem art. 25 ust. 5. ” ;
+- **2)** użytkowania wieczystego Skarbu Państwa – zadania i uprawnienia podmiotu zarządzającego portem wskazanym w przepisach wydanych na podstawie ust. 1 wykonuje właściwy dyrektor urzędu morskiego, z zastrzeżeniem art. 25 ust. 5. ” ;
 - **7)** w art. 24 w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu: „
-- **1a)** grunty położone w granicach portów przeznaczonych do obsługi morskich farm wiatrowych wskazanych w przepisach wydanych na podstawie art. 23a ust. 1, ” .
+- **1a)** grunty położone w granicach portów przeznaczonych do obsługi morskich farm wiatrowych wskazanych w przepisach wydanych na podstawie art. 23a ust. 1, ” . W ustawie z dnia 26 października 2000 r. o Polskim Rejestrze Statków (Dz. U. z 2017 r. poz. 2036) w art. 18 ust. 1 otrzymuje brzmienie: „
 
-**Art. 6.** W ustawie z dnia 26 października 2000 r. o Polskim Rejestrze Statków (Dz. U. z 2017 r. poz. 2036) w art. 18 ust. 1 otrzymuje brzmienie: „ 1. Rada Nadzorcza składa się z 5 do 7 członków, w tym 2 członków delegowanych przez pracowników PRS SA. ” .
-
-**Art. 7.** W ustawie z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2018 r. poz. 2175 oraz z 2022 r. poz. 2642) wprowadza się następujące zmiany:
+1. Rada Nadzorcza składa się z 5 do 7 członków, w tym 2 członków delegowanych przez pracowników PRS SA. ” . W ustawie z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2018 r. poz. 2175 oraz z 2022 r. poz. 2642) wprowadza się następujące zmiany:
 
 - **1)** w art. 23: § 5 otrzymuje brzmienie: „
     - **a)**
@@ -843,10 +870,7 @@ Załącznik – Opłaty
 
 5. Plan ochrony obiektu portowego, uzgodniony w terminie 14 dni z właściwym terytorialnie wojewodą w zakresie zadań wynikających z art. 22 ustawy z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej w województwie, zatwierdza się w terminie 2 miesięcy, jeżeli zostały spełnione wymagania określone w Kodeksie ISPS. ” ;
 
-- **7)** po art. 21 dodaje się art. 21a i art. 21b w brzmieniu: „
-
-**Art. 21a.** Ocena stanu ochrony obiektu portowego i plan ochrony obiektu portowego podlegają przeglądowi i aktualizacji co najmniej raz na pięć lat. W przypadku gdy granice portu i obiektu portowego istotne z punktu widzenia ochrony pokrywają się, zastosowanie mają przepisy w zakresie ochrony obiektów portowych. ” ;
-
+- **7)** po art. 21 dodaje się art. 21a i art. 21b w brzmieniu: „ Ocena stanu ochrony obiektu portowego i plan ochrony obiektu portowego podlegają przeglądowi i aktualizacji co najmniej raz na pięć lat. W przypadku gdy granice portu i obiektu portowego istotne z punktu widzenia ochrony pokrywają się, zastosowanie mają przepisy w zakresie ochrony obiektów portowych. ” ;
 - **8)** w art. 24 ust. 4 i 5 otrzymują brzmienie: „
 
 4. Podejmując decyzję o zmianie poziomu ochrony, bierze się pod uwagę stopień wiarygodności informacji o zagrożeniu oraz potencjalne konsekwencje wystąpienia zdarzenia naruszającego ochronę, jak również stopnie alarmowe wprowadzone na podstawie art. 16 ust. 1 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2022 r. poz. 2632).
@@ -875,14 +899,17 @@ Załącznik – Opłaty
 5. Zakazu, o którym mowa w ust. 1, nie stosuje się do:
 
 - **1)** załóg przemieszczających się pojazdami ratownictwa medycznego i innych służb interwencyjnych oraz osób przewożonych w tych pojazdach w związku z prowadzoną przez te załogi lub służby działalnością;
-- **2)** osób przemieszczających się bezpośrednio do podmiotów wykonujących działalność leczniczą w rozumieniu art. 2 ust. 1 pkt 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, z późn. zm.) w celu skorzystania ze świadczeń zdrowotnych;
+- **2)** osób przemieszczających się bezpośrednio do podmiotów wykonujących działalność leczniczą w rozumieniu art. 2 ust. 1 pkt 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 655, 974, 1079, 2280, 2705 i 2770.) w celu skorzystania ze świadczeń zdrowotnych;
 - **3)** funkcjonariuszy i pracowników służb państwowych oraz żołnierzy i pracowników Sił Zbrojnych Rzeczypospolitej Polskiej wykonujących zadania służbowe.
 
 1. Obszar objęty zakazem, o którym mowa w art. 27a ust. 1, oznacza się w dobrze widocznych miejscach tablicami z napisem „Obszar objęty zakazem przebywania – wejście zabronione”.
 
 2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory tablic, o których mowa w ust. 1, oraz sposób ich utrzymywania przez właściwego miejscowo komendanta oddziału Straży Granicznej, uwzględniając konieczność należytego oznaczenia obszaru objętego zakazem, o którym mowa w art. 27a ust. 1. Informację o wprowadzeniu zakazu, o którym mowa w art. 27a ust. 1, ogłasza się w sposób zwyczajowo przyjęty na obszarze objętym tym zakazem oraz zamieszcza się na stronie podmiotowej Biuletynu Informacji Publicznej właściwego miejscowo urzędu wojewódzkiego oraz urzędu miasta Świnoujście. ” ;
 
-- **10)** w art. 30: w ust. 1: – pkt 1otrzymuje brzmienie: „ 1) inspekcja państwa bandery lub inspekcja państwa portu – w odniesieniu do statków; ” , – w pkt 2: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ zespół, który powołuje i którego przewodniczącego wyznacza: ” , – – lit. a otrzymuje brzmienie: „ a) minister właściwy do spraw gospodarki morskiej lub osoba przez niego upoważniona – w odniesieniu do portów, ” , ust. 2 otrzymuje brzmienie: „
+- **10)** w art. 30: w ust. 1: pkt 1otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** inspekcja państwa bandery lub inspekcja państwa portu – w odniesieniu do statków; ” , w pkt 2: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ zespół, który powołuje i którego przewodniczącego wyznacza: ” , – lit. a otrzymuje brzmienie: „ minister właściwy do spraw gospodarki morskiej lub osoba przez niego upoważniona – w odniesieniu do portów, ” , ust. 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
 
@@ -941,14 +968,11 @@ Załącznik – Opłaty
 - **1a)** nie opracowuje planu ochrony obiektu portowego w terminach określonych w art. 21 ust. 3a lub 3b, ” ;
 - **18)** po rozdziale 13 dodaje się rozdział 13a w brzmieniu: „
 
-#### Rozdział 13a Przepisy karne
+#### Rozdział 13a
 
 **Art. 66a.** Kto, nie będąc do tego uprawnionym, przebywa na obszarze objętym zakazem, o którym mowa w art. 27a ust. 1, w czasie jego obowiązywania podlega karze aresztu albo grzywny. Kto zabiera, niszczy, uszkadza, usuwa lub przesuwa tablice, o których mowa w art. 27b ust. 1 podlega karze grzywny. ” ;
 
-- **19)** załącznik nr 3 do ustawy otrzymuje brzmienie określone w załączniku do niniejszej ustawy.
-
-**Art. 9.** W ustawie z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2022 r. poz. 1694 i 2185) wprowadza się następujące zmiany:
-
+- **19)** załącznik nr 3 do ustawy otrzymuje brzmienie określone w załączniku do niniejszej ustawy. W ustawie z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2022 r. poz. 1694 i 2185) wprowadza się następujące zmiany:
 - **1)** w art. 18 ust. 2a otrzymuje brzmienie: „
 
 2a. Właściwość dyrektora urzędu morskiego określa się zgodnie z art. 17 ust. 1a ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, zwanej dalej „ustawą o bezpieczeństwie morskim”. ” ;
@@ -959,19 +983,12 @@ Załącznik – Opłaty
 
 - **3)** w art. 94 dodaje się ust. 3 w brzmieniu: „
 
-3. Inspekcja doraźna może być przeprowadzona również w celu nadzorowania prawidłowości działań uznanych organizacji upoważnionych do wykonywania zadań administracji morskiej zgodnie z art. 8 lub art. 8a ustawy o bezpieczeństwie morskim. ” .
-
-**Art. 10.** W ustawie z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m (Dz. U. z 2020 r. poz. 1500 oraz z 2022 r. poz. 2642) wprowadza się następujące zmiany:
+3. Inspekcja doraźna może być przeprowadzona również w celu nadzorowania prawidłowości działań uznanych organizacji upoważnionych do wykonywania zadań administracji morskiej zgodnie z art. 8 lub art. 8a ustawy o bezpieczeństwie morskim. ” . W ustawie z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m (Dz. U. z 2020 r. poz. 1500 oraz z 2022 r. poz. 2642) wprowadza się następujące zmiany:
 
 - **1)** w art. 9 w ust. 4 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 - **3)** jest to uzasadnione względami bezpieczeństwa, obronności lub innym ważnym interesem publicznym. ” ;
 - **2)** w art. 19 w ust. 3 w pkt 4 kropkę zastępuję się średnikiem i dodaje się pkt 5 w brzmieniu: „
-- **5)** funkcjonariusze Państwowej Straży Rybackiej. ” .
-
-**Art. 11.** W ustawie z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2022 r. poz. 1650) w art. 61 w ust. 8 w pkt 2 po wyrazach „Państwowej Straży Pożarnej,” dodaje się wyrazy „Morskiej Służbie Poszukiwania i Ratownictwa,”.
-
-**Art. 12.** W ustawie z dnia 11 września 2019 r. o pracy na statkach rybackich (Dz. U. poz. 2197) wprowadza się następujące zmiany:
-
+- **5)** funkcjonariusze Państwowej Straży Rybackiej. ” . W ustawie z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2022 r. poz. 1650) w art. 61 w ust. 8 w pkt 2 po wyrazach „Państwowej Straży Pożarnej,” dodaje się wyrazy „Morskiej Służbie Poszukiwania i Ratownictwa,”. W ustawie z dnia 11 września 2019 r. o pracy na statkach rybackich (Dz. U. poz. 2197) wprowadza się następujące zmiany:
 - **1)** w art. 48 dodaje się ust. 4 w brzmieniu: „
 
 4. W przypadku gdy czynności, o których mowa w ust. 2 i 3, wykonuje uznana organizacja upoważniona do wykonywania zadań administracji morskiej zgodnie z art. 8 lub art. 8a ustawy o bezpieczeństwie morskim, dochód budżetu państwa stanowi 10% opłaty, o której mowa w ust. 2 i 3. ” ;
@@ -979,8 +996,6 @@ Załącznik – Opłaty
 - **2)** w art. 49 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
 2a. Inspekcja doraźna może być przeprowadzona również w celu nadzorowania prawidłowości działań uznanych organizacji upoważnionych do wykonywania zadań administracji morskiej zgodnie z art. 8 lub art. 8a ustawy o bezpieczeństwie morskim. ” .
-
-**Art. 13.**
 
 1. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, o których mowa w art. 17 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe.
 
@@ -992,25 +1007,13 @@ Załącznik – Opłaty
 
 5. Do szkoleń i przeszkoleń wszczętych i niezakończonych przed dniem wejścia w życie art. 1 pkt 18 lit. b-d, o których mowa w art. 70 ust. 3 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe.
 
-6. Do szkoleń i przeszkoleń wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, o których mowa w art. 74 ust. 1 i art. 107 ust. 6 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe.
-
-**Art. 14.** Zarządzenia wydane na podstawie art. 24 ust. 1 ustawy zmienianej w art. 3, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie zarządzeń wydanych na podstawie art. 24 ust. 1 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 36 miesięcy od dnia jej wejścia w życie.
-
-**Art. 15.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, o których mowa w art. 4 ustawy zmienianej w art. 5, w brzmieniu dotychczasowym, stosuje się przepisy art. 4 ust. 3d, 4 i 6 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 16.** Przepisy art. 3d ustawy zmienianej w art. 5 mają zastosowanie do umów sprzedaży udziałów albo akcji w spółce, o której mowa w art. 3d ust. 1 ustawy zmienianej w art. 5, zawartych a niewykonanych przed dniem wejścia w życie niniejszej ustawy. Strony takiej umowy niezwłocznie, nie później jednak niż w terminie 30 dni od dnia wejścia w życie niniejszej ustawy zawiadamiają na piśmie pod rygorem nieważności, przesyłką poleconą nadaną za potwierdzeniem odbioru w placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042), ministra właściwego do spraw gospodarki morskiej o treści umowy sprzedaży udziałów albo akcji. Przepisy art. 3d ustawy zmienianej w art. 5 stosuje się odpowiednio.
-
-**Art. 17.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, o których mowa w art. 2 ust. 2a, art. 18 ust. 6, art. 20, art. 21 i art. 36 ustawy zmienianej w art. 8, w brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe.
-
-**Art. 18.**
+6. Do szkoleń i przeszkoleń wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, o których mowa w art. 74 ust. 1 i art. 107 ust. 6 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe. Zarządzenia wydane na podstawie art. 24 ust. 1 ustawy zmienianej w art. 3, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie zarządzeń wydanych na podstawie art. 24 ust. 1 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 36 miesięcy od dnia jej wejścia w życie. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, o których mowa w art. 4 ustawy zmienianej w art. 5, w brzmieniu dotychczasowym, stosuje się przepisy art. 4 ust. 3d, 4 i 6 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą. Przepisy art. 3d ustawy zmienianej w art. 5 mają zastosowanie do umów sprzedaży udziałów albo akcji w spółce, o której mowa w art. 3d ust. 1 ustawy zmienianej w art. 5, zawartych a niewykonanych przed dniem wejścia w życie niniejszej ustawy. Strony takiej umowy niezwłocznie, nie później jednak niż w terminie 30 dni od dnia wejścia w życie niniejszej ustawy zawiadamiają na piśmie pod rygorem nieważności, przesyłką poleconą nadaną za potwierdzeniem odbioru w placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042), ministra właściwego do spraw gospodarki morskiej o treści umowy sprzedaży udziałów albo akcji. Przepisy art. 3d ustawy zmienianej w art. 5 stosuje się odpowiednio. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, o których mowa w art. 2 ust. 2a, art. 18 ust. 6, art. 20, art. 21 i art. 36 ustawy zmienianej w art. 8, w brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe.
 
 1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 8 ust. 3, art. 17 ust. 7, art. 23 ust. 5, art. 28 ust. 4, art. 64 ust. 5, art. 74 ust. 4, art. 83 ust. 2, art. 106, art. 107b ust. 6, art. 113c ust. 7 i art. 124 ust. 3 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 8 ust. 11, art. 17 ust. 7, art. 23 ust. 5, art. 28 ust. 4, art. 64 ust. 5, art. 74 ust. 4, art. 83 ust. 2, art. 106, art. 107b ust. 6, art. 113c ust. 7 i art. 124 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 36 miesięcy od dnia jej wejścia w życie.
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 70 ust. 4 i 5 i art. 74 ust. 7 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 70 ust. 4 i 5 i art. 74 ust. 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 36 miesięcy od dnia wejścia w życie art. 1 pkt 17, pkt 18 lit. b-d i pkt 22 lit. a.
 
 3. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 108 ust. 2 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 108 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 15 sierpnia 2025 r. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 37 ustawy zmienianej w art. 8 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 37 ustawy zmienianej w art. 8, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 36 miesięcy od dnia jej wejścia w życie.
-
-**Art. 20.**
 
 1. W latach 2022–2031 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wynosi 0,03 mln zł, z tym że w:
 
@@ -1031,7 +1034,7 @@ Załącznik – Opłaty
 
 - **1)** art. 1 pkt 4 w zakresie dodawanych przepisów art. 8a ust. 9 i 10, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
 - **2)** art. 1 pkt 17, pkt 18 lit. b-d i pkt 22 lit. a oraz art. 18 ust. 2, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia;
-- **3)** art. 2, art. 5 pkt 2 i 5, art. 8 pkt 9 i 18 oraz art. 16, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. Załącznik – Opłaty I. TARYFA OPŁAT ZA PRZEPROWADZENIE CZYNNOŚCI URZĘDOWYCH ZWIĄZANYCH Z WYDANIEM DOKUMENTÓW OCHRONY PORTÓW
+- **3)** art. 2, art. 5 pkt 2 i 5, art. 8 pkt 9 i 18 oraz art. 16, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki, ustawę z dnia 20 grudnia 1996 r. o portach i przystaniach morskich, ustawę z dnia 26 października 2000 r. o Polskim Rejestrze Statków, ustawę z dnia 18 września 2001 r. – Kodeks morski, ustawę z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich, ustawę z dnia 5 sierpnia 2015 r. o pracy na morzu, ustawę z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m, ustawę z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym oraz ustawę z dnia 11 września 2019 r. o pracy na statkach rybackich. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1079, 1250, 1604, 2185, 2515 i 2687. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1079, 1250, 1604, 2185, 2515 i 2687 oraz z 2023 r. poz. 261. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 655, 974, 1079, 2280, 2705 i 2770. Załącznik – Opłaty I. TARYFA OPŁAT ZA PRZEPROWADZENIE CZYNNOŚCI URZĘDOWYCH ZWIĄZANYCH Z WYDANIEM DOKUMENTÓW OCHRONY PORTÓW
 
 1. Zatwierdzenie oceny stanu ochrony portu 1200 PLN
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 2 lutego 2017 r. w sprawie cech charakterystycznych odmiany roślin sadowniczych wpisywanej na sadowniczą listę B
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 2 lutego 2017 r. w sprawie cech charakterystycznych odmiany roślin sadowniczych wpisywanej na sadowniczą listę B Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-02 |
 | Data wydania | 2017-02-23 |
-| Wejście w życie | 2017-03-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000327) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/327/text.pdf) |
 
@@ -33,8 +32,7 @@ Na podstawie art. 13 ust. 8 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (D
 § 1.
 Cechy charakterystyczne odmiany roślin sadowniczych zawarte w opisie odmiany wpisywanej na sadowniczą listę B określa załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 Załącznik – Cechy charakterystyczne odmiany roślin sadowniczych zawarte w opisie odmiany wpisywanej na sadowniczą listę B
 1.
 Agrest (Ribes uva-crispa L.) Roślina: kształt odwrotnie jajowaty kulisty poprzecznie elipsoidalny owoc: wielkość bardzo mały bardzo mały do małego mały mały do średniego średni średni do dużego duży duży do bardzo dużego bardzo duży owoc: kształt kulisty elipsoidalny gruszkowaty owoc: barwa żółty żółtozielony zielony z białym odcieniem zielony czerwony termin dojrzewania owoców bardzo wczesny bardzo wczesny do wczesnego wczesny wczesny do średniego średni średni do późnego późny późny do bardzo późnego bardzo późny

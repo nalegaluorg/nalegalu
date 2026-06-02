@@ -33,8 +33,7 @@ Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og�
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 11 i art. 12 ustawy z dnia 14 sierpnia 2020 r. o świadczeniu pieniężnym przysługującym osobom zesłanym lub deportowanym przez władze Związku Socjalistycznych Republik Radzieckich w latach 1936–1956 (Dz. U. poz. 1428), które stanowią:
-„
+art. 11 i art. 12 ustawy z dnia 14 sierpnia 2020 r. o świadczeniu pieniężnym przysługującym osobom zesłanym lub deportowanym przez władze Związku Socjalistycznych Republik Radzieckich w latach 1936–1956 (Dz. U. poz. 1428), które stanowią: „
 
 **Art. 11.** W ustawie z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego (Dz. U. z 2018 r. poz. 2099 oraz z 2019 r. poz. 1952) w art. 8 dodaje się ust. 6 w brzmieniu: „ 6. Przepisu ust. 2a nie stosuje się do osób, którym Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych przyznał świadczenie pieniężne na podstawie ustawy z dnia 14 sierpnia 2020 r. o świadczeniu pieniężnym przysługującym osobom zesłanym lub deportowanym przez władze Związku Socjalistycznych Republik Radzieckich w latach 1936–1956 (Dz. U. poz. 1428). ” .
 
@@ -43,9 +42,7 @@ art. 11 i art. 12 ustawy z dnia 14 sierpnia 2020 r. o świadczeniu pieniężnym 
 - **45a)** świadczenie pieniężne przyznane na podstawie ustawy z dnia 14 sierpnia 2020 r. o świadczeniu pieniężnym przysługującym osobom zesłanym lub deportowanym przez władze Związku Socjalistycznych Republik Radzieckich w latach 1936–1956 (Dz. U. poz. 1428);”. ” ; ” ;
 - **2)** art. 16 ustawy z dnia 30 marca 2021 r. o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz niektórych innych ustaw (Dz. U. poz. 794), który stanowi: „
 
-**Art. 16.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 11–15, które wchodzą w życie z dniem 1 czerwca 2021 r. ” . Załącznik – Tekst jednolity ustawy z dnia 14 sierpnia 2020 r. o świadczeniu pieniężnym przysługującym osobom zesłanym lub deportowanym przez władze Związku Socjalistycznych Republik Radzieckich
-
-**Art. 1.** Ustawa określa zasady, wysokość oraz tryb przyznawania świadczenia pieniężnego osobom zesłanym lub deportowanym przez władze Związku Socjalistycznych Republik Radzieckich, zwanego dalej „świadczeniem pieniężnym”.
+**Art. 16.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 11–15, które wchodzą w życie z dniem 1 czerwca 2021 r. ” . Załącznik – Tekst jednolity ustawy z dnia 14 sierpnia 2020 r. o świadczeniu pieniężnym przysługującym osobom zesłanym lub deportowanym przez władze Związku Socjalistycznych Republik RadzieckichTytuł ustawy w brzmieniu ustalonym przez art. 10 pkt 1 ustawy z dnia 30 marca 2021 r. o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz niektórych innych ustaw (Dz. U. poz. 794), która weszła w życie z dniem 30 maja 2021 r. Art. 1W brzmieniu ustalonym przez art. 10 pkt 2 ustawy, o której mowa w odnośniku 1.. Ustawa określa zasady, wysokość oraz tryb przyznawania świadczenia pieniężnego osobom zesłanym lub deportowanym przez władze Związku Socjalistycznych Republik Radzieckich, zwanego dalej „świadczeniem pieniężnym”.
 
 **Art. 2.** Świadczenie pieniężne przysługuje osobie, która:
 
@@ -58,11 +55,7 @@ art. 11 i art. 12 ustawy z dnia 14 sierpnia 2020 r. o świadczeniu pieniężnym 
 
 **Art. 3.** Świadczenie pieniężne nie przysługuje osobie, która uzyskała odszkodowanie lub zadośćuczynienie na podstawie art. 8 ust. 2a ustawy z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego (Dz. U. z 2021 r. poz. 1693).
 
-**Art. 4.**
-
-1. Świadczenie pieniężne jest przyznawane jednorazowo w wysokości 200 zł za każdy miesiąc okresu podlegania represjom, o których mowa w art. 2 pkt 1, potwierdzonego decyzją Szefa Urzędu do Spraw Kombatantów i Osób Represjonowanych, o której mowa w art. 2 pkt 1.
-
-2. Wysokość świadczenia pieniężnego nie może być niższa niż 2400 zł.
+**Art. 4.** 1W brzmieniu ustalonym przez art. 10 pkt 3 ustawy, o której mowa w odnośniku 1.. Świadczenie pieniężne jest przyznawane jednorazowo w wysokości 200 zł za każdy miesiąc okresu podlegania represjom, o których mowa w art. 2 pkt 1, potwierdzonego decyzją Szefa Urzędu do Spraw Kombatantów i Osób Represjonowanych, o której mowa w art. 2 pkt 1. 2. Wysokość świadczenia pieniężnego nie może być niższa niż 2400 zł.
 
 **Art. 5.**
 
@@ -113,10 +106,7 @@ art. 11 i art. 12 ustawy z dnia 14 sierpnia 2020 r. o świadczeniu pieniężnym 
 
 **Art. 9.** Świadczenie pieniężne, wraz z kosztami jego obsługi, jest finansowane w ramach środków budżetu państwa.
 
-**Art. 10.** Świadczenie pieniężne jest wolne od egzekucji i nie podlega wliczeniu do dochodu uprawniającego do świadczeń i dodatków przysługujących na podstawie przepisów odrębnych. (pominięty) (pominięty)
+**Art. 10.** Świadczenie pieniężne jest wolne od egzekucji i nie podlega wliczeniu do dochodu uprawniającego do świadczeń i dodatków przysługujących na podstawie przepisów odrębnych. (pominięty)Zamieszczony w obwieszczeniu. (pominięty)Zamieszczony w obwieszczeniu.
 
-**Art. 13.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-
-- **1)** Tytuł ustawy w brzmieniu ustalonym przez art. 10 pkt 1 ustawy z dnia 30 marca 2021 r. o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz niektórych innych ustaw (Dz. U. poz. 794), która weszła w życie z dniem 30 maja 2021 r. 2) W brzmieniu ustalonym przez art. 10 pkt 2 ustawy, o której mowa w odnośniku 1. 3) W brzmieniu ustalonym przez art. 10 pkt 3 ustawy, o której mowa w odnośniku 1. 4) Zamieszczony w obwieszczeniu. 5) Ustawa została ogłoszona w dniu 21 sierpnia 2020 r.
-
+**Art. 13.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 21 sierpnia 2020 r.. 1) Tytuł ustawy w brzmieniu ustalonym przez art. 10 pkt 1 ustawy z dnia 30 marca 2021 r. o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz niektórych innych ustaw (Dz. U. poz. 794), która weszła w życie z dniem 30 maja 2021 r. 2) W brzmieniu ustalonym przez art. 10 pkt 2 ustawy, o której mowa w odnośniku 1. 3) W brzmieniu ustalonym przez art. 10 pkt 3 ustawy, o której mowa w odnośniku 1. 4) Zamieszczony w obwieszczeniu. 5) Ustawa została ogłoszona w dniu 21 sierpnia 2020 r.
 

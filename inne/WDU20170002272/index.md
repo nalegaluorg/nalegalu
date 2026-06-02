@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 28 listopada 2017 r. w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem środka nadzwyczajnego polegającego na udzieleniu pomocy posiadaczom świń utrzymującym nie więcej niż 50 świń
+# Rozporządzenie Rady Ministrówz dnia 28 listopada 2017 r. w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem środka nadzwyczajnego polegającego na udzieleniu pomocy posiadaczom świń utrzymującym nie więcej niż 50 świń Niniejsze rozporządzenie służy stosowaniu rozporządzenia wykonawczego Komisji (UE) 2017/1536 z dnia 11 września 2017 r. w sprawie środka nadzwyczajnego w formie pomocy gospodarstwom utrzymującym nie więcej niż 50 świń i znajdującym się na określonych obszarach Polski w przypadku wstrzymania produkcji wieprzowiny z powodu nowych wymagań związanych z afrykańskim pomorem świń (Dz. Urz. UE L 234 z 12.09.2017, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-28 |
 | Data wydania | 2017-12-07 |
-| Wejście w życie | 2017-12-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002272) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2272/text.pdf) |
 
@@ -133,5 +132,5 @@ stanowi 10% kwoty pomocy otrzymanej przez posiadacza świń;
 2)
 jest wymierzana w drodze decyzji administracyjnej przez kierownika biura powiatowego Agencji.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Niniejsze rozporządzenie służy stosowaniu rozporządzenia wykonawczego Komisji (UE) 2017/1536 z dnia 11 września 2017 r. w sprawie środka nadzwyczajnego w formie pomocy gospodarstwom utrzymującym nie więcej niż 50 świń i znajdującym się na określonych obszarach Polski w przypadku wstrzymania produkcji wieprzowiny z powodu nowych wymagań związanych z afrykańskim pomorem świń (Dz. Urz. UE L 234 z 12.09.2017, str. 1).
 

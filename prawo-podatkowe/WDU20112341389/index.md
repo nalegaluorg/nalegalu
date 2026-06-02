@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-09-16 |
 | Data wydania | 2011-11-03 |
-| Wejście w życie | 2011-12-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112341389) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1389/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228 oraz z 2011 r. Nr 106, poz. 622 i Nr 152, poz. 900.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2: po pkt 22a dodaje się pkt 22b w brzmieniu: „
     - **a)**
@@ -113,7 +112,7 @@ source: "eli-html"
 - **2)** w którym decyzja Komisji o cofnięciu zezwolenia na utworzenie funduszu inwestycyjnego stała się ostateczna, lub
 - **3)** upływu terminu, o którym mowa w ust. 2 pkt 1 lub 2, lub
 - **4)** upływu 3 miesięcy od zakończenia terminu określonego w statucie funduszu inwestycyjnego, o którym mowa w art. 15 ust. 1a, na dokonanie zapisów na certyfikaty inwestycyjne, jeżeli towarzystwo zebrało wpłaty w wysokości określonej w statucie i nie złożyło wniosku o wpisanie funduszu inwestycyjnego do rejestru funduszy inwestycyjnych, lub
-- **5)** upływu terminu określonego w statucie funduszu inwestycyjnego, o którym mowa w art. 15 ust. 1a, na zebranie wpłat na certyfikaty inwestycyjne, jeżeli towarzystwo nie zebrało wpłat w wysokości i terminie określonych w statucie zwraca wpłaty do funduszu inwestycyjnego, w tym przenosi prawa z papierów wartościowych, udziałów w spółkach z ograniczoną odpowiedzialnością oraz przenosi prawa, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, wraz z wartością otrzymanych pożytków i odsetkami naliczonymi przez depozytariusza za okres od dnia wpłaty na rachunek prowadzony przez depozytariusza do dnia wystąpienia jednej z przesłanek wymienionych w pkt 1–5, oraz pobrane opłaty manipulacyjne. ” ;
+- **5)** upływu terminu określonego w statucie funduszu inwestycyjnego, o którym mowa w art. 15 ust. 1a, na zebranie wpłat na certyfikaty inwestycyjne, jeżeli towarzystwo nie zebrało wpłat w wysokości i terminie określonych w statucie – zwraca wpłaty do funduszu inwestycyjnego, w tym przenosi prawa z papierów wartościowych, udziałów w spółkach z ograniczoną odpowiedzialnością oraz przenosi prawa, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, wraz z wartością otrzymanych pożytków i odsetkami naliczonymi przez depozytariusza za okres od dnia wpłaty na rachunek prowadzony przez depozytariusza do dnia wystąpienia jednej z przesłanek wymienionych w pkt 1–5, oraz pobrane opłaty manipulacyjne. ” ;
 - **11)** w art. 38 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
 2a. Przepisu ust. 2 nie stosuje się w przypadku spółki, która zamierza utworzyć wyłącznie fundusz inwestycyjny, o którym mowa w art. 15 ust. 1a. ” ;
@@ -145,8 +144,11 @@ source: "eli-html"
 
 9. Przepisu ust. 3 nie stosuje się do towarzystwa zarządzającego wyłącznie funduszami, o których mowa w art. 183 lub art. 196, które nie są publicznymi funduszami inwestycyjnymi zamkniętymi. ” ;
 
-- **15)** w art. 58: w ust. 1: – pkt 5 otrzymuje brzmienie: „ 5) dane osobowe członków zarządu depozytariusza odpowiedzialnych za wykonywanie funkcji depozytariusza przez jednostkę organizacyjną banku wraz z opisem ich kwalifikacji i doświadczeń zawodowych; ” , – pkt 15 otrzymuje brzmienie: „ 15) dane osobowe osób wyznaczonych przez depozytariusza do wykonywania obowiązków określonych w umowie; ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **15)** w art. 58: w ust. 1: pkt 5 otrzymuje brzmienie: „
     - **a)**
+
+- **5)** dane osobowe członków zarządu depozytariusza odpowiedzialnych za wykonywanie funkcji depozytariusza przez jednostkę organizacyjną banku wraz z opisem ich kwalifikacji i doświadczeń zawodowych; ” , pkt 15 otrzymuje brzmienie: „
+- **15)** dane osobowe osób wyznaczonych przez depozytariusza do wykonywania obowiązków określonych w umowie; ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. W przypadku spółki, która zamierza utworzyć fundusz inwestycyjny, o którym mowa w art. 15 ust. 1a, do wniosku o uzyskanie zezwolenia na wykonywanie działalności przez towarzystwo załącza się dokumenty wskazane w ust. 1 pkt 1–4 oraz 6–12. ” ;
@@ -314,7 +316,7 @@ source: "eli-html"
 7. Statut funduszu, o którym mowa w art. 196:
 
 - **1)** niebędącego publicznym funduszem inwestycyjnym zamkniętym albo
-- **2)** będącego publicznym funduszem inwestycyjnym zamkniętym emitującym certyfikaty inwestycyjne o cenie emisyjnej jednego certyfikatu nie mniejszej niż równowartość w złotych kwoty 40 000 euro może przewidywać, że w przypadku, o którym mowa w ust. 6, towarzystwo zarządzające tym funduszem będzie uprawnione do pobrania opłaty dodatkowej celem pokrycia kosztów organizacji funduszu i utraconych zysków. ” , dodaje się ust. 8 i 9 w brzmieniu: „
+- **2)** będącego publicznym funduszem inwestycyjnym zamkniętym emitującym certyfikaty inwestycyjne o cenie emisyjnej jednego certyfikatu nie mniejszej niż równowartość w złotych kwoty 40 000 euro – może przewidywać, że w przypadku, o którym mowa w ust. 6, towarzystwo zarządzające tym funduszem będzie uprawnione do pobrania opłaty dodatkowej celem pokrycia kosztów organizacji funduszu i utraconych zysków. ” , dodaje się ust. 8 i 9 w brzmieniu: „
     - **d)**
 
 8. Jeżeli do dokonania czynności prawnej ustawa wymaga zgody rady inwestorów lub zgromadzenia inwestorów, czynność prawna dokonana bez wymaganej zgody jest nieważna. Zgoda może być wyrażona przed dokonaniem czynności prawnej albo po jej dokonaniu, nie później jednak niż w terminie 2 miesięcy od dnia dokonania czynności prawnej. Potwierdzenie wyrażone po dokonaniu czynności prawnej ma moc wsteczną od chwili dokonania czynności prawnej.
@@ -344,7 +346,7 @@ source: "eli-html"
 2. Statut funduszu, o którym mowa w art. 196:
 
 - **1)** niebędącego publicznym funduszem inwestycyjnym zamkniętym albo
-- **2)** będącego publicznym funduszem inwestycyjnym zamkniętym emitującym certyfikaty inwestycyjne o cenie emisyjnej jednego certyfikatu nie mniejszej niż równowartość w złotych kwoty 40 000 euro może przewidywać, że w przypadku, o którym mowa w ust. 1, towarzystwo zarządzające tym funduszem będzie uprawnione do pobrania opłaty dodatkowej celem pokrycia kosztów organizacji funduszu i utraconych zysków. ” , w ust. 3 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „
+- **2)** będącego publicznym funduszem inwestycyjnym zamkniętym emitującym certyfikaty inwestycyjne o cenie emisyjnej jednego certyfikatu nie mniejszej niż równowartość w złotych kwoty 40 000 euro – może przewidywać, że w przypadku, o którym mowa w ust. 1, towarzystwo zarządzające tym funduszem będzie uprawnione do pobrania opłaty dodatkowej celem pokrycia kosztów organizacji funduszu i utraconych zysków. ” , w ust. 3 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „
     - **b)**
 
 - **5)** przekształcenie certyfikatów inwestycyjnych imiennych w certyfikaty na okaziciela;
@@ -397,7 +399,7 @@ source: "eli-html"
 - **3)** sposób ustalenia oraz maksymalną wartość ryzyka kontrahenta wynikającą z transakcji, których przedmiotem są niewystandaryzowane instrumenty pochodne,
 - **4)** sposób wyznaczenia oraz wartość maksymalnego zaangażowania funduszu inwestycyjnego zamkniętego w lokaty, o których mowa w art. 145 ust. 1 pkt 5 i 6,
 - **5)** sposób zarządzania ryzykiem inwestycyjnym związanym z lokatami, o których mowa w art. 145 ust. 1 pkt 5 i 6,
-- **6)** warunki, jakie muszą spełniać indeksy stanowiące bazę instrumentów pochodnych, w tym niewystandaryzowanych instrumentów pochodnych w celu zapewnienia ochrony interesów uczestników funduszu inwestycyjnego zamkniętego. ” ;
+- **6)** warunki, jakie muszą spełniać indeksy stanowiące bazę instrumentów pochodnych, w tym niewystandaryzowanych instrumentów pochodnych – w celu zapewnienia ochrony interesów uczestników funduszu inwestycyjnego zamkniętego. ” ;
 - **45)** w art. 157 ust. 1 i 2 otrzymują brzmienie: „
 
 1. Czynności prawne dokonane z naruszeniem ograniczeń, o których mowa w art. 145 ust. 2–8, art. 146, art. 148, art. 149, art. 185 ust. 4 i 5, art. 187 ust. 3 i 4, art. 188 ust. 4 oraz art. 196 ust. 1, są ważne.
@@ -470,7 +472,7 @@ source: "eli-html"
 - **56)** w art. 280 w ust. 1 po pkt 5 dodaje się pkt 5a w brzmieniu: „
 - **5a)** członkowie zgromadzenia inwestorów będący osobami fizycznymi, osoby uprawnione do reprezentowania członków niebędących osobami fizycznymi w zgromadzeniu inwestorów, a także pełnomocnicy członków zgromadzenia inwestorów w przypadku przyznania zgromadzeniu inwestorów uprawnień rady inwestorów zgodnie z art. 144 ust. 7; ” .
 
-**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm.) w art. 6 w ust. 1 w pkt 10a:
+**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 585, Nr 106, poz. 622, Nr 134, poz. 781, Nr 178, poz. 1059 i Nr 205, poz. 1202.) w art. 6 w ust. 1 w pkt 10a:
 
 - **1)** lit. b-d otrzymują brzmienie: „ wyłącznym przedmiotem ich działalności jest zbiorowe lokowanie środków pieniężnych, zebranych w drodze publicznego lub niepublicznego proponowania nabycia ich tytułów uczestnictwa, w papiery wartościowe, instrumenty rynku pieniężnego i inne prawa majątkowe, prowadzą swoją działalność na podstawie zezwolenia właściwych organów nadzoru nad rynkiem finansowym państwa, w którym mają siedzibę, albo prowadzenie przez nie działalności wymaga zawiadomienia właściwych organów nadzoru nad rynkiem finansowym państwa, w którym mają siedzibę, w przypadku gdy: – prowadzą swoją działalność w formie instytucji wspólnego inwestowania typu zamkniętego oraz – zgodnie z dokumentami założycielskimi ich tytuły uczestnictwa nie są oferowane w drodze oferty publicznej ani dopuszczone do obrotu na rynku regulowanym, ani wprowadzone do alternatywnego systemu obrotu oraz mogą być nabywane także przez osoby fizyczne wyłącznie gdy osoby te dokonają jednorazowego nabycia tytułów uczestnictwa o wartości nie mniejszej niż 40 000 euro, ich działalność podlega bezpośredniemu nadzorowi właściwych organów nadzoru nad rynkiem finansowym państwa, w którym mają siedzibę, ” ;
     - **b)**
@@ -504,5 +506,5 @@ source: "eli-html"
 
 **Art. 7.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 126 ust. 3 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 126 ust. 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 9 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228 oraz z 2011 r. Nr 106, poz. 622 i Nr 152, poz. 900. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 585, Nr 106, poz. 622, Nr 134, poz. 781, Nr 178, poz. 1059 i Nr 205, poz. 1202.
 

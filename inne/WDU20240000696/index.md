@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-12 |
 | Data wydania | 2024-05-07 |
-| Wejście w życie | 2024-05-15 |
 | Ostatnia zmiana | 2024-05-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000696) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/696/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej (Dz. U. z 2022 r. poz. 2452) wprowadza się następujące zmiany:
 
-- **1)** w art. 3: w ust. 1: – w pkt 2 wyrazy „przekracza 50 %” zastępuje się wyrazami „przekracza 40 %”, – w pkt 3: – – w lit. a wyrazy „dwukrotności kwoty” zastępuje się wyrazami „dwuipółkrotności kwoty”, – – w lit. b wyrazy „dwukrotności kwoty” zastępuje się wyrazami „dwuipółkrotności kwoty”, ust. 3 otrzymuje brzmienie: „
+- **1)** w art. 3: w ust. 1: – w pkt 2 wyrazy „przekracza 50 %” zastępuje się wyrazami „przekracza 40 %”, w pkt 3: – – w lit. a wyrazy „dwukrotności kwoty” zastępuje się wyrazami „dwuipółkrotności kwoty”, – – w lit. b wyrazy „dwukrotności kwoty” zastępuje się wyrazami „dwuipółkrotności kwoty”, ust. 3 otrzymuje brzmienie: „
     - **a)**
     - **b)**
 
@@ -71,15 +70,17 @@ source: "eli-html"
 
 7. Konsument składa oświadczenia, o których mowa w ust. 6 pkt 5 i 6, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenia jest obowiązany do zawarcia w nich klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. ” ;
 
-- **2)** w art. 76: w ust. 1 w pkt 1 wyrazy „ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807, 1561 i 2456)” zastępuje się wyrazami „ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2024 r. poz. 527)”, w ust. 2: – w pkt 3 dodaje się przecinek i dodaje się pkt 4 w brzmieniu: „ 4) cztery miesiące w 2024 r. ” , – część wspólna otrzymuje brzmienie: „ – jednak łącznie nie dłuższy niż 12 miesięcy. ” , po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
+- **2)** w art. 76: w ust. 1 w pkt 1 wyrazy „ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807, 1561 i 2456)” zastępuje się wyrazami „ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2024 r. poz. 527)”, w ust. 2: w pkt 3 dodaje się przecinek i dodaje się pkt 4 w brzmieniu: „
     - **a)**
     - **b)**
+
+- **4)** cztery miesiące w 2024 r. ” , część wspólna otrzymuje brzmienie: „ – jednak łącznie nie dłuższy niż 12 miesięcy. ” , po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
     - **c)**
 
 2a. W okresie od pierwszego dnia miesiąca następującego po dniu złożenia wniosku o zawieszenie spłaty kredytu dotyczącego okresu, o którym mowa w ust. 2 pkt 4, do dnia 31 grudnia 2024 r. wysokość:
 
 - **1)** stawki czynszu za 1 m2 powierzchni użytkowej za najem lokali mieszkalnych wybudowanych przez kredytobiorcę z wykorzystaniem finansowania zwrotnego lub środków zlikwidowanego Krajowego Funduszu Mieszkaniowego,
-- **2)** opłat, o których mowa w art. 4 ust. 1 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2024 r. poz. 558), z wyjątkiem opłat na pokrycie kosztów niezależnych od spółdzielni, przypadających na lokatorów lokali, o których mowa w pkt 1 nie może przekroczyć wysokości tych stawek lub opłat obowiązujących w dniu 31 grudnia 2023 r.
+- **2)** opłat, o których mowa w art. 4 ust. 1 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2024 r. poz. 558), z wyjątkiem opłat na pokrycie kosztów niezależnych od spółdzielni, przypadających na lokatorów lokali, o których mowa w pkt 1 – nie może przekroczyć wysokości tych stawek lub opłat obowiązujących w dniu 31 grudnia 2023 r.
 
 2b. W terminie 30 dni od dnia złożenia wniosku o zawieszenie spłaty kredytu dotyczącego okresu, o którym mowa w ust. 2 pkt 4, kredytobiorca informuje pisemnie lokatorów lokali mieszkalnych wybudowanych przez kredytobiorcę z wykorzystaniem finansowania zwrotnego lub środków zlikwidowanego Krajowego Funduszu Mieszkaniowego o tym zawieszeniu oraz o ograniczeniach, o których mowa w ust. 2a. ” , w ust. 6 wyrazy „ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego” zastępuje się wyrazami „ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa”.
 

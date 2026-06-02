@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 października 2022 r. o zmianie ustawy o charakterystyce energetycznej budynków oraz ustawy – Prawo budowlane
+# Ustawa z dnia 7 października 2022 r. o zmianie ustawy o charakterystyce energetycznej budynków oraz ustawy – Prawo budowlane Niniejsza ustawa: 1) w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/31/UE z dnia 19 maja 2010 r. w sprawie charakterystyki energetycznej budynków (Dz. Urz. UE L 153 z 18.06.2010, str. 13, Dz. Urz. UE L 156 z 19.06.2018, str. 75 oraz Dz. Urz. UE L 328 z 21.12.2018, str. 1); 2) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1999 z dnia 11 grudnia 2018 r. w sprawie zarządzania unią energetyczną i działaniami w dziedzinie klimatu, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 663/2009 i (WE) nr 715/2009, dyrektyw Parlamentu Europejskiego i Rady 94/22/WE, 98/70/WE, 2009/31/WE, 2009/73/WE, 2010/31/UE, 2012/27/UE i 2013/30/UE, dyrektyw Rady 2009/119/WE i (EU) 2015/652 oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 525/2013 (Dz. Urz. UE L 328 z 21.12.2018, str. 1, Dz. Urz. UE L 85I z 27.03.2019, str. 66, Dz. Urz. UE L 148 z 06.06.2019, str. 37 oraz Dz. Urz. UE L 243 z 09.07.2021, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-07 |
 | Data wydania | 2022-10-27 |
-| Wejście w życie | 2023-04-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002206) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2206/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2021 r. poz. 497) wprowadza się następujące zmiany:
 
-- **1)** odnośnik nr 1 otrzymuje brzmienie: „ Niniejsza ustawa:
+- **1)** odnośnik nr 1 otrzymuje brzmienie: „ Niniejsza ustawa: 1) w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/31/UE z dnia 19 maja 2010 r. w sprawie charakterystyki energetycznej budynków (Dz. Urz. UE L 153 z 18.06.2010, str. 13, Dz. Urz. UE L 156 z 19.06.2018, str. 75 oraz Dz. Urz. UE L 328 z 21.12.2018, str. 1); 2) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1999 z dnia 11 grudnia 2018 r. w sprawie zarządzania unią energetyczną i działaniami w dziedzinie klimatu, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 663/2009 i (WE) nr 715/2009, dyrektyw Parlamentu Europejskiego i Rady 94/22/WE, 98/70/WE, 2009/31/WE, 2009/73/WE, 2010/31/UE, 2012/27/UE i 2013/30/UE, dyrektyw Rady 2009/119/WE i (EU) 2015/652 oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 525/2013 (Dz. Urz. UE L 328 z 21.12.2018, str. 1, Dz. Urz. UE L 85I z 27.03.2019, str. 66, Dz. Urz. UE L 148 z 06.06.2019, str. 37 oraz Dz. Urz. UE L 243 z 09.07.2021, str. 1). Niniejsza ustawa:
 - **1)** w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/31/UE z dnia 19 maja 2010 r. w sprawie charakterystyki energetycznej budynków (Dz. Urz. UE L 153 z 18.06.2010, str. 13, Dz. Urz. UE L 156 z 19.06.2018, str. 75 oraz Dz. Urz. UE L 328 z 21.12.2018, str. 1);
 - **2)** służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1999 z dnia 11 grudnia 2018 r. w sprawie zarządzania unią energetyczną i działaniami w dziedzinie klimatu, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 663/2009 i (WE) nr 715/2009, dyrektyw Parlamentu Europejskiego i Rady 94/22/WE, 98/70/WE, 2009/31/WE, 2009/73/WE, 2010/31/UE, 2012/27/UE i 2013/30/UE, dyrektyw Rady 2009/119/WE i (EU) 2015/652 oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 525/2013 (Dz. Urz. UE L 328 z 21.12.2018, str. 1, Dz. Urz. UE L 85I z 27.03.2019, str. 66, Dz. Urz. UE L 148 z 06.06.2019, str. 37 oraz Dz. Urz. UE L 243 z 09.07.2021, str. 1). ” ;
 - **2)** w art. 3: w ust. 1 skreśla się wyrazy „lub najemca w przypadku, o którym mowa w art. 11 ust. 3,”, ust. 3 otrzymuje brzmienie: „
@@ -221,7 +220,7 @@ source: "eli-html"
 
 3. Strategię przyjmuje, w drodze uchwały, Rada Ministrów.
 
-4. Strategia stanowi załącznik do zintegrowanego krajowego planu w dziedzinie energii i klimatu, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2018/1999 z dnia 11 grudnia 2018 r. w sprawie zarządzania unią energetyczną i działaniami w dziedzinie klimatu, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 663/2009 i (WE) nr 715/2009, dyrektyw Parlamentu Europejskiego i Rady 94/22/WE, 98/70/WE, 2009/31/WE, 2009/73/WE, 2010/31/UE, 2012/27/UE i 2013/30/UE, dyrektyw Rady 2009/119/WE i (EU) 2015/652 oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 525/2013 (Dz. Urz. UE L 328 z 21.12.2018, str. 1, z późn. zm.).
+4. Strategia stanowi załącznik do zintegrowanego krajowego planu w dziedzinie energii i klimatu, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2018/1999 z dnia 11 grudnia 2018 r. w sprawie zarządzania unią energetyczną i działaniami w dziedzinie klimatu, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 663/2009 i (WE) nr 715/2009, dyrektyw Parlamentu Europejskiego i Rady 94/22/WE, 98/70/WE, 2009/31/WE, 2009/73/WE, 2010/31/UE, 2012/27/UE i 2013/30/UE, dyrektyw Rady 2009/119/WE i (EU) 2015/652 oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 525/2013 (Dz. Urz. UE L 328 z 21.12.2018, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 85I z 27.03.2019, str. 66, Dz. Urz. UE L 148 z 06.06.2019, str. 37 oraz Dz. Urz. UE L 243 z 09.07.2021, str. 1.).
 
 5. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa przekazuje ministrowi właściwemu do spraw energii niezbędne informacje w zakresie swojej właściwości w celu aktualizacji zintegrowanego krajowego planu w dziedzinie energii i klimatu oraz sporządzania sprawozdania z realizacji tego planu. ” ;
 
@@ -237,7 +236,7 @@ source: "eli-html"
 - **4)** nie wykonuje obowiązku, o którym mowa w art. 20 ust. 1 pkt 2 lub 3,
 - **5)** nie wykonuje obowiązku, o którym mowa w art. 23 ust. 1,
 - **6)** dokonuje kontroli systemu ogrzewania lub systemu klimatyzacji, nie spełniając wymagań, o których mowa w art. 24 ust. 1, lub nie będąc wpisanym do wykazu, o którym mowa w art. 31 ust. 1 pkt 2,
-- **7)** sporządza i przekazuje jako protokół z kontroli systemu ogrzewania lub systemu klimatyzacji dokument sporządzony niezgodnie z art. 28 ust. 2 podlega karze grzywny.
+- **7)** sporządza i przekazuje jako protokół z kontroli systemu ogrzewania lub systemu klimatyzacji dokument sporządzony niezgodnie z art. 28 ust. 2 – podlega karze grzywny.
 
 2. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1 pkt 3 lub 5, działając w imieniu osoby fizycznej, osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej. ” .
 
@@ -256,7 +255,7 @@ source: "eli-html"
 1. Właściciel lub zarządca budynku, jeżeli jest to uzasadnione technicznie i opłacalne z ekonomicznego punktu widzenia, w terminie do dnia 31 grudnia 2024 r., wyposaża budynek niemieszkalny z systemem:
 
 - **1)** ogrzewania lub połączonym systemem ogrzewania i wentylacji o sumarycznej nominalnej mocy cieplnej ponad 290 kW,
-- **2)** klimatyzacji lub połączonym systemem klimatyzacji i wentylacji o nominalnej sumarycznej mocy chłodniczej ponad 290 kW w system automatyki i sterowania dla budynków, o których mowa w art. 23 ust. 6 pkt 2 ustawy zmienianej w art. 1.
+- **2)** klimatyzacji lub połączonym systemem klimatyzacji i wentylacji o nominalnej sumarycznej mocy chłodniczej ponad 290 kW – w system automatyki i sterowania dla budynków, o których mowa w art. 23 ust. 6 pkt 2 ustawy zmienianej w art. 1.
 
 2. Wymaganie, o którym mowa w ust. 1, w przypadku możliwości realizacji z:
 
@@ -282,5 +281,5 @@ source: "eli-html"
 
 **Art. 9.** Długoterminowa strategia renowacji budynków przyjęta uchwałą Rady Ministrów w dniu 9 lutego 2022 r. stanowi strategię, o której mowa w art. 39a ustawy zmienianej w art. 1.
 
-**Art. 10.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 10.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa: 1) w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/31/UE z dnia 19 maja 2010 r. w sprawie charakterystyki energetycznej budynków (Dz. Urz. UE L 153 z 18.06.2010, str. 13, Dz. Urz. UE L 156 z 19.06.2018, str. 75 oraz Dz. Urz. UE L 328 z 21.12.2018, str. 1); 2) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1999 z dnia 11 grudnia 2018 r. w sprawie zarządzania unią energetyczną i działaniami w dziedzinie klimatu, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 663/2009 i (WE) nr 715/2009, dyrektyw Parlamentu Europejskiego i Rady 94/22/WE, 98/70/WE, 2009/31/WE, 2009/73/WE, 2010/31/UE, 2012/27/UE i 2013/30/UE, dyrektyw Rady 2009/119/WE i (EU) 2015/652 oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 525/2013 (Dz. Urz. UE L 328 z 21.12.2018, str. 1, Dz. Urz. UE L 85I z 27.03.2019, str. 66, Dz. Urz. UE L 148 z 06.06.2019, str. 37 oraz Dz. Urz. UE L 243 z 09.07.2021, str. 1). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 85I z 27.03.2019, str. 66, Dz. Urz. UE L 148 z 06.06.2019, str. 37 oraz Dz. Urz. UE L 243 z 09.07.2021, str. 1.
 

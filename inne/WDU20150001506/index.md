@@ -22,15 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-05 |
 | Data wydania | 2015-09-30 |
-| Wejście w życie | 2015-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001506) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1506/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2015 r. poz. 704, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2015 r. poz. 704, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1066, 1217 i 1268.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 dodaje się ust. 5–7 w brzmieniu: „
 
-5. Przepis ust. 4 nie ma zastosowania do osób, za które wójt opłaca składki na ubezpieczenie emerytalno-rentowe w związku z pobieraniem świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego na podstawie ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2015 r. poz. 114, z późn. zm.) albo zasiłku dla opiekuna na podstawie ustawy z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. poz. 567 oraz z 2015 r. poz. 1240 i 1359).
+5. Przepis ust. 4 nie ma zastosowania do osób, za które wójt opłaca składki na ubezpieczenie emerytalno-rentowe w związku z pobieraniem świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego na podstawie ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2015 r. poz. 114, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 693, 995, 1217, 1240, 1268, 1302 i 1359.) albo zasiłku dla opiekuna na podstawie ustawy z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. poz. 567 oraz z 2015 r. poz. 1240 i 1359).
 
 6. Jeżeli wniosek o objęcie ubezpieczeniem na podstawie art. 16 ust. 2 pkt 4 złożony został w ciągu 30 dni od dnia wydania przez wójta decyzji przyznającej świadczenie pielęgnacyjne lub specjalny zasiłek opiekuńczy na podstawie ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych albo zasiłek dla opiekuna na podstawie ustawy z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów, objęcie tym ubezpieczeniem następuje od dnia przyznania prawa do tego świadczenia albo zasiłku.
 
@@ -52,15 +51,15 @@ source: "eli-html"
 
 5. Kasa niezwłocznie przekazuje właściwemu wójtowi odpis decyzji stwierdzającej podleganie ubezpieczeniu emerytalno-rentowemu przez osobę, o której mowa w art. 16 ust. 2 pkt 4, lub ustanie ubezpieczenia takiej osoby. ” .
 
-**Art. 2.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2015 r. poz. 121, z późn. zm.) w art. 6 ust. 2b otrzymuje brzmienie: „ 2b. Wójt, burmistrz lub prezydent miasta nie opłaca składki na ubezpieczenia emerytalne i rentowe za osobę pobierającą świadczenie pielęgnacyjne, specjalny zasiłek opiekuńczy albo zasiłek dla opiekuna, jeżeli podlega ona obowiązkowi ubezpieczenia społecznego z innego tytułu na podstawie ustawy lub na podstawie odrębnych przepisów lub jest ubezpieczona na podstawie art. 16 ust. 2 pkt 4 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2015 r. poz. 704, z późn. zm.). ” .
+**Art. 2.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2015 r. poz. 121, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 689, 978, 1037, 1066, 1240, 1268 i 1269.) w art. 6 ust. 2b otrzymuje brzmienie: „ 2b. Wójt, burmistrz lub prezydent miasta nie opłaca składki na ubezpieczenia emerytalne i rentowe za osobę pobierającą świadczenie pielęgnacyjne, specjalny zasiłek opiekuńczy albo zasiłek dla opiekuna, jeżeli podlega ona obowiązkowi ubezpieczenia społecznego z innego tytułu na podstawie ustawy lub na podstawie odrębnych przepisów lub jest ubezpieczona na podstawie art. 16 ust. 2 pkt 4 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2015 r. poz. 704, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1066, 1217, 1268 i 1506.). ” .
 
 **Art. 3.**
 
-1. Osoba, która przed dniem wejścia w życie niniejszej ustawy nabyła prawo do świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego na podstawie ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2015 r. poz. 114, z późn. zm.) albo do zasiłku dla opiekuna na podstawie ustawy z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. poz. 567 oraz z 2015 r. poz. 1240 i 1359), i podlega z tego tytułu ubezpieczeniom emerytalnemu i rentowym na podstawie ustawy zmienianej w art. 2, może złożyć wniosek o odstąpienie od tych ubezpieczeń i objęcie jej ubezpieczeniem emerytalno-rentowym na podstawie art. 16 ust. 2 pkt 4 ustawy zmienianej w art. 1.
+1. Osoba, która przed dniem wejścia w życie niniejszej ustawy nabyła prawo do świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego na podstawie ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2015 r. poz. 114, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 693, 995, 1217, 1240, 1268, 1302 i 1359.) albo do zasiłku dla opiekuna na podstawie ustawy z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. poz. 567 oraz z 2015 r. poz. 1240 i 1359), i podlega z tego tytułu ubezpieczeniom emerytalnemu i rentowym na podstawie ustawy zmienianej w art. 2, może złożyć wniosek o odstąpienie od tych ubezpieczeń i objęcie jej ubezpieczeniem emerytalno-rentowym na podstawie art. 16 ust. 2 pkt 4 ustawy zmienianej w art. 1.
 
 2. Wniosek, o którym mowa w ust. 1, osoba zainteresowana składa wójtowi, burmistrzowi lub prezydentowi miasta, który wypłaca świadczenie pielęgnacyjne, specjalny zasiłek opiekuńczy albo zasiłek dla opiekuna w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 3. Kopię wniosku, o którym mowa w ust. 1, wójt, burmistrz lub prezydent miasta, który wypłaca zainteresowanemu świadczenie pielęgnacyjne, specjalny zasiłek opiekuńczy albo zasiłek dla opiekuna, przekazuje do Kasy Rolniczego Ubezpieczenia Społecznego wraz z informacją o dniu wyrejestrowania zainteresowanego z ubezpieczeń społecznych na podstawie ustawy zmienianej w art. 2.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem 1 października 2015 r.
+**Art. 4.** Ustawa wchodzi w życie z dniem 1 października 2015 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1066, 1217 i 1268. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 693, 995, 1217, 1240, 1268, 1302 i 1359. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 689, 978, 1037, 1066, 1240, 1268 i 1269. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1066, 1217, 1268 i 1506. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 693, 995, 1217, 1240, 1268, 1302 i 1359.
 

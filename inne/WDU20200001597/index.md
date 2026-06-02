@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 15 września 2020 r. zmieniające rozporządzenie w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 15 września 2020 r. zmieniające rozporządzenie w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-15 |
 | Data wydania | 2020-09-16 |
-| Wejście w życie | 2020-09-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001597) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1597/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 16 ust. 3 pkt 2 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2019 r. poz. 1776) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2020 r. w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych (Dz. U. poz. 435, z późn. zm.) w § 3 w ust. 2 w pkt 17 kropkę zastępuje się średnikiem i dodaje się pkt 18–20 w brzmieniu:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2020 r. w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych (Dz. U. poz. 435, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2020 r. poz. 469, 864, 905, 1030, 1045, 1183, 1379, 1424 i 1448.) w § 3 w ust. 2 w pkt 17 kropkę zastępuje się średnikiem i dodaje się pkt 18–20 w brzmieniu: „
 18)
 obywatele Republiki Białorusi przekraczający granicę Rzeczypospolitej Polskiej na podstawie wizy wydanej w celach turystycznych;
 19)
@@ -40,9 +38,7 @@ marynarze lub rybacy udający się do portu, również innym niż statek środki
 b)
 osoby wykonujące pracę lub świadczące usługi na statkach lub morskich platformach wydobywczych i wiertniczych, w oparciu o inny stosunek niż marynarska umowa o pracę;
 20)
-cudzoziemcy, którzy uzyskali wizę w celu udziału w programie Poland. Business Harbour.
-” .
+cudzoziemcy, którzy uzyskali wizę w celu udziału w programie Poland. Business Harbour. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2020 r. poz. 469, 864, 905, 1030, 1045, 1183, 1379, 1424 i 1448.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2020 r. poz. 469, 864, 905, 1030, 1045, 1183, 1379, 1424 i 1448.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-28 |
 | Data wydania | 2017-06-30 |
-| Wejście w życie | 2017-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001305) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1305/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie mieleckiej specjalnej strefy ekonomicznej (Dz. U. z 2016 r. poz. 173 i 2240) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 1723,9743 ha, położone na terenach miast: Chełm, Częstochowa, Dębica, Gorlice, Jarosław, Jasło, Krasnystaw, Kraśnik, Krosno, Leżajsk, Lubaczów, Lubartów, Lublin, Łańcut, Mielec, Międzyrzec Podlaski, Radzyń Podlaski, Rzeszów, Sanok, Szczecin, Zamość oraz gmin: Brzozów, Dębica, Głogów Małopolski, Jedlicze, Kolbuszowa, Leżajsk, Łańcut, Ostrów, Radomyśl Wielki, Rejowiec Fabryczny, Ropczyce, Sędziszów Małopolski, Strzyżów, Trzebownisko i Zagórz.
-” ;
+Strefa obejmuje grunty o powierzchni 1723,9743 ha, położone na terenach miast: Chełm, Częstochowa, Dębica, Gorlice, Jarosław, Jasło, Krasnystaw, Kraśnik, Krosno, Leżajsk, Lubaczów, Lubartów, Lublin, Łańcut, Mielec, Międzyrzec Podlaski, Radzyń Podlaski, Rzeszów, Sanok, Szczecin, Zamość oraz gmin: Brzozów, Dębica, Głogów Małopolski, Jedlicze, Kolbuszowa, Leżajsk, Łańcut, Ostrów, Radomyśl Wielki, Rejowiec Fabryczny, Ropczyce, Sędziszów Małopolski, Strzyżów, Trzebownisko i Zagórz. ” ;
 2)
 w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU SPECJALNEJ STREFY EKONOMICZNEJ EURO-PARK MIELEC:
 a)

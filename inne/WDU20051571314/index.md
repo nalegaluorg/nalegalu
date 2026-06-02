@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-01 |
 | Data wydania | 2005-08-19 |
-| Wejście w życie | 2005-09-03 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051571314) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1314/text.pdf) |
 
@@ -49,7 +48,7 @@ source: "eli-html"
 
 3. Do okresu, o którym mowa w ust. 2, wlicza się wszystkie okresy, za które była opłacana składka na ubezpieczenie społeczne lub zaopatrzenie emerytalne, z wyłączeniem okresów zatrudnienia na podstawie umowy o pracę w celu przygotowania zawodowego. ” .
 
-**Art. 2.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. Nr 86, poz. 789, z późn. zm.) w art. 22 ust. 3 otrzymuje brzmienie: „ 3. Wysokość opłat związanych ze stwierdzeniem kwalifikacji pracowników, o których mowa w ust. 2 pkt 1, nie może przekraczać kwoty 84,90 zł, która jest waloryzowana w każdym roku średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym w ustawie budżetowej. ” .
+**Art. 2.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. Nr 86, poz. 789, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652 i Nr 203, poz. 1966 oraz z 2004 r. Nr 92, poz. 883, Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808.) w art. 22 ust. 3 otrzymuje brzmienie: „ 3. Wysokość opłat związanych ze stwierdzeniem kwalifikacji pracowników, o których mowa w ust. 2 pkt 1, nie może przekraczać kwoty 84,90 zł, która jest waloryzowana w każdym roku średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym w ustawie budżetowej. ” .
 
 **Art. 3.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135 oraz z 2005 r. Nr 94, poz. 788, Nr 132, poz. 1110 i Nr 138, poz. 1154) w art. 36:
 
@@ -77,5 +76,5 @@ ust. 1 otrzymuje brzmienie: „
 
 1a. Kwoty, o których mowa w ust. 1, są waloryzowane w każdym roku średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym w ustawie budżetowej. ” .
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4 i art. 4, które wchodzą w życie z dniem 1 stycznia 2006 r.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4 i art. 4, które wchodzą w życie z dniem 1 stycznia 2006 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652 i Nr 203, poz. 1966 oraz z 2004 r. Nr 92, poz. 883, Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808.
 

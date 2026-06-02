@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie granicy państwowej oraz niektórych innych ustaw
+# Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie granicy państwowej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 12 października 1990 r. o Straży Granicznej i ustawę z dnia 29 września 2021 r. o rekompensacie w związku z wprowadzeniem stanu wyjątkowego na obszarze części województwa podlaskiego oraz części województwa lubelskiego w 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-17 |
 | Data wydania | 2021-11-30 |
-| Wejście w życie | 2021-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002191) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2191/text.pdf) |
 
@@ -140,7 +139,7 @@ source: "eli-html"
 **Art. 7.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 38 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 38 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą,
-- **2)** art. 91 ust. 2 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 91 ust. 2 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie art. 2 pkt 4 i 6 niniejszej ustawy.
+- **2)** art. 91 ust. 2 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 91 ust. 2 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą – nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie art. 2 pkt 4 i 6 niniejszej ustawy.
 
-**Art. 8.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 2 pkt 2–6 oraz art. 4–7, które wchodzą w życie z dniem 1 stycznia 2022 r.
+**Art. 8.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 2 pkt 2–6 oraz art. 4–7, które wchodzą w życie z dniem 1 stycznia 2022 r. 1) Niniejszą ustawą zmienia się ustawę z dnia 12 października 1990 r. o Straży Granicznej i ustawę z dnia 29 września 2021 r. o rekompensacie w związku z wprowadzeniem stanu wyjątkowego na obszarze części województwa podlaskiego oraz części województwa lubelskiego w 2021 r.
 

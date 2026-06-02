@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1994-06-30 |
 | Data wydania | 1994-07-25 |
-| Wejście w życie | 1994-11-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940840385) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/385/text.pdf) |
 
@@ -51,7 +50,7 @@ source: "eli-html"
 2. Za pracę równorzędną z pracą górniczą uważa się:
 
 - **1)** pełnienie przez pracowników funkcji z wyboru w organach związku zawodowego zrzeszającego pracowników kopalń, przedsiębiorstw i innych podmiotów określonych w ust. 1 pkt 1–4, jeżeli pracownicy ci bezpośrednio przed objęciem tych funkcji wykonywali pracę górniczą, o której mowa w ust. 1,
-- **2)** zatrudnienie na stanowiskach wymagających kwalifikacji inżyniera lub technika w zakresie górnictwa: w administracji kopalń, przedsiębiorstw i innych podmiotów określonych w ust. 1 pkt 1–4 oraz w zarządach spółek węglowych, byłych gwarectwach, zrzeszeniach i zjednoczeniach tych kopalń i przedsiębiorstw, w urzędach górniczych, na stanowiskach nauczycieli w górniczych szkołach zawodowych i technikach, w urzędach naczelnych i centralnych organów administracji państwowej oraz w urzędach terenowych organów administracji, będących organami założycielskimi kopalń i przedsiębiorstw określonych w ust. 1 pkt 1–4, jak również w jednostkach podległych tym organom, jeżeli jednostki te działają w zakresie przemysłów określonych w ust. 1 pkt 1–4 pod warunkiem uprzedniego przepracowania w kopalniach, przedsiębiorstwach i innych podmiotach określonych w ust. 1 pkt 1–4 co najmniej 5 lat pod ziemią, na odkrywce w kopalniach siarki lub węgla brunatnego, jak też w kopalniach otworowych siarki albo na stanowiskach dozoru lub kierownictwa ruchu,
+- **2)** zatrudnienie na stanowiskach wymagających kwalifikacji inżyniera lub technika w zakresie górnictwa: w administracji kopalń, przedsiębiorstw i innych podmiotów określonych w ust. 1 pkt 1–4 oraz w zarządach spółek węglowych, byłych gwarectwach, zrzeszeniach i zjednoczeniach tych kopalń i przedsiębiorstw, w urzędach górniczych, na stanowiskach nauczycieli w górniczych szkołach zawodowych i technikach, w urzędach naczelnych i centralnych organów administracji państwowej oraz w urzędach terenowych organów administracji, będących organami założycielskimi kopalń i przedsiębiorstw określonych w ust. 1 pkt 1–4, jak również w jednostkach podległych tym organom, jeżeli jednostki te działają w zakresie przemysłów określonych w ust. 1 pkt 1–4 – pod warunkiem uprzedniego przepracowania w kopalniach, przedsiębiorstwach i innych podmiotach określonych w ust. 1 pkt 1–4 co najmniej 5 lat pod ziemią, na odkrywce w kopalniach siarki lub węgla brunatnego, jak też w kopalniach otworowych siarki albo na stanowiskach dozoru lub kierownictwa ruchu,
     - **a)**
     - **b)**
     - **c)**
@@ -80,7 +79,7 @@ source: "eli-html"
 2. Do okresów pracy górniczej, o której mowa w ust. 1, zalicza się także:
 
 - **1)** okresy niezdolności do pracy z tytułu wypadku przy pracy, wypadku w drodze do pracy lub z pracy albo z tytułu choroby zawodowej, za które wypłacone zostało wynagrodzenie lub zasiłek chorobowy albo świadczenie rehabilitacyjne,
-- **2)** inne niż wymienione w pkt 1 okresy niezdolności do pracy z powodu choroby lub odosobnienia w związku z chorobą zakaźną, za które wypłacone zostało wynagrodzenie lub zasiłek chorobowy w wymiarze do 35 dni w roku kalendarzowym bezpośrednio poprzedzone pracą górniczą wykonywaną pod ziemią stale i w pełnym wymiarze czasu pracy, przypadające w czasie trwania stosunku pracy.
+- **2)** inne niż wymienione w pkt 1 okresy niezdolności do pracy z powodu choroby lub odosobnienia w związku z chorobą zakaźną, za które wypłacone zostało wynagrodzenie lub zasiłek chorobowy w wymiarze do 35 dni w roku kalendarzowym – bezpośrednio poprzedzone pracą górniczą wykonywaną pod ziemią stale i w pełnym wymiarze czasu pracy, przypadające w czasie trwania stosunku pracy.
 
 3. Przy ustalaniu prawa do górniczej emerytury na podstawie ust. 1 uwzględnia się również, w wymiarze do lat trzech, okres urlopu górniczego, o którym mowa w art. 5 ust. 1a. ” ;
 
@@ -100,12 +99,12 @@ source: "eli-html"
 1. Osobie, która nie spełnia warunków wymaganych do uzyskania górniczej emerytury na podstawie art. 9 lub 10 ustawy o zaopatrzeniu emerytalnym górników i ich rodzin i która ma co najmniej 5 lat:
 
 - **1)** pracy pod ziemią, o której mowa w art. 10 ust. 1 tej ustawy, albo
-- **2)** pracy wykonywanej stale i w pełnym wymiarze czasu pracy na odkrywce w kopalniach siarki i węgla brunatnego, jak też w kopalniach otworowych siarki, o której mowa w art. 5 ust. 1 pkt 4 i 5 tej ustawy, przy ustalaniu uprawnień do emerytury na podstawie przepisów o zaopatrzeniu emerytalnym lub ubezpieczeniu społecznym, o których mowa w art. 1 pkt 1–5 i 7 ustawy z dnia 17 października 1991 r. o rewaloryzacji emerytur i rent, o zasadach ustalania emerytur i rent oraz o zmianie niektórych ustaw (Dz. U. Nr 104, poz. 450, z 1992 r. Nr 21, poz. 84 oraz z 1993 r. Nr 127, poz. 583 i Nr 129, poz. 602), obniża się powszechnie obowiązujący wiek emerytalny, wynoszący 60 lat dla kobiety i 65 lat dla mężczyzny, o 6 miesięcy za każdy pełny rok takiej pracy, nie więcej jednak niż o 15 lat.
+- **2)** pracy wykonywanej stale i w pełnym wymiarze czasu pracy na odkrywce w kopalniach siarki i węgla brunatnego, jak też w kopalniach otworowych siarki, o której mowa w art. 5 ust. 1 pkt 4 i 5 tej ustawy, – przy ustalaniu uprawnień do emerytury na podstawie przepisów o zaopatrzeniu emerytalnym lub ubezpieczeniu społecznym, o których mowa w art. 1 pkt 1–5 i 7 ustawy z dnia 17 października 1991 r. o rewaloryzacji emerytur i rent, o zasadach ustalania emerytur i rent oraz o zmianie niektórych ustaw (Dz. U. Nr 104, poz. 450, z 1992 r. Nr 21, poz. 84 oraz z 1993 r. Nr 127, poz. 583 i Nr 129, poz. 602), obniża się powszechnie obowiązujący wiek emerytalny, wynoszący 60 lat dla kobiety i 65 lat dla mężczyzny, o 6 miesięcy za każdy pełny rok takiej pracy, nie więcej jednak niż o 15 lat.
 
 2. Przy ustalaniu wysokości emerytur i rent przysługujących na podstawie przepisów o zaopatrzeniu emerytalnym lub ubezpieczeniu społecznym, o których mowa w art. 1 pkt 1–5, 7 i 9 ustawy o rewaloryzacji emerytur i rent, o zasadach ustalania emerytur i rent oraz o zmianie niektórych ustaw, stosuje się następujące przeliczniki:
 
 - **1)** 1,5 za każdy rok pracy górniczej pod ziemią, o której mowa w art. 10 ust. 1 ustawy o zaopatrzeniu emerytalnym górników i ich rodzin,
-- **2)** 1,8 za każdy rok pracy górniczej pod ziemią, o której mowa w art. 6 ust. 1 ustawy wymienionej w pkt 1, pod warunkiem wykonywania takiej pracy co najmniej przez 5 lat, z zastrzeżeniem ust. 3.
+- **2)** 1,8 za każdy rok pracy górniczej pod ziemią, o której mowa w art. 6 ust. 1 ustawy wymienionej w pkt 1, – pod warunkiem wykonywania takiej pracy co najmniej przez 5 lat, z zastrzeżeniem ust. 3.
 
 3. Przy ustalaniu wysokości emerytur i rent łączny okres pracy obliczony z zastosowaniem przeliczników, o których mowa w ust. 2, uwzględnia się w wymiarze nie dłuższym niż 40 lat.
 
@@ -120,7 +119,7 @@ source: "eli-html"
 1. Na wniosek osoby uprawnionej do emerytury lub renty na podstawie przepisów ustawy o zaopatrzeniu emerytalnym górników i ich rodzin, której:
 
 - **1)** świadczenie zrewaloryzowano w myśl art. 27–30 i 32 ustawy o rewaloryzacji emerytur i rent, o zasadach ustalania emerytur i rent oraz o zmianie niektórych ustaw,
-- **2)** ustalono prawo do świadczenia w okresie od dnia 15 listopada 1991 r. do dnia wejścia w życie niniejszej ustawy dokonuje się ponownego obliczenia emerytury lub renty, z zastosowaniem art. 10a ust. 1 pkt 3 ustawy o zaopatrzeniu emerytalnym górników i ich rodzin. Jeżeli wniosek zostanie zgłoszony w ciągu 12 miesięcy od dnia wejścia w życie niniejszej ustawy, podwyższenie świadczenia następuje: od dnia 1 listopada 1991 r., jeżeli świadczenie podlegało rewaloryzacji, od dnia, od którego ustalono prawo do świadczenia.
+- **2)** ustalono prawo do świadczenia w okresie od dnia 15 listopada 1991 r. do dnia wejścia w życie niniejszej ustawy – dokonuje się ponownego obliczenia emerytury lub renty, z zastosowaniem art. 10a ust. 1 pkt 3 ustawy o zaopatrzeniu emerytalnym górników i ich rodzin. Jeżeli wniosek zostanie zgłoszony w ciągu 12 miesięcy od dnia wejścia w życie niniejszej ustawy, podwyższenie świadczenia następuje: od dnia 1 listopada 1991 r., jeżeli świadczenie podlegało rewaloryzacji, od dnia, od którego ustalono prawo do świadczenia.
     - **a)**
     - **b)**
 
@@ -131,7 +130,7 @@ source: "eli-html"
 1. Emerytom i rencistom, o których mowa w art. 30 ust. 1 pkt 2 ustawy o narodowych funduszach inwestycyjnych i ich prywatyzacji, spełniającym warunki do podwyższenia emerytury lub renty na podstawie:
 
 - **1)** art. 10a ust. 1 ustawy o zaopatrzeniu emerytalnym górników i ich rodzin,
-- **2)** art. 4 ust. 2 niniejszej ustawy przysługują, na ich wniosek, zamiast tego podwyższenia, rekompensacyjne świadectwa udziałowe.
+- **2)** art. 4 ust. 2 niniejszej ustawy – przysługują, na ich wniosek, zamiast tego podwyższenia, rekompensacyjne świadectwa udziałowe.
 
 2. Emerytom i rencistom, którzy otrzymali rekompensacyjne świadectwa udziałowe, nie przysługuje podwyższenie emerytury lub renty na podstawie przepisów powołanych w ust. 1.
 

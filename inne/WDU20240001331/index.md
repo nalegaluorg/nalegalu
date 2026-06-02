@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 3 września 2024 r. w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z udzieleniem nadzwyczajnego wsparcia finansowego sektorowi owoców i warzyw oraz sektorowi wina dotkniętym niekorzystnymi zjawiskami klimatycznymi
+# Rozporządzenie Rady Ministrówz dnia 3 września 2024 r. w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z udzieleniem nadzwyczajnego wsparcia finansowego sektorowi owoców i warzyw oraz sektorowi wina dotkniętym niekorzystnymi zjawiskami klimatycznymi Niniejsze rozporządzenie służy stosowaniu rozporządzenia wykonawczego Komisji (UE) 2024/2030 z dnia 23 lipca 2024 r. w sprawie udzielenia nadzwyczajnego wsparcia finansowego sektorowi owoców i warzyw oraz sektorowi wina dotkniętym niekorzystnymi zjawiskami klimatycznymi w Austrii, Czechach i Polsce, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1308/2013 (Dz. Urz. UE L 2024/2030 z 24.07.2024).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-03 |
 | Data wydania | 2024-09-06 |
-| Wejście w życie | 2024-09-07 |
 | Ostatnia zmiana | 2024-09-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001331) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1331/text.pdf) |
 
@@ -70,7 +69,7 @@ imię i nazwisko albo nazwę producenta rolnego;
 2)
 numer identyfikacyjny, o którym mowa w art. 12 ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, zwanej dalej „ustawą o KSEP”;
 3)
-informację o stracie plonu uzyskiwanego z uprawy wyrażonej w procentach, która została określona w protokole oszacowania szkód, o którym mowa w § 5 ust. 5 rozporządzenia Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.), zwanego dalej „rozporządzeniem ARiMR”;
+informację o stracie plonu uzyskiwanego z uprawy wyrażonej w procentach, która została określona w protokole oszacowania szkód, o którym mowa w § 5 ust. 5 rozporządzenia Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354, z 2021 r. poz. 926, 1311, 1387, 1528, 1698 i 2087, z 2022 r. poz. 45, 642, 1000, 1172, 1536, 2117, 2315 i 2399, z 2023 r. poz. 308, 757, 761, 929, 1050, 1126, 1200, 1306, 1350, 1732, 1965, 2193, 2200, 2351, 2564 i 2667 oraz z 2024 r. poz. 657, 963 i 1074.), zwanego dalej „rozporządzeniem ARiMR”;
 4)
 informację o powierzchni uprawy wyrażonej w hektarach, na której wystąpiły szkody, o których mowa w § 3 ust. 1 pkt 3, która została określona w protokole oszacowania szkód, o którym mowa w § 5 ust. 5 rozporządzenia ARiMR;
 5)
@@ -135,7 +134,7 @@ Współczynnik korygujący, o którym mowa w ust. 1, jest ustalany z dokładnoś
 § 10.
 Pomoc jest wypłacana na rachunek producenta rolnego, o którym mowa w art. 7 ust. 1 pkt 6 ustawy o KSEP.
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsze rozporządzenie służy stosowaniu rozporządzenia wykonawczego Komisji (UE) 2024/2030 z dnia 23 lipca 2024 r. w sprawie udzielenia nadzwyczajnego wsparcia finansowego sektorowi owoców i warzyw oraz sektorowi wina dotkniętym niekorzystnymi zjawiskami klimatycznymi w Austrii, Czechach i Polsce, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1308/2013 (Dz. Urz. UE L 2024/2030 z 24.07.2024). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354, z 2021 r. poz. 926, 1311, 1387, 1528, 1698 i 2087, z 2022 r. poz. 45, 642, 1000, 1172, 1536, 2117, 2315 i 2399, z 2023 r. poz. 308, 757, 761, 929, 1050, 1126, 1200, 1306, 1350, 1732, 1965, 2193, 2200, 2351, 2564 i 2667 oraz z 2024 r. poz. 657, 963 i 1074.
 Załącznik – Wykaz upraw, o których mowa w § 3 ust. 1 pkt 2 rozporządzenia
 1.
 I grupa upraw:

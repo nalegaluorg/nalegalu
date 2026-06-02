@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 13 lipca 2017 r. w sprawie używania wyrobów tytoniowych na terenie obiektów jednostek organizacyjnych lub organów podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych oraz urzędu obsługującego tego ministra
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 13 lipca 2017 r. w sprawie używania wyrobów tytoniowych na terenie obiektów jednostek organizacyjnych lub organów podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych oraz urzędu obsługującego tego ministra Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088 oraz z 2017 r. poz. 1140).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-13 |
 | Data wydania | 2017-08-02 |
-| Wejście w życie | 2017-08-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001482) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1482/text.pdf) |
 
@@ -81,6 +80,5 @@ w pomieszczeniach znajdujących się na terenie ośrodków szkoleniowych, szkó�
 2.
 Dopuszcza się używanie wyrobów tytoniowych na zewnątrz budynku ośrodka szkoleniowego, budynku szkoły aspirantów lub budynku szkoły wyższej, a także budynków jednostek szkoleniowych Policji. Przepis § 3 ust. 3 stosuje się odpowiednio.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088 oraz z 2017 r. poz. 1140). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 11 maja 2011 r. w sprawie szczegółowych warunków używania wyrobów tytoniowych na terenie obiektów oraz w środkach przewozu osób podlegających ministrowi właściwemu do spraw wewnętrznych (Dz. U. poz. 564), które, na podstawie art. 10 ustawy z dnia 22 lipca 2016 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. poz. 1331), traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 11 maja 2011 r. w sprawie szczegółowych warunków używania wyrobów tytoniowych na terenie obiektów oraz w środkach przewozu osób podlegających ministrowi właściwemu do spraw wewnętrznych (Dz. U. poz. 564), które, na podstawie art. 10 ustawy z dnia 22 lipca 2016 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. poz. 1331), traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088 oraz z 2017 r. poz. 1140). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 11 maja 2011 r. w sprawie szczegółowych warunków używania wyrobów tytoniowych na terenie obiektów oraz w środkach przewozu osób podlegających ministrowi właściwemu do spraw wewnętrznych (Dz. U. poz. 564), które, na podstawie art. 10 ustawy z dnia 22 lipca 2016 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. poz. 1331), traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

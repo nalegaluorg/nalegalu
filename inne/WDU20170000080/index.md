@@ -34,12 +34,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 1 kwietnia 2008 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Podstawowe usługi dla gospodarki i ludności wiejskiej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2013 r. poz. 1419), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 24 marca 2015 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Podstawowe usługi dla gospodarki i ludności wiejskiej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 466).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 marca 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Podstawowe usługi dla gospodarki i ludności wiejskiej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 466), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 marca 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Podstawowe usługi dla gospodarki i ludności wiejskiej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 466), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 1 kwietnia 2008 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Podstawowe usługi dla gospodarki i ludności wiejskiej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 1 kwietnia 2008 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Podstawowe usługi dla gospodarki i ludności wiejskiej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2016 r. poz. 1387 i 1579 oraz z 2017 r. poz. 5) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb przyznawania oraz wypłaty pomocy finansowej w ramach działania „Podstawowe usługi dla gospodarki i ludności wiejskiej”, zwanej dalej „pomocą”, objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, zwanego dalej „Programem”, w tym:
@@ -50,7 +48,7 @@ szczegółowe wymagania, jakim powinny odpowiadać wnioski o przyznanie pomocy i
 3)
 szczegółowe wymagania, jakim powinna odpowiadać umowa, na podstawie której jest przyznawana pomoc, zwana dalej „umową”;
 4)
-kategorie siły wyższej i wyjątkowe okoliczności, inne niż wymienione w przepisach rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 368 z 23.12.2006, str. 15, z późn. zm.), zwanego dalej „rozporządzeniem nr 1974/2006”, w przypadku wystąpienia których nie jest wymagany zwrot pomocy;
+kategorie siły wyższej i wyjątkowe okoliczności, inne niż wymienione w przepisach rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 368 z 23.12.2006, str. 15, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 104 z 21.04.2007, str. 8, Dz. Urz. UE L 280 z 24.10.2007, str. 3, Dz. Urz. UE L 318 z 28.11.2008, str. 6, Dz. Urz. UE L 111 z 05.05.2009, str. 5, Dz. Urz. UE L 145 z 10.06.2009, str. 17, Dz. Urz. UE L 171 z 01.07.2009, str. 49, Dz. Urz. UE L 36 z 09.02.2010, str. 4, Dz. Urz. UE L 185 z 15.07.2011, str. 57, Dz. Urz. UE L 105 z 13.04.2013, str. 1 oraz Dz. Urz. UE L 215 z 10.08.2013, str. 16.)Utraciło moc na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1, z późn. zm.), które weszło w życie z dniem 31 lipca 2014 r.; stosuje się od dnia 1 stycznia 2014 r.; rozporządzenie Komisji (WE) nr 1974/2006 stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.) przed dniem 1 stycznia 2014 r., zwanego dalej „rozporządzeniem nr 1974/2006”, w przypadku wystąpienia których nie jest wymagany zwrot pomocy;
 5)
 przypadki, w których następcy prawnemu beneficjenta może być przyznana pomoc, oraz warunki i tryb przyznania tej pomocy.
 § 2.
@@ -63,11 +61,11 @@ jednoosobowej spółce gminy;
 gminnemu zakładowi budżetowemu;
 4)
 gminie albo związkowi międzygminnemu – w przypadku operacji dotyczącej budowy, przebudowy, remontu lub wyposażenia targowiska stałego lub operacji dotyczącej tworzenia i umożliwienia dostępu do infrastruktury szerokopasmowego Internetu lub modernizacji takiej infrastruktury;
-5)
+5Dodany przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 marca 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Podstawowe usługi dla gospodarki i ludności wiejskiej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 466), które weszło w życie z dniem 2 kwietnia 2015 r.)
 gminie – w przypadku operacji dotyczącej budowy mikroinstalacji prosumenckich wykorzystujących odnawialne źródła energii, służących do wytwarzania energii, w szczególności energii elektrycznej lub cieplnej, z przeznaczeniem na potrzeby własne, zwanych dalej „mikroinstalacjami prosumenckimi”.
 § 2a.
-Pomoc przyznawana na operacje dotyczące tworzenia i umożliwienia dostępu do infrastruktury szerokopasmowego Internetu lub modernizacji takiej infrastruktury stanowi pomoc de minimis, o której mowa w rozporządzeniu Komisji (WE) nr 1998/2006 z dnia 15 grudnia 2006 r. w sprawie stosowania art. 87 i 88 Traktatu do pomocy de minimis (Dz. Urz. UE L 379 z 28.12.2006, str. 5, z późn. zm.).
-§ 2b.
+Pomoc przyznawana na operacje dotyczące tworzenia i umożliwienia dostępu do infrastruktury szerokopasmowego Internetu lub modernizacji takiej infrastruktury stanowi pomoc de minimis, o której mowa w rozporządzeniu Komisji (WE) nr 1998/2006 z dnia 15 grudnia 2006 r. w sprawie stosowania art. 87 i 88 Traktatu do pomocy de minimis (Dz. Urz. UE L 379 z 28.12.2006, str. 5, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 157 z 24.06.2010, str. 18..
+§ 2bDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4..
 Pomoc przyznawana na operacje dotyczące budowy mikroinstalacji prosumenckich stanowi pomoc de minimis , o której mowa w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1).
 § 3.
 1.
@@ -100,7 +98,7 @@ Pomoc jest przyznawana, jeżeli:
 operacja będzie realizowana w jednym albo dwóch etapach;
 2)
 złożenie wniosku o płatność pośrednią, będącą refundacją kosztów kwalifikowalnych przyznawaną po zrealizowaniu pierwszego etapu operacji, nastąpi w terminie 24 miesięcy od dnia zawarcia umowy – w przypadku gdy etap ten nie jest etapem końcowym;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 4.)
 zakończenie realizacji operacji i złożenie wniosku o płatność ostateczną, będącą refundacją kosztów kwalifikowalnych przyznawaną po zrealizowaniu całej operacji, nastąpi:
 a)
 w terminie 24 miesięcy od dnia zawarcia umowy, nie później jednak niż do dnia 30 czerwca 2015 r., a w przypadku operacji dotyczącej budowy mikroinstalacji prosumenckich do dnia 16 października 2015 r. – w przypadku operacji realizowanej w jednym etapie,
@@ -110,7 +108,7 @@ nie później niż do dnia 30 czerwca 2015 r., a w przypadku operacji dotyczące
 płatność ostateczna będzie obejmować nie mniej niż 25% łącznej planowanej kwoty pomocy.
 3.
 Pomoc na operację dotyczącą budowy, przebudowy, remontu lub wyposażenia targowiska stałego jest przyznawana, jeżeli targowisko to w wyniku realizacji tej operacji spełni warunki, które są określone w załączniku do rozporządzenia.
-4.
+4Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 Operacja dotycząca mikroinstalacji prosumenckich, oprócz budowy mikroinstalacji prosumenckich na obiektach użyteczności publicznej, może być realizowana również na obiektach niebędących obiektami użyteczności publicznej, pod warunkiem że wytworzona energia elektryczna lub cieplna będzie wykorzystana wyłącznie na potrzeby gospodarstw domowych.
 § 4.
 1.
@@ -147,7 +145,7 @@ dostawy, roboty budowlane i usługi, związane z realizacją operacji, zostały 
 W przypadku przyznania pomocy do kosztów kwalifikowalnych zalicza się również koszty kwalifikowalne poniesione przez wnioskodawcę przed dniem zawarcia umowy.
 4.
 Refundacji podlegają koszty kwalifikowalne poniesione przez beneficjenta w wysokości nieprzekraczającej:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 4.)
 90% tych kosztów w ramach wnioskowanej pomocy w okresie realizacji Programu – w przypadku operacji dotyczącej tworzenia i umożliwienia dostępu do infrastruktury szerokopasmowego Internetu lub modernizacji takiej infrastruktury, lub budowy mikroinstalacji prosumenckich albo
 2)
 75% tych kosztów w ramach wnioskowanej pomocy, z tym że dla jednej gminy w okresie realizacji Programu – nie więcej niż:
@@ -159,17 +157,16 @@ c)
 3 000 000 zł – w przypadku operacji dotyczącej wytwarzania lub dystrybucji energii ze źródeł odnawialnych,
 d)
 1 000 000 zł – w przypadku operacji dotyczącej budowy, przebudowy, remontu lub wyposażenia targowiska stałego.
-4a.
+4aW brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 W przypadku gdy operacja dotycząca budowy, przebudowy, remontu lub wyposażenia targowiska stałego jest realizowana przez związek międzygminny, refundacja nie może przekroczyć kwoty, o której mowa w ust. 4 pkt 2 lit. d.
 5.
 W przypadku gdy zdarzenie powodujące poniesienie kosztów kwalifikowalnych:
 1)
 nie zostało uwzględnione w oddzielnym systemie rachunkowości albo
 2)
-do jego identyfikacji nie wykorzystano odpowiedniego kodu rachunkowego
-o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1698/2005”, koszty te podlegają refundacji w wysokości określonej w ust. 4 pomniejszonej o 10%.
+do jego identyfikacji nie wykorzystano odpowiedniego kodu rachunkowego – o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 277 z 09.10.2006, str. 1, Dz. Urz. UE L 367 z 22.12.2006, str. 23, Dz. Urz. UE L 384 z 29.12.2006, str. 8, Dz. Urz. UE L 46 z 21.02.2008, str. 1, Dz. Urz. UE L 67 z 11.03.2008, str. 22, Dz. Urz. UE L 30 z 31.01.2009, str. 100, Dz. Urz. UE L 144 z 09.06.2009, str. 3, Dz. Urz. UE L 339 z 21.12.2011, str. 1, Dz. Urz. UE L 206 z 02.08.2012, str. 23 oraz Dz. Urz. UE L 347 z 20.12.2013, str. 865.)Utraciło moc na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.), które weszło w życie z dniem 20 grudnia 2013 r.; stosuje się od dnia 1 stycznia 2014 r.; rozporządzenie Rady (WE) nr 1698/2005 stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy tego rozporządzenia przed dniem 1 stycznia 2014 r., zwanego dalej „rozporządzeniem nr 1698/2005”, koszty te podlegają refundacji w wysokości określonej w ust. 4 pomniejszonej o 10%.
 6.
-Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego, o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005 , odbywa się w ramach prowadzonych ksiąg rachunkowych albo przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu opracowanym i udostępnionym przez samorząd województwa, gdy na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych.
+Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego, o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005 Utraciło moc na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.), które weszło w życie z dniem 20 grudnia 2013 r.; stosuje się od dnia 1 stycznia 2014 r.; rozporządzenie Rady (WE) nr 1698/2005 stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy tego rozporządzenia przed dniem 1 stycznia 2014 r., odbywa się w ramach prowadzonych ksiąg rachunkowych albo przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu opracowanym i udostępnionym przez samorząd województwa, gdy na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych.
 § 5.
 1.
 Do kosztów kwalifikowalnych, o których mowa w § 4 ust. 1 pkt 9, zalicza się koszty:
@@ -194,16 +191,15 @@ przygotowania innych dokumentów niezbędnych do realizacji operacji,
 3)
 opłat za patenty lub licencje,
 4)
-sprawowania nadzoru inwestorskiego lub autorskiego i związane z kierowaniem robotami budowlanymi
-w wysokości nieprzekraczającej 10% pozostałych kosztów kwalifikowalnych.
+sprawowania nadzoru inwestorskiego lub autorskiego i związane z kierowaniem robotami budowlanymi – w wysokości nieprzekraczającej 10% pozostałych kosztów kwalifikowalnych.
 2.
-Do kosztów kwalifikowalnych zalicza się także podatek od towarów i usług (VAT) na zasadach określonych w art. 71 ust. 3 lit. a rozporządzenia nr 1698/2005 .
+Do kosztów kwalifikowalnych zalicza się także podatek od towarów i usług (VAT) na zasadach określonych w art. 71 ust. 3 lit. a rozporządzenia nr 1698/2005 Utraciło moc na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.), które weszło w życie z dniem 20 grudnia 2013 r.; stosuje się od dnia 1 stycznia 2014 r.; rozporządzenie Rady (WE) nr 1698/2005 stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy tego rozporządzenia przed dniem 1 stycznia 2014 r..
 § 6.
 1.
 Ustalenia kryterium regionalnego, opartego na mierzalnym wskaźniku i uwzględniającym specyfikę województwa, oraz terminu i miejsca składania wniosków o przyznanie pomocy dokonuje właściwy organ samorządu województwa i podaje do publicznej wiadomości na stronie internetowej urzędu marszałkowskiego i co najmniej w jednym dzienniku o zasięgu wojewódzkim.
-1a.
+1aDodany przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 4..
 Termin składania wniosków o przyznanie pomocy w przypadku operacji dotyczących budowy mikroinstalacji prosumenckich właściwy organ samorządu województwa ustala po uzgodnieniu z ministrem właściwym do spraw rolnictwa i ministrem właściwym do spraw rozwoju wsi.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 Ustalenia początku terminu składania wniosków o przyznanie pomocy dokonuje właściwy organ samorządu województwa, a w przypadku operacji dotyczących budowy mikroinstalacji prosumenckich – właściwy organ samorządu województwa po uzgodnieniu z ministrem właściwym do spraw rolnictwa i ministrem właściwym do spraw rozwoju wsi. Termin ten nie może być wyznaczony wcześniej niż po upływie 14 dni od dnia podania do publicznej wiadomości informacji, o której mowa w ust. 1.
 3.
 Termin składania wniosków o przyznanie pomocy nie może być krótszy niż 14 dni i dłuższy niż 60 dni.
@@ -247,28 +243,28 @@ informacje o załącznikach dołączanych do wniosku.
 2.
 Formularz wniosku o przyznanie pomocy udostępnia się na stronie internetowej urzędu marszałkowskiego albo samorządowej jednostki nie później niż w dniu podania do publicznej wiadomości informacji, o których mowa w § 6 ust. 1.
 § 11.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 4..
 Jeżeli złożony wniosek o przyznanie pomocy jest wypełniony nieprawidłowo lub zawiera braki, wzywa się wnioskodawcę, na piśmie, do usunięcia nieprawidłowości lub braków, w terminie 14 dni, a w przypadku operacji dotyczących budowy mikroinstalacji prosumenckich w terminie 7 dni – od dnia doręczenia wezwania.
 2.
 Jeżeli wnioskodawca, pomimo wezwania, o którym mowa w ust. 1:
 1)
 nie usunął w terminie żadnych nieprawidłowości lub braków, pomocy nie przyznaje się, o czym wnioskodawcę informuje się na piśmie, podając przyczyny nieprzyznania pomocy;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 4.)
 usunął w terminie nie wszystkie nieprawidłowości lub braki, wzywa się go ponownie, na piśmie, do usunięcia pozostałych nieprawidłowości lub braków, w terminie 14 dni, a w przypadku operacji dotyczących budowy mikroinstalacji prosumenckich w terminie 7 dni – od dnia doręczenia wezwania.
 3.
 Jeżeli wnioskodawca, pomimo wezwania, o którym mowa w ust. 2 pkt 2, nie usunął w terminie pozostałych nieprawidłowości lub braków, pomocy nie przyznaje się, o czym wnioskodawcę informuje się na piśmie, podając przyczyny nieprzyznania pomocy.
 4.
-Złożony wniosek o przyznanie pomocy, z wyjątkiem wniosku o przyznanie pomocy na budowę mikroinstalacji prosumenckich, może być zmieniony przez wnioskodawcę:
+Złożony wniosek o przyznanie pomocy, z wyjątkiem wniosku o przyznanie pomocy na budowę mikroinstalacji prosumenckich, może być zmieniony przez wnioskodawcę:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 6 lit. c rozporządzenia, o którym mowa w odnośniku 4.
 1)
 w wyniku wezwań, o których mowa w ust. 1 lub ust. 2, albo
 2)
 za zgodą właściwego organu samorządu województwa, na prośbę wnioskodawcy, złożoną w terminie 14 dni od dnia doręczenia wezwań, o których mowa w ust. 1 lub ust. 2.
 § 12.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 4..
 Wniosek o przyznanie pomocy jest rozpatrywany w terminie 3 miesięcy, a w przypadku operacji dotyczących budowy mikroinstalacji prosumenckich w terminie 45 dni – od upływu terminu, o którym mowa w § 6 ust. 1.
 2.
 Wezwanie wnioskodawcy do wykonania określonych czynności w toku postępowania w sprawie przyznania pomocy wstrzymuje bieg terminu rozpatrywania wniosku o przyznanie pomocy do czasu wykonania przez wnioskodawcę tych czynności.
-3.
+3Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 W przypadku operacji dotyczących budowy mikroinstalacji prosumenckich termin na rozpatrzenie wniosku o przyznanie pomocy, o którym mowa w ust. 1, kończy się w dniu przekazania Agencji Restrukturyzacji i Modernizacji Rolnictwa zatwierdzonej przez właściwy organ samorządu województwa listy operacji, o której mowa w § 13 ust. 6.
 § 13.
 1.
@@ -331,7 +327,7 @@ b)
 równa lub większa – 0 punktów;
 10)
 jeżeli operacja ma zapewnić przepływność szerokopasmowego łącza internetowego na poziomie co najmniej 30 Mbit/s (prędkość pobierania danych przez użytkownika końcowego) – 2 punkty;
-11)
+11Dodany przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 4.)
 jeżeli koszty kwalifikowalne operacji dotyczą budowy mikroinstalacji prosumenckich na obiektach niebędących obiektami użyteczności publicznej, o których mowa w rozporządzeniu Ministra Infrastruktury z dnia 12 kwietnia 2002 r. w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie (Dz. U. z 2015 r. poz. 1422), na poziomie:
 a)
 niższym niż 50% kosztów kwalifikowalnych – 0 punktów,
@@ -349,17 +345,17 @@ W przypadku operacji o tej samej liczbie punktów i identycznej wartości podsta
 W przypadku operacji dotyczącej tworzenia i umożliwienia dostępu do infrastruktury szerokopasmowego Internetu lub modernizacji takiej infrastruktury o tej samej liczbie punktów, o kolejności przyznania pomocy decyduje niższa gęstość zaludnienia gminy lub związku międzygminnego, w której jest planowana realizacja operacji.
 6.
 Po dokonaniu oceny wniosków sporządza się listę operacji w kolejności uzyskanych punktów, zawierającą wskazanie wnioskodawców, a także tytuły operacji.
-6a.
+6aDodany przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 W przypadku operacji dotyczących budowy mikroinstalacji prosumenckich, z wyjątkiem operacji, dla których pomoc jest przyznawana zgodnie z ust. 6b, pomoc przyznaje się według kolejności ustalonej na liście krajowej sporządzonej przez Agencję Restrukturyzacji i Modernizacji Rolnictwa na podstawie list operacji przekazanych przez właściwy organ samorządu województwa, po ich zatwierdzeniu, o którym mowa w § 14 ust. 1.
-6b.
+6bDodany przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 W przypadku operacji dotyczących budowy mikroinstalacji prosumenckich samorząd województwa, po zatwierdzeniu listy operacji, o którym mowa w § 14 ust. 1, może zawrzeć umowy z nie więcej niż trzema wnioskodawcami, których operacje zostały umieszczone na trzech najwyższych pozycjach listy operacji, o której mowa w ust. 6, po podaniu tej listy do publicznej wiadomości na stronie urzędu marszałkowskiego albo samorządowej jednostki.
-6c.
+6cDodany przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 Listę krajową, o której mowa w ust. 6a, Agencja Restrukturyzacji i Modernizacji Rolnictwa sporządza w terminie 7 dni od dnia otrzymania list operacji przekazanych przez właściwy organ samorządu województwa.
-6d.
+6dDodany przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 Na liście krajowej, o której mowa w ust. 6a, w pierwszej kolejności umieszcza się nie więcej niż trzy operacje z każdego województwa, które uzyskały najwyższą liczbę punktów w danym województwie, dla których zostały lub zostaną zawarte umowy zgodnie z ust. 6b.
-6e.
+6eDodany przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 Na kolejnych pozycjach listy krajowej, o której mowa w ust. 6a, umieszcza się pozostałe operacje ze wszystkich województw w kolejności wynikającej z liczby uzyskanych punktów. W przypadku gdy operacje te uzyskają tę samą liczbę punktów, umieszcza się je na liście krajowej, o której mowa w ust. 6a, według kryteriów określonych w ust. 4 i 5.
-6f.
+6fDodany przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 Agencja Restrukturyzacji i Modernizacji Rolnictwa podaje do publicznej wiadomości na swojej stronie internetowej listę krajową, o której mowa w ust. 6a.
 7.
 Warunkiem przyznania pomocy na operacje dotyczące:
@@ -371,12 +367,12 @@ tworzenia systemu zbiórki, segregacji lub wywozu odpadów komunalnych oraz wytw
 budowy targowiska stałego – jest uzyskanie co najmniej 1 punktu;
 4)
 tworzenia i umożliwienia dostępu do infrastruktury szerokopasmowego Internetu lub modernizacji takiej infrastruktury – jest uzyskanie co najmniej 4 punktów;
-5)
+5Dodany przez § 1 pkt 8 lit. c rozporządzenia, o którym mowa w odnośniku 4.)
 budowy mikroinstalacji prosumenckich – jest uzyskanie co najmniej 5 punktów.
 § 14.
 1.
 Zatwierdzenia listy operacji, o której mowa w § 13 ust. 6, dokonuje właściwy organ samorządu województwa.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 4..
 Umowy są zawierane w kolejności wynikającej z listy operacji, o której mowa w § 13 ust. 6, w ramach środków dostępnych w danym województwie, a w przypadku operacji dotyczących budowy mikroinstalacji prosumenckich – w kolejności wynikającej z listy operacji, o której mowa w § 13 ust. 6a, do wysokości dostępnych środków na realizację operacji.
 3.
 Niezwłocznie po zatwierdzeniu listy operacji, o której mowa w § 13 ust. 6, wyznacza się wnioskodawcy, na piśmie, miejsce i termin zawarcia umowy nie dłuższy niż 14 dni od dnia otrzymania wezwania.
@@ -386,9 +382,9 @@ W przypadku gdy wnioskodawca nie stawił się w wyznaczonym miejscu i terminie w
 uzgodnionym przed upływem terminu wyznaczonego w wezwaniu, o którym mowa w ust. 3, albo
 2)
 wyznaczonym wnioskodawcy i nie dłuższym niż 21 dni od dnia upływu terminu wyznaczonego w wezwaniu, o którym mowa w ust. 3.
-4a.
+4aDodany przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 W przypadku gdy wnioskodawca ubiegający się o przyznanie pomocy na operację dotyczącą budowy mikroinstalacji prosumenckich nie stawił się w wyznaczonym miejscu i terminie w celu zawarcia umowy, pomocy nie przyznaje się.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 9 lit. c rozporządzenia, o którym mowa w odnośniku 4..
 W przypadku nieprzyznania pomocy na podstawie ust. 4a informuje się o tym wnioskodawcę, na piśmie, podając przyczyny nieprzyznania pomocy.
 § 15.
 1.
@@ -465,8 +461,7 @@ jego jednostki organizacyjnej lub jednostki, która spełnia warunki przyznania 
 b)
 spółki, w której udziały lub akcje mają wyłącznie gminy,
 c)
-związku międzygminnego
-które przejmą zobowiązania dotychczasowego beneficjenta;
+związku międzygminnego – które przejmą zobowiązania dotychczasowego beneficjenta;
 2)
 zmianę przeznaczenia nabytych przez beneficjenta dóbr, wyremontowanych lub wybudowanych budynków lub budowli, w całości lub w części, jeżeli nie naruszy to celów i zakresu działania „Podstawowe usługi dla gospodarki i ludności wiejskiej” objętego Programem.
 § 23.
@@ -476,7 +471,7 @@ Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku p
 Termin uważa się za zachowany, jeżeli przed jego upływem nadano pismo w polskiej placówce pocztowej operatora publicznego.
 § 24.
 1.
-Kategoriami siły wyższej i wyjątkowymi okolicznościami, innymi niż wymienione w przepisach rozporządzenia nr 1974/2006 , w przypadku wystąpienia których nie jest wymagany zwrot pomocy, są:
+Kategoriami siły wyższej i wyjątkowymi okolicznościami, innymi niż wymienione w przepisach rozporządzenia nr 1974/2006 Utraciło moc na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1, z późn. zm.), które weszło w życie z dniem 31 lipca 2014 r.; stosuje się od dnia 1 stycznia 2014 r.; rozporządzenie Komisji (WE) nr 1974/2006 stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.) przed dniem 1 stycznia 2014 r., w przypadku wystąpienia których nie jest wymagany zwrot pomocy, są:
 1)
 wywłaszczenie części nieruchomości związanej z operacją, jeżeli takiego wywłaszczenia nie można było przewidzieć w dniu zawarcia umowy;
 2)
@@ -488,7 +483,7 @@ kradzieże mienia będącego przedmiotem operacji, z wyłączeniem kradzieży, k
 2.
 Tryb postępowania w razie wystąpienia okoliczności siły wyższej lub wyjątkowych okoliczności, w przypadku wystąpienia których nie jest wymagany zwrot pomocy, określa się w umowie.
 § 25.
-Poza okolicznościami siły wyższej i wyjątkowymi okolicznościami, o których mowa w § 24 ust. 1 oraz w przepisach rozporządzenia nr 1974/2006 , beneficjent nie jest zobowiązany do zwrotu pomocy za tę część operacji, która została zrealizowana zgodnie z warunkami określonymi w umowie, jeżeli cel operacji został osiągnięty i zachowany.
+Poza okolicznościami siły wyższej i wyjątkowymi okolicznościami, o których mowa w § 24 ust. 1 oraz w przepisach rozporządzenia nr 1974/2006 Utraciło moc na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1, z późn. zm.), które weszło w życie z dniem 31 lipca 2014 r.; stosuje się od dnia 1 stycznia 2014 r.; rozporządzenie Komisji (WE) nr 1974/2006 stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.) przed dniem 1 stycznia 2014 r., beneficjent nie jest zobowiązany do zwrotu pomocy za tę część operacji, która została zrealizowana zgodnie z warunkami określonymi w umowie, jeżeli cel operacji został osiągnięty i zachowany.
 § 26.
 W przypadku działania „Podstawowe usługi dla ludności i gospodarki wiejskiej” objętego Programem, ze względu na istotę tego działania:
 1)
@@ -513,8 +508,7 @@ Wniosek następcy rozpatruje się w terminie 3 miesięcy od dnia jego złożenia
 6.
 Do wniosku następcy i trybu jego rozpatrywania przepisy § 10 ust. 1 pkt 1, 2 i 5, ust. 2 oraz § 11 ust. 1–3 stosuje się odpowiednio.
 § 27.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 104 z 21.04.2007, str. 8, Dz. Urz. UE L 280 z 24.10.2007, str. 3, Dz. Urz. UE L 318 z 28.11.2008, str. 6, Dz. Urz. UE L 111 z 05.05.2009, str. 5, Dz. Urz. UE L 145 z 10.06.2009, str. 17, Dz. Urz. UE L 171 z 01.07.2009, str. 49, Dz. Urz. UE L 36 z 09.02.2010, str. 4, Dz. Urz. UE L 185 z 15.07.2011, str. 57, Dz. Urz. UE L 105 z 13.04.2013, str. 1 oraz Dz. Urz. UE L 215 z 10.08.2013, str. 16. 3) Utraciło moc na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1, z późn. zm.), które weszło w życie z dniem 31 lipca 2014 r.; stosuje się od dnia 1 stycznia 2014 r.; rozporządzenie Komisji (WE) nr 1974/2006 stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.) przed dniem 1 stycznia 2014 r. 4) Dodany przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 marca 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Podstawowe usługi dla gospodarki i ludności wiejskiej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 466), które weszło w życie z dniem 2 kwietnia 2015 r. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 157 z 24.06.2010, str. 18. 6) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 7) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 4. 8) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 4. 9) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 4. 10) W brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 4. 11) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 277 z 09.10.2006, str. 1, Dz. Urz. UE L 367 z 22.12.2006, str. 23, Dz. Urz. UE L 384 z 29.12.2006, str. 8, Dz. Urz. UE L 46 z 21.02.2008, str. 1, Dz. Urz. UE L 67 z 11.03.2008, str. 22, Dz. Urz. UE L 30 z 31.01.2009, str. 100, Dz. Urz. UE L 144 z 09.06.2009, str. 3, Dz. Urz. UE L 339 z 21.12.2011, str. 1, Dz. Urz. UE L 206 z 02.08.2012, str. 23 oraz Dz. Urz. UE L 347 z 20.12.2013, str. 865. 12) Utraciło moc na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.), które weszło w życie z dniem 20 grudnia 2013 r.; stosuje się od dnia 1 stycznia 2014 r.; rozporządzenie Rady (WE) nr 1698/2005 stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy tego rozporządzenia przed dniem 1 stycznia 2014 r. 13) Dodany przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 4. 14) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 4. 15) W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 4. 16) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 4. 17) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 6 lit. c rozporządzenia, o którym mowa w odnośniku 4. 18) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 4. 19) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 4. 20) Dodany przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 4. 21) Dodany przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 4. 22) Dodany przez § 1 pkt 8 lit. c rozporządzenia, o którym mowa w odnośniku 4. 23) W brzmieniu ustalonym przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 4. 24) Dodany przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 4. 25) W brzmieniu ustalonym przez § 1 pkt 9 lit. c rozporządzenia, o którym mowa w odnośniku 4. 26) Rozporządzenie zostało ogłoszone w dniu 11 kwietnia 2008 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 11 kwietnia 2008 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 104 z 21.04.2007, str. 8, Dz. Urz. UE L 280 z 24.10.2007, str. 3, Dz. Urz. UE L 318 z 28.11.2008, str. 6, Dz. Urz. UE L 111 z 05.05.2009, str. 5, Dz. Urz. UE L 145 z 10.06.2009, str. 17, Dz. Urz. UE L 171 z 01.07.2009, str. 49, Dz. Urz. UE L 36 z 09.02.2010, str. 4, Dz. Urz. UE L 185 z 15.07.2011, str. 57, Dz. Urz. UE L 105 z 13.04.2013, str. 1 oraz Dz. Urz. UE L 215 z 10.08.2013, str. 16. 3) Utraciło moc na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1, z późn. zm.), które weszło w życie z dniem 31 lipca 2014 r.; stosuje się od dnia 1 stycznia 2014 r.; rozporządzenie Komisji (WE) nr 1974/2006 stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.) przed dniem 1 stycznia 2014 r. 4) Dodany przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 marca 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Podstawowe usługi dla gospodarki i ludności wiejskiej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 466), które weszło w życie z dniem 2 kwietnia 2015 r. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 157 z 24.06.2010, str. 18. 6) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 7) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 4. 8) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 4. 9) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 4. 10) W brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 4. 11) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 277 z 09.10.2006, str. 1, Dz. Urz. UE L 367 z 22.12.2006, str. 23, Dz. Urz. UE L 384 z 29.12.2006, str. 8, Dz. Urz. UE L 46 z 21.02.2008, str. 1, Dz. Urz. UE L 67 z 11.03.2008, str. 22, Dz. Urz. UE L 30 z 31.01.2009, str. 100, Dz. Urz. UE L 144 z 09.06.2009, str. 3, Dz. Urz. UE L 339 z 21.12.2011, str. 1, Dz. Urz. UE L 206 z 02.08.2012, str. 23 oraz Dz. Urz. UE L 347 z 20.12.2013, str. 865. 12) Utraciło moc na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.), które weszło w życie z dniem 20 grudnia 2013 r.; stosuje się od dnia 1 stycznia 2014 r.; rozporządzenie Rady (WE) nr 1698/2005 stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy tego rozporządzenia przed dniem 1 stycznia 2014 r. 13) Dodany przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 4. 14) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 4. 15) W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 4. 16) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 4. 17) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 6 lit. c rozporządzenia, o którym mowa w odnośniku 4. 18) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 4. 19) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 4. 20) Dodany przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 4. 21) Dodany przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 4. 22) Dodany przez § 1 pkt 8 lit. c rozporządzenia, o którym mowa w odnośniku 4. 23) W brzmieniu ustalonym przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 4. 24) Dodany przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 4. 25) W brzmieniu ustalonym przez § 1 pkt 9 lit. c rozporządzenia, o którym mowa w odnośniku 4. 26) Rozporządzenie zostało ogłoszone w dniu 11 kwietnia 2008 r.
 
 ## Załącznik nr 1 — – Warunki, jakie powinno spełniać targowisko stałe
 

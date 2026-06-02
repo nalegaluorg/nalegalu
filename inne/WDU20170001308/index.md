@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-28 |
 | Data wydania | 2017-06-30 |
-| Wejście w życie | 2017-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001308) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1308/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie wałbrzyskiej specjalnej strefy ekonomicznej (Dz. U. z 2016 r. poz. 1992 i 2212) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 3774,5461 ha, położone na terenach miast: Bielawa, Bolesławiec, Dzierżoniów, Grodków, Jawor, Kalisz, Kłodzko, Kudowa-Zdrój, Leszno, Nowa Ruda, Oleśnica, Oława, Opole, Świdnica, Świebodzice, Wałbrzych, Wrocław oraz gmin: Bolków, Brzeg, Brzeg Dolny, Bystrzyca Kłodzka, Dąbrowa, Długołęka, Dobromierz, Dobroszyce, Góra, Jarocin, Jelcz-Laskowice, Kąty Wrocławskie, Kluczbork, Kłodzko, Kobierzyce, Kościan, Krotoszyn, Książ Wielkopolski, Lewin Brzeski, Łubowo, Męcinka, Namysłów, Niemodlin, Nowa Ruda, Nysa, Oława, Otmuchów, Pleszew, Praszka, Prudnik, Rawicz, Skarbimierz, Stoszowice, Strzegom, Strzelin, Syców, Szprotawa, Śrem, Świdnica, Świebodzin, Twardogóra, Wądroże Wielkie, Wiązów, Wołów, Września, Ząbkowice Śląskie i Żarów.
-” ;
+Strefa obejmuje grunty o powierzchni 3774,5461 ha, położone na terenach miast: Bielawa, Bolesławiec, Dzierżoniów, Grodków, Jawor, Kalisz, Kłodzko, Kudowa-Zdrój, Leszno, Nowa Ruda, Oleśnica, Oława, Opole, Świdnica, Świebodzice, Wałbrzych, Wrocław oraz gmin: Bolków, Brzeg, Brzeg Dolny, Bystrzyca Kłodzka, Dąbrowa, Długołęka, Dobromierz, Dobroszyce, Góra, Jarocin, Jelcz-Laskowice, Kąty Wrocławskie, Kluczbork, Kłodzko, Kobierzyce, Kościan, Krotoszyn, Książ Wielkopolski, Lewin Brzeski, Łubowo, Męcinka, Namysłów, Niemodlin, Nowa Ruda, Nysa, Oława, Otmuchów, Pleszew, Praszka, Prudnik, Rawicz, Skarbimierz, Stoszowice, Strzegom, Strzelin, Syców, Szprotawa, Śrem, Świdnica, Świebodzin, Twardogóra, Wądroże Wielkie, Wiązów, Wołów, Września, Ząbkowice Śląskie i Żarów. ” ;
 2)
 w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU WAŁBRZYSKIEJ SPECJALNEJ STREFY EKONOMICZNEJ INVEST-PARK:
 a)

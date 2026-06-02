@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-03-30 |
 | Data wydania | 2001-05-09 |
-| Wejście w życie | 2001-05-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010410465) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/465/text.pdf) |
 
@@ -60,8 +59,10 @@ source: "eli-html"
 3. Kwotę odpłatności, o której mowa w ust. 2, ustala się przy uwzględnieniu określonych w ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2000 r. Nr 101, poz. 1092 i z 2001 r. Nr 41, poz. 465) zasad przyznawania dodatkowego wynagrodzenia za udział w zabezpieczeniu podczas imprezy masowej bezpieczeństwa i porządku publicznego. ” ;
 
 - **6)** w art. 6 wyrazy „30 dni” zastępuje się wyrazami „14 dni”;
-- **7)** w art. 7: w ust. 1: – w pkt 1 wyraz „rejonowych” zastępuje się wyrazami „powiatowych (miejskich)”, – pkt 6 otrzymuje brzmienie: „ 6) informację o liczbie miejsc dla osób w obiekcie lub na terenie, gdzie impreza masowa będzie zorganizowana, mogących wystąpić zagrożeniach porządku publicznego, w tym informację o ewentualnym uznaniu imprezy masowej za imprezę o podwyższonym ryzyku oraz informację o liczbie osób, które mogą być obecne na imprezie masowej, o stanie liczebnym, organizacji, oznakowaniu, wyposażeniu i sposobie rozmieszczenia służb porządkowej i informacyjnej; w odniesieniu do służby porządkowej przyjmuje się przelicznik – co najmniej 10 porządkowych na 300 osób, które mogą być obecne na imprezie, i co najmniej 1 porządkowy na każde następne 100 osób. W przypadku uznania imprezy za imprezę o podwyższonym ryzyku przeliczniki te wynoszą odpowiednio 30 porządkowych na 300 osób, które mogą być obecne na imprezie masowej, i co najmniej 3 porządkowych na każde następne 100 osób, ” – w pkt 7 po wyrazach „w imprezie masowej” dodaje się wyrazy „(kierownika do spraw bezpieczeństwa)”, po ust. 1 dodaje się ust. 1a i ust. 1b w brzmieniu: „
+- **7)** w art. 7: w ust. 1: – w pkt 1 wyraz „rejonowych” zastępuje się wyrazami „powiatowych (miejskich)”, pkt 6 otrzymuje brzmienie: „
     - **a)**
+
+- **6)** informację o liczbie miejsc dla osób w obiekcie lub na terenie, gdzie impreza masowa będzie zorganizowana, mogących wystąpić zagrożeniach porządku publicznego, w tym informację o ewentualnym uznaniu imprezy masowej za imprezę o podwyższonym ryzyku oraz informację o liczbie osób, które mogą być obecne na imprezie masowej, o stanie liczebnym, organizacji, oznakowaniu, wyposażeniu i sposobie rozmieszczenia służb porządkowej i informacyjnej; w odniesieniu do służby porządkowej przyjmuje się przelicznik – co najmniej 10 porządkowych na 300 osób, które mogą być obecne na imprezie, i co najmniej 1 porządkowy na każde następne 100 osób. W przypadku uznania imprezy za imprezę o podwyższonym ryzyku przeliczniki te wynoszą odpowiednio 30 porządkowych na 300 osób, które mogą być obecne na imprezie masowej, i co najmniej 3 porządkowych na każde następne 100 osób, ” – w pkt 7 po wyrazach „w imprezie masowej” dodaje się wyrazy „(kierownika do spraw bezpieczeństwa)”, po ust. 1 dodaje się ust. 1a i ust. 1b w brzmieniu: „
     - **b)**
 
 1a. Organizator imprezy masowej, nie później niż 14 dni przed wystąpieniem z wnioskiem o wydanie zezwolenia na przeprowadzenie imprezy masowej, zwraca się do właściwych miejscowo komendantów powiatowych (miejskich) Policji i Państwowej Straży Pożarnej, kierownika jednostki organizacyjnej pomocy doraźnej (pogotowia ratunkowego) i państwowego inspektora sanitarnego o wyrażenie opinii, o których mowa w ust. 1 pkt 1 i 2.

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 października 2012 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw
+# Ustawa z dnia 24 października 2012 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/78/UE z dnia 24 listopada 2010 r. w sprawie zmiany dyrektyw 98/26/WE, 2002/87/WE, 2003/6/WE, 2003/41/WE, 2003/71/WE, 2004/39/WE, 2004/109/WE, 2005/60/WE, 2006/48/WE, 2006/49/WE i 2009/65/WE w odniesieniu do uprawnień Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych) oraz Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych) (Dz. Urz. UE L 331 z 15.12.2010, str. 120).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-10-24 |
 | Data wydania | 2012-12-11 |
-| Wejście w życie | 2012-12-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001385) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1385/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2010 r. Nr 211, poz. 1384, z późn. zm.) wprowadza się następujące zmiany:
+Treść ustawy Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami, ustawę z dnia 22 maja 2003 r. o działalności ubezpieczeniowej, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych, ustawę z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego, ustawę z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym, ustawę z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym.
+
+**Art. 1.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2010 r. Nr 211, poz. 1384, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 106, poz. 622, Nr 131, poz. 763 i Nr 234, poz. 1391 oraz z 2012 r. poz. 836.) wprowadza się następujące zmiany:
 
 - **1)** w art. 17 ust. 2 otrzymuje brzmienie: „
 
@@ -131,7 +132,7 @@ source: "eli-html"
 
 3. W przypadku nałożenia kary pieniężnej, o której mowa w ust. 1, za naruszenie przepisów tytułu II rozporządzenia 648/2012, rozstrzygnięcie Komisji podlega ogłoszeniu w Dzienniku Urzędowym Komisji Nadzoru Finansowego, na zasadach określonych w art. 12 ust. 2 tego rozporządzenia. ” .
 
-**Art. 2.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2010 r. Nr 34, poz. 189, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2010 r. Nr 34, poz. 189, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 858 i Nr 182, poz. 1228, z 2011 r. Nr 75, poz. 398, Nr 106, poz. 622, Nr 171, poz. 1016, Nr 187, poz. 1111 i Nr 232, poz. 1378 oraz z 2012 r. poz. 596.) wprowadza się następujące zmiany:
 
 - **1)** w art. 15 dodaje się ust. 3 w brzmieniu: „
 
@@ -229,7 +230,7 @@ source: "eli-html"
 - **1)** zamiarze zawarcia porozumienia,
 - **2)** projektowanej treści porozumienia,
 - **3)** kompetencjach właściwej władzy nadzorczej w zakresie zadań, które zostaną tej władzy delegowane,
-- **4)** procedurach odwoławczych od rozstrzygnięć właściwej władzy nadzorczej umożliwiając temu podmiotowi zależnemu wyrażenie stanowiska.
+- **4)** procedurach odwoławczych od rozstrzygnięć właściwej władzy nadzorczej – umożliwiając temu podmiotowi zależnemu wyrażenie stanowiska.
 
 3f. Komisja Nadzoru Finansowego zamieszcza porozumienie, o którym mowa w ust. 3a, na swojej stronie internetowej niezwłocznie po jego zawarciu, ze wskazaniem podmiotu, o którym mowa w tym porozumieniu.
 
@@ -249,7 +250,7 @@ source: "eli-html"
 
 4. O zmianach w wykazach, o których mowa w ust. 1, Komisja Nadzoru Finansowego informuje właściwe władze nadzorcze państw członkowskich. ” .
 
-**Art. 4.** W ustawie z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2010 r. Nr 112, poz. 743, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2010 r. Nr 112, poz. 743, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 199, poz. 1175 i Nr 234, poz. 1391 oraz z 2012 r. poz. 173 i 1166.) wprowadza się następujące zmiany:
 
 - **1)** w art. 13 w ust. 3: po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **a)**
@@ -262,7 +263,7 @@ source: "eli-html"
 
 **Art. 23.** Prezes NBP informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o systemach, o których mowa w art. 15, oraz o podmiotach prowadzących te systemy. ” .
 
-**Art. 5.** W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. z 2010 r. Nr 11, poz. 66, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. z 2010 r. Nr 11, poz. 66, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 81, poz. 530, Nr 126, poz. 853 i Nr 127, poz. 858, z 2011 r. Nr 75, poz. 398, Nr 80, poz. 432, Nr 106, poz. 622, Nr 112, poz. 654, Nr 133, poz. 767, Nr 205, poz. 1210 i Nr 232, poz. 1378 oraz z 2012 r. poz. 596.) wprowadza się następujące zmiany:
 
 - **1)** w art. 148 ust. 2d otrzymuje brzmienie: „
 
@@ -272,7 +273,7 @@ source: "eli-html"
 
 6. Na wniosek zakładu reasekuracji podlegającego nadzorowi dodatkowemu lub podlegającego na podstawie ustawy o nadzorze uzupełniającym nadzorowi uzupełniającemu, organ nadzoru może wyrazić zgodę na odstąpienie od pomniejszania środków własnych zakładu reasekuracji o elementy określone w ust. 3 lub 4, odnoszące się do podmiotów określonych w ust. 3 lub 4, jeżeli podlegają one nadzorowi dodatkowemu zgodnie z właściwymi przepisami lub nadzorowi uzupełniającemu zgodnie z przepisami ustawy o nadzorze uzupełniającym. ” .
 
-**Art. 6.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391 oraz z 2012 r. poz. 596.) wprowadza się następujące zmiany:
 
 - **1)** w art. 97 dodaje się ust. 5 w brzmieniu: „
 
@@ -317,7 +318,7 @@ source: "eli-html"
 
 **Art. 7.** W ustawie z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U. Nr 83, poz. 719, z 2006 r. Nr 157, poz. 1119 oraz z 2009 r. Nr 42, poz. 341) wprowadza się następujące zmiany:
 
-- **1)** w art. 3: w pkt 3 lit. a-c otrzymują brzmienie: „ dom maklerski w rozumieniu art. 95 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2010 r. Nr 211, poz. 1384, z późn. zm.), posiadający zezwolenie Komisji Nadzoru Finansowego, o którym mowa w art. 69 ust. 1 tej ustawy, zagraniczną osobę prawną, o której mowa w art. 115 ust. 1 ustawy, o której mowa w lit. a, zagraniczną firmę inwestycyjną w rozumieniu art. 3 pkt 32 ustawy, o której mowa w lit. a, z wyłączeniem zagranicznych instytucji kredytowych, o których mowa w art. 3 pkt 31 tej ustawy, ” , pkt 12 i 13 otrzymują brzmienie: „
+- **1)** w art. 3: w pkt 3 lit. a-c otrzymują brzmienie: „ dom maklerski w rozumieniu art. 95 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2010 r. Nr 211, poz. 1384, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 106, poz. 622, Nr 131, poz. 763 i Nr 234, poz. 1391 oraz z 2012 r. poz. 836 i 1385.), posiadający zezwolenie Komisji Nadzoru Finansowego, o którym mowa w art. 69 ust. 1 tej ustawy, zagraniczną osobę prawną, o której mowa w art. 115 ust. 1 ustawy, o której mowa w lit. a, zagraniczną firmę inwestycyjną w rozumieniu art. 3 pkt 32 ustawy, o której mowa w lit. a, z wyłączeniem zagranicznych instytucji kredytowych, o których mowa w art. 3 pkt 31 tej ustawy, ” , pkt 12 i 13 otrzymują brzmienie: „
     - **a)**
     - **a)**
     - **b)**
@@ -353,7 +354,7 @@ source: "eli-html"
 
 2. Jeżeli wymaga tego wykonywanie zadań w zakresie nadzoru nad podmiotami regulowanymi, które wchodzą w skład konglomeratu finansowego, krajowy organ nadzoru może, zgodnie z przepisami regulacji sektorowych, przekazywać informacje, o których mowa w ust. 1, bankom centralnym zainteresowanych państw członkowskich, Europejskiemu Systemowi Banków Centralnych, Europejskiemu Bankowi Centralnemu oraz Europejskiej Radzie ds. Ryzyka Systemowego zgodnie z art. 15 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1092/2010 z dnia 24 listopada 2010 r. w sprawie unijnego nadzoru makroostrożnościowego nad systemem finansowym i ustanowienia Europejskiej Rady ds. Ryzyka Systemowego (Dz. Urz. UE L 331 z 15.12.2010, str. 1). ” .
 
-**Art. 8.** W ustawie z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym (Dz. U. Nr 183, poz. 1537, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym (Dz. U. Nr 183, poz. 1537, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 157, poz. 1119 i Nr 170, poz. 1217, z 2007 r. Nr 50, poz. 331, z 2009 r. Nr 18, poz. 97 i Nr 165, poz. 1316 oraz z 2011 r. Nr 234, poz. 1391.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
@@ -440,5 +441,5 @@ source: "eli-html"
 
 4. Komisja przekazuje Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych treść regulaminu sądu polubownego. ” .
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/78/UE z dnia 24 listopada 2010 r. w sprawie zmiany dyrektyw 98/26/WE, 2002/87/WE, 2003/6/WE, 2003/41/WE, 2003/71/WE, 2004/39/WE, 2004/109/WE, 2005/60/WE, 2006/48/WE, 2006/49/WE i 2009/65/WE w odniesieniu do uprawnień Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych) oraz Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych) (Dz. Urz. UE L 331 z 15.12.2010, str. 120). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami, ustawę z dnia 22 maja 2003 r. o działalności ubezpieczeniowej, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych, ustawę z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego, ustawę z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym, ustawę z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 106, poz. 622, Nr 131, poz. 763 i Nr 234, poz. 1391 oraz z 2012 r. poz. 836. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 858 i Nr 182, poz. 1228, z 2011 r. Nr 75, poz. 398, Nr 106, poz. 622, Nr 171, poz. 1016, Nr 187, poz. 1111 i Nr 232, poz. 1378 oraz z 2012 r. poz. 596. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 199, poz. 1175 i Nr 234, poz. 1391 oraz z 2012 r. poz. 173 i 1166. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 81, poz. 530, Nr 126, poz. 853 i Nr 127, poz. 858, z 2011 r. Nr 75, poz. 398, Nr 80, poz. 432, Nr 106, poz. 622, Nr 112, poz. 654, Nr 133, poz. 767, Nr 205, poz. 1210 i Nr 232, poz. 1378 oraz z 2012 r. poz. 596. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391 oraz z 2012 r. poz. 596. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 106, poz. 622, Nr 131, poz. 763 i Nr 234, poz. 1391 oraz z 2012 r. poz. 836 i 1385. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 157, poz. 1119 i Nr 170, poz. 1217, z 2007 r. Nr 50, poz. 331, z 2009 r. Nr 18, poz. 97 i Nr 165, poz. 1316 oraz z 2011 r. Nr 234, poz. 1391.
 

@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-06-24 |
 | Data wydania | 2014-06-26 |
-| Wejście w życie | 2014-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000843) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/843/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 8 ust. 9 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 8 ust. 9 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312, 486, 529, 768 i 822.) zarządza się, co następuje:
 § 1.
 Ustala się opłatę za wydanie karty parkingowej w wysokości 21 zł.
 § 2.
@@ -49,5 +48,5 @@ Każda odebrana przez przewodniczącego partia blankietów kart parkingowych jes
 4.
 W przypadku stwierdzenia przez przewodniczącego braków lub wad w blankietach kart parkingowych producent niezwłocznie dostarcza właściwe blankiety kart parkingowych.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 30 marca 2004 r. w sprawie wzorów kart parkingowych dla osób niepełnosprawnych i placówek zajmujących się opieką, rehabilitacją lub edukacją tych osób (Dz. U. Nr 67, poz. 616), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, w związku z wejściem w życie ustawy z dnia 23 października 2013 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1446 oraz z 2014 r. poz. 486). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312, 486, 529, 768 i 822. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 30 marca 2004 r. w sprawie wzorów kart parkingowych dla osób niepełnosprawnych i placówek zajmujących się opieką, rehabilitacją lub edukacją tych osób (Dz. U. Nr 67, poz. 616), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, w związku z wejściem w życie ustawy z dnia 23 października 2013 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1446 oraz z 2014 r. poz. 486).
 

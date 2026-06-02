@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 30 maja 2022 r. w sprawie dopuszczenia prowadzenia przez apteki dystrybucji produktów leczniczych, wyrobów medycznych i środków spożywczych specjalnego przeznaczenia żywieniowego, stanowiących asortyment rezerw strategicznych lub udostępnionych z tych rezerw
+# Rozporządzenie Ministra Zdrowiaz dnia 30 maja 2022 r. w sprawie dopuszczenia prowadzenia przez apteki dystrybucji produktów leczniczych, wyrobów medycznych i środków spożywczych specjalnego przeznaczenia żywieniowego, stanowiących asortyment rezerw strategicznych lub udostępnionych z tych rezerw Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-30 |
 | Data wydania | 2022-05-31 |
-| Wejście w życie | 2022-06-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001162) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1162/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 86 ust. 9 ustawy z dnia 6 września 2001 r. – Prawo farmaceu
 § 1.
 Dopuszcza się prowadzenie w aptece ogólnodostępnej, aptece zakładowej, aptece szpitalnej lub dziale farmacji szpitalnej działalności polegającej na przyjmowaniu produktów leczniczych, w tym niedopuszczonych do obrotu na terytorium Rzeczypospolitej Polskiej, wyrobów medycznych lub środków spożywczych specjalnego przeznaczenia żywieniowego, stanowiących asortyment rezerw strategicznych, o którym mowa w art. 4 ustawy z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2022 r. poz. 637 i 655), albo udostępnionych na podstawie przepisów tej ustawy, przechowywaniu tych produktów, wyrobów lub środków oraz ich wydawaniu pacjentom w przypadku wystąpienia sytuacji kryzysowej, o której mowa w art. 3 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2022 r. poz. 261 i 583).
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 

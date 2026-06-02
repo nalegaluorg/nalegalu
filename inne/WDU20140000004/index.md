@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-18 |
 | Data wydania | 2014-01-03 |
-| Wejście w życie | 2014-01-18 |
 | Ostatnia zmiana | 2025-11-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000004) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/4/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 35 ust. 10 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. Nr 122, poz. 696, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 35 ust. 10 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. Nr 122, poz. 696, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 95 i 742 oraz z 2013 r. poz. 766 i 1290.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -77,12 +76,11 @@ aktualnego poziomu refundacji w innych państwach,
 2)
 warunków refundacji w innych państwach,
 3)
-ograniczeń refundacji w innych państwach
-na podstawie analizy informacji przedstawionych przez wnioskodawcę zgodnie z art. 24 ust. 2 pkt 1 ustawy oraz na podstawie informacji wyszukanych przez Agencję.
+ograniczeń refundacji w innych państwach – na podstawie analizy informacji przedstawionych przez wnioskodawcę zgodnie z art. 24 ust. 2 pkt 1 ustawy oraz na podstawie informacji wyszukanych przez Agencję.
 § 6.
 Wyznaczenie wartości progowej ceny zbytu netto leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego, przy której koszt uzyskania dodatkowego roku życia skorygowanego o jakość, a w przypadku braku możliwości wyznaczenia tego kosztu – koszt uzyskania dodatkowego roku życia, jest równy wysokości progu, o którym mowa w art. 12 pkt 13 i art. 19 ust. 2 pkt 7 ustawy, odbywa się przez weryfikację poprawności oszacowania tej ceny przedstawionego w analizie ekonomicznej, o której mowa w art. 25 pkt 14 lit. c tiret drugie albo art. 26 pkt 2 lit. h ustawy, z wykorzystaniem dokumentu elektronicznego, o którym mowa w przepisach wydanych na podstawie art. 24 ust. 7 pkt 2 ustawy, zawartego w analizie ekonomicznej.
 § 7.
 Opłata za przygotowanie analizy weryfikacyjnej Agencji wynosi 101 574 zł.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 95 i 742 oraz z 2013 r. poz. 766 i 1290.
 

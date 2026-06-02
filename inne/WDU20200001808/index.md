@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 2 października 2020 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych
+# Rozporządzenie Ministra Cyfryzacjiz dnia 2 października 2020 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2270).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-10-02 |
 | Data wydania | 2020-10-15 |
-| Wejście w życie | 2020-11-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001808) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1808/text.pdf) |
 
@@ -31,14 +30,11 @@ Na podstawie art. 126 ust. 12 pkt 2 ustawy z dnia 16 lipca 2004 r. – Prawo tel
 § 1.
 W załączniku do rozporządzenia Ministra Administracji i Cyfryzacji z dnia 19 marca 2014 r. w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych (Dz. U. z 2019 r. poz. 1428) wprowadza się następujące zmiany:
 1)
-w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu:
-„
+w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „
 2a)
-dla komunikacji maszyna-maszyna, w tym do wyróżników sieci w ruchomej publicznej sieci telekomunikacyjnej;
-” ;
+dla komunikacji maszyna-maszyna, w tym do wyróżników sieci w ruchomej publicznej sieci telekomunikacyjnej; ” ;
 2)
-po ust. 3 dodaje się ust. 3a w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a w brzmieniu: „
 3a.
 Wymagania, jakim powinno odpowiadać gospodarowanie numeracją dla komunikacji maszyna-maszyna w ruchomej publicznej sieci telekomunikacyjnej:
 1)
@@ -48,9 +44,7 @@ stosuje się jednolitą 9-cyfrową numerację krajową o formacie ABSPQMCDU, gdz
 3)
 minimalny przydzielony blok numerów powinien składać się z 1000 NN o tych samych cyfrach ABSPQM;
 4)
-przydzielony zakres numeracji powinien stanowić wielokrotność 1000 NN.
-” .
+przydzielony zakres numeracji powinien stanowić wielokrotność 1000 NN. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2270).
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2270).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-07 |
 | Data wydania | 2018-03-21 |
-| Wejście w życie | 2018-04-05 |
 | Ostatnia zmiana | 2026-02-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000591) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/591/text.pdf) |
 
@@ -55,5 +54,59 @@ Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 23 czerwca 2009 r. w 
 § 8.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Załącznik – Tabela funkcji oraz mnożników do ustalania wysokości dodatku funkcyjnego
-Lp. FUNKCJA MNOŻNIK 1 2 3 1 sędzia delegowany do pełnienia obowiązków podsekretarza stanu w Ministerstwie Sprawiedliwości 0,4–1,1 2 prezes sądu apelacyjnegoprezes sądu okręgowegosędzia delegowany do pełnienia obowiązków dyrektora departamentu lubbiura w Ministerstwie Sprawiedliwościsędzia delegowany do pełnienia obowiązków dyrektora Krajowej SzkołySądownictwa i Prokuraturysędzia delegowany do pełnienia obowiązków dyrektora InstytutuWymiaru Sprawiedliwościsędzia delegowany do pełnienia funkcji poza granicami państwakoordynator do spraw informatyzacji sądownictwa powszechnego 0,4–1,1 3 wiceprezes sądu apelacyjnegowiceprezes sądu okręgowegosędzia delegowany do pełnienia obowiązków zastępcy dyrektoradepartamentu lub biura w Ministerstwie Sprawiedliwościsędzia delegowany do pełnienia obowiązków zastępcy dyrektoraKrajowej Szkoły Sądownictwa i Prokuratury 0,35–0,8 4 rzecznik dyscyplinarny 0,8 5 prezes sądu rejonowegoprzewodniczący odwoławczej izby morskiej przy sądzie okręgowymprzewodniczący izby morskiej przy sądzie okręgowymprzewodniczący wydziału w sądzie apelacyjnymkierownik ośrodka zamiejscowegoprzewodniczący wydziału w sądzie okręgowymsędzia delegowany do pełnienia obowiązków naczelnika wydziałuw Ministerstwie Sprawiedliwościsędzia delegowany do prowadzenia zajęć szkoleniowych w KrajowejSzkole Sądownictwa i Prokuratury 0,3–0,55 6 sędzia delegowany do pełnienia obowiązków wizytatora w MinisterstwieSprawiedliwościwizytator w sądzie apelacyjnymwizytator w sądzie okręgowympełnomocnik w sądzie apelacyjnym do spraw wdrożeń systemówinformatycznychpełnomocnik w sądzie okręgowym do spraw wdrożeń systemówinformatycznychwiceprzewodniczący odwoławczej izby morskiej przy sądzie okręgowymwiceprzewodniczący izby morskiej przy sądzie okręgowymzastępca przewodniczącego wydziału w sądzie apelacyjnymzastępca przewodniczącego wydziału w sądzie okręgowymsędzia delegowany do pełnienia czynności w Biurze Krajowej RadySądownictwasędzia delegowany do pełnienia czynności w Instytucie PamięciNarodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemusędzia delegowany do wykonywania pracy w Radzie ProgramowejKrajowej Szkoły Sądownictwa i Prokuraturysędzia delegowany do pełnienia obowiązków kierownika działu albosekcji w Krajowej Szkole Sądownictwa i Prokuraturykoordynator do spraw współpracy międzynarodowej i praw człowiekaw sprawach cywilnych 0,25–0,5 7 wiceprezes sądu rejonowegozastępca rzecznika dyscyplinarnegosędzia delegowany do pełnienia obowiązków głównego specjalistyw Ministerstwie Sprawiedliwościsędzia delegowany do pełnienia obowiązków głównego specjalistyw Krajowej Szkole Sądownictwa i Prokuratury 0,2–0,45 8 przewodniczący wydziału w sądzie rejonowymkierownik sekcji w sądzie apelacyjnymkierownik sekcji w sądzie okręgowymrzecznik prasowykoordynator do spraw współpracy międzynarodowej i praw człowiekaw sprawach karnych 0,2–0,4 9 kierownik sekcji w sądzie rejonowym zastępca przewodniczącego wydziału w sądzie rejonowym sędzia wizytujący zakłady dla nieletnich i zakłady lecznicze osób z zaburzeniami psychicznymi 0,15–0,35 10 koordynator do spraw mediacji 0,1–0,3
+Lp. FUNKCJA MNOŻNIK 1 2 3 1 sędzia delegowany do pełnienia obowiązków podsekretarza stanu w Ministerstwie Sprawiedliwości 0,4–1,1 2 prezes sądu apelacyjnego
+prezes sądu okręgowego
+sędzia delegowany do pełnienia obowiązków dyrektora departamentu lub
+biura w Ministerstwie Sprawiedliwości
+sędzia delegowany do pełnienia obowiązków dyrektora Krajowej Szkoły
+Sądownictwa i Prokuratury
+sędzia delegowany do pełnienia obowiązków dyrektora Instytutu
+Wymiaru Sprawiedliwości
+sędzia delegowany do pełnienia funkcji poza granicami państwa
+koordynator do spraw informatyzacji sądownictwa powszechnego 0,4–1,1 3 wiceprezes sądu apelacyjnego
+wiceprezes sądu okręgowego
+sędzia delegowany do pełnienia obowiązków zastępcy dyrektora
+departamentu lub biura w Ministerstwie Sprawiedliwości
+sędzia delegowany do pełnienia obowiązków zastępcy dyrektora
+Krajowej Szkoły Sądownictwa i Prokuratury 0,35–0,8 4 rzecznik dyscyplinarny 0,8 5 prezes sądu rejonowego
+przewodniczący odwoławczej izby morskiej przy sądzie okręgowym
+przewodniczący izby morskiej przy sądzie okręgowym
+przewodniczący wydziału w sądzie apelacyjnym
+kierownik ośrodka zamiejscowego
+przewodniczący wydziału w sądzie okręgowym
+sędzia delegowany do pełnienia obowiązków naczelnika wydziału
+w Ministerstwie Sprawiedliwości
+sędzia delegowany do prowadzenia zajęć szkoleniowych w Krajowej
+Szkole Sądownictwa i Prokuratury 0,3–0,55 6 sędzia delegowany do pełnienia obowiązków wizytatora w Ministerstwie
+Sprawiedliwości
+wizytator w sądzie apelacyjnym
+wizytator w sądzie okręgowym
+pełnomocnik w sądzie apelacyjnym do spraw wdrożeń systemów
+informatycznych
+pełnomocnik w sądzie okręgowym do spraw wdrożeń systemów
+informatycznych
+wiceprzewodniczący odwoławczej izby morskiej przy sądzie okręgowym
+wiceprzewodniczący izby morskiej przy sądzie okręgowym
+zastępca przewodniczącego wydziału w sądzie apelacyjnym
+zastępca przewodniczącego wydziału w sądzie okręgowym
+sędzia delegowany do pełnienia czynności w Biurze Krajowej Rady
+Sądownictwa
+sędzia delegowany do pełnienia czynności w Instytucie Pamięci
+Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu
+sędzia delegowany do wykonywania pracy w Radzie Programowej
+Krajowej Szkoły Sądownictwa i Prokuratury
+sędzia delegowany do pełnienia obowiązków kierownika działu albo
+sekcji w Krajowej Szkole Sądownictwa i Prokuratury
+koordynator do spraw współpracy międzynarodowej i praw człowieka
+w sprawach cywilnych 0,25–0,5 7 wiceprezes sądu rejonowego
+zastępca rzecznika dyscyplinarnego
+sędzia delegowany do pełnienia obowiązków głównego specjalisty
+w Ministerstwie Sprawiedliwości
+sędzia delegowany do pełnienia obowiązków głównego specjalisty
+w Krajowej Szkole Sądownictwa i Prokuratury 0,2–0,45 8 przewodniczący wydziału w sądzie rejonowym
+kierownik sekcji w sądzie apelacyjnym
+kierownik sekcji w sądzie okręgowym
+rzecznik prasowy
+koordynator do spraw współpracy międzynarodowej i praw człowieka
+w sprawach karnych 0,2–0,4 9 kierownik sekcji w sądzie rejonowym zastępca przewodniczącego wydziału w sądzie rejonowym sędzia wizytujący zakłady dla nieletnich i zakłady lecznicze osób z zaburzeniami psychicznymi 0,15–0,35 10 koordynator do spraw mediacji 0,1–0,3
 

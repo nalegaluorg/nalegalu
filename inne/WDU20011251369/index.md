@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-09-06 |
 | Data wydania | 2001-10-30 |
-| Wejście w życie | 2001-11-14 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011251369) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1369/text.pdf) |
 
@@ -49,8 +48,10 @@ source: "eli-html"
 - **1)** jeżeli pracodawca, na podstawie Kodeksu pracy, rozwiązał umowę o pracę bez wypowiedzenia,
 - **2)** w razie ponownego zawarcia umowy o pracę z inną osobą zarejestrowaną w urzędzie pracy, nie później jednak niż w ciągu 10 dni po dniu rozwiązania poprzedniej umowy o pracę. ” ;
 - **4)** w art. 35 w ust. 1 wyrazy „art. 25 ust. 6 pkt 2 lit. a), c), d) i f)” zastępuje się wyrazami „art. 25 ust. 6 pkt 2 lit. a), d), f) i g)”;
-- **5)** w art. 36: w ust. 4: – w pkt 1 wyraz „trzech” zastępuje się wyrazem „sześciu”, – w pkt 2 wyraz „dwóch” zastępuje się wyrazem „pięciu”, – w pkt 2 kropkę zastępuje się przecinkiem i dodaje się pkt 3 w brzmieniu: „ 3) nie więcej niż trzech pracowników w latach 2001 i 2002 w całym kraju. ” , ust. 5 otrzymuje brzmienie: „
+- **5)** w art. 36: w ust. 4: – w pkt 1 wyraz „trzech” zastępuje się wyrazem „sześciu”, – w pkt 2 wyraz „dwóch” zastępuje się wyrazem „pięciu”, w pkt 2 kropkę zastępuje się przecinkiem i dodaje się pkt 3 w brzmieniu: „
     - **a)**
+
+- **3)** nie więcej niż trzech pracowników w latach 2001 i 2002 w całym kraju. ” , ust. 5 otrzymuje brzmienie: „
     - **b)**
 
 5. Podatnikowi spełniającemu równocześnie warunki określone w ust. 4 pkt 1–3 przysługuje prawo do przekroczenia stanu zatrudnienia nie więcej niż o sześciu pracowników. ”

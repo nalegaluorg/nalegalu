@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Finansówz dnia 30 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług
+# Obwieszczenie Ministra Finansówz dnia 30 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -26,24 +26,22 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001328) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1328/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Finansów z dnia 16 grudnia 2013 r. w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług Rozdział 1 – Przepisy ogólne Rozdział 2 – Określenie innego miejsca świadczenia Rozdział 3 – Przypadki, gdy kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług, oraz warunki i tryb dokonywania tego zwrotu Rozdział 4 – Przypadki, w których kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług finansowanego ze środków bezzwrotnej pomocy zagranicznej, oraz warunki i tryb dokonywania tego zwrotu Rozdział 5 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Finansów z dnia 16 grudnia 2013 r. w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 16 grudnia 2013 r. w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług (Dz. U. z 2023 r. poz. 1008), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów z dnia 1 sierpnia 2023 r. zmieniającym rozporządzenie w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług (Dz. U. poz. 1591).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów z dnia 1 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług (Dz. U. poz. 1591), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów z dnia 1 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług (Dz. U. poz. 1591), które stanowią: „
 § 2.
 1.
 Maksymalną kwotę zwrotu podatku określoną w § 6a ust. 6 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do zwrotu podatku, o którym mowa w § 6a ust. 1 pkt 1 rozporządzenia zmienianego w § 1, z tytułu nabycia towarów po dniu 31 grudnia 2022 r.
 2.
 W przypadku gdy nabycia towarów, o których mowa w § 6a ust. 1 pkt 1 rozporządzenia zmienianego w § 1, są dokonywane w okresie 12 następujących po sobie miesięcy na przełomie lat 2022 i 2023, maksymalną kwotę zwrotu podatku oblicza się proporcjonalnie do wartości towarów nabytych w poszczególnych latach, z uwzględnieniem maksymalnej kwoty zwrotu podatku obowiązującej w tych latach.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
-Załącznik – Rozporządzenie Ministra Finansów z dnia 16 grudnia 2013 r. w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Załącznik – Rozporządzenie Ministra Finansów z dnia 16 grudnia 2013 r. w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usługNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej ‒ finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 Na podstawie art. 28o i art. 92 ust. 1 pkt 3 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361 i 852) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -64,18 +62,19 @@ Umowie w sprawie siedziby Frontex – rozumie się przez to Umowę w sprawie sie
 Agencji – rozumie się przez to Europejską Agencję Straży Granicznej i Przybrzeżnej (Frontex), o której mowa w Umowie w sprawie siedziby Frontex;
 6)
 członkach personelu Agencji – rozumie się przez to osoby wymienione w art. 1 ust. 3 Umowy w sprawie siedziby Frontex, z wyłączeniem obywateli polskich oraz osób posiadających prawo stałego pobytu w Rzeczypospolitej Polskiej.
+Określenie innego miejsca świadczenia
 § 3.
 1.
 W przypadku świadczenia, środkami transportu morskiego lub lotniczego, usług międzynarodowego transportu:
 1)
 osób lub
 2)
-towarów na rzecz podmiotów niebędących podatnikami w rozumieniu art. 28a ustawy
-miejscem świadczenia tych usług jest terytorium kraju.
+towarów na rzecz podmiotów niebędących podatnikami w rozumieniu art. 28a ustawy – miejscem świadczenia tych usług jest terytorium kraju.
 2.
 Przepis ust. 1 nie narusza przepisów obowiązujących w innych państwach członkowskich Unii Europejskiej.
 § 4.
 W przypadku gdy nabywane usługi, o których mowa w art. 119 ust. 8 ustawy, są usługami transportu międzynarodowego świadczonymi środkami transportu morskiego lub lotniczego, usługi te dla opodatkowania stawką podatku od towarów i usług, zwanego dalej „podatkiem”, w wysokości 0 % usług turystyki uznaje się za usługi świadczone poza terytorium Unii Europejskiej.
+Przypadki, gdy kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług, oraz warunki i tryb dokonywania tego zwrotu
 § 5.
 1.
 Zwrot podatku zapłaconego od importu towarów przysługuje podatnikom, którzy dokonali wywozu towarów poza terytorium Unii Europejskiej w związku z ich reklamacją.
@@ -139,7 +138,7 @@ Kradzież pojazdu silnikowego, o którym mowa w ust. 1 pkt 2, lub jego utrata na
 Zwrot podatku, o którym mowa w ust. 1, przysługuje pod warunkiem, że wartość towarów wykazanych na fakturze wynosi co najmniej 500 złotych łącznie z podatkiem.
 5.
 Dokumentem stanowiącym podstawę do obliczenia podatku podlegającego zwrotowi członkom personelu Agencji jest faktura wystawiona przy zakupie towarów, potwierdzająca ich nabycie przez członków personelu Agencji uprawnionych do skorzystania ze zwrotu podatku.
-6.
+6Ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Finansów z dnia 1 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług (Dz. U. poz. 1591), które weszło w życie z dniem 12 sierpnia 2023 r..
 Zwrot podatku, o którym mowa w ust. 1 pkt 1, przysługuje do kwoty 24 995 złotych.
 § 6b.
 1.
@@ -219,6 +218,7 @@ W przypadku określonym w ust. 7 zwrot podatku następuje w terminie, o którym 
 Zwrot podatku nie przysługuje, jeżeli towar został zwrócony sprzedawcy, a Komisja Europejska, agencja lub organ utworzone przez Unię Europejską, o których mowa w § 6b ust. 1, otrzymały od sprzedawcy zwrot zapłaconej ceny.
 10.
 W przypadku, o którym mowa w § 6b ust. 2, Komisja Europejska, agencja lub organ utworzone przez Unię Europejską, o których mowa w § 6b ust. 1, są obowiązane poinformować o wykorzystaniu nabytych towarów lub usług do odpłatnej dostawy towarów, odpłatnego eksportu towarów, odpłatnej wewnątrzwspólnotowej dostawy towarów lub odpłatnego świadczenia usług Naczelnika Drugiego Urzędu Skarbowego Warszawa-Śródmieście oraz dokonać zwrotu nienależnie uzyskanych kwot podatku, nie później niż do końca miesiąca następującego po miesiącu, w którym dokonano odpowiednio tej dostawy, tego eksportu, tej wewnątrzwspólnotowej dostawy lub tego świadczenia.
+Przypadki, w których kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług finansowanego ze środków bezzwrotnej pomocy zagranicznej, oraz warunki i tryb dokonywania tego zwrotu
 § 8.
 1.
 Podatnikom, którzy dokonują nabycia towarów i usług lub importu towarów za środki finansowe przekazane im bezpośrednio na odrębny rachunek bankowy, na którym są ulokowane wyłącznie środki bezzwrotnej pomocy zagranicznej, przysługuje zwrot podatku naliczonego, pod warunkiem że do tych czynności nie miała zastosowania stawka 0 %.
@@ -235,8 +235,7 @@ Za środki bezzwrotnej pomocy zagranicznej, o których mowa w ust. 1 i 2, uważa
 1)
 umów zawartych z Rządem Rzeczypospolitej Polskiej,
 2)
-jednostronnych deklaracji rządów i organizacji międzynarodowych udzielających pomocy
-z wyłączeniem środków pochodzących z budżetu Unii Europejskiej oraz przypadków, kiedy umowa nie wyłącza możliwości opłacania podatku ze środków finansowych bezzwrotnej pomocy zagranicznej.
+jednostronnych deklaracji rządów i organizacji międzynarodowych udzielających pomocy – z wyłączeniem środków pochodzących z budżetu Unii Europejskiej oraz przypadków, kiedy umowa nie wyłącza możliwości opłacania podatku ze środków finansowych bezzwrotnej pomocy zagranicznej.
 § 9.
 1.
 Zwrot podatku nie dotyczy kwot podatku naliczonego:
@@ -297,22 +296,32 @@ wniosek powinien zawierać również wyliczenie kwot wnioskowanego zwrotu podatk
 do wniosku powinno być również dołączone zaświadczenie o zarejestrowaniu przez Ministerstwo Spraw Zagranicznych umowy przewidującej finansowanie w części zakupów ze środków bezzwrotnej pomocy zagranicznej, o których mowa w § 8 ust. 3 i 4, wraz z określeniem udziału tego finansowania wynikającego z podpisanej umowy.
 5.
 Podatnik dołącza wniosek, o którym mowa w ust. 1, do deklaracji podatkowej dla podatku.
+Przepisy przejściowe i końcowe
 § 13.
 1.
 Warunek posiadania zaświadczenia, o którym mowa w § 10 ust. 1 pkt 5, uznaje się również za spełniony w odniesieniu do odpowiedniego zaświadczenia wydanego do dnia 31 grudnia 2009 r. przez Urząd Komitetu Integracji Europejskiej.
 2.
 Warunek dołączenia do wniosku zaświadczenia, o którym mowa w § 12 ust. 4 pkt 2, uznaje się również za spełniony w odniesieniu do odpowiedniego zaświadczenia wydanego do dnia 31 grudnia 2009 r. przez Urząd Komitetu Integracji Europejskiej.
 § 14.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej ‒ finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Finansów z dnia 1 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług (Dz. U. poz. 1591), które weszło w życie z dniem 12 sierpnia 2023 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 4 kwietnia 2011 r. w sprawie wykonania niektórych przepisów ustawy o podatku od towarów i usług (Dz. U. z 2013 r. poz. 247 i 362), które w zakresie dotyczącym określenia innego miejsca świadczenia oraz określenia przypadków, gdy kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług, oraz warunków i trybu dokonywania tego zwrotu utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 13 ustawy z dnia 7 grudnia 2012 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. z 2013 r. poz. 35, 1027 i 1608).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 4 kwietnia 2011 r. w sprawie wykonania niektórych przepisów ustawy o podatku od towarów i usług (Dz. U. z 2013 r. poz. 247 i 362), które w zakresie dotyczącym określenia innego miejsca świadczenia oraz określenia przypadków, gdy kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług, oraz warunków i trybu dokonywania tego zwrotu utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 13 ustawy z dnia 7 grudnia 2012 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. z 2013 r. poz. 35, 1027 i 1608). 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej ‒ finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Finansów z dnia 1 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług (Dz. U. poz. 1591), które weszło w życie z dniem 12 sierpnia 2023 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 4 kwietnia 2011 r. w sprawie wykonania niektórych przepisów ustawy o podatku od towarów i usług (Dz. U. z 2013 r. poz. 247 i 362), które w zakresie dotyczącym określenia innego miejsca świadczenia oraz określenia przypadków, gdy kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług, oraz warunków i trybu dokonywania tego zwrotu utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 13 ustawy z dnia 7 grudnia 2012 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. z 2013 r. poz. 35, 1027 i 1608).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Określenie innego miejsca świadczenia
+#### Rozdział 2 – Określenie innego miejsca świadczenia
 
-#### Rozdział 3 Przypadki, gdy kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług, oraz warunki i tryb dokonywania tego zwrotu
+#### Rozdział 3 – Przypadki, gdy kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług, oraz warunki i tryb dokonywania tego zwrotu
 
-#### Rozdział 4 Przypadki, w których kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług finansowanego ze środków bezzwrotnej pomocy zagranicznej, oraz warunki i tryb dokonywania tego zwrotu
+#### Rozdział 4 – Przypadki, w których kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług finansowanego ze środków bezzwrotnej pomocy zagranicznej, oraz warunki i tryb dokonywania tego zwrotu
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

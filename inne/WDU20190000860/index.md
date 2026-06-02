@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 4 kwietnia 2019 r. o przedkładaniu niektórych dokumentów urzędowych w państwach członkowskich Unii Europejskiej
+# Ustawa z dnia 4 kwietnia 2019 r. o przedkładaniu niektórych dokumentów urzędowych w państwach członkowskich Unii Europejskiej Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1191 z dnia 6 lipca 2016 r. w sprawie promowania swobodnego przepływu obywateli poprzez uproszczenie wymogów dotyczących przedkładania określonych dokumentów urzędowych w Unii Europejskiej i zmieniającego rozporządzenie (UE) nr 1024/2012 (Dz. Urz. UE L 200 z 26.07.2016, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-04 |
 | Data wydania | 2019-05-09 |
-| Wejście w życie | 2019-05-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000860) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/860/text.pdf) |
 
@@ -90,7 +89,7 @@ source: "eli-html"
 - **7)** zaświadczenia o zameldowaniu na pobyt czasowy,
 - **8)** poświadczenia pozostawania osoby w określonym miejscu,
 - **9)** poświadczenia pozostawania osoby przy życiu,
-- **10)** zaświadczenia o niekaralności osoby, wydanego z Krajowego Rejestru Karnego na wniosek tej osoby celem załączenia do tych dokumentów urzędowych.
+- **10)** zaświadczenia o niekaralności osoby, wydanego z Krajowego Rejestru Karnego na wniosek tej osoby – celem załączenia do tych dokumentów urzędowych.
 
 2. W przypadku dokumentów urzędowych, o których mowa w ust. 1 pkt 1–3, wielojęzyczny formularz załącza się do dokumentów urzędowych wydanych z rejestru stanu cywilnego po dniu 1 marca 2015 r.
 
@@ -164,7 +163,7 @@ source: "eli-html"
 
 3. Minister kierujący działem administracji rządowej, do którego właściwości należą sprawy, w których przyjmowane lub wydawane są dokumenty urzędowe objęte zakresem rozporządzenia 2016/1191, do realizacji zadań, które wykonuje na podstawie rozporządzenia 2016/1191, może, w drodze rozporządzenia, wyznaczyć koordynatora delegowanego oraz określić zakres zadań przekazanych mu do realizacji spośród zadań, które wykonuje jako organ centralny.
 
-4. Wydając rozporządzenie, o którym mowa w ust. 3, uwzględnia się konieczność usprawnienia współpracy organów w sprawach prowadzonych w ramach danego działu administracji rządowej oraz zapewnienia koordynacji rejestracji użytkowników w udostępnionym przez Komisję Europejską teleinformatycznym Systemie Wymiany Informacji na Rynku Wewnętrznym (IMI), ustanowionym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1024/2012 z dnia 25 października 2012 r. w sprawie współpracy administracyjnej za pośrednictwem systemu wymiany informacji na rynku wewnętrznym i uchylającym decyzję Komisji 2008/49/WE („rozporządzenie w sprawie IMI”) (Dz. Urz. UE L 316 z 14.11.2012, str. 1, z późn. zm.).
+4. Wydając rozporządzenie, o którym mowa w ust. 3, uwzględnia się konieczność usprawnienia współpracy organów w sprawach prowadzonych w ramach danego działu administracji rządowej oraz zapewnienia koordynacji rejestracji użytkowników w udostępnionym przez Komisję Europejską teleinformatycznym Systemie Wymiany Informacji na Rynku Wewnętrznym (IMI), ustanowionym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1024/2012 z dnia 25 października 2012 r. w sprawie współpracy administracyjnej za pośrednictwem systemu wymiany informacji na rynku wewnętrznym i uchylającym decyzję Komisji 2008/49/WE („rozporządzenie w sprawie IMI”) (Dz. Urz. UE L 316 z 14.11.2012, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 159 z 28.05.2014, str. 1 i 11, Dz. Urz. UE L 200 z 26.07.2016, str. 1, Dz. Urz. UE L 252 z 16.09.2016, str. 53 i Dz. Urz. UE L 295 z 21.11.2018, str. 1..
 
 5. Koordynatora delegowanego wyznacza się spośród organów, jednostek organizacyjnych, samorządów zawodowych posiadających wynikające z odrębnych przepisów kompetencje o charakterze kontrolnym lub nadzorczym wobec organów wydających dokumenty urzędowe, o których mowa w art. 2, lub przyjmujących dokumenty urzędowe, o których mowa w art. 2 rozporządzenia 2016/1191.
 
@@ -176,5 +175,5 @@ source: "eli-html"
 
 2. Minister właściwy do spraw wewnętrznych odpowiada za realizację zadań informacyjnych wynikających z art. 22 i art. 24 rozporządzenia 2016/1191.
 
-**Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1191 z dnia 6 lipca 2016 r. w sprawie promowania swobodnego przepływu obywateli poprzez uproszczenie wymogów dotyczących przedkładania określonych dokumentów urzędowych w Unii Europejskiej i zmieniającego rozporządzenie (UE) nr 1024/2012 (Dz. Urz. UE L 200 z 26.07.2016, str. 1). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 159 z 28.05.2014, str. 1 i 11, Dz. Urz. UE L 200 z 26.07.2016, str. 1, Dz. Urz. UE L 252 z 16.09.2016, str. 53 i Dz. Urz. UE L 295 z 21.11.2018, str. 1.
 

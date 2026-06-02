@@ -22,26 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-02-02 |
 | Data wydania | 2015-02-16 |
-| Wejście w życie | 2015-03-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000214) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/214/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 7 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2014 r. poz. 1438) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2013 r. poz. 936, z późn. zm.) w załączniku w § 8:
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2013 r. poz. 936, z późn. zm.Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2013 r. poz. 1477 oraz z 2014 r. poz. 330, 585 i 1128.) w załączniku w § 8:
 1)
-w pkt 6 lit. k otrzymuje brzmienie:
-„
+w pkt 6 lit. k otrzymuje brzmienie: „
 k)
-nowotarskiego – Nowy Targ,
-” ;
+nowotarskiego – Nowy Targ, ” ;
 2)
-w pkt 13 lit. c otrzymuje brzmienie:
-„
+w pkt 13 lit. c otrzymuje brzmienie: „
 c)
-kazimierskiego – Kazimierza Wielka,
-” .
+kazimierskiego – Kazimierza Wielka, ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2013 r. poz. 1477 oraz z 2014 r. poz. 330, 585 i 1128.
 

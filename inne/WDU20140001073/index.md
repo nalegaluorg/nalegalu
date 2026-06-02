@@ -41,15 +41,13 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 września 2009 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 2 – Akwakultura, rybołówstwo śródlądowe, przetwórstwo i obrót produktami rybołówstwa i akwakultury, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. z 2013 r. poz. 745), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 24 czerwca 2013 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 2 – Akwakultura, rybołówstwo śródlądowe, przetwórstwo i obrót produktami rybołówstwa i akwakultury, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 764).
 2.
-Podany w załączniku do niniejszego rozporządzenia tekst jednolity nie obejmuje § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 czerwca 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 2 – Akwakultura, rybołówstwo śródlądowe, przetwórstwo i obrót produktami rybołówstwa i akwakultury, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 764), które stanowią:
-„
+Podany w załączniku do niniejszego rozporządzenia tekst jednolity nie obejmuje § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 czerwca 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 2 – Akwakultura, rybołówstwo śródlądowe, przetwórstwo i obrót produktami rybołówstwa i akwakultury, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 764), które stanowią: „
 § 2.
 Do postępowań w sprawie przyznania pomocy finansowej na realizację środków objętych osią priorytetową 2 – Akwakultura, rybołówstwo śródlądowe, przetwórstwo i obrót produktami rybołówstwa i akwakultury, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013”, wszczętych przed dniem wejścia w życie niniejszego rozporządzenia i niezakończonych zawarciem umowy, na podstawie której jest przyznawana pomoc, stosuje się przepisy dotychczasowe, z wyjątkiem § 47 ust. 2 lit. a rozporządzenia wymienionego w § 1, który stosuje się w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 
-## Załącznik nr 1 — – Tekst jednolity rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 września 2009 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 2 – Akwakultura, rybołówstwo śródlądowe, przetwórstwo i obrót produktami rybołówstwa i akwakultury, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013”
+## Załącznik nr 1 — – Tekst jednolity rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 września 2009 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 2 – Akwakultura, rybołówstwo śródlądowe, przetwórstwo i obrót produktami rybołówstwa i akwakultury, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013”Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486).
 
 Na podstawie art. 19 ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego (Dz. U. Nr 72, poz. 619 i Nr 157, poz. 1241) zarządza się, co następuje:
 § 1.
@@ -85,7 +83,7 @@ Pomoc, o której mowa w ust. 1, nie obejmuje operacji w zakresie dotyczącym:
 ryb akwariowych;
 2)
 przetwórstwa produktów rybnych, z wyjątkiem ich sprzedaży bezpośredniej, do której stosuje się przepisy rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 grudnia 2006 r. w sprawie wymagań weterynaryjnych przy produkcji produktów pochodzenia zwierzęcego przeznaczonych do sprzedaży bezpośredniej (Dz. U. z 2007 r. Nr 5, poz. 38) dotyczące sprzedaży bezpośredniej produktów rybołówstwa;
-3)
+3Dodany przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 czerwca 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 2 – Akwakultura, rybołówstwo śródlądowe, przetwórstwo i obrót produktami rybołówstwa i akwakultury, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 764), które weszło w życie z dniem 3 lipca 2013 r.)
 operacji dotyczących budowy nowych obiektów chowu lub hodowli, w których będą wykorzystywane techniki zwiększające produkcję organizmów wodnych ponad naturalne możliwości środowiska, z wyjątkiem operacji mających na celu dywersyfikację prowadzonej dotychczas działalności w zakresie rybołówstwa morskiego, rybactwa śródlądowego, przetwórstwa produktów rybnych lub obrotu produktami rybnymi.
 § 3.
 1.
@@ -95,8 +93,7 @@ budowę i wyposażenie w maszyny i urządzenia techniczne nowego obiektu chowu l
 2)
 odbudowę, rozbudowę lub przebudowę istniejącego obiektu chowu lub hodowli lub
 3)
-adaptację lub remont istniejącego obiektu chowu lub hodowli, wymianę, naprawę lub wyposażenie obiektu chowu lub hodowli w maszyny i urządzenia techniczne oraz zakup środków transportu wewnętrznego i środków transportu zewnętrznego
-służące wzrostowi możliwości produkcyjnych obiektu chowu lub hodowli lub poprawie jakości chowu lub hodowli ryb, lub podniesieniu efektywności wykorzystania dostępnych zasobów wodnych, lub obniżeniu negatywnego wpływu lub zwiększeniu pozytywnego wpływu na środowisko, lub poprawie warunków socjalnych osób pracujących w danym obiekcie chowu lub hodowli.
+adaptację lub remont istniejącego obiektu chowu lub hodowli, wymianę, naprawę lub wyposażenie obiektu chowu lub hodowli w maszyny i urządzenia techniczne oraz zakup środków transportu wewnętrznego i środków transportu zewnętrznego – służące wzrostowi możliwości produkcyjnych obiektu chowu lub hodowli lub poprawie jakości chowu lub hodowli ryb, lub podniesieniu efektywności wykorzystania dostępnych zasobów wodnych, lub obniżeniu negatywnego wpływu lub zwiększeniu pozytywnego wpływu na środowisko, lub poprawie warunków socjalnych osób pracujących w danym obiekcie chowu lub hodowli.
 2.
 Pomoc na realizację operacji w ramach środka inwestycje w chów i hodowlę ryb w zakresie rozwoju i modernizacji obiektów chowu lub hodowli ryb obejmuje również zakup ikry, ryb i innych organizmów wodnych przeznaczonych do dalszego chowu lub hodowli, zwanych dalej „materiałem obsadowym”, na potrzeby pierwszego cyklu hodowlanego w danym obiekcie, w przypadku operacji, o której mowa w ust. 1:
 1)
@@ -104,7 +101,7 @@ pkt 1 lub
 2)
 pkt 3, jeżeli:
 a)
-wykonano nakaz zabicia ryb określony w decyzji powiatowego lekarza weterynarii, o której mowa w art. 44 ust. 1 pkt 4 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2008 r. Nr 213, poz. 1342, z późn. zm.), lub
+wykonano nakaz zabicia ryb określony w decyzji powiatowego lekarza weterynarii, o której mowa w art. 44 ust. 1 pkt 4 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2008 r. Nr 213, poz. 1342, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 47, poz. 278, Nr 60, poz. 372 i Nr 78, poz. 513, z 2013 r. poz. 1287 oraz z 2014 r. poz. 29.), lub
 b)
 wnioskodawca i inni uprawnieni do rybactwa, którzy posiadają obiekty chowu lub hodowli, korzystający z wód tego samego cieku wodnego, podjęli wspólne działania w celu wyeliminowania lub zmniejszenia zagrożenia wystąpienia choroby zakaźnej zwierząt akwakultury określonej w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 6 lutego 2009 r. w sprawie zwalczania chorób zakaźnych zwierząt akwakultury (Dz. U. Nr 30, poz. 198 oraz z 2014 r. poz. 771), zwanym dalej „rozporządzeniem w sprawie zwalczania chorób zakaźnych zwierząt akwakultury”.
 3.
@@ -114,8 +111,7 @@ Pomoc na realizację operacji w ramach środka inwestycje w chów i hodowlę ryb
 1)
 odbudowę, rozbudowę lub przebudowę istniejącego obiektu chowu lub hodowli lub
 2)
-adaptację lub remont istniejącego obiektu chowu lub hodowli, wymianę, naprawę lub wyposażenie tego obiektu w maszyny i urządzenia techniczne oraz zakup środków transportu wewnętrznego i środków transportu zewnętrznego
-służące wprowadzeniu nowych gatunków w rozumieniu art. 10 ust. 1 lit. a rozporządzenia Komisji (WE) nr 498/2007 z dnia 26 marca 2007 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1198/2006 w sprawie Europejskiego Funduszu Rybackiego (Dz. Urz. UE L 120 z 10.05.2007, str. 1, z późn. zm.), z dobrymi perspektywami rynkowymi w rozumieniu art. 10 ust. 1 lit. b tego rozporządzenia, oraz wykorzystaniu nowych technologii lub działań mających na celu zwiększenie wartości dodanej produktów rybnych.
+adaptację lub remont istniejącego obiektu chowu lub hodowli, wymianę, naprawę lub wyposażenie tego obiektu w maszyny i urządzenia techniczne oraz zakup środków transportu wewnętrznego i środków transportu zewnętrznego – służące wprowadzeniu nowych gatunków w rozumieniu art. 10 ust. 1 lit. a rozporządzenia Komisji (WE) nr 498/2007 z dnia 26 marca 2007 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1198/2006 w sprawie Europejskiego Funduszu Rybackiego (Dz. Urz. UE L 120 z 10.05.2007, str. 1, z późn. zm.), z dobrymi perspektywami rynkowymi w rozumieniu art. 10 ust. 1 lit. b tego rozporządzenia, oraz wykorzystaniu nowych technologii lub działań mających na celu zwiększenie wartości dodanej produktów rybnych.
 § 5.
 Pomoc na realizację operacji w ramach środka inwestycje w chów i hodowlę ryb w zakresie rozwoju zrównoważonego chowu lub hodowli organizmów wodnych obejmuje zakup sprzętu, maszyn i urządzeń technicznych oraz montaż instalacji obniżających negatywny wpływ lub zwiększających pozytywny wpływ na środowisko w zakresie chowu lub hodowli organizmów wodnych związanych z produkcją w stawach typu:
 1)
@@ -139,7 +135,7 @@ pkt 2, jeżeli przedsiębiorstwo prowadzone przez wspólników w ramach wykonywa
 1.
 Pomoc na realizację operacji w ramach środka inwestycje w chów i hodowlę ryb przyznaje się podmiotowi:
 1)
-który jest uprawniony do rybactwa w rozumieniu art. 4 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2009 r. Nr 189, poz. 1471, z późn. zm.) lub
+który jest uprawniony do rybactwa w rozumieniu art. 4 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2009 r. Nr 189, poz. 1471, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 200, poz. 1322 oraz z 2013 r. poz. 628 i 1158.) lub
 2)
 któremu wydano zezwolenie na prowadzenie chowu lub hodowli ryb lub innych organizmów morskich w polskich obszarach morskich na podstawie przepisów o rybołówstwie, lub
 3)
@@ -272,8 +268,7 @@ Wysokość pomocy na realizację zobowiązań z zakresu ochrony zasobów genetyc
 a)
 H = 1 – w przypadku gdy w obiekcie chowu lub hodowli w stadzie ryb podlegającym ochronie w zakresie zasobów genetycznych są utrzymywane tarlaki lub selekty w obsadach wynoszących do 500 sztuk/ha,
 b)
-H = zagęszczenie ryb w stadzie, które podlega ochronie w zakresie zasobów genetycznych / 500
-w przypadku gdy w obiekcie chowu lub hodowli w stadzie ryb podlegającym ochronie w zakresie zasobów genetycznych są utrzymywane tarlaki lub selekty w obsadach przekraczających 500 sztuk/ha.
+H = zagęszczenie ryb w stadzie, które podlega ochronie w zakresie zasobów genetycznych / 500 – w przypadku gdy w obiekcie chowu lub hodowli w stadzie ryb podlegającym ochronie w zakresie zasobów genetycznych są utrzymywane tarlaki lub selekty w obsadach przekraczających 500 sztuk/ha.
 § 16.
 Pomoc na realizację operacji w ramach środka na rzecz zdrowia zwierząt obejmuje wsparcie finansowe realizacji zatwierdzonych programów zwalczania chorób zakaźnych określonych w rozporządzeniu w sprawie zwalczania chorób zakaźnych zwierząt akwakultury.
 § 17.
@@ -332,7 +327,7 @@ budowę obiektów służących do przechowywania i oczyszczania ścieków oraz u
 2)
 wprowadzenie technik lub technologii zapewniających odbiór odpadów ze sprzętu pływającego służącego do połowu ryb przez urządzenia znajdujące się w miejscach wyładunku i przystaniach oraz przekazywanie tych odpadów do odzysku lub unieszkodliwienia;
 3)
-usunięcie lub unieszkodliwienie odpadów niebezpiecznych w rozumieniu art. 3 ust. 2 ustawy z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2010 r. Nr 185, poz. 1243, z późn. zm.).
+usunięcie lub unieszkodliwienie odpadów niebezpiecznych w rozumieniu art. 3 ust. 2 ustawy z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2010 r. Nr 185, poz. 1243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 203, poz. 1351, z 2011 r. Nr 106, poz. 622, Nr 117, poz. 678, Nr 138, poz. 809, Nr 152, poz. 897 i Nr 171, poz. 1016 oraz z 2012 r. poz. 951 i 1513.)Ustawa utraciła moc na podstawie art. 252 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, 888 i 1238 oraz z 2014 r. poz. 695), która weszła w życie z dniem 23 stycznia 2013 r..
 § 23.
 Operacje polegające na inwestycjach dotyczących miejsc wyładunku i przystani, mające na celu poprawę jakości lub atrakcyjności produktów rybnych, obejmują w szczególności:
 1)
@@ -354,8 +349,7 @@ zmianę warunków technicznych, technologicznych, sanitarnych, wymagań weteryna
 a)
 poprawę jakości zdrowotnej produktów rybnych,
 b)
-wdrożenie dobrej praktyki higienicznej (GHP)
-o których mowa w przepisach o bezpieczeństwie żywności i żywienia.
+wdrożenie dobrej praktyki higienicznej (GHP) – o których mowa w przepisach o bezpieczeństwie żywności i żywienia.
 § 24.
 1.
 Pomoc na realizację operacji w ramach środka rybołówstwo śródlądowe przyznaje się uprawnionemu do rybactwa w rozumieniu art. 4 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym.
@@ -435,7 +429,7 @@ Pomoc na realizację operacji w ramach środka inwestycje w zakresie przetwórst
 60% tych kosztów – w przypadku operacji realizowanej przez podmiot prowadzący przedsiębiorstwo, o którym mowa w art. 35 ust. 3 lit. a rozporządzenia nr 1198/2006;
 2)
 30% tych kosztów – w przypadku operacji realizowanej przez podmiot prowadzący przedsiębiorstwo, o którym mowa w art. 35 ust. 3 lit. b rozporządzenia nr 1198/2006.
-2a.
+2aW brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Pomoc na realizację operacji w ramach środka inwestycje w zakresie przetwórstwa i obrotu przyznaje się do wysokości limitu dostępnych środków finansowych, nie więcej jednak niż 10 000 000 zł na jednego beneficjenta w ramach jednego naboru wniosków o dofinansowanie.
 3.
 W przypadku gdy o przyznanie pomocy ubiegają się wspólnicy spółki cywilnej przepis § 6 ust. 2 stosuje się odpowiednio.
@@ -471,8 +465,7 @@ poprawy warunków socjalnych osób pracujących w danym obiekcie chowu lub hodow
 4)
 zakupu, budowy lub remontu zaplecza socjalnego dla osób pracujących w miejscach wyładunku i przystaniach,
 5)
-budowy, rozbudowy, przebudowy lub remontu zaplecza socjalnego dla pracowników zakładów przetwórstwa produktów rybnych lub obrotu tymi produktami
-powstaną, gdy proponowany przez wnioskodawcę sposób finansowania i realizacji operacji nie spowoduje utraty płynności finansowej tego wnioskodawcy w okresie 3 lat, licząc od początku roku, w którym wniosek o dofinansowanie został zaakceptowany.
+budowy, rozbudowy, przebudowy lub remontu zaplecza socjalnego dla pracowników zakładów przetwórstwa produktów rybnych lub obrotu tymi produktami – powstaną, gdy proponowany przez wnioskodawcę sposób finansowania i realizacji operacji nie spowoduje utraty płynności finansowej tego wnioskodawcy w okresie 3 lat, licząc od początku roku, w którym wniosek o dofinansowanie został zaakceptowany.
 § 33.
 Zapewnienie należytych gwarancji technicznych operacji stwierdza się na podstawie:
 1)
@@ -494,7 +487,7 @@ Wpływ operacji na środowisko ustala się w postępowaniu w sprawie oceny oddzi
 § 37.
 1.
 Do kosztów kwalifikowalnych operacji zalicza się koszty faktycznie poniesione od dnia przyznania pomocy przez beneficjenta z tytułu realizacji tej operacji, w tym także podatek od towarów i usług (VAT) na zasadach określonych w art. 55 ust. 5 rozporządzenia nr 1198/2006.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku przyznania pomocy na realizację operacji w ramach środków, o których mowa w:
 1)
 § pkt 1, 4 i 5, do kosztów kwalifikowalnych i kosztów ogólnych operacji zalicza się również koszty poniesione przez wnioskodawcę przed dniem przyznania pomocy, lecz nie wcześniej niż od dnia 11 września 2009 r.;
@@ -676,7 +669,7 @@ e)
 przechowywania dokumentów związanych z przyznaną pomocą przez 5 lat,
 f)
 informowania Agencji o okolicznościach mogących mieć wpływ na wykonanie umowy przez 5 lat.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Pięcioletni okres, którego dotyczą zobowiązania wymienione w ust. 1 pkt 2:
 1)
 lit. a, liczy się od dnia zawarcia umowy o dofinansowanie;
@@ -842,8 +835,7 @@ umowa o dofinansowanie zawiera oświadczenia beneficjenta o:
 a)
 osiągnięciu celu operacji lub zobowiązanie do jego osiągnięcia oraz zobowiązanie do zachowania tego celu,
 b)
-niefinansowaniu realizacji operacji z udziałem innych środków publicznych i zobowiązanie do nieubiegania się o takie finansowanie
-przez 5 lat od dnia dokonania przez Agencję płatności końcowej.
+niefinansowaniu realizacji operacji z udziałem innych środków publicznych i zobowiązanie do nieubiegania się o takie finansowanie – przez 5 lat od dnia dokonania przez Agencję płatności końcowej.
 2.
 W przypadku, o którym mowa w ust. 1, wnioski o dofinansowanie składa się do dnia 30 czerwca 2010 r.
 § 56.
@@ -858,13 +850,12 @@ umowa o dofinansowanie zawiera, poza elementami, o których mowa w § 47 ust. 1,
 § 57.
 Wnioski o dofinansowanie w ramach środka, o którym mowa w § 1 pkt 3, można składać z dniem podania do publicznej wiadomości na stronie internetowej administrowanej przez instytucję zarządzającą informacji w tym zakresie.
 § 58.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486). 2) Dodany przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 czerwca 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 2 – Akwakultura, rybołówstwo śródlądowe, przetwórstwo i obrót produktami rybołówstwa i akwakultury, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 764), które weszło w życie z dniem 3 lipca 2013 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 47, poz. 278, Nr 60, poz. 372 i Nr 78, poz. 513, z 2013 r. poz. 1287 oraz z 2014 r. poz. 29. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 200, poz. 1322 oraz z 2013 r. poz. 628 i 1158. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 203, poz. 1351, z 2011 r. Nr 106, poz. 622, Nr 117, poz. 678, Nr 138, poz. 809, Nr 152, poz. 897 i Nr 171, poz. 1016 oraz z 2012 r. poz. 951 i 1513. 6) Ustawa utraciła moc na podstawie art. 252 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, 888 i 1238 oraz z 2014 r. poz. 695), która weszła w życie z dniem 23 stycznia 2013 r. 7) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 10) Rozporządzenie zostało ogłoszone w dniu 11 września 2009 r.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 11 września 2009 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486). 2) Dodany przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 czerwca 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 2 – Akwakultura, rybołówstwo śródlądowe, przetwórstwo i obrót produktami rybołówstwa i akwakultury, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 764), które weszło w życie z dniem 3 lipca 2013 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 47, poz. 278, Nr 60, poz. 372 i Nr 78, poz. 513, z 2013 r. poz. 1287 oraz z 2014 r. poz. 29. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 200, poz. 1322 oraz z 2013 r. poz. 628 i 1158. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 203, poz. 1351, z 2011 r. Nr 106, poz. 622, Nr 117, poz. 678, Nr 138, poz. 809, Nr 152, poz. 897 i Nr 171, poz. 1016 oraz z 2012 r. poz. 951 i 1513. 6) Ustawa utraciła moc na podstawie art. 252 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, 888 i 1238 oraz z 2014 r. poz. 695), która weszła w życie z dniem 23 stycznia 2013 r. 7) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 10) Rozporządzenie zostało ogłoszone w dniu 11 września 2009 r.
 
 ## Załącznik nr 2 — – Szczegółowe wymogi objęte pakietem 1 i 2 w ramach środka działania wodno-środowiskowe
 
 I.
-Pakiet 1*) Podane stawki dotyczą wielkości rekompensat za rok kalendarzowy.
+Pakiet 1*)Podane stawki dotyczą wielkości rekompensat za rok kalendarzowy.
 1.
 Wymogi:
 1)
@@ -902,7 +893,7 @@ wykaszanie roślinności – datę, szacunkową powierzchnię wykoszoną.
 3.
 Stawka rekompensaty wynosi 360 zł/ha powierzchni ewidencyjnej gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych, na której jest realizowany środek.
 II.
-Pakiet 2  Wymogi oraz stawka rekompensaty:
+Pakiet 2 Podane stawki dotyczą wielkości rekompensat za rok kalendarzowy. Wymogi oraz stawka rekompensaty:
 1)
 utrzymywanie powierzchni zarośniętej roślinnością wynurzoną na niezmienionym poziomie – 160 zł/ha powierzchni stawów wraz z groblami, na której beneficjent utrzymuje powierzchnię zarośniętą roślinnością wynurzoną na niezmienionym poziomie (przy 3% tolerancji tej powierzchni);
 2)
@@ -918,7 +909,7 @@ utrzymywanie i udostępnianie ścieżek edukacyjnych nie krótszych niż 2 tys. 
 7)
 utrzymywanie wysp, skarp, grobli wraz z ławami oraz innych nieużytków (pokrytych trawą, roślinnością zielną, krzewami lub drzewami) lub zakładanie sztucznych siedlisk – 130 zł/ha powierzchni ewidencyjnej objętej dofinansowaniem;
 8)
-położenie stawów danego gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych na obszarze Natura 2000 w rozumieniu ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.) lub obszarze objętym inną formą ochrony przyrody – 600 zł/ha powierzchni ewidencyjnej objętej formą ochrony przyrody;
+położenie stawów danego gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych na obszarze Natura 2000 w rozumieniu ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850, 926 i 1002.) lub obszarze objętym inną formą ochrony przyrody – 600 zł/ha powierzchni ewidencyjnej objętej formą ochrony przyrody;
 9)
 brak zalewu stawów, z których dokonano odłowu ryb przez miesiąc w okresie od dnia 15 lipca do dnia 15 września – 160 zł/ha powierzchni stawów wraz z groblami, które nie zostały zalane;
 10)
@@ -928,8 +919,7 @@ racjonalne wykorzystywanie zasobów wodnych – wtórny obieg wody – 250 zł/h
 12)
 stosowanie zaawansowanych technik oczyszczania wód odprowadzanych z obiektów chowu lub hodowli (w tym filtrów, biofiltrów, napowietrzania, mikrosit lub lagun) – 2000 zł/ha powierzchni ewidencyjnej obiektu chowu lub hodowli, na której są stosowane zaawansowane techniki oczyszczania wód odprowadzanych z tych obiektów, nie więcej niż 2000 zł;
 13)
-posiadanie niezależnego systemu rozprowadzania wody w gospodarstwie rolnym przeznaczonym do chowu lub hodowli ryb lub innych organizmów wodnych – 100 zł/ha powierzchni stawu wraz z groblami, na której funkcjonuje taki system.
-*) Podane stawki dotyczą wielkości rekompensat za rok kalendarzowy. 2) Podane stawki dotyczą wielkości rekompensat za rok kalendarzowy. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850, 926 i 1002.
+posiadanie niezależnego systemu rozprowadzania wody w gospodarstwie rolnym przeznaczonym do chowu lub hodowli ryb lub innych organizmów wodnych – 100 zł/ha powierzchni stawu wraz z groblami, na której funkcjonuje taki system. *) Podane stawki dotyczą wielkości rekompensat za rok kalendarzowy. 2) Podane stawki dotyczą wielkości rekompensat za rok kalendarzowy. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850, 926 i 1002.
 
 ## Załącznik nr 2 — a – Zobowiązania oraz wysokość stawek rekompensaty w ramach środka działania wodno-środowiskowe w zakresie ochrony zasobów genetycznych ryb
 

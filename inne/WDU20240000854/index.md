@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw
+# Ustawa z dnia 15 maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 24 września 2010 r. o ewidencji ludności, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe, ustawę z dnia 27 stycznia 2022 r. o dokumentach paszportowych oraz ustawę z dnia 26 maja 2023 r. o aplikacji mObywatel.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-15 |
 | Data wydania | 2024-06-11 |
-| Wejście w życie | 2024-07-01 |
 | Ostatnia zmiana | 2026-04-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000854) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/854/text.pdf) |
 
@@ -34,7 +33,7 @@ source: "eli-html"
 
 - **1)** małżonka obywatela Ukrainy,
 - **2)** małoletnie dziecko obywatela Ukrainy,
-- **3)** małoletnie dziecko małżonka obywatela Ukrainy o ile przybyli oni na terytorium Rzeczypospolitej Polskiej z terytorium Ukrainy w związku z działaniami wojennymi prowadzonymi na terytorium tego państwa i nie są obywatelami polskimi ani obywatelami innych niż Rzeczpospolita Polska państw członkowskich Unii Europejskiej. ” ;
+- **3)** małoletnie dziecko małżonka obywatela Ukrainy – o ile przybyli oni na terytorium Rzeczypospolitej Polskiej z terytorium Ukrainy w związku z działaniami wojennymi prowadzonymi na terytorium tego państwa i nie są obywatelami polskimi ani obywatelami innych niż Rzeczpospolita Polska państw członkowskich Unii Europejskiej. ” ;
 - **2)** w art. 2: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -42,10 +41,12 @@ source: "eli-html"
 
 - **b)**
 - **3)** w art. 2 w ust. 2 w zdaniu pierwszym, w art. 4 w ust. 20a w zdaniu pierwszym, w art. 12a w ust. 1 we wprowadzeniu do wyliczenia, w art. 42 w ust. 3a w zdaniu pierwszym, w ust. 5a, w ust. 6 w zdaniu pierwszym, w ust. 7 w zdaniu pierwszym, w ust. 8 w części wspólnej, w ust. 11 w części wspólnej i w ust. 12a, w art. 42a w ust. 1, w art. 42b oraz w art. 100d w ust. 1 we wprowadzeniu do wyliczenia wyrazy „do dnia 30 czerwca 2024 r.” zastępuje się wyrazami „do dnia 30 września 2025 r.”;
-- **4)** w art. 4: w ust. 2 wyrazy „w terminie 30 dni od dnia przybycia” zastępuje się wyrazami „niezwłocznie po przybyciu”, w ust. 3a zdanie drugie otrzymuje brzmienie: „ Wyjątek stanowią osoby, które nie ukończyły 6. roku życia. ” , w ust. 4 w pkt 20: – lit. a otrzymuje brzmienie: „ a) małżonkiem obywatela Ukrainy określonym w art. 1 ust. 2 pkt 1, ” , – w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ d) małoletnim dzieckiem obywatela Ukrainy lub małżonka obywatela Ukrainy określonym w art. 1 ust. 2 pkt 2 lub 3; ” , w ust. 9 pkt 1 otrzymuje brzmienie: „
+- **4)** w art. 4: w ust. 2 wyrazy „w terminie 30 dni od dnia przybycia” zastępuje się wyrazami „niezwłocznie po przybyciu”, w ust. 3a zdanie drugie otrzymuje brzmienie: „ Wyjątek stanowią osoby, które nie ukończyły 6. roku życia. ” , w ust. 4 w pkt 20: lit. a otrzymuje brzmienie: „ małżonkiem obywatela Ukrainy określonym w art. 1 ust. 2 pkt 1, ” , w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ małoletnim dzieckiem obywatela Ukrainy lub małżonka obywatela Ukrainy określonym w art. 1 ust. 2 pkt 2 lub 3; ” , w ust. 9 pkt 1 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **c)**
+    - **a)**
+    - **d)**
     - **d)**
 
 - **1)** która nie ukończyła 6. roku życia; ” , ust. 11 otrzymuje brzmienie: „
@@ -272,7 +273,7 @@ source: "eli-html"
 - **3)** Szefowi Krajowej Administracji Skarbowej,
 - **4)** Straży Granicznej,
 - **5)** Zakładowi Ubezpieczeń Społecznych,
-- **6)** Głównemu Urzędowi Statystycznemu w zakresie niezbędnym do realizacji ich zadań ustawowych.
+- **6)** Głównemu Urzędowi Statystycznemu – w zakresie niezbędnym do realizacji ich zadań ustawowych.
 
 12. Zakład Ubezpieczeń Społecznych udostępnia dane o objęciu obywatela Ukrainy, o którym mowa w ust. 1, ubezpieczeniami społecznymi lub o zgłoszeniu umowy o dzieło, o której mowa w art. 36 ust. 17 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2024 r. poz. 497), zawartej z tym obywatelem, w drodze teletransmisji danych:
 
@@ -280,7 +281,7 @@ source: "eli-html"
 - **2)** Państwowej Inspekcji Pracy,
 - **3)** Szefowi Krajowej Administracji Skarbowej,
 - **4)** Straży Granicznej,
-- **5)** Głównemu Urzędowi Statystycznemu w celu dostarczania aktualnych informacji pozwalających ocenić liczbę obywateli Ukrainy, którzy wykonują pracę zgodnie z ust. 1 i 2.
+- **5)** Głównemu Urzędowi Statystycznemu – w celu dostarczania aktualnych informacji pozwalających ocenić liczbę obywateli Ukrainy, którzy wykonują pracę zgodnie z ust. 1 i 2.
 
 13. Kasa Rolniczego Ubezpieczenia Społecznego udostępnia dane o objęciu obywatela Ukrainy, o którym mowa w ust. 1, ubezpieczeniem społecznym rolników, w drodze teletransmisji danych:
 
@@ -288,7 +289,7 @@ source: "eli-html"
 - **2)** Państwowej Inspekcji Pracy,
 - **3)** Szefowi Krajowej Administracji Skarbowej,
 - **4)** Straży Granicznej,
-- **5)** Głównemu Urzędowi Statystycznemu w celu dostarczania aktualnych informacji pozwalających ocenić liczbę obywateli Ukrainy, którzy wykonują pracę zgodnie z ust. 1 i 2.
+- **5)** Głównemu Urzędowi Statystycznemu – w celu dostarczania aktualnych informacji pozwalających ocenić liczbę obywateli Ukrainy, którzy wykonują pracę zgodnie z ust. 1 i 2.
 
 14. W przypadku gdy podmiot powierzający wykonywanie pracy cudzoziemcowi nie dopełnił warunków powiadomienia o powierzeniu wykonywania pracy obywatelowi Ukrainy, o których mowa w ust. 1 pkt 2–5 i ust. 2, przepisu art. 120 ust. 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy nie stosuje się.
 
@@ -379,7 +380,7 @@ source: "eli-html"
     - **b)**
 
 - **1)** realizacja obowiązku rocznego przygotowania przedszkolnego, obowiązku szkolnego albo obowiązku nauki,
-- **2)** nauka w szkole, o której mowa w przepisach wydanych na podstawie art. 187a ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej należącej do polskiego systemu oświaty przez dziecko, na które otrzymywane jest to świadczenie przez obywatela Ukrainy przebywającego na terytorium Rzeczypospolitej Polskiej, którego pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie art. 2 ust. 1. 3bb. W przypadku potwierdzenia w systemie informacji oświatowej, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, realizacji przez dziecko obowiązku rocznego przygotowania przedszkolnego, obowiązku szkolnego albo obowiązku nauki, świadczenie, o którym mowa w ust. 1 pkt 2, wypłaca się od miesiąca, w którym zostały spełnione warunki uprawniające do tego świadczenia. 3bc. W przypadku potwierdzenia w systemie informacji oświatowej, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, pobierania przez dziecko nauki w szkole, o której mowa w przepisach wydanych na podstawie art. 187a ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, należącej do polskiego systemu oświaty, świadczenie, o którym mowa w ust. 1 pkt 3, wypłaca się od miesiąca, w którym zostały spełnione warunki uprawniające do tego świadczenia. ” , ust. 4 otrzymuje brzmienie: „
+- **2)** nauka w szkole, o której mowa w przepisach wydanych na podstawie art. 187a ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej należącej do polskiego systemu oświaty – przez dziecko, na które otrzymywane jest to świadczenie przez obywatela Ukrainy przebywającego na terytorium Rzeczypospolitej Polskiej, którego pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie art. 2 ust. 1. 3bb. W przypadku potwierdzenia w systemie informacji oświatowej, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, realizacji przez dziecko obowiązku rocznego przygotowania przedszkolnego, obowiązku szkolnego albo obowiązku nauki, świadczenie, o którym mowa w ust. 1 pkt 2, wypłaca się od miesiąca, w którym zostały spełnione warunki uprawniające do tego świadczenia. 3bc. W przypadku potwierdzenia w systemie informacji oświatowej, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, pobierania przez dziecko nauki w szkole, o której mowa w przepisach wydanych na podstawie art. 187a ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, należącej do polskiego systemu oświaty, świadczenie, o którym mowa w ust. 1 pkt 3, wypłaca się od miesiąca, w którym zostały spełnione warunki uprawniające do tego świadczenia. ” , ust. 4 otrzymuje brzmienie: „
     - **c)**
 
 4. Przysługujące na dziecko świadczenia, o których mowa w ust. 1 pkt 1, z wyłączeniem świadczenia rodzicielskiego, o którym mowa w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, oraz świadczenia lub dofinansowanie, o których mowa w ust. 1 pkt 2, 3 i 5, przysługują także opiekunowi tymczasowemu, o którym mowa w art. 25, oraz opiekunowi, o którym mowa w art. 251 ust. 1. Ustalając prawo do świadczeń, o których mowa w ust. 1 pkt 1, przepisy art. 5 ust. 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych stosuje się odpowiednio. ” , ust. 4b otrzymuje brzmienie: „
@@ -425,7 +426,7 @@ source: "eli-html"
 
 - **1)** wychowawcy lub opiekunowie dziecięcy,
 - **2)** psycholodzy,
-- **3)** pedagodzy obywatele Ukrainy, przebywający na terytorium Rzeczypospolitej Polskiej, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie art. 2 ust. 1, pomimo niespełniania wymogu, o którym mowa w art. 11 ust. 3 ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych. ” , uchyla się ust. 10 i 11, ust. 12 otrzymuje brzmienie: „
+- **3)** pedagodzy – obywatele Ukrainy, przebywający na terytorium Rzeczypospolitej Polskiej, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie art. 2 ust. 1, pomimo niespełniania wymogu, o którym mowa w art. 11 ust. 3 ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych. ” , uchyla się ust. 10 i 11, ust. 12 otrzymuje brzmienie: „
     - **c)**
     - **d)**
 
@@ -433,7 +434,7 @@ source: "eli-html"
 
 - **1)** osoby pracujące z dziećmi,
 - **2)** psycholodzy,
-- **3)** pedagodzy obywatele Ukrainy, przebywający na terytorium Rzeczypospolitej Polskiej, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie art. 2 ust. 1, pomimo niespełniania wymogu, o którym mowa w art. 11 ust. 3 ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych. ” , uchyla się ust. 13 i 14, ust. 14a i 14b otrzymują brzmienie: „
+- **3)** pedagodzy – obywatele Ukrainy, przebywający na terytorium Rzeczypospolitej Polskiej, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie art. 2 ust. 1, pomimo niespełniania wymogu, o którym mowa w art. 11 ust. 3 ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych. ” , uchyla się ust. 13 i 14, ust. 14a i 14b otrzymują brzmienie: „
     - **e)**
     - **f)**
 
@@ -447,7 +448,7 @@ source: "eli-html"
 15. Za zgodą starosty u organizatora rodzinnej pieczy zastępczej, mogą być zatrudnieni jako:
 
 - **1)** psycholodzy,
-- **2)** pedagodzy obywatele Ukrainy, przebywający na terytorium Rzeczypospolitej Polskiej, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie art. 2 ust. 1, pomimo niespełniania wymogu, o którym mowa w art. 11 ust. 3 ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych. ” , uchyla się ust. 16;
+- **2)** pedagodzy – obywatele Ukrainy, przebywający na terytorium Rzeczypospolitej Polskiej, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie art. 2 ust. 1, pomimo niespełniania wymogu, o którym mowa w art. 11 ust. 3 ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych. ” , uchyla się ust. 16;
     - **i)**
 
 - **24)** po art. 27 dodaje się art. 27a-27e w brzmieniu: „
@@ -868,7 +869,7 @@ source: "eli-html"
 **Art. 64b.** Od dnia 1 lipca 2024 r. do dnia 30 września 2025 r., obywatel Ukrainy przebywający na terytorium Rzeczypospolitej Polskiej w okresie legalnego pobytu, w przypadkach, o których mowa w art. 22 ust. 1, posiadający uzyskany w Ukrainie dyplom:
 
 - **1)** jednolitych studiów na kierunku psychologia albo
-- **2)** ukończenia studiów pierwszego stopnia na kierunku psychologia i drugiego stopnia na kierunku psychologia zakończonych uzyskaniem tytułu zawodowego specjalisty na kierunku psychologia albo magistra na kierunku psychologia, może świadczyć usługi psychologiczne obywatelom Ukrainy przebywającym na terytorium Rzeczypospolitej Polskiej, w tym może udzielać świadczeń opieki zdrowotnej z zakresu opieka psychiatryczna i leczenie uzależnień. ” ;
+- **2)** ukończenia studiów pierwszego stopnia na kierunku psychologia i drugiego stopnia na kierunku psychologia – zakończonych uzyskaniem tytułu zawodowego specjalisty na kierunku psychologia albo magistra na kierunku psychologia, może świadczyć usługi psychologiczne obywatelom Ukrainy przebywającym na terytorium Rzeczypospolitej Polskiej, w tym może udzielać świadczeń opieki zdrowotnej z zakresu opieka psychiatryczna i leczenie uzależnień. ” ;
 - **50)** w art. 68 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
 2. Osoba użyczająca lokal może w każdej chwili pisemnie wezwać obywatela Ukrainy, o którym mowa w art. 1 ust. 1, do jego opuszczenia, wyznaczając termin na opuszczenie lokalu nie krótszy niż 14 dni. Na wniosek osoby użyczającej lokal lub obywatela Ukrainy wezwanego do opuszczenia lokalu, wojewoda może zapewnić pomoc na zasadach określonych w art. 12. ” ;
@@ -955,8 +956,10 @@ source: "eli-html"
 
 **Art. 7.** W ustawie z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2024 r. poz. 736) wprowadza się następujące zmiany:
 
-- **1)** w art. 8: w pkt 24a: – lit. c otrzymuje brzmienie: „ c) NUE – w przypadku cudzoziemca niewymienionego w lit. a, b, d oraz e, ” , – w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ e) CUKR – w przypadku osoby, która zmieniła status UKR w trybie określonym w art. 42 ust. 13, art. 42c lub art. 42d ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa; ” , po pkt 24a dodaje się pkt 24b w brzmieniu: „
+- **1)** w art. 8: w pkt 24a: lit. c otrzymuje brzmienie: „ NUE – w przypadku cudzoziemca niewymienionego w lit. a, b, d oraz e, ” , w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ CUKR – w przypadku osoby, która zmieniła status UKR w trybie określonym w art. 42 ust. 13, art. 42c lub art. 42d ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa; ” , po pkt 24a dodaje się pkt 24b w brzmieniu: „
     - **a)**
+    - **c)**
+    - **e)**
     - **b)**
 
 - **24b)** przyczyna nadania lub utraty statusu, o którym mowa w pkt 24a lit. d; ” ;
@@ -1041,7 +1044,7 @@ source: "eli-html"
 - **1)** ministrowi właściwemu do spraw wewnętrznych,
 - **2)** ministrowi właściwemu do spraw rodziny,
 - **3)** wojewodom,
-- **4)** gminom w celu realizacji zadań związanych z pomocą obywatelom Ukrainy.
+- **4)** gminom – w celu realizacji zadań związanych z pomocą obywatelom Ukrainy.
 
 6. Dane gromadzone w bazie podlegają archiwizacji na zasadach i w trybie określonych w przepisach wydanych na podstawie art. 5 ust. 2 i 2b ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164).
 
@@ -1100,17 +1103,17 @@ source: "eli-html"
 3. Postępowania w sprawach:
 
 - **1)** przyznania prawa wykonywania zawodu lekarza i prawa wykonywania zawodu lekarza dentysty oraz wydania dokumentu „Prawo wykonywania zawodu lekarza” albo „Prawo wykonywania zawodu lekarza dentysty”,
-- **2)** przyznania prawa wykonywania zawodu pielęgniarki i prawa wykonywania zawodu położnej oraz wydania dokumentu „Prawo wykonywania zawodu pielęgniarki” albo „Prawo wykonywania zawodu położnej” wszczęte i niezakończone do dnia 24 października 2024 r. są prowadzone na podstawie przepisów dotychczasowych.
+- **2)** przyznania prawa wykonywania zawodu pielęgniarki i prawa wykonywania zawodu położnej oraz wydania dokumentu „Prawo wykonywania zawodu pielęgniarki” albo „Prawo wykonywania zawodu położnej” – wszczęte i niezakończone do dnia 24 października 2024 r. są prowadzone na podstawie przepisów dotychczasowych.
 
 4. Osoby, które uzyskały zgodę na wykonywanie zawodu lekarza albo lekarza dentysty, o której mowa w:
 
 - **1)** art. 7 ust. 2a, 9 lub 10 ustawy zmienianej w art. 5, na podstawie wniosku złożonego do dnia 24 października 2024 r.,
-- **2)** art. 61 ust. 1 ustawy zmienianej w art. 1, na podstawie wniosku złożonego do dnia 24 października 2024 r. są obowiązane do przedłożenia właściwej okręgowej radzie lekarskiej dokumentu poświadczającego znajomość języka polskiego, o którym mowa w art. 7 ust. 23 ustawy zmienianej w art. 5, w terminie do dnia 1 maja 2026 r., pod rygorem utraty prawa wykonywania zawodu lekarza albo lekarza dentysty.
+- **2)** art. 61 ust. 1 ustawy zmienianej w art. 1, na podstawie wniosku złożonego do dnia 24 października 2024 r. – są obowiązane do przedłożenia właściwej okręgowej radzie lekarskiej dokumentu poświadczającego znajomość języka polskiego, o którym mowa w art. 7 ust. 23 ustawy zmienianej w art. 5, w terminie do dnia 1 maja 2026 r., pod rygorem utraty prawa wykonywania zawodu lekarza albo lekarza dentysty.
 
 5. Osoby, które uzyskały zgodę na wykonywanie zawodu pielęgniarki albo położnej, o której mowa w:
 
 - **1)** art. 35a ust. 1, 14 lub 16 ustawy zmienianej w art. 8, na podstawie wniosku złożonego do dnia 24 października 2024 r.,
-- **2)** art. 64 ust. 1 ustawy zmienianej w art. 1, na podstawie wniosku złożonego do dnia 24 października 2024 r. są obowiązane do przedłożenia właściwej okręgowej radzie pielęgniarek i położnych dokumentu poświadczającego znajomość języka polskiego, o którym mowa w art. 35a ust. 28 ustawy zmienianej w art. 8, w terminie do dnia 1 maja 2026 r., pod rygorem utraty prawa wykonywania zawodu pielęgniarki albo położnej.
+- **2)** art. 64 ust. 1 ustawy zmienianej w art. 1, na podstawie wniosku złożonego do dnia 24 października 2024 r. – są obowiązane do przedłożenia właściwej okręgowej radzie pielęgniarek i położnych dokumentu poświadczającego znajomość języka polskiego, o którym mowa w art. 35a ust. 28 ustawy zmienianej w art. 8, w terminie do dnia 1 maja 2026 r., pod rygorem utraty prawa wykonywania zawodu pielęgniarki albo położnej.
 
 **Art. 31.** Zgody udzielone na podstawie art. 7 ust. 2b albo 2i ustawy zmienianej w art. 5, przed dniem 25 października 2024 r., zachowują ważność na okres, na jaki zostały wydane, chyba że zostaną uchylone lub zmienione.
 
@@ -1134,6 +1137,6 @@ source: "eli-html"
 - **2)** art. 1 pkt 4 lit. h w zakresie dodawanego ust. 13d, pkt 10 i 33 oraz art. 7 pkt 1 lit. a, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 33;
 - **3)** art. 1 pkt 4 lit. o i p w zakresie dodawanego ust. 20c oraz art. 7 pkt 1 lit. b, pkt 2 i 3, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 34;
 - **4)** art. 1 pkt 4 lit. b i d, pkt 7 i 43 oraz art. 9, które wchodzą w życie z dniem 1 września 2024 r.;
-- **5)** art. 1 pkt 46 lit. b i pkt 48 lit. b, art. 5, art. 8, art. 27, art. 30 i art. 31, które wchodzą w życie z dniem 25 października 2024 r.
+- **5)** art. 1 pkt 46 lit. b i pkt 48 lit. b, art. 5, art. 8, art. 27, art. 30 i art. 31, które wchodzą w życie z dniem 25 października 2024 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 24 września 2010 r. o ewidencji ludności, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe, ustawę z dnia 27 stycznia 2022 r. o dokumentach paszportowych oraz ustawę z dnia 26 maja 2023 r. o aplikacji mObywatel.
 
 

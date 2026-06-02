@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 5 października 2017 r. w sprawie rodzajów kosztów związanych z realizacją przez Krajowy Ośrodek Wsparcia Rolnictwa zadań pokrywanych ze środków funduszy promocji produktów rolno-spożywczych oraz sposobu i warunków przekazywania i rozliczania tych środków
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 5 października 2017 r. w sprawie rodzajów kosztów związanych z realizacją przez Krajowy Ośrodek Wsparcia Rolnictwa zadań pokrywanych ze środków funduszy promocji produktów rolno-spożywczych oraz sposobu i warunków przekazywania i rozliczania tych środków Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-05 |
 | Data wydania | 2017-10-24 |
-| Wejście w życie | 2017-11-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001979) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1979/text.pdf) |
 
@@ -93,6 +92,5 @@ wydatków poniesionych na pokrycie kosztów, z podziałem na rodzaje kosztów ok
 3)
 środków zwróconych na rachunki bankowe poszczególnych funduszy promocji na podstawie § 3 ust. 2.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 1 kwietnia 2010 r. w sprawie rodzajów kosztów związanych z realizacją przez Agencję Rynku Rolnego zadań pokrywanych ze środków funduszy promocji produktów rolno-spożywczych oraz sposobu i warunków przekazywania i rozliczania tych środków (Dz. U. poz. 498), które na podstawie art. 60 ust. 1 pkt 5 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 1 kwietnia 2010 r. w sprawie rodzajów kosztów związanych z realizacją przez Agencję Rynku Rolnego zadań pokrywanych ze środków funduszy promocji produktów rolno-spożywczych oraz sposobu i warunków przekazywania i rozliczania tych środków (Dz. U. poz. 498), które na podstawie art. 60 ust. 1 pkt 5 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 1 kwietnia 2010 r. w sprawie rodzajów kosztów związanych z realizacją przez Agencję Rynku Rolnego zadań pokrywanych ze środków funduszy promocji produktów rolno-spożywczych oraz sposobu i warunków przekazywania i rozliczania tych środków (Dz. U. poz. 498), które na podstawie art. 60 ust. 1 pkt 5 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

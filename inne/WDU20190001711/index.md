@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-06 |
 | Data wydania | 2019-09-06 |
-| Wejście w życie | 2019-09-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001711) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1711/text.pdf) |
 
@@ -31,15 +30,13 @@ Na podstawie art. 12 ust. 3 oraz art. 27 ustawy z dnia 15 grudnia 2016 r. o Prok
 § 1.
 W rozporządzeniu Prezesa Rady Ministrów z dnia 11 maja 2017 r. w sprawie osób prawnych zastępowanych przez Prokuratorię Generalną Rzeczypospolitej Polskiej oraz opłat ponoszonych za usługi prawne świadczone przez Prokuratorię Generalną Rzeczypospolitej Polskiej, a także opłat za przeprowadzenie postępowania przed Sądem Polubownym przy Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 702) wprowadza się następujące zmiany:
 1)
-w § 7 w ust. 4 dodaje się pkt 7–9 w brzmieniu:
-„
+w § 7 w ust. 4 dodaje się pkt 7–9 w brzmieniu: „
 7)
 Centrum Łukasiewicz,
 8)
 Państwowego Gospodarstwa Wodnego Wody Polskie,
 9)
-Urzędu Komisji Nadzoru Finansowego
-” ;
+Urzędu Komisji Nadzoru Finansowego ” ;
 2)
 w załączniku do rozporządzenia w części I. PAŃSTWOWE OSOBY PRAWNE:
 a)
@@ -49,17 +46,34 @@ w grupie 0 w pkt 2:
 b)
 w grapie B:
 – w pkt 1 uchyla się lp. 8,
-– w pkt 3: – uchyla się lp. 1, 10 i 11, – uchyla się lp. 13, – w pkt 4 dodaje się lp. 10–12 w brzmieniu: „ „10 Centrum Łukasiewicz Warszawa 382967128 11 Instytut Europy Środkowej Lublin 382102374 12 Polski Instytut Ekonomiczny Warszawa 381375093”, – w pkt 6: – uchyla się lp. 10, – uchyla się lp. 25, – w pkt 10 dodaje się lp. 2 w brzmieniu: „ „2 Państwowy Zarząd Powierniczy Kraków 0000512617”,
+w pkt 3:
+– uchyla się lp. 1, 10 i 11,
+– uchyla się lp. 13,
+w pkt 4 dodaje się lp. 10–12 w brzmieniu: „
+„10 Centrum Łukasiewicz Warszawa 382967128 11 Instytut Europy Środkowej Lublin 382102374 12 Polski Instytut Ekonomiczny Warszawa 381375093”,
+w pkt 6:
+– uchyla się lp. 10,
+– uchyla się lp. 25,
+w pkt 10 dodaje się lp. 2 w brzmieniu: „
+„2 Państwowy Zarząd Powierniczy Kraków 0000512617”,
 c)
 w grupie D:
 – w pkt 1 uchyla się lp. 17,
-– w pkt 2: – – uchyla się lp. 90, – – lp. 94 otrzymuje brzmienie: 94 Narodowe Centrum Sportu – Rozliczenia Sp. z o.o. w likwidacji Warszawa 0000291803”,
+w pkt 2:
+– – uchyla się lp. 90,
+– lp. 94 otrzymuje brzmienie:
+94 Narodowe Centrum Sportu – Rozliczenia Sp. z o.o. w likwidacji Warszawa 0000291803”,
 d)
-w grupie E w pkt 2 dodaje się lp. 4 w brzmieniu: „ „4 Centralny Port Komunikacyjny sp. z o.o. Warszawa 0000759991”,
+w grupie E w pkt 2 dodaje się lp. 4 w brzmieniu: „
+„4 Centralny Port Komunikacyjny sp. z o.o. Warszawa 0000759991”,
 e)
 w grupie F:
-– w pkt 2 dodaje się lp. 3 w brzmieniu: „ „3 Urząd Komisji Nadzoru Finansowego Warszawa 382088467”,
-– dodaje się pkt 4 w brzmieniu: „ 4) inne państwowe osoby prawne Lp. Nazwa Siedziba Nr KRS 1 Polski Fundusz Rozwoju S.A. Warszawa 0000466256”,
+w pkt 2 dodaje się lp. 3 w brzmieniu: „
+„3 Urząd Komisji Nadzoru Finansowego Warszawa 382088467”,
+dodaje się pkt 4 w brzmieniu: „
+4)
+inne państwowe osoby prawne
+Lp. Nazwa Siedziba Nr KRS 1 Polski Fundusz Rozwoju S.A. Warszawa 0000466256”,
 f)
 w grupie G w pkt 5 uchyla się lp. 3.
 § 2.

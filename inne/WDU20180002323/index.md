@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-27 |
 | Data wydania | 2018-12-12 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002323) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2323/text.pdf) |
 
@@ -62,7 +61,7 @@ W przypadku gdy według stanu na dzień 30 czerwca lub 31 grudnia zmniejszyła s
 3.
 Po ustaniu okoliczności uprawniających osobę wykonującą pracę zarobkową do korzystania ze zwolnienia od pracy osoba ta przystępuje do pracy, bez uprzedniego wezwania pracodawcy.
 4.
-W przypadku, o którym mowa w ust. 3, pracodawca w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.) dopuszcza pracownika do pracy na dotychczasowym stanowisku, a jeżeli nie jest to możliwe, na stanowisku równorzędnym z zajmowanym przed rozpoczęciem zwolnienia od pracy lub na innym stanowisku odpowiadającym jego kwalifikacjom zawodowym, za wynagrodzeniem nie niższym od wynagrodzenia za pracę przysługującego pracownikowi w dniu podjęcia pracy na stanowisku zajmowanym przed tym zwolnieniem.
+W przypadku, o którym mowa w ust. 3, pracodawca w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244 i 2245.) dopuszcza pracownika do pracy na dotychczasowym stanowisku, a jeżeli nie jest to możliwe, na stanowisku równorzędnym z zajmowanym przed rozpoczęciem zwolnienia od pracy lub na innym stanowisku odpowiadającym jego kwalifikacjom zawodowym, za wynagrodzeniem nie niższym od wynagrodzenia za pracę przysługującego pracownikowi w dniu podjęcia pracy na stanowisku zajmowanym przed tym zwolnieniem.
 § 5.
 1.
 Pracownikowi w okresie zwolnienia od pracy ustala się wynagrodzenie według zasad obowiązujących przy obliczaniu ekwiwalentu pieniężnego za niewykorzystany przez pracownika urlop wypoczynkowy określonych w przepisach wydanych na podstawie art. 173 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy. Przy ustalaniu tego wynagrodzenia dodatkowe wynagrodzenie za pracę w warunkach szkodliwych dla zdrowia, szczególnie uciążliwych, uciążliwych lub niebezpiecznych uwzględnia się, jeżeli w okresie zwolnienia od pracy nie ustaje dotychczasowe narażenie pracownika na oddziaływanie takich warunków.
@@ -85,5 +84,5 @@ Osoba wykonująca pracę zarobkową korzystająca ze zwolnienia od pracy zachowu
 2.
 Osobie skierowanej do pracodawcy w celu odbycia służby zastępczej korzystającej ze zwolnienia od pracy przysługują świadczenia, o których mowa w art. 9 ustawy z dnia 28 listopada 2003 r. o służbie zastępczej.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 11 czerwca 1996 r. w sprawie trybu udzielania urlopu bezpłatnego i zwolnień od pracy pracownikom pełniącym z wyboru funkcje w związkach zawodowych oraz zakresu uprawnień przysługujących pracownikom w czasie urlopu bezpłatnego i zwolnień od pracy (Dz. U. poz. 336), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz niektórych innych ustaw (Dz. U. poz. 1608). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244 i 2245. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 11 czerwca 1996 r. w sprawie trybu udzielania urlopu bezpłatnego i zwolnień od pracy pracownikom pełniącym z wyboru funkcje w związkach zawodowych oraz zakresu uprawnień przysługujących pracownikom w czasie urlopu bezpłatnego i zwolnień od pracy (Dz. U. poz. 336), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz niektórych innych ustaw (Dz. U. poz. 1608).
 

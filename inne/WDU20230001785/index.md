@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 sierpnia 2023 r. o zmianie ustawy o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej oraz niektórych innych ustaw
+# Ustawa z dnia 16 sierpnia 2023 r. o zmianie ustawy o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej oraz niektórych innych ustaw Niniejsza ustawa służy stosowaniu rozporządzenia Rady (UE) 2022/1854 z dnia 6 października 2022 r. w sprawie interwencji w sytuacji nadzwyczajnej w celu rozwiązania problemu wysokich cen energii (Dz. Urz. UE LI 261 z 07.10.2022, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-08-16 |
 | Data wydania | 2023-09-04 |
-| Wejście w życie | 2023-09-19 |
 | Ostatnia zmiana | 2024-12-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001785) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1785/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, ustawę z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku oraz ustawę z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. w związku z sytuacją na rynku gazu.
+Składka solidarnościowa
 
 **Art. 1.** W ustawie z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. z 2023 r. poz. 1704) wprowadza się następujące zmiany:
 
@@ -39,7 +41,7 @@ source: "eli-html"
     - **a)**
     - **c)**
 
-**Art. 2.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm.) w art. 56:
+**Art. 2.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295, 1506, 1597, 1681, 1688, 1693 i 1762.) w art. 56:
 
 - **1)** w ust. 1 po pkt 17b dodaje się pkt 17ba w brzmieniu: „ 17ba) nie wykonuje zadań sprzedawcy z urzędu, o których mowa w art. 62c; ” ;
 - **2)** w ust. 2g pkt 1 otrzymuje brzmienie: „
@@ -53,11 +55,11 @@ source: "eli-html"
 
 3c. W przypadku gdy przed wydaniem decyzji o wymierzeniu kary pieniężnej, o której mowa w ust. 1 pkt 1, 1b-1e, 1g, 1k, 2, 3a-6c, 7–12, 12d-17b, 18a-27, 30a, 30d, 30g, 30h, 30r-30t, 31, 32, 32a, 35–38, ukarany podmiot nie dysponuje danymi finansowymi niezbędnymi do ustalenia przychodu za rok podatkowy poprzedzający rok wymierzenia kary pieniężnej lub danych takich nie przedstawił Prezesowi URE – przepisy ust. 3a i 3b stosuje się. ” .
 
-**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.) w art. 297 w § 1 w pkt 11 w lit. d kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
+**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556, 614, 1059, 1193, 1234, 1450, 1598, 1705 i 1723.) w art. 297 w § 1 w pkt 11 w lit. d kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
 
 - **12)** Prezesowi Urzędu Regulacji Energetyki – w związku z prowadzonym postępowaniem lub kontrolą zgodnie z przepisami ustawy z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku (Dz. U. poz. 2243 i 2687 oraz z 2023 r. poz. 295, 1113, 1681 i 1693). ” .
 
-**Art. 4.** W ustawie z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2538, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2538, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 412, 1210, 1495 i 1532, z 2021 r. poz. 1093 oraz z 2022 r. poz. 202, 1477, 1692, 2243 i 2687.) wprowadza się następujące zmiany:
 
 - **1)** w art. 12 w pkt 2b po wyrazach „(Dz. U. poz. 2243)” dodaje się wyrazy „, oraz środki uzyskane ze składki solidarnościowej, o której mowa w art. 29a ust. 1 tej ustawy”;
 - **2)** w art. 13 w pkt 5 po wyrazach „oraz wsparciu niektórych odbiorców w 2023 roku” dodaje się wyrazy „, oraz na wypłatę środków pochodzących z wpłat składki solidarnościowej, o której mowa w art. 29a ust. 1 tej ustawy”;
@@ -69,7 +71,7 @@ source: "eli-html"
 - **2j)** wnioskowanie zgodnie z art. 65 ust. 3 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw o przekazanie z Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ust. 1 tej ustawy, kwoty na podstawie wniosku, o którym mowa w art. 29f ust. 3 pkt 2 ustawy z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku;
 - **2k)** wnioskowanie zgodnie z art. 65 ust. 3 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw o przekazanie z rachunku Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ust. 1 tej ustawy, kwoty wskazanej we wniosku Prezesa URE, o którym mowa w art. 29j ust. 2 pkt 2 ustawy z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku; ” .
 
-**Art. 5.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.) w art. 65 w ust. 4 w pkt 5a po wyrazach „zgodnie z art. 24 ust. 4 tej ustawy” dodaje się wyrazy „oraz środków zgormadzonych z tytułu wpłat składki solidarnościowej, w której mowa w art. 29a ust. 1 tej ustawy”.
+**Art. 5.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2175 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687 oraz z 2023 r. poz. 295, 556, 803 i 1641.) w art. 65 w ust. 4 w pkt 5a po wyrazach „zgodnie z art. 24 ust. 4 tej ustawy” dodaje się wyrazy „oraz środków zgormadzonych z tytułu wpłat składki solidarnościowej, w której mowa w art. 29a ust. 1 tej ustawy”.
 
 **Art. 6.** W ustawie z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku (Dz. U. poz. 2243 i 2687 oraz z 2023 r. poz. 295, 1113, 1681 i 1693) wprowadza się następujące zmiany:
 
@@ -93,7 +95,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** 97% sumy: przychodów ze sprzedaży gwarancji pochodzenia w rozumieniu ustawy o odnawialnych źródłach energii, przychodów z umów związanych ze sprzedażą energii elektrycznej obejmujących instrumenty finansowe w rozumieniu art. 2 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi oraz innych przychodów z dodatkowych rozliczeń pieniężnych podmiotów, o których mowa w art. 21, wynikających z zawartych umów sprzedaży energii elektrycznej lub innych umów, w których dodatkowe rozliczenia pieniężne zależą od ilości lub wartości sprzedanej energii gdzie wszystkie wartości są określane na dzień obliczenia odpisu na Fundusz.
+- **2)** 97% sumy: przychodów ze sprzedaży gwarancji pochodzenia w rozumieniu ustawy o odnawialnych źródłach energii, przychodów z umów związanych ze sprzedażą energii elektrycznej obejmujących instrumenty finansowe w rozumieniu art. 2 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi oraz innych przychodów z dodatkowych rozliczeń pieniężnych podmiotów, o których mowa w art. 21, wynikających z zawartych umów sprzedaży energii elektrycznej lub innych umów, w których dodatkowe rozliczenia pieniężne zależą od ilości lub wartości sprzedanej energii – gdzie wszystkie wartości są określane na dzień obliczenia odpisu na Fundusz.
     - **a)**
     - **b)**
     - **c)**
@@ -116,7 +118,7 @@ source: "eli-html"
 
 - **6)** po art. 29 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Składka solidarnościowa
+#### Rozdział 3a
 
 **Art. 29a.**
 
@@ -144,7 +146,7 @@ source: "eli-html"
     - **b)**
 
 - **2)** nie był w 2022 r. mikroprzedsiębiorcą, małym przedsiębiorcą ani średnim przedsiębiorcą w rozumieniu art. 7 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców,
-- **3)** nie był w 2022 r. małą spółką o średniej kapitalizacji ani spółką o średniej kapitalizacji w rozumieniu art. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/1017 z dnia 25 czerwca 2015 r. w sprawie Europejskiego Funduszu na rzecz Inwestycji Strategicznych, Europejskiego Centrum Doradztwa Inwestycyjnego i Europejskiego Portalu Projektów Inwestycyjnych oraz zmieniającego rozporządzenia (UE) nr 1291/2013 i (UE) nr 1316/2013 – Europejski Fundusz na rzecz Inwestycji Strategicznych (Dz. Urz. UE L 169 z 01.07.2015, str. 1, z późn. zm.) zwany dalej „przedsiębiorcą obowiązanym”.
+- **3)** nie był w 2022 r. małą spółką o średniej kapitalizacji ani spółką o średniej kapitalizacji w rozumieniu art. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/1017 z dnia 25 czerwca 2015 r. w sprawie Europejskiego Funduszu na rzecz Inwestycji Strategicznych, Europejskiego Centrum Doradztwa Inwestycyjnego i Europejskiego Portalu Projektów Inwestycyjnych oraz zmieniającego rozporządzenia (UE) nr 1291/2013 i (UE) nr 1316/2013 – Europejski Fundusz na rzecz Inwestycji Strategicznych (Dz. Urz. UE L 169 z 01.07.2015, str. 1, z późn. zm.) – zwany dalej „przedsiębiorcą obowiązanym”.
 
 2. Obowiązek, o którym mowa w ust. 1, nie dotyczy przedsiębiorcy:
 
@@ -206,7 +208,7 @@ source: "eli-html"
 3. W przypadku:
 
 - **1)** nieusunięcia braków formalnych lub oczywistych omyłek w terminie 14 dni od dnia otrzymania wezwania do ich usunięcia, lub
-- **2)** negatywnej weryfikacji sprawozdania, o którym mowa w art. 29d ust. 1 zarządca rozliczeń przekazuje Prezesowi URE wniosek o przeprowadzenie kontroli zgodności informacji i oświadczeń złożonych w sprawozdaniu, o którym mowa w art. 29d ust. 1, ze stanem faktycznym lub księgami rachunkowymi oraz dokumentacją zgromadzoną w sprawie.
+- **2)** negatywnej weryfikacji sprawozdania, o którym mowa w art. 29d ust. 1 – zarządca rozliczeń przekazuje Prezesowi URE wniosek o przeprowadzenie kontroli zgodności informacji i oświadczeń złożonych w sprawozdaniu, o którym mowa w art. 29d ust. 1, ze stanem faktycznym lub księgami rachunkowymi oraz dokumentacją zgromadzoną w sprawie.
 
 4. Zarządca rozliczeń, po dokonaniu czynności, o których mowa w ust. 1 i 2, przekazuje Prezesowi URE:
 
@@ -240,7 +242,7 @@ source: "eli-html"
 
 - **1)** ministra właściwego do spraw gospodarki złożami kopalin na temat przedsiębiorców, o których mowa w art. 29b ust. 2 pkt 1,
 - **2)** ministra właściwego do spraw środowiska na temat przedsiębiorców, którym udzielono koncesje na prowadzenie działalności, o której mowa w art. 29b ust. 1 pkt 1 lit. a, oraz ministra właściwego do spraw klimatu na temat przedsiębiorców, którzy prowadzą działalność gospodarczą w zakresie wytwarzania produktów koksowania węgla, o której mowa w art. 29b ust. 1 pkt 1 lit. b,
-- **3)** Krajową Administrację Skarbową, zwaną dalej „KAS”, dotyczących spełnienia przesłanki, o której mowa w art. 29b ust. 1 pkt 2 i w art. 29b ust. 2 pkt 2, przez przedsiębiorców spełniających przesłankę, o której mowa w art. 29b ust. 1 pkt 1 przygotowuje wykaz przedsiębiorców obowiązanych.
+- **3)** Krajową Administrację Skarbową, zwaną dalej „KAS”, dotyczących spełnienia przesłanki, o której mowa w art. 29b ust. 1 pkt 2 i w art. 29b ust. 2 pkt 2, przez przedsiębiorców spełniających przesłankę, o której mowa w art. 29b ust. 1 pkt 1 – przygotowuje wykaz przedsiębiorców obowiązanych.
 
 2. Minister właściwy do spraw aktywów państwowych oraz minister właściwy do spraw środowiska oraz minister właściwy do spraw klimatu przekazują w postaci elektronicznej, w terminie 15 dni od dnia wejścia w życie ustawy z dnia 16 sierpnia 2023 r. o zmianie ustawy o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej oraz niektórych innych ustaw, do Prezesa URE dane przedsiębiorców, o których mowa w ust. 1.
 
@@ -320,7 +322,7 @@ source: "eli-html"
 
 12. Odsetki za opóźnienie są liczone od dnia upływu terminu określonego w art. 29g ust. 1, odpowiednio w zależności od przypadków ujętych w art. 29j.
 
-13. Odwołanie od decyzji Prezesa URE nie zwalnia z obowiązku zapłacenia składki solidarnościowej w wysokości zgodnej z decyzją Prezesa URE. W przypadku określenia wysokości składki solidarnościowej w trybie, o którym mowa w art. 29j, przedsiębiorca obowiązany niezwłocznie dokonuje wpłaty składki solidarnościowej. Do egzekucji należnej składki solidarnościowej stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.).
+13. Odwołanie od decyzji Prezesa URE nie zwalnia z obowiązku zapłacenia składki solidarnościowej w wysokości zgodnej z decyzją Prezesa URE. W przypadku określenia wysokości składki solidarnościowej w trybie, o którym mowa w art. 29j, przedsiębiorca obowiązany niezwłocznie dokonuje wpłaty składki solidarnościowej. Do egzekucji należnej składki solidarnościowej stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614, 852, 1059, 1130, 1193, 1369, 1429, 1523 i 1681.).
 
 1. Wpływy ze składki solidarnościowej mogą być przeznaczane na wypłatę i obsługę:
 
@@ -400,5 +402,5 @@ source: "eli-html"
 
 **Art. 10.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 23 ust. 3 ustawy zmienianej w art. 6 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 23 ust. 3 ustawy zmienianej w art. 6, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie art. 6 pkt 4 niniejszej ustawy, i mogą być zmieniane.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem przepisów art. 6 pkt 4 i 5, które wchodzą w życie pierwszego dnia miesiąca następującego po upływie 2 miesięcy od dnia ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem przepisów art. 6 pkt 4 i 5, które wchodzą w życie pierwszego dnia miesiąca następującego po upływie 2 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Rady (UE) 2022/1854 z dnia 6 października 2022 r. w sprawie interwencji w sytuacji nadzwyczajnej w celu rozwiązania problemu wysokich cen energii (Dz. Urz. UE LI 261 z 07.10.2022, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, ustawę z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku oraz ustawę z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. w związku z sytuacją na rynku gazu. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295, 1506, 1597, 1681, 1688, 1693 i 1762. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556, 614, 1059, 1193, 1234, 1450, 1598, 1705 i 1723. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 412, 1210, 1495 i 1532, z 2021 r. poz. 1093 oraz z 2022 r. poz. 202, 1477, 1692, 2243 i 2687. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2175 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687 oraz z 2023 r. poz. 295, 556, 803 i 1641. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614, 852, 1059, 1130, 1193, 1369, 1429, 1523 i 1681.
 

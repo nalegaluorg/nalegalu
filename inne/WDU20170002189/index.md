@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 23 listopada 2017 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 5. Wspieranie obrotu i przetwarzania, zawartego w Programie Operacyjnym „Rybactwo i Morze”
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 23 listopada 2017 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 5. Wspieranie obrotu i przetwarzania, zawartego w Programie Operacyjnym „Rybactwo i Morze” Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-23 |
 | Data wydania | 2017-11-28 |
-| Wejście w życie | 2017-11-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002189) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2189/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 24 ust. 1 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównow
 § 1.
 W rozporządzeniu Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 21 listopada 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 5. Wspieranie obrotu i przetwarzania, zawartego w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1965) wprowadza się następujące zmiany:
 1)
-po § 11 dodaje się § 11a w brzmieniu:
-„
+po § 11 dodaje się § 11a w brzmieniu: „
 § 11a.
 1.
 Pomoc finansową, o której mowa w § 1, na realizację operacji w ramach działania, o którym mowa w art. 68 rozporządzenia nr 508/2014 w zakresie określonym w art. 68 ust. 1 lit. b i g tego rozporządzenia, przyznaje się, jeżeli operacja ma na celu zwiększenie popytu i konkurencyjności krajowych produktów rybołówstwa i akwakultury na rynku krajowym lub międzynarodowym.
@@ -74,32 +72,25 @@ wpłyną na zwiększenie wykorzystania potencjału przetwarzania produktów rybo
 2)
 zapewnią skuteczność w odniesieniu do określonych odbiorców działań objętych daną operacją,
 3)
-przyczynią się do kreowania pozytywnego wizerunku krajowych produktów rybołówstwa i akwakultury na rynku krajowym lub międzynarodowym
-na podstawie danych Instytutu Ekonomiki Rolnictwa i Gospodarki Żywnościowej – Państwowego Instytutu Badawczego w zakresie wielkości spożycia produktów rybołówstwa i akwakultury, wielkości produkcji tych produktów, międzynarodowej wymiany handlowej tych produktów lub preferencji konsumentów w odniesieniu do tych produktów, według stanu na dzień rozpatrywania tego wniosku.
+przyczynią się do kreowania pozytywnego wizerunku krajowych produktów rybołówstwa i akwakultury na rynku krajowym lub międzynarodowym – na podstawie danych Instytutu Ekonomiki Rolnictwa i Gospodarki Żywnościowej – Państwowego Instytutu Badawczego w zakresie wielkości spożycia produktów rybołówstwa i akwakultury, wielkości produkcji tych produktów, międzynarodowej wymiany handlowej tych produktów lub preferencji konsumentów w odniesieniu do tych produktów, według stanu na dzień rozpatrywania tego wniosku.
 5.
-Opinia, o której mowa w ust. 2, jest wydawana w terminie 30 dni od dnia złożenia przez ubiegającego się o dofinansowanie wniosku o jej wydanie.
-” ;
+Opinia, o której mowa w ust. 2, jest wydawana w terminie 30 dni od dnia złożenia przez ubiegającego się o dofinansowanie wniosku o jej wydanie. ” ;
 2)
-w § 14 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
-„
+w § 14 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 2.
 Pomoc finansową, o której mowa w § 1, na realizację operacji w ramach działania, o którym mowa w art. 68 rozporządzenia nr 508/2014 w zakresie określonym w art. 68 ust. 1 lit. b tego rozporządzenia, przyznaje się podmiotom wymienionym w ust. 1, w formie zwrotu kosztów kwalifikowalnych w wysokości 95% tych kosztów, jeżeli operacja:
 1)
 ma zasięg krajowy lub międzynarodowy;
 2)
-spełnia warunki określone w art. 95 ust. 3 lit. a rozporządzenia nr 508/2014.
-” ;
+spełnia warunki określone w art. 95 ust. 3 lit. a rozporządzenia nr 508/2014. ” ;
 3)
-w § 15 w ust. 1 w pkt 1 lit. c i d otrzymują brzmienie:
-„
+w § 15 w ust. 1 w pkt 1 lit. c i d otrzymują brzmienie: „
 c)
 opracowania koncepcji wejścia na nowy rynek oraz prezentacji lub sprzedaży produktu na tym rynku,
 d)
-wskazania najefektywniejszych narzędzi i metod marketingowych oraz promocyjnych, a także zastosowania tych narzędzi i metod,
-” ;
+wskazania najefektywniejszych narzędzi i metod marketingowych oraz promocyjnych, a także zastosowania tych narzędzi i metod, ” ;
 4)
-w § 39 ust. 4 otrzymuje brzmienie:
-„
+w § 39 ust. 4 otrzymuje brzmienie: „
 4.
 Operacja może być realizowana nie więcej niż w pięciu etapach – w przypadku operacji realizowanych w ramach działania, o którym mowa w art. 66 rozporządzenia nr 508/2014, oraz nie więcej niż w czterech etapach – w przypadku operacji realizowanych w ramach działań, o których mowa w art. 67–69 rozporządzenia nr 508/2014, przy czym wykonanie zakresu rzeczowego, zgodnie z zestawieniem rzeczowo-finansowym operacji, w tym poniesienie przez beneficjenta kosztów kwalifikowalnych operacji oraz złożenie wniosku o płatność końcową, następuje w terminie do:
 1)
@@ -107,26 +98,19 @@ Operacja może być realizowana nie więcej niż w pięciu etapach – w przypad
 2)
 36 miesięcy od dnia zawarcia umowy o dofinansowanie – w przypadku operacji realizowanych w kilku etapach w ramach działań, o których mowa w art. 67–69 rozporządzenia nr 508/2014,
 3)
-24 miesięcy od dnia zawarcia umowy o dofinansowanie – w przypadku operacji realizowanych w jednym etapie w ramach działań, o których mowa w art. 67–69 rozporządzenia nr 508/2014
-lecz nie później niż do dnia 31 marca 2023 r.
-” ;
+24 miesięcy od dnia zawarcia umowy o dofinansowanie – w przypadku operacji realizowanych w jednym etapie w ramach działań, o których mowa w art. 67–69 rozporządzenia nr 508/2014 – lecz nie później niż do dnia 31 marca 2023 r. ” ;
 5)
 w załączniku nr 2 do rozporządzenia:
 a)
-w ust. 3 w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu:
-„
+w ust. 3 w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „
 13)
-pozytywna opinia ministra właściwego do spraw rybołówstwa o zwiększeniu popytu i konkurencyjności krajowych produktów rybołówstwa i akwakultury na rynku krajowym lub międzynarodowym – w przypadku gdy wymaga tego specyfika operacji.
-” ,
+pozytywna opinia ministra właściwego do spraw rybołówstwa o zwiększeniu popytu i konkurencyjności krajowych produktów rybołówstwa i akwakultury na rynku krajowym lub międzynarodowym – w przypadku gdy wymaga tego specyfika operacji. ” ,
 b)
-w ust. 4 w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 w brzmieniu:
-„
+w ust. 4 w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 w brzmieniu: „
 15)
-kopia decyzji powiatowego lekarza weterynarii o nadaniu weterynaryjnego numeru identyfikacyjnego zakładowi lub kopia decyzji państwowego powiatowego inspektora sanitarnego zatwierdzającej zakład – w przypadku gdy wymaga tego specyfika operacji.
-” .
+kopia decyzji powiatowego lekarza weterynarii o nadaniu weterynaryjnego numeru identyfikacyjnego zakładowi lub kopia decyzji państwowego powiatowego inspektora sanitarnego zatwierdzającej zakład – w przypadku gdy wymaga tego specyfika operacji. ” .
 § 2.
-Do postępowań w sprawie przyznania pomocy finansowej na realizację operacji w ramach działania, o którym mowa w art. 69 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.), wszczętych przed dniem wejścia w życie rozporządzenia i niezakończonych zawarciem umowy o dofinansowanie, stosuje się przepisy dotychczasowe.
+Do postępowań w sprawie przyznania pomocy finansowej na realizację operacji w ramach działania, o którym mowa w art. 69 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43, Dz. Urz. UE L 169 z 28.06.2016, str. 18 i Dz. Urz. UE L 88 z 31.03.2017, str. 22., wszczętych przed dniem wejścia w życie rozporządzenia i niezakończonych zawarciem umowy o dofinansowanie, stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43, Dz. Urz. UE L 169 z 28.06.2016, str. 18 i Dz. Urz. UE L 88 z 31.03.2017, str. 22.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43, Dz. Urz. UE L 169 z 28.06.2016, str. 18 i Dz. Urz. UE L 88 z 31.03.2017, str. 22.
 

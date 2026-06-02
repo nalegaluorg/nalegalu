@@ -22,59 +22,44 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-12 |
 | Data wydania | 2014-12-02 |
-| Wejście w życie | 2015-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001694) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1694/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 20 pkt 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2013 r. poz. 427, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 20 pkt 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2013 r. poz. 427, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 662, 1165, 1247, 1433 i 1623 oraz z 2014 r. poz. 31, 481, 504, 512, 619, 1071 i 1626.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom okręgowym i sądom rejonowym rozpoznawania spraw gospodarczych z obszarów właściwości innych sądów okręgowych i sądów rejonowych (Dz. U. poz. 1397) w § 2 wprowadza się następujące zmiany:
 1)
-w pkt 1 lit. b otrzymuje brzmienie:
-„
+w pkt 1 lit. b otrzymuje brzmienie: „
 b)
-sprawy rejestru zastawów z obszaru właściwości sądów rejonowych w: Bielsku Podlaskim, Sokółce, Grajewie, Łomży, Wysokiem Mazowieckiem, Zambrowie, Bartoszycach, Biskupcu, Giżycku, Kętrzynie, Lidzbarku Warmińskim, Mrągowie, Nidzicy, Olsztynie, Piszu, Szczytnie, Ostrołęce, Ostrowi Mazowieckiej, Przasnyszu, Pułtusku, Wyszkowie, Augustowie, Ełku, Olecku i Suwałkach,
-” ;
+sprawy rejestru zastawów z obszaru właściwości sądów rejonowych w: Bielsku Podlaskim, Sokółce, Grajewie, Łomży, Wysokiem Mazowieckiem, Zambrowie, Bartoszycach, Biskupcu, Giżycku, Kętrzynie, Lidzbarku Warmińskim, Mrągowie, Nidzicy, Olsztynie, Piszu, Szczytnie, Ostrołęce, Ostrowi Mazowieckiej, Przasnyszu, Pułtusku, Wyszkowie, Augustowie, Ełku, Olecku i Suwałkach, ” ;
 2)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
-w obszarze właściwości Sądu Okręgowego w Bydgoszczy – Sądowi Rejonowemu w Bydgoszczy sprawy gospodarcze, sprawy upadłościowe i naprawcze, a także sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w: Inowrocławiu, Mogilnie, Nakle nad Notecią, Szubinie, Świeciu, Tucholi i Żninie;
-” ;
+w obszarze właściwości Sądu Okręgowego w Bydgoszczy – Sądowi Rejonowemu w Bydgoszczy sprawy gospodarcze, sprawy upadłościowe i naprawcze, a także sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w: Inowrocławiu, Mogilnie, Nakle nad Notecią, Szubinie, Świeciu, Tucholi i Żninie; ” ;
 3)
-pkt 5 otrzymuje brzmienie:
-„
+pkt 5 otrzymuje brzmienie: „
 5)
-w obszarze właściwości Sądu Okręgowego w Elblągu – Sądowi Rejonowemu w Elblągu sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwości sądów rejonowych w: Braniewie, Działdowie, Iławie, Nowym Mieście Lubawskim i Ostródzie;
-” ;
+w obszarze właściwości Sądu Okręgowego w Elblągu – Sądowi Rejonowemu w Elblągu sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwości sądów rejonowych w: Braniewie, Działdowie, Iławie, Nowym Mieście Lubawskim i Ostródzie; ” ;
 4)
-w pkt 6 w lit. a tiret trzecie i czwarte otrzymują brzmienie:
-„
+w pkt 6 w lit. a tiret trzecie i czwarte otrzymują brzmienie: „
 – sprawy rejestru zastawów z obszaru właściwości sądów rejonowych: w Bydgoszczy, Inowrocławiu, Mogilnie, Nakle nad Notecią, Szubinie, Świeciu, Tucholi, Żninie, Braniewie, Działdowie, Elblągu, Iławie, Nowym Mieście Lubawskim, Ostródzie, Gdańsk-Południe w Gdańsku, w Gdyni, Kartuzach, Kościerzynie, Kwidzynie, Malborku, Sopocie, Starogardzie Gdańskim, Tczewie, Wejherowie, Bytowie, Chojnicach, Człuchowie, Lęborku, Miastku, Słupsku, Brodnicy, Chełmnie, Golubiu-Dobrzyniu, Grudziądzu, Toruniu, Wąbrzeźnie, Aleksandrowie Kujawskim, Lipnie, Radziejowie, Rypinie i we Włocławku,
 – sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: Gdańsk-Południe w Gdańsku, w Gdyni, Kartuzach, Kościerzynie, Kwidzynie, Malborku, Sopocie, Starogardzie Gdańskim, Tczewie, Wejherowie, Bytowie, Chojnicach, Człuchowie, Lęborku, Miastku i Słupsku,
 ” ;
 5)
-pkt 8 otrzymuje brzmienie:
-„
+pkt 8 otrzymuje brzmienie: „
 8)
-w obszarze właściwości Sądu Okręgowego w Gorzowie Wielkopolskim – Sądowi Rejonowemu w Gorzowie Wielkopolskim sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwości sądów rejonowych w: Międzyrzeczu, Słubicach, Strzelcach Krajeńskich i Sulęcinie;
-” ;
+w obszarze właściwości Sądu Okręgowego w Gorzowie Wielkopolskim – Sądowi Rejonowemu w Gorzowie Wielkopolskim sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwości sądów rejonowych w: Międzyrzeczu, Słubicach, Strzelcach Krajeńskich i Sulęcinie; ” ;
 6)
-pkt 10 otrzymuje brzmienie:
-„
+pkt 10 otrzymuje brzmienie: „
 10)
-w obszarze właściwości Sądu Okręgowego w Kaliszu – Sądowi Rejonowemu w Kaliszu sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwości sądów rejonowych w: Jarocinie, Kępnie, Krotoszynie, Ostrowie Wielkopolskim, Ostrzeszowie i Pleszewie;
-” ;
+w obszarze właściwości Sądu Okręgowego w Kaliszu – Sądowi Rejonowemu w Kaliszu sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwości sądów rejonowych w: Jarocinie, Kępnie, Krotoszynie, Ostrowie Wielkopolskim, Ostrzeszowie i Pleszewie; ” ;
 7)
-pkt 12 otrzymuje brzmienie:
-„
+pkt 12 otrzymuje brzmienie: „
 12)
-w obszarze właściwości Sądu Okręgowego w Kielcach – Sądowi Rejonowemu w Kielcach sprawy gospodarcze, sprawy upadłościowe i naprawcze, a także sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Busku-Zdroju, Jędrzejowie, Końskich, Opatowie, Ostrowcu Świętokrzyskim, Pińczowie, Sandomierzu, Skarżysku-Kamiennej, Starachowicach, Staszowie i we Włoszczowie;
-” ;
+w obszarze właściwości Sądu Okręgowego w Kielcach – Sądowi Rejonowemu w Kielcach sprawy gospodarcze, sprawy upadłościowe i naprawcze, a także sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Busku-Zdroju, Jędrzejowie, Końskich, Opatowie, Ostrowcu Świętokrzyskim, Pińczowie, Sandomierzu, Skarżysku-Kamiennej, Starachowicach, Staszowie i we Włoszczowie; ” ;
 8)
-pkt 14–18 otrzymują brzmienie:
-„
+pkt 14–18 otrzymują brzmienie: „
 14)
 w obszarze właściwości Sądu Okręgowego w Koszalinie – Sądowi Rejonowemu w Koszalinie sprawy gospodarcze, sprawy upadłościowe i naprawcze, a także sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w: Białogardzie, Drawsku Pomorskim, Kołobrzegu, Sławnie, Szczecinku i Wałczu;
 15)
@@ -96,16 +81,13 @@ sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwoś
 b)
 sprawy rejestru zastawów z obszaru właściwości sądów rejonowych: Lublin-Zachód w Lublinie, w Białej Podlaskiej, Chełmie, Kraśniku, Lubartowie, Łukowie, Opolu Lubelskim, Puławach, Radzyniu Podlaskim, Rykach, we Włodawie, w Grójcu, Kozienicach, Lipsku, Przysusze, Radomiu, Szydłowcu, Zwoleniu, Garwolinie, Mińsku Mazowieckim, Siedlcach, Sokołowie Podlaskim, Węgrowie, Biłgoraju, Hrubieszowie, Janowie Lubelskim, Krasnymstawie, Tomaszowie Lubelskim i Zamościu,
 c)
-sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: Lublin-Zachód w Lublinie, w Białej Podlaskiej, Chełmie, Kraśniku, Lubartowie, Łukowie, Opolu Lubelskim, Puławach, Radzyniu Podlaskim, Rykach, we Włodawie, w Biłgoraju, Hrubieszowie, Janowie Lubelskim, Krasnymstawie, Tomaszowie Lubelskim i Zamościu;
-” ;
+sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: Lublin-Zachód w Lublinie, w Białej Podlaskiej, Chełmie, Kraśniku, Lubartowie, Łukowie, Opolu Lubelskim, Puławach, Radzyniu Podlaskim, Rykach, we Włodawie, w Biłgoraju, Hrubieszowie, Janowie Lubelskim, Krasnymstawie, Tomaszowie Lubelskim i Zamościu; ” ;
 9)
-w pkt 19 w lit. a tiret trzecie otrzymuje brzmienie:
-„
+w pkt 19 w lit. a tiret trzecie otrzymuje brzmienie: „
 – sprawy rejestru zastawów z obszaru właściwości sądów rejonowych: w Jarocinie, Kaliszu, Kępnie, Krotoszynie, Ostrowie Wielkopolskim, Ostrzeszowie, Pleszewie, dla Łodzi-Widzewa w Łodzi, w Brzezinach, Kutnie, Łęczycy, Łowiczu, Pabianicach, Rawie Mazowieckiej, Skierniewicach, Zgierzu, Bełchatowie, Opocznie, Piotrkowie Trybunalskim, Radomsku, Tomaszowie Mazowieckim, Ciechanowie, Gostyninie, Mławie, Płocku, Płońsku, Sierpcu, Sochaczewie, Żyrardowie, Łasku, Sieradzu, Wieluniu i Zduńskiej Woli,
 ” ;
 10)
-pkt 22 i 23 otrzymują brzmienie:
-„
+pkt 22 i 23 otrzymują brzmienie: „
 22)
 w obszarze właściwości Sądu Okręgowego w Olsztynie – Sądowi Rejonowemu w Olsztynie:
 a)
@@ -113,19 +95,16 @@ sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwoś
 b)
 sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w: Braniewie, Działdowie, Elblągu, Iławie, Nowym Mieście Lubawskim, Ostródzie, Bartoszycach, Biskupcu, Giżycku, Kętrzynie, Lidzbarku Warmińskim, Mrągowie, Nidzicy, Piszu, Szczytnie, Ełku i Olecku;
 23)
-w obszarze właściwości Sądu Okręgowego w Opolu – Sądowi Rejonowemu w Opolu sprawy gospodarcze, sprawy upadłościowe i naprawcze, a także sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w: Brzegu, Głubczycach, Kędzierzynie-Koźlu, Kluczborku, Nysie, Oleśnie, Prudniku i Strzelcach Opolskich;
-” ;
+w obszarze właściwości Sądu Okręgowego w Opolu – Sądowi Rejonowemu w Opolu sprawy gospodarcze, sprawy upadłościowe i naprawcze, a także sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w: Brzegu, Głubczycach, Kędzierzynie-Koźlu, Kluczborku, Nysie, Oleśnie, Prudniku i Strzelcach Opolskich; ” ;
 11)
-w pkt 27 lit. c otrzymuje brzmienie:
-„
+w pkt 27 lit. c otrzymuje brzmienie: „
 c)
 Sądowi Rejonowemu Poznań-Nowe Miasto i Wilda w Poznaniu:
 – sprawy rejestru zastawów z obszaru właściwości sądów rejonowych: w Kole, Koninie, Słupcy, Turku, Poznań-Grunwald i Jeżyce w Poznaniu, Poznań-Stare Miasto w Poznaniu, w Chodzieży, Gnieźnie, Gostyniu, Grodzisku Wielkopolskim, Kościanie, Lesznie, Nowym Tomyślu, Obornikach, Pile, Rawiczu, Szamotułach, Śremie, Środzie Wielkopolskiej, Trzciance, Wągrowcu, Wolsztynie, we Wrześni, w Złotowie, Krośnie Odrzańskim, Nowej Soli, Świebodzinie, we Wschowie, w Zielonej Górze, Żaganiu i Żarach,
 – sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Jarocinie, Kaliszu, Kępnie, Krotoszynie, Ostrowie Wielkopolskim, Ostrzeszowie, Pleszewie, Kole, Koninie, Słupcy, Turku, Poznań-Grunwald i Jeżyce w Poznaniu, Poznań-Stare Miasto w Poznaniu, w Chodzieży, Gnieźnie, Gostyniu, Grodzisku Wielkopolskim, Kościanie, Lesznie, Nowym Tomyślu, Obornikach, Pile, Rawiczu, Szamotułach, Śremie, Środzie Wielkopolskiej, Trzciance, Wągrowcu, Wolsztynie, we Wrześni i w Złotowie,
 ” ;
 12)
-pkt 28–30 otrzymują brzmienie:
-„
+pkt 28–30 otrzymują brzmienie: „
 28)
 w obszarze właściwości Sądu Okręgowego w Przemyślu – Sądowi Rejonowemu w Przemyślu sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwości sądów rejonowych w: Jarosławiu, Lubaczowie i Przeworsku;
 29)
@@ -135,17 +114,13 @@ w obszarze właściwości Sądu Okręgowego w Rzeszowie – Sądowi Rejonowemu w
 a)
 sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwości sądów rejonowych w: Dębicy, Leżajsku, Łańcucie i Ropczycach,
 b)
-sprawy rejestru zastawów i sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w: Brzozowie, Jaśle, Krośnie, Lesku, Sanoku, Jarosławiu, Lubaczowie, Przemyślu, Przeworsku, Dębicy, Leżajsku, Łańcucie, Ropczycach, Kolbuszowej, Mielcu, Nisku, Stalowej Woli i Tarnobrzegu;
-” ;
+sprawy rejestru zastawów i sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w: Brzozowie, Jaśle, Krośnie, Lesku, Sanoku, Jarosławiu, Lubaczowie, Przemyślu, Przeworsku, Dębicy, Leżajsku, Łańcucie, Ropczycach, Kolbuszowej, Mielcu, Nisku, Stalowej Woli i Tarnobrzegu; ” ;
 13)
-pkt 33 otrzymuje brzmienie:
-„
+pkt 33 otrzymuje brzmienie: „
 33)
-w obszarze właściwości Sądu Okręgowego w Słupsku – Sądowi Rejonowemu w Słupsku sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwości sądów rejonowych w: Bytowie, Chojnicach, Człuchowie, Lęborku i Miastku;
-” ;
+w obszarze właściwości Sądu Okręgowego w Słupsku – Sądowi Rejonowemu w Słupsku sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwości sądów rejonowych w: Bytowie, Chojnicach, Człuchowie, Lęborku i Miastku; ” ;
 14)
-pkt 35 otrzymuje brzmienie:
-„
+pkt 35 otrzymuje brzmienie: „
 35)
 w obszarze właściwości Sądu Okręgowego w Szczecinie – Sądowi Rejonowemu Szczecin-Centrum w Szczecinie:
 a)
@@ -153,33 +128,25 @@ sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwoś
 b)
 sprawy rejestru zastawów z obszaru właściwości sądów rejonowych: w Gorzowie Wielkopolskim, Międzyrzeczu, Słubicach, Strzelcach Krajeńskich, Sulęcinie, Białogardzie, Drawsku Pomorskim, Kołobrzegu, Koszalinie, Sławnie, Szczecinku, Wałczu, Szczecin-Prawobrzeże i Zachód w Szczecinie, w Choszcznie, Goleniowie, Gryficach, Gryfinie, Kamieniu Pomorskim, Łobzie, Myśliborzu, Stargardzie Szczecińskim i Świnoujściu,
 c)
-sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: Szczecin-Prawobrzeże i Zachód w Szczecinie, w Choszcznie, Goleniowie, Gryficach, Gryfinie, Kamieniu Pomorskim, Łobzie, Myśliborzu, Stargardzie Szczecińskim i Świnoujściu;
-” ;
+sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: Szczecin-Prawobrzeże i Zachód w Szczecinie, w Choszcznie, Goleniowie, Gryficach, Gryfinie, Kamieniu Pomorskim, Łobzie, Myśliborzu, Stargardzie Szczecińskim i Świnoujściu; ” ;
 15)
-pkt 37 otrzymuje brzmienie:
-„
+pkt 37 otrzymuje brzmienie: „
 37)
-w obszarze właściwości Sądu Okręgowego w Tarnobrzegu – Sądowi Rejonowemu w Tarnobrzegu sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwości sądów rejonowych w: Kolbuszowej, Mielcu, Nisku i Stalowej Woli;
-” ;
+w obszarze właściwości Sądu Okręgowego w Tarnobrzegu – Sądowi Rejonowemu w Tarnobrzegu sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwości sądów rejonowych w: Kolbuszowej, Mielcu, Nisku i Stalowej Woli; ” ;
 16)
-pkt 39 otrzymuje brzmienie:
-„
+pkt 39 otrzymuje brzmienie: „
 39)
 w obszarze właściwości Sądu Okręgowego w Toruniu – Sądowi Rejonowemu w Toruniu:
 a)
 sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwości sądów rejonowych w: Brodnicy, Chełmnie, Golubiu-Dobrzyniu, Grudziądzu i Wąbrzeźnie,
 b)
-sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Brodnicy, Chełmnie, Golubiu-Dobrzyniu, Grudziądzu, Wąbrzeźnie, Aleksandrowie Kujawskim, Lipnie, Radziejowie, Rypinie i we Włocławku;
-” ;
+sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Brodnicy, Chełmnie, Golubiu-Dobrzyniu, Grudziądzu, Wąbrzeźnie, Aleksandrowie Kujawskim, Lipnie, Radziejowie, Rypinie i we Włocławku; ” ;
 17)
-w pkt 40 lit. c otrzymuje brzmienie:
-„
+w pkt 40 lit. c otrzymuje brzmienie: „
 c)
-sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Ostrołęce, Ostrowi Mazowieckiej, Przasnyszu, Pułtusku, Wyszkowie, Ciechanowie, Gostyninie, Mławie, Płocku, Płońsku, Sierpcu, Sochaczewie, Żyrardowie, Grójcu, Kozienicach, Lipsku, Przysusze, Radomiu, Szydłowcu, Zwoleniu, Garwolinie, Mińsku Mazowieckim, Siedlcach, Sokołowie Podlaskim, Węgrowie, dla Warszawy-Mokotowa w Warszawie, dla Warszawy-Śródmieścia w Warszawie, dla Warszawy-Woli w Warszawie, dla Warszawy-Żoliborza w Warszawie, w Grodzisku Mazowieckim, Piasecznie, Pruszkowie, dla Warszawy Pragi-Południe w Warszawie, dla Warszawy Pragi-Północ w Warszawie, w Legionowie, Nowym Dworze Mazowieckim, Otwocku i Wołominie;
-” ;
+sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Ostrołęce, Ostrowi Mazowieckiej, Przasnyszu, Pułtusku, Wyszkowie, Ciechanowie, Gostyninie, Mławie, Płocku, Płońsku, Sierpcu, Sochaczewie, Żyrardowie, Grójcu, Kozienicach, Lipsku, Przysusze, Radomiu, Szydłowcu, Zwoleniu, Garwolinie, Mińsku Mazowieckim, Siedlcach, Sokołowie Podlaskim, Węgrowie, dla Warszawy-Mokotowa w Warszawie, dla Warszawy-Śródmieścia w Warszawie, dla Warszawy-Woli w Warszawie, dla Warszawy-Żoliborza w Warszawie, w Grodzisku Mazowieckim, Piasecznie, Pruszkowie, dla Warszawy Pragi-Południe w Warszawie, dla Warszawy Pragi-Północ w Warszawie, w Legionowie, Nowym Dworze Mazowieckim, Otwocku i Wołominie; ” ;
 18)
-pkt 42–45 otrzymują brzmienie:
-„
+pkt 42–45 otrzymują brzmienie: „
 42)
 w obszarze właściwości Sądu Okręgowego we Włocławku – Sądowi Rejonowemu we Włocławku sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwości sądów rejonowych w: Aleksandrowie Kujawskim, Lipnie, Radziejowie i Rypinie;
 43)
@@ -189,8 +156,7 @@ sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwoś
 b)
 sprawy rejestru zastawów z obszaru właściwości sądów rejonowych: w Bolesławcu, Jeleniej Górze, Kamiennej Górze, Lubaniu, Lwówku Śląskim, Zgorzelcu, Głogowie, Jaworze, Legnicy, Lubinie, Złotoryi, Brzegu, Głubczycach, Kędzierzynie-Koźlu, Kluczborku, Nysie, Oleśnie, Opolu, Prudniku, Strzelcach Opolskich, Dzierżoniowie, Kłodzku, Świdnicy, Wałbrzychu, Ząbkowicach Śląskich, dla Wrocławia-Krzyków we Wrocławiu, dla Wrocławia-Śródmieście we Wrocławiu, w Miliczu, Oleśnicy, Oławie, Strzelinie, Środzie Śląskiej, Trzebnicy i Wołowie,
 c)
-sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Bolesławcu, Jeleniej Górze, Kamiennej Górze, Lubaniu, Lwówku Śląskim, Zgorzelcu, Głogowie, Jaworze, Legnicy, Lubinie, Złotoryi, Dzierżoniowie, Kłodzku, Świdnicy, Wałbrzychu, Ząbkowicach Śląskich, dla Wrocławia
--Krzyków we Wrocławiu, dla Wrocławia-Śródmieście we Wrocławiu, w Miliczu, Oleśnicy, Oławie, Strzelinie, Środzie Śląskiej, Trzebnicy i Wołowie;
+sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Bolesławcu, Jeleniej Górze, Kamiennej Górze, Lubaniu, Lwówku Śląskim, Zgorzelcu, Głogowie, Jaworze, Legnicy, Lubinie, Złotoryi, Dzierżoniowie, Kłodzku, Świdnicy, Wałbrzychu, Ząbkowicach Śląskich, dla Wrocławia -Krzyków we Wrocławiu, dla Wrocławia-Śródmieście we Wrocławiu, w Miliczu, Oleśnicy, Oławie, Strzelinie, Środzie Śląskiej, Trzebnicy i Wołowie;
 44)
 w obszarze właściwości Sądu Okręgowego w Zamościu – Sądowi Rejonowemu w Zamościu sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwości sądów rejonowych w: Biłgoraju, Hrubieszowie, Janowie Lubelskim, Krasnymstawie i Tomaszowie Lubelskim;
 45)
@@ -198,8 +164,7 @@ w obszarze właściwości Sądu Okręgowego w Zielonej Górze – Sądowi Rejono
 a)
 sprawy gospodarcze oraz sprawy upadłościowe i naprawcze z obszaru właściwości sądów rejonowych: w Krośnie Odrzańskim, Nowej Soli, Świebodzinie, we Wschowie, w Żaganiu i Żarach,
 b)
-sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Gorzowie Wielkopolskim, Międzyrzeczu, Słubicach, Strzelcach Krajeńskich, Sulęcinie, Krośnie Odrzańskim, Nowej Soli, Świebodzinie, we Wschowie, w Żaganiu i Żarach.
-” .
+sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Gorzowie Wielkopolskim, Międzyrzeczu, Słubicach, Strzelcach Krajeńskich, Sulęcinie, Krośnie Odrzańskim, Nowej Soli, Świebodzinie, we Wschowie, w Żaganiu i Żarach. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2015 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 662, 1165, 1247, 1433 i 1623 oraz z 2014 r. poz. 31, 481, 504, 512, 619, 1071 i 1626.
 

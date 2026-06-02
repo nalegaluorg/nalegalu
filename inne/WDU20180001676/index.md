@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 29 sierpnia 2018 r. zmieniające rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej
+# Rozporządzenie Ministra Finansówz dnia 29 sierpnia 2018 r. zmieniające rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-08-29 |
 | Data wydania | 2018-08-30 |
-| Wejście w życie | 2018-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001676) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1676/text.pdf) |
 
@@ -35,14 +34,11 @@ w § 2:
 a)
 uchyla się pkt 1,
 b)
-po pkt 1 dodaje się pkt 1a w brzmieniu:
-„
+po pkt 1 dodaje się pkt 1a w brzmieniu: „
 1a)
-rynku owoców i warzyw;
-” ,
+rynku owoców i warzyw; ” ,
 c)
-w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–13 w brzmieniu:
-„
+w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–13 w brzmieniu: „
 5)
 prowadzenia interwencji mającej na celu stabilizację rynków rolnych;
 6)
@@ -60,15 +56,11 @@ programu „Program dla szkół”;
 12)
 pomocy związanej ze wspieraniem działań promocyjnych i informacyjnych na rynkach wybranych produktów rolnych i żywnościowych w ramach wspólnej polityki rolnej;
 13)
-pomocy w zakresie wsparcia pszczelarstwa w ramach wspólnej polityki rolnej.
-” ;
+pomocy w zakresie wsparcia pszczelarstwa w ramach wspólnej polityki rolnej. ” ;
 2)
-w § 3 dodaje się ust. 5 w brzmieniu:
-„
+w § 3 dodaje się ust. 5 w brzmieniu: „
 5.
-Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 1a i 5–13, udziela się od dnia 1 września 2018 r.
-” .
+Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 1a i 5–13, udziela się od dnia 1 września 2018 r. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2018 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
+Rozporządzenie wchodzi w życie z dniem 1 września 2018 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 

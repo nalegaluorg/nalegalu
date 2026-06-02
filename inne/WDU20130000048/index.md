@@ -22,29 +22,26 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-18 |
 | Data wydania | 2013-01-11 |
-| Wejście w życie | 2013-01-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000048) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/48/text.pdf) |
 
 Treść rozporządzenia
 Załącznik
 Treść rozporządzenia
-Na podstawie art. 16 ust. 7 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 16 ust. 7 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 85, poz. 459, Nr 112, poz. 654, Nr 153, poz. 903 i Nr 160, poz. 963 oraz z 2012 r. poz. 1209 i 1315.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Krajowej Rady Radiofonii i Telewizji z dnia 30 czerwca 2011 r. w sprawie sposobu prowadzenia w programach radiowych i telewizyjnych działalności reklamowej i telesprzedaży (Dz. U. Nr 150, poz. 895 oraz z 2012 r. poz. 295) wprowadza się następujące zmiany:
 1)
-§ 10 otrzymuje brzmienie:
-„
+§ 10 otrzymuje brzmienie: „
 § 10.
 1.
 Poziom głośności reklam i telesprzedaży emitowanych w trakcie audycji lub bezpośrednio po niej nie może przekroczyć poziomu głośności tej audycji.
 2.
-Poziom głośności reklam i telesprzedaży emitowanych w trakcie audycji emitowanych w czasie rzeczywistym bądź z wykorzystaniem pętli opóźniającej lub bezpośrednio po tej audycji nie może przekroczyć poziomu głośności części tej audycji wyemitowanej po ostatniej reklamie lub telesprzedaży o wartość większą niż 1 wyrażoną w jednostce pomiarowej głośności, o której mowa w załączniku do rozporządzenia.
-” ;
+Poziom głośności reklam i telesprzedaży emitowanych w trakcie audycji emitowanych w czasie rzeczywistym bądź z wykorzystaniem pętli opóźniającej lub bezpośrednio po tej audycji nie może przekroczyć poziomu głośności części tej audycji wyemitowanej po ostatniej reklamie lub telesprzedaży o wartość większą niż 1 wyrażoną w jednostce pomiarowej głośności, o której mowa w załączniku do rozporządzenia. ” ;
 2)
 załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 85, poz. 459, Nr 112, poz. 654, Nr 153, poz. 903 i Nr 160, poz. 963 oraz z 2012 r. poz. 1209 i 1315.
 Załącznik
 W celu ujednolicenia warunków nadawania w zakresie głośności emitowanych reklam i telesprzedaży nadawcy są obowiązani do emitowania reklam i telesprzedaży w taki sposób, aby wynik pomiaru głośności przeprowadzonego z zachowaniem procedury pomiarowej i warunków technicznych opracowanych przez Krajową Radę Radiofonii i Telewizji na podstawie zaleceń ITU: ITU-R BS. 1770–3, ITU-R BS. 1771–1 oraz EBU: R 128, EBU-TECH 3341 spełniał obowiązki określone w § 10 rozporządzenia.
 1.
@@ -88,5 +85,14 @@ w celu weryfikacji wypełniania obowiązków określonych w § 10 rozporządzeni
 5)
 zmierzone poziomy głośności audycji wyprodukowanej przed emisją i audycji emitowanej w czasie rzeczywistym bądź z wykorzystaniem pętli opóźniającej oraz poziom głośności reklam i telesprzedaży porównuje się.
 3.
-Sygnały testowe do kalibracji systemu pomiarowego Nadawca obowiązany jest emitować sygnał zgodny z opisanymi w poniższej tabeli sygnałami testowymi, przeznaczonymi do kalibracji systemu pomiarowego wraz z oczekiwaną wartością uśrednionego poziomu głośności (I) w jednostkach LU i LUFS. Lp. Sygnał testowy Oczekiwany wynik oraz akceptowane tolerancje 1 Sygnał 1 kHz, stereo, -23,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -23,0 ±0,1 LUFSI = 0,0 ±0,1 LU 2 Sygnał 1 kHz, stereo, -33,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -33,0 ±0,1 LUFSI = -10,0 ±0,1 LU 3 Sygnały 1 kHz, stereo, -36,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 10 s; -23,0 dBFS, czas trwania 60 s; -36,0 dBFS, czas trwania 10 s I = -23,0 ±0,1 LUFSI = 0,0 ±0,1 LU 4 Sygnały 1 kHz, stereo, -75,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 10 s; -36,0 dBFS, czas trwania 10 s; -23,0 dBFS, czas trwania 60 s; -36,0 dBFS, czas trwania 10 s; -75,0 dBFS, czas trwania 10 s I = -23,0 ±0,1 LUFSI = 0,0 ±0,1 LU 5 Sygnały 1 kHz, stereo, -26,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s; -20,0 dBFS, czas trwania 20 s; -26,0 dBFS, czas trwania 20 s I = -23,0 ±0,1 LUFSI = 0,0 ±0,1 LU 6 Sygnał 1 kHz, stereo, -20,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -20,0 ±0,1 LUFSI = 3,0 ±0,1 LU 7 Sygnał 1 kHz, stereo, -26,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -26,0 ±0,1 LUFSI = -3,0 ±0,1 LU 8 Sygnał 1 kHz, stereo, -40,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -40,0 ±0,1 LUFSI = -17,0 ±0,1 LU
+Sygnały testowe do kalibracji systemu pomiarowego Nadawca obowiązany jest emitować sygnał zgodny z opisanymi w poniższej tabeli sygnałami testowymi, przeznaczonymi do kalibracji systemu pomiarowego wraz z oczekiwaną wartością uśrednionego poziomu głośności (I) w jednostkach LU i LUFS.
+Lp. Sygnał testowy Oczekiwany wynik oraz akceptowane tolerancje 1 Sygnał 1 kHz, stereo, -23,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -23,0 ±0,1 LUFS
+I = 0,0 ±0,1 LU 2 Sygnał 1 kHz, stereo, -33,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -33,0 ±0,1 LUFS
+I = -10,0 ±0,1 LU 3 Sygnały 1 kHz, stereo, -36,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 10 s; -23,0 dBFS, czas trwania 60 s; -36,0 dBFS, czas trwania 10 s I = -23,0 ±0,1 LUFS
+I = 0,0 ±0,1 LU 4 Sygnały 1 kHz, stereo, -75,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 10 s; -36,0 dBFS, czas trwania 10 s; -23,0 dBFS, czas trwania 60 s; -36,0 dBFS, czas trwania 10 s; -75,0 dBFS, czas trwania 10 s I = -23,0 ±0,1 LUFS
+I = 0,0 ±0,1 LU 5 Sygnały 1 kHz, stereo, -26,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s; -20,0 dBFS, czas trwania 20 s; -26,0 dBFS, czas trwania 20 s I = -23,0 ±0,1 LUFS
+I = 0,0 ±0,1 LU 6 Sygnał 1 kHz, stereo, -20,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -20,0 ±0,1 LUFS
+I = 3,0 ±0,1 LU 7 Sygnał 1 kHz, stereo, -26,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -26,0 ±0,1 LUFS
+I = -3,0 ±0,1 LU 8 Sygnał 1 kHz, stereo, -40,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -40,0 ±0,1 LUFS
+I = -17,0 ±0,1 LU
 

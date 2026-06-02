@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-10-21 |
 | Data wydania | 2014-11-06 |
-| Wejście w życie | 2014-11-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001527) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1527/text.pdf) |
 
@@ -33,11 +32,9 @@ W rozporządzeniu Ministra-Szefa Urzędu Rady Ministrów z dnia 10 września 199
 1)
 tytuł otrzymuje brzmienie: „ w sprawie nadania osobowości prawnej Verbinum – Wydawnictwu Księży Werbistów ” ;
 2)
-§ 1 otrzymuje brzmienie:
-„
+§ 1 otrzymuje brzmienie: „
 § 1.
-Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Verbinum – Wydawnictwo Księży Werbistów z siedzibą w Górnej Grupie, erygowanej przez Prowincjała Zgromadzenia Słowa Bożego.
-” .
+Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Verbinum – Wydawnictwo Księży Werbistów z siedzibą w Górnej Grupie, erygowanej przez Prowincjała Zgromadzenia Słowa Bożego. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

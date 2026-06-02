@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 5 grudnia 2017 r. w sprawie licytacji elektronicznej w postępowaniu egzekucyjnym w administracji
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 5 grudnia 2017 r. w sprawie licytacji elektronicznej w postępowaniu egzekucyjnym w administracji Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-05 |
 | Data wydania | 2017-12-13 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002304) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2304/text.pdf) |
 
@@ -151,6 +150,5 @@ Niezwłocznie po zakończeniu licytacji elektronicznej, z wyłączeniem zakończ
 2.
 Uczestników licytacji elektronicznej niezwłocznie zawiadamia się o przybiciu za pośrednictwem systemu teleinformatycznego.
 § 15.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 

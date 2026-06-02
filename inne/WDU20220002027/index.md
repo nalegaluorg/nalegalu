@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 28 września 2022 r. w sprawie programu pilotażowego leczenia gruźlicy wielolekoopornej w warunkach ambulatoryjnych
+# Rozporządzenie Ministra Zdrowiaz dnia 28 września 2022 r. w sprawie programu pilotażowego leczenia gruźlicy wielolekoopornej w warunkach ambulatoryjnych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-28 |
 | Data wydania | 2022-09-30 |
-| Wejście w życie | 2022-10-01 |
 | Ostatnia zmiana | 2025-09-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002027) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2027/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wykaz regionalnych ośrodków koordynujących
 Treść rozporządzenia
-Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265, 1352, 1700 i 1855.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa program pilotażowy leczenia gruźlicy wielolekoopornej w warunkach ambulatoryjnych, zwany dalej „programem pilotażowym”.
 § 2.
@@ -48,7 +47,7 @@ Celem głównym programu pilotażowego jest sprawdzenie modelu leczenia MDR-TB w
 2.
 Do celów programu pilotażowego należy również:
 1)
-rozwiązanie problemu ciągłości terapii osób, o których mowa w art. 1 ust. 1 i 2 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583, z późn. zm.), leczonych z powodu MDR-TB;
+rozwiązanie problemu ciągłości terapii osób, o których mowa w art. 1 ust. 1 i 2 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930, 1002, 1087, 1383, 1561, 1692 i 1733.), leczonych z powodu MDR-TB;
 2)
 przetestowanie telemonitoringu nad osobami z MDR-TB;
 3)
@@ -184,8 +183,7 @@ Fundusz przedstawia ministrowi właściwemu do spraw zdrowia raport zawierający
 3.
 Raport, o którym mowa w ust. 2, jest publikowany w Biuletynie Informacji Publicznej na stronie podmiotowej Funduszu.
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265, 1352, 1700 i 1855. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930, 1002, 1087, 1383, 1561, 1692 i 1733.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265, 1352, 1700 i 1855. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930, 1002, 1087, 1383, 1561, 1692 i 1733.
 Załącznik – Wykaz regionalnych ośrodków koordynujących
 1.
 Dolnośląskie

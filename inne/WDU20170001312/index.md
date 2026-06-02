@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 26 czerwca 2017 r. w sprawie sposobu i trybu prowadzenia rejestru ukaranych fizjoterapeutów oraz sposobu i trybu wykonania prawomocnych orzeczeń sądów dyscyplinarnych
+# Rozporządzenie Ministra Zdrowiaz dnia 26 czerwca 2017 r. w sprawie sposobu i trybu prowadzenia rejestru ukaranych fizjoterapeutów oraz sposobu i trybu wykonania prawomocnych orzeczeń sądów dyscyplinarnych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-26 |
 | Data wydania | 2017-07-04 |
-| Wejście w życie | 2017-07-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001312) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1312/text.pdf) |
 
@@ -49,8 +48,7 @@ ograniczenia zakresu czynności w wykonywaniu zawodu,
 3)
 zawieszenia prawa wykonywania zawodu,
 4)
-pozbawienia prawa wykonywania zawodu
-Prezes KRF, w terminie 14 dni od dnia otrzymania prawomocnego orzeczenia, przesyła wszystkim podmiotom leczniczym, w których ukarany fizjoterapeuta udziela świadczeń zdrowotnych, informację o ukaraniu.
+pozbawienia prawa wykonywania zawodu – Prezes KRF, w terminie 14 dni od dnia otrzymania prawomocnego orzeczenia, przesyła wszystkim podmiotom leczniczym, w których ukarany fizjoterapeuta udziela świadczeń zdrowotnych, informację o ukaraniu.
 § 5.
 1.
 Wykonanie kary zawieszenia prawa wykonywania zawodu polega na złożeniu przez ukaranego fizjoterapeutę dokumentu „Prawo wykonywania zawodu fizjoterapeuty” w KRF na okres biegu tej kary.
@@ -66,6 +64,5 @@ Przesyłając Prezesowi KRF odpis prawomocnego orzeczenia sądu dyscyplinarnego,
 § 7.
 W przypadku orzeczenia przez sąd dyscyplinarny opublikowania orzeczenia o ukaraniu lub w przypadku złożenia przez uniewinnionego fizjoterapeutę wniosku, o którym mowa w art. 131 ustawy, przewodniczący sądu dyscyplinarnego wydaje zarządzenie o przekazaniu Prezesowi KRF orzeczenia do opublikowania, z wyłączeniem danych osobowych pokrzywdzonego.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 

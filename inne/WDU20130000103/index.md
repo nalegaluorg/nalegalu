@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-24 |
 | Data wydania | 2013-01-22 |
-| Wejście w życie | 2013-02-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000103) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/103/text.pdf) |
 
@@ -57,8 +56,7 @@ sposobów i warunków odtwarzania przez uprawnionego do rybactwa eksploatowanych
 c)
 sposobów regulowania przez uprawnionego do rybactwa wielkości i struktury populacji ryb drapieżnych i ryb karpiowatych w zbiornikach wodnych,
 d)
-rodzaju i zakresu zabiegów ochronnych wykonanych przez uprawnionego do rybactwa w celu ochrony zasobów raków i ryb lub poprawy warunków ich bytowania w wodach obwodu rybackiego
-z założeniami dotyczącymi ochrony i połowu raków i ryb zawartymi w operacie rybackim oraz w programie ochrony i odbudowy zasobów ryb.
+rodzaju i zakresu zabiegów ochronnych wykonanych przez uprawnionego do rybactwa w celu ochrony zasobów raków i ryb lub poprawy warunków ich bytowania w wodach obwodu rybackiego – z założeniami dotyczącymi ochrony i połowu raków i ryb zawartymi w operacie rybackim oraz w programie ochrony i odbudowy zasobów ryb.
 § 3.
 1.
 Upoważniony przez właściwego marszałka województwa pracownik właściwej komórki organizacyjnej urzędu marszałkowskiego, zwany dalej „inspektorem rybackim”, dokonuje sprawdzenia, o którym mowa w § 2, zwanego dalej „sprawdzeniem”, w siedzibie urzędu marszałkowskiego, po zawiadomieniu uprawnionego do rybactwa.
@@ -124,8 +122,7 @@ Po dokonaniu czynności, o których mowa w ust. 3, inspektor rybacki:
 1)
 zmienia lub uzupełnia część protokołu, do której złożono zastrzeżenia – w przypadku stwierdzenia zasadności złożonych zastrzeżeń,
 2)
-udziela uprawnionemu do rybactwa pisemnej odpowiedzi na złożone przez niego zastrzeżenia – w przypadku nieuwzględnienia zastrzeżeń w całości albo w części
-w terminie 30 dni od dnia złożenia zastrzeżeń przez uprawnionego do rybactwa.
+udziela uprawnionemu do rybactwa pisemnej odpowiedzi na złożone przez niego zastrzeżenia – w przypadku nieuwzględnienia zastrzeżeń w całości albo w części – w terminie 30 dni od dnia złożenia zastrzeżeń przez uprawnionego do rybactwa.
 5.
 Zastrzeżenia złożone przez uprawnionego do rybactwa i udzieloną odpowiedź, o której mowa w ust. 4 pkt 2, dołącza się do protokołu.
 § 8.
@@ -151,5 +148,5 @@ okres prowadzonej gospodarki rybackiej w obwodzie rybackim objętym oceną;
 4)
 ustalenia dotyczące wypełnienia przez uprawnionego do rybactwa obowiązku prowadzenia racjonalnej gospodarki rybackiej, w tym stwierdzone nieprawidłowości, podając przyczyny ich powstania, zakres i skutki dla wód obwodu rybackiego oraz podjęte przez uprawnionego do rybactwa czynności naprawcze.
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2003 r. w sprawie oceny wypełniania obowiązku prowadzenia racjonalnej gospodarki rybackiej (Dz. U. Nr 180, poz. 1765 i Nr 210, poz. 2048 oraz z 2006 r. Nr 32, poz. 224), które na podstawie art. 8 ustawy z dnia 24 września 2010 r. o zmianie ustawy o rybactwie śródlądowym (Dz. U. Nr 200, poz. 1322) utraciło moc z dniem 28 listopada 2012 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2003 r. w sprawie oceny wypełniania obowiązku prowadzenia racjonalnej gospodarki rybackiej (Dz. U. Nr 180, poz. 1765 i Nr 210, poz. 2048 oraz z 2006 r. Nr 32, poz. 224), które na podstawie art. 8 ustawy z dnia 24 września 2010 r. o zmianie ustawy o rybactwie śródlądowym (Dz. U. Nr 200, poz. 1322) utraciło moc z dniem 28 listopada 2012 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 27 lipca 2012 r. o zmianie ustawy o systemie informacji oświatowej oraz niektórych innych ustaw
+# Ustawa z dnia 27 lipca 2012 r. o zmianie ustawy o systemie informacji oświatowej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 września 1991 r. o systemie oświaty oraz ustawę z dnia 19 sierpnia 2011 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-07-27 |
 | Data wydania | 2012-08-20 |
-| Wejście w życie | 2012-08-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000941) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/941/text.pdf) |
 
@@ -44,12 +43,14 @@ source: "eli-html"
 - **1)** szkół i placówek oświatowych posiadających filie,
 - **2)** specjalnych ośrodków szkolno-wychowawczych, młodzieżowych ośrodków wychowawczych, młodzieżowych ośrodków socjoterapii i centrów kształcenia ustawicznego, w skład których wchodzą szkoły,
 - **3)** szkół i placówek oświatowych połączonych w zespół,
-- **4)** szkół w zakładach poprawczych i schroniskach dla nieletnich jest prowadzona jedna lokalna baza danych SIO odpowiednio szkoły, placówki oświatowej, zespołu, zakładu poprawczego albo schroniska dla nieletnich.
+- **4)** szkół w zakładach poprawczych i schroniskach dla nieletnich – jest prowadzona jedna lokalna baza danych SIO odpowiednio szkoły, placówki oświatowej, zespołu, zakładu poprawczego albo schroniska dla nieletnich.
 
 5. Lokalna baza danych SIO, o której mowa w ust. 4, zawiera wyodrębnione zbiory danych dotyczące odpowiednio szkoły i placówki oświatowej oraz jej filii, placówki, o której mowa w ust. 4 pkt 2, i szkoły wchodzącej w skład placówki, poszczególnych szkół i placówek oświatowych wchodzących w skład zespołu, zakładów poprawczych i schronisk dla nieletnich oraz szkół w tych zakładach i schroniskach, oraz zbiór danych wspólnych dla odpowiednio szkoły i placówki oświatowej oraz jej filii, placówki, o której mowa w ust. 4 pkt 2, i szkoły wchodzącej w skład placówki, szkół i placówek oświatowych wchodzących w skład zespołu oraz zakładów poprawczych i schronisk dla nieletnich oraz szkół w tych zakładach i schroniskach. ” ;
 
-- **5)** w art. 7: w ust. 1: – w pkt 7 lit. a otrzymuje brzmienie: „ a) szkoły lub placówki oświatowej wchodzącej w skład zespołu oraz szkoły wchodzącej w skład specjalnego ośrodka szkolno-wychowawczego, młodzieżowego ośrodka wychowawczego, młodzieżowego ośrodka socjoterapii, centrum kształcenia ustawicznego, zakładu poprawczego lub schroniska dla nieletnich – także numer identyfikacyjny REGON odpowiednio zespołu, ośrodka, centrum, zakładu lub schroniska, ” , – w pkt 13: – uchyla się lit. a, – lit. b otrzymuje brzmienie: „ b) w podmiocie leczniczym, ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **5)** w art. 7: w ust. 1: w pkt 7 lit. a otrzymuje brzmienie: „ szkoły lub placówki oświatowej wchodzącej w skład zespołu oraz szkoły wchodzącej w skład specjalnego ośrodka szkolno-wychowawczego, młodzieżowego ośrodka wychowawczego, młodzieżowego ośrodka socjoterapii, centrum kształcenia ustawicznego, zakładu poprawczego lub schroniska dla nieletnich – także numer identyfikacyjny REGON odpowiednio zespołu, ośrodka, centrum, zakładu lub schroniska, ” , w pkt 13: – uchyla się lit. a, lit. b otrzymuje brzmienie: „ w podmiocie leczniczym, ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
+    - **a)**
+    - **b)**
     - **b)**
 
 1a. W RSPO są gromadzone następujące dane identyfikacyjne zespołów szkół i placówek oświatowych:
@@ -306,9 +307,9 @@ source: "eli-html"
 
 2. Minister właściwy do spraw oświaty i wychowania opublikuje do dnia 31 grudnia 2012 r. w Biuletynie Informacji Publicznej szczegółowy komunikat XML, o którym mowa w art. 97 ust. 1. ” .
 
-**Art. 2.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) w art. 71c po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. W związku z organizowaniem kształcenia i specjalnych działań opiekuńczo-wychowawczych dla ucznia przyjętego do podmiotu leczniczego, podmiot leczniczy przekazuje szkole specjalnej lub oddziałowi specjalnemu zorganizowanym w podmiocie leczniczym dane uczniów, o których mowa w art. 25 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2012 r. poz. 159 i 742), niezbędne do prowadzenia dokumentacji przebiegu nauczania. ” .
+**Art. 2.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991 oraz z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206.) w art. 71c po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. W związku z organizowaniem kształcenia i specjalnych działań opiekuńczo-wychowawczych dla ucznia przyjętego do podmiotu leczniczego, podmiot leczniczy przekazuje szkole specjalnej lub oddziałowi specjalnemu zorganizowanym w podmiocie leczniczym dane uczniów, o których mowa w art. 25 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2012 r. poz. 159 i 742), niezbędne do prowadzenia dokumentacji przebiegu nauczania. ” .
 
 **Art. 3.** W ustawie z dnia 19 sierpnia 2011 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. Nr 205, poz. 1206) w art. 6 uchyla się pkt 1 i 8.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem 31 sierpnia 2012 r.
+**Art. 4.** Ustawa wchodzi w życie z dniem 31 sierpnia 2012 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 września 1991 r. o systemie oświaty oraz ustawę z dnia 19 sierpnia 2011 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991 oraz z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206.
 

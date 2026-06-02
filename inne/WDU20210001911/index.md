@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-01 |
 | Data wydania | 2021-10-21 |
-| Wejście w życie | 2021-11-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001911) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1911/text.pdf) |
 
@@ -35,21 +34,17 @@ w ust. 1:
 a)
 uchyla się pkt 2,
 b)
-pkt 17 otrzymuje brzmienie:
-„
+pkt 17 otrzymuje brzmienie: „
 17)
-propagowanie w społeczeństwie idei olimpijskiej i przeciwdziałanie negatywnym zjawiskom w sporcie;
-” ;
+propagowanie w społeczeństwie idei olimpijskiej i przeciwdziałanie negatywnym zjawiskom w sporcie; ” ;
 2)
 w ust. 2:
 a)
 uchyla się pkt 1,
 b)
-w pkt 2 lit. a otrzymuje brzmienie:
-„
+w pkt 2 lit. a otrzymuje brzmienie: „
 a)
-prowadzenie działalności badawczo-rozwojowej oraz wdrażanie wyników prowadzonych badań,
-” .
+prowadzenie działalności badawczo-rozwojowej oraz wdrażanie wyników prowadzonych badań, ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

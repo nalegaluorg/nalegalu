@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 listopada 2020 r. o zmianie ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw
+# Ustawa z dnia 28 listopada 2020 r. o zmianie ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa oraz ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-28 |
 | Data wydania | 2020-11-30 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002122) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2122/text.pdf) |
 
+Ryczałt od dochodów spółek kapitałowych
+Przepisy ogólne
+Zakres podmiotowy
 1.
 Opodatkowaniu ryczałtem może podlegać podatnik, o którym mowa w art. 3 ust. 1, jeżeli spełnia łącznie następujące warunki:
 1)
@@ -91,8 +93,7 @@ w wyniku połączenia lub podziału albo
 b)
 przez osoby prawne, osoby fizyczne albo jednostki organizacyjne niemające osobowości prawnej wnoszące, tytułem wkładów niepieniężnych na poczet kapitału podatnika, składniki majątku uzyskane przez te osoby albo jednostki w wyniku likwidacji innych podatników, jeżeli te osoby albo jednostki posiadały udziały (akcje) tych innych likwidowanych podatników, albo
 c)
-przez osoby prawne, osoby fizyczne albo jednostki organizacyjne niemające osobowości prawnej, jeżeli w roku podatkowym, w którym podatnik został utworzony, lub w roku podatkowym bezpośrednio po nim następującym, zostało do niego wniesione na poczet kapitału uprzednio prowadzone przedsiębiorstwo, zorganizowana część przedsiębiorstwa albo składniki majątku tego przedsiębiorstwa o wartości przekraczającej łącznie równowartość w złotych kwoty 10 000 euro przeliczonej według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w pierwszym dniu roboczym miesiąca poprzedzającego miesiąc, w którym wniesiono te składniki majątku, w zaokrągleniu do 1000 zł, przy czym wartość tych składników oblicza się, stosując odpowiednio przepisy art. 14
-w roku podatkowym, w którym rozpoczęli działalność, oraz w roku podatkowym bezpośrednio po nim następującym, nie krócej jednak niż przez okres 24 miesięcy od dnia utworzenia;
+przez osoby prawne, osoby fizyczne albo jednostki organizacyjne niemające osobowości prawnej, jeżeli w roku podatkowym, w którym podatnik został utworzony, lub w roku podatkowym bezpośrednio po nim następującym, zostało do niego wniesione na poczet kapitału uprzednio prowadzone przedsiębiorstwo, zorganizowana część przedsiębiorstwa albo składniki majątku tego przedsiębiorstwa o wartości przekraczającej łącznie równowartość w złotych kwoty 10 000 euro przeliczonej według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w pierwszym dniu roboczym miesiąca poprzedzającego miesiąc, w którym wniesiono te składniki majątku, w zaokrągleniu do 1000 zł, przy czym wartość tych składników oblicza się, stosując odpowiednio przepisy art. 14 – w roku podatkowym, w którym rozpoczęli działalność, oraz w roku podatkowym bezpośrednio po nim następującym, nie krócej jednak niż przez okres 24 miesięcy od dnia utworzenia;
 6)
 podatników, którzy:
 a)
@@ -126,6 +127,7 @@ d)
 podatnik zostanie przejęty przez inny podmiot w drodze łączenia lub podziału podmiotów, w tym podziału przez wydzielenie, lub wniesienia wkładu niepieniężnego w postaci przedsiębiorstwa lub jego zorganizowanej części, chyba że podmiot przejmujący jest opodatkowany ryczałtem.
 2.
 W przypadku utraty prawa do opodatkowaniem ryczałtem podatnik może złożyć ponowne zawiadomienie, o którym mowa w art. 28j ust. 1 pkt 7, po upływie 3 lat podatkowych, jednak nie wcześniej niż po upływie 36 miesięcy, następujących po roku kalendarzowym, w którym podatnik utracił prawo do opodatkowania ryczałtem.
+Przedmiot opodatkowania
 1.
 Opodatkowaniu ryczałtem podlega dochód odpowiadający:
 1)
@@ -192,6 +194,7 @@ zgodnie z art. 11c – w przypadkach innych niż określone w pkt 1.
 Przez wartość podatkową składnika majątku, o której mowa w ust. 1 pkt 4, rozumie się wartość niezaliczoną uprzednio w jakiejkolwiek formie do kosztów uzyskania przychodów w rozumieniu art. 15 lub w rozumieniu art. 22 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, jaka zostałaby przyjęta przez podatnika za taki koszt, gdyby składnik ten został przez niego odpłatnie zbyty.
 8.
 Wartość nieodpłatnych i częściowo odpłatnych świadczeń, o której mowa w ust. 3, określa się zgodnie z art. 12 ust. 5–6a.
+Podstawa opodatkowania
 1.
 Podstawę opodatkowania ryczałtem stanowi:
 1)
@@ -214,6 +217,7 @@ Jeżeli podatnik osiągnął w roku podatkowym przychody (dochody) poza terytori
 Jeżeli dochód stanowiący podstawę opodatkowania, o której mowa w ust. 1 pkt 1, nie odpowiada pełnej wysokości zysku netto osiągniętego za rok podatkowy, obniżenia i podwyższenia, o których mowa odpowiednio w ust. 4 i 5, dokonuje się proporcjonalnie do udziału tego dochodu w zysku netto.
 7.
 Przepisy ust. 4–6 stosuje się odpowiednio do podatnika w zakresie działalności prowadzonej poza terytorium Rzeczypospolitej Polskiej za pośrednictwem zagranicznego zakładu.
+Wysokość podatku
 1.
 Ryczałt wynosi:
 1)
@@ -232,12 +236,14 @@ Jeżeli podatnik osiągnął w roku podatkowym przychody (dochody) poza terytori
 Jeżeli dochód stanowiący podstawę opodatkowania, o której mowa w art. 28n ust. 1 pkt 1 i 4, nie odpowiada pełnej wysokości zysku netto osiągniętego za rok podatkowy, odliczenia, o którym mowa w ust. 1, dokonuje się proporcjonalnie do udziału tego dochodu w zysku netto.
 3.
 Jeżeli podatnik dokonał wypłaty zaliczki na poczet przewidywanej dywidendy, zgodnie z odrębnymi przepisami, od ryczałtu obliczonego po odliczeniach, o których mowa w ust. 2, odlicza się kwotę ryczałtu należnego od wypłaconej zaliczki.
+Domiar zobowiązania podatkowego
 1.
 Podatnik, u którego przychody lub wartość średnich przychodów były wyższe niż określone w art. 28j ust. 1 pkt 1, ustala dla dochodów osiągniętych w kolejnym roku podatkowym domiar zobowiązania podatkowego.
 2.
 Podstawę opodatkowania domiaru zobowiązania podatkowego ustala się według wzoru: (1-W) x Z, w którym poszczególne litery oznaczają: W – iloraz kwoty maksymalnych przychodów określonych w art. 28j ust. 1 pkt 1 i wartości średnich przychodów podatnika obliczonej zgodnie z art. 28j ust. 4, Z – dochody, o których mowa w art. 28m ust. 1, osiągnięte w roku podatkowym.
 3.
 Domiar zobowiązania podatkowego wynosi 5% podstawy opodatkowania.
+Obowiązki informacyjne
 1.
 Do końca trzeciego miesiąca roku podatkowego podatnik jest obowiązany złożyć do urzędu skarbowego deklarację, według ustalonego wzoru, o wysokości dochodu osiągniętego za poprzedni rok podatkowy.
 2.
@@ -250,6 +256,7 @@ Oświadczenie, o którym mowa w ust. 1, nie obejmuje podmiotów, z którymi poda
 Kopię oświadczenia, o którym mowa w ust. 1, podatnik przekazuje, na żądanie, naczelnikowi urzędu skarbowego właściwemu dla podatnika lub naczelnikowi urzędu skarbowego właściwemu dla osoby fizycznej, o której mowa w ust. 1.
 4.
 W przypadku gdy osoba fizyczna będąca udziałowcem lub akcjonariuszem podatnika opodatkowanego ryczałtem nie wykona obowiązku, o którym mowa w ust. 1, podatnik ten informuje o niewykonaniu tego obowiązku naczelnika urzędu skarbowego właściwego dla podatnika oraz naczelnika urzędu skarbowego właściwego dla tej osoby fizycznej w terminie 30 dni od dnia upływu terminu na jego wykonanie.
+Płatność podatku
 1.
 Podatnik jest obowiązany do zapłaty:
 1)
@@ -265,8 +272,7 @@ ryczałtu od dochodu z tytułu zmiany wartości składników majątku oraz domia
 2.
 Podatnik może zapłacić podatek, o którym mowa w ust. 1 pkt 2, w całości albo w części, w okresie nie dłuższym niż 3 lata, licząc od końca roku podatkowego, w którym powstał obowiązek jego zapłaty, jeżeli przed upływem terminu zapłaty tego podatku poinformuje właściwego naczelnika urzędu skarbowego o sposobie przyjętego rozliczenia, podając w szczególności terminy i kwoty wpłat podatku.
 3.
-Jeżeli przed terminem zapłaty podatku, o którym mowa w ust. 2, podatnik zostanie postawiony w stan likwidacji albo upadłości, zostanie przejęty przez inny podmiot lub zaprzestanie prowadzenia działalności z jakiejkolwiek innej przyczyny, albo znacznie ograniczy zakres tej działalności, termin zapłaty tego podatku upływa z dniem poprzedzającym dzień zaistnienia jednego z tych zdarzeń.
-” .
+Jeżeli przed terminem zapłaty podatku, o którym mowa w ust. 2, podatnik zostanie postawiony w stan likwidacji albo upadłości, zostanie przejęty przez inny podmiot lub zaprzestanie prowadzenia działalności z jakiejkolwiek innej przyczyny, albo znacznie ograniczy zakres tej działalności, termin zapłaty tego podatku upływa z dniem poprzedzającym dzień zaistnienia jednego z tych zdarzeń. ” .
 
 **Art. 1.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, 1492 i 1565) wprowadza się następujące zmiany:
 
@@ -318,8 +324,15 @@ Jeżeli przed terminem zapłaty podatku, o którym mowa w ust. 2, podatnik zosta
 - **2)** wykazuje przychody, koszty i dochód, o których mowa w ust. 1, w zeznaniu, o którym mowa w art. 27 ust. 1, składanym do końca trzeciego miesiąca pierwszego roku opodatkowania ryczałtem od dochodów spółek kapitałowych;
 - **3)** ustala podatek według stawki, o której mowa w art. 19 ust. 1 pkt 1;
 - **4)** dokonuje zapłaty podatku w częściach w okresie nie dłuższym niż 2 lata, licząc od końca pierwszego roku opodatkowania ryczałtem od dochodów spółek kapitałowych. ” ;
-- **4)** w art. 12: w ust. 1: – pkt 4e otrzymuje brzmienie: „ 4e) równowartość odpisów aktualizujących wartość należności, zaliczonych uprzednio do kosztów uzyskania przychodów lub potrąconych dla celów ustalenia zysku (straty) netto w okresie opodatkowania ryczałtem od dochodów spółek kapitałowych – w przypadku ustania przyczyn, dla których dokonano tych odpisów; ” , – pkt 5a otrzymuje brzmienie: „ 5a) równowartość rozwiązanych lub zmniejszonych rezerw, o których mowa w art. 16 ust. 1 pkt 27, zaliczonych uprzednio do kosztów uzyskania przychodów lub potrąconych dla celów ustalenia zysku (straty) netto w okresie opodatkowania ryczałtem od dochodów spółek kapitałowych; ” , – po pkt 6a dodaje się pkt 6b-6d w brzmieniu: „ 6b) równowartość zaliczonych uprzednio do kosztów uzyskania przychodów kwot odpisanych lub wypłaconych z funduszu, o którym mowa w art. 15 ust. 1hb, na cele inne niż cele inwestycyjne, o których mowa w art. 28g ust. 1 i 2, lub na te cele inwestycyjne, ale sfinansowanych lub zwróconych podatnikowi w jakiejkolwiek formie; 6c) równowartość środków zgromadzonych na funduszu, o którym mowa w art. 15 ust. 1hb, zaliczonych uprzednio do kosztów uzyskania przychodów, jeżeli w roku podatkowym podatnik nie spełnił warunków, o których mowa w art. 28j ust. 1 pkt 1–6; 6d) równowartość środków zgromadzonych na funduszu, o którym mowa w art. 15 ust. 1hb, zaliczonych uprzednio do kosztów uzyskania przychodów, odpowiadająca kwocie niewydatkowanej zgodnie z art. 15 ust. 1hb pkt 4, chyba że środki te zostały zaliczone do przychodów na podstawie pkt 6c; ” , – w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „ 12) przychody powstałe w okresie opodatkowania ryczałtem od dochodów spółek kapitałowych w części nieuwzględnionej w wyniku finansowym netto podatnika za dowolny rok tego okresu zgodnie z przepisami o rachunkowości. ” , po ust. 1a dodaje się ust. 1aa i 1ab w brzmieniu: „ 1aa. Przychody, o których mowa w ust. 1 pkt 6c i 6d, powstają w ostatnim dniu roku podatkowego, w którym podatnik nie spełnił warunków, o których mowa odpowiednio w art. 28j ust. 1 pkt 1–6 i art. 15 ust. 1hb pkt 4. 1ab. W przypadku powstania przychodów, o których mowa w ust. 1 pkt 6b-6d, podatnik jest obowiązany w dniu ich powstania wpłacić do urzędu skarbowego kwotę odsetek naliczonych od dnia zaliczenia do kosztów uzyskania przychodów odpisów na fundusz, o którym mowa w art. 15 ust. 1hb, do dnia powstania tego przychodu, według stawki odsetek za zwłokę od zaległości podatkowych obowiązującej w dniu dokonania odpisu. Naliczoną kwotę odsetek podatnik wykazuje w zeznaniu, o którym mowa w art. 27 ust. 1. ” , w ust. 3aa w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **4)** w art. 12: w ust. 1: pkt 4e otrzymuje brzmienie: „
     - **a)**
+
+- **4e)** równowartość odpisów aktualizujących wartość należności, zaliczonych uprzednio do kosztów uzyskania przychodów lub potrąconych dla celów ustalenia zysku (straty) netto w okresie opodatkowania ryczałtem od dochodów spółek kapitałowych – w przypadku ustania przyczyn, dla których dokonano tych odpisów; ” , pkt 5a otrzymuje brzmienie: „
+- **5a)** równowartość rozwiązanych lub zmniejszonych rezerw, o których mowa w art. 16 ust. 1 pkt 27, zaliczonych uprzednio do kosztów uzyskania przychodów lub potrąconych dla celów ustalenia zysku (straty) netto w okresie opodatkowania ryczałtem od dochodów spółek kapitałowych; ” , po pkt 6a dodaje się pkt 6b-6d w brzmieniu: „
+- **6b)** równowartość zaliczonych uprzednio do kosztów uzyskania przychodów kwot odpisanych lub wypłaconych z funduszu, o którym mowa w art. 15 ust. 1hb, na cele inne niż cele inwestycyjne, o których mowa w art. 28g ust. 1 i 2, lub na te cele inwestycyjne, ale sfinansowanych lub zwróconych podatnikowi w jakiejkolwiek formie;
+- **6c)** równowartość środków zgromadzonych na funduszu, o którym mowa w art. 15 ust. 1hb, zaliczonych uprzednio do kosztów uzyskania przychodów, jeżeli w roku podatkowym podatnik nie spełnił warunków, o których mowa w art. 28j ust. 1 pkt 1–6;
+- **6d)** równowartość środków zgromadzonych na funduszu, o którym mowa w art. 15 ust. 1hb, zaliczonych uprzednio do kosztów uzyskania przychodów, odpowiadająca kwocie niewydatkowanej zgodnie z art. 15 ust. 1hb pkt 4, chyba że środki te zostały zaliczone do przychodów na podstawie pkt 6c; ” , w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
+- **12)** przychody powstałe w okresie opodatkowania ryczałtem od dochodów spółek kapitałowych w części nieuwzględnionej w wyniku finansowym netto podatnika za dowolny rok tego okresu zgodnie z przepisami o rachunkowości. ” , po ust. 1a dodaje się ust. 1aa i 1ab w brzmieniu: „ 1aa. Przychody, o których mowa w ust. 1 pkt 6c i 6d, powstają w ostatnim dniu roku podatkowego, w którym podatnik nie spełnił warunków, o których mowa odpowiednio w art. 28j ust. 1 pkt 1–6 i art. 15 ust. 1hb pkt 4. 1ab. W przypadku powstania przychodów, o których mowa w ust. 1 pkt 6b-6d, podatnik jest obowiązany w dniu ich powstania wpłacić do urzędu skarbowego kwotę odsetek naliczonych od dnia zaliczenia do kosztów uzyskania przychodów odpisów na fundusz, o którym mowa w art. 15 ust. 1hb, do dnia powstania tego przychodu, według stawki odsetek za zwłokę od zaległości podatkowych obowiązującej w dniu dokonania odpisu. Naliczoną kwotę odsetek podatnik wykazuje w zeznaniu, o którym mowa w art. 27 ust. 1. ” , w ust. 3aa w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -345,7 +358,7 @@ Jeżeli przed terminem zapłaty podatku, o którym mowa w ust. 2, podatnik zosta
 
 - **1)** podatnik wydatkował środki pochodzące z funduszu, o którym mowa w ust. 1hb, na cele inne niż cele inwestycyjne, o których mowa w art. 28g ust. 1 i 2, lub środki tego funduszu zostały sfinansowane lub zwrócone podatnikowi w jakiejkolwiek formie albo
 - **2)** podatnik nie spełnił warunków, o których mowa w art. 28j ust. 1 pkt 1–6, albo
-- **3)** wydatki funduszu, o którym mowa w ust. 1hb, nie zostały wydatkowane zgodnie z ust. 1hb pkt 4 począwszy od roku następnego podatnik traci prawo do dokonywania odpisów zaliczanych do kosztów uzyskania przychodów na podstawie ust. 1hb przez okres 3 lat podatkowych, nie krócej jednak niż przez okres 36 miesięcy. 1he. Kwota odpisu na fundusz, o którym mowa w ust. 1hb, stanowi pomoc de minimis udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis. Podatnik informuje właściwego naczelnika urzędu skarbowego o skorzystaniu z pomocy w terminie i na zasadach określonych w przepisach ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2020 r. poz. 708). ” , po ust. 1zd dodaje się ust. 1ze w brzmieniu: „ 1ze. W przypadku podatnika, który w okresie opodatkowania ryczałtem od dochodów spółek kapitałowych zaliczał do kosztów, zgodnie z przepisami o rachunkowości, cenę nabycia lub koszt wytworzenia składnika majątku, od którego nie dokonuje się odpisów amortyzacyjnych na podstawie art. 16a-16m, kosztem uzyskania przychodu ze zbycia lub likwidacji tego składnika lub realizacji prawa majątkowego będącego takim składnikiem jest cena jego nabycia lub koszt wytworzenia pomniejszone o koszty uwzględnione w jakiejkolwiek formie w wyniku finansowym netto za dowolny rok tego okresu. ” ;
+- **3)** wydatki funduszu, o którym mowa w ust. 1hb, nie zostały wydatkowane zgodnie z ust. 1hb pkt 4 – począwszy od roku następnego podatnik traci prawo do dokonywania odpisów zaliczanych do kosztów uzyskania przychodów na podstawie ust. 1hb przez okres 3 lat podatkowych, nie krócej jednak niż przez okres 36 miesięcy. 1he. Kwota odpisu na fundusz, o którym mowa w ust. 1hb, stanowi pomoc de minimis udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis. Podatnik informuje właściwego naczelnika urzędu skarbowego o skorzystaniu z pomocy w terminie i na zasadach określonych w przepisach ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2020 r. poz. 708). ” , po ust. 1zd dodaje się ust. 1ze w brzmieniu: „ 1ze. W przypadku podatnika, który w okresie opodatkowania ryczałtem od dochodów spółek kapitałowych zaliczał do kosztów, zgodnie z przepisami o rachunkowości, cenę nabycia lub koszt wytworzenia składnika majątku, od którego nie dokonuje się odpisów amortyzacyjnych na podstawie art. 16a-16m, kosztem uzyskania przychodu ze zbycia lub likwidacji tego składnika lub realizacji prawa majątkowego będącego takim składnikiem jest cena jego nabycia lub koszt wytworzenia pomniejszone o koszty uwzględnione w jakiejkolwiek formie w wyniku finansowym netto za dowolny rok tego okresu. ” ;
     - **c)**
 
 - **6)** w art. 16 w ust. 1 po pkt 48 dodaje się pkt 48a-48c w brzmieniu: „
@@ -365,9 +378,9 @@ Jeżeli przed terminem zapłaty podatku, o którym mowa w ust. 2, podatnik zosta
 - **9)** po art. 18a dodaje się art. 18aa w brzmieniu: „ Art. 18aa. Podatnik, który dokonuje odliczeń na podstawie art. 18 i art. 18d-18f, traci odpowiednio prawo albo obowiązek do ich kontynuowania począwszy od pierwszego roku opodatkowania ryczałtem od dochodów spółek kapitałowych. ” ;
 - **10)** po rozdziale 6a dodaje się rozdział 6b w brzmieniu: „
 
-#### Rozdział 6b Ryczałt od dochodów spółek kapitałowych
+#### Rozdział 6b
 
-##### Oddział 1 Przepisy ogólne
+##### Oddział 1
 
 **Art. 28c.** Ilekroć w niniejszym rozdziale jest mowa o:
 
@@ -392,7 +405,7 @@ Jeżeli przed terminem zapłaty podatku, o którym mowa w ust. 2, podatnik zosta
 1. Podatnik opodatkowany ryczałtem jest obowiązany ponosić bezpośrednie nakłady na cele inwestycyjne w wysokości większej o:
 
 - **1)** 15%, jednak nie mniejszej niż 20 000 zł – w okresie 2 kolejno następujących po sobie lat podatkowych opodatkowania ryczałtem, albo
-- **2)** 33%, jednak nie mniejszej niż 50 000 zł – w okresie 4 lat podatkowych, o którym mowa w art. 28f ust. 1 lub 2 w stosunku do ustalonej na ostatni dzień roku podatkowego poprzedzającego odpowiednio dwuletni albo czteroletni okres opodatkowania ryczałtem wartości początkowej środków trwałych zaliczonych do grupy 3–8 Klasyfikacji, z wyłączeniem samochodów osobowych, środków transportu lotniczego, taboru pływającego oraz innych składników majątku służących głównie celom osobistym udziałowców albo akcjonariuszy lub członków ich rodzin.
+- **2)** 33%, jednak nie mniejszej niż 50 000 zł – w okresie 4 lat podatkowych, o którym mowa w art. 28f ust. 1 lub 2 – w stosunku do ustalonej na ostatni dzień roku podatkowego poprzedzającego odpowiednio dwuletni albo czteroletni okres opodatkowania ryczałtem wartości początkowej środków trwałych zaliczonych do grupy 3–8 Klasyfikacji, z wyłączeniem samochodów osobowych, środków transportu lotniczego, taboru pływającego oraz innych składników majątku służących głównie celom osobistym udziałowców albo akcjonariuszy lub członków ich rodzin.
 
 2. Przez nakłady na cele inwestycyjne, o których mowa w ust. 1, rozumie się faktycznie poniesione w roku podatkowym:
 
@@ -415,21 +428,21 @@ Jeżeli przed terminem zapłaty podatku, o którym mowa w ust. 2, podatnik zosta
 
 - **1)** zawiadomienia, o którym mowa w art. 28j ust. 1 pkt 7,
 - **2)** deklaracji, o której mowa w art. 28r ust. 1,
-- **3)** oświadczenia, o którym mowa w art. 28s ust. 1 wraz z objaśnieniami co do sposobu ich wypełniania, terminu i miejsca składania oraz niezbędnymi pouczeniami, mając na uwadze umożliwienie identyfikacji podatnika, urzędu skarbowego, do którego jest skierowany formularz, poprawne złożenie zawiadomienia o wyborze opodatkowania ryczałtem, obliczenie dochodu, podstawy opodatkowania oraz podatku przez podatnika, a także ustalenia spełnienia warunków uprawniających do opodatkowania ryczałtem.
+- **3)** oświadczenia, o którym mowa w art. 28s ust. 1 – wraz z objaśnieniami co do sposobu ich wypełniania, terminu i miejsca składania oraz niezbędnymi pouczeniami, mając na uwadze umożliwienie identyfikacji podatnika, urzędu skarbowego, do którego jest skierowany formularz, poprawne złożenie zawiadomienia o wyborze opodatkowania ryczałtem, obliczenie dochodu, podstawy opodatkowania oraz podatku przez podatnika, a także ustalenia spełnienia warunków uprawniających do opodatkowania ryczałtem.
 
-##### Oddział 2 Zakres podmiotowy
+##### Oddział 2
 
-##### Oddział 3 Przedmiot opodatkowania
+##### Oddział 3
 
-##### Oddział 4 Podstawa opodatkowania
+##### Oddział 4
 
-##### Oddział 5 Wysokość podatku
+##### Oddział 5
 
-##### Oddział 6 Domiar zobowiązania podatkowego
+##### Oddział 6
 
-##### Oddział 7 Obowiązki informacyjne
+##### Oddział 7
 
-##### Oddział 8 Płatność podatku
+##### Oddział 8
 
 **Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2020 r. poz. 1426, 1291, 1428, 1492 i 1565) wprowadza się następujące zmiany:
 
@@ -487,5 +500,5 @@ Jeżeli przed terminem zapłaty podatku, o którym mowa w ust. 2, podatnik zosta
 
 **Art. 9.** Podatnicy, o których mowa w art. 28k ust. 1 pkt 5 lub 6 ustawy zmienianej w art. 1, oraz podmioty, o których mowa w art. 28k ust. 2 ustawy zmienianej w art. 1, mogą wybrać opodatkowanie ryczałtem od dochodów spółek kapitałowych zgodnie z przepisami rozdziału 6b ustawy zmienianej w art. 1, jeżeli w 2021 r. złożą zawiadomienie, o którym mowa w art. 28j ust. 1 pkt 7 ustawy zmienianej w art. 1. W takim przypadku przepisy art. 7aa ust. 1, 2, 4–7 i 9 ustawy zmienianej w art. 1 stosuje się odpowiednio.
 
-**Art. 10.** Ustawa wchodzi w życie z dniem 1 stycznia 2021 r.
+**Art. 10.** Ustawa wchodzi w życie z dniem 1 stycznia 2021 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa oraz ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 17 maja 2019 r. w sprawie pokrywania kosztów pogrzebu funkcjonariusza Służby Celno-Skarbowej oraz wypłaty zasiłku pogrzebowego lub jego wyrównania z tytułu śmierci członka rodziny funkcjonariusza Służby Celno-Skarbowej
+# Rozporządzenie Ministra Finansówz dnia 17 maja 2019 r. w sprawie pokrywania kosztów pogrzebu funkcjonariusza Służby Celno-Skarbowej oraz wypłaty zasiłku pogrzebowego lub jego wyrównania z tytułu śmierci członka rodziny funkcjonariusza Służby Celno-Skarbowej Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-17 |
 | Data wydania | 2019-05-24 |
-| Wejście w życie | 2019-06-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000984) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/984/text.pdf) |
 
@@ -125,6 +124,5 @@ kopie dokumentów wymienionych w pkt 1 i 2, w przypadku gdy funkcjonariusz zamie
 6.
 Jako dowód poniesionych przez funkcjonariusza kosztów pogrzebu członka rodziny uznaje się również wystawione na inną osobę rachunki, o których mowa w ust. 2 pkt 3, a w przypadku ubiegania się przez funkcjonariusza o wyrównanie zasiłku pogrzebowego, dokumenty potwierdzające wysokość zasiłku pogrzebowego wypłaconego innej osobie na podstawie odrębnych przepisów, jeżeli osoba ta oświadczy na piśmie, że koszty pogrzebu zostały poniesione (zwrócone) przez funkcjonariusza. Oświadczenie nie jest wymagane, jeżeli rachunki lub dokumenty wystawione są na małżonka funkcjonariusza.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 20 grudnia 2017 r. w sprawie pokrywania kosztów pogrzebu funkcjonariusza Służby Celno-Skarbowej oraz wypłaty zasiłku pogrzebowego lub jego wyrównania z tytułu śmierci członka rodziny funkcjonariusza Służby Celno-Skarbowej (Dz. U. poz. 2450), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 37 pkt 3 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 20 grudnia 2017 r. w sprawie pokrywania kosztów pogrzebu funkcjonariusza Służby Celno-Skarbowej oraz wypłaty zasiłku pogrzebowego lub jego wyrównania z tytułu śmierci członka rodziny funkcjonariusza Służby Celno-Skarbowej (Dz. U. poz. 2450), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 37 pkt 3 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 20 grudnia 2017 r. w sprawie pokrywania kosztów pogrzebu funkcjonariusza Służby Celno-Skarbowej oraz wypłaty zasiłku pogrzebowego lub jego wyrównania z tytułu śmierci członka rodziny funkcjonariusza Służby Celno-Skarbowej (Dz. U. poz. 2450), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 37 pkt 3 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
 

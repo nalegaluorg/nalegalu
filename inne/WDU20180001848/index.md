@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 21 września 2018 r. w sprawie sposobu dokumentowania prawa do zasiłków pogrzebowych, warunków pokrywania kosztów pogrzebu funkcjonariuszy Służby Ochrony Państwa i członków rodziny funkcjonariusza oraz dokumentów wymaganych przy wypłacie zasiłku pogrzebowego
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 21 września 2018 r. w sprawie sposobu dokumentowania prawa do zasiłków pogrzebowych, warunków pokrywania kosztów pogrzebu funkcjonariuszy Służby Ochrony Państwa i członków rodziny funkcjonariusza oraz dokumentów wymaganych przy wypłacie zasiłku pogrzebowego Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-21 |
 | Data wydania | 2018-09-28 |
-| Wejście w życie | 2018-10-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001848) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1848/text.pdf) |
 
@@ -46,6 +45,5 @@ Pokrycie kosztów pogrzebu, o których mowa w ust. 1 i 2, następuje na podstawi
 § 3.
 Dokumentami wymaganymi do wypłaty zasiłku pogrzebowego są oryginały rachunków kosztów pogrzebu poniesionych przez funkcjonariusza lub osobę, która je pokryła, w szczególności rachunek za urnę lub trumnę.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 12 listopada 2002 r. w sprawie sposobu dokumentowania prawa do zasiłków pogrzebowych oraz warunków pokrywania kosztów pogrzebu funkcjonariuszy Biura Ochrony Rządu i członków ich rodzin (Dz. U. poz. 1622), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 12 listopada 2002 r. w sprawie sposobu dokumentowania prawa do zasiłków pogrzebowych oraz warunków pokrywania kosztów pogrzebu funkcjonariuszy Biura Ochrony Rządu i członków ich rodzin (Dz. U. poz. 1622), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 12 listopada 2002 r. w sprawie sposobu dokumentowania prawa do zasiłków pogrzebowych oraz warunków pokrywania kosztów pogrzebu funkcjonariuszy Biura Ochrony Rządu i członków ich rodzin (Dz. U. poz. 1622), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669).
 

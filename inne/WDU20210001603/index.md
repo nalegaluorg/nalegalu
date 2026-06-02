@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 8 lipca 2021 r. o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw oraz niektórych innych ustaw
+# Ustawa z dnia 8 lipca 2021 r. o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych, ustawę z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych, ustawę z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz ustawę z dnia 11 września 2015 r. o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw oraz ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-07-08 |
 | Data wydania | 2021-09-01 |
-| Wejście w życie | 2021-10-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001603) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1603/text.pdf) |
 
@@ -63,9 +62,27 @@ source: "eli-html"
 
 4. Decyzję, o której mowa w ust. 1 pkt 1, wydaje się w terminie 90 dni od dnia złożenia wniosku o jej wydanie. ” ;
 
-- **7)** w art. 8: w ust. 3: – pkt 3 i 4 otrzymują brzmienie: „ 3) plan biznesowy grupy sporządzony na co najmniej 5 lat na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji, a w przypadku gdy ten wniosek został złożony w postaci papierowej, plan biznesowy przesyła się również w postaci elektronicznej za pomocą środków komunikacji elektronicznej albo dołącza się na informatycznym nośniku danych; 4) oświadczenia członków grupy: a) o prowadzeniu, w dniu składania wniosku, gospodarstwa rolnego lub działu specjalnego produkcji rolnej w zakresie produkcji produktów lub grup produktów, ze względu na które grupa została utworzona, b) o nieprzynależności do innej grupy utworzonej ze względu na ten sam produkt lub grupę produktów, c) o nieprzynależności do organizacji producentów, o której mowa w przepisach ustawy о rynkach rolnych albo ustawy o rynku mleka, utworzonej w zakresie tego samego produktu lub grupy produktów, d) zawierające zobowiązanie do dostarczania do grupy, w każdym roku jej działalności, co najmniej 70% wyprodukowanych przez nich produktów lub grup produktów, ze względu na które grupa została utworzona; ” , – dodaje się pkt 5 w brzmieniu: „ 5) oświadczenie zawierające zobowiązanie osób upoważnionych do reprezentowania grupy, że coroczne przychody grupy ze sprzedaży produktów lub grup produktów wytworzonych w gospodarstwach lub działach specjalnych produkcji rolnej członków grupy będą stanowić więcej niż połowę przychodów grupy ze sprzedaży produktów lub grup produktów, ze względu na które grupa została utworzona. ” , w ust. 4: – pkt 3 i 4 otrzymują brzmienie: „ 3) plan biznesowy grupy sporządzony na co najmniej 5 lat na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji, a w przypadku gdy ten wniosek został złożony w postaci papierowej, plan biznesowy przesyła się również w postaci elektronicznej za pomocą środków komunikacji elektronicznej albo dołącza się na informatycznym nośniku danych; 4) oświadczenia członków grupy wskazanych w art. 3a pkt 1: a) o prowadzeniu, w dniu składania wniosku, gospodarstwa rolnego lub działu specjalnego produkcji rolnej w zakresie produkcji produktów lub grup produktów, ze względu na które grupa została utworzona, b) o nieprzynależności do innej grupy utworzonej ze względu na ten sam produkt lub grupę produktów, c) o nieprzynależności do organizacji producentów, o której mowa w przepisach ustawy о rynkach rolnych albo ustawy o rynku mleka, utworzonej w zakresie tego samego produktu lub grupy produktów, d) zawierające zobowiązanie do dostarczania do grupy, w każdym roku jej działalności, co najmniej 70% wyprodukowanych przez nich produktów lub grup produktów, ze względu na które grupa została utworzona; ” , – dodaje się pkt 5 w brzmieniu: „ 5) oświadczenie zawierające zobowiązanie osób upoważnionych do składania oświadczeń woli w imieniu spółdzielni, że coroczne przychody spółdzielni ze sprzedaży produktów lub grup produktów wytworzonych w gospodarstwach lub działach specjalnych produkcji rolnej członków grupy wskazanych w art. 3a pkt 1 będą stanowić więcej niż połowę przychodów spółdzielni ze sprzedaży produktów lub grup produktów, ze względu na które grupa została utworzona. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+- **7)** w art. 8: w ust. 3: pkt 3 i 4 otrzymują brzmienie: „
+    - **a)**
+
+- **3)** plan biznesowy grupy sporządzony na co najmniej 5 lat na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji, a w przypadku gdy ten wniosek został złożony w postaci papierowej, plan biznesowy przesyła się również w postaci elektronicznej za pomocą środków komunikacji elektronicznej albo dołącza się na informatycznym nośniku danych;
+- **4)** oświadczenia członków grupy: o prowadzeniu, w dniu składania wniosku, gospodarstwa rolnego lub działu specjalnego produkcji rolnej w zakresie produkcji produktów lub grup produktów, ze względu na które grupa została utworzona, o nieprzynależności do innej grupy utworzonej ze względu na ten sam produkt lub grupę produktów, o nieprzynależności do organizacji producentów, o której mowa w przepisach ustawy о rynkach rolnych albo ustawy o rynku mleka, utworzonej w zakresie tego samego produktu lub grupy produktów, zawierające zobowiązanie do dostarczania do grupy, w każdym roku jej działalności, co najmniej 70% wyprodukowanych przez nich produktów lub grup produktów, ze względu na które grupa została utworzona; ” , dodaje się pkt 5 w brzmieniu: „
     - **a)**
     - **b)**
+    - **c)**
+    - **d)**
+
+- **5)** oświadczenie zawierające zobowiązanie osób upoważnionych do reprezentowania grupy, że coroczne przychody grupy ze sprzedaży produktów lub grup produktów wytworzonych w gospodarstwach lub działach specjalnych produkcji rolnej członków grupy będą stanowić więcej niż połowę przychodów grupy ze sprzedaży produktów lub grup produktów, ze względu na które grupa została utworzona. ” , w ust. 4: pkt 3 i 4 otrzymują brzmienie: „
+    - **b)**
+
+- **3)** plan biznesowy grupy sporządzony na co najmniej 5 lat na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji, a w przypadku gdy ten wniosek został złożony w postaci papierowej, plan biznesowy przesyła się również w postaci elektronicznej za pomocą środków komunikacji elektronicznej albo dołącza się na informatycznym nośniku danych;
+- **4)** oświadczenia członków grupy wskazanych w art. 3a pkt 1: o prowadzeniu, w dniu składania wniosku, gospodarstwa rolnego lub działu specjalnego produkcji rolnej w zakresie produkcji produktów lub grup produktów, ze względu na które grupa została utworzona, o nieprzynależności do innej grupy utworzonej ze względu na ten sam produkt lub grupę produktów, o nieprzynależności do organizacji producentów, o której mowa w przepisach ustawy о rynkach rolnych albo ustawy o rynku mleka, utworzonej w zakresie tego samego produktu lub grupy produktów, zawierające zobowiązanie do dostarczania do grupy, w każdym roku jej działalności, co najmniej 70% wyprodukowanych przez nich produktów lub grup produktów, ze względu na które grupa została utworzona; ” , dodaje się pkt 5 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **5)** oświadczenie zawierające zobowiązanie osób upoważnionych do składania oświadczeń woli w imieniu spółdzielni, że coroczne przychody spółdzielni ze sprzedaży produktów lub grup produktów wytworzonych w gospodarstwach lub działach specjalnych produkcji rolnej członków grupy wskazanych w art. 3a pkt 1 będą stanowić więcej niż połowę przychodów spółdzielni ze sprzedaży produktów lub grup produktów, ze względu na które grupa została utworzona. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
     - **c)**
 
 4a. Oświadczenia, o których mowa w ust. 3 pkt 4 lit. a-c oraz ust. 4 pkt 4 lit. a-c, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. ” , ust. 5 otrzymuje brzmienie: „
@@ -114,7 +131,7 @@ source: "eli-html"
 - **1)** mimo wezwania, o którym mowa w ust. 1, w terminie określonym w tym wezwaniu nie spełniła brakujących warunków lub
 - **2)** uniemożliwia albo utrudnia przeprowadzenie kontroli, o których mowa w art. 12 ust. 2 pkt 2 i 3, lub
 - **3)** mimo wezwania, o którym mowa w art. 9 ust. 5 lub art. 13 ust. 2, nie wypełniła obowiązku określonego w art. 9 ust. 4 lub art. 13 ust. 1, lub
-- **4)** przestała spełniać co najmniej jeden z warunków uznania określonych w art. 3 ust. 1 pkt 4 lub 6 albo art. 3a pkt 4 lub 6, lub art. 3aa, lub w przepisach wydanych na podstawie art. 6 wydaje decyzję o cofnięciu grupie uznania i skreśleniu jej z rejestru grup. ” ;
+- **4)** przestała spełniać co najmniej jeden z warunków uznania określonych w art. 3 ust. 1 pkt 4 lub 6 albo art. 3a pkt 4 lub 6, lub art. 3aa, lub w przepisach wydanych na podstawie art. 6 – wydaje decyzję o cofnięciu grupie uznania i skreśleniu jej z rejestru grup. ” ;
 - **10)** w art. 17: ust. 5 otrzymuje brzmienie: „
     - **a)**
 
@@ -129,7 +146,7 @@ source: "eli-html"
 - **1)** mimo wezwania, o którym mowa w ust. 5, w terminie określonym w tym wezwaniu nie spełnił brakujących warunków lub
 - **2)** uniemożliwia albo utrudnia przeprowadzenie kontroli, o których mowa w ust. 2, lub
 - **3)** mimo wezwania, o którym mowa w art. 17a ust. 1a, nie wypełnił obowiązku określonego w art. 17a ust. 1, lub
-- **4)** przestał spełniać co najmniej jeden z warunków uznania określonych w art. 14 lub art. 15 wydaje decyzję o cofnięciu związkowi uznania i skreśleniu go z rejestru związków. ” ;
+- **4)** przestał spełniać co najmniej jeden z warunków uznania określonych w art. 14 lub art. 15 – wydaje decyzję o cofnięciu związkowi uznania i skreśleniu go z rejestru związków. ” ;
 - **11)** w art. 17a: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -181,7 +198,7 @@ source: "eli-html"
 
 - **1)** organizacji producentów i zatwierdzeniu jej planu biznesowego, jeżeli spełnia ona wymagania określone w art. 152 ust. 1, art. 153 ust. 1 i 2 oraz art. 154 ust. 1 rozporządzenia nr 1308/2013 oraz w ust. 2a i 2d,
 - **2)** zrzeszenia organizacji producentów, jeżeli spełnia ono wymagania określone w art. 156 rozporządzenia nr 1308/2013 oraz w ust. 2a i 2d,
-- **3)** organizacji międzybranżowej, jeżeli spełnia ona wymagania określone w art. 157 ust. 1 i art. 158 ust. 1 rozporządzenia nr 1308/2013 oraz w ust. 2a i 2d oraz jeżeli organizacja albo zrzeszenie spełnia wymagania określone w przepisach wydanych na podstawie ust. 3.
+- **3)** organizacji międzybranżowej, jeżeli spełnia ona wymagania określone w art. 157 ust. 1 i art. 158 ust. 1 rozporządzenia nr 1308/2013 oraz w ust. 2a i 2d – oraz jeżeli organizacja albo zrzeszenie spełnia wymagania określone w przepisach wydanych na podstawie ust. 3.
 
 2g. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę organizacji wydaje decyzję o zatwierdzeniu zmian planu biznesowego, jeżeli są spełnione wymagania, o których mowa w ust. 2a-2c i 2e, oraz proponowane zmiany planu biznesowego umożliwiają osiągnięcie celów wybranych przez organizację producentów, o których mowa w przepisach Unii Europejskiej dotyczących uznawania organizacji producentów. ” , ust. 3 otrzymuje brzmienie: „
 
@@ -192,7 +209,7 @@ source: "eli-html"
 - **1)** minimalną liczbę członków organizacji producentów lub minimalną ilość lub wartość zbywalnej produkcji, o których mowa w art. 154 ust. 1 lit. b rozporządzenia nr 1308/2013,
 - **2)** maksymalny odsetek głosów przysługujących członkom, udziałowcom lub akcjonariuszom będącym producentami na zgromadzeniu wspólników, walnym zgromadzeniu albo walnym zebraniu członków organizacji producentów oraz maksymalny odsetek udziałów lub akcji, jakie mogą posiadać ci udziałowcy lub akcjonariusze w tej organizacji,
 - **3)** szczegółowe wymagania, jakim mają odpowiadać wnioski składane w tych sprawach,
-- **4)** rodzaje i zakres dokumentów potwierdzających spełnianie przez organizacje i zrzeszenia warunków uznania organizacji producentów i zatwierdzenia jej planu biznesowego oraz uznania zrzeszenia organizacji producentów oraz organizacji międzybranżowej mając na względzie zapewnienie prawidłowego funkcjonowania tych organizacji i zrzeszeń oraz spełnienie wymagań określonych w przepisach Unii Europejskiej oraz ustawy, dotyczących uznawania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznawania zrzeszenia organizacji producentów i organizacji międzybranżowej. ” ;
+- **4)** rodzaje i zakres dokumentów potwierdzających spełnianie przez organizacje i zrzeszenia warunków uznania organizacji producentów i zatwierdzenia jej planu biznesowego oraz uznania zrzeszenia organizacji producentów oraz organizacji międzybranżowej – mając na względzie zapewnienie prawidłowego funkcjonowania tych organizacji i zrzeszeń oraz spełnienie wymagań określonych w przepisach Unii Europejskiej oraz ustawy, dotyczących uznawania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznawania zrzeszenia organizacji producentów i organizacji międzybranżowej. ” ;
 - **5)** w art. 38j: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -230,9 +247,11 @@ source: "eli-html"
 - **3)** w art. 48a: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę wnioskodawcy jest organem właściwym w sprawach uznawania organizacji producentów i zatwierdzania ich planu biznesowego, zatwierdzania zmian ich planu biznesowego, uznawania zrzeszeń organizacji producentów oraz organizacji międzybranżowych, w tym międzynarodowych organizacji producentów, międzynarodowych zrzeszeń organizacji producentów oraz międzynarodowych organizacji międzybranżowych, o których mowa w art. 156, art. 161 i art. 163 rozporządzenia, o którym mowa w pkt 11 załącznika. ” , w ust. 2: – w pkt 1: – – po lit. a dodaje się lit. aa w brzmieniu: „ aa) akt założycielski tej organizacji zawiera postanowienia umożliwiające jej członkom, udziałowcom lub akcjonariuszom będącym producentami kontrolę organizacji oraz podejmowanych w ramach tej organizacji decyzji, w tym dotyczące, wyrażonej w procentach, wielkości posiadanych przez nich udziałów lub akcji oraz dopuszczalnej, wyrażonej w procentach, ilości głosów przysługujących im na zgromadzeniu wspólników, walnym zgromadzeniu albo walnym zebraniu członków tej organizacji, ” , – – lit. e otrzymuje brzmienie: „ e) okres wypowiedzenia członkostwa w tej organizacji, określony w jej akcie założycielskim, jest nie krótszy niż 6 miesięcy, ” , – w pkt 2 w lit. b wyraz „statucie” zastępuje się wyrazami „akcie założycielskim”, ust. 3 otrzymuje brzmienie: „
+1. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę wnioskodawcy jest organem właściwym w sprawach uznawania organizacji producentów i zatwierdzania ich planu biznesowego, zatwierdzania zmian ich planu biznesowego, uznawania zrzeszeń organizacji producentów oraz organizacji międzybranżowych, w tym międzynarodowych organizacji producentów, międzynarodowych zrzeszeń organizacji producentów oraz międzynarodowych organizacji międzybranżowych, o których mowa w art. 156, art. 161 i art. 163 rozporządzenia, o którym mowa w pkt 11 załącznika. ” , w ust. 2: w pkt 1: – po lit. a dodaje się lit. aa w brzmieniu: „ akt założycielski tej organizacji zawiera postanowienia umożliwiające jej członkom, udziałowcom lub akcjonariuszom będącym producentami kontrolę organizacji oraz podejmowanych w ramach tej organizacji decyzji, w tym dotyczące, wyrażonej w procentach, wielkości posiadanych przez nich udziałów lub akcji oraz dopuszczalnej, wyrażonej w procentach, ilości głosów przysługujących im na zgromadzeniu wspólników, walnym zgromadzeniu albo walnym zebraniu członków tej organizacji, ” , – lit. e otrzymuje brzmienie: „ okres wypowiedzenia członkostwa w tej organizacji, określony w jej akcie założycielskim, jest nie krótszy niż 6 miesięcy, ” , – w pkt 2 w lit. b wyraz „statucie” zastępuje się wyrazami „akcie założycielskim”, ust. 3 otrzymuje brzmienie: „
 
 - **b)**
+- **aa)**
+- **e)**
 - **c)**
 
 3. Sprawy, o których mowa w ust. 1, są załatwiane w drodze decyzji, na wniosek organizacji producentów, zrzeszenia organizacji producentów albo organizacji międzybranżowej składany do dyrektora oddziału regionalnego Agencji właściwego ze względu na siedzibę organizacji albo zrzeszenia na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji. ” , po ust. 3 dodaje się ust. 3a-3e w brzmieniu: „
@@ -262,7 +281,7 @@ source: "eli-html"
 
 - **1)** maksymalny odsetek głosów przysługujących członkom, udziałowcom lub akcjonariuszom będącym producentami na zgromadzeniu wspólników, walnym zgromadzeniu albo walnym zebraniu członków organizacji producentów oraz maksymalny odsetek udziałów lub akcji, jakie mogą posiadać ci udziałowcy lub akcjonariusze w tej organizacji,
 - **2)** szczegółowe wymagania, jakim mają odpowiadać wnioski składane w tych sprawach,
-- **3)** rodzaje i zakres dokumentów potwierdzających spełnianie przez organizacje i zrzeszenia warunków uznania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznania zrzeszenia organizacji producentów i organizacji międzybranżowej mając na względzie prawidłowe funkcjonowanie tych organizacji i zrzeszeń oraz spełnienie wymagań określonych w przepisach Unii Europejskiej oraz ustawy, dotyczących uznawania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznawania zrzeszenia organizacji producentów i organizacji międzybranżowej. ” ;
+- **3)** rodzaje i zakres dokumentów potwierdzających spełnianie przez organizacje i zrzeszenia warunków uznania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznania zrzeszenia organizacji producentów i organizacji międzybranżowej – mając na względzie prawidłowe funkcjonowanie tych organizacji i zrzeszeń oraz spełnienie wymagań określonych w przepisach Unii Europejskiej oraz ustawy, dotyczących uznawania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznawania zrzeszenia organizacji producentów i organizacji międzybranżowej. ” ;
 - **4)** w art. 48d uchyla się ust. 6;
 - **5)** w art. 48e: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -311,5 +330,5 @@ source: "eli-html"
 
 **Art. 8.** Do sprawozdań, o których mowa w art. 17a ust. 1 ustawy zmienianej w art. 1, składanych za rok działalności związku rozpoczęty i niezakończony przed dniem wejścia w życie niniejszej ustawy, stosuje się przepis art. 17a ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych, ustawę z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych, ustawę z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz ustawę z dnia 11 września 2015 r. o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw oraz ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020.
 

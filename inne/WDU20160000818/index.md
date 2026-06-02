@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwojuz dnia 3 czerwca 2016 r. w sprawie wymagań bezpieczeństwa dla wyrobów pirotechnicznych
+# Rozporządzenie Ministra Rozwojuz dnia 3 czerwca 2016 r. w sprawie wymagań bezpieczeństwa dla wyrobów pirotechnicznych Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-03 |
 | Data wydania | 2016-06-09 |
-| Wejście w życie | 2016-06-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000818) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/818/text.pdf) |
 
@@ -39,7 +38,7 @@ Treść rozporządzenia
 ## Załącznik nr 5 — – Elementy deklaracji zgodności dla wyrobów pirotechnicznych
 
 Treść rozporządzenia
-Na podstawie art. 2g ust. 2 ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2015 r. poz. 1100 i 1893 oraz z 2016 r. poz. 544) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2013/29/UE z dnia 12 czerwca 2013 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku wyrobów pirotechnicznych (Dz. Urz. UE L 178 z 28.06.2013, str. 27). Na podstawie art. 2g ust. 2 ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2015 r. poz. 1100 i 1893 oraz z 2016 r. poz. 544) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa w odniesieniu do wyrobów pirotechnicznych:
 1)
@@ -64,8 +63,7 @@ Wymagania dla etykiet umieszczanych na wyrobach pirotechnicznych określa załą
 5.
 Elementy deklaracji zgodności dla wyrobów pirotechnicznych określa załącznik nr 5 do rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2013/29/UE z dnia 12 czerwca 2013 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku wyrobów pirotechnicznych (Dz. Urz. UE L 178 z 28.06.2013, str. 27).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2013/29/UE z dnia 12 czerwca 2013 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku wyrobów pirotechnicznych (Dz. Urz. UE L 178 z 28.06.2013, str. 27).
 
 ## Załącznik nr 1 — – Wymagania bezpieczeństwa dotyczące projektowania i wytwarzania wyrobów pirotechnicznych
 
@@ -465,15 +463,15 @@ instrukcję bezpieczeństwa.
 3.
 Etykiety, o których mowa w ust. 1 i 2, muszą być sporządzone w języku polskim w jasnej, zrozumiałej i czytelnej formie oraz umieszczone na wyrobie pirotechnicznym w widoczny, czytelny i trwały sposób.
 4.
-Do wyrobów pirotechnicznych do pojazdów dołącza się karty charakterystyki, o których mowa w rozporządzeniu (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH), utworzenia Europejskiej Agencji Chemikaliów, zmieniającym dyrektywę 1999/45/WE oraz uchylającym rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm.), uwzględniające szczególne potrzeby użytkowników profesjonalnych tych wyrobów. Kartę charakterystyki dostarcza się w języku wskazanym przez użytkownika profesjonalnego wyrobu pirotechnicznego. Może być ona dostarczona w postaci elektronicznej, o ile użytkownik profesjonalny tych wyrobów dysponuje środkami technicznymi umożliwiającymi dostęp do karty.
+Do wyrobów pirotechnicznych do pojazdów dołącza się karty charakterystyki, o których mowa w rozporządzeniu (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH), utworzenia Europejskiej Agencji Chemikaliów, zmieniającym dyrektywę 1999/45/WE oraz uchylającym rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 136 z 29.05.2007, str. 3; Dz. Urz. UE L 141 z 31.05.2008, str. 1; Dz. Urz. UE L 268 z 09.10.2008, str. 14; Dz. Urz. UE L 353 z 31.12.2008, str. 1; Dz. Urz. UE L 36 z 05.02.2009, str. 84; Dz. Urz. UE L 46 z 17.02.2009, str. 3; Dz. Urz. UE L 164 z 26.06.2009, str. 7; Dz. Urz. UE L 86 z 01.04.2010, str. 7; Dz. Urz. UE L 118 z 12.05.2010, str. 89, Dz. Urz. UE L 133 z 31.05.2010, str. 1; Dz. Urz. UE L 260 z 02.10.2010, str. 22; Dz. Urz. UE L 44 z 18.02.2011, str. 2; Dz. Urz. UE L 49 z 24.02.2011, str. 52; Dz. Urz. UE L 58 z 03.03.2011, str. 27, Dz. Urz. UE L 69 z 16.03.2011, str. 3 i 7; Dz. Urz. UE L 101 z 15.04.2011, str. 12; Dz. Urz. UE L 134 z 21.05.2011, str. 2; Dz. Urz. UE L 136 z 24.05.2011, str. 105; Dz. Urz. UE L 37 z 10.02. 2012, str. 1; Dz. Urz. UE L 41 z 15.02.2012, str. 1; Dz. Urz. UE L 128 z 16.05.2012, str. 1; Dz. Urz. UE L 252 z 19.09.2012, str. 1 i 4; Dz. Urz. UE L 253 z 20.09.2012, str. 1; Dz. Urz. UE L 43 z 14.02.2013, str. 24; Dz. Urz. UE L 108 z 18.04.2013, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 1; Dz. Urz. UE L 328 z 07.12.2013, str. 69; Dz. Urz. UE L 90 z 26.03.2014, str. 1; Dz. Urz. UE L 93 z 28.03.2014, str. 24; Dz. Urz. UE L 136 z 09.05.2014, str. 19, Dz. Urz. UE L 244 z 19.08.2014, str. 6; Dz. Urz. UE L 331 z 18.11.2014, str. 41; Dz. Urz. UE L 50 z 21.02.2015, str. 1; Dz. Urz. UE L 58 z 03.03.2015, str. 43; Dz. Urz. UE L 104 z 23.04.2015, str. 2; Dz. Urz. UE L 132 z 29.05.2015, str. 8; Dz. Urz. UE L 233 z 05.09.2015, str. 2; Dz. Urz. UE L 9 z 14.01.2016, str. 1; Dz. Urz. UE L 40 z 17.02.2016, str. 5.), uwzględniające szczególne potrzeby użytkowników profesjonalnych tych wyrobów. Kartę charakterystyki dostarcza się w języku wskazanym przez użytkownika profesjonalnego wyrobu pirotechnicznego. Może być ona dostarczona w postaci elektronicznej, o ile użytkownik profesjonalny tych wyrobów dysponuje środkami technicznymi umożliwiającymi dostęp do karty.
 5.
-Wyroby pirotechniczne niezgodne z wymaganiami ustawy prezentowane podczas targów, wystaw i pokazów w celach handlowych lub wytworzone w celu prowadzenia badań naukowych lub prac rozwojowych oraz testów mogą nie posiadać etykiety zawierającej informacje, o których mowa w ust. 1 i 2, jeżeli zostaną wyraźnie uwidocznione informacje, o których mowa w art. 62zj ust. 1 ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego, oraz oznakowanie, o którym mowa w art. 62zk tej ustawy.
+Wyroby pirotechniczne niezgodne z wymaganiami ustawy prezentowane podczas targów, wystaw i pokazów w celach handlowych lub wytworzone w celu prowadzenia badań naukowych lub prac rozwojowych oraz testów mogą nie posiadać etykiety zawierającej informacje, o których mowa w ust. 1 i 2, jeżeli zostaną wyraźnie uwidocznione informacje, o których mowa w art. 62zj ust. 1 ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego, oraz oznakowanie, o którym mowa w art. 62zk tej ustawy. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 136 z 29.05.2007, str. 3; Dz. Urz. UE L 141 z 31.05.2008, str. 1; Dz. Urz. UE L 268 z 09.10.2008, str. 14; Dz. Urz. UE L 353 z 31.12.2008, str. 1; Dz. Urz. UE L 36 z 05.02.2009, str. 84; Dz. Urz. UE L 46 z 17.02.2009, str. 3; Dz. Urz. UE L 164 z 26.06.2009, str. 7; Dz. Urz. UE L 86 z 01.04.2010, str. 7; Dz. Urz. UE L 118 z 12.05.2010, str. 89, Dz. Urz. UE L 133 z 31.05.2010, str. 1; Dz. Urz. UE L 260 z 02.10.2010, str. 22; Dz. Urz. UE L 44 z 18.02.2011, str. 2; Dz. Urz. UE L 49 z 24.02.2011, str. 52; Dz. Urz. UE L 58 z 03.03.2011, str. 27, Dz. Urz. UE L 69 z 16.03.2011, str. 3 i 7; Dz. Urz. UE L 101 z 15.04.2011, str. 12; Dz. Urz. UE L 134 z 21.05.2011, str. 2; Dz. Urz. UE L 136 z 24.05.2011, str. 105; Dz. Urz. UE L 37 z 10.02. 2012, str. 1; Dz. Urz. UE L 41 z 15.02.2012, str. 1; Dz. Urz. UE L 128 z 16.05.2012, str. 1; Dz. Urz. UE L 252 z 19.09.2012, str. 1 i 4; Dz. Urz. UE L 253 z 20.09.2012, str. 1; Dz. Urz. UE L 43 z 14.02.2013, str. 24; Dz. Urz. UE L 108 z 18.04.2013, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 1; Dz. Urz. UE L 328 z 07.12.2013, str. 69; Dz. Urz. UE L 90 z 26.03.2014, str. 1; Dz. Urz. UE L 93 z 28.03.2014, str. 24; Dz. Urz. UE L 136 z 09.05.2014, str. 19, Dz. Urz. UE L 244 z 19.08.2014, str. 6; Dz. Urz. UE L 331 z 18.11.2014, str. 41; Dz. Urz. UE L 50 z 21.02.2015, str. 1; Dz. Urz. UE L 58 z 03.03.2015, str. 43; Dz. Urz. UE L 104 z 23.04.2015, str. 2; Dz. Urz. UE L 132 z 29.05.2015, str. 8; Dz. Urz. UE L 233 z 05.09.2015, str. 2; Dz. Urz. UE L 9 z 14.01.2016, str. 1; Dz. Urz. UE L 40 z 17.02.2016, str. 5.
 
 ## Załącznik nr 5 — – Elementy deklaracji zgodności dla wyrobów pirotechnicznych
 
 Deklaracja zgodności dla wyrobów pirotechnicznych zawiera, określone we wskazanej kolejności, elementy:
 1)
-nagłówek: DEKLARACJA ZGODNOŚCI (NR XXXXX);
+nagłówek: DEKLARACJA ZGODNOŚCI (NR XXXXX)Producent może, ale nie musi nadawać numeru deklaracji zgodności.;
 2)
 numer rejestracyjny identyfikujący wyrób pirotechniczny;
 3)
@@ -493,6 +491,5 @@ nazwę i numer jednostki notyfikowanej, która przeprowadziła ocenę zgodności
 10)
 informacje dodatkowe (jeżeli występują);
 11)
-informację w czyim imieniu deklaracja zgodności została podpisana oraz imię, nazwisko, stanowisko i podpis osoby upoważnionej do sporządzenia deklaracji zgodności, a także miejsce i datę sporządzenia tej deklaracji.
-2) Producent może, ale nie musi nadawać numeru deklaracji zgodności.
+informację w czyim imieniu deklaracja zgodności została podpisana oraz imię, nazwisko, stanowisko i podpis osoby upoważnionej do sporządzenia deklaracji zgodności, a także miejsce i datę sporządzenia tej deklaracji. 2) Producent może, ale nie musi nadawać numeru deklaracji zgodności.
 

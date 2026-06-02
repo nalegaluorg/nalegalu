@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-19 |
 | Data wydania | 2018-11-08 |
-| Wejście w życie | 2018-11-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002119) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2119/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Przetarg ustny Rozdział 3 – Przetarg pisemny Rozdział 4 – Zaskarżenie przetargu Rozdział 5 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 217 ust. 21 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 217 ust. 21 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2180 oraz z 2018 r. poz. 650, 710, 1479, 1669 i 1722.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa sposób:
 1)
@@ -163,6 +163,7 @@ oznaczenie gruntu będącego przedmiotem przetargu według księgi wieczystej or
 liczbę uczestników przetargu;
 4)
 imię, nazwisko albo nazwę lub firmę uczestnika przetargu, który wygrał przetarg, albo informację o unieważnieniu przetargu ustnego albo o niewybraniu żadnej z pisemnych ofert.
+Przetarg ustny
 § 8.
 W ogłoszeniu o przetargu ustnym zamieszcza się informacje o:
 1)
@@ -194,6 +195,7 @@ Uczestnicy przetargu zgłaszają ustnie kolejne postąpienia ceny, dopóki mimo 
 Przetarg jest ważny bez względu na liczbę uczestników przetargu, jeżeli przynajmniej jeden uczestnik zaoferował co najmniej jedno postąpienie powyżej ceny wywoławczej.
 6.
 Po ustaniu zgłaszania postąpień przewodniczący komisji przetargowej wywołuje trzykrotnie ostatnią, najwyższą cenę, a następnie ogłasza imię i nazwisko albo nazwę lub firmę uczestnika przetargu, który wygrał przetarg.
+Przetarg pisemny
 § 10.
 W ogłoszeniu o przetargu pisemnym zamieszcza się informacje, o których mowa w § 8 pkt 1–4 i 6–8, a także o:
 1)
@@ -263,6 +265,7 @@ W przypadku złożenia równorzędnych pisemnych ofert komisja przetargowa organ
 Komisja przetargowa zawiadamia oferentów, o których mowa w ust. 2, o terminie dodatkowego przetargu ustnego oraz umożliwia im zapoznanie się z treścią równorzędnych pisemnych ofert.
 4.
 W dodatkowym przetargu ustnym oferenci zgłaszają ustnie kolejne postąpienia ceny powyżej najwyższej ceny zamieszczonej w równorzędnych pisemnych ofertach, dopóki mimo trzykrotnego wywołania nie ma dalszych postąpień. Do sposobu przeprowadzania dodatkowego przetargu ustnego stosuje się przepisy § 9 ust. 2–4 i 6.
+Zaskarżenie przetargu
 § 17.
 1.
 W przypadku zaskarżenia przetargu organ właściwy do przeprowadzenia przetargu wstrzymuje czynności związane ze zbyciem gruntu.
@@ -274,18 +277,29 @@ Organ właściwy do przeprowadzenia przetargu może uznać skargę za zasadną a
 W przypadku uznania skargi za zasadną organ właściwy do przeprowadzenia przetargu nakazuje powtórzenie czynności przetargowych albo unieważnia przetarg.
 5.
 Po rozpatrzeniu skargi organ właściwy do przeprowadzenia przetargu zawiadamia uczestników przetargu o sposobie rozstrzygnięcia skargi, w terminie 3 dni od dnia jej rozpatrzenia, oraz zamieszcza niezwłocznie, na okres 7 dni, informację o sposobie rozstrzygnięcia tej skargi w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ten organ.
+Przepis końcowy
 § 18.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2180 oraz z 2018 r. poz. 650, 710, 1479, 1669 i 1722.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Przetarg ustny
+#### Rozdział 2 – Przetarg ustny
 
-#### Rozdział 3 Przetarg pisemny
+#### Rozdział 3 – Przetarg pisemny
+
+#### Rozdział 4 – Zaskarżenie przetargu
+
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 
 ## Część jawna przetargu pisemnego odbywa się w obecności oferentów. W części jawnej przewodniczący komisji przetargowej otwiera przetarg pisemny, podając informacje, o których mowa w § 8 pkt 1–4 i 7 oraz § 10 pkt 1 i 3–5.
 
-#### Rozdział 4 Zaskarżenie przetargu
+#### Rozdział 4
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5
 

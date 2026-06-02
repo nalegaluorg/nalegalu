@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 29 stycznia 2013 r. w sprawie zagrożeń naturalnych w zakładach górniczych
+# Rozporządzenie Ministra Środowiskaz dnia 29 stycznia 2013 r. w sprawie zagrożeń naturalnych w zakładach górniczych Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia następujących aktów prawnych Unii Europejskiej:
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-01-29 |
 | Data wydania | 2013-02-19 |
-| Wejście w życie | 2017-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000230) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/230/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Zagrożenie tąpaniami Rozdział 3 – Zagrożenie metanowe Rozdział 4 – Zagrożenie wyrzutami gazów i skał Rozdział 5 – Zagrożenie wybuchem pyłu węglowego Rozdział 6 – Zagrożenie klimatyczne Rozdział 7 – Zagrożenie wodne Rozdział 8 – Zagrożenie osuwiskowe Rozdział 9 – Zagrożenie erupcyjne Rozdział 10 – Zagrożenie siarkowodorowe Rozdział 11 – Zagrożenie substancjami promieniotwórczymi Rozdział 12 – Przepis końcowy
+dyrektywy Rady 92/91/EWG z dnia 3 listopada 1992 r. dotyczącej minimalnych wymagań mających na celu poprawę warunków bezpieczeństwa i ochrony zdrowia pracowników w zakładach górniczych wydobywających kopaliny otworami wiertniczymi(jedenasta szczegółowa dyrektywa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 348 z 28.11.1992, str. 9, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 118, z późn. zm.);
+Treść rozporządzenia
 Treść rozporządzenia
 2)
 dyrektywy Rady 92/104/EWG z dnia 3 grudnia 1992 r. w sprawie minimalnych wymagań w zakresie poprawy bezpieczeństwa i ochrony zdrowia pracowników odkrywkowego i podziemnego przemysłu wydobywczego (dwunasta dyrektywa szczegółowa w znaczeniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 404 z 31.12.1992, str. 10, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 134, z późn. zm.).
 Na podstawie art. 118 ust. 4 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981 oraz z 2013 r. poz. 21) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -54,8 +55,7 @@ erupcyjnego,
 i)
 siarkowodorowego,
 j)
-substancjami promieniotwórczymi
-zależnie od rodzaju kopaliny, natężenia zagrożeń, przestrzeni występowania zagrożeń oraz rodzaju zakładu górniczego;
+substancjami promieniotwórczymi – zależnie od rodzaju kopaliny, natężenia zagrożeń, przestrzeni występowania zagrożeń oraz rodzaju zakładu górniczego;
 2)
 dokumentację, w oparciu o którą dokonuje się zaliczeń złóż, pokładów, wyrobisk górniczych, zwanych dalej „wyrobiskami”, ich części oraz innych przestrzeni w zakładach górniczych, w których występują zagrożenia naturalne wymienione w pkt 1, do poszczególnych stopni, kategorii lub klas zagrożeń, inną niż wyniki badań przeprowadzonych przez rzeczoznawcę do spraw ruchu zakładu górniczego, zwanego dalej „rzeczoznawcą”, oraz opinia tego rzeczoznawcy;
 3)
@@ -71,6 +71,7 @@ kryteria szczegółowe – stanowiące okoliczności uzasadniające zaliczenie p
 Podstawowym kryterium oceny zagrożenia wybuchem pyłu węglowego jest również istnienie miejsca, w którym jest możliwe zapoczątkowanie wybuchu pyłu węglowego.
 3.
 Przepisu ust. 1 pkt 1 nie stosuje się do oceny zagrożenia siarkowodorowego w zakładach górniczych wydobywających siarkę.
+Zagrożenie tąpaniami
 § 3.
 1.
 Podstawowym kryterium oceny zagrożenia tąpaniami jest możliwość zaistnienia w górotworze skłonnym do tąpań lub w skałach skłonnych do tąpań:
@@ -79,8 +80,7 @@ wstrząsu górotworu lub
 2)
 odprężenia w wyrobisku lub jego części, lub
 3)
-tąpnięcia w wyrobisku lub jego części
-w wyniku niekorzystnych warunków geologiczno-górniczych w wyrobisku lub jego części lub w jego otoczeniu.
+tąpnięcia w wyrobisku lub jego części – w wyniku niekorzystnych warunków geologiczno-górniczych w wyrobisku lub jego części lub w jego otoczeniu.
 2.
 Górotworem skłonnym do tąpań jest górotwór, w którym, na podstawie wyników badań oraz opinii rzeczoznawcy do spraw ruchu zakładu górniczego, kierownik ruchu zakładu górniczego stwierdził możliwość kumulowania energii i jej nagłego wyładowania w momencie zmiany lub zniszczenia struktury górotworu.
 3.
@@ -121,8 +121,7 @@ przez wybranie pokładu odprężającego lub jego warstwy z zastosowaniem zawał
 b)
 przez wybranie pokładu odprężającego lub jego warstwy z zastosowaniem podsadzki hydraulicznej w odległości nie większej niż 30 m pod pokładem odprężanym lub 15 m nad tym pokładem, lub
 c)
-przez pełne wybranie warstwy pokładu odprężanego – w przypadku grubego pokładu
-a po dokonaniu tego odprężenia nie zaistniało tąpnięcie albo
+przez pełne wybranie warstwy pokładu odprężanego – w przypadku grubego pokładu – a po dokonaniu tego odprężenia nie zaistniało tąpnięcie albo
 d)
 nie zachowując wymagań określonych w lit. a-c, albo
 2)
@@ -174,6 +173,7 @@ b)
 mapy wyrobisk lub ich części, w skali nie mniejszej niż 1:5000, z naniesionymi propozycjami granic poszczególnych stopni zagrożenia tąpaniami oraz uwidocznionymi zaszłościami eksploatacyjnymi do odległości nie mniejszej niż 400 m od naniesionych propozycji granic poszczególnych stopni zagrożenia tąpaniami,
 c)
 profile geologiczne złoża oraz skał stropowych i skał spągowych.
+Zagrożenie metanowe
 § 7.
 Podstawowym kryterium oceny zagrożenia metanowego jest możliwość powstania w atmosferze kopalnianej stężenia metanu, które może spowodować:
 1)
@@ -181,8 +181,7 @@ powstanie mieszaniny beztlenowej lub
 2)
 zapalenie metanu, lub
 3)
-wybuch metanu
-stwarzając niebezpieczeństwo dla pracowników lub ruchu zakładu górniczego.
+wybuch metanu – stwarzając niebezpieczeństwo dla pracowników lub ruchu zakładu górniczego.
 § 8.
 1.
 W podziemnych zakładach górniczych wydobywających węgiel kamienny ustala się cztery kategorie zagrożenia metanowego.
@@ -253,8 +252,7 @@ Do II kategorii zagrożenia metanowego zalicza się udostępnione złoże lub je
 1)
 nagły wypływ metanu albo mieszaniny gazów wybuchowych zawierającej metan lub
 2)
-wyrzut metanu i skał
-w wyniku których zawartość gazów wybuchowych w powietrzu była większa niż 1%.
+wyrzut metanu i skał – w wyniku których zawartość gazów wybuchowych w powietrzu była większa niż 1%.
 5.
 Podczas zaliczania udostępnionego złoża lub jego części do odpowiednich kategorii zagrożenia metanowego uwzględnia się wyniki badań zagrożenia metanowego w sąsiednich zakładach górniczych.
 6.
@@ -283,6 +281,7 @@ b)
 I kategorii zagrożenia metanowego w podziemnych zakładach górniczych wydobywających rudy metali nieżelaznych,
 c)
 I kategorii zagrożenia metanowego w podziemnych zakładach górniczych wydobywających sól.
+Zagrożenie wyrzutami gazów i skał
 § 12.
 Podstawowym kryterium oceny zagrożenia wyrzutami gazów i skał jest możliwość zaistnienia następujących zjawisk gazogeodynamicznych:
 1)
@@ -391,8 +390,7 @@ mapy:
 a)
 w przypadku podziemnych zakładów górniczych wydobywających węgiel kamienny – pokładu lub jego części,
 b)
-w przypadku podziemnych zakładów górniczych wydobywających rudy miedzi lub sól – wyrobiska lub jego części
-w skali nie mniejszej niż 1:5000, z naniesionymi propozycjami granic poszczególnych kategorii zagrożenia wyrzutami gazów i skał;
+w przypadku podziemnych zakładów górniczych wydobywających rudy miedzi lub sól – wyrobiska lub jego części – w skali nie mniejszej niż 1:5000, z naniesionymi propozycjami granic poszczególnych kategorii zagrożenia wyrzutami gazów i skał;
 5)
 wyniki badań przeprowadzonych przez rzeczoznawcę oraz opinię rzeczoznawcy, jeżeli dokonuje się zaliczenia do:
 a)
@@ -401,6 +399,7 @@ b)
 I kategorii zagrożenia wyrzutami gazów i skał w podziemnych zakładach górniczych wydobywających rudy miedzi,
 c)
 I lub II kategorii zagrożenia wyrzutami gazów i skał w podziemnych zakładach górniczych wydobywających sól.
+Zagrożenie wybuchem pyłu węglowego
 § 17.
 1.
 Podstawowym kryterium oceny zagrożenia wybuchem pyłu węglowego rozumianego jako ziarna węgla przechodzące przez sito o wymiarach oczek równych 1 × 1 mm:
@@ -482,8 +481,7 @@ pył kopalniany zawiera co najmniej 80% części niepalnych stałych pochodzenia
 3)
 pył kopalniany zawiera co najmniej 50% wody przemijającej, lub
 4)
-pył kopalniany zawiera co najmniej 80% części niepalnych stałych pochodzenia naturalnego oraz zawartość wody przemijającej pochodzenia naturalnego w tym pyle wynosi co najmniej 30%
-a wyrobiska lub ich części mające bezpośrednie połączenie z tym wyrobiskiem są wyrobiskami niezagrożonymi wybuchem pyłu węglowego lub zostały zaliczone do klasy A zagrożenia wybuchem pyłu węglowego.
+pył kopalniany zawiera co najmniej 80% części niepalnych stałych pochodzenia naturalnego oraz zawartość wody przemijającej pochodzenia naturalnego w tym pyle wynosi co najmniej 30% – a wyrobiska lub ich części mające bezpośrednie połączenie z tym wyrobiskiem są wyrobiskami niezagrożonymi wybuchem pyłu węglowego lub zostały zaliczone do klasy A zagrożenia wybuchem pyłu węglowego.
 9.
 Do klasy A zagrożenia wybuchem pyłu węglowego zalicza się – z wyjątkiem wyrobiska lub jego części, w tym szybu i szybiku, drążonego w pokładzie węgla lub jego części – wyrobisko pionowe lub jego część oraz wyrobisko pochyłe o nachyleniu większym niż 45° lub jego część, w tym szyb lub szybik, jeżeli w tym wyrobisku lub jego części, szybie lub szybiku:
 1)
@@ -535,9 +533,10 @@ wyrobiska lub jego części, innego niż wyrobisko pionowe oraz wyrobisko pochy�
 przekrój geologiczny – dla wyrobiska pionowego oraz wyrobiska pochyłego o nachyleniu większym niż 45°, w tym szybu lub szybiku;
 7)
 wyniki badań przeprowadzonych przez rzeczoznawcę oraz opinię rzeczoznawcy, jeżeli dokonuje się zaliczenia do klasy A zagrożenia wybuchem pyłu węglowego.
+Zagrożenie klimatyczne
 § 21.
 1.
-Podstawowym kryterium oceny zagrożenia klimatycznego jest występowanie na stanowisku pracy, w rozumieniu przepisów wydanych na podstawie art. 23715 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.), w podziemnym wyrobisku górniczym, zwanym dalej „stanowiskiem pracy”, temperatury zastępczej klimatu wyższej niż 26°C.
+Podstawowym kryterium oceny zagrożenia klimatycznego jest występowanie na stanowisku pracy, w rozumieniu przepisów wydanych na podstawie art. 23715 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700, z 2011 r. Nr 36, poz. 181, Nr 63, poz. 322, Nr 80, poz. 432, Nr 144, poz. 855, Nr 149, poz. 887 i Nr 232, poz. 1378, z 2012 r. poz. 908 i 1110 oraz z 2013 r. poz. 2), w podziemnym wyrobisku górniczym, zwanym dalej „stanowiskiem pracy”, temperatury zastępczej klimatu wyższej niż 26°C.
 2.
 Temperaturę zastępczą klimatu oblicza się według następującego wzoru: tzk = 0,6 tw + 0,4 ts – v gdzie: tzk – temperatura zastępcza klimatu, wyrażona w °C, tw – temperatura powietrza kopalnianego, wyrażona w °C:
 – – zmierzona termometrem wilgotnym lub
@@ -566,6 +565,7 @@ Dokumentacja, w oparciu o którą dokonuje się zaliczenia przestrzeni, o które
 wyniki pomiarów parametrów służących do obliczenia temperatury zastępczej klimatu, o których mowa w § 21 ust. 2, udokumentowanych w książce kontroli zagrożenia klimatycznego, prowadzonej w sposób określony w przepisach wydanych na podstawie art. 120 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;
 2)
 propozycję zaliczenia przestrzeni, o której mowa w § 22 ust. 2, do odpowiedniego stopnia zagrożenia klimatycznego, z uzasadnieniem.
+Zagrożenie wodne
 § 24.
 Podstawowym kryterium oceny zagrożenia wodnego jest możliwość wystąpienia zwiększonego lub niekontrolowanego dopływu albo możliwość wdarcia się do istniejącego lub projektowanego wyrobiska lub jego części: wody, solanki, ługów lub wody z luźnym materiałem, stwarzającego niebezpieczeństwo dla pracowników lub ruchu zakładu górniczego.
 § 25.
@@ -689,8 +689,7 @@ otworów wiertniczych zlikwidowanych nieprawidłowo lub w odniesieniu do któryc
 c)
 uskoków wodonośnych,
 d)
-źródeł zagrożenia wodnego niewymienionych w lit. a-c
-z których jest możliwe wdarcie się wody, solanki, ługów lub wody z luźnym materiałem, stwarzające niebezpieczeństwo dla pracowników lub ruchu zakładu górniczego;
+źródeł zagrożenia wodnego niewymienionych w lit. a-c – z których jest możliwe wdarcie się wody, solanki, ługów lub wody z luźnym materiałem, stwarzające niebezpieczeństwo dla pracowników lub ruchu zakładu górniczego;
 2)
 analizę wpływu źródeł zagrożenia wodnego, o których mowa w pkt 1, na prowadzone i projektowane roboty górnicze;
 3)
@@ -701,6 +700,7 @@ mapy wyrobisk lub ich części, w skali nie mniejszej niż 1:10 000, z wyszczeg�
 przekroje hydrogeologiczne;
 6)
 mapy poziomów wodonośnych stwarzających zagrożenie wodne.
+Zagrożenie osuwiskowe
 § 31.
 1.
 Podstawowym kryterium oceny zagrożenia osuwiskowego jest możliwość zaistnienia osuwiska.
@@ -747,6 +747,7 @@ opinię, o której mowa w § 32 ust. 3 lub ust. 4 pkt 1;
 mapy wyrobisk lub ich części, w skali nie mniejszej niż 1:10 000, z wyszczególnieniem przestrzeni, w których może powstać zagrożenie osuwiskowe, oraz propozycjami granic poszczególnych stopni zagrożenia osuwiskowego;
 5)
 przekroje geologiczno-inżynierskie.
+Zagrożenie erupcyjne
 § 34.
 Podstawowym kryterium oceny zagrożenia erupcyjnego jest możliwość zaistnienia erupcji wiertniczej, rozumianej jako niekontrolowany przypływ płynu złożowego do otworu lub odwiertu, spowodowany naruszeniem równowagi między ciśnieniem złożowym a ciśnieniem wynikającym z hydrostatycznego oddziaływania słupa płuczki wiertniczej.
 § 35.
@@ -769,8 +770,7 @@ Do klasy B zagrożenia erupcyjnego zalicza się:
 1)
 otwór w przestrzeni rozpoznanej geologicznie i rozpoznanej charakterystyce złożowej,
 2)
-odwiert w przestrzeni rozpoznanej geologicznie i rozpoznanej charakterystyce złożowej
-jeżeli gradient ciśnienia złożowego nie jest większy niż 0,13 MPa/10 m.
+odwiert w przestrzeni rozpoznanej geologicznie i rozpoznanej charakterystyce złożowej – jeżeli gradient ciśnienia złożowego nie jest większy niż 0,13 MPa/10 m.
 5.
 Podczas ustalania klasy zagrożenia erupcyjnego dla otworu przewidzianego do wiercenia wykorzystuje się dane zamieszczone w projekcie robót geologicznych lub uzyskane na podstawie badań przeprowadzonych w sąsiednich odwierconych otworach, a następnie koryguje się je po odwierceniu otworu w danej strukturze geologicznej oraz jego opróbowaniu.
 § 36.
@@ -790,6 +790,7 @@ wykładnika gazowego w ropie naftowej lub solance;
 propozycję zaliczenia przestrzeni, o których mowa w § 35 ust. 2, do odpowiedniej klasy zagrożenia erupcyjnego.
 3.
 Wykładnikiem gazowym, o którym mowa w ust. 2 pkt 1 lit. c, jest liczba m3 wydobytego gazu ziemnego przypadająca na jednostkę masy lub objętości wydobytej z nim ropy naftowej lub solanki w tym samym przedziale czasu.
+Zagrożenie siarkowodorowe
 § 37.
 1.
 Podstawowym kryterium oceny zagrożenia siarkowodorowego w zakładach górniczych wydobywających ropę naftową lub gaz ziemny oraz zakładach prowadzących roboty geologiczne służące poszukiwaniu lub rozpoznawaniu złóż tych kopalin jest możliwość – podczas erupcji otwartej z otworów lub odwiertów – wypływu na powierzchnię terenu płynu złożowego zawierającego siarkowodór, stwarzającego niebezpieczeństwo dla pracowników, ruchu zakładu górniczego albo zakładu oraz ludności przebywającej w pobliżu miejsca prowadzenia ruchu zakładu górniczego albo zakładu.
@@ -852,13 +853,13 @@ Dokumentacja, w oparciu o którą dokonuje się zaliczenia przestrzeni, o które
 wyniki badań stężenia siarkowodoru w powietrzu;
 2)
 propozycję zaliczenia przestrzeni do odpowiedniej kategorii zagrożenia siarkowodorowego.
+Zagrożenie substancjami promieniotwórczymi
 § 41.
 Podstawowym kryterium oceny zagrożenia substancjami promieniotwórczymi, zwanego dalej „zagrożeniem radiacyjnym”, jest możliwość:
 1)
 narażenia na wchłonięcie do organizmu krótkożyciowych produktów rozpadu radonu lub izotopów radu,
 2)
-narażenia zewnętrznego na promieniowanie gamma emitowane przez osady dołowe i skały górotworu
-przy czym prawdopodobieństwo ich wystąpienia może być wcześniej oszacowane.
+narażenia zewnętrznego na promieniowanie gamma emitowane przez osady dołowe i skały górotworu – przy czym prawdopodobieństwo ich wystąpienia może być wcześniej oszacowane.
 § 42.
 1.
 W podziemnych zakładach górniczych ustala się dwie klasy zagrożenia radiacyjnego.
@@ -890,36 +891,59 @@ określenie wartości dawki skutecznej, na otrzymanie której w ciągu roku jest
 określenie granic proponowanego zaliczenia przestrzeni do odpowiedniej klasy zagrożenia radiacyjnego, z uzasadnieniem;
 10)
 mapę wyrobiska lub jego części, w skali nie mniejszej niż 1:10 000, które ma zostać zaliczone do odpowiedniej klasy zagrożenia radiacyjnego.
+Przepis końcowy
 § 44.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2013 r.
-2)
-Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia następujących aktów prawnych Unii Europejskiej:
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2013 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie zagrożeń naturalnych w zakładach górniczych (Dz. U. Nr 94, poz. 841, z 2003 r. Nr 181, poz. 1777 oraz z 2004 r. Nr 219, poz. 2227), które na podstawie art. 224 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981 oraz z 2013 r. poz. 21) traci moc w zakresie: 1) § 1–9, § 11 oraz § 13 ust. 1 i 2, 2) § 13 ust. 3 – w zakresie dotyczącym odpowiedniego stosowania § 8 ust. 3 i 4 oraz § 9 ust. 1 i 2, 3) § 14 ust. 1 i 2, 4) § 14 ust. 3 – w zakresie dotyczącym odpowiedniego stosowania § 8 ust. 3 i 4 oraz § 9 ust. 1 i 2, 5) § 15–42 – z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia następujących aktów prawnych Unii Europejskiej:
 1)
 dyrektywy Rady 92/91/EWG z dnia 3 listopada 1992 r. dotyczącej minimalnych wymagań mających na celu poprawę warunków bezpieczeństwa i ochrony zdrowia pracowników w zakładach górniczych wydobywających kopaliny otworami wiertniczymi (jedenasta szczegółowa dyrektywa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 348 z 28.11.1992, str. 9, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 118, z późn. zm.);
 2)
-dyrektywy Rady 92/104/EWG z dnia 3 grudnia 1992 r. w sprawie minimalnych wymagań w zakresie poprawy bezpieczeństwa i ochrony zdrowia pracowników odkrywkowego i podziemnego przemysłu wydobywczego (dwunasta dyrektywa szczegółowa w znaczeniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 404 z 31.12.1992, str. 10, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 134, z późn. zm.).
+dyrektywy Rady 92/104/EWG z dnia 3 grudnia 1992 r. w sprawie minimalnych wymagań w zakresie poprawy bezpieczeństwa i ochrony zdrowia pracowników odkrywkowego i podziemnego przemysłu wydobywczego (dwunasta dyrektywa szczegółowa w znaczeniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 404 z 31.12.1992, str. 10, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 134, z późn. zm.). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700, z 2011 r. Nr 36, poz. 181, Nr 63, poz. 322, Nr 80, poz. 432, Nr 144, poz. 855, Nr 149, poz. 887 i Nr 232, poz. 1378, z 2012 r. poz. 908 i 1110 oraz z 2013 r. poz. 2 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie zagrożeń naturalnych w zakładach górniczych (Dz. U. Nr 94, poz. 841, z 2003 r. Nr 181, poz. 1777 oraz z 2004 r. Nr 219, poz. 2227), które na podstawie art. 224 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981 oraz z 2013 r. poz. 21) traci moc w zakresie: 1) § 1–9, § 11 oraz § 13 ust. 1 i 2, 2) § 13 ust. 3 – w zakresie dotyczącym odpowiedniego stosowania § 8 ust. 3 i 4 oraz § 9 ust. 1 i 2, 3) § 14 ust. 1 i 2, 4) § 14 ust. 3 – w zakresie dotyczącym odpowiedniego stosowania § 8 ust. 3 i 4 oraz § 9 ust. 1 i 2, 5) § 15–42 – z dniem wejścia w życie niniejszego rozporządzenia.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Zagrożenie tąpaniami
+#### Rozdział 2 – Zagrożenie tąpaniami
 
-#### Rozdział 3 Zagrożenie metanowe
+#### Rozdział 3 – Zagrożenie metanowe
 
-#### Rozdział 4 Zagrożenie wyrzutami gazów i skał
+#### Rozdział 4 – Zagrożenie wyrzutami gazów i skał
 
-#### Rozdział 5 Zagrożenie wybuchem pyłu węglowego
+#### Rozdział 5 – Zagrożenie wybuchem pyłu węglowego
 
-#### Rozdział 6 Zagrożenie klimatyczne
+#### Rozdział 6 – Zagrożenie klimatyczne
 
-#### Rozdział 7 Zagrożenie wodne
+#### Rozdział 7 – Zagrożenie wodne
 
-#### Rozdział 8 Zagrożenie osuwiskowe
+#### Rozdział 8 – Zagrożenie osuwiskowe
 
-#### Rozdział 9 Zagrożenie erupcyjne
+#### Rozdział 9 – Zagrożenie erupcyjne
 
-#### Rozdział 10 Zagrożenie siarkowodorowe
+#### Rozdział 10 – Zagrożenie siarkowodorowe
 
-#### Rozdział 11 Zagrożenie substancjami promieniotwórczymi
+#### Rozdział 11 – Zagrożenie substancjami promieniotwórczymi
 
-#### Rozdział 12 Przepis końcowy
+#### Rozdział 12 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
+
+#### Rozdział 11
+
+#### Rozdział 12
 

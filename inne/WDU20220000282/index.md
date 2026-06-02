@@ -26,17 +26,73 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000282) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/282/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 28 kwietnia 1936 r. Prawo wekslowe Tytuł I – Weksel trasowany Dział I – Wystawienie i forma wekslu Dział II – Indos Dział III – Przyjęcie Dział IV – Poręczenie wekslowe Dział V – Płatność Dział VI – Zapłata Dział VII – Zwrotne poszukiwanie spowodu nieprzyjęcia lub niezapłacenia Dział VIII – Wyręczenie Dział IX – Wtóropisy i odpisy wekslu Dział X – Zmiany Dział XI – Przedawnienie Dział XII – Przepisy ogólne Dział XIII – Roszczenie z tytułu niesłusznego zbogacenia Dział XIV – Kolizja ustaw Dział XV – Protest Dział XVI – Weksle zaginione Tytuł II – Weksel własny Tytuł III – Przepisy końcowe i przejściowe
+Załącznik – Tekst jednolity ustawy z dnia 28 kwietnia 1936 r. Prawo wekslowe
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 kwietnia 1936 r. – Prawo wekslowe (Dz. U. z 2016 r. poz. 160), z uwzględnieniem zmian wprowadzonych ustawą z dnia 11 sierpnia 2021 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1655) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 grudnia 2021 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 8 i art. 9 ustawy z dnia 11 sierpnia 2021 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1655), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 8 i art. 9 ustawy z dnia 11 sierpnia 2021 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1655), które stanowią: „
+Weksel trasowany
+Wystawienie i forma wekslu
+Indos
+Przyjęcie
+Poręczenie wekslowe
+Płatność
+Zapłata
+Zwrotne poszukiwanie spowodu nieprzyjęcia lub niezapłacenia
+Wyręczenie
 1.
 Przepisy ogólne
+Wtóropisy i odpisy wekslu
 1.
 Wtóropisy
+Zmiany
+Przedawnienie
+Przepisy ogólne
+Roszczenie z tytułu niesłusznego zbogacenia
+Kolizja ustaw
+Protest
+Weksle zaginione
+Weksel własny
+Przepisy końcowe i przejściowe
+
+## Tytuł I – Weksel trasowany
+
+### Dział I – Wystawienie i forma wekslu
+
+### Dział II – Indos
+
+### Dział III – Przyjęcie
+
+### Dział IV – Poręczenie wekslowe
+
+### Dział V – Płatność
+
+### Dział VI – Zapłata
+
+### Dział VII – Zwrotne poszukiwanie spowodu nieprzyjęcia lub niezapłacenia
+
+### Dział VIII – Wyręczenie
+
+### Dział IX – Wtóropisy i odpisy wekslu
+
+### Dział X – Zmiany
+
+### Dział XI – Przedawnienie
+
+### Dział XII – Przepisy ogólne
+
+### Dział XIII – Roszczenie z tytułu niesłusznego zbogacenia
+
+### Dział XIV – Kolizja ustaw
+
+### Dział XV – Protest
+
+### Dział XVI – Weksle zaginione
+
+## Tytuł II – Weksel własny
+
+## Tytuł III – Przepisy końcowe i przejściowe
 
 **Art. 8.**
 
@@ -48,9 +104,9 @@ Wtóropisy
 
 **Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 28 kwietnia 1936 r. Prawo wekslowe
 
-## Tytuł I Weksel trasowany
+## Tytuł I
 
-### Dział I Wystawienie i forma wekslu
+### Dział I
 
 **Art. 1.** Weksel trasowany zawiera:
 
@@ -77,9 +133,9 @@ Wtóropisy
 
 **Art. 10.** Jeżeli weksel, niezupełny w chwili wystawienia, uzupełniony został niezgodnie z zawartem porozumieniem, nie można wobec posiadacza zasłaniać się zarzutem, że nie zastosowano się do tego porozumienia, chyba że posiadacz nabył weksel w złej wierze albo przy nabyciu dopuścił się rażącego niedbalstwa.
 
-### Dział II Indos
+### Dział II
 
-**Art. 11.** Weksel można przenieść przez indos, chociażby nie był wystawiony wyraźnie na zlecenie. Jeżeli wystawca umieścił w wekslu wyrazy „nie na zlecenie” lub inne zastrzeżenie równoznaczne, można przenieść weksel tylko w formie i ze skutkami zwykłego przelewu. Weksel można indosować również na trasata bez względu, czy przyjął on weksel, czy nie, a także na wystawcę lub na każdą inną osobę, wekslowo zobowiązaną. Osoby te mogą weksel dalej indosować. Weksel wręczony przedsiębiorcy w rozumieniu art. 431 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2020 r. poz. 1740 i 2320 oraz z 2021 r. poz. 1509) w celu spełnienia lub zabezpieczenia wierzytelności, która wynika z umowy zawartej z konsumentem w rozumieniu art. 221 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, powinien zawierać zastrzeżenie „nie na zlecenie” lub inne równoznaczne. W razie przyjęcia przez przedsiębiorcę weksla, o którym mowa powyżej, niezawierającego zastrzeżenia „nie na zlecenie” lub innego równoznacznego i przeniesienia takiego weksla na inną osobę przedsiębiorca jest zobowiązany do naprawienia poniesionej przez wystawcę weksla szkody przez zapłatę weksla. Taka odpowiedzialność przedsiębiorcy względem wystawcy weksla istnieje także, gdy weksel znalazł się w posiadaniu innej osoby wbrew woli przedsiębiorcy. Przedsiębiorca jest zobowiązany niezwłocznie po spełnieniu świadczenia wynikającego z umowy zawartej z konsumentem zwrócić weksel jego wystawcy.
+**Art. 11.** Weksel można przenieść przez indos, chociażby nie był wystawiony wyraźnie na zlecenie.Zdanie pierwsze w brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 11 sierpnia 2021 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1655), która weszła w życie z dniem 24 września 2021 r. Jeżeli wystawca umieścił w wekslu wyrazy „nie na zlecenie” lub inne zastrzeżenie równoznaczne, można przenieść weksel tylko w formie i ze skutkami zwykłego przelewu. Weksel można indosować również na trasata bez względu, czy przyjął on weksel, czy nie, a także na wystawcę lub na każdą inną osobę, wekslowo zobowiązaną. Osoby te mogą weksel dalej indosować. Weksel wręczony przedsiębiorcy w rozumieniu art. 431 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2020 r. poz. 1740 i 2320 oraz z 2021 r. poz. 1509) w celu spełnienia lub zabezpieczenia wierzytelności, która wynika z umowy zawartej z konsumentem w rozumieniu art. 221 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, powinien zawierać zastrzeżenie „nie na zlecenie” lub inne równoznaczne. W razie przyjęcia przez przedsiębiorcę weksla, o którym mowa powyżej, niezawierającego zastrzeżenia „nie na zlecenie” lub innego równoznacznego i przeniesienia takiego weksla na inną osobę przedsiębiorca jest zobowiązany do naprawienia poniesionej przez wystawcę weksla szkody przez zapłatę weksla. Taka odpowiedzialność przedsiębiorcy względem wystawcy weksla istnieje także, gdy weksel znalazł się w posiadaniu innej osoby wbrew woli przedsiębiorcy. Przedsiębiorca jest zobowiązany niezwłocznie po spełnieniu świadczenia wynikającego z umowy zawartej z konsumentem zwrócić weksel jego wystawcy.
 
 **Art. 12.** Indos powinien być bezwarunkowy. Warunki, od których uzależniono indos, uważa się za nienapisane. Indos częściowy jest nieważny. Indos na okaziciela jest równoznaczny z indosem in blanco.
 
@@ -103,7 +159,7 @@ Wtóropisy
 
 **Art. 20.** Indos po terminie płatności ma te same skutki, co indos przed tym terminem. Indos jednak po proteście spowodu niezapłacenia lub po upływie terminu, ustanowionego dla protestu, ma tylko skutki zwykłego przelewu. Aż do dowodu przeciwnego indos bez daty uważa się za dokonany przed upływem terminu, ustanowionego dla protestu.
 
-### Dział III Przyjęcie
+### Dział III
 
 **Art. 21.** Posiadacz wekslu albo nawet każdy, kto ten weksel ma, może aż do terminu płatności przedstawić go do przyjęcia trasatowi w jego miejscu zamieszkania.
 
@@ -123,7 +179,7 @@ Wtóropisy
 
 **Art. 29.** Jeżeli trasat przekreślił przyjęcie przed zwróceniem wekslu, uważa się, że przyjęcia odmówił. Aż do dowodu przeciwnego uważa się przekreślenie za dokonane przed zwróceniem wekslu. Jeżeli jednak trasat zawiadomił piśmiennie o przyjęciu posiadacza wekslu lub kogokolwiek z podpisanych na wekslu, odpowiada wobec nich według treści swego przyjęcia.
 
-### Dział IV Poręczenie wekslowe
+### Dział IV
 
 **Art. 30.** Zapłatę wekslu można zabezpieczyć poręczeniem wekslowem (aval) co do całości sumy wekslowej lub co do jej części. Poręczenie może dać osoba trzecia lub nawet osoba, podpisana na wekslu.
 
@@ -131,7 +187,7 @@ Wtóropisy
 
 **Art. 32.** Poręczyciel wekslowy odpowiada tak samo, jak ten, za kogo poręczył. Zobowiązanie poręczyciela jest ważne, chociażby nawet zobowiązanie, za które poręcza, było nieważne z jakiejkolwiek przyczyny z wyjątkiem wady formalnej. Poręczyciel wekslowy, który zapłacił weksel, nabywa prawa, wynikające z wekslu, przeciw osobie, za którą poręczył, i przeciw tym, którzy wobec tej osoby odpowiadają z wekslu.
 
-### Dział V Płatność
+### Dział V
 
 **Art. 33.** Weksel może być płatny: za okazaniem; w pewien czas po okazaniu; w pewien czas po dacie; w oznaczonym dniu. Weksle z innemi terminami płatności lub z kilku następującemi po sobie terminami są nieważne.
 
@@ -143,7 +199,7 @@ Wtóropisy
 
 **Art. 37.** Gdy weksel jest płatny w oznaczonym dniu w miejscu, gdzie obowiązuje kalendarz odmienny od kalendarza miejsca wystawienia, uważa się datę płatności za określoną według kalendarza miejsca płatności. Przy wekslu, przekazanym z jednego miejsca na inne, w którem obowiązuje kalendarz odmienny, a płatnym w pewien czas po dacie, przelicza się dzień wystawienia na dzień, odpowiadający kalendarzowi miejsca płatności, i podług tego oznacza się termin płatności. Zasadę ustępu poprzedzającego stosuje się także do obliczania terminów przedstawienia weksli. Przepisów tych nie stosuje się, jeżeli z zastrzeżenia w wekslu lub wogóle z jego treści wynika, że chciano zastosować inne zasady.
 
-### Dział VI Zapłata
+### Dział VI
 
 **Art. 38.** Posiadacz wekslu, płatnego w oznaczonym dniu albo w pewien czas po dacie lub po okazaniu, powinien przedstawić go do zapłaty bądź w pierwszym dniu, w którym można wymagać zapłaty, bądź w jednym z dwóch następnych dni powszednich. Przedstawienie wekslu w izbie rozrachunkowej jest równoznaczne z przedstawieniem do zapłaty.
 
@@ -155,7 +211,7 @@ Wtóropisy
 
 **Art. 42.** W przypadku nieprzedstawienia wekslu do zapłaty w terminie, oznaczonym w art. 38, każdy dłużnik może złożyć sumę wekslową do depozytu sądu miejsca płatności wekslu na koszt i niebezpieczeństwo posiadacza.
 
-### Dział VII Zwrotne poszukiwanie spowodu nieprzyjęcia lub niezapłacenia
+### Dział VII
 
 **Art. 43.** Posiadacz wekslu może wykonywać zwrotne poszukiwanie przeciw indosantom, wystawcy, tudzież innym dłużnikom wekslowym: po terminie płatności, jeżeli zapłata nie nastąpiła; już przed terminem płatności:
 
@@ -189,13 +245,13 @@ Wtóropisy
 
 **Art. 51.** W przypadku zwrotnego poszukiwania po częściowem przyjęciu wekslu ten, kto płaci nieprzyjętą część sumy wekslowej, może żądać stwierdzenia zapłaty na wekslu i osobnego pokwitowania. Nadto posiadacz wekslu wyda mu poświadczony przez siebie odpis wekslu oraz protest celem umożliwienia dalszego zwrotnego poszukiwania.
 
-**Art. 52.** Zwrotnie poszukujący może w braku zastrzeżenia przeciwnego wykonać swoje prawo także w ten sposób, że na jednego z zobowiązanych zwrotnie wystawia nowy weksel (weksel zwrotny), płatny za okazaniem i w miejscu zamieszkania zobowiązanego zwrotnie. Weksel zwrotny obejmuje prócz sum, wymienionych w art. 48 i 49, stręczne i opłatę stemplową za weksel zwrotny. Jeżeli weksel zwrotny wystawia posiadacz wekslu, wysokość sumy wekslowej oznaczona będzie podług kursu wekslu za okazaniem, przekazanego z miejsca płatności wekslu pierwotnego na miejsce zamieszkania zobowiązanego zwrotnie. Jeżeli weksel zwrotny wystawia indosant, wysokość sumy wekslowej oznaczona będzie podług kursu wekslu za okazaniem, przekazanego z miejsca zamieszkania wystawcy wekslu zwrotnego na miejsce zamieszkania zobowiązanego zwrotnie.
+**Art. 52.** Zwrotnie poszukujący może w braku zastrzeżenia przeciwnego wykonać swoje prawo także w ten sposób, że na jednego z zobowiązanych zwrotnie wystawia nowy weksel (weksel zwrotny), płatny za okazaniem i w miejscu zamieszkania zobowiązanego zwrotnie. Weksel zwrotny obejmuje prócz sum, wymienionych w art. 48 i 49, stręczne i opłatę stemplowąOd dnia 1 maja 1947 r. opłata skarbowa, na podstawie art. 27 ust. 1 pkt 1 dekretu z dnia 3 lutego 1947 r. o podatku od nabycia praw majątkowych (Dz. U. Nr 27, poz. 106), który wszedł w życie z dniem 1 stycznia 1947 r., i art. 5 dekretu z dnia 3 lutego 1947 r. o opłacie skarbowej (Dz. U. Nr 27, poz. 107), który wszedł w życie z dniem 1 maja 1947 r. Od dnia 1 stycznia 2007 r., na podstawie ustawy z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635), zniesiono opłatę skarbową od weksli. za weksel zwrotny. Jeżeli weksel zwrotny wystawia posiadacz wekslu, wysokość sumy wekslowej oznaczona będzie podług kursu wekslu za okazaniem, przekazanego z miejsca płatności wekslu pierwotnego na miejsce zamieszkania zobowiązanego zwrotnie. Jeżeli weksel zwrotny wystawia indosant, wysokość sumy wekslowej oznaczona będzie podług kursu wekslu za okazaniem, przekazanego z miejsca zamieszkania wystawcy wekslu zwrotnego na miejsce zamieszkania zobowiązanego zwrotnie.
 
 **Art. 53.** Po bezskutecznym upływie terminów, ustanowionych: do przedstawienia wekslu, płatnego za okazaniem lub w pewien czas po okazaniu; do protestu spowodu nieprzyjęcia lub niezapłacenia; do przedstawienia do zapłaty w razie zastrzeżenia „bez kosztów”, posiadacz traci prawo do indosantów, wystawcy oraz do innych dłużników wekslowych z wyjątkiem akceptanta. W razie nieprzedstawienia wekslu do przyjęcia w terminie, zastrzeżonym przez wystawcę, posiadacz traci prawo zwrotnego poszukiwania spowodu niezapłacenia jako też spowodu nieprzyjęcia, wyjąwszy, gdyby z treści zastrzeżenia wynikało, że wystawca chciał się jedynie uchylić od odpowiedzialności za przyjęcie. Jeżeli zastrzeżenie co do terminu przedstawienia uczynił indosant, tylko on może się na nie powołać.
 
 **Art. 54.** Jeżeli przedstawienie wekslu albo protest nie mogą być dokonane w terminach przepisanych spowodu przeszkody nie do przezwyciężenia (ustawowego przepisu któregokolwiek państwa albo innego wypadku siły wyższej), terminy te ulegają przedłużeniu. Posiadacz obowiązany jest zawiadomić bez zwłoki swego indosanta o wypadku siły wyższej i o tem zawiadomieniu zaznaczyć na wekslu lub na przedłużku z dodaniem daty i swego podpisu; pozatem stosuje się przepisy art. 45. Po ustaniu siły wyższej posiadacz wekslu powinien bez zwłoki przedstawić weksel do przyjęcia lub do zapłaty, a w razie potrzeby dokonać protestu. Jeżeli siła wyższa trwa dłużej niż trzydzieści dni, licząc od terminu płatności, można wykonać zwrotne poszukiwanie bez przedstawienia wekslu i bez protestu. Co do weksli, płatnych za okazaniem lub w pewien czas po okazaniu, termin trzydziestodniowy biegnie od dnia, w którym posiadacz zawiadomił swego indosanta o wypadku siły wyższej, chociażby nawet zawiadomienie takie nastąpiło jeszcze przed upływem terminu do przedstawienia; co do weksli, płatnych w pewien czas po okazaniu, termin trzydziestodniowy przedłuża się o czas, w jaki po okazaniu weksel był płatny. Okoliczności czysto osobistych, dotyczących posiadacza wekslu lub osoby, której zlecił on przedstawienie wekslu lub dokonanie protestu, nie uważa się za wypadki siły wyższej.
 
-### Dział VIII Wyręczenie
+### Dział VIII
 
 **Art. 55.** Wystawca, indosant lub poręczyciel mogą wskazać osobę, która ma przyjąć albo zapłacić weksel w potrzebie. Weksel można pod warunkami niżej określonemi przyjąć lub zapłacić przez wyręczenie na rzecz któregokolwiek dłużnika, przeciw któremu może być wykonywane zwrotne poszukiwanie. Każda osoba trzecia, nawet trasat lub osoba, już zobowiązana z wekslu, z wyjątkiem akceptanta, mogą być wyręczycielami. O wyręczeniu wyręczyciel zawiadomi w ciągu dwóch dni powszednich osobę, którą wyręcza. Jeżeli terminu nie zachowa, odpowiada za szkodę, spowodowaną przez swoje niedbalstwo, tylko do sumy, na jaką weksel jest wystawiony. 2. Przyjęcie przez wyręczenie
 
@@ -215,7 +271,7 @@ Wtóropisy
 
 **Art. 63.** Płacący przez wyręczenie nabywa prawa, wynikające z wekslu, przeciw wyręczonemu i przeciw tym, którzy wobec wyręczonego odpowiadają z wekslu. Nie może on jednak dalej wekslu indosować. Indosanci, następujący po wyręczonym, są zwolnieni. W razie zbiegu kilku ofiarujących zapłatę przez wyręczenie, pierwszeństwo należy się temu, kto przez zapłatę zwalnia największą liczbę dłużników. Kto wbrew temu przepisowi, mimo świadomości stanu rzeczy, płaci przez wyręczenie, traci prawo zwrotnego poszukiwania przeciw tym, którzy byliby zwolnieni.
 
-### Dział IX Wtóropisy i odpisy wekslu
+### Dział IX
 
 **Art. 64.** Weksel można wystawić w kilku jednobrzmiących egzemplarzach. Egzemplarze te ponumerowane będą w samym tekście dokumentu; w przeciwnym razie każdy z egzemplarzy uważa się za weksel odrębny. Każdy posiadacz wekslu może na własny koszt żądać wydania większej liczby egzemplarzy, o ile z wekslu nie wynika, że go wystawiono w jednym egzemplarzu. W tym celu posiadacz ma zwrócić się do swego bezpośredniego indosanta, który jest obowiązany zwrócić się do swego poprzednika i tak dalej aż do wystawcy. Indosanci obowiązani są do powtórzenia swoich indosów na nowych egzemplarzach.
 
@@ -232,17 +288,17 @@ Wtóropisy
 
 **Art. 68.** Odpis powinien wskazywać osobę, u której znajduje się oryginał. Jest ona zobowiązana wydać ten oryginał prawnemu posiadaczowi odpisu. Jeżeli osoba, u której znajduje się oryginał, odmówi wydania go, posiadacz odpisu może wykonać zwrotne poszukiwanie przeciw indosantom odpisu i przeciw tym, którzy poręczyli na odpisie, dopiero po stwierdzeniu przez protest, że mimo żądania posiadacza odpisu nie wydano mu oryginału. Jeżeli oryginał po ostatnim indosie, umieszczonym przed sporządzeniem odpisu, zawiera wzmiankę „odtąd indos ważny tylko na odpisie” lub inne wyrażenie równoznaczne, późniejszy indos na oryginale jest nieważny.
 
-### Dział X Zmiany
+### Dział X
 
 **Art. 69.** W razie zmiany tekstu wekslu osoby, które weksel podpisały po dokonaniu zmiany, odpowiadają według brzmienia tekstu zmienionego; osoby, które weksel poprzednio podpisały, odpowiadają według brzmienia tekstu pierwotnego.
 
-### Dział XI Przedawnienie
+### Dział XI
 
 **Art. 70.** Roszczenia wekslowe przeciw akceptantowi ulegają przedawnieniu z upływem lat trzech, licząc od dnia płatności wekslu. Roszczenia posiadacza wekslu przeciw indosantom i wystawcy ulegają przedawnieniu z upływem roku, licząc od dnia protestu, dokonanego w należytym czasie, w przypadku zaś zastrzeżenia „bez kosztów” – licząc od dnia płatności. Roszczenia indosantów między sobą i przeciw wystawcy ulegają przedawnieniu z upływem sześciu miesięcy, licząc od dnia, w którym indosant wykupił weksel albo w którym sam został pociągnięty z wekslu do odpowiedzialności sądowej.
 
 **Art. 71.** Prawo powszechne określa przyczyny przerwania i zawieszenia biegu przedawnienia roszczeń wekslowych. Przerwanie przedawnienia ma skutek jedynie wobec tego dłużnika wekslowego, którego dotyczy przyczyna przerwania.
 
-### Dział XII Przepisy ogólne
+### Dział XII
 
 **Art. 72.** Jeżeli termin płatności wekslu przypada na dzień ustawowo uznany za świąteczny, zapłaty domagać się można dopiero w najbliższym dniu powszednim. Również wszystkie inne czynności, dotyczące wekslu, w szczególności przedstawienie do przyjęcia i dokonanie protestu, mogą być przedsiębrane jedynie w dniu powszednim. Jeżeli ostatni dzień terminu, w ciągu którego jedna z tych czynności ma być przedsięwzięta, przypada na dzień ustawowo uznany za świąteczny, termin przedłuża się do najbliższego dnia powszedniego. Dni świąteczne, przypadające w ciągu terminu, wlicza się do tego terminu.
 
@@ -252,11 +308,11 @@ Wtóropisy
 
 **Art. 75.** Za niepiśmiennych lub niemogących pisać może podpisać się na wekslu inna osoba, której podpis winien być uwierzytelniony przez notarjusza lub władzę gminną z zaznaczeniem, że osoba ta podpisała się na życzenie niepiśmiennego lub niemogącego pisać. Uwierzytelnienie winno być umieszczone na wekslu lub na przedłużku.
 
-### Dział XIII Roszczenie z tytułu niesłusznego zbogacenia
+### Dział XIII
 
 **Art. 76.** Wystawca i akceptant, których zobowiązanie wekslowe wygasło wskutek przedawnienia lub zaniedbania czynności zachowawczych, są zobowiązani wobec posiadacza wekslu, o ile z jego szkodą niesłusznie się zbogacili. Roszczenie z tytułu niesłusznego zbogacenia ulega przedawnieniu z upływem lat trzech, licząc od dnia wygaśnięcia zobowiązania wekslowego.
 
-### Dział XIV Kolizja ustaw
+### Dział XIV
 
 **Art. 77.** Zdolność osoby do zaciągania zobowiązań wekslowych ocenia się według jej prawa ojczystego. Jeżeli prawo to uznaje za właściwe prawo innego kraju, należy je stosować. Kto według prawa, określonego w ustępie poprzedzającym, nie ma zdolności wekslowej, mimo to jest ważnie zobowiązany, jeżeli podpisał weksel w kraju, według którego ustaw miałby zdolność wekslową. Przepisu tego nie stosuje się do obywatela polskiego, który zaciągnął zobowiązanie wekslowe zagranicą.
 
@@ -274,7 +330,7 @@ Wtóropisy
 
 **Art. 84.** Prawo kraju miejsca płatności wekslu określa środki, jakie należy przedsięwziąć w razie zaginięcia lub kradzieży wekslu.
 
-### Dział XV Protest
+### Dział XV
 
 **Art. 85.** Protest sporządza notarjusz.
 
@@ -304,7 +360,7 @@ Wtóropisy
 
 **Art. 95.** (uchylony)
 
-### Dział XVI Weksle zaginione
+### Dział XVI
 
 **Art. 96.** Ten, komu weksel zaginął, może żądać od sądu rejonowego miejsca płatności wekslu uznania go za umorzony. We wniosku należy podać istotną treść wekslu oraz uprawdopodobnić jego utratę, jak również interes prawny, który uzasadnia żądanie umorzenia. Sąd przez ogłoszenie w Monitorze Sądowym i Gospodarczym wezwie posiadacza zaginionego wekslu do zgłoszenia się w ciągu sześćdziesięciu dni i do okazania wekslu sądowi. Termin ten biegnie od dnia płatności wekslu, a gdyby wniosek zgłoszono po terminie płatności lub gdyby termin płatności wekslu nie był oznaczony – od dnia ogłoszenia. Końcowy dzień terminu powinien być oznaczony w ogłoszeniu według daty kalendarza. Jeżeli w ciągu terminu, oznaczonego w wezwaniu, nikt nie zgłosi się z wekslem, sąd wyda orzeczenie, uznające weksel za umorzony. Jeżeli natomiast posiadacz wekslu zgłosi się przed wydaniem orzeczenia, sąd umorzy dalsze postępowanie po przesłuchaniu interesowanych i po okazaniu wekslu żądającemu umorzenia. Zarówno o wszczęciu postępowania, jako też o jego wyniku sąd zawiadomi trasata i wszystkich dłużników wekslowych, wskazanych przez żądającego umorzenia wekslu.
 
@@ -316,7 +372,7 @@ Wtóropisy
 
 **Art. 100.** Na podstawie orzeczenia, uznającego weksel za umorzony, można wykonywać wszystkie prawa z wekslu.
 
-## Tytuł II Weksel własny
+## Tytuł II
 
 **Art. 101.** Weksel własny zawiera:
 
@@ -334,7 +390,7 @@ Wtóropisy
 
 **Art. 104.** Odpowiedzialność wystawcy wekslu własnego jest taka sama, jak akceptanta wekslu trasowanego. Weksle własne, płatne w pewien czas po okazaniu, powinny być w terminach, oznaczonych w art. 23, przedstawione celem zaznaczenia wizy przez wystawcę. Termin po okazaniu biegnie od daty wizy, podpisanej przez wystawcę na wekslu. Jeżeli wystawca wzbrania się umieścić wizę lub zaopatrzyć ją datą, odmowę należy stwierdzić protestem (art. 25); od daty protestu biegnie termin, w jaki po okazaniu weksel był płatny.
 
-## Tytuł III Przepisy końcowe i przejściowe
+## Tytuł III
 
 **Art. 105.** Z dniem wejścia w życie prawa niniejszego traci moc rozporządzenie Prezydenta Rzeczypospolitej z dnia 14 listopada 1924 r. o prawie wekslowem (Dz. U. R.P. Nr 100, poz. 926) wraz z wydanemi na jego podstawie rozporządzeniami.
 
@@ -348,8 +404,5 @@ Wtóropisy
 
 **Art. 110.** Wykonanie prawa niniejszego porucza się Ministrowi Sprawiedliwości.
 
-**Art. 111.** Ustawa niniejsza wchodzi w życie z dniem 1 lipca 1936 r.
-
-- **1)** Zdanie pierwsze w brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 11 sierpnia 2021 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1655), która weszła w życie z dniem 24 września 2021 r. 2) Dodany przez art. 2 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Od dnia 1 maja 1947 r. opłata skarbowa, na podstawie art. 27 ust. 1 pkt 1 dekretu z dnia 3 lutego 1947 r. o podatku od nabycia praw majątkowych (Dz. U. Nr 27, poz. 106), który wszedł w życie z dniem 1 stycznia 1947 r., i art. 5 dekretu z dnia 3 lutego 1947 r. o opłacie skarbowej (Dz. U. Nr 27, poz. 107), który wszedł w życie z dniem 1 maja 1947 r. Od dnia 1 stycznia 2007 r., na podstawie ustawy z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635), zniesiono opłatę skarbową od weksli.
-
+**Art. 111.** Ustawa niniejsza wchodzi w życie z dniem 1 lipca 1936 r. 1) Zdanie pierwsze w brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 11 sierpnia 2021 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1655), która weszła w życie z dniem 24 września 2021 r. 2) Dodany przez art. 2 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Od dnia 1 maja 1947 r. opłata skarbowa, na podstawie art. 27 ust. 1 pkt 1 dekretu z dnia 3 lutego 1947 r. o podatku od nabycia praw majątkowych (Dz. U. Nr 27, poz. 106), który wszedł w życie z dniem 1 stycznia 1947 r., i art. 5 dekretu z dnia 3 lutego 1947 r. o opłacie skarbowej (Dz. U. Nr 27, poz. 107), który wszedł w życie z dniem 1 maja 1947 r. Od dnia 1 stycznia 2007 r., na podstawie ustawy z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635), zniesiono opłatę skarbową od weksli.
 

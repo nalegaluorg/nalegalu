@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 maja 2020 r. o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawy o działalności ubezpieczeniowej i reasekuracyjnej
+# Ustawa z dnia 28 maja 2020 r. o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawy o działalności ubezpieczeniowej i reasekuracyjnej Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE z dnia 25 listopada 2009 r. w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 335 z 17.12.2009, str. 1, Dz. Urz. UE L 326 z 09.12.2011, str. 113, Dz. Urz. UE L 249 z 14.09.2012, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 362, Dz. Urz. UE L 341 z 18.12.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1, Dz. Urz. UE L 219 z 25.07.2014, str. 66, Dz. Urz. UE L 347 z 28.12.2017, str. 35, Dz. Urz. UE L 156 z 19.06.2018, str. 43 oraz Dz. Urz. UE L 334 z 27.12.2019, str. 155).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-05-28 |
 | Data wydania | 2020-07-02 |
-| Wejście w życie | 2020-07-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001180) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1180/text.pdf) |
 
@@ -69,5 +68,5 @@ source: "eli-html"
 
 **Art. 4.** Zagraniczne zakłady ubezpieczeń w terminie 14 dni od dnia wejścia w życie niniejszej ustawy przekazują do Ubezpieczeniowego Funduszu Gwarancyjnego dane o wartości składki przypisanej brutto z umów ubezpieczenia, o którym mowa w dziale II w grupie 10 załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2020 r. poz. 895), z wyłączeniem odpowiedzialności przewoźnika, zawartych w ramach wykonywania działalności na terytorium Rzeczypospolitej Polskiej, za rok 2019 oraz za okres od dnia 1 stycznia 2020 r. do dnia poprzedzającego dzień wejścia w życie niniejszej ustawy.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE z dnia 25 listopada 2009 r. w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 335 z 17.12.2009, str. 1, Dz. Urz. UE L 326 z 09.12.2011, str. 113, Dz. Urz. UE L 249 z 14.09.2012, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 362, Dz. Urz. UE L 341 z 18.12.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1, Dz. Urz. UE L 219 z 25.07.2014, str. 66, Dz. Urz. UE L 347 z 28.12.2017, str. 35, Dz. Urz. UE L 156 z 19.06.2018, str. 43 oraz Dz. Urz. UE L 334 z 27.12.2019, str. 155).
 

@@ -26,28 +26,44 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001326) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1326/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego Rozdział 1 – Przepisy ogólne Rozdział 2 – Nabywanie i utrata prawa do wykonywania zawodu tłumacza przysięgłego Rozdział 3 – Zasady wykonywania zawodu tłumacza przysięgłego Rozdział 4 – Odpowiedzialność zawodowa tłumaczy przysięgłych Rozdział 4a – Przetwarzanie danych osobowych Rozdział 5 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego (Dz. U. z 2017 r. poz. 1505), z uwzględnieniem zmian wprowadzonych:
 1)
 ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669),
 2)
-ustawą z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 czerwca 2019 r.
+ustawą z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 czerwca 2019 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi:
-„
+art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi: „
+Przepisy ogólne
+Nabywanie i utrata prawa do wykonywania zawodu tłumacza przysięgłego
+Zasady wykonywania zawodu tłumacza przysięgłego
+Odpowiedzialność zawodowa tłumaczy przysięgłych
+Przetwarzanie danych osobowychRozdział dodany przez art. 81 ustawy z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730), która weszła w życie z dniem 4 maja 2019 r.
 1.
-Przepisy art. 15 ust. 1 i 3, art. 18 i art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.) , stosuje się w zakresie, w jakim nie naruszają obowiązku zachowania przez tłumacza przysięgłego tajemnicy zawodowej, o której mowa w art. 14 ust. 1 pkt 2.
+Przepisy art. 15 ust. 1 i 3, art. 18 i art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2., stosuje się w zakresie, w jakim nie naruszają obowiązku zachowania przez tłumacza przysięgłego tajemnicy zawodowej, o której mowa w art. 14 ust. 1 pkt 2.
 2.
 Przepisu art. 21 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), w przypadku danych osobowych pozyskanych przez tłumacza przysięgłego w związku z tłumaczeniem, nie stosuje się.
 Obowiązek zachowania tajemnicy, o której mowa w art. 14 ust. 1 pkt 2, nie ustaje w przypadku, gdy z żądaniem ujawnienia informacji uzyskanych w związku z tłumaczeniem występuje Prezes Urzędu Ochrony Danych Osobowych.
 Okres przechowywania danych osobowych zgromadzonych przez tłumacza przysięgłego w związku z tłumaczeniem wynosi 4 lata od zakończenia roku kalendarzowego, w którym dane zostały zgromadzone. Po upływie tego okresu dane osobowe podlegają usunięciu, chyba że dalsze ich przechowywanie jest niezbędne dla ochrony praw lub dochodzenia roszczeń.
+Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 Art. 30–32.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Nabywanie i utrata prawa do wykonywania zawodu tłumacza przysięgłego
+
+#### Rozdział 3 – Zasady wykonywania zawodu tłumacza przysięgłego
+
+#### Rozdział 4 – Odpowiedzialność zawodowa tłumaczy przysięgłych
+
+#### Rozdział 4a – Przetwarzanie danych osobowych
+
+#### Rozdział 5 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 **Art. 350.** Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem:
 
@@ -61,7 +77,7 @@ Art. 30–32.
 - **2)** art. 107 pkt 7 i 8, które wchodzą w życie z dniem 1 maja 2019 r.;
 - **3)** art. 157 pkt 2, który wchodzi w życie z dniem 13 października 2019 r. ” . Załącznik – Tekst jednolity ustawy z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -69,7 +85,7 @@ Art. 30–32.
 
 2. Przepisów ustawy nie stosuje się do tłumaczy języka migowego oraz innych systemów komunikacji niebędących językami naturalnymi.
 
-#### Rozdział 2 Nabywanie i utrata prawa do wykonywania zawodu tłumacza przysięgłego
+#### Rozdział 2
 
 **Art. 2.**
 
@@ -92,9 +108,8 @@ Art. 30–32.
 
 2. Członków Komisji powołuje i odwołuje, w drodze decyzji, Minister Sprawiedliwości.
 
-3. Komisja składa się z 11 członków, wyróżniających się wysokim poziomem wiedzy w zakresie języków obcych i technik tłumaczeniowych, w tym z:
+3. Komisja składa się z 11 członków, wyróżniających się wysokim poziomem wiedzy w zakresie języków obcych i technik tłumaczeniowych, w tym z: 1W brzmieniu ustalonym przez art. 89 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r.) czterech spośród nauczycieli akademickich prowadzących zajęcia na kierunku filologia, wskazanych przez ministra właściwego do spraw szkolnictwa wyższego i nauki;
 
-- **1)** czterech spośród nauczycieli akademickich prowadzących zajęcia na kierunku filologia, wskazanych przez ministra właściwego do spraw szkolnictwa wyższego i nauki;
 - **2)** trzech spośród tłumaczy przysięgłych będących członkami organizacji zrzeszających tłumaczy, wskazanych przez te organizacje;
 - **3)** trzech wskazanych przez Ministra Sprawiedliwości;
 - **4)** jednego wskazanego przez ministra właściwego do spraw pracy.
@@ -187,7 +202,7 @@ Art. 30–32.
 - **4)** prawomocnego orzeczenia kary pozbawienia prawa wykonywania zawodu tłumacza przysięgłego;
 - **5)** po upływie okresu zawieszenia, o którym mowa w art. 11 ust. 1 i 2.
 
-#### Rozdział 3 Zasady wykonywania zawodu tłumacza przysięgłego
+#### Rozdział 3
 
 **Art. 13.** Tłumacz przysięgły jest uprawniony do:
 
@@ -255,7 +270,7 @@ Art. 30–32.
 
 3. Wojewoda, w przypadku stwierdzenia niewykonywania czynności tłumacza przysięgłego przez okres dłuższy niż 3 lata, informuje o tym Ministra Sprawiedliwości.
 
-#### Rozdział 4 Odpowiedzialność zawodowa tłumaczy przysięgłych
+#### Rozdział 4
 
 **Art. 21.**
 
@@ -322,16 +337,16 @@ Art. 30–32.
 
 3. Minister Sprawiedliwości określi, w drodze rozporządzenia, organizację Komisji Odpowiedzialności Zawodowej oraz wysokość wynagrodzenia jej członków w sposób zapewniający sprawność działania Komisji oraz uwzględniając zakres i nakład ich pracy wynikający z przeprowadzenia postępowania w sprawie odpowiedzialności zawodowej.
 
-#### Rozdział 4a Przetwarzanie danych osobowych
+#### Rozdział 4a
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+#### Rozdział 5
 
 **Art. 33.**
 
 1. Osoby, które:
 
 - **1)** uzyskały uprawnienia tłumacza przysięgłego przed dniem wejścia w życie ustawy albo
-- **2)** zostały ustanowione tłumaczem przysięgłym na podstawie przepisów obowiązujących przed dniem wejścia w życie ustawy, lecz nie złożyły przyrzeczenia wobec prezesa sądu okręgowego stają się tłumaczami przysięgłymi w rozumieniu ustawy pod warunkiem wpisu, na swój wniosek, złożony w terminie 2 lat od dnia wejścia w życie ustawy, na listę tłumaczy przysięgłych, o której mowa w art. 6 ust. 2. Osoby, o których mowa w pkt 2, przed uzyskaniem wpisu na listę tłumaczy przysięgłych są obowiązane złożyć wobec Ministra Sprawiedliwości ślubowanie, zgodnie z art. 7.
+- **2)** zostały ustanowione tłumaczem przysięgłym na podstawie przepisów obowiązujących przed dniem wejścia w życie ustawy, lecz nie złożyły przyrzeczenia wobec prezesa sądu okręgowego – stają się tłumaczami przysięgłymi w rozumieniu ustawy pod warunkiem wpisu, na swój wniosek, złożony w terminie 2 lat od dnia wejścia w życie ustawy, na listę tłumaczy przysięgłych, o której mowa w art. 6 ust. 2. Osoby, o których mowa w pkt 2, przed uzyskaniem wpisu na listę tłumaczy przysięgłych są obowiązane złożyć wobec Ministra Sprawiedliwości ślubowanie, zgodnie z art. 7.
 
 2. Do wniosku, o którym mowa w ust. 1, tłumacz przysięgły załącza także zaświadczenie, wydane przez prezesa sądu, przy którym został ustanowiony, potwierdzające okoliczności ustanowienia tłumaczem przysięgłym.
 
@@ -341,5 +356,5 @@ Art. 30–32.
 
 **Art. 34.** W terminie 3 miesięcy od dnia wejścia w życie ustawy Minister Sprawiedliwości powoła Komisję, o której mowa w art. 3.
 
-**Art. 35.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 35.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 27 grudnia 2004 r.. 1) W brzmieniu ustalonym przez art. 89 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r. 2) Rozdział dodany przez art. 81 ustawy z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730), która weszła w życie z dniem 4 maja 2019 r. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2. 4) Ustawa została ogłoszona w dniu 27 grudnia 2004 r.
 

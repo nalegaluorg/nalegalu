@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-11 |
 | Data wydania | 2012-12-27 |
-| Wejście w życie | 2013-01-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001458) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1458/text.pdf) |
 
@@ -40,7 +39,7 @@ następcza.
 1.
 W stosunku do podmiotów kontrolowanych czynności kontrolne przeprowadza się w miejscu prowadzenia przez nie baz danych.
 2.
-W przypadku podmiotów leczniczych, o których mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654, z późn. zm.), czynności kontrolne przeprowadza się w siedzibie podmiotu kontrolowanego lub w miejscu wykonywania działalności gospodarczej przez podmiot kontrolowany.
+W przypadku podmiotów leczniczych, o których mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 149, poz. 887, Nr 174, poz. 1039 i Nr 185, poz. 1092 oraz z 2012 r. poz. 742.), czynności kontrolne przeprowadza się w siedzibie podmiotu kontrolowanego lub w miejscu wykonywania działalności gospodarczej przez podmiot kontrolowany.
 § 3.
 1.
 Kontrola planowa jest wykonywana zgodnie z rocznym planem kontroli.
@@ -167,7 +166,7 @@ Akta kontroli prowadzi się zgodnie z tokiem dokonywanych czynności w postaci e
 5.
 Akta kontroli wraz ze sporządzonym w układzie chronologicznym ich spisem stanowią załącznik do protokołu kontroli przeznaczonego dla ministra.
 6.
-W przypadku gdy podmiotem kontrolowanym jest podmiot leczniczy, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, kontroler dokonuje wpisów do książki kontroli, o której mowa w art. 81 ust. 1 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2010 r. Nr 220, poz. 1447, z późn. zm.).
+W przypadku gdy podmiotem kontrolowanym jest podmiot leczniczy, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, kontroler dokonuje wpisów do książki kontroli, o której mowa w art. 81 ust. 1 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2010 r. Nr 220, poz. 1447, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593, z 2011 r. Nr 85, poz. 459, Nr 106, poz. 622, Nr 112, poz. 654, Nr 120, poz. 690, Nr 131, poz. 764, Nr 132, poz. 766, Nr 153, poz. 902, Nr 163, poz. 981, Nr 171, poz. 1016, Nr 199, poz. 1175, Nr 204, poz. 1195 i Nr 232, poz. 1378 oraz z 2012 r. poz. 855, 1166, 1407 i 1445.).
 § 14.
 1.
 Wyniki przeprowadzonej kontroli kontroler przedstawia w protokole kontroli w sposób uporządkowany, zwięzły i przejrzysty.
@@ -222,5 +221,5 @@ termin złożenia informacji o wykonaniu zaleceń lub wykorzystaniu wniosków, a
 § 17.
 Kontroler w trakcie kontroli jest obowiązany do zachowania należytej staranności w zakresie zabezpieczenia uzyskanych informacji przed nieuprawnionym dostępem i ujawnieniem.
 § 18.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 149, poz. 887, Nr 174, poz. 1039 i Nr 185, poz. 1092 oraz z 2012 r. poz. 742. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593, z 2011 r. Nr 85, poz. 459, Nr 106, poz. 622, Nr 112, poz. 654, Nr 120, poz. 690, Nr 131, poz. 764, Nr 132, poz. 766, Nr 153, poz. 902, Nr 163, poz. 981, Nr 171, poz. 1016, Nr 199, poz. 1175, Nr 204, poz. 1195 i Nr 232, poz. 1378 oraz z 2012 r. poz. 855, 1166, 1407 i 1445.
 

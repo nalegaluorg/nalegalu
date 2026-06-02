@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacjiz dnia 25 września 2024 r. zmieniające rozporządzenie w sprawie podstawowych warunków niezbędnych do realizacji przez szkoły i nauczycieli zadań dydaktycznych, wychowawczych i opiekuńczych oraz programów nauczania
+# Rozporządzenie Ministra Edukacjiz dnia 25 września 2024 r. zmieniające rozporządzenie w sprawie podstawowych warunków niezbędnych do realizacji przez szkoły i nauczycieli zadań dydaktycznych, wychowawczych i opiekuńczych oraz programów nauczania Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-25 |
 | Data wydania | 2024-09-30 |
-| Wejście w życie | 2024-10-15 |
 | Ostatnia zmiana | 2024-10-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001442) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1442/text.pdf) |
 
@@ -39,19 +38,15 @@ W rozporządzeniu Ministra Edukacji Narodowej z dnia 17 grudnia 2010 r. w sprawi
 1)
 w § 2:
 a)
-ust. 1a otrzymuje brzmienie:
-„
+ust. 1a otrzymuje brzmienie: „
 1a.
-Szkoły podstawowe i ponadpodstawowe prowadzące kształcenie w formie dziennej powinny być wyposażone w sprzęt komputerowy, w tym komputery stacjonarne, komputery stacjonarne typu all-in-one, laptopy, laptopy przeglądarkowe lub tablety, umożliwiający wykorzystanie technologii cyfrowych przy realizacji zadań dydaktycznych, wychowawczych i opiekuńczych oraz spełniający minimalne wymagania określone w załączniku nr 1 do rozporządzenia.
-” ,
+Szkoły podstawowe i ponadpodstawowe prowadzące kształcenie w formie dziennej powinny być wyposażone w sprzęt komputerowy, w tym komputery stacjonarne, komputery stacjonarne typu all-in-one, laptopy, laptopy przeglądarkowe lub tablety, umożliwiający wykorzystanie technologii cyfrowych przy realizacji zadań dydaktycznych, wychowawczych i opiekuńczych oraz spełniający minimalne wymagania określone w załączniku nr 1 do rozporządzenia. ” ,
 b)
 w ust. 1b we wprowadzeniu do wyliczenia wyrazy „komputerów stacjonarnych, laptopów i tabletów” zastępuje się wyrazami „komputerów stacjonarnych, komputerów stacjonarnych typu all-in-one, laptopów, laptopów przeglądarkowych i tabletów”,
 c)
-po ust. 1b dodaje się ust. 1c w brzmieniu:
-„
+po ust. 1b dodaje się ust. 1c w brzmieniu: „
 1c.
-Szkoły podstawowe i ponadpodstawowe prowadzące kształcenie w formie dziennej powinny być wyposażone w technologie informacyjno-komunikacyjne wspierające realizację zadań dydaktycznych, wychowawczych i opiekuńczych oraz spełniające minimalne wymagania określone w załączniku nr 2 do rozporządzenia.
-” ;
+Szkoły podstawowe i ponadpodstawowe prowadzące kształcenie w formie dziennej powinny być wyposażone w technologie informacyjno-komunikacyjne wspierające realizację zadań dydaktycznych, wychowawczych i opiekuńczych oraz spełniające minimalne wymagania określone w załączniku nr 2 do rozporządzenia. ” ;
 2)
 dotychczasowy załącznik do rozporządzenia oznacza się jako załącznik nr 1 do rozporządzenia i otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 3)
@@ -61,8 +56,7 @@ Do sprzętu komputerowego, w który szkoły podstawowe i ponadpodstawowe prowadz
 § 3.
 Szkoły podstawowe i ponadpodstawowe prowadzące kształcenie w formie dziennej, które w dniu wejścia w życie rozporządzenia nie spełniają minimalnych wymagań określonych w załączniku nr 2 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, dostosują swoją działalność do tych wymagań w terminie do dnia 31 sierpnia 2026 r.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
 
 ## Załącznik nr 1 — – Minimalne wymagania dla sprzętu komputerowego
 
@@ -85,8 +79,7 @@ Bluetooth – co najmniej wersja 5;
 7)
 mikrofonu;
 8)
-kamery.
-Jednostka centralna powinna spełniać następujące wymagania techniczne:
+kamery. Jednostka centralna powinna spełniać następujące wymagania techniczne:
 1)
 wydajność w teście:
 a)
@@ -102,8 +95,7 @@ złącza komunikacyjne – co najmniej 3 (w tym 1 złącze umożliwiające podł
 5)
 port LAN (RJ45);
 6)
-zasilacz sieciowy przystosowany do polskiego systemu energetycznego.
-Monitor ekranowy powinien spełniać następujące wymagania techniczne:
+zasilacz sieciowy przystosowany do polskiego systemu energetycznego. Monitor ekranowy powinien spełniać następujące wymagania techniczne:
 1)
 kolorowy wyświetlacz;
 2)
@@ -121,8 +113,7 @@ wbudowane głośniki stereo lub dostarczona przez producenta listwa głośnikowa
 8)
 regulacja wysokości;
 9)
-regulacja pochylenia ekranu w przód i w tył.
-Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
+regulacja pochylenia ekranu w przód i w tył. Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
 1)
 64-bitowy system operacyjny posiadający polską wersję językową (oprogramowanie dostępne w ramach zakupu komputera);
 2)
@@ -148,8 +139,7 @@ edytor wideo;
 12)
 edytor dźwięku;
 13)
-oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
+oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
 1)
 pozwalające wydrukować znaki graficzne i pomoce komunikacyjne oraz tworzyć tablice dynamiczne;
 2)
@@ -159,20 +149,17 @@ wspierające naukę obsługi eyetrackerów (urządzeń do komunikacji z komputer
 4)
 językowe text-to-speech;
 5)
-z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent komputera stacjonarnego (zestawu) powinien posiadać:
+z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent komputera stacjonarnego (zestawu) powinien posiadać:
 1)
 certyfikat ISO 9001 systemu zarządzania jakością;
 2)
-certyfikat ISO 14001 zarządzania środowiskiem.
-Komputer stacjonarny (zestaw) powinien posiadać:
+certyfikat ISO 14001 zarządzania środowiskiem. Komputer stacjonarny (zestaw) powinien posiadać:
 1)
 certyfikat EPEAT dla Polski lub innego państwa członkowskiego Unii Europejskiej lub równoważny certyfikat wydany przez akredytowaną instytucję w analogicznym zakresie;
 2)
 deklarację zgodności UE i oznakowanie CE;
 3)
-certyfikat TCO.
-Komputer stacjonarny (zestaw) powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania komputera stacjonarnego (zestawu) wszelkie koszty związane z dostarczeniem komputera stacjonarnego (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
+certyfikat TCO. Komputer stacjonarny (zestaw) powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania komputera stacjonarnego (zestawu) wszelkie koszty związane z dostarczeniem komputera stacjonarnego (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
 I.2.
 Komputer stacjonarny typu all-in-one (zestaw) Komputer stacjonarny typu all-in-one (zestaw) powinien się składać z:
 1)
@@ -192,8 +179,7 @@ wbudowanych głośników stereo;
 8)
 kamery;
 9)
-stopy komputerowej wyposażonej w regulację wysokości, pochyłu lub obrotu (PIVOT).
-Komputer stacjonarny AIO (zestaw) powinien spełniać następujące wymagania techniczne:
+stopy komputerowej wyposażonej w regulację wysokości, pochyłu lub obrotu (PIVOT). Komputer stacjonarny AIO (zestaw) powinien spełniać następujące wymagania techniczne:
 1)
 wydajność w teście:
 a)
@@ -221,8 +207,7 @@ jasność co najmniej 250 cd/m2,
 e)
 matryca matowa (powłoka matująca) lub błyszcząca,
 f)
-matryca bez dotyku lub dotykowa.
-Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
+matryca bez dotyku lub dotykowa. Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
 1)
 64-bitowy system operacyjny posiadający polską wersję językową (oprogramowanie dostępne w ramach zakupu komputera);
 2)
@@ -248,8 +233,7 @@ edytor wideo;
 12)
 edytor dźwięku;
 13)
-oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
+oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
 1)
 pozwalające wydrukować znaki graficzne i pomoce komunikacyjne oraz tworzyć tablice dynamiczne;
 2)
@@ -259,27 +243,23 @@ wspierające naukę obsługi eyetrackerów (urządzeń do komunikacji z komputer
 4)
 językowe text-to-speech;
 5)
-z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent komputera stacjonarnego AIO (zestawu) powinien posiadać:
+z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent komputera stacjonarnego AIO (zestawu) powinien posiadać:
 1)
 certyfikat ISO 9001 systemu zarządzania jakością;
 2)
-certyfikat ISO 14001 zarządzania środowiskiem.
-Komputer stacjonarny AIO (zestaw) powinien posiadać:
+certyfikat ISO 14001 zarządzania środowiskiem. Komputer stacjonarny AIO (zestaw) powinien posiadać:
 1)
 certyfikat EPEAT dla Polski lub innego państwa członkowskiego Unii Europejskiej lub równoważny certyfikat wydany przez akredytowaną instytucję w analogicznym zakresie;
 2)
 deklarację zgodności UE i oznakowanie CE;
 3)
-certyfikat TCO.
-Komputer stacjonarny AIO (zestaw) powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania komputera stacjonarnego AIO (zestawu) wszelkie koszty związane z dostarczeniem komputera stacjonarnego AIO (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
+certyfikat TCO. Komputer stacjonarny AIO (zestaw) powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania komputera stacjonarnego AIO (zestawu) wszelkie koszty związane z dostarczeniem komputera stacjonarnego AIO (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
 I.3.
 Laptop Laptop (opcjonalnie zestaw) powinien składać się z:
 1)
 laptopa;
 2)
-opcjonalnie myszy komputerowej lub zewnętrznego gładzika.
-Laptop powinien spełniać następujące wymagania techniczne:
+opcjonalnie myszy komputerowej lub zewnętrznego gładzika. Laptop powinien spełniać następujące wymagania techniczne:
 1)
 wydajność w teście:
 a)
@@ -325,8 +305,7 @@ wbudowane głośniki stereo;
 15)
 waga laptopa wraz z baterią nie powinna przekraczać 2,5 kg;
 16)
-wbudowane mechanizmy bezpieczeństwa dostępu do danych.
-Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
+wbudowane mechanizmy bezpieczeństwa dostępu do danych. Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
 1)
 64-bitowy system operacyjny posiadający polską wersję językową (oprogramowanie dostępne w ramach zakupu laptopa);
 2)
@@ -352,8 +331,7 @@ edytor wideo;
 12)
 edytor dźwięku;
 13)
-oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
+oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
 1)
 pozwalające wydrukować znaki graficzne i pomoce komunikacyjne oraz tworzyć tablice dynamiczne;
 2)
@@ -363,20 +341,17 @@ wspierające naukę obsługi eyetrackerów (urządzeń do komunikacji z komputer
 4)
 językowe text-to-speech;
 5)
-z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent laptopa (opcjonalnie zestawu) powinien posiadać:
+z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent laptopa (opcjonalnie zestawu) powinien posiadać:
 1)
 certyfikat ISO 9001 systemu zarządzania jakością;
 2)
-certyfikat ISO 14001 zarządzania środowiskiem.
-Laptop (opcjonalnie zestaw) powinien posiadać:
+certyfikat ISO 14001 zarządzania środowiskiem. Laptop (opcjonalnie zestaw) powinien posiadać:
 1)
 certyfikat EPEAT dla Polski lub innego państwa członkowskiego Unii Europejskiej lub równoważny certyfikat wydany przez akredytowaną instytucję w analogicznym zakresie;
 2)
 deklarację zgodności UE i oznakowanie CE;
 3)
-certyfikat TCO.
-Laptop (opcjonalnie zestaw) powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa (opcjonalnie zestawu) wszelkie koszty związane z dostarczeniem laptopa (opcjonalnie zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
+certyfikat TCO. Laptop (opcjonalnie zestaw) powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa (opcjonalnie zestawu) wszelkie koszty związane z dostarczeniem laptopa (opcjonalnie zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
 I.4.
 Laptop przeglądarkowy Laptop przeglądarkowy powinien spełniać następujące wymagania techniczne:
 1)
@@ -424,8 +399,7 @@ wbudowane głośniki stereo;
 16)
 waga laptopa przeglądarkowego wraz z baterią nie powinna przekraczać 2 kg;
 17)
-wbudowane mechanizmy bezpieczeństwa dostępu do danych.
-Oprogramowanie zainstalowane na pamięci masowej lub pamięci wirtualnej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
+wbudowane mechanizmy bezpieczeństwa dostępu do danych. Oprogramowanie zainstalowane na pamięci masowej lub pamięci wirtualnej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
 1)
 64-bitowy system operacyjny posiadający polską wersję językową wraz z niezbędnymi licencjami umożliwiającymi pełne wykorzystanie funkcjonalności systemu operacyjnego (oprogramowanie dostępne w ramach zakupu laptopa przeglądarkowego);
 2)
@@ -451,8 +425,7 @@ edytor wideo;
 12)
 edytor dźwięku;
 13)
-oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
+oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
 1)
 pozwalające wydrukować znaki graficzne i pomoce komunikacyjne oraz tworzyć tablice dynamiczne;
 2)
@@ -462,20 +435,17 @@ wspierające naukę obsługi eyetrackerów (urządzeń do komunikacji z komputer
 4)
 językowe text-to-speech;
 5)
-z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent laptopa przeglądarkowego powinien posiadać:
+z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent laptopa przeglądarkowego powinien posiadać:
 1)
 certyfikat ISO 9001 systemu zarządzania jakością;
 2)
-certyfikat ISO 14001 zarządzania środowiskiem.
-Laptop przeglądarkowy powinien posiadać:
+certyfikat ISO 14001 zarządzania środowiskiem. Laptop przeglądarkowy powinien posiadać:
 1)
 certyfikat EPEAT dla Polski lub innego państwa członkowskiego Unii Europejskiej lub równoważny certyfikat wydany przez akredytowaną instytucję w analogicznym zakresie;
 2)
 deklarację zgodności UE i oznakowanie CE;
 3)
-certyfikat TCO.
-Laptop przeglądarkowy powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa przeglądarkowego wszelkie koszty związane z dostarczeniem laptopa przeglądarkowego do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
+certyfikat TCO. Laptop przeglądarkowy powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa przeglądarkowego wszelkie koszty związane z dostarczeniem laptopa przeglądarkowego do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
 I.5.
 Tablet Tablet powinien spełniać następujące wymagania techniczne:
 1)
@@ -515,8 +485,7 @@ wbudowane głośniki stereo;
 13)
 waga tabletu wraz z baterią (bez dodatkowych akcesoriów) nie powinna przekraczać 1 kg;
 14)
-wbudowane mechanizmy bezpieczeństwa wspierane przez zainstalowany system operacyjny.
-Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
+wbudowane mechanizmy bezpieczeństwa wspierane przez zainstalowany system operacyjny. Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
 1)
 64-bitowy system operacyjny posiadający polską wersję językową (oprogramowanie dostępne w ramach zakupu tabletu);
 2)
@@ -542,8 +511,7 @@ edytor wideo;
 12)
 edytor dźwięku;
 13)
-oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
+oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
 1)
 pozwalające wydrukować znaki graficzne i pomoce komunikacyjne oraz tworzyć tablice dynamiczne;
 2)
@@ -553,13 +521,11 @@ wspierające naukę obsługi eyetrackerów (urządzeń do komunikacji z komputer
 4)
 językowe text-to-speech;
 5)
-z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent tabletu powinien posiadać:
+z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent tabletu powinien posiadać:
 1)
 certyfikat ISO 9001 systemu zarządzania jakością;
 2)
-certyfikat ISO 14001 zarządzania środowiskiem.
-Tablet powinien posiadać deklarację zgodności UE i oznakowanie CE. Tablet powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania tabletu wszelkie koszty związane z dostarczeniem tabletu do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
+certyfikat ISO 14001 zarządzania środowiskiem. Tablet powinien posiadać deklarację zgodności UE i oznakowanie CE. Tablet powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania tabletu wszelkie koszty związane z dostarczeniem tabletu do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
 II.
 Sprzęt komputerowy dla nauczyciela
 II.1.
@@ -577,8 +543,7 @@ Wi-Fi – co najmniej wersja 6;
 6)
 mikrofonu;
 7)
-kamery.
-Jednostka centralna powinna spełniać następujące wymagania techniczne:
+kamery. Jednostka centralna powinna spełniać następujące wymagania techniczne:
 1)
 wydajność w teście:
 a)
@@ -594,8 +559,7 @@ złącza komunikacyjne – co najmniej 3 (w tym 1 złącze umożliwiające podł
 5)
 port LAN (RJ45);
 6)
-zasilacz sieciowy przystosowany do polskiego systemu energetycznego.
-Monitor ekranowy powinien spełniać następujące wymagania techniczne:
+zasilacz sieciowy przystosowany do polskiego systemu energetycznego. Monitor ekranowy powinien spełniać następujące wymagania techniczne:
 1)
 kolorowy wyświetlacz;
 2)
@@ -613,8 +577,7 @@ wbudowane głośniki stereo lub dostarczona przez producenta listwa głośnikowa
 8)
 regulacja wysokości;
 9)
-regulacja pochylenia ekranu w przód i w tył.
-Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
+regulacja pochylenia ekranu w przód i w tył. Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
 1)
 64-bitowy system operacyjny posiadający polską wersję językową (oprogramowanie dostępne w ramach zakupu komputera);
 2)
@@ -640,8 +603,7 @@ edytor wideo;
 12)
 edytor dźwięku;
 13)
-oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
+oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
 1)
 pozwalające wydrukować znaki graficzne i pomoce komunikacyjne oraz tworzyć tablice dynamiczne;
 2)
@@ -651,20 +613,17 @@ wspierające naukę obsługi eyetrackerów (urządzeń do komunikacji z komputer
 4)
 językowe text-to-speech;
 5)
-z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent komputera stacjonarnego (zestawu) powinien posiadać:
+z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent komputera stacjonarnego (zestawu) powinien posiadać:
 1)
 certyfikat ISO 9001 systemu zarządzania jakością;
 2)
-certyfikat ISO 14001 zarządzania środowiskiem.
-Komputer stacjonarny (zestaw) powinien posiadać:
+certyfikat ISO 14001 zarządzania środowiskiem. Komputer stacjonarny (zestaw) powinien posiadać:
 1)
 certyfikat EPEAT dla Polski lub innego państwa członkowskiego Unii Europejskiej lub równoważny certyfikat wydany przez akredytowaną instytucję w analogicznym zakresie;
 2)
 deklarację zgodności UE i oznakowanie CE;
 3)
-certyfikat TCO.
-Komputer stacjonarny (zestaw) powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania komputera stacjonarnego (zestawu) wszelkie koszty związane z dostarczeniem komputera stacjonarnego (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
+certyfikat TCO. Komputer stacjonarny (zestaw) powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania komputera stacjonarnego (zestawu) wszelkie koszty związane z dostarczeniem komputera stacjonarnego (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
 II.2.
 Komputer stacjonarny typu all-in-one (zestaw) Komputer stacjonarny typu all-in-one (zestaw) powinien się składać z:
 1)
@@ -684,8 +643,7 @@ wbudowanych głośników stereo;
 8)
 kamery;
 9)
-stopy komputerowej wyposażonej w regulację wysokości, pochyłu lub obrotu (PIVOT).
-Komputer stacjonarny AIO (zestaw) powinien spełniać następując wymagania techniczne:
+stopy komputerowej wyposażonej w regulację wysokości, pochyłu lub obrotu (PIVOT). Komputer stacjonarny AIO (zestaw) powinien spełniać następując wymagania techniczne:
 1)
 wydajność w teście:
 a)
@@ -713,8 +671,7 @@ jasność co najmniej 250 cd/m2,
 e)
 matryca matowa (powłoka matująca) lub błyszcząca,
 f)
-matryca bez dotyku lub dotykowa.
-Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
+matryca bez dotyku lub dotykowa. Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
 1)
 64-bitowy system operacyjny posiadający polską wersję językową (oprogramowanie dostępne w ramach zakupu komputera);
 2)
@@ -740,8 +697,7 @@ edytor wideo;
 12)
 edytor dźwięku;
 13)
-oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
+oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
 1)
 pozwalające wydrukować znaki graficzne i pomoce komunikacyjne oraz tworzyć tablice dynamiczne;
 2)
@@ -751,27 +707,23 @@ wspierające naukę obsługi eyetrackerów (urządzeń do komunikacji z komputer
 4)
 językowe text-to-speech;
 5)
-z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent komputera stacjonarnego AIO (zestawu) powinien posiadać:
+z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent komputera stacjonarnego AIO (zestawu) powinien posiadać:
 1)
 certyfikat ISO 9001 systemu zarządzania jakością;
 2)
-certyfikat ISO 14001 zarządzania środowiskiem.
-Komputer stacjonarny AIO (zestaw) powinien posiadać:
+certyfikat ISO 14001 zarządzania środowiskiem. Komputer stacjonarny AIO (zestaw) powinien posiadać:
 1)
 certyfikat EPEAT dla Polski lub innego państwa członkowskiego Unii Europejskiej lub równoważny certyfikat wydany przez akredytowaną instytucję w analogicznym zakresie;
 2)
 deklarację zgodności UE i oznakowanie CE;
 3)
-certyfikat TCO.
-Komputer stacjonarny AIO (zestaw) powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania komputera stacjonarnego AIO (zestawu) wszelkie koszty związane z dostarczeniem komputera stacjonarnego AIO (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
+certyfikat TCO. Komputer stacjonarny AIO (zestaw) powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania komputera stacjonarnego AIO (zestawu) wszelkie koszty związane z dostarczeniem komputera stacjonarnego AIO (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
 II.3.
 Laptop Laptop (opcjonalnie zestaw) powinien składać się z:
 1)
 laptopa;
 2)
-opcjonalnie myszy komputerowej lub zewnętrznego gładzika.
-Laptop powinien spełniać następujące wymagania techniczne:
+opcjonalnie myszy komputerowej lub zewnętrznego gładzika. Laptop powinien spełniać następujące wymagania techniczne:
 1)
 wydajność w teście:
 a)
@@ -817,8 +769,7 @@ wbudowane głośniki stereo;
 15)
 waga laptopa wraz z baterią nie powinna przekraczać 2,5 kg;
 16)
-wbudowane mechanizmy bezpieczeństwa dostępu do danych.
-Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
+wbudowane mechanizmy bezpieczeństwa dostępu do danych. Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
 1)
 64-bitowy system operacyjny posiadający polską wersję językową (oprogramowanie dostępne w ramach zakupu laptopa);
 2)
@@ -844,8 +795,7 @@ edytor wideo;
 12)
 edytor dźwięku;
 13)
-oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
+oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
 1)
 pozwalające wydrukować znaki graficzne i pomoce komunikacyjne oraz tworzyć tablice dynamiczne;
 2)
@@ -855,20 +805,17 @@ wspierające naukę obsługi eyetrackerów (urządzeń do komunikacji z komputer
 4)
 językowe text-to-speech;
 5)
-z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent laptopa (opcjonalnie zestawu) powinien posiadać:
+z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent laptopa (opcjonalnie zestawu) powinien posiadać:
 1)
 certyfikat ISO 9001 systemu zarządzania jakością;
 2)
-certyfikat ISO 14001 zarządzania środowiskiem.
-Laptop (opcjonalnie zestaw) powinien posiadać:
+certyfikat ISO 14001 zarządzania środowiskiem. Laptop (opcjonalnie zestaw) powinien posiadać:
 1)
 certyfikat EPEAT dla Polski lub innego państwa członkowskiego Unii Europejskiej lub równoważny certyfikat wydany przez akredytowaną instytucję w analogicznym zakresie;
 2)
 deklarację zgodności UE i oznakowanie CE;
 3)
-certyfikat TCO.
-Laptop (opcjonalnie zestaw) powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa (opcjonalnie zestawu) wszelkie koszty związane z dostarczeniem laptopa (opcjonalnie zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
+certyfikat TCO. Laptop (opcjonalnie zestaw) powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa (opcjonalnie zestawu) wszelkie koszty związane z dostarczeniem laptopa (opcjonalnie zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
 II.4.
 Laptop przeglądarkowy Laptop przeglądarkowy powinien spełniać następujące wymagania techniczne:
 1)
@@ -914,8 +861,7 @@ wbudowane głośniki stereo;
 16)
 waga laptopa przeglądarkowego wraz z baterią nie powinna przekraczać 2 kg;
 17)
-wbudowane mechanizmy bezpieczeństwa dostępu do danych.
-Oprogramowanie zainstalowane na pamięci masowej, zainstalowane na pamięci wirtualnej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
+wbudowane mechanizmy bezpieczeństwa dostępu do danych. Oprogramowanie zainstalowane na pamięci masowej, zainstalowane na pamięci wirtualnej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
 1)
 64-bitowy system operacyjny posiadający polską wersję językową wraz z niezbędnymi licencjami umożliwiającymi pełne wykorzystanie funkcjonalności systemu operacyjnego (oprogramowanie dostępne w ramach zakupu laptopa przeglądarkowego);
 2)
@@ -941,8 +887,7 @@ edytor wideo;
 12)
 edytor dźwięku;
 13)
-oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
+oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
 1)
 pozwalające wydrukować znaki graficzne i pomoce komunikacyjne oraz tworzyć tablice dynamiczne;
 2)
@@ -952,20 +897,17 @@ wspierające naukę obsługi eyetrackerów (urządzeń do komunikacji z komputer
 4)
 językowe text-to-speech;
 5)
-z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent laptopa przeglądarkowego powinien posiadać:
+z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent laptopa przeglądarkowego powinien posiadać:
 1)
 certyfikat ISO 9001 systemu zarządzania jakością;
 2)
-certyfikat ISO 14001 zarządzania środowiskiem.
-Laptop przeglądarkowy powinien posiadać:
+certyfikat ISO 14001 zarządzania środowiskiem. Laptop przeglądarkowy powinien posiadać:
 1)
 certyfikat EPEAT dla Polski lub innego państwa członkowskiego Unii Europejskiej lub równoważny certyfikat wydany przez akredytowaną instytucję w analogicznym zakresie;
 2)
 deklarację zgodności UE i oznakowanie CE;
 3)
-certyfikat TCO.
-Laptop przeglądarkowy powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa przeglądarkowego wszelkie koszty związane z dostarczeniem laptopa przeglądarkowego do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
+certyfikat TCO. Laptop przeglądarkowy powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa przeglądarkowego wszelkie koszty związane z dostarczeniem laptopa przeglądarkowego do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
 II.5.
 Tablet Tablet powinien spełniać następujące wymagania techniczne:
 1)
@@ -1005,8 +947,7 @@ wbudowane głośniki stereo;
 13)
 waga tabletu wraz z baterią (bez dodatkowych akcesoriów) nie powinna przekraczać 1 kg;
 14)
-wbudowane mechanizmy bezpieczeństwa wspierane przez zainstalowany system operacyjny.
-Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
+wbudowane mechanizmy bezpieczeństwa wspierane przez zainstalowany system operacyjny. Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
 1)
 64-bitowy system operacyjny posiadający polską wersję językową (oprogramowanie dostępne w ramach zakupu tabletu);
 2)
@@ -1032,8 +973,7 @@ edytor wideo;
 12)
 edytor dźwięku;
 13)
-oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
+oprogramowanie antywirusowe wraz z jego aktualizacją co roku do najnowszej wersji. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagającej i alternatywnej) należy zapewnić oprogramowanie:
 1)
 pozwalające wydrukować znaki graficzne i pomoce komunikacyjne oraz tworzyć tablice dynamiczne;
 2)
@@ -1043,13 +983,11 @@ wspierające naukę obsługi eyetrackerów (urządzeń do komunikacji z komputer
 4)
 językowe text-to-speech;
 5)
-z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent tabletu powinien posiadać:
+z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi. Producent tabletu powinien posiadać:
 1)
 certyfikat ISO 9001 systemu zarządzania jakością;
 2)
-certyfikat ISO 14001 zarządzania środowiskiem.
-Tablet powinien posiadać deklarację zgodności UE i oznakowanie CE. Tablet powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania tabletu wszelkie koszty związane z dostarczeniem tabletu do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach. 1) Dotyczy oprogramowania komputerów stacjonarnych dla uczniów w szkołach ponadpodstawowych. 2) Dotyczy oprogramowania komputerów stacjonarnych AIO dla uczniów w szkołach ponadpodstawowych. 3) Dotyczy oprogramowania laptopów dla uczniów szkół ponadpodstawowych. 4) Dotyczy oprogramowania laptopów przeglądarkowych dla uczniów szkół ponadpodstawowych. 5) Dotyczy oprogramowania tabletów dla uczniów szkół ponadpodstawowych. 6) Dotyczy oprogramowania komputerów stacjonarnych w szkołach ponadpodstawowych. 7) Dotyczy oprogramowania komputerów stacjonarnych AIO w szkołach ponadpodstawowych. 8) Dotyczy oprogramowania laptopów w szkołach ponadpodstawowych. 9) Dotyczy oprogramowania laptopów przeglądarkowych w szkołach ponadpodstawowych. 10) Dotyczy oprogramowania tabletów w szkołach ponadpodstawowych.
+certyfikat ISO 14001 zarządzania środowiskiem. Tablet powinien posiadać deklarację zgodności UE i oznakowanie CE. Tablet powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania tabletu wszelkie koszty związane z dostarczeniem tabletu do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach. 1) Dotyczy oprogramowania komputerów stacjonarnych dla uczniów w szkołach ponadpodstawowych. 2) Dotyczy oprogramowania komputerów stacjonarnych AIO dla uczniów w szkołach ponadpodstawowych. 3) Dotyczy oprogramowania laptopów dla uczniów szkół ponadpodstawowych. 4) Dotyczy oprogramowania laptopów przeglądarkowych dla uczniów szkół ponadpodstawowych. 5) Dotyczy oprogramowania tabletów dla uczniów szkół ponadpodstawowych. 6) Dotyczy oprogramowania komputerów stacjonarnych w szkołach ponadpodstawowych. 7) Dotyczy oprogramowania komputerów stacjonarnych AIO w szkołach ponadpodstawowych. 8) Dotyczy oprogramowania laptopów w szkołach ponadpodstawowych. 9) Dotyczy oprogramowania laptopów przeglądarkowych w szkołach ponadpodstawowych. 10) Dotyczy oprogramowania tabletów w szkołach ponadpodstawowych.
 
 ## Załącznik nr 2 — – Minimalne wymagania dla technologii informacyjno-komunikacyjnych
 
@@ -1110,6 +1048,5 @@ eyetrackery (urządzenia do komunikacji z komputerem przy pomocy wzroku);
 9)
 oprogramowanie z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika;
 10)
-słuchawki komputerowe z mikrofonem.
-1) Wymaganie uznaje się za spełnione w przypadku zakupu aparatu fotograficznego z funkcją nagrywania.
+słuchawki komputerowe z mikrofonem. 1) Wymaganie uznaje się za spełnione w przypadku zakupu aparatu fotograficznego z funkcją nagrywania.
 

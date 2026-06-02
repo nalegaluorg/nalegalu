@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-04-17 |
 | Data wydania | 2013-05-08 |
-| Wejście w życie | 2013-05-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000535) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/535/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 30 ust. 1 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. Nr 104, poz. 710, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 30 ust. 1 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. Nr 104, poz. 710, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 114, poz. 957, z 2010 r. Nr 113, poz. 745, Nr 182, poz. 1228, Nr 230, poz. 1510 i Nr 238, poz. 1578 oraz z 2011 r. Nr 117, poz. 677.) zarządza się, co następuje:
 § 1.
 W ramach systemu szkolenia zawodowego w Służbie Wywiadu Wojskowego, zwanej dalej „SWW”, są organizowane następujące rodzaje szkoleń zawodowych:
 1)
@@ -41,8 +40,7 @@ specjalistyczne,
 5)
 doskonalenia zawodowego,
 6)
-języków obcych
-zwanych dalej „szkoleniami”.
+języków obcych – zwanych dalej „szkoleniami”.
 § 2.
 1.
 Szkolenia organizuje i prowadzi Centrum Kształcenia SWW, zwane dalej „CK SWW”.
@@ -330,5 +328,5 @@ ocenę z egzaminu końcowego.
 § 30.
 Traci moc rozporządzenie Ministra Obrony Narodowej z dnia 28 września 2006 r. w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. Nr 182, poz. 1343).
 § 31.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 114, poz. 957, z 2010 r. Nr 113, poz. 745, Nr 182, poz. 1228, Nr 230, poz. 1510 i Nr 238, poz. 1578 oraz z 2011 r. Nr 117, poz. 677.
 

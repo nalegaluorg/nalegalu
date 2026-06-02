@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-07-25 |
 | Data wydania | 2014-09-02 |
-| Wejście w życie | 2014-09-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001162) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1162/text.pdf) |
 
@@ -47,7 +46,7 @@ source: "eli-html"
 
 7e. Testy eksploatacyjne oraz testy specjalistyczne są wykonywane przez:
 
-- **1)** podmioty posiadające akredytację w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2010 r. Nr 138, poz. 935, z późn. zm.);
+- **1)** podmioty posiadające akredytację w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2010 r. Nr 138, poz. 935, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 586 i Nr 227, poz. 1367, z 2012 r. poz. 1529, z 2013 r. poz. 898 oraz z 2014 r. poz. 822.);
 - **2)** specjalistę w dziedzinie fizyki medycznej lub specjalistę w dziedzinie inżynierii medycznej, zatrudnionych w jednostce ochrony zdrowia, zwanych dalej odpowiednio „fizykiem medycznym” lub „inżynierem medycznym”.
 
 7f. Testy eksploatacyjne mogą wykonywać również osoby zatrudnione w jednostce ochrony zdrowia i upoważnione przez jej kierownika do obsługi urządzeń radiologicznych, w zakresie określonym w upoważnieniu, pod nadzorem fizyka medycznego lub inżyniera medycznego.
@@ -71,5 +70,5 @@ source: "eli-html"
 
 **Art. 3.** Przepisy wykonawcze wydane na podstawie art. 33c ust. 9 ustawy zmienianej w art. 1 zachowują moc i mogą być zmieniane na podstawie tego przepisu.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 586 i Nr 227, poz. 1367, z 2012 r. poz. 1529, z 2013 r. poz. 898 oraz z 2014 r. poz. 822.
 

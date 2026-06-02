@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 3 kwietnia 2017 r. w sprawie wykazu prac uciążliwych, niebezpiecznych lub szkodliwych dla zdrowia kobiet w ciąży i kobiet karmiących dziecko piersią
+# Rozporządzenie Rady Ministrówz dnia 3 kwietnia 2017 r. w sprawie wykazu prac uciążliwych, niebezpiecznych lub szkodliwych dla zdrowia kobiet w ciąży i kobiet karmiących dziecko piersią Przepisy niniejszego rozporządzenia wdrażają dyrektywę Rady 92/85/EWG z dnia 19 października 1992 r. w sprawie wprowadzenia środków służących wspieraniu poprawy w miejscu pracy bezpieczeństwa i zdrowia pracownic w ciąży, pracownic, które niedawno rodziły, i pracownic karmiących piersią (dziesiąta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. UE L 348 z 28.11.1992, str. 1, Dz. Urz. UE L 165 z 27.06.2007, str. 21 i Dz. Urz. UE L 65 z 04.03.2014, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 110).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-03 |
 | Data wydania | 2017-04-19 |
-| Wejście w życie | 2017-05-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000796) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/796/text.pdf) |
 
@@ -33,8 +32,7 @@ Na podstawie art. 176 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz
 § 1.
 Wykaz prac uciążliwych, niebezpiecznych lub szkodliwych dla zdrowia kobiet w ciąży i kobiet karmiących dziecko piersią określa załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 maja 2017 r.
-1) Przepisy niniejszego rozporządzenia wdrażają dyrektywę Rady 92/85/EWG z dnia 19 października 1992 r. w sprawie wprowadzenia środków służących wspieraniu poprawy w miejscu pracy bezpieczeństwa i zdrowia pracownic w ciąży, pracownic, które niedawno rodziły, i pracownic karmiących piersią (dziesiąta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. UE L 348 z 28.11.1992, str. 1, Dz. Urz. UE L 165 z 27.06.2007, str. 21 i Dz. Urz. UE L 65 z 04.03.2014, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 110). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 10 września 1996 r. w sprawie wykazu prac szczególnie uciążliwych lub szkodliwych dla zdrowia kobiet (Dz. U. z 2016 r. poz. 2057), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 4 ustawy z dnia 22 czerwca 2016 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1053).
+Rozporządzenie wchodzi w życie z dniem 1 maja 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 10 września 1996 r. w sprawie wykazu prac szczególnie uciążliwych lub szkodliwych dla zdrowia kobiet (Dz. U. z 2016 r. poz. 2057), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 4 ustawy z dnia 22 czerwca 2016 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1053). 1) Przepisy niniejszego rozporządzenia wdrażają dyrektywę Rady 92/85/EWG z dnia 19 października 1992 r. w sprawie wprowadzenia środków służących wspieraniu poprawy w miejscu pracy bezpieczeństwa i zdrowia pracownic w ciąży, pracownic, które niedawno rodziły, i pracownic karmiących piersią (dziesiąta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. UE L 348 z 28.11.1992, str. 1, Dz. Urz. UE L 165 z 27.06.2007, str. 21 i Dz. Urz. UE L 65 z 04.03.2014, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 110). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 10 września 1996 r. w sprawie wykazu prac szczególnie uciążliwych lub szkodliwych dla zdrowia kobiet (Dz. U. z 2016 r. poz. 2057), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 4 ustawy z dnia 22 czerwca 2016 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1053).
 Załącznik – Wykaz prac uciążliwych, niebezpiecznych lub szkodliwych dla zdrowia kobiet w ciąży i kobiet karmiących dziecko piersią
 I.
 Prace związane z nadmiernym wysiłkiem fizycznym, w tym ręcznym transportem ciężarów
@@ -131,8 +129,7 @@ a)
 b)
 70 kg – przy przewożeniu na wózku 2-kołowym po terenie o nachyleniu nieprzekraczającym 5% lub 50 kg – po terenie o nachyleniu większym niż 5%,
 c)
-90 kg – przy przewożeniu na wózku 3- i więcej kołowym po terenie o nachyleniu nieprzekraczającym 5% lub 70 kg – po terenie o nachyleniu większym niż 5%.
-Wyżej podane dopuszczalne masy ładunku obejmują również masę urządzenia transportowego i dotyczą przewożenia ładunków po powierzchni równej, twardej i gładkiej. W przypadku przewożenia ładunków po powierzchni nierównej lub nieutwardzonej masa ładunku łącznie z masą urządzenia transportowego nie może przekraczać 60% podanych wartości;
+90 kg – przy przewożeniu na wózku 3- i więcej kołowym po terenie o nachyleniu nieprzekraczającym 5% lub 70 kg – po terenie o nachyleniu większym niż 5%. Wyżej podane dopuszczalne masy ładunku obejmują również masę urządzenia transportowego i dotyczą przewożenia ładunków po powierzchni równej, twardej i gładkiej. W przypadku przewożenia ładunków po powierzchni nierównej lub nieutwardzonej masa ładunku łącznie z masą urządzenia transportowego nie może przekraczać 60% podanych wartości;
 13)
 przewożenie ładunków na wózku szynowym o masie przekraczającej, łącznie z masą wózka:
 a)
@@ -174,8 +171,8 @@ prace w warunkach narażenia na hałas ultradźwiękowy, którego:
 a)
 równoważne poziomy ciśnienia akustycznego w pasmach tercjowych o częstotliwościach środkowych od 10 kHz do 40 kHz, odniesione do 8-godzinnego dobowego lub do przeciętnego tygodniowego, określonego w przepisach Kodeksu pracy, wymiaru czasu pracy,
 b)
-maksymalne poziomy ciśnienia akustycznego w pasmach tercjowych o częstotliwościach środkowych od 10 kHz do 40 kHz
-przekraczają następujące wartości: Częstotliwość środkowa pasm tercjowych (kHz) Równoważny poziom ciśnienia akustycznego odniesiony do 8-godzinnego dobowego lub do przeciętnego tygodniowego, określonego w przepisach Kodeksu pracy, wymiaru czasu pracy (dB) Maksymalny poziom ciśnienia akustycznego (dB) 10; 12,5; 16 75 95 20 85 105 25 100 120 31,5; 40 105 125
+maksymalne poziomy ciśnienia akustycznego w pasmach tercjowych o częstotliwościach środkowych od 10 kHz do 40 kHz – przekraczają następujące wartości:
+Częstotliwość środkowa pasm tercjowych (kHz) Równoważny poziom ciśnienia akustycznego odniesiony do 8-godzinnego dobowego lub do przeciętnego tygodniowego, określonego w przepisach Kodeksu pracy, wymiaru czasu pracy (dB) Maksymalny poziom ciśnienia akustycznego (dB) 10; 12,5; 16 75 95 20 85 105 25 100 120 31,5; 40 105 125
 4)
 prace w warunkach narażenia na drgania działające na organizm przez kończyny górne, których:
 a)
@@ -217,8 +214,7 @@ rakotwórczość, kategoria 1A, 1B lub 2 (H350, H350i, H351),
 c)
 działanie szkodliwe na rozrodczość, kategoria 1A, 1B lub 2 albo dodatkowa kategoria szkodliwego wpływu na laktację lub szkodliwego oddziaływania na dzieci karmione piersią (H360, H360D, H360FD, H360Fd, H360Df, H361, H361d, H361fd, H362),
 d)
-działanie toksyczne na narządy docelowe – narażenie jednorazowe, kategoria 1 lub 2 (H370, H371)
-niezależnie od ich stężenia w środowisku pracy;
+działanie toksyczne na narządy docelowe – narażenie jednorazowe, kategoria 1 lub 2 (H370, H371) – niezależnie od ich stężenia w środowisku pracy;
 2)
 prace w narażeniu na niżej wymienione substancje chemiczne niezależnie od ich stężenia w środowisku pracy:
 a)

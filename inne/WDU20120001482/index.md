@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-17 |
 | Data wydania | 2012-12-28 |
-| Wejście w życie | 2013-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001482) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1482/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 32c § 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 32c § 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698, z 2008 r. Nr 223, poz. 1457, Nr 228, poz. 1507 i Nr 234, poz. 1571, z 2009 r. Nr 1, poz. 4, Nr 9, poz. 57, Nr 26, poz. 156 i 157, Nr 56, poz. 459, Nr 157, poz. 1241, Nr 178, poz. 1375, Nr 219, poz. 1706 i Nr 223, poz. 1777, z 2010 r. Nr 182, poz. 1228 i Nr 205, poz. 1364, z 2011 r. Nr 109, poz. 627, Nr 126, poz. 714 i Nr 203, poz. 1192 oraz z 2012 r. poz. 637 i 672.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -76,5 +75,5 @@ Minister Sprawiedliwości przy określaniu wysokości dodatku specjalnego oraz n
 3.
 Minister Sprawiedliwości przy określaniu wysokości dodatku specjalnego oraz nagrody za szczególne osiągnięcia w pracy dla zastępcy dyrektora sądu rejonowego, okręgowego i apelacyjnego uwzględnia również wniosek złożony przez dyrektora tego sądu lub dyrektora właściwego sądu apelacyjnego, zaopiniowany przez prezesa właściwego sądu.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698, z 2008 r. Nr 223, poz. 1457, Nr 228, poz. 1507 i Nr 234, poz. 1571, z 2009 r. Nr 1, poz. 4, Nr 9, poz. 57, Nr 26, poz. 156 i 157, Nr 56, poz. 459, Nr 157, poz. 1241, Nr 178, poz. 1375, Nr 219, poz. 1706 i Nr 223, poz. 1777, z 2010 r. Nr 182, poz. 1228 i Nr 205, poz. 1364, z 2011 r. Nr 109, poz. 627, Nr 126, poz. 714 i Nr 203, poz. 1192 oraz z 2012 r. poz. 637 i 672.
 

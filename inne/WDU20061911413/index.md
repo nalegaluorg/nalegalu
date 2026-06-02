@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 września 2006 r. o zmianie ustawy o kontroli skarbowej oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 22 września 2006 r. o zmianie ustawy o kontroli skarbowej oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy i ustawę z dnia 12 czerwca 2003 r. – Prawo pocztowe.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-09-22 |
 | Data wydania | 2006-10-20 |
-| Wejście w życie | 2006-11-11 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061911413) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1413/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 594, Nr 91, poz. 868, Nr 171, poz. 1800 i Nr 173, poz. 1808, z 2005 r. Nr 124, poz. 1042, Nr 132, poz. 1110 i Nr 183, poz. 1537 oraz z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708 i 711 i Nr 157, poz. 1119.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2: w ust. 1 pkt 12 otrzymuje brzmienie: „
     - **a)**
@@ -183,11 +182,11 @@ source: "eli-html"
 
 1. Udostępnianie informacji o osobie, uzyskanych w czasie wykonywania czynności operacyjno-rozpoznawczych oraz na podstawie art. 36b ust. 1 i art. 36f ust. 2, jest dozwolone wyłącznie na żądanie sądu lub prokuratora, a także Szefa Krajowego Centrum Informacji Kryminalnych, a wykorzystanie tych informacji może nastąpić tylko w celu wszczęcia lub prowadzenia postępowania w sprawach o przestępstwa i wykroczenia. ” .
 
-**Art. 2.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. Nr 83, poz. 930, z późn. zm.) art. 16a otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. Nr 83, poz. 930, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 703 i Nr 62, poz. 717, z 2001 r. Nr 11, poz. 82 i Nr 106, poz. 1149, z 2002 r. Nr 41, poz. 365, Nr 74, poz. 676, Nr 89, poz. 804, Nr 141, poz. 1178 i Nr 213, poz. 1803, z 2003 r. Nr 84, poz. 774, Nr 137, poz. 1302 i Nr 162, poz. 1569, z 2004 r. Nr 29, poz. 257, Nr 68, poz. 623, Nr 93, poz. 894, Nr 97, poz. 963 i Nr 173, poz. 1808, z 2005 r. Nr 130, poz. 1090, Nr 143, poz. 1199, Nr 177, poz. 1468 i Nr 178, poz. 1479 oraz z 2006 r. Nr 79, poz. 546 i Nr 104, poz. 708.) art. 16a otrzymuje brzmienie: „
 
-**Art. 16a.** Nie podlega karze za przestępstwo skarbowe lub wykroczenie skarbowe, kto złożył prawnie skuteczną, w rozumieniu przepisów ustawy – Ordynacja podatkowa lub ustawy z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm.), korektę deklaracji podatkowej wraz z uzasadnieniem przyczyny korekty i w całości uiścił, niezwłocznie lub w terminie wyznaczonym przez uprawniony organ, należność publicznoprawną uszczuploną lub narażoną na uszczuplenie. ” .
+**Art. 16a.** Nie podlega karze za przestępstwo skarbowe lub wykroczenie skarbowe, kto złożył prawnie skuteczną, w rozumieniu przepisów ustawy – Ordynacja podatkowa lub ustawy z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 594, Nr 91, poz. 868, Nr 171, poz. 1800 i Nr 173, poz. 1808, z 2005 r. Nr 124, poz. 1042, Nr 132, poz. 1110 i Nr 183, poz. 1537 oraz z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708 i 711, Nr 157, poz. 1119 i Nr 191, poz. 1413.), korektę deklaracji podatkowej wraz z uzasadnieniem przyczyny korekty i w całości uiścił, niezwłocznie lub w terminie wyznaczonym przez uprawniony organ, należność publicznoprawną uszczuploną lub narażoną na uszczuplenie. ” .
 
-**Art. 3.** W ustawie z dnia 12 czerwca 2003 r. – Prawo pocztowe (Dz. U. Nr 130, poz. 1188, z późn. zm.) w art. 41:
+**Art. 3.** W ustawie z dnia 12 czerwca 2003 r. – Prawo pocztowe (Dz. U. Nr 130, poz. 1188, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 627, Nr 96, poz. 959, Nr 171, poz. 1800 i Nr 173, poz. 1808, z 2005 r. Nr 267, poz. 2258 oraz z 2006 r. Nr 104, poz. 708.) w art. 41:
 
 - **1)** ust. 2 otrzymuje brzmienie: „
 
@@ -197,5 +196,5 @@ source: "eli-html"
 
 **Art. 4.** Postępowania kontrolne w sprawach, o których mowa w art. 2 ust. 1 pkt 16 ustawy wymienionej w art. 1, wszczęte przed dniem wejścia w życie niniejszej ustawy prowadzi się według przepisów dotychczasowych.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 21 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 21 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy i ustawę z dnia 12 czerwca 2003 r. – Prawo pocztowe. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 594, Nr 91, poz. 868, Nr 171, poz. 1800 i Nr 173, poz. 1808, z 2005 r. Nr 124, poz. 1042, Nr 132, poz. 1110 i Nr 183, poz. 1537 oraz z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708 i 711 i Nr 157, poz. 1119. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 703 i Nr 62, poz. 717, z 2001 r. Nr 11, poz. 82 i Nr 106, poz. 1149, z 2002 r. Nr 41, poz. 365, Nr 74, poz. 676, Nr 89, poz. 804, Nr 141, poz. 1178 i Nr 213, poz. 1803, z 2003 r. Nr 84, poz. 774, Nr 137, poz. 1302 i Nr 162, poz. 1569, z 2004 r. Nr 29, poz. 257, Nr 68, poz. 623, Nr 93, poz. 894, Nr 97, poz. 963 i Nr 173, poz. 1808, z 2005 r. Nr 130, poz. 1090, Nr 143, poz. 1199, Nr 177, poz. 1468 i Nr 178, poz. 1479 oraz z 2006 r. Nr 79, poz. 546 i Nr 104, poz. 708. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 594, Nr 91, poz. 868, Nr 171, poz. 1800 i Nr 173, poz. 1808, z 2005 r. Nr 124, poz. 1042, Nr 132, poz. 1110 i Nr 183, poz. 1537 oraz z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708 i 711, Nr 157, poz. 1119 i Nr 191, poz. 1413. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 627, Nr 96, poz. 959, Nr 171, poz. 1800 i Nr 173, poz. 1808, z 2005 r. Nr 267, poz. 2258 oraz z 2006 r. Nr 104, poz. 708.
 

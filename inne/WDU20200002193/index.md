@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-04 |
 | Data wydania | 2020-12-09 |
-| Wejście w życie | 2020-12-24 |
 | Ostatnia zmiana | 2024-07-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002193) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2193/text.pdf) |
 
-Treść rozporządzenia § 1. § 2.
+Treść rozporządzenia
+§ 1.
+§ 2.
 
 ## Załącznik nr 1 — – Wzór chorągwi Wojska Polskiego
 
@@ -39,9 +40,9 @@ Na podstawie art. 1 ust. 3 ustawy z dnia 19 lutego 1993 r. o znakach Sił Zbrojn
 § 1.
 W rozporządzeniu Ministra Obrony Narodowej z dnia 4 maja 2009 r. w sprawie określenia innych znaków używanych w Siłach Zbrojnych Rzeczypospolitej Polskiej (Dz. U. poz. 689 oraz z 2013 r. poz. 1636) wprowadza się następujące zmiany:
 1)
-po rozdziale 2 dodaje się rozdział 2a w brzmieniu:
-„
-Rozdział 2a Chorągiew Wojska Polskiego
+po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
+Rozdział 2a
+Chorągiew Wojska Polskiego
 § 5a.
 1.
 Znakiem używanym w Siłach Zbrojnych Rzeczypospolitej Polskiej jest chorągiew Wojska Polskiego.
@@ -56,24 +57,19 @@ Wzór chorągwi Wojska Polskiego określa załącznik nr 2a do rozporządzenia.
 6.
 Wzór chorągwi Wojska Polskiego na drzewcu określa załącznik nr 2b do rozporządzenia.
 7.
-Wzór głowicy chorągwi Wojska Polskiego na drzewcu określa załącznik nr 2c do rozporządzenia.
-” ;
+Wzór głowicy chorągwi Wojska Polskiego na drzewcu określa załącznik nr 2c do rozporządzenia. ” ;
 2)
 tytuł rozdziału 7 otrzymuje brzmienie: „ Odznaki pamiątkowe, okolicznościowe i jubileuszowe, odznaki absolwentów, oznaki dla celów rozpoznawczych oraz znaki specjalne ” ;
 3)
 w § 34:
 a)
-w pkt 4 w lit. e kropkę zastępuje się przecinkiem i dodaje się lit. f w brzmieniu:
-„
+w pkt 4 w lit. e kropkę zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „
 f)
-oznaki specjalne;
-” ,
+oznaki specjalne; ” ,
 b)
-po pkt 4 dodaje się pkt 5 w brzmieniu:
-„
+po pkt 4 dodaje się pkt 5 w brzmieniu: „
 5)
-znaki specjalne.
-” ;
+znaki specjalne. ” ;
 4)
 po załączniku nr 2 do rozporządzenia dodaje się załączniki nr 2a-2c do rozporządzenia w brzmieniu określonym odpowiednio w załącznikach nr 1–3 do niniejszego rozporządzenia.
 § 2.

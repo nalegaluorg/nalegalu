@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-28 |
 | Data wydania | 2017-11-30 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002505) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2505/text.pdf) |
 
@@ -61,7 +60,7 @@ Przyporządkowanie jednolitych części wód podziemnych do właściwych obszar�
 2.
 Przyporządkowanie jednolitych części wód przybrzeżnych do właściwych obszarów dorzeczy jest określone w załączniku nr 2 do rozporządzenia.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 27 czerwca 2006 r. w sprawie przebiegu granic obszarów dorzeczy i regionów wodnych (Dz. U. poz. 878 oraz z 2010 r. poz. 874), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 27 czerwca 2006 r. w sprawie przebiegu granic obszarów dorzeczy i regionów wodnych (Dz. U. poz. 878 oraz z 2010 r. poz. 874), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180).
 
 ## Załącznik nr 1 — – Przyporządkowanie jednolitych części wód podziemnych do właściwych obszarów dorzeczy
 

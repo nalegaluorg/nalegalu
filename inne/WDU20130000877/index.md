@@ -38,19 +38,15 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 14 lutego 2012 r. zmien
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 14 czerwca 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Przywracanie potencjału produkcji rolnej zniszczonego w wyniku wystąpienia klęsk żywiołowych oraz wprowadzenie odpowiednich działań zapobiegawczych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 126, poz. 719), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 14 czerwca 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Przywracanie potencjału produkcji rolnej zniszczonego w wyniku wystąpienia klęsk żywiołowych oraz wprowadzenie odpowiednich działań zapobiegawczych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 126, poz. 719), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 14 lutego 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Przywracanie potencjału produkcji rolnej zniszczonego w wyniku wystąpienia klęsk żywiołowych oraz wprowadzenie odpowiednich działań zapobiegawczych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 206), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 14 lutego 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Przywracanie potencjału produkcji rolnej zniszczonego w wyniku wystąpienia klęsk żywiołowych oraz wprowadzenie odpowiednich działań zapobiegawczych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 206), które stanowią: „
 § 2.
 Do postępowań w sprawie przyznania pomocy finansowej w ramach działania „Przywracanie potencjału produkcji rolnej zniszczonego w wyniku wystąpienia klęsk żywiołowych oraz wprowadzenie odpowiednich działań zapobiegawczych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Tekst jednolity rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 13 września 2010 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Przywracanie potencjału produkcji rolnej zniszczonego w wyniku wystąpienia klęsk żywiołowych oraz wprowadzenie odpowiednich działań zapobiegawczych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013
 Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. z 2013 r. poz. 173) zarządza się, co następuje:
 § 1.
@@ -67,8 +63,8 @@ przypadki, w których następcy prawnemu wnioskodawcy albo nabywcy gospodarstwa 
 kategorie siły wyższej i wyjątkowe okoliczności, inne niż wymienione w przepisach rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 368 z 23.12.2006, str. 15, z późn. zm.), zwanego dalej „rozporządzeniem nr 1974/2006”, w przypadku wystąpienia których nie jest wymagany zwrot pomocy.
 § 2.
 O pomoc może ubiegać się osoba fizyczna będąca obywatelem państwa członkowskiego Unii Europejskiej lub osoba prawna, lub spółka osobowa w rozumieniu Kodeksu spółek handlowych, zwana dalej „spółką osobową”, która:
-1)
-jest posiadaczem samoistnym lub zależnym gospodarstwa rolnego, w rozumieniu Kodeksu cywilnego, o powierzchni użytków rolnych co najmniej 1 ha lub nieruchomości służącej do prowadzenia produkcji w zakresie działów specjalnych produkcji rolnej w rozumieniu przepisów o ubezpieczeniu społecznym rolników, zwanych dalej „gospodarstwem”, w którym wystąpiła szkoda spowodowana co najmniej przez jedno ze zdarzeń losowych wymienionych w art. 3 ust. 2 pkt 2–11a ustawy z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt gospodarskich (Dz. U. Nr 150, poz. 1249, z późn. zm.);
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 14 czerwca 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Przywracanie potencjału produkcji rolnej zniszczonego w wyniku wystąpienia klęsk żywiołowych oraz wprowadzenie odpowiednich działań zapobiegawczych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 126, poz. 719), które weszło w życie z dniem 17 czerwca 2011 r.)
+jest posiadaczem samoistnym lub zależnym gospodarstwa rolnego, w rozumieniu Kodeksu cywilnego, o powierzchni użytków rolnych co najmniej 1 ha lub nieruchomości służącej do prowadzenia produkcji w zakresie działów specjalnych produkcji rolnej w rozumieniu przepisów o ubezpieczeniu społecznym rolników, zwanych dalej „gospodarstwem”, w którym wystąpiła szkoda spowodowana co najmniej przez jedno ze zdarzeń losowych wymienionych w art. 3 ust. 2 pkt 2–11a ustawy z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt gospodarskich (Dz. U. Nr 150, poz. 1249, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 120, poz. 825 i Nr 157, poz. 1119, z 2007 r. Nr 49, poz. 328, z 2008 r. Nr 145, poz. 918, z 2009 r. Nr 18, poz. 97 oraz z 2011 r. Nr 106, poz. 622.);
 2)
 prowadzi na terytorium Rzeczypospolitej Polskiej produkcję roślinną lub zwierzęcą, w tym również produkcję materiału siewnego, szkółkarskiego, hodowlanego lub reprodukcyjnego, produkcję warzywniczą, roślin ozdobnych, grzybów uprawnych, sadowniczą, hodowlę i produkcję materiału zarodowego zwierząt, ptactwa i owadów użytkowych lub produkcję zwierzęcą typu przemysłowo-fermowego, z wyłączeniem chowu i hodowli ryb, zwaną dalej „działalnością rolniczą”;
 3)
@@ -91,9 +87,9 @@ prowadzą w ramach umowy spółki na terytorium Rzeczypospolitej Polskiej dział
 1.
 Pomoc przyznaje się osobie fizycznej lub osobie prawnej, lub spółce osobowej, która spełnia warunki określone w § 2 i której został nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw oraz ewidencji wniosków o przyznanie płatności, jeżeli:
 1)
-wysokość szkód określonych w § 2 pkt 1, spowodowanych w gospodarstwie, oszacowanych przez komisję, o której mowa w art. 4 ust. 7 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 98, poz. 634, z późn. zm.), zwaną dalej „komisją”, wynosi:
+wysokość szkód określonych w § 2 pkt 1, spowodowanych w gospodarstwie, oszacowanych przez komisję, o której mowa w art. 4 ust. 7 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 98, poz. 634, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 115, poz. 961, z 2010 r. Nr 76, poz. 490 i Nr 257, poz. 1726, z 2011 r. Nr 34, poz. 168 oraz z 2012 r. poz. 243.), zwaną dalej „komisją”, wynosi:
 a)
-średnio powyżej 30% średniej rocznej produkcji rolnej z trzech lat poprzedzających rok, w którym wystąpiła szkoda, albo z trzech lat w okresie pięcioletnim poprzedzającym rok, w którym wystąpiła szkoda, z pominięciem roku o najwyższej i najniższej produkcji w gospodarstwie rolnym – w uprawach rolnych, zwierzętach gospodarskich w rozumieniu ustawy z dnia 29 czerwca 2007 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. Nr 133, poz. 921, z późn. zm.), zwanych dalej „zwierzętami gospodarskimi”, lub rybach oraz
+średnio powyżej 30% średniej rocznej produkcji rolnej z trzech lat poprzedzających rok, w którym wystąpiła szkoda, albo z trzech lat w okresie pięcioletnim poprzedzającym rok, w którym wystąpiła szkoda, z pominięciem roku o najwyższej i najniższej produkcji w gospodarstwie rolnym – w uprawach rolnych, zwierzętach gospodarskich w rozumieniu ustawy z dnia 29 czerwca 2007 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. Nr 133, poz. 921, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1056, z 2009 r. Nr 223, poz. 1775, z 2010 r. Nr 127, poz. 857 oraz z 2011 r. Nr 106, poz. 622.), zwanych dalej „zwierzętami gospodarskimi”, lub rybach oraz
 b)
 nie mniej niż 10 000 zł – w budynkach, budowlach, maszynach lub urządzeniach służących do produkcji rolnej, sadach lub plantacjach wieloletnich, lub stadach podstawowych zwierząt gospodarskich;
 2)
@@ -101,7 +97,7 @@ w związku z wystąpieniem tej samej szkody w gospodarstwie nie przyznano:
 a)
 pomocy w ramach działania, o którym mowa w § 1,
 b)
-pomocy finansowej w ramach działania „Różnicowanie w kierunku działalności nierolniczej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, zwanego dalej „Programem”, w formie refundacji, o której mowa w § 4 ust. 4 pkt 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Różnicowanie w kierunku działalności nierolniczej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 200, poz. 1442, z późn. zm.), rolnikowi, jego domownikowi w rozumieniu przepisów o ubezpieczeniu społecznym rolników lub małżonkowi tego rolnika – w przypadku gdy o pomoc ubiega się osoba fizyczna;
+pomocy finansowej w ramach działania „Różnicowanie w kierunku działalności nierolniczej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, zwanego dalej „Programem”, w formie refundacji, o której mowa w § 4 ust. 4 pkt 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Różnicowanie w kierunku działalności nierolniczej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 200, poz. 1442, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 85, poz. 519, z 2010 r. Nr 129, poz. 867 i Nr 166, poz. 1125, z 2011 r. Nr 172, poz. 1027 oraz z 2012 r. poz. 936.), rolnikowi, jego domownikowi w rozumieniu przepisów o ubezpieczeniu społecznym rolników lub małżonkowi tego rolnika – w przypadku gdy o pomoc ubiega się osoba fizyczna;
 3)
 wniosek o przyznanie pomocy został złożony w roku, w którym wystąpiła szkoda określona w pkt 1, lub w roku następującym po roku, w którym wystąpiła ta szkoda.
 2.
@@ -148,8 +144,7 @@ zakończenie realizacji operacji i złożenie wniosku o płatność ostateczną,
 a)
 36 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w dwóch etapach,
 b)
-24 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w jednym etapie
-nie później jednak niż do dnia 30 czerwca 2015 r.;
+24 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w jednym etapie – nie później jednak niż do dnia 30 czerwca 2015 r.;
 4)
 płatność ostateczna będzie obejmować nie mniej niż 25% łącznej planowanej wysokości pomocy.
 4.
@@ -178,12 +173,11 @@ poniesionych:
 a)
 od dnia zawarcia umowy, a w przypadku kosztów stanowiących koszty ogólne – poniesionych nie wcześniej niż w dniu 1 stycznia 2007 r.,
 b)
-w formie rozliczenia pieniężnego, a w przypadku transakcji, której wartość bez względu na liczbę wynikających z niej płatności przekracza 10 tys. zł – w formie rozliczenia bezgotówkowego przeprowadzonego poleceniem przelewu
-zwanych dalej „kosztami kwalifikowalnymi”.
+w formie rozliczenia pieniężnego, a w przypadku transakcji, której wartość bez względu na liczbę wynikających z niej płatności przekracza 10 tys. zł – w formie rozliczenia bezgotówkowego przeprowadzonego poleceniem przelewu – zwanych dalej „kosztami kwalifikowalnymi”.
 2.
 W przypadku przyznania pomocy do kosztów kwalifikowalnych zalicza się również koszty związane z realizacją operacji poniesione przez wnioskodawcę przed dniem zawarcia umowy, lecz nie wcześniej niż od dnia, w którym ustąpiły okoliczności wymienione w § 2 pkt 1, które spowodowały powstanie szkody w gospodarstwie, a w przypadku kosztów ogólnych – koszty poniesione nie wcześniej niż w dniu 1 stycznia 2007 r.
 3.
-Pomoc nie obejmuje kosztów innych niż określone w § 9, w szczególności:
+Pomoc nie obejmuje kosztów innych niż określone w § 9, w szczególności:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
 1)
 nabycia nieruchomości;
 2)
@@ -199,8 +193,7 @@ W przypadku gdy zdarzenie powodujące poniesienie kosztów kwalifikowalnych:
 1)
 nie zostało uwzględnione w oddzielnym systemie rachunkowości albo
 2)
-do jego identyfikacji nie wykorzystano odpowiedniego kodu rachunkowego
-o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005, koszty te podlegają refundacji w wysokości określonej w ust. 4 pomniejszonej o 10%.
+do jego identyfikacji nie wykorzystano odpowiedniego kodu rachunkowego – o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005, koszty te podlegają refundacji w wysokości określonej w ust. 4 pomniejszonej o 10%.
 6.
 Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego, o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005, odbywa się w ramach prowadzonych ksiąg rachunkowych albo przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu opracowanym i udostępnionym przez Agencję Restrukturyzacji i Modernizacji Rolnictwa, zwaną dalej „Agencją”, gdy na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych.
 § 7.
@@ -208,7 +201,7 @@ Pomoc przyznaje się na operację o planowanej wysokości kosztów kwalifikowaln
 § 8.
 1.
 Pomoc przyznaje się i wypłaca do wysokości nieprzekraczającej:
-1)
+1W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 14 lutego 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Przywracanie potencjału produkcji rolnej zniszczonego w wyniku wystąpienia klęsk żywiołowych oraz wprowadzenie odpowiednich działań zapobiegawczych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 206), które weszło w życie z dniem 9 marca 2012 r.)
 130% wartości szkód określonych w § 2 pkt 1 spowodowanych w gospodarstwie, w tym w budynkach, budowlach, maszynach lub urządzeniach służących do produkcji rolnej, sadach lub plantacjach wieloletnich, uprawach rolnych, stadach podstawowych zwierząt gospodarskich, zwierzętach gospodarskich niewchodzących w skład stad podstawowych zwierząt gospodarskich lub rybach, oszacowanych przez komisję, lecz nie większej niż 144% wartości tych szkód pomniejszonej o kwotę odszkodowania uzyskanego z tytułu ubezpieczenia składników gospodarstwa, w tym budynków, budowli, maszyn lub urządzeń służących do produkcji rolnej, sadów lub plantacji wieloletnich, upraw rolnych, stad podstawowych zwierząt gospodarskich, zwierząt gospodarskich niewchodzących w skład stad podstawowych zwierząt gospodarskich lub ryb, uszkodzonych lub zniszczonych w wyniku wystąpienia co najmniej jednego ze zdarzeń losowych wymienionych w art. 3 ust. 2 pkt 2–11a ustawy z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt gospodarskich, od ryzyka wystąpienia takich zdarzeń, oraz
 2)
 do wysokości limitu, który w okresie realizacji Programu wynosi 300 000 zł na jedno gospodarstwo.
@@ -224,7 +217,7 @@ zakupu maszyn, urządzeń, wyposażenia do produkcji rolnej, przechowalnictwa, s
 3)
 odtwarzania lub wyposażania sadów lub plantacji wieloletnich, z wyłączeniem odtwarzania plantacji choinek oraz roślin na cele energetyczne, w tym:
 a)
-zakupu materiału rozmnożeniowego lub nasadzeniowego przeznaczonego do założenia sadu lub plantacji, których okres użytkowania jest dłuższy niż 5 lat, z tym że w przypadku gatunków roślin uprawnych wymienionych w załączniku nr 1 do ustawy z dnia 26 czerwca 2003 r. o nasiennictwie (Dz. U. z 2007 r. Nr 41, poz. 271, z późn. zm.) kosztem kwalifikowalnym jest zakup materiału rozmnożeniowego lub nasadzeniowego kategorii kwalifikowany, z tym że jeżeli do krajowego rejestru nie wpisano żadnej odmiany gatunku rośliny uprawnej, który jest wymieniony w załączniku nr 1 do ustawy z dnia 26 czerwca 2003 r. o nasiennictwie, kosztem kwalifikowalnym może być zakup materiału szkółkarskiego CAC,
+zakupu materiału rozmnożeniowego lub nasadzeniowego przeznaczonego do założenia sadu lub plantacji, których okres użytkowania jest dłuższy niż 5 lat, z tym że w przypadku gatunków roślin uprawnych wymienionych w załączniku nr 1 do ustawy z dnia 26 czerwca 2003 r. o nasiennictwie (Dz. U. z 2007 r. Nr 41, poz. 271, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 80, poz. 541 i Nr 191, poz. 1362, z 2009 r. Nr 69, poz. 591, Nr 98, poz. 817, Nr 157, poz. 1241 i Nr 215, poz. 1665, z 2010 r. Nr 239, poz. 1591 oraz z 2011 r. Nr 106, poz. 622 i Nr 171, poz. 1016.)Ustawa utraciła moc na podstawie art. 140 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512), która weszła w życie z dniem 28 stycznia 2013 r. kosztem kwalifikowalnym jest zakup materiału rozmnożeniowego lub nasadzeniowego kategorii kwalifikowany, z tym że jeżeli do krajowego rejestru nie wpisano żadnej odmiany gatunku rośliny uprawnej, który jest wymieniony w załączniku nr 1 do ustawy z dnia 26 czerwca 2003 r. o nasiennictwieUstawa utraciła moc na podstawie art. 140 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512), która weszła w życie z dniem 28 stycznia 2013 r., kosztem kwalifikowalnym może być zakup materiału szkółkarskiego CAC,
 b)
 grodzenia sadów i plantacji wieloletnich oraz ich wyposażenia w niezbędne urządzenia techniczne i technologiczne;
 4)
@@ -270,7 +263,7 @@ Do kosztów, o których mowa w ust. 1 pkt 1–7, zalicza się koszty transportu 
 Prezes Agencji podaje do publicznej wiadomości, na stronie internetowej administrowanej przez Agencję oraz co najmniej w jednym dzienniku o zasięgu ogólnokrajowym, najpóźniej 14 dni przed rozpoczęciem terminu składania wniosków o przyznanie pomocy, informację o możliwości składania wniosków o przyznanie pomocy.
 2.
 Prezes Agencji określa w informacji, o której mowa w ust. 1, dzień rozpoczęcia oraz dzień zakończenia terminu składania wniosków o przyznanie pomocy, przy czym termin ten nie może być dłuższy niż 30 dni roboczych. Dzień zakończenia terminu składania wniosków o przyznanie pomocy nie może być wyznaczony później niż na dzień 31 grudnia danego roku.
-3.
+3Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 W informacji, o której mowa w ust. 1, podaje się, w związku z wystąpieniem jakich zdarzeń losowych wymienionych w art. 3 ust. 2 pkt 2–11a ustawy z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt gospodarskich i w jakim okresie mających miejsce mogą być składane wnioski o przyznanie pomocy.
 § 11.
 W jednym terminie składania wniosków można złożyć tylko jeden wniosek o przyznanie pomocy dotyczący danego gospodarstwa.
@@ -410,15 +403,14 @@ ograniczeń lub warunków w zakresie:
 a)
 przenoszenia własności lub posiadania rzeczy nabytych w ramach realizacji operacji lub sposobu ich wykorzystywania,
 b)
-sposobu lub miejsca prowadzenia działalności związanej z przyznaną pomocą
-przez 5 lat;
+sposobu lub miejsca prowadzenia działalności związanej z przyznaną pomocą – przez 5 lat;
 4)
 umożliwienia przeprowadzania kontroli związanych z przyznaną pomocą przez 5 lat;
 5)
 przechowywania dokumentów związanych z przyznaną pomocą przez 5 lat;
 6)
 informowania Agencji o okolicznościach mogących mieć wpływ na wykonanie umowy przez 5 lat;
-7)
+7W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.)
 przedstawienia dokumentów potwierdzających objęcie obowiązkowym ubezpieczeniem, o którym mowa w przepisach o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych lub przepisach o ubezpieczeniach upraw rolnych i zwierząt gospodarskich, inwestycji zrealizowanej w ramach działania od ryzyka wystąpienia szkód spowodowanych przez zdarzenie losowe wymienione w art. 3 ust. 2 pkt 2–11a ustawy z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt gospodarskich, które było przyczyną udzielenia pomocy, przez 5 lat.
 3.
 Pięcioletni okres, którego dotyczą zobowiązania, o których mowa w:
@@ -463,8 +455,7 @@ W przypadku operacji obejmujących inwestycje polegające na nabyciu rzeczy będ
 1)
 umowę leasingu wraz z harmonogramem spłat,
 2)
-oryginał albo kopię potwierdzoną za zgodność z oryginałem przez finansującego faktury sprzedaży rzeczy będących przedmiotem leasingu, wystawionej przez zbywcę na rzecz finansującego
-w terminie określonym w umowie.
+oryginał albo kopię potwierdzoną za zgodność z oryginałem przez finansującego faktury sprzedaży rzeczy będących przedmiotem leasingu, wystawionej przez zbywcę na rzecz finansującego – w terminie określonym w umowie.
 § 25.
 1.
 Tryb wypłaty środków finansowych z tytułu pomocy określa umowa, z tym że są one wypłacane na wniosek o płatność.
@@ -562,10 +553,12 @@ Wyrażając zgodę, o której mowa w ust. 1 pkt 6 i 7, Agencja uwzględnia przep
 § 34.
 Poza okolicznościami siły wyższej i wyjątkowymi okolicznościami, o których mowa w przepisach rozporządzenia nr 1974/2006 oraz § 33 ust. 1, beneficjent nie jest zobowiązany do zwrotu pomocy w części dotyczącej operacji, która została zrealizowana zgodnie z warunkami określonymi w umowie, jeżeli cel operacji został osiągnięty i zachowany.
 § 35.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 14 września 2010 r.. 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 14 czerwca 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Przywracanie potencjału produkcji rolnej zniszczonego w wyniku wystąpienia klęsk żywiołowych oraz wprowadzenie odpowiednich działań zapobiegawczych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 126, poz. 719), które weszło w życie z dniem 17 czerwca 2011 r. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 120, poz. 825 i Nr 157, poz. 1119, z 2007 r. Nr 49, poz. 328, z 2008 r. Nr 145, poz. 918, z 2009 r. Nr 18, poz. 97 oraz z 2011 r. Nr 106, poz. 622. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 115, poz. 961, z 2010 r. Nr 76, poz. 490 i Nr 257, poz. 1726, z 2011 r. Nr 34, poz. 168 oraz z 2012 r. poz. 243. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1056, z 2009 r. Nr 223, poz. 1775, z 2010 r. Nr 127, poz. 857 oraz z 2011 r. Nr 106, poz. 622. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 85, poz. 519, z 2010 r. Nr 129, poz. 867 i Nr 166, poz. 1125, z 2011 r. Nr 172, poz. 1027 oraz z 2012 r. poz. 936. 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 14 lutego 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Przywracanie potencjału produkcji rolnej zniszczonego w wyniku wystąpienia klęsk żywiołowych oraz wprowadzenie odpowiednich działań zapobiegawczych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 206), które weszło w życie z dniem 9 marca 2012 r. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 80, poz. 541 i Nr 191, poz. 1362, z 2009 r. Nr 69, poz. 591, Nr 98, poz. 817, Nr 157, poz. 1241 i Nr 215, poz. 1665, z 2010 r. Nr 239, poz. 1591 oraz z 2011 r. Nr 106, poz. 622 i Nr 171, poz. 1016. 10) Ustawa utraciła moc na podstawie art. 140 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512), która weszła w życie z dniem 28 stycznia 2013 r. 11) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 12) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 13) Rozporządzenie zostało ogłoszone w dniu 14 września 2010 r.
 Załącznik do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 13 września 2010 r. – Kryteria wyboru operacji
 I.
-Wysokość wnioskowanej pomocy Wysokość wnioskowanej pomocy (w zł) Punkty do 50 000 10 powyżej 50 000 do 100 000 8 powyżej 100 000 do 150 000 6 powyżej 150 000 do 200 000 4 powyżej 200 000 do 250 000 2 powyżej 250 000 0
+Wysokość wnioskowanej pomocy
+Wysokość wnioskowanej pomocy (w zł) Punkty do 50 000 10 powyżej 50 000 do 100 000 8 powyżej 100 000 do 150 000 6 powyżej 150 000 do 200 000 4 powyżej 200 000 do 250 000 2 powyżej 250 000 0
 II.
-Wysokość szkód w uprawach, zwierzętach gospodarskich lub rybach o których mowa w § 2 pkt 1, spowodowanych w gospodarstwie w stosunku do średniej rocznej produkcji rolnej w tym gospodarstwie z trzech lat poprzedzających rok, w którym wystąpiły szkody, albo w stosunku do średniej rocznej produkcji rolnej w tym gospodarstwie z trzech lat w okresie pięcioletnim poprzedzającym rok, w którym wystąpiły szkody, z pominięciem roku o najwyższej i najniższej produkcji Wysokość szkody w procentach Punkty powyżej 30% do 40% 1 powyżej 40% do 50% 3 powyżej 50% do 60% 5 powyżej 60% do 70% 7 powyżej 70% do 80% 9 powyżej 80% 10
+Wysokość szkód w uprawach, zwierzętach gospodarskich lub rybach o których mowa w § 2 pkt 1, spowodowanych w gospodarstwie w stosunku do średniej rocznej produkcji rolnej w tym gospodarstwie z trzech lat poprzedzających rok, w którym wystąpiły szkody, albo w stosunku do średniej rocznej produkcji rolnej w tym gospodarstwie z trzech lat w okresie pięcioletnim poprzedzającym rok, w którym wystąpiły szkody, z pominięciem roku o najwyższej i najniższej produkcji
+Wysokość szkody w procentach Punkty powyżej 30% do 40% 1 powyżej 40% do 50% 3 powyżej 50% do 60% 5 powyżej 60% do 70% 7 powyżej 70% do 80% 9 powyżej 80% 10
 

@@ -38,24 +38,19 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 16 września 2021 r. zm
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 stycznia 2021 r. zmieniającego rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. poz. 219), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 stycznia 2021 r. zmieniającego rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. poz. 219), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 16 września 2021 r. zmieniającego rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. poz. 1730), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 16 września 2021 r. zmieniającego rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. poz. 1730), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 21 kwietnia 2017 r. w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 21 kwietnia 2017 r. w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia RolnictwaMinister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 Na podstawie art. 3 ust. 2 ustawy z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. z 2020 r. poz. 481 oraz z 2022 r. poz. 24) zarządza się, co następuje:
 § 1.
 Krajowemu Ośrodkowi Wsparcia Rolnictwa nadaje się statut stanowiący załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 Załącznik – Statut Krajowego Ośrodka Wsparcia Rolnictwa
 § 1.
 Krajowy Ośrodek Wsparcia Rolnictwa, zwany dalej „Krajowym Ośrodkiem”, działa na podstawie ustawy z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa oraz niniejszego statutu.
@@ -76,11 +71,11 @@ finansowo-administracyjny;
 operacyjny.
 2.
 Działalność pionu koordynuje Dyrektor Generalny lub wskazany przez niego zastępca.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 16 września 2021 r. zmieniającego rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. poz. 1730), które weszło w życie z dniem 6 października 2021 r..
 W poszczególnych pionach wydziela się departamenty, biura, zespoły lub samodzielne stanowiska pracy oraz biura zagraniczne.
 4.
 W skład departamentów i biur, o których mowa w ust. 3, wchodzą wydziały i samodzielne stanowiska pracy.
-5.
+5Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Biura zagraniczne są komórkami organizacyjnymi Centrali prowadzonymi poza granicami kraju w celu wykonywania zadań ustawowych Krajowego Ośrodka.
 § 3.
 1.
@@ -149,8 +144,8 @@ Tryb wykonywania kontroli wewnętrznej oraz audytu wewnętrznego określa regula
 Mienie wchodzące w skład Zasobu Własności Rolnej Skarbu Państwa, które nie zostało zagospodarowane w formach przewidzianych w ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2020 r. poz. 2243 oraz z 2021 r. poz. 1561, 1873 i 2388), Krajowy Ośrodek zabezpiecza w taki sposób, aby nie uległo zniszczeniu, uszkodzeniu lub kradzieży.
 2.
 Niezagospodarowane obiekty budowlane mogą być także przeznaczone przez Krajowy Ośrodek na inne potrzeby niż wynikające z ich przeznaczenia, a w szczególnych przypadkach – zwłaszcza gdy przewidywane koszty zabezpieczenia tych obiektów przekraczają ich wartość – mogą być rozebrane.
-3.
+3W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 stycznia 2021 r. zmieniającego rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. poz. 219), które weszło w życie z dniem 2 lutego 2021 r..
 Niezagospodarowane mienie ruchome może być nieodpłatnie przekazane na własność muzeom, jednostkom sektora finansów publicznych lub państwowym osobom prawnym niebędącym jednostkami sektora finansów publicznych na cele ich działalności dydaktycznej, oświatowo-wychowawczej, opiekuńczej lub charytatywnej, a także na realizację zadań z zakresu polityki państwa, albo – jeżeli nie przedstawia wartości użytkowej – zlikwidowane.
 4.
-Przepisy ust. 1–3 nie naruszają, przewidzianego w odrębnych przepisach, obowiązku uzyskania pozwoleń właściwych organów na dokonanie rozbiórki albo zgłoszenia rozbiórki właściwemu organowi oraz obowiązku uzyskania zezwoleń lub pozwoleń na likwidację w inny sposób poszczególnych składników mienia Zasobu Własności Rolnej Skarbu Państwa.
+Przepisy ust. 1–3 nie naruszają, przewidzianego w odrębnych przepisach, obowiązku uzyskania pozwoleń właściwych organów na dokonanie rozbiórki albo zgłoszenia rozbiórki właściwemu organowi oraz obowiązku uzyskania zezwoleń lub pozwoleń na likwidację w inny sposób poszczególnych składników mienia Zasobu Własności Rolnej Skarbu Państwa. 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 16 września 2021 r. zmieniającego rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. poz. 1730), które weszło w życie z dniem 6 października 2021 r. 3) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 stycznia 2021 r. zmieniającego rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. poz. 219), które weszło w życie z dniem 2 lutego 2021 r.
 

@@ -22,14 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-02-24 |
 | Data wydania | 2022-03-09 |
-| Wejście w życie | 2022-03-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000558) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/558/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.) wprowadza się następujące zmiany:
+Przepisy epizodyczne
 
-- **1)** w art. 32: w ust. 3: – we wprowadzeniu do wyliczenia skreśla się wyrazy „przed pierwszą wypłatą wynagrodzenia w roku podatkowym”, – pkt 1 otrzymuje brzmienie: „ 1) nie otrzymuje emerytury lub renty za pośrednictwem płatnika albo otrzymuje emeryturę lub rentę za pośrednictwem płatnika i złożył wniosek, o którym mowa w art. 34 ust. 2a; ” , po ust. 3a dodaje się ust. 3aa w brzmieniu: „ 3aa. Jeżeli podatnik złoży płatnikowi oświadczenie, o którym mowa w ust. 3, płatnik odlicza kwotę stanowiącą 1/12 kwoty zmniejszającej podatek, najpóźniej od miesiąca następującego po miesiącu, w którym otrzymał to oświadczenie. ” ;
+**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138 i 501.) wprowadza się następujące zmiany:
+
+- **1)** w art. 32: w ust. 3: – we wprowadzeniu do wyliczenia skreśla się wyrazy „przed pierwszą wypłatą wynagrodzenia w roku podatkowym”, pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** nie otrzymuje emerytury lub renty za pośrednictwem płatnika albo otrzymuje emeryturę lub rentę za pośrednictwem płatnika i złożył wniosek, o którym mowa w art. 34 ust. 2a; ” , po ust. 3a dodaje się ust. 3aa w brzmieniu: „ 3aa. Jeżeli podatnik złoży płatnikowi oświadczenie, o którym mowa w ust. 3, płatnik odlicza kwotę stanowiącą 1/12 kwoty zmniejszającej podatek, najpóźniej od miesiąca następującego po miesiącu, w którym otrzymał to oświadczenie. ” ;
     - **b)**
 
 - **2)** w art. 38 po ust. 2c dodaje się ust. 2d w brzmieniu: „
@@ -48,7 +51,7 @@ source: "eli-html"
 2. Nadwyżkę zaliczki niepobraną i niewpłaconą na podstawie ust. 1 płatnik pobiera odpowiednio od przychodów określonych w art. 31 i art. 34 ust. 1 oraz z umów zlecenia określonych w art. 13 pkt 8 uzyskanych w miesiącu, w którym wystąpiła ujemna różnica między:
 
 - **1)** kwotą zaliczki na podatek dochodowy od tych przychodów obliczoną zgodnie z przepisami niniejszej ustawy, w brzmieniu obowiązującym w dniu, w którym zaliczka jest pobierana, a
-- **2)** kwotą zaliczki na podatek dochodowy od tych przychodów obliczoną zgodnie z przepisami niniejszej ustawy, w brzmieniu z dnia 31 grudnia 2021 r., pomniejszoną o kwotę składki na ubezpieczenie zdrowotne, o której mowa w art. 27b, w brzmieniu z dnia 31 grudnia 2021 r. przy czym poboru tej nadwyżki zaliczki dokonuje się do wysokości tej ujemnej różnicy.
+- **2)** kwotą zaliczki na podatek dochodowy od tych przychodów obliczoną zgodnie z przepisami niniejszej ustawy, w brzmieniu z dnia 31 grudnia 2021 r., pomniejszoną o kwotę składki na ubezpieczenie zdrowotne, o której mowa w art. 27b, w brzmieniu z dnia 31 grudnia 2021 r. – przy czym poboru tej nadwyżki zaliczki dokonuje się do wysokości tej ujemnej różnicy.
 
 3. W przypadku gdy nadwyżka zaliczki obliczona zgodnie z ust. 1 nie została pobrana w całości na podstawie ust. 2, płatnik pobiera pozostałą część nadwyżki zaliczki odpowiednio od przychodów określonych w art. 31 i art. 34 ust. 1 oraz z umów zlecenia określonych w art. 13 pkt 8 w kolejnych miesiącach 2022 r., w których wystąpi różnica obliczona zgodnie z ust. 2.
 
@@ -83,7 +86,7 @@ source: "eli-html"
 
 1. Na wniosek dysponenta zakładowego funduszu aktywności albo funduszu rehabilitacji Fundusz przekazuje, w terminie 14 dni od dnia otrzymania wniosku, na rachunek bankowy, o którym mowa w art. 29 ust. 3a1albo art. 33 ust. 3 pkt 2, miesięczne środki w wysokości równej iloczynowi stanu zatrudnienia pracowników niepełnosprawnych dysponenta oraz 4% kwoty najniższego wynagrodzenia.
 
-2. Uprawnienia, o których mowa w ust. 1, nie podlegają łączeniu z uprawnieniami, o których mowa w art. 38 ust. 2 i 2a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.). Warunkiem otrzymania miesięcznych środków określonych w ust. 1 jest złożenie Prezesowi Zarządu Funduszu oświadczenia dysponenta zakładowego funduszu aktywności albo funduszu rehabilitacji o wyborze tego uprawnienia za poszczególne miesiące przypadające do końca danego roku, zawartego we wniosku, o którym mowa w ust. 1, składanym pierwszy raz w danym roku.
+2. Uprawnienia, o których mowa w ust. 1, nie podlegają łączeniu z uprawnieniami, o których mowa w art. 38 ust. 2 i 2a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501 i 558.). Warunkiem otrzymania miesięcznych środków określonych w ust. 1 jest złożenie Prezesowi Zarządu Funduszu oświadczenia dysponenta zakładowego funduszu aktywności albo funduszu rehabilitacji o wyborze tego uprawnienia za poszczególne miesiące przypadające do końca danego roku, zawartego we wniosku, o którym mowa w ust. 1, składanym pierwszy raz w danym roku.
 
 3. Przepis ust. 1 stosuje się do wniosków złożonych w okresie 5 lat, licząc od końca roku, w którym dysponent utracił status zakładu pracy chronionej, jeżeli spełnia warunki określone w art. 33 ust. 7b.
 
@@ -114,7 +117,7 @@ source: "eli-html"
 - **1)** tytuł działu VII otrzymuje brzmienie: „ Zmiany w przepisach obowiązujących, przepisy epizodyczne, przejściowe i końcowe ” ;
 - **2)** w dziale VII po rozdziale 1 dodaje się rozdział 1a w brzmieniu: „
 
-#### Rozdział 1a Przepisy epizodyczne
+#### Rozdział 1a
 
 **Art. 22a.**
 
@@ -151,5 +154,5 @@ source: "eli-html"
 
 3. W przypadku przekroczenia lub zagrożenia przekroczeniem przyjętego na dany rok budżetowy limitu wydatków, o którym mowa w ust. 1, stosuje się mechanizm korygujący, polegający na zablokowaniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy.
 
-**Art. 8.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 2 pkt 4, który wchodzi w życie z dniem 1 stycznia 2023 r.
+**Art. 8.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 2 pkt 4, który wchodzi w życie z dniem 1 stycznia 2023 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138 i 501. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501 i 558.
 

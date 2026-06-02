@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Edukacji i Naukiz dnia 12 stycznia 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkolnictwa Wyższego w sprawie statutu Narodowego Centrum Nauki
+# Obwieszczenie Ministra Edukacji i Naukiz dnia 12 stycznia 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkolnictwa Wyższego w sprawie statutu Narodowego Centrum Nauki Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 
 | Pole | Wartość |
 |---|---|
@@ -28,29 +28,28 @@ source: "eli-html"
 Treść obwieszczenia
 Załącznik – Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 9 września 2010 r. w sprawie statutu Narodowego Centrum Nauki
 
-## Załącznik nr 1 — – Statut Narodowego Centrum Nauki Rozdział 1 – Szczegółowy zakres zadań i tryb pracy organów Narodowego Centrum Nauki Rozdział 2 – Organizacja Biura
+## Załącznik nr 1 — – Statut Narodowego Centrum Nauki
 
+Rozdział 1 – Szczegółowy zakres zadań i tryb pracy organów Narodowego Centrum Nauki
+Rozdział 2 – Organizacja Biura
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 9 września 2010 r. w sprawie statutu Narodowego Centrum Nauki (Dz. U. poz. 1154), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 23 października 2017 r. zmieniającym rozporządzenie w sprawie statutu Narodowego Centrum Nauki (Dz. U. poz. 2026).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 23 października 2017 r. zmieniającego rozporządzenie w sprawie statutu Narodowego Centrum Nauki (Dz. U. poz. 2026), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 23 października 2017 r. zmieniającego rozporządzenie w sprawie statutu Narodowego Centrum Nauki (Dz. U. poz. 2026), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
-Załącznik – Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 9 września 2010 r. w sprawie statutu Narodowego Centrum Nauki
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
+Załącznik – Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 9 września 2010 r. w sprawie statutu Narodowego Centrum NaukiObecnie działem administracji rządowej – szkolnictwo wyższe i nauka kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 Na podstawie art. 1 ust. 5 ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki (Dz. U. z 2019 r. poz. 1384) zarządza się, co następuje:
 § 1.
 Narodowemu Centrum Nauki nadaje się statut, stanowiący załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 października 2010 r.
-1) Obecnie działem administracji rządowej – szkolnictwo wyższe i nauka kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
+Rozporządzenie wchodzi w życie z dniem 1 października 2010 r. 1) Obecnie działem administracji rządowej – szkolnictwo wyższe i nauka kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 
 ## Załącznik nr 1 — – Statut Narodowego Centrum Nauki
 
-Rozdział 1 Szczegółowy zakres zadań i tryb pracy organów Narodowego Centrum Nauki
+Rozdział 1
+Szczegółowy zakres zadań i tryb pracy organów Narodowego Centrum Nauki
 § 1.
 Organami Narodowego Centrum Nauki, zwanego dalej „Centrum”, są:
 1)
@@ -63,10 +62,10 @@ Dyrektor kieruje działalnością Centrum, reprezentuje je na zewnątrz oraz wyk
 2.
 Do zadań Dyrektora należy:
 1)
-przygotowywanie i przedstawianie ministrowi właściwemu do spraw nauki , zwanemu dalej „Ministrem”, projektu rocznego planu działalności Centrum oraz rocznego sprawozdania z realizacji zadań Centrum;
+przygotowywanie i przedstawianie ministrowi właściwemu do spraw nauki Obecnie minister właściwy do spraw szkolnictwa wyższego i nauki na podstawie art. 5 pkt 21 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2020 r. poz. 1220 i 2327)., zwanemu dalej „Ministrem”, projektu rocznego planu działalności Centrum oraz rocznego sprawozdania z realizacji zadań Centrum;
 2)
 przygotowywanie i, po uzyskaniu pozytywnej opinii Rady, przedstawianie Ministrowi do zatwierdzenia projektu rocznego planu finansowego Centrum i planu finansowego w układzie zadaniowym na dany rok budżetowy oraz na 2 kolejne lata, z uwzględnieniem terminów określanych przez ministra właściwego do spraw finansów publicznych dla przedłożenia materiałów do projektu ustawy budżetowej;
-3)
+3W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 23 października 2017 r. zmieniającego rozporządzenie w sprawie statutu Narodowego Centrum Nauki (Dz. U. poz. 2026), które weszło w życie z dniem 15 listopada 2017 r.)
 przygotowywanie i przedstawianie Ministrowi do zatwierdzenia rocznego sprawozdania finansowego Centrum wraz ze sprawozdaniem z badania sporządzonym przez firmę audytorską, o której mowa w art. 42 ustawy;
 4)
 przeprowadzanie konkursu na stanowisko zastępcy dyrektora;
@@ -205,7 +204,8 @@ przyjęty porządek obrad;
 przebieg obrad i treść uchwał.
 3.
 Protokoły przechowuje się w Biurze.
-Rozdział 2 Organizacja Biura
+Rozdział 2
+Organizacja Biura
 § 16.
 Do zadań Biura należy administracyjna obsługa Centrum.
 § 17.
@@ -230,6 +230,5 @@ Bezpośredni nadzór nad komórkami, o których mowa w ust. 1 pkt 1 lit. a-d, sp
 3.
 Bezpośredni nadzór nad komórką właściwą do spraw finansowo-księgowych sprawuje główny księgowy Centrum.
 4.
-Szczegółową organizację i sposób działania Biura, w tym nazwy oraz zadania komórek organizacyjnych, określa regulamin organizacyjny Biura nadany przez Dyrektora.
-2) Obecnie minister właściwy do spraw szkolnictwa wyższego i nauki na podstawie art. 5 pkt 21 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2020 r. poz. 1220 i 2327). 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 23 października 2017 r. zmieniającego rozporządzenie w sprawie statutu Narodowego Centrum Nauki (Dz. U. poz. 2026), które weszło w życie z dniem 15 listopada 2017 r.
+Szczegółową organizację i sposób działania Biura, w tym nazwy oraz zadania komórek organizacyjnych, określa regulamin organizacyjny Biura nadany przez Dyrektora. 2) Obecnie minister właściwy do spraw szkolnictwa wyższego i nauki na podstawie art. 5 pkt 21 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2020 r. poz. 1220 i 2327). 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 23 października 2017 r. zmieniającego rozporządzenie w sprawie statutu Narodowego Centrum Nauki (Dz. U. poz. 2026), które weszło w życie z dniem 15 listopada 2017 r.
 

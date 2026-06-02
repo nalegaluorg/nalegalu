@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-18 |
 | Data wydania | 2024-10-30 |
-| Wejście w życie | 2024-11-30 |
 | Ostatnia zmiana | 2025-01-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001597) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1597/text.pdf) |
 
@@ -78,7 +77,7 @@ source: "eli-html"
 - **2a)** Szef Służby Kontrwywiadu Wojskowego oraz Szef Służby Wywiadu Wojskowego – na zasadach i w trybie określonych w art. 38 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2024 r. poz. 1405); ” , pkt 3 otrzymuje brzmienie: „
     - **b)**
 
-- **3)** Komendant Główny Policji, Komendant Centralnego Biura Śledczego Policji, Komendant Biura Spraw Wewnętrznych Policji, Komendant Centralnego Biura Zwalczania Cyberprzestępczości, komendant wojewódzki Policji oraz Komendant Stołeczny Policji – na zasadach i w trybie określonych w art. 20 ust. 1d i 1e ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145, z późn. zm.); ” , pkt 12 otrzymuje brzmienie: „
+- **3)** Komendant Główny Policji, Komendant Centralnego Biura Śledczego Policji, Komendant Biura Spraw Wewnętrznych Policji, Komendant Centralnego Biura Zwalczania Cyberprzestępczości, komendant wojewódzki Policji oraz Komendant Stołeczny Policji – na zasadach i w trybie określonych w art. 20 ust. 1d i 1e ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1006, 1089, 1222, 1248, 1473 i 1562.); ” , pkt 12 otrzymuje brzmienie: „
     - **c)**
 
 - **12)** Komendant Główny Straży Granicznej, Komendant Biura Spraw Wewnętrznych Straży Granicznej oraz komendant oddziału Straży Granicznej – na zasadach i w trybie określonych w art. 10a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2024 r. poz. 915, 1089, 1222, 1248, 1473 i 1562); ” , w pkt 18 kropkę zastępuje się średnikiem i dodaje się pkt 19 i 20 w brzmieniu: „
@@ -130,5 +129,5 @@ source: "eli-html"
 
 **Art. 3.** Informację o wysokości opłat za usługi biura informacji gospodarczej, o której mowa w art. 11b ustawy zmienianej w art. 1, zarząd biura informacji gospodarczej publikuje w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 5 i 8, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 5 i 8, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1006, 1089, 1222, 1248, 1473 i 1562.
 

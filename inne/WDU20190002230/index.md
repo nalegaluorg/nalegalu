@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 30 października 2019 r. zmieniające rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej
+# Rozporządzenie Ministra Zdrowiaz dnia 30 października 2019 r. zmieniające rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-30 |
 | Data wydania | 2019-11-15 |
-| Wejście w życie | 2019-11-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002230) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2230/text.pdf) |
 
@@ -33,12 +32,9 @@ W rozporządzeniu Ministra Zdrowia z dnia 17 października 2014 r. w sprawie sys
 1)
 uchyla się pkt 3;
 2)
-w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu:
-„
+w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
 10)
-System Monitorowania Informacji o Środkach Zastępczych i Nowych Substancjach Psychoaktywnych (SMIOD).
-” .
+System Monitorowania Informacji o Środkach Zastępczych i Nowych Substancjach Psychoaktywnych (SMIOD). ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 

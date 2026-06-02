@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-01-20 |
 | Data wydania | 2017-01-31 |
-| Wejście w życie | 2017-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000198) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/198/text.pdf) |
 
@@ -93,5 +92,5 @@ Właściwa jednostka organizacyjna informuje wojskowy organ emerytalny o ustalen
 § 11.
 Przekazanie do Zakładu Ubezpieczeń Społecznych składek, o których mowa w art. 126 § 2 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze, następuje w terminie 60 dni od dnia wygaśnięcia stosunku służbowego prokuratora.
 § 12.
-Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
+Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.Niniejsze rozporządzenie w zakresie swojej regulacji było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 16 października 1997 r. w sprawie szczegółowych zasad i trybu ustalania i wypłacania uposażeń oraz uposażeń rodzinnych sędziom i prokuratorom w stanie spoczynku oraz członkom ich rodzin (Dz. U. poz. 869), które na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178 i 2103) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie w zakresie swojej regulacji było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 16 października 1997 r. w sprawie szczegółowych zasad i trybu ustalania i wypłacania uposażeń oraz uposażeń rodzinnych sędziom i prokuratorom w stanie spoczynku oraz członkom ich rodzin (Dz. U. poz. 869), które na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178 i 2103) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

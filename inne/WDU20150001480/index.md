@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-04 |
 | Data wydania | 2015-09-28 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001480) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1480/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Sposób sporządzania i elementy planu audytu oraz sprawozdania z prowadzenia audytu wewnętrznego Rozdział 3 – Planowanie i realizacja zadania audytowego oraz informowanie o jego wynikach Rozdział 4 – Audyt wewnętrzny zlecony i ocena prowadzenia audytu wewnętrznego Rozdział 5 – Przepisy przejściowe i końcowe
 Treść rozporządzenia
-Na podstawie art. 285 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 285 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269 i 1358.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowy sposób i tryb przeprowadzania audytu wewnętrznego oraz przekazywania informacji o pracy i wynikach audytu wewnętrznego.
 § 2.
@@ -108,6 +108,7 @@ dotyczące monitorowania realizacji zaleceń i przeprowadzania czynności sprawd
 Dokumentacja dotycząca zadania audytowego i pozostała dokumentacja audytu wewnętrznego stanowią własność jednostki.
 § 6.
 W uzasadnionych przypadkach audytor wewnętrzny, realizując zadanie audytowe, może korzystać z pomocy ekspertów.
+Sposób sporządzania i elementy planu audytu oraz sprawozdania z prowadzenia audytu wewnętrznego
 § 7.
 1.
 Kierownik komórki audytu wewnętrznego, opracowując plan audytu, o którym mowa w art. 283 ust. 1 ustawy, przeprowadza analizę ryzyka uwzględniającą sposób zarządzania ryzykiem w jednostce.
@@ -163,6 +164,7 @@ informacje o zadaniach audytowych, w tym zleconych, o których mowa w art. 292 u
 inne istotne informacje związane z funkcjonowaniem audytu wewnętrznego w jednostce w roku poprzednim, w tym dotyczące przeprowadzenia oceny wewnętrznej i zewnętrznej audytu wewnętrznego.
 2.
 Kierownik komórki audytu wewnętrznego jednostki w dziale administracji rządowej w terminie do dnia 15 lutego każdego roku przesyła kopię sprawozdania, o którym mowa w ust. 1, do komórki audytu wewnętrznego utworzonej w ministerstwie właściwym dla tego działu.
+Planowanie i realizacja zadania audytowego oraz informowanie o jego wynikach
 § 13.
 Kierownik komórki audytu wewnętrznego informuje audytowanego o planowanej realizacji zadania.
 § 14.
@@ -269,6 +271,7 @@ W wyniku czynności doradczych audytor wewnętrzny może przedstawić propozycje
 Sposób wykonania i dokumentowania przebiegu oraz wyniku czynności doradczych powinien być odpowiedni do rodzaju i charakteru działań audytora wewnętrznego.
 § 25.
 Przepisy § 19 i § 21–23 dotyczące kierownika jednostki stosuje się odpowiednio do dyrektora generalnego w urzędzie administracji rządowej, w którym tworzy się stanowisko dyrektora generalnego urzędu.
+Audyt wewnętrzny zlecony i ocena prowadzenia audytu wewnętrznego
 § 26.
 1.
 Audytor wewnętrzny przeprowadza audyt wewnętrzny zlecony zgodnie z założeniami przekazanymi przez Ministra Finansów.
@@ -306,6 +309,7 @@ Po rozpatrzeniu wyjaśnień lub zastrzeżeń, pracownicy, o których mowa w ust.
 W przypadku nieuwzględnienia dodatkowych wyjaśnień lub zastrzeżeń, o których mowa w ust. 2, pracownicy, o których mowa w ust. 1, informują o tym na piśmie kierownika jednostki, wraz z uzasadnieniem.
 5.
 W terminie 7 dni kalendarzowych od dnia otrzymania wyniku oceny kierownik jednostki może zgłosić Ministrowi Finansów swoje stanowisko na piśmie.
+Przepisy przejściowe i końcowe
 § 32.
 Do zadań audytowych oraz czynności sprawdzających, rozpoczętych i niezakończonych przed dniem wejścia w życie rozporządzenia, stosuje się przepisy dotychczasowe.
 § 33.
@@ -313,15 +317,25 @@ W 2015 r. do sporządzenia planu audytu na rok 2016 nie stosuje się przepisów 
 § 34.
 Traci moc rozporządzenie Ministra Finansów z dnia 1 lutego 2010 r. w sprawie przeprowadzania i dokumentowania audytu wewnętrznego (Dz. U. Nr 21, poz. 108).
 § 35.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem § 7–11, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem § 7–11, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269 i 1358.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Sposób sporządzania i elementy planu audytu oraz sprawozdania z prowadzenia audytu wewnętrznego
+#### Rozdział 2 – Sposób sporządzania i elementy planu audytu oraz sprawozdania z prowadzenia audytu wewnętrznego
 
-#### Rozdział 3 Planowanie i realizacja zadania audytowego oraz informowanie o jego wynikach
+#### Rozdział 3 – Planowanie i realizacja zadania audytowego oraz informowanie o jego wynikach
 
-#### Rozdział 4 Audyt wewnętrzny zlecony i ocena prowadzenia audytu wewnętrznego
+#### Rozdział 4 – Audyt wewnętrzny zlecony i ocena prowadzenia audytu wewnętrznego
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

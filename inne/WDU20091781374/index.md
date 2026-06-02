@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-09-25 |
 | Data wydania | 2009-10-27 |
-| Wejście w życie | 2009-11-04 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091781374) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1374/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241 i Nr 161, poz. 1278.) wprowadza się następujące zmiany:
 
 - **1)** w art. 118 ust. 3 otrzymuje brzmienie: „
 
@@ -83,5 +82,5 @@ source: "eli-html"
 
 2. W przypadku gdy w wyniku przedłużenia, o którym mowa w ust. 1, łączny okres obowiązywania umowy o udzielanie świadczeń opieki zdrowotnej przekracza 3 lata, stosuje się odpowiednio art. 156 ust. 1 ustawy, o której mowa w art. 1.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241 i Nr 161, poz. 1278.
 

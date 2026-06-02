@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 26 czerwca 2019 r. zmieniające rozporządzenie w sprawie ramowego programu szkolenia kandydatów na ekspertów wchodzących w skład komisji egzaminacyjnych i kwalifikacyjnych dla nauczycieli ubiegających się o awans na stopień zawodowy, sposobu prowadzenia listy ekspertów oraz trybu wpisywania i skreślania ekspertów z listy
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 26 czerwca 2019 r. zmieniające rozporządzenie w sprawie ramowego programu szkolenia kandydatów na ekspertów wchodzących w skład komisji egzaminacyjnych i kwalifikacyjnych dla nauczycieli ubiegających się o awans na stopień zawodowy, sposobu prowadzenia listy ekspertów oraz trybu wpisywania i skreślania ekspertów z listy Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-26 |
 | Data wydania | 2019-07-17 |
-| Wejście w życie | 2019-08-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001327) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1327/text.pdf) |
 
@@ -37,6 +36,5 @@ w § 5 uchyla się pkt 4.
 § 2.
 Do wniosków o wpis na listę ekspertów złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 

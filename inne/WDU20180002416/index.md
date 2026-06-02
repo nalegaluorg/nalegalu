@@ -22,62 +22,48 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-12 |
 | Data wydania | 2018-12-27 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2025-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002416) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2416/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 97 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 97 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245 i 2354.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 30 sierpnia 2013 r. w sprawie warunków emitowania obligacji skarbowych oferowanych w sprzedaży hurtowej (Dz. U. poz. 1089) wprowadza się następujące zmiany:
 1)
 w § 2:
 a)
-pkt 10 otrzymuje brzmienie:
-„
+pkt 10 otrzymuje brzmienie: „
 10)
-minimalnej cenie zamiany – rozumie się przez to cenę czystą, ustaloną przez Ministra Finansów, stanowiącą najniższą przyjętą cenę czystą obligacji o danym terminie wykupu oferowanych do sprzedaży, ustaloną na podstawie ofert złożonych przez uczestników przetargu;
-” ,
+minimalnej cenie zamiany – rozumie się przez to cenę czystą, ustaloną przez Ministra Finansów, stanowiącą najniższą przyjętą cenę czystą obligacji o danym terminie wykupu oferowanych do sprzedaży, ustaloną na podstawie ofert złożonych przez uczestników przetargu; ” ,
 b)
-w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu:
-„
+w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „
 13)
-DSPW – rozumie się przez to banki, instytucje kredytowe lub instytucje finansowe, a także ich oddziały, w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, 2243 i 2354), z którymi Minister Finansów zawarł umowę w sprawie pełnienia funkcji Dealera Skarbowych Papierów Wartościowych.
-” ;
+DSPW – rozumie się przez to banki, instytucje kredytowe lub instytucje finansowe, a także ich oddziały, w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, 2243 i 2354), z którymi Minister Finansów zawarł umowę w sprawie pełnienia funkcji Dealera Skarbowych Papierów Wartościowych. ” ;
 2)
-w § 3 ust. 1 otrzymuje brzmienie:
-„
+w § 3 ust. 1 otrzymuje brzmienie: „
 1.
-Obligacje są nabywane i zbywane na przetargach, z zastrzeżeniem ust. 2 i § 28a ust. 1.
-” ;
+Obligacje są nabywane i zbywane na przetargach, z zastrzeżeniem ust. 2 i § 28a ust. 1. ” ;
 3)
-w § 8 ust. 1 otrzymuje brzmienie:
-„
+w § 8 ust. 1 otrzymuje brzmienie: „
 1.
 W przetargach mogą brać udział:
 1)
 DSPW,
 2)
-banki państwowe w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, nieposiadające statusu DSPW
-zwani dalej „uczestnikami przetargu”.
-” ;
+banki państwowe w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, nieposiadające statusu DSPW – zwani dalej „uczestnikami przetargu”. ” ;
 4)
-w § 16 pkt 7 otrzymuje brzmienie:
-„
+w § 16 pkt 7 otrzymuje brzmienie: „
 7)
-wartość narosłych odsetek na dzień rozrachunku przetargu;
-” ;
+wartość narosłych odsetek na dzień rozrachunku przetargu; ” ;
 5)
-w § 20 w ust. 1 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu:
-„
+w § 20 w ust. 1 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
 12)
-godziny, w jakich można składać oferty w ramach sprzedaży dodatkowej.
-” ;
+godziny, w jakich można składać oferty w ramach sprzedaży dodatkowej. ” ;
 6)
 uchyla się rozdział 5;
 7)
-po rozdziale 5 dodaje się rozdział 5a w brzmieniu:
-„
+po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
+Sprzedaż dodatkowa
 § 28a.
 1.
 DSPW, którzy nabyli obligacje na przetargu sprzedaży, mogą nabywać dodatkowe obligacje poza przetargiem sprzedaży (sprzedaż dodatkowa) na zasadach określonych w niniejszym rozdziale.
@@ -128,48 +114,35 @@ termin wykupu i kod ISIN obligacji;
 4)
 cenę, o której mowa w § 28b;
 5)
-wartość nominalną sprzedanych obligacji.
-” ;
+wartość nominalną sprzedanych obligacji. ” ;
 8)
 tytuł rozdziału 6 otrzymuje brzmienie: „ Rozrachunek przetargu sprzedaży i sprzedaży dodatkowej ” ;
 9)
-w § 30 ust. 6 otrzymuje brzmienie:
-„
+w § 30 ust. 6 otrzymuje brzmienie: „
 6.
-Odstępne jest pobierane z rachunku, o którym mowa w § 18 pkt 5, w następnym dniu roboczym po dniu, o którym mowa w ust. 4.
-” ;
+Odstępne jest pobierane z rachunku, o którym mowa w § 18 pkt 5, w następnym dniu roboczym po dniu, o którym mowa w ust. 4. ” ;
 10)
-§ 31 otrzymuje brzmienie:
-„
+§ 31 otrzymuje brzmienie: „
 § 31.
-W przypadku sprzedaży dodatkowej przepisy § 29 i § 30 stosuje się odpowiednio.
-” ;
+W przypadku sprzedaży dodatkowej przepisy § 29 i § 30 stosuje się odpowiednio. ” ;
 11)
-w § 34 pkt 10 otrzymuje brzmienie:
-„
+w § 34 pkt 10 otrzymuje brzmienie: „
 10)
-prognozowany udział ofert niekonkurencyjnych w łącznej wartości sprzedaży obligacji o danym terminie wykupu na przetargu zamiany, jeżeli dopuszczono składanie ofert niekonkurencyjnych.
-” ;
+prognozowany udział ofert niekonkurencyjnych w łącznej wartości sprzedaży obligacji o danym terminie wykupu na przetargu zamiany, jeżeli dopuszczono składanie ofert niekonkurencyjnych. ” ;
 12)
-w § 36 ust. 2 otrzymuje brzmienie:
-„
+w § 36 ust. 2 otrzymuje brzmienie: „
 2.
-Na przetargu zamiany uczestnik przetargu może złożyć jedną ofertę niekonkurencyjną zakupu obligacji o danym terminie wykupu oferowanych do sprzedaży w zamian za oferowane do odkupu obligacje o danym terminie wykupu.
-” ;
+Na przetargu zamiany uczestnik przetargu może złożyć jedną ofertę niekonkurencyjną zakupu obligacji o danym terminie wykupu oferowanych do sprzedaży w zamian za oferowane do odkupu obligacje o danym terminie wykupu. ” ;
 13)
-w § 42 ust. 1 otrzymuje brzmienie:
-„
+w § 42 ust. 1 otrzymuje brzmienie: „
 1.
-Minister Finansów może zaoferować uczestnikom, którzy nabyli obligacje o danym terminie wykupu na przetargu zamiany, nabycie dodatkowych obligacji o tym samym terminie wykupu w drodze zakupu gotówkowego w liczbie stanowiącej różnicę pomiędzy sumą papierów o danym terminie wykupu nabytych przez uczestnika przetargu na przetargu zamiany a najbliższą wielokrotnością tysiąca.
-” ;
+Minister Finansów może zaoferować uczestnikom, którzy nabyli obligacje o danym terminie wykupu na przetargu zamiany, nabycie dodatkowych obligacji o tym samym terminie wykupu w drodze zakupu gotówkowego w liczbie stanowiącej różnicę pomiędzy sumą papierów o danym terminie wykupu nabytych przez uczestnika przetargu na przetargu zamiany a najbliższą wielokrotnością tysiąca. ” ;
 14)
-w § 46 pkt 6 otrzymuje brzmienie:
-„
+w § 46 pkt 6 otrzymuje brzmienie: „
 6)
-wartość narosłych odsetek na dzień rozrachunku przetargu;
-” .
+wartość narosłych odsetek na dzień rozrachunku przetargu; ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245 i 2354.
 
-#### Rozdział 5a Sprzedaż dodatkowa
+#### Rozdział 5a
 

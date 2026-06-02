@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-06-09 |
 | Data wydania | 2006-07-31 |
-| Wejście w życie | 2006-08-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061370971) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/971/text.pdf) |
 
@@ -43,7 +42,7 @@ source: "eli-html"
 - **1)** posiada ostateczną decyzję o warunkach restrukturyzacji;
 - **2)** który do dnia umorzenia dokona spłaty odsetek należnych za ten okres;
 - **3)** któremu przysługuje roszczenie wobec Narodowego Funduszu Zdrowia, Skarbu Państwa lub innej jednostki sektora finansów publicznych z tytułu zobowiązań tego zakładu wobec pracowników wynikających z ustawy wymienionej w art. 4 pkt 3;
-- **4)** który zrzeknie się roszczeń, o których mowa w pkt 3 umarza się odpowiednio pozostałą część pożyczki albo pozostałą część pożyczki i środków uzyskanych z tytułu zwiększenia, o którym mowa w art. 35b ust. 3.
+- **4)** który zrzeknie się roszczeń, o których mowa w pkt 3 – umarza się odpowiednio pozostałą część pożyczki albo pozostałą część pożyczki i środków uzyskanych z tytułu zwiększenia, o którym mowa w art. 35b ust. 3.
 
 10c. Umorzenie, o którym mowa w ust. 10b, następuje:
 

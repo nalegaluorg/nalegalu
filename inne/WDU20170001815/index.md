@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 28 września 2017 r. w sprawie danych zamieszczanych we wnioskach, deklaracjach i powiadomieniach oraz załączanych dokumentów
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 28 września 2017 r. w sprawie danych zamieszczanych we wnioskach, deklaracjach i powiadomieniach oraz załączanych dokumentów Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-28 |
 | Data wydania | 2017-09-29 |
-| Wejście w życie | 2017-10-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001815) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1815/text.pdf) |
 
@@ -43,7 +42,7 @@ Określa się:
 1)
 dane zamieszczane we wniosku o udzielenie pozwolenia na:
 a)
-korzystanie z procedury tranzytu w formie papierowej na liście przewozowym CIM dla towarów przewożonych koleją, o którym mowa w art. 25 rozporządzenia delegowanego Komisji (UE) 2016/341 z dnia 17 grudnia 2015 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 w odniesieniu do przepisów przejściowych dotyczących niektórych przepisów unijnego kodeksu celnego w okresie, gdy nie działają jeszcze odpowiednie systemy teleinformatyczne, i zmieniającego rozporządzenie delegowane Komisji (UE) 2015/2446 (Dz. Urz. UE L 69 z 15.03.2016, str. 1, z późn. zm.) , zwanego dalej „przejściowym rozporządzeniem delegowanym”,
+korzystanie z procedury tranzytu w formie papierowej na liście przewozowym CIM dla towarów przewożonych koleją, o którym mowa w art. 25 rozporządzenia delegowanego Komisji (UE) 2016/341 z dnia 17 grudnia 2015 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 w odniesieniu do przepisów przejściowych dotyczących niektórych przepisów unijnego kodeksu celnego w okresie, gdy nie działają jeszcze odpowiednie systemy teleinformatyczne, i zmieniającego rozporządzenie delegowane Komisji (UE) 2015/2446 (Dz. Urz. UE L 69 z 15.03.2016, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 101 z 16.04.2016, str. 33, Dz. Urz. UE L 121 z 11.05.2016, str. 1 oraz Dz. Urz. UE L 101 z 13.04.2017, str. 205.) , zwanego dalej „przejściowym rozporządzeniem delegowanym”,
 b)
 korzystanie z procedury tranzytu unijnego w oparciu o zgłoszenie w formie papierowej dla towarów przewożonych drogą morską, o którym mowa w art. 26 przejściowego rozporządzenia delegowanego,
 c)
@@ -57,9 +56,9 @@ uzyskanie statusu upoważnionego nadawcy w procedurze tranzytu unijnego w formie
 g)
 uzyskanie statusu upoważnionego odbiorcy w procedurze tranzytu unijnego w formie papierowej na liście przewozowym CIM dla towarów przewożonych koleją, o którym mowa w art. 44 przejściowego rozporządzenia delegowanego,
 h)
-uznanie miejsca do przedstawienia towarów organom celnym, w tym czasowego składowania, o którym mowa w art. 115 rozporządzenia delegowanego Komisji (UE) 2015/2446 z dnia 28 lipca 2015 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 w odniesieniu do szczegółowych zasad dotyczących niektórych przepisów unijnego kodeksu celnego (Dz. Urz. UE L 343 z 29.12.2015, str. 1, z późn. zm.) ,
+uznanie miejsca do przedstawienia towarów organom celnym, w tym czasowego składowania, o którym mowa w art. 115 rozporządzenia delegowanego Komisji (UE) 2015/2446 z dnia 28 lipca 2015 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 w odniesieniu do szczegółowych zasad dotyczących niektórych przepisów unijnego kodeksu celnego (Dz. Urz. UE L 343 z 29.12.2015, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 69 z 15.03.2016, str. 1, Dz. Urz. UE L 87 z 02.04.2016, str. 35, Dz. Urz. UE L 111 z 27.04.2016, str. 1 oraz Dz. Urz. UE L 101 z 13.04.2017, str. 164 i 205.) ,
 i)
-zrzeczenie się towaru na rzecz Skarbu Państwa w formie zgody organu celnego, o której mowa w art. 199 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.) , zwanego dalej „unijnym kodeksem celnym”,
+zrzeczenie się towaru na rzecz Skarbu Państwa w formie zgody organu celnego, o której mowa w art. 199 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32 oraz Dz. Urz. UE L 42 z 18.02.2017, str. 43/2.) , zwanego dalej „unijnym kodeksem celnym”,
 2)
 dane zamieszczane w:
 a)
@@ -67,15 +66,70 @@ deklaracji do czasowego składowania, o której mowa w art. 145 ust. 1 unijnego 
 b)
 powiadomieniu o przybyciu w przypadku przemieszczania towarów czasowo składowanych, o którym mowa w art. 148 ust. 5 lit. b i c unijnego kodeksu celnego,
 3)
-dokumenty załączane do wniosków, deklaracji i powiadomienia
-stanowiące załącznik do rozporządzenia.
+dokumenty załączane do wniosków, deklaracji i powiadomienia – stanowiące załącznik do rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 2 października 2017 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 101 z 16.04.2016, str. 33, Dz. Urz. UE L 121 z 11.05.2016, str. 1 oraz Dz. Urz. UE L 101 z 13.04.2017, str. 205. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 69 z 15.03.2016, str. 1, Dz. Urz. UE L 87 z 02.04.2016, str. 35, Dz. Urz. UE L 111 z 27.04.2016, str. 1 oraz Dz. Urz. UE L 101 z 13.04.2017, str. 164 i 205. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32 oraz Dz. Urz. UE L 42 z 18.02.2017, str. 43/2.
+Rozporządzenie wchodzi w życie z dniem 2 października 2017 r. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 101 z 16.04.2016, str. 33, Dz. Urz. UE L 121 z 11.05.2016, str. 1 oraz Dz. Urz. UE L 101 z 13.04.2017, str. 205. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 69 z 15.03.2016, str. 1, Dz. Urz. UE L 87 z 02.04.2016, str. 35, Dz. Urz. UE L 111 z 27.04.2016, str. 1 oraz Dz. Urz. UE L 101 z 13.04.2017, str. 164 i 205. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32 oraz Dz. Urz. UE L 42 z 18.02.2017, str. 43/2.
 Załącznik – Tekst załącznika
 Dane zamieszczane we wnioskach
 Sekcja 1
-Tabela wymogów dla danych Lp. 1/9 2/10 3/11 4/12 5/13 6/14 7/15 8/16 9/18 Nazwa Grupa 1 – Informacje o wniosku/decyzji 1/1 Kod rodzaju wniosku/ decyzji A A A A A A A A A 1/2 Podpis/ uwierzytelnienie A A A A A A A A A 1/3 Rodzaj wniosku A A A A A A A A A 1/6 Numer referencyjny decyzji A[2] A[2] A[21 A[21 A[21 A[21 A[21 A[21 1/7 Organ celny podejmujący decyzję A A A A A A A A A Grupa 2 – Odniesienia do dokumentów, świadectw i pozwoleń 2/4 Załączone dokumenty A A A A A A A A A 2/5 Numer identyfikacyjny miejsca składowego A[2] Grupa 3 – Strony 3/1 Wnioskodawca/ posiadacz pozwolenia lub decyzji A[4] A[4] A[4] A[4] A[4] A[4] A[4] A[4] A[4] 3/2 Identyfikacja wnioskodawcy/ posiadacza pozwolenia lub decyzji A A A A A A A A A 3/3 Przedstawiciel A[4] A[4] A[4] A[4] A[4] A[4] A[4] A[4] 3/4 Identyfikacja przedstawiciela A A A A A A A A 3/5 Imię i nazwisko oraz dane kontaktowe osoby odpowiedzialnej za sprawy celne A[5] A[5] A[5] A[5] A[5] A[5] A[5] 3/6 Osoba kontaktowa odpowiedzialna za wniosek A A A A A A A 3/7 Osoba kierująca przedsiębiorstwem wnioskodawcy lub nadzorująca zarządzanie nim A[5] A[5] A[5] A[5] A[5] A[5] A[5] Grupa 4 – Daty, godziny, okresy i miejsca 4/1 Miejsce A[7] A[7] A[7] A[7] A[7] A[7] A[7] A[7] A[7] 4/2 Data A A A A A A A A A 4/3 Miejsce, w którym prowadzone są główne księgi rachunkowe na potrzeby celne lub w którym są one dostępne A[5] A[5] A[5] A[5] A[5] A[5] A[5] 4/4 Miejsce prowadzenia ewidencji A A A A A A A 4/6 [Wnioskowana] Data rozpoczęcia ważności decyzji C C C C C C C C 4/8 Lokalizacja towarów A A A A A A 4/12 Urząd celny zabezpieczenia A 4/14 Urząd celny (urzędy celne) przeznaczenia A 4/15 Urząd celny (urzędy celne) wyjścia A Grupa 5 – Identyfikacja towarów 5/2 Opis towarów A 5/3 Ilość towarów A Grupa 6 – Warunki 6/1 Zakazy i ograniczenia A Grupa 7 – Działania i procedury 7/4 Liczba operacji A A A A A A Grupa 8 – Pozostałe 8/1 Rodzaj głównych ksiąg rachunkowych na potrzeby celne A A A A A A A 8/2 Rodzaj ewidencji A A A A A A A 8/3 Dostęp do danych A A A A A A A 8/5 Dodatkowe informacje C C C C C C C C A 8/10 Szczegóły dotyczące miejsc składowych A 8/12 Zgoda na publikację w wykazie posiadaczy pozwoleń A A A A A A A Grupa 9 – Dodatkowe VII/a Przedstawicielstwo pośrednie A VII/b Stosowanie uproszczenia poza godzinami pracy urzędu celno-skarbowego A A A A A A
+Tabela wymogów dla danych
+Lp. 1/9 2/10 3/11 4/12 5/13 6/14 7/15 8/16 9/18 Nazwa Grupa 1 – Informacje o wniosku/decyzji 1/1 Kod rodzaju wniosku/ decyzji A A A A A A A A A 1/2 Podpis/ uwierzytelnienie A A A A A A A A A 1/3 Rodzaj wniosku A A A A A A A A A 1/6 Numer referencyjny decyzji A
+[2] A
+[2] A
+[21 A
+[21 A
+[21 A
+[21 A
+[21 A
+[21 1/7 Organ celny podejmujący decyzję A A A A A A A A A Grupa 2 – Odniesienia do dokumentów, świadectw i pozwoleń 2/4 Załączone dokumenty A A A A A A A A A 2/5 Numer identyfikacyjny miejsca składowego A
+[2] Grupa 3 – Strony 3/1 Wnioskodawca/ posiadacz pozwolenia lub decyzji A
+[4] A
+[4] A
+[4] A
+[4] A
+[4] A
+[4] A
+[4] A
+[4] A
+[4] 3/2 Identyfikacja wnioskodawcy/ posiadacza pozwolenia lub decyzji A A A A A A A A A 3/3 Przedstawiciel A
+[4] A
+[4] A
+[4] A
+[4] A
+[4] A
+[4] A
+[4] A
+[4] 3/4 Identyfikacja przedstawiciela A A A A A A A A 3/5 Imię i nazwisko oraz dane kontaktowe osoby odpowiedzialnej za sprawy celne A
+[5] A
+[5] A
+[5] A
+[5] A
+[5] A
+[5] A
+[5] 3/6 Osoba kontaktowa odpowiedzialna za wniosek A A A A A A A 3/7 Osoba kierująca przedsiębiorstwem wnioskodawcy lub nadzorująca zarządzanie nim A
+[5] A
+[5] A
+[5] A
+[5] A
+[5] A
+[5] A
+[5] Grupa 4 – Daty, godziny, okresy i miejsca 4/1 Miejsce A
+[7] A
+[7] A
+[7] A
+[7] A
+[7] A
+[7] A
+[7] A
+[7] A
+[7] 4/2 Data A A A A A A A A A 4/3 Miejsce, w którym prowadzone są główne księgi rachunkowe na potrzeby celne lub w którym są one dostępne A
+[5] A
+[5] A
+[5] A
+[5] A
+[5] A
+[5] A
+[5] 4/4 Miejsce prowadzenia ewidencji A A A A A A A 4/6 [Wnioskowana] Data rozpoczęcia ważności decyzji C C C C C C C C 4/8 Lokalizacja towarów A A A A A A 4/12 Urząd celny zabezpieczenia A 4/14 Urząd celny (urzędy celne) przeznaczenia A 4/15 Urząd celny (urzędy celne) wyjścia A Grupa 5 – Identyfikacja towarów 5/2 Opis towarów A 5/3 Ilość towarów A Grupa 6 – Warunki 6/1 Zakazy i ograniczenia A Grupa 7 – Działania i procedury 7/4 Liczba operacji A A A A A A Grupa 8 – Pozostałe 8/1 Rodzaj głównych ksiąg rachunkowych na potrzeby celne A A A A A A A 8/2 Rodzaj ewidencji A A A A A A A 8/3 Dostęp do danych A A A A A A A 8/5 Dodatkowe informacje C C C C C C C C A 8/10 Szczegóły dotyczące miejsc składowych A 8/12 Zgoda na publikację w wykazie posiadaczy pozwoleń A A A A A A A Grupa 9 – Dodatkowe VII/a Przedstawicielstwo pośrednie A VII/b Stosowanie uproszczenia poza godzinami pracy urzędu celno-skarbowego A A A A A A
 Sekcja 2
 Wyjaśnienia do tabeli wymogów dla danych
 A.
@@ -83,7 +137,8 @@ Ogólne wyjaśnienia
 1.
 Wymogi dotyczące danych określone w niniejszym załączniku stosuje się do wniosków sporządzanych przy zastosowaniu techniki elektronicznego przetwarzania danych, jak również do wniosków w formie papierowej.
 2.
-Numery kolumn oznaczają odpowiednio rodzaj wniosku: Lp. Kod wniosku Rodzaj wniosku 1/9 CIM Wniosek o udzielenie pozwolenia na korzystanie z procedury tranzytu w formie papierowej (na liście przewozowym CIM) dla towarów przewożonych koleją 2/10 TPM Wniosek o udzielenie pozwolenia na korzystanie z procedury tranzytu unijnego w oparciu o zgłoszenie w formie papierowej dla towarów przewożonych drogą morską 3/11 TPP Wniosek o udzielenie pozwolenia na korzystanie z procedury tranzytu unijnego w oparciu o zgłoszenie w formie papierowej dla towarów przewożonych drogą powietrzną 4/12 TEM Wniosek o udzielenie pozwolenia na korzystanie z procedury tranzytu unijnego w oparciu o zgłoszenie na manifeście elektronicznym dla towarów przewożonych drogą morską 5/13 TEP Wniosek o udzielenie pozwolenia na korzystanie z procedury tranzytu unijnego w oparciu o zgłoszenie na manifeście elektronicznym dla towarów przewożonych drogą powietrzną 6/14 TNC Wniosek o udzielenie pozwolenia na uzyskanie statusu upoważnionego nadawcy w procedurze tranzytu unijnego w formie papierowej (na liście przewozowym CIM) dla towarów przewożonych koleją 7/15 TOC Wniosek o udzielenie pozwolenia na uzyskanie statusu upoważnionego odbiorcy w procedurze tranzytu unijnego w formie papierowej (na liście przewozowym CIM) dla towarów przewożonych koleją 8/16 DMU Wniosek o udzielenie pozwolenia na uznanie miejsca do przedstawienia towarów organom celnym, w tym czasowego składowania 9/18 WOZ Wniosek o udzielenie pozwolenia na zrzeczenie się towaru na rzecz Skarbu Państwa w formie zgody organu celnego
+Numery kolumn oznaczają odpowiednio rodzaj wniosku:
+Lp. Kod wniosku Rodzaj wniosku 1/9 CIM Wniosek o udzielenie pozwolenia na korzystanie z procedury tranzytu w formie papierowej (na liście przewozowym CIM) dla towarów przewożonych koleją 2/10 TPM Wniosek o udzielenie pozwolenia na korzystanie z procedury tranzytu unijnego w oparciu o zgłoszenie w formie papierowej dla towarów przewożonych drogą morską 3/11 TPP Wniosek o udzielenie pozwolenia na korzystanie z procedury tranzytu unijnego w oparciu o zgłoszenie w formie papierowej dla towarów przewożonych drogą powietrzną 4/12 TEM Wniosek o udzielenie pozwolenia na korzystanie z procedury tranzytu unijnego w oparciu o zgłoszenie na manifeście elektronicznym dla towarów przewożonych drogą morską 5/13 TEP Wniosek o udzielenie pozwolenia na korzystanie z procedury tranzytu unijnego w oparciu o zgłoszenie na manifeście elektronicznym dla towarów przewożonych drogą powietrzną 6/14 TNC Wniosek o udzielenie pozwolenia na uzyskanie statusu upoważnionego nadawcy w procedurze tranzytu unijnego w formie papierowej (na liście przewozowym CIM) dla towarów przewożonych koleją 7/15 TOC Wniosek o udzielenie pozwolenia na uzyskanie statusu upoważnionego odbiorcy w procedurze tranzytu unijnego w formie papierowej (na liście przewozowym CIM) dla towarów przewożonych koleją 8/16 DMU Wniosek o udzielenie pozwolenia na uznanie miejsca do przedstawienia towarów organom celnym, w tym czasowego składowania 9/18 WOZ Wniosek o udzielenie pozwolenia na zrzeczenie się towaru na rzecz Skarbu Państwa w formie zgody organu celnego
 3.
 Symbol „A” w polu kolumny oznacza, że informacja jest wymagana dla wniosku.
 4.

@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 lipca 2014 r. o petycjach (Dz. U. z 2017 r. poz. 1123), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 kwietnia 2018 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 15 i art. 19 ustawy z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 15 i art. 19 ustawy z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130), który stanowi: „
 
 **Art. 15.** Przepisy ustaw, o których mowa w art. 1, art. 2, art. 3, w brzmieniu nadanym niniejszą ustawą, przepisy art. 383 § 2a, art. 383a, art. 384 § 1, art. 492 § 2a, art. 492a, art. 493 § 1 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, oraz przepisy ustawy, o której mowa w art. 6, w brzmieniu nadanym niniejszą ustawą stosuje się do kadencji organów jednostek samorządu terytorialnego następujących po kadencji, w czasie której niniejsza ustawa weszła w życie. ” „
 
@@ -102,9 +101,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 9.**
 
-1. Petycja złożona do Sejmu lub Senatu jest rozpatrywana przez te organy, chyba że w Regulaminie Sejmu lub Regulaminie Senatu zostanie wskazany organ wewnętrzny właściwy w tym zakresie.
-
-2. Petycja złożona do organu stanowiącego jednostki samorządu terytorialnego jest rozpatrywana przez ten organ.
+1. Petycja złożona do Sejmu lub Senatu jest rozpatrywana przez te organy, chyba że w Regulaminie Sejmu lub Regulaminie Senatu zostanie wskazany organ wewnętrzny właściwy w tym zakresie. 2W brzmieniu ustalonym przez art. 6 ustawy z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130), która weszła w życie z dniem 31 stycznia 2018 r.. Petycja złożona do organu stanowiącego jednostki samorządu terytorialnego jest rozpatrywana przez ten organ.
 
 **Art. 10.**
 
@@ -140,5 +137,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 16.** (pominięty)
 
-**Art. 17.** Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
+**Art. 17.** Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszeniaUstawa została ogłoszona w dniu 5 września 2014 r.. 1) W brzmieniu ustalonym przez art. 6 ustawy z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130), która weszła w życie z dniem 31 stycznia 2018 r. 2) Ustawa została ogłoszona w dniu 5 września 2014 r.
 

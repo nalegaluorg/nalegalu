@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-29 |
 | Data wydania | 2005-09-19 |
-| Wejście w życie | 2005-10-04 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051791487) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1487/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. Nr 64, poz. 593, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. Nr 64, poz. 593, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 99, poz. 1001 i Nr 273, poz. 2703 oraz z 2005 r. Nr 64, poz. 565, Nr 94, poz. 788, Nr 164, poz. 1366 i Nr 175, poz. 1462.) wprowadza się następujące zmiany:
 
 - **1)** w art. 22 dodaje się pkt 8a w brzmieniu: „
-- **8a)** nadzór pedagogiczny w odniesieniu do wychowawców i innych pracowników pedagogicznych zatrudnionych w placówkach opiekuńczo-wychowawczych i ośrodkach adopcyjno-opiekuńczych na podstawie przepisów ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2003 r. Nr 118, poz. 1112, z późn. zm.); ” ;
+- **8a)** nadzór pedagogiczny w odniesieniu do wychowawców i innych pracowników pedagogicznych zatrudnionych w placówkach opiekuńczo-wychowawczych i ośrodkach adopcyjno-opiekuńczych na podstawie przepisów ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2003 r. Nr 118, poz. 1112, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 137, poz. 1304, Nr 203, poz. 1966, Nr 213, poz. 2081 i Nr 228, poz. 2258, z 2004 r. Nr 96, poz. 959 i Nr 179, poz. 1845 oraz z 2005 r. Nr 10, poz. 71 i Nr 167, poz. 1397.); ” ;
 - **2)** po art. 25 dodaje się art. 25a w brzmieniu: „
 
 **Art. 25a.**
@@ -118,7 +117,7 @@ source: "eli-html"
 
 1. Jednostki samorządu terytorialnego mogą otrzymywać dotacje celowe z budżetu państwa na dofinansowanie zadań własnych z zakresu pomocy społecznej, przy czym wysokość dotacji nie może przekroczyć 50% kosztów realizacji zadania, z zastrzeżeniem ust. 2.
 
-2. Jeżeli środki przeznaczone na dotację, o której mowa w ust. 1, pochodzą z programów rządowych, programów resortowych lub z pożyczek, o których mowa w art. 3 ust. 1 pkt 3 lit. d ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. Nr 15, poz. 148, z późn. zm.), wysokość dotacji może przekroczyć 50% kosztów realizacji zadania. ” ;
+2. Jeżeli środki przeznaczone na dotację, o której mowa w ust. 1, pochodzą z programów rządowych, programów resortowych lub z pożyczek, o których mowa w art. 3 ust. 1 pkt 3 lit. d ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. Nr 15, poz. 148, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851, z 2004 r. Nr 19, poz. 177, Nr 93, poz. 890, Nr 121, poz. 1264, Nr 123, poz. 1291, Nr 210, poz. 2135 i Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114 i Nr 64, poz. 565.), wysokość dotacji może przekroczyć 50% kosztów realizacji zadania. ” ;
 
 - **11)** w art. 116 ust. 1 otrzymuje brzmienie: „
 
@@ -162,7 +161,7 @@ source: "eli-html"
 
 5. Osoby zatrudnione przed dniem wejścia w życie ustawy na stanowisku aspiranta pracy socjalnej, które w okresie 5,5 roku od dnia wejścia w życie ustawy ukończą studia wyższe magisterskie na kierunkach: pedagogika, psychologia, politologia lub socjologia, mogą wykonywać zawód pracownika socjalnego. ” .
 
-**Art. 2.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2003 r. Nr 118, poz. 1112, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2003 r. Nr 118, poz. 1112, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 137, poz. 1304, Nr 203, poz. 1966, Nr 213, poz. 2081 i Nr 228, poz. 2258, z 2004 r. Nr 96, poz. 959 i Nr 179, poz. 1845 oraz z 2005 r. Nr 10, poz. 71 i Nr 167, poz. 1397.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w ust. 1 dodaje się pkt 4 w brzmieniu: „
 - **4)** publicznych kolegiach pracowników służb społecznych. ” ;
@@ -174,6 +173,6 @@ source: "eli-html"
 **Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 5 oraz art. 3, które wchodzą w życie z dniem ogłoszenia, z mocą od dnia 1 maja 2005 r.;
-- **2)** art. 1 pkt 12, który wchodzi w życie z dniem 1 stycznia 2006 r.
+- **2)** art. 1 pkt 12, który wchodzi w życie z dniem 1 stycznia 2006 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 99, poz. 1001 i Nr 273, poz. 2703 oraz z 2005 r. Nr 64, poz. 565, Nr 94, poz. 788, Nr 164, poz. 1366 i Nr 175, poz. 1462. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 137, poz. 1304, Nr 203, poz. 1966, Nr 213, poz. 2081 i Nr 228, poz. 2258, z 2004 r. Nr 96, poz. 959 i Nr 179, poz. 1845 oraz z 2005 r. Nr 10, poz. 71 i Nr 167, poz. 1397. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851, z 2004 r. Nr 19, poz. 177, Nr 93, poz. 890, Nr 121, poz. 1264, Nr 123, poz. 1291, Nr 210, poz. 2135 i Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114 i Nr 64, poz. 565. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 137, poz. 1304, Nr 203, poz. 1966, Nr 213, poz. 2081 i Nr 228, poz. 2258, z 2004 r. Nr 96, poz. 959 i Nr 179, poz. 1845 oraz z 2005 r. Nr 10, poz. 71 i Nr 167, poz. 1397.
 
 

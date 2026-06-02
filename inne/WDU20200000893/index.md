@@ -37,23 +37,19 @@ rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 23 stycznia
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 11 września 2014 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom (Dz. U. poz. 1228), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 11 września 2014 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom (Dz. U. poz. 1228), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 9 października 2014 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 9 października 2014 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 23 stycznia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom (Dz. U. poz. 218), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 23 stycznia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom (Dz. U. poz. 218), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r.
-” .
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 listopada 2003 r. w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom
+Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r. ” .
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 listopada 2003 r. w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantomMinister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 Na podstawie art. 87 ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2020 r. poz. 360) zarządza się, co następuje:
 § 1.
-1.
+1W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 11 września 2014 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom (Dz. U. poz. 1228), które weszło w życie z dniem 9 października 2014 r.; ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 23 stycznia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom (Dz. U. poz. 218), które weszło w życie z dniem 27 stycznia 2018 r..
 Wyróżnień, o których mowa w art. 87 ust. 1 pkt 1 i 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, zwanej dalej „ustawą”, udzielają policjantom Komendant Główny Policji, Komendant Centralnego Biura Śledczego Policji, Komendant Biura Spraw Wewnętrznych Policji, komendanci wojewódzcy (Komendant Stołeczny) Policji, komendanci powiatowi (miejscy, rejonowi) Policji oraz komendanci szkół policyjnych.
-2.
+2W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 11 września 2014 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom (Dz. U. poz. 1228), które weszło w życie z dniem 9 października 2014 r.; ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 23 stycznia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom (Dz. U. poz. 218), które weszło w życie z dniem 27 stycznia 2018 r..
 Wyróżnienia, o którym mowa w art. 87 ust. 1 pkt 4 ustawy, udzielają policjantom Komendant Główny Policji, Komendant Centralnego Biura Śledczego Policji, Komendant Biura Spraw Wewnętrznych Policji, komendanci wojewódzcy (Komendant Stołeczny) Policji, z wyjątkiem przypadku, o którym mowa w art. 48 ust. 3 ustawy.
 3.
 Właściwość przełożonych oraz postępowanie w sprawach udzielenia wyróżnienia, o którym mowa w art. 87 ust. 1 pkt 3 ustawy, określają przepisy o wzorach odznak policyjnych oraz szczegółowych zasadach i trybie ich nadawania policjantom.
@@ -80,6 +76,5 @@ Przełożony udzielający wyróżnienia może podać do wiadomości policjantom 
 § 4.
 Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 19 grudnia 1997 r. w sprawie szczegółowych zasad i trybu udzielania wyróżnień oraz przeprowadzania postępowania dyscyplinarnego w stosunku do policjantów (Dz. U. z 1998 r. poz. 14 oraz z 2002 r. poz. 1457).
 § 5.
-Rozporządzenie wchodzi w życie z dniem 29 listopada 2003 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 11 września 2014 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom (Dz. U. poz. 1228), które weszło w życie z dniem 9 października 2014 r.; ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 23 stycznia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom (Dz. U. poz. 218), które weszło w życie z dniem 27 stycznia 2018 r.
+Rozporządzenie wchodzi w życie z dniem 29 listopada 2003 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 11 września 2014 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom (Dz. U. poz. 1228), które weszło w życie z dniem 9 października 2014 r.; ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 23 stycznia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom (Dz. U. poz. 218), które weszło w życie z dniem 27 stycznia 2018 r.
 

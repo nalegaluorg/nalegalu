@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 22 listopada 2016 r. w sprawie tras przewozu towarów wprowadzanych na obszar celny Unii Europejskiej i wyprowadzenia towarów poza ten obszar oraz sposobu poruszania się i przemieszczania towarów po tych trasach
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 22 listopada 2016 r. w sprawie tras przewozu towarów wprowadzanych na obszar celny Unii Europejskiej i wyprowadzenia towarów poza ten obszar oraz sposobu poruszania się i przemieszczania towarów po tych trasach Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-22 |
 | Data wydania | 2016-11-24 |
-| Wejście w życie | 2016-11-22 |
 | Ostatnia zmiana | 2025-10-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001890) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1890/text.pdf) |
 
@@ -207,6 +206,5 @@ potrzeby udzielenia pomocy lub zabezpieczenia terenu.
 § 9.
 W przypadkach, o których mowa w § 7 i § 8, osoba obowiązana informuje bez zbędnej zwłoki organ celny o zmianie wyznaczonej trasy lub zatrzymaniu środka transportu poruszającego się po wyznaczonej trasie, wskazując przyczyny uzasadniające zmianę wyznaczonej trasy lub zatrzymania się środka transportu.
 § 10.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 26 kwietnia 2004 r. w sprawie wyznaczenia dróg celnych oraz sposobu poruszania się i przemieszczania towarów po tych drogach (Dz. U. z 2013 r. poz. 1182), które utraciło moc z dniem 21 listopada 2016 r. zgodnie z art. 39 ust. 1 ustawy z dnia 22 czerwca 2016 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw (Dz. U. poz. 1228).
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 26 kwietnia 2004 r. w sprawie wyznaczenia dróg celnych oraz sposobu poruszania się i przemieszczania towarów po tych drogach (Dz. U. z 2013 r. poz. 1182), które utraciło moc z dniem 21 listopada 2016 r. zgodnie z art. 39 ust. 1 ustawy z dnia 22 czerwca 2016 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw (Dz. U. poz. 1228). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 26 kwietnia 2004 r. w sprawie wyznaczenia dróg celnych oraz sposobu poruszania się i przemieszczania towarów po tych drogach (Dz. U. z 2013 r. poz. 1182), które utraciło moc z dniem 21 listopada 2016 r. zgodnie z art. 39 ust. 1 ustawy z dnia 22 czerwca 2016 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw (Dz. U. poz. 1228).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 maja 2018 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz niektórych innych ustaw
+# Ustawa z dnia 10 maja 2018 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, ustawę z dnia 27 czerwca 2003 r. o rencie socjalnej, ustawę z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, ustawę z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci oraz ustawę z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem”.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-10 |
 | Data wydania | 2018-06-05 |
-| Wejście w życie | 2018-06-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001076) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1076/text.pdf) |
 
@@ -110,7 +109,7 @@ source: "eli-html"
 9. Przy obliczaniu kwoty obniżenia bierze się pod uwagę wyłącznie zatrudnienie i wynagrodzenia pracowników zatrudnionych na podstawie umowy o pracę lub spółdzielczej umowy o pracę za miesiąc, do którego zaliczono przychody, o których mowa w ust. 8. Przy obliczaniu stanu zatrudnienia i wskaźnika, o których mowa w ust. 1, bierze się pod uwagę zatrudnienie pracowników za miesiąc poprzedzający miesiąc wystawienia faktury dokumentującej dany zakup. Do ustalania stanów zatrudnienia pracowników i wskaźników, o których mowa w ust. 1 i 5–7, stosuje się wyłączenia ze stanów zatrudnienia określone w art. 21 ust. 5. ” , w ust. 10 pkt 1 otrzymuje brzmienie: „
 
 - **d)**
-- **1)** wystawia informację o kwocie obniżenia niezwłocznie po: otrzymaniu odwołania oświadczenia, o którym mowa w ust. 1a pkt 3, nie później niż do 15. dnia miesiąca następującego po miesiącu, w którym przypadał termin płatności za zakup, oraz terminowym uregulowaniu należności, terminowym uregulowaniu należności w przypadku nieotrzymania oświadczenia, o którym mowa w ust. 1a pkt 2, do 15. dnia miesiąca następującego po miesiącu, w którym przypadał termin płatności za zakup, lub w przypadku niewykonania obowiązku określonego w ust. 1a jednak nie później niż do ostatniego dnia miesiąca następującego po miesiącu, w którym przypadał termin płatności za zakup; ” , po ust. 10 dodaje się ust. 10a w brzmieniu: „
+- **1)** wystawia informację o kwocie obniżenia niezwłocznie po: otrzymaniu odwołania oświadczenia, o którym mowa w ust. 1a pkt 3, nie później niż do 15. dnia miesiąca następującego po miesiącu, w którym przypadał termin płatności za zakup, oraz terminowym uregulowaniu należności, terminowym uregulowaniu należności w przypadku nieotrzymania oświadczenia, o którym mowa w ust. 1a pkt 2, do 15. dnia miesiąca następującego po miesiącu, w którym przypadał termin płatności za zakup, lub w przypadku niewykonania obowiązku określonego w ust. 1a – jednak nie później niż do ostatniego dnia miesiąca następującego po miesiącu, w którym przypadał termin płatności za zakup; ” , po ust. 10 dodaje się ust. 10a w brzmieniu: „
     - **a)**
     - **b)**
     - **e)**
@@ -118,7 +117,7 @@ source: "eli-html"
 10a. Przepisy ust. 1–10 oraz art. 22a i art. 22b stosuje się również do sprzedających lub nabywców będących:
 
 - **1)** jednostkami organizacyjnymi, o których mowa w art. 2 pkt 1 ustawy z dnia 5 września 2016 r. o szczególnych zasadach rozliczeń podatku od towarów i usług oraz dokonywania zwrotu środków publicznych przeznaczonych na realizację projektów finansowanych z udziałem środków pochodzących z budżetu Unii Europejskiej lub od państw członkowskich Europejskiego Porozumienia o Wolnym Handlu przez jednostki samorządu terytorialnego (Dz. U. z 2018 r. poz. 280),
-- **2)** wydzielonymi jednostkami organizacyjnymi wchodzącymi w skład innych podmiotów w przypadku ujawnienia danych tych jednostek organizacyjnych na fakturze, o której mowa w ust. 2 pkt 1. ” , uchyla się ust. 11;
+- **2)** wydzielonymi jednostkami organizacyjnymi wchodzącymi w skład innych podmiotów – w przypadku ujawnienia danych tych jednostek organizacyjnych na fakturze, o której mowa w ust. 2 pkt 1. ” , uchyla się ust. 11;
     - **f)**
 
 - **10)** w art. 22b w ust. 1 pkt 4 otrzymuje brzmienie: „
@@ -187,7 +186,7 @@ source: "eli-html"
 
 - **1)** pracownika-małżonka albo pracownika-rodzica dziecka w fazie prenatalnej, w przypadku ciąży powikłanej,
 - **2)** pracownika-rodzica dziecka posiadającego zaświadczenie, o którym mowa w art. 4 ust. 3 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem” (Dz. U. poz. 1860),
-- **3)** pracownika-rodzica: dziecka legitymującego się orzeczeniem o niepełnosprawności albo orzeczeniem o umiarkowanym lub znacznym stopniu niepełnosprawności określonym w przepisach o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz dziecka posiadającego odpowiednio opinię o potrzebie wczesnego wspomagania rozwoju dziecka, orzeczenie o potrzebie kształcenia specjalnego lub orzeczenie o potrzebie zajęć rewalidacyjno-wychowawczych, o których mowa w przepisach ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996 i 1000) o wykonywanie pracy w systemie czasu pracy, o którym mowa w art. 139, lub rozkładzie czasu pracy, o którym mowa w art. 1401albo w art. 142, złożony w postaci papierowej lub elektronicznej.
+- **3)** pracownika-rodzica: dziecka legitymującego się orzeczeniem o niepełnosprawności albo orzeczeniem o umiarkowanym lub znacznym stopniu niepełnosprawności określonym w przepisach o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz dziecka posiadającego odpowiednio opinię o potrzebie wczesnego wspomagania rozwoju dziecka, orzeczenie o potrzebie kształcenia specjalnego lub orzeczenie o potrzebie zajęć rewalidacyjno-wychowawczych, o których mowa w przepisach ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996 i 1000) – o wykonywanie pracy w systemie czasu pracy, o którym mowa w art. 139, lub rozkładzie czasu pracy, o którym mowa w art. 1401albo w art. 142, złożony w postaci papierowej lub elektronicznej.
     - **a)**
     - **b)**
 
@@ -195,9 +194,9 @@ source: "eli-html"
 
 § 3. Przepisy § 1 i 2 stosuje się do pracowników, o których mowa w § 1 pkt 2 i 3, również po ukończeniu przez dziecko 18 roku życia. ” .
 
-**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 200, z późn. zm.) w art. 26 ust. 7e otrzymuje brzmienie: „ 7e. Przepisy ust. 7a-7d i ust. 7g stosuje się odpowiednio do podatników, na których utrzymaniu pozostają następujące osoby niepełnosprawne: współmałżonek, dzieci własne i przysposobione, dzieci obce przyjęte na wychowanie, pasierbowie, rodzice, rodzice współmałżonka, rodzeństwo, ojczym, macocha, zięciowie i synowe, jeżeli w roku podatkowym dochody tych osób niepełnosprawnych nie przekraczają dwunastokrotności kwoty renty socjalnej określonej w ustawie z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. z 2013 r. poz. 982 i 1650, z 2014 r. poz. 1175 i 1682, z 2017 r. poz. 1543 oraz z 2018 r. poz. 933), w wysokości obowiązującej w grudniu roku podatkowego. Do dochodów, o których mowa w zdaniu pierwszym, nie zalicza się alimentów na rzecz dzieci, o których mowa w art. 6 ust. 4, oraz zasiłku pielęgnacyjnego. ” .
+**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 200, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2494 oraz z 2018 r. poz. 106, 138, 317, 398, 650, 685, 858 i 912.) w art. 26 ust. 7e otrzymuje brzmienie: „ 7e. Przepisy ust. 7a-7d i ust. 7g stosuje się odpowiednio do podatników, na których utrzymaniu pozostają następujące osoby niepełnosprawne: współmałżonek, dzieci własne i przysposobione, dzieci obce przyjęte na wychowanie, pasierbowie, rodzice, rodzice współmałżonka, rodzeństwo, ojczym, macocha, zięciowie i synowe, jeżeli w roku podatkowym dochody tych osób niepełnosprawnych nie przekraczają dwunastokrotności kwoty renty socjalnej określonej w ustawie z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. z 2013 r. poz. 982 i 1650, z 2014 r. poz. 1175 i 1682, z 2017 r. poz. 1543 oraz z 2018 r. poz. 933), w wysokości obowiązującej w grudniu roku podatkowego. Do dochodów, o których mowa w zdaniu pierwszym, nie zalicza się alimentów na rzecz dzieci, o których mowa w art. 6 ust. 4, oraz zasiłku pielęgnacyjnego. ” .
 
-**Art. 4.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778, z późn. zm.) po art. 79a dodaje się art. 79b w brzmieniu: „
+**Art. 4.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730 i 771.) po art. 79a dodaje się art. 79b w brzmieniu: „
 
 **Art. 79b.**
 
@@ -205,7 +204,7 @@ source: "eli-html"
 
 2. W przypadku uprawomocnienia się postanowienia komornika sądowego albo organu egzekucyjnego w rozumieniu ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji o nałożeniu na Zakład grzywny, Prezes Zakładu w terminie 30 dni od dnia uprawomocnienia przeprowadza postępowanie wyjaśniające w celu ustalenia podstaw odpowiedzialności pracownika lub kierownika jednostki, z którego działaniem lub zaniechaniem związane było wymierzenie grzywny. ” .
 
-**Art. 5.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2017 r. poz. 1383, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2017 r. poz. 1383, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1386 i 2120 oraz z 2018 r. poz. 138, 357, 730 i 912.) wprowadza się następujące zmiany:
 
 - **1)** w art. 94 w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 - **3)** obowiązujące od terminu waloryzacji kwoty emerytur i rent wolne od potrąceń i egzekucji, obliczone zgodnie z art. 141 ust. 1. ” ;
@@ -294,6 +293,6 @@ source: "eli-html"
 **Art. 23.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
 
 - **1)** art. 5 i art. 7, które wchodzą w życie z dniem 1 lipca 2018 r.;
-- **2)** art. 1 pkt 8 lit. a oraz pkt 9 i 10, które wchodzą w życie z dniem 1 października 2018 r.
+- **2)** art. 1 pkt 8 lit. a oraz pkt 9 i 10, które wchodzą w życie z dniem 1 października 2018 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, ustawę z dnia 27 czerwca 2003 r. o rencie socjalnej, ustawę z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, ustawę z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci oraz ustawę z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem”. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2494 oraz z 2018 r. poz. 106, 138, 317, 398, 650, 685, 858 i 912. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730 i 771. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1386 i 2120 oraz z 2018 r. poz. 138, 357, 730 i 912.
 
 

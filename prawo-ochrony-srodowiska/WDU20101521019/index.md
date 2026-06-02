@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 lipca 2010 r. o zmianie ustawy – Prawo ochrony środowiska
+# Ustawa z dnia 22 lipca 2010 r. o zmianie ustawy – Prawo ochrony środowiska Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 96/82/WE z dnia 9 grudnia 1996 r. w sprawie kontroli niebezpieczeństwa poważnych awarii związanych z substancjami niebezpiecznymi (Dz. Urz. WE L 10 z 14.01.1997, str. 13 i Dz. Urz. UE L 345 z 31.12.2003, str. 97; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 410 i rozdz. 5, t. 4, str. 398).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-07-22 |
 | Data wydania | 2010-08-20 |
-| Wejście w życie | 2010-09-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101521019) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1019/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804 i Nr 152, poz. 1018.) wprowadza się następujące zmiany:
 
 - **1)** po art. 243 dodaje się art. 243a w brzmieniu: „
 
@@ -112,5 +111,5 @@ source: "eli-html"
 
 **Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 253 ust. 3 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 253 ust. 3 ustawy zmienianej w art. 1.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 96/82/WE z dnia 9 grudnia 1996 r. w sprawie kontroli niebezpieczeństwa poważnych awarii związanych z substancjami niebezpiecznymi (Dz. Urz. WE L 10 z 14.01.1997, str. 13 i Dz. Urz. UE L 345 z 31.12.2003, str. 97; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 410 i rozdz. 5, t. 4, str. 398). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804 i Nr 152, poz. 1018.
 

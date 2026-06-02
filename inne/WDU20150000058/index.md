@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-30 |
 | Data wydania | 2015-01-14 |
-| Wejście w życie | 2015-01-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000058) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/58/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 121 ust. 6 pkt 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2013 r. poz. 1393 oraz z 2014 r. poz. 768) zarządza się, co następuje:
 § 1.
-W zakresie nieuregulowanym w rozporządzeniu wykonawczym Komisji (UE) nr 923/2012 z dnia 26 września 2012 r. ustanawiającym wspólne zasady w odniesieniu do przepisów lotniczych i operacyjnych dotyczących służb i procedur żeglugi powietrznej oraz zmieniającym rozporządzenie wykonawcze (WE) nr 1035/2011 oraz rozporządzenia (WE) nr 1265/2007, (WE) nr 1794/2006, (WE) nr 730/2006, (WE) nr 1033/2006 i (UE) nr 255/2010 (Dz. Urz. UE L 281 z 13.10.2012, str. 1) warunki i sposób działania służb ruchu lotniczego określają normy i zalecane metody postępowania określone w Załączniku 11 „Służby ruchu lotniczego” do Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. Nr 35, poz. 212 i 214, z późn. zm.), ogłoszonym w załączniku do obwieszczenia nr 12 Prezesa Urzędu Lotnictwa Cywilnego z dnia 11 czerwca 2014 r. w sprawie ogłoszenia tekstu Załącznika 11 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. Urz. ULC poz. 47), zwanym dalej „Załącznikiem 11”, zawarte w:
+W zakresie nieuregulowanym w rozporządzeniu wykonawczym Komisji (UE) nr 923/2012 z dnia 26 września 2012 r. ustanawiającym wspólne zasady w odniesieniu do przepisów lotniczych i operacyjnych dotyczących służb i procedur żeglugi powietrznej oraz zmieniającym rozporządzenie wykonawcze (WE) nr 1035/2011 oraz rozporządzenia (WE) nr 1265/2007, (WE) nr 1794/2006, (WE) nr 730/2006, (WE) nr 1033/2006 i (UE) nr 255/2010 (Dz. Urz. UE L 281 z 13.10.2012, str. 1) warunki i sposób działania służb ruchu lotniczego określają normy i zalecane metody postępowania określone w Załączniku 11 „Służby ruchu lotniczego” do Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. Nr 35, poz. 212 i 214, z późn. zm.Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 1963 r. Nr 24, poz. 137 i 138, z 1969 r. Nr 27, poz. 210 i 211, z 1976 r. Nr 21, poz. 130 i 131, Nr 32, poz. 188 i 189 i Nr 39, poz. 227 i 228, z 1984 r. Nr 39, poz. 199 i 200, z 2000 r. Nr 39, poz. 446 i 447, z 2002 r. Nr 58, poz. 527 i 528, z 2003 r. Nr 78, poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371.), ogłoszonym w załączniku do obwieszczenia nr 12 Prezesa Urzędu Lotnictwa Cywilnego z dnia 11 czerwca 2014 r. w sprawie ogłoszenia tekstu Załącznika 11 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. Urz. ULC poz. 47), zwanym dalej „Załącznikiem 11”, zawarte w:
 1)
 rozdziale 1 „Definicje” dotyczące pojęć:
 a)
@@ -149,5 +148,5 @@ Kompetencje i obowiązki „władzy meteorologicznej”, o której mowa w Załą
 § 4.
 Traci moc rozporządzenie Ministra Infrastruktury z dnia 17 czerwca 2008 r. w sprawie warunków i sposobu działania służb ruchu lotniczego (Dz. U. Nr 111, poz. 709).
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 1963 r. Nr 24, poz. 137 i 138, z 1969 r. Nr 27, poz. 210 i 211, z 1976 r. Nr 21, poz. 130 i 131, Nr 32, poz. 188 i 189 i Nr 39, poz. 227 i 228, z 1984 r. Nr 39, poz. 199 i 200, z 2000 r. Nr 39, poz. 446 i 447, z 2002 r. Nr 58, poz. 527 i 528, z 2003 r. Nr 78, poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371.
 

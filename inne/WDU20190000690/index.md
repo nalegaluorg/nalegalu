@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 21 lutego 2019 r. o zmianie ustawy o transporcie drogowym
+# Ustawa z dnia 21 lutego 2019 r. o zmianie ustawy o transporcie drogowym Niniejsza ustawa służy stosowaniu rozporządzenia wykonawczego Komisji (UE) 2016/480 z dnia 1 kwietnia 2016 r. ustanawiającego wspólne zasady dotyczące połączenia krajowych rejestrów elektronicznych przedsiębiorców transportu drogowego i uchylającego rozporządzenie (UE) nr 1213/2010 (Dz. Urz. UE L 87 z 02.04.2016, str. 4 oraz Dz. Urz. UE L 206 z 09.08.2017, str. 3).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-21 |
 | Data wydania | 2019-04-12 |
-| Wejście w życie | 2019-07-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000690) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/690/text.pdf) |
 
@@ -40,9 +39,23 @@ source: "eli-html"
     - **c)**
     - **b)**
 
-- **4)** w art. 82h: w ust. 1: – po pkt 4 dodaje się pkt 4a i 4b w brzmieniu: „ 4a) numery rejestracyjne pojazdów objętych zezwoleniem na wykonywanie zawodu przewoźnika drogowego zgłoszonych w wykazie pojazdów, o którym mowa w art. 7a ust. 7; 4b) kraj rejestracji pojazdów, o których mowa w pkt 4a; ” , – po pkt 5 dodaje się pkt 5a-5c w brzmieniu: „ 5a) status licencji wspólnotowej; 5b) rodzaj licencji wspólnotowej; 5c) liczbę pojazdów zgłoszonych do licencji wspólnotowej; ” , w ust. 2: – po pkt 4 dodaje się pkt 4a-4e w brzmieniu: „ 4a) numer dokumentu zawierającego ostateczne rozstrzygnięcie w przedmiocie nałożenia sankcji; 4b) datę wydania dokumentu zawierającego ostateczne rozstrzygnięcie w przedmiocie nałożenia sankcji; 4c) okres obowiązywania nałożonej sankcji; 4d) informację o wykonaniu lub wyegzekwowaniu nałożonej sankcji; 4e) nazwę organu, który wydał dokument zawierający ostateczne rozstrzygnięcie w przedmiocie nałożenia sankcji; ” , – po pkt 7 dodaje się pkt 7a i 7b w brzmieniu: „ 7a) numer rejestracyjny pojazdu, którym dopuszczono się naruszenia; 7b) kraj rejestracji pojazdu, którym dopuszczono się naruszenia; ” , w ust. 3 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
+- **4)** w art. 82h: w ust. 1: po pkt 4 dodaje się pkt 4a i 4b w brzmieniu: „
     - **a)**
+
+- **4a)** numery rejestracyjne pojazdów objętych zezwoleniem na wykonywanie zawodu przewoźnika drogowego zgłoszonych w wykazie pojazdów, o którym mowa w art. 7a ust. 7;
+- **4b)** kraj rejestracji pojazdów, o których mowa w pkt 4a; ” , po pkt 5 dodaje się pkt 5a-5c w brzmieniu: „
+- **5a)** status licencji wspólnotowej;
+- **5b)** rodzaj licencji wspólnotowej;
+- **5c)** liczbę pojazdów zgłoszonych do licencji wspólnotowej; ” , w ust. 2: po pkt 4 dodaje się pkt 4a-4e w brzmieniu: „
     - **b)**
+
+- **4a)** numer dokumentu zawierającego ostateczne rozstrzygnięcie w przedmiocie nałożenia sankcji;
+- **4b)** datę wydania dokumentu zawierającego ostateczne rozstrzygnięcie w przedmiocie nałożenia sankcji;
+- **4c)** okres obowiązywania nałożonej sankcji;
+- **4d)** informację o wykonaniu lub wyegzekwowaniu nałożonej sankcji;
+- **4e)** nazwę organu, który wydał dokument zawierający ostateczne rozstrzygnięcie w przedmiocie nałożenia sankcji; ” , po pkt 7 dodaje się pkt 7a i 7b w brzmieniu: „
+- **7a)** numer rejestracyjny pojazdu, którym dopuszczono się naruszenia;
+- **7b)** kraj rejestracji pojazdu, którym dopuszczono się naruszenia; ” , w ust. 3 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
     - **c)**
 
 - **9)** nazwę organu, który stwierdził niezdolność. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
@@ -81,5 +94,5 @@ source: "eli-html"
 
 - **g)**
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa służy stosowaniu rozporządzenia wykonawczego Komisji (UE) 2016/480 z dnia 1 kwietnia 2016 r. ustanawiającego wspólne zasady dotyczące połączenia krajowych rejestrów elektronicznych przedsiębiorców transportu drogowego i uchylającego rozporządzenie (UE) nr 1213/2010 (Dz. Urz. UE L 87 z 02.04.2016, str. 4 oraz Dz. Urz. UE L 206 z 09.08.2017, str. 3).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 18 stycznia 2022 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu „Premie na rozpoczęcie działalności pozarolniczej” w ramach poddziałania „Pomoc na rozpoczęcie pozarolniczej działalności gospodarczej na obszarach wiejskich” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 18 stycznia 2022 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu „Premie na rozpoczęcie działalności pozarolniczej” w ramach poddziałania „Pomoc na rozpoczęcie pozarolniczej działalności gospodarczej na obszarach wiejskich” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-18 |
 | Data wydania | 2022-01-21 |
-| Wejście w życie | 2022-01-22 |
 | Ostatnia zmiana | 2025-06-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000142) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/142/text.pdf) |
 
@@ -37,8 +36,7 @@ w ust. 2 uchyla się pkt 2,
 b)
 w ust. 3 dodaje się zdanie trzecie w brzmieniu: „ W przypadku nieubiegania się o jednolitą płatność obszarową, gminę tę ustala się na podstawie miejsca zamieszkania osoby fizycznej, o której mowa w ust. 1 pkt 1, na terenie gminy, o której mowa w ust. 2 pkt 1 lit. b, na obszarze której jest położona co najmniej część gruntów rolnych wchodzących w skład gospodarstwa rolnego, w którym pracuje. ” ;
 2)
-w § 2a ust. 1b otrzymuje brzmienie:
-„
+w § 2a ust. 1b otrzymuje brzmienie: „
 1b.
 Przez podejmowanie działalności pozarolniczej rozumie się:
 1)
@@ -46,8 +44,7 @@ podejmowanie działalności pozarolniczej po raz pierwszy albo
 2)
 podejmowanie działalności pozarolniczej ponownie po upływie co najmniej 24 miesięcy od dnia jej ostatniego zawieszenia lub zakończenia, poprzedzających dzień złożenia wniosku o przyznanie pomocy, albo
 3)
-rozszerzenie przedmiotu prowadzonej działalności pozarolniczej o rodzaj działalności określony kodem Polskiej Klasyfikacji Działalności (PKD) na poziomie podklasy podejmowany po raz pierwszy albo ponownie po upływie co najmniej 24 miesięcy od dnia wykreślenia kodu Polskiej Klasyfikacji Działalności (PKD) na poziomie podklasy określającego dany rodzaj działalności z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, poprzedzających dzień złożenia wniosku o przyznanie pomocy.
-” ;
+rozszerzenie przedmiotu prowadzonej działalności pozarolniczej o rodzaj działalności określony kodem Polskiej Klasyfikacji Działalności (PKD) na poziomie podklasy podejmowany po raz pierwszy albo ponownie po upływie co najmniej 24 miesięcy od dnia wykreślenia kodu Polskiej Klasyfikacji Działalności (PKD) na poziomie podklasy określającego dany rodzaj działalności z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, poprzedzających dzień złożenia wniosku o przyznanie pomocy. ” ;
 3)
 w § 3:
 a)
@@ -57,15 +54,23 @@ w ust. 1:
 – w pkt 6 po wyrazie „operacji” dodaje się wyrazy „, w tym racjonalność i efektywność kosztową”,
 b)
 w ust. 2:
-– w pkt 2: – – w lit. a po wyrazach „70% kwoty pomocy,” dodaje się wyrazy „które zapewnią uzyskanie najlepszych efektów z danych nakładów,”, – – w lit. b po wyrazach „ust. 1 pkt 4 lit. a,” dodaje się wyrazy „przy czym planowane wydatki na zakup samochodu osobowego nie mogą stanowić więcej niż 50% kwoty pomocy,”, – – w lit. c po wyrazie „pracy” dodaje się wyrazy „związanego bezpośrednio z podejmowaną działalnością pozarolniczą objętą pomocą”, – – w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ e) że działalność, o której mowa w ust. 1 pkt 5 oraz w § 5, jest dochodowa; ” , – w pkt 3 w lit. a wyraz „główne” zastępuje się wyrazem „stałe”, – pkt 4 otrzymuje brzmienie: „ 4) uwzględnia działania, o których mowa w ust. 1 pkt 4, wraz z szacunkową wartością planowanych wydatków, niezbędne do osiągnięcia celów pośrednich i końcowych operacji oraz racjonalnie powiązane z podejmowaną działalnością pozarolniczą oraz z miejscami pracy, o których mowa w ust. 1 pkt 1 lit. d. ” ;
+w pkt 2:
+– – w lit. a po wyrazach „70% kwoty pomocy,” dodaje się wyrazy „które zapewnią uzyskanie najlepszych efektów z danych nakładów,”,
+– – w lit. b po wyrazach „ust. 1 pkt 4 lit. a,” dodaje się wyrazy „przy czym planowane wydatki na zakup samochodu osobowego nie mogą stanowić więcej niż 50% kwoty pomocy,”,
+– – w lit. c po wyrazie „pracy” dodaje się wyrazy „związanego bezpośrednio z podejmowaną działalnością pozarolniczą objętą pomocą”,
+– w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „
+e)
+że działalność, o której mowa w ust. 1 pkt 5 oraz w § 5, jest dochodowa; ” ,
+– w pkt 3 w lit. a wyraz „główne” zastępuje się wyrazem „stałe”,
+pkt 4 otrzymuje brzmienie: „
+4)
+uwzględnia działania, o których mowa w ust. 1 pkt 4, wraz z szacunkową wartością planowanych wydatków, niezbędne do osiągnięcia celów pośrednich i końcowych operacji oraz racjonalnie powiązane z podejmowaną działalnością pozarolniczą oraz z miejscami pracy, o których mowa w ust. 1 pkt 1 lit. d. ” ;
 4)
 w § 6 w ust. 4 uchyla się pkt 3 i 4;
 5)
-w § 9 ust. 6 otrzymuje brzmienie:
-„
+w § 9 ust. 6 otrzymuje brzmienie: „
 6.
-Jeżeli biznesplan nie jest składany w postaci elektronicznej na adres do doręczeń elektronicznych w rozumieniu art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320 oraz z 2021 r. poz. 72, 802, 1135, 1163 i 1598), składa się go na informatycznym nośniku danych (CD, DVD lub pamięć USB) wraz z wydrukiem podsumowania biznesplanu.
-” ;
+Jeżeli biznesplan nie jest składany w postaci elektronicznej na adres do doręczeń elektronicznych w rozumieniu art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320 oraz z 2021 r. poz. 72, 802, 1135, 1163 i 1598), składa się go na informatycznym nośniku danych (CD, DVD lub pamięć USB) wraz z wydrukiem podsumowania biznesplanu. ” ;
 6)
 w § 10:
 a)
@@ -83,40 +88,34 @@ w § 13:
 a)
 w ust. 2:
 – w pkt 5 po wyrazie „pomocy” dodaje się wyrazy „po spełnieniu warunku, o którym mowa w pkt 2”,
-– po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) uzyskania decyzji o środowiskowych uwarunkowaniach – w przypadku gdy w związku z realizacją biznesplanu jest wymagane uzyskanie takiej decyzji zgodnie z przepisami o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko. ” ,
+po pkt 6 dodaje się pkt 6a w brzmieniu: „
+6a)
+uzyskania decyzji o środowiskowych uwarunkowaniach – w przypadku gdy w związku z realizacją biznesplanu jest wymagane uzyskanie takiej decyzji zgodnie z przepisami o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko. ” ,
 – uchyla się pkt 7,
 b)
-w ust. 4 pkt 2 otrzymuje brzmienie:
-„
+w ust. 4 pkt 2 otrzymuje brzmienie: „
 2)
-nabycie środka trwałego lub dokonanie czynności, w wyniku której ma nastąpić przeniesienie własności lub posiadania środka trwałego;
-” ;
+nabycie środka trwałego lub dokonanie czynności, w wyniku której ma nastąpić przeniesienie własności lub posiadania środka trwałego; ” ;
 9)
-w § 14 w ust. 3 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
-„
+w § 14 w ust. 3 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
 5)
-kopię ostatecznej decyzji o środowiskowych uwarunkowaniach – w przypadku gdy w związku z realizacją biznesplanu jest wymagane uzyskanie takiej decyzji.
-” ;
+kopię ostatecznej decyzji o środowiskowych uwarunkowaniach – w przypadku gdy w związku z realizacją biznesplanu jest wymagane uzyskanie takiej decyzji. ” ;
 10)
 w § 16:
 a)
 w pkt 2 we wprowadzeniu do wyliczenia liczbę „2023” zastępuje się liczbą „2025”,
 b)
-w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 i 12 w brzmieniu:
-„
+w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 i 12 w brzmieniu: „
 11)
 osiągnąć przychody z tytułu prowadzenia działalności, o której mowa w § 3 ust. 1 pkt 5 oraz w § 5, w wysokości nie mniejszej niż wydatki poniesione na utrzymanie utworzonych miejsc pracy takie jak wynagrodzenia pracowników i składki z tytułu obowiązkowego ubezpieczenia społecznego, w tym opłacane za osobę, która otrzymała pomoc i podjęła we własnym imieniu działalność pozarolniczą, w każdym roku podatkowym następującym po roku złożenia wniosku o płatność pierwszej raty pomocy, o którym mowa w § 14 ust. 1, kończącym się w okresie, o którym mowa w pkt 1 lub w pkt 2 lit. a tiret pierwsze, w przypadku zatrudniania pracowników;
 12)
-przekazywać dyrektorowi oddziału regionalnego Agencji informacje o osiągniętych przychodach, o których mowa w pkt 11, za każdy zakończony rok podatkowy, w terminie 30 dni od zakończenia roku podatkowego, na formularzu udostępnionym przez Agencję.
-” ;
+przekazywać dyrektorowi oddziału regionalnego Agencji informacje o osiągniętych przychodach, o których mowa w pkt 11, za każdy zakończony rok podatkowy, w terminie 30 dni od zakończenia roku podatkowego, na formularzu udostępnionym przez Agencję. ” ;
 11)
 w § 17 w ust. 1 w zdaniu pierwszym oraz w § 20 w ust. 3 liczbę „2023” zastępuje się liczbą „2025”;
 12)
-w § 18 dodaje się ust. 7 w brzmieniu:
-„
+w § 18 dodaje się ust. 7 w brzmieniu: „
 7.
-W przypadku gdy beneficjent utworzył miejsca pracy w liczbie mniejszej niż przewidziana w biznesplanie, ale liczba utworzonych miejsc pracy odpowiada liczbie miejsc pracy uzasadniającej przyznanie pomocy w kwocie, która została beneficjentowi przyznana zgodnie z § 6 ust. 1, i mniejsza liczba utworzonych miejsc pracy pozwala zachować spójność operacji, w tym w zakresie inwestycji w środki trwałe, pierwsza rata pomocy nie podlega zwrotowi, o którym mowa w ust. 4 pkt 1 lit. a.
-” ;
+W przypadku gdy beneficjent utworzył miejsca pracy w liczbie mniejszej niż przewidziana w biznesplanie, ale liczba utworzonych miejsc pracy odpowiada liczbie miejsc pracy uzasadniającej przyznanie pomocy w kwocie, która została beneficjentowi przyznana zgodnie z § 6 ust. 1, i mniejsza liczba utworzonych miejsc pracy pozwala zachować spójność operacji, w tym w zakresie inwestycji w środki trwałe, pierwsza rata pomocy nie podlega zwrotowi, o którym mowa w ust. 4 pkt 1 lit. a. ” ;
 13)
 w § 19:
 a)
@@ -124,7 +123,11 @@ w ust. 1 wyrazy „pkt 3–10” zastępuje się wyrazami „pkt 3, 4, 6–10”
 b)
 w ust. 2:
 – uchyla się pkt 5,
-– w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 i 12 w brzmieniu: „ 11) pkt 11 – zwrotowi podlega do 10% kwoty pomocy, proporcjonalnie do okresu niespełnienia tego warunku; 12) pkt 12 – zwrotowi podlega 0,5% kwoty pomocy, każdorazowo za nieprzekazanie informacji. ” ,
+w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 i 12 w brzmieniu: „
+11)
+pkt 11 – zwrotowi podlega do 10% kwoty pomocy, proporcjonalnie do okresu niespełnienia tego warunku;
+12)
+pkt 12 – zwrotowi podlega 0,5% kwoty pomocy, każdorazowo za nieprzekazanie informacji. ” ,
 c)
 w ust. 3 wyrazy „i 3–7” zastępuje się wyrazami „, 3, 4, 6 i 7”;
 14)
@@ -132,13 +135,21 @@ w załączniku do rozporządzenia:
 a)
 tytuł kolumny pierwszej otrzymuje brzmienie: „ Kody Polskiej Klasyfikacji Działalności (PKD) (Podklasa) ” ;
 b)
-uchyla się wiersz: 49.32.Z Działalność taksówek osobowych
+uchyla się wiersz:
+49.32.Z Działalność taksówek osobowych
 c)
-po wierszu: 73.20.Z Badanie rynku i opinii publicznej dodaje się wiersz: 74.10.Z Działalność w zakresie specjalistycznego projektowania
+po wierszu:
+73.20.Z Badanie rynku i opinii publicznej
+dodaje się wiersz:
+74.10.Z Działalność w zakresie specjalistycznego projektowania
 d)
-po wierszu: 93.21.Z Działalność wesołych miasteczek i parków rozrywki dodaje się wiersze: 93.29.A Działalność pokojów zagadek, domów strachu, miejsc do tańczenia i w zakresie innych form rozrywki lub rekreacji organizowanych w pomieszczeniach lub w innych miejscach o zamkniętej przestrzeni 93.29.B Pozostała działalność rozrywkowa i rekreacyjna, gdzie indziej niesklasyfikowana
+po wierszu:
+93.21.Z Działalność wesołych miasteczek i parków rozrywki
+dodaje się wiersze:
+93.29.A Działalność pokojów zagadek, domów strachu, miejsc do tańczenia i w zakresie innych form rozrywki lub rekreacji organizowanych w pomieszczeniach lub w innych miejscach o zamkniętej przestrzeni 93.29.B Pozostała działalność rozrywkowa i rekreacyjna, gdzie indziej niesklasyfikowana
 e)
-uchyla się wiersz: 93.29.Z Pozostała działalność rozrywkowa i rekreacyjna
+uchyla się wiersz:
+93.29.Z Pozostała działalność rozrywkowa i rekreacyjna
 § 2.
 Do przyznawania pomocy finansowej na operacje typu „Premie na rozpoczęcie działalności pozarolniczej” w ramach poddziałania „Pomoc na rozpoczęcie pozarolniczej działalności gospodarczej na obszarach wiejskich” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, w sprawach objętych postępowaniami wszczętymi i niezakończonymi decyzją ostateczną przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, z wyłączeniem § 9 ust. 6, § 10 ust. 1, § 11a ust. 2 pkt 1 i ust. 3 rozporządzenia zmienianego w § 1, które stosuje się w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
@@ -146,8 +157,7 @@ Do wypłaty pierwszej raty pomocy finansowej na operacje typu „Premie na rozpo
 1)
 beneficjenta, któremu przyznano tę pomoc w związku ze złożeniem przez niego wniosku o jej przyznanie w naborze przeprowadzonym przed dniem wejścia w życie niniejszego rozporządzenia,
 2)
-następcy prawnego beneficjenta, o którym mowa w pkt 1
-stosuje się przepisy dotychczasowe.
+następcy prawnego beneficjenta, o którym mowa w pkt 1 – stosuje się przepisy dotychczasowe.
 § 4.
 Do zwrotu pierwszej raty pomocy finansowej na operacje typu „Premie na rozpoczęcie działalności pozarolniczej” w ramach poddziałania „Pomoc na rozpoczęcie pozarolniczej działalności gospodarczej na obszarach wiejskich” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, w sprawach objętych postępowaniami wszczętymi i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 5.
@@ -157,9 +167,7 @@ Do przyznawania pomocy finansowej na operacje typu „Premie na rozpoczęcie dzi
 1)
 wszczętymi na podstawie wniosku o przyznanie tej pomocy złożonego przez następcę prawnego beneficjenta, który to beneficjent złożył wniosek o jej przyznanie przed dniem wejścia w życie niniejszego rozporządzenia, oraz
 2)
-niezakończonymi decyzją ostateczną przed dniem wejścia w życie niniejszego rozporządzenia
-stosuje się przepisy dotychczasowe.
+niezakończonymi decyzją ostateczną przed dniem wejścia w życie niniejszego rozporządzenia – stosuje się przepisy dotychczasowe.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 

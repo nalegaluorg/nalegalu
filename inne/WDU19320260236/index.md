@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1932-03-09 |
 | Data wydania | 1932-03-31 |
-| Wejście w życie | 1932-04-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320260236) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1932/236/text.pdf) |
 
-Treść ustawy Dział I. – Postanowienia ogólne. Dział II. – Część Scaleniowo-Regulacyjna Funduszu Obrotowego Reformy Rolnej. Dział III. – Część Parcelacyjną Funduszu Obrotowego Reformy Rolnej. Dział IV. – Część Melioracyjna Funduszu Obrotowego Reformy Rolnej. Dział V. – Część Kredytowa Obrotowego Funduszu Reformy Rolnej.
 Na mocy art. 44 Konstytucji ogłaszam ustawę następującej treści:
+Postanowienia ogólne.
 a)
 wpłacone po dniu 1 kwietnia 1932 r. należności na rzecz Skarbu Państwa za czynności, przeprowadzone w związku ze scaleniem gruntów, znoszeniem służebności, i innemi pracami regulacyjno-agrarnemi;
 b)
@@ -83,7 +82,17 @@ inne wpływy;
 j)
 dotacje Skarbu Państwa.
 
-### Dział I. Postanowienia ogólne.
+### Dział I. – Postanowienia ogólne.
+
+### Dział II. – Część Scaleniowo-Regulacyjna Funduszu Obrotowego Reformy Rolnej.
+
+### Dział III. – Część Parcelacyjną Funduszu Obrotowego Reformy Rolnej.
+
+### Dział IV. – Część Melioracyjna Funduszu Obrotowego Reformy Rolnej.
+
+### Dział V. – Część Kredytowa Obrotowego Funduszu Reformy Rolnej.
+
+### Dział I.
 
 **Art. 1.** Dla sfinansowania przebudowy ustroju rolnego tworzy się Fundusz Obrotowy Reformy Rolnej, którym zarządza Minister Reform Rolnych.
 
@@ -95,7 +104,9 @@ dotacje Skarbu Państwa.
 
 **Art. 5.** (1) Plan finansowo-gospodarczy Funduszu Obrotowego Reformy Rolnej, zestawiony oddzielnie dla każdej części Funduszu (art. 3) wraz z tablicami wyjaśniającemu stanowi załącznik do każdorocznego projektu preliminarza budżetowego Ministerstwa Reform Rolnych. (2) Minister Reform Rolnych ma prawo w porozumieniu z Ministrem Skarbu zwiększać wydatki, przewidziane w planie finansowo-gospodarczym poszczególnych części Funduszu, jak również ustalać nowe wydatki, w planie tym nie przewidziane, w ramach art. 8, 10, 16 i 19 niniejszej ustawy, o ile zmiany te nie spowodują konieczności powiększenia dotacyj Skarbu Państwa na rzecz Funduszu. (3) Sprawozdanie rachunkowe Funduszu za każdy okres budżetowy będzie dołączane do zamknięcia rachunków państwowych.
 
-### Dział II. Część Scaleniowo-Regulacyjna Funduszu Obrotowego Reformy Rolnej.
+### Dział II.
+
+## Część Scaleniowo-Regulacyjna Funduszu Obrotowego Reformy Rolnej.
 
 **Art. 6.**
 
@@ -105,7 +116,9 @@ dotacje Skarbu Państwa.
 
 **Art. 8.** (1) Z części Scaleniowo-Regulacyjnej Funduszu Obrotowego Reformy Rolnej pokrywane będą na obszarze Rzeczypospolitej Polskiej z wyjątkiem województwa śląskiego wydatki na przeprowadzenie czynności, związanych ze scaleniem gruntów, znoszeniem służebności i innemi pracami regulacyjno-agrarnemi. (2) Oznaczone w cz. 1 czynności mogą być wykonywane bez pobierania należności na rzecz Funduszu tylko wówczas, gdy koszty ich wykonania znajdą pokrycie we wpływach, oznaczonych w pkt. c) i e) art. 6.
 
-### Dział III. Część Parcelacyjną Funduszu Obrotowego Reformy Rolnej.
+### Dział III.
+
+## Część Parcelacyjną Funduszu Obrotowego Reformy Rolnej.
 
 **Art. 9.**
 
@@ -130,7 +143,9 @@ należności, względnie odszkodowania za nieruchomości ziemskie, zarówno przy
 
 **Art. 13.** Przepisy o trybie wydatkowania i ściągania oraz oprocentowania sum, zaliczkowo wydawanych z części Parcelacyjnej Funduszu przy parcelacji zastępczej, i o wysokości opłat za tę parcelacje ustalać będzie Minister Reform Rolnych w porozumieniu z Ministrem Skarbu w drodze rozporządzeń.
 
-### Dział IV. Część Melioracyjna Funduszu Obrotowego Reformy Rolnej.
+### Dział IV.
+
+## Część Melioracyjna Funduszu Obrotowego Reformy Rolnej.
 
 **Art. 14.** Cześć Melioracyjną Funduszu Obrotowego Reformy Rolnej tworzą:
 
@@ -155,7 +170,9 @@ meljoracyj i prac, z niemi związanych, w zakresie właściwości Ministra Refor
 
 **Art. 17.** Przy udzielaniu zasiłków (ust. C. art. 16) stosowane będą odpowiednie postanowienia ustawy z dnia 26 października 1921 r. o popieraniu publicznych przedsiębiorstw melioracyjnych (Dz. U. R. P. Nr 91, poz. 671) w brzmieniu noweli z dnia 23 czerwca 1925 r. (Dz. U. R. P. Nr 75, poz. 524) z tero, że zastrzeżona w tej sprawie właściwość Ministra Robót Publicznych będzie w tym przypadku należała do Ministra Reform Rolnych.
 
-### Dział V. Część Kredytowa Obrotowego Funduszu Reformy Rolnej.
+### Dział V.
+
+## Część Kredytowa Obrotowego Funduszu Reformy Rolnej.
 
 **Art. 18.**
 

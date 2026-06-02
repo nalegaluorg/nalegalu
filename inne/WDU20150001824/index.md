@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-11 |
 | Data wydania | 2015-11-06 |
-| Wejście w życie | 2015-12-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001824) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1824/text.pdf) |
 
@@ -30,7 +29,7 @@ source: "eli-html"
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
-- **1)** mieniu Funduszu – należy przez to rozumieć przedsiębiorstwo w rozumieniu art. 551 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.) należące do Funduszu według stanu na dzień 31 sierpnia 1997 r.;
+- **1)** mieniu Funduszu – należy przez to rozumieć przedsiębiorstwo w rozumieniu art. 551 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4, 397, 539, 1137, 1311, 1357 i 1433.) należące do Funduszu według stanu na dzień 31 sierpnia 1997 r.;
 - **2)** Spółce – należy przez to rozumieć spółkę działającą pod firmą „Fundusz Wczasów Pracowniczych spółka z ograniczoną odpowiedzialnością”, wpisaną do rejestru przedsiębiorców przez Sąd Rejonowy dla m.st. Warszawy w Warszawie XIII Wydział Gospodarczy Krajowego Rejestru Sądowego pod numerem 0000041798;
 - **3)** udziałach w Spółce – należy przez to rozumieć udziały w spółce działającej pod firmą „Fundusz Wczasów Pracowniczych spółka z ograniczoną odpowiedzialnością”, wpisanej do rejestru przedsiębiorców przez Sąd Rejonowy dla m.st. Warszawy w Warszawie XIII Wydział Gospodarczy Krajowego Rejestru Sądowego pod numerem 0000041798, pokryte wkładem niepieniężnym w postaci mienia Funduszu;
 - **4)** reprezentatywnych organizacjach związkowych – należy przez to rozumieć utworzone przed dniem wejścia w życie ustawy ogólnokrajowe związki zawodowe, ogólnokrajowe zrzeszenia związków zawodowych i ogólnokrajowe organizacje międzyzwiązkowe, spełniające kryteria, o których mowa w art. 23 ust. 2 ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. poz. 1240).
@@ -42,7 +41,7 @@ source: "eli-html"
 2. Uprawnienia, o których mowa w ust. 1, przysługują od dnia:
 
 - **1)** 31 sierpnia 1997 r. – w przypadku reprezentatywnych organizacji związkowych istniejących w tym dniu;
-- **2)** stwierdzenia reprezentatywności na podstawie ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm.) lub ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego – w przypadku reprezentatywnych organizacji związkowych powstałych po dniu 31 sierpnia 1997 r.
+- **2)** stwierdzenia reprezentatywności na podstawie ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1793 i 1800, z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056, z 2004 r. Nr 240, poz. 2407 oraz z 2009 r. Nr 219, poz. 1707.) lub ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego – w przypadku reprezentatywnych organizacji związkowych powstałych po dniu 31 sierpnia 1997 r.
 
 3. Przepisy ust. 1 i 2 nie wpływają na istniejące w dniu 31 sierpnia 1997 r. prawa osób trzecich do składników mienia Funduszu.
 
@@ -86,7 +85,7 @@ source: "eli-html"
 
 **Art. 7.**
 
-1. Do likwidacji Spółki z przyczyny określonej w art. 6 ust. 2, stosuje się przepisy rozdziału 6 w dziale I w tytule III ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm.), z wyjątkiem przepisu art. 276 § 1.
+1. Do likwidacji Spółki z przyczyny określonej w art. 6 ust. 2, stosuje się przepisy rozdziału 6 w dziale I w tytule III ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 265 i 1161 oraz z 2015 r. poz. 4, 978 i 1333.), z wyjątkiem przepisu art. 276 § 1.
 
 2. Likwidatorami Spółki są osoby fizyczne lub osoba prawna ustanowieni przez reprezentatywne organizacje związkowe, w drodze porozumienia, najpóźniej w dniu bezskutecznego upływu terminu, o którym mowa w art. 6 ust. 1.
 
@@ -104,5 +103,5 @@ source: "eli-html"
 
 **Art. 10.** Wszelkie czynności podejmowane przez reprezentatywne organizacje związkowe, które nabyły udziały w Spółce na współwłasność łączną, na zasadach określonych w ustawie, podejmowane w postępowaniach sądowych lub postępowaniach przed organami administracji publicznej w celu realizacji określonych w ustawie uprawnień lub roszczeń reprezentatywnych organizacji związkowych są wolne od wszelkich opłat sądowych lub administracyjnych.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4, 397, 539, 1137, 1311, 1357 i 1433. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1793 i 1800, z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056, z 2004 r. Nr 240, poz. 2407 oraz z 2009 r. Nr 219, poz. 1707. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 265 i 1161 oraz z 2015 r. poz. 4, 978 i 1333.
 

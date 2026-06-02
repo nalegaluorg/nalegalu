@@ -33,8 +33,7 @@ Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og�
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 15–18 ustawy z dnia 21 stycznia 2021 r. o kolejnym w 2021 r. dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. poz. 432), które stanowią:
-„
+art. 15–18 ustawy z dnia 21 stycznia 2021 r. o kolejnym w 2021 r. dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. poz. 432), które stanowią: „
 
 **Art. 15.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2020 r. poz. 1896, 2320 i 2419) art. 54a otrzymuje brzmienie: „
 
@@ -73,7 +72,7 @@ art. 15–18 ustawy z dnia 21 stycznia 2021 r. o kolejnym w 2021 r. dodatkowym r
 - **13)** emerytury, o której mowa w art. 1 ust. 1 pkt 1 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych (Dz. U. z 2022 r. poz. 1340 i 1700),
 - **14)** świadczenia, o którym mowa w art. 5 ust. 1 ustawy z dnia 22 maja 2009 r. o nauczycielskich świadczeniach kompensacyjnych (Dz. U. z 2022 r. poz. 301),
 - **15)** okresowej emerytury rolniczej, o której mowa w art. 15 ustawy z dnia 11 maja 2012 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (Dz. U. poz. 637 oraz z 2017 r. poz. 38),
-- **16)** rodzicielskiego świadczenia uzupełniającego, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2022 r. poz. 1051) zwanym dalej „osobami uprawnionymi”.
+- **16)** rodzicielskiego świadczenia uzupełniającego, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2022 r. poz. 1051) – zwanym dalej „osobami uprawnionymi”.
 
 **Art. 3.**
 
@@ -114,14 +113,12 @@ art. 15–18 ustawy z dnia 21 stycznia 2021 r. o kolejnym w 2021 r. dodatkowym r
 
 **Art. 8.** Kwoty dodatkowego świadczenia nie wlicza się do dochodu, o którym mowa w:
 
-- **1)** art. 26 ust. 7e ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.);
+- **1)** art. 26 ust. 7e ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655, 830, 872, 1079, 1265, 1301, 1358, 1459, 1512, 1561, 1692, 1846, 1967 i 2014.);
 - **2)** art. 3 ust. 3 ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. z 2021 r. poz. 2021 oraz z 2022 r. poz. 1561);
-- **3)** art. 8 ust. 3 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm.);
+- **3)** art. 8 ust. 3 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2270 oraz z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812 i 1967.);
 - **4)** art. 2 ust. 2 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2022 r. poz. 1006, 1692 i 1967).
 
-**Art. 9.** Kwoty dodatkowego świadczenia nie wlicza się do przychodu, o którym mowa w art. 10 ust. 5 ustawy z dnia 27 czerwca 2003 r. o rencie socjalnej.
-
-**Art. 10.** Do dochodu, o którym mowa w art. 3 pkt 1 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2022 r. poz. 615 i 1265), nie wlicza się wypłaconej kwoty dodatkowego świadczenia.
+**Art. 9.** Kwoty dodatkowego świadczenia nie wlicza się do przychodu, o którym mowa w art. 10 ust. 5 ustawy z dnia 27 czerwca 2003 r. o rencie socjalnej. Art. 10W brzmieniu ustalonym przez art. 19 ustawy z dnia 26 maja 2022 r. o kolejnym w 2022 r. dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. poz. 1358), która weszła w życie z dniem 14 lipca 2022 r.. Do dochodu, o którym mowa w art. 3 pkt 1 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2022 r. poz. 615 i 1265), nie wlicza się wypłaconej kwoty dodatkowego świadczenia.
 
 **Art. 11.** Z kwoty dodatkowego świadczenia nie dokonuje się potrąceń i egzekucji.
 
@@ -129,7 +126,7 @@ art. 15–18 ustawy z dnia 21 stycznia 2021 r. o kolejnym w 2021 r. dodatkowym r
 
 1. Dla celów podatku dochodowego od osób fizycznych dodatkowe świadczenie stanowi świadczenie, o którym mowa w art. 12 ust. 7 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych.
 
-2. Do kwoty dodatkowego świadczenia stosuje się odpowiednio art. 66 ust. 1 pkt 16, art. 81 ust. 8 pkt 2 i art. 85 ust. 9–11 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.).
+2. Do kwoty dodatkowego świadczenia stosuje się odpowiednio art. 66 ust. 1 pkt 16, art. 81 ust. 8 pkt 2 i art. 85 ust. 9–11 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265, 1352, 1700 i 1855.).
 
 **Art. 13.** W sprawach nieuregulowanych w niniejszej ustawie stosuje się przepisy:
 
@@ -142,7 +139,7 @@ art. 15–18 ustawy z dnia 21 stycznia 2021 r. o kolejnym w 2021 r. dodatkowym r
 
 1. Dodatkowe świadczenie oraz koszty jego obsługi wypłacane przez Zakład Ubezpieczeń Społecznych i Kasę Rolniczego Ubezpieczenia Społecznego są finansowane ze środków Funduszu Solidarnościowego, o którym mowa w ustawie z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2020 r. poz. 1787 oraz z 2022 r. poz. 1812).
 
-2. Koszty obsługi, o których mowa w ust. 1, wynoszą 0,5% kwoty przeznaczonej na wypłatę dodatkowego świadczenia. (pominięte)
+2. Koszty obsługi, o których mowa w ust. 1, wynoszą 0,5% kwoty przeznaczonej na wypłatę dodatkowego świadczenia. (pominięte)Zamieszczone w obwieszczeniu.
 
-**Art. 19.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 19.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 10 marca 2021 r.. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655, 830, 872, 1079, 1265, 1301, 1358, 1459, 1512, 1561, 1692, 1846, 1967 i 2014. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2270 oraz z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812 i 1967. 3) W brzmieniu ustalonym przez art. 19 ustawy z dnia 26 maja 2022 r. o kolejnym w 2022 r. dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. poz. 1358), która weszła w życie z dniem 14 lipca 2022 r. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265, 1352, 1700 i 1855. 5) Zamieszczone w obwieszczeniu. 6) Ustawa została ogłoszona w dniu 10 marca 2021 r.
 

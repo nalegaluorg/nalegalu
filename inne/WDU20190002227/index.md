@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 października 2019 r. o zmianie ustawy o Polskiej Akademii Nauk oraz niektórych innych ustaw
+# Ustawa z dnia 16 października 2019 r. o zmianie ustawy o Polskiej Akademii Nauk oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 czerwca 1997 r. o Międzynarodowym Instytucie Biologii Molekularnej i Komórkowej w Warszawie, ustawę z dnia 30 kwietnia 2010 r. o instytutach badawczych oraz ustawę z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-16 |
 | Data wydania | 2019-11-15 |
-| Wejście w życie | 2019-11-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002227) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2227/text.pdf) |
 
@@ -34,7 +33,7 @@ source: "eli-html"
 
 - **1)** profesora – wynosi nie mniej niż 100%,
 - **2)** profesora instytutu – wynosi nie mniej niż 83%,
-- **3)** adiunkta – wynosi nie mniej niż 73% tego wynagrodzenia. ” ;
+- **3)** adiunkta – wynosi nie mniej niż 73% – tego wynagrodzenia. ” ;
 - **2)** w art. 94 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
 1a. Wykonywanie obowiązków pracownika naukowego stanowi działalność twórczą o indywidualnym charakterze, o której mowa w art. 1 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2019 r. poz. 1231). ” .
@@ -47,5 +46,5 @@ source: "eli-html"
 
 **Art. 56a.** Wykonywanie obowiązków pracownika pionu badawczego stanowi działalność twórczą o indywidualnym charakterze, o której mowa w art. 1 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2019 r. poz. 1231). ” .
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 czerwca 1997 r. o Międzynarodowym Instytucie Biologii Molekularnej i Komórkowej w Warszawie, ustawę z dnia 30 kwietnia 2010 r. o instytutach badawczych oraz ustawę z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz.
 

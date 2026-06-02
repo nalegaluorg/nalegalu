@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-01-10 |
 | Data wydania | 2014-01-22 |
-| Wejście w życie | 2014-02-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000110) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/110/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 82b ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. Nr 162, poz. 1568, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 82b ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. Nr 162, poz. 1568, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390, z 2006 r. Nr 50, poz. 362 i Nr 126, poz. 875, z 2007 r. Nr 192, poz. 1394, z 2009 r. Nr 31, poz. 206 i Nr 97, poz. 804 oraz z 2010 r. Nr 75, poz. 474 i Nr 130, poz. 871.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa warunki i tryb udzielania oraz rozliczania dotacji na:
 1)
@@ -37,8 +36,7 @@ roboty budowlane przy zabytku nieruchomym wpisanym do rejestru zabytków lub obj
 b)
 roboty ziemne lub zmianę charakteru dotychczasowej działalności na terenie, na którym znajdują się zabytki archeologiczne, co może doprowadzić do przekształcenia lub zniszczenia zabytku archeologicznego,
 2)
-wykonanie dokumentacji badań archeologicznych, o których mowa w pkt 1
-zwanej dalej „dotacją”.
+wykonanie dokumentacji badań archeologicznych, o których mowa w pkt 1 – zwanej dalej „dotacją”.
 § 2.
 1.
 Warunkiem udzielenia dotacji jest dokonanie wyboru wykonawcy badań archeologicznych z zachowaniem zasady równego traktowania, uczciwej konkurencji i przejrzystości.
@@ -187,5 +185,5 @@ Do dotacji przyznanych i nierozliczonych przed dniem wejścia w życie rozporzą
 § 13.
 Traci moc rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 25 marca 2010 r. w sprawie udzielania dotacji na badania archeologiczne (Dz. U. Nr 64, poz. 396).
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390, z 2006 r. Nr 50, poz. 362 i Nr 126, poz. 875, z 2007 r. Nr 192, poz. 1394, z 2009 r. Nr 31, poz. 206 i Nr 97, poz. 804 oraz z 2010 r. Nr 75, poz. 474 i Nr 130, poz. 871.
 

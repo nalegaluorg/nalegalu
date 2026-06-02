@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 12 lutego 2010 r. o zmianie ustawy o transporcie drogowym oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 12 lutego 2010 r. o zmianie ustawy o transporcie drogowym oraz o zmianie niektórych innych ustaw Niniejsza ustawa zmienia ustawy: ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczyciel i Komunikacyjnych i ustawę z dnia 16 kwietnia 2004 r. o czasie pracy kierowców.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-02-12 |
 | Data wydania | 2010-03-19 |
-| Wejście w życie | 2010-04-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100430246) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/246/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 192, poz. 1381, z 2008 r. Nr 218, poz. 1391, Nr 227, poz. 1505 i Nr 234, poz. 1574 oraz z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 86, poz. 720 i Nr 98, poz. 817.) wprowadza się następujące zmiany:
 
 - **1)** po art. 14 dodaje się art. 14a w brzmieniu: „
 
@@ -86,7 +85,7 @@ source: "eli-html"
 - **1)** rodzaje zezwoleń, o których mowa w art. 28 ust. 1 i art. 29 ust. 1,
 - **2)** szczegółowe warunki wykorzystania zezwoleń, o których mowa w art. 28 ust. 1 i art. 29 ust. 1,
 - **3)** sposób wypełniania blankietów zezwoleń, o których mowa w art. 28 ust. 1 i art. 29 ust. 1,
-- **4)** wzory zezwoleń, o których mowa w art. 28 ust. 1 i art. 29 ust. 1 uwzględniając warunki wykorzystania zezwoleń określone w dwustronnych umowach międzynarodowych o wykonywaniu przewozów drogowych oraz zakres niezbędnych danych umieszczonych w zezwoleniach. ” ;
+- **4)** wzory zezwoleń, o których mowa w art. 28 ust. 1 i art. 29 ust. 1 – uwzględniając warunki wykorzystania zezwoleń określone w dwustronnych umowach międzynarodowych o wykonywaniu przewozów drogowych oraz zakres niezbędnych danych umieszczonych w zezwoleniach. ” ;
 - **6)** po art. 38 dodaje się art. 38a w brzmieniu: „
 
 **Art. 38a.**
@@ -95,8 +94,15 @@ source: "eli-html"
 
 2. Osoby legitymujące się dyplomem ukończenia studiów pierwszego stopnia, studiów drugiego stopnia, jednolitych studiów magisterskich lub świadectwem ukończenia studiów podyplomowych, których program obejmuje część zagadnień, o których mowa w przepisach wydanych na podstawie art. 39 ust. 1 pkt 1, zwolnione są z części egzaminu pisemnego, o którym mowa w art. 38 ust. 1, w zakresie dziedzin objętych programem studiów. ” ;
 
-- **7)** w art. 39a: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) ukończyła: a) 18 lat – w przypadku kierowcy prowadzącego pojazd samochodowy, dla którego wymagane jest posiadanie prawa jazdy kategorii: – C lub C + E, o ile uzyskał on odpowiednią kwalifikację wstępną, – C1 lub C1 + E, o ile uzyskał on odpowiednią kwalifikację wstępną przyśpieszoną, b) 21 lat – w przypadku kierowcy prowadzącego pojazd samochodowy, dla którego wymagane jest posiadanie prawa jazdy kategorii: – C lub C + E, o ile uzyskał on odpowiednią kwalifikację wstępną przyśpieszoną, – D lub D + E, o ile uzyskał on odpowiednią kwalifikację wstępną, – D1 lub D1 + E, o ile przewóz wykonywany jest na liniach regularnych, których trasa nie przekracza 50 km i o ile kierowca uzyskał odpowiednią kwalifikację wstępną przyśpieszoną, c) 23 lata – w przypadku kierowcy prowadzącego pojazd samochodowy, dla którego wymagane jest posiadanie prawa jazdy kategorii D lub D + E, o ile uzyskał on odpowiednią kwalifikację wstępną przyśpieszoną; ” , – pkt 5 otrzymuje brzmienie: „ 5) uzyskała kwalifikację wstępną lub kwalifikację wstępną przyśpieszoną, zwane dalej „kwalifikacją”; ” , uchyla się ust. 2;
+- **7)** w art. 39a: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** ukończyła: 18 lat – w przypadku kierowcy prowadzącego pojazd samochodowy, dla którego wymagane jest posiadanie prawa jazdy kategorii: – C lub C + E, o ile uzyskał on odpowiednią kwalifikację wstępną, – C1 lub C1 + E, o ile uzyskał on odpowiednią kwalifikację wstępną przyśpieszoną, 21 lat – w przypadku kierowcy prowadzącego pojazd samochodowy, dla którego wymagane jest posiadanie prawa jazdy kategorii: – C lub C + E, o ile uzyskał on odpowiednią kwalifikację wstępną przyśpieszoną, – D lub D + E, o ile uzyskał on odpowiednią kwalifikację wstępną, – D1 lub D1 + E, o ile przewóz wykonywany jest na liniach regularnych, których trasa nie przekracza 50 km i o ile kierowca uzyskał odpowiednią kwalifikację wstępną przyśpieszoną, 23 lata – w przypadku kierowcy prowadzącego pojazd samochodowy, dla którego wymagane jest posiadanie prawa jazdy kategorii D lub D + E, o ile uzyskał on odpowiednią kwalifikację wstępną przyśpieszoną; ” , pkt 5 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **5)** uzyskała kwalifikację wstępną lub kwalifikację wstępną przyśpieszoną, zwane dalej „kwalifikacją”; ” , uchyla się ust. 2;
     - **b)**
 
 - **8)** art. 39b otrzymuje brzmienie: „
@@ -134,9 +140,10 @@ source: "eli-html"
 - **11)** w art. 39c: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Wojewoda lub upoważniony przez niego członek komisji albo dyrektor Okręgowej Komisji Egzaminacyjnej, wydaje osobie, która uzyskała kwalifikację świadectwo kwalifikacji zawodowej potwierdzające uzyskanie odpowiedniej kwalifikacji. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wojewoda lub upoważniony przez niego członek komisji oraz dyrektor Okręgowej Komisji Egzaminacyjnej, w terminie 21 dni od dnia przeprowadzenia testu kwalifikacyjnego, przekazują do centralnej ewidencji kierowców następujące dane osób, którym wydano świadectwo kwalifikacji zawodowej, o którym mowa w ust. 1: ” , – pkt 4 otrzymuje brzmienie: „ 4) rodzaj i zakres kwalifikacji oraz numer i datę wydania świadectwa kwalifikacji zawodowej. ” ;
+1. Wojewoda lub upoważniony przez niego członek komisji albo dyrektor Okręgowej Komisji Egzaminacyjnej, wydaje osobie, która uzyskała kwalifikację świadectwo kwalifikacji zawodowej potwierdzające uzyskanie odpowiedniej kwalifikacji. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wojewoda lub upoważniony przez niego członek komisji oraz dyrektor Okręgowej Komisji Egzaminacyjnej, w terminie 21 dni od dnia przeprowadzenia testu kwalifikacyjnego, przekazują do centralnej ewidencji kierowców następujące dane osób, którym wydano świadectwo kwalifikacji zawodowej, o którym mowa w ust. 1: ” , pkt 4 otrzymuje brzmienie: „
 
 - **b)**
+- **4)** rodzaj i zakres kwalifikacji oraz numer i datę wydania świadectwa kwalifikacji zawodowej. ” ;
 - **12)** w art. 39d ust. 2 otrzymuje brzmienie: „
 
 2. Kierowca obowiązany jest co pięć lat, począwszy od dnia uzyskania świadectwa kwalifikacji zawodowej poświadczającego uzyskanie kwalifikacji, ukończyć szkolenie okresowe odpowiednio do pojazdu, którym wykonuje przewóz drogowy. ” ;
@@ -158,10 +165,16 @@ source: "eli-html"
 
 12. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wymagania techniczno-organizacyjne oraz zakres funkcjonalności realizowanej przez urządzenie, o którym mowa w ust. 11 pkt 2, uwzględniając potrzebę zapewnienia wykorzystania podczas szkolenia urządzeń spełniających jednolite wymagania. ” ;
 
-- **14)** w art. 39i: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) szczegółowe warunki prowadzenia szkolenia w ramach kwalifikacji wstępnej, kwalifikacji wstępnej przyśpieszonej, kwalifikacji wstępnej uzupełniającej, kwalifikacji wstępnej uzupełniającej przyśpieszonej, szkoleń okresowych oraz zajęć odbywanych w ramach szkolenia okresowego, o których mowa w art. 39d ust. 3 pkt 2; ” , – pkt 6 otrzymuje brzmienie: „ 6) sposób postępowania z dokumentacją związaną z prowadzeniem przez ośrodki szkolenia kwalifikacji wstępnej, kwalifikacji wstępnej przyśpieszonej, kwalifikacji wstępnej uzupełniającej, kwalifikacji wstępnej uzupełniającej przyśpieszonej i szkolenia okresowego; ” , w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) przepisy Unii Europejskiej w zakresie, o którym mowa w ust. 1 pkt 2, oraz konieczność obiektywnego sprawdzenia przygotowania do uzyskania kwalifikacji wstępnej i kwalifikacji wstępnej przyśpieszonej w zakresie transportu drogowego; ” , – pkt 6 i 7 otrzymują brzmienie: „ 6) zakres danych niezbędnych do prawidłowego prowadzenia kwalifikacji wstępnej, kwalifikacji wstępnej przyśpieszonej, kwalifikacji wstępnej uzupełniającej, kwalifikacji wstępnej uzupełniającej przyśpieszonej i szkolenia okresowego, dotyczących kandydatów na kierowców i kierowców wykonujących przewóz drogowy, podmiotów uprawnionych do przeprowadzania kursów i zajęć, organów właściwych w sprawach wpisu do rejestru, a także przepisy Unii Europejskiej w zakresie dokumentów związanych z uzyskiwaniem kwalifikacji wstępnej oraz szkoleń okresowych; 7) potrzebę zapewnienia należytej ochrony dokumentacji związanej z prowadzeniem przez ośrodki szkolenia kwalifikacji wstępnej, kwalifikacji wstępnej przyśpieszonej, kwalifikacji wstępnej uzupełniającej, kwalifikacji wstępnej uzupełniającej przyśpieszonej i szkolenia okresowego; ” ;
+- **14)** w art. 39i: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** szczegółowe warunki prowadzenia szkolenia w ramach kwalifikacji wstępnej, kwalifikacji wstępnej przyśpieszonej, kwalifikacji wstępnej uzupełniającej, kwalifikacji wstępnej uzupełniającej przyśpieszonej, szkoleń okresowych oraz zajęć odbywanych w ramach szkolenia okresowego, o których mowa w art. 39d ust. 3 pkt 2; ” , pkt 6 otrzymuje brzmienie: „
+- **6)** sposób postępowania z dokumentacją związaną z prowadzeniem przez ośrodki szkolenia kwalifikacji wstępnej, kwalifikacji wstępnej przyśpieszonej, kwalifikacji wstępnej uzupełniającej, kwalifikacji wstępnej uzupełniającej przyśpieszonej i szkolenia okresowego; ” , w ust. 2: pkt 2 otrzymuje brzmienie: „
     - **b)**
 
+- **2)** przepisy Unii Europejskiej w zakresie, o którym mowa w ust. 1 pkt 2, oraz konieczność obiektywnego sprawdzenia przygotowania do uzyskania kwalifikacji wstępnej i kwalifikacji wstępnej przyśpieszonej w zakresie transportu drogowego; ” , pkt 6 i 7 otrzymują brzmienie: „
+- **6)** zakres danych niezbędnych do prawidłowego prowadzenia kwalifikacji wstępnej, kwalifikacji wstępnej przyśpieszonej, kwalifikacji wstępnej uzupełniającej, kwalifikacji wstępnej uzupełniającej przyśpieszonej i szkolenia okresowego, dotyczących kandydatów na kierowców i kierowców wykonujących przewóz drogowy, podmiotów uprawnionych do przeprowadzania kursów i zajęć, organów właściwych w sprawach wpisu do rejestru, a także przepisy Unii Europejskiej w zakresie dokumentów związanych z uzyskiwaniem kwalifikacji wstępnej oraz szkoleń okresowych;
+- **7)** potrzebę zapewnienia należytej ochrony dokumentacji związanej z prowadzeniem przez ośrodki szkolenia kwalifikacji wstępnej, kwalifikacji wstępnej przyśpieszonej, kwalifikacji wstępnej uzupełniającej, kwalifikacji wstępnej uzupełniającej przyśpieszonej i szkolenia okresowego; ” ;
 - **15)** w art. 39j ust. 5 otrzymuje brzmienie: „
 
 5. Pierwsze badanie lekarskie, o którym mowa w ust. 1, jest wykonywane przed dniem wydania świadectwa kwalifikacji zawodowej potwierdzającego ukończenie kwalifikacji, a każde następne dla kierowcy w wieku do 60 lat – w terminie właściwym do ukończenia szkolenia okresowego, jednak nie później niż do dnia wydania świadectwa kwalifikacji zawodowej potwierdzającego ukończenie szkolenia okresowego. ” ;
@@ -195,9 +208,9 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-**Art. 2.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.) w art. 78a ust. 4 otrzymuje brzmienie: „ 4. Pojazd może być czasowo wycofany z ruchu na okres od 2 do 24 miesięcy. Okres ten może być przedłużony, jednak łączny okres wycofania pojazdu z ruchu nie może przekraczać 48 miesięcy, licząc od dnia wydania decyzji o jego czasowym wycofaniu z ruchu. ” .
+**Art. 2.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238, z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015, Nr 209, poz. 1320, Nr 220, poz. 1411 i 1426, Nr 223, poz. 1461 i 1462 i Nr 234, poz. 1573 i 1574, z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 79, poz. 663, Nr 91, poz. 739, Nr 92, poz. 753, Nr 97, poz. 802 i 803, Nr 98, poz. 817 i Nr 168, poz. 1323 oraz z 2010 r. Nr 40, poz. 230.) w art. 78a ust. 4 otrzymuje brzmienie: „ 4. Pojazd może być czasowo wycofany z ruchu na okres od 2 do 24 miesięcy. Okres ten może być przedłużony, jednak łączny okres wycofania pojazdu z ruchu nie może przekraczać 48 miesięcy, licząc od dnia wydania decyzji o jego czasowym wycofaniu z ruchu. ” .
 
-**Art. 3.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492, Nr 273, poz. 2703 i Nr 281, poz. 2778, z 2005 r. Nr 167, poz. 1396, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 49, poz. 328, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 133, poz. 922, z 2008 r. Nr 225, poz. 1486, z 2009 r. Nr 91, poz. 739 i Nr 97, poz. 802 oraz z 2010 r. Nr 28, poz. 145.) wprowadza się następujące zmiany:
 
 - **1)** w art. 8 dodaje się ust. 4–7 w brzmieniu: „
 
@@ -213,7 +226,7 @@ source: "eli-html"
 
 **Art. 42a.** Przepisy art. 41 i 42 stosuje się odpowiednio do zwrotu składki, w wysokości proporcjonalnej, obniżonej na okres czasowego wycofania pojazdu z ruchu na wniosek posiadacza pojazdu mechanicznego, o którym mowa w art. 8 ust. 4. ” .
 
-**Art. 4.** W ustawie z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. Nr 92, poz. 879, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. Nr 92, poz. 879, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 180, poz. 1497, z 2007 r. Nr 99, poz. 661 i Nr 192, poz. 1381 oraz z 2009 r. Nr 79, poz. 670.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 dodaje się pkt 7 w brzmieniu: „
 - **7)** podróż służbowa – każde zadanie służbowe polegające na wykonywaniu, na polecenie pracodawcy: przewozu drogowego poza miejscowość, o której mowa w pkt 4 lit. a, lub wyjazdu poza miejscowość, o której mowa w pkt 4 lit. a, w celu wykonania przewozu drogowego. ” ;
@@ -228,7 +241,7 @@ source: "eli-html"
 
 **Art. 6.** Urządzenia techniczne do symulowania jazdy w warunkach specjalnych, posiadające odpowiedni certyfikat wydany przez jednostkę akredytowaną w polskim systemie akredytacji przed dniem wejścia w życie niniejszej ustawy uznaje się za spełniające wymagania określone w przepisach wydanych na podstawie art. 39g ust. 12 ustawy zmienianej w art. 1.
 
-**Art. 7.** W sprawach administracyjnych, postępowań podatkowych, o wykroczenia, karnych lub w karnych skarbowych wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, prowadzonych w związku z przepisem art. 775 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.), stosuje się przepis art. 21a ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą.
+**Art. 7.** W sprawach administracyjnych, postępowań podatkowych, o wykroczenia, karnych lub w karnych skarbowych wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, prowadzonych w związku z przepisem art. 775 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704.), stosuje się przepis art. 21a ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa zmienia ustawy: ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczyciel i Komunikacyjnych i ustawę z dnia 16 kwietnia 2004 r. o czasie pracy kierowców. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 192, poz. 1381, z 2008 r. Nr 218, poz. 1391, Nr 227, poz. 1505 i Nr 234, poz. 1574 oraz z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 86, poz. 720 i Nr 98, poz. 817. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238, z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015, Nr 209, poz. 1320, Nr 220, poz. 1411 i 1426, Nr 223, poz. 1461 i 1462 i Nr 234, poz. 1573 i 1574, z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 79, poz. 663, Nr 91, poz. 739, Nr 92, poz. 753, Nr 97, poz. 802 i 803, Nr 98, poz. 817 i Nr 168, poz. 1323 oraz z 2010 r. Nr 40, poz. 230. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492, Nr 273, poz. 2703 i Nr 281, poz. 2778, z 2005 r. Nr 167, poz. 1396, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 49, poz. 328, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 133, poz. 922, z 2008 r. Nr 225, poz. 1486, z 2009 r. Nr 91, poz. 739 i Nr 97, poz. 802 oraz z 2010 r. Nr 28, poz. 145. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 180, poz. 1497, z 2007 r. Nr 99, poz. 661 i Nr 192, poz. 1381 oraz z 2009 r. Nr 79, poz. 670. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704.
 

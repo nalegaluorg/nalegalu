@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 11 września 2015 r. o zmianie ustawy o bezpieczeństwie imprez masowych oraz niektórych innych ustaw
+# Ustawa z dnia 11 września 2015 r. o zmianie ustawy o bezpieczeństwie imprez masowych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny i ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-11 |
 | Data wydania | 2015-10-26 |
-| Wejście w życie | 2015-11-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001707) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1707/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2013 r. poz. 611, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2013 r. poz. 611, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 829 oraz z 2014 r. poz. 693.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6 ust. 3 otrzymuje brzmienie: „
 
@@ -92,7 +91,7 @@ source: "eli-html"
 
 - **1)** dane określone w ust. 4,
 - **2)** dane, o których mowa w art. 22 ust. 1 pkt 1 lit. a-c,
-- **3)** informacje o zastosowanych zakazach, w tym przekazane przez organizatorów imprez masowych w zakresie, w jakim dane i informacje te dotyczą uczestników meczów piłki nożnej rozgrywanych w ramach najwyższej ligowej klasy rozgrywkowej rywalizacji mężczyzn.
+- **3)** informacje o zastosowanych zakazach, w tym przekazane przez organizatorów imprez masowych – w zakresie, w jakim dane i informacje te dotyczą uczestników meczów piłki nożnej rozgrywanych w ramach najwyższej ligowej klasy rozgrywkowej rywalizacji mężczyzn.
 
 9. Zakres danych gromadzonych w systemie, o którym mowa w ust. 2a pkt 2, obejmuje:
 
@@ -164,7 +163,7 @@ source: "eli-html"
 
 - **1)** zapełnianiu stadionu przez osoby uczestniczące w meczach piłki nożnej,
 - **2)** udogodnieniom w zakresie obsługi osób uczestniczących w meczach piłki nożnej,
-- **3)** przeprowadzaniu transmisji telewizyjnych z meczów piłki nożnej przy zachowaniu zasad bezpieczeństwa określonych w uzgodnieniach, o których mowa w ust. 1.
+- **3)** przeprowadzaniu transmisji telewizyjnych z meczów piłki nożnej – przy zachowaniu zasad bezpieczeństwa określonych w uzgodnieniach, o których mowa w ust. 1.
 
 3. Uzgadnianie projektów, o których mowa w ust. 1 i 2, nie narusza przepisów dotyczących uzgadniania pod względem ochrony przeciwpożarowej projektów budowlanych obiektów budowlanych. ” ;
 
@@ -195,8 +194,13 @@ source: "eli-html"
 
 3b. W przypadku, o którym mowa w ust. 1a, wydanie opinii, o których mowa w ust. 3, następuje w terminie 7 dni od dnia otrzymania wniosku o ich wydanie. ” ;
 
-- **12)** w art. 26: w ust. 1: – w pkt 1: – – lit. b otrzymuje brzmienie: „ b) oznaczenie punktów pomocy medycznej, punktów czerpalnych wody do celów przeciwpożarowych oraz punktów informacyjnych, ” , – – w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ e) oznaczenie sektorów, na których podczas meczu piłki nożnej zostaną udostępnione miejsca stojące – jeżeli organizator zamierza udostępnić uczestnikom miejsca stojące; ” , – w pkt 4 lit. a otrzymuje brzmienie: „ a) liczbie miejsc dla osób na imprezie masowej, a jeżeli organizator zamierza udostępnić na meczu piłki nożnej miejsca stojące – również liczbie miejsc stojących, ” , – pkt 5 otrzymuje brzmienie: „ 5) informację o osobie wyznaczonej na kierownika do spraw bezpieczeństwa, w tym jej dane obejmujące: imię, nazwisko, numer PESEL – o ile został nadany, numer i datę wydania zaświadczenia o ukończeniu szkolenia dla kierowników do spraw bezpieczeństwa imprez masowych, a w przypadku imprezy masowej podwyższonego ryzyka dodatkowo numer wpisu na listę kwalifikowanych pracowników ochrony fizycznej; ” , po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
+- **12)** w art. 26: w ust. 1: w pkt 1: – lit. b otrzymuje brzmienie: „ oznaczenie punktów pomocy medycznej, punktów czerpalnych wody do celów przeciwpożarowych oraz punktów informacyjnych, ” , – w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ oznaczenie sektorów, na których podczas meczu piłki nożnej zostaną udostępnione miejsca stojące – jeżeli organizator zamierza udostępnić uczestnikom miejsca stojące; ” , w pkt 4 lit. a otrzymuje brzmienie: „ liczbie miejsc dla osób na imprezie masowej, a jeżeli organizator zamierza udostępnić na meczu piłki nożnej miejsca stojące – również liczbie miejsc stojących, ” , pkt 5 otrzymuje brzmienie: „
     - **a)**
+    - **b)**
+    - **e)**
+    - **a)**
+
+- **5)** informację o osobie wyznaczonej na kierownika do spraw bezpieczeństwa, w tym jej dane obejmujące: imię, nazwisko, numer PESEL – o ile został nadany, numer i datę wydania zaświadczenia o ukończeniu szkolenia dla kierowników do spraw bezpieczeństwa imprez masowych, a w przypadku imprezy masowej podwyższonego ryzyka dodatkowo numer wpisu na listę kwalifikowanych pracowników ochrony fizycznej; ” , po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
     - **b)**
 
 2a. W przypadku, o którym mowa w art. 25 ust. 1a, opinie, o których mowa w art. 25 ust. 1 pkt 2, oraz instrukcję, o której mowa w art. 6 ust. 4, organizator dołącza do wniosku, o którym mowa w art. 25 ust. 1 pkt 1, niezwłocznie.
@@ -241,7 +245,7 @@ source: "eli-html"
 - **20)** w art. 65: ust. 1 i 2 otrzymują brzmienie: „
     - **a)**
 
-1. W razie ukarania za wykroczenie, o którym mowa w art. 50, art. 50a, art. 51, art. 52a, art. 124 lub art. 143 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2015 r. poz. 1094, z późn. zm.) lub o którym mowa w art. 54–56 niniejszej ustawy, popełnione w związku z imprezą masową artystyczno-rozrywkową, sąd może orzec środek karny zakazu wstępu na imprezę masową na okres od 2 do 6 lat.
+1. W razie ukarania za wykroczenie, o którym mowa w art. 50, art. 50a, art. 51, art. 52a, art. 124 lub art. 143 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2015 r. poz. 1094, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1485, 1634 i 1707.) lub o którym mowa w art. 54–56 niniejszej ustawy, popełnione w związku z imprezą masową artystyczno-rozrywkową, sąd może orzec środek karny zakazu wstępu na imprezę masową na okres od 2 do 6 lat.
 
 2. W razie ukarania za wykroczenie, o którym mowa w art. 50, art. 50a, art. 51, art. 52a, art. 124 lub art. 143 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, lub o którym mowa w art. 54–56 i art. 57a niniejszej ustawy, popełnione w związku z masową imprezą sportową, w tym meczem piłki nożnej, sąd orzeka środek karny zakazu wstępu na imprezę masową na okres od 2 do 6 lat. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
@@ -251,7 +255,7 @@ source: "eli-html"
 
 - **21)** art. 66 otrzymuje brzmienie: „
 
-**Art. 66.** Wobec sprawców przestępstw przeciwko życiu i zdrowiu, przeciwko bezpieczeństwu powszechnemu oraz przestępstw, o których mowa w art. 222–224 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.), popełnionych w związku z masową imprezą sportową, w tym meczem piłki nożnej, lub o których mowa w art. 59–61 niniejszej ustawy, sąd orzeka zakaz wstępu na imprezę masową. ” .
+**Art. 66.** Wobec sprawców przestępstw przeciwko życiu i zdrowiu, przeciwko bezpieczeństwu powszechnemu oraz przestępstw, o których mowa w art. 222–224 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344, z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 40, poz. 227 i 229, Nr 98, poz. 625 i 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 152, poz. 1018 i 1021, Nr 182, poz. 1228, Nr 225, poz. 1474 i Nr 240, poz. 1602, z 2011 r. Nr 17, poz. 78, Nr 24, poz. 130, Nr 39, poz. 202, Nr 48, poz. 245, Nr 72, poz. 381, Nr 94, poz. 549, Nr 117, poz. 678, Nr 133, poz. 767, Nr 160, poz. 964, Nr 191, poz. 1135, Nr 217, poz. 1280, Nr 233, poz. 1381 i Nr 240, poz. 1431, z 2012 r. poz. 611, z 2013 r. poz. 849, 905, 1036 i 1247, z 2014 r. poz. 538 oraz z 2015 r. poz. 396, 541, 1549 i 1707.), popełnionych w związku z masową imprezą sportową, w tym meczem piłki nożnej, lub o których mowa w art. 59–61 niniejszej ustawy, sąd orzeka zakaz wstępu na imprezę masową. ” .
 
 **Art. 2.** Wustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2015 r. poz. 1094, 1485 i 1634) w art. 50a:
 
@@ -269,15 +273,15 @@ wykroczenie określone w art. 50a, art. 51, art. 69, art. 74, art. 76, art. 85, 
 
 - **b)**
 
-**Art. 4.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.) w art. 41b § 1 otrzymuje brzmienie: „
+**Art. 4.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344, z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 40, poz. 227 i 229, Nr 98, poz. 625 i 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 152, poz. 1018 i 1021, Nr 182, poz. 1228, Nr 225, poz. 1474 i Nr 240, poz. 1602, z 2011 r. Nr 17, poz. 78, Nr 24, poz. 130, Nr 39, poz. 202, Nr 48, poz. 245, Nr 72, poz. 381, Nr 94, poz. 549, Nr 117, poz. 678, Nr 133, poz. 767, Nr 160, poz. 964, Nr 191, poz. 1135, Nr 217, poz. 1280, Nr 233, poz. 1381 i Nr 240, poz. 1431, z 2012 r. poz. 611, z 2013 r. poz. 849, 905, 1036 i 1247, z 2014 r. poz. 538 oraz z 2015 r. poz. 396, 541 i 1549.) w art. 41b § 1 otrzymuje brzmienie: „
 
 § 1. Sąd może orzec zakaz wstępu na imprezę masową, jeżeli przestępstwo zostało popełnione w związku z taką imprezą lub w razie skazania za występek o charakterze chuligańskim, a udział sprawcy w imprezach masowych zagraża dobrom chronionym prawem. Sąd orzeka zakaz wstępu na imprezę masową w wypadkach wskazanych w ustawie. ” .
 
-**Art. 5.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.) w art. 90 w § 3 pkt 1 otrzymuje brzmienie: „
+**Art. 5.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247, z 2014 r. poz. 486, 579, 786 i 969 oraz z 2015 r. poz. 21, 396, 841, 1186, 1269 i 1549.) w art. 90 w § 3 pkt 1 otrzymuje brzmienie: „
 
 - **1)** przeciwko porządkowi i spokojowi publicznemu, określonych w art. 50, art. 50a, art. 51 i art. 52a Kodeksu wykroczeń; ” .
 
 **Art. 6.** Dane, o których mowa w art. 13 ust. 4 pkt 2, 4 i 5 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym, zgromadzone w systemach, o których mowa w art. 13 ust. 2 i 2a ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym, są przechowywane nie dłużej niż przez okres 2 lat od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny i ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 829 oraz z 2014 r. poz. 693. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1485, 1634 i 1707. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344, z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 40, poz. 227 i 229, Nr 98, poz. 625 i 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 152, poz. 1018 i 1021, Nr 182, poz. 1228, Nr 225, poz. 1474 i Nr 240, poz. 1602, z 2011 r. Nr 17, poz. 78, Nr 24, poz. 130, Nr 39, poz. 202, Nr 48, poz. 245, Nr 72, poz. 381, Nr 94, poz. 549, Nr 117, poz. 678, Nr 133, poz. 767, Nr 160, poz. 964, Nr 191, poz. 1135, Nr 217, poz. 1280, Nr 233, poz. 1381 i Nr 240, poz. 1431, z 2012 r. poz. 611, z 2013 r. poz. 849, 905, 1036 i 1247, z 2014 r. poz. 538 oraz z 2015 r. poz. 396, 541, 1549 i 1707. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344, z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 40, poz. 227 i 229, Nr 98, poz. 625 i 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 152, poz. 1018 i 1021, Nr 182, poz. 1228, Nr 225, poz. 1474 i Nr 240, poz. 1602, z 2011 r. Nr 17, poz. 78, Nr 24, poz. 130, Nr 39, poz. 202, Nr 48, poz. 245, Nr 72, poz. 381, Nr 94, poz. 549, Nr 117, poz. 678, Nr 133, poz. 767, Nr 160, poz. 964, Nr 191, poz. 1135, Nr 217, poz. 1280, Nr 233, poz. 1381 i Nr 240, poz. 1431, z 2012 r. poz. 611, z 2013 r. poz. 849, 905, 1036 i 1247, z 2014 r. poz. 538 oraz z 2015 r. poz. 396, 541 i 1549. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247, z 2014 r. poz. 486, 579, 786 i 969 oraz z 2015 r. poz. 21, 396, 841, 1186, 1269 i 1549.
 

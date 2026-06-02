@@ -42,8 +42,7 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 8 czerwca 2016 r. zmien
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2–6 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 17 kwietnia 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 501), które stanowią:
-„
+§ 2–6 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 17 kwietnia 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 501), które stanowią: „
 § 2.
 Do wniosków o przyznanie pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 złożonych przed dniem wejścia w życie niniejszego rozporządzenia przepisy § 2 ust. 7 pkt 2, § 7 ust. 1, § 8 ust. 1, § 14 ust. 2, § 15 ust. 1d, 1e, 1h i 1j oraz § 18 ust. 4 rozporządzenia wymienionego w § 1 stosuje się w brzmieniu dotychczasowym.
 § 3.
@@ -71,11 +70,9 @@ Organ, który wydał decyzję ostateczną, o której mowa w ust. 1 pkt 2, wszczy
 3.
 W decyzji o zmianie decyzji, o której mowa w ust. 1 pkt 2, organ ustala kwotę nienależnie pobranych płatności zgodnie z § 20 ust. 3 pkt 3 lub 4 rozporządzenia wymienionego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2–4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 czerwca 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 895), które stanowią:
-„
+§ 2–4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 czerwca 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 895), które stanowią: „
 § 2.
 1.
 Przepisy § 20 ust. 3 pkt 2 i 2a rozporządzenia wymienionego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem stosuje się również do beneficjentów, którzy:
@@ -90,17 +87,14 @@ W decyzji o zmianie decyzji ostatecznej, o której mowa w ust. 1 pkt 2, organ us
 § 3.
 Przepisy § 19 pkt 8 i 9 rozporządzenia wymienionego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem stosuje się do beneficjentów, dla których przed dniem wejścia w życie niniejszego rozporządzenia nie upłynęły terminy, o których mowa w tych przepisach.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 3)
-§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 czerwca 2016 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 877), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 czerwca 2016 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 877), które stanowią: „
 § 2.
 Przepis § 18 ust. 1 pkt 2 rozporządzenia zmienianego w § 1 w zakresie dotyczącym spełniania warunku, o którym mowa w § 2 ust. 1 pkt 1 lit. a tiret trzecie rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się również do osób fizycznych, którym przyznano pomoc finansową w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 przed dniem wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2016 r. poz. 1387 i 1579 oraz z 2017 r. poz. 5 i 624) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb przyznawania, wypłaty oraz zwracania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich 2007–2013, zwanym dalej „Programem”, w tym:
@@ -109,7 +103,7 @@ tryb składania wniosków o przyznanie pomocy oraz wniosków o płatność;
 2)
 szczegółowe wymagania, jakim powinny odpowiadać wnioski o przyznanie pomocy oraz wnioski o płatność;
 3)
-kategorie siły wyższej i wyjątkowe okoliczności, inne niż wymienione w przepisach rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 368 z 23.12.2006, str. 15, z późn. zm.), zwanego dalej „rozporządzeniem nr 1974/2006”, w przypadku wystąpienia których nie jest wymagany zwrot pomocy.
+kategorie siły wyższej i wyjątkowe okoliczności, inne niż wymienione w przepisach rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 368 z 23.12.2006, str. 15, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 104 z 21.04.2007, str. 8, Dz. Urz. UE L 280 z 24.10.2007, str. 3, Dz. Urz. UE L 318 z 28.11.2008, str. 6, Dz. Urz. UE L 111 z 05.05.2009, str. 5, Dz. Urz. UE L 145 z 10.06.2009, str. 17, Dz. Urz. UE L 171 z 01.07.2009, str. 49, Dz. Urz. UE L 36 z 09.02.2010, str. 4, Dz. Urz. UE L 185 z 15.07.2011, str. 57, Dz. Urz. UE L 105 z 13.04.2013, str. 1 oraz Dz. Urz. UE L 215 z 10.08.2013, str. 16.)Utraciło moc na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1 oraz Dz. Urz. UE L 211 z 08.08.2015, str. 7), które weszło w życie z dniem 31 lipca 2014 r.; stosuje się od dnia 1 stycznia 2014 r., zwanego dalej „rozporządzeniem nr 1974/2006”, w przypadku wystąpienia których nie jest wymagany zwrot pomocy.
 § 2.
 1.
 Pomoc finansowa w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem, zwana dalej „pomocą”, jest przyznawana osobie fizycznej:
@@ -119,7 +113,7 @@ a)
 z zastrzeżeniem § 7, do dnia złożenia wniosku o przyznanie pomocy nie prowadziła działalności rolniczej i po raz pierwszy rozpocznie prowadzenie działalności rolniczej w gospodarstwie rolnym w rozumieniu art. 553 Kodeksu cywilnego, zwanym dalej „gospodarstwem”, jeżeli w wymaganym okresie:
 – powierzchnia użytków rolnych w gospodarstwie będzie nie mniejsza niż średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w kraju oraz nie większa niż 300 ha,
 – gospodarstwo będzie prowadzone samodzielnie,
-–  budynki i budowle znajdujące się w gospodarstwie, wykorzystywane do produkcji rolnej, oraz użytki rolne w gospodarstwie wykorzystywane do prowadzenia działalności rolniczej nie będą stanowiły przedmiotu współwłasności lub współposiadania, z wyłączeniem małżeńskiej wspólności majątkowej, wspólnot grunto
+– W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 czerwca 2016 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 877), które weszło w życie z dniem 21 czerwca 2016 r. budynki i budowle znajdujące się w gospodarstwie, wykorzystywane do produkcji rolnej, oraz użytki rolne w gospodarstwie wykorzystywane do prowadzenia działalności rolniczej nie będą stanowiły przedmiotu współwłasności lub współposiadania, z wyłączeniem małżeńskiej wspólności majątkowej, wspólnot grunto
 wych oraz z wyłączeniem budynków, budowli i użytków rolnych będących przedmiotem współwłasności, objętych realizowaną przez osoby wspólnie wnioskujące operacją typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020,
 – w gospodarstwie będą spełnione określone odrębnymi przepisami wymagania w zakresie ochrony środowiska, higieny i warunków utrzymania zwierząt,
 b)
@@ -133,7 +127,7 @@ nie ma ustalonego prawa do renty z tytułu całkowitej niezdolności do pracy;
 2)
 której małżonek do dnia złożenia przez nią wniosku o przyznanie pomocy nie prowadził działalności rolniczej;
 3)
-jeżeli plan rozwoju gospodarstwa, zwany dalej „biznesplanem”, o którym mowa w art. 13 rozporządzenia nr 1974/2006 :
+jeżeli plan rozwoju gospodarstwa, zwany dalej „biznesplanem”, o którym mowa w art. 13 rozporządzenia nr 1974/2006 Utraciło moc na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1 oraz Dz. Urz. UE L 211 z 08.08.2015, str. 7), które weszło w życie z dniem 31 lipca 2014 r.; stosuje się od dnia 1 stycznia 2014 r.:
 a)
 określa strukturę produkcji rolnej uwzględniającą powierzchnię i rodzaj użytków rolnych oraz jakość gleb w gospodarstwie, znajdujące się w gospodarstwie budynki i budowle wykorzystywane do produkcji rolnej oraz maszyny, urządzenia i wyposażenie do produkcji rolnej,
 b)
@@ -181,8 +175,7 @@ produkcja zwierząt futerkowych,
 f)
 produkcja pszczelarska,
 g)
-hodowla lub chów zwierząt gospodarskich poza gospodarstwem rolnym, z wyłączeniem koni hodowlanych w liczbie mniejszej niż 3 sztuki
-w rozumieniu przepisów o podatku dochodowym od osób fizycznych.
+hodowla lub chów zwierząt gospodarskich poza gospodarstwem rolnym, z wyłączeniem koni hodowlanych w liczbie mniejszej niż 3 sztuki – w rozumieniu przepisów o podatku dochodowym od osób fizycznych.
 3.
 Osoba fizyczna, która wystąpiła o przyznanie pomocy w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem i której nie przyznano tej pomocy albo przyznano pomoc, z tym że zostało stwierdzone wygaśnięcie decyzji o przyznaniu pomocy w przypadku, o którym mowa w § 17 ust. 2 i 3, albo uchylono decyzję o przyznaniu pomocy w przypadku, o którym mowa w § 17 ust. 4, może ponownie wystąpić z wnioskiem o przyznanie pomocy, o ile nie zaistniał żaden inny z przypadków określonych w ust. 2.
 4.
@@ -195,7 +188,7 @@ Jeżeli o pomoc ubiegają się oboje małżonkowie i oboje spełniają warunki j
 Pomoc może być przyznana osobie fizycznej także w przypadku, gdy jej małżonek, przed dniem złożenia przez nią wniosku o przyznanie pomocy, prowadził działalność rolniczą – pod warunkiem że:
 1)
 małżonkowi, zarówno w trakcie trwania małżeństwa, jak i przed jego zawarciem, nie przyznano pomocy w zakresie działania „Ułatwianie startu młodym rolnikom” w ramach Sektorowego Programu Operacyjnego „Restrukturyzacja i modernizacja sektora żywnościowego oraz rozwój obszarów wiejskich 2004–2006” ani w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 17 kwietnia 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 501), które weszło w życie z dniem 19 kwietnia 2014 r.)
 wcześniej niż w okresie 15 miesięcy przed dniem złożenia tego wniosku, zarówno w trakcie trwania małżeństwa, jak i przed jego zawarciem, w odniesieniu do małżonka nie zaistniał żaden z przypadków określonych w ust. 2;
 3)
 gospodarstwo małżonka wejdzie w skład małżeńskiej wspólności majątkowej lub odrębnego majątku beneficjenta.
@@ -207,7 +200,7 @@ W przypadku gospodarstw położonych na obszarze więcej niż jednego województ
 3.
 Przy ustalaniu powierzchni gospodarstwa bierze się pod uwagę średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w poszczególnych województwach oraz średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w kraju, w roku poprzedzającym rok złożenia wniosku o przyznanie pomocy.
 4.
-Średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w poszczególnych województwach oraz średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w kraju w danym roku przyjmuje się na podstawie informacji ogłaszanych przez Prezesa Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, na podstawie art. 42 ust. 2 ustawy z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2012 r. poz. 1164 i 1529, z 2013 r. poz. 311 oraz z 2014 r. poz. 240).
+Średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w poszczególnych województwach oraz średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w kraju w danym roku przyjmuje się na podstawie informacji ogłaszanych przez Prezesa Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, na podstawie art. 42 ust. 2 ustawy z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2012 r. poz. 1164 i 1529, z 2013 r. poz. 311 oraz z 2014 r. poz. 240)Utraciła moc na podstawie art. 61 ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2017 r. poz. 278), która weszła w życie z dniem 15 marca 2015 r..
 5.
 Przy ustalaniu minimalnej powierzchni użytków rolnych w gospodarstwie, o której mowa w § 2 ust. 1 pkt 1 lit. a tiret pierwsze, sumuje się powierzchnię użytków rolnych stanowiących przedmiot:
 1)
@@ -266,7 +259,7 @@ był zatrudniony w gospodarstwie rolnym, na podstawie umowy o pracę lub spółd
 3)
 odbył staż, o którym mowa w art. 53 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2017 r. poz. 1065), obejmujący wykonywanie czynności związanych z prowadzeniem działalności rolniczej.
 § 7.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5..
 Dopuszcza się przyznanie pomocy osobie fizycznej, która przed dniem złożenia wniosku o przyznanie pomocy rozpoczęła prowadzenie działalności rolniczej w gospodarstwie rolnym, jeżeli od dnia rozpoczęcia prowadzenia działalności rolniczej do dnia złożenia wniosku o przyznanie pomocy nie upłynęło więcej niż 15 miesięcy, a do dnia wydania decyzji o przyznaniu pomocy – więcej niż 18 miesięcy.
 2.
 (uchylony).
@@ -283,8 +276,7 @@ w systemie dziennym w szkole ponadgimnazjalnej, z wyłączeniem zasadniczej szko
 b)
 w systemie dziennym w dotychczasowej szkole ponadpodstawowej, z wyłączeniem szkoły zasadniczej, lub
 c)
-na uczelni – wyłącznie w trakcie stacjonarnych studiów pierwszego i drugiego stopnia oraz jednolitych studiów magisterskich
-dzień zakończenia lub zaprzestania nauki, jednakże najpóźniej dzień ukończenia 26 roku życia, pod warunkiem że wnioskodawca nie miał przerw w nauce, a w przypadku kontynuowania nauki na uczelni – podjęcie nauki nastąpiło w roku uzyskania świadectwa dojrzałości lub świadectwa maturalnego;
+na uczelni – wyłącznie w trakcie stacjonarnych studiów pierwszego i drugiego stopnia oraz jednolitych studiów magisterskich – dzień zakończenia lub zaprzestania nauki, jednakże najpóźniej dzień ukończenia 26 roku życia, pod warunkiem że wnioskodawca nie miał przerw w nauce, a w przypadku kontynuowania nauki na uczelni – podjęcie nauki nastąpiło w roku uzyskania świadectwa dojrzałości lub świadectwa maturalnego;
 4)
 w przypadku osób fizycznych, które nabyły gospodarstwo przed ukończeniem 18 roku życia i kontynuowały naukę w szkole, o której mowa w pkt 3 – dzień zakończenia lub zaprzestania nauki, jednakże najpóźniej dzień ukończenia 26 roku życia, pod warunkiem że wnioskodawca nie miał przerw w nauce, a w przypadku kontynuowania nauki na uczelni – podjęcie nauki nastąpiło w roku uzyskania świadectwa dojrzałości lub świadectwa maturalnego;
 5)
@@ -304,7 +296,7 @@ Pomoc może być przyznana, jeżeli osobie fizycznej, o której mowa w ust. 1, n
 8.
 (uchylony).
 § 8.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 5..
 Pomoc przyznaje się w wysokości 100 tysięcy złotych.
 2.
 Pomoc przyznaje się danej osobie fizycznej tylko raz.
@@ -387,7 +379,7 @@ oświadczenie dotyczące spełniania określonych odrębnymi przepisami wymagań
 § 14.
 1.
 Wnioski o przyznanie pomocy rozpatruje się zgodnie z kolejnością ich złożenia.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 5..
 W przypadku stwierdzenia, że wniosek o przyznanie pomocy nie spełnia wymogów formalnych, Agencja wzywa wnioskodawcę do usunięcia braków w terminie 7 dni od dnia otrzymania wezwania.
 § 15.
 1.
@@ -428,26 +420,26 @@ b)
 niższe niż bezrobocie, o którym mowa w lit. a – przyznaje się proporcjonalnie mniej punktów, do 0 punktów w przypadku, gdy bezrobocie w powiecie było najniższe w województwie.
 1c.
 W przypadku gospodarstw położonych na obszarze więcej niż jednego powiatu, za powiat, na obszarze którego jest położone gospodarstwo, uznaje się ten powiat, w którym jest położona największa część użytków rolnych wchodzących w skład gospodarstwa.
-1d.
+1dW brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 5..
 Kolejność przysługiwania pomocy jest ustalana na podstawie danych zawartych we wniosku o przyznanie pomocy oraz dołączonych do niego dokumentach. Dokonanie przez wnioskodawcę zmian we wniosku o przyznanie pomocy po upływie 20 dni od dnia zakończenia terminu składania wniosków o przyznanie pomocy nie ma wpływu na kolejność przysługiwania pomocy.
-1e.
+1eW brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 5..
 W pierwszej kolejności pomoc przysługuje wnioskodawcom, którzy uzyskali największą liczbę punktów, przy czym pomoc jest przyznawana, jeżeli wnioskodawca uzyskał co najmniej 7 punktów.
 1f.
 W przypadku wnioskodawców, którzy uzyskali taką samą liczbę punktów, o kolejności przysługiwania pomocy decyduje powierzchnia użytków rolnych w gospodarstwie wskazanym w biznesplanie, począwszy od największej.
 1g.
 W przypadku wnioskodawców, którzy uzyskali taką samą liczbę punktów i wskazali w biznesplanie gospodarstwa o identycznej powierzchni użytków rolnych, pomoc przysługuje w kolejności złożenia poprawnego i kompletnego wniosku o przyznanie pomocy.
-1h.
+1hW brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 5..
 Dyrektorzy oddziałów regionalnych Agencji przyznają wnioskodawcom punkty, o których mowa w ust. 1b, w terminie 50 dni od dnia upływu terminu składania wniosków o przyznanie pomocy.
 1i.
 Dyrektorzy oddziałów regionalnych Agencji, niezwłocznie po przyznaniu punktów, o których mowa w ust. 1b, przekazują Prezesowi Agencji informację zawierającą imiona i nazwiska wnioskodawców, liczbę przyznanych punktów, powierzchnię użytków rolnych w gospodarstwie wskazanym w biznesplanie oraz dzień złożenia poprawnego i kompletnego wniosku o przyznanie pomocy.
-1j.
+1jW brzmieniu ustalonym przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 5..
 Prezes Agencji, niezwłocznie po otrzymaniu informacji, o której mowa w ust. 1i, ustala na jej podstawie kolejność przysługiwania pomocy, podaje liczbę punktów uzyskanych przez poszczególnych wnioskodawców oraz określa, które z wniosków o przyznanie pomocy mieszczą się w limicie środków określonym w Programie, przez wskazanie, który wniosek o przyznanie pomocy jako pierwszy zawiera zapotrzebowanie na środki przekraczające wysokość tego limitu.
 1k.
 Prezes Agencji, niezwłocznie po ustaleniu kolejności przysługiwania pomocy, o której mowa w ust. 1j, podaje informację o tej kolejności do publicznej wiadomości na stronie internetowej administrowanej przez Agencję.
 2.
 Dyrektor oddziału regionalnego Agencji wydaje decyzję w sprawie przyznania pomocy w terminie 150 dni od dnia złożenia wniosku o przyznanie pomocy.
 3.
-Decyzję o przyznaniu pomocy wydaje się z zastrzeżeniem dopełnienia przez beneficjenta, w terminie 180 dni od dnia doręczenia tej decyzji, jednak nie później niż do dnia 30 września 2015 r., następujących warunków:
+Decyzję o przyznaniu pomocy wydaje się z zastrzeżeniem dopełnienia przez beneficjenta, w terminie 180 dni od dnia doręczenia tej decyzji, jednak nie później niż do dnia 30 września 2015 r., następujących warunków:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 czerwca 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 895), które weszło w życie z dniem 27 czerwca 2015 r.
 1)
 nabycia lub wejścia w posiadanie gospodarstwa wskazanego w biznesplanie, spełniającego warunki, o których mowa w § 2 ust. 1 pkt 1 lit. a tiret pierwsze i tiret trzecie, z zastrzeżeniem § 5 ust. 2,
 2)
@@ -457,8 +449,7 @@ ubezpieczenia na podstawie przepisów o ubezpieczeniu społecznym rolników z mo
 4)
 uzyskania wpisu do ewidencji producentów, stanowiącej część krajowego systemu ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, jeżeli jego małżonek nie został dotychczas wpisany do tej ewidencji,
 5)
-nabycia gospodarstwa małżonka w sposób określony w § 2 ust. 7 pkt 3 – w przypadku, o którym mowa w § 2 ust. 7
-chyba że dany warunek był spełniony w dniu złożenia wniosku o przyznanie pomocy.
+nabycia gospodarstwa małżonka w sposób określony w § 2 ust. 7 pkt 3 – w przypadku, o którym mowa w § 2 ust. 7 – chyba że dany warunek był spełniony w dniu złożenia wniosku o przyznanie pomocy.
 4.
 Decyzja o przyznaniu pomocy zawiera pouczenie o konieczności spełnienia warunków, o których mowa w § 18 ust. 1, i przedłożenia dokumentów, o których mowa w § 19, oraz konieczności zwrotu pomocy w przypadku niespełnienia tych warunków lub nieprzedłożenia dokumentów.
 5.
@@ -474,10 +465,10 @@ Jeżeli po poinformowaniu wnioskodawcy zgodnie z ust. 1 okaże się, że w ramac
 Od dnia doręczenia wnioskodawcy pisma zawierającego informację, o której mowa w ust. 3, termin rozpatrzenia wniosku o przyznanie pomocy złożonego przez tego wnioskodawcę biegnie dalej.
 5.
 W przypadku, o którym mowa w ust. 3, pomoc jest przyznawana według kolejności ustalonej zgodnie z § 15 ust. 1–1g.
-6.
+6W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 13..
 Jeżeli przyznanie pomocy wnioskodawcy, o którym mowa w ust. 1, w ramach określonego w Programie limitu środków nie jest możliwe do dnia 31 sierpnia roku następującego po roku, w którym został złożony wniosek o przyznanie pomocy, odmawia się temu wnioskodawcy przyznania pomocy.
 § 16.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 13..
 Pomoc wypłaca się na wniosek o płatność, który składa się w terminie 180 dni od dnia doręczenia decyzji o przyznaniu pomocy, jednak nie później niż do dnia 30 września 2015 r.
 2.
 Do wniosku o płatność dołącza się dokumenty potwierdzające spełnienie warunków, z zastrzeżeniem których została wydana decyzja o przyznaniu pomocy – w przypadku, o którym mowa w § 15 ust. 3.
@@ -539,7 +530,7 @@ zakup gruntów rolnych, które do dnia upływu 5 lat od dnia wypłaty pomocy ben
 zakup zwierząt hodowlanych w rozumieniu przepisów o organizacji hodowli i rozrodzie zwierząt gospodarskich, stanowiących stado podstawowe – związany z rozpoczęciem produkcji zwierzęcej w gospodarstwie lub postępem genetycznym w zakresie prowadzonej produkcji.
 3.
 Jeżeli inwestycje, o których mowa w ust. 2, podlegały współfinansowaniu z innych środków publicznych, w szczególności w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem, do kwoty wydatkowanej przez beneficjenta nie wlicza się kwoty pomocy udzielonej z tych środków.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 5..
 Za wydatki na inwestycje, o których mowa w ust. 2, nie uznaje się wydatków poniesionych:
 1)
 przed dniem złożenia wniosku o przyznanie pomocy;
@@ -557,28 +548,28 @@ potwierdzone za zgodność z oryginałem przez pracownika Agencji lub notariusza
 oświadczenie, że zakupy w ramach inwestycji zrealizowanych zgodnie z założeniami biznesplanu nie zostały dokonane na podstawie umowy zawartej między beneficjentem a małżonkiem, wstępnym lub zstępnym beneficjenta ani wstępnym lub zstępnym małżonka beneficjenta – w terminie określonym w pkt 2;
 4)
 sprawozdanie z realizacji biznesplanu sporządzone zgodnie ze wzorem udostępnionym przez Agencję – w terminie 60 dni od dnia upływu 3 lat od dnia wypłaty pomocy;
-5)
+5W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 5.)
 ankietę monitorującą zawierającą informacje niezbędne dla celów monitorowania i oceny Programu oraz tabelę zawierającą wskazanie osiągniętej nadwyżki bezpośredniej z działalności rolniczej prowadzonej w gospodarstwie, sporządzone zgodnie z wzorem udostępnionym przez Agencję – do dnia upływu 5 lat od dnia wypłaty pomocy oraz na każde żądanie Agencji;
-6)
+6W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 5.)
 dokument potwierdzający uzupełnienie wykształcenia, w terminie 60 dni od dnia upływu 3 lat od dnia doręczenia decyzji o przyznaniu pomocy – w przypadku, o którym mowa w § 6 ust. 3, z tym że w przypadku zaistnienia okoliczności, o których mowa w § 22 ust. 1 pkt 2 – w terminie 60 dni od dnia upływu 3 lat i 9 miesięcy od dnia doręczenia decyzji o przyznaniu pomocy;
 7)
 dokument potwierdzający spełnienie warunku dotyczącego minimalnej powierzchni użytków rolnych w gospodarstwie, o którym mowa w § 2 ust. 1 pkt 1 lit. a, nie mniejszej niż średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w kraju, w terminie 60 dni od dnia upływu 3 lat od dnia doręczenia decyzji o przyznaniu pomocy – w przypadku, o którym mowa w § 3 ust. 1;
-8)
+8Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 13.)
 oświadczenie o spełnieniu wymagań w zakresie ochrony środowiska, higieny i warunków utrzymania zwierząt do dnia upływu 3 lat od dnia rozpoczęcia prowadzenia działalności rolniczej – w terminie 60 dni od dnia upływu 3 lat od dnia wypłaty pomocy;
-9)
+9Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 13.)
 oświadczenie o spełnianiu wymagań w zakresie ochrony środowiska, higieny i warunków utrzymania zwierząt do dnia upływu 5 lat od dnia wypłaty pomocy – w terminie 60 dni przed dniem upływu 5 lat od dnia wypłaty pomocy.
 § 20.
 1.
 Pomoc podlega zwrotowi w całości lub części, jeżeli beneficjent nie spełni warunków, o których mowa w § 18 ust. 1, lub nie przedłoży w Agencji dokumentów, o których mowa w § 19.
 2.
 (uchylony).
-3.
+3W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 5..
 W przypadku niespełnienia warunku, o którym mowa w § 18 ust. 1:
 1)
 pkt 1, pkt 1a, pkt 3 lit. b, pkt 5, pkt 6, pkt 7 lub pkt 8 – zwrotowi podlega 100% kwoty pomocy;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 13.)
 pkt 2 lub pkt 2a – zwrotowi podlega 25% kwoty pomocy za niespełnienie każdego z warunków określonych tymi przepisami;
-2a)
+2aDodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 13.)
 pkt 4 – zwrotowi podlega 5% kwoty pomocy za niespełnienie wymagań w każdym z wymienionych w tym przepisie zakresów oddzielnie;
 3)
 pkt 3 lit. a – zwrotowi podlega 3% kwoty pomocy;
@@ -602,14 +593,14 @@ Wyrażenie zgody, o której mowa w ust. 1, następuje w drodze decyzji.
 Zmiany polegające na zwiększeniu lub zmniejszeniu o nie więcej niż 30 punktów procentowych skali produkcji roślin danego gatunku mierzonej udziałem powierzchni uprawy w całości upraw lub zwierząt danego gatunku mierzonej udziałem zwierząt tego gatunku w całkowitej obsadzie zwierząt w gospodarstwie, ustalonej z wykorzystaniem współczynników przeliczeniowych na duże jednostki przeliczeniowe (DJP), nie wymagają zgody Agencji. W przypadku zmian dotyczących udziału powierzchni uprawy zbóż, roślin strączkowych lub roślin motylkowych drobnonasiennych zmiany określa się w odniesieniu do całej grupy.
 5.
 W przypadku beneficjentów, którym wydano decyzję o przyznaniu pomocy z zastrzeżeniem dopełnienia, w terminie 180 dni od dnia doręczenia tej decyzji, warunku określonego w § 15 ust. 3 pkt 1, dyrektor oddziału regionalnego Agencji wyraża zgodę na zmianę założeń biznesplanu w zakresie powierzchni użytków rolnych w gospodarstwie rolnym pod warunkiem, że:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 5.)
 beneficjent wystąpi do dyrektora oddziału regionalnego Agencji z wnioskiem, o którym mowa w ust. 1, nie później niż w terminie 180 dni od dnia doręczenia decyzji o przyznaniu pomocy;
 2)
 beneficjentowi przysługiwałaby pomoc w oparciu o liczbę punktów przyznanych na podstawie zmienionej powierzchni użytków rolnych w gospodarstwie, a złożony przez niego wniosek o przyznanie pomocy finansowej mieściłby się w limicie środków określonym w Programie.
 6.
 Wyrażenie zgody na zmianę założeń biznesplanu w zakresie powierzchni użytków rolnych w gospodarstwie rolnym następuje w terminie 14 dni od dnia złożenia wniosku, o którym mowa w ust. 1.
-§ 22.
-Innymi, niż wymienione w przepisach rozporządzenia nr 1974/2006 , kategoriami siły wyższej lub wyjątkowymi okolicznościami, w przypadku wystąpienia których zwrot pomocy nie jest wymagany, są:
+§ 22W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 5..
+Innymi, niż wymienione w przepisach rozporządzenia nr 1974/2006 Utraciło moc na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1 oraz Dz. Urz. UE L 211 z 08.08.2015, str. 7), które weszło w życie z dniem 31 lipca 2014 r.; stosuje się od dnia 1 stycznia 2014 r., kategoriami siły wyższej lub wyjątkowymi okolicznościami, w przypadku wystąpienia których zwrot pomocy nie jest wymagany, są:
 1)
 uniemożliwiające dalsze prowadzenie gospodarstwa zgodnie z założeniami biznesplanu:
 a)
@@ -664,8 +655,7 @@ Wnioski o przyznanie pomocy złożone w 2008 r., w okresie do dnia 30 czerwca, w
 2.
 W przypadku wniosków o przyznanie pomocy złożonych w 2008 r., w okresie do dnia 30 czerwca, decyzje w sprawie przyznania pomocy są wydawane w terminie 120 dni od dnia złożenia wniosku.
 § 27.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 104 z 21.04.2007, str. 8, Dz. Urz. UE L 280 z 24.10.2007, str. 3, Dz. Urz. UE L 318 z 28.11.2008, str. 6, Dz. Urz. UE L 111 z 05.05.2009, str. 5, Dz. Urz. UE L 145 z 10.06.2009, str. 17, Dz. Urz. UE L 171 z 01.07.2009, str. 49, Dz. Urz. UE L 36 z 09.02.2010, str. 4, Dz. Urz. UE L 185 z 15.07.2011, str. 57, Dz. Urz. UE L 105 z 13.04.2013, str. 1 oraz Dz. Urz. UE L 215 z 10.08.2013, str. 16. 3) Utraciło moc na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1 oraz Dz. Urz. UE L 211 z 08.08.2015, str. 7), które weszło w życie z dniem 31 lipca 2014 r.; stosuje się od dnia 1 stycznia 2014 r. 4) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 czerwca 2016 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 877), które weszło w życie z dniem 21 czerwca 2016 r. 5) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 17 kwietnia 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 501), które weszło w życie z dniem 19 kwietnia 2014 r. 6) Utraciła moc na podstawie art. 61 ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2017 r. poz. 278), która weszła w życie z dniem 15 marca 2015 r. 7) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5. 8) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 5. 9) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 5. 10) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 5. 11) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 5. 12) W brzmieniu ustalonym przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 5. 13) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 czerwca 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 895), które weszło w życie z dniem 27 czerwca 2015 r. 14) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 13. 15) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 13. 16) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 5. 17) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 5. 18) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 13. 19) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 5. 20) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 13. 21) Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 13. 22) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 5. 23) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 5. 24) Rozporządzenie zostało ogłoszone w dniu 30 października 2007 r.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 30 października 2007 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 104 z 21.04.2007, str. 8, Dz. Urz. UE L 280 z 24.10.2007, str. 3, Dz. Urz. UE L 318 z 28.11.2008, str. 6, Dz. Urz. UE L 111 z 05.05.2009, str. 5, Dz. Urz. UE L 145 z 10.06.2009, str. 17, Dz. Urz. UE L 171 z 01.07.2009, str. 49, Dz. Urz. UE L 36 z 09.02.2010, str. 4, Dz. Urz. UE L 185 z 15.07.2011, str. 57, Dz. Urz. UE L 105 z 13.04.2013, str. 1 oraz Dz. Urz. UE L 215 z 10.08.2013, str. 16. 3) Utraciło moc na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1 oraz Dz. Urz. UE L 211 z 08.08.2015, str. 7), które weszło w życie z dniem 31 lipca 2014 r.; stosuje się od dnia 1 stycznia 2014 r. 4) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 czerwca 2016 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 877), które weszło w życie z dniem 21 czerwca 2016 r. 5) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 17 kwietnia 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 501), które weszło w życie z dniem 19 kwietnia 2014 r. 6) Utraciła moc na podstawie art. 61 ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2017 r. poz. 278), która weszła w życie z dniem 15 marca 2015 r. 7) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5. 8) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 5. 9) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 5. 10) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 5. 11) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 5. 12) W brzmieniu ustalonym przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 5. 13) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 czerwca 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 895), które weszło w życie z dniem 27 czerwca 2015 r. 14) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 13. 15) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 13. 16) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 5. 17) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 5. 18) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 13. 19) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 5. 20) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 13. 21) Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 13. 22) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 5. 23) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 5. 24) Rozporządzenie zostało ogłoszone w dniu 30 października 2007 r.
 
 ## Załącznik nr 1 — – Szczegółowy wykaz kierunków studiów, zawodów i specjalności oraz tytułów kwalifikacyjnych w zakresie rolnictwa, a także rodzaje dokumentów potwierdzających posiadanie kwalifikacji zawodowych
 
@@ -682,8 +672,7 @@ technika rolnicza i leśna;
 5)
 zootechnika;
 6)
-architektura krajobrazu.
-W przypadku ukończenia studiów na kierunku innym niż wymienione w pkt 1–6 za kwalifikacje zawodowe przydatne do prowadzenia działalności rolniczej uznaje się kierunki studiów, w ramach których zakres kształcenia albo standardy kształcenia obejmują treści związane z rolnictwem w wymiarze łącznym co najmniej 120 godzin.
+architektura krajobrazu. W przypadku ukończenia studiów na kierunku innym niż wymienione w pkt 1–6 za kwalifikacje zawodowe przydatne do prowadzenia działalności rolniczej uznaje się kierunki studiów, w ramach których zakres kształcenia albo standardy kształcenia obejmują treści związane z rolnictwem w wymiarze łącznym co najmniej 120 godzin.
 2.
 Wykaz zawodów i specjalności wykształcenia rolniczego średniego zawodowego:
 1)
@@ -903,7 +892,7 @@ Dokumentem potwierdzającym posiadanie wykształcenia rolniczego:
 1)
 wyższego – jest dyplom ukończenia studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich, lub studiów wyższych magisterskich na kierunku wymienionym w ust. 1;
 2)
-średniego – jest świadectwo lub dyplom ukończenia szkoły lub dyplom potwierdzający kwalifikacje zawodowe, w zawodzie wymienionym w ust. 2 albo – w przypadku gdy na świadectwie ukończenia szkoły brak jest informacji o zawodzie – świadectwo ukończenia szkoły, wraz z zaświadczeniem, o którym mowa w § 3 ust. 7 rozporządzenia Ministra Edukacji Narodowej z dnia 28 maja 2010 r. w sprawie świadectw, dyplomów państwowych i innych druków szkolnych (Dz. U. z 2014 r. poz. 893, z 2015 r. poz. 23 oraz z 2016 r. poz. 787), potwierdzającym, że absolwent kształcił się w zawodzie wymienionym w ust. 2;
+średniego – jest świadectwo lub dyplom ukończenia szkoły lub dyplom potwierdzający kwalifikacje zawodowe, w zawodzie wymienionym w ust. 2 albo – w przypadku gdy na świadectwie ukończenia szkoły brak jest informacji o zawodzie – świadectwo ukończenia szkoły, wraz z zaświadczeniem, o którym mowa w § 3 ust. 7 rozporządzenia Ministra Edukacji Narodowej z dnia 28 maja 2010 r. w sprawie świadectw, dyplomów państwowych i innych druków szkolnych (Dz. U. z 2014 r. poz. 893, z 2015 r. poz. 23 oraz z 2016 r. poz. 787)Utraciło moc na podstawie art. 111 pkt 3 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2017 r. poz. 986), która weszła w życie z dniem 15 stycznia 2016 r., potwierdzającym, że absolwent kształcił się w zawodzie wymienionym w ust. 2;
 3)
 zasadniczego zawodowego – jest świadectwo ukończenia szkoły z uzyskanym tytułem wykwalifikowanego robotnika lub dyplom ukończenia szkoły z tytułem wykwalifikowanego robotnika albo dyplom uzyskania tytułu zawodowego lub dyplom potwierdzający kwalifikacje zawodowe, w zawodzie wymienionym w ust. 3.
 8.
@@ -923,6 +912,5 @@ Dokumentem potwierdzającym posiadanie wykształcenia:
 1)
 podstawowego – jest świadectwo ukończenia szkoły podstawowej;
 2)
-gimnazjalnego – jest świadectwo ukończenia gimnazjum.
-25) Utraciło moc na podstawie art. 111 pkt 3 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2017 r. poz. 986), która weszła w życie z dniem 15 stycznia 2016 r.
+gimnazjalnego – jest świadectwo ukończenia gimnazjum. 25) Utraciło moc na podstawie art. 111 pkt 3 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2017 r. poz. 986), która weszła w życie z dniem 15 stycznia 2016 r.
 

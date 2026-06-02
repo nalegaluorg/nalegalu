@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 25 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie właściwości organów i jednostek organizacyjnych Straży Granicznej w sprawach wynikających ze stosunku służbowego funkcjonariuszy Straży Granicznej oraz trybu postępowania w tych sprawach
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 25 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie właściwości organów i jednostek organizacyjnych Straży Granicznej w sprawach wynikających ze stosunku służbowego funkcjonariuszy Straży Granicznej oraz trybu postępowania w tych sprawach Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie właściwości organów i jednostek organizacyjnych Straży Granicznej w sprawach wynikających ze stosunku służbowego funkcjonariuszy Straży Granicznej oraz trybu postępowania w tych sprawach (Dz. U. z 2022 r. poz. 137), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 14 września 2023 r. zmieniającym rozporządzenie w sprawie właściwości organów i jednostek organizacyjnych Straży Granicznej w sprawach wynikających ze stosunku służbowego funkcjonariuszy Straży Granicznej oraz trybu postępowania w tych sprawach (Dz. U. poz. 1973).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 14 września 2023 r. zmieniającego rozporządzenie w sprawie właściwości organów i jednostek organizacyjnych Straży Granicznej w sprawach wynikających ze stosunku służbowego funkcjonariuszy Straży Granicznej oraz trybu postępowania w tych sprawach (Dz. U. poz. 1973), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 14 września 2023 r. zmieniającego rozporządzenie w sprawie właściwości organów i jednostek organizacyjnych Straży Granicznej w sprawach wynikających ze stosunku służbowego funkcjonariuszy Straży Granicznej oraz trybu postępowania w tych sprawach (Dz. U. poz. 1973), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.
-” .
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie właściwości organów i jednostek organizacyjnych Straży Granicznej w sprawach wynikających ze stosunku służbowego funkcjonariuszy Straży Granicznej oraz trybu postępowania w tych sprawach
+Rozporządzenie wchodzi w życie z dniem 1 października 2023 r. ” . 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie właściwości organów i jednostek organizacyjnych Straży Granicznej w sprawach wynikających ze stosunku służbowego funkcjonariuszy Straży Granicznej oraz trybu postępowania w tych sprawachMinister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
 Na podstawie art. 85 ust. 1 pkt 1 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723, 1860 i 2608) zarządza się, co następuje:
 § 1.
 Użyte w rozporządzeniu określenia oznaczają:
@@ -53,11 +50,11 @@ zmiana stosunku służbowego – zmianę stanowiska służbowego, składników u
 droga służbowa – zwracanie się funkcjonariusza do wyższego przełożonego za pośrednictwem bezpośredniego przełożonego;
 6)
 bezpośredni przełożony – osobę zajmującą stanowisko kierownicze bezpośrednio wyższe od stanowiska zajmowanego przez funkcjonariusza, poczynając od stanowiska kierownika sekcji (równorzędnego) lub dowódcy plutonu;
-7)
+7W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 14 września 2023 r. zmieniającego rozporządzenie w sprawie właściwości organów i jednostek organizacyjnych Straży Granicznej w sprawach wynikających ze stosunku służbowego funkcjonariuszy Straży Granicznej oraz trybu postępowania w tych sprawach (Dz. U. poz. 1973), które weszło w życie z dniem 1 października 2023 r.)
 komórka organizacyjna właściwa w sprawach osobowych – komórkę organizacyjną Komendy Głównej Straży Granicznej właściwą do spraw kadr albo komórkę organizacyjną właściwą w sprawach kadrowych w Wyższej Szkole Straży Granicznej, w Biurze Spraw Wewnętrznych Straży Granicznej, w oddziale Straży Granicznej, ośrodku Straży Granicznej lub ośrodku szkolenia Straży Granicznej.
 § 2.
 Przełożonymi właściwymi w sprawach osobowych funkcjonariuszy są:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 Komendant Główny Straży Granicznej w stosunku do:
 a)
 Rektora-Komendanta Wyższej Szkoły Straży Granicznej,
@@ -76,19 +73,19 @@ funkcjonariuszy pozostających w jego dyspozycji,
 h)
 funkcjonariuszy, dla których zgodnie z odrębnymi przepisami jest przełożonym właściwym w sprawach osobowych;
 2)
-Rektor-Komendant Wyższej Szkoły Straży Granicznej, Komendant Biura Spraw Wewnętrznych Straży Granicznej, komendant oddziału Straży Granicznej, komendant ośrodka Straży Granicznej i komendant ośrodka szkolenia Straży Granicznej w stosunku do:
-a)
+Rektor-Komendant Wyższej Szkoły Straży Granicznej, Komendant Biura Spraw Wewnętrznych Straży Granicznej, komendant oddziału Straży Granicznej, komendant ośrodka Straży Granicznej i komendant ośrodka szkolenia Straży Granicznej w stosunku do:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.
+aZe zmianą wprowadzoną przez § 1 pkt 2 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 funkcjonariuszy pełniących służbę na stanowiskach służbowych, odpowiednio, w podległej mu Wyższej Szkole Straży Granicznej, w podległym mu Biurze Spraw Wewnętrznych Straży Granicznej, w podległych im oddziałach, ośrodkach albo ośrodkach szkolenia,
 b)
 funkcjonariuszy pozostających w ich dyspozycji,
 c)
 funkcjonariuszy, dla których zgodnie z odrębnymi przepisami są przełożonymi właściwymi w sprawach osobowych.
 § 3.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 W Komendzie Głównej Straży Granicznej prowadzi się sprawy osobowe funkcjonariuszy, o których mowa w § 2 pkt 1, sprawy odwołań lub zażaleń funkcjonariuszy na rozstrzygnięcia w sprawach osobowych podjęte przez Rektora-Komendanta Wyższej Szkoły Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej, komendantów oddziałów, ośrodków i ośrodków szkolenia Straży Granicznej oraz inne sprawy osobowe, w których właściwość Komendanta Głównego Straży Granicznej wynika z przepisów ustawy.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 W Wyższej Szkole Straży Granicznej, w Biurze Spraw Wewnętrznych Straży Granicznej, w komendzie oddziału Straży Granicznej, w ośrodku Straży Granicznej i ośrodku szkolenia Straży Granicznej prowadzi się kontrolę w zakresie określonym w art. 125e ust. 2 pkt 2 ustawy, dotyczącym funkcjonariuszy wymienionych w § 2 pkt 2 lit. a-c, oraz sprawy odwołań od rozstrzygnięć podjętych w wyniku takiej kontroli, w zakresie niezastrzeżonym dla Komendanta Głównego Straży Granicznej. W przypadku gdy wynika to z zakresu upoważnienia udzielonego przez przełożonego właściwego w sprawach osobowych, kontrolę prowadzi się w placówkach lub dywizjonach Straży Granicznej.
-§ 3a.
+§ 3aZe zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Sprawy dotyczące prawa do zwolnienia od zajęć służbowych z powodu konieczności osobistego sprawowania opieki nad chorym dzieckiem lub chorym członkiem rodziny w zakresie długości okresu w roku kalendarzowym, w którym funkcjonariuszowi przysługuje to prawo, prowadzi się w komórkach organizacyjnych Komendy Głównej Straży Granicznej, Wyższej Szkoły Straży Granicznej, Biura Spraw Wewnętrznych Straży Granicznej, oddziału Straży Granicznej, ośrodka Straży Granicznej i ośrodka szkolenia Straży Granicznej, w których jest prowadzona ewidencja czasu służby funkcjonariuszy.
 § 4.
 1.
@@ -177,8 +174,7 @@ Z przepisami regulującymi sposób pełnienia służby oraz z zakresem obowiązk
 3.
 Zapoznanie z przepisami i zakresem obowiązków i uprawnień, o których mowa w ust. 1 i 2, funkcjonariusz potwierdza pisemnie. Potwierdzenie włącza się do akt osobowych funkcjonariusza.
 § 8.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 14 września 2023 r. zmieniającego rozporządzenie w sprawie właściwości organów i jednostek organizacyjnych Straży Granicznej w sprawach wynikających ze stosunku służbowego funkcjonariuszy Straży Granicznej oraz trybu postępowania w tych sprawach (Dz. U. poz. 1973), które weszło w życie z dniem 1 października 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 5) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 6) Ze zmianą wprowadzoną przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 8) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 9) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 10) Rozporządzenie zostało ogłoszone w dniu 28 czerwca 2002 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 28 czerwca 2002 r.. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 14 września 2023 r. zmieniającego rozporządzenie w sprawie właściwości organów i jednostek organizacyjnych Straży Granicznej w sprawach wynikających ze stosunku służbowego funkcjonariuszy Straży Granicznej oraz trybu postępowania w tych sprawach (Dz. U. poz. 1973), które weszło w życie z dniem 1 października 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 5) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 6) Ze zmianą wprowadzoną przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 8) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 9) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 10) Rozporządzenie zostało ogłoszone w dniu 28 czerwca 2002 r.
 

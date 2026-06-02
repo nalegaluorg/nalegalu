@@ -31,12 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 31 lipca 2001 r. w sprawie szczegółowych zasad kierowania i współdziałania jednostek ochrony przeciwpożarowej biorących udział w działaniu ratowniczym (Dz. U. Nr 82, poz. 895), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych z dnia 8 marca 2012 r. zmieniającym rozporządzenie w sprawie szczegółowych zasad kierowania i współdziałania jednostek ochrony przeciwpożarowej biorących udział w działaniu ratowniczym (Dz. U. poz. 308).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 8 marca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad kierowania i współdziałania jednostek ochrony przeciwpożarowej biorących udział w działaniu ratowniczym (Dz. U. poz. 308), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 8 marca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad kierowania i współdziałania jednostek ochrony przeciwpożarowej biorących udział w działaniu ratowniczym (Dz. U. poz. 308), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Tekst jednolity rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 31 lipca 2001 r. w sprawie szczegółowych zasad kierowania i współdziałania jednostek ochrony przeciwpożarowej biorących udział w działaniu ratowniczym
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 31 lipca 2001 r. w sprawie szczegółowych zasad kierowania i współdziałania jednostek ochrony przeciwpożarowej biorących udział w działaniu ratowniczymObecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych (Dz. U. Nr 248, poz. 1491).
 Na podstawie art. 22 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380, z 2010 r. Nr 57, poz. 353 oraz z 2012 r. poz. 908) zarządza się, co następuje:
 § 1.
 1.
@@ -54,7 +52,7 @@ Punkty alarmowania, o których mowa w ust. 1 pkt 4, zapewniają przekazywanie je
 § 2.
 1.
 Kierowanie działaniem ratowniczym rozpoczyna się z chwilą przybycia na miejsce zdarzenia pierwszych sił z jednostki.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 8 marca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad kierowania i współdziałania jednostek ochrony przeciwpożarowej biorących udział w działaniu ratowniczym (Dz. U. poz. 308), które weszło w życie z dniem 10 kwietnia 2012 r..
 Kierowanie działaniem ratowniczym są obowiązani przejąć, według następującego porządku, ratownicy z jednostek ochrony przeciwpożarowej, posiadający kwalifikacje do kierowania działaniem ratowniczym:
 1)
 członek ochotniczej straży pożarnej;
@@ -68,9 +66,9 @@ Kierującym jest pierwszy przybyły na miejsce zdarzenia dowódca z jednostki, d
 W przypadku przybycia jednostek ochotniczych i zawodowych, obowiązany do przejęcia kierowania jest kierujący z jednostki zawodowej.
 5.
 W przypadku przybycia na miejsce zdarzenia dowódców tej samej hierarchii, obowiązany do przejęcia kierowania jest dowódca z jednostki, dla której miejsce zdarzenia stanowi teren własnego działania.
-5a.
+5aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Z chwilą przybycia na miejsce działań ratowniczych jednostki będącej podmiotem krajowego systemu ratowniczo-gaśniczego kierowanie działaniem ratowniczym odbywa się na zasadach określonych w przepisach w sprawie szczegółowych zasad organizacji krajowego systemu ratowniczo-gaśniczego.
-6.
+6W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Do obowiązków kierującego oraz do zasad przejmowania i przekazywania kierowania działaniem ratowniczym oraz dokumentowania zdarzenia stosuje się odpowiednio przepisy w sprawie szczegółowych zasad organizacji krajowego systemu ratowniczo-gaśniczego.
 § 3.
 1.
@@ -97,6 +95,5 @@ Współdziałanie jednostek, o którym mowa w ust. 1, organizuje kierujący.
 § 6.
 Traci moc rozporządzenie Ministra Spraw Wewnętrznych z dnia 11 czerwca 1992 r. w sprawie szczegółowych zasad kierowania i współdziałania jednostek ochrony przeciwpożarowej biorących udział w działaniu ratowniczym (Dz. U. Nr 52, poz. 244).
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych (Dz. U. Nr 248, poz. 1491). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 8 marca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad kierowania i współdziałania jednostek ochrony przeciwpożarowej biorących udział w działaniu ratowniczym (Dz. U. poz. 308), które weszło w życie z dniem 10 kwietnia 2012 r. 3) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) Rozporządzenie zostało ogłoszone w dniu 10 sierpnia 2001 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 10 sierpnia 2001 r.. 1) Obecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych (Dz. U. Nr 248, poz. 1491). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 8 marca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad kierowania i współdziałania jednostek ochrony przeciwpożarowej biorących udział w działaniu ratowniczym (Dz. U. poz. 308), które weszło w życie z dniem 10 kwietnia 2012 r. 3) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) Rozporządzenie zostało ogłoszone w dniu 10 sierpnia 2001 r.
 

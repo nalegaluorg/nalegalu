@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 11 października 2021 r. zmieniające rozporządzenie w sprawie wniosków o zmianę wpisu do rejestru brokerów
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 11 października 2021 r. zmieniające rozporządzenie w sprawie wniosków o zmianę wpisu do rejestru brokerów Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-11 |
 | Data wydania | 2021-10-27 |
-| Wejście w życie | 2021-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001942) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1942/text.pdf) |
 
@@ -31,20 +30,15 @@ Na podstawie art. 61 ust. 4 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezp
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 10 grudnia 2018 r. w sprawie wniosków o zmianę wpisu do rejestru brokerów (Dz. U. poz. 2371) wprowadza się następujące zmiany:
 1)
-w § 2 ust. 6 i 7 otrzymują brzmienie:
-„
+w § 2 ust. 6 i 7 otrzymują brzmienie: „
 6.
 Złożenie wniosku na formularzu elektronicznym następuje po uwierzytelnieniu brokera ubezpieczeniowego, brokera reasekuracyjnego lub osoby uprawnionej za pomocą środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w ustawie z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2021 r. poz. 1797).
 7.
-Broker ubezpieczeniowy, broker reasekuracyjny lub osoba uprawniona, która nie posiada danych wymaganych do uzyskania środka identyfikacji elektronicznej, o którym mowa w ust. 6, składa wniosek w formie pisemnej w postaci wydruku formularza, o którym mowa w § 2 ust. 1, opatrzony własnoręcznym podpisem.
-” ;
+Broker ubezpieczeniowy, broker reasekuracyjny lub osoba uprawniona, która nie posiada danych wymaganych do uzyskania środka identyfikacji elektronicznej, o którym mowa w ust. 6, składa wniosek w formie pisemnej w postaci wydruku formularza, o którym mowa w § 2 ust. 1, opatrzony własnoręcznym podpisem. ” ;
 2)
-w § 5 pkt 4 otrzymuje brzmienie:
-„
+w § 5 pkt 4 otrzymuje brzmienie: „
 4)
-w przypadku złożenia wniosku w sposób, o którym mowa w § 2 ust. 7 – oświadczenie odpowiednio brokera ubezpieczeniowego, brokera reasekuracyjnego lub osoby uprawnionej o nieposiadaniu danych wymaganych do uzyskania środka identyfikacji elektronicznej, o którym mowa w ustawie z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej.
-” .
+w przypadku złożenia wniosku w sposób, o którym mowa w § 2 ust. 7 – oświadczenie odpowiednio brokera ubezpieczeniowego, brokera reasekuracyjnego lub osoby uprawnionej o nieposiadaniu danych wymaganych do uzyskania środka identyfikacji elektronicznej, o którym mowa w ustawie z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 listopada 2021 r.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Rozporządzenie wchodzi w życie z dniem 1 listopada 2021 r. 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 

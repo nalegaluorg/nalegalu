@@ -22,16 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-30 |
 | Data wydania | 2018-11-13 |
-| Wejście w życie | 2018-11-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002131) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2131/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 21 ust. 3, art. 22 ust. 2, art. 23 ust. 2, art. 24 ust. 2 w związku z art. 43 ust. 1 i 2, art. 44, art. 46 i art. 53 ust. 3 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2018 r. poz. 1915) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 2 lutego 2010 r. w sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej i pracowników innych jednostek (Dz. U. poz. 134, z późn. zm.) w załączniku nr 3 „Tabele stanowisk, zaszeregowań i kwalifikacji” w tabeli III „Pracowników zatrudnionych w urzędach wojewódzkich” lp. 1 otrzymuje brzmienie: 1 2 3 4 5 6 1 Wojewódzki koordynator ratownictwa medycznego XVIII-XXI 10 według odrębnych przepisów
+W rozporządzeniu Rady Ministrów z dnia 2 lutego 2010 r. w sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej i pracowników innych jednostek (Dz. U. poz. 134, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2011 r. poz. 782 i 1214, z 2012 r. poz. 1403, z 2013 r. poz. 882, z 2015 r. poz. 241 i 1538, z 2016 r. poz. 227, 396, 686, 1370 i 1611, z 2017 r. poz. 39, 51, 156, 455, 1790 i 2504 oraz z 2018 r. poz. 179, 842, 1692 i 1811.) w załączniku nr 3 „Tabele stanowisk, zaszeregowań i kwalifikacji” w tabeli III „Pracowników zatrudnionych w urzędach wojewódzkich” lp. 1 otrzymuje brzmienie:
+1 2 3 4 5 6 1 Wojewódzki koordynator ratownictwa medycznego XVIII-XXI 10 według odrębnych przepisów
 § 2.
 Do lekarzy koordynatorów ratownictwa medycznego pozostających na dotychczasowych stanowiskach stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w zakresie dotyczącym wojewódzkich koordynatorów ratownictwa medycznego, z uwzględnieniem art. 18 ustawy z dnia 10 maja 2018 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 1115 i 1942).
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2011 r. poz. 782 i 1214, z 2012 r. poz. 1403, z 2013 r. poz. 882, z 2015 r. poz. 241 i 1538, z 2016 r. poz. 227, 396, 686, 1370 i 1611, z 2017 r. poz. 39, 51, 156, 455, 1790 i 2504 oraz z 2018 r. poz. 179, 842, 1692 i 1811.
 

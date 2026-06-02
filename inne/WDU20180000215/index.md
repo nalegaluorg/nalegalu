@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 23 stycznia 2018 r. zmieniające rozporządzenie w sprawie opiniowania służbowego policjantów
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 23 stycznia 2018 r. zmieniające rozporządzenie w sprawie opiniowania służbowego policjantów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-23 |
 | Data wydania | 2018-01-25 |
-| Wejście w życie | 2018-01-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000215) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/215/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 35 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 sierpnia 2010 r. w sprawie opiniowania służbowego policjantów (Dz. U. z 2013 r. poz. 883 oraz z 2014 r. poz. 1231) wprowadza się następujące zmiany:
 1)
-§ 5 otrzymuje brzmienie:
-„
+§ 5 otrzymuje brzmienie: „
 § 5.
 Przełożonymi właściwymi do wydania opinii, zwanymi dalej „wydającymi opinię”, są:
 1)
@@ -108,11 +106,9 @@ policjanta na stanowisku bezpośrednio mu podległym lub pozostającego w jego d
 15)
 kierownik komórki organizacyjnej, o którym mowa w pkt 14 lit. a, w stosunku do podległych mu policjantów;
 16)
-właściwy przełożony w miejscu delegowania policjanta lub pełnienia przez policjanta obowiązków służbowych, za okres, o którym mowa w § 3 ust. 3 pkt 2.
-” ;
+właściwy przełożony w miejscu delegowania policjanta lub pełnienia przez policjanta obowiązków służbowych, za okres, o którym mowa w § 3 ust. 3 pkt 2. ” ;
 2)
-w § 7 ust. 2–4 otrzymują brzmienie:
-„
+w § 7 ust. 2–4 otrzymują brzmienie: „
 2.
 Do rozpatrzenia odwołania właściwi są:
 1)
@@ -154,9 +150,7 @@ dyrektor instytutu badawczego w stosunku do opinii wydanej przez kierownika kom�
 3.
 Od opinii wydanej przez ministra właściwego do spraw wewnętrznych w stosunku do Komendanta Biura Spraw Wewnętrznych Policji oraz od opinii wydanej przez Komendanta Głównego Policji w stosunku do policjantów, o których mowa w § 5 pkt 2, odwołanie nie przysługuje.
 4.
-Opiniowany, o którym mowa w § 5 pkt 1 i 2, może zwrócić się odpowiednio do ministra właściwego do spraw wewnętrznych albo do Komendanta Głównego Policji z wnioskiem o ponowne rozpatrzenie sprawy; do tego wniosku stosuje się odpowiednio przepisy dotyczące odwołań od opinii.
-” .
+Opiniowany, o którym mowa w § 5 pkt 1 i 2, może zwrócić się odpowiednio do ministra właściwego do spraw wewnętrznych albo do Komendanta Głównego Policji z wnioskiem o ponowne rozpatrzenie sprawy; do tego wniosku stosuje się odpowiednio przepisy dotyczące odwołań od opinii. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97).
+Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97).
 

@@ -22,11 +22,24 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-04-12 |
 | Data wydania | 2016-04-22 |
-| Wejście w życie | 2016-05-07 |
 | Ostatnia zmiana | 2025-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000562) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/562/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Prowadzenie ksiąg rachunkowych zakładu ubezpieczeń i zakładu reasekuracji, dokumentacja ubezpieczeniowa i reasekuracyjna Rozdział 3 – Szczególne zasady rachunkowości w zakresie lokat zakładu ubezpieczeń i zakładu reasekuracji Rozdział 4 – Szczególne zasady tworzenia rezerw techniczno-ubezpieczeniowych Rozdział 5 – Szczególne zasady sporządzania sprawozdań finansowych zakładu ubezpieczeń i zakładu reasekuracji Rozdział 6 – Skonsolidowane sprawozdania finansowe grupy kapitałowej Rozdział 7 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Prowadzenie ksiąg rachunkowych zakładu ubezpieczeń i zakładu reasekuracji, dokumentacja ubezpieczeniowa i reasekuracyjna
+
+#### Rozdział 3 – Szczególne zasady rachunkowości w zakresie lokat zakładu ubezpieczeń i zakładu reasekuracji
+
+#### Rozdział 4 – Szczególne zasady tworzenia rezerw techniczno-ubezpieczeniowych
+
+#### Rozdział 5 – Szczególne zasady sporządzania sprawozdań finansowych zakładu ubezpieczeń i zakładu reasekuracji
+
+#### Rozdział 6 – Skonsolidowane sprawozdania finansowe grupy kapitałowej
+
+#### Rozdział 7 – Przepisy przejściowe i końcowe
 
 ## Załącznik nr 1 — – Noty objaśniające do pozycji bilansu zakładu ubezpieczeń i zakładu reasekuracji
 
@@ -47,8 +60,9 @@ Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Prowadz
 ## Załącznik nr 9 — – Sposób ustalania wysokości maksymalnej stopy technicznej
 
 Treść rozporządzenia
-Na podstawie art. 81 ust. 2 pkt 6 lit. a ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Na podstawie art. 81 ust. 2 pkt 6 lit. a ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4, 978, 1045, 1166, 1333, 1844 i 1893.) zarządza się, co następuje:
+Rozdział 1
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczególne zasady rachunkowości zakładów ubezpieczeń i zakładów reasekuracji, w tym:
 1)
@@ -167,7 +181,7 @@ udziały, aktywa finansowe, skorygowana cena nabycia, aktywa finansowe przeznacz
 31)
 główny oddział oraz oddział zagranicznego zakładu ubezpieczeń albo zagranicznego zakładu reasekuracji – odpowiednio główny oddział oraz oddział, w rozumieniu art. 3 ust. 1 pkt 11 i 22 ustawy o działalności ubezpieczeniowej i reasekuracyjnej;
 32)
-jednostka macierzysta – zakład ubezpieczeń albo zakład reasekuracji, który jest głównym miejscem wykonywania działalności, w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.);
+jednostka macierzysta – zakład ubezpieczeń albo zakład reasekuracji, który jest głównym miejscem wykonywania działalności, w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65 i 352.);
 33)
 lokaty wolnych środków zakładu ubezpieczeń – lokaty zakładu ubezpieczeń działu I niestanowiące pokrycia rezerw techniczno-ubezpieczeniowych;
 34)
@@ -195,7 +209,8 @@ Przepisy rozporządzenia dotyczące ubezpieczeń na życie (grupy 1–5 działu 
 W przypadku gdy posiadane informacje pozwalają zakładowi ubezpieczeń działu II na stwierdzenie, że z umów ubezpieczenia mogą powstać świadczenia płatne okresowo w formie rent lub gdy powstaną świadczenia płatne okresowo w formie rent, rezerwę na skapitalizowaną wartość rent tworzy się przy zastosowaniu metody aktuarialnej w trybie przewidzianym dla ubezpieczeń na życie (grupy 1–5 działu I) zgodnie z § 42.
 § 4.
 Główne oddziały oraz oddziały zagranicznych zakładów ubezpieczeń i zagranicznych zakładów reasekuracji stosują zasady rachunkowości określone przez jednostkę macierzystą, o ile nie są sprzeczne z przepisami ustawy.
-Rozdział 2 Prowadzenie ksiąg rachunkowych zakładu ubezpieczeń i zakładu reasekuracji, dokumentacja ubezpieczeniowa i reasekuracyjna
+Rozdział 2
+Prowadzenie ksiąg rachunkowych zakładu ubezpieczeń i zakładu reasekuracji, dokumentacja ubezpieczeniowa i reasekuracyjna
 § 5.
 1.
 Księgi rachunkowe zakładu ubezpieczeń oraz księgi rachunkowe zakładu reasekuracji są prowadzone zgodnie z przepisami ustawy.
@@ -465,8 +480,7 @@ W odniesieniu do transakcji:
 1)
 połączenia zakładu ubezpieczeń z innym zakładem ubezpieczeń lub przejęcia innego zakładu ubezpieczeń przez zakład ubezpieczeń,
 2)
-połączenia zakładu reasekuracji z innym zakładem reasekuracji lub przejęcia innego zakładu reasekuracji przez zakład reasekuracji
-stosuje się odpowiednio przepisy rozdziału 4a ustawy.
+połączenia zakładu reasekuracji z innym zakładem reasekuracji lub przejęcia innego zakładu reasekuracji przez zakład reasekuracji – stosuje się odpowiednio przepisy rozdziału 4a ustawy.
 2.
 W odniesieniu do transakcji przeniesienia portfela ubezpieczeń, o którym mowa w art. 298 ustawy o działalności ubezpieczeniowej i reasekuracyjnej, lub przeniesienia portfela reasekuracji, o którym mowa w art. 305 ustawy o działalności ubezpieczeniowej i reasekuracyjnej, stosuje się odpowiednio przepisy dotyczące przejęcia innego zakładu ubezpieczeń przez zakład ubezpieczeń albo przejęcia innego zakładu reasekuracji przez zakład reasekuracji, z zastrzeżeniem ust. 3–6.
 3.
@@ -482,7 +496,8 @@ Jeżeli w wyniku zaistniałych po dniu przeniesienia portfela ubezpieczeń lub p
 W przypadku likwidacji szkód komunikacyjnych wynikłych ze zdarzeń zaistniałych poza terytorium Rzeczypospolitej Polskiej, dowodem księgowym, stanowiącym podstawę ewidencji zdarzenia gospodarczego, może być dokument obciążeniowy przekazany w formie określonej w Regulaminie Wewnętrznym, wymienionym w Porozumieniu Wielostronnym, o którym mowa w art. 2 ust. 1 pkt 15 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2013 r. poz. 392, z 2014 r. poz. 827 oraz z 2015 r. poz. 1273, 1691, 1844 i 2281).
 2.
 W przypadku bezpośredniej likwidacji szkód, przeprowadzanej zgodnie z postanowieniami porozumienia zawartego przez zakłady ubezpieczeń, dowodem księgowym stanowiącym podstawę ewidencji zdarzenia gospodarczego może być dokument obciążeniowy przekazany w formie określonej w tym porozumieniu.
-Rozdział 3 Szczególne zasady rachunkowości w zakresie lokat zakładu ubezpieczeń i zakładu reasekuracji
+Rozdział 3
+Szczególne zasady rachunkowości w zakresie lokat zakładu ubezpieczeń i zakładu reasekuracji
 § 19.
 1.
 Zakład ubezpieczeń oraz zakład reasekuracji dokonuje, z zachowaniem zasady ostrożności, wyceny lokat na dzień bilansowy, z zastrzeżeniem ust. 2:
@@ -582,7 +597,8 @@ Sposób tworzenia funduszu organizacyjnego oraz sposób wydatkowania środków t
 Przychody tytułem środków, o których mowa w ust. 5, uzyskane przez główny oddział odpowiednio zwiększają wartość kaucji, chyba że statut głównego oddziału stanowi inaczej.
 § 29.
 Do szczególnych zasad rachunkowości dotyczących lokat zakładów ubezpieczeń i zakładów reasekuracji, w zakresie nieuregulowanym w niniejszym rozdziale, stosuje się odpowiednio zasady określone w rozporządzeniu Ministra Finansów z dnia 12 grudnia 2001 r. w sprawie szczegółowych zasad uznawania, metod wyceny, zakresu ujawniania i sposobu prezentacji instrumentów finansowych.
-Rozdział 4 Szczególne zasady tworzenia rezerw techniczno-ubezpieczeniowych
+Rozdział 4
+Szczególne zasady tworzenia rezerw techniczno-ubezpieczeniowych
 § 30.
 1.
 Zakład ubezpieczeń tworzy rezerwy techniczno-ubezpieczeniowe, przeznaczone na pokrycie bieżących i przyszłych zobowiązań, jakie mogą wyniknąć z zawartych umów ubezpieczenia i umów reasekuracji czynnej.
@@ -769,8 +785,7 @@ gwarantowane w umowie ubezpieczenia świadczenia oraz gwarantowaną wartość wy
 b)
 świadczenia opcjonalne, przysługujące zgodnie z warunkami umowy ubezpieczenia,
 2)
-kosztów obsługi umów i kosztów związanych z wypłatą odszkodowań i świadczeń
-przy czym przy jej tworzeniu uwzględnia się przyszłe wpływy zakładu ubezpieczeń z tytułu składek należnych zgodnie z zawartymi umowami ubezpieczenia.
+kosztów obsługi umów i kosztów związanych z wypłatą odszkodowań i świadczeń – przy czym przy jej tworzeniu uwzględnia się przyszłe wpływy zakładu ubezpieczeń z tytułu składek należnych zgodnie z zawartymi umowami ubezpieczenia.
 2.
 Dopuszcza się stosowanie metody retrospektywnej, pod warunkiem że daje ona wartość rezerwy nie niższą od wartości rezerwy ustalonej metodą prospektywną lub gdy dla danej umowy ubezpieczenia nie jest możliwe zastosowanie metody prospektywnej.
 3.
@@ -845,8 +860,7 @@ Ograniczenie dotyczące stosowanych stóp technicznych, określone w ust. 1 i 2,
 1)
 umów ubezpieczenia na życie, w których składka jest opłacana jednorazowo, a okres, na jaki umowa została zawarta, nie jest dłuższy niż 8 lat,
 2)
-umów ubezpieczenia na życie z ubezpieczeniowym funduszem kapitałowym
-przy czym stosowane stopy techniczne nie mogą być wyższe niż średnie roczne stopy zwrotu z lokat stanowiących pokrycie rezerw techniczno-ubezpieczeniowych dotyczących tych umów ustalone za okres ostatnich 36 miesięcy albo okres całej działalności, gdy zakład ubezpieczeń działu I wykonuje działalność ubezpieczeniową krócej niż 36 miesięcy.
+umów ubezpieczenia na życie z ubezpieczeniowym funduszem kapitałowym – przy czym stosowane stopy techniczne nie mogą być wyższe niż średnie roczne stopy zwrotu z lokat stanowiących pokrycie rezerw techniczno-ubezpieczeniowych dotyczących tych umów ustalone za okres ostatnich 36 miesięcy albo okres całej działalności, gdy zakład ubezpieczeń działu I wykonuje działalność ubezpieczeniową krócej niż 36 miesięcy.
 7.
 Ograniczenie dotyczące stosowanych stóp technicznych, określone w ust. 1 i 2, nie ma zastosowania również do ustalania rezerw na skapitalizowaną wartość rent w ubezpieczeniach działu II, przy czym stopy techniczne stosowane w dziale II nie mogą być wyższe niż stopa zwrotu z lokat stanowiących pokrycie rezerw na skapitalizowaną wartość rent ustalona za okres ostatnich 36 miesięcy albo okres całej działalności, gdy zakład ubezpieczeń działu II wykonuje działalność ubezpieczeniową krócej niż 36 miesięcy. Stopa ta jest obliczana metodą określoną w załączniku nr 8 do rozporządzenia, z zastrzeżeniem zastąpienia ostatnich 3 lat obrotowych ostatnimi trzema okresami 12 miesięcznymi poprzedzającymi dzień, na który ustalana jest rezerwa na skapitalizowaną wartość rent.
 8.
@@ -875,7 +889,8 @@ Jeżeli rezerwa ubezpieczeń na życie ustalona przy zastosowaniu metody Zillmer
 Do podlegających reasekuracji umów ubezpieczenia, o których mowa w ust. 1, stosuje się ust. 2–6.
 § 50.
 Jeżeli przy ustalaniu wartości rezerw techniczno-ubezpieczeniowych otrzymuje się w trakcie obliczania rezerw wartości ujemne, to do dalszych obliczeń przyjmuje się wartość równą „0”, z wyłączeniem wyniku uwzględnienia wartości oszacowanych regresów, odzysków i dotacji w rezerwie na niewypłacone odszkodowania i świadczenia.
-Rozdział 5 Szczególne zasady sporządzania sprawozdań finansowych zakładu ubezpieczeń i zakładu reasekuracji
+Rozdział 5
+Szczególne zasady sporządzania sprawozdań finansowych zakładu ubezpieczeń i zakładu reasekuracji
 § 51.
 1.
 Zakłady ubezpieczeń sporządzają techniczny rachunek ubezpieczeń na życie oraz techniczny rachunek ubezpieczeń majątkowych i osobowych w podziale na grupy ubezpieczeń.
@@ -933,8 +948,7 @@ Zakład ubezpieczeń, na który przeniesiono:
 1)
 portfel ubezpieczeń lub portfel reasekuracji innego zakładu ubezpieczeń,
 2)
-portfel reasekuracji zakładu reasekuracji
-sporządza sprawozdanie finansowe na dzień przeniesienia portfela ubezpieczeń lub portfela reasekuracji.
+portfel reasekuracji zakładu reasekuracji – sporządza sprawozdanie finansowe na dzień przeniesienia portfela ubezpieczeń lub portfela reasekuracji.
 4.
 Zakład reasekuracji powstały w wyniku połączenia dwóch zakładów reasekuracji sporządza sprawozdanie finansowe na dzień połączenia.
 5.
@@ -943,7 +957,8 @@ Zakład reasekuracji, który dokonał przejęcia innego zakładu reasekuracji, s
 Zakład reasekuracji, na który przeniesiono portfel reasekuracji innego zakładu reasekuracji albo zakładu ubezpieczeń, sporządza sprawozdanie finansowe na dzień przeniesienia portfela reasekuracji.
 § 56.
 Korporacja Ubezpieczeń Kredytów Eksportowych S.A. do sprawozdania finansowego dołącza sprawozdanie o stanie wyodrębnionego rachunku bankowego, o którym mowa w art. 10 ust. 1 ustawy z dnia 7 lipca 1994 r. o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych (Dz. U. z 2015 r. poz. 489 i 1844).
-Rozdział 6 Skonsolidowane sprawozdania finansowe grupy kapitałowej
+Rozdział 6
+Skonsolidowane sprawozdania finansowe grupy kapitałowej
 § 57.
 Zakład ubezpieczeń albo zakład reasekuracji będący jednostką dominującą, mającą siedzibę na terytorium Rzeczypospolitej Polskiej, sporządza roczne skonsolidowane sprawozdanie finansowe grupy kapitałowej.
 § 58.
@@ -1007,7 +1022,8 @@ b)
 Zakłady ubezpieczeń lub zakłady reasekuracji objęte skonsolidowanym sprawozdaniem finansowym, a w szczególności jednostki zależne i współzależne powinny stosować jednakowe metody wyceny aktywów i pasywów oraz sporządzania sprawozdań finansowych zgodnie z przyjętymi zasadami (polityką) rachunkowości zakładu ubezpieczeń będącego jednostką dominującą albo zakładu reasekuracji będącego jednostką dominującą.
 2.
 Do sporządzania skonsolidowanego sprawozdania finansowego grupy kapitałowej, w zakresie nieuregulowanym w niniejszym rozdziale, stosuje się odpowiednio zasady określone w przepisach wykonawczych wydanych na podstawie art. 81 ust. 2 pkt 3 ustawy.
-Rozdział 7 Przepisy przejściowe i końcowe
+Rozdział 7
+Przepisy przejściowe i końcowe
 § 60.
 Rozporządzenie ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzonych za rok obrotowy rozpoczynający się w 2016 r.
 § 61.
@@ -1018,7 +1034,7 @@ Do sprawozdań finansowych zakładów ubezpieczeń i zakładów reasekuracji spo
 3.
 Przepisy § 46 ust. 6 i 7 stosuje się po raz pierwszy do sprawozdań finansowych zakładów ubezpieczeń za drugi kwartał w roku obrotowym rozpoczynającym się w 2016 r.
 § 62.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 28 grudnia 2009 r. w sprawie szczególnych zasad rachunkowości zakładów ubezpieczeń i zakładów reasekuracji (Dz. U. poz. 1825 oraz z 2015 r. poz. 1849), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 484 ust. 2 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4, 978, 1045, 1166, 1333, 1844 i 1893. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65 i 352. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 28 grudnia 2009 r. w sprawie szczególnych zasad rachunkowości zakładów ubezpieczeń i zakładów reasekuracji (Dz. U. poz. 1825 oraz z 2015 r. poz. 1849), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 484 ust. 2 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844).
 
 ## Załącznik nr 1 — – Noty objaśniające do pozycji bilansu zakładu ubezpieczeń i zakładu reasekuracji
 
@@ -1104,8 +1120,7 @@ dodatkowe składki w przypadku płatności półrocznych, kwartalnych lub miesi�
 4)
 w przypadku koasekuracji, część składek przypadającą na zakład ubezpieczeń zgodnie z umową koasekuracji,
 5)
-składki reasekuracyjne należne od cedentów, w tym także z tytułu wejścia w portfel cedenta po potrąceniu niewykorzystanych składek z ubezpieczeń, wycofanych z portfela na rzecz zakładów ubezpieczeń będących cedentami
-przy czym składki wykazuje się łącznie ze wszystkimi dodatkami i uzupełnieniami za okresy zaległe, po potrąceniu storn, zwrotów, upustów, wszelkich zniżek i bonifikat.
+składki reasekuracyjne należne od cedentów, w tym także z tytułu wejścia w portfel cedenta po potrąceniu niewykorzystanych składek z ubezpieczeń, wycofanych z portfela na rzecz zakładów ubezpieczeń będących cedentami – przy czym składki wykazuje się łącznie ze wszystkimi dodatkami i uzupełnieniami za okresy zaległe, po potrąceniu storn, zwrotów, upustów, wszelkich zniżek i bonifikat.
 3.
 W pozycji I.2 „udział reasekuratorów w składce przypisanej brutto” technicznego rachunku ubezpieczeń na życie oraz w pozycji I.2 „udział reasekuratorów w składce przypisanej” technicznego rachunku ubezpieczeń majątkowych i osobowych ujmowane są składki reasekuracyjne zapłacone lub przypadające do zapłaty należne reasekuratorowi w okresie sprawozdawczym na podstawie umów reasekuracji biernej proporcjonalnej i nieproporcjonalnej, zawartych przez zakład ubezpieczeń albo zakład reasekuracji. Pozycje portfela przypadające do zapłaty w momencie zawarcia lub zmiany umowy reasekuracji zwiększają tę kwotę, podczas gdy pozycje należne z tytułu wycofania z portfela zmniejszają tę kwotę.
 4.
@@ -1303,7 +1318,10 @@ d)
 lokaty krajowe i zagraniczne, w tym znajdujące się na terenie Unii Europejskiej oraz pozostałe, z wyszczególnieniem papierów wartościowych dopuszczonych do publicznego obrotu na rynku regulowanym, papierów wartościowych z nieograniczoną zbywalnością, nienotowanych na giełdzie oraz nieznajdujących się w regulowanym obrocie pozagiełdowym, papierów wartościowych emitowanych lub gwarantowanych przez Skarb Państwa lub organizacje międzynarodowe, których członkiem jest Rzeczpospolita Polska, oraz lokat emitowanych lub gwarantowanych przez jednostki samorządu terytorialnego; przez lokaty zagraniczne rozumie się lokaty umiejscowione poza granicami państwa. Umiejscowienie lokat określa w przypadku:
 – nieruchomości – ich lokalizacja,
 – lokat notowanych na rynkach regulowanych – państwo siedziby ich emitenta,
-– innych lokat – miejsce ich realizacji, co oznacza w szczególności: – – dla dłużnych papierów wartościowych, pożyczek i wierzytelności oraz innych instrumentów finansowych o zagwarantowanej stopie dochodu – państwo siedziby emitenta, państwo siedziby pożyczkobiorcy, państwo siedziby dłużnika, – – dla akcji, udziałów oraz innych instrumentów finansowych dających prawo do udziału w kapitale spółki – siedziba tej spółki, – – dla jednostek uczestnictwa i certyfikatów inwestycyjnych w funduszach inwestycyjnych lub w innych funduszach wspólnego lokowania – państwo siedziby zarządzającego danym funduszem,
+innych lokat – miejsce ich realizacji, co oznacza w szczególności:
+– – dla dłużnych papierów wartościowych, pożyczek i wierzytelności oraz innych instrumentów finansowych o zagwarantowanej stopie dochodu – państwo siedziby emitenta, państwo siedziby pożyczkobiorcy, państwo siedziby dłużnika,
+– – dla akcji, udziałów oraz innych instrumentów finansowych dających prawo do udziału w kapitale spółki – siedziba tej spółki,
+– – dla jednostek uczestnictwa i certyfikatów inwestycyjnych w funduszach inwestycyjnych lub w innych funduszach wspólnego lokowania – państwo siedziby zarządzającego danym funduszem,
 e)
 lokaty w walutach obcych, jeżeli ich udział w lokatach ogółem zakładu ubezpieczeń albo zakładu reasekuracji jest istotny,
 f)
@@ -1514,15 +1532,13 @@ Rezerwę na wyrównanie szkodowości zwiększa się w każdym roku obrotowym, w 
 2)
 12% składek przypisanych na udziale własnym w grupie 14.
 3.
-Rezerwa na wyrównanie szkodowości nie może być wyższa niż 150% największej rocznej składki przypisanej na udziale własnym w grupie 14 w ostatnich 5 latach obrotowych.
-Metoda nr 2
+Rezerwa na wyrównanie szkodowości nie może być wyższa niż 150% największej rocznej składki przypisanej na udziale własnym w grupie 14 w ostatnich 5 latach obrotowych. Metoda nr 2
 1.
 Zakład ubezpieczeń oraz zakład reasekuracji tworzy rezerwę na wyrównanie szkodowości w grupie 14 na pokrycie ujemnego wyniku technicznego w grupie 14 w danym roku obrotowym.
 2.
 Rezerwę na wyrównanie szkodowości zwiększa się w każdym roku obrotowym, w którym wynik techniczny w grupie 14 jest dodatni o 75% dodatniego wyniku technicznego w grupie 14, aż do osiągnięcia co najmniej minimalnej wartości rezerwy na wyrównanie szkodowości, o której mowa w ust. 3.
 3.
-Minimalna wartość rezerwy na wyrównanie szkodowości jest równa 134% średniej rocznej składki przypisanej na udziale własnym z ubezpieczeń bezpośrednich i reasekuracji czynnej w grupie 14 w ostatnich 5 latach obrotowych.
-Metoda nr 3 (metoda aktuar ia lna)
+Minimalna wartość rezerwy na wyrównanie szkodowości jest równa 134% średniej rocznej składki przypisanej na udziale własnym z ubezpieczeń bezpośrednich i reasekuracji czynnej w grupie 14 w ostatnich 5 latach obrotowych. Metoda nr 3 (metoda aktuar ia lna)
 1.
 Zakład ubezpieczeń oraz zakład reasekuracji tworzy rezerwę na wyrównanie szkodowości w grupie 14 na pokrycie wyższego niż przeciętny współczynnika szkodowości w grupie 14 w danym roku obrotowym.
 2.
@@ -1556,8 +1572,7 @@ Przez „współczynnik szkodowości” rozumie się „współczynnik szkodowo�
 10.
 Przez „składkę zarobioną” rozumie się „składkę zarobioną na udziale własnym”.
 11.
-Przez „współczynnik kosztów” rozumie się stosunek kosztów działalności ubezpieczeniowej i pozostałych kosztów technicznych na udziale własnym (poz. VII i VIII technicznego rachunku ubezpieczeń majątkowych i osobowych – załącznik nr 3 do ustawy) do składki zarobionej.
-Metoda nr 4 (metoda aktuar ia lna)
+Przez „współczynnik kosztów” rozumie się stosunek kosztów działalności ubezpieczeniowej i pozostałych kosztów technicznych na udziale własnym (poz. VII i VIII technicznego rachunku ubezpieczeń majątkowych i osobowych – załącznik nr 3 do ustawy) do składki zarobionej. Metoda nr 4 (metoda aktuar ia lna)
 1.
 Zakład ubezpieczeń oraz zakład reasekuracji tworzy rezerwę na wyrównanie szkodowości w grupie 14 na pokrycie wyższego niż przeciętny współczynnika szkodowości w grupie 14 w danym roku obrotowym.
 2.

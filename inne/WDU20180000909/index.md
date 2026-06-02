@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 25 kwietnia 2018 r. zmieniające rozporządzenie w sprawie wykazu produktów leczniczych, które mogą być doraźnie dostarczane w związku z udzielanym świadczeniem zdrowotnym, oraz wykazu produktów leczniczych wchodzących w skład zestawów przeciwwstrząsowych, ratujących życie
+# Rozporządzenie Ministra Zdrowiaz dnia 25 kwietnia 2018 r. zmieniające rozporządzenie w sprawie wykazu produktów leczniczych, które mogą być doraźnie dostarczane w związku z udzielanym świadczeniem zdrowotnym, oraz wykazu produktów leczniczych wchodzących w skład zestawów przeciwwstrząsowych, ratujących życie Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-04-25 |
 | Data wydania | 2018-05-15 |
-| Wejście w życie | 2018-05-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000909) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/909/text.pdf) |
 
@@ -31,32 +30,25 @@ Na podstawie art. 68 ust. 7 ustawy z dnia 6 września 2001 r. – Prawo farmaceu
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 12 stycznia 2011 r. w sprawie wykazu produktów leczniczych, które mogą być doraźnie dostarczane w związku z udzielanym świadczeniem zdrowotnym, oraz wykazu produktów leczniczych wchodzących w skład zestawów przeciwwstrząsowych, ratujących życie (Dz. U. poz. 94) wprowadza się następujące zmiany:
 1)
-w załączniku nr 1 do rozporządzenia w wierszu 8 „Leki przeciwalergiczne, przeciwzapalne” pkt 7 otrzymuje brzmienie:
-„
+w załączniku nr 1 do rozporządzenia w wierszu 8 „Leki przeciwalergiczne, przeciwzapalne” pkt 7 otrzymuje brzmienie: „
 7)
-Prednisoloni hemisuccinas
-” ;
+Prednisoloni hemisuccinas ” ;
 2)
 w załączniku nr 2 do rozporządzenia:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
-Adrenalinum 1 mg/ml lub 300 µg/0,3 ml lub 150 µg/0,3 ml lub 1 mg/10 ml – roztwór do wstrzykiwań;
-” ,
+Adrenalinum 1 mg/ml lub 300 µg/0,3 ml lub 150 µg/0,3 ml lub 1 mg/10 ml – roztwór do wstrzykiwań; ” ,
 b)
 w części „Płyny infuzyjne” uchyla się pkt 2;
 3)
 w załączniku nr 3 do rozporządzenia:
 a)
-w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
-„
+w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
 4)
-Adrenalinum 1 mg/ml lub 300 µg/0,3 ml lub 150 µg/0,3 ml lub 1 mg/10 ml – roztwór do wstrzykiwań.
-” ,
+Adrenalinum 1 mg/ml lub 300 µg/0,3 ml lub 150 µg/0,3 ml lub 1 mg/10 ml – roztwór do wstrzykiwań. ” ,
 b)
 w części „Płyny infuzyjne” uchyla się pkt 2.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 

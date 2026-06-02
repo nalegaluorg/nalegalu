@@ -125,7 +125,7 @@ objaśnienia dla osób wypełniających wniosek
 7) uprawniające małoletniego/małoletnich do zamieszkania lub pobytu na terytorium Rzeczypospolitej Polskiej;
 8) potwierdzające posiadanie obywatelstwa polskiego przez rodziców lub dalszych wstępnych;
 9) potwierdzające utratę przez cudzoziemca, jego dziecko/dzieci oraz jego wstępnych obywatelstwa polskiego;
-10) stwierdzające nabycie obywatelstwa obcego przez cudzoziemca lub jego dziecko/dzieci, w przypadku gdy w przeszłości posiadali obywatelstwo polskie;
+10) s twierdzające nabycie obywatelstwa obcego przez cudzoziemca lub jego dziecko/dzieci, w przypadku gdy w przeszłości posiadali obywatelstwo polskie;
 11) potwierdzające źródło utrzymania;
 12) potwierdzające osiągnięcia zawodowe, działalność polityczną i społeczną.
 aneks do pkt iX wniosku o nadanie obywatelstwa polskiego Miejsce na wklejenie fotografii (4,5 cm x 3,5 cm) osoby, której dotyczy wniosek iX. informacje dotyczące małoletniego objętego wnioskiem na podstawie art. 7 ustawy z dnia 2 kwietnia 2009 r. o obywatelstwie polskim

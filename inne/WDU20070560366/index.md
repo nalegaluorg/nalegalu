@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-03-07 |
 | Data wydania | 2007-03-30 |
-| Wejście w życie | 2007-04-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070560366) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/366/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego (Dz. U. Nr 223, poz. 2221, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego (Dz. U. Nr 223, poz. 2221, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 42, poz. 386 i Nr 96, poz. 959, z 2005 r. Nr 10, poz. 64, Nr 14, poz. 115, Nr 141, poz. 1182 i Nr 175, poz. 1462 oraz z 2006 r. Nr 66, poz. 473, Nr 92, poz. 638 i Nr 245, poz. 1774.) wprowadza się następujące zmiany:
 
 - **1)** w art. 20: w ust. 1 pkt 4 otrzymuje brzmienie: „
     - **a)**
@@ -61,8 +60,14 @@ source: "eli-html"
 
 5. Zniszczenia roślin chmielu, o którym mowa w ust. 4, dokonuje się, na koszt producenta chmielu, przez wykopanie karp tych roślin. ” ;
 
-- **3)** w art. 23: w ust. 1: – pkt 6–10 otrzymują brzmienie: „ 6) ilości chmielu, która w danym roku zbioru jest przedmiotem umów zawartych z wyprzedzeniem; 7) ilości chmielu dostarczonego z danego roku zbioru i średniej cenie za 1 kg chmielu; 8) wielkości produkcji alfa-kwasów i ich średniej zawartości w chmielu; 9) ilości chmielu objętego umowami zawartymi z wyprzedzeniem w odniesieniu do następnego roku zbiorów; 10) liczbie producentów chmielu; ” , – uchyla się pkt 11, ust. 3 i 4 otrzymują brzmienie: „
+- **3)** w art. 23: w ust. 1: pkt 6–10 otrzymują brzmienie: „
     - **a)**
+
+- **6)** ilości chmielu, która w danym roku zbioru jest przedmiotem umów zawartych z wyprzedzeniem;
+- **7)** ilości chmielu dostarczonego z danego roku zbioru i średniej cenie za 1 kg chmielu;
+- **8)** wielkości produkcji alfa-kwasów i ich średniej zawartości w chmielu;
+- **9)** ilości chmielu objętego umowami zawartymi z wyprzedzeniem w odniesieniu do następnego roku zbiorów;
+- **10)** liczbie producentów chmielu; ” , – uchyla się pkt 11, ust. 3 i 4 otrzymują brzmienie: „
     - **b)**
 
 3. Grupa producentów chmielu przekazuje Głównemu Inspektorowi do dnia 15 marca roku następującego po roku zbioru informacje o ponoszonym przez:
@@ -82,7 +87,7 @@ source: "eli-html"
 2. Kto wbrew obowiązkowi określonemu w art. 23 ust. 3 nie przekazuje Głównemu Inspektorowi informacji o ponoszonym przez:
 
 - **1)** producenta chmielu średnim koszcie wstępnego przygotowania 1 kg chmielu,
-- **2)** grupę producentów chmielu: średnim koszcie składowania 1 kg chmielu, średnim koszcie w związku ze sprzedażą 1 kg chmielu podlega karze grzywny. ” , ust. 4 otrzymuje brzmienie: „
+- **2)** grupę producentów chmielu: średnim koszcie składowania 1 kg chmielu, średnim koszcie w związku ze sprzedażą 1 kg chmielu – podlega karze grzywny. ” , ust. 4 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **b)**
@@ -94,9 +99,9 @@ source: "eli-html"
 - **3)** będąc producentem chmielu nienależącym do grupy producentów chmielu albo działając w imieniu lub w interesie grupy producentów chmielu, wbrew obowiązkom określonym w art. 3 lub 4 rozporządzenia Komisji (WE) nr 1557/2006 z dnia 18 października 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1952/2005 w odniesieniu do rejestracji umów i przekazywania danych odnoszących się do chmielu, nie przekazuje kopii umów zawartych z wyprzedzeniem lub kopii faktur potwierdzających przeniesienie własności chmielu,
 - **4)** będąc producentem chmielu nienależącym do grupy producentów chmielu albo działając w imieniu lub w interesie grupy producentów chmielu, przekazuje wojewódzkiemu inspektorowi, właściwemu ze względu na miejsce położenia uprawy chmielu, nieprawdziwe dane w zgłoszeniu powierzchni uprawy chmielu, o którym mowa w art. 20 ust. 1 pkt 4 lit. d,
 - **5)** będąc producentem chmielu przekazuje wojewódzkiemu inspektorowi, właściwemu ze względu na miejsce położenia uprawy chmielu, nieprawdziwe dane w deklaracji, o której mowa w art. 3 ust. 1 rozporządzenia Komisji (WE) nr 1850/2006 z dnia 14 grudnia 2006 r. ustanawiającego szczegółowe zasady certyfikacji chmielu i produktów chmielowych (Dz. Urz. UE L 355 z 15.12.2006, str. 72), dołączanej do chmielu nieprzygotowanego zgłoszonego do certyfikacji,
-- **6)** wykonując działalność gospodarczą w zakresie wytwarzania produktów chmielowych, wbrew obowiązkowi określonemu w art. 23 ust. 4, nie przekazuje informacji o średniej zawartości alfa-kwasów w chmielu podlega karze grzywny. ” .
+- **6)** wykonując działalność gospodarczą w zakresie wytwarzania produktów chmielowych, wbrew obowiązkowi określonemu w art. 23 ust. 4, nie przekazuje informacji o średniej zawartości alfa-kwasów w chmielu – podlega karze grzywny. ” .
 
 **Art. 2.** Płatność uzupełniająca, o której mowa w art. 1 ust. 1 pkt 2 ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego, przysługuje również za surowiec tytoniowy pochodzący ze zbiorów 2006 r. dostarczony w ramach umowy na uprawę tytoniu zawartej z pierwszym przetwórcą surowca tytoniowego uznanym przez inne państwo członkowskie Unii Europejskiej zgodnie z art. 171cb rozporządzenia Komisji (WE) nr 1973/2004 z dnia 29 października 2004 r. ustanawiającego szczegółowe zasady zastosowania rozporządzenia Rady (WE) nr 1782/2003 w sprawie systemów wsparcia przewidzianych w tytułach IV i IVa tego rozporządzenia oraz wykorzystania gruntów zarezerwowanych do produkcji surowców (Dz. Urz. UE L 345 z 20.11.2004, str. 1, z późn. zm.).
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 kwietnia 2007 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 kwietnia 2007 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 42, poz. 386 i Nr 96, poz. 959, z 2005 r. Nr 10, poz. 64, Nr 14, poz. 115, Nr 141, poz. 1182 i Nr 175, poz. 1462 oraz z 2006 r. Nr 66, poz. 473, Nr 92, poz. 638 i Nr 245, poz. 1774.
 

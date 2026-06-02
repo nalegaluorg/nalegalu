@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-03-03 |
 | Data wydania | 2016-03-14 |
-| Wejście w życie | 2016-04-01 |
 | Ostatnia zmiana | 2026-03-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000336) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/336/text.pdf) |
 
@@ -35,7 +34,7 @@ Treść rozporządzenia
 ## Załącznik nr 3 — – Tabela stanowisk, zaszeregowań i kwalifikacji zawodowych pracowników
 
 Treść rozporządzenia
-Na podstawie art. 17 ust. 3 ustawy z dnia 12 września 2002 r. o normalizacji (Dz. U. z 2015 r. poz. 1483) oraz art. 773 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 17 ust. 3 ustawy z dnia 12 września 2002 r. o normalizacji (Dz. U. z 2015 r. poz. 1483) oraz art. 773 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662 oraz z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735.) zarządza się, co następuje:
 § 1.
 Rozporządzenie ustala dla pracowników zatrudnionych w Polskim Komitecie Normalizacyjnym, zwanych dalej „pracownikami”:
 1)
@@ -53,8 +52,7 @@ Godzinową stawkę:
 1)
 wynagrodzenia zasadniczego wynikającego z osobistego zaszeregowania pracownika, określonego stawką miesięczną, oraz
 2)
-wynikającą z najniższego wynagrodzenia zasadniczego
-ustala się, dzieląc miesięczną stawkę wynagrodzenia przez liczbę godzin pracy przypadających do przepracowania w danym miesiącu.
+wynikającą z najniższego wynagrodzenia zasadniczego – ustala się, dzieląc miesięczną stawkę wynagrodzenia przez liczbę godzin pracy przypadających do przepracowania w danym miesiącu.
 § 5.
 Pracownikowi zatrudnionemu na stanowisku wymienionym w lp. 1–4 tabeli określonej w załączniku nr 3 do rozporządzenia przyznaje się dodatek funkcyjny.
 § 6.
@@ -132,7 +130,7 @@ Pracownikowi zatrudnionemu w Polskim Komitecie Normalizacyjnym w dniu wejścia w
 § 14.
 Traci moc rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 9 grudnia 2010 r. w sprawie ustalenia wysokości wynagrodzenia za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników Polskiego Komitetu Normalizacyjnego (Dz. U. poz. 1577).
 § 15.
-Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
+Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662 oraz z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735.
 
 ## Załącznik nr 1 — – Tabela miesięcznych stawek wynagrodzenia zasadniczego
 
@@ -144,5 +142,7 @@ Stawka dodatku funkcyjnego Procent najniższego wynagrodzenia zasadniczego 1 2 I
 
 ## Załącznik nr 3 — – Tabela stanowisk, zaszeregowań i kwalifikacji zawodowych pracowników
 
-Lp. Stanowisko Kategoria zaszeregowania Stawka dodatku funkcyjnego Wymagane kwalifikacje*) wykształcenie liczba lat pracy 1 2 3 4 5 6 1 Główny księgowy XII IV według odrębnych przepisów Dyrektor wydziału wyższe 7 2 Dyrektor zespołu, zastępca dyrektora wydziału XI III wyższe 5 Kierownik sektora, zastępca głównego księgowego wyższe 4 3 Zastępca dyrektora zespołu, kierownik działu X II wyższe 4 4 Główny specjalista, główny specjalista – konsultant IX I wyższe 4 Radca prawny, audytor wewnętrzny według odrębnych przepisów 5 Starszy specjalista, starszy specjalista – konsultant VIII – wyższe 3 średnie 5 6 Specjalista, specjalista – konsultant VII – wyższe 2 średnie 4 7 Starszy inspektor, VI – wyższe 1 starszy inspektor – konsultant średnie 3 8 Inspektor, inspektor – konsultant V – wyższe – średnie 1 Kierowca – według odrębnych przepisów 9 Starszy referent, starszy technik IV – średnie 1 10 Referent, technik III – średnie – 11 Konserwator, rzemieślnik II – zasadnicze – 12 Goniec, operator urządzeń powielających, robotnik gospodarczy, sprzątaczka I zasadnicze *) Wymagane kwalifikacje dla pracowników służby bezpieczeństwa i higieny pracy określają odrębne przepisy.
+Lp. Stanowisko Kategoria zaszeregowania Stawka dodatku funkcyjnego Wymagane kwalifikacje*) wykształcenie liczba lat pracy 1 2 3 4 5 6 1 Główny księgowy XII IV według odrębnych przepisów Dyrektor wydziału wyższe 7 2 Dyrektor zespołu, zastępca dyrektora wydziału XI III wyższe 5 Kierownik sektora,
+zastępca głównego księgowego wyższe 4 3 Zastępca dyrektora zespołu, kierownik działu X II wyższe 4 4 Główny specjalista, główny specjalista – konsultant IX I wyższe 4 Radca prawny, audytor wewnętrzny według odrębnych przepisów 5 Starszy specjalista, starszy specjalista – konsultant VIII – wyższe 3 średnie 5 6 Specjalista, specjalista – konsultant VII – wyższe 2 średnie 4 7 Starszy inspektor, VI – wyższe 1 starszy inspektor – konsultant średnie 3 8 Inspektor, inspektor – konsultant V – wyższe – średnie 1 Kierowca – według odrębnych przepisów 9 Starszy referent, starszy technik IV – średnie 1 10 Referent, technik III – średnie – 11 Konserwator, rzemieślnik II – zasadnicze – 12 Goniec, operator urządzeń powielających, robotnik gospodarczy, sprzątaczka I zasadnicze
+*) Wymagane kwalifikacje dla pracowników służby bezpieczeństwa i higieny pracy określają odrębne przepisy.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-08-07 |
 | Data wydania | 2012-08-23 |
-| Wejście w życie | 2012-09-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000953) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/953/text.pdf) |
 
@@ -56,11 +55,11 @@ drenażu paliwa z układu paliwowego po zatrzymaniu silnika;
 emisji gazów spalinowych.
 § 3.
 1.
-Wymagania, jakie powinny spełniać statki powietrzne nieobjęte nadzorem Europejskiej Agencji Bezpieczeństwa Lotniczego, zwanej dalej „EASA”, ze względu na ochronę środowiska przed hałasem, określają normy i zalecane metody postępowania zawarte w tomie I Załącznika 16 do Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. Nr 35, poz. 212 i 214, z późn. zm.).
+Wymagania, jakie powinny spełniać statki powietrzne nieobjęte nadzorem Europejskiej Agencji Bezpieczeństwa Lotniczego, zwanej dalej „EASA”, ze względu na ochronę środowiska przed hałasem, określają normy i zalecane metody postępowania zawarte w tomie I Załącznika 16 do Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. Nr 35, poz. 212 i 214, z późn. zm.Zmiany wymienionej umowy zostały ogłoszone w Dz. U. z 1963 r. Nr 24, poz. 137 i 138, z 1969 r. Nr 27, poz. 210 i 211, z 1976 r. Nr 21, poz. 130 i 131, Nr 32, poz. 188 i 189 i Nr 39, poz. 227 i 228, z 1984 r. Nr 39, poz. 199 i 200, z 2000 r. Nr 39, poz. 446 i 447, z 2002 r. Nr 58, poz. 527 i 528, z 2003 r. Nr 78, poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371.).
 2.
 Wymagania, jakie powinny spełniać statki powietrzne nieobjęte nadzorem EASA ze względu na ochronę środowiska przed zanieczyszczeniami ziemi, wody i powietrza, określają normy i zalecane metody postępowania zawarte w tomie II Załącznika 16 do Konwencji, o której mowa w ust. 1.
 § 4.
 Do statków powietrznych objętych nadzorem EASA stosuje się wymagania określone w rozporządzeniu Komisji nr 1702/2003/WE z dnia 24 września 2003 r. ustanawiającym zasady wykonawcze dla certyfikacji statków powietrznych i związanych z nimi wyrobów, części i wyposażenia w zakresie zdatności do lotu i ochrony środowiska oraz dla certyfikacji organizacji projektujących i produkujących (Dz. Urz. UE L 243 z 27.09.2003, str. 6, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 456).
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 22 kwietnia 2004 r. w sprawie wymagań, jakie powinny spełniać statki powietrzne ze względu na ochronę środowiska (Dz. U. Nr 122, poz. 1271 oraz z 2005 r. Nr 189, poz. 1597), które zgodnie z art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. Nr 170, poz. 1015) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Zmiany wymienionej umowy zostały ogłoszone w Dz. U. z 1963 r. Nr 24, poz. 137 i 138, z 1969 r. Nr 27, poz. 210 i 211, z 1976 r. Nr 21, poz. 130 i 131, Nr 32, poz. 188 i 189 i Nr 39, poz. 227 i 228, z 1984 r. Nr 39, poz. 199 i 200, z 2000 r. Nr 39, poz. 446 i 447, z 2002 r. Nr 58, poz. 527 i 528, z 2003 r. Nr 78, poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 22 kwietnia 2004 r. w sprawie wymagań, jakie powinny spełniać statki powietrzne ze względu na ochronę środowiska (Dz. U. Nr 122, poz. 1271 oraz z 2005 r. Nr 189, poz. 1597), które zgodnie z art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. Nr 170, poz. 1015) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

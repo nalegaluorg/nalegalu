@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2023 oraz niektórych innych ustaw
+# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2023 oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela, ustawę z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych, ustawę z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, ustawę z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, ustawę z dnia 8 lutego 2018 r. o Instytucie Współpracy Polsko-Węgierskiej im. Wacława Felczaka, ustawę z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów oraz ustawę z dnia 17 grudnia 2021 r. o zmianie niektórych ustaw w związku z powołaniem Centralnego Biura Zwalczania Cyberprzestępczości.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-07 |
 | Data wydania | 2023-08-10 |
-| Wejście w życie | 2023-08-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001586) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1586/text.pdf) |
 
@@ -99,7 +98,7 @@ source: "eli-html"
 
 - **1)** pracowników zatrudnionych w podmiotach, o których mowa w art. 139 ust. 2 ustawy o finansach publicznych, z wyłączeniem posłów i senatorów oraz osób wymienionych w art. 41b ust. 1,
 - **2)** pracowników zatrudnionych w powiatowych inspektoratach nadzoru budowlanego,
-- **3)** pracowników zatrudnionych w komendach powiatowych (miejskich) Państwowej Straży Pożarnej oraz funkcjonariuszy pełniących służbę w tych komendach przepisy ust. 1–8 stosuje się odpowiednio.
+- **3)** pracowników zatrudnionych w komendach powiatowych (miejskich) Państwowej Straży Pożarnej oraz funkcjonariuszy pełniących służbę w tych komendach – przepisy ust. 1–8 stosuje się odpowiednio.
 
 1. W roku 2023 sędziom sądów powszechnych, sądów wojskowych, sądów administracyjnych, Sądu Najwyższego, Trybunału Konstytucyjnego, asesorom sądowym oraz referendarzom sądowym przysługuje dodatkowe jednorazowe wynagrodzenie w wysokości 3,2% kwoty stanowiącej 5/8 sumy wynagrodzenia zasadniczego oraz dodatków: stażowego i funkcyjnego należnych od dnia 1 stycznia do dnia 31 sierpnia 2023 r.
 
@@ -111,7 +110,7 @@ source: "eli-html"
 
 - **1)** nagrody specjalnej z okazji 250. rocznicy utworzenia Komisji Edukacji Narodowej, o której mowa w art. 92a ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela,
 - **2)** specjalnego dodatku motywacyjnego, o którym mowa w art. 41a,
-- **3)** dodatkowego jednorazowego wynagrodzenia, o którym mowa w art. 41b wypłaca się jedno z nich, wybrane przez osobę uprawnioną.
+- **3)** dodatkowego jednorazowego wynagrodzenia, o którym mowa w art. 41b – wypłaca się jedno z nich, wybrane przez osobę uprawnioną.
 
 2. Osoba uprawniona składa pracodawcy oświadczenie o wyborze, o którym mowa w ust. 1, zgodnie z wzorem oraz w trybie i sposób określonych przez kierownika jednostki, a w przypadku jednostek, w których tworzy się stanowisko dyrektora generalnego urzędu – dyrektora generalnego. ” .
 
@@ -163,7 +162,7 @@ source: "eli-html"
 6. Organ rejestrujący, o którym mowa w art. 2 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, oraz minister właściwy do spraw kultury i ochrony dziedzictwa narodowego dokonują naliczenia dotacji celowej, o której mowa w ust. 1, na podstawie:
 
 - **1)** wniosku, o którym mowa w ust. 3,
-- **2)** danych dotyczących nauczycieli pozostających w stosunku pracy w szkole w dniu 20 września 2023 r., uprawnionych do otrzymania nagrody, o której mowa w art. 92a ust. 1, zgromadzonych w systemie informacji oświatowej, o których mowa w art. 28 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, według stanu bazy danych systemu informacji oświatowej w dniu 27 września 2023 r. i przekazują dotację celową na rachunek bankowy wskazany we wniosku, o którym mowa w ust. 3, w terminie do dnia 11 października 2023 r.
+- **2)** danych dotyczących nauczycieli pozostających w stosunku pracy w szkole w dniu 20 września 2023 r., uprawnionych do otrzymania nagrody, o której mowa w art. 92a ust. 1, zgromadzonych w systemie informacji oświatowej, o których mowa w art. 28 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, według stanu bazy danych systemu informacji oświatowej w dniu 27 września 2023 r. – i przekazują dotację celową na rachunek bankowy wskazany we wniosku, o którym mowa w ust. 3, w terminie do dnia 11 października 2023 r.
 
 7. Rozliczenia dotacji celowej, o której mowa w ust. 1, dokonuje dyrektor, który podpisał wniosek, o którym mowa w ust. 3, a w przypadku innej formy wychowania przedszkolnego – osoba kierująca inną formą wychowania przedszkolnego, wyznaczona przez osobę prowadzącą inną formę wychowania przedszkolnego, która podpisała wniosek, o którym mowa w ust. 3.
 
@@ -209,7 +208,7 @@ source: "eli-html"
 
 - **1)** gminom,
 - **2)** powiatom,
-- **3)** województwom proporcjonalnie do wysokości udziału kwoty dochodów ustalonych na rok 2023 z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych gmin, powiatów i województw, o której mowa w art. 33 ust. 1 pkt 2, w łącznej kwocie dochodów wszystkich jednostek samorządu terytorialnego z tego tytułu.
+- **3)** województwom – proporcjonalnie do wysokości udziału kwoty dochodów ustalonych na rok 2023 z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych gmin, powiatów i województw, o której mowa w art. 33 ust. 1 pkt 2, w łącznej kwocie dochodów wszystkich jednostek samorządu terytorialnego z tego tytułu.
 
 2. Kwotę, o której mowa w ust. 1 pkt 1, rozdziela się między poszczególne gminy proporcjonalnie do wysokości dochodów gmin ustalonych na rok 2023 z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych, przy czym dodatkowe dochody gminy z tego tytułu nie mogą być niższe niż 1 500 tys. zł i wyższe niż 100 000 tys. zł.
 
@@ -234,7 +233,7 @@ source: "eli-html"
 
 - **1)** 750 000 tys. zł dla gmin, w których liczba mieszkańców przekracza 10 tys., ale nie przekracza 40 tys.,
 - **2)** 1 000 000 tys. zł dla gmin, w których liczba mieszkańców przekracza 40 tys., ale nie przekracza 100 tys.,
-- **3)** 250 000 tys. zł dla gmin, w których liczba mieszkańców przekracza 100 tys., ale nie przekracza 150 tys. które rozdziela się proporcjonalnie do udziału wydatków majątkowych gminy w wydatkach majątkowych wszystkich gmin spełniających dany warunek.
+- **3)** 250 000 tys. zł dla gmin, w których liczba mieszkańców przekracza 100 tys., ale nie przekracza 150 tys. – które rozdziela się proporcjonalnie do udziału wydatków majątkowych gminy w wydatkach majątkowych wszystkich gmin spełniających dany warunek.
 
 2. Podziału kwoty, o której mowa w art. 70o ust. 2 pkt 3, dokonuje się na podstawie średnich wydatków majątkowych za lata 2020–2022. Do wyliczenia średnich wydatków majątkowych przyjmuje się dane wykazane w sprawozdaniach gminy, których obowiązek sporządzania wynika z przepisów o finansach publicznych w zakresie sprawozdawczości budżetowej, z uwzględnieniem korekt złożonych do właściwych regionalnych izb obrachunkowych, w terminie odpowiednio do dnia 30 czerwca 2021 r. i do dnia 30 czerwca 2022 r. Za 2022 r. przyjmuje się dane wykazane w sprawozdaniach, z uwzględnieniem korekt, które wpłynęły do urzędu obsługującego ministra właściwego do spraw finansów publicznych do dnia 10 maja 2023 r.
 
@@ -250,7 +249,7 @@ source: "eli-html"
 - **2)** 35 000 tys. zł – dla miasta, w którym liczba mieszkańców przekracza 50 tys., ale nie przekracza 100 tys.,
 - **3)** 40 000 tys. zł – dla miasta, w którym liczba mieszkańców przekracza 100 tys., ale nie przekracza 150 tys.,
 - **4)** 45 000 tys. zł – dla miasta, w którym liczba mieszkańców przekracza 150 tys., ale nie przekracza 250 tys.,
-- **5)** 80 000 tys. zł – dla miasta, w którym liczba mieszkańców przekracza 250 tys. miasto na prawach powiatu otrzymuje w 2023 r. dodatkowe uzupełnienie dochodów w wysokości gwarantującej kwotę wymienioną odpowiednio w pkt 1–5.
+- **5)** 80 000 tys. zł – dla miasta, w którym liczba mieszkańców przekracza 250 tys. – miasto na prawach powiatu otrzymuje w 2023 r. dodatkowe uzupełnienie dochodów w wysokości gwarantującej kwotę wymienioną odpowiednio w pkt 1–5.
 
 2. Kwota dodatkowego uzupełnienia dochodów dla miast na prawach powiatu stanowi uzupełnienie subwencji ogólnej. Przepisy art. 70o ust. 4–6 stosuje się odpowiednio. ” . W ustawie z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z 2020 r. poz. 568 i 2157, z 2021 r. poz. 2445 oraz z 2022 r. poz. 2666) w art. 88 w ust. 1 w pkt 1 lit. h otrzymuje brzmienie: „ 2023 – 4 019 tys. zł, ” . W ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2023 r. poz. 66, z 2022 r. poz. 2600 oraz z 2023 r. poz. 240, 347 i 641) w art. 390 w ust. 1:
 
@@ -281,5 +280,5 @@ source: "eli-html"
 
 **Art. 12.** Równowartość dokonanych odpisów i zwiększeń naliczonych na rok 2023 zgodnie z art. 5 ustawy zmienianej w art. 3, z uwzględnieniem art. 5l tej ustawy, pracodawca przekazuje na rachunek bankowy zakładowego funduszu świadczeń socjalnych w terminie do dnia 30 września 2023 r., uwzględniając dotychczas przekazaną kwotę odpisów i zwiększeń dokonanych zgodnie z art. 5 tej ustawy, naliczonych w oparciu o przeciętne wynagrodzenie miesięczne w gospodarce narodowej w drugim półroczu 2019 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7 tej ustawy.
 
-**Art. 13.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 13.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela, ustawę z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych, ustawę z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, ustawę z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, ustawę z dnia 8 lutego 2018 r. o Instytucie Współpracy Polsko-Węgierskiej im. Wacława Felczaka, ustawę z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów oraz ustawę z dnia 17 grudnia 2021 r. o zmianie niektórych ustaw w związku z powołaniem Centralnego Biura Zwalczania Cyberprzestępczości.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 6 grudnia 2016 r. w sprawie zakresu i rodzaju sprawozdań oraz trybu i terminów ich przekazywania w ramach realizacji Programu Operacyjnego „Rybactwo i Morze”
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 6 grudnia 2016 r. w sprawie zakresu i rodzaju sprawozdań oraz trybu i terminów ich przekazywania w ramach realizacji Programu Operacyjnego „Rybactwo i Morze” Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-06 |
 | Data wydania | 2016-12-20 |
-| Wejście w życie | 2017-01-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002076) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2076/text.pdf) |
 
@@ -35,7 +34,7 @@ zakres i rodzaj sprawozdań sporządzanych przez:
 a)
 instytucje pośredniczące, o których mowa w art. 6 ust. 1 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego, zwanej dalej „ustawą” – w odniesieniu do priorytetów, o których mowa w art. 3 ust. 1 ustawy, oraz pomocy technicznej, o której mowa w art. 3 ust. 2 ustawy,
 b)
-lokalne grupy działania, o których mowa w art. 32 ust. 2 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.) , zwanym dalej „rozporządzeniem nr 1303/2013” – w odniesieniu do realizowanej operacji,
+lokalne grupy działania, o których mowa w art. 32 ust. 2 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1 oraz Dz. Urz. UE L 200 z 26.07.2016, str. 140.) , zwanym dalej „rozporządzeniem nr 1303/2013” – w odniesieniu do realizowanej operacji,
 c)
 beneficjentów – w odniesieniu do realizowanej operacji;
 2)
@@ -56,7 +55,7 @@ realizowanych operacji,
 b)
 wykorzystania środków finansowych przeznaczonych na poszczególne działania, poddziałania lub pomoc techniczną, według źródeł pochodzenia tych środków, zawierające zestawienie poniesionych wydatków oraz zrealizowanych płatności,
 c)
-osiągniętych wskaźników właściwych dla danego działania lub priorytetu, wykorzystywanych w systemie monitorowania i ewaluacji, o którym mowa w art. 107 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.) , zwanych dalej „wskaźnikami”;
+osiągniętych wskaźników właściwych dla danego działania lub priorytetu, wykorzystywanych w systemie monitorowania i ewaluacji, o którym mowa w art. 107 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43 oraz Dz. Urz. UE L 169 z 28.06.2016, str. 18.) , zwanych dalej „wskaźnikami”;
 3)
 działań podjętych przez instytucję pośredniczącą, mających na celu zapewnienie prawidłowej i skutecznej realizacji działań i poddziałań;
 4)
@@ -126,6 +125,5 @@ W przypadku zgłoszenia przez instytucję pośredniczącą uwag do sprawozdania 
 § 6.
 Sprawozdania, o których mowa w § 1 pkt 1, są przekazywane w formie pisemnej, w postaci papierowej, wraz z dokumentem elektronicznym zawierającym treść sprawozdania zapisanym na informatycznym nośniku danych w sposób umożliwiający edycję danych.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1 oraz Dz. Urz. UE L 200 z 26.07.2016, str. 140. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43 oraz Dz. Urz. UE L 169 z 28.06.2016, str. 18.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1 oraz Dz. Urz. UE L 200 z 26.07.2016, str. 140. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43 oraz Dz. Urz. UE L 169 z 28.06.2016, str. 18.
 

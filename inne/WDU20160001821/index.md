@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-28 |
 | Data wydania | 2016-11-09 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001821) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1821/text.pdf) |
 
@@ -33,32 +32,23 @@ W rozporządzeniu Rady Ministrów z dnia 30 listopada 2015 r. w sprawie sposobu 
 1)
 w § 2:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
-danych z wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, zwanej dalej „CEIDG”, oraz informacji przekazywanych z CEIDG zgodnie z przepisami o działalności gospodarczej – w przypadku przedsiębiorców będących osobami fizycznymi;
-” ,
+danych z wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, zwanej dalej „CEIDG”, oraz informacji przekazywanych z CEIDG zgodnie z przepisami o działalności gospodarczej – w przypadku przedsiębiorców będących osobami fizycznymi; ” ,
 b)
-pkt 11 otrzymuje brzmienie:
-„
+pkt 11 otrzymuje brzmienie: „
 11)
-informacji w zakresie numeru identyfikacji podatkowej (NIP) udostępnianych z Centralnego Rejestru Podmiotów – Krajowej Ewidencji Podatników.
-” ;
+informacji w zakresie numeru identyfikacji podatkowej (NIP) udostępnianych z Centralnego Rejestru Podmiotów – Krajowej Ewidencji Podatników. ” ;
 2)
-w § 4 w ust. 2 pkt 3 otrzymuje brzmienie:
-„
+w § 4 w ust. 2 pkt 3 otrzymuje brzmienie: „
 3)
-zakłady lecznicze podmiotu leczniczego, jeżeli są wymienione w przepisach o działalności leczniczej.
-” ;
+zakłady lecznicze podmiotu leczniczego, jeżeli są wymienione w przepisach o działalności leczniczej. ” ;
 3)
-w § 7 w pkt 2 lit. zc otrzymuje brzmienie:
-„
+w § 7 w pkt 2 lit. zc otrzymuje brzmienie: „
 zc)
-główne oddziały zagranicznych zakładów ubezpieczeń (kod 136),
-” ;
+główne oddziały zagranicznych zakładów ubezpieczeń (kod 136), ” ;
 4)
-w § 10 pkt 5 otrzymuje brzmienie:
-„
+w § 10 pkt 5 otrzymuje brzmienie: „
 5)
 zakończenia działalności:
 a)
@@ -68,14 +58,11 @@ datę trwałego zaprzestania wykonywania działalności gospodarczej podaną we 
 c)
 datę podaną w akcie likwidującym podmiot – dla podmiotów niepodlegających wpisowi do rejestru lub ewidencji,
 d)
-datę podaną przez podmiot we wniosku RG-OP albo RG-OF.
-” ;
+datę podaną przez podmiot we wniosku RG-OP albo RG-OF. ” ;
 5)
-w § 12 w ust. 7 w pkt 1 w lit. h średnik zastępuje się przecinkiem i dodaje się lit. i w brzmieniu:
-„
+w § 12 w ust. 7 w pkt 1 w lit. h średnik zastępuje się przecinkiem i dodaje się lit. i w brzmieniu: „
 i)
-stowarzyszenia zwykłego w stowarzyszenie;
-” .
+stowarzyszenia zwykłego w stowarzyszenie; ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
 

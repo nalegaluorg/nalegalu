@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1999-11-20 |
 | Data wydania | 1999-11-30 |
-| Wejście w życie | 2000-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990951101) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/1101/text.pdf) |
 
@@ -53,7 +52,7 @@ Załącznik – Wykaz rocznych stawek amortyzacyjnych
 - **5)** w art. 16 w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
 
-- **1)** wydatków na: nabycie gruntów lub prawa wieczystego użytkowania gruntów, z wyjątkiem opłat za wieczyste użytkowanie gruntów, nabycie lub wytworzenie we własnym zakresie innych niż wymienione w lit. a) środków trwałych oraz wartości niematerialnych i prawnych, w tym również wchodzących w skład nabytego przedsiębiorstwa lub jego zorganizowanych części, ulepszenie środków trwałych, które zgodnie z art. 16g ust. 13 powiększają wartość środków trwałych, stanowiącą podstawę naliczania odpisów amortyzacyjnych wydatki te, zaktualizowane zgodnie z odrębnymi przepisami, pomniejszone o sumę odpisów amortyzacyjnych, o których mowa w art. 16h ust. 1 pkt 1, są jednak kosztem uzyskania przychodów, z zastrzeżeniem pkt 8a, w przypadku odpłatnego zbycia środków trwałych lub wartości niematerialnych i prawnych, bez względu na czas ich poniesienia, ” w pkt 4 wyrazy „odrębnych przepisach” zastępuje się wyrazami „art. 16a-16m”, w pkt 46 lit. b) otrzymuje brzmienie: „ podatek należny w przypadku: – importu usług, jeśli nie stanowi on podatku naliczonego w rozumieniu odrębnych przepisów, – przekazania lub zużycia przez podatnika towarów lub świadczenia usług na potrzeby reprezentacji i reklamy, obliczony zgodnie z odrębnymi przepisami, ” w pkt 48 wyrazy „odrębnych przepisach” zastępuje się wyrazami „art. 16a-16m”, w pkt 52 skreśla się wyrazy „zgodnie z odrębnymi przepisami”, po pkt 54 dodaje się pkt 54a w brzmieniu: „
+- **1)** wydatków na: nabycie gruntów lub prawa wieczystego użytkowania gruntów, z wyjątkiem opłat za wieczyste użytkowanie gruntów, nabycie lub wytworzenie we własnym zakresie innych niż wymienione w lit. a) środków trwałych oraz wartości niematerialnych i prawnych, w tym również wchodzących w skład nabytego przedsiębiorstwa lub jego zorganizowanych części, ulepszenie środków trwałych, które zgodnie z art. 16g ust. 13 powiększają wartość środków trwałych, stanowiącą podstawę naliczania odpisów amortyzacyjnych – wydatki te, zaktualizowane zgodnie z odrębnymi przepisami, pomniejszone o sumę odpisów amortyzacyjnych, o których mowa w art. 16h ust. 1 pkt 1, są jednak kosztem uzyskania przychodów, z zastrzeżeniem pkt 8a, w przypadku odpłatnego zbycia środków trwałych lub wartości niematerialnych i prawnych, bez względu na czas ich poniesienia, ” w pkt 4 wyrazy „odrębnych przepisach” zastępuje się wyrazami „art. 16a-16m”, w pkt 46 lit. b) otrzymuje brzmienie: „ podatek należny w przypadku: – importu usług, jeśli nie stanowi on podatku naliczonego w rozumieniu odrębnych przepisów, – przekazania lub zużycia przez podatnika towarów lub świadczenia usług na potrzeby reprezentacji i reklamy, obliczony zgodnie z odrębnymi przepisami, ” w pkt 48 wyrazy „odrębnych przepisach” zastępuje się wyrazami „art. 16a-16m”, w pkt 52 skreśla się wyrazy „zgodnie z odrębnymi przepisami”, po pkt 54 dodaje się pkt 54a w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
@@ -81,13 +80,13 @@ Załącznik – Wykaz rocznych stawek amortyzacyjnych
 
 - **1)** budowle, budynki oraz lokale będące odrębną własnością,
 - **2)** maszyny, urządzenia i środki transportu,
-- **3)** inne przedmioty o przewidywanym okresie używania dłuższym niż rok, wykorzystywane przez podatnika na potrzeby związane z prowadzoną przez niego działalnością gospodarczą albo oddane do używania na podstawie umowy najmu, dzierżawy lub innej umowy o podobnym charakterze, zwane środkami trwałymi.
+- **3)** inne przedmioty – o przewidywanym okresie używania dłuższym niż rok, wykorzystywane przez podatnika na potrzeby związane z prowadzoną przez niego działalnością gospodarczą albo oddane do używania na podstawie umowy najmu, dzierżawy lub innej umowy o podobnym charakterze, zwane środkami trwałymi.
 
 2. Amortyzacji podlegają również, z zastrzeżeniem art. 16c, niezależnie od przewidywanego okresu używania:
 
 - **1)** przyjęte do używania inwestycje w obcych środkach trwałych, zwane dalej „inwestycjami w obcych środkach trwałych”,
 - **2)** budynki i budowle wybudowane na cudzym gruncie,
-- **3)** składniki majątku, wymienione w ust. 1, nie stanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy dzierżawy, umowy najmu lub innej umowy o podobnym charakterze, zawartej z właścicielem lub współwłaścicielami tych składników – jeżeli zgodnie z przepisami wydanymi na podstawie art. 12 ust. 7 składniki te są zaliczane do składników majątku podatnika (korzystającego) zwane także środkami trwałymi,
+- **3)** składniki majątku, wymienione w ust. 1, nie stanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy dzierżawy, umowy najmu lub innej umowy o podobnym charakterze, zawartej z właścicielem lub współwłaścicielami tych składników – jeżeli zgodnie z przepisami wydanymi na podstawie art. 12 ust. 7 składniki te są zaliczane do składników majątku podatnika (korzystającego) – zwane także środkami trwałymi,
 - **4)** tabor transportu morskiego w budowie, sklasyfikowany w Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) w grupie „statki” o symbolu 35.11, zaliczone do branży 1051–1053 Systematycznego Wykazu Wyrobów (SWW) Głównego Urzędu Statystycznego (Dz. U. z 1997 r. Nr 42, poz. 264 i z 1999 r. Nr 92, poz. 1045).
 
 1. Amortyzacji podlegają, z zastrzeżeniem art. 16c, nabyte nadające się do gospodarczego wykorzystania w dniu przyjęcia do używania:
@@ -98,7 +97,7 @@ Załącznik – Wykaz rocznych stawek amortyzacyjnych
 - **4)** autorskie lub pokrewne prawa majątkowe,
 - **5)** licencje,
 - **6)** prawa do: wynalazków, patentów, znaków towarowych, wzorów użytkowych, wzorów zdobniczych,
-- **7)** wartość stanowiącą równowartość uzyskanych informacji związanych z wiedzą w dziedzinie przemysłowej, handlowej, naukowej lub organizacyjnej (know-how) o przewidywanym okresie używania dłuższym niż rok, wykorzystywane przez podatnika na potrzeby związane z prowadzoną przez niego działalnością gospodarczą albo oddane przez niego do używania na podstawie umowy licencyjnej (sublicencji), umowy najmu, dzierżawy lub innej umowy o podobnym charakterze, zwane wartościami niematerialnymi i prawnymi.
+- **7)** wartość stanowiącą równowartość uzyskanych informacji związanych z wiedzą w dziedzinie przemysłowej, handlowej, naukowej lub organizacyjnej (know-how) – o przewidywanym okresie używania dłuższym niż rok, wykorzystywane przez podatnika na potrzeby związane z prowadzoną przez niego działalnością gospodarczą albo oddane przez niego do używania na podstawie umowy licencyjnej (sublicencji), umowy najmu, dzierżawy lub innej umowy o podobnym charakterze, zwane wartościami niematerialnymi i prawnymi.
 
 2. Amortyzacji podlegają również, z zastrzeżeniem art. 16c, niezależnie od przewidywanego okresu używania:
 
@@ -116,12 +115,12 @@ Załącznik – Wykaz rocznych stawek amortyzacyjnych
     - **b)**
     - **c)**
 
-- **4)** składniki majątku wymienione w ust. 1, używane przez podatnika na podstawie umowy dzierżawy, umowy najmu, umowy licencyjnej (sublicencji) lub innej umowy o podobnym charakterze, zawartej z właścicielem lub współwłaścicielami albo uprawnionymi do korzystania z tych wartości – jeżeli zgodnie z przepisami wydanymi na podstawie art. 12 ust. 7 są zaliczane do składników majątku podatnika zwane także wartościami niematerialnymi i prawnymi. Amortyzacji nie podlegają:
+- **4)** składniki majątku wymienione w ust. 1, używane przez podatnika na podstawie umowy dzierżawy, umowy najmu, umowy licencyjnej (sublicencji) lub innej umowy o podobnym charakterze, zawartej z właścicielem lub współwłaścicielami albo uprawnionymi do korzystania z tych wartości – jeżeli zgodnie z przepisami wydanymi na podstawie art. 12 ust. 7 są zaliczane do składników majątku podatnika – zwane także wartościami niematerialnymi i prawnymi. Amortyzacji nie podlegają:
 - **1)** grunty i prawa wieczystego użytkowania gruntów,
 - **2)** budynki, lokale, budowle i urządzenia zaliczane do spółdzielczych zasobów mieszkaniowych lub służących działalności społeczno-wychowawczej prowadzonej przez spółdzielnie mieszkaniowe,
 - **3)** dzieła sztuki i eksponaty muzealne,
 - **4)** wartość firmy, jeżeli wartość ta powstała w inny sposób niż określony w art. 16b ust. 2 pkt 2,
-- **5)** składniki majątku, które nie są używane na skutek zaprzestania działalności, w której te składniki były używane; w tym przypadku składniki te nie podlegają amortyzacji od miesiąca następującego po miesiącu, w którym zaprzestano tej działalności zwane odpowiednio środkami trwałymi lub wartościami niematerialnymi i prawnymi.
+- **5)** składniki majątku, które nie są używane na skutek zaprzestania działalności, w której te składniki były używane; w tym przypadku składniki te nie podlegają amortyzacji od miesiąca następującego po miesiącu, w którym zaprzestano tej działalności – zwane odpowiednio środkami trwałymi lub wartościami niematerialnymi i prawnymi.
 
 1. Podatnicy mogą nie dokonywać odpisów amortyzacyjnych od składników majątku, o których mowa w art. 16a i 16b, których wartość początkowa określona zgodnie z art. 16g nie przekracza 3 500 zł; wydatki poniesione na ich nabycie stanowią wówczas koszty uzyskania przychodów w miesiącu oddania ich do używania.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 17 września 2019 r. w sprawie trybu pracy Kolegium Doradców i wysokości wynagrodzenia jego członków
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 17 września 2019 r. w sprawie trybu pracy Kolegium Doradców i wysokości wynagrodzenia jego członków Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. z 2019 r. poz. 1530).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-17 |
 | Data wydania | 2019-10-01 |
-| Wejście w życie | 2019-10-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001859) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1859/text.pdf) |
 
@@ -79,6 +78,5 @@ Wysokość wynagrodzenia przysługującego członkom Kolegium, o których mowa w
 2)
 1500,00 zł – w przypadku pozostałych członków Kolegium.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. z 2019 r. poz. 1530).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. z 2019 r. poz. 1530).
 

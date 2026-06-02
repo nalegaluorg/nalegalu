@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-19 |
 | Data wydania | 2024-11-21 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2025-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001707) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1707/text.pdf) |
 
@@ -33,11 +32,9 @@ Na podstawie art. 14 ust. 1 ustawy z dnia 18 grudnia 1998 r. o pracownikach sąd
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U. z 2023 r. poz. 2016 i 2772 oraz z 2024 r. poz. 714) wprowadza się następujące zmiany:
 1)
-po § 10 dodaje się § 10a w brzmieniu:
-„
+po § 10 dodaje się § 10a w brzmieniu: „
 § 10a.
-Za czas pozostawania, na polecenie przełożonego, w sądzie lub w powszechnej jednostce organizacyjnej prokuratury poza normalnymi godzinami pracy w gotowości do wykonywania pracy wynikającej z umowy o pracę urzędnikowi i innemu pracownikowi sądów i prokuratury przysługuje, według ich wyboru, czas wolny od pracy w wymiarze odpowiadającym długości pozostawania poza normalnymi godzinami pracy w gotowości do wykonywania pracy albo wynagrodzenie za każdą godzinę pozostawania w gotowości do wykonywania pracy w wysokości 100 % stawki godzinowej wynagrodzenia zasadniczego.
-” ;
+Za czas pozostawania, na polecenie przełożonego, w sądzie lub w powszechnej jednostce organizacyjnej prokuratury poza normalnymi godzinami pracy w gotowości do wykonywania pracy wynikającej z umowy o pracę urzędnikowi i innemu pracownikowi sądów i prokuratury przysługuje, według ich wyboru, czas wolny od pracy w wymiarze odpowiadającym długości pozostawania poza normalnymi godzinami pracy w gotowości do wykonywania pracy albo wynagrodzenie za każdą godzinę pozostawania w gotowości do wykonywania pracy w wysokości 100 % stawki godzinowej wynagrodzenia zasadniczego. ” ;
 2)
 załącznik nr 4 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.

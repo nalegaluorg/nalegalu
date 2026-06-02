@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 28 grudnia 2017 r. w sprawie wysokości jednostkowych stawek opłaty rocznej za użytkowanie gruntów pokrytych wodami
+# Rozporządzenie Rady Ministrówz dnia 28 grudnia 2017 r. w sprawie wysokości jednostkowych stawek opłaty rocznej za użytkowanie gruntów pokrytych wodami Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 22 grudnia 2017 r. pod numerem 2017/602/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-28 |
 | Data wydania | 2017-12-30 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002496) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2496/text.pdf) |
 
@@ -84,5 +83,5 @@ innych niż wymienione w pkt 1–10 – wynosi 0,50 zł.
 2.
 Przepis ust. 1 stosuje się do gruntu pokrytego wodą, znajdującego się nad obiektami, o których mowa w ust. 1, jeżeli odrębnymi przepisami są określone strefy ochronne nad tymi obiektami, które powodują ograniczenia w użytkowaniu gruntu pokrytego wodami, a są niezbędne do ich prawidłowego funkcjonowania.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 18 stycznia 2006 r. w sprawie wysokości opłat rocznych za oddanie w użytkowanie gruntów pokrytych wodami (Dz. U. poz. 90), które traci moc z dniem 1 stycznia 2018 r. w związku z wejściem w życie ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180). 1) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 22 grudnia 2017 r. pod numerem 2017/602/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 18 stycznia 2006 r. w sprawie wysokości opłat rocznych za oddanie w użytkowanie gruntów pokrytych wodami (Dz. U. poz. 90), które traci moc z dniem 1 stycznia 2018 r. w związku z wejściem w życie ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180).
 

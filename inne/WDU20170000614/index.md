@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 17 marca 2017 r. w sprawie warunków ustalania i wypłacania radcom Prokuratorii Generalnej Rzeczypospolitej Polskiej nagród jubileuszowych i odpraw z tytułu nabycia prawa do renty lub emerytury
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 17 marca 2017 r. w sprawie warunków ustalania i wypłacania radcom Prokuratorii Generalnej Rzeczypospolitej Polskiej nagród jubileuszowych i odpraw z tytułu nabycia prawa do renty lub emerytury Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-17 |
 | Data wydania | 2017-03-21 |
-| Wejście w życie | 2017-03-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000614) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/614/text.pdf) |
 
@@ -60,6 +59,5 @@ Przepisy § 8 i 9 mają odpowiednio zastosowanie w razie, gdy w dniu, w którym 
 § 11.
 Traci moc rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 6 marca 2006 r. w sprawie warunków ustalania i wypłacania radcom oraz starszym radcom Prokuratorii Generalnej Skarbu Państwa nagród jubileuszowych i odpraw z tytułu nabycia prawa do renty lub emerytury (Dz. U. poz. 282).
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905).
 

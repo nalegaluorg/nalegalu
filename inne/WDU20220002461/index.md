@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 27 października 2022 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw
+# Ustawa z dnia 27 października 2022 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawę z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych, ustawę z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz ustawę z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-27 |
 | Data wydania | 2022-11-30 |
-| Wejście w życie | 2023-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002461) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2461/text.pdf) |
 
@@ -127,11 +126,11 @@ source: "eli-html"
 - **7)** art. 10a ust. 5 ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych;
 - **8)** art. 20 ust. 6 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych.
 
-**Art. 11.** W 2023 r. do świadczeń emerytalno-rentowych wypłacanych z Funduszu Ubezpieczeń Społecznych i Funduszu Emerytur Pomostowych, którymi dysponuje Zakład Ubezpieczeń Społecznych, oraz świadczeń emerytalno-rentowych wypłacanych z Funduszu Emerytalno -Rentowego, którym dysponuje Prezes Kasy Rolniczego Ubezpieczenia Społecznego, nie stosuje się art. 29 ust. 10 i 12 oraz art. 52 ust. 2 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm.).
+**Art. 11.** W 2023 r. do świadczeń emerytalno-rentowych wypłacanych z Funduszu Ubezpieczeń Społecznych i Funduszu Emerytur Pomostowych, którymi dysponuje Zakład Ubezpieczeń Społecznych, oraz świadczeń emerytalno-rentowych wypłacanych z Funduszu Emerytalno -Rentowego, którym dysponuje Prezes Kasy Rolniczego Ubezpieczenia Społecznego, nie stosuje się art. 29 ust. 10 i 12 oraz art. 52 ust. 2 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414.).
 
 **Art. 12.** Zmiana wysokości przyznanego świadczenia wyrównawczego, w wyniku podwyższenia kwoty, o której mowa w art. 10a ust. 1 ustawy zmienianej w art. 4, następuje z urzędu od dnia 1 marca 2023 r.
 
 **Art. 13.** Zmiana wysokości przyznanego świadczenia uzupełniającego, w wyniku podwyższenia kwoty, o której mowa w art. 2 ust. 2 oraz art. 4 ust. 1 i 2 ustawy zmienianej w art. 5, następuje z urzędu od dnia 1 marca 2023 r.
 
-**Art. 14.** Ustawa wchodzi w życie z dniem 1 marca 2023 r., z wyjątkiem art. 10, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 14.** Ustawa wchodzi w życie z dniem 1 marca 2023 r., z wyjątkiem art. 10, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawę z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych, ustawę z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz ustawę z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414.
 

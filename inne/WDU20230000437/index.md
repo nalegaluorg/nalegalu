@@ -26,12 +26,21 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000437) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/437/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Tworzenie przedsiębiorstw państwowych Rozdział 3 – Przedsiębiorstwa mieszane Rozdział 4 – Statut przedsiębiorstwa Rozdział 5 – Rejestr przedsiębiorstw państwowych Rozdział 6 – Łączenie, podział, likwidacja i upadłość przedsiębiorstw Rozdział 7 – Organizacja przedsiębiorstwa państwowego Rozdział 8 – Organy przedsiębiorstwa państwowego Rozdział 8a – Umowa o zarządzanie przedsiębiorstwem Rozdział 9 – Mienie przedsiębiorstwa Rozdział 10 – Przedstawicielstwo przedsiębiorstwa Rozdział 11 – Działalność przedsiębiorstwa Rozdział 12 – Nadzór nad przedsiębiorstwem państwowym Rozdział 13 – Postępowanie naprawcze
+Załącznik – Tekst jednolity ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 2021 r. poz. 1317), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 22 lipca 2022 r. o usprawnieniu procesu inwestycyjnego Centralnego Portu Komunikacyjnego (Dz. U. poz. 1846) oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 stycznia 2023 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 39 ust. 1 i art. 55 ustawy z dnia 22 lipca 2022 r. o usprawnieniu procesu inwestycyjnego Centralnego Portu Komunikacyjnego (Dz. U. poz. 1846), które stanowią:
+Przepisy ogólne
+Tworzenie przedsiębiorstw państwowych
+Przedsiębiorstwa mieszane
+Statut przedsiębiorstwa
+Rejestr przedsiębiorstw państwowych
+Łączenie, podział, likwidacja i upadłość przedsiębiorstw
+Organizacja przedsiębiorstwa państwowego
+Organy przedsiębiorstwa państwowego
+Umowa o zarządzanie przedsiębiorstwem
 1.
 Organ założycielski może powierzyć zarządzanie przedsiębiorstwem państwowym osobie fizycznej lub prawnej.
 1a.
@@ -99,12 +108,45 @@ zarządca w sposób istotny naruszył postanowienia umowy o zarządzanie przedsi
 2.
 Niezwłocznie po ustaniu umowy o zarządzanie przedsiębiorstwem rada nadzorcza przedsiębiorstwa zarządza i przeprowadza wybory do organów samorządu załogi przedsiębiorstwa, chyba że zawarto umowę na dalszy okres.
 (uchylony)
+Mienie przedsiębiorstwa
+Przedstawicielstwo przedsiębiorstwa
+Działalność przedsiębiorstwa
+Nadzór nad przedsiębiorstwem państwowym
+Postępowanie naprawcze
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Tworzenie przedsiębiorstw państwowych
+
+#### Rozdział 3 – Przedsiębiorstwa mieszane
+
+#### Rozdział 4 – Statut przedsiębiorstwa
+
+#### Rozdział 5 – Rejestr przedsiębiorstw państwowych
+
+#### Rozdział 6 – Łączenie, podział, likwidacja i upadłość przedsiębiorstw
+
+#### Rozdział 7 – Organizacja przedsiębiorstwa państwowego
+
+#### Rozdział 8 – Organy przedsiębiorstwa państwowego
+
+#### Rozdział 8a – Umowa o zarządzanie przedsiębiorstwem
+
+#### Rozdział 9 – Mienie przedsiębiorstwa
+
+#### Rozdział 10 – Przedstawicielstwo przedsiębiorstwa
+
+#### Rozdział 11 – Działalność przedsiębiorstwa
+
+#### Rozdział 12 – Nadzór nad przedsiębiorstwem państwowym
+
+#### Rozdział 13 – Postępowanie naprawcze
 
 **Art. 39.** „1. Do dnia przekształcenia, o którym mowa w art. 8 ust. 2 niniejszej ustawy, art. 4 ust. 1 pkt 2 ustawy zmienianej w art. 13 stosuje się w brzmieniu dotychczasowym. ” „
 
 **Art. 55.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 18 pkt 1–3 i 6, art. 20 i art. 35, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Przedsiębiorstwo państwowe jest samodzielnym, samorządnym i samofinansującym się przedsiębiorcą posiadającym osobowość prawną.
 
@@ -124,7 +166,7 @@ Niezwłocznie po ustaniu umowy o zarządzanie przedsiębiorstwem rada nadzorcza 
 
 **Art. 4.**
 
-1. (uchylony)
+1. (uchylony)Przez art. 13 ustawy z dnia 22 lipca 2022 r. o usprawnieniu procesu inwestycyjnego Centralnego Portu Komunikacyjnego (Dz. U. poz. 1846), która weszła w życie z dniem 2 października 2022 r.
 
 2. Przepisów ustawy, z wyjątkiem przepisów o Krajowym Rejestrze Sądowym, nie stosuje się do:
 
@@ -132,7 +174,7 @@ Niezwłocznie po ustaniu umowy o zarządzanie przedsiębiorstwem rada nadzorcza 
 - **2)** (uchylony)
 - **3)** państwowego przedsiębiorstwa użyteczności publicznej „Zakład Unieszkodliwiania Odpadów Promieniotwórczych”.
 
-#### Rozdział 2 Tworzenie przedsiębiorstw państwowych
+#### Rozdział 2
 
 **Art. 5.** Przedsiębiorstwa państwowe mogą być tworzone jako:
 
@@ -179,7 +221,7 @@ Niezwłocznie po ustaniu umowy o zarządzanie przedsiębiorstwem rada nadzorcza 
 
 2. Organ zamierzający utworzyć przedsiębiorstwo państwowe powołuje w tym celu zespół przygotowawczy, który dokonuje niezbędnych ustaleń i przedstawia swoją opinię.
 
-#### Rozdział 3 Przedsiębiorstwa mieszane
+#### Rozdział 3
 
 **Art. 10.**
 
@@ -189,7 +231,7 @@ Niezwłocznie po ustaniu umowy o zarządzanie przedsiębiorstwem rada nadzorcza 
 
 **Art. 11.** Przedsiębiorstwo państwowe może w celach gospodarczo uzasadnionych tworzyć jednostki gospodarcze, przewidziane w przepisach prawa.
 
-#### Rozdział 4 Statut przedsiębiorstwa
+#### Rozdział 4
 
 **Art. 12.**
 
@@ -210,7 +252,7 @@ Niezwłocznie po ustaniu umowy o zarządzanie przedsiębiorstwem rada nadzorcza 
 
 2. Podjęcie decyzji w sprawie zatwierdzenia statutu powinno nastąpić w możliwie krótkim terminie, nie dłuższym jednak niż 3 miesiące od przedłożenia statutu organowi założycielskiemu.
 
-#### Rozdział 5 Rejestr przedsiębiorstw państwowych
+#### Rozdział 5
 
 **Art. 14.** Przedsiębiorstwo państwowe podlega obowiązkowi wpisu do Krajowego Rejestru Sądowego.
 
@@ -220,7 +262,7 @@ Niezwłocznie po ustaniu umowy o zarządzanie przedsiębiorstwem rada nadzorcza 
 
 **Art. 17.** (uchylony)
 
-#### Rozdział 6 Łączenie, podział, likwidacja i upadłość przedsiębiorstw
+#### Rozdział 6
 
 **Art. 18.**
 
@@ -287,7 +329,7 @@ Niezwłocznie po ustaniu umowy o zarządzanie przedsiębiorstwem rada nadzorcza 
 
 2. (uchylony)
 
-#### Rozdział 7 Organizacja przedsiębiorstwa państwowego
+#### Rozdział 7
 
 **Art. 26.**
 
@@ -315,7 +357,7 @@ Niezwłocznie po ustaniu umowy o zarządzanie przedsiębiorstwem rada nadzorcza 
 
 3. Jeżeli statut nie stanowi inaczej, orzeczenie komisji jest ostateczne.
 
-#### Rozdział 8 Organy przedsiębiorstwa państwowego
+#### Rozdział 8
 
 **Art. 30.** Organami przedsiębiorstwa państwowego są: ogólne zebranie pracowników (delegatów), rada pracownicza i dyrektor przedsiębiorstwa.
 
@@ -432,9 +474,9 @@ Niezwłocznie po ustaniu umowy o zarządzanie przedsiębiorstwem rada nadzorcza 
 
 4. W wypadku rozbieżności stanowisk w odniesieniu do wyników postępowania wyjaśniającego rada pracownicza może zgłosić sprzeciw, który podlega rozpatrzeniu w trybie art. 63.
 
-#### Rozdział 8a Umowa o zarządzanie przedsiębiorstwem
+#### Rozdział 8a
 
-#### Rozdział 9 Mienie przedsiębiorstwa
+#### Rozdział 9
 
 **Art. 46.**
 
@@ -483,7 +525,7 @@ Niezwłocznie po ustaniu umowy o zarządzanie przedsiębiorstwem rada nadzorcza 
 
 5. Mienie pozostałe po likwidacji przedsiębiorstwa państwowego, którego organem założycielskim był Minister Obrony Narodowej, podlega przekazaniu na zasadach i w trybie określonych w ustawie z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2022 r. poz. 2061). Nabycie mienia na podstawie art. 46 ust. 3a i art. 49 ust. 1 następuje zgodnie z zasadami Kodeksu cywilnego i jest nieodpłatne.
 
-#### Rozdział 10 Przedstawicielstwo przedsiębiorstwa
+#### Rozdział 10
 
 **Art. 50.**
 
@@ -499,7 +541,7 @@ Niezwłocznie po ustaniu umowy o zarządzanie przedsiębiorstwem rada nadzorcza 
 
 3. Udzielenie i odwołanie pełnomocnictwa podlega ujawnieniu w Krajowym Rejestrze Sądowym. Nie dotyczy to pełnomocnictwa do dokonywania poszczególnych czynności oraz ustanawiania pełnomocników procesowych.
 
-#### Rozdział 11 Działalność przedsiębiorstwa
+#### Rozdział 11
 
 **Art. 52.** (uchylony)
 
@@ -525,7 +567,7 @@ Niezwłocznie po ustaniu umowy o zarządzanie przedsiębiorstwem rada nadzorcza 
 
 **Art. 57.** (uchylony)
 
-#### Rozdział 12 Nadzór nad przedsiębiorstwem państwowym
+#### Rozdział 12
 
 **Art. 58.**
 
@@ -563,7 +605,7 @@ Niezwłocznie po ustaniu umowy o zarządzanie przedsiębiorstwem rada nadzorcza 
 
 3. Z żądaniem odszkodowania może wystąpić dyrektor przedsiębiorstwa lub rada pracownicza przedsiębiorstwa.
 
-#### Rozdział 13 Postępowanie naprawcze
+#### Rozdział 13
 
 **Art. 65.**
 
@@ -606,5 +648,5 @@ Niezwłocznie po ustaniu umowy o zarządzanie przedsiębiorstwem rada nadzorcza 
 
 **Art. 70.** Koszty związane ze sprawowaniem zarządu komisarycznego obciążają przedsiębiorstwo państwowe. Art. 71–73. (uchylone)
 
-**Art. 74.** Uprawnienia ministra właściwego do spraw finansów publicznych określone w niniejszej ustawie wykonuje właściwy dyrektor izby administracji skarbowej, w wypadku gdy funkcje organu założycielskiego pełni wojewoda.
+**Art. 74.** Uprawnienia ministra właściwego do spraw finansów publicznych określone w niniejszej ustawie wykonuje właściwy dyrektor izby administracji skarbowej, w wypadku gdy funkcje organu założycielskiego pełni wojewoda. 1) Przez art. 13 ustawy z dnia 22 lipca 2022 r. o usprawnieniu procesu inwestycyjnego Centralnego Portu Komunikacyjnego (Dz. U. poz. 1846), która weszła w życie z dniem 2 października 2022 r.
 

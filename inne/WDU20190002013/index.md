@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 3 października 2019 r. w sprawie dopuszczania do użytku szkolnego podręczników
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 3 października 2019 r. w sprawie dopuszczania do użytku szkolnego podręczników Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-03 |
 | Data wydania | 2019-10-23 |
-| Wejście w życie | 2019-11-07 |
 | Ostatnia zmiana | 2026-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002013) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2013/text.pdf) |
 
@@ -85,8 +84,7 @@ Podręcznik do:
 1)
 własnej historii i kultury mniejszości narodowej, mniejszości etnicznej oraz społeczności posługującej się językiem regionalnym,
 2)
-geografii państwa, z którego obszarem kulturowym utożsamia się mniejszość narodowa
-zawiera usystematyzowaną prezentację treści nauczania z tego zakresu; przepis ust. 2 stosuje się odpowiednio.
+geografii państwa, z którego obszarem kulturowym utożsamia się mniejszość narodowa – zawiera usystematyzowaną prezentację treści nauczania z tego zakresu; przepis ust. 2 stosuje się odpowiednio.
 § 3.
 1.
 Podręcznik w postaci elektronicznej może być zamieszczony na informatycznym nośniku danych lub w internecie.
@@ -141,7 +139,7 @@ etap edukacyjny, rodzaj zajęć edukacyjnych (w tym zakres kształcenia: podstaw
 2)
 autora (autorów) podręcznika, tytuł podręcznika, rok jego wydania;
 3)
-w przypadku podręcznika do zajęć z zakresu danego języka obcego nowożytnego w klasach I-III szkoły podstawowej, podręcznika do danego języka obcego nowożytnego w klasach IV-VIII szkoły podstawowej i w szkole ponadpodstawowej – poziom zaawansowania znajomości języka obcego nowożytnego określony w podstawie programowej kształcenia ogólnego oraz poziom zaawansowania w sześciostopniowej skali poziomów biegłości w zakresie poszczególnych umiejętności językowych Europejskiego Systemu Opisu Kształcenia Językowego, zdefiniowanego przez Radę Europy;
+w przypadku podręcznika do zajęć z zakresu danego języka obcego nowożytnego w klasach I-III szkoły podstawowej, podręcznika do danego języka obcego nowożytnego w klasach IV-VIII szkoły podstawowej i w szkole ponadpodstawowej – poziom zaawansowania znajomości języka obcego nowożytnego określony w podstawie programowej kształcenia ogólnego oraz poziom zaawansowania w sześciostopniowej skali poziomów biegłości w zakresie poszczególnych umiejętności językowych Europejskiego Systemu Opisu Kształcenia Językowego, zdefiniowanego przez Radę EuropyEuropejski System Opisu Kształcenia Językowego: uczenie się, nauczanie, ocenianie (Common European Framework of Reference for Languages: learning, teaching, assessment).;
 4)
 w przypadku podręcznika w postaci elektronicznej i podręcznika w postaci papierowej – środowisko sprzętowe i programowe niezbędne do użytkowania odpowiednio podręcznika w postaci elektronicznej lub cyfrowego odzwierciedlenia podręcznika w postaci papierowej, o którym mowa w art. 22ao ust. 3 pkt 6a ustawy z dnia 7 września 1991 r. o systemie oświaty, zwanej dalej „ustawą o systemie oświaty”;
 5)
@@ -303,6 +301,5 @@ Przepisy rozporządzenia dotyczące cyfrowego odzwierciedlenia podręcznika, o k
 § 19.
 Traci moc rozporządzenie Ministra Edukacji Narodowej z dnia 1 marca 2017 r. w sprawie dopuszczania do użytku szkolnego podręczników (Dz. U. poz. 481).
 § 20.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055). 2) Europejski System Opisu Kształcenia Językowego: uczenie się, nauczanie, ocenianie (Common European Framework of Reference for Languages: learning, teaching, assessment).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055). 2) Europejski System Opisu Kształcenia Językowego: uczenie się, nauczanie, ocenianie (Common European Framework of Reference for Languages: learning, teaching, assessment).
 

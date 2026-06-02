@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 30 listopada 2016 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego oraz niektórych innych ustaw
+# Ustawa z dnia 30 listopada 2016 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 9 czerwca 2001 r. – Prawo geologiczne i górnicze oraz ustawę z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-30 |
 | Data wydania | 2016-12-09 |
-| Wejście w życie | 2016-12-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001991) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1991/text.pdf) |
 
@@ -60,5 +59,5 @@ source: "eli-html"
 
 **Art. 6.** Rada naukowa Państwowego Instytutu Geologicznego – Państwowego Instytutu Badawczego działa w dotychczasowym składzie, nie dłużej jednak niż przez okres 2 miesięcy od dnia nadania Państwowemu Instytutowi Geologicznemu – Państwowemu Instytutowi Badawczemu przez ministra właściwego do spraw środowiska nowego statutu.
 
-**Art. 7.** Konkurs na dyrektora Państwowego Instytutu Geologicznego – Państwowego Instytutu Badawczego rozpoczęty na podstawie dotychczasowych przepisów i niezakończony przed dniem wejścia w życie niniejszej ustawy ulega zakończeniu z tym dniem. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 7.** Konkurs na dyrektora Państwowego Instytutu Geologicznego – Państwowego Instytutu Badawczego rozpoczęty na podstawie dotychczasowych przepisów i niezakończony przed dniem wejścia w życie niniejszej ustawy ulega zakończeniu z tym dniem. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 9 czerwca 2001 r. – Prawo geologiczne i górnicze oraz ustawę z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw.
 

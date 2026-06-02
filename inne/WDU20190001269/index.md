@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 czerwca 2001 r. o utworzeniu Uniwersytetu Zielonogórskiego w Zielonej Górze (Dz. U. Nr 74, poz. 785), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 czerwca 2019 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi: „
 
 **Art. 350.** Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem:
 
@@ -47,9 +46,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Uniwersytet jest uczelnią państwową.
 
-**Art. 2.** Podstawowym kierunkiem działalności Uniwersytetu jest kształcenie oraz prowadzenie badań naukowych w zakresie nauk humanistycznych, społecznych, artystycznych, ekonomicznych, technicznych, matematycznych i przyrodniczych, a także upowszechnianie nauki, sztuki i kultury.
-
-**Art. 3.** Nadzór nad Uniwersytetem sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki.
+**Art. 2.** Podstawowym kierunkiem działalności Uniwersytetu jest kształcenie oraz prowadzenie badań naukowych w zakresie nauk humanistycznych, społecznych, artystycznych, ekonomicznych, technicznych, matematycznych i przyrodniczych, a także upowszechnianie nauki, sztuki i kultury. Art. 3W brzmieniu ustalonym przez art. 59 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r.. Nadzór nad Uniwersytetem sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki.
 
 **Art. 4.**
 
@@ -88,5 +85,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 4. Do dnia 31 grudnia 2001 r. zostaną przeprowadzone wybory do Senatu Uniwersytetu, wybory do rad wydziałów, w skład których weszły instytuty znoszonych uczelni, w trybie i na okres ustalony w statucie Uniwersytetu.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 20 lipca 2001 r.. 1) W brzmieniu ustalonym przez art. 59 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r. 2) Ustawa została ogłoszona w dniu 20 lipca 2001 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 października 2021 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw
+# Ustawa z dnia 14 października 2021 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 12 października 1990 r. o ochronie granicy państwowej oraz ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-14 |
 | Data wydania | 2021-10-25 |
-| Wejście w życie | 2021-10-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001918) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1918/text.pdf) |
+
+Przepisy karne
 
 **Art. 1.** W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2020 r. poz. 35, 2023, 2320 i 2369 oraz z 2021 r. poz. 159) wprowadza się następujące zmiany:
 
@@ -64,13 +65,13 @@ source: "eli-html"
 
 - **1)** umieszcza się dane cudzoziemca w wykazie albo
 - **2)** zawiesza się obowiązywanie wpisu, albo
-- **3)** usuwa się dane cudzoziemca z wykazu przekazuje Szefowi Urzędu tę decyzję lub postanowienie, gdy staną się ostateczne, chyba że podlegają natychmiastowemu wykonaniu, wraz z posiadaną fotografią cudzoziemca . ” ;
+- **3)** usuwa się dane cudzoziemca z wykazu – przekazuje Szefowi Urzędu tę decyzję lub postanowienie, gdy staną się ostateczne, chyba że podlegają natychmiastowemu wykonaniu, wraz z posiadaną fotografią cudzoziemca . ” ;
 - **7)** w art. 443 w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „
 - **1a)** postanowienie, o którym mowa w art. 303b ust. 1, lub ” .
 
 **Art. 2.** W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2019 r. poz. 1776) po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Przepisy karne
+#### Rozdział 3a
 
 **Art. 18c.**
 
@@ -78,9 +79,9 @@ source: "eli-html"
 
 2. W przypadku mniejszej wagi, sprawca podlega grzywnie. ” .
 
-**Art. 3.** W ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 1108) w art. 33 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Szef Urzędu może pozostawić bez rozpoznania wniosek o udzielenie ochrony międzynarodowej, który został złożony przez cudzoziemca zatrzymanego niezwłocznie po przekroczeniu granicy wbrew przepisom prawa stanowiącej granicę zewnętrzną w rozumieniu art. 2 pkt 2 rozporządzenia nr 2016/399 Parlamentu Europejskiego i Rady z dnia 9 marca 2016 r. w sprawie unijnego kodeksu zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 77 z 23.03.2016, str. 1, z późn. zm.), chyba że cudzoziemiec ten przybył bezpośrednio z terytorium, na którym jego życiu lub wolności zagrażało niebezpieczeństwo prześladowania lub ryzyko wyrządzenia poważnej krzywdy, oraz przedstawił wiarygodne przyczyny nielegalnego wjazdu na terytorium Rzeczypospolitej Polskiej i złożył wniosek o udzielenie ochrony międzynarodowej niezwłocznie po przekroczeniu granicy. ” .
+**Art. 3.** W ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 1108) w art. 33 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Szef Urzędu może pozostawić bez rozpoznania wniosek o udzielenie ochrony międzynarodowej, który został złożony przez cudzoziemca zatrzymanego niezwłocznie po przekroczeniu granicy wbrew przepisom prawa stanowiącej granicę zewnętrzną w rozumieniu art. 2 pkt 2 rozporządzenia nr 2016/399 Parlamentu Europejskiego i Rady z dnia 9 marca 2016 r. w sprawie unijnego kodeksu zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 77 z 23.03.2016, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 251 z 16.09.2016, str. 1, Dz. Urz. UE L 74 z 18.03.2017, str. 1, Dz. Urz. UE L 327 z 09.12.2017, str. 1, Dz. Urz. UE L 236 z 19.09.2018, str. 1 oraz Dz. Urz. UE L 135 z 22.05.2019, str. 27., chyba że cudzoziemiec ten przybył bezpośrednio z terytorium, na którym jego życiu lub wolności zagrażało niebezpieczeństwo prześladowania lub ryzyko wyrządzenia poważnej krzywdy, oraz przedstawił wiarygodne przyczyny nielegalnego wjazdu na terytorium Rzeczypospolitej Polskiej i złożył wniosek o udzielenie ochrony międzynarodowej niezwłocznie po przekroczeniu granicy. ” .
 
 **Art. 4.** Do postępowań w sprawie zobowiązania cudzoziemca do powrotu wszczętych na podstawie ustawy zmienianej w art. 1 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 12 października 1990 r. o ochronie granicy państwowej oraz ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 251 z 16.09.2016, str. 1, Dz. Urz. UE L 74 z 18.03.2017, str. 1, Dz. Urz. UE L 327 z 09.12.2017, str. 1, Dz. Urz. UE L 236 z 19.09.2018, str. 1 oraz Dz. Urz. UE L 135 z 22.05.2019, str. 27.
 

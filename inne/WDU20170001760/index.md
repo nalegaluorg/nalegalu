@@ -22,14 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-13 |
 | Data wydania | 2017-09-19 |
-| Wejście w życie | 2017-09-20 |
 | Ostatnia zmiana | 2025-09-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001760) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1760/text.pdf) |
 
-Treść rozporządzenia Dział I – Przepisy ogólne Dział II – Warunki finansowania zadań realizowanych przez jednostki należące do sektora finansów publicznych Dział III – Warunki finansowania zadań realizowanych przez jednostki nienależące do sektora finansów publicznych Rozdział 1 – Przepisy ogólne Rozdział 2 – Powołanie i tryb działania komisji konkursowej Rozdział 3 – Przebieg konkursu ofert Rozdział 4 – Ocena ofert Dział IV – Sposób wykorzystania i rozliczania środków Funduszu Sprawiedliwości Dział V – Szczegółowe zadania, na które przeznaczane są środki Funduszu Sprawiedliwości Rozdział 1 – Udzielanie pomocy osobom pokrzywdzonym przestępstwem, świadkom oraz osobom im najbliższym Rozdział 2 – Udzielanie pomocy osobom pozbawionym wolności, zwalnianym z zakładów karnych i aresztów śledczych oraz osobom im najbliższym Rozdział 3 – Pozostałe zadania finansowane ze środków Funduszu Sprawiedliwości Dział VI – Szczegółowe zasady gospodarki finansowej Funduszu Sprawiedliwości Dział VII – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Załącznik – Kwartalna informacja o wykorzystaniu środków otrzymanych z Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej
 Treść rozporządzenia
 Na podstawie art. 43 § 19 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2017 r. poz. 665, 666, 768 i 1452) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -67,6 +67,7 @@ Program oraz decyzje dysponenta, o których mowa w ust. 3 i 4, ogłasza się w B
 Powierzenie realizacji zadań określonych w ogłoszeniu o programie następuje w drodze naboru wniosków lub otwartego konkursu ofert.
 § 4.
 Na realizację powierzonego zadania Dysponent udziela w szczególności dotacji celowej z Funduszu Sprawiedliwości, zwanej dalej „dotacją”.
+Warunki finansowania zadań realizowanych przez jednostki należące do sektora finansów publicznych
 § 5.
 Powierzenie realizacji zadań, o których mowa w art. 43 § 8 pkt 1a-1e, 2a i 4 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, zwanej dalej „ustawą”, jednostkom zaliczanym do sektora finansów publicznych następuje w drodze naboru wniosków ogłaszanego przez Dysponenta.
 § 6.
@@ -127,6 +128,8 @@ termin i sposób rozliczenia środków.
 Przekazywanie środków na realizację zadań odbywa się w terminach zapewniających finansowanie zobowiązań wynikających z realizacji tych zadań.
 § 11.
 W uzasadnionych przypadkach możliwe jest zawarcie umowy na powierzenie zadania nieobjętego programem lub naborem wniosków.
+Warunki finansowania zadań realizowanych przez jednostki nienależące do sektora finansów publicznych
+Przepisy ogólne
 § 12.
 1.
 Powierzenie realizacji zadań, o których mowa w art. 43 § 8 pkt 1, 1b, 1d i 2a-4 ustawy, jednostkom niezaliczanym do sektora finansów publicznych następuje w drodze otwartego konkursu ofert ogłaszanego przez Dysponenta.
@@ -242,6 +245,7 @@ Ofertę oraz załączniki składane w postaci:
 papierowej – opatruje się podpisem własnoręcznym;
 2)
 elektronicznej – opatruje się kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP.
+Powołanie i tryb działania komisji konkursowej
 § 18.
 1.
 W celu przeprowadzenia otwartego konkursu ofert i dokonania wyboru najkorzystniejszych ofert, w terminie 7 dni od dnia zamieszczenia ogłoszenia o konkursie ofert w Biuletynie Informacji Publicznej, Dysponent powołuje komisję konkursową, zwaną dalej „komisją”, w składzie co najmniej trzech osób, oraz wyznacza jej przewodniczącego.
@@ -273,6 +277,7 @@ uchybień w realizacji obowiązków członka komisji lub obowiązków pracownicz
 W razie odwołania członka komisji lub wygaśnięcia mandatu członka komisji z powodu jego śmierci Dysponent niezwłocznie powołuje nowego członka komisji.
 8.
 Z chwilą zakończenia konkursu ofert komisja ulega rozwiązaniu.
+Przebieg konkursu ofert
 § 19.
 1.
 Otwarty konkurs ofert ma na celu wybór najkorzystniejszych ofert na realizację zadania.
@@ -340,6 +345,7 @@ Przewodniczący Komisji Konkursowej przekazuje Dysponentowi zbiorczy protokół 
 Dysponent niezwłocznie podejmuje decyzję w przedmiocie przyznania dotacji i zamieszcza ogłoszenie o wynikach konkursu ofert w Biuletynie Informacji Publicznej. Dysponent może odmówić przyznania dotacji lub zmienić kwotę dotacji zaproponowaną przez komisję.
 § 23.
 Dokumentacja konkursowa jest przechowywana zgodnie z zasadami dotyczącymi archiwizacji dokumentów obowiązującymi w Ministerstwie Sprawiedliwości.
+Ocena ofert
 § 24.
 Ocena ofert następuje w dwóch etapach:
 1)
@@ -386,13 +392,14 @@ Jeżeli oferta przewiduje koordynatora zadania, nie może on pobierać w ramach 
 Kryteria oceny ofert i warunki wymagane od podmiotów są jawne i nie podlegają zmianie w toku konkursu ofert.
 § 30.
 Po ogłoszeniu przez Dysponenta wykazu podmiotów, na których rzecz zostały przyznane dotacje, Dysponent niezwłocznie zawiera z nimi umowy, o których mowa w art. 43 § 10 ustawy.
+Sposób wykorzystania i rozliczania środków Funduszu Sprawiedliwości
 § 31.
 1.
 Podmiot, któremu przyznano środki z Funduszu Sprawiedliwości, wykorzystuje przekazane środki zgodnie z celem, na jaki je uzyskał, i na warunkach określonych w umowie.
 2.
 Gromadzenie, wydatkowanie i rozliczanie środków otrzymanych z Funduszu Sprawiedliwości przeprowadza się wyłącznie za pośrednictwem odrębnego rachunku bankowego.
 3.
-Środki niewykorzystane przez wnioskodawcę oraz przychody z tytułu oprocentowania środków, o których mowa w ust. 1, na rachunku bankowym zwraca się na rachunek Dysponenta na zasadach określonych w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.).
+Środki niewykorzystane przez wnioskodawcę oraz przychody z tytułu oprocentowania środków, o których mowa w ust. 1, na rachunku bankowym zwraca się na rachunek Dysponenta na zasadach określonych w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089, 1475, 1529 i 1537.).
 § 32.
 1.
 Przedkładane dokumenty zawierające rozliczenia środków otrzymanych na realizację powierzonego zadania zawierają w szczególności:
@@ -440,6 +447,8 @@ Ustalenia kontroli są przedstawione w protokole kontroli, a ocena realizacji za
 W przypadku stwierdzenia nieprawidłowości wystąpienie pokontrolne zawiera wnioski i zalecenia pokontrolne oraz wskazanie sposobu ich usunięcia.
 8.
 Podmiot, któremu przyznano środki z Funduszu Sprawiedliwości, w terminie 14 dni od dnia otrzymania wniosków i zaleceń pokontrolnych zawiadamia Dysponenta o sposobie ich wykonania lub przyczynach ich niewykonania.
+Szczegółowe zadania, na które przeznaczane są środki Funduszu Sprawiedliwości
+Udzielanie pomocy osobom pokrzywdzonym przestępstwem, świadkom oraz osobom im najbliższym
 § 36.
 1.
 Pomocy osobom pokrzywdzonym przestępstwem oraz osobom im najbliższym udziela się w szczególności przez:
@@ -456,7 +465,7 @@ organizowanie i finansowanie pomocy udzielanej przez osobę pierwszego kontaktu;
 6)
 pokrywanie kosztów świadczeń zdrowotnych, lekarstw w zakresie, w którym lek nie podlegałby refundacji lub w części, w której nie jest refundowany, wyrobów medycznych, w tym materiałów opatrunkowych, przedmiotów ortopedycznych oraz środków pomocniczych, w zakresie niezbędnym w procesie leczniczym doznanego uszczerbku na zdrowiu wynikającego z przestępstwa lub jego następstw;
 7)
-pokrywanie kosztów związanych z kształceniem w szkołach i przedszkolach publicznych, w tym w ramach indywidualnego nauczania, a także w przypadku realizacji obowiązku przedszkolnego, szkolnego lub obowiązku nauki poza szkołą na podstawie art. 16 ust. 8 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.), odpowiednio do wieku i potrzeb edukacyjnych osób uprawnionych;
+pokrywanie kosztów związanych z kształceniem w szkołach i przedszkolach publicznych, w tym w ramach indywidualnego nauczania, a także w przypadku realizacji obowiązku przedszkolnego, szkolnego lub obowiązku nauki poza szkołą na podstawie art. 16 ust. 8 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.), odpowiednio do wieku i potrzeb edukacyjnych osób uprawnionych;
 8)
 pokrywanie kosztów związanych z opieką nad dziećmi w żłobkach i klubach dziecięcych prowadzonych przez gminy w oparciu o przepisy ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2016 r. poz. 157 oraz z 2017 r. poz. 60 i 1428);
 9)
@@ -480,8 +489,7 @@ finansowanie kosztów wyjazdu:
 a)
 osoby uprawnionej wraz z małoletnim, nad którym sprawuje pieczę,
 b)
-uprawnionego małoletniego wraz z osobą, pod której pieczą pozostaje,
-podczas którego udzielana będzie pomoc, o której mowa w pkt 4;
+uprawnionego małoletniego wraz z osobą, pod której pieczą pozostaje, podczas którego udzielana będzie pomoc, o której mowa w pkt 4;
 18)
 finansowanie robót budowlanych, o których mowa w ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2017 r. poz. 1332 i 1529), w tym również przygotowania do realizacji robót budowlanych, w szczególności kosztów opracowania dokumentacji projektowej, przygotowania gruntu pod budowę, ekspertyz, świadectw, operatów, prac geologicznych, niezbędnych do realizacji celów wynikających z ustawy;
 19)
@@ -489,7 +497,7 @@ zakup urządzeń i wyposażenia;
 20)
 zakup wartości niematerialnych i prawnych.
 2.
-Nie pokrywa się kosztów, o których mowa w ust. 1 pkt 5, jeżeli mogą być one pokryte na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.), chyba że otrzymanie tych świadczeń jest niemożliwe albo napotyka na szczególne trudności.
+Nie pokrywa się kosztów, o których mowa w ust. 1 pkt 5, jeżeli mogą być one pokryte na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844, 858, 1089, 1139, 1200, 1292, 1321, 1386 i 1428.), chyba że otrzymanie tych świadczeń jest niemożliwe albo napotyka na szczególne trudności.
 § 37.
 Pomocy świadkom i osobom im najbliższym udziela się w szczególności przez:
 1)
@@ -501,6 +509,7 @@ pokrywanie kosztów związanych z pomocą psychologiczną, w tym organizowanie i
 Pomoc pokrzywdzonym przestępstwem, świadkom oraz osobom im najbliższym może być udzielona na ich wniosek zgłoszony do podmiotu, o którym mowa w art. 43 § 8 pkt 1 lub 1a ustawy, a także z własnej inicjatywy tego podmiotu lub na wniosek organu postępowania karnego po wyrażeniu przez te osoby zgody na przetwarzanie danych osobowych w zakresie niezbędnym do rozpatrzenia wniosku, udzielenia pomocy i rozliczenia dotacji w zakresie rzeczowym i finansowym.
 2.
 Wniosek o udzielenie pomocy, a także dokumentacja podmiotu, o którym mowa w art. 43 § 8 pkt 1 ustawy, związana z udzieleniem pomocy z własnej inicjatywy tego podmiotu, zawierają dane wnioskodawcy w zakresie niezbędnym do udzielenia pomocy, dokumenty potwierdzające okoliczności przez niego wskazane oraz uzasadnienie, a także oświadczenie o wyrażeniu zgody, o której mowa w ust. 1.
+Udzielanie pomocy osobom pozbawionym wolności, zwalnianym z zakładów karnych i aresztów śledczych oraz osobom im najbliższym
 § 39.
 1.
 Pomocy osobom pozbawionym wolności, zwalnianym z zakładów karnych i aresztów śledczych oraz osobom im najbliższym udziela się w szczególności przez:
@@ -576,6 +585,7 @@ Pomocy ze środków Funduszu Sprawiedliwości udziela się osobom objętym okres
 Formę pomocy, czas trwania świadczenia oraz warunki jej stosowania na rzecz skazanego ustala się w programie wolnościowym realizowanym w okresie, o którym mowa w art. 164 ustawy. Ustalone świadczenia mogą być stosowane na rzecz uprawnionego skazanego w formie indywidualnej lub grupowej.
 7.
 Pomoc, o której mowa w § 39 ust. 1 pkt 3–6 i 9, może być udzielana osobom nieobjętym okresem przygotowania do życia po zwolnieniu z zakładu karnego, o którym mowa w art. 164 ustawy.
+Pozostałe zadania finansowane ze środków Funduszu Sprawiedliwości
 § 42.
 Działalność podejmowana lub powierzana przez Dysponenta, mająca na celu wsparcie i rozwój systemu pomocy osobom pokrzywdzonym przestępstwem i świadkom oraz pomocy postpenitencjarnej, a także przeciwdziałanie przyczynom przestępczości, może polegać w szczególności na:
 1)
@@ -614,6 +624,7 @@ finansowaniu robót budowlanych, o których mowa w ustawie z dnia 7 lipca 1994 r
 zakupie urządzeń i wyposażenia;
 5)
 zakupie wartości niematerialnych i prawnych.
+Szczegółowe zasady gospodarki finansowej Funduszu Sprawiedliwości
 § 44.
 1.
 Pomoc osobom pokrzywdzonym przestępstwem oraz osobom im najbliższym, a także pomoc świadkom i osobom im najbliższym jest finansowana ze środków, o których mowa w art. 43 § 7 pkt 1, 4 i 5 ustawy.
@@ -705,6 +716,7 @@ Ministerstwo Sprawiedliwości sporządza sprawozdanie o stanie zobowiązań wed�
 Ministerstwo Sprawiedliwości przekazuje Dysponentowi sprawozdanie za I, II i III kwartał o stanie zobowiązań według tytułów dłużnych oraz poręczeń i gwarancji i sprawozdanie o stanie należności oraz wybranych aktywów finansowych na 5 dni, a za IV kwartał na 8 dni przed terminem przekazania sprawozdania przez Dysponenta do Ministerstwa Finansów.
 § 52.
 Dysponent w terminie do dnia 30 kwietnia każdego roku opracowuje informację o sposobie wykorzystania środków finansowych Funduszu Sprawiedliwości w roku poprzednim.
+Przepisy przejściowe i końcowe
 § 53.
 Rozliczanie dotacji udzielonych przed dniem wejścia w życie niniejszego rozporządzenia odbywa się na dotychczasowych zasadach.
 § 54.
@@ -718,38 +730,67 @@ sprawozdania uzupełniającego o stanie zobowiązań według tytułów dłużnyc
 4)
 sprawozdania o stanie należności oraz wybranych aktywów finansowych,
 5)
-sprawozdania uzupełniającego o stanie należności z tytułu papierów wartościowych według wartości księgowej
-za okresy sprawozdawcze roku 2017 odbywa się na dotychczasowych zasadach.
+sprawozdania uzupełniającego o stanie należności z tytułu papierów wartościowych według wartości księgowej – za okresy sprawozdawcze roku 2017 odbywa się na dotychczasowych zasadach.
 § 55.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 45 pkt 1–3, które wchodzą w życie z dniem 1 stycznia 2018 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 45 pkt 1–3, które wchodzą w życie z dniem 1 stycznia 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 29 września 2015 r. w sprawie Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej (Dz. U. poz. 1544), które na podstawie art. 23 ustawy z dnia 12 lipca 2017 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1452) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089, 1475, 1529 i 1537. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844, 858, 1089, 1139, 1200, 1292, 1321, 1386 i 1428. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 29 września 2015 r. w sprawie Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej (Dz. U. poz. 1544), które na podstawie art. 23 ustawy z dnia 12 lipca 2017 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1452) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 Załącznik – Kwartalna informacja o wykorzystaniu środków otrzymanych z Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej
-za okres od …… roku do …… roku Lp. Wyszczególnienie Wysokość dotacji (w zł) Wykonanie (w zł) 1 2 3 4 Środki otrzymane Przeznaczenie środków na dane zadanie zgodnie z zawartą umową: 1 2 3 4 5 6 7 8 ... (dzień – miesiąc – rok) ... (kierownik jednostki*)) *) W rozumieniu art. 3 ust. 1 pkt 6 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2016 r. poz. 1047 i 2255 oraz z 2017 r. poz. 61, 245, 791 i 1089).
+za okres od …… roku do …… roku
+Lp. Wyszczególnienie Wysokość dotacji (w zł) Wykonanie (w zł) 1 2 3 4 Środki otrzymane Przeznaczenie środków na dane zadanie zgodnie z zawartą umową: 1 2 3 4 5 6 7 8
+... (dzień – miesiąc – rok) ... (kierownik jednostki*)) *) W rozumieniu art. 3 ust. 1 pkt 6 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2016 r. poz. 1047 i 2255 oraz z 2017 r. poz. 61, 245, 791 i 1089).
 
-### Dział I Przepisy ogólne
+### Dział I – Przepisy ogólne
 
-### Dział II Warunki finansowania zadań realizowanych przez jednostki należące do sektora finansów publicznych
+### Dział II – Warunki finansowania zadań realizowanych przez jednostki należące do sektora finansów publicznych
 
-### Dział III Warunki finansowania zadań realizowanych przez jednostki nienależące do sektora finansów publicznych
+### Dział III – Warunki finansowania zadań realizowanych przez jednostki nienależące do sektora finansów publicznych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Powołanie i tryb działania komisji konkursowej
+#### Rozdział 2 – Powołanie i tryb działania komisji konkursowej
 
-#### Rozdział 3 Przebieg konkursu ofert
+#### Rozdział 3 – Przebieg konkursu ofert
 
-#### Rozdział 4 Ocena ofert
+#### Rozdział 4 – Ocena ofert
 
-### Dział IV Sposób wykorzystania i rozliczania środków Funduszu Sprawiedliwości
+### Dział IV – Sposób wykorzystania i rozliczania środków Funduszu Sprawiedliwości
 
-### Dział V Szczegółowe zadania, na które przeznaczane są środki Funduszu Sprawiedliwości
+### Dział V – Szczegółowe zadania, na które przeznaczane są środki Funduszu Sprawiedliwości
 
-#### Rozdział 1 Udzielanie pomocy osobom pokrzywdzonym przestępstwem, świadkom oraz osobom im najbliższym
+#### Rozdział 1 – Udzielanie pomocy osobom pokrzywdzonym przestępstwem, świadkom oraz osobom im najbliższym
 
-#### Rozdział 2 Udzielanie pomocy osobom pozbawionym wolności, zwalnianym z zakładów karnych i aresztów śledczych oraz osobom im najbliższym
+#### Rozdział 2 – Udzielanie pomocy osobom pozbawionym wolności, zwalnianym z zakładów karnych i aresztów śledczych oraz osobom im najbliższym
 
-#### Rozdział 3 Pozostałe zadania finansowane ze środków Funduszu Sprawiedliwości
+#### Rozdział 3 – Pozostałe zadania finansowane ze środków Funduszu Sprawiedliwości
 
-### Dział VI Szczegółowe zasady gospodarki finansowej Funduszu Sprawiedliwości
+### Dział VI – Szczegółowe zasady gospodarki finansowej Funduszu Sprawiedliwości
 
-### Dział VII Przepisy przejściowe i końcowe
+### Dział VII – Przepisy przejściowe i końcowe
+
+### Dział I
+
+### Dział II
+
+### Dział III
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+### Dział IV
+
+### Dział V
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+### Dział VI
+
+### Dział VII
 

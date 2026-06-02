@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 17 stycznia 2017 r. w sprawie postępowania w sprawie pozasądowego rozwiązywania sporów konsumenckich z zakresu usług pocztowych prowadzonego przez Prezesa Urzędu Komunikacji Elektronicznej
+# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 17 stycznia 2017 r. w sprawie postępowania w sprawie pozasądowego rozwiązywania sporów konsumenckich z zakresu usług pocztowych prowadzonego przez Prezesa Urzędu Komunikacji Elektronicznej Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-01-17 |
 | Data wydania | 2017-01-23 |
-| Wejście w życie | 2017-01-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000139) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/139/text.pdf) |
 
@@ -86,6 +85,5 @@ co najmniej roczne doświadczenie zawodowe związane z rynkiem pocztowym.
 2.
 Upoważnienie dla pracownika UKE do prowadzenia postępowania udzielane jest na czas określony nie krótszy niż 3 lata.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
 

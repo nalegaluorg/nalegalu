@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 28 sierpnia 2018 r. w sprawie ubezpieczenia od następstw nieszczęśliwych wypadków funkcjonariuszy Służby Ochrony Państwa
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 28 sierpnia 2018 r. w sprawie ubezpieczenia od następstw nieszczęśliwych wypadków funkcjonariuszy Służby Ochrony Państwa Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-08-28 |
 | Data wydania | 2018-09-05 |
-| Wejście w życie | 2018-09-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001724) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1724/text.pdf) |
 
@@ -36,6 +35,5 @@ Suma ubezpieczenia od następstw nieszczęśliwych wypadków, wskutek których m
 2.
 Suma ubezpieczenia od następstw nieszczęśliwych wypadków, wskutek których może nastąpić śmierć funkcjonariusza, stanowi pięciokrotność dwunastomiesięcznego przeciętnego uposażenia, o którym mowa w art. 162 ust. 14 ustawy, obowiązującego w roku poprzednim.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 4 listopada 2014 r. w sprawie określenia sum ubezpieczenia od następstw nieszczęśliwych wypadków w umowach ubezpieczenia zawieranych na rachunek funkcjonariuszy Biura Ochrony Rządu (Dz. U. poz. 1586), które na podstawie art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 4 listopada 2014 r. w sprawie określenia sum ubezpieczenia od następstw nieszczęśliwych wypadków w umowach ubezpieczenia zawieranych na rachunek funkcjonariuszy Biura Ochrony Rządu (Dz. U. poz. 1586), które na podstawie art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 4 listopada 2014 r. w sprawie określenia sum ubezpieczenia od następstw nieszczęśliwych wypadków w umowach ubezpieczenia zawieranych na rachunek funkcjonariuszy Biura Ochrony Rządu (Dz. U. poz. 1586), które na podstawie art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

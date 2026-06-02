@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 8 stycznia 2021 r. zmieniające rozporządzenie w sprawie kontroli ruchu drogowego
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 8 stycznia 2021 r. zmieniające rozporządzenie w sprawie kontroli ruchu drogowego Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-01-08 |
 | Data wydania | 2021-01-14 |
-| Wejście w życie | 2021-01-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000086) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/86/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 131 ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2020 r. poz. 110, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 131 ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2020 r. poz. 110, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 284, 568, 695, 1087 i 1517 oraz z 2021 r. poz. 54.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 5 listopada 2019 r. w sprawie kontroli ruchu drogowego (Dz. U. poz. 2141) wprowadza się następujące zmiany:
 1)
@@ -37,12 +36,9 @@ w ust. 1 zdanie drugie otrzymuje brzmienie: „ W takim przypadku weryfikacja da
 b)
 uchyla się ust. 2 i 3;
 2)
-po § 21 dodaje się § 21a w brzmieniu:
-„
+po § 21 dodaje się § 21a w brzmieniu: „
 § 21a.
-Do kontroli ruchu drogowego wykonywanej przez strażnika gminnego (miejskiego), strażnika leśnego oraz funkcjonariusza Straży Parku przepis § 17 stosuje się odpowiednio.
-” .
+Do kontroli ruchu drogowego wykonywanej przez strażnika gminnego (miejskiego), strażnika leśnego oraz funkcjonariusza Straży Parku przepis § 17 stosuje się odpowiednio. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 284, 568, 695, 1087 i 1517 oraz z 2021 r. poz. 54.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 284, 568, 695, 1087 i 1517 oraz z 2021 r. poz. 54.
 

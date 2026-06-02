@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 29 listopada 2019 r. w sprawie szczegółowych czynności diagnostów związanych z odczytem wskazania drogomierza oraz wysokości opłaty z tym związanej
+# Rozporządzenie Ministra Infrastrukturyz dnia 29 listopada 2019 r. w sprawie szczegółowych czynności diagnostów związanych z odczytem wskazania drogomierza oraz wysokości opłaty z tym związanej Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-11-29 |
 | Data wydania | 2019-12-11 |
-| Wejście w życie | 2020-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002390) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2390/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 81b ust. 9 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 81b ust. 9 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501, 1556, 1579, 1818, 2020 i 2202.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -95,8 +94,7 @@ drogomierz nie pokazuje żadnej wartości,
 3)
 brak jest zamontowanego drogomierza lub jest nieprawidłowo zamontowany w szczególności w miejscu do tego konstrukcyjnie nieprzeznaczonym,
 4)
-zamontowany drogomierz jest niewłaściwy do danego typu pojazdu
-wynik odczytu określa się jako negatywny.
+zamontowany drogomierz jest niewłaściwy do danego typu pojazdu – wynik odczytu określa się jako negatywny.
 § 7.
 Dokument potwierdzający dokonanie odczytu drogomierza zawiera:
 1)
@@ -122,9 +120,7 @@ numer, którego struktura powinna mieć następującą budowę:
 a)
 LI)/XXXXXII)/XXX/YYY/PIII)/XXXXIV)- dla podstawowej stacji kontroli pojazdów,
 b)
-LI)/XXXXXII)/XXX/YYYIII)/XXXXIV) – dla okręgowej stacji kontroli pojazdów
-gdzie: I) L – oznacza, że dokument dotyczy drogomierza, II) pięcioznakowy numer odczytu zaczynający się z prawej strony, np. 00001, III) kod rozpoznawczy stacji kontroli pojazdów: XXX – właściwy wyróżnik województwa i powiatu oznaczony według przepisów dotyczących rejestracji i oznaczania pojazdów (dwie lub odpowiednio trzy litery), YYY – numer kolejny stacji kontroli pojazdów, P – stały element kodu rozpoznawczego podstawowych stacji kontroli pojazdów,IV) czterocyfrowe pełne oznakowanie roku.
+LI)/XXXXXII)/XXX/YYYIII)/XXXXIV) – dla okręgowej stacji kontroli pojazdów – gdzie: I) L – oznacza, że dokument dotyczy drogomierza, II) pięcioznakowy numer odczytu zaczynający się z prawej strony, np. 00001, III) kod rozpoznawczy stacji kontroli pojazdów: XXX – właściwy wyróżnik województwa i powiatu oznaczony według przepisów dotyczących rejestracji i oznaczania pojazdów (dwie lub odpowiednio trzy litery), YYY – numer kolejny stacji kontroli pojazdów, P – stały element kodu rozpoznawczego podstawowych stacji kontroli pojazdów,IV) czterocyfrowe pełne oznakowanie roku.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501, 1556, 1579, 1818, 2020 i 2202.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501, 1556, 1579, 1818, 2020 i 2202.
 

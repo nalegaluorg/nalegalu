@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-04 |
 | Data wydania | 2013-11-21 |
-| Wejście w życie | 2013-12-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001357) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1357/text.pdf) |
 
@@ -37,17 +36,13 @@ w § 3:
 a)
 w ust. 1 uchyla się pkt 1,
 b)
-w ust. 5 pkt 1 otrzymuje brzmienie:
-„
+w ust. 5 pkt 1 otrzymuje brzmienie: „
 1)
-informuje się tego wnioskodawcę, w formie pisemnej, o odmowie przyznania pomocy finansowej z podaniem jej przyczyn – w przypadku działań: tworzenie i rozwój mikroprzedsiębiorstw, podstawowe usługi dla gospodarki i ludności wiejskiej oraz odnowa i rozwój wsi;
-” ;
+informuje się tego wnioskodawcę, w formie pisemnej, o odmowie przyznania pomocy finansowej z podaniem jej przyczyn – w przypadku działań: tworzenie i rozwój mikroprzedsiębiorstw, podstawowe usługi dla gospodarki i ludności wiejskiej oraz odnowa i rozwój wsi; ” ;
 2)
-po § 3 dodaje się § 3a w brzmieniu:
-„
+po § 3 dodaje się § 3a w brzmieniu: „
 § 3a.
-Wnioskodawców, których wnioski o przyznanie pomocy finansowej złożone w ramach działania modernizacja gospodarstw rolnych zawierają zapotrzebowanie na środki przekraczające określoną w załączniku do rozporządzenia wysokość odpowiedniego limitu środków, niezwłocznie informuje się, w formie pisemnej, o odmowie przyznania pomocy finansowej z podaniem jej przyczyn.
-” ;
+Wnioskodawców, których wnioski o przyznanie pomocy finansowej złożone w ramach działania modernizacja gospodarstw rolnych zawierają zapotrzebowanie na środki przekraczające określoną w załączniku do rozporządzenia wysokość odpowiedniego limitu środków, niezwłocznie informuje się, w formie pisemnej, o odmowie przyznania pomocy finansowej z podaniem jej przyczyn. ” ;
 3)
 w załączniku do rozporządzenia tabele:
 a)
@@ -57,8 +52,7 @@ III. Poprawianie i rozwijanie infrastruktury związanej z rozwojem i dostosowywa
 c)
 VI. Podstawowe usługi dla gospodarki i ludności wiejskiej, z podziałem na środki przeznaczone na priorytet infrastruktura szerokopasmowego Internetu na obszarach wiejskich, o którym mowa w art. 16a ust. 1 lit. g rozporządzenia nr 1698/2005, i na pozostałe operacje w ramach tego działania,
 d)
-VII. Odnowa i rozwój wsi
-otrzymują brzmienie określone w załączniku do niniejszego rozporządzenia.
+VII. Odnowa i rozwój wsi – otrzymują brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Załącznik

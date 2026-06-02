@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 15 stycznia 2020 r. zmieniające rozporządzenie w sprawie utworzenia urzędów morskich, określenia ich siedzib oraz terytorialnego zakresu działania dyrektorów urzędów morskich
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 15 stycznia 2020 r. zmieniające rozporządzenie w sprawie utworzenia urzędów morskich, określenia ich siedzib oraz terytorialnego zakresu działania dyrektorów urzędów morskich Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-15 |
 | Data wydania | 2020-01-21 |
-| Wejście w życie | 2020-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000092) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/92/text.pdf) |
 
@@ -35,24 +34,19 @@ w § 1 uchyla się pkt 2;
 2)
 w § 2:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
 Terytorialny zakres działania:
 1)
 dyrektora Urzędu Morskiego w Gdyni – obejmuje morskie wody wewnętrzne, morze terytorialne, strefę przyległą, wyłączną strefę ekonomiczną, morskie porty i przystanie oraz pas nadbrzeżny od wschodniej granicy państwa do linii wyznaczonej, na obszarach morskich, przebiegiem południka 16 41 56,70 długości geograficznej wschodniej, a następnie granicą województwa pomorskiego i zachodniopomorskiego,
 2)
-dyrektora Urzędu Morskiego w Szczecinie – obejmuje morskie wody wewnętrzne, morze terytorialne, strefę przyległą, wyłączną strefę ekonomiczną, morskie porty i przystanie oraz pas nadbrzeżny od linii wyznaczonej, na obszarach morskich, przebiegiem południka 16 41 56,70 długości geograficznej wschodniej, a następnie granicą województwa pomorskiego i zachodniopomorskiego, do zachodniej granicy państwa.
-” ,
+dyrektora Urzędu Morskiego w Szczecinie – obejmuje morskie wody wewnętrzne, morze terytorialne, strefę przyległą, wyłączną strefę ekonomiczną, morskie porty i przystanie oraz pas nadbrzeżny od linii wyznaczonej, na obszarach morskich, przebiegiem południka 16 41 56,70 długości geograficznej wschodniej, a następnie granicą województwa pomorskiego i zachodniopomorskiego, do zachodniej granicy państwa. ” ,
 b)
-dodaje się ust. 4 w brzmieniu:
-„
+dodaje się ust. 4 w brzmieniu: „
 4.
-Terytorialny zakres działania dyrektora Urzędu Morskiego w Gdyni w zakresie nadzoru nad ruchem statków obejmuje, niezależnie od zakresu określonego zgodnie z ust. 1, obszar działania Służby Kontroli Ruchu Statków VTS Ławica Słupska.
-” .
+Terytorialny zakres działania dyrektora Urzędu Morskiego w Gdyni w zakresie nadzoru nad ruchem statków obejmuje, niezależnie od zakresu określonego zgodnie z ust. 1, obszar działania Służby Kontroli Ruchu Statków VTS Ławica Słupska. ” .
 § 2.
 Sprawy wszczęte i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia przez dyrektora Urzędu Morskiego w Słupsku, prowadzone w zakresie działania tego dyrektora, są prowadzone przez dyrektora Urzędu Morskiego w Gdyni albo dyrektora Urzędu Morskiego w Szczecinie według przepisów określających właściwość tych dyrektorów.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2020 r.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2020 r. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
 

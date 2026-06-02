@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-03-17 |
 | Data wydania | 2016-03-24 |
-| Wejście w życie | 2016-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000394) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/394/text.pdf) |
 
@@ -30,7 +29,7 @@ source: "eli-html"
 
 - **1)** stanowiska w sądach powszechnych i wojskowych oraz powszechnych jednostkach organizacyjnych prokuratury, na których zatrudniani są urzędnicy i inni pracownicy, a także kwalifikacje wymagane do zajmowania tych stanowisk, ” .
 
-**Art. 2.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2012 r. poz. 270, z późn. zm.) art. 265 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2012 r. poz. 270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101 i 1529, z 2014 r. poz. 183 i 543 oraz z 2015 r. poz. 658, 1191, 1224, 1269 i 1311.) art. 265 otrzymuje brzmienie: „
 
 **Art. 265.** W posiedzeniu całego składu Naczelnego Sądu Administracyjnego lub posiedzeniu Izby udział Prokuratora Generalnego lub jego zastępcy jest obowiązkowy. W posiedzeniu składu siedmiu sędziów bierze udział prokurator Prokuratury Krajowej. ” .
 
@@ -47,6 +46,6 @@ source: "eli-html"
 **Art. 6.** Ustawa wchodzi w życie z dniem 1 kwietnia 2016 r., z wyjątkiem:
 
 - **1)** art. 1, który wchodzi w życie z dniem 3 marca 2017 r.;
-- **2)** art. 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+- **2)** art. 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101 i 1529, z 2014 r. poz. 183 i 543 oraz z 2015 r. poz. 658, 1191, 1224, 1269 i 1311.
 
 

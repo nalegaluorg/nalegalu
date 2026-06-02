@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 grudnia 2012 r. o zmianie ustawy o podatku tonażowym oraz niektórych innych ustaw
+# Ustawa z dnia 7 grudnia 2012 r. o zmianie ustawy o podatku tonażowym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 31 stycznia 1989 r. o gospodarce finansowej przedsiębiorstw państwowych, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 1 grudnia 1995 r. o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa oraz ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-07 |
 | Data wydania | 2012-12-31 |
-| Wejście w życie | 2013-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001540) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1540/text.pdf) |
 
@@ -49,7 +48,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** ratownictwa pełnomorskiego którzy dokonali wyboru tej formy opodatkowania.
+- **2)** ratownictwa pełnomorskiego – którzy dokonali wyboru tej formy opodatkowania.
 
 2. Opodatkowaniu podatkiem tonażowym podlega również działalność przedsiębiorcy żeglugowego w zakresie:
 
@@ -62,7 +61,7 @@ source: "eli-html"
 - **7)** przewozu ładunku lub pasażerów w transporcie multimodalnym,
 - **8)** zarządzania cudzym statkiem – jeżeli przedsiębiorca żeglugowy prowadzi tę działalność z terytorium państwa członkowskiego Unii Europejskiej i większość osób zatrudnionych przez niego na lądzie lub na statku stanowią obywatele państw członkowskich Unii Europejskiej,
 - **9)** świadczenia usług agentów i maklerów morskich, usług brokerskich i usług agencji zatrudnienia, związanych z załogą statku,
-- **10)** zawierania umów najmu, dzierżawy lub czarteru statków pod warunkiem że działalność ta jest związana ze świadczeniem usług, o których mowa w ust. 1. ” ;
+- **10)** zawierania umów najmu, dzierżawy lub czarteru statków – pod warunkiem że działalność ta jest związana ze świadczeniem usług, o których mowa w ust. 1. ” ;
 - **4)** art. 4 otrzymuje brzmienie: „
 
 **Art. 4.**
@@ -141,9 +140,9 @@ source: "eli-html"
 
 **Art. 13a.** Wyboru opodatkowania podatkiem tonażowym można dokonać w okresie obowiązywania pozytywnej decyzji Komisji Europejskiej o zgodności podatku tonażowego z rynkiem wewnętrznym. ” .
 
-**Art. 2.** W ustawie z dnia 31 stycznia 1989 r. o gospodarce finansowej przedsiębiorstw państwowych (Dz. U. z 1992 r. Nr 6, poz. 27, z późn. zm.) w art. 12 ust. 2a otrzymuje brzmienie: „ 2a. Z wpłat, o których mowa w ust. 1, zwolniony jest także w okresie opodatkowania podatkiem tonażowym przedsiębiorca żeglugowy w zakresie przychodów z działalności opodatkowanej podatkiem tonażowym. ” .
+**Art. 2.** W ustawie z dnia 31 stycznia 1989 r. o gospodarce finansowej przedsiębiorstw państwowych (Dz. U. z 1992 r. Nr 6, poz. 27, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1993 r. Nr 18, poz. 82, z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 154, poz. 791, z 2002 r. Nr 156, poz. 1301 oraz z 2006 r. Nr 183, poz. 1353.) w art. 12 ust. 2a otrzymuje brzmienie: „ 2a. Z wpłat, o których mowa w ust. 1, zwolniony jest także w okresie opodatkowania podatkiem tonażowym przedsiębiorca żeglugowy w zakresie przychodów z działalności opodatkowanej podatkiem tonażowym. ” .
 
-**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448 i 1529.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w ust. 1 pkt 6 otrzymuje brzmienie: „
 - **6)** przychodów (dochodów) przedsiębiorcy żeglugowego opodatkowanych na zasadach wynikających z ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym (Dz. U. Nr 183, poz. 1353, z 2008 r. Nr 209, poz. 1316 oraz z 2012 r. poz. 1540), z zastrzeżeniem art. 24a ust. 1a; ” ;
@@ -156,7 +155,7 @@ source: "eli-html"
 13a. Wydatki na cele określone w ust. 1 podlegają odliczeniu od dochodu, jeżeli nie zostały zaliczone do kosztów uzyskania przychodów lub nie zostały odliczone od przychodu na podstawie ustawy o zryczałtowanym podatku dochodowym albo nie zostały zwrócone podatnikowi w jakiejkolwiek formie. ” ;
 
 - **4)** w art. 30c w ust. 3 pkt 3 otrzymuje brzmienie: „
-- **3)** odliczone od przychodów na podstawie ustawy o zryczałtowanym podatku dochodowym, lub ” . W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm.) wprowadza się następujące zmiany:
+- **3)** odliczone od przychodów na podstawie ustawy o zryczałtowanym podatku dochodowym, lub ” . W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 585, Nr 106, poz. 622, Nr 134, poz. 781, Nr 178, poz. 1059, Nr 205, poz. 1202 i Nr 234, poz. 1389 i 1391 oraz z 2012 r. poz. 362, 596, 769, 1010, 1342 i 1448.) wprowadza się następujące zmiany:
 - **1)** w art. 2 w ust. 1 pkt 4 otrzymuje brzmienie: „
 - **4)** przychodów (dochodów) przedsiębiorcy żeglugowego opodatkowanych na zasadach wynikających z ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym (Dz. U. Nr 183, poz. 1353, z 2008 r. Nr 209, poz. 1316 oraz z 2012 r. poz. 1540), z zastrzeżeniem art. 9 ust. 1a. ” ;
 - **2)** w art. 9 ust. 1a otrzymuje brzmienie: „
@@ -165,7 +164,7 @@ source: "eli-html"
 
 **Art. 5.** W ustawie z dnia 1 grudnia 1995 r. o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa (Dz. U. Nr 154, poz. 792, z 2006 r. Nr 183, poz. 1353 oraz z 2012 r. poz. 596) w art. 5 ust. 1a otrzymuje brzmienie: „ 1a. Z wpłat, o których mowa w art. 4, zwolniony jest także w okresie opodatkowania podatkiem tonażowym przedsiębiorca żeglugowy w zakresie przychodów z działalności opodatkowanej podatkiem tonażowym. ” .
 
-**Art. 6.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.) w art. 15 ust. 1a otrzymuje brzmienie: „ 1a. Podatnicy będący przedsiębiorcami żeglugowymi w rozumieniu ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym (Dz. U. Nr 183, poz. 1353, z 2008 r. Nr 209, poz. 1316 oraz z 2012 r. poz. 1540), prowadzący działalność opodatkowaną podatkiem tonażowym oraz inną działalność opodatkowaną ryczałtem od przychodów ewidencjonowanych są obowiązani w ewidencji wyodrębnić przychody podlegające opodatkowaniu podatkiem tonażowym i ryczałtem od przychodów ewidencjonowanych. ” .
+**Art. 6.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324, z 2001 r. Nr 74, poz. 784, Nr 88, poz. 961, Nr 125, poz. 1363 i 1369 i Nr 134, poz. 1509, z 2002 r. Nr 141, poz. 1183, Nr 169, poz. 1384, Nr 172, poz. 1412 i Nr 200, poz. 1679, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 135, poz. 1268, Nr 137, poz. 1302 i Nr 202, poz. 1958, z 2004 r. Nr 210, poz. 2135 i Nr 263, poz. 2619, z 2005 r. Nr 143, poz. 1199, Nr 164, poz. 1366 i Nr 169, poz. 1420, z 2006 r. Nr 183, poz. 1353 i Nr 217, poz. 1588, z 2008 r. Nr 141, poz. 888, Nr 143, poz. 894 i Nr 209, poz. 1316, z 2009 r. Nr 157, poz. 1241 i Nr 201, poz. 1541, z 2010 r. Nr 3, poz. 13, Nr 28, poz. 146, Nr 75, poz. 473, Nr 219, poz. 1442 i Nr 226, poz. 1478, z 2011 r. Nr 106, poz. 622 i Nr 131, poz. 764 oraz z 2012 r. poz. 1529.) w art. 15 ust. 1a otrzymuje brzmienie: „ 1a. Podatnicy będący przedsiębiorcami żeglugowymi w rozumieniu ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym (Dz. U. Nr 183, poz. 1353, z 2008 r. Nr 209, poz. 1316 oraz z 2012 r. poz. 1540), prowadzący działalność opodatkowaną podatkiem tonażowym oraz inną działalność opodatkowaną ryczałtem od przychodów ewidencjonowanych są obowiązani w ewidencji wyodrębnić przychody podlegające opodatkowaniu podatkiem tonażowym i ryczałtem od przychodów ewidencjonowanych. ” .
 
 **Art. 7.**
 
@@ -179,5 +178,5 @@ source: "eli-html"
 
 5. Armator, który złoży oświadczenie o wyborze opodatkowania podatkiem tonażowym przed dniem 1 stycznia 2013 r., a przed tym dniem nie rozpocznie się okres opodatkowania podatkiem tonażowym, podlega opodatkowaniu na zasadach określonych w ustawie, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, chyba że do dnia 20 stycznia 2013 r. zrezygnuje z opodatkowania podatkiem tonażowym poprzez złożenie stosownego oświadczenia właściwemu naczelnikowi urzędu skarbowego.
 
-**Art. 8.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 7 ust. 3 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 7 ust. 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak, niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie z dniem 1 stycznia 2013 r.
+**Art. 8.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 7 ust. 3 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 7 ust. 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak, niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie z dniem 1 stycznia 2013 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 31 stycznia 1989 r. o gospodarce finansowej przedsiębiorstw państwowych, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 1 grudnia 1995 r. o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa oraz ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1993 r. Nr 18, poz. 82, z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 154, poz. 791, z 2002 r. Nr 156, poz. 1301 oraz z 2006 r. Nr 183, poz. 1353. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448 i 1529. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 585, Nr 106, poz. 622, Nr 134, poz. 781, Nr 178, poz. 1059, Nr 205, poz. 1202 i Nr 234, poz. 1389 i 1391 oraz z 2012 r. poz. 362, 596, 769, 1010, 1342 i 1448. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324, z 2001 r. Nr 74, poz. 784, Nr 88, poz. 961, Nr 125, poz. 1363 i 1369 i Nr 134, poz. 1509, z 2002 r. Nr 141, poz. 1183, Nr 169, poz. 1384, Nr 172, poz. 1412 i Nr 200, poz. 1679, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 135, poz. 1268, Nr 137, poz. 1302 i Nr 202, poz. 1958, z 2004 r. Nr 210, poz. 2135 i Nr 263, poz. 2619, z 2005 r. Nr 143, poz. 1199, Nr 164, poz. 1366 i Nr 169, poz. 1420, z 2006 r. Nr 183, poz. 1353 i Nr 217, poz. 1588, z 2008 r. Nr 141, poz. 888, Nr 143, poz. 894 i Nr 209, poz. 1316, z 2009 r. Nr 157, poz. 1241 i Nr 201, poz. 1541, z 2010 r. Nr 3, poz. 13, Nr 28, poz. 146, Nr 75, poz. 473, Nr 219, poz. 1442 i Nr 226, poz. 1478, z 2011 r. Nr 106, poz. 622 i Nr 131, poz. 764 oraz z 2012 r. poz. 1529.
 

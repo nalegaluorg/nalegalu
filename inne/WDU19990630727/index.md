@@ -21,7 +21,6 @@ source: "eli-html"
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 1999-07-29 |
-| Wejście w życie | 1999-08-14 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990630727) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/727/text.pdf) |
 
@@ -48,15 +47,13 @@ Papieski Wydział Teologiczny we Wrocławiu,
 4)
 Papieski Wydział Teologiczny w Warszawie,
 5)
-Wyższa Szkoła Filozoficzno-Pedagogiczna „Ignatianum” w Krakowie, dawniej Wydział Filozoficzny Towarzystwa Jezusowego w Krakowie,
-posiadają osobowość prawną oraz uprawnienia określone w umowie.
+Wyższa Szkoła Filozoficzno-Pedagogiczna „Ignatianum” w Krakowie, dawniej Wydział Filozoficzny Towarzystwa Jezusowego w Krakowie, posiadają osobowość prawną oraz uprawnienia określone w umowie.
 2.
 Papieski Wydział Teologiczny w Warszawie dzieli się na dwie sekcje:
 1)
 Sekcję św. Jana Chrzciciela,
 2)
-Sekcję św. Andrzeja Boboli „Bobolanum”.
-Każda z tych sekcji posiada osobowość prawną.
+Sekcję św. Andrzeja Boboli „Bobolanum”. Każda z tych sekcji posiada osobowość prawną.
 § 3.
 W stosunku do Katolickiego Uniwersytetu Lubelskiego mają odpowiednie zastosowanie przepisy ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385 z późniejszymi zmianami) i ustawy z dnia 12 września 1990 r. o tytule naukowym i stopniach naukowych (Dz. U. Nr 65, poz. 386 z późniejszymi zmianami).
 § 4.
@@ -99,6 +96,5 @@ Traci moc umowa z dnia 30 czerwca 1989 r. między Rządem Polskiej Rzeczypospoli
 § 15.
 Umowa zostanie ogłoszona w Dzienniku Ustaw Rzeczypospolitej Polskiej w terminie 30 dni od jej podpisania.
 § 16.
-Umowa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Warszawa, dnia 1 lipca 1999 r.
+Umowa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Warszawa, dnia 1 lipca 1999 r.
 

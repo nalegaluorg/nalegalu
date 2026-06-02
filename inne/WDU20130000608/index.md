@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-05-14 |
 | Data wydania | 2013-05-27 |
-| Wejście w życie | 2013-05-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000608) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/608/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 128 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 128 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1544 oraz z 2013 r. poz. 134.) zarządza się, co następuje:
 § 1.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -74,5 +73,5 @@ Minister Obrony Narodowej wydaje opinię, o której mowa w art. 127 ust. 2 ustaw
 § 6.
 Minister właściwy do spraw transportu wyznacza instytucję albo odmawia jej wyznaczenia w terminie 30 dni po otrzymaniu wniosku od Prezesa Urzędu oraz opinii Ministra Obrony Narodowej.
 § 7.
-Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu z dnia 20 czerwca 2007 r. w sprawie wyznaczania instytucji zapewniających służby żeglugi powietrznej oraz realizacji przez Prezesa Urzędu Lotnictwa Cywilnego jego uprawnień i obowiązków jako państwowej władzy nadzorującej (Dz. U. Nr 109, poz. 754), które na podstawie art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. Nr 170, poz. 1015) utraciło moc z dniem 19 marca 2013 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1544 oraz z 2013 r. poz. 134. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu z dnia 20 czerwca 2007 r. w sprawie wyznaczania instytucji zapewniających służby żeglugi powietrznej oraz realizacji przez Prezesa Urzędu Lotnictwa Cywilnego jego uprawnień i obowiązków jako państwowej władzy nadzorującej (Dz. U. Nr 109, poz. 754), które na podstawie art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. Nr 170, poz. 1015) utraciło moc z dniem 19 marca 2013 r.
 

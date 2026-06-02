@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-04-20 |
 | Data wydania | 2018-04-26 |
-| Wejście w życie | 2018-04-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000793) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/793/text.pdf) |
 
@@ -33,60 +32,43 @@ W rozporządzeniu Ministra Sprawiedliwości z dnia 7 kwietnia 2016 r. – Regula
 1)
 w § 23:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
-opracowywanie projektów kasacji Prokuratora Generalnego od prawomocnych orzeczeń sądów powszechnych w sprawach karnych i nieletnich kończących postępowanie oraz projektów skarg na wyroki sądów odwoławczych rozpoznawanych na podstawie przepisów k.p.k.;
-” ,
+opracowywanie projektów kasacji Prokuratora Generalnego od prawomocnych orzeczeń sądów powszechnych w sprawach karnych i nieletnich kończących postępowanie oraz projektów skarg na wyroki sądów odwoławczych rozpoznawanych na podstawie przepisów k.p.k.; ” ,
 b)
-po pkt 3 dodaje się pkt 3a w brzmieniu:
-„
+po pkt 3 dodaje się pkt 3a w brzmieniu: „
 3a)
-opracowywanie projektów skarg nadzwyczajnych Prokuratora Generalnego od prawomocnych orzeczeń sądów powszechnych kończących postępowanie w sprawie;
-” ,
+opracowywanie projektów skarg nadzwyczajnych Prokuratora Generalnego od prawomocnych orzeczeń sądów powszechnych kończących postępowanie w sprawie; ” ,
 c)
-pkt 7 otrzymuje brzmienie:
-„
+pkt 7 otrzymuje brzmienie: „
 7)
-rozpoznawanie wniosków prokuratorów o wniesienie kasacji w sprawach karnych i opracowywanie w tych sprawach projektów kasacji Prokuratora Generalnego lub pism zawiadamiających o odmowie wniesienia kasacji;
-” ,
+rozpoznawanie wniosków prokuratorów o wniesienie kasacji w sprawach karnych i opracowywanie w tych sprawach projektów kasacji Prokuratora Generalnego lub pism zawiadamiających o odmowie wniesienia kasacji; ” ,
 d)
-pkt 10 otrzymuje brzmienie:
-„
+pkt 10 otrzymuje brzmienie: „
 10)
-oddziaływanie na praktykę oskarżycielską jednostek, w szczególności przez opracowywanie wyników badań problematyki kasacyjnej i związanej ze skargą nadzwyczajną oraz kierowanie pism instrukcyjnych do prokuratur regionalnych;
-” ;
+oddziaływanie na praktykę oskarżycielską jednostek, w szczególności przez opracowywanie wyników badań problematyki kasacyjnej i związanej ze skargą nadzwyczajną oraz kierowanie pism instrukcyjnych do prokuratur regionalnych; ” ;
 2)
 w § 24:
 a)
-pkt 6 otrzymuje brzmienie:
-„
+pkt 6 otrzymuje brzmienie: „
 6)
-udział prokuratorów w posiedzeniach Sądu Najwyższego dotyczących sądowej kontroli postępowania przygotowawczego, w zakresie właściwości Departamentu;
-” ,
+udział prokuratorów w posiedzeniach Sądu Najwyższego dotyczących sądowej kontroli postępowania przygotowawczego, w zakresie właściwości Departamentu; ” ,
 b)
-pkt 8 otrzymuje brzmienie:
-„
+pkt 8 otrzymuje brzmienie: „
 8)
-opracowywanie projektów nadzwyczajnych środków zaskarżenia od wyroków Sądu Najwyższego oraz udział prokuratorów przed Sądem Najwyższym w postępowaniu odwoławczym, postępowaniu związanym z rozpoznaniem nadzwyczajnych środków zaskarżenia oraz w innych ustawowo określonych przypadkach, w zakresie właściwości Departamentu;
-” ,
+opracowywanie projektów nadzwyczajnych środków zaskarżenia od wyroków Sądu Najwyższego oraz udział prokuratorów przed Sądem Najwyższym w postępowaniu odwoławczym, postępowaniu związanym z rozpoznaniem nadzwyczajnych środków zaskarżenia oraz w innych ustawowo określonych przypadkach, w zakresie właściwości Departamentu; ” ,
 c)
-po pkt 8 dodaje się pkt 8a i 8b w brzmieniu:
-„
+po pkt 8 dodaje się pkt 8a i 8b w brzmieniu: „
 8a)
 opracowywanie projektów skarg nadzwyczajnych Prokuratora Generalnego od prawomocnych orzeczeń sądów wojskowych kończących postępowanie w sprawie;
 8b)
-udział w postępowaniu przed Sądem Najwyższym w sprawach dotyczących rozpoznania skargi nadzwyczajnej od prawomocnego orzeczenia sądu wojskowego kończącego postępowanie w sprawie;
-” ,
+udział w postępowaniu przed Sądem Najwyższym w sprawach dotyczących rozpoznania skargi nadzwyczajnej od prawomocnego orzeczenia sądu wojskowego kończącego postępowanie w sprawie; ” ,
 d)
-pkt 10 otrzymuje brzmienie:
-„
+pkt 10 otrzymuje brzmienie: „
 10)
-analizowanie spraw dotyczących pytań prawnych i przygotowywanie projektów dokumentów oraz opiniowanie projektów uchwał Sądu Najwyższego, w zakresie właściwości Departamentu;
-” ;
+analizowanie spraw dotyczących pytań prawnych i przygotowywanie projektów dokumentów oraz opiniowanie projektów uchwał Sądu Najwyższego, w zakresie właściwości Departamentu; ” ;
 3)
-w dziale V w rozdziale 5 przed § 333 dodaje się § 332a-332h w brzmieniu:
-„
+w dziale V w rozdziale 5 przed § 333 dodaje się § 332a-332h w brzmieniu: „
 § 332a.
 1.
 W razie uzyskania na skutek pisma zawierającego prośbę o wniesienie kasacji od prawomocnego orzeczenia sądu kończącego postępowanie informacji uprawdopodabniających uchybienie, o którym mowa w art. 523 § 1 zdanie pierwsze k.p.k. lub art. 523 § 1 zdanie drugie w związku z art. 523 § 1a k.p.k., zwanego dalej „pismem o kasację”, prokurator wykonujący czynności służbowe w Prokuraturze Krajowej zwraca się do właściwego sądu o nadesłanie akt sprawy.
@@ -150,19 +132,16 @@ Jeżeli pismo o kasację nie jest podpisane, wzywa się jego autora do usunięci
 2.
 W razie nieusunięcia braku w terminie wskazanym w ust. 1 pismo o kasację pozostawia się bez biegu, o czym poucza się w wezwaniu. Przepisy § 332a ust. 4 zdanie drugie i § 332b ust. 3 zdanie pierwsze stosuje się odpowiednio.
 § 332h.
-Pismo o kasację pozostawia się bez biegu w przypadku stwierdzenia zaginięcia lub zniszczenia akt sprawy, której dotyczy. W takim przypadku zawiadamia się autora pisma o pozostawieniu tego pisma bez biegu, pouczając go o treści art. 160 § 3 k.p.k. i art. 161 k.p.k. Przepis § 332a ust. 4 stosuje się odpowiednio.
-” ;
+Pismo o kasację pozostawia się bez biegu w przypadku stwierdzenia zaginięcia lub zniszczenia akt sprawy, której dotyczy. W takim przypadku zawiadamia się autora pisma o pozostawieniu tego pisma bez biegu, pouczając go o treści art. 160 § 3 k.p.k. i art. 161 k.p.k. Przepis § 332a ust. 4 stosuje się odpowiednio. ” ;
 4)
 w § 333 w ust. 3 zdanie trzecie otrzymuje brzmienie: „ Kasację od orzeczeń wydanych przez sądy wojskowe wnosi Zastępca Prokuratora Generalnego do spraw Wojskowych. ” ;
 5)
-w § 335 po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+w § 335 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Do wystąpień, o których mowa w ust. 1, stosuje się odpowiednio przepisy § 332a-332h.
-” ;
+Do wystąpień, o których mowa w ust. 1, stosuje się odpowiednio przepisy § 332a-332h. ” ;
 6)
-w dziale V po rozdziale 5 dodaje się rozdział 6 w brzmieniu:
-„
+w dziale V po rozdziale 5 dodaje się rozdział 6 w brzmieniu: „
+Postępowanie w przedmiocie skargi nadzwyczajnej
 § 335a.
 1.
 W razie uzyskania, na skutek pisma zawierającego prośbę o wniesienie skargi nadzwyczajnej lub wskazującego okoliczności mogące stanowić podstawę jej zarzutów, zwanego dalej „pismem o skargę nadzwyczajną”, albo z urzędu, informacji uprawdopodabniających uchybienie uzasadniające wniesienie skargi nadzwyczajnej od prawomocnego orzeczenia sądu powszechnego lub sądu wojskowego kończącego postępowanie w sprawie, które nie może być uchylone lub zmienione w trybie innych nadzwyczajnych środków zaskarżenia, prokurator wykonujący czynności służbowe w Prokuraturze Krajowej zwraca się do prokuratora regionalnego o dokonanie oceny dopuszczalności i celowości wniesienia skargi nadzwyczajnej, chyba że uzna, iż nie jest to konieczne.
@@ -248,25 +227,19 @@ W przypadku wątpliwości, czy pismo o skargę nadzwyczajną pochodzi od osoby, 
 3.
 W razie niewykazania w terminie, o którym mowa w ust. 2, że pismo o skargę nadzwyczajną pochodzi od osoby wskazanej w ust. 1, pismo pozostawia się bez biegu, o czym poucza się w wezwaniu. Przepis § 335d ust. 3 stosuje się odpowiednio.
 § 335m.
-W postępowaniu przed Sądem Najwyższym w przedmiocie skargi nadzwyczajnej uczestniczy prokurator wykonujący czynności służbowe w Prokuraturze Krajowej. Przepisy § 333 ust. 5–7 stosuje się odpowiednio.
-” ;
+W postępowaniu przed Sądem Najwyższym w przedmiocie skargi nadzwyczajnej uczestniczy prokurator wykonujący czynności służbowe w Prokuraturze Krajowej. Przepisy § 333 ust. 5–7 stosuje się odpowiednio. ” ;
 7)
-w § 354 po ust. 4 dodaje się ust. 4a w brzmieniu:
-„
+w § 354 po ust. 4 dodaje się ust. 4a w brzmieniu: „
 4a.
-Do sporów o właściwość miejscową stosuje się odpowiednio przepisy § 116 ust. 3 i 4.
-” ;
+Do sporów o właściwość miejscową stosuje się odpowiednio przepisy § 116 ust. 3 i 4. ” ;
 8)
-w § 366 ust. 3 i 4 otrzymują brzmienie:
-„
+w § 366 ust. 3 i 4 otrzymują brzmienie: „
 3.
 W razie stwierdzenia, że do wniesienia skargi jest uprawniony wyłącznie Prokurator Generalny, akta sprawy lub inne materiały przedstawia się niezwłocznie Prokuratorowi Generalnemu z projektem skargi.
 4.
-Przepis ust. 3 stosuje się odpowiednio w razie potrzeby wystąpienia Prokuratora Generalnego do Sądu Najwyższego z wnioskiem o unieważnienie prawomocnego orzeczenia na podstawie art. 96 ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym (Dz. U. z 2018 r. poz. 5, 650 i 771).
-” ;
+Przepis ust. 3 stosuje się odpowiednio w razie potrzeby wystąpienia Prokuratora Generalnego do Sądu Najwyższego z wnioskiem o unieważnienie prawomocnego orzeczenia na podstawie art. 96 ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym (Dz. U. z 2018 r. poz. 5, 650 i 771). ” ;
 9)
-po § 366 dodaje się § 366a w brzmieniu:
-„
+po § 366 dodaje się § 366a w brzmieniu: „
 § 366a.
 1.
 Do skarg kasacyjnych i skarg o stwierdzenie niezgodności z prawem prawomocnych orzeczeń kończących postępowanie w sprawach, o których mowa w niniejszym dziale, stosuje się odpowiednio przepisy § 332a, § 332b i § 332d-332h.
@@ -275,13 +248,11 @@ Jeżeli z treści pisma zawierającego prośbę o wniesienie skargi kasacyjnej a
 3.
 Do skarg nadzwyczajnych od prawomocnych orzeczeń sądu powszechnego kończących postępowanie w sprawach, o których mowa w niniejszym dziale, stosuje się przepisy § 335a-335k i § 335m.
 4.
-Jeżeli z treści pisma o skargę nadzwyczajną wynika, że nie pochodzi od strony, jej przedstawiciela ustawowego lub pełnomocnika lub osoby, która ma interes prawny we wniesieniu przez Prokuratora Generalnego skargi nadzwyczajnej od orzeczenia sądu powszechnego kończącego postępowanie w sprawie, pismo to pozostawia się bez biegu, o czym zawiadamia się jego autora. Przepisy § 335l ust. 2 i 3 stosuje się odpowiednio.
-” ;
+Jeżeli z treści pisma o skargę nadzwyczajną wynika, że nie pochodzi od strony, jej przedstawiciela ustawowego lub pełnomocnika lub osoby, która ma interes prawny we wniesieniu przez Prokuratora Generalnego skargi nadzwyczajnej od orzeczenia sądu powszechnego kończącego postępowanie w sprawie, pismo to pozostawia się bez biegu, o czym zawiadamia się jego autora. Przepisy § 335l ust. 2 i 3 stosuje się odpowiednio. ” ;
 10)
 w § 368:
 a)
-po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
 1a.
 Jeżeli organ swoim zakresem właściwości obejmuje obszar działania więcej niż jednej prokuratury rejonowej lub prokuratury okręgowej, właściwość miejscową ustala się:
 1)
@@ -289,45 +260,38 @@ w sprawach dotyczących nieruchomości – według miejsca jej położenia;
 2)
 w innych sprawach – według miejsca zamieszkania (siedziby) w kraju, a w jego braku – według miejsca pobytu w kraju strony lub jednej ze stron; jeżeli żadna ze stron nie ma w kraju miejsca zamieszkania (siedziby) ani miejsca pobytu – według miejsca ostatniego ich zamieszkania (siedziby) lub pobytu w kraju.
 1b.
-Właściwość miejscowa prokuratury nie ulega zmianie w przypadku postępowania administracyjnego prowadzonego w trybie nadzwyczajnym.
-” ,
+Właściwość miejscowa prokuratury nie ulega zmianie w przypadku postępowania administracyjnego prowadzonego w trybie nadzwyczajnym. ” ,
 b)
-po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
-Do sporów o właściwość miejscową stosuje się odpowiednio przepisy § 116 ust. 3 i 4.
-” ;
+Do sporów o właściwość miejscową stosuje się odpowiednio przepisy § 116 ust. 3 i 4. ” ;
 11)
 w § 369:
 a)
 w ust. 1:
 – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Akta sprawy lub inne materiały przedstawia się Prokuratorowi Generalnemu z odpowiednim projektem, gdy zachodzi potrzeba: ” ,
-– pkt 1 otrzymuje brzmienie: „ 1) wniesienia przez Prokuratora Generalnego sprzeciwu od decyzji administracyjnej wydanej przez ministra; ” ,
+pkt 1 otrzymuje brzmienie: „
+1)
+wniesienia przez Prokuratora Generalnego sprzeciwu od decyzji administracyjnej wydanej przez ministra; ” ,
 b)
 uchyla się ust. 2;
 12)
-w § 371 po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+w § 371 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Do właściwości miejscowej prokuratora, o której mowa w ust. 1, stosuje się odpowiednio przepisy § 368 ust. 1–1b.
-” ;
+Do właściwości miejscowej prokuratora, o której mowa w ust. 1, stosuje się odpowiednio przepisy § 368 ust. 1–1b. ” ;
 13)
-po § 372 dodaje się § 372a w brzmieniu:
-„
+po § 372 dodaje się § 372a w brzmieniu: „
 § 372a.
 1.
 Do skarg kasacyjnych i skarg o stwierdzenie niezgodności z prawem prawomocnych orzeczeń sądu administracyjnego kończących postępowanie w sprawach, o których mowa w niniejszym dziale, stosuje się odpowiednio przepisy § 332a, § 332b i § 332d-332h.
 2.
-Jeżeli z treści pisma zawierającego prośbę o wniesienie skargi kasacyjnej albo skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia sądu administracyjnego kończącego postępowanie w sprawie wynika, że nie pochodzi od strony, jej przedstawiciela ustawowego lub pełnomocnika lub osoby, która ma interes prawny we wniesieniu przez Prokuratora Generalnego skargi kasacyjnej lub skargi o stwierdzenie niezgodności z prawem od prawomocnego orzeczenia sądu administracyjnego kończącego postępowanie w sprawie, pismo to pozostawia się bez biegu, o czym zawiadamia się jego autora. Przepisy § 332c ust. 2 i 3 stosuje się odpowiednio.
-” ;
+Jeżeli z treści pisma zawierającego prośbę o wniesienie skargi kasacyjnej albo skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia sądu administracyjnego kończącego postępowanie w sprawie wynika, że nie pochodzi od strony, jej przedstawiciela ustawowego lub pełnomocnika lub osoby, która ma interes prawny we wniesieniu przez Prokuratora Generalnego skargi kasacyjnej lub skargi o stwierdzenie niezgodności z prawem od prawomocnego orzeczenia sądu administracyjnego kończącego postępowanie w sprawie, pismo to pozostawia się bez biegu, o czym zawiadamia się jego autora. Przepisy § 332c ust. 2 i 3 stosuje się odpowiednio. ” ;
 14)
-§ 387 otrzymuje brzmienie:
-„
+§ 387 otrzymuje brzmienie: „
 § 387.
-Skarga lub wniosek ponownie wniesione w sprawie już wyjaśnionej, niezawierające nowych okoliczności, są pozostawiane bez biegu i bez zawiadamiania o tym wnoszącego, o czym poucza się go przy odpowiedzi na pierwszą rozpoznaną skargę lub wniosek w tej sprawie.
-” .
+Skarga lub wniosek ponownie wniesione w sprawie już wyjaśnionej, niezawierające nowych okoliczności, są pozostawiane bez biegu i bez zawiadamiania o tym wnoszącego, o czym poucza się go przy odpowiedzi na pierwszą rozpoznaną skargę lub wniosek w tej sprawie. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
-#### Rozdział 6 Postępowanie w przedmiocie skargi nadzwyczajnej
+#### Rozdział 6
 

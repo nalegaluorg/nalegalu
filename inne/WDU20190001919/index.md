@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-27 |
 | Data wydania | 2019-10-09 |
-| Wejście w życie | 2019-12-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001919) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1919/text.pdf) |
 
@@ -33,28 +32,21 @@ W rozporządzeniu Ministra Sprawiedliwości z dnia 12 marca 2018 r. w sprawie pr
 1)
 w § 4:
 a)
-ust. 7 otrzymuje brzmienie:
-„
+ust. 7 otrzymuje brzmienie: „
 7.
-Do testu zespół konkursowy dołącza zestawienie prawidłowych odpowiedzi (klucz rozwiązań), zaś do zestawu zadań – opis kryteriów oceny pracy pisemnej oraz wykaz aktów prawnych lub wyciąg z aktów prawnych, które udostępnia się kandydatom w czasie drugiego etapu konkursu.
-” ,
+Do testu zespół konkursowy dołącza zestawienie prawidłowych odpowiedzi (klucz rozwiązań), zaś do zestawu zadań – opis kryteriów oceny pracy pisemnej oraz wykaz aktów prawnych lub wyciąg z aktów prawnych, które udostępnia się kandydatom w czasie drugiego etapu konkursu. ” ,
 b)
 uchyla się ust. 8,
 c)
-ust. 9 otrzymuje brzmienie:
-„
+ust. 9 otrzymuje brzmienie: „
 9.
-Test, zestawienie prawidłowych odpowiedzi (klucz rozwiązań), zestaw zadań podlegających rozwiązaniu podczas pracy pisemnej, opis kryteriów oceny pracy pisemnej oraz wykaz aktów prawnych lub wyciąg z aktów prawnych, które udostępnia się kandydatom w czasie drugiego etapu konkursu, są opracowywane i przechowywane w sposób uniemożliwiający uzyskanie do nich dostępu przez osoby nieuprawnione.
-” ;
+Test, zestawienie prawidłowych odpowiedzi (klucz rozwiązań), zestaw zadań podlegających rozwiązaniu podczas pracy pisemnej, opis kryteriów oceny pracy pisemnej oraz wykaz aktów prawnych lub wyciąg z aktów prawnych, które udostępnia się kandydatom w czasie drugiego etapu konkursu, są opracowywane i przechowywane w sposób uniemożliwiający uzyskanie do nich dostępu przez osoby nieuprawnione. ” ;
 2)
-w § 7 ust. 2 otrzymuje brzmienie:
-„
+w § 7 ust. 2 otrzymuje brzmienie: „
 2.
-Jeżeli zgłoszenie nie spełnia wymogów formalnych, przewodniczący komisji lub, z jego upoważnienia, zastępca przewodniczącego, lub sekretarz komisji wzywa kandydata do usunięcia braków w terminie 7 dni od dnia doręczenia wezwania, z pouczeniem, że nieusunięcie braków w terminie spowoduje pozostawienie zgłoszenia bez dalszego biegu.
-” ;
+Jeżeli zgłoszenie nie spełnia wymogów formalnych, przewodniczący komisji lub, z jego upoważnienia, zastępca przewodniczącego, lub sekretarz komisji wzywa kandydata do usunięcia braków w terminie 7 dni od dnia doręczenia wezwania, z pouczeniem, że nieusunięcie braków w terminie spowoduje pozostawienie zgłoszenia bez dalszego biegu. ” ;
 3)
-§ 12 otrzymuje brzmienie:
-„
+§ 12 otrzymuje brzmienie: „
 § 12.
 1.
 Test, arkusz do udzielenia odpowiedzi na pytania testowe (arkusz odpowiedzi) oraz zestaw zadań, a także akty prawne lub wyciąg z aktów prawnych, które udostępnia się kandydatom w czasie drugiego etapu konkursu, są drukowane w liczbie określonej przez przewodniczącego komisji, uwzględniającej przewidywaną liczbę osób dopuszczonych do poszczególnych etapów konkursu. Drukowanie i przechowywanie tych materiałów odbywa się w sposób uniemożliwiający uzyskanie do nich dostępu przez osoby nieuprawnione. Arkusze odpowiedzi opatrzone są kolejnymi numerami.
@@ -63,17 +55,14 @@ Prawidłowość wykonania wydruków testu, zestawu zadań, a także aktów prawn
 3.
 Prawidłowość wykonania wydruków arkusza odpowiedzi nadzoruje przewodniczący komisji lub upoważniony przez niego członek komisji.
 4.
-Przewodniczący zespołu przekazuje wydrukowane materiały, o których mowa w ust. 2, niezbędne do przeprowadzenia danego etapu konkursu odpowiednio wraz z zestawieniem prawidłowych odpowiedzi (kluczem rozwiązań) oraz opisem kryteriów oceny pracy pisemnej przewodniczącemu komisji nie później niż na 7 dni przed terminem przeprowadzenia każdego z etapów konkursu za pośrednictwem Dyrektora Krajowej Szkoły, w sposób uniemożliwiający ich ujawnienie. Przekazanie wymaga sporządzenia protokołu, w którym wskazuje się także sposób i miejsce przechowywania materiałów.
-” ;
+Przewodniczący zespołu przekazuje wydrukowane materiały, o których mowa w ust. 2, niezbędne do przeprowadzenia danego etapu konkursu odpowiednio wraz z zestawieniem prawidłowych odpowiedzi (kluczem rozwiązań) oraz opisem kryteriów oceny pracy pisemnej przewodniczącemu komisji nie później niż na 7 dni przed terminem przeprowadzenia każdego z etapów konkursu za pośrednictwem Dyrektora Krajowej Szkoły, w sposób uniemożliwiający ich ujawnienie. Przekazanie wymaga sporządzenia protokołu, w którym wskazuje się także sposób i miejsce przechowywania materiałów. ” ;
 4)
-§ 19 otrzymuje brzmienie:
-„
+§ 19 otrzymuje brzmienie: „
 § 19.
 1.
 Kandydat, który zakończył rozwiązywanie testu, przed opuszczeniem sali oddaje arkusz odpowiedzi członkowi komisji lub zespołu, o którym mowa w art. 20 ust. 5 ustawy, który potwierdza w protokole przebiegu tego etapu konkursu oddanie przez kandydata arkusza odpowiedzi i wydaje kandydatowi pokwitowanie odbioru arkusza odpowiedzi.
 2.
-Kandydat, który zakończył rozwiązywanie testu przed upływem 150 minut od jego rozpoczęcia, oprócz arkusza odpowiedzi oddaje również test.
-” .
+Kandydat, który zakończył rozwiązywanie testu przed upływem 150 minut od jego rozpoczęcia, oprócz arkusza odpowiedzi oddaje również test. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 4 grudnia 2019 r.
 

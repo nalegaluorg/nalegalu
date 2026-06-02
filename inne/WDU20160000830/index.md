@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 10 czerwca 2016 r. w sprawie trybu uznawania praktyki zawodowej w zakresie geologii
+# Rozporządzenie Ministra Środowiskaz dnia 10 czerwca 2016 r. w sprawie trybu uznawania praktyki zawodowej w zakresie geologii Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095).
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-10 |
 | Data wydania | 2016-06-10 |
-| Wejście w życie | 2016-06-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000830) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/830/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 8 ust. 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12 i Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18 i Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10 i Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 180 z 12.07.2012, str. 9 i Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 158 z 10.06.2013, str. 368 i Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115/1 oraz Dz. Urz. UE L 177 z 08.07.2015, str. 60). Na podstawie art. 8 ust. 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa tryb uznawania oraz maksymalny uznawany okres praktyki zawodowej w zawodzie geolog odbytej w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej, zwanych dalej „państwami członkowskimi”, albo w państwie niebędącym państwem członkowskim, dla poszczególnych kategorii kwalifikacji do wykonywania, dozorowania i kierowania pracami geologicznymi.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
-projekcie robót geologicznych – rozumie się przez to projekt robót geologicznych, o którym mowa w art. 79 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2015 r. poz. 196, z późn. zm.), zwanej dalej „ustawą”, albo dokument równoważny sporządzony w państwie członkowskim albo państwie niebędącym państwem członkowskim;
+projekcie robót geologicznych – rozumie się przez to projekt robót geologicznych, o którym mowa w art. 79 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2015 r. poz. 196, z późn. zm.Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1272 i 1505 oraz z 2016 r. poz. 266, 542, 544 i 566.), zwanej dalej „ustawą”, albo dokument równoważny sporządzony w państwie członkowskim albo państwie niebędącym państwem członkowskim;
 2)
 dokumentacji geologicznej – rozumie się przez to dokumentację geologiczną w rozumieniu art. 88 ustawy albo dokument równoważny sporządzony w państwie członkowskim albo państwie niebędącym państwem członkowskim.
 § 3.
@@ -55,6 +54,5 @@ Jeżeli wnioskodawca nie udzieli wyjaśnień, o których mowa w ust. 2, organ pr
 § 6.
 Maksymalny uznawany okres praktyki dla poszczególnych kategorii kwalifikacji do wykonywania, dozorowania i kierowania pracami geologicznymi odpowiada okresom praktyk określonym w przepisach wydanych na podstawie art. 69 ustawy, w zakresie geologii.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095). 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12 i Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18 i Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10 i Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 180 z 12.07.2012, str. 9 i Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 158 z 10.06.2013, str. 368 i Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115/1 oraz Dz. Urz. UE L 177 z 08.07.2015, str. 60). 3) Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1272 i 1505 oraz z 2016 r. poz. 266, 542, 544 i 566.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095). 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12 i Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18 i Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10 i Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 180 z 12.07.2012, str. 9 i Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 158 z 10.06.2013, str. 368 i Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115/1 oraz Dz. Urz. UE L 177 z 08.07.2015, str. 60). 3) Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1272 i 1505 oraz z 2016 r. poz. 266, 542, 544 i 566.
 

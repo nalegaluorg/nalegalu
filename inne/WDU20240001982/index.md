@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 27 lipca 2011 r. w sprawie norm zakwaterowania żołnierzy we wspólnych kwaterach stałych oraz trybu ich kwaterowania (Dz. U. poz. 989), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Obrony Narodowej z dnia 27 lipca 2023 r. zmieniającym rozporządzenie w sprawie norm zakwaterowania żołnierzy we wspólnych kwaterach stałych oraz trybu ich kwaterowania (Dz. U. poz. 1639).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 27 lipca 2023 r. zmieniającego rozporządzenie w sprawie norm zakwaterowania żołnierzy we wspólnych kwaterach stałych oraz trybu ich kwaterowania (Dz. U. poz. 1639), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 27 lipca 2023 r. zmieniającego rozporządzenie w sprawie norm zakwaterowania żołnierzy we wspólnych kwaterach stałych oraz trybu ich kwaterowania (Dz. U. poz. 1639), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 27 lipca 2011 r. w sprawie norm zakwaterowania żołnierzy we wspólnych kwaterach stałych oraz trybu ich kwaterowania
 Na podstawie art. 7 ust. 3 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2024 r. poz. 1270) zarządza się, co następuje:
 § 1.
@@ -47,8 +45,8 @@ normy zakwaterowania żołnierzy we wspólnych kwaterach stałych;
 tryb kwaterowania we wspólnych kwaterach stałych.
 2.
 Ilekroć w rozporządzeniu jest mowa o:
-1)
-dowódcy – należy przez to rozumieć dowódcę jednostki wojskowej w rozumieniu ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm.);
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 27 lipca 2023 r. zmieniającego rozporządzenie w sprawie norm zakwaterowania żołnierzy we wspólnych kwaterach stałych oraz trybu ich kwaterowania (Dz. U. poz. 1639), które weszło w życie z dniem 2 września 2023 r.)
+dowódcy – należy przez to rozumieć dowódcę jednostki wojskowej w rozumieniu ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1248, 1585, 1871 i 1907.);
 2)
 ustawie – należy przez to rozumieć ustawę z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej.
 § 2.
@@ -92,12 +90,12 @@ Przy wyznaczaniu powierzchni we wspólnych kwaterach stałych należy przewidzie
 § 5.
 Dowódca stwierdza skierowanie żołnierza do zakwaterowania we wspólnej kwaterze stałej w rozkazie dziennym.
 § 6.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Dowódca kieruje żołnierza zawodowego do zakwaterowania we wspólnej kwaterze stałej w trybie art. 7 ust. 2 ustawy. O wydanym skierowaniu zawiadamia właściwego terytorialnie dyrektora oddziału regionalnego Agencji Mienia Wojskowego.
 2.
 Jeżeli dowódca nie ma możliwości zakwaterowania żołnierza zawodowego, za jego zgodą przekazuje wniosek dowódcy innej jednostki organizacyjnej, stacjonującej w tej miejscowości albo w miejscowości pobliskiej, o ile posiada on zasób wolnych miejsc.
 3.
 W uzasadnionych przypadkach dowódca może cofnąć zgodę na zakwaterowanie żołnierza zawodowego we wspólnej kwaterze stałej.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 11 sierpnia 2011 r.. 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 27 lipca 2023 r. zmieniającego rozporządzenie w sprawie norm zakwaterowania żołnierzy we wspólnych kwaterach stałych oraz trybu ich kwaterowania (Dz. U. poz. 1639), które weszło w życie z dniem 2 września 2023 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1248, 1585, 1871 i 1907. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 4) Rozporządzenie zostało ogłoszone w dniu 11 sierpnia 2011 r.
 

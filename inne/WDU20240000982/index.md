@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-28 |
 | Data wydania | 2024-07-03 |
-| Wejście w życie | 2024-07-04 |
 | Ostatnia zmiana | 2025-07-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000982) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/982/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 49 ust. 7 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2023 r. poz. 2098) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie świadczeń socjalno-bytowych, które mogą być przyznane funkcjonariuszowi Służby Wywiadu Wojskowego i członkom jego rodziny (Dz. U. poz. 1258) w § 1 ust. 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie świadczeń socjalno-bytowych, które mogą być przyznane funkcjonariuszowi Służby Wywiadu Wojskowego i członkom jego rodziny (Dz. U. poz. 1258) w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Dopłatę dla każdej osoby, o której mowa w ust. 1, ustala się w wysokości 40 % uposażenia zasadniczego funkcjonariusza według najniższej stawki uposażenia zasadniczego przewidzianej w 15. grupie zaszeregowania obowiązującej w dniu 1 stycznia roku kalendarzowego, w którym funkcjonariusz nabył prawo do urlopu wypoczynkowego.
-” .
+Dopłatę dla każdej osoby, o której mowa w ust. 1, ustala się w wysokości 40 % uposażenia zasadniczego funkcjonariusza według najniższej stawki uposażenia zasadniczego przewidzianej w 15. grupie zaszeregowania obowiązującej w dniu 1 stycznia roku kalendarzowego, w którym funkcjonariusz nabył prawo do urlopu wypoczynkowego. ” .
 § 2.
 Do wniosków złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.

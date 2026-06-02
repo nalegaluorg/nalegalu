@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-04 |
 | Data wydania | 2017-09-12 |
-| Wejście w życie | 2017-09-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001731) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1731/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 228 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60 i 962) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Prezesa Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie powołania Międzyresortowej Komisji do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy (Dz. U. z 2015 r. poz. 1772) § 1 otrzymuje brzmienie:
-„
+W rozporządzeniu Prezesa Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie powołania Międzyresortowej Komisji do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy (Dz. U. z 2015 r. poz. 1772) § 1 otrzymuje brzmienie: „
 § 1.
 Powołuje się Międzyresortową Komisję do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy, zwaną dalej „Komisją”, w składzie:
 1)
@@ -104,8 +102,7 @@ Elżbieta Sosnowska, Polski Komitet Normalizacyjny,
 zc)
 Łukasz Wojciech Stańczak, Polska Izba Przemysłu Chemicznego,
 zd)
-Jerzy Wroński, Konfederacja Lewiatan.
-” .
+Jerzy Wroński, Konfederacja Lewiatan. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

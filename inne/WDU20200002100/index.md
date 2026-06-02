@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 24 listopada 2020 r. w sprawie wymogów stosowanych wobec członków zarządu i rady nadzorczej spółki prowadzącej rynek regulowany oraz trybu i warunków postępowania w zakresie utrzymywania i doskonalenia ich wiedzy i kompetencji
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 24 listopada 2020 r. w sprawie wymogów stosowanych wobec członków zarządu i rady nadzorczej spółki prowadzącej rynek regulowany oraz trybu i warunków postępowania w zakresie utrzymywania i doskonalenia ich wiedzy i kompetencji Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-24 |
 | Data wydania | 2020-11-27 |
-| Wejście w życie | 2020-11-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002100) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2100/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowe kryteria w zakresie spełniania przez członków zarządu i rady nadzorczej spółki wymogów w związku z pełnieniem swoich funkcji Rozdział 3 – Tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez członków zarządu i rady nadzorczej spółki wymogów w związku z pełnieniem swoich funkcji Rozdział 4 – Zakres dokumentów gromadzonych przez spółkę potwierdzających spełnianie przez członków zarządu i rady nadzorczej spółki wymogów w związku z pełnieniem swoich funkcji Rozdział 5 – Tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji członków zarządu i rady nadzorczej spółki Rozdział 6 – Przepis przejściowy i końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 17 ust. 1 pkt 3 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2020 r. poz. 89, 284, 288 i 568) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -43,6 +43,7 @@ tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania
 zakres dokumentów gromadzonych przez spółkę potwierdzających spełnianie przez członków zarządu i rady nadzorczej tej spółki takich wymogów;
 4)
 tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji członków zarządu i rady nadzorczej spółki.
+Szczegółowe kryteria w zakresie spełniania przez członków zarządu i rady nadzorczej spółki wymogów w związku z pełnieniem swoich funkcji
 § 2.
 Wymóg posiadania nieposzlakowanej opinii przez członka zarządu spółki jest spełniony w przypadku, gdy w związku ze sprawowanymi funkcjami nie dopuścił się on zachowań rażąco sprzecznych z normami moralnymi, etycznymi i prawnymi, które mogłyby wpływać na zaufanie do niego jako członka zarządu spółki.
 § 3.
@@ -61,10 +62,10 @@ Wymóg poświęcenia wystarczającej ilości czasu w związku z pełnieniem swoi
 1)
 rodzaj funkcji sprawowanych przez członka zarządu albo rady nadzorczej spółki w innych podmiotach, niezależnie od tego, czy prowadzą działalność na rynku finansowym czy inną działalność,
 2)
-wielkość innego podmiotu, w którym członek zarządu albo rady nadzorczej spółki sprawuje funkcję, poziom skomplikowania jego działalności lub położenie geograficzne
-pozwala członkowi zarządu albo rady nadzorczej spółki na realizację zadań oraz rozumienie ryzyka związanego z działalnością spółki i strategii zarządzania tym ryzykiem.
+wielkość innego podmiotu, w którym członek zarządu albo rady nadzorczej spółki sprawuje funkcję, poziom skomplikowania jego działalności lub położenie geograficzne – pozwala członkowi zarządu albo rady nadzorczej spółki na realizację zadań oraz rozumienie ryzyka związanego z działalnością spółki i strategii zarządzania tym ryzykiem.
 § 8.
 Wymóg w zakresie liczby funkcji, jakie mogą być pełnione jednocześnie przez członka zarządu albo rady nadzorczej spółki, jest spełniony w przypadku, gdy liczba pełnionych funkcji pozwala mu na realizację powierzonych zadań oraz rozumienie ryzyka związanego z działalnością spółki i strategii zarządzania tym ryzykiem.
+Tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez członków zarządu i rady nadzorczej spółki wymogów w związku z pełnieniem swoich funkcji
 § 9.
 1.
 Organ uprawiony do powoływania i odwoływania członków zarządu lub rady nadzorczej spółki dokonuje oceny spełniania wymogów:
@@ -77,8 +78,7 @@ Spółka weryfikuje spełnianie wymogów:
 1)
 o których mowa w § 2–8, przez poszczególne osoby wchodzące w skład zarządu spółki,
 2)
-o których mowa w § 6–8, przez poszczególne osoby wchodzące w skład rady nadzorczej spółki
-co najmniej raz w roku oraz w przypadku zmiany wymagań względem spółki skutkującej zmianą wymogów dla członka zarządu albo rady nadzorczej spółki, a także w przypadku wystąpienia uzasadnionych obaw, że członek zarządu albo rady nadzorczej spółki nie spełnia wymogów, o których mowa w tych przepisach.
+o których mowa w § 6–8, przez poszczególne osoby wchodzące w skład rady nadzorczej spółki – co najmniej raz w roku oraz w przypadku zmiany wymagań względem spółki skutkującej zmianą wymogów dla członka zarządu albo rady nadzorczej spółki, a także w przypadku wystąpienia uzasadnionych obaw, że członek zarządu albo rady nadzorczej spółki nie spełnia wymogów, o których mowa w tych przepisach.
 3.
 W przypadku członków zarządu spółki ocena oraz weryfikacja spełniania wymogów są dokonywane na podstawie dokumentów oraz oświadczeń przedłożonych przez osoby objęte oceną albo weryfikacją.
 4.
@@ -143,7 +143,7 @@ posiada certyfikat Certified International Investment Analyst (CIIA);
 7)
 posiada certyfikat Association of Chartered Certified Accountants (ACCA);
 8)
-posiada potwierdzenie złożenia egzaminu przed komisją powołaną przez Ministra Przekształceń Własnościowych, Ministra Przemysłu i Handlu, Ministra Skarbu Państwa lub Komisją Selekcyjną powołaną na podstawie art. 15 ust. 2 ustawy z dnia 30 kwietnia 1993 r. o narodowych funduszach inwestycyjnych i ich prywatyzacji (Dz. U. poz. 202, z późn. zm.);
+posiada potwierdzenie złożenia egzaminu przed komisją powołaną przez Ministra Przekształceń Własnościowych, Ministra Przemysłu i Handlu, Ministra Skarbu Państwa lub Komisją Selekcyjną powołaną na podstawie art. 15 ust. 2 ustawy z dnia 30 kwietnia 1993 r. o narodowych funduszach inwestycyjnych i ich prywatyzacji (Dz. U. poz. 202, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1994 r. poz. 385, z 1997 r. poz. 164 i 298, z 2000 r. poz. 1319, z 2001 r. poz. 637, z 2002 r. poz. 2055, z 2004 r. poz. 2775 oraz z 2007 r. poz. 331.);
 9)
 posiada potwierdzenie złożenia egzaminu przed komisją, o której mowa w art. 12 ust. 2 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2019 r. poz. 2181 oraz z 2020 r. poz. 284, 875 i 1709), powołaną przez ministra właściwego do spraw Skarbu Państwa;
 10)
@@ -216,6 +216,7 @@ ilość czasu poświęcaną innym funkcjom sprawowanym przez członka zarządu a
 liczbę funkcji sprawowanych przez członka zarządu albo rady nadzorczej spółki w innych podmiotach, których głównym celem nie jest cel komercyjny;
 4)
 charakter funkcji sprawowanych przez członka zarządu albo rady nadzorczej spółki w innych podmiotach, w tym zakres wykonywanych zadań.
+Zakres dokumentów gromadzonych przez spółkę potwierdzających spełnianie przez członków zarządu i rady nadzorczej spółki wymogów w związku z pełnieniem swoich funkcji
 § 16.
 W celu dokonania oceny spełniania wymogów określonych w § 2–8 spółka gromadzi następujące dokumenty dotyczące członka zarządu albo rady nadzorczej spółki:
 1)
@@ -242,6 +243,7 @@ b)
 liczbie funkcji sprawowanych przez członka zarządu albo rady nadzorczej w innych podmiotach, których głównym celem nie jest cel komercyjny,
 c)
 charakterze funkcji sprawowanych przez członka zarządu albo rady nadzorczej w innych podmiotach, w tym o zakresie wykonywanych zadań.
+Tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji członków zarządu i rady nadzorczej spółki
 § 17.
 1.
 Spółka zapewnia członkom zarządu i rady nadzorczej szkolenia ogólne oraz szkolenia specjalistyczne odpowiednie do zakresu sprawowanych obowiązków, które pozwolą na aktualizację i ugruntowanie ich wiedzy w zakresie działalności spółki, jej struktury organizacyjnej, modelu biznesowego, profilu ryzyka towarzyszącego jej działalności, otoczenia regulacyjnego i mechanizmów zarządczych oraz nadzorczych, a także roli odpowiednio członków zarządu i rady nadzorczej w działalności spółki.
@@ -262,21 +264,33 @@ sposób identyfikacji potrzeb szkoleniowych członków zarządu i rady nadzorcze
 sposób weryfikacji skuteczności organizowanych szkoleń.
 2.
 Polityka, o której mowa w ust. 1, podlega zatwierdzeniu przez radę nadzorczą spółki po wcześniejszym zaopiniowaniu przez komitet do spraw nominacji, w przypadku gdy został powołany w spółce.
+Przepis przejściowy i końcowy
 § 19.
 Spółka prowadząca w dniu wejścia w życie rozporządzenia rynek regulowany jest obowiązana do dostosowania prowadzonej działalności do przepisów rozporządzenia w terminie do dnia 31 maja 2021 r.
 § 20.
-Rozporządzenie wchodzi w życie z dniem 30 listopada 2020 r.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1994 r. poz. 385, z 1997 r. poz. 164 i 298, z 2000 r. poz. 1319, z 2001 r. poz. 637, z 2002 r. poz. 2055, z 2004 r. poz. 2775 oraz z 2007 r. poz. 331. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 25 kwietnia 2019 r. w sprawie szczegółowych kryteriów dla członków zarządu i rady nadzorczej spółki prowadzącej rynek regulowany (Dz. U. poz. 874), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 45 pkt 6 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217 oraz z 2020 r. poz. 288 i 695).
+Rozporządzenie wchodzi w życie z dniem 30 listopada 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 25 kwietnia 2019 r. w sprawie szczegółowych kryteriów dla członków zarządu i rady nadzorczej spółki prowadzącej rynek regulowany (Dz. U. poz. 874), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 45 pkt 6 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217 oraz z 2020 r. poz. 288 i 695). 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1994 r. poz. 385, z 1997 r. poz. 164 i 298, z 2000 r. poz. 1319, z 2001 r. poz. 637, z 2002 r. poz. 2055, z 2004 r. poz. 2775 oraz z 2007 r. poz. 331. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 25 kwietnia 2019 r. w sprawie szczegółowych kryteriów dla członków zarządu i rady nadzorczej spółki prowadzącej rynek regulowany (Dz. U. poz. 874), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 45 pkt 6 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217 oraz z 2020 r. poz. 288 i 695).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowe kryteria w zakresie spełniania przez członków zarządu i rady nadzorczej spółki wymogów w związku z pełnieniem swoich funkcji
+#### Rozdział 2 – Szczegółowe kryteria w zakresie spełniania przez członków zarządu i rady nadzorczej spółki wymogów w związku z pełnieniem swoich funkcji
 
-#### Rozdział 3 Tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez członków zarządu i rady nadzorczej spółki wymogów w związku z pełnieniem swoich funkcji
+#### Rozdział 3 – Tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez członków zarządu i rady nadzorczej spółki wymogów w związku z pełnieniem swoich funkcji
 
-#### Rozdział 4 Zakres dokumentów gromadzonych przez spółkę potwierdzających spełnianie przez członków zarządu i rady nadzorczej spółki wymogów w związku z pełnieniem swoich funkcji
+#### Rozdział 4 – Zakres dokumentów gromadzonych przez spółkę potwierdzających spełnianie przez członków zarządu i rady nadzorczej spółki wymogów w związku z pełnieniem swoich funkcji
 
-#### Rozdział 5 Tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji członków zarządu i rady nadzorczej spółki
+#### Rozdział 5 – Tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji członków zarządu i rady nadzorczej spółki
 
-#### Rozdział 6 Przepis przejściowy i końcowy
+#### Rozdział 6 – Przepis przejściowy i końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

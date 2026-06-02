@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 23 listopada 2021 r. w sprawie nadania statutu Polskiej Agencji Kosmicznej
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 23 listopada 2021 r. w sprawie nadania statutu Polskiej Agencji Kosmicznej Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 1945).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-23 |
 | Data wydania | 2021-12-06 |
-| Wejście w życie | 2021-12-21 |
 | Ostatnia zmiana | 2025-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002248) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2248/text.pdf) |
 
 Treść rozporządzenia
-Załącznik – Statut Polskiej Agencji Kosmicznej Rozdział 1 – Postanowienia ogólne Rozdział 2 – Struktura wewnętrzna Agencji Rozdział 3 – System kontroli wewnętrznej
+Załącznik – Statut Polskiej Agencji Kosmicznej
 Treść rozporządzenia
 Na podstawie art. 6 ust. 2 ustawy z dnia 26 września 2014 r. o Polskiej Agencji Kosmicznej (Dz. U. z 2020 r. poz. 1957) zarządza się, co następuje:
 § 1.
@@ -35,13 +34,14 @@ Polskiej Agencji Kosmicznej nadaje się statut, stanowiący załącznik do rozpo
 § 2.
 Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 17 czerwca 2015 r. w sprawie nadania statutu Polskiej Agencji Kosmicznej (Dz. U. poz. 861).
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 1945).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 1945).
 Załącznik – Statut Polskiej Agencji Kosmicznej
+Postanowienia ogólne
 § 1.
 Polska Agencja Kosmiczna, zwana dalej „Agencją”, działa na podstawie ustawy z dnia 26 września 2014 r. o Polskiej Agencji Kosmicznej (Dz. U. z 2020 r. poz. 1957) oraz niniejszego statutu.
 § 2.
 Agencja może, obok nazwy w języku polskim, posługiwać się jej tłumaczeniem na język angielski w brzmieniu „Polish Space Agency” oraz skrótem „POLSA”.
+Struktura wewnętrzna Agencji
 § 3.
 Zadania Prezesa Agencji, zwanego dalej „Prezesem”, podczas jego nieobecności lub czasowej niemożności wykonywania przez niego obowiązków wykonuje wiceprezes. W przypadku gdy w Agencji powołano dwóch wiceprezesów, Prezes wyznacza zastępującego go wiceprezesa.
 § 4.
@@ -100,6 +100,7 @@ strukturę organizacyjną komórek organizacyjnych i oddziałów terenowych;
 wykaz stanowisk pracy.
 2.
 O nadaniu regulaminu organizacyjnego Agencji oraz jego zmianach Prezes niezwłocznie zawiadamia ministra właściwego do spraw gospodarki.
+System kontroli wewnętrznej
 § 8.
 Prezes jest odpowiedzialny za zorganizowanie i prawidłowe działanie kontroli wewnętrznej, a także za należyte wykorzystanie wyników tej kontroli.
 § 9.
@@ -125,9 +126,15 @@ Wyniki kontroli wewnętrznej stanowią dla Prezesa podstawę do usunięcia uchyb
 § 14.
 Sposób i tryb przeprowadzania kontroli wewnętrznej określa Prezes w regulaminie kontroli wewnętrznej.
 
-#### Rozdział 1 Postanowienia ogólne
+#### Rozdział 1 – Postanowienia ogólne
 
-#### Rozdział 2 Struktura wewnętrzna Agencji
+#### Rozdział 2 – Struktura wewnętrzna Agencji
 
-#### Rozdział 3 System kontroli wewnętrznej
+#### Rozdział 3 – System kontroli wewnętrznej
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 20 grudnia 2017 r. zmieniające rozporządzenie w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 20 grudnia 2017 r. zmieniające rozporządzenie w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-20 |
 | Data wydania | 2017-12-28 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002446) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2446/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 32 ust. 11 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59, 949 i 2203) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Edukacji Narodowej z dnia 28 sierpnia 2017 r. w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania (Dz. U. poz. 1657) w § 4 w ust. 2 pkt 9 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Edukacji Narodowej z dnia 28 sierpnia 2017 r. w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania (Dz. U. poz. 1657) w § 4 w ust. 2 pkt 9 otrzymuje brzmienie: „
 9)
-w strefie pożarowej, w której znajduje się lokal, nie występują inne lokale, w których są prowadzone przedszkola, inne punkty lub zespoły lub oddziały przedszkolne w szkołach podstawowych;
-” .
+w strefie pożarowej, w której znajduje się lokal, nie występują inne lokale, w których są prowadzone przedszkola, inne punkty lub zespoły lub oddziały przedszkolne w szkołach podstawowych; ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 

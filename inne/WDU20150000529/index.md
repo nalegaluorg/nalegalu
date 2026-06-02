@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 marca 2015 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz niektórych innych ustaw
+# Ustawa z dnia 5 marca 2015 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 29 sierpnia 2002 r. o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej oraz ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-03-05 |
 | Data wydania | 2015-04-15 |
-| Wejście w życie | 2015-04-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000529) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/529/text.pdf) |
 
@@ -80,5 +79,5 @@ source: "eli-html"
 
 **Art. 35.** Funkcjonariusze pozostający w stosunku służbowym w dniu ogłoszenia mobilizacji lub w dniu, w którym rozpoczyna się czas wojny, określonym przez Prezydenta Rzeczypospolitej Polskiej na podstawie art. 4a ust. 1 pkt 4a ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 144 i 529), stają się z mocy prawa funkcjonariuszami pełniącymi służbę w czasie wojny i pozostają w tej służbie do czasu zwolnienia. ” .
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 29 sierpnia 2002 r. o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej oraz ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej.
 

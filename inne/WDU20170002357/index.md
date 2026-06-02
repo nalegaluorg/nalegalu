@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 7 grudnia 2017 r. w sprawie umowy określającej zasady współpracy między firmami audytorskimi funduszu podstawowego i funduszu powiązanego
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 7 grudnia 2017 r. w sprawie umowy określającej zasady współpracy między firmami audytorskimi funduszu podstawowego i funduszu powiązanego Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-07 |
 | Data wydania | 2017-12-18 |
-| Wejście w życie | 2017-12-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002357) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2357/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 169f ust. 7 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2016 r. poz. 1896, z późn. zm.) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Komisji 2010/44/UE z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie niektórych przepisów dotyczących łączenia funduszy, modeli funduszy podstawowych i powiązanych oraz procedury powiadamiania (Dz. Urz. UE L 176 z 10.07.2010, str. 28 oraz Dz. Urz. UE L 179 z 14.07.2010, str. 16). Na podstawie art. 169f ust. 7 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2016 r. poz. 1896, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 724, 768, 791 i 1089.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa niezbędny zakres treści umowy określającej zasady współpracy między firmami audytorskimi, w przypadku gdy fundusz powiązany i fundusz podstawowy mają różne firmy audytorskie.
 § 2.
@@ -53,6 +52,5 @@ określenie sposobu i terminów sporządzania sprawozdania z badania lub przegl�
 § 4.
 Umowy zawarte na podstawie przepisów dotychczasowych zostaną dostosowane do przepisów niniejszego rozporządzenia w terminie miesiąca od dnia jego wejścia w życie.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 22 grudnia 2017 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Komisji 2010/44/UE z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie niektórych przepisów dotyczących łączenia funduszy, modeli funduszy podstawowych i powiązanych oraz procedury powiadamiania (Dz. Urz. UE L 176 z 10.07.2010, str. 28 oraz Dz. Urz. UE L 179 z 14.07.2010, str. 16). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 724, 768, 791 i 1089. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 28 marca 2013 r. w sprawie umowy określającej zasady współpracy między podmiotami uprawnionymi do badania sprawozdań finansowych funduszu podstawowego i funduszu powiązanego (Dz. U. poz. 450), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 295 pkt 2 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. poz. 1089).
+Rozporządzenie wchodzi w życie z dniem 22 grudnia 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 28 marca 2013 r. w sprawie umowy określającej zasady współpracy między podmiotami uprawnionymi do badania sprawozdań finansowych funduszu podstawowego i funduszu powiązanego (Dz. U. poz. 450), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 295 pkt 2 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. poz. 1089). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Komisji 2010/44/UE z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie niektórych przepisów dotyczących łączenia funduszy, modeli funduszy podstawowych i powiązanych oraz procedury powiadamiania (Dz. Urz. UE L 176 z 10.07.2010, str. 28 oraz Dz. Urz. UE L 179 z 14.07.2010, str. 16). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 724, 768, 791 i 1089. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 28 marca 2013 r. w sprawie umowy określającej zasady współpracy między podmiotami uprawnionymi do badania sprawozdań finansowych funduszu podstawowego i funduszu powiązanego (Dz. U. poz. 450), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 295 pkt 2 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. poz. 1089).
 

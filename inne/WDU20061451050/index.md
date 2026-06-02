@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-07-21 |
 | Data wydania | 2006-08-14 |
-| Wejście w życie | 2006-08-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061451050) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1050/text.pdf) |
 
@@ -30,7 +29,7 @@ source: "eli-html"
 
 **Art. 42b.** Do dnia 1 maja 2008 r. przepisów art. 15 ust. 3a i ust. 5, art. 20a, art. 20b, art. 28a, art. 28b i art. 42a nie stosuje się. ” .
 
-**Art. 2.** W ustawie z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, poz. 1450, z późn. zm.) w art. 58 ust. 2 otrzymuje brzmienie: „ 2. W terminie do dnia 1 maja 2008 r. organy władzy publicznej umożliwią odbiorcom usług certyfikacyjnych wnoszenie podań i wniosków oraz innych czynności w postaci elektronicznej w przypadkach, gdy przepisy prawa wymagają składania ich w określonej formie lub według określonego wzoru. ” .
+**Art. 2.** W ustawie z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, poz. 1450, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125, z 2004 r. Nr 96, poz. 959 oraz z 2005 r. Nr 64, poz. 565.) w art. 58 ust. 2 otrzymuje brzmienie: „ 2. W terminie do dnia 1 maja 2008 r. organy władzy publicznej umożliwią odbiorcom usług certyfikacyjnych wnoszenie podań i wniosków oraz innych czynności w postaci elektronicznej w przypadkach, gdy przepisy prawa wymagają składania ich w określonej formie lub według określonego wzoru. ” .
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 15 sierpnia 2006 r., z wyjątkiem art. 1, który wchodzi w życie z dniem ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem 15 sierpnia 2006 r., z wyjątkiem art. 1, który wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125, z 2004 r. Nr 96, poz. 959 oraz z 2005 r. Nr 64, poz. 565.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 24 grudnia 2019 r. w sprawie sposobu prowadzenia przez Komisję Nadzoru Finansowego ewidencji akcji
+# Rozporządzenie Ministra Finansówz dnia 24 grudnia 2019 r. w sprawie sposobu prowadzenia przez Komisję Nadzoru Finansowego ewidencji akcji Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-24 |
 | Data wydania | 2019-12-31 |
-| Wejście w życie | 2020-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002548) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2548/text.pdf) |
 
@@ -70,7 +69,7 @@ liczbę głosów wykonywanych z jednej akcji;
 4)
 jednostkową wartość nominalną akcji i walutę, w której wartość ta została wyrażona;
 5)
-datę zatwierdzenia prospektu albo podstawę prawną braku obowiązku udostępnienia prospektu do publicznej wiadomości, wynikającą z rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12, z późn. zm.), zwanego dalej „rozporządzeniem 2017/1129”, albo wskazanie przepisu art. 37b ust. 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, zwanej dalej „ustawą”;
+datę zatwierdzenia prospektu albo podstawę prawną braku obowiązku udostępnienia prospektu do publicznej wiadomości, wynikającą z rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 320 z 11.12.2019, str. 1., zwanego dalej „rozporządzeniem 2017/1129”, albo wskazanie przepisu art. 37b ust. 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, zwanej dalej „ustawą”;
 6)
 wskazanie, czy przedmiotem oferty były akcje nowej emisji, czy akcje istniejące;
 7)
@@ -127,11 +126,9 @@ W przypadku akcji:
 1)
 dopuszczonych do obrotu na rynku regulowanym z zastrzeżeniem warunku lub
 2)
-wprowadzonych do alternatywnego systemu obrotu z zastrzeżeniem warunku
-wpisu do ewidencji akcji dokonuje się w terminie 14 dni od dnia ziszczenia się warunku.
+wprowadzonych do alternatywnego systemu obrotu z zastrzeżeniem warunku – wpisu do ewidencji akcji dokonuje się w terminie 14 dni od dnia ziszczenia się warunku.
 § 6.
 W ewidencji akcji prowadzonej za pomocą systemu teleinformatycznego, o którym mowa w § 2, nie dokonuje się wpisów akcji wpisanych do ewidencji instrumentów finansowych prowadzonej na podstawie przepisów dotychczasowych.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 320 z 11.12.2019, str. 1. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 25 lipca 2013 r. w sprawie sposobu prowadzenia przez Komisję Nadzoru Finansowego ewidencji instrumentów finansowych (Dz. U. poz. 987), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 45 pkt 1 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 25 lipca 2013 r. w sprawie sposobu prowadzenia przez Komisję Nadzoru Finansowego ewidencji instrumentów finansowych (Dz. U. poz. 987), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 45 pkt 1 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 320 z 11.12.2019, str. 1. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 25 lipca 2013 r. w sprawie sposobu prowadzenia przez Komisję Nadzoru Finansowego ewidencji instrumentów finansowych (Dz. U. poz. 987), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 45 pkt 1 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217).
 

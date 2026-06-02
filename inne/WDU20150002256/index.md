@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-23 |
 | Data wydania | 2015-12-29 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002256) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2256/text.pdf) |
 
@@ -134,5 +133,5 @@ W przypadku braku możliwości przekazania danego rodzaju informacji za pomocą 
 3.
 Informacje przekazywane za pomocą teleinformatycznego systemu nadzoru rynku wyrobów budowlanych oraz innych środków komunikacji elektronicznej, zabezpiecza się przed dostępem osób nieuprawnionych.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 23 grudnia 2010 r. w sprawie szczegółowego zakresu informacji o przeprowadzanych kontrolach wyrobów budowlanych i wydawanych postanowieniach, decyzjach i opiniach, a także o sposobie i terminie przekazywania tych informacji (Dz. U. Nr 254, poz. 1706), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 8 ust. 1 ustawy z dnia 25 czerwca 2015 r. o zmianie ustawy o wyrobach budowlanych, ustawy – Prawo budowlane oraz ustawy o zmianie ustawy o wyrobach budowlanych oraz ustawy o systemie oceny zgodności (Dz. U. poz. 1165). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 23 grudnia 2010 r. w sprawie szczegółowego zakresu informacji o przeprowadzanych kontrolach wyrobów budowlanych i wydawanych postanowieniach, decyzjach i opiniach, a także o sposobie i terminie przekazywania tych informacji (Dz. U. Nr 254, poz. 1706), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 8 ust. 1 ustawy z dnia 25 czerwca 2015 r. o zmianie ustawy o wyrobach budowlanych, ustawy – Prawo budowlane oraz ustawy o zmianie ustawy o wyrobach budowlanych oraz ustawy o systemie oceny zgodności (Dz. U. poz. 1165).
 

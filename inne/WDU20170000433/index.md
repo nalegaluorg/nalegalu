@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 24 lutego 2017 r. zmieniające rozporządzenie w sprawie wprowadzania na obszar celny Unii Europejskiej i wyprowadzania poza ten obszar oraz obejmowania procedurą celną i powrotnym wywozem sprzętu jednostek wojskowych i jednostek resortu spraw wewnętrznych
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 24 lutego 2017 r. zmieniające rozporządzenie w sprawie wprowadzania na obszar celny Unii Europejskiej i wyprowadzania poza ten obszar oraz obejmowania procedurą celną i powrotnym wywozem sprzętu jednostek wojskowych i jednostek resortu spraw wewnętrznych Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-24 |
 | Data wydania | 2017-03-01 |
-| Wejście w życie | 2017-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000433) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/433/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 19 ust. 3 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. 
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 20 października 2016 r. w sprawie wprowadzania na obszar celny Unii Europejskiej i wyprowadzania poza ten obszar oraz obejmowania procedurą celną i powrotnym wywozem sprzętu jednostek wojskowych i jednostek resortu spraw wewnętrznych (Dz. U. poz. 1774) w § 3 w ust. 2 wyrazy „w urzędzie celnym” zastępuje się wyrazami „w urzędzie celno-skarbowym”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-28 |
 | Data wydania | 2018-07-09 |
-| Wejście w życie | 2018-07-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001322) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1322/text.pdf) |
 
@@ -33,35 +32,27 @@ W rozporządzeniu Ministra Obrony Narodowej z dnia 24 marca 2016 r. w sprawie pr
 1)
 w § 3:
 a)
-w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
-„
+w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 3)
-pkt 1–4, 6, 8 i 9 stosuje się odpowiednio do Dowódcy Wojsk Obrony Terytorialnej.
-” ,
+pkt 1–4, 6, 8 i 9 stosuje się odpowiednio do Dowódcy Wojsk Obrony Terytorialnej. ” ,
 b)
-dodaje się ust. 7 w brzmieniu:
-„
+dodaje się ust. 7 w brzmieniu: „
 7.
 Do Dowódcy Wojsk Obrony Terytorialnej oprócz zadań wymienionych w ust. 2 pkt 3 należy:
 1)
 w terminie do dnia 15 kwietnia za rok poprzedni opracowanie i przedstawienie Szefowi Inspektoratu Wsparcia Sił Zbrojnych informacji o stanie środowiska i działalności proekologicznej;
 2)
-uwzględnianie problematyki ochrony środowiska w trakcie realizacji zadań obejmujących fazę analityczno-koncepcyjną i realizacyjną procesu pozyskiwania sprzętu wojskowego na potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej.
-” ;
+uwzględnianie problematyki ochrony środowiska w trakcie realizacji zadań obejmujących fazę analityczno-koncepcyjną i realizacyjną procesu pozyskiwania sprzętu wojskowego na potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej. ” ;
 2)
 w § 7:
 a)
-pkt 5 otrzymuje brzmienie:
-„
+pkt 5 otrzymuje brzmienie: „
 5)
-współdziała z dyrektorem komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw infrastruktury, Dowódcą Operacyjnym Rodzajów Sił Zbrojnych, Dowódcą Garnizonu Warszawa, Komendantem Głównym Żandarmerii Wojskowej i Dowódcą Wojsk Obrony Terytorialnej w zakresie prowadzenia specjalistycznych szkoleń dotyczących ochrony środowiska;
-” ,
+współdziała z dyrektorem komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw infrastruktury, Dowódcą Operacyjnym Rodzajów Sił Zbrojnych, Dowódcą Garnizonu Warszawa, Komendantem Głównym Żandarmerii Wojskowej i Dowódcą Wojsk Obrony Terytorialnej w zakresie prowadzenia specjalistycznych szkoleń dotyczących ochrony środowiska; ” ,
 b)
-pkt 13 otrzymuje brzmienie:
-„
+pkt 13 otrzymuje brzmienie: „
 13)
-uczestniczy z Dowódcą Operacyjnym Rodzajów Sił Zbrojnych, Dowódcą Garnizonu Warszawa, Komendantem Głównym Żandarmerii Wojskowej i Dowódcą Wojsk Obrony Terytorialnej w procesie wdrażania przepisów dokumentów standaryzacyjnych Organizacji Traktatu Północnoatlantyckiego w zakresie ochrony środowiska.
-” .
+uczestniczy z Dowódcą Operacyjnym Rodzajów Sił Zbrojnych, Dowódcą Garnizonu Warszawa, Komendantem Głównym Żandarmerii Wojskowej i Dowódcą Wojsk Obrony Terytorialnej w procesie wdrażania przepisów dokumentów standaryzacyjnych Organizacji Traktatu Północnoatlantyckiego w zakresie ochrony środowiska. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

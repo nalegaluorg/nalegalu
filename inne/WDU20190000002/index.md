@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 31 grudnia 2018 r. w sprawie urzędowego sprawdzenia
+# Rozporządzenie Ministra Finansówz dnia 31 grudnia 2018 r. w sprawie urzędowego sprawdzenia Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-31 |
 | Data wydania | 2019-01-02 |
-| Wejście w życie | 2019-01-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000002) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 111 ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 111 ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654, 2193, 2245 i 2354.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -46,7 +45,7 @@ szczegółowy sposób sporządzenia akt weryfikacyjnych i miejsce ich przechowyw
 1.
 Urzędowe sprawdzenie przeprowadza się przed rozpoczęciem działalności polegającej na:
 1)
-magazynowaniu lub użyciu wyrobów akcyzowych określonych w poz. 13–18 tabeli stanowiącej załącznik nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2018 r. poz. 1114, z późn. zm.), zwanej dalej „ustawą”, objętych zwolnieniem od akcyzy ze względu na przeznaczenie;
+magazynowaniu lub użyciu wyrobów akcyzowych określonych w poz. 13–18 tabeli stanowiącej załącznik nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2018 r. poz. 1114, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1356, 1629, 1697, 2227, 2244, 2354 i 2538.), zwanej dalej „ustawą”, objętych zwolnieniem od akcyzy ze względu na przeznaczenie;
 2)
 przyjmowaniu i magazynowaniu wyrobów akcyzowych objętych zwolnieniem od akcyzy ze względu na przeznaczenie przez podmioty, o których mowa w art. 2 ust. 1 pkt 23 ustawy;
 3)
@@ -56,8 +55,7 @@ urządzaniu i prowadzeniu:
 a)
 gier liczbowych, gry telebingo, gier cylindrycznych, gier w kości, gry bingo pieniężne, zakładów wzajemnych i gier na automatach, w tym przez sieć Internet,
 b)
-gier w karty z wyjątkiem gry w pokera organizowanej w formie turnieju
-o których mowa w ustawie z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2018 r. poz. 165, 650, 723, 1629 i 2354), zwanej dalej „ustawą o grach hazardowych”;
+gier w karty z wyjątkiem gry w pokera organizowanej w formie turnieju – o których mowa w ustawie z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2018 r. poz. 165, 650, 723, 1629 i 2354), zwanej dalej „ustawą o grach hazardowych”;
 5)
 produkcji automatów do gier hazardowych i obrocie tymi automatami;
 6)
@@ -71,8 +69,7 @@ podmiotów leczniczych i aptek używających alkoholu etylowego do celów medycz
 2)
 podmiotów używających alkoholu etylowego wyłącznie jako próbki do analiz, do niezbędnych prób produkcyjnych lub do celów naukowych,
 3)
-podmiotów używających alkoholu etylowego wyłącznie do badań naukowych
-pod warunkiem że użycie w ciągu roku nie przekracza ilości 3000 dm3alkoholu etylowego 100% vol. w stanie nieskażonym oraz 20 000 dm3alkoholu etylowego 100% vol. w stanie skażonym.
+podmiotów używających alkoholu etylowego wyłącznie do badań naukowych – pod warunkiem że użycie w ciągu roku nie przekracza ilości 3000 dm3alkoholu etylowego 100% vol. w stanie nieskażonym oraz 20 000 dm3alkoholu etylowego 100% vol. w stanie skażonym.
 § 3.
 1.
 Dokumentami mającymi znaczenie dla przeprowadzania kontroli celno-skarbowej, w przypadku podmiotów prowadzących działalność gospodarczą wymagającą uzyskania zezwolenia na prowadzenie składu podatkowego, są:
@@ -211,7 +208,7 @@ instrukcje dotyczące przeprowadzania inwentaryzacji wyrobów, w zakresie obejmu
 3)
 dokumenty wymagane na podstawie przepisów odrębnych, związane z działalnością gospodarczą podlegającą kontroli celno-skarbowej, w szczególności koncesje;
 4)
-umowa o współpracy, o której mowa w art. 49zi ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2017 r. poz. 2126, z późn. zm.) – w przypadku podmiotów dokonujących wydobycia gazu ziemnego lub ropy naftowej w ramach umowy o współpracy;
+umowa o współpracy, o której mowa w art. 49zi ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2017 r. poz. 2126, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1563, 1629, 1637, 1669 i 2245.) – w przypadku podmiotów dokonujących wydobycia gazu ziemnego lub ropy naftowej w ramach umowy o współpracy;
 5)
 wykaz obejmujący imiona i nazwiska upoważnionych przez podmiot osób odpowiedzialnych za wykonywanie powierzonych im obowiązków w zakresie objętym kontrolą celno-skarbową.
 § 4.
@@ -405,8 +402,7 @@ Podmiot, w którym przeprowadzono urzędowe sprawdzenie, jest obowiązany do pow
 1)
 § 3 ust. 1 pkt 6–9, ust. 2 pkt 6–8, ust. 3 pkt 5–7, ust. 4 pkt 5, 7–12, ust. 5 pkt 10 i 11, ust. 6 pkt 5–7, ust. 7 pkt 3–5 oraz w § 5 ust. 1 pkt 1–5 i ust. 2, w terminie 7 dni od dnia zmiany danych lub uzyskania dokumentu podlegającego zgłoszeniu,
 2)
-§ 3 ust. 1 pkt 1–5, ust. 2 pkt 1–5, ust. 3 pkt 1–4, ust. 4 pkt 4, 6 i 13, ust. 5 pkt 1–9, ust. 6 pkt 1–4, ust. 7 pkt 1 i 2 oraz w § 5 ust. 1 pkt 6, przed planowanym dokonaniem zmian
-z wyjątkiem powiadomień, o których mowa w art. 49 ust. 7 i 8 oraz art. 57 ust. 6 i 7 ustawy.
+§ 3 ust. 1 pkt 1–5, ust. 2 pkt 1–5, ust. 3 pkt 1–4, ust. 4 pkt 4, 6 i 13, ust. 5 pkt 1–9, ust. 6 pkt 1–4, ust. 7 pkt 1 i 2 oraz w § 5 ust. 1 pkt 6, przed planowanym dokonaniem zmian – z wyjątkiem powiadomień, o których mowa w art. 49 ust. 7 i 8 oraz art. 57 ust. 6 i 7 ustawy.
 2.
 W przypadku wznowienia działalności, o której mowa w § 2 ust. 1 pkt 4, której prowadzenie nie wymaga koncesji lub zezwolenia, po przerwie trwającej dłużej niż 3 miesiące podmiot, w którym przeprowadzono urzędowe sprawdzenie, jest obowiązany do powiadomienia właściwego naczelnika urzędu celno-skarbowego o wznowieniu tej działalności co najmniej na 7 dni przed wznowieniem tej działalności.
 3.
@@ -420,6 +416,5 @@ prowadzenia działalności gospodarczej w zakresie produkcji automatów do gier 
 2)
 zawieszenia prowadzenia działalności gospodarczej w zakresie produkcji automatów do gier hazardowych lub obrotu tymi automatami i nie dokonały jej wznowienia przed upływem 3 miesięcy od dnia wejścia w życie rozporządzenia podlegają urzędowemu sprawdzeniu w terminie miesiąca od dnia wznowienia tej działalności.
 § 19.
-Rozporządzenie wchodzi w życie z dniem 2 stycznia 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654, 2193, 2245 i 2354. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1356, 1629, 1697, 2227, 2244, 2354 i 2538. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1563, 1629, 1637, 1669 i 2245. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 5 kwietnia 2017 r. w sprawie urzędowego sprawdzenia (Dz. U. poz. 778), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
+Rozporządzenie wchodzi w życie z dniem 2 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 5 kwietnia 2017 r. w sprawie urzędowego sprawdzenia (Dz. U. poz. 778), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654, 2193, 2245 i 2354. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1356, 1629, 1697, 2227, 2244, 2354 i 2538. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1563, 1629, 1637, 1669 i 2245. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 5 kwietnia 2017 r. w sprawie urzędowego sprawdzenia (Dz. U. poz. 778), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
 

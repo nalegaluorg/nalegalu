@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 marca 1982 r. o scalaniu i wymianie gruntów (Dz. U. z 2022 r. poz. 1223), z uwzględnieniem zmian wprowadzonych ustawą z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 kwietnia 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 153 i art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 153 i art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), które stanowią: „
 
 **Art. 153.** Do postępowań scaleniowych, o których mowa w ustawie zmienianej w art. 118, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe. ” „
 
@@ -62,11 +61,10 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
     - **b)**
     - **c)**
 
-- **9)** zagospodarowaniu poscaleniowym – rozumie się przez to określone w decyzji o zatwierdzeniu projektu scalenia gruntów prace umożliwiające objęcie w posiadanie przez uczestników scalenia wydzielonych im w ramach postępowania scaleniowego gruntów, polegające na: budowie lub przebudowie dróg dojazdowych do gruntów rolnych i leśnych oraz dojazdów do zabudowań poszczególnych uczestników scalenia, korekcie przebiegu oraz poprawie parametrów technicznych urządzeń melioracji wodnych lub innych urządzeń wodnych, likwidacji zbędnych miedz i dróg oraz wykonywaniu zabiegów rekultywacyjnych umożliwiających uprawę mechaniczną gruntów, budowie lub przebudowie urządzeń wodnych mających na celu zwiększenie retencji wód;
+- **9)** zagospodarowaniu poscaleniowym – rozumie się przez to określone w decyzji o zatwierdzeniu projektu scalenia gruntów prace umożliwiające objęcie w posiadanie przez uczestników scalenia wydzielonych im w ramach postępowania scaleniowego gruntów, polegające na: budowie lub przebudowie dróg dojazdowych do gruntów rolnych i leśnych oraz dojazdów do zabudowań poszczególnych uczestników scalenia, korekcie przebiegu oraz poprawie parametrów technicznych urządzeń melioracji wodnych lub innych urządzeń wodnych, likwidacji zbędnych miedz i dróg oraz wykonywaniu zabiegów rekultywacyjnych umożliwiających uprawę mechaniczną gruntów, dDodana przez art. 118 pkt 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), która weszła w życie z dniem 15 marca 2023 r.) budowie lub przebudowie urządzeń wodnych mających na celu zwiększenie retencji wód;
     - **a)**
     - **b)**
     - **c)**
-    - **d)**
 
 - **10)** inwestorze – rozumie się przez to podmiot realizujący lub zamierzający realizować inwestycję celu publicznego na obszarze scalenia.
 
@@ -87,32 +85,24 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 3.**
 
-1. Postępowanie scaleniowe oraz zagospodarowanie poscaleniowe przeprowadza i wykonuje starosta jako zadanie z zakresu administracji rządowej finansowane ze środków budżetu państwa, z zastrzeżeniem ust. 5–8 oraz art. 4 ust. 2 i 3. Organem wyższego stopnia w rozumieniu Kodeksu postępowania administracyjnego w stosunku do starosty w sprawach z tego zakresu jest wojewoda.
+1. Postępowanie scaleniowe oraz zagospodarowanie poscaleniowe przeprowadza i wykonuje starosta jako zadanie z zakresu administracji rządowej finansowane ze środków budżetu państwa, z zastrzeżeniem ust. 5–8 oraz art. 4 ust. 2 i 3.Zdanie pierwsze ze zmianą wprowadzoną przez art. 118 pkt 2 lit. a ustawy, o której mowa w odnośniku 1. Organem wyższego stopnia w rozumieniu Kodeksu postępowania administracyjnego w stosunku do starosty w sprawach z tego zakresu jest wojewoda.
 
 2. Postępowanie scaleniowe może być wszczęte na wniosek większości właścicieli gospodarstw rolnych, położonych na projektowanym obszarze scalenia, lub na wniosek właścicieli gruntów, których łączny obszar przekracza połowę powierzchni projektowanego obszaru scalenia.
 
 3. Odmowa wszczęcia postępowania scaleniowego następuje w drodze decyzji starosty.
 
-4. Prace scaleniowo-wymienne koordynuje i wykonuje samorząd województwa przy pomocy jednostek organizacyjnych przekazanych mu na podstawie art. 25 ust. 1 pkt 3 ustawy z dnia 13 października 1998 r. – Przepisy wprowadzające ustawy reformujące administrację publiczną (Dz. U. poz. 872, z późn. zm.) lub jednostek utworzonych przez ten samorząd do realizacji tych zadań.
+4. Prace scaleniowo-wymienne koordynuje i wykonuje samorząd województwa przy pomocy jednostek organizacyjnych przekazanych mu na podstawie art. 25 ust. 1 pkt 3 ustawy z dnia 13 października 1998 r. – Przepisy wprowadzające ustawy reformujące administrację publiczną (Dz. U. poz. 872, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 1126, z 2000 r. poz. 70, 136, 228, 239, 632, 1041 i 1312, z 2001 r. poz. 497, 1084, 1194 i 1623, z 2009 r. poz. 206 oraz z 2016 r. poz. 2260.) lub jednostek utworzonych przez ten samorząd do realizacji tych zadań.
 
 5. W finansowanie prac, o których mowa w ust. 4, oraz w finansowanie zagospodarowania poscaleniowego mogą być włączone:
 
-- **1)** publiczne środki wspólnotowe w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. z 2022 r. poz. 260) oraz
-- **2)** inne środki publiczne na zasadach określonych w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2023 r. poz. 225 i 412), w przepisach o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013, w przepisach o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 i w przepisach o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027.
+- **1)** publiczne środki wspólnotowe w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. z 2022 r. poz. 260) oraz 2W brzmieniu ustalonym przez art. 118 pkt 2 lit. b ustawy, o której mowa w odnośniku 1.) inne środki publiczne na zasadach określonych w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2023 r. poz. 225 i 412), w przepisach o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013, w przepisach o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 i w przepisach o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027.
 
 6. W finansowanie zagospodarowania poscaleniowego mogą być włączone środki państwowych funduszy celowych oraz środki budżetów jednostek samorządu terytorialnego, jeżeli jest to zgodne odpowiednio z ich regulaminami bądź właściwością.
 
-7. W pokrywaniu kosztów przeprowadzania postępowania scaleniowego lub wymiennego oraz zagospodarowania poscaleniowego mogą uczestniczyć właściciele gruntów objętych postępowaniem na zasadach ustalonych przez starostę w projekcie, o którym mowa w art. 10 ust. 1.
-
-8. W finansowanie zagospodarowania poscaleniowego w zakresie prac, o których mowa w art. 1 ust. 2 pkt 9 lit. d, muszą być włączone środki, o których mowa w ust. 5 pkt 2, chyba że:
+7. W pokrywaniu kosztów przeprowadzania postępowania scaleniowego lub wymiennego oraz zagospodarowania poscaleniowego mogą uczestniczyć właściciele gruntów objętych postępowaniem na zasadach ustalonych przez starostę w projekcie, o którym mowa w art. 10 ust. 1. 8Dodany przez art. 118 pkt 2 lit. c ustawy, o której mowa w odnośniku 1.. W finansowanie zagospodarowania poscaleniowego w zakresie prac, o których mowa w art. 1 ust. 2 pkt 9 lit. d, muszą być włączone środki, o których mowa w ust. 5 pkt 2, chyba że:
 
 - **1)** zagospodarowanie poscaleniowe w zakresie tych prac jest finansowane ze środków, o których mowa w ust. 6, lub
-- **2)** koszty zagospodarowania poscaleniowego w zakresie tych prac pokrywają podmioty określone w ust. 7.
-
-9. W celu zapewnienia prawidłowej realizacji prac scaleniowo-wymiennych, o których mowa w ust. 4, minister właściwy do spraw rozwoju wsi może wydać wytyczne w zakresie sposobu koordynacji i wykonywania tych prac.
-
-10. Minister właściwy do spraw rozwoju wsi:
-
+- **2)** koszty zagospodarowania poscaleniowego w zakresie tych prac pokrywają podmioty określone w ust. 7. 9Dodany przez art. 118 pkt 2 lit. c ustawy, o której mowa w odnośniku 1.. W celu zapewnienia prawidłowej realizacji prac scaleniowo-wymiennych, o których mowa w ust. 4, minister właściwy do spraw rozwoju wsi może wydać wytyczne w zakresie sposobu koordynacji i wykonywania tych prac. 10Dodany przez art. 118 pkt 2 lit. c ustawy, o której mowa w odnośniku 1.. Minister właściwy do spraw rozwoju wsi:
 - **1)** podaje do publicznej wiadomości na swojej stronie internetowej wytyczne w zakresie sposobu koordynacji i wykonywania prac scaleniowo-wymiennych oraz ich zmiany;
 - **2)** ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat o miejscu publikacji wytycznych w zakresie sposobu koordynacji i wykonywania prac scaleniowo-wymiennych oraz ich zmian.
 
@@ -359,7 +349,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Decyzję o zatwierdzeniu projektu wymiany gruntów doręcza się uczestnikom wymiany na piśmie.
 
-4. Do decyzji o zatwierdzeniu projektu scalenia lub wymiany gruntów, poprzedzonej decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2022 r. poz. 1029, z późn. zm.).
+4. Do decyzji o zatwierdzeniu projektu scalenia lub wymiany gruntów, poprzedzonej decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2022 r. poz. 1029, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1260, 1261, 1783, 1846, 2185 i 2687 oraz z 2023 r. poz. 553 i 595.).
 
 5. Do postępowania w sprawie wydania decyzji o zatwierdzeniu projektu scalenia lub wymiany gruntów, poprzedzonej decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 86f ust. 6, art. 86g oraz art. 86h ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
@@ -383,7 +373,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **2)** wyłożenia do publicznego wglądu wyników oszacowania gruntów, lasów oraz sadów, ogrodów, chmielników i innych upraw specjalnych,
 - **3)** w których można składać propozycje co do sposobu wydzielenia gruntów w zamian za grunty dotychczas posiadane, w szczególności w zakresie ich lokalizacji,
 - **4)** okazania projektu scalenia gruntów,
-- **5)** okazania stabilizacji punktów granicznych projektu scalenia gruntów – w przypadku jej wykonania w formie obwieszczenia, które wywiesza się na tablicy ogłoszeń urzędu gminy, na której terenie są położone grunty objęte scaleniem, oraz na tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, i zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej starostwa powiatowego, co najmniej na 7 dni przed tym terminem.
+- **5)** okazania stabilizacji punktów granicznych projektu scalenia gruntów – w przypadku jej wykonania – w formie obwieszczenia, które wywiesza się na tablicy ogłoszeń urzędu gminy, na której terenie są położone grunty objęte scaleniem, oraz na tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, i zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej starostwa powiatowego, co najmniej na 7 dni przed tym terminem.
 
 1. Zebranie uczestników scalenia oraz wykonywanie prawa głosu może odbywać się z wykorzystaniem środków komunikacji elektronicznej.
 
@@ -425,8 +415,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 34.** (uchylony)
 
-**Art. 35.** Traci moc ustawa z dnia 24 stycznia 1968 r. o scalaniu i wymianie gruntów (Dz. U. poz. 13).
-
-- **1)** Dodana przez art. 118 pkt 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), która weszła w życie z dniem 15 marca 2023 r. 2) Zdanie pierwsze ze zmianą wprowadzoną przez art. 118 pkt 2 lit. a ustawy, o której mowa w odnośniku 1. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 1126, z 2000 r. poz. 70, 136, 228, 239, 632, 1041 i 1312, z 2001 r. poz. 497, 1084, 1194 i 1623, z 2009 r. poz. 206 oraz z 2016 r. poz. 2260. 4) W brzmieniu ustalonym przez art. 118 pkt 2 lit. b ustawy, o której mowa w odnośniku 1. 5) Dodany przez art. 118 pkt 2 lit. c ustawy, o której mowa w odnośniku 1. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1260, 1261, 1783, 1846, 2185 i 2687 oraz z 2023 r. poz. 553 i 595.
-
+**Art. 35.** Traci moc ustawa z dnia 24 stycznia 1968 r. o scalaniu i wymianie gruntów (Dz. U. poz. 13). 1) Dodana przez art. 118 pkt 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), która weszła w życie z dniem 15 marca 2023 r. 2) Zdanie pierwsze ze zmianą wprowadzoną przez art. 118 pkt 2 lit. a ustawy, o której mowa w odnośniku 1. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 1126, z 2000 r. poz. 70, 136, 228, 239, 632, 1041 i 1312, z 2001 r. poz. 497, 1084, 1194 i 1623, z 2009 r. poz. 206 oraz z 2016 r. poz. 2260. 4) W brzmieniu ustalonym przez art. 118 pkt 2 lit. b ustawy, o której mowa w odnośniku 1. 5) Dodany przez art. 118 pkt 2 lit. c ustawy, o której mowa w odnośniku 1. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1260, 1261, 1783, 1846, 2185 i 2687 oraz z 2023 r. poz. 553 i 595.
 

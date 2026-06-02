@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-06-06 |
 | Data wydania | 2002-07-17 |
-| Wejście w życie | 2002-10-18 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021080945) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/945/text.pdf) |
+
+Dodatkowe prawo ochronne
 
 **Art. 1.** W ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2001 r. Nr 49, poz. 508 i z 2002 r. Nr 74, poz. 767) wprowadza się następujące zmiany:
 
@@ -51,7 +52,7 @@ source: "eli-html"
 
 - **7)** w tytule II w dziale II po rozdziale 5 dodaje się rozdział 51 w brzmieniu: „
 
-#### Rozdział 51 Dodatkowe prawo ochronne
+#### Rozdział 51
 
 **Art. 751.** Na warunkach określonych w przepisach o ustanowieniu w Unii Europejskiej dodatkowych świadectw ochronnych dla produktów leczniczych oraz produktów ochrony roślin udzielane są w Rzeczypospolitej Polskiej dodatkowe prawa ochronne.
 

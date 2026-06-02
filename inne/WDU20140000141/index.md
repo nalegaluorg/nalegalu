@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-01-28 |
 | Data wydania | 2014-01-29 |
-| Wejście w życie | 2014-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000141) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/141/text.pdf) |
 
@@ -146,7 +145,7 @@ Lokaty, o których mowa w ust. 2, nie mogą łącznie przekraczać 20% wartości
 4.
 Lokaty, o których mowa w ust. 1 pkt 2 i ust. 2 pkt 2, nie mogą łącznie przekraczać 30% wartości środków Funduszu Gwarancyjnego.
 5.
-Krajowy Depozyt może dokonywać transferu środków Funduszu Gwarancyjnego na rachunki bankowe, w tym także na rachunki lokat terminowych, prowadzone w bankach krajowych w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm.), które posiadają fundusze własne w wysokości stanowiącej równowartość w złotych co najmniej 100 milionów euro.
+Krajowy Depozyt może dokonywać transferu środków Funduszu Gwarancyjnego na rachunki bankowe, w tym także na rachunki lokat terminowych, prowadzone w bankach krajowych w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529 oraz z 2013 r. poz. 777, 1036, 1289 i 1567.), które posiadają fundusze własne w wysokości stanowiącej równowartość w złotych co najmniej 100 milionów euro.
 6.
 Lokaty, o których mowa w ust. 5, nie mogą łącznie przekraczać 40% wartości środków Funduszu Gwarancyjnego, przy tym nie więcej niż 8% wartości środków Funduszu Gwarancyjnego może zostać ulokowane w jednym banku, zaś na rachunkach a vista – nie więcej niż 10% wartości środków Funduszu Gwarancyjnego.
 7.
@@ -208,7 +207,7 @@ odpisu prawomocnego postanowienia sądu o zakończeniu postępowania upadłości
 b)
 wyciągu z zatwierdzonej przez sędziego-komisarza listy wierzytelności, zawierającego oznaczenie wierzytelności członka otwartego funduszu oraz otrzymanej przez niego na jej poczet sumy;
 3)
-w przypadku gdy postępowanie upadłościowe prowadzone w stosunku do powszechnego towarzystwa, które ponosi odpowiedzialność za szkodę, zostało umorzone z przyczyn określonych w art. 361 pkt 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2012 r. poz. 1112, z późn. zm.):
+w przypadku gdy postępowanie upadłościowe prowadzone w stosunku do powszechnego towarzystwa, które ponosi odpowiedzialność za szkodę, zostało umorzone z przyczyn określonych w art. 361 pkt 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2012 r. poz. 1112, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1529 oraz z 2013 r. poz. 355 i 613.):
 a)
 odpisu prawomocnego postanowienia sądu o umorzeniu postępowania upadłościowego oraz
 b)
@@ -267,13 +266,14 @@ W przypadkach, o których mowa w § 25 ust. 1 i 3, wszelkich czynności związan
 1)
 rozliczeniem nadpłat powstałych w związku z lokowaniem środków wniesionych do Funduszu Gwarancyjnego przez powszechne towarzystwo, które zaprzestało zarządzania otwartym funduszem,
 2)
-rozliczeniem i poborem opłat należnych Krajowemu Depozytowi
-dokonuje się, począwszy od daty otwarcia likwidacji otwartego funduszu, względem powszechnego towarzystwa, które, odpowiednio, przejęło zarządzanie tym funduszem albo zostało zawiązane w związku z łączeniem się towarzystw w trybie określonym w art. 492 § 1 pkt 2 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
+rozliczeniem i poborem opłat należnych Krajowemu Depozytowi – dokonuje się, począwszy od daty otwarcia likwidacji otwartego funduszu, względem powszechnego towarzystwa, które, odpowiednio, przejęło zarządzanie tym funduszem albo zostało zawiązane w związku z łączeniem się towarzystw w trybie określonym w art. 492 § 1 pkt 2 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
 § 27.
 1.
 Za administrowanie Funduszem Gwarancyjnym Krajowy Depozyt pobiera od powszechnych towarzystw opłaty kwartalne w wysokości równej sumie:
 1)
-kwoty naliczonej od wartości zasobu rezerwowego Funduszu Gwarancyjnego, według stanu na ostatni dzień każdego kwartału kalendarzowego, zgodnie z następującą skalą: Wartość zasobu rezerwowego Funduszu Gwarancyjnego, według stanu na ostatni dzień kwartału kalendarzowego (w zł) Wysokość naliczonej kwoty (w zł) ponad do 1 000 000 10% wartości zasobu rezerwowego Funduszu Gwarancyjnego 1 000 000 2 000 000 100 000 zł + 8% nadwyżki ponad 1 000 000 zł wartości zasobu rezerwowego Funduszu Gwarancyjnego, według stanu na ostatni dzień kwartału kalendarzowego 2 000 000 180 000 zł + 6% nadwyżki ponad 2 000 000 zł wartości zasobu rezerwowego Funduszu Gwarancyjnego, według stanu na ostatni dzień kwartału kalendarzowego oraz
+kwoty naliczonej od wartości zasobu rezerwowego Funduszu Gwarancyjnego, według stanu na ostatni dzień każdego kwartału kalendarzowego, zgodnie z następującą skalą:
+Wartość zasobu rezerwowego Funduszu Gwarancyjnego, według stanu na ostatni dzień kwartału kalendarzowego (w zł) Wysokość naliczonej kwoty (w zł) ponad do 1 000 000 10% wartości zasobu rezerwowego Funduszu Gwarancyjnego 1 000 000 2 000 000 100 000 zł + 8% nadwyżki ponad 1 000 000 zł wartości zasobu rezerwowego Funduszu Gwarancyjnego, według stanu na ostatni dzień kwartału kalendarzowego 2 000 000 180 000 zł + 6% nadwyżki ponad 2 000 000 zł wartości zasobu rezerwowego Funduszu Gwarancyjnego, według stanu na ostatni dzień kwartału kalendarzowego
+oraz
 2)
 równowartości kosztów i wydatków, o których mowa w ust. 4.
 2.
@@ -292,5 +292,5 @@ Jeżeli wysokość opłaty przewyższa wartość udziału powszechnego towarzyst
 4.
 Jeżeli łączna wartość środków utrzymywanych przez powszechne towarzystwo w Funduszu Gwarancyjnym jest niższa od wysokości opłat należnych Krajowemu Depozytowi od tego towarzystwa, wówczas wszelkie wpłaty tego towarzystwa do Funduszu Gwarancyjnego są zaliczane w pierwszej kolejności na poczet opłat należnych Krajowemu Depozytowi, przed zaliczeniem ich na poczet wpłat do Funduszu Gwarancyjnego.
 § 29.
-Rozporządzenie wchodzi w życie z dniem 1 lutego 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 lutego 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 30 marca 2004 r. w sprawie Funduszu Gwarancyjnego (Dz. U. Nr 56, poz. 545), które traci moc z dniem 1 lutego 2014 r. w związku z wejściem w życie ustawy z dnia 6 grudnia 2013 r. o zmianie niektórych ustaw w związku z określeniem zasad wypłaty emerytur ze środków zgromadzonych w otwartych funduszach emerytalnych (Dz. U. poz. 1717). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529 oraz z 2013 r. poz. 777, 1036, 1289 i 1567. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1529 oraz z 2013 r. poz. 355 i 613. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 30 marca 2004 r. w sprawie Funduszu Gwarancyjnego (Dz. U. Nr 56, poz. 545), które traci moc z dniem 1 lutego 2014 r. w związku z wejściem w życie ustawy z dnia 6 grudnia 2013 r. o zmianie niektórych ustaw w związku z określeniem zasad wypłaty emerytur ze środków zgromadzonych w otwartych funduszach emerytalnych (Dz. U. poz. 1717).
 

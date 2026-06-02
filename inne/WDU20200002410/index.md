@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 28 grudnia 2020 r. zmieniające rozporządzenie w sprawie właściwości organów podatkowych
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 28 grudnia 2020 r. zmieniające rozporządzenie w sprawie właściwości organów podatkowych Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-28 |
 | Data wydania | 2020-12-30 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002410) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2410/text.pdf) |
 
@@ -33,25 +32,19 @@ W rozporządzeniu Ministra Finansów z dnia 22 sierpnia 2005 r. w sprawie właś
 1)
 w § 6:
 a)
-w ust. 1 pkt 7 otrzymuje brzmienie:
-„
+w ust. 1 pkt 7 otrzymuje brzmienie: „
 7)
-w województwie mazowieckim – Naczelnik Trzeciego Mazowieckiego Urzędu Skarbowego w Radomiu;
-” ,
+w województwie mazowieckim – Naczelnik Trzeciego Mazowieckiego Urzędu Skarbowego w Radomiu; ” ,
 b)
-w ust. 2 pkt 2 otrzymuje brzmienie:
-„
+w ust. 2 pkt 2 otrzymuje brzmienie: „
 2)
-innych niż wymienione w ust. 1 lub w pkt 1 – właściwi miejscowo są naczelnicy urzędów skarbowych wymienieni w ust. 1, ustaleni ze względu na miejsce uzyskania przychodu.
-” ,
+innych niż wymienione w ust. 1 lub w pkt 1 – właściwi miejscowo są naczelnicy urzędów skarbowych wymienieni w ust. 1, ustaleni ze względu na miejsce uzyskania przychodu. ” ,
 c)
-ust. 3 i 4 otrzymują brzmienie:
-„
+ust. 3 i 4 otrzymują brzmienie: „
 3.
 Jeżeli podatnik, o którym mowa w ust. 1, prowadzi działalność gospodarczą na terenie więcej niż jednego województwa albo uzyskuje dochody (przychody), o których mowa w ust. 2, na terenie więcej niż jednego województwa, albo jednocześnie uzyskuje dochody (przychody) z tytułów wymienionych w ust. 1 i 2 na terenie więcej niż jednego województwa, właściwy miejscowo jest Naczelnik Trzeciego Mazowieckiego Urzędu Skarbowego w Radomiu.
 4.
-W sprawach zryczałtowanego podatku dochodowego od osób prawnych pobieranego przez płatników od dochodów (przychodów) uzyskiwanych przez podatników, o których mowa w ust. 1, właściwy miejscowo jest Naczelnik Lubelskiego Urzędu Skarbowego w Lublinie.
-” ;
+W sprawach zryczałtowanego podatku dochodowego od osób prawnych pobieranego przez płatników od dochodów (przychodów) uzyskiwanych przez podatników, o których mowa w ust. 1, właściwy miejscowo jest Naczelnik Lubelskiego Urzędu Skarbowego w Lublinie. ” ;
 2)
 uchyla się § 8a;
 3)
@@ -65,18 +58,13 @@ w § 16:
 a)
 w ust. 1 w pkt 1 uchyla się lit. d,
 b)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-Organami podatkowymi właściwymi miejscowo w sprawach stwierdzenia nadpłaty zryczałtowanego podatku dochodowego od osób fizycznych pobieranego przez płatników, na wniosek będącego nierezydentem podatnika tego podatku, są naczelnicy urzędów skarbowych ustaleni ze względu na miejsce zamieszkania lub adres siedziby płatnika wskazani w § 5 ust. 1.
-” ,
+Organami podatkowymi właściwymi miejscowo w sprawach stwierdzenia nadpłaty zryczałtowanego podatku dochodowego od osób fizycznych pobieranego przez płatników, na wniosek będącego nierezydentem podatnika tego podatku, są naczelnicy urzędów skarbowych ustaleni ze względu na miejsce zamieszkania lub adres siedziby płatnika wskazani w § 5 ust. 1. ” ,
 c)
-dodaje się ust. 5 w brzmieniu:
-„
+dodaje się ust. 5 w brzmieniu: „
 5.
-Organem podatkowym właściwym miejscowo w sprawach stwierdzenia nadpłaty zryczałtowanego podatku dochodowego od osób prawnych pobieranego przez płatników, na wniosek będącego nierezydentem podatnika tego podatku, jest naczelnik urzędu skarbowego wskazany w § 6 ust. 4.
-” .
+Organem podatkowym właściwym miejscowo w sprawach stwierdzenia nadpłaty zryczałtowanego podatku dochodowego od osób prawnych pobieranego przez płatników, na wniosek będącego nierezydentem podatnika tego podatku, jest naczelnik urzędu skarbowego wskazany w § 6 ust. 4. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r. 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 

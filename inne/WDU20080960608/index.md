@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 11 kwietnia 2008 r. o zmianie ustawy o państwowej kompensacie przysługującej ofiarom niektórych przestępstw umyślnych
+# Ustawa z dnia 11 kwietnia 2008 r. o zmianie ustawy o państwowej kompensacie przysługującej ofiarom niektórych przestępstw umyślnych Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady nr 2004/80/WE z dnia 29 kwietnia 2004 r. odnoszącej się do kompensaty dla ofiar przestępstw (Dz. Urz. UE L 261 z 06.08.2004, str. 15; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 7, str. 65).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-04-11 |
 | Data wydania | 2008-06-05 |
-| Wejście w życie | 2008-06-20 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080960608) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/608/text.pdf) |
 
@@ -32,5 +31,5 @@ source: "eli-html"
 
 **Art. 2.** Wniosek o kompensatę, o którym mowa w art. 8 ust. 5 ustawy wymienionej w art. 1, dotyczący przestępstw popełnionych w okresie od dnia 1 lipca 2005 r. do dnia 20 września 2005 r. składa się w terminie 2 lat od dnia wejścia w życie niniejszej ustawy, pod rygorem wygaśnięcia uprawnienia do żądania kompensaty.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady nr 2004/80/WE z dnia 29 kwietnia 2004 r. odnoszącej się do kompensaty dla ofiar przestępstw (Dz. Urz. UE L 261 z 06.08.2004, str. 15; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 7, str. 65).
 

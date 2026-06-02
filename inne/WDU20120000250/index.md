@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-03-06 |
 | Data wydania | 2012-03-07 |
-| Wejście w życie | 2012-03-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000250) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/250/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Metryka sprawy (wzór)
 Treść rozporządzenia
-Na podstawie art. 66a § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 66a § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539, z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 254, poz. 1700 oraz z 2011 r. Nr 6, poz. 18, Nr 34, poz. 173, Nr 106, poz. 622 i Nr 186, poz. 1100.) zarządza się, co następuje:
 § 1.
 1.
 Metryka sprawy, wraz z dokumentami, do których odsyła, stanowi obowiązkową część akt sprawy i jest na bieżąco aktualizowana.
@@ -66,7 +65,8 @@ zapewnienia jednoznacznego powiązania elektronicznych metryk z nieelektroniczny
 3)
 możliwości niezwłocznego odnalezienia i w razie potrzeby wydrukowania żądanej metryki.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 7 marca 2012 r.
+Rozporządzenie wchodzi w życie z dniem 7 marca 2012 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539, z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 254, poz. 1700 oraz z 2011 r. Nr 6, poz. 18, Nr 34, poz. 173, Nr 106, poz. 622 i Nr 186, poz. 1100.
 Załącznik – Metryka sprawy (wzór)
-Oznaczenie sprawy1) Tytuł sprawy2) Lp. Data podjętej czynności Oznaczenie osoby podejmującej daną czynność3) Określenie podejmowanej czynności Wskazanie identyfikatora dokumentu w aktach sprawy, do którego odnosi się dana czynność 1) Data wszczęcia lub znak sprawy. 2) Zwięzłe określenie przedmiotu sprawy. 3) Nazwisko, imię, stanowisko. 4) Wskazanie możliwe jest przez podanie daty dokumentu (jeżeli w sprawie jest tylko jeden dokument z określoną datą) bądź znaku pisma lub innego niepowtarzalnego w danej sprawie identyfikatora dokumentu, do którego odnosi się dana czynność. Dopuszcza się dodatkowe oznaczenie dokumentów w sprawie w celu ułatwienia powiązania ich z wpisem w metryce sprawy.
+Oznaczenie sprawy1) Tytuł sprawy2) Lp. Data podjętej czynności Oznaczenie osoby podejmującej daną czynność3) Określenie podejmowanej czynności Wskazanie identyfikatora dokumentu w aktach sprawy, do którego odnosi się dana czynność
+1) Data wszczęcia lub znak sprawy. 2) Zwięzłe określenie przedmiotu sprawy. 3) Nazwisko, imię, stanowisko. 4) Wskazanie możliwe jest przez podanie daty dokumentu (jeżeli w sprawie jest tylko jeden dokument z określoną datą) bądź znaku pisma lub innego niepowtarzalnego w danej sprawie identyfikatora dokumentu, do którego odnosi się dana czynność. Dopuszcza się dodatkowe oznaczenie dokumentów w sprawie w celu ułatwienia powiązania ich z wpisem w metryce sprawy.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 10 maja 2021 r. w sprawie programu pilotażowego opieki nad świadczeniobiorcą w ramach sieci kardiologicznej
+# Rozporządzenie Ministra Zdrowiaz dnia 10 maja 2021 r. w sprawie programu pilotażowego opieki nad świadczeniobiorcą w ramach sieci kardiologicznej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-10 |
 | Data wydania | 2021-05-11 |
-| Wejście w życie | 2021-05-26 |
 | Ostatnia zmiana | 2025-07-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000880) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/880/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97, 159 i 694.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa program pilotażowy opieki nad świadczeniobiorcą w ramach sieci kardiologicznej, zwany dalej „programem pilotażowym”.
 § 2.
@@ -219,8 +218,7 @@ przezcewnikowego wszczepienia protezy zastawki aortalnej,
 3)
 przezcewnikowej plastyki zastawki mitralnej metodą „brzeg do brzegu”,
 4)
-wszczepienia układu resynchronizującego, defibrylatorów, kardiowerterów
-finansowanie w ramach programu pilotażowego obejmuje zrealizowane w ramach programu pilotażowego świadczenia opieki zdrowotnej.
+wszczepienia układu resynchronizującego, defibrylatorów, kardiowerterów – finansowanie w ramach programu pilotażowego obejmuje zrealizowane w ramach programu pilotażowego świadczenia opieki zdrowotnej.
 § 14.
 1.
 Regionalny ośrodek koordynujący oraz ośrodki współpracujące poziomu I i II przekazują oddziałowi wojewódzkiemu Funduszu:
@@ -233,8 +231,7 @@ Fundusz sporządza:
 1)
 sprawozdania okresowe co 6 miesięcy,
 2)
-sprawozdanie końcowe w okresie 3 miesięcy od dnia zakończenia etapu realizacji programu pilotażowego
-z działalności sieci kardiologicznej, z uwzględnieniem mierników i wskaźników, o których mowa w § 11 i § 12, z uwzględnieniem danych, o których mowa w § 10 ust. 1 pkt 11, ust. 3 pkt 6 i 7 i ust. 4 pkt 5 i 6, oraz oceny realizacji planów leczenia, o której mowa w § 10 ust. 1 pkt 10.
+sprawozdanie końcowe w okresie 3 miesięcy od dnia zakończenia etapu realizacji programu pilotażowego – z działalności sieci kardiologicznej, z uwzględnieniem mierników i wskaźników, o których mowa w § 11 i § 12, z uwzględnieniem danych, o których mowa w § 10 ust. 1 pkt 11, ust. 3 pkt 6 i 7 i ust. 4 pkt 5 i 6, oraz oceny realizacji planów leczenia, o której mowa w § 10 ust. 1 pkt 10.
 3.
 Fundusz przekazuje ministrowi właściwemu do spraw zdrowia, co sześć miesięcy, począwszy od dnia rozpoczęcia etapu realizacji programu pilotażowego, informację o przebiegu realizacji programu pilotażowego opracowaną na podstawie sprawozdań okresowych, o których mowa w ust. 1 pkt 1.
 § 15.
@@ -249,6 +246,5 @@ Raport końcowy, o którym mowa w ust. 3, jest publikowany w Biuletynie Informac
 § 16.
 Podmiotem obowiązanym do wdrożenia, monitorowania, ewaluacji i finansowania programu pilotażowego jest Fundusz.
 § 17.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97, 159 i 694.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97, 159 i 694.
 

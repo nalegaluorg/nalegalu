@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 11 marca 2022 r. zmieniające rozporządzenie w sprawie grup podatników lub rodzajów czynności, w odniesieniu do których możliwe jest używanie kas rejestrujących mających postać oprogramowania
+# Rozporządzenie Ministra Finansówz dnia 11 marca 2022 r. zmieniające rozporządzenie w sprawie grup podatników lub rodzajów czynności, w odniesieniu do których możliwe jest używanie kas rejestrujących mających postać oprogramowania Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-11 |
 | Data wydania | 2022-03-17 |
-| Wejście w życie | 2022-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000619) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/619/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 111b ust. 3 pkt 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2021 r. poz. 685, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 111b ust. 3 pkt 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2021 r. poz. 685, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 694, 802, 1163, 1243, 1598, 1626, 2076, 2105 i 2427 oraz z 2022 r. poz. 196.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Finansów z dnia 29 maja 2020 r. w sprawie grup podatników lub rodzajów czynności, w odniesieniu do których możliwe jest używanie kas rejestrujących mających postać oprogramowania (Dz. U. poz. 965) w § 1 w pkt 26 kropkę zastępuje się średnikiem i dodaje się pkt 27 w brzmieniu:
-„
+W rozporządzeniu Ministra Finansów z dnia 29 maja 2020 r. w sprawie grup podatników lub rodzajów czynności, w odniesieniu do których możliwe jest używanie kas rejestrujących mających postać oprogramowania (Dz. U. poz. 965) w § 1 w pkt 26 kropkę zastępuje się średnikiem i dodaje się pkt 27 w brzmieniu: „
 27)
-usług mycia, czyszczenia samochodów i podobnych usług (PKWiU 45.20.30.0), w tym przy użyciu urządzeń obsługiwanych przez klienta, które w systemie bezobsługowym przyjmują należność w bilonie lub banknotach, lub innej formie (bezgotówkowej).
-” .
+usług mycia, czyszczenia samochodów i podobnych usług (PKWiU 45.20.30.0), w tym przy użyciu urządzeń obsługiwanych przez klienta, które w systemie bezobsługowym przyjmują należność w bilonie lub banknotach, lub innej formie (bezgotówkowej). ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 694, 802, 1163, 1243, 1598, 1626, 2076, 2105 i 2427 oraz z 2022 r. poz. 196.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 694, 802, 1163, 1243, 1598, 1626, 2076, 2105 i 2427 oraz z 2022 r. poz. 196.
 

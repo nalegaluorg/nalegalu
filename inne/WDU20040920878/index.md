@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-04-02 |
 | Data wydania | 2004-04-30 |
-| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040920878) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/878/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 7 października 1999 r. o języku polskim (Dz. U. Nr 90, poz. 999, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 7 października 1999 r. o języku polskim (Dz. U. Nr 90, poz. 999, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 29, poz. 358, z 2002 r. Nr 144, poz. 1204 oraz z 2003 r. Nr 73, poz. 661.) wprowadza się następujące zmiany:
 
 - **1)** art. 1 otrzymuje brzmienie: „ Przepisy ustawy dotyczą:
 - **1)** ochrony języka polskiego,
@@ -104,5 +103,5 @@ source: "eli-html"
 
 2. Czynności dokonane przed dniem wejścia w życie niniejszej ustawy na podstawie dotychczasowych przepisów zachowują ważność.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
+**Art. 3.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 29, poz. 358, z 2002 r. Nr 144, poz. 1204 oraz z 2003 r. Nr 73, poz. 661.
 

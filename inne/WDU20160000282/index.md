@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-02-19 |
 | Data wydania | 2016-03-07 |
-| Wejście w życie | 2016-03-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000282) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/282/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 26 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 26 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 463 i 1004, z 2015 r. poz. 1274, 1607 i 1767 oraz z 2016 r. poz. 65.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 23 lutego 2015 r. w sprawie środków finansowych wymaganych od cudzoziemca wjeżdżającego na terytorium Rzeczypospolitej Polskiej oraz dokumentów, które mogą potwierdzić możliwość uzyskania takich środków, a także cel i czas trwania planowanego pobytu (Dz. U. poz. 326) w § 2 ust. 3 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 23 lutego 2015 r. w sprawie środków finansowych wymaganych od cudzoziemca wjeżdżającego na terytorium Rzeczypospolitej Polskiej oraz dokumentów, które mogą potwierdzić możliwość uzyskania takich środków, a także cel i czas trwania planowanego pobytu (Dz. U. poz. 326) w § 2 ust. 3 otrzymuje brzmienie: „
 3.
-Cudzoziemiec wjeżdżający na terytorium Rzeczypospolitej Polskiej w celu podjęcia lub kontynuowania studiów, uczestniczenia w badaniach naukowych lub szkoleniach, prowadzenia prac rozwojowych oraz podjęcia lub kontynuowania nauki musi posiadać środki finansowe, o których mowa w § 1 pkt 1 lit. a, w wysokości co najmniej 1270 złotych na pierwsze 2 miesiące planowanego pobytu albo równowartość tej kwoty w walutach obcych.
-” .
+Cudzoziemiec wjeżdżający na terytorium Rzeczypospolitej Polskiej w celu podjęcia lub kontynuowania studiów, uczestniczenia w badaniach naukowych lub szkoleniach, prowadzenia prac rozwojowych oraz podjęcia lub kontynuowania nauki musi posiadać środki finansowe, o których mowa w § 1 pkt 1 lit. a, w wysokości co najmniej 1270 złotych na pierwsze 2 miesiące planowanego pobytu albo równowartość tej kwoty w walutach obcych. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 463 i 1004, z 2015 r. poz. 1274, 1607 i 1767 oraz z 2016 r. poz. 65.
 

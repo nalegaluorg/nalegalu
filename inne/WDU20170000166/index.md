@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-01-24 |
 | Data wydania | 2017-01-26 |
-| Wejście w życie | 2017-01-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000166) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/166/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2016 r. poz. 1512 i 2048) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) po § 13j dodaje się § 13k w brzmieniu:
-„
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089 oraz z 2016 r. poz. 170, 1455 i 1912.) po § 13j dodaje się § 13k w brzmieniu: „
 § 13k.
 1.
 W 2017 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, prowadzącemu w 2016 r. gospodarstwo:
@@ -63,8 +61,7 @@ Wysokość pomocy, o której mowa w ust. 1, wynosi:
 10)
 4 zł – za bażanta,
 11)
-4 zł – za kuropatwę
-utrzymywane w gospodarstwie położonym na obszarze zapowietrzonym lub zagrożonym, na dzień poprzedzający dzień otrzymania przez powiatowego lekarza weterynarii zawiadomienia o podejrzeniu wystąpienia wysoce zjadliwej grypy ptaków.
+4 zł – za kuropatwę – utrzymywane w gospodarstwie położonym na obszarze zapowietrzonym lub zagrożonym, na dzień poprzedzający dzień otrzymania przez powiatowego lekarza weterynarii zawiadomienia o podejrzeniu wystąpienia wysoce zjadliwej grypy ptaków.
 4.
 Pomoc, o której mowa w ust. 1, jest przyznawana w drodze decyzji na wniosek producenta rolnego, złożony do kierownika biura powiatowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę tego producenta, w terminie od dnia 1 lutego do dnia 28 lutego 2017 r., na formularzu opracowanym i udostępnionym przez Agencję na jej stronie internetowej.
 5.
@@ -84,8 +81,7 @@ zostało wyznaczone jako ognisko wysoce zjadliwej grypy ptaków;
 2)
 jest położone w obszarze zapowietrzonym lub zagrożonym, i gospodarstwo to nie zostało wyznaczone jako ognisko wysoce zjadliwej grypy ptaków, lecz w stosunku do którego powiatowy lekarz weterynarii nakazał, w drodze decyzji, zabicie drobiu lub poddanie go ubojowi;
 3)
-jest położone w obszarze zapowietrzonym lub zagrożonym, i w stosunku do którego powiatowy lekarz weterynarii, na podstawie art. 48b ust. 1 pkt 2 i ust. 3 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, nakazał, w drodze decyzji, zabicie lub ubój drobiu oraz zakazał utrzymywania w gospodarstwie drobiu.
-” .
+jest położone w obszarze zapowietrzonym lub zagrożonym, i w stosunku do którego powiatowy lekarz weterynarii, na podstawie art. 48b ust. 1 pkt 2 i ust. 3 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, nakazał, w drodze decyzji, zabicie lub ubój drobiu oraz zakazał utrzymywania w gospodarstwie drobiu. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089 oraz z 2016 r. poz. 170, 1455 i 1912.
 

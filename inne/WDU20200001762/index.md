@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju, Pracy i Technologiiz dnia 8 października 2020 r. w sprawie punktu kontaktowego do spraw wdrażania i stosowania rozporządzenia ustanawiającego ramy monitorowania bezpośrednich inwestycji zagranicznych w Unii
+# Rozporządzenie Ministra Rozwoju, Pracy i Technologiiz dnia 8 października 2020 r. w sprawie punktu kontaktowego do spraw wdrażania i stosowania rozporządzenia ustanawiającego ramy monitorowania bezpośrednich inwestycji zagranicznych w Unii Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-10-08 |
 | Data wydania | 2020-10-12 |
-| Wejście w życie | 2020-10-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001762) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1762/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 14a ust. 3 ustawy z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji (Dz. U. z 2020 r. poz. 117, 284 i 1086) zarządza się, co następuje:
+Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/452 z dnia 19 marca 2019 r. ustanawiającego ramy monitorowania bezpośrednich inwestycji zagranicznych w Unii (Dz. Urz. UE L 79 z 21.03.2019, str. 1). Na podstawie art. 14a ust. 3 ustawy z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji (Dz. U. z 2020 r. poz. 117, 284 i 1086) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -136,6 +135,5 @@ służbowy adres e-mail oraz służbowy numer telefonu.
 2.
 O każdej zmianie danych osób odpowiedzialnych za komunikację z punktem kontaktowym organ kontroli powiadamia punkt kontaktowy w terminie 7 dni od dnia jej wystąpienia.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/452 z dnia 19 marca 2019 r. ustanawiającego ramy monitorowania bezpośrednich inwestycji zagranicznych w Unii (Dz. Urz. UE L 79 z 21.03.2019, str. 1).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/452 z dnia 19 marca 2019 r. ustanawiającego ramy monitorowania bezpośrednich inwestycji zagranicznych w Unii (Dz. Urz. UE L 79 z 21.03.2019, str. 1).
 

@@ -8,10 +8,10 @@ pos: 1915
 act_type: Rozporządzenie
 status: akt objęty tekstem jednolitym
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 7 września 2023 r. zmieniające rozporządzenie w sprawie specjalnego obszaru ochrony siedlisk Wzgórza Krzymowskie (PLH320054)
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 września 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-09-07 |
 | Data wydania | 2023-09-19 |
-| Wejście w życie | 2023-10-04 |
 | Ostatnia zmiana | 2024-08-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001915) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1915/text.pdf) |
 
-Treść rozporządzenia
-Załącznik – Siedliska przyrodnicze będące przedmiotem ochrony na specjalnym obszarze ochrony Siedlisk Wzgórza Krzymowskie (PLH320054)
-Treść rozporządzenia
-Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890) zarządza się, co następuje:
-§ 1.
-W rozporządzeniu Ministra Klimatu i Środowiska z dnia 14 października 2021 r. w sprawie specjalnego obszaru ochrony siedlisk Wzgórza Krzymowskie (PLH320054) (Dz. U. poz. 2393) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
-Załącznik – Siedliska przyrodnicze będące przedmiotem ochrony na specjalnym obszarze ochrony Siedlisk Wzgórza Krzymowskie (PLH320054)
-patrz oryginał
+Poz. 11991155 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 7 września 2023 r.
+zmieniające rozporządzenie w sprawie specjalnego obszaru ochrony siedlisk Wzgórza Krzymowskie (PLH320054) Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody z 2023 r. 1336, 1688 i 1890) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Klimatu i z dnia 14 października 2021 r. w sprawie specjalnego obszaru ochrony siedlisk Wzgórza Krzymowskie (PLH320054) 2393) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Klimatu i Środowiska: A. Moskwa SIEDLISKA PRZYRODNICZE BĘDĄCE PRZEDMIOTEM OCHRONY NA SPECJALNYM OBSZARZE OCHRONY SIEDLISK WZGÓRZA KRZYMOWSKIE (PLH320054) Lp. Kod Nazwa 1 3150 Starorzecza i naturalne eutroficzne zbiorniki wodne ze zbiorowiskami z Nympheion, Potamion 2 7110 Torfowiska wysokie z roślinnością torfotwórczą (żywe) 3 9110 Kwaśne buczyny (Luzulo-Fagetum) 4 9170 Grąd środkowoeuropejski i subkontynentalny (Galio-Carpinetum, Tilio-Carpinetum) 5 9190 Kwaśne dąbrowy (Quercion robori-petraeae) Bory i lasy bagienne (Vaccinio uliginosi Betuletum pubescentis, Vaccinio uliginosi Pinetum, 6 91D0 Pino mugo-Sphagnetum, Sphagno girgensohnii-Piceetum) i brzozowo-sosnowe bagienne lasy borealne 7 91E0 Alnenion Łęgi wierzbowe, glutinoso-incanae) topolowe, olszowe i olsy źródliskowe i jesionowe (Salicetum albo-fragilis, Populetum albae, 8 91F0 Łęgowe lasy dębowo-wiązowo-jesionowe (Ficario-Ulmetum)
 

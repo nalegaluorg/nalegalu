@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-01-13 |
 | Data wydania | 2023-02-23 |
-| Wejście w życie | 2023-03-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000337) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/337/text.pdf) |
 
@@ -60,11 +59,11 @@ source: "eli-html"
 
 **Art. 5.**
 
-1. W 2023 r. do świadczeń emerytalno-rentowych wypłacanych z funduszu emerytalno-rentowego, o którym mowa w art. 78 ustawy zmienianej w art. 1, nie stosuje się przepisów art. 29 ust. 10 i 12 oraz art. 52 ust. 2 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm.).
+1. W 2023 r. do świadczeń emerytalno-rentowych wypłacanych z funduszu emerytalno-rentowego, o którym mowa w art. 78 ustawy zmienianej w art. 1, nie stosuje się przepisów art. 29 ust. 10 i 12 oraz art. 52 ust. 2 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414.).
 
 2. O dokonanych zmianach planu finansowego funduszu emerytalno-rentowego, o którym mowa w art. 78 ustawy zmienianej w art. 1, Prezes Kasy Rolniczego Ubezpieczenia Społecznego niezwłocznie informuje ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw rozwoju wsi.
 
 **Art. 6.** W 2023 r. minister właściwy do spraw finansów publicznych, na wniosek dysponenta części 72 – Kasa Rolniczego Ubezpieczenia Społecznego, może dokonywać przeniesień wydatków budżetowych z części 32 – Rolnictwo, 33 – Rozwój Wsi, 35 – Rynki Rolne lub 62 – Rybołówstwo do części 72 – Kasa Rolniczego Ubezpieczenia Społecznego.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1, 3 i 4, które wchodzą w życie z dniem 1 marca 2023 r.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1, 3 i 4, które wchodzą w życie z dniem 1 marca 2023 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414.
 

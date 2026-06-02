@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 września 2011 r. o zmianie ustawy o transporcie kolejowym
+# Ustawa z dnia 16 września 2011 r. o zmianie ustawy o transporcie kolejowym Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw: 1) Parlamentu Europejskiego i Rady: a) dyrektywy 2008/57/WE z dnia 17 czerwca 2008 r. w sprawie interoperacyjności systemu kolei we Wspólnocie (Dz. Urz. UE L 191 z 18.07.2008, str. 1), b) dyrektywy 2008/110/WE z dnia 16 grudnia 2008 r. zmieniającej dyrektywę 2004/49/WE w sprawie bezpieczeństwa kolei wspólnotowych (dyrektywę w sprawie bezpieczeństwa kolei) (Dz. Urz. UE L 345 z 23.12.2008, str. 62); 2) Komisji 2009/131/WE z dnia 16 października 2009 r. zmieniającej załącznik VII do dyrektywy Parlamentu Europejskiego i Rady 2008/57/WE w sprawie interoperacyjności systemu kolei we Wspólnocie (Dz. Urz. UE L 273 z 17.10.2009, str. 12).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-09-16 |
 | Data wydania | 2011-10-27 |
-| Wejście w życie | 2012-01-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112301372) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1372/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2007 r. Nr 16, poz. 94, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2007 r. Nr 16, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374, z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505, z 2009 r. Nr 1, poz. 3, Nr 18, poz. 97, Nr 19, poz. 100, Nr 98, poz. 817, Nr 115, poz. 966, Nr 157, poz. 1241 i Nr 214, poz. 1658 oraz z 2011 r. Nr 5, poz. 13, Nr 102, poz. 586, Nr 106, poz. 622, Nr 187, poz. 1113, Nr 205, poz. 1209 i Nr 227, poz. 1367.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 pkt 3a otrzymuje brzmienie: „
 - **3a)** warunki zapewnienia interoperacyjności systemu kolei na terytorium Rzeczypospolitej Polskiej; ” ;
@@ -48,9 +47,9 @@ source: "eli-html"
     - **d)**
 
 - **6b)** dysponent – podmiot będący właścicielem pojazdu kolejowego lub posiadający prawo do korzystania z niego jako środka transportu, wpisany do krajowego rejestru pojazdów kolejowych;
-- **6c)** podmiot odpowiedzialny za utrzymanie pojazdu kolejowego (ECM) – podmiot obowiązany do zagwarantowania utrzymania pojazdu kolejowego, wpisany do krajowego rejestru pojazdów kolejowych, w szczególności przewoźnika kolejowego, zarządcę infrastruktury lub dysponenta;
+- **6c)** podmiot odpowiedzialny za utrzymanie pojazdu kolejowego (ECMECM – Entity in Charge of Maintenance.) – podmiot obowiązany do zagwarantowania utrzymania pojazdu kolejowego, wpisany do krajowego rejestru pojazdów kolejowych, w szczególności przewoźnika kolejowego, zarządcę infrastruktury lub dysponenta;
 - **6d)** podmiot zamawiający – podmiot, który zamawia zaprojektowanie, budowę, odnowienie lub modernizację podsystemu, w szczególności przewoźnika kolejowego, zarządcę infrastruktury lub dysponenta;
-- **6e)** krajowy rejestr pojazdów kolejowych (NVR) – rejestr pojazdów kolejowych dopuszczonych do eksploatacji na terytorium Rzeczypospolitej Polskiej; ” , pkt 13 i 14 otrzymują brzmienie: „
+- **6e)** krajowy rejestr pojazdów kolejowych (NVRNVR – National Vehicle Register.) – rejestr pojazdów kolejowych dopuszczonych do eksploatacji na terytorium Rzeczypospolitej Polskiej; ” , pkt 13 i 14 otrzymują brzmienie: „
     - **e)**
 
 - **13)** typ pojazdu kolejowego – pojazd kolejowy o określonych powtarzalnych rozwiązaniach konstrukcyjnych;
@@ -148,10 +147,10 @@ source: "eli-html"
 - **1)** wydawanie zezwoleń na dopuszczenie do eksploatacji podsystemów strukturalnych składających się na system kolei;
 - **2)** wydawanie zezwoleń na dopuszczenie do eksploatacji nowego lub zmodernizowanego taboru kolejowego jako podsystemu strukturalnego, nieobjętego technicznymi specyfikacjami interoperacyjności, zwanymi dalej „TSI”;
 - **3)** wydawanie świadectw dopuszczenia do eksploatacji typu budowli przeznaczonej do prowadzenia ruchu kolejowego lub świadectw dopuszczenia do eksploatacji typu urządzenia przeznaczonego do prowadzenia ruchu kolejowego lub świadectw dopuszczenia do eksploatacji typu pojazdu kolejowego oraz prowadzenie i aktualizacja rejestru tych świadectw;
-- **4)** prowadzenie spraw związanych z rozpatrywaniem wniosków o nadanie, zmianę lub wycofanie identyfikatora literowego dysponenta (VKM) oraz przekazywanie informacji w tym zakresie Europejskiej Agencji Kolejowej;
+- **4)** prowadzenie spraw związanych z rozpatrywaniem wniosków o nadanie, zmianę lub wycofanie identyfikatora literowego dysponenta (VKMVKM – Vehicle Keeper Marking.) oraz przekazywanie informacji w tym zakresie Europejskiej Agencji Kolejowej;
 - **5)** kontrola przewozu koleją towarów niebezpiecznych;
 - **6)** prowadzenie i aktualizacja krajowego rejestru pojazdów kolejowych;
-- **7)** nadawanie i zmiana europejskich numerów pojazdom kolejowym (EVN), wyrejestrowywanie pojazdów kolejowych oraz dokonywanie zmian pozostałych danych rejestrowych w krajowym rejestrze pojazdów kolejowych;
+- **7)** nadawanie i zmiana europejskich numerów pojazdom kolejowym (EVNEVN – European Vehicle Number.), wyrejestrowywanie pojazdów kolejowych oraz dokonywanie zmian pozostałych danych rejestrowych w krajowym rejestrze pojazdów kolejowych;
 - **8)** prowadzenie spraw związanych z rozpatrywaniem wniosków o odstępstwa, przekazywanie Komisji Europejskiej dokumentów niezbędnych do otrzymania odstępstw, o których mowa w art. 25f.
 
 3. Obowiązek uzyskania świadectw, o których mowa w ust. 2 pkt 3, nie dotyczy urządzeń technicznych podlegających przepisom o dozorze technicznym. ” , po ust. 7b dodaje się ust. 7c w brzmieniu: „
@@ -173,11 +172,11 @@ source: "eli-html"
     - **b)**
 
 - **2)** wydawania, przedłużania ważności, aktualizowania danych zawartych w licencji maszynisty oraz wydawania wtórników licencji – nie może być wyższa niż równowartość w złotych 150 euro, ustalona na zasadach określonych w pkt 1 lit. a;
-- **3)** nadzoru nad: podmiotami uprawnionymi do szkolenia i egzaminowania osób ubiegających się o licencję i świadectwo maszynisty, podmiotami uprawnionymi do przeprowadzania badań w celu uzyskania licencji maszynisty nie może być wyższa niż równowartość w złotych 2000 euro rocznie, ustalona przy zastosowaniu kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu sporządzenia dokumentu pokontrolnego;
+- **3)** nadzoru nad: podmiotami uprawnionymi do szkolenia i egzaminowania osób ubiegających się o licencję i świadectwo maszynisty, podmiotami uprawnionymi do przeprowadzania badań w celu uzyskania licencji maszynisty – nie może być wyższa niż równowartość w złotych 2000 euro rocznie, ustalona przy zastosowaniu kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu sporządzenia dokumentu pokontrolnego;
     - **a)**
     - **b)**
 
-- **4)** wydania zezwolenia na dopuszczenie do eksploatacji: podsystemów strukturalnych, nowego lub zmodernizowanego taboru kolejowego jako podsystemu strukturalnego nieobjętego TSI nie może być wyższa niż równowartość w złotych 3000 euro, ustalona na zasadach określonych w pkt 1 lit. a;
+- **4)** wydania zezwolenia na dopuszczenie do eksploatacji: podsystemów strukturalnych, nowego lub zmodernizowanego taboru kolejowego jako podsystemu strukturalnego nieobjętego TSI – nie może być wyższa niż równowartość w złotych 3000 euro, ustalona na zasadach określonych w pkt 1 lit. a;
     - **a)**
     - **b)**
 
@@ -208,11 +207,19 @@ source: "eli-html"
 
 - **1)** części akceptującej system zarządzania bezpieczeństwem, o którym mowa w art. 17a;
 - **2)** części sieciowej akceptującej uregulowania przyjęte przez przewoźnika kolejowego w celu spełnienia wymagań niezbędnych do bezpiecznego wykonywania przewozów kolejowych na danej sieci kolejowej; wymagania te dotyczą stosowania TSI i krajowych przepisów bezpieczeństwa łącznie z przepisami dotyczącymi eksploatacji sieci kolejowej, uznawania świadectw personelu kolejowego oraz uzyskania świadectw dopuszczenia do eksploatacji typu pojazdu kolejowego lub zezwolenia na dopuszczenie do eksploatacji pojazdu kolejowego na potrzeby kontroli zagrożeń i bezpiecznego wykonywania przewozów kolejowych na danej sieci kolejowej. ” ;
-- **11)** w art. 19: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) wykaz uzyskanych świadectw dopuszczenia do eksploatacji typu budowli przeznaczonych do prowadzenia ruchu kolejowego, świadectw dopuszczenia do eksploatacji typu urządzeń przeznaczonych do prowadzenia ruchu kolejowego oraz świadectw dopuszczenia do eksploatacji typu pojazdów kolejowych; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) wykaz uzyskanych zezwoleń na dopuszczenie do eksploatacji. ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) wykaz uzyskanych świadectw dopuszczenia do eksploatacji typu pojazdów kolejowych; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) wykaz uzyskanych zezwoleń na dopuszczenie do eksploatacji. ” , w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) wykaz uzyskanych świadectw dopuszczenia do eksploatacji typu budowli przeznaczonych do prowadzenia ruchu kolejowego oraz świadectw dopuszczenia do eksploatacji typu urządzeń przeznaczonych do prowadzenia ruchu kolejowego; ” , – pkt 3 otrzymuje brzmienie: „ 3) wykaz uzyskanych świadectw dopuszczenia do eksploatacji typu pojazdów kolejowych; ” ;
+- **11)** w art. 19: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** wykaz uzyskanych świadectw dopuszczenia do eksploatacji typu budowli przeznaczonych do prowadzenia ruchu kolejowego, świadectw dopuszczenia do eksploatacji typu urządzeń przeznaczonych do prowadzenia ruchu kolejowego oraz świadectw dopuszczenia do eksploatacji typu pojazdów kolejowych; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+- **5)** wykaz uzyskanych zezwoleń na dopuszczenie do eksploatacji. ” , w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **b)**
+
+- **1)** wykaz uzyskanych świadectw dopuszczenia do eksploatacji typu pojazdów kolejowych; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+- **5)** wykaz uzyskanych zezwoleń na dopuszczenie do eksploatacji. ” , w ust. 3: pkt 1 otrzymuje brzmienie: „
     - **c)**
 
+- **1)** wykaz uzyskanych świadectw dopuszczenia do eksploatacji typu budowli przeznaczonych do prowadzenia ruchu kolejowego oraz świadectw dopuszczenia do eksploatacji typu urządzeń przeznaczonych do prowadzenia ruchu kolejowego; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** wykaz uzyskanych świadectw dopuszczenia do eksploatacji typu pojazdów kolejowych; ” ;
 - **12)** w art. 22 uchyla się ust. 3 i 4;
 - **13)** art. 23 otrzymuje brzmienie: „
 
@@ -280,7 +287,7 @@ source: "eli-html"
 1. Pojazdy kolejowe przeznaczone do eksploatacji dzieli się na pojazdy:
 
 - **1)** zgodne z TSI,
-- **2)** niezgodne z TSI obowiązującymi w dniu wydania zezwolenia na dopuszczenie do eksploatacji tych pojazdów.
+- **2)** niezgodne z TSI – obowiązującymi w dniu wydania zezwolenia na dopuszczenie do eksploatacji tych pojazdów.
 
 2. Przed wprowadzeniem do eksploatacji pojazd kolejowy powinien uzyskać od Prezesa UTK zezwolenie na dopuszczenie do eksploatacji, z zastrzeżeniem art. 23c. Zezwolenie na dopuszczenie do eksploatacji pojazdu kolejowego może zawierać warunki użytkowania tego pojazdu kolejowego.
 
@@ -314,7 +321,7 @@ source: "eli-html"
 
 - **1)** bezpieczne prowadzenie ruchu kolejowego lub
 - **2)** bezpieczną eksploatację pojazdów kolejowych, lub
-- **3)** ochronę przeciwpożarową i ochronę środowiska Prezes UTK, w drodze decyzji, cofa uprawnienie, o którym mowa w ust. 14, lub może cofnąć zezwolenie na dopuszczenie do eksploatacji wydane na podstawie art. 23f ust. 4 albo art. 23g ust. 5, stosując przegląd certyfikatów bezpieczeństwa i autoryzacji bezpieczeństwa. Nie wymaga uzyskania zezwolenia na dopuszczenie do eksploatacji pojazd kolejowy zgodny z TSI, który uzyskał zezwolenie na dopuszczenie do eksploatacji w innym państwie członkowskim Unii Europejskiej, jeżeli TSI dotyczące pojazdów nie określają punktów otwartych i szczególnych przypadków, a pojazd ten porusza się wyłącznie po sieci kolejowej zgodnej z TSI, które nie określają punktów otwartych i szczególnych przypadków.
+- **3)** ochronę przeciwpożarową i ochronę środowiska – Prezes UTK, w drodze decyzji, cofa uprawnienie, o którym mowa w ust. 14, lub może cofnąć zezwolenie na dopuszczenie do eksploatacji wydane na podstawie art. 23f ust. 4 albo art. 23g ust. 5, stosując przegląd certyfikatów bezpieczeństwa i autoryzacji bezpieczeństwa. Nie wymaga uzyskania zezwolenia na dopuszczenie do eksploatacji pojazd kolejowy zgodny z TSI, który uzyskał zezwolenie na dopuszczenie do eksploatacji w innym państwie członkowskim Unii Europejskiej, jeżeli TSI dotyczące pojazdów nie określają punktów otwartych i szczególnych przypadków, a pojazd ten porusza się wyłącznie po sieci kolejowej zgodnej z TSI, które nie określają punktów otwartych i szczególnych przypadków.
 
 1. Zezwolenie na dopuszczenie do eksploatacji pojazdu kolejowego stanowi zezwolenie na dopuszczenie typu pojazdu kolejowego.
 
@@ -417,7 +424,7 @@ source: "eli-html"
 
 - **1)** zarejestrowanych w państwie innym niż państwo członkowskie Unii Europejskiej i utrzymywanych zgodnie z przepisami obowiązującymi w tym państwie,
 - **2)** eksploatowanych na liniach kolejowych, na których szerokość torów różni się od szerokości torów głównej sieci kolejowej w Rzeczypospolitej Polskiej i w przypadku, których spełnienie warunków określonych w ust. 2, zapewnia się w drodze umów międzynarodowych z państwami innymi niż państwo członkowskie Unii Europejskiej,
-- **3)** wpisanych do rejestru zabytków lub do inwentarza muzealiów oraz pojazdów kolejowych wojskowych i pojazdów kolejowych specjalnych, których przejazd wymaga uzyskania zezwolenia Prezesa UTK realizuje przewoźnik kolejowy przemieszczający te wagony na terytorium Rzeczypospolitej Polskiej.
+- **3)** wpisanych do rejestru zabytków lub do inwentarza muzealiów oraz pojazdów kolejowych wojskowych i pojazdów kolejowych specjalnych, których przejazd wymaga uzyskania zezwolenia Prezesa UTK – realizuje przewoźnik kolejowy przemieszczający te wagony na terytorium Rzeczypospolitej Polskiej.
 
 8. Certyfikat dla podmiotu odpowiedzialnego za utrzymanie pojazdu kolejowego (ECM) w odniesieniu do wagonów towarowych, o którym mowa w ust. 5, wydaje Prezes UTK, na okres nie dłuższy niż pięć lat, przed wpisaniem pojazdu kolejowego do krajowego rejestru pojazdów kolejowych. Informacja o pełnieniu roli podmiotu odpowiedzialnego za utrzymanie pojazdu kolejowego zostaje wpisana do autoryzacji bezpieczeństwa, wydawanej zgodnie z art. 18a, lub certyfikatu bezpieczeństwa, wydawanego zgodnie z art. 18b. ” ;
 
@@ -482,7 +489,7 @@ source: "eli-html"
 6. Po uzyskaniu zezwolenia na dopuszczenie do eksploatacji podsystemu Prezes UTK, w trakcie jego eksploatacji, może sprawdzić spełnienie wymagań bezpieczeństwa zawartych w TSI lub przepisach wydanych na podstawie art. 25t w przypadku:
 
 - **1)** infrastruktury – w ramach wydawania autoryzacji bezpieczeństwa, zgodnie z art. 18a, i kontroli spełnienia wymagań zawartych w autoryzacji bezpieczeństwa,
-- **2)** pojazdów – w ramach wydawania certyfikatu bezpieczeństwa, zgodnie z art. 18b, i kontroli spełnienia wymagań zawartych w certyfikacie bezpieczeństwa stosując procedury oceny i weryfikacji ustanowione w TSI lub przepisach wydanych na podstawie art. 25t.
+- **2)** pojazdów – w ramach wydawania certyfikatu bezpieczeństwa, zgodnie z art. 18b, i kontroli spełnienia wymagań zawartych w certyfikacie bezpieczeństwa – stosując procedury oceny i weryfikacji ustanowione w TSI lub przepisach wydanych na podstawie art. 25t.
 
 7. Producent podsystemu albo jego upoważniony przedstawiciel, zarządca, przewoźnik kolejowy, dysponent, importer, inwestor albo podmiot zamawiający dołącza dokumentację związaną z oceną zgodności do deklaracji weryfikacji WE podsystemu, którą przesyła Prezesowi UTK oraz właściwemu organowi każdego państwa członkowskiego Unii Europejskiej, które o to wystąpi.
 
@@ -498,7 +505,7 @@ source: "eli-html"
 
 - **1)** projektowania,
 - **2)** budowy,
-- **3)** końcowych prób podsystemu na podstawie informacji zawartych w TSI oraz w rejestrze infrastruktury i w europejskim rejestrze typów pojazdów dopuszczonych do eksploatacji.
+- **3)** końcowych prób podsystemu – na podstawie informacji zawartych w TSI oraz w rejestrze infrastruktury i w europejskim rejestrze typów pojazdów dopuszczonych do eksploatacji.
 
 5. Na wniosek producenta podsystemu albo jego upoważnionego przedstawiciela, zarządcy, przewoźnika kolejowego, dysponenta, importera, inwestora albo podmiotu zamawiającego, po dokonaniu wstępnej pozytywnej oceny zgodności podsystemu, notyfikowana jednostka certyfikująca wydaje pośredni certyfikat weryfikacji WE podsystemu odpowiednio na etapie projektowania lub na etapie budowy.
 
@@ -579,7 +586,7 @@ source: "eli-html"
 - **1)** określonych w art. 25f lub
 - **2)** nieobjętych zakresem stosowania TSI, lub
 - **3)** nieujętych we właściwej TSI, lub
-- **4)** szczególnych i punktów otwartych dla których konieczne jest zastosowanie przepisów technicznych niezawartych we właściwej TSI Prezes UTK ustala listę właściwych krajowych specyfikacji technicznych i dokumentów normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań dotyczących interoperacyjności systemu kolei.
+- **4)** szczególnych i punktów otwartych dla których konieczne jest zastosowanie przepisów technicznych niezawartych we właściwej TSI – Prezes UTK ustala listę właściwych krajowych specyfikacji technicznych i dokumentów normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań dotyczących interoperacyjności systemu kolei.
 
 2. Prezes UTK aktualizuje i przekazuje ministrowi właściwemu do spraw transportu listę, o której mowa w ust. 1:
 
@@ -678,7 +685,7 @@ source: "eli-html"
 - **5)** oznaczenie podmiotu odpowiedzialnego za utrzymanie pojazdu kolejowego (ECM);
 - **6)** odnośniki do europejskiego rejestru typów pojazdów kolejowych prowadzonego przez Agencję.
 
-2. Dostęp do danych z krajowego rejestru pojazdów kolejowych mają podmioty określone w przepisach wydanych przez Komisję Europejską dotyczących wspólnej specyfikacji krajowego rejestru pojazdów kolejowych, z tym że:
+2. Dostęp do danych z krajowego rejestru pojazdów kolejowych mają podmioty określone w przepisach wydanych przez Komisję Europejską dotyczących wspólnej specyfikacji krajowego rejestru pojazdów kolejowychDecyzja Komisji nr 2011/107/UE z dnia 10 lutego 2011 r. zmieniająca decyzję 2007/756/WE przyjmującą wspólną specyfikację dotyczącą krajowego rejestru pojazdów kolejowych (Dz. Urz. UE L 43 z 17.02.2011, str. 33)., z tym że:
 
 - **1)** Prezes UTK jako jednostka rejestrująca na terytorium Rzeczypospolitej Polskiej – posiada nieograniczony dostęp do odczytu i możliwość dokonywania zmian w danych rejestrowych;
 - **2)** posiadacz, przez którego rozumie się dysponenta, zgodnie z art. 4 pkt 6b – posiada dostęp do odczytu danych dotyczących pojazdów, których jest dysponentem, oraz brak możliwości ich aktualizacji;
@@ -785,5 +792,5 @@ source: "eli-html"
 - **1)** art. 23 ust. 4 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 23 ust. 7 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą;
 - **2)** art. 25t ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 25ta ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw: 1) Parlamentu Europejskiego i Rady: a) dyrektywy 2008/57/WE z dnia 17 czerwca 2008 r. w sprawie interoperacyjności systemu kolei we Wspólnocie (Dz. Urz. UE L 191 z 18.07.2008, str. 1), b) dyrektywy 2008/110/WE z dnia 16 grudnia 2008 r. zmieniającej dyrektywę 2004/49/WE w sprawie bezpieczeństwa kolei wspólnotowych (dyrektywę w sprawie bezpieczeństwa kolei) (Dz. Urz. UE L 345 z 23.12.2008, str. 62); 2) Komisji 2009/131/WE z dnia 16 października 2009 r. zmieniającej załącznik VII do dyrektywy Parlamentu Europejskiego i Rady 2008/57/WE w sprawie interoperacyjności systemu kolei we Wspólnocie (Dz. Urz. UE L 273 z 17.10.2009, str. 12). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374, z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505, z 2009 r. Nr 1, poz. 3, Nr 18, poz. 97, Nr 19, poz. 100, Nr 98, poz. 817, Nr 115, poz. 966, Nr 157, poz. 1241 i Nr 214, poz. 1658 oraz z 2011 r. Nr 5, poz. 13, Nr 102, poz. 586, Nr 106, poz. 622, Nr 187, poz. 1113, Nr 205, poz. 1209 i Nr 227, poz. 1367. 3) ECM – Entity in Charge of Maintenance. 4) NVR – National Vehicle Register. 5) VKM – Vehicle Keeper Marking. 6) EVN – European Vehicle Number. 7) Decyzja Komisji nr 2011/107/UE z dnia 10 lutego 2011 r. zmieniająca decyzję 2007/756/WE przyjmującą wspólną specyfikację dotyczącą krajowego rejestru pojazdów kolejowych (Dz. Urz. UE L 43 z 17.02.2011, str. 33).
 

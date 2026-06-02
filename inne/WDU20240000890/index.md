@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 12 czerwca 2024 r. w sprawie wysokości wynagrodzenia członków Komisji Odwoławczej do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych
+# Rozporządzenie Ministra Zdrowiaz dnia 12 czerwca 2024 r. w sprawie wysokości wynagrodzenia członków Komisji Odwoławczej do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-12 |
 | Data wydania | 2024-06-17 |
-| Wejście w życie | 2024-07-02 |
 | Ostatnia zmiana | 2024-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000890) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/890/text.pdf) |
 
@@ -37,9 +36,7 @@ Członkom Komisji Odwoławczej do spraw Świadczeń z Funduszu Kompensacyjnego Z
 3)
 1400 zł – dla członka Komisji wyznaczonego do przygotowania i przedstawienia na posiedzeniu projektu orzeczenia Komisji,
 4)
-1200 zł – dla członków Komisji, z wyłączeniem członków, o których mowa w pkt 1–3
-nie więcej jednak niż 9300 zł miesięcznie.
+1200 zł – dla członków Komisji, z wyłączeniem członków, o których mowa w pkt 1–3 – nie więcej jednak niż 9300 zł miesięcznie.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 8 maja 2020 r. w sprawie osłony meteorologicznej lotnictwa cywilnego
+# Rozporządzenie Ministra Infrastrukturyz dnia 8 maja 2020 r. w sprawie osłony meteorologicznej lotnictwa cywilnego Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-05-08 |
 | Data wydania | 2020-05-18 |
-| Wejście w życie | 2020-06-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000881) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/881/text.pdf) |
 
@@ -39,13 +38,13 @@ dokumentacja lotniczo-meteorologiczna – zestaw dokumentów, z uwzględnieniem 
 3)
 instytucja – instytucję zapewniającą służby meteorologiczne;
 4)
-Konwencja – Konwencję o międzynarodowym lotnictwie cywilnym, sporządzoną w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212 i 214, z późn. zm.);
+Konwencja – Konwencję o międzynarodowym lotnictwie cywilnym, sporządzoną w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212 i 214, z późn. zm.Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371.);
 5)
 lotnisko kontrolowane – lotnisko, na którym jest zapewniana służba kontroli ruchu lotniczego w odniesieniu do ruchu lotniskowego;
 6)
 Prezes Urzędu – Prezesa Urzędu Lotnictwa Cywilnego;
 7)
-rozporządzenie nr 2017/373 – rozporządzenie wykonawcze Komisji (UE) 2017/373 z dnia 1 marca 2017 r. ustanawiające wspólne wymogi dotyczące instytucji zapewniających zarządzanie ruchem lotniczym/służby żeglugi powietrznej i inne funkcje sieciowe zarządzania ruchem lotniczym oraz nadzoru nad nimi, uchylające rozporządzenie (WE) nr 482/2008, rozporządzenia wykonawcze (UE) nr 1034/2011, (UE) nr 1035/2011 i (UE) 2016/1377 oraz zmieniające rozporządzenie (UE) nr 677/2011 (Dz. Urz. UE L 62 z 08.03.2017, str. 1, z późn. zm.);
+rozporządzenie nr 2017/373 – rozporządzenie wykonawcze Komisji (UE) 2017/373 z dnia 1 marca 2017 r. ustanawiające wspólne wymogi dotyczące instytucji zapewniających zarządzanie ruchem lotniczym/służby żeglugi powietrznej i inne funkcje sieciowe zarządzania ruchem lotniczym oraz nadzoru nad nimi, uchylające rozporządzenie (WE) nr 482/2008, rozporządzenia wykonawcze (UE) nr 1034/2011, (UE) nr 1035/2011 i (UE) 2016/1377 oraz zmieniające rozporządzenie (UE) nr 677/2011 (Dz. Urz. UE L 62 z 08.03.2017, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 286 z 07.11.2019, str. 31.);
 8)
 rozporządzenie nr 2018/1139 – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2018/1139 z dnia 4 lipca 2018 r. w sprawie wspólnych zasad w dziedzinie lotnictwa cywilnego i utworzenia Agencji Unii Europejskiej ds. Bezpieczeństwa Lotniczego oraz zmieniające rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 2111/2005, (WE) nr 1008/2008, (UE) nr 996/2010, (UE) nr 376/2014 i dyrektywy Parlamentu Europejskiego i Rady 2014/30/UE i 2014/53/UE, a także uchylające rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 552/2004 i (WE) nr 216/2008 i rozporządzenie Rady (EWG) nr 3922/91 (Dz. Urz. UE L 212 z 22.08.2018, str. 1);
 9)
@@ -124,7 +123,7 @@ Na lotnisku z drogą startową przyrządową, dla którego ustanowiono procedur�
 § 6.
 Instytucja:
 1)
-wykorzystuje systemy oraz ich części składowe, spełniające wymagania w zakresie interoperacyjności określone w aktach delegowanych wydanych na podstawie art. 47 rozporządzenia nr 2018/1139;
+wykorzystuje systemy oraz ich części składowe, spełniające wymagania w zakresie interoperacyjności określone w aktach delegowanych wydanych na podstawie art. 47 rozporządzenia nr 2018/1139Do dnia rozpoczęcia stosowania aktów delegowanych, o których mowa w art. 47 rozporządzenia nr 2018/1139, na podstawie art. 139 ust. 2 tego rozporządzenia, stosuje się przepisy art. 4, 5, 6, 6a i 7 rozporządzenia (WE) nr 552/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. w sprawie interoperacyjności Europejskiej Sieci Zarządzania Ruchem Lotniczym (Dz. Urz. UE L 96 z 31.03.2004, str. 26 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 46, Dz. Urz. UE L 173 z 03.07.2007, str. 44, Dz. Urz. UE L 153 z 12.06.2008, str. 42 oraz Dz. Urz. UE L 300 z 14.11.2009, str. 34) oraz załączniki III i IV do tego rozporządzenia.;
 2)
 ustanawia system zarządzania bezpieczeństwem (SMS – Safety Management System ), spełniający wymagania określone w pkt ATS.OR.200-ATS.OR.210 załącznika IV do rozporządzenia nr 2017/373, albo zarządza bezpieczeństwem przez:
 a)
@@ -157,6 +156,5 @@ Udostępnianie, o którym mowa w ust. 1, obejmuje przekazywanie danych i informa
 § 10.
 Traci moc rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 3 października 2013 r. w sprawie osłony meteorologicznej lotnictwa cywilnego (Dz. U. poz. 1202).
 § 11.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257). 2) Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 286 z 07.11.2019, str. 31. 4) Do dnia rozpoczęcia stosowania aktów delegowanych, o których mowa w art. 47 rozporządzenia nr 2018/1139, na podstawie art. 139 ust. 2 tego rozporządzenia, stosuje się przepisy art. 4, 5, 6, 6a i 7 rozporządzenia (WE) nr 552/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. w sprawie interoperacyjności Europejskiej Sieci Zarządzania Ruchem Lotniczym (Dz. Urz. UE L 96 z 31.03.2004, str. 26 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 46, Dz. Urz. UE L 173 z 03.07.2007, str. 44, Dz. Urz. UE L 153 z 12.06.2008, str. 42 oraz Dz. Urz. UE L 300 z 14.11.2009, str. 34) oraz załączniki III i IV do tego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257). 2) Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 286 z 07.11.2019, str. 31. 4) Do dnia rozpoczęcia stosowania aktów delegowanych, o których mowa w art. 47 rozporządzenia nr 2018/1139, na podstawie art. 139 ust. 2 tego rozporządzenia, stosuje się przepisy art. 4, 5, 6, 6a i 7 rozporządzenia (WE) nr 552/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. w sprawie interoperacyjności Europejskiej Sieci Zarządzania Ruchem Lotniczym (Dz. Urz. UE L 96 z 31.03.2004, str. 26 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 46, Dz. Urz. UE L 173 z 03.07.2007, str. 44, Dz. Urz. UE L 153 z 12.06.2008, str. 42 oraz Dz. Urz. UE L 300 z 14.11.2009, str. 34) oraz załączniki III i IV do tego rozporządzenia.
 

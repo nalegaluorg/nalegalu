@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-11-09 |
 | Data wydania | 2015-12-03 |
-| Wejście w życie | 2015-12-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002026) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2026/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowe przeznaczenie i warunki udzielania wsparcia na rzecz mikroprzedsiębiorców, małych lub średnich przedsiębiorców w obszarze zamówień publicznych oraz w zakresie przedsięwzięć realizowanych w ramach partnerstwa publiczno-prywatnego Rozdział 3 – Szczegółowe przeznaczenie i warunki udzielania wsparcia w zakresie identyfikacji potrzeb rozwojowych przedsiębiorstw Rozdział 4 – Szczegółowe przeznaczenie i warunki udzielania wsparcia na utworzenie lub prowadzenie sektorowych rad do spraw kompetencji Rozdział 5 – Tryb udzielania pomocy finansowej Rozdział 6 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 6b ust. 10a ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2014 r. poz. 1804 oraz z 2015 r. poz. 978 i 1240) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości, zwaną dalej „Agencją”, pomocy finansowej w ramach Programu Operacyjnego Wiedza Edukacja Rozwój 2014–2020.
 § 2.
@@ -62,8 +62,7 @@ w ramach wsparcia, o którym mowa w § 6 ust. 1 i 3,
 2)
 w ramach wsparcia, o którym mowa w § 8 ust. 1,
 3)
-w ramach wsparcia, o którym mowa w § 10
-stanowi pomoc de minimis .
+w ramach wsparcia, o którym mowa w § 10 – stanowi pomoc de minimis .
 2.
 Pomoc de minimis może być udzielona przedsiębiorcy prowadzącemu działalność we wszystkich sektorach, z wyłączeniem przypadków, o których mowa w art. 1 ust. 1 rozporządzenia Komisji (UE) nr 1407/2013.
 3.
@@ -77,6 +76,7 @@ Pomoc publiczna nie może być udzielona ani wypłacona przedsiębiorcom, na kt�
 Pomoc publiczna wywołuje efekt zachęty, co oznacza, że jest udzielana przedsiębiorcy pod warunkiem złożenia pisemnego wniosku o udzielenie pomocy przed podjęciem prawnie wiążącego zobowiązania do udziału w szkoleniu lub usłudze doradczej przedsiębiorcy lub pracowników przedsiębiorstwa.
 4.
 Pomoc publiczna, o której mowa w art. 4 ust. 1 lit. d oraz lit. n rozporządzenia Komisji (UE) nr 651/2014, stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielona po zatwierdzeniu jej przez Komisję Europejską.
+Szczegółowe przeznaczenie i warunki udzielania wsparcia na rzecz mikroprzedsiębiorców, małych lub średnich przedsiębiorców w obszarze zamówień publicznych oraz w zakresie przedsięwzięć realizowanych w ramach partnerstwa publiczno-prywatnego
 § 6.
 1.
 Agencja może udzielić wsparcia na realizację projektów szkoleniowych lub doradczych dla mikroprzedsiębiorców, małych lub średnich przedsiębiorców w zakresie funkcjonowania na rynku zamówień publicznych lub zasad realizacji przedsięwzięć w formule partnerstwa publiczno-prywatnego:
@@ -87,7 +87,7 @@ podmiotom działającym na rzecz rozwoju gospodarczego;
 3)
 reprezentatywnym organizacjom związkowym i pracodawców w rozumieniu przepisów ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. poz. 1240);
 4)
-organizacjom pracodawców w rozumieniu ustawy z dnia 23 maja 1991 r. o organizacjach pracodawców (Dz. U. Nr 55, poz. 235, z późn. zm.);
+organizacjom pracodawców w rozumieniu ustawy z dnia 23 maja 1991 r. o organizacjach pracodawców (Dz. U. Nr 55, poz. 235, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 34, poz. 148, z 1997 r. Nr 121, poz. 769, z 2000 r. Nr 60, poz. 700 i Nr 107, poz. 1127, z 2001 r. Nr 100, poz. 1080, z 2004 r. Nr 240, poz. 2407 oraz z 2015 r. poz. 1240.);
 5)
 organizacjom samorządu gospodarczego w rozumieniu ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2015 r. poz. 1182 i 1782);
 6)
@@ -133,6 +133,7 @@ Podstawą wyliczenia wielkości pomocy de minimis dla mikroprzedsiębiorcy, mał
 Podstawą wyliczenia wielkości pomocy publicznej dla mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy w przypadku wsparcia, o którym mowa w § 6 ust. 3, przeznaczonego na potrzeby danego przedsiębiorcy, są wydatki, o których mowa w ust. 1 pkt 1–5, z zastrzeżeniem, że wydatki, o których mowa w ust. 1 pkt 6 i 7, stanowią podstawę do wyliczenia pomocy de minimis .
 9.
 Podstawą wyliczenia wielkości pomocy de minimis dla podmiotu, o którym mowa w § 6 ust. 1, są wydatki, o których mowa w ust. 1 pkt 6 i 7.
+Szczegółowe przeznaczenie i warunki udzielania wsparcia w zakresie identyfikacji potrzeb rozwojowych przedsiębiorstw
 § 8.
 1.
 Agencja może udzielić wsparcia na realizację projektów w zakresie identyfikacji potrzeb rozwojowych przedsiębiorstw:
@@ -179,6 +180,7 @@ W przypadku gdy udzielenie pomocy, o której mowa w ust. 4, spowodowałoby przek
 Podstawą wyliczenia wielkości pomocy de minimis lub pomocy publicznej dla mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy w przypadku wsparcia, o którym mowa w § 8 ust. 1, są wydatki, o których mowa w ust. 1 pkt 3.
 7.
 Podstawą wyliczenia wielkości pomocy de minimis dla organizacji, o których mowa w § 8 ust. 1, są wydatki, o których mowa w ust. 1 pkt 7 i 8.
+Szczegółowe przeznaczenie i warunki udzielania wsparcia na utworzenie lub prowadzenie sektorowych rad do spraw kompetencji
 § 10.
 1.
 Agencja udziela wsparcia na utworzenie lub prowadzenie sektorowej rady do spraw kompetencji:
@@ -189,7 +191,7 @@ podmiotom działającym na rzecz rozwoju gospodarczego;
 3)
 podmiotom działającym na rzecz zatrudnienia, rozwoju zasobów ludzkich lub potencjału adaptacyjnego przedsiębiorstw;
 4)
-partnerom społecznym i gospodarczym w rozumieniu ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2014 r. poz. 1649, z późn. zm.);
+partnerom społecznym i gospodarczym w rozumieniu ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2014 r. poz. 1649, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 349, 1240, 1358 i 1890.);
 5)
 reprezentatywnym organizacjom związkowym i pracodawców w rozumieniu przepisów ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego;
 6)
@@ -227,20 +229,34 @@ Wsparcie realizowane w formie szkoleń i doradztwa, o którym mowa w ust. 1 pkt 
 Wsparcie, o którym mowa w ust. 1 pkt 4 i 5, stanowi pomoc de minimis dla przedsiębiorców, podmiotów, partnerów lub organizacji, o których mowa w § 10 ust. 1.
 § 12.
 Do wydatków kwalifikowalnych na utworzenie lub prowadzenie sektorowej rady do spraw kompetencji nie zalicza się wydatków poniesionych wcześniej niż na 30 dni przed zawarciem umowy o udzielenie wsparcia lub przed dniem rozpoczęcia realizacji projektu.
+Tryb udzielania pomocy finansowej
 § 13.
-Agencja udziela pomocy finansowej w trybie konkursowym, o którym mowa w art. 38 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, z późn. zm.).
+Agencja udziela pomocy finansowej w trybie konkursowym, o którym mowa w art. 38 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 378, 1130, 1240 i 1767.).
+Przepis końcowy
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 34, poz. 148, z 1997 r. Nr 121, poz. 769, z 2000 r. Nr 60, poz. 700 i Nr 107, poz. 1127, z 2001 r. Nr 100, poz. 1080, z 2004 r. Nr 240, poz. 2407 oraz z 2015 r. poz. 1240. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 349, 1240, 1358 i 1890. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 378, 1130, 1240 i 1767.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowe przeznaczenie i warunki udzielania wsparcia na rzecz mikroprzedsiębiorców, małych lub średnich przedsiębiorców w obszarze zamówień publicznych oraz w zakresie przedsięwzięć realizowanych w ramach partnerstwa publiczno-prywatnego
+#### Rozdział 2 – Szczegółowe przeznaczenie i warunki udzielania wsparcia na rzecz mikroprzedsiębiorców, małych lub średnich przedsiębiorców w obszarze zamówień publicznych oraz w zakresie przedsięwzięć realizowanych w ramach partnerstwa publiczno-prywatnego
 
-#### Rozdział 3 Szczegółowe przeznaczenie i warunki udzielania wsparcia w zakresie identyfikacji potrzeb rozwojowych przedsiębiorstw
+#### Rozdział 3 – Szczegółowe przeznaczenie i warunki udzielania wsparcia w zakresie identyfikacji potrzeb rozwojowych przedsiębiorstw
 
-#### Rozdział 4 Szczegółowe przeznaczenie i warunki udzielania wsparcia na utworzenie lub prowadzenie sektorowych rad do spraw kompetencji
+#### Rozdział 4 – Szczegółowe przeznaczenie i warunki udzielania wsparcia na utworzenie lub prowadzenie sektorowych rad do spraw kompetencji
 
-#### Rozdział 5 Tryb udzielania pomocy finansowej
+#### Rozdział 5 – Tryb udzielania pomocy finansowej
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

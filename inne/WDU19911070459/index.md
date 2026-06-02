@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1991-10-11 |
 | Data wydania | 1991-11-22 |
-| Wejście w życie | 1991-11-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911070459) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/459/text.pdf) |
 
@@ -31,8 +30,11 @@ source: "eli-html"
 - **1)** art. 1 otrzymuje brzmienie: „ Kościół Katolicki, zwany dalej „Kościołem”, działa w Rzeczypospolitej Polskiej we wszystkich swoich obrządkach. ” ;
 - **2)** w art. 60 w ust. 1 pkt 5 otrzymuje brzmienie: „
 - **5)** znajdują się na nich cmentarze lub obiekty sakralne wraz z budynkami towarzyszącymi; dotyczy to również obiektów położonych na obszarze miasta stołecznego Warszawy, nie dotyczy natomiast kościołów garnizonowych. ” ;
-- **3)** w art. 61: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) przejętych w toku wykonywania ustawy o dobrach martwej ręki, jeżeli nie wydzielono z nich należnych w myśl tej ustawy gospodarstw rolnych proboszczów. Z gruntów tych mogą być również wydzielone gospodarstwa rolne do 50 ha dla poszczególnych diecezji, seminariów duchownych i domów zakonnych prowadzących działalność określoną w art. 20 i 39; dla pozostałych domów zakonnych mogą być wydzielone gospodarstwa rolne do 5 ha. W skład gospodarstw rolnych mogą wchodzić także grunty leśne stanowiące część składową przejętych uprzednio nieruchomości ziemskich, ” – po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) przejętych na podstawie dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m.st. Warszawy (Dz. U. Nr 50, poz. 279) ” , ust. 3 otrzymuje brzmienie: „
+- **3)** w art. 61: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** przejętych w toku wykonywania ustawy o dobrach martwej ręki, jeżeli nie wydzielono z nich należnych w myśl tej ustawy gospodarstw rolnych proboszczów. Z gruntów tych mogą być również wydzielone gospodarstwa rolne do 50 ha dla poszczególnych diecezji, seminariów duchownych i domów zakonnych prowadzących działalność określoną w art. 20 i 39; dla pozostałych domów zakonnych mogą być wydzielone gospodarstwa rolne do 5 ha. W skład gospodarstw rolnych mogą wchodzić także grunty leśne stanowiące część składową przejętych uprzednio nieruchomości ziemskich, ” po pkt 6 dodaje się pkt 6a w brzmieniu: „
+- **6a)** przejętych na podstawie dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m.st. Warszawy (Dz. U. Nr 50, poz. 279) ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. W odniesieniu do nieruchomości objętych dekretem z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m.st. Warszawy (Dz. U. Nr 50, poz. 279) stosuje się odpowiednio art. 63 ust. 1, z tym że w odniesieniu do gruntów objętych tym dekretem przedmiotem postępowania regulacyjnego jest ustanowienie użytkowania wieczystego. ” , w ust. 4 skreśla się pkt 2;

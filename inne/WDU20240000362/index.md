@@ -31,10 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 kwietnia 2017 r. o czasie pracy na statkach żeglugi śródlądowej (Dz. U. poz. 993), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 lipca 2023 r. o zmianie ustawy o żegludze śródlądowej oraz ustawy o czasie pracy na statkach żeglugi śródlądowej (Dz. U. poz. 1588) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 marca 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 12 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o żegludze śródlądowej oraz ustawy o czasie pracy na statkach żeglugi śródlądowej (Dz. U. poz. 1588), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 12 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o żegludze śródlądowej oraz ustawy o czasie pracy na statkach żeglugi śródlądowej (Dz. U. poz. 1588), który stanowi: „
 
-**Art. 12.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 7 kwietnia 2017 r. o czasie pracy na statkach żeglugi śródlądowej
+**Art. 12.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 7 kwietnia 2017 r. o czasie pracy na statkach żeglugi śródlądowejNiniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Rady 2014/112/UE z dnia 19 grudnia 2014 r. wykonującą Umowę europejską dotyczącą niektórych aspektów organizacji czasu pracy w transporcie śródlądowym, zawartą przez Europejskie Stowarzyszenie Żeglugi Śródlądowej (EBU), Europejską Organizację Kapitanów (ESO) i Europejską Federację Pracowników Transportu (ETF) (Dz. Urz. UE L 367 z 23.12.2014, str. 86).
 
 **Art. 1.** Ustawę stosuje się do osób wykonujących pracę na statku żeglugi śródlądowej zatrudnionych na podstawie umowy o pracę jako członkowie załogi lub personel pokładowy, zwanych dalej „pracownikami”.
 
@@ -104,9 +103,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 2. Czas pracy w porze nocnej na statku żeglugi śródlądowej nie może przekraczać:
 
 - **1)** 7 godzin w każdym okresie 24-godzinnym oraz
-- **2)** 42 godzin w każdym okresie 7-dniowym.
-
-3. Pracowników wykonujących pracę w porze nocnej, którzy zostali uznani za niezdolnych do wykonywania pracy w porze nocnej na podstawie świadectwa zdrowia, o którym mowa w art. 36b ust. 2 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej, przenosi się do wykonywania pracy zgodnej z zajmowanym stanowiskiem poza porę nocną.
+- **2)** 42 godzin w każdym okresie 7-dniowym. 3W brzmieniu ustalonym przez art. 2 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o żegludze śródlądowej oraz ustawy o czasie pracy na statkach żeglugi śródlądowej (Dz. U. poz. 1588), która weszła w życie z dniem 25 sierpnia 2023 r.. Pracowników wykonujących pracę w porze nocnej, którzy zostali uznani za niezdolnych do wykonywania pracy w porze nocnej na podstawie świadectwa zdrowia, o którym mowa w art. 36b ust. 2 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej, przenosi się do wykonywania pracy zgodnej z zajmowanym stanowiskiem poza porę nocną.
 
 **Art. 10.**
 
@@ -134,5 +131,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 5. Kopię ewidencji pracownik przechowuje przez okres roku. Okres rozliczeniowy czasu pracy na statku żeglugi śródlądowej trwający w dniu wejścia w życie niniejszej ustawy kończy się z upływem czasu, na jaki został przyjęty.
 
-**Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 22 maja 2017 r.. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Rady 2014/112/UE z dnia 19 grudnia 2014 r. wykonującą Umowę europejską dotyczącą niektórych aspektów organizacji czasu pracy w transporcie śródlądowym, zawartą przez Europejskie Stowarzyszenie Żeglugi Śródlądowej (EBU), Europejską Organizację Kapitanów (ESO) i Europejską Federację Pracowników Transportu (ETF) (Dz. Urz. UE L 367 z 23.12.2014, str. 86). 2) W brzmieniu ustalonym przez art. 2 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o żegludze śródlądowej oraz ustawy o czasie pracy na statkach żeglugi śródlądowej (Dz. U. poz. 1588), która weszła w życie z dniem 25 sierpnia 2023 r. 3) Ustawa została ogłoszona w dniu 22 maja 2017 r.
 

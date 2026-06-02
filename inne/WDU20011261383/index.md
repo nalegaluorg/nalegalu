@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-09-06 |
 | Data wydania | 2001-10-31 |
-| Wejście w życie | 2002-02-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011261383) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1383/text.pdf) |
+
+Obowiązki informacyjne
 
 **Art. 1.** W ustawie z dnia 5 grudnia 1996 r. o zawodzie lekarza (Dz. U. z 1997 r. Nr 28, poz. 152i Nr 88, poz. 554, z 1998 r. Nr 106, poz. 668i Nr 162, poz. 1115, z 1999 r. Nr 60, poz. 636i Nr 64, poz. 729, z 2000 r. Nr 12, poz. 136, Nr 60, poz. 698, Nr 94, poz. 1037i Nr 120, poz. 1268oraz z 2001 r. Nr 89, poz. 969, Nr 113, poz. 1207i Nr 126, poz. 1382) wprowadza się następujące zmiany:
 
@@ -198,10 +199,11 @@ source: "eli-html"
 
 3e. Cudzoziemiec, niebędący obywatelem państwa członkowskiego Unii Europejskiej, któremu udzielono zezwolenia na osiedlenie się na terytorium Rzeczypospolitej Polskiej albo któremu nadano status uchodźcy w Rzeczypospolitej Polskiej, odbywa staż podyplomowy na zasadach obowiązujących obywateli polskich.
 
-3f. Cudzoziemiec, niebędący obywatelem państwa członkowskiego Unii Europejskiej, który nie spełnia warunków, o których mowa w ust. 3e, może odbyć staż podyplomowy za zgodą ministra właściwego do spraw zdrowia na zasadach określonych w przepisach o odbywaniu studiów i uczestniczeniu w badaniach naukowych i szkoleniach przez osoby niebędące obywatelami polskimi. ” , w ust. 5: – wyrazy „Minister Zdrowia i Opieki Społecznej” zastępuje się wyrazami „Minister właściwy do spraw zdrowia”, – w pkt 1 skreśla się wyrazy „lekarza stomatologa,” – w pkt 4 wyrazy „art. 5 ust. 1 pkt 5” zastępuje się wyrazami „art. 5 ust. 3 pkt 2”, – skreśla się pkt 5, – pkt 6 otrzymuje brzmienie: „ 6) wymagania oraz warunki, jakim powinny odpowiadać zakłady opieki zdrowotnej, indywidualne praktyki lekarskie i indywidualne specjalistyczne praktyki lekarskie, w których odbywane są staże podyplomowe, oraz sposób dokonywania oceny realizacji programu stażu przez te podmioty, ” dodaje się ust. 6b i 6c w brzmieniu: „
+3f. Cudzoziemiec, niebędący obywatelem państwa członkowskiego Unii Europejskiej, który nie spełnia warunków, o których mowa w ust. 3e, może odbyć staż podyplomowy za zgodą ministra właściwego do spraw zdrowia na zasadach określonych w przepisach o odbywaniu studiów i uczestniczeniu w badaniach naukowych i szkoleniach przez osoby niebędące obywatelami polskimi. ” , w ust. 5: – wyrazy „Minister Zdrowia i Opieki Społecznej” zastępuje się wyrazami „Minister właściwy do spraw zdrowia”, – w pkt 1 skreśla się wyrazy „lekarza stomatologa,” – w pkt 4 wyrazy „art. 5 ust. 1 pkt 5” zastępuje się wyrazami „art. 5 ust. 3 pkt 2”, – skreśla się pkt 5, pkt 6 otrzymuje brzmienie: „
 
 - **c)**
-- **d)**
+- **6)** wymagania oraz warunki, jakim powinny odpowiadać zakłady opieki zdrowotnej, indywidualne praktyki lekarskie i indywidualne specjalistyczne praktyki lekarskie, w których odbywane są staże podyplomowe, oraz sposób dokonywania oceny realizacji programu stażu przez te podmioty, ” dodaje się ust. 6b i 6c w brzmieniu: „
+    - **d)**
 
 6b. Wojewoda sprawuje nadzór nad odbywaniem stażu podyplomowego lekarzy, lekarzy stomatologów oraz w zakresie spełniania przez podmioty prowadzące staż wymagań i warunków, o których mowa w ust. 5 pkt 6.
 
@@ -295,7 +297,7 @@ source: "eli-html"
 - **15)** prowadzi Centralny Rejestr Lekarzy Rzeczypospolitej Polskiej. ” ;
 - **6)** po rozdziale 8 „Majątek i gospodarka finansowa” dodaje się rozdział 8a w brzmieniu: „
 
-#### Rozdział 8a Obowiązki informacyjne
+#### Rozdział 8a
 
 **Art. 61a.**
 

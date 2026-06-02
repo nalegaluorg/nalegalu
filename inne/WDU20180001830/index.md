@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 20 września 2018 r. w sprawie kryteriów uznania naruszenia bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług
+# Rozporządzenie Ministra Cyfryzacjiz dnia 20 września 2018 r. w sprawie kryteriów uznania naruszenia bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-20 |
 | Data wydania | 2018-09-26 |
-| Wejście w życie | 2018-09-27 |
 | Ostatnia zmiana | 2024-08-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001830) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1830/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 175a ust. 2a ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2017 r. poz. 1907, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 175a ust. 2a ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2017 r. poz. 1907, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 106, 138, 650, 1118, 1560 i 1629.) zarządza się, co następuje:
 § 1.
 Naruszenie bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych uznaje się za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług telekomunikacyjnych, w przypadku gdy zostało spełnione co najmniej jedno z poniższych kryteriów:
 1)
@@ -49,6 +48,5 @@ a)
 b)
 100 000.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 106, 138, 650, 1118, 1560 i 1629.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 106, 138, 650, 1118, 1560 i 1629.
 

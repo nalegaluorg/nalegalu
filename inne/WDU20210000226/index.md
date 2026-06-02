@@ -37,18 +37,14 @@ rozporządzeniem Ministra Zdrowia z dnia 1 grudnia 2020 r. zmieniającym rozporz
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Zdrowia z dnia 30 października 2019 r. zmieniającego rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2230), który stanowi:
-„
+§ 2 rozporządzenia Ministra Zdrowia z dnia 30 października 2019 r. zmieniającego rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2230), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Zdrowia z dnia 1 grudnia 2020 r. zmieniającego rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2130), który stanowi:
-„
+§ 2 rozporządzenia Ministra Zdrowia z dnia 1 grudnia 2020 r. zmieniającego rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2130), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 17 października 2014 r. w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 17 października 2014 r. w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji SanitarnejMinister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 Na podstawie art. 8a ust. 2 pkt 2 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2021 r. poz. 195) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -62,10 +58,10 @@ Wykaz systemów wymiany informacji obejmuje następujące systemy:
 System Nadzoru Epidemiologicznego nad Chorobami Zakaźnymi;
 2)
 Krajowy System Wczesnego Ostrzegania i Reagowania dla Chorób Zakaźnych;
-2a)
+2aDodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 1 grudnia 2020 r. zmieniającego rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2130), które weszło w życie z dniem 2 grudnia 2020 r.)
 System Ewidencji Państwowej Inspekcji Sanitarnej (SEPIS);
 3)
-(uchylony);
+(uchylony);Przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 30 października 2019 r. zmieniającego rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2230), które weszło w życie z dniem 30 listopada 2019 r.
 4)
 System Monitoringu Jakości Wody Przeznaczonej do Spożycia przez Ludzi;
 5)
@@ -78,7 +74,7 @@ Bazę Danych Źródeł Wytwarzających Pola Elektromagnetyczne na Stanowiskach P
 System Wczesnego Ostrzegania o Niebezpiecznej Żywności i Paszach (RASFF) w Polsce;
 9)
 Elektroniczny System Nadzoru nad Dystrybucją Szczepionek (ESNDS);
-10)
+10Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.)
 System Monitorowania Informacji o Środkach Zastępczych i Nowych Substancjach Psychoaktywnych (SMIOD).
 § 3.
 Główny Inspektor Sanitarny zarządza wymianą informacji w zakresie systemów, o których mowa w § 2, przez:
@@ -93,6 +89,5 @@ organizowanie specjalistycznych szkoleń w zakresie gromadzenia i przetwarzania 
 5)
 administrowanie i utrzymywanie centralnych baz danych tych systemów, z wyłączeniem systemu, o którym mowa w § 2 pkt 8.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Dodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 1 grudnia 2020 r. zmieniającego rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2130), które weszło w życie z dniem 2 grudnia 2020 r. 3) Przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 30 października 2019 r. zmieniającego rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2230), które weszło w życie z dniem 30 listopada 2019 r. 4) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 5) Rozporządzenie zostało ogłoszone w dniu 29 października 2014 r. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 13 sierpnia 2010 r. w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 1095), które utraciło moc z dniem 4 marca 2014 r. na podstawie art. 4 ust. 1 ustawy z dnia 13 lipca 2012 r. o zmianie ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz ustawy o Państwowej Inspekcji Sanitarnej (Dz. U. poz. 892).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 29 października 2014 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 13 sierpnia 2010 r. w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 1095), które utraciło moc z dniem 4 marca 2014 r. na podstawie art. 4 ust. 1 ustawy z dnia 13 lipca 2012 r. o zmianie ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz ustawy o Państwowej Inspekcji Sanitarnej (Dz. U. poz. 892). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Dodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 1 grudnia 2020 r. zmieniającego rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2130), które weszło w życie z dniem 2 grudnia 2020 r. 3) Przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 30 października 2019 r. zmieniającego rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2230), które weszło w życie z dniem 30 listopada 2019 r. 4) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 5) Rozporządzenie zostało ogłoszone w dniu 29 października 2014 r. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 13 sierpnia 2010 r. w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 1095), które utraciło moc z dniem 4 marca 2014 r. na podstawie art. 4 ust. 1 ustawy z dnia 13 lipca 2012 r. o zmianie ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz ustawy o Państwowej Inspekcji Sanitarnej (Dz. U. poz. 892).
 

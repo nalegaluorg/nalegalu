@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-08-05 |
 | Data wydania | 2016-08-17 |
-| Wejście w życie | 2016-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001260) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1260/text.pdf) |
 
@@ -101,5 +100,5 @@ wykonywanie innych czynności wskazanych przez przełożonego.
 § 5.
 Asystent prowadzi wykaz wykonywanych czynności w formie określonej przez kierownika jednostki organizacyjnej prokuratury, w której asystent jest zatrudniony.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 23 marca 2010 r. w sprawie szczegółowego zakresu i sposobu wykonywania czynności przez asystentów prokuratorów (Dz. U. poz. 293), które traci moc na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178) z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 23 marca 2010 r. w sprawie szczegółowego zakresu i sposobu wykonywania czynności przez asystentów prokuratorów (Dz. U. poz. 293), które traci moc na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178) z dniem wejścia w życie niniejszego rozporządzenia.
 

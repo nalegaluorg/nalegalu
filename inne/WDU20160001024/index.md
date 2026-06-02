@@ -33,13 +33,11 @@ Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og�
 1)
 ustawą z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228),
 2)
-ustawą z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 czerwca 2016 r.
+ustawą z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 czerwca 2016 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228), który stanowi:
-„
+art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228), który stanowi: „
 
 **Art. 191.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia z wyjątkiem art. 131, który wchodzi w życie z dniem 1 stycznia 2013 r. ” ;
 
@@ -48,7 +46,7 @@ art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. 
 **Art. 75.** Ustawa wchodzi w życie z dniem 4 marca 2016 r., z wyjątkiem:
 
 - **1)** art. 2, art. 6 pkt 1, art. 7 pkt 3, art. 19 pkt 1 w zakresie prokuratora do spraw wojskowych,
-- **2)** art. 3, art. 4 pkt 5–9, art. 6 pkt 2 lit. b i d, pkt 4, art. 9, art. 10, art. 13–16, art. 19 pkt 3, art. 20 pkt 10 lit. b i c, art. 21, art. 31–33, art. 45 § 3, art. 46, art. 50, art. 62 § 4, 6 i 7, art. 64 § 3, 5 i 6 oraz art. 66 które wchodzą w życie z dniem 4 kwietnia 2016 r. ” . Załącznik – Tekst jednolity ustawy z dnia 21 stycznia 1999 r. o sejmowej komisji śledczej
+- **2)** art. 3, art. 4 pkt 5–9, art. 6 pkt 2 lit. b i d, pkt 4, art. 9, art. 10, art. 13–16, art. 19 pkt 3, art. 20 pkt 10 lit. b i c, art. 21, art. 31–33, art. 45 § 3, art. 46, art. 50, art. 62 § 4, 6 i 7, art. 64 § 3, 5 i 6 oraz art. 66 – które wchodzą w życie z dniem 4 kwietnia 2016 r. ” . Załącznik – Tekst jednolity ustawy z dnia 21 stycznia 1999 r. o sejmowej komisji śledczej
 
 **Art. 1.**
 
@@ -181,9 +179,7 @@ art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. 
 
 5. Osoby nieme lub głuche składają przyrzeczenie przez podpisanie tekstu przyrzeczenia.
 
-6. Osobie wezwanej, która w danej sprawie składała już przyrzeczenie, przewodniczący komisji przypomina je przy kolejnym przesłuchaniu, chyba że komisja uzna za potrzebne ponowne odebranie przyrzeczenia.
-
-1. Osoby obowiązane do zachowania w tajemnicy informacji niejawnych o klauzuli tajności „tajne” lub „ściśle tajne” mogą być przesłuchane co do okoliczności, na które rozciąga się ten obowiązek, tylko po zwolnieniu ich od obowiązku zachowania tajemnicy przez właściwy organ.
+6. Osobie wezwanej, która w danej sprawie składała już przyrzeczenie, przewodniczący komisji przypomina je przy kolejnym przesłuchaniu, chyba że komisja uzna za potrzebne ponowne odebranie przyrzeczenia. 1W brzmieniu ustalonym przez art. 125 pkt 1 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. poz. 1228), która weszła w życie z dniem 2 stycznia 2011 r.. Osoby obowiązane do zachowania w tajemnicy informacji niejawnych o klauzuli tajności „tajne” lub „ściśle tajne” mogą być przesłuchane co do okoliczności, na które rozciąga się ten obowiązek, tylko po zwolnieniu ich od obowiązku zachowania tajemnicy przez właściwy organ.
 
 2. Komisja może zwrócić się do właściwego organu o zwolnienie osoby wezwanej przez komisję od obowiązku zachowania tajemnicy.
 
@@ -197,9 +193,7 @@ art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. 
 
 4. Wniesienie zażalenia wstrzymuje wykonanie postanowienia sądu.
 
-1. Przesłuchania, o których mowa w art. 11e ust. 1, art. 11f i art. 11g ust. 1, odbywają się na posiedzeniu zamkniętym. Ta część posiedzenia, na której zapada decyzja w sprawie zamknięcia posiedzenia, jest również zamknięta. Komisja określa osoby, których udział w posiedzeniu zamkniętym jest niezbędny.
-
-2. Wiadomości uzyskane w toku przesłuchań, o których mowa w art. 11f i art. 11g ust. 1, stanowią tajemnicę prawnie chronioną. Do postępowania w sprawach wzywania oraz przesłuchiwania osób wezwanych przez komisję oraz zwalniania ich z obowiązku zachowania tajemnicy w zakresie nieuregulowanym w niniejszej ustawie stosuje się odpowiednio przepisy Kodeksu postępowania karnego dotyczące w tym zakresie świadków.
+1. Przesłuchania, o których mowa w art. 11e ust. 1, art. 11f i art. 11g ust. 1, odbywają się na posiedzeniu zamkniętym. Ta część posiedzenia, na której zapada decyzja w sprawie zamknięcia posiedzenia, jest również zamknięta. Komisja określa osoby, których udział w posiedzeniu zamkniętym jest niezbędny. 2W brzmieniu ustalonym przez art. 125 pkt 3 ustawy, o której mowa w odnośniku 1.. Wiadomości uzyskane w toku przesłuchań, o których mowa w art. 11f i art. 11g ust. 1, stanowią tajemnicę prawnie chronioną. Do postępowania w sprawach wzywania oraz przesłuchiwania osób wezwanych przez komisję oraz zwalniania ich z obowiązku zachowania tajemnicy w zakresie nieuregulowanym w niniejszej ustawie stosuje się odpowiednio przepisy Kodeksu postępowania karnego dotyczące w tym zakresie świadków.
 
 **Art. 12.**
 
@@ -223,13 +217,11 @@ art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. 
 
 1. Komisja może zwrócić się do Prokuratora Generalnego o przeprowadzenie określonych czynności.
 
-2. Przewodniczący lub upoważniony przez niego członek komisji może brać udział w czynnościach, o których mowa w ust. 1.
-
-3. Prokurator Generalny wykonuje czynności, o których mowa w ust. 1, na podstawie przepisów Kodeksu postępowania karnego oraz ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. poz. 177).
+2. Przewodniczący lub upoważniony przez niego członek komisji może brać udział w czynnościach, o których mowa w ust. 1. 3W brzmieniu ustalonym przez art. 8 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178), która weszła w życie z dniem 4 marca 2016 r.. Prokurator Generalny wykonuje czynności, o których mowa w ust. 1, na podstawie przepisów Kodeksu postępowania karnego oraz ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. poz. 177).
 
 4. Wydatki związane z czynnościami, o których mowa w ust. 1, są pokrywane z budżetu państwa w części Rezerwy celowe.
 
-**Art. 16.** Czynności określone w art. 11a ust. 1, art. 11e ust. 1, art. 11g ust. 1, art. 14 i art. 15 ust. 1 przeprowadza się z zachowaniem przepisów o tajemnicy ustawowo chronionej. Komisja może zezwolić przedstawicielom prasy, w rozumieniu przepisów ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. poz. 24, z późn. zm.), na dokonywanie za pomocą aparatury utrwalenia obrazu lub dźwięku z posiedzenia komisji, gdy przemawia za tym interes publiczny; dokonywanie tych czynności nie będzie utrudniać przebiegu posiedzenia, a ważny interes osoby wezwanej nie sprzeciwia się temu.
+**Art. 16.** Czynności określone w art. 11a ust. 1, art. 11e ust. 1, art. 11g ust. 1, art. 14 i art. 15 ust. 1 przeprowadza się z zachowaniem przepisów o tajemnicy ustawowo chronionej. Komisja może zezwolić przedstawicielom prasy, w rozumieniu przepisów ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. poz. 24, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. poz. 324, z 1989 r. poz. 187, z 1990 r. poz. 173, z 1991 r. poz. 442, z 1996 r. poz. 542, z 1997 r. poz. 554 i 770, z 1999 r. poz. 999, z 2001 r. poz. 1198, z 2002 r. poz. 1271, z 2004 r. poz. 1181, z 2005 r. poz. 377, z 2007 r. poz. 590, z 2010 r. poz. 1228 i 1551, z 2011 r. poz. 459, 934, 1204 i 1660, z 2012 r. poz. 1136 oraz z 2013 r. poz. 771.), na dokonywanie za pomocą aparatury utrwalenia obrazu lub dźwięku z posiedzenia komisji, gdy przemawia za tym interes publiczny; dokonywanie tych czynności nie będzie utrudniać przebiegu posiedzenia, a ważny interes osoby wezwanej nie sprzeciwia się temu.
 
 **Art. 17.**
 
@@ -265,5 +257,5 @@ art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. 
 
 **Art. 22.** (pominięty)
 
-**Art. 23.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 23.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 22 kwietnia 1999 r.. 1) W brzmieniu ustalonym przez art. 125 pkt 1 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. poz. 1228), która weszła w życie z dniem 2 stycznia 2011 r. 2) W brzmieniu ustalonym przez art. 125 pkt 2 ustawy, o której mowa w odnośniku 1. 3) W brzmieniu ustalonym przez art. 125 pkt 3 ustawy, o której mowa w odnośniku 1. 4) W brzmieniu ustalonym przez art. 8 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178), która weszła w życie z dniem 4 marca 2016 r. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. poz. 324, z 1989 r. poz. 187, z 1990 r. poz. 173, z 1991 r. poz. 442, z 1996 r. poz. 542, z 1997 r. poz. 554 i 770, z 1999 r. poz. 999, z 2001 r. poz. 1198, z 2002 r. poz. 1271, z 2004 r. poz. 1181, z 2005 r. poz. 377, z 2007 r. poz. 590, z 2010 r. poz. 1228 i 1551, z 2011 r. poz. 459, 934, 1204 i 1660, z 2012 r. poz. 1136 oraz z 2013 r. poz. 771. 6) Ustawa została ogłoszona w dniu 22 kwietnia 1999 r.
 

@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-07-17 |
 | Data wydania | 2012-07-24 |
-| Wejście w życie | 2012-08-25 |
 | Ostatnia zmiana | 2025-02-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000850) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/850/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 29 ust. 4 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 29 ust. 4 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -58,8 +57,7 @@ proponowaną wysokość miesięcznego wynagrodzenia niepełnosprawnych pracownik
 a)
 znacznego stopnia niepełnosprawności,
 b)
-umiarkowanego stopnia niepełnosprawności, u których stwierdzono autyzm, upośledzenie umysłowe lub chorobę psychiczną, w tym osób, w stosunku do których rada programowa, o której mowa w art. 10a ust. 4 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, zwanej dalej „ustawą”, zajęła stanowisko uzasadniające podjęcie zatrudnienia i kontynuowanie rehabilitacji zawodowej w warunkach pracy chronionej
-zwanych dalej „osobami niepełnosprawnymi zaliczonymi do znacznego lub umiarkowanego stopnia niepełnosprawności”, wyrażoną jako procentowy wskaźnik minimalnego wynagrodzenia za pracę określonego w przepisach o minimalnym wynagrodzeniu za pracę, zwanego dalej „minimalnym wynagrodzeniem”;
+umiarkowanego stopnia niepełnosprawności, u których stwierdzono autyzm, upośledzenie umysłowe lub chorobę psychiczną, w tym osób, w stosunku do których rada programowa, o której mowa w art. 10a ust. 4 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, zwanej dalej „ustawą”, zajęła stanowisko uzasadniające podjęcie zatrudnienia i kontynuowanie rehabilitacji zawodowej w warunkach pracy chronionej – zwanych dalej „osobami niepełnosprawnymi zaliczonymi do znacznego lub umiarkowanego stopnia niepełnosprawności”, wyrażoną jako procentowy wskaźnik minimalnego wynagrodzenia za pracę określonego w przepisach o minimalnym wynagrodzeniu za pracę, zwanego dalej „minimalnym wynagrodzeniem”;
 8)
 proponowaną obsadę etatową zakładu, z wyszczególnieniem liczby stanowisk i wymaganych kwalifikacji pracowników wchodzących w skład personelu kierowniczego, administracyjnego, rehabilitacyjnego i obsługowego, zwanych dalej „personelem zakładu”;
 9)
@@ -179,8 +177,7 @@ zbędnych w związku:
 a)
 ze zmianą profilu działalności zakładu,
 b)
-z wprowadzeniem ulepszeń technicznych lub technologicznych
-nabytych ze środków Funduszu organizator przeznacza uzyskane w ten sposób środki na zakup maszyn i urządzeń niezbędnych do dalszego prowadzenia działalności, z zastrzeżeniem § 18.
+z wprowadzeniem ulepszeń technicznych lub technologicznych – nabytych ze środków Funduszu organizator przeznacza uzyskane w ten sposób środki na zakup maszyn i urządzeń niezbędnych do dalszego prowadzenia działalności, z zastrzeżeniem § 18.
 § 10.
 1.
 Środki Funduszu, o których mowa w § 3 ust. 3, są przekazywane na rachunek bankowy organizatora zgodnie z umową, w ratach półrocznych, jednak nie później niż do:
@@ -199,8 +196,7 @@ składa we właściwej jednostce organizacyjnej samorządu województwa:
 a)
 rozliczenie rocznego wykorzystania środków Funduszu, wraz z jego merytorycznym uzasadnieniem,
 b)
-informacje o wydatkowanych wszystkich środkach wykorzystanych na działanie zakładu w danym roku, z uwzględnieniem środków Funduszu oraz środków z pozostałych źródeł
-w terminie do dnia 15 marca roku następującego po roku, za który składa się rozliczenie;
+informacje o wydatkowanych wszystkich środkach wykorzystanych na działanie zakładu w danym roku, z uwzględnieniem środków Funduszu oraz środków z pozostałych źródeł – w terminie do dnia 15 marca roku następującego po roku, za który składa się rozliczenie;
 4)
 udostępnia na żądanie właściwej jednostki organizacyjnej samorządu województwa do wglądu roczne sprawozdanie finansowe, z zastrzeżeniem § 18.
 3.
@@ -227,8 +223,7 @@ doradcę zawodowego,
 2)
 psychologa,
 3)
-trenera pracy
-zlecając im zadania, o których mowa w ust. 3 i 5–8.
+trenera pracy – zlecając im zadania, o których mowa w ust. 3 i 5–8.
 3.
 Zespół programowy opracowuje, a kierownik zakładu zatwierdza, indywidualne programy rehabilitacji zawodowej i społecznej osób niepełnosprawnych zaliczonych do znacznego lub umiarkowanego stopnia niepełnosprawności służące osiągnięciu optymalnego poziomu uczestnictwa tych osób w życiu społecznym i zawodowym, określające w szczególności:
 1)
@@ -253,7 +248,7 @@ W stosunku do osób niepełnosprawnych zaliczonych do znacznego lub umiarkowaneg
 Na podstawie planu, o którym mowa w ust. 7, kierownik zakładu wspiera osobę niepełnosprawną zaliczoną do znacznego lub umiarkowanego stopnia niepełnosprawności w poszukiwaniu odpowiedniego miejsca pracy, współpracując w tym zakresie z właściwym dla jej miejsca zamieszkania powiatowym urzędem pracy.
 § 14.
 1.
-Zakładowy fundusz aktywności tworzy się ze środków, o których mowa w art. 31 ust. 4 ustawy oraz art. 38 ust. 2 pkt 2 lit. a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.).
+Zakładowy fundusz aktywności tworzy się ze środków, o których mowa w art. 31 ust. 4 ustawy oraz art. 38 ust. 2 pkt 2 lit. a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 440, 596 i 769.).
 2.
 Środki zakładowego funduszu aktywności są gromadzone na wyodrębnionym rachunku bankowym i ewidencjonowane przez organizatora, z zastrzeżeniem § 18.
 § 15.
@@ -294,7 +289,7 @@ Wysokość miesięcznego wynagrodzenia osoby wykonującej usługę świadczenia 
 5.
 Maksymalna wysokość miesięcznego wynagrodzenia, o którym mowa w ust. 4, nie może przekraczać 100% wysokości minimalnego wynagrodzenia.
 6.
-Maksymalna wysokość wynagrodzenia, o którym mowa w ust. 1 pkt 13, w miesiącu – nie może przekraczać przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej w poprzednim kwartale od pierwszego dnia następnego miesiąca po ogłoszeniu przez Prezesa Głównego Urzędu Statystycznego w formie komunikatu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227, z późn. zm.).
+Maksymalna wysokość wynagrodzenia, o którym mowa w ust. 1 pkt 13, w miesiącu – nie może przekraczać przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej w poprzednim kwartale od pierwszego dnia następnego miesiąca po ogłoszeniu przez Prezesa Głównego Urzędu Statystycznego w formie komunikatu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726, z 2011 r. Nr 75, poz. 398, Nr 149, poz. 887, Nr 168, poz. 1001, Nr 187, poz. 1112 i Nr 205, poz. 1203 oraz z 2012 r. poz. 118, 251, 637 i 664.).
 § 16.
 1.
 Organizator opracowuje i zatwierdza regulamin zakładowego funduszu aktywności określający w szczególności tryb i zasady przeznaczania środków tego funduszu na wydatki, o których mowa w § 15.
@@ -309,5 +304,5 @@ Jeżeli organizatorem jest gmina lub powiat, przepisy § 9, § 10 ust. 2 pkt 1 i
 § 19.
 Traci moc rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 14 grudnia 2007 r. w sprawie zakładów aktywności zawodowej (Dz. U. Nr 242, poz. 1776).
 § 20.
-Rozporządzenie wchodzi w życie po upływie miesiąca od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie miesiąca od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 440, 596 i 769. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726, z 2011 r. Nr 75, poz. 398, Nr 149, poz. 887, Nr 168, poz. 1001, Nr 187, poz. 1112 i Nr 205, poz. 1203 oraz z 2012 r. poz. 118, 251, 637 i 664.
 

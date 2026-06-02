@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 2 czerwca 2020 r. w sprawie szczegółowych warunków i trybu przyznawania oraz rozliczania przez Prezesa Agencji Restrukturyzacji i Modernizacji Rolnictwa pomocy finansowej z budżetu państwa dla kół gospodyń wiejskich oraz jej wysokości
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 2 czerwca 2020 r. w sprawie szczegółowych warunków i trybu przyznawania oraz rozliczania przez Prezesa Agencji Restrukturyzacji i Modernizacji Rolnictwa pomocy finansowej z budżetu państwa dla kół gospodyń wiejskich oraz jej wysokości Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2263).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-02 |
 | Data wydania | 2020-06-04 |
-| Wejście w życie | 2020-06-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000992) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/992/text.pdf) |
 
@@ -76,8 +75,7 @@ Wysokość pomocy jest uzależniona od liczby członków ustalonej na dzień zł
 2)
 4000 zł, jeżeli koło gospodyń wiejskich liczy od 31 do 75 członków,
 3)
-5000 zł, jeżeli koło gospodyń wiejskich liczy ponad 75 członków
-z zastrzeżeniem art. 36b ustawy.
+5000 zł, jeżeli koło gospodyń wiejskich liczy ponad 75 członków – z zastrzeżeniem art. 36b ustawy.
 7.
 Pomoc może zostać przyznana kołu gospodyń wiejskich raz w roku.
 § 3.
@@ -128,6 +126,5 @@ Pomoc w ramach środków, o których mowa w art. 36b ust. 1 ustawy, może zosta�
 § 8.
 Informacje, o których mowa w § 2 ust. 4, według stanu na dzień 30 września 2020 r., Prezes Agencji przedstawia ministrowi właściwemu do spraw rozwoju regionalnego w terminie do dnia 6 października 2020 r.
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2263).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2263).
 

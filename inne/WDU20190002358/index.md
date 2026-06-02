@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 28 listopada 2019 r. w sprawie prowizji i współczynnika prowizji oraz sposobu i terminów pobierania wynagrodzenia prowizyjnego z tytułu obsługi Funduszu Żeglugi Śródlądowej
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 28 listopada 2019 r. w sprawie prowizji i współczynnika prowizji oraz sposobu i terminów pobierania wynagrodzenia prowizyjnego z tytułu obsługi Funduszu Żeglugi Śródlądowej Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-11-28 |
 | Data wydania | 2019-12-05 |
-| Wejście w życie | 2019-12-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002358) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2358/text.pdf) |
 
@@ -40,6 +39,5 @@ Prowizja wynosi 1% kwoty udzielonego kredytu preferencyjnego.
 § 4.
 Przepisy § 1 i § 2 stosuje się od dnia 9 listopada 2019 r.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury, Dziedzictwa Narodowego i Sportuz dnia 30 października 2020 r. w sprawie wsparcia finansowego dla twórców i artystów w postaci pomocy socjalnej
+# Rozporządzenie Ministra Kultury, Dziedzictwa Narodowego i Sportuz dnia 30 października 2020 r. w sprawie wsparcia finansowego dla twórców i artystów w postaci pomocy socjalnej Minister Kultury, Dziedzictwa Narodowego i Sportu kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. poz. 1717).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-10-30 |
 | Data wydania | 2020-11-03 |
-| Wejście w życie | 2020-11-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001938) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1938/text.pdf) |
 
@@ -85,8 +84,7 @@ adres poczty elektronicznej,
 2)
 numer telefonu,
 3)
-numer rachunku bankowego albo rachunku w spółdzielczej kasie oszczędnościowo-kredytowej
-osoby, której wniosek dotyczy.
+numer rachunku bankowego albo rachunku w spółdzielczej kasie oszczędnościowo-kredytowej – osoby, której wniosek dotyczy.
 3.
 Do wniosku dołącza się dokumenty potwierdzające posiadanie przez twórcę lub artystę dorobku, o którym mowa w § 2, zaistnienie okoliczności, o których mowa w ust. 1 pkt 4, oraz okoliczności uprawniających do zwolnienia przyznanego wsparcia finansowego z podatku dochodowego, o którym mowa w art. 21 ust. 1 pkt 26 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2020 r. poz. 1426, 1291, 1428, 1492 i 1565).
 4.
@@ -101,6 +99,5 @@ W przypadku gdy wniosek nie spełnia wymagań, o których mowa w § 4 ust. 1 i 3
 § 7.
 Środki przyznane w ramach wsparcia finansowego przekazuje się na wskazany rachunek bankowy albo rachunek w spółdzielczej kasie oszczędnościowo-kredytowej osoby, której przyznano wsparcie finansowe, albo w inny uzgodniony z tą osobą sposób.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury, Dziedzictwa Narodowego i Sportu kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. poz. 1717).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Kultury, Dziedzictwa Narodowego i Sportu kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. poz. 1717).
 

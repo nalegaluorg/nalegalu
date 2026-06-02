@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-07-24 |
 | Data wydania | 2002-08-28 |
-| Wejście w życie | 2003-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021351144) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1144/text.pdf) |
 
@@ -219,7 +218,7 @@ source: "eli-html"
 
 - **1)** zagrożenia bezpieczeństwa energetycznego Rzeczypospolitej Polskiej polegającego na długookresowym braku równowagi na rynku paliwowo-energetycznym,
 - **2)** zagrożenia bezpieczeństwa osób,
-- **3)** zagrożenia wystąpienia znacznych strat materialnych na terytorium Rzeczypospolitej Polskiej lub jego części mogą być wprowadzone na czas oznaczony ograniczenia w sprzedaży paliw stałych lub ciekłych oraz w dostarczaniu i poborze paliw gazowych, energii elektrycznej lub ciepła.
+- **3)** zagrożenia wystąpienia znacznych strat materialnych – na terytorium Rzeczypospolitej Polskiej lub jego części mogą być wprowadzone na czas oznaczony ograniczenia w sprzedaży paliw stałych lub ciekłych oraz w dostarczaniu i poborze paliw gazowych, energii elektrycznej lub ciepła.
 
 2. Ograniczenia w sprzedaży paliw stałych lub ciekłych polegają na sprzedaży tych paliw na podstawie wydanych odbiorcom upoważnień do zakupu określonej ilości paliw.
 
@@ -378,7 +377,7 @@ source: "eli-html"
 - **4)** art. 1 pkt 11 w zakresie dotyczącym art. 11 ust. 9,
 - **5)** art. 1 pkt 12,
 - **6)** art. 1 pkt 17 lit. c),
-- **7)** art. 1 pkt 22 stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
+- **7)** art. 1 pkt 22 – stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
 
 2. Do dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej:
 

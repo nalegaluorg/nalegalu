@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 lipca 2011 r. o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych
+# Ustawa z dnia 28 lipca 2011 r. o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2003/41/WE Parlamentu Europejskiego i Rady z dnia 3 czerwca 2003 r. w sprawie działalności instytucji pracowniczych programów emerytalnych oraz nadzoru nad takimi instytucjami (Dz. Urz. UE L 235 z 23.09.2003, str. 10, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 4, str. 350).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-07-28 |
 | Data wydania | 2011-09-08 |
-| Wejście w życie | 2012-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111871111) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1111/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2010 r. Nr 34, poz. 189, z późn. zm.) wprowadza się następujące zmiany:
+Zakład ubezpieczeń na życie, do którego pracowniczy fundusz przekazuje składki pracowników zagranicznych
+
+**Art. 1.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2010 r. Nr 34, poz. 189, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 858 i Nr 182, poz. 1228 oraz z 2011 r. Nr 75, poz. 398, Nr 106, poz. 622 i Nr 171, poz. 1016.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 dodaje się ust. 4 w brzmieniu: „
 
@@ -45,7 +46,7 @@ source: "eli-html"
 - **13)** gwarancje – oznacza gwarancje wyników inwestycyjnych oraz danego poziomu świadczeń;
 - **14)** pracownik zagraniczny – oznacza osobę fizyczną zatrudnioną przez pracodawcę zagranicznego;
 - **15)** ryzyka biometryczne – oznacza ryzyka związane ze śmiercią, niepełnosprawnością lub długowiecznością;
-- **16)** zakład ubezpieczeń na życie – oznacza zakład ubezpieczeń prowadzący działalność, o której mowa w dziale I załącznika do ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. z 2010 r. Nr 11, poz. 66, z późn. zm.). ” ;
+- **16)** zakład ubezpieczeń na życie – oznacza zakład ubezpieczeń prowadzący działalność, o której mowa w dziale I załącznika do ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. z 2010 r. Nr 11, poz. 66, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 81, poz. 530, Nr 126, poz. 853 i Nr 127, poz. 858 oraz z 2011 r. Nr 75, poz. 398, Nr 80, poz. 432, Nr 106, poz. 622, Nr 112, poz. 654 i Nr 133, poz. 767.). ” ;
 - **4)** w art. 13: w ust. 4 dodaje się pkt 3 w brzmieniu: „
     - **a)**
 
@@ -99,7 +100,7 @@ source: "eli-html"
 
 - **13)** po rozdziale 10 dodaje się rozdział 10a w brzmieniu: „
 
-#### Rozdział 10a Zakład ubezpieczeń na życie, do którego pracowniczy fundusz przekazuje składki pracowników zagranicznych
+#### Rozdział 10a
 
 **Art. 106a.** Pracowniczy fundusz może wybrać zakład ubezpieczeń na życie, do którego będzie przekazywać w całości albo w części składki pracowników zagranicznych, na podstawie umowy o przyjmowanie składek. 1. Zobowiązania związane z ryzykami biometrycznymi lub gwarancjami obciążają zakład ubezpieczeń na życie w zakresie, w jakim określono to w umowie o przyjmowanie składek, w pozostałych przypadkach zobowiązania te obciążają pracodawcę zagranicznego. 2. Za wszelkie szkody wynikające z niewykonania lub nienależytego wykonania obowiązków nałożonych przez ustawę w zakresie obsługi wszelkich ryzyk biometrycznych lub gwarancji związanych z realizacją programu emerytalnego pracodawcy zagranicznego odpowiada zakład ubezpieczeń na życie. 1. Umowa o przyjmowanie składek powinna określać szczegółowo obowiązki zakładu ubezpieczeń na życie i pracowniczego funduszu, sposób ich wykonania, a także wskazywać osoby wyznaczone przez zakład bezpośrednio odpowiedzialne za należyte wykonanie umowy. 2. Umowa o przyjmowanie składek określa ponadto, że operacje zaciągania pożyczek przez zakład ubezpieczeń na życie i pracowniczy fundusz mogą być prowadzone wyłącznie w celu utrzymania płynności finansowej i tylko na okres przejściowy. 3. W przypadku gdy akcjonariuszem pracowniczego towarzystwa jest pracodawca zagraniczny i z przepisów jego krajowego prawa ubezpieczeń społecznych i prawa pracy wynika taki wymóg, umowa o przyjmowanie składek zawiera postanowienia dotyczące przekazywania przez pracowniczy fundusz temu pracodawcy lub jego pracownikom dodatkowych informacji dotyczących:
 
@@ -170,5 +171,5 @@ source: "eli-html"
 - **1)** aktywa i pasywa odpowiadające działalności wynikającej z umowy o przyjmowanie składek, wyodrębnione, zarządzane i tworzone odrębnie w stosunku do innej działalności zakładu, bez możliwości ich przeniesienia;
 - **2)** dodatkowe aktywa ponad rezerwy techniczno-ubezpieczeniowe, które służą jako zabezpieczenie zobowiązań wynikających z umowy o przyjmowanie składek, w wysokości równej marginesowi wypłacalności ustalonemu dla odpowiednich rodzajów ryzyka określonych w dziale I załącznika do ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej. Przy ustalaniu wartości aktywów netto pracowniczego funduszu nie uwzględnia się składek pracowników zagranicznych, o których mowa w art. 2 ust. 4. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r.
+**Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2003/41/WE Parlamentu Europejskiego i Rady z dnia 3 czerwca 2003 r. w sprawie działalności instytucji pracowniczych programów emerytalnych oraz nadzoru nad takimi instytucjami (Dz. Urz. UE L 235 z 23.09.2003, str. 10, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 4, str. 350). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 858 i Nr 182, poz. 1228 oraz z 2011 r. Nr 75, poz. 398, Nr 106, poz. 622 i Nr 171, poz. 1016. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 81, poz. 530, Nr 126, poz. 853 i Nr 127, poz. 858 oraz z 2011 r. Nr 75, poz. 398, Nr 80, poz. 432, Nr 106, poz. 622, Nr 112, poz. 654 i Nr 133, poz. 767.
 

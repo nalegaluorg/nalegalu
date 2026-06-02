@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 4 czerwca 2021 r. zmieniające rozporządzenie w sprawie szczegółowych wymogów, jakim powinien odpowiadać lokal apteki
+# Rozporządzenie Ministra Zdrowiaz dnia 4 czerwca 2021 r. zmieniające rozporządzenie w sprawie szczegółowych wymogów, jakim powinien odpowiadać lokal apteki Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-04 |
 | Data wydania | 2021-06-08 |
-| Wejście w życie | 2021-06-09 |
 | Ostatnia zmiana | 2025-09-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001035) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1035/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 98 ust. 5 ustawy z dnia 6 września 2001 r. – Prawo farmaceu
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 30 września 2002 r. w sprawie szczegółowych wymogów, jakim powinien odpowiadać lokal apteki (Dz. U. poz. 1395) wprowadza się następujące zmiany:
 1)
-w § 6 dodaje się ust. 5 w brzmieniu:
-„
+w § 6 dodaje się ust. 5 w brzmieniu: „
 5.
 W przypadku przeprowadzania w aptece ogólnodostępnej szczepienia ochronnego przeciwko COVID-19 może ono zostać przeprowadzone w:
 1)
@@ -46,11 +44,9 @@ izbie ekspedycyjnej – pod warunkiem:
 a)
 wydzielenia w niej obszaru gwarantującego bezpieczeństwo oraz poszanowanie intymności i godności pacjentów,
 b)
-w przypadku gdy wydzielenie, o którym mowa w lit. a, nie jest możliwe – wyznaczenia czasu pracy apteki przeznaczonego wyłącznie do przeprowadzania szczepień ochronnych przeciwko COVID-19 w tej izbie, bez uszczerbku dla zapewnienia wystarczającego czasu na wykonywanie w niej zadań zgodnych z jej zasadniczym przeznaczeniem.
-” ;
+w przypadku gdy wydzielenie, o którym mowa w lit. a, nie jest możliwe – wyznaczenia czasu pracy apteki przeznaczonego wyłącznie do przeprowadzania szczepień ochronnych przeciwko COVID-19 w tej izbie, bez uszczerbku dla zapewnienia wystarczającego czasu na wykonywanie w niej zadań zgodnych z jej zasadniczym przeznaczeniem. ” ;
 2)
-w § 8 dodaje się ust. 4 i 5 w brzmieniu:
-„
+w § 8 dodaje się ust. 4 i 5 w brzmieniu: „
 4.
 W przypadku gdy w aptece ogólnodostępnej są przeprowadzane szczepienia ochronne przeciwko COVID-19, podstawowe wyposażenie izby szczepień tej apteki lub pomieszczenia, które pełni taką funkcję, stanowią:
 1)
@@ -76,9 +72,7 @@ termometr bezdotykowy do pomiaru temperatury ciała pacjenta przed przeprowadzen
 11)
 sprzęt komputerowy z dostępem do Internetu i drukarką, niewykorzystywany w czasie przeprowadzania szczepienia do ekspedycji aptecznej.
 5.
-W przypadku przeprowadzania szczepień, o których mowa w ust. 4, apteka ogólnodostępna ma obowiązek utylizacji odpadów medycznych poszczepiennych zgodnie z przepisami wydanymi na podstawie art. 33 ust. 2 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2021 r. poz. 779 i 784).
-” .
+W przypadku przeprowadzania szczepień, o których mowa w ust. 4, apteka ogólnodostępna ma obowiązek utylizacji odpadów medycznych poszczepiennych zgodnie z przepisami wydanymi na podstawie art. 33 ust. 2 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2021 r. poz. 779 i 784). ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 

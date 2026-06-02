@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 kwietnia 2011 r. o zmianie ustawy o systemie oceny zgodności oraz niektórych innych ustaw
+# Ustawa z dnia 15 kwietnia 2011 r. o zmianie ustawy o systemie oceny zgodności oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 marca 2003 r. o transporcie kolejowym, ustawę z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów, ustawę z dnia 16 kwietnia 2004 r. o wyrobach budowlanych, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne oraz ustawę z dnia 20 maja 2010 r. o wyrobach medycznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-04-15 |
 | Data wydania | 2011-05-18 |
-| Wejście w życie | 2011-06-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111020586) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/586/text.pdf) |
+
+Niniejsza ustawa wykonuje rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiające wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylające rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30).
 
 **Art. 1.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2010 r. Nr 138, poz. 935) wprowadza się następujące zmiany:
 
@@ -83,7 +84,7 @@ source: "eli-html"
 
 3. Do wniosku dołącza się oryginały dokumentów, o których mowa w ust. 2 pkt 4, albo kopie poświadczone przez osoby uprawnione do reprezentowania jednostki oceniającej zgodność.
 
-4. Wniosek składa się na piśmie lub za pomocą środków komunikacji elektronicznej, o których mowa w ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. Nr 144, poz. 1204, z późn. zm.). Jednostka oceniająca zgodność może uzgodnić z Centrum Akredytacji inny sposób udostępnienia dokumentów, o których mowa w ust. 2 pkt 4.
+4. Wniosek składa się na piśmie lub za pomocą środków komunikacji elektronicznej, o których mowa w ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. Nr 144, poz. 1204, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808, z 2007 r. Nr 50, poz. 331, z 2008 r. Nr 171, poz. 1056 i Nr 216, poz. 1371, z 2009 r. Nr 201, poz. 1540 oraz z 2011 r. Nr 85, poz. 459.). Jednostka oceniająca zgodność może uzgodnić z Centrum Akredytacji inny sposób udostępnienia dokumentów, o których mowa w ust. 2 pkt 4.
 
 5. Wniosek złożony za pomocą środków komunikacji elektronicznej powinien być opatrzony bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu.
 
@@ -91,8 +92,11 @@ source: "eli-html"
 
 7. Odmowa udzielenia akredytacji następuje po stwierdzeniu, że jednostka oceniająca zgodność nie spełnia wymagań, o których mowa w art. 2 pkt 10 rozporządzenia (WE) nr 765/2008. ” ;
 
-- **7)** w art. 16: w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) oznaczenie jednostki oceniającej zgodność, wskazanie jej siedziby i adresu; ” , – pkt 4 otrzymuje brzmienie: „ 4) wskazanie normy zharmonizowanej lub dodatkowych wymagań, o których mowa w art. 2 pkt 10 rozporządzenia (WE) nr 765/2008; ” , ust. 4–7 otrzymują brzmienie: „
+- **7)** w art. 16: w ust. 2: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** oznaczenie jednostki oceniającej zgodność, wskazanie jej siedziby i adresu; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** wskazanie normy zharmonizowanej lub dodatkowych wymagań, o których mowa w art. 2 pkt 10 rozporządzenia (WE) nr 765/2008; ” , ust. 4–7 otrzymują brzmienie: „
     - **b)**
 
 4. Ograniczenie zakresu akredytacji następuje, jeżeli akredytowana jednostka oceniająca zgodność nie spełnia warunków określonych w certyfikacie akredytacji.
@@ -139,8 +143,12 @@ source: "eli-html"
 
 2. Centrum Akredytacji może zawierać z zagranicznymi jednostkami akredytującymi porozumienia o wzajemnym uznawaniu kompetencji akredytowanych jednostek oceniających zgodność. ” ;
 
-- **15)** w art. 27: w ust. 6: – pkt 4 i 5 otrzymują brzmienie: „ 4) sporządzanie projektu rocznego planu finansowego Centrum Akredytacji; 5) sporządzanie rocznego sprawozdania finansowego oraz sprawozdania z działalności Centrum Akredytacji i przedstawianie ich ministrowi właściwemu do spraw gospodarki do dnia 31 marca roku następnego; ” , – dodaje się pkt 6 w brzmieniu: „ 6) przekazywanie ministrowi właściwemu do spraw gospodarki aktualnej informacji o zakresie akredytacji udzielanej w związku z unijnym prawodawstwem harmonizacyjnym. ” , dodaje się ust. 17–19 w brzmieniu: „
+- **15)** w art. 27: w ust. 6: pkt 4 i 5 otrzymują brzmienie: „
     - **a)**
+
+- **4)** sporządzanie projektu rocznego planu finansowego Centrum Akredytacji;
+- **5)** sporządzanie rocznego sprawozdania finansowego oraz sprawozdania z działalności Centrum Akredytacji i przedstawianie ich ministrowi właściwemu do spraw gospodarki do dnia 31 marca roku następnego; ” , dodaje się pkt 6 w brzmieniu: „
+- **6)** przekazywanie ministrowi właściwemu do spraw gospodarki aktualnej informacji o zakresie akredytacji udzielanej w związku z unijnym prawodawstwem harmonizacyjnym. ” , dodaje się ust. 17–19 w brzmieniu: „
     - **b)**
 
 17. Zastępcę Dyrektora Centrum powołuje, na wniosek Dyrektora, minister właściwy do spraw gospodarki, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru. Minister właściwy do spraw gospodarki odwołuje zastępcę Dyrektora Centrum.
@@ -188,8 +196,12 @@ source: "eli-html"
 
 4. Kompetencje organów wyspecjalizowanych określają przepisy odrębne. ” ;
 
-- **23)** w art. 39: w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) współpraca z organami wyspecjalizowanymi oraz organami celnymi; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „ 5) podawanie do publicznej wiadomości i przekazywanie Komisji Europejskiej informacji o organach wyspecjalizowanych i ich kompetencjach; 6) sporządzanie okresowych planów i sprawozdań dotyczących funkcjonowania systemu kontroli wyrobów oraz podawanie ich do publicznej wiadomości i przekazywanie Komisji Europejskiej, państwom członkowskim Unii Europejskiej i państwom członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronom umowy o Europejskim Obszarze Gospodarczym. ” , w ust. 3 pkt 3 i 4 otrzymują brzmienie: „
+- **23)** w art. 39: w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** współpraca z organami wyspecjalizowanymi oraz organami celnymi; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „
+- **5)** podawanie do publicznej wiadomości i przekazywanie Komisji Europejskiej informacji o organach wyspecjalizowanych i ich kompetencjach;
+- **6)** sporządzanie okresowych planów i sprawozdań dotyczących funkcjonowania systemu kontroli wyrobów oraz podawanie ich do publicznej wiadomości i przekazywanie Komisji Europejskiej, państwom członkowskim Unii Europejskiej i państwom członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronom umowy o Europejskim Obszarze Gospodarczym. ” , w ust. 3 pkt 3 i 4 otrzymują brzmienie: „
     - **b)**
 
 - **3)** niezwłoczne przekazywanie Prezesowi UOKiK kopii decyzji, o których mowa w: art. 41c ust. 3, art. 30 ust. 1 pkt 2 i 3 i ust. 2, art. 31 ust. 1 pkt 2 i 3 i ust. 2 oraz art. 31a ust. 3 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych, art. 19p ust. 4 i 5 ustawy z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych;
@@ -305,7 +317,7 @@ source: "eli-html"
 - **1)** szczegółowy tryb postępowania organów celnych przy zatrzymywaniu wyrobów,
 - **2)** tryb wydawania i postępowania z opinią wydaną przez organ wyspecjalizowany,
 - **3)** szczegółowy sposób umieszczania przez organy celne adnotacji na dokumentach towarzyszących wyrobom zatrzymanym przez organy celne lub w systemie teleinformatycznym,
-- **4)** szczegółowy tryb postępowania organów celnych i organów wyspecjalizowanych w przypadku wszczęcia postępowania w sprawie zniszczenia wyrobu mając na uwadze konieczność zapobiegania przywozowi na terytorium Rzeczypospolitej Polskiej wyrobów, które nie spełniają zasadniczych, szczegółowych lub innych wymagań lub stwarzają poważne zagrożenie. ” ;
+- **4)** szczegółowy tryb postępowania organów celnych i organów wyspecjalizowanych w przypadku wszczęcia postępowania w sprawie zniszczenia wyrobu – mając na uwadze konieczność zapobiegania przywozowi na terytorium Rzeczypospolitej Polskiej wyrobów, które nie spełniają zasadniczych, szczegółowych lub innych wymagań lub stwarzają poważne zagrożenie. ” ;
 - **35)** po art. 43a dodaje się art. 43b w brzmieniu: „ W zakresie nieuregulowanym w niniejszym rozdziale do postępowania w sprawie wprowadzonych do obrotu lub oddanych do użytku wyrobów niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami oraz do postępowania, o którym mowa w art. 43a ust. 3–5, stosuje się przepisy Kodeksu postępowania administracyjnego. ” ;
 - **36)** art. 44 otrzymuje brzmienie: „
 
@@ -314,9 +326,9 @@ source: "eli-html"
 1. Prezes UOKiK, jako organ monitorujący funkcjonowanie systemu kontroli wyrobów, niezwłocznie informuje Komisję Europejską o decyzjach, o których mowa w:
 
 - **1)** art. 41c ust. 3 pkt 1–3 i ust. 5,
-- **2)** art. 30 ust. 1 pkt 2 i 3 i ust. 2, art. 31 ust. 1 pkt 2 i 3 i ust. 2 oraz art. 31a ust. 3 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych jeżeli dotyczą one wyrobów, które zostały lub mogą zostać udostępnione na terytorium państwa członkowskiego Unii Europejskiej innego niż Rzeczpospolita Polska lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
+- **2)** art. 30 ust. 1 pkt 2 i 3 i ust. 2, art. 31 ust. 1 pkt 2 i 3 i ust. 2 oraz art. 31a ust. 3 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych – jeżeli dotyczą one wyrobów, które zostały lub mogą zostać udostępnione na terytorium państwa członkowskiego Unii Europejskiej innego niż Rzeczpospolita Polska lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
 
-2. W przypadku stwierdzenia przez organ wyspecjalizowany, że wyrób stwarza poważne zagrożenie, Prezes UOKiK przekazuje, na zasadach określonych w art. 29 ustawy z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów (Dz. U. Nr 229, poz. 2275, z późn. zm.), informacje określone w ust. 1 oraz informacje o działaniach podjętych z własnej inicjatywy przez producenta, jego upoważnionego przedstawiciela, importera lub dystrybutora w celu wyeliminowania zagrożenia stwarzanego przez wyrób. ” ;
+2. W przypadku stwierdzenia przez organ wyspecjalizowany, że wyrób stwarza poważne zagrożenie, Prezes UOKiK przekazuje, na zasadach określonych w art. 29 ustawy z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów (Dz. U. Nr 229, poz. 2275, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 35, poz. 215, z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 18, poz. 97 i Nr 20, poz. 106 oraz z 2011 r. Nr 63, poz. 322.), informacje określone w ust. 1 oraz informacje o działaniach podjętych z własnej inicjatywy przez producenta, jego upoważnionego przedstawiciela, importera lub dystrybutora w celu wyeliminowania zagrożenia stwarzanego przez wyrób. ” ;
 
 - **37)** art. 46 otrzymuje brzmienie: „
 
@@ -328,7 +340,7 @@ source: "eli-html"
 
 - **39)** użyte w art. 38 ust. 2 i 3, art. 39 ust. 2 pkt 2 i 3 i ust. 3 pkt 1 i 2, art. 40 ust. 1, art. 40a, art. 40b ust. 2, art. 40l, art. 40m, art. 41 ust. 1, art. 41a ust. 1 oraz art. 41c ust. 2 pkt 1 i 2 i ust. 3, w różnej liczbie i przypadku, wyrazy „zasadnicze lub inne wymagania” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „zasadnicze, szczegółowe lub inne wymagania”.
 
-**Art. 2.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2007 r. Nr 16, poz. 94, z późn. zm.) w art. 25b ust. 1 otrzymuje brzmienie: „ 1. W przypadku gdy niniejsza ustawa nie stanowi inaczej do oceny zgodności podsystemów, akredytacji, autoryzacji i notyfikacji w tym zakresie oraz kontroli spełniania przez podsystemy zasadniczych wymagań dotyczących interoperacyjności kolei i postępowania w sprawie podsystemów niezgodnych z zasadniczymi wymaganiami dotyczącymi interoperacyjności kolei stosuje się odpowiednio przepisy: art. 5 pkt 4–9, 11–13 i 16, art. 14–18, art. 19 ust. 1 i 2, ust. 3 pkt 1 i 2, ust. 4–7, art. 21 ust. 3 i 4, art. 23, 26, 38–40, 40b-40f, 40h-40i, 41, 41b i 41c oraz art. 43a-44 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, z tym że ilekroć w tych przepisach jest mowa o „wprowadzeniu do obrotu” lub „wycofaniu z obrotu”, rozumie się przez to „oddanie do eksploatacji” lub „wycofanie z eksploatacji”. ” . W ustawie z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów (Dz. U. Nr 229, poz. 2275, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2007 r. Nr 16, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374, z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505, z 2009 r. Nr 1, poz. 3, Nr 18, poz. 97, Nr 19, poz. 100, Nr 98, poz. 817, Nr 115, poz. 966, Nr 157, poz. 1241 i Nr 214, poz. 1658 oraz z 2011 r. Nr 5, poz. 13.) w art. 25b ust. 1 otrzymuje brzmienie: „ 1. W przypadku gdy niniejsza ustawa nie stanowi inaczej do oceny zgodności podsystemów, akredytacji, autoryzacji i notyfikacji w tym zakresie oraz kontroli spełniania przez podsystemy zasadniczych wymagań dotyczących interoperacyjności kolei i postępowania w sprawie podsystemów niezgodnych z zasadniczymi wymaganiami dotyczącymi interoperacyjności kolei stosuje się odpowiednio przepisy: art. 5 pkt 4–9, 11–13 i 16, art. 14–18, art. 19 ust. 1 i 2, ust. 3 pkt 1 i 2, ust. 4–7, art. 21 ust. 3 i 4, art. 23, 26, 38–40, 40b-40f, 40h-40i, 41, 41b i 41c oraz art. 43a-44 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, z tym że ilekroć w tych przepisach jest mowa o „wprowadzeniu do obrotu” lub „wycofaniu z obrotu”, rozumie się przez to „oddanie do eksploatacji” lub „wycofanie z eksploatacji”. ” . W ustawie z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów (Dz. U. Nr 229, poz. 2275, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 35, poz. 215, z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 18, poz. 97 i Nr 20, poz. 106 oraz z 2011 r. Nr 63, poz. 322.) wprowadza się następujące zmiany:
 
 - **1)** w art. 22a ust. 1 otrzymuje brzmienie: „
 
@@ -358,11 +370,11 @@ source: "eli-html"
 - **1)** szczegółowy tryb postępowania organów celnych przy zatrzymywaniu produktów,
 - **2)** tryb wydawania opinii przez organy, o których mowa w art. 16 ust. 1, oraz sposób postępowania z taką opinią,
 - **3)** szczegółowy sposób umieszczania przez organy celne adnotacji na dokumentach towarzyszących produktom zatrzymanym przez organy celne lub w systemie teleinformatycznym,
-- **4)** szczegółowy tryb postępowania organów celnych i organów, o których mowa w art. 16 ust. 1, w przypadku wszczęcia postępowania w sprawie zniszczenia produktu mając na uwadze konieczność zapobiegania przywozowi na terytorium Rzeczypospolitej Polskiej produktów, które nie spełniają wymagań bezpieczeństwa lub stwarzają poważne zagrożenie. ” .
+- **4)** szczegółowy tryb postępowania organów celnych i organów, o których mowa w art. 16 ust. 1, w przypadku wszczęcia postępowania w sprawie zniszczenia produktu – mając na uwadze konieczność zapobiegania przywozowi na terytorium Rzeczypospolitej Polskiej produktów, które nie spełniają wymagań bezpieczeństwa lub stwarzają poważne zagrożenie. ” .
 
 **Art. 4.** W ustawie z dnia 16 kwietnia 2004 r. o wyrobach budowlanych (Dz. U. Nr 92, poz. 881, z 2009 r. Nr 18, poz. 97 oraz z 2010 r. Nr 114, poz. 760) w art. 16 ust. 3 otrzymuje brzmienie: „ 3. W kontroli prowadzonej przez właściwy organ, a dotyczącej wyrobów budowlanych, o których mowa w art. 5 ust. 1 pkt 1, może uczestniczyć pracownik Urzędu Ochrony Konkurencji i Konsumentów, upoważniony przez Prezesa UOKiK, za zgodą organu prowadzącego kontrolę, lub przedstawiciel właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, do czynności którego stosuje się przepisy niniejszego rozdziału dotyczące osoby kontrolującej. ” .
 
-**Art. 5.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716 oraz z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 229, poz. 1499 i Nr 238, poz. 1578.) wprowadza się następujące zmiany:
 
 - **1)** w art. 199 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
@@ -401,7 +413,7 @@ source: "eli-html"
 - **1)** szczegółowy tryb postępowania organów celnych przy zatrzymywaniu wyrobów,
 - **2)** tryb wydawania opinii przez Prezesa Urzędu oraz sposób postępowania z taką opinią,
 - **3)** szczegółowy sposób umieszczania przez organy celne adnotacji na dokumentach towarzyszących wyrobom zatrzymanym przez organy celne lub w systemie teleinformatycznym,
-- **4)** szczegółowy tryb postępowania organów celnych i Prezesa Urzędu w przypadku wszczęcia postępowania w sprawie zniszczenia wyrobu mając na uwadze konieczność zapobiegania przywozowi na terytorium Rzeczypospolitej Polskiej wyrobów, które nie spełniają określonych dla nich wymagań lub stwarzają poważne zagrożenie. ” .
+- **4)** szczegółowy tryb postępowania organów celnych i Prezesa Urzędu w przypadku wszczęcia postępowania w sprawie zniszczenia wyrobu – mając na uwadze konieczność zapobiegania przywozowi na terytorium Rzeczypospolitej Polskiej wyrobów, które nie spełniają określonych dla nich wymagań lub stwarzają poważne zagrożenie. ” .
 
 **Art. 7.**
 
@@ -413,5 +425,5 @@ source: "eli-html"
 
 **Art. 9.** Przepisy wykonawcze wydane na podstawie art. 37 ust. 3 i art. 39a ust. 7 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 37 ust. 3 i art. 39a ust. 7 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 33–35, art. 2, art. 3 pkt 3 oraz art. 6, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 33–35, art. 2, art. 3 pkt 3 oraz art. 6, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 marca 2003 r. o transporcie kolejowym, ustawę z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów, ustawę z dnia 16 kwietnia 2004 r. o wyrobach budowlanych, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne oraz ustawę z dnia 20 maja 2010 r. o wyrobach medycznych. 2) Niniejsza ustawa wykonuje rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiające wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylające rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30). 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808, z 2007 r. Nr 50, poz. 331, z 2008 r. Nr 171, poz. 1056 i Nr 216, poz. 1371, z 2009 r. Nr 201, poz. 1540 oraz z 2011 r. Nr 85, poz. 459. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 35, poz. 215, z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 18, poz. 97 i Nr 20, poz. 106 oraz z 2011 r. Nr 63, poz. 322. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374, z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505, z 2009 r. Nr 1, poz. 3, Nr 18, poz. 97, Nr 19, poz. 100, Nr 98, poz. 817, Nr 115, poz. 966, Nr 157, poz. 1241 i Nr 214, poz. 1658 oraz z 2011 r. Nr 5, poz. 13. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 35, poz. 215, z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 18, poz. 97 i Nr 20, poz. 106 oraz z 2011 r. Nr 63, poz. 322. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716 oraz z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 229, poz. 1499 i Nr 238, poz. 1578.
 

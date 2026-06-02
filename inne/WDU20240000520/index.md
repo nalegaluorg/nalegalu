@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Finansówz dnia 22 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie warunków emitowania obligacji skarbowych oferowanych w sieci sprzedaży detalicznej
+# Obwieszczenie Ministra Finansówz dnia 22 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie warunków emitowania obligacji skarbowych oferowanych w sieci sprzedaży detalicznej Minister Finansów kieruje działami administracji rządowej – budżet, finanse publiczne i instytucje finansowe, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -26,19 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000520) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/520/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Finansów z dnia 3 grudnia 2010 r. w sprawie warunków emitowania obligacji skarbowych oferowanych w sieci sprzedaży detalicznej Rozdział 1 – Przepisy ogólne Rozdział 2 – Sprzedaż obligacji Rozdział 3 – Sprzedaż w drodze subskrypcji Rozdział 4 – Sprzedaż w drodze zamiany Rozdział 5 – Inne formy sprzedaży obligacji Rozdział 6 – Oprocentowanie i inne należności uboczne od obligacji Rozdział 7 – Przedterminowy wykup obligacji Rozdział 8 – Wykup obligacji
+Załącznik – Rozporządzenie Ministra Finansów z dnia 3 grudnia 2010 r. w sprawie warunków emitowania obligacji skarbowych oferowanych w sieci sprzedaży detalicznej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 3 grudnia 2010 r. w sprawie warunków emitowania obligacji skarbowych oferowanych w sieci sprzedaży detalicznej (Dz. U. z 2019 r. poz. 944), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 22 grudnia 2022 r. zmieniającym rozporządzenie w sprawie warunków emitowania obligacji skarbowych oferowanych w sieci sprzedaży detalicznej (Dz. U. poz. 2830).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 22 grudnia 2022 r. zmieniającego rozporządzenie w sprawie warunków emitowania obligacji skarbowych oferowanych w sieci sprzedaży detalicznej (Dz. U. poz. 2830), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 22 grudnia 2022 r. zmieniającego rozporządzenie w sprawie warunków emitowania obligacji skarbowych oferowanych w sieci sprzedaży detalicznej (Dz. U. poz. 2830), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-” .
-1) Minister Finansów kieruje działami administracji rządowej – budżet, finanse publiczne i instytucje finansowe, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. ” . 1) Minister Finansów kieruje działami administracji rządowej – budżet, finanse publiczne i instytucje finansowe, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 Załącznik – Rozporządzenie Ministra Finansów z dnia 3 grudnia 2010 r. w sprawie warunków emitowania obligacji skarbowych oferowanych w sieci sprzedaży detalicznej
-Na podstawie art. 97 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 97 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa warunki emitowania obligacji skarbowych oferowanych w sieci sprzedaży detalicznej, w tym obligacji oszczędnościowych będących skarbowymi papierami oszczędnościowymi, zwanych dalej „obligacjami”, w szczególności:
 1)
@@ -74,7 +72,7 @@ Ilekroć w rozporządzeniu jest mowa o:
 liście emisyjnym – rozumie się przez to list emisyjny wydawany przez Ministra Finansów na podstawie art. 98 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, zawierający szczegółowe warunki emisji obligacji;
 2)
 punkcie sprzedaży obligacji – rozumie się przez to jednostkę organizacyjną banku lub jednostkę organizacyjną podmiotu prowadzącego działalność maklerską lub jednostkę organizacyjną innego podmiotu, biorącą udział, na podstawie umowy Ministra Finansów z agentem emisji lub podmiotami, o których mowa w § 7, w sprzedaży lub obsłudze obligacji;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 22 grudnia 2022 r. zmieniającego rozporządzenie w sprawie warunków emitowania obligacji skarbowych oferowanych w sieci sprzedaży detalicznej (Dz. U. poz. 2830), które weszło w życie z dniem 1 stycznia 2023 r.)
 rejestrze nabywców obligacji – rozumie się przez to rejestr prowadzony przez agenta emisji lub podmioty na zasadach określonych w umowie, o której mowa w pkt 8 lub § 7 ust. 2, zawierający zapisy, o których mowa w art. 4 ust. 2 lub 2a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2023 r. poz. 646, 825, 1723 i 1941); w rejestrze tym są ujawnione osoby, które nabyły obligacje na rynku pierwotnym, oraz kolejni posiadacze obligacji zapisanych w tym rejestrze, jeżeli obligacje nie zostały zapisane na rachunkach papierów wartościowych prowadzonych na podstawie umowy zawartej z posiadaczem obligacji lub na rachunkach zbiorczych prowadzonych przez uprawnione podmioty, a także posiadane przez te osoby obligacje;
 4)
 dniu ustalenia praw do świadczeń z obligacji – rozumie się przez to dzień, na który ustala się podmioty uprawnione do otrzymania, w dniu wymagalności, świadczeń z tytułu obligacji oraz ich wielkość;
@@ -82,7 +80,7 @@ dniu ustalenia praw do świadczeń z obligacji – rozumie się przez to dzień,
 subskrypcji – rozumie się przez to sprzedaż obligacji w drodze zapisów na obligacje;
 6)
 zamianie – rozumie się przez to sprzedaż obligacji poprzez zaliczenie na poczet ceny nabywanych obligacji wierzytelności z tytułu podlegających wykupowi obligacji;
-7)
+7W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 rachunku – rozumie się przez to rachunek bankowy, rachunek prowadzony przez spółdzielczą kasę oszczędnościowo-kredytową albo rachunek pieniężny;
 8)
 agencie emisji – rozumie się przez to podmiot lub podmioty prowadzące, na podstawie umowy zawartej z Ministrem Finansów, sprzedaż obligacji na rynku pierwotnym, a także obsługę obligacji;
@@ -99,7 +97,7 @@ Obligacje mogą być przedmiotem obrotu między podmiotami, o których mowa w us
 Obligacje emitowane jako skarbowe papiery oszczędnościowe mogą być nabywane przez osoby fizyczne, stowarzyszenia, inne organizacje społeczne i zawodowe oraz fundacje wpisane do rejestru sądowego, a w przypadku nierezydentów, również wpisane do innego rejestru urzędowego.
 4.
 Obligacje emitowane jako skarbowe papiery oszczędnościowe mogą być przedmiotem obrotu tylko pomiędzy podmiotami wymienionymi w ust. 3.
-5.
+5Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Obligacje emitowane jako skarbowe papiery oszczędnościowe zapisane w rejestrze nabywców obligacji prowadzonym przez danego agenta emisji lub dany podmiot, z którym została zawarta umowa, o której mowa w § 7 ust. 2, nie mogą być przenoszone do rejestru nabywców obligacji prowadzonego przez innego agenta emisji lub inny podmiot, z którym została zawarta umowa, o której mowa w § 7 ust. 2, ani na rachunki papierów wartościowych lub rachunki zbiorcze, o których mowa w § 3 pkt 3.
 § 5a.
 1.
@@ -118,6 +116,7 @@ Losowaniu podlega pojedyncza obligacja, co do której nie została złożona dys
 Szczegółowe zasady i sposób losowania określane są w liście emisyjnym.
 6.
 Obligacje, o których mowa w ust. 1, są zapisywane wyłącznie w rejestrze nabywców obligacji.
+Sprzedaż obligacji
 § 6.
 Obligacje są oferowane przez agenta emisji lub podmioty, o których mowa w § 7 ust. 1, w szczególności przez:
 1)
@@ -133,6 +132,7 @@ sprzedaż za pomocą systemów teleinformatycznych – wyłącznie osobom fizycz
 Minister Finansów może, na podstawie umowy, przyznać określonym podmiotom wyłączne prawo składania ofert zakupu na obligacje lub wyłączne prawo składania ofert zakupu na obligacje w całości lub części emisji. Informacje o zawarciu umowy Minister Finansów podaje do wiadomości publicznej w sposób określony w § 2 ust. 6, w dniu podania listu emisyjnego do wiadomości publicznej.
 2.
 Na podstawie umowy zawartej z Ministrem Finansów podmioty, o których mowa w ust. 1, mogą prowadzić sprzedaż obligacji na rynku pierwotnym, a także obsługę obligacji.
+Sprzedaż w drodze subskrypcji
 § 8.
 Subskrypcję mogą prowadzić uczestnicy bezpośredni Krajowego Depozytu, agent emisji lub podmioty, o których mowa w § 7 ust. 1, w trybie i zgodnie z zasadami ustalonymi przez Krajowy Depozyt.
 § 9.
@@ -177,10 +177,11 @@ Cena subskrypcyjna obligacji może być równa, wyższa lub niższa od wartości
 W przypadku gdy łączna wartość subskrybowanych obligacji przekracza wartość obligacji oferowanych do sprzedaży w drodze subskrypcji, Minister Finansów zastrzega sobie prawo redukcji zleceń wynikających z deklaracji zakupu. Stopa redukcji jest podawana do wiadomości w sposób określony w § 2 ust. 6, nie później niż w terminie określonym w liście emisyjnym. Nie przydziela się ułamkowych części obligacji.
 3.
 Dokonujący zakupu obligacji w drodze subskrypcji otrzymuje potwierdzenie nabycia obligacji.
+Sprzedaż w drodze zamiany
 § 11.
 1.
 Zamianę prowadzą uczestnicy bezpośredni Krajowego Depozytu, agent emisji lub podmioty, o których mowa w § 7 ust. 1, w trybie i zgodnie z zasadami ustalonymi przez Krajowy Depozyt oraz zgodnie z przepisami rozporządzenia.
-2.
+2Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Warunkiem prowadzenia zamiany przez uczestnika bezpośredniego Krajowego Depozytu jest prowadzenie przez niego rejestru nabywców obligacji lub rachunków papierów wartościowych, na których zostały zapisane obligacje, w tym rachunków prowadzonych w ramach umowy o świadczenie usług brokerskich.
 § 12.
 Zamiana obligacji może być dokonywana poprzez złożenie agentowi emisji lub podmiotom, o których mowa w § 7 ust. 1, lub uczestnikom bezpośrednim Krajowego Depozytu stosownej dyspozycji przez posiadacza obligacji określonej emisji obligacji.
@@ -214,10 +215,11 @@ Wartość obligacji nabywanych w drodze zamiany po cenie zamiany nie może przew
 Na poczet ceny zamiany w pierwszej kolejności zaliczane są wierzytelności z tytułu należności głównej podlegających wykupowi obligacji.
 7.
 Dokonujący zakupu obligacji w drodze zamiany otrzymuje potwierdzenie nabycia obligacji.
-§ 15.
+Inne formy sprzedaży obligacji
+§ 15Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Sprzedaż w punktach sprzedaży obligacji lub za pomocą systemów teleinformatycznych, dla obligacji o danym terminie wykupu, rozpoczyna się w terminie określonym w liście emisyjnym.
 § 16.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Nabywca, dokonujący zakupu obligacji w ramach sprzedaży w punktach sprzedaży obligacji lub za pomocą systemów teleinformatycznych, kupuje je po dziennej cenie sprzedaży, obliczanej w sposób określony w liście emisyjnym, odpowiadającej:
 1)
 cenie emisyjnej obligacji powiększonej o wartość odsetek naliczonych od dnia rozpoczęcia pierwszego okresu odsetkowego do dnia zakupu obligacji – w przypadku obligacji, których należnością uboczną są odsetki, lub
@@ -229,10 +231,11 @@ cenie emisyjnej obligacji.
 Cena emisyjna obligacji o danym terminie wykupu, ustalana przez Ministra Finansów, może być równa, wyższa lub niższa od wartości nominalnej obligacji. Cena ta jest podawana do wiadomości przed rozpoczęciem sprzedaży przez agenta emisji lub podmioty, o których mowa w § 7 ust. 1, w sposób określony w § 2 ust. 6 oraz w punktach sprzedaży obligacji. Cena emisyjna nie może być niższa niż cena zamiany lub cena subskrypcyjna obligacji o danym terminie wykupu.
 3.
 Wysokość dziennej ceny sprzedaży ustalonej zgodnie z zasadami, o których mowa w ust. 1, jest określana z dokładnością do dwóch miejsc po przecinku.
-4.
+4Ze zmianą wprowadzoną przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Nabywca obligacji, dokonujący zakupu w punktach sprzedaży obligacji lub za pomocą systemów teleinformatycznych, otrzymuje potwierdzenie nabycia obligacji.
 § 17.
 Minister Finansów, nie później niż na 5 dni roboczych przed rozpoczęciem sprzedaży, może odstąpić od sprzedaży w całości lub w części obligacji o danym terminie wykupu bez podania przyczyn. Informacja ta jest podawana do wiadomości publicznej w sposób określony w § 2 ust. 6.
+Oprocentowanie i inne należności uboczne od obligacji
 § 18.
 1.
 Oprocentowanie obligacji jest naliczane od jej wartości nominalnej, w okresach odsetkowych, określonych w liście emisyjnym.
@@ -249,10 +252,11 @@ Stopę procentową lub sposób jej obliczania oraz wysokość lub sposób oblicz
 2.
 Stopa procentowa dla obligacji o danym terminie wykupu jest podawana przez Ministra Finansów do wiadomości publicznej w sposób określony w § 2 ust. 6.
 § 20.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Wypłata odsetek następuje za pośrednictwem Krajowego Depozytu bądź podmiotu prowadzącego rachunek papierów wartościowych lub rachunek zbiorczy, na którym obligacje są zapisane.
 2.
 Wypłata odsetek za dany okres odsetkowy lub innych należności ubocznych, na rzecz posiadaczy obligacji, których obligacje są zapisane w rejestrze nabywców obligacji, następuje za pośrednictwem agenta emisji albo podmiotów, o których mowa w § 7 ust. 1, prowadzących rejestr nabywców obligacji.
+Przedterminowy wykup obligacji
 § 21.
 1.
 Minister Finansów może, w sposób określony w § 2 ust. 6, wezwać posiadaczy obligacji do przedłożenia obligacji do wcześniejszego wykupu, wyznaczając im w tym celu odpowiedni termin. Obligacje przedstawione do wcześniejszego wykupu nie podlegają oprocentowaniu od dnia wymagalności z tytułu wcześniejszego wykupu obligacji.
@@ -270,13 +274,12 @@ termin wcześniejszego wykupu,
 3)
 wysokość albo sposób ustalenia wysokości opłaty manipulacyjnej lub kwoty, o którą pomniejsza się wysokość należnych odsetek, lub zmiany oprocentowania,
 4)
-dzień, w którym zaprzestaje się naliczać oprocentowanie
-określa list emisyjny.
+dzień, w którym zaprzestaje się naliczać oprocentowanie – określa list emisyjny.
 3.
 W przypadku gdy łączna wartość obligacji przedstawionych do wykupu przekracza wartość nominalną obligacji, o której mowa w ust. 2, Minister Finansów zastrzega sobie prawo redukcji zleceń wynikających z dyspozycji przedstawienia do przedterminowego wykupu. Stopa redukcji jest podawana do wiadomości w sposób określony w § 2 ust. 6, nie później niż w dniu określonym w liście emisyjnym, po upływie terminu składania deklaracji.
 4.
 Dyspozycja dokonania przedterminowego wykupu powinna zawierać w szczególności:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2.)
 imię i nazwisko lub nazwę posiadacza obligacji;
 2)
 serię, liczbę oraz wartość nominalną obligacji, które przedstawia do przedterminowego wykupu;
@@ -289,20 +292,21 @@ oświadczenie o przyjęciu warunków realizacji przedterminowego wykupu.
 Minister Finansów może zastrzec, w liście emisyjnym, prawo bezwarunkowego wezwania posiadaczy obligacji do przedstawienia obligacji do przedterminowego wykupu. W takim przypadku obligacje nie podlegają oprocentowaniu od dnia wymagalności z tytułu przedterminowego wykupu.
 2.
 Cena wykupu obligacji może być równa, wyższa lub niższa od wartości nominalnej obligacji. Szczegółowe warunki, w tym wartość nominalną obligacji, które będą wcześniej wykupywane, lub sposób jej ustalenia oraz termin wcześniejszego wykupu określa list emisyjny.
+Wykup obligacji
 § 24.
 1.
 Wykup obligacji następuje według ich wartości nominalnej, z zastrzeżeniem § 21 ust. 2, § 22 ust. 1 oraz § 23 ust. 2.
 2.
 Wykup obligacji oraz wypłata należnych odsetek lub innych należności ubocznych następuje ze środków budżetu państwa w następujący sposób:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2.)
 gotówką – po stawieniu się posiadacza obligacji w punkcie sprzedaży obligacji prowadzącym obsługę kasową;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2.)
 przelewem – na rachunek posiadacza obligacji, na zasadach określonych w liście emisyjnym;
 3)
 poprzez zaliczenie wierzytelności posiadacza obligacji z tytułu wykupu obligacji na poczet ceny zakupywanych przez niego obligacji kolejnych emisji, na warunkach określonych w § 25.
 3.
 Minister Finansów wskaże w liście emisyjnym, który ze sposobów, o których mowa w ust. 2, ma zastosowanie przy wykupie.
-4.
+4Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Wykup obligacji następuje za pośrednictwem Krajowego Depozytu bądź podmiotu prowadzącego rachunek papierów wartościowych lub rachunek zbiorczy, na którym obligacje są zapisane.
 5.
 Wykup obligacji na rzecz posiadaczy obligacji, których obligacje są zapisane w rejestrze nabywców obligacji, następuje za pośrednictwem agenta emisji lub podmiotów, o których mowa w § 7 ust. 1, prowadzących rejestr nabywców obligacji.
@@ -320,17 +324,17 @@ Minister Finansów, przed terminem wykupu obligacji serii o danym terminie wykup
 § 26.
 Minister Finansów może uznać, że oświadczenie woli składane w związku z dokonywaną czynnością zakupu, zamiany, wypłaty odsetek lub wykupu obligacji może być wyrażone przez nabywcę obligacji za pomocą systemów teleinformatycznych. Sposób składania oświadczeń woli przez nabywcę określi list emisyjny.
 § 27.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Nabywający obligacje na podstawie umowy sprzedaży zawartej na rynku wtórnym poza systemem obrotu instrumentami finansowymi jest obowiązany:
 1)
 stawić się, wraz ze zbywcą, w dowolnym punkcie sprzedaży obligacji prowadzonym przez agenta emisji albo podmiot, o którym mowa w § 7 ust. 1, u którego nastąpiło nabycie obligacji, albo u prowadzącego rachunek papierów wartościowych, na którym zapisano obligacje będące przedmiotem umowy sprzedaży, oraz
 2)
 przedstawić umowę sprzedaży wraz ze świadectwem depozytowym, jeżeli było wystawione; dokumenty te przekazuje się agentowi emisji albo podmiotowi, o którym mowa w § 7 ust. 1, albo uczestnikowi bezpośredniemu Krajowego Depozytu w celu dokonania stosownych zmian odpowiednio w rejestrze nabywców obligacji albo na rachunkach papierów wartościowych.
-1a.
+1aDodany przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku, o którym mowa w ust. 1, stawienie się zbywcy nie jest wymagane, jeżeli umowa sprzedaży została zawarta w formie aktu notarialnego albo w formie pisemnej z podpisem notarialnie poświadczonym i zawiera dyspozycję zbywcy w zakresie przeniesienia obligacji na nabywcę oraz nazwę i termin wykupu obligacji będących przedmiotem umowy sprzedaży.
-2.
+2Ze zmianą wprowadzoną przez § 1 pkt 8 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku niedopełnienia obowiązku, o którym mowa w ust. 1, spełnienie świadczenia z obligacji na rzecz podmiotu ujawnionego w rejestrze nabywców obligacji lub posiadającego rachunek papierów wartościowych, na którym zapisano obligacje, stanowi wykonanie zobowiązania przez emitenta.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 8 lit. d rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku nabycia obligacji na innej podstawie niż umowa sprzedaży przepisy ust. 1–2 stosuje się odpowiednio.
 § 28.
 1.
@@ -340,21 +344,37 @@ Dni ustalenia praw do świadczeń z tytułu obligacji przypadają w terminach ok
 § 29.
 Jeżeli dzień, w którym na podstawie rozporządzenia lub listu emisyjnego powstaje obowiązek wykonania czynności, przypada na dzień ustawowo wolny od pracy lub sobotę, termin wykonania tej czynności upływa w pierwszym dniu roboczym po tym dniu.
 § 30.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2011 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2011 r.Niniejsze rozporządzenie poprzedzone było rozporządzeniem Ministra Finansów z dnia 26 czerwca 2006 r. w sprawie warunków emitowania obligacji skarbowych oferowanych w sieci sprzedaży detalicznej (Dz. U. poz. 774), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, stosownie do art. 119 ust. 1 ustawy z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. poz. 1241 i 1706 oraz z 2010 r. poz. 620, 685, 1020, 1078 i 1475). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872. 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 22 grudnia 2022 r. zmieniającego rozporządzenie w sprawie warunków emitowania obligacji skarbowych oferowanych w sieci sprzedaży detalicznej (Dz. U. poz. 2830), które weszło w życie z dniem 1 stycznia 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 6) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 7) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 8) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 2. 12) Dodany przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 2. 13) Ze zmianą wprowadzoną przez § 1 pkt 8 lit. c rozporządzenia, o którym mowa w odnośniku 2. 14) W brzmieniu ustalonym przez § 1 pkt 8 lit. d rozporządzenia, o którym mowa w odnośniku 2. 15) Niniejsze rozporządzenie poprzedzone było rozporządzeniem Ministra Finansów z dnia 26 czerwca 2006 r. w sprawie warunków emitowania obligacji skarbowych oferowanych w sieci sprzedaży detalicznej (Dz. U. poz. 774), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, stosownie do art. 119 ust. 1 ustawy z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. poz. 1241 i 1706 oraz z 2010 r. poz. 620, 685, 1020, 1078 i 1475).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Sprzedaż obligacji
+#### Rozdział 2 – Sprzedaż obligacji
 
-#### Rozdział 3 Sprzedaż w drodze subskrypcji
+#### Rozdział 3 – Sprzedaż w drodze subskrypcji
 
-#### Rozdział 4 Sprzedaż w drodze zamiany
+#### Rozdział 4 – Sprzedaż w drodze zamiany
 
-#### Rozdział 5 Inne formy sprzedaży obligacji
+#### Rozdział 5 – Inne formy sprzedaży obligacji
 
-#### Rozdział 6 Oprocentowanie i inne należności uboczne od obligacji
+#### Rozdział 6 – Oprocentowanie i inne należności uboczne od obligacji
 
-#### Rozdział 7 Przedterminowy wykup obligacji
+#### Rozdział 7 – Przedterminowy wykup obligacji
 
-#### Rozdział 8 Wykup obligacji
+#### Rozdział 8 – Wykup obligacji
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-03 |
 | Data wydania | 2015-09-18 |
-| Wejście w życie | 2015-09-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001416) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1416/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 378, 1130 i 1240.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom, w ramach regionalnych programów operacyjnych na lata 2014–2020, regionalnej pomocy inwestycyjnej w zakresie celów tematycznych, o których mowa w art. 9 pkt 1, 2 i 4–11 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320), zwanej dalej „pomocą”, do której mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1), zwanego dalej „rozporządzeniem nr 651/2014”, a także podmioty udzielające tej pomocy.
 § 2.
@@ -76,7 +75,7 @@ w formach wskazanych w art. 5 ust. 2 lit. a rozporządzenia nr 651/2014.
 Pomoc jest udzielana na pokrycie kosztów kwalifikowalnych, o których mowa w art. 14 ust. 4 rozporządzenia nr 651/2014, jeżeli są spełnione warunki określone odpowiednio w art. 14 ust. 6–9 rozporządzenia nr 651/2014.
 § 8.
 1.
-Maksymalną intensywność pomocy określa się zgodnie z przepisami wydanymi na podstawie art. 10 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.).
+Maksymalną intensywność pomocy określa się zgodnie z przepisami wydanymi na podstawie art. 10 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.).
 2.
 Maksymalną intensywność oraz wartość pomocy oblicza się, uwzględniając warunki określone w art. 14 ust. 12, 13 oraz 14 zdanie pierwsze rozporządzenia nr 651/2014.
 3.
@@ -118,5 +117,5 @@ Po przeprowadzeniu oceny wniosku pomoc może być udzielona przedsiębiorcy na p
 § 13.
 Pomoc jest udzielana do dnia określonego w art. 58 ust. 4 zdanie drugie rozporządzenia nr 651/2014.
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 378, 1130 i 1240. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.
 

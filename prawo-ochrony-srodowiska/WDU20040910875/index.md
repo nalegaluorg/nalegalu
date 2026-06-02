@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-04-02 |
 | Data wydania | 2004-04-30 |
-| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040910875) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/875/text.pdf) |
 
@@ -35,7 +34,7 @@ source: "eli-html"
 1. Przedsiębiorstwo energetyczne zajmujące się wytwarzaniem energii elektrycznej lub jej obrotem i sprzedające tę energię odbiorcom, którzy dokonują jej zakupu na własne potrzeby na terytorium Rzeczypospolitej Polskiej, jest obowiązane, w zakresie określonym w przepisach wydanych na podstawie ust. 6, do:
 
 - **1)** zakupu energii elektrycznej wytworzonej w odnawialnych źródłach energii lub
-- **2)** wytworzenia energii elektrycznej we własnych odnawialnych źródłach energii znajdujących się na terytorium Rzeczypospolitej Polskiej i przyłączonych do sieci.
+- **2)** wytworzenia energii elektrycznej we własnych odnawialnych źródłach energii – znajdujących się na terytorium Rzeczypospolitej Polskiej i przyłączonych do sieci.
 
 2. Przedsiębiorstwo energetyczne zajmujące się wytwarzaniem energii elektrycznej lub jej obrotem i sprzedające tę energię odbiorcom, którzy dokonują jej zakupu na własne potrzeby na terytorium Rzeczypospolitej Polskiej, jest obowiązane, w zakresie określonym w przepisach wydanych na podstawie ust. 7, do zakupu oferowanej energii elektrycznej wytworzonej w skojarzeniu z wytwarzaniem ciepła w przyłączonych do sieci źródłach energii znajdujących się na terytorium Rzeczypospolitej Polskiej.
 
@@ -51,13 +50,13 @@ source: "eli-html"
 - **2)** parametry techniczne i technologiczne wytwarzania energii elektrycznej lub ciepła z odnawialnych źródeł energii,
 - **3)** wymagania dotyczące pomiarów, rejestracji i sposobu obliczania ilości energii elektrycznej lub ciepła wytwarzanych w odnawialnych źródłach energii za pomocą instalacji wykorzystujących w procesie wytwarzania energii nośniki energii, o których mowa w art. 3 pkt 20, oraz inne paliwa,
 - **4)** wielkość i sposób obliczania udziału energii elektrycznej wytwarzanej w odnawialnych źródłach energii, do której zakupu lub wytworzenia przedsiębiorstwo energetyczne jest obowiązane, w sprzedaży energii elektrycznej, w okresie kolejnych 10 lat,
-- **5)** sposób uwzględniania w kalkulacji cen energii elektrycznej i ciepła ustalonych w taryfach przedsiębiorstw energetycznych, o których mowa w ust. 1 i 3, kosztów zakupu lub wytworzenia energii elektrycznej i ciepła, do których zakupu lub wytworzenia przedsiębiorstwo energetyczne jest obowiązane biorąc pod uwagę założenia polityki energetycznej państwa oraz zobowiązania wynikające z umów międzynarodowych.
+- **5)** sposób uwzględniania w kalkulacji cen energii elektrycznej i ciepła ustalonych w taryfach przedsiębiorstw energetycznych, o których mowa w ust. 1 i 3, kosztów zakupu lub wytworzenia energii elektrycznej i ciepła, do których zakupu lub wytworzenia przedsiębiorstwo energetyczne jest obowiązane – biorąc pod uwagę założenia polityki energetycznej państwa oraz zobowiązania wynikające z umów międzynarodowych.
 
 7. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, szczegółowy zakres obowiązku, o którym mowa w ust. 2, w tym:
 
 - **1)** parametry techniczne i technologiczne wytwarzania energii elektrycznej w skojarzeniu z wytwarzaniem ciepła,
 - **2)** wielkość i sposób obliczania udziału energii elektrycznej wytwarzanej w skojarzeniu z wytwarzaniem ciepła, w tym we własnych źródłach, do której zakupu przedsiębiorstwo energetyczne jest obowiązane, w sprzedaży energii elektrycznej,
-- **3)** sposób uwzględniania, w kalkulacji cen energii elektrycznej ustalonych w taryfach przedsiębiorstw energetycznych, o których mowa w ust. 2, kosztów zakupu energii elektrycznej, do której zakupu przedsiębiorstwo energetyczne jest obowiązane biorąc pod uwagę założenia polityki energetycznej państwa oraz zobowiązania wynikające z umów międzynarodowych. ” ;
+- **3)** sposób uwzględniania, w kalkulacji cen energii elektrycznej ustalonych w taryfach przedsiębiorstw energetycznych, o których mowa w ust. 2, kosztów zakupu energii elektrycznej, do której zakupu przedsiębiorstwo energetyczne jest obowiązane – biorąc pod uwagę założenia polityki energetycznej państwa oraz zobowiązania wynikające z umów międzynarodowych. ” ;
 - **2)** w art. 9c dodaje się ust. 10–12 w brzmieniu: „
 
 10. Operator systemu elektroenergetycznego, w obszarze swojego działania, jest obowiązany zapewnić wszystkim podmiotom pierwszeństwo w świadczeniu usług przesyłowych energii elektrycznej wytworzonej w odnawialnych źródłach energii oraz w skojarzeniu z wytwarzaniem ciepła, z zachowaniem niezawodności i bezpieczeństwa krajowego systemu elektroenergetycznego.
@@ -139,7 +138,7 @@ source: "eli-html"
 
 2b. Wpływy z tytułu kar wymierzanych w przypadku, o którym mowa w ust. 1 pkt 1a, w zakresie obowiązków, o których mowa w art. 9a ust. 1 i 3, stanowią dochód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej. ” .
 
-**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. Nr 62, poz. 627, z późn. zm.) w art. 401:
+**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. Nr 62, poz. 627, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, z 2002 r. Nr 74, poz. 676, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 233, poz. 1957, z 2003 r. Nr 46, poz. 392, Nr 80, poz. 717 i 721, Nr 162, poz. 1568, Nr 175, poz. 1693, Nr 190, poz. 1865 i Nr 217, poz. 2124 oraz z 2004 r. Nr 19, poz. 177, Nr 49, poz. 464 i Nr 70, poz. 631.) w art. 401:
 
 - **1)** po ust. 3 dodaje się ust. 3a w brzmieniu: „
 
@@ -157,5 +156,5 @@ source: "eli-html"
 
 **Art. 4.** Jeżeli podmioty wykonujące działalność gospodarczą w zakresie wytwarzania energii elektrycznej w odnawialnych źródłach energii, która na podstawie przepisów dotychczasowych nie wymagała uzyskania koncesji, złożą w terminie 3 miesięcy od dnia wejścia w życie ustawy wniosek o udzielenie koncesji na wytwarzanie energii elektrycznej w odnawialnych źródłach energii, mogą wykonywać taką działalność na dotychczasowych zasadach do czasu ostatecznego rozstrzygnięcia sprawy przez Prezesa Urzędu Regulacji Energetyki.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 maja 2004 r., z wyjątkiem art. 1 pkt 1, 2 i 11 oraz art. 2, które wchodzą w życie z dniem 1 stycznia 2005 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 maja 2004 r., z wyjątkiem art. 1 pkt 1, 2 i 11 oraz art. 2, które wchodzą w życie z dniem 1 stycznia 2005 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, z 2002 r. Nr 74, poz. 676, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 233, poz. 1957, z 2003 r. Nr 46, poz. 392, Nr 80, poz. 717 i 721, Nr 162, poz. 1568, Nr 175, poz. 1693, Nr 190, poz. 1865 i Nr 217, poz. 2124 oraz z 2004 r. Nr 19, poz. 177, Nr 49, poz. 464 i Nr 70, poz. 631.
 

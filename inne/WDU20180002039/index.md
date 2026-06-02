@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-09 |
 | Data wydania | 2018-10-25 |
-| Wejście w życie | 2018-11-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002039) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2039/text.pdf) |
 
@@ -40,23 +39,17 @@ rozporządzeniem Ministra Sprawiedliwości z dnia 28 sierpnia 2017 r. zmieniają
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 5 października 1993 r. zmieniającego rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U. poz. 440), który stanowi:
-„
+§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 5 października 1993 r. zmieniającego rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U. poz. 440), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 22 grudnia 2008 r. zmieniającego rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U. poz. 1666), który stanowi:
-„
+§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 22 grudnia 2008 r. zmieniającego rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U. poz. 1666), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. ” ;
 3)
-§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 28 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U. poz. 1715), który stanowi:
-„
+§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 28 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U. poz. 1715), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 12 kwietnia 1991 r. w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym
 Na podstawie art. 90 § 2 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2017 r. poz. 2291 oraz z 2018 r. poz. 398, 723, 1496, 1629 i 1669) zarządza się, co następuje:
 § 1.
@@ -144,25 +137,25 @@ Do dziennika korespondencyjnego wpisuje się inne pisma, wysyłane i wpływając
 § 6.
 Skorowidz alfabetyczno-numerowy prowadzi się wyłącznie dla czynności wpisanych do repertorium A.
 § 7.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 22 grudnia 2008 r. zmieniającego rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U. poz. 1666), które weszło w życie z dniem 31 grudnia 2008 r..
 Notariusz przechowuje u siebie oryginały aktów, testamentów i protokołów, odpisy dokonanych protestów oraz księgi notarialne wymienione w § 1 ust. 1 pkt 1 i 2, a także w § 6 z okresu ostatnich dziesięciu lat; po upływie tego okresu przekazuje je do archiwum ksiąg wieczystych sądu rejonowego właściwego ze względu na siedzibę kancelarii.
 2.
 Przepisu ust. 1 nie stosuje się do dokumentów przyjętych na przechowanie.
 3.
 Do dokumentów przekazanych przez notariusza do archiwum ksiąg wieczystych sądu rejonowego stosuje się odpowiednio przepisy o przekazywaniu akt sądowych do archiwum państwowego.
-§ 8.
+§ 8W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Oryginały aktów notarialnych, aktów poświadczenia dziedziczenia oraz odpisy protestów po upływie każdego roku oprawia się w porządku chronologicznym w jeden lub kilka tomów.
 § 9.
 W pracy biurowej kancelarii notariusza dla ewidencjonowania informacji zamieszczonych w księgach notarialnych mogą być wykorzystywane systemy informacji komputerowej na zasadach określonych w przepisach o księgach wieczystych i hipotece.
 § 10.
-1.
+1Oznaczenie ust. 1 nadane przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 5 października 1993 r. zmieniającego rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U. poz. 440), które weszło w życie z dniem 30 października 1993 r..
 W razie zaprzestania prowadzenia kancelarii notarialnej, akty i księgi notarialne oraz złożone na przechowanie dokumenty notariusz, który prowadził tę kancelarię, lub osoba wskazana przez radę właściwej izby notarialnej przekazuje do archiwum ksiąg wieczystych sądu rejonowego właściwego ze względu na siedzibę kancelarii. Pieniądze i papiery wartościowe przekazuje się do depozytu sądowego lub banku.
-2.
+2Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3; w brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 28 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U. poz. 1715), które weszło w życie z dniem 22 września 2017 r..
 W wypadku, o którym mowa w ust. 1, wypisy aktów notarialnych przekazanych do archiwum ksiąg wieczystych wydaje sąd rejonowy. Wypis podpisuje sędzia, asesor sądowy lub referendarz sądowy i opatruje go pieczęcią urzędową.
-3.
+3Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3..
 Przepis ust. 2 stosuje się również do wydawania wyciągów i odpisów.
-4.
+4Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3..
 Sąd rejonowy wymieniony w ust. 1 i 2 wydaje także inne dokumenty przekazane do archiwum ksiąg wieczystych oraz udziela informacji pisemnych i ustnych w tych sprawach z uwzględnieniem przepisów dotyczących aktów notarialnych i innych dokumentów.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 22 kwietnia 1991 r.
+Rozporządzenie wchodzi w życie z dniem 22 kwietnia 1991 r. 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 22 grudnia 2008 r. zmieniającego rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U. poz. 1666), które weszło w życie z dniem 31 grudnia 2008 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Oznaczenie ust. 1 nadane przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 5 października 1993 r. zmieniającego rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U. poz. 440), które weszło w życie z dniem 30 października 1993 r. 4) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3; w brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 28 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U. poz. 1715), które weszło w życie z dniem 22 września 2017 r. 5) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.
 

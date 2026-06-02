@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-12-03 |
 | Data wydania | 2010-12-28 |
-| Wejście w życie | 2011-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102491656) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1656/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 192, poz. 1381, z 2008 r. Nr 218, poz. 1391, Nr 227, poz. 1505 i Nr 234, poz. 1574, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 86, poz. 720 i Nr 98, poz. 817 oraz z 2010 r. Nr 43, poz. 246, Nr 164, poz. 1107, Nr 225, poz. 1466 i Nr 247, poz. 1652.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4: pkt 17 i 18 otrzymują brzmienie: „
     - **a)**
@@ -64,7 +63,7 @@ source: "eli-html"
 1. Wykonywanie przewozu kabotażowego na terytorium Rzeczypospolitej Polskiej przez podmiot:
 
 - **1)** mający siedzibę w państwie innym niż państwo członkowskie Unii Europejskiej, Konfederacja Szwajcarska lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym lub
-- **2)** wykorzystujący do przewozu pojazd zarejestrowany w państwie innym niż państwo członkowskie Unii Europejskiej, Konfederacja Szwajcarska lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym wymaga uzyskania zezwolenia na przewóz kabotażowy, które wydaje, w drodze decyzji administracyjnej, Główny Inspektor Transportu Drogowego. Przepisy art. 22 ust. 1 stosuje się odpowiednio. ” ;
+- **2)** wykorzystujący do przewozu pojazd zarejestrowany w państwie innym niż państwo członkowskie Unii Europejskiej, Konfederacja Szwajcarska lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym – wymaga uzyskania zezwolenia na przewóz kabotażowy, które wydaje, w drodze decyzji administracyjnej, Główny Inspektor Transportu Drogowego. Przepisy art. 22 ust. 1 stosuje się odpowiednio. ” ;
 - **9)** w art. 19a ust. 3 otrzymuje brzmienie: „
 
 3. Zezwolenie, o którym mowa w ust. 1, wydaje, w drodze decyzji administracyjnej, Główny Inspektor Transportu Drogowego. ” ;
@@ -187,7 +186,7 @@ source: "eli-html"
 1. Wykonywanie przewozu kabotażowego na terytorium Rzeczypospolitej Polskiej przez podmiot:
 
 - **1)** mający siedzibę w państwie innym niż państwo członkowskie Unii Europejskiej, Konfederacja Szwajcarska lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym lub
-- **2)** wykorzystujący do przewozu pojazd zarejestrowany w państwie innym niż państwo członkowskie Unii Europejskiej, Konfederacja Szwajcarska lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym wymaga uzyskania zezwolenia na przewóz kabotażowy, które wydaje w drodze decyzji administracyjnej Główny Inspektor Transportu Drogowego. ” ;
+- **2)** wykorzystujący do przewozu pojazd zarejestrowany w państwie innym niż państwo członkowskie Unii Europejskiej, Konfederacja Szwajcarska lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym – wymaga uzyskania zezwolenia na przewóz kabotażowy, które wydaje w drodze decyzji administracyjnej Główny Inspektor Transportu Drogowego. ” ;
 - **18)** po art. 29b dodaje się art. 29c w brzmieniu: „
 
 **Art. 29c.**
@@ -322,7 +321,7 @@ source: "eli-html"
     - **f)**
 
 - **2)** wydania wielokrotnego zagranicznego zezwolenia wydanego przez Międzynarodowe Forum Transportu (International Transport Forum),
-- **3)** wydania zezwolenia na wykonywanie międzynarodowego transportu drogowego osób na lub przez terytorium Rzeczypospolitej Polskiej pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu nie więcej niż 9 osób łącznie z kierowcą są przekazywane w całości na wyodrębniony rachunek bankowy Generalnej Dyrekcji Dróg Krajowych i Autostrad. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **3)** wydania zezwolenia na wykonywanie międzynarodowego transportu drogowego osób na lub przez terytorium Rzeczypospolitej Polskiej pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu nie więcej niż 9 osób łącznie z kierowcą – są przekazywane w całości na wyodrębniony rachunek bankowy Generalnej Dyrekcji Dróg Krajowych i Autostrad. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Wpływy uzyskane z opłat, za wydanie zezwoleń zagranicznych na wykonywanie międzynarodowego transportu drogowego rzeczy lub osób, są przekazywane, z zastrzeżeniem ust. 1 pkt 2:
@@ -341,7 +340,7 @@ source: "eli-html"
 
 **Art. 50.** Do zadań Inspekcji należy:
 
-- **1)** kontrola: dokumentów związanych z wykonywaniem transportu drogowego lub przewozów na potrzeby własne oraz przestrzegania warunków w nich określonych, dokumentów przewozowych określonych w ustawie z dnia 15 listopada 1984 r. – Prawo przewozowe, a także innych dokumentów przewozowych związanych z wykonywaniem transportu drogowego lub przewozów na potrzeby własne, o których mowa w art. 1, przestrzegania przepisów ruchu drogowego w zakresie i na zasadach określonych w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, przestrzegania przepisów dotyczących okresów prowadzenia pojazdu i obowiązkowych przerw oraz czasu odpoczynku kierowcy, przestrzegania szczegółowych zasad i warunków transportu zwierząt, przestrzegania zasad i warunków dotyczących przewozu drogowego towarów niebezpiecznych, wprowadzonych do obrotu ciśnieniowych urządzeń transportowych pod względem zgodności z wymaganiami technicznymi, dokumentacją techniczną i prawidłowością ich oznakowania w zakresie określonym w ustawie z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych (Dz. U. Nr 199, poz. 1671, z późn. zm.), rodzaju używanego paliwa, dokumentów związanych z wykonywaniem publicznego transportu zbiorowego;
+- **1)** kontrola: dokumentów związanych z wykonywaniem transportu drogowego lub przewozów na potrzeby własne oraz przestrzegania warunków w nich określonych, dokumentów przewozowych określonych w ustawie z dnia 15 listopada 1984 r. – Prawo przewozowe, a także innych dokumentów przewozowych związanych z wykonywaniem transportu drogowego lub przewozów na potrzeby własne, o których mowa w art. 1, przestrzegania przepisów ruchu drogowego w zakresie i na zasadach określonych w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, przestrzegania przepisów dotyczących okresów prowadzenia pojazdu i obowiązkowych przerw oraz czasu odpoczynku kierowcy, przestrzegania szczegółowych zasad i warunków transportu zwierząt, przestrzegania zasad i warunków dotyczących przewozu drogowego towarów niebezpiecznych, wprowadzonych do obrotu ciśnieniowych urządzeń transportowych pod względem zgodności z wymaganiami technicznymi, dokumentacją techniczną i prawidłowością ich oznakowania w zakresie określonym w ustawie z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych (Dz. U. Nr 199, poz. 1671, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808, z 2005 r. Nr 90, poz. 757 i Nr 141, poz. 1184, z 2006 r. Nr 249, poz. 1834 oraz z 2007 r. Nr 176, poz. 1238 i Nr 192, poz. 1381.), rodzaju używanego paliwa, dokumentów związanych z wykonywaniem publicznego transportu zbiorowego;
     - **a)**
     - **b)**
     - **c)**
@@ -393,7 +392,7 @@ source: "eli-html"
 
 **Art. 4.** Decyzje ministra właściwego do spraw transportu, w zakresie zadań i kompetencji podlegających przekazaniu na podstawie ustawy, wydane przed dniem wejścia w życie niniejszej ustawy zachowują moc.
 
-**Art. 5.** Do jednostki nie stosuje się przepisu art. 87 ust. 1 i art. 89 ust. 1 i 4 ustawy z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. Nr 157, poz. 1241, z późn. zm.).
+**Art. 5.** Do jednostki nie stosuje się przepisu art. 87 ust. 1 i art. 89 ust. 1 i 4 ustawy z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. Nr 157, poz. 1241, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 219, poz. 1706 oraz z 2010 r. Nr 96, poz. 620, Nr 108, poz. 685, Nr 152, poz. 1020, Nr 161, poz. 1078, Nr 226, poz. 1475 i Nr 238, poz. 1578.).
 
 **Art. 6.**
 
@@ -413,5 +412,5 @@ source: "eli-html"
 
 **Art. 10.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 26 pkt 2, art. 30 ust. 2d, art. 32 ust. 1 pkt 2, art. 41 ust. 4 i art. 50a ustawy zmienianej w art. 1 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 26, art. 30 ust. 7, art. 32, art. 41 ust. 4 i art. 50a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie tej ustawy.
 
-**Art. 11.** Ustawa wchodzi w życie z dniem 1 stycznia 2011 r., z wyjątkiem art. 5 i 7, które wchodzą w życie z dniem ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie z dniem 1 stycznia 2011 r., z wyjątkiem art. 5 i 7, które wchodzą w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 192, poz. 1381, z 2008 r. Nr 218, poz. 1391, Nr 227, poz. 1505 i Nr 234, poz. 1574, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 86, poz. 720 i Nr 98, poz. 817 oraz z 2010 r. Nr 43, poz. 246, Nr 164, poz. 1107, Nr 225, poz. 1466 i Nr 247, poz. 1652. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808, z 2005 r. Nr 90, poz. 757 i Nr 141, poz. 1184, z 2006 r. Nr 249, poz. 1834 oraz z 2007 r. Nr 176, poz. 1238 i Nr 192, poz. 1381. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 219, poz. 1706 oraz z 2010 r. Nr 96, poz. 620, Nr 108, poz. 685, Nr 152, poz. 1020, Nr 161, poz. 1078, Nr 226, poz. 1475 i Nr 238, poz. 1578.
 

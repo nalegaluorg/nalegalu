@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-09 |
 | Data wydania | 2024-02-15 |
-| Wejście w życie | 2024-02-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000189) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/189/text.pdf) |
 
@@ -80,5 +79,5 @@ Wnioski o mianowanie na pierwszy stopień wojskowy w korpusie podoficerów w zwi
 § 9.
 Dowódca jednostki wojskowej, który wystąpił z wnioskiem o mianowanie żołnierza na wyższy stopień wojskowy w związku z wyznaczeniem na wyższe stanowisko służbowe, niezwłocznie powiadamia organ, do którego wystąpił z tym wnioskiem, o ujawnionych okolicznościach powodujących niezasadność mianowania.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 16 stycznia 2004 r. w sprawie mianowania żołnierzy zawodowych i żołnierzy pełniących służbę kandydacką w razie ogłoszenia mobilizacji, ogłoszenia stanu wojennego i w czasie wojny (Dz. U. poz. 134), które utraciło moc z dniem 24 października 2023 r. zgodnie z art. 822 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r. poz. 347, 641, 1615, 1834 i 1872). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 16 stycznia 2004 r. w sprawie mianowania żołnierzy zawodowych i żołnierzy pełniących służbę kandydacką w razie ogłoszenia mobilizacji, ogłoszenia stanu wojennego i w czasie wojny (Dz. U. poz. 134), które utraciło moc z dniem 24 października 2023 r. zgodnie z art. 822 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r. poz. 347, 641, 1615, 1834 i 1872).
 

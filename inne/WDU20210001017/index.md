@@ -37,18 +37,14 @@ rozporządzeniem Ministra Zdrowia z dnia 31 sierpnia 2020 r. zmieniającym rozpo
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Zdrowia z dnia 20 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie Krajowej Rady Akredytacyjnej Szkół Pielęgniarek i Położnych (Dz. U. poz. 705), który stanowi:
-„
+§ 2 rozporządzenia Ministra Zdrowia z dnia 20 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie Krajowej Rady Akredytacyjnej Szkół Pielęgniarek i Położnych (Dz. U. poz. 705), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 13 marca 2020 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 13 marca 2020 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Zdrowia z dnia 31 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie Krajowej Rady Akredytacyjnej Szkół Pielęgniarek i Położnych (Dz. U. poz. 1515), który stanowi:
-„
+§ 2 rozporządzenia Ministra Zdrowia z dnia 31 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie Krajowej Rady Akredytacyjnej Szkół Pielęgniarek i Położnych (Dz. U. poz. 1515), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 29 listopada 2012 r. w sprawie Krajowej Rady Akredytacyjnej Szkół Pielęgniarek i Położnych
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 29 listopada 2012 r. w sprawie Krajowej Rady Akredytacyjnej Szkół Pielęgniarek i PołożnychMinister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 Na podstawie art. 60 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2021 r. poz. 479) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -72,7 +68,7 @@ opracowywanie procedury postępowania w celu przeprowadzenia akredytacji;
 analizę efektów kształcenia w szkołach na podstawie przeprowadzonych wizytacji szkół, o której mowa w art. 58 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, zwanej dalej „ustawą”;
 4)
 współpracę z instytucjami naukowymi w kraju i za granicą.
-§ 3.
+§ 3W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 31 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie Krajowej Rady Akredytacyjnej Szkół Pielęgniarek i Położnych (Dz. U. poz. 1515), które weszło w życie z dniem 3 września 2020 r..
 1.
 Posiedzenia Krajowej Rady zwołuje przewodniczący Krajowej Rady co najmniej raz w miesiącu.
 2.
@@ -91,9 +87,9 @@ Wiceprzewodniczący Krajowej Rady zastępuje przewodniczącego Krajowej Rady na 
 3.
 Do obowiązków sekretarza należy przygotowanie posiedzeń Krajowej Rady oraz sporządzanie projektów uchwał Krajowej Rady, o których mowa w § 5 ust. 1.
 § 5.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Krajowa Rada wydaje opinie i przedstawia wnioski w formie uchwał sporządzonych w postaci dokumentu elektronicznego.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Uchwała Krajowej Rady zostaje uznana za przyjętą, gdy wszyscy członkowie Krajowej Rady zostali powiadomieni o treści projektu uchwały oraz co najmniej połowa jej członków wzięła udział w podejmowaniu uchwały. W przypadku równej liczby głosów decyduje głos przewodniczącego Krajowej Rady.
 3.
 Przewodniczący Krajowej Rady może zarządzić z własnej inicjatywy lub na wniosek co najmniej 3 członków Krajowej Rady głosowanie tajne.
@@ -111,14 +107,14 @@ podstawę prawną;
 rozstrzygnięcie wraz z uzasadnieniem;
 5)
 termin wejścia w życie;
-6)
+6W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 kwalifikowany podpis elektroniczny osoby przewodniczącej posiedzeniu.
-6.
+6W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Uchwały ewidencjonuje się w rejestrze uchwał i przechowuje się wraz z protokołami określonymi w § 6 w systemie elektronicznego zarządzania dokumentacją w urzędzie obsługującym ministra właściwego do spraw zdrowia.
 § 6.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Z posiedzenia Krajowej Rady sporządza się protokół w postaci dokumentu elektronicznego.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Osoba przewodnicząca posiedzeniu i sekretarz podpisują protokół, opatrując go kwalifikowanym podpisem elektronicznym.
 3.
 Treść protokołu zatwierdza Krajowa Rada na najbliższym posiedzeniu.
@@ -138,14 +134,14 @@ informację na temat przebiegu posiedzenia;
 wykaz przyjętych uchwał wraz z wynikami głosowania;
 7)
 zdania odrębne członków Krajowej Rady – w przypadku zgłoszenia.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Do protokołu załącza się, w postaci dokumentu elektronicznego, listę osób uczestniczących w posiedzeniu zawierającą imię i nazwisko danej osoby oraz jej kwalifikowany podpis elektroniczny.
 § 7.
 1.
 W celu przygotowania opinii i wniosków Krajowa Rada może powoływać komisje składające się z członków Krajowej Rady.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Przewodniczący Krajowej Rady może, w zakresie zadań Krajowej Rady, zlecać członkom Krajowej Rady wykonywanie ekspertyz oraz analiz, które będą przygotowywane w postaci dokumentu elektronicznego.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Osoba przewodnicząca posiedzeniu może, w zakresie spraw rozpatrywanych na posiedzeniu Krajowej Rady, zlecać członkom Krajowej Rady wykonywanie ekspertyz oraz analiz, które będą przygotowywane w postaci dokumentu elektronicznego.
 § 8.
 1.
@@ -174,7 +170,7 @@ dane dotyczące kandydata: imię i nazwisko, adres zamieszkania, wykształcenie,
 tytuł naukowy lub stopień naukowy kandydata;
 4)
 uzasadnienie zgłaszanej kandydatury;
-5)
+5Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.)
 zgodę kandydata na kandydowanie.
 § 9.
 1.
@@ -199,7 +195,7 @@ przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypła
 2.
 Wynagrodzenie, o którym mowa w ust. 1, ulega obniżeniu w przypadku nieuczestniczenia członka Krajowej Rady w jej pracach; obniżenie wynagrodzenia wynosi 20% wysokości określonej w ust. 1 za każdy dzień nieobecności na posiedzeniu.
 § 11.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2..
 Wszczęcie postępowania akredytacyjnego następuje na wniosek szkoły o przeprowadzenie oceny niezbędnej do udzielenia i utrzymania akredytacji, zwany dalej „wnioskiem”, składany wraz z dołączonymi do niego dokumentami odrębnie dla kierunku pielęgniarstwo albo położnictwo, w postaci dokumentu elektronicznego sporządzonego w formacie PDF i opatrzonego kwalifikowanym podpisem elektronicznym albo podpisem zaufanym rektora, za pośrednictwem elektronicznej skrzynki podawczej ministra właściwego do spraw zdrowia.
 2.
 Szkoła, która występuje po raz pierwszy o udzielenie akredytacji, składa wniosek nie później niż na 3 miesiące przed terminem rozpoczęcia rekrutacji.
@@ -267,7 +263,7 @@ Nieuzupełnienie wniosku w terminie określonym przez Krajową Radę powoduje po
 § 13.
 1.
 W celu dokonania oceny niezbędnej do udzielenia albo utrzymania akredytacji Krajowa Rada dokonuje analizy wniosku oraz przeprowadza wizytację szkoły, której celem jest ocena warunków realizacji procesu kształcenia przy spełnianiu określonych standardów kształcenia.
-1a.
+1aDodany przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii wizytację szkoły, o której mowa w ust. 1, przeprowadza się w szkole osobiście lub za pośrednictwem systemów teleinformatycznych, lub systemów łączności. Decyzję o sposobie przeprowadzenia wizytacji podejmuje osoba przewodnicząca posiedzeniu.
 2.
 Standardy kształcenia, o których mowa w ust. 1, obejmują:
@@ -289,7 +285,7 @@ monitorowanie karier zawodowych absolwentów szkoły w celu dostosowywania kieru
 W odniesieniu do szkoły, która nie rozpoczęła kształcenia, ocena w zakresie standardów kształcenia nie obejmuje: oceny wdrożenia i realizacji programu kształcenia, kontroli efektów kształcenia, prowadzonej działalności dydaktycznej i naukowej oraz monitorowania karier zawodowych absolwentów szkoły.
 4.
 Przeprowadzenie wizytacji szkoły nie może trwać dłużej niż 3 dni.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Po zakończeniu wizytacji szkoły jest sporządzany protokół w postaci dokumentu elektronicznego, w którym zamieszcza się:
 1)
 datę jego sporządzenia;
@@ -320,6 +316,5 @@ Opłata za przeprowadzenie postępowania akredytacyjnego wynosi 210% przeciętne
 2.
 Opłata za wydanie certyfikatu wynosi 50% wynagrodzenia, o którym mowa w ust. 1.
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 31 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie Krajowej Rady Akredytacyjnej Szkół Pielęgniarek i Położnych (Dz. U. poz. 1515), które weszło w życie z dniem 3 września 2020 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 9) Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 11) Dodany przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2. 12) W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2. 13) Rozporządzenie zostało ogłoszone w dniu 20 grudnia 2012 r. 14) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 31 lipca 2001 r. w sprawie Krajowej Rady Akredytacyjnej Szkolnictwa Medycznego oraz trybu uzyskiwania akredytacji (Dz. U. poz. 904) oraz rozporządzeniem Ministra Zdrowia z dnia 11 grudnia 2001 r. w sprawie opłat ponoszonych przez szkołę pielęgniarską i szkołę położnych za uzyskanie akredytacji oraz wydanie certyfikatu (Dz. U. poz. 1722), które utraciły moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 102 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. poz. 1039 i 1707).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 20 grudnia 2012 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 31 lipca 2001 r. w sprawie Krajowej Rady Akredytacyjnej Szkolnictwa Medycznego oraz trybu uzyskiwania akredytacji (Dz. U. poz. 904) oraz rozporządzeniem Ministra Zdrowia z dnia 11 grudnia 2001 r. w sprawie opłat ponoszonych przez szkołę pielęgniarską i szkołę położnych za uzyskanie akredytacji oraz wydanie certyfikatu (Dz. U. poz. 1722), które utraciły moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 102 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. poz. 1039 i 1707). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 31 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie Krajowej Rady Akredytacyjnej Szkół Pielęgniarek i Położnych (Dz. U. poz. 1515), które weszło w życie z dniem 3 września 2020 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 9) Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 11) Dodany przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2. 12) W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2. 13) Rozporządzenie zostało ogłoszone w dniu 20 grudnia 2012 r. 14) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 31 lipca 2001 r. w sprawie Krajowej Rady Akredytacyjnej Szkolnictwa Medycznego oraz trybu uzyskiwania akredytacji (Dz. U. poz. 904) oraz rozporządzeniem Ministra Zdrowia z dnia 11 grudnia 2001 r. w sprawie opłat ponoszonych przez szkołę pielęgniarską i szkołę położnych za uzyskanie akredytacji oraz wydanie certyfikatu (Dz. U. poz. 1722), które utraciły moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 102 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. poz. 1039 i 1707).
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-08-29 |
 | Data wydania | 2014-10-01 |
-| Wejście w życie | 2015-01-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001310) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1310/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2013 r. poz. 260, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2013 r. poz. 260, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 843, 1446 i 1543 oraz z 2014 r. poz. 659.) wprowadza się następujące zmiany:
 
 - **1)** w art. 13 w ust. 3a pkt 2 otrzymuje brzmienie: „
 - **2)** służb ratowniczych, służb ratownictwa górniczego, Morskiej Służby Poszukiwania i Ratownictwa, Straży Granicznej, Biura Ochrony Rządu, Służby Więziennej, Inspekcji Transportu Drogowego, Służby Celnej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego oraz Centralnego Biura Antykorupcyjnego; ” ;
@@ -50,7 +49,7 @@ source: "eli-html"
 2. Za naruszenie obowiązku, o którym mowa w art. 13i:
 
 - **1)** ust. 4a,
-- **2)** ust. 4b, jeśli skutkuje ono uiszczeniem opłaty w niepełnej wysokości wymierza się karę pieniężną.
+- **2)** ust. 4b, jeśli skutkuje ono uiszczeniem opłaty w niepełnej wysokości – wymierza się karę pieniężną.
 
 3. Karę pieniężną, o której mowa w ust. 2, wymierza się w wysokości:
 
@@ -64,7 +63,7 @@ source: "eli-html"
 6. Na podmiot, o którym mowa w:
 
 - **1)** ust. 4, nie może zostać nałożona więcej niż jedna kara pieniężna za poszczególne naruszenia, o których mowa w ust. 1 lub ust. 2 pkt 2, dotyczące danego pojazdu samochodowego,
-- **2)** ust. 5, nie może zostać nałożona więcej niż jedna kara pieniężna za naruszenie, o którym mowa w ust. 2 pkt 1 stwierdzone w trakcie jednej doby.
+- **2)** ust. 5, nie może zostać nałożona więcej niż jedna kara pieniężna za naruszenie, o którym mowa w ust. 2 pkt 1 – stwierdzone w trakcie jednej doby.
 
 7. Za dobę, w rozumieniu ust. 6, uznaje się okres od godziny 000 do godziny 2400 w danym dniu.
 
@@ -103,7 +102,7 @@ source: "eli-html"
 
 9. Zwrot pojazdu z parkingu następuje po przekazaniu kaucji przez podmiot, o którym mowa w ust. 2, na zasadach określonych w ust. 3.
 
-10. Jeżeli kara pieniężna, o której mowa w art. 13k ust. 1 lub 2, nie zostanie uiszczona lub pojazd nie zostanie odebrany z parkingu w ciągu 30 dni od dnia, w którym decyzja w sprawie nałożenia kary stała się ostateczna, stosuje się odpowiednio przepisy działu II rozdziału 6 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2012 r. poz. 1015, z późn. zm.) dotyczące egzekucji należności pieniężnych z ruchomości. Nie wszczyna się postępowania w sprawie nałożenia kar pieniężnych, o których mowa w art. 13k ust. 1 i 2, jeżeli od dnia popełnienia naruszenia upłynęło 6 miesięcy. ” ;
+10. Jeżeli kara pieniężna, o której mowa w art. 13k ust. 1 lub 2, nie zostanie uiszczona lub pojazd nie zostanie odebrany z parkingu w ciągu 30 dni od dnia, w którym decyzja w sprawie nałożenia kary stała się ostateczna, stosuje się odpowiednio przepisy działu II rozdziału 6 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2012 r. poz. 1015, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166, 1342 i 1529, z 2013 r. poz. 1289 oraz z 2014 r. poz. 379, 567, 897 i 1188.) dotyczące egzekucji należności pieniężnych z ruchomości. Nie wszczyna się postępowania w sprawie nałożenia kar pieniężnych, o których mowa w art. 13k ust. 1 i 2, jeżeli od dnia popełnienia naruszenia upłynęło 6 miesięcy. ” ;
 
 - **5)** w art. 40a ust. 5 otrzymuje brzmienie: „
 
@@ -112,16 +111,16 @@ source: "eli-html"
 - **1)** tryb, sposób i termin wnoszenia opłat elektronicznych oraz ich rozliczania, w tym tryb dokonywania zwrotu nienależnie pobranych opłat elektronicznych,
 - **2)** tryb i termin przekazywania opłat elektronicznych oraz kar pieniężnych, o których mowa w art. 13k ust. 1 i 2, na rachunek Krajowego Funduszu Drogowego,
 - **3)** przypadki, w których ustanawiane jest zabezpieczenie należności z tytułu opłat elektronicznych, oraz formę i sposób jego ustalania,
-- **4)** wysokość kaucji za wydawane korzystającemu z drogi publicznej urządzenie, o którym mowa w art. 13i ust. 3 mając na uwadze sprawny pobór opłat elektronicznych od użytkowników, efektywną obsługę i zabezpieczenie wpływów do Krajowego Funduszu Drogowego, o którym mowa w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, oraz technologię wykorzystaną w systemie elektronicznego poboru opłat elektronicznych, a także uwzględniając koszty urządzenia, o którym mowa w art. 13i ust. 3. ” .
+- **4)** wysokość kaucji za wydawane korzystającemu z drogi publicznej urządzenie, o którym mowa w art. 13i ust. 3 – mając na uwadze sprawny pobór opłat elektronicznych od użytkowników, efektywną obsługę i zabezpieczenie wpływów do Krajowego Funduszu Drogowego, o którym mowa w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, oraz technologię wykorzystaną w systemie elektronicznego poboru opłat elektronicznych, a także uwzględniając koszty urządzenia, o którym mowa w art. 13i ust. 3. ” .
 
-**Art. 2.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2013 r. poz. 433, 843, 1543 i 1646 oraz z 2014 r. poz. 805.) wprowadza się następujące zmiany:
 
 - **1)** w art. 37g pkt 1 i 2 otrzymują brzmienie: „
 - **1)** pojazdy Sił Zbrojnych Rzeczypospolitej Polskiej, a także sił zbrojnych państw obcych, jeżeli umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, tak stanowi, pojazdy jednostek ochrony przeciwpożarowej, zespołów ratownictwa medycznego, służb ratownictwa górniczego, Morskiej Służby Poszukiwania i Ratownictwa, Straży Granicznej, Biura Ochrony Rządu, Służby Więziennej, Inspekcji Transportu Drogowego, Służby Celnej, kontroli skarbowej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego oraz Centralnego Biura Antykorupcyjnego;
 - **2)** pojazdy Generalnej Dyrekcji Dróg Krajowych i Autostrad; ” ;
 - **2)** w art. 63 w pkt 6 uchyla się lit. f.
 
-**Art. 3.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm.) w art. 68 w ust. 1 w pkt 2 dodaje się przecinek i dodaje się pkt 3 w brzmieniu: „
+**Art. 3.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805 i 915.) w art. 68 w ust. 1 w pkt 2 dodaje się przecinek i dodaje się pkt 3 w brzmieniu: „
 
 - **3)** w art. 50 pkt 1 lit. j podlegają podmioty, o których mowa w art. 13k ust. 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych, w zakresie i na zasadach określonych w tej ustawie ” .
 
@@ -131,5 +130,5 @@ source: "eli-html"
 
 **Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 13l ust. 2 i art. 40a ust. 5 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 13l ust. 2 i art. 40a ust. 5 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 9 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 843, 1446 i 1543 oraz z 2014 r. poz. 659. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166, 1342 i 1529, z 2013 r. poz. 1289 oraz z 2014 r. poz. 379, 567, 897 i 1188. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2013 r. poz. 433, 843, 1543 i 1646 oraz z 2014 r. poz. 805. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805 i 915.
 

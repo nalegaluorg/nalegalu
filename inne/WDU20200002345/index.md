@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 grudnia 2020 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 10 grudnia 2020 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej, ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia oraz ustawę z dnia 16 lipca 2020 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-10 |
 | Data wydania | 2020-12-23 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002345) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2345/text.pdf) |
 
@@ -46,7 +45,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** innej niż inwestycja określona w pkt 1, dotyczącej wykonywania działalności leczniczej polegającej na udzielaniu świadczeń zdrowotnych której wartość kosztorysowa na dzień złożenia wniosku przekracza 2 mln zł.
+- **2)** innej niż inwestycja określona w pkt 1, dotyczącej wykonywania działalności leczniczej polegającej na udzielaniu świadczeń zdrowotnych – której wartość kosztorysowa na dzień złożenia wniosku przekracza 2 mln zł.
 
 1a. Wniosek o wydanie opinii, o której mowa w ust. 1, dotyczy inwestycji, której części tworzą komplementarną całość i są niezbędne do prawidłowego udzielania świadczeń opieki zdrowotnej.
 
@@ -65,10 +64,13 @@ source: "eli-html"
 - **5)** w art. 95e: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
-2. Wniosek o wydanie opinii, o której mowa w art. 95d ust. 1, składa się do organu wydającego opinię w postaci elektronicznej. Wniosek opatrzony jest kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym. ” , w ust. 3: – w pkt 5: – – lit. a otrzymuje brzmienie: „ a) zakres rzeczowy inwestycji, ze wskazaniem dziedzin medycyny, których dotyczy inwestycja, ” , – – lit. e otrzymuje brzmienie: „ e) źródła finansowania inwestycji oraz rodzaje poniesionych lub planowanych kosztów, o których mowa w art. 95d ust. 4, a w przypadku inwestycji budowlanej – również jej szacunkową wartość na dzień złożenia wniosku w podziale na grupy kosztów, ” , – uchyla się pkt 5a-6a, – pkt 7 otrzymuje brzmienie: „ 7) wskazanie planowanego terminu rozpoczęcia realizacji inwestycji; ” , ust. 6 otrzymuje brzmienie: „
+2. Wniosek o wydanie opinii, o której mowa w art. 95d ust. 1, składa się do organu wydającego opinię w postaci elektronicznej. Wniosek opatrzony jest kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym. ” , w ust. 3: w pkt 5: – lit. a otrzymuje brzmienie: „ zakres rzeczowy inwestycji, ze wskazaniem dziedzin medycyny, których dotyczy inwestycja, ” , – lit. e otrzymuje brzmienie: „ źródła finansowania inwestycji oraz rodzaje poniesionych lub planowanych kosztów, o których mowa w art. 95d ust. 4, a w przypadku inwestycji budowlanej – również jej szacunkową wartość na dzień złożenia wniosku w podziale na grupy kosztów, ” , – uchyla się pkt 5a-6a, pkt 7 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **a)**
+- **e)**
+- **7)** wskazanie planowanego terminu rozpoczęcia realizacji inwestycji; ” , ust. 6 otrzymuje brzmienie: „
+    - **c)**
 
 6. Złożenie wniosku o wydanie opinii, o której mowa w art. 95d ust. 1, podlega opłacie w wysokości 4000 zł. ” ;
 
@@ -105,7 +107,7 @@ source: "eli-html"
 - **1)** posiadać akcji lub udziałów w podmiocie leczniczym,
 - **2)** być członkami zarządu lub organów nadzorczych podmiotu leczniczego,
 - **3)** być członkami organów spółdzielni, stowarzyszeń lub fundacji wykonujących działalność leczniczą w formie podmiotu leczniczego,
-- **4)** wykonywać zajęć zarobkowych na podstawie stosunku pracy, umowy o świadczenie usług zarządczych, umowy zlecenia, umowy o dzieło albo innej umowy, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia, zawartej z podmiotem leczniczym który wystąpił z wnioskiem o wydanie opinii o celowości inwestycji, której wartość kosztorysowa przekracza 50 mln zł. Powody wyłączenia trwają także po ustaniu małżeństwa, faktycznego pozostawania we wspólnym pożyciu, przysposobienia, opieki lub kurateli.
+- **4)** wykonywać zajęć zarobkowych na podstawie stosunku pracy, umowy o świadczenie usług zarządczych, umowy zlecenia, umowy o dzieło albo innej umowy, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia, zawartej z podmiotem leczniczym – który wystąpił z wnioskiem o wydanie opinii o celowości inwestycji, której wartość kosztorysowa przekracza 50 mln zł. Powody wyłączenia trwają także po ustaniu małżeństwa, faktycznego pozostawania we wspólnym pożyciu, przysposobienia, opieki lub kurateli.
 
 4. Kandydaci na członków Komisji i członkowie Komisji przed każdym posiedzeniem Komisji, jednak nie później niż 10 dni od dnia wpływu do systemu IOWISZ wniosku o wydanie opinii o celowości inwestycji, której wartość kosztorysowa przekracza 50 mln zł, składają ministrowi właściwemu do spraw zdrowia oświadczenie dotyczące niezachodzenia okoliczności, o których mowa w ust. 3, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, dotyczące ich samych oraz ich małżonków, zstępnych i wstępnych w linii prostej do drugiego stopnia, osób, z którymi pozostają we wspólnym pożyciu, oraz osób związanych z nimi z tytułu przysposobienia, opieki lub kurateli. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
@@ -190,7 +192,7 @@ source: "eli-html"
 - **5)** składki na Fundusz Emerytur Pomostowych naliczone od wynagrodzeń, o których mowa w pkt 1, 2 i 8, w przypadku gdy są one płacone przez podmiot prowadzący rezydenturę,
 - **6)** wynagrodzenia za urlop wypoczynkowy lekarza odbywającego szkolenie specjalizacyjne w trybie rezydenckim, przy czym podstawę do jego wyliczenia stanowi wyłącznie wynagrodzenie zasadnicze, o którym mowa w pkt 1,
 - **7)** wynagrodzenia lekarza odbywającego szkolenie specjalizacyjne w trybie rezydenckim za czas niezdolności do pracy, o których mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, przy czym do podstawy wymiaru przyjmuje się wyłącznie wynagrodzenie zasadnicze tego lekarza, o którym mowa w pkt 1,
-- **8)** w uzasadnionych przypadkach – ekwiwalent za niewykorzystany przez lekarza odbywającego szkolenie specjalizacyjne w trybie rezydenckim urlop wypoczynkowy, przy czym podstawę do wyliczenia ekwiwalentu stanowi wyłącznie wynagrodzenie zasadnicze, o którym mowa w pkt 1 minister właściwy do spraw zdrowia przekazuje na podstawie wniosków podmiotów prowadzących rezydenturę.
+- **8)** w uzasadnionych przypadkach – ekwiwalent za niewykorzystany przez lekarza odbywającego szkolenie specjalizacyjne w trybie rezydenckim urlop wypoczynkowy, przy czym podstawę do wyliczenia ekwiwalentu stanowi wyłącznie wynagrodzenie zasadnicze, o którym mowa w pkt 1 – minister właściwy do spraw zdrowia przekazuje na podstawie wniosków podmiotów prowadzących rezydenturę.
 
 2a. Składanie wniosków, o których mowa w ust. 2, oraz ich realizacja odbywa się w Systemie Informatycznym Rezydentur, o którym mowa w art. 30 ust. 1 pkt 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, zwanym dalej „SIR”. ” , po ust. 2a dodaje się ust. 2aa-2ag w brzmieniu: „ 2aa. Wniosek, o którym mowa w ust. 2, podmiot prowadzący rezydenturę składa w SIR w terminie do 15 dnia każdego miesiąca. 2ab. Wniosek, o którym mowa w ust. 2, obejmuje faktycznie dokonane przez podmiot prowadzący rezydenturę wypłaty za okres poprzedzający miesiąc, w którym podmiot prowadzący rezydenturę składa wniosek, wyłącznie z tytułów określonych w ust. 2. 2ac. Minister właściwy do spraw zdrowia przekazuje środki wykazane we wniosku na wskazany w SIR rachunek bankowy podmiotu prowadzącego rezydenturę w terminie 7 dni od daty zatwierdzenia wniosku w SIR, z uwzględnieniem środków dotychczas przekazanych do tego podmiotu. 2ad. W przypadku stwierdzenia nieprawidłowości we wniosku, który został już złożony i zrealizowany, podmiot prowadzący rezydenturę jest obowiązany do niezwłocznego złożenia korekty wniosku. Korekta wniosku polega na ponownym złożeniu wniosku w SIR. Przepisy ust. 2ab i 2ac stosuje się odpowiednio. 2ae. Jeżeli korekta, o której mowa w ust. 2ad, dotyczy wniosku złożonego i zrealizowanego w latach poprzednich, to w przypadku, gdy korekta polega na:
 
@@ -247,7 +249,7 @@ source: "eli-html"
 1. Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, dotyczących:
 
 - **1)** uznania tytułu specjalisty, o którym mowa w art. 16n ust. 1 ustawy zmienianej w art. 1,
-- **2)** potwierdzenia kwalifikacji zawodowych felczera, o którym mowa w art. 1 ust. 1 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym stosuje się przepisy dotychczasowe.
+- **2)** potwierdzenia kwalifikacji zawodowych felczera, o którym mowa w art. 1 ust. 1 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym – stosuje się przepisy dotychczasowe.
 
 2. Naczelna Rada Lekarska przyznaje prawo wykonywania zawodu i używania tytułu felczera na podstawie przepisów dotychczasowych osobom, które do dnia 1 stycznia 2022 r. przedłożą jej w celu uzyskania prawa wykonywania zawodu decyzję ministra właściwego do spraw zdrowia potwierdzającą kwalifikacje zawodowe felczera, o której mowa w art. 1 ust. 1 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym. ” ;
 
@@ -285,6 +287,6 @@ source: "eli-html"
 **Art. 9.** Ustawa wchodzi w życie z dniem 1 stycznia 2021 r., z wyjątkiem:
 
 - **1)** art. 1 pkt 1, 2, 3 i 11, art. 5 pkt 1 i 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 8, który wchodzi w życie z dniem 31 grudnia 2020 r.
+- **2)** art. 8, który wchodzi w życie z dniem 31 grudnia 2020 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej, ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia oraz ustawę z dnia 16 lipca 2020 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw.
 
 

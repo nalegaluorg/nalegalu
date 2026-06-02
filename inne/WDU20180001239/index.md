@@ -22,20 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-19 |
 | Data wydania | 2018-06-27 |
-| Wejście w życie | 2018-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001239) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1239/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 20 pkt 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 20 pkt 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 3, 5, 106, 138, 771, 848, 1000 i 1045.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych (Dz. U. poz. 1396, z późn. zm.) w § 1 w pkt 27 lit. d i e otrzymują brzmienie:
-„
+W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych (Dz. U. poz. 1396, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2014 r. poz. 1681, z 2015 r. poz. 1592 i 2248, z 2016 r. poz. 1149, z 2017 r. poz. 704 oraz z 2018 r. poz. 639.) w § 1 w pkt 27 lit. d i e otrzymują brzmienie: „
 d)
 Sądowi Rejonowemu w Pile sprawy z zakresu prawa pracy i ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Chodzieży, Trzciance i Złotowie,
 e)
-Sądowi Rejonowemu Poznań-Grunwald i Jeżyce w Poznaniu sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych: w Obornikach, Poznań-Nowe Miasto i Wilda w Poznaniu, Poznań-Stare Miasto w Poznaniu, w Szamotułach, Śremie, Środzie Wielkopolskiej i we Wrześni oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych: w Gnieźnie, Grodzisku Wielkopolskim, Nowym Tomyślu, Obornikach, Poznań-Nowe Miasto i Wilda w Poznaniu, Poznań-Stare Miasto w Poznaniu, w Szamotułach, Śremie, Środzie Wielkopolskiej, Wągrowcu, Wolsztynie i we Wrześni,
-” .
+Sądowi Rejonowemu Poznań-Grunwald i Jeżyce w Poznaniu sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych: w Obornikach, Poznań-Nowe Miasto i Wilda w Poznaniu, Poznań-Stare Miasto w Poznaniu, w Szamotułach, Śremie, Środzie Wielkopolskiej i we Wrześni oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych: w Gnieźnie, Grodzisku Wielkopolskim, Nowym Tomyślu, Obornikach, Poznań-Nowe Miasto i Wilda w Poznaniu, Poznań-Stare Miasto w Poznaniu, w Szamotułach, Śremie, Środzie Wielkopolskiej, Wągrowcu, Wolsztynie i we Wrześni, ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2018 r.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2018 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 3, 5, 106, 138, 771, 848, 1000 i 1045. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2014 r. poz. 1681, z 2015 r. poz. 1592 i 2248, z 2016 r. poz. 1149, z 2017 r. poz. 704 oraz z 2018 r. poz. 639.
 

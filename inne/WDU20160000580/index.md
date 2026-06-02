@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-04-13 |
 | Data wydania | 2016-04-27 |
-| Wejście w życie | 2016-04-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000580) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/580/text.pdf) |
 
@@ -41,8 +40,14 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **5)** w art. 48: w ust. 1: – po pkt 4 dodaje się pkt 4a-4d w brzmieniu: „ 4a) art. 14e ust. 1 ustawy, o której mowa w art. 4, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 14f ust. 1 ustawy, o której mowa w art. 4, w brzmieniu nadanym niniejszą ustawą, 4b) art. 16 ust. 10, art. 16g ust. 1 i art. 16x ust. 1 ustawy, o której mowa w art. 4, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 16 ust. 10, art. 16g ust. 1 i art. 16x ust. 1 ustawy, o której mowa w art. 4, w brzmieniu nadanym niniejszą ustawą, 4c) art. 16r ust. 13 ustawy, o której mowa w art. 4, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 16ra ust. 2 ustawy, o której mowa w art. 4, w brzmieniu nadanym niniejszą ustawą, 4d) art. 16t ust. 4 ustawy, o której mowa w art. 4, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 16x ust. 1 ustawy, o której mowa w art. 4, w brzmieniu nadanym niniejszą ustawą, ” , – po pkt 11 dodaje się pkt 11a w brzmieniu: „ 11a) art. 56 ust. 3 ustawy, o której mowa w art. 7, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 56 ust. 3 ustawy, o której mowa w art. 7, w brzmieniu nadanym niniejszą ustawą, ” , – w części wspólnej wyrazy „1 stycznia 2017 r.” zastępuje się wyrazami „1 stycznia 2018 r.”, uchyla się ust. 2 i 3, w ust. 4 wyrazy „1 stycznia 2017 r.” zastępuje się wyrazami „31 stycznia 2018 r.”, w ust. 5 wyrazy „1 stycznia 2017 r.” zastępuje się wyrazami „31 stycznia 2018 r.”, w ust. 6 wyrazy „1 maja 2016 r.” zastępuje się wyrazami „1 maja 2017 r.”;
+- **5)** w art. 48: w ust. 1: po pkt 4 dodaje się pkt 4a-4d w brzmieniu: „
     - **a)**
+
+- **4a)** art. 14e ust. 1 ustawy, o której mowa w art. 4, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 14f ust. 1 ustawy, o której mowa w art. 4, w brzmieniu nadanym niniejszą ustawą,
+- **4b)** art. 16 ust. 10, art. 16g ust. 1 i art. 16x ust. 1 ustawy, o której mowa w art. 4, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 16 ust. 10, art. 16g ust. 1 i art. 16x ust. 1 ustawy, o której mowa w art. 4, w brzmieniu nadanym niniejszą ustawą,
+- **4c)** art. 16r ust. 13 ustawy, o której mowa w art. 4, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 16ra ust. 2 ustawy, o której mowa w art. 4, w brzmieniu nadanym niniejszą ustawą,
+- **4d)** art. 16t ust. 4 ustawy, o której mowa w art. 4, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 16x ust. 1 ustawy, o której mowa w art. 4, w brzmieniu nadanym niniejszą ustawą, ” , po pkt 11 dodaje się pkt 11a w brzmieniu: „
+- **11a)** art. 56 ust. 3 ustawy, o której mowa w art. 7, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 56 ust. 3 ustawy, o której mowa w art. 7, w brzmieniu nadanym niniejszą ustawą, ” , – w części wspólnej wyrazy „1 stycznia 2017 r.” zastępuje się wyrazami „1 stycznia 2018 r.”, uchyla się ust. 2 i 3, w ust. 4 wyrazy „1 stycznia 2017 r.” zastępuje się wyrazami „31 stycznia 2018 r.”, w ust. 5 wyrazy „1 stycznia 2017 r.” zastępuje się wyrazami „31 stycznia 2018 r.”, w ust. 6 wyrazy „1 maja 2016 r.” zastępuje się wyrazami „1 maja 2017 r.”;
     - **b)**
     - **c)**
     - **d)**

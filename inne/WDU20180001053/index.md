@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 25 maja 2018 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie szczegółowych czynności organów w sprawach związanych z dopuszczeniem pojazdu do ruchu oraz wzorów dokumentów w tych sprawach
+# Rozporządzenie Ministra Infrastrukturyz dnia 25 maja 2018 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie szczegółowych czynności organów w sprawach związanych z dopuszczeniem pojazdu do ruchu oraz wzorów dokumentów w tych sprawach Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-25 |
 | Data wydania | 2018-06-01 |
-| Wejście w życie | 2018-06-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001053) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1053/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 76 ust. 1 pkt 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 76 ust. 1 pkt 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1926 oraz z 2018 r. poz. 79, 106, 138, 317, 650 i 957.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Infrastruktury i Budownictwa z dnia 22 marca 2016 r. zmieniającym rozporządzenie w sprawie szczegółowych czynności organów w sprawach związanych z dopuszczeniem pojazdu do ruchu oraz wzorów dokumentów w tych sprawach (Dz. U. poz. 488 i 2152 oraz z 2017 r. poz. 2060) wprowadza się następujące zmiany:
 1)
-w § 1a wyrazy „dnia 3 czerwca 2018 r.” zastępuje się wyrazami „dnia poprzedzającego dzień wdrożenia rozwiązań technicznych umożliwiających wyjaśnianie niezgodności na zasadach określonych w art. 80bd ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, określony w komunikacie, o którym mowa w art. 10c ust. 2 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1273, z późn. zm.).”;
+w § 1a wyrazy „dnia 3 czerwca 2018 r.” zastępuje się wyrazami „dnia poprzedzającego dzień wdrożenia rozwiązań technicznych umożliwiających wyjaśnianie niezgodności na zasadach określonych w art. 80bd ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, określony w komunikacie, o którym mowa w art. 10c ust. 2 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1273, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 2183 i 2281, z 2016 r. poz. 352 i 2001, z 2017 r. poz. 379, 777 i 1926 oraz z 2018 r. poz. 957.).”;
 2)
 w § 2 wyrazy „4 czerwca 2018 r.” zastępuje się wyrazami „wdrożenia rozwiązań technicznych umożliwiających wyjaśnianie niezgodności na zasadach określonych w art. 80bd ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, określonym w komunikacie, o którym mowa w art. 10c ust. 2 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw”;
 3)
@@ -41,6 +40,5 @@ w pkt 4 w lit. b wyrazy „§ 2 ust. 9 pkt 2” zastępuje się wyrazami „§ 2
 b)
 w pkt 5 wyrazy „§ 2 ust. 10 pkt 4” zastępuje się wyrazami „§ 2 ust. 8”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1926 oraz z 2018 r. poz. 79, 106, 138, 317, 650 i 957. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 2183 i 2281, z 2016 r. poz. 352 i 2001, z 2017 r. poz. 379, 777 i 1926 oraz z 2018 r. poz. 957.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1926 oraz z 2018 r. poz. 79, 106, 138, 317, 650 i 957. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 2183 i 2281, z 2016 r. poz. 352 i 2001, z 2017 r. poz. 379, 777 i 1926 oraz z 2018 r. poz. 957.
 

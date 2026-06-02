@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 maja 2018 r. o zmianie ustawy – Prawo telekomunikacyjne oraz niektórych innych ustaw
+# Ustawa z dnia 10 maja 2018 r. o zmianie ustawy – Prawo telekomunikacyjne oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, ustawę z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych i ustawę z dnia 23 listopada 2012 r. – Prawo pocztowe.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-10 |
 | Data wydania | 2018-06-11 |
-| Wejście w życie | 2018-12-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001118) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1118/text.pdf) |
 
@@ -39,7 +38,7 @@ source: "eli-html"
 3. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
 
 - **1)** wzory formularzy służących do przekazywania Prezesowi UKE danych, o których mowa w ust. 1, wraz z objaśnieniami co do sposobu ich wypełniania,
-- **2)** sposób i elektroniczny format przekazywania danych kierując się koniecznością zapewnienia Prezesowi UKE informacji niezbędnych do właściwego realizowania jego obowiązków oraz potrzebą usprawnienia i ujednolicenia procesu przekazywania danych. ” ;
+- **2)** sposób i elektroniczny format przekazywania danych – kierując się koniecznością zapewnienia Prezesowi UKE informacji niezbędnych do właściwego realizowania jego obowiązków oraz potrzebą usprawnienia i ujednolicenia procesu przekazywania danych. ” ;
 - **2)** w art. 15 po pkt 3a dodaje się pkt 3b w brzmieniu: „
 - **3b)** decyzji o dostępie telekomunikacyjnym, o których mowa w art. 28–30, jeżeli obowiązek zapewnienia tego dostępu nie wynika z nałożonych na przedsiębiorcę telekomunikacyjnego obowiązków regulacyjnych, ” ;
 - **3)** w art. 56: ust. 2 otrzymuje brzmienie: „
@@ -49,10 +48,12 @@ source: "eli-html"
 
 - **b)**
 
-2a. W przypadku umowy o świadczenie usług telekomunikacyjnych zawieranej z konsumentem ma on prawo dokonać wyboru formy zawarcia umowy spośród oferowanych przez dostawcę usług. Dostawca usług ma obowiązek poinformowania konsumenta o przysługującym mu prawie wyboru formy zawarcia umowy przed jej zawarciem. ” , w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Umowa o świadczenie publicznie dostępnych usług telekomunikacyjnych, wymagająca formy pisemnej, elektronicznej lub dokumentowej, powinna, z zastrzeżeniem ust. 5, w jasnej, zrozumiałej i łatwo dostępnej formie określać w szczególności: ” , – pkt 17 otrzymuje brzmienie: „ 17) informację o postępowaniach w sprawie pozasądowego rozwiązywania sporów konsumenckich; ” , uchyla się ust. 6–9;
+2a. W przypadku umowy o świadczenie usług telekomunikacyjnych zawieranej z konsumentem ma on prawo dokonać wyboru formy zawarcia umowy spośród oferowanych przez dostawcę usług. Dostawca usług ma obowiązek poinformowania konsumenta o przysługującym mu prawie wyboru formy zawarcia umowy przed jej zawarciem. ” , w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Umowa o świadczenie publicznie dostępnych usług telekomunikacyjnych, wymagająca formy pisemnej, elektronicznej lub dokumentowej, powinna, z zastrzeżeniem ust. 5, w jasnej, zrozumiałej i łatwo dostępnej formie określać w szczególności: ” , pkt 17 otrzymuje brzmienie: „
 
 - **c)**
-- **d)**
+- **17)** informację o postępowaniach w sprawie pozasądowego rozwiązywania sporów konsumenckich; ” , uchyla się ust. 6–9;
+    - **d)**
+
 - **4)** po art. 56 dodaje się art. 56a w brzmieniu: „
 
 **Art. 56a.** W przypadku gdy oświadczenia woli składane są w formie dokumentowej, dostawca usług utrwala i dostarcza abonentowi treść zaproponowanych i uzgodnionych warunków umowy oraz oświadczenie abonenta o związaniu się tymi warunkami na trwałym nośniku w rozumieniu ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2017 r. poz. 683 i 2361 oraz z 2018 r. poz. 650), zwanym dalej „trwałym nośnikiem”. ” ;
@@ -71,7 +72,7 @@ source: "eli-html"
 
 - **1)** doręcza abonentowi będącemu stroną umowy zawartej w formie pisemnej, elektronicznej lub dokumentowej treść każdej proponowanej zmiany warunków umowy, w tym określonych w regulaminie świadczenia publicznie dostępnych usług telekomunikacyjnych, na trwałym nośniku w postaci odpowiadającej formie, w jakiej zawarta została umowa, chyba że abonent złożył żądanie określone w ust. 1b lub 1c,
 - **2)** doręcza na piśmie abonentowi niebędącemu stroną umowy zawartej w formie pisemnej, elektronicznej lub dokumentowej, który udostępnił adres korespondencyjny zgodnie z ust. 1a, na ten adres, treść każdej proponowanej zmiany warunków umowy określonych w regulaminie świadczenia publicznie dostępnych usług telekomunikacyjnych, chyba że abonent złożył żądanie określone w ust. 1b, oraz
-- **3)** podaje do publicznej wiadomości przez publikację na swojej stronie internetowej treść każdej proponowanej zmiany warunków umowy określonych w regulaminie świadczenia publicznie dostępnych usług telekomunikacyjnych z wyprzedzeniem co najmniej miesiąca przed wprowadzeniem tych zmian w życie. Okres ten może być krótszy, jeżeli publikacja aktu prawnego, z którego wynika konieczność wprowadzenia zmian, następuje z wyprzedzeniem krótszym niż miesiąc przed jego wejściem w życie lub okres taki wynika z decyzji Prezesa UKE. Jednocześnie abonent powinien zostać poinformowany o prawie wypowiedzenia umowy w przypadku braku akceptacji tych zmian, przy czym termin na realizację tego prawa nie może być krótszy niż do dnia wejścia tych zmian w życie.
+- **3)** podaje do publicznej wiadomości przez publikację na swojej stronie internetowej treść każdej proponowanej zmiany warunków umowy określonych w regulaminie świadczenia publicznie dostępnych usług telekomunikacyjnych – z wyprzedzeniem co najmniej miesiąca przed wprowadzeniem tych zmian w życie. Okres ten może być krótszy, jeżeli publikacja aktu prawnego, z którego wynika konieczność wprowadzenia zmian, następuje z wyprzedzeniem krótszym niż miesiąc przed jego wejściem w życie lub okres taki wynika z decyzji Prezesa UKE. Jednocześnie abonent powinien zostać poinformowany o prawie wypowiedzenia umowy w przypadku braku akceptacji tych zmian, przy czym termin na realizację tego prawa nie może być krótszy niż do dnia wejścia tych zmian w życie.
 
 1a. Abonent niebędący stroną umowy zawartej w formie pisemnej, elektronicznej lub dokumentowej w celu otrzymywania, w określonych w ustawie przypadkach, informacji i zawiadomień może udostępnić adres korespondencyjny, adres poczty elektronicznej lub adres elektroniczny podobnego środka porozumiewania się na odległość, o ile dostawca usług umożliwia korzystanie z takiego środka.
 
@@ -166,7 +167,7 @@ source: "eli-html"
 1c. Jeżeli podmiot realizuje dodatkowe świadczenie w imieniu:
 
 - **1)** organu administracji publicznej,
-- **2)** organizacji pozarządowej, o której mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2018 r. poz. 450, 650 i 723), lub innego podmiotu prowadzącego działalność pożytku publicznego, o którym mowa w art. 3 ust. 3 tej ustawy, z przeznaczeniem na cele działalności charytatywnej zgłoszenie, o którym mowa w ust. 1, może być przekazane Prezesowi UKE w terminie nie krótszym niż 2 dni robocze przed dniem rozpoczęcia świadczenia usługi o podwyższonej opłacie.
+- **2)** organizacji pozarządowej, o której mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2018 r. poz. 450, 650 i 723), lub innego podmiotu prowadzącego działalność pożytku publicznego, o którym mowa w art. 3 ust. 3 tej ustawy, z przeznaczeniem na cele działalności charytatywnej – zgłoszenie, o którym mowa w ust. 1, może być przekazane Prezesowi UKE w terminie nie krótszym niż 2 dni robocze przed dniem rozpoczęcia świadczenia usługi o podwyższonej opłacie.
 
 1d. Podmiot realizujący dodatkowe świadczenie, o którym mowa w art. 64 ust. 1, przekazuje zgłoszenie aktualizacyjne w przypadku zmiany informacji, o których mowa w ust. 1:
 
@@ -296,8 +297,11 @@ source: "eli-html"
 - **29)** w art. 202 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Jeżeli w wyniku kontroli, o której mowa w art. 199 ust. 1, Prezes UKE stwierdzi, że podmiot kontrolowany narusza nałożone na niego obowiązki w ten sposób, że powoduje to: ” ;
 - **30)** w art. 206 w ust. 2 pkt 6 otrzymuje brzmienie: „
 - **6)** o których mowa w art. 13 ust. 2, art. 18 ust. 3, art. 20, art. 22 ust. 1, art. 25d ust. 1, art. 27 ust. 6 i 9, art. 30 ust. 5 i art. 35a ust. 3 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych ” ;
-- **31)** w art. 209: w ust. 1: – uchyla się pkt 1, – pkt 14a otrzymuje brzmienie: „ 14a) nie wypełnia lub nienależycie wypełnia obowiązki określone w art. 64 i art. 64a, ” , – po pkt 14a dodaje się pkt 14aa-14ac w brzmieniu: „ 14aa) żąda od abonenta zapłaty niezgodnie z art. 64b, 14ab) nie przekazuje w terminie zgłoszenia, zgłoszenia aktualizacyjnego lub informacji o terminie zakończenia świadczenia usługi o podwyższonej opłacie, o których mowa odpowiednio w art. 65 ust. 1, 1d i 1k, 14ac) umożliwia świadczenie usługi o podwyższonej opłacie niezgodnie z art. 65a, ” , – pkt 25 otrzymuje brzmienie: „ 25) nie wypełnia obowiązków uzyskania zgody abonenta lub użytkownika końcowego, o których mowa w art. 161, art. 166, art. 169, art. 172 i art. 174, ” , po ust. 1 dodaje się ust. 11wbrzmieniu: „
+- **31)** w art. 209: w ust. 1: – uchyla się pkt 1, pkt 14a otrzymuje brzmienie: „
     - **a)**
+
+- **14a)** nie wypełnia lub nienależycie wypełnia obowiązki określone w art. 64 i art. 64a, ” , po pkt 14a dodaje się pkt 14aa-14ac w brzmieniu: „ 14aa) żąda od abonenta zapłaty niezgodnie z art. 64b, 14ab) nie przekazuje w terminie zgłoszenia, zgłoszenia aktualizacyjnego lub informacji o terminie zakończenia świadczenia usługi o podwyższonej opłacie, o których mowa odpowiednio w art. 65 ust. 1, 1d i 1k, 14ac) umożliwia świadczenie usługi o podwyższonej opłacie niezgodnie z art. 65a, ” , pkt 25 otrzymuje brzmienie: „
+- **25)** nie wypełnia obowiązków uzyskania zgody abonenta lub użytkownika końcowego, o których mowa w art. 161, art. 166, art. 169, art. 172 i art. 174, ” , po ust. 1 dodaje się ust. 11wbrzmieniu: „
     - **b)**
 
 11. Prezes UKE, jeżeli przemawia za tym charakter lub zakres naruszenia, może nałożyć karę pieniężną na podmiot, który:
@@ -348,7 +352,7 @@ source: "eli-html"
 7b. Jednostka samorządu terytorialnego aktualizuje informację, o której mowa w ust. 6, oraz informuje Prezesa UKE o:
 
 - **1)** zmianie lokalizacji publicznie dostępnych punktów dostępu do Internetu lub zmianie obszaru, na którym jest świadczona usługa dostępu do Internetu przez publicznie dostępne punkty dostępu do Internetu bez pobierania opłat lub w zamian za opłatę niższą niż cena rynkowa,
-- **2)** zaprzestaniu świadczenia usługi dostępu do Internetu przez publicznie dostępne punkty dostępu do Internetu bez pobierania opłat lub w zamian za opłatę niższą niż cena rynkowa w terminie 14 dni odpowiednio od dnia wystąpienia zmiany albo zaprzestania świadczenia tej usługi.
+- **2)** zaprzestaniu świadczenia usługi dostępu do Internetu przez publicznie dostępne punkty dostępu do Internetu bez pobierania opłat lub w zamian za opłatę niższą niż cena rynkowa – w terminie 14 dni odpowiednio od dnia wystąpienia zmiany albo zaprzestania świadczenia tej usługi.
 
 7c. Prezes UKE aktualizuje informację, o której mowa w ust. 6, w odniesieniu do świadczonej usługi dostępu do Internetu przez publicznie dostępne punkty dostępu do Internetu bez pobierania opłat lub w zamian za opłatę niższą niż cena rynkowa, w terminie 14 dni od dnia otrzymania informacji, o której mowa w ust. 7b. ” ;
 
@@ -425,6 +429,6 @@ source: "eli-html"
 **Art. 16.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 3 lit. c tiret drugie, pkt 21–23, art. 4 i art. 5, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-- **2)** art. 1 pkt 24 i 27, art. 6 i art. 7, które wchodzą w życie z dniem ogłoszenia.
+- **2)** art. 1 pkt 24 i 27, art. 6 i art. 7, które wchodzą w życie z dniem ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, ustawę z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych i ustawę z dnia 23 listopada 2012 r. – Prawo pocztowe.
 
 

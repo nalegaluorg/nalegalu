@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 października 2008 r. o zmianie ustawy o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 24 października 2008 r. o zmianie ustawy o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się: ustawę z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej i ustawę z dnia 18 października 2006 r. o wyrobie napojów spirytusowych oraz o rejestracji i ochronie oznaczeń geograficznych napojów spirytusowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-10-24 |
 | Data wydania | 2008-12-05 |
-| Wejście w życie | 2009-01-05 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082161368) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1368/text.pdf) |
 
@@ -84,7 +83,7 @@ source: "eli-html"
 - **1)** datę i godzinę wpływu wniosku spełniającego wymogi formalne do ministra właściwego do spraw rynków rolnych,
 - **2)** zgłoszoną nazwę produktu rolnego lub środka spożywczego,
 - **3)** nazwę albo imię i nazwisko wnioskodawcy,
-- **4)** informacje, czy wnioskodawca: ubiega się o rejestrację nazwy pochodzenia, oznaczenia geograficznego albo gwarantowanej tradycyjnej specjalności produktu rolnego lub środka spożywczego, wystąpił o rejestrację gwarantowanej tradycyjnej specjalności produktu rolnego lub środka spożywczego, z zastrzeżeniem jego nazwy, zgodnie z art. 13 ust. 2 rozporządzenia nr 509/2006 wpisuje się do rejestru wewnętrznego wniosków o rejestrację nazw pochodzenia, oznaczeń geograficznych i gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, zwanego dalej „rejestrem wewnętrznym wniosków”. ” ;
+- **4)** informacje, czy wnioskodawca: ubiega się o rejestrację nazwy pochodzenia, oznaczenia geograficznego albo gwarantowanej tradycyjnej specjalności produktu rolnego lub środka spożywczego, wystąpił o rejestrację gwarantowanej tradycyjnej specjalności produktu rolnego lub środka spożywczego, z zastrzeżeniem jego nazwy, zgodnie z art. 13 ust. 2 rozporządzenia nr 509/2006 – wpisuje się do rejestru wewnętrznego wniosków o rejestrację nazw pochodzenia, oznaczeń geograficznych i gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, zwanego dalej „rejestrem wewnętrznym wniosków”. ” ;
     - **a)**
     - **b)**
 
@@ -180,7 +179,7 @@ source: "eli-html"
 1. Osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, mająca uzasadniony interes, w postępowaniu w sprawie rejestracji nazwy pochodzenia, oznaczenia geograficznego lub gwarantowanej tradycyjnej specjalności produktów rolnych lub środków spożywczych, może wnieść do ministra właściwego do spraw rynków rolnych sprzeciw do wniosku o rejestrację, w terminie 5 miesięcy od dnia ogłoszenia w Dzienniku Urzędowym Unii Europejskiej:
 
 - **1)** wniosku o rejestrację lub wniosku o zmianę specyfikacji gwarantowanej tradycyjnej specjalności produktu rolnego lub środka spożywczego,
-- **2)** jednolitego dokumentu – w przypadku wniosku o rejestrację lub wniosku o zmianę specyfikacji nazwy pochodzenia i oznaczenia geograficznego produktu rolnego lub środka spożywczego złożonego przez wnioskodawcę, którego siedziba lub miejsce zamieszkania znajduje się poza terytorium Rzeczypospolitej Polskiej.
+- **2)** jednolitego dokumentu – w przypadku wniosku o rejestrację lub wniosku o zmianę specyfikacji nazwy pochodzenia i oznaczenia geograficznego produktu rolnego lub środka spożywczego – złożonego przez wnioskodawcę, którego siedziba lub miejsce zamieszkania znajduje się poza terytorium Rzeczypospolitej Polskiej.
 
 2. Do sprzeciwu stosuje się odpowiednio przepisy art. 9 pkt 1, art. 10–13, art. 17 ust. 2 i 3 oraz art. 18 ust. 2. ” ;
 
@@ -228,14 +227,19 @@ source: "eli-html"
 
 - **1)** jeżeli nazwa podlegająca tymczasowej ochronie krajowej jest wykorzystywana do produktów, które nie mogą być porównywane do produktów zarejestrowanych pod tą nazwą, i stosowanie tej nazwy nie doprowadzi do czerpania korzyści z renomy nazwy podlegającej tymczasowej ochronie krajowej lub
 - **2)** w przypadku, o którym mowa w art. 22a. ” ;
-- **27)** w art. 39: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych, zwany dalej „Głównym Inspektorem”, sprawujący nadzór nad upoważnionymi przez ministra właściwego do spraw rynków rolnych jednostkami certyfikującymi, zwanymi dalej „upoważnionymi jednostkami certyfikującymi”; ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) wojewódzki inspektor jakości handlowej artykułów rolno-spożywczych, zwany dalej „wojewódzkim inspektorem”, przeprowadzający kontrolę zgodności procesu produkcji produktów rolnych i środków spożywczych posiadających chronioną nazwę pochodzenia, chronione oznaczenie geograficzne lub będących gwarantowaną tradycyjną specjalnością ze specyfikacją. ” , ust. 2 otrzymuje brzmienie: „
+- **27)** w art. 39: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych, zwany dalej „Głównym Inspektorem”, sprawujący nadzór nad upoważnionymi przez ministra właściwego do spraw rynków rolnych jednostkami certyfikującymi, zwanymi dalej „upoważnionymi jednostkami certyfikującymi”; ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** wojewódzki inspektor jakości handlowej artykułów rolno-spożywczych, zwany dalej „wojewódzkim inspektorem”, przeprowadzający kontrolę zgodności procesu produkcji produktów rolnych i środków spożywczych posiadających chronioną nazwę pochodzenia, chronione oznaczenie geograficzne lub będących gwarantowaną tradycyjną specjalnością ze specyfikacją. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Kontrola, o której mowa w ust. 1 pkt 4, jest przeprowadzana zgodnie z zasadami oceny jakości handlowej artykułów rolno-spożywczych, o której mowa w przepisach o jakości handlowej artykułów rolno-spożywczych. ” ;
 
-- **28)** w art. 40: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Główny Inspektor w ramach nadzoru, o którym mowa w art. 39 ust. 1 pkt 2: ” , – pkt 4 otrzymuje brzmienie: „ 4) przekazuje upoważnionym jednostkom certyfikującym wnioski pokontrolne, w których wyznacza termin usunięcia uchybień wskazanych w tych wnioskach. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych mogą: ” ;
+- **28)** w art. 40: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Główny Inspektor w ramach nadzoru, o którym mowa w art. 39 ust. 1 pkt 2: ” , pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** przekazuje upoważnionym jednostkom certyfikującym wnioski pokontrolne, w których wyznacza termin usunięcia uchybień wskazanych w tych wnioskach. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych mogą: ” ;
     - **b)**
 
 - **29)** w art. 41 w ust. 2 pkt 2 otrzymuje brzmienie: „
@@ -290,8 +294,10 @@ source: "eli-html"
 
 1a. Za tradycyjne metody produkcji uważa się metody wykorzystywane co najmniej od 25 lat. ” ;
 
-- **34)** w art. 50: w ust. 1 w pkt 3: – lit. e otrzymuje brzmienie: „ e) informacje dotyczące tradycji, pochodzenia oraz historii produktu rolnego, środka spożywczego lub napoju spirytusowego, potwierdzające spełnienie wymagań określonych w art. 47 ust. 1, ” , – w lit. f kropkę zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „ g) streszczenie informacji, o których mowa w lit. a-c i e, zawierające nie więcej niż 3 000 znaków drukarskich łącznie ze spacjami. ” , dodaje się ust. 4 w brzmieniu: „
+- **34)** w art. 50: w ust. 1 w pkt 3: lit. e otrzymuje brzmienie: „ informacje dotyczące tradycji, pochodzenia oraz historii produktu rolnego, środka spożywczego lub napoju spirytusowego, potwierdzające spełnienie wymagań określonych w art. 47 ust. 1, ” , w lit. f kropkę zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „ streszczenie informacji, o których mowa w lit. a-c i e, zawierające nie więcej niż 3 000 znaków drukarskich łącznie ze spacjami. ” , dodaje się ust. 4 w brzmieniu: „
     - **a)**
+    - **e)**
+    - **g)**
     - **b)**
 
 4. Streszczenie informacji, o którym mowa w ust. 1 pkt 3 lit. g, jest umieszczane na stronie internetowej urzędu obsługującego ministra właściwego do spraw rynków rolnych. ” ;
@@ -339,7 +345,7 @@ source: "eli-html"
     - **c)**
     - **d)**
 
-- **2)** umieszcza nazwy, symbole, zwroty lub skróty, o których mowa w pkt 1, na produkcie rolnym lub środku spożywczym, lub jego opakowaniu lub używa ich w inny sposób podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+- **2)** umieszcza nazwy, symbole, zwroty lub skróty, o których mowa w pkt 1, na produkcie rolnym lub środku spożywczym, lub jego opakowaniu lub używa ich w inny sposób – podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
 
 2. Tej samej karze podlega, kto czyni przygotowania do popełnienia przestępstwa określonego w ust. 1.
 
@@ -347,12 +353,12 @@ source: "eli-html"
 
 **Art. 58.** Kto używa nazwy wpisanej na listę, o której mowa w art. 35 ust. 2, z naruszeniem art. 38, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2. ” ;
 
-- **43)** użyte w art. 1 w pkt 3 i 4, w art. 4 w pkt 6, w art. 39 w ust. 1 we wprowadzeniu do wyliczenia i w pkt 1 oraz w art. 40 w ust. 1 w pkt 2 i 3 w różnych przypadkach i liczbie wyrazy „świadectwo specyficznego charakteru” zastępuje się użytymi w odpowiednim przypadku i liczbie wyrazami „będących gwarantowanymi tradycyjnymi specjalnościami”. W ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2003 r. Nr 119, poz. 1117, z późn. zm.) w art. 132 w ust. 1 pkt 12 otrzymuje brzmienie: „
+- **43)** użyte w art. 1 w pkt 3 i 4, w art. 4 w pkt 6, w art. 39 w ust. 1 we wprowadzeniu do wyliczenia i w pkt 1 oraz w art. 40 w ust. 1 w pkt 2 i 3 w różnych przypadkach i liczbie wyrazy „świadectwo specyficznego charakteru” zastępuje się użytymi w odpowiednim przypadku i liczbie wyrazami „będących gwarantowanymi tradycyjnymi specjalnościami”. W ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2003 r. Nr 119, poz. 1117, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 33, poz. 286, z 2005 r. Nr 10, poz. 68, Nr 163, poz. 1362 i Nr 167, poz. 1398, z 2006 r. Nr 170, poz. 1217 i 1218 i Nr 208, poz. 1539, z 2007 r. Nr 99, poz. 662 i Nr 136, poz. 958 oraz z 2008 r. Nr 180, poz. 1113.) w art. 132 w ust. 1 pkt 12 otrzymuje brzmienie: „
 - **12)** zarejestrowanego oznaczenia geograficznego napoju spirytusowego, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 110/2008 z dnia 15 stycznia 2008 r. w sprawie definicji, opisu, prezentacji, etykietowania i ochrony oznaczeń geograficznych napojów spirytusowych oraz uchylającym rozporządzenie Rady (EWG) nr 1576/89 (Dz. Urz. WE L 39 z 13.02.2008, str. 16), oraz oznaczenia geograficznego wpisanego na krajową listę chronionych oznaczeń geograficznych napojów spirytusowych na podstawie ustawy z dnia 18 października 2006 r. o wyrobie napojów spirytusowych oraz o rejestracji i ochronie oznaczeń geograficznych napojów spirytusowych (Dz. U. Nr 208, poz. 1539 oraz z 2008 r. Nr 171, poz. 1056); ” .
 
 **Art. 3.** W ustawie z dnia 18 października 2006 r. o wyrobie napojów spirytusowych oraz o rejestracji i ochronie oznaczeń geograficznych napojów spirytusowych (Dz. U. Nr 208, poz. 1539 oraz z 2008 r. Nr 171, poz. 1056) wprowadza się następujące zmiany:
 
-- **1)** odnośnik nr 1 do ustawy otrzymuje brzmienie: „  Przepisy niniejszej ustawy wykonują postanowienia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 110/2008 z dnia 15 stycznia 2008 r. w sprawie definicji, opisu, prezentacji, etykietowania i ochrony oznaczeń geograficznych napojów spirytusowych oraz uchylającego rozporządzenie Rady (EWG) nr 1576/89 (Dz. Urz. WE L 39 z 13.02.2008, str. 16). ” ;
+- **1)** odnośnik nr 1 do ustawy otrzymuje brzmienie: „ Niniejszą ustawą zmienia się: ustawę z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej i ustawę z dnia 18 października 2006 r. o wyrobie napojów spirytusowych oraz o rejestracji i ochronie oznaczeń geograficznych napojów spirytusowych. Przepisy niniejszej ustawy wykonują postanowienia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 110/2008 z dnia 15 stycznia 2008 r. w sprawie definicji, opisu, prezentacji, etykietowania i ochrony oznaczeń geograficznych napojów spirytusowych oraz uchylającego rozporządzenie Rady (EWG) nr 1576/89 (Dz. Urz. WE L 39 z 13.02.2008, str. 16). ” ;
 - **2)** w art. 1 w ust. 1 pkt 2 i 3 otrzymują brzmienie: „
 - **2)** warunki ochrony na terytorium Rzeczypospolitej Polskiej oznaczeń geograficznych napojów spirytusowych zgodnie z wymaganiami określonymi w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 110/2008 z dnia 15 stycznia 2008 r. w sprawie definicji, opisu, prezentacji, etykietowania i ochrony oznaczeń geograficznych napojów spirytusowych oraz uchylającym rozporządzenie Rady (EWG) nr 1576/89 (Dz. Urz. WE L 39 z 13.02.2008, str. 16), zwanym dalej „rozporządzeniem nr 110/2008”;
 - **3)** wymagania dotyczące napojów spirytusowych w zakresie nieuregulowanym w rozporządzeniu nr 110/2008 oraz w przepisach wydanych w trybie tego rozporządzenia. ” ;
@@ -360,7 +366,7 @@ source: "eli-html"
 - **1)** spełniające wymagania w zakresie definicji, opisu i prezentacji oraz sposobu produkcji napojów spirytusowych określone w rozporządzeniu nr 110/2008 oraz w przepisach wydanych w trybie tego rozporządzenia; ” ;
 - **4)** w art. 12 ust. 1 otrzymuje brzmienie: „
 
-1. Napoje spirytusowe w zakresie spełniania wymagań określonych w rozporządzeniu nr 110/2008 oraz w przepisach wydanych w trybie tego rozporządzenia, podlegają urzędowej kontroli przeprowadzanej przez organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych na podstawie ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2005 r. Nr 187, poz. 1577, z późn. zm.). ” ;
+1. Napoje spirytusowe w zakresie spełniania wymagań określonych w rozporządzeniu nr 110/2008 oraz w przepisach wydanych w trybie tego rozporządzenia, podlegają urzędowej kontroli przeprowadzanej przez organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych na podstawie ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2005 r. Nr 187, poz. 1577, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 208, poz. 1541, z 2007 r. Nr 176, poz. 1238 oraz z 2008 r. Nr 214, poz. 1346.). ” ;
 
 - **5)** użyte w art. 36 w ust. 1, w art. 38 w ust. 2 oraz w art. 40 wyrazy „rozporządzenia nr 1576/89” zastępuje się wyrazami „rozporządzenia nr 110/2008”;
 - **6)** w art. 37 ust. 1 otrzymuje brzmienie: „
@@ -383,5 +389,5 @@ source: "eli-html"
 
 2. Minister właściwy do spraw rynków rolnych po otrzymaniu informacji, o których mowa w ust. 1, przekaże je Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych i Komisji Europejskiej oraz zamieści je na stronie internetowej urzędu obsługującego ministra właściwego do spraw rynków rolnych.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się: ustawę z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej i ustawę z dnia 18 października 2006 r. o wyrobie napojów spirytusowych oraz o rejestracji i ochronie oznaczeń geograficznych napojów spirytusowych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 33, poz. 286, z 2005 r. Nr 10, poz. 68, Nr 163, poz. 1362 i Nr 167, poz. 1398, z 2006 r. Nr 170, poz. 1217 i 1218 i Nr 208, poz. 1539, z 2007 r. Nr 99, poz. 662 i Nr 136, poz. 958 oraz z 2008 r. Nr 180, poz. 1113. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 208, poz. 1541, z 2007 r. Nr 176, poz. 1238 oraz z 2008 r. Nr 214, poz. 1346.
 

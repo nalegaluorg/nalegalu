@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-17 |
 | Data wydania | 2014-04-18 |
-| Wejście w życie | 2014-04-19 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000501) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/501/text.pdf) |
 
@@ -31,72 +30,53 @@ Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu roz
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2014 r. poz. 201) wprowadza się następujące zmiany:
 1)
-w § 2 w ust. 7 pkt 2 otrzymuje brzmienie:
-„
+w § 2 w ust. 7 pkt 2 otrzymuje brzmienie: „
 2)
-wcześniej niż w okresie 15 miesięcy przed dniem złożenia tego wniosku, zarówno w trakcie trwania małżeństwa, jak i przed jego zawarciem, w odniesieniu do małżonka nie zaistniał żaden z przypadków określonych w ust. 2;
-” ;
+wcześniej niż w okresie 15 miesięcy przed dniem złożenia tego wniosku, zarówno w trakcie trwania małżeństwa, jak i przed jego zawarciem, w odniesieniu do małżonka nie zaistniał żaden z przypadków określonych w ust. 2; ” ;
 2)
-w § 7 ust. 1 otrzymuje brzmienie:
-„
+w § 7 ust. 1 otrzymuje brzmienie: „
 1.
-Dopuszcza się przyznanie pomocy osobie fizycznej, która przed dniem złożenia wniosku o przyznanie pomocy rozpoczęła prowadzenie działalności rolniczej w gospodarstwie rolnym, jeżeli od dnia rozpoczęcia prowadzenia działalności rolniczej do dnia złożenia wniosku o przyznanie pomocy nie upłynęło więcej niż 15 miesięcy, a do dnia wydania decyzji o przyznaniu pomocy – więcej niż 18 miesięcy.
-” ;
+Dopuszcza się przyznanie pomocy osobie fizycznej, która przed dniem złożenia wniosku o przyznanie pomocy rozpoczęła prowadzenie działalności rolniczej w gospodarstwie rolnym, jeżeli od dnia rozpoczęcia prowadzenia działalności rolniczej do dnia złożenia wniosku o przyznanie pomocy nie upłynęło więcej niż 15 miesięcy, a do dnia wydania decyzji o przyznaniu pomocy – więcej niż 18 miesięcy. ” ;
 3)
-w § 8 ust. 1 otrzymuje brzmienie:
-„
+w § 8 ust. 1 otrzymuje brzmienie: „
 1.
-Pomoc przyznaje się w wysokości 100 tysięcy złotych.
-” ;
+Pomoc przyznaje się w wysokości 100 tysięcy złotych. ” ;
 4)
-w § 14 ust. 2 otrzymuje brzmienie:
-„
+w § 14 ust. 2 otrzymuje brzmienie: „
 2.
-W przypadku stwierdzenia, że wniosek o przyznanie pomocy nie spełnia wymogów formalnych, Agencja wzywa wnioskodawcę do usunięcia braków w terminie 7 dni od dnia otrzymania wezwania.
-” ;
+W przypadku stwierdzenia, że wniosek o przyznanie pomocy nie spełnia wymogów formalnych, Agencja wzywa wnioskodawcę do usunięcia braków w terminie 7 dni od dnia otrzymania wezwania. ” ;
 5)
 w § 15:
 a)
-ust. 1d i 1e otrzymują brzmienie:
-„
+ust. 1d i 1e otrzymują brzmienie: „
 1d.
 Kolejność przysługiwania pomocy jest ustalana na podstawie danych zawartych we wniosku o przyznanie pomocy oraz dołączonych do niego dokumentach. Dokonanie przez wnioskodawcę zmian we wniosku o przyznanie pomocy po upływie 20 dni od dnia zakończenia terminu składania wniosków o przyznanie pomocy nie ma wpływu na kolejność przysługiwania pomocy.
 1e.
-W pierwszej kolejności pomoc przysługuje wnioskodawcom, którzy uzyskali największą liczbę punktów, przy czym pomoc jest przyznawana, jeżeli wnioskodawca uzyskał co najmniej 7 punktów.
-” ,
+W pierwszej kolejności pomoc przysługuje wnioskodawcom, którzy uzyskali największą liczbę punktów, przy czym pomoc jest przyznawana, jeżeli wnioskodawca uzyskał co najmniej 7 punktów. ” ,
 b)
-ust. 1h otrzymuje brzmienie:
-„
+ust. 1h otrzymuje brzmienie: „
 1h.
-Dyrektorzy oddziałów regionalnych Agencji przyznają wnioskodawcom punkty, o których mowa w ust. 1b, w terminie 50 dni od dnia upływu terminu składania wniosków o przyznanie pomocy.
-” ,
+Dyrektorzy oddziałów regionalnych Agencji przyznają wnioskodawcom punkty, o których mowa w ust. 1b, w terminie 50 dni od dnia upływu terminu składania wniosków o przyznanie pomocy. ” ,
 c)
-ust. 1j otrzymuje brzmienie:
-„
+ust. 1j otrzymuje brzmienie: „
 1j.
-Prezes Agencji, niezwłocznie po otrzymaniu informacji, o której mowa w ust. 1i, ustala na jej podstawie kolejność przysługiwania pomocy, podaje liczbę punktów uzyskanych przez poszczególnych wnioskodawców oraz określa, które z wniosków o przyznanie pomocy mieszczą się w limicie środków określonym w Programie, przez wskazanie, który wniosek o przyznanie pomocy jako pierwszy zawiera zapotrzebowanie na środki przekraczające wysokość tego limitu.
-” ;
+Prezes Agencji, niezwłocznie po otrzymaniu informacji, o której mowa w ust. 1i, ustala na jej podstawie kolejność przysługiwania pomocy, podaje liczbę punktów uzyskanych przez poszczególnych wnioskodawców oraz określa, które z wniosków o przyznanie pomocy mieszczą się w limicie środków określonym w Programie, przez wskazanie, który wniosek o przyznanie pomocy jako pierwszy zawiera zapotrzebowanie na środki przekraczające wysokość tego limitu. ” ;
 6)
-w § 18 ust. 4 otrzymuje brzmienie:
-„
+w § 18 ust. 4 otrzymuje brzmienie: „
 4.
 Za wydatki na inwestycje, o których mowa w ust. 2, nie uznaje się wydatków poniesionych:
 1)
 przed dniem złożenia wniosku o przyznanie pomocy;
 2)
-na inwestycje budowlane na gruntach stanowiących przedmiot dzierżawy.
-” ;
+na inwestycje budowlane na gruntach stanowiących przedmiot dzierżawy. ” ;
 7)
-w § 19 pkt 5 i 6 otrzymują brzmienie:
-„
+w § 19 pkt 5 i 6 otrzymują brzmienie: „
 5)
 ankietę monitorującą zawierającą informacje niezbędne dla celów monitorowania i oceny Programu oraz tabelę zawierającą wskazanie osiągniętej nadwyżki bezpośredniej z działalności rolniczej prowadzonej w gospodarstwie, sporządzone zgodnie z wzorem udostępnionym przez Agencję – do dnia upływu 5 lat od dnia wypłaty pomocy oraz na każde żądanie Agencji;
 6)
-dokument potwierdzający uzupełnienie wykształcenia, w terminie 60 dni od dnia upływu 3 lat od dnia doręczenia decyzji o przyznaniu pomocy – w przypadku, o którym mowa w § 6 ust. 3, z tym że w przypadku zaistnienia okoliczności, o których mowa w § 22 ust. 1 pkt 2 – w terminie 60 dni od dnia upływu 3 lat i 9 miesięcy od dnia doręczenia decyzji o przyznaniu pomocy;
-” ;
+dokument potwierdzający uzupełnienie wykształcenia, w terminie 60 dni od dnia upływu 3 lat od dnia doręczenia decyzji o przyznaniu pomocy – w przypadku, o którym mowa w § 6 ust. 3, z tym że w przypadku zaistnienia okoliczności, o których mowa w § 22 ust. 1 pkt 2 – w terminie 60 dni od dnia upływu 3 lat i 9 miesięcy od dnia doręczenia decyzji o przyznaniu pomocy; ” ;
 8)
-w § 20 ust. 3 otrzymuje brzmienie:
-„
+w § 20 ust. 3 otrzymuje brzmienie: „
 3.
 W przypadku niespełnienia warunku, o którym mowa w § 18 ust. 1:
 1)
@@ -116,14 +96,11 @@ w przypadku osiągnięcia nadwyżki bezpośredniej z działalności rolniczej pr
 – 25% kwoty pomocy – jeżeli wartość nadwyżki bezpośredniej zmniejszyła się o więcej niż 75% w stosunku do wartości nadwyżki bezpośredniej w dniu złożenia wniosku o przyznanie pomocy.
 ” ;
 9)
-w § 21 w ust. 5 pkt 1 otrzymuje brzmienie:
-„
+w § 21 w ust. 5 pkt 1 otrzymuje brzmienie: „
 1)
-beneficjent wystąpi do dyrektora oddziału regionalnego Agencji z wnioskiem, o którym mowa w ust. 1, nie później niż w terminie 180 dni od dnia doręczenia decyzji o przyznaniu pomocy;
-” ;
+beneficjent wystąpi do dyrektora oddziału regionalnego Agencji z wnioskiem, o którym mowa w ust. 1, nie później niż w terminie 180 dni od dnia doręczenia decyzji o przyznaniu pomocy; ” ;
 10)
-§ 22 otrzymuje brzmienie:
-„
+§ 22 otrzymuje brzmienie: „
 § 22.
 1.
 Innymi, niż wymienione w przepisach rozporządzenia nr 1974/2006, kategoriami siły wyższej lub wyjątkowymi okolicznościami, w przypadku wystąpienia których zwrot pomocy nie jest wymagany, są:
@@ -148,8 +125,7 @@ zaświadczenie wydane przez dyrektora szkoły lub zaświadczenie z uczelni o zak
 2)
 kopia wniosku o dopuszczenie do egzaminu eksternistycznego zawodowego wraz z potwierdzeniem jego złożenia;
 3)
-kopia deklaracji dotyczącej przystąpienia do egzaminu zawodowego wraz z potwierdzeniem jej złożenia.
-” .
+kopia deklaracji dotyczącej przystąpienia do egzaminu zawodowego wraz z potwierdzeniem jej złożenia. ” .
 § 2.
 Do wniosków o przyznanie pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 złożonych przed dniem wejścia w życie niniejszego rozporządzenia przepisy § 2 ust. 7 pkt 2, § 7 ust. 1, § 8 ust. 1, § 14 ust. 2, § 15 ust. 1d, 1e, 1h i 1j oraz § 18 ust. 4 rozporządzenia wymienionego w § 1 stosuje się w brzmieniu dotychczasowym.
 § 3.

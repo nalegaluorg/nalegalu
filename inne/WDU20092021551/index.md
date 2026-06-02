@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-09-24 |
 | Data wydania | 2009-12-01 |
-| Wejście w życie | 2009-12-16 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092021551) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1551/text.pdf) |
 
@@ -42,9 +41,9 @@ source: "eli-html"
 
 3. Zasiłek stały wypłaca się za okres, w którym osoba posiadała prawo do zasiłku stałego.
 
-4. Osobie, która otrzymała zasiłek stały, o którym mowa w ust. 3, organ właściwy do wypłaty świadczeń rodzinnych ustala prawo do świadczenia pielęgnacyjnego na podstawie art. 58 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2006 r. Nr 139, poz. 992, z późn. zm.), jednak nie dłużej niż do końca miesiąca poprzedzającego miesiąc, za który osoba otrzymała świadczenie pielęgnacyjne, o którym mowa w art. 17 ustawy o świadczeniach rodzinnych.
+4. Osobie, która otrzymała zasiłek stały, o którym mowa w ust. 3, organ właściwy do wypłaty świadczeń rodzinnych ustala prawo do świadczenia pielęgnacyjnego na podstawie art. 58 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2006 r. Nr 139, poz. 992, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 222, poz. 1630, z 2007 r. Nr 64, poz. 427, Nr 105, poz. 720, Nr 109, poz. 747, Nr 192, poz. 1378 i Nr 200, poz. 1446, z 2008 r. Nr 70, poz. 416, Nr 138, poz. 872 i 875, Nr 223, poz. 1456 i Nr 237, poz. 1654 oraz z 2009 r. Nr 97, poz. 800.), jednak nie dłużej niż do końca miesiąca poprzedzającego miesiąc, za który osoba otrzymała świadczenie pielęgnacyjne, o którym mowa w art. 17 ustawy o świadczeniach rodzinnych.
 
 **Art. 3.** Z dniem wejścia w życie ustawy tracą moc decyzje o umorzeniu postępowań w sprawie przyznania zasiłku stałego, wydane przed dniem 13 listopada 2007 r. w związku z art. 150 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 222, poz. 1630, z 2007 r. Nr 64, poz. 427, Nr 105, poz. 720, Nr 109, poz. 747, Nr 192, poz. 1378 i Nr 200, poz. 1446, z 2008 r. Nr 70, poz. 416, Nr 138, poz. 872 i 875, Nr 223, poz. 1456 i Nr 237, poz. 1654 oraz z 2009 r. Nr 97, poz. 800.
 

@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-06-07 |
 | Data wydania | 2013-06-24 |
-| Wejście w życie | 2013-07-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000715) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/715/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Szczegółowy opis granic i obszar wolnego obszaru celnego w gminie Terespol
 Treść rozporządzenia
-Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. Nr 68, poz. 622, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. Nr 68, poz. 622, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2008 r. Nr 209, poz. 1320 i Nr 215, poz. 1355, z 2009 r. Nr 168, poz. 1323, z 2010 r. Nr 106, poz. 673, z 2011 r. Nr 106, poz. 622 i Nr 254, poz. 1529 oraz z 2012 r. poz. 908, 1116 i 1529.) zarządza się, co następuje:
 § 1.
 Określa się, w załączniku do rozporządzenia, granice i obszar wolnego obszaru celnego w gminie Terespol, ustanowionego rozporządzeniem Rady Ministrów z dnia 24 marca 1993 r. w sprawie ustanowienia wolnego obszaru celnego w gminie Terespol (Dz. U. Nr 24, poz. 104).
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2008 r. Nr 209, poz. 1320 i Nr 215, poz. 1355, z 2009 r. Nr 168, poz. 1323, z 2010 r. Nr 106, poz. 673, z 2011 r. Nr 106, poz. 622 i Nr 254, poz. 1529 oraz z 2012 r. poz. 908, 1116 i 1529.
 Załącznik – Szczegółowy opis granic i obszar wolnego obszaru celnego w gminie Terespol
 Wolny obszar celny jest zlokalizowany na terenie stanowiącym własność gminy wiejskiej Terespol. Wolny obszar celny jest w sposób trwały odgrodzony od pozostałego terenu. Opis przebiegu granic wolnego obszaru celnego jest przedstawiony na mapie w skali 1:5000. Dokument zawierający opis przebiegu granic wolnego obszaru celnego wraz z mapą jest przechowywany u zarządzającego wolnym obszarem celnym oraz w postaci kopii we właściwej miejscowo izbie celnej nadzorującej wolny obszar celny oraz w Ministerstwie Finansów. Granicę wolnego obszaru celnego wyznaczają określone na mapie punkty graniczne:
 1)
@@ -75,6 +74,5 @@ w punkcie nr 3212 granica skręca w kierunku północnym i przez punkt nr 3213 d
 19)
 w punkcie nr 3214 granica skręca w kierunku zachodnim i przez punkty nr 3215 i 3216 dochodzi do punktu nr 3217;
 20)
-w punkcie nr 3217 granica skręca w kierunku południowym i dochodzi do punktu nr 3218.
-Łączny obszar wolnego obszaru celnego wynosi 1 678 503 m2.
+w punkcie nr 3217 granica skręca w kierunku południowym i dochodzi do punktu nr 3218. Łączny obszar wolnego obszaru celnego wynosi 1 678 503 m2.
 

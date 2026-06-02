@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 11 października 2013 r. o zmianie ustawy o służbie wojskowej żołnierzy zawodowych oraz niektórych innych ustaw
+# Ustawa z dnia 11 października 2013 r. o zmianie ustawy o służbie wojskowej żołnierzy zawodowych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz ustawę z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-10-11 |
 | Data wydania | 2013-11-20 |
-| Wejście w życie | 2013-12-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001355) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1355/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2010 r. Nr 90, poz. 593, z późn. zm.) wprowadza się następujące zmiany:
+Umundurowanie i wyekwipowanie, uzbrojenie, karty i tabliczki tożsamości żołnierzy zawodowych i żołnierzy pełniących służbę kandydacką
+
+**Art. 1.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2010 r. Nr 90, poz. 593, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 22, poz. 114, Nr 112, poz. 654, Nr 122, poz. 696, Nr 171, poz. 1016 i Nr 236, poz. 1396 oraz z 2013 r. poz. 675, 829 i 852.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4: ust. 2 otrzymuje brzmienie: „
     - **a)**
@@ -55,10 +56,16 @@ source: "eli-html"
 
 - **b)**
 
-3a. Przepisu ust. 3 pkt 1 nie stosuje się do żołnierzy – kobiet ciężarnych. ” , w ust. 8: – pkt 1–3 otrzymują brzmienie: „ 1) wykaz chorób i ułomności uwzględniany przy orzekaniu o zdolności do zawodowej służby wojskowej oraz do służby poza granicami państwa wraz ze wskazaniem kategorii zdolności do zawodowej służby wojskowej; 2) wykaz chorób i ułomności uwzględniany przy orzekaniu o zdolności do pełnienia służby w poszczególnych rodzajach Sił Zbrojnych i rodzajach wojsk oraz na poszczególnych stanowiskach służbowych wymagających szczególnych predyspozycji zdrowotnych wraz ze wskazaniem kategorii zdolności do zawodowej służby wojskowej; 3) wykaz chorób i ułomności uwzględniany przy orzekaniu o ograniczonej zdolności do pełnienia zawodowej służby wojskowej w poszczególnych rodzajach Sił Zbrojnych i rodzajach wojsk oraz na określonych stanowiskach służbowych wraz ze wskazaniem kategorii zdolności do zawodowej służby wojskowej; ” , – po pkt 8 dodaje się pkt 8a w brzmieniu: „ 8a) tryb rozpatrywania sprzeciwów wobec projektów orzeczeń wojskowych komisji lekarskich oraz uchylania orzeczeń w trybie nadzoru; ” , – w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 i 11 w brzmieniu: „ 10) wzór skierowania do wojskowych komisji lekarskich; 11) wzory orzeczeń wydawanych przez wojskowe komisje lekarskie. ” , ust. 9 otrzymuje brzmienie: „
+3a. Przepisu ust. 3 pkt 1 nie stosuje się do żołnierzy – kobiet ciężarnych. ” , w ust. 8: pkt 1–3 otrzymują brzmienie: „
 
 - **c)**
-- **d)**
+- **1)** wykaz chorób i ułomności uwzględniany przy orzekaniu o zdolności do zawodowej służby wojskowej oraz do służby poza granicami państwa wraz ze wskazaniem kategorii zdolności do zawodowej służby wojskowej;
+- **2)** wykaz chorób i ułomności uwzględniany przy orzekaniu o zdolności do pełnienia służby w poszczególnych rodzajach Sił Zbrojnych i rodzajach wojsk oraz na poszczególnych stanowiskach służbowych wymagających szczególnych predyspozycji zdrowotnych wraz ze wskazaniem kategorii zdolności do zawodowej służby wojskowej;
+- **3)** wykaz chorób i ułomności uwzględniany przy orzekaniu o ograniczonej zdolności do pełnienia zawodowej służby wojskowej w poszczególnych rodzajach Sił Zbrojnych i rodzajach wojsk oraz na określonych stanowiskach służbowych wraz ze wskazaniem kategorii zdolności do zawodowej służby wojskowej; ” , po pkt 8 dodaje się pkt 8a w brzmieniu: „
+- **8a)** tryb rozpatrywania sprzeciwów wobec projektów orzeczeń wojskowych komisji lekarskich oraz uchylania orzeczeń w trybie nadzoru; ” , w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 i 11 w brzmieniu: „
+- **10)** wzór skierowania do wojskowych komisji lekarskich;
+- **11)** wzory orzeczeń wydawanych przez wojskowe komisje lekarskie. ” , ust. 9 otrzymuje brzmienie: „
+    - **d)**
 
 9. Wydając rozporządzenie, o którym mowa w ust. 8, Minister Obrony Narodowej kierować się będzie koniecznością zapewnienia ochrony danych osobowych w procesie orzeczniczym, a także tym, aby do zawodowej służby wojskowej były powoływane i pełniły ją osoby posiadające stan zdrowia odpowiadający warunkom zawodowej służby wojskowej uzależnionym od rodzaju Sił Zbrojnych i rodzaju wojsk oraz od poszczególnych stanowisk służbowych. ” ;
 
@@ -74,9 +81,19 @@ source: "eli-html"
 - **1)** tryb kierowania do wojskowych pracowni psychologicznych oraz sposób i tryb wydawania orzeczeń psychologicznych,
 - **2)** zakres badań psychologicznych, którym jest poddawana osoba, która zgłosiła chęć pełnienia zawodowej służby wojskowej,
 - **3)** tryb odwoływania się od orzeczeń psychologicznych,
-- **4)** sposób postępowania z dokumentacją związaną z badaniami psychologicznymi oraz wzory stosowanych dokumentów i orzeczeń mając na uwadze właściwość terytorialną wojskowych pracowni psychologicznych oraz ich właściwość do wykonywania badań i wydawania orzeczeń w trybie odwoławczym, a także konieczność zawarcia we wzorze orzeczenia informacji o możliwości i trybie odwołania od orzeczenia. ” ;
-- **4)** w art. 6: w ust. 1: – w pkt 3 lit. b i c otrzymują brzmienie: „ b) stopniem etatowym, dla którego określono jeden lub kilka stopni wojskowych, c) grupą lub grupami uposażenia, ” , – pkt 4 otrzymuje brzmienie: „ 4) stopień etatowy – dla danego stanowiska służbowego: a) szeregowych zawodowych – określone dwa stopnie wojskowe, b) podoficerów młodszych, podoficerów i podoficerów starszych – określone po trzy stopnie wojskowe, c) oficerów zawodowych – określony stopień wojskowy, a w odniesieniu do oficerów młodszych – określone dwa stopnie wojskowe; ” , – pkt 6 otrzymuje brzmienie: „ 6) równorzędne stanowisko służbowe – stanowisko służbowe, którego stopień etatowy jest równy stopniowi etatowemu poprzednio zajmowanego stanowiska służbowego, a w przypadku oficerów młodszych – stopniowi wojskowemu posiadanemu przez oficera; ” , – uchyla się pkt 11a, – pkt 12 otrzymuje brzmienie: „ 12) kadencja na stanowisku służbowym – okres pełnienia służby na stanowisku służbowym przez oficera zawodowego w służbie stałej; ” , w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **4)** sposób postępowania z dokumentacją związaną z badaniami psychologicznymi oraz wzory stosowanych dokumentów i orzeczeń – mając na uwadze właściwość terytorialną wojskowych pracowni psychologicznych oraz ich właściwość do wykonywania badań i wydawania orzeczeń w trybie odwoławczym, a także konieczność zawarcia we wzorze orzeczenia informacji o możliwości i trybie odwołania od orzeczenia. ” ;
+- **4)** w art. 6: w ust. 1: w pkt 3 lit. b i c otrzymują brzmienie: „ stopniem etatowym, dla którego określono jeden lub kilka stopni wojskowych, grupą lub grupami uposażenia, ” , pkt 4 otrzymuje brzmienie: „
     - **a)**
+    - **b)**
+    - **c)**
+
+- **4)** stopień etatowy – dla danego stanowiska służbowego: szeregowych zawodowych – określone dwa stopnie wojskowe, podoficerów młodszych, podoficerów i podoficerów starszych – określone po trzy stopnie wojskowe, oficerów zawodowych – określony stopień wojskowy, a w odniesieniu do oficerów młodszych – określone dwa stopnie wojskowe; ” , pkt 6 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **6)** równorzędne stanowisko służbowe – stanowisko służbowe, którego stopień etatowy jest równy stopniowi etatowemu poprzednio zajmowanego stanowiska służbowego, a w przypadku oficerów młodszych – stopniowi wojskowemu posiadanemu przez oficera; ” , – uchyla się pkt 11a, pkt 12 otrzymuje brzmienie: „
+- **12)** kadencja na stanowisku służbowym – okres pełnienia służby na stanowisku służbowym przez oficera zawodowego w służbie stałej; ” , w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
     - **b)**
 
 - **3)** dowódcy jednostki wojskowej – należy przez to rozumieć osobę kierującą lub dowodzącą jednostką wojskową, w której żołnierz zawodowy zajmuje stanowisko służbowe lub do której został skierowany w ramach pełnienia zawodowej służby wojskowej w rezerwie kadrowej albo w dyspozycji. ” ;
@@ -86,7 +103,7 @@ source: "eli-html"
 
 1. Roszczenia wynikające z przepisów ustawy przedawniają się z upływem trzech lat od dnia, w którym stały się wymagalne.
 
-2. Przerwanie biegu przedawnienia roszczenia następuje na zasadach określonych w ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.). ” ;
+2. Przerwanie biegu przedawnienia roszczenia następuje na zasadach określonych w ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287, z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012, Nr 220, poz. 1425 i 1431 i Nr 228, poz. 1506, z 2009 r. Nr 42, poz. 341, Nr 79, poz. 662 i Nr 131, poz. 1075, z 2010 r. Nr 40, poz. 222 i Nr 155, poz. 1037 oraz z 2011 r. Nr 80, poz. 432, Nr 85, poz. 458 i Nr 230, poz. 1370.). ” ;
 
 - **6)** w art. 9 ust. 6 otrzymuje brzmienie: „
 
@@ -398,10 +415,15 @@ source: "eli-html"
 
 2b. W przypadku, o którym mowa w ust. 2 pkt 2, żołnierza zawodowego przenosi się do rezerwy kadrowej na czas prowadzonego postępowania. Na zwolnione stanowisko służbowe nie wyznacza się innego żołnierza zawodowego do czasu zakończenia postępowania, natomiast można powierzyć obowiązki służbowe na tym stanowisku innemu żołnierzowi zawodowemu w trybie określonym w art. 25. ” ;
 
-- **29)** w art. 46: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) szczegółowy tryb wyznaczania żołnierzy zawodowych na stanowiska służbowe i zwalniania z tych stanowisk oraz zmiany zaszeregowania do stopni wojskowych; ” , – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) szczegółowe warunki i tryb czasowego powierzania obowiązków służbowych; ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) przewidywać możliwość równego dostępu żołnierzy zawodowych do wyższych stanowisk służbowych, po spełnieniu przez nich warunków określonych w ustawie, aktach wykonawczych wydanych do tej ustawy oraz modelu przebiegu zawodowej służby wojskowej, a także uwzględnić ich dotychczasowe doświadczenie i przebieg służby wojskowej; ” , – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) przewidywać ciągłość funkcjonowania jednostki wojskowej oraz sprawność postępowania w sprawach czasowego powierzania obowiązków służbowych; ” ;
+- **29)** w art. 46: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** szczegółowy tryb wyznaczania żołnierzy zawodowych na stanowiska służbowe i zwalniania z tych stanowisk oraz zmiany zaszeregowania do stopni wojskowych; ” , po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** szczegółowe warunki i tryb czasowego powierzania obowiązków służbowych; ” , w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **b)**
 
+- **1)** przewidywać możliwość równego dostępu żołnierzy zawodowych do wyższych stanowisk służbowych, po spełnieniu przez nich warunków określonych w ustawie, aktach wykonawczych wydanych do tej ustawy oraz modelu przebiegu zawodowej służby wojskowej, a także uwzględnić ich dotychczasowe doświadczenie i przebieg służby wojskowej; ” , po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** przewidywać ciągłość funkcjonowania jednostki wojskowej oraz sprawność postępowania w sprawach czasowego powierzania obowiązków służbowych; ” ;
 - **30)** w art. 47 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
 1a. Żołnierz zawodowy wyznaczony do służby poza granicami państwa może być skierowany do wykonywania zadań służbowych poza miejscem pełnienia służby, jednorazowo na czas nie dłuższy niż dwanaście miesięcy. ” ;
@@ -431,8 +453,11 @@ source: "eli-html"
 - **1)** braku postępów w kształceniu;
 - **2)** naruszenia regulaminów ustalonych przez organizatora kształcenia;
 - **3)** wniosku żołnierza. ” ;
-- **35)** w art. 55: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) tryb udzielania żołnierzom zawodowym pomocy w związku z pobieraniem przez nich nauki, rodzaj, formę, zakres i wysokość pomocy oraz sposób jej ustalania i tryb jej zwrotu, a także sposób dokumentowania poniesionych przez żołnierza zawodowego wydatków objętych pomocą; ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) tryb odwołania ze studiów lub z nauki w szkole wojskowej albo niewojskowej oraz ze stażu, z kursu lub ze specjalizacji w kraju lub za granicą i organy właściwe w tych sprawach; ” , ust. 2 otrzymuje brzmienie: „
+- **35)** w art. 55: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** tryb udzielania żołnierzom zawodowym pomocy w związku z pobieraniem przez nich nauki, rodzaj, formę, zakres i wysokość pomocy oraz sposób jej ustalania i tryb jej zwrotu, a także sposób dokumentowania poniesionych przez żołnierza zawodowego wydatków objętych pomocą; ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** tryb odwołania ze studiów lub z nauki w szkole wojskowej albo niewojskowej oraz ze stażu, z kursu lub ze specjalizacji w kraju lub za granicą i organy właściwe w tych sprawach; ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Rozporządzenie, o którym mowa w ust. 1, powinno zapewnić sprawność postępowania organów wojskowych w związku z pobieraniem przez żołnierzy zawodowych nauki, a przy ustalaniu wysokości udzielanej pomocy powinno uwzględnić koszty zakwaterowania, wyżywienia, umundurowania i nauki oraz dojazdu do miejsca jej pobierania, a także czesnego i stypendium. Określając tryb odwoływania ze studiów lub z nauki, rozporządzenie powinno uwzględniać potrzeby Sił Zbrojnych, a wzory umów w nim ustalone powinny zawierać pełne i precyzyjne informacje. ” ;
@@ -496,7 +521,7 @@ source: "eli-html"
 - **45)** w art. 75 uchyla się ust. 1 i 2;
 - **46)** w art. 78 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
 
-1a. W przypadku gdy w jednostce wojskowej nie występuje stanowisko służbowe głównego specjalisty, stanowisko radcy prawnego, uwzględniając przepis art. 224 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2010 r. Nr 10, poz. 65, ze zm.), zaszeregowuje się do stanowiska służbowego o stopniu etatowym o jeden stopień niższy od stanowiska zastępcy dowódcy tej jednostki w najwyższej grupie uposażenia przewidzianej dla tego stopnia, nie wyżej jednak niż do stanowiska o stopniu etatowym i grupy uposażenia przewidzianej dla stanowiska służbowego głównego specjalisty w urzędzie Ministra Obrony Narodowej.
+1a. W przypadku gdy w jednostce wojskowej nie występuje stanowisko służbowe głównego specjalisty, stanowisko radcy prawnego, uwzględniając przepis art. 224 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2010 r. Nr 10, poz. 65, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 216, poz. 1676, z 2010 r. Nr 47, poz. 278, Nr 200, poz. 1326 i Nr 217, poz. 1429, z 2011 r. Nr 106, poz. 622 i Nr 142, poz. 830 oraz z 2013 r. poz. 829 i 1247.), zaszeregowuje się do stanowiska służbowego o stopniu etatowym o jeden stopień niższy od stanowiska zastępcy dowódcy tej jednostki w najwyższej grupie uposażenia przewidzianej dla tego stopnia, nie wyżej jednak niż do stanowiska o stopniu etatowym i grupy uposażenia przewidzianej dla stanowiska służbowego głównego specjalisty w urzędzie Ministra Obrony Narodowej.
 
 1b. Przepisu ust. 1a nie stosuje się do stanowisk służbowych zajmowanych przez żołnierzy zawodowych posiadających uprawnienia radcy prawnego, na których nie jest wymagane posiadanie takiego uprawnienia. ” ;
 
@@ -524,7 +549,7 @@ source: "eli-html"
 - **1)** szczegółowe warunki i tryb otrzymywania, przyznawania, zawieszania, obniżania i wstrzymywania dodatków do uposażenia zasadniczego oraz ich wysokość,
 - **2)** sposób ustalania wysokości dodatku, o którym mowa w ust. 1 pkt 1 i 2, w ostatnim miesiącu pełnienia służby wojskowej,
 - **3)** szczególne właściwości lub warunki pełnienia zawodowej służby wojskowej uprawniające żołnierzy zawodowych do otrzymywania dodatku, o którym mowa w ust. 1 pkt 1,
-- **4)** stanowiska służbowe, których zajmowanie, i jednostki wojskowe, w których pełnienie służby uprawnia do dodatku, o którym mowa w ust. 1 pkt 2 uwzględniając charakter wykonywanych czynności, zakres obowiązków służbowych i ich specyfikę, kwalifikacje niezbędne przy wykonywaniu obowiązków służbowych i miejsce pełnienia służby oraz zapewniając sprawność postępowania w tych sprawach. ” ;
+- **4)** stanowiska służbowe, których zajmowanie, i jednostki wojskowe, w których pełnienie służby uprawnia do dodatku, o którym mowa w ust. 1 pkt 2 – uwzględniając charakter wykonywanych czynności, zakres obowiązków służbowych i ich specyfikę, kwalifikacje niezbędne przy wykonywaniu obowiązków służbowych i miejsce pełnienia służby oraz zapewniając sprawność postępowania w tych sprawach. ” ;
 - **48)** w art. 83 ust. 6 otrzymuje brzmienie: „
 
 6. Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw pracy, określi, w drodze rozporządzenia, tryb przyznawania dodatkowego uposażenia rocznego i terminy jego wypłacania, uwzględniając miejsce pełnienia służby oraz sprawność postępowania w tych sprawach. ” ;
@@ -547,7 +572,7 @@ source: "eli-html"
 - **1)** wysokość oraz sposób i tryb przyznawania należności, o których mowa w ust. 1, 2 i 7, terminy i tryb ich wypłacania i rozliczania, a także rodzaje wydatków, o których mowa w ust. 7 pkt 3,
 - **2)** tryb wypłaty żołnierzom zawodowym zaliczek na cele związane z finansowaniem kosztów podróży służbowych,
 - **3)** sposób dokumentowania poniesionych kosztów,
-- **4)** sposób obliczania czasu podróży służbowej oraz sposób obliczania należności za przeniesienia i podróże służbowe uwzględniając charakter zadań żołnierza zawodowego odbywającego podróż służbową lub przeniesionego lub skierowanego do pełnienia służby w innej miejscowości oraz zróżnicowanie kosztów utrzymania, potrzebę zapewnienia warunków do prawidłowego wykonywania tych zadań oraz konieczność pokrycia zwiększonych kosztów utrzymania, jak również uwzględniając potrzebę uzależnienia wysokości należności od czasu trwania podróży i zwrotu rzeczywiście poniesionych wydatków, a także zapewniając sprawność postępowania w tych sprawach. ” ;
+- **4)** sposób obliczania czasu podróży służbowej oraz sposób obliczania należności za przeniesienia i podróże służbowe – uwzględniając charakter zadań żołnierza zawodowego odbywającego podróż służbową lub przeniesionego lub skierowanego do pełnienia służby w innej miejscowości oraz zróżnicowanie kosztów utrzymania, potrzebę zapewnienia warunków do prawidłowego wykonywania tych zadań oraz konieczność pokrycia zwiększonych kosztów utrzymania, jak również uwzględniając potrzebę uzależnienia wysokości należności od czasu trwania podróży i zwrotu rzeczywiście poniesionych wydatków, a także zapewniając sprawność postępowania w tych sprawach. ” ;
 - **51)** w art. 87 ust. 6 otrzymuje brzmienie: „
 
 6. Minister Obrony Narodowej określi, w drodze rozporządzenia, wysokość oraz terminy i tryb wypłacania gratyfikacji urlopowej, uwzględniając sprawność postępowania w tych sprawach oraz możliwość otrzymania przez żołnierza zawodowego gratyfikacji urlopowej przed urlopem. ” ;
@@ -638,8 +663,12 @@ source: "eli-html"
 
 2. Rozporządzenie, o którym mowa w ust. 1, powinno uwzględnić formy nauki, na którą żołnierz pełniący służbę kandydacką może być skierowany, a przy ustalaniu kosztów utrzymania i nauki, które podlegają zwrotowi, należy uwzględnić koszty zakwaterowania, wyżywienia, umundurowania i nauki oraz dojazdu do miejsca jej pobierania, a także czesnego i stypendium. ” ;
 
-- **64)** w art. 134: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) skreślenia z listy studentów lub niespełnienia wymogów określonych w regulaminie nauki lub studiów; ” , – po pkt 8a dodaje się pkt 8b i 8c w brzmieniu: „ 8b) niepowołania do zawodowej służby wojskowej; 8c) nieobecności w służbie jednorazowo przez okres trzech dni roboczych, która nie została usprawiedliwiona; ” , ust. 4 otrzymuje brzmienie: „
+- **64)** w art. 134: w ust. 1: pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** skreślenia z listy studentów lub niespełnienia wymogów określonych w regulaminie nauki lub studiów; ” , po pkt 8a dodaje się pkt 8b i 8c w brzmieniu: „
+- **8b)** niepowołania do zawodowej służby wojskowej;
+- **8c)** nieobecności w służbie jednorazowo przez okres trzech dni roboczych, która nie została usprawiedliwiona; ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Zwolnienie ze służby kandydackiej w przypadkach, o których mowa w ust. 1 pkt 2, 4 i 8b-9, następuje odpowiednio decyzją rektora-komendanta uczelni wojskowej, komendanta szkoły podoficerskiej lub komendanta ośrodka szkolenia. ” , po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „
@@ -662,7 +691,7 @@ source: "eli-html"
 - **5)** przebieg służby kandydackiej, warunki i tryb opiniowania żołnierzy pełniących służbę kandydacką, w tym wzór arkusza opinii, ich uprawnienia inne niż określone w ustawie oraz tryb postępowania związany ze zwalnianiem ze służby kandydackiej. ” ;
 - **67)** po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „
 
-#### Rozdział 8a Umundurowanie i wyekwipowanie, uzbrojenie, karty i tabliczki tożsamości żołnierzy zawodowych i żołnierzy pełniących służbę kandydacką
+#### Rozdział 8a
 
 **Art. 137a.**
 
@@ -740,7 +769,7 @@ source: "eli-html"
 - **70)** uchyla się art. 179;
 - **71)** uchyla się art. 180.
 
-**Art. 2.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2012 r. poz. 461, z późn. zm.) w art. 74 ust. 2 i 2a otrzymują brzmienie: „ 2. Stopniami wojskowymi są następujące stopnie, z zastrzeżeniem ust. 2a:
+**Art. 2.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2012 r. poz. 461, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1407 i 1445 oraz z 2013 r. poz. 852.) w art. 74 ust. 2 i 2a otrzymują brzmienie: „ 2. Stopniami wojskowymi są następujące stopnie, z zastrzeżeniem ust. 2a:
 
 - **1)** szeregowych: szeregowy, starszy szeregowy;
     - **a)**
@@ -861,5 +890,5 @@ source: "eli-html"
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 5 ust. 8 i 9 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 5 ust. 8 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 16.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1 lit. a, pkt 4 lit. a tiret pierwsze – tiret trzecie, pkt 8, pkt 9 lit. b, pkt 21, pkt 23 lit. a, pkt 25, art. 2, art. 7 ust. 1 pkt 3, art. 11 i art. 12, które wchodzą w życie z dniem 1 stycznia 2014 r.
+**Art. 16.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1 lit. a, pkt 4 lit. a tiret pierwsze – tiret trzecie, pkt 8, pkt 9 lit. b, pkt 21, pkt 23 lit. a, pkt 25, art. 2, art. 7 ust. 1 pkt 3, art. 11 i art. 12, które wchodzą w życie z dniem 1 stycznia 2014 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz ustawę z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 22, poz. 114, Nr 112, poz. 654, Nr 122, poz. 696, Nr 171, poz. 1016 i Nr 236, poz. 1396 oraz z 2013 r. poz. 675, 829 i 852. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287, z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012, Nr 220, poz. 1425 i 1431 i Nr 228, poz. 1506, z 2009 r. Nr 42, poz. 341, Nr 79, poz. 662 i Nr 131, poz. 1075, z 2010 r. Nr 40, poz. 222 i Nr 155, poz. 1037 oraz z 2011 r. Nr 80, poz. 432, Nr 85, poz. 458 i Nr 230, poz. 1370. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 216, poz. 1676, z 2010 r. Nr 47, poz. 278, Nr 200, poz. 1326 i Nr 217, poz. 1429, z 2011 r. Nr 106, poz. 622 i Nr 142, poz. 830 oraz z 2013 r. poz. 829 i 1247. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1407 i 1445 oraz z 2013 r. poz. 852.
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-11-05 |
 | Data wydania | 2009-12-07 |
-| Wejście w życie | 2009-12-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092061591) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1591/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2007 r. Nr 223, poz. 1655, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2007 r. Nr 223, poz. 1655, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1058, Nr 220, poz. 1420 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 101, Nr 65, poz. 545, Nr 91, poz. 742 i Nr 157, poz. 1241.) wprowadza się następujące zmiany:
 
 - **1)** art. 22 otrzymuje brzmienie: „
 
@@ -82,7 +81,7 @@ source: "eli-html"
 
 - **1)** na 6 dni przed upływem terminu składania ofert,
 - **2)** na 4 dni przed upływem terminu składania ofert – w przetargu ograniczonym oraz negocjacjach z ogłoszeniem, jeżeli zachodzi pilna potrzeba udzielenia zamówienia,
-- **3)** na 2 dni przed upływem terminu składania ofert – jeżeli wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 pod warunkiem że wniosek o wyjaśnienie treści specyfikacji istotnych warunków zamówienia wpłynął do zamawiającego nie później niż do końca dnia, w którym upływa połowa wyznaczonego terminu składania ofert. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+- **3)** na 2 dni przed upływem terminu składania ofert – jeżeli wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 – pod warunkiem że wniosek o wyjaśnienie treści specyfikacji istotnych warunków zamówienia wpłynął do zamawiającego nie później niż do końca dnia, w którym upływa połowa wyznaczonego terminu składania ofert. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
     - **b)**
 
 1a. Jeżeli wniosek o wyjaśnienie treści specyfikacji istotnych warunków zamówienia wpłynął po upływie terminu składania wniosku, o którym mowa w ust. 1, lub dotyczy udzielonych wyjaśnień, zamawiający może udzielić wyjaśnień albo pozostawić wniosek bez rozpoznania.
@@ -168,7 +167,7 @@ source: "eli-html"
 - **17)** w art. 154 pkt 5a otrzymuje brzmienie: „
 - **5a)** prowadzi, ogłasza, aktualizuje na stronie internetowej Urzędu wykaz wykonawców, którzy wyrządzili szkodę, nie wykonując zamówienia lub wykonując je nienależycie, jeżeli szkoda ta została stwierdzona prawomocnym orzeczeniem sądu, oraz dokonuje wykreśleń wykonawców z wykazu; ” .
 
-**Art. 2.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. Nr 167, poz. 1398, z późn. zm.) art. 34 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. Nr 167, poz. 1398, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 126, poz. 876, z 2007 r. Nr 21, poz. 123, Nr 82, poz. 560, Nr 123, poz. 849, Nr 125, poz. 873 i Nr 191, poz. 1371, z 2008 r. Nr 228, poz. 1524 i Nr 234, poz. 1571 i 1572 oraz z 2009 r. Nr 26, poz. 156, Nr 76, poz. 641 i Nr 202, poz. 1552.) art. 34 otrzymuje brzmienie: „
 
 **Art. 34.**
 
@@ -184,5 +183,5 @@ source: "eli-html"
 
 **Art. 4.** Do zmian umów w sprawach zamówień publicznych zawartych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe, z tym że do zmian umów zawartych od dnia 24 października 2008 r. stosuje się art. 144 ust. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 5 i art. 3 ust. 2, które wchodzą w życie z dniem ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 5 i art. 3 ust. 2, które wchodzą w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1058, Nr 220, poz. 1420 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 101, Nr 65, poz. 545, Nr 91, poz. 742 i Nr 157, poz. 1241. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 126, poz. 876, z 2007 r. Nr 21, poz. 123, Nr 82, poz. 560, Nr 123, poz. 849, Nr 125, poz. 873 i Nr 191, poz. 1371, z 2008 r. Nr 228, poz. 1524 i Nr 234, poz. 1571 i 1572 oraz z 2009 r. Nr 26, poz. 156, Nr 76, poz. 641 i Nr 202, poz. 1552.
 

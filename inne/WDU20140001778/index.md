@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 listopada 2014 r. o zmianie ustawy – Prawo o adwokaturze oraz niektórych innych ustaw
+# Ustawa z dnia 7 listopada 2014 r. o zmianie ustawy – Prawo o adwokaturze oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 lipca 1982 r. o radcach prawnych oraz ustawę z dnia 27 września 2013 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-07 |
 | Data wydania | 2014-12-10 |
-| Wejście w życie | 2014-12-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001778) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1778/text.pdf) |
+
+Rzecznik Dyscyplinarny Adwokatury
 
 **Art. 1.** W ustawie z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2014 r. poz. 635 i 993) wprowadza się następujące zmiany:
 
@@ -89,7 +90,7 @@ source: "eli-html"
 
 - **13)** w dziale IV po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Rzecznik Dyscyplinarny Adwokatury
+#### Rozdział 3a
 
 **Art. 63a.**
 
@@ -285,8 +286,11 @@ source: "eli-html"
 
 1. W przypadku gdy przeciwko radcy prawnemu toczy się postępowanie dyscyplinarne, do czasu zakończenia takiego postępowania można odmówić skreślenia z listy radców prawnych pomimo wniosku radcy prawnego, o którym mowa w art. 29 pkt 1. ” ;
 
-- **7)** w art. 37: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Aplikanta radcowskiego skreśla się z listy aplikantów radcowskich w wypadku: ” , – pkt 1 otrzymuje brzmienie: „ 1) o którym mowa w art. 29 pkt 1 lub 3–5 albo art. 293, stosowanych odpowiednio; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) o którym mowa w art. 29 pkt 6, stosowanym odpowiednio; ” , ust. 3 otrzymuje brzmienie: „
+- **7)** w art. 37: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Aplikanta radcowskiego skreśla się z listy aplikantów radcowskich w wypadku: ” , pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** o którym mowa w art. 29 pkt 1 lub 3–5 albo art. 293, stosowanych odpowiednio; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** o którym mowa w art. 29 pkt 6, stosowanym odpowiednio; ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Do skreślenia aplikanta radcowskiego z listy aplikantów radcowskich z przyczyn wskazanych w ust. 1 pkt 1 i 2–4 oraz ust. 2 stosuje się odpowiednio przepisy art. 31 ust. 1, 2 i 3. ” ;
@@ -542,5 +546,5 @@ source: "eli-html"
 
 **Art. 7.** Czynności procesowe dokonane przed dniem wejścia w życie ustawy są skuteczne, jeżeli ich dokonano z zachowaniem przepisów dotychczasowych.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 lipca 1982 r. o radcach prawnych oraz ustawę z dnia 27 września 2013 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 14 września 2021 r. zmieniające rozporządzenie w sprawie parków narodowych lub niektórych ich obszarów, gdzie za wstęp pobiera się opłaty
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 14 września 2021 r. zmieniające rozporządzenie w sprawie parków narodowych lub niektórych ich obszarów, gdzie za wstęp pobiera się opłaty Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-09-14 |
 | Data wydania | 2021-09-22 |
-| Wejście w życie | 2021-10-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001735) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1735/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 12 ust. 10 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyro
 § 1.
 W rozporządzeniu Ministra Środowiska z dnia 18 marca 2013 r. w sprawie parków narodowych lub niektórych ich obszarów, gdzie za wstęp pobiera się opłaty (Dz. U. poz. 400) wprowadza się następujące zmiany:
 1)
-§ 1 otrzymuje brzmienie:
-„
+§ 1 otrzymuje brzmienie: „
 § 1.
 Określa się parki narodowe, gdzie za wstęp pobiera się opłaty:
 1)
@@ -56,8 +54,7 @@ Tatrzański Park Narodowy;
 10)
 Wigierski Park Narodowy;
 11)
-Woliński Park Narodowy.
-” ;
+Woliński Park Narodowy. ” ;
 2)
 w § 2:
 a)
@@ -65,16 +62,13 @@ uchyla się pkt 1,
 b)
 uchyla się pkt 3,
 c)
-w pkt 4 lit. a i b otrzymują brzmienie:
-„
+w pkt 4 lit. a i b otrzymują brzmienie: „
 a)
 obwód ochronny Bachorze, poza cumowiskiem łodzi wędkarskich w Bachorzu, terenową bazą edukacyjną w Bachorzu, punktem widokowym w Bachorzu, ścieżką botaniczną w Charzykowach i ścieżką rowerową „Kaszubska Marszruta”,
 b)
-obwód ochronny Drzewicz, poza Centrum Edukacji Przyrodniczej w Chocińskim Młynie,
-” ,
+obwód ochronny Drzewicz, poza Centrum Edukacji Przyrodniczej w Chocińskim Młynie, ” ,
 d)
 w pkt 7 w lit. c średnik zastępuje się kropką i uchyla się pkt 8.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941).
 

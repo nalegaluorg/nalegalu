@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 20 lutego 2019 r. zmieniające rozporządzenie w sprawie wymagań dotyczących zawartości siarki w paliwie żeglugowym, w tym sposobu jej oznaczania
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 20 lutego 2019 r. zmieniające rozporządzenie w sprawie wymagań dotyczących zawartości siarki w paliwie żeglugowym, w tym sposobu jej oznaczania Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-20 |
 | Data wydania | 2019-03-12 |
-| Wejście w życie | 2019-03-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000478) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/478/text.pdf) |
 
@@ -33,15 +32,12 @@ W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 7 października 2015 
 1)
 odnośnik nr 2 otrzymuje brzmienie: „ 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/802 z dnia 11 maja 2016 r. odnoszącą się do redukcji zawartości siarki w niektórych paliwach ciekłych (Dz. Urz. UE L 132 z 21.05.2016, str. 58). ” ;
 2)
-§ 3 otrzymuje brzmienie:
-„
+§ 3 otrzymuje brzmienie: „
 § 3.
 1.
 Zawartość siarki w oleju żeglugowym typu diesel (Marine Diesel Oil – MDO) oznaczającym paliwo żeglugowe zdefiniowane dla klas DMB w tabeli I PN-ISO 8217 „Przetwory naftowe – Paliwa (klasa F) – Specyfikacje paliw żeglugowych”, wprowadzanym do obrotu na obszarze Rzeczypospolitej Polskiej, nie może przekraczać 1,50% m/m.
 2.
-Zawartość siarki w oleju napędowym żeglugowym (Marine Gas Oil – MGO) oznaczającym paliwo żeglugowe zdefiniowane dla klas DMX, DMA i DMZ w tabeli I PN-ISO 8217 „Przetwory naftowe – Paliwa (klasa F) – Specyfikacje paliw żeglugowych”, używanym lub wprowadzanym do obrotu na obszarze Rzeczypospolitej Polskiej, nie może przekraczać 0,10% m/m.
-” .
+Zawartość siarki w oleju napędowym żeglugowym (Marine Gas Oil – MGO) oznaczającym paliwo żeglugowe zdefiniowane dla klas DMX, DMA i DMZ w tabeli I PN-ISO 8217 „Przetwory naftowe – Paliwa (klasa F) – Specyfikacje paliw żeglugowych”, używanym lub wprowadzanym do obrotu na obszarze Rzeczypospolitej Polskiej, nie może przekraczać 0,10% m/m. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
 

@@ -22,14 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-04-10 |
 | Data wydania | 2012-04-25 |
-| Wejście w życie | 2012-05-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000451) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/451/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Treść rozkładu jazdy Rozdział 3 – Tryb zatwierdzania rozkładów jazdy Rozdział 4 – Sposób i terminy ogłaszania oraz aktualizacji rozkładów jazdy Rozdział 5 – Warunki ponoszenia kosztów związanych z zamieszczaniem informacji dotyczących rozkładów jazdy oraz podawaniem rozkładów jazdy do publicznej wiadomości Rozdział 6 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Załącznik – Wykaz podstawowych oznaczeń i symboli, które stosuje się w rozkładzie jazdy
 Treść rozporządzenia
-Na podstawie art. 34 ust. 2 ustawy z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2000 r. Nr 50, poz. 601, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 34 ust. 2 ustawy z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2000 r. Nr 50, poz. 601, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 125, poz. 1371, z 2002 r. Nr 113, poz. 984 i Nr 130, poz. 1112, z 2003 r. Nr 149, poz. 1452 i Nr 211, poz. 2049, z 2004 r. Nr 97, poz. 962, Nr 160, poz. 1678 i Nr 281, poz. 2780, z 2006 r. Nr 133, poz. 935, z 2008 r. Nr 219, poz. 1408, z 2009 r. Nr 92, poz. 753 oraz z 2011 r. Nr 5, poz. 13 i Nr 244, poz. 1454.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -60,15 +60,16 @@ komunikacji międzynarodowej – należy przez to rozumieć regularny przewóz o
 6)
 transporcie innym szynowym, linowym i linowo-terenowym – należy przez to rozumieć odpowiednio transport inny szynowy, linowy i linowo-terenowy, o którym mowa w ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2011 r. Nr 5, poz. 13 i Nr 228, poz. 1368);
 7)
-przewozach regularnych specjalnych – należy przez to rozumieć przewozy regularne specjalne, o których mowa w ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, z późn. zm.);
+przewozach regularnych specjalnych – należy przez to rozumieć przewozy regularne specjalne, o których mowa w ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 192, poz. 1381, z 2008 r. Nr 218, poz. 1391, Nr 227, poz. 1505 i Nr 234, poz. 1574, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 86, poz. 720 i Nr 98, poz. 817, z 2010 r. Nr 43, poz. 246, Nr 164, poz. 1107, Nr 225, poz. 1466, Nr 247, poz. 1652 i Nr 249, poz. 1656 oraz z 2011 r. Nr 5, poz. 13, Nr 30, poz. 151, Nr 48, poz. 247, Nr 92, poz. 530, Nr 106, poz. 622, Nr 134, poz. 780, Nr 159, poz. 945, Nr 168, poz. 1005, Nr 227, poz. 1367 i Nr 244, poz. 1454.);
 8)
-rejestrze terytorialnym – należy przez to rozumieć krajowy rejestr urzędowy podziału terytorialnego kraju, o którym mowa w ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. Nr 88, poz. 439, z późn. zm.);
+rejestrze terytorialnym – należy przez to rozumieć krajowy rejestr urzędowy podziału terytorialnego kraju, o którym mowa w ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. Nr 88, poz. 439, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 769, z 1998 r. Nr 99, poz. 632 i Nr 106, poz. 668, z 2001 r. Nr 100, poz. 1080, z 2003 r. Nr 217, poz. 2125, z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362, z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 166, poz. 1172, z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 47, poz. 278 i Nr 76, poz. 489 oraz z 2011 r. Nr 131, poz. 764, Nr 139, poz. 814, Nr 171, poz. 1016 i Nr 204, poz. 1195.);
 9)
 właściwym organie – należy przez to rozumieć organizatora publicznego transportu zbiorowego, o którym mowa w art. 4 ust. 1 pkt 9 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, oraz organ wydający dokument uprawniający do wykonywania regularnego przewozu osób lub przewozu regularnego specjalnego, o którym mowa w art. 18 ust. 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym;
 10)
 przystanku komunikacyjnym – należy przez to rozumieć również peron w transporcie kolejowym oraz przystań usytuowaną na wodach śródlądowych.
 2.
 Przepisy ust. 1 pkt 1–5 nie dotyczą regularnego przewozu osób wykonywanego w ramach publicznego transportu zbiorowego drogowego w komunikacji miejskiej.
+Treść rozkładu jazdy
 § 3.
 1.
 W rozkładzie jazdy określa się co najmniej:
@@ -123,8 +124,7 @@ W regularnym przewozie osób w transporcie drogowym, drogę przejazdu, o której
 1)
 na drogach krajowych, wojewódzkich, powiatowych i gminnych – na podstawie kilometrażu ustalonego dla danej kategorii drogi, a w razie jego braku – z uwzględnieniem odległości rzeczywistej w kilometrach,
 2)
-na drogach wewnętrznych – z uwzględnieniem odległości rzeczywistej w kilometrach
-podanych z dokładnością do 0,1 km, między poszczególnymi przystankami komunikacyjnymi.
+na drogach wewnętrznych – z uwzględnieniem odległości rzeczywistej w kilometrach – podanych z dokładnością do 0,1 km, między poszczególnymi przystankami komunikacyjnymi.
 5.
 W rozkładzie jazdy w przewozach regularnych specjalnych, w przypadkach wskazanych w ust. 1 pkt 3 i 5, określa się:
 1)
@@ -175,6 +175,7 @@ Obliczanie prędkości technicznej nie jest wymagane, jeżeli odległość międ
 Przepisy § 3 ust. 1 pkt 8, ust. 3, 4 i 8 oraz § 4 nie dotyczą przewozów wykonywanych w komunikacji miejskiej.
 2.
 Przepisy § 3 ust. 1 pkt 1, 2, 4, 6–8 i 11 oraz ust. 2 stosuje się odpowiednio do przewozów regularnych specjalnych.
+Tryb zatwierdzania rozkładów jazdy
 § 6.
 1.
 Projekt rozkładu jazdy w regularnym przewozie osób w transporcie drogowym podlega zatwierdzeniu przez właściwy organ.
@@ -238,6 +239,7 @@ Zatwierdzanie rozkładu jazdy w transporcie kolejowym następuje poprzez przydzi
 Przepisy § 6 ust. 3 pkt 1 oraz § 7 stosuje się odpowiednio do zatwierdzania projektu rozkładu jazdy w transporcie linowym, linowo-terenowym oraz w żegludze śródlądowej.
 3.
 Do przewozów, o których mowa w ust. 2, nie stosuje się przepisu § 7 ust. 2 w zakresie nadawania numeru linii komunikacyjnej.
+Sposób i terminy ogłaszania oraz aktualizacji rozkładów jazdy
 § 11.
 1.
 Przewoźnik wykonujący regularny przewóz osób podaje rozkład jazdy do publicznej wiadomości w szczególności poprzez:
@@ -264,8 +266,7 @@ przekazaniu:
 a)
 rozkładu jazdy organizatorowi publicznego transportu zbiorowego celem podania do publicznej wiadomości informacji niezbędnych do administrowania systemem informacji dla pasażera,
 b)
-rozkładu jazdy oraz informacji dotyczącej rozkładu jazdy właścicielowi albo zarządzającemu przystankiem komunikacyjnym lub dworcem, celem zamieszczenia informacji dotyczącej rozkładu jazdy na danym obiekcie
-następuje poprzez przekazanie kopii zatwierdzonego rozkładu jazdy w postaci pliku w formacie PDF oraz w wersji elektronicznej umożliwiającej edycję tekstu.
+rozkładu jazdy oraz informacji dotyczącej rozkładu jazdy właścicielowi albo zarządzającemu przystankiem komunikacyjnym lub dworcem, celem zamieszczenia informacji dotyczącej rozkładu jazdy na danym obiekcie – następuje poprzez przekazanie kopii zatwierdzonego rozkładu jazdy w postaci pliku w formacie PDF oraz w wersji elektronicznej umożliwiającej edycję tekstu.
 § 12.
 1.
 W informacji dotyczącej rozkładu jazdy, o której mowa w § 11 ust. 1 pkt 3 i 4, określa się co najmniej:
@@ -361,6 +362,7 @@ W przypadku powiadomienia o aktualności rozkładu jazdy przekazywanego właści
 W przypadku aktualizacji, o której mowa w § 14 ust. 2 pkt 1 lit. a i pkt 2–4, przepisy § 11 i 12 stosuje się odpowiednio.
 2.
 Przepisy § 11, 12, 14 i 15 nie dotyczą przewozów regularnych specjalnych.
+Warunki ponoszenia kosztów związanych z zamieszczaniem informacji dotyczących rozkładów jazdy oraz podawaniem rozkładów jazdy do publicznej wiadomości
 § 17.
 1.
 Ponoszenie kosztów związanych z zamieszczaniem informacji dotyczących rozkładów jazdy na przystanku komunikacyjnym lub dworcu oraz w systemie informacji dla pasażera, w transporcie drogowym oraz innym szynowym, odbywa się na podstawie umowy.
@@ -384,6 +386,7 @@ b)
 liczby zatrzymań środków transportowych danego przewoźnika na danym przystanku komunikacyjnym lub dworcu.
 § 18.
 Przepisy § 17 stosuje się odpowiednio do organizatora publicznego transportu zbiorowego w komunikacji miejskiej, w zakresie przystanków komunikacyjnych i dworców, których właścicielem lub zarządzającym nie jest dana jednostka samorządu terytorialnego.
+Przepisy przejściowe i końcowe
 § 19.
 Rozkłady jazdy obowiązujące na podstawie dotychczasowych przepisów zachowują ważność przez okres, którego dotyczą, albo do czasu wprowadzenia w nich zmian.
 § 20.
@@ -402,20 +405,32 @@ W 2012 r. aktualizacji rozkładu jazdy polegającej na powiadomieniu właściweg
 § 22.
 W regularnym przewozie osób w transporcie kolejowym przepis § 3 ust. 8 stosuje się do rozkładów jazdy, które zaczną obowiązywać od grudnia 2013 r.
 § 23.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem przepisów § 11 ust. 1 pkt 3, § 13 ust. 3, § 14 ust. 2 pkt 1 lit. a i ust. 4–6, które wchodzą w życie z dniem 1 stycznia 2013 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem przepisów § 11 ust. 1 pkt 3, § 13 ust. 3, § 14 ust. 2 pkt 1 lit. a i ust. 4–6, które wchodzą w życie z dniem 1 stycznia 2013 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu i Budownictwa z dnia 13 stycznia 2006 r. w sprawie treści, sposobu i terminów ogłaszania rozkładów jazdy oraz ich aktualizacji, warunków ponoszenia kosztów związanych z zamieszczaniem informacji dotyczących rozkładów jazdy oraz podawaniem rozkładów jazdy do publicznej wiadomości (Dz. U. Nr 12, poz. 79), które na podstawie art. 89 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2011 r. Nr 5, poz. 13 i Nr 228, poz. 1368) utraciło moc z dniem 1 marca 2012 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 125, poz. 1371, z 2002 r. Nr 113, poz. 984 i Nr 130, poz. 1112, z 2003 r. Nr 149, poz. 1452 i Nr 211, poz. 2049, z 2004 r. Nr 97, poz. 962, Nr 160, poz. 1678 i Nr 281, poz. 2780, z 2006 r. Nr 133, poz. 935, z 2008 r. Nr 219, poz. 1408, z 2009 r. Nr 92, poz. 753 oraz z 2011 r. Nr 5, poz. 13 i Nr 244, poz. 1454. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 192, poz. 1381, z 2008 r. Nr 218, poz. 1391, Nr 227, poz. 1505 i Nr 234, poz. 1574, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 86, poz. 720 i Nr 98, poz. 817, z 2010 r. Nr 43, poz. 246, Nr 164, poz. 1107, Nr 225, poz. 1466, Nr 247, poz. 1652 i Nr 249, poz. 1656 oraz z 2011 r. Nr 5, poz. 13, Nr 30, poz. 151, Nr 48, poz. 247, Nr 92, poz. 530, Nr 106, poz. 622, Nr 134, poz. 780, Nr 159, poz. 945, Nr 168, poz. 1005, Nr 227, poz. 1367 i Nr 244, poz. 1454. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 769, z 1998 r. Nr 99, poz. 632 i Nr 106, poz. 668, z 2001 r. Nr 100, poz. 1080, z 2003 r. Nr 217, poz. 2125, z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362, z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 166, poz. 1172, z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 47, poz. 278 i Nr 76, poz. 489 oraz z 2011 r. Nr 131, poz. 764, Nr 139, poz. 814, Nr 171, poz. 1016 i Nr 204, poz. 1195. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu i Budownictwa z dnia 13 stycznia 2006 r. w sprawie treści, sposobu i terminów ogłaszania rozkładów jazdy oraz ich aktualizacji, warunków ponoszenia kosztów związanych z zamieszczaniem informacji dotyczących rozkładów jazdy oraz podawaniem rozkładów jazdy do publicznej wiadomości (Dz. U. Nr 12, poz. 79), które na podstawie art. 89 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2011 r. Nr 5, poz. 13 i Nr 228, poz. 1368) utraciło moc z dniem 1 marca 2012 r.
 Załącznik – Wykaz podstawowych oznaczeń i symboli, które stosuje się w rozkładzie jazdy
-Lp. Symbol/oznaczenie Opis symbolu/oznaczenia 1 2 3 1 A kursuje od poniedziałku do piątku 2 B kursuje od poniedziałku do piątku oraz w niedzielę 3 C kursuje w soboty, niedziele i święta 4 D kursuje od poniedziałku do piątku oprócz świąt 5 E kursuje od poniedziałku do soboty oprócz świąt 6 H kursuje codziennie w okresie ferii letnich i zimowych oraz szkolnych przerw świątecznych 7 L kursuje w okresie ferii letnich 8 S kursuje w dni nauki szkolnej 9 + kursuje w dni wolne od pracy (niedziele i święta) 10 1 kursuje w poniedziałki 11 2 kursuje we wtorki 12 3 kursuje w środy 13 4 kursuje w czwartki 14 5 kursuje w piątki 15 6 kursuje w soboty 16 7 kursuje w niedziele 17 1–4 kursuje od poniedziałku do czwartku 18 1/2 kursuje z poniedziałku na wtorek 19 a nie kursuje w pierwszy dzień Świąt Wielkanocnych oraz w dniu 25.XII 20 b nie kursuje w dniu 1.I, w pierwszy dzień Świąt Wielkanocnych i w dniu 25.XII 21 c nie kursuje w dniu 1.I, w pierwszy dzień Świąt Wielkanocnych oraz w dniach 25 i 26.XII 22 d nie kursuje w dniu 1.I, w pierwszy i drugi dzień Świąt Wielkanocnych oraz w dniach 25 i 26.XII 23 e nie kursuje w okresie ferii letnich 24 f nie kursuje w okresie ferii letnich i zimowych oraz szkolnych przerw świątecznych 25 g nie kursuje w dniu 24.XII 26 h nie kursuje w Wielką Sobotę oraz w dniu 24.XII 27 i nie kursuje w dniu 26.XII 28 j nie kursuje w dniu 27.XII 29 k nie kursuje w drugi dzień Świąt Wielkanocnych oraz w dniu 26.XII 30 l nie kursuje w dniu 31.XII 31 m nie kursuje w dniach 24 i 31.XII 32 n nie kursuje w Wielką Sobotę oraz w dniach 24 i 31.XII 33 r nie kursuje w okresie ferii zimowych oraz szkolnych przerw świątecznych 34 t nie kursuje w okresie szkolnych przerw świątecznych 35 w nie kursuje w dzień Bożego Ciała 36 z nie kursuje w piątek po dniu Bożego Ciała 37 P kurs pospieszny 38 V kurs przyspieszony 39 Ex kurs ekspresowy 40 Int. kurs międzynarodowy 41 08:15 pogrubiony druk oznacza godzinę przyjazdu lub odjazdu środka transportowego w komunikacji przyspieszonej, pospiesznej i ekspresowej 42 8:15 podkreślenie godziny oznacza, że kurs obsługuje pojazd niskopodłogowy 43 o odjazd 44 p przyjazd 45 kolor czarny komunikacja zwykła, przyspieszona/pociąg osobowy 46 kolor czerwony komunikacja pospieszna, ekspresowa/pociąg pospieszny, ekspresowy
+Lp. Symbol/oznaczenieSymbole i oznaczenia określone w wykazie mogą być użyte w rozkładzie jazdy również poprzez ich umieszczenie w ramce, np. w kształcie kwadratu lub koła. Opis symbolu/oznaczenia 1 2 3 1 A kursuje od poniedziałku do piątku 2 B kursuje od poniedziałku do piątku oraz w niedzielę 3 C kursuje w soboty, niedziele i święta 4 D kursuje od poniedziałku do piątku oprócz świąt 5 E kursuje od poniedziałku do soboty oprócz świąt 6 H kursuje codziennie w okresie ferii letnich i zimowych oraz szkolnych przerw świątecznych 7 L kursuje w okresie ferii letnich 8 S kursuje w dni nauki szkolnej 9 + kursuje w dni wolne od pracy (niedziele i święta) 10 1 kursuje w poniedziałki 11 2 kursuje we wtorki 12 3 kursuje w środy 13 4 kursuje w czwartki 14 5 kursuje w piątki 15 6 kursuje w soboty 16 7 kursuje w niedziele 17 1–4 kursuje od poniedziałku do czwartkuJeżeli komunikacja kursuje przez dwa lub więcej kolejnych dni, to symbole dni kursowania oddziela się znakiem „-”; jeżeli komunikacja kursuje w różne dni, to symbole dni tygodnia oddziela się przecinkiem. 18 1/2 kursuje z poniedziałku na wtorekJeżeli komunikacja rozpoczyna się jednego dnia tygodnia i kończy dnia następnego, kurs oznacza się symbolem tych dni tygodnia przedzielonych znakiem „/”. 19 a nie kursuje w pierwszy dzień Świąt Wielkanocnych oraz w dniu 25.XII 20 b nie kursuje w dniu 1.I, w pierwszy dzień Świąt Wielkanocnych i w dniu 25.XII 21 c nie kursuje w dniu 1.I, w pierwszy dzień Świąt Wielkanocnych oraz w dniach 25 i 26.XII 22 d nie kursuje w dniu 1.I, w pierwszy i drugi dzień Świąt Wielkanocnych oraz w dniach 25 i 26.XII 23 e nie kursuje w okresie ferii letnich 24 f nie kursuje w okresie ferii letnich i zimowych oraz szkolnych przerw świątecznych 25 g nie kursuje w dniu 24.XII 26 h nie kursuje w Wielką Sobotę oraz w dniu 24.XII 27 i nie kursuje w dniu 26.XII 28 j nie kursuje w dniu 27.XII 29 k nie kursuje w drugi dzień Świąt Wielkanocnych oraz w dniu 26.XII 30 l nie kursuje w dniu 31.XII 31 m nie kursuje w dniach 24 i 31.XII 32 n nie kursuje w Wielką Sobotę oraz w dniach 24 i 31.XII 33 r nie kursuje w okresie ferii zimowych oraz szkolnych przerw świątecznych 34 t nie kursuje w okresie szkolnych przerw świątecznych 35 w nie kursuje w dzień Bożego Ciała 36 z nie kursuje w piątek po dniu Bożego Ciała 37 P kurs pospieszny 38 V kurs przyspieszonyDotyczy kursów wykonywanych w transporcie drogowym. 39 Ex kurs ekspresowy 40 Int. kurs międzynarodowy 41 08:15 pogrubiony druk oznacza godzinę przyjazdu lub odjazdu środka transportowego w komunikacji przyspieszonej, pospiesznej i ekspresowej 42 8:15 podkreślenie godziny oznacza, że kurs obsługuje pojazd niskopodłogowy 43 o odjazd 44 p przyjazd 45 kolor czarny komunikacja zwykła, przyspieszona/pociąg osobowy 46 kolor czerwony komunikacja pospieszna, ekspresowa/pociąg pospieszny, ekspresowy
 1) Symbole i oznaczenia określone w wykazie mogą być użyte w rozkładzie jazdy również poprzez ich umieszczenie w ramce, np. w kształcie kwadratu lub koła. 2) Jeżeli komunikacja kursuje przez dwa lub więcej kolejnych dni, to symbole dni kursowania oddziela się znakiem „-”; jeżeli komunikacja kursuje w różne dni, to symbole dni tygodnia oddziela się przecinkiem. 3) Jeżeli komunikacja rozpoczyna się jednego dnia tygodnia i kończy dnia następnego, kurs oznacza się symbolem tych dni tygodnia przedzielonych znakiem „/”. 4) Dotyczy kursów wykonywanych w transporcie drogowym.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Treść rozkładu jazdy
+#### Rozdział 2 – Treść rozkładu jazdy
 
-#### Rozdział 3 Tryb zatwierdzania rozkładów jazdy
+#### Rozdział 3 – Tryb zatwierdzania rozkładów jazdy
 
-#### Rozdział 4 Sposób i terminy ogłaszania oraz aktualizacji rozkładów jazdy
+#### Rozdział 4 – Sposób i terminy ogłaszania oraz aktualizacji rozkładów jazdy
 
-#### Rozdział 5 Warunki ponoszenia kosztów związanych z zamieszczaniem informacji dotyczących rozkładów jazdy oraz podawaniem rozkładów jazdy do publicznej wiadomości
+#### Rozdział 5 – Warunki ponoszenia kosztów związanych z zamieszczaniem informacji dotyczących rozkładów jazdy oraz podawaniem rozkładów jazdy do publicznej wiadomości
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

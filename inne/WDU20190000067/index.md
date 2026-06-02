@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 11 stycznia 2019 r. zmieniające rozporządzenie w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 11 stycznia 2019 r. zmieniające rozporządzenie w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-01-11 |
 | Data wydania | 2019-01-14 |
-| Wejście w życie | 2019-01-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000067) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/67/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 13 ust. 1 i 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2018 r. poz. 620 i 1669) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2010 r. w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów (Dz. U. poz. 719) po § 17 dodaje się § 17a w brzmieniu:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2010 r. w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów (Dz. U. poz. 719) po § 17 dodaje się § 17a w brzmieniu: „
 § 17a.
 1.
 Właściciel, zarządca lub użytkownik obiektu budowlanego lub jego części, w którym prowadzona jest działalność gospodarcza o charakterze rozrywkowym, polegająca na organizowaniu gier lub zabaw, w trakcie których ich uczestnicy uwalniają się z zamkniętej przestrzeni lub w inny sposób ograniczona jest możliwość przemieszczania się tych uczestników, wskutek czego ograniczona jest możliwość ich ewakuacji, powinien przed rozpoczęciem takiej działalności oraz co najmniej raz na 2 lata przeprowadzać praktyczne sprawdzenie organizacji ewakuacji ludzi w miejsce bezpieczne, na zewnątrz obiektu budowlanego lub do sąsiedniej strefy pożarowej, a także sprawdzenie spełniania wymagań ochrony przeciwpożarowej. Wymagania te stosuje się także w przypadku działalności gospodarczej o podobnym przedmiocie, bez względu na nazwę, jaką dany przedsiębiorca się posługuje.
@@ -41,11 +39,9 @@ Właściciel, zarządca lub użytkownik obiektu budowlanego lub jego części po
 4.
 Ze sprawdzeń, o których mowa w ust. 1, osoby wymienione w ust. 2 sporządzają protokół zawierający ocenę organizacji ewakuacji ludzi oraz spełnienia wymagań ochrony przeciwpożarowej.
 5.
-Właściciel, zarządca lub użytkownik obiektu budowlanego lub jego części składa protokół, o którym mowa w ust. 4, do właściwej komendy powiatowej (miejskiej) Państwowej Straży Pożarnej w terminie 7 dni od dnia przeprowadzenia praktycznego sprawdzenia organizacji ewakuacji ludzi w miejsce bezpieczne oraz spełnienia wymagań ochrony przeciwpożarowej.
-” .
+Właściciel, zarządca lub użytkownik obiektu budowlanego lub jego części składa protokół, o którym mowa w ust. 4, do właściwej komendy powiatowej (miejskiej) Państwowej Straży Pożarnej w terminie 7 dni od dnia przeprowadzenia praktycznego sprawdzenia organizacji ewakuacji ludzi w miejsce bezpieczne oraz spełnienia wymagań ochrony przeciwpożarowej. ” .
 § 2.
 Właściciel, zarządca lub użytkownik obiektu budowlanego lub jego części, przeprowadza sprawdzenia, o których mowa w § 17a ust. 1 rozporządzenia zmienianego w § 1, w terminie 30 dni od dnia wejścia w życie rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 

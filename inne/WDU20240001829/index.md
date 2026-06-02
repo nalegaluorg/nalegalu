@@ -32,8 +32,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem” (Dz. U. z 2023 r. poz. 1923), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 listopada 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 121 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 121 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), który stanowi: „
 
 **Art. 121.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
 
@@ -59,7 +58,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 - **1)** zapewnienie dostępu do informacji w zakresie rozwiązań wspierających rodziny oraz kobiety w ciąży,
 - **2)** zapewnienie kobietom w ciąży dostępu do diagnostyki prenatalnej,
-- **3)** zapewnienie odpowiednich świadczeń opieki zdrowotnej dla kobiety w okresie ciąży, porodu i połogu, ze szczególnym uwzględnieniem kobiet w ciąży powikłanej oraz w sytuacji niepowodzeń położniczych na zasadach określonych w przepisach odrębnych.
+- **3)** zapewnienie odpowiednich świadczeń opieki zdrowotnej dla kobiety w okresie ciąży, porodu i połogu, ze szczególnym uwzględnieniem kobiet w ciąży powikłanej oraz w sytuacji niepowodzeń położniczych – na zasadach określonych w przepisach odrębnych.
 
 2. Wsparcie, o którym mowa w art. 1, obejmuje także zapewnienie:
 
@@ -128,9 +127,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Środki na realizację koordynacji, o której mowa w art. 8 ust. 2, minister właściwy do spraw rodziny przekazuje wojewodom na ich wniosek.
 
-4. Wojewoda przekazuje środki, o których mowa w ust. 3, wójtom, burmistrzom lub prezydentom miast na podstawie zawartej umowy.
-
-5. Środki Funduszu Pracy przekazane wójtom, burmistrzom lub prezydentom miast na realizację koordynacji, o której mowa w art. 8 ust. 2, stanowią dochód gminy, o którym mowa w art. 10 ust. 3 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572 i 1717).
+4. Wojewoda przekazuje środki, o których mowa w ust. 3, wójtom, burmistrzom lub prezydentom miast na podstawie zawartej umowy. 5Ze zmianą wprowadzoną przez art. 71 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), która weszła w życie z dniem 25 października 2024 r.. Środki Funduszu Pracy przekazane wójtom, burmistrzom lub prezydentom miast na realizację koordynacji, o której mowa w art. 8 ust. 2, stanowią dochód gminy, o którym mowa w art. 10 ust. 3 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572 i 1717).
 
 **Art. 10.**
 
@@ -187,8 +184,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Rada gminy, rada powiatu oraz sejmik województwa, biorąc pod uwagę lokalne potrzeby w zakresie wspierania kobiet w ciąży, rodzin oraz dzieci, o których mowa w art. 4 ust. 1 pkt 3 i ust. 2 pkt 2–4, mogą w drodze uchwały ustanowić dla osób zamieszkałych na terenie jej działania uprawnienia na rzecz kobiet, rodzin i dzieci, inne niż określone w niniejszej ustawie. Art. 14–20. (pominięte)
 
-**Art. 21.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r., z wyjątkiem art. 7, art. 12 i art. 18 pkt 3 i 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
-
-- **1)** Ze zmianą wprowadzoną przez art. 71 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), która weszła w życie z dniem 25 października 2024 r. 2) Ustawa została ogłoszona w dniu 17 listopada 2016 r. Załącznik – Tekst załącznika (pominięty)
-
+**Art. 21.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r., z wyjątkiem art. 7, art. 12 i art. 18 pkt 3 i 4, które wchodzą w życie z dniem następującym po dniu ogłoszeniaUstawa została ogłoszona w dniu 17 listopada 2016 r.. 1) Ze zmianą wprowadzoną przez art. 71 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), która weszła w życie z dniem 25 października 2024 r. 2) Ustawa została ogłoszona w dniu 17 listopada 2016 r. Załącznik – Tekst załącznika (pominięty)
 

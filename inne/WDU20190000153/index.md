@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 18 stycznia 2019 r. w sprawie zwrotu na dochody budżetu państwa środków zgromadzonych na rachunkach członków otwartych funduszy emerytalnych
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 18 stycznia 2019 r. w sprawie zwrotu na dochody budżetu państwa środków zgromadzonych na rachunkach członków otwartych funduszy emerytalnych Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-01-18 |
 | Data wydania | 2019-01-25 |
-| Wejście w życie | 2019-02-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000153) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/153/text.pdf) |
 
@@ -93,6 +92,5 @@ Zawiadomienia, o których mowa w § 1 pkt 1 i 3, powiadomienia, o których mowa 
 2.
 Zawiadomienia, o których mowa w § 1 pkt 4, są przekazywane do Zakładu w formie pisemnej w postaci papierowej.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 2 kwietnia 2009 r. w sprawie zwrotu na dochody budżetu państwa środków zgromadzonych na rachunkach członków otwartych funduszy emerytalnych (Dz. U. poz. 501 oraz z 2011 r. poz. 1605), które utraciło moc.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 2 kwietnia 2009 r. w sprawie zwrotu na dochody budżetu państwa środków zgromadzonych na rachunkach członków otwartych funduszy emerytalnych (Dz. U. poz. 501 oraz z 2011 r. poz. 1605), które utraciło moc. 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 2 kwietnia 2009 r. w sprawie zwrotu na dochody budżetu państwa środków zgromadzonych na rachunkach członków otwartych funduszy emerytalnych (Dz. U. poz. 501 oraz z 2011 r. poz. 1605), które utraciło moc.
 

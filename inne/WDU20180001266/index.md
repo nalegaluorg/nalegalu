@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-26 |
 | Data wydania | 2018-06-29 |
-| Wejście w życie | 2018-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001266) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1266/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 48 ust. 2 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji za
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 13 maja 2003 r. w sprawie algorytmu przekazywania środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych samorządom wojewódzkim i powiatowym (Dz. U. z 2017 r. poz. 538) wprowadza się następujące zmiany:
 1)
-§ 2–5 otrzymują brzmienie:
-„
+§ 2–5 otrzymują brzmienie: „
 § 2.
 Prezes Zarządu Funduszu przekazuje środki Funduszu samorządowi:
 1)
@@ -57,8 +55,7 @@ w 2018 r. – 16 596 zł;
 2)
 w 2019 r. – 17 796 zł;
 3)
-w 2020 r. i w latach następnych – 18 996 zł.
-” ;
+w 2020 r. i w latach następnych – 18 996 zł. ” ;
 2)
 w § 6 w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Zarząd Funduszu przekazuje samorządom informację, o której mowa w ust. 1, w terminie 30 dni od dnia złożenia sprawozdań rzeczowo-finansowych, o których mowa w art. 35c ust. 1 ustawy, za okres roku poprzedniego, nie wcześniej jednak niż przed opublikowaniem ustawy budżetowej na dany rok. ” .
 § 2.

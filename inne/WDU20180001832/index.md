@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 20 września 2018 r. w sprawie pomocy de minimis w ramach programu „Wsparcie dla czasopism naukowych”
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 20 września 2018 r. w sprawie pomocy de minimis w ramach programu „Wsparcie dla czasopism naukowych” Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – nauka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-20 |
 | Data wydania | 2018-09-26 |
-| Wejście w życie | 2018-10-01 |
 | Ostatnia zmiana | 2025-06-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001832) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1832/text.pdf) |
 
@@ -65,7 +64,7 @@ na realizację projektów, których celem jest podniesienie poziomu praktyk wyda
 2)
 zgodnie z przepisami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1), zwanego dalej „rozporządzeniem Komisji nr 1407/2013”;
 3)
-przedsiębiorcom w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), będącym wydawcami czasopism działającymi na podstawie przepisów ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. poz. 24, z późn. zm.).
+przedsiębiorcom w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10 oraz Dz. Urz. UE L 156 z 20.06.2017, str. 1., będącym wydawcami czasopism działającymi na podstawie przepisów ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. poz. 24, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. poz. 324, z 1989 r. poz. 187, z 1990 r. poz. 173, z 1991 r. poz. 442, z 1996 r. poz. 542, z 1997 r. poz. 554 i 770, z 1999 r. poz. 999, z 2001 r. poz. 1198, z 2002 r. poz. 1271, z 2004 r. poz. 1181, z 2005 r. poz. 377, z 2007 r. poz. 590, z 2010 r. poz. 1228 i 1551, z 2011 r. poz. 459, 934, 1204 i 1660, z 2012 r. poz. 1136, z 2013 r. poz. 771, z 2017 r. poz. 2173 oraz z 2018 r. poz. 1570.).
 § 3.
 1.
 Pomoc nie może być przyznana w przypadkach, o których mowa w art. 1 ust. 1 rozporządzenia Komisji nr 1407/2013.
@@ -182,8 +181,7 @@ W przypadku propozycji dotyczącej:
 1)
 przyznania pomocy w kwocie niższej niż wnioskowana albo
 2)
-odmowy przyznania pomocy
-zespół przedstawia ministrowi szczegółowe uzasadnienie.
+odmowy przyznania pomocy – zespół przedstawia ministrowi szczegółowe uzasadnienie.
 § 9.
 1.
 Minister informuje przedsiębiorców, za pośrednictwem systemu, o wynikach oceny, o której mowa w § 8 ust. 6.
@@ -268,8 +266,7 @@ dane, o których mowa w § 4 ust. 1 pkt 1 lit. d tiret drugie i § 7 ust. 3 pkt 
 § 17.
 Pomoc może być przyznawana do dnia 30 czerwca 2021 r.
 § 18.
-Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – nauka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10 oraz Dz. Urz. UE L 156 z 20.06.2017, str. 1. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. poz. 324, z 1989 r. poz. 187, z 1990 r. poz. 173, z 1991 r. poz. 442, z 1996 r. poz. 542, z 1997 r. poz. 554 i 770, z 1999 r. poz. 999, z 2001 r. poz. 1198, z 2002 r. poz. 1271, z 2004 r. poz. 1181, z 2005 r. poz. 377, z 2007 r. poz. 590, z 2010 r. poz. 1228 i 1551, z 2011 r. poz. 459, 934, 1204 i 1660, z 2012 r. poz. 1136, z 2013 r. poz. 771, z 2017 r. poz. 2173 oraz z 2018 r. poz. 1570.
+Rozporządzenie wchodzi w życie z dniem 1 października 2018 r. 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – nauka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10 oraz Dz. Urz. UE L 156 z 20.06.2017, str. 1. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. poz. 324, z 1989 r. poz. 187, z 1990 r. poz. 173, z 1991 r. poz. 442, z 1996 r. poz. 542, z 1997 r. poz. 554 i 770, z 1999 r. poz. 999, z 2001 r. poz. 1198, z 2002 r. poz. 1271, z 2004 r. poz. 1181, z 2005 r. poz. 377, z 2007 r. poz. 590, z 2010 r. poz. 1228 i 1551, z 2011 r. poz. 459, 934, 1204 i 1660, z 2012 r. poz. 1136, z 2013 r. poz. 771, z 2017 r. poz. 2173 oraz z 2018 r. poz. 1570.
 
 ## Załącznik nr 1 — – Szczegółowy zakres informacji zawartych we wniosku
 
@@ -352,8 +349,7 @@ Planowane koszty kwalifikowalne projektu:
 1)
 ogółem,
 2)
-w podziale na ich rodzaje określone w § 5 ust. 1 i z przypisaniem do każdego z nich wysokości planowanej do pokrycia ze środków finansowych stanowiących pomoc
-w poszczególnych latach realizacji projektu.
+w podziale na ich rodzaje określone w § 5 ust. 1 i z przypisaniem do każdego z nich wysokości planowanej do pokrycia ze środków finansowych stanowiących pomoc – w poszczególnych latach realizacji projektu.
 2.
 Uzasadnienie poszczególnych rodzajów kosztów kwalifikowalnych.
 D.
@@ -410,8 +406,7 @@ Rozliczenie środków finansowych stanowiących pomoc: Informacja o wysokości �
 1)
 wykorzystanych na realizację projektu,
 2)
-niewykorzystanych na realizację projektu
-w okresie, za który raport jest składany.
+niewykorzystanych na realizację projektu – w okresie, za który raport jest składany.
 E.
 Informacje o osobie odpowiedzialnej za sporządzenie raportu:
 1.

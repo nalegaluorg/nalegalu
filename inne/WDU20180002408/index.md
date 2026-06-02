@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-14 |
 | Data wydania | 2018-12-27 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2026-03-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002408) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2408/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Terminy przechowywania akt spraw oraz zamkniętych urządzeń ewidencyjnych Rozdział 3 – Szczegółowy sposób i tryb przechowywania i przekazywania akt spraw oraz zamkniętych urządzeń ewidencyjnych, a także sposób i tryb ich niszczenia Rozdział 4 – Przepis przejściowy i końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 164 ust. 5 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowy sposób, tryb i terminy przechowywania i przekazywania akt spraw komorniczych, w których postępowanie zostało zakończone, oraz zamkniętych urządzeń ewidencyjnych, a także sposób i tryb ich niszczenia po upływie okresu przechowywania.
 § 2.
@@ -79,11 +79,12 @@ spisy zdawczo-odbiorcze akt spraw i urządzeń ewidencyjnych przekazanych przez 
 Do dokumentacji niearchiwalnej zalicza się urządzenia ewidencyjne niewymienione w ust. 1.
 § 5.
 Przepisy § 4 stosuje się do urządzeń ewidencyjnych prowadzonych jako odrębny dokument elektroniczny.
+Terminy przechowywania akt spraw oraz zamkniętych urządzeń ewidencyjnych
 § 6.
 1.
 Okres przechowywania akt spraw oraz zamkniętych urządzeń ewidencyjnych liczy się od początku roku kalendarzowego następującego po roku, w którym zakończono postępowanie lub zamknięto urządzenie ewidencyjne.
 2.
-Okres przechowywania akt spraw, w których egzekucję umorzono na podstawie art. 883 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm.), liczy się dopiero po całkowitym rozliczeniu depozytu.
+Okres przechowywania akt spraw, w których egzekucję umorzono na podstawie art. 883 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693 i 2385.), liczy się dopiero po całkowitym rozliczeniu depozytu.
 § 7.
 1.
 Materiały archiwalne są przechowywane przez okres 10 lat, a dokumentacja niearchiwalna przez okres 5 lat, z zastrzeżeniem ust. 2 i 3.
@@ -95,6 +96,7 @@ Przez okres 10 lat przechowuje się akta spraw:
 o egzekucję z nieruchomości, w których mimo wyznaczenia terminu licytacji nie doszło do przysądzenia własności nieruchomości – chyba że akta te podlegają archiwizacji przez okres przewidziany w ust. 2;
 2)
 o egzekucję w celu zniesienia współwłasności nieruchomości w drodze sprzedaży publicznej, w których mimo wyznaczenia terminu licytacji nie doszło do przysądzenia własności nieruchomości.
+Szczegółowy sposób i tryb przechowywania i przekazywania akt spraw oraz zamkniętych urządzeń ewidencyjnych, a także sposób i tryb ich niszczenia
 § 8.
 1.
 Akta spraw oraz zamknięte urządzenia ewidencyjne są przechowywane przez Krajową Radę Komorniczą przez okresy, o których mowa w § 7, z zastosowaniem zabezpieczeń przed dostępem osób postronnych i przy spełnieniu wymogów bezpieczeństwa przed utratą i zniszczeniem.
@@ -122,16 +124,25 @@ Komisja może w uzasadnionych przypadkach zaproponować zmianę kwalifikacji akt
 Propozycja komisji na wniosek prezesa sądu rejonowego, przy którym działa komornik, podlega zatwierdzeniu przez dyrektora właściwego archiwum państwowego.
 4.
 Z przeprowadzonych prac przewodniczący komisji sporządza protokół i przedstawia prezesowi sądu rejonowego, przy którym działa komornik, do zatwierdzenia. Protokół ten zalicza się do materiałów archiwalnych.
+Przepis przejściowy i końcowy
 § 12.
 Akta spraw prawomocnie zakończonych przed dniem wejścia w życie rozporządzenia kwalifikuje się na podstawie przepisów dotychczasowych.
 § 13.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 7 października 2011 r. w sprawie przechowywania akt spraw komorniczych oraz zamkniętych urządzeń ewidencyjnych (Dz. U. z 2016 r. poz. 370), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 300 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693 i 2385. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 7 października 2011 r. w sprawie przechowywania akt spraw komorniczych oraz zamkniętych urządzeń ewidencyjnych (Dz. U. z 2016 r. poz. 370), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 300 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Terminy przechowywania akt spraw oraz zamkniętych urządzeń ewidencyjnych
+#### Rozdział 2 – Terminy przechowywania akt spraw oraz zamkniętych urządzeń ewidencyjnych
 
-#### Rozdział 3 Szczegółowy sposób i tryb przechowywania i przekazywania akt spraw oraz zamkniętych urządzeń ewidencyjnych, a także sposób i tryb ich niszczenia
+#### Rozdział 3 – Szczegółowy sposób i tryb przechowywania i przekazywania akt spraw oraz zamkniętych urządzeń ewidencyjnych, a także sposób i tryb ich niszczenia
 
-#### Rozdział 4 Przepis przejściowy i końcowy
+#### Rozdział 4 – Przepis przejściowy i końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

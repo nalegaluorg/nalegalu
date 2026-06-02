@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-28 |
 | Data wydania | 2015-12-30 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-08-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002333) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2333/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 78 ust. 7 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 78 ust. 7 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069, 1893 i 2281.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -140,5 +139,5 @@ Proces wymiany pomiędzy dostawcami usług informacji w zakresie obsługi wniosk
 5.
 Wymiana informacji pomiędzy PLI CBD a dostawcami usług odbywa się w godzinach 700–2300, przy wykorzystaniu łączy albo sieci określonych w § 5 ust. 5 i 6.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 27 grudnia 2012 r. w sprawie organizacji i funkcjonowania systemu gromadzącego i udostępniającego informacje i dane dotyczące lokalizacji zakończenia sieci, z którego zostało wykonane połączenie do numeru alarmowego „112” albo innych numerów alarmowych (Dz. U. z 2013 r. poz. 37), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 34 ust. 1 pkt 1 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. poz. 1635 oraz z 2014 r. poz. 1877 i 1915). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069, 1893 i 2281. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 27 grudnia 2012 r. w sprawie organizacji i funkcjonowania systemu gromadzącego i udostępniającego informacje i dane dotyczące lokalizacji zakończenia sieci, z którego zostało wykonane połączenie do numeru alarmowego „112” albo innych numerów alarmowych (Dz. U. z 2013 r. poz. 37), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 34 ust. 1 pkt 1 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. poz. 1635 oraz z 2014 r. poz. 1877 i 1915).
 

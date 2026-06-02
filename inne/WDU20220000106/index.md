@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 12 stycznia 2022 r. zmieniające rozporządzenie w sprawie szczegółowych zasad otrzymywania i wysokości uposażenia zasadniczego policjantów, dodatków do uposażenia oraz ustalania wysługi lat, od której jest uzależniony wzrost uposażenia zasadniczego
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 12 stycznia 2022 r. zmieniające rozporządzenie w sprawie szczegółowych zasad otrzymywania i wysokości uposażenia zasadniczego policjantów, dodatków do uposażenia oraz ustalania wysługi lat, od której jest uzależniony wzrost uposażenia zasadniczego Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,25 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-12 |
 | Data wydania | 2022-01-17 |
-| Wejście w życie | 2022-01-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000106) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/106/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 101 ust. 2, art. 102 i art. 104 ust. 6 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, 2333, 2447 i 2448) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 6 grudnia 2001 r. w sprawie szczegółowych zasad otrzymywania i wysokości uposażenia zasadniczego policjantów, dodatków do uposażenia oraz ustalania wysługi lat, od której jest uzależniony wzrost uposażenia zasadniczego (Dz. U. z 2015 r. poz. 1236, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 6 grudnia 2001 r. w sprawie szczegółowych zasad otrzymywania i wysokości uposażenia zasadniczego policjantów, dodatków do uposażenia oraz ustalania wysługi lat, od której jest uzależniony wzrost uposażenia zasadniczego (Dz. U. z 2015 r. poz. 1236, z późn. zm.Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 385, z 2017 r. poz. 135 i 253, z 2018 r. poz. 309, 486 i 819, z 2019 r. poz. 240, 366 i 636 oraz z 2020 r. poz. 599 i 1988.) wprowadza się następujące zmiany:
 1)
-w § 6 w ust. 1 pkt 5 otrzymuje brzmienie:
-„
+w § 6 w ust. 1 pkt 5 otrzymuje brzmienie: „
 5)
-dodatek za opiekę nad przydzielonym psem służbowym lub koniem służbowym;
-” ;
+dodatek za opiekę nad przydzielonym psem służbowym lub koniem służbowym; ” ;
 2)
 tytuł § 11 otrzymuje brzmienie: „ Dodatek za opiekę nad przydzielonym psem służbowym lub koniem służbowym ” ;
 3)
-§ 11 otrzymuje brzmienie:
-„
+§ 11 otrzymuje brzmienie: „
 § 11.
 1.
 Policjantowi, któremu przydzielono na stałe pod opiekę psa służbowego lub któremu przydzielono psa służbowego do indywidualnego szkolenia, przysługuje z tego tytułu dodatek w wysokości 10% kwoty bazowej.
@@ -49,11 +45,9 @@ Policjantowi, któremu przydzielono na stałe pod opiekę konia służbowego, pr
 3.
 W przypadku przydzielenia policjantowi na stałe pod opiekę lub do indywidualnego szkolenia więcej niż jednego psa służbowego oraz w przypadku przydzielenia policjantowi na stałe pod opiekę więcej niż jednego konia służbowego, dodatek z tego tytułu stanowi odpowiednią wielokrotność stawki określonej w ust. 1 i 2.
 4.
-W przypadku przydzielenia na stałe pod opiekę równocześnie dwóm policjantom tego samego konia służbowego, dodatek z tego tytułu określony w ust. 2 dzieli się między nich w równych częściach.
-” ;
+W przypadku przydzielenia na stałe pod opiekę równocześnie dwóm policjantom tego samego konia służbowego, dodatek z tego tytułu określony w ust. 2 dzieli się między nich w równych częściach. ” ;
 4)
-§ 13 otrzymuje brzmienie:
-„
+§ 13 otrzymuje brzmienie: „
 § 13.
 1.
 Policjantowi pełniącemu służbę w komórce organizacyjnej Lotnictwa Policji, który w ramach obowiązków na zajmowanym stanowisku służbowym, zgodnie z posiadanymi ważnymi uprawnieniami, wykonuje loty w składzie załóg policyjnych statków powietrznych lub wykonuje obsługę policyjnych statków powietrznych, przysługuje dodatek lotniczy w następującej wysokości ustalonej procentowo od kwoty bazowej:
@@ -90,8 +84,7 @@ wykonuje loty w charakterze mechanika pokładowego policyjnych statków powietrz
 8)
 wykonuje loty w charakterze operatora systemów obserwacji lotniczej policyjnych statków powietrznych zgodnie z posiadanymi ważnymi uprawnieniami,
 9)
-wykonuje loty w charakterze operatora pokładowych urządzeń dźwigowych policyjnych statków powietrznych zgodnie z posiadanymi ważnymi uprawnieniami
-− dodatek lotniczy zwiększa się o 20% kwoty bazowej za każde uprawnienie wymienione w pkt 1–9.
+wykonuje loty w charakterze operatora pokładowych urządzeń dźwigowych policyjnych statków powietrznych zgodnie z posiadanymi ważnymi uprawnieniami − dodatek lotniczy zwiększa się o 20% kwoty bazowej za każde uprawnienie wymienione w pkt 1–9.
 3.
 Policjantowi, który wykonuje loty w ramach czynności inspektora lotniczego lub inspektora techniki lotniczej na policyjnych statkach powietrznych, zgodnie z ważnym upoważnieniem wydanym przez Komendanta Głównego Policji, zwiększa się dodatek lotniczy o 30% kwoty bazowej.
 4.
@@ -103,8 +96,7 @@ Wysokość jednorazowego dodatku lotniczego ustala się na podstawie stażu słu
 7.
 Policjant wchodzący w skład personelu lotniczego Lotnictwa Policji, zawieszony w lotach ze względów zdrowotnych, zachowuje prawo do dodatku lotniczego przez okres 6 miesięcy od daty zawieszenia w lotach. Właściwy przełożony w sprawach osobowych może przedłużyć okres pobierania dodatku lotniczego na okres kolejnych 6 miesięcy.
 8.
-Policjant wchodzący w skład personelu lotniczego Lotnictwa Policji, który utracił prawo do dodatku lotniczego z przyczyn niezależnych od niego, zachowuje prawo do dodatku lotniczego przez okres 6 miesięcy od daty utraty dodatku lotniczego. Właściwy przełożony w sprawach osobowych może przedłużyć okres pobierania dodatku lotniczego na okres kolejnych 6 miesięcy.
-” .
+Policjant wchodzący w skład personelu lotniczego Lotnictwa Policji, który utracił prawo do dodatku lotniczego z przyczyn niezależnych od niego, zachowuje prawo do dodatku lotniczego przez okres 6 miesięcy od daty utraty dodatku lotniczego. Właściwy przełożony w sprawach osobowych może przedłużyć okres pobierania dodatku lotniczego na okres kolejnych 6 miesięcy. ” .
 § 2.
 Przepisy niniejszego rozporządzenia, o których mowa w § 1:
 1)
@@ -112,6 +104,5 @@ pkt 1−3, stosuje się od dnia 21 grudnia 2021 r.;
 2)
 pkt 4, stosuje się od dnia 1 stycznia 2022 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 385, z 2017 r. poz. 135 i 253, z 2018 r. poz. 309, 486 i 819, z 2019 r. poz. 240, 366 i 636 oraz z 2020 r. poz. 599 i 1988.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 385, z 2017 r. poz. 135 i 253, z 2018 r. poz. 309, 486 i 819, z 2019 r. poz. 240, 366 i 636 oraz z 2020 r. poz. 599 i 1988.
 

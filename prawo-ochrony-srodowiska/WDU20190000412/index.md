@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-21 |
 | Data wydania | 2019-03-05 |
-| Wejście w życie | 2019-03-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000412) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/412/text.pdf) |
 
@@ -31,7 +30,7 @@ source: "eli-html"
 - **1)** w art. 5: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną określa na 2019 r. ceny i stawki opłat za energię elektryczną dla odbiorcy końcowego w rozumieniu art. 3 pkt 13a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2018 r. poz. 755, z późn. zm.), zwanego dalej „odbiorcą końcowym”, w wysokości:
+1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną określa na 2019 r. ceny i stawki opłat za energię elektryczną dla odbiorcy końcowego w rozumieniu art. 3 pkt 13a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2018 r. poz. 755, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 685, 771, 1000, 1356, 1629, 1637 i 2348 oraz z 2019 r. poz. 42 i 125.), zwanego dalej „odbiorcą końcowym”, w wysokości:
 
 - **1)** cen stosowanych w dniu 31 grudnia 2018 r. ustalonych w taryfie w rozumieniu art. 3 pkt 17 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, zatwierdzonej przez Prezesa Urzędu Regulacji Energetyki, zwanego dalej „Prezesem URE”;
 - **2)** nie wyższej niż ceny i stawki opłat za energię elektryczną stosowane dla odbiorcy końcowego w dniu 30 czerwca 2018 r., ustalone przez to przedsiębiorstwo w inny sposób, niż wskazany w pkt 1, w tym w formie umów wynegocjowanych indywidualnie lub w trybie przewidzianym w ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2018 r. poz. 1986 i 2215 oraz z 2019 r. poz. 53), zwane dalej „cennikiem energii elektrycznej”. ” , uchyla się ust. 2, ust. 3 otrzymuje brzmienie: „
@@ -47,7 +46,7 @@ source: "eli-html"
 1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną, które po dniu 30 czerwca 2018 r., w stosunku do cenników energii elektrycznej:
 
 - **1)** dokonało zmiany obowiązującej z odbiorcą końcowym umowy sprzedaży energii elektrycznej lub umowy kompleksowej, a także gdy zmiana cen lub stawek opłat za energię elektryczną nastąpiła zgodnie z treścią umowy sprzedaży energii elektrycznej lub umowy kompleksowej zawartej z odbiorcą końcowym, na cenę lub stawkę opłat za energię elektryczną wyższą od ceny lub stawki opłat wynikającej z umowy sprzedaży energii elektrycznej lub umowy kompleksowej z danym odbiorcą końcowym stosowanej w dniu 30 czerwca 2018 r.,
-- **2)** zawarło z odbiorcą końcowym umowę sprzedaży energii elektrycznej lub umowę kompleksową z ceną lub stawką opłat za energię elektryczną wyższą od ceny lub stawki, o której mowa w art. 5 ust. 1 pkt 2 jest obowiązane do zmiany warunków tej umowy nie później niż w terminie 30 dni od dnia wejścia w życie przepisów wydanych na podstawie art. 7 ust. 2, ze skutkiem od dnia 1 stycznia 2019 r.
+- **2)** zawarło z odbiorcą końcowym umowę sprzedaży energii elektrycznej lub umowę kompleksową z ceną lub stawką opłat za energię elektryczną wyższą od ceny lub stawki, o której mowa w art. 5 ust. 1 pkt 2 – jest obowiązane do zmiany warunków tej umowy nie później niż w terminie 30 dni od dnia wejścia w życie przepisów wydanych na podstawie art. 7 ust. 2, ze skutkiem od dnia 1 stycznia 2019 r.
 
 2. Zmiana warunków umowy, o której mowa w ust. 1, następuje poprzez:
 
@@ -59,7 +58,7 @@ source: "eli-html"
 1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną oraz odbiorca końcowy kupujący energię elektryczną na własny użytek na giełdzie towarowej w rozumieniu przepisów ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2019 r. poz. 312) lub rynku organizowanym przez podmiot prowadzący na terytorium Rzeczypospolitej Polskiej rynek regulowany w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2018 r. poz. 2286, 2243 i 2244) lub za pośrednictwem towarowego domu maklerskiego lub domu maklerskiego prowadzącego działalność maklerską w zakresie obrotu towarami giełdowymi mogą zwrócić się do Zarządcy Rozliczeń S.A., o którym mowa w rozdziale 7 ustawy z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. z 2018 r. poz. 1571 i 2538), zwanego dalej „zarządcą rozliczeń cen”, z wnioskiem o wypłatę odpowiednio:
 
 - **1)** kwoty na pokrycie różnicy między wielkością przychodów za obrót energią elektryczną na rzecz odbiorców końcowych określoną na podstawie średnioważonej wolumenem ceny energii elektrycznej na rynku hurtowym powiększonej o pozostałe koszty jednostkowe, o których mowa w ust. 4 pkt 1, a wielkością przychodów wynikających z zastosowania cen energii elektrycznej, o których mowa w art. 5 ust. 1 pkt 1, lub cen i stawek opłat za energię elektryczną stosowanych w dniu 30 czerwca 2018 r., o których mowa w art. 5 ust. 1 pkt 2, obliczonej zgodnie ze wzorem określonym w przepisach wydanych na podstawie ust. 2, lub
-- **2)** kwoty na pokrycie różnicy między wielkością kosztów nabycia energii elektrycznej na własne potrzeby, zużytej w roku 2019 określoną na podstawie średnioważonej wolumenem ceny energii elektrycznej na rynku hurtowym, powiększonej o pozostałe koszty jednostkowe, o których mowa w ust. 4 pkt 1 lit. c, a wielkością kosztów nabycia energii elektrycznej na własne potrzeby określoną na podstawie średnioważonej wolumenem ceny energii elektrycznej nabytej przez tego odbiorcę końcowego na potrzeby własne, zużytej w terminie pomiędzy 25 a 29 czerwca 2018 r., obliczonej zgodnie ze wzorem, określonym w przepisach wydanych na podstawie ust. 2 zwanej dalej „kwotą różnicy ceny”. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **2)** kwoty na pokrycie różnicy między wielkością kosztów nabycia energii elektrycznej na własne potrzeby, zużytej w roku 2019 określoną na podstawie średnioważonej wolumenem ceny energii elektrycznej na rynku hurtowym, powiększonej o pozostałe koszty jednostkowe, o których mowa w ust. 4 pkt 1 lit. c, a wielkością kosztów nabycia energii elektrycznej na własne potrzeby określoną na podstawie średnioważonej wolumenem ceny energii elektrycznej nabytej przez tego odbiorcę końcowego na potrzeby własne, zużytej w terminie pomiędzy 25 a 29 czerwca 2018 r., obliczonej zgodnie ze wzorem, określonym w przepisach wydanych na podstawie ust. 2 – zwanej dalej „kwotą różnicy ceny”. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Średnioważoną cenę energii elektrycznej na rynku hurtowym określa się dla:
@@ -87,7 +86,7 @@ source: "eli-html"
     - **g)**
 
 - **3)** zakres, termin i sposób publikacji informacji udostępnianych przez giełdę towarową energii elektrycznej w rozumieniu przepisów ustawy z dnia 26 października 2000 r. o giełdach towarowych, stanowiących części składowe kwoty różnicy ceny i średnioważonej ceny energii elektrycznej na rynku hurtowym;
-- **4)** zakres informacji ogłaszanych przez Prezesa URE w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki, stanowiący część składową obliczenia kwoty różnicy ceny biorąc pod uwagę wartość unikniętego wzrostu cen energii elektrycznej oraz równoważenie interesów przedsiębiorstw energetycznych wykonujących działalność gospodarczą w zakresie obrotu energią elektryczną i odbiorców końcowych energii elektrycznej. ” , po ust. 2 dodaje się ust. 3–6 w brzmieniu: „
+- **4)** zakres informacji ogłaszanych przez Prezesa URE w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki, stanowiący część składową obliczenia kwoty różnicy ceny – biorąc pod uwagę wartość unikniętego wzrostu cen energii elektrycznej oraz równoważenie interesów przedsiębiorstw energetycznych wykonujących działalność gospodarczą w zakresie obrotu energią elektryczną i odbiorców końcowych energii elektrycznej. ” , po ust. 2 dodaje się ust. 3–6 w brzmieniu: „
     - **d)**
 
 3. Prezes URE oblicza i ogłasza w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki średnioważone ceny energii elektrycznej na rynku hurtowym, zgodnie ze sposobem i terminem określonym w przepisach wydanych na podstawie ust. 2, oraz ogłasza dane stanowiące części składowe służące do obliczenia kwoty różnicy ceny, wskazane w tych przepisach.
@@ -175,7 +174,7 @@ source: "eli-html"
 
 **Art. 19a.** Wniosek, o którym mowa w art. 7 ust. 1, może być złożony do zarządcy rozliczeń cen po raz pierwszy po dniu 31 marca 2019 r. ” .
 
-**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799, z późn. zm.) w art. 401d:
+**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1356, 1479, 1564, 1590, 1592, 1648, 1722, 2161 i 2533 oraz z 2019 r. poz. 42.) w art. 401d:
 
 - **1)** po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
@@ -235,7 +234,7 @@ source: "eli-html"
 
 2. Przepisu ust. 1 nie stosuje się do wsparcia, do którego zastosowanie mają przepisy:
 
-- **1)** rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.);
+- **1)** rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28/1, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28.;
 - **2)** rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1). ” .
 
 **Art. 5.** W ustawie z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji (Dz. U. z 2019 r. poz. 42) wprowadza się następujące zmiany:
@@ -277,5 +276,5 @@ source: "eli-html"
 
 3. W przypadku wytwórcy, o którym mowa w ust. 1, okres wsparcia dla energii elektrycznej z wysokosprawnej kogeneracji dla jednostki, o której mowa w ust. 1, wynosi 15 lat, przy czym ten okres liczy się od pierwszego dnia po dniu uzyskania decyzji o dopuszczeniu, o której mowa w art. 30 ust. 4 ustawy zmienianej w art. 5, albo decyzji o dopuszczeniu, o której mowa w art. 37 ust. 3 ustawy zmienianej w art. 5, wytworzenia, wprowadzenia do sieci i sprzedaży energii elektrycznej z tej jednostki po uzyskaniu lub zmianie koncesji na wytwarzanie energii elektrycznej albo po uzyskaniu lub zmianie wpisu do rejestru wytwórców biogazu rolniczego, nie dłużej jednak niż do dnia 31 grudnia 2039 r.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 685, 771, 1000, 1356, 1629, 1637 i 2348 oraz z 2019 r. poz. 42 i 125. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1356, 1479, 1564, 1590, 1592, 1648, 1722, 2161 i 2533 oraz z 2019 r. poz. 42. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28/1, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28.
 

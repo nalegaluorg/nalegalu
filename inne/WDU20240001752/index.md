@@ -31,13 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 20 listopada 2002 r. w sprawie uprawnień i obowiązków policjantów delegowanych do pełnienia służby poza granicami państwa (Dz. U. z 2022 r. poz. 1815), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Rady Ministrów z dnia 23 sierpnia 2023 r. zmieniającym rozporządzenie w sprawie uprawnień i obowiązków policjantów delegowanych do pełnienia służby poza granicami państwa (Dz. U. poz. 1803).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 23 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie uprawnień i obowiązków policjantów delegowanych do pełnienia służby poza granicami państwa (Dz. U. poz. 1803), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 23 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie uprawnień i obowiązków policjantów delegowanych do pełnienia służby poza granicami państwa (Dz. U. poz. 1803), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Rady Ministrów z dnia 20 listopada 2002 r. w sprawie uprawnień i obowiązków policjantów delegowanych do pełnienia służby poza granicami państwa
-Na podstawie art. 145f pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 145f pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1006, 1089, 1222, 1248, 1473, 1562, 1688 i 1717.) zarządza się, co następuje:
 § 1.
 Policjant może być delegowany do pełnienia służby poza granicami państwa w kontyngencie policyjnym wydzielonym do udziału w:
 1)
@@ -57,7 +55,7 @@ szkoleniu i ćwiczeniach policyjnych lub przedsięwzięciach reprezentacyjnych, 
 § 2.
 W oświadczeniu, o którym mowa w § 1 pkt 1 lit. a, policjant wskazuje, że zna czas i warunki delegowania do pełnienia służby poza granicami państwa w kontyngencie policyjnym oraz charakter przewidywanych do wykonania zadań.
 § 3.
-1.
+1W brzmieniu ustalonym przez § 1 rozporządzenia Rady Ministrów z dnia 23 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie uprawnień i obowiązków policjantów delegowanych do pełnienia służby poza granicami państwa (Dz. U. poz. 1803), które weszło w życie z dniem 7 września 2023 r..
 Oceny predyspozycji policjanta do pełnienia służby poza granicami państwa w kontyngencie policyjnym, zwanej dalej „oceną predyspozycji”, dokonuje Komendant Główny Policji lub z jego upoważnienia Komendant Centralnego Biura Śledczego Policji, Komendant Biura Spraw Wewnętrznych Policji, Komendant Centralnego Biura Zwalczania Cyberprzestępczości, komendant wojewódzki (Stołeczny) Policji, Komendant-Rektor Akademii Policji w Szczytnie albo komendant szkoły policyjnej.
 2.
 Przy ocenie predyspozycji uwzględnia się cel skierowania kontyngentu, zakres zadań, obszar jego działania oraz kwalifikacje i umiejętności zawodowe policjanta zapewniające wykonanie zadań określonych dla kontyngentu, a także wymagania, które powinni spełniać policjanci, określone przez organizację międzynarodową lub państwo przyjmujące kontyngent policyjny.
@@ -245,5 +243,5 @@ Policjanta delegowanego do pełnienia służby w kontyngencie policyjnym wydziel
 § 23.
 Policjantowi delegowanemu w kontyngencie policyjnym w dniu wejścia w życie rozporządzenia wymiar urlopu, o którym mowa w § 18, ustala się, uwzględniając datę rozpoczęcia delegowania.
 § 24.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 11 grudnia 2002 r.. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1006, 1089, 1222, 1248, 1473, 1562, 1688 i 1717. 2) W brzmieniu ustalonym przez § 1 rozporządzenia Rady Ministrów z dnia 23 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie uprawnień i obowiązków policjantów delegowanych do pełnienia służby poza granicami państwa (Dz. U. poz. 1803), które weszło w życie z dniem 7 września 2023 r. 3) Rozporządzenie zostało ogłoszone w dniu 11 grudnia 2002 r.
 

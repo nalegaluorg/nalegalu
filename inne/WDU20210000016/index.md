@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 1 grudnia 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie urządzeń losujących, urządzeń do gier i automatów do gier, zabezpieczenia informacji dotyczących urządzanej loterii oraz uzyskiwania, naliczania i wypłacania wygranych
+# Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 1 grudnia 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie urządzeń losujących, urządzeń do gier i automatów do gier, zabezpieczenia informacji dotyczących urządzanej loterii oraz uzyskiwania, naliczania i wypłacania wygranych Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju i Finansów z dnia 8 czerwca 2017 r. w sprawie urządzeń losujących, urządzeń do gier i automatów do gier, zabezpieczenia informacji dotyczących urządzanej loterii oraz uzyskiwania, naliczania i wypłacania wygranych (Dz. U. poz. 1171), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. zmieniającym rozporządzenie w sprawie urządzeń losujących, urządzeń do gier i automatów do gier, zabezpieczenia informacji dotyczących urządzanej loterii oraz uzyskiwania, naliczania i wypłacania wygranych (Dz. U. poz. 1944).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. zmieniającego rozporządzenie w sprawie urządzeń losujących, urządzeń do gier i automatów do gier, zabezpieczenia informacji dotyczących urządzanej loterii oraz uzyskiwania, naliczania i wypłacania wygranych (Dz. U. poz. 1944), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. zmieniającego rozporządzenie w sprawie urządzeń losujących, urządzeń do gier i automatów do gier, zabezpieczenia informacji dotyczących urządzanej loterii oraz uzyskiwania, naliczania i wypłacania wygranych (Dz. U. poz. 1944), które stanowią: „
 § 2.
 Do opinii jednostek badających:
 1)
@@ -40,11 +39,9 @@ wydanych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się 
 2)
 sporządzanych w wyniku badań prowadzonych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepis § 6 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
-Załącznik – Rozporządzenie Ministra Rozwoju i Finansów z dnia 8 czerwca 2017 r. w sprawie urządzeń losujących, urządzeń do gier i automatów do gier, zabezpieczenia informacji dotyczących urządzanej loterii oraz uzyskiwania, naliczania i wypłacania wygranych
-Na podstawie art. 23d ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2020 r. poz. 2094) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Załącznik – Rozporządzenie Ministra Rozwoju i Finansów z dnia 8 czerwca 2017 r. w sprawie urządzeń losujących, urządzeń do gier i automatów do gier, zabezpieczenia informacji dotyczących urządzanej loterii oraz uzyskiwania, naliczania i wypłacania wygranychObecnie działem administracji rządowej – finanse publiczne kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 grudnia 2016 r. pod numerem 2016/700/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 23d ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2020 r. poz. 2094) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -59,7 +56,7 @@ sposób zabezpieczenia istotnych informacji dotyczących urządzanej loterii, w 
 sposób uzyskiwania, naliczania i wypłacania wygranych w trakcie gry lub w przypadku, gdy urządzenie lub automat, o których mowa w pkt 1, znajdują się w sytuacji awarii.
 § 2.
 1.
-Warunkiem rejestracji urządzenia losującego, urządzenia do gier oraz automatu do gier jest złożenie do właściwego naczelnika urzędu celno-skarbowego przez podmiot posiadający odpowiednio koncesję albo zezwolenie na prowadzenie działalności w zakresie gier losowych albo podmiot wykonujący monopol państwa:
+Warunkiem rejestracji urządzenia losującego, urządzenia do gier oraz automatu do gier jest złożenie do właściwego naczelnika urzędu celno-skarbowego przez podmiot posiadający odpowiednio koncesję albo zezwolenie na prowadzenie działalności w zakresie gier losowych albo podmiot wykonujący monopol państwa:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. zmieniającego rozporządzenie w sprawie urządzeń losujących, urządzeń do gier i automatów do gier, zabezpieczenia informacji dotyczących urządzanej loterii oraz uzyskiwania, naliczania i wypłacania wygranych (Dz. U. poz. 1944), które weszło w życie z dniem 29 października 2019 r.
 1)
 wniosku o rejestrację w dwóch egzemplarzach;
 2)
@@ -262,8 +259,7 @@ wpłat i wykupionych losów,
 3)
 uzyskanych wygranych wraz z przyporządkowaniem danego rodzaju nagrody do zwycięzcy,
 4)
-rodzaju, ilości i wartości nagród
-jednostka badająca sprawdza, czy dane te będą zabezpieczone przed ingerencją z zewnątrz w sposób uniemożliwiający dostęp osobom nieuprawnionym.
+rodzaju, ilości i wartości nagród – jednostka badająca sprawdza, czy dane te będą zabezpieczone przed ingerencją z zewnątrz w sposób uniemożliwiający dostęp osobom nieuprawnionym.
 § 5.
 1.
 Warunkiem rejestracji i eksploatacji urządzeń losujących, urządzeń do gier i automatów do gier jest ich zabezpieczenie przed ingerencją z zewnątrz przez założenie przez jednostkę badającą, po przeprowadzeniu badania technicznego, plomb zabezpieczających.
@@ -287,7 +283,7 @@ niepowtarzalny numer identyfikacyjny plomby;
 datę nałożenia plomby.
 4.
 Dane, o których mowa w § 4 ust. 3, są zabezpieczone za pomocą obliczanego dla każdego rejestrowanego zdarzenia skrótu kryptograficznego. Skrót ten obliczany jest przy wykorzystaniu niesymetrycznego algorytmu SHA2, zgodnego z normą ISO/IEC 10118–3:2004.
-§ 6.
+§ 6W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3..
 Opinia sporządzona wyłącznie w celu załączenia do wniosku, o którym mowa w art. 2 ust. 6 ustawy, zawiera dane określone w § 2 ust. 3 pkt 1−6 i 8 i ust. 4 pkt 1–5 i 7 oraz informację, że opinia ta nie rozstrzyga o charakterze gier urządzanych z wykorzystaniem badanego automatu lub urządzenia.
 § 7.
 W przypadku negatywnego wyniku badania technicznego wskazującego na niespełnienie przez urządzenie losujące, urządzenie do gier lub automat do gier warunków eksploatacji określonych przepisami prawa jednostka badająca powiadamia ministra właściwego do spraw finansów publicznych.
@@ -402,6 +398,5 @@ Urządzenie losujące lub urządzenie do gier nalicza i wypłaca wygrane w spos�
 § 19.
 Do badań technicznych automatów do gier i urządzeń do gier, które zostały zlecone jednostkom badającym przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 20.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Obecnie działem administracji rządowej – finanse publiczne kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 grudnia 2016 r. pod numerem 2016/700/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. zmieniającego rozporządzenie w sprawie urządzeń losujących, urządzeń do gier i automatów do gier, zabezpieczenia informacji dotyczących urządzanej loterii oraz uzyskiwania, naliczania i wypłacania wygranych (Dz. U. poz. 1944), które weszło w życie z dniem 29 października 2019 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 5) Rozporządzenie zostało ogłoszone w dniu 20 czerwca 2017 r. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 9 marca 2012 r. w sprawie szczegółowych warunków rejestracji i eksploatacji automatów i urządzeń do gier (Dz. U. poz. 312 oraz z 2017 r. poz. 389), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 11 ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o grach hazardowych oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 88).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 20 czerwca 2017 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 9 marca 2012 r. w sprawie szczegółowych warunków rejestracji i eksploatacji automatów i urządzeń do gier (Dz. U. poz. 312 oraz z 2017 r. poz. 389), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 11 ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o grach hazardowych oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 88). 1) Obecnie działem administracji rządowej – finanse publiczne kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 grudnia 2016 r. pod numerem 2016/700/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. zmieniającego rozporządzenie w sprawie urządzeń losujących, urządzeń do gier i automatów do gier, zabezpieczenia informacji dotyczących urządzanej loterii oraz uzyskiwania, naliczania i wypłacania wygranych (Dz. U. poz. 1944), które weszło w życie z dniem 29 października 2019 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 5) Rozporządzenie zostało ogłoszone w dniu 20 czerwca 2017 r. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 9 marca 2012 r. w sprawie szczegółowych warunków rejestracji i eksploatacji automatów i urządzeń do gier (Dz. U. poz. 312 oraz z 2017 r. poz. 389), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 11 ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o grach hazardowych oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 88).
 

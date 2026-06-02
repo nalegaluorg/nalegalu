@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 listopada 2018 r. o grobach weteranów walk o wolność i niepodległość Polski
+# Ustawa z dnia 22 listopada 2018 r. o grobach weteranów walk o wolność i niepodległość Polski Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego, ustawę z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych, ustawę z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, ustawę z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych oraz ustawę z dnia 12 marca 2004 r. o pomocy społecznej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-22 |
 | Data wydania | 2018-12-31 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002529) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2529/text.pdf) |
 
@@ -174,7 +173,7 @@ W setną rocznicę odzyskania przez Polskę niepodległości, oddając hołd prz
 
 2. Dochodzenie przez Instytut należności wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych z tytułu niewykorzystania lub wykorzystania niezgodnie z przeznaczeniem udzielonej dotacji lub przyznanego świadczenia następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
-**Art. 12.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.) w art. 21 w ust. 1 po pkt 25c dodaje się pkt 25d w brzmieniu: „
+**Art. 12.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246 i 2429.) w art. 21 w ust. 1 po pkt 25c dodaje się pkt 25d w brzmieniu: „
 
 - **25d)** świadczenia pieniężne przyznawane na podstawie art. 9 ustawy z dnia 22 listopada 2018 r. o grobach weteranów walk o wolność i niepodległość Polski (Dz. U. poz. 2529); ” .
 
@@ -215,5 +214,5 @@ W setną rocznicę odzyskania przez Polskę niepodległości, oddając hołd prz
 
 4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Prezes Instytutu.
 
-**Art. 20.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r.
+**Art. 20.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego, ustawę z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych, ustawę z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, ustawę z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych oraz ustawę z dnia 12 marca 2004 r. o pomocy społecznej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246 i 2429.
 

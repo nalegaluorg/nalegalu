@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 26 lipca 2021 r. w sprawie programu ochrony środowiska przed hałasem
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 26 lipca 2021 r. w sprawie programu ochrony środowiska przed hałasem Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-07-26 |
 | Data wydania | 2021-08-03 |
-| Wejście w życie | 2021-08-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001409) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1409/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 119a ust. 12 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, z późn. zm.) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2002/49/WE Parlamentu Europejskiego i Rady z dnia 25 czerwca 2002 r. odnoszącą się do oceny i zarządzania poziomem hałasu w środowisku (Dz. Urz. UE L 189 z 18.07.2002, str. 12 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 101, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 168 z 01.07.2015, str. 1, Dz. Urz. UE L 170 z 25.06.2019, str. 115, Dz. Urz. UE L 198 z 25.07.2019, str. 241 oraz Dz. Urz. UE L 67 z 05.03.2020, str. 132). Na podstawie art. 119a ust. 12 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802, 868, 1047 i 1162.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -161,6 +160,5 @@ główne linie kolejowe położone poza granicami miast o liczbie mieszkańców 
 4)
 główne lotniska położone poza granicami miast o liczbie mieszkańców większej niż 100 tysięcy.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2002/49/WE Parlamentu Europejskiego i Rady z dnia 25 czerwca 2002 r. odnoszącą się do oceny i zarządzania poziomem hałasu w środowisku (Dz. Urz. UE L 189 z 18.07.2002, str. 12 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 101, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 168 z 01.07.2015, str. 1, Dz. Urz. UE L 170 z 25.06.2019, str. 115, Dz. Urz. UE L 198 z 25.07.2019, str. 241 oraz Dz. Urz. UE L 67 z 05.03.2020, str. 132). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802, 868, 1047 i 1162. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 14 października 2002 r. w sprawie szczegółowych wymagań, jakim powinien odpowiadać program ochrony środowiska przed hałasem (Dz. U. poz. 1498), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 13 ustawy z dnia 30 sierpnia 2019 r. o zmianie ustawy – Prawo ochrony środowiska (Dz. U. poz. 2087 oraz z 2020 r. poz. 1086).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 14 października 2002 r. w sprawie szczegółowych wymagań, jakim powinien odpowiadać program ochrony środowiska przed hałasem (Dz. U. poz. 1498), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 13 ustawy z dnia 30 sierpnia 2019 r. o zmianie ustawy – Prawo ochrony środowiska (Dz. U. poz. 2087 oraz z 2020 r. poz. 1086). 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2002/49/WE Parlamentu Europejskiego i Rady z dnia 25 czerwca 2002 r. odnoszącą się do oceny i zarządzania poziomem hałasu w środowisku (Dz. Urz. UE L 189 z 18.07.2002, str. 12 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 101, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 168 z 01.07.2015, str. 1, Dz. Urz. UE L 170 z 25.06.2019, str. 115, Dz. Urz. UE L 198 z 25.07.2019, str. 241 oraz Dz. Urz. UE L 67 z 05.03.2020, str. 132). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802, 868, 1047 i 1162. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 14 października 2002 r. w sprawie szczegółowych wymagań, jakim powinien odpowiadać program ochrony środowiska przed hałasem (Dz. U. poz. 1498), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 13 ustawy z dnia 30 sierpnia 2019 r. o zmianie ustawy – Prawo ochrony środowiska (Dz. U. poz. 2087 oraz z 2020 r. poz. 1086).
 

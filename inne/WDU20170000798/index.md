@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 marca 2017 r. o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
+# Ustawa z dnia 23 marca 2017 r. o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów Niniejsza ustawa w zakresie swojej regulacji wdraża: 1) dyrektywę Komisji (UE) 2015/565 z dnia 8 kwietnia 2015 r. zmieniającą dyrektywę 2006/86/WE w odniesieniu do niektórych wymagań technicznych dotyczących kodowania tkanek i komórek ludzkich (Dz. Urz. UE L 93 z 09.04.2015, str. 43); 2) dyrektywę Komisji (UE) 2015/566 z dnia 8 kwietnia 2015 r. w sprawie wykonania dyrektywy 2004/23/WE w odniesieniu do procedur weryfikacji równorzędnych norm jakości i bezpieczeństwa przywożonych tkanek i komórek (Dz. Urz. UE L 93 z 09.04.2015, str. 56).
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-23 |
 | Data wydania | 2017-04-19 |
-| Wejście w życie | 2017-04-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000798) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/798/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2015 r. poz. 793, 1893 i 1991 oraz z 2017 r. poz. 767) wprowadza się następujące zmiany:
 
 - **1)** odnośnik nr 1 otrzymuje brzmienie: „ Niniejsza ustawa wdraża postanowienia następujących dyrektyw Unii Europejskiej:
-- **1)** dyrektywy 2004/23/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 102 z 07.04.2004, str. 48, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 291);
+- **1)** dyrektywy 2004/23/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 102 z 07.04.2004, str. 48, z późn. zm.Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 188 z 18.07.2009, str. 14 i Dz. Urz. UE L 7 z 13.01.2015, str. 5/2. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 291);
 - **2)** dyrektywy Komisji (UE) 2015/565 z dnia 8 kwietnia 2015 r. zmieniającej dyrektywę 2006/86/WE w odniesieniu do niektórych wymagań technicznych dotyczących kodowania tkanek i komórek ludzkich (Dz. Urz. UE L 93 z 09.04.2015, str. 43);
 - **3)** dyrektywy Komisji (UE) 2015/566 z dnia 8 kwietnia 2015 r. w sprawie wykonania dyrektywy 2004/23/WE w odniesieniu do procedur weryfikacji równorzędnych norm jakości i bezpieczeństwa przywożonych tkanek i komórek (Dz. Urz. UE L 93 z 09.04.2015, str. 56). ” ;
-- **2)** w art. 1: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) pobierania, przechowywania, przeszczepiania i zastosowania u ludzi komórek, w tym komórek krwiotwórczych szpiku, krwi obwodowej oraz krwi pępowinowej, tkanek i narządów pochodzących od żywego dawcy lub ze zwłok; ” , – w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „ 3) donacji, pobierania, gromadzenia, testowania i dopuszczania do obiegu tkanek i komórek przeznaczonych do wytwarzania produktów leczniczych terapii zaawansowanej w rozumieniu rozporządzenia (WE) nr 1394/2007 Parlamentu Europejskiego i Rady z dnia 13 listopada 2007 r. w sprawie produktów leczniczych terapii zaawansowanej i zmieniającego dyrektywę 2001/83/WE oraz rozporządzenie (WE) nr 726/2004 (Dz. Urz. UE L 324 z 10.12.2007, str. 121, z późn. zm.). ” , w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **2)** w art. 1: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** pobierania, przechowywania, przeszczepiania i zastosowania u ludzi komórek, w tym komórek krwiotwórczych szpiku, krwi obwodowej oraz krwi pępowinowej, tkanek i narządów pochodzących od żywego dawcy lub ze zwłok; ” , w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **3)** donacji, pobierania, gromadzenia, testowania i dopuszczania do obiegu tkanek i komórek przeznaczonych do wytwarzania produktów leczniczych terapii zaawansowanej w rozumieniu rozporządzenia (WE) nr 1394/2007 Parlamentu Europejskiego i Rady z dnia 13 listopada 2007 r. w sprawie produktów leczniczych terapii zaawansowanej i zmieniającego dyrektywę 2001/83/WE oraz rozporządzenie (WE) nr 726/2004 (Dz. Urz. UE L 324 z 10.12.2007, str. 121, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 87 z 31.03.2009, str. 174 i Dz. Urz. UE L 348 z 31.12.2010, str. 1.). ” , w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
     - **b)**
 
 - **3)** pobierania i autologicznego przeszczepiania lub pobierania i autologicznego zastosowania komórek i tkanek w czasie tej samej procedury chirurgicznej, gdy pobrane komórki i tkanki nie są poddawane przetwarzaniu, testowaniu, sterylizacji lub przechowywaniu. ” ;
@@ -159,7 +161,7 @@ source: "eli-html"
 
 - **1)** sposób i tryb tworzenia i prowadzenia listy,
 - **2)** kryteria medyczne i sposób dokonywania wyboru potencjalnego biorcy,
-- **3)** sposób informowania potencjalnych biorców o kolejności wpisu na listę uwzględniając aktualny stan wiedzy medycznej i zachowanie równego dostępu do zabiegu przeszczepienia oraz możliwość prowadzenia listy w postaci elektronicznej. ” ;
+- **3)** sposób informowania potencjalnych biorców o kolejności wpisu na listę – uwzględniając aktualny stan wiedzy medycznej i zachowanie równego dostępu do zabiegu przeszczepienia oraz możliwość prowadzenia listy w postaci elektronicznej. ” ;
 - **12)** w art. 18 ust. 6 otrzymuje brzmienie: „
 
 6. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób prowadzenia rejestru, o którym mowa w ust. 1, uwzględniając konieczność oceny wyników przeszczepienia oraz możliwość prowadzenia rejestru w postaci elektronicznej. ” ;
@@ -257,7 +259,7 @@ source: "eli-html"
     - **d)**
     - **e)**
 
-- **2)** pozwolenia na wykonywanie czynności, o których mowa w art. 25: nazwę właściwego organu wydającego pozwolenie, nazwę krajowego organu odpowiedzialnego za prowadzenie europejskiego kompendium banków tkanek i komórek, sposób przeprowadzenia kontroli, nazwę (firmę) posiadacza pozwolenia, rodzaje tkanek lub komórek, w odniesieniu do których wydano pozwolenie, rodzaje czynności, na których wykonywanie wydano pozwolenie, informację o tym, czy pozwolenie jest ważne, cofnięte albo czy dobrowolnie zaprzestano prowadzenia działalności, na wykonywanie której zostało wydane pozwolenie na wykonywanie czynności, o których mowa w art. 25 i na tej podstawie przydziela bankowi tkanek i komórek europejski kod banku tkanek i komórek na potrzeby jednolitego kodu europejskiego.
+- **2)** pozwolenia na wykonywanie czynności, o których mowa w art. 25: nazwę właściwego organu wydającego pozwolenie, nazwę krajowego organu odpowiedzialnego za prowadzenie europejskiego kompendium banków tkanek i komórek, sposób przeprowadzenia kontroli, nazwę (firmę) posiadacza pozwolenia, rodzaje tkanek lub komórek, w odniesieniu do których wydano pozwolenie, rodzaje czynności, na których wykonywanie wydano pozwolenie, informację o tym, czy pozwolenie jest ważne, cofnięte albo czy dobrowolnie zaprzestano prowadzenia działalności, na wykonywanie której zostało wydane pozwolenie na wykonywanie czynności, o których mowa w art. 25 – i na tej podstawie przydziela bankowi tkanek i komórek europejski kod banku tkanek i komórek na potrzeby jednolitego kodu europejskiego.
     - **a)**
     - **b)**
     - **c)**
@@ -387,7 +389,7 @@ source: "eli-html"
 1. Bank tkanek i komórek:
 
 - **1)** jest obowiązany prowadzić, gromadzić i przechowywać dokumentację dotyczącą podejmowanych czynności dotyczących tkanek i komórek,
-- **2)** prowadzący działalność przywozową tkanek lub komórek z państwa trzeciego, w tym dokonujący jednorazowego przywozu, jest obowiązany prowadzić, gromadzić i przechowywać dokumentację podejmowanych czynności, obejmującą rodzaje i ilości przywożonych tkanek lub komórek oraz ich pochodzenie i przeznaczenie przez okres 30 lat od dnia wydania tkanek lub komórek w celu przeszczepienia lub zastosowania u ludzi, w sposób umożliwiający identyfikację dawców i biorców tkanek lub komórek.
+- **2)** prowadzący działalność przywozową tkanek lub komórek z państwa trzeciego, w tym dokonujący jednorazowego przywozu, jest obowiązany prowadzić, gromadzić i przechowywać dokumentację podejmowanych czynności, obejmującą rodzaje i ilości przywożonych tkanek lub komórek oraz ich pochodzenie i przeznaczenie – przez okres 30 lat od dnia wydania tkanek lub komórek w celu przeszczepienia lub zastosowania u ludzi, w sposób umożliwiający identyfikację dawców i biorców tkanek lub komórek.
 
 2. Bank tkanek i komórek jest obowiązany przekazywać do Krajowego Centrum Bankowania Tkanek i Komórek roczny raport dotyczący podejmowanych czynności, obejmujący rodzaje i ilości gromadzonych, przetwarzanych, przechowywanych i wydawanych tkanek lub komórek oraz ich pochodzenie i przeznaczenie.
 
@@ -427,8 +429,11 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **21)** w art. 35: w ust. 1: – w pkt 1 lit. a otrzymuje brzmienie: „ a) warunków wymaganych do uzyskania pozwolenia, o którym mowa w art. 26 ust. 2, lub ” , – w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ podmiotach, o których mowa w art. 26 ust. 4 pkt 7, dotyczącą: ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) podmiotach, o których mowa w art. 31a, w zakresie wymagań określonych niniejszą ustawą. ” , po ust. 1 dodaje się ust. 1a-1f w brzmieniu: „
+- **21)** w art. 35: w ust. 1: w pkt 1 lit. a otrzymuje brzmienie: „ warunków wymaganych do uzyskania pozwolenia, o którym mowa w art. 26 ust. 2, lub ” , – w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ podmiotach, o których mowa w art. 26 ust. 4 pkt 7, dotyczącą: ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
     - **a)**
+    - **a)**
+
+- **4)** podmiotach, o których mowa w art. 31a, w zakresie wymagań określonych niniejszą ustawą. ” , po ust. 1 dodaje się ust. 1a-1f w brzmieniu: „
     - **b)**
 
 1a. Minister właściwy do spraw zdrowia przeprowadza kontrolę, o której mowa w ust. 1, w bankach tkanek i komórek prowadzących działalność przywozową oraz kontrolę działalności dostawców z państw trzecich na wniosek złożony wraz z uzasadnieniem przez właściwy organ państwa członkowskiego Unii Europejskiej odpowiedzialny za organizowanie inspekcji i kontroli banków tkanek i komórek w danym państwie członkowskim.
@@ -465,7 +470,7 @@ source: "eli-html"
 - **2)** kwalifikacje zawodowe koordynatorów pobierania i przeszczepiania komórek, tkanek i narządów,
 - **3)** warunki, jakim powinny odpowiadać podmioty wymienione w ust. 1, w których podejmowane będzie postępowanie polegające na pobieraniu, przechowywaniu, przeszczepianiu komórek, tkanek lub narządów lub zastosowaniu u ludzi komórek lub tkanek,
 - **4)** szczegółowe zasady współdziałania podmiotów, o których mowa w ust. 1, w zakresie pobierania, przechowywania komórek, tkanek i narządów w celu ich wykorzystania do przeszczepienia lub zastosowania u ludzi,
-- **5)** wymagania, jakim powinna odpowiadać dokumentacja medyczna dotycząca pobierania komórek, tkanek i narządów, ich przechowywania i przeszczepiania lub zastosowania u ludzi uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców i dawców komórek, tkanek lub narządów. ” ;
+- **5)** wymagania, jakim powinna odpowiadać dokumentacja medyczna dotycząca pobierania komórek, tkanek i narządów, ich przechowywania i przeszczepiania lub zastosowania u ludzi – uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców i dawców komórek, tkanek lub narządów. ” ;
 - **23)** w art. 37a: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -516,7 +521,7 @@ source: "eli-html"
 - **1)** sposób tworzenia niepowtarzalnego oznakowania umożliwiającego identyfikację dawcy komórek lub tkanek oraz sposób oznaczania komórek lub tkanek – w postaci zastosowania jednolitego kodu europejskiego,
 - **2)** sposób tworzenia niepowtarzalnego oznakowania umożliwiającego identyfikację dawcy komórek lub tkanek oraz sposób oznaczania komórek lub tkanek – bez zastosowania jednolitego kodu europejskiego – w przypadkach, o których mowa w art. 37b ust. 2 pkt 2,
 - **3)** sposób tworzenia niepowtarzalnego oznakowania umożliwiającego identyfikację dawcy narządów oraz sposób oznaczania narządów za pomocą tego oznakowania,
-- **4)** wymagania w zakresie monitorowania, o którym mowa w art. 37c ust. 3 uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców oraz możliwość prawidłowego przeanalizowania i prześledzenia drogi tkanek i komórek od dawcy do biorcy i odwrotnie. ” ;
+- **4)** wymagania w zakresie monitorowania, o którym mowa w art. 37c ust. 3 – uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców oraz możliwość prawidłowego przeanalizowania i prześledzenia drogi tkanek i komórek od dawcy do biorcy i odwrotnie. ” ;
 - **26)** w art. 39: w ust. 3 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
     - **a)**
 
@@ -567,5 +572,5 @@ source: "eli-html"
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 27 ust. 6 oraz art. 37a ust.11 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 27 ust. 6 oraz art. 37a ust. 11 ustawy zmienianej w art. 1, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem 29 kwietnia 2017 r.
+**Art. 6.** Ustawa wchodzi w życie z dniem 29 kwietnia 2017 r. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża: 1) dyrektywę Komisji (UE) 2015/565 z dnia 8 kwietnia 2015 r. zmieniającą dyrektywę 2006/86/WE w odniesieniu do niektórych wymagań technicznych dotyczących kodowania tkanek i komórek ludzkich (Dz. Urz. UE L 93 z 09.04.2015, str. 43); 2) dyrektywę Komisji (UE) 2015/566 z dnia 8 kwietnia 2015 r. w sprawie wykonania dyrektywy 2004/23/WE w odniesieniu do procedur weryfikacji równorzędnych norm jakości i bezpieczeństwa przywożonych tkanek i komórek (Dz. Urz. UE L 93 z 09.04.2015, str. 56). 2) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 188 z 18.07.2009, str. 14 i Dz. Urz. UE L 7 z 13.01.2015, str. 5/2. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 87 z 31.03.2009, str. 174 i Dz. Urz. UE L 348 z 31.12.2010, str. 1.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-13 |
 | Data wydania | 2016-09-15 |
-| Wejście w życie | 2016-09-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001477) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1477/text.pdf) |
 
@@ -62,7 +61,7 @@ numer rejestracyjny, o którym mowa w art. 23 ust. 1 ustawy z dnia 11 marca 2004
 8.
 Do wniosku o pomoc dołącza się:
 1)
-kopie faktur lub faktur VAT RR, potwierdzających ilość mleka sprzedanego pierwszym podmiotom skupującym mleko w rozumieniu art. 151 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.), zwanym dalej „podmiotami skupującymi”, w okresie referencyjnym, o którym mowa w art. 1 rozporządzenia 2016/1612, przez:
+kopie faktur lub faktur VAT RR, potwierdzających ilość mleka sprzedanego pierwszym podmiotom skupującym mleko w rozumieniu art. 151 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17 i Dz. Urz. UE L 202 z 28.07.2016, str. 5.), zwanym dalej „podmiotami skupującymi”, w okresie referencyjnym, o którym mowa w art. 1 rozporządzenia 2016/1612, przez:
 a)
 producenta mleka ubiegającego się o pomoc lub
 b)
@@ -88,8 +87,7 @@ Prezes Agencji podaje do publicznej wiadomości, na stronie internetowej adminis
 1)
 zezwoleniach, o których mowa w art. 4 rozporządzenia 2016/1612, w terminie określonym w tym przepisie,
 2)
-wnioskach o pomoc, które zgodnie z rozporządzeniem 2016/1612 nie zostały uwzględnione w powiadomieniu, o którym mowa w art. 3 rozporządzenia 2016/1612, w terminie określonym w art. 4 rozporządzenia 2016/1612
-wraz z podaniem dla każdego wniosku o pomoc jednego z numerów producenta mleka ubiegającego się o pomoc, o których mowa w § 5 ust. 7 pkt 1.
+wnioskach o pomoc, które zgodnie z rozporządzeniem 2016/1612 nie zostały uwzględnione w powiadomieniu, o którym mowa w art. 3 rozporządzenia 2016/1612, w terminie określonym w art. 4 rozporządzenia 2016/1612 – wraz z podaniem dla każdego wniosku o pomoc jednego z numerów producenta mleka ubiegającego się o pomoc, o których mowa w § 5 ust. 7 pkt 1.
 § 7.
 1.
 Pomoc jest wypłacana na wniosek, o którym mowa w art. 5 rozporządzenia 2016/1612, zwany dalej „wnioskiem o płatność”, w drodze decyzji administracyjnej wydawanej przez dyrektora oddziału terenowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę producenta mleka ubiegającego się o pomoc.
@@ -112,8 +110,7 @@ oświadczenie producenta mleka ubiegającego się o pomoc o całkowitym zaprzest
 a)
 producenta mleka ubiegającego się o pomoc oraz
 b)
-producenta mleka, którego gospodarstwo zostało objęte w posiadanie przez producenta mleka ubiegającego się o pomoc w wyniku dziedziczenia – w przypadku, o którym mowa w § 5 ust. 2
-w przypadku gdy we wniosku o pomoc zostało zadeklarowane całkowite zaprzestanie dostaw mleka podmiotom skupującym w okresie ograniczenia, o którym mowa w art. 1 rozporządzenia 2016/1612;
+producenta mleka, którego gospodarstwo zostało objęte w posiadanie przez producenta mleka ubiegającego się o pomoc w wyniku dziedziczenia – w przypadku, o którym mowa w § 5 ust. 2 – w przypadku gdy we wniosku o pomoc zostało zadeklarowane całkowite zaprzestanie dostaw mleka podmiotom skupującym w okresie ograniczenia, o którym mowa w art. 1 rozporządzenia 2016/1612;
 4)
 pełnomocnictwo do złożenia w imieniu producenta mleka ubiegającego się o pomoc wniosku o płatność przez uznaną organizację producentów lub spółdzielnię – w przypadku gdy wniosek o płatność jest składany w imieniu producenta mleka ubiegającego się o pomoc przez uznaną organizację producentów lub spółdzielnię;
 5)
@@ -132,5 +129,5 @@ Dyrektor oddziału terenowego Agencji, wydając decyzję, o której mowa w § 7 
 § 10.
 Środki finansowe z tytułu pomocy Agencja wypłaca w terminie określonym w art. 5 rozporządzenia 2016/1612, na rachunek bankowy producenta mleka, zawarty w centralnym rejestrze przedsiębiorców, o którym mowa w art. 22 ust. 1 ustawy o Agencji.
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17 i Dz. Urz. UE L 202 z 28.07.2016, str. 5.
 

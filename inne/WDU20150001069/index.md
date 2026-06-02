@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 27 maja 2015 r. o zmianie ustawy o obowiązkach w zakresie informowania o zużyciu energii przez produkty wykorzystujące energię oraz niektórych innych ustaw
+# Ustawa z dnia 27 maja 2015 r. o zmianie ustawy o obowiązkach w zakresie informowania o zużyciu energii przez produkty wykorzystujące energię oraz niektórych innych ustaw Niniejsza ustawa służy wykonaniu rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 106/2008 z dnia 15 stycznia 2008 r. w sprawie unijnego programu znakowania efektywności energetycznej urządzeń biurowych (Dz. Urz. UE L 39 z 13.02.2008, str. 1, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-05-27 |
 | Data wydania | 2015-07-30 |
-| Wejście w życie | 2015-08-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001069) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1069/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne oraz ustawę z dnia 15 kwietnia 2011 r. o efektywności energetycznej.
+Kontrola realizacji programu znakowania efektywności energetycznej urządzeń biurowych
 
 **Art. 1.** W ustawie z dnia 14 września 2012 r. o obowiązkach w zakresie informowania o zużyciu energii przez produkty wykorzystujące energię (Dz. U. poz. 1203) wprowadza się następujące zmiany:
 
@@ -56,7 +58,7 @@ source: "eli-html"
 
 - **8)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Kontrola realizacji programu znakowania efektywności energetycznej urządzeń biurowych
+#### Rozdział 3a
 
 **Art. 16a.**
 
@@ -114,7 +116,7 @@ source: "eli-html"
 - **1)** kontrolujący w rozumieniu przepisów ustawy z dnia 14 września 2012 r. o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych (Dz. U. poz. 1203 oraz z 2015 r. poz. 1069) jest uprawniony do kontroli wprowadzanych do obrotu lub oddawanych do użytku produktów wykorzystujących energię, o których mowa w rozporządzeniu delegowanym Komisji (UE) nr 1062/2010 z dnia 28 września 2010 r. uzupełniającym dyrektywę Parlamentu Europejskiego i Rady 2010/30/UE w odniesieniu do etykiet efektywności energetycznej dla telewizorów (Dz. Urz. UE L 314 z 30.11.2010, str. 64);
 - **2)** przeprowadzający kontrolę realizacji programu znakowania efektywności energetycznej urządzeń biurowych w rozumieniu przepisów ustawy z dnia 14 września 2012 r. o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych jest uprawniony do kontroli realizacji programu znakowania efektywności energetycznej urządzeń biurowych, o którym mowa w art. 1 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 106/2008 z dnia 15 stycznia 2008 r. w sprawie unijnego programu znakowania efektywności energetycznej urządzeń biurowych (Dz. Urz. UE L 39 z 13.02.2008, str. 1, z późn. zm.). ” .
 
-**Art. 4.** W ustawie z dnia 15 kwietnia 2011 r. o efektywności energetycznej (Dz. U. Nr 94, poz. 551, z późn. zm.) w art. 11 ust. 1a otrzymuje brzmienie: „ 1a. Minister właściwy do spraw gospodarki prowadzi działania informacyjno-edukacyjne o zużyciu energii przez produkty wykorzystujące energię w rozumieniu ustawy z dnia 14 września 2012 r. o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych (Dz. U. poz. 1203 oraz z 2015 r. poz. 1069). ” .
+**Art. 4.** W ustawie z dnia 15 kwietnia 2011 r. o efektywności energetycznej (Dz. U. Nr 94, poz. 551, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, 1203 i 1397 oraz z 2015 r. poz. 151.) w art. 11 ust. 1a otrzymuje brzmienie: „ 1a. Minister właściwy do spraw gospodarki prowadzi działania informacyjno-edukacyjne o zużyciu energii przez produkty wykorzystujące energię w rozumieniu ustawy z dnia 14 września 2012 r. o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych (Dz. U. poz. 1203 oraz z 2015 r. poz. 1069). ” .
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa służy wykonaniu rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 106/2008 z dnia 15 stycznia 2008 r. w sprawie unijnego programu znakowania efektywności energetycznej urządzeń biurowych (Dz. Urz. UE L 39 z 13.02.2008, str. 1, z późn. zm.). 2) Niniejszą ustawą zmienia się ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne oraz ustawę z dnia 15 kwietnia 2011 r. o efektywności energetycznej. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, 1203 i 1397 oraz z 2015 r. poz. 151.
 

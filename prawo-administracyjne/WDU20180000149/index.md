@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-10 |
 | Data wydania | 2018-01-18 |
-| Wejście w życie | 2018-02-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000149) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/149/text.pdf) |
 
@@ -40,13 +39,15 @@ source: "eli-html"
 
 4. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
 
-- **1)** w odniesieniu do pomocy publicznej, o której mowa w ust. 1: udzielanej przedsiębiorcy, wobec którego jest prowadzone postępowanie restrukturyzacyjne, innej niż polegająca na zmniejszeniu, w drodze układu, wysokości zobowiązań, rozłożeniu spłaty na raty, odroczeniu terminu wykonania zobowiązań lub zawieszeniu, z mocy prawa lub na podstawie postanowienia sądu lub sędziego-komisarza, postępowań egzekucyjnych prowadzonych w celu dochodzenia wierzytelności – podmiot udzielający pomocy publicznej oraz tryb i formy jej udzielania, udzielanej przedsiębiorcy, wobec którego nie jest prowadzone postępowanie restrukturyzacyjne – podmiot udzielający pomocy publicznej oraz tryb i formy jej udzielania, a także warunki udzielania tej pomocy uwzględniając w szczególności konieczność ukierunkowania tej pomocy na przywrócenie przedsiębiorcy długookresowej zdolności do konkurowania na rynku;
+- **1)** w odniesieniu do pomocy publicznej, o której mowa w ust. 1: udzielanej przedsiębiorcy, wobec którego jest prowadzone postępowanie restrukturyzacyjne, innej niż polegająca na zmniejszeniu, w drodze układu, wysokości zobowiązań, rozłożeniu spłaty na raty, odroczeniu terminu wykonania zobowiązań lub zawieszeniu, z mocy prawa lub na podstawie postanowienia sądu lub sędziego-komisarza, postępowań egzekucyjnych prowadzonych w celu dochodzenia wierzytelności – podmiot udzielający pomocy publicznej oraz tryb i formy jej udzielania, udzielanej przedsiębiorcy, wobec którego nie jest prowadzone postępowanie restrukturyzacyjne – podmiot udzielający pomocy publicznej oraz tryb i formy jej udzielania, a także warunki udzielania tej pomocy – uwzględniając w szczególności konieczność ukierunkowania tej pomocy na przywrócenie przedsiębiorcy długookresowej zdolności do konkurowania na rynku;
     - **a)**
     - **b)**
 
 - **2)** w odniesieniu do pomocy publicznej, o której mowa w ust. 2 – podmiot udzielający tej pomocy oraz warunki, tryb i formy jej udzielania, uwzględniając w szczególności konieczność ukierunkowania tej pomocy na umożliwienie przedsiębiorcy prowadzenia działalności gospodarczej przez czas niezbędny do dokonania koniecznych analiz oraz opracowania planu restrukturyzacji albo likwidacji działalności lub wdrożenia działań restrukturyzacyjnych prowadzących do przywrócenia przedsiębiorcy długookresowej zdolności do konkurowania na rynku. ” ;
-- **2)** w art. 141: w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) gdy przedsiębiorca wskutek poniesionych strat utracił więcej niż połowę kapitału, w szczególności jeżeli suma zysku (strat) z lat ubiegłych, zysku (straty) netto w danym roku obrotowym, kapitału zapasowego, kapitału z aktualizacji wyceny i pozostałych kapitałów (funduszy) rezerwowych jest ujemna i jej wartość bezwzględna jest większa niż 50% kapitału (funduszu) podstawowego; ” , – uchyla się pkt 2, – w pkt 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ przedsiębiorcy innego niż mały lub średni, gdy w ciągu dwóch ostatnich lat stosunek: ” , dodaje się ust. 5 w brzmieniu: „
+- **2)** w art. 141: w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** gdy przedsiębiorca wskutek poniesionych strat utracił więcej niż połowę kapitału, w szczególności jeżeli suma zysku (strat) z lat ubiegłych, zysku (straty) netto w danym roku obrotowym, kapitału zapasowego, kapitału z aktualizacji wyceny i pozostałych kapitałów (funduszy) rezerwowych jest ujemna i jej wartość bezwzględna jest większa niż 50% kapitału (funduszu) podstawowego; ” , – uchyla się pkt 2, – w pkt 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ przedsiębiorcy innego niż mały lub średni, gdy w ciągu dwóch ostatnich lat stosunek: ” , dodaje się ust. 5 w brzmieniu: „
     - **b)**
 
 5. Warunek, o którym mowa w ust. 2 pkt 1, sprawdza się na podstawie zatwierdzonych sprawozdań finansowych sporządzanych zgodnie z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości, a w przypadku gdy przedsiębiorca nie jest zobowiązany do ich sporządzania – na podstawie innych wiarygodnych dokumentów finansowych. ” ;

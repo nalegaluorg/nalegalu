@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 23 września 2021 r. w sprawie kwalifikacji przydatnych w ratownictwie wodnym
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 23 września 2021 r. w sprawie kwalifikacji przydatnych w ratownictwie wodnym Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-09-23 |
 | Data wydania | 2021-09-29 |
-| Wejście w życie | 2021-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001761) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1761/text.pdf) |
 
@@ -57,8 +56,7 @@ kwalifikacje do kierowania pojazdem uprzywilejowanym, określone w przepisach us
 § 3.
 Wykaz dokumentów potwierdzających posiadanie kwalifikacji przydatnych w ratownictwie wodnym jest określony w załączniku do rozporządzenia.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 października 2021 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie z dniem 1 października 2021 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 Załącznik – Wykaz dokumentów potwierdzających posiadanie kwalifikacji przydatnych w ratownictwie wodnym
 I.
 Świadectwa i patenty w zakresie żeglugi śródlądowej:

@@ -22,20 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-09-11 |
 | Data wydania | 2014-09-17 |
-| Wejście w życie | 2014-10-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001228) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1228/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 87 ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.) zarządza się, co następuje:
+Na podstawie art. 87 ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529, z 2013 r. poz. 628, 675, 1351, 1635 i 1650 oraz z 2014 r. poz. 24, 486, 502, 538, 616, 1055 i 1199. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 18 listopada 2003 r. w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom (Dz. U. Nr 198, poz. 1932) w § 1 ust. 1 i 2 otrzymują brzmienie:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 18 listopada 2003 r. w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom (Dz. U. Nr 198, poz. 1932) w § 1 ust. 1 i 2 otrzymują brzmienie: „
 1.
 Wyróżnień, o których mowa w art. 87 ust. 1 pkt 1 i 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, zwanej dalej „ustawą”, udzielają policjantom Komendant Główny Policji, Komendant Centralnego Biura Śledczego Policji, komendanci wojewódzcy (Komendant Stołeczny) Policji, komendanci powiatowi (miejscy, rejonowi) Policji oraz komendanci szkół policyjnych.
 2.
-Wyróżnienia, o którym mowa w art. 87 ust. 1 pkt 4 ustawy, udzielają policjantom Komendant Główny Policji, Komendant Centralnego Biura Śledczego Policji, komendanci wojewódzcy (Komendant Stołeczny) Policji, z wyjątkiem przypadku, o którym mowa w art. 48 ust. 3 ustawy.
-” .
+Wyróżnienia, o którym mowa w art. 87 ust. 1 pkt 4 ustawy, udzielają policjantom Komendant Główny Policji, Komendant Centralnego Biura Śledczego Policji, komendanci wojewódzcy (Komendant Stołeczny) Policji, z wyjątkiem przypadku, o którym mowa w art. 48 ust. 3 ustawy. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 9 października 2014 r.
+Rozporządzenie wchodzi w życie z dniem 9 października 2014 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529, z 2013 r. poz. 628, 675, 1351, 1635 i 1650 oraz z 2014 r. poz. 24, 486, 502, 538, 616, 1055 i 1199. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371.
 

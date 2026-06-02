@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Edukacjiz dnia 11 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej
+# Obwieszczenie Ministra Edukacjiz dnia 11 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
 
 | Pole | Wartość |
 |---|---|
@@ -26,24 +26,22 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000083) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/83/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 28 sierpnia 2019 r. w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych szkół i placówek oświatowych Rozdział 3 – Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych innych jednostek wykonujących zadania z zakresu oświaty Rozdział 4 – Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych uczniów Rozdział 5 – Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych nauczycieli Rozdział 6 – Terminy przekazywania do bazy danych SIO danych, o których mowa w art. 30 ustawy Rozdział 7 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 28 sierpnia 2019 r. w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji Narodowej z dnia 28 sierpnia 2019 r. w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej (Dz. U. poz. 1663), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji i Nauki z dnia 21 listopada 2023 r. zmieniającym rozporządzenie w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej (Dz. U. poz. 2541).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Edukacji i Nauki z dnia 21 listopada 2023 r. zmieniającego rozporządzenie w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej (Dz. U. poz. 2541), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Edukacji i Nauki z dnia 21 listopada 2023 r. zmieniającego rozporządzenie w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej (Dz. U. poz. 2541), które stanowią: „
 § 2.
 1.
 Do dnia 31 sierpnia 2027 r. w ramach danych, o których mowa w art. 29 ust. 1 pkt 1 lit. i ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, w systemie informacji oświatowej, o którym mowa w art. 2 tej ustawy, gromadzi się także dane dziedzinowe nauczycieli dotyczące awansu zawodowego, które obejmują informację o rozpoczęciu stażu na stopień nauczyciela mianowanego, o którym mowa w art. 9d ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2023 r. poz. 984, 1234, 1586, 1672 i 2005), w brzmieniu obowiązującym do dnia 31 sierpnia 2022 r.
 2.
 Podmioty zobowiązane do przekazywania danych do bazy danych systemu informacji oświatowej, o którym mowa w art. 2 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, przekazują dane, o których mowa w ust. 1, do tej bazy danych, w terminie 7 dni od dnia rozpoczęcia stażu na stopień nauczyciela mianowanego, o którym mowa w art. 9d ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, w brzmieniu obowiązującym do dnia 31 sierpnia 2022 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 9, który wchodzi w życie z dniem 1 stycznia 2024 r.
-” .
-1) Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
-Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 28 sierpnia 2019 r. w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej
-Na podstawie art. 31 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2022 r. poz. 2597 oraz z 2023 r. poz. 185, 1234, 1672, 1718 i 2005) i art. 133 ust. 4 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245, z późn. zm.) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 9, który wchodzi w życie z dniem 1 stycznia 2024 r. ” . 1) Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
+Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 28 sierpnia 2019 r. w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowejObecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
+Na podstawie art. 31 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2022 r. poz. 2597 oraz z 2023 r. poz. 185, 1234, 1672, 1718 i 2005) i art. 133 ust. 4 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2432, z 2019 r. poz. 534, 1287 i 2248, z 2021 r. poz. 4 oraz z 2022 r. poz. 1116.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -72,6 +70,7 @@ ustawie o systemie oświaty – należy przez to rozumieć ustawę z dnia 7 wrze
 ustawie – Karta Nauczyciela – należy przez to rozumieć ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2023 r. poz. 984, 1234, 1586, 1672 i 2005);
 5)
 Kodeksie pracy – należy przez to rozumieć ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
+Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych szkół i placówek oświatowych
 § 3.
 W SIO gromadzi się dane dziedzinowe dotyczące warunków dydaktycznych, materialnych i finansowych prowadzenia szkół i placówek oświatowych, o których mowa w art. 8 pkt 1 ustawy, które obejmują:
 1)
@@ -81,9 +80,9 @@ terenów sportowych,
 b)
 placów zabaw,
 c)
-terenów pod obiektami budowlanymi, o których mowa w art. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm.), niewymienionymi w lit. a i b,
+terenów pod obiektami budowlanymi, o których mowa w art. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762, 1890, 1963 i 2029.), niewymienionymi w lit. a i b,
 d)
-terenów zieleni urządzonej, o których mowa w przepisach wydanych na podstawie art. 16 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, z późn. zm.),
+terenów zieleni urządzonej, o których mowa w przepisach wydanych na podstawie art. 16 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1506, 1597, 1688, 1890, 2029 i 2739.),
 e)
 pozostałych terenów;
 2)
@@ -113,7 +112,7 @@ liczbę licencji do e-podręczników;
 5)
 dane dotyczące wydatków na prowadzenie szkół i placówek oświatowych:
 a)
-w przypadku publicznych szkół i placówek oświatowych prowadzonych przez jednostki samorządu terytorialnego i właściwych ministrów – dotyczące planowanych wydatków oraz wydatków wykonanych w szczegółowości: dział, rozdział, paragraf, określonych w przepisach wydanych na podstawie art. 39 ust. 4 pkt 1 i ust. 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.),
+w przypadku publicznych szkół i placówek oświatowych prowadzonych przez jednostki samorządu terytorialnego i właściwych ministrów – dotyczące planowanych wydatków oraz wydatków wykonanych w szczegółowości: dział, rozdział, paragraf, określonych w przepisach wydanych na podstawie art. 39 ust. 4 pkt 1 i ust. 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.),
 b)
 w przypadku publicznych szkół i placówek oświatowych prowadzonych przez osoby prawne inne niż jednostki samorządu terytorialnego i osoby fizyczne oraz niepublicznych szkół i placówek oświatowych – dotyczące wydatków wykonanych w okresach, o których mowa w § 31 ust. 1 pkt 1 lit. a oraz pkt 5 lit. a, z wyszczególnieniem wydatków majątkowych i wydatków na wynagrodzenia, w tym wynagrodzenia nauczycieli;
 6)
@@ -248,7 +247,7 @@ opinia o możliwości rozpoczęcia nauki w szkole podstawowej, o której mowa w 
 2)
 opinia w sprawie odroczenia rozpoczęcia spełniania przez dziecko obowiązku szkolnego, o której mowa w art. 36 ust. 6 ustawy – Prawo oświatowe;
 3)
-(uchylony);
+(uchylony);Przez § 1 pkt 1 rozporządzenia Ministra Edukacji i Nauki z dnia 21 listopada 2023 r. zmieniającego rozporządzenie w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej (Dz. U. poz. 2541), które weszło w życie z dniem 8 grudnia 2023 r.
 4)
 opinia w sprawie zwolnienia ucznia z nauki drugiego języka obcego nowożytnego;
 5)
@@ -316,7 +315,7 @@ turystyczno-krajoznawcze;
 7)
 inne zajęcia.
 § 12.
-W ramach danych, o których mowa w art. 8 pkt 2c lit. c ustawy, w SIO gromadzi się dane dziedzinowe dotyczące organizacji i działalności placówek kształcenia ustawicznego, centrów kształcenia zawodowego oraz branżowych centrów umiejętności, które obejmują:
+W ramach danych, o których mowa w art. 8 pkt 2c lit. c ustawy, w SIO gromadzi się dane dziedzinowe dotyczące organizacji i działalności placówek kształcenia ustawicznego, centrów kształcenia zawodowego oraz branżowych centrów umiejętności, które obejmują:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6.
 1)
 liczbę uczestników kształcenia ustawicznego w formach pozaszkolnych, o których mowa w art. 117 ust. 1a pkt 3 i 5 ustawy – Prawo oświatowe, według płci;
 2)
@@ -365,7 +364,7 @@ a)
 upływu sześciomiesięcznego okresu pozostawania w stanie nieczynnym,
 b)
 prawomocnego ukarania w postępowaniu dyscyplinarnym karą dyscyplinarną zwolnienia z pracy, karą dyscyplinarną zwolnienia z pracy z zakazem przyjmowania ukaranego do pracy w zawodzie nauczyciela w okresie 3 lat od ukarania lub karą wydalenia z zawodu nauczyciela,
-c)
+cW brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 6.)
 utraty pełnej zdolności do czynności prawnych, orzeczenia środka karnego pozbawienia praw publicznych lub zakazu wykonywania zawodu nauczyciela,
 d)
 prawomocnego skazania za umyślne przestępstwo lub umyślne przestępstwo skarbowe,
@@ -405,6 +404,7 @@ e)
 położne,
 f)
 rehabilitanci.
+Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych innych jednostek wykonujących zadania z zakresu oświaty
 § 16.
 W ramach danych, o których mowa w art. 9 pkt 2 lit. b tiret trzecie ustawy, w SIO gromadzi się dane dziedzinowe dotyczące pracowników odpowiedzialnych za zarządzanie i administrowanie oświatą, zatrudnionych w komórkach merytorycznych, obejmujące wymiar zatrudnienia pracowników, według rodzaju zajmowanych stanowisk:
 1)
@@ -421,10 +421,11 @@ W ramach danych, o których mowa w art. 9 pkt 2 lit. c ustawy, w SIO gromadzi si
 z pomocy materialnej o charakterze socjalnym, o której mowa w art. 90c ust. 2 ustawy o systemie oświaty, z określeniem świadczeń tej pomocy, według typu szkoły oraz według wysokości tej pomocy;
 2)
 z pomocy udzielanej w ramach programów przyjętych na podstawie art. 90t ust. 1 i art. 90u ust. 1 ustawy o systemie oświaty, z określeniem formy tej pomocy oraz według typu szkoły.
+Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych uczniów
 § 18.
 W ramach danych, o których mowa w art. 13 pkt 1, art. 14 pkt 1 oraz art. 15 pkt 1 ustawy, w SIO gromadzi się dane dziedzinowe uczniów obejmujące miejsce zamieszkania ucznia: województwo, powiat, gminę i miejscowość, z użyciem identyfikatorów i nazw pochodzących z krajowego rejestru podziału terytorialnego TERYT.
 § 19.
-W ramach danych, o których mowa w art. 13 pkt 12, art. 14 pkt 28, art. 16 pkt 3, art. 17 pkt 1, art. 19, art. 19a pkt 3 i art. 19b pkt 5 ustawy, w SIO gromadzi się dane dziedzinowe uczniów, które dotyczą wypadków, którym uczeń uległ, będąc pod opieką przedszkola, szkoły podstawowej, w której zorganizowano oddział przedszkolny, innej formy wychowania przedszkolnego, szkoły lub placówki, o której mowa w art. 2 pkt 3–5, 7 i 8 ustawy – Prawo oświatowe, z wyszczególnieniem wypadków śmiertelnych i ciężkich, o których mowa w przepisach wydanych na podstawie art. 125 ustawy – Prawo oświatowe, oraz innych, według:
+W ramach danych, o których mowa w art. 13 pkt 12, art. 14 pkt 28, art. 16 pkt 3, art. 17 pkt 1, art. 19, art. 19a pkt 3 i art. 19b pkt 5 ustawy, w SIO gromadzi się dane dziedzinowe uczniów, które dotyczą wypadków, którym uczeń uległ, będąc pod opieką przedszkola, szkoły podstawowej, w której zorganizowano oddział przedszkolny, innej formy wychowania przedszkolnego, szkoły lub placówki, o której mowa w art. 2 pkt 3–5, 7 i 8 ustawy – Prawo oświatowe, z wyszczególnieniem wypadków śmiertelnych i ciężkich, o których mowa w przepisach wydanych na podstawie art. 125 ustawy – Prawo oświatowe, oraz innych, według:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 6.
 1)
 miejsca, w którym zdarzył się wypadek:
 a)
@@ -504,6 +505,7 @@ innych;
 dodatkowych działaniach mających na celu podtrzymywanie i rozwijanie poczucia tożsamości etnicznej uczniów romskich oraz wspomagających edukację tych uczniów, z wyszczególnieniem zajęć wyrównawczych, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3 ustawy o systemie oświaty;
 3)
 specjalnych działaniach opiekuńczo-wychowawczych, o których mowa w przepisach wydanych na podstawie art. 128 ust. 3 ustawy – Prawo oświatowe – w przypadku szkół specjalnych i oddziałów specjalnych zorganizowanych w podmiotach leczniczych.
+Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych nauczycieli
 § 21.
 W ramach danych, o których mowa w art. 29 ust. 1 pkt 1 lit. a, pkt 1a lit. a i pkt 2 lit. a, ust. 3 pkt 1 lit. a i pkt 2 lit. a oraz ust. 4 pkt 1 ustawy, w SIO gromadzi się dane dziedzinowe nauczycieli dotyczące wykształcenia, które obejmują:
 1)
@@ -536,7 +538,7 @@ dokument potwierdzający ukończenie wyższego seminarium duchownego do dnia 31 
 dyplom mistrza w zawodzie;
 15)
 dyplom ukończenia kolegium teologicznego.
-§ 22.
+§ 22Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 6..
 W ramach danych, o których mowa w art. 29 ust. 1 pkt 1 lit. e i pkt 1a lit. e oraz ust. 3 pkt 1 lit. c ustawy, w zakresie dotyczącym formy zatrudnienia nauczyciela, w SIO gromadzi się dane dziedzinowe, które dotyczą formy zatrudnienia na podstawie ustawy – Karta Nauczyciela, Kodeksu pracy, ustawy – Prawo oświatowe lub innej podstawie prawnej.
 § 23.
 W ramach danych, o których mowa w art. 29 ust. 1 pkt 2 lit. e ustawy, w zakresie dotyczącym formy zatrudnienia nauczyciela, w SIO gromadzi się dane dziedzinowe, które dotyczą formy zatrudnienia na podstawie ustawy – Karta Nauczyciela, ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917), ustawy z dnia 21 listopada 2008 r. o służbie cywilnej oraz Kodeksu pracy.
@@ -549,7 +551,7 @@ W ramach danych, o których mowa w art. 29 ust. 1 pkt 1 lit. g i pkt 1a lit. g, 
 1)
 zajęcia, o których mowa w art. 42 ust. 2 pkt 1 ustawy – Karta Nauczyciela;
 2)
-(uchylony);
+(uchylony);Przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 6.
 3)
 zajęcia realizowane w ramach godzin przyznanych przez organ prowadzący szkołę, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 3 ustawy – Prawo oświatowe;
 4)
@@ -566,17 +568,17 @@ urlop bezpłatny udzielony na podstawie art. 17 ust. 2 i art. 17 ust. 2a ustawy 
 urlop udzielony na podstawie art. 25 ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2022 r. poz. 854);
 5)
 zwolnienie z obowiązku świadczenia pracy na podstawie art. 31 ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych;
-6)
+6W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 6.)
 urlop dla poratowania zdrowia, o którym mowa w art. 73 ust. 1 pkt 1 ustawy – Karta Nauczyciela;
-6a)
+6aDodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 6.)
 urlop dla poratowania zdrowia, o którym mowa w art. 73 ust. 1 pkt 2 ustawy – Karta Nauczyciela;
 7)
 zwolnienie z obowiązku realizacji zajęć na podstawie art. 42 ust. 6 ustawy – Karta Nauczyciela;
 8)
 zawieszenie w pełnieniu obowiązków na podstawie art. 85t ust. 1–3 ustawy – Karta Nauczyciela;
-9)
+9W brzmieniu ustalonym przez § 1 pkt 7 lit. c rozporządzenia, o którym mowa w odnośniku 6.)
 urlop płatny, o którym mowa w art. 68 ust. 1 ustawy – Karta Nauczyciela;
-9a)
+9aDodany przez § 1 pkt 7 lit. d rozporządzenia, o którym mowa w odnośniku 6.)
 urlop bezpłatny, o którym mowa w art. 68 ust. 1 ustawy – Karta Nauczyciela;
 10)
 urlop bezpłatny, o którym mowa w art. 174 § 1 Kodeksu pracy;
@@ -586,7 +588,7 @@ przeniesienie w stan nieczynny;
 niezdolność do pracy, o której mowa w art. 92 § 1 Kodeksu pracy;
 13)
 niezdolność do pracy, o której mowa w art. 92 § 4 Kodeksu pracy;
-13a)
+13aDodany przez § 1 pkt 7 lit. e rozporządzenia, o którym mowa w odnośniku 6.)
 niezdolność do pracy, w trakcie której przysługuje świadczenie rehabilitacyjne, o którym mowa w art. 18 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2023 r. poz. 2780);
 14)
 zwolnienie od wykonywania pracy z powodu konieczności osobistego sprawowania opieki, o którym mowa w art. 32 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa;
@@ -594,7 +596,7 @@ zwolnienie od wykonywania pracy z powodu konieczności osobistego sprawowania op
 urlop uzupełniający, o którym mowa w art. 66 ust. 1 ustawy – Karta Nauczyciela.
 § 28.
 W ramach danych, o których mowa w art. 29 ust. 1 pkt 1 lit. i oraz pkt 2 lit. g ustawy, w SIO gromadzi się dane dziedzinowe nauczycieli dotyczące awansu zawodowego, które obejmują:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 6.)
 dane dotyczące stopnia awansu zawodowego:
 a)
 stopień awansu zawodowego nauczyciela, o którym mowa w art. 9a ust. 1 pkt 3 i 4 ustawy – Karta Nauczyciela,
@@ -604,7 +606,7 @@ c)
 nauczyciel nieposiadający stopnia awansu zawodowego nieodbywający przygotowania do zawodu nauczyciela, o którym mowa w art. 9a ust. 2 ustawy – Karta Nauczyciela;
 2)
 dane dotyczące uzyskania kolejnego stopnia awansu zawodowego:
-a)
+aW brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 6.)
 informacja o rozpoczęciu przygotowania do zawodu nauczyciela, o którym mowa w art. 9a ust. 2 ustawy – Karta Nauczyciela,
 b)
 informacja o przystąpieniu do postępowania kwalifikacyjnego lub egzaminacyjnego, o której mowa w art. 9d ust. 8 ustawy – Karta Nauczyciela.
@@ -625,7 +627,7 @@ za warunki pracy,
 e)
 specjalistyczny,
 f)
-(uchylona),
+(uchylona),Przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 6; wszedł w życie z dniem 1 stycznia 2024 r.
 g)
 za warunki pracy z tytułu wykonywania pracy za granicą;
 3)
@@ -652,19 +654,19 @@ wypłacony dodatek, o którym mowa w art. 30a ust. 3 ustawy – Karta Nauczyciel
 wypłacony ekwiwalent pieniężny za okres niewykorzystanego urlopu, o którym mowa w art. 66 ust. 2 ustawy – Karta Nauczyciela;
 14)
 wypłacone wynagrodzenie za czas urlopu wypoczynkowego;
-15)
+15Dodany przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 6; wszedł w życie z dniem 1 stycznia 2024 r.)
 wypłacone wynagrodzenie za urlop płatny, o którym mowa w art. 68 ust. 1 ustawy – Karta Nauczyciela;
-16)
+16Dodany przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 6; wszedł w życie z dniem 1 stycznia 2024 r.)
 wypłacone wynagrodzenie za czas niezdolności do pracy, o której mowa w art. 92 § 1 Kodeksu pracy;
-17)
+17Dodany przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 6; wszedł w życie z dniem 1 stycznia 2024 r.)
 wypłacone wynagrodzenie za czas zwolnienia od pracy z powodu konieczności sprawowania osobistej opieki nad dzieckiem, o którym mowa w art. 67e ust. 1 ustawy – Karta Nauczyciela albo art. 188 § 1 Kodeksu pracy;
-18)
+18Dodany przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 6; wszedł w życie z dniem 1 stycznia 2024 r.)
 wypłacone wynagrodzenie za czas zwolnienia od pracy z powodu działania siły wyższej, o którym mowa w art. 1481 § 1 Kodeksu pracy;
-19)
+19Dodany przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 6; wszedł w życie z dniem 1 stycznia 2024 r.)
 wypłacone wynagrodzenie za czas zwolnienia od pracy, o którym mowa w § 15 rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 15 maja 1996 r. w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy (Dz. U. z 2014 r. poz. 1632);
-20)
+20Dodany przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 6; wszedł w życie z dniem 1 stycznia 2024 r.)
 wypłacone wynagrodzenie za czas zwolnienia od pracy na czas niezbędny do wykonania doraźnej czynności wynikającej z funkcji związkowej poza zakładem pracy, o którym mowa w art. 25 ust. 5 ustawy z dnia 23 maja 1991 r. o związkach zawodowych;
-21)
+21Dodany przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 6; wszedł w życie z dniem 1 stycznia 2024 r.)
 wypłacone jednorazowe świadczenie na start, o którym mowa w art. 53a ust. 1 ustawy – Karta Nauczyciela.
 § 30.
 W ramach danych, o których mowa w art. 29 ust. 2 pkt 1 ustawy, w zakresie dotyczącym form dokształcania i doskonalenia zawodowego, w SIO gromadzi się dane dziedzinowe nauczycieli dotyczące form dokształcania i doskonalenia zawodowego:
@@ -684,6 +686,7 @@ kurs doskonalący w wymiarze od 60 do 99 godzin;
 kurs doskonalący w wymiarze co najmniej 100 godzin;
 8)
 szkolenie branżowe.
+Terminy przekazywania do bazy danych SIO danych, o których mowa w art. 30 ustawy
 § 31.
 1.
 Podmioty zobowiązane do przekazywania danych do bazy danych SIO przekazują do bazy danych SIO:
@@ -758,7 +761,7 @@ według stanu za poprzedni rok szkolny:
 – dane dziedzinowe dotyczące średniorocznej liczby osób niebędących uczniami danej szkoły lub placówki oświatowej, korzystających z internatu, w tym liczby osób posiadających orzeczenie o potrzebie kształcenia specjalnego, o których mowa w art. 8 pkt 1 lit. e ustawy,
 – dane dziedzinowe dotyczące organizacji i działalności poradni psychologiczno-pedagogicznych, w tym poradni specjalistycznych, o których mowa w art. 8 pkt 2 lit. a-d i f ustawy,
 – dane dziedzinowe dotyczące liczby uczniów objętych pomocą psychologiczno-pedagogiczną udzieloną przez przedszkole, szkołę podstawową, w której zorganizowano oddział przedszkolny, inną formę wychowania przedszkolnego lub szkołę, z wyszczególnieniem liczby uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego, o których mowa w art. 8 pkt 2a i 2b ustawy,
-–  dane dziedzinowe dotyczące organizacji i działalności placówek zapewniających opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania, placówek oświatowo-wychowawczych, placówek kształcenia ustawicznego, centrów kształcenia zawodowego, branżowych centrów umiejętności oraz placówek doskonalenia nauczycieli, o których mowa w art. 8 pkt 2c ustawy,
+– W brzmieniu ustalonym przez § 1 pkt 10 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 6. dane dziedzinowe dotyczące organizacji i działalności placówek zapewniających opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania, placówek oświatowo-wychowawczych, placówek kształcenia ustawicznego, centrów kształcenia zawodowego, branżowych centrów umiejętności oraz placówek doskonalenia nauczycieli, o których mowa w art. 8 pkt 2c ustawy,
 – dane dziedzinowe dotyczące uczestniczenia ucznia w zajęciach rozwijających zainteresowania i uzdolnienia oraz innych formach działalności dydaktyczno-wychowawczej, o których mowa w art. 14 pkt 25 ustawy,
 – dane dziedzinowe dotyczące liczby uczniów korzystających ze świetlicy szkolnej, o których mowa w art. 8 pkt 2bb ustawy;
 6)
@@ -767,7 +770,7 @@ następnego dnia roboczego od dnia wydania opinii o potrzebie wczesnego wspomaga
 dane dziedzinowe w zakresie dotyczącym uzyskania kolejnego stopnia awansu zawodowego, o których mowa w art. 29 ust. 1 pkt 1 lit. i oraz pkt 2 lit. g ustawy – w terminie 7 dni od dnia:
 a)
 opracowania przez dyrektora arkusza organizacyjnego lub zatwierdzenia przez organ prowadzący arkusza organizacyjnego – w przypadku informacji o przystąpieniu do postępowania kwalifikacyjnego lub egzaminacyjnego, o której mowa w art. 9d ust. 8 ustawy – Karta Nauczyciela,
-b)
+bW brzmieniu ustalonym przez § 1 pkt 10 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 6.)
 rozpoczęcia przygotowania do zawodu nauczyciela, o którym mowa w art. 9a ust. 2 ustawy – Karta Nauczyciela.
 2.
 Wyniki egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu zawodowego i egzaminu potwierdzającego kwalifikacje w zawodzie okręgowe komisje egzaminacyjne przekazują do bazy danych SIO w terminie 7 dni od dnia odpowiednio:
@@ -775,7 +778,7 @@ Wyniki egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu zawodowego i egzam
 przekazania dyrektorowi szkoły wyników egzaminu ósmoklasisty, zaświadczeń o szczegółowych wynikach egzaminu ósmoklasisty lub informacji o szczegółowych wynikach egzaminu ósmoklasisty;
 2)
 przekazania dyrektorowi szkoły świadectw dojrzałości, aneksów do świadectw dojrzałości, zaświadczeń o wynikach egzaminu maturalnego lub informacji o wynikach egzaminu maturalnego;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 10 lit. b rozporządzenia, o którym mowa w odnośniku 6.)
 przekazania dyrektorowi szkoły, placówki kształcenia ustawicznego, centrum kształcenia zawodowego, branżowego centrum umiejętności oraz pracodawcy, u którego uczniowie lub absolwenci zdawali część pisemną lub praktyczną egzaminu zawodowego, informacji, o których mowa w art. 44zzzo ust. 5 i 7 ustawy o systemie oświaty, certyfikatów kwalifikacji zawodowych lub dyplomów zawodowych albo odbioru osobistego przez zdającego we właściwej okręgowej komisji egzaminacyjnej informacji, o której mowa w art. 44zzzo ust. 5 i 7 ustawy o systemie oświaty, certyfikatu kwalifikacji zawodowej lub dyplomu zawodowego;
 4)
 przekazania dyrektorowi szkoły, placówki kształcenia ustawicznego lub centrum kształcenia zawodowego oraz pracodawcy, u którego uczniowie lub absolwenci zdawali część pisemną lub praktyczną egzaminu potwierdzającego kwalifikacje w zawodzie, informacji o wynikach egzaminu potwierdzającego kwalifikacje w zawodzie, świadectw potwierdzających kwalifikację w zawodzie lub dyplomów potwierdzających kwalifikacje zawodowe albo odbioru osobistego przez zdającego we właściwej okręgowej komisji egzaminacyjnej informacji o wynikach egzaminu potwierdzającego kwalifikacje w zawodzie, świadectwa potwierdzającego kwalifikację w zawodzie lub dyplomu potwierdzającego kwalifikacje zawodowe;
@@ -789,6 +792,7 @@ dane uczniów przystępujących do egzaminu ósmoklasisty – do dnia 10 paździ
 dane uczniów przystępujących do egzaminu maturalnego – do dnia 9 lutego roku szkolnego, w którym jest przeprowadzany ten egzamin;
 3)
 dane uczniów przystępujących do egzaminu zawodowego – 2 dni roboczych od upływu terminu złożenia deklaracji przystąpienia do egzaminu zawodowego, o którym mowa w przepisach wydanych na podstawie art. 44zzzv ustawy o systemie oświaty.
+Przepisy przejściowe i końcowe
 § 33.
 W latach 2019 i 2020 w ramach danych, o których mowa w art. 8 pkt 3 ustawy, w SIO gromadzi się dane dziedzinowe dotyczące liczby nauczycieli, z którymi w danym roku kalendarzowym rozwiązano stosunek pracy albo planowane jest jego rozwiązanie, z przyczyn określonych w art. 225 i art. 226 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203, z 2018 r. poz. 2245 oraz z 2019 r. poz. 1287).
 § 34.
@@ -799,20 +803,33 @@ Przepis § 7 pkt 10 stosuje się także do klas dotychczasowych szkół ponadgim
 § 36.
 Przepis § 32 pkt 3 stosuje się odpowiednio do egzaminu potwierdzającego kwalifikacje w zawodzie.
 § 37.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Obecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2432, z 2019 r. poz. 534, 1287 i 2248, z 2021 r. poz. 4 oraz z 2022 r. poz. 1116. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762, 1890, 1963 i 2029. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1506, 1597, 1688, 1890, 2029 i 2739. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872. 6) Przez § 1 pkt 1 rozporządzenia Ministra Edukacji i Nauki z dnia 21 listopada 2023 r. zmieniającego rozporządzenie w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej (Dz. U. poz. 2541), które weszło w życie z dniem 8 grudnia 2023 r. 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6. 8) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 6. 9) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 6. 10) Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 6. 11) Przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 6. 12) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 6. 13) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 6. 14) W brzmieniu ustalonym przez § 1 pkt 7 lit. c rozporządzenia, o którym mowa w odnośniku 6. 15) Dodany przez § 1 pkt 7 lit. d rozporządzenia, o którym mowa w odnośniku 6. 16) Dodany przez § 1 pkt 7 lit. e rozporządzenia, o którym mowa w odnośniku 6. 17) W brzmieniu ustalonym przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 6. 18) W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 6. 19) Przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 6; wszedł w życie z dniem 1 stycznia 2024 r. 20) Dodany przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 6; wszedł w życie z dniem 1 stycznia 2024 r. 21) W brzmieniu ustalonym przez § 1 pkt 10 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 6. 22) W brzmieniu ustalonym przez § 1 pkt 10 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 6. 23) W brzmieniu ustalonym przez § 1 pkt 10 lit. b rozporządzenia, o którym mowa w odnośniku 6. 24) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 11 sierpnia 2017 r. w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej (Dz. U. poz. 1653 oraz z 2018 r. poz. 628), które utraciło moc z dniem 1 września 2019 r. w związku z wejściem w życie ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 11 sierpnia 2017 r. w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej (Dz. U. poz. 1653 oraz z 2018 r. poz. 628), które utraciło moc z dniem 1 września 2019 r. w związku z wejściem w życie ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287). 1) Obecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2432, z 2019 r. poz. 534, 1287 i 2248, z 2021 r. poz. 4 oraz z 2022 r. poz. 1116. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762, 1890, 1963 i 2029. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1506, 1597, 1688, 1890, 2029 i 2739. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872. 6) Przez § 1 pkt 1 rozporządzenia Ministra Edukacji i Nauki z dnia 21 listopada 2023 r. zmieniającego rozporządzenie w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej (Dz. U. poz. 2541), które weszło w życie z dniem 8 grudnia 2023 r. 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6. 8) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 6. 9) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 6. 10) Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 6. 11) Przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 6. 12) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 6. 13) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 6. 14) W brzmieniu ustalonym przez § 1 pkt 7 lit. c rozporządzenia, o którym mowa w odnośniku 6. 15) Dodany przez § 1 pkt 7 lit. d rozporządzenia, o którym mowa w odnośniku 6. 16) Dodany przez § 1 pkt 7 lit. e rozporządzenia, o którym mowa w odnośniku 6. 17) W brzmieniu ustalonym przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 6. 18) W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 6. 19) Przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 6; wszedł w życie z dniem 1 stycznia 2024 r. 20) Dodany przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 6; wszedł w życie z dniem 1 stycznia 2024 r. 21) W brzmieniu ustalonym przez § 1 pkt 10 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 6. 22) W brzmieniu ustalonym przez § 1 pkt 10 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 6. 23) W brzmieniu ustalonym przez § 1 pkt 10 lit. b rozporządzenia, o którym mowa w odnośniku 6. 24) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 11 sierpnia 2017 r. w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej (Dz. U. poz. 1653 oraz z 2018 r. poz. 628), które utraciło moc z dniem 1 września 2019 r. w związku z wejściem w życie ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych szkół i placówek oświatowych
+#### Rozdział 2 – Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych szkół i placówek oświatowych
 
-#### Rozdział 3 Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych innych jednostek wykonujących zadania z zakresu oświaty
+#### Rozdział 3 – Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych innych jednostek wykonujących zadania z zakresu oświaty
 
-#### Rozdział 4 Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych uczniów
+#### Rozdział 4 – Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych uczniów
 
-#### Rozdział 5 Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych nauczycieli
+#### Rozdział 5 – Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych nauczycieli
 
-#### Rozdział 6 Terminy przekazywania do bazy danych SIO danych, o których mowa w art. 30 ustawy
+#### Rozdział 6 – Terminy przekazywania do bazy danych SIO danych, o których mowa w art. 30 ustawy
 
-#### Rozdział 7 Przepisy przejściowe i końcowe
+#### Rozdział 7 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
 

@@ -32,7 +32,7 @@ w sprawie wzorów dokumentów dotyczących zbiórek publicznych Na podstawie art
 3) sprawozdania z przeprowadzonej zbiórki publicznej, stanowiący załącznik nr 3 do rozporządzenia;
 4) sprawozdania ze sposobu rozdysponowania zebranych ofiar, stanowiący załącznik nr 4 do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem 18 lipca 2014 r.
-Minister Administracji i Cyfryzacji: R. Trzaskowski AKT ZAŁOŻYCIELSKI komitetu społecznego …………………………………………………………..
+Minister Administracji i Cyfryzacji: R. Trzaskowski Załącznik nr 1 AKT ZAŁOŻYCIELSKI komitetu społecznego …………………………………………………………..
 (nazwa komitetu) powołanego w dniu ………………. w…………..............
 (data) (miejscowość) § 1.
 Komitet społeczny, zwany dalej „komitetem”, działa na obszarze Rzeczypospolitej Polskiej.
@@ -69,7 +69,7 @@ c) …………..………..……………………………………………�
 2. ………………………………………………… (imię i nazwisko) …………..………………………..
 (czytelny podpis)
 3. ………………………………………………… (imię i nazwisko) …………..………………………..
-(czytelny podpis) Numer zbiórki Data wpływu zgłoszenia Ministerstwo Administracji i Cyfryzacji Zgłoszenie zbiórki publicznej  Formularz należy wypełnić w języku polskim, drukowanymi literami.
+(czytelny podpis) Załącznik nr 2 Numer zbiórki Data wpływu zgłoszenia Ministerstwo Administracji i Cyfryzacji Zgłoszenie zbiórki publicznej  Formularz należy wypełnić w języku polskim, drukowanymi literami.
  Wypełnić należy tylko białe pola.
 We wszystkich polach, w których nie będą wpisane odpowiednie informacje, należy wstawić pojedynczy znak „ ” (myślnik).
 Przewidywany czas wypełnienia formularza: ⇒ dla postaci elektronicznej 15 min, ⇒ dla postaci papierowej 20 min.
@@ -103,7 +103,7 @@ zadaniach
 4. Koszty administracyjne , PLN
 5. Wynagrodzenia , PLN
 6. Pozostałe koszty ogółem , PLN
-7. Dodatkowe informacje o kosztach IV. Podpis osoby zgłaszającej/podpisy osób zgłaszających zbiórkę Numer zbiórki Data wpływu sprawozdania Ministerstwo Administracji i Cyfryzacji Sprawozdanie z przeprowadzonej zbiórki publicznej  Formularz należy wypełnić w języku polskim, drukowanymi literami.
+7. Dodatkowe informacje o kosztach IV. Podpis osoby zgłaszającej/podpisy osób zgłaszających zbiórkę Załącznik nr 3 Numer zbiórki Data wpływu sprawozdania Ministerstwo Administracji i Cyfryzacji Sprawozdanie z przeprowadzonej zbiórki publicznej  Formularz należy wypełnić w języku polskim, drukowanymi literami.
  Wypełnić należy tylko białe pola.
  W polach wyboru należy wstawić znak X .
 We wszystkich polach, w których nie będą wpisane odpowiednie informacje, należy wstawić pojedynczy znak „–” (myślnik).
@@ -123,7 +123,7 @@ RRRR MM DD RRRR MM DD Nazwa zbiórki I. Dane dotyczące organizatora zbiórki pu
 4. Koszty administracyjne , PLN
 5. Wynagrodzenia , PLN
 6. Pozostałe koszty ogółem , PLN
-7. Dodatkowe informacje o kosztach IV. Podpis osoby składającej/podpisy osób składających sprawozdanie Numer zbiórki Data wpływu sprawozdania Ministerstwo Administracji i Cyfryzacji Sprawozdanie ze sposobu rozdysponowania zebranych ofiar  Formularz należy wypełnić w języku polskim, drukowanymi literami.
+7. Dodatkowe informacje o kosztach IV. Podpis osoby składającej/podpisy osób składających sprawozdanie Załącznik nr 4 Numer zbiórki Data wpływu sprawozdania Ministerstwo Administracji i Cyfryzacji Sprawozdanie ze sposobu rozdysponowania zebranych ofiar  Formularz należy wypełnić w języku polskim, drukowanymi literami.
  Wypełnić należy tylko białe pola.
  W polach wyboru należy wstawić znak X .
 We wszystkich polach, w których nie będą wpisane odpowiednie informacje, należy wstawić pojedynczy znak „ ” (myślnik).

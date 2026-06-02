@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 4 grudnia 2024 r. zmieniające rozporządzenie w sprawie wymagań Dobrej Praktyki Wytwarzania
+# Rozporządzenie Ministra Zdrowiaz dnia 4 grudnia 2024 r. zmieniające rozporządzenie w sprawie wymagań Dobrej Praktyki Wytwarzania Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-04 |
 | Data wydania | 2024-12-10 |
-| Wejście w życie | 2024-12-18 |
 | Ostatnia zmiana | 2024-12-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001816) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1816/text.pdf) |
 
@@ -35,15 +34,13 @@ Treść rozporządzenia
 ## Załącznik nr 3 — – Aneks 1 wytwarzanie sterylnych produktów leczniczych
 
 Treść rozporządzenia
-Na podstawie art. 39 ust. 5 pkt 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz. 686) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji służy stosowaniu: 1) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 536/2014 z dnia 16 kwietnia 2014 r. w sprawie badań klinicznych produktów leczniczych stosowanych u ludzi oraz uchylenia dyrektywy 2001/20/WE (Dz. Urz. UE L 158 z 27.05.2014, str. 1, Dz. Urz. UE L 311 z 17.11.2016, str. 25, Dz. Urz. UE L 118 z 20.04.2022, str. 1 oraz Dz. Urz. UE L 294 z 15.11.2022, str. 5); 2) rozporządzenia delegowanego Komisji (UE) 2017/1569 z dnia 23 maja 2017 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 536/2014 poprzez określenie zasad i wytycznych dobrej praktyki wytwarzania w odniesieniu do badanych produktów leczniczych stosowanych u ludzi oraz ustaleń dotyczących prowadzenia inspekcji (Dz. Urz. UE L 238 z 16.09.2017, str. 12). Na podstawie art. 39 ust. 5 pkt 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz. 686) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 9 listopada 2015 r. w sprawie wymagań Dobrej Praktyki Wytwarzania (Dz. U. z 2022 r. poz. 1273 oraz z 2024 r. poz. 1323) wprowadza się następujące zmiany:
 1)
-w § 1 po pkt 1 dodaje się pkt 1a w brzmieniu:
-„
+w § 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „
 1a)
-ogólne wymagania Dobrej Praktyki Wytwarzania produktu leczniczego weterynaryjnego zawarte w załączniku nr 1a do rozporządzenia;
-” ;
+ogólne wymagania Dobrej Praktyki Wytwarzania produktu leczniczego weterynaryjnego zawarte w załączniku nr 1a do rozporządzenia; ” ;
 2)
 załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 3)
@@ -56,9 +53,15 @@ a)
 tytuł otrzymuje brzmienie: „ WYTWARZANIE BADANYCH PRODUKTÓW LECZNICZYCH WETERYNARYJNYCH ” ,
 b)
 po wyrazach „Użyte w Aneksie 13 określenia oznaczają”:
-– pkt 1 otrzymuje brzmienie: „ 1) badane produkty lecznicze – badane produkty lecznicze weterynaryjne; ” ,
-– po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) dostarczanie – operacja pakowania w celu wyekspediowania i operacja wysyłki zamówionych badanych produktów leczniczych; ” ,
-– po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) uczestnik badania – zwierzę poddawane badaniu; ” ,
+pkt 1 otrzymuje brzmienie: „
+1)
+badane produkty lecznicze – badane produkty lecznicze weterynaryjne; ” ,
+po pkt 1 dodaje się pkt 1a w brzmieniu: „
+1a)
+dostarczanie – operacja pakowania w celu wyekspediowania i operacja wysyłki zamówionych badanych produktów leczniczych; ” ,
+po pkt 6 dodaje się pkt 6a w brzmieniu: „
+6a)
+uczestnik badania – zwierzę poddawane badaniu; ” ,
 c)
 po wyrazach objaśniających znaczenie użytych w Aneksie 13 określeń, w Regule wyrazy „z pacjentami leczonymi” zastępuje się wyrazami „z uczestnikami badania”,
 d)
@@ -70,8 +73,7 @@ w pkt 55 wyraz „pacjentów” zastępuje się wyrazem „zwierząt”.
 § 2.
 Do postępowań dotyczących wytwórców i importerów produktu leczniczego lub produktu leczniczego weterynaryjnego, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704). 2) Niniejsze rozporządzenie w zakresie swojej regulacji służy stosowaniu: 1) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 536/2014 z dnia 16 kwietnia 2014 r. w sprawie badań klinicznych produktów leczniczych stosowanych u ludzi oraz uchylenia dyrektywy 2001/20/WE (Dz. Urz. UE L 158 z 27.05.2014, str. 1, Dz. Urz. UE L 311 z 17.11.2016, str. 25, Dz. Urz. UE L 118 z 20.04.2022, str. 1 oraz Dz. Urz. UE L 294 z 15.11.2022, str. 5); 2) rozporządzenia delegowanego Komisji (UE) 2017/1569 z dnia 23 maja 2017 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 536/2014 poprzez określenie zasad i wytycznych dobrej praktyki wytwarzania w odniesieniu do badanych produktów leczniczych stosowanych u ludzi oraz ustaleń dotyczących prowadzenia inspekcji (Dz. Urz. UE L 238 z 16.09.2017, str. 12).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704). 2) Niniejsze rozporządzenie w zakresie swojej regulacji służy stosowaniu: 1) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 536/2014 z dnia 16 kwietnia 2014 r. w sprawie badań klinicznych produktów leczniczych stosowanych u ludzi oraz uchylenia dyrektywy 2001/20/WE (Dz. Urz. UE L 158 z 27.05.2014, str. 1, Dz. Urz. UE L 311 z 17.11.2016, str. 25, Dz. Urz. UE L 118 z 20.04.2022, str. 1 oraz Dz. Urz. UE L 294 z 15.11.2022, str. 5); 2) rozporządzenia delegowanego Komisji (UE) 2017/1569 z dnia 23 maja 2017 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 536/2014 poprzez określenie zasad i wytycznych dobrej praktyki wytwarzania w odniesieniu do badanych produktów leczniczych stosowanych u ludzi oraz ustaleń dotyczących prowadzenia inspekcji (Dz. Urz. UE L 238 z 16.09.2017, str. 12).
 
 ## Załącznik nr 1 — – Ogólne wymagania dobrej praktyki wytwarzania produktu leczniczego stosowanego u ludzi
 
@@ -365,8 +367,7 @@ wymywalne składniki – substancje chemiczne, które migrują z powierzchni kon
 75)
 zakażenie – zanieczyszczenie żywymi, obcymi czynnikami biologicznymi prowadzące do ich namnażania się;
 76)
-zanieczyszczenie – niepożądane wprowadzenie zanieczyszczeń o charakterze mikrobiologicznym (drobnoustrojów lub pirogenów) lub cząstek pochodzenia obcego do surowca, produktu pośredniego, substancji czynnej lub produktu leczniczego podczas procesu produkcji, pobierania prób, pakowania, przepakowywania, przechowywania lub transportu, które mogą mieć potencjalnie negatywny wpływ na jakość produktu.
-Użyte w Aneksie 1 skróty oznaczają:
+zanieczyszczenie – niepożądane wprowadzenie zanieczyszczeń o charakterze mikrobiologicznym (drobnoustrojów lub pirogenów) lub cząstek pochodzenia obcego do surowca, produktu pośredniego, substancji czynnej lub produktu leczniczego podczas procesu produkcji, pobierania prób, pakowania, przepakowywania, przechowywania lub transportu, które mogą mieć potencjalnie negatywny wpływ na jakość produktu. Użyte w Aneksie 1 skróty oznaczają:
 1)
 EDI – elektrodejonizacja (ang. elektrodeionization);
 2)
@@ -583,8 +584,10 @@ szczelności instalacji (przecieków powietrza). Odniesienia do kwalifikacji pom
 Klasyfikacja pomieszczeń czystych stanowi część kwalifikacji pomieszczeń czystych i jest metodą oceny poziomu czystości powietrza w odniesieniu do specyfikacji pomieszczenia czystego lub specyfikacji urządzenia zapewniającego powietrze czyste poprzez pomiar całkowitego stężenia cząstek w powietrzu. Działania związane z klasyfikacją należy zaplanować i przeprowadzić tak, aby uniknąć negatywnego wpływu na jakość procesu lub produktu. Na przykład, klasyfikację wstępną należy przeprowadzić podczas symulowania działań, a reklasyfikację należy przeprowadzić podczas symulowania działań albo podczas APS.
 4.27.
 W przypadku klasyfikacji pomieszczeń czystych należy zmierzyć całkowitą liczbę cząstek o wielkości równej lub większej niż 0,5 µm i 5 µm. Pomiar ten należy przeprowadzać zarówno w stanie „w spoczynku”, jak i podczas symulowania czynności oraz ocenić zgodność z wymaganiami określonymi w tabeli 1.
-Tabela 1. Maksymalne dopuszczalne całkowite stężenie cząstek do celów klasyfikacji
-Klasa Maksymalne wartości graniczne dla całkowitej liczby cząstek ≥ 0,5 um/ m3 Maksymalne wartości graniczne dla całkowitej liczby cząstek ≥ 5 um/ m3 „w spoczynku” „w działaniu” „w spoczynku” „w działaniu” A 3 520 3 520 nie określono (a) nie określono (a) B 3 520 352 000 nie określono (a) 2 930 C 352 000 3 520 000 2 930 29 300 D 3 520 000 nie określono (b) 29 300 nie określono (b) (a) Można rozważyć klasyfikację obejmującą cząstki o wielkości ≥ 5 µm, jeżeli wynika to z CCS lub z trendów opartych na danych historycznych. (b) Dla klasy D dopuszczalne limity w stanie „w działaniu” nie są z góry określone – tam gdzie ma to zastosowanie należy ustalić limity w oparciu o ocenę ryzyka i dane rutynowe.
+Tabela 1.
+Maksymalne dopuszczalne całkowite stężenie cząstek do celów klasyfikacji
+Klasa Maksymalne wartości graniczne dla całkowitej liczby cząstek ≥ 0,5 um/ m3 Maksymalne wartości graniczne dla całkowitej liczby cząstek ≥ 5 um/ m3 „w spoczynku” „w działaniu” „w spoczynku” „w działaniu” A 3 520 3 520 nie określono (a) nie określono (a) B 3 520 352 000 nie określono (a) 2 930 C 352 000 3 520 000 2 930 29 300 D 3 520 000 nie określono (b) 29 300 nie określono (b)
+(a) Można rozważyć klasyfikację obejmującą cząstki o wielkości ≥ 5 µm, jeżeli wynika to z CCS lub z trendów opartych na danych historycznych. (b) Dla klasy D dopuszczalne limity w stanie „w działaniu” nie są z góry określone – tam gdzie ma to zastosowanie należy ustalić limity w oparciu o ocenę ryzyka i dane rutynowe.
 4.28.
 W celu klasyfikacji pomieszczeń czystych, minimalna liczba miejsc pobierania próbek i ich rozmieszczenie jest określona w normie ISO 14644 Część 1. W odniesieniu do obszaru aseptycznego wytwarzania i środowiska otaczającego ten obszar (odpowiednio klasa A i klasa B) należy rozważyć dodatkowe miejsca poboru próbek oraz ocenić wszystkie obszary prowadzenia krytycznych etapów procesu, w szczególności obszar napełniania i zasypu korków (obszar, do którego dostarczane są materiały do zamykania pojemnika). Krytyczne miejsca wytwarzania powinny zostać określone na podstawie udokumentowanej oceny ryzyka i bazować na wiedzy o procesie oraz działaniach wykonywanych w danym obszarze.
 4.29.
@@ -599,8 +602,10 @@ wymagania dotyczące całkowitej liczby cząstek, podane w Tabeli 1 niniejszego 
 Prędkość przepływu powietrza dostarczanego przez systemy z jednokierunkowym przepływem powietrza powinna być wyraźnie uzasadniona w protokole z kwalifikacji, z podaniem miejsca pomiaru prędkości przepływu powietrza. Powinna być ona zaprojektowana, mierzona i utrzymywana w celu zapewnienia, że odpowiedni jednokierunkowy ruch powietrza zapewnia ochronę produktu i otwartych komponentów w miejscu pracy (np. tam, gdzie są wykonywane czynności wysokiego ryzyka i gdzie produkt oraz jego elementy składowe są narażone na warunki środowiska). Systemy z jednokierunkowym przepływem powietrza powinny zapewniać jednorodność przepływu powietrza w miejscu pracy w zakresie 0,36 – 0,54 m/s (wartość zalecana), chyba że w CCS naukowo uzasadniono wyjście poza ten zakres. Badania wizualizacji przepływu powietrza powinny być skorelowane z pomiarem prędkości przepływu powietrza.
 4.31.
 Określenie poziomu zanieczyszczenia mikrobiologicznego pomieszczeń czystych jest elementem kwalifikacji pomieszczeń czystych. Liczba miejsc pobierania próbek powinna wynikać z udokumentowanej oceny ryzyka, wyników uzyskanych podczas kwalifikacji pomieszczeń, badań wizualizacji z przepływu powietrza oraz wiedzy na temat procesów i działań wykonywanych w danym obszarze. Maksymalne limity zanieczyszczenia mikrobiologicznego dla każdej klasy, wymagane podczas kwalifikacji, podano w Tabeli 2. Kwalifikacja powinna obejmować zarówno stan „w spoczynku”, jak i stan „w działaniu”.
-Tabela 2. Maksymalny dopuszczalny poziom zanieczyszczenia mikrobiologicznego podczas kwalifikacji
-Klasa Próbka powietrza j.t.k./m3 Płytki sedymentacyjne (średnica 90 mm) Płytki odciskowe (średnica 55 mm) j.t.k./płytka A brak wzrostu B 10 5 5 C 100 50 25 D 200 100 50 Płytki sedymentacyjne powinny być wystawione na działanie powietrza przez czas trwania operacji wytwarzania i zmieniane zgodnie z wymaganiami po maksymalnie 4 godzinach; czas ekspozycji powinien opierać się na badaniach odzysku i nie powinien mieć negatywnego wpływu na przydatność zastosowanych podłoży. Uwaga 1: podczas kwalifikacji obszaru o określonej klasie czystości należy zastosować wszystkie metody dla danej klasy wskazane w Tabeli 2; jeżeli nie stosuje się jednej z metod wskazanych w tabeli lub stosuje się metody alternatywne, przyjęte podejście należy odpowiednio uzasadnić. Uwaga 2: w niniejszym aneksie stosowana jest jednostka „j.t.k.”, w przypadku gdy są stosowane inne lub nowe metody badań, które wymagają ustalenia limitów w innych jednostkach niż j.t.k, należy naukowo uzasadnić takie limity i jeżeli to możliwe skorelować z limitami wyrażonymi w j.t.k. Uwaga 3: podczas kwalifikacji zmiany odzieży personelu powinny mieć zastosowanie limity dla płytek odciskowych i odcisków palców w rękawicach, podane w Tabeli 6. Uwaga 4: metody pobierania prób nie powinny stwarzać ryzyka zanieczyszczenia w czasie procesu wytwarzania.
+Tabela 2.
+Maksymalny dopuszczalny poziom zanieczyszczenia mikrobiologicznego podczas kwalifikacji
+Klasa Próbka powietrza j.t.k./m3 Płytki sedymentacyjne (średnica 90 mm) Płytki odciskowe (średnica 55 mm) j.t.k./płytka A brak wzrostu B 10 5 5 C 100 50 25 D 200 100 50
+Płytki sedymentacyjne powinny być wystawione na działanie powietrza przez czas trwania operacji wytwarzania i zmieniane zgodnie z wymaganiami po maksymalnie 4 godzinach; czas ekspozycji powinien opierać się na badaniach odzysku i nie powinien mieć negatywnego wpływu na przydatność zastosowanych podłoży. Uwaga 1: podczas kwalifikacji obszaru o określonej klasie czystości należy zastosować wszystkie metody dla danej klasy wskazane w Tabeli 2; jeżeli nie stosuje się jednej z metod wskazanych w tabeli lub stosuje się metody alternatywne, przyjęte podejście należy odpowiednio uzasadnić. Uwaga 2: w niniejszym aneksie stosowana jest jednostka „j.t.k.”, w przypadku gdy są stosowane inne lub nowe metody badań, które wymagają ustalenia limitów w innych jednostkach niż j.t.k, należy naukowo uzasadnić takie limity i jeżeli to możliwe skorelować z limitami wyrażonymi w j.t.k. Uwaga 3: podczas kwalifikacji zmiany odzieży personelu powinny mieć zastosowanie limity dla płytek odciskowych i odcisków palców w rękawicach, podane w Tabeli 6. Uwaga 4: metody pobierania prób nie powinny stwarzać ryzyka zanieczyszczenia w czasie procesu wytwarzania.
 4.32.
 Rekwalifikacja pomieszczeń czystych i urządzeń zapewniających powietrze czyste powinna być przeprowadzana okresowo, zgodnie z określonymi procedurami. Rekwalifikacja powinna obejmować co najmniej następujące pomiary albo badania:
 1)
@@ -612,8 +617,7 @@ objętościowy strumień przepływu powietrza;
 4)
 różnicę ciśnień powietrza pomiędzy pomieszczeniami;
 5)
-prędkości powietrza: dla klasy B, klasy C i klasy D badanie prędkości powietrza należy wykonać zgodnie z oceną ryzyka udokumentowaną w CCS; badanie to jest wymagane dla stref napełniania zasilanych przez systemy z jednokierunkowego przepływu powietrza, np. podczas napełniania produktów sterylizowanych końcowo lub w obszarze otaczającym strefę czystości klasy A i system RABS; w przypadku obszarów lub pomieszczeń o określonej klasie czystości z niejednokierunkowym przepływem powietrza badanie prędkości przepływu powietrza należy zastąpić pomiarem czasu regeneracji.
-Maksymalny odstęp czasu dla rekwalifikacji klasy A i klasy B wynosi 6 miesięcy, a dla klasy C i klasy D wynosi 12 miesięcy. Odpowiednią rekwalifikację, obejmującą co najmniej wyżej wymienione pomiary albo badania, należy również przeprowadzić po zakończeniu działań naprawczych, wdrożonych w celu usunięcia niezgodnego z wymaganiami stanu urządzeń lub obiektu lub po wprowadzeniu zmian w urządzeniu, obiekcie lub procesach, stosownie do przypadku. Znaczenie zmiany należy określić w procesie zarządzania zmianą. Przykłady zmian, które należy uwzględnić, to między innymi:
+prędkości powietrza: dla klasy B, klasy C i klasy D badanie prędkości powietrza należy wykonać zgodnie z oceną ryzyka udokumentowaną w CCS; badanie to jest wymagane dla stref napełniania zasilanych przez systemy z jednokierunkowego przepływu powietrza, np. podczas napełniania produktów sterylizowanych końcowo lub w obszarze otaczającym strefę czystości klasy A i system RABS; w przypadku obszarów lub pomieszczeń o określonej klasie czystości z niejednokierunkowym przepływem powietrza badanie prędkości przepływu powietrza należy zastąpić pomiarem czasu regeneracji. Maksymalny odstęp czasu dla rekwalifikacji klasy A i klasy B wynosi 6 miesięcy, a dla klasy C i klasy D wynosi 12 miesięcy. Odpowiednią rekwalifikację, obejmującą co najmniej wyżej wymienione pomiary albo badania, należy również przeprowadzić po zakończeniu działań naprawczych, wdrożonych w celu usunięcia niezgodnego z wymaganiami stanu urządzeń lub obiektu lub po wprowadzeniu zmian w urządzeniu, obiekcie lub procesach, stosownie do przypadku. Znaczenie zmiany należy określić w procesie zarządzania zmianą. Przykłady zmian, które należy uwzględnić, to między innymi:
 i.
 zakłócenie ruchu powietrza mające wpływ na pracę instalacji;
 ii.
@@ -772,8 +776,11 @@ W przypadku gdy w CCS stwierdzono, że produkt jest narażony na nietypowe ryzyk
 W celu zmniejszenia poziomu bioburdenu i cząstek przygotowanie roztworu produktu przed napełnieniem pojemników produktem końcowym powinno obejmować w miarę możliwości etap filtracji przez filtr zatrzymujący drobnoustroje oraz powinien być określony maksymalny dopuszczalny odstęp czasu między przygotowaniem roztworu a napełnieniem.
 8.6.
 Przykłady czynności, które należy przeprowadzić w poszczególnych klasach czystości powietrza, podano w tabeli 3.
-Tabela 3. Przykłady czynności i klas czystości powietrza dla procesów przygotowania i przetwarzania produktów ze sterylizacją końcową
-Klasa A Napełnianie opakowań produktami, gdzie występuje nietypowe ryzyko. Klasa C Napełnianie opakowań produktami.Przygotowanie roztworów, gdzie występuje nietypowe ryzyko. Klasa D Przygotowanie roztworów i komponentów do późniejszego napełniania. Przygotowanie i przetwarzanie aseptyczne
+Tabela 3.
+Przykłady czynności i klas czystości powietrza dla procesów przygotowania i przetwarzania produktów ze sterylizacją końcową
+Klasa A Napełnianie opakowań produktami, gdzie występuje nietypowe ryzyko. Klasa C Napełnianie opakowań produktami.
+Przygotowanie roztworów, gdzie występuje nietypowe ryzyko. Klasa D Przygotowanie roztworów i komponentów do późniejszego napełniania.
+Przygotowanie i przetwarzanie aseptyczne
 8.7.
 Należy jasno zdefiniować proces aseptyczny. Należy zidentyfikować, ocenić i odpowiednio kontrolować ryzyko związane z procesem aseptycznym i wszystkie powiązane z nim wymogi. CCS wytwórni powinien jasno określać kryteria akceptacji tych kontroli, wymagania dotyczące monitorowania i przegląd ich skuteczności. Należy opisać i wdrożyć metody oraz procedury kontroli tych zagrożeń. Zaakceptowane ryzyko resztkowe powinno być formalnie udokumentowane.
 8.8.
@@ -782,7 +789,8 @@ Należy podjąć środki ostrożności, zgodnie z CCS wytwórni, w celu zminimal
 W miarę możliwości należy rozważyć stosowanie urządzeń takich jak RABS, izolatory lub inne systemy, aby ograniczyć potrzebę interwencji krytycznych w klasie A i zminimalizować ryzyko zanieczyszczenia. W celu wyeliminowania interwencji krytycznych wykonywanych bezpośrednio przez człowieka można również rozważyć robotykę i automatyzację procesów (np. tunel sterylizacyjny, automatyczny załadunek liofilizatora, sterylizacja w miejscu).
 8.10.
 Przykłady operacji wykonywanych w różnych klasach czystości powietrza podano w tabeli 4.
-Tabela 4. Przykłady operacji i klas czystości powietrza dla aseptycznych procesów przygotowania i przetwarzania
+Tabela 4.
+Przykłady operacji i klas czystości powietrza dla aseptycznych procesów przygotowania i przetwarzania
 Klasa A – aseptyczny montaż urządzeń napełniających, – w przypadku gdy sterylny produkt kontaktuje się z otoczeniem wykonywanie, w warunkach aseptycznych połączeń, które znajdują się za końcowym filtrem sterylizującym (gdy to możliwe, połączenia te powinny być sterylizowane w miejscu przy użyciu pary), – aseptyczne łączenie i mieszanie składników, – uzupełnianie sterylnego produktu luzem, pojemników i zamknięć, – wyładunek ze sterylizatora i chłodzenie niezabezpieczonych przedmiotów (np. bez opakowania), – prowadzenie etapu wytwarzania i transport sterylnych elementów opakowań bezpośrednich w linii aseptycznego napełniania, gdy nie są one zapakowane, – aseptyczne napełnianie, zamykanie pojemników takich jak ampułki, zamknięcia fiolek, przenoszenie otwartych lub częściowo zakorkowanych fiolek, – załadunek liofilizatora Klasa B – otoczenie dla środowiska klasy A, gdy proces nie jest prowadzony w izolatorze, – przekazywanie lub prowadzenie etapu wytwarzania, gdy urządzenia, komponenty i materiały pomocnicze przeznaczone do wprowadzenia do klasy A są chronione przed otaczającym środowiskiem Klasa C – przygotowanie roztworów do filtrowania, w tym pobieranie próbek i naważanie. Klasa D – czyszczenie sprzętu, – postępowanie z komponentami, sprzętem i akcesoriami po czyszczeniu, – montaż pod nawiewem powietrza oczyszczonego przez filtry HEPA oczyszczonych komponentów, sprzętu i akcesoriów przed sterylizacją, – montaż zamkniętego i sterylizowanego SUS za pomocą urządzenia do wykonywania połączeń sterylnych
 8.11.
 W przypadku produktów sterylnych, których postaci końcowej nie można poddać filtracji jałowiącej, należy zapewnić, że:
@@ -1300,8 +1308,10 @@ W przypadku przekroczenia limitów działania procedury operacyjne powinny okre�
 Należy ustalić program monitorowania całkowitej liczby cząstek w celu uzyskania danych do oceny potencjalnego ryzyka zanieczyszczenia i zapewnienia utrzymania w stanie skwalifikowanym środowiska wytwarzania produktów sterylnych.
 9.15.
 W tabeli 5 podane zostały limity obowiązujące w monitoringu środowiska pomieszczeń o poszczególnych klasach czystości.
-Tabela 5. Maksymalna dopuszczalna liczba cząstek w monitoringu
-Klasa Maksymalna dopuszczalna liczba cząstek stałych > 0,5 um/m3 Maksymalna dopuszczalna liczba cząstek stałych > 5 um/m3 w spoczynku w działaniu w spoczynku w działaniu A 3 520 3 520 29 29 B 3 520 352 000 29 2 930 C 352 000 3 520 000 2 930 29 300 D 3 520 000 nieokreślona 29 300 nieokreślona Uwaga 1: w przypadku klasy D limity w działaniu nie zostały ustalone. Wytwórca powinien ustalić limity w działaniu na podstawie oceny ryzyka i tam, gdzie ma to zastosowanie, na podstawie bieżących danych z monitorowania. Uwaga 2: maksymalne dopuszczalne liczby cząstek stałych podane w tabeli dla stanu „w spoczynku” powinny zostać osiągnięte po czasie „oczyszczenia” określonym podczas kwalifikacji (zalecana wartość to poniżej 20 minut) bez obecności personelu, po zakończeniu działań (zob. pkt 4.29). Uwaga 3: sporadyczne wykrycie dużych cząstek, szczególnie ≥ 5 µm, w klasie A, może być błędem spowodowanym zakłóceniami elektromagnetycznymi, przypadkowymi rozbłyskami światła, koincydencją. Pojawienie się stale lub w kolejnych pomiarach cząstek ≥ 5 µm na niskim poziomie może wskazywać na możliwość zanieczyszczenia i powinno być wyjaśnione. Takie zdarzenia mogą wskazywać na początki niesprawności systemu filtracji powietrza w pomieszczeniu, awarię sprzętu lub na niewłaściwe praktyki podczas montażu urządzenia i prowadzenia rutynowych działań.
+Tabela 5.
+Maksymalna dopuszczalna liczba cząstek w monitoringu
+Klasa Maksymalna dopuszczalna liczba cząstek stałych > 0,5 um/m3 Maksymalna dopuszczalna liczba cząstek stałych > 5 um/m3 w spoczynku w działaniu w spoczynku w działaniu A 3 520 3 520 29 29 B 3 520 352 000 29 2 930 C 352 000 3 520 000 2 930 29 300 D 3 520 000 nieokreślona 29 300 nieokreślona
+Uwaga 1: w przypadku klasy D limity w działaniu nie zostały ustalone. Wytwórca powinien ustalić limity w działaniu na podstawie oceny ryzyka i tam, gdzie ma to zastosowanie, na podstawie bieżących danych z monitorowania. Uwaga 2: maksymalne dopuszczalne liczby cząstek stałych podane w tabeli dla stanu „w spoczynku” powinny zostać osiągnięte po czasie „oczyszczenia” określonym podczas kwalifikacji (zalecana wartość to poniżej 20 minut) bez obecności personelu, po zakończeniu działań (zob. pkt 4.29). Uwaga 3: sporadyczne wykrycie dużych cząstek, szczególnie ≥ 5 µm, w klasie A, może być błędem spowodowanym zakłóceniami elektromagnetycznymi, przypadkowymi rozbłyskami światła, koincydencją. Pojawienie się stale lub w kolejnych pomiarach cząstek ≥ 5 µm na niskim poziomie może wskazywać na możliwość zanieczyszczenia i powinno być wyjaśnione. Takie zdarzenia mogą wskazywać na początki niesprawności systemu filtracji powietrza w pomieszczeniu, awarię sprzętu lub na niewłaściwe praktyki podczas montażu urządzenia i prowadzenia rutynowych działań.
 9.16.
 W klasie A monitoring cząstek powinien być prowadzony przez cały czas trwania operacji krytycznych, w tym w trakcie montażu wyposażenia.
 9.17.
@@ -1332,8 +1342,12 @@ Wytwórcy powinni rozważyć wprowadzenie odpowiednich alternatywnych systemów 
 Metody pobierania próbek i sprzęt powinny być odpowiednio dobrane i opisane w procedurach w celu prawidłowego wykonywania działań i prawidłowej interpretacji uzyskanych wyników. Powinny być dostępne dane potwierdzające przydatność wybranych metod pobierania próbek.
 9.30.
 Limity działania dla cząstek ożywionych w odniesieniu do zanieczyszczeń mikrobiologicznych przedstawiono w tabeli 6.
-Tabela 6. Maksymalne limity działania zanieczyszczeń mikrobiologicznych
-Klasa próbka powietrza j.t.k./m3 płytka sedymentacyjna (średnica 90 mm)j.t.k/4 godziny płytka odciskowa (średnica 55 mm), j.t.k./płytkę odciski palców(5 palców obydwu dłoni) j.t.k./rękawiczkę A brak wzrostu B 10 5 5 5 C 100 50 25 – D 200 100 50 – Uwaga 1: rodzaje metod monitorowania wymienione w tabeli 6 podano jako przykłady; inne metody mogą być stosowane, o ile dostarczają wiarygodnych informacji o całym procesie krytycznym, w którym produkt może zostać zanieczyszczony (np. aseptyczny montaż linii, procesy aseptyczne, napełnianie i załadunek liofilizatora). Uwaga 2: w tym aneksie stosowana jest jednostka „j.t.k.”; jeżeli są stosowane inne lub nowe metody badań, które wymagają ustalenia limitów w innych jednostkach niż j.t.k, wytwórca powinien naukowo uzasadnić takie limity i, jeśli to możliwe, skorelować z limitami wyrażonymi w j.t.k. Płytki sedymentacyjne powinny być wystawione na działanie powietrza w obszarach klasy A i B przez czas trwania operacji (w tym montaż urządzeń) i zmieniane zgodnie z wymaganiami po maksymalnie 4 godzinach (czas ekspozycji powinien opierać się na walidacji, w tym badaniach odzysku, i nie powinien mieć negatywnego wpływu na przydatność zastosowanych podłoży); w klasie C i D czas ekspozycji (maksymalnie 4 godziny) i częstotliwość powinny opierać się na QRM; pojedyncze płytki sedymentacyjne mogą być wystawione na działanie powietrza krócej niż 4 godziny. Limity dla płytek odciskowych dotyczą urządzeń, pomieszczeń i odzieży w obszarach klasy A i B. Rutynowe monitorowanie odzieży w klasach C i D nie jest zwykle wymagane, jednak może być uzasadnione w zależności od specyfiki wykonywanych czynności. Każdy wzrost drobnoustrojów stwierdzony w klasie A powinien być przedmiotem postępowania wyjaśniającego.
+Tabela 6.
+Maksymalne limity działania zanieczyszczeń mikrobiologicznych
+Klasa próbka powietrza j.t.k./m3 płytka sedymentacyjna (średnica 90 mm)
+j.t.k/4 godziny płytka odciskowa (średnica 55 mm), j.t.k./płytkę odciski palców
+(5 palców obydwu dłoni) j.t.k./rękawiczkę A brak wzrostu B 10 5 5 5 C 100 50 25 – D 200 100 50 –
+Uwaga 1: rodzaje metod monitorowania wymienione w tabeli 6 podano jako przykłady; inne metody mogą być stosowane, o ile dostarczają wiarygodnych informacji o całym procesie krytycznym, w którym produkt może zostać zanieczyszczony (np. aseptyczny montaż linii, procesy aseptyczne, napełnianie i załadunek liofilizatora). Uwaga 2: w tym aneksie stosowana jest jednostka „j.t.k.”; jeżeli są stosowane inne lub nowe metody badań, które wymagają ustalenia limitów w innych jednostkach niż j.t.k, wytwórca powinien naukowo uzasadnić takie limity i, jeśli to możliwe, skorelować z limitami wyrażonymi w j.t.k. Płytki sedymentacyjne powinny być wystawione na działanie powietrza w obszarach klasy A i B przez czas trwania operacji (w tym montaż urządzeń) i zmieniane zgodnie z wymaganiami po maksymalnie 4 godzinach (czas ekspozycji powinien opierać się na walidacji, w tym badaniach odzysku, i nie powinien mieć negatywnego wpływu na przydatność zastosowanych podłoży); w klasie C i D czas ekspozycji (maksymalnie 4 godziny) i częstotliwość powinny opierać się na QRM; pojedyncze płytki sedymentacyjne mogą być wystawione na działanie powietrza krócej niż 4 godziny. Limity dla płytek odciskowych dotyczą urządzeń, pomieszczeń i odzieży w obszarach klasy A i B. Rutynowe monitorowanie odzieży w klasach C i D nie jest zwykle wymagane, jednak może być uzasadnione w zależności od specyfiki wykonywanych czynności. Każdy wzrost drobnoustrojów stwierdzony w klasie A powinien być przedmiotem postępowania wyjaśniającego.
 9.31.
 Drobnoustroje wykryte w klasach A i B należy zidentyfikować do poziomu gatunku, ocenić ich wpływ na jakość każdej serii produktu, dla której wykryte zanieczyszczenie stwarza potencjalne ryzyko, oraz ocenić wpływ na utrzymanie stanu kontroli. W celu uzyskania wiedzy na temat typowej mikroflory w klasach C i D, w tym trudnej do usunięcia, takiej jak drobnoustroje sporujące i pleśnie tworzące zarodniki, należy rozważyć identyfikację wykrytych drobnoustrojów, np. po przekroczeniu limitów alarmowych lub limitów działania albo wyizolowanych po stwierdzeniu utraty stanu kontroli lub pogorszenia czystości środowiska wytwarzania. Test symulacji procesu (APS)
 9.32.

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 5 października 2016 r. w sprawie zakresu i warunków korzystania z elektronicznej platformy usług administracji publicznej
+# Rozporządzenie Ministra Cyfryzacjiz dnia 5 października 2016 r. w sprawie zakresu i warunków korzystania z elektronicznej platformy usług administracji publicznej Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-05 |
 | Data wydania | 2016-10-06 |
-| Wejście w życie | 2016-10-07 |
 | Ostatnia zmiana | 2025-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001626) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1626/text.pdf) |
 
@@ -177,8 +176,7 @@ urzędowego poświadczenia odbioru,
 b)
 elektronicznego poświadczenia opłaty,
 c)
-elektronicznego znacznika czasu
-z uwzględnieniem funkcjonalności ePUAP gwarantujących niezaprzeczalność tych poświadczeń.
+elektronicznego znacznika czasu – z uwzględnieniem funkcjonalności ePUAP gwarantujących niezaprzeczalność tych poświadczeń.
 2.
 Podmioty, o których mowa w art. 20c ust. 3 pkt 2–4 ustawy, w celu potwierdzania profilu zaufanego ePUAP mogą wykorzystywać funkcje ePUAP, o których mowa w ust. 1.
 § 11.
@@ -212,7 +210,7 @@ Wymagania, o których mowa w ust. 1 pkt 1–4, uznaje się za spełnione w przyp
 1)
 ważnego akredytowanego certyfikatu, obejmującego w swym zakresie stosowanie środków identyfikacji elektronicznej, systemu zarządzania bezpieczeństwem informacji, albo
 2)
-protokołu pokontrolnego kontroli organu nadzoru, potwierdzającego wdrożenie wymogów określonych w przepisach wydanych na podstawie art. 137 ust. 1 pkt 5 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn. zm.), w zakresie dotyczącym zarządzania obszarami technologii informacyjnej i bezpieczeństwa środowiska teleinformatycznego w bankach, albo
+protokołu pokontrolnego kontroli organu nadzoru, potwierdzającego wdrożenie wymogów określonych w przepisach wydanych na podstawie art. 137 ust. 1 pkt 5 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260, 1311, 1348, 1357, 1513, 1634, 1830, 1844, 1854, 1864 i 2281 oraz z 2016 r. poz. 615, 904, 996, 1177 i 1579.), w zakresie dotyczącym zarządzania obszarami technologii informacyjnej i bezpieczeństwa środowiska teleinformatycznego w bankach, albo
 3)
 pozytywnego wyniku audytu, o którym mowa w ust. 1 pkt 3, przeprowadzonego nie wcześniej niż 15 miesięcy przed dniem złożenia przez podmiot niepubliczny wniosku do ministra o wyrażenie zgody na nieodpłatne wykorzystywanie w ePUAP środków identyfikacji elektronicznej, stosowanych do uwierzytelniania w systemie teleinformatycznym podmiotu niepublicznego, albo
 4)
@@ -226,6 +224,5 @@ Konta założone przed dniem wejścia w życie rozporządzenia stają się konta
 § 15.
 Wnioski o nadanie funkcjonalności podmiotu publicznego złożone przed dniem wejścia w życie niniejszego rozporządzenia rozpatruje się na podstawie przepisów dotychczasowych.
 § 16.
-Rozporządzenie wchodzi w życie z dniem 7 października 2016 r.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260, 1311, 1348, 1357, 1513, 1634, 1830, 1844, 1854, 1864 i 2281 oraz z 2016 r. poz. 615, 904, 996, 1177 i 1579. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 6 maja 2014 r. w sprawie zakresu i warunków korzystania z elektronicznej platformy usług administracji publicznej (Dz. U. poz. 584), które traci moc z dniem wejścia w życie ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. poz. 1579), na podstawie art. 142 tej ustawy.
+Rozporządzenie wchodzi w życie z dniem 7 października 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 6 maja 2014 r. w sprawie zakresu i warunków korzystania z elektronicznej platformy usług administracji publicznej (Dz. U. poz. 584), które traci moc z dniem wejścia w życie ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. poz. 1579), na podstawie art. 142 tej ustawy. 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260, 1311, 1348, 1357, 1513, 1634, 1830, 1844, 1854, 1864 i 2281 oraz z 2016 r. poz. 615, 904, 996, 1177 i 1579. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 6 maja 2014 r. w sprawie zakresu i warunków korzystania z elektronicznej platformy usług administracji publicznej (Dz. U. poz. 584), które traci moc z dniem wejścia w życie ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. poz. 1579), na podstawie art. 142 tej ustawy.
 

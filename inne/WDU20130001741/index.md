@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-24 |
 | Data wydania | 2013-12-31 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001741) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1741/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 24 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm.) zarządza się, co następuje:
+Na podstawie art. 24 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 509 i 1650. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2012 r. poz. 1544 i 1548.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki udzielania pomocy finansowej, realizowanej w ramach rządowego programu wspierania osób uprawnionych do świadczenia pielęgnacyjnego, zwanej dalej „pomocą”.
 § 2.
@@ -56,5 +55,5 @@ Program wspierania osób pobierających świadczenie pielęgnacyjne jest realizo
 § 6.
 W sprawach dotyczących ustalania kosztów obsługi pomocy oraz nienależnie pobranej pomocy stosuje się odpowiednio przepisy art. 30 i art. 33 ustawy.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 509 i 1650. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2012 r. poz. 1544 i 1548.
 

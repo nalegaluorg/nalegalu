@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 12 kwietnia 2017 r. zmieniające rozporządzenie w sprawie ewidencji zbiorów i usług danych przestrzennych objętych infrastrukturą informacji przestrzennej
+# Rozporządzenie Ministra Cyfryzacjiz dnia 12 kwietnia 2017 r. zmieniające rozporządzenie w sprawie ewidencji zbiorów i usług danych przestrzennych objętych infrastrukturą informacji przestrzennej Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-12 |
 | Data wydania | 2017-04-26 |
-| Wejście w życie | 2017-04-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000835) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/835/text.pdf) |
 
@@ -31,40 +30,29 @@ Na podstawie art. 13 ust. 5 ustawy z dnia 4 marca 2010 r. o infrastrukturze info
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 października 2010 r. w sprawie ewidencji zbiorów i usług danych przestrzennych objętych infrastrukturą informacji przestrzennej (Dz. U. poz. 1333) wprowadza się następujące zmiany:
 1)
-w § 3 w ust. 1 pkt 2 otrzymuje brzmienie:
-„
+w § 3 w ust. 1 pkt 2 otrzymuje brzmienie: „
 2)
-datę otrzymania zgłoszenia przez ministra właściwego do spraw informatyzacji;
-” ;
+datę otrzymania zgłoszenia przez ministra właściwego do spraw informatyzacji; ” ;
 2)
-w § 4 ust. 3 otrzymuje brzmienie:
-„
+w § 4 ust. 3 otrzymuje brzmienie: „
 3.
-Minister właściwy do spraw informatyzacji zapewnia publiczny dostęp do danych ewidencji za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
-” ;
+Minister właściwy do spraw informatyzacji zapewnia publiczny dostęp do danych ewidencji za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną. ” ;
 3)
 w § 5 uchyla się ust. 3;
 4)
-§ 6 otrzymuje brzmienie:
-„
+§ 6 otrzymuje brzmienie: „
 § 6.
-Organ administracji przekazuje ministrowi właściwemu do spraw informatyzacji zgłoszenie w formie dokumentu elektronicznego, zgodnego z wzorem, o którym mowa w § 5 ust. 2, za pośrednictwem elektronicznej platformy usług administracji publicznej.
-” ;
+Organ administracji przekazuje ministrowi właściwemu do spraw informatyzacji zgłoszenie w formie dokumentu elektronicznego, zgodnego z wzorem, o którym mowa w § 5 ust. 2, za pośrednictwem elektronicznej platformy usług administracji publicznej. ” ;
 5)
 w § 8:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Minister właściwy do spraw informatyzacji niezwłocznie informuje organ administracji, który zgłosił zbiór danych przestrzennych do ewidencji, o nadaniu identyfikatora zbioru danych i jego treści.
-” ,
+Minister właściwy do spraw informatyzacji niezwłocznie informuje organ administracji, który zgłosił zbiór danych przestrzennych do ewidencji, o nadaniu identyfikatora zbioru danych i jego treści. ” ,
 b)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Minister właściwy do spraw informatyzacji rozpoznaje zastrzeżenie, o którym mowa w ust. 2, niezwłocznie, nie później niż w ciągu 14 dni od dnia jego otrzymania, oraz przekazuje w tym terminie wnoszącemu zastrzeżenie informację o swoim stanowisku w tej sprawie oraz o ostatecznej treści identyfikatora.
-” .
+Minister właściwy do spraw informatyzacji rozpoznaje zastrzeżenie, o którym mowa w ust. 2, niezwłocznie, nie później niż w ciągu 14 dni od dnia jego otrzymania, oraz przekazuje w tym terminie wnoszącemu zastrzeżenie informację o swoim stanowisku w tej sprawie oraz o ostatecznej treści identyfikatora. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-25 |
 | Data wydania | 2019-05-21 |
-| Wejście w życie | 2019-06-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000954) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/954/text.pdf) |
 
@@ -63,5 +62,5 @@ Kwalifikacje wojskowe kierownika podwodnych działań ratowniczych odpowiadają 
 § 11.
 Kwalifikacje wojskowe operatora komory dekompresyjnej i operatora sprzętu nurkowego oraz posiadanie zaświadczenia o ukończeniu szkolenia personelu technicznego do zabezpieczenia nurkowań saturowanych odpowiadają kwalifikacjom wymaganym do wykonywania zawodu operatora systemów nurkowych do prowadzenia głębinowych i długotrwałych prac podwodnych o uprawnieniach zgodnych z wymaganiami świadectwa operatora systemów nurkowych uprawniającego do obsługi zainstalowanych w bazie prac podwodnych urządzeń i wyposażenia technicznego wymaganego do prowadzenia głębinowych i długotrwałych prac podwodnych.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 15 lipca 2005 r. w sprawie określenia kwalifikacji wojskowych osób uprawnionych do wykonywania prac podwodnych, które uzyskały uprawnienia w jednostkach organizacyjnych podległych lub nadzorowanych przez Ministra Obrony Narodowej (Dz. U. poz. 1261), które na podstawie art. 37 ust. 1 ustawy z dnia 9 maja 2014 r. o ułatwieniu dostępu do wykonywania niektórych zawodów regulowanych (Dz. U. poz. 768) utraciło moc z dniem 10 sierpnia 2015 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 15 lipca 2005 r. w sprawie określenia kwalifikacji wojskowych osób uprawnionych do wykonywania prac podwodnych, które uzyskały uprawnienia w jednostkach organizacyjnych podległych lub nadzorowanych przez Ministra Obrony Narodowej (Dz. U. poz. 1261), które na podstawie art. 37 ust. 1 ustawy z dnia 9 maja 2014 r. o ułatwieniu dostępu do wykonywania niektórych zawodów regulowanych (Dz. U. poz. 768) utraciło moc z dniem 10 sierpnia 2015 r.
 

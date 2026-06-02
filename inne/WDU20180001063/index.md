@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 24 maja 2018 r. w sprawie Ogólnopolskiego Rejestru Ostrych Zespołów Wieńcowych
+# Rozporządzenie Ministra Zdrowiaz dnia 24 maja 2018 r. w sprawie Ogólnopolskiego Rejestru Ostrych Zespołów Wieńcowych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-24 |
 | Data wydania | 2018-06-04 |
-| Wejście w życie | 2018-06-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001063) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1063/text.pdf) |
 
@@ -130,6 +129,5 @@ identyfikator pracownika medycznego wprowadzającego dane do rejestru, o którym
 § 6.
 Dane przekazane do Śląskiego Centrum Chorób Serca w Zabrzu w okresie od dnia 1 stycznia 2018 r. do dnia wejścia w życie niniejszego rozporządzenia zgodnie z wymaganiami określonymi w rozporządzeniu Ministra Zdrowia z dnia 4 marca 2016 r. w sprawie Ogólnopolskiego Rejestru Ostrych Zespołów Wieńcowych (Dz. U. poz. 320) uważa się za przekazane w sposób zgodny z wymaganiami niniejszego rozporządzenia.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 4 marca 2016 r. w sprawie Ogólnopolskiego Rejestru Ostrych Zespołów Wieńcowych (Dz. U. poz. 320), które utraciło moc z dniem 1 stycznia 2018 r. zgodnie z art. 7 ustawy z dnia 20 lipca 2017 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw (Dz. U. poz. 1524).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 4 marca 2016 r. w sprawie Ogólnopolskiego Rejestru Ostrych Zespołów Wieńcowych (Dz. U. poz. 320), które utraciło moc z dniem 1 stycznia 2018 r. zgodnie z art. 7 ustawy z dnia 20 lipca 2017 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw (Dz. U. poz. 1524). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 4 marca 2016 r. w sprawie Ogólnopolskiego Rejestru Ostrych Zespołów Wieńcowych (Dz. U. poz. 320), które utraciło moc z dniem 1 stycznia 2018 r. zgodnie z art. 7 ustawy z dnia 20 lipca 2017 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw (Dz. U. poz. 1524).
 

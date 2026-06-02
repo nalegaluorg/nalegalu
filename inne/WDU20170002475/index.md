@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Zagranicznychz dnia 22 grudnia 2017 r. w sprawie rejestrów Kart Polaka
+# Rozporządzenie Ministra Spraw Zagranicznychz dnia 22 grudnia 2017 r. w sprawie rejestrów Kart Polaka Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 2316).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-22 |
 | Data wydania | 2017-12-29 |
-| Wejście w życie | 2017-12-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002475) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2475/text.pdf) |
 
@@ -68,6 +67,5 @@ Udostępnianie danych z rejestrów lokalnych podmiotom, o których mowa w art. 2
 2.
 Udostępnianie danych z rejestru centralnego Centrum Personalizacji Dokumentów Ministerstwa Spraw Wewnętrznych i Administracji w celu personalizacji Kart Polaka odbywa się w postaci elektronicznej z wykorzystaniem bezpiecznych łączy, zapewniających poufność przesyłanych danych.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 2316). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 21 marca 2008 r. w sprawie rejestrów Kart Polaka (Dz. U. poz. 314), które na podstawie art. 8 ust. 2 ustawy z dnia 13 maja 2016 r. o zmianie ustawy o Karcie Polaka oraz niektórych innych ustaw (Dz. U. poz. 753) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 21 marca 2008 r. w sprawie rejestrów Kart Polaka (Dz. U. poz. 314), które na podstawie art. 8 ust. 2 ustawy z dnia 13 maja 2016 r. o zmianie ustawy o Karcie Polaka oraz niektórych innych ustaw (Dz. U. poz. 753) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 2316). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 21 marca 2008 r. w sprawie rejestrów Kart Polaka (Dz. U. poz. 314), które na podstawie art. 8 ust. 2 ustawy z dnia 13 maja 2016 r. o zmianie ustawy o Karcie Polaka oraz niektórych innych ustaw (Dz. U. poz. 753) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

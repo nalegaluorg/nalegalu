@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-03-01 |
 | Data wydania | 2013-03-19 |
-| Wejście w życie | 2013-04-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000368) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/368/text.pdf) |
 
@@ -245,5 +244,5 @@ Podmiot leczniczy zaopatrujący się w środek substytucyjny w opakowaniach zbio
 4.
 Kierownik programu jest obowiązany przeszkolić, w zakresie realizowanego programu, pracowników biorących w nim udział.
 § 17.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 5 ust. 4 pkt 1 lit. b, który wchodzi w życie z dniem 1 czerwca 2013 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 5 ust. 4 pkt 1 lit. b, który wchodzi w życie z dniem 1 czerwca 2013 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 19 października 2007 r. w sprawie szczegółowego trybu postępowania przy leczeniu substytucyjnym oraz szczegółowych warunków, które powinien spełniać zakład opieki zdrowotnej prowadzący leczenie substytucyjne (Dz. U. Nr 205, poz. 1493 oraz z 2010 r. Nr 191, poz. 1282), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 7 ust. 1 ustawy z dnia 1 kwietnia 2011 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz niektórych innych ustaw (Dz. U. Nr 117, poz. 678). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 19 października 2007 r. w sprawie szczegółowego trybu postępowania przy leczeniu substytucyjnym oraz szczegółowych warunków, które powinien spełniać zakład opieki zdrowotnej prowadzący leczenie substytucyjne (Dz. U. Nr 205, poz. 1493 oraz z 2010 r. Nr 191, poz. 1282), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 7 ust. 1 ustawy z dnia 1 kwietnia 2011 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz niektórych innych ustaw (Dz. U. Nr 117, poz. 678).
 

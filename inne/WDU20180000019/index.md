@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-12 |
 | Data wydania | 2018-01-04 |
-| Wejście w życie | 2018-01-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000019) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/19/text.pdf) |
 
@@ -34,27 +33,50 @@ W rozporządzeniu Rady Ministrów z dnia 26 października 2004 r. w sprawie info
 w § 2:
 a)
 w ust. 1:
-– pkt 5 otrzymuje brzmienie: „ 5) wskazanie, czy projekt programu pomocowego dotyczy pomocy udzielanej w ramach wyłączeń grupowych – w takim przypadku należy przywołać właściwe rozporządzenie Komisji Europejskiej, zwanej dalej „Komisją”, wydane na podstawie rozporządzenia Rady (UE) nr 2015/1588 z dnia 13 lipca 2015 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do niektórych kategorii horyzontalnej pomocy państwa (Dz. Urz. UE L 248 z 24.09.2015, str. 1); ” ,
-– pkt 12 otrzymuje brzmienie: „ 12) wskazanie, czy adresaci zamierzonej pomocy to mikroprzedsiębiorcy, mali czy średni przedsiębiorcy w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem Komisji nr 651/2014”; ” ,
-– pkt 16 otrzymuje brzmienie: „ 16) wskazanie, czy pomoc może być udzielana łącznie z pomocą udzielaną w ramach innych programów pomocowych, pomocą indywidualną lub pomocą indywidualną na restrukturyzację, w tym pomocą na ratowanie lub pomocą de minimis , w odniesieniu do tych samych kosztów kwalifikujących się do objęcia pomocą – w takim przypadku należy wskazać zasady kumulacji pomocy; ” ,
-– pkt 19 otrzymuje brzmienie: „ 19) w przypadku programu pomocowego wymagającego notyfikacji Komisji, informacje określone w części I pkt 6.2–6.6 załącznika I do rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. w sprawie wykonania rozporządzenia Rady (UE) 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 4, str. 3), zwanego dalej „rozporządzeniem Komisji”; ” ,
-– dodaje się pkt 20 i 21 w brzmieniu: „ 20) sektory, w których udzielana będzie pomoc; 21) informację, czy projekt programu pomocowego zakazuje udzielania lub wypłaty pomocy przedsiębiorcy, na którym ciąży obowiązek zwrotu uzyskanej przez niego pomocy publicznej wynikający z decyzji Komisji uznającej tę pomoc za niezgodną z rynkiem wewnętrznym. ” ,
+pkt 5 otrzymuje brzmienie: „
+5)
+wskazanie, czy projekt programu pomocowego dotyczy pomocy udzielanej w ramach wyłączeń grupowych – w takim przypadku należy przywołać właściwe rozporządzenie Komisji Europejskiej, zwanej dalej „Komisją”, wydane na podstawie rozporządzenia Rady (UE) nr 2015/1588 z dnia 13 lipca 2015 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do niektórych kategorii horyzontalnej pomocy państwa (Dz. Urz. UE L 248 z 24.09.2015, str. 1); ” ,
+pkt 12 otrzymuje brzmienie: „
+12)
+wskazanie, czy adresaci zamierzonej pomocy to mikroprzedsiębiorcy, mali czy średni przedsiębiorcy w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28., zwanego dalej „rozporządzeniem Komisji nr 651/2014”; ” ,
+pkt 16 otrzymuje brzmienie: „
+16)
+wskazanie, czy pomoc może być udzielana łącznie z pomocą udzielaną w ramach innych programów pomocowych, pomocą indywidualną lub pomocą indywidualną na restrukturyzację, w tym pomocą na ratowanie lub pomocą de minimis , w odniesieniu do tych samych kosztów kwalifikujących się do objęcia pomocą – w takim przypadku należy wskazać zasady kumulacji pomocy; ” ,
+pkt 19 otrzymuje brzmienie: „
+19)
+w przypadku programu pomocowego wymagającego notyfikacji Komisji, informacje określone w części I pkt 6.2–6.6 załącznika I do rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. w sprawie wykonania rozporządzenia Rady (UE) 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 01.11.2006, str. 10, Dz. Urz. UE L 407 z 30.12.2006, str. 1, Dz. Urz. UE L 82 z 25.03.2008, str. 1, Dz. Urz. UE L 313 z 22.11.2008, str. 1, Dz. Urz. UE L 81 z 27.03.2009, str. 15, Dz. Urz. UE L 308 z 24.11.2009, str. 5, Dz. Urz. UE L 109 z 12.04.2014, str. 14, Dz. Urz. UE L 325 z 10.12.2015, str. 1 oraz Dz. Urz. UE L 327 z 02.12.2016, str. 19.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 4, str. 3), zwanego dalej „rozporządzeniem Komisji”; ” ,
+dodaje się pkt 20 i 21 w brzmieniu: „
+20)
+sektory, w których udzielana będzie pomoc;
+21)
+informację, czy projekt programu pomocowego zakazuje udzielania lub wypłaty pomocy przedsiębiorcy, na którym ciąży obowiązek zwrotu uzyskanej przez niego pomocy publicznej wynikający z decyzji Komisji uznającej tę pomoc za niezgodną z rynkiem wewnętrznym. ” ,
 b)
 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku zmiany, o której mowa w art. 4 ust. 1 rozporządzenia Komisji, zatwierdzonego przez Komisję programu pomocowego, Prezesowi Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie, ministrowi, dodatkowo przekazuje się następujące informacje: ” ;
 2)
 w § 3:
 a)
 w ust. 1:
-– w pkt 4 lit. a i b otrzymują brzmienie: „ a) pożyczki lub kredytu – wskazanie kwoty pożyczki lub kredytu i okresu obowiązywania umowy pożyczki lub kredytu oraz wskazanie wymaganego sposobu zabezpieczenia ich spłaty, b) gwarancji lub poręczenia – wskazanie kwoty gwarancji lub poręczenia i okresu obowiązywania umowy gwarancji lub poręczenia oraz informacje dotyczące pożyczki lub innej operacji finansowej objętej gwarancją lub poręczeniem, wymaganego zabezpieczenia, opłaty prowizyjnej; ” ,
-– pkt 16 otrzymuje brzmienie: „ 16) wskazanie, czy podmiot ubiegający się o pomoc znajduje się w trudnej sytuacji ekonomicznej, oraz kopie sprawozdań finansowych za ostatnie 3 lata obrotowe; ” ,
-– pkt 21 otrzymuje brzmienie: „ 21) wskazanie, czy podmiot ubiegający się o pomoc to mikroprzedsiębiorca, mały czy średni przedsiębiorca w rozumieniu załącznika I do rozporządzenia Komisji nr 651/2014, oraz dane potwierdzające spełnienie przesłanek określonych w tym załączniku; ” ,
+w pkt 4 lit. a i b otrzymują brzmienie: „
+a)
+pożyczki lub kredytu – wskazanie kwoty pożyczki lub kredytu i okresu obowiązywania umowy pożyczki lub kredytu oraz wskazanie wymaganego sposobu zabezpieczenia ich spłaty,
+b)
+gwarancji lub poręczenia – wskazanie kwoty gwarancji lub poręczenia i okresu obowiązywania umowy gwarancji lub poręczenia oraz informacje dotyczące pożyczki lub innej operacji finansowej objętej gwarancją lub poręczeniem, wymaganego zabezpieczenia, opłaty prowizyjnej; ” ,
+pkt 16 otrzymuje brzmienie: „
+16)
+wskazanie, czy podmiot ubiegający się o pomoc znajduje się w trudnej sytuacji ekonomicznej, oraz kopie sprawozdań finansowych za ostatnie 3 lata obrotowe; ” ,
+pkt 21 otrzymuje brzmienie: „
+21)
+wskazanie, czy podmiot ubiegający się o pomoc to mikroprzedsiębiorca, mały czy średni przedsiębiorca w rozumieniu załącznika I do rozporządzenia Komisji nr 651/2014, oraz dane potwierdzające spełnienie przesłanek określonych w tym załączniku; ” ,
 – uchyla się pkt 25,
-– pkt 26 i 27 otrzymują brzmienie: „ 26) jeżeli do projektu pomocy indywidualnej lub projektu pomocy indywidualnej na restrukturyzację, w tym projektu pomocy na ratowanie, dołączono informacje, które nie powinny być udostępniane osobom trzecim oraz publikowane w Dzienniku Urzędowym Unii Europejskiej – wskazanie tych informacji oraz określenie przyczyny ich niejawności; 27) w przypadku pomocy indywidualnej wymagającej notyfikacji – informacje określone w części I pkt 6.2–6.6 załącznika I do rozporządzenia Komisji. ” ,
+pkt 26 i 27 otrzymują brzmienie: „
+26)
+jeżeli do projektu pomocy indywidualnej lub projektu pomocy indywidualnej na restrukturyzację, w tym projektu pomocy na ratowanie, dołączono informacje, które nie powinny być udostępniane osobom trzecim oraz publikowane w Dzienniku Urzędowym Unii Europejskiej – wskazanie tych informacji oraz określenie przyczyny ich niejawności;
+27)
+w przypadku pomocy indywidualnej wymagającej notyfikacji – informacje określone w części I pkt 6.2–6.6 załącznika I do rozporządzenia Komisji. ” ,
 b)
 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku zmiany, o której mowa w art. 4 ust. 1 rozporządzenia Komisji, zatwierdzonej przez Komisję pomocy indywidualnej lub pomocy indywidualnej na restrukturyzację, w tym pomocy na ratowanie, Prezesowi Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie, ministrowi, dodatkowo przekazuje się następujące informacje: ” ;
 3)
-w § 4 ust. 1 otrzymuje brzmienie:
-„
+w § 4 ust. 1 otrzymuje brzmienie: „
 1.
 Oprócz informacji, o których mowa w § 2 i § 3, Prezesowi Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie, ministrowi, przekazuje się informacje określone w:
 1)
@@ -80,27 +102,17 @@ załączniku nr 10 do rozporządzenia – w przypadku pomocy stanowiącej rekomp
 11)
 załączniku nr 11 do rozporządzenia – w przypadku pomocy w rolnictwie;
 12)
-załączniku nr 12 do rozporządzenia – w przypadku pomocy w rybołówstwie.
-” ;
+załączniku nr 12 do rozporządzenia – w przypadku pomocy w rybołówstwie. ” ;
 4)
-§ 5 otrzymuje brzmienie:
-„
+§ 5 otrzymuje brzmienie: „
 § 5.
-Plan restrukturyzacyjny dołączany do wniosku o wydanie opinii dotyczącej pomocy indywidualnej na restrukturyzację powinien zawierać elementy wymagane przez Komisję przy ocenie pomocy udzielanej przedsiębiorcom znajdującym się w trudnej sytuacji.
-” ;
+Plan restrukturyzacyjny dołączany do wniosku o wydanie opinii dotyczącej pomocy indywidualnej na restrukturyzację powinien zawierać elementy wymagane przez Komisję przy ocenie pomocy udzielanej przedsiębiorcom znajdującym się w trudnej sytuacjiElementy te są określone w komunikacie Komisji w załączniku nr 2 do Wytycznych dotyczących pomocy państwa na ratowanie i restrukturyzację przedsiębiorców niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1).. ” ;
 5)
-załączniki nr 1–12 do rozporządzenia otrzymują brzmienie:
-„
-
-## Załącznik nr 1 — DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU REGIONALNEJ POMOCY INWESTYCYJNEJ
-
+załączniki nr 1–12 do rozporządzenia otrzymują brzmienie: „ Załącznik nr 1 DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU REGIONALNEJ POMOCY INWESTYCYJNEJ
 1.
 W przypadku indywidualnej regionalnej pomocy inwestycyjnej należy podać informacje określone w części III.1.A załącznika I do rozporządzenia Komisji.
 2.
-W przypadku programów regionalnej pomocy inwestycyjnej należy podać informacje określone w części III.1.B załącznika I do rozporządzenia Komisji. Informacji, o których mowa w części III.1.B pkt 3.3.2–3.4.2, nie podaje się w przypadku programów przewidujących udzielanie pomocy na warunkach określonych w rozporządzeniu Komisji nr 651/2014.
-
-## Załącznik nr 2 — DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU POMOCY NA DZIAŁALNOŚĆ BADAWCZĄ, ROZWOJOWĄ I INNOWACYJNĄ
-
+W przypadku programów regionalnej pomocy inwestycyjnej należy podać informacje określone w części III.1.B załącznika I do rozporządzenia Komisji. Informacji, o których mowa w części III.1.B pkt 3.3.2–3.4.2, nie podaje się w przypadku programów przewidujących udzielanie pomocy na warunkach określonych w rozporządzeniu Komisji nr 651/2014. Załącznik nr 2 DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU POMOCY NA DZIAŁALNOŚĆ BADAWCZĄ, ROZWOJOWĄ I INNOWACYJNĄ
 1.
 W przypadku pomocy na działalność badawczą, rozwojową i innowacyjną należy podać informacje określone w części III.2 załącznika I do rozporządzenia Komisji, w szczególności informacje określone w:
 1)
@@ -116,10 +128,7 @@ pkt 5.5 – w przypadku pomocy na innowacje procesowe i organizacyjne;
 6)
 pkt 5.6 – w przypadku pomocy dla klastrów innowacyjnych.
 2.
-Informacji, o których mowa w części III.2 pkt 1.1 lit. A, pkt 6.1–6.3, pkt 6.4.1, pkt 6.5.1–7 załącznika I do rozporządzenia Komisji, nie podaje się w przypadku programów przewidujących udzielanie pomocy na warunkach określonych w rozporządzeniu Komisji nr 651/2014.
-
-## Załącznik nr 3 — DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU POMOCY NA RATOWANIE, RESTRUKTURYZACJĘ LUB TYMCZASOWEJ POMOCY NA RESTRUKTURYZACJĘ
-
+Informacji, o których mowa w części III.2 pkt 1.1 lit. A, pkt 6.1–6.3, pkt 6.4.1, pkt 6.5.1–7 załącznika I do rozporządzenia Komisji, nie podaje się w przypadku programów przewidujących udzielanie pomocy na warunkach określonych w rozporządzeniu Komisji nr 651/2014. Załącznik nr 3 DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU POMOCY NA RATOWANIE, RESTRUKTURYZACJĘ LUB TYMCZASOWEJ POMOCY NA RESTRUKTURYZACJĘ
 1.
 W przypadku indywidualnej pomocy na ratowanie należy podać informacje określone w części III.3.A załącznika I do rozporządzenia Komisji.
 2.
@@ -131,10 +140,7 @@ pomocy na ratowanie należy podać informacje określone w części III.3.C zał
 2)
 pomocy na restrukturyzację należy podać informacje określone w części III.3.C załącznika I do rozporządzenia Komisji, z wyjątkiem informacji określonych w części III.3.C pkt 6.1–6.5, 6.7–6.12, 7.1 tego załącznika;
 3)
-tymczasowej pomocy na restrukturyzację należy podać informacje określone w części III.3.C załącznika I do rozporządzenia Komisji, z wyjątkiem informacji określonych w części III.3.C pkt 4.2, 5, 6.1–6.6, 7.2–7.3, 8.2, 9 tego załącznika.
-
-## Załącznik nr 4 — DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU POMOCY NA FILMY I INNE UTWORY AUDIOWIZUALNE W przypadku pomocy na filmy i inne utwory audiowizualne należy podać informacje określone w części III.4 załącznika I do rozporządzenia Komisji. Załącznik nr 5 DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU POMOCY NA ROZWÓJ SIECI SZEROKOPASMOWYCH W przypadku pomocy na rozwój sieci szerokopasmowych należy podać informacje określone w części III.5 załącznika I do rozporządzenia Komisji. Załącznik nr 6 DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU POMOCY NA OCHRONĘ ŚRODOWISKA I CELE ZWIĄZANE Z ENERGIĄ
-
+tymczasowej pomocy na restrukturyzację należy podać informacje określone w części III.3.C załącznika I do rozporządzenia Komisji, z wyjątkiem informacji określonych w części III.3.C pkt 4.2, 5, 6.1–6.6, 7.2–7.3, 8.2, 9 tego załącznika. Załącznik nr 4 DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU POMOCY NA FILMY I INNE UTWORY AUDIOWIZUALNE W przypadku pomocy na filmy i inne utwory audiowizualne należy podać informacje określone w części III.4 załącznika I do rozporządzenia Komisji. Załącznik nr 5 DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU POMOCY NA ROZWÓJ SIECI SZEROKOPASMOWYCH W przypadku pomocy na rozwój sieci szerokopasmowych należy podać informacje określone w części III.5 załącznika I do rozporządzenia Komisji. Załącznik nr 6 DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU POMOCY NA OCHRONĘ ŚRODOWISKA I CELE ZWIĄZANE Z ENERGIĄ
 1.
 W przypadku pomocy na ochronę środowiska i cele związane z energią należy podać informacje określone w części III.6 załącznika I do rozporządzenia Komisji, w szczególności informacje określone w:
 1)
@@ -150,10 +156,7 @@ sekcji C2 – w przypadku pomocy w postaci ulg w finansowaniu wsparcia na rzecz 
 6)
 sekcji C3 – w przypadku przepisów przejściowych dotyczących ulg w finansowaniu wsparcia na rzecz energii ze źródeł odnawialnych.
 2.
-Informacji, o których mowa w części III.6 sekcji B pkt 1–4 ppkt 1, pkt 4 ppkt 4–14 i pkt 5 ppkt 1.2.1.3 – pkt 6 ppkt 2, sekcji C1 pkt 1 i 3–9, sekcji C2 oraz sekcji C3 załącznika I do rozporządzenia Komisji, nie podaje się w przypadku programów przewidujących udzielanie pomocy na warunkach określonych w rozporządzeniu Komisji nr 651/2014.
-
-## Załącznik nr 7 — DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU POMOCY NA FINANSOWANIE RYZYKA W przypadku pomocy na finansowanie ryzyka należy podać informacje określone w części III.7 załącznika I do rozporządzenia Komisji. Informacji tych nie podaje się w przypadku programów przewidujących udzielanie pomocy na warunkach określonych w rozporządzeniu Komisji nr 651/2014. Załącznik nr 8 DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU POMOCY NA RZECZ PORTÓW LOTNICZYCH I PRZEDSIĘBIORSTW LOTNICZYCH
-
+Informacji, o których mowa w części III.6 sekcji B pkt 1–4 ppkt 1, pkt 4 ppkt 4–14 i pkt 5 ppkt 1.2.1.3 – pkt 6 ppkt 2, sekcji C1 pkt 1 i 3–9, sekcji C2 oraz sekcji C3 załącznika I do rozporządzenia Komisji, nie podaje się w przypadku programów przewidujących udzielanie pomocy na warunkach określonych w rozporządzeniu Komisji nr 651/2014. Załącznik nr 7 DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU POMOCY NA FINANSOWANIE RYZYKA W przypadku pomocy na finansowanie ryzyka należy podać informacje określone w części III.7 załącznika I do rozporządzenia Komisji. Informacji tych nie podaje się w przypadku programów przewidujących udzielanie pomocy na warunkach określonych w rozporządzeniu Komisji nr 651/2014. Załącznik nr 8 DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU POMOCY NA RZECZ PORTÓW LOTNICZYCH I PRZEDSIĘBIORSTW LOTNICZYCH
 1.
 W przypadku projektu programu pomocowego lub indywidualnej pomocy inwestycyjnej dla portów lotniczych należy podać informacje określone w części III.13.A załącznika I do rozporządzenia Komisji.
 2.
@@ -161,10 +164,7 @@ W przypadku projektu programu pomocowego lub indywidualnej pomocy operacyjnej dl
 3.
 W przypadku projektu programu pomocowego lub pomocy indywidualnej na rozpoczęcie działalności dla przedsiębiorstw lotniczych należy podać informacje określone w części III.13.C załącznika I do rozporządzenia Komisji.
 4.
-W przypadku projektu programu pomocowego lub pomocy indywidualnej będącej pomocą o charakterze socjalnym, o której mowa w art. 107 ust. 2 lit. a Traktatu o funkcjonowaniu Unii Europejskiej, należy podać informacje określone w części III.13.D załącznika I do rozporządzenia Komisji.
-
-## Załącznik nr 9 — DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU POMOCY NA TRANSPORT MORSKI W przypadku pomocy udzielanej w sektorze żeglugi morskiej należy podać informacje określone w części III.13.E pkt 1 i 2 załącznika I do rozporządzenia Komisji. Załącznik nr 10 DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU POMOCY STANOWIĄCEJ REKOMPENSATĘ ZA REALIZACJĘ USŁUG ŚWIADCZONYCH W OGÓLNYM INTERESIE GOSPODARCZYM W przypadku pomocy stanowiącej rekompensatę za realizację usług świadczonych w ogólnym interesie gospodarczym należy podać:
-
+W przypadku projektu programu pomocowego lub pomocy indywidualnej będącej pomocą o charakterze socjalnym, o której mowa w art. 107 ust. 2 lit. a Traktatu o funkcjonowaniu Unii Europejskiej, należy podać informacje określone w części III.13.D załącznika I do rozporządzenia Komisji. Załącznik nr 9 DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU POMOCY NA TRANSPORT MORSKI W przypadku pomocy udzielanej w sektorze żeglugi morskiej należy podać informacje określone w części III.13.E pkt 1 i 2 załącznika I do rozporządzenia Komisji. Załącznik nr 10 DODATKOWE INFORMACJE PRZEKAZYWANE PREZESOWI URZĘDU W PRZYPADKU POMOCY STANOWIĄCEJ REKOMPENSATĘ ZA REALIZACJĘ USŁUG ŚWIADCZONYCH W OGÓLNYM INTERESIE GOSPODARCZYM W przypadku pomocy stanowiącej rekompensatę za realizację usług świadczonych w ogólnym interesie gospodarczym należy podać:
 1)
 szczegółowy opis i czas trwania zobowiązań z tytułu świadczenia usług publicznych;
 2)
@@ -190,10 +190,7 @@ jeżeli podmiot ubiegający się o pomoc prowadzi dodatkową działalność, o k
 12)
 informacje dotyczące przewidzianych elementów motywacyjnych w zakresie wydajności;
 13)
-informacje dotyczące obowiązku publikacji informacji odnoszących się do powierzanej usługi świadczonej w ogólnym interesie gospodarczym i wypłaconej rekompensaty.
-
-## Załącznik nr 11 — DODATKOWE INFORMACJE PRZEKAZYWANE MINISTROWI W PRZYPADKU POMOCY W ROLNICTWIE W przypadku pomocy w sektorze rolnictwa należy podać informacje określone w części III.12 załącznika I do rozporządzenia Komisji, w szczególności informacje o:
-
+informacje dotyczące obowiązku publikacji informacji odnoszących się do powierzanej usługi świadczonej w ogólnym interesie gospodarczym i wypłaconej rekompensaty. Załącznik nr 11 DODATKOWE INFORMACJE PRZEKAZYWANE MINISTROWI W PRZYPADKU POMOCY W ROLNICTWIE W przypadku pomocy w sektorze rolnictwa należy podać informacje określone w części III.12 załącznika I do rozporządzenia Komisji, w szczególności informacje o:
 1)
 pomocy na inwestycje w gospodarstwach rolnych;
 2)
@@ -227,11 +224,7 @@ pomocy na promocję i reklamę produktów rolnych oraz niektórych produktów ni
 16)
 pomocy na ratowanie i restrukturyzację przedsiębiorstw w trudnej sytuacji ekonomicznej;
 17)
-pomocy w zakresie testów TSE, zwłok zwierząt i ubocznych produktów zwierzęcych pozyskanych w rzeźni oraz podczas rozbioru i dalszej obróbki mięsa.
-
-## Załącznik nr 12 — DODATKOWE INFORMACJE PRZEKAZYWANE MINISTROWI W PRZYPADKU POMOCY W RYBOŁÓWSTWIE W przypadku pomocy w sektorze rybołówstwa należy podać informacje określone w części III.14 załącznika I do rozporządzenia Komisji.
-
-” ;
+pomocy w zakresie testów TSE, zwłok zwierząt i ubocznych produktów zwierzęcych pozyskanych w rzeźni oraz podczas rozbioru i dalszej obróbki mięsa. Załącznik nr 12 DODATKOWE INFORMACJE PRZEKAZYWANE MINISTROWI W PRZYPADKU POMOCY W RYBOŁÓWSTWIE W przypadku pomocy w sektorze rybołówstwa należy podać informacje określone w części III.14 załącznika I do rozporządzenia Komisji. ” ;
 6)
 uchyla się załącznik nr 13 do rozporządzenia;
 7)
@@ -239,5 +232,5 @@ uchyla się załącznik nr 16 do rozporządzenia.
 § 2.
 Do wniosków o wydanie opinii o planowanej pomocy publicznej złożonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 01.11.2006, str. 10, Dz. Urz. UE L 407 z 30.12.2006, str. 1, Dz. Urz. UE L 82 z 25.03.2008, str. 1, Dz. Urz. UE L 313 z 22.11.2008, str. 1, Dz. Urz. UE L 81 z 27.03.2009, str. 15, Dz. Urz. UE L 308 z 24.11.2009, str. 5, Dz. Urz. UE L 109 z 12.04.2014, str. 14, Dz. Urz. UE L 325 z 10.12.2015, str. 1 oraz Dz. Urz. UE L 327 z 02.12.2016, str. 19. 3) Elementy te są określone w komunikacie Komisji w załączniku nr 2 do Wytycznych dotyczących pomocy państwa na ratowanie i restrukturyzację przedsiębiorców niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 października 2019 r. o zmianie ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu
+# Ustawa z dnia 16 października 2019 r. o zmianie ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu Niniejsza ustawa w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady (UE) 2015/849 z dnia 20 maja 2015 r. w sprawie zapobiegania wykorzystywaniu systemu finansowego do prania pieniędzy lub finansowania terroryzmu, zmieniającej rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 648/2012 i uchylającej dyrektywę Parlamentu Europejskiego i Rady 2005/60/WE oraz dyrektywę Komisji 2006/70/WE (Dz. Urz. UE L 141 z 05.06.2015, str. 73 oraz Dz. Urz. UE L 156 z 19.06.2018, str. 43).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-16 |
 | Data wydania | 2019-10-30 |
-| Wejście w życie | 2019-11-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002088) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2088/text.pdf) |
 
@@ -47,18 +46,18 @@ source: "eli-html"
 
 - **1)** będące beneficjentami rzeczywistymi lub wspólnikami, w tym akcjonariuszami, instytucji obowiązanych, o których mowa w art. 2 ust. 1 pkt 16 lub 18,
 - **2)** prowadzące działalność w zakresie, o którym mowa w art. 2 ust. 1 pkt 16 lub 18,
-- **3)** zajmujące stanowiska kierownicze w instytucjach obowiązanych, o których mowa w art. 2 ust. 1 pkt 16 lub 18 są obowiązane spełniać wymóg niekaralności za umyślne przestępstwo lub umyślne przestępstwo skarbowe. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+- **3)** zajmujące stanowiska kierownicze w instytucjach obowiązanych, o których mowa w art. 2 ust. 1 pkt 16 lub 18 – są obowiązane spełniać wymóg niekaralności za umyślne przestępstwo lub umyślne przestępstwo skarbowe. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
     - **b)**
 
 1a. Osoby fizyczne:
 
 - **1)** będące beneficjentami rzeczywistymi instytucji obowiązanych, o których mowa w art. 2 ust. 1 pkt 16,
-- **2)** zajmujące stanowiska kierownicze w instytucjach obowiązanych, o których mowa w art. 2 ust. 1 pkt 16 są obowiązane posiadać wiedzę lub doświadczenie w zakresie działalności, o której mowa w art. 2 ust. 1 pkt 16.
+- **2)** zajmujące stanowiska kierownicze w instytucjach obowiązanych, o których mowa w art. 2 ust. 1 pkt 16 – są obowiązane posiadać wiedzę lub doświadczenie w zakresie działalności, o której mowa w art. 2 ust. 1 pkt 16.
 
 1b. Warunek, o którym mowa w ust. 1a, uznaje się za spełniony w szczególności w przypadku:
 
 - **1)** ukończenia szkolenia lub kursu obejmujących prawne lub praktyczne zagadnienia związane ze świadczeniem usług, o których mowa w art. 2 ust. 1 pkt 16, lub
-- **2)** wykonywania, przez okres co najmniej roku, czynności związanych ze świadczeniem usług, o których mowa w art. 2 ust. 1 pkt 16 potwierdzonych odpowiednimi dokumentami. ” , ust. 2 otrzymuje brzmienie: „
+- **2)** wykonywania, przez okres co najmniej roku, czynności związanych ze świadczeniem usług, o których mowa w art. 2 ust. 1 pkt 16 – potwierdzonych odpowiednimi dokumentami. ” , ust. 2 otrzymuje brzmienie: „
     - **c)**
 
 2. Na żądanie organu, o którym mowa w art. 130, osoby, o których mowa w:
@@ -71,13 +70,13 @@ source: "eli-html"
 2. Osoba fizyczna, o której mowa w art. 129:
 
 - **1)** ust. 1, która nie dopełnia obowiązku przedstawienia zaświadczenia, że nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe,
-- **2)** ust. 1a, która nie dopełnia obowiązku przedstawienia dokumentu potwierdzającego spełnianie warunku, o którym mowa w tym przepisie podlega karze pieniężnej do wysokości 10 000 zł. ” ;
+- **2)** ust. 1a, która nie dopełnia obowiązku przedstawienia dokumentu potwierdzającego spełnianie warunku, o którym mowa w tym przepisie – podlega karze pieniężnej do wysokości 10 000 zł. ” ;
 - **6)** w art. 154 w ust. 1 wyrazy „o której mowa w art. 7” zastępuje się wyrazami „o której mowa w art. 6–8”.
 
 **Art. 2.** Osoby fizyczne, które w dniu wejścia w życie niniejszej ustawy:
 
 - **1)** są beneficjentami rzeczywistymi instytucji obowiązanych, o których mowa w art. 2 ust. 1 pkt 16 ustawy zmienianej w art. 1,
-- **2)** zajmują stanowiska kierownicze w instytucjach obowiązanych, o których mowa w art. 2 ust. 1 pkt 16 ustawy zmienianej w art. 1 są obowiązane spełnić warunek, o którym mowa w art. 129 ust. 1a ustawy zmienianej w art. 1, nie później niż w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
+- **2)** zajmują stanowiska kierownicze w instytucjach obowiązanych, o których mowa w art. 2 ust. 1 pkt 16 ustawy zmienianej w art. 1 – są obowiązane spełnić warunek, o którym mowa w art. 129 ust. 1a ustawy zmienianej w art. 1, nie później niż w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady (UE) 2015/849 z dnia 20 maja 2015 r. w sprawie zapobiegania wykorzystywaniu systemu finansowego do prania pieniędzy lub finansowania terroryzmu, zmieniającej rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 648/2012 i uchylającej dyrektywę Parlamentu Europejskiego i Rady 2005/60/WE oraz dyrektywę Komisji 2006/70/WE (Dz. Urz. UE L 141 z 05.06.2015, str. 73 oraz Dz. Urz. UE L 156 z 19.06.2018, str. 43).
 

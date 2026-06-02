@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-18 |
 | Data wydania | 2017-12-29 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002462) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2462/text.pdf) |
 
@@ -34,9 +33,9 @@ Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badaw
 1.
 Z dniem 1 stycznia 2018 r. łączy się następujące instytuty badawcze:
 1)
-Instytut Rozwoju Miast z siedzibą w Krakowie, numer identyfikacyjny REGON 356582934, NIP 677–22–01–345;
+Instytut Rozwoju Miast z siedzibą w Krakowie, numer identyfikacyjny REGON 356582934, NIP 677–22–01–345Instytut Rozwoju Miast i Instytut Gospodarki Przestrzennej i Mieszkalnictwa zostały utworzone na podstawie rozporządzenia Ministra Infrastruktury z dnia 29 października 2002 r. w sprawie podziału Instytutu Gospodarki Przestrzennej i Komunalnej oraz Instytutu Gospodarki Mieszkaniowej i utworzenia Instytutu Gospodarki Przestrzennej i Mieszkalnictwa oraz Instytutu Rozwoju Miast (Dz. U. poz. 1503).;
 2)
-Instytut Gospodarki Przestrzennej i Mieszkalnictwa z siedzibą w Warszawie, numer identyfikacyjny REGON 015279884, NIP 526–26–62–733.
+Instytut Gospodarki Przestrzennej i Mieszkalnictwa z siedzibą w Warszawie, numer identyfikacyjny REGON 015279884, NIP 526–26–62–733Instytut Rozwoju Miast i Instytut Gospodarki Przestrzennej i Mieszkalnictwa zostały utworzone na podstawie rozporządzenia Ministra Infrastruktury z dnia 29 października 2002 r. w sprawie podziału Instytutu Gospodarki Przestrzennej i Komunalnej oraz Instytutu Gospodarki Mieszkaniowej i utworzenia Instytutu Gospodarki Przestrzennej i Mieszkalnictwa oraz Instytutu Rozwoju Miast (Dz. U. poz. 1503)..
 2.
 Połączenie instytutów, o których mowa w ust. 1, następuje przez włączenie Instytutu Gospodarki Przestrzennej i Mieszkalnictwa do Instytutu Rozwoju Miast.
 § 2.
@@ -67,8 +66,7 @@ krajobrazu;
 7)
 nauk przyrodniczych i technicznych oraz nauk społecznych i humanistycznych, w zakresie powiązanym z zagadnieniami, o których mowa w pkt 1–6.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-1) Instytut Rozwoju Miast i Instytut Gospodarki Przestrzennej i Mieszkalnictwa zostały utworzone na podstawie rozporządzenia Ministra Infrastruktury z dnia 29 października 2002 r. w sprawie podziału Instytutu Gospodarki Przestrzennej i Komunalnej oraz Instytutu Gospodarki Mieszkaniowej i utworzenia Instytutu Gospodarki Przestrzennej i Mieszkalnictwa oraz Instytutu Rozwoju Miast (Dz. U. poz. 1503).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. 1) Instytut Rozwoju Miast i Instytut Gospodarki Przestrzennej i Mieszkalnictwa zostały utworzone na podstawie rozporządzenia Ministra Infrastruktury z dnia 29 października 2002 r. w sprawie podziału Instytutu Gospodarki Przestrzennej i Komunalnej oraz Instytutu Gospodarki Mieszkaniowej i utworzenia Instytutu Gospodarki Przestrzennej i Mieszkalnictwa oraz Instytutu Rozwoju Miast (Dz. U. poz. 1503).
 Załącznik – Wykaz składników majątkowych Instytutu Gospodarki Przestrzennej i Mieszkalnictwa
 Lp. Grupa, podgrupa, rodzaj/Nazwa Ilość 1 Grupa: 4 Maszyny, urządzenia i aparaty ogólnego zastosowania 46 2 Podgrupa: 49 Pozostałe maszyny, urządzenia i aparaty specjalizowane i specjalne, ogólnego zastosowania 46 3 Rodzaj: 491 Zespoły komputerowe 46 4 Grupa: 5 Maszyny, urządzenia i aparaty specjalistyczne 6 5 Podgrupa: 54 Maszyny, urządzenia i aparaty do obróbki i przerobu drewna, produkcji wyrobów z drewna oraz maszyny, urządzenia i aparaty dla przemysłu papierniczego i poligraficznego 6 6 Rodzaj: 548 Maszyny, urządzenia i aparaty poligraficzne 6 7 Grupa: 6 Urządzenia techniczne 2 8 Podgrupa: 62 Urządzenia dla radiofonii i telewizji, urządzenia dla telefonii i telegrafii 1 9 Rodzaj: 623 Urządzenia teletransmisji przewodowej 1 10 Podgrupa: 66 Urządzenia nieprzemysłowe 1 11 Rodzaj: 662 Urządzenia i aparaty projekcyjne 1 12 Grupa: 8 Narzędzia, przyrządy, ruchomości i wyposażenie, gdzie indziej niesklasyfikowane 89 13 Podgrupa: 80 Narzędzia, przyrządy, ruchomości i wyposażenie, gdzie indziej niesklasyfikowane 89 14 Rodzaj: 800 Narzędzia, przyrządy, sprawdziany 3 15 Rodzaj: 801 Wyposażenie, aparaty i sprzęt laboratoryjny 14 16 Rodzaj: 803 Wyposażenie techniczne dla prac biurowych 1 17 Rodzaj: 808 Pozostałe narzędzia, przyrządy, ruchomości i wyposażenie, gdzie indziej niesklasyfikowane 71 18 Wartości niematerialne i prawne 11 19 Licencje na oprogramowanie 10 20 Prace badawczo-rozwojowe INSPIRE GEOPORTAL 1
 

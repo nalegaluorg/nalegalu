@@ -22,14 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-31 |
 | Data wydania | 2022-09-08 |
-| Wejście w życie | 2022-09-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001897) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1897/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Funkcjonowanie i organizacja ośrodków Rozdział 3 – Funkcjonowanie i organizacja zakładów Rozdział 4 – Funkcjonowanie i organizacja schronisk Rozdział 5 – Środki zapewnienia bezpieczeństwa w ośrodkach, zakładach i schroniskach Rozdział 6 – Przepis końcowy
+Treść rozporządzenia
 Załącznik – Sposób prowadzenia dokumentacji pobytu nieletnich w ośrodku, zakładzie i schronisku
 Treść rozporządzenia
 Na podstawie art. 344 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -58,6 +58,7 @@ zabezpieczeniach techniczno-ochronnych – rozumie się przez to zabezpieczenia 
 zakładzie – rozumie się przez to zakład poprawczy;
 9)
 zmianie – rozumie się przez to grupę pracowników powołaną do wykonywania w jednym czasie zadań z zakresu ochrony ośrodka, zakładu lub schroniska.
+Funkcjonowanie i organizacja ośrodków
 § 3.
 Wośrodkach:
 1)
@@ -255,7 +256,8 @@ Sposób prowadzenia dokumentacji pobytu nieletnich w ośrodku określa załączn
 4.
 Dokumentacja pobytu nieletnich w ośrodku może być prowadzona przy wykorzystaniu systemów informatycznych.
 5.
-Dokumentację przebiegu nauczania nieletnich prowadzi się i przechowuje zgodnie z przepisami wydanymi na podstawie art. 47 ust. 1 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082, z późn. zm.).
+Dokumentację przebiegu nauczania nieletnich prowadzi się i przechowuje zgodnie z przepisami wydanymi na podstawie art. 47 ust. 1 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 655, 1079, 1116, 1383, 1700 i 1730.).
+Funkcjonowanie i organizacja zakładów
 § 20.
 Wzakładach otwartych:
 1)
@@ -526,6 +528,7 @@ Sposób prowadzenia dokumentacji pobytu nieletnich w zakładach określa załąc
 Dokumentacja pobytu nieletnich w zakładzie może być prowadzona przy wykorzystaniu systemów informatycznych.
 5.
 Dokumentację przebiegu nauczania nieletnich prowadzi się i przechowuje zgodnie z przepisami wydanymi na podstawie art. 47 ust. 1 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
+Funkcjonowanie i organizacja schronisk
 § 44.
 1.
 Kształcenie ogólne i zawodowe, praktyczna nauka zawodu i kształcenie ustawiczne, zatrudnianie oraz zajęcia w czasie wolnym od nauki i pracy prowadzi się na terenie schroniska.
@@ -558,6 +561,7 @@ szkoła albo szkoły i warsztaty szkolne;
 zespół diagnostyczny.
 § 50.
 Do funkcjonowania i organizacji schronisk § 32–36, § 37 ust. 2–4 i § 38–43 stosuje się odpowiednio.
+Środki zapewnienia bezpieczeństwa w ośrodkach, zakładach i schroniskach
 § 51.
 Wsystemie ochrony ośrodka, zakładu lub schroniska można stosować:
 1)
@@ -873,8 +877,9 @@ rozpoznawanie istnienia struktur podkultury w ośrodku, zakładzie lub schronisk
 rozpoznawanie atmosfery i nastrojów wśród nieletnich oraz ich zamiarów godzących w bezpieczeństwo ośrodka, zakładu lub schroniska.
 3.
 Jeżeli w wyniku czynności zapobiegawczych pracownik zauważy zachowania nieletnich zagrażające bezpieczeństwu ośrodka, zakładu lub schroniska, informuje o tym dyrektora ośrodka, zakładu lub schroniska.
+Przepis końcowy
 § 70.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 17 października 2001 r. w sprawie zakładów poprawczych i schronisk dla nieletnich (Dz. U. z 2017 r. poz. 487), które utraciło moc z dniem wejścia w życie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 655, 1079, 1116, 1383, 1700 i 1730. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 17 października 2001 r. w sprawie zakładów poprawczych i schronisk dla nieletnich (Dz. U. z 2017 r. poz. 487), które utraciło moc z dniem wejścia w życie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700).
 Załącznik – Sposób prowadzenia dokumentacji pobytu nieletnich w ośrodku, zakładzie i schronisku
 § 1.
 1.
@@ -921,17 +926,29 @@ w części B – księga ewidencji nieletnich umieszczonych w izbie izolacyjnej 
 3)
 w części C – księga ewidencji prewencyjnego użycia środków przymusu bezpośredniego – zawiera: imię i nazwisko nieletniego, datę i godzinę użycia środka, określenie celu, imię i nazwisko osoby, która podjęła decyzję o użyciu środka.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Funkcjonowanie i organizacja ośrodków
+#### Rozdział 2 – Funkcjonowanie i organizacja ośrodków
 
-#### Rozdział 3 Funkcjonowanie i organizacja zakładów
+#### Rozdział 3 – Funkcjonowanie i organizacja zakładów
 
-#### Rozdział 4 Funkcjonowanie i organizacja schronisk
+#### Rozdział 4 – Funkcjonowanie i organizacja schronisk
 
-#### Rozdział 5 Środki zapewnienia bezpieczeństwa w ośrodkach, zakładach i schroniskach
+#### Rozdział 5 – Środki zapewnienia bezpieczeństwa w ośrodkach, zakładach i schroniskach
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 
 # Księga ewidencji nieletnich umieszczonych w izbie adaptacyjnej zawiera: imię i nazwisko nieletniego, datę i godzinę umieszczenia, przyczynę umieszczenia, imię i nazwisko osoby podejmującej decyzję o umieszczeniu, uwagi i spostrzeżenia osób sprawujących opiekę nad nieletnim w czasie jego pobytu w izbie oraz datę i godzinę zwolnienia z izby.
 

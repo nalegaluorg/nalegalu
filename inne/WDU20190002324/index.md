@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-11-26 |
 | Data wydania | 2019-11-28 |
-| Wejście w życie | 2019-11-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002324) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2324/text.pdf) |
 
@@ -46,10 +45,9 @@ Organom prowadzącym:
 1)
 publiczne i niepubliczne: a) szkoły podstawowe i szkoły ponadpodstawowe, z wyłączeniem przedszkoli, branżowych szkół II stopnia, szkół dla dorosłych i szkół policealnych prowadzących kształcenie w formie stacjonarnej lub zaocznej, b) szkoły artystyczne realizujące kształcenie ogólne – zwane dalej „szkołami”,
 2)
-szkoły polskie oraz szkoły i zespoły szkół w Polsce oraz przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 1 lit. a i pkt 2 lit. c ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148, z późn. zm.), działające w ramach Ośrodka Rozwoju Polskiej Edukacji za Granicą, zwane dalej „szkołami w ORPEG”,
+szkoły polskie oraz szkoły i zespoły szkół w Polsce oraz przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 1 lit. a i pkt 2 lit. c ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1078, 1287, 1680, 1681, 1818, 2197 i 2248.), działające w ramach Ośrodka Rozwoju Polskiej Edukacji za Granicą, zwane dalej „szkołami w ORPEG”,
 3)
-publiczne i niepubliczne biblioteki pedagogiczne
-udziela się wsparcia finansowego ze środków budżetu państwa, zwanego dalej „wsparciem finansowym”.
+publiczne i niepubliczne biblioteki pedagogiczne – udziela się wsparcia finansowego ze środków budżetu państwa, zwanego dalej „wsparciem finansowym”.
 2.
 Wsparcie finansowe może być udzielone na zakup nowości wydawniczych (książek niebędących podręcznikami), zwanych dalej „książkami”, do bibliotek szkolnych, bibliotek szkół w ORPEG oraz bibliotek pedagogicznych.
 3.
@@ -324,5 +322,5 @@ Przepisy § 15 ust. 1 i 2 stosuje się odpowiednio do organów prowadzących dot
 2.
 Dyrektor Ośrodka Rozwoju Polskiej Edukacji za Granicą, w terminie do dnia 15 lutego 2020 r., dokonuje oceny efektów realizacji Programu w szkołach, zespołach szkół i szkolnych punktach konsultacyjnych przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, działających w ramach Ośrodka Rozwoju Polskiej Edukacji za Granicą, objętych wsparciem finansowym w 2019 r., oraz przekazuje ministrowi właściwemu do spraw oświaty i wychowania sprawozdanie z realizacji Programu, o którym mowa w § 15 ust. 5.
 § 17.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 6 października 2015 r. w sprawie szczegółowych warunków, form i trybu realizacji Priorytetu 3 „Narodowego Programu Rozwoju Czytelnictwa” dotyczącego wspierania w latach 2016–2020 organów prowadzących szkoły oraz biblioteki pedagogiczne w zakresie rozwijania zainteresowań uczniów przez promocję i wspieranie czytelnictwa dzieci i młodzieży, w tym zakup nowości wydawniczych (Dz. U. poz. 1667), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 92 ust. 1 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. poz. 1560 oraz z 2019 r. poz. 2020 i 2248). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1078, 1287, 1680, 1681, 1818, 2197 i 2248. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 6 października 2015 r. w sprawie szczegółowych warunków, form i trybu realizacji Priorytetu 3 „Narodowego Programu Rozwoju Czytelnictwa” dotyczącego wspierania w latach 2016–2020 organów prowadzących szkoły oraz biblioteki pedagogiczne w zakresie rozwijania zainteresowań uczniów przez promocję i wspieranie czytelnictwa dzieci i młodzieży, w tym zakup nowości wydawniczych (Dz. U. poz. 1667), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 92 ust. 1 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. poz. 1560 oraz z 2019 r. poz. 2020 i 2248).
 

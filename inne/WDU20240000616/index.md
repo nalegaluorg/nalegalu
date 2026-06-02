@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-19 |
 | Data wydania | 2024-04-23 |
-| Wejście w życie | 2024-04-24 |
 | Ostatnia zmiana | 2024-04-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000616) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/616/text.pdf) |
 
@@ -37,8 +36,7 @@ pełnienia przez żołnierzy OT terytorialnej służby wojskowej rotacyjnie,
 2)
 pełnienia przez żołnierzy AR służby w rezerwie aktywnej,
 3)
-odbywania przez żołnierzy PR ćwiczeń wojskowych
-za który wypłaca się im świadczenie pieniężne, dowódca jednostki wojskowej stwierdza w rozkazie dziennym jednostki wojskowej, wskazując daty i liczbę dni pełnienia tej służby w danym miesiącu.
+odbywania przez żołnierzy PR ćwiczeń wojskowych – za który wypłaca się im świadczenie pieniężne, dowódca jednostki wojskowej stwierdza w rozkazie dziennym jednostki wojskowej, wskazując daty i liczbę dni pełnienia tej służby w danym miesiącu.
 § 3.
 1.
 Podstawę ustalenia świadczenia pieniężnego stanowią odpowiednio:
@@ -58,8 +56,7 @@ pracodawca – w przypadku żołnierza pozostającego w stosunku pracy lub w sto
 2)
 naczelnik urzędu skarbowego – w przypadku żołnierza prowadzącego działalność gospodarczą,
 3)
-wójt, burmistrz lub prezydent miasta – w przypadku żołnierza prowadzącego działalność rolniczą
-wydaje temu żołnierzowi zaświadczenie, w którym podaje jego imię, nazwisko i numer PESEL oraz wysokość kwot, o których mowa w § 3 ust 1.
+wójt, burmistrz lub prezydent miasta – w przypadku żołnierza prowadzącego działalność rolniczą – wydaje temu żołnierzowi zaświadczenie, w którym podaje jego imię, nazwisko i numer PESEL oraz wysokość kwot, o których mowa w § 3 ust 1.
 2.
 W przypadku, o którym mowa w ust. 1 pkt 1, wysokość świadczenia pieniężnego ustala się za liczbę dni przebywania żołnierza na urlopie bezpłatnym stwierdzonym w zaświadczeniu wystawionym przez pracodawcę, o którym mowa w ust. 1 pkt 1.
 3.
@@ -73,5 +70,5 @@ Jeżeli kwota dziennego świadczenia pieniężnego jest wyższa niż kwota okre�
 § 8.
 Do spraw wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 20 maja 2022 r. w sprawie świadczenia pieniężnego dla żołnierzy pełniących terytorialną służbę wojskową, żołnierzy aktywnej rezerwy i żołnierzy pasywnej rezerwy (Dz. U. poz. 1112), które utraciło moc z dniem 30 marca 2024 r. zgodnie z art. 12 ust. 1 pkt 2 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 20 maja 2022 r. w sprawie świadczenia pieniężnego dla żołnierzy pełniących terytorialną służbę wojskową, żołnierzy aktywnej rezerwy i żołnierzy pasywnej rezerwy (Dz. U. poz. 1112), które utraciło moc z dniem 30 marca 2024 r. zgodnie z art. 12 ust. 1 pkt 2 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872).
 

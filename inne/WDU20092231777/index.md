@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 2 grudnia 2009 r. o zmianie niektórych ustaw związanych z realizacją zadań przez Policję
+# Ustawa z dnia 2 grudnia 2009 r. o zmianie niektórych ustaw związanych z realizacją zadań przez Policję Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych, ustawę z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich, ustawę z dnia 20 czerwca 1985 r. o prokuraturze, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 13 października 1995 r. – Prawo łowieckie, ustawę z dnia 29 sierpnia 1997 r. o komornikach-sądowych i egzekucji, ustawę z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 15 czerwca 2007 r. o licencji syndyka oraz ustawę z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-12-02 |
 | Data wydania | 2009-12-29 |
-| Wejście w życie | 2010-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092231777) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1777/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056, Nr 195, poz. 1198 i Nr 220, poz. 1414 oraz z 2009 r. Nr 22, poz. 120, Nr 39, poz. 306 i Nr 69, poz. 595.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9 po ust. 4 dodaje się ust. 5 w brzmieniu: „
 
@@ -34,13 +33,13 @@ source: "eli-html"
 
 - **2)** uchyla się art. 49.
 
-**Art. 2.** W ustawie z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz. U. z 2002 r. Nr 11, poz. 109, z późn. zm.) w art. 83 § 1 i 2 otrzymują brzmienie: „
+**Art. 2.** W ustawie z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz. U. z 2002 r. Nr 11, poz. 109, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 58, poz. 542, z 2003 r. Nr 137, poz. 1304 i Nr 223, poz. 2217, z 2005 r. Nr 169, poz. 1413, z 2006 r. Nr 220, poz. 1600, z 2007 r. Nr 112, poz. 766, z 2008 r. Nr 145, poz. 917 oraz z 2009 r. Nr 157, poz. 1241.) w art. 83 § 1 i 2 otrzymują brzmienie: „
 
 § 1. Minister właściwy do spraw wewnętrznych sprawuje zwierzchni nadzór nad policyjnymi izbami dziecka.
 
 § 2. Policyjne izby dziecka tworzą i znoszą komendanci wojewódzcy oraz Komendant Stołeczny Policji w porozumieniu z Komendantem Głównym Policji. ” .
 
-**Art. 3.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2008 r. Nr 7, poz. 39, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2008 r. Nr 7, poz. 39, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 1, poz. 4, Nr 26, poz. 156 i 157, Nr 56, poz. 459, Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 219, poz. 1706.) wprowadza się następujące zmiany:
 
 - **1)** w art. 11: ust. 3 otrzymuje brzmienie: „
     - **a)**
@@ -62,7 +61,7 @@ source: "eli-html"
 
 **Art. 101c.** Dysponentem części budżetowej odpowiadającej prokuraturze jest Prokurator Generalny, z zastrzeżeniem art. 108 ust. 1a niniejszej ustawy oraz art. 139 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240). ” .
 
-**Art. 4.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2007 r. Nr 43, poz. 277, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2007 r. Nr 43, poz. 277, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651 oraz z 2009 r. Nr 22, poz. 120, Nr 62, poz. 504, Nr 85, poz. 716, Nr 97, poz. 803, Nr 98, poz. 817, Nr 115, poz. 959, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 195, poz. 1502, Nr 201, poz. 1540 i Nr 206, poz. 1589.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6 po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
 
@@ -82,19 +81,19 @@ source: "eli-html"
 
 **Art. 31a.**
 
-1. W razie ogłoszenia mobilizacji i w czasie wojny Policja może być objęta militaryzacją, o której mowa w art. 174 ust. 1 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z późn. zm.).
+1. W razie ogłoszenia mobilizacji i w czasie wojny Policja może być objęta militaryzacją, o której mowa w art. 174 ust. 1 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 277, poz. 2742, z 2005 r. Nr 180, poz. 1496, z 2006 r. Nr 104, poz. 708 i 711 i Nr 220, poz. 1600, z 2007 r. Nr 107, poz. 732 i Nr 176, poz. 1242, z 2008 r. Nr 171, poz. 1056, Nr 180, poz. 1109, Nr 206, poz. 1288, Nr 208, poz. 1308 i Nr 223, poz. 1458 oraz z 2009 r. Nr 22, poz. 120, Nr 97, poz. 801, Nr 161, poz. 1278, Nr 190, poz. 1474 i Nr 219, poz. 1706.).
 
 2. Policjanci pozostający w stosunku służbowym w chwili ogłoszenia mobilizacji lub wybuchu wojny, stają się z mocy prawa policjantami pełniącymi służbę w czasie wojny i pozostają w tej służbie do czasu zwolnienia. ” .
 
-**Art. 5.** W ustawie z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2005 r. Nr 127, poz. 1066, z późn. zm.) w art. 38 w ust. 1 uchyla się pkt 5.
+**Art. 5.** W ustawie z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2005 r. Nr 127, poz. 1066, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 220, poz. 1600, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 201, poz. 1237 oraz z 2009 r. Nr 92, poz. 753.) w art. 38 w ust. 1 uchyla się pkt 5.
 
-**Art. 6.** W ustawie z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2006 r. Nr 167, poz. 1191, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2006 r. Nr 167, poz. 1191, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 25, poz. 162, Nr 44, poz. 288, Nr 85, poz. 571 i Nr 112, poz. 769 oraz z 2009 r. Nr 26, poz. 156, Nr 81, poz. 687 i Nr 105, poz. 879.) wprowadza się następujące zmiany:
 
 - **1)** w art. 11 uchyla się ust. 1a, 1b i 5a;
 - **2)** w art. 29 uchyla się ust. 7;
 - **3)** w art. 32 uchyla się ust. 5.
 
-**Art. 7.** W ustawie z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. Nr 162, poz. 1125, z późn. zm.) w art. 4:
+**Art. 7.** W ustawie z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. Nr 162, poz. 1125, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 98, poz. 1070, z 2003 r. Nr 228, poz. 2256, z 2005 r. Nr 10, poz. 71, z 2007 r. Nr 64, poz. 432 i 433, Nr 102, poz. 690 i Nr 136, poz. 959 oraz z 2009 r. Nr 26, poz. 157 i Nr 178, poz. 1375.) w art. 4:
 
 - **1)** ust. 5 i 6 otrzymują brzmienie: „
 
@@ -104,7 +103,7 @@ source: "eli-html"
 
 - **2)** uchyla się ust. 7.
 
-**Art. 8.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698, z 2008 r. Nr 223, poz. 1457, Nr 228, poz. 1507 i Nr 234, poz. 1571 oraz z 2009 r. Nr 1, poz. 4, Nr 9, poz. 57, Nr 26, poz. 156 i 157, Nr 56, poz. 459, Nr 157, poz. 1241, Nr 178, poz. 1375 i Nr 219, poz. 1706.) wprowadza się następujące zmiany:
 
 - **1)** w art. 32: § 3 otrzymuje brzmienie: „
     - **a)**
@@ -143,5 +142,5 @@ source: "eli-html"
 
 **Art. 10.** W ustawie z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. Nr 26, poz. 157, Nr 56, poz. 459 i Nr 178, poz. 1375) art. 20 otrzymuje brzmienie: „
 
-**Art. 20.** Dyrektor Krajowej Szkoły, po przeprowadzeniu konkursu i ustaleniu listy kandydatów zakwalifikowanych na aplikację ogólną, zasięga informacji z Krajowego Rejestru Karnego o każdej osobie umieszczonej na tej liście. ” . Ustawa wchodzi w życie z dniem 1 stycznia 2010 r., z wyjątkiem art. 3 i 7, które wchodzą w życie z dniem 1 kwietnia 2010 r.
+**Art. 20.** Dyrektor Krajowej Szkoły, po przeprowadzeniu konkursu i ustaleniu listy kandydatów zakwalifikowanych na aplikację ogólną, zasięga informacji z Krajowego Rejestru Karnego o każdej osobie umieszczonej na tej liście. ” . Ustawa wchodzi w życie z dniem 1 stycznia 2010 r., z wyjątkiem art. 3 i 7, które wchodzą w życie z dniem 1 kwietnia 2010 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych, ustawę z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich, ustawę z dnia 20 czerwca 1985 r. o prokuraturze, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 13 października 1995 r. – Prawo łowieckie, ustawę z dnia 29 sierpnia 1997 r. o komornikach-sądowych i egzekucji, ustawę z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 15 czerwca 2007 r. o licencji syndyka oraz ustawę z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056, Nr 195, poz. 1198 i Nr 220, poz. 1414 oraz z 2009 r. Nr 22, poz. 120, Nr 39, poz. 306 i Nr 69, poz. 595. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 58, poz. 542, z 2003 r. Nr 137, poz. 1304 i Nr 223, poz. 2217, z 2005 r. Nr 169, poz. 1413, z 2006 r. Nr 220, poz. 1600, z 2007 r. Nr 112, poz. 766, z 2008 r. Nr 145, poz. 917 oraz z 2009 r. Nr 157, poz. 1241. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 1, poz. 4, Nr 26, poz. 156 i 157, Nr 56, poz. 459, Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 219, poz. 1706. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651 oraz z 2009 r. Nr 22, poz. 120, Nr 62, poz. 504, Nr 85, poz. 716, Nr 97, poz. 803, Nr 98, poz. 817, Nr 115, poz. 959, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 195, poz. 1502, Nr 201, poz. 1540 i Nr 206, poz. 1589. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 277, poz. 2742, z 2005 r. Nr 180, poz. 1496, z 2006 r. Nr 104, poz. 708 i 711 i Nr 220, poz. 1600, z 2007 r. Nr 107, poz. 732 i Nr 176, poz. 1242, z 2008 r. Nr 171, poz. 1056, Nr 180, poz. 1109, Nr 206, poz. 1288, Nr 208, poz. 1308 i Nr 223, poz. 1458 oraz z 2009 r. Nr 22, poz. 120, Nr 97, poz. 801, Nr 161, poz. 1278, Nr 190, poz. 1474 i Nr 219, poz. 1706. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 220, poz. 1600, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 201, poz. 1237 oraz z 2009 r. Nr 92, poz. 753. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 25, poz. 162, Nr 44, poz. 288, Nr 85, poz. 571 i Nr 112, poz. 769 oraz z 2009 r. Nr 26, poz. 156, Nr 81, poz. 687 i Nr 105, poz. 879. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 98, poz. 1070, z 2003 r. Nr 228, poz. 2256, z 2005 r. Nr 10, poz. 71, z 2007 r. Nr 64, poz. 432 i 433, Nr 102, poz. 690 i Nr 136, poz. 959 oraz z 2009 r. Nr 26, poz. 157 i Nr 178, poz. 1375. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698, z 2008 r. Nr 223, poz. 1457, Nr 228, poz. 1507 i Nr 234, poz. 1571 oraz z 2009 r. Nr 1, poz. 4, Nr 9, poz. 57, Nr 26, poz. 156 i 157, Nr 56, poz. 459, Nr 157, poz. 1241, Nr 178, poz. 1375 i Nr 219, poz. 1706.
 

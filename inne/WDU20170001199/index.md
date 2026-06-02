@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-08 |
 | Data wydania | 2017-06-22 |
-| Wejście w życie | 2017-06-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001199) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1199/text.pdf) |
 
@@ -30,11 +29,11 @@ source: "eli-html"
 
 - **1)** w art. 74 dodaje się ust. 8 w brzmieniu: „
 
-8. Jeżeli emitent w warunkach emisji postanowi, że obligacje są emitowane w celu ich zakwalifikowania jako pozycje środków własnych zgodnie z przepisami rozporządzenia delegowanego Komisji (UE) 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, str. 1, z późn. zm.) oraz wyemitowane obligacje zostały zaliczone do środków własnych zakładu ubezpieczeń lub zakładu reasekuracji, przepisu ust. 2 nie stosuje się. ” ;
+8. Jeżeli emitent w warunkach emisji postanowi, że obligacje są emitowane w celu ich zakwalifikowania jako pozycje środków własnych zgodnie z przepisami rozporządzenia delegowanego Komisji (UE) 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, str. 1, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 85 z 01.04.2016, str. 6.) oraz wyemitowane obligacje zostały zaliczone do środków własnych zakładu ubezpieczeń lub zakładu reasekuracji, przepisu ust. 2 nie stosuje się. ” ;
 
 - **2)** w art. 75 dodaje się ust. 5 w brzmieniu: „
 
 5. Jeżeli emitent w warunkach emisji postanowi, że obligacje są emitowane w celu ich zakwalifikowania jako pozycje środków własnych zgodnie z przepisami rozporządzenia delegowanego Komisji (UE) 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) oraz wyemitowane obligacje zostały zaliczone do środków własnych zakładu ubezpieczeń lub zakładu reasekuracji, przepisu ust. 1 pkt 2 nie stosuje się. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 85 z 01.04.2016, str. 6.
 

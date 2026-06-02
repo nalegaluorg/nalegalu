@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 29 marca 2019 r. zmieniające rozporządzenie w sprawie praktycznej nauki zawodu
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 29 marca 2019 r. zmieniające rozporządzenie w sprawie praktycznej nauki zawodu Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-29 |
 | Data wydania | 2019-04-08 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000644) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/644/text.pdf) |
 
@@ -37,40 +36,31 @@ w § 4:
 a)
 w ust. 1a wyrazy „na zasadach dualnego systemu kształcenia” zastępuje się wyrazami „w tym na zasadach dualnego systemu kształcenia”,
 b)
-po ust. 1a dodaje się ust. 1b w brzmieniu:
-„
+po ust. 1a dodaje się ust. 1b w brzmieniu: „
 1b.
-Praktyki zawodowe organizowane u pracodawców, w tym na zasadach dualnego systemu kształcenia, odbywają się na podstawie umowy o praktyczną naukę zawodu, zawartej pomiędzy dyrektorem szkoły a pracodawcą przyjmującym uczniów na praktyczną naukę zawodu w formie praktyk zawodowych.
-” ,
+Praktyki zawodowe organizowane u pracodawców, w tym na zasadach dualnego systemu kształcenia, odbywają się na podstawie umowy o praktyczną naukę zawodu, zawartej pomiędzy dyrektorem szkoły a pracodawcą przyjmującym uczniów na praktyczną naukę zawodu w formie praktyk zawodowych. ” ,
 c)
 w ust. 2 wyrazy „u pracodawców na zasadach dualnego systemu kształcenia” zastępuje się wyrazami „u pracodawców, w tym na zasadach dualnego systemu kształcenia”,
 d)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
-W przypadku organizowania, w okresie ferii letnich, praktyk zawodowych lub zajęć praktycznych u pracodawców, w tym na zasadach dualnego systemu kształcenia, na podstawie umowy, o której mowa odpowiednio w ust. 1a pkt 2 i ust. 1b, odpowiedniemu skróceniu ulega czas trwania zajęć dydaktyczno-wychowawczych dla uczniów odbywających te praktyki lub zajęcia.
-” ,
+W przypadku organizowania, w okresie ferii letnich, praktyk zawodowych lub zajęć praktycznych u pracodawców, w tym na zasadach dualnego systemu kształcenia, na podstawie umowy, o której mowa odpowiednio w ust. 1a pkt 2 i ust. 1b, odpowiedniemu skróceniu ulega czas trwania zajęć dydaktyczno-wychowawczych dla uczniów odbywających te praktyki lub zajęcia. ” ,
 e)
-ust. 6c otrzymuje brzmienie:
-„
+ust. 6c otrzymuje brzmienie: „
 6c.
-W technikum i w szkole policealnej, które organizują zajęcia praktyczne odbywane u pracodawców na zasadach dualnego systemu kształcenia, łączny wymiar praktycznej nauki zawodu jest równy sumie liczby godzin zajęć praktycznych, określonej w programie nauczania, o którym mowa w ust. 6, w tym organizowanych na zasadach dualnego systemu kształcenia, i liczby godzin praktyk zawodowych, określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty, w tym organizowanych na zasadach dualnego systemu kształcenia.
-” ;
+W technikum i w szkole policealnej, które organizują zajęcia praktyczne odbywane u pracodawców na zasadach dualnego systemu kształcenia, łączny wymiar praktycznej nauki zawodu jest równy sumie liczby godzin zajęć praktycznych, określonej w programie nauczania, o którym mowa w ust. 6, w tym organizowanych na zasadach dualnego systemu kształcenia, i liczby godzin praktyk zawodowych, określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty, w tym organizowanych na zasadach dualnego systemu kształcenia. ” ;
 3)
 w § 5 w ust. 1 dodaje się zdanie drugie w brzmieniu: „ W uzasadnionych przypadkach wynikających ze specyfiki funkcjonowania ucznia niepełnosprawnego w wieku powyżej 16 lat dopuszcza się możliwość obniżenia dobowego wymiaru godzin zajęć praktycznej nauki zawodu do 7 godzin. ” ;
 4)
-w § 6 ust. 1 otrzymuje brzmienie:
-„
+w § 6 ust. 1 otrzymuje brzmienie: „
 1.
-Praktyczna nauka zawodu uczniów i młodocianych jest prowadzona indywidualnie lub w grupach. Liczba uczniów lub młodocianych w grupie powinna umożliwiać realizację programu nauczania dla danego zawodu dopuszczonego do użytku w danej szkole przez dyrektora szkoły i uwzględniać specyfikę nauczanego zawodu, przepisy bezpieczeństwa i higieny pracy, normy ergonomii i dostępności oraz przepisy w sprawie prac wzbronionych młodocianym, warunki lokalowe i techniczne w miejscu odbywania praktycznej nauki zawodu, a także szczególne potrzeby uczniów lub młodocianych, w tym wynikające z ich niepełnosprawności.
-” ;
+Praktyczna nauka zawodu uczniów i młodocianych jest prowadzona indywidualnie lub w grupach. Liczba uczniów lub młodocianych w grupie powinna umożliwiać realizację programu nauczania dla danego zawodu dopuszczonego do użytku w danej szkole przez dyrektora szkoły i uwzględniać specyfikę nauczanego zawodu, przepisy bezpieczeństwa i higieny pracy, normy ergonomii i dostępności oraz przepisy w sprawie prac wzbronionych młodocianym, warunki lokalowe i techniczne w miejscu odbywania praktycznej nauki zawodu, a także szczególne potrzeby uczniów lub młodocianych, w tym wynikające z ich niepełnosprawności. ” ;
 5)
 w § 7:
 a)
 w ust. 3 w pkt 5 wyrazy „u pracodawców na zasadach dualnego systemu kształcenia” zastępuje się wyrazami „u pracodawców, w tym na zasadach dualnego systemu kształcenia”,
 b)
-dodaje się ust. 6 w brzmieniu:
-„
+dodaje się ust. 6 w brzmieniu: „
 6.
 W przypadku umowy o praktyczną naukę zawodu organizowaną za granicą, dyrektor szkoły niezwłocznie przekazuje organowi sprawującemu nadzór pedagogiczny informację zawierającą:
 1)
@@ -80,15 +70,13 @@ określenie podmiotu, z którym została zawarta umowa;
 3)
 liczbę uczniów odbywających praktyczną naukę zawodu na podstawie tej umowy;
 4)
-terminy, w jakich jest odbywana praktyczna nauka zawodu na podstawie tej umowy.
-” ;
+terminy, w jakich jest odbywana praktyczna nauka zawodu na podstawie tej umowy. ” ;
 6)
 w § 9 w ust. 2 w pkt 2 wyrazy „przedsiębiorstw bez wypłat nagród z zysku” zastępuje się wyrazami „przedsiębiorstw, włącznie z wypłatami z zysku,”;
 7)
 w § 10:
 a)
-ust. 3 i 4 otrzymują brzmienie:
-„
+ust. 3 i 4 otrzymują brzmienie: „
 3.
 Instruktorzy praktycznej nauki zawodu posiadają:
 1)
@@ -128,11 +116,9 @@ na innym kierunku niż odpowiedni dla zawodu, którego będą nauczać, oraz co 
 4)
 tytuł zawodowy w zawodzie, którego będą nauczać, lub w zawodzie pokrewnym do zawodu, którego będą nauczać, i co najmniej sześcioletni staż pracy w zawodzie, którego będą nauczać, oraz świadectwo ukończenia zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, lub
 5)
-tytuł mistrza w zawodzie, którego będą nauczać, lub w zawodzie wchodzącym w zakres zawodu, którego będą nauczać.
-” ,
+tytuł mistrza w zawodzie, którego będą nauczać, lub w zawodzie wchodzącym w zakres zawodu, którego będą nauczać. ” ,
 b)
 uchyla się ust. 5.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 

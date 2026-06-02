@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 8 listopada 2017 r. w sprawie zakresu danych udostępnianych w postaci elektronicznej z centralnej ewidencji pojazdów
+# Rozporządzenie Ministra Cyfryzacjiz dnia 8 listopada 2017 r. w sprawie zakresu danych udostępnianych w postaci elektronicznej z centralnej ewidencji pojazdów Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-08 |
 | Data wydania | 2017-11-10 |
-| Wejście w życie | 2017-11-13 |
 | Ostatnia zmiana | 2025-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002085) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2085/text.pdf) |
 
@@ -635,6 +634,5 @@ w § 5, udostępnia się od dnia 3 września 2018 r.
 § 7.
 Traci moc rozporządzenie Ministra Cyfryzacji z dnia 26 lipca 2016 r. w sprawie zakresu danych udostępnianych w postaci elektronicznej z centralnej ewidencji pojazdów (Dz. U. poz. 1162 i 2127).
 § 8.
-Rozporządzenie wchodzi w życie z dniem 13 listopada 2017 r.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
+Rozporządzenie wchodzi w życie z dniem 13 listopada 2017 r. 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
 

@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-10 |
 | Data wydania | 2015-07-28 |
-| Wejście w życie | 2015-07-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001044) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1044/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529, z 2014 r. poz. 179, 180 i 1072 oraz z 2015 r. poz. 1043.) wprowadza się następujące zmiany:
 
 - **1)** w załączniku nr 1 wyrazy: „ OKRĘG WYBORCZY NR 2 – część województwa dolnośląskiego obejmująca obszary powiatów: dzierżoniowski, kłodzki, świdnicki, wałbrzyski, ząbkowicki. Liczba posłów wybieranych w okręgu wyborczym wynosi 8. Siedziba Okręgowej Komisji Wyborczej: WAŁBRZYCH. ” zastępuje się wyrazami: „ OKRĘG WYBORCZY NR 2 – część województwa dolnośląskiego obejmująca obszary powiatów: dzierżoniowski, kłodzki, świdnicki, wałbrzyski, ząbkowicki oraz miasta na prawach powiatu: Wałbrzych. Liczba posłów wybieranych w okręgu wyborczym wynosi 8. Siedziba Okręgowej Komisji Wyborczej: WAŁBRZYCH. ” ;
 - **2)** w załączniku nr 2 wyrazy: „ OKRĘG WYBORCZY NR 4 – obejmujący obszary powiatów: świdnicki, wałbrzyski. ” zastępuje się wyrazami: „ OKRĘG WYBORCZY NR 4 – obejmujący obszary powiatów: świdnicki, wałbrzyski oraz miasta na prawach powiatu: Wałbrzych. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529, z 2014 r. poz. 179, 180 i 1072 oraz z 2015 r. poz. 1043.
 

@@ -26,21 +26,38 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001541) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1541/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej Rozdział 1 – Przepisy ogólne Rozdział 2 – Organy Polskiej Organizacji Turystycznej Rozdział 3 – Mienie i zasady gospodarki finansowej Polskiej Organizacji Turystycznej Rozdział 4 – Działalność gospodarcza Polskiej Organizacji Turystycznej Rozdział 5 – Zmiany w przepisach obowiązujących Rozdział 6 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej (Dz. U. z 2023 r. poz. 1608), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089) oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 października 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 34 i art. 44 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 34 i art. 44 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), które stanowią: „
+Przepisy ogólne
+Organy Polskiej Organizacji Turystycznej
+Mienie i zasady gospodarki finansowej Polskiej Organizacji Turystycznej
+Działalność gospodarcza Polskiej Organizacji Turystycznej
+Zmiany w przepisach obowiązujących
 Art. 21–23.
 (pominięte)
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Organy Polskiej Organizacji Turystycznej
+
+#### Rozdział 3 – Mienie i zasady gospodarki finansowej Polskiej Organizacji Turystycznej
+
+#### Rozdział 4 – Działalność gospodarcza Polskiej Organizacji Turystycznej
+
+#### Rozdział 5 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 6 – Przepisy przejściowe i końcowe
 
 **Art. 34.** Przepis art. 18 ust. 4 ustawy zmienianej w art. 8, w brzmieniu nadanym niniejszą ustawą, ma zastosowanie po raz pierwszy do rocznego sprawozdania finansowego Polskiej Organizacji Turystycznej za rok 2024. ” „
 
 **Art. 44.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 8 pkt 3 i 4 oraz art. 16 pkt 2, które wchodzą w życie z dniem 1 stycznia 2025 r. ” . Załącznik – Tekst jednolity ustawy z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -118,7 +135,7 @@ Art. 21–23.
 
 2. Minister właściwy do spraw turystyki określi, w drodze rozporządzenia, wzór znaku, o którym mowa w ust. 1.
 
-#### Rozdział 2 Organy Polskiej Organizacji Turystycznej
+#### Rozdział 2
 
 **Art. 5.** Organami Polskiej Organizacji Turystycznej są:
 
@@ -244,7 +261,7 @@ Art. 21–23.
 
 **Art. 12.** Szczegółowy zakres działania Polskiej Organizacji Turystycznej z uwzględnieniem jednostek organizacyjnych wykonujących zadania za granicą, jej strukturę organizacyjną, tryb działania oraz inne sprawy wymienione w ustawie określa statut Polskiej Organizacji Turystycznej, nadany, w drodze rozporządzenia, przez właściwego ministra po zasięgnięciu opinii Rady Polskiej Organizacji Turystycznej.
 
-#### Rozdział 3 Mienie i zasady gospodarki finansowej Polskiej Organizacji Turystycznej
+#### Rozdział 3
 
 **Art. 13.**
 
@@ -288,13 +305,7 @@ Art. 21–23.
 
 6. Nadwyżki środków finansowych w danym roku kalendarzowym przechodzą na rok następny, z wyjątkiem przychodów, o których mowa w ust. 1 pkt 1.
 
-**Art. 15.**
-
-1. Polska Organizacja Turystyczna prowadzi gospodarkę finansową na podstawie rocznego planu finansowego.
-
-2. Projekt rocznego planu finansowego Polskiej Organizacji Turystycznej, po przyjęciu przez Radę Polskiej Organizacji Turystycznej i zatwierdzeniu przez właściwego ministra, jest przekazywany ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.
-
-3. Roczny plan finansowy Polskiej Organizacji Turystycznej obejmuje w szczególności:
+**Art. 15.** 1W brzmieniu ustalonym przez art. 8 pkt 1 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), która weszła w życie z dniem 23 lipca 2024 r.. Polska Organizacja Turystyczna prowadzi gospodarkę finansową na podstawie rocznego planu finansowego. 2. Projekt rocznego planu finansowego Polskiej Organizacji Turystycznej, po przyjęciu przez Radę Polskiej Organizacji Turystycznej i zatwierdzeniu przez właściwego ministra, jest przekazywany ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej. 3. Roczny plan finansowy Polskiej Organizacji Turystycznej obejmuje w szczególności:
 
 - **1)** planowane przychody, w tym dotacje na realizację zadań, o których mowa w art. 3;
 - **2)** planowane koszty operacyjne;
@@ -332,13 +343,13 @@ Art. 21–23.
 
 2. Wyboru firmy audytorskiej do badania rocznego sprawozdania finansowego Polskiej Organizacji Turystycznej dokonuje Rada Polskiej Organizacji Turystycznej.
 
-3. Prezes Polskiej Organizacji Turystycznej przedstawia Radzie Polskiej Organizacji Turystycznej oraz właściwemu ministrowi roczne sprawozdanie finansowe Polskiej Organizacji Turystycznej wraz ze sprawozdaniem z badania.
+3. Prezes Polskiej Organizacji Turystycznej przedstawia Radzie Polskiej Organizacji Turystycznej oraz właściwemu ministrowi roczne sprawozdanie finansowe Polskiej Organizacji Turystycznej wraz ze sprawozdaniem z badania. 4W brzmieniu ustalonym przez art. 8 pkt 2 ustawy, o której mowa w odnośniku 1; przepis w tym brzmieniu ma zastosowanie po raz pierwszy do rocznego sprawozdania finansowego Polskiej Organizacji Turystycznej za rok 2024, na podstawie art. 34 tej ustawy.. Roczne sprawozdanie finansowe Polskiej Organizacji Turystycznej zatwierdza właściwy minister. Art. 19W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 4.. Polska Organizacja Turystyczna może otrzymywać z budżetu państwa dotacje celowe na finansowanie zadań, o których mowa w art. 3. Kwoty tych dotacji ustala ustawa budżetowa. Polska Organizacja Turystyczna może otrzymywać z budżetu państwa dotacje celowe na finansowanie zadań, o których mowa w art. 3.
 
-4. Roczne sprawozdanie finansowe Polskiej Organizacji Turystycznej zatwierdza właściwy minister.
+1. Polska Organizacja Turystyczna może otrzymywać z budżetu państwa dotacje celowe na finansowanie zadań wynikających z odrębnych przepisów. 2Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 7.. Przyznanie dotacji celowej na podstawie ust. 1 wymaga zmiany planu finansowego, o którym mowa w art. 15. Do zmiany planu finansowego nie stosuje się art. 52 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858 i 1089.).
 
-**Art. 19.** Polska Organizacja Turystyczna może otrzymywać z budżetu państwa dotacje celowe na finansowanie zadań, o których mowa w art. 3. Kwoty tych dotacji ustala ustawa budżetowa. Polska Organizacja Turystyczna może otrzymywać z budżetu państwa dotacje celowe na finansowanie zadań, o których mowa w art. 3. 1. Polska Organizacja Turystyczna może otrzymywać z budżetu państwa dotacje celowe na finansowanie zadań wynikających z odrębnych przepisów. 2. Przyznanie dotacji celowej na podstawie ust. 1 wymaga zmiany planu finansowego, o którym mowa w art. 15. Do zmiany planu finansowego nie stosuje się art. 52 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.). 2. (uchylony)
+2. (uchylony)Przez art. 8 pkt 4 ustawy, o której mowa w odnośniku 1; wejdzie w życie z dniem 1 stycznia 2025 r.
 
-#### Rozdział 4 Działalność gospodarcza Polskiej Organizacji Turystycznej
+#### Rozdział 4
 
 **Art. 20.**
 
@@ -346,9 +357,9 @@ Art. 21–23.
 
 2. Dochód z działalności gospodarczej służy wyłącznie realizacji zadań Polskiej Organizacji Turystycznej określonych w art. 3 ust. 1.
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących
+#### Rozdział 5
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6
 
 **Art. 24.** Do czasu powołania ministra właściwego do spraw kultury fizycznej i turystyki jego kompetencje określone w art. 7, art. 9 i art. 11 wykonuje Prezes Urzędu Kultury Fizycznej i Turystyki, a określone w art. 12 – Prezes Rady Ministrów.
 
@@ -358,5 +369,5 @@ Art. 21–23.
 
 2. Przepis ust. 1 stosuje się odpowiednio do pracowników przedsiębiorstwa państwowego Polska Agencja Promocji Turystyki.
 
-**Art. 26.** Ustawa wchodzi w życie z dniem 1 stycznia 2000 r., z wyjątkiem przepisów rozdziału 2 i art. 24, które wchodzą w życie z dniem ogłoszenia.
+**Art. 26.** Ustawa wchodzi w życie z dniem 1 stycznia 2000 r., z wyjątkiem przepisów rozdziału 2 i art. 24, które wchodzą w życie z dniem ogłoszeniaUstawa została ogłoszona w dniu 23 lipca 1999 r.. 1) W brzmieniu ustalonym przez art. 8 pkt 1 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), która weszła w życie z dniem 23 lipca 2024 r. 2) W brzmieniu ustalonym przez art. 8 pkt 2 ustawy, o której mowa w odnośniku 1; przepis w tym brzmieniu ma zastosowanie po raz pierwszy do rocznego sprawozdania finansowego Polskiej Organizacji Turystycznej za rok 2024, na podstawie art. 34 tej ustawy. 3) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 4. 4) W brzmieniu ustalonym przez art. 8 pkt 3 ustawy, o której mowa w odnośniku 1; wejdzie w życie z dniem 1 stycznia 2025 r. 5) Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 7. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858 i 1089. 7) Przez art. 8 pkt 4 ustawy, o której mowa w odnośniku 1; wejdzie w życie z dniem 1 stycznia 2025 r. 8) Ustawa została ogłoszona w dniu 23 lipca 1999 r.
 

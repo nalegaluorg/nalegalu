@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 kwietnia 2022 r. o zmianie niektórych ustaw w związku z rozwojem publicznych systemów teleinformatycznych
+# Ustawa z dnia 28 kwietnia 2022 r. o zmianie niektórych ustaw w związku z rozwojem publicznych systemów teleinformatycznych Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 27 października 2017 r. o Ogólnopolskiej Sieci Edukacyjnej, ustawę z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw, ustawę z dnia 22 listopada 2018 r. o dokumentach publicznych, ustawę z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, ustawę z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, ustawę z dnia 14 października 2021 r. o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw, ustawę z dnia 2 grudnia 2021 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw oraz ustawę z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-28 |
 | Data wydania | 2022-05-12 |
-| Wejście w życie | 2022-05-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001002) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1002/text.pdf) |
 
@@ -42,9 +41,9 @@ source: "eli-html"
 5. Minister właściwy do spraw informatyzacji może zlecić, z wyłączeniem stosowania przepisów dotyczących zamówień publicznych, zadania związane z budową, rozwojem, wdrożeniem i utrzymaniem systemu teleinformatycznego obsługującego:
 
 - **1)** centralną ewidencję kierowców,
-- **2)** centralną ewidencję pojazdów wytwórcy dokumentów publicznych w rozumieniu ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2021 r. poz. 1660 i 1997 oraz z 2022 r. poz. 350, 655, 830 i 1002) lub instytucji gospodarki budżetowej, wobec której minister właściwy do spraw informatyzacji pełni funkcję organu założycielskiego. ” .
+- **2)** centralną ewidencję pojazdów – wytwórcy dokumentów publicznych w rozumieniu ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2021 r. poz. 1660 i 1997 oraz z 2022 r. poz. 350, 655, 830 i 1002) lub instytucji gospodarki budżetowej, wobec której minister właściwy do spraw informatyzacji pełni funkcję organu założycielskiego. ” .
 
-**Art. 2.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807 i 974.) wprowadza się następujące zmiany:
 
 - **1)** w art. 50 w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu: „
 - **1a)** w przypadku osób uprawnionych na podstawie art. 37 ust. 1 ustawy wskazanej w art. 12 pkt 13, osoba uprawniona może potwierdzić swoją tożsamość także przez okazanie dokumentu potwierdzającego tożsamość innego niż wymieniony w pkt 1; ” ;
@@ -182,6 +181,6 @@ source: "eli-html"
 
 - **1)** art. 1 pkt 1 i 2, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 12 ust. 1;
 - **2)** art. 1 pkt 3, art. 7 i art. 11, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-- **3)** art. 3, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 13 ust. 1.
+- **3)** art. 3, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 13 ust. 1. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 27 października 2017 r. o Ogólnopolskiej Sieci Edukacyjnej, ustawę z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw, ustawę z dnia 22 listopada 2018 r. o dokumentach publicznych, ustawę z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, ustawę z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, ustawę z dnia 14 października 2021 r. o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw, ustawę z dnia 2 grudnia 2021 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw oraz ustawę z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807 i 974.
 
 

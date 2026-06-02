@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 15 października 2021 r. w sprawie prowadzenia Rejestru Dowodów Osobistych
+# Rozporządzenie Ministra Cyfryzacjiz dnia 15 października 2021 r. w sprawie prowadzenia Rejestru Dowodów Osobistych Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-15 |
 | Data wydania | 2021-10-21 |
-| Wejście w życie | 2021-11-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001903) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1903/text.pdf) |
 
@@ -93,6 +92,5 @@ Przekazywanie danych między RDO a rejestrem PESEL i KSIP odbywa się bezpośred
 3.
 Przekazywanie danych między RDO a SIS odbywa się za pośrednictwem KSI.
 § 7.
-Rozporządzenie wchodzi w życie z dniem określonym w komunikacie wydanym na podstawie art. 3a ustawy z dnia 14 kwietnia 2021 r. o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw (Dz. U. poz. 1000 i 1393).
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 20 listopada 2014 r. w sprawie prowadzenia Rejestru Dowodów Osobistych (Dz. U. z 2016 r. poz. 876), które utraci moc z dniem wejścia w życie art. 1 pkt 32 ustawy z dnia 14 kwietnia 2021 r. o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw (Dz. U. poz. 1000 i 1393).
+Rozporządzenie wchodzi w życie z dniem określonym w komunikacie wydanym na podstawie art. 3a ustawy z dnia 14 kwietnia 2021 r. o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw (Dz. U. poz. 1000 i 1393).Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 20 listopada 2014 r. w sprawie prowadzenia Rejestru Dowodów Osobistych (Dz. U. z 2016 r. poz. 876), które utraci moc z dniem wejścia w życie art. 1 pkt 32 ustawy z dnia 14 kwietnia 2021 r. o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw (Dz. U. poz. 1000 i 1393). 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 20 listopada 2014 r. w sprawie prowadzenia Rejestru Dowodów Osobistych (Dz. U. z 2016 r. poz. 876), które utraci moc z dniem wejścia w życie art. 1 pkt 32 ustawy z dnia 14 kwietnia 2021 r. o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw (Dz. U. poz. 1000 i 1393).
 

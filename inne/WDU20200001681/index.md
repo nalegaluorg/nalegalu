@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-28 |
 | Data wydania | 2020-09-30 |
-| Wejście w życie | 2020-10-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001681) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1681/text.pdf) |
 
@@ -150,5 +149,5 @@ Jeżeli okoliczności wskazują na konieczność natychmiastowego podjęcia obro
 § 15.
 Wykazy przedstawione przez okręgową radę adwokacką i radę okręgowej izby radców prawnych po dniu 1 września 2020 r., a przed dniem wejścia w życie niniejszego rozporządzenia, na podstawie przepisów dotychczasowych, stanowią podstawę ustalenia przez prezesa właściwego sądu listy obrońców, o której mowa w § 6 niniejszego rozporządzenia.
 § 16.
-Rozporządzenie wchodzi w życie z dniem 5 października 2020 r.
+Rozporządzenie wchodzi w życie z dniem 5 października 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 27 maja 2015 r. w sprawie sposobu zapewnienia oskarżonemu korzystania z pomocy obrońcy z urzędu (Dz. U. z 2017 r. poz. 53), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 21 ust. 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1694). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 27 maja 2015 r. w sprawie sposobu zapewnienia oskarżonemu korzystania z pomocy obrońcy z urzędu (Dz. U. z 2017 r. poz. 53), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 21 ust. 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1694).
 

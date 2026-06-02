@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 9 grudnia 2016 r. w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 9 grudnia 2016 r. w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-09 |
 | Data wydania | 2016-12-22 |
-| Wejście w życie | 2016-12-23 |
 | Ostatnia zmiana | 2026-04-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002115) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2115/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Prowadzenie ksiąg rachunkowych Rozdział 3 – Ujmowanie i wycena niektórych aktywów i pasywów oraz ustalanie wyniku finansowego Rozdział 4 – Roczne sprawozdanie finansowe BFG Rozdział 5 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Załącznik – Zakres informacji wykazywanych w rocznym sprawozdaniu finansowym BFG
 Treść rozporządzenia
 Na podstawie art. 312 ust. 2 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996 i 1997) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczególne zasady rachunkowości Bankowego Funduszu Gwarancyjnego, zwanego dalej „BFG”, w tym zakres informacji wykazywanych w informacji dodatkowej sprawozdania finansowego.
 § 2.
@@ -44,8 +44,7 @@ gwarantowania depozytów w rozumieniu ustawy,
 2)
 świadczeń, o których mowa w art. 112 ust. 3 pkt 2, art. 179, art. 188 ust. 5 i art. 264 ust. 2 pkt 4 ustawy,
 3)
-gwarancji i poręczeń, w tym gwarancji pokrycia strat, o których mowa w art. 112 ust. 3 pkt 1 oraz w art. 264 ust. 2 pkt 3 ustawy
-nie stanowią kosztów BFG, lecz zmniejszają odpowiednie fundusze własne BFG.
+gwarancji i poręczeń, w tym gwarancji pokrycia strat, o których mowa w art. 112 ust. 3 pkt 1 oraz w art. 264 ust. 2 pkt 3 ustawy – nie stanowią kosztów BFG, lecz zmniejszają odpowiednie fundusze własne BFG.
 4.
 Zarząd BFG jest obowiązany złożyć do ogłoszenia:
 1)
@@ -55,17 +54,18 @@ bilans,
 3)
 rachunek zysków i strat,
 4)
-zestawienie zmian w funduszach własnych za rok obrotowy
-wraz z opinią biegłego rewidenta oraz odpisem uchwały o podziale zysku lub pokryciu straty, w terminie 15 dni od dnia podjęcia tej uchwały, w „Monitorze Sądowym i Gospodarczym”.
+zestawienie zmian w funduszach własnych za rok obrotowy – wraz z opinią biegłego rewidenta oraz odpisem uchwały o podziale zysku lub pokryciu straty, w terminie 15 dni od dnia podjęcia tej uchwały, w „Monitorze Sądowym i Gospodarczym”.
 5.
 Należności BFG wynikające z pożyczek udzielonych z funduszu restrukturyzacji banków spółdzielczych klasyfikuje się do normalnych albo straconych. Wysokość odpisów aktualizujących te należności ustala się na dzień bilansowy w wysokości 100% wartości należności straconych. W zakresie zasad klasyfikacji należności do kategorii straconych, określania wartości zabezpieczeń oraz podstawy dokonywania odpisów aktualizujących BFG stosuje odpowiednio przepisy rozporządzenia Ministra Finansów z dnia 16 grudnia 2008 r. w sprawie zasad tworzenia rezerw na ryzyko związane z działalnością banków (Dz. U. z 2015 r. poz. 2066).
 6.
 Do wysokości odpisów aktualizujących, ustalanych na dzień bilansowy, należności inne niż wymienione w ust. 5, BFG stosuje odpowiednio przepisy rozporządzenia Ministra Finansów z dnia 16 grudnia 2008 r. w sprawie zasad tworzenia rezerw na ryzyko związane z działalnością banków.
+Prowadzenie ksiąg rachunkowych
 § 3.
 1.
 Księgi rachunkowe są prowadzone przez BFG, w jego siedzibie.
 2.
 W księgach rachunkowych ujmuje się wszystkie osiągnięte, przypadające na rzecz BFG przychody i obciążające go koszty związane z tymi przychodami, dotyczące danego roku obrotowego, niezależnie od terminu zapłaty.
+Ujmowanie i wycena niektórych aktywów i pasywów oraz ustalanie wyniku finansowego
 § 4.
 1.
 Aktywa finansowe oraz zobowiązania finansowe, stanowiące instrumenty pochodne w rozumieniu przepisów o rachunkowości, ujmuje się w księgach rachunkowych na dzień zawarcia transakcji.
@@ -120,6 +120,7 @@ Rezerwy na świadczenia, o których mowa w art. 112 ust. 3 pkt 2, art. 179, art.
 Aktywa lub rezerwy z tytułu udzielenia gwarancji pokrycia strat, o której mowa w art. 112 ust. 3 pkt 1 i w art. 264 ust. 2 pkt 3 ustawy, wycenia się na dzień bilansowy w oszacowanej kwocie wymagającej zapłaty za dany okres w ramach roku obrotowego BFG, objęty tą gwarancją. Równowartość aktywów lub rezerw zalicza się do odpowiednich funduszy własnych BFG.
 § 11.
 Wynik finansowy BFG stanowi różnicę pomiędzy przychodami, w tym z tytułu odsetek i prowizji, a kosztami, z uwzględnieniem wyniku z operacji finansowych.
+Roczne sprawozdanie finansowe BFG
 § 12.
 Roczne sprawozdanie finansowe BFG składa się z:
 1)
@@ -134,6 +135,7 @@ rachunku przepływów pieniężnych;
 informacji dodatkowej, obejmującej wprowadzenie do rocznego sprawozdania finansowego oraz dodatkowe informacje i objaśnienia.
 § 13.
 Zakres informacji wykazywanych w rocznym sprawozdaniu finansowym BFG określa załącznik do rozporządzenia.
+Przepisy przejściowe i końcowe
 § 14.
 Aktywa lub rezerwy z tytułu udzielenia gwarancji pokrycia strat, o której mowa w art. 20g ust. 2 pkt 3 i art. 20ba ust. 2 pkt 3 ustawy uchylanej na mocy art. 388 ustawy, wycenia się na dzień bilansowy w oszacowanej kwocie wymagającej zapłaty za dany okres w ramach roku obrotowego BFG, objęty tą gwarancją. Równowartość aktywów lub rezerw zalicza się do odpowiednich funduszy własnych BFG.
 § 15.
@@ -146,8 +148,7 @@ fundusz pomocowy,
 3)
 fundusz stabilizacyjny,
 4)
-fundusz środków odzyskanych z mas upadłości
-które z dniem wejścia w życie ustawy zostały zlikwidowane.
+fundusz środków odzyskanych z mas upadłości – które z dniem wejścia w życie ustawy zostały zlikwidowane.
 2.
 W sprawozdaniu finansowym za rok 2016 w pozycji C.I Wpływy Rachunku przepływów pieniężnych podaje się wyłącznie:
 1.
@@ -165,8 +166,7 @@ Pozostałe wpływy finansowe.
 § 16.
 Rozporządzenie ma zastosowanie po raz pierwszy do sprawozdania finansowego BFG za rok obrotowy kończący się 31 grudnia 2016 r.
 § 17.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 24 grudnia 2013 r. w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego (Dz. U. poz. 1721), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 386 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996 i 1997).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 24 grudnia 2013 r. w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego (Dz. U. poz. 1721), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 386 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996 i 1997). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 24 grudnia 2013 r. w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego (Dz. U. poz. 1721), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 386 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996 i 1997).
 Załącznik – Zakres informacji wykazywanych w rocznym sprawozdaniu finansowym BFG
 Wprowadzenie do rocznego sprawozdania finansowego obejmuje w szczególności:
 1)
@@ -180,8 +180,7 @@ stosowane zasady rachunkowości, w tym metody wyceny aktywów i pasywów oraz us
 5)
 dokonane w ciągu roku obrotowego zmiany zasad rachunkowości, w tym metod wyceny, wraz z uzasadnieniem ich wprowadzenia, jeżeli wywierają one istotny wpływ na roczne sprawozdanie finansowe, ze wskazaniem spowodowanej tymi zmianami różnicy w wyniku finansowym;
 6)
-dokonane w stosunku do poprzedniego rocznego sprawozdania finansowego zmiany sposobu sporządzania rocznego sprawozdania finansowego, wraz z uzasadnieniem ich wprowadzenia i skutkami w zakresie przedstawiania sytuacji majątkowej i finansowej BFG.
-Bilans Aktywa
+dokonane w stosunku do poprzedniego rocznego sprawozdania finansowego zmiany sposobu sporządzania rocznego sprawozdania finansowego, wraz z uzasadnieniem ich wprowadzenia i skutkami w zakresie przedstawiania sytuacji majątkowej i finansowej BFG. Bilans Aktywa
 I.
 Środki pieniężne
 1.
@@ -257,8 +256,7 @@ Wartości niematerialne i prawne
 VIII.
 Rozliczenia międzyokresowe
 IX.
-Inne aktywa Aktywa razem
-Pasywa
+Inne aktywa Aktywa razem Pasywa
 I.
 Zobowiązania
 1.
@@ -316,8 +314,7 @@ Wynik finansowy
 1.
 Zysk netto (wartość dodatnia)
 2.
-Strata netto (wartość ujemna)
-Pasywa razem Rachunek zysków i strat
+Strata netto (wartość ujemna) Pasywa razem Rachunek zysków i strat
 I.
 Przychody z działalności statutowej
 1.
@@ -363,8 +360,7 @@ Pozostałe przychody operacyjne
 XI.
 Pozostałe koszty operacyjne
 XII.
-Wynik finansowy (III+IV+/-V-VI-VII-VIII+IX+X-XI)
-Zestawienie zmian w funduszach własnych
+Wynik finansowy (III+IV+/-V-VI-VII-VIII+IX+X-XI) Zestawienie zmian w funduszach własnych
 I.
 Fundusze własne na początek okresu (BO)
 – zmiany przyjętych zasad (polityki) rachunkowości
@@ -538,8 +534,7 @@ Zysk (strata) z lat ubiegłych na koniec okresu
 10.
 Zysk (strata) netto
 III.
-Fundusze własne na koniec okresu (BZ)
-Rachunek przepływów pieniężnych (metoda pośrednia)
+Fundusze własne na koniec okresu (BZ) Rachunek przepływów pieniężnych (metoda pośrednia)
 A.
 Przepływy środków pieniężnych z działalności operacyjnej
 I.
@@ -637,8 +632,7 @@ Przepływy pieniężne netto, razem (A.III ± B.III ± CIII)
 E.
 Środki pieniężne na początek okresu
 F.
-Środki pieniężne na koniec okresu (E ± D)
-Dodatkowe informacje i objaśnienia Dodatkowe informacje i objaśnienia obejmują w szczególności:
+Środki pieniężne na koniec okresu (E ± D) Dodatkowe informacje i objaśnienia Dodatkowe informacje i objaśnienia obejmują w szczególności:
 1.
 Przedstawienie:
 1)
@@ -680,13 +674,23 @@ c)
 11)
 inne informacje, które należy uznać za istotne dla zrozumienia rocznego sprawozdania finansowego.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Prowadzenie ksiąg rachunkowych
+#### Rozdział 2 – Prowadzenie ksiąg rachunkowych
 
-#### Rozdział 3 Ujmowanie i wycena niektórych aktywów i pasywów oraz ustalanie wyniku finansowego
+#### Rozdział 3 – Ujmowanie i wycena niektórych aktywów i pasywów oraz ustalanie wyniku finansowego
 
-#### Rozdział 4 Roczne sprawozdanie finansowe BFG
+#### Rozdział 4 – Roczne sprawozdanie finansowe BFG
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

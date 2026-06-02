@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 29 grudnia 2016 r. w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania o uznanie kwalifikacji zawodowych do wykonywania niektórych zawodów regulowanych należących do działu gospodarka
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 29 grudnia 2016 r. w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania o uznanie kwalifikacji zawodowych do wykonywania niektórych zawodów regulowanych należących do działu gospodarka Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,22 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-29 |
 | Data wydania | 2017-01-05 |
-| Wejście w życie | 2017-01-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000035) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/35/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Staż adaptacyjny Rozdział 3 – Test umiejętności Rozdział 4 – Przepis przejściowy i końcowy
+Treść rozporządzenia
 Załącznik – Wykaz zawodów regulowanych należących do działu administracji rządowej – gospodarka
 Treść rozporządzenia
-Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa:
 1)
 warunki, sposób i tryb odbywania stażu adaptacyjnego, sposób i tryb wykonywania nadzoru nad odbywaniem stażu adaptacyjnego oraz oceny nabytych przez wnioskodawcę umiejętności, sposób ustalania kosztów odbywania stażu adaptacyjnego oraz tryb pobierania i zwrotu opłaty za odbycie stażu adaptacyjnego, zwanego dalej „stażem”,
 2)
-warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za przeprowadzenie testu umiejętności, zwanego dalej „testem”
-w toku postępowania o uznanie nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej kwalifikacji zawodowych do wykonywania niektórych zawodów regulowanych należących do działu gospodarka.
+warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za przeprowadzenie testu umiejętności, zwanego dalej „testem” – w toku postępowania o uznanie nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej kwalifikacji zawodowych do wykonywania niektórych zawodów regulowanych należących do działu gospodarka.
 2.
 Przepisy rozporządzenia stosuje się do postępowań w sprawach o uznanie kwalifikacji zawodowych do wykonywania zawodów regulowanych wymienionych w załączniku do rozporządzenia.
 § 2.
@@ -45,11 +44,12 @@ Użyte w rozporządzeniu określenia oznaczają:
 1)
 instytucja – jednostkę organizacyjną, w której wnioskodawca odbywa staż lub przystępuje do części praktycznej testu;
 2)
-organ prowadzący postępowanie – ministra właściwego do spraw gospodarki lub podmiot wskazany w trybie określonym w art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r. poz. 543, z późn. zm.);
+organ prowadzący postępowanie – ministra właściwego do spraw gospodarki lub podmiot wskazany w trybie określonym w art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r. poz. 543, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948, 1954,);
 3)
 ustawa – ustawę z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej.
 § 3.
 Wnioskodawca, po otrzymaniu postanowienia, o którym mowa w art. 20 ust. 1 ustawy, przekazuje organowi prowadzącemu postępowanie oświadczenie o wyborze odbycia stażu albo przystąpienia do testu, z wyjątkiem przypadków, o których mowa w art. 21 ust. 2 pkt 1 lit. c i d oraz ust. 3 ustawy.
+Staż adaptacyjny
 § 4.
 Staż odbywa się w instytucji właściwej ze względu na rodzaj zawodu, którego dotyczy postępowanie w sprawie uznania kwalifikacji.
 § 5.
@@ -91,8 +91,7 @@ kontrola obecności wnioskodawcy w instytucji w okresie odbywania stażu;
 3)
 sporządzanie i przechowywanie informacji dotyczących przebiegu stażu;
 4)
-pomoc wnioskodawcy w realizacji stażu.
-1961, 2003 i 2260.
+pomoc wnioskodawcy w realizacji stażu. 1961, 2003 i 2260.
 3.
 Zmiana opiekuna stażu może nastąpić w przypadku:
 1)
@@ -142,6 +141,7 @@ Organ prowadzący postępowanie sprawuje nadzór nad odbywaniem stażu poprzez k
 Na podstawie wyników sprawowanego nadzoru oraz przekazanej opinii, o której mowa w § 7, organ prowadzący postępowanie dokonuje oceny nabytych umiejętności.
 3.
 Wnioskodawca, który nie uzyskał pozytywnej oceny, o której mowa w ust. 2, może wystąpić z wnioskiem o ponowne odbycie stażu, zgodnie z zakresem określonym w postanowieniu, o którym mowa w art. 20 ust. 1 ustawy.
+Test umiejętności
 § 11.
 Test przeprowadza komisja egzaminacyjna, zwana dalej „komisją”, powołana przez organ prowadzący postępowanie, w składzie trzyosobowym. Każda z osób wchodzących w skład komisji posiada wiedzę teoretyczną, umiejętności i doświadczenie praktyczne w zakresie zagadnień będących przedmiotem testu.
 § 12.
@@ -210,11 +210,11 @@ Zwrot wniesionej opłaty za przeprowadzenie testu następuje także w przypadku 
 Zwrot opłaty za przeprowadzenie testu następuje w sposób wskazany przez wnioskodawcę we wniosku, w terminie 30 dni od dnia jego złożenia.
 4.
 Do wnioskodawcy, który otrzymał zwrot wniesionej opłaty za przeprowadzenie testu w przypadkach, o których mowa w ust. 1 i 2, nie stosuje się przepisu § 22 ust. 2.
+Przepis przejściowy i końcowy
 § 24.
 Do wniosków złożonych i nierozpatrzonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 25.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948, 1954, 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 2 listopada 2009 r. w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania niektórych zawodów regulowanych należących do działu gospodarka (Dz. U. poz. 1533), które utraciło moc z dniem 1 stycznia 2017 r. zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 2 listopada 2009 r. w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania niektórych zawodów regulowanych należących do działu gospodarka (Dz. U. poz. 1533), które utraciło moc z dniem 1 stycznia 2017 r. zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948, 1954, 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 2 listopada 2009 r. w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania niektórych zawodów regulowanych należących do działu gospodarka (Dz. U. poz. 1533), które utraciło moc z dniem 1 stycznia 2017 r. zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
 Załącznik – Wykaz zawodów regulowanych należących do działu administracji rządowej – gospodarka
 1.
 Obsługujący dźwigi.
@@ -247,11 +247,19 @@ Rusznikarz.
 15.
 Operatorzy urządzeń do produkcji materiałów wybuchowych i pokrewni.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Staż adaptacyjny
+#### Rozdział 2 – Staż adaptacyjny
 
-#### Rozdział 3 Test umiejętności
+#### Rozdział 3 – Test umiejętności
+
+#### Rozdział 4 – Przepis przejściowy i końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 
 ## Część teoretyczną testu przeprowadza się w formie pisemnego testu, który składa się z nie więcej niż 40 pytań dotyczących wiedzy zawodowej niezbędnej do wykonywania wnioskowanego zawodu regulowanego, opracowanych przez organ prowadzący postępowanie.
 
@@ -265,5 +273,5 @@ Operatorzy urządzeń do produkcji materiałów wybuchowych i pokrewni.
 
 ## Część praktyczna testu zostaje zaliczona, gdy wnioskodawca wykaże się umiejętnościami praktycznymi właściwymi dla wnioskowanego zawodu regulowanego.
 
-#### Rozdział 4 Przepis przejściowy i końcowy
+#### Rozdział 4
 

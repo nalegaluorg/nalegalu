@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 marca 2015 r. o zmianie ustawy o substancjach chemicznych i ich mieszaninach
+# Ustawa z dnia 20 marca 2015 r. o zmianie ustawy o substancjach chemicznych i ich mieszaninach Niniejsza ustawa dokonuje w zakresie swojej regulacji częściowego wdrożenia następujących dyrektyw: 1) dyrektywy 2004/9/WE Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. w sprawie kontroli i weryfikacji dobrej praktyki laboratoryjnej (DPL) (wersja skodyfikowana) (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 50 z 20.02.2004, str. 28, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 65); 2) dyrektywy Parlamentu Europejskiego i Rady 2014/27/UE z dnia 26 lutego 2014 r. zmieniającej dyrektywy Rady 92/58/EWG, 92/85/EWG, 94/33/WE, 98/24/WE oraz dyrektywę 2004/37/WE Parlamentu Europejskiego i Rady w celu dostosowania ich do rozporządzenia (WE) nr 1272/2008 w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin (Dz. Urz. UE L 65 z 05.03.2014, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-03-20 |
 | Data wydania | 2015-05-15 |
-| Wejście w życie | 2015-05-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000675) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/675/text.pdf) |
 
@@ -97,7 +96,7 @@ source: "eli-html"
 
 11a. Inspektorzy Dobrej Praktyki Laboratoryjnej, a także inne osoby wyznaczone przez Inspektora do przeprowadzenia kontroli i weryfikacji przed przystąpieniem do wykonywania swoich obowiązków składają pisemne oświadczenie, że pomiędzy nimi a kontrolowaną jednostką badawczą lub certyfikowaną jednostką badawczą, a także jednostką organizacyjną zlecającą jednostce badawczej lub certyfikowanej jednostce badawczej przeprowadzenie badań nie istnieją żadne powiązania mogące mieć wpływ na bezstronność ich oceny. Inspektorzy Dobrej Praktyki Laboratoryjnej, a także inne osoby wyznaczone przez Inspektora do przeprowadzenia kontroli i weryfikacji, informują Inspektora o powstaniu okoliczności mogących mieć wpływ na bezstronność ich oceny, także w przypadku zaistnienia takich okoliczności w trakcie postępowania.
 
-11b. W przypadku gdy w trakcie kontroli i weryfikacji inspektorzy Dobrej Praktyki Laboratoryjnej lub inne osoby wyznaczone przez Inspektora do przeprowadzenia kontroli i weryfikacji mają dostęp do informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. Nr 153, poz. 1503, z późn. zm.), informacje takie nie mogą zostać ujawnione. W przypadku gdy takie informacje są zawarte w protokole z przeprowadzonej kontroli i weryfikacji, protokół może zostać ujawniony na wniosek odpowiednich władz krajowych, Komisji Europejskiej, jednostek badawczych lub certyfikowanych jednostek badawczych, w których przeprowadzono kontrolę i weryfikację, oraz gdy dotyczy to określonego badania – zlecającego to badanie. ” ;
+11b. W przypadku gdy w trakcie kontroli i weryfikacji inspektorzy Dobrej Praktyki Laboratoryjnej lub inne osoby wyznaczone przez Inspektora do przeprowadzenia kontroli i weryfikacji mają dostęp do informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. Nr 153, poz. 1503, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 162, poz. 1693 i Nr 172, poz. 1804, z 2005 r. Nr 10, poz. 68, z 2007 r. Nr 171, poz. 1206 oraz z 2009 r. Nr 201, poz. 1540.), informacje takie nie mogą zostać ujawnione. W przypadku gdy takie informacje są zawarte w protokole z przeprowadzonej kontroli i weryfikacji, protokół może zostać ujawniony na wniosek odpowiednich władz krajowych, Komisji Europejskiej, jednostek badawczych lub certyfikowanych jednostek badawczych, w których przeprowadzono kontrolę i weryfikację, oraz gdy dotyczy to określonego badania – zlecającego to badanie. ” ;
 
 - **7)** w art. 17 po ust. 3 dodaje się ust. 3a w brzmieniu: „
 
@@ -115,7 +114,7 @@ source: "eli-html"
 3. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw pracy oraz ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia:
 
 - **1)** sposób oznakowania pojemników i zbiorników służących do przechowywania substancji stwarzających zagrożenie lub mieszanin stwarzających zagrożenie oraz pojemników i zbiorników służących do pracy z tymi substancjami lub mieszaninami, rurociągów zawierających substancje stwarzające zagrożenie lub mieszaniny stwarzające zagrożenie lub służących do ich transportowania oraz miejsc, w których są składowane znaczące ilości substancji stwarzających zagrożenie lub mieszanin stwarzających zagrożenie,
-- **2)** warunki, które należy spełnić w przypadku odstąpienia od oznakowania, o którym mowa w ust. 2 uwzględniając potrzebę zapewnienia bezpieczeństwa i zdrowia w miejscu pracy. ” ;
+- **2)** warunki, które należy spełnić w przypadku odstąpienia od oznakowania, o którym mowa w ust. 2 – uwzględniając potrzebę zapewnienia bezpieczeństwa i zdrowia w miejscu pracy. ” ;
 - **10)** po art. 27 dodaje się art. 27a w brzmieniu: „
 
 **Art. 27a.** W przypadku gdy dalszy użytkownik substancji w jej postaci własnej lub jako składnika mieszaniny wbrew przepisom art. 37 ust. 4 rozporządzenia nr 1907/2006 nie sporządza wymaganego raportu bezpieczeństwa chemicznego, Inspektor może, na wniosek państwowego powiatowego inspektora sanitarnego składany za pośrednictwem Głównego Inspektora Sanitarnego lub na wniosek Głównego Inspektora Ochrony Środowiska, zakazać, w drodze decyzji, wprowadzania takiej substancji do obrotu lub stosowania na terytorium Rzeczypospolitej Polskiej do czasu sporządzenia wymaganego raportu bezpieczeństwa chemicznego lub określić termin, po którym taka decyzja zostanie wydana, w przypadku gdy wymagany raport bezpieczeństwa chemicznego nie zostanie sporządzony w tym terminie. ” ;
@@ -158,5 +157,5 @@ source: "eli-html"
 
 **Art. 3.** Do dnia 31 grudnia 2016 r. przepisu art. 34 ust. 3 ustawy zmienianej w art. 1 nie stosuje się do detergentów dla konsumentów przeznaczonych do automatycznych zmywarek do naczyń, o których mowa w pkt 2 załącznika VIa do rozporządzenia (WE) nr 648/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie detergentów (Dz. Urz. UE L 104 z 08.04.2004, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 48, z późn. zm.).
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 9 i 15, które wchodzą w życie z dniem 1 czerwca 2015 r.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 9 i 15, które wchodzą w życie z dniem 1 czerwca 2015 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji częściowego wdrożenia następujących dyrektyw: 1) dyrektywy 2004/9/WE Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. w sprawie kontroli i weryfikacji dobrej praktyki laboratoryjnej (DPL) (wersja skodyfikowana) (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 50 z 20.02.2004, str. 28, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 65); 2) dyrektywy Parlamentu Europejskiego i Rady 2014/27/UE z dnia 26 lutego 2014 r. zmieniającej dyrektywy Rady 92/58/EWG, 92/85/EWG, 94/33/WE, 98/24/WE oraz dyrektywę 2004/37/WE Parlamentu Europejskiego i Rady w celu dostosowania ich do rozporządzenia (WE) nr 1272/2008 w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin (Dz. Urz. UE L 65 z 05.03.2014, str. 1). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 162, poz. 1693 i Nr 172, poz. 1804, z 2005 r. Nr 10, poz. 68, z 2007 r. Nr 171, poz. 1206 oraz z 2009 r. Nr 201, poz. 1540.
 

@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1995-05-12 |
 | Data wydania | 1995-06-06 |
-| Wejście w życie | 1995-07-07 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950600310) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/310/text.pdf) |
+
+Przepisy karne
 
 **Art. 1.** W ustawie z dnia 23 listopada 1990 r. o łączności (Dz. U. Nr 86, poz. 504, z 1991 r. Nr 69, poz. 293 i Nr 105, poz. 451 oraz z 1993 r. Nr 7, poz. 34) wprowadza się następujące zmiany:
 
@@ -645,7 +646,7 @@ source: "eli-html"
 
 - **50)** po art. 75 dodaje się nowy rozdział w brzmieniu: „
 
-#### Rozdział 5a Przepisy karne
+#### Rozdział 5a
 
 **Art. 75a.**
 
@@ -668,8 +669,14 @@ source: "eli-html"
 § 5. Można orzec przepadek przedmiotów służących do popełnienia czynów określonych w § 1–4, chociażby nie stanowiły własności sprawcy. ” . W ustawie z dnia 23 grudnia 1988 r. o działalności gospodarczej (Dz. U. Nr 41, poz. 324, z 1990 r. Nr 26, poz. 149, Nr 34, poz. 198 i Nr 86, poz. 504, z 1991 r. Nr 31, poz. 128, Nr 41, poz. 179, Nr 73, poz. 321, Nr 105, poz. 452, Nr 106, poz. 457 i Nr 107, poz. 460, z 1993 r. Nr 28, poz. 127, Nr 47, poz. 212 i Nr 134, poz. 646 oraz z 1994 r. Nr 27, poz. 96 i Nr 127, poz. 627) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 ust. 2 otrzymuje brzmienie: „ 2. Prowadzenie działalności gospodarczej w zakresie pocztowych usług o charakterze powszechnym, polegających na przyjmowaniu, przewozie i doręczaniu w obrocie krajowym i zagranicznym: przesyłek listowych – z wyjątkiem druków bezadresowych i ankiet – o masie do 2000 g, listów wartościowych o masie do 2000 g, paczek pocztowych oraz nadawaniu i doręczaniu przekazów pocztowych, jest zastrzeżone dla Poczty Polskiej. ” ;
-- **2)** w art. 11: w ust. 1: – pkt 12 otrzymuje brzmienie: „ 12) usług kurierskich, a także pocztowych usług o charakterze powszechnym, polegających na przewozie i doręczaniu w obrocie krajowym i zagranicznym: a) przesyłek listowych o masie powyżej 2000 g, b) listów wartościowych o masie powyżej 2000 g ” , – dodaje się pkt 14 w brzmieniu: „ 14) usług telekomunikacyjnych. ” , dodaje się ust. 5 w brzmieniu: „ 5. Zasady udzielania koncesji, o których mowa w ust. 1 pkt 12 i 14, określają przepisy o łączności. ” . W ustawie z dnia 1 grudnia 1989 r. o utworzeniu urzędu Ministra Łączności (Dz. U. Nr 67, poz. 408 oraz z 1990 r. Nr 86, poz. 504) wprowadza się następujące zmiany:
+- **2)** w art. 11: w ust. 1: pkt 12 otrzymuje brzmienie: „
     - **a)**
+
+- **12)** usług kurierskich, a także pocztowych usług o charakterze powszechnym, polegających na przewozie i doręczaniu w obrocie krajowym i zagranicznym: przesyłek listowych o masie powyżej 2000 g, listów wartościowych o masie powyżej 2000 g ” , dodaje się pkt 14 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **14)** usług telekomunikacyjnych. ” , dodaje się ust. 5 w brzmieniu: „ 5. Zasady udzielania koncesji, o których mowa w ust. 1 pkt 12 i 14, określają przepisy o łączności. ” . W ustawie z dnia 1 grudnia 1989 r. o utworzeniu urzędu Ministra Łączności (Dz. U. Nr 67, poz. 408 oraz z 1990 r. Nr 86, poz. 504) wprowadza się następujące zmiany:
     - **b)**
 
 - **1)** w art. 4 w ust. 1 skreśla się pkt 5,

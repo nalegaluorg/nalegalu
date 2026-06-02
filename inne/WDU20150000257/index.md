@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 6 lutego 2015 r. w sprawie komunalnych osadów ściekowych
+# Rozporządzenie Ministra Środowiskaz dnia 6 lutego 2015 r. w sprawie komunalnych osadów ściekowych Niniejsze rozporządzenie wdraża postanowienia dyrektywy Rady 86/278/EWG z dnia 12 czerwca 1986 r. w sprawie ochrony środowiska, w szczególności gleby, w przypadku wykorzystywania osadów ściekowych w rolnictwie (Dz. Urz. WE L 181 z 04.07.1986, str. 6; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 1, str. 265, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-02-06 |
 | Data wydania | 2015-02-25 |
-| Wejście w życie | 2015-03-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000257) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/257/text.pdf) |
 
@@ -39,7 +38,7 @@ Treść rozporządzenia
 ## Załącznik nr 5 — – Metody referencyjne badań gruntów, na których mają być stosowane komunalne osady ściekowe
 
 Treść rozporządzenia
-Na podstawie art. 96 ust. 13 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 16 października 2014 r. pod numerem 2014/0503/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). Na podstawie art. 96 ust. 13 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238, z 2014 r. poz. 695, 1101 i 1322 oraz z 2015 r. poz. 87 i 122.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -80,7 +79,7 @@ Wartości dopuszczalne ilości metali ciężkich w wierzchniej warstwie gruntu o
 4.
 Wartości dopuszczalne ilości metali ciężkich w wierzchniej warstwie gruntu o głębokości 0–25 cm przy stosowaniu komunalnych osadów ściekowych do rekultywacji terenów na cele nierolne, przy dostosowaniu gruntów do określonych potrzeb wynikających z planów gospodarki odpadami, planów zagospodarowania przestrzennego lub decyzji o warunkach zabudowy i zagospodarowania terenu, do uprawy roślin przeznaczonych do produkcji kompostu oraz do uprawy roślin nieprzeznaczonych do spożycia i produkcji pasz określa załącznik nr 3 do rozporządzenia.
 5.
-Warunkiem stosowania komunalnych osadów ściekowych jest wykonywanie przez ich wytwórcę badań, o których mowa w § 5 i 6, w tym pobieranie próbek, w laboratoriach, o których mowa w art. 147a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.).
+Warunkiem stosowania komunalnych osadów ściekowych jest wykonywanie przez ich wytwórcę badań, o których mowa w § 5 i 6, w tym pobieranie próbek, w laboratoriach, o których mowa w art. 147a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122 i 151.).
 § 3.
 1.
 Przy stosowaniu komunalnych osadów ściekowych na gruntach dawkę osadów dla określonej powierzchni gruntu ustala się oddzielnie dla każdej z badanej objętości komunalnych osadów ściekowych, na podstawie wyników badań reprezentatywnych próbek komunalnych osadów ściekowych i gruntów.
@@ -131,7 +130,7 @@ obecności bakterii chorobotwórczych z rodzaju Salmonella w 100 g osadu;
 9)
 liczby żywych jaj pasożytów jelitowych Ascaris sp., Trichuris sp., Toxocara sp. w kg s.m.
 2.
-Badania metodami referencyjnymi komunalnych osadów ściekowych przeprowadza się z częstotliwością zależną od obciążenia oczyszczalni ścieków, wyrażonego równoważną liczbą mieszkańców w rozumieniu art. 43 ust. 2 pkt 2 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm.), nie rzadziej niż:
+Badania metodami referencyjnymi komunalnych osadów ściekowych przeprowadza się z częstotliwością zależną od obciążenia oczyszczalni ścieków, wyrażonego równoważną liczbą mieszkańców w rozumieniu art. 43 ust. 2 pkt 2 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513, z 2013 r. poz. 21 i 165 oraz z 2014 r. poz. 659, 822, 850 i 1146.), nie rzadziej niż:
 1)
 raz na sześć miesięcy – przy równoważnej liczbie mieszkańców do 10 000;
 2)
@@ -166,7 +165,7 @@ Próbki, o których mowa w ust. 3, pobiera się do głębokości 25 cm albo do m
 5.
 Metody referencyjne badań gruntów, na których mają być stosowane komunalne osady ściekowe, określa załącznik nr 5 do rozporządzenia.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 13 lipca 2010 r. w sprawie komunalnych osadów ściekowych (Dz. U. Nr 137, poz. 924), które zgodnie z art. 250 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, 888 i 1238, z 2014 r. poz. 695, 1101 i 1322 oraz z 2015 r. poz. 87 i 122) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie wdraża postanowienia dyrektywy Rady 86/278/EWG z dnia 12 czerwca 1986 r. w sprawie ochrony środowiska, w szczególności gleby, w przypadku wykorzystywania osadów ściekowych w rolnictwie (Dz. Urz. WE L 181 z 04.07.1986, str. 6; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 1, str. 265, z późn. zm.). 3) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 16 października 2014 r. pod numerem 2014/0503/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238, z 2014 r. poz. 695, 1101 i 1322 oraz z 2015 r. poz. 87 i 122. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122 i 151. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513, z 2013 r. poz. 21 i 165 oraz z 2014 r. poz. 659, 822, 850 i 1146. 7) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 13 lipca 2010 r. w sprawie komunalnych osadów ściekowych (Dz. U. Nr 137, poz. 924), które zgodnie z art. 250 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, 888 i 1238, z 2014 r. poz. 695, 1101 i 1322 oraz z 2015 r. poz. 87 i 122) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 
 ## Załącznik nr 1 — – Dopuszczalna zawartość metali ciężkich w komunalnych osadach ściekowych
 

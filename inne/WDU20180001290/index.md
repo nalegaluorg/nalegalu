@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-15 |
 | Data wydania | 2018-07-04 |
-| Wejście w życie | 2018-07-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001290) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1290/text.pdf) |
 
@@ -40,7 +39,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **3)** po jednym przedstawicielu organizacji związkowych reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego, wyłonionym spośród członków ich jednostek organizacyjnych albo jednostek organizacyjnych organizacji związkowych wchodzących w skład reprezentatywnych organizacji związkowych, zrzeszających nauczycieli, obejmujących swoim zakresem działania szkołę lub placówkę, w której konkurs się odbywa z zastrzeżeniem ust. 15. ” ;
+- **3)** po jednym przedstawicielu organizacji związkowych reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego, wyłonionym spośród członków ich jednostek organizacyjnych albo jednostek organizacyjnych organizacji związkowych wchodzących w skład reprezentatywnych organizacji związkowych, zrzeszających nauczycieli, obejmujących swoim zakresem działania szkołę lub placówkę, w której konkurs się odbywa – z zastrzeżeniem ust. 15. ” ;
 - **2)** w art. 73 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
 1a. Uchwały rady pedagogicznej podejmowane w sprawach związanych z osobami pełniącymi funkcje kierownicze w szkole lub placówce lub w sprawach związanych z opiniowaniem kandydatów na takie stanowiska podejmowane są w głosowaniu tajnym. ” .

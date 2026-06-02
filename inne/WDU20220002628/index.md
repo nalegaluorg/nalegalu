@@ -26,15 +26,32 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002628) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2628/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 27 września 2013 r. o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi Rozdział 1 – Przepisy ogólne Rozdział 2 – Finansowe wsparcie Rozdział 3 – Zasady udzielania i rozliczania finansowego wsparcia Rozdział 4 – Zwrot osobom fizycznym niektórych wydatków poniesionych w związku z budową pierwszego własnego mieszkania Rozdział 5 – Zmiany w przepisach obowiązujących Rozdział 6 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 27 września 2013 r. o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 września 2013 r. o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi (Dz. U. z 2019 r. poz. 1116), z uwzględnieniem zmian wprowadzonych ustawą z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 listopada 2022 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 45 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 45 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), który stanowi: „
+Przepisy ogólne
+Finansowe wsparcie
+Zasady udzielania i rozliczania finansowego wsparcia
+Zwrot osobom fizycznym niektórych wydatków poniesionych w związku z budową pierwszego własnego mieszkania
+Zmiany w przepisach obowiązujących
 Art. 27–31.
 (pominięte)
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Finansowe wsparcie
+
+#### Rozdział 3 – Zasady udzielania i rozliczania finansowego wsparcia
+
+#### Rozdział 4 – Zwrot osobom fizycznym niektórych wydatków poniesionych w związku z budową pierwszego własnego mieszkania
+
+#### Rozdział 5 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 6 – Przepisy przejściowe i końcowe
 
 **Art. 45.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
@@ -43,7 +60,7 @@ Art. 27–31.
 - **3)** art. 27 i art. 43, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 - **4)** art. 28, który wchodzi w życie z dniem 1 sierpnia 2022 r. ” . Załącznik – Tekst jednolity ustawy z dnia 27 września 2013 r. o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa zasady udzielania ze środków Funduszu Dopłat finansowego wsparcia w związku z nabyciem mieszkania oraz reguluje zasady zwrotu ze środków budżetu państwa części wydatków poniesionych na zakup materiałów budowlanych przez osoby fizyczne w związku z budową własnego mieszkania. Przepisy ustawy określające zasady udzielania ze środków Funduszu Dopłat finansowego wsparcia w związku z nabyciem mieszkania stosuje się odpowiednio do przeniesienia spółdzielczego własnościowego prawa do lokalu, którego przedmiotem jest mieszkanie.
 
@@ -69,11 +86,11 @@ Art. 27–31.
     - **c)**
 
 - **15)** Fundusz Dopłat – Fundusz Dopłat, o którym mowa w ustawie z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej (Dz. U. z 2022 r. poz. 101 i 1561);
-- **16)** podatek VAT – podatek od towarów i usług o stawce 22% albo wyższej, w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm.);
+- **16)** podatek VAT – podatek od towarów i usług o stawce 22% albo wyższej, w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 974, 1137, 1301, 1488, 1561 i 2180.);
 - **17)** faktura – fakturę w rozumieniu przepisów o podatku od towarów i usług, dokumentującą zakup materiałów budowlanych, o których mowa w art. 20 ust. 1;
 - **18)** urząd skarbowy – naczelnika urzędu skarbowego właściwego ze względu na miejsce zamieszkania osoby składającej wniosek o zwrot części wydatków, o którym mowa w art. 20 ust. 1, w dniu złożenia przez nią tego wniosku, przy czym w przypadku wspólnego wniosku małżonków mających różne miejsca zamieszkania – naczelnika urzędu skarbowego wskazanego w tym wniosku, jeżeli jest on właściwy ze względu na miejsce zamieszkania przynajmniej jednego z małżonków.
 
-#### Rozdział 2 Finansowe wsparcie
+#### Rozdział 2
 
 **Art. 3.** Dofinansowanie wkładu własnego może zostać udzielone nabywcy w związku z zaciągnięciem w instytucji kredytującej kredytu udzielonego na:
 
@@ -95,7 +112,7 @@ Art. 27–31.
 3. Jeżeli nabywca ubiegający się o przyznanie dofinansowania wkładu własnego jest najemcą lokalu mieszkalnego, innego niż mieszkanie, o którym mowa w art. 3, lub przysługuje mu spółdzielcze lokatorskie prawo do lokalu mieszkalnego, zobowiązuje się on do:
 
 - **1)** rozwiązania umowy najmu i opróżnienia lokalu mieszkalnego,
-- **2)** zrzeczenia się spółdzielczego lokatorskiego prawa do lokalu mieszkalnego na rzecz spółdzielni mieszkaniowej i opróżnienia tego lokalu w terminie 6 miesięcy od dnia zawarcia umowy o ustanowieniu lub przeniesieniu własności mieszkania, o którym mowa w art. 3.
+- **2)** zrzeczenia się spółdzielczego lokatorskiego prawa do lokalu mieszkalnego na rzecz spółdzielni mieszkaniowej i opróżnienia tego lokalu – w terminie 6 miesięcy od dnia zawarcia umowy o ustanowieniu lub przeniesieniu własności mieszkania, o którym mowa w art. 3.
 
 4. Warunków, o których mowa w ust. 1, nie stosuje się w przypadku, gdy w dniu złożenia wniosku o dofinansowanie wkładu własnego nabywca wychowuje przynajmniej troje dzieci, o których mowa w art. 7 ust. 1a.
 
@@ -136,7 +153,7 @@ Art. 27–31.
 
 2. W przypadku gdy nabywcą są małżonkowie, warunek, o którym mowa w ust. 1 pkt 5, dotyczy obojga małżonków.
 
-3. Jeżeli w ocenie instytucji kredytującej nabywca, pomimo dofinansowania wkładu własnego, nie będzie posiadał zdolności kredytowej w rozumieniu art. 70 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2021 r. poz. 2439, z późn. zm.), do umowy kredytu mogą przystąpić inne osoby.
+3. Jeżeli w ocenie instytucji kredytującej nabywca, pomimo dofinansowania wkładu własnego, nie będzie posiadał zdolności kredytowej w rozumieniu art. 70 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2021 r. poz. 2439, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2447 oraz z 2022 r. poz. 830, 872, 1358, 1488, 1692 i 1933.), do umowy kredytu mogą przystąpić inne osoby.
 
 **Art. 7.**
 
@@ -149,7 +166,7 @@ Art. 27–31.
 
 - **1)** małoletnich dzieci,
 - **2)** dzieci bez względu na wiek, które zgodnie z odrębnymi przepisami otrzymują zasiłek (dodatek) pielęgnacyjny lub rentę socjalną,
-- **3)** dzieci do ukończenia przez nie 25. roku życia, uczących się w szkołach oraz kolegiach pracowników służb społecznych, o których mowa w przepisach ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082, z późn. zm.), przepisach o szkolnictwie wyższym i nauce lub przepisach regulujących system oświatowy lub szkolnictwo wyższe obowiązujących w innym niż Rzeczpospolita Polska państwie oraz szkołach wyższych i wyższych seminariach duchownych, prowadzonych przez Kościół Katolicki, inne kościoły i inne związki wyznaniowe na podstawie umów międzynarodowych i przepisów o stosunku państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej oraz przepisów o stosunku państwa do innych kościołów i związków wyznaniowych powierzchnię użytkową mieszkania, będącą podstawą do ustalenia wysokości dofinansowania wkładu własnego na zasadach, o których mowa w ust. 1, zwiększa się z 50 m2 do 65 m2.
+- **3)** dzieci do ukończenia przez nie 25. roku życia, uczących się w szkołach oraz kolegiach pracowników służb społecznych, o których mowa w przepisach ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 655, 1079, 1116, 1383, 1700, 1730 i 2089.), przepisach o szkolnictwie wyższym i nauce lub przepisach regulujących system oświatowy lub szkolnictwo wyższe obowiązujących w innym niż Rzeczpospolita Polska państwie oraz szkołach wyższych i wyższych seminariach duchownych, prowadzonych przez Kościół Katolicki, inne kościoły i inne związki wyznaniowe na podstawie umów międzynarodowych i przepisów o stosunku państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej oraz przepisów o stosunku państwa do innych kościołów i związków wyznaniowych – powierzchnię użytkową mieszkania, będącą podstawą do ustalenia wysokości dofinansowania wkładu własnego na zasadach, o których mowa w ust. 1, zwiększa się z 50 m2 do 65 m2.
 
 2. W przypadku gdy nabywca w dniu złożenia wniosku o dofinansowanie wkładu własnego wychowuje własne lub przysposobione dziecko, o którym mowa w ust. 1a, kwota dofinansowania wkładu własnego wynosi:
 
@@ -174,7 +191,7 @@ Art. 27–31.
 
 5. W przypadku spłaty części kredytu instytucja kredytująca nie pobiera od nabywcy opłat z tego tytułu.
 
-#### Rozdział 3 Zasady udzielania i rozliczania finansowego wsparcia
+#### Rozdział 3
 
 **Art. 9.**
 
@@ -301,7 +318,7 @@ Art. 27–31.
 - **2)** wynajął to mieszkanie lub jego część innej osobie lub użyczył tego mieszkania innej osobie,
 - **3)** dokonał zmiany sposobu użytkowania tego mieszkania lub jego części w sposób uniemożliwiający zaspokajanie własnych potrzeb mieszkaniowych,
 - **4)** uzyskał prawo własności lub współwłasności innego lokalu mieszkalnego lub budynku mieszkalnego lub spółdzielcze własnościowe prawo do lokalu mieszkalnego w całości lub w części, którego przedmiotem jest inny lokal mieszkalny lub dom jednorodzinny, z wyłączeniem uzyskania tych praw w drodze spadku,
-- **5)** dokonał wcześniejszej spłaty całości kredytu, o którym mowa w art. 3, lub jego części przekraczającej wysokość udzielonego dofinansowania wkładu własnego część finansowego wsparcia udzielonego nabywcy podlega zwrotowi do Funduszu Dopłat w kwocie odpowiadającej iloczynowi kwoty uzyskanego dofinansowania wkładu własnego oraz wskaźnika równego ilorazowi liczby pełnych miesięcy pozostających do zakończenia okresu 5 lat i liczby 60.
+- **5)** dokonał wcześniejszej spłaty całości kredytu, o którym mowa w art. 3, lub jego części przekraczającej wysokość udzielonego dofinansowania wkładu własnego – część finansowego wsparcia udzielonego nabywcy podlega zwrotowi do Funduszu Dopłat w kwocie odpowiadającej iloczynowi kwoty uzyskanego dofinansowania wkładu własnego oraz wskaźnika równego ilorazowi liczby pełnych miesięcy pozostających do zakończenia okresu 5 lat i liczby 60.
 
 2. Wysokość zwrotu określa się na dzień wystąpienia zdarzenia, o którym mowa w ust. 1.
 
@@ -311,15 +328,9 @@ Art. 27–31.
 
 5. Nabywca w terminie 60 dni od dnia wystąpienia zdarzenia, o którym mowa w ust. 1, wpłaca środki z tytułu zwrotu części finansowego wsparcia na rachunek instytucji kredytującej wskazany w tym celu w umowie kredytu.
 
-6. Nabywca, który nie poinformował instytucji kredytującej o zdarzeniu, o którym mowa w ust. 1, jest obowiązany do niezwłocznego zwrotu na rachunek instytucji kredytującej wskazany w tym celu w umowie kredytu kwoty, o której mowa w ust. 1, wraz z odsetkami ustawowymi naliczonymi począwszy od dnia wystąpienia zdarzenia, z którym przepisy ustawy wiązały obowiązek złożenia stosownej informacji.
+6. Nabywca, który nie poinformował instytucji kredytującej o zdarzeniu, o którym mowa w ust. 1, jest obowiązany do niezwłocznego zwrotu na rachunek instytucji kredytującej wskazany w tym celu w umowie kredytu kwoty, o której mowa w ust. 1, wraz z odsetkami ustawowymi naliczonymi począwszy od dnia wystąpienia zdarzenia, z którym przepisy ustawy wiązały obowiązek złożenia stosownej informacji. 7Dodany przez art. 16 pkt 1 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), która weszła w życie z dniem 10 sierpnia 2022 r.. Ustalona do zwrotu łączna kwota finansowego wsparcia wraz z odsetkami ustawowymi, o której mowa w ust. 6, nie może być niższa niż równowartość kwoty, o której mowa w ust. 1.
 
-7. Ustalona do zwrotu łączna kwota finansowego wsparcia wraz z odsetkami ustawowymi, o której mowa w ust. 6, nie może być niższa niż równowartość kwoty, o której mowa w ust. 1.
-
-**Art. 15.**
-
-1. W przypadku prawomocnego skazania nabywcy za przestępstwo określone w art. 297 § 1 lub § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, 1726 i 1855) popełnione w związku z udzieleniem finansowego wsparcia na zasadach określonych w ustawie, nabywca jest obowiązany do niezwłocznego zwrotu do Funduszu Dopłat kwoty otrzymanego wsparcia wraz z odsetkami ustawowymi naliczonymi począwszy od dnia wypłaty przez instytucję kredytującą środków z tego tytułu. Zwrot środków dokonywany jest za pośrednictwem instytucji kredytującej poprzez rachunek wskazany w tym celu w umowie kredytu.
-
-2. Ustalona do zwrotu łączna kwota finansowego wsparcia wraz z odsetkami ustawowymi, o której mowa w ust. 1, nie może być niższa niż kwota otrzymanego wsparcia.
+**Art. 15.** 1Oznaczenie ust. 1 nadane przez art. 16 pkt 2 ustawy, o której mowa w odnośniku 4.. W przypadku prawomocnego skazania nabywcy za przestępstwo określone w art. 297 § 1 lub § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, 1726 i 1855) popełnione w związku z udzieleniem finansowego wsparcia na zasadach określonych w ustawie, nabywca jest obowiązany do niezwłocznego zwrotu do Funduszu Dopłat kwoty otrzymanego wsparcia wraz z odsetkami ustawowymi naliczonymi począwszy od dnia wypłaty przez instytucję kredytującą środków z tego tytułu. Zwrot środków dokonywany jest za pośrednictwem instytucji kredytującej poprzez rachunek wskazany w tym celu w umowie kredytu. 2Dodany przez art. 16 pkt 2 ustawy, o której mowa w odnośniku 4.. Ustalona do zwrotu łączna kwota finansowego wsparcia wraz z odsetkami ustawowymi, o której mowa w ust. 1, nie może być niższa niż kwota otrzymanego wsparcia.
 
 **Art. 16.** Nabywca jest obowiązany do niezwłocznego zwrotu do Funduszu Dopłat kwoty równej środkom dofinansowania wkładu własnego wypłaconego przez instytucję kredytującą na zasadach, o których mowa w art. 11 ust. 3, w przypadku spłaty przed dniem zawarcia umowy ustanowienia lub przeniesienia własności mieszkania całości kredytu, o którym mowa w art. 3, lub jego części, jeżeli w wyniku tej spłaty nie zostanie zachowany warunek, o którym mowa w art. 6 ust. 1 pkt 2, a także w przypadku utraty przez nabywcę uprawnienia do uzyskania finansowego wsparcia w związku ze zdarzeniem, o którym mowa w art. 10 ust. 5, z wyłączeniem przypadków, gdy naruszenie warunku, o którym mowa w art. 4 ust. 1 pkt 2, miało miejsce po dniu zawarcia umowy kredytu i było związane z uzyskaniem praw wskazanych w tym przepisie w drodze spadku. Zwrot środków dokonywany jest za pośrednictwem instytucji kredytującej poprzez rachunek wskazany w tym celu w umowie kredytu.
 
@@ -340,7 +351,7 @@ Art. 27–31.
 
 **Art. 19.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa do dnia 31 marca 2017 r. przedłoży Radzie Ministrów informację o realizacji celów niniejszej ustawy.
 
-#### Rozdział 4 Zwrot osobom fizycznym niektórych wydatków poniesionych w związku z budową pierwszego własnego mieszkania
+#### Rozdział 4
 
 **Art. 20.**
 
@@ -360,7 +371,7 @@ Art. 27–31.
     - **b)**
 
 - **4)** osoba fizyczna do końca roku kalendarzowego, w którym wydano pozwolenie na budowę lokalu mieszkalnego albo domu jednorodzinnego albo dokonano zgłoszenia budowy, nie ukończyła 36 lat;
-- **5)** do dnia złożenia wniosku o zwrot wydatków osoba fizyczna nie była: właścicielem budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego, osobą, której przysługuje spółdzielcze własnościowe prawo do lokalu, którego przedmiotem jest lokal mieszkalny lub dom jednorodzinny, właścicielem lub współwłaścicielem budynku, jeżeli jego udział w przypadku zniesienia współwłasności obejmowałby co najmniej jeden lokal mieszkalny z wyłączeniem domu jednorodzinnego albo lokalu mieszkalnego, o którym mowa w pkt 1.
+- **5)** do dnia złożenia wniosku o zwrot wydatków osoba fizyczna nie była: właścicielem budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego, osobą, której przysługuje spółdzielcze własnościowe prawo do lokalu, którego przedmiotem jest lokal mieszkalny lub dom jednorodzinny, właścicielem lub współwłaścicielem budynku, jeżeli jego udział w przypadku zniesienia współwłasności obejmowałby co najmniej jeden lokal mieszkalny – z wyłączeniem domu jednorodzinnego albo lokalu mieszkalnego, o którym mowa w pkt 1.
     - **a)**
     - **b)**
     - **c)**
@@ -379,13 +390,13 @@ Art. 27–31.
 
 - **1)** 65,22% – dla stawki 23%
 - **2)** (uchylony)
-- **3)** (uchylony) kwoty podatku VAT wynikającej z faktur.
+- **3)** (uchylony) – kwoty podatku VAT wynikającej z faktur.
 
 5. Jeżeli wniosek o zwrot wydatków zostanie złożony w okresie stosowania stawki wymienionej w:
 
 - **1)** ust. 4 pkt 1 – limit kwoty zwrotu wydatków, o którym mowa w ust. 3, wynosi nie więcej niż 12,195%
 - **2)** (uchylony)
-- **3)** (uchylony) kwoty stanowiącej odpowiedni iloczyn, o którym mowa w ust. 3.
+- **3)** (uchylony) – kwoty stanowiącej odpowiedni iloczyn, o którym mowa w ust. 3.
 
 6. Kwota zwrotu wydatków obliczona zgodnie z zasadami określonymi w ust. 3–5 dotyczy sumy wszystkich wydatków udokumentowanych w sposób określony w ust. 2 i podlega zaokrągleniu do pełnych złotych.
 
@@ -456,17 +467,17 @@ Art. 27–31.
 
 9. Oprocentowanie, o którym mowa w ust. 7, nie przysługuje, jeżeli winę za niewypłacenie kwoty zwrotu wydatków w terminie, o którym mowa w ust. 4, ponosi osoba fizyczna lub opóźnienie w wypłaceniu kwoty zwrotu wydatków powstało z przyczyn niezależnych od urzędu skarbowego.
 
-**Art. 25.** Jeżeli jest to uzasadnione ochroną informacji niejawnych i wymogami bezpieczeństwa państwa, do przyjmowania wniosków o zwrot wydatków, wydawania decyzji określających kwotę zwrotu wydatków oraz do dokonywania zwrotu wydatków uprawnione są organy wymienione w art. 13a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm.).
+**Art. 25.** Jeżeli jest to uzasadnione ochroną informacji niejawnych i wymogami bezpieczeństwa państwa, do przyjmowania wniosków o zwrot wydatków, wydawania decyzji określających kwotę zwrotu wydatków oraz do dokonywania zwrotu wydatków uprawnione są organy wymienione w art. 13a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974, 1265, 1301, 1933 i 2180.).
 
 **Art. 26.** W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących
+#### Rozdział 5
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6
 
 **Art. 32.**
 
-1. Osoba fizyczna, która przed dniem 1 stycznia 2014 r. poniosła wydatki na zakup materiałów budowlanych, o których mowa w ustawie z dnia 29 sierpnia 2005 r. o zwrocie osobom fizycznym niektórych wydatków związanych z budownictwem mieszkaniowym (Dz. U. poz. 1468, z późn. zm.), ma prawo ubiegać się po dniu 31 grudnia 2013 r. o zwrot części tych wydatków na dotychczasowych zasadach.
+1. Osoba fizyczna, która przed dniem 1 stycznia 2014 r. poniosła wydatki na zakup materiałów budowlanych, o których mowa w ustawie z dnia 29 sierpnia 2005 r. o zwrocie osobom fizycznym niektórych wydatków związanych z budownictwem mieszkaniowym (Dz. U. poz. 1468, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. poz. 138 i 1382, z 2010 r. poz. 338, 1228 i 1726, z 2011 r. poz. 1016, z 2012 r. poz. 951 i 1529 oraz z 2013 r. poz. 1608.), ma prawo ubiegać się po dniu 31 grudnia 2013 r. o zwrot części tych wydatków na dotychczasowych zasadach.
 
 2. Wniosek o zwrot części wydatków poniesionych na zakup materiałów budowlanych i udokumentowanych fakturą wystawioną dla osoby fizycznej w okresie:
 
@@ -480,7 +491,7 @@ Art. 27–31.
 
 4. Do spraw wszczętych, a niezakończonych przed dniem 1 stycznia 2014 r. stosuje się przepisy dotychczasowe.
 
-**Art. 33.** Przepis art. 21 ust. 1 pkt 123 ustawy zmienianej w art. 27, w brzmieniu obowiązującym przed dniem 1 stycznia 2014 r., stosuje się do otrzymanych po dniu 31 grudnia 2013 r. kwot zwrotu.
+**Art. 33.** Przepis art. 21 ust. 1 pkt 123 ustawy zmienianej w art. 27Artykuł 27 zawiera zmiany do ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych., w brzmieniu obowiązującym przed dniem 1 stycznia 2014 r., stosuje się do otrzymanych po dniu 31 grudnia 2013 r. kwot zwrotu.
 
 **Art. 34.** Wnioski o dofinansowanie wkładu własnego, o których mowa w art. 10 ust. 1, mogą być składane w instytucjach kredytujących nie wcześniej niż od dnia 1 stycznia 2014 r.
 
@@ -505,7 +516,7 @@ Art. 27–31.
 1. W przypadku gdy łączna kwota wynikająca z wniosków o dofinansowanie wkładu własnego z terminem wypłaty wsparcia z Funduszu Dopłat przypadającym w danym roku, przekazanych do Banku Gospodarstwa Krajowego na zasadach, o których mowa w art. 10 ust. 9, osiągnie równowartość:
 
 - **1)** kwoty zaplanowanej na wypłatę finansowego wsparcia w ustawie budżetowej, pomniejszonej o wypłacone od początku roku oraz przyznane i podlegające wypłacie w danym roku dodatkowe finansowe wsparcie, o którym mowa w art. 8 ust. 1 – w przypadku wniosków z terminem wypłaty wsparcia przypadającym w roku przekazania do Banku Gospodarstwa Krajowego wniosku, lub
-- **2)** 50% kwoty limitu środków, określonego dla roku wypłaty wsparcia w art. 36 ust. 1 – w przypadku wniosków z terminem wypłaty wsparcia przypadającym po roku przekazania do Banku Gospodarstwa Krajowego wniosku Bank Gospodarstwa Krajowego ogłasza w Biuletynie Informacji Publicznej informację o wstrzymaniu przyjmowania wniosków o dofinansowanie wkładu własnego z terminem wypłaty wsparcia przypadającym na dany rok, a instytucje kredytujące wstrzymują przyjmowanie takich wniosków o dofinansowanie wkładu własnego, począwszy od dnia następującego po dniu ogłoszenia informacji przez Bank Gospodarstwa Krajowego.
+- **2)** 50% kwoty limitu środków, określonego dla roku wypłaty wsparcia w art. 36 ust. 1 – w przypadku wniosków z terminem wypłaty wsparcia przypadającym po roku przekazania do Banku Gospodarstwa Krajowego wniosku – Bank Gospodarstwa Krajowego ogłasza w Biuletynie Informacji Publicznej informację o wstrzymaniu przyjmowania wniosków o dofinansowanie wkładu własnego z terminem wypłaty wsparcia przypadającym na dany rok, a instytucje kredytujące wstrzymują przyjmowanie takich wniosków o dofinansowanie wkładu własnego, począwszy od dnia następującego po dniu ogłoszenia informacji przez Bank Gospodarstwa Krajowego.
 
 2. Wnioski o dofinansowanie wkładu własnego z terminem wypłaty wsparcia przypadającym w roku, którego dotyczyła informacja, o której mowa w ust. 1, nieprzekazane do dnia ogłoszenia tej informacji do Banku Gospodarstwa Krajowego na zasadach, o których mowa w art. 10 ust. 9, pozostawia się bez rozpatrzenia.
 
@@ -518,13 +529,13 @@ Art. 27–31.
 6. W przypadku wniosków o spłatę części kredytu przekazanych do Banku Gospodarstwa Krajowego po dniu, w którym łączna kwota wynikająca z wniosków:
 
 - **1)** o dofinansowanie wkładu własnego przekazanych do Banku Gospodarstwa Krajowego na zasadach, o których mowa w art. 10 ust. 9, z terminem wypłaty wsparcia z Funduszu Dopłat przypadającym w bieżącym roku oraz
-- **2)** o spłatę części kredytu przekazanych do Banku Gospodarstwa Krajowego od początku bieżącego roku na zasadach, o których mowa w art. 12 ust. 3 osiągnie równowartość kwoty zaplanowanej w ustawie budżetowej na wypłatę finansowego wsparcia, Bank Gospodarstwa Krajowego dokonuje czynności, o której mowa w art. 13 ust. 1 pkt 2, na początku kolejnego roku, niezwłocznie po wpłynięciu na rachunek Funduszu Dopłat pierwszej transzy środków zaplanowanych na wypłatę finansowego wsparcia z Funduszu Dopłat.
+- **2)** o spłatę części kredytu przekazanych do Banku Gospodarstwa Krajowego od początku bieżącego roku na zasadach, o których mowa w art. 12 ust. 3 – osiągnie równowartość kwoty zaplanowanej w ustawie budżetowej na wypłatę finansowego wsparcia, Bank Gospodarstwa Krajowego dokonuje czynności, o której mowa w art. 13 ust. 1 pkt 2, na początku kolejnego roku, niezwłocznie po wpłynięciu na rachunek Funduszu Dopłat pierwszej transzy środków zaplanowanych na wypłatę finansowego wsparcia z Funduszu Dopłat.
 
 7. Bank Gospodarstwa Krajowego ogłasza w Biuletynie Informacji Publicznej informację o poziomie wykorzystania kwoty zaplanowanej na udzielanie finansowego wsparcia w ustawie budżetowej oraz o poziomach wykorzystania kwot limitów środków, o których mowa w art. 36 ust. 1, dla kolejnych lat, według stanu na koniec każdego miesiąca.
 
 8. Informacje, o których mowa w ust. 1 i 7, Bank Gospodarstwa Krajowego przekazuje do ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
 
-**Art. 38.** Traci moc ustawa z dnia 29 sierpnia 2005 r. o zwrocie osobom fizycznym niektórych wydatków związanych z budownictwem mieszkaniowym (Dz. U. poz. 1468, z późn. zm.).
+**Art. 38.** Traci moc ustawa z dnia 29 sierpnia 2005 r. o zwrocie osobom fizycznym niektórych wydatków związanych z budownictwem mieszkaniowym (Dz. U. poz. 1468, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. poz. 138 i 1382, z 2010 r. poz. 338, 1228 i 1726, z 2011 r. poz. 1016, z 2012 r. poz. 951 i 1529 oraz z 2013 r. poz. 1608.).
 
-**Art. 39.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 27 pkt 1, art. 32, art. 33 i art. 38, które wchodzą w życie z dniem 1 stycznia 2014 r.
+**Art. 39.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 8 listopada 2013 r., z wyjątkiem art. 27 pkt 1, art. 32, art. 33 i art. 38, które wchodzą w życie z dniem 1 stycznia 2014 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 974, 1137, 1301, 1488, 1561 i 2180. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2447 oraz z 2022 r. poz. 830, 872, 1358, 1488, 1692 i 1933. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 655, 1079, 1116, 1383, 1700, 1730 i 2089. 4) Dodany przez art. 16 pkt 1 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), która weszła w życie z dniem 10 sierpnia 2022 r. 5) Oznaczenie ust. 1 nadane przez art. 16 pkt 2 ustawy, o której mowa w odnośniku 4. 6) Dodany przez art. 16 pkt 2 ustawy, o której mowa w odnośniku 4. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974, 1265, 1301, 1933 i 2180. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. poz. 138 i 1382, z 2010 r. poz. 338, 1228 i 1726, z 2011 r. poz. 1016, z 2012 r. poz. 951 i 1529 oraz z 2013 r. poz. 1608. 9) Artykuł 27 zawiera zmiany do ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. 10) Ustawa została ogłoszona w dniu 8 listopada 2013 r.
 

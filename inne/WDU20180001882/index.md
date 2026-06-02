@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 28 września 2018 r. w sprawie szczegółowego trybu postępowania wyjaśniającego i dyscyplinarnego w sprawach studentów, a także sposobu wykonywania kar dyscyplinarnych i ich zatarcia
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 28 września 2018 r. w sprawie szczegółowego trybu postępowania wyjaśniającego i dyscyplinarnego w sprawach studentów, a także sposobu wykonywania kar dyscyplinarnych i ich zatarcia Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-28 |
 | Data wydania | 2018-10-03 |
-| Wejście w życie | 2018-10-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001882) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1882/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Postępowanie wyjaśniające Rozdział 3 – Postępowanie dyscyplinarne Rozdział 4 – Wykonywanie i zatarcie kar dyscyplinarnych Rozdział 5 – Wznowienie postępowania dyscyplinarnego Rozdział 6 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 321 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -68,6 +68,7 @@ od których daty doręczenia biegną terminy;
 kierowanych do studenta, którego czynu dotyczy postępowanie wyjaśniające;
 3)
 kierowanych do obwinionego.
+Postępowanie wyjaśniające
 § 4.
 1.
 Rektor, po otrzymaniu wiadomości o popełnieniu przez studenta czynu mającego znamiona przewinienia dyscyplinarnego, poleca rzecznikowi dyscyplinarnemu wszczęcie postępowania wyjaśniającego.
@@ -92,7 +93,7 @@ Osobie przesłuchiwanej należy umożliwić swobodne wypowiedzenie się w granic
 3.
 Przed rozpoczęciem przesłuchania świadka należy go uprzedzić o odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy. Świadek podpisuje oświadczenie, że został pouczony o tej odpowiedzialności i że zrozumiał to pouczenie.
 4.
-Świadka należy uprzedzić o treści odpowiednio stosowanego art. 182 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904, z późn. zm.) oraz o treści odpowiednio stosowanych art. 183 i art. 185 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, jeżeli ujawnią się okoliczności objęte tymi przepisami.
+Świadka należy uprzedzić o treści odpowiednio stosowanego art. 182 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 5, 106, 138, 201, 730, 771, 942, 1387 i 1467.) oraz o treści odpowiednio stosowanych art. 183 i art. 185 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, jeżeli ujawnią się okoliczności objęte tymi przepisami.
 5.
 Jeżeli stwierdzenie okoliczności mających istotne znaczenie dla rozstrzygnięcia sprawy wymaga wiadomości specjalnych, rzecznik dyscyplinarny może zasięgnąć opinii biegłego.
 6.
@@ -150,6 +151,7 @@ uzasadnienie.
 Do wniosku o ukaranie dołącza się akta postępowania wyjaśniającego.
 3.
 Rzecznik dyscyplinarny niezwłocznie informuje rektora, studenta, którego czynu dotyczyło postępowanie wyjaśniające, i jego obrońcę, jeżeli został ustanowiony, o skierowaniu do komisji dyscyplinarnej wniosku o ukaranie.
+Postępowanie dyscyplinarne
 § 13.
 1.
 Przewodniczący komisji dyscyplinarnej bada, czy wniosek o ukaranie zawiera elementy, o których mowa w § 12 ust. 1, oraz czy zostały do niego dołączone akta postępowania wyjaśniającego.
@@ -343,12 +345,12 @@ wszczęcia postępowania dyscyplinarnego,
 2)
 przyjęcia odwołania,
 3)
-wznowienia postępowania dyscyplinarnego
-kończy postępowanie w sprawie.
+wznowienia postępowania dyscyplinarnego – kończy postępowanie w sprawie.
 5.
 Uwzględniając zażalenie, odwoławcza komisja dyscyplinarna uchyla zaskarżone postanowienie i rozstrzyga w przedmiocie wszczęcia albo zawieszenia postępowania dyscyplinarnego, przyjęcia odwołania albo wznowienia postępowania dyscyplinarnego.
 § 31.
 Do postępowania przed odwoławczą komisją dyscyplinarną w sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy o postępowaniu przed komisją dyscyplinarną.
+Wykonywanie i zatarcie kar dyscyplinarnych
 § 32.
 1.
 Prawomocne orzeczenie dyscyplinarne doręcza się rektorowi i włącza do teczki akt osobowych studenta.
@@ -356,6 +358,7 @@ Prawomocne orzeczenie dyscyplinarne doręcza się rektorowi i włącza do teczki
 Rektor, niezwłocznie po otrzymaniu prawomocnego orzeczenia komisji dyscyplinarnej, zarządza wykonanie orzeczonej kary dyscyplinarnej.
 3.
 Z chwilą zatarcia orzeczonej kary dyscyplinarnej rektor zarządza usunięcie z teczki akt osobowych studenta orzeczenia dyscyplinarnego oraz zniszczenie dokumentacji postępowania wyjaśniającego i postępowania dyscyplinarnego.
+Wznowienie postępowania dyscyplinarnego
 § 33.
 1.
 O wznowieniu postępowania dyscyplinarnego orzeka, na posiedzeniu niejawnym, komisja dyscyplinarna, która wydała orzeczenie kończące postępowanie dyscyplinarne, w innym składzie orzekającym.
@@ -363,19 +366,31 @@ O wznowieniu postępowania dyscyplinarnego orzeka, na posiedzeniu niejawnym, kom
 Postanowienie w sprawie wznowienia postępowania doręcza się osobom, o których mowa w art. 314 ust. 7 ustawy.
 3.
 Na postanowienie komisji dyscyplinarnej o odmowie wznowienia postępowania dyscyplinarnego stronom przysługuje zażalenie do odwoławczej komisji dyscyplinarnej. Zażalenie wnosi się w terminie 7 dni od dnia doręczenia postanowienia.
+Przepis końcowy
 § 34.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 5, 106, 138, 201, 730, 771, 942, 1387 i 1467. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 6 grudnia 2006 r. w sprawie szczegółowego trybu postępowania wyjaśniającego i dyscyplinarnego wobec studentów (Dz. U. poz. 1707), które utraciło moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 6 grudnia 2006 r. w sprawie szczegółowego trybu postępowania wyjaśniającego i dyscyplinarnego wobec studentów (Dz. U. poz. 1707), które utraciło moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669). 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 5, 106, 138, 201, 730, 771, 942, 1387 i 1467. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 6 grudnia 2006 r. w sprawie szczegółowego trybu postępowania wyjaśniającego i dyscyplinarnego wobec studentów (Dz. U. poz. 1707), które utraciło moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Postępowanie wyjaśniające
+#### Rozdział 2 – Postępowanie wyjaśniające
 
-#### Rozdział 3 Postępowanie dyscyplinarne
+#### Rozdział 3 – Postępowanie dyscyplinarne
 
-#### Rozdział 4 Wykonywanie i zatarcie kar dyscyplinarnych
+#### Rozdział 4 – Wykonywanie i zatarcie kar dyscyplinarnych
 
-#### Rozdział 5 Wznowienie postępowania dyscyplinarnego
+#### Rozdział 5 – Wznowienie postępowania dyscyplinarnego
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

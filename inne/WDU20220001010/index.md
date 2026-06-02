@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-07 |
 | Data wydania | 2022-05-13 |
-| Wejście w życie | 2022-05-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001010) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1010/text.pdf) |
 
@@ -38,7 +37,7 @@ source: "eli-html"
 2. W przypadku:
 
 - **1)** braku możliwości podjęcia przez doktoranta kształcenia w innej szkole doktorskiej w danej dyscyplinie albo
-- **2)** nieuzyskania zgody, o której mowa w ust. 1a podmiot prowadzący szkołę doktorską, w której zaprzestano kształcenia, pokrywa temu doktorantowi koszty postępowania w sprawie nadania stopnia doktora w trybie eksternistycznym. ” ;
+- **2)** nieuzyskania zgody, o której mowa w ust. 1a – podmiot prowadzący szkołę doktorską, w której zaprzestano kształcenia, pokrywa temu doktorantowi koszty postępowania w sprawie nadania stopnia doktora w trybie eksternistycznym. ” ;
 - **2)** w art. 221 po ust. 12 dodaje się ust. 12a i 12b w brzmieniu: „
 
 12a. W przypadku utraty przez podmiot habilitujący uprawnienia do nadawania stopnia doktora habilitowanego w danej dyscyplinie:
@@ -55,14 +54,14 @@ source: "eli-html"
 
 - **1)** naruszenia obowiązków, o których mowa w art. 188, art. 206 ust. 1 i 2, art. 222 oraz art. 358; ” .
 
-**Art. 2.** W ustawie z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 39 i 534, z 2020 r. poz. 695, 875 i 1086 oraz z 2021 r. poz. 1630 i 2232.) wprowadza się następujące zmiany:
 
 - **1)** w art. 179 ust. 4 otrzymuje brzmienie: „
 
 4. Prowadzone w pierwszej instancji:
 
 - **1)** postępowania habilitacyjne i postępowania o nadanie tytułu profesora, o których mowa w ust. 1 i 2, niezakończone do dnia 31 grudnia 2022 r.,
-- **2)** przewody doktorskie niezakończone do dnia 31 grudnia 2023 r. odpowiednio umarza się albo zamyka się. ” ;
+- **2)** przewody doktorskie niezakończone do dnia 31 grudnia 2023 r. – odpowiednio umarza się albo zamyka się. ” ;
 - **2)** po art. 179 dodaje się art. 179a w brzmieniu: „
 
 **Art. 179a.**
@@ -85,7 +84,7 @@ source: "eli-html"
 1. W przypadku uzyskania w wyniku pierwszej ewaluacji jakości działalności naukowej, o której mowa w art. 265 ust. 1 ustawy, o której mowa w art. 1, przez podmiot prowadzący szkołę doktorską kategorii naukowej B w co najmniej jednej dyscyplinie, w której jest prowadzone kształcenie w tej szkole:
 
 - **1)** kształcenie w dyscyplinie albo w dyscyplinach, w których podmiot uzyskał tę kategorię naukową, może być prowadzone w tej szkole wyłącznie dla doktorantów, którzy je rozpoczęli nie później niż w roku akademickim, w którym została przyznana ta kategoria naukowa,
-- **2)** szkoła doktorska może być prowadzona po zakończeniu roku akademickiego, w którym została przyznana ta kategoria naukowa, mimo zaprzestania spełniania warunków, o których mowa w art. 198 ust. 3–5 ustawy, o której mowa w art. 1 jednak nie dłużej niż do końca roku akademickiego, w którym podmiot uzyska w danej dyscyplinie albo w danych dyscyplinach kategorię naukową albo kategorie naukowe w wyniku drugiej ewaluacji jakości działalności naukowej.
+- **2)** szkoła doktorska może być prowadzona po zakończeniu roku akademickiego, w którym została przyznana ta kategoria naukowa, mimo zaprzestania spełniania warunków, o których mowa w art. 198 ust. 3–5 ustawy, o której mowa w art. 1 – jednak nie dłużej niż do końca roku akademickiego, w którym podmiot uzyska w danej dyscyplinie albo w danych dyscyplinach kategorię naukową albo kategorie naukowe w wyniku drugiej ewaluacji jakości działalności naukowej.
 
 2. W przypadku, o którym mowa w ust. 1 pkt 2, podmiot prowadzący szkołę doktorską nie może prowadzić rekrutacji do tej szkoły.
 
@@ -94,5 +93,5 @@ source: "eli-html"
 - **1)** uzyskał kategorię naukową B w danej dyscyplinie albo w danych dyscyplinach;
 - **2)** zaprzestał spełniania warunków, o których mowa w art. 198 ust. 3–5 ustawy, o której mowa w art. 1. ” .
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 39 i 534, z 2020 r. poz. 695, 875 i 1086 oraz z 2021 r. poz. 1630 i 2232.
 

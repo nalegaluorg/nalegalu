@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-09 |
 | Data wydania | 2016-09-16 |
-| Wejście w życie | 2016-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001482) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1482/text.pdf) |
 
@@ -47,9 +46,9 @@ wniosku – rozumie się przez to wniosek o udzielenie dodatkowego prawa ochronn
 3)
 zezwoleniu na wprowadzenie produktu na rynek – rozumie się przez to również pozwolenie na dopuszczenie do obrotu produktu leczniczego;
 4)
-rozporządzeniu nr 469/2009 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 469/2009 z dnia 6 maja 2009 r. dotyczące dodatkowego świadectwa ochronnego dla produktów leczniczych (Dz. Urz. UE L 152 z 16.06.2009, str. 1, z późn. zm.);
+rozporządzeniu nr 469/2009 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 469/2009 z dnia 6 maja 2009 r. dotyczące dodatkowego świadectwa ochronnego dla produktów leczniczych (Dz. Urz. UE L 152 z 16.06.2009, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 112 z 24.04.2012, str. 21.);
 5)
-rozporządzeniu nr 1610/96 – rozumie się przez to rozporządzenie (WE) nr 1610/96 Parlamentu Europejskiego i Rady z dnia 23 lipca 1996 r. dotyczące stworzenia dodatkowego świadectwa ochronnego dla środków ochrony roślin (Dz. Urz. WE L 198 z 08.08.1996, str. 30, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 19, str. 335).
+rozporządzeniu nr 1610/96 – rozumie się przez to rozporządzenie (WE) nr 1610/96 Parlamentu Europejskiego i Rady z dnia 23 lipca 1996 r. dotyczące stworzenia dodatkowego świadectwa ochronnego dla środków ochrony roślin (Dz. Urz. WE L 198 z 08.08.1996, str. 30, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 23.09.2003, str. 33, Dz. Urz. UE L 157 z 21.06.2005, str. 203 oraz Dz. Urz. UE L 112 z 24.04.2012, str. 21.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 19, str. 335).
 § 3.
 1.
 Wniosek, oprócz informacji, o których mowa odpowiednio w art. 8 ust. 1 rozporządzenia nr 469/2009 i w art. 8 ust. 1 rozporządzenia nr 1610/96, zawiera:
@@ -95,11 +94,11 @@ Przepisy § 3–6 stosuje się odpowiednio do wniosku o przedłużenie okresu, n
 2.
 Do wniosku, o którym mowa w ust. 1, oprócz dokumentów, o których mowa w art. 8 ust. 1 lit. d rozporządzenia nr 469/2009, dołącza się:
 1)
-oświadczenie, że wnioskodawca nie uzyskał przedłużenia ochrony rynkowej produktu w związku ze znaczną korzyścią kliniczną, o której mowa w art. 36 ust. 5 rozporządzenia (WE) nr 1901/2006 Parlamentu Europejskiego i Rady z dnia 12 grudnia 2006 r. w sprawie produktów leczniczych stosowanych w pediatrii oraz zmieniającego rozporządzenie (EWG) nr 1768/92, dyrektywę 2001/20/WE, dyrektywę 2001/83/WE i rozporządzenie (WE) nr 726/2004 (Dz. Urz. UE L 378 z 27.12.2006, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1901/2006”;
+oświadczenie, że wnioskodawca nie uzyskał przedłużenia ochrony rynkowej produktu w związku ze znaczną korzyścią kliniczną, o której mowa w art. 36 ust. 5 rozporządzenia (WE) nr 1901/2006 Parlamentu Europejskiego i Rady z dnia 12 grudnia 2006 r. w sprawie produktów leczniczych stosowanych w pediatrii oraz zmieniającego rozporządzenie (EWG) nr 1768/92, dyrektywę 2001/20/WE, dyrektywę 2001/83/WE i rozporządzenie (WE) nr 726/2004 (Dz. Urz. UE L 378 z 27.12.2006, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 378 z 27.12.2006, str. 20.), zwanego dalej „rozporządzeniem nr 1901/2006”;
 2)
 oświadczenie, że produkt nie jest oznaczony jako sierocy, o czym mowa w art. 36 ust. 4 rozporządzenia nr 1901/2006.
 § 8.
 Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 29 lipca 2003 r. w sprawie składania i rozpatrywania wniosków o udzielenie dodatkowego prawa ochronnego dla produktów leczniczych i produktów ochrony roślin (Dz. U. poz. 1361 oraz z 2014 r. poz. 1102), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 11 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy – Prawo własności przemysłowej oraz niektórych innych ustaw (Dz. U. poz. 1266). 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 112 z 24.04.2012, str. 21. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 23.09.2003, str. 33, Dz. Urz. UE L 157 z 21.06.2005, str. 203 oraz Dz. Urz. UE L 112 z 24.04.2012, str. 21. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 378 z 27.12.2006, str. 20. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 29 lipca 2003 r. w sprawie składania i rozpatrywania wniosków o udzielenie dodatkowego prawa ochronnego dla produktów leczniczych i produktów ochrony roślin (Dz. U. poz. 1361 oraz z 2014 r. poz. 1102), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 11 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy – Prawo własności przemysłowej oraz niektórych innych ustaw (Dz. U. poz. 1266).
 

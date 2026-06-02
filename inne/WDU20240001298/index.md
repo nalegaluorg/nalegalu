@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 23 sierpnia 2024 r. zmieniające rozporządzenie w sprawie refundacji kosztów szkolenia pracowników niepełnosprawnych
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 23 sierpnia 2024 r. zmieniające rozporządzenie w sprawie refundacji kosztów szkolenia pracowników niepełnosprawnych Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715).
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-08-23 |
 | Data wydania | 2024-08-27 |
-| Wejście w życie | 2024-08-28 |
 | Ostatnia zmiana | 2025-08-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001298) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1298/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 41 ust. 5 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089 i 1165) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 23 grudnia 2014 r. w sprawie refundacji kosztów szkolenia pracowników niepełnosprawnych (Dz. U. z 2022 r. poz. 1213) § 10a otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 23 grudnia 2014 r. w sprawie refundacji kosztów szkolenia pracowników niepełnosprawnych (Dz. U. z 2022 r. poz. 1213) § 10a otrzymuje brzmienie: „
 § 10a.
-Refundacja stanowiąca pomoc publiczną jest udzielana do dnia 30 czerwca 2027 r.
-” .
+Refundacja stanowiąca pomoc publiczną jest udzielana do dnia 30 czerwca 2027 r. ” .
 § 2.
 Do wniosków, o których mowa w § 4 ust. 1 rozporządzenia zmienianego w § 1, które zostały złożone i nie zostały rozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia albo zostały rozpatrzone, ale do dnia wejścia w życie niniejszego rozporządzenia na ich podstawie nie zostały zawarte umowy, o których mowa w § 7 ust. 1 rozporządzenia zmienianego w § 1, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
@@ -42,6 +39,5 @@ Do umów, o których mowa w § 7 ust. 1 rozporządzenia zmienianego w § 1, któ
 2.
 Do umów, o których mowa w § 7 ust. 1 rozporządzenia zmienianego w § 1, które zostały zawarte od dnia 1 lipca 2024 r. do dnia poprzedzającego dzień wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715).
 

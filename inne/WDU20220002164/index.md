@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-15 |
 | Data wydania | 2022-10-21 |
-| Wejście w życie | 2022-10-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002164) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2164/text.pdf) |
+
+System Informacyjny o Dostępie do Usług Stacjonarnego Internetu Szerokopasmowego
 
 **Art. 1.** W ustawie z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2022 r. poz. 884) wprowadza się następujące zmiany:
 
@@ -48,13 +49,13 @@ source: "eli-html"
 
 - **3)** po rozdziale 2b dodaje się rozdział 2c w brzmieniu: „
 
-#### Rozdział 2c System Informacyjny o Dostępie do Usług Stacjonarnego Internetu Szerokopasmowego
+#### Rozdział 2c
 
 **Art. 29j.** System Informacyjny o Dostępie do Usług Stacjonarnego Internetu Szerokopasmowego, zwany dalej „SIDUSIS”, jest publiczną bazą danych, prowadzoną przez ministra właściwego do spraw informatyzacji, zawierającą informacje o punktach adresowych, w których:
 
 - **1)** jest możliwe świadczenie,
 - **2)** jest planowane zapewnienie możliwości świadczenia w wyniku realizacji inwestycji finansowanych ze środków publicznych,
-- **3)** w ciągu 3 lat jest planowane zapewnienie możliwości świadczenia w wyniku realizacji inwestycji ze środków prywatnych za pomocą stacjonarnych lub ruchomych publicznych sieci telekomunikacyjnych usług transmisji danych zapewniających stacjonarny szerokopasmowy dostęp do Internetu.
+- **3)** w ciągu 3 lat jest planowane zapewnienie możliwości świadczenia w wyniku realizacji inwestycji ze środków prywatnych – za pomocą stacjonarnych lub ruchomych publicznych sieci telekomunikacyjnych usług transmisji danych zapewniających stacjonarny szerokopasmowy dostęp do Internetu.
 
 1. W celu prezentowania w SIDUSIS informacji, o których mowa w art. 29j pkt 1, podmioty, o których mowa w art. 29 ust. 2, przekazują do SIDUSIS informacje o:
 
@@ -63,12 +64,12 @@ source: "eli-html"
 - **3)** maksymalnej przepustowości oferowanej usługi,
 - **4)** medium transmisyjnym infrastruktury telekomunikacyjnej,
 - **5)** danych kontaktowych przedstawiciela podmiotu, o którym mowa w pkt 1, umożliwiających zamówienie usługi,
-- **6)** adresie strony internetowej zawierającej ofertę z cennikiem oraz aktualizują je albo przekazują oświadczenie o aktualności dotychczas przekazanych informacji do 10. dnia kolejnego miesiąca, według stanu na ostatni dzień miesiąca poprzedzającego – w przypadku podmiotu będącego mikroprzedsiębiorcą, małym przedsiębiorcą lub średnim przedsiębiorcą lub umożliwiającego świadczenie za pomocą stacjonarnych lub ruchomych publicznych sieci telekomunikacyjnych usług transmisji danych zapewniających stacjonarny szerokopasmowy dostęp do Internetu w nie więcej niż 50 000 punktach adresowych, lub w każdy piątek, a w przypadku dni ustawowo wolnych od pracy w drugi kolejny dzień roboczy – w przypadku podmiotu, który umożliwia świadczenie za pomocą stacjonarnych lub publicznych ruchomych sieci telekomunikacyjnych usług transmisji danych zapewniających stacjonarny szerokopasmowy dostęp do Internetu w nie mniej niż 50 000 punktach adresowych.
+- **6)** adresie strony internetowej zawierającej ofertę z cennikiem – oraz aktualizują je albo przekazują oświadczenie o aktualności dotychczas przekazanych informacji do 10. dnia kolejnego miesiąca, według stanu na ostatni dzień miesiąca poprzedzającego – w przypadku podmiotu będącego mikroprzedsiębiorcą, małym przedsiębiorcą lub średnim przedsiębiorcą lub umożliwiającego świadczenie za pomocą stacjonarnych lub ruchomych publicznych sieci telekomunikacyjnych usług transmisji danych zapewniających stacjonarny szerokopasmowy dostęp do Internetu w nie więcej niż 50 000 punktach adresowych, lub w każdy piątek, a w przypadku dni ustawowo wolnych od pracy w drugi kolejny dzień roboczy – w przypadku podmiotu, który umożliwia świadczenie za pomocą stacjonarnych lub publicznych ruchomych sieci telekomunikacyjnych usług transmisji danych zapewniających stacjonarny szerokopasmowy dostęp do Internetu w nie mniej niż 50 000 punktach adresowych.
 
 2. Informacje, o których mowa w ust. 1, w zakresie dotyczącym usług detalicznych, przekazuje się odrębnie dla punktów adresowych, w których dostarczenie usługi, o której mowa w art. 29j, nie wymaga od podmiotu przeprowadzenia inwestycji związanej z pozyskaniem dodatkowych zgód i zezwoleń innych niż udzielanych przez użytkownika końcowego zainteresowanego korzystaniem z usługi oraz:
 
 - **1)** nie wymaga albo
-- **2)** wymaga od tego podmiotu weryfikacji kosztu lub skomplikowania lub czasu przeprowadzenia prac przyłączeniowych do lokalizacji użytkownika końcowego, innej niż dokonywanej w momencie bezpośrednio poprzedzającym prace przyłączeniowe, lub przeprowadzenia tych prac, których koszt lub skomplikowanie lub czas wykonania mogą być wyższe niż przeciętne koszty lub skomplikowanie lub czas wykonania prac przyłączeniowych na rynku telekomunikacyjnym.
+- **2)** wymaga – od tego podmiotu weryfikacji kosztu lub skomplikowania lub czasu przeprowadzenia prac przyłączeniowych do lokalizacji użytkownika końcowego, innej niż dokonywanej w momencie bezpośrednio poprzedzającym prace przyłączeniowe, lub przeprowadzenia tych prac, których koszt lub skomplikowanie lub czas wykonania mogą być wyższe niż przeciętne koszty lub skomplikowanie lub czas wykonania prac przyłączeniowych na rynku telekomunikacyjnym.
 
 3. W celu prezentowania w SIDUSIS informacji, o których mowa w art. 29j pkt 2, SIDUSIS umożliwia wymianę informacji między bazami danych o przebiegu realizacji inwestycji finansowanych ze środków publicznych zapewniających możliwość świadczenia usług transmisji danych zapewniających stacjonarny szerokopasmowy dostęp do Internetu.
 
@@ -79,7 +80,7 @@ source: "eli-html"
 - **3)** maksymalnej przepustowości usług, które będą świadczone,
 - **4)** medium transmisyjnym infrastruktury telekomunikacyjnej planowanej w ramach inwestycji,
 - **5)** danych kontaktowych przedstawiciela podmiotu, o którym mowa w pkt 1,
-- **6)** planowanym terminie rozpoczęcia świadczenia usług, o których mowa w pkt 2 oraz aktualizują je do 10. dnia kolejnego miesiąca, według stanu na ostatni dzień miesiąca poprzedzającego, albo przekazują w tym terminie oświadczenie o aktualności dotychczas przekazanych informacji.
+- **6)** planowanym terminie rozpoczęcia świadczenia usług, o których mowa w pkt 2 – oraz aktualizują je do 10. dnia kolejnego miesiąca, według stanu na ostatni dzień miesiąca poprzedzającego, albo przekazują w tym terminie oświadczenie o aktualności dotychczas przekazanych informacji.
 
 5. Podmioty, o których mowa w art. 29 ust. 2, które nie umożliwiają świadczenia usług transmisji danych zapewniających stacjonarny szerokopasmowy dostęp do Internetu lub nie planują realizacji inwestycji finansowanych ze środków prywatnych zapewniających możliwość świadczenia tych usług, przekazują do SIDUSIS oświadczenie w tej sprawie. Oświadczenie to pozostaje w mocy do czasu zmiany stanu faktycznego w zakresie, o którym mowa w zdaniu pierwszym.
 
@@ -99,7 +100,7 @@ source: "eli-html"
 
 - **1)** oznaczanie budynków jako pustostanów,
 - **2)** zgłoszenie zapotrzebowania w danym punkcie adresowym na usługę stacjonarnego szerokopasmowego dostępu do Internetu,
-- **3)** weryfikację i potwierdzenie zgodności informacji zgromadzonych w SIDUSIS ze stanem faktycznym w zakresie informacji, o których mowa w art. 29j pkt 1 oraz przekazanie danych kontaktowych osoby dokonującej tej czynności.
+- **3)** weryfikację i potwierdzenie zgodności informacji zgromadzonych w SIDUSIS ze stanem faktycznym w zakresie informacji, o których mowa w art. 29j pkt 1 – oraz przekazanie danych kontaktowych osoby dokonującej tej czynności.
 
 5. W przypadku gdy zgłoszone zapotrzebowanie na usługi szerokopasmowego dostępu do Internetu dotyczy nieruchomości, na której możliwe jest świadczenie detalicznej usługi transmisji danych zapewniającej stacjonarny szerokopasmowy dostęp do Internetu, SIDUSIS umożliwia wysłanie automatycznego powiadomienia, zawierającego dane kontaktowe zgłaszającego, o takim zapotrzebowaniu do podmiotu, o którym mowa w art. 29k ust. 1 pkt 1.
 

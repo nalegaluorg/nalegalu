@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 grudnia 2016 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 15 grudnia 2016 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 grudnia 2005 r. o finansowaniu infrastruktury transportu lądowego oraz ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-15 |
 | Data wydania | 2017-01-31 |
-| Wejście w życie | 2017-03-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000191) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/191/text.pdf) |
 
@@ -42,5 +41,5 @@ source: "eli-html"
 
 **Art. 3.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, 1948, 1984 i 2260 oraz z 2017 r. poz. 60) w art. 216 dodaje się ust. 3 w brzmieniu: „ 3. Wydatki budżetu jednostki samorządu terytorialnego mogą być przeznaczone na realizację zadań wynikających z porozumień, o których mowa w art. 19 ust. 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2016 r. poz. 1440, 1920, 1948 i 2255 oraz z 2017 r. poz. 191). ” .
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 grudnia 2005 r. o finansowaniu infrastruktury transportu lądowego oraz ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych.
 

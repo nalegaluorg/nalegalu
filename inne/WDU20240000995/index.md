@@ -31,18 +31,16 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 7 września 2016 r. w sprawie sposobu przeprowadzenia licytacji elektronicznej ruchomości w sądowym postępowaniu egzekucyjnym (Dz. U. poz. 1431), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 27 lipca 2023 r. zmieniającym rozporządzenie w sprawie sposobu przeprowadzenia licytacji elektronicznej ruchomości w sądowym postępowaniu egzekucyjnym (Dz. U. poz. 1644).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Sprawiedliwości z dnia 27 lipca 2023 r. zmieniającego rozporządzenie w sprawie sposobu przeprowadzenia licytacji elektronicznej ruchomości w sądowym postępowaniu egzekucyjnym (Dz. U. poz. 1644), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Sprawiedliwości z dnia 27 lipca 2023 r. zmieniającego rozporządzenie w sprawie sposobu przeprowadzenia licytacji elektronicznej ruchomości w sądowym postępowaniu egzekucyjnym (Dz. U. poz. 1644), które stanowią: „
 § 2.
 Przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem stosuje się do egzekucji z ruchomości wszczętej i niezakończonej przed dniem wejścia w życie niniejszego rozporządzenia, o ile w jej toku nie doszło do wyznaczenia pierwszego terminu licytacji ruchomości, a jeżeli licytacja w pierwszym terminie nie doszła do skutku – jeżeli nie doszło jeszcze do wyznaczenia drugiego terminu licytacji.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 7 września 2016 r. w sprawie sposobu przeprowadzenia licytacji elektronicznej ruchomości w sądowym postępowaniu egzekucyjnym
-Na podstawie art. 87911 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 87911 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858, 859 i 863.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
-1)
+1Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 27 lipca 2023 r. zmieniającego rozporządzenie w sprawie sposobu przeprowadzenia licytacji elektronicznej ruchomości w sądowym postępowaniu egzekucyjnym (Dz. U. poz. 1644), które weszło w życie z dniem 2 września 2023 r.)
 sposób przeprowadzenia sprzedaży ruchomości w drodze licytacji elektronicznej oraz
 2)
 sposób wykorzystania systemu teleinformatycznego obsługującego licytację elektroniczną do czynności, o których mowa w art. 87910 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
@@ -50,7 +48,7 @@ sposób wykorzystania systemu teleinformatycznego obsługującego licytację ele
 Ilekroć w rozporządzeniu jest mowa o:
 1)
 systemie teleinformatycznym – rozumie się przez to system teleinformatyczny obsługujący licytację elektroniczną;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 użytkowniku – rozumie się przez to osobę fizyczną posiadającą konto w systemie teleinformatycznym;
 3)
 operatorze – rozumie się przez to Krajową Radę Komorniczą;
@@ -62,7 +60,7 @@ aktach sprawy – rozumie się przez to zbiór dokumentów dotyczących licytacj
 loginie – rozumie się przez to niepowtarzalne i przyporządkowane do użytkownika dane wykorzystywane przez użytkownika do uwierzytelnienia w systemie teleinformatycznym;
 7)
 haśle – rozumie się przez to poufne dane wykorzystywane przez użytkownika do uwierzytelnienia w systemie teleinformatycznym;
-8)
+8W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 uwierzytelnieniu – rozumie się przez to proces elektroniczny, który umożliwia identyfikację elektroniczną użytkownika w systemie teleinformatycznym, przy czym proces ten może nastąpić także przy wykorzystaniu węzła krajowego, o którym mowa w art. 21a ust. 2 ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 422);
 9)
 koncie – rozumie się przez to zbiór danych określających użytkownika wraz z zasobami systemu teleinformatycznego przyporządkowanymi do tego użytkownika.
@@ -82,7 +80,7 @@ adres poczty elektronicznej oraz adres do korespondencji;
 wskazanie hasła umożliwiającego uwierzytelnienie;
 4)
 wskazanie adresu poczty elektronicznej lub numeru telefonu komórkowego, na które mają być wysyłane powiadomienia o zamieszczeniu pisma, o ile wnioskodawca chce otrzymywać takie powiadomienia;
-5)
+5W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 oświadczenie wnioskodawcy, że dane, o których mowa w pkt 1 i 2, są prawdziwe oraz że zapoznał się z pouczeniem co do sposobu i skutków doręczeń dokonywanych zgodnie z § 9a.
 2.
 Wniosek o założenie konta użytkownika składa się za pośrednictwem systemu teleinformatycznego.
@@ -100,7 +98,7 @@ W przypadkach, o których mowa w ust. 3 i 6, komornik zakłada osobie składają
 Osobę składającą wniosek zawiadamia się o założeniu konta w systemie teleinformatycznym; w zawiadomieniu podaje się login.
 9.
 Zawiadomienia, o których mowa w ust. 6 i 8, doręcza się wnioskodawcy na podany, we wniosku, adres poczty elektronicznej lub numer telefonu komórkowego wnioskodawcy.
-10.
+10W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Użytkownik ma obowiązek niezwłocznie aktualizować dane, o których mowa w ust. 1 pkt 1, o czym należy pouczyć użytkownika w zawiadomieniu o założeniu konta.
 11.
 Użytkownik jest uprawniony do zmiany hasła za pośrednictwem systemu teleinformatycznego.
@@ -116,18 +114,18 @@ W razie braku uwierzytelnienia użytkownika w okresie roku, jego konto w systemi
 Użytkownik zgłasza przystąpienie do przetargu.
 2.
 Użytkownik, wraz z przystąpieniem do przetargu, składa oświadczenie, że nie zachodzą wobec niego podstawy do wyłączenia od udziału w przetargu.
-3.
+3Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 W momencie zgłoszenia przez użytkownika przystąpienia do przetargu dochodzi do przypisania użytkownikowi unikalnego identyfikatora licytanta.
 § 8.
 1.
 Użytkownik będący pełnomocnikiem, przedstawicielem ustawowym albo osobą uprawnioną do działania w imieniu osoby prawnej albo innej jednostki organizacyjnej posiadającej zdolność prawną, przystępując do przetargu, oświadcza, że występuje w imieniu osoby trzeciej.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2..
 Oświadczenie, o którym mowa w ust. 1, składa się za pośrednictwem systemu teleinformatycznego. Do oświadczenia załącza się w systemie teleinformatycznym utrwalone w postaci elektronicznej kopie dokumentów potwierdzających uprawnienie do występowania w imieniu osoby trzeciej.
 3.
 Komornik potwierdza w systemie teleinformatycznym uprawnienia pełnomocnika, przedstawiciela ustawowego albo osoby uprawnionej do działania w imieniu osoby prawnej albo innej jednostki organizacyjnej posiadającej zdolność prawną.
 § 9.
-(uchylony).
-§ 9a.
+(uchylony).Przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2.
+§ 9aDodany przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2..
 Wezwanie do uzupełnienia danych, złożenia rękojmi lub przedłożenia dokumentów oraz zawiadomienie o odmowie dopuszczenia do przetargu uważa się za doręczone z dniem zamieszczenia ich w systemie teleinformatycznym. Powiadomienie o zamieszczeniu wezwania lub zawiadomienia doręcza się wnioskodawcy na podany przez niego adres poczty elektronicznej lub numer telefonu komórkowego, o których mowa w § 4 ust. 1 pkt 4.
 § 10.
 1.
@@ -143,7 +141,7 @@ Niezwłocznie po dokonaniu postąpienia w aktach sprawy jest automatycznie umies
 3.
 W trakcie licytacji w systemie teleinformatycznym ujawnia się licytantom najwyższą aktualną cenę i unikalny identyfikator licytanta, który ją ofiaruje, oraz czas pozostały do zakończenia licytacji. Każdemu postąpieniu przypisuje się inny numer porządkowy. Dane osobowe licytanta przed zakończeniem licytacji są ujawniane wyłącznie komornikowi sądowemu.
 § 11.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2..
 Zakończenie licytacji elektronicznej następuje automatycznie w chwili wskazanej w obwieszczeniu o licytacji, a jeżeli doszło do jej automatycznego odroczenia, z momentem wskazanym w art. 8796 § 21 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
 2.
 W chwili zakończenia licytacji następuje automatyczne ustalenie licytanta, który zaofiarował najwyższą cenę.
@@ -155,5 +153,5 @@ Komornik ogłasza za pośrednictwem systemu teleinformatycznego o zamiarze dokon
 2.
 Do złożenia oferty, o której mowa w ust. 1, stosuje się odpowiednio przepis § 10 ust. 1.
 § 14.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
+Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858, 859 i 863. 2) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 27 lipca 2023 r. zmieniającego rozporządzenie w sprawie sposobu przeprowadzenia licytacji elektronicznej ruchomości w sądowym postępowaniu egzekucyjnym (Dz. U. poz. 1644), które weszło w życie z dniem 2 września 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 7) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 9) Przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 10) Dodany przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2.
 

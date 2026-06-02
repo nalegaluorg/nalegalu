@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-04-18 |
 | Data wydania | 2013-05-07 |
-| Wejście w życie | 2013-05-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000533) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/533/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 6 ust. 7 ustawy z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U. z 2013 r. poz. 474) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 4 stycznia 2005 r. w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą pracownikom jednostek doradztwa rolniczego (Dz. U. Nr 6, poz. 49, z późn. zm.) w §11 pkt 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 4 stycznia 2005 r. w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą pracownikom jednostek doradztwa rolniczego (Dz. U. Nr 6, poz. 49, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 195, poz. 1208 oraz z 2009 r. Nr 91, poz. 746 i Nr 223, poz. 1785.) w §11 pkt 2 otrzymuje brzmienie: „
 2)
-dyrektora i zastępcy dyrektora wojewódzkiego ośrodka doradztwa rolniczego – ustala właściwy miejscowo zarząd województwa.
-” .
+dyrektora i zastępcy dyrektora wojewódzkiego ośrodka doradztwa rolniczego – ustala właściwy miejscowo zarząd województwa. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 195, poz. 1208 oraz z 2009 r. Nr 91, poz. 746 i Nr 223, poz. 1785.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 15 września 2020 r. zmieniające rozporządzenie w sprawie sposobu podziału środków finansowych na utrzymanie i rozwój potencjału dydaktycznego oraz potencjału badawczego znajdujących się w dyspozycji ministra właściwego do spraw szkolnictwa wyższego i nauki oraz na zadania związane z utrzymaniem powietrznych statków szkolnych i specjalistycznych ośrodków szkoleniowych kadr powietrznych
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 15 września 2020 r. zmieniające rozporządzenie w sprawie sposobu podziału środków finansowych na utrzymanie i rozwój potencjału dydaktycznego oraz potencjału badawczego znajdujących się w dyspozycji ministra właściwego do spraw szkolnictwa wyższego i nauki oraz na zadania związane z utrzymaniem powietrznych statków szkolnych i specjalistycznych ośrodków szkoleniowych kadr powietrznych Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 kwietnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 724).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-15 |
 | Data wydania | 2020-09-24 |
-| Wejście w życie | 2020-10-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001646) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1646/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 402 pkt 1, 2 i 7 ustawy z dnia 20 lipca 2018 r. – Prawo o sz
 § 1.
 W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 9 września 2019 r. w sprawie sposobu podziału środków finansowych na utrzymanie i rozwój potencjału dydaktycznego oraz potencjału badawczego znajdujących się w dyspozycji ministra właściwego do spraw szkolnictwa wyższego i nauki oraz na zadania związane z utrzymaniem powietrznych statków szkolnych i specjalistycznych ośrodków szkoleniowych kadr powietrznych (Dz. U. poz. 1838) wprowadza się następujące zmiany:
 1)
-w § 2 w ust. 3 pkt 3 otrzymuje brzmienie:
-„
+w § 2 w ust. 3 pkt 3 otrzymuje brzmienie: „
 3)
-zwiększenia wysokości subwencji, o których mowa w art. 368 ust. 8 pkt 1 i 2 oraz ust. 9 ustawy;
-” ;
+zwiększenia wysokości subwencji, o których mowa w art. 368 ust. 8 pkt 1 i 2 oraz ust. 9 ustawy; ” ;
 2)
 w § 9 w pkt 3 w opisie elementów wzoru oznaczenie elementu wzoru „ Ldd, i” zastępuje się oznaczeniem „ Ldd, i”;
 3)
@@ -45,8 +42,7 @@ w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ w latach 2020–2022
 b)
 w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ w roku 2020: ” ,
 c)
-w pkt 2 w lit. c kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
-„
+w pkt 2 w lit. c kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 3)
 w latach 2021–2023:
 a)
@@ -59,8 +55,7 @@ składnik umiędzynarodowienia i-tej publicznej uczelni akademickiej oblicza si�
 – Lsni – oznacza sumę liczby studentów w i-tej publicznej uczelni akademickiej, liczby doktorantów w szkołach doktorskich prowadzonych przez i-tą uczelnię i liczby doktorantów w i-tej uczelni, którzy rozpoczęli studia doktoranckie przed rokiem akademickim 2019/2020, będących cudzoziemcami, pobierających stypendium przyznane przez Narodową Agencję Wymiany Akademickiej lub kształcących się na podstawie umów międzynarodowych lub innych porozumień, o których mowa w art. 2 ust. 3 pkt 1 ustawy z dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany Akademickiej (Dz. U. z 2019 r. poz. 1582), według stanu na dzień 31 grudnia roku poprzedzającego rok przyznania subwencji,
 – Ldpci – oznacza sumę liczby doktorantów w szkołach doktorskich prowadzonych przez i-tą publiczną uczelnię akademicką i liczby doktorantów w i-tej uczelni, którzy rozpoczęli studia doktoranckie przed rokiem akademickim 2019/2020, będących cudzoziemcami, z wyłączeniem osób uwzględnionych w ramach Lsni, według stanu na dzień 31 grudnia roku poprzedzającego rok przyznania subwencji,
 c)
-M oznacza referencyjną sumę liczby doktorantów, którzy rozpoczęli studia doktoranckie przed rokiem akademickim 2019/2020, i liczby studentów, przypadających na nauczyciela akademickiego w publicznych uczelniach akademickich.
-” ;
+M oznacza referencyjną sumę liczby doktorantów, którzy rozpoczęli studia doktoranckie przed rokiem akademickim 2019/2020, i liczby studentów, przypadających na nauczyciela akademickiego w publicznych uczelniach akademickich. ” ;
 4)
 w § 14 w ust. 1 we wprowadzeniu do wyliczenia wyrazy „W latach 2020 i 2021” zastępuje się wyrazami „W latach 2020–2022”;
 5)
@@ -87,6 +82,5 @@ w ust. 3 w opisie elementu wzoru Lkk wyrazy „dla którego” zastępuje się w
 § 2.
 Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do podziału środków finansowych na utrzymanie i rozwój potencjału dydaktycznego oraz potencjału badawczego znajdujących się w dyspozycji ministra właściwego do spraw szkolnictwa wyższego i nauki oraz na zadania związane z utrzymaniem powietrznych statków szkolnych i specjalistycznych ośrodków szkoleniowych kadr powietrznych, począwszy od dnia 1 stycznia 2021 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 kwietnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 724).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 kwietnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 724).
 

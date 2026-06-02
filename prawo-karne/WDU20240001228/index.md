@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 czerwca 2024 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw
+# Ustawa z dnia 28 czerwca 2024 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka, ustawę z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich oraz ustawę z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-28 |
 | Data wydania | 2024-08-12 |
-| Wejście w życie | 2025-02-13 |
 | Ostatnia zmiana | 2024-08-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001228) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1228/text.pdf) |
 
@@ -55,5 +54,5 @@ source: "eli-html"
 - **1)** w art. 15 w ust. 2, w art. 16 w ust. 5, w art. 46 w ust. 2, w art. 65 w ust. 2, w art. 69 w ust. 2, w art. 235 w ust. 5, w art. 237 w ust. 5, w art. 240 w ust. 3, w art. 248 w ust. 1 w pkt 2, w art. 250 w ust. 2 i w art. 355 wyrazy „art. 197 § 1, 3” zastępuje się wyrazami „art. 197 § 1, 1a, 3”;
 - **2)** w art. 38 w ust. 2 w pkt 4 wyrazy „art. 197 § 1” zastępuje się wyrazami „art. 197 § 1 lub 1a”.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka, ustawę z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich oraz ustawę z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich.
 

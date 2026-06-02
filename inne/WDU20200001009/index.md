@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-03 |
 | Data wydania | 2020-06-08 |
-| Wejście w życie | 2020-06-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001009) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1009/text.pdf) |
 
@@ -31,35 +30,27 @@ Załącznik – Tekst załącznika
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2019 r. poz. 1505) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779 oraz z 2020 r. poz. 18 i 733.) wprowadza się następujące zmiany:
 1)
-w § 2 w ust. 1 pkt 3 otrzymuje brzmienie:
-„
+w § 2 w ust. 1 pkt 3 otrzymuje brzmienie: „
 3)
 wznowienie produkcji:
 a)
-przez odtworzenie środków trwałych w gospodarstwach rolnych, w których wystąpiły szkody spowodowane przez suszę w rozumieniu przepisów o ubezpieczeniach upraw rolnych i zwierząt gospodarskich, b) w gospodarstwach rolnych i działach specjalnych produkcji rolnej, w których wystąpiły szkody spowodowane przez grad, deszcz nawalny, ujemne skutki przezimowania, przymrozki wiosenne, powódź, huragan, piorun, obsunięcie się ziemi lub lawinę w rozumieniu przepisów o ubezpieczeniach upraw rolnych i zwierząt gospodarskich;
-” ;
+przez odtworzenie środków trwałych w gospodarstwach rolnych, w których wystąpiły szkody spowodowane przez suszę w rozumieniu przepisów o ubezpieczeniach upraw rolnych i zwierząt gospodarskich, b) w gospodarstwach rolnych i działach specjalnych produkcji rolnej, w których wystąpiły szkody spowodowane przez grad, deszcz nawalny, ujemne skutki przezimowania, przymrozki wiosenne, powódź, huragan, piorun, obsunięcie się ziemi lub lawinę w rozumieniu przepisów o ubezpieczeniach upraw rolnych i zwierząt gospodarskich; ” ;
 2)
-w § 5 w ust. 7 pkt 3 otrzymuje brzmienie:
-„
+w § 5 w ust. 7 pkt 3 otrzymuje brzmienie: „
 3)
 składa protokół oszacowania szkód wojewodzie właściwemu ze względu na miejsce powstania tych szkód:
 a)
-w terminie 30 dni od dnia oszacowania szkód, o których mowa w § 2 ust. 1 pkt 3, b) w terminie 45 dni od dnia oszacowania szkód – w przypadku protokołów zbiorczych, o których mowa w ust. 6, c) niezwłocznie po otrzymaniu od wojewody, który powołał tę komisję, informacji o wysokości szkód spowodowanych przez suszę w uprawach rolnych, nie później niż do dnia 15 listopada roku, w którym wystąpiła susza – w przypadku gdy wysokość tych szkód jest ustalana za pomocą oprogramowania udostępnionego przez ministra właściwego do spraw informatyzacji, pod adresem elektronicznym wskazanym na podmiotowej stronie internetowej tego ministra, zwanego dalej „publiczną aplikacją”
-z tym że w przypadku szacowania szkód w drzewach owocowych, o którym mowa w pkt 2 lit. b, protokół oszacowania szkód zawiera dane wynikające z oszacowania szkód dokonanego po raz drugi.
-” ;
+w terminie 30 dni od dnia oszacowania szkód, o których mowa w § 2 ust. 1 pkt 3, b) w terminie 45 dni od dnia oszacowania szkód – w przypadku protokołów zbiorczych, o których mowa w ust. 6, c) niezwłocznie po otrzymaniu od wojewody, który powołał tę komisję, informacji o wysokości szkód spowodowanych przez suszę w uprawach rolnych, nie później niż do dnia 15 listopada roku, w którym wystąpiła susza – w przypadku gdy wysokość tych szkód jest ustalana za pomocą oprogramowania udostępnionego przez ministra właściwego do spraw informatyzacji, pod adresem elektronicznym wskazanym na podmiotowej stronie internetowej tego ministra, zwanego dalej „publiczną aplikacją” – z tym że w przypadku szacowania szkód w drzewach owocowych, o którym mowa w pkt 2 lit. b, protokół oszacowania szkód zawiera dane wynikające z oszacowania szkód dokonanego po raz drugi. ” ;
 3)
-po ust. 7 dodaje się ust. 7a w brzmieniu:
-„
+po ust. 7 dodaje się ust. 7a w brzmieniu: „
 7a.
-Przepisów ust. 7 pkt 3 lit. a i b nie stosuje się, jeżeli w gospodarstwie rolnym wystąpiły szkody w uprawach rolnych spowodowane przez suszę w rozumieniu przepisów o ubezpieczeniach upraw rolnych i zwierząt gospodarskich i gdy wysokość tych szkód jest ustalana za pomocą publicznej aplikacji.
-” ;
+Przepisów ust. 7 pkt 3 lit. a i b nie stosuje się, jeżeli w gospodarstwie rolnym wystąpiły szkody w uprawach rolnych spowodowane przez suszę w rozumieniu przepisów o ubezpieczeniach upraw rolnych i zwierząt gospodarskich i gdy wysokość tych szkód jest ustalana za pomocą publicznej aplikacji. ” ;
 4)
 w § 13 w ust. 1 po wyrazach „§ 2 ust. 1 pkt 3” dodaje się wyrazy „z wyłączeniem suszy”;
 5)
-po § 13w dodaje się § 13x i 13y w brzmieniu:
-„
+po § 13w dodaje się § 13x i 13y w brzmieniu: „
 § 13x.
 1.
 Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu:
@@ -118,8 +109,7 @@ procentową wysokość szkód spowodowanych wystąpieniem suszy w poszczególnyc
 2)
 liczbę zwierząt wyższą od wynikającej z rejestru zwierząt gospodarskich oznakowanych, o którym mowa w ustawie o systemie identyfikacji i rejestracji zwierząt,
 3)
-wysokość kosztów poniesionych z tytułu niezebrania plonów w wyniku powstania szkód spowodowanych wystąpieniem suszy w produkcji zwierzęcej wyższą niż wysokość szkód spowodowanych wystąpieniem suszy w jego uprawach na paszę dla bydła, świń, owiec lub kóz, wymienionych w załączniku nr 4 do rozporządzenia, lub wartość produkcji zwierzęcej z roku, w którym wystąpiła susza
-do obliczenia wysokości szkody przyjmuje się odpowiednio dane w tym zakresie Instytutu Uprawy, Nawożenia i Gleboznawstwa – Państwowego Instytutu Badawczego, liczbę zwierząt wpisanych do rejestru zwierząt gospodarskich oznakowanych, o którym mowa w ustawie o systemie identyfikacji i rejestracji zwierząt, która może być powiększona o 10%, wysokość szkód spowodowanych przez suszę w wymienionych w załączniku nr 4 do rozporządzenia uprawach na paszę dla bydła, świń, owiec lub kóz albo wartość produkcji zwierzęcej z roku, w którym wystąpiła susza.
+wysokość kosztów poniesionych z tytułu niezebrania plonów w wyniku powstania szkód spowodowanych wystąpieniem suszy w produkcji zwierzęcej wyższą niż wysokość szkód spowodowanych wystąpieniem suszy w jego uprawach na paszę dla bydła, świń, owiec lub kóz, wymienionych w załączniku nr 4 do rozporządzenia, lub wartość produkcji zwierzęcej z roku, w którym wystąpiła susza – do obliczenia wysokości szkody przyjmuje się odpowiednio dane w tym zakresie Instytutu Uprawy, Nawożenia i Gleboznawstwa – Państwowego Instytutu Badawczego, liczbę zwierząt wpisanych do rejestru zwierząt gospodarskich oznakowanych, o którym mowa w ustawie o systemie identyfikacji i rejestracji zwierząt, która może być powiększona o 10%, wysokość szkód spowodowanych przez suszę w wymienionych w załączniku nr 4 do rozporządzenia uprawach na paszę dla bydła, świń, owiec lub kóz albo wartość produkcji zwierzęcej z roku, w którym wystąpiła susza.
 12.
 Do wniosku o oszacowanie szkód, o którym mowa w ust. 6, może zostać dołączona dokumentacja fotograficzna szkód spowodowanych wystąpieniem suszy potwierdzająca ich zakres.
 13.
@@ -194,14 +184,13 @@ Pomoc nie przysługuje, jeżeli łączna kwota pomocy otrzymanej na podstawie od
 14.
 Pomoc, o której mowa w ust. 1, pomniejsza się o 50%, jeżeli w gospodarstwie rolnym w roku, w którym wystąpiły szkody, co najmniej 50% powierzchni upraw uprawianych w plonie głównym, z wyłączeniem wieloletnich użytków zielonych, nie było ubezpieczonych od ryzyka suszy, gradu, deszczu nawalnego, ujemnych skutków przezimowania, przymrozków wiosennych, powodzi lub huraganu w rozumieniu przepisów o ubezpieczeniach upraw rolnych i zwierząt gospodarskich.
 15.
-Pomoc, o której mowa w ust. 1, jest wypłacana na rachunek producenta rolnego wskazany w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
-” ;
+Pomoc, o której mowa w ust. 1, jest wypłacana na rachunek producenta rolnego wskazany w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności. ” ;
 6)
 dodaje się załącznik nr 4 do rozporządzenia w brzmieniu określonym w załączniku do niniejszego rozporządzenia.
 § 2.
 Do ustalania wysokości oprocentowania kredytu bankowego płaconego bankowi przez kredytobiorcę i Agencję Restrukturyzacji i Modernizacji Rolnictwa wskazywanej w zawieranych w 2020 r. umowach o udzielenie pomocy, o której mowa w § 2 ust. 1 pkt 3 rozporządzenia zmienianego w § 1, w związku z wystąpieniem w 2019 r. szkód spowodowanych przez suszę w rozumieniu przepisów o ubezpieczeniach upraw rolnych i zwierząt gospodarskich, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779 oraz z 2020 r. poz. 18 i 733.
 Załącznik – Tekst załącznika
 
 ## Załącznik nr 4 — SZCZEGÓŁOWY WYKAZ UPRAW NA PASZĘ DLA BYDŁA, ŚWIŃ, OWIEC I KÓZ

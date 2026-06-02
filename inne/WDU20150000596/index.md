@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-04-24 |
 | Data wydania | 2015-04-30 |
-| Wejście w życie | 2015-05-01 |
 | Ostatnia zmiana | 2024-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000596) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/596/text.pdf) |
 
@@ -103,7 +102,7 @@ podłogę trwałą i zmywalną;
 2)
 okna, których stosunek powierzchni liczonej w świetle ościeżnic stanowi nie mniej niż1/8 powierzchni podłogi, o konstrukcji zapewniającej bezpieczeństwo oraz udaremniającej ucieczkę cudzoziemca, z których co najmniej jedno jest uchylne;
 3)
-ogrzewanie zapewniające temperaturę według norm określonych na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.);
+ogrzewanie zapewniające temperaturę według norm określonych na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151, 200, 443 i 528.);
 4)
 wentylację grawitacyjną lub mechaniczną, z otworem wentylacyjnym, zapewniającą półtorakrotną wymianę powietrza w ciągu godziny;
 5)
@@ -114,7 +113,7 @@ wentylację grawitacyjną lub mechaniczną, z otworem wentylacyjnym, zapewniają
 1.
 Izba dyżurna w strzeżonym ośrodku jest wyposażona w instalację telekomunikacyjną umożliwiającą połączenie w ramach krajowego systemu powiadamiania alarmowego oraz połączenie z dyżurnym właściwej jednostki organizacyjnej Straży Granicznej.
 2.
-Pokój lekarski w strzeżonym ośrodku spełnia wymogi określone na podstawie art. 22 ust. 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2013 r. poz. 217, z późn. zm.).
+Pokój lekarski w strzeżonym ośrodku spełnia wymogi określone na podstawie art. 22 ust. 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2013 r. poz. 217, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 24, 423, 619, 1138, 1146, 1491 i 1626.).
 3.
 Izolatka dla chorych w strzeżonym ośrodku oraz jej wyposażenie spełniają warunki określone w § 6.
 4.
@@ -367,7 +366,7 @@ czas, na jaki zleca określone wyżywienie.
 § 26.
 W strzeżonych ośrodkach oddanych do użytku przed wejściem w życie rozporządzenia, do dnia 31 grudnia 2017 r. dopuszcza się stosowanie okien w pokojach dla cudzoziemców oraz przegród dzielących kabiny, w których umieszczone są miski ustępowe oraz drzwi w tych kabinach, spełniających warunki określone w dotychczasowych przepisach i zamontowanych przed wejściem w życie niniejszego rozporządzenia.
 § 27.
-Rozporządzenie wchodzi w życie z dniem 1 maja 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 maja 2015 r.Niniejsze rozporządzenie było poprzedzone: 1) rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 26 sierpnia 2004 r. w sprawie warunków, jakim powinny odpowiadać strzeżone ośrodki i areszty w celu wydalenia oraz regulaminu organizacyjno-porządkowego pobytu cudzoziemców w strzeżonym ośrodku i areszcie w celu wydalenia (Dz. U. Nr 190, poz. 1953 oraz z 2013 r. poz. 1429), 2) rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 11 grudnia 2007 r. w sprawie warunków otrzymywania posiłków i napojów przez cudzoziemców umieszczonych w strzeżonym ośrodku lub przebywających w areszcie w celu wydalenia oraz wartości dziennej normy wyżywienia (Dz. U. Nr 236, poz. 1742, z 2010 r. Nr 8, poz. 59 oraz z 2011 r. Nr 236, poz. 1404), które tracą moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 520 pkt 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r. poz. 463 i 1004). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151, 200, 443 i 528. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 24, 423, 619, 1138, 1146, 1491 i 1626. 4) Niniejsze rozporządzenie było poprzedzone: 1) rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 26 sierpnia 2004 r. w sprawie warunków, jakim powinny odpowiadać strzeżone ośrodki i areszty w celu wydalenia oraz regulaminu organizacyjno-porządkowego pobytu cudzoziemców w strzeżonym ośrodku i areszcie w celu wydalenia (Dz. U. Nr 190, poz. 1953 oraz z 2013 r. poz. 1429), 2) rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 11 grudnia 2007 r. w sprawie warunków otrzymywania posiłków i napojów przez cudzoziemców umieszczonych w strzeżonym ośrodku lub przebywających w areszcie w celu wydalenia oraz wartości dziennej normy wyżywienia (Dz. U. Nr 236, poz. 1742, z 2010 r. Nr 8, poz. 59 oraz z 2011 r. Nr 236, poz. 1404), które tracą moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 520 pkt 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r. poz. 463 i 1004).
 Załącznik – Regulamin organizacyjno-porządkowy pobytu cudzoziemców w strzeżonym ośrodku i areszcie dla cudzoziemców
 § 1.
 Pokoje dla cudzoziemców i cele mieszkalne oraz inne pomieszczenia, w których przebywają cudzoziemcy, są kontrolowane doraźnie, przez kierownika strzeżonego ośrodka dla cudzoziemców, zwanego dalej „strzeżonym ośrodkiem”, funkcjonariusza odpowiadającego za funkcjonowanie aresztu dla cudzoziemców, zwanego dalej „aresztem”, albo inne osoby przez nich wyznaczone.

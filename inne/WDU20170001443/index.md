@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 20 lipca 2017 r. w sprawie maksymalnego limitu ekspozycji AFI
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 20 lipca 2017 r. w sprawie maksymalnego limitu ekspozycji AFI Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-20 |
 | Data wydania | 2017-07-28 |
-| Wejście w życie | 2017-08-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001443) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1443/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 48c ust. 3 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2016 r. poz. 1896, z późn. zm.) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji służy stosowaniu rozporządzenia delegowanego Komisji (UE) nr 231/2013 z dnia 19 grudnia 2012 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2011/61/UE w odniesieniu do zwolnień, ogólnych warunków dotyczących prowadzenia działalności, depozytariuszy, dźwigni finansowej, przejrzystości i nadzoru (Dz. Urz. UE L 83 z 22.03.2013, str. 1). Na podstawie art. 48c ust. 3 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2016 r. poz. 1896, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 724, 768, 791 i 1089.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa maksymalny limit ekspozycji AFI:
 1)
@@ -61,6 +60,5 @@ b)
 3)
 ekspozycja AFI funduszu, wyliczona przy zastosowaniu metody zaangażowania, z wyłączeniem transakcji, których przedmiotem są kontrakty terminowe na stopę procentową oraz swapy stóp procentowych, w przypadku których strony transakcji swap wymieniają się przepływami uzależnionymi od stałej i zmiennej stopy procentowej, z terminem wykonania oraz terminem zapadalności instrumentu bazowego nie dłuższym niż 397 dni – nie będzie przekraczać 400% wartości aktywów netto funduszu.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie w zakresie swojej regulacji służy stosowaniu rozporządzenia delegowanego Komisji (UE) nr 231/2013 z dnia 19 grudnia 2012 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2011/61/UE w odniesieniu do zwolnień, ogólnych warunków dotyczących prowadzenia działalności, depozytariuszy, dźwigni finansowej, przejrzystości i nadzoru (Dz. Urz. UE L 83 z 22.03.2013, str. 1). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 724, 768, 791 i 1089.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie w zakresie swojej regulacji służy stosowaniu rozporządzenia delegowanego Komisji (UE) nr 231/2013 z dnia 19 grudnia 2012 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2011/61/UE w odniesieniu do zwolnień, ogólnych warunków dotyczących prowadzenia działalności, depozytariuszy, dźwigni finansowej, przejrzystości i nadzoru (Dz. Urz. UE L 83 z 22.03.2013, str. 1). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 724, 768, 791 i 1089.
 

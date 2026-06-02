@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-01-25 |
 | Data wydania | 2016-02-04 |
-| Wejście w życie | 2016-06-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000145) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/145/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wartości parametrów fizjologicznych
 Treść rozporządzenia
-Na podstawie art. 39h ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2013 r. poz. 757, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 39h ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2013 r. poz. 757, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1245 i 1635, z 2014 r. poz. 1802, z 2015 r. poz. 1887 i 1991 oraz z 2016 r. poz. 65.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -148,8 +147,7 @@ wystąpienia urazu wielonarządowego lub śmierci innej osoby w tym samym zdarze
 2)
 wypadnięcia z pojazdu mechanicznego, przygniecenia lub upadku z wysokości powyżej 3 metrów,
 3)
-gdy czas wydobywania tej osoby z pojazdu, zawaliska lub gruzowiska wynosi powyżej 20 minut
-pomimo braku widocznych obrażeń anatomicznych oraz istotnych zaburzeń parametrów fizjologicznych obecnych u tej osoby, stwierdzonych na miejscu zdarzenia.
+gdy czas wydobywania tej osoby z pojazdu, zawaliska lub gruzowiska wynosi powyżej 20 minut – pomimo braku widocznych obrażeń anatomicznych oraz istotnych zaburzeń parametrów fizjologicznych obecnych u tej osoby, stwierdzonych na miejscu zdarzenia.
 § 6.
 1.
 Kierownik zespołu ratownictwa medycznego albo wyznaczony przez tego kierownika członek zespołu ratownictwa medycznego zgłasza dyspozytorowi medycznemu stwierdzenie wystąpienia kryteriów, o których mowa w § 5, i pozostaje w kontakcie z lekarzem szpitalnego oddziału ratunkowego szpitala, w którym znajduje się centrum, wskazanego przez dyspozytora medycznego, do czasu przyjęcia pacjenta urazowego dziecięcego do tego oddziału.
@@ -165,12 +163,15 @@ Decyzję w sprawie kolejności udzielania świadczeń zdrowotnych pacjentowi ura
 3.
 Dalsza diagnostyka i wielospecjalistyczne leczenie pacjenta urazowego dziecięcego w centrum odbywa się w specjalistycznym oddziale zabiegowym wskazanym przez kierownika zespołu urazowego dziecięcego.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 1 czerwca 2016 r., z wyjątkiem § 2 ust. 1 pkt 5, który wchodzi w życie z dniem 1 stycznia 2019 r.
+Rozporządzenie wchodzi w życie z dniem 1 czerwca 2016 r., z wyjątkiem § 2 ust. 1 pkt 5, który wchodzi w życie z dniem 1 stycznia 2019 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1245 i 1635, z 2014 r. poz. 1802, z 2015 r. poz. 1887 i 1991 oraz z 2016 r. poz. 65.
 Załącznik – Wartości parametrów fizjologicznych
-Tabela 1. Minimalne wartości skurczowego ciśnienia tętniczego w zależności od wieku dziecka
+Tabela 1.
+Minimalne wartości skurczowego ciśnienia tętniczego w zależności od wieku dziecka
 Lp. Rok życia Skurczowe ciśnienie tętnicze 1 1 65 2 2–5 70 3 6–12 80 4 >12 90
-Tabela 2. Zakres częstości akcji serca w zależności od wieku dziecka
+Tabela 2.
+Zakres częstości akcji serca w zależności od wieku dziecka
 Lp. Rok życia Akcja serca 1 1 110–150 2 2–5 90–130 3 6–12 70–110 4 >12 60–100
-Tabela 3. Zakres liczby oddechów na minutę w zależności od wieku dziecka
+Tabela 3.
+Zakres liczby oddechów na minutę w zależności od wieku dziecka
 Lp. Rok życia Liczba oddechów/min 1 1 30–40 2 2–5 20–30 3 6–12 15–25 4 >12 12–20
 

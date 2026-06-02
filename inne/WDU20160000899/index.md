@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwojuz dnia 16 czerwca 2016 r. w sprawie udzielania pomocy inwestycyjnej na infrastrukturę badawczą w ramach regionalnych programów operacyjnych na lata 2014–2020
+# Rozporządzenie Ministra Rozwojuz dnia 16 czerwca 2016 r. w sprawie udzielania pomocy inwestycyjnej na infrastrukturę badawczą w ramach regionalnych programów operacyjnych na lata 2014–2020 Minister Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-16 |
 | Data wydania | 2016-06-24 |
-| Wejście w życie | 2016-06-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000899) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/899/text.pdf) |
 
@@ -93,6 +92,5 @@ warunki i tryb zwrotu części dofinansowania w przypadku przekroczenia maksymal
 § 13.
 Pomoc jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze, w związku z art. 59 rozporządzenia nr 651/2014.
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895).
 

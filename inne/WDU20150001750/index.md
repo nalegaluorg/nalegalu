@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 27 października 2015 r. w sprawie warunków, jakim powinny odpowiadać pomieszczenia i urządzenia ośrodka medycznie wspomaganej prokreacji
+# Rozporządzenie Ministra Zdrowiaz dnia 27 października 2015 r. w sprawie warunków, jakim powinny odpowiadać pomieszczenia i urządzenia ośrodka medycznie wspomaganej prokreacji Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia:
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-27 |
 | Data wydania | 2015-10-30 |
-| Wejście w życie | 2015-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001750) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1750/text.pdf) |
 
@@ -37,7 +36,10 @@ Warunki, o których mowa w § 1, są określone w załączniku do rozporządzeni
 § 3.
 Przepis § 3 pkt 2 załącznika do rozporządzenia stosuje się po upływie 3 lat od dnia wejścia w życie niniejszego rozporządzenia.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 listopada 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 listopada 2015 r. 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia:
+1) dyrektywy 2004/23/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 102 z 07.04.2004, str. 48, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 291, z późn. zm.);
+2) dyrektywy Komisji 2006/17/WE z dnia 8 lutego 2006 r. wprowadzającej w życie dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w odniesieniu do niektórych wymagań technicznych dotyczących dawstwa, pobierania i badania tkanek i komórek ludzkich (Dz. Urz. UE L 38 z 09.02.2006, str. 40, z późn. zm.);
+3) dyrektywy Komisji 2006/86/WE z dnia 24 października 2006 r. wykonującej dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w zakresie wymagań dotyczących możliwości śledzenia, powiadamiania o poważnych i niepożądanych reakcjach i zdarzeniach oraz niektórych wymagań technicznych dotyczących kodowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 294 z 25.10.2006, str. 32, z późn. zm.).
 Załącznik – Warunki, jakim powinny odpowiadać pomieszczenia i urządzenia ośrodka medycznie wspomaganej prokreacji, oraz warunki ogólnoprzestrzenne, sanitarne i instalacyjne
 § 1.
 1.

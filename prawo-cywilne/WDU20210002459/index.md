@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 2 grudnia 2021 r. o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
+# Ustawa z dnia 2 grudnia 2021 r. o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 16 lipca 2020 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw, ustawę z dnia 27 listopada 2020 r. o zmianie niektórych ustaw w celu zapewnienia w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii kadr medycznych oraz ustawę z dnia 17 listopada 2021 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-02 |
 | Data wydania | 2021-12-29 |
-| Wejście w życie | 2022-06-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002459) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2459/text.pdf) |
 
@@ -54,7 +53,7 @@ source: "eli-html"
 
 § 1. Za zapłatę czynszu i innych należnych opłat odpowiadają solidarnie z najemcą stale zamieszkujące z nim osoby pełnoletnie, z wyjątkiem pełnoletnich zstępnych pozostających na jego utrzymaniu, którzy nie są w stanie utrzymać się samodzielnie. ” .
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.)wart. 1836w§ 3:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289 i 2328.)wart. 1836w§ 3:
 
 - **1)** wprowadzenie do wyliczenia otrzymuje brzmienie: „ Jeżeli w przypadkach, o których mowa w § 2, strona wytoczy powództwo o roszczenie, które było objęte wnioskiem o przeprowadzenie mediacji, w terminie trzech miesięcy od dnia: ” ;
 - **2)** część wspólna otrzymuje brzmienie: „ – do chwili wytoczenia powództwa, w odniesieniu do tego roszczenia, zostają zachowane skutki przewidziane dla czasu trwania mediacji. ” .
@@ -85,7 +84,7 @@ source: "eli-html"
 - **4)** w art. 29 w ust. 6 pkt 2 otrzymuje brzmienie: „
 - **2)** ratownik medyczny lub pielęgniarka systemu, którzy ukończyli studia co najmniej pierwszego stopnia i posiadają co najmniej 4-letnie doświadczenie w pracy na stanowisku dyspozytora medycznego ” .
 
-**Art. 4.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm.) w art. 15ea:
+**Art. 4.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317 i 2368.) w art. 15ea:
 
 - **1)** w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zobowiązanie, o którym mowa w ust. 1, ustalone według stanu na dzień 30 listopada 2021 r., jest finansowane w wysokości: ” ;
 - **2)** w ust. 5 zdanie pierwsze otrzymuje brzmienie: „ Wniosek, o którym mowa w ust. 1, świadczeniodawca składa do Narodowego Funduszu Zdrowia. ” ;
@@ -134,6 +133,6 @@ source: "eli-html"
 **Art. 12.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 4 i art. 11, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 3 i art. 5–7, które wchodzą w życie z dniem 1 stycznia 2022 r.
+- **2)** art. 3 i art. 5–7, które wchodzą w życie z dniem 1 stycznia 2022 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 16 lipca 2020 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw, ustawę z dnia 27 listopada 2020 r. o zmianie niektórych ustaw w celu zapewnienia w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii kadr medycznych oraz ustawę z dnia 17 listopada 2021 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289 i 2328. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317 i 2368.
 
 

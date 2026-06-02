@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 7 czerwca 2021 r. w sprawie interoperacyjności
+# Rozporządzenie Ministra Infrastrukturyz dnia 7 czerwca 2021 r. w sprawie interoperacyjności Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-07 |
 | Data wydania | 2021-06-09 |
-| Wejście w życie | 2021-07-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001042) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1042/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Zasadnicze wymagania systemu kolei
 Treść rozporządzenia
-Na podstawie art. 25ta ust. 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2020 r. poz. 1043, 1378 i 1778 oraz z 2021 r. poz. 780 i 784) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/797 z dnia 11 maja 2016 r. w sprawie interoperacyjności systemu kolei w Unii Europejskiej (Dz. Urz. UE L 138 z 26.05.2016, str. 44). Na podstawie art. 25ta ust. 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2020 r. poz. 1043, 1378 i 1778 oraz z 2021 r. poz. 780 i 784) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -48,8 +47,7 @@ Producent podsystemu albo jego upoważniony przedstawiciel, zarządca infrastruk
 1)
 jednostce notyfikowanej dokumentację techniczną niezbędną do przeprowadzenia weryfikacji WE podsystemu,
 2)
-jednostce wyznaczonej dokumentację techniczną niezbędną do przeprowadzenia oceny zgodności podsystemu z właściwymi krajowymi specyfikacjami technicznymi i dokumentami normalizacyjnymi, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei
-określoną w decyzji Komisji 2010/713/UE z dnia 9 listopada 2010 r. w sprawie modułów procedur oceny zgodności, przydatności do stosowania i weryfikacji WE stosowanych w technicznych specyfikacjach interoperacyjności przyjętych na mocy dyrektywy Parlamentu Europejskiego i Rady 2008/57/WE (Dz. Urz. UE L 319 z 04.12.2010, str. 1).
+jednostce wyznaczonej dokumentację techniczną niezbędną do przeprowadzenia oceny zgodności podsystemu z właściwymi krajowymi specyfikacjami technicznymi i dokumentami normalizacyjnymi, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei – określoną w decyzji Komisji 2010/713/UE z dnia 9 listopada 2010 r. w sprawie modułów procedur oceny zgodności, przydatności do stosowania i weryfikacji WE stosowanych w technicznych specyfikacjach interoperacyjności przyjętych na mocy dyrektywy Parlamentu Europejskiego i Rady 2008/57/WE (Dz. Urz. UE L 319 z 04.12.2010, str. 1).
 2.
 Jeżeli w skład podsystemu wchodzą budowle lub urządzenia ujęte w wykazie, o którym mowa w przepisach wydanych na podstawie art. 22f ust. 14 pkt 2 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym, zwanej dalej „ustawą”, dokumentacja techniczna dotycząca tych budowli lub urządzeń obejmuje:
 1)
@@ -88,8 +86,7 @@ SF,
 d)
 SG,
 e)
-SH1
-określonymi w załączniku I do decyzji Komisji 2010/713/UE z dnia 9 listopada 2010 r. w sprawie modułów procedur oceny zgodności, przydatności do stosowania i weryfikacji WE stosowanych w technicznych specyfikacjach interoperacyjności przyjętych na mocy dyrektywy Parlamentu Europejskiego i Rady 2008/57/WE.
+SH1 – określonymi w załączniku I do decyzji Komisji 2010/713/UE z dnia 9 listopada 2010 r. w sprawie modułów procedur oceny zgodności, przydatności do stosowania i weryfikacji WE stosowanych w technicznych specyfikacjach interoperacyjności przyjętych na mocy dyrektywy Parlamentu Europejskiego i Rady 2008/57/WE.
 3.
 Wykaz parametrów pojazdu kolejowego do skontrolowania, w celu sprawdzenia zgodności technicznej między pojazdem kolejowym a siecią kolejową, jest zawarty w części A dotyczącej podsystemu „tabor” listy właściwych krajowych specyfikacji technicznych i dokumentów normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei, opublikowanej na podstawie art. 25d ust. 1 ustawy.
 § 5.
@@ -165,8 +162,7 @@ Dokumentację techniczną, o której mowa w ust. 1, sporządza się w języku ur
 § 12.
 Do weryfikacji WE podsystemów wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 § 13.
-Rozporządzenie wchodzi w życie z dniem 28 lipca 2021 r.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937). 2) Niniejsze rozporządzenie w zakresie swej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/797 z dnia 11 maja 2016 r. w sprawie interoperacyjności systemu kolei w Unii Europejskiej (Dz. Urz. UE L 138 z 26.05.2016, str. 44). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r. w sprawie interoperacyjności systemu kolei (Dz. U. poz. 934), które zgodnie z art. 14 pkt 1 ustawy z dnia 30 marca 2021 r. o zmianie ustawy o transporcie kolejowym (Dz. U. poz. 780) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem 28 lipca 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r. w sprawie interoperacyjności systemu kolei (Dz. U. poz. 934), które zgodnie z art. 14 pkt 1 ustawy z dnia 30 marca 2021 r. o zmianie ustawy o transporcie kolejowym (Dz. U. poz. 780) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937). 2) Niniejsze rozporządzenie w zakresie swej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/797 z dnia 11 maja 2016 r. w sprawie interoperacyjności systemu kolei w Unii Europejskiej (Dz. Urz. UE L 138 z 26.05.2016, str. 44). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r. w sprawie interoperacyjności systemu kolei (Dz. U. poz. 934), które zgodnie z art. 14 pkt 1 ustawy z dnia 30 marca 2021 r. o zmianie ustawy o transporcie kolejowym (Dz. U. poz. 780) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 Załącznik – Zasadnicze wymagania systemu kolei
 1.
 Wymagania ogólne

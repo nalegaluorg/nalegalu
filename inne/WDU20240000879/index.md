@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 maja 2024 r. o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw
+# Ustawa z dnia 23 maja 2024 r. o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw Niniejsza ustawa: 1) służy stosowaniu rozporządzenia Rady (UE) nr 904/2010 z dnia 7 października 2010 r. w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 268 z 12.10.2010, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 348 z 29.12.2017, str. 1, Dz. Urz. UE L 259 z 16.10.2018, str. 1, Dz. Urz. UE L 311 z 07.12.2018, str. 1 oraz Dz. Urz. UE L 62 z 02.03.2020, str. 1); 2) w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2021/514 z dnia 22 marca 2021 r. zmieniającą dyrektywę 2011/16/UE w sprawie współpracy administracyjnej w dziedzinie opodatkowania (Dz. Urz. UE L 104 z 25.03.2021, str. 1); 3) uzupełnia wdrożenie dyrektywy Rady 2011/16/UE z dnia 15 lutego 2011 r. w sprawie współpracy administracyjnej w dziedzinie opodatkowania i uchylającej dyrektywę 77/799/EWG (Dz. Urz. UE L 64 z 11.03.2011, str. 1, Dz. Urz. UE L 359 z 16.12.2014, str. 1, Dz. Urz. UE L 332 z 18.12.2015, str. 1, Dz. Urz. UE L 146 z 03.06.2016, str. 8, Dz. Urz. UE L 342 z 16.12.2016, str. 1, Dz. Urz. UE L 139 z 05.06.2018, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 46 oraz Dz. Urz. UE L 104 z 25.03.2021, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-23 |
 | Data wydania | 2024-06-17 |
-| Wejście w życie | 2024-07-01 |
 | Ostatnia zmiana | 2024-06-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000879) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/879/text.pdf) |
 
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 9 października 2015 r. o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA oraz ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
+Automatyczna wymiana informacji o sprzedawcach
+Przepisy ogólne
+Procedury sprawozdawcze
 1.
 Raportujący operator platformy przekazuje Szefowi Krajowej Administracji Skarbowej zbiorczą informację o sprzedawcach podlegających raportowaniu za okres sprawozdawczy, zwaną dalej „informacją o sprzedawcach”, w terminie do końca miesiąca następującego po zakończeniu okresu sprawozdawczego, w którym raportujący operator platformy zidentyfikował sprzedawcę jako sprzedawcę podlegającego raportowaniu.
 2.
@@ -143,6 +146,7 @@ W przypadku niezastosowania się operatora platformy do wezwania Szef Krajowej A
 3.
 Do doręczania wezwań przepisy działu IV rozdziału 5 ustawy – Ordynacja podatkowa stosuje się odpowiednio.
 Raportujący operator platformy jest obowiązany przechowywać informacje i dowody, o których mowa w art. 75c, art. 75g, art. 75k, art. 75l ust. 4, art. 75m i art. 75o-75q, przez okres 5 lat, licząc od końca roku, w którym upłynął termin przekazania informacji o sprzedawcach.
+Procedury należytej staranności
 W celu ustalenia, czy sprzedawca jest wyłączonym sprzedawcą, o którym mowa w:
 1)
 art. 75a ust. 1 pkt 24 lit. a i b – raportujący operator platformy może opierać się na dostępnych publicznie informacjach lub potwierdzeniach uzyskanych od sprzedawcy będącego podmiotem;
@@ -208,6 +212,7 @@ Skorzystanie przez raportującego operatora platformy z usług zewnętrznego us�
 2.
 Jeżeli inny operator platformy dopełnia procedur należytej staranności za raportującego operatora platformy w odniesieniu do tej samej platformy, ten inny operator platformy jest obowiązany dopełnić procedur należytej staranności, przy czym nie wyłącza to odpowiedzialności raportującego operatora platformy za nienależyte wykonanie tych obowiązków przez innego operatora platformy.
 Dokumentację zgromadzoną do celów realizacji procedur należytej staranności raportujący operator platformy jest obowiązany przechowywać przez okres 5 lat, licząc od końca roku, w którym upłynął termin przekazania informacji o sprzedawcach.
+Procedury rejestracji operatorów platform
 1.
 Jeżeli operator platformy niebędący rezydentem do celów podatkowych w państwie członkowskim spełnia warunki uznania go za raportującego operatora platformy z Unii Europejskiej jednocześnie w Rzeczypospolitej Polskiej i innym państwie członkowskim, może wybrać Rzeczpospolitą Polską jako państwo, w którym będzie wypełniać obowiązki określone w niniejszym dziale.
 2.
@@ -249,7 +254,7 @@ adresy stron internetowych,
 e)
 każdy TIN nadany raportującemu operatorowi platformy spoza Unii Europejskiej oraz, jeżeli jest dostępny, numer identyfikacji VAT,
 f)
-informację o identyfikacji raportującego operatora platformy do celów podatku od towarów i usług lub podatku od wartości dodanej, zgodnie z tytułem XII rozdziałem 6 sekcją 2 i 3 dyrektywy 2006/112/WE Rady z dnia 28 listopada 2006 r. w sprawie wspólnego systemu podatku od wartości dodanej (Dz. Urz. UE L 347 z 11.12.2006, str. 1, z późn. zm.),
+informację o identyfikacji raportującego operatora platformy do celów podatku od towarów i usług lub podatku od wartości dodanej, zgodnie z tytułem XII rozdziałem 6 sekcją 2 i 3 dyrektywy 2006/112/WE Rady z dnia 28 listopada 2006 r. w sprawie wspólnego systemu podatku od wartości dodanej (Dz. Urz. UE L 347 z 11.12.2006, str. 1, z późn. zm.)Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 384 z 29.12.2006, str. 92, Dz. Urz. UE L 335 z 20.12.2007, str. 60, Dz. Urz. UE L 346 z 29.12.2007, str. 13, Dz. Urz. UE L 44 z 20.02.2008, str. 11, Dz. Urz. UE L 14 z 20.01.2009, str. 7, Dz. Urz. UE L 116 z 09.05.2009, str. 18, Dz. Urz. UE L 175 z 04.07.2009, str. 12, Dz. Urz. UE L 10 z 15.01.2010, str. 14, Dz. Urz. UE L 72 z 20.03.2010, str. 1, Dz. Urz. UE L 189 z 22.07.2010, str. 1, Dz. Urz. UE L 326 z 10.12.2010, str. 1, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 201 z 26.07.2013, str. 1 i 4, Dz. Urz. UE L 353 z 28.12.2013, str. 5, Dz. Urz. UE L 142 z 31.05.2016, str. 12, Dz. Urz. UE L 177 z 01.07.2016, str. 9, Dz. Urz. UE L 348 z 29.12.2017, str. 7, Dz. Urz. UE L 162 z 27.06.2018, str. 1, Dz. Urz. UE L 282 z 12.11.2018, str. 5, Dz. Urz. UE L 286 z 14.11.2018, str. 20, Dz. Urz. UE L 311 z 07.12.2018, str. 3, Dz. Urz. UE L 329 z 27.12.2018, str. 3, Dz. Urz. UE L 83 z 25.03.2019, str. 42, Dz. Urz. UE L 310 z 02.12.2019, str. 1, Dz. Urz. UE L 336 z 30.12.2019, str. 10, Dz. Urz. UE L 62 z 02.03.2020, str. 7 i 13, Dz. Urz. UE L 396 z 25.11.2020, str. 1, Dz. Urz. UE L 419 z 11.12.2020, str. 1, Dz. Urz. UE L 250 z 15.07.2021, str. 1, Dz. Urz. UE L 107 z 06.04.2022, str. 1 oraz Dz. Urz. UE L 155 z 08.06.2022, str. 1.,
 g)
 wskazanie państw członkowskich, których rezydentami są sprzedawcy podlegający raportowaniu;
 2)
@@ -361,6 +366,7 @@ W zakresie nieuregulowanym w niniejszym rozdziale do postępowań w sprawie pozo
 W zakresie wydawania potwierdzeń nadania indywidualnego numeru operatora platformy stosuje się odpowiednio przepisy działu VIIIA ustawy – Ordynacja podatkowa.
 3.
 Decyzja o unieważnieniu indywidualnego numeru operatora platformy oraz decyzja o cofnięciu indywidualnego numeru operatora platformy są natychmiast wykonalne.
+Kontrola raportujących operatorów platform
 Szef Krajowej Administracji Skarbowej przeprowadza kontrolę wykonywania przez raportującego operatora platformy obowiązków w zakresie stosowania procedur należytej staranności oraz obowiązków sprawozdawczych określonych w niniejszym dziale, zwaną dalej w niniejszym dziale „kontrolą”.
 1.
 Z czynności kontrolnych sporządza się protokół kontroli. Kontrolowany, który nie zgadza się z ustaleniami kontroli zawartymi w protokole, może w terminie 14 dni od dnia jego doręczenia przedstawić zastrzeżenia lub wyjaśnienia, wskazując równocześnie stosowne dowody.
@@ -399,6 +405,7 @@ W przypadku wystąpienia uchybień lub nieprawidłowości, których wyjaśnienie
 2.
 W żądaniu, o którym mowa w ust. 1, określa się zakres żądanych informacji oraz termin ich przekazania, nie krótszy jednak niż 14 dni, licząc od dnia doręczenia żądania.
 W zakresie nieuregulowanym w niniejszym rozdziale do kontroli stosuje się odpowiednio przepisy działu IV rozdziału 1, z wyłączeniem art. 127 i art. 128, rozdziału 2, rozdziału 3, z wyłączeniem art. 133 i art. 133a, rozdziału 3a, rozdziału 4, z wyłączeniem art. 139, rozdziałów 5, 6, 9–11, 14, 16, 22 i 23 oraz działu VI, z wyłączeniem art. 281, art. 282a, art. 291 i art. 292, ustawy – Ordynacja podatkowa.
+Obowiązki organu
 1.
 Szef Krajowej Administracji Skarbowej przekazuje, w terminie 2 miesięcy od zakończenia okresu sprawozdawczego, w drodze automatycznej wymiany, informacje odnoszące się do sprzedawcy podlegającego raportowaniu określone w art. 75c właściwemu organowi państwa uczestniczącego, którego rezydentem jest sprzedawca podlegający raportowaniu, a w przypadku sprzedawcy podlegającego raportowaniu, który świadczy usługi udostępnienia nieruchomości – także właściwemu organowi państwa uczestniczącego, w którym położona jest nieruchomość.
 2.
@@ -418,23 +425,19 @@ Szef Krajowej Administracji Skarbowej zwraca się do Komisji Europejskiej o skre
 3.
 Szef Krajowej Administracji Skarbowej powiadamia Komisję Europejską o raportującym operatorze platformy, który nie dopełnił obowiązku jednorazowej rejestracji zgodnie z art. 75u ust. 1.
 4.
-Powiadomienia dokonuje się niezwłocznie po powzięciu uzasadnionego przypuszczenia o prowadzeniu przez podmiot działalności jako raportujący operator platformy.
-” ;
+Powiadomienia dokonuje się niezwłocznie po powzięciu uzasadnionego przypuszczenia o prowadzeniu przez podmiot działalności jako raportujący operator platformy. ” ;
 26)
 w art. 77:
 a)
-w ust. 3 po pkt 9 dodaje się pkt 9a w brzmieniu:
-„
+w ust. 3 po pkt 9 dodaje się pkt 9a w brzmieniu: „
 9a)
-inne niż wskazane w pkt 9 informacje, które mogą pomóc właściwemu organowi państwa członkowskiego w ocenie potencjalnego ryzyka podatkowego;
-” ,
+inne niż wskazane w pkt 9 informacje, które mogą pomóc właściwemu organowi państwa członkowskiego w ocenie potencjalnego ryzyka podatkowego; ” ,
 b)
 w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Informacje, o których mowa w ust. 1, są przekazywane niezwłocznie, nie później jednak niż w terminie: ” ;
 27)
 w art. 87c w ust. 1 wyrazy „na pisemne żądanie” zastępuje się wyrazami „na sporządzone na piśmie żądanie”;
 28)
-po art. 90 dodaje się art. 90a i art. 90b w brzmieniu:
-„
+po art. 90 dodaje się art. 90a i art. 90b w brzmieniu: „
 
 **Art. 1.** W ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2023 r. poz. 241) wprowadza się następujące zmiany:
 
@@ -443,10 +446,10 @@ po art. 90 dodaje się art. 90a i art. 90b w brzmieniu:
 - **2)** w art. 4: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Organy administracji publicznej oraz instytucje finansowe wymienione w art. 48 ust. 1–6 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.), na sporządzone na piśmie żądanie ministra właściwego do spraw finansów publicznych lub Szefa Krajowej Administracji Skarbowej, są obowiązane do udzielenia informacji podatkowych w razie wystąpienia właściwego organu w zakresie i na zasadach określonych odpowiednio w:
+1. Organy administracji publicznej oraz instytucje finansowe wymienione w art. 48 ust. 1–6 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863 i 879.), na sporządzone na piśmie żądanie ministra właściwego do spraw finansów publicznych lub Szefa Krajowej Administracji Skarbowej, są obowiązane do udzielenia informacji podatkowych w razie wystąpienia właściwego organu w zakresie i na zasadach określonych odpowiednio w:
 
 - **1)** ust. 3 i 4 oraz dziale II lub ratyfikowanych umowach o unikaniu podwójnego opodatkowania i innych ratyfikowanych umowach międzynarodowych, których stroną jest Rzeczpospolita Polska;
-- **2)** ust. 4 i rozporządzeniu Rady (UE) nr 904/2010 z dnia 7 października 2010 r. w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 268 z 12.10.2010, str. 1, z późn. zm.). ” , w ust. 1a wyrazy „na pisemne żądanie ministra właściwego do spraw finansów publicznych, Szefa Krajowej Administracji Skarbowej lub jego upoważnionego przedstawiciela” zastępuje się wyrazami „na sporządzone na piśmie żądanie ministra właściwego do spraw finansów publicznych lub Szefa Krajowej Administracji Skarbowej”, dodaje się ust. 3 i 4 w brzmieniu: „
+- **2)** ust. 4 i rozporządzeniu Rady (UE) nr 904/2010 z dnia 7 października 2010 r. w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 268 z 12.10.2010, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 348 z 29.12.2017, str. 1, Dz. Urz. UE L 259 z 16.10.2018, str. 1, Dz. Urz. UE L 311 z 07.12.2018, str. 1 oraz Dz. Urz. UE L 62 z 02.03.2020, str. 1 i 13.. ” , w ust. 1a wyrazy „na pisemne żądanie ministra właściwego do spraw finansów publicznych, Szefa Krajowej Administracji Skarbowej lub jego upoważnionego przedstawiciela” zastępuje się wyrazami „na sporządzone na piśmie żądanie ministra właściwego do spraw finansów publicznych lub Szefa Krajowej Administracji Skarbowej”, dodaje się ust. 3 i 4 w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -550,7 +553,7 @@ po art. 90 dodaje się art. 90a i art. 90b w brzmieniu:
 1a. Przepis ust. 1 ma zastosowanie do dochodów osiągniętych w roku podatkowym przez podatników:
 
 - **1)** podatku dochodowego od osób fizycznych mających miejsce zamieszkania na terytorium danego państwa członkowskiego – w przypadku dochodów z tytułów określonych w ust. 1 pkt 1–8,
-- **2)** podatku dochodowego od osób prawnych mających siedzibę lub zarząd na terytorium danego państwa członkowskiego – w przypadku dochodów z tytułów określonych w ust. 1 pkt 8 które zostały wykazane w deklaracjach składanych przez płatników podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych. ” , dodaje się ust. 3 w brzmieniu: „
+- **2)** podatku dochodowego od osób prawnych mających siedzibę lub zarząd na terytorium danego państwa członkowskiego – w przypadku dochodów z tytułów określonych w ust. 1 pkt 8 – które zostały wykazane w deklaracjach składanych przez płatników podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych. ” , dodaje się ust. 3 w brzmieniu: „
     - **c)**
 
 3. Informacje podatkowe, o których mowa w ust. 1, obejmują także numer identyfikacji podatkowej podatnika nadany przez państwo członkowskie miejsca zamieszkania, siedziby lub zarządu, jeżeli jest dostępny. ” ;
@@ -660,9 +663,9 @@ po art. 90 dodaje się art. 90a i art. 90b w brzmieniu:
 
 - **25)** po dziale III dodaje się dział IIIA w brzmieniu: „
 
-### Dział IIIA Automatyczna wymiana informacji o sprzedawcach
+### Dział IIIA
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 75a.**
 
@@ -674,7 +677,7 @@ po art. 90 dodaje się art. 90a i art. 90b w brzmieniu:
 - **4)** identyfikatorze rachunku finansowego – rozumie się przez to dostępny dla operatora platformy unikatowy identyfikator w rozumieniu art. 2 pkt 33 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, niepowtarzalny numer identyfikacyjny lub niepowtarzalne informacje referencyjne rachunku bankowego, rachunku w spółdzielczej kasie oszczędnościowo-kredytowej lub innego rachunku służącego do wykonywania transakcji płatniczych, na który jest wpłacane lub na którym jest uznawane wynagrodzenie;
 - **5)** kwalifikowanej jurysdykcji spoza Unii Europejskiej – rozumie się przez to państwo lub terytorium spoza Unii Europejskiej, które zawarło z Rzecząpospolitą Polską skuteczną kwalifikującą umowę i ujęło Rzeczpospolitą Polską w prowadzonym przez siebie wykazie państw i terytoriów, które zawarły skuteczną kwalifikującą umowę;
 - **6)** kwalifikowanej stosownej czynności – rozumie się przez to stosowną czynność objętą automatyczną wymianą na podstawie skutecznej kwalifikującej umowy;
-- **7)** kwalifikowanym operatorze platformy spoza Unii Europejskiej – rozumie się przez to operatora platformy, który: jest rezydentem do celów podatkowych w kwalifikowanej jurysdykcji spoza Unii Europejskiej lub jest zarejestrowany lub posiada miejsce zarządu, w tym faktyczny zarząd, w kwalifikowanej jurysdykcji spoza Unii Europejskiej jeżeli wszystkie stosowne czynności, których wykonywanie umożliwia, są kwalifikowanymi stosownymi czynnościami;
+- **7)** kwalifikowanym operatorze platformy spoza Unii Europejskiej – rozumie się przez to operatora platformy, który: jest rezydentem do celów podatkowych w kwalifikowanej jurysdykcji spoza Unii Europejskiej lub jest zarejestrowany lub posiada miejsce zarządu, w tym faktyczny zarząd, w kwalifikowanej jurysdykcji spoza Unii Europejskiej – jeżeli wszystkie stosowne czynności, których wykonywanie umożliwia, są kwalifikowanymi stosownymi czynnościami;
     - **a)**
     - **b)**
 
@@ -686,7 +689,7 @@ po art. 90 dodaje się art. 90a i art. 90b w brzmieniu:
     - **b)**
     - **c)**
 
-- **12)** platformie – rozumie się przez to, z zastrzeżeniem ust. 2: oprogramowanie, w tym stronę internetową albo jej część, aplikacje, w tym aplikacje mobilne które są dostępne dla użytkowników i umożliwiają sprzedawcom łączność z innymi użytkownikami w celu wykonywania, bezpośrednio lub pośrednio, stosownej czynności na rzecz tych użytkowników, a także ustalenia dotyczące poboru i wypłaty wynagrodzenia z tytułu stosownej czynności;
+- **12)** platformie – rozumie się przez to, z zastrzeżeniem ust. 2: oprogramowanie, w tym stronę internetową albo jej część, aplikacje, w tym aplikacje mobilne – które są dostępne dla użytkowników i umożliwiają sprzedawcom łączność z innymi użytkownikami w celu wykonywania, bezpośrednio lub pośrednio, stosownej czynności na rzecz tych użytkowników, a także ustalenia dotyczące poboru i wypłaty wynagrodzenia z tytułu stosownej czynności;
     - **a)**
     - **b)**
 
@@ -701,7 +704,7 @@ po art. 90 dodaje się art. 90a i art. 90b w brzmieniu:
 - **17)** skutecznej kwalifikującej umowie – rozumie się przez to umowę między państwem członkowskim a państwem lub terytorium spoza Unii Europejskiej przewidującą automatyczną wymianę informacji równoważnych informacjom, o których mowa w art. 75c, jeżeli w akcie wykonawczym Komisji Europejskiej, o którym mowa w art. 8ac ust. 7 dyrektywy 2011/16/UE, potwierdzono równoważność tych informacji;
 - **18)** sprzedawcy – rozumie się przez to użytkownika platformy będącego osobą fizyczną albo podmiotem, który w dowolnym momencie okresu sprawozdawczego jest zarejestrowany na platformie i wykonuje stosowną czynność;
 - **19)** sprzedawcy podlegającym raportowaniu – rozumie się przez to aktywnego sprzedawcę niebędącego wyłączonym sprzedawcą, który jest rezydentem w państwie uczestniczącym lub udostępnił nieruchomość położoną w państwie uczestniczącym;
-- **20)** stosownej czynności – rozumie się przez to jedną z poniższych czynności wykonywaną za wynagrodzeniem: udostępnienie nieruchomości, ich części, w tym pomieszczeń przynależnych, lub udziału w nieruchomościach, usługę świadczoną osobiście obejmującą pracę wykonywaną w trybie zadaniowym lub czasowym przez osobę fizyczną działającą niezależnie albo na rzecz lub w imieniu podmiotu, wykonywaną na żądanie użytkownika online lub fizycznie offline po umożliwieniu jej wykonania za pośrednictwem platformy, sprzedaż towarów, udostępnienie środka transportu z wyjątkiem czynności wykonywanej przez sprzedawcę będącego pracownikiem raportującego operatora platformy lub podmiotu powiązanego raportującego operatora platformy;
+- **20)** stosownej czynności – rozumie się przez to jedną z poniższych czynności wykonywaną za wynagrodzeniem: udostępnienie nieruchomości, ich części, w tym pomieszczeń przynależnych, lub udziału w nieruchomościach, usługę świadczoną osobiście obejmującą pracę wykonywaną w trybie zadaniowym lub czasowym przez osobę fizyczną działającą niezależnie albo na rzecz lub w imieniu podmiotu, wykonywaną na żądanie użytkownika online lub fizycznie offline po umożliwieniu jej wykonania za pośrednictwem platformy, sprzedaż towarów, udostępnienie środka transportu – z wyjątkiem czynności wykonywanej przez sprzedawcę będącego pracownikiem raportującego operatora platformy lub podmiotu powiązanego raportującego operatora platformy;
     - **a)**
     - **b)**
     - **c)**
@@ -736,15 +739,15 @@ po art. 90 dodaje się art. 90a i art. 90b w brzmieniu:
 
 6. Minister właściwy do spraw finansów publicznych corocznie ogłasza, w terminie do dnia 31 grudnia, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, listę państw i terytoriów, o których mowa w ust. 1 pkt 11 lit. b i c, która obowiązuje za okres sprawozdawczy, w którym ta lista została ogłoszona.
 
-#### Rozdział 2 Procedury sprawozdawcze
+#### Rozdział 2
 
-#### Rozdział 3 Procedury należytej staranności
+#### Rozdział 3
 
-#### Rozdział 4 Procedury rejestracji operatorów platform
+#### Rozdział 4
 
-#### Rozdział 5 Kontrola raportujących operatorów platform
+#### Rozdział 5
 
-#### Rozdział 6 Obowiązki organu
+#### Rozdział 6
 
 **Art. 90a.** Instytucja finansowa i instytucja obowiązana, które nie dopełniają obowiązku udzielenia posiadanych informacji, o których mowa odpowiednio w art. 4 ust. 1 lub 1a, podlegają karze pieniężnej. 1. Raportujący operator platformy w rozumieniu art. 75a ust. 1 pkt 14, który nie dopełnia obowiązku:
 
@@ -755,7 +758,7 @@ po art. 90 dodaje się art. 90a i art. 90b w brzmieniu:
 - **5)** powiadomienia Szefa Krajowej Administracji Skarbowej, o którym mowa w art. 75t ust. 4,
 - **6)** jednorazowej rejestracji w Rzeczypospolitej Polskiej zgodnie z art. 75u ust. 1 – w przypadku braku rejestracji w innym wybranym państwie członkowskim,
 - **7)** przekazania Szefowi Krajowej Administracji Skarbowej informacji, o których mowa w art. 75zb ust. 8 lub art. 75zc ust. 1,
-- **8)** usunięcia w terminie nieprawidłowości stwierdzonych w wyniku kontroli, o którym mowa w art. 75zb ust. 4 podlega karze pieniężnej.
+- **8)** usunięcia w terminie nieprawidłowości stwierdzonych w wyniku kontroli, o którym mowa w art. 75zb ust. 4 – podlega karze pieniężnej.
 
 2. Wyłączony operator platformy w rozumieniu art. 75a ust. 1 pkt 23, który nie dopełnia obowiązku, o którym mowa w art. 75b ust. 4, podlega karze pieniężnej. ” ;
 
@@ -828,7 +831,7 @@ po art. 90 dodaje się art. 90a i art. 90b w brzmieniu:
 - **5)** w art. 11 w ust. 3 pkt 2 otrzymuje brzmienie: „
 - **2)** sporządzonym na piśmie zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy; ” .
 
-**Art. 7.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.) w art. 88 ust. 3 otrzymuje brzmienie: „ 3. W przypadku gdy obca władza wystąpiła o przeprowadzenie kontroli jednoczesnej, minister właściwy do spraw finansów publicznych potwierdza przystąpienie do kontroli albo odmawia przeprowadzenia kontroli, uzasadniając przyczynę odmowy, nie później niż w terminie 60 dni od dnia otrzymania wniosku o przeprowadzenie takiej kontroli. ” .
+**Art. 7.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850 i 863.) w art. 88 ust. 3 otrzymuje brzmienie: „ 3. W przypadku gdy obca władza wystąpiła o przeprowadzenie kontroli jednoczesnej, minister właściwy do spraw finansów publicznych potwierdza przystąpienie do kontroli albo odmawia przeprowadzenia kontroli, uzasadniając przyczynę odmowy, nie później niż w terminie 60 dni od dnia otrzymania wniosku o przeprowadzenie takiej kontroli. ” .
 
 **Art. 8.** Raportujący operator platformy w rozumieniu art. 75a ust. 1 pkt 14 ustawy zmienianej w art. 1 jest obowiązany dopełnić do dnia 31 grudnia 2024 r. procedur określonych w dziale IIIA rozdziale 3 ustawy zmienianej w art. 1 w przypadku sprzedawców, którzy byli zarejestrowani na platformie na dzień wejścia w życie niniejszej ustawy.
 
@@ -871,13 +874,13 @@ po art. 90 dodaje się art. 90a i art. 90b w brzmieniu:
 
 **Art. 17.** Przepisy art. 71a ustawy zmienianej w art. 1 i art. 10a ustawy zmienianej w art. 6 stosuje się do obowiązków, o których mowa w tych przepisach, powstałych od dnia wejścia w życie niniejszej ustawy, choćby dotyczące ich porozumienia zostały zawarte przed tym dniem. Do spraw, o których mowa w art. 4 ustawy zmienianej w art. 1, niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepis art. 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 19.** Do czasu uzyskania zdolności operacyjnej przez bazę danych, o której mowa w art. 21 ust. 5 dyrektywy Rady 2011/16/UE z dnia 15 lutego 2011 r. w sprawie współpracy administracyjnej w dziedzinie opodatkowania i uchylającej dyrektywę 77/799/EWG (Dz. Urz. UE L 64 z 11.03.2011, str. 1, z późn. zm.), Szef Krajowej Administracji Skarbowej przekazuje co roku Komisji Europejskiej statystyki dotyczące automatycznej wymiany informacji przekazywanych przez operatorów platform w rozumieniu art. 75a ust. 1 pkt 10 ustawy zmienianej w art. 1.
+**Art. 19.** Do czasu uzyskania zdolności operacyjnej przez bazę danych, o której mowa w art. 21 ust. 5 dyrektywy Rady 2011/16/UE z dnia 15 lutego 2011 r. w sprawie współpracy administracyjnej w dziedzinie opodatkowania i uchylającej dyrektywę 77/799/EWG (Dz. Urz. UE L 64 z 11.03.2011, str. 1, z późn. zm.)Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 50 z 23.02.2012, str. 58, Dz. Urz. UE L 359 z 16.12.2014, str. 1, Dz. Urz. UE L 332 z 18.12.2015, str. 1, Dz. Urz. UE L 146 z 03.06.2016, str. 8 oraz Dz. Urz. UE L 342 z 16.12.2016, str. 1., Szef Krajowej Administracji Skarbowej przekazuje co roku Komisji Europejskiej statystyki dotyczące automatycznej wymiany informacji przekazywanych przez operatorów platform w rozumieniu art. 75a ust. 1 pkt 10 ustawy zmienianej w art. 1.
 
 **Art. 20.** Do dnia wejścia w życie art. 75b ust. 5 i art. 75u ust. 10 ustawy zmienianej w art. 1 informacja o sprzedawcach, o której mowa w art. 75b ust. 1 ustawy zmienianej w art. 1, i formularz rejestracyjny, o którym mowa w art. 75u ust. 1 ustawy zmienianej w art. 1, są przesyłane w sposób określony w przepisach wydanych na podstawie art. 193a § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760) i zgodnie z wymaganiami określonymi w tych przepisach.
 
 **Art. 21.** Do wystąpień obcych władz o przeprowadzenie kontroli jednoczesnej, otrzymanych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy art. 291a § 3 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, oraz art. 88 ust. 3 ustawy zmienianej w art. 7, w brzmieniu dotychczasowym. Ustawa wchodzi w życie z dniem 1 lipca 2024 r., z wyjątkiem:
 
 - **1)** art. 6 pkt 1, który wchodzi w życie z dniem 1 września 2024 r.;
-- **2)** art. 1 pkt 25 w zakresie art. 75b ust. 5 i art. 75u ust. 10, który wchodzi w życie z dniem 1 lipca 2025 r.
+- **2)** art. 1 pkt 25 w zakresie art. 75b ust. 5 i art. 75u ust. 10, który wchodzi w życie z dniem 1 lipca 2025 r. 1) Niniejsza ustawa: 1) służy stosowaniu rozporządzenia Rady (UE) nr 904/2010 z dnia 7 października 2010 r. w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 268 z 12.10.2010, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 348 z 29.12.2017, str. 1, Dz. Urz. UE L 259 z 16.10.2018, str. 1, Dz. Urz. UE L 311 z 07.12.2018, str. 1 oraz Dz. Urz. UE L 62 z 02.03.2020, str. 1); 2) w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2021/514 z dnia 22 marca 2021 r. zmieniającą dyrektywę 2011/16/UE w sprawie współpracy administracyjnej w dziedzinie opodatkowania (Dz. Urz. UE L 104 z 25.03.2021, str. 1); 3) uzupełnia wdrożenie dyrektywy Rady 2011/16/UE z dnia 15 lutego 2011 r. w sprawie współpracy administracyjnej w dziedzinie opodatkowania i uchylającej dyrektywę 77/799/EWG (Dz. Urz. UE L 64 z 11.03.2011, str. 1, Dz. Urz. UE L 359 z 16.12.2014, str. 1, Dz. Urz. UE L 332 z 18.12.2015, str. 1, Dz. Urz. UE L 146 z 03.06.2016, str. 8, Dz. Urz. UE L 342 z 16.12.2016, str. 1, Dz. Urz. UE L 139 z 05.06.2018, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 46 oraz Dz. Urz. UE L 104 z 25.03.2021, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 9 października 2015 r. o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA oraz ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863 i 879. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 348 z 29.12.2017, str. 1, Dz. Urz. UE L 259 z 16.10.2018, str. 1, Dz. Urz. UE L 311 z 07.12.2018, str. 1 oraz Dz. Urz. UE L 62 z 02.03.2020, str. 1 i 13. 5) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 384 z 29.12.2006, str. 92, Dz. Urz. UE L 335 z 20.12.2007, str. 60, Dz. Urz. UE L 346 z 29.12.2007, str. 13, Dz. Urz. UE L 44 z 20.02.2008, str. 11, Dz. Urz. UE L 14 z 20.01.2009, str. 7, Dz. Urz. UE L 116 z 09.05.2009, str. 18, Dz. Urz. UE L 175 z 04.07.2009, str. 12, Dz. Urz. UE L 10 z 15.01.2010, str. 14, Dz. Urz. UE L 72 z 20.03.2010, str. 1, Dz. Urz. UE L 189 z 22.07.2010, str. 1, Dz. Urz. UE L 326 z 10.12.2010, str. 1, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 201 z 26.07.2013, str. 1 i 4, Dz. Urz. UE L 353 z 28.12.2013, str. 5, Dz. Urz. UE L 142 z 31.05.2016, str. 12, Dz. Urz. UE L 177 z 01.07.2016, str. 9, Dz. Urz. UE L 348 z 29.12.2017, str. 7, Dz. Urz. UE L 162 z 27.06.2018, str. 1, Dz. Urz. UE L 282 z 12.11.2018, str. 5, Dz. Urz. UE L 286 z 14.11.2018, str. 20, Dz. Urz. UE L 311 z 07.12.2018, str. 3, Dz. Urz. UE L 329 z 27.12.2018, str. 3, Dz. Urz. UE L 83 z 25.03.2019, str. 42, Dz. Urz. UE L 310 z 02.12.2019, str. 1, Dz. Urz. UE L 336 z 30.12.2019, str. 10, Dz. Urz. UE L 62 z 02.03.2020, str. 7 i 13, Dz. Urz. UE L 396 z 25.11.2020, str. 1, Dz. Urz. UE L 419 z 11.12.2020, str. 1, Dz. Urz. UE L 250 z 15.07.2021, str. 1, Dz. Urz. UE L 107 z 06.04.2022, str. 1 oraz Dz. Urz. UE L 155 z 08.06.2022, str. 1. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850 i 863. 7) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 50 z 23.02.2012, str. 58, Dz. Urz. UE L 359 z 16.12.2014, str. 1, Dz. Urz. UE L 332 z 18.12.2015, str. 1, Dz. Urz. UE L 146 z 03.06.2016, str. 8 oraz Dz. Urz. UE L 342 z 16.12.2016, str. 1.
 
 

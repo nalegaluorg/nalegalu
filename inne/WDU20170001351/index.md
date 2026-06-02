@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 26 czerwca 2017 r. w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 26 czerwca 2017 r. w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-26 |
 | Data wydania | 2017-07-07 |
-| Wejście w życie | 2017-07-08 |
 | Ostatnia zmiana | 2025-12-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001351) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1351/text.pdf) |
 
@@ -58,7 +57,10 @@ cyjnych i promocyjnych dotyczących produktów rolnych wdrażanych na rynku wewn
 – – dwóch etapach, jeżeli zadanie jest realizowane przez 2 lata,
 – – trzech etapach, jeżeli zadanie jest realizowane przez 3 lata
 – zgodnie z art. 14 i art. 15 rozporządzenia wykonawczego Komisji (UE) 2015/1831 z dnia 7 października 2015 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1144/2014 w sprawie działań informacyjnych i promocyjnych dotyczących produktów rolnych wdrażanych na rynku wewnętrznym i w państwach trzecich (Dz. Urz. UE L 266 z 13.10.2015, str. 14), zwanego dalej „rozporządzeniem 2015/1831”, albo
-– przez okres nie dłuższy niż dwa lata, w nie więcej niż ośmiu etapach, a w przypadku gdy zadanie będzie realizowane przez okres: – – nie dłuższy niż 270 dni – zadanie będzie realizowane nie więcej niż w dwóch etapach, – – dłuższy niż 270 dni – zadanie będzie realizowane co najmniej w trzech etapach, a każdy etap będzie realizowany przez co najmniej 90 dni – zgodnie z § 3 ust. 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 lipca 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1080), zwanego dalej „rozporządzeniem Ministra”.
+przez okres nie dłuższy niż dwa lata, w nie więcej niż ośmiu etapach, a w przypadku gdy zadanie będzie realizowane przez okres:
+– – nie dłuższy niż 270 dni – zadanie będzie realizowane nie więcej niż w dwóch etapach,
+– – dłuższy niż 270 dni – zadanie będzie realizowane co najmniej w trzech etapach, a każdy etap będzie realizowany przez co najmniej 90 dni
+– zgodnie z § 3 ust. 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 lipca 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1080), zwanego dalej „rozporządzeniem Ministra”.
 § 3.
 Wsparcia udziela się w drodze decyzji Prezesa Agencji Rynku Rolnego, zwanej dalej „Agencją”, w formie refundacji kosztów bezpośrednio związanych z realizacją zadania:
 1)
@@ -68,8 +70,7 @@ w przypadku wsparcia, o którym mowa w § 1 pkt 2 – w części stanowiącej wk
 a)
 art. 4 i art. 19 rozporządzenia delegowanego Komisji (UE) 2015/1829 z dnia 23 kwietnia 2015 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1144/2014 w sprawie działań informacyjnych i promocyjnych dotyczących produktów rolnych na rynku wewnętrznym i w państwach trzecich (Dz. Urz. UE L 266 z 13.10.2015, str. 3) i poniesionych w okresie określonym w umowie, o której mowa w art. 10 ust. 3 rozporządzenia 2015/1831,
 b)
-§ 4 ust. 1 rozporządzenia Ministra i poniesionych od dnia zawarcia umowy o przyznaniu pomocy finansowej, o której mowa w § 12 ust. 1 rozporządzenia Ministra
-zwanych dalej „kosztami kwalifikowalnymi”.
+§ 4 ust. 1 rozporządzenia Ministra i poniesionych od dnia zawarcia umowy o przyznaniu pomocy finansowej, o której mowa w § 12 ust. 1 rozporządzenia Ministra – zwanych dalej „kosztami kwalifikowalnymi”.
 § 4.
 1.
 Wsparcie stanowi równowartość kosztów kwalifikowalnych brutto zadania w przypadku:
@@ -228,8 +229,7 @@ W przypadku braku środków finansowych na wypłatę wsparcia w terminie, o któ
 § 11.
 Do spraw związanych z udzielaniem i wypłatą wsparcia finansowego na realizację zadań określonych w art. 2 ust. 2 pkt 1 lit. e, g i h, pkt 2 lit. e-g, pkt 3 lit. e-g, pkt 4 lit. e-g, pkt 5 lit. e-g, pkt 6 lit. e-g, pkt 7 lit. e-g, pkt 8 lit. e-g oraz pkt 9 lit. e-g ustawy z dnia 22 maja 2009 r. o funduszach promocji produktów rolno-spożywczych, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2010 r. w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 327) (w brzmieniu z dnia 14 stycznia 2012 r., Dz. U, poz. 1722).
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2010 r. w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 327 oraz z 2011 r. poz. 1722), które utraciło moc z dniem 31 grudnia 2016 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2010 r. w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 327 oraz z 2011 r. poz. 1722), które utraciło moc z dniem 31 grudnia 2016 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2010 r. w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 327 oraz z 2011 r. poz. 1722), które utraciło moc z dniem 31 grudnia 2016 r.
 Załącznik – Koszty kwalifikowalne podlegające refundacji, z tytulu wsparcia, o którym mowa w § 1 pkt 1 i 3
 Koszty bezpośrednio związane z realizacją zadania, które obejmują koszty:
 1)

@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# 1) tryb działania wojewódzkiej spraw służby zastępczej, zwanej dalej „komisją wojewódzką”, spraw służby zastępczej, zwanej dalej „komisją”;
-
-*ROZPORZĄDZENIE RADY MINISTRÓW z 14 sierpnia 2023 sprawie wojewódzkich spraw służby zastępczej spraw służby zastępczej Na podstawie art. 576 ustawy z 11 marca 2022 obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 poz. 347, 641, 1615 1834) zarządza się, co następuje: § 1. Rozporządzenie określa:*
+# 11884400 ROZPORZĄDZENIE RADY MINISTRÓW z 14 sierpnia 2023 sprawie wojewódzkich spraw służby zastępczej spraw służby zastępczej Na podstawie art. 576 ustawy z 11 marca 2022 obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 poz. 347, 641, 1615 1834) zarządza się, co następuje: § 1. Rozporządzenie określa:
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001840) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1840/text.pdf) |
 
+1) tryb działania wojewódzkiej spraw służby zastępczej, zwanej dalej „komisją wojewódzką”, spraw służby zastępczej, zwanej dalej „komisją”;
 sposób dokumentowania działalności wojewódzkiej komisji;
 3) wzory orzeczeń sprawach przeznaczenia służby zastępczej państwowych samorządowych jednostkach organizacyjnych, podmiotach leczniczych niebędących przedsiębiorcami, których mowa przepisach działalności leczniczej, oraz organizacjach pożytku publicznego, zwanych dalej „podmiotami”.
 § 2. 1. Przewodniczący wojewódzkiej zwołują posiedzenia tych miarę potrzeby, kierując się liczbą lub pilnością spraw podlegających rozpatrzeniu, jednak nie częściej niż raz na miesiąc kalendarzowy.

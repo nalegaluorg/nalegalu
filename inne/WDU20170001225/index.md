@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 19 czerwca 2017 r. w sprawie określenia wykazu świadczeń opieki zdrowotnej wymagających ustalenia odrębnego sposobu finansowania
+# Rozporządzenie Ministra Zdrowiaz dnia 19 czerwca 2017 r. w sprawie określenia wykazu świadczeń opieki zdrowotnej wymagających ustalenia odrębnego sposobu finansowania Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-19 |
 | Data wydania | 2017-06-26 |
-| Wejście w życie | 2017-06-27 |
 | Ostatnia zmiana | 2025-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001225) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1225/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 136c ust. 6 pkt 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 136c ust. 6 pkt 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844, 858, 1089 i 1139.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa wykaz świadczeń opieki zdrowotnej wymagających ustalenia odrębnego sposobu finansowania w ramach kwoty zobowiązania, o której mowa w art. 136 ust. 1 pkt 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwanej dalej „ustawą”, określonej w umowach o udzielanie świadczeń opieki zdrowotnej, zawieranych z podmiotami zakwalifikowanymi do systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej, o którym mowa w art. 95l ust. 1 ustawy, zwanego dalej „systemem zabezpieczenia”.
 § 2.
@@ -81,6 +80,5 @@ diagnostyka i leczenie onkologiczne w profilach systemu zabezpieczenia, zakresac
 24)
 świadczenia zabiegowe w zakresie usunięcia zaćmy.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844, 858, 1089 i 1139.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844, 858, 1089 i 1139.
 

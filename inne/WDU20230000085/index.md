@@ -26,18 +26,32 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000085) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/85/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej Rozdział 1 – Przepisy ogólne Rozdział 2 – Osoby prawne Kościoła i ich organy Rozdział 3 – Działalność Kościoła Rozdział 4 – Sprawy majątkowe Rozdział 5 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej
 Załącznik – Wykaz parafii Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej (Dz. U. z 2014 r. poz. 1712), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 grudnia 2022 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi: „
+Przepisy ogólne
+Osoby prawne Kościoła i ich organy
+Działalność Kościoła
+Sprawy majątkowe
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Osoby prawne Kościoła i ich organy
+
+#### Rozdział 3 – Działalność Kościoła
+
+#### Rozdział 4 – Sprawy majątkowe
+
+#### Rozdział 5 – Przepisy przejściowe i końcowe
 
 **Art. 417.** Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -63,7 +77,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Kościół ma prawo do otaczania opieką duszpasterską ewangelików wyznania metodystycznego narodowości polskiej, przebywających czasowo lub na stałe za granicą, oraz współwyznawców z zagranicy, zamieszkujących lub przebywających na terytorium Rzeczypospolitej Polskiej.
 
-#### Rozdział 2 Osoby prawne Kościoła i ich organy
+#### Rozdział 2
 
 **Art. 6.**
 
@@ -79,21 +93,21 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **1)** dla Kościoła jako całości – Rada Kościoła reprezentowana przez jej Prezydium;
 - **2)** dla parafii – rada parafialna reprezentowana przez pastora.
 
-4. Zmiana nazwy grupy osób prawnych, o której mowa w ust. 2 pkt 2, może być dokonana przepisami wewnątrzkościelnymi. Zmiany te, na wniosek Rady Kościoła, ogłasza Minister – Szef Urzędu Rady Ministrów  w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+4. Zmiana nazwy grupy osób prawnych, o której mowa w ust. 2 pkt 2, może być dokonana przepisami wewnątrzkościelnymi. Zmiany te, na wniosek Rady Kościoła, ogłasza Minister – Szef Urzędu Rady Ministrów Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2021 r. poz. 1893, 2368 i 2469 oraz z 2022 r. poz. 350, 807, 847, 1390 i 1933), która weszła w życie z dniem 1 kwietnia 1999 r. w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-**Art. 7.** Inne jednostki organizacyjne Kościoła mogą, na wniosek Rady Kościoła, uzyskać osobowość prawną w drodze rozporządzenia Ministra – Szefa Urzędu Rady Ministrów .
+**Art. 7.** Inne jednostki organizacyjne Kościoła mogą, na wniosek Rady Kościoła, uzyskać osobowość prawną w drodze rozporządzenia Ministra – Szefa Urzędu Rady Ministrów Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1..
 
 **Art. 8.**
 
 1. Kościół samodzielnie tworzy, przekształca i znosi jednostki organizacyjne, w tym także posiadające osobowość prawną oraz jednostki działające w ich ramach.
 
-2. O faktach wymienionych w ust. 1, w odniesieniu do parafii, władza kościelna powiadamia niezwłocznie wojewodę właściwego ze względu na miejsce jej siedziby, zaś w odniesieniu do jednostek, które otrzymały osobowość prawną w drodze rozporządzenia wymienionego w art. 7, powiadamia Ministra – Szefa Urzędu Rady Ministrów .
+2. O faktach wymienionych w ust. 1, w odniesieniu do parafii, władza kościelna powiadamia niezwłocznie wojewodę właściwego ze względu na miejsce jej siedziby, zaś w odniesieniu do jednostek, które otrzymały osobowość prawną w drodze rozporządzenia wymienionego w art. 7, powiadamia Ministra – Szefa Urzędu Rady Ministrów Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1..
 
 3. Nowo utworzone parafie Kościoła nabywają osobowość prawną z chwilą pisemnego powiadomienia właściwego wojewody. Odpis powiadomienia, z umieszczonym na nim potwierdzeniem odbioru, jest dowodem uzyskania osobowości prawnej.
 
 4. Powiadomienie, o którym mowa w ust. 2 i 3, powinno zawierać nazwę i siedzibę kościelnej osoby prawnej, a w odniesieniu do parafii – także ich zasięg terytorialny.
 
-5. O powołaniu i odwołaniu pastora władza kościelna powiadamia właściwego wojewodę, zaś o powołaniu i odwołaniu osoby sprawującej funkcję członka Prezydium Rady Kościoła oraz osoby sprawującej funkcję organu lub funkcję członka organu jednostek organizacyjnych, które uzyskały osobowość prawną w drodze rozporządzenia wymienionego w art. 7, powiadamia Ministra – Szefa Urzędu Rady Ministrów . Powiadomienie obejmuje imię i nazwisko, obywatelstwo oraz miejsce zamieszkania.
+5. O powołaniu i odwołaniu pastora władza kościelna powiadamia właściwego wojewodę, zaś o powołaniu i odwołaniu osoby sprawującej funkcję członka Prezydium Rady Kościoła oraz osoby sprawującej funkcję organu lub funkcję członka organu jednostek organizacyjnych, które uzyskały osobowość prawną w drodze rozporządzenia wymienionego w art. 7, powiadamia Ministra – Szefa Urzędu Rady Ministrów Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1.. Powiadomienie obejmuje imię i nazwisko, obywatelstwo oraz miejsce zamieszkania.
 
 **Art. 9.**
 
@@ -103,7 +117,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 10.** Kościelna osoba prawna nie odpowiada za zobowiązania innej kościelnej osoby prawnej.
 
-#### Rozdział 3 Działalność Kościoła
+#### Rozdział 3
 
 **Art. 11.**
 
@@ -150,7 +164,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 16.**
 
-1. Kościół ma prawo do zakładania i prowadzenia szkół wyższych. Status prawny tych szkół, a także tryb i zakres uznawania przez Państwo stopni i tytułów nadawanych przez te szkoły regulują umowy między Ministrem Edukacji Narodowej  a Radą Kościoła.
+1. Kościół ma prawo do zakładania i prowadzenia szkół wyższych. Status prawny tych szkół, a także tryb i zakres uznawania przez Państwo stopni i tytułów nadawanych przez te szkoły regulują umowy między Ministrem Edukacji Narodowej Obecnie ministrem właściwym do spraw szkolnictwa wyższego i nauki na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ust. 1 ustawy, o której mowa w odnośniku 1. a Radą Kościoła.
 
 2. Studentom szkół, o których mowa w ust. 1 oraz w art. 15 ust. 2, przysługują świadczenia opieki zdrowotnej finansowane ze środków publicznych oraz ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi ze studentami uczelni publicznych.
 
@@ -158,7 +172,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 - **1)** opieki zdrowotnej finansowane ze środków publicznych;
 - **2)** ubezpieczenia społecznego oraz
-- **3)** zaopatrzenia emerytalnego pracowników i ich rodzin . Nauczycielom przysługują ponadto ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi z nauczycielami akademickimi.
+- **3)** zaopatrzenia emerytalnego pracowników i ich rodzin Obecnie emerytury i renty z Funduszu Ubezpieczeń Społecznych na podstawie art. 192 i art. 195 pkt 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2022 r. poz. 504, 1504 i 2461).. Nauczycielom przysługują ponadto ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi z nauczycielami akademickimi.
 
 4. Poręcza się Kościołowi prawo do kształcenia kadr duchownych w Chrześcijańskiej Akademii Teologicznej w Warszawie w zakresie teologii metodystycznej, w ramach samodzielnej jednostki naukowo-dydaktycznej utworzonej zgodnie z ustawą o szkolnictwie wyższym.
 
@@ -186,15 +200,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Dzieciom i młodzieży korzystającym z zorganizowanych form wypoczynku wakacyjnego zapewnia się prawo uczestniczenia w nabożeństwach i wykonywania innych praktyk religijnych.
 
-3. Minister Edukacji Narodowej  oraz Minister Zdrowia i Opieki Społecznej , w porozumieniu z Kościołem, określą, w drodze rozporządzenia, szczegółowe zasady organizowania nauczania kościelnego, nabożeństw i wykonywania innych praktyk religijnych właściwych dla wyznania ewangelicko-metodystycznego dzieciom i młodzieży przebywającym w zakładach opiekuńczych i wychowawczych, w sanatoriach, prewentoriach i szpitalach oraz korzystającym z zorganizowanego wypoczynku.
+3. Minister Edukacji Narodowej Obecnie minister właściwy do spraw oświaty i wychowania na podstawie art. 4 ust. 1, art. 5 pkt 15 i art. 20 pkt 1 ustawy, o której mowa w odnośniku 1. oraz Minister Zdrowia i Opieki Społecznej Obecnie minister właściwy do spraw zdrowia na podstawie art. 4 ust. 1, art. 5 pkt 28 i art. 33 ust. 1 ustawy, o której mowa w odnośniku 1., w porozumieniu z Kościołem, określą, w drodze rozporządzenia, szczegółowe zasady organizowania nauczania kościelnego, nabożeństw i wykonywania innych praktyk religijnych właściwych dla wyznania ewangelicko-metodystycznego dzieciom i młodzieży przebywającym w zakładach opiekuńczych i wychowawczych, w sanatoriach, prewentoriach i szpitalach oraz korzystającym z zorganizowanego wypoczynku.
 
-**Art. 20.**
-
-1. Prawo wykonywania praktyk religijnych i korzystania z opieki duszpasterskiej zapewnia się też osobom przebywającym w podmiotach leczniczych wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne w rozumieniu przepisów o działalności leczniczej oraz domach pomocy społecznej, a także osobom tymczasowo aresztowanym, skazanym oraz nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich.
-
-2. Nabożeństwa dla osób, o których mowa w ust. 1, odbywają się w kaplicach lub innych pomieszczeniach udostępnianych na ten cel przez kierowników właściwych instytucji prowadzonych przez administrację rządową lub samorządową.
-
-3. Do wyznaczania kapelanów w podmiotach, domach i zakładach prowadzonych przez administrację rządową lub samorządową, w celu zaspokajania potrzeb określonych w ust. 1, jest uprawniony zwierzchnik Kościoła.
+**Art. 20.** 1W brzmieniu ustalonym przez art. 372 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r.. Prawo wykonywania praktyk religijnych i korzystania z opieki duszpasterskiej zapewnia się też osobom przebywającym w podmiotach leczniczych wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne w rozumieniu przepisów o działalności leczniczej oraz domach pomocy społecznej, a także osobom tymczasowo aresztowanym, skazanym oraz nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich. 2. Nabożeństwa dla osób, o których mowa w ust. 1, odbywają się w kaplicach lub innych pomieszczeniach udostępnianych na ten cel przez kierowników właściwych instytucji prowadzonych przez administrację rządową lub samorządową. 3. Do wyznaczania kapelanów w podmiotach, domach i zakładach prowadzonych przez administrację rządową lub samorządową, w celu zaspokajania potrzeb określonych w ust. 1, jest uprawniony zwierzchnik Kościoła.
 
 **Art. 21.**
 
@@ -234,7 +242,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 27.** Instytucje państwowe, samorządowe i kościelne współdziałają w ochronie, konserwacji, udostępnianiu i upowszechnianiu zabytków architektury kościelnej i sztuki sakralnej oraz ich dokumentacji, muzeów, archiwów i bibliotek będących własnością kościelną, a także dzieł kultury i sztuki o motywach religijnych, stanowiących ważną część dziedzictwa kultury.
 
-#### Rozdział 4 Sprawy majątkowe
+#### Rozdział 4
 
 **Art. 28.** Kościołowi i jego osobom prawnym przysługuje prawo nabywania, posiadania i zbywania mienia ruchomego i nieruchomego, nabywania i zbywania innych praw oraz zarządzania i rozporządzania swoim majątkiem.
 
@@ -279,7 +287,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 34.** Niezależnie od ustawowego ubezpieczenia duchownych, kościelne osoby prawne mogą prowadzić wewnętrzną działalność ubezpieczeniową na rzecz duchownych, która w rozumieniu ustawy nie jest działalnością gospodarczą.
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5
 
 **Art. 35.**
 
@@ -299,7 +307,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Przywraca się Kościołowi jako całości własność zabudowanej nieruchomości położonej w Krakowie przy ul. Straszewskiego nr 20, oznaczonej jako działka ewidencyjna gruntu nr 11 o powierzchni 1211 m2, w obrębie 145, objętej księgą wieczystą Kw nr 223, w stanie wolnym od obciążeń oraz roszczeń z tytułu wszelkich nakładów poniesionych przez jej dotychczasowych użytkowników.
 
-2. Minister – Szef Urzędu Rady Ministrów  określi, w drodze zarządzenia, szczegółowe zasady i tryb regulacji, o której mowa w ust. 1.
+2. Minister – Szef Urzędu Rady Ministrów Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2021 r. poz. 1893, 2368 i 2469 oraz z 2022 r. poz. 350, 807, 847, 1390 i 1933), która weszła w życie z dniem 1 kwietnia 1999 r. określi, w drodze zarządzenia, szczegółowe zasady i tryb regulacji, o której mowa w ust. 1.
 
 3. Przepis art. 35 ust. 4 stosuje się odpowiednio.
 
@@ -322,7 +330,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Decyzje, o których mowa w art. 35 i 37, nie mogą naruszać praw nabytych przez osoby trzecie, w szczególności przez inne kościoły i związki wyznaniowe.
 
-2. Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm.), podlega postępowaniu, o którym mowa w art. 35.
+2. Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. poz. 253 i 541, z 1991 r. poz. 151, z 1992 r. poz. 20, z 1993 r. poz. 180, z 1994 r. poz. 3 i 285, z 1996 r. poz. 102 i 496, z 1997 r. poz. 43, z 2002 r. poz. 1271, z 2004 r. poz. 1492, z 2017 r. poz. 653 oraz z 2020 r. poz. 462.), podlega postępowaniu, o którym mowa w art. 35.
 
 **Art. 39.** Decyzje, o których mowa w art. 35 i 37, oraz przepisy art. 36 stanowią podstawę do dokonania wpisów w księgach wieczystych i ewidencji gruntów.
 
@@ -334,8 +342,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 41.** Traci moc dekret z dnia 16 października 1945 r. o stosunku Państwa do Kościoła Metodystycznego w Rzeczypospolitej Polskiej (Dz. U. poz. 259).
 
-**Art. 42.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-
-- **1)** Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2021 r. poz. 1893, 2368 i 2469 oraz z 2022 r. poz. 350, 807, 847, 1390 i 1933), która weszła w życie z dniem 1 kwietnia 1999 r. 2) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1. 3) Obecnie ministrem właściwym do spraw szkolnictwa wyższego i nauki na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ust. 1 ustawy, o której mowa w odnośniku 1. 4) Obecnie emerytury i renty z Funduszu Ubezpieczeń Społecznych na podstawie art. 192 i art. 195 pkt 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2022 r. poz. 504, 1504 i 2461). 5) Obecnie minister właściwy do spraw oświaty i wychowania na podstawie art. 4 ust. 1, art. 5 pkt 15 i art. 20 pkt 1 ustawy, o której mowa w odnośniku 1. 6) Obecnie minister właściwy do spraw zdrowia na podstawie art. 4 ust. 1, art. 5 pkt 28 i art. 33 ust. 1 ustawy, o której mowa w odnośniku 1. 7) W brzmieniu ustalonym przez art. 372 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. poz. 253 i 541, z 1991 r. poz. 151, z 1992 r. poz. 20, z 1993 r. poz. 180, z 1994 r. poz. 3 i 285, z 1996 r. poz. 102 i 496, z 1997 r. poz. 43, z 2002 r. poz. 1271, z 2004 r. poz. 1492, z 2017 r. poz. 653 oraz z 2020 r. poz. 462. 9) Ustawa została ogłoszona w dniu 23 sierpnia 1995 r. Załącznik – Wykaz parafii Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej Parafia Bielsko-Biała Parafia Bydgoszcz Parafia Bytom Parafia Chodzież Parafia Dąbrówno Parafia Elbląg Parafia Ełk Parafia Gdańsk-Wrzeszcz Parafia Gierzwałd Parafia Gliwice Parafia Grudziądz Parafia Inowrocław Parafia Katowice Parafia Kielce Parafia Koszalin Parafia Kraków Parafia Kroplewo Parafia Kwidzyn Parafia Lipowo Parafia Łódź Parafia Łukta Parafia Międzyrzecz Parafia Olsztynek Parafia Ostróda Parafia Pabianice Parafia Piętki Parafia Poznań Parafia Przemyśl Parafia Siemiany Parafia Słonecznik Parafia Słupsk Parafia Smykowo Parafia Stare Juchy Parafia Szczecin Parafia Ścinawka Średnia Parafia Tarnów Parafia Warszawa Parafia Wrocław
-
+**Art. 42.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 23 sierpnia 1995 r.. 1) Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2021 r. poz. 1893, 2368 i 2469 oraz z 2022 r. poz. 350, 807, 847, 1390 i 1933), która weszła w życie z dniem 1 kwietnia 1999 r. 2) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1. 3) Obecnie ministrem właściwym do spraw szkolnictwa wyższego i nauki na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ust. 1 ustawy, o której mowa w odnośniku 1. 4) Obecnie emerytury i renty z Funduszu Ubezpieczeń Społecznych na podstawie art. 192 i art. 195 pkt 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2022 r. poz. 504, 1504 i 2461). 5) Obecnie minister właściwy do spraw oświaty i wychowania na podstawie art. 4 ust. 1, art. 5 pkt 15 i art. 20 pkt 1 ustawy, o której mowa w odnośniku 1. 6) Obecnie minister właściwy do spraw zdrowia na podstawie art. 4 ust. 1, art. 5 pkt 28 i art. 33 ust. 1 ustawy, o której mowa w odnośniku 1. 7) W brzmieniu ustalonym przez art. 372 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. poz. 253 i 541, z 1991 r. poz. 151, z 1992 r. poz. 20, z 1993 r. poz. 180, z 1994 r. poz. 3 i 285, z 1996 r. poz. 102 i 496, z 1997 r. poz. 43, z 2002 r. poz. 1271, z 2004 r. poz. 1492, z 2017 r. poz. 653 oraz z 2020 r. poz. 462. 9) Ustawa została ogłoszona w dniu 23 sierpnia 1995 r. Załącznik – Wykaz parafii Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej Parafia Bielsko-Biała Parafia Bydgoszcz Parafia Bytom Parafia Chodzież Parafia Dąbrówno Parafia Elbląg Parafia Ełk Parafia Gdańsk-Wrzeszcz Parafia Gierzwałd Parafia Gliwice Parafia Grudziądz Parafia Inowrocław Parafia Katowice Parafia Kielce Parafia Koszalin Parafia Kraków Parafia Kroplewo Parafia Kwidzyn Parafia Lipowo Parafia Łódź Parafia Łukta Parafia Międzyrzecz Parafia Olsztynek Parafia Ostróda Parafia Pabianice Parafia Piętki Parafia Poznań Parafia Przemyśl Parafia Siemiany Parafia Słonecznik Parafia Słupsk Parafia Smykowo Parafia Stare Juchy Parafia Szczecin Parafia Ścinawka Średnia Parafia Tarnów Parafia Warszawa Parafia Wrocław
 

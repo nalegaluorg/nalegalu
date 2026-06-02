@@ -25,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001423) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1423/text.pdf) |
 
-……………………….
+11442233 Załącznik nr 1 WZÓR ……………………….
 ……………………….
 SKIEROWANIE do ……………...………………………………………………………………………………………….
 w celu: …………………………………………………………………………………………………… ……………………………………………………………………………………………………………
@@ -43,7 +43,7 @@ w celu: ………………………………………………………………
 10. Uwagi: ..…...……………………………………………………………………………………….....
 ………………………………………………………………………………………………………...
 …………………………………………………….
-(imienna pieczątka i podpis podmiotu kierującego) Treść Procent uszczerbku na zdrowiu USZKODZENIA GŁOWY 1 Uszkodzenie skóry, powłok czaszki (bez uszkodzeń kostnych)
+(imienna pieczątka i podpis podmiotu kierującego) WYKAZ NORM OCENY USZCZERBKU NA ZDROWIU Treść Procent uszczerbku na zdrowiu USZKODZENIA GŁOWY 1 Uszkodzenie skóry, powłok czaszki (bez uszkodzeń kostnych)
 1) blizny rozległe (powyżej 5 cm długości lub 2,5 cm²), szpecące, 1–10 ściągające w zależności od rozmiaru, widoczności, tkliwości
 2) utrata skóry owłosionej
 a) oskalpowanie poniżej 25% powierzchni skóry owłosionej 1–10
@@ -190,7 +190,7 @@ W przypadku złamania żuchwy z innymi kośćmi twarzoczaszki następstwa uszkod
 1) w jednym oku ocenia się według poz. 27 pkt 1 w granicach 5–10%
 2) w obojgu oczach ocenia się według poz. 27 pkt 1 w granicach 10–15% 36 Zaburzenia w drożności przewodów łzowych (łzawienie), po korekcji operacyjnej w zależności od stopnia i natężenia objawów
 1) w jednym oku 5–10
-2) w obojgu oczach 10–15 37 Odwarstwienie siatkówki jednego oka − pourazowe ocenia się według tabeli z poz. 27 pkt 1 i poz. 32 lub poz. 33 pkt 4, nie mniej niż 3% Uwaga Odwarstwienie siatkówki jednego oka, tylko jeśli występuje po urazie oka lub głowy, ocenia się, odejmując uszczerbek istniejący przed urazem.
+2) w obojgu oczach 10–15 37 Odwarstwienie siatkówki jednego oka −− pourazowe ocenia się według tabeli z poz. 27 pkt 1 i poz. 32 lub poz. 33 pkt 4, nie mniej niż 3% Uwaga Odwarstwienie siatkówki jednego oka, tylko jeśli występuje po urazie oka lub głowy, ocenia się, odejmując uszczerbek istniejący przed urazem.
 Odwarstwienia siatkówki bez potwierdzonego urazu oka lub głowy, czyli po wysiłku, dźwignięciu, pochyleniu, skoku itp., nie uznaje się za pourazowe.
 38 Jaskra wtórna pourazowa, po potwierdzonym urazie oka ocenia się według lub głowy tabeli ostrości wzroku z poz. 27 pkt 1 oraz tabeli koncentrycznego zwężenia pola widzenia z poz. 32, z zastrzeżeniem że ogólny procent uszczerbku na zdrowiu nie może wynosić więcej niż 35% za jedno oko i 100% za oboje oczu, nie mniej niż 3% 39 Wytrzeszcz tętniący w zależności od stopnia 35–100 40 Zaćma pourazowa ocenia się według tabeli ostrości wzroku z poz. 27 pkt 1 Uwaga Oceny dokonuje się po zakończeniu leczenia i optymalnej korekcji.
 41 Przewlekłe zapalenie spojówek w związku z urazem oka

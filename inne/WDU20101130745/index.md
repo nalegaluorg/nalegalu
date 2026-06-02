@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 czerwca 2010 r. o zmianie ustawy o świadczeniach odszkodowawczych przysługujących w razie wypadków i chorób pozostających w związku ze służbą wojskową oraz niektórych innych ustaw
+# Ustawa z dnia 10 czerwca 2010 r. o zmianie ustawy o świadczeniach odszkodowawczych przysługujących w razie wypadków i chorób pozostających w związku ze służbą wojskową oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawę z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawę z dnia 17 grudnia 1974 r. o uposażeniu żołnierzy niezawodowych, ustawę z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawę z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin, ustawę z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych oraz ustawę z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-06-10 |
 | Data wydania | 2010-06-25 |
-| Wejście w życie | 2010-06-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101130745) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/745/text.pdf) |
 
@@ -34,7 +33,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-**Art. 2.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z późn. zm.) w art. 133a ust. 3 otrzymuje brzmienie: „ 3. Z pomocy, o której mowa w ust. 1, mogą bezterminowo korzystać również małżonek oraz dzieci pozostające na utrzymaniu żołnierza, który:
+**Art. 2.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 277, poz. 2742, z 2005 r. Nr 180, poz. 1496, z 2006 r. Nr 104, poz. 708 i 711 i Nr 220, poz. 1600, z 2007 r. Nr 107, poz. 732 i Nr 176, poz. 1242, z 2008 r. Nr 171, poz. 1056, Nr 180, poz. 1109, Nr 206, poz. 1288, Nr 208, poz. 1308 i Nr 223, poz. 1458, z 2009 r. Nr 22, poz. 120, Nr 97, poz. 801, Nr 161, poz. 1278, Nr 190, poz. 1474 i Nr 219, poz. 1706 oraz z 2010 r. Nr 107, poz. 679.) w art. 133a ust. 3 otrzymuje brzmienie: „ 3. Z pomocy, o której mowa w ust. 1, mogą bezterminowo korzystać również małżonek oraz dzieci pozostające na utrzymaniu żołnierza, który:
 
 zaginął lub poniósł śmierć, w związku z wykonywaniem zadań służbowych; zmarł w okresie trzech lat po zwolnieniu z czynnej służby wojskowej w następstwie wypadku lub choroby pozostających w związku z pełnieniem czynnej służby wojskowej. ” .
 
@@ -51,7 +50,7 @@ zaginął lub poniósł śmierć, w związku z wykonywaniem zadań służbowych;
 
 1a. W razie śmierci albo zaginięcia żołnierza w przypadkach, o których mowa w art. 44 ust. 2 i 3, renta rodzinna wynosi miesięcznie 100% podstawy wymiaru. ” .
 
-**Art. 4.** W ustawie z dnia 17 grudnia 1974 r. o uposażeniu żołnierzy niezawodowych (Dz. U. z 2002 r. Nr 76, poz. 693, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 17 grudnia 1974 r. o uposażeniu żołnierzy niezawodowych (Dz. U. z 2002 r. Nr 76, poz. 693, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, Nr 166, poz. 1363 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1609 i Nr 179, poz. 1750, z 2005 r. Nr 122, poz. 1025, z 2007 r. Nr 176, poz. 1242, z 2008 r. Nr 208, poz. 1308 oraz z 2009 r. Nr 161, poz. 1278.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4: ust. 1b otrzymuje brzmienie: „
     - **a)**
@@ -67,7 +66,7 @@ zaginął lub poniósł śmierć, w związku z wykonywaniem zadań służbowych;
 
 **Art. 33a.** Przepisy art. 33 ust. 1, 2, 4 i 5 stosuje się odpowiednio w razie śmierci żołnierza, o którym mowa w art. 30 i art. 31, po zwolnieniu z czynnej służby wojskowej, w następstwie wypadku lub choroby pozostających w związku ze służbą wojskową. ” .
 
-**Art. 5.** W ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 66, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 66, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 559, z 2008 r. Nr 208, poz. 1308, z 2009 r. Nr 24, poz. 145, Nr 79, poz. 669, Nr 95, poz. 785 i Nr 161, poz. 1278 oraz z 2010 r. Nr 27, poz. 141 i Nr 36, poz. 204.) wprowadza się następujące zmiany:
 
 - **1)** w art. 19 pkt 2 otrzymuje brzmienie: „
 - **2)** w ciągu 3 lat po zwolnieniu ze służby, jeżeli inwalidztwo jest następstwem urazów doznanych w czasie pełnienia służby lub chorób powstałych w tym czasie; ” ;
@@ -91,7 +90,7 @@ zaginął lub poniósł śmierć, w związku z wykonywaniem zadań służbowych;
 
 6a. Przepis ust. 6 stosuje się odpowiednio do dziecka pobierającego rentę rodzinną po żołnierzu, który zmarł po zwolnieniu ze służby wojskowej wskutek wypadku lub choroby pozostających w związku z wykonywaniem zadań służbowych. ” .
 
-**Art. 6.** W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 558, z 2008 r. Nr 66, poz. 402 i 409 i Nr 220, poz. 1410 oraz z 2009 r. Nr 24, poz. 145 i Nr 95, poz. 786.) wprowadza się następujące zmiany:
 
 - **1)** w art. 23 w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „
 - **2a)** funkcjonariusza Służby Kontrwywiadu Wojskowego lub Służby Wywiadu Wojskowego zmarłego w ciągu 3 lat po zwolnieniu ze służby, jeżeli śmierć nastąpiła wskutek urazów doznanych w czasie pełnienia służby lub chorób powstałych w tym czasie, albo jeżeli śmierć nastąpiła wskutek wypadku pozostającego w związku z pełnieniem służby albo choroby powstałej w związku ze szczególnymi właściwościami lub warunkami służby; ” ;
@@ -107,11 +106,11 @@ zaginął lub poniósł śmierć, w związku z wykonywaniem zadań służbowych;
 
 - **6)** jeżeli śmierć funkcjonariusza Służby Kontrwywiadu Wojskowego lub Służby Wywiadu Wojskowego po zwolnieniu ze służby, pozostająca w związku z tą służbą, jest następstwem czynu karalnego, przy wypłacaniu renty rodzinnej nie stosuje się przewidzianego w ustawie o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych zawieszania lub zmniejszania tego świadczenia w razie osiągania przychodu z tytułu działalności podlegającej obowiązkowi ubezpieczenia społecznego. W tym wypadku renta rodzinna przysługuje małżonkowi bez względu na wiek i stan zdrowia. ” .
 
-**Art. 7.** W ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2005 r. Nr 41, poz. 398, z późn. zm.) w art. 23 w ust. 3 po pkt 3 dodaje się pkt 4 w brzmieniu: „
+**Art. 7.** W ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2005 r. Nr 41, poz. 398, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 132, poz. 1110, z 2006 r. Nr 104, poz. 708 i 711, Nr 170, poz. 1217 i Nr 249, poz. 1832, z 2008 r. Nr 208, poz. 1308, Nr 220, poz. 1415 i Nr 227, poz. 1505, z 2009 r. Nr 42, poz. 336 i Nr 168, poz. 1323 oraz z 2010 r. Nr 28, poz. 143.) w art. 23 w ust. 3 po pkt 3 dodaje się pkt 4 w brzmieniu: „
 
 - **4)** żołnierza, o którym w pkt 1 -3, zmarłego w ciągu 3 lat po zwolnieniu ze służby wojskowej, jeżeli śmierć nastąpiła wskutek urazów doznanych w czasie pełnienia służby lub chorób powstałych w tym czasie, albo w ciągu 3 lat po zwolnieniu ze służby, jeżeli śmierć nastąpiła wskutek wypadku pozostającego w związku z pełnieniem czynnej służby wojskowej. ” .
 
-**Art. 8.** W ustawie z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. Nr 123, poz. 1353, z późn. zm.) w art. 7 wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. Nr 123, poz. 1353, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 74, poz. 676 i Nr 89, poz. 804, z 2003 r. Nr 113, poz. 1070 i Nr 139, poz. 1326, z 2004 r. Nr 116, poz. 1203, Nr 171, poz. 1800 i Nr 273, poz. 2703, z 2006 r. Nr 104, poz. 711, z 2007 r. Nr 176, poz. 1242 oraz z 2009 r. Nr 85, poz. 716, Nr 157, poz. 1241 i Nr 190, poz. 1474.) w art. 7 wprowadza się następujące zmiany:
 
 - **1)** w ust. 2 uchyla się pkt 3,
 - **2)** po ust. 2 dodaje się ust. 2a w brzmieniu: „
@@ -147,9 +146,12 @@ zaginął lub poniósł śmierć, w związku z wykonywaniem zadań służbowych;
 - **6)** w art. 120: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Były żołnierz zawodowy, który został zwolniony z zawodowej służby wojskowej wskutek ustalenia przez wojskową komisję lekarską niezdolności do pełnienia zawodowej służby wojskowej wskutek wypadku pozostającego w związku z pełnieniem czynnej służby wojskowej albo choroby powstałej w związku ze szczególnymi właściwościami lub warunkami służby wojskowej albo który pełnił zawodową służbę wojskową co najmniej cztery lata, z wyjątkiem zwolnionego ze służby wojskowej z powodu, o którym mowa w art. 111 pkt 1, 12 – 15, w okresie dwóch lat od dnia zwolnienia z zawodowej służby wojskowej, może korzystać z pomocy w zakresie doradztwa zawodowego, przekwalifikowania i pośrednictwa pracy, udzielanej przez właściwe organy. ” w ust. 4: – zdanie wstępne otrzymuje brzmienie: „ 4. W ramach pomocy, o której mowa w ust. 1 i 3, do wysokości limitów, mogą być pokrywane koszty: ” – uchyla się pkt 4: po ust. 4 dodaje się ust. 4a-4e w brzmieniu: „
+1. Były żołnierz zawodowy, który został zwolniony z zawodowej służby wojskowej wskutek ustalenia przez wojskową komisję lekarską niezdolności do pełnienia zawodowej służby wojskowej wskutek wypadku pozostającego w związku z pełnieniem czynnej służby wojskowej albo choroby powstałej w związku ze szczególnymi właściwościami lub warunkami służby wojskowej albo który pełnił zawodową służbę wojskową co najmniej cztery lata, z wyjątkiem zwolnionego ze służby wojskowej z powodu, o którym mowa w art. 111 pkt 1, 12 – 15, w okresie dwóch lat od dnia zwolnienia z zawodowej służby wojskowej, może korzystać z pomocy w zakresie doradztwa zawodowego, przekwalifikowania i pośrednictwa pracy, udzielanej przez właściwe organy. ” w ust. 4: zdanie wstępne otrzymuje brzmienie: „
 
 - **b)**
+
+4. W ramach pomocy, o której mowa w ust. 1 i 3, do wysokości limitów, mogą być pokrywane koszty: ” – uchyla się pkt 4: po ust. 4 dodaje się ust. 4a-4e w brzmieniu: „
+
 - **c)**
 
 4a. Wysokość limitów, o których mowa w ust. 4, wynosi za:
@@ -162,7 +164,7 @@ zaginął lub poniósł śmierć, w związku z wykonywaniem zadań służbowych;
 
 - **1)** po 4 latach służby wojskowej – 100%,
 - **2)** po 12 latach służby wojskowej – 200%
-- **3)** po 15 latach służby wojskowej – 300 % limitu określonego w ust. 4a pkt 1.
+- **3)** po 15 latach służby wojskowej – 300 % – limitu określonego w ust. 4a pkt 1.
 
 4c. Małżonkom oraz dzieciom, o których mowa w ust. 6, oraz byłym żołnierzom zawodowym zwolnionym z zawodowej służby wojskowej wskutek ustalenia przez wojskową komisję lekarską niezdolności do pełnienia zawodowej służby wojskowej z przyczyn, o których mowa w ust. 1 i 2, pokrywa się koszty, o których mowa w ust. 4 pkt 1 w wysokości 300% limitu określonego w ust. 4a pkt 1.
 
@@ -188,7 +190,7 @@ zaginął lub poniósł śmierć, w związku z wykonywaniem zadań służbowych;
 1. Przepisy ustaw, o których mowa w art. 1 – 10, w brzmieniu nadanym niniejszą ustawą stosuje się do:
 
 - **1)** żołnierzy, którzy zmarli po zwolnieniu z czynnej służby wojskowej,
-- **2)** funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, którzy zmarli po zwolnieniu ze służby po dniu wejścia w życie niniejszej ustawy w następstwie wypadku, urazu lub choroby pozostających w związku z pełnieniem odpowiednio czynnej służby wojskowej lub służby, z zastrzeżeniem ust. 2.
+- **2)** funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, którzy zmarli po zwolnieniu ze służby – po dniu wejścia w życie niniejszej ustawy w następstwie wypadku, urazu lub choroby pozostających w związku z pełnieniem odpowiednio czynnej służby wojskowej lub służby, z zastrzeżeniem ust. 2.
 
 2. Przepisy:
 
@@ -207,5 +209,5 @@ zaginął lub poniósł śmierć, w związku z wykonywaniem zadań służbowych;
 
 **Art. 13.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 4 ust. 3 ustawy zmienianej w art. 4 oraz art. 84 ust. 3 i art. 120 ust. 7 ustawy zmienianej w art. 9, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 4 ust. 3 ustawy zmienianej w art. 4 oraz art. 84 ust. 3 i art. 120 ust. 7 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 14.** Ustawa wchodzi w życie z dniem ogłoszenia, z wyjątkiem art. 7, art. 8 i art. 12, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 14.** Ustawa wchodzi w życie z dniem ogłoszenia, z wyjątkiem art. 7, art. 8 i art. 12, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawę z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawę z dnia 17 grudnia 1974 r. o uposażeniu żołnierzy niezawodowych, ustawę z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawę z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin, ustawę z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych oraz ustawę z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 277, poz. 2742, z 2005 r. Nr 180, poz. 1496, z 2006 r. Nr 104, poz. 708 i 711 i Nr 220, poz. 1600, z 2007 r. Nr 107, poz. 732 i Nr 176, poz. 1242, z 2008 r. Nr 171, poz. 1056, Nr 180, poz. 1109, Nr 206, poz. 1288, Nr 208, poz. 1308 i Nr 223, poz. 1458, z 2009 r. Nr 22, poz. 120, Nr 97, poz. 801, Nr 161, poz. 1278, Nr 190, poz. 1474 i Nr 219, poz. 1706 oraz z 2010 r. Nr 107, poz. 679. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, Nr 166, poz. 1363 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1609 i Nr 179, poz. 1750, z 2005 r. Nr 122, poz. 1025, z 2007 r. Nr 176, poz. 1242, z 2008 r. Nr 208, poz. 1308 oraz z 2009 r. Nr 161, poz. 1278. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 559, z 2008 r. Nr 208, poz. 1308, z 2009 r. Nr 24, poz. 145, Nr 79, poz. 669, Nr 95, poz. 785 i Nr 161, poz. 1278 oraz z 2010 r. Nr 27, poz. 141 i Nr 36, poz. 204. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 558, z 2008 r. Nr 66, poz. 402 i 409 i Nr 220, poz. 1410 oraz z 2009 r. Nr 24, poz. 145 i Nr 95, poz. 786. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 132, poz. 1110, z 2006 r. Nr 104, poz. 708 i 711, Nr 170, poz. 1217 i Nr 249, poz. 1832, z 2008 r. Nr 208, poz. 1308, Nr 220, poz. 1415 i Nr 227, poz. 1505, z 2009 r. Nr 42, poz. 336 i Nr 168, poz. 1323 oraz z 2010 r. Nr 28, poz. 143. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 74, poz. 676 i Nr 89, poz. 804, z 2003 r. Nr 113, poz. 1070 i Nr 139, poz. 1326, z 2004 r. Nr 116, poz. 1203, Nr 171, poz. 1800 i Nr 273, poz. 2703, z 2006 r. Nr 104, poz. 711, z 2007 r. Nr 176, poz. 1242 oraz z 2009 r. Nr 85, poz. 716, Nr 157, poz. 1241 i Nr 190, poz. 1474.
 

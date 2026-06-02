@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-11-29 |
 | Data wydania | 2012-12-20 |
-| Wejście w życie | 2013-01-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001441) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1441/text.pdf) |
 
@@ -294,5 +293,5 @@ Opłata za przeprowadzenie postępowania akredytacyjnego wynosi 210% przeciętne
 2.
 Opłata za wydanie certyfikatu wynosi 50% wynagrodzenia, o którym mowa w ust. 1.
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 31 lipca 2001 r. w sprawie Krajowej Rady Akredytacyjnej Szkolnictwa Medycznego oraz trybu uzyskiwania akredytacji (Dz. U. Nr 83, poz. 904) oraz rozporządzeniem Ministra Zdrowia z dnia 11 grudnia 2001 r. w sprawie opłat ponoszonych przez szkołę pielęgniarską i szkołę położnych za uzyskanie akredytacji oraz wydanie certyfikatu (Dz. U. Nr 151, poz. 1722), które tracą moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 102 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039 i Nr 291, poz. 707). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 31 lipca 2001 r. w sprawie Krajowej Rady Akredytacyjnej Szkolnictwa Medycznego oraz trybu uzyskiwania akredytacji (Dz. U. Nr 83, poz. 904) oraz rozporządzeniem Ministra Zdrowia z dnia 11 grudnia 2001 r. w sprawie opłat ponoszonych przez szkołę pielęgniarską i szkołę położnych za uzyskanie akredytacji oraz wydanie certyfikatu (Dz. U. Nr 151, poz. 1722), które tracą moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 102 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039 i Nr 291, poz. 707).
 

@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-23 |
 | Data wydania | 2016-01-04 |
-| Wejście w życie | 2015-01-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000006) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/6/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 19l ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 19l ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351, z 2014 r. poz. 502, 616 i 1822 oraz z 2015 r. poz. 881, 1045, 1066, 1098, 1217, 1268, 1434, 1505 i 1890.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -82,7 +81,7 @@ Projekt rocznego planu finansowego funduszu właściwy dysponent przekazuje Kome
 2.
 Komendant Główny Państwowej Straży Pożarnej sporządza projekt łącznego planu finansowego Funduszu w oparciu o projekty rocznych planów finansowych funduszu.
 3.
-Projekt łącznego planu finansowego Funduszu sporządza się w trybie i terminach określonych w przepisach wydanych na podstawie art. 138 ust. 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.).
+Projekt łącznego planu finansowego Funduszu sporządza się w trybie i terminach określonych w przepisach wydanych na podstawie art. 138 ust. 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854, 1890 i 2150.).
 § 7.
 1.
 Projekt rocznego planu finansowego funduszu stanowi podstawę gospodarki finansowej odpowiednio funduszu centralnego, funduszy wojewódzkich i funduszy szkół w okresie od dnia 1 stycznia do dnia opracowania rocznego planu finansowego funduszu.
@@ -112,5 +111,5 @@ Sprawozdanie w zakresie operacji finansowych funduszu właściwy dysponent przek
 § 12.
 Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 22 lipca 2011 r. w sprawie szczegółowych zasad gospodarki finansowej Funduszu Wsparcia Państwowej Straży Pożarnej (Dz. U. Nr 159, poz. 952).
 § 13.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351, z 2014 r. poz. 502, 616 i 1822 oraz z 2015 r. poz. 881, 1045, 1066, 1098, 1217, 1268, 1434, 1505 i 1890. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854, 1890 i 2150.
 

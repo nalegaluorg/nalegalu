@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-02 |
 | Data wydania | 2020-12-04 |
-| Wejście w życie | 2020-12-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002164) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2164/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2019 r. poz. 1505) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) po § 13zc dodaje się § 13zd w brzmieniu:
-„
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779 oraz z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932 i 2058.) po § 13zc dodaje się § 13zd w brzmieniu: „
 § 13zd.
 1.
 W 2020 i 2021 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi świń:
@@ -103,10 +101,9 @@ prowadzenia spalarni w rozumieniu pkt 56 załącznika I do rozporządzenia wymie
 13.
 Pomoc, o której mowa w ust. 1, jest wypłacana na rachunek producenta świń wskazany w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
 14.
-Jeżeli gospodarstwo, w którym były utrzymywane w okresie od dnia 1 marca do dnia 15 lipca 2020 r. świnie, jest przedmiotem współposiadania, pomoc, o której mowa w ust. 1, jest udzielana temu ze współposiadaczy, co do którego pozostali współposiadacze wyrazili pisemną zgodę.
-” .
+Jeżeli gospodarstwo, w którym były utrzymywane w okresie od dnia 1 marca do dnia 15 lipca 2020 r. świnie, jest przedmiotem współposiadania, pomoc, o której mowa w ust. 1, jest udzielana temu ze współposiadaczy, co do którego pozostali współposiadacze wyrazili pisemną zgodę. ” .
 § 2.
 Pomoc publiczna określona w § 13zd ust. 1 rozporządzenia zmienianego w § 1 może być udzielana producentowi świń od dnia ogłoszenia pozytywnej decyzji Komisji Europejskiej o zgodności ze wspólnym rynkiem pomocy publicznej określonej w tym przepisie.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779 oraz z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932 i 2058.
 

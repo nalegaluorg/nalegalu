@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-21 |
 | Data wydania | 2022-04-22 |
-| Wejście w życie | 2022-04-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000865) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/865/text.pdf) |
 
@@ -73,5 +72,5 @@ czapka zimowa,
 b)
 rękawice.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 23 kwietnia 2022 r.
+Rozporządzenie wchodzi w życie z dniem 23 kwietnia 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 29 lutego 2016 r. w sprawie zakazu używania munduru wojskowego lub jego części (Dz. U. poz. 354 oraz z 2021 r. poz. 1740), które zgodnie z art. 820 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 29 lutego 2016 r. w sprawie zakazu używania munduru wojskowego lub jego części (Dz. U. poz. 354 oraz z 2021 r. poz. 1740), które zgodnie z art. 820 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

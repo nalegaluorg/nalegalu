@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 17 czerwca 2021 r. zmieniające rozporządzenie w sprawie urzędów celno-skarbowych oraz podległych im oddziałów celnych, w których są dokonywane czynności przewidziane przepisami prawa celnego w zależności od rodzaju towarów lub procedur celnych, którymi mogą być obejmowane towary
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 17 czerwca 2021 r. zmieniające rozporządzenie w sprawie urzędów celno-skarbowych oraz podległych im oddziałów celnych, w których są dokonywane czynności przewidziane przepisami prawa celnego w zależności od rodzaju towarów lub procedur celnych, którymi mogą być obejmowane towary Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-17 |
 | Data wydania | 2021-06-22 |
-| Wejście w życie | 2021-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001109) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1109/text.pdf) |
 
@@ -49,6 +48,5 @@ uchyla się pkt 11;
 3)
 w załączniku nr 3 do rozporządzenia w lp. IX uchyla się pkt 1.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r. 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 czerwca 2011 r. o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw
+# Ustawa z dnia 9 czerwca 2011 r. o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. – Prawo budowlane oraz ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-06-09 |
 | Data wydania | 2011-07-08 |
-| Wejście w życie | 2011-08-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111420829) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/829/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. Nr 89, poz. 589, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. Nr 89, poz. 589, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 237, poz. 1656, z 2009 r. Nr 6, poz. 33 i Nr 20, poz. 106, z 2010 r. Nr 109, poz. 708, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 257, poz. 1725 oraz z 2011 r. Nr 73, poz. 390.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -41,8 +40,17 @@ source: "eli-html"
 
 3. Okręgowych inspektorów pracy powołuje i odwołuje Główny Inspektor Pracy po zasięgnięciu opinii Rady Ochrony Pracy. ” ;
 
-- **3)** w art. 10: w ust. 1: – uchyla się pkt 2, – uchyla się pkt 5, – pkt 6 otrzymuje brzmienie: „ 6) kontrola wyrobów wprowadzonych do obrotu lub oddanych do użytku pod względem spełniania przez nie zasadniczych lub innych wymagań dotyczących bezpieczeństwa i higieny pracy, określonych w odrębnych przepisach; ” , – pkt 7 otrzymuje brzmienie: „ 7) podejmowanie działań polegających na zapobieganiu i ograniczaniu zagrożeń w środowisku pracy, a w szczególności: a) badanie okoliczności i przyczyn wypadków przy pracy oraz kontrola stosowania środków zapobiegających tym wypadkom, b) analizowanie przyczyn chorób zawodowych oraz kontrola stosowania środków zapobiegających tym chorobom, c) inicjowanie prac badawczych w dziedzinie przestrzegania prawa pracy, a w szczególności bezpieczeństwa i higieny pracy, d) inicjowanie przedsięwzięć w sprawach ochrony pracy w rolnictwie indywidualnym, e) udzielanie porad służących ograniczaniu zagrożeń dla życia i zdrowia pracowników, a także w zakresie przestrzegania prawa pracy, f) podejmowanie działań prewencyjnych i promocyjnych zmierzających do zapewnienia przestrzegania prawa pracy; ” , ust. 4 otrzymuje brzmienie: „
+- **3)** w art. 10: w ust. 1: – uchyla się pkt 2, – uchyla się pkt 5, pkt 6 otrzymuje brzmienie: „
     - **a)**
+
+- **6)** kontrola wyrobów wprowadzonych do obrotu lub oddanych do użytku pod względem spełniania przez nie zasadniczych lub innych wymagań dotyczących bezpieczeństwa i higieny pracy, określonych w odrębnych przepisach; ” , pkt 7 otrzymuje brzmienie: „
+- **7)** podejmowanie działań polegających na zapobieganiu i ograniczaniu zagrożeń w środowisku pracy, a w szczególności: badanie okoliczności i przyczyn wypadków przy pracy oraz kontrola stosowania środków zapobiegających tym wypadkom, analizowanie przyczyn chorób zawodowych oraz kontrola stosowania środków zapobiegających tym chorobom, inicjowanie prac badawczych w dziedzinie przestrzegania prawa pracy, a w szczególności bezpieczeństwa i higieny pracy, inicjowanie przedsięwzięć w sprawach ochrony pracy w rolnictwie indywidualnym, udzielanie porad służących ograniczaniu zagrożeń dla życia i zdrowia pracowników, a także w zakresie przestrzegania prawa pracy, podejmowanie działań prewencyjnych i promocyjnych zmierzających do zapewnienia przestrzegania prawa pracy; ” , ust. 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
     - **b)**
 
 4. Państwowa Inspekcja Pracy może podejmować działania w zakresie prowadzenia badań i pomiarów oraz analizowania zagrożeń powodowanych przez czynniki szkodliwe i uciążliwe w środowisku pracy. ” ;
@@ -59,7 +67,7 @@ source: "eli-html"
 - **6)** w art. 14 w ust. 2: pkt 3 otrzymuje brzmienie: „
     - **a)**
 
-- **3)** przez Zakład Ubezpieczeń Społecznych na koncie ubezpieczonego i koncie płatnika składek, o których mowa odpowiednio w art. 40 i 45 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2009 r. Nr 205, poz. 1585, z późn. zm.), w zakresie podlegania ubezpieczeniom społecznym, a także danych o wypadkach przy pracy uzyskanych na podstawie ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2009 r. Nr 167, poz. 1322, z późn. zm.); ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje pkt 5–7 w brzmieniu: „
+- **3)** przez Zakład Ubezpieczeń Społecznych na koncie ubezpieczonego i koncie płatnika składek, o których mowa odpowiednio w art. 40 i 45 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2009 r. Nr 205, poz. 1585, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 218, poz. 1690, z 2010 r. Nr 105, poz. 668, Nr 182, poz. 1228, Nr 225, poz. 1474, Nr 254, poz. 1700 i Nr 257, poz. 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398 i Nr 138, poz. 808.), w zakresie podlegania ubezpieczeniom społecznym, a także danych o wypadkach przy pracy uzyskanych na podstawie ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2009 r. Nr 167, poz. 1322, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 257, poz. 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 122, poz. 696 i Nr 138, poz. 808.); ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje pkt 5–7 w brzmieniu: „
     - **b)**
 
 - **5)** w rejestrze bezrobotnych;
@@ -138,7 +146,7 @@ source: "eli-html"
 - **2)** wojewodę – o stwierdzonych przypadkach naruszenia przepisów o promocji zatrudnienia i instytucjach rynku pracy związanych z zatrudnianiem cudzoziemców lub powierzaniem im innej pracy zarobkowej. ” ;
 - **16)** po art. 37 dodaje się art. 37a w brzmieniu: „ W uzasadnionych przypadkach, wobec pracodawcy rozpoczynającego działalność, a także jeżeli nie stwierdzono:
 - **1)** bezpośredniego zagrożenia życia lub zdrowia pracowników lub innych osób wykonujących pracę,
-- **2)** popełnienia wykroczenia z winy umyślnej inspektor pracy może odstąpić od stosowania środków prawnych, o których mowa w art. 33, poprzestając na ustnym pouczeniu o sposobach zgodnego z wymogami prawa zorganizowania pracy i odebraniu od podmiotu kontrolowanego oświadczenia o terminie usunięcia ujawnionych w toku kontroli uchybień. ” ;
+- **2)** popełnienia wykroczenia z winy umyślnej – inspektor pracy może odstąpić od stosowania środków prawnych, o których mowa w art. 33, poprzestając na ustnym pouczeniu o sposobach zgodnego z wymogami prawa zorganizowania pracy i odebraniu od podmiotu kontrolowanego oświadczenia o terminie usunięcia ujawnionych w toku kontroli uchybień. ” ;
 - **17)** w art. 40: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -201,13 +209,13 @@ source: "eli-html"
 - **3)** został on skazany prawomocnym wyrokiem sądu za popełnienie przestępstwa;
 - **4)** zaistnieją inne okoliczności, które wskazują, że nie daje on rękojmi należytego wykonywania obowiązków rzecznika dyscyplinarnego. ” .
 
-**Art. 2.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2010 r. Nr 243, poz. 1623, z późn. zm.) w art. 56 w ust. 1 uchyla się pkt 3.
+**Art. 2.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2010 r. Nr 243, poz. 1623, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 32, poz. 159, Nr 45, poz. 235, Nr 94, poz. 551 i Nr 135, poz. 789.) w art. 56 w ust. 1 uchyla się pkt 3.
 
-**Art. 3.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.) w art. 325e po § 1 dodaje się § 1a w brzmieniu: „
+**Art. 3.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651, z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104, Nr 28, poz. 171, Nr 68, poz. 585, Nr 85, poz. 716, Nr 127, poz. 1051, Nr 144, poz. 1178, Nr 168, poz. 1323, Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 98, poz. 626, Nr 106, poz. 669, Nr 122, poz. 826, Nr 125, poz. 842, Nr 182, poz. 1228 i Nr 197, poz. 1307 oraz z 2011 r. Nr 48, poz. 245 i 246, Nr 53, poz. 273, Nr 112, poz. 654 i Nr 117, poz. 678.) w art. 325e po § 1 dodaje się § 1a w brzmieniu: „
 
 § 1a. W przypadku gdy zawiadomienie o przestępstwie zostało złożone przez inspektora pracy, uzasadnienie postanowienia o odmowie wszczęcia dochodzenia oraz umorzeniu dochodzenia sporządza się na jego wniosek. ” .
 
 **Art. 4.** Z dniem wejścia w życie ustawy pracownicy zatrudnieni w Państwowej Inspekcji Pracy na stanowiskach ekspertów stają się doradcami.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. – Prawo budowlane oraz ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 237, poz. 1656, z 2009 r. Nr 6, poz. 33 i Nr 20, poz. 106, z 2010 r. Nr 109, poz. 708, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 257, poz. 1725 oraz z 2011 r. Nr 73, poz. 390. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 218, poz. 1690, z 2010 r. Nr 105, poz. 668, Nr 182, poz. 1228, Nr 225, poz. 1474, Nr 254, poz. 1700 i Nr 257, poz. 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398 i Nr 138, poz. 808. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 257, poz. 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 122, poz. 696 i Nr 138, poz. 808. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 32, poz. 159, Nr 45, poz. 235, Nr 94, poz. 551 i Nr 135, poz. 789. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651, z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104, Nr 28, poz. 171, Nr 68, poz. 585, Nr 85, poz. 716, Nr 127, poz. 1051, Nr 144, poz. 1178, Nr 168, poz. 1323, Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 98, poz. 626, Nr 106, poz. 669, Nr 122, poz. 826, Nr 125, poz. 842, Nr 182, poz. 1228 i Nr 197, poz. 1307 oraz z 2011 r. Nr 48, poz. 245 i 246, Nr 53, poz. 273, Nr 112, poz. 654 i Nr 117, poz. 678.
 

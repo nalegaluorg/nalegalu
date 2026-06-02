@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 7 października 2022 r. w sprawie szczegółowych wymagań technicznych dla stacji wodoru
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 7 października 2022 r. w sprawie szczegółowych wymagań technicznych dla stacji wodoru Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-07 |
 | Data wydania | 2022-10-21 |
-| Wejście w życie | 2022-11-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002158) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2158/text.pdf) |
 
 Treść rozporządzenia
-,  Na podstawie art. 29d ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2022 r. poz. 1083 i 1260) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/94/UE z dnia 22 października 2014 r. w sprawie rozwoju infrastruktury paliw alternatywnych (Dz. Urz. UE L 307 z 28.10.2014, str. 1 oraz Dz. Urz. UE L 268 z 22.10.2019, str. 1)., Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 17 czerwca 2022 r. pod numerem 2022/429/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 29d ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2022 r. poz. 1083 i 1260) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -158,6 +157,5 @@ Wysokość opłaty, o której mowa w art. 29b ust. 3 i art. 29c ust. 5 ustawy, j
 3)
 4% tego wynagrodzenia za każdą rozpoczętą godzinę opracowania opinii w zakresie zgodności dokumentacji technicznej projektowanej stacji wodoru z wymaganiami technicznymi określonymi w art. 29a ustawy i przepisach niniejszego rozporządzenia, jednakże nie więcej niż 200% tego wynagrodzenia.
 § 19.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/94/UE z dnia 22 października 2014 r. w sprawie rozwoju infrastruktury paliw alternatywnych (Dz. Urz. UE L 307 z 28.10.2014, str. 1 oraz Dz. Urz. UE L 268 z 22.10.2019, str. 1). 3) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 17 czerwca 2022 r. pod numerem 2022/429/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/94/UE z dnia 22 października 2014 r. w sprawie rozwoju infrastruktury paliw alternatywnych (Dz. Urz. UE L 307 z 28.10.2014, str. 1 oraz Dz. Urz. UE L 268 z 22.10.2019, str. 1). 3) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 17 czerwca 2022 r. pod numerem 2022/429/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 

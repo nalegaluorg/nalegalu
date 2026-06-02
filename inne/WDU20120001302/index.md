@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-11-12 |
 | Data wydania | 2012-11-26 |
-| Wejście w życie | 2012-12-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001302) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1302/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 25 pkt 1 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2011 r. Nr 12, poz. 59, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 25 pkt 1 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2011 r. Nr 12, poz. 59, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 34, poz. 170, Nr 106, poz. 622 i Nr 224, poz. 1337.) zarządza się, co następuje:
 § 1.
 1.
 Przy sporządzaniu planu urządzenia lasu, uproszczonego planu urządzenia lasu oraz inwentaryzacji stanu lasu uwzględnia się:
@@ -173,7 +172,7 @@ potrzeby hodowlane,
 b)
 stan sanitarny lasu.
 4.
-Zadania w zakresie ochrony przyrody dla obszaru będącego w zarządzie nadleśnictwa pokrywającego się w całości lub części z obszarem Natura 2000 uwzględniają zakres, o którym mowa w art. 28 ust. 10 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.).
+Zadania w zakresie ochrony przyrody dla obszaru będącego w zarządzie nadleśnictwa pokrywającego się w całości lub części z obszarem Natura 2000 uwzględniają zakres, o którym mowa w art. 28 ust. 10 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804, z 2011 r. Nr 34, poz. 170, Nr 94, poz. 549, Nr 208, poz. 1241 i Nr 224, poz. 1337 oraz z 2012 r. poz. 985.).
 5.
 Zadania kierunkowe, o których mowa w ust. 1 pkt 5 i 6, przedstawia się na mapach w ujęciu tematycznym i przeglądowym.
 § 7.
@@ -280,5 +279,5 @@ w postaci map cyfrowych, z wykorzystaniem geograficznych systemów informacji (G
 § 10.
 Do planów urządzenia lasu, uproszczonych planów urządzenia lasu oraz inwentaryzacji stanu lasu, sporządzonych przed dniem wejścia w życie rozporządzenia, stosuje się przepisy dotychczasowe.
 § 11.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 34, poz. 170, Nr 106, poz. 622 i Nr 224, poz. 1337. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804, z 2011 r. Nr 34, poz. 170, Nr 94, poz. 549, Nr 208, poz. 1241 i Nr 224, poz. 1337 oraz z 2012 r. poz. 985.
 

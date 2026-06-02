@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Cyfryzacjiz dnia 8 lutego 2017 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie opłaty za udostępnienie danych z centralnej ewidencji pojazdów
+# Obwieszczenie Ministra Cyfryzacjiz dnia 8 lutego 2017 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie opłaty za udostępnienie danych z centralnej ewidencji pojazdów Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
 
 | Pole | Wartość |
 |---|---|
@@ -37,19 +37,14 @@ rozporządzeniem Ministra Cyfryzacji z dnia 13 grudnia 2016 r. zmieniającym roz
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 30 grudnia 2015 r. zmieniającego rozporządzenie w sprawie opłaty za udostępnienie danych z centralnej ewidencji pojazdów (Dz. U. poz. 2346), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 30 grudnia 2015 r. zmieniającego rozporządzenie w sprawie opłaty za udostępnienie danych z centralnej ewidencji pojazdów (Dz. U. poz. 2346), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 31 grudnia 2015 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2015 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Cyfryzacji z dnia 13 grudnia 2016 r. zmieniającego rozporządzenie w sprawie opłaty za udostępnienie danych z centralnej ewidencji pojazdów (Dz. U. poz. 2104), który stanowi:
-„
+§ 2 rozporządzenia Ministra Cyfryzacji z dnia 13 grudnia 2016 r. zmieniającego rozporządzenie w sprawie opłaty za udostępnienie danych z centralnej ewidencji pojazdów (Dz. U. poz. 2104), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-” .
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych z dnia 9 listopada 2015 r. w sprawie opłaty za udostępnienie danych z centralnej ewidencji pojazdów
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. ” . 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych z dnia 9 listopada 2015 r. w sprawie opłaty za udostępnienie danych z centralnej ewidencji pojazdówObecnie działem administracji rządowej – informatyzacja kieruje Minister Cyfryzacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
 Na podstawie art. 80ch ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 128, 60 i 379) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -75,7 +70,6 @@ Dowód wniesienia opłaty może mieć postać wydruku lub dokumentu elektroniczn
 Informacja o wysokości opłaty za udostępnienie danych do celów komercyjnych i niekomercyjnych z ewidencji jest przekazywana do wnioskodawcy w celu jej zaakceptowania. W przypadku braku akceptacji wysokości opłaty wniosek o udostępnienie danych pozostawia się bez rozpoznania.
 2.
 Opłatę wnosi się w terminie 7 dni od dnia udostępnienia danych do celów komercyjnych i niekomercyjnych z ewidencji.
-§ 5.
-Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r.
-1) Obecnie działem administracji rządowej – informatyzacja kieruje Minister Cyfryzacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Cyfryzacji z dnia 13 grudnia 2016 r. zmieniającego rozporządzenie w sprawie opłaty za udostępnienie danych z centralnej ewidencji pojazdów (Dz. U. poz. 2104), które weszło w życie z dniem 1 stycznia 2017 r.
+§ 5W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Cyfryzacji z dnia 13 grudnia 2016 r. zmieniającego rozporządzenie w sprawie opłaty za udostępnienie danych z centralnej ewidencji pojazdów (Dz. U. poz. 2104), które weszło w życie z dniem 1 stycznia 2017 r..
+Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r. 1) Obecnie działem administracji rządowej – informatyzacja kieruje Minister Cyfryzacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Cyfryzacji z dnia 13 grudnia 2016 r. zmieniającego rozporządzenie w sprawie opłaty za udostępnienie danych z centralnej ewidencji pojazdów (Dz. U. poz. 2104), które weszło w życie z dniem 1 stycznia 2017 r.
 

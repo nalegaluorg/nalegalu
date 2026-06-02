@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-03-18 |
 | Data wydania | 2013-03-27 |
-| Wejście w życie | 2013-04-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000400) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/400/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 12 ust. 10 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 12 ust. 10 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804, z 2011 r. Nr 34, poz. 170, Nr 94, poz. 549, Nr 208, poz. 1241 i Nr 224, poz. 1337, z 2012 r. poz. 985 oraz z 2013 r. poz. 7, 73 i 165.) zarządza się, co następuje:
 § 1.
 Określa się parki narodowe, gdzie za wstęp pobiera się opłaty:
 1)
@@ -119,5 +118,5 @@ szlak niebieski na odcinku Nowa Słupia – Święty Krzyż.
 § 3.
 Traci moc rozporządzenie Ministra Środowiska z dnia 18 maja 2005 r. w sprawie parków narodowych lub niektórych ich obszarów, gdzie za wstęp pobiera się opłaty (Dz. U. Nr 91, poz. 765).
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804, z 2011 r. Nr 34, poz. 170, Nr 94, poz. 549, Nr 208, poz. 1241 i Nr 224, poz. 1337, z 2012 r. poz. 985 oraz z 2013 r. poz. 7, 73 i 165.
 

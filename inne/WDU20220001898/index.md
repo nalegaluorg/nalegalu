@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 5 września 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 5 września 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-05 |
 | Data wydania | 2022-09-08 |
-| Wejście w życie | 2022-09-09 |
 | Ostatnia zmiana | 2026-04-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001898) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1898/text.pdf) |
 
@@ -79,11 +78,11 @@ Wsparcie stanowi pomoc publiczną udzielaną zgodnie:
 1)
 z warunkami określonymi w przepisach rozporządzenia:
 a)
-Komisji (UE) nr 702/2014 z dnia 25 czerwca 2014 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 193 z 01.07.2014, str. 1, z późn. zm.) albo
+Komisji (UE) nr 702/2014 z dnia 25 czerwca 2014 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 193 z 01.07.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 48 z 20.02.2019, str. 1 oraz Dz. Urz. UE L 414 z 09.12.2020, str. 15.) albo
 b)
-Komisji (UE) nr 1388/2014 z dnia 16 grudnia 2014 r. uznającego niektóre kategorie pomocy udzielanej przedsiębiorstwom prowadzącym działalność w zakresie produkcji, przetwórstwa i wprowadzania do obrotu produktów rybołówstwa i akwakultury za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 369 z 24.12.2014, str. 37, z późn. zm.), albo
+Komisji (UE) nr 1388/2014 z dnia 16 grudnia 2014 r. uznającego niektóre kategorie pomocy udzielanej przedsiębiorstwom prowadzącym działalność w zakresie produkcji, przetwórstwa i wprowadzania do obrotu produktów rybołówstwa i akwakultury za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 369 z 24.12.2014, str. 37, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 414 z 09.12.2020, str. 15.), albo
 c)
-Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.);
+Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3.);
 2)
 z przepisami ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743 oraz z 2022 r. poz. 807).
 § 6.
@@ -193,6 +192,5 @@ W przypadku złożenia przez wnioskodawcę w ramach naboru wniosków więcej ni�
 § 15.
 Zabezpieczeniem należytego wykonania przez ostatecznego odbiorcę wsparcia zobowiązań określonych w umowie o objęcie przedsięwzięcia wsparciem jest weksel niezupełny (in blanco) wraz z deklaracją wekslową sporządzoną na formularzu udostępnionym przez Agencję.
 § 16.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 48 z 20.02.2019, str. 1 oraz Dz. Urz. UE L 414 z 09.12.2020, str. 15. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 414 z 09.12.2020, str. 15. 4) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 48 z 20.02.2019, str. 1 oraz Dz. Urz. UE L 414 z 09.12.2020, str. 15. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 414 z 09.12.2020, str. 15. 4) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 grudnia 2016 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz niektórych innych ustaw
+# Ustawa z dnia 15 grudnia 2016 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, ustawę z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, ustawę z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013, ustawę z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego oraz ustawę z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-15 |
 | Data wydania | 2017-01-03 |
-| Wejście w życie | 2017-01-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000005) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/5/text.pdf) |
 
@@ -42,8 +41,10 @@ source: "eli-html"
     - **e)**
     - **f)**
 
-- **2)** w art. 6: w ust. 3: – uchyla się pkt 1, – pkt 2 otrzymuje brzmienie: „ 2) Agencja Rynku Rolnego – w przypadku działania, o którym mowa w art. 3 ust. 1 pkt 3; ” , dodaje się ust. 7 w brzmieniu: „
+- **2)** w art. 6: w ust. 3: – uchyla się pkt 1, pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** Agencja Rynku Rolnego – w przypadku działania, o którym mowa w art. 3 ust. 1 pkt 3; ” , dodaje się ust. 7 w brzmieniu: „
     - **b)**
 
 7. Agencja płatnicza w sprawach należących do niej zadań związanych z przyznawaniem, wypłatą i zwrotem pomocy oraz podmiot wdrażający w sprawach należących do delegowanych temu podmiotowi zadań agencji płatniczej mogą powoływać organy opiniodawczo-doradcze, w skład których mogą wchodzić osoby, również niebędące pracownikami odpowiednio tej agencji albo tego podmiotu, których udział w pracach takich organów jest uzasadniony zakresem ich zadań. ” ;
@@ -75,7 +76,7 @@ source: "eli-html"
 - **2)** kierownik biura powiatowego Agencji – w przypadku działań i poddziałań, o których mowa w art. 3 ust. 1 pkt 6 lit. e, pkt 8 oraz 10–12; ” ;
 - **9)** w art. 34 ust. 5 otrzymuje brzmienie: „
 
-5. Pomoc w ramach działania, o którym mowa w art. 3 ust. 1 pkt 2, jest przyznawana beneficjentowi wyłonionemu zgodnie z przepisami ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164, z późn. zm.), z wyłączeniem przepisów dotyczących umów w sprawach zamówień publicznych, z tym że umowę o przyznaniu pomocy w ramach tego działania zawiera się zgodnie z art. 94 i art. 183 tej ustawy. Do postępowań w sprawach o przyznanie tej pomocy stosuje się przepisy Kodeksu postępowania administracyjnego dotyczące skarg i wniosków. ” ;
+5. Pomoc w ramach działania, o którym mowa w art. 3 ust. 1 pkt 2, jest przyznawana beneficjentowi wyłonionemu zgodnie z przepisami ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 996, 1020, 1250, 1265, 1579, 1920 i 2260.), z wyłączeniem przepisów dotyczących umów w sprawach zamówień publicznych, z tym że umowę o przyznaniu pomocy w ramach tego działania zawiera się zgodnie z art. 94 i art. 183 tej ustawy. Do postępowań w sprawach o przyznanie tej pomocy stosuje się przepisy Kodeksu postępowania administracyjnego dotyczące skarg i wniosków. ” ;
 
 - **10)** w art. 37 ust. 1 otrzymuje brzmienie: „
 
@@ -100,7 +101,7 @@ source: "eli-html"
 6. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia:
 
 - **1)** działania lub poddziałania, w ramach których wnioski o przyznanie pomocy lub wnioski o płatność dotyczące pomocy mogą być składane za pomocą formularza umieszczonego na stronie internetowej agencji płatniczej, podmiotu wdrażającego albo LGD,
-- **2)** szczegółowe wymagania, jakie powinien spełniać formularz wniosku o przyznanie pomocy oraz wniosku o płatność dotyczącego pomocy umieszczony na stronie internetowej, oraz szczegółowe warunki i tryb składania wniosków za pomocą takiego formularza umieszczonego na stronie internetowej, w tym format pliku, w jakim będą dołączane do wniosku kopie dokumentów w postaci elektronicznej przy uwzględnieniu wymagań określonych w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne oraz biorąc pod uwagę identyfikację podmiotu ubiegającego się o przyznanie lub wypłatę pomocy i zabezpieczenie przekazywanych danych przed dostępem osób nieuprawnionych. ” ;
+- **2)** szczegółowe wymagania, jakie powinien spełniać formularz wniosku o przyznanie pomocy oraz wniosku o płatność dotyczącego pomocy umieszczony na stronie internetowej, oraz szczegółowe warunki i tryb składania wniosków za pomocą takiego formularza umieszczonego na stronie internetowej, w tym format pliku, w jakim będą dołączane do wniosku kopie dokumentów w postaci elektronicznej – przy uwzględnieniu wymagań określonych w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne oraz biorąc pod uwagę identyfikację podmiotu ubiegającego się o przyznanie lub wypłatę pomocy i zabezpieczenie przekazywanych danych przed dostępem osób nieuprawnionych. ” ;
 - **13)** po art. 43 dodaje się art. 43a w brzmieniu: „
 
 **Art. 43a.**
@@ -143,7 +144,7 @@ source: "eli-html"
 1. W przypadku gdy w ramach działania, o którym mowa w art. 3 ust. 1 pkt 8, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013, oraz w ramach działań, o których mowa w art. 3 ust. 1 pkt 10–12, w wyniku ustaleń dokonanych w ramach kontroli administracyjnej lub kontroli na miejscu zostanie stwierdzone, że:
 
 - **1)** pomoc została przyznana w niewłaściwej wysokości i istnieje konieczność zmiany jej wysokości lub
-- **2)** istnieje konieczność dokonania zmniejszenia danej pomocy lub wykluczenia z pomocy, w tym wynikająca ze stwierdzonych nieprawidłowości lub niezgodności, lub nałożenia pozostałych kar administracyjnych, o których mowa w art. 63 ust. 2 rozporządzenia nr 1306/2013 organ, który wydał decyzję w sprawie o przyznanie tej pomocy, zmienia ją bez zgody strony, jeżeli pomoc ta nie została jeszcze wypłacona i nie upłynął termin jej wypłaty.
+- **2)** istnieje konieczność dokonania zmniejszenia danej pomocy lub wykluczenia z pomocy, w tym wynikająca ze stwierdzonych nieprawidłowości lub niezgodności, lub nałożenia pozostałych kar administracyjnych, o których mowa w art. 63 ust. 2 rozporządzenia nr 1306/2013 – organ, który wydał decyzję w sprawie o przyznanie tej pomocy, zmienia ją bez zgody strony, jeżeli pomoc ta nie została jeszcze wypłacona i nie upłynął termin jej wypłaty.
 
 2. W przypadku, o którym mowa w ust. 1, postępowanie wszczyna się z urzędu. ” ;
 
@@ -163,7 +164,7 @@ source: "eli-html"
 
 - **1)** rolnictwa ekologicznego,
 - **2)** przedsiębiorczości,
-- **3)** ekonomiki gospodarstwa rolnego jeżeli ukończył szkolenie w zakresie danej specjalizacji przeprowadzone przez CDR i zdał egzamin w zakresie danej specjalizacji przeprowadzony przez dyrektora CDR.
+- **3)** ekonomiki gospodarstwa rolnego – jeżeli ukończył szkolenie w zakresie danej specjalizacji przeprowadzone przez CDR i zdał egzamin w zakresie danej specjalizacji przeprowadzony przez dyrektora CDR.
 
 2. Do szkolenia i egzaminu w zakresie danej specjalizacji stosuje się odpowiednio przepisy art. 52 ust. 1–4, 5 pkt 1 oraz ust. 6 i 9.
 
@@ -177,8 +178,11 @@ source: "eli-html"
 
 7. Informację o specjalizacji danego doradcy rolniczego skreśla się z listy doradców rolniczych na żądanie tego doradcy lub w przypadku niezdania egzaminu uzupełniającego w zakresie danej specjalizacji. ” ;
 
-- **20)** w art. 55: w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) opracowanie planu działania i dwuletnich planów operacyjnych oraz ich zmian we współpracy z jednostkami wymienionymi w ust. 1 pkt 2–4, podmiotami wdrażającymi i agencją płatniczą; ” , – dodaje się pkt 3 w brzmieniu: „ 3) realizację planu działania na poziomie krajowym na podstawie dwuletnich planów operacyjnych. ” , po ust. 2 dodaje się ust. 2a-2d w brzmieniu: „
+- **20)** w art. 55: w ust. 2: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** opracowanie planu działania i dwuletnich planów operacyjnych oraz ich zmian we współpracy z jednostkami wymienionymi w ust. 1 pkt 2–4, podmiotami wdrażającymi i agencją płatniczą; ” , dodaje się pkt 3 w brzmieniu: „
+- **3)** realizację planu działania na poziomie krajowym na podstawie dwuletnich planów operacyjnych. ” , po ust. 2 dodaje się ust. 2a-2d w brzmieniu: „
     - **b)**
 
 2a. W ramach współpracy, o której mowa w ust. 2 pkt 2, jednostki wymienione w ust. 1 pkt 2–4, podmioty wdrażające i agencja płatnicza zgłaszają jednostce centralnej propozycje:
@@ -319,7 +323,7 @@ source: "eli-html"
 
 - **1)** w art. 4 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
-1a. Decyzje ministra właściwego do spraw rozwoju wsi wydane na podstawie ust. 1 pkt 4 mogą być zmieniane na podstawie art. 154 albo art. 155 Kodeksu postępowania administracyjnego, chyba że taka zmiana jest sprzeczna z kryteriami określonymi w art. 16 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.) . ” ;
+1a. Decyzje ministra właściwego do spraw rozwoju wsi wydane na podstawie ust. 1 pkt 4 mogą być zmieniane na podstawie art. 154 albo art. 155 Kodeksu postępowania administracyjnego, chyba że taka zmiana jest sprzeczna z kryteriami określonymi w art. 16 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8 oraz Dz. Urz. UE L 130 z 19.05.2016, str. 1.) . ” ;
 
 - **2)** w art. 18 ust. 4 otrzymuje brzmienie: „
 
@@ -353,8 +357,11 @@ source: "eli-html"
 
 **Art. 6.** W ustawie z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. poz. 378) wprowadza się następujące zmiany:
 
-- **1)** w art. 21: w ust. 2: – w pkt 2 po wyrazach „tej operacji” kropkę zastępuje się przecinkiem i dodaje się wyrazy „w tym z warunkami, o których mowa w art. 19 ust. 4 pkt 2 lit. a, oraz na realizację której może być udzielone wsparcie w formie, o której mowa w art. 19 ust. 4 pkt 1 lit. b;”, – dodaje się pkt 3 i 4 w brzmieniu: „ 3) jest zgodna z zakresem tematycznym, o którym mowa w art. 19 ust. 4 pkt 1 lit. c; 4) jest objęta wnioskiem o udzielenie wsparcia, który został złożony w miejscu i terminie wskazanym w ogłoszeniu o naborze wniosków o udzielenie wsparcia, o którym mowa w art. 35 ust. 1 lit. b rozporządzenia nr 1303/2013. ” , w ust. 4 pkt 1 otrzymuje brzmienie: „
+- **1)** w art. 21: w ust. 2: – w pkt 2 po wyrazach „tej operacji” kropkę zastępuje się przecinkiem i dodaje się wyrazy „w tym z warunkami, o których mowa w art. 19 ust. 4 pkt 2 lit. a, oraz na realizację której może być udzielone wsparcie w formie, o której mowa w art. 19 ust. 4 pkt 1 lit. b;”, dodaje się pkt 3 i 4 w brzmieniu: „
     - **a)**
+
+- **3)** jest zgodna z zakresem tematycznym, o którym mowa w art. 19 ust. 4 pkt 1 lit. c;
+- **4)** jest objęta wnioskiem o udzielenie wsparcia, który został złożony w miejscu i terminie wskazanym w ogłoszeniu o naborze wniosków o udzielenie wsparcia, o którym mowa w art. 35 ust. 1 lit. b rozporządzenia nr 1303/2013. ” , w ust. 4 pkt 1 otrzymuje brzmienie: „
     - **b)**
 
 - **1)** spośród operacji, które są zgodne z LSR; ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
@@ -375,9 +382,11 @@ source: "eli-html"
 4. Oprócz elementów określonych w art. 54 ust. 2 ustawy w zakresie polityki spójności, protest od:
 
 - **1)** negatywnej oceny zgodności operacji z LSR zawiera wskazanie, w jakim zakresie podmiot ubiegający się o wsparcie, o którym mowa w art. 35 ust. 1 lit. b rozporządzenia nr 1303/2013, nie zgadza się z tą oceną, oraz uzasadnienie stanowiska tego podmiotu;
-- **2)** ustalenia przez LGD kwoty wsparcia niższej niż wnioskowana zawiera wskazanie, w jakim zakresie podmiot ubiegający się o wsparcie, o którym mowa w art. 35 ust. 1 lit. b rozporządzenia nr 1303/2013, nie zgadza się z tym ustaleniem, oraz uzasadnienie stanowiska tego podmiotu. ” , w ust. 8: – pkt 2 otrzymuje brzmienie: „ 2) protest pozostawia się bez rozpatrzenia również w przypadku, gdy nie spełnia wymagań określonych w ust. 4; ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) w weryfikacji, o której mowa w art. 56 ust. 2 ustawy w zakresie polityki spójności, a także w ponownej ocenie, o której mowa w art. 58 ust. 3 ustawy w zakresie polityki spójności, nie mogą brać udziału osoby, które były zaangażowane w przygotowanie projektu; przepisy art. 24 § 1 pkt 1–4 oraz 6 i 7 Kodeksu postępowania administracyjnego stosuje się odpowiednio; ” ;
+- **2)** ustalenia przez LGD kwoty wsparcia niższej niż wnioskowana zawiera wskazanie, w jakim zakresie podmiot ubiegający się o wsparcie, o którym mowa w art. 35 ust. 1 lit. b rozporządzenia nr 1303/2013, nie zgadza się z tym ustaleniem, oraz uzasadnienie stanowiska tego podmiotu. ” , w ust. 8: pkt 2 otrzymuje brzmienie: „
     - **c)**
 
+- **2)** protest pozostawia się bez rozpatrzenia również w przypadku, gdy nie spełnia wymagań określonych w ust. 4; ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** w weryfikacji, o której mowa w art. 56 ust. 2 ustawy w zakresie polityki spójności, a także w ponownej ocenie, o której mowa w art. 58 ust. 3 ustawy w zakresie polityki spójności, nie mogą brać udziału osoby, które były zaangażowane w przygotowanie projektu; przepisy art. 24 § 1 pkt 1–4 oraz 6 i 7 Kodeksu postępowania administracyjnego stosuje się odpowiednio; ” ;
 - **3)** w art. 23 dodaje się ust. 8 w brzmieniu: „
 
 8. Do projektów grantowych i operacji własnych LGD przepisy ust. 3–6 stosuje się odpowiednio. ” .
@@ -391,7 +400,7 @@ source: "eli-html"
 2. Właściwy kierownik biura powiatowego Agencji przekazuje właściwemu dyrektorowi oddziału regionalnego Agencji:
 
 - **1)** akta prowadzonych spraw dotyczących pomocy w ramach poddziałań, o których mowa w art. 3 ust. 1 pkt 6 lit. a i c ustawy zmienianej w art. 1, zakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy,
-- **2)** akta prowadzonych spraw dotyczących pomocy w ramach poddziałań, o których mowa w art. 3 ust. 1 pkt 6 lit. a i c ustawy zmienianej w art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
+- **2)** akta prowadzonych spraw dotyczących pomocy w ramach poddziałań, o których mowa w art. 3 ust. 1 pkt 6 lit. a i c ustawy zmienianej w art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy – w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
 
 3. W przypadku gdy w dniu wejścia w życie niniejszej ustawy postępowanie w sprawie dotyczącej pomocy w ramach poddziałań, o których mowa w art. 3 ust. 1 pkt 6 lit. a i c ustawy zmienianej w art. 1, toczy się przed dyrektorem oddziału regionalnego Agencji jako organem odwoławczym, dyrektor ten przekazuje niezwłocznie akta tej sprawy Prezesowi Agencji.
 
@@ -431,9 +440,9 @@ source: "eli-html"
 **Art. 12.** W sprawach objętych postępowaniami wszczętymi na podstawie ustawy zmienianej w:
 
 - **1)** art. 5 i niezakończonymi przed dniem wejścia w życie niniejszej ustawy przepisy ustawy zmienianej w art. 5,
-- **2)** art. 6 i niezakończonymi przed dniem wejścia w życie niniejszej ustawy przepisy ustawy zmienianej w art. 6 stosuje się w brzmieniu nadanym niniejszą ustawą.
+- **2)** art. 6 i niezakończonymi przed dniem wejścia w życie niniejszej ustawy przepisy ustawy zmienianej w art. 6 – stosuje się w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 13.** Przepisy wykonawcze wydane na podstawie art. 17 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 17 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż 6 miesięcy od dnia wejścia w życie niniejszej ustawy, i mogą być zmieniane na podstawie tego przepisu.
 
-**Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, ustawę z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, ustawę z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013, ustawę z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego oraz ustawę z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 996, 1020, 1250, 1265, 1579, 1920 i 2260. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8 oraz Dz. Urz. UE L 130 z 19.05.2016, str. 1.
 

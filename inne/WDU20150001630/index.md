@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-13 |
 | Data wydania | 2015-10-16 |
-| Wejście w życie | 2015-10-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001630) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1630/text.pdf) |
 
@@ -33,8 +32,7 @@ Rozporządzenie określa:
 1)
 wymagania lokalowe, w tym warunki ochrony przeciwpożarowej,
 2)
-wymagania sanitarne
-jakie musi spełniać lokal, w którym ma być prowadzona placówka wsparcia dziennego, zwana dalej „placówką”.
+wymagania sanitarne jakie musi spełniać lokal, w którym ma być prowadzona placówka wsparcia dziennego, zwana dalej „placówką”.
 § 2.
 1.
 Lokal, w którym ma być prowadzona placówka, musi znajdować się w budynku lub jego części spełniających wymagania ochrony przeciwpożarowej określone w przepisach w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie, oraz przepisach przeciwpożarowych lub wymagania uzgodnione z właściwym miejscowo komendantem wojewódzkim Państwowej Straży Pożarnej, w trybie określonym w tych przepisach.

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 19 października 2017 r. w sprawie rodzajów dokumentów i informacji wymaganych do rozpatrzenia wniosku o określenie warunków zwrotu, odstąpienie od dochodzenia zwrotu lub umorzenie należności Funduszu Gwarantowanych Świadczeń Pracowniczych
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 19 października 2017 r. w sprawie rodzajów dokumentów i informacji wymaganych do rozpatrzenia wniosku o określenie warunków zwrotu, odstąpienie od dochodzenia zwrotu lub umorzenie należności Funduszu Gwarantowanych Świadczeń Pracowniczych Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-19 |
 | Data wydania | 2017-10-27 |
-| Wejście w życie | 2017-10-28 |
 | Ostatnia zmiana | 2026-03-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002007) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2007/text.pdf) |
 
@@ -151,7 +150,7 @@ informację organu egzekucyjnego o stanie majątkowym dłużnika Funduszu;
 2)
 informacje uzyskane w postępowaniu sądowym o wyjawienie majątku dłużnika Funduszu;
 3)
-informację organu egzekucyjnego, o której mowa w art. 7601 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.);
+informację organu egzekucyjnego, o której mowa w art. 7601 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933, 1133, 1136, 1452, 1475, 1596, 1727 i 1883.);
 4)
 protokół lub inny dokument z wysłuchania wierzyciela i dłużnika Funduszu w trybie art. 827 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego;
 5)
@@ -187,7 +186,7 @@ postanowienie, o którym mowa w § 11 pkt 6;
 3)
 prawomocne postanowienie sądu o zakończeniu lub umorzeniu postępowania upadłościowego wskazujące na brak majątku dłużnika Funduszu;
 4)
-informację sądu o nieprzerejestrowaniu dłużnika Funduszu do KRS zgodnie z art. 9 ust. 2a ustawy z dnia 20 sierpnia 1997 r. – Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym (Dz. U. poz. 770, z późn. zm.);
+informację sądu o nieprzerejestrowaniu dłużnika Funduszu do KRS zgodnie z art. 9 ust. 2a ustawy z dnia 20 sierpnia 1997 r. – Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym (Dz. U. poz. 770, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. poz. 1194, z 2002 r. poz. 2, z 2003 r. poz. 2125, z 2010 r. poz. 671, z 2013 r. poz. 1622 oraz z 2014 r. poz. 1924.);
 5)
 informację dotyczącą nieodpłatnego nabycia przez Skarb Państwa z mocy prawa mienia dłużnika Funduszu zgodnie z art. 9 ust. 2b ustawy z dnia 20 sierpnia 1997 r. – Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym;
 6)
@@ -273,6 +272,5 @@ informacje, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o
 7)
 inne dokumenty lub informacje potwierdzające wnioskowane przez dłużnika Funduszu warunki zwrotu należności Funduszu.
 § 18.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933, 1133, 1136, 1452, 1475, 1596, 1727 i 1883. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. poz. 1194, z 2002 r. poz. 2, z 2003 r. poz. 2125, z 2010 r. poz. 671, z 2013 r. poz. 1622 oraz z 2014 r. poz. 1924. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rodziny, Pracy i Polityki Społecznej z dnia 18 listopada 2016 r. w sprawie szczegółowego zakresu informacji zawartych we wniosku marszałka województwa o określenie warunków zwrotu, odstąpienie od dochodzenia zwrotu lub umorzenie należności Funduszu Gwarantowanych Świadczeń Pracowniczych (Dz. U. poz. 1898), które zgodnie z art. 6 ustawy z dnia 20 lipca 2017 r. o zmianie ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy oraz ustawy o kosztach sądowych w sprawach cywilnych (Dz. U. poz. 1557) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rodziny, Pracy i Polityki Społecznej z dnia 18 listopada 2016 r. w sprawie szczegółowego zakresu informacji zawartych we wniosku marszałka województwa o określenie warunków zwrotu, odstąpienie od dochodzenia zwrotu lub umorzenie należności Funduszu Gwarantowanych Świadczeń Pracowniczych (Dz. U. poz. 1898), które zgodnie z art. 6 ustawy z dnia 20 lipca 2017 r. o zmianie ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy oraz ustawy o kosztach sądowych w sprawach cywilnych (Dz. U. poz. 1557) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933, 1133, 1136, 1452, 1475, 1596, 1727 i 1883. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. poz. 1194, z 2002 r. poz. 2, z 2003 r. poz. 2125, z 2010 r. poz. 671, z 2013 r. poz. 1622 oraz z 2014 r. poz. 1924. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rodziny, Pracy i Polityki Społecznej z dnia 18 listopada 2016 r. w sprawie szczegółowego zakresu informacji zawartych we wniosku marszałka województwa o określenie warunków zwrotu, odstąpienie od dochodzenia zwrotu lub umorzenie należności Funduszu Gwarantowanych Świadczeń Pracowniczych (Dz. U. poz. 1898), które zgodnie z art. 6 ustawy z dnia 20 lipca 2017 r. o zmianie ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy oraz ustawy o kosztach sądowych w sprawach cywilnych (Dz. U. poz. 1557) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

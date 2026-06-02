@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-06-25 |
 | Data wydania | 2012-07-02 |
-| Wejście w życie | 2012-07-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000745) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/745/text.pdf) |
 
@@ -33,14 +32,11 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 16 kwietnia 2008 r. w 
 1)
 w § 3:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Nawozy naturalne i organiczne, w postaci płynnej, stosuje się przy użyciu rozlewaczy, aplikatorów doglebowych, deszczowni lub wozów asenizacyjnych wyposażonych w płytki rozbryzgowe lub węże rozlewowe.
-” ,
+Nawozy naturalne i organiczne, w postaci płynnej, stosuje się przy użyciu rozlewaczy, aplikatorów doglebowych, deszczowni lub wozów asenizacyjnych wyposażonych w płytki rozbryzgowe lub węże rozlewowe. ” ,
 b)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
 Nawozy, z wyłączeniem gnojowicy, stosuje się na gruntach rolnych w odległości co najmniej 5 m od brzegu:
 1)
@@ -50,11 +46,9 @@ cieków wodnych;
 3)
 rowów, z wyłączeniem rowów o szerokości do 5 m liczonej na wysokości górnej krawędzi brzegu rowu;
 4)
-kanałów w rozumieniu przepisów ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145).
-” ,
+kanałów w rozumieniu przepisów ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145). ” ,
 c)
-po ust. 4 dodaje się ust. 4a i 4b w brzmieniu:
-„
+po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „
 4a.
 Nawozy stosuje się na gruntach rolnych w odległości co najmniej 20 m od:
 1)
@@ -72,26 +66,21 @@ cieków wodnych;
 3)
 rowów, z wyłączeniem rowów o szerokości do 5 m liczonej na wysokości górnej krawędzi brzegu rowu;
 4)
-kanałów w rozumieniu przepisów ustawy z dnia 18 lipca 2001 r. – Prawo wodne.
-” ;
+kanałów w rozumieniu przepisów ustawy z dnia 18 lipca 2001 r. – Prawo wodne. ” ;
 2)
 uchyla się § 4;
 3)
 w § 5:
 a)
-pkt 2 otrzymuje brzmienie:
-„
+pkt 2 otrzymuje brzmienie: „
 2)
-Instytut Ogrodnictwa w Skierniewicach w zakresie stosowania nawozów w uprawach sadowniczych, roślin ozdobnych i trawników oraz warzywnictwie;
-” ,
+Instytut Ogrodnictwa w Skierniewicach w zakresie stosowania nawozów w uprawach sadowniczych, roślin ozdobnych i trawników oraz warzywnictwie; ” ,
 b)
 uchyla się pkt 3,
 c)
-pkt 4 otrzymuje brzmienie:
-„
+pkt 4 otrzymuje brzmienie: „
 4)
-Instytut Technologiczno-Przyrodniczy w Falentach w zakresie stosowania nawozów na użytkach zielonych;
-” .
+Instytut Technologiczno-Przyrodniczy w Falentach w zakresie stosowania nawozów na użytkach zielonych; ” .
 § 2.
 Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia.
 

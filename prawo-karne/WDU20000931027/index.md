@@ -22,9 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2000-09-09 |
 | Data wydania | 2000-11-03 |
-| Wejście w życie | 2001-02-04 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000931027) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1027/text.pdf) |
+
+Przejęcie i przekazanie orzeczeń do wykonania
+Odpowiedzialność przedsiębiorców za przekupstwo osoby pełniącej funkcję publiczną
 
 **Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553i Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729i Nr 83, poz. 931oraz z 2000 r. Nr 48, poz. 548) wprowadza się następujące zmiany:
 
@@ -58,7 +60,7 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z 1999 r. Nr 83, poz. 931oraz z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717i Nr 73, poz. 852) rozdział 66 otrzymuje brzmienie: „
 
-#### Rozdział 66 Przejęcie i przekazanie orzeczeń do wykonania
+#### Rozdział 66
 
 **Art. 608.**
 
@@ -159,7 +161,7 @@ source: "eli-html"
 
 - **4)** po art. 22 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Odpowiedzialność przedsiębiorców za przekupstwo osoby pełniącej funkcję publiczną
+#### Rozdział 3a
 
 **Art. 22a.**
 

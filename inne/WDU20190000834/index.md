@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 11 kwietnia 2019 r. w sprawie standardów organizacyjnych opieki zdrowotnej w dziedzinie radiologii i diagnostyki obrazowej wykonywanej za pośrednictwem systemów teleinformatycznych
+# Rozporządzenie Ministra Zdrowiaz dnia 11 kwietnia 2019 r. w sprawie standardów organizacyjnych opieki zdrowotnej w dziedzinie radiologii i diagnostyki obrazowej wykonywanej za pośrednictwem systemów teleinformatycznych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-11 |
 | Data wydania | 2019-05-07 |
-| Wejście w życie | 2019-05-22 |
 | Ostatnia zmiana | 2026-03-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000834) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/834/text.pdf) |
 
@@ -81,7 +80,7 @@ dane pacjenta:
 – imię (imiona) i nazwisko,
 – adres miejsca zamieszkania,
 – datę urodzenia,
-– numer PESEL, a w przypadku osób, którym nie nadano numeru PESEL – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem wykonawczym Komisji (UE) 2015/1501”,
+– numer PESEL, a w przypadku osób, którym nie nadano numeru PESEL – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 28 z 04.02.2016, str. 18., zwanym dalej „rozporządzeniem wykonawczym Komisji (UE) 2015/1501”,
 b)
 datę wykonania badania radiologicznego,
 c)
@@ -182,6 +181,5 @@ Szczegółowe zasady prowadzenia kontroli jakości usług teleradiologicznych ok
 § 8.
 Podmioty wykonujące działalność leczniczą w zakresie radiologii i diagnostyki obrazowej wykonywanej za pośrednictwem systemów teleinformatycznych dostosują swoją działalność do wymagań określonych rozporządzeniem w terminie 12 miesięcy od dnia jego wejścia w życie.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 28 z 04.02.2016, str. 18.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 28 z 04.02.2016, str. 18.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-14 |
 | Data wydania | 2017-12-22 |
-| Wejście w życie | 2018-03-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002424) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2424/text.pdf) |
 
@@ -35,28 +34,22 @@ Wobszarze właściwości Wydziału do spraw Wojskowych Prokuratury Okręgowej w 
 § 3.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 22 marca 2016 r. w sprawie utworzenia w prokuraturach okręgowych i prokuraturach rejonowych komórek organizacyjnych do spraw wojskowych, ustalenia ich siedzib i obszarów właściwości (Dz. U. poz. 402 oraz z 2017 r. poz. 1762) wprowadza się następujące zmiany:
 1)
-§ 3 otrzymuje brzmienie:
-„
+§ 3 otrzymuje brzmienie: „
 § 3.
 1.
 Wydział do spraw Wojskowych w Prokuraturze Okręgowej w Poznaniu obejmuje swoją właściwością obszar województw będących we właściwości następujących prokuratur rejonowych właściwych w sprawach, o których mowa w art. 3 § 2 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze: Prokuratury Rejonowej Bydgoszcz-Południe w Bydgoszczy, Prokuratury Rejonowej w Gdyni, Prokuratury Rejonowej Poznań-Grunwald w Poznaniu, Prokuratury Rejonowej Szczecin-Niebuszewo w Szczecinie i Prokuratury Rejonowej Wrocław-Fabryczna we Wrocławiu.
 2.
-Wydział do spraw Wojskowych w Prokuraturze Okręgowej w Warszawie obejmuje swoją właściwością obszar województw będących we właściwości następujących prokuratur rejonowych właściwych w sprawach, o których mowa w art. 3 § 2 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze: Prokuratury Rejonowej Białystok-Północ w Białymstoku, Prokuratury Rejonowej Kraków-Krowodrza w Krakowie, Prokuratury Rejonowej w Lublinie, Prokuratury Rejonowej Olsztyn-Południe w Olsztynie i Prokuratury Rejonowej Warszawa-Ursynów w Warszawie.
-” ;
+Wydział do spraw Wojskowych w Prokuraturze Okręgowej w Warszawie obejmuje swoją właściwością obszar województw będących we właściwości następujących prokuratur rejonowych właściwych w sprawach, o których mowa w art. 3 § 2 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze: Prokuratury Rejonowej Białystok-Północ w Białymstoku, Prokuratury Rejonowej Kraków-Krowodrza w Krakowie, Prokuratury Rejonowej w Lublinie, Prokuratury Rejonowej Olsztyn-Południe w Olsztynie i Prokuratury Rejonowej Warszawa-Ursynów w Warszawie. ” ;
 2)
 w § 4:
 a)
-po pkt 1 dodaje się pkt la i lb w brzmieniu:
-„
+po pkt 1 dodaje się pkt la i lb w brzmieniu: „
 1a)
 1b)
-” ,
 b)
-pkt 4 i 5 otrzymują brzmienie:
-„
+pkt 4 i 5 otrzymują brzmienie: „
 4)
 5)
-” .
 § 4.
 Sprawy, które przed dniem wejścia w życie niniejszego rozporządzenia wpłynęły do działów do spraw wojskowych w prokuraturach rejonowych właściwych na podstawie przepisów dotychczasowych, pozostają w ich właściwości.
 § 5.
@@ -64,9 +57,9 @@ Rozporządzenie wchodzi w życie z dniem 5 marca 2018 r.
 
 ### Dział do spraw Wojskowych w Prokuraturze Rejonowej Białystok-Północ w Białymstoku – obszar województwa podlaskiego;
 
-### Dział do spraw Wojskowych w Prokuraturze Rejonowej Bydgoszcz-Południe w Bydgoszczy – obszar województwa kujawsko-pomorskiego;
+### Dział do spraw Wojskowych w Prokuraturze Rejonowej Bydgoszcz-Południe w Bydgoszczy – obszar województwa kujawsko-pomorskiego; ” ,
 
 ### Dział do spraw Wojskowych w Prokuraturze Rejonowej Olsztyn-Południe w Olsztynie – obszar województwa warmińsko-mazurskiego;
 
-### Dział do spraw Wojskowych w Prokuraturze Rejonowej Poznań-Grunwald w Poznaniu – obszar województwa wielkopolskiego;
+### Dział do spraw Wojskowych w Prokuraturze Rejonowej Poznań-Grunwald w Poznaniu – obszar województwa wielkopolskiego; ” .
 

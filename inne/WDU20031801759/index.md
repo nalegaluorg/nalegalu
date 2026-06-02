@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-09-11 |
 | Data wydania | 2003-10-23 |
-| Wejście w życie | 2003-11-07 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031801759) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1759/text.pdf) |
 
 Wykonywanie przez Agencję zadań na rzecz ministra właściwego do spraw wewnętrznych oraz organów i jednostek organizacyjnych mu podległych lub przez niego nadzorowanych:
 
-**Art. 1.** W ustawie z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz. U. Nr 90, poz. 405, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz. U. Nr 90, poz. 405, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 80, poz. 509 i Nr 121, poz. 770, z 2000 r. Nr 48, poz. 550 i Nr 95, poz. 1041, z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 240, poz. 2055 oraz z 2003 r. Nr 1, poz. 15.) wprowadza się następujące zmiany:
 
 - **1)** art. 1 otrzymuje brzmienie: „ Ustawa określa:
 - **1)** zasady i tryb gospodarowania mieniem Skarbu Państwa będącym w trwałym zarządzie jednostek organizacyjnych podległych Ministrowi Obrony Narodowej albo ministrowi właściwemu do spraw wewnętrznych lub przez nich nadzorowanych, a także innym mieniem będącym we władaniu tych jednostek, niewykorzystywanym do realizacji ich zadań,
@@ -42,7 +41,7 @@ Wykonywanie przez Agencję zadań na rzecz ministra właściwego do spraw wewnę
 - **2)** państwowym jednostkom organizacyjnym, jednostkom samorządu terytorialnego, stowarzyszeniom i fundacjom prowadzącym działalność związaną z obronnością lub bezpieczeństwem państwa – na cele ich działalności statutowej. ” ;
 - **3)** w rozdziale 1 po art. 4b dodaje się art. 4c i 4d w brzmieniu: „
 
-**Art. 4c.** Minister Obrony Narodowej, na podstawie umów międzynarodowych, może przekazywać nieodpłatnie siłom zbrojnym państw będących stronami tych umów uzbrojenie i towary podwójnego zastosowania, w rozumieniu art. 3 pkt 1 i 2 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niektórych ustaw (Dz. U. Nr 119, poz. 1250, z późn. zm.). Mienie ruchome Skarbu Państwa będące na wyposażeniu polskich jednostek wojskowych poza granicami państwa, niewykorzystywane przez te jednostki do realizacji ich zadań, jeżeli jego wartość jest niższa od kosztów jego transportu do kraju, zagospodarowuje organ wojskowy wyznaczony przez Ministra Obrony Narodowej w państwie pobytu polskiej jednostki wojskowej przez sprzedaż, przekazanie na cele charytatywne lub likwidację. Środki finansowe uzyskane ze sprzedaży tego mienia stanowią dochód środka specjalnego określonego w art. 11 ust. 1 ustawy z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej w latach 2001–2006 (Dz. U. Nr 76, poz. 804, Nr 85, poz. 925, Nr 154, poz. 1802 oraz z 2002 r. Nr 205, poz. 1731). ” ;
+**Art. 4c.** Minister Obrony Narodowej, na podstawie umów międzynarodowych, może przekazywać nieodpłatnie siłom zbrojnym państw będących stronami tych umów uzbrojenie i towary podwójnego zastosowania, w rozumieniu art. 3 pkt 1 i 2 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niektórych ustaw (Dz. U. Nr 119, poz. 1250, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1789 oraz z 2002 r. Nr 41, poz. 365, Nr 74, poz. 676 i Nr 89, poz. 804.). Mienie ruchome Skarbu Państwa będące na wyposażeniu polskich jednostek wojskowych poza granicami państwa, niewykorzystywane przez te jednostki do realizacji ich zadań, jeżeli jego wartość jest niższa od kosztów jego transportu do kraju, zagospodarowuje organ wojskowy wyznaczony przez Ministra Obrony Narodowej w państwie pobytu polskiej jednostki wojskowej przez sprzedaż, przekazanie na cele charytatywne lub likwidację. Środki finansowe uzyskane ze sprzedaży tego mienia stanowią dochód środka specjalnego określonego w art. 11 ust. 1 ustawy z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej w latach 2001–2006 (Dz. U. Nr 76, poz. 804, Nr 85, poz. 925, Nr 154, poz. 1802 oraz z 2002 r. Nr 205, poz. 1731). ” ;
 
 - **4)** w art. 7 po ust. 3 dodaje się ust. 3a w brzmieniu: „
 
@@ -135,13 +134,13 @@ Wykonywanie przez Agencję zadań na rzecz ministra właściwego do spraw wewnę
 - **16)** w art. 23: ust. 3 otrzymuje brzmienie: „
     - **a)**
 
-3. Do gospodarowania przez Agencję nieruchomościami mają odpowiednio zastosowanie przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2000 r. Nr 46, poz. 543, z późn. zm.), z tym że decyzje w sprawie oddania nieruchomości w trwały zarząd wydaje Prezes Agencji. Od decyzji Prezesa Agencji służy odwołanie do Ministra Obrony Narodowej. ” , po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
+3. Do gospodarowania przez Agencję nieruchomościami mają odpowiednio zastosowanie przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2000 r. Nr 46, poz. 543, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 129, poz. 1447 i Nr 154, poz. 1800, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 113, poz. 984, Nr 126, poz. 1070, Nr 130, poz. 1112, Nr 153, poz. 1271, Nr 200, poz. 1682 i Nr 240, poz. 2058 oraz z 2003 r. Nr 1, poz. 15, Nr 80, poz. 717, 720 i 721, Nr 96, poz. 874, Nr 124, poz. 1152 i Nr 162, poz. 1568.), z tym że decyzje w sprawie oddania nieruchomości w trwały zarząd wydaje Prezes Agencji. Od decyzji Prezesa Agencji służy odwołanie do Ministra Obrony Narodowej. ” , po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
 
 - **b)**
 
 3a. Mienie ruchome przydatne do celów ochrony przeciwpożarowej, likwidacji skutków klęsk żywiołowych i zagrożeń środowiska oraz do innych celów związanych z bezpieczeństwem państwa Agencja może sprzedawać, w drodze przetargu ograniczonego, jednostkom samorządu terytorialnego oraz prowadzącym działalność statutową w tym zakresie stowarzyszeniom i fundacjom.
 
-3b. Mienie ruchome Agencja może sprzedawać, w drodze przetargu ograniczonego, z zapłatą ceny w ratach, żołnierzom zawodowym zwolnionym z zawodowej służby wojskowej na podstawie art. 78 ust. 2 pkt 2 ustawy z dnia 30 czerwca 1970 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 1997 r. Nr 10, poz. 55, z późn. zm.) oraz zwolnionym z pracy w związku ze zmianami organizacyjnymi w Siłach Zbrojnych Rzeczypospolitej Polskiej pracownikom jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, podejmującym działalność gospodarczą. ” ;
+3b. Mienie ruchome Agencja może sprzedawać, w drodze przetargu ograniczonego, z zapłatą ceny w ratach, żołnierzom zawodowym zwolnionym z zawodowej służby wojskowej na podstawie art. 78 ust. 2 pkt 2 ustawy z dnia 30 czerwca 1970 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 1997 r. Nr 10, poz. 55, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 106, poz. 678, Nr 107, poz. 688, Nr 117, poz. 753, Nr 121, poz. 770 i Nr 141, poz. 944, z 1998 r. Nr 162, poz. 1117, z 1999 r. Nr 1, poz. 7, z 2001 r. Nr 85, poz. 925 i Nr 154, poz. 1800, z 2002 r. Nr 141, poz. 1184, Nr 200, poz. 1687 i Nr 240, poz. 2052 oraz z 2003 r. Nr 45, poz. 391.) oraz zwolnionym z pracy w związku ze zmianami organizacyjnymi w Siłach Zbrojnych Rzeczypospolitej Polskiej pracownikom jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, podejmującym działalność gospodarczą. ” ;
 
 - **17)** art. 24 otrzymuje brzmienie: „
 
@@ -194,7 +193,7 @@ Wykonywanie przez Agencję zadań na rzecz ministra właściwego do spraw wewnę
 
 - **26)** w art. 31 dodaje się ust. 5 w brzmieniu: „
 
-5. Do zamówień udzielanych Agencji przez Ministra Obrony Narodowej oraz przez kierowników jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych nie stosuje się przepisów ustawy z dnia 10 czerwca 1994 r. o zamówieniach publicznych (Dz. U. z 2002 r. Nr 72, poz. 664, z późn. zm.). ” ;
+5. Do zamówień udzielanych Agencji przez Ministra Obrony Narodowej oraz przez kierowników jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych nie stosuje się przepisów ustawy z dnia 10 czerwca 1994 r. o zamówieniach publicznych (Dz. U. z 2002 r. Nr 72, poz. 664, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 197, poz. 1661 oraz z 2003 r. Nr 2, poz. 16, Nr 130, poz. 1188 i Nr 165, poz. 1591.). ” ;
 
 - **27)** po art. 31 dodaje się rozdział 4a w brzmieniu: „
 
@@ -206,20 +205,20 @@ Wykonywanie przez Agencję zadań na rzecz ministra właściwego do spraw wewnę
 
 2. Przekazanie mienia, o którym mowa w ust. 1, prowadzenie jego ewidencji oraz gospodarowanie tym mieniem następuje w trybie i na zasadach określonych w ustawie.
 
-1. Tworzy się środek specjalny w rozumieniu art. 21 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. Nr 15, poz. 148, z późn. zm.), na którym gromadzi się środki finansowe z tytułów, o których mowa w ust. 2. Dysponentem tych środków jest minister właściwy do spraw wewnętrznych.
+1. Tworzy się środek specjalny w rozumieniu art. 21 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. Nr 15, poz. 148, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874 i Nr 166, poz. 1611.), na którym gromadzi się środki finansowe z tytułów, o których mowa w ust. 2. Dysponentem tych środków jest minister właściwy do spraw wewnętrznych.
 
 2. Na środek specjalny, o którym mowa w ust. 1, Agencja przekazuje 93% dochodów uzyskanych z gospodarowania mieniem Skarbu Państwa, o którym mowa w art. 31a ust. 1.
 
 3. Środek specjalny, o którym mowa w ust. 1, przeznaczony jest na realizację zadań inwestycyjnych oraz na modernizację uzbrojenia i wyposażenia organów i jednostek podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych. ” .
 
-**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm.) w art. 17 w ust. 1 pkt 4ł otrzymuje brzmienie: „ 4ł) dochody Agencji Mienia Wojskowego, w części przeznaczonej na inwestycje:
+**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922 oraz z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 96, poz. 874 i Nr 137, poz. 1302.) w art. 17 w ust. 1 pkt 4ł otrzymuje brzmienie: „ 4ł) dochody Agencji Mienia Wojskowego, w części przeznaczonej na inwestycje:
 
 Sił Zbrojnych Rzeczypospolitej Polskiej, urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz organów i jednostek organizacyjnych mu podległych lub przez niego nadzorowanych, ” .
 
 - **a)**
 - **b)**
 
-**Art. 3.** W ustawie z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. Nr 26, poz. 306, z późn. zm.) w art. 10:
+**Art. 3.** W ustawie z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. Nr 26, poz. 306, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 85, poz. 924 i Nr 154, poz. 1799, z 2002 r. Nr 113, poz. 984 oraz z 2003 r. Nr 45, poz. 391 i Nr 60, poz. 535.) w art. 10:
 
 - **1)** po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
@@ -243,5 +242,5 @@ Sił Zbrojnych Rzeczypospolitej Polskiej, urzędu obsługującego ministra wła�
 - **2)** w art. 11 w ust. 2 w pkt 3 kropkę zastępuje się przecinkiem i dodaje się pkt 4 w brzmieniu: „
 - **4)** określone w art. 4d ustawy z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz. U. Nr 90, poz. 405 i Nr 156, poz. 775, z 1997 r. Nr 80, poz. 509 i Nr 121, poz. 770, z 2000 r. Nr 48, poz. 550 i Nr 95, poz. 1041, z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 240, poz. 2055 oraz z 2003 r. Nr 1, poz. 15 i Nr 180, poz. 1759). ” .
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 80, poz. 509 i Nr 121, poz. 770, z 2000 r. Nr 48, poz. 550 i Nr 95, poz. 1041, z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 240, poz. 2055 oraz z 2003 r. Nr 1, poz. 15. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1789 oraz z 2002 r. Nr 41, poz. 365, Nr 74, poz. 676 i Nr 89, poz. 804. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 129, poz. 1447 i Nr 154, poz. 1800, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 113, poz. 984, Nr 126, poz. 1070, Nr 130, poz. 1112, Nr 153, poz. 1271, Nr 200, poz. 1682 i Nr 240, poz. 2058 oraz z 2003 r. Nr 1, poz. 15, Nr 80, poz. 717, 720 i 721, Nr 96, poz. 874, Nr 124, poz. 1152 i Nr 162, poz. 1568. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 106, poz. 678, Nr 107, poz. 688, Nr 117, poz. 753, Nr 121, poz. 770 i Nr 141, poz. 944, z 1998 r. Nr 162, poz. 1117, z 1999 r. Nr 1, poz. 7, z 2001 r. Nr 85, poz. 925 i Nr 154, poz. 1800, z 2002 r. Nr 141, poz. 1184, Nr 200, poz. 1687 i Nr 240, poz. 2052 oraz z 2003 r. Nr 45, poz. 391. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 197, poz. 1661 oraz z 2003 r. Nr 2, poz. 16, Nr 130, poz. 1188 i Nr 165, poz. 1591. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874 i Nr 166, poz. 1611. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922 oraz z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 96, poz. 874 i Nr 137, poz. 1302. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 85, poz. 924 i Nr 154, poz. 1799, z 2002 r. Nr 113, poz. 984 oraz z 2003 r. Nr 45, poz. 391 i Nr 60, poz. 535.
 

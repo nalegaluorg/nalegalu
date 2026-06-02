@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 11 maja 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Pracy i Polityki Społecznej w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych oraz innych pracach związanych z wysiłkiem fizycznym
+# Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 11 maja 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Pracy i Polityki Społecznej w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych oraz innych pracach związanych z wysiłkiem fizycznym Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).
 
 | Pole | Wartość |
 |---|---|
@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001139) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1139/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 14 marca 2000 r. w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych oraz innych pracach związanych z wysiłkiem fizycznym Rozdział 1 – Przepisy ogólne Rozdział 2 – Przepisy ogólne dotyczące organizacji ręcznych prac transportowych Rozdział 3 – Ręczne przemieszczanie przedmiotów przez jednego pracownika Rozdział 4 – Zespołowe ręczne przemieszczanie przedmiotów Rozdział 5 – Przemieszczanie materiałów szkodliwych i niebezpiecznych Rozdział 6 – Przemieszczanie ładunków za pomocą poruszanych ręcznie wózków oraz taczek Rozdział 7 – Przemieszczanie ładunków przy użyciu ręcznie napędzanych dźwignic Rozdział 8 – Przepisy końcowe
+Załącznik – Tekst jednolity rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 14 marca 2000 r. w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych oraz innych pracach związanych z wysiłkiem fizycznym
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 14 marca 2000 r. w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych (Dz. U. poz. 313), z uwzględnieniem zmian wprowadzonych:
@@ -39,38 +39,31 @@ rozporządzeniem Ministra Rodziny, Pracy i Polityki Społecznej z dnia 25 kwietn
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 18 września 2000 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych (Dz. U. poz. 930), który stanowi:
-„
+§ 2 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 18 września 2000 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych (Dz. U. poz. 930), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. ” ;
 2)
-odnośnika nr 2 oraz § 2 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 18 marca 2009 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych (Dz. U. poz. 462), które stanowią: „ 2) Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Rady 90/269/EWG z dnia 29 maja 1990 r. w sprawie minimalnych wymagań dotyczących ochrony zdrowia i bezpieczeństwa podczas ręcznego przemieszczania ciężarów w przypadku możliwości wystąpienia zagrożenia, zwłaszcza urazów kręgosłupa pracowników (Dz. Urz. WE L 156 z 21.06.1990, str. 9; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 1, str. 386). ”
-„
+odnośnika nr 2 oraz § 2 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 18 marca 2009 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych (Dz. U. poz. 462), które stanowią: „ 2) Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Rady 90/269/EWG z dnia 29 maja 1990 r. w sprawie minimalnych wymagań dotyczących ochrony zdrowia i bezpieczeństwa podczas ręcznego przemieszczania ciężarów w przypadku możliwości wystąpienia zagrożenia, zwłaszcza urazów kręgosłupa pracowników (Dz. Urz. WE L 156 z 21.06.1990, str. 9; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 1, str. 386). ” „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 3)
-§ 2 i § 3 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 25 kwietnia 2017 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych (Dz. U. poz. 854), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 25 kwietnia 2017 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych (Dz. U. poz. 854), które stanowią: „
 § 2.
 Do dnia 31 stycznia 2018 r. masa ręcznie przetaczanych przedmiotów, o których mowa w § 16 pkt 1 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, nie może przekraczać 300 kg na jednego mężczyznę.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 maja 2017 r.
-” .
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).
-Załącznik – Tekst jednolity rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 14 marca 2000 r. w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych oraz innych pracach związanych z wysiłkiem fizycznym
-Na podstawie art. 23715§ 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, 1000 i 1076) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem 1 maja 2017 r. ” . 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).
+Załącznik – Tekst jednolity rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 14 marca 2000 r. w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych oraz innych pracach związanych z wysiłkiem fizycznymObecnie działem administracji rządowej – praca kieruje Minister Rodziny, Pracy i Polityki Społecznej, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
 obowiązki pracodawcy dotyczące zapewnienia bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych;
 2)
 wymagania dotyczące organizacji i sposobów wykonywania ręcznych prac transportowych, z uwzględnieniem wymagań ergonomii;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 dopuszczalne masy przemieszczanych przedmiotów, ładunków lub materiałów, dopuszczalne wartości sił niezbędne do ich przemieszczania oraz dopuszczalne wartości wydatku energetycznego na wykonanie pracy związanej z wysiłkiem fizycznym, w tym z podnoszeniem i przenoszeniem przedmiotów, przez pracowników, z wyłączeniem pracowników młodocianych oraz kobiet w ciąży i kobiet karmiących dziecko piersią;
 4)
-(uchylony).
+(uchylony).Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -108,6 +101,7 @@ zapewnić pracownikom informacje dotyczące przemieszczanego przedmiotu, w szcze
 informować pracowników o wszystkich aspektach bezpieczeństwa i higieny pracy oraz wymaganiach ergonomii, w tym o wynikach oceny ryzyka zawodowego, o której mowa w § 4, oraz o środkach bezpieczeństwa zapobiegających urazom, a zwłaszcza urazom kręgosłupa.
 2.
 W przypadku stwierdzenia, że sposób wykonywania pracy jest nieprawidłowy i stwarza zagrożenia – pracodawca jest obowiązany zapewnić wstrzymanie tych prac do czasu zastosowania odpowiednich działań eliminujących te zagrożenia, z uwzględnieniem działań, o których mowa w ust. 1.
+Przepisy ogólne dotyczące organizacji ręcznych prac transportowych
 § 6.
 1.
 Organizacja ręcznych prac transportowych, w tym stosowane metody pracy powinny zapewnić w szczególności:
@@ -121,11 +115,11 @@ ograniczenie do minimum odległości ręcznego przemieszczania przedmiotów;
 uwzględnienie wymagań ergonomii.
 2.
 Przy ręcznym przemieszczaniu przedmiotów – tam gdzie jest to możliwe – należy zapewnić sprzęt pomocniczy odpowiednio dobrany do ich wielkości, masy i rodzaju, zapewniający bezpieczne i dogodne wykonywanie pracy.
-3.
+3Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Wydatek energetyczny netto niezbędny do wykonywania pracy związanej z wysiłkiem fizycznym, w tym z podnoszeniem i przenoszeniem przedmiotów, w czasie zmiany roboczej nie może przekraczać dla kobiet 5000 kJ, a przy pracy dorywczej 20 kJ/min.
-4.
+4Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Wydatek energetyczny netto niezbędny do wykonywania pracy fizycznej związanej z podnoszeniem i przenoszeniem przedmiotów w czasie zmiany roboczej nie może przekraczać dla mężczyzn 8400 kJ, a przy pracy dorywczej 30 kJ/min.
-§ 7.
+§ 7W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 18 marca 2009 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych (Dz. U. poz. 462), które weszło w życie z dniem 22 kwietnia 2009 r..
 Organizując ręczne prace transportowe, należy brać pod uwagę konieczność unikania ręcznego przemieszczania przedmiotów, gdy:
 1)
 przedmiot jest zbyt ciężki, za duży, nieporęczny lub trudny do utrzymania według oceny osoby kierującej pracownikami;
@@ -136,7 +130,7 @@ przedmiot jest usytuowany tak, że wymaga trzymania lub operowania w odległośc
 4)
 kształt lub struktura przedmiotu może powodować urazy u pracownika, zwłaszcza w przypadku kolizji;
 5)
-(uchylony);
+(uchylony);Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.
 6)
 przemieszczanie przedmiotu może być wykonywane tylko poprzez skręt tułowia;
 7)
@@ -156,7 +150,7 @@ przedmiot ogranicza pole widzenia pracownika;
 14)
 temperatura, wilgotność i wentylacja są niedostosowane do wykonywanej pracy.
 § 8.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6..
 Przy pracach związanych z ręcznym przemieszczaniem przedmiotów należy zapewnić wystarczającą przestrzeń, zwłaszcza w płaszczyźnie pionowej, umożliwiającą zachowanie prawidłowej pozycji ciała pracownika podczas pracy.
 2.
 Niedopuszczalne jest ręczne przemieszczanie przedmiotów przez pomieszczenia, schody, korytarze albo drzwi zbyt wąskie w stosunku do rozmiarów tych przedmiotów, jeżeli stwarza to zagrożenia wypadkowe.
@@ -167,7 +161,7 @@ Powierzchnia, po której są przemieszczane ręcznie przedmioty, powinna być r�
 Przejścia, drogi transportowe oraz tory i torowiska, po których są przemieszczane przedmioty, powinny spełniać wymagania bezpieczeństwa i higieny pracy określone w odrębnych przepisach.
 § 10.
 Pracodawca, u którego wykonywane są prace związane z ręcznym przemieszczaniem przedmiotów nieporęcznych, niestabilnych, ze zmiennym środkiem ciężkości i innych, które z powodu ich masy, kształtu lub właściwości mogą spowodować zagrożenie wypadkowe, określa w wydanej zgodnie z art. 2374§ 2 Kodeksu pracy instrukcji szczegółowe zasady bezpiecznego postępowania przy przemieszczaniu takich przedmiotów. Instrukcja ta powinna określać w szczególności sposoby postępowania przy przemieszczaniu tych przedmiotów:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 6.)
 przedmiot nieporęczny lub trudny do uchwycenia i utrzymania powinien być przemieszczany przy użyciu odpowiedniego sprzętu pomocniczego, nieograniczającego pola widzenia, zapewniającego bezpieczeństwo podczas pracy;
 2)
 przedmioty, których środek ciężkości po ustawieniu w pozycji do podnoszenia i po podniesieniu znajdowałby się powyżej połowy wysokości przedmiotu, nie powinny być przenoszone ręcznie, chyba że do przeniesienia przedmiotu zastosowano uchwyty znajdujące się powyżej środka ciężkości;
@@ -189,6 +183,7 @@ Niedopuszczalne jest przenoszenie i przetaczanie przedmiotów po pochylniach, ni
 Maksymalne nachylenie pochylni związanych z budynkiem oraz na drogach transportowych i w magazynach określają odrębne przepisy.
 3.
 Niedopuszczalne jest przebywanie pracownika między legarami podczas przetaczania przedmiotów po pochyło ustawionych legarach.
+Ręczne przemieszczanie przedmiotów przez jednego pracownika
 § 13.
 1.
 Masa przedmiotów podnoszonych i przenoszonych przez jednego pracownika nie może przekraczać:
@@ -227,14 +222,16 @@ przy pchaniu – 300 N dla mężczyzn i 120 N dla kobiet;
 2)
 przy ciągnięciu – 250 N dla mężczyzn i 100 N dla kobiet.
 § 15.
-Wartości sił używanych przez pracownika do poruszania elementów urządzeń (w szczególności dźwigni, korb, kół, przycisków, pedałów) nie mogą przekraczać następujących wartości: Lp. Sposób obsługi Mężczyźni Kobiety praca stała praca dorywcza praca stała praca dorywcza 1 2 3 4 5 6 1 Obsługa oburęczna 120 N 250 N 50 N 100 N 2 Obsługa jednoręczna 50 N 120 N 20 N 50 N 3 Obsługa nożna 300 N 500 N 120 N 200 N
+Wartości sił używanych przez pracownika do poruszania elementów urządzeń (w szczególności dźwigni, korb, kół, przycisków, pedałów) nie mogą przekraczać następujących wartości:
+Lp. Sposób obsługi Mężczyźni Kobiety praca stała praca dorywcza praca stała praca dorywcza 1 2 3 4 5 6 1 Obsługa oburęczna 120 N 250 N 50 N 100 N 2 Obsługa jednoręczna 50 N 120 N 20 N 50 N 3 Obsługa nożna 300 N 500 N 120 N 200 N
 § 16.
 Dopuszczalne jest ręczne przetaczanie i wtaczanie przedmiotów o kształtach okrągłych (w szczególności beczek, rur o dużych średnicach), pod warunkiem zachowania wartości sił określonych w § 14, a ponadto przy spełnieniu następujących wymagań:
 1)
 masa ręcznie przetaczanych przedmiotów, po terenie poziomym o twardej i gładkiej nawierzchni, nie może przekraczać 200 kg na jednego mężczyznę i 80 kg na jedną kobietę;
 2)
 masa ręcznie wtaczanych przedmiotów na pochylnie nie może przekraczać 50 kg na jednego mężczyznę i 20 kg na jedną kobietę.
-§ 17.
+Zespołowe ręczne przemieszczanie przedmiotów
+§ 17W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Przenoszenie przedmiotów, których długość przekracza 4 m oraz masa przekracza 30 kg dla mężczyzn i 20 kg dla kobiet, powinno odbywać się zespołowo, pod warunkiem aby na jednego pracownika przypadała masa nieprzekraczająca:
 1)
@@ -266,13 +263,14 @@ wkładali i opuszczali przenoszony przedmiot jednocześnie i na komendę;
 znajdowali się po jednej stronie przenoszonego przedmiotu;
 3)
 używali środków ochrony indywidualnej chroniących ramiona.
+Przemieszczanie materiałów szkodliwych i niebezpiecznych
 § 19.
 1.
 Organizacja i metody prac związanych z ręcznym przemieszczaniem materiałów mogących stwarzać zagrożenia w związku z ich właściwościami (żrących, trujących, pylących) powinny eliminować lub ograniczać te zagrożenia.
 2.
 Wymagania dotyczące przemieszczania stopionego metalu, materiałów wybuchowych oraz butli z gazami sprężonymi określają odrębne przepisy.
 § 20.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2..
 Niedopuszczalne jest przenoszenie przez jednego pracownika materiałów ciekłych – gorących, żrących albo o właściwościach szkodliwych dla zdrowia, których masa wraz z naczyniem i uchwytem przekracza 25 kg dla mężczyzn i 10 kg dla kobiet.
 2.
 Balony szklane z kwasami lub innymi cieczami żrącymi powinny być przewożone na specjalnych wózkach.
@@ -280,26 +278,28 @@ Balony szklane z kwasami lub innymi cieczami żrącymi powinny być przewożone 
 W wyjątkowych przypadkach balony, o których mowa w ust. 2, mogą być przenoszone przez dwóch pracowników w odpowiednio wytrzymałych koszach z uchwytami.
 4.
 Niedopuszczalne jest przenoszenie balonów, o których mowa w ust. 2, na plecach lub przed sobą.
+Przemieszczanie ładunków za pomocą poruszanych ręcznie wózków oraz taczek
 § 21.
-1.
-Dopuszczalna masa ładunku przemieszczanego na wózku po terenie płaskim o twardej i gładkiej nawierzchni, łącznie z masą wózka, nie może przekraczać następujących wartości: Lp. Warunki przemieszczania ładunków Mężczyźni Kobiety wózki 2-kołowe wózki 3- i więcej kołowe wózki 2-kołowe wózki 3- i więcej kołowe 1 2 3 4 5 6 1 Przemieszczanie po terenie o nachyleniu nieprzekraczającym 5% 350 kg 450 kg 140 kg 180 kg 2 Przemieszczanie po terenie o nachyleniu większym niż 5% 250 kg 350 kg 100 kg 140 kg
-2.
+1W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2..
+Dopuszczalna masa ładunku przemieszczanego na wózku po terenie płaskim o twardej i gładkiej nawierzchni, łącznie z masą wózka, nie może przekraczać następujących wartości:
+Lp. Warunki przemieszczania ładunków Mężczyźni Kobiety wózki 2-kołowe wózki 3- i więcej kołowe wózki 2-kołowe wózki 3- i więcej kołowe 1 2 3 4 5 6 1 Przemieszczanie po terenie o nachyleniu nieprzekraczającym 5% 350 kg 450 kg 140 kg 180 kg 2 Przemieszczanie po terenie o nachyleniu większym niż 5% 250 kg 350 kg 100 kg 140 kg
+2W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku przemieszczania ładunku na wózkach po nawierzchni nierównej lub nieutwardzonej – dopuszczalna masa ładunku, łącznie z masą wózka, nie może przekraczać 60% wartości określonych w ust. 1.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2..
 Niedopuszczalne jest ręczne przemieszczanie ładunków na wózkach po terenie o nachyleniu większym niż 8% oraz na odległość większą niż 200 m.
 4.
 Wózki powinny zapewniać stabilność przy załadunku i rozładunku.
 5.
 Wózki przemieszczane na szynach oraz wózki kołowe przemieszczane na pochyleniach powinny posiadać sprawnie działające hamulce.
 § 22.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2..
 Masa ładunku przemieszczanego na wózku szynowym, łącznie z masą wózka, nie może przekraczać na jednego pracownika przy przemieszczaniu po terenie o nachyleniu:
 1)
 nieprzekraczającym 2% – 600 kg dla mężczyzn i 240 kg dla kobiet;
 2)
 większym niż 2% – 450 kg dla mężczyzn i 180 kg dla kobiet.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2.
 3.
 Niedopuszczalne jest przemieszczanie ładunków na wózkach szynowych na pochyleniach torów większych niż 4% oraz na odległość przekraczającą 400 m.
 4.
@@ -313,7 +313,7 @@ Wózki-wywrotki powinny posiadać sprawnie funkcjonujące urządzenia zabezpiecz
 Sposób ładowania oraz rozmieszczenia ładunków na wózkach i taczkach powinien zapewniać ich równowagę i stabilność podczas przemieszczania.
 2.
 Przedmioty przewożone na wózkach nie powinny wystawać poza obrys wózka i przysłaniać pola widzenia. W wyjątkowych przypadkach dopuszczalne jest przewożenie przedmiotów w warunkach niespełnienia tych wymagań, o ile praca odbywa się pod nadzorem zapewniającym bezpieczne jej wykonanie.
-§ 24.
+§ 24W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Masa ładunku przemieszczanego na wózku jednokołowym (taczce), łącznie z masą taczki, nie może przekraczać przy przemieszczaniu:
 1)
@@ -326,6 +326,7 @@ większym niż 5% – 75 kg dla mężczyzn i 30 kg dla kobiet;
 po terenie o nierównej lub nieutwardzonej nawierzchni – 60% wartości określonych w pkt 1.
 2.
 Niedopuszczalne jest ręczne przemieszczanie ładunków na taczce po terenie o nachyleniu większym niż 8% oraz na odległość większą niż 200 m.
+Przemieszczanie ładunków przy użyciu ręcznie napędzanych dźwignic
 § 25.
 Dźwignice powinny posiadać wyraźne oznakowanie określające ich dopuszczalny udźwig.
 § 26.
@@ -348,29 +349,51 @@ Długość liny lub łańcucha powinna być tak dobrana, aby przy rozwinięciu, 
 Sposób zamocowania ładunku na haku powinien zapobiegać jego upadkowi lub gwałtownej zmianie położenia.
 § 31.
 Podnoszenie lub opuszczanie ładunków w miejscu przebywania pracowników powinno być poprzedzone sygnałem ostrzegawczym. Przebywanie pracowników pod zawieszonym ładunkiem jest niedopuszczalne.
+Przepisy końcowe
 § 32.
 Przepisy rozporządzenia stosuje się odpowiednio do ręcznego przemieszczania ludzi lub zwierząt.
-§ 33.
+§ 33W brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 2..
 Przepisy rozporządzenia nie naruszają wymagań określonych w przepisach o dozorze technicznym, a także wymagań dotyczących ręcznego przemieszczania ciężarów przez młodocianych oraz kobiety w ciąży i kobiety karmiące dziecko piersią, określonych w przepisach w sprawie wykazu prac wzbronionych młodocianym i warunków ich zatrudniania przy niektórych z tych prac, wydanych na podstawie art. 204 § 1 i 3 Kodeksu pracy, oraz w przepisach w sprawie wykazu prac uciążliwych, niebezpiecznych lub szkodliwych dla zdrowia kobiet w ciąży i kobiet karmiących dziecko piersią, wydanych na podstawie art. 176 § 2 Kodeksu pracy.
 § 34.
 Traci moc rozporządzenie Ministrów Pracy i Opieki Społecznej oraz Zdrowia z dnia 1 kwietnia 1953 r. w sprawie bezpieczeństwa i higieny pracy pracowników zatrudnionych przy ręcznym dźwiganiu i przenoszeniu ciężarów (Dz. U. poz. 89).
-§ 35.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2002 r.
-1) Obecnie działem administracji rządowej – praca kieruje Minister Rodziny, Pracy i Polityki Społecznej, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Tytuł w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 25 kwietnia 2017 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych (Dz. U. poz. 854), które weszło w życie z dniem 1 maja 2017 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 18 marca 2009 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych (Dz. U. poz. 462), które weszło w życie z dniem 22 kwietnia 2009 r. 7) Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6. 9) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 6. 10) Rozdział w brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 11) Tytuł rozdziału w brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 12) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 14) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 15) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. 16) Przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. 17) W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2. 18) W brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 18 września 2000 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych (Dz. U. poz. 930), które weszło w życie z dniem 4 października 2000 r.
+§ 35W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 18 września 2000 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych (Dz. U. poz. 930), które weszło w życie z dniem 4 października 2000 r..
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2002 r. 1) Obecnie działem administracji rządowej – praca kieruje Minister Rodziny, Pracy i Polityki Społecznej, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Tytuł w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 25 kwietnia 2017 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych (Dz. U. poz. 854), które weszło w życie z dniem 1 maja 2017 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 18 marca 2009 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych (Dz. U. poz. 462), które weszło w życie z dniem 22 kwietnia 2009 r. 7) Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6. 9) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 6. 10) Rozdział w brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 11) Tytuł rozdziału w brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 12) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 14) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 15) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. 16) Przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. 17) W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2. 18) W brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 18 września 2000 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych (Dz. U. poz. 930), które weszło w życie z dniem 4 października 2000 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Przepisy ogólne dotyczące organizacji ręcznych prac transportowych
+#### Rozdział 2 – Przepisy ogólne dotyczące organizacji ręcznych prac transportowych
 
-#### Rozdział 3 Ręczne przemieszczanie przedmiotów przez jednego pracownika
+#### Rozdział 3 – Ręczne przemieszczanie przedmiotów przez jednego pracownika
 
-#### Rozdział 4 Zespołowe ręczne przemieszczanie przedmiotów
+#### Rozdział 4 – Zespołowe ręczne przemieszczanie przedmiotów
 
-#### Rozdział 5 Przemieszczanie materiałów szkodliwych i niebezpiecznych
+#### Rozdział 5 – Przemieszczanie materiałów szkodliwych i niebezpiecznych
 
-#### Rozdział 6 Przemieszczanie ładunków za pomocą poruszanych ręcznie wózków oraz taczek
+#### Rozdział 6 – Przemieszczanie ładunków za pomocą poruszanych ręcznie wózków oraz taczek
 
-#### Rozdział 7 Przemieszczanie ładunków przy użyciu ręcznie napędzanych dźwignic
+#### Rozdział 7 – Przemieszczanie ładunków przy użyciu ręcznie napędzanych dźwignic
 
-#### Rozdział 8 Przepisy końcowe
+#### Rozdział 8 – Przepisy końcowe
+
+## Tytuł w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 25 kwietnia 2017 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy ręcznych pracach transportowych (Dz. U. poz. 854), które weszło w życie z dniem 1 maja 2017 r. Na podstawie art. 23715§ 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, 1000 i 1076) zarządza się, co następuje:
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział w brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
+
+#### Rozdział 4
+
+## Tytuł rozdziału w brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2.
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

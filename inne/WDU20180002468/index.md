@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 20 grudnia 2018 r. w sprawie kredytów studenckich
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 20 grudnia 2018 r. w sprawie kredytów studenckich Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-20 |
 | Data wydania | 2018-12-29 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002468) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2468/text.pdf) |
 
@@ -76,8 +75,7 @@ zaświadczenie wydane przez:
 a)
 rektora – w przypadku studentów,
 b)
-rektora albo dyrektora instytutu badawczego, instytutu naukowego Polskiej Akademii Nauk, zwanego dalej „instytutem PAN”, międzynarodowego instytutu naukowego utworzonego na podstawie odrębnej ustawy działającego na terytorium Rzeczypospolitej Polskiej, zwanego dalej „instytutem międzynarodowym”, Centrum Medycznego Kształcenia Podyplomowego, zwanego dalej „CMKP”, prezydenta federacji podmiotów systemu szkolnictwa wyższego i nauki, zwanej dalej „federacją” – w przypadku doktorantów
-albo osobę przez niego upoważnioną, potwierdzające, że wnioskodawca jest odpowiednio studentem albo doktorantem;
+rektora albo dyrektora instytutu badawczego, instytutu naukowego Polskiej Akademii Nauk, zwanego dalej „instytutem PAN”, międzynarodowego instytutu naukowego utworzonego na podstawie odrębnej ustawy działającego na terytorium Rzeczypospolitej Polskiej, zwanego dalej „instytutem międzynarodowym”, Centrum Medycznego Kształcenia Podyplomowego, zwanego dalej „CMKP”, prezydenta federacji podmiotów systemu szkolnictwa wyższego i nauki, zwanej dalej „federacją” – w przypadku doktorantów – albo osobę przez niego upoważnioną, potwierdzające, że wnioskodawca jest odpowiednio studentem albo doktorantem;
 2)
 dokument potwierdzający udział w rekrutacji na studia albo do szkoły doktorskiej – w przypadku osób ubiegających się o przyjęcie odpowiednio na studia albo do szkoły doktorskiej;
 3)
@@ -197,8 +195,7 @@ w 50% – w przypadku gdy kredytobiorca ukończył studia albo kształcenie w sz
 2)
 w 35% – w przypadku gdy kredytobiorca ukończył studia albo kształcenie w szkole doktorskiej w grupie od 1,01% do 5%,
 3)
-w 20% – w przypadku gdy kredytobiorca ukończył studia albo kształcenie w szkole doktorskiej w grupie od 5,01% do 10%
-najlepszych absolwentów studiów pierwszego stopnia albo studiów drugiego stopnia, albo jednolitych studiów magisterskich, albo szkół doktorskich, w danym roku akademickim.
+w 20% – w przypadku gdy kredytobiorca ukończył studia albo kształcenie w szkole doktorskiej w grupie od 5,01% do 10% – najlepszych absolwentów studiów pierwszego stopnia albo studiów drugiego stopnia, albo jednolitych studiów magisterskich, albo szkół doktorskich, w danym roku akademickim.
 2.
 Przy obliczaniu liczby osób w grupach, o których mowa w ust. 1, liczbę niecałkowitą zaokrągla się w górę do liczby całkowitej.
 3.
@@ -216,8 +213,7 @@ studiów drugiego stopnia,
 3)
 jednolitych studiów magisterskich,
 4)
-kształcenia w szkole doktorskiej
-pozostałego do spłaty na dzień złożenia przez kredytobiorcę wniosku o umorzenie do instytucji kredytującej.
+kształcenia w szkole doktorskiej – pozostałego do spłaty na dzień złożenia przez kredytobiorcę wniosku o umorzenie do instytucji kredytującej.
 § 14.
 1.
 Kredytobiorca, nie wcześniej niż 60 dni przed rozpoczęciem spłaty kredytu studenckiego, może złożyć do ministra wniosek o umorzenie kredytu studenckiego, jeżeli po zawarciu umowy kredytu studenckiego:
@@ -239,8 +235,7 @@ Instytucja kredytująca może umorzyć kredyt studencki w całości w przypadku:
 1)
 śmierci kredytobiorcy – na podstawie aktu zgonu lub
 2)
-braku prawnych możliwości dochodzenia roszczeń od kredytobiorcy – po wyczerpaniu wszystkich możliwych środków prawnych dochodzenia roszczeń od kredytobiorcy
-w terminie 30 dni odpowiednio od dnia otrzymania aktu zgonu lub stwierdzenia wyczerpania środków prawnych dochodzenia roszczeń.
+braku prawnych możliwości dochodzenia roszczeń od kredytobiorcy – po wyczerpaniu wszystkich możliwych środków prawnych dochodzenia roszczeń od kredytobiorcy – w terminie 30 dni odpowiednio od dnia otrzymania aktu zgonu lub stwierdzenia wyczerpania środków prawnych dochodzenia roszczeń.
 2.
 Umorzeniu, o którym mowa w ust. 1, podlega kredyt studencki pozostały do spłaty na dzień jego umorzenia.
 § 16.
@@ -295,6 +290,5 @@ Wsprawach o udzielenie kredytu studenckiego wszczętych w okresie od dnia 1 styc
 § 18.
 Przy udzielaniu kredytów studenckich w okresie od dnia 1 stycznia 2019 r. do dnia 30 września 2019 r. uwzględnia się wysokość miesięcznego dochodu na osobę w rodzinie osoby ubiegającej się o kredyt studencki uprawniającą do otrzymania kredytu studenckiego w roku akademickim 2018/2019, ogłoszoną przez ministra właściwego do spraw szkolnictwa wyższego na podstawie przepisów wydanych na podstawie art. 15 ust. 1 ustawy z dnia 17 lipca 1998 r. o pożyczkach i kredytach studenckich (Dz. U. z 2017 r. poz. 357).
 § 19.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 25 września 2017 r. w sprawie szczegółowych zasad, trybu i kryteriów udzielania, spłacania oraz umarzania pożyczek i kredytów studenckich (Dz. U. poz. 1905), które traci moc z dniem 31 grudnia 2018 r. na podstawie art. 169 pkt 1 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 25 września 2017 r. w sprawie szczegółowych zasad, trybu i kryteriów udzielania, spłacania oraz umarzania pożyczek i kredytów studenckich (Dz. U. poz. 1905), które traci moc z dniem 31 grudnia 2018 r. na podstawie art. 169 pkt 1 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669). 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 25 września 2017 r. w sprawie szczegółowych zasad, trybu i kryteriów udzielania, spłacania oraz umarzania pożyczek i kredytów studenckich (Dz. U. poz. 1905), które traci moc z dniem 31 grudnia 2018 r. na podstawie art. 169 pkt 1 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669).
 

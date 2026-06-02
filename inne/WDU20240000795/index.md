@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 22 maja 2024 r. zmieniające rozporządzenie w sprawie szpitalnego oddziału ratunkowego
+# Rozporządzenie Ministra Zdrowiaz dnia 22 maja 2024 r. zmieniające rozporządzenie w sprawie szpitalnego oddziału ratunkowego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-22 |
 | Data wydania | 2024-05-28 |
-| Wejście w życie | 2024-06-12 |
 | Ostatnia zmiana | 2025-11-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000795) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/795/text.pdf) |
 
@@ -31,14 +30,11 @@ Na podstawie art. 34 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwi
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 27 czerwca 2019 r. w sprawie szpitalnego oddziału ratunkowego (Dz. U. z 2024 r. poz. 336) wprowadza się następujące zmiany:
 1)
-w § 2 w ust. 1 w pkt 1 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu:
-„
+w § 2 w ust. 1 w pkt 1 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „
 f)
-podmioty (grupy, sekcje, zespoły) jednostek budżetowych oraz jednostek wojskowych realizujących czynności ratunkowe, ewakuację medyczną oraz transport sanitarny, o których mowa w art. 40 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991, 1675 i 1972);
-” ;
+podmioty (grupy, sekcje, zespoły) jednostek budżetowych oraz jednostek wojskowych realizujących czynności ratunkowe, ewakuację medyczną oraz transport sanitarny, o których mowa w art. 40 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991, 1675 i 1972); ” ;
 2)
 użyte w § 15 w pkt 4a oraz w § 16 w pkt 1 wyrazy „30 czerwca 2024 r.” zastępuje się wyrazami „31 grudnia 2024 r.”.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

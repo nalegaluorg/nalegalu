@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 23 marca 2021 r. w sprawie szczegółowych warunków udzielania pomocy publicznej na badania przemysłowe i eksperymentalne prace rozwojowe, służące ochronie środowiska
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 23 marca 2021 r. w sprawie szczegółowych warunków udzielania pomocy publicznej na badania przemysłowe i eksperymentalne prace rozwojowe, służące ochronie środowiska Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-03-23 |
 | Data wydania | 2021-03-31 |
-| Wejście w życie | 2021-04-01 |
 | Ostatnia zmiana | 2024-05-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000597) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/597/text.pdf) |
 
@@ -32,7 +31,7 @@ Na podstawie art. 400a ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochron
 1.
 Rozporządzenie określa szczegółowe warunki udzielania pomocy publicznej na badania przemysłowe i eksperymentalne prace rozwojowe, służące ochronie środowiska, zwanej dalej „pomocą”, ze środków pozostających w dyspozycji Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz wojewódzkich funduszy ochrony środowiska i gospodarki wodnej.
 2.
-Pomoc jest udzielana zgodnie z przepisami rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”.
+Pomoc jest udzielana zgodnie z przepisami rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53 oraz Dz. Urz. UE L 215 z 07.07.2020, str. 3., zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”.
 § 2.
 1.
 Pomoc nie może zostać udzielona w przypadkach, o których mowa w art. 1 ust. 3, ust. 4 lit. c i ust. 5 rozporządzenia Komisji (UE) nr 651/2014.
@@ -121,6 +120,5 @@ Kwoty wskazane w ust. 2 wyrażone w euro przelicza się na złote według średn
 § 9.
 Pomoc jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze i ust. 5 w związku z art. 59 zdanie drugie rozporządzenia Komisji (UE) nr 651/2014.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53 oraz Dz. Urz. UE L 215 z 07.07.2020, str. 3.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53 oraz Dz. Urz. UE L 215 z 07.07.2020, str. 3.
 

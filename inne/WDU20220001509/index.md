@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-05 |
 | Data wydania | 2022-07-19 |
-| Wejście w życie | 2022-07-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001509) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1509/text.pdf) |
 
@@ -31,17 +30,13 @@ Na podstawie art. 6 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 11 lipca 2019 r. w sprawie wykazu dokumentów publicznych (Dz. U. poz. 1289 oraz z 2022 r. poz. 46 i 1286) w § 3:
 1)
-pkt 21 otrzymuje brzmienie:
-„
+pkt 21 otrzymuje brzmienie: „
 21)
-legitymacja służbowa strażaka, o której mowa w art. 37 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2021 r. poz. 1940 i 2490 oraz z 2022 r. poz. 1115);
-” ;
+legitymacja służbowa strażaka, o której mowa w art. 37 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2021 r. poz. 1940 i 2490 oraz z 2022 r. poz. 1115); ” ;
 2)
-w pkt 35 kropkę zastępuje się średnikiem i dodaje się pkt 36 w brzmieniu:
-„
+w pkt 35 kropkę zastępuje się średnikiem i dodaje się pkt 36 w brzmieniu: „
 36)
-legitymacja strażaka ratownika ochotniczej straży pożarnej oraz osoby posiadającej uprawnienie do świadczenia ratowniczego, o której mowa w art. 29 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. poz. 2490 oraz z 2022 r. poz. 1301).
-” .
+legitymacja strażaka ratownika ochotniczej straży pożarnej oraz osoby posiadającej uprawnienie do świadczenia ratowniczego, o której mowa w art. 29 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. poz. 2490 oraz z 2022 r. poz. 1301). ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

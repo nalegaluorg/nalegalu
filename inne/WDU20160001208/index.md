@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-08-01 |
 | Data wydania | 2016-08-10 |
-| Wejście w życie | 2016-08-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001208) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1208/text.pdf) |
 
@@ -31,5 +30,5 @@ Na podstawie art. 34 ust. 2 ustawy z dnia 11 kwietnia 2001 r. o rzecznikach pate
 § 1.
 Wysokość opłaty za przeprowadzenie egzaminu kwalifikacyjnego jest równa 30% kwoty przeciętnego wynagrodzenia w gospodarce narodowej w roku poprzedzającym rok przeprowadzenia egzaminu, ogłaszanej przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2016 r. poz. 887).
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 13 września 2011 r. w sprawie wysokości opłaty za przeprowadzenie egzaminu kwalifikacyjnego (Dz. U. poz. 1156), które utraciło moc z dniem 30 listopada 2015 r. w związku z wejściem w życie ustawy z dnia 5 sierpnia 2015 r. o zmianie ustaw regulujących warunki dostępu do wykonywania niektórych zawodów (Dz. U. poz. 1505). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 13 września 2011 r. w sprawie wysokości opłaty za przeprowadzenie egzaminu kwalifikacyjnego (Dz. U. poz. 1156), które utraciło moc z dniem 30 listopada 2015 r. w związku z wejściem w życie ustawy z dnia 5 sierpnia 2015 r. o zmianie ustaw regulujących warunki dostępu do wykonywania niektórych zawodów (Dz. U. poz. 1505).
 

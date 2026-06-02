@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 16 grudnia 2014 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na rozwój ośrodków innowacyjności w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013
+# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 16 grudnia 2014 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na rozwój ośrodków innowacyjności w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 Tekst Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 został zaakceptowany decyzją Komisji Europejskiej nr K(2007) 4568 z dnia 1 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Rozwój Polski Wschodniej w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce oraz przyjęty uchwałą Rady Ministrów z dnia 30 stycznia 2007 r. w sprawie przyjęcia Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013. Narodowe Strategiczne Ramy Odniesienia 2007–2013. Zmiany w Programie Operacyjnym Rozwój Polski Wschodniej 2007–2013 zostały zaakceptowane: decyzją Komisji Europejskiej nr K (2009) 5712 z dnia 17 lipca 2009 r. zmieniającą decyzję Komisji K (2007) 4568 w sprawie przyjęcia programu operacyjnego „Rozwój Polski Wschodniej” w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce i przyjęte uchwałą Rady Ministrów z dnia 3 czerwca 2009 r. w sprawie przyjęcia zmiany Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013, decyzją Komisji Europejskiej nr K (2011) 9789 z dnia 23 grudnia 2011 r. zmieniającą decyzję K (2007) 4568 w sprawie przyjęcia programu operacyjnego Rozwój Polski Wschodniej w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji w Polsce i przyjęte uchwałą Rady Ministrów z dnia 6 czerwca 2011 r. w sprawie przyjęcia projektu zmiany Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 i sprostowaniem nr C (2012) 4173 do decyzji Komisji K (2011) 9789 wersja ostateczna zmieniającej decyzję K (2007) 4568 w sprawie przyjęcia programu operacyjnego Rozwój Polski Wschodniej w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji w Polsce oraz decyzją Komisji Europejskiej nr C (2014) 1663 z dnia 11 marca 2014 r. zmieniającą decyzję K (2007) 4568 w sprawie przyjęcia Programu Operacyjnego „Rozwój Polski Wschodniej” w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce i przyjęte uchwałą Rady Ministrów z dnia 2 września 2013 r. w sprawie przyjęcia projektu zmiany Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-16 |
 | Data wydania | 2014-12-31 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2025-05-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001990) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1990/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowe przeznaczenie i warunki udzielania wsparcia na rozwój ośrodków innowacyjności Rozdział 3 – Tryb udzielania wsparcia na rozwój ośrodków innowacyjności Rozdział 4 – Przepisy końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 6b ust. 10 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2014 r. poz. 1804) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości, zwaną dalej „Agencją”, pomocy finansowej na rozwój ośrodków innowacyjności w ramach działania I.3 Wspieranie innowacji Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013, zwanego dalej „Programem”.
@@ -66,14 +66,14 @@ umowie o udzielenie wsparcia – należy przez to rozumieć umowę o dofinansowa
 wniosku o potwierdzenie udzielenia pomocy – należy przez to rozumieć wniosek określony w formularzu stanowiącym załącznik XXI do rozporządzenia Komisji (WE) nr 1828/2006 z dnia 8 grudnia 2006 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1083/2006 ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności oraz rozporządzenia (WE) nr 1080/2006 Parlamentu Europejskiego i Rady w sprawie Europejskiego Funduszu Rozwoju Regionalnego (Dz. Urz. UE L 371 z 27.12.2006, str. 1, z późn. zm.);
 10)
 wniosku o udzielenie wsparcia – należy przez to rozumieć wniosek beneficjenta o przyznanie środków na realizację projektu w ramach działania I.3 Wspieranie innowacji Programu.
+Szczegółowe przeznaczenie i warunki udzielania wsparcia na rozwój ośrodków innowacyjności
 § 3.
 1.
 Agencja może udzielić podmiotom, o których mowa w § 1 ust. 2, wsparcia z przeznaczeniem na realizację projektów polegających na:
 1)
 budowie, rozbudowie, modernizacji i uruchamianiu parków przemysłowych, parków technologicznych oraz inkubatorów przedsiębiorczości i inkubatorów technologicznych,
 2)
-budowie, rozbudowie i uruchamianiu centrów doskonałości i centrów transferu technologii
-zwanego dalej „wsparciem na rozwój ośrodków innowacyjności”.
+budowie, rozbudowie i uruchamianiu centrów doskonałości i centrów transferu technologii – zwanego dalej „wsparciem na rozwój ośrodków innowacyjności”.
 2.
 Wsparcie na rozwój ośrodków innowacyjności może być udzielane na realizację projektów, które są realizowane na terenie Polski Wschodniej.
 § 4.
@@ -270,6 +270,7 @@ Pomoc de minimis w zakresie działalności, o której mowa w § 4 ust. 1 pkt 2 l
 Pomoc de minimis w zakresie usług, o których mowa w § 4 ust. 1 pkt 2 lit. f, może być udzielana przedsiębiorcy przez okres nie dłuższy niż 5 lat, licząc od dnia udzielenia temu przedsiębiorcy przez beneficjenta po raz pierwszy tej pomocy.
 3.
 Pomoc de minimis w zakresie usług, o których mowa w § 4 ust. 1 pkt 2 lit. a, e oraz f, może być udzielona pod warunkiem, że łącznie z inną pomocą de minimis , otrzymaną w danym roku podatkowym oraz w ciągu dwóch poprzedzających lat podatkowych z różnych źródeł i w różnych formach, nie przekroczy kwoty 200 000 euro dla jednego przedsiębiorcy, a w przypadku jednego przedsiębiorcy prowadzącego działalność w sektorze transportu drogowego towarów – 100 000 euro. Do ustalenia dopuszczalnego pułapu tej pomocy stosuje się § 8 ust. 5.
+Tryb udzielania wsparcia na rozwój ośrodków innowacyjności
 § 11.
 1.
 Agencja udziela wsparcia:
@@ -328,6 +329,7 @@ Agencja pisemnie informuje o wynikach postępowania beneficjenta, o którym mowa
 W przypadku podjęcia przez Komisję Europejską decyzji o zatwierdzeniu do realizacji dużego projektu Agencja zawiera z beneficjentem umowę o udzielenie wsparcia.
 § 13.
 Do postępowania w sprawie udzielenia wsparcia stosuje się art. 29 ust. 4, art. 30–30i oraz art. 37 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
+Przepisy końcowe
 § 14.
 1.
 Wsparcie na zasadach określonych w rozporządzeniu będzie udzielane przez Agencję do dnia 31 grudnia 2015 r.
@@ -336,13 +338,21 @@ Pomoc publiczna oraz pomoc de minimis będzie udzielana przedsiębiorcom przez b
 § 15.
 Traci moc rozporządzenie Ministra Rozwoju Regionalnego z dnia 27 kwietnia 2009 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na rozwój ośrodków innowacyjności w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 (Dz. U. Nr 70, poz. 604, z 2013 r. poz. 1633 oraz z 2014 r. poz. 830).
 § 16.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. 2) Tekst Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 został zaakceptowany decyzją Komisji Europejskiej nr K(2007) 4568 z dnia 1 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Rozwój Polski Wschodniej w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce oraz przyjęty uchwałą Rady Ministrów z dnia 30 stycznia 2007 r. w sprawie przyjęcia Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013. Narodowe Strategiczne Ramy Odniesienia 2007–2013. Zmiany w Programie Operacyjnym Rozwój Polski Wschodniej 2007–2013 zostały zaakceptowane: decyzją Komisji Europejskiej nr K (2009) 5712 z dnia 17 lipca 2009 r. zmieniającą decyzję Komisji K (2007) 4568 w sprawie przyjęcia programu operacyjnego „Rozwój Polski Wschodniej” w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce i przyjęte uchwałą Rady Ministrów z dnia 3 czerwca 2009 r. w sprawie przyjęcia zmiany Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013, decyzją Komisji Europejskiej nr K (2011) 9789 z dnia 23 grudnia 2011 r. zmieniającą decyzję K (2007) 4568 w sprawie przyjęcia programu operacyjnego Rozwój Polski Wschodniej w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji w Polsce i przyjęte uchwałą Rady Ministrów z dnia 6 czerwca 2011 r. w sprawie przyjęcia projektu zmiany Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 i sprostowaniem nr C (2012) 4173 do decyzji Komisji K (2011) 9789 wersja ostateczna zmieniającej decyzję K (2007) 4568 w sprawie przyjęcia programu operacyjnego Rozwój Polski Wschodniej w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji w Polsce oraz decyzją Komisji Europejskiej nr C (2014) 1663 z dnia 11 marca 2014 r. zmieniającą decyzję K (2007) 4568 w sprawie przyjęcia Programu Operacyjnego „Rozwój Polski Wschodniej” w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce i przyjęte uchwałą Rady Ministrów z dnia 2 września 2013 r. w sprawie przyjęcia projektu zmiany Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowe przeznaczenie i warunki udzielania wsparcia na rozwój ośrodków innowacyjności
+#### Rozdział 2 – Szczegółowe przeznaczenie i warunki udzielania wsparcia na rozwój ośrodków innowacyjności
 
-#### Rozdział 3 Tryb udzielania wsparcia na rozwój ośrodków innowacyjności
+#### Rozdział 3 – Tryb udzielania wsparcia na rozwój ośrodków innowacyjności
 
-#### Rozdział 4 Przepisy końcowe
+#### Rozdział 4 – Przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-21 |
 | Data wydania | 2015-08-07 |
-| Wejście w życie | 2015-08-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001120) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1120/text.pdf) |
 
@@ -38,8 +37,7 @@ Szczegółowy opis granic i obszar składu wolnocłowego określa załącznik do
 § 2.
 Zarządzającym składem wolnocłowym na terenie Portu Lotniczego „Radom” ustanawia się Gminę Miasta Radomia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1256).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1256).
 Załącznik – Szczegółowy opis granic i obszar składu wolnocłowego na terenie Portu Lotniczego „Radom”
 Skład wolnocłowy jest zlokalizowany na parterze Terminalu Pasażerskiego Portu Lotniczego „Radom” w strefie odlotów, dostępnej dla pasażerów po kontroli paszportowej oraz kontroli bezpieczeństwa. Z uwagi na usytuowanie składu wolnocłowego wewnątrz budynku odgraniczenie składu wolnocłowego stanowią trwałe elementy budowlane budynku. Opis przebiegu granic składu wolnocłowego jest przedstawiony na mapie w skali 1:500. Dokument zawierający opis przebiegu granic składu wolnocłowego wraz z mapą jest przechowywany u zarządzającego składem wolnocłowym oraz – w postaci kopii – we właściwej miejscowo izbie celnej nadzorującej skład wolnocłowy oraz w Ministerstwie Finansów. Granicę składu wolnocłowego stanowią następujące odcinki ścian:
 1)
@@ -75,6 +73,5 @@ trzy odcinki ściany o długości: 2,82 m, 2,4 m i 2,82 m wzdłuż pomieszczenia
 16)
 ściana o długości 8,54 m wzdłuż pomieszczeń: 0.62, 0.63 i 0.64;
 17)
-ściana o długości 36,7 m z dziewięcioma otworami drzwiowymi wzdłuż pomieszczeń: 0.64, 0.65, 0.75, 0.78 i 0.77, oddzielająca skład wolnocłowy od płyty postojowej dla samolotów.
-Obszar składu wolnocłowego wynosi 872 m2.
+ściana o długości 36,7 m z dziewięcioma otworami drzwiowymi wzdłuż pomieszczeń: 0.64, 0.65, 0.75, 0.78 i 0.77, oddzielająca skład wolnocłowy od płyty postojowej dla samolotów. Obszar składu wolnocłowego wynosi 872 m2.
 

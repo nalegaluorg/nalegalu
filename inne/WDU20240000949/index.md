@@ -26,15 +26,16 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000949) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/949/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 6 maja 2005 r. o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej Rozdział 1 – Przepis ogólny Rozdział 2 – Komisja Wspólna Rządu i Samorządu Terytorialnego Rozdział 3 – Zasady i tryb wyznaczania kandydatów na przedstawicieli Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej Rozdział 4 – Przepisy zmieniające, przejściowe i dostosowujące
+Załącznik – Tekst jednolity ustawy z dnia 6 maja 2005 r. o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 maja 2005 r. o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej (Dz. U. Nr 90, poz. 759), z uwzględnieniem zmian wprowadzonych ustawą z dnia 13 lipca 2023 r. o zmianie ustawy o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej (Dz. U. poz. 1821) oraz zmian wynikających z przepisów ogłoszonych przed dniem 21 czerwca 2024 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 21 ustawy z dnia 6 maja 2005 r. o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej (Dz. U. Nr 90, poz. 759), który stanowi:
-„
+art. 21 ustawy z dnia 6 maja 2005 r. o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej (Dz. U. Nr 90, poz. 759), który stanowi: „
+Przepis ogólny
+Komisja Wspólna Rządu i Samorządu Terytorialnego
 1.
 Komisja Wspólna Rządu i Samorządu Terytorialnego, zwana dalej „Komisją Wspólną”, stanowi forum wypracowywania wspólnego stanowiska Rządu i samorządu terytorialnego.
 2.
@@ -62,9 +63,19 @@ W skład Komisji Wspólnej wchodzą przedstawiciele strony rządowej i strony sa
 Stronę rządową w Komisji Wspólnej stanowią:
 1)
 minister właściwy do spraw administracji publicznej;
-2)
+2Ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej (Dz. U. poz. 1821), która weszła w życie z dniem 22 września 2023 r.)
 15 przedstawicieli powoływanych i odwoływanych przez Prezesa Rady Ministrów na wniosek ministra właściwego do spraw administracji publicznej.
-(pominięty)
+Zasady i tryb wyznaczania kandydatów na przedstawicieli Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej
+Przepisy zmieniające, przejściowe i dostosowujące
+(pominięty)Zamieszczony w obwieszczeniu.
+
+#### Rozdział 1 – Przepis ogólny
+
+#### Rozdział 2 – Komisja Wspólna Rządu i Samorządu Terytorialnego
+
+#### Rozdział 3 – Zasady i tryb wyznaczania kandydatów na przedstawicieli Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej
+
+#### Rozdział 4 – Przepisy zmieniające, przejściowe i dostosowujące
 
 **Art. 21.** W ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. Nr 116, poz. 1206) w art. 23 w ust. 4 pkt 5 otrzymuje brzmienie: „
 
@@ -96,11 +107,11 @@ minister właściwy do spraw administracji publicznej;
 
 **Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 6 maja 2005 r. o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej
 
-#### Rozdział 1 Przepis ogólny
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa zasady funkcjonowania i tryb wyłaniania Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz zasady i tryb wyznaczania kandydatów na przedstawicieli Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej.
 
-#### Rozdział 2 Komisja Wspólna Rządu i Samorządu Terytorialnego
+#### Rozdział 2
 
 **Art. 5.**
 
@@ -113,27 +124,18 @@ minister właściwy do spraw administracji publicznej;
     - **d)**
 
 - **2)** 2 osoby wyznaczone przez ogólnopolską organizację reprezentującą jednostki samorządu powiatowego;
-- **3)** 2 osoby wyznaczone przez ogólnopolską organizację reprezentującą jednostki samorządu województw;
-- **4)** 2 osoby wyznaczone przez ogólnopolską organizację reprezentującą wszystkie kategorie jednostek samorządu terytorialnego, zrzeszającą co najmniej 100 członków;
-- **5)** 2 osoby wyznaczone przez ogólnopolską organizację reprezentującą regionalne organizacje samorządowe.
+- **3)** 2 osoby wyznaczone przez ogólnopolską organizację reprezentującą jednostki samorządu województw; 4Dodany przez art. 1 pkt 2 lit. a ustawy, o której mowa w odnośniku 1.) 2 osoby wyznaczone przez ogólnopolską organizację reprezentującą wszystkie kategorie jednostek samorządu terytorialnego, zrzeszającą co najmniej 100 członków; 5Dodany przez art. 1 pkt 2 lit. a ustawy, o której mowa w odnośniku 1.) 2 osoby wyznaczone przez ogólnopolską organizację reprezentującą regionalne organizacje samorządowe.
 
-2. Ogólnopolskie organizacje jednostek samorządu terytorialnego, o których mowa w ust. 1, powinny spełniać następujące kryteria:
+2. Ogólnopolskie organizacje jednostek samorządu terytorialnego, o których mowa w ust. 1, powinny spełniać następujące kryteria: 1W brzmieniu ustalonym przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 1.) reprezentować jednostki funkcjonujące na danym stopniu podziału terytorialnego państwa, a w przypadku jednostek samorządu gminnego – jedną z kategorii tych jednostek, spośród wymienionych w ust. 1 pkt 1 lub reprezentować regionalne organizacje samorządowe;
 
-- **1)** reprezentować jednostki funkcjonujące na danym stopniu podziału terytorialnego państwa, a w przypadku jednostek samorządu gminnego – jedną z kategorii tych jednostek, spośród wymienionych w ust. 1 pkt 1 lub reprezentować regionalne organizacje samorządowe;
 - **2)** działać przez okres nie krótszy niż kadencja wybieranych w głosowaniu powszechnym organów stanowiących jednostek samorządu terytorialnego na danym stopniu podziału;
-- **3)** reprezentować jednostki samorządu terytorialnego, których członkostwo w danej organizacji wynika bezpośrednio z rozstrzygnięcia organu jednostki samorządu terytorialnego.
-
-3. Wyznaczenie przedstawicieli, o których mowa w ust. 1, następuje w trybie i na zasadach określonych w aktach statutowych lub porozumieniach właściwych organizacji jednostek samorządu terytorialnego. O wyznaczeniu przedstawicieli organ statutowy lub przedstawiciel porozumienia właściwej organizacji jednostek samorządu terytorialnego zawiadamia niezwłocznie ministra właściwego do spraw administracji publicznej.
+- **3)** reprezentować jednostki samorządu terytorialnego, których członkostwo w danej organizacji wynika bezpośrednio z rozstrzygnięcia organu jednostki samorządu terytorialnego. 3W brzmieniu ustalonym przez art. 1 pkt 2 lit. c ustawy, o której mowa w odnośniku 1.. Wyznaczenie przedstawicieli, o których mowa w ust. 1, następuje w trybie i na zasadach określonych w aktach statutowych lub porozumieniach właściwych organizacji jednostek samorządu terytorialnego. O wyznaczeniu przedstawicieli organ statutowy lub przedstawiciel porozumienia właściwej organizacji jednostek samorządu terytorialnego zawiadamia niezwłocznie ministra właściwego do spraw administracji publicznej.
 
 **Art. 6.**
 
 1. Ogólnopolskie organizacje jednostek samorządu terytorialnego składają na bieżąco Radzie Ministrów, za pośrednictwem ministra właściwego do spraw administracji publicznej, wnioski o uznanie za organizacje uprawnione do wyznaczania przedstawicieli do Komisji Wspólnej. Do wniosku należy dołączyć dokumenty potwierdzające spełnianie kryteriów, o których mowa w art. 5 ust. 1 i 2.
 
-2. Rada Ministrów rozpatruje wnioski, o których mowa w ust. 1, w terminie 6 miesięcy od dnia rozpoczęcia kadencji nowo wybranych organów stanowiących jednostek samorządu terytorialnego.
-
-3. Jeżeli dwie lub więcej ogólnopolskich organizacji jednostek samorządu terytorialnego reprezentujących te same kategorie jednostek samorządu terytorialnego, o których mowa w art. 5 ust. 1, lub reprezentujących regionalne organizacje samorządowe spełnia kryteria wymienione w art. 5 ust. 2, uprawnioną do wyznaczenia przedstawicieli do Komisji Wspólnej jest ta organizacja, która ma największą liczbę członków.
-
-4. Rada Ministrów określa, w drodze rozporządzenia, organizacje, które są uprawnione do wyznaczania przedstawicieli do Komisji Wspólnej, kierując się kryteriami, o których mowa w art. 5 ust. 1 i 2, po rozpatrzeniu wniosków ogólnopolskich organizacji jednostek samorządu terytorialnego reprezentujących te same kategorie jednostek samorządu terytorialnego, o których mowa w art. 5 ust. 1, lub regionalne organizacje samorządowe.
+2. Rada Ministrów rozpatruje wnioski, o których mowa w ust. 1, w terminie 6 miesięcy od dnia rozpoczęcia kadencji nowo wybranych organów stanowiących jednostek samorządu terytorialnego. 3W brzmieniu ustalonym przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 1.. Jeżeli dwie lub więcej ogólnopolskich organizacji jednostek samorządu terytorialnego reprezentujących te same kategorie jednostek samorządu terytorialnego, o których mowa w art. 5 ust. 1, lub reprezentujących regionalne organizacje samorządowe spełnia kryteria wymienione w art. 5 ust. 2, uprawnioną do wyznaczenia przedstawicieli do Komisji Wspólnej jest ta organizacja, która ma największą liczbę członków. 4W brzmieniu ustalonym przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 1.. Rada Ministrów określa, w drodze rozporządzenia, organizacje, które są uprawnione do wyznaczania przedstawicieli do Komisji Wspólnej, kierując się kryteriami, o których mowa w art. 5 ust. 1 i 2, po rozpatrzeniu wniosków ogólnopolskich organizacji jednostek samorządu terytorialnego reprezentujących te same kategorie jednostek samorządu terytorialnego, o których mowa w art. 5 ust. 1, lub regionalne organizacje samorządowe.
 
 **Art. 7.**
 
@@ -226,7 +228,7 @@ minister właściwy do spraw administracji publicznej;
 
 2. Koszty finansowania obsługi, o której mowa w ust. 1, są pokrywane ze środków budżetu państwa, z części, której dysponentem jest minister właściwy do spraw administracji publicznej.
 
-#### Rozdział 3 Zasady i tryb wyznaczania kandydatów na przedstawicieli Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej
+#### Rozdział 3
 
 **Art. 19.**
 
@@ -239,22 +241,18 @@ minister właściwy do spraw administracji publicznej;
 
 **Art. 20.**
 
-1. Rada Ministrów na liście, o której mowa w art. 19 ust. 1, umieszcza kandydatów na członków i kandydatów na zastępców członków, wyznaczonych przez:
+1. Rada Ministrów na liście, o której mowa w art. 19 ust. 1, umieszcza kandydatów na członków i kandydatów na zastępców członków, wyznaczonych przez: 1Ze zmianami wprowadzonymi przez art. 1 pkt 4 lit. a ustawy, o której mowa w odnośniku 1.) ogólnopolską organizację reprezentującą jednostki samorządu województw – w liczbie 8 kandydatów na członków i 8 kandydatów na zastępców członków,
 
-- **1)** ogólnopolską organizację reprezentującą jednostki samorządu województw – w liczbie 8 kandydatów na członków i 8 kandydatów na zastępców członków,
 - **2)** ogólnopolską organizację reprezentującą jednostki samorządu powiatowego – w liczbie 3 kandydatów na członków i 3 kandydatów na zastępców członków,
-- **3)** ogólnopolskie organizacje reprezentujące następujące kategorie jednostek samorządu gminnego: gminy liczące powyżej 300 tysięcy mieszkańców – w liczbie 2 kandydatów na członków i 2 kandydatów na zastępców członków, gminy posiadające status miasta – w liczbie 3 kandydatów na członków i 3 kandydatów na zastępców członków, gminy, których siedziby władz znajdują się w miastach położonych na terytorium tych gmin – w liczbie 1 kandydata na członka i 1 kandydata na zastępcę członka, gminy nieposiadające statusu miasta i niemające siedzib swych władz w miastach położonych na terytorium tych gmin – w liczbie 2 kandydatów na członków i 2 kandydatów na zastępców członków,
+- **3)** ogólnopolskie organizacje reprezentujące następujące kategorie jednostek samorządu gminnego: gminy liczące powyżej 300 tysięcy mieszkańców – w liczbie 2 kandydatów na członków i 2 kandydatów na zastępców członków, gminy posiadające status miasta – w liczbie 3 kandydatów na członków i 3 kandydatów na zastępców członków, gminy, których siedziby władz znajdują się w miastach położonych na terytorium tych gmin – w liczbie 1 kandydata na członka i 1 kandydata na zastępcę członka, gminy nieposiadające statusu miasta i niemające siedzib swych władz w miastach położonych na terytorium tych gmin – w liczbie 2 kandydatów na członków i 2 kandydatów na zastępców członków, 4Dodany przez art. 1 pkt 4 lit. b ustawy, o której mowa w odnośniku 1.) ogólnopolską organizację reprezentującą wszystkie kategorie jednostek samorządu terytorialnego, zrzeszającą co najmniej 100 członków – w liczbie 1 kandydata na członka i 1 kandydata na zastępcę członka, 5Dodany przez art. 1 pkt 4 lit. b ustawy, o której mowa w odnośniku 1.) ogólnopolską organizację reprezentującą regionalne organizacje samorządowe – w liczbie 1 kandydata na członka i 1 kandydata na zastępcę członka – reprezentowane w Komisji Wspólnej.
     - **a)**
     - **b)**
     - **c)**
     - **d)**
 
-- **4)** ogólnopolską organizację reprezentującą wszystkie kategorie jednostek samorządu terytorialnego, zrzeszającą co najmniej 100 członków – w liczbie 1 kandydata na członka i 1 kandydata na zastępcę członka,
-- **5)** ogólnopolską organizację reprezentującą regionalne organizacje samorządowe – w liczbie 1 kandydata na członka i 1 kandydata na zastępcę członka reprezentowane w Komisji Wspólnej.
-
 2. Strona samorządowa Komisji Wspólnej zapewnia reprezentowanie przez kandydatów na członków i kandydatów na zastępców członków w Komitecie Regionów wszystkich województw.
 
-#### Rozdział 4 Przepisy zmieniające, przejściowe i dostosowujące
+#### Rozdział 4
 
 **Art. 22.** Jeżeli dotychczasowe przepisy odwołują się do Komisji Wspólnej Rządu i Samorządu Terytorialnego albo reprezentacji lub przedstawicielstwa samorządów terytorialnych, należy przez to rozumieć Komisję Wspólną Rządu i Samorządu Terytorialnego działającą na podstawie przepisów niniejszej ustawy.
 
@@ -277,8 +275,5 @@ minister właściwy do spraw administracji publicznej;
 
 **Art. 24.** W przypadku wygaśnięcia mandatu przedstawiciela Rzeczypospolitej Polskiej w Komitecie Regionów do wyznaczenia kandydata na przedstawiciela stosuje się przepisy niniejszej ustawy.
 
-**Art. 25.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-
-- **1)** Ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej (Dz. U. poz. 1821), która weszła w życie z dniem 22 września 2023 r. 2) Dodany przez art. 1 pkt 2 lit. a ustawy, o której mowa w odnośniku 1. 3) W brzmieniu ustalonym przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 1. 4) W brzmieniu ustalonym przez art. 1 pkt 2 lit. c ustawy, o której mowa w odnośniku 1. 5) W brzmieniu ustalonym przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 1. 6) Ze zmianami wprowadzonymi przez art. 1 pkt 4 lit. a ustawy, o której mowa w odnośniku 1. 7) Dodany przez art. 1 pkt 4 lit. b ustawy, o której mowa w odnośniku 1. 8) Zamieszczony w obwieszczeniu. 9) Ustawa została ogłoszona w dniu 23 maja 2005 r.
-
+**Art. 25.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 23 maja 2005 r.. 1) Ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej (Dz. U. poz. 1821), która weszła w życie z dniem 22 września 2023 r. 2) Dodany przez art. 1 pkt 2 lit. a ustawy, o której mowa w odnośniku 1. 3) W brzmieniu ustalonym przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 1. 4) W brzmieniu ustalonym przez art. 1 pkt 2 lit. c ustawy, o której mowa w odnośniku 1. 5) W brzmieniu ustalonym przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 1. 6) Ze zmianami wprowadzonymi przez art. 1 pkt 4 lit. a ustawy, o której mowa w odnośniku 1. 7) Dodany przez art. 1 pkt 4 lit. b ustawy, o której mowa w odnośniku 1. 8) Zamieszczony w obwieszczeniu. 9) Ustawa została ogłoszona w dniu 23 maja 2005 r.
 

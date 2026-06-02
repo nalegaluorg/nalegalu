@@ -25,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001677) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1677/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 2 sierpnia 2023 r.
+11667777 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 2 sierpnia 2023 r.
 w sprawie zasad organizacji i warunków przeprowadzania badań psychologicznych i psychiatrycznych w ośrodkach diagnostycznych Na podstawie art. 83 § 3 ustawy z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. z 2023 r. poz. 127, z 2022 r. poz. 2600 oraz z 2023 r. poz. 818 i 1606) zarządza się, co następuje: § 1. 1. Ośrodek diagnostyczny, zwany dalej „ośrodkiem”, organizuje się w wydzielonej części zakładu karnego lub aresztu śledczego.
 2. W ośrodku powinny znajdować się co najmniej następujące pomieszczenia:
 1) cele mieszkalne dla skazanych objętych badaniami psychologicznymi i psychiatrycznymi, zwanymi dalej „badaniami”;
@@ -47,7 +47,7 @@ w sprawie zasad organizacji i warunków przeprowadzania badań psychologicznych 
 2. Opinię psychiatryczną sporządza się w 2 egzemplarzach. Oryginał opinii załącza się do dokumentacji medycznej skazanego.
 § 6. Dokumentację ośrodka stanowią wyniki badań wraz z egzemplarzem orzeczenia psychologiczno-penitencjarnego oraz egzemplarzem opinii psychiatrycznej, ewidencja skazanych skierowanych na badania i objętych badaniami, zawierająca w szczególności imię i nazwisko skazanego, imię ojca, datę przyjęcia do ośrodka oraz termin rozpoczęcia i zakończenia badań.
 § 7. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro WZÓR ZÓR Data…………………………… Ośrodek Diagnostyczny Zakładu Karnego/Aresztu Śledczego w ..............................
+Minister Sprawiedliwości: Z. Ziobro WZÓR Załącznik nr 1 WZÓR Data…………………………… Ośrodek Diagnostyczny Zakładu Karnego/Aresztu Śledczego w ..............................
 ORZECZENIE PSYCHOLOGICZNO-PENITENCJARNE I. Dane dotyczące badanego: Nazwisko i imię, imię ojca……………………………………………………………………… Numer IDO………………………………………………………...…………………………… Data urodzenia……………………………………………………..…………………………… Przyczyna skierowania na badania.
 Wymiar kary i rodzaj popełnionego przestępstwa; dotychczasowa karalność.
 II. Przebieg procesu socjalizacji i ewentualne przyczyny zaburzeń.
@@ -57,7 +57,7 @@ V. Wnioski, w tym ustalenie potrzeby oddziaływania specjalistycznego i skierowa
 VI. Wskazania wraz z uzasadnieniem w zakresie: klasyfikacji nauczania zatrudnienia VII. Zalecenia dotyczące prowadzenia zindywidualizowanych oddziaływań z uwzględnieniem psychologicznych i socjologicznych mechanizmów zachowania skazanego.
 VIII. Okres przeprowadzenia badań.
 IX. Zastosowane metody badań psychologicznych oraz wykorzystana dokumentacja.
-imię i nazwisko, tytuł zawodowy oraz stanowisko służbowe psychologa przeprowadzającego badanie Data…………………………… Zakład Karny/Areszt Śledczy w ……………………………………….
+imię i nazwisko, tytuł zawodowy oraz stanowisko służbowe psychologa przeprowadzającego badanie Załącznik nr 2 WZÓR Data…………………………… Zakład Karny/Areszt Śledczy w ……………………………………….
 OPINIA PSYCHIATRYCZNA Nazwisko i imię badanego, imię ojca.
 Data urodzenia.
 Ocena stanu zdrowia psychicznego.

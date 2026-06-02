@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 4 stycznia 2022 r. zmieniające rozporządzenie w sprawie czasu służby policjantów
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 4 stycznia 2022 r. zmieniające rozporządzenie w sprawie czasu służby policjantów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-04 |
 | Data wydania | 2022-01-11 |
-| Wejście w życie | 2022-01-12 |
 | Ostatnia zmiana | 2024-03-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000051) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/51/text.pdf) |
 
@@ -33,12 +32,9 @@ W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 11 wrześn
 1)
 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W komendzie, Centralnym Biurze Śledczym Policji, Biurze Spraw Wewnętrznych Policji, Centralnym Pododdziale Kontrterrorystycznym Policji „BOA”, Centralnym Biurze Zwalczania Cyberprzestępczości, komisariacie, komisariacie specjalistycznym, oddziale i samodzielnym pododdziale prewencji Policji, samodzielnym pododdziale kontrterrorystycznym Policji, Wyższej Szkole Policji w Szczytnie, szkole policyjnej, ośrodku szkolenia Policji i instytucie badawczym, zwanym dalej „jednostką organizacyjną Policji”, określa się rozkład czasu służby: ” ;
 2)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Rozkład czasu służby wprowadza w podległej jednostce organizacyjnej Policji Komendant Główny Policji, Komendant Centralnego Biura Śledczego Policji, Komendant Biura Spraw Wewnętrznych Policji, dowódca Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”, Komendant Centralnego Biura Zwalczania Cyberprzestępczości, komendant wojewódzki (Stołeczny) Policji, komendant powiatowy (miejski) lub rejonowy Policji, Komendant-Rektor Wyższej Szkoły Policji w Szczytnie, komendant szkoły policyjnej oraz dyrektor instytutu badawczego, zwany dalej „przełożonym właściwym w sprawach osobowych”, ustalając godziny rozpoczęcia i zakończenia służby.
-” .
+Rozkład czasu służby wprowadza w podległej jednostce organizacyjnej Policji Komendant Główny Policji, Komendant Centralnego Biura Śledczego Policji, Komendant Biura Spraw Wewnętrznych Policji, dowódca Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”, Komendant Centralnego Biura Zwalczania Cyberprzestępczości, komendant wojewódzki (Stołeczny) Policji, komendant powiatowy (miejski) lub rejonowy Policji, Komendant-Rektor Wyższej Szkoły Policji w Szczytnie, komendant szkoły policyjnej oraz dyrektor instytutu badawczego, zwany dalej „przełożonym właściwym w sprawach osobowych”, ustalając godziny rozpoczęcia i zakończenia służby. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

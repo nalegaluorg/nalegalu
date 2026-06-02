@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-06-09 |
 | Data wydania | 2011-06-28 |
-| Wejście w życie | 2011-06-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111330768) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/768/text.pdf) |
 
@@ -48,7 +47,7 @@ source: "eli-html"
 - **2)** dane służące do składania informacji uwierzytelniającej weryfikowanej za pomocą certyfikatu dowodu osobistego;
 - **3)** przestrzeń umożliwiającą zamieszczenie certyfikatu podpisu osobistego wraz z danymi służącymi do składania podpisu osobistego;
 - **4)** przestrzeń umożliwiającą zamieszczenie certyfikatu kwalifikowanego wraz z danymi służącymi do składania bezpiecznego podpisu elektronicznego na podstawie ustawy z dnia 18 września 2001 r. o podpisie elektronicznym;
-- **5)** przestrzeń na zamieszczenie danych lub aplikacji służących do wykorzystania dowodu osobistego jako karty ubezpieczenia zdrowotnego w rozumieniu ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.).
+- **5)** przestrzeń na zamieszczenie danych lub aplikacji służących do wykorzystania dowodu osobistego jako karty ubezpieczenia zdrowotnego w rozumieniu ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696.).
 
 2. Warstwa elektroniczna dowodu osobistego może zawierać dane i aplikacje inne niż określone w ust. 1, jeżeli przewidują to przepisy innej ustawy. ” ;
 
@@ -170,7 +169,7 @@ source: "eli-html"
 **Art. 59.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
 - **1)** sposób prowadzenia Rejestru Dowodów Osobistych,
-- **2)** tryb przekazywania danych między Rejestrem Dowodów Osobistych a innymi rejestrami centralnymi uwzględniając konieczność zapewnienia bezpieczeństwa danych wprowadzanych do rejestrów za pomocą obsługujących je systemów teleinformatycznych i ich ochrony przed nieuprawnionym ujawnieniem i dostępem, weryfikację przekazywanych danych i zapewnienie właściwego poziomu technicznego systemów służących do przesyłania tych danych, konieczność zachowania danych archiwalnych, a także potrzebę zapewnienia Agencji Bezpieczeństwa Wewnętrznego możliwości realizacji zadań wynikających z art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.). ” ;
+- **2)** tryb przekazywania danych między Rejestrem Dowodów Osobistych a innymi rejestrami centralnymi – uwzględniając konieczność zapewnienia bezpieczeństwa danych wprowadzanych do rejestrów za pomocą obsługujących je systemów teleinformatycznych i ich ochrony przed nieuprawnionym ujawnieniem i dostępem, weryfikację przekazywanych danych i zapewnienie właściwego poziomu technicznego systemów służących do przesyłania tych danych, konieczność zachowania danych archiwalnych, a także potrzebę zapewnienia Agencji Bezpieczeństwa Wewnętrznego możliwości realizacji zadań wynikających z art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455 i Nr 117, poz. 677.). ” ;
 - **23)** art. 64 otrzymuje brzmienie: „
 
 **Art. 64.** Nie udostępnia się danych dotyczących certyfikatu dowodu osobistego oraz certyfikatu podpisu osobistego, z wyłączeniem:
@@ -181,7 +180,7 @@ source: "eli-html"
 - **24)** uchyla się art. 82;
 - **25)** art. 87 otrzymuje brzmienie: „
 
-**Art. 87.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm.) w załączniku do ustawy w części II w kolumnie 2 ust. 2 otrzymuje brzmienie: „ 2. Pełny odpis przetworzonych danych osobowych z rejestrów mieszkańców, rejestrów zamieszkania cudzoziemców, rejestru PESEL oraz Rejestru Dowodów Osobistych.”. ” ; ” ;
+**Art. 87.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 427, Nr 124, poz. 859, Nr 127, poz. 880 i Nr 128, poz. 883, z 2008 r. Nr 44, poz. 262, Nr 63, poz. 394, Nr 182, poz. 1121, Nr 195, poz. 1198, Nr 216, poz. 1367 i Nr 220, poz. 1414, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 57, poz. 466 i Nr 72, poz. 619, z 2010 r. Nr 8, poz. 51, Nr 81, poz. 531, Nr 107, poz. 679 i Nr 167, poz. 1131 oraz z 2011 r. Nr 75, poz. 398, Nr 106, poz. 622 i Nr 112, poz. 654.) w załączniku do ustawy w części II w kolumnie 2 ust. 2 otrzymuje brzmienie: „ 2. Pełny odpis przetworzonych danych osobowych z rejestrów mieszkańców, rejestrów zamieszkania cudzoziemców, rejestru PESEL oraz Rejestru Dowodów Osobistych.”. ” ; ” ;
 
 - **26)** art. 88 otrzymuje brzmienie: „
 
@@ -198,7 +197,7 @@ source: "eli-html"
 
 - **28)** art. 92 otrzymuje brzmienie: „
 
-**Art. 92.** Traci moc ustawa z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.). ” ;
+**Art. 92.** Traci moc ustawa z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056, Nr 195, poz. 1198 i Nr 220, poz. 1414, z 2009 r. Nr 22, poz. 120, Nr 39, poz. 306, Nr 69, poz. 595 i Nr 223, poz. 1777 oraz z 2010 r. Nr 239, poz. 1593.). ” ;
 
 - **29)** art. 93 otrzymuje brzmienie: „
 
@@ -206,10 +205,10 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. Nr 217, poz. 1427 i Nr 239, poz. 1593) wprowadza się następujące zmiany:
 
-- **1)** w art. 13 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw wewnętrznych, uwzględniając potrzebę zapewnienia ochrony danych osobowych i ich ochrony przed nieuprawnionym ujawnieniem i dostępem, różnice w zapisach imion i nazwisk cudzoziemców w różnych alfabetach, a także konieczność zapewnienia Agencji Bezpieczeństwa Wewnętrznego możliwości realizacji zadań wynikających z art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.), określi, w drodze rozporządzenia: ” ;
+- **1)** w art. 13 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw wewnętrznych, uwzględniając potrzebę zapewnienia ochrony danych osobowych i ich ochrony przed nieuprawnionym ujawnieniem i dostępem, różnice w zapisach imion i nazwisk cudzoziemców w różnych alfabetach, a także konieczność zapewnienia Agencji Bezpieczeństwa Wewnętrznego możliwości realizacji zadań wynikających z art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455 i Nr 117, poz. 677.), określi, w drodze rozporządzenia: ” ;
 - **2)** po art. 62 dodaje się art. 62a w brzmieniu: „
 
-**Art. 62a.** W ustawie z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 62a.** W ustawie z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056, Nr 195, poz. 1198 i Nr 220, poz. 1414, z 2009 r. Nr 22, poz. 120, Nr 39, poz. 306, Nr 69, poz. 595 i Nr 223, poz. 1777 oraz z 2010 r. Nr 239, poz. 1593.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -268,7 +267,7 @@ source: "eli-html"
 
 - **1)** wniosku o udostępnienie danych z ewidencji wydanych i unieważnionych dowodów osobistych, o którym mowa w ust. 3,
 - **2)** uproszczonego wniosku o udostępnienie danych z ewidencji wydanych i unieważnionych dowodów osobistych, o którym mowa w ust. 5,
-- **3)** wniosku o udostępnienie danych z ogólnokrajowej ewidencji wydanych i unieważnionych dowodów osobistych, o którym mowa w ust. 6 uwzględniając konieczność wykazania przez podmioty, o których mowa w ust. 2 pkt 1, interesu prawnego w uzyskaniu danych oraz wymagania, o których mowa w ust. 5.
+- **3)** wniosku o udostępnienie danych z ogólnokrajowej ewidencji wydanych i unieważnionych dowodów osobistych, o którym mowa w ust. 6 – uwzględniając konieczność wykazania przez podmioty, o których mowa w ust. 2 pkt 1, interesu prawnego w uzyskaniu danych oraz wymagania, o których mowa w ust. 5.
 
 9. Udostępnienie danych z ewidencji wydanych i unieważnionych dowodów osobistych następuje:
 
@@ -282,7 +281,7 @@ source: "eli-html"
 12. Rada Ministrów określi, w drodze rozporządzenia:
 
 - **1)** wysokość oraz sposób uiszczania opłat za jednostkowe udostępnienie danych z ewidencji wydanych i unieważnionych dowodów osobistych oraz za udostępnianie danych za pomocą urządzeń teletransmisji danych, w drodze weryfikacji, o której mowa w ust. 6,
-- **2)** sposób obliczania wysokości oraz sposób uiszczania opłaty za udostępnianie danych podmiotom, o których mowa w ust. 2 pkt 2 uwzględniając, że wysokość opłat powinna być zróżnicowana w zależności od sposobu i zakresu udostępniania danych. ” ;
+- **2)** sposób obliczania wysokości oraz sposób uiszczania opłaty za udostępnianie danych podmiotom, o których mowa w ust. 2 pkt 2 – uwzględniając, że wysokość opłat powinna być zróżnicowana w zależności od sposobu i zakresu udostępniania danych. ” ;
 - **12)** w art. 44i: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -324,5 +323,5 @@ source: "eli-html"
 
 **Art. 80.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r. ” .
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 30 czerwca 2011 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 30 czerwca 2011 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455 i Nr 117, poz. 677. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 427, Nr 124, poz. 859, Nr 127, poz. 880 i Nr 128, poz. 883, z 2008 r. Nr 44, poz. 262, Nr 63, poz. 394, Nr 182, poz. 1121, Nr 195, poz. 1198, Nr 216, poz. 1367 i Nr 220, poz. 1414, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 57, poz. 466 i Nr 72, poz. 619, z 2010 r. Nr 8, poz. 51, Nr 81, poz. 531, Nr 107, poz. 679 i Nr 167, poz. 1131 oraz z 2011 r. Nr 75, poz. 398, Nr 106, poz. 622 i Nr 112, poz. 654. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056, Nr 195, poz. 1198 i Nr 220, poz. 1414, z 2009 r. Nr 22, poz. 120, Nr 39, poz. 306, Nr 69, poz. 595 i Nr 223, poz. 1777 oraz z 2010 r. Nr 239, poz. 1593. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455 i Nr 117, poz. 677. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056, Nr 195, poz. 1198 i Nr 220, poz. 1414, z 2009 r. Nr 22, poz. 120, Nr 39, poz. 306, Nr 69, poz. 595 i Nr 223, poz. 1777 oraz z 2010 r. Nr 239, poz. 1593.
 

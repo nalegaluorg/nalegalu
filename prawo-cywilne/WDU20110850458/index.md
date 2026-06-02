@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 18 marca 2011 r. o zmianie ustawy – Kodeks cywilny oraz niektórych innych ustaw
+# Ustawa z dnia 18 marca 2011 r. o zmianie ustawy – Kodeks cywilny oraz niektórych innych ustaw Niniejszą ustawą zmienia się: ustawę z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców, ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 28 lipca 1983 r. o podatku od spadków i darowizn, ustawę z dnia 14 lutego 1991 r. – Prawo o notariacie i ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze.
 
 | Pole | Wartość |
 |---|---|
@@ -22,24 +22,22 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-03-18 |
 | Data wydania | 2011-04-23 |
-| Wejście w życie | 2011-10-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110850458) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/458/text.pdf) |
 
+Zapis zwykły”;
 8)
-art. 968 otrzymuje brzmienie:
-„
+art. 968 otrzymuje brzmienie: „
+Zapis windykacyjny
+Polecenie”;
 11)
-w art. 986 § 1 otrzymuje brzmienie:
-„
+w art. 986 § 1 otrzymuje brzmienie: „
 § 1.
-Spadkodawca może w testamencie powołać wykonawcę lub wykonawców testamentu.
-” ;
+Spadkodawca może w testamencie powołać wykonawcę lub wykonawców testamentu. ” ;
 12)
-po art. 986 dodaje się art. 9861 w brzmieniu:
-„
+po art. 986 dodaje się art. 9861 w brzmieniu: „
 
-**Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287, z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012, Nr 220, poz. 1425 i 1431 i Nr 228, poz. 1506, z 2009 r. Nr 42, poz. 341, Nr 79, poz. 662 i Nr 131, poz. 1075, z 2010 r. Nr 40, poz. 222 i Nr 155, poz. 1037 oraz z 2011 r. Nr 80, poz. 432.) wprowadza się następujące zmiany:
 
 - **1)** art. 156 otrzymuje brzmienie: „
 
@@ -67,7 +65,7 @@ po art. 986 dodaje się art. 9861 w brzmieniu:
 
 - **7)** w księdze czwartej w tytule III w dziale III przed art. 968 dodaje się oznaczenie w brzmieniu: „
 
-#### Rozdział I Zapis zwykły”;
+#### Rozdział I
 
 **Art. 968.**
 
@@ -77,7 +75,7 @@ po art. 986 dodaje się art. 9861 w brzmieniu:
 
 - **9)** w księdze czwartej w tytule III w dziale III po art. 981 dodaje się rozdział II w brzmieniu: „
 
-#### Rozdział II Zapis windykacyjny
+#### Rozdział II
 
 **Art. 9811.**
 
@@ -106,7 +104,7 @@ po art. 986 dodaje się art. 9861 w brzmieniu:
 
 - **10)** w księdze czwartej w tytule III w dziale III przed art. 982 dodaje się oznaczenie w brzmieniu: „
 
-#### Rozdział III Polecenie”;
+#### Rozdział III
 
 **Art. 9861.** Spadkodawca może powołać wykonawcę testamentu do sprawowania zarządu spadkiem, jego zorganizowaną częścią lub oznaczonym składnikiem. ” ;
 
@@ -240,7 +238,7 @@ po art. 986 dodaje się art. 9861 w brzmieniu:
 
 § 3. Przy zaliczaniu na schedę spadkową nie uwzględnia się pożytków przedmiotu darowizny lub zapisu windykacyjnego. ” .
 
-**Art. 2.** W ustawie z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców (Dz. U. z 2004 r. Nr 167, poz. 1758, z późn. zm.) w art. 7:
+**Art. 2.** W ustawie z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców (Dz. U. z 2004 r. Nr 167, poz. 1758, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 94, poz. 788 i Nr 183, poz. 1538 oraz z 2008 r. Nr 180, poz. 1112 i Nr 216, poz. 1367.) w art. 7:
 
 - **1)** ust. 2 otrzymuje brzmienie: „
 
@@ -254,7 +252,7 @@ po art. 986 dodaje się art. 9861 w brzmieniu:
 
 4. Przepisy ust. 2–3a stosuje się odpowiednio do udziałów lub akcji spółki handlowej będącej właścicielem lub wieczystym użytkownikiem nieruchomości na terytorium Rzeczypospolitej Polskiej. ” .
 
-**Art. 3.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699, z 2007 r. Nr 7, poz. 58, Nr 47, poz. 319, Nr 50, poz. 331, Nr 99, poz. 662, Nr 106, poz. 731, Nr 112, poz. 766 i 769, Nr 115, poz. 794, Nr 121, poz. 831, Nr 123, poz. 849, Nr 176, poz. 1243, Nr 181, poz. 1287, Nr 192, poz. 1378 i Nr 247, poz. 1845, z 2008 r. Nr 59, poz. 367, Nr 96, poz. 609 i 619, Nr 110, poz. 706, Nr 116, poz. 731, Nr 119, poz. 772, Nr 120, poz. 779, Nr 122, poz. 796, Nr 171, poz. 1056, Nr 220, poz. 1431, Nr 228, poz. 1507, Nr 231, poz. 1547 i Nr 234, poz. 1571, z 2009 r. Nr 26, poz. 156, Nr 67, poz. 571, Nr 69, poz. 592 i 593, Nr 131, poz. 1075, Nr 179, poz. 1395 i Nr 216, poz. 1676, z 2010 r. Nr 3, poz. 13, Nr 7, poz. 45, Nr 40, poz. 229, Nr 108, poz. 684, Nr 109, poz. 724, Nr 125, poz. 842, Nr 152, poz. 1018, Nr 155, poz. 1037, Nr 182, poz. 1228, Nr 197, poz. 1307, Nr 215, poz. 1418, Nr 217, poz. 1435 i Nr 241, poz. 1621 oraz z 2011 r. Nr 34, poz. 173.) wprowadza się następujące zmiany:
 
 - **1)** po art. 636 dodaje się art. 6361 w brzmieniu: „
 
@@ -283,7 +281,7 @@ po art. 986 dodaje się art. 9861 w brzmieniu:
 
 **Art. 686.** W postępowaniu działowym sąd rozstrzyga także o istnieniu zapisów zwykłych, których przedmiotem są rzeczy lub prawa należące do spadku, jak również o wzajemnych roszczeniach pomiędzy współspadkobiercami z tytułu posiadania poszczególnych przedmiotów spadkowych, pobranych pożytków i innych przychodów, poczynionych na spadek nakładów i spłaconych długów spadkowych. ” .
 
-**Art. 4.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2005 r. Nr 229, poz. 1954, z późn. zm.) w art. 57 § 2 i 3 otrzymują brzmienie: „
+**Art. 4.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2005 r. Nr 229, poz. 1954, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 157, poz. 1119 i Nr 187, poz. 1381, z 2007 r. Nr 89, poz. 589, Nr 115, poz. 794, Nr 176, poz. 1243 i Nr 192, poz. 1378, z 2008 r. Nr 209, poz. 1318, z 2009 r. Nr 3, poz. 11, Nr 39, poz. 308, Nr 131, poz. 1075, Nr 157, poz. 1241 i Nr 201, poz. 1540 oraz z 2010 r. Nr 28, poz. 143, Nr 40, poz. 229, Nr 75, poz. 474, Nr 122, poz. 826, Nr 152, poz. 1018 i Nr 229, poz. 1497.) w art. 57 § 2 i 3 otrzymują brzmienie: „
 
 § 2. W razie zawieszenia postępowania z przyczyny określonej w art. 56 § 1 pkt 2 – organ egzekucyjny podejmie zawieszone postępowanie, gdy organ ten zostanie zawiadomiony przez wierzyciela o ustaleniu według przepisów prawa cywilnego spadkobierców zmarłego zobowiązanego, na których przeszedł egzekwowany obowiązek, lub osób, na których rzecz zostały uczynione zapisy windykacyjne. Wierzyciel może również, nie czekając na sądowe stwierdzenie nabycia spadku lub przedmiotu zapisu windykacyjnego albo sporządzenie aktu poświadczenia dziedziczenia, wskazać osobę, którą uważa za spadkobiercę zmarłego zobowiązanego, lub osobę, na której rzecz został uczyniony zapis windykacyjny, odpowiedzialną za egzekwowany obowiązek. Jednakże organ egzekucyjny obowiązany jest zastosować się do postanowienia sądu o stwierdzeniu nabycia spadku, postanowienia częściowego stwierdzającego nabycie przedmiotu zapisu windykacyjnego lub zarejestrowanego aktu poświadczenia dziedziczenia, jeżeli postanowienie to lub wypis zarejestrowanego aktu poświadczenia dziedziczenia zostaną mu złożone przed zakończeniem postępowania egzekucyjnego.
 
@@ -313,7 +311,7 @@ po art. 986 dodaje się art. 9861 w brzmieniu:
 
 - **1)** w drodze dziedziczenia, zapisu zwykłego, zapisu windykacyjnego, dalszego zapisu, polecenia testamentowego, darowizny lub polecenia darczyńcy przez osoby zaliczane do I grupy podatkowej,
 - **2)** w drodze dziedziczenia, zapisu zwykłego, zapisu windykacyjnego, dalszego zapisu lub polecenia testamentowego przez osoby zaliczane do II grupy podatkowej,
-- **3)** w drodze dziedziczenia, zapisu zwykłego, zapisu windykacyjnego, dalszego zapisu lub polecenia testamentowego przez osoby zaliczane do III grupy podatkowej, które sprawowały opiekę nad wymagającym takiej opieki spadkodawcą, na podstawie pisemnej umowy z podpisem notarialnie poświadczonym, przez co najmniej dwa lata od dnia poświadczenia podpisów przez notariusza nie wlicza się do podstawy opodatkowania ich czystej wartości do łącznej wysokości nieprzekraczającej 110 m2 powierzchni użytkowej budynku lub lokalu. W przypadku nabycia części (udziału) budynku mieszkalnego lub lokalu albo udziału w spółdzielczym prawie do budynku mieszkalnego lub lokalu ulga przysługuje stosownie do wielkości udziału. ” .
+- **3)** w drodze dziedziczenia, zapisu zwykłego, zapisu windykacyjnego, dalszego zapisu lub polecenia testamentowego przez osoby zaliczane do III grupy podatkowej, które sprawowały opiekę nad wymagającym takiej opieki spadkodawcą, na podstawie pisemnej umowy z podpisem notarialnie poświadczonym, przez co najmniej dwa lata od dnia poświadczenia podpisów przez notariusza – nie wlicza się do podstawy opodatkowania ich czystej wartości do łącznej wysokości nieprzekraczającej 110 m2 powierzchni użytkowej budynku lub lokalu. W przypadku nabycia części (udziału) budynku mieszkalnego lub lokalu albo udziału w spółdzielczym prawie do budynku mieszkalnego lub lokalu ulga przysługuje stosownie do wielkości udziału. ” .
 
 **Art. 6.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2008 r. Nr 189, poz. 1158, z 2009 r. Nr 37, poz. 286 i Nr 166, poz. 1317 oraz z 2010 r. Nr 182, poz. 1228) wprowadza się następujące zmiany:
 
@@ -338,11 +336,11 @@ po art. 986 dodaje się art. 9861 w brzmieniu:
 - **7a)** wskazanie osób, na których rzecz spadkodawca uczynił zapisy windykacyjne, oraz przedmiotów tych zapisów, chyba że osoby te nie chcą lub nie mogą być zapisobiercami; ” ;
 - **6)** art. 95l otrzymuje brzmienie: „ Jeżeli w akcie poświadczenia dziedziczenia nie wskazano spadkobierców dziedziczących gospodarstwo rolne lub osób, na których rzecz spadkodawca uczynił zapisy windykacyjne, notariusz sporządzi w tym przedmiocie akt uzupełniający, stosując odpowiednio przepisy niniejszego rozdziału. ” .
 
-**Art. 7.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2009 r. Nr 175, poz. 1361, z późn. zm.) art. 123 otrzymuje brzmienie: „
+**Art. 7.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2009 r. Nr 175, poz. 1361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 191, poz. 1484 oraz z 2010 r. Nr 155, poz. 1037, Nr 230, poz. 1509 i Nr 257, poz. 1724.) art. 123 otrzymuje brzmienie: „
 
 **Art. 123.** Oświadczenie upadłego o odrzuceniu spadku lub zapisu windykacyjnego jest bezskuteczne w stosunku do masy upadłości, jeżeli zostało złożone po ogłoszeniu upadłości. ” .
 
 **Art. 8.** Do roszczeń, o których mowa w art. 1007 ustawy, o której mowa w art. 1, powstałych przed dniem wejścia w życie niniejszej ustawy i w tym dniu jeszcze nie przedawnionych, stosuje się przepisy tego artykułu w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się: ustawę z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców, ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 28 lipca 1983 r. o podatku od spadków i darowizn, ustawę z dnia 14 lutego 1991 r. – Prawo o notariacie i ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287, z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012, Nr 220, poz. 1425 i 1431 i Nr 228, poz. 1506, z 2009 r. Nr 42, poz. 341, Nr 79, poz. 662 i Nr 131, poz. 1075, z 2010 r. Nr 40, poz. 222 i Nr 155, poz. 1037 oraz z 2011 r. Nr 80, poz. 432. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 94, poz. 788 i Nr 183, poz. 1538 oraz z 2008 r. Nr 180, poz. 1112 i Nr 216, poz. 1367. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699, z 2007 r. Nr 7, poz. 58, Nr 47, poz. 319, Nr 50, poz. 331, Nr 99, poz. 662, Nr 106, poz. 731, Nr 112, poz. 766 i 769, Nr 115, poz. 794, Nr 121, poz. 831, Nr 123, poz. 849, Nr 176, poz. 1243, Nr 181, poz. 1287, Nr 192, poz. 1378 i Nr 247, poz. 1845, z 2008 r. Nr 59, poz. 367, Nr 96, poz. 609 i 619, Nr 110, poz. 706, Nr 116, poz. 731, Nr 119, poz. 772, Nr 120, poz. 779, Nr 122, poz. 796, Nr 171, poz. 1056, Nr 220, poz. 1431, Nr 228, poz. 1507, Nr 231, poz. 1547 i Nr 234, poz. 1571, z 2009 r. Nr 26, poz. 156, Nr 67, poz. 571, Nr 69, poz. 592 i 593, Nr 131, poz. 1075, Nr 179, poz. 1395 i Nr 216, poz. 1676, z 2010 r. Nr 3, poz. 13, Nr 7, poz. 45, Nr 40, poz. 229, Nr 108, poz. 684, Nr 109, poz. 724, Nr 125, poz. 842, Nr 152, poz. 1018, Nr 155, poz. 1037, Nr 182, poz. 1228, Nr 197, poz. 1307, Nr 215, poz. 1418, Nr 217, poz. 1435 i Nr 241, poz. 1621 oraz z 2011 r. Nr 34, poz. 173. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 157, poz. 1119 i Nr 187, poz. 1381, z 2007 r. Nr 89, poz. 589, Nr 115, poz. 794, Nr 176, poz. 1243 i Nr 192, poz. 1378, z 2008 r. Nr 209, poz. 1318, z 2009 r. Nr 3, poz. 11, Nr 39, poz. 308, Nr 131, poz. 1075, Nr 157, poz. 1241 i Nr 201, poz. 1540 oraz z 2010 r. Nr 28, poz. 143, Nr 40, poz. 229, Nr 75, poz. 474, Nr 122, poz. 826, Nr 152, poz. 1018 i Nr 229, poz. 1497. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 191, poz. 1484 oraz z 2010 r. Nr 155, poz. 1037, Nr 230, poz. 1509 i Nr 257, poz. 1724.
 

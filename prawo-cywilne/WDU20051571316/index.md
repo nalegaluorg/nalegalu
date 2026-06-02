@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-07 |
 | Data wydania | 2005-08-19 |
-| Wejście w życie | 2006-02-20 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051571316) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1316/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.) w art. 359 po § 2 dodaje się § 21–23 w brzmieniu: „
+**Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783 oraz z 2005 r. Nr 48, poz. 462.) w art. 359 po § 2 dodaje się § 21–23 w brzmieniu: „
 
 § 21. Maksymalna wysokość odsetek wynikających z czynności prawnej nie może w stosunku rocznym przekraczać czterokrotności wysokości stopy kredytu lombardowego Narodowego Banku Polskiego (odsetki maksymalne).
 
@@ -38,8 +37,10 @@ source: "eli-html"
 
 **Art. 3.** W ustawie z dnia 20 lipca 2001 r. o kredycie konsumenckim (Dz. U. Nr 100, poz. 1081, z 2003 r. Nr 109, poz. 1030 oraz z 2004 r. Nr 96, poz. 959 i Nr 162, poz. 1693) wprowadza się następujące zmiany:
 
-- **1)** w art. 3: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) o wysokości większej niż 80 000 zł albo równowartości tej kwoty w innej walucie niż waluta polska; wartość waluty obcej oblicza się według średniego kursu ogłaszanego przez Narodowy Bank Polski dla danej waluty, obowiązującego w dniu poprzedzającym dzień zawarcia umowy, ” , – uchyla się pkt 2, w ust. 2 uchyla się pkt 3 i 3a;
+- **1)** w art. 3: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** o wysokości większej niż 80 000 zł albo równowartości tej kwoty w innej walucie niż waluta polska; wartość waluty obcej oblicza się według średniego kursu ogłaszanego przez Narodowy Bank Polski dla danej waluty, obowiązującego w dniu poprzedzającym dzień zawarcia umowy, ” , – uchyla się pkt 2, w ust. 2 uchyla się pkt 3 i 3a;
     - **b)**
 
 - **2)** w art. 4: w ust. 2 w pkt 12 kropkę zastępuje się przecinkiem i dodaje pkt 13 w brzmieniu: „
@@ -64,11 +65,11 @@ source: "eli-html"
 
 **Art. 4.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661 oraz z 2004 r. Nr 93, poz. 889, Nr 191, poz. 1956 i Nr 243, poz. 2442) w art. 16 w ust. 1 w pkt 1 dodaje się lit. i w brzmieniu: „
 
-art. 18a ustawy z dnia 20 lipca 2001 r. o kredycie konsumenckim (Dz. U. Nr 100, poz. 1081, z późn. zm.); ” .
+art. 18a ustawy z dnia 20 lipca 2001 r. o kredycie konsumenckim (Dz. U. Nr 100, poz. 1081, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 109, poz. 1030, z 2004 r. Nr 96, poz. 959 i Nr 162, poz. 1693 oraz z 2005 r. Nr 157, poz. 1316.); ” .
 
 - **i)**
 
 **Art. 5.** Przepisy ustawy stosuje się do czynności prawnych dokonywanych po jej wejściu w życie.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783 oraz z 2005 r. Nr 48, poz. 462. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 109, poz. 1030, z 2004 r. Nr 96, poz. 959 i Nr 162, poz. 1693 oraz z 2005 r. Nr 157, poz. 1316.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-14 |
 | Data wydania | 2020-12-17 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002272) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2272/text.pdf) |
 
@@ -97,5 +96,5 @@ Kierownicy jednostek organizacyjnych, o których mowa w ust. 1, tworzą i aktual
 5.
 Wnioski zawarte w zbiorczych informacjach, o których mowa w ust. 3, przekazuje się psychologom udzielającym pomocy psychologicznej osobom, o których mowa w § 2 ust. 1.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 28 lutego 2013 r. w sprawie pomocy psychologicznej dla weterana-funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego lub weterana poszkodowanego-funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 336), które na podstawie art. 19 ust. 1 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) utraciło moc z dniem 11 października 2020 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 28 lutego 2013 r. w sprawie pomocy psychologicznej dla weterana-funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego lub weterana poszkodowanego-funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 336), które na podstawie art. 19 ust. 1 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) utraciło moc z dniem 11 października 2020 r.
 

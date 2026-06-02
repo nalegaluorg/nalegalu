@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 29 grudnia 2022 r. zmieniające rozporządzenie w sprawie standardu organizacyjnego opieki zdrowotnej w dziedzinie anestezjologii i intensywnej terapii
+# Rozporządzenie Ministra Zdrowiaz dnia 29 grudnia 2022 r. zmieniające rozporządzenie w sprawie standardu organizacyjnego opieki zdrowotnej w dziedzinie anestezjologii i intensywnej terapii Minister Zdrowia kieruje działem administracji rządowej ‒ zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-29 |
 | Data wydania | 2022-12-29 |
-| Wejście w życie | 2022-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002841) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2841/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 22 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 22 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 655, 974, 1079, 2280, 2705 i 2770.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 16 grudnia 2016 r. w sprawie standardu organizacyjnego opieki zdrowotnej w dziedzinie anestezjologii i intensywnej terapii (Dz. U. z 2022 r. poz. 392) użyte w § 16 oraz w § 17 wyrazy „31 grudnia 2022 r.” zastępuje się wyrazami „31 grudnia 2023 r.”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 31 grudnia 2022 r.
-1) Minister Zdrowia kieruje działem administracji rządowej ‒ zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 655, 974, 1079, 2280, 2705 i 2770.
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2022 r. 1) Minister Zdrowia kieruje działem administracji rządowej ‒ zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 655, 974, 1079, 2280, 2705 i 2770.
 

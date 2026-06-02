@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000462) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/462/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 28 kwietnia 1936 r. Prawo czekowe Dział I – Wystawienie i forma czeku Dział II – Przeniesienie Dział III – Poręczenie czekowe Dział IV – Przedstawienie i zapłata Dział V – Czek zakreślony i czek rozrachunkowy Dział VI – Zwrotne poszukiwanie spowodu niezapłacenia Dział VII – Wtóropisy Dział VIII – Zmiany Dział IX – Przedawnienie Dział X – Przepisy ogólne Dział XI – Roszczenie z tytułu niesłusznego zbogacenia Dział XII – Skutki braku pokrycia Dział XIII – Kolizja ustaw Dział XIV – Protest Dział XV – Czeki zaginione Dział XVI – Przepisy końcowe i przejściowe
+Załącznik – Tekst jednolity ustawy z dnia 28 kwietnia 1936 r. Prawo czekowe
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 kwietnia 1936 r. – Prawo czekowe (Dz. U. Nr 37, poz. 283), z uwzględnieniem zmian wprowadzonych:
@@ -35,13 +35,59 @@ ustawą z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny (Dz. U
 2)
 ustawą z dnia 10 marca 2006 r. o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz o zmianie niektórych innych ustaw (Dz. U. Nr 73, poz. 501),
 3)
-ustawą z dnia 9 października 2015 r. o zmianie ustawy o terminach zapłaty w transakcjach handlowych, ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1830)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 marca 2016 r.
+ustawą z dnia 9 października 2015 r. o zmianie ustawy o terminach zapłaty w transakcjach handlowych, ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1830) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 marca 2016 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 18 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny (Dz. U. Nr 88, poz. 554 i Nr 160, poz. 1083), który stanowi:
-„
+art. 18 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny (Dz. U. Nr 88, poz. 554 i Nr 160, poz. 1083), który stanowi: „
+Wystawienie i forma czeku
+Przeniesienie
+Poręczenie czekowe
+Przedstawienie i zapłata
+Czek zakreślony i czek rozrachunkowy
+Zwrotne poszukiwanie spowodu niezapłacenia
+Wtóropisy
+Zmiany
+Przedawnienie
+Przepisy ogólne
+Roszczenie z tytułu niesłusznego zbogacenia
+Skutki braku pokrycia
+Kolizja ustaw
+Protest
+Czeki zaginione
+Przepisy końcowe i przejściowe
+
+### Dział I – Wystawienie i forma czeku
+
+### Dział II – Przeniesienie
+
+### Dział III – Poręczenie czekowe
+
+### Dział IV – Przedstawienie i zapłata
+
+### Dział V – Czek zakreślony i czek rozrachunkowy
+
+### Dział VI – Zwrotne poszukiwanie spowodu niezapłacenia
+
+### Dział VII – Wtóropisy
+
+### Dział VIII – Zmiany
+
+### Dział IX – Przedawnienie
+
+### Dział X – Przepisy ogólne
+
+### Dział XI – Roszczenie z tytułu niesłusznego zbogacenia
+
+### Dział XII – Skutki braku pokrycia
+
+### Dział XIII – Kolizja ustaw
+
+### Dział XIV – Protest
+
+### Dział XV – Czeki zaginione
+
+### Dział XVI – Przepisy końcowe i przejściowe
 
 **Art. 18.** Ustawa wchodzi w życie z dniem 1 września 1998 r. ” ;
 
@@ -55,7 +101,7 @@ art. 18 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny
 
 **Art. 57.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem art. 50, art. 51 i art. 54, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 28 kwietnia 1936 r. Prawo czekowe
 
-### Dział I Wystawienie i forma czeku
+### Dział I
 
 **Art. 1.** Czek zawiera:
 
@@ -88,7 +134,7 @@ art. 18 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny
 
 **Art. 13.** Jeżeli czek, niezupełny w chwili wystawienia, uzupełniony został niezgodnie z zawartem porozumieniem, nie można wobec posiadacza zasłaniać się zarzutem, że nie zastosowano się do tego porozumienia, chyba że posiadacz nabył czek w złej wierze albo przy nabyciu dopuścił się rażącego niedbalstwa.
 
-### Dział II Przeniesienie
+### Dział II
 
 **Art. 14.** Czek, który został wystawiony na określoną osobę z dodaniem wyraźnego zastrzeżenia „na zlecenie” lub bez takiego zastrzeżenia, można przenieść przez indos. Czek, wystawiony na określoną osobę z dodaniem zastrzeżenia „nie na zlecenie” lub innego równoznacznego, można przenieść tylko w formie i ze skutkami zwykłego przelewu. Czek można indosować także na wystawcę lub na każdą inną osobę, czekowo zobowiązaną. Osoby te mogą czek dalej indosować.
 
@@ -114,7 +160,7 @@ art. 18 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny
 
 **Art. 24.** Indos, dokonany po proteście lub po równoznacznem stwierdzeniu albo po upływie terminu do przedstawienia, ma tylko skutki zwykłego przelewu. Aż do dowodu przeciwnego indos bez daty uważa się za dokonany przed protestem lub równoznacznem stwierdzeniem albo przed upływem terminu, wspomnianego w ustępie poprzedzającym.
 
-### Dział III Poręczenie czekowe
+### Dział III
 
 **Art. 25.** Zapłatę czeku można zabezpieczyć poręczeniem czekowem (aval) co do całości sumy czekowej lub co do jej części. Poręczenie może dać osoba trzecia, z wyjątkiem trasata, lub nawet osoba, podpisana na czeku.
 
@@ -122,7 +168,7 @@ art. 18 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny
 
 **Art. 27.** Poręczyciel czekowy odpowiada tak samo, jak ten, za kogo poręczył. Zobowiązanie poręczyciela jest ważne, chociażby nawet zobowiązanie, za które poręcza, było nieważne z jakiejkolwiek przyczyny z wyjątkiem wady formalnej. Poręczyciel czekowy, który zapłacił czek, nabywa prawa, wynikające z czeku, przeciw osobie, za którą poręczył, i przeciw tym, którzy wobec tej osoby odpowiadają z czeku.
 
-### Dział IV Przedstawienie i zapłata
+### Dział IV
 
 **Art. 28.** Czek jest płatny za okazaniem. Wszelką wzmiankę przeciwną uważa się za nienapisaną. Czek, przedstawiony do zapłaty przed dniem, wskazanym jako data wystawienia, jest płatny w dniu przedstawienia.
 
@@ -142,7 +188,7 @@ art. 18 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny
 
 **Art. 36.** Jeżeli czek wystawiono na walutę, która nie jest walutą miejsca płatności, sumę czekową można zapłacić w ciągu terminu do przedstawienia czeku w walucie krajowej podług jej wartości w dniu zapłaty. Jeżeli czek nie został zapłacony za przedstawieniem, posiadacz może żądać zapłaty sumy czekowej w walucie krajowej według swego wyboru albo podług jej kursu w dniu przedstawienia, albo podług jej kursu w dniu zapłaty. Wartość waluty zagranicznej oznacza się podług zwyczajów miejsca płatności. Wystawca jednak może zastrzec, że suma, przypadająca do zapłaty, ma być obliczona podług kursu, ustanowionego w czeku. Zasad powyższych nie stosuje się do przypadku, gdy wystawca zastrzegł, że zapłata ma być uiszczona w oznaczonej walucie (zastrzeżenie zapłaty rzeczywistej w walucie zagranicznej). Jeżeli czek wystawiono na walutę, mającą w kraju wystawienia i w kraju zapłaty tę samą nazwę, lecz inną wartość, domniemywa się, że miano na myśli walutę miejsca płatności.
 
-### Dział V Czek zakreślony i czek rozrachunkowy
+### Dział V
 
 **Art. 37.** Wystawca lub posiadacz czeku mogą zakreślić go ze skutkami, wskazanemi w artykule następnym. Zakreślenia dokonywa się przez umieszczenie na przedniej stronie czeku dwu linij równoległych. Zakreślenie może być ogólne lub szczególne. Zakreślenie jest ogólne, jeżeli między dwiema linjami niema żadnej wzmianki albo jeżeli znajduje się między niemi wyraz „bankier” lub inny równoznaczny; zakreślenie jest szczególne, jeżeli między dwiema linjami napisano nazwisko bankiera. Zakreślenie ogólne może być zmienione na szczególne, natomiast zakreślenia szczególnego nie można zmienić na ogólne. Przekreślenie zakreślenia albo nazwiska oznaczonego bankiera uważa się za niebyłe.
 
@@ -150,7 +196,7 @@ art. 18 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny
 
 **Art. 39.** Wystawca lub posiadacz czeku mogą zabronić zapłaty czeku w gotówce przez zamieszczenie wpoprzek na przedniej stronie czeku zastrzeżenia „przelać na rachunek” lub innego równoznacznego. W tym przypadku czek może być przez trasata użyty tylko do rozrachunku księgowego (przez uznanie na rachunku, rozliczenie lub potrącenie). Rozrachunek księgowy ma skutki zapłaty. Przekreślenie zastrzeżenia „przelać na rachunek” uważa się za niebyłe. W razie niezastosowania się do powyższych przepisów trasat odpowiada za szkodę do wysokości sumy czekowej.
 
-### Dział VI Zwrotne poszukiwanie spowodu niezapłacenia
+### Dział VI
 
 **Art. 40.** Posiadacz może wykonywać zwrotne poszukiwanie przeciwko indosantom, wystawcy, tudzież innym dłużnikom, jeżeli czek, mimo przedstawienia do zapłaty we właściwym czasie, nie został zapłacony, a odmowę zapłaty stwierdzono:
 
@@ -168,15 +214,13 @@ art. 18 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny
 
 **Art. 45.** Posiadacz czeku może żądać od zobowiązanego zwrotnie:
 
-- **1)** niezapłaconej sumy czekowej;
-- **2)** odsetek w wysokości sześć od sta, a przy czekach, wystawionych i płatnych w Polsce, odsetek ustawowych za opóźnienie od dnia przedstawienia;
+- **1)** niezapłaconej sumy czekowej; 2W brzmieniu ustalonym przez art. 4 pkt 1 ustawy z dnia 9 października 2015 r. o zmianie ustawy o terminach zapłaty w transakcjach handlowych, ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1830), która weszła w życie z dniem 1 stycznia 2016 r.) odsetek w wysokości sześć od sta, a przy czekach, wystawionych i płatnych w Polsce, odsetek ustawowych za opóźnienie od dnia przedstawienia;
 - **3)** kosztów protestu lub równoznacznego stwierdzenia, dokonanych zawiadomień, tudzież innych kosztów;
 - **4)** prowizji komisowej, która w braku umowy wynosi jedną szóstą od sta od sumy czekowej i nie może przekroczyć tej stopy.
 
 **Art. 46.** Kto czek wykupił, może żądać od swoich poprzedników:
 
-- **1)** całkowitej sumy zapłaconej;
-- **2)** odsetek w wysokości sześć od sta, a przy czekach, wystawionych i płatnych w Polsce, odsetek ustawowych za opóźnienie od powyższej sumy, licząc od dnia wykupienia czeku;
+- **1)** całkowitej sumy zapłaconej; 2W brzmieniu ustalonym przez art. 4 pkt 2 ustawy, o której mowa w odnośniku 1.) odsetek w wysokości sześć od sta, a przy czekach, wystawionych i płatnych w Polsce, odsetek ustawowych za opóźnienie od powyższej sumy, licząc od dnia wykupienia czeku;
 - **3)** własnych kosztów;
 - **4)** prowizji komisowej od sumy czekowej, obliczonej według art. 45 pkt 4).
 
@@ -184,23 +228,23 @@ art. 18 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny
 
 **Art. 48.** Jeżeli przedstawienie czeku, protest lub równoznaczne stwierdzenie nie mogą być dokonane w terminach przepisanych spowodu przeszkody nie do przezwyciężenia (ustawowego przepisu któregokolwiek państwa albo innego wypadku siły wyższej), terminy te ulegają przedłużeniu. Posiadacz obowiązany jest zawiadomić bez zwłoki swego indosanta o wypadku siły wyższej i o tem zawiadomieniu zaznaczyć na czeku lub na przedłużku z dodaniem daty i swego podpisu; pozatem stosuje się przepisy art. 42. Po ustaniu siły wyższej posiadacz czeku powinien bez zwłoki przedstawić czek do zapłaty, a w razie potrzeby dokonać protestu lub równoznacznego stwierdzenia. Jeżeli siła wyższa trwa dłużej niż piętnaście dni, licząc od dnia, w którym posiadacz zawiadomił swego indosanta o wypadku siły wyższej, chociażby nawet zawiadomienie takie nastąpiło jeszcze przed upływem terminu do przedstawienia, można wykonać zwrotne poszukiwanie bez przedstawienia czeku i bez protestu lub równoznacznego stwierdzenia. Okoliczności czysto osobistych, dotyczących posiadacza czeku lub osoby, której zlecił on przedstawienie czeku albo dokonanie protestu lub równoznacznego stwierdzenia, nie uważa się za wypadki siły wyższej.
 
-### Dział VII Wtóropisy
+### Dział VII
 
 **Art. 49.** Z wyjątkiem czeków na okaziciela każdy czek, wystawiony w jednym, a płatny w drugim kraju lub w części zamorskiej tego samego kraju i odwrotnie, albo też wystawiony i płatny w tej samej części zamorskiej lub w różnych częściach zamorskich tego samego kraju, może być wystawiony w kilku jednobrzmiących egzemplarzach. Jeżeli czek wystawia się w kilku egzemplarzach, powinny one być ponumerowane w samym tekście dokumentu, w przeciwnym razie każdy z egzemplarzy uważa się za czek odrębny.
 
 **Art. 50.** Zapłata, dokonana na jeden z egzemplarzy, zwalnia nawet wtedy, gdyby nie było na czeku zastrzeżenia, że taka zapłata pozbawia ważności inne egzemplarze. Indosant, który przeniósł egzemplarze na różne osoby, jako też następni indosanci odpowiadają ze wszystkich podpisanych przez siebie egzemplarzy, których im nie zwrócono.
 
-### Dział VIII Zmiany
+### Dział VIII
 
 **Art. 51.** W razie zmiany tekstu czeku osoby, które czek podpisały po dokonaniu zmiany, odpowiadają według brzmienia tekstu zmienionego; osoby, które czek poprzednio podpisały, odpowiadają według brzmienia tekstu pierwotnego.
 
-### Dział IX Przedawnienie
+### Dział IX
 
 **Art. 52.** Roszczenia z tytułu zwrotnego poszukiwania, służące posiadaczowi przeciw indosantom, wystawcy oraz innym dłużnikom, ulegają przedawnieniu z upływem sześciu miesięcy, licząc od końca terminu przedstawienia. Roszczenia z tytułu zwrotnego poszukiwania dłużników, zobowiązanych do zapłaty czeku, między sobą ulegają przedawnieniu z upływem sześciu miesięcy, licząc od dnia, w którym dłużnik wykupił czek albo w którym sam został pociągnięty z czeku do odpowiedzialności sądowej.
 
 **Art. 53.** Prawo powszechne określa przyczyny przerwania i zawieszenia biegu przedawnienia roszczeń czekowych. Przerwanie przedawnienia ma skutek jedynie wobec tego dłużnika czekowego, którego dotyczy przyczyna przerwania.
 
-### Dział X Przepisy ogólne
+### Dział X
 
 **Art. 54.** Wyraz „bankier” w rozumieniu prawa niniejszego oznacza:
 
@@ -213,17 +257,15 @@ państwowe i samorządowe zakłady kredytowe i kasy oszczędności; przedsiębio
 
 **Art. 58.** Trasat jest obowiązany odmówić zapłaty czeku, jeżeli doszło do jego wiadomości, że ogłoszono upadłość wystawcy.
 
-### Dział XI Roszczenie z tytułu niesłusznego zbogacenia
+### Dział XI
 
 **Art. 59.** Wystawca, którego zobowiązanie czekowe wygasło wskutek przedawnienia lub zaniedbania czynności zachowawczych, jest zobowiązany wobec posiadacza czeku, o ile z jego szkodą niesłusznie się zbogacił. Roszczenie z tytułu niesłusznego zbogacenia ulega przedawnieniu z upływem lat trzech, licząc od dnia wygaśnięcia zobowiązania czekowego.
 
-### Dział XII Skutki braku pokrycia
+### Dział XII
 
-**Art. 60.** Jeżeli zapłata czeku nie nastąpiła spowodu, że wystawca, wystawiając czek, nie miał u trasata potrzebnego funduszu do rozporządzenia, lub spowodu, że po wystawieniu czeku rozporządził pokryciem, wystawca odpowiada wobec posiadacza za wszelką szkodę, co najmniej zaś powinien mu zapłacić odsetki w wysokości sześć od sta od sumy niepokrytej. Roszczenia powyższe ulegają przedawnieniu z upływem lat trzech, licząc od dnia, w którym trasat odmówił zapłaty.
+**Art. 60.** Jeżeli zapłata czeku nie nastąpiła spowodu, że wystawca, wystawiając czek, nie miał u trasata potrzebnego funduszu do rozporządzenia, lub spowodu, że po wystawieniu czeku rozporządził pokryciem, wystawca odpowiada wobec posiadacza za wszelką szkodę, co najmniej zaś powinien mu zapłacić odsetki w wysokości sześć od sta od sumy niepokrytej. Roszczenia powyższe ulegają przedawnieniu z upływem lat trzech, licząc od dnia, w którym trasat odmówił zapłaty. Art. 61W brzmieniu ustalonym przez art. 5 § 2 pkt 4 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny (Dz. U. poz. 554 i 1083), która weszła w życie z dniem 1 września 1998 r.. Kto wystawia czek, nie mając u trasata potrzebnego funduszu do rozporządzenia, lub po wystawieniu czeku rozporządza pokryciem, jeżeli skutkiem tego zapłata czeku nie nastąpiła, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2. Jeżeli sprawca działa nieumyślnie, podlega grzywnie albo karze ograniczenia wolności.
 
-**Art. 61.** Kto wystawia czek, nie mając u trasata potrzebnego funduszu do rozporządzenia, lub po wystawieniu czeku rozporządza pokryciem, jeżeli skutkiem tego zapłata czeku nie nastąpiła, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2. Jeżeli sprawca działa nieumyślnie, podlega grzywnie albo karze ograniczenia wolności.
-
-### Dział XIII Kolizja ustaw
+### Dział XIII
 
 **Art. 62.** Zdolność osoby do zaciągania zobowiązań czekowych ocenia się według jej prawa ojczystego. Jeżeli prawo to uznaje za właściwe prawo innego kraju, należy je stosować. Kto według prawa, określonego w ustępie poprzedzającym, nie ma zdolności czekowej, mimo to jest ważnie zobowiązany, jeżeli podpisał czek w kraju, według którego ustaw miałby zdolność czekową. Przepisu tego nie stosuje się do obywatela polskiego, który zaciągnął zobowiązanie czekowe zagranicą.
 
@@ -249,7 +291,7 @@ państwowe i samorządowe zakłady kredytowe i kasy oszczędności; przedsiębio
 
 **Art. 68.** Formę i terminy protestu, tudzież formę innych czynności, potrzebnych do wykonania lub do zachowania praw czekowych, ocenia się podług ustaw kraju, w którym protest ma być dokonany lub czynność przedsięwzięta.
 
-### Dział XIV Protest
+### Dział XIV
 
 **Art. 69.** Protest sporządza notarjusz.
 
@@ -275,9 +317,9 @@ państwowe i samorządowe zakłady kredytowe i kasy oszczędności; przedsiębio
 
 **Art. 77.** Notarjusz obowiązany jest przechowywać osobno odpisy protestów wraz z wypisem istotnej treści czeku, zaopatrzone numerem, i odpisy te składać w porządku chronologicznym, w jakim protesty zostały sporządzone. Interesowanym mogą być na żądanie wydawane odpisy tych dokumentów z ich uwierzytelnieniem lub bez niego. Minister Sprawiedliwości określi w drodze rozporządzenia termin, po upływie którego dokumenty, wymienione w ustępie pierwszym, mogą być zniszczone, oraz sposób ich zniszczenia.
 
-### Dział XV Czeki zaginione
+### Dział XV
 
-**Art. 78.** Ten, komu czek zaginął, może żądać od sądu rejonowego miejsca płatności czeku uznania go za umorzony. We wniosku należy podać istotną treść czeku oraz uprawdopodobnić jego utratę, jak również interes prawny, który uzasadnia żądanie umorzenia. Sąd przez ogłoszenie w Monitorze Sądowym i Gospodarczym wezwie posiadacza zaginionego czeku do zgłoszenia się w ciągu sześćdziesięciu dni i do okazania czeku sądowi. Termin ten biegnie od dnia ogłoszenia. Końcowy dzień terminu powinien być oznaczony w ogłoszeniu według daty kalendarza. Jeżeli w ciągu terminu, oznaczonego w wezwaniu, nikt nie zgłosi się z czekiem, sąd wyda orzeczenie, uznające czek za umorzony. Jeżeli natomiast posiadacz czeku zgłosi się przed wydaniem orzeczenia, sąd umorzy dalsze postępowanie po przesłuchaniu interesowanych i po okazaniu czeku żądającemu umorzenia. Zarówno o wszczęciu postępowania, jako też o jego wyniku sąd zawiadomi trasata i wszystkich dłużników czekowych, wskazanych przez żądającego umorzenia czeku.
+**Art. 78.** Ten, komu czek zaginął, może żądać od sądu rejonowegoZe zmianą wprowadzoną przez art. 3 pkt 1 ustawy z dnia 10 marca 2006 r. o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz o zmianie niektórych innych ustaw (Dz. U. poz. 501), która weszła w życie z dniem 13 maja 2006 r. miejsca płatności czeku uznania go za umorzony. We wniosku należy podać istotną treść czeku oraz uprawdopodobnić jego utratę, jak również interes prawny, który uzasadnia żądanie umorzenia. Sąd przez ogłoszenie w Monitorze Sądowym i GospodarczymZe zmianą wprowadzoną przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 4. wezwie posiadacza zaginionego czeku do zgłoszenia się w ciągu sześćdziesięciu dni i do okazania czeku sądowi. Termin ten biegnie od dnia ogłoszenia. Końcowy dzień terminu powinien być oznaczony w ogłoszeniu według daty kalendarza. Jeżeli w ciągu terminu, oznaczonego w wezwaniu, nikt nie zgłosi się z czekiem, sąd wyda orzeczenie, uznające czek za umorzony. Jeżeli natomiast posiadacz czeku zgłosi się przed wydaniem orzeczenia, sąd umorzy dalsze postępowanie po przesłuchaniu interesowanych i po okazaniu czeku żądającemu umorzenia. Zarówno o wszczęciu postępowania, jako też o jego wyniku sąd zawiadomi trasata i wszystkich dłużników czekowych, wskazanych przez żądającego umorzenia czeku.
 
 **Art. 79.** Dłużnik czekowy oraz trasat, który po otrzymaniu zawiadomienia o wszczęciu postępowania płaci czek, czyni to na własne niebezpieczeństwo; wolno mu jednak sumę czekową złożyć do depozytu sądowego miejsca płatności i zwolnić się przez to z zobowiązania.
 
@@ -285,7 +327,7 @@ państwowe i samorządowe zakłady kredytowe i kasy oszczędności; przedsiębio
 
 **Art. 81.** Na podstawie orzeczenia, uznającego czek za umorzony, można wykonywać wszystkie prawa z czeku.
 
-### Dział XVI Przepisy końcowe i przejściowe
+### Dział XVI
 
 **Art. 82.** Z dniem wejścia w życie prawa niniejszego traci moc rozporządzenie Prezydenta Rzeczypospolitej z dnia 14 listopada 1924 r. o prawie czekowem (Dz. U. R. P. Nr 100, poz. 927).
 
@@ -299,5 +341,5 @@ państwowe i samorządowe zakłady kredytowe i kasy oszczędności; przedsiębio
 
 **Art. 87.** Wykonanie prawa niniejszego porucza się Ministrowi Sprawiedliwości.
 
-**Art. 88.** Ustawa niniejsza wchodzi w życie z dniem 1 lipca 1936 r.
+**Art. 88.** Ustawa niniejsza wchodzi w życie z dniem 1 lipca 1936 r. 1) W brzmieniu ustalonym przez art. 4 pkt 1 ustawy z dnia 9 października 2015 r. o zmianie ustawy o terminach zapłaty w transakcjach handlowych, ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1830), która weszła w życie z dniem 1 stycznia 2016 r. 2) W brzmieniu ustalonym przez art. 4 pkt 2 ustawy, o której mowa w odnośniku 1. 3) W brzmieniu ustalonym przez art. 5 § 2 pkt 4 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny (Dz. U. poz. 554 i 1083), która weszła w życie z dniem 1 września 1998 r. 4) Ze zmianą wprowadzoną przez art. 3 pkt 1 ustawy z dnia 10 marca 2006 r. o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz o zmianie niektórych innych ustaw (Dz. U. poz. 501), która weszła w życie z dniem 13 maja 2006 r. 5) Ze zmianą wprowadzoną przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 4.
 

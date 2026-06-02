@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-28 |
 | Data wydania | 2022-05-31 |
-| Wejście w życie | 2022-06-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001155) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1155/text.pdf) |
 
@@ -38,7 +37,7 @@ source: "eli-html"
 - **2)** pobierania stypendium w okresie odbywania szkolenia, stażu lub przygotowania zawodowego dorosłych, o którym mowa w art. 6 ust. 1 pkt 9a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, na które został skierowany przez inne niż powiatowy urząd pracy podmioty kierujące na szkolenie, staż lub przygotowanie zawodowe dorosłych,
 - **3)** pobierania stypendium na podstawie przepisów o promocji zatrudnienia i instytucjach rynku pracy w okresie odbywania studiów podyplomowych, o którym mowa w art. 6 ust. 1 pkt 9b ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych,
 - **4)** pełnienia czynnej służby wojskowej jako żołnierz niezawodowy, o której mowa w art. 6 ust. 1 pkt 11 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych,
-- **5)** odbywania służby zastępczej, o której mowa w art. 6 ust. 1 pkt 12 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych podlega nadal temu ubezpieczeniu pomimo objęcia go z tych tytułów innym ubezpieczeniem społecznym.
+- **5)** odbywania służby zastępczej, o której mowa w art. 6 ust. 1 pkt 12 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych – podlega nadal temu ubezpieczeniu pomimo objęcia go z tych tytułów innym ubezpieczeniem społecznym.
 
 2. Rolnik lub domownik, o którym mowa w ust. 1, może w każdym czasie odstąpić od ubezpieczenia, składając w Kasie oświadczenie o odstąpieniu od tego ubezpieczenia, nie wcześniej jednak niż od dnia, w którym to oświadczenie zostało złożone w Kasie. ” ;
 
@@ -67,10 +66,16 @@ source: "eli-html"
 - **2)** renty inwalidzkiej z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin w części równej 95% emerytury podstawowej ” , ust. 3 otrzymuje brzmienie: „
     - **c)**
 
-3. Wypłata ulega zawieszeniu w całości, jeżeli rencista nie zaprzestał prowadzenia działalności rolniczej, z zastrzeżeniem ust. 5–7 i 9–11. ” , w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Uznaje się, że rencista zaprzestał prowadzenia działalności rolniczej, jeżeli ani on, ani jego małżonek nie jest właścicielem (współwłaścicielem) lub posiadaczem gospodarstwa rolnego w rozumieniu przepisów o podatku rolnym i nie prowadzi działu specjalnego, nie uwzględniając: ” , – pkt 1 otrzymuje brzmienie: „ 1) gruntów wydzierżawionych, na podstawie umowy pisemnej zawartej – w przypadku renty stałej – co najmniej na 10 lat, a w przypadku renty okresowej – na okres wskazany w decyzji Prezesa Kasy o przyznaniu tej renty, której zawarcie potwierdził wójt, właściwy ze względu na miejsce położenia przedmiotu dzierżawy, osobie niebędącej: a) małżonkiem rencisty, b) osobą pozostającą z rencistą we wspólnym gospodarstwie domowym, c) małżonkiem osoby, o której mowa w lit. b; ” , – pkt 3 otrzymuje brzmienie: „ 3) gruntów i działów specjalnych należących do małżonka, z którym rencista zawarł związek małżeński po ustaleniu prawa do renty rolniczej z ubezpieczenia; ” , ust. 5 otrzymuje brzmienie: „
+3. Wypłata ulega zawieszeniu w całości, jeżeli rencista nie zaprzestał prowadzenia działalności rolniczej, z zastrzeżeniem ust. 5–7 i 9–11. ” , w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Uznaje się, że rencista zaprzestał prowadzenia działalności rolniczej, jeżeli ani on, ani jego małżonek nie jest właścicielem (współwłaścicielem) lub posiadaczem gospodarstwa rolnego w rozumieniu przepisów o podatku rolnym i nie prowadzi działu specjalnego, nie uwzględniając: ” , pkt 1 otrzymuje brzmienie: „
 
 - **d)**
-- **e)**
+- **1)** gruntów wydzierżawionych, na podstawie umowy pisemnej zawartej – w przypadku renty stałej – co najmniej na 10 lat, a w przypadku renty okresowej – na okres wskazany w decyzji Prezesa Kasy o przyznaniu tej renty, której zawarcie potwierdził wójt, właściwy ze względu na miejsce położenia przedmiotu dzierżawy, osobie niebędącej: małżonkiem rencisty, osobą pozostającą z rencistą we wspólnym gospodarstwie domowym, małżonkiem osoby, o której mowa w lit. b; ” , pkt 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** gruntów i działów specjalnych należących do małżonka, z którym rencista zawarł związek małżeński po ustaleniu prawa do renty rolniczej z ubezpieczenia; ” , ust. 5 otrzymuje brzmienie: „
+    - **e)**
 
 5. Jeżeli rencista jest całkowicie niezdolny do pracy wskutek wypadku przy pracy rolniczej albo rolniczej choroby zawodowej, wypłata świadczenia przez okres dwóch lat od tego wypadku albo od zachorowania na tę chorobę ulega zawieszeniu tylko w połowie. ” , w ust. 7 pkt 1 otrzymuje brzmienie: „
 
@@ -166,7 +171,7 @@ source: "eli-html"
 6. Podstawę skierowania na rehabilitację leczniczą lub turnusy regeneracyjne stanowią:
 
 - **1)** prawomocne orzeczenie lekarza rzeczoznawcy Kasy lub orzeczenie komisji lekarskiej Kasy, wydane w postępowaniu orzeczniczym dla ustalenia prawa do świadczenia z ubezpieczenia społecznego rolników, zawierające wskazania do rehabilitacji leczniczej, albo
-- **2)** wniosek sporządzony przez lekarza prowadzącego leczenie pozytywnie zaopiniowane przez lekarza regionalnego inspektora orzecznictwa lekarskiego Kasy, o którym mowa w przepisach wydanych na podstawie art. 46 ust. 4.
+- **2)** wniosek sporządzony przez lekarza prowadzącego leczenie – pozytywnie zaopiniowane przez lekarza regionalnego inspektora orzecznictwa lekarskiego Kasy, o którym mowa w przepisach wydanych na podstawie art. 46 ust. 4.
 
 7. Pierwszeństwo w skierowaniu na rehabilitację leczniczą ma osoba, dla której potrzeba rehabilitacji jest uzasadniona następstwem wypadku przy pracy rolniczej.
 
@@ -183,7 +188,7 @@ source: "eli-html"
 - **1)** warunki i tryb kwalifikacji wniosku o rehabilitację leczniczą albo turnus regeneracyjny oraz wzór tego wniosku,
 - **2)** przypadki i terminy ponownego kierowania na rehabilitację leczniczą albo turnus regeneracyjny,
 - **3)** okresy trwania rehabilitacji leczniczej i turnusów regeneracyjnych,
-- **4)** sposób i warunki zwrotu kosztów przejazdu mając na uwadze potrzeby osób kierowanych na rehabilitację leczniczą i turnusy regeneracyjne, w tym możliwość poprawy stanu zdrowia, kondycji psychofizycznej i jakości życia tych osób, a także kierując się koniecznością zapewnienia równego traktowania podmiotów leczniczych oraz przejrzystości i sprawności postępowania podczas przeprowadzania konkursu ofert. ” ;
+- **4)** sposób i warunki zwrotu kosztów przejazdu – mając na uwadze potrzeby osób kierowanych na rehabilitację leczniczą i turnusy regeneracyjne, w tym możliwość poprawy stanu zdrowia, kondycji psychofizycznej i jakości życia tych osób, a także kierując się koniecznością zapewnienia równego traktowania podmiotów leczniczych oraz przejrzystości i sprawności postępowania podczas przeprowadzania konkursu ofert. ” ;
 - **15)** w art. 77 w ust. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
 - **6)** wydatków i kosztów związanych z realizacją zadań wynikających z przepisów o szczególnych rozwiązaniach służących realizacji ustawy budżetowej. ” ;
 - **16)** w art. 80 w ust. 1 skreśla się wyrazy „21b,”.
@@ -204,7 +209,7 @@ source: "eli-html"
 
 5. Prezes Kasy Rolniczego Ubezpieczenia Społecznego nie wydaje decyzji o ustaniu ubezpieczenia społecznego rolników za okresy podlegania innemu ubezpieczeniu społecznemu przypadające przed dniem wejścia w życie niniejszej ustawy, jeżeli w danym przypadku są spełnione warunki określone w art. 5c ust. 1 ustawy zmienianej w art. 1.
 
-1. W 2022 r. do świadczeń emerytalno-rentowych wypłacanych z funduszu emerytalno-rentowego, o którym mowa w art. 78 ustawy zmienianej w art. 1, nie stosuje się przepisów art. 29 ust. 10 i 12 oraz art. 52 ust. 2 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.).
+1. W 2022 r. do świadczeń emerytalno-rentowych wypłacanych z funduszu emerytalno-rentowego, o którym mowa w art. 78 ustawy zmienianej w art. 1, nie stosuje się przepisów art. 29 ust. 10 i 12 oraz art. 52 ust. 2 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583, 655 i 1079.).
 
 2. O dokonanych zmianach planu finansowego państwowego funduszu celowego Prezes Kasy Rolniczego Ubezpieczenia Społecznego niezwłocznie informuje ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw rozwoju wsi.
 
@@ -231,5 +236,5 @@ source: "eli-html"
 
 4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest Prezes Kasy Rolniczego Ubezpieczenia Społecznego.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 14, który wchodzi w życie z dniem 1 stycznia 2023 r.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 14, który wchodzi w życie z dniem 1 stycznia 2023 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583, 655 i 1079.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 4 kwietnia 2013 r. w sprawie umowy określającej zasady współpracy między funduszem podstawowym a funduszem powiązanym oraz wewnętrznych zasad prowadzenia działalności w zakresie zarządzania funduszem podstawowym i funduszem powiązanym
+# Rozporządzenie Ministra Finansówz dnia 4 kwietnia 2013 r. w sprawie umowy określającej zasady współpracy między funduszem podstawowym a funduszem powiązanym oraz wewnętrznych zasad prowadzenia działalności w zakresie zarządzania funduszem podstawowym i funduszem powiązanym Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Komisji 2010/44/UE z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie niektórych przepisów dotyczących łączenia funduszy, modeli funduszy podstawowych i powiązanych oraz procedury powiadamiania (Dz. Urz. UE L 176 z 10.07.2010, str. 28, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-04-04 |
 | Data wydania | 2013-04-18 |
-| Wejście w życie | 2013-05-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000470) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/470/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 169c ust. 8 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 169c ust. 8 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 596, 1385 i 1529 oraz z 2013 r. poz. 70 i 433.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -133,5 +132,5 @@ w przypadku gdy fundusz powiązany i fundusz podstawowy mają wskazane te same l
 2)
 w przypadku gdy fundusz powiązany i fundusz podstawowy mają wskazane inne lata obrotowe – sposób i warunki udostępnienia przez fundusz podstawowy funduszowi powiązanemu wszelkich informacji niezbędnych do sporządzenia w terminie sprawozdania finansowego przez fundusz powiązany, oraz uzgodnienia umożliwiające podmiotowi uprawnionemu do badania sprawozdań finansowych funduszu podstawowego sporządzanie i przekazywanie dodatkowego raportu i opinii z badań lub dodatkowego raportu z przeglądów sprawozdania finansowego funduszu podstawowego, w tym sposób i terminy ich przekazywania podmiotowi uprawnionemu do badania sprawozdań finansowych funduszu powiązanego, umożliwiające uwzględnienie ich w opinii i raporcie z badania lub raporcie z przeglądu sprawozdania finansowego funduszu powiązanego.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Komisji 2010/44/UE z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie niektórych przepisów dotyczących łączenia funduszy, modeli funduszy podstawowych i powiązanych oraz procedury powiadamiania (Dz. Urz. UE L 176 z 10.07.2010, str. 28, z późn. zm.). 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 596, 1385 i 1529 oraz z 2013 r. poz. 70 i 433.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 kwietnia 2023 r. o wykonaniu Umowy o handlu i współpracy między Unią Europejską i Europejską Wspólnotą Energii Atomowej, z jednej strony, a Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej, z drugiej strony, w zakresie współpracy w sprawach karnych
+# Ustawa z dnia 14 kwietnia 2023 r. o wykonaniu Umowy o handlu i współpracy między Unią Europejską i Europejską Wspólnotą Energii Atomowej, z jednej strony, a Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej, z drugiej strony, w zakresie współpracy w sprawach karnych Niniejsza ustawa w zakresie swojej regulacji służy stosowaniu Umowy o handlu i współpracy między Unią Europejską i Europejską Wspólnotą Energii Atomowej, z jednej strony, a Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej, z drugiej strony (Dz. Urz. UE L 149 z 30.04.2021, str. 10) i decyzji Rady (UE) 2021/689 z dnia 29 kwietnia 2021 r. w sprawie zawarcia w imieniu Unii Umowy o handlu i współpracy między Unią Europejską i Europejską Wspólnotą Energii Atomowej, z jednej strony, a Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej, z drugiej strony, oraz Umowy między Unią Europejską a Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej w sprawie procedur bezpieczeństwa na potrzeby wymiany i ochrony informacji niejawnych (Dz. Urz. UE L 149 z 30.04.2021, str. 2), na mocy której Umowa ta weszła w życie.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-04-14 |
 | Data wydania | 2023-05-02 |
-| Wejście w życie | 2023-08-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000839) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/839/text.pdf) |
 
@@ -37,5 +36,5 @@ source: "eli-html"
 
 2. Przekazanie, o którym mowa w ust. 1, może nastąpić pod warunkiem, że czyn, którego nakaz dotyczy, nie został popełniony na terytorium Rzeczypospolitej Polskiej ani na polskim statku wodnym lub powietrznym oraz stanowił przestępstwo według prawa Rzeczypospolitej Polskiej lub stanowiłby przestępstwo według prawa Rzeczypospolitej Polskiej w razie popełnienia na terytorium Rzeczypospolitej Polskiej, zarówno w czasie jego popełnienia, jak i w chwili wpłynięcia nakazu.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji służy stosowaniu Umowy o handlu i współpracy między Unią Europejską i Europejską Wspólnotą Energii Atomowej, z jednej strony, a Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej, z drugiej strony (Dz. Urz. UE L 149 z 30.04.2021, str. 10) i decyzji Rady (UE) 2021/689 z dnia 29 kwietnia 2021 r. w sprawie zawarcia w imieniu Unii Umowy o handlu i współpracy między Unią Europejską i Europejską Wspólnotą Energii Atomowej, z jednej strony, a Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej, z drugiej strony, oraz Umowy między Unią Europejską a Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej w sprawie procedur bezpieczeństwa na potrzeby wymiany i ochrony informacji niejawnych (Dz. Urz. UE L 149 z 30.04.2021, str. 2), na mocy której Umowa ta weszła w życie.
 

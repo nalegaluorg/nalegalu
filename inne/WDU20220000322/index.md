@@ -26,18 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000322) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/322/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 19 grudnia 2013 r. w sprawie szczegółowych zadań pełnomocników ochrony w zakresie ochrony informacji niejawnych w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych Rozdział 1 – Przepisy ogólne Rozdział 2 – Miejsce i rola Pełnomocnika Ministra oraz pełnomocników ochrony kierowników bezpośrednio nadrzędnych jednostek organizacyjnych w resortowym systemie ochrony informacji niejawnych Rozdział 3 – Szczegółowe zadania pełnomocników ochrony kierowników jednostek organizacyjnych Rozdział 4 – Zakres, tryb i sposób współdziałania pełnomocników ochrony w zakresie ochrony informacji niejawnych z SKW Rozdział 5 – Szkolenie w zakresie ochrony informacji niejawnych Rozdział 6 – Zakres i szczególne wymagania dotyczące stosowania środków bezpieczeństwa fizycznego przeznaczonych do ochrony informacji niejawnych oraz kryteria tworzenia stref ochronnych Rozdział 7 – Tryb opracowywania oraz niezbędne elementy planów ochrony informacji niejawnych, a także sposób nadzorowania ich realizacji Rozdział 8 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 19 grudnia 2013 r. w sprawie szczegółowych zadań pełnomocników ochrony w zakresie ochrony informacji niejawnych w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 19 grudnia 2013 r. w sprawie szczegółowych zadań pełnomocników ochrony w zakresie ochrony informacji niejawnych w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych (Dz. U. z 2016 r. poz. 1720), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Obrony Narodowej z dnia 25 listopada 2020 r. zmieniającym rozporządzenie w sprawie szczegółowych zadań pełnomocników ochrony w zakresie ochrony informacji niejawnych w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych (Dz. U. poz. 2101).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 25 listopada 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych zadań pełnomocników ochrony w zakresie ochrony informacji niejawnych w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych (Dz. U. poz. 2101), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 25 listopada 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych zadań pełnomocników ochrony w zakresie ochrony informacji niejawnych w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych (Dz. U. poz. 2101), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 19 grudnia 2013 r. w sprawie szczegółowych zadań pełnomocników ochrony w zakresie ochrony informacji niejawnych w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych
 Na podstawie art. 18 ust. 1 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -65,6 +64,7 @@ rozliczanie funkcjonalne – rozliczanie z realizacji zadań prowadzone przez os
 kancelarie tajne międzynarodowe – funkcjonujące w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych kancelarie tajne zagraniczne, przetwarzające informacje niejawne międzynarodowe, wobec których wymagane jest utworzenie odrębnego systemu kancelaryjnego.
 2.
 Ilekroć w rozporządzeniu jest mowa o pionie ochrony, należy przez to rozumieć, w zależności od szczebla jednostki organizacyjnej, departament, oddział, zespół, wydział lub sekcję ochrony informacji niejawnych jako wyodrębnioną komórkę organizacyjną do spraw ochrony informacji niejawnych w rozumieniu art. 15 ust. 2 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych, zwanej dalej „ustawą”.
+Miejsce i rola Pełnomocnika Ministra oraz pełnomocników ochrony kierowników bezpośrednio nadrzędnych jednostek organizacyjnych w resortowym systemie ochrony informacji niejawnych
 § 3.
 1.
 Pełnomocnik Ministra pełni nadrzędną rolę w resortowym systemie ochrony informacji niejawnych.
@@ -139,6 +139,7 @@ b)
 specjalistyczne dla kandydatów na stanowiska w kancelariach tajnych i kancelariach tajnych międzynarodowych oraz innych niż kancelaria tajna komórkach organizacyjnych odpowiedzialnych za przetwarzanie materiałów niejawnych, z jednostek organizacyjnych, o których mowa w pkt 1,
 c)
 specjalistyczne uzupełniające dla pracowników kancelarii tajnej i kancelarii tajnej międzynarodowej oraz innych niż kancelaria tajna komórek organizacyjnych odpowiedzialnych za przetwarzanie materiałów niejawnych, z jednostek organizacyjnych, o których mowa w pkt 1.
+Szczegółowe zadania pełnomocników ochrony kierowników jednostek organizacyjnych
 § 5.
 1.
 Do szczegółowych zadań pełnomocnika ochrony należy:
@@ -206,6 +207,7 @@ w przypadku gdy umowy związane z dostępem do informacji niejawnych nie są rea
 sporządzanie i przedkładanie kierownikowi jednostki organizacyjnej okresowych analiz, ocen, sprawozdań oraz wniosków dotyczących przestrzegania w jednostce organizacyjnej przepisów o ochronie informacji niejawnych.
 2.
 Powierzenie pełnomocnikowi ochrony wykonywania innych zadań niż te, o których mowa w ust. 1, wymaga uzyskania pozytywnej opinii Pełnomocnika Ministra.
+Zakres, tryb i sposób współdziałania pełnomocników ochrony w zakresie ochrony informacji niejawnych z SKW
 § 6.
 1.
 Pełnomocnicy ochrony współdziałają z SKW w zakresie:
@@ -267,6 +269,7 @@ b)
 decyzję o odmowie wydania poświadczenia bezpieczeństwa,
 c)
 decyzję o cofnięciu posiadanego poświadczenia bezpieczeństwa.
+Szkolenie w zakresie ochrony informacji niejawnych
 § 7.
 W jednostkach organizacyjnych przeprowadza się następujące rodzaje szkoleń:
 1)
@@ -344,8 +347,9 @@ Terminy szkoleń, o których mowa w § 10 ust. 2 pkt 1–3, Pełnomocnik Ministr
 W uzasadnionych przypadkach szkolenie specjalistyczne może być organizowane w trybie roboczym, z pominięciem terminów określonych w ust. 6.
 8.
 (uchylony).
+Zakres i szczególne wymagania dotyczące stosowania środków bezpieczeństwa fizycznego przeznaczonych do ochrony informacji niejawnych oraz kryteria tworzenia stref ochronnych
 § 13.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 25 listopada 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych zadań pełnomocników ochrony w zakresie ochrony informacji niejawnych w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych (Dz. U. poz. 2101), które weszło w życie z dniem 28 listopada 2020 r..
 W celu zapewnienia w jednostce organizacyjnej skutecznej ochrony informacji niejawnych stosuje się środki bezpieczeństwa fizycznego obejmujące przedsięwzięcia organizacyjne, ochronę fizyczną i ochronę techniczną, z zastrzeżeniem § 15 ust. 10b.
 2.
 Ochrona fizyczna obejmuje zespół przedsięwzięć mających na celu zapewnienie stałej kontroli nad materiałami niejawnymi i jest realizowana przez osoby przeszkolone, w tym przez siły ochronne i służby dyżurne zapewniające między innymi kontrolę dostępu do pomieszczeń lub obszarów, rejonów, stref, w których są przetwarzane informacje niejawne, oraz nadzór nad technicznymi środkami wspomagającymi ochronę fizyczną, a także reagowanie na sygnały alarmowe lub techniczne.
@@ -429,13 +433,13 @@ W strefie ochronnej I i strefie ochronnej II przetwarza się informacje niejawne
 W strefie ochronnej III przetwarza się informacje niejawne do klauzuli „poufne” włącznie, bez możliwości przetwarzania w systemach teleinformatycznych informacji o klauzuli „poufne”.
 9.
 Przetwarzanie informacji niejawnych o klauzuli „poufne” lub wyższej w systemach teleinformatycznych odbywa się w strefie ochronnej I lub w strefie ochronnej II, w warunkach uwzględniających wyniki procesu szacowania ryzyka, o którym mowa w art. 49 ust. 1 ustawy.
-10.
+10W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1..
 Przekazywanie informacji niejawnych o klauzuli „poufne” lub wyższej pomiędzy elementami systemów teleinformatycznych odbywa się w strefie ochronnej, na podstawie wyników procesu szacowania ryzyka, o którym mowa w art. 49 ust. 1 ustawy.
-10a.
+10aDodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Przetwarzanie informacji niejawnych o klauzuli „zastrzeżone” w systemach teleinformatycznych odbywa się w pomieszczeniu, zespole pomieszczeń lub obszarze wyposażonych w system kontroli dostępu, w warunkach uwzględniających wyniki procesu szacowania ryzyka, o którym mowa w art. 49 ust. 1 ustawy.
-10b.
+10bDodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Przetwarzanie informacji niejawnych w części mobilnej zasobów systemu teleinformatycznego odbywa się na podstawie wyników procesu szacowania ryzyka, o którym mowa w art. 49 ust. 1 ustawy, w sposób określony w dokumentacji bezpieczeństwa systemu teleinformatycznego.
-10c.
+10cDodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Zgodę na przetwarzanie informacji niejawnych, o których mowa w ust. 10a, poza strefami ochronnymi wydaje na wniosek kierownika jednostki organizującej system teleinformatyczny Minister Obrony Narodowej lub osoba przez niego upoważniona.
 11.
 Newralgiczne elementy systemów teleinformatycznych przeznaczonych do przetwarzania informacji niejawnych o klauzuli „zastrzeżone”, w szczególności serwery, systemy zarządzania siecią, kontrolery sieciowe umieszcza się w strefie ochronnej z uwzględnieniem wyników procesu szacowania ryzyka, o którym mowa w art. 49 ust. 1 ustawy.
@@ -455,6 +459,7 @@ Tablice, o których mowa w ust. 1, umieszcza się przy wejściu do strefy, w wid
 W warunkach tymczasowych, poza miejscem stałej lokalizacji jednostki organizacyjnej, można odstąpić od oznaczania stref ochronnych, jeśli demaskowałoby to stanowiska lub punkty dowodzenia (kierowania) lub inne urządzenia.
 2.
 Organizacja stref ochronnych oraz sposób ich oznaczania w przypadku przetwarzania informacji niejawnych w mobilnych systemach teleinformatycznych odbywa się na podstawie wyników procesu szacowania ryzyka, o których mowa w art. 49 ust. 1 ustawy, w sposób określony w dokumentacji bezpieczeństwa systemu teleinformatycznego.
+Tryb opracowywania oraz niezbędne elementy planów ochrony informacji niejawnych, a także sposób nadzorowania ich realizacji
 § 18.
 1.
 Ochrona informacji niejawnych w jednostce organizacyjnej jest organizowana i realizowana na podstawie planu ochrony informacji niejawnych.
@@ -490,6 +495,7 @@ technicznych środków wspomagających ochronę informacji niejawnych;
 systemu przepustkowego i kontroli dostępu, przechowywania, wydawania oraz zdawania kluczy i kodów oraz przestrzegania zasad używania urządzeń do rejestracji, kopiowania lub transmisji obrazu i dźwięku w strefach ochronnych.
 2.
 Pełnomocnik ochrony, w zakresie realizacji zadań, o których mowa w ust. 1, współdziała z Żandarmerią Wojskową, Policją, jednostkami organizacyjnymi stacjonującymi w tym samym kompleksie (obiekcie) wojskowym oraz innymi organami porządkowymi i siłami ratowniczymi stosownie do zawartych porozumień w tym zakresie.
+Przepisy przejściowe i końcowe
 § 21.
 1.
 Organizację stref ochronnych należy dostosować do wymagań określonych w rozporządzeniu w terminie 2 lat od dnia jego wejścia w życie.
@@ -498,22 +504,37 @@ Plany ochrony informacji niejawnych należy dostosować do wymagań określonych
 § 22.
 Traci moc rozporządzenie Ministra Obrony Narodowej z dnia 2 listopada 2011 r. w sprawie szczegółowych zadań pełnomocników ochrony w zakresie ochrony informacji niejawnych w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych (Dz. U. poz. 1519).
 § 23.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
-1) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 25 listopada 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych zadań pełnomocników ochrony w zakresie ochrony informacji niejawnych w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych (Dz. U. poz. 2101), które weszło w życie z dniem 28 listopada 2020 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1. 3) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r. 1) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 25 listopada 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych zadań pełnomocników ochrony w zakresie ochrony informacji niejawnych w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych (Dz. U. poz. 2101), które weszło w życie z dniem 28 listopada 2020 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1. 3) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Miejsce i rola Pełnomocnika Ministra oraz pełnomocników ochrony kierowników bezpośrednio nadrzędnych jednostek organizacyjnych w resortowym systemie ochrony informacji niejawnych
+#### Rozdział 2 – Miejsce i rola Pełnomocnika Ministra oraz pełnomocników ochrony kierowników bezpośrednio nadrzędnych jednostek organizacyjnych w resortowym systemie ochrony informacji niejawnych
 
-#### Rozdział 3 Szczegółowe zadania pełnomocników ochrony kierowników jednostek organizacyjnych
+#### Rozdział 3 – Szczegółowe zadania pełnomocników ochrony kierowników jednostek organizacyjnych
 
-#### Rozdział 4 Zakres, tryb i sposób współdziałania pełnomocników ochrony w zakresie ochrony informacji niejawnych z SKW
+#### Rozdział 4 – Zakres, tryb i sposób współdziałania pełnomocników ochrony w zakresie ochrony informacji niejawnych z SKW
 
-#### Rozdział 5 Szkolenie w zakresie ochrony informacji niejawnych
+#### Rozdział 5 – Szkolenie w zakresie ochrony informacji niejawnych
 
-#### Rozdział 6 Zakres i szczególne wymagania dotyczące stosowania środków bezpieczeństwa fizycznego przeznaczonych do ochrony informacji niejawnych oraz kryteria tworzenia stref ochronnych
+#### Rozdział 6 – Zakres i szczególne wymagania dotyczące stosowania środków bezpieczeństwa fizycznego przeznaczonych do ochrony informacji niejawnych oraz kryteria tworzenia stref ochronnych
 
-#### Rozdział 7 Tryb opracowywania oraz niezbędne elementy planów ochrony informacji niejawnych, a także sposób nadzorowania ich realizacji
+#### Rozdział 7 – Tryb opracowywania oraz niezbędne elementy planów ochrony informacji niejawnych, a także sposób nadzorowania ich realizacji
 
-#### Rozdział 8 Przepisy przejściowe i końcowe
+#### Rozdział 8 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

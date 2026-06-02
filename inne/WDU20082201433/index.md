@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-11-21 |
 | Data wydania | 2008-12-12 |
-| Wejście w życie | 2008-12-27 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082201433) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1433/text.pdf) |
 
@@ -31,7 +30,7 @@ source: "eli-html"
 - **1)** w art. 1 uchyla się ust. 3;
 - **2)** w art. 16 ust. 1–5 otrzymują brzmienie: „
 
-1. Prowadzenie zakładu leczniczego dla zwierząt jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.).
+1. Prowadzenie zakładu leczniczego dla zwierząt jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280 oraz z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888, Nr 171, poz. 1056 i Nr 216, poz. 1367.).
 
 2. Zakład leczniczy dla zwierząt świadczy usługi weterynaryjne po uzyskaniu wpisu do ewidencji zakładów leczniczych dla zwierząt, zwanej dalej „ewidencją”. Ewidencja jest rejestrem działalności regulowanej w rozumieniu przepisów ustawy, o której mowa w ust. 1.
 
@@ -84,7 +83,7 @@ source: "eli-html"
 - **4)** w art. 19: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. W przypadku stwierdzenia, że zakład leczniczy dla zwierząt przestał spełniać wymogi określone odpowiednio w art. 5–11 lub narusza inne przepisy ustawy albo zostało stwierdzone naruszenie przepisów ustawy z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. z 2002 r. Nr 187, poz. 1567, z późn. zm.), okręgowa izba lekarsko-weterynaryjna wyznacza termin do usunięcia uchybień, a po jego bezskutecznym upływie może podjąć uchwałę o skreśleniu zakładu z ewidencji. ” , uchyla się ust. 7;
+1. W przypadku stwierdzenia, że zakład leczniczy dla zwierząt przestał spełniać wymogi określone odpowiednio w art. 5–11 lub narusza inne przepisy ustawy albo zostało stwierdzone naruszenie przepisów ustawy z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. z 2002 r. Nr 187, poz. 1567, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2052, z 2003 r. Nr 59, poz. 532 i Nr 208, poz. 2018, z 2004 r. Nr 11, poz. 95 oraz z 2008 r. Nr 43, poz. 258.), okręgowa izba lekarsko-weterynaryjna wyznacza termin do usunięcia uchybień, a po jego bezskutecznym upływie może podjąć uchwałę o skreśleniu zakładu z ewidencji. ” , uchyla się ust. 7;
 
 - **b)**
 - **5)** w art. 20 uchyla się ust. 2;
@@ -103,5 +102,5 @@ source: "eli-html"
 
 3. Podmioty prowadzące zakłady lecznicze dla zwierząt, które nie dopełnią obowiązku, o którym mowa w ust. 2, właściwa okręgowa rada lekarsko-weterynaryjna skreśla z ewidencji zakładów leczniczych dla zwierząt.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280 oraz z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888, Nr 171, poz. 1056 i Nr 216, poz. 1367. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2052, z 2003 r. Nr 59, poz. 532 i Nr 208, poz. 2018, z 2004 r. Nr 11, poz. 95 oraz z 2008 r. Nr 43, poz. 258.
 

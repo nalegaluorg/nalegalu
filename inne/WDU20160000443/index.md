@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 lutego 2016 r. o zmianie ustawy o radiofonii i telewizji
+# Ustawa z dnia 25 lutego 2016 r. o zmianie ustawy o radiofonii i telewizji Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/13/UE z dnia 10 marca 2010 r. w sprawie koordynacji niektórych przepisów ustawowych, wykonawczych i administracyjnych państw członkowskich dotyczących świadczenia audiowizualnych usług medialnych (dyrektywa o audiowizualnych usługach medialnych) (Dz. Urz. UE L 95 z 15.04.2010, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-02-25 |
 | Data wydania | 2016-04-04 |
-| Wejście w życie | 2016-07-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000443) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/443/text.pdf) |
 
@@ -47,5 +46,5 @@ source: "eli-html"
 
 2. W przypadku niezłożenia wniosku o wydanie decyzji, o której mowa w art. 15 ust. 3a ustawy zmienianej w art. 1, albo jego nieuwzględnienia stosuje się przepisy ustawy zmienianej w art. 1.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/13/UE z dnia 10 marca 2010 r. w sprawie koordynacji niektórych przepisów ustawowych, wykonawczych i administracyjnych państw członkowskich dotyczących świadczenia audiowizualnych usług medialnych (dyrektywa o audiowizualnych usługach medialnych) (Dz. Urz. UE L 95 z 15.04.2010, str. 1).
 

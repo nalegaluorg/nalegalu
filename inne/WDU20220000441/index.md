@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-02-07 |
 | Data wydania | 2022-02-22 |
-| Wejście w życie | 2022-03-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000441) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/441/text.pdf) |
 
@@ -33,24 +32,29 @@ W rozporządzeniu Rady Ministrów z dnia 15 czerwca 2004 r. w sprawie warunków 
 1)
 w § 10 w ust. 1 w pkt 2:
 a)
-lit. e otrzymuje brzmienie:
-„
+lit. e otrzymuje brzmienie: „
 e)
-organizacji ćwiczenia obronnego,
-” ,
+organizacji ćwiczenia obronnego, ” ,
 b)
-w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu:
-„
+w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „
 g)
-organizacji kursów obronnych i wyższych kursów obronnych organizowanych przez Ministra Obrony Narodowej;
-” ;
+organizacji kursów obronnych i wyższych kursów obronnych organizowanych przez Ministra Obrony Narodowej; ” ;
 2)
 w § 12:
 a)
 w ust. 1 uchyla się pkt 2, 3 i 5,
 b)
 w ust. 2:
-– w pkt 1: – – lit. a otrzymuje brzmienie: „ a) do dnia 30 września w latach parzystych – w przypadku dokumentów, o których mowa w ust. 1 pkt 4, ” , – – uchyla się lit. b, – w pkt 2: – – lit. a otrzymuje brzmienie: „ a) do dnia 28 lutego każdego roku – w przypadku dokumentów, o których mowa w ust. 1 pkt 1, ” , – – uchyla się lit. b,
+w pkt 1:
+– lit. a otrzymuje brzmienie: „
+a)
+do dnia 30 września w latach parzystych – w przypadku dokumentów, o których mowa w ust. 1 pkt 4, ” ,
+– – uchyla się lit. b,
+w pkt 2:
+– lit. a otrzymuje brzmienie: „
+a)
+do dnia 28 lutego każdego roku – w przypadku dokumentów, o których mowa w ust. 1 pkt 1, ” ,
+– – uchyla się lit. b,
 c)
 uchyla się ust. 3.
 § 2.

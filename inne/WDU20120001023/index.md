@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-09-04 |
 | Data wydania | 2012-09-17 |
-| Wejście w życie | 2012-10-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001023) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1023/text.pdf) |
 
@@ -74,7 +73,7 @@ Przepisu ust. 1 pkt 2 nie stosuje się do przedstawicieli służb państwowych i
 3.
 Przepisu ust. 1 pkt 4 nie stosuje się do substancji psychotropowych stosowanych w wyniku udokumentowanego zalecenia lekarza.
 4.
-Nie wymaga zgody zarządzającego lotniskiem realizacja materiałów prasowych na podstawie ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. Nr 5, poz. 24, z późn. zm.), z zastrzeżeniem ust. 1 pkt 7.
+Nie wymaga zgody zarządzającego lotniskiem realizacja materiałów prasowych na podstawie ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. Nr 5, poz. 24, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 34, poz. 187, z 1990 r. Nr 29, poz. 173, z 1991 r. Nr 100, poz. 442, z 1996 r. Nr 114, poz. 542, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 90, poz. 999, z 2001 r. Nr 112, poz. 1198, z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 111, poz. 1181, z 2005 r. Nr 39, poz. 377, z 2007 r. Nr 89, poz. 590, z 2010 r. Nr 182, poz. 1228 i Nr 235, poz. 1551 oraz z 2011 r. Nr 85, poz. 459, Nr 156, poz. 934, Nr 205, poz. 1204 i Nr 282, poz. 1660.), z zastrzeżeniem ust. 1 pkt 7.
 § 3.
 Wszystkie osoby znajdujące się na terenie lotniska są obowiązane do:
 1)
@@ -84,5 +83,5 @@ stosowania się do poleceń funkcjonariuszy Straży Granicznej, Policji i służ
 3)
 podporządkowania się poleceniom służb ratowniczych oraz funkcjonariuszy Straży Granicznej, Policji i służby ochrony lotniska w czasie prowadzenia działań ratowniczych, ewakuacyjnych, zabezpieczających i prewencyjnych w zakresie bezpieczeństwa.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 34, poz. 187, z 1990 r. Nr 29, poz. 173, z 1991 r. Nr 100, poz. 442, z 1996 r. Nr 114, poz. 542, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 90, poz. 999, z 2001 r. Nr 112, poz. 1198, z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 111, poz. 1181, z 2005 r. Nr 39, poz. 377, z 2007 r. Nr 89, poz. 590, z 2010 r. Nr 182, poz. 1228 i Nr 235, poz. 1551 oraz z 2011 r. Nr 85, poz. 459, Nr 156, poz. 934, Nr 205, poz. 1204 i Nr 282, poz. 1660.
 

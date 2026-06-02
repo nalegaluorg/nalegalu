@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-12-29 |
 | Data wydania | 2006-01-25 |
-| Wejście w życie | 2006-02-09 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060120067) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/67/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. Nr 228, poz. 2255, z późn. zm.) wprowadza się następujące zmiany:
+Jednorazowa zapomoga z tytułu urodzenia się dziecka
+
+**Art. 1.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. Nr 228, poz. 2255, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 35, poz. 305, Nr 64, poz. 593, Nr 99, poz. 1001 i Nr 192, poz. 1963 oraz z 2005 r. Nr 64, poz. 565, Nr 86, poz. 732, Nr 94, poz. 788, Nr 95, poz. 806, Nr 143, poz. 1199, Nr 164, poz. 1366, Nr 233, poz. 1994 i Nr 267, poz. 2260.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 dodaje się pkt 3 i 4 w brzmieniu: „
 - **3)** zapomoga wypłacana przez gminy, na podstawie art. 22a;
@@ -34,7 +35,7 @@ source: "eli-html"
 - **2)** w art. 9 uchyla się ust. 5;
 - **3)** dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Jednorazowa zapomoga z tytułu urodzenia się dziecka
+#### Rozdział 2a
 
 **Art. 15b.**
 
@@ -62,5 +63,5 @@ source: "eli-html"
 
 1. Prawo do świadczeń rodzinnych ustala się na okres zasiłkowy, z wyjątkiem świadczeń, o których mowa w art. 9, 14–16 i 15b. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 35, poz. 305, Nr 64, poz. 593, Nr 99, poz. 1001 i Nr 192, poz. 1963 oraz z 2005 r. Nr 64, poz. 565, Nr 86, poz. 732, Nr 94, poz. 788, Nr 95, poz. 806, Nr 143, poz. 1199, Nr 164, poz. 1366, Nr 233, poz. 1994 i Nr 267, poz. 2260.
 

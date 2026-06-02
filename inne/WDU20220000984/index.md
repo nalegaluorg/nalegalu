@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-07 |
 | Data wydania | 2022-05-11 |
-| Wejście w życie | 2022-06-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000984) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/984/text.pdf) |
 
@@ -33,7 +32,7 @@ source: "eli-html"
 1. Informacja o:
 
 - **1)** zarejestrowaniu w systemie teleinformatycznym sprawy obejmująca numer w Rejestrze, sygnaturę sprawy i datę rejestracji sprawy albo
-- **2)** dokonaniu wpisu w pozycji Rejestru obejmująca numer w Rejestrze, sygnaturę sprawy, datę dokonania wpisu i numer wpisu dotycząca podmiotu wpisanego do rejestru, o którym mowa w art. 1 ust. 2 pkt 1 lub 2, jest automatycznie przesyłana za pośrednictwem systemu teleinformatycznego każdemu, kto za pośrednictwem tego systemu wskazał numer w Rejestrze podmiotu, którego informacja ta ma dotyczyć.
+- **2)** dokonaniu wpisu w pozycji Rejestru obejmująca numer w Rejestrze, sygnaturę sprawy, datę dokonania wpisu i numer wpisu – dotycząca podmiotu wpisanego do rejestru, o którym mowa w art. 1 ust. 2 pkt 1 lub 2, jest automatycznie przesyłana za pośrednictwem systemu teleinformatycznego każdemu, kto za pośrednictwem tego systemu wskazał numer w Rejestrze podmiotu, którego informacja ta ma dotyczyć.
 
 2. Informacje, o których mowa w ust. 1, są przesyłane przez wskazany okres, nie dłużej niż przez rok, albo do chwili rezygnacji z otrzymywania tych informacji. Dopuszczalne jest przedłużanie tego okresu, każdorazowo na czas nie dłuższy niż rok.
 

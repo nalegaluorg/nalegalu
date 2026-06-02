@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1989-04-07 |
 | Data wydania | 1989-04-10 |
-| Wejście w życie | 1989-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890200107) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1989/107/text.pdf) |
+
+Grupowa organizacja pracy
 
 **Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. Nr 24, poz. 141, z 1975 r. Nr 16, poz. 91, z 1981 r. Nr 6, poz. 23, z 1982 r. Nr 31, poz. 214, z 1985 r. Nr 20, poz. 85 i Nr 35, poz. 162, z 1986 r. Nr 42, poz. 201, z 1987 r. Nr 21, poz. 124 oraz z 1988 r. Nr 20, poz. 134) wprowadza się następujące zmiany:
 
@@ -232,7 +233,7 @@ source: "eli-html"
 - **42)** w art. 281–283 liczbę „5000” zastępuje się liczbą „50 000”;
 - **43)** dodaje się dział czternastya w brzmieniu: „
 
-### Dział CZTERNASTYa Grupowa organizacja pracy
+### Dział CZTERNASTYa
 
 **Art. 2951.**
 

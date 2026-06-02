@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-05-30 |
 | Data wydania | 2014-06-24 |
-| Wejście w życie | 2014-07-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000829) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/829/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. Nr 17, poz. 141, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. Nr 17, poz. 141, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 62, poz. 550 oraz z 2009 r. Nr 31, poz. 206 i Nr 157, poz. 1241.) wprowadza się następujące zmiany:
 
 - **1)** art. 1 otrzymuje brzmienie: „ Ustawa reguluje sprawy związane z zachowaniem i rozwojem tożsamości kulturowej mniejszości narodowych i etnicznych, zachowaniem i rozwojem języka regionalnego, integracją obywatelską i społeczną osób należących do mniejszości narodowych i etnicznych, a także sposób realizacji zasady równego traktowania osób bez względu na pochodzenie etniczne oraz określa zadania i kompetencje organów administracji rządowej i jednostek samorządu terytorialnego w zakresie tych spraw. ” ;
 - **2)** w art. 3 w pkt 2 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
@@ -63,5 +62,5 @@ source: "eli-html"
 
 - **2)** związane z zachowaniem i rozwojem tożsamości kulturowej mniejszości narodowych i etnicznych, integracją obywatelską i społeczną osób należących do tych mniejszości, a także zachowaniem i rozwojem języka regionalnego. ” .
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 62, poz. 550 oraz z 2009 r. Nr 31, poz. 206 i Nr 157, poz. 1241.
 

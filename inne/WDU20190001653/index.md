@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 23 sierpnia 2019 r. w sprawie dofinansowania doskonalenia zawodowego nauczycieli, szczegółowych celów szkolenia branżowego oraz trybu i warunków kierowania nauczycieli na szkolenia branżowe
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 23 sierpnia 2019 r. w sprawie dofinansowania doskonalenia zawodowego nauczycieli, szczegółowych celów szkolenia branżowego oraz trybu i warunków kierowania nauczycieli na szkolenia branżowe Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-23 |
 | Data wydania | 2019-08-30 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001653) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1653/text.pdf) |
 
@@ -49,8 +48,7 @@ koszty wynagrodzenia osób prowadzących:
 a)
 daną formę doskonalenia zawodowego nauczycieli, o której mowa w art. 70a ust. 3a pkt 1 ustawy,
 b)
-działania w ramach wspomagania szkół oraz sieci współpracy i samokształcenia dla nauczycieli
-niebędących pracownikami publicznej placówki doskonalenia nauczycieli, publicznej biblioteki pedagogicznej lub publicznej poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, która tę formę, wspomaganie lub sieć organizuje;
+działania w ramach wspomagania szkół oraz sieci współpracy i samokształcenia dla nauczycieli – niebędących pracownikami publicznej placówki doskonalenia nauczycieli, publicznej biblioteki pedagogicznej lub publicznej poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, która tę formę, wspomaganie lub sieć organizuje;
 3)
 opłaty pobierane za formy doskonalenia zawodowego nauczycieli, o których mowa w art. 70a ust. 3a pkt 1, 2 i 4 ustawy;
 4)
@@ -178,6 +176,5 @@ Wnioski o dofinansowanie doskonalenia zawodowego nauczycieli złożone i nierozp
 2.
 Wnioski nauczycieli o zwrot opłat lub kosztów złożone i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia rozpatruje się zgodnie z przepisami dotychczasowymi.
 § 14.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 18 stycznia 2019 r. w sprawie dofinansowania doskonalenia zawodowego nauczycieli (Dz. U. poz. 136), które traci moc z dniem 1 września 2019 r. w związku z wejściem w życie ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 18 stycznia 2019 r. w sprawie dofinansowania doskonalenia zawodowego nauczycieli (Dz. U. poz. 136), które traci moc z dniem 1 września 2019 r. w związku z wejściem w życie ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287). 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 18 stycznia 2019 r. w sprawie dofinansowania doskonalenia zawodowego nauczycieli (Dz. U. poz. 136), które traci moc z dniem 1 września 2019 r. w związku z wejściem w życie ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
 

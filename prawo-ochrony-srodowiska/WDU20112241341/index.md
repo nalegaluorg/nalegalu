@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-31 |
 | Data wydania | 2011-10-19 |
-| Wejście w życie | 2011-11-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112241341) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1341/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657 oraz z 2011 r. Nr 32, poz. 159, Nr 63, poz. 322, Nr 94, poz. 551, Nr 99, poz. 569, Nr 122, poz. 695, Nr 152, poz. 897 i Nr 178, poz. 1060.) wprowadza się następujące zmiany:
 
 - **1)** art. 410d otrzymuje brzmienie: „
 
@@ -84,5 +83,5 @@ source: "eli-html"
 
 11. Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej informuje ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw środowiska o przekazaniu środków na dochody budżetu państwa, w terminie 5 dni roboczych od dnia przekazania środków, wskazując zadania realizowane przez państwowe jednostki budżetowe, w celu dofinansowania których są przekazywane te środki.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657 oraz z 2011 r. Nr 32, poz. 159, Nr 63, poz. 322, Nr 94, poz. 551, Nr 99, poz. 569, Nr 122, poz. 695, Nr 152, poz. 897 i Nr 178, poz. 1060.
 

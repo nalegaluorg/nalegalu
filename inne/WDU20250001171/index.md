@@ -22,7 +22,6 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-07-09 |
 | Data wydania | 2025-08-26 |
-| Wejście w życie | 2025-12-09 |
 | Ostatnia zmiana | 2025-09-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001171) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1171/text.pdf) |
 
@@ -32,12 +31,12 @@ USTAWA 9 lipca 2025 zmianie ustawy Prawo konsularne
 
 - **a)** dyrektywę 2004/38/WE 29 kwietnia 2004 sprawie prawa obywateli Unii członków ich rodzin do swobodnego przemieszczania się pobytu na terytorium Państw Członkowskich, zmieniającą rozporządzenie (EWG) nr 1612/68 uchylającą dyrektywy 64/221/EWG, 68/360/EWG, 72/194/EWG, 73/148/EWG, 75/34/EWG, 75/35/EWG, 90/364/EWG, 90/365/EWG 93/96/EWG (Dz. 158 30.04.2004, str. 77),
 - **b)** dyrektywę Rady 2015/637 20 kwietnia 2015 sprawie środków koordynacji współpracy mających ułatwić ochronę konsularną niereprezentowanych obywateli Unii państwach trzecich oraz uchylającą decyzję 95/553/WE (Dz. 106 24.04.2015, str. 1);
-- **2)** wdraża: 2024/1986 16.07.2024),
-    - **a)** dyrektywę Rady 2019/997 18 czerwca 2019 ustanawiającą unijny tymczasowy dokument oraz uchylającą decyzję 96/409/WPZiB (Dz. 163 20.06.2019, str. 1 oraz Dz.
+- **2)** wdraża:
+    - **a)** dyrektywę Rady 2019/997 18 czerwca 2019 ustanawiającą unijny tymczasowy dokument oraz uchylającą decyzję 96/409/WPZiB (Dz. 163 20.06.2019, str. 1 oraz 2024/1986 16.07.2024),
     - **b)** dyrektywę delegowaną Komisji 2024/1986 6 maja 2024 zmieniającą dyrektywę Rady 2019/997 odniesieniu do pola przeznaczonego do odczytu maszynowego unijnym tymczasowym dokumencie (Dz. 2024/1986 16.07.2024);
 
 - **3)** służy stosowaniu:
-    - **a)** decyzji wykonawczej Komisji 2022/2452 8 grudnia 2022 określającej dodatkowe specyfikacje techniczne dotyczące unijnego tymczasowego dokumentu ustanowionego dyrektywą Rady 2019/997 (Dz. 320 14.12.2022, str. 47 oraz Dz. 15.10.2024), formularz wniosku wydanie unijnego tymczasowego dokumentu zmieniającej decyzję wykonawczą 2022/2452 (Dz. 15.10.2024).”;
+    - **a)** decyzji wykonawczej Komisji 2022/2452 8 grudnia 2022 określającej dodatkowe specyfikacje techniczne dotyczące unijnego tymczasowego dokumentu ustanowionego dyrektywą Rady 2019/997 (Dz. 320 14.12.2022, str. 47 oraz 15.10.2024), formularz wniosku wydanie unijnego tymczasowego dokumentu zmieniającej decyzję wykonawczą 2022/2452 (Dz. 15.10.2024).”;
 
 - **2)** 34 uchyla się pkt 6;
 - **3)** po 48 dodaje się 48a–48n brzmieniu: „Art. 48a. 1. Konsul, na wniosek obywatela państwa członkowskiego Unii Europejskiej, którym 21 wydaje unijny tymczasowy dokument podróży, zwany dalej „TDP”, przypadkach gdy: utracił on paszport lub inny dokument podróży;
@@ -175,7 +174,7 @@ USTAWA 9 lipca 2025 zmianie ustawy Prawo konsularne
 
 1. Postępowania sprawach wydanie tymczasowego dokumentu wszczęte niezakończone przed dniem wejścia życie niniejszej ustawy umarza się.
 
-2. Formularze tymczasowych dokumentów wyprodukowane zgodnie decyzją 96/409/WPZiB przedstawicieli rządów państw członkowskich zebranych ramach Rady 25 czerwca 1996 sprawie ustanowienia tymczasowego dokumentu (Dz. WE 168 06.07.1996, str. 4, późn. zm. Dz. Polskie wydanie specjalne, rozdz. 18, t. str. 26, późn. zm.) stają się nieważne podlegają zniszczeniu konsula dniem wejścia życie niniejszej ustawy.
+2. Formularze tymczasowych dokumentów wyprodukowane zgodnie decyzją 96/409/WPZiB przedstawicieli rządów państw członkowskich zebranych ramach Rady 25 czerwca 1996 sprawie ustanowienia tymczasowego dokumentu (Dz. WE 168 06.07.1996, str. 4, późn. zm. Polskie wydanie specjalne, rozdz. 18, t. str. 26, późn. zm.) stają się nieważne podlegają zniszczeniu konsula dniem wejścia życie niniejszej ustawy.
 
 **Art. 3.** Ustawa wchodzi życie dniem 9 grudnia 2025 Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-08 |
 | Data wydania | 2024-05-10 |
-| Wejście w życie | 2024-05-11 |
 | Ostatnia zmiana | 2025-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000714) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/714/text.pdf) |
 
@@ -33,11 +32,9 @@ Na podstawie art. 14 ust. 1 ustawy z dnia 18 grudnia 1998 r. o pracownikach sąd
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U. z 2023 r. poz. 2016 i 2772) wprowadza się następujące zmiany:
 1)
-w § 3 ust. 1 otrzymuje brzmienie:
-„
+w § 3 ust. 1 otrzymuje brzmienie: „
 1.
-Tabela wynagrodzenia zasadniczego przysługującego urzędnikom i innym pracownikom sądów i prokuratury jest określona w załączniku nr 3 do rozporządzenia.
-” ;
+Tabela wynagrodzenia zasadniczego przysługującego urzędnikom i innym pracownikom sądów i prokuratury jest określona w załączniku nr 3 do rozporządzenia. ” ;
 2)
 załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.

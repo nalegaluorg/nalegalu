@@ -26,14 +26,28 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001874) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1874/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej Rozdział 1 – Przepisy ogólne Rozdział 2 – Osoby prawne Kościoła i ich organy Rozdział 3 – Działalność Kościoła Rozdział 4 – Sprawy majątkowe Rozdział 5 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej
 Załącznik – Wykaz osób prawnych Kościoła Chrześcijan Baptystów w Rzeczypospolitej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 169), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 lipca 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 393, art. 394, art. 395 ust. 1 i art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 393, art. 394, art. 395 ust. 1 i art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), które stanowią: „
+Przepisy ogólne
+Osoby prawne Kościoła i ich organy
+Działalność Kościoła
+Sprawy majątkowe
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Osoby prawne Kościoła i ich organy
+
+#### Rozdział 3 – Działalność Kościoła
+
+#### Rozdział 4 – Sprawy majątkowe
+
+#### Rozdział 5 – Przepisy przejściowe i końcowe
 
 **Art. 393.** Zakłady poprawcze i schroniska dla nieletnich utworzone na podstawie przepisów dotychczasowych stają się zakładami poprawczymi i schroniskami dla nieletnich na podstawie niniejszej ustawy.
 
@@ -47,7 +61,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 417.** Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -63,7 +77,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 4.** Kościół i jego osoby prawne są następcami prawnymi zborów, organizacji i gmin baptystycznych działających na terytorium Rzeczypospolitej Polskiej przed dniem 1 września 1939 r.
 
-#### Rozdział 2 Osoby prawne Kościoła i ich organy
+#### Rozdział 2
 
 **Art. 5.**
 
@@ -90,9 +104,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 5. W sprawach majątkowych Kościół reprezentuje Rada Kościoła. Do składania oświadczeń woli w imieniu Kościoła są uprawnieni dwaj członkowie Prezydium Rady Kościoła działający łącznie.
 
-6. Zmiana nazwy grup osób prawnych lub poszczególnych osób prawnych, wymienionych w ust. 2 pkt 2–4, może być dokonana przepisami wewnątrzkościelnymi. Zmiany te, na wniosek Rady Kościoła, ogłasza Minister – Szef Urzędu Rady Ministrów  w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+6. Zmiana nazwy grup osób prawnych lub poszczególnych osób prawnych, wymienionych w ust. 2 pkt 2–4, może być dokonana przepisami wewnątrzkościelnymi. Zmiany te, na wniosek Rady Kościoła, ogłasza Minister – Szef Urzędu Rady Ministrów Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-**Art. 6.** Inne jednostki organizacyjne Kościoła mogą, na wniosek Rady Kościoła, uzyskać osobowość prawną w drodze rozporządzenia Ministra – Szefa Urzędu Rady Ministrów .
+**Art. 6.** Inne jednostki organizacyjne Kościoła mogą, na wniosek Rady Kościoła, uzyskać osobowość prawną w drodze rozporządzenia Ministra – Szefa Urzędu Rady Ministrów Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1..
 
 **Art. 7.**
 
@@ -100,7 +114,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. O faktach wymienionych w ust. 1 władza kościelna powiadamia niezwłocznie właściwy organ administracji rządowej:
 
-- **1)** w odniesieniu do osób wymienionych w art. 5 ust. 2 pkt 2 oraz jednostek, które otrzymały osobowość prawną w drodze rozporządzenia, o którym mowa w art. 6 – Ministra – Szefa Urzędu Rady Ministrów ;
+- **1)** w odniesieniu do osób wymienionych w art. 5 ust. 2 pkt 2 oraz jednostek, które otrzymały osobowość prawną w drodze rozporządzenia, o którym mowa w art. 6 – Ministra – Szefa Urzędu Rady Ministrów Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r.;
 - **2)** w odniesieniu do osób wymienionych w art. 5 ust. 2 pkt 3 i 4 – wojewodę.
 
 3. Nowo utworzone kościelne jednostki organizacyjne, o których mowa w art. 5 ust. 2 pkt 2–4, nabywają osobowość prawną z chwilą pisemnego powiadomienia właściwego organu administracji rządowej. Odpis powiadomienia, z umieszczonym na nim potwierdzeniem odbioru, jest dowodem uzyskania osobowości prawnej.
@@ -113,7 +127,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 9.** Kościelna osoba prawna nie odpowiada za zobowiązania innej kościelnej osoby prawnej.
 
-#### Rozdział 3 Działalność Kościoła
+#### Rozdział 3
 
 **Art. 10.**
 
@@ -165,7 +179,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 15.**
 
-1. Kościół ma prawo do zakładania i prowadzenia szkół wyższych. Status prawny tych szkół, a także tryb i zakres uznawania przez Państwo stopni i tytułów nadawanych przez te szkoły regulują umowy między Ministrem Edukacji Narodowej  a Radą Kościoła.
+1. Kościół ma prawo do zakładania i prowadzenia szkół wyższych. Status prawny tych szkół, a także tryb i zakres uznawania przez Państwo stopni i tytułów nadawanych przez te szkoły regulują umowy między Ministrem Edukacji Narodowej Obecnie ministrem właściwym do spraw szkolnictwa wyższego i nauki na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ustawy, o której mowa w odnośniku 1. a Radą Kościoła.
 
 2. Studentom szkół, o których mowa w ust. 1 oraz w art. 14 ust. 2, przysługują świadczenia opieki zdrowotnej finansowane ze środków publicznych oraz ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi ze studentami uczelni publicznych.
 
@@ -201,7 +215,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Dzieciom i młodzieży korzystającym z zorganizowanych form wypoczynku zapewnia się prawo do wykonywania praktyk religijnych, w szczególności do udziału w nabożeństwach.
 
-3. Minister Edukacji Narodowej  oraz Minister Zdrowia i Opieki Społecznej , w porozumieniu z Radą Kościoła, określą, w drodze rozporządzenia, szczegółowe zasady organizowania nabożeństw i katechizacji oraz wykonywania innych praktyk religijnych, właściwych dla wyznania baptystycznego, dzieciom i młodzieży przebywającym w zakładach wychowawczych i opiekuńczych, w sanatoriach, prewentoriach i szpitalach oraz korzystającym z zorganizowanych form wypoczynku.
+3. Minister Edukacji Narodowej Obecnie minister właściwy do spraw oświaty i wychowania na podstawie art. 4 ust. 1, art. 5 pkt 15 i art. 20 ust. 1 ustawy, o której mowa w odnośniku 1. oraz Minister Zdrowia i Opieki Społecznej Obecnie minister właściwy do spraw zdrowia na podstawie art. 4 ust. 1, art. 5 pkt 28 i art. 33 ust. 1 ustawy, o której mowa w odnośniku 1., w porozumieniu z Radą Kościoła, określą, w drodze rozporządzenia, szczegółowe zasady organizowania nabożeństw i katechizacji oraz wykonywania innych praktyk religijnych, właściwych dla wyznania baptystycznego, dzieciom i młodzieży przebywającym w zakładach wychowawczych i opiekuńczych, w sanatoriach, prewentoriach i szpitalach oraz korzystającym z zorganizowanych form wypoczynku.
 
 **Art. 19.**
 
@@ -209,15 +223,11 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. W celu realizacji uprawnień, o których mowa w ust. 1, kierownicy właściwych podmiotów i zakładów zapewniają duchownym swobodny dostęp do tych osób.
 
-3. W celu umożliwienia udziału chorych i podopiecznych w nabożeństwach lub zbiorowych posługach religijnych kierownicy właściwych podmiotów i zakładów, prowadzonych przez administrację rządową lub samorządową, udostępniają odpowiednie pomieszczenia.
-
-**Art. 20.**
+3. W celu umożliwienia udziału chorych i podopiecznych w nabożeństwach lub zbiorowych posługach religijnych kierownicy właściwych podmiotów i zakładów, prowadzonych przez administrację rządową lub samorządową, udostępniają odpowiednie pomieszczenia. Art. 20Z dniem 1 września 1998 r. utraciły moc przepisy o stosunku Państwa do Kościołów dotyczące wykonywania praktyk religijnych osób skazanych i tymczasowo aresztowanych na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557 i 1083)..
 
 1. Osoby tymczasowo aresztowane mogą wykonywać praktyki religijne i uczestniczyć w nabożeństwach transmitowanych przez środki masowego przekazu oraz za zgodą organu, do którego dyspozycji pozostają, korzystać z indywidualnej posługi religijnej.
 
-2. Osobom skazanym zapewnia się możliwość wykonywania praktyk religijnych, korzystania z posług religijnych oraz uczestniczenia w nabożeństwach w niedziele i święta w odpowiednio przystosowanym pomieszczeniu w zakładzie, w którym przebywają. Osobom, które nie mają możliwości uczestniczenia w nabożeństwach na terenie zakładu, należy umożliwić wysłuchanie nabożeństwa transmitowanego przez środki masowego przekazu.
-
-3. Nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich zapewnia się możliwość wykonywania praktyk religijnych, korzystania z katechizacji i posług religijnych, uczestniczenia w nabożeństwach w niedziele i święta. Nieletnim, którzy nie mają możliwości uczestniczenia w nabożeństwach, należy zapewnić możliwość wysłuchania nabożeństwa transmitowanego przez środki masowego przekazu.
+2. Osobom skazanym zapewnia się możliwość wykonywania praktyk religijnych, korzystania z posług religijnych oraz uczestniczenia w nabożeństwach w niedziele i święta w odpowiednio przystosowanym pomieszczeniu w zakładzie, w którym przebywają. Osobom, które nie mają możliwości uczestniczenia w nabożeństwach na terenie zakładu, należy umożliwić wysłuchanie nabożeństwa transmitowanego przez środki masowego przekazu. 3W brzmieniu ustalonym przez art. 374 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r.. Nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich zapewnia się możliwość wykonywania praktyk religijnych, korzystania z katechizacji i posług religijnych, uczestniczenia w nabożeństwach w niedziele i święta. Nieletnim, którzy nie mają możliwości uczestniczenia w nabożeństwach, należy zapewnić możliwość wysłuchania nabożeństwa transmitowanego przez środki masowego przekazu.
 
 **Art. 21.**
 
@@ -284,7 +294,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 31.** Instytucje państwowe, samorządowe i kościelne współdziałają w ochronie, konserwacji, udostępnianiu i upowszechnianiu zabytków architektury kościelnej i sztuki sakralnej oraz ich dokumentacji, muzeów, archiwów i bibliotek będących własnością kościelną, a także dzieł kultury i sztuki o motywach religijnych, stanowiących ważną część dziedzictwa kultury.
 
-#### Rozdział 4 Sprawy majątkowe
+#### Rozdział 4
 
 **Art. 32.** Kościołowi i jego osobom prawnym przysługuje prawo nabywania, posiadania i zbywania mienia ruchomego i nieruchomego, nabywania i zbywania innych praw oraz zarządzania swoim majątkiem.
 
@@ -336,7 +346,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 38.** Niezależnie od ustawowego ubezpieczenia duchownych, kościelne osoby prawne mogą prowadzić wewnętrzną działalność ubezpieczeniową na rzecz duchownych i ich rodzin, która w rozumieniu ustawy nie jest działalnością gospodarczą.
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5
 
 **Art. 39.**
 
@@ -366,10 +376,10 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 4. Regulacja nie może naruszać:
 
-- **1)** przepisów ustawy z dnia 3 stycznia 1946 r. o przejęciu na własność Państwa podstawowych gałęzi gospodarki narodowej (Dz. U. poz. 17, z późn. zm.);
+- **1)** przepisów ustawy z dnia 3 stycznia 1946 r. o przejęciu na własność Państwa podstawowych gałęzi gospodarki narodowej (Dz. U. poz. 17, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1946 r. poz. 389 i 394, z 1958 r. poz. 224 oraz z 1969 r. poz. 95.);
 - **2)** praw nabytych przez osoby trzecie, w szczególności przez inne kościoły i związki wyznaniowe.
 
-5. Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm.), podlega postępowaniu, o którym mowa w ust. 1–4.
+5. Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. poz. 253 i 541, z 1991 r. poz. 151, z 1992 r. poz. 20, z 1993 r. poz. 180, z 1994 r. poz. 3 i 285, z 1996 r. poz. 102 i 496, z 1997 r. poz. 43, z 2002 r. poz. 1271, z 2004 r. poz. 1492, z 2017 r. poz. 653 oraz z 2020 r. poz. 462.), podlega postępowaniu, o którym mowa w ust. 1–4.
 
 **Art. 41.**
 
@@ -383,7 +393,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Decyzje, o których mowa w art. 40 ust. 1 i 2 pkt 1, stanowią podstawę do dokonania wpisów w księgach wieczystych i ewidencji gruntów. Przepis art. 39 ust. 3 stosuje się odpowiednio.
 
-2. Obowiązek zapłaty odszkodowania, o którym mowa w art. 40 ust. 2 pkt 2, ciąży na Skarbie Państwa reprezentowanym przez Ministra Finansów . Wnioski kościelnych osób prawnych wniesione w trybie określonym w art. 40, w stosunku do których nie zostały zakończone postępowania administracyjne, na wniosek jednej ze stron w dotychczasowym postępowaniu stają się z mocy prawa przedmiotem postępowania regulacyjnego, określonego w dziale IIIa ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. z 2023 r. poz. 265).
+2. Obowiązek zapłaty odszkodowania, o którym mowa w art. 40 ust. 2 pkt 2, ciąży na Skarbie Państwa reprezentowanym przez Ministra Finansów Obecnie ministra właściwego do spraw budżetu na podstawie art. 4 ust. 1, art. 5 pkt 2 i art. 7 ustawy, o której mowa w odnośniku 1.. Wnioski kościelnych osób prawnych wniesione w trybie określonym w art. 40, w stosunku do których nie zostały zakończone postępowania administracyjne, na wniosek jednej ze stron w dotychczasowym postępowaniu stają się z mocy prawa przedmiotem postępowania regulacyjnego, określonego w dziale IIIa ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. z 2023 r. poz. 265).
 
 **Art. 43.**
 
@@ -402,26 +412,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Wykaz kościelnych osób prawnych istniejących w dniu wejścia w życie ustawy określa załącznik do ustawy.
 
-**Art. 45.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-
-- **1)** Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. 2) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1. 3) Obecnie ministrem właściwym do spraw szkolnictwa wyższego i nauki na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ustawy, o której mowa w odnośniku 1. 4) Obecnie minister właściwy do spraw oświaty i wychowania na podstawie art. 4 ust. 1, art. 5 pkt 15 i art. 20 ust. 1 ustawy, o której mowa w odnośniku 1. 5) Obecnie minister właściwy do spraw zdrowia na podstawie art. 4 ust. 1, art. 5 pkt 28 i art. 33 ust. 1 ustawy, o której mowa w odnośniku 1. 6) Z dniem 1 września 1998 r. utraciły moc przepisy o stosunku Państwa do Kościołów dotyczące wykonywania praktyk religijnych osób skazanych i tymczasowo aresztowanych na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557 i 1083). 7) W brzmieniu ustalonym przez art. 374 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1946 r. poz. 389 i 394, z 1958 r. poz. 224 oraz z 1969 r. poz. 95. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. poz. 253 i 541, z 1991 r. poz. 151, z 1992 r. poz. 20, z 1993 r. poz. 180, z 1994 r. poz. 3 i 285, z 1996 r. poz. 102 i 496, z 1997 r. poz. 43, z 2002 r. poz. 1271, z 2004 r. poz. 1492, z 2017 r. poz. 653 oraz z 2020 r. poz. 462. 10) Obecnie ministra właściwego do spraw budżetu na podstawie art. 4 ust. 1, art. 5 pkt 2 i art. 7 ustawy, o której mowa w odnośniku 1. 11) Ustawa została ogłoszona w dniu 23 sierpnia 1995 r. Załącznik – Wykaz osób prawnych Kościoła Chrześcijan Baptystów w Rzeczypospolitej I. Okręgi i zbory
-
-1. Okręg Białostocki Zbór Białowieża Zbór Białystok Zbór Bielsk Podlaski Zbór Dubicze Cerkiewne Zbór Hajnówka Zbór Kleszczele Zbór Narew Zbór Narewka Zbór Orla
-
-2. Okręg Centralny Zbór Kielce Zbór Łódź Zbór Warszawa – Pierwszy Zbór w Warszawie Zbór Warszawa – Drugi Zbór w Warszawie Zbór Zelów Zbór Żyrardów
-
-3. Okręg Dolnośląski Zbór Głogów Zbór Kalisz Zbór Kłodzko Zbór Wałbrzych Zbór Wrocław – Pierwszy Zbór we Wrocławiu Zbór Wrocław – Drugi Zbór we Wrocławiu Zbór Zgorzelec Zbór Zielona Góra
-
-4. Okręg Gdański Zbór Bydgoszcz Zbór Elbląg Zbór Gdańsk Zbór Gdynia Zbór Malbork
-
-5. Okręg Lubelski Zbór Chełm Zbór Lublin Zbór Rokitno Zbór Rudka
-
-6. Okręg Mazurski Zbór Bartoszyce Zbór Ełk Zbór Giżycko Zbór Kętrzyn Zbór Olsztynek Zbór Ostróda Zbór Szczytno
-
-7. Okręg Południowy Zbór Kraków Zbór Krowica Zbór Krynica Zbór Przemyśl Zbór Tarnów
-
-8. Okręg Pomorski Zbór Chociwel Zbór Gorzów Wielkopolski Zbór Konin Zbór Koszalin Zbór Poznań Zbór Szczecin Zbór Szczecinek Zbór Świnoujście
-
-9. Okręg Śląski Zbór Bielsko-Biała Zbór Bytom Zbór Chrzanów Zbór Katowice Zbór Orzesze Zbór Wisła Zbór Zabrze II. Seminaria Wyższe Baptystyczne Seminarium Teologiczne w Warszawie Biblijne Seminarium Teologiczne we Wrocławiu.
-
+**Art. 45.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 23 sierpnia 1995 r.. 1) Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. 2) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1. 3) Obecnie ministrem właściwym do spraw szkolnictwa wyższego i nauki na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ustawy, o której mowa w odnośniku 1. 4) Obecnie minister właściwy do spraw oświaty i wychowania na podstawie art. 4 ust. 1, art. 5 pkt 15 i art. 20 ust. 1 ustawy, o której mowa w odnośniku 1. 5) Obecnie minister właściwy do spraw zdrowia na podstawie art. 4 ust. 1, art. 5 pkt 28 i art. 33 ust. 1 ustawy, o której mowa w odnośniku 1. 6) Z dniem 1 września 1998 r. utraciły moc przepisy o stosunku Państwa do Kościołów dotyczące wykonywania praktyk religijnych osób skazanych i tymczasowo aresztowanych na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557 i 1083). 7) W brzmieniu ustalonym przez art. 374 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1946 r. poz. 389 i 394, z 1958 r. poz. 224 oraz z 1969 r. poz. 95. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. poz. 253 i 541, z 1991 r. poz. 151, z 1992 r. poz. 20, z 1993 r. poz. 180, z 1994 r. poz. 3 i 285, z 1996 r. poz. 102 i 496, z 1997 r. poz. 43, z 2002 r. poz. 1271, z 2004 r. poz. 1492, z 2017 r. poz. 653 oraz z 2020 r. poz. 462. 10) Obecnie ministra właściwego do spraw budżetu na podstawie art. 4 ust. 1, art. 5 pkt 2 i art. 7 ustawy, o której mowa w odnośniku 1. 11) Ustawa została ogłoszona w dniu 23 sierpnia 1995 r. Załącznik – Wykaz osób prawnych Kościoła Chrześcijan Baptystów w Rzeczypospolitej I. Okręgi i zbory 1. Okręg Białostocki Zbór Białowieża Zbór Białystok Zbór Bielsk Podlaski Zbór Dubicze Cerkiewne Zbór Hajnówka Zbór Kleszczele Zbór Narew Zbór Narewka Zbór Orla 2. Okręg Centralny Zbór Kielce Zbór Łódź Zbór Warszawa – Pierwszy Zbór w Warszawie Zbór Warszawa – Drugi Zbór w Warszawie Zbór Zelów Zbór Żyrardów 3. Okręg Dolnośląski Zbór Głogów Zbór Kalisz Zbór Kłodzko Zbór Wałbrzych Zbór Wrocław – Pierwszy Zbór we Wrocławiu Zbór Wrocław – Drugi Zbór we Wrocławiu Zbór Zgorzelec Zbór Zielona Góra 4. Okręg Gdański Zbór Bydgoszcz Zbór Elbląg Zbór Gdańsk Zbór Gdynia Zbór Malbork 5. Okręg Lubelski Zbór Chełm Zbór Lublin Zbór Rokitno Zbór Rudka 6. Okręg Mazurski Zbór Bartoszyce Zbór Ełk Zbór Giżycko Zbór Kętrzyn Zbór Olsztynek Zbór Ostróda Zbór Szczytno 7. Okręg Południowy Zbór Kraków Zbór Krowica Zbór Krynica Zbór Przemyśl Zbór Tarnów 8. Okręg Pomorski Zbór Chociwel Zbór Gorzów Wielkopolski Zbór Konin Zbór Koszalin Zbór Poznań Zbór Szczecin Zbór Szczecinek Zbór Świnoujście 9. Okręg Śląski Zbór Bielsko-Biała Zbór Bytom Zbór Chrzanów Zbór Katowice Zbór Orzesze Zbór Wisła Zbór Zabrze II. Seminaria Wyższe Baptystyczne Seminarium Teologiczne w Warszawie Biblijne Seminarium Teologiczne we Wrocławiu.
 

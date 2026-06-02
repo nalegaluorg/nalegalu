@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-11 |
 | Data wydania | 2020-12-23 |
-| Wejście w życie | 2020-12-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002344) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2344/text.pdf) |
 
@@ -134,5 +133,5 @@ Przepisy rozporządzenia mają zastosowanie po raz pierwszy do opracowania i prz
 2.
 Do opracowania Raportu, o którym mowa w ust. 1, przepisów § 7 ust. 2 i 3 nie stosuje się.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 30 kwietnia 2010 r. w sprawie Raportu o zagrożeniach bezpieczeństwa narodowego (Dz. U. poz. 540), które na podstawie art. 92 ust. 3 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2020 r. poz. 1369) utraciło moc z dniem 28 sierpnia 2019 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 30 kwietnia 2010 r. w sprawie Raportu o zagrożeniach bezpieczeństwa narodowego (Dz. U. poz. 540), które na podstawie art. 92 ust. 3 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2020 r. poz. 1369) utraciło moc z dniem 28 sierpnia 2019 r.
 

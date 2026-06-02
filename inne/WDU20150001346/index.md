@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-07 |
 | Data wydania | 2015-09-09 |
-| Wejście w życie | 2015-09-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001346) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1346/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2014 r. poz. 1438 oraz z 2015 r. poz. 308 i 349) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, 230 i 1345) po § 13b dodaje się § 13c i § 13d w brzmieniu:
-„
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, 230 i 1345) po § 13b dodaje się § 13c i § 13d w brzmieniu: „
 § 13c.
 1.
 W 2015 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa, rozwoju wsi i przetwórstwa produktów rolnych, o której mowa w § 2 ust. 1 pkt 6, producentom rolnym, którym został nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, w których gospodarstwach rolnych lub działach specjalnych produkcji rolnej powstały szkody spowodowane przez suszę w rozumieniu przepisów o ubezpieczeniach upraw rolnych i zwierząt gospodarskich, zgodnie z ust. 2–13.
@@ -81,8 +79,7 @@ Pomoc, o której mowa w:
 1)
 § 13b ust. 1, nie przysługuje do powierzchni owocujących w 2015 r. upraw czarnej porzeczki, do której producentowi rolnemu udzielono pomocy, o której mowa w § 13c ust. 1;
 2)
-§ 13c ust. 1, nie przysługuje do powierzchni owocujących w 2015 r. upraw czarnej porzeczki, do której producentowi rolnemu udzielono pomocy, o której mowa w § 13b ust. 1.
-” .
+§ 13c ust. 1, nie przysługuje do powierzchni owocujących w 2015 r. upraw czarnej porzeczki, do której producentowi rolnemu udzielono pomocy, o której mowa w § 13b ust. 1. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 11 września 2015 r.
 

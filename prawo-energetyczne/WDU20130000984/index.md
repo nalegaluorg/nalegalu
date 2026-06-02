@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 lipca 2013 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw
+# Ustawaz dnia 26 lipca 2013 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw Przepisy niniejszej ustawy wdrażają:
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-07-26 |
 | Data wydania | 2013-08-27 |
-| Wejście w życie | 2013-09-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000984) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/984/text.pdf) |
 
+-dyrektywę Parlamentu Europejskiego i Rady 2009/30/WE z dnia 23 kwietnia 2009 r. zmieniającą dyrektywę 98/70/WE odnoszącą się do specyfikacji benzyny i olejów napędowych oraz wprowadzającą mechanizm monitorowania i ograniczania emisji gazów cieplarnianych oraz zmieniającą dyrektywę Rady 1999/32/WE odnoszącą się do specyfikacji paliw wykorzystywanych przez statki żeglugi śródlądowej oraz uchylającą dyrektywę 93/12/EWG(Dz. Urz. UE L 140 z 05.06.2009, str. 88),
 – dyrektywę Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającą i w następstwie uchylającą dyrektywy 2001/77/WE oraz 2003/30/WE (Dz. Urz. UE L 140 z 05.06.2009 r., str. 16),
 – dyrektywę Parlamentu Europejskiego i Rady 2009/72/WE z dnia 13 lipca 2009 r. w sprawie wspólnych zasad rynku wewnętrznego energii elektrycznej i uchylającą dyrektywę 2003/54/WE (Dz. Urz. UE L 211 z 14.08.2009 r., str. 55),
 – dyrektywę Parlamentu Europejskiego i Rady 2009/73/WE z dnia 13 lipca 2009 r. dotyczącą wspólnych zasad rynku wewnętrznego gazu ziemnego i uchylającą dyrektywę 2003/55/WE (Dz. Urz. UE L 211 z 14.08.2009 r., str. 94).
+Niniejszą ustawą dokonuje się zmiany ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, ustawy z dnia 4 września 1997 r. o działach administracji rządowej, ustawy z dnia 26 października 2000 r. o giełdach towarowych, ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym, ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych, ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych, ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi oraz ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym.
+Gwarancje pochodzenia energii elektrycznej wytwarzanej w odnawialnym źródle energii
+Krajowy plan działania w zakresie energii ze źródeł odnawialnych oraz monitorowanie rynku energii elektrycznej, ciepła dostarczanego lub odbieranego z odnawialnego źródła energii, biogazu rolniczego, a także rynku biokomponentów, paliw ciekłych i biopaliw ciekłych stosowanych w transporcie
+Warunki i tryb wydawania certyfikatów instalatorom mikroinstalacji i małych instalacji oraz akredytowania organizatorów szkoleń
 1.
 Osoba dokonująca instalacji mikroinstalacji lub małych instalacji, zwana dalej „instalatorem”, może wystąpić z pisemnym wnioskiem do Prezesa Urzędu Dozoru Technicznego, zwanego dalej „Prezesem UDT”, o wydanie certyfikatu.
 2.
@@ -50,7 +54,7 @@ posiada:
 a)
 pełną zdolność do czynności prawnych oraz korzysta z pełni praw publicznych,
 b)
-dyplom potwierdzający kwalifikacje zawodowe, wydany na podstawie przepisów ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) lub inny równoważny dokument potwierdzający kwalifikacje do instalacji urządzeń i instalacji sanitarnych, elektroenergetycznych, grzewczych, chłodniczych lub elektrycznych lub
+dyplom potwierdzający kwalifikacje zawodowe, wydany na podstawie przepisów ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979 oraz z 2013 r. poz. 87 i 827.) lub inny równoważny dokument potwierdzający kwalifikacje do instalacji urządzeń i instalacji sanitarnych, elektroenergetycznych, grzewczych, chłodniczych lub elektrycznych lub
 c)
 udokumentowane trzyletnie doświadczenie zawodowe w zakresie instalowania lub modernizacji urządzeń i instalacji: sanitarnych, energetycznych, grzewczych, chłodniczych lub elektrycznych, lub
 d)
@@ -70,8 +74,7 @@ dyplom potwierdzający kwalifikacje w zawodzie technik urządzeń i systemów en
 2)
 dyplom potwierdzający kwalifikacje zawodowe w zakresie urządzeń i systemów energetyki odnawialnej wydany na podstawie przepisów ustawy o systemie oświaty, lub
 3)
-dyplom ukończenia studiów wyższych na kierunku lub w specjalności w zakresie odnawialnych źródeł energii, albo urządzeń i instalacji sanitarnych, elektroenergetycznych, grzewczych, chłodniczych, cieplnych i klimatyzacyjnych lub elektrycznych wydany na podstawie przepisów ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.)
-może uzyskać certyfikat, jeżeli spełnia warunki, o których mowa w ust. 3 pkt 1 lit. a oraz w pkt 2.
+dyplom ukończenia studiów wyższych na kierunku lub w specjalności w zakresie odnawialnych źródeł energii, albo urządzeń i instalacji sanitarnych, elektroenergetycznych, grzewczych, chłodniczych, cieplnych i klimatyzacyjnych lub elektrycznych wydany na podstawie przepisów ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544 oraz z 2013 r. poz. 675 i 829.) – może uzyskać certyfikat, jeżeli spełnia warunki, o których mowa w ust. 3 pkt 1 lit. a oraz w pkt 2.
 1.
 Egzamin dla instalatorów ubiegających się o wydanie certyfikatu przeprowadza się co najmniej dwa razy w ciągu roku. Informację o terminie i miejscu egzaminu Prezes UDT ogłasza w Biuletynie Informacji Publicznej Urzędu Dozoru Technicznego, co najmniej na trzydzieści dni przed planowanym terminem egzaminu.
 2.
@@ -113,7 +116,7 @@ oświadczenie o wyrażeniu zgody albo odmowie ujawnienia w rejestrze, o którym 
 3.
 Do wniosku, o którym mowa w ust. 1, wnioskodawca jest obowiązany dołączyć także oświadczenie następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że posiadam pełną zdolność do czynności prawnych, korzystam z pełni praw publicznych, nie byłem karany.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 4.
-Wniosek, o którym mowa w ust. 1, może być złożony za pomocą środków komunikacji elektronicznej, o których mowa w ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. Nr 144, poz. 1204, z późn. zm.).
+Wniosek, o którym mowa w ust. 1, może być złożony za pomocą środków komunikacji elektronicznej, o których mowa w ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. Nr 144, poz. 1204, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808, z 2007 r. Nr 50, poz. 331, z 2008 r. Nr 171, poz. 1056 i Nr 216, poz. 1371, z 2009 r. Nr 201, poz. 1540, z 2011 r. Nr 85, poz. 459 i Nr 134, poz. 779 oraz z 2012 r. poz. 1445.).
 5.
 Wniosek złożony za pomocą środków komunikacji elektronicznej powinien być opatrzony bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu.
 1.
@@ -154,7 +157,7 @@ wskazanie miejsca lub miejsc zainstalowania instalacji,
 b)
 opis mikroinstalacji albo małej instalacji, w szczególności jej rodzaj i moc zainstalowaną, z określeniem rodzaju wykonanych czynności;
 2)
-oświadczenie o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.) oświadczam, że dane zawarte we wniosku o przedłużenie ważności certyfikatu są zgodne z prawdą.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+oświadczenie o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344, z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 40, poz. 227 i 229, Nr 98, poz. 625 i 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 152, poz. 1018 i 1021, Nr 182, poz. 1228, Nr 225, poz. 1474 i Nr 240, poz. 1602, z 2011 r. Nr 17, poz. 78, Nr 24, poz. 130, Nr 39, poz. 202, Nr 48, poz. 245, Nr 72, poz. 381, Nr 94, poz. 549, Nr 117, poz. 678, Nr 133, poz. 767, Nr 160, poz. 964 i Nr 191, poz. 1135, Nr 217, poz. 1280, Nr 233, poz. 1381 i Nr 240, poz. 1431 oraz z 2013 r. poz. 611, 849 i 905.) oświadczam, że dane zawarte we wniosku o przedłużenie ważności certyfikatu są zgodne z prawdą.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 4.
 Prezes UDT przed przedłużeniem ważności certyfikatu dokonuje sprawdzenia spełnienia przez instalatora wymagań, o których mowa w ust. 1 pkt 2 i 3, oraz przyjmuje oświadczenie, o którym mowa w ust. 1 pkt 1.
 5.
@@ -204,8 +207,7 @@ miejscu odbywania, datach i godzinach rozpoczęcia oraz zakończenia szkolenia,
 c)
 zakresie programowym szkolenia, w tym przepisach prawnych, normach, specyfikacjach technicznych i innych pomocach niezbędnych do realizacji programu szkolenia,
 d)
-wyposażeniu dostarczanym przez organizatora, w tym środkach ochrony indywidualnej oraz wymaganiach bezpieczeństwa i higieny pracy związanych z miejscami szkolenia
-dla danego rodzaju odnawialnego źródła energii, przy uwzględnieniu dobrej praktyki szkoleniowej.
+wyposażeniu dostarczanym przez organizatora, w tym środkach ochrony indywidualnej oraz wymaganiach bezpieczeństwa i higieny pracy związanych z miejscami szkolenia – dla danego rodzaju odnawialnego źródła energii, przy uwzględnieniu dobrej praktyki szkoleniowej.
 1.
 W celu uzyskania akredytacji podmiot składa do Prezesa UDT pisemny wniosek o udzielenie akredytacji odpowiednio do danego typu szkolenia i rodzaju odnawialnego źródła energii, w zakresie, w którym zamierza prowadzić szkolenia.
 2.
@@ -235,8 +237,7 @@ wykaz zajęć szkoleniowych oraz liczby godzin edukacyjnych,
 5)
 wykaz urządzeń technicznych, w tym wyposażenia laboratoryjnego lub innych urządzeń do zajęć praktycznych,
 6)
-wykaz osób prowadzących zajęcia teoretyczne i praktyczne wraz z danymi dotyczącymi wykształcenia oraz przebiegu praktyki zawodowej
-dla danego typu szkolenia i rodzaju odnawialnego źródła energii.
+wykaz osób prowadzących zajęcia teoretyczne i praktyczne wraz z danymi dotyczącymi wykształcenia oraz przebiegu praktyki zawodowej – dla danego typu szkolenia i rodzaju odnawialnego źródła energii.
 4.
 Wniosek, o którym mowa w ust. 1, może być złożony za pomocą środków komunikacji elektronicznej, o których mowa w ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
 5.
@@ -267,8 +268,7 @@ sposób wnoszenia opłat, o których mowa w art. 20za ust. 1,
 7)
 wzory wniosków o wydanie certyfikatu oraz o przedłużenie ważności certyfikatu, wzór graficzny certyfikatu i jego wtórnika oraz wzór zgłoszenia, o którym mowa w art. 20p ust. 1 pkt 1,
 8)
-sposób prowadzenia rejestrów, o których mowa w art. 20zb ust. 1, oraz warunki i sposób przechowywania dokumentacji dotyczącej udzielonej akredytacji i wydania certyfikatu
-mając na uwadze zapewnienie odpowiedniej jakości montażu mikroinstalacji i małych instalacji, bezstronny i niezależny przebieg postępowań w sprawie akredytacji organizatorów szkoleń oraz certyfikacji instalatorów danego rodzaju odnawialnego źródła energii, a także sposób dokumentowania, ewidencjonowania oraz przechowywania dokumentacji dotyczącej postępowań.
+sposób prowadzenia rejestrów, o których mowa w art. 20zb ust. 1, oraz warunki i sposób przechowywania dokumentacji dotyczącej udzielonej akredytacji i wydania certyfikatu – mając na uwadze zapewnienie odpowiedniej jakości montażu mikroinstalacji i małych instalacji, bezstronny i niezależny przebieg postępowań w sprawie akredytacji organizatorów szkoleń oraz certyfikacji instalatorów danego rodzaju odnawialnego źródła energii, a także sposób dokumentowania, ewidencjonowania oraz przechowywania dokumentacji dotyczącej postępowań.
 1.
 Podmiot prowadzący działalność w państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, może być organizatorem szkolenia podstawowego lub przypominającego, o których mowa w art. 20h ust. 3 pkt 3 oraz w art. 20n ust. 1 pkt 2, jeżeli:
 1)
@@ -296,8 +296,7 @@ W przypadku:
 1)
 odmowy wydania certyfikatu, cofnięcia certyfikatu oraz odmowy przedłużenia ważności certyfikatu,
 2)
-odmowy udzielenia akredytacji lub cofnięcia akredytacji
-przysługuje odwołanie.
+odmowy udzielenia akredytacji lub cofnięcia akredytacji – przysługuje odwołanie.
 2.
 Odwołanie, o którym mowa w ust. 1, wnosi się za pośrednictwem Prezesa UDT do Komitetu w terminie 14 dni od dnia otrzymania zawiadomienia o odmowie wydania certyfikatu, cofnięcia certyfikatu, odmowie przedłużenia ważności certyfikatu, odmowie udzielenia akredytacji lub cofnięcia akredytacji.
 3.
@@ -374,27 +373,21 @@ Prezes UDT administruje i przetwarza dane zawarte w rejestrach w trybie i na zas
 W przypadku wygaśnięcia ważności certyfikatu lub jego cofnięcia, Prezes UDT po 5 latach od daty wygaśnięcia lub cofnięcia certyfikatu usuwa z rejestru, o którym mowa w art. 20zb ust. 1 pkt 1, dane dotyczące instalatora.
 3.
 W przypadku wygaśnięcia akredytacji organizatora szkoleń lub jej cofnięcia, Prezes UDT po 3 miesiącach od daty wygaśnięcia lub cofnięcia akredytacji usuwa dane organizatora szkoleń z rejestru, o którym mowa w art. 20zb ust. 1 pkt 2.
-Dokumentacja dotycząca postępowania w sprawie wydania certyfikatów, ich wtórników oraz udzielenia akredytacji jest przechowywana przez Prezesa UDT przez okres 5 lat.
-” ;
+Dokumentacja dotycząca postępowania w sprawie wydania certyfikatów, ich wtórników oraz udzielenia akredytacji jest przechowywana przez Prezesa UDT przez okres 5 lat. ” ;
 25)
 w art. 21:
 a)
-ust. 2a otrzymuje brzmienie:
-„
+ust. 2a otrzymuje brzmienie: „
 2a.
-Prezesa URE powołuje Prezes Rady Ministrów, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru. Prezes Rady Ministrów odwołuje Prezesa URE.
-” ,
+Prezesa URE powołuje Prezes Rady Ministrów, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru. Prezes Rady Ministrów odwołuje Prezesa URE. ” ,
 b)
 w ust. 2e zdanie pierwsze otrzymuje brzmienie: „ Nabór na stanowisko Prezesa URE przeprowadza zespół, powołany przez Szefa Kancelarii Prezesa Rady Ministrów z upoważnienia Prezesa Rady Ministrów, liczący co najmniej 3 osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów. ” ,
 c)
-ust. 2h otrzymuje brzmienie:
-„
+ust. 2h otrzymuje brzmienie: „
 2h.
-W toku naboru zespół wyłania nie więcej niż 3 kandydatów, których przedstawia Szefowi Kancelarii Prezesa Rady Ministrów.
-” ,
+W toku naboru zespół wyłania nie więcej niż 3 kandydatów, których przedstawia Szefowi Kancelarii Prezesa Rady Ministrów. ” ,
 d)
-po ust. 2k dodaje się ust. 2l-2o w brzmieniu:
-„
+po ust. 2k dodaje się ust. 2l-2o w brzmieniu: „
 2l.
 Prezes URE jest powoływany na pięcioletnią kadencję i może być ponownie powołany tylko raz. Po upływie kadencji Prezes URE pełni swoją funkcję do czasu powołania następcy.
 2m.
@@ -418,33 +411,25 @@ odwołania Prezesa URE przed upływem kadencji;
 3)
 stwierdzenia nieważności powołania Prezesa URE lub innych przyczyn nieobjęcia urzędu po dokonaniu powołania.
 2o.
-Osoba wykonująca obowiązki Prezesa URE nie może dokonać zwolnienia, o którym mowa w art. 49 ust. 1.
-” ,
+Osoba wykonująca obowiązki Prezesa URE nie może dokonać zwolnienia, o którym mowa w art. 49 ust. 1. ” ,
 e)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
-Wiceprezesa URE powołuje Prezes URE spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru. Prezes URE odwołuje wiceprezesa URE.
-” ,
+Wiceprezesa URE powołuje Prezes URE spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru. Prezes URE odwołuje wiceprezesa URE. ” ,
 f)
-ust. 5a i 5b otrzymują brzmienie:
-„
+ust. 5a i 5b otrzymują brzmienie: „
 5a.
 Nabór na stanowisko Wiceprezesa Urzędu Regulacji Energetyki przeprowadza zespół, powołany przez Prezesa Urzędu Regulacji Energetyki, liczący co najmniej 3 osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów. W toku naboru ocenia się doświadczenie zawodowe kandydata, wiedzę niezbędną do wykonywania zadań na stanowisku, na które jest przeprowadzany nabór, oraz kompetencje kierownicze.
 5b.
-Do sposobu przeprowadzania naboru na stanowisko, o którym mowa w ust. 5, stosuje się odpowiednio ust. 2b, 2d, 2f, 2g oraz 2i-2k. Informacje o naborze na stanowisko wiceprezesa Urzędu Regulacji Energetyki ogłasza się przez umieszczenie ogłoszenia w miejscu powszechnie dostępnym w siedzibie urzędu oraz w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki. Do ogłoszenia stosuje się przepisy ust. 2c zdanie drugie.
-” ,
+Do sposobu przeprowadzania naboru na stanowisko, o którym mowa w ust. 5, stosuje się odpowiednio ust. 2b, 2d, 2f, 2g oraz 2i-2k. Informacje o naborze na stanowisko wiceprezesa Urzędu Regulacji Energetyki ogłasza się przez umieszczenie ogłoszenia w miejscu powszechnie dostępnym w siedzibie urzędu oraz w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki. Do ogłoszenia stosuje się przepisy ust. 2c zdanie drugie. ” ,
 g)
-po ust. 5b dodaje się ust. 5c i 5d w brzmieniu:
-„
+po ust. 5b dodaje się ust. 5c i 5d w brzmieniu: „
 5c.
 W toku naboru zespół wyłania nie więcej niż 3 kandydatów, których przedstawia Prezesowi Urzędu Regulacji Energetyki.
 5d.
-Wiceprezes Urzędu Regulacji Energetyki jest powoływany na pięcioletnią kadencję i może być ponownie powołany tylko raz. Po upływie kadencji Wiceprezes Urzędu Regulacji Energetyki pełni swoją funkcję do czasu powołania następcy.
-” ,
+Wiceprezes Urzędu Regulacji Energetyki jest powoływany na pięcioletnią kadencję i może być ponownie powołany tylko raz. Po upływie kadencji Wiceprezes Urzędu Regulacji Energetyki pełni swoją funkcję do czasu powołania następcy. ” ,
 h)
-ust. 6 otrzymuje brzmienie:
-„
+ust. 6 otrzymuje brzmienie: „
 6.
 
 **Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059) wprowadza się następujące zmiany:
@@ -484,7 +469,7 @@ ust. 6 otrzymuje brzmienie:
     - **j)**
 
 - **20f)** końcowe zużycie energii brutto – nośniki energii dostarczone do celów energetycznych przemysłowi, sektorowi transportowemu, gospodarstwom domowym, sektorowi usługowemu, w tym świadczącemu usługi publiczne, rolnictwu, leśnictwu i rybołówstwu, łącznie ze zużyciem energii elektrycznej i ciepła przez przemysł energetyczny na wytwarzanie energii elektrycznej i ciepła oraz łącznie ze stratami energii elektrycznej i ciepła powstającymi podczas ich przesyłania lub dystrybucji;
-- **20g)** biopłyny – biopaliwa ciekłe lub inne paliwa odnawialne w rozumieniu przepisów ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. Nr 169, poz. 1199, z późn. zm.), wytworzone wyłącznie z biomasy, wykorzystywane w celach energetycznych innych niż w transporcie, w tym do wytwarzania energii elektrycznej lub ciepła w instalacjach spełniających wymagania w zakresie emisji gazów do atmosfery, określone w ustawie z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. Nr 130, poz. 1070, z późn. zm.); ” , pkt 23 otrzymuje brzmienie: „
+- **20g)** biopłyny – biopaliwa ciekłe lub inne paliwa odnawialne w rozumieniu przepisów ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. Nr 169, poz. 1199, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 35, poz. 217 i Nr 99, poz. 666, z 2009 r. Nr 3, poz. 11, z 2010 r. Nr 21, poz. 104, Nr 229, poz. 1496 i Nr 238, poz. 1578 oraz z 2011 r. Nr 153, poz. 902, Nr 205, poz. 1208 i Nr 234, poz. 1392.), wytworzone wyłącznie z biomasy, wykorzystywane w celach energetycznych innych niż w transporcie, w tym do wytwarzania energii elektrycznej lub ciepła w instalacjach spełniających wymagania w zakresie emisji gazów do atmosfery, określone w ustawie z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. Nr 130, poz. 1070, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 215, poz. 1664, z 2010 r. Nr 249, poz. 1657, z 2011 r. Nr 122, poz. 695, z 2012 r. poz. 460 i 951 oraz z 2013 r. poz. 139.); ” , pkt 23 otrzymuje brzmienie: „
     - **g)**
 
 - **23)** system gazowy albo elektroenergetyczny – sieci gazowe, instalacje magazynowe lub instalacje skroplonego gazu ziemnego albo sieci elektroenergetyczne oraz przyłączone do nich urządzenia i instalacje, współpracujące z tymi sieciami lub instalacjami; ” , w pkt 44 kropkę zastępuje się średnikiem i dodaje się pkt 45–49 w brzmieniu: „
@@ -492,7 +477,7 @@ ust. 6 otrzymuje brzmienie:
 
 - **45)** wytwarzanie – produkcję paliw lub energii w procesie energetycznym;
 - **46)** przedsiębiorstwo powiązane – jednostkę powiązaną z jednostką w rozumieniu art. 3 pkt 43 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330 i 613);
-- **47)** derywat elektroenergetyczny – instrument finansowy w rozumieniu art. 2 ust. 1 pkt 2 lit. d-f ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2010 r. Nr 211, poz. 1384, z późn. zm.), który odnosi się do energii elektrycznej;
+- **47)** derywat elektroenergetyczny – instrument finansowy w rozumieniu art. 2 ust. 1 pkt 2 lit. d-f ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2010 r. Nr 211, poz. 1384, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 106, poz. 622, Nr 131, poz. 763 i Nr 234, poz. 1391, z 2012 r. poz. 836 i 1385 oraz z 2013 r. poz. 433.), który odnosi się do energii elektrycznej;
 - **48)** derywat gazowy – instrument finansowy w rozumieniu art. 2 ust. 1 pkt 2 lit. d-f ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, który odnosi się do paliw gazowych;
 - **49)** system gazowy wzajemnie połączony – wzajemnie połączone sieci gazowe, instalacje magazynowe lub instalacje skroplonego gazu ziemnego oraz przyłączone do nich urządzenia i instalacje współpracujące z tymi sieciami lub instalacjami. ” ;
 - **2)** po art. 4e dodaje się art. 4e1 w brzmieniu: „ Art. 4e1. Usługi przesyłania, dystrybucji, magazynowania paliw gazowych, skraplania gazu ziemnego lub regazyfikacji skroplonego gazu ziemnego mogą być świadczone wyłącznie odpowiednio przez operatora systemu przesyłowego, operatora systemu dystrybucyjnego, operatora systemu magazynowania paliw gazowych, operatora systemu skraplania gazu ziemnego lub operatora systemu połączonego. ” ;
@@ -594,7 +579,7 @@ ust. 6 otrzymuje brzmienie:
 
 11. Sprzedawca paliw gazowych lub energii elektrycznej przekazuje niezwłocznie dane, o których mowa w ust. 8 i 9, Prezesowi Urzędu Ochrony Konkurencji i Konsumentów oraz Prezesowi Urzędu Regulacji Energetyki, na ich wniosek, w związku z zadaniami wykonywanymi przez te organy.
 
-12. Prezes Urzędu Regulacji Energetyki, na wniosek zainteresowanego podmiotu, może udostępnić informacje, o których mowa w ust. 8 i 9, z wyjątkiem danych stanowiących tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. Nr 153, poz. 1503, z późn. zm.).
+12. Prezes Urzędu Regulacji Energetyki, na wniosek zainteresowanego podmiotu, może udostępnić informacje, o których mowa w ust. 8 i 9, z wyjątkiem danych stanowiących tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. Nr 153, poz. 1503, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 162, poz. 1693 i Nr 172, poz. 1804, z 2005 r. Nr 10, poz. 68, z 2007 r. Nr 171, poz. 1206 oraz z 2009 r. Nr 201, poz. 1540.).
 
 13. Przepisu ust. 12 nie stosuje się do informacji o instrumentach finansowych, o których mowa w art. 2 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. ” ;
 
@@ -646,7 +631,7 @@ ust. 6 otrzymuje brzmienie:
 
 2. Kontrolę przeprowadzają osoby upoważnione przez przedsiębiorstwo energetyczne, o którym mowa w ust. 1, zwane dalej „kontrolującymi”. Kontrolujący doręcza kontrolowanemu lub osobie przez niego upoważnionej upoważnienie do przeprowadzenia kontroli oraz okazuje legitymację służbową.
 
-3. W razie nieobecności kontrolowanego lub osoby przez niego upoważnionej, upoważnienie do przeprowadzenia kontroli oraz legitymacja służbowa mogą być okazane innemu pracownikowi kontrolowanego, który może być uznany za osobę, o której mowa w art. 97 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.) lub przywołanemu świadkowi. W takim przypadku upoważnienie doręcza się niezwłocznie kontrolowanemu, nie później jednak niż trzeciego dnia od dnia wszczęcia kontroli.
+3. W razie nieobecności kontrolowanego lub osoby przez niego upoważnionej, upoważnienie do przeprowadzenia kontroli oraz legitymacja służbowa mogą być okazane innemu pracownikowi kontrolowanego, który może być uznany za osobę, o której mowa w art. 97 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287, z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012, Nr 220, poz. 1425 i 1431 i Nr 228, poz. 1506, z 2009 r. Nr 42, poz. 341, Nr 79, poz. 662 i Nr 131, poz. 1075, z 2010 r. Nr 40, poz. 222 i Nr 155, poz. 1037 oraz z 2011 r. Nr 80, poz. 432, Nr 85, poz. 458 i Nr 230, poz. 1370.) lub przywołanemu świadkowi. W takim przypadku upoważnienie doręcza się niezwłocznie kontrolowanemu, nie później jednak niż trzeciego dnia od dnia wszczęcia kontroli.
 
 4. Kontrolujący mają prawo:
 
@@ -696,7 +681,7 @@ ust. 6 otrzymuje brzmienie:
 
 2. Przedsiębiorstwo energetyczne jest obowiązane rozpatrzyć reklamację, w terminie 14 dni od dnia jej złożenia. Jeżeli reklamacja nie została rozpatrzona w tym terminie, uważa się, że została uwzględniona.
 
-3. Jeżeli przedsiębiorstwo energetyczne, nie uwzględniło reklamacji, a odbiorca paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym, w terminie 14 dni od dnia otrzymania powiadomienia o nieuwzględnieniu reklamacji, wystąpił do stałego polubownego sądu konsumenckiego, o którym mowa w art. 37 ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2009 r. Nr 151, poz. 1219, z późn. zm.), zwanego dalej „sądem polubownym”, z wnioskiem o rozpatrzenie sporu w tym zakresie, dostarczania paliw gazowych lub energii nie wstrzymuje się do czasu wydania wyroku przez ten sąd.
+3. Jeżeli przedsiębiorstwo energetyczne, nie uwzględniło reklamacji, a odbiorca paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym, w terminie 14 dni od dnia otrzymania powiadomienia o nieuwzględnieniu reklamacji, wystąpił do stałego polubownego sądu konsumenckiego, o którym mowa w art. 37 ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2009 r. Nr 151, poz. 1219, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 63, poz. 322, Nr 106, poz. 622 i Nr 153, poz. 903, z 2012 r. poz. 1203 i 1448 oraz z 2013 r. poz. 700.), zwanego dalej „sądem polubownym”, z wnioskiem o rozpatrzenie sporu w tym zakresie, dostarczania paliw gazowych lub energii nie wstrzymuje się do czasu wydania wyroku przez ten sąd.
 
 1. Jeżeli przedsiębiorstwo energetyczne wstrzymało dostarczanie paliw gazowych lub energii odbiorcy paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym, a odbiorca ten złożył reklamację na wstrzymanie dostarczania paliw gazowych lub energii, przedsiębiorstwo energetyczne jest obowiązane wznowić dostarczanie paliw gazowych lub energii w terminie 3 dni od dnia otrzymania reklamacji i kontynuować dostarczanie paliw gazowych lub energii do czasu jej rozpatrzenia.
 
@@ -737,15 +722,17 @@ ust. 6 otrzymuje brzmienie:
 
 - **10)** w art. 9 w ust. 4 pkt 3 otrzymuje brzmienie: „
 - **3)** sposób prowadzenia obrotu energią elektryczną oraz procedurę zmiany sprzedawcy; ” ;
-- **11)** w art. 9a: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Odbiorca przemysłowy, przedsiębiorstwo energetyczne, odbiorca końcowy oraz towarowy dom maklerski lub dom maklerski, o których mowa w ust. 1a, w zakresie określonym w przepisach wydanych na podstawie ust. 9, są obowiązani: ” , – pkt 1 otrzymuje brzmienie: „ 1) uzyskać i przedstawić do umorzenia Prezesowi Urzędu Regulacji Energetyki świadectwo pochodzenia, o którym mowa w art. 9e ust. 1 lub w art. 9o ust. 1, wydane dla energii elektrycznej wytworzonej w źródłach znajdujących się na terytorium Rzeczypospolitej Polskiej lub zlokalizowanych w wyłącznej strefie ekonomicznej lub ” , ust. 1a otrzymuje brzmienie: „
+- **11)** w art. 9a: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Odbiorca przemysłowy, przedsiębiorstwo energetyczne, odbiorca końcowy oraz towarowy dom maklerski lub dom maklerski, o których mowa w ust. 1a, w zakresie określonym w przepisach wydanych na podstawie ust. 9, są obowiązani: ” , pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** uzyskać i przedstawić do umorzenia Prezesowi Urzędu Regulacji Energetyki świadectwo pochodzenia, o którym mowa w art. 9e ust. 1 lub w art. 9o ust. 1, wydane dla energii elektrycznej wytworzonej w źródłach znajdujących się na terytorium Rzeczypospolitej Polskiej lub zlokalizowanych w wyłącznej strefie ekonomicznej lub ” , ust. 1a otrzymuje brzmienie: „
     - **b)**
 
 1a. Obowiązek, o którym mowa w ust. 1 i 8, wykonują:
 
 - **1)** odbiorca przemysłowy, który w roku kalendarzowym poprzedzającym rok realizacji obowiązku zużył nie mniej niż 100 GWh energii elektrycznej, której koszt wyniósł nie mniej niż 3% wartości jego produkcji, a także złożył oświadczenie, o którym mowa w ust. 1a1;
 - **2)** przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie wytwarzania energii elektrycznej lub obrotu tą energią i sprzedające tę energię odbiorcom końcowym niebędących odbiorcami przemysłowymi, o których mowa w pkt 1;
-- **3)** odbiorca końcowy, inny niż odbiorca przemysłowy, o którym mowa w pkt 1, będący członkiem giełdy towarowej w rozumieniu art. 2 pkt 5 ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2010 r. Nr 48, poz. 284, z późn. zm.) lub członkiem rynku organizowanego przez podmiot prowadzący na terytorium Rzeczypospolitej Polskiej rynek regulowany, w odniesieniu do transakcji zawieranych we własnym imieniu na giełdzie towarowej lub na rynku organizowanym przez ten podmiot;
+- **3)** odbiorca końcowy, inny niż odbiorca przemysłowy, o którym mowa w pkt 1, będący członkiem giełdy towarowej w rozumieniu art. 2 pkt 5 ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2010 r. Nr 48, poz. 284, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 81, poz. 530 i Nr 182, poz. 1228 oraz z 2011 r. Nr 94, poz. 551, Nr 106, poz. 622 i Nr 205, poz. 1208.) lub członkiem rynku organizowanego przez podmiot prowadzący na terytorium Rzeczypospolitej Polskiej rynek regulowany, w odniesieniu do transakcji zawieranych we własnym imieniu na giełdzie towarowej lub na rynku organizowanym przez ten podmiot;
 - **4)** towarowy dom maklerski lub dom maklerski, o których mowa w art. 2 pkt 8 i 9 ustawy z dnia 26 października 2000 r. o giełdach towarowych, w odniesieniu do transakcji realizowanych na zlecenie odbiorców końcowych, innych niż odbiorcy przemysłowi, o których mowa w pkt 1, na giełdzie towarowej lub na rynku organizowanym przez podmiot prowadzący na terytorium Rzeczypospolitej Polskiej rynek regulowany. ” , po ust. 1a dodaje się ust. 1a1–1a6 w brzmieniu: „ 1a1. Odbiorca przemysłowy, o którym mowa w ust. 1a pkt 1, jest obowiązany złożyć Prezesowi Urzędu Regulacji Energetyki oświadczenie potwierdzające zużycie nie mniej niż 100 GWh energii elektrycznej, której koszt wyniósł nie mniej niż 3% wartości jego produkcji w roku kalendarzowym poprzedzającym rok realizacji obowiązku, o którym mowa w ust. 1, w terminie do dnia 30 listopada roku poprzedzającego rok realizacji obowiązku. 1a2. Prezes Urzędu Regulacji Energetyki sporządza wykaz odbiorców przemysłowych którzy złożyli oświadczenie, o którym mowa w ust. 1a1, i ogłasza go w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki do dnia 31 grudnia roku poprzedzającego rok realizacji obowiązku. 1a3. Obowiązek, o którym mowa w ust. 1 i 8, odbiorcy przemysłowi, o których mowa w ust. la pkt 1, którzy w roku kalendarzowym poprzedzającym rok realizacji obowiązku zużyli:
     - **c)**
 
@@ -758,8 +745,11 @@ ust. 6 otrzymuje brzmienie:
 - **2)** znane mi są i spełniam warunki uprawnienia określonego w ust. 1a3 ustawy, o której mowa w pkt 1. ” . Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań. 1a6. Podmiot, który nie przekazał Prezesowi Urzędu Regulacji Energetyki informacji oraz oświadczenia, o których mowa w ust. 1a5, podał w tej informacji nieprawdziwe lub wprowadzające w błąd dane lub skorzystał z uprawnienia, o którym mowa w ust. 1a3, nie spełniając określonych w tym przepisie warunków, nie może skorzystać z uprawnienia, o którym mowa w ust. 1a3, przez okres 5 lat liczonych od zakończenia roku, którego dotyczył obowiązek. ” , w ust. 8 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Odbiorca przemysłowy, przedsiębiorstwo energetyczne, odbiorca końcowy oraz towarowy dom maklerski lub dom maklerski, o których mowa w ust. 1a, w zakresie określonym w przepisach wydanych na podstawie ust. 10, są obowiązani: ” ;
     - **d)**
 
-- **12)** w art. 9c: w ust. 1: – pkt 5 otrzymuje brzmienie: „ 5) współpracę z innymi operatorami systemów gazowych lub przedsiębiorstwami energetycznymi w celu niezawodnego i efektywnego funkcjonowania systemów gazowych, systemów gazowych wzajemnie połączonych oraz skoordynowania ich rozwoju, w tym współpracę w ramach ENTSO gazu, o którym mowa w art. 4 rozporządzenia Parlamentu Europejskiego i Rady (WE) Nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005; ” , – w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „ 12) realizację obowiązków wynikających z rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005. ” , po ust. 2a dodaje się ust. 2b w brzmieniu: „
+- **12)** w art. 9c: w ust. 1: pkt 5 otrzymuje brzmienie: „
     - **a)**
+
+- **5)** współpracę z innymi operatorami systemów gazowych lub przedsiębiorstwami energetycznymi w celu niezawodnego i efektywnego funkcjonowania systemów gazowych, systemów gazowych wzajemnie połączonych oraz skoordynowania ich rozwoju, w tym współpracę w ramach ENTSO gazu, o którym mowa w art. 4 rozporządzenia Parlamentu Europejskiego i Rady (WE) Nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005; ” , w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
+- **12)** realizację obowiązków wynikających z rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005. ” , po ust. 2a dodaje się ust. 2b w brzmieniu: „
     - **b)**
 
 2b. Za usługi świadczone przez operatora systemu przesyłowego gazowego oraz operatora systemu przesyłowego elektroenergetycznego w przypadku, o którym mowa w art. 9h ust. 3 pkt 2, właściciel sieci przesyłowej nie pobiera opłat. ” , po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „
@@ -772,7 +762,7 @@ ust. 6 otrzymuje brzmienie:
 
 - **d)**
 
-5a. Operatorzy systemów dystrybucyjnych instalujący u odbiorców końcowych przyłączonych do ich sieci liczniki zdalnego odczytu są obowiązani chronić dane pomiarowe dotyczące tych odbiorców, na zasadach określonych w ustawie z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. Nr 101, poz. 926, z późn. zm.).
+5a. Operatorzy systemów dystrybucyjnych instalujący u odbiorców końcowych przyłączonych do ich sieci liczniki zdalnego odczytu są obowiązani chronić dane pomiarowe dotyczące tych odbiorców, na zasadach określonych w ustawie z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. Nr 101, poz. 926, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 165, poz. 1170 i Nr 176, poz. 1238, z 2010 r. Nr 41, poz. 233, Nr 182, poz. 1228 i Nr 229, poz. 1497 oraz z 2011 r. Nr 230, poz. 1371.).
 
 5b. Przez liczniki zdalnego odczytu rozumie się zespół urządzeń służących do pozyskiwania danych pomiarowych, umożliwiający dwustronną komunikację z systemem teleinformatycznym. ” , po ust. 10 dodaje się ust. 10a w brzmieniu: „
 
@@ -808,7 +798,7 @@ ust. 6 otrzymuje brzmienie:
 - **3)** posiadanie większościowego pakietu udziałów lub akcji. ” , po ust. 1b dodaje się ust. 1c-1i w brzmieniu: „
     - **d)**
 
-1c. Przez decydujący wpływ, o którym mowa w ust. 1a pkt 1 i 2, rozumie się w szczególności wykonywanie uprawnień, o których mowa w art. 4 pkt 4 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. Nr 50, poz. 331, z późn. zm.).
+1c. Przez decydujący wpływ, o którym mowa w ust. 1a pkt 1 i 2, rozumie się w szczególności wykonywanie uprawnień, o których mowa w art. 4 pkt 4 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. Nr 50, poz. 331, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 660 i Nr 171, poz. 1206, z 2008 r. Nr 157, poz. 976, Nr 223, poz. 1458 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 i Nr 157, poz. 1241 oraz z 2011 r. Nr 34, poz. 173.).
 
 1d. Operator systemu dystrybucyjnego będący w strukturze przedsiębiorstwa zintegrowanego pionowo pozostaje pod względem formy prawnej i organizacyjnej oraz podejmowania decyzji niezależny od innych działalności niezwiązanych z dystrybucją paliw gazowych lub energii elektrycznej.
 
@@ -944,7 +934,7 @@ ust. 6 otrzymuje brzmienie:
 4. Jeżeli Komisja Europejska nie wyda opinii, o której mowa w ust. 3, w terminie:
 
 - **1)** dwóch miesięcy od dnia wystąpienia o jej wydanie,
-- **2)** czterech miesięcy od dnia wystąpienia o jej wydanie – w przypadku zwrócenia się Komisji Europejskiej do Agencji, danego państwa członkowskiego Unii Europejskiej lub innego zainteresowanego podmiotu z wnioskiem o zajęcie stanowiska przyjmuje się, że opinia Komisji Europejskiej jest pozytywna.
+- **2)** czterech miesięcy od dnia wystąpienia o jej wydanie – w przypadku zwrócenia się Komisji Europejskiej do Agencji, danego państwa członkowskiego Unii Europejskiej lub innego zainteresowanego podmiotu z wnioskiem o zajęcie stanowiska – przyjmuje się, że opinia Komisji Europejskiej jest pozytywna.
 
 5. Prezes Urzędu Regulacji Energetyki po stwierdzeniu, że przedsiębiorstwo energetyczne spełnia kryteria niezależności, o których mowa w art. 9d ust. 1a, przyznaje temu przedsiębiorstwu, w drodze decyzji, certyfikat niezależności, w terminie dwóch miesięcy od dnia wydania opinii, o której mowa w ust. 3, albo od dnia upływu terminu, o którym mowa w ust. 4.
 
@@ -974,7 +964,7 @@ ust. 6 otrzymuje brzmienie:
 1. W przypadku:
 
 - **1)** gdy o przyznanie certyfikatu niezależności wystąpi właściciel sieci przesyłowej lub przedsiębiorstwo energetyczne, na które podmiot z państwa niebędącego państwem członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, wywiera decydujący wpływ, o którym mowa w art. 9d ust. 1c,
-- **2)** wystąpienia okoliczności, w wyniku których podmiot, o którym mowa w pkt 1, może wywierać decydujący wpływ, o którym mowa w art. 9d ust. 1c, na operatora systemu przesyłowego albo na sieć przesyłową Prezes Urzędu Regulacji Energetyki, w terminie czterech miesięcy od dnia złożenia wniosku o przyznanie certyfikatu niezależności lub wystąpienia okoliczności, przekazuje Komisji Europejskiej stanowisko wraz z wnioskiem o wydanie opinii w sprawie spełniania przez właściciela sieci przesyłowej lub przedsiębiorstwo energetyczne wymagań określonych w art. 9d ust. 1 i 1a oraz wpływu przyznania im certyfikatu niezależności na bezpieczeństwo dostaw paliw gazowych lub energii elektrycznej w Unii Europejskiej.
+- **2)** wystąpienia okoliczności, w wyniku których podmiot, o którym mowa w pkt 1, może wywierać decydujący wpływ, o którym mowa w art. 9d ust. 1c, na operatora systemu przesyłowego albo na sieć przesyłową – Prezes Urzędu Regulacji Energetyki, w terminie czterech miesięcy od dnia złożenia wniosku o przyznanie certyfikatu niezależności lub wystąpienia okoliczności, przekazuje Komisji Europejskiej stanowisko wraz z wnioskiem o wydanie opinii w sprawie spełniania przez właściciela sieci przesyłowej lub przedsiębiorstwo energetyczne wymagań określonych w art. 9d ust. 1 i 1a oraz wpływu przyznania im certyfikatu niezależności na bezpieczeństwo dostaw paliw gazowych lub energii elektrycznej w Unii Europejskiej.
 
 2. Prezes Urzędu Regulacji Energetyki przed przyznaniem certyfikatu niezależności występuje do ministra właściwego do spraw zagranicznych o opinię dotyczącą:
 
@@ -987,7 +977,7 @@ ust. 6 otrzymuje brzmienie:
 4. Jeżeli Komisja Europejska nie wyda opinii, o której mowa w ust. 1, w terminie:
 
 - **1)** dwóch miesięcy od dnia wystąpienia o jej wydanie albo
-- **2)** czterech miesięcy od dnia wystąpienia o jej wydanie – w przypadku zwrócenia się Komisji Europejskiej do Agencji, danego państwa członkowskiego Unii Europejskiej lub innego zainteresowanego podmiotu z wnioskiem o zajęcie stanowiska przyjmuje się, że opinia Komisji Europejskiej jest pozytywna.
+- **2)** czterech miesięcy od dnia wystąpienia o jej wydanie – w przypadku zwrócenia się Komisji Europejskiej do Agencji, danego państwa członkowskiego Unii Europejskiej lub innego zainteresowanego podmiotu z wnioskiem o zajęcie stanowiska – przyjmuje się, że opinia Komisji Europejskiej jest pozytywna.
 
 5. Prezes Urzędu Regulacji Energetyki odmawia przyznania certyfikatu niezależności w przypadku, gdy nie wykazano, że:
 
@@ -1022,7 +1012,7 @@ ust. 6 otrzymuje brzmienie:
 
 - **20)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Gwarancje pochodzenia energii elektrycznej wytwarzanej w odnawialnym źródle energii
+#### Rozdział 2a
 
 **Art. 11g.**
 
@@ -1082,7 +1072,7 @@ ust. 6 otrzymuje brzmienie:
 1. Rejestr gwarancji pochodzenia prowadzi podmiot prowadzący:
 
 - **1)** giełdę towarową w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych lub
-- **2)** na terytorium Rzeczypospolitej Polskiej rynek regulowany w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi organizujący obrót gwarancjami pochodzenia.
+- **2)** na terytorium Rzeczypospolitej Polskiej rynek regulowany w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi – organizujący obrót gwarancjami pochodzenia.
 
 2. Podmiot, o którym mowa w ust. 1, jest obowiązany prowadzić rejestr gwarancji pochodzenia w sposób zapewniający identyfikację:
 
@@ -1193,7 +1183,7 @@ ust. 6 otrzymuje brzmienie:
 
 - **24)** po rozdziale 3 dodaje się rozdziały 3a i 3b w brzmieniu: „
 
-#### Rozdział 3a Krajowy plan działania w zakresie energii ze źródeł odnawialnych oraz monitorowanie rynku energii elektrycznej, ciepła dostarczanego lub odbieranego z odnawialnego źródła energii, biogazu rolniczego, a także rynku biokomponentów, paliw ciekłych i biopaliw ciekłych stosowanych w transporcie
+#### Rozdział 3a
 
 **Art. 20a.**
 
@@ -1217,7 +1207,7 @@ ust. 6 otrzymuje brzmienie:
 5. W przypadku:
 
 - **1)** gdy udział energii i paliw pozyskanych ze źródeł odnawialnych, określony w krajowym planie działania, obniży się poniżej orientacyjnego kursu w okresie dwuletnim, bezpośrednio poprzedzającym okres określony w krajowym planie działania albo
-- **2)** wydania zalecenia przez Komisję Europejską minister właściwy do spraw gospodarki opracowuje i przekazuje Komisji Europejskiej aktualizację krajowego planu działania.
+- **2)** wydania zalecenia przez Komisję Europejską – minister właściwy do spraw gospodarki opracowuje i przekazuje Komisji Europejskiej aktualizację krajowego planu działania.
 
 6. Do aktualizacji krajowego planu działania przepisy ust. 2–4 stosuje się odpowiednio.
 
@@ -1281,7 +1271,7 @@ ust. 6 otrzymuje brzmienie:
 - **1)** mocy zainstalowanej poszczególnych rodzajów odnawialnych źródeł energii objętych koncesją Prezesa Urzędu Regulacji Energetyki na wykonywanie działalności gospodarczej polegającej na wytwarzaniu energii elektrycznej,
 - **2)** ilości energii elektrycznej wytworzonej w odnawialnych źródłach energii, określonego na podstawie wydanych przez Prezesa Urzędu Regulacji Energetyki świadectw pochodzenia oraz świadectw pochodzenia biogazu, z podziałem na rodzaje odnawialnych źródeł energii,
 - **3)** ilości energii elektrycznej wytworzonej w odnawialnych źródłach energii, objętego postanowieniami o odmowie wydania świadectw pochodzenia lub świadectw pochodzenia z biogazu rolniczego,
-- **4)** ilości wydanych gwarancji pochodzenia dla energii elektrycznej wytworzonej w odnawialnych źródłach energii, z podziałem na rodzaje odnawialnych źródeł energii, na które zostały one wydane w terminie 25 dni od zakończenia każdego kwartału.
+- **4)** ilości wydanych gwarancji pochodzenia dla energii elektrycznej wytworzonej w odnawialnych źródłach energii, z podziałem na rodzaje odnawialnych źródeł energii, na które zostały one wydane – w terminie 25 dni od zakończenia każdego kwartału.
 
 2. Prezes Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej przekazuje ministrowi właściwemu do spraw gospodarki informacje o wysokości uiszczonych opłat zastępczych, według stanu na koniec danego kwartału, w terminie 45 dni od zakończenia kwartału.
 
@@ -1293,7 +1283,7 @@ ust. 6 otrzymuje brzmienie:
     - **c)**
 
 - **2)** znormalizowanej ilości energii elektrycznej wytworzonej w elektrowniach wodnych lub w farmach wiatrowych,
-- **3)** rzeczywistej ilości ciepła wytworzonego z energii aerotermalnej, geotermalnej lub hydrotermalnej przez pompy ciepła biorąc pod uwagę rodzaj działalności gospodarczej, możliwości techniczne i organizacyjne w zakresie wytwarzania energii w odnawialnych źródłach energii. Przez energię ze źródeł odnawialnych, o której mowa w niniejszym rozdziale, rozumie się energię wiatru, energię promieniowania słonecznego, energię aerotermalną, geotermalną, hydrotermalną, energię fal, prądów i pływów morskich, energię spadku rzek oraz energię pozyskiwaną z biomasy, biogazu pochodzącego ze składowisk odpadów, a także biogazu powstałego w procesach odprowadzania lub oczyszczania ścieków albo rozkładu składowanych szczątków roślinnych i zwierzęcych.
+- **3)** rzeczywistej ilości ciepła wytworzonego z energii aerotermalnej, geotermalnej lub hydrotermalnej przez pompy ciepła – biorąc pod uwagę rodzaj działalności gospodarczej, możliwości techniczne i organizacyjne w zakresie wytwarzania energii w odnawialnych źródłach energii. Przez energię ze źródeł odnawialnych, o której mowa w niniejszym rozdziale, rozumie się energię wiatru, energię promieniowania słonecznego, energię aerotermalną, geotermalną, hydrotermalną, energię fal, prądów i pływów morskich, energię spadku rzek oraz energię pozyskiwaną z biomasy, biogazu pochodzącego ze składowisk odpadów, a także biogazu powstałego w procesach odprowadzania lub oczyszczania ścieków albo rozkładu składowanych szczątków roślinnych i zwierzęcych.
 
-#### Rozdział 3b Warunki i tryb wydawania certyfikatów instalatorom mikroinstalacji i małych instalacji oraz akredytowania organizatorów szkoleń
+#### Rozdział 3b
 

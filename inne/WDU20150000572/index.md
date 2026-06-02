@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-04-17 |
 | Data wydania | 2015-04-27 |
-| Wejście w życie | 2015-04-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000572) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/572/text.pdf) |
 
@@ -37,17 +36,13 @@ w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Warunkiem przyznani
 b)
 uchyla się ust. 2,
 c)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-Wysokość dodatku motywacyjnego dla nauczyciela ustala dyrektor szkoły, a dla dyrektora – organ prowadzący szkołę.
-” ;
+Wysokość dodatku motywacyjnego dla nauczyciela ustala dyrektor szkoły, a dla dyrektora – organ prowadzący szkołę. ” ;
 2)
-w § 3 ust. 3 otrzymuje brzmienie:
-„
+w § 3 ust. 3 otrzymuje brzmienie: „
 3.
-Nauczycielowi, któremu powierzono sprawowanie funkcji wychowawcy klasy, doradcy metodycznego lub opiekuna stażu, przysługuje dodatek funkcyjny w łącznej wysokości od 2% do 20% otrzymywanego przez nauczyciela wynagrodzenia zasadniczego.
-” .
+Nauczycielowi, któremu powierzono sprawowanie funkcji wychowawcy klasy, doradcy metodycznego lub opiekuna stażu, przysługuje dodatek funkcyjny w łącznej wysokości od 2% do 20% otrzymywanego przez nauczyciela wynagrodzenia zasadniczego. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

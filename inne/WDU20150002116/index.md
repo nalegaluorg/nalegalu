@@ -22,17 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-03 |
 | Data wydania | 2015-12-11 |
-| Wejście w życie | 2015-12-12 |
 | Ostatnia zmiana | 2025-08-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002116) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2116/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 10 ust. 4 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) w związku z art. 12a ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 10 ust. 4 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) w związku z art. 12a ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662 oraz z 2015 r. poz. 151, 478, 942, 1618, 1893 i 1960.) zarządza się, co następuje:
 § 1.
 Pełnomocnikiem Rządu do spraw Strategicznej Infrastruktury Energetycznej, o którym mowa w art. 12a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, zwanym dalej „Pełnomocnikiem”, jest sekretarz stanu w Kancelarii Prezesa Rady Ministrów.
 § 2.
 1.
-Pełnomocnik wykonuje uprawnienia Skarbu Państwa określone w art. 2 pkt 5 lit. a, art. 5a oraz art. 18 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. z 2012 r. poz. 1224, z późn. zm.) w stosunku do operatora systemu przesyłowego elektroenergetycznego i operatora systemu przesyłowego gazowego.
+Pełnomocnik wykonuje uprawnienia Skarbu Państwa określone w art. 2 pkt 5 lit. a, art. 5a oraz art. 18 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. z 2012 r. poz. 1224, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 978, 1223 i 1322.) w stosunku do operatora systemu przesyłowego elektroenergetycznego i operatora systemu przesyłowego gazowego.
 2.
 Pełnomocnik wykonuje uprawnienia Skarbu Państwa w stosunku do innych podmiotów sektora infrastruktury energetycznej – w zakresie określonym w przepisach odrębnych albo w odrębnie udzielonych mu pełnomocnictwach.
 3.
@@ -60,5 +59,5 @@ Wydatki związane z działalnością Pełnomocnika są pokrywane z budżetu pań
 § 7.
 Pełnomocnik przedstawi sprawozdanie za okres od dnia powołania do dnia 31 grudnia 2015 r. wraz ze sprawozdaniem za rok 2016, do dnia 15 marca 2017 r.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662 oraz z 2015 r. poz. 151, 478, 942, 1618, 1893 i 1960. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 978, 1223 i 1322.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 3 lipca 2020 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań dotyczących wytwarzania i jakości materiału szkółkarskiego
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 3 lipca 2020 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań dotyczących wytwarzania i jakości materiału szkółkarskiego Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-07-03 |
 | Data wydania | 2020-07-15 |
-| Wejście w życie | 2020-07-30 |
 | Ostatnia zmiana | 2025-05-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001244) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1244/text.pdf) |
 
@@ -33,53 +32,474 @@ Treść rozporządzenia
 ## Załącznik nr 2 — – Wymagania dotyczące dokonywania oceny polowej, pobierania prób oraz oceny laboratoryjnej materiału szkółkarskiego
 
 Treść rozporządzenia
-Na podstawie art. 72 pkt 1–3b ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2019 r. poz. 568 oraz z 2020 r. poz. 425 i 875) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę wykonawczą Komisji (UE) 2020/177 z dnia 11 lutego 2020 r. zmieniającą dyrektywy Rady 66/401/EWG, 66/402/EWG, 68/193/EWG, 2002/55/WE, 2002/56/WE i 2002/57/WE, dyrektywy Komisji 93/49/EWG i 93/61/EWG oraz dyrektywy wykonawcze 2014/21/UE i 2014/98/UE w odniesieniu do agrofagów roślin występujących na nasionach i innym materiale rozmnożeniowym roślin (Dz. Urz. UE L 41 z 13.02.2020, str. 1). Na podstawie art. 72 pkt 1–3b ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2019 r. poz. 568 oraz z 2020 r. poz. 425 i 875) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 31 marca 2017 r. w sprawie szczegółowych wymagań dotyczących wytwarzania i jakości materiału szkółkarskiego (Dz. U. poz. 757) wprowadza się następujące zmiany:
 1)
 w załączniku nr 2 do rozporządzenia:
 a)
 w części A:
-– dział VIII otrzymuje brzmienie: „ VIII. Wymagania dotyczące zdrowotności przedbazowych roślin matecznych i materiału przedbazowego 1. Przedbazowe rośliny mateczne lub materiał przedbazowy powinny być, na podstawie oceny polowej, wolne od regulowanych agrofagów niekwarantannowych dla Unii w rozumieniu art. 36 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/2031 z dnia 26 października 2016 r. w sprawie środków ochronnych przeciwko agrofagom roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 228/2013, (UE) nr 652/2014 i (UE) nr 1143/2014 oraz uchylającego dyrektywy Rady 69/464/EWG, 74/647/EWG, 93/85/EWG, 98/57/WE, 2000/29/WE, 2006/91/WE i 2007/33/WE (Dz. Urz. UE L 317 z 23.11.2016, str. 4, z późn. zm.), zwanych dalej „RNQP”, wymienionych w tabelach I i II w odniesieniu do danego rodzaju lub gatunku roślin oraz powinny spełniać wymagania określone w załączniku nr 3 do rozporządzenia. Dokonuje się pobrania prób z przedbazowych roślin matecznych i materiału przedbazowego oraz oceny laboratoryjnej na obecność RNQP wymienionych w tabeli II w odniesieniu do danego rodzaju lub gatunku roślin, zgodnie z wymaganiami określonymi w załączniku nr 3 do rozporządzenia. W przypadku wątpliwości dotyczących występowania RNQP wymienionych w tabeli I na danych przedbazowych roślinach matecznych i materiale przedbazowym dokonuje się pobrania prób z tych roślin i tego materiału oraz oceny laboratoryjnej zgodnie z wymaganiami określonymi w załączniku nr 3 do rozporządzenia. 2. Do pobierania prób i oceny laboratoryjnej określonych w ust. 1 stosuje się metodyki Europejskiej i Śródziemnomorskiej Organizacji Ochrony Roślin (EPPO) lub metodyki uznane na poziomie międzynarodowym, a w przypadku gdy takie metodyki nie istnieją – metodyki rekomendowane przez instytuty badawcze, udostępnione na stronie internetowej administrowanej przez Instytut Ogrodnictwa w Skierniewicach. 3. W przypadku stwierdzenia w wyniku badania przedbazowej rośliny matecznej lub materiału przedbazowego występowania RNQP wymienionych w tabelach I i II w odniesieniu do danego rodzaju lub gatunku roślin, dostawca usuwa porażoną przedbazową roślinę mateczną lub porażony materiał przedbazowy z sąsiedztwa innych przedbazowych roślin matecznych lub materiału przedbazowego zgodnie z działem I ust. 3 lub działem II ust. 3 oraz stosuje wymagania określone w załączniku nr 3 do rozporządzenia. 4. Wymagań, o których mowa w ust. 1, nie stosuje się do przedbazowych roślin matecznych i materiału przedbazowego podczas krioprezerwacji. ” ,
-– tytuł działu IX otrzymuje brzmienie: „ IX. Wymagania dla gleby i podłoża w przypadku przedbazowych roślin matecznych i materiału przedbazowego ” ,
+dział VIII otrzymuje brzmienie: „
+VIII.
+Wymagania dotyczące zdrowotności przedbazowych roślin matecznych i materiału przedbazowego
+1.
+Przedbazowe rośliny mateczne lub materiał przedbazowy powinny być, na podstawie oceny polowej, wolne od regulowanych agrofagów niekwarantannowych dla Unii w rozumieniu art. 36 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/2031 z dnia 26 października 2016 r. w sprawie środków ochronnych przeciwko agrofagom roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 228/2013, (UE) nr 652/2014 i (UE) nr 1143/2014 oraz uchylającego dyrektywy Rady 69/464/EWG, 74/647/EWG, 93/85/EWG, 98/57/WE, 2000/29/WE, 2006/91/WE i 2007/33/WE (Dz. Urz. UE L 317 z 23.11.2016, str. 4, z późn. zm.), zwanych dalej „RNQP”, wymienionych w tabelach I i II w odniesieniu do danego rodzaju lub gatunku roślin oraz powinny spełniać wymagania określone w załączniku nr 3 do rozporządzenia. Dokonuje się pobrania prób z przedbazowych roślin matecznych i materiału przedbazowego oraz oceny laboratoryjnej na obecność RNQP wymienionych w tabeli II w odniesieniu do danego rodzaju lub gatunku roślin, zgodnie z wymaganiami określonymi w załączniku nr 3 do rozporządzenia. W przypadku wątpliwości dotyczących występowania RNQP wymienionych w tabeli I na danych przedbazowych roślinach matecznych i materiale przedbazowym dokonuje się pobrania prób z tych roślin i tego materiału oraz oceny laboratoryjnej zgodnie z wymaganiami określonymi w załączniku nr 3 do rozporządzenia.
+2.
+Do pobierania prób i oceny laboratoryjnej określonych w ust. 1 stosuje się metodyki Europejskiej i Śródziemnomorskiej Organizacji Ochrony Roślin (EPPO)Standardy w zakresie Środków Fitosanitarnych wydawane przez Europejską i Śródziemnomorską Organizację Ochrony Roślin na podstawie Konwencji w sprawie utworzenia Europejskiej i Śródziemnomorskiej Organizacji Ochrony Roślin, podpisanej w Paryżu dnia 18 kwietnia 1951 r. (Dz. U. z 1959 r. poz. 191 oraz z 1963 r. poz. 219). lub metodyki uznane na poziomie międzynarodowym, a w przypadku gdy takie metodyki nie istnieją – metodyki rekomendowane przez instytuty badawcze, udostępnione na stronie internetowej administrowanej przez Instytut Ogrodnictwa w Skierniewicachhttp://www.inhort.pl/metodyki-szkolkarskie-do-rozporzadzenia-mrirw..
+3.
+W przypadku stwierdzenia w wyniku badania przedbazowej rośliny matecznej lub materiału przedbazowego występowania RNQP wymienionych w tabelach I i II w odniesieniu do danego rodzaju lub gatunku roślin, dostawca usuwa porażoną przedbazową roślinę mateczną lub porażony materiał przedbazowy z sąsiedztwa innych przedbazowych roślin matecznych lub materiału przedbazowego zgodnie z działem I ust. 3 lub działem II ust. 3 oraz stosuje wymagania określone w załączniku nr 3 do rozporządzenia.
+4.
+Wymagań, o których mowa w ust. 1, nie stosuje się do przedbazowych roślin matecznych i materiału przedbazowego podczas krioprezerwacji. ” ,
+tytuł działu IX otrzymuje brzmienie: „
+IX.
+Wymagania dla gleby i podłoża w przypadku przedbazowych roślin matecznych i materiału przedbazowego ” ,
 b)
 w części B:
-– dział II otrzymuje brzmienie: „ II. Wymagania dotyczące zdrowotności bazowych roślin matecznych i materiału bazowego 1. Bazowe rośliny mateczne lub materiał bazowy powinny być, na podstawie oceny polowej, wolne od RNQP wymienionych w tabelach I i II w odniesieniu do danego rodzaju lub gatunku roślin oraz powinny spełniać wymagania określone w załączniku nr 3 do rozporządzenia. Dokonuje się pobrania prób z bazowych roślin matecznych i materiału bazowego oraz oceny laboratoryjnej na obecność RNQP wymienionych w tabeli II w odniesieniu do danego rodzaju lub gatunku roślin, zgodnie z wymaganiami określonymi w załączniku nr 3 do rozporządzenia. W przypadku wątpliwości dotyczących występowania RNQP wymienionych w tabeli I na danych bazowych roślinach matecznych i materiale bazowym dokonuje się pobrania prób z tych roślin i tego materiału oraz oceny laboratoryjnej zgodnie z wymaganiami określonymi w załączniku nr 3 do rozporządzenia. 2. Do pobierania prób i oceny laboratoryjnej określonych w ust. 1 stosuje się metodyki Europejskiej i Śródziemnomorskiej Organizacji Ochrony Roślin (EPPO) lub metodyki uznane na poziomie międzynarodowym, a w przypadku gdy takie metodyki nie istnieją – metodyki rekomendowane przez instytuty badawcze, udostępnione na stronie internetowej administrowanej przez Instytut Ogrodnictwa w Skierniewicach. 3. W przypadku stwierdzenia w wyniku badania bazowej rośliny matecznej lub materiału bazowego występowania RNQP wymienionych w tabelach I i II w odniesieniu do danego rodzaju lub gatunku roślin, dostawca usuwa porażoną bazową roślinę mateczną lub porażony materiał bazowy z sąsiedztwa innych bazowych roślin matecznych lub materiału bazowego zgodnie z działem I ust. 3 lub 4 oraz stosuje wymagania określone w załączniku nr 3 do rozporządzenia. 4. Wymagań, o których mowa w ust. 1, nie stosuje się do bazowych roślin matecznych i materiału bazowego podczas krioprezerwacji. ” ,
-– tytuł działu III otrzymuje brzmienie: „ III. Wymagania dla gleby w przypadku bazowych roślin matecznych i materiału bazowego ” ,
+dział II otrzymuje brzmienie: „
+II.
+Wymagania dotyczące zdrowotności bazowych roślin matecznych i materiału bazowego
+1.
+Bazowe rośliny mateczne lub materiał bazowy powinny być, na podstawie oceny polowej, wolne od RNQP wymienionych w tabelach I i II w odniesieniu do danego rodzaju lub gatunku roślin oraz powinny spełniać wymagania określone w załączniku nr 3 do rozporządzenia. Dokonuje się pobrania prób z bazowych roślin matecznych i materiału bazowego oraz oceny laboratoryjnej na obecność RNQP wymienionych w tabeli II w odniesieniu do danego rodzaju lub gatunku roślin, zgodnie z wymaganiami określonymi w załączniku nr 3 do rozporządzenia. W przypadku wątpliwości dotyczących występowania RNQP wymienionych w tabeli I na danych bazowych roślinach matecznych i materiale bazowym dokonuje się pobrania prób z tych roślin i tego materiału oraz oceny laboratoryjnej zgodnie z wymaganiami określonymi w załączniku nr 3 do rozporządzenia.
+2.
+Do pobierania prób i oceny laboratoryjnej określonych w ust. 1 stosuje się metodyki Europejskiej i Śródziemnomorskiej Organizacji Ochrony Roślin (EPPO)Standardy w zakresie Środków Fitosanitarnych wydawane przez Europejską i Śródziemnomorską Organizację Ochrony Roślin na podstawie Konwencji w sprawie utworzenia Europejskiej i Śródziemnomorskiej Organizacji Ochrony Roślin, podpisanej w Paryżu dnia 18 kwietnia 1951 r. (Dz. U. z 1959 r. poz. 191 oraz z 1963 r. poz. 219). lub metodyki uznane na poziomie międzynarodowym, a w przypadku gdy takie metodyki nie istnieją – metodyki rekomendowane przez instytuty badawcze, udostępnione na stronie internetowej administrowanej przez Instytut Ogrodnictwa w Skierniewicachhttp://www.inhort.pl/metodyki-szkolkarskie-do-rozporzadzenia-mrirw..
+3.
+W przypadku stwierdzenia w wyniku badania bazowej rośliny matecznej lub materiału bazowego występowania RNQP wymienionych w tabelach I i II w odniesieniu do danego rodzaju lub gatunku roślin, dostawca usuwa porażoną bazową roślinę mateczną lub porażony materiał bazowy z sąsiedztwa innych bazowych roślin matecznych lub materiału bazowego zgodnie z działem I ust. 3 lub 4 oraz stosuje wymagania określone w załączniku nr 3 do rozporządzenia.
+4.
+Wymagań, o których mowa w ust. 1, nie stosuje się do bazowych roślin matecznych i materiału bazowego podczas krioprezerwacji. ” ,
+tytuł działu III otrzymuje brzmienie: „
+III.
+Wymagania dla gleby w przypadku bazowych roślin matecznych i materiału bazowego ” ,
 c)
 w części C:
-– dział II otrzymuje brzmienie: „ II. Wymagania dotyczące zdrowotności kwalifikowanych roślin matecznych i materiału kwalifikowanego 1. Kwalifikowane rośliny mateczne lub materiał kategorii kwalifikowany powinny być, na podstawie oceny polowej, wolne od RNQP wymienionych w tabelach I i II w odniesieniu do danego rodzaju lub gatunku roślin oraz powinny spełniać wymagania określone w załączniku nr 3 do rozporządzenia. Dokonuje się pobrania prób z kwalifikowanych roślin matecznych i materiału kwalifikowanego oraz oceny laboratoryjnej na obecność RNQP wymienionych w tabeli II w odniesieniu do danego rodzaju lub gatunku roślin, zgodnie z wymaganiami określonymi w załączniku nr 3 do rozporządzenia. W przypadku wątpliwości dotyczących występowania RNQP wymienionych w tabeli I na danych kwalifikowanych roślinach matecznych i materiale kwalifikowanym dokonuje się pobrania prób z tych roślin i tego materiału oraz oceny laboratoryjnej zgodnie z wymaganiami określonymi w załączniku nr 3 do rozporządzenia. 2. Do pobierania prób i oceny laboratoryjnej określonych w ust. 1 stosuje się metodyki Europejskiej i Śródziemnomorskiej Organizacji Ochrony Roślin (EPPO) lub metodyki uznane na poziomie międzynarodowym, a w przypadku gdy takie metodyki nie istnieją – metodyki rekomendowane przez instytuty badawcze, udostępnione na stronie internetowej administrowanej przez Instytut Ogrodnictwa w Skierniewicach. 3. W przypadku stwierdzenia w wyniku badania kwalifikowanej rośliny matecznej lub materiału kwalifikowanego występowania RNQP wymienionych w tabelach I i II w odniesieniu do danego rodzaju lub gatunku roślin, dostawca usuwa porażoną kwalifikowaną roślinę mateczną lub porażony materiał kwalifikowany z sąsiedztwa innych kwalifikowanych roślin matecznych lub materiału kwalifikowanego zgodnie z działem I ust. 6 lub 7 oraz stosuje wymagania określone w załączniku nr 3 do rozporządzenia. 4. Wymagań, o których mowa w ust. 1, nie stosuje się do kwalifikowanych roślin matecznych i materiału kwalifikowanego podczas krioprezerwacji. ” ,
-– tytuł działu III otrzymuje brzmienie: „ III. Wymagania dla gleby w przypadku kwalifikowanych roślin matecznych i materiału kwalifikowanego ” ,
+dział II otrzymuje brzmienie: „
+II.
+Wymagania dotyczące zdrowotności kwalifikowanych roślin matecznych i materiału kwalifikowanego
+1.
+Kwalifikowane rośliny mateczne lub materiał kategorii kwalifikowany powinny być, na podstawie oceny polowej, wolne od RNQP wymienionych w tabelach I i II w odniesieniu do danego rodzaju lub gatunku roślin oraz powinny spełniać wymagania określone w załączniku nr 3 do rozporządzenia. Dokonuje się pobrania prób z kwalifikowanych roślin matecznych i materiału kwalifikowanego oraz oceny laboratoryjnej na obecność RNQP wymienionych w tabeli II w odniesieniu do danego rodzaju lub gatunku roślin, zgodnie z wymaganiami określonymi w załączniku nr 3 do rozporządzenia. W przypadku wątpliwości dotyczących występowania RNQP wymienionych w tabeli I na danych kwalifikowanych roślinach matecznych i materiale kwalifikowanym dokonuje się pobrania prób z tych roślin i tego materiału oraz oceny laboratoryjnej zgodnie z wymaganiami określonymi w załączniku nr 3 do rozporządzenia.
+2.
+Do pobierania prób i oceny laboratoryjnej określonych w ust. 1 stosuje się metodyki Europejskiej i Śródziemnomorskiej Organizacji Ochrony Roślin (EPPO)Standardy w zakresie Środków Fitosanitarnych wydawane przez Europejską i Śródziemnomorską Organizację Ochrony Roślin na podstawie Konwencji w sprawie utworzenia Europejskiej i Śródziemnomorskiej Organizacji Ochrony Roślin, podpisanej w Paryżu dnia 18 kwietnia 1951 r. (Dz. U. z 1959 r. poz. 191 oraz z 1963 r. poz. 219). lub metodyki uznane na poziomie międzynarodowym, a w przypadku gdy takie metodyki nie istnieją – metodyki rekomendowane przez instytuty badawcze, udostępnione na stronie internetowej administrowanej przez Instytut Ogrodnictwa w Skierniewicachhttp://www.inhort.pl/metodyki-szkolkarskie-do-rozporzadzenia-mrirw..
+3.
+W przypadku stwierdzenia w wyniku badania kwalifikowanej rośliny matecznej lub materiału kwalifikowanego występowania RNQP wymienionych w tabelach I i II w odniesieniu do danego rodzaju lub gatunku roślin, dostawca usuwa porażoną kwalifikowaną roślinę mateczną lub porażony materiał kwalifikowany z sąsiedztwa innych kwalifikowanych roślin matecznych lub materiału kwalifikowanego zgodnie z działem I ust. 6 lub 7 oraz stosuje wymagania określone w załączniku nr 3 do rozporządzenia.
+4.
+Wymagań, o których mowa w ust. 1, nie stosuje się do kwalifikowanych roślin matecznych i materiału kwalifikowanego podczas krioprezerwacji. ” ,
+tytuł działu III otrzymuje brzmienie: „
+III.
+Wymagania dla gleby w przypadku kwalifikowanych roślin matecznych i materiału kwalifikowanego ” ,
 d)
-w części D dział IV otrzymuje brzmienie:
-„
+w części D dział IV otrzymuje brzmienie: „
 IV.
-Wymagania dotyczące zdrowotności materiału szkółkarskiego CAC Materiał szkółkarski CAC powinien być, na podstawie oceny polowej, praktycznie wolny od RNQP wymienionych w tabelach I i II w odniesieniu do danego rodzaju lub gatunku roślin oraz powinien spełniać wymagania określone w załączniku nr 3 do rozporządzenia. Dokonuje się pobrania prób z materiału pochodzącego ze zidentyfikowanego źródła lub materiału szkółkarskiego CAC oraz oceny laboratoryjnej na obecność RNQP wymienionych w tabeli II w odniesieniu do danego rodzaju lub gatunku roślin, zgodnie z wymaganiami określonymi w załączniku nr 3 do rozporządzenia. W przypadku wątpliwości dotyczących występowania RNQP wymienionych w tabeli I na materiale pochodzącym ze zidentyfikowanego źródła lub materiale szkółkarskim CAC dokonuje się pobrania prób z tego materiału oraz oceny laboratoryjnej zgodnie z wymaganiami określonymi w załączniku nr 3 do rozporządzenia.
-” ,
+Wymagania dotyczące zdrowotności materiału szkółkarskiego CAC Materiał szkółkarski CAC powinien być, na podstawie oceny polowej, praktycznie wolny od RNQP wymienionych w tabelach I i II w odniesieniu do danego rodzaju lub gatunku roślin oraz powinien spełniać wymagania określone w załączniku nr 3 do rozporządzenia. Dokonuje się pobrania prób z materiału pochodzącego ze zidentyfikowanego źródła lub materiału szkółkarskiego CAC oraz oceny laboratoryjnej na obecność RNQP wymienionych w tabeli II w odniesieniu do danego rodzaju lub gatunku roślin, zgodnie z wymaganiami określonymi w załączniku nr 3 do rozporządzenia. W przypadku wątpliwości dotyczących występowania RNQP wymienionych w tabeli I na materiale pochodzącym ze zidentyfikowanego źródła lub materiale szkółkarskim CAC dokonuje się pobrania prób z tego materiału oraz oceny laboratoryjnej zgodnie z wymaganiami określonymi w załączniku nr 3 do rozporządzenia. ” ,
 e)
 tabele I-III otrzymują brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 2)
 załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia;
 3)
-w załączniku nr 4 do rozporządzenia w ust. 2 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu:
-„
+w załączniku nr 4 do rozporządzenia w ust. 2 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
 7)
-zapisy dotyczące historii upraw i historii chorób przenoszonych wraz z glebą.
-” .
+zapisy dotyczące historii upraw i historii chorób przenoszonych wraz z glebą. ” .
 § 2.
 Do oceny materiału szkółkarskiego zgłoszonego do oceny przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę wykonawczą Komisji (UE) 2020/177 z dnia 11 lutego 2020 r. zmieniającą dyrektywy Rady 66/401/EWG, 66/402/EWG, 68/193/EWG, 2002/55/WE, 2002/56/WE i 2002/57/WE, dyrektywy Komisji 93/49/EWG i 93/61/EWG oraz dyrektywy wykonawcze 2014/21/UE i 2014/98/UE w odniesieniu do agrofagów roślin występujących na nasionach i innym materiale rozmnożeniowym roślin (Dz. Urz. UE L 41 z 13.02.2020, str. 1). 3) Standardy w zakresie Środków Fitosanitarnych wydawane przez Europejską i Śródziemnomorską Organizację Ochrony Roślin na podstawie Konwencji w sprawie utworzenia Europejskiej i Śródziemnomorskiej Organizacji Ochrony Roślin, podpisanej w Paryżu dnia 18 kwietnia 1951 r. (Dz. U. z 1959 r. poz. 191 oraz z 1963 r. poz. 219). 4) http://www.inhort.pl/metodyki-szkolkarskie-do-rozporzadzenia-mrirw.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę wykonawczą Komisji (UE) 2020/177 z dnia 11 lutego 2020 r. zmieniającą dyrektywy Rady 66/401/EWG, 66/402/EWG, 68/193/EWG, 2002/55/WE, 2002/56/WE i 2002/57/WE, dyrektywy Komisji 93/49/EWG i 93/61/EWG oraz dyrektywy wykonawcze 2014/21/UE i 2014/98/UE w odniesieniu do agrofagów roślin występujących na nasionach i innym materiale rozmnożeniowym roślin (Dz. Urz. UE L 41 z 13.02.2020, str. 1). 3) Standardy w zakresie Środków Fitosanitarnych wydawane przez Europejską i Śródziemnomorską Organizację Ochrony Roślin na podstawie Konwencji w sprawie utworzenia Europejskiej i Śródziemnomorskiej Organizacji Ochrony Roślin, podpisanej w Paryżu dnia 18 kwietnia 1951 r. (Dz. U. z 1959 r. poz. 191 oraz z 1963 r. poz. 219). 4) http://www.inhort.pl/metodyki-szkolkarskie-do-rozporzadzenia-mrirw.
 
 ## Załącznik nr 1 — – Tekst załącznika
 
 Tabela I
-Wykaz RNQP, od których materiał szkółkarski powinien być wolny lub praktycznie wolny* Rodzaj lub gatunek roślin RNQP Castanea sativa Mill. Grzyby i organizmy grzybopodobneCryphonectria parasiticaMycosphaerella punctiformisPhytophthora cambivoraPhytophthora cinnamomiWirusy, wiroidy, choroby wirusopodobne i fitoplazmyCzynnik mozaiki kasztana Citrus L., Fortunella Swingle, Poncirus Raf. Grzyby i organizmy grzybopodobnePhytophthora citrophtoraPhytophthora nicotianae var. parasiticaOwady i roztoczeAleurotrixus floccosusParabemisia myricaeNicieniePratylenchus vulnusTylenchus semipenetrans Corylus avellana L. BakteriePseudomonas avellanaeXanthomonas arboricola pv. corylinaGrzyby i organizmy grzybopodobneArmillariella melleaVerticillium albo-atrumVerticillium dahliaeOwady i roztoczePhytoptus avellanae Cydonia oblonga Mill. i PyrusL. BakterieAgrobacterium tumefaciensErvinia amylovoraPseudomonas syringae pv. syringaeGrzyby i organizmy grzybopodobneArmillariella melleaChondrostereum purpureumGlomerella cingulateNeofabrea albaNeofabrea malicorticisNeonectria ditissimaPhytophthora cactorumSclerophora pallidaVerticillium albo-atrumVerticillium dahliaeOwady i roztoczeEriosoma lanigerumPsylla spp.NicienieMeloidogyne haplaMeloidogyne javanicaPratylenchus penetransPratylenchus vulnus Ficus carica L. BakteriePhytomonas campestris pv. ficiGrzyby i organizmy grzybopodobneArmillaria melleaOwady i roztoczeCeroplastes rusciNicienieHeterodera ficiMeloidogyne arenariaMeloidogyne incognitaMeloidogyne javanicaPratylenchus penetransPratylenchus vulnusWirusy, wiroidy, choroby wirusopodobne i fitoplazmyCzynnik mozaiki figowca Fragaria L. BakterieCandidatus Phlomobacter fragariaeGrzyby i organizmy grzybopodobnePodosphaera aphanisRhizoctonia fragariaeVerticillium albo-atrumVerticillium dahliaeOwady i roztoczeChaetosiphon fragaefoliiPhytonemus pallidusNicienieDitylenchus dipsaciMeloidogyne haplaPratylenchus vulnusWirusy, wiroidy, choroby wirusopodobne i fitoplazmyCandidatus Phytoplasma asterisCandidatus Phytoplasma australienseCandidatus Phytoplasma fragariaeCandidatus Phytoplasma pruniCandidatus Phytoplasma solaniFitoplazma fyllodiozy koniczynyFitoplazma wybujałości liści truskawki Juglans regia L. BakterieAgrobacterium tumefaciensXanthomonas arboricola pv. JuglandiGrzyby i organizmy grzybopodobneArmillariella melleaChondrostereum purpureumNeonectria ditissimaPhytophthora cactorumOwady i roztoczeEpidiaspis leperiiPseudaulacaspis pentagonaQuadraspidiotus perniciosus Malus Mill. BakterieAgrobacterium tumefaciensErwinia amylovoraPseudomonas syringae pv. syringaeGrzyby i organizmy grzybopodobneArmillariella melleaChondrostereum purpureumGlomerella cingulataNeofabraea albaNeofabraea malicorticisNeonectria ditissimaPhytophthora cactorumSclerophora pallidaVerticillium albo-atrumVerticillium dahliaeOwady i roztoczeEriosoma lanigerumPsylla spp.NicienieMeloidogyne haplaMeloidogyne javanicaPratylenchus penetransPratylenchus vulnus Olea europaea L. BakteriePseudomonas savastanoi pv. savastanoiNicienieMeloidogyne arenariaMeloidogyne incognitaMeloidogyne javanicaPratylenchus vulnusWirusy, wiroidy, choroby wirusopodobne i fitoplazmyWirus żółknięcia liści oliwkiWirus żółknięcia nerwów oliwkiWirus żółtej pstrości i zamierania oliwki Pistacia vera L. Grzyby i organizmy grzybopodobnePhytophthora cambivoraPhytophthora cryptogeaRosellinia necatrixVerticillium dahliaeNicieniePratylenchus penetransPratylenchus vulnus Prunus domestica L. i Prunus dulcis (Miller) Webb BakterieAgrobacterium tumefaciensPseudomonas syringae pv. morsprunorumGrzyby i organizmy grzybopodobnePhytophthora cactorumVerticillium dahliaeOwady i roztoczePseudaulacaspis pentagonaQuadraspidiotus perniciosusNicienieMeloidogyne arenariaMeloidogyne incognitaMeloidogyne javanicaPratylenchus penetransPratylenchus vulnus Prunus armeniaca L. BakterieAgrobacterium tumefaciensPseudomonas syringae pv. morsprunorumPseudomonas syringae pv. syringaePseudomonas viridiflavaGrzyby i organizmy grzybopodobnePhytophthora cactorumVerticillium dahliaeOwady i roztoczePseudaulacaspis pentagonaQuadraspidiotus perniciosusNicienieMeloidogyne arenariaMeloidogyne incognitaMeloidogyne javanicaPratylenchus penetransPratylenchus vulnus Prunus avium L., Prunus cerasus L. BakterieAgrobacterium tumefaciensPseudomonas syringae pv. morsprunorumGrzyby i organizmy grzybopodobnePhytophthora cactorumOwady i roztoczeQuadraspidiotus perniciosusNicienieMeloidogyne arenariaMeloidogyne incognitaMeloidogyne javanicaPratylenchus penetransPratylenchus vulnus Prunus perska (L.) Batsch i Prunus salicina Lindley BakterieAgrobacterium tumefaciensPseudomonas syringae pv. morsprunorumPseudomonas syringae pv. persicaeGrzyby i organizmy grzybopodobnePhytophthora cactorumVerticillium dahliaeOwady i roztoczePseudaulacaspis pentagonaQuadraspidiotus perniciosusNicienieMeloidogyne arenariaMeloidogyne incognitaMeloidogyne javanicaPratylenchus penetransPratylenchus vulnus Ribes L. Grzyby i organizmy grzybopodobneDiaporte strumellaMicrosphaera grossulariaeSphaerotheca mors-uvaeOwady i roztoczeCecidophyopsis ribisDasineura tetensiPseudaulacaspis pentagonaQuadraspidiotus perniciosusTetranycus urticaeNicienieAphelenchoides ritzemabosiDitylenchus dipsaciWirusy, wiroidy, choroby wirusopodobne i fitoplazmyMieszana infekcja wirusa mozaiki aukuby i żółtaczki czarnejporzeczki Rubus L. BakterieAgrobacterium spp.Rhodococcus fasciansGrzyby i organizmy grzybopodobnePeronospora rubiOwady i roztoczeResseliella theobaldi Vaccinium L. BakterieAgrobacterium tumefaciensGrzyby i organizmy grzybopodobneDiaporte vacciniiExobasidium vacciniiGordonia cassandrae Objaśnienie: * Określenie „praktycznie wolny od RNQP” oznacza, że stopień występowania tych agrofagów w materiale szkółkarskim jest wystarczająco niski, aby zapewnić dopuszczalną jakość i użyteczność materiału szkółkarskiego.
+Wykaz RNQP, od których materiał szkółkarski powinien być wolny lub praktycznie wolny*
+Rodzaj lub gatunek roślin RNQP Castanea sativa Mill. Grzyby i organizmy grzybopodobne
+Cryphonectria parasitica
+Mycosphaerella punctiformis
+Phytophthora cambivora
+Phytophthora cinnamomi
+Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Czynnik mozaiki kasztana Citrus L., Fortunella Swingle, Poncirus Raf. Grzyby i organizmy grzybopodobne
+Phytophthora citrophtora
+Phytophthora nicotianae var. parasitica
+Owady i roztocze
+Aleurotrixus floccosus
+Parabemisia myricae
+Nicienie
+Pratylenchus vulnus
+Tylenchus semipenetrans Corylus avellana L. Bakterie
+Pseudomonas avellanae
+Xanthomonas arboricola pv. corylina
+Grzyby i organizmy grzybopodobne
+Armillariella mellea
+Verticillium albo-atrum
+Verticillium dahliae
+Owady i roztocze
+Phytoptus avellanae Cydonia oblonga Mill. i PyrusL. Bakterie
+Agrobacterium tumefaciens
+Ervinia amylovora
+Pseudomonas syringae pv. syringae
+Grzyby i organizmy grzybopodobne
+Armillariella mellea
+Chondrostereum purpureum
+Glomerella cingulate
+Neofabrea alba
+Neofabrea malicorticis
+Neonectria ditissima
+Phytophthora cactorum
+Sclerophora pallida
+Verticillium albo-atrum
+Verticillium dahliae
+Owady i roztocze
+Eriosoma lanigerum
+Psylla spp.
+Nicienie
+Meloidogyne hapla
+Meloidogyne javanica
+Pratylenchus penetrans
+Pratylenchus vulnus Ficus carica L. Bakterie
+Phytomonas campestris pv. fici
+Grzyby i organizmy grzybopodobne
+Armillaria mellea
+Owady i roztocze
+Ceroplastes rusci
+Nicienie
+Heterodera fici
+Meloidogyne arenaria
+Meloidogyne incognita
+Meloidogyne javanica
+Pratylenchus penetrans
+Pratylenchus vulnus
+Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Czynnik mozaiki figowca Fragaria L. Bakterie
+Candidatus Phlomobacter fragariae
+Grzyby i organizmy grzybopodobne
+Podosphaera aphanis
+Rhizoctonia fragariae
+Verticillium albo-atrum
+Verticillium dahliae
+Owady i roztocze
+Chaetosiphon fragaefolii
+Phytonemus pallidus
+Nicienie
+Ditylenchus dipsaci
+Meloidogyne hapla
+Pratylenchus vulnus
+Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Candidatus Phytoplasma asteris
+Candidatus Phytoplasma australiense
+Candidatus Phytoplasma fragariae
+Candidatus Phytoplasma pruni
+Candidatus Phytoplasma solani
+Fitoplazma fyllodiozy koniczyny
+Fitoplazma wybujałości liści truskawki Juglans regia L. Bakterie
+Agrobacterium tumefaciens
+Xanthomonas arboricola pv. Juglandi
+Grzyby i organizmy grzybopodobne
+Armillariella mellea
+Chondrostereum purpureum
+Neonectria ditissima
+Phytophthora cactorum
+Owady i roztocze
+Epidiaspis leperii
+Pseudaulacaspis pentagona
+Quadraspidiotus perniciosus Malus Mill. Bakterie
+Agrobacterium tumefaciens
+Erwinia amylovora
+Pseudomonas syringae pv. syringae
+Grzyby i organizmy grzybopodobne
+Armillariella mellea
+Chondrostereum purpureum
+Glomerella cingulata
+Neofabraea alba
+Neofabraea malicorticis
+Neonectria ditissima
+Phytophthora cactorum
+Sclerophora pallida
+Verticillium albo-atrum
+Verticillium dahliae
+Owady i roztocze
+Eriosoma lanigerum
+Psylla spp.
+Nicienie
+Meloidogyne hapla
+Meloidogyne javanica
+Pratylenchus penetrans
+Pratylenchus vulnus Olea europaea L. Bakterie
+Pseudomonas savastanoi pv. savastanoi
+Nicienie
+Meloidogyne arenaria
+Meloidogyne incognita
+Meloidogyne javanica
+Pratylenchus vulnus
+Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Wirus żółknięcia liści oliwki
+Wirus żółknięcia nerwów oliwki
+Wirus żółtej pstrości i zamierania oliwki Pistacia vera L. Grzyby i organizmy grzybopodobne
+Phytophthora cambivora
+Phytophthora cryptogea
+Rosellinia necatrix
+Verticillium dahliae
+Nicienie
+Pratylenchus penetrans
+Pratylenchus vulnus Prunus domestica L. i Prunus dulcis (Miller) Webb Bakterie
+Agrobacterium tumefaciens
+Pseudomonas syringae pv. morsprunorum
+Grzyby i organizmy grzybopodobne
+Phytophthora cactorum
+Verticillium dahliae
+Owady i roztocze
+Pseudaulacaspis pentagona
+Quadraspidiotus perniciosus
+Nicienie
+Meloidogyne arenaria
+Meloidogyne incognita
+Meloidogyne javanica
+Pratylenchus penetrans
+Pratylenchus vulnus Prunus armeniaca L. Bakterie
+Agrobacterium tumefaciens
+Pseudomonas syringae pv. morsprunorum
+Pseudomonas syringae pv. syringae
+Pseudomonas viridiflava
+Grzyby i organizmy grzybopodobne
+Phytophthora cactorum
+Verticillium dahliae
+Owady i roztocze
+Pseudaulacaspis pentagona
+Quadraspidiotus perniciosus
+Nicienie
+Meloidogyne arenaria
+Meloidogyne incognita
+Meloidogyne javanica
+Pratylenchus penetrans
+Pratylenchus vulnus Prunus avium L., Prunus cerasus L. Bakterie
+Agrobacterium tumefaciens
+Pseudomonas syringae pv. morsprunorum
+Grzyby i organizmy grzybopodobne
+Phytophthora cactorum
+Owady i roztocze
+Quadraspidiotus perniciosus
+Nicienie
+Meloidogyne arenaria
+Meloidogyne incognita
+Meloidogyne javanica
+Pratylenchus penetrans
+Pratylenchus vulnus Prunus perska (L.) Batsch i Prunus salicina Lindley Bakterie
+Agrobacterium tumefaciens
+Pseudomonas syringae pv. morsprunorum
+Pseudomonas syringae pv. persicae
+Grzyby i organizmy grzybopodobne
+Phytophthora cactorum
+Verticillium dahliae
+Owady i roztocze
+Pseudaulacaspis pentagona
+Quadraspidiotus perniciosus
+Nicienie
+Meloidogyne arenaria
+Meloidogyne incognita
+Meloidogyne javanica
+Pratylenchus penetrans
+Pratylenchus vulnus Ribes L. Grzyby i organizmy grzybopodobne
+Diaporte strumella
+Microsphaera grossulariae
+Sphaerotheca mors-uvae
+Owady i roztocze
+Cecidophyopsis ribis
+Dasineura tetensi
+Pseudaulacaspis pentagona
+Quadraspidiotus perniciosus
+Tetranycus urticae
+Nicienie
+Aphelenchoides ritzemabosi
+Ditylenchus dipsaci
+Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Mieszana infekcja wirusa mozaiki aukuby i żółtaczki czarnej
+porzeczki Rubus L. Bakterie
+Agrobacterium spp.
+Rhodococcus fascians
+Grzyby i organizmy grzybopodobne
+Peronospora rubi
+Owady i roztocze
+Resseliella theobaldi Vaccinium L. Bakterie
+Agrobacterium tumefaciens
+Grzyby i organizmy grzybopodobne
+Diaporte vaccinii
+Exobasidium vaccinii
+Gordonia cassandrae
+Objaśnienie: * Określenie „praktycznie wolny od RNQP” oznacza, że stopień występowania tych agrofagów w materiale szkółkarskim jest wystarczająco niski, aby zapewnić dopuszczalną jakość i użyteczność materiału szkółkarskiego.
 Tabela II
-Wykaz szczególnych RNQP, od których materiał szkółkarski powinien być wolny lub praktycznie wolny* Rodzaj lub gatunek roślin RNQP Citrus L., Fortunella Swingle i Poncirus Raf. BakterieSpiroplasma citriGrzyby i organizmy grzybopodobnePlenodomus tracheiphilusWirusy, wiroidy, choroby wirusopodobne i fitoplazmyCzynnik cristacortis cytrusowychWiroid łuszczycy kory cytrusowychCzynnik impietratura cytrusowychWirus plamistości liści cytrusowychWirus psorozy cytrusowychWirus tristeza cytrusowychWirus różnobarwności cytrusowychWiroid karłowatości chmielu Corylus avellana L. Wirusy, wiroidy, choroby wirusopodobne i fitoplazmyWirus mozaiki jabłoni Cydonia oblonga Mill. Wirusy, wiroidy, choroby wirusopodobne i fitoplazmyWirus chlorotycznej plamistości liści jabłoniCzynnik gumowatości drewna jabłoniWirus żłobkowatości pnia jabłoniWirus jamkowatości pnia jabłoniCzynnik nekrozy kory gruszyCzynnik spękania kory gruszyWiroid pęcherzowatych zrakowaceń gruszyCzynnik szorstkości kory gruszyCzynnik żółtej plamistości pigwy Fragaria L. BakterieXanthomonas fragariaeGrzyby i organizmy grzybopodobneColletotrichum acutatumPhytophthora cactorumPhytophthora fragariaeNicienieAphelenchoides besseyiAphelenchoides blastophthorusAphelenchoides fragariaeAphelenchoides ritzemabosiWirusy, wiroidy, choroby wirusopodobne i fitoplazmyWirus mozaiki gęsiówkiWirus pierścieniowej plamistości malinyWirus marszczycy truskawkiUtajony wirus pierścieniowej plamistości truskawkiWirus łagodnej żółtaczki brzegów liści truskawkiWirus pstrości truskawkiWirus otaśmienia nerwów truskawkiWirus czarnej pierścieniowej plamistości pomidora Juglans regia L. Wirusy, wiroidy, choroby wirusopodobne i fitoplazmyWirus liściozwoju czereśni Malus Mill. Wirusy, wiroidy, choroby wirusopodobne i fitoplazmyWirus chlorotycznej plamistości liści jabłoniWiroid marszczenia owoców jabłekCzynnik spłaszczenia konarów jabłoniWirus mozaiki jabłoniCzynnik gumowatości drewna jabłoniWiroid bliznowatości skórki jabłekCzynnik gwiaździstego spękania jabłekWirus żłobkowatości pnia jabłoniWirus jamkowatości pnia jabłoniCandidatus Phytoplasma maliZaburzenia owoców: drobnienie owoców, zielone marszczenie, nierówność owoców Ben Davis, szorstkość skórki, gwiaździste spękania, rdzawe pierścienie, rdzawe brodawki Olea europaea L. Grzyby i organizmy grzybopodobneVerticillium dahliaeWirusy, wiroidy, choroby wirusopodobne i fitoplazmyWirus mozaiki gęsiówkiWirus liściozwoju czereśniUtajony wirus pierścieniowej plamistości truskawki Prunus dulcis (Miller) Webb BakterieXanthomonas arboricola pv. pruniWirusy, wiroidy, choroby wirusopodobne i fitoplazmyWirus chlorotycznej plamistości liści jabłoniWirus mozaiki jabłoniCandidatus Phytoplasma prunorumWirus ospowatości śliwyWirus karłowatości śliwyWirus nekrotycznej pierścieniowej plamistości wiśni Prunus armeniaca L. BakterieXanthomonas arboricola pv. pruniWirusy, wiroidy, choroby wirusopodobne i fitoplazmyWirus chlorotycznej plamistości liści jabłoniWirus mozaiki jabłoniUtajony wirus moreliCandidatus Phytoplasma prunorumWirus ospowatości śliwyWirus karłowatości śliwyWirus nekrotycznej pierścieniowej plamistości wiśni Prunus avium L. i Prunus cerasus L. BakterieXanthomonas arboricola pv. pruniWirusy, wiroidy, choroby wirusopodobne i fitoplazmyWirus chlorotycznej plamistości liści jabłoniWirus mozaiki jabłoniWirus mozaiki gęsiówkiCandidatus Phytoplasma prunorumWirus zielonej pierścieniowej pstrości czereśniWirus liściozwoju czereśniWirus cętkowanej plamistości liści czereśniWirus nekrotycznej rdzawej plamistości czereśniWirus 1 i 2 drobnienia czereśniWirus ospowatości śliwyWirus karłowatości śliwyWirus nekrotycznej pierścieniowej plamistości wiśniWirus pierścieniowej plamistości malinyUtajony wirus pierścieniowej plamistości truskawkiWirus czarnej pierścieniowej plamistości pomidora Prunus domestica L., Prunus salicina Lindley i inne gatunki Prunus L. podatne na wirus ospowatości śliwy w przypadku mieszańców Prunus L. BakterieXanthomonas arboricola pv. pruniWirusy, wiroidy, choroby wirusopodobne i fitoplazmyWirus chlorotycznej plamistości liści jabłoniWirus mozaiki jabłoniCandidatus Phytoplasma prunorumUtajony wirus pierścieniowej plamistości mirabelkiWirus ospowatości śliwyWirus karłowatości śliwyWirus nekrotycznej pierścieniowej plamistości wiśni Prunus perska L. Batsch BakterieXanthomonas arboricola pv. pruniWirusy, wiroidy, choroby wirusopodobne i fitoplazmyWirus chlorotycznej plamistości liści jabłoniWirus mozaiki jabłoniUtajony wirus moreliCandidatus Phytoplasma prunorumUtajony wiroid mozaiki brzoskwiniWirus ospowatości śliwyWirus karłowatości śliwyWirus nekrotycznej pierścieniowej plamistości wiśniUtajony wirus pierścieniowej plamistości truskawki Pyrus L. Wirusy, wiroidy, choroby wirusopodobne i fitoplazmyWirus chlorotycznej plamistości liści jabłoniCzynnik gumowatości drewna jabłoniWirus żłobkowatości pnia jabłoniWirus jamkowatości pnia jabłoniCandidatus Phytoplasma pyriCzynnik nekrozy kory gruszyCzynnik spękania kory gruszyWiroid pęcherzowatych zrakowaceń gruszyCzynnik szorstkości kory gruszyCzynnik żółtej plamistości pigwy Ribes L. Wirusy, wiroidy, choroby wirusopodobne i fitoplazmyWirus mozaiki gęsiówkiWirus rewersji porzeczki czarnejWirus mozaiki ogórkaWirus otaśmienia nerwów agrestuWirus pierścieniowej plamistości malinyUtajony wirus pierścieniowej plamistości truskawki Rubus L. Grzyby i organizmy grzybopodobnePhytophthora spp. de BaryWirusy, wiroidy, choroby wirusopodobne i fitoplazmyWirus mozaiki jabłoniWirus mozaiki gęsiówkiWirus nekrozy jeżynyCandidatus Phytoplasma rubiWirus mozaiki ogórkaWirus krzaczastej karłowatości malinyWirus pstrości liści malinyWirus pierścieniowej plamistości malinyWirus chlorozy nerwów liści malinyWirus żółtej plamistości liści malinyWirus żółtaczki nerwów liści malinyUtajony wirus pierścieniowej plamistości truskawkiWirus czarnej pierścieniowej plamistości pomidora Vaccinium L. Wirusy, wiroidy, choroby wirusopodobne i fitoplazmyWirus mozaiki borówki wysokiejWirus czerwonej pierścieniowej plamistości borówki wysokiejWirus oparzeliny borówki wysokiejWirus szoku borówki wysokiejWirus nitkowatości borówki wysokiejCandidatus Phytoplasma asterisCandidatus Phytoplasma pruniCandidatus Phytoplasma solaniFitoplazma pozornego kwitnienia żurawiny Objaśnienie: * Określenie „praktycznie wolny od RNQP” oznacza, że stopień występowania tych agrofagów w materiale szkółkarskim jest wystarczająco niski, aby zapewnić dopuszczalną jakość i użyteczność materiału szkółkarskiego.
+Wykaz szczególnych RNQP, od których materiał szkółkarski powinien być wolny lub praktycznie wolny*
+Rodzaj lub gatunek roślin RNQP Citrus L., Fortunella Swingle i Poncirus Raf. Bakterie
+Spiroplasma citri
+Grzyby i organizmy grzybopodobne
+Plenodomus tracheiphilus
+Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Czynnik cristacortis cytrusowych
+Wiroid łuszczycy kory cytrusowych
+Czynnik impietratura cytrusowych
+Wirus plamistości liści cytrusowych
+Wirus psorozy cytrusowych
+Wirus tristeza cytrusowych
+Wirus różnobarwności cytrusowych
+Wiroid karłowatości chmielu Corylus avellana L. Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Wirus mozaiki jabłoni Cydonia oblonga Mill. Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Wirus chlorotycznej plamistości liści jabłoni
+Czynnik gumowatości drewna jabłoni
+Wirus żłobkowatości pnia jabłoni
+Wirus jamkowatości pnia jabłoni
+Czynnik nekrozy kory gruszy
+Czynnik spękania kory gruszy
+Wiroid pęcherzowatych zrakowaceń gruszy
+Czynnik szorstkości kory gruszy
+Czynnik żółtej plamistości pigwy Fragaria L. Bakterie
+Xanthomonas fragariae
+Grzyby i organizmy grzybopodobne
+Colletotrichum acutatum
+Phytophthora cactorum
+Phytophthora fragariae
+Nicienie
+Aphelenchoides besseyi
+Aphelenchoides blastophthorus
+Aphelenchoides fragariae
+Aphelenchoides ritzemabosi
+Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Wirus mozaiki gęsiówki
+Wirus pierścieniowej plamistości maliny
+Wirus marszczycy truskawki
+Utajony wirus pierścieniowej plamistości truskawki
+Wirus łagodnej żółtaczki brzegów liści truskawki
+Wirus pstrości truskawki
+Wirus otaśmienia nerwów truskawki
+Wirus czarnej pierścieniowej plamistości pomidora Juglans regia L. Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Wirus liściozwoju czereśni Malus Mill. Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Wirus chlorotycznej plamistości liści jabłoni
+Wiroid marszczenia owoców jabłek
+Czynnik spłaszczenia konarów jabłoni
+Wirus mozaiki jabłoni
+Czynnik gumowatości drewna jabłoni
+Wiroid bliznowatości skórki jabłek
+Czynnik gwiaździstego spękania jabłek
+Wirus żłobkowatości pnia jabłoni
+Wirus jamkowatości pnia jabłoni
+Candidatus Phytoplasma mali
+Zaburzenia owoców: drobnienie owoców, zielone marszczenie, nierówność owoców Ben Davis, szorstkość skórki, gwiaździste spękania, rdzawe pierścienie, rdzawe brodawki Olea europaea L. Grzyby i organizmy grzybopodobne
+Verticillium dahliae
+Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Wirus mozaiki gęsiówki
+Wirus liściozwoju czereśni
+Utajony wirus pierścieniowej plamistości truskawki Prunus dulcis (Miller) Webb Bakterie
+Xanthomonas arboricola pv. pruni
+Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Wirus chlorotycznej plamistości liści jabłoni
+Wirus mozaiki jabłoni
+Candidatus Phytoplasma prunorum
+Wirus ospowatości śliwy
+Wirus karłowatości śliwy
+Wirus nekrotycznej pierścieniowej plamistości wiśni Prunus armeniaca L. Bakterie
+Xanthomonas arboricola pv. pruni
+Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Wirus chlorotycznej plamistości liści jabłoni
+Wirus mozaiki jabłoni
+Utajony wirus moreli
+Candidatus Phytoplasma prunorum
+Wirus ospowatości śliwy
+Wirus karłowatości śliwy
+Wirus nekrotycznej pierścieniowej plamistości wiśni Prunus avium L. i Prunus cerasus L. Bakterie
+Xanthomonas arboricola pv. pruni
+Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Wirus chlorotycznej plamistości liści jabłoni
+Wirus mozaiki jabłoni
+Wirus mozaiki gęsiówki
+Candidatus Phytoplasma prunorum
+Wirus zielonej pierścieniowej pstrości czereśni
+Wirus liściozwoju czereśni
+Wirus cętkowanej plamistości liści czereśni
+Wirus nekrotycznej rdzawej plamistości czereśni
+Wirus 1 i 2 drobnienia czereśni
+Wirus ospowatości śliwy
+Wirus karłowatości śliwy
+Wirus nekrotycznej pierścieniowej plamistości wiśni
+Wirus pierścieniowej plamistości maliny
+Utajony wirus pierścieniowej plamistości truskawki
+Wirus czarnej pierścieniowej plamistości pomidora Prunus domestica L., Prunus salicina Lindley i inne gatunki Prunus L. podatne na wirus ospowatości śliwy w przypadku mieszańców Prunus L. Bakterie
+Xanthomonas arboricola pv. pruni
+Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Wirus chlorotycznej plamistości liści jabłoni
+Wirus mozaiki jabłoni
+Candidatus Phytoplasma prunorum
+Utajony wirus pierścieniowej plamistości mirabelki
+Wirus ospowatości śliwy
+Wirus karłowatości śliwy
+Wirus nekrotycznej pierścieniowej plamistości wiśni Prunus perska L. Batsch Bakterie
+Xanthomonas arboricola pv. pruni
+Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Wirus chlorotycznej plamistości liści jabłoni
+Wirus mozaiki jabłoni
+Utajony wirus moreli
+Candidatus Phytoplasma prunorum
+Utajony wiroid mozaiki brzoskwini
+Wirus ospowatości śliwy
+Wirus karłowatości śliwy
+Wirus nekrotycznej pierścieniowej plamistości wiśni
+Utajony wirus pierścieniowej plamistości truskawki Pyrus L. Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Wirus chlorotycznej plamistości liści jabłoni
+Czynnik gumowatości drewna jabłoni
+Wirus żłobkowatości pnia jabłoni
+Wirus jamkowatości pnia jabłoni
+Candidatus Phytoplasma pyri
+Czynnik nekrozy kory gruszy
+Czynnik spękania kory gruszy
+Wiroid pęcherzowatych zrakowaceń gruszy
+Czynnik szorstkości kory gruszy
+Czynnik żółtej plamistości pigwy Ribes L. Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Wirus mozaiki gęsiówki
+Wirus rewersji porzeczki czarnej
+Wirus mozaiki ogórka
+Wirus otaśmienia nerwów agrestu
+Wirus pierścieniowej plamistości maliny
+Utajony wirus pierścieniowej plamistości truskawki Rubus L. Grzyby i organizmy grzybopodobne
+Phytophthora spp. de Bary
+Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Wirus mozaiki jabłoni
+Wirus mozaiki gęsiówki
+Wirus nekrozy jeżyny
+Candidatus Phytoplasma rubi
+Wirus mozaiki ogórka
+Wirus krzaczastej karłowatości maliny
+Wirus pstrości liści maliny
+Wirus pierścieniowej plamistości maliny
+Wirus chlorozy nerwów liści maliny
+Wirus żółtej plamistości liści maliny
+Wirus żółtaczki nerwów liści maliny
+Utajony wirus pierścieniowej plamistości truskawki
+Wirus czarnej pierścieniowej plamistości pomidora Vaccinium L. Wirusy, wiroidy, choroby wirusopodobne i fitoplazmy
+Wirus mozaiki borówki wysokiej
+Wirus czerwonej pierścieniowej plamistości borówki wysokiej
+Wirus oparzeliny borówki wysokiej
+Wirus szoku borówki wysokiej
+Wirus nitkowatości borówki wysokiej
+Candidatus Phytoplasma asteris
+Candidatus Phytoplasma pruni
+Candidatus Phytoplasma solani
+Fitoplazma pozornego kwitnienia żurawiny
+Objaśnienie: * Określenie „praktycznie wolny od RNQP” oznacza, że stopień występowania tych agrofagów w materiale szkółkarskim jest wystarczająco niski, aby zapewnić dopuszczalną jakość i użyteczność materiału szkółkarskiego.
 Tabela III
-Wykaz RNQP glebowych Rodzaj lub gatunek roślin RNQP Fragaria L. NicienieLongidorus attenuatusLongidorus elongatusLongidorus macrosomaXiphinema diversicaudatum Juglans regia L. NicienieXiphinema diversicaudatum Olea europaea L. NicienieXiphinema diversicaudatum Pistacia vera L. NicienieXiphinema index Prunus avium L. i Prunus cerasus L. NicienieLongidorus attenuatusLongidorus elongatusLongidorus macrosomaXiphinema diversicaudatum Prunus domestica L., Prunus perska (L.) Batsch i Prunus salicina Lindley NicienieLongidorus attenuatusLongidorus elongatusXiphinema diversicaudatum Ribes L. NicienieLongidorus elongatusLongidorus macrosomaXiphinema diversicaudatum Rubus L. NicienieLongidorus attenuatusLongidorus elongatusLongidorus macrosomaXiphinema diversicaudatum
+Wykaz RNQP glebowych
+Rodzaj lub gatunek roślin RNQP Fragaria L. Nicienie
+Longidorus attenuatus
+Longidorus elongatus
+Longidorus macrosoma
+Xiphinema diversicaudatum Juglans regia L. Nicienie
+Xiphinema diversicaudatum Olea europaea L. Nicienie
+Xiphinema diversicaudatum Pistacia vera L. Nicienie
+Xiphinema index Prunus avium L. i Prunus cerasus L. Nicienie
+Longidorus attenuatus
+Longidorus elongatus
+Longidorus macrosoma
+Xiphinema diversicaudatum Prunus domestica L., Prunus perska (L.) Batsch i Prunus salicina Lindley Nicienie
+Longidorus attenuatus
+Longidorus elongatus
+Xiphinema diversicaudatum Ribes L. Nicienie
+Longidorus elongatus
+Longidorus macrosoma
+Xiphinema diversicaudatum Rubus L. Nicienie
+Longidorus attenuatus
+Longidorus elongatus
+Longidorus macrosoma
+Xiphinema diversicaudatum
 
 ## Załącznik nr 2 — – Wymagania dotyczące dokonywania oceny polowej, pobierania prób oraz oceny laboratoryjnej materiału szkółkarskiego
 
@@ -89,20 +509,17 @@ Kasztan jadalny (Castanea sativa Mill.) Wszystkie kategorie Ocena polowa Oceny p
 1)
 ten materiał powinien być wytwarzany na obszarach, o których wiadomo, że są wolne od Cryphonectria parasitica, lub
 2)
-w ostatnim pełnym sezonie wegetacyjnym w miejscu wytwarzania na tym materiale nie zaobserwowano objawów Cryphonectria parasitica.
-Kategoria elitarny w stopniu bazowy Miejsce wytwarzania W przypadku materiału szkółkarskiego kategorii elitarny w stopniu bazowy:
+w ostatnim pełnym sezonie wegetacyjnym w miejscu wytwarzania na tym materiale nie zaobserwowano objawów Cryphonectria parasitica. Kategoria elitarny w stopniu bazowy Miejsce wytwarzania W przypadku materiału szkółkarskiego kategorii elitarny w stopniu bazowy:
 1)
 ten materiał powinien być wytwarzany na obszarach, o których wiadomo, że są wolne od Cryphonectria parasitica, lub
 2)
-w ostatnim pełnym sezonie wegetacyjnym w miejscu wytwarzania na tym materiale nie zaobserwowano objawów Cryphonectria parasitica.
-Kategoria kwalifikowany i materiał szkółkarski CAC Miejsce wytwarzania Materiał szkółkarski kategorii kwalifikowany i materiał szkółkarski CAC powinny być wytwarzane na obszarach, o których wiadomo, że są wolne od Cryphonectria parasitica. W ostatnim pełnym sezonie wegetacyjnym w miejscu wytwarzania na materiale szkółkarskim kategorii kwalifikowany i materiale szkółkarskim CAC nie zaobserwowano objawów Cryphonectria parasitica. Materiał szkółkarski kategorii kwalifikowany i materiał szkółkarski CAC wykazujący objawy Cryphonectria parasitica został usunięty, a pozostały materiał szkółkarski kategorii kwalifikowany i materiał szkółkarski CAC jest poddawany ocenie co tydzień i przez co najmniej trzy tygodnie poprzedzające wysyłkę oraz nie zaobserwowano na nim żadnych objawów Cryphonectria parasitica.
+w ostatnim pełnym sezonie wegetacyjnym w miejscu wytwarzania na tym materiale nie zaobserwowano objawów Cryphonectria parasitica. Kategoria kwalifikowany i materiał szkółkarski CAC Miejsce wytwarzania Materiał szkółkarski kategorii kwalifikowany i materiał szkółkarski CAC powinny być wytwarzane na obszarach, o których wiadomo, że są wolne od Cryphonectria parasitica. W ostatnim pełnym sezonie wegetacyjnym w miejscu wytwarzania na materiale szkółkarskim kategorii kwalifikowany i materiale szkółkarskim CAC nie zaobserwowano objawów Cryphonectria parasitica. Materiał szkółkarski kategorii kwalifikowany i materiał szkółkarski CAC wykazujący objawy Cryphonectria parasitica został usunięty, a pozostały materiał szkółkarski kategorii kwalifikowany i materiał szkółkarski CAC jest poddawany ocenie co tydzień i przez co najmniej trzy tygodnie poprzedzające wysyłkę oraz nie zaobserwowano na nim żadnych objawów Cryphonectria parasitica.
 2.
 Pomarańcza (Citrus L.) Kategoria elitarny w stopniu przedbazowy Ocena polowa Oceny polowej dokonuje się dwa razy w roku. Pobieranie prób i ocena laboratoryjna Z każdej przedbazowej rośliny matecznej co roku dokonuje się pobrania prób i oceny laboratoryjnej na obecność Spiroplasma citri. Z każdej przedbazowej rośliny matecznej trzy lata po jej dopuszczeniu jako przedbazowej rośliny matecznej, a następnie co trzy lata, dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej). Z każdej przedbazowej rośliny matecznej sześć lat po jej dopuszczeniu jako przedbazowej rośliny matecznej, a następnie co sześć lat, dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, innych niż wirus tristeza cytrusowych (izolaty z Unii Europejskiej) i Spiroplasma citri, a w przypadku wątpliwości – na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli I. Kategoria elitarny w stopniu bazowy Ocena polowa Oceny polowej dokonuje się dwa razy w roku na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej), Spiroplasma citri i Plenodomus tracheiphilus. Oceny polowej dokonuje się raz w roku na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II, innych niż wirus tristeza cytrusowych (izolaty z Unii Europejskiej), Spiroplasma citri i Plenodomus tracheiphilus. Pobieranie prób i ocena laboratoryjna W przypadku bazowych roślin matecznych, które były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z każdej bazowej rośliny matecznej co trzy lata dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej). Z reprezentatywnej części bazowych roślin matecznych co trzy lata dokonuje się pobrania prób i oceny laboratoryjnej na obecność Spiroplasma citri. W przypadku bazowych roślin matecznych, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części bazowych roślin matecznych co roku dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej) i Spiroplasma citri w celu zbadania wszystkich bazowych roślin matecznych w okresie dwóch lat. W przypadku dodatniego wyniku badania na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej) z wszystkich bazowych roślin matecznych w miejscu wytwarzania dokonuje się pobrania prób i oceny laboratoryjnej. Z reprezentatywnej części bazowych roślin matecznych, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, co sześć lat dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II, innych niż wirus tristeza cytrusowych (izolaty z Unii Europejskiej) i Spiroplasma citri. Kategoria kwalifikowany Ocena polowa Oceny polowej dokonuje się dwa razy w roku na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej), Spiroplasma citri i Plenodomus tracheiphilus. Oceny polowej dokonuje się raz w roku na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II, innych niż wirus tristeza cytrusowych (izolaty z Unii Europejskiej), Spiroplasma citri i Plenodomus tracheiphilus. Pobieranie prób i ocena laboratoryjna W przypadku kwalifikowanych roślin matecznych, które były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części kwalifikowanych roślin matecznych co cztery lata dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej) w celu zbadania wszystkich roślin matecznych w okresie ośmiu lat. W przypadku kwalifikowanych roślin matecznych, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części kwalifikowanych roślin matecznych co roku dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej) w celu zbadania wszystkich roślin matecznych w okresie trzech lat. W przypadku wątpliwości z reprezentatywnej części kwalifikowanych roślin matecznych, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II, innych niż wirus tristeza cytrusowych (izolaty z Unii Europjeskiej). W przypadku dodatniego wyniku badania na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej) ze wszystkich kwalifikowanych roślin matecznych w miejscu wytwarzania dokonuje się pobrania prób i oceny laboratoryjnej. Kategorie elitarny w stopniu bazowy i kwalifikowany Miejsce wytwarzania Materiał szkółkarski kategorii elitarny w stopniu bazowy i kwalifikowany powinien być wytwarzany w miejscach, o których wiadomo, że są wolne od wirusa tristeza cytrusowych (izolaty z Unii Europejskiej), Spiroplasma citri i Plenodomus tracheiphilus. W przypadku gdy materiał szkółkarski kategorii elitarny w stopniu bazowy i kwalifikowany był uprawiany w obiektach zabezpieczonych przed dostępem owadów, a na tym materiale w ostatnim pełnym sezonie wegetacyjnym nie zaobserwowano objawów Spiroplasma citri lub Plenodomus tracheiphilus, przed wprowadzeniem do obrotu ten materiał poddaje się wyrywkowemu pobieraniu prób i ocenie laboratoryjnej na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej). W przypadku materiału szkółkarskiego kategorii kwalifikowany, który nie był uprawiany w obiektach zabezpieczonych przed dostępem owadów, w ostatnim pełnym sezonie wegetacyjnym na tym materiale szkółkarskim nie zaobserwowano objawów Spiroplasma citri ani Plenodomus tracheiphilus, i przed wprowadzeniem do obrotu z reprezentatywnej części tego materiału szkółkarskiego dokonano pobrania prób i oceny laboratoryjnej na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej). W przypadku materiału szkółkarskiego kategorii kwalifikowany, który nie był uprawiany w obiektach zabezpieczonych przed dostępem owadów:
 1)
 i u którego w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym zaobserwowano objawy Plenodomus tracheiphilus lub Spiroplasma citri na nie więcej niż 2% materiału szkółkarskiego kategorii kwalifikowany, ten materiał oraz materiał znajdujący się w bezpośrednim sąsiedztwie tego materiału wykazujące objawy porażenia usuwa się i natychmiast niszczy oraz
 2)
-z reprezentatywnej części tego materiału przed wprowadzeniem do obrotu dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej); jeżeli w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wynik dodatni na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej) otrzymano w przypadku nie więcej niż 2% materiału szkółkarskiego kategorii kwalifikowany, ten materiał został usunięty i natychmiast zniszczony; materiał szkółkarski znajdujący się w bezpośrednim sąsiedztwie tego materiału został poddany wyrywkowemu pobieraniu prób i ocenie laboratoryjnej, a w przypadku gdy otrzymano wynik dodatni na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej), ten materiał szkółkarski, którego badanie dało wynik dodatni, został usunięty i natychmiast zniszczony.
-Materiał szkółkarski CAC Ocena polowa Oceny polowej dokonuje się raz w roku. Pobieranie prób i ocena laboratoryjna Materiał szkółkarski CAC pochodzi ze zidentyfikowanego źródła, które, na podstawie oceny polowej oraz oceny laboratoryjnej pobranych prób, zostało uznane za wolne od RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II. W przypadku gdy materiał ze zidentyfikowanego źródła był utrzymywany w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części tego materiału co osiem lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej). W przypadku gdy materiał pochodzący ze zidentyfikowanego źródła nie był utrzymywany w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części tego materiału co trzy lata dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej). Miejsce wytwarzania Materiał szkółkarski CAC:
+z reprezentatywnej części tego materiału przed wprowadzeniem do obrotu dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej); jeżeli w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wynik dodatni na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej) otrzymano w przypadku nie więcej niż 2% materiału szkółkarskiego kategorii kwalifikowany, ten materiał został usunięty i natychmiast zniszczony; materiał szkółkarski znajdujący się w bezpośrednim sąsiedztwie tego materiału został poddany wyrywkowemu pobieraniu prób i ocenie laboratoryjnej, a w przypadku gdy otrzymano wynik dodatni na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej), ten materiał szkółkarski, którego badanie dało wynik dodatni, został usunięty i natychmiast zniszczony. Materiał szkółkarski CAC Ocena polowa Oceny polowej dokonuje się raz w roku. Pobieranie prób i ocena laboratoryjna Materiał szkółkarski CAC pochodzi ze zidentyfikowanego źródła, które, na podstawie oceny polowej oraz oceny laboratoryjnej pobranych prób, zostało uznane za wolne od RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II. W przypadku gdy materiał ze zidentyfikowanego źródła był utrzymywany w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części tego materiału co osiem lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej). W przypadku gdy materiał pochodzący ze zidentyfikowanego źródła nie był utrzymywany w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części tego materiału co trzy lata dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa tristeza cytrusowych (izolaty z Unii Europejskiej). Miejsce wytwarzania Materiał szkółkarski CAC:
 1)
 powinien być wytwarzany w miejscach, o których wiadomo, że są wolne od wirusa tristeza cytrusowych (izolaty z Unii Europejskiej), Spiroplasma citri i Plenodomus tracheiphilus, lub
 2)
@@ -122,13 +539,11 @@ Pigwa (Cydonia oblonga Mill.) Wszystkie kategorie Ocena polowa Oceny polowej dok
 1)
 ten materiał jest wytwarzany na obszarach, o których wiadomo, że są wolne od Erwinia amylovora, lub
 2)
-w ostatnim pełnym sezonie wegetacyjnym ten materiał w miejscu wytwarzania został poddany ocenie, a materiał szkółkarski wykazujący objawy Erwinia amylovora oraz rośliny żywicielskie znajdujące się w sąsiedztwie tego materiału zostały natychmiast usunięte i natychmiast zniszczone.
-Kategoria elitarny w stopniu bazowy Pobieranie prób i ocena laboratoryjna Z reprezentatywnej części bazowych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, innych niż choroby wirusopodobne i wiroidy, a w przypadku wątpliwości – na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli I. Kategoria kwalifikowany Pobieranie prób i ocena laboratoryjna Z reprezentatywnej części kwalifikowanych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, innych niż choroby wirusopodobne i wiroidy, a w przypadku wątpliwości – na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli I. W przypadku wątpliwości z kwalifikowanych roślin matecznych dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II. Kategorie elitarny w stopniu bazowy i kwalifikowany Miejsce wytwarzania Materiał szkółkarski kategorii elitarny w stopniu bazowy i kwalifikowany:
+w ostatnim pełnym sezonie wegetacyjnym ten materiał w miejscu wytwarzania został poddany ocenie, a materiał szkółkarski wykazujący objawy Erwinia amylovora oraz rośliny żywicielskie znajdujące się w sąsiedztwie tego materiału zostały natychmiast usunięte i natychmiast zniszczone. Kategoria elitarny w stopniu bazowy Pobieranie prób i ocena laboratoryjna Z reprezentatywnej części bazowych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, innych niż choroby wirusopodobne i wiroidy, a w przypadku wątpliwości – na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli I. Kategoria kwalifikowany Pobieranie prób i ocena laboratoryjna Z reprezentatywnej części kwalifikowanych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, innych niż choroby wirusopodobne i wiroidy, a w przypadku wątpliwości – na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli I. W przypadku wątpliwości z kwalifikowanych roślin matecznych dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II. Kategorie elitarny w stopniu bazowy i kwalifikowany Miejsce wytwarzania Materiał szkółkarski kategorii elitarny w stopniu bazowy i kwalifikowany:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Erwinia amylovora, lub
 2)
-w ostatnim pełnym sezonie wegetacyjnym w miejscu wytwarzania został poddany ocenie, a materiał szkółkarski wykazujący objawy Erwinia amylovora oraz rośliny żywicielskie znajdujące się w sąsiedztwie tego materiału zostały usunięte i natychmiast zniszczone.
-Materiał szkółkarski CAC Pobieranie prób i ocena laboratoryjna W przypadku wątpliwości dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II. Miejsce wytwarzania Materiał szkółkarski CAC:
+w ostatnim pełnym sezonie wegetacyjnym w miejscu wytwarzania został poddany ocenie, a materiał szkółkarski wykazujący objawy Erwinia amylovora oraz rośliny żywicielskie znajdujące się w sąsiedztwie tego materiału zostały usunięte i natychmiast zniszczone. Materiał szkółkarski CAC Pobieranie prób i ocena laboratoryjna W przypadku wątpliwości dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II. Miejsce wytwarzania Materiał szkółkarski CAC:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Erwinia amylovora, lub
 2)
@@ -140,13 +555,11 @@ Truskawka i poziomka (Fragaria L.) Wszystkie kategorie Ocena polowa Oceny polowe
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Phytophthora fragariae, lub
 2)
-w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Phytophthora fragariae na liściach, a porażony materiał oraz inne rośliny w otaczającej go strefie o promieniu co najmniej 5 m zostały oznaczone, wyłączone z wyorywania i wprowadzania do obrotu oraz zniszczone po wyoraniu nieporażonego materiału szkółkarskiego.
-Xanthomonas fragariae Materiał szkółkarski kategorii elitarny w stopniu bazowy:
+w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Phytophthora fragariae na liściach, a porażony materiał oraz inne rośliny w otaczającej go strefie o promieniu co najmniej 5 m zostały oznaczone, wyłączone z wyorywania i wprowadzania do obrotu oraz zniszczone po wyoraniu nieporażonego materiału szkółkarskiego. Xanthomonas fragariae Materiał szkółkarski kategorii elitarny w stopniu bazowy:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Xanthomonas fragariae, lub
 2)
-w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Xanthomonas fragariae, a rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone.
-Phytophthora fragariae Okres przerwy, podczas której materiał szkółkarski kategorii bazowy nie mogą być uprawiane na polu, wynosi co najmniej dziesięć lat między stwierdzeniem obecności Phytophthora fragariae a kolejnym sadzeniem lub jest rejestrowana historia uprawy i historia chorób przenoszonych wraz z glebą w miejscu wytwarzania. Xanthomonas fragariae Okres przerwy, podczas której materiał szkółkarski kategorii bazowy nie mogą być uprawiane na polu, wynosi co najmniej jeden rok między stwierdzeniem obecności Xanthomonas fragariae a kolejnym sadzeniem. RNQP inne niż Xanthomonas fragariae, Phytophthora fragariae i wirusy Odsetek materiału szkółkarskiego kategorii bazowy w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym, wykazującego objawy każdego z następujących RNQP, nie może przekraczać:
+w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Xanthomonas fragariae, a rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone. Phytophthora fragariae Okres przerwy, podczas której materiał szkółkarski kategorii bazowy nie mogą być uprawiane na polu, wynosi co najmniej dziesięć lat między stwierdzeniem obecności Phytophthora fragariae a kolejnym sadzeniem lub jest rejestrowana historia uprawy i historia chorób przenoszonych wraz z glebą w miejscu wytwarzania. Xanthomonas fragariae Okres przerwy, podczas której materiał szkółkarski kategorii bazowy nie mogą być uprawiane na polu, wynosi co najmniej jeden rok między stwierdzeniem obecności Xanthomonas fragariae a kolejnym sadzeniem. RNQP inne niż Xanthomonas fragariae, Phytophthora fragariae i wirusy Odsetek materiału szkółkarskiego kategorii bazowy w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym, wykazującego objawy każdego z następujących RNQP, nie może przekraczać:
 1)
 0,05% – w przypadku Aphelenchoides besseyi,
 2)
@@ -174,18 +587,15 @@ Meloidogyne hapla,
 d)
 Podosphaera aphanis,
 5)
-1% – w przypadku Pratylenchus vulnus
-a materiał szkółkarski kategorii elitarny w stopniu bazowy wykazujący objawy porażenia oraz rośliny żywicielskie znajdujące się w bezpośrednim sąsiedztwie tego materiału zostały usunięte i zniszczone. W przypadku dodatniego wyniku badania materiału szkółkarskiego kategorii elitarny w stopniu bazowy wykazującego objawy wirusa mozaiki gęsiówki, wirusa pierścieniowej plamistości maliny, wirusa marszczycy truskawki, utajonego wirusa pierścieniowej plamistości truskawki, wirusa łagodnej żółtaczki brzegów liści truskawki, wirusa otaśmienia nerwów truskawki oraz wirusa czarnej pierścieniowej plamistości pomidora, ten materiał usuwa się i natychmiast niszczy. Wirusy W miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym zaobserwowano objawy wirusów wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II na nie więcej niż 1% materiału szkółkarskiego kategorii elitarny i ten materiał oraz znajdujące się w bezpośrednim sąsiedztwie tego materiału rośliny wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone. Kategoria kwalifikowany Pobieranie prób i ocena laboratoryjna W przypadku objawów Phytophthora fragariae na liściach pobiera się i bada reprezentatywną próbę korzeni. Pobrania prób i oceny laboratoryjnej dokonuje się, jeżeli objawy wirusa mozaiki gęsiówki, wirusa pierścieniowej plamistości maliny, wirusa marszczycy truskawki, utajonego wirusa pierścieniowej plamistości truskawki, wirusa łagodnej żółtaczki brzegów liści truskawki, wirusa otaśmienia nerwów truskawki i wirusa czarnej pierścieniowej plamistości pomidora nie są jednoznaczne na podstawie oceny polowej. W przypadku wątpliwości dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II, innych niż wirus mozaiki gęsiówki Phytophthora fragariae, wirus pierścieniowej plamistości maliny, wirus marszczycy truskawki, utajony wirus pierścieniowej plamistości truskawki, wirus łagodnej żółtaczki brzegów liści truskawki, wirus otaśmienia nerwów truskawki i wirus czarnej pierścieniowej plamistości pomidora. Miejsce wytwarzania Phytophthora fragariae Materiał szkółkarski kategorii kwalifikowany:
+1% – w przypadku Pratylenchus vulnus – a materiał szkółkarski kategorii elitarny w stopniu bazowy wykazujący objawy porażenia oraz rośliny żywicielskie znajdujące się w bezpośrednim sąsiedztwie tego materiału zostały usunięte i zniszczone. W przypadku dodatniego wyniku badania materiału szkółkarskiego kategorii elitarny w stopniu bazowy wykazującego objawy wirusa mozaiki gęsiówki, wirusa pierścieniowej plamistości maliny, wirusa marszczycy truskawki, utajonego wirusa pierścieniowej plamistości truskawki, wirusa łagodnej żółtaczki brzegów liści truskawki, wirusa otaśmienia nerwów truskawki oraz wirusa czarnej pierścieniowej plamistości pomidora, ten materiał usuwa się i natychmiast niszczy. Wirusy W miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym zaobserwowano objawy wirusów wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II na nie więcej niż 1% materiału szkółkarskiego kategorii elitarny i ten materiał oraz znajdujące się w bezpośrednim sąsiedztwie tego materiału rośliny wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone. Kategoria kwalifikowany Pobieranie prób i ocena laboratoryjna W przypadku objawów Phytophthora fragariae na liściach pobiera się i bada reprezentatywną próbę korzeni. Pobrania prób i oceny laboratoryjnej dokonuje się, jeżeli objawy wirusa mozaiki gęsiówki, wirusa pierścieniowej plamistości maliny, wirusa marszczycy truskawki, utajonego wirusa pierścieniowej plamistości truskawki, wirusa łagodnej żółtaczki brzegów liści truskawki, wirusa otaśmienia nerwów truskawki i wirusa czarnej pierścieniowej plamistości pomidora nie są jednoznaczne na podstawie oceny polowej. W przypadku wątpliwości dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II, innych niż wirus mozaiki gęsiówki Phytophthora fragariae, wirus pierścieniowej plamistości maliny, wirus marszczycy truskawki, utajony wirus pierścieniowej plamistości truskawki, wirus łagodnej żółtaczki brzegów liści truskawki, wirus otaśmienia nerwów truskawki i wirus czarnej pierścieniowej plamistości pomidora. Miejsce wytwarzania Phytophthora fragariae Materiał szkółkarski kategorii kwalifikowany:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Phytophthora fragariae, lub
 2)
-w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Phytophthora fragariae na liściach, a porażony materiał szkółkarski kategorii kwalifikowany oraz materiał szkółkarski w otaczającej go strefie o promieniu co najmniej 5 m został oznaczony, wyłączony z wyorywania i wprowadzania do obrotu oraz zniszczony po wyoraniu nieporażonego materiału szkółkarskiego.
-Xanthomonas fragariae Materiał szkółkarski kategorii kwalifikowany:
+w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Phytophthora fragariae na liściach, a porażony materiał szkółkarski kategorii kwalifikowany oraz materiał szkółkarski w otaczającej go strefie o promieniu co najmniej 5 m został oznaczony, wyłączony z wyorywania i wprowadzania do obrotu oraz zniszczony po wyoraniu nieporażonego materiału szkółkarskiego. Xanthomonas fragariae Materiał szkółkarski kategorii kwalifikowany:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Xanthomonas fragariae, lub
 2)
-w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Xanthomonas fragariae na nie więcej niż 2% tego materiału i ten materiał szkółkarski oraz znajdujące się w bezpośrednim sąsiedztwie tego materiału rośliny wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone.
-Phytophthora fragariae Okres przerwy, podczas której materiał szkółkarski kategorii kwalifikowany nie może być uprawiany na polu, wynosi co najmniej dziesięć lat między stwierdzeniem obecności Phytophthora fragariae a kolejnym sadzeniem lub jest rejestrowana historia uprawy i historia chorób przenoszonych wraz z glebą w miejscu wytwarzania. Xanthomonas fragariae Okres przerwy, podczas której materiał szkółkarski kategorii kwalifikowany nie może być uprawiany na polu, wynosi co najmniej jeden rok między stwierdzeniem obecności Xanthomonas fragariae a kolejnym sadzeniem. RNQP inne niż Xanthomonas fragariae, Phytophthora fragariae i wirusy Odsetek materiału szkółkarskiego kategorii kwalifikowany w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym, wykazującego objawy każdego z następujących RNQP, nie może przekraczać:
+w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Xanthomonas fragariae na nie więcej niż 2% tego materiału i ten materiał szkółkarski oraz znajdujące się w bezpośrednim sąsiedztwie tego materiału rośliny wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone. Phytophthora fragariae Okres przerwy, podczas której materiał szkółkarski kategorii kwalifikowany nie może być uprawiany na polu, wynosi co najmniej dziesięć lat między stwierdzeniem obecności Phytophthora fragariae a kolejnym sadzeniem lub jest rejestrowana historia uprawy i historia chorób przenoszonych wraz z glebą w miejscu wytwarzania. Xanthomonas fragariae Okres przerwy, podczas której materiał szkółkarski kategorii kwalifikowany nie może być uprawiany na polu, wynosi co najmniej jeden rok między stwierdzeniem obecności Xanthomonas fragariae a kolejnym sadzeniem. RNQP inne niż Xanthomonas fragariae, Phytophthora fragariae i wirusy Odsetek materiału szkółkarskiego kategorii kwalifikowany w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym, wykazującego objawy każdego z następujących RNQP, nie może przekraczać:
 1)
 0,1% – w przypadku Phytonemus pallidus,
 2)
@@ -229,20 +639,17 @@ Rhizoctonia fragariae,
 a)
 Verticillium albo-atrum,
 b)
-Verticillium dahliae
-a materiał szkółkarski kategorii kwalifikowany wykazujący objawy porażenia oraz rośliny żywicielskie znajdujące się w bezpośrednim sąsiedztwie tego materiału zostały usunięte i zniszczone. W przypadku dodatniego wyniku badania materiału szkółkarskiego kategorii kwalifikowany wykazującego objawy wirusa mozaiki gęsiówki, wirusa pierścieniowej plamistości maliny, wirusa marszczycy truskawki, utajonego wirusa pierścieniowej plamistości truskawki, wirusa łagodnej żółtaczki brzegów liści truskawki, wirusa otaśmienia nerwów truskawki oraz wirusa czarnej pierścieniowej plamistości pomidora, ten materiał usuwa się i natychmiast niszczy. Wirusy W miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym zaobserwowano objawy wirusów wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II na nie więcej niż 2% materiału szkółkarskiego kategorii kwalifikowany i ten materiał oraz rośliny wykazujące objawy porażenia znajdujące się w bezpośrednim sąsiedztwie tego materiału zostały usunięte i natychmiast zniszczone. Materiał szkółkarski CAC Pobieranie prób i ocena laboratoryjna W przypadku objawów Phytophthora fragariae na liściach pobiera się i bada reprezentatywną próbę korzeni. Pobrania prób i oceny laboratoryjnej dokonuje się, jeżeli objawy wirusa mozaiki gęsiówki, wirusa pierścieniowej plamistości maliny, wirusa marszczycy truskawki, utajonego wirusa pierścieniowej plamistości truskawki, wirusa łagodnej żółtaczki brzegów liści truskawki, wirusa otaśmienia nerwów truskawki i wirusa czarnej pierścieniowej plamistości pomidora nie są jednoznaczne na podstawie oceny polowej. W przypadku wątpliwości dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II, innych niż wirus mozaiki gęsiówki Phytophthora fragariae, wirus pierścieniowej plamistości maliny, wirus marszczycy truskawki, utajony wirus pierścieniowej plamistości truskawki, wirus łagodnej żółtaczki brzegów liści truskawki, wirus otaśmienia nerwów truskawki i wirus czarnej pierścieniowej plamistości pomidora. Miejsce wytwarzania Phytophthora fragariae Materiał szkółkarski CAC:
+Verticillium dahliae – a materiał szkółkarski kategorii kwalifikowany wykazujący objawy porażenia oraz rośliny żywicielskie znajdujące się w bezpośrednim sąsiedztwie tego materiału zostały usunięte i zniszczone. W przypadku dodatniego wyniku badania materiału szkółkarskiego kategorii kwalifikowany wykazującego objawy wirusa mozaiki gęsiówki, wirusa pierścieniowej plamistości maliny, wirusa marszczycy truskawki, utajonego wirusa pierścieniowej plamistości truskawki, wirusa łagodnej żółtaczki brzegów liści truskawki, wirusa otaśmienia nerwów truskawki oraz wirusa czarnej pierścieniowej plamistości pomidora, ten materiał usuwa się i natychmiast niszczy. Wirusy W miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym zaobserwowano objawy wirusów wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II na nie więcej niż 2% materiału szkółkarskiego kategorii kwalifikowany i ten materiał oraz rośliny wykazujące objawy porażenia znajdujące się w bezpośrednim sąsiedztwie tego materiału zostały usunięte i natychmiast zniszczone. Materiał szkółkarski CAC Pobieranie prób i ocena laboratoryjna W przypadku objawów Phytophthora fragariae na liściach pobiera się i bada reprezentatywną próbę korzeni. Pobrania prób i oceny laboratoryjnej dokonuje się, jeżeli objawy wirusa mozaiki gęsiówki, wirusa pierścieniowej plamistości maliny, wirusa marszczycy truskawki, utajonego wirusa pierścieniowej plamistości truskawki, wirusa łagodnej żółtaczki brzegów liści truskawki, wirusa otaśmienia nerwów truskawki i wirusa czarnej pierścieniowej plamistości pomidora nie są jednoznaczne na podstawie oceny polowej. W przypadku wątpliwości dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II, innych niż wirus mozaiki gęsiówki Phytophthora fragariae, wirus pierścieniowej plamistości maliny, wirus marszczycy truskawki, utajony wirus pierścieniowej plamistości truskawki, wirus łagodnej żółtaczki brzegów liści truskawki, wirus otaśmienia nerwów truskawki i wirus czarnej pierścieniowej plamistości pomidora. Miejsce wytwarzania Phytophthora fragariae Materiał szkółkarski CAC:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Phytophthora fragariae, lub
 2)
-w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Phytophthora fragariae na liściach, a porażony materiał oraz inne rośliny w otaczającej go strefie o promieniu co najmniej 5 m został oznaczony, wyłączony z wyorywania i wprowadzania do obrotu oraz zniszczony po wyoraniu nieporażonego materiału.
-Xanthomonas fragariae Materiał szkółkarski CAC:
+w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Phytophthora fragariae na liściach, a porażony materiał oraz inne rośliny w otaczającej go strefie o promieniu co najmniej 5 m został oznaczony, wyłączony z wyorywania i wprowadzania do obrotu oraz zniszczony po wyoraniu nieporażonego materiału. Xanthomonas fragariae Materiał szkółkarski CAC:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Xanthomonas fragariae, lub
 2)
 w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Xanthomonas fragariae, a materiał szkółkarski znajdujący się w bezpośrednim sąsiedztwie tego materiału, wykazujący objawy porażenia został usunięty i natychmiast zniszczony, lub
 3)
-w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Xanthomonas fragariae na nie więcej niż 5% tego materiału i ten materiał szkółkarski oraz znajdujące się w bezpośrednim sąsiedztwie tego materiału rośliny, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone.
-Wirusy W przypadku dodatniego wyniku badania materiału szkółkarskiego CAC wykazującego objawy wirusa mozaiki gęsiówki, wirusa pierścieniowej plamistości maliny, wirusa marszczycy truskawki, utajonego wirusa pierścieniowej plamistości truskawki, wirusa łagodnej żółtaczki brzegów liści truskawki, wirusa otaśmienia nerwów truskawki oraz wirusa czarnej pierścieniowej plamistości pomidora, ten materiał szkółkarski usuwa się i natychmiast niszczy.
+w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Xanthomonas fragariae na nie więcej niż 5% tego materiału i ten materiał szkółkarski oraz znajdujące się w bezpośrednim sąsiedztwie tego materiału rośliny, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone. Wirusy W przypadku dodatniego wyniku badania materiału szkółkarskiego CAC wykazującego objawy wirusa mozaiki gęsiówki, wirusa pierścieniowej plamistości maliny, wirusa marszczycy truskawki, utajonego wirusa pierścieniowej plamistości truskawki, wirusa łagodnej żółtaczki brzegów liści truskawki, wirusa otaśmienia nerwów truskawki oraz wirusa czarnej pierścieniowej plamistości pomidora, ten materiał szkółkarski usuwa się i natychmiast niszczy.
 7.
 Orzech włoski (Juglans regia L.) Wszystkie kategorie Ocena polowa Oceny polowej dokonuje się raz w roku. Kategoria elitarny w stopniu przedbazowy Pobieranie prób i ocena laboratoryjna Z każdej kwitnącej przedbazowej rośliny matecznej rok po jej dopuszczeniu jako przedbazowej rośliny matecznej, a następnie corocznie, dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, a w przypadku wątpliwości – na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli I. Kategoria elitarny w stopniu bazowy Pobieranie prób i ocena laboratoryjna Z reprezentatywnej części bazowych roślin matecznych co roku dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II. Kategoria kwalifikowany Pobieranie prób i ocena laboratoryjna Z reprezentatywnej części kwalifikowanych roślin matecznych co trzy lata dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II. W przypadku wątpliwości z kwalifikowanych roślin matecznych dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II. Materiał szkółkarski CAC Pobieranie prób i ocena laboratoryjna W przypadku wątpliwości dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II.
 8.
@@ -254,27 +661,23 @@ w ostatnim pełnym sezonie wegetacyjnym w miejscu wytwarzania na tym materiale n
 3)
 materiał jest wytwarzany na obszarach, o których wiadomo, że są wolne od Erwinia amylovora, lub
 4)
-w ostatnim pełnym sezonie wegetacyjnym materiał szkółkarski kategorii elitarny w stopniu przedbazowy w miejscu wytwarzania został poddany ocenie, a materiał szkółkarski wykazujący objawy Erwinia amylovora oraz rośliny żywicielskie znajdujące się w bezpośrednim w sąsiedztwie tego materiału zostały usunięte i natychmiast zniszczone.
-Kategoria elitarny w stopniu bazowy Pobieranie prób i ocena laboratoryjna W przypadku bazowych roślin matecznych, które były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części bazowych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma mali. W przypadku bazowych roślin matecznych, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części bazowych roślin matecznych co trzy lata dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma mali. Z reprezentatywnej części bazowych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, innych niż Candidatus Phytoplasma mali oraz choroby wirusopodobne i wiroidy, a w przypadku wątpliwości – na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli I. Kategoria kwalifikowany Pobieranie prób i ocena laboratoryjna W przypadku kwalifikowanych roślin matecznych, które były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części kwalifikowanych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma mali. W przypadku kwalifikowanych roślin matecznych, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części kwalifikowanych roślin matecznych co pięć lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma mali. Z reprezentatywnej części kwalifikowanych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, innych niż Candidatus Phytoplasma mali oraz choroby wirusopodobne i wiroidy, a w przypadku wątpliwości – na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli I. W przypadku wątpliwości z kwalifikowanych roślin matecznych dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II. Kategorie elitarny w stopniu bazowy i kwalifikowany Miejsce wytwarzania Materiał szkółkarski kategorii elitarny w stopniu bazowy i kwalifikowany:
+w ostatnim pełnym sezonie wegetacyjnym materiał szkółkarski kategorii elitarny w stopniu przedbazowy w miejscu wytwarzania został poddany ocenie, a materiał szkółkarski wykazujący objawy Erwinia amylovora oraz rośliny żywicielskie znajdujące się w bezpośrednim w sąsiedztwie tego materiału zostały usunięte i natychmiast zniszczone. Kategoria elitarny w stopniu bazowy Pobieranie prób i ocena laboratoryjna W przypadku bazowych roślin matecznych, które były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części bazowych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma mali. W przypadku bazowych roślin matecznych, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części bazowych roślin matecznych co trzy lata dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma mali. Z reprezentatywnej części bazowych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, innych niż Candidatus Phytoplasma mali oraz choroby wirusopodobne i wiroidy, a w przypadku wątpliwości – na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli I. Kategoria kwalifikowany Pobieranie prób i ocena laboratoryjna W przypadku kwalifikowanych roślin matecznych, które były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części kwalifikowanych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma mali. W przypadku kwalifikowanych roślin matecznych, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części kwalifikowanych roślin matecznych co pięć lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma mali. Z reprezentatywnej części kwalifikowanych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, innych niż Candidatus Phytoplasma mali oraz choroby wirusopodobne i wiroidy, a w przypadku wątpliwości – na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli I. W przypadku wątpliwości z kwalifikowanych roślin matecznych dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II. Kategorie elitarny w stopniu bazowy i kwalifikowany Miejsce wytwarzania Materiał szkółkarski kategorii elitarny w stopniu bazowy i kwalifikowany:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Candidatus Phytoplasma mali, lub
 2)
 w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Candidatus Phytoplasma mali, a rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone, lub
 3)
-w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Candidatus Phytoplasma mali na nie więcej niż 2% tego materiału, a materiał szkółkarski oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone; reprezentatywną próbę pozostałego materiału szkółkarskiego kategorii elitarny w stopniu bazowy i kwalifikowany niewykazującego objawów porażenia w partiach, w których stwierdzono obecność materiału szkółkarskiego wykazującego objawy, zbadano i uznano za wolną od Candidatus Phytoplasma mali.
-Materiał szkółkarski kategorii elitarny w stopniu bazowy i kwalifikowany:
+w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Candidatus Phytoplasma mali na nie więcej niż 2% tego materiału, a materiał szkółkarski oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone; reprezentatywną próbę pozostałego materiału szkółkarskiego kategorii elitarny w stopniu bazowy i kwalifikowany niewykazującego objawów porażenia w partiach, w których stwierdzono obecność materiału szkółkarskiego wykazującego objawy, zbadano i uznano za wolną od Candidatus Phytoplasma mali. Materiał szkółkarski kategorii elitarny w stopniu bazowy i kwalifikowany:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Erwinia amylovora, lub
 2)
-w miejscu wytwarzania został poddany ocenie w ostatnim pełnym sezonie wegetacyjnym, a materiał szkółkarski wykazujący objawy Erwinia amylovora oraz rośliny żywicielskie znajdujące się w sąsiedztwie tego materiału zostały usunięte i natychmiast zniszczone.
-Materiał szkółkarski CAC Pobieranie prób i ocena laboratoryjna W przypadku wątpliwości dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II. Miejsce wytwarzania Materiał szkółkarski CAC:
+w miejscu wytwarzania został poddany ocenie w ostatnim pełnym sezonie wegetacyjnym, a materiał szkółkarski wykazujący objawy Erwinia amylovora oraz rośliny żywicielskie znajdujące się w sąsiedztwie tego materiału zostały usunięte i natychmiast zniszczone. Materiał szkółkarski CAC Pobieranie prób i ocena laboratoryjna W przypadku wątpliwości dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II. Miejsce wytwarzania Materiał szkółkarski CAC:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Candidatus Phytoplasma mali, lub
 2)
 w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Candidatus Phytoplasma mali, a materiał szkółkarski znajdujący się w bezpośrednim sąsiedztwie tego materiału, wykazujący objawy porażenia został usunięty i natychmiast zniszczony, lub
 3)
-w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Candidatus Phytoplasma mali na nie więcej niż 2% tego materiału, a materiał szkółkarski znajdujący się w bezpośrednim sąsiedztwie tego materiału, wykazujący objawy porażenia został usunięty i natychmiast zniszczony; reprezentatywną próbę pozostałego materiału szkółkarskiego CAC niewykazującego objawów porażenia w partiach, w których stwierdzono obecność materiału szkółkarskiego CAC wykazującego objawy porażenia, zbadano i uznano za wolną od Candidatus Phytoplasma mali.
-Materiał szkółkarski CAC:
+w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Candidatus Phytoplasma mali na nie więcej niż 2% tego materiału, a materiał szkółkarski znajdujący się w bezpośrednim sąsiedztwie tego materiału, wykazujący objawy porażenia został usunięty i natychmiast zniszczony; reprezentatywną próbę pozostałego materiału szkółkarskiego CAC niewykazującego objawów porażenia w partiach, w których stwierdzono obecność materiału szkółkarskiego CAC wykazującego objawy porażenia, zbadano i uznano za wolną od Candidatus Phytoplasma mali. Materiał szkółkarski CAC:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Erwinia amylovora, lub
 2)
@@ -304,36 +707,31 @@ w ostatnim pełnym sezonie wegetacyjnym w miejscu wytwarzania na tym materiale n
 9)
 ten materiał powinien być wytwarzany na obszarach, o których wiadomo, że są wolne od Xanthomonas arboricola pv. pruni, lub
 10)
-w ostatnim pełnym sezonie wegetacyjnym w miejscu wytwarzania na tym materiale nie zaobserwowano objawów Xanthomonas arboricola pv. pruni, a rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone.
-Kategorie elitarny w stopniu bazowy, kwalifikowany i materiał szkółkarski CAC Ocena polowa Oceny polowej dokonuje się raz w roku. Kategoria elitarny w stopniu bazowy Pobieranie prób i ocena laboratoryjna W przypadku roślin matecznych, które były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części bazowych roślin matecznych co trzy lata dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa karłowatości śliwy, wirusa nekrotycznej pierścieniowej plamistości wiśni i wirusa ospowatości śliwy. Z reprezentatywnej części roślin matecznych co dziesięć lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma prunorum. W przypadku roślin matecznych, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części tych roślin, innych niż przeznaczone do wytwarzania podkładek, co roku dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa ospowatości śliwy w celu zbadania wszystkich roślin w okresie dziesięciu lat. Z reprezentatywnej części bazowych roślin matecznych przeznaczonych do wytwarzania podkładek raz w roku dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa ospowatości śliwy w celu uznania ich za wolne od tego RNQP. Z reprezentatywnej części bazowych roślin matecznych gatunku Prunus domestica przeznaczonych do produkcji podkładek w pięciu poprzednich sezonach wegetacyjnych dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma prunorum w celu uznania ich za wolne od tego RNQP. W przypadku wątpliwości z reprezentatywnej części elitarnych roślin matecznych dokonuje się pobrania prób i oceny laboratoryjnej na obecność Xanthomonas arboricola pv. pruni. Z reprezentatywnej części bazowych roślin matecznych co dziesięć lat dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, innych niż Candidatus Phytoplasma prunorum, wirus karłowatości śliwy, wirus nekrotycznej pierścieniowej plamistości wiśni i wirus ospowatości śliwy, a w przypadku wątpliwości – na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli I. W przypadku kwitnących roślin matecznych z reprezentatywnej części tych roślin co roku dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność Candidatus Phytoplasma prunorum, wirusa karłowatości śliwy i wirusa nekrotycznej pierścieniowej plamistości wiśni. W przypadku Prunus persica z reprezentatywnej części kwitnących bazowych roślin matecznych raz w roku dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność utajonego wiroida mozaiki brzoskwini. Z reprezentatywnej części drzew sadzonych z przeznaczeniem na zapylanie, a w stosownych przypadkach, z głównych drzew zapylających w otoczeniu dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność wirusa karłowatości śliwy i wirusa nekrotycznej pierścieniowej plamistości wiśni. W przypadku niekwitnących roślin matecznych z reprezentatywnej części tych roślin, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, co trzy lata dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność wirusa karłowatości śliwy, wirusa nekrotycznej pierścieniowej plamistości wiśni i Candidatus Phytoplasma prunorum. Kategoria kwalifikowany Pobieranie prób i ocena laboratoryjna W przypadku kwalifikowanych roślin matecznych, które były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części tych roślin co pięć lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa karłowatości śliwy, wirusa nekrotycznej pierścieniowej plamistości wiśni i wirusa ospowatości śliwy w celu zbadania wszystkich roślin w okresie piętnastu lat. Z reprezentatywnej części kwalifikowanych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma prunorum. W przypadku kwalifikowanych roślin matecznych, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części tych roślin co trzy lata dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa ospowatości śliwy w celu zbadania wszystkich roślin w okresie piętnastu lat. Z reprezentatywnej części kwalifikowanych roślin matecznych przeznaczonych do wytwarzania podkładek raz w roku dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa ospowatości śliwy w celu uznania ich za wolne od tego RNQP. Z reprezentatywnej części kwalifikowanych roślin matecznych gatunków Prunus cerasifera i Prunus domesti-ca przeznaczonych do produkcji podkładek w pięciu poprzednich sezonach wegetacyjnych dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma prunorum w celu uznania ich za wolne od tego RNQP. W przypadku wątpliwości z reprezentatywnej części kwalifikowanych roślin matecznych dokonuje się pobrania prób i oceny laboratoryjnej na obecność Xanthomonas arboricola pv. pruni. Z reprezentatywnej części kwalifikowanych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, innych niż Candidatus Phytoplasma prunorum, wirus karłowatości śliwy, wirus nekrotycznej pierścieniowej plamistości wiśni i wirus ospowatości śliwy, a w przypadku wątpliwości – na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli I. W przypadku kwitnących kwalifikowanych roślin matecznych z reprezentatywnej części tych roślin co roku dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność Candidatus Phytoplasma prunorum, wirusa karłowatości śliwy i wirusa nekrotycznej pierścieniowej plamistości wiśni. W przypadku Prunus persica z reprezentatywnej części kwitnących kwalifikowanych roślin matecznych raz w roku dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność utajonego wiroida mozaiki brzoskwini. Z reprezentatywnej części drzew sadzonych z przeznaczeniem na zapylanie, a w stosownych przypadkach, z głównych drzew zapylających w otoczeniu dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność wirusa karłowatości śliwy i wirusa nekrotycznej pierścieniowej plamistości wiśni. W przypadku niekwitnących kwalifikowanych roślin matecznych z reprezentatywnej części tych roślin, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, co trzy lata dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność Candidatus Phytoplasma prunorum, wirusa karłowatości śliwy i wirusa nekrotycznej pierścieniowej plamistości wiśni. Kategorie elitarny w stopniu bazowy i kwalifikowany Miejsce wytwarzania Materiał szkółkarski kategorii elitarny w stopniu bazowy i kwalifikowany:
+w ostatnim pełnym sezonie wegetacyjnym w miejscu wytwarzania na tym materiale nie zaobserwowano objawów Xanthomonas arboricola pv. pruni, a rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone. Kategorie elitarny w stopniu bazowy, kwalifikowany i materiał szkółkarski CAC Ocena polowa Oceny polowej dokonuje się raz w roku. Kategoria elitarny w stopniu bazowy Pobieranie prób i ocena laboratoryjna W przypadku roślin matecznych, które były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części bazowych roślin matecznych co trzy lata dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa karłowatości śliwy, wirusa nekrotycznej pierścieniowej plamistości wiśni i wirusa ospowatości śliwy. Z reprezentatywnej części roślin matecznych co dziesięć lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma prunorum. W przypadku roślin matecznych, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części tych roślin, innych niż przeznaczone do wytwarzania podkładek, co roku dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa ospowatości śliwy w celu zbadania wszystkich roślin w okresie dziesięciu lat. Z reprezentatywnej części bazowych roślin matecznych przeznaczonych do wytwarzania podkładek raz w roku dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa ospowatości śliwy w celu uznania ich za wolne od tego RNQP. Z reprezentatywnej części bazowych roślin matecznych gatunku Prunus domestica przeznaczonych do produkcji podkładek w pięciu poprzednich sezonach wegetacyjnych dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma prunorum w celu uznania ich za wolne od tego RNQP. W przypadku wątpliwości z reprezentatywnej części elitarnych roślin matecznych dokonuje się pobrania prób i oceny laboratoryjnej na obecność Xanthomonas arboricola pv. pruni. Z reprezentatywnej części bazowych roślin matecznych co dziesięć lat dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, innych niż Candidatus Phytoplasma prunorum, wirus karłowatości śliwy, wirus nekrotycznej pierścieniowej plamistości wiśni i wirus ospowatości śliwy, a w przypadku wątpliwości – na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli I. W przypadku kwitnących roślin matecznych z reprezentatywnej części tych roślin co roku dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność Candidatus Phytoplasma prunorum, wirusa karłowatości śliwy i wirusa nekrotycznej pierścieniowej plamistości wiśni. W przypadku Prunus persica z reprezentatywnej części kwitnących bazowych roślin matecznych raz w roku dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność utajonego wiroida mozaiki brzoskwini. Z reprezentatywnej części drzew sadzonych z przeznaczeniem na zapylanie, a w stosownych przypadkach, z głównych drzew zapylających w otoczeniu dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność wirusa karłowatości śliwy i wirusa nekrotycznej pierścieniowej plamistości wiśni. W przypadku niekwitnących roślin matecznych z reprezentatywnej części tych roślin, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, co trzy lata dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność wirusa karłowatości śliwy, wirusa nekrotycznej pierścieniowej plamistości wiśni i Candidatus Phytoplasma prunorum. Kategoria kwalifikowany Pobieranie prób i ocena laboratoryjna W przypadku kwalifikowanych roślin matecznych, które były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części tych roślin co pięć lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa karłowatości śliwy, wirusa nekrotycznej pierścieniowej plamistości wiśni i wirusa ospowatości śliwy w celu zbadania wszystkich roślin w okresie piętnastu lat. Z reprezentatywnej części kwalifikowanych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma prunorum. W przypadku kwalifikowanych roślin matecznych, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części tych roślin co trzy lata dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa ospowatości śliwy w celu zbadania wszystkich roślin w okresie piętnastu lat. Z reprezentatywnej części kwalifikowanych roślin matecznych przeznaczonych do wytwarzania podkładek raz w roku dokonuje się pobrania prób i oceny laboratoryjnej na obecność wirusa ospowatości śliwy w celu uznania ich za wolne od tego RNQP. Z reprezentatywnej części kwalifikowanych roślin matecznych gatunków Prunus cerasifera i Prunus domesti-ca przeznaczonych do produkcji podkładek w pięciu poprzednich sezonach wegetacyjnych dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma prunorum w celu uznania ich za wolne od tego RNQP. W przypadku wątpliwości z reprezentatywnej części kwalifikowanych roślin matecznych dokonuje się pobrania prób i oceny laboratoryjnej na obecność Xanthomonas arboricola pv. pruni. Z reprezentatywnej części kwalifikowanych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, innych niż Candidatus Phytoplasma prunorum, wirus karłowatości śliwy, wirus nekrotycznej pierścieniowej plamistości wiśni i wirus ospowatości śliwy, a w przypadku wątpliwości – na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli I. W przypadku kwitnących kwalifikowanych roślin matecznych z reprezentatywnej części tych roślin co roku dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność Candidatus Phytoplasma prunorum, wirusa karłowatości śliwy i wirusa nekrotycznej pierścieniowej plamistości wiśni. W przypadku Prunus persica z reprezentatywnej części kwitnących kwalifikowanych roślin matecznych raz w roku dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność utajonego wiroida mozaiki brzoskwini. Z reprezentatywnej części drzew sadzonych z przeznaczeniem na zapylanie, a w stosownych przypadkach, z głównych drzew zapylających w otoczeniu dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność wirusa karłowatości śliwy i wirusa nekrotycznej pierścieniowej plamistości wiśni. W przypadku niekwitnących kwalifikowanych roślin matecznych z reprezentatywnej części tych roślin, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, co trzy lata dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność Candidatus Phytoplasma prunorum, wirusa karłowatości śliwy i wirusa nekrotycznej pierścieniowej plamistości wiśni. Kategorie elitarny w stopniu bazowy i kwalifikowany Miejsce wytwarzania Materiał szkółkarski kategorii elitarny w stopniu bazowy i kwalifikowany:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Candidatus Phytoplasma prunorum, lub
 2)
 w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Candidatus Phytoplasma prunorum, a rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone, lub
 3)
-w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Candidatus Phytoplasma prunorum na nie więcej niż 1% tego materiału, a ten materiał szkółkarski oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone; reprezentatywną próbę pozostałego materiału szkółkarskiego niewykazującego objawów porażenia w partiach, w których stwierdzono obecność materiału szkółkarskiego wykazującego objawy porażenia, zbadano i uznano za wolną od Candidatus Phytoplasma prunorum.
-Materiał szkółkarski kategorii elitarny w stopniu bazowy i kwalifikowany:
+w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Candidatus Phytoplasma prunorum na nie więcej niż 1% tego materiału, a ten materiał szkółkarski oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone; reprezentatywną próbę pozostałego materiału szkółkarskiego niewykazującego objawów porażenia w partiach, w których stwierdzono obecność materiału szkółkarskiego wykazującego objawy porażenia, zbadano i uznano za wolną od Candidatus Phytoplasma prunorum. Materiał szkółkarski kategorii elitarny w stopniu bazowy i kwalifikowany:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od wirusa ospowatości śliwy, lub
 2)
 w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów wirusa ospowatości śliwy, a materiał szkółkarski znajdujący się w bezpośrednim sąsiedztwie tego materiału, wykazujący objawy porażenia został usunięty i natychmiast zniszczony, lub
 3)
-w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy wirusa ospowatości śliwy na nie więcej niż 1% tego materiału, aten materiał szkółkarski oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone; reprezentatywną próbę pozostałego materiału szkółkarskiego niewykazującego objawów porażenia w partiach, w których stwierdzono obecność materiału szkółkarskiego wykazującego objawy porażenia, zbadano i uznano za wolną od wirusa ospowatości śliwy.
-Materiał szkółkarski kategorii elitarny w stopniu bazowy i kwalifikowany:
+w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy wirusa ospowatości śliwy na nie więcej niż 1% tego materiału, aten materiał szkółkarski oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone; reprezentatywną próbę pozostałego materiału szkółkarskiego niewykazującego objawów porażenia w partiach, w których stwierdzono obecność materiału szkółkarskiego wykazującego objawy porażenia, zbadano i uznano za wolną od wirusa ospowatości śliwy. Materiał szkółkarski kategorii elitarny w stopniu bazowy i kwalifikowany:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Pseudomonas syringae pv. Persicae, lub
 2)
 w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Pseudomonas syringae pv. persicae, a materiał szkółkarski znajdujący się w bezpośrednim sąsiedztwie tego materiału, wykazujący objawy porażenia został usunięty i natychmiast zniszczony, lub
 3)
-w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Pseudomonas syringae pv. persicae na nie więcej niż 2% tego materiału, a ten materiał szkółkarski oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone.
-Materiał szkółkarski kategorii elitarny w stopniu bazowy i kwalifikowany:
+w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Pseudomonas syringae pv. persicae na nie więcej niż 2% tego materiału, a ten materiał szkółkarski oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone. Materiał szkółkarski kategorii elitarny w stopniu bazowy i kwalifikowany:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Xanthomonas arboricola pv. Pruni, lub
 2)
 w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Xanthomonas arboricola pv. pruni, a rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone, lub
 3)
-w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Xanthomonas arboricola pv. pruni na nie więcej niż 2% tego materiału i ten materiał szkółkarski oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone.
-Materiał szkółkarski CAC Pobieranie prób i ocena laboratoryjna Materiał szkółkarski CAC pochodzi ze zidentyfikowanego źródła materiału, z reprezentatywnej części którego w poprzednich trzech sezonach wegetacyjnych dokonano pobrania prób i oceny laboratoryjnej oraz uznano je za wolne od wirusa ospowatości śliwy. Podkładki CAC gatunków Prunus cerasifera iPrunus domestica pochodzą ze zidentyfikowanego źródła materiału, z reprezentatywnej części którego w poprzednich pięciu latach dokonano pobrania prób i oceny laboratoryjnej oraz uznano je za wolne od Candidatus Phytoplasma prunorum i wirusa ospowatości śliwy. W przypadku wątpliwości z reprezentatywnej części materiału szkółkarskiego CAC dokonuje się pobrania prób i oceny laboratoryjnej na obecność Xanthomonas arboricola pv. pruni. Z reprezentatywnej części roślin sadowniczych CAC niewykazujących, na podstawie oceny polowej, objawów wirusa ospowatości śliwy dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność tego RNQP, a w przypadku wystąpienia objawów – z roślin znajdujących się w ich bezpośrednim sąsiedztwie. Po wykryciu w miejscu wytwarzania, na podstawie oceny polowej, materiału szkółkarskiego CAC wykazującego objawy Candidatus Phytoplasma prunorum, z reprezentatywnej części pozostałego niewykazującego objawów materiału szkółkarskiego CAC w partiach, w których stwierdzono obecność materiału szkółkarskiego wykazującego objawy, dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma prunorum. W przypadku wątpliwości dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II, innych niż Candidatus Phytoplasma prunorum i wirus ospowatości śliwy. Miejsce wytwarzania Materiał szkółkarski CAC:
+w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Xanthomonas arboricola pv. pruni na nie więcej niż 2% tego materiału i ten materiał szkółkarski oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone. Materiał szkółkarski CAC Pobieranie prób i ocena laboratoryjna Materiał szkółkarski CAC pochodzi ze zidentyfikowanego źródła materiału, z reprezentatywnej części którego w poprzednich trzech sezonach wegetacyjnych dokonano pobrania prób i oceny laboratoryjnej oraz uznano je za wolne od wirusa ospowatości śliwy. Podkładki CAC gatunków Prunus cerasifera iPrunus domestica pochodzą ze zidentyfikowanego źródła materiału, z reprezentatywnej części którego w poprzednich pięciu latach dokonano pobrania prób i oceny laboratoryjnej oraz uznano je za wolne od Candidatus Phytoplasma prunorum i wirusa ospowatości śliwy. W przypadku wątpliwości z reprezentatywnej części materiału szkółkarskiego CAC dokonuje się pobrania prób i oceny laboratoryjnej na obecność Xanthomonas arboricola pv. pruni. Z reprezentatywnej części roślin sadowniczych CAC niewykazujących, na podstawie oceny polowej, objawów wirusa ospowatości śliwy dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność tego RNQP, a w przypadku wystąpienia objawów – z roślin znajdujących się w ich bezpośrednim sąsiedztwie. Po wykryciu w miejscu wytwarzania, na podstawie oceny polowej, materiału szkółkarskiego CAC wykazującego objawy Candidatus Phytoplasma prunorum, z reprezentatywnej części pozostałego niewykazującego objawów materiału szkółkarskiego CAC w partiach, w których stwierdzono obecność materiału szkółkarskiego wykazującego objawy, dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma prunorum. W przypadku wątpliwości dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II, innych niż Candidatus Phytoplasma prunorum i wirus ospowatości śliwy. Miejsce wytwarzania Materiał szkółkarski CAC:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Candidatus Phytoplasma prunorum, lub
 2)
@@ -341,22 +739,19 @@ w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał obj
 3)
 w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Candidatus Phytoplasma prunorum na nie więcej niż 1% tego materiału, a materiał szkółkarski CAC oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone; reprezentatywną próbę pozostałego materiału szkółkarskiego CAC niewykazującego objawów porażenia w partiach, w których stwierdzono obecność materiału szkółkarskiego CAC wykazującego objawy, zbadano i uznano za wolną od Candidatus Phytoplasma prunorum;
 4)
-w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Pseudomonas syringae pv. persicae i Xantomonas arboricola pv. pruni na nie więcej niż 2% tego materiału, a materiał szkółkarski CAC oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone.
-Materiał szkółkarski CAC:
+w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Pseudomonas syringae pv. persicae i Xantomonas arboricola pv. pruni na nie więcej niż 2% tego materiału, a materiał szkółkarski CAC oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone. Materiał szkółkarski CAC:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od wirusa ospowatości śliwy, lub
 2)
 w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów wirusa ospowatości śliwy, a rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone, lub
 3)
-w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy wirusa ospowatości śliwy na nie więcej niż 1% tego materiału, a materiał szkółkarski CAC oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone; reprezentatywną próbę pozostałego materiału szkółkarskiego CAC niewykazującego objawów porażenia w partiach, w których stwierdzono obecność materiału szkółkarskiego CAC wykazującego objawy porażenia, zbadano i uznano za wolną od wirusa ospowatości śliwy.
-Materiał szkółkarski CAC:
+w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy wirusa ospowatości śliwy na nie więcej niż 1% tego materiału, a materiał szkółkarski CAC oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone; reprezentatywną próbę pozostałego materiału szkółkarskiego CAC niewykazującego objawów porażenia w partiach, w których stwierdzono obecność materiału szkółkarskiego CAC wykazującego objawy porażenia, zbadano i uznano za wolną od wirusa ospowatości śliwy. Materiał szkółkarski CAC:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Pseudomonas syringae pv. Persicae, lub
 2)
 w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Pseudomonas syringae pv. persicae, a rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone, lub
 3)
-w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Pseudomonas syringae pv. persicae na nie więcej niż 2% tego materiału, a materiał szkółkarski CAC oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone.
-Materiał szkółkarski CAC:
+w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Pseudomonas syringae pv. persicae na nie więcej niż 2% tego materiału, a materiał szkółkarski CAC oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone. Materiał szkółkarski CAC:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Xanthomonas arboricola pv. pruni, lub
 2)
@@ -368,27 +763,23 @@ Grusza (Pyrus L.) Wszystkie kategorie Ocena polowa Oceny polowej dokonuje się r
 1)
 ten materiał jest wytwarzany na obszarach, o których wiadomo, że są wolne od Candidatus Phytoplasma pyri, lub
 2)
-w ostatnim pełnym sezonie wegetacyjnym w miejscu wytwarzania na tym materiale nie zaobserwowano objawów Candidatus Phytoplasma pyri, a rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone.
-W przypadku materiału szkółkarskiego kategorii elitarny w stopniu bazowy ten materiał powinien być wytwarzany na obszarach, o których wiadomo, że są wolne od Erwinia amylovora, lub, w przypadku materiału szkółkarskiego kategorii elitarny w stopniu przedbazowy, ten materiał w miejscu wytwarzania został poddany ocenie w ostatnim pełnym sezonie wegetacyjnym, a materiał szkółkarski wykazujący objawy Erwinia amylovora oraz rośliny żywicielskie znajdujące się w sąsiedztwie tego materiału zostały natychmiast usunięte i zniszczone. Kategoria elitarny w stopniu bazowy Pobieranie prób i ocena laboratoryjna W przypadku bazowych roślin matecznych, które były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części tych roślin co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma pyri. W przypadku bazowych roślin matecznych, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części tych roślin co trzy lata dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma pyri. Z reprezentatywnej części bazowych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, innych niż Candidatus Phytoplasma pyri oraz choroby wirusopodobne i wiroidy, a w przypadku wątpliwości – na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli I. Kategoria kwalifikowany Pobieranie prób i ocena laboratoryjna W przypadku kwalifikowanych roślin matecznych, które były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części tych roślin co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma pyri. W przypadku kwalifikowanych roślin matecznych, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części tych roślin co pięć lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma pyri; z reprezentatywnej części kwalifikowanych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, innych niż Candidatus Phytoplasma pyri oraz choroby wirusopodobne i wiroidy, a w przypadku wątpliwości – na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli I. W przypadku wątpliwości z kwalifikowanych roślin matecznych dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II. Kategorie elitarny w stopniu bazowy i kwalifikowany Miejsce wytwarzania Materiał rozmnożeniowy kategorii elitarny w stopniu bazowy i kwalifikowany:
+w ostatnim pełnym sezonie wegetacyjnym w miejscu wytwarzania na tym materiale nie zaobserwowano objawów Candidatus Phytoplasma pyri, a rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone. W przypadku materiału szkółkarskiego kategorii elitarny w stopniu bazowy ten materiał powinien być wytwarzany na obszarach, o których wiadomo, że są wolne od Erwinia amylovora, lub, w przypadku materiału szkółkarskiego kategorii elitarny w stopniu przedbazowy, ten materiał w miejscu wytwarzania został poddany ocenie w ostatnim pełnym sezonie wegetacyjnym, a materiał szkółkarski wykazujący objawy Erwinia amylovora oraz rośliny żywicielskie znajdujące się w sąsiedztwie tego materiału zostały natychmiast usunięte i zniszczone. Kategoria elitarny w stopniu bazowy Pobieranie prób i ocena laboratoryjna W przypadku bazowych roślin matecznych, które były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części tych roślin co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma pyri. W przypadku bazowych roślin matecznych, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części tych roślin co trzy lata dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma pyri. Z reprezentatywnej części bazowych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, innych niż Candidatus Phytoplasma pyri oraz choroby wirusopodobne i wiroidy, a w przypadku wątpliwości – na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli I. Kategoria kwalifikowany Pobieranie prób i ocena laboratoryjna W przypadku kwalifikowanych roślin matecznych, które były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części tych roślin co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma pyri. W przypadku kwalifikowanych roślin matecznych, które nie były utrzymywane w obiektach zabezpieczonych przed dostępem owadów, z reprezentatywnej części tych roślin co pięć lat dokonuje się pobrania prób i oceny laboratoryjnej na obecność Candidatus Phytoplasma pyri; z reprezentatywnej części kwalifikowanych roślin matecznych co piętnaście lat dokonuje się pobrania prób i oceny laboratoryjnej, na podstawie oceny ryzyka porażenia tych roślin, na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, innych niż Candidatus Phytoplasma pyri oraz choroby wirusopodobne i wiroidy, a w przypadku wątpliwości – na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli I. W przypadku wątpliwości z kwalifikowanych roślin matecznych dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II. Kategorie elitarny w stopniu bazowy i kwalifikowany Miejsce wytwarzania Materiał rozmnożeniowy kategorii elitarny w stopniu bazowy i kwalifikowany:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Candidatus Phytoplasma pyri, lub
 2)
 w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Candidatus Phytoplasma pyri, a rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone, lub
 3)
-w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Candidatus Phytoplasma pyri na nie więcej niż 2% tego materiału, a materiał szkółkarski oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone; reprezentatywną próbę pozostałego materiału szkółkarskiego niewykazującego objawów porażenia w partiach, w których stwierdzono obecność materiału szkółkarskiego wykazującego objawy, zbadano i uznano za wolną od Candidatus Phytoplasma pyri.
-Materiał szkółkarski kategorii elitarny w stopniu bazowy i kwalifikowany:
+w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Candidatus Phytoplasma pyri na nie więcej niż 2% tego materiału, a materiał szkółkarski oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone; reprezentatywną próbę pozostałego materiału szkółkarskiego niewykazującego objawów porażenia w partiach, w których stwierdzono obecność materiału szkółkarskiego wykazującego objawy, zbadano i uznano za wolną od Candidatus Phytoplasma pyri. Materiał szkółkarski kategorii elitarny w stopniu bazowy i kwalifikowany:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Erwinia amylovora, lub
 2)
-w miejscu wytwarzania został poddany ocenie w ostatnim pełnym sezonie wegetacyjnym, a materiał szkółkarski wykazujący objawy Erwinia amylovora oraz rośliny żywicielskie znajdujące się w sąsiedztwie tego materiału zostały usunięte i natychmiast zniszczone.
-Materiał szkółkarski CAC Pobieranie prób i ocena laboratoryjna W przypadku wątpliwości dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II. Miejsce wytwarzania Materiał szkółkarski CAC:
+w miejscu wytwarzania został poddany ocenie w ostatnim pełnym sezonie wegetacyjnym, a materiał szkółkarski wykazujący objawy Erwinia amylovora oraz rośliny żywicielskie znajdujące się w sąsiedztwie tego materiału zostały usunięte i natychmiast zniszczone. Materiał szkółkarski CAC Pobieranie prób i ocena laboratoryjna W przypadku wątpliwości dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II. Miejsce wytwarzania Materiał szkółkarski CAC:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Candidatus Phytoplasma pyri, lub
 2)
 w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Candidatus Phytoplasma pyri, a rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone, lub
 3)
-w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Candidatus Phytoplasma pyri na nie więcej niż 2% tego materiału, a materiał szkółkarski oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone; reprezentatywną próbę pozostałego materiału szkółkarskiego niewykazującego objawów porażenia w partiach, w których stwierdzono obecność materiału szkółkarskiego wykazującego objawy, zbadano i uznano za wolną od Candidatus Phytoplasma pyri.
-Materiał szkółkarski CAC:
+w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazywał objawy Candidatus Phytoplasma pyri na nie więcej niż 2% tego materiału, a materiał szkółkarski oraz rośliny znajdujące się w bezpośrednim sąsiedztwie tego materiału, wykazujące objawy porażenia zostały usunięte i natychmiast zniszczone; reprezentatywną próbę pozostałego materiału szkółkarskiego niewykazującego objawów porażenia w partiach, w których stwierdzono obecność materiału szkółkarskiego wykazującego objawy, zbadano i uznano za wolną od Candidatus Phytoplasma pyri. Materiał szkółkarski CAC:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Erwinia amylovora, lub
 2)
@@ -400,28 +791,23 @@ Jeżyna i malina (Rubus L.) Kategoria elitarny w stopniu przedbazowy Ocena polow
 1)
 0,5% – w przypadku Resseliella theobaldi,
 2)
-1% – w przypadku Agrobacterium spp. oraz Rhodococcus fascians
-aten materiał szkółkarski oraz rośliny żywicielskie znajdujące się w sąsiedztwie tego materiału zostały usunięte i zniszczone. Wirusy W miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym zaobserwowano objawy wirusów wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II na nie więcej niż 0,5% materiału szkółkarskiego kategorii kwalifikowany i ten materiał szkółkarski oraz rośliny wykazujące objawy porażenia znajdujące się w bezpośrednim sąsiedztwie tego materiału zostały usunięte i natychmiast zniszczone. Materiał szkółkarski CAC Ocena polowa Oceny polowej dokonuje się raz w roku. Pobieranie prób i ocena laboratoryjna Pobrania prób i oceny laboratoryjnej dokonuje się, jeżeli objawy wirusa mozaiki gęsiówki, wirusa pierścieniowej plamistości maliny, utajonego wirusa pierścieniowej plamistości truskawki i wirusa czarnej pierścieniowej plamistości pomidora nie są jednoznaczne na podstawie oceny polowej. W przypadku wątpliwości dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II, innych niż wirus mozaiki gęsiówki, wirus pierścieniowej plamistości maliny, utajony wirus pierścieniowej plamistości truskawki i wirus czarnej pierścieniowej plamistości pomidora. Miejsce wytwarzania W przypadku dodatniego wyniku oceny laboratoryjnej materiału szkółkarskiego CAC wykazującego objawy wirusa mozaiki gęsiówki, wirusa pierścieniowej plamistości maliny, utajonego wirusa pierścieniowej plamistości truskawki lub wirusa czarnej pierścieniowej plamistości pomidora, ten materiał szkółkarski usuwa się i natychmiast niszczy.
+1% – w przypadku Agrobacterium spp. oraz Rhodococcus fascians – aten materiał szkółkarski oraz rośliny żywicielskie znajdujące się w sąsiedztwie tego materiału zostały usunięte i zniszczone. Wirusy W miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym zaobserwowano objawy wirusów wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II na nie więcej niż 0,5% materiału szkółkarskiego kategorii kwalifikowany i ten materiał szkółkarski oraz rośliny wykazujące objawy porażenia znajdujące się w bezpośrednim sąsiedztwie tego materiału zostały usunięte i natychmiast zniszczone. Materiał szkółkarski CAC Ocena polowa Oceny polowej dokonuje się raz w roku. Pobieranie prób i ocena laboratoryjna Pobrania prób i oceny laboratoryjnej dokonuje się, jeżeli objawy wirusa mozaiki gęsiówki, wirusa pierścieniowej plamistości maliny, utajonego wirusa pierścieniowej plamistości truskawki i wirusa czarnej pierścieniowej plamistości pomidora nie są jednoznaczne na podstawie oceny polowej. W przypadku wątpliwości dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II, innych niż wirus mozaiki gęsiówki, wirus pierścieniowej plamistości maliny, utajony wirus pierścieniowej plamistości truskawki i wirus czarnej pierścieniowej plamistości pomidora. Miejsce wytwarzania W przypadku dodatniego wyniku oceny laboratoryjnej materiału szkółkarskiego CAC wykazującego objawy wirusa mozaiki gęsiówki, wirusa pierścieniowej plamistości maliny, utajonego wirusa pierścieniowej plamistości truskawki lub wirusa czarnej pierścieniowej plamistości pomidora, ten materiał szkółkarski usuwa się i natychmiast niszczy.
 15.
 Borówka (Vaccinium L.) Kategoria elitarny w stopniu przedbazowy Ocena polowa Oceny polowej dokonuje się dwa razy w roku. Pobieranie prób i ocena laboratoryjna Z każdej przedbazowej rośliny matecznej pięć lat po jej dopuszczeniu jako przedbazowej rośliny matecznej, a następnie co pięć lat, dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli II, a w przypadku wątpliwości – na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabeli I. Kategoria elitarny w stopniu bazowy Ocena polowa Oceny polowej dokonuje się dwa razy w roku. Pobieranie prób i ocena laboratoryjna W przypadku wątpliwości dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II. Miejsce wytwarzania W miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie zaobserwowano objawów Agrobacterium tumefa-ciens. Materiał szkółkarski kategorii elitarny w stopniu bazowy:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Diaporthe vaccinii, lub
 2)
-w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Diaporthe vaccinii.
-Odsetek materiału szkółkarskiego kategorii elitarny w stopniu bazowy w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazującego objawy każdego z następujących RNQP nie może przekraczać:
+w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Diaporthe vaccinii. Odsetek materiału szkółkarskiego kategorii elitarny w stopniu bazowy w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazującego objawy każdego z następujących RNQP nie może przekraczać:
 1)
 0,1% – w przypadku Godronia cassandrae (anamorfa Topospora myrtilli),
 2)
-0,5% – w przypadku Exobasidium vaccinii
-aten materiał szkółkarski oraz rośliny żywicielskie znajdujące się w sąsiedztwie tego materiału zostały usunięte i zniszczone. Kategorie kwalifikowany i materiał szkółkarski CAC Ocena polowa Oceny polowej dokonuje się raz w roku. Pobieranie prób i ocena laboratoryjna W przypadku wątpliwości dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II. Kategoria kwalifikowany Miejsce wytwarzania Materiał szkółkarski kategorii kwalifikowany:
+0,5% – w przypadku Exobasidium vaccinii – aten materiał szkółkarski oraz rośliny żywicielskie znajdujące się w sąsiedztwie tego materiału zostały usunięte i zniszczone. Kategorie kwalifikowany i materiał szkółkarski CAC Ocena polowa Oceny polowej dokonuje się raz w roku. Pobieranie prób i ocena laboratoryjna W przypadku wątpliwości dokonuje się pobrania prób i oceny laboratoryjnej na obecność RNQP wymienionych w załączniku nr 2 do rozporządzenia w tabelach I i II. Kategoria kwalifikowany Miejsce wytwarzania Materiał szkółkarski kategorii kwalifikowany:
 1)
 jest wytwarzany na obszarach, o których wiadomo, że są wolne od Diaporthe vaccinii, lub
 2)
-w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Diaporthe vaccinii.
-Odsetek materiału szkółkarskiego kategorii kwalifikowany w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazującego objawy każdego z następujących RNQP nie może przekraczać:
+w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym nie wykazywał objawów Diaporthe vaccinii. Odsetek materiału szkółkarskiego kategorii kwalifikowany w miejscu wytwarzania w ostatnim pełnym sezonie wegetacyjnym wykazującego objawy każdego z następujących RNQP nie może przekraczać:
 1)
 0,5% – w przypadku Agrobacterium tumefaciens oraz Godronia cassandrae (anamorfa Topospora myrtilli),
 2)
-1% – w przypadku Exobasidium vaccinii
-a ten materiał szkółkarski oraz rośliny żywicielskie znajdujące się w sąsiedztwie tego materiału zostały usunięte i zniszczone.
+1% – w przypadku Exobasidium vaccinii – a ten materiał szkółkarski oraz rośliny żywicielskie znajdujące się w sąsiedztwie tego materiału zostały usunięte i zniszczone.
 

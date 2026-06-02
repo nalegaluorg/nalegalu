@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 29 sierpnia 2017 r. w sprawie szczegółowego trybu przyznawania i rozliczania dotacji podmiotowej z budżetu państwa dla Polskiej Agencji Prasowej Spółka Akcyjna
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 29 sierpnia 2017 r. w sprawie szczegółowego trybu przyznawania i rozliczania dotacji podmiotowej z budżetu państwa dla Polskiej Agencji Prasowej Spółka Akcyjna Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-29 |
 | Data wydania | 2017-09-08 |
-| Wejście w życie | 2017-09-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001718) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1718/text.pdf) |
 
@@ -37,7 +36,7 @@ Spółce – rozumie się przez to Polską Agencję Prasową Spółka Akcyjna;
 2)
 ministrze – rozumie się przez to ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego;
 3)
-dotacji – rozumie się przez to dotację podmiotową z budżetu państwa, o której mowa w art. 131 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.);
+dotacji – rozumie się przez to dotację podmiotową z budżetu państwa, o której mowa w art. 131 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089, 1475, 1529 i 1537.);
 4)
 ustawie – rozumie się przez to ustawę z dnia 31 lipca 1997 r. o Polskiej Agencji Prasowej.
 § 3.
@@ -94,6 +93,5 @@ Do rozliczenia dotacji udzielonych przed dniem wejścia w życie niniejszego roz
 § 10.
 Traci moc rozporządzenie Ministra Skarbu Państwa z dnia 29 czerwca 2007 r. w sprawie szczegółowego trybu przyznawania i rozliczania dotacji podmiotowej z budżetu państwa dla Polskiej Agencji Prasowej Spółka Akcyjna (Dz. U. poz. 971 oraz z 2011 r. poz. 1622).
 § 11.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089, 1475, 1529 i 1537.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089, 1475, 1529 i 1537.
 

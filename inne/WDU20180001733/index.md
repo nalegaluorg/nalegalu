@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 24 sierpnia 2018 r. w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe funkcjonariusza Służby Ochrony Państwa
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 24 sierpnia 2018 r. w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe funkcjonariusza Służby Ochrony Państwa Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-08-24 |
 | Data wydania | 2018-09-07 |
-| Wejście w życie | 2018-09-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001733) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1733/text.pdf) |
 
@@ -32,7 +31,7 @@ Na podstawie art. 147 ust. 9 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony
 Rozporządzenie określa tryb, terminy oraz jednostki właściwe do przekazywania do Zakładu Ubezpieczeń Społecznych, zwanego dalej „ZUS”, składek na ubezpieczenia emerytalne i rentowe, zwanych dalej „składkami”, od uposażenia wypłacanego funkcjonariuszowi Służby Ochrony Państwa, zwanemu dalej „funkcjonariuszem”, po dniu 31 grudnia 1998 r., do dnia zwolnienia ze służby, od którego nie odprowadzono tych składek.
 § 2.
 1.
-Składki przekazuje się na wskazany przez ZUS rachunek bankowy, przy użyciu bankowych dokumentów płatniczych określonych w art. 47 ust. 4a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778, z późn. zm.).
+Składki przekazuje się na wskazany przez ZUS rachunek bankowy, przy użyciu bankowych dokumentów płatniczych określonych w art. 47 ust. 4a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544, 1577, 1613, 1629 i 1669.).
 2.
 Składki rozliczone w deklaracjach rozliczeniowych i imiennych raportach miesięcznych określonych w ustawie, o której mowa w ust. 1, z uwzględnieniem całego okresu służby funkcjonariusza, przekazuje się do ZUS:
 1)
@@ -55,6 +54,5 @@ Jednocześnie z przekazaniem składek przekazuje się do ZUS dokumenty, o który
 § 4.
 Za okres służby w Służbie Ochrony Państwa składki przekazuje do ZUS komórka organizacyjna Służby Ochrony Państwa właściwa w sprawach finansowych.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544, 1577, 1613, 1629 i 1669. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 29 grudnia 2003 r. w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe funkcjonariusza Biura Ochrony Rządu (Dz. U. poz. 2337), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 29 grudnia 2003 r. w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe funkcjonariusza Biura Ochrony Rządu (Dz. U. poz. 2337), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544, 1577, 1613, 1629 i 1669. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 29 grudnia 2003 r. w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe funkcjonariusza Biura Ochrony Rządu (Dz. U. poz. 2337), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669).
 

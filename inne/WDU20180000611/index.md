@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 20 marca 2018 r. w sprawie wysokości wskaźników zwiększających kwoty dotacji celowej na wyposażenie szkół podstawowych w podręczniki, materiały edukacyjne i materiały ćwiczeniowe dla uczniów niepełnosprawnych
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 20 marca 2018 r. w sprawie wysokości wskaźników zwiększających kwoty dotacji celowej na wyposażenie szkół podstawowych w podręczniki, materiały edukacyjne i materiały ćwiczeniowe dla uczniów niepełnosprawnych Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-20 |
 | Data wydania | 2018-03-23 |
-| Wejście w życie | 2018-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000611) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/611/text.pdf) |
 
@@ -135,6 +134,5 @@ e)
 3)
 kwoty dotacji celowej, o których mowa w art. 55 ust. 5 pkt 2 i 4 ustawy, wynosi 2,5 – w przypadku uczniów z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym posiadających orzeczenie o potrzebie kształcenia specjalnego, którzy korzystali z podręczników lub materiałów edukacyjnych, dostosowanych do potrzeb edukacyjnych i możliwości psychofizycznych tych uczniów.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2018 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 16 marca 2017 r. w sprawie wysokości wskaźników zwiększających kwoty dotacji celowej na wyposażenie szkół podstawowych w podręczniki, materiały edukacyjne i materiały ćwiczeniowe dla uczniów niepełnosprawnych (Dz. U. poz. 617), które traci moc z dniem 1 kwietnia 2018 r. zgodnie z art. 147 pkt 2 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. poz. 2203).
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 16 marca 2017 r. w sprawie wysokości wskaźników zwiększających kwoty dotacji celowej na wyposażenie szkół podstawowych w podręczniki, materiały edukacyjne i materiały ćwiczeniowe dla uczniów niepełnosprawnych (Dz. U. poz. 617), które traci moc z dniem 1 kwietnia 2018 r. zgodnie z art. 147 pkt 2 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. poz. 2203). 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 16 marca 2017 r. w sprawie wysokości wskaźników zwiększających kwoty dotacji celowej na wyposażenie szkół podstawowych w podręczniki, materiały edukacyjne i materiały ćwiczeniowe dla uczniów niepełnosprawnych (Dz. U. poz. 617), które traci moc z dniem 1 kwietnia 2018 r. zgodnie z art. 147 pkt 2 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. poz. 2203).
 

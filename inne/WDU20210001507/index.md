@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 2 sierpnia 2021 r. zmieniające rozporządzenie w sprawie wyposażenia lokalu przeznaczonego do wykonywania działalności kantorowej oraz sposobu prowadzenia ewidencji i wydawania dowodów kupna i sprzedaży wartości dewizowych
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 2 sierpnia 2021 r. zmieniające rozporządzenie w sprawie wyposażenia lokalu przeznaczonego do wykonywania działalności kantorowej oraz sposobu prowadzenia ewidencji i wydawania dowodów kupna i sprzedaży wartości dewizowych Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-02 |
 | Data wydania | 2021-08-18 |
-| Wejście w życie | 2021-09-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001507) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1507/text.pdf) |
 
@@ -35,6 +34,5 @@ w pkt 2 uchyla się lit. c;
 2)
 uchyla się pkt 6.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 

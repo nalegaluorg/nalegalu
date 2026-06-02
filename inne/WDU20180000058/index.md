@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 4 stycznia 2018 r. zmieniające rozporządzenie w sprawie udzielania pomocy na dostęp mikroprzedsiębiorców, małych i średnich przedsiębiorców do finansowania w ramach regionalnych programów operacyjnych na lata 2014–2020
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 4 stycznia 2018 r. zmieniające rozporządzenie w sprawie udzielania pomocy na dostęp mikroprzedsiębiorców, małych i średnich przedsiębiorców do finansowania w ramach regionalnych programów operacyjnych na lata 2014–2020 Minister Rozwoju i Finansów kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-04 |
 | Data wydania | 2018-01-10 |
-| Wejście w życie | 2018-01-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000058) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/58/text.pdf) |
 
@@ -31,27 +30,21 @@ Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji
 § 1.
 W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 14 grudnia 2016 r. w sprawie udzielania pomocy na dostęp mikroprzedsiębiorców, małych i średnich przedsiębiorców do finansowania w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 2220) wprowadza się następujące zmiany:
 1)
-w § 6 pkt 8 otrzymuje brzmienie:
-„
+w § 6 pkt 8 otrzymuje brzmienie: „
 8)
-podmiot wdrażający instrument finansowy, który udziela pomocy w formie pożyczek lub gwarancji lub zapewnia inwestycje quasi-kapitałowe o takiej strukturze jak dług, posiada mechanizm, o którym mowa w art. 21 ust. 16 lit. a zdanie drugie rozporządzenia nr 651/2014.
-” ;
+podmiot wdrażający instrument finansowy, który udziela pomocy w formie pożyczek lub gwarancji lub zapewnia inwestycje quasi-kapitałowe o takiej strukturze jak dług, posiada mechanizm, o którym mowa w art. 21 ust. 16 lit. a zdanie drugie rozporządzenia nr 651/2014. ” ;
 2)
-w § 9 ust. 2 otrzymuje brzmienie:
-„
+w § 9 ust. 2 otrzymuje brzmienie: „
 2.
 Pomoc, o której mowa w § 1 pkt 1, w formie:
 1)
 inwestycji kapitałowej i inwestycji quasi-kapitałowej wymienialnej na kapitał własny, lub jak kapitał własny uprzywilejowany, o której mowa w art. 2 pkt 66 zdanie drugie rozporządzenia nr 651/2014 – może zostać udzielona na refinansowanie w rozumieniu art. 2 pkt 78 rozporządzenia nr 651/2014, jeżeli jest spełniony warunek, o którym mowa w art. 21 ust. 7 rozporządzenia nr 651/2014;
 2)
-pożyczki lub gwarancji lub inwestycji quasi-kapitałowej o takiej strukturze jak dług, o której mowa w art. 2 pkt 66 zdanie drugie rozporządzenia nr 651/2014 – może zostać udzielona, jeżeli jest spełniony warunek, o którym mowa w art. 21 ust. 16 lit. a zdanie pierwsze rozporządzenia nr 651/2014.
-” ;
+pożyczki lub gwarancji lub inwestycji quasi-kapitałowej o takiej strukturze jak dług, o której mowa w art. 2 pkt 66 zdanie drugie rozporządzenia nr 651/2014 – może zostać udzielona, jeżeli jest spełniony warunek, o którym mowa w art. 21 ust. 16 lit. a zdanie pierwsze rozporządzenia nr 651/2014. ” ;
 3)
-w § 10 w pkt 1 lit. a otrzymuje brzmienie:
-„
+w § 10 w pkt 1 lit. a otrzymuje brzmienie: „
 a)
-pożyczki lub inwestycji quasi-kapitałowej o takiej strukturze jak dług – art. 21 ust. 16 lit. b rozporządzenia nr 651/2014,
-” .
+pożyczki lub inwestycji quasi-kapitałowej o takiej strukturze jak dług – art. 21 ust. 16 lit. b rozporządzenia nr 651/2014, ” .
 § 2.
 1.
 Do umów zawartych przed dniem wejścia w życie niniejszego rozporządzenia, na podstawie których udzielono pomocy, stosuje się przepisy dotychczasowe.
@@ -60,6 +53,5 @@ Do wniosków o udzielenie pomocy złożonych przed dniem wejścia w życie ninie
 3.
 Wnioski, o których mowa w ust. 2, wymagające uzupełnienia w zakresie wynikającym z przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, uzupełnia się na wezwanie podmiotu udzielającego pomocy w terminie wyznaczonym przez ten podmiot, nie krótszym niż 14 dni od dnia otrzymania wezwania.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
 

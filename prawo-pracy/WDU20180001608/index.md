@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz niektórych innych ustaw
+# Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 23 maja 1991 r. o organizacjach pracodawców, ustawę z dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych, ustawę z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej, ustawę z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych, ustawę z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych, ustawę z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników, ustawę z dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych, ustawę z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych, ustawę z dnia 4 marca 2005 r. o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej, ustawę z dnia 22 lipca 2006 r. o spółdzielni europejskiej, ustawę z dnia 25 kwietnia 2008 r. o uczestnictwie pracowników w spółce powstałej w wyniku transgranicznego połączenia się spółek, ustawę z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy oraz ustawę z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-05 |
 | Data wydania | 2018-08-22 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001608) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1608/text.pdf) |
+
+Reprezentatywna organizacja związkowa
 
 **Art. 1.** W ustawie z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2015 r. poz. 1881) wprowadza się następujące zmiany:
 
@@ -64,7 +65,7 @@ source: "eli-html"
 
 - **1)** odmowa nawiązania lub rozwiązanie stosunku prawnego,
 - **2)** niekorzystne ukształtowanie wynagrodzenia za pracę zarobkową lub innych warunków zatrudnienia albo pominięcie przy awansowaniu lub przyznawaniu innych świadczeń związanych z pracą zarobkową,
-- **3)** pominięcie przy typowaniu do udziału w szkoleniach podnoszących kwalifikacje zawodowe chyba że pracodawca udowodni, że kierował się obiektywnymi powodami.
+- **3)** pominięcie przy typowaniu do udziału w szkoleniach podnoszących kwalifikacje zawodowe – chyba że pracodawca udowodni, że kierował się obiektywnymi powodami.
 
 2. W sprawach dotyczących roszczeń z tytułu naruszenia zakazu nierównego traktowania w zatrudnieniu z powodu przynależności do związku zawodowego lub pozostawania poza nim albo wykonywania funkcji związkowej do innych niż pracownicy osób wymienionych w ust. 1 stosuje się odpowiednio przepisy art. 183d i art. 183e ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
@@ -177,7 +178,7 @@ source: "eli-html"
 
 - **14)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Reprezentatywna organizacja związkowa
+#### Rozdział 3a
 
 **Art. 252.**
 
@@ -276,7 +277,7 @@ source: "eli-html"
 - **4)** planu urlopów lub regulaminu pracy,
 - **5)** okresu rozliczeniowego, o którym mowa w art. 135 § 2 i 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy,
 - **6)** wykazu prac, o którym mowa w art. 1517 § 4 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy,
-- **7)** indywidualnego rozkładu czasu pracy, o którym mowa w art. 8 ust. 2–4 ustawy z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. z 2012 r. poz. 1155, z 2013 r. poz. 567, z 2016 r. poz. 2206 oraz z 2018 r. poz. 1480) organizacje związkowe albo reprezentatywne organizacje związkowe w rozumieniu art. 253 ust. 1 lub 2, z których każda zrzesza co najmniej 5% pracowników zatrudnionych u pracodawcy, nie przedstawią wspólnie uzgodnionego stanowiska w terminie 30 dni od dnia przekazania im przez pracodawcę tego dokumentu, decyzje w sprawie jego ustalenia podejmuje pracodawca, po rozpatrzeniu odrębnych stanowisk organizacji związkowych.
+- **7)** indywidualnego rozkładu czasu pracy, o którym mowa w art. 8 ust. 2–4 ustawy z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. z 2012 r. poz. 1155, z 2013 r. poz. 567, z 2016 r. poz. 2206 oraz z 2018 r. poz. 1480) – organizacje związkowe albo reprezentatywne organizacje związkowe w rozumieniu art. 253 ust. 1 lub 2, z których każda zrzesza co najmniej 5% pracowników zatrudnionych u pracodawcy, nie przedstawią wspólnie uzgodnionego stanowiska w terminie 30 dni od dnia przekazania im przez pracodawcę tego dokumentu, decyzje w sprawie jego ustalenia podejmuje pracodawca, po rozpatrzeniu odrębnych stanowisk organizacji związkowych.
 
 7. Przepis ust. 6 stosuje się odpowiednio, jeżeli u pracodawcy działa jedna reprezentatywna zakładowa organizacja związkowa zrzeszająca co najmniej 5% pracowników zatrudnionych u pracodawcy. ” ;
 
@@ -312,7 +313,7 @@ source: "eli-html"
 1. Pracodawca bez zgody zarządu zakładowej organizacji związkowej nie może:
 
 - **1)** wypowiedzieć ani rozwiązać stosunku prawnego ze wskazanym uchwałą zarządu jego członkiem lub z inną osobą wykonującą pracę zarobkową będącą członkiem danej zakładowej organizacji związkowej, upoważnioną do reprezentowania tej organizacji wobec pracodawcy albo organu lub osoby dokonującej za pracodawcę czynności w sprawach z zakresu prawa pracy,
-- **2)** zmienić jednostronnie warunków pracy lub wynagrodzenia na niekorzyść osoby wykonującej pracę zarobkową, o której mowa w pkt 1 z wyjątkiem przypadku ogłoszenia upadłości lub likwidacji pracodawcy, a także jeżeli dopuszczają to przepisy odrębne. ” , po ust. 1 dodaje się ust. 11 -14 w brzmieniu: „
+- **2)** zmienić jednostronnie warunków pracy lub wynagrodzenia na niekorzyść osoby wykonującej pracę zarobkową, o której mowa w pkt 1 – z wyjątkiem przypadku ogłoszenia upadłości lub likwidacji pracodawcy, a także jeżeli dopuszczają to przepisy odrębne. ” , po ust. 1 dodaje się ust. 11 -14 w brzmieniu: „
     - **b)**
 
 11. Termin na wyrażenie zgody lub odmowę wyrażenia zgody przez zarząd zakładowej organizacji związkowej wynosi:
@@ -374,7 +375,7 @@ source: "eli-html"
 1. Pracodawcy objęci działaniem międzyzakładowej organizacji związkowej ponoszą koszty, w tym koszty wynagrodzeń i składek na ubezpieczenia społeczne, związane z zatrudnianiem osoby wykonującej pracę zarobkową zwolnionej:
 
 - **1)** z obowiązku świadczenia pracy na okres kadencji w zarządzie międzyzakładowej organizacji związkowej – na podstawie art. 31 ust. 1 w związku z art. 34 ust. 2,
-- **2)** od pracy zawodowej z zachowaniem prawa do wynagrodzenia – na podstawie art. 31 ust. 3 lub od pracy z zachowaniem prawa do wynagrodzenia – na podstawie art. 31 ust. 4 odpowiednio do udziału liczby członków tej organizacji zatrudnionych u danego pracodawcy w łącznej liczbie członków tej organizacji zatrudnionych u wszystkich pracodawców objętych działaniem tej organizacji – w przeliczeniu na pełny wymiar czasu pracy.
+- **2)** od pracy zawodowej z zachowaniem prawa do wynagrodzenia – na podstawie art. 31 ust. 3 lub od pracy z zachowaniem prawa do wynagrodzenia – na podstawie art. 31 ust. 4 – odpowiednio do udziału liczby członków tej organizacji zatrudnionych u danego pracodawcy w łącznej liczbie członków tej organizacji zatrudnionych u wszystkich pracodawców objętych działaniem tej organizacji – w przeliczeniu na pełny wymiar czasu pracy.
 
 2. Zarząd międzyzakładowej organizacji związkowej przedstawia pracodawcy, który zwolni osobę lub osoby wykonujące pracę zarobkową z obowiązku świadczenia pracy, od pracy zawodowej z zachowaniem prawa do wynagrodzenia lub od pracy z zachowaniem prawa do wynagrodzenia, informacje o liczbie członków tej organizacji zatrudnionych u wszystkich pracodawców objętych działaniem tej organizacji oraz u każdego z tych pracodawców – w przeliczeniu na pełny wymiar czasu pracy, według stanu na ostatni dzień miesiąca.
 
@@ -393,15 +394,21 @@ source: "eli-html"
 
 2. Jeżeli międzyzakładowa organizacja związkowa u żadnego pracodawcy objętego jej działaniem nie zrzesza liczby osób wykonujących pracę zarobkową wymaganej do uzyskania statusu organizacji reprezentatywnej w rozumieniu art. 253 ust. 1 lub 2, liczba osób wykonujących pracę zarobkową podlegających ochronie przewidzianej w art. 32 ust. 1 nie może być większa od liczby pracodawców objętych działaniem tej organizacji, którzy zatrudniają co najmniej 10 osób wykonujących pracę zarobkową będących jej członkami. ” ;
 
-- **26)** w art. 35: w ust. 1: – pkt 3 i 4 otrzymują brzmienie: „ 3) dyskryminuje, wbrew zakazowi, o którym mowa w art. 3 ust. 1, z powodu przynależności do związku zawodowego, pozostawania poza związkiem zawodowym lub wykonywania funkcji związkowej, 4) nie dopełnia w terminie obowiązku informacyjnego, o którym mowa w art. 261 ust. 1, ” , – dodaje się pkt 5–7 w brzmieniu: „ 5) nie dopełnia w terminie obowiązku podjęcia negocjacji z zakładowymi organizacjami związkowymi, o którym mowa w art. 261 ust. 3, 6) nie dopełnia obowiązku pobrania z wynagrodzenia danej osoby składki związkowej w zadeklarowanej przez tę osobę wysokości lub obowiązku niezwłocznego przekazania kwoty pobranych składek związkowych, o których mowa w art. 331 , na rachunek bankowy lub rachunek w spółdzielczej kasie oszczędnościowo-kredytowej wskazany przez zakładową organizację związkową, 7) nie dopełnia obowiązku ponoszenia kosztów, o którym mowa w art. 341 ust. 1, w odpowiedniej proporcji wskazanej w art. 341 ust. 1 z uwzględnieniem art. 341 ust. 4 ” , dodaje się ust. 21 w brzmieniu: „
+- **26)** w art. 35: w ust. 1: pkt 3 i 4 otrzymują brzmienie: „
     - **a)**
+
+- **3)** dyskryminuje, wbrew zakazowi, o którym mowa w art. 3 ust. 1, z powodu przynależności do związku zawodowego, pozostawania poza związkiem zawodowym lub wykonywania funkcji związkowej,
+- **4)** nie dopełnia w terminie obowiązku informacyjnego, o którym mowa w art. 261 ust. 1, ” , dodaje się pkt 5–7 w brzmieniu: „
+- **5)** nie dopełnia w terminie obowiązku podjęcia negocjacji z zakładowymi organizacjami związkowymi, o którym mowa w art. 261 ust. 3,
+- **6)** nie dopełnia obowiązku pobrania z wynagrodzenia danej osoby składki związkowej w zadeklarowanej przez tę osobę wysokości lub obowiązku niezwłocznego przekazania kwoty pobranych składek związkowych, o których mowa w art. 331 , na rachunek bankowy lub rachunek w spółdzielczej kasie oszczędnościowo-kredytowej wskazany przez zakładową organizację związkową,
+- **7)** nie dopełnia obowiązku ponoszenia kosztów, o którym mowa w art. 341 ust. 1, w odpowiedniej proporcji wskazanej w art. 341 ust. 1 z uwzględnieniem art. 341 ust. 4 ” , dodaje się ust. 21 w brzmieniu: „
     - **b)**
 
 21. Kto w związku z pełnioną funkcją związkową:
 
 - **1)** wbrew obowiązkowi nie zawiadamia w terminie właściwego sądu o zmianie statutu, o której mowa w art. 16,
 - **2)** niezgodnie z przepisem art. 24 ust. 1, przeznacza dochód z działalności gospodarczej prowadzonej przez związek zawodowy na cele niesłużące realizacji zadań statutowych związku lub dzieli go pomiędzy członków związku,
-- **3)** w celu uzyskania uprawnień zakładowej organizacji związkowej, reprezentatywnej zakładowej organizacji związkowej, międzyzakładowej organizacji związkowej lub reprezentatywnej ponadzakładowej organizacji związkowej w informacji, o której mowa w art. 251 ust. 2 lub 3 lub w art. 341 ust. 2 lub we wniosku, o którym mowa w art. 252 ust. 2, podaje lub na podstawie art. 342 ust. 1 wskazuje liczbę członków organizacji związkowej wyższą niż wynikająca ze stanu faktycznego podlega grzywnie. ” ;
+- **3)** w celu uzyskania uprawnień zakładowej organizacji związkowej, reprezentatywnej zakładowej organizacji związkowej, międzyzakładowej organizacji związkowej lub reprezentatywnej ponadzakładowej organizacji związkowej w informacji, o której mowa w art. 251 ust. 2 lub 3 lub w art. 341 ust. 2 lub we wniosku, o którym mowa w art. 252 ust. 2, podaje lub na podstawie art. 342 ust. 1 wskazuje liczbę członków organizacji związkowej wyższą niż wynikająca ze stanu faktycznego – podlega grzywnie. ” ;
 - **27)** w art. 36: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -543,7 +550,7 @@ source: "eli-html"
 3. Przy ustalaniu kryterium liczebności, o którym mowa w ust. 2 pkt 1:
 
 - **1)** w przypadku pracodawcy prowadzącego działalność w zakresie jednej sekcji PKD wszystkie osoby wykonujące pracę zarobkową są przyporządkowywane do tej sekcji albo
-- **2)** w przypadku pracodawcy prowadzącego działalność w więcej niż jednej sekcji PKD wszystkie zatrudnione osoby wykonujące pracę zarobkową zostają przyporządkowane do sekcji obejmującej podstawowy rodzaj działalności danego podmiotu przy czym uwzględnia się nie więcej niż 100 000 osób wykonujących pracę zarobkową w danej sekcji PKD.
+- **2)** w przypadku pracodawcy prowadzącego działalność w więcej niż jednej sekcji PKD wszystkie zatrudnione osoby wykonujące pracę zarobkową zostają przyporządkowane do sekcji obejmującej podstawowy rodzaj działalności danego podmiotu – przy czym uwzględnia się nie więcej niż 100 000 osób wykonujących pracę zarobkową w danej sekcji PKD.
 
 4. Przy ustalaniu liczby sekcji, o których mowa w ust. 2 pkt 2, uwzględnia się sekcje obejmujące co najmniej 3000 osób wykonujących pracę zarobkową. ” ;
 
@@ -588,5 +595,5 @@ source: "eli-html"
 
 3. Organem właściwym do monitorowania wykorzystania limitów wydatków oraz wdrożenia mechanizmu korygującego jest minister właściwy do spraw pracy.
 
-**Art. 23.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 1 pkt 14 w zakresie art. 253 ust. 6, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
+**Art. 23.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 1 pkt 14 w zakresie art. 253 ust. 6, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 23 maja 1991 r. o organizacjach pracodawców, ustawę z dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych, ustawę z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej, ustawę z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych, ustawę z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych, ustawę z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników, ustawę z dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych, ustawę z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych, ustawę z dnia 4 marca 2005 r. o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej, ustawę z dnia 22 lipca 2006 r. o spółdzielni europejskiej, ustawę z dnia 25 kwietnia 2008 r. o uczestnictwie pracowników w spółce powstałej w wyniku transgranicznego połączenia się spółek, ustawę z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy oraz ustawę z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego.
 

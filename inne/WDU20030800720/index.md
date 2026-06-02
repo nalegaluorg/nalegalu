@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-03-28 |
 | Data wydania | 2003-05-10 |
-| Wejście w życie | 2003-05-25 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030800720) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/720/text.pdf) |
 
+Restrukturyzacja finansowa zobowiązań cywilnoprawnych
 1.
 Restrukturyzacja finansowa zobowiązań cywilnoprawnych polega na zawarciu przez PKP SA ugody restrukturyzacyjnej z wierzycielami wierzytelności cywilnoprawnych, z zastrzeżeniem ust. 2.
 2.
@@ -94,13 +94,11 @@ Minister właściwy do spraw transportu umarza postępowanie restrukturyzacyjne,
 Minister właściwy do spraw transportu może przed terminem zakończenia postępowania restrukturyzacyjnego, określonym w decyzji restrukturyzacyjnej, umorzyć postępowanie restrukturyzacyjne w przypadku, gdy PKP SA nie wykonuje postanowień ugody restrukturyzacyjnej.
 3.
 Pomimo umorzenia postępowania restrukturyzacyjnego ugoda wiąże strony, chyba że jej postanowienia stanowią inaczej.
-Przepisy niniejszego rozdziału stosuje się również do spółek utworzonych na podstawie art. 14, 15 i art. 19.
-” ;
+Przepisy niniejszego rozdziału stosuje się również do spółek utworzonych na podstawie art. 14, 15 i art. 19. ” ;
 19)
-po art. 34 dodaje się art. 34a w brzmieniu:
-„
+po art. 34 dodaje się art. 34a w brzmieniu: „
 
-**Art. 1.** W ustawie z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. Nr 84, poz. 948, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. Nr 84, poz. 948, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1086 i Nr 154, poz. 1802, z 2002 r. Nr 205, poz. 1730 i Nr 240, poz. 2055 oraz z 2003 r. Nr 6, poz. 63.) wprowadza się następujące zmiany:
 
 - **1)** w art. 15: po ust. 4 dodaje się ust. 4a w brzmieniu: „
     - **a)**
@@ -200,7 +198,7 @@ po art. 34 dodaje się art. 34a w brzmieniu:
 
 **Art. 24a.**
 
-1. Do restrukturyzacji finansowej zobowiązań PKP SA wobec budżetu państwa, z wyłączeniem zobowiązań określonych w art. 22, stosuje się tryb postępowania określony w art. 66 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926, z późn. zm.).
+1. Do restrukturyzacji finansowej zobowiązań PKP SA wobec budżetu państwa, z wyłączeniem zobowiązań określonych w art. 22, stosuje się tryb postępowania określony w art. 66 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452 oraz z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387.).
 
 2. Urząd skarbowy może nie wyrazić zgody na przeniesienie własności rzeczy lub praw majątkowych za zobowiązania, o których mowa w ust. 1, w przypadku gdy czynności te mogłyby spowodować szkodę dla interesu Skarbu Państwa. ” ;
 
@@ -290,9 +288,9 @@ po art. 34 dodaje się art. 34a w brzmieniu:
 
 - **18)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
 
-#### Rozdział 4a Restrukturyzacja finansowa zobowiązań cywilnoprawnych
+#### Rozdział 4a
 
-**Art. 34a.** Grunty, o których mowa w art. 34, z dniem 1 czerwca 2003 r. nie podlegają komunalizacji na podstawie przepisów ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. Nr 32, poz. 191, z późn. zm.). ” ;
+**Art. 34a.** Grunty, o których mowa w art. 34, z dniem 1 czerwca 2003 r. nie podlegają komunalizacji na podstawie przepisów ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. Nr 32, poz. 191, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 43, poz. 253 i Nr 92, poz. 541, z 1991 r. Nr 34, poz. 151, z 1992 r. Nr 6, poz. 20, z 1993 r. Nr 40, poz. 180, z 1994 r. Nr 1, poz. 3 i Nr 65, poz. 285, z 1996 r. Nr 23, poz. 102 i Nr 106, poz. 496, z 1997 r. Nr 9, poz. 43 oraz z 2002 r. Nr 153, poz. 1271.). ” ;
 
 - **20)** po art. 37 dodaje się art. 37a w brzmieniu: „
 
@@ -351,7 +349,7 @@ po art. 34 dodaje się art. 34a w brzmieniu:
 
 - **b)**
 
-**Art. 2.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2000 r. Nr 46, poz. 543, z późn. zm.) w art. 6 dodaje się pkt 1a w brzmieniu: „
+**Art. 2.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2000 r. Nr 46, poz. 543, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 129, poz. 1447 i Nr 154, poz. 1800, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 113, poz. 984, Nr 126, poz. 1070, Nr 130, poz. 1112, Nr 153, poz. 1271, Nr 200, poz. 1682 i Nr 240, poz. 2058 oraz z 2003 r. Nr 1, poz. 15 i Nr 80, poz. 717.) w art. 6 dodaje się pkt 1a w brzmieniu: „
 
 - **1a)** wydzielenie gruntów pod linie kolejowe oraz ich budowa i utrzymanie, ” .
 
@@ -363,5 +361,5 @@ po art. 34 dodaje się art. 34a w brzmieniu:
 
 **Art. 6.** Do restrukturyzacji PKP SA nie stosuje się przepisów ustawy z dnia 30 października 2002 r. o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy (Dz. U. Nr 213, poz. 1800).
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1086 i Nr 154, poz. 1802, z 2002 r. Nr 205, poz. 1730 i Nr 240, poz. 2055 oraz z 2003 r. Nr 6, poz. 63. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452 oraz z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 43, poz. 253 i Nr 92, poz. 541, z 1991 r. Nr 34, poz. 151, z 1992 r. Nr 6, poz. 20, z 1993 r. Nr 40, poz. 180, z 1994 r. Nr 1, poz. 3 i Nr 65, poz. 285, z 1996 r. Nr 23, poz. 102 i Nr 106, poz. 496, z 1997 r. Nr 9, poz. 43 oraz z 2002 r. Nr 153, poz. 1271. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 129, poz. 1447 i Nr 154, poz. 1800, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 113, poz. 984, Nr 126, poz. 1070, Nr 130, poz. 1112, Nr 153, poz. 1271, Nr 200, poz. 1682 i Nr 240, poz. 2058 oraz z 2003 r. Nr 1, poz. 15 i Nr 80, poz. 717.
 

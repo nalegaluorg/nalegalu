@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 18 kwietnia 2024 r. w sprawie adnotacji w sprawie zbiegu egzekucji oraz dokonywania doręczeń przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej pomiędzy organami egzekucyjnymi oraz pomiędzy organem egzekucyjnym a komornikiem sądowym
+# Rozporządzenie Ministra Finansówz dnia 18 kwietnia 2024 r. w sprawie adnotacji w sprawie zbiegu egzekucji oraz dokonywania doręczeń przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej pomiędzy organami egzekucyjnymi oraz pomiędzy organem egzekucyjnym a komornikiem sądowym Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-18 |
 | Data wydania | 2024-04-24 |
-| Wejście w życie | 2024-04-25 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000626) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/626/text.pdf) |
 
@@ -52,7 +51,14 @@ organu egzekucyjnego albo komornika sądowego, do którego jest przekazywana egz
 – adres siedziby,
 c)
 zobowiązanego będącego:
-– osobą fizyczną: – – imię i nazwisko, – – adres miejsca zamieszkania, – – numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (numer PESEL), NIP lub numer REGON, jeżeli zobowiązany taki numer posiada, a jeżeli numer PESEL, NIP i numer REGON nie są znane organowi egzekucyjnemu, to imię ojca i imię matki zobowiązanego oraz data jego urodzenia albo inny numer identyfikacyjny ze wskazaniem jego rodzaju, o ile jest znany organowi egzekucyjnemu, – osobą prawną lub jednostką organizacyjną niebędącą osobą prawną: – – nazwa, – – adres siedziby, – – NIP, numer REGON lub numer w Krajowym Rejestrze Sądowym, jeżeli zobowiązany taki numer posiada, albo inny numer identyfikacyjny ze wskazaniem jego rodzaju, o ile jest znany organowi egzekucyjnemu,
+osobą fizyczną:
+– – imię i nazwisko,
+– – adres miejsca zamieszkania,
+– – numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (numer PESEL), NIP lub numer REGON, jeżeli zobowiązany taki numer posiada, a jeżeli numer PESEL, NIP i numer REGON nie są znane organowi egzekucyjnemu, to imię ojca i imię matki zobowiązanego oraz data jego urodzenia albo inny numer identyfikacyjny ze wskazaniem jego rodzaju, o ile jest znany organowi egzekucyjnemu,
+osobą prawną lub jednostką organizacyjną niebędącą osobą prawną:
+– – nazwa,
+– – adres siedziby,
+– – NIP, numer REGON lub numer w Krajowym Rejestrze Sądowym, jeżeli zobowiązany taki numer posiada, albo inny numer identyfikacyjny ze wskazaniem jego rodzaju, o ile jest znany organowi egzekucyjnemu,
 d)
 zarządcy przedsiębiorstwa w spadku:
 – imię i nazwisko,
@@ -122,8 +128,7 @@ zwolnieniu wierzyciela z kosztów egzekucyjnych na mocy odrębnych przepisów,
 b)
 wstrzymaniu czynności egzekucyjnej bądź wstrzymaniu albo zawieszeniu postępowania egzekucyjnego,
 c)
-zabezpieczeniu dochodzonego obowiązku hipoteką lub zastawem
-ze wskazaniem numeru tytułu wykonawczego, którego okoliczności te dotyczą;
+zabezpieczeniu dochodzonego obowiązku hipoteką lub zastawem – ze wskazaniem numeru tytułu wykonawczego, którego okoliczności te dotyczą;
 10)
 numer tytułu wykonawczego:
 a)
@@ -142,8 +147,7 @@ Doręczeń pomiędzy:
 1)
 organami egzekucyjnymi,
 2)
-organem egzekucyjnym niebędącym naczelnikiem urzędu skarbowego a komornikiem sądowym
-dokonuje się z wykorzystaniem publicznej usługi rejestrowanego doręczenia elektronicznego w rozumieniu art. 2 pkt 8 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285, 1860 i 2699).
+organem egzekucyjnym niebędącym naczelnikiem urzędu skarbowego a komornikiem sądowym – dokonuje się z wykorzystaniem publicznej usługi rejestrowanego doręczenia elektronicznego w rozumieniu art. 2 pkt 8 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285, 1860 i 2699).
 2.
 Organ egzekucyjny będący naczelnikiem urzędu skarbowego dokonuje doręczeń komornikowi sądowemu za pośrednictwem konta w e-Urzędzie Skarbowym.
 § 5.
@@ -167,11 +171,9 @@ Do doręczeń pomiędzy:
 1)
 organami egzekucyjnymi,
 2)
-organem egzekucyjnym niebędącym naczelnikiem urzędu skarbowego a komornikiem sądowym
-dokonywanych przed dniem, w którym ostatni z podmiotów, pomiędzy którymi dokonywane jest doręczenie, stał się obowiązany do stosowania przepisów ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych w zakresie doręczania korespondencji z wykorzystaniem publicznej usługi rejestrowanego doręczenia elektronicznego, stosuje się przepisy rozporządzenia Ministra Finansów z dnia 30 lipca 2020 r. w sprawie adnotacji w sprawie zbiegu egzekucji oraz dokonywania doręczeń z użyciem środków komunikacji elektronicznej pomiędzy organami egzekucyjnymi oraz pomiędzy organem egzekucyjnym a komornikiem sądowym (Dz. U. z 2022 r. poz. 247).
+organem egzekucyjnym niebędącym naczelnikiem urzędu skarbowego a komornikiem sądowym – dokonywanych przed dniem, w którym ostatni z podmiotów, pomiędzy którymi dokonywane jest doręczenie, stał się obowiązany do stosowania przepisów ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych w zakresie doręczania korespondencji z wykorzystaniem publicznej usługi rejestrowanego doręczenia elektronicznego, stosuje się przepisy rozporządzenia Ministra Finansów z dnia 30 lipca 2020 r. w sprawie adnotacji w sprawie zbiegu egzekucji oraz dokonywania doręczeń z użyciem środków komunikacji elektronicznej pomiędzy organami egzekucyjnymi oraz pomiędzy organem egzekucyjnym a komornikiem sądowym (Dz. U. z 2022 r. poz. 247).
 2.
 W przypadku, o którym mowa w ust. 1, organ egzekucyjny przekazujący egzekucję do rzeczy albo prawa majątkowego w adnotacji w sprawie zbiegu zamiast adresu do doręczeń elektronicznych wskazuje adres elektroniczny na elektronicznej platformie usług administracji publicznej.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 16 grudnia 2022 r. w sprawie adnotacji w sprawie zbiegu egzekucji oraz dokonywania doręczeń przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej pomiędzy organami egzekucyjnymi oraz pomiędzy organem egzekucyjnym a komornikiem sądowym (Dz. U. z 2023 r. poz. 2), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ust. 1 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 556 i 1059).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 16 grudnia 2022 r. w sprawie adnotacji w sprawie zbiegu egzekucji oraz dokonywania doręczeń przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej pomiędzy organami egzekucyjnymi oraz pomiędzy organem egzekucyjnym a komornikiem sądowym (Dz. U. z 2023 r. poz. 2), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ust. 1 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 556 i 1059). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 16 grudnia 2022 r. w sprawie adnotacji w sprawie zbiegu egzekucji oraz dokonywania doręczeń przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej pomiędzy organami egzekucyjnymi oraz pomiędzy organem egzekucyjnym a komornikiem sądowym (Dz. U. z 2023 r. poz. 2), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ust. 1 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 556 i 1059).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 5 listopada 2014 r. zmieniające rozporządzenie w sprawie terminów składania wniosków o dokonanie oceny polowej materiału siewnego poszczególnych grup roślin lub gatunków roślin rolniczych i warzywnych oraz szczegółowych wymagań w zakresie wytwarzania i jakości materiału siewnego tych roślin
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 5 listopada 2014 r. zmieniające rozporządzenie w sprawie terminów składania wniosków o dokonanie oceny polowej materiału siewnego poszczególnych grup roślin lub gatunków roślin rolniczych i warzywnych oraz szczegółowych wymagań w zakresie wytwarzania i jakości materiału siewnego tych roślin Przepisy niniejszego rozporządzenia wdrażają postanowienia: 1) dyrektywy wykonawczej Komisji 2013/63/UE z dnia 17 grudnia 2013 r. zmieniającej załączniki I i II do dyrektywy Rady 2002/56/WE w odniesieniu do minimalnych warunków, które muszą spełniać sadzeniaki i partie sadzeniaków (Dz. Urz. UE L 341 z 18.12.2013, str. 52); 2) dyrektywy wykonawczej Komisji 2014/20/UE z dnia 6 lutego 2014 r. określającej unijne klasy sadzeniaków elitarnych i kwalifikowanych oraz warunki i oznaczenia stosowane dla tych klas (Dz. Urz. UE L 38 z 07.02.2014, str. 32); 3) dyrektywy wykonawczej Komisji 2014/21/UE z dnia 6 lutego 2014 r. określającej minimalne warunki i unijne klasy sadzeniaków przedbazowych (Dz. Urz. UE L 38 z 07.02.2014, str. 39).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-05 |
 | Data wydania | 2014-11-26 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001651) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1651/text.pdf) |
 
@@ -39,14 +38,16 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 18 kwietnia 2013 r. w 
 1)
 w § 17 w ust. 1:
 a)
-w pkt 1 lit. a otrzymuje brzmienie:
-„
+w pkt 1 lit. a otrzymuje brzmienie: „
 a)
-ostatniej cyfry roku zbioru albo łączenia – jeżeli jest to partia utworzona przez połączenie kilku partii,
-” ,
+ostatniej cyfry roku zbioru albo łączenia – jeżeli jest to partia utworzona przez połączenie kilku partii, ” ,
 b)
 w pkt 2:
-– lit. c oraz d otrzymują brzmienie: „ c) numeru świadectwa oceny weryfikacyjnej, po którym dopisuje się ukośnik, d) litery alfabetu odpowiadającej kolejnej partii z danej plantacji nasiennej. ” ,
+lit. c oraz d otrzymują brzmienie: „
+c)
+numeru świadectwa oceny weryfikacyjnej, po którym dopisuje się ukośnik,
+d)
+litery alfabetu odpowiadającej kolejnej partii z danej plantacji nasiennej. ” ,
 – uchyla się lit. e;
 2)
 w załączniku nr 1:
@@ -57,8 +58,7 @@ tabela 2 „Kategorie i stopnie kwalifikacji sadzeniaków ziemniaka” otrzymuje
 3)
 w załączniku nr 2:
 a)
-w części I „Wymagania dotyczące wytwarzania materiału siewnego roślin zbożowych” w ust. 5 „Izolacja przestrzenna” w lp. 2 kolumna 2 otrzymuje brzmienie:
-„
+w części I „Wymagania dotyczące wytwarzania materiału siewnego roślin zbożowych” w ust. 5 „Izolacja przestrzenna” w lp. 2 kolumna 2 otrzymuje brzmienie: „
 – dla odmian samopylnych pszenżyta odległość od innych zasiewów pszenżyta
 ” ,
 b)
@@ -74,13 +74,14 @@ bazowe mogą być rozmnażane w 2015 r. na sadzeniaki ziemniaka kategorii bazowe
 3)
 kwalifikowane mogą być rozmnażane w 2015 r. na sadzeniaki ziemniaka kategorii kwalifikowane unijnej klasy B.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
-2) Przepisy niniejszego rozporządzenia wdrażają postanowienia: 1) dyrektywy wykonawczej Komisji 2013/63/UE z dnia 17 grudnia 2013 r. zmieniającej załączniki I i II do dyrektywy Rady 2002/56/WE w odniesieniu do minimalnych warunków, które muszą spełniać sadzeniaki i partie sadzeniaków (Dz. Urz. UE L 341 z 18.12.2013, str. 52); 2) dyrektywy wykonawczej Komisji 2014/20/UE z dnia 6 lutego 2014 r. określającej unijne klasy sadzeniaków elitarnych i kwalifikowanych oraz warunki i oznaczenia stosowane dla tych klas (Dz. Urz. UE L 38 z 07.02.2014, str. 32); 3) dyrektywy wykonawczej Komisji 2014/21/UE z dnia 6 lutego 2014 r. określającej minimalne warunki i unijne klasy sadzeniaków przedbazowych (Dz. Urz. UE L 38 z 07.02.2014, str. 39).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. 2) Przepisy niniejszego rozporządzenia wdrażają postanowienia: 1) dyrektywy wykonawczej Komisji 2013/63/UE z dnia 17 grudnia 2013 r. zmieniającej załączniki I i II do dyrektywy Rady 2002/56/WE w odniesieniu do minimalnych warunków, które muszą spełniać sadzeniaki i partie sadzeniaków (Dz. Urz. UE L 341 z 18.12.2013, str. 52); 2) dyrektywy wykonawczej Komisji 2014/20/UE z dnia 6 lutego 2014 r. określającej unijne klasy sadzeniaków elitarnych i kwalifikowanych oraz warunki i oznaczenia stosowane dla tych klas (Dz. Urz. UE L 38 z 07.02.2014, str. 32); 3) dyrektywy wykonawczej Komisji 2014/21/UE z dnia 6 lutego 2014 r. określającej minimalne warunki i unijne klasy sadzeniaków przedbazowych (Dz. Urz. UE L 38 z 07.02.2014, str. 39).
 
 ## Załącznik nr 1 — – Kategorie i stopnie kwalifikacji sadzeniaków ziemniaka
 
-Tabela 2. Kategorie i stopnie kwalifikacji sadzeniaków ziemniaka
-Kategoria Oznaczenie Stopień kwalifikacji (klasa) Opis Elitarne przedbazowe unijna klasa PBTC Sadzeniaki ziemniaka, które: 1) zostały wytworzone w procesie mikrorozmnażania; 2) zostały uznane w urzędowej ocenie jako spełniające wymagania dotyczące wytwarzania, jakości i zdrowotności, określone dla unijnej klasy PBTC; 3) są przeznaczone do jednorazowego rozmnożenia. unijna klasa PB Sadzeniaki ziemniaka, które: 1) zostały wytworzone w procesie mikrorozmnażania albo z materiału matecznego otrzymanego zgodnie z działaniami zapewniającymi określone wymagania w zakresie jakości i zdrowotności; 2) zostały uznane w urzędowej ocenie jako spełniające wymagania dotyczące wytwarzania, jakości i zdrowotności, określone dla unijnej klasy PB; 3) są przeznaczone do wytwarzania sadzeniaków kategorii elitarne bazowe albo kategorii kwalifikowane. unijna klasa S Sadzeniaki ziemniaka, które: 1) zostały wytworzone z sadzeniaków kategorii elitarne zgodnie z działaniami zapewniającymi określone wymagania w zakresie jakości i zdrowotności; 2) zostały uznane w urzędowej ocenie jako spełniające wymagania dotyczące wytwarzania, jakości i zdrowotności, określone dla unijnej klasy S; 3) są przeznaczone do wytwarzania sadzeniaków kategorii elitarne albo kategorii kwalifikowane. Kwalifikowane bazowe unijna klasa SE Sadzeniaki ziemniaka, które: 1) zostały wytworzone z sadzeniaków kategorii elitarne zgodnie z działaniami zapewniającymi określone wymagania w zakresie jakości i zdrowotności; 2) zostały uznane w urzędowej ocenie jako spełniające wymagania dotyczące wytwarzania, jakości i zdrowotności, określone dla unijnej klasy SE; 3) są przeznaczone do wytwarzania sadzeniaków kategorii elitarne albo kategorii kwalifikowane. unijna klasaE Sadzeniaki ziemniaka, które: 1) zostały wytworzone z sadzeniaków kategorii elitarne zgodnie z działaniami zapewniającymi określone wymagania w zakresie jakości i zdrowotności; 2) zostały uznane w urzędowej ocenie jako spełniające wymagania dotyczące wytwarzania, jakości i zdrowotności, określone dla unijnej klasy E; 3) są przeznaczone do wytwarzania sadzeniaków kategorii kwalifikowane. unijna klasa A Sadzeniaki ziemniaka, które: 1) zostały wytworzone z sadzeniaków kategorii elitarne; 2) zostały uznane w urzędowej ocenie jako spełniające wymagania dotyczące wytwarzania, jakości i zdrowotności, określone dla unijnej klasy A; 3) są przeznaczone do wytworzenia sadzeniaków kategorii kwalifikowane lub do celów innych niż produkcja sadzeniaków. unijna klasa B Sadzeniaki ziemniaka, które: 1) zostały wytworzone bezpośrednio z sadzeniaków kategorii kwalifikowane unijnej klasy A albo kategorii elitarne; 2) zostały uznane w urzędowej ocenie jako spełniające wymagania w zakresie wytwarzania, jakości i zdrowotności, określone dla unijnej klasy B; 3) są przeznaczone wyłącznie na cele inne niż produkcja sadzeniaków ziemniaka.
+Tabela 2.
+Kategorie i stopnie kwalifikacji sadzeniaków ziemniaka
+Kategoria Oznaczenie Stopień kwalifikacji (klasa) Opis Elitarne przedbazowe unijna klasa PBTC Sadzeniaki ziemniaka, które: 1) zostały wytworzone w procesie mikrorozmnażania; 2) zostały uznane w urzędowej ocenie jako spełniające wymagania dotyczące wytwarzania, jakości i zdrowotności, określone dla unijnej klasy PBTC; 3) są przeznaczone do jednorazowego rozmnożenia. unijna klasa PB Sadzeniaki ziemniaka, które: 1) zostały wytworzone w procesie mikrorozmnażania albo z materiału matecznego otrzymanego zgodnie z działaniami zapewniającymi określone wymagania w zakresie jakości i zdrowotności; 2) zostały uznane w urzędowej ocenie jako spełniające wymagania dotyczące wytwarzania, jakości i zdrowotności, określone dla unijnej klasy PB; 3) są przeznaczone do wytwarzania sadzeniaków kategorii elitarne bazowe albo kategorii kwalifikowane. unijna klasa S Sadzeniaki ziemniaka, które: 1) zostały wytworzone z sadzeniaków kategorii elitarne zgodnie z działaniami zapewniającymi określone wymagania w zakresie jakości i zdrowotności; 2) zostały uznane w urzędowej ocenie jako spełniające wymagania dotyczące wytwarzania, jakości i zdrowotności, określone dla unijnej klasy S; 3) są przeznaczone do wytwarzania sadzeniaków kategorii elitarne albo kategorii kwalifikowane. Kwalifikowane bazowe unijna klasa SE Sadzeniaki ziemniaka, które: 1) zostały wytworzone z sadzeniaków kategorii elitarne zgodnie z działaniami zapewniającymi określone wymagania w zakresie jakości i zdrowotności; 2) zostały uznane w urzędowej ocenie jako spełniające wymagania dotyczące wytwarzania, jakości i zdrowotności, określone dla unijnej klasy SE; 3) są przeznaczone do wytwarzania sadzeniaków kategorii elitarne albo kategorii kwalifikowane. unijna klasa
+E Sadzeniaki ziemniaka, które: 1) zostały wytworzone z sadzeniaków kategorii elitarne zgodnie z działaniami zapewniającymi określone wymagania w zakresie jakości i zdrowotności; 2) zostały uznane w urzędowej ocenie jako spełniające wymagania dotyczące wytwarzania, jakości i zdrowotności, określone dla unijnej klasy E; 3) są przeznaczone do wytwarzania sadzeniaków kategorii kwalifikowane. unijna klasa A Sadzeniaki ziemniaka, które: 1) zostały wytworzone z sadzeniaków kategorii elitarne; 2) zostały uznane w urzędowej ocenie jako spełniające wymagania dotyczące wytwarzania, jakości i zdrowotności, określone dla unijnej klasy A; 3) są przeznaczone do wytworzenia sadzeniaków kategorii kwalifikowane lub do celów innych niż produkcja sadzeniaków. unijna klasa B Sadzeniaki ziemniaka, które: 1) zostały wytworzone bezpośrednio z sadzeniaków kategorii kwalifikowane unijnej klasy A albo kategorii elitarne; 2) zostały uznane w urzędowej ocenie jako spełniające wymagania w zakresie wytwarzania, jakości i zdrowotności, określone dla unijnej klasy B; 3) są przeznaczone wyłącznie na cele inne niż produkcja sadzeniaków ziemniaka.
 
 ## Załącznik nr 2 — – Szczegółowe wymagania dotyczące wytwarzania i jakości sadzeniaków ziemniaka oraz dopuszczalna wielkość partii w obrocie
 
@@ -405,8 +406,7 @@ bulwy z wadami zewnętrznymi, w tym uszkodzone lub zniekształcone, nie powinny 
 g)
 zawartość ziemi i substancji obcych nie powinna przekraczać 1,0%wagowego,
 3)
-łączny procent wagowy sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a-f, nie powinien przekraczać 6,0
-przy czym sadzeniaki ziemniaka uznaje się za należące do piątego rozmnożenia, jeżeli na etykiecie urzędowej sadzeniaków ziemniaka unijnej klasy S nie została umieszczona informacja o liczbie rozmnożeń.
+łączny procent wagowy sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a-f, nie powinien przekraczać 6,0 – przy czym sadzeniaki ziemniaka uznaje się za należące do piątego rozmnożenia, jeżeli na etykiecie urzędowej sadzeniaków ziemniaka unijnej klasy S nie została umieszczona informacja o liczbie rozmnożeń.
 20.
 Partia sadzeniaków ziemniaka kategorii bazowe unijnej klasy SE powinna spełniać następujące minimalne wymagania:
 1)
@@ -438,8 +438,7 @@ bulwy z wadami zewnętrznymi, w tym uszkodzone lub zniekształcone, nie powinny 
 g)
 zawartość ziemi i substancji obcych nie powinna przekraczać 1,0% wagowego,
 3)
-łączny procent wagowy sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a-f, nie powinien przekraczać 6,0
-przy czym sadzeniaki ziemniaka uznaje się za należące do szóstego rozmnożenia, jeżeli na etykiecie urzędowej sadzeniaków ziemniaka unijnej klasy SE nie została umieszczona informacja o liczbie rozmnożeń.
+łączny procent wagowy sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a-f, nie powinien przekraczać 6,0 – przy czym sadzeniaki ziemniaka uznaje się za należące do szóstego rozmnożenia, jeżeli na etykiecie urzędowej sadzeniaków ziemniaka unijnej klasy SE nie została umieszczona informacja o liczbie rozmnożeń.
 21.
 Partia sadzeniaków ziemniaka kategorii bazowe unijnej klasy E powinna spełniać następujące minimalne wymagania:
 1)
@@ -471,8 +470,7 @@ bulwy z wadami zewnętrznymi, w tym uszkodzone lub zniekształcone, nie powinny 
 g)
 zawartość ziemi i substancji obcych nie powinna przekraczać 1,0%wagowego,
 3)
-łączny procent sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a-f, nie powinien przekraczać 6,0
-przy czym sadzeniaki ziemniaka uznaje się za należące do siódmego rozmnożenia, jeżeli na etykiecie urzędowej sadzeniaków ziemniaka unijnej klasy E nie została umieszczona informacja o liczbie rozmnożeń.
+łączny procent sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a-f, nie powinien przekraczać 6,0 – przy czym sadzeniaki ziemniaka uznaje się za należące do siódmego rozmnożenia, jeżeli na etykiecie urzędowej sadzeniaków ziemniaka unijnej klasy E nie została umieszczona informacja o liczbie rozmnożeń.
 22.
 Partia sadzeniaków ziemniaka kategorii kwalifikowane unijnej klasy A powinna spełniać następujące minimalne wymagania:
 1)
@@ -534,6 +532,5 @@ zawartość ziemi i substancji obcych nie powinna przekraczać 2,0% wagowych;
 3)
 łączny procent sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a-f, nie powinien przekraczać 8,0.
 24.
-Szczegółowej oceny polowej, oceny weryfikacyjnej oraz oceny cech zewnętrznych sadzeniaków ziemniaka ocenianych według systemów kwalifikacji EKG/ONZ dokonuje się zgodnie z wymaganiami określonymi przez tę organizację.
-1) Wersja oryginalna „UNECE Standards S-1 concerning the marketing and comercial quality control of Seed Potatoes” dostępna na stronie internetowej: http://www.unece.org/fileadmin/DAM/trade/agr/standard/potatoes/S-1_2013_E.pdf Wersja przetłumaczona na język polski dostępna na stronie internetowej Państwowej Inspekcji Ochrony Roślin i Nasiennictwa: http://piorin.gov.pl/index.php?pid=133
+Szczegółowej oceny polowej, oceny weryfikacyjnej oraz oceny cech zewnętrznych sadzeniaków ziemniaka ocenianych według systemów kwalifikacji EKG/ONZ dokonuje się zgodnie z wymaganiami określonymi przez tę organizacjęWersja oryginalna „UNECE Standards S-1 concerning the marketing and comercial quality control of Seed Potatoes” dostępna na stronie internetowej: http://www.unece.org/fileadmin/DAM/trade/agr/standard/potatoes/S-1_2013_E.pdf Wersja przetłumaczona na język polski dostępna na stronie internetowej Państwowej Inspekcji Ochrony Roślin i Nasiennictwa: http://piorin.gov.pl/index.php?pid=133. 1) Wersja oryginalna „UNECE Standards S-1 concerning the marketing and comercial quality control of Seed Potatoes” dostępna na stronie internetowej: http://www.unece.org/fileadmin/DAM/trade/agr/standard/potatoes/S-1_2013_E.pdf Wersja przetłumaczona na język polski dostępna na stronie internetowej Państwowej Inspekcji Ochrony Roślin i Nasiennictwa: http://piorin.gov.pl/index.php?pid=133
 

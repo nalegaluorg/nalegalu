@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 listopada 2018 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz ustawy o ochronie baz danych
+# Ustawa z dnia 22 listopada 2018 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz ustawy o ochronie baz danych Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/1564 z dnia 13 września 2017 r. w sprawie niektórych dozwolonych sposobów korzystania z określonych utworów i innych przedmiotów chronionych prawem autorskim i prawami pokrewnymi z korzyścią dla osób niewidomych, osób słabowidzących lub osób z niepełnosprawnościami uniemożliwiającymi zapoznawanie się z drukiem oraz w sprawie zmiany dyrektywy 2001/29/WE w sprawie harmonizacji niektórych aspektów praw autorskich i pokrewnych w społeczeństwie informacyjnym (Dz. Urz. UE L 242/6 z 20.9.2017, str. 6).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-22 |
 | Data wydania | 2018-12-13 |
-| Wejście w życie | 2018-12-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002339) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2339/text.pdf) |
+
+Dozwolony użytek na rzecz beneficjentów
 
 **Art. 1.** W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2018 r. poz. 1191, 1293, 1669 i 2245) wprowadza się następujące zmiany:
 
@@ -46,7 +47,7 @@ source: "eli-html"
 
 - **3)** w rozdziale 3 po oddziale 3 dodaje się oddział 3a w brzmieniu: „
 
-##### Oddział 3a Dozwolony użytek na rzecz beneficjentów
+##### Oddział 3a
 
 **Art. 35a.**
 
@@ -98,5 +99,5 @@ source: "eli-html"
 
 - **4)** dla dobra osób niepełnosprawnych będących beneficjentami w rozumieniu art. 6 ust. 1 pkt 18 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych, odpowiednio na zasadach określonych w rozdziale 3 w oddziale 3a tej ustawy. ” .
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/1564 z dnia 13 września 2017 r. w sprawie niektórych dozwolonych sposobów korzystania z określonych utworów i innych przedmiotów chronionych prawem autorskim i prawami pokrewnymi z korzyścią dla osób niewidomych, osób słabowidzących lub osób z niepełnosprawnościami uniemożliwiającymi zapoznawanie się z drukiem oraz w sprawie zmiany dyrektywy 2001/29/WE w sprawie harmonizacji niektórych aspektów praw autorskich i pokrewnych w społeczeństwie informacyjnym (Dz. Urz. UE L 242/6 z 20.9.2017, str. 6).
 

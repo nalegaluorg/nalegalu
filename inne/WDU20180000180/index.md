@@ -26,19 +26,18 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000180) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/180/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 14 września 2011 r. w sprawie sporządzania i doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych Rozdział 1 – Przepisy ogólne Rozdział 2 – Warunki organizacyjno-techniczne doręczania dokumentów elektronicznych, sposób doręczania pism, reguły tworzenia elektronicznej skrzynki podawczej i formy poświadczania odbioru dokumentów elektronicznych przez adresatów Rozdział 3 – Sposób sporządzania dokumentów elektronicznych Rozdział 4 – Sposób udostępniania kopii dokumentów elektronicznych oraz warunki bezpieczeństwa udostępniania formularzy i wzorów dokumentów Rozdział 5 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 14 września 2011 r. w sprawie sporządzania i doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych
 Załącznik – Formaty danych, w jakich zapisuje się załączniki dodawane do pism
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 14 września 2011 r. w sprawie sporządzania i doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych (Dz. U. z 2015 r. poz. 971), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 5 października 2016 r. zmieniającym rozporządzenie w sprawie sporządzania i doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych (Dz. U. poz. 1625).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 5 października 2016 r. zmieniającego rozporządzenie w sprawie sporządzania i doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych (Dz. U. poz. 1625), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 5 października 2016 r. zmieniającego rozporządzenie w sprawie sporządzania i doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych (Dz. U. poz. 1625), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 7 października 2016 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 7 października 2016 r. ” .
 Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 14 września 2011 r. w sprawie sporządzania i doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych
 Na podstawie art. 16 ust. 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -73,6 +72,7 @@ wizualizacja – prezentację treści dokumentu elektronicznego w formie czyteln
 wzór nieelektroniczny – wzór określający wygląd dokumentu w postaci przeznaczonej do utrwalenia i podpisania na papierze, ustalający jego zawartość i układ graficzny;
 11)
 (uchylony).
+Warunki organizacyjno-techniczne doręczania dokumentów elektronicznych, sposób doręczania pism, reguły tworzenia elektronicznej skrzynki podawczej i formy poświadczania odbioru dokumentów elektronicznych przez adresatów
 § 3.
 1.
 Podmioty publiczne informują na swoich stronach podmiotowych Biuletynu Informacji Publicznej, zwanego dalej „BIP”, o:
@@ -100,8 +100,7 @@ W przypadku gdy w danej sprawie brak jest norm lub standardów, o których mowa 
 1)
 Internet Engineering Task Force (IETF) i publikowane w postaci Request For Comments (RFC),
 2)
-World Wide Web Consortium (W3C) i publikowane w postaci W3C Recommendation (REC)
-adekwatnie do potrzeb wynikających z realizowanych zadań oraz aktualnie stosowanych technologii informatycznych.
+World Wide Web Consortium (W3C) i publikowane w postaci W3C Recommendation (REC) – adekwatnie do potrzeb wynikających z realizowanych zadań oraz aktualnie stosowanych technologii informatycznych.
 § 5.
 System teleinformatyczny służący do obsługi doręczeń zapewnia oznaczanie doręczonych dokumentów elektronicznych danymi stwierdzającymi ważność podpisów elektronicznych w momencie ich złożenia i czas ich weryfikacji. Przy dokonywaniu oznaczeń za pomocą systemu teleinformatycznego należy:
 1)
@@ -117,7 +116,7 @@ wykorzystywać urządzenia udostępniające urzędowy koordynowany czas UTC(PL) 
 3)
 stosować techniki kryptograficzne zgodnie z udokumentowaną analizą ryzyka.
 § 6.
-System teleinformatyczny służący do obsługi doręczeń automatycznie generuje informację wskazującą, że nie wpłynęło w terminie potwierdzone urzędowe poświadczenie odbioru, o którym mowa w art. 46 § 4 pkt 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149) i w art. 152a § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.), zwane dalej „poświadczeniem doręczenia”.
+System teleinformatyczny służący do obsługi doręczeń automatycznie generuje informację wskazującą, że nie wpłynęło w terminie potwierdzone urzędowe poświadczenie odbioru, o którym mowa w art. 46 § 4 pkt 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149) i w art. 152a § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537, 2169 i 2491 oraz z 2018 r. poz. 106 i 138.), zwane dalej „poświadczeniem doręczenia”.
 § 7.
 Dane elektroniczne powiązane z dokumentem elektronicznym doręczonym podmiotowi publicznemu w sposób zapewniający rozpoznawalność późniejszych zmian dokonanych w tych danych, zwane dalej „poświadczeniem przedłożenia”, oraz potwierdzone i niepotwierdzone poświadczenia doręczeń organ administracji publicznej przechowuje przez co najmniej taki okres, przez jaki jest obowiązany przechowywać pisma, których dotyczą te poświadczenia.
 § 8.
@@ -135,8 +134,7 @@ W przypadku gdy:
 1)
 w przepisach prawa został określony wzór pisma lub wzór nieelektroniczny,
 2)
-w centralnym lub lokalnym repozytorium został umieszczony wzór pisma przeznaczony do załatwiania danej sprawy – inny niż ogólny, o którym mowa w § 19
-przesyłki złożone w sposób, o którym mowa w ust. 1, uważa się za wniesione nieskutecznie.
+w centralnym lub lokalnym repozytorium został umieszczony wzór pisma przeznaczony do załatwiania danej sprawy – inny niż ogólny, o którym mowa w § 19 – przesyłki złożone w sposób, o którym mowa w ust. 1, uważa się za wniesione nieskutecznie.
 3.
 Podmioty publiczne informują w BIP o maksymalnym rozmiarze dokumentu elektronicznego wraz z załącznikami, wyrażonym w megabajtach, możliwym do przesłania za pomocą poczty elektronicznej oraz o adresie poczty elektronicznej, jeżeli taki sposób przesyłania pism został udostępniony.
 § 10.
@@ -150,7 +148,7 @@ poświadczeniem przedłożenia;
 dokumentem w postaci papierowej sporządzonym przez adresata.
 2.
 W przypadku, o którym mowa w ust. 1 pkt 1:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 5 października 2016 r. zmieniającego rozporządzenie w sprawie sporządzania i doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych (Dz. U. poz. 1625), które weszło w życie z dniem 7 października 2016 r.)
 dokument elektroniczny powinien być podpisany kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP, albo opatrzony kwalifikowaną pieczęcią elektroniczną;
 2)
 poświadczenie przedłożenia jest przesyłane na adres poczty elektronicznej wskazany przez doręczającego lub – jeżeli adresat ma takie możliwości techniczne – zapisywane na dodatkowym informatycznym nośniku danych dostarczonym przez doręczającego wraz z nośnikiem, na którym znajduje się doręczany dokument.
@@ -210,7 +208,7 @@ oznaczenie sprawy;
 jednoznaczne oznaczenie pisma, którego dotyczy;
 5)
 w przypadku podpisania poświadczenia doręczenia – datę i czas podpisania rozumiane jako data i czas doręczenia dokumentu elektronicznego.
-§ 15.
+§ 15W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Adresat dokumentu elektronicznego potwierdza jego odebranie przez podpisanie poświadczenia doręczenia kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP, albo przez zapewnienie możliwości potwierdzenia pochodzenia oraz integralności danych zawartych w tym poświadczeniu przy użyciu technologii, o których mowa w art. 20a ust. 2 ustawy.
 § 16.
 Po opatrzeniu poświadczenia doręczenia podpisem elektronicznym system teleinformatyczny służący do obsługi doręczeń bezpośrednio po zakończeniu procesu weryfikacji podpisu elektronicznego adresata:
@@ -218,6 +216,7 @@ Po opatrzeniu poświadczenia doręczenia podpisem elektronicznym system teleinfo
 udostępnia adresatowi do pobrania doręczany dokument elektroniczny wraz z podpisanym przez niego poświadczeniem doręczenia;
 2)
 udostępnia organowi doręczającemu podpisane poświadczenie doręczenia.
+Sposób sporządzania dokumentów elektronicznych
 § 17.
 1.
 Pisma wnoszone za pomocą elektronicznej skrzynki podawczej sporządza się w formacie danych XML na podstawie wzorów dokumentów elektronicznych umieszczonych w centralnym repozytorium lub lokalnym repozytorium.
@@ -240,8 +239,7 @@ podstawę prawną – w przypadku gdy istnieje przepis prawa wymagający złoże
 c)
 tytuł wzoru – wskazujący w sposób zwięzły zakres użytkowy dokumentów, które mają być tworzone na podstawie wzoru,
 d)
-opis – wskazujący zakres stosowania wzoru
-określone w formacie danych XML.
+opis – wskazujący zakres stosowania wzoru – określone w formacie danych XML.
 § 19.
 Minister zamieszcza w centralnym repozytorium ogólny wzór elektroniczny przeznaczony do tworzenia pism w postaci elektronicznej wnoszonych za pomocą elektronicznej skrzynki podawczej lub doręczanych przez podmioty publiczne za poświadczeniem doręczenia, w przypadkach gdy łącznie spełnione są następujące warunki:
 1)
@@ -290,6 +288,7 @@ weryfikację zgodności pisma wnoszonego do tego podmiotu lub przez ten podmiot 
 weryfikację autentyczności urzędowych poświadczeń odbioru i prezentację czasu ich podpisania.
 § 24.
 Formularz elektroniczny wpisuje do każdego dokumentu elektronicznego niepowtarzalny identyfikator wzoru, na podstawie którego dokument został stworzony.
+Sposób udostępniania kopii dokumentów elektronicznych oraz warunki bezpieczeństwa udostępniania formularzy i wzorów dokumentów
 § 25.
 (uchylony).
 § 26.
@@ -301,7 +300,7 @@ Umieszczenie wzoru dokumentu elektronicznego w BIP na podstawie art. 19b ust. 3 
 § 29.
 1.
 Wzór dokumentu elektronicznego umieszcza się w centralnym repozytorium na wniosek przedstawiciela podmiotu odpowiedzialnego za wzór i jego zgodność z przepisami prawa.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Wniosek, o którym mowa w ust. 1, podpisuje się kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP.
 § 30.
 1.
@@ -314,9 +313,8 @@ Minister umieszcza w BIP odwołanie do formularza elektronicznego, o którym mow
 Jeżeli wniosek o umieszczenie wzoru dokumentu elektronicznego jest:
 1)
 zgodny ze wzorem,
-2)
-podpisany kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP
-wzór dokumentu elektronicznego umieszcza się w centralnym repozytorium, z zastrzeżeniem § 33.
+2W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.)
+podpisany kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP – wzór dokumentu elektronicznego umieszcza się w centralnym repozytorium, z zastrzeżeniem § 33.
 § 32.
 1.
 Umieszczenie wzoru dokumentu elektronicznego w centralnym repozytorium jest czynnością materialno-techniczną.
@@ -357,7 +355,7 @@ System teleinformatyczny centralnego repozytorium zapewnia integralność, auten
 § 36.
 1.
 Dokumenty elektroniczne udostępnia się z zachowaniem ich integralności, o ile zostały podpisane podpisem elektronicznym, którego ważność w chwili złożenia podpisu może być zweryfikowana przez odbiorcę.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2..
 Jeżeli nie jest możliwe sprawdzenie przez odbiorcę ważności podpisu w chwili jego złożenia, w celu udostępnienia dokumentu elektronicznego sporządza się jego kopię podpisaną kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP, albo opatrzoną kwalifikowaną pieczęcią elektroniczną, albo zapewnia się możliwość potwierdzenia pochodzenia oraz integralności tego dokumentu elektronicznego przy użyciu technologii, o których mowa w art. 20a ust. 2 ustawy.
 3.
 Kopia, o której mowa w ust. 2, składa się z treści udostępnianego dokumentu elektronicznego i elementów informacyjnych określających co najmniej sporządzającego i podpisującego kopię, datę jej sporządzenia oraz nazwę i adres podmiotu, w którym kopia została sporządzona.
@@ -373,6 +371,7 @@ Organy władzy publicznej wskazują, w zakresie swojej właściwości rzeczowej,
 System teleinformatyczny centralnego repozytorium jest chroniony przez rozwiązania techniczne i organizacyjne uniemożliwiające zniszczenie lub modyfikację informacji zawartych w centralnym repozytorium przez osoby nieuprawnione.
 § 40.
 Wzory pism i innych dokumentów elektronicznych znajdujące się w centralnym repozytorium oraz formularze elektroniczne, o których mowa w § 38, przechowuje się wieczyście.
+Przepisy przejściowe i końcowe
 § 41.
 Wzory opublikowane w lokalnych repozytoriach przed dniem wejścia w życie rozporządzenia udostępnia się w tych repozytoriach do czasu umieszczenia ich w centralnym repozytorium, nie dłużej jednak niż przez okres 5 lat od dnia wejścia w życie rozporządzenia.
 § 42.
@@ -380,17 +379,27 @@ Wzory opublikowane w lokalnych repozytoriach przed dniem wejścia w życie rozpo
 § 43.
 Do czasu wejścia w życie przepisów wydanych na podstawie art. 18 ustawy, o których mowa w § 17 ust. 2, do zapisywania załączników dodawanych do pism stosuje się formaty danych określone w załączniku do rozporządzenia.
 § 44.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 29 września 2011 r.. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537, 2169 i 2491 oraz z 2018 r. poz. 106 i 138. 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 5 października 2016 r. zmieniającego rozporządzenie w sprawie sporządzania i doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych (Dz. U. poz. 1625), które weszło w życie z dniem 7 października 2016 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 7) Rozporządzenie zostało ogłoszone w dniu 29 września 2011 r.
 Załącznik – Formaty danych, w jakich zapisuje się załączniki dodawane do pism
 Format danych Zastosowanie formatu Organizacja ustalająca format Norma .doc sformatowany tekst lub sformatowany tekst z grafiką Microsoft Corporation .docx sformatowany tekst lub sformatowany tekst z grafiką Microsoft Corporation .gif grafika rastrowa CompuServe .jpg (jpeg) grafika rastrowa Joint Photographic Experts Group ISO/IEC 10918 .ods arkusz kalkulacyjny Organization for the Advancement of Structured Information Standards (OASIS) ISO 26300 .odt sformatowany tekst lub sformatowany tekst z grafiką Organization for the Advancement of Structured Information Standards (OASIS) ISO 26300 .pdf sformatowany tekst lub sformatowany tekst z grafiką Adobe Systems Incorporated ISO/IEC 32000 .png grafika rastrowa ISO/IEC 15948 .rtf sformatowany tekst Microsoft Corporation .svg grafika wektorowa W3C .tif(.tiff) grafika rastrowa Adobe Systems Incorporated .txt niesformatowany tekst ISO/IEC 10646 .xls arkusz kalkulacyjny Microsoft Corporation .xlsx arkusz kalkulacyjny Microsoft Corporation .xml sformatowany tekst W3C
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Warunki organizacyjno-techniczne doręczania dokumentów elektronicznych, sposób doręczania pism, reguły tworzenia elektronicznej skrzynki podawczej i formy poświadczania odbioru dokumentów elektronicznych przez adresatów
+#### Rozdział 2 – Warunki organizacyjno-techniczne doręczania dokumentów elektronicznych, sposób doręczania pism, reguły tworzenia elektronicznej skrzynki podawczej i formy poświadczania odbioru dokumentów elektronicznych przez adresatów
 
-#### Rozdział 3 Sposób sporządzania dokumentów elektronicznych
+#### Rozdział 3 – Sposób sporządzania dokumentów elektronicznych
 
-#### Rozdział 4 Sposób udostępniania kopii dokumentów elektronicznych oraz warunki bezpieczeństwa udostępniania formularzy i wzorów dokumentów
+#### Rozdział 4 – Sposób udostępniania kopii dokumentów elektronicznych oraz warunki bezpieczeństwa udostępniania formularzy i wzorów dokumentów
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

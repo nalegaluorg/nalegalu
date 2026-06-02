@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-08-06 |
 | Data wydania | 2014-08-22 |
-| Wejście w życie | 2014-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001112) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1112/text.pdf) |
 
@@ -33,12 +32,11 @@ Treść rozporządzenia
 ## Załącznik nr 2 — – Drogi krajowe lub ich odcinki klasy GP i G, na których pobiera się opłatę elektroniczną
 
 Treść rozporządzenia
-Na podstawie art. 13ha ust. 6 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2013 r. poz. 260, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 13ha ust. 6 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2013 r. poz. 260, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 843, 1446 i 1543 oraz z 2014 r. poz. 659.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 22 marca 2011 r. w sprawie dróg krajowych lub ich odcinków, na których pobiera się opłatę elektroniczną, oraz wysokości stawek opłaty elektronicznej (Dz. U. z 2013 r. poz. 1263 i 1267) wprowadza się następujące zmiany:
 1)
-§ 4 otrzymuje brzmienie:
-„
+§ 4 otrzymuje brzmienie: „
 § 4.
 Początkiem albo końcem drogi krajowej lub jej odcinka, na którym pobiera się opłatę elektroniczną, jest:
 1)
@@ -46,8 +44,7 @@ punkt przecięcia osi dróg w węźle lub skrzyżowaniu albo
 2)
 punkt przecięcia osi drogi z granicą miasta na prawach powiatu lub granicą państwową, albo
 3)
-miejsce połączenia dróg o różnych numerach lub różnych klas.
-” ;
+miejsce połączenia dróg o różnych numerach lub różnych klas. ” ;
 2)
 załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 3)
@@ -59,7 +56,7 @@ autostrady A1 węzeł Kowal – węzeł Łódź Północ;
 2)
 autostrady A4 węzeł Rzeszów Północ – węzeł Rzeszów Wschód.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 września 2014 r., z wyjątkiem § 1 pkt 2 w zakresie pkt 1 lit. b i pkt 3 lit. e załącznika nr 1 do rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, które wchodzą w życie z dniem 1 października 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 września 2014 r., z wyjątkiem § 1 pkt 2 w zakresie pkt 1 lit. b i pkt 3 lit. e załącznika nr 1 do rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, które wchodzą w życie z dniem 1 października 2014 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 843, 1446 i 1543 oraz z 2014 r. poz. 659.
 
 ## Załącznik nr 1 — – Drogi krajowe lub ich odcinki klasy A i S, na których pobiera się opłatę elektroniczną
 

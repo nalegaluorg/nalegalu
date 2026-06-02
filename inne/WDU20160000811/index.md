@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwojuz dnia 3 czerwca 2016 r. w sprawie wymagań dla dźwigów i elementów bezpieczeństwa do dźwigów
+# Rozporządzenie Ministra Rozwojuz dnia 3 czerwca 2016 r. w sprawie wymagań dla dźwigów i elementów bezpieczeństwa do dźwigów Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,22 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-03 |
 | Data wydania | 2016-06-08 |
-| Wejście w życie | 2016-06-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000811) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/811/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Sposób oznakowania dźwigów i elementów bezpieczeństwa do dźwigów Rozdział 3 – Wymagania w zakresie zdrowia i bezpieczeństwa dotyczące dźwigów oraz elementów bezpieczeństwa do dźwigów Rozdział 4 – Procedury oceny zgodności dźwigów i elementów bezpieczeństwa do dźwigów Rozdział 5 – Elementy deklaracji zgodności Rozdział 6 – Przepisy końcowe
+Treść rozporządzenia
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Sposób oznakowania dźwigów i elementów bezpieczeństwa do dźwigów
+
+#### Rozdział 3 – Wymagania w zakresie zdrowia i bezpieczeństwa dotyczące dźwigów oraz elementów bezpieczeństwa do dźwigów
+
+#### Rozdział 4 – Procedury oceny zgodności dźwigów i elementów bezpieczeństwa do dźwigów
+
+#### Rozdział 5 – Elementy deklaracji zgodności
+
+#### Rozdział 6 – Przepisy końcowe
 
 ## Załącznik nr 1 — – Elementy bezpieczeństwa do dźwigów
 
@@ -35,8 +46,9 @@ Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Sposób
 ## Załącznik nr 3 — – Elementy deklaracji zgodności
 
 Treść rozporządzenia
-Na podstawie art. 12 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Parlamentu Europejskiego i Rady 2014/33/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich dotyczących dźwigów i elementów bezpieczeństwa do dźwigów (Dz. Urz. UE L 96 z dnia 29.03.2014, str. 251). Na podstawie art. 12 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542) zarządza się, co następuje:
+Rozdział 1
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -110,7 +122,8 @@ W szybie dźwigowym nie mogą się znajdować jakiekolwiek rury, przewody elektr
 Dopuszcza się możliwość prezentacji dźwigów lub elementów bezpieczeństwa do dźwigów niezgodnych z niniejszym rozporządzeniem na targach handlowych, wystawach lub pokazach, pod warunkiem że widoczne oznaczenia jasno wskazują, że nie są one zgodne i nie będą wprowadzone do obrotu ani udostępniane na rynku do chwili ich doprowadzenia do zgodności.
 2.
 Podczas prezentacji dźwigów lub elementów bezpieczeństwa do dźwigów, o której mowa w ust. 1, podejmowane są odpowiednie środki w celu zapewnienia bezpieczeństwa osób.
-Rozdział 2 Sposób oznakowania dźwigów i elementów bezpieczeństwa do dźwigów
+Rozdział 2
+Sposób oznakowania dźwigów i elementów bezpieczeństwa do dźwigów
 § 9.
 1.
 Dźwigi i elementy bezpieczeństwa do dźwigów podlegają oznakowaniu CE.
@@ -132,7 +145,8 @@ W przypadku gdy nie jest możliwe umieszczenie na elemencie bezpieczeństwa do d
 Dźwigi podlegają opatrzeniu nazwiskiem lub nazwą instalatora, zarejestrowaną nazwą handlową lub zarejestrowanym znakiem towarowym i adresem pocztowym wskazującym pojedynczy punkt, w którym można skontaktować się z instalatorem.
 2.
 Na elementach bezpieczeństwa do dźwigów należy podać nazwisko lub nazwę producenta lub importera, zarejestrowaną nazwę handlową lub zarejestrowany znak towarowy i adres pocztowy wskazujący pojedynczy punkt, w którym można skontaktować się z producentem lub importerem, a w przypadku gdy nie jest to możliwe na etykiecie, o której mowa w § 9 ust. 3.
-Rozdział 3 Wymagania w zakresie zdrowia i bezpieczeństwa dotyczące dźwigów oraz elementów bezpieczeństwa do dźwigów
+Rozdział 3
+Wymagania w zakresie zdrowia i bezpieczeństwa dotyczące dźwigów oraz elementów bezpieczeństwa do dźwigów
 § 12.
 1.
 Wymagania w zakresie zdrowia i bezpieczeństwa mają zastosowanie tylko wtedy gdy istnieje odpowiadające im ryzyko w odniesieniu do dźwigu lub elementu bezpieczeństwa do dźwigów, użytkowanych zgodnie z przeznaczeniem określonym przez instalatora lub producenta.
@@ -265,7 +279,8 @@ książkę dźwigu, w której odnotowuje się naprawy oraz w stosownych przypadk
 Dźwigi, oprócz wymagań określonych w niniejszym rozporządzeniu, muszą spełniać wymagania określone w § 10–12 rozporządzenia, o którym mowa w § 23 ust. 1.
 2.
 W przypadku wystąpienia ryzyk nieobjętych wymaganiami, o których mowa w § 12–24, do dźwigów mają zastosowanie odpowiednie wymagania dotyczące bezpieczeństwa i ochrony zdrowia określone w rozporządzeniu, o którym mowa w § 23 ust. 1.
-Rozdział 4 Procedury oceny zgodności dźwigów i elementów bezpieczeństwa do dźwigów
+Rozdział 4
+Procedury oceny zgodności dźwigów i elementów bezpieczeństwa do dźwigów
 § 26.
 Elementy bezpieczeństwa do dźwigów poddaje się jednej z poniższych procedur oceny zgodności:
 1)
@@ -273,8 +288,7 @@ wzorzec elementu bezpieczeństwa do dźwigów poddaje się badaniu typu UE dla e
 2)
 wzorzec elementu bezpieczeństwa do dźwigów poddaje się badaniu typu UE dla elementów bezpieczeństwa do dźwigów – (moduł B), zgodnie z ust. 1, oraz element bezpieczeństwa do dźwigów poddaje się ocenie zgodności z typem w oparciu o zapewnianie jakości produktu dla elementów bezpieczeństwa do dźwigów – (moduł E), zgodnie z ust. 4,
 3)
-zapewnia się zgodność elementu bezpieczeństwa do dźwigów w oparciu o pełne zapewnienie jakości dla elementów bezpieczeństwa do dźwigów – (moduł H), zgodnie z ust. 5
-o których mowa w załączniku nr 2 do rozporządzenia.
+zapewnia się zgodność elementu bezpieczeństwa do dźwigów w oparciu o pełne zapewnienie jakości dla elementów bezpieczeństwa do dźwigów – (moduł H), zgodnie z ust. 5 – o których mowa w załączniku nr 2 do rozporządzenia.
 § 27.
 1.
 Dźwigi poddaje się jednej z poniższych procedur oceny zgodności:
@@ -297,8 +311,7 @@ zgodność z typem w oparciu o zapewnienie jakości produkcji dla dźwigów – 
 d)
 zgodność w oparciu o weryfikację jednostkową dźwigów – (moduł G), zgodnie z ust. 6,
 e)
-zgodność w oparciu o pełne zapewnienie jakości z badaniem projektu dla dźwigów – (moduł H1), zgodnie z ust. 9
-o których mowa w załączniku nr 2 do rozporządzenia.
+zgodność w oparciu o pełne zapewnienie jakości z badaniem projektu dla dźwigów – (moduł H1), zgodnie z ust. 9 – o których mowa w załączniku nr 2 do rozporządzenia.
 2.
 W przypadkach, o których mowa w ust. 1 pkt 1 i 2, gdy podmiot odpowiedzialny za projekt i produkcję dźwigu oraz podmiot odpowiedzialny za instalację i testy dźwigu nie są tymi samymi, ten pierwszy dostarcza temu drugiemu wszystkie konieczne dokumenty i informacje, aby umożliwić mu zapewnienie właściwej i bezpiecznej instalacji i testów dźwigu.
 3.
@@ -310,22 +323,23 @@ W celu spełnienia wymagań w zakresie zdrowia i bezpieczeństwa określonych w 
 W przypadku wykazania zgodności elementu bezpieczeństwa do dźwigów z mającymi zastosowanie wymaganiami w zakresie zdrowia i bezpieczeństwa w wyniku przeprowadzenia odpowiedniej procedury oceny zgodności wymienionej w § 27, do elementu bezpieczeństwa do dźwigów dołączana jest deklaracja zgodności określona w pkt. 1 załącznika Nr 3 do rozporządzenia.
 2.
 W przypadku wykazania zgodności dźwigu z mającymi zastosowanie wymaganiami w zakresie zdrowia i bezpieczeństwa w wyniku przeprowadzenia odpowiedniej procedury oceny zgodności wymienionej w § 28, do dźwigu dołączana jest deklaracja zgodności określona w pkt 2 załącznika Nr 3 do rozporządzenia.
-Rozdział 5 Elementy deklaracji zgodności
+Rozdział 5
+Elementy deklaracji zgodności
 § 29.
 Deklaracja zgodności, określona w art. 11 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, musi zawierać:
 1)
 informacje wskazane w załączniku nr 3 do rozporządzenia;
 2)
 elementy określone w odpowiednich modułach opisanych w ust. 3–10 załącznika nr 2 do rozporządzenia.
-Rozdział 6 Przepisy końcowe
+Rozdział 6
+Przepisy końcowe
 § 30.
 1.
 Do dźwigów i elementów bezpieczeństwa do dźwigów wprowadzonych do obrotu przed dniem wejścia w życie przepisów niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 2.
 Certyfikaty i decyzje wydane przez jednostki notyfikowane na mocy przepisów rozporządzenia Ministra Gospodarki z dnia 8 grudnia 2005 r. w sprawie zasadniczych wymagań dla dźwigów i ich elementów bezpieczeństwa (Dz. U. poz. 2198 oraz z 2008 r. poz. 1270), zachowują ważność.
 § 31.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895). 2) Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Parlamentu Europejskiego i Rady 2014/33/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich dotyczących dźwigów i elementów bezpieczeństwa do dźwigów (Dz. Urz. UE L 96 z dnia 29.03.2014, str. 251). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 8 grudnia 2005 r. w sprawie zasadniczych wymagań dla dźwigów i ich elementów bezpieczeństwa (Dz. U. poz. 2198 oraz z 2008 r. poz. 1270), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 131 ust. 1 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 8 grudnia 2005 r. w sprawie zasadniczych wymagań dla dźwigów i ich elementów bezpieczeństwa (Dz. U. poz. 2198 oraz z 2008 r. poz. 1270), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 131 ust. 1 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542). 1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895). 2) Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Parlamentu Europejskiego i Rady 2014/33/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich dotyczących dźwigów i elementów bezpieczeństwa do dźwigów (Dz. Urz. UE L 96 z dnia 29.03.2014, str. 251). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 8 grudnia 2005 r. w sprawie zasadniczych wymagań dla dźwigów i ich elementów bezpieczeństwa (Dz. U. poz. 2198 oraz z 2008 r. poz. 1270), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 131 ust. 1 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542).
 
 ## Załącznik nr 1 — – Elementy bezpieczeństwa do dźwigów
 
@@ -416,8 +430,7 @@ Komisja, państwa członkowskie i pozostałe jednostki notyfikowane mogą, na ż
 10)
 Producent przechowuje kopię certyfikatu badania typu UE oraz załączników i aneksów do niego wraz z dokumentacją techniczną do dyspozycji organów krajowych przez 10 lat po wprowadzeniu do obrotu elementu bezpieczeństwa do dźwigów.
 11)
-Upoważniony przedstawiciel
-Upoważniony przedstawiciel producenta może złożyć wniosek, o którym mowa w ust. 1 pkt 2, oraz wypełnić obowiązki określone w ust. 1 pkt 7 i 10, o ile zostały one określone w pełnomocnictwie.
+Upoważniony przedstawiciel Upoważniony przedstawiciel producenta może złożyć wniosek, o którym mowa w ust. 1 pkt 2, oraz wypełnić obowiązki określone w ust. 1 pkt 7 i 10, o ile zostały one określone w pełnomocnictwie.
 2.
 Badanie typu UE dla dźwigów – (moduł B)
 1)
@@ -483,8 +496,7 @@ Komisja, państwa członkowskie i pozostałe jednostki notyfikowane mogą, na ż
 11)
 Instalator przechowuje kopię certyfikatu badania typu UE oraz załączników, w tym aneksów do niego, wraz z dokumentacją techniczną do dyspozycji organów krajowych przez okres 10 lat po wprowadzeniu dźwigu do obrotu.
 12)
-Upoważniony przedstawiciel
-Upoważniony przedstawiciel instalatora może złożyć wniosek, o którym mowa w ust. 2 pkt 2, oraz wypełniać obowiązki określone w ust. 2 pkt 8 i 11, o ile zostały one określone w pełnomocnictwie.
+Upoważniony przedstawiciel Upoważniony przedstawiciel instalatora może złożyć wniosek, o którym mowa w ust. 2 pkt 2, oraz wypełniać obowiązki określone w ust. 2 pkt 8 i 11, o ile zostały one określone w pełnomocnictwie.
 3.
 Kontrola końcowa dla dźwigów
 1)
@@ -525,8 +537,7 @@ Instalator sporządza pisemną deklarację zgodności dla każdego dźwigu i prz
 6)
 Komisja i państwa członkowskie mogą, na żądanie, otrzymać kopie certyfikatów kontroli końcowej.
 7)
-Upoważniony przedstawiciel
-Obowiązki instalatora określone w ust. 3 pkt 3 lit. a i ust. 3 pkt 5 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie.
+Upoważniony przedstawiciel Obowiązki instalatora określone w ust. 3 pkt 3 lit. a i ust. 3 pkt 5 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie.
 4.
 Zgodność z typem w oparciu o zapewnienie jakości produktu dla elementów bezpieczeństwa do dźwigów – (moduł E)
 1)
@@ -536,8 +547,7 @@ Obowiązki producenta Producent stosuje zatwierdzony system jakości w odniesien
 3)
 System jakości
 a)
-Producent składa w wybranej przez siebie jednej jednostce notyfikowanej wniosek o przeprowadzenie oceny jego systemu jakości w odniesieniu do danych elementów bezpieczeństwa do dźwigów.
-Wniosek zawiera:
+Producent składa w wybranej przez siebie jednej jednostce notyfikowanej wniosek o przeprowadzenie oceny jego systemu jakości w odniesieniu do danych elementów bezpieczeństwa do dźwigów. Wniosek zawiera:
 – nazwę i adres producenta, a także – jeżeli wniosek jest składany przez upoważnionego przedstawiciela – jego nazwę i adres,
 – pisemną deklarację, że taki sam wniosek nie został złożony w żadnej innej jednostce notyfikowanej,
 – adres pomieszczeń, w których przeprowadzane są kontrola końcowa oraz testy elementów bezpieczeństwa do dźwigów,
@@ -545,21 +555,18 @@ Wniosek zawiera:
 – dokumentację dotyczącą systemu jakości,
 – dokumentację techniczną zatwierdzonego elementu bezpieczeństwa do dźwigów i kopię certyfikatu lub certyfikatów badania typu UE.
 b)
-W ramach systemu jakości każdy element bezpieczeństwa do dźwigów podlega kontroli oraz przeprowadza się odpowiednie testy określone w odpowiednich normach zharmonizowanych, lub testy równoważne w celu zapewnienia jej zgodności z warunkami, o których mowa w ust. 4 pkt 1. Wszystkie elementy, wymagania i przepisy przyjęte przez producenta dokumentuje się w systematyczny i uporządkowany sposób w formie spisanej polityki, procedur i instrukcji. Dokumentacja systemu jakości umożliwia spójną interpretację programów, planów, instrukcji i zapisów dotyczących jakości.
-W szczególności zawiera ona odpowiedni opis:
+W ramach systemu jakości każdy element bezpieczeństwa do dźwigów podlega kontroli oraz przeprowadza się odpowiednie testy określone w odpowiednich normach zharmonizowanych, lub testy równoważne w celu zapewnienia jej zgodności z warunkami, o których mowa w ust. 4 pkt 1. Wszystkie elementy, wymagania i przepisy przyjęte przez producenta dokumentuje się w systematyczny i uporządkowany sposób w formie spisanej polityki, procedur i instrukcji. Dokumentacja systemu jakości umożliwia spójną interpretację programów, planów, instrukcji i zapisów dotyczących jakości. W szczególności zawiera ona odpowiedni opis:
 – celów jakości,
 – struktury organizacyjnej, obowiązków i uprawnień kierownictwa w odniesieniu do jakości produktu,
 – badań i testów, które będą przeprowadzane po zakończeniu procesu wytwarzania,
 – środków monitorowania skuteczności funkcjonowania systemu jakości,
 – zapisów dotyczących jakości, takich jak sprawozdania z inspekcji, dane uzyskane podczas testów, dane dotyczące wzorcowania, dane dotyczące kwalifikacji odpowiednich pracowników, itp.
 c)
-Jednostka notyfikowana ocenia system jakości w celu stwierdzenia, czy spełnia on wymagania, o których mowa w ust. 4 pkt 3 lit. b. Domniemywa ona zgodność z tymi wymaganiami w odniesieniu do elementów systemu jakości zgodnych z odpowiednimi specyfikacjami odpowiedniej normy zharmonizowanej.
-Oprócz doświadczenia w zakresie systemów zarządzania jakością zespół audytowy ma co najmniej jednego członka posiadającego doświadczenie z zakresu oceny w dziedzinie technologii danego dźwigu, a także znajomość wymagań w zakresie zdrowia i bezpieczeństwa określonych w rozporządzeniu. Audyt obejmuje wizytę oceniającą w zakładzie producenta. Zespół audytowy dokonuje przeglądu dokumentacji technicznej, o której mowa w ust. 4 pkt 3 lit. a tiret 6, w celu weryfikacji zdolności producenta do zidentyfikowania odpowiednich wymagań rozporządzenia oraz do przeprowadzenia koniecznych badań zapewniających zgodność elementów bezpieczeństwa do dźwigów z tymi wymaganiami. O decyzji powiadamia się producenta. Powiadomienie zawiera wnioski z audytu oraz uzasadnioną decyzję dotyczącą dokonanej oceny.
+Jednostka notyfikowana ocenia system jakości w celu stwierdzenia, czy spełnia on wymagania, o których mowa w ust. 4 pkt 3 lit. b. Domniemywa ona zgodność z tymi wymaganiami w odniesieniu do elementów systemu jakości zgodnych z odpowiednimi specyfikacjami odpowiedniej normy zharmonizowanej. Oprócz doświadczenia w zakresie systemów zarządzania jakością zespół audytowy ma co najmniej jednego członka posiadającego doświadczenie z zakresu oceny w dziedzinie technologii danego dźwigu, a także znajomość wymagań w zakresie zdrowia i bezpieczeństwa określonych w rozporządzeniu. Audyt obejmuje wizytę oceniającą w zakładzie producenta. Zespół audytowy dokonuje przeglądu dokumentacji technicznej, o której mowa w ust. 4 pkt 3 lit. a tiret 6, w celu weryfikacji zdolności producenta do zidentyfikowania odpowiednich wymagań rozporządzenia oraz do przeprowadzenia koniecznych badań zapewniających zgodność elementów bezpieczeństwa do dźwigów z tymi wymaganiami. O decyzji powiadamia się producenta. Powiadomienie zawiera wnioski z audytu oraz uzasadnioną decyzję dotyczącą dokonanej oceny.
 d)
 Producent zobowiązuje się do wypełniania obowiązków wynikających z tak zatwierdzonego systemu jakości oraz utrzymywania go w taki sposób, aby pozostawał adekwatny i skuteczny.
 e)
-Producent lub jego upoważniony przedstawiciel informuje jednostkę notyfikowaną, która zatwierdziła system jakości, o wszelkich zamierzonych zmianach systemu jakości.
-Jednostka notyfikowana ocenia proponowane zmiany i decyduje, czy zmieniony system jakości będzie wciąż spełniać wymagania, o których mowa w ust. 4 pkt 3 lit. b, czy też konieczna jest jego ponowna ocena. Jednostka notyfikowania powiadamia producenta o swojej decyzji. Powiadomienie zawiera wnioski z badania oraz uzasadnioną decyzję dotyczącą dokonanej oceny.
+Producent lub jego upoważniony przedstawiciel informuje jednostkę notyfikowaną, która zatwierdziła system jakości, o wszelkich zamierzonych zmianach systemu jakości. Jednostka notyfikowana ocenia proponowane zmiany i decyduje, czy zmieniony system jakości będzie wciąż spełniać wymagania, o których mowa w ust. 4 pkt 3 lit. b, czy też konieczna jest jego ponowna ocena. Jednostka notyfikowania powiadamia producenta o swojej decyzji. Powiadomienie zawiera wnioski z badania oraz uzasadnioną decyzję dotyczącą dokonanej oceny.
 4)
 Nadzór, za który odpowiedzialna jest jednostka notyfikowana
 a)
@@ -572,8 +579,7 @@ Do celów oceny producent umożliwia jednostce notyfikowanej dostęp do miejsc k
 c)
 Jednostka notyfikowana przeprowadza okresowe audyty w celu upewnienia się, że producent utrzymuje i stosuje system jakości, oraz przekazuje producentowi sprawozdanie z audytu.
 d)
-Dodatkowo jednostka notyfikowana może przeprowadzać niezapowiedziane wizyty w zakładzie producenta, w których odbywają się kontrole końcowe i testowanie elementów bezpieczeństwa do dźwigów.
-Podczas takich wizyt jednostka notyfikowana może, o ile to konieczne, przeprowadzać testy produktów lub zlecać ich przeprowadzenie w celu sprawdzenia, czy system jakości funkcjonuje prawidłowo. Jednostka notyfikowana przekazuje producentowi sprawozdanie z wizyty oraz, jeżeli przeprowadzono testy, sprawozdanie z testów.
+Dodatkowo jednostka notyfikowana może przeprowadzać niezapowiedziane wizyty w zakładzie producenta, w których odbywają się kontrole końcowe i testowanie elementów bezpieczeństwa do dźwigów. Podczas takich wizyt jednostka notyfikowana może, o ile to konieczne, przeprowadzać testy produktów lub zlecać ich przeprowadzenie w celu sprawdzenia, czy system jakości funkcjonuje prawidłowo. Jednostka notyfikowana przekazuje producentowi sprawozdanie z wizyty oraz, jeżeli przeprowadzono testy, sprawozdanie z testów.
 5)
 Oznakowanie CE i deklaracja zgodności
 a)
@@ -593,8 +599,7 @@ decyzje i sprawozdania jednostki notyfikowanej, o których mowa w ust. 4 pkt 3 l
 7)
 Każda jednostka notyfikowana informuje odnośny organ notyfikujący o wydanych lub cofniętych decyzjach o zatwierdzeniu systemów jakości oraz, okresowo lub na żądanie, udostępnia odnośnemu organowi notyfikującemu wykaz decyzji o zatwierdzeniu, których wydania odmówiono, które zawieszono lub poddano innym ograniczeniom. Każda jednostka notyfikowana informuje pozostałe jednostki notyfikowane o decyzjach o zatwierdzeniu systemów jakości, których wydania odmówiła, które cofnęła lub zawiesiła, oraz, na żądanie, o decyzjach o zatwierdzeniu systemów jakości, które wydała. Na żądanie jednostka notyfikowana przekazuje Komisji i państwom członkowskim kopię wydanych decyzji o zatwierdzeniu systemu jakości.
 8)
-Upoważniony przedstawiciel
-Obowiązki producenta określone w ust. 4 pkt 3 lit. a i lit. e oraz w ust. 4 pkt 5 i 6 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie.
+Upoważniony przedstawiciel Obowiązki producenta określone w ust. 4 pkt 3 lit. a i lit. e oraz w ust. 4 pkt 5 i 6 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie.
 5.
 Zgodność z typem w oparciu o pełne zapewnienie jakości dla elementów bezpieczeństwa do dźwigów – (moduł H)
 1)
@@ -612,8 +617,7 @@ Producent składa wniosek o przeprowadzenie oceny jego systemu jakości w wybran
 – dokumentację dotyczącą systemu jakości,
 – pisemną deklarację, że taki sam wniosek nie został złożony w żadnej innej jednostce notyfikowanej.
 b)
-System jakości zapewnia zgodność elementów bezpieczeństwa do dźwigów z warunkami, o których mowa w ust. 5 pkt 1. Wszystkie elementy, wymagania i przepisy przyjęte przez producenta dokumentuje się w systematyczny i uporządkowany sposób w formie spisanej polityki, procedur i instrukcji. Dokumentacja systemu jakości umożliwia spójną interpretację programów, planów, instrukcji i zapisów dotyczących jakości.
-W szczególności zawiera ona odpowiedni opis:
+System jakości zapewnia zgodność elementów bezpieczeństwa do dźwigów z warunkami, o których mowa w ust. 5 pkt 1. Wszystkie elementy, wymagania i przepisy przyjęte przez producenta dokumentuje się w systematyczny i uporządkowany sposób w formie spisanej polityki, procedur i instrukcji. Dokumentacja systemu jakości umożliwia spójną interpretację programów, planów, instrukcji i zapisów dotyczących jakości. W szczególności zawiera ona odpowiedni opis:
 – celów jakości oraz struktury organizacyjnej, obowiązków i uprawnień kierownictwa w odniesieniu do projektu i jakości produktu,
 – specyfikacji technicznych projektu, łącznie z normami, które będą stosowane, a także, w przypadku gdy odpowiednie normy zharmonizowane nie zostaną w pełni zastosowane, opis środków, w tym innych odpowiednich specyfikacji technicznych, które zostaną przyjęte w celu zapewnienia spełnienia warunków, o których mowa w ust. 5 pkt 1,
 – technik kontroli projektu i weryfikacji projektu oraz procesów i działań systematycznych, które będą stosowane przy projektowaniu elementów bezpieczeństwa do dźwigów,
@@ -622,13 +626,11 @@ W szczególności zawiera ona odpowiedni opis:
 – zapisów dotyczących jakości, takich jak sprawozdania z inspekcji, dane uzyskane podczas testów, dane dotyczące wzorcowania, dane dotyczące kwalifikacji odpowiednich pracowników,
 – środków monitorowania, czy osiągnięto wymaganą jakość projektu i produktu, a także skuteczność działania systemu jakości.
 c)
-Jednostka notyfikowana ocenia system jakości w celu stwierdzenia, czy spełnia on wymagania, o których mowa w ust. 5 pkt 3 lit. b. Domniemywa ona zgodność z tymi wymaganiami w odniesieniu do elementów systemów jakości zgodnych z odpowiednimi specyfikacjami odpowiedniej normy zharmonizowanej.
-Oprócz doświadczenia w zakresie systemów zarządzania jakością zespół audytowy ma co najmniej jednego członka posiadającego doświadczenie z zakresu oceny w dziedzinie technologii danego dźwigu, a także znajomość wymagań w zakresie zdrowia i bezpieczeństwa określonych w rozporządzeniu. Audyt obejmuje wizytę oceniającą w zakładzie producenta. Zespół audytowy dokonuje przeglądu dokumentacji technicznej, o której mowa w ust. 5 pkt 3 lit. a tire czwarte, w celu weryfikacji zdolności producenta do zidentyfikowania mających zastosowanie wymagań w zakresie zdrowia i bezpieczeństwa określonych w rozporządzeniu oraz do przeprowadzenia koniecznych badań zapewniających zgodność elementów bezpieczeństwa do dźwigów z tymi wymaganiami. Producenta oraz w stosownych przypadkach jego upoważnionego przedstawiciela powiadamia się o decyzji. Powiadomienie zawiera wnioski z audytu oraz uzasadnioną decyzję dotyczącą oceny.
+Jednostka notyfikowana ocenia system jakości w celu stwierdzenia, czy spełnia on wymagania, o których mowa w ust. 5 pkt 3 lit. b. Domniemywa ona zgodność z tymi wymaganiami w odniesieniu do elementów systemów jakości zgodnych z odpowiednimi specyfikacjami odpowiedniej normy zharmonizowanej. Oprócz doświadczenia w zakresie systemów zarządzania jakością zespół audytowy ma co najmniej jednego członka posiadającego doświadczenie z zakresu oceny w dziedzinie technologii danego dźwigu, a także znajomość wymagań w zakresie zdrowia i bezpieczeństwa określonych w rozporządzeniu. Audyt obejmuje wizytę oceniającą w zakładzie producenta. Zespół audytowy dokonuje przeglądu dokumentacji technicznej, o której mowa w ust. 5 pkt 3 lit. a tire czwarte, w celu weryfikacji zdolności producenta do zidentyfikowania mających zastosowanie wymagań w zakresie zdrowia i bezpieczeństwa określonych w rozporządzeniu oraz do przeprowadzenia koniecznych badań zapewniających zgodność elementów bezpieczeństwa do dźwigów z tymi wymaganiami. Producenta oraz w stosownych przypadkach jego upoważnionego przedstawiciela powiadamia się o decyzji. Powiadomienie zawiera wnioski z audytu oraz uzasadnioną decyzję dotyczącą oceny.
 d)
 Producent zobowiązuje się do wypełniania obowiązków wynikających z tak zatwierdzonego systemu jakości oraz utrzymywania go w taki sposób, aby pozostawał adekwatny i skuteczny.
 e)
-Producent informuje jednostkę notyfikowaną, która zatwierdziła system jakości, o wszelkich zamierzonych zmianach systemu jakości.
-Jednostka notyfikowana ocenia proponowane zmiany i decyduje, czy zmieniony system jakości będzie wciąż spełniać wymagania, o których mowa w ust. 5 pkt 3 lit. b, czy też konieczna jest jego ponowna ocena. Powiadamia ona producenta o swojej decyzji. Powiadomienie zawiera wnioski z oceny oraz uzasadnioną decyzję dotyczącą oceny.
+Producent informuje jednostkę notyfikowaną, która zatwierdziła system jakości, o wszelkich zamierzonych zmianach systemu jakości. Jednostka notyfikowana ocenia proponowane zmiany i decyduje, czy zmieniony system jakości będzie wciąż spełniać wymagania, o których mowa w ust. 5 pkt 3 lit. b, czy też konieczna jest jego ponowna ocena. Powiadamia ona producenta o swojej decyzji. Powiadomienie zawiera wnioski z oceny oraz uzasadnioną decyzję dotyczącą oceny.
 4)
 Nadzór, za który odpowiedzialna jest jednostka notyfikowana
 a)
@@ -662,8 +664,7 @@ decyzje i sprawozdania jednostki notyfikowanej, o których mowa w ust. 5 pkt 3 l
 7)
 Każda jednostka notyfikowana informuje odnośny organ notyfikujący o wydanych lub cofniętych decyzjach o zatwierdzeniu pełnych systemów jakości oraz, okresowo lub na żądanie, udostępnia odnośnemu organowi notyfikującemu wykaz decyzji o zatwierdzeniu, których wydania odmówiono, które zawieszono lub poddano innym ograniczeniom. Każda jednostka notyfikowana informuje pozostałe jednostki notyfikowane o decyzjach o zatwierdzeniu systemów jakości, których wydania odmówiła, które cofnęła lub zawiesiła, oraz, na żądanie, o decyzjach o zatwierdzeniu systemów jakości, które wydała. Na żądanie jednostka notyfikowana przekazuje Komisji i państwom członkowskim kopię wydanych decyzji o zatwierdzeniu systemu jakości. Jednostka notyfikowana przechowuje kopię decyzji o zatwierdzeniu, załączników i aneksów do niej, a także dokumentacji technicznej, przez 15 lat od daty ich wydania.
 8)
-Upoważniony przedstawiciel
-Obowiązki producenta określone w ust. 5 pkt 3 lit. a i lit. e oraz w pkt 5 i 6 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie.
+Upoważniony przedstawiciel Obowiązki producenta określone w ust. 5 pkt 3 lit. a i lit. e oraz w pkt 5 i 6 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie.
 6.
 Zgodność w oparciu o weryfikację jednostkową dźwigów – (moduł G)
 1)
@@ -673,8 +674,7 @@ Obowiązki instalatora
 a)
 Instalator podejmuje wszelkie niezbędne środki, aby proces produkcji i jego monitorowanie zapewniały zgodność dźwigu z mającymi zastosowanie zasadniczymi wymaganiami w zakresie zdrowia i bezpieczeństwa określonymi w rozporządzeniu.
 b)
-Instalator występuje z wnioskiem do jednej, wybranej przez siebie jednostki notyfikowanej o weryfikację jednostkową.
-Wniosek zawiera:
+Instalator występuje z wnioskiem do jednej, wybranej przez siebie jednostki notyfikowanej o weryfikację jednostkową. Wniosek zawiera:
 – nazwę i adres instalatora, a także – jeżeli wniosek jest składany przez upoważnionego przedstawiciela – jego nazwę i adres,
 – miejsce, gdzie dźwig jest zainstalowany,
 – pisemną deklarację, że taki sam wniosek nie został złożony w żadnej innej jednostce notyfikowanej,
@@ -710,8 +710,7 @@ Instalator sporządza pisemną deklarację zgodności dla każdego dźwigu i prz
 6)
 Instalator przechowuje do dyspozycji organów krajowych dokumentację techniczną i egzemplarz certyfikatu zgodności przez okres 10 lat od dnia wprowadzenia dźwigu do obrotu.
 7)
-Upoważniony przedstawiciel
-Obowiązki instalatora określone w ust. 6 pkt 2 lit. b i w ust. 6 pkt 6 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie.
+Upoważniony przedstawiciel Obowiązki instalatora określone w ust. 6 pkt 2 lit. b i w ust. 6 pkt 6 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie.
 7.
 Kontrola wyrywkowa zgodności z typem dla elementów bezpieczeństwa do dźwigów – (moduł C2)
 1)
@@ -729,8 +728,7 @@ wszelkie istotne informacje o wyprodukowanych elementach bezpieczeństwa do dźw
 d)
 adres pomieszczeń, w których można pobrać próbkę elementów bezpieczeństwa do dźwigów.
 4)
-Jednostka notyfikowana przeprowadza lub zleca przeprowadzenie kontroli elementów bezpieczeństwa do dźwigów w losowych odstępach czasu. Odpowiednia próbka gotowych elementów bezpieczeństwa do dźwigów, pobrana w miejscu produkcji przez jednostkę notyfikowaną, zostaje zbadana oraz przeprowadza się odpowiednie testy określone w odpowiednich normach zharmonizowanych lub testy równoważne określone w innych odpowiednich specyfikacjach technicznych w celu sprawdzenia, czy elementy bezpieczeństwa do dźwigów spełniają warunki, o których mowa w ust. 7 pkt 1. W przypadku kiedy jeden element lub większa ilość elementów bezpieczeństwa do dźwigów nie jest zgodna z wymaganiami, jednostka notyfikowana podejmuje odpowiednie środki.
-Punkty brane pod uwagę przy sprawdzaniu elementów bezpieczeństwa do dźwigów zostaną określone we wzajemnym porozumieniu wszystkich jednostek notyfikowanych odpowiedzialnych za tę procedurę, przy uwzględnieniu zasadniczych właściwości elementów bezpieczeństwa do dźwigów. Jednostka notyfikowana wydaje certyfikat zgodności w odniesieniu do przeprowadzonych badań i testów. Na żądanie jednostka notyfikowana przekazuje Komisji i państwom członkowskim kopię certyfikatu zgodności z typem.
+Jednostka notyfikowana przeprowadza lub zleca przeprowadzenie kontroli elementów bezpieczeństwa do dźwigów w losowych odstępach czasu. Odpowiednia próbka gotowych elementów bezpieczeństwa do dźwigów, pobrana w miejscu produkcji przez jednostkę notyfikowaną, zostaje zbadana oraz przeprowadza się odpowiednie testy określone w odpowiednich normach zharmonizowanych lub testy równoważne określone w innych odpowiednich specyfikacjach technicznych w celu sprawdzenia, czy elementy bezpieczeństwa do dźwigów spełniają warunki, o których mowa w ust. 7 pkt 1. W przypadku kiedy jeden element lub większa ilość elementów bezpieczeństwa do dźwigów nie jest zgodna z wymaganiami, jednostka notyfikowana podejmuje odpowiednie środki. Punkty brane pod uwagę przy sprawdzaniu elementów bezpieczeństwa do dźwigów zostaną określone we wzajemnym porozumieniu wszystkich jednostek notyfikowanych odpowiedzialnych za tę procedurę, przy uwzględnieniu zasadniczych właściwości elementów bezpieczeństwa do dźwigów. Jednostka notyfikowana wydaje certyfikat zgodności w odniesieniu do przeprowadzonych badań i testów. Na żądanie jednostka notyfikowana przekazuje Komisji i państwom członkowskim kopię certyfikatu zgodności z typem.
 5)
 Oznakowanie CE i deklaracja zgodności
 a)
@@ -738,42 +736,36 @@ Producent umieszcza oznakowanie CE oraz, na odpowiedzialność jednostki notyfik
 b)
 Producent sporządza pisemną deklarację zgodności dla każdego elementu bezpieczeństwa do dźwigów i przechowuje jej kopię do dyspozycji organów krajowych przez okres 10 lat po wprowadzeniu tego elementu bezpieczeństwa do dźwigów do obrotu. Deklaracja zgodności identyfikuje element bezpieczeństwa do dźwigów, dla którego została sporządzona.
 6)
-Upoważniony przedstawiciel
-Obowiązki producenta mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie. Upoważniony przedstawiciel nie może wykonywać obowiązków producenta określonych w ust. 7 pkt 2.
+Upoważniony przedstawiciel Obowiązki producenta mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie. Upoważniony przedstawiciel nie może wykonywać obowiązków producenta określonych w ust. 7 pkt 2.
 8.
 Zgodność z typem w oparciu o zapewnienie jakości produktu dla dźwigów – (moduł E)
 1)
 Zgodność z typem w oparciu o zapewnienie jakości produktu to ta część procedury oceny zgodności, w której jednostka notyfikowana dokonuje oceny systemu jakości instalatora w celu zapewnienia, aby dźwigi były zgodne z zatwierdzonym typem opisanym w certyfikacie badania typu UE lub z dźwigiem zaprojektowanym i wyprodukowanym w ramach pełnego systemu jakości zatwierdzonego zgodnie z ust. 9 oraz spełniały mające zastosowanie zasadnicze wymagania w zakresie zdrowia i bezpieczeństwa określone w rozporządzeniu.
 2)
-Obowiązki instalatora
-Instalator stosuje zatwierdzony system jakości w odniesieniu do kontroli końcowej i testowania dźwigu zgodnie z ust. 8 pkt 3, a także podlega nadzorowi zgodnie z ust. 8 pkt 4.
+Obowiązki instalatora Instalator stosuje zatwierdzony system jakości w odniesieniu do kontroli końcowej i testowania dźwigu zgodnie z ust. 8 pkt 3, a także podlega nadzorowi zgodnie z ust. 8 pkt 4.
 3)
 System jakości
 a)
-Instalator składa wniosek o przeprowadzenie oceny jego systemu jakości w wybranej przez siebie jednej jednostce notyfikowanej.
-Wniosek zawiera:
+Instalator składa wniosek o przeprowadzenie oceny jego systemu jakości w wybranej przez siebie jednej jednostce notyfikowanej. Wniosek zawiera:
 – nazwę i adres instalatora, a także – jeśli wniosek jest składany przez upoważnionego przedstawiciela – jego nazwę i adres,
 – wszystkie istotne informacje dotyczące dźwigów, które mają być instalowane,
 – dokumentację dotyczącą systemu jakości,
 – dokumentację techniczną dźwigów, które mają być instalowane,
 – pisemną deklarację, że taki sam wniosek nie został złożony w żadnej innej jednostce notyfikowanej.
 b)
-W ramach systemu jakości każdy dźwig podlega badaniu oraz przeprowadza się odpowiednie testy określone w normach zharmonizowanych, lub testy równoważne w celu zapewnienia zgodności dźwigu z mającymi zastosowanie zasadniczymi wymaganiami w zakresie zdrowia i bezpieczeństwa określonymi w rozporządzeniu.
-Wszystkie elementy, wymagania i przepisy przyjęte przez instalatora dokumentuje się w systematyczny i uporządkowany sposób w formie spisanej polityki, procedur i instrukcji. Dokumentacja systemu jakości umożliwia spójną interpretację programów, planów, instrukcji i zapisów dotyczących jakości. W szczególności zawiera ona odpowiedni opis:
+W ramach systemu jakości każdy dźwig podlega badaniu oraz przeprowadza się odpowiednie testy określone w normach zharmonizowanych, lub testy równoważne w celu zapewnienia zgodności dźwigu z mającymi zastosowanie zasadniczymi wymaganiami w zakresie zdrowia i bezpieczeństwa określonymi w rozporządzeniu. Wszystkie elementy, wymagania i przepisy przyjęte przez instalatora dokumentuje się w systematyczny i uporządkowany sposób w formie spisanej polityki, procedur i instrukcji. Dokumentacja systemu jakości umożliwia spójną interpretację programów, planów, instrukcji i zapisów dotyczących jakości. W szczególności zawiera ona odpowiedni opis:
 – celów jakości,
 – struktury organizacyjnej, obowiązków i uprawnień kierownictwa w odniesieniu do jakości produktu,
 – badań i testów, które będą przeprowadzone przed wprowadzeniem do obrotu, obejmujących co najmniej testy określone w ust. 3 pkt 3 lit. c,
 – środków monitorowania skuteczności funkcjonowania systemu jakości,
 – zapisów dotyczących jakości, takich jak sprawozdania z inspekcji, dane uzyskane podczas testów, dane dotyczące wzorcowania, dane dotyczące kwalifikacji odpowiednich pracowników.
 c)
-Jednostka notyfikowana ocenia system jakości w celu stwierdzenia, czy spełnia on wymagania, o których mowa w ust. 8 pkt 3 lit. b. Domniemywa ona zgodność z tymi wymaganiami w odniesieniu do elementów systemów jakości zgodnych z odpowiednimi specyfikacjami odpowiedniej normy zharmonizowanej.
-Zespół audytujący ma co najmniej jednego członka posiadającego doświadczenie z zakresu oceny w dziedzinie technologii danego dźwigu, a także znajomość zasadniczych wymagań w zakresie zdrowia i bezpieczeństwa określonych w rozporządzeniu. Audyt obejmuje wizytę oceniającą w zakładzie instalatora dźwigu oraz wizytę w miejscu zainstalowania dźwigu. O decyzji powiadamia się instalatora. Powiadomienie zawiera wnioski z audytu oraz uzasadnioną decyzję dotyczącą oceny.
+Jednostka notyfikowana ocenia system jakości w celu stwierdzenia, czy spełnia on wymagania, o których mowa w ust. 8 pkt 3 lit. b. Domniemywa ona zgodność z tymi wymaganiami w odniesieniu do elementów systemów jakości zgodnych z odpowiednimi specyfikacjami odpowiedniej normy zharmonizowanej. Zespół audytujący ma co najmniej jednego członka posiadającego doświadczenie z zakresu oceny w dziedzinie technologii danego dźwigu, a także znajomość zasadniczych wymagań w zakresie zdrowia i bezpieczeństwa określonych w rozporządzeniu. Audyt obejmuje wizytę oceniającą w zakładzie instalatora dźwigu oraz wizytę w miejscu zainstalowania dźwigu. O decyzji powiadamia się instalatora. Powiadomienie zawiera wnioski z audytu oraz uzasadnioną decyzję dotyczącą oceny.
 d)
 Instalator zobowiązuje się do wypełniania obowiązków wynikających z tak zatwierdzonego systemu jakości oraz utrzymywania go w taki sposób, aby pozostawał adekwatny i skuteczny.
 – Instalator informuje jednostkę notyfikowaną, która zatwierdziła system jakości, o wszelkich zamierzonych zmianach systemu.
 – Jednostka notyfikowana ocenia proponowane zmiany i decyduje, czy zmieniony system jakości będzie wciąż spełniać wymagania, o których mowa w ust. 8 pkt 3 lit. b, czy też konieczna jest jego ponowna ocena.
-Instalatora oraz w stosownych przypadkach jego upoważnionego przedstawiciela powiadamia się o decyzji. Powiadomienie zawiera wnioski z oceny oraz uzasadnioną decyzję dotyczącą oceny.
-Jednostka notyfikowana umieszcza lub zapewnia umieszczenie swojego numeru identyfikacyjnego za oznakowaniem CE.
+Instalatora oraz w stosownych przypadkach jego upoważnionego przedstawiciela powiadamia się o decyzji. Powiadomienie zawiera wnioski z oceny oraz uzasadnioną decyzję dotyczącą oceny. Jednostka notyfikowana umieszcza lub zapewnia umieszczenie swojego numeru identyfikacyjnego za oznakowaniem CE.
 4)
 Nadzór, za który odpowiedzialna jest jednostka notyfikowana
 a)
@@ -786,8 +778,7 @@ Do celów oceny instalator umożliwia jednostce notyfikowanej dostęp do miejsc 
 c)
 Jednostka notyfikowana przeprowadza okresowe audyty w celu upewnienia się, że instalator utrzymuje i stosuje system jakości oraz przekazuje instalatorowi sprawozdanie z audytu.
 d)
-Jednostka notyfikowana może dodatkowo przeprowadzać niezapowiedziane wizyty w miejscu instalacji dźwigu.
-Podczas takich wizyt jednostka notyfikowana może, w razie konieczności, przeprowadzać testy produktów lub zlecać ich przeprowadzenie w celu sprawdzenia, czy system jakości oraz dźwig funkcjonują prawidłowo. Jednostka notyfikowana przekazuje instalatorowi sprawozdanie z wizyty oraz, jeżeli przeprowadzono testy, sprawozdanie z testów.
+Jednostka notyfikowana może dodatkowo przeprowadzać niezapowiedziane wizyty w miejscu instalacji dźwigu. Podczas takich wizyt jednostka notyfikowana może, w razie konieczności, przeprowadzać testy produktów lub zlecać ich przeprowadzenie w celu sprawdzenia, czy system jakości oraz dźwig funkcjonują prawidłowo. Jednostka notyfikowana przekazuje instalatorowi sprawozdanie z wizyty oraz, jeżeli przeprowadzono testy, sprawozdanie z testów.
 e)
 Przez 10 lat od wprowadzenia do obrotu ostatniego dźwigu instalator przechowuje do dyspozycji organów krajowych następujące dokumenty:
 – dokumentację, o której mowa w ust. 8 pkt 3 lit. a tire trzecie,
@@ -803,34 +794,46 @@ Instalator umieszcza oznakowanie CE w kabinie każdego dźwigu spełniającego z
 b)
 Instalator sporządza pisemną deklarację zgodności dla każdego dźwigu i przechowuje kopię deklaracji zgodności do dyspozycji organów krajowych przez okres 10 lat po wprowadzeniu dźwigu do obrotu. Kopię deklaracji zgodności udostępnia się na żądanie właściwym organom.
 8)
-Upoważniony przedstawiciel
-Obowiązki instalatora określone w ust. 8 pkt 3 lit. a w ust. 8 pkt 3 lit. d tire pierwsze i w ust. 8 pkt 5 i 7 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie.
+Upoważniony przedstawiciel Obowiązki instalatora określone w ust. 8 pkt 3 lit. a w ust. 8 pkt 3 lit. d tire pierwsze i w ust. 8 pkt 5 i 7 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie.
 9.
 Zgodność w oparciu o pełne zapewnienie jakości z badaniem projektu dla dźwigów – (moduł H1).
 1)
 Zgodność oparta na pełnym zapewnieniu jakości z badaniem projektu dla dźwigów to procedura oceny zgodności, w której jednostka notyfikowana dokonuje oceny systemu jakości instalatora oraz, w stosownych przypadkach, projektu dźwigów w celu zapewnienia, aby dźwigi spełniały mające zastosowanie zasadnicze wymagania w zakresie zdrowia i bezpieczeństwa określone w rozporządzeniu.
 2)
-Obowiązki instalatora
-Instalator stosuje zatwierdzony system jakości w odniesieniu do projektowania, produkcji, montażu, instalacji, kontroli końcowej i testowania dźwigu zgodnie z ust. 9 pkt 3, a także podlega nadzorowi zgodnie z ust. 9 pkt 4. Adekwatność projektu technicznego dźwigu jest zbadana zgodnie z ust. 9 pkt 3 lit. c.
+Obowiązki instalatora Instalator stosuje zatwierdzony system jakości w odniesieniu do projektowania, produkcji, montażu, instalacji, kontroli końcowej i testowania dźwigu zgodnie z ust. 9 pkt 3, a także podlega nadzorowi zgodnie z ust. 9 pkt 4. Adekwatność projektu technicznego dźwigu jest zbadana zgodnie z ust. 9 pkt 3 lit. c.
 3)
 System jakości
 a)
-Instalator składa wniosek o przeprowadzenie oceny jego systemu jakości w wybranej przez siebie jednej jednostce notyfikowanej.
-Wniosek zawiera:
+Instalator składa wniosek o przeprowadzenie oceny jego systemu jakości w wybranej przez siebie jednej jednostce notyfikowanej. Wniosek zawiera:
 – nazwę i adres instalatora, a także – jeśli wniosek jest składany przez upoważnionego przedstawiciela – jego nazwę i adres,
 – wszystkie istotne informacje dotyczące dźwigów, które mają zostać zainstalowane, w szczególności informacje umożliwiające zrozumienie związku między projektem i działaniem dźwigu,
 – dokumentację dotyczącą systemu jakości,
 – dokumentację techniczną opisaną w ust. 2 pkt 3,
-– pisemną deklarację, że taki sam wniosek nie został złożony w żadnej innej jednostce notyfikowanej. b) System jakości zapewnia spełnianie przez dźwigi zasadniczych wymagań w zakresie zdrowia i bezpieczeństwa określonych w rozporządzeniu. Wszystkie elementy, wymagania i przepisy przyjęte przez instalatora dokumentuje się w systematyczny i uporządkowany sposób w formie spisanej polityki, procedur i instrukcji. Dokumentacja systemu jakości umożliwia spójną interpretację programów jakości, planów, podręczników i zapisów dotyczące jakości. W szczególności zawiera ona odpowiedni opis: – celów jakości oraz struktury organizacyjnej, obowiązków i uprawnień kierownictwa w odniesieniu do projektu i jakości produktu, – specyfikacji technicznych projektu, łącznie z normami, które będą stosowane, a także, w przypadku gdy odpowiednie normy zharmonizowane nie zostaną w pełni zastosowane, opis środków, łącznie z innymi odpowiednimi specyfikacjami technicznymi, które zostaną przyjęte w celu zapewnienia spełnienia zasadniczych wymagań w zakresie zdrowia i bezpieczeństwa określonych w rozporządzeniu, – technik kontroli projektu i weryfikacji projektu, procesów oraz działań systematycznych, które będą stosowane przy projektowaniu dźwigu, – badań i testów, które będą przeprowadzone przy przyjmowaniu dostaw materiałów, części składowych i podzespołów, – odpowiednich technik, procesów i systematycznych działań w zakresie montażu, instalacji, kontroli jakości, zapewnienia jakości produkcji, które będą stosowane, – badań i testów, które będą przeprowadzone przed instalacją (kontrola warunków instalacji: szyb, maszynownia itd.), w trakcie instalacji i po niej (włączając co najmniej testy określone w ust. 3 pkt 3 lit. c, – zapisów dotyczących jakości, takich jak sprawozdania z inspekcji, dane uzyskane podczas testów, dane dotyczące wzorcowania, dane dotyczące kwalifikacji odpowiednich pracowników, – środków monitorowania, czy osiągnięto wymaganą jakość projektu i produktu, a także skuteczność działania systemu jakości. c) Badanie projektu: – jeżeli projekt nie jest całkowicie zgodny z normami zharmonizowanymi, jednostka notyfikowana ustala, czy odpowiada on zasadniczym wymaganiom w zakresie zdrowia i bezpieczeństwa określonym w rozporządzeniu, a jeśli tak, wydaje instalatorowi certyfikat badania projektu UE, określając ważność certyfikatu i podając szczegóły wymagane do identyfikacji zatwierdzonego projektu. – w przypadku gdy projekt nie spełnia mających zastosowanie zasadniczych wymagań w zakresie zdrowia i bezpieczeństwa określonych w rozporządzeniu, jednostka notyfikowana odmawia wydania certyfikatu badania projektu UE oraz informuje o tym wnioskodawcę, podając szczegółowe uzasadnienie odmowy.
+pisemną deklarację, że taki sam wniosek nie został złożony w żadnej innej jednostce notyfikowanej.
+b)
+System jakości zapewnia spełnianie przez dźwigi zasadniczych wymagań w zakresie zdrowia i bezpieczeństwa określonych w rozporządzeniu. Wszystkie elementy, wymagania i przepisy przyjęte przez instalatora dokumentuje się w systematyczny i uporządkowany sposób w formie spisanej polityki, procedur i instrukcji. Dokumentacja systemu jakości umożliwia spójną interpretację programów jakości, planów, podręczników i zapisów dotyczące jakości. W szczególności zawiera ona odpowiedni opis:
+– celów jakości oraz struktury organizacyjnej, obowiązków i uprawnień kierownictwa w odniesieniu do projektu i jakości produktu,
+– specyfikacji technicznych projektu, łącznie z normami, które będą stosowane, a także, w przypadku gdy odpowiednie normy zharmonizowane nie zostaną w pełni zastosowane, opis środków, łącznie z innymi odpowiednimi specyfikacjami technicznymi, które zostaną przyjęte w celu zapewnienia spełnienia zasadniczych wymagań w zakresie zdrowia i bezpieczeństwa określonych w rozporządzeniu,
+– technik kontroli projektu i weryfikacji projektu, procesów oraz działań systematycznych, które będą stosowane przy projektowaniu dźwigu,
+– badań i testów, które będą przeprowadzone przy przyjmowaniu dostaw materiałów, części składowych i podzespołów,
+– odpowiednich technik, procesów i systematycznych działań w zakresie montażu, instalacji, kontroli jakości, zapewnienia jakości produkcji, które będą stosowane,
+– badań i testów, które będą przeprowadzone przed instalacją (kontrola warunków instalacji: szyb, maszynownia itd.), w trakcie instalacji i po niej (włączając co najmniej testy określone w ust. 3 pkt 3 lit. c,
+– zapisów dotyczących jakości, takich jak sprawozdania z inspekcji, dane uzyskane podczas testów, dane dotyczące wzorcowania, dane dotyczące kwalifikacji odpowiednich pracowników,
+środków monitorowania, czy osiągnięto wymaganą jakość projektu i produktu, a także skuteczność działania systemu jakości.
+c)
+Badanie projektu:
+– jeżeli projekt nie jest całkowicie zgodny z normami zharmonizowanymi, jednostka notyfikowana ustala, czy odpowiada on zasadniczym wymaganiom w zakresie zdrowia i bezpieczeństwa określonym w rozporządzeniu, a jeśli tak, wydaje instalatorowi certyfikat badania projektu UE, określając ważność certyfikatu i podając szczegóły wymagane do identyfikacji zatwierdzonego projektu.
+– w przypadku gdy projekt nie spełnia mających zastosowanie zasadniczych wymagań w zakresie zdrowia i bezpieczeństwa określonych w rozporządzeniu, jednostka notyfikowana odmawia wydania certyfikatu badania projektu UE oraz informuje o tym wnioskodawcę, podając szczegółowe uzasadnienie odmowy.
 Jednostka notyfikowana śledzi wszelkie zmiany w powszechnie uznanym stanie wiedzy technicznej wskazujące, że zatwierdzony projekt może nie spełniać już zasadniczych wymagań w zakresie zdrowia i bezpieczeństwa określonych w rozporządzeniu, oraz ustala, czy zmiany takie wymagają dalszego badania. Jeżeli wymagają takiego dalszego badania, jednostka notyfikowana informuje o tym instalatora.
 – Instalator informuje jednostkę notyfikowaną, która wydała certyfikat badania projektu UE, o wszelkich modyfikacjach zatwierdzonego projektu mogących wpływać na zgodność z zasadniczymi wymaganiami w zakresie zdrowia i bezpieczeństwa określonymi w rozporządzeniu lub warunki ważności certyfikatu. Takie modyfikacje wymagają dodatkowego zatwierdzenia – wydanego przez jednostkę notyfikowaną, która wydała certyfikat badania projektu UE – w formie dodatku do oryginalnego certyfikatu badania projektu UE.
 – Każda jednostka notyfikowana informuje odnośny organ notyfikujący o certyfikatach badania projektu UE i wszelkich aneksach do nich, które wydała lub cofnęła oraz, okresowo lub na żądanie, udostępnia odnośnemu organowi notyfikującemu wykaz certyfikatów badania projektu UE lub wszelkich aneksów do nich, których wydania odmówiono, które zawieszono lub poddano innym ograniczeniom.
 Każda jednostka notyfikowana informuje pozostałe jednostki notyfikowane o certyfikatach badania projektu UE lub wszelkich aneksach do nich, których wydania odmówiła, które cofnęła, zawiesiła lub poddała innym ograniczeniom oraz, na żądanie, o tych certyfikatach lub wszelkich aneksach do nich, które wydała. Komisja, państwa członkowskie i pozostałe jednostki notyfikowane mogą na żądanie otrzymać kopie certyfikatów badania projektu UE lub aneksów do nich. Na żądanie Komisja i państwa członkowskie mogą otrzymać kopię dokumentacji technicznej oraz wyniki badań przeprowadzonych przez jednostkę notyfikowaną.
-– Instalator przechowuje kopię certyfikatu badania projektu UE oraz załączników i aneksów do niego wraz z dokumentacją techniczną do dyspozycji organów krajowych przez okres 10 lat po wprowadzeniu do obrotu dźwigu. d) Ocena systemu jakości
+Instalator przechowuje kopię certyfikatu badania projektu UE oraz załączników i aneksów do niego wraz z dokumentacją techniczną do dyspozycji organów krajowych przez okres 10 lat po wprowadzeniu do obrotu dźwigu.
+d)
+Ocena systemu jakości
 Jednostka notyfikowana ocenia system jakości w celu stwierdzenia, czy spełnia on wymagania, o których mowa w ust. 9 pkt 3 lit. b. Domniemywa ona zgodność z tymi wymaganiami w odniesieniu do elementów systemów jakości zgodnych z odpowiednimi specyfikacjami odpowiedniej normy zharmonizowanej. Zespół audytowy ma co najmniej jednego członka posiadającego doświadczenie z zakresu oceny w dziedzinie technologii danego dźwigu, a także znajomość zasadniczych wymagań w zakresie zdrowia i bezpieczeństwa określonych w rozporządzeniu. Audyt obejmuje wizytę oceniającą w zakładzie instalatora dźwigu i wizytę w miejscu zainstalowania dźwigu. Zespół audytowy dokonuje przeglądu dokumentacji technicznej, o której mowa w ust. 9 pkt 3 lit. a tire czwarte, w celu weryfikacji zdolności instalatora do zidentyfikowania mających zastosowanie zasadniczych wymagań w zakresie zdrowia i bezpieczeństwa określonych w rozporządzeniu oraz do przeprowadzenia koniecznych badań zapewniających zgodność dźwigu z tymi wymaganiami. Instalatora lub w stosownych przypadkach jego upoważnionego przedstawiciela powiadamia się o decyzji. Powiadomienie zawiera wnioski z oceny oraz uzasadnioną decyzję dotyczącą oceny.
 e)
-Instalator zobowiązuje się do wypełniania obowiązków wynikających z tak zatwierdzonego systemu jakości oraz utrzymywania go w taki sposób, aby pozostawał adekwatny i skuteczny.
-Instalator informuje jednostkę notyfikowaną, która zatwierdziła system jakości, o wszelkich zamierzonych zmianach w tym systemie. Jednostka notyfikowana ocenia proponowane zmiany i decyduje, czy zmieniony system jakości wciąż spełnia wymagania, o których mowa w ust. 9 pkt. 3 lit. b, czy też konieczna jest jego ponowna ocena. Instalatora lub w stosownych przypadkach jego upoważnionego przedstawiciela powiadamia się o decyzji. Powiadomienie zawiera wnioski z oceny oraz uzasadnioną decyzję dotyczącą oceny. Jednostka notyfikowana umieszcza lub zapewnia umieszczenie swojego numeru identyfikacyjnego za oznakowaniem CE.
+Instalator zobowiązuje się do wypełniania obowiązków wynikających z tak zatwierdzonego systemu jakości oraz utrzymywania go w taki sposób, aby pozostawał adekwatny i skuteczny. Instalator informuje jednostkę notyfikowaną, która zatwierdziła system jakości, o wszelkich zamierzonych zmianach w tym systemie. Jednostka notyfikowana ocenia proponowane zmiany i decyduje, czy zmieniony system jakości wciąż spełnia wymagania, o których mowa w ust. 9 pkt. 3 lit. b, czy też konieczna jest jego ponowna ocena. Instalatora lub w stosownych przypadkach jego upoważnionego przedstawiciela powiadamia się o decyzji. Powiadomienie zawiera wnioski z oceny oraz uzasadnioną decyzję dotyczącą oceny. Jednostka notyfikowana umieszcza lub zapewnia umieszczenie swojego numeru identyfikacyjnego za oznakowaniem CE.
 4)
 Nadzór, za który odpowiedzialna jest jednostka notyfikowana
 a)
@@ -863,34 +866,36 @@ Instalator umieszcza oznakowanie CE w kabinie każdego dźwigu spełniającego z
 b)
 Instalator sporządza pisemną deklarację zgodności dla każdego dźwigu i przechowuje kopię deklaracji zgodności do dyspozycji organów krajowych przez okres 10 lat po wprowadzeniu dźwigu do obrotu. Kopię deklaracji zgodności udostępnia się na żądanie właściwym organom.
 8)
-Upoważniony przedstawiciel
-Obowiązki instalatora określone w ust. 9 pkt 3 lit. a, w ust. 9 pkt 3 lit. c tire trzecie, w ust. 9 pkt 3 lit. c tire piąte w ust. 9 pkt 5 i 7 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie.
+Upoważniony przedstawiciel Obowiązki instalatora określone w ust. 9 pkt 3 lit. a, w ust. 9 pkt 3 lit. c tire trzecie, w ust. 9 pkt 3 lit. c tire piąte w ust. 9 pkt 5 i 7 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie.
 10.
 Zgodność z typem w oparciu o zapewnienie jakości produkcji dla dźwigów – (moduł D).
 1)
 Zgodność z typem w oparciu o zapewnienie jakości produkcji dla dźwigów to ta część procedury oceny zgodności, w której jednostka notyfikowana dokonuje oceny systemu jakości instalatora w celu zapewnienia, aby instalowane dźwigi były zgodne z zatwierdzonym typem opisanym w certyfikacie badania typu UE lub z dźwigiem zaprojektowanym i wyprodukowanym w ramach systemu jakości zatwierdzonego zgodnie z ust. 9, a także spełniały mające zastosowanie zasadnicze wymagania w zakresie zdrowia i bezpieczeństwa określone w rozporządzeniu.
 2)
-Obowiązki instalatora
-Instalator stosuje zatwierdzony system jakości w odniesieniu do produkcji, montażu, instalacji, kontroli końcowej i testowania dźwigu zgodnie z ust. 10 pkt 3, a także podlega nadzorowi zgodnie z ust. 10 pkt 4.
+Obowiązki instalatora Instalator stosuje zatwierdzony system jakości w odniesieniu do produkcji, montażu, instalacji, kontroli końcowej i testowania dźwigu zgodnie z ust. 10 pkt 3, a także podlega nadzorowi zgodnie z ust. 10 pkt 4.
 3)
 System jakości
 a)
-Instalator składa wniosek o przeprowadzenie oceny jego systemu jakości w wybranej przez siebie jednej jednostce notyfikowanej.
-Wniosek zawiera:
+Instalator składa wniosek o przeprowadzenie oceny jego systemu jakości w wybranej przez siebie jednej jednostce notyfikowanej. Wniosek zawiera:
 – nazwę i adres instalatora, a także – jeśli wniosek jest składany przez upoważnionego przedstawiciela – także jego nazwę i adres,
 – wszystkie istotne informacje dotyczące dźwigów, które mają być instalowane,
 – dokumentację dotyczącą systemu jakości,
 – dokumentację techniczną dźwigów, które mają być instalowane,
-– pisemną deklarację, że taki sam wniosek nie został złożony w żadnej innej jednostce notyfikowanej. b) System jakości zapewnia zgodność dźwigów z mającymi zastosowanie zasadniczymi wymaganiami w zakresie zdrowia i bezpieczeństwa określonymi w rozporządzeniu. Wszystkie elementy, wymagania i przepisy przyjęte przez instalatora dokumentuje się w systematyczny i uporządkowany sposób w formie spisanej polityki, procedur i instrukcji. Dokumentacja systemu jakości umożliwia spójną interpretację programów, planów, instrukcji i zapisów dotyczących jakości. W szczególności zawiera ona odpowiedni opis: – celów jakości oraz struktury organizacyjnej, obowiązków i uprawnień kierownictwa w odniesieniu do jakości produktu, – technik, procesów i systematycznych działań dotyczących produkcji, kontroli jakości i zapewnienia jakości, jakie będą stosowane, – badań i testów, które będą przeprowadzane przed instalacją, w jej czasie i po instalacji, – zapisów dotyczących jakości, takich jak sprawozdania z inspekcji, dane uzyskane podczas testów, dane dotyczące wzorcowania, dane dotyczące kwalifikacji odpowiednich pracowników, – środków monitorowania osiągania żądanej jakości produktu oraz skuteczności funkcjonowania systemu jakości.
+pisemną deklarację, że taki sam wniosek nie został złożony w żadnej innej jednostce notyfikowanej.
+b)
+System jakości zapewnia zgodność dźwigów z mającymi zastosowanie zasadniczymi wymaganiami w zakresie zdrowia i bezpieczeństwa określonymi w rozporządzeniu. Wszystkie elementy, wymagania i przepisy przyjęte przez instalatora dokumentuje się w systematyczny i uporządkowany sposób w formie spisanej polityki, procedur i instrukcji. Dokumentacja systemu jakości umożliwia spójną interpretację programów, planów, instrukcji i zapisów dotyczących jakości. W szczególności zawiera ona odpowiedni opis:
+– celów jakości oraz struktury organizacyjnej, obowiązków i uprawnień kierownictwa w odniesieniu do jakości produktu,
+– technik, procesów i systematycznych działań dotyczących produkcji, kontroli jakości i zapewnienia jakości, jakie będą stosowane,
+– badań i testów, które będą przeprowadzane przed instalacją, w jej czasie i po instalacji,
+– zapisów dotyczących jakości, takich jak sprawozdania z inspekcji, dane uzyskane podczas testów, dane dotyczące wzorcowania, dane dotyczące kwalifikacji odpowiednich pracowników,
+– środków monitorowania osiągania żądanej jakości produktu oraz skuteczności funkcjonowania systemu jakości.
 c)
-Jednostka notyfikowana ocenia system jakości w celu stwierdzenia, czy spełnia on wymagania, o których mowa w ust. 10 pkt 3 lit. b. Domniemywa ona zgodność z tymi wymaganiami w odniesieniu do elementów systemu jakości zgodnych z odpowiednimi specyfikacjami odpowiedniej normy zharmonizowanej.
-Zespół audytowy ma co najmniej jednego członka posiadającego doświadczenie z zakresu oceny w dziedzinie technologii danego dźwigu, a także znajomość zasadniczych wymagań w zakresie zdrowia i bezpieczeństwa określonych w rozporządzeniu. Audyt obejmuje wizytę oceniającą w zakładzie instalatora dźwigu i wizytę w miejscu zainstalowania dźwigu. O decyzji powiadamia się instalatora. Powiadomienie zawiera wnioski z oceny oraz uzasadnioną decyzję dotyczącą audytu.
+Jednostka notyfikowana ocenia system jakości w celu stwierdzenia, czy spełnia on wymagania, o których mowa w ust. 10 pkt 3 lit. b. Domniemywa ona zgodność z tymi wymaganiami w odniesieniu do elementów systemu jakości zgodnych z odpowiednimi specyfikacjami odpowiedniej normy zharmonizowanej. Zespół audytowy ma co najmniej jednego członka posiadającego doświadczenie z zakresu oceny w dziedzinie technologii danego dźwigu, a także znajomość zasadniczych wymagań w zakresie zdrowia i bezpieczeństwa określonych w rozporządzeniu. Audyt obejmuje wizytę oceniającą w zakładzie instalatora dźwigu i wizytę w miejscu zainstalowania dźwigu. O decyzji powiadamia się instalatora. Powiadomienie zawiera wnioski z oceny oraz uzasadnioną decyzję dotyczącą audytu.
 d)
 Instalator zobowiązuje się do wypełniania obowiązków wynikających z tak zatwierdzonego systemu jakości oraz utrzymywania go w taki sposób, aby pozostawał adekwatny i skuteczny.
 – Instalator informuje jednostkę notyfikowaną, która zatwierdziła system jakości o wszelkich zamierzonych zmianach systemu.
 – Jednostka notyfikowana ocenia proponowane zmiany i decyduje, czy zmieniony system jakości będzie wciąż spełniać wymagania, o których mowa w ust. 10 pkt 3 lit. b, czy też konieczna jest jego ponowna ocena.
-Instalatora lub w stosownych przypadkach jego upoważnionego przedstawiciela powiadamia się o decyzji. Powiadomienie zawiera wnioski z oceny oraz uzasadnioną decyzję dotyczącą oceny.
-Jednostka notyfikowana umieszcza lub zapewnia umieszczenie swojego numeru identyfikacyjnego za oznakowaniem CE.
+Instalatora lub w stosownych przypadkach jego upoważnionego przedstawiciela powiadamia się o decyzji. Powiadomienie zawiera wnioski z oceny oraz uzasadnioną decyzję dotyczącą oceny. Jednostka notyfikowana umieszcza lub zapewnia umieszczenie swojego numeru identyfikacyjnego za oznakowaniem CE.
 4)
 Nadzór, za który odpowiedzialna jest jednostka notyfikowana
 a)
@@ -923,8 +928,7 @@ Instalator umieszcza oznakowanie CE w kabinie każdego dźwigu spełniającego z
 b)
 Instalator sporządza pisemną deklarację zgodności dla każdego dźwigu i przechowuje kopię deklaracji zgodności do dyspozycji organów krajowych przez okres 10 lat po wprowadzeniu dźwigu do obrotu. Kopię deklaracji zgodności udostępnia się na żądanie właściwym organom.
 8)
-Upoważniony przedstawiciel
-Obowiązki instalatora określone w ust. 10 pkt 3 lit. a i lit. d tire pierwsze, oraz w ust. 10 pkt 5 i 7 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie.
+Upoważniony przedstawiciel Obowiązki instalatora określone w ust. 10 pkt 3 lit. a i lit. d tire pierwsze, oraz w ust. 10 pkt 5 i 7 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie.
 
 ## Załącznik nr 3 — – Elementy deklaracji zgodności
 

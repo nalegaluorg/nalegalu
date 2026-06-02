@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 maja 2007 r. o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawy o działalności ubezpieczeniowej
+# Ustawa z dnia 24 maja 2007 r. o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawy o działalności ubezpieczeniowej Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2005/14/WE Parlamentu Europejskiego i Rady z dnia 11 maja 2005 r. zmieniającej dyrektywy Rady 72/166/EWG, 84/5/EWG, 88/357/EWG i 90/232/EWG oraz dyrektywę 2000/26/WE Parlamentu Europejskiego i Rady dotyczącej ubezpieczenia w zakresie odpowiedzialności cywilnej za szkody powstałe w związku z ruchem pojazdów mechanicznych (Dz. Urz. UE L 149 z 11.06.2005).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-05-24 |
 | Data wydania | 2007-06-11 |
-| Wejście w życie | 2007-06-11 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071020691) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/691/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492, Nr 273, poz. 2703 i Nr 281, poz. 2778, z 2005 r. Nr 167, poz. 1396, z 2006 r. Nr 157, poz. 1119 oraz z 2007 r. Nr 49, poz. 328 i Nr 82, poz. 557.) wprowadza się następujące zmiany:
 
 - **1)** w art. 14 po ust. 3 dodaje się ust. 3a w brzmieniu: „
 
@@ -37,13 +36,13 @@ source: "eli-html"
 1. Odszkodowanie ustala się i wypłaca w granicach odpowiedzialności cywilnej posiadacza lub kierującego pojazdem mechanicznym, najwyżej jednak do ustalonej w umowie ubezpieczenia sumy gwarancyjnej. Suma gwarancyjna nie może być niższa niż równowartość w złotych:
 
 - **1)** w przypadku szkód na osobie – 5 000 000 euro w odniesieniu do jednego zdarzenia, którego skutki są objęte ubezpieczeniem bez względu na liczbę poszkodowanych,
-- **2)** w przypadku szkód w mieniu – 1 000 000 euro w odniesieniu do jednego zdarzenia, którego skutki są objęte ubezpieczeniem bez względu na liczbę poszkodowanych ustalana przy zastosowaniu kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu wyrządzenia szkody. ” ;
+- **2)** w przypadku szkód w mieniu – 1 000 000 euro w odniesieniu do jednego zdarzenia, którego skutki są objęte ubezpieczeniem bez względu na liczbę poszkodowanych – ustalana przy zastosowaniu kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu wyrządzenia szkody. ” ;
 - **3)** art. 52 otrzymuje brzmienie: „
 
 **Art. 52.** Odszkodowanie ustala się i wypłaca w granicach odpowiedzialności cywilnej osoby odpowiedzialnej, najwyżej jednak do ustalonej w umowie sumy gwarancyjnej. Suma gwarancyjna nie może być niższa niż równowartość w złotych:
 
 - **1)** w przypadku szkód na osobie – 5 000 000 euro w odniesieniu do jednego zdarzenia, którego skutki są objęte ubezpieczeniem bez względu na liczbę poszkodowanych,
-- **2)** w przypadku szkód w mieniu – 1 000 000 euro w odniesieniu do jednego zdarzenia, którego skutki są objęte ubezpieczeniem bez względu na liczbę poszkodowanych ustalana przy zastosowaniu kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu wyrządzenia szkody. ” ;
+- **2)** w przypadku szkód w mieniu – 1 000 000 euro w odniesieniu do jednego zdarzenia, którego skutki są objęte ubezpieczeniem bez względu na liczbę poszkodowanych – ustalana przy zastosowaniu kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu wyrządzenia szkody. ” ;
 - **4)** w art. 83 ust. 3 otrzymuje brzmienie: „
 
 3. W przypadku niedopełnienia obowiązków, o których mowa w ust. 1 lub 2, organ nadzoru stosuje wobec zakładu ubezpieczeń środki nadzorcze określone w art. 212 ust. 1 pkt 1 lub 2 ustawy o działalności ubezpieczeniowej. ” ;
@@ -97,7 +96,7 @@ source: "eli-html"
 
 1b. Wpływy z tytułu kar pieniężnych, o których mowa w ust. 1a, stanowią dochód budżetu państwa. ” .
 
-**Art. 2.** W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959, z 2005 r. Nr 83, poz. 719, Nr 143, poz. 1204, Nr 167, poz. 1396, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119 oraz z 2007 r. Nr 50, poz. 331 i Nr 82, poz. 557.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 po pkt 7 dodaje się pkt 7a w brzmieniu: „
 - **7a)** państwo członkowskie Unii Europejskiej umiejscowienia ryzyka – państwo członkowskie Unii Europejskiej, w którym: znajduje się nieruchomość wraz z częściami składowymi i przynależnościami oraz znajdującym się w niej mieniem, o ile mienie to jest objęte tą samą umową ubezpieczenia co nieruchomość, jest zarejestrowany pojazd mechaniczny, w przypadku gdy umowa ubezpieczenia dotyczy pojazdu mechanicznego, z zastrzeżeniem lit. c, pojazd mechaniczny ma być zarejestrowany, w przypadku gdy pojazd mechaniczny został nabyły w państwie członkowskim Unii Europejskiej innym niż to, w którym ma być zarejestrowany, ale nie dłużej niż przez okres 30 dni od dnia objęcia pojazdu mechanicznego w posiadanie przez jego nabywcę, została zawarta umowa ubezpieczenia, na okres nie dłuższy niż 4 miesiące, dotycząca ubezpieczenia związanego z podróżą, niezależnie od grupy określonej w załączniku do ustawy, ubezpieczający będący osobą fizyczną ma stałe miejsce zamieszkania, ubezpieczający będący osobą prawną ma siedzibę jednostki organizacyjnej objętej umową ubezpieczenia. ” ;
@@ -120,13 +119,13 @@ source: "eli-html"
 
 **Art. 5.** W przypadku umów ubezpieczenia OC posiadaczy pojazdów mechanicznych oraz umów ubezpieczenia OC rolników wysokość minimalnej sumy gwarancyjnej wynosi równowartość w złotych:
 
-- **1)** w odniesieniu do umów zawieranych w okresie do dnia 10 grudnia 2009 r.: w przypadku szkód na osobie – 1 500 000 euro w odniesieniu do jednego zdarzenia, którego skutki są objęte ubezpieczeniem bez względu na liczbę poszkodowanych, w przypadku szkód w mieniu – 300 000 euro w odniesieniu do jednego zdarzenia, którego skutki są objęte ubezpieczeniem bez względu na liczbę poszkodowanych ustalana przy zastosowaniu kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu wyrządzenia szkody;
+- **1)** w odniesieniu do umów zawieranych w okresie do dnia 10 grudnia 2009 r.: w przypadku szkód na osobie – 1 500 000 euro w odniesieniu do jednego zdarzenia, którego skutki są objęte ubezpieczeniem bez względu na liczbę poszkodowanych, w przypadku szkód w mieniu – 300 000 euro w odniesieniu do jednego zdarzenia, którego skutki są objęte ubezpieczeniem bez względu na liczbę poszkodowanych – ustalana przy zastosowaniu kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu wyrządzenia szkody;
     - **a)**
     - **b)**
 
-- **2)** w odniesieniu do umów zawieranych w okresie od dnia 11 grudnia 2009 r. do dnia 10 czerwca 2012 r.: w przypadku szkód na osobie – 2 500 000 euro w odniesieniu do jednego zdarzenia, którego skutki są objęte ubezpieczeniem bez względu na liczbę poszkodowanych, w przypadku szkód w mieniu – 500 000 euro w odniesieniu do jednego zdarzenia, którego skutki są objęte ubezpieczeniem bez względu na liczbę poszkodowanych ustalana przy zastosowaniu kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu wyrządzenia szkody.
+- **2)** w odniesieniu do umów zawieranych w okresie od dnia 11 grudnia 2009 r. do dnia 10 czerwca 2012 r.: w przypadku szkód na osobie – 2 500 000 euro w odniesieniu do jednego zdarzenia, którego skutki są objęte ubezpieczeniem bez względu na liczbę poszkodowanych, w przypadku szkód w mieniu – 500 000 euro w odniesieniu do jednego zdarzenia, którego skutki są objęte ubezpieczeniem bez względu na liczbę poszkodowanych – ustalana przy zastosowaniu kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu wyrządzenia szkody.
     - **a)**
     - **b)**
 
-**Art. 6.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2005/14/WE Parlamentu Europejskiego i Rady z dnia 11 maja 2005 r. zmieniającej dyrektywy Rady 72/166/EWG, 84/5/EWG, 88/357/EWG i 90/232/EWG oraz dyrektywę 2000/26/WE Parlamentu Europejskiego i Rady dotyczącej ubezpieczenia w zakresie odpowiedzialności cywilnej za szkody powstałe w związku z ruchem pojazdów mechanicznych (Dz. Urz. UE L 149 z 11.06.2005). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492, Nr 273, poz. 2703 i Nr 281, poz. 2778, z 2005 r. Nr 167, poz. 1396, z 2006 r. Nr 157, poz. 1119 oraz z 2007 r. Nr 49, poz. 328 i Nr 82, poz. 557. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959, z 2005 r. Nr 83, poz. 719, Nr 143, poz. 1204, Nr 167, poz. 1396, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119 oraz z 2007 r. Nr 50, poz. 331 i Nr 82, poz. 557.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 22 grudnia 2021 r. w sprawie zakresu ryzyka budowy i ryzyka uzyskania gwarantowanego poziomu średniorocznych oszczędności energii oraz szczegółowych czynników uwzględnianych przy ich ocenie
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 22 grudnia 2021 r. w sprawie zakresu ryzyka budowy i ryzyka uzyskania gwarantowanego poziomu średniorocznych oszczędności energii oraz szczegółowych czynników uwzględnianych przy ich ocenie Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-22 |
 | Data wydania | 2021-12-29 |
-| Wejście w życie | 2022-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002452) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2452/text.pdf) |
 
@@ -75,7 +74,7 @@ z wystąpieniem sytuacji powodujących konieczność korekty zakładanego gwaran
 § 4.
 Przy ocenie ryzyka budowy i ryzyka uzyskania gwarantowanego poziomu średniorocznych oszczędności energii uwzględnia się w szczególności czynniki takie jak:
 1)
-udział środków publicznych w nakładach inwestycyjnych poniesionych przez dostawcę usług związanych ze zużyciem energii na wytworzenie nowych środków trwałych lub ulepszenie już istniejących, z wyłączeniem środków, o których mowa w art. 5 ust. 1 pkt 2–3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.);
+udział środków publicznych w nakładach inwestycyjnych poniesionych przez dostawcę usług związanych ze zużyciem energii na wytworzenie nowych środków trwałych lub ulepszenie już istniejących, z wyłączeniem środków, o których mowa w art. 5 ust. 1 pkt 2–3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270.);
 2)
 charakter, termin i wysokość płatności dokonywanych przez jednostkę sektora publicznego na rzecz dostawcy usług związanych ze zużyciem energii, w tym zasady zmiany charakteru, terminu i wysokości tych płatności;
 3)
@@ -109,6 +108,5 @@ prawo jednostki sektora publicznego do przyjęcia na siebie wykonania określony
 17)
 wysokość udziału jednostki sektora publicznego w zysku dostawcy usług związanych ze zużyciem energii.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270.
 

@@ -31,18 +31,16 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 29 czerwca 2020 r. w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw własności intelektualnej z właściwości innych sądów okręgowych (Dz. U. poz. 1152), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającym rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw własności intelektualnej z właściwości innych sądów okręgowych (Dz. U. poz. 536 i 1543).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającego rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw własności intelektualnej z właściwości innych sądów okręgowych (Dz. U. poz. 536 i 1543), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającego rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw własności intelektualnej z właściwości innych sądów okręgowych (Dz. U. poz. 536 i 1543), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 29 czerwca 2020 r. w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw własności intelektualnej z właściwości innych sądów okręgowych
 Na podstawie art. 20 pkt 3a ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072, z 2021 r. poz. 1080 i 1236 oraz z 2022 r. poz. 655 i 1259) zarządza się, co następuje:
 § 1.
 Następującym sądom okręgowym przekazuje się rozpoznawanie spraw własności intelektualnej:
 1)
 Sądowi Okręgowemu w Gdańsku – z obszaru właściwości sądów okręgowych: w Bydgoszczy, Elblągu, Koszalinie, Olsztynie, Słupsku, Toruniu i we Włocławku;
-2)
+2W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającego rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw własności intelektualnej z właściwości innych sądów okręgowych (Dz. U. poz. 536 i 1543), które weszło w życie z dniem 1 kwietnia 2022 r.)
 Sądowi Okręgowemu w Katowicach – z obszaru właściwości sądów okręgowych w: Bielsku-Białej, Częstochowie, Gliwicach, Krakowie, Nowym Sączu, Opolu, Rybniku, Sosnowcu i Tarnowie;
 3)
 Sądowi Okręgowemu w Lublinie – z obszaru właściwości sądów okręgowych w: Kielcach, Krośnie, Przemyślu, Radomiu, Rzeszowie, Siedlcach, Tarnobrzegu i Zamościu;
@@ -51,5 +49,5 @@ Sądowi Okręgowemu w Poznaniu – z obszaru właściwości sądów okręgowych:
 5)
 Sądowi Okręgowemu w Warszawie – z obszaru właściwości sądów okręgowych: w Białymstoku, Łomży, Ostrołęce, Piotrkowie Trybunalskim, Płocku, Suwałkach i Warszawa-Praga w Warszawie.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2020 r.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2020 r. 1) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającego rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw własności intelektualnej z właściwości innych sądów okręgowych (Dz. U. poz. 536 i 1543), które weszło w życie z dniem 1 kwietnia 2022 r.
 

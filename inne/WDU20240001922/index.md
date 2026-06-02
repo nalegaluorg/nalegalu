@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Sportu i Turystykiz dnia 20 grudnia 2024 r. zmieniające rozporządzenie w sprawie odznak, wyróżnień oraz nagród pieniężnych za osiągnięcia w działalności w zakresie sportu
+# Rozporządzenie Ministra Sportu i Turystykiz dnia 20 grudnia 2024 r. zmieniające rozporządzenie w sprawie odznak, wyróżnień oraz nagród pieniężnych za osiągnięcia w działalności w zakresie sportu Minister Sportu i Turystyki kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2722).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-20 |
 | Data wydania | 2024-12-23 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2025-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001922) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1922/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Sportu i Turystyki z dnia 16 listopada 2017 r. w spra
 1)
 w § 10:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
 Trener prowadzący szkolenie lub uczestniczący w szkoleniu może otrzymać nagrodę, jeżeli jego zawodnik, zespół, sztafeta, osada lub drużyna zajęli:
 1)
@@ -60,8 +58,7 @@ Trener prowadzący szkolenie lub uczestniczący w szkoleniu może otrzymać nagr
 11)
 3. miejsce na uniwersjadzie letniej lub zimowej albo trzecie miejsce na mistrzostwach świata juniorów w konkurencjach objętych programem igrzysk olimpijskich, igrzysk paralimpijskich lub igrzysk głuchych, lub trzecie miejsce na młodzieżowych mistrzostwach Europy, lub drugie miejsce na mistrzostwach Europy juniorów w konkurencjach objętych programem igrzysk olimpijskich, igrzysk paralimpijskich lub igrzysk głuchych, lub trzecie miejsce na mistrzostwach świata seniorów w konkurencjach nieobjętych programem igrzysk olimpijskich, igrzysk paralimpijskich lub igrzysk głuchych, lub drugie miejsce na mistrzostwach Europy seniorów w konkurencjach nieobjętych programem igrzysk olimpijskich, igrzysk paralimpijskich lub igrzysk głuchych, lub drugie miejsce na akademickich mistrzostwach świata – do 0,53 krotności podstawy;
 12)
-3. miejsce na mistrzostwach Europy seniorów w konkurencjach nieobjętych programem igrzysk olimpijskich, igrzysk paralimpijskich lub igrzysk głuchych lub trzecie miejsce na mistrzostwach Europy juniorów w konkurencjach objętych programem igrzysk olimpijskich, igrzysk paralimpijskich lub igrzysk głuchych, lub trzecie miejsce na akademickich mistrzostwach świata – do 0,40 podstawy.
-” ,
+3. miejsce na mistrzostwach Europy seniorów w konkurencjach nieobjętych programem igrzysk olimpijskich, igrzysk paralimpijskich lub igrzysk głuchych lub trzecie miejsce na mistrzostwach Europy juniorów w konkurencjach objętych programem igrzysk olimpijskich, igrzysk paralimpijskich lub igrzysk głuchych, lub trzecie miejsce na akademickich mistrzostwach świata – do 0,40 podstawy. ” ,
 b)
 użyty w ust. 5 wyraz „3,5-krotności” zastępuje się wyrazem „1,86-krotności”;
 2)
@@ -71,6 +68,5 @@ użyte w § 12 wyrazy „do wysokości podstawy” zastępuje się wyrazami „w
 § 2.
 Do spraw dotyczących wniosków o przyznanie nagród pieniężnych na podstawie wyników sportowych uprawniających do nagrody pieniężnej osiągniętych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
-1) Minister Sportu i Turystyki kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2722).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r. 1) Minister Sportu i Turystyki kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2722).
 

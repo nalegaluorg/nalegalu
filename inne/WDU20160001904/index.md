@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Cyfryzacjiz dnia 31 października 2016 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego
+# Obwieszczenie Ministra Cyfryzacjiz dnia 31 października 2016 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
 
 | Pole | Wartość |
 |---|---|
@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001904) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1904/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych z dnia 9 lutego 2015 r. w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego Rozdział 1 – Przepis ogólny Rozdział 2 – Sposób prowadzenia rejestru stanu cywilnego Rozdział 3 – Sposób oznaczania aktów stanu cywilnego w rejestrze stanu cywilnego Rozdział 4 – Sposób prowadzenia akt zbiorowych rejestracji stanu cywilnego Rozdział 5 – Sposób zabezpieczania akt zbiorowych rejestracji stanu cywilnego niesporządzonych w formie dokumentu elektronicznego, wynoszonych poza urząd stanu cywilnego Rozdział 6 – Przepis końcowy
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych z dnia 9 lutego 2015 r. w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych z dnia 9 lutego 2015 r. w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego (Dz. U. poz. 225), z uwzględnieniem zmian wprowadzonych:
@@ -37,20 +37,16 @@ rozporządzeniem Ministra Cyfryzacji z dnia 26 sierpnia 2016 r. zmieniającym ro
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 21 października 2015 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego (Dz. U. poz. 1746), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 21 października 2015 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego (Dz. U. poz. 1746), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 listopada 2015 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 listopada 2015 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Cyfryzacji z dnia 26 sierpnia 2016 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego (Dz. U. poz. 1351), który stanowi:
-„
+§ 2 rozporządzenia Ministra Cyfryzacji z dnia 26 sierpnia 2016 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego (Dz. U. poz. 1351), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 27 sierpnia 2016 r.
-” .
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych z dnia 9 lutego 2015 r. w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego
-Na podstawie art. 27 ust. 4 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego (Dz. U. poz. 1741, z późn. zm.) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem 27 sierpnia 2016 r. ” . 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych z dnia 9 lutego 2015 r. w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnegoObecnie działem administracji rządowej – informatyzacja kieruje Minister Cyfryzacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
+Na podstawie art. 27 ust. 4 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego (Dz. U. poz. 1741, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1888, z 2015 r. poz. 262, 1087, 1274 i 2281 oraz z 2016 r. poz. 1221 i 1579.) zarządza się, co następuje:
+Przepis ogólny
 § 1.
 Rozporządzenie określa sposób:
 1)
@@ -61,12 +57,13 @@ oznaczania w rejestrze stanu cywilnego aktów stanu cywilnego;
 prowadzenia akt zbiorowych rejestracji stanu cywilnego;
 4)
 zabezpieczania akt zbiorowych rejestracji stanu cywilnego niesporządzonych w formie dokumentu elektronicznego w przypadku, o którym mowa w art. 27 ust. 3 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego, zwanej dalej „ustawą”.
+Sposób prowadzenia rejestru stanu cywilnego
 § 2.
 1.
 Wpisów w rejestrze stanu cywilnego dokonuje się w alfabecie łacińskim rozszerzonym, wielkimi literami.
 2.
 Oznaczenie numeru domu w rejestrze stanu cywilnego można zamieścić małymi literami.
-§ 3.
+§ 3W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Cyfryzacji z dnia 26 sierpnia 2016 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego (Dz. U. poz. 1351), które weszło w życie z dniem 27 sierpnia 2016 r..
 Sporządzenie aktu urodzenia, aktu małżeństwa albo aktu zgonu w rejestrze stanu cywilnego wymaga uwierzytelnienia przez właściwego kierownika urzędu stanu cywilnego przez złożenie podpisu elektronicznego weryfikowanego za pomocą certyfikatu wydanego przez ministra właściwego do spraw informatyzacji, zwane dalej „złożeniem podpisu”. Złożenie podpisu odbywa się z wykorzystaniem karty mikroprocesorowej zabezpieczonej kodem PIN.
 § 4.
 1.
@@ -105,9 +102,9 @@ Dokonanie wpisu w rejestrze uznań wymaga uwierzytelnienia przez właściwego ki
 Jeżeli przed kierownikiem urzędu stanu cywilnego zostało złożone oświadczenie mężczyzny konieczne do uznania ojcostwa, a matka dziecka nie potwierdziła jednocześnie, że ojcem dziecka jest ten mężczyzna, informację o tym zamieszcza się w rejestrze uznań.
 2.
 Jeżeli matka dziecka nie potwierdziła w terminie, o którym mowa w art. 73 § 1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2015 r. poz. 2082 oraz z 2016 r. poz. 406, 1177 i 1271), że mężczyzna, który złożył oświadczenie konieczne do uznania ojcostwa dziecka, jest ojcem dziecka, w rejestrze uznań rejestruje się informację oznaczającą brak ważności uznania ojcostwa dziecka.
-3.
+3Dodany przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 21 października 2015 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego (Dz. U. poz. 1746), które weszło w życie z dniem 1 listopada 2015 r..
 Do uznania ojcostwa, o którym mowa w art. 751 §1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, stosuje się odpowiednio ust. 1.
-4.
+4Dodany przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 21 października 2015 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego (Dz. U. poz. 1746), które weszło w życie z dniem 1 listopada 2015 r..
 Jeżeli kobieta, w terminie, o którym mowa w art. 751 §1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, nie potwierdziła, że mężczyzna, który złożył oświadczenie konieczne do uznania ojcostwa dziecka, mającego urodzić się w następstwie procedury medycznie wspomaganej prokreacji z zastosowaniem komórek rozrodczych pochodzących od anonimowego dawcy albo zarodka powstałego z komórek rozrodczych pochodzących od anonimowego dawcy albo z dawstwa zarodka, będzie ojcem tego dziecka – w rejestrze uznań rejestruje się informację oznaczającą brak ważności uznania ojcostwa dziecka.
 § 12.
 Dołączenie w rejestrze stanu cywilnego wzmianki dodatkowej do aktu urodzenia, aktu małżeństwa albo aktu zgonu wymaga uwierzytelnienia przez właściwego kierownika urzędu stanu cywilnego przez złożenie podpisu.
@@ -154,7 +151,7 @@ W rejestrze stanu cywilnego, oddzielnie dla każdego roku kalendarzowego, otwier
 Roczniki są otwierane w rejestrze stanu cywilnego z początkiem roku kalendarzowego.
 2.
 Rocznikowi, z chwilą jego otwarcia w rejestrze stanu cywilnego, jest nadawane oznaczenie, które składa się kolejno z:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.)
 siedmioznakowego identyfikatora gminy, na terenie której ma siedzibę urząd stanu cywilnego właściwy dla okręgu rejestracji stanu cywilnego, zgodnego z krajowym rejestrem urzędowym podziału terytorialnego kraju;
 2)
 dwuznakowego rozszerzenia identyfikatora, o którym mowa w pkt 1, umożliwiającego identyfikację urzędu stanu cywilnego w ramach gminy;
@@ -176,7 +173,7 @@ W przypadku gdy otwarcie albo zamknięcie rocznika w rejestrze stanu cywilnego n
 Otwarcie oraz zamknięcie rocznika, o którym mowa w ust. 1, wymaga uwierzytelnienia przez kierownika urzędu stanu cywilnego przez złożenie podpisu.
 § 24.
 1.
-Akty stanu cywilnego przeniesione do rejestru stanu cywilnego na podstawie art. 124 lub art. 145 ust. 13 ustawy przechowuje się w rejestrze stanu cywilnego w księgach stanu cywilnego.
+Akty stanu cywilnego przeniesione do rejestru stanu cywilnego na podstawie art. 124 lub art. 145 ust. 13 Uchylony przez art. 1 pkt 11 ustawy z dnia 6 lipca 2016 r. o zmianie ustawy – Prawo o aktach stanu cywilnego (Dz. U. poz. 1221), która weszła w życie z dniem 27 sierpnia 2016 r.ustawy przechowuje się w rejestrze stanu cywilnego w księgach stanu cywilnego.
 2.
 Kierownik urzędu stanu cywilnego, który dokonuje przeniesienia aktu stanu cywilnego, otwiera w rejestrze stanu cywilnego księgę stanu cywilnego w celu umieszczenia w niej aktów przeniesionych z dotychczasowej księgi stanu cywilnego.
 § 25.
@@ -188,7 +185,7 @@ Otwarcie oraz zamknięcie księgi stanu cywilnego w rejestrze stanu cywilnego wy
 Do oznaczania w rejestrze stanu cywilnego ksiąg stanu cywilnego stosuje się odpowiednio przepis § 21 ust. 2.
 2.
 W przypadku przeniesienia aktów stanu cywilnego z więcej niż jednej księgi stanu cywilnego danego rodzaju w danym roku odróżnienia tych ksiąg w rejestrze stanu cywilnego dokonuje się przez zmianę dwuznakowego dodatkowego symbolu cyfrowego, o którym mowa w § 21 ust. 2 pkt 5.
-§ 28.
+§ 28W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4..
 Oznaczenie urzędu stanu cywilnego w rejestrze stanu cywilnego zawiera jego pełną nazwę, bez stosowania skrótów, wraz z identyfikatorem gminy, na terenie której ma siedzibę urząd stanu cywilnego właściwy dla okręgu rejestracji stanu cywilnego, zgodnym z krajowym rejestrem urzędowego podziału terytorialnego kraju, oraz dodatkowym dwuznakowym symbolem, który pozwala na odróżnianie urzędów stanu cywilnego w rejestrze stanu cywilnego. Przy oznaczaniu urzędu stanu cywilnego w rejestrze stanu cywilnego podaje się dodatkowo identyfikator gminy stanowiącej okręg rejestracji stanu cywilnego.
 § 29.
 Po oznaczeniu urzędu stanu cywilnego w rejestrze stanu cywilnego otwiera się roczniki stanu cywilnego, o których mowa w § 20 ust. 2.
@@ -240,12 +237,13 @@ adnotacji o ustaniu małżeństwa, jego unieważnieniu, ustaleniu nieistnienia m
 innych danych z aktu stanu cywilnego umieszczonych w odpisie wielojęzycznym aktu urodzenia lub odpisie wielojęzycznym aktu małżeństwa.
 § 41.
 W rejestrze stanu cywilnego przechowuje się informacje o odpisach skróconych aktów stanu cywilnego wydanych z rejestru stanu cywilnego, w tym odpisach wielojęzycznych, w szczególności informację o treści odpisu, dacie jego wydania, kierowniku urzędu stanu cywilnego, który wydał odpis, lub osobie upoważnionej do wydania odpisu wraz z nazwą urzędu stanu cywilnego właściwego dla kierownika urzędu stanu cywilnego lub osoby upoważnionej do wydania odpisu, a także informacje o odpisach zupełnych aktów stanu cywilnego wydanych z rejestru stanu cywilnego.
+Sposób oznaczania aktów stanu cywilnego w rejestrze stanu cywilnego
 § 42.
 1.
 Oznaczenie aktu stanu cywilnego jest nadawane przez system teleinformatyczny, w którym jest prowadzony rejestr stanu cywilnego, z chwilą sporządzenia aktu urodzenia, aktu małżeństwa albo aktu zgonu.
 2.
 Oznaczenie aktu stanu cywilnego składa się kolejno z:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4.)
 siedmioznakowego identyfikatora gminy, na terenie której ma siedzibę urząd stanu cywilnego właściwy dla okręgu rejestracji stanu cywilnego, zgodnego z krajowym rejestrem urzędowym podziału terytorialnego kraju;
 2)
 dwuznakowego rozszerzenia identyfikatora, o którym mowa w pkt 1, umożliwiającego identyfikację urzędu stanu cywilnego w ramach gminy;
@@ -256,7 +254,8 @@ czteroznakowego oznaczenia roku, w którym akt jest sporządzany;
 5)
 sześcioznakowego numeru aktu.
 3.
-Z chwilą przeniesienia aktu stanu cywilnego do rejestru stanu cywilnego na podstawie art. 124 lub art. 145 ust. 13  ustawy, jest nadawane w rejestrze stanu cywilnego nowe oznaczenie tego aktu. Przepisy ust. 1 i 2 stosuje się odpowiednio.
+Z chwilą przeniesienia aktu stanu cywilnego do rejestru stanu cywilnego na podstawie art. 124 lub art. 145 ust. 13 Uchylony przez art. 1 pkt 11 ustawy z dnia 6 lipca 2016 r. o zmianie ustawy – Prawo o aktach stanu cywilnego (Dz. U. poz. 1221), która weszła w życie z dniem 27 sierpnia 2016 r. ustawy, jest nadawane w rejestrze stanu cywilnego nowe oznaczenie tego aktu. Przepisy ust. 1 i 2 stosuje się odpowiednio.
+Sposób prowadzenia akt zbiorowych rejestracji stanu cywilnego
 § 43.
 1.
 Akta zbiorowe rejestracji stanu cywilnego, niezależnie od postaci, w której są sporządzone, opatruje się oznaczeniem nadanym aktowi stanu cywilnego, którego dotyczą.
@@ -290,6 +289,7 @@ W przypadku gdy przypisek jest zamieszczany przy akcie stanu cywilnego w wyniku 
 W przypadkach, o których mowa w ust. 1 i 2, w aktach zbiorowych rejestracji stanu cywilnego, dotyczących danego aktu stanu cywilnego, gromadzi się adnotację zawierającą oznaczenie innego aktu stanu cywilnego w rejestrze stanu cywilnego. Adnotacji nie zamieszcza się, jeżeli z treści wzmianki dodatkowej albo przypisku wynika to oznaczenie.
 § 47.
 Dokument zamieszczony omyłkowo w rejestrze stanu cywilnego w aktach zbiorowych rejestracji stanu cywilnego przy niewłaściwym akcie stanu cywilnego podlega usunięciu z tych akt zbiorowych i dołączeniu do właściwych akt zbiorowych.
+Sposób zabezpieczania akt zbiorowych rejestracji stanu cywilnego niesporządzonych w formie dokumentu elektronicznego, wynoszonych poza urząd stanu cywilnego
 § 48.
 1.
 Wyniesienie poza urząd stanu cywilnego akt zbiorowych rejestracji stanu cywilnego niesporządzonych w formie dokumentu elektronicznego, w przypadku zgody wojewody, odbywa się przez przekazanie akt zbiorowych przez upoważnionego pracownika albo przez nadanie jako przesyłki poleconej w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2016 r. poz. 1113, 1250 i 1823).
@@ -297,19 +297,31 @@ Wyniesienie poza urząd stanu cywilnego akt zbiorowych rejestracji stanu cywilne
 W przypadku, o którym mowa w ust. 1, akta zbiorowe rejestracji stanu cywilnego niesporządzone w formie dokumentu elektronicznego umieszcza się w opakowaniu wykonanym z materiałów chroniących przed uszkodzeniem mechanicznym, chemicznym lub biologicznym, zapewniającym zabezpieczenie dokumentów w sposób uniemożliwiający dostęp do nich osób nieuprawnionych.
 3.
 Przepisów ust. 1 i 2 nie stosuje się do wynoszenia poza urząd stanu cywilnego akt zbiorowych rejestracji stanu cywilnego niesporządzonych w formie dokumentu elektronicznego w przypadku niebezpieczeństwa zagrażającego tym aktom. W takim przypadku akta zbiorowe umieszcza się w opakowaniu wykonanym z materiałów chroniących przed uszkodzeniem mechanicznym, chemicznym lub biologicznym, zapewniającym zabezpieczenie dokumentów w sposób uniemożliwiający dostęp do nich osób nieuprawnionych, niezwłocznie po ustaniu niebezpieczeństwa lub przeniesieniu akt zbiorowych poza obszar jego oddziaływania.
+Przepis końcowy
 § 49.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2015 r.
-1) Obecnie działem administracji rządowej – informatyzacja kieruje Minister Cyfryzacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1888, z 2015 r. poz. 262, 1087, 1274 i 2281 oraz z 2016 r. poz. 1221 i 1579. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Cyfryzacji z dnia 26 sierpnia 2016 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego (Dz. U. poz. 1351), które weszło w życie z dniem 27 sierpnia 2016 r. 4) Dodany przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 21 października 2015 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego (Dz. U. poz. 1746), które weszło w życie z dniem 1 listopada 2015 r. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 6) Uchylony przez art. 1 pkt 11 ustawy z dnia 6 lipca 2016 r. o zmianie ustawy – Prawo o aktach stanu cywilnego (Dz. U. poz. 1221), która weszła w życie z dniem 27 sierpnia 2016 r. 7) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4. 8) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4.
+Rozporządzenie wchodzi w życie z dniem 1 marca 2015 r. 1) Obecnie działem administracji rządowej – informatyzacja kieruje Minister Cyfryzacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1888, z 2015 r. poz. 262, 1087, 1274 i 2281 oraz z 2016 r. poz. 1221 i 1579. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Cyfryzacji z dnia 26 sierpnia 2016 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego (Dz. U. poz. 1351), które weszło w życie z dniem 27 sierpnia 2016 r. 4) Dodany przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 21 października 2015 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego (Dz. U. poz. 1746), które weszło w życie z dniem 1 listopada 2015 r. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 6) Uchylony przez art. 1 pkt 11 ustawy z dnia 6 lipca 2016 r. o zmianie ustawy – Prawo o aktach stanu cywilnego (Dz. U. poz. 1221), która weszła w życie z dniem 27 sierpnia 2016 r. 7) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4. 8) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4.
 
-#### Rozdział 1 Przepis ogólny
+#### Rozdział 1 – Przepis ogólny
 
-#### Rozdział 2 Sposób prowadzenia rejestru stanu cywilnego
+#### Rozdział 2 – Sposób prowadzenia rejestru stanu cywilnego
 
-#### Rozdział 3 Sposób oznaczania aktów stanu cywilnego w rejestrze stanu cywilnego
+#### Rozdział 3 – Sposób oznaczania aktów stanu cywilnego w rejestrze stanu cywilnego
 
-#### Rozdział 4 Sposób prowadzenia akt zbiorowych rejestracji stanu cywilnego
+#### Rozdział 4 – Sposób prowadzenia akt zbiorowych rejestracji stanu cywilnego
 
-#### Rozdział 5 Sposób zabezpieczania akt zbiorowych rejestracji stanu cywilnego niesporządzonych w formie dokumentu elektronicznego, wynoszonych poza urząd stanu cywilnego
+#### Rozdział 5 – Sposób zabezpieczania akt zbiorowych rejestracji stanu cywilnego niesporządzonych w formie dokumentu elektronicznego, wynoszonych poza urząd stanu cywilnego
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

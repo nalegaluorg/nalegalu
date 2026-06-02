@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 25 lipca 2019 r. w sprawie standardu kształcenia przygotowującego do wykonywania zawodu nauczyciela
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 25 lipca 2019 r. w sprawie standardu kształcenia przygotowującego do wykonywania zawodu nauczyciela Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317, z 2018 r. poz. 1998 oraz z 2019 r. poz. 715).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-25 |
 | Data wydania | 2019-08-02 |
-| Wejście w życie | 2019-08-03 |
 | Ostatnia zmiana | 2024-03-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001450) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1450/text.pdf) |
 
@@ -35,7 +34,7 @@ Treść rozporządzenia
 ## Załącznik nr 3 — – Standard kształcenia przygotowującego do wykonywania zawodu nauczyciela pedagoga specjalnego, nauczyciela logopedy i nauczyciela prowadzącego zajęcia wczesnego wspomagania rozwoju dziecka
 
 Treść rozporządzenia
-Na podstawie art. 68 ust. 3 pkt 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 68 ust. 3 pkt 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.) zarządza się, co następuje:
 § 1.
 Określa się standard kształcenia przygotowującego do wykonywania zawodu:
 1)
@@ -45,8 +44,7 @@ nauczyciela przedszkola i edukacji wczesnoszkolnej (klasy I-III szkoły podstawo
 3)
 nauczyciela pedagoga specjalnego, nauczyciela logopedy i nauczyciela prowadzącego zajęcia wczesnego wspomagania rozwoju dziecka, stanowiący załącznik nr 3 do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317, z 2018 r. poz. 1998 oraz z 2019 r. poz. 715). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 17 stycznia 2012 r. w sprawie standardów kształcenia przygotowującego do wykonywania zawodu nauczyciela (Dz. U. poz. 131), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 349 pkt 6 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39 i 534).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 17 stycznia 2012 r. w sprawie standardów kształcenia przygotowującego do wykonywania zawodu nauczyciela (Dz. U. poz. 131), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 349 pkt 6 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39 i 534). 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317, z 2018 r. poz. 1998 oraz z 2019 r. poz. 715). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 17 stycznia 2012 r. w sprawie standardów kształcenia przygotowującego do wykonywania zawodu nauczyciela (Dz. U. poz. 131), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 349 pkt 6 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39 i 534).
 
 ## Załącznik nr 1 — – Standard kształcenia przygotowującego do wykonywania zawodu nauczyciela
 
@@ -127,7 +125,12 @@ pedagogicznego do wykonywania zawodu nauczyciela psychologa dla absolwentów stu
 6)
 psychologiczno-pedagogicznego i dydaktycznego do nauczania języka obcego dla absolwentów studiów pierwszego stopnia i studiów drugiego stopnia lub jednolitych studiów magisterskich na kierunku, którego program studiów nie określał efektów uczenia się obejmujących wiedzę i umiejętności odpowiadające wymaganiom podstawy programowej nauczania tego języka, a którzy legitymują się znajomością tego języka odpowiednią do wymagań określonych w przepisach wydanych na podstawie art. 9 ust. 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2018 r. poz. 967 i 2245 oraz z 2019 r. poz. 730 i 1287) i potwierdzoną zgodnie z tymi przepisami, lub ukończyli studia w państwie, w którym językiem urzędowym jest ten język, nieposiadających przygotowania psychologiczno-pedagogicznego i dydaktycznego – grupy zajęć B, C i D.
 3.
-MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się szczegółowe efekty uczenia się Zajęcia Liczba godzin Liczba punktów ECTS A1. Przygotowanie merytoryczne do nauczania pierwszego przedmiotu lub prowadzenia pierwszych zajęć * * ** A2. Przygotowanie merytoryczne do nauczania kolejnego przedmiotu lub prowadzenia kolejnych zajęć * * ** A3. Podyplomowe przygotowanie merytoryczne do nauczania przedmiotu lub prowadzenia zajęć * 180 10 B. Przygotowanie psychologiczno-pedagogiczne B.1. Psychologia 90 10 B.2. Pedagogika 90 B.3. Praktyki zawodowe 30 C. Podstawy dydaktyki i emisja głosu Podstawy dydaktyki 60 3 Emisja głosu D. Przygotowanie dydaktyczne do nauczania pierwszego przedmiotu lub prowadzenia pierwszych zajęć W przypadku przedmiotu nauczanego lub zajęć prowadzonych w szkole podstawowej i ponadpodstawowej, teoretycznych przedmiotów zawodowych oraz praktycznej nauki zawodu: D.1. Dydaktyka przedmiotu nauczania lub zajęć 150 15 D.2. Praktyki zawodowe 120 W przypadku przedmiotu nauczanego lub zajęć prowadzonych w szkole podstawowej albo ponadpodstawowej: D.1. Dydaktyka przedmiotu nauczania lub zajęć 90 7 D.2. Praktyki zawodowe 60 E. Przygotowanie dydaktyczne do nauczania kolejnego przedmiotu lub prowadzenia kolejnych zajęć W przypadku przedmiotu nauczanego lub zajęć prowadzonych w szkole podstawowej i ponadpodstawowej, teoretycznych przedmiotów zawodowych oraz praktycznej nauki zawodu: E.1. Dydaktyka przedmiotu nauczania lub zajęć 90 7 E.2. Praktyki zawodowe 90 W przypadku przedmiotu nauczanego lub zajęć prowadzonych w szkole podstawowej albo ponadpodstawowej: E.1. Dydaktyka przedmiotu nauczania lub zajęć 60 6 E.2. Praktyki zawodowe 60 F. Przygotowanie pedagogiczne do wykonywania zawodu nauczyciela psychologa F.1. Pedagogika 60 14 F.2. Metodyka pracy nauczyciela psychologa w przedszkolach, szkołach i placówkach systemu oświaty 120 F.3. Praktyki zawodowe 120 * W wymiarze określonym w programie studiów zapewniającym merytoryczne przygotowanie do nauczania przedmiotu lub prowadzenia zajęć. ** W liczbie określonej w programie studiów.
+MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS
+Grupy zajęć, w ramach których osiąga się szczegółowe efekty uczenia się Zajęcia Liczba godzin Liczba punktów ECTS A1. Przygotowanie merytoryczne do nauczania pierwszego przedmiotu lub prowadzenia pierwszych zajęć * * ** A2. Przygotowanie merytoryczne do nauczania kolejnego przedmiotu lub prowadzenia kolejnych zajęć * * ** A3. Podyplomowe przygotowanie merytoryczne do nauczania przedmiotu lub prowadzenia zajęć * 180 10 B. Przygotowanie psychologiczno-pedagogiczne B.1. Psychologia 90 10 B.2. Pedagogika 90 B.3. Praktyki zawodowe 30 C. Podstawy dydaktyki i emisja głosu Podstawy dydaktyki 60 3 Emisja głosu D. Przygotowanie dydaktyczne do nauczania pierwszego przedmiotu lub prowadzenia pierwszych zajęć W przypadku przedmiotu nauczanego lub zajęć prowadzonych w szkole podstawowej i ponadpodstawowej, teoretycznych przedmiotów zawodowych oraz praktycznej nauki zawodu: D.1. Dydaktyka przedmiotu nauczania lub zajęć 150 15 D.2. Praktyki zawodowe 120 W przypadku przedmiotu nauczanego lub zajęć prowadzonych w szkole podstawowej albo ponadpodstawowej:
+D.1. Dydaktyka przedmiotu nauczania lub zajęć 90 7 D.2. Praktyki zawodowe 60 E. Przygotowanie dydaktyczne do nauczania kolejnego przedmiotu lub prowadzenia kolejnych zajęć W przypadku przedmiotu nauczanego lub zajęć prowadzonych w szkole podstawowej i ponadpodstawowej, teoretycznych przedmiotów zawodowych oraz praktycznej nauki zawodu:
+E.1. Dydaktyka przedmiotu nauczania lub zajęć 90 7 E.2. Praktyki zawodowe 90 W przypadku przedmiotu nauczanego lub zajęć prowadzonych w szkole podstawowej albo ponadpodstawowej:
+E.1. Dydaktyka przedmiotu nauczania lub zajęć 60 6 E.2. Praktyki zawodowe 60 F. Przygotowanie pedagogiczne do wykonywania zawodu nauczyciela psychologa F.1. Pedagogika 60 14 F.2. Metodyka pracy nauczyciela psychologa w przedszkolach, szkołach i placówkach systemu oświaty 120 F.3. Praktyki zawodowe 120
+* W wymiarze określonym w programie studiów zapewniającym merytoryczne przygotowanie do nauczania przedmiotu lub prowadzenia zajęć. ** W liczbie określonej w programie studiów.
 3.1.
 Program studiów podyplomowych, w ramach których jest realizowane kształcenie przygotowujące do wykonywania zawodu nauczyciela w grupach zajęć, o których mowa w ust. 2.7, zapewnia osiągnięcie takich samych efektów uczenia się jak program studiów.
 3.2.
@@ -296,7 +299,13 @@ praktycznym – program studiów obejmuje zajęcia lub grupy zajęć kształtuj�
 2.3.
 Kształcenie przygotowujące do wykonywania zawodu nauczyciela przedszkola i edukacji wczesnoszkolnej (klasy I-III szkoły podstawowej) obejmuje przygotowanie merytoryczne i przygotowanie pedagogiczne. Przygotowanie pedagogiczne obejmuje przygotowanie psychologiczno-pedagogiczne i przygotowanie dydaktyczne.
 3.
-MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach którychosiąga się szczegółowe efektyuczenia się Zajęcia Liczba godzin Liczba punktówECTS A. Przygotowanie psychologiczno-pedagogiczne A.1. Podstawy działań pedagogicznych 300 80 A.2. Pedagogika przedszkolna i wczesnoszkolna 180 A.3. Podstawy psychologii dla nauczycieli 180 A.4. Psychologiczne i pedagogiczne podstawy nauczania dzieci języka obcego 60 B. Przygotowanie merytoryczne nauczycieli przedszkoli i klas I-III szkoły podstawowej, jako przygotowanie do integracji treści nauczania B.1. Język polski 60 57 B.2. Język obcy 120 B.3. Matematyka 60 B.4. Edukacja społeczno--przyrodnicza 30 B.5. Informatyka 30 B.6. Plastyka 30 B.7. Muzyka 30 B.8. Technika 30 B.9. Wychowanie fizyczne 60 B.10. Edukacja zdrowotna 30 C. Wspieranie rozwoju dzieci w wieku przedszkolnym i młodszym wieku szkolnym * 400 45 D. Podstawy dydaktyki nauczania zintegrowanego w przedszkolu i klasach I-III szkoły podstawowej * 60 7 E. Metodyka poszczególnych typów edukacji z uwzględnieniem sposobów integrowania wiedzy i umiejętności dzieci lub uczniów E.1. Metodyka edukacji polonistycznej 60 57 E.2. Metodyka nauczania języka obcego 60 E.3. Metodyka edukacji matematycznej 60 E.4. Metodyka edukacji społeczno--przyrodniczej 45 E.5. Metodyka edukacjiinformatycznej i posługiwania się technologią informacyjno--komunikacyjną 45 E.6. Metodyka edukacji plastycznej 45 E.7. Metodyka edukacji muzycznej 45 E.8. Metodyka edukacji technicznej 30 E.9. Metodyka wychowania fizycznego 60 E.10. Metodyka edukacji zdrowotnej 30 F. Dziecko lub uczeń ze specjalnymi potrzebami rozwojowymi i edukacyjnymi w przedszkolu i klasach I-III szkoły podstawowej * 120 14 G. Organizacja pracy przedszkola i szkoły z elementami prawa oświatowego i praw dziecka oraz kultura przedszkola i szkoły, w tym w zakresie kształcenia uczniów ze specjalnymi potrzebami edukacyjnymi i niepełnosprawnościami * 60 7 H. Podstawy diagnostyki edukacyjnej dla nauczycieli * 60 7 I. Kultura języka * 60 7 J. Praktyki zawodowe J.1. Praktyka śródroczna J.1.1. Praktyka ogólnopedagogiczna 240, w tym 30 10 J.1.2. Praktyka wychowawczo--dydaktyczna godzin praktyki ogólno-pedagogicznej J.2. Praktyka ciągła K. Metodologia badań naukowych * 120 10 Razem 2800 300 * Zajęcia określa uczelnia w programie studiów w sposób zapewniający przygotowanie merytoryczne i pedagogiczne (psychologiczno-pedagogiczne oraz dydaktyczne) do nauczania w przedszkolu lub klasach I-III szkoły podstawowej.
+MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS
+Grupy zajęć, w ramach których
+osiąga się szczegółowe efekty
+uczenia się Zajęcia Liczba godzin Liczba punktów
+ECTS A. Przygotowanie psychologiczno-pedagogiczne A.1. Podstawy działań pedagogicznych 300 80 A.2. Pedagogika przedszkolna i wczesnoszkolna 180 A.3. Podstawy psychologii dla nauczycieli 180 A.4. Psychologiczne i pedagogiczne podstawy nauczania dzieci języka obcego 60 B. Przygotowanie merytoryczne nauczycieli przedszkoli i klas I-III szkoły podstawowej, jako przygotowanie do integracji treści nauczania B.1. Język polski 60 57 B.2. Język obcy 120 B.3. Matematyka 60 B.4. Edukacja społeczno--przyrodnicza 30 B.5. Informatyka 30 B.6. Plastyka 30 B.7. Muzyka 30 B.8. Technika 30 B.9. Wychowanie fizyczne 60 B.10. Edukacja zdrowotna 30 C. Wspieranie rozwoju dzieci w wieku przedszkolnym i młodszym wieku szkolnym * 400 45 D. Podstawy dydaktyki nauczania zintegrowanego w przedszkolu i klasach I-III szkoły podstawowej * 60 7 E. Metodyka poszczególnych typów edukacji z uwzględnieniem sposobów integrowania wiedzy i umiejętności dzieci lub uczniów E.1. Metodyka edukacji polonistycznej 60 57 E.2. Metodyka nauczania języka obcego 60 E.3. Metodyka edukacji matematycznej 60 E.4. Metodyka edukacji społeczno--przyrodniczej 45 E.5. Metodyka edukacji
+informatycznej i posługiwania się technologią informacyjno--komunikacyjną 45 E.6. Metodyka edukacji plastycznej 45 E.7. Metodyka edukacji muzycznej 45 E.8. Metodyka edukacji technicznej 30 E.9. Metodyka wychowania fizycznego 60 E.10. Metodyka edukacji zdrowotnej 30 F. Dziecko lub uczeń ze specjalnymi potrzebami rozwojowymi i edukacyjnymi w przedszkolu i klasach I-III szkoły podstawowej * 120 14 G. Organizacja pracy przedszkola i szkoły z elementami prawa oświatowego i praw dziecka oraz kultura przedszkola i szkoły, w tym w zakresie kształcenia uczniów ze specjalnymi potrzebami edukacyjnymi i niepełnosprawnościami * 60 7 H. Podstawy diagnostyki edukacyjnej dla nauczycieli * 60 7 I. Kultura języka * 60 7 J. Praktyki zawodowe J.1. Praktyka śródroczna J.1.1. Praktyka ogólnopedagogiczna 240, w tym 30 10 J.1.2. Praktyka wychowawczo--dydaktyczna godzin praktyki ogólno-pedagogicznej J.2. Praktyka ciągła K. Metodologia badań naukowych * 120 10 Razem 2800 300
+* Zajęcia określa uczelnia w programie studiów w sposób zapewniający przygotowanie merytoryczne i pedagogiczne (psychologiczno-pedagogiczne oraz dydaktyczne) do nauczania w przedszkolu lub klasach I-III szkoły podstawowej.
 3.1.
 Proces kształcenia przygotowującego do wykonywania zawodu nauczyciela przedszkola i edukacji wczesnoszkolnej (klasy I-III szkoły podstawowej) ma charakter zindywidualizowany. Rozpoczęcie realizacji procesu kształcenia poprzedza diagnoza mocnych i słabych stron studenta jako przyszłego nauczyciela. W procesie kształcenia studenci powinni uzyskiwać wsparcie w planowaniu i realizacji zadań o charakterze samorozwojowym oraz w kształtowaniu postawy refleksyjnego praktyka, w szczególności przez budowanie profesjonalnego osądu w oparciu o analizy indywidualnych przypadków. W procesie kształcenia studentom należy zapewnić indywidualne doradztwo metodyczne wspierające integrowanie wiedzy w zakresie dyscyplin naukowych związanych z edukacją, jednocześnie kształtujące samodzielność i odpowiedzialność studentów za przebieg i efektywność własnego kształcenia.
 3.2.
@@ -483,8 +492,7 @@ logopedii,
 c)
 pedagogiki korekcyjnej (terapii pedagogicznej),
 d)
-wczesnego wspomagania rozwoju dziecka
-zwanego dalej „zawodem nauczyciela”.
+wczesnego wspomagania rozwoju dziecka – zwanego dalej „zawodem nauczyciela”.
 1.2.
 Kształcenie w zakresie, o którym mowa w ust. 1.1 pkt 1, jest prowadzone na jednolitych studiach magisterskich na kierunku pedagogika specjalna. Kształcenie w zakresie, o którym mowa w ust. 1.1 pkt 2, może być prowadzone na jednolitych studiach magisterskich na kierunku pedagogika specjalna lub studiach pierwszego i drugiego stopnia na kierunku innym niż pedagogika specjalna.
 1.3.
@@ -548,7 +556,39 @@ C – zajęcia C.2, C.3, C.5 i C.6;
 2)
 D – zajęcia D.1, D.2, D.3, D.4 i D.6.
 3.
-MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramachktórych osiąga sięszczegółowe efektyuczenia się Zajęcia Liczba godzin Liczba punktów ECTS studia studia podyplomowe studia studia podyplomowe A. Kształcenie ogólne A.1. W zakresie filozofii, nauk socjologicznych i innych dyscyplin naukowych w dziedzinach nauk humanistycznych i nauk społecznych 90 – 12 – B. Przygotowanie psychologiczno-pedagogiczne B.1. Ogólne przygotowanie psychologiczne 90 – 12 – B.2. Ogólne przygotowanie pedagogiczne 90 – 12 – B.3. Praktyki zawodowe 30 – 3 – C. Kształcenie kierunkowe C.1. Przygotowanie merytoryczne 400 – 50 – C.2. Przygotowanie psychologiczne do pracy z dziećmi i uczniami ze specjalnymi potrzebami edukacyjnymi 90 60 12 6 C.3. Przygotowanie pedagogiczne do pracy z dziećmi i uczniami ze specjalnymi potrzebami edukacyjnymi 90 60 12 6 C.4. Przygotowanie pedagogiczne do pracy z osobami dorosłymi z niepełnosprawnościami 90 – 12 – C.5. Dydaktyka specjalna 60 30 8 4 C.6. Diagnostykaw pedagogice specjalnej 60 30 8 4 C.7. Praktyki zawodowe 60 60 8 4 D. Edukacja włączająca D.1. Teorie edukacji integracyjnej i włączającej 60 30 8 4 D.2. Diagnoza specjalnych potrzeb edukacyjnych, planowanie, realizacja i monitoring działań wspierających 90 60 12 6 D.3. Metodyka kształcenia w grupach zróżnicowanych 120 75 12 8 D.4. Programy wychowawcze w edukacji integracyjnej i włączającej 60 30 6 4 D.5. Organizacja edukacji włączającej 60 – 6 – D.6. Praktyki zawodowe 120 120 4 6 E. Przygotowanie w poszczególnych zakresachpedagogiki specjalnej: E.S. Edukacjai rehabilitacja osóbz niepełnosprawnościąsłuchową(surdopedagogika) E.T. Edukacjai rehabilitacja osóbz niepełnosprawnościąwzrokową(tyflopedagogika) E.I. Edukacjai rehabilitacja osóbz niepełnosprawnościąintelektualną E.R. Pedagogikaresocjalizacyjna E.L. Logopedia E.K. Pedagogikakorekcyjna (terapiapedagogiczna) E.LT. Pedagogika leczniczo--terapeutyczna E.WW. Wczesnewspomaganie rozwoju dziecka E.A. Edukacja i terapiaosób z zaburzeniamize spektrum autyzmu E.1. Przygotowanie merytoryczne 400, aw zakresielogopedii- 800 240 50 20 E.2. Przygotowanie dydaktyczno-metodyczne 240 150 30 12 E.3. Praktyki zawodowe 120 120 4 6 F. Wsparcie warsztatu 6.1 pracy pedagoga specjalnego F.1. Emisja głosu 15 – 1 – F.2. Kultura języka 30 – 2 – F.3. Pierwsza pomoc 15 – 1 – F.4. Technologie informacyjno--komunikacyjne 30 – 2 – G. Metodologia badań naukowych * 120 – 13 – Razem 2630, a wprzypadkulogopedii- 3030 1065 300 90 * Zajęcia określa uczelnia w programie studiów w sposób zapewniający przygotowanie merytoryczne i psychologiczno-pedagogiczne do wykonywania zawodu nauczyciela pedagoga specjalnego, nauczyciela logopedy lub nauczyciela prowadzącego zajęcia wczesnego wspomagania rozwoju dziecka.
+MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS
+Grupy zajęć, w ramach
+których osiąga się
+szczegółowe efekty
+uczenia się Zajęcia Liczba godzin Liczba punktów ECTS studia studia podyplomowe studia studia podyplomowe A. Kształcenie ogólne A.1. W zakresie filozofii, nauk socjologicznych i innych dyscyplin naukowych w dziedzinach nauk humanistycznych i nauk społecznych 90 – 12 – B. Przygotowanie psychologiczno-pedagogiczne B.1. Ogólne przygotowanie psychologiczne 90 – 12 – B.2. Ogólne przygotowanie pedagogiczne 90 – 12 – B.3. Praktyki zawodowe 30 – 3 – C. Kształcenie kierunkowe C.1. Przygotowanie merytoryczne 400 – 50 – C.2. Przygotowanie psychologiczne do pracy z dziećmi i uczniami ze specjalnymi potrzebami edukacyjnymi 90 60 12 6 C.3. Przygotowanie pedagogiczne do pracy z dziećmi i uczniami ze specjalnymi potrzebami edukacyjnymi 90 60 12 6 C.4. Przygotowanie pedagogiczne do pracy z osobami dorosłymi z niepełnosprawnościami 90 – 12 – C.5. Dydaktyka specjalna 60 30 8 4 C.6. Diagnostyka
+w pedagogice specjalnej 60 30 8 4 C.7. Praktyki zawodowe 60 60 8 4 D. Edukacja włączająca D.1. Teorie edukacji integracyjnej i włączającej 60 30 8 4 D.2. Diagnoza specjalnych potrzeb edukacyjnych, planowanie, realizacja i monitoring działań wspierających 90 60 12 6 D.3. Metodyka kształcenia w grupach zróżnicowanych 120 75 12 8 D.4. Programy wychowawcze w edukacji integracyjnej i włączającej 60 30 6 4 D.5. Organizacja edukacji włączającej 60 – 6 – D.6. Praktyki zawodowe 120 120 4 6 E. Przygotowanie w poszczególnych zakresach
+pedagogiki specjalnej: E.S. Edukacja
+i rehabilitacja osób
+z niepełnosprawnością
+słuchową
+(surdopedagogika) E.T. Edukacja
+i rehabilitacja osób
+z niepełnosprawnością
+wzrokową
+(tyflopedagogika) E.I. Edukacja
+i rehabilitacja osób
+z niepełnosprawnością
+intelektualną E.R. Pedagogika
+resocjalizacyjna E.L. Logopedia E.K. Pedagogika
+korekcyjna (terapia
+pedagogiczna) E.LT. Pedagogika leczniczo--terapeutyczna E.WW. Wczesne
+wspomaganie rozwoju dziecka E.A. Edukacja i terapia
+osób z zaburzeniami
+ze spektrum autyzmu E.1. Przygotowanie merytoryczne 400,
+a
+w zakresie
+logopedii
+800 240 50 20 E.2. Przygotowanie dydaktyczno-metodyczne 240 150 30 12 E.3. Praktyki zawodowe 120 120 4 6 F. Wsparcie warsztatu 6.1 pracy pedagoga specjalnego F.1. Emisja głosu 15 – 1 – F.2. Kultura języka 30 – 2 – F.3. Pierwsza pomoc 15 – 1 – F.4. Technologie informacyjno--komunikacyjne 30 – 2 – G. Metodologia badań naukowych * 120 – 13 – Razem 2630,
+a w
+przypadku
+logopedii
+3030 1065 300 90
+* Zajęcia określa uczelnia w programie studiów w sposób zapewniający przygotowanie merytoryczne i psychologiczno-pedagogiczne do wykonywania zawodu nauczyciela pedagoga specjalnego, nauczyciela logopedy lub nauczyciela prowadzącego zajęcia wczesnego wspomagania rozwoju dziecka.
 3.1.
 Program studiów podyplomowych, w ramach których jest realizowane kształcenie przygotowujące do wykonywania zawodu nauczyciela w grupach zajęć, o których mowa w ust. 2.5–2.7, zapewnia osiągnięcie takich samych efektów uczenia się jak program studiów.
 3.2.

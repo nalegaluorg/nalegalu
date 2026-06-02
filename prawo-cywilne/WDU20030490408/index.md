@@ -22,11 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-02-14 |
 | Data wydania | 2003-03-24 |
-| Wejście w życie | 2003-09-25 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030490408) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/408/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.) wprowadza się następujące zmiany:
+Przedsiębiorcy i ich oznaczenia
+Prokura
+
+**Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.Zmiany ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638 oraz z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176.) wprowadza się następujące zmiany:
 
 - **1)** po art. 22 dodaje się art. 221 w brzmieniu: „
 
@@ -51,7 +53,7 @@ source: "eli-html"
 
 - **4)** w księdze pierwszej w tytule II po art. 43 dodaje się dział III w brzmieniu: „
 
-### Dział III Przedsiębiorcy i ich oznaczenia
+### Dział III
 
 **Art. 431.** Przedsiębiorcą jest osoba fizyczna, osoba prawna i jednostka organizacyjna, o której mowa w art. 331 § 1, prowadząca we własnym imieniu działalność gospodarczą lub zawodową.
 
@@ -274,7 +276,7 @@ source: "eli-html"
 - **25)** po art. 97 dodaje się wyrazy „Rozdział II. Pełnomocnictwo”;
 - **26)** po art. 109 dodaje się rozdział III w brzmieniu: „
 
-#### Rozdział III Prokura
+#### Rozdział III
 
 **Art. 1091.**
 
@@ -405,7 +407,7 @@ source: "eli-html"
 
 § 5. Jeżeli akt notarialny w swej treści zawiera zrzeczenie się własności nieruchomości, notariusz, który go sporządził, jest obowiązany przesłać z urzędu wypis tego aktu gminie, której własnością nieruchomość staje się na skutek zrzeczenia. ” .
 
-**Art. 4.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2001 r. Nr 57, poz. 603, z późn. zm.) w art. 17b ust. 3 otrzymuje brzmienie: „ 3. Użytkownik wieczysty nieruchomości może zrzec się swego prawa przez złożenie Agencji oświadczenia w formie aktu notarialnego. W takim przypadku użytkowanie wieczyste wygasa. Oświadczenie stanowi podstawę do wykreślenia w księdze wieczystej prawa wieczystego użytkowania. ” .
+**Art. 4.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2001 r. Nr 57, poz. 603, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, Nr 122, poz. 1323 i Nr 154, poz. 1793 i 1800, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676 i Nr 155, poz. 1287 oraz z 2003 r. Nr 6, poz. 64.) w art. 17b ust. 3 otrzymuje brzmienie: „ 3. Użytkownik wieczysty nieruchomości może zrzec się swego prawa przez złożenie Agencji oświadczenia w formie aktu notarialnego. W takim przypadku użytkowanie wieczyste wygasa. Oświadczenie stanowi podstawę do wykreślenia w księdze wieczystej prawa wieczystego użytkowania. ” .
 
 **Art. 5.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2001 r. Nr 17, poz. 209 i Nr 110, poz. 1189 oraz z 2002 r. Nr 1, poz. 2 i Nr 113, poz. 984) wprowadza się następujące zmiany:
 
@@ -434,5 +436,5 @@ source: "eli-html"
 
 **Art. 9.** Z dniem wejścia w życie ustawy tracą moc przepisy dotyczące firmy i prokury zawarte w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 27 czerwca 1934 r. – Kodeks handlowy (Dz. U. Nr 57, poz. 502, z 1946 r. Nr 57, poz. 321, z 1950 r. Nr 34, poz. 312, z 1964 r. Nr 16, poz. 94, z 1988 r. Nr 41, poz. 326, z 1990 r. Nr 17, poz. 98 i Nr 51, poz. 298, z 1991 r. Nr 35, poz. 155, Nr 94, poz. 418 i Nr 111, poz. 480, z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 96, poz. 478, z 1996 r. Nr 6, poz. 43, z 1997 r. Nr 88, poz. 554, Nr 118, poz. 754 i Nr 121, poz. 769 i 770, z 1999 r. Nr 101, poz. 1178, z 2000 r. Nr 60, poz. 702 i Nr 94, poz. 1037 oraz z 2001 r. Nr 49, poz. 508).
 
-**Art. 10.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z tym że art. 6471 i art. 6851 ustawy, o której mowa w art. 1, wchodzą w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 10.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z tym że art. 6471 i art. 6851 ustawy, o której mowa w art. 1, wchodzą w życie po upływie 30 dni od dnia ogłoszenia. 2) Zmiany ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638 oraz z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, Nr 122, poz. 1323 i Nr 154, poz. 1793 i 1800, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676 i Nr 155, poz. 1287 oraz z 2003 r. Nr 6, poz. 64.
 

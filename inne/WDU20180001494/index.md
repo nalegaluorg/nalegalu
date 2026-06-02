@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 26 lipca 2018 r. w sprawie zakresu i warunków przyznawania świadczeń przysługujących nauczycielom polskim skierowanym lub delegowanym do pracy za granicą
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 26 lipca 2018 r. w sprawie zakresu i warunków przyznawania świadczeń przysługujących nauczycielom polskim skierowanym lub delegowanym do pracy za granicą Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-26 |
 | Data wydania | 2018-08-06 |
-| Wejście w życie | 2018-08-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001494) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1494/text.pdf) |
 
@@ -33,12 +32,11 @@ Rozporządzenie określa zakres i warunki przyznawania świadczeń nauczycielom 
 1)
 wspomagania nauczania języka polskiego, historii, geografii, kultury polskiej oraz innych przedmiotów nauczanych w języku polskim wśród Polonii i Polaków zamieszkałych za granicą oraz dzieci pracowników migrujących,
 2)
-kształcenia dzieci obywateli polskich czasowo przebywających za granicą,
-zwanym dalej „nauczycielami”.
+kształcenia dzieci obywateli polskich czasowo przebywających za granicą, zwanym dalej „nauczycielami”.
 § 2.
 Nauczycielom przysługuje:
 1)
-ryczałt na pokrycie części kosztów utrzymania i zakwaterowania, a w przypadku nauczycieli, o których mowa w § 1 pkt 1, także na pokrycie kosztów składek na ubezpieczenia emerytalne, rentowe, Fundusz Pracy oraz dobrowolne ubezpieczenie zdrowotne, o którym mowa w art. 68 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.), lub na pokrycie kosztów polisy ubezpieczenia zdrowotnego odpowiadającej zakresowi dobrowolnego ubezpieczenia zdrowotnego, jeżeli nauczyciel został skierowany do państwa niebędącego państwem członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, zwany dalej „ryczałtem”;
+ryczałt na pokrycie części kosztów utrzymania i zakwaterowania, a w przypadku nauczycieli, o których mowa w § 1 pkt 1, także na pokrycie kosztów składek na ubezpieczenia emerytalne, rentowe, Fundusz Pracy oraz dobrowolne ubezpieczenie zdrowotne, o którym mowa w art. 68 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697, 730, 771, 858, 912, 932, 1115 i 1128.), lub na pokrycie kosztów polisy ubezpieczenia zdrowotnego odpowiadającej zakresowi dobrowolnego ubezpieczenia zdrowotnego, jeżeli nauczyciel został skierowany do państwa niebędącego państwem członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, zwany dalej „ryczałtem”;
 2)
 jednorazowy zasiłek adaptacyjny;
 3)
@@ -85,6 +83,5 @@ Nauczyciele skierowani do pracy za granicą w celu wspomagania nauczania histori
 3.
 Nauczyciele delegowani do pracy za granicą w celu kształcenia dzieci obywateli polskich czasowo przebywających za granicą przed dniem wejścia w życie rozporządzenia, zachowują prawo do przyznanych świadczeń do zakończenia okresu, na który zostały przyznane.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697, 730, 771, 858, 912, 932, 1115 i 1128. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 24 września 2009 r. w sprawie zakresu i warunków przyznawania świadczeń przysługujących nauczycielom polskim skierowanym lub delegowanym do pracy za granicą (Dz. U. poz. 1307), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 24 września 2009 r. w sprawie zakresu i warunków przyznawania świadczeń przysługujących nauczycielom polskim skierowanym lub delegowanym do pracy za granicą (Dz. U. poz. 1307), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203). 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697, 730, 771, 858, 912, 932, 1115 i 1128. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 24 września 2009 r. w sprawie zakresu i warunków przyznawania świadczeń przysługujących nauczycielom polskim skierowanym lub delegowanym do pracy za granicą (Dz. U. poz. 1307), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203).
 

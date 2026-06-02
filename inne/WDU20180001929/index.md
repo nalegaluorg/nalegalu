@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-13 |
 | Data wydania | 2018-10-08 |
-| Wejście w życie | 2018-10-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001929) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1929/text.pdf) |
 
@@ -35,7 +34,7 @@ source: "eli-html"
 - **1)** świnie, od których pochodzi mięso lub produkty mięsne, są zaopatrzone w świadectwo zdrowia wystawione przez urzędowego lekarza weterynarii na podstawie przepisów odrębnych;
 - **2)** zamówienie jest udzielane podmiotom produkującym mięso lub produkty mięsne zgodnie z przepisami dotyczącymi produkcji produktów pochodzenia zwierzęcego pochodzących z obszarów podlegających ograniczeniom, nakazom lub zakazom lub przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt;
 - **3)** mięso lub produkty mięsne spełniają wymagania weterynaryjne określone w przepisach o produktach pochodzenia zwierzęcego;
-- **4)** podmioty, o których mowa w pkt 2, nabyły świnie po cenach netto nie niższych niż: ceny zakupu netto masy poubojowej ciepłej w odpowiedniej klasie skali klasyfikacji EUROP w regionie, w którym świnie zostały nabyte, lub średnia cena netto dla wszystkich klas w masie żywej w regionie, w którym świnie zostały nabyte opublikowanych w tygodniu poprzedzającym tydzień, w którym dokonano nabycia, w biuletynie informacyjnym urzędu obsługującego Ministra Rolnictwa i Rozwoju Wsi wydawanym na podstawie przepisów o rolniczych badaniach rynkowych;
+- **4)** podmioty, o których mowa w pkt 2, nabyły świnie po cenach netto nie niższych niż: ceny zakupu netto masy poubojowej ciepłej w odpowiedniej klasie skali klasyfikacji EUROP w regionie, w którym świnie zostały nabyte, lub średnia cena netto dla wszystkich klas w masie żywej w regionie, w którym świnie zostały nabyte – opublikowanych w tygodniu poprzedzającym tydzień, w którym dokonano nabycia, w biuletynie informacyjnym urzędu obsługującego Ministra Rolnictwa i Rozwoju Wsi wydawanym na podstawie przepisów o rolniczych badaniach rynkowych;
     - **a)**
     - **b)**
 
@@ -49,7 +48,7 @@ source: "eli-html"
 1. Jednostki sektora finansów publicznych, udzielając zamówień na dostawę:
 
 - **1)** mięsa wieprzowego lub
-- **2)** produktów z mięsa wieprzowego, które co do rodzaju, składu lub właściwości spełniają wymagania odpowiadające lub podobne do wymagań określonych w przepisach wydanych na podstawie art. 4 w pierwszej kolejności udzielają takich zamówień na dostawy mięsa lub produktów mięsnych. ” .
+- **2)** produktów z mięsa wieprzowego, które co do rodzaju, składu lub właściwości spełniają wymagania odpowiadające lub podobne do wymagań określonych w przepisach wydanych na podstawie art. 4 – w pierwszej kolejności udzielają takich zamówień na dostawy mięsa lub produktów mięsnych. ” .
 
 **Art. 2.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1 zachowują moc i mogą być zmieniane na podstawie tego przepisu.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-23 |
 | Data wydania | 2021-04-28 |
-| Wejście w życie | 2021-05-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000781) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/781/text.pdf) |
 
@@ -39,8 +38,7 @@ studia drugiego stopnia,
 c)
 jednolite studia magisterskie,
 d)
-studia podyplomowe
-zwanej dalej „pomocą finansową”;
+studia podyplomowe – zwanej dalej „pomocą finansową”;
 2)
 właściwość podmiotów w zakresie przyznawania pomocy finansowej;
 3)
@@ -65,8 +63,7 @@ Pomoc finansowa jest wypłacana w sposób określony we wniosku o jej przyznanie
 1)
 weteranowi poszkodowanemu-funkcjonariuszowi ABW przez jednostkę organizacyjną ABW właściwą w sprawach finansowych,
 2)
-weteranowi poszkodowanemu-funkcjonariuszowi AW przez jednostkę organizacyjną AW właściwą w sprawach finansowych
-ze środków pozostających w dyspozycji odpowiednio Szefa ABW albo Szefa AW.
+weteranowi poszkodowanemu-funkcjonariuszowi AW przez jednostkę organizacyjną AW właściwą w sprawach finansowych – ze środków pozostających w dyspozycji odpowiednio Szefa ABW albo Szefa AW.
 2.
 Jeżeli pomoc finansowa została przyznana przed upływem pierwszego semestru nauki w danym roku akademickim, jej wypłata następuje w dwóch ratach, w wysokości odpowiedniej do opłat za naukę ustalonych za poszczególne semestry:
 1)
@@ -124,5 +121,5 @@ weterana poszkodowanego-funkcjonariusza ABW, złożony do Szefa ABW;
 2)
 weterana poszkodowanego-funkcjonariusza AW, złożony do Szefa AW.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 19 września 2012 r. w sprawie przyznawania pomocy finansowej na kształcenie dla weteranów poszkodowanych-funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego zwolnionych ze służby (Dz. U. poz. 1054), które na podstawie art. 19 ust. 1 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) utraciło moc z dniem 11 października 2020 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 19 września 2012 r. w sprawie przyznawania pomocy finansowej na kształcenie dla weteranów poszkodowanych-funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego zwolnionych ze służby (Dz. U. poz. 1054), które na podstawie art. 19 ust. 1 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) utraciło moc z dniem 11 października 2020 r.
 

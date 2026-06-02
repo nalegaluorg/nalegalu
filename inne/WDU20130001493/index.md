@@ -22,14 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-26 |
 | Data wydania | 2013-12-10 |
-| Wejście w życie | 2013-12-25 |
 | Ostatnia zmiana | 2025-10-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001493) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1493/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Okres pełnienia czynności lotniczych przez członków załóg w przewozie lotniczym przy użyciu śmigłowca Rozdział 3 – Okres pełnienia czynności lotniczych w śmigłowcowej służbie ratownictwa medycznego Rozdział 4 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Załącznik – Maksymalny okres pełnienia czynności lotniczych przez członka załogi w przewozie lotniczym przy użyciu śmigłowca oraz maksymalny czas lotu w załodze jedno- i dwuosobowej (nie dotyczy lotów HEMS)
 Treść rozporządzenia
 Na podstawie art. 103c ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2013 r. poz. 1393) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -41,8 +41,7 @@ okresy wypoczynku należne w związku z pełnieniem czynności lotniczych,
 4)
 ograniczenia czasu lotu,
 5)
-formy pełnienia gotowości oraz warunki ich wliczania do czasu pracy
-w odniesieniu do członków załóg statków powietrznych w przewozie lotniczym przy użyciu śmigłowca oraz w śmigłowcowej służbie ratownictwa medycznego.
+formy pełnienia gotowości oraz warunki ich wliczania do czasu pracy – w odniesieniu do członków załóg statków powietrznych w przewozie lotniczym przy użyciu śmigłowca oraz w śmigłowcowej służbie ratownictwa medycznego.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -69,6 +68,7 @@ a)
 czasu na podróż z prywatnego miejsca wypoczynku do wyznaczonego miejsca stawienia się w bazie macierzystej i z powrotem,
 b)
 czasu na transfer miejscowy z miejsca wypoczynku do miejsca podjęcia czynności lotniczych i z powrotem.
+Okres pełnienia czynności lotniczych przez członków załóg w przewozie lotniczym przy użyciu śmigłowca
 § 3.
 1.
 Okres pełnienia czynności lotniczych (FDP – Flight Duty Period) rozpoczyna się w chwili, gdy przewoźnik lotniczy wymaga od członka załogi zgłoszenia się do lotu lub serii lotów, a kończy wraz z zakończeniem ostatniego lotu i wypełnieniem obowiązków związanych z tym lotem.
@@ -133,6 +133,7 @@ Gotowość pełniona w bazie operacyjnej albo innym miejscu wyznaczonym przez pr
 Jeżeli w okresie pełnienia gotowości w bazie operacyjnej albo innym miejscu wyznaczonym przez przewoźnika lotniczego następuje podjęcie czynności lotniczych, do okresu pełnienia czynności lotniczych wlicza się 1/2 okresu odbytej gotowości.
 2.
 Jeżeli w okresie pełnienia gotowości w warunkach domowych następuje podjęcie czynności lotniczych, do okresu pełnienia czynności lotniczych wlicza się 1/4 okresu odbytej gotowości.
+Okres pełnienia czynności lotniczych w śmigłowcowej służbie ratownictwa medycznego
 § 12.
 Czas lotów pilota i członka załogi HEMS nie może przekroczyć 8 godzin w ciągu następujących po sobie 24 godzin.
 § 13.
@@ -144,18 +145,27 @@ Minimalny okres wypoczynku pilota i członka załogi HEMS w bazie macierzystej, 
 Równoważny okres wyrównawczego wypoczynku, o którym mowa w ust. 1, odpowiada długości poprzedzającego wypoczynek okresu pełnienia czynności lotniczych, albo sumie 11 godzin i różnicy między 11 godzinami a okresem wypoczynku wykorzystanego przed okresem pełnienia czynności lotniczych, w zależności od tego, która z tych wartości jest większa.
 § 15.
 Do śmigłowcowej służby ratownictwa medycznego stosuje się odpowiednio przepisy § 3 ust. 1–3, § 10 i 11.
+Przepisy przejściowe i końcowe
 § 16.
 Śmigłowcowa służba ratownictwa medycznego oraz przewoźnik lotniczy świadczący usługi przewozu lotniczego przy użyciu śmigłowca przed dniem wejścia w życie rozporządzenia stosują określone w rozporządzeniu warunki rozliczania czasu pracy członków załóg statków powietrznych w przewozie lotniczym przy użyciu śmigłowca oraz w śmigłowcowej służbie ratownictwa medycznego nie później niż po upływie jednego pełnego okresu rozliczeniowego rozpoczynającego się po dniu wejścia w życie rozporządzenia.
 § 17.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 13 grudnia 2002 r. w sprawie czasu pracy i wypoczynku członków załóg statków powietrznych oraz kontrolerów ruchu lotniczego (Dz. U. Nr 219, poz. 1841), które na podstawie art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. Nr 170, poz. 1015) utraciło moc z dniem 19 marca 2013 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 13 grudnia 2002 r. w sprawie czasu pracy i wypoczynku członków załóg statków powietrznych oraz kontrolerów ruchu lotniczego (Dz. U. Nr 219, poz. 1841), które na podstawie art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. Nr 170, poz. 1015) utraciło moc z dniem 19 marca 2013 r.
 Załącznik – Maksymalny okres pełnienia czynności lotniczych przez członka załogi w przewozie lotniczym przy użyciu śmigłowca oraz maksymalny czas lotu w załodze jedno- i dwuosobowej (nie dotyczy lotów HEMS)
 Lokalny czas startu Załoga jednoosobowa Załoga dwuosobowa maksymalny okres pełnienia czynności lotniczych maksymalny czas lotu maksymalny okres pełnienia czynności lotniczych maksymalny czas lotu 0600–0659 9 godzin 6 godzin 10 godzin 7 godzin 0700–0759 10 godzin 7 godzin 11 godzin 8 godzin 0800–1359 10 godzin 7 godzin 12 godzin 8 godzin 1400–2159 9 godzin 6 godzin 10 godzin 7 godzin 2200–0559 8 godzin 5 godzin 9 godzin 6 godzin
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Okres pełnienia czynności lotniczych przez członków załóg w przewozie lotniczym przy użyciu śmigłowca
+#### Rozdział 2 – Okres pełnienia czynności lotniczych przez członków załóg w przewozie lotniczym przy użyciu śmigłowca
 
-#### Rozdział 3 Okres pełnienia czynności lotniczych w śmigłowcowej służbie ratownictwa medycznego
+#### Rozdział 3 – Okres pełnienia czynności lotniczych w śmigłowcowej służbie ratownictwa medycznego
 
-#### Rozdział 4 Przepisy przejściowe i końcowe
+#### Rozdział 4 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

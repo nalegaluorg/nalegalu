@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-17 |
 | Data wydania | 2017-02-28 |
-| Wejście w życie | 2017-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000402) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/402/text.pdf) |
 
@@ -143,5 +142,5 @@ Dowódca statku powietrznego, w trakcie przygotowania do lotu, jednak nie późn
 8.
 Dowódca statku powietrznego nie informuje uprawnionych uczestniczących w danym locie o miejscach zajmowanych przez funkcjonariuszy Straży Granicznej pełniących wartę ochronną, o której mowa w art. 186a ust. 1 ustawy.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
+Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 5 września 2016 r. w sprawie wnoszenia broni palnej lub środków przymusu bezpośredniego na pokład statku powietrznego przez uprawnionych żołnierzy i funkcjonariuszy (Dz. U. poz. 1412), które traci moc z dniem 1 marca 2017 r. w związku z wejściem w życie art. 69 pkt 2 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 5 września 2016 r. w sprawie wnoszenia broni palnej lub środków przymusu bezpośredniego na pokład statku powietrznego przez uprawnionych żołnierzy i funkcjonariuszy (Dz. U. poz. 1412), które traci moc z dniem 1 marca 2017 r. w związku z wejściem w życie art. 69 pkt 2 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379).
 

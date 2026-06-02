@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-30 |
 | Data wydania | 2018-06-07 |
-| Wejście w życie | 2018-06-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001093) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1093/text.pdf) |
 
@@ -112,5 +111,5 @@ identyfikator pracownika medycznego wprowadzającego dane do rejestru, o którym
 § 7.
 Dane przekazane do Instytutu „Pomnik – Centrum Zdrowia Dziecka” w Warszawie w okresie od dnia 1 stycznia 2018 r. do dnia wejścia w życie niniejszego rozporządzenia zgodnie z wymaganiami określonymi w rozporządzeniu Ministra Zdrowia z dnia 4 marca 2016 r. w sprawie Krajowego Rejestru Operacji Kardiochirurgicznych (Dz. U. poz. 317) uważa się za przekazane w sposób zgodny z wymaganiami niniejszego rozporządzenia.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 4 marca 2016 r. w sprawie Krajowego Rejestru Operacji Kardiochirurgicznych (Dz. U. poz. 317), które utraciło moc z dniem 1 stycznia 2018 r. zgodnie z art. 7 ustawy z dnia 20 lipca 2017 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw (Dz. U. poz. 1524). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 4 marca 2016 r. w sprawie Krajowego Rejestru Operacji Kardiochirurgicznych (Dz. U. poz. 317), które utraciło moc z dniem 1 stycznia 2018 r. zgodnie z art. 7 ustawy z dnia 20 lipca 2017 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw (Dz. U. poz. 1524).
 

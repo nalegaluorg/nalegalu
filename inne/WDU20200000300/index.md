@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 stycznia 2020 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz niektórych innych ustaw
+# Ustawa z dnia 23 stycznia 2020 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, ustawę z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt, ustawę z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego oraz ustawę z dnia 10 stycznia 2018 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-23 |
 | Data wydania | 2020-02-25 |
-| Wejście w życie | 2020-03-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000300) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/300/text.pdf) |
 
@@ -78,7 +77,7 @@ source: "eli-html"
 
 **Art. 4.** W ustawie z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2018 r. poz. 1312 oraz z 2019 r. poz. 1824) wprowadza się następujące zmiany:
 
-- **1)** w art. 22 w ust. 2 w pkt 1 lit. a otrzymuje brzmienie: „ działania, o którym mowa w art. 22 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.), zwanego dalej „rozporządzeniem nr 1305/2013”, w zakresie rocznych premii, o których mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013, oraz działań, o których mowa w art. 28, art. 29, art. 31 i art. 33 rozporządzenia nr 1305/2013, objętych Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, ” ;
+- **1)** w art. 22 w ust. 2 w pkt 1 lit. a otrzymuje brzmienie: „ działania, o którym mowa w art. 22 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 1, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 30 z 02.02.2018, str. 6, Dz. Urz. UE L 16 z 18.01.2019, str. 1 i Dz. Urz. UE L 53 z 22.02.2019, str. 14., zwanego dalej „rozporządzeniem nr 1305/2013”, w zakresie rocznych premii, o których mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013, oraz działań, o których mowa w art. 28, art. 29, art. 31 i art. 33 rozporządzenia nr 1305/2013, objętych Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, ” ;
     - **a)**
 
 - **2)** w art. 25 w pkt 1 lit. b otrzymuje brzmienie: „ działań, o których mowa w art. 28, art. 29, art. 31 i art. 33 rozporządzenia nr 1305/2013 ” .
@@ -130,5 +129,5 @@ source: "eli-html"
 
 5. Termin, o którym mowa w ust. 3, nie podlega przywróceniu. ” . Dotychczasowe przepisy wykonawcze wydane na podstawie art. 42 ust. 6 pkt 1 ustawy zmienianej w art. 1 zachowują moc i mogą być zmieniane lub uchylane na podstawie art. 42 ust. 6 pkt 1 ustawy zmienianej w art. 1.
 
-**Art. 7.** Ustawa wchodzi w życie z dniem 15 marca 2020 r., z wyjątkiem art. 5, który wchodzi w życie z dniem 1 marca 2020 r.
+**Art. 7.** Ustawa wchodzi w życie z dniem 15 marca 2020 r., z wyjątkiem art. 5, który wchodzi w życie z dniem 1 marca 2020 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, ustawę z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt, ustawę z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego oraz ustawę z dnia 10 stycznia 2018 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 1, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 30 z 02.02.2018, str. 6, Dz. Urz. UE L 16 z 18.01.2019, str. 1 i Dz. Urz. UE L 53 z 22.02.2019, str. 14.
 

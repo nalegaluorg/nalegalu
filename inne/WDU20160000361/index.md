@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-03-17 |
 | Data wydania | 2016-03-17 |
-| Wejście w życie | 2016-03-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000361) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/361/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 79 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. poz. 271, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 79 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. poz. 271, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. poz. 1505 i 1570, z 2009 r. poz. 97, 206, 753, 788 i 817, z 2010 r. poz. 513 i 679, z 2011 r. poz. 322, 451, 622, 654, 657 i 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28, 277, 788, 875, 1771, 1830, 1918, 1926 i 1991.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 13 marca 2015 r. w sprawie wymagań Dobrej Praktyki Dystrybucyjnej (Dz. U. poz. 381) § 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Zdrowia z dnia 13 marca 2015 r. w sprawie wymagań Dobrej Praktyki Dystrybucyjnej (Dz. U. poz. 381) § 2 otrzymuje brzmienie: „
 § 2.
-Przedsiębiorcy prowadzący w dniu wejścia w życie rozporządzenia obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, dostosują się do wymagań określonych w rozporządzeniu w terminie 15 miesięcy od dnia wejścia w życie rozporządzenia.
-” .
+Przedsiębiorcy prowadzący w dniu wejścia w życie rozporządzenia obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, dostosują się do wymagań określonych w rozporządzeniu w terminie 15 miesięcy od dnia wejścia w życie rozporządzenia. ” .
 § 3.
-Rozporządzenie wchodzi w życie z dniem 18 marca 2016 r.
+Rozporządzenie wchodzi w życie z dniem 18 marca 2016 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. poz. 1505 i 1570, z 2009 r. poz. 97, 206, 753, 788 i 817, z 2010 r. poz. 513 i 679, z 2011 r. poz. 322, 451, 622, 654, 657 i 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28, 277, 788, 875, 1771, 1830, 1918, 1926 i 1991.
 

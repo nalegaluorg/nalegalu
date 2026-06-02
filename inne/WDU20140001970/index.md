@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-31 |
 | Data wydania | 2014-12-31 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2025-08-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001970) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1970/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 41 ust. 5 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 41 ust. 5 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645 oraz z 2014 r. poz. 598, 877, 1198, 1457 i 1873.) zarządza się, co następuje:
 § 1.
 1.
 Rozporządzenie określa szczegółowe warunki i tryb udzielania pracodawcom pomocy, w formie refundacji kosztów szkolenia zatrudnionych osób niepełnosprawnych, o której mowa w art. 41 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, zwanej dalej „refundacją”.
@@ -104,7 +103,7 @@ informację o wielkości przedsiębiorcy (mały, średni, duży);
 2)
 numer REGON przedsiębiorcy, o ile obowiązek jego nadania wynika z przepisów prawa;
 3)
-informację o wysokości otrzymanej pomocy publicznej i pomocy de minimis lub oświadczenie o nieotrzymaniu pomocy, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.), w odniesieniu do tych samych kosztów kwalifikujących się do objęcia refundacją.
+informację o wysokości otrzymanej pomocy publicznej i pomocy de minimis lub oświadczenie o nieotrzymaniu pomocy, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.), w odniesieniu do tych samych kosztów kwalifikujących się do objęcia refundacją.
 § 5.
 1.
 Starosta sprawdza wniosek pod względem rachunkowym oraz formalnym.
@@ -162,5 +161,5 @@ Przedsiębiorca korzystający z refundacji przechowuje dokumentację pozwalając
 § 11.
 Rozporządzenie obowiązuje do dnia 30 czerwca 2021 r.
 § 12.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 30 marca 2009 r. w sprawie warunków i trybu dokonywania refundacji kosztów szkolenia pracowników niepełnosprawnych (Dz. U. Nr 57, poz. 472 oraz z 2014 r. poz. 577), które traci moc z dniem 1 stycznia 2015 r. w związku z wejściem w życie ustawy z dnia 28 listopada 2014 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. poz. 1873). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645 oraz z 2014 r. poz. 598, 877, 1198, 1457 i 1873. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 30 marca 2009 r. w sprawie warunków i trybu dokonywania refundacji kosztów szkolenia pracowników niepełnosprawnych (Dz. U. Nr 57, poz. 472 oraz z 2014 r. poz. 577), które traci moc z dniem 1 stycznia 2015 r. w związku z wejściem w życie ustawy z dnia 28 listopada 2014 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. poz. 1873).
 

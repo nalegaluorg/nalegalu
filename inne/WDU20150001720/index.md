@@ -22,14 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-20 |
 | Data wydania | 2015-10-27 |
-| Wejście w życie | 2015-10-31 |
 | Ostatnia zmiana | 2026-04-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001720) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1720/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Warunki i tryb udzielania finansowania zwrotnego w ramach realizacji rządowego programu popierania budownictwa mieszkaniowego oraz wymagania dotyczące wyposażenia technicznego lokali finansowanych w ramach tego programu Rozdział 3 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Załącznik – Kryteria oceny punktowej wniosków
 Treść rozporządzenia
 Na podstawie art. 15b ust. 5 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2013 r. poz. 255 oraz z 2015 r. poz. 1169 i 1582) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -54,6 +54,7 @@ rządowy program popierania budownictwa mieszkaniowego – program, o którym mo
 kredyt – finansowanie zwrotne udzielone przez Bank, w ramach realizacji rządowego programu popierania budownictwa mieszkaniowego, w formie kredytu;
 6)
 emisja obligacji – finansowanie zwrotne udzielone przez Bank, w ramach realizacji rządowego programu popierania budownictwa mieszkaniowego, w formie organizacji emisji obligacji kredytobiorcy oraz nabycia tych obligacji przez Bank.
+Warunki i tryb udzielania finansowania zwrotnego w ramach realizacji rządowego programu popierania budownictwa mieszkaniowego oraz wymagania dotyczące wyposażenia technicznego lokali finansowanych w ramach tego programu
 § 3.
 1.
 Kredyt lub emisja obligacji może dotyczyć wyłącznie przedsięwzięcia inwestycyjno-budowlanego, które zostało rozpoczęte nie wcześniej niż w dniu 1 lipca 2015 r. oraz nie później niż w okresie 2 lat od złożenia wniosku, o którym mowa w § 4 ust. 1.
@@ -64,8 +65,7 @@ podjęcie robót ziemnych w formie wykopów do posadowienia budynku – w przypa
 2)
 podjęcie robót ziemnych w formie wykopów do posadowienia budynku dla kolejnego etapu inwestycji wieloetapowej, której dotyczy jedna decyzja o pozwoleniu na budowę – w przypadku wieloetapowego przedsięwzięcia polegającego na budowie,
 3)
-podjęcie lub wznowienie robót budowlanych – w przypadku przedsięwzięcia polegającego na przebudowie, rozbudowie, nadbudowie, zmianie sposobu użytkowania lub dokończeniu inwestycji będącej w trakcie realizacji
-potwierdzone wpisem do dziennika budowy.
+podjęcie lub wznowienie robót budowlanych – w przypadku przedsięwzięcia polegającego na przebudowie, rozbudowie, nadbudowie, zmianie sposobu użytkowania lub dokończeniu inwestycji będącej w trakcie realizacji – potwierdzone wpisem do dziennika budowy.
 3.
 W przypadku gdy zapotrzebowanie na finansowanie zwrotne wynikające z wniosków złożonych w danym roku przekracza limit środków, o którym mowa w § 6 ust. 1, łączna kwota finansowania zwrotnego udzielonego jednemu kredytobiorcy nie może przekroczyć 15% tych środków.
 § 4.
@@ -76,7 +76,7 @@ Nabór wniosków odbywa się corocznie w okresie od dnia 1 do dnia 30 września,
 3.
 Do wniosku w postaci papierowej dołącza się na etapie jego złożenia:
 1)
-prawomocną decyzję o pozwoleniu na budowę albo zgłoszenie właściwemu organowi wykonywania robót budowalnych, do którego nie wniesiono sprzeciwu – zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.);
+prawomocną decyzję o pozwoleniu na budowę albo zgłoszenie właściwemu organowi wykonywania robót budowalnych, do którego nie wniesiono sprzeciwu – zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151, 200, 443, 528, 774, 1165, 1265, 1549 i 1642.);
 2)
 poświadczoną za zgodność z oryginałem kopię umowy, o której mowa w art. 15a ust. 3 ustawy;
 3)
@@ -151,8 +151,7 @@ informacji dotyczącej wysokości należności czynszowych i terminowości ich r
 4)
 oświadczenia o posiadanych zasobach własnych i kredytowanych z Krajowego Funduszu Mieszkaniowego, innych lokalach mieszkalnych, lokalach usługowych, garażach i miejscach postojowych, za ostatni rok obrachunkowy,
 5)
-oświadczenia o liczbie pustostanów w zasobach własnych za ostatni rok obrachunkowy
-sporządzonych na formularzach udostępnionych przez Bank.
+oświadczenia o liczbie pustostanów w zasobach własnych za ostatni rok obrachunkowy – sporządzonych na formularzach udostępnionych przez Bank.
 § 6.
 1.
 Bank, w terminie do dnia 1 marca każdego roku, publikuje w Biuletynie Informacji Publicznej informację o limicie środków finansowania zwrotnego, przeznaczonych na udzielanie kredytów lub emisję obligacji w danym roku, uwzględniając:
@@ -185,8 +184,7 @@ W terminie od dnia 1 stycznia do dnia 28 lutego roku następującego po roku, w 
 1)
 złożone przez nich wnioski zostały umieszczone na liście, o której mowa w § 6 ust. 3 lub 7,
 2)
-całkowita wartość finansowania zwrotnego wynikająca ze złożonych przez nich wniosków mieści się w limicie środków, o którym mowa w § 6 ust. 1
-o terminie złożenia dokumentów niezbędnych do podjęcia decyzji kredytowej wskazanych w § 4 ust. 4.
+całkowita wartość finansowania zwrotnego wynikająca ze złożonych przez nich wniosków mieści się w limicie środków, o którym mowa w § 6 ust. 1 – o terminie złożenia dokumentów niezbędnych do podjęcia decyzji kredytowej wskazanych w § 4 ust. 4.
 § 8.
 Okres wypłaty kredytu albo środków z emisji obligacji nie może być dłuższy niż 24 miesiące, licząc od dnia zawarcia umowy kredytu albo umowy emisji obligacji.
 § 9.
@@ -231,9 +229,9 @@ koszty ubezpieczenia nieruchomości w trakcie realizacji przedsięwzięcia inwes
 6)
 wkład we wspólne koszty stałe kredytobiorcy w części wyliczonej na podstawie procentowego udziału powierzchni powstałej w wyniku realizowanego przedsięwzięcia inwestycyjno-budowlanego w powierzchni całkowitej lokali mieszkalnych będących własnością kredytobiorcy.
 5.
-Kosztami przedsięwzięcia inwestycyjno-budowlanego są również koszty wykonania garaży dla samochodów osobowych lub miejsc postojowych w garażu wielostanowiskowym, zlokalizowanych w obrębie finansowanej nieruchomości, w liczbie nieprzekraczającej minimalnej liczby wynikającej z ustaleń miejscowego planu zagospodarowania przestrzennego lub decyzji o warunkach zabudowy oraz przypadającej na finansowanie w ramach przedsięwzięcia inwestycyjno-budowlanego – w wysokości nieuwzględniającej podatku od towarów i usług w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.) w części, w jakiej kredytobiorcy przysługiwało prawo do odliczenia tego podatku.
+Kosztami przedsięwzięcia inwestycyjno-budowlanego są również koszty wykonania garaży dla samochodów osobowych lub miejsc postojowych w garażu wielostanowiskowym, zlokalizowanych w obrębie finansowanej nieruchomości, w liczbie nieprzekraczającej minimalnej liczby wynikającej z ustaleń miejscowego planu zagospodarowania przestrzennego lub decyzji o warunkach zabudowy oraz przypadającej na finansowanie w ramach przedsięwzięcia inwestycyjno-budowlanego – w wysokości nieuwzględniającej podatku od towarów i usług w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35, 1027 i 1608, z 2014 r. poz. 312, 1171 i 1662 oraz z 2015 r. poz. 211, 605, 978, 1223 i 1649.) w części, w jakiej kredytobiorcy przysługiwało prawo do odliczenia tego podatku.
 6.
-Do kosztów nabycia nieruchomości pod budowę, o których mowa w ust. 4 pkt 1 lit. b, zalicza się również wartość nieruchomości, jeżeli została ona wniesiona jako wkład niepieniężny i jest przeznaczona do realizacji przedsięwzięcia inwestycyjno-budowlanego. Wartość nieruchomości ustala się zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2015 r. poz. 782, z późn. zm.) na podstawie operatu szacunkowego sporządzonego przez rzeczoznawcę majątkowego dla celów zabezpieczenia wierzytelności Banku.
+Do kosztów nabycia nieruchomości pod budowę, o których mowa w ust. 4 pkt 1 lit. b, zalicza się również wartość nieruchomości, jeżeli została ona wniesiona jako wkład niepieniężny i jest przeznaczona do realizacji przedsięwzięcia inwestycyjno-budowlanego. Wartość nieruchomości ustala się zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2015 r. poz. 782, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 985, 1039, 1180, 1265 i 1322.) na podstawie operatu szacunkowego sporządzonego przez rzeczoznawcę majątkowego dla celów zabezpieczenia wierzytelności Banku.
 7.
 Do kosztów nabycia nieruchomości pod budowę, o których mowa w ust. 4 pkt 1 lit. b, zalicza się wartość nieruchomości gruntowej wniesionej jako wkład niepieniężny, do wysokości 20% całkowitych kosztów przedsięwzięcia inwestycyjno-budowlanego.
 8.
@@ -249,7 +247,7 @@ wartość nieruchomości gruntowej, jeżeli została wniesiona jako wkład niepi
 9.
 W przypadku gdy kredytobiorca prowadzi zarówno działalność wchodzącą w zakres usługi publicznej świadczonej w ogólnym interesie gospodarczym, jak i działalność wykraczającą poza ten zakres, w księgach kredytobiorcy wykazuje się osobno koszty i przychody związane z usługą publiczną świadczoną w ogólnym interesie gospodarczym oraz koszty i przychody związane z innymi usługami.
 10.
-Rozsądny zysk związany ze świadczeniem usługi publicznej w ogólnym interesie gospodarczym jest obliczany według wzoru: \( RZ_i = (i_{IRS} + 1\% ) \times (KIUOIG – FZ) \times (1 + r_b )^{i – 1} \) w którym poszczególne symbole oznaczają: RZi – rozsądny zysk kredytobiorcy w i-tym roku finansowania, iIRS – średnia kwotowań wartości stopy procentowej, którą uczestnik rynku finansowego chce otrzymać za określony w kontrakcie okres w przyszłości, odnoszącej się do kwoty wartości nominalnej kontraktu (OFFER), oraz wartości stopy procentowej, którą uczestnik rynku finansowego jest skłonny zapłacić za określony w kontrakcie okres w przyszłości, odnoszącej się do kwoty wartości nominalnej kontraktu (BID) dla 20-letniego kontraktu polegającego na wymianie płatności odsetkowych naliczanych według zmiennej stopy procentowej na płatności odsetkowe naliczane według stałej stopy procentowej od ustalonej kwoty wartości nominalnej kontraktu w okresie, na który kontrakt został zawarty (IRS), opartej na stopie WIBOR trzymiesięczny, na podstawie danych ACI Polska, publikowanych przez Bank w Biuletynie Informacji Publicznej dla każdej edycji rządowego programu popierania budownictwa mieszkaniowego przed rozpoczęciem naboru wniosków, KIUOIG – koszty przedsięwzięcia inwestycyjno-budowlanego, FZ – kwota udzielonego finansowania zwrotnego, rb- stopa bazowa publikowana przez Komisję Europejską, obowiązująca na dzień udzielenia finansowania zwrotnego.
+Rozsądny zysk związany ze świadczeniem usługi publicznej w ogólnym interesie gospodarczym jest obliczany według wzoru: \( RZ_i = (i_{IRS} + 1\% ) \times (KIUOIG – FZ) \times (1 + r_b )^{i – 1} \) w którym poszczególne symbole oznaczają: RZi – rozsądny zysk kredytobiorcy w i-tym roku finansowania, iIRS – średnia kwotowań wartości stopy procentowej, którą uczestnik rynku finansowego chce otrzymać za określony w kontrakcie okres w przyszłości, odnoszącej się do kwoty wartości nominalnej kontraktu (OFFER), oraz wartości stopy procentowej, którą uczestnik rynku finansowego jest skłonny zapłacić za określony w kontrakcie okres w przyszłości, odnoszącej się do kwoty wartości nominalnej kontraktu (BID) dla 20-letniego kontraktu polegającego na wymianie płatności odsetkowych naliczanych według zmiennej stopy procentowej na płatności odsetkowe naliczane według stałej stopy procentowej od ustalonej kwoty wartości nominalnej kontraktu w okresie, na który kontrakt został zawarty (IRS), opartej na stopie WIBOR trzymiesięczny, na podstawie danych ACI Polska, publikowanych przez Bank w Biuletynie Informacji Publicznej dla każdej edycji rządowego programu popierania budownictwa mieszkaniowego przed rozpoczęciem naboru wniosków, KIUOIG – koszty przedsięwzięcia inwestycyjno-budowlanego, FZ – kwota udzielonego finansowania zwrotnego, rb- stopa bazowa publikowana przez Komisję EuropejskąStopa bazowa, obliczana zgodnie z komunikatem Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6), jest udostępniana na stronie internetowej Komisji Europejskiej pod adresem: http://ec.europa.eu/competition/state_aid/legislation/reference_rates.html, obowiązująca na dzień udzielenia finansowania zwrotnego.
 § 13.
 1.
 Bank w okresie, o którym mowa w § 11, weryfikuje co dwa lata obrachunkowe oraz na koniec tego okresu zgodność przyznanej rekompensaty z warunkami określonymi w decyzji, o której mowa w § 9.
@@ -266,8 +264,7 @@ rekompensaty, obliczony w sposób określony w § 12 ust. 1,
 2)
 kosztów netto, obliczony w sposób określony w § 12 ust. 3,
 3)
-rozsądnego zysku, obliczony w sposób określony w § 12 ust. 10
-przypadający na okres, o którym mowa w ust. 3.
+rozsądnego zysku, obliczony w sposób określony w § 12 ust. 10 – przypadający na okres, o którym mowa w ust. 3.
 6.
 Bank weryfikuje, czy dla okresu, o którym mowa w ust. 3, jest spełniony warunek obliczany według wzoru: \( RUOIG \le KN + RZ \) w którym poszczególne symbole oznaczają: RUOIG – rekompensata za świadczenie usługi publicznej w ogólnym interesie gospodarczym, KN – koszty netto wynikające ze świadczenia usługi publicznej w ogólnym interesie gospodarczym, RZ – rozsądny zysk kredytobiorcy.
 7.
@@ -288,6 +285,7 @@ W lokalu mieszkalnym powstałym przy wykorzystaniu finansowania zwrotnego należ
 wannę lub brodzik lub kabinę natryskową, umywalkę oraz miskę ustępową, jeżeli w lokalu mieszkalnym nie ma wydzielonego ustępu – w łazience;
 2)
 kuchenkę z piekarnikiem gazową lub elektryczną – w pomieszczeniu kuchennym.
+Przepisy przejściowe i końcowe
 § 16.
 1.
 Pierwszy nabór wniosków odbywa się od dnia 1 listopada 2015 r. do dnia 29 lutego 2016 r.
@@ -306,16 +304,22 @@ Bank przekazuje kredytobiorcom, którzy złożyli wnioski w terminie, o którym 
 1)
 złożone przez nich wnioski zostały umieszczone na liście, o której mowa w § 6 ust. 3 lub 7,
 2)
-całkowita wartość finansowania zwrotnego wynikająca ze złożonych przez nich wniosków mieści się w limicie środków, o którym mowa w ust. 2
-informację, o której mowa w § 7, do dnia 30 czerwca 2016 r.
+całkowita wartość finansowania zwrotnego wynikająca ze złożonych przez nich wniosków mieści się w limicie środków, o którym mowa w ust. 2 – informację, o której mowa w § 7, do dnia 30 czerwca 2016 r.
 § 17.
-Rozporządzenie wchodzi w życie z dniem 31 października 2015 r.
+Rozporządzenie wchodzi w życie z dniem 31 października 2015 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151, 200, 443, 528, 774, 1165, 1265, 1549 i 1642. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35, 1027 i 1608, z 2014 r. poz. 312, 1171 i 1662 oraz z 2015 r. poz. 211, 605, 978, 1223 i 1649. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 985, 1039, 1180, 1265 i 1322. 5) Stopa bazowa, obliczana zgodnie z komunikatem Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6), jest udostępniana na stronie internetowej Komisji Europejskiej pod adresem: http://ec.europa.eu/competition/state_aid/legislation/reference_rates.html
 Załącznik – Kryteria oceny punktowej wniosków
-Lp. Nazwa kryterium Definicja kryterium Ocena punktowa 1 2 3 4 1. Adresowanie nowych mieszkań do osób wychowujących dzieci Umowa, o której mowa w art. 15a ust. 3 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2013 r. poz. 255 oraz z 2015 r. poz. 1169 i 1582), zwanej dalej „ustawą”, zawiera zobowiązanie kredytobiorcy lub gminy, zgodnie z którym liczba lokali mieszkalnych, których pierwszymi najemcami będą osoby wychowujące przynajmniej jedno własne lub przysposobione dziecko, w liczbie wszystkich lokali realizowanych w ramach przedsięwzięcia inwestycyjno-budowlanego, została określona na poziomie: 1) powyżej 60 do 65% włącznie; 5 pkt 2) powyżej 65 do 70% włącznie; 10 pkt 3) powyżej 70% 15 pkt 2. Program w zakresie rewitalizacji Przedsięwzięcie inwestycyjno-budowlane jest realizowane na obszarze objętym programem w zakresie rewitalizacji 10 pkt Przedsięwzięcie inwestycyjno-budowlane wynika z programu w zakresie rewitalizacji, tj. służy realizacji celów rewitalizacyjnych wpisanych w program w zakresie rewitalizacji dodatkowe 5 pkt 3. Deficyt mieszkań w gminie Wartość wskaźnika lokali mieszkalnych w gminie w przeliczeniu na 1 tys. mieszkańców jest niższa od średniej wartości wskaźnika dla danej kategorii wielkościowej gmin, ustalonej w oparciu o dane GUS2) 10 pkt 4. Dotychczasowy stopień korzystania z programu społecznego budownictwa czynszowego realizowanego ze środków Krajowego Funduszu Mieszkaniowego na terenie powiatu Wartość wskaźnika liczby lokali mieszkalnych na terenie powiatu, w którym ma zostać lub jest realizowane przedsięwzięcie inwestycyjno-budowlane, sfinansowane ze środków preferencyjnych kredytów udzielonych przez Bank Gospodarstwa Krajowego (w tym kredytów udzielonych na podstawie wniosków złożonych w BGK do końca 2009 r.), w przeliczeniu na 1 tys. mieszkańców, według stanu na koniec poprzedniego roku wynosi od 0,00 do 5,00 5 pkt 5. Rotacyjność zasobów (tzw. „łańcuch przeprowadzek”) Umowa, o której mowa w art. 15a ust. 3 ustawy, przewiduje skierowanie przez gminę do lokali utworzonych w ramach przedsięwzięcia inwestycyjno-budowlanego najemców zamieszkujących dotychczas w zasobie komunalnym, na poziomie co najmniej 5% wszystkich lokali utworzonych w ramach tego przedsięwzięcia 10 pkt 6. Konkurs architektoniczny Wniosek dotyczy przedsięwzięcia inwestycyjno-budowlanego, w przypadku którego projekt architektoniczny został wykonany w drodze otwartego konkursu architektonicznego 5 pkt 7. Remont lub zmiana sposobu użytkowania istniejących budynków Przedsięwzięcie inwestycyjno-budowlane polega na remoncie lub zmianie sposobu użytkowania istniejącego budynku w celu utworzenia lokali mieszkalnych 15 pkt 8. Miejscowy plan zagospodarowania przestrzennego Przedsięwzięcie inwestycyjno-budowlane jest realizowane na obszarze objętym miejscowym planem zagospodarowania przestrzennego 10 pkt 9. Partycypacja najemcy Planowane przedsięwzięcie inwestycyjno-budowlane zakłada partycypację własną najemcy w kosztach realizacji przedsięwzięcia na poziomie: 1) brak partycypacji; 25 pkt 2) do 10% włącznie; 20 pkt 3) od 10 do 15% włącznie 10 pkt 10. Zróżnicowany charakter zasobu tworzonego w ramach inwestycji Inwestycja, której elementem jest przedsięwzięcie inwestycyjno-budowlane, przewiduje budowę lokali użytkowych lub budowę innych mieszkań nieobjętych preferencyjnym finansowaniem z zastrzeżeniem, że finansowanie tych lokali realizowane jest wyłącznie ze środków własnych kredytobiorcy 5 pkt 11. Saldo migracji w powiecie w okresie ostatnich 5 lat Dodatnie saldo: 1) w przypadku bezrobocia niższego niż średnia krajowa; 10 pkt 2) w przypadku bezrobocia wyższego lub równego średniej krajowej 5 pkt 1) Wskaźniki wykorzystywane do obliczenia oceny punktowej zaokrągla się do dwóch miejsc po przecinku. 2) Uwzględnia się następujące kategorie wielkości gmin: do 10,0 tys. mieszkańców, od 10,0 do 49,9 tys., od 50,0 do 199,9 tys., powyżej 200,0 tys. mieszkańców (wg danych GUS – stan na koniec roku poprzedzającego rok składania wniosku, liczba mieszkańców według stanu ludności faktycznie zamieszkałej).
+Lp. Nazwa kryterium Definicja kryterium Ocena punktowa 1 2 3 4 1. Adresowanie nowych mieszkań do osób wychowujących dzieci Umowa, o której mowa w art. 15a ust. 3 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2013 r. poz. 255 oraz z 2015 r. poz. 1169 i 1582), zwanej dalej „ustawą”, zawiera zobowiązanie kredytobiorcy lub gminy, zgodnie z którym liczba lokali mieszkalnych, których pierwszymi najemcami będą osoby wychowujące przynajmniej jedno własne lub przysposobione dziecko, w liczbie wszystkich lokali realizowanych w ramach przedsięwzięcia inwestycyjno-budowlanego, została określona na poziomie: 1) powyżej 60 do 65% włącznie; 5 pkt 2) powyżej 65 do 70% włącznie; 10 pkt 3) powyżej 70% 15 pkt 2. Program w zakresie rewitalizacji Przedsięwzięcie inwestycyjno-budowlane jest realizowane na obszarze objętym programem w zakresie rewitalizacji 10 pkt Przedsięwzięcie inwestycyjno-budowlane wynika z programu w zakresie rewitalizacji, tj. służy realizacji celów rewitalizacyjnych wpisanych w program w zakresie rewitalizacji dodatkowe 5 pkt 3. Deficyt mieszkań w gminie Wartość wskaźnika lokali mieszkalnych w gminie w przeliczeniu na 1 tys. mieszkańców jest niższa od średniej wartości wskaźnika dla danej kategorii wielkościowej gmin, ustalonej w oparciu o dane GUS2) 10 pkt 4. Dotychczasowy stopień korzystania z programu społecznego budownictwa czynszowego realizowanego ze środków Krajowego Funduszu Mieszkaniowego na terenie powiatu Wartość wskaźnika liczby lokali mieszkalnych na terenie powiatu, w którym ma zostać lub jest realizowane przedsięwzięcie inwestycyjno-budowlane, sfinansowane ze środków preferencyjnych kredytów udzielonych przez Bank Gospodarstwa Krajowego (w tym kredytów udzielonych na podstawie wniosków złożonych w BGK do końca 2009 r.), w przeliczeniu na 1 tys. mieszkańców, według stanu na koniec poprzedniego roku wynosi od 0,00 do 5,00 5 pkt 5. Rotacyjność zasobów (tzw. „łańcuch przeprowadzek”) Umowa, o której mowa w art. 15a ust. 3 ustawy, przewiduje skierowanie przez gminę do lokali utworzonych w ramach przedsięwzięcia inwestycyjno-budowlanego najemców zamieszkujących dotychczas w zasobie komunalnym, na poziomie co najmniej 5% wszystkich lokali utworzonych w ramach tego przedsięwzięcia 10 pkt 6. Konkurs architektoniczny Wniosek dotyczy przedsięwzięcia inwestycyjno-budowlanego, w przypadku którego projekt architektoniczny został wykonany w drodze otwartego konkursu architektonicznego 5 pkt 7. Remont lub zmiana sposobu użytkowania istniejących budynków Przedsięwzięcie inwestycyjno-budowlane polega na remoncie lub zmianie sposobu użytkowania istniejącego budynku w celu utworzenia lokali mieszkalnych 15 pkt 8. Miejscowy plan zagospodarowania przestrzennego Przedsięwzięcie inwestycyjno-budowlane jest realizowane na obszarze objętym miejscowym planem zagospodarowania przestrzennego 10 pkt 9. Partycypacja najemcy Planowane przedsięwzięcie inwestycyjno-budowlane zakłada partycypację własną najemcy w kosztach realizacji przedsięwzięcia na poziomie: 1) brak partycypacji; 25 pkt 2) do 10% włącznie; 20 pkt 3) od 10 do 15% włącznie 10 pkt 10. Zróżnicowany charakter zasobu tworzonego w ramach inwestycji Inwestycja, której elementem jest przedsięwzięcie inwestycyjno-budowlane, przewiduje budowę lokali użytkowych lub budowę innych mieszkań nieobjętych preferencyjnym finansowaniem z zastrzeżeniem, że finansowanie tych lokali realizowane jest wyłącznie ze środków własnych kredytobiorcy 5 pkt 11. Saldo migracji w powiecie w okresie ostatnich 5 lat Dodatnie saldo: 1) w przypadku bezrobocia niższego niż średnia krajowa; 10 pkt 2) w przypadku bezrobocia wyższego lub równego średniej krajowej 5 pkt
+1) Wskaźniki wykorzystywane do obliczenia oceny punktowej zaokrągla się do dwóch miejsc po przecinku. 2) Uwzględnia się następujące kategorie wielkości gmin: do 10,0 tys. mieszkańców, od 10,0 do 49,9 tys., od 50,0 do 199,9 tys., powyżej 200,0 tys. mieszkańców (wg danych GUS – stan na koniec roku poprzedzającego rok składania wniosku, liczba mieszkańców według stanu ludności faktycznie zamieszkałej).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Warunki i tryb udzielania finansowania zwrotnego w ramach realizacji rządowego programu popierania budownictwa mieszkaniowego oraz wymagania dotyczące wyposażenia technicznego lokali finansowanych w ramach tego programu
+#### Rozdział 2 – Warunki i tryb udzielania finansowania zwrotnego w ramach realizacji rządowego programu popierania budownictwa mieszkaniowego oraz wymagania dotyczące wyposażenia technicznego lokali finansowanych w ramach tego programu
 
-#### Rozdział 3 Przepisy przejściowe i końcowe
+#### Rozdział 3 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 

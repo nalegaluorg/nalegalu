@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy – Ordynacja podatkowa oraz ustawy o kontroli skarbowej
+# Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy – Ordynacja podatkowa oraz ustawy o kontroli skarbowej Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2011/16/UE z dnia 15 lutego 2011 r. w sprawie współpracy administracyjnej w dziedzinie opodatkowania i uchylającej dyrektywę 77/799/EWG (Dz. Urz. UE L 64 z 11.03.2011, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-08-30 |
 | Data wydania | 2013-09-27 |
-| Wejście w życie | 2013-10-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001145) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1145/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529 oraz z 2013 r. poz. 35, 985, 1027 i 1036.) wprowadza się następujące zmiany:
 
 - **1)** art. 154a i art. 154b otrzymują brzmienie: „
 
@@ -129,7 +128,7 @@ source: "eli-html"
 - **11)** art. 305m otrzymuje brzmienie: „ Informacje otrzymane od obcej władzy można przekazać innej obcej władzy po uprzednim zawiadomieniu obcej władzy, od której pochodzą te informacje, o zamiarze ich przekazania i niewniesieniu przez tę władzę sprzeciwu w terminie 10 dni roboczych od dnia zawiadomienia. ” ;
 - **12)** po art. 305m dodaje się art. 305ma i art. 305mb w brzmieniu: „ Organ, który otrzymał informacje od obcej władzy, przesyła informację zwrotną na temat wykorzystania otrzymanego materiału, jeżeli obca władza zwróciła się o taką informację. Informację zwrotną przesyła się niezwłocznie, nie później jednak niż w terminie 3 miesięcy od dnia otrzymania przez organ wiadomości o sposobie wykorzystania otrzymanych informacji. Wymiana informacji następuje za pomocą środków komunikacji elektronicznej, przy użyciu standardowych formularzy, według wzorów określonych w rozporządzeniu Komisji (UE) nr 1156/2012 z dnia 6 grudnia 2012 r. ustanawiającym szczegółowe zasady wykonywania niektórych przepisów dyrektywy Rady 2011/16/UE w sprawie współpracy administracyjnej w dziedzinie opodatkowania. W przypadku braku możliwości wymiany informacji za pomocą środków komunikacji elektronicznej, wymiany dokonuje się w formie pisemnej. ” .
 
-**Art. 2.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2011 r. Nr 41, poz. 214, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2011 r. Nr 41, poz. 214, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 53, poz. 273 i Nr 230, poz. 1371, z 2012 r. poz. 362 i 1544 oraz z 2013 r. poz. 628.) wprowadza się następujące zmiany:
 
 - **1)** w art. 7a dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
@@ -145,5 +144,5 @@ source: "eli-html"
 
 - **4)** w art. 38 w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Inspektor może powierzyć dokonywanie czynności kontrolnych pod swoim nadzorem upoważnionym pracownikom, upoważnionym przedstawicielom instytucji Unii Europejskiej w przypadku uczestniczenia tych osób w kontroli środków pochodzących z budżetu Unii Europejskiej oraz upoważnionym na podstawie porozumień, o których mowa w art. 7a ust. 2, przedstawicielom właściwych władz państw członkowskich Unii Europejskiej, z wyłączeniem: ” .
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2011/16/UE z dnia 15 lutego 2011 r. w sprawie współpracy administracyjnej w dziedzinie opodatkowania i uchylającej dyrektywę 77/799/EWG (Dz. Urz. UE L 64 z 11.03.2011, str. 1). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529 oraz z 2013 r. poz. 35, 985, 1027 i 1036. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 53, poz. 273 i Nr 230, poz. 1371, z 2012 r. poz. 362 i 1544 oraz z 2013 r. poz. 628.
 

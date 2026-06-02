@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 30 października 2019 r. w sprawie ewidencjonowania przeznaczonych do obrotu oraz przyjętych na przechowanie lub w komis materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym oraz transakcji obrotu i transakcji w zakresie pośrednictwa
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 30 października 2019 r. w sprawie ewidencjonowania przeznaczonych do obrotu oraz przyjętych na przechowanie lub w komis materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym oraz transakcji obrotu i transakcji w zakresie pośrednictwa Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 14 sierpnia 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1540).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-30 |
 | Data wydania | 2019-11-18 |
-| Wejście w życie | 2019-12-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002235) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2235/text.pdf) |
 
@@ -234,8 +233,7 @@ dokonującej zużycia,
 c)
 potwierdzającej dokonanie zużycia towaru koncesjonowanego.
 § 13.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 14 sierpnia 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1540). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 22 sierpnia 2012 r. w sprawie sposobu ewidencjonowania wprowadzonych do obrotu materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1008), które utraciło moc z dniem 1 sierpnia 2019 r. na podstawie art. 174 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214 i 1495).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 22 sierpnia 2012 r. w sprawie sposobu ewidencjonowania wprowadzonych do obrotu materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1008), które utraciło moc z dniem 1 sierpnia 2019 r. na podstawie art. 174 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214 i 1495). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 14 sierpnia 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1540). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 22 sierpnia 2012 r. w sprawie sposobu ewidencjonowania wprowadzonych do obrotu materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1008), które utraciło moc z dniem 1 sierpnia 2019 r. na podstawie art. 174 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214 i 1495).
 
 # Księga ewidencyjna prowadzona w postaci elektronicznej:
 

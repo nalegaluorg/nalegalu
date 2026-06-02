@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 1 lutego 2021 r. zmieniające rozporządzenie w sprawie szczegółowych warunków dokonywania zmniejszeń kwot pomocy oraz pomocy technicznej w przypadku naruszenia przepisów o zamówieniach publicznych
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 1 lutego 2021 r. zmieniające rozporządzenie w sprawie szczegółowych warunków dokonywania zmniejszeń kwot pomocy oraz pomocy technicznej w przypadku naruszenia przepisów o zamówieniach publicznych Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-02-01 |
 | Data wydania | 2021-02-02 |
-| Wejście w życie | 2021-02-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000221) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/221/text.pdf) |
 
@@ -39,18 +38,15 @@ w lp. 13:
 a)
 w kolumnie drugiej „Rodzaj naruszenia” po wyrazach „ofert wstępnych” dodaje się wyrazy „, ofert dodatkowych”,
 b)
-w kolumnie czwartej „Opis naruszenia” ust. 6 i 7 otrzymują brzmienie:
-„
+w kolumnie czwartej „Opis naruszenia” ust. 6 i 7 otrzymują brzmienie: „
 6.
 Tryb podstawowy – naruszenie art. 283 lub art. 296 ust. 1 lub 3 Pzp przez wyznaczenie terminów składania ofert lub ofert dodatkowych, lub ofert ostatecznych krótszych niż terminy przewidziane w Pzp.
 7.
-Naruszenie art. 131 lub art. 283, lub art. 296 ust. 3, lub art. 299 ust. 2, lub art. 314 ust. 4 pkt 2 Pzp przez nieuwzględnienie, przy wyznaczeniu terminu składania wniosków o dopuszczenie do udziału w postępowaniu lub ofert wstępnych, lub ofert, lub ofert ostatecznych, złożoności zamówienia i specyfiki przedmiotu zamówienia oraz czasu niezbędnego do ich przygotowania i złożenia.
-” ;
+Naruszenie art. 131 lub art. 283, lub art. 296 ust. 3, lub art. 299 ust. 2, lub art. 314 ust. 4 pkt 2 Pzp przez nieuwzględnienie, przy wyznaczeniu terminu składania wniosków o dopuszczenie do udziału w postępowaniu lub ofert wstępnych, lub ofert, lub ofert ostatecznych, złożoności zamówienia i specyfiki przedmiotu zamówienia oraz czasu niezbędnego do ich przygotowania i złożenia. ” ;
 4)
 w lp. 15 w kolumnie drugiej „Rodzaj naruszenia” po wyrazie „SWZ” dodaje się wyrazy „lub opisu potrzeb i wymagań”;
 5)
 w lp. 16 w kolumnie czwartej „Opis naruszenia” po wyrazach „art. 150 ust. 1 pkt 3” skreśla się wyrazy „lub ust. 2”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928).
 

@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-06 |
 | Data wydania | 2017-07-10 |
-| Wejście w życie | 2017-07-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001356) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1356/text.pdf) |
 
 Treść rozporządzenia
-Załącznik – Regulamin organizacji i działania stałych sądów polubownych przy wojewódzkich inspektorach inspekcji handlowej Dział I – Wewnętrzna organizacja stałych sądów polubownych Dział II – Czynności stałych sądów polubownych Rozdział 1 – Przepisy ogólne Rozdział 2 – Czynności przewodniczącego Rozdział 3 – Czynności sądu orzekającego
+Załącznik – Regulamin organizacji i działania stałych sądów polubownych przy wojewódzkich inspektorach inspekcji handlowej
 Treść rozporządzenia
 Na podstawie art. 37 ust. 7 ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2017 r. poz. 1063) zarządza się, co następuje:
 § 1.
@@ -38,8 +37,9 @@ Arbitrzy wyznaczeni przez strony lub wyznaczeni do składu orzekającego z urzę
 2.
 W przypadku rozpatrywania wniosków o rozwiązanie sporu złożonych przed dniem wejścia w życie niniejszego rozporządzenia stały sąd polubowny przy wojewódzkim inspektorze inspekcji handlowej nie umarza postępowania ze względu na swą niewłaściwość miejscową.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 11 lipca 2017 r.
+Rozporządzenie wchodzi w życie z dniem 11 lipca 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 25 września 2001 r. w sprawie określenia regulaminu organizacji i działania stałych polubownych sądów konsumenckich (Dz. U. poz. 1214), które traci moc z dniem 11 lipca 2017 r. na podstawie art. 66 ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich (Dz. U. poz. 1823). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 25 września 2001 r. w sprawie określenia regulaminu organizacji i działania stałych polubownych sądów konsumenckich (Dz. U. poz. 1214), które traci moc z dniem 11 lipca 2017 r. na podstawie art. 66 ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich (Dz. U. poz. 1823).
 Załącznik – Regulamin organizacji i działania stałych sądów polubownych przy wojewódzkich inspektorach inspekcji handlowej
+Wewnętrzna organizacja stałych sądów polubownych
 § 1.
 W skład stałego sądu polubownego przy wojewódzkim inspektorze inspekcji handlowej, zwanego dalej „sądem polubownym”, wchodzą:
 1)
@@ -82,6 +82,8 @@ Przewodniczący wnioskuje o uzupełniające wyznaczenie stałych arbitrów jeże
 W zakresie działalności administracyjnej przewodniczący oraz stały arbiter, o którym mowa w § 5 ust. 2, podlegają nadzorowi wojewódzkiego inspektora inspekcji handlowej.
 § 9.
 Obsługę prac sądu polubownego zapewnia wojewódzki inspektorat inspekcji handlowej.
+Czynności stałych sądów polubownych
+Przepisy ogólne
 § 10.
 1.
 Wniosek o rozpatrzenie sporu przez sąd polubowny, zwany dalej „wnioskiem”, wnosi się w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej.
@@ -94,6 +96,7 @@ Wniosek wnosi się do sądu polubownego właściwego ze względu na miejsce zami
 Za siedzibę przedsiębiorcy uważa się siedzibę w rozumieniu art. 4 ust. 2 ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich.
 § 12.
 Sąd polubowny może zawiadamiać i wzywać strony, świadków lub inne osoby w sposób, który uzna za najbardziej celowy, jeżeli uzna to za niezbędne do przyspieszenia rozpoznania sprawy. Dotyczy to również doręczeń.
+Czynności przewodniczącego
 § 13.
 1.
 Przewodniczący dokonuje wstępnego badania wniosku niezwłocznie po wniesieniu go do sądu polubownego.
@@ -135,7 +138,7 @@ Przewodniczący oraz osoba, o której mowa w § 5 ust. 2, może być arbitrem pr
 1.
 O wyłączeniu arbitra albo arbitra przewodniczącego rozstrzyga przewodniczący postanowieniem.
 2.
-O wyłączeniu arbitra albo arbitra przewodniczącego będącego przewodniczącym rozstrzyga sąd, o którym mowa w art. 1158 § 1 ustawy z dnia 17 listopada 1964 r. ‒ Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.).
+O wyłączeniu arbitra albo arbitra przewodniczącego będącego przewodniczącym rozstrzyga sąd, o którym mowa w art. 1158 § 1 ustawy z dnia 17 listopada 1964 r. ‒ Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933, 1133 i 1136.).
 § 21.
 1.
 Wniosek o wyłączenie arbitra albo arbitra przewodniczącego strona wnosi do sądu polubownego w terminie dwóch tygodni od dnia, w którym dowiedziała się o okolicznościach uzasadniających wyłączenie, uprawdopodabniając przyczyny wyłączenia.
@@ -147,6 +150,7 @@ Wniosek o wyłączenie arbitra albo arbitra przewodniczącego będącego przewod
 Jeżeli w terminie miesiąca od dnia, w którym strona złożyła wniosek o wyłączenie arbitra albo arbitra przewodniczącego, wniosek nie zostanie rozpatrzony przez przewodniczącego, strona żądająca wyłączenia może w terminie następnych dwóch tygodni wystąpić do sądu, o którym mowa w art. 1158 § 1 ustawy z dnia 17 listopada 1964 r. ‒ Kodeks postępowania cywilnego, z wnioskiem o jego wyłączenie.
 § 24.
 W razie wyłączenia arbitra albo arbitra przewodniczącego lub złożenia przez nich rezygnacji nowy arbiter jest powołany do składu orzekającego w sposób określony w § 18 lub § 19.
+Czynności sądu orzekającego
 § 25.
 1.
 Sąd orzekający, zwany dalej „sądem”, rozpoznaje sprawę na rozprawie w składzie:
@@ -215,15 +219,25 @@ przytoczenie motywów, którymi kierował się sąd przy wydaniu wyroku;
 8)
 podpisy arbitra przewodniczącego i arbitrów.
 § 34.
-Odpis wyroku, podpisany tak jak oryginał, wraz z pouczeniem o sposobie i terminie jego zaskarżenia, doręcza się stronom w terminie 14 dni od dnia wydania wyroku.
+Odpis wyroku, podpisany tak jak oryginał, wraz z pouczeniem o sposobie i terminie jego zaskarżenia, doręcza się stronom w terminie 14 dni od dnia wydania wyroku. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933, 1133 i 1136.
 
-### Dział I Wewnętrzna organizacja stałych sądów polubownych
+### Dział I – Wewnętrzna organizacja stałych sądów polubownych
 
-### Dział II Czynności stałych sądów polubownych
+### Dział II – Czynności stałych sądów polubownych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Czynności przewodniczącego
+#### Rozdział 2 – Czynności przewodniczącego
 
-#### Rozdział 3 Czynności sądu orzekającego
+#### Rozdział 3 – Czynności sądu orzekającego
+
+### Dział I
+
+### Dział II
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 

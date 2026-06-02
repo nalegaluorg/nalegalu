@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-06-19 |
 | Data wydania | 2013-07-10 |
-| Wejście w życie | 2013-07-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000797) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/797/text.pdf) |
 
@@ -33,11 +32,9 @@ Na podstawie art. 16 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszaró
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 18 stycznia 2013 r. w sprawie podziału środków Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 119) wprowadza się następujące zmiany:
 1)
-w § 1 w pkt 1 lit. f otrzymuje brzmienie:
-„
+w § 1 w pkt 1 lit. f otrzymuje brzmienie: „
 f)
-podstawowe usługi dla gospodarki i ludności wiejskiej, z podziałem na środki przeznaczone na priorytet infrastruktura szerokopasmowego Internetu na obszarach wiejskich, o którym mowa w art. 16a ust. 1 lit. g rozporządzenia nr 1698/2005, i na pozostałe operacje w ramach tego działania,
-” ;
+podstawowe usługi dla gospodarki i ludności wiejskiej, z podziałem na środki przeznaczone na priorytet infrastruktura szerokopasmowego Internetu na obszarach wiejskich, o którym mowa w art. 16a ust. 1 lit. g rozporządzenia nr 1698/2005, i na pozostałe operacje w ramach tego działania, ” ;
 2)
 w załączniku do rozporządzenia tabele:
 a)
@@ -47,8 +44,7 @@ IV. Poprawianie i rozwijanie infrastruktury związanej z rozwojem i dostosowywan
 c)
 VI. Podstawowe usługi dla gospodarki i ludności wiejskiej, z podziałem na środki przeznaczone na priorytet infrastruktura szerokopasmowego Internetu na obszarach wiejskich, o którym mowa w art. 16a ust. 1 lit. g rozporządzenia nr 1698/2005, na operacje dotyczące budowy, przebudowy, remontu lub wyposażenia targowiska stałego i na pozostałe operacje w ramach tego działania,
 d)
-VII. Odnowa i rozwój wsi
-otrzymują brzmienie określone w załączniku do niniejszego rozporządzenia.
+VII. Odnowa i rozwój wsi – otrzymują brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Załącznik

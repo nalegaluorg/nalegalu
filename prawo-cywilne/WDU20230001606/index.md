@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 lipca 2023 r. o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
+# Ustawa z dnia 28 lipca 2023 r. o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej oraz ustawę z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-28 |
 | Data wydania | 2023-08-14 |
-| Wejście w życie | 2024-02-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001606) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1606/text.pdf) |
 
+Obowiązki pracodawców i innych organizatorów w zakresie działalności związanej z wychowaniem, edukacją, wypoczynkiem, leczeniem, świadczeniem porad psychologicznych, rozwojem duchowym, uprawianiem sportu lub realizacją innych zainteresowań przez małoletnich, lub z opieką nad nimi oraz osób zatrudnianych i dopuszczanych do takiej działalności
+Ocena prawdopodobieństwa ponownego popełnienia przestępstwa przeciwko wolności seksualnej i obyczajności na szkodę małoletniego
+Standardy ochrony małoletnich
 Obowiązek wprowadzenia standardów ochrony małoletnich, zwanych dalej „standardami”, ma każdy:
 1)
 organ zarządzający jednostką systemu oświaty, o której mowa w art. 2 pkt 1–8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900), oraz inną placówką oświatową, opiekuńczą, wychowawczą, resocjalizacyjną, religijną, artystyczną, medyczną, rekreacyjną, sportową lub związaną z rozwijaniem zainteresowań, do której uczęszczają albo w której przebywają lub mogą przebywać małoletni;
@@ -79,6 +81,7 @@ Standardy sporządza się, mając na względzie konieczność ich zrozumienia pr
 Podmioty, o których mowa w art. 22b oraz w ust. 3, mają obowiązek co najmniej raz na dwa lata dokonywać oceny standardów w celu zapewnienia ich dostosowania do aktualnych potrzeb oraz zgodności z obowiązującymi przepisami. Wnioski z przeprowadzonej oceny należy pisemnie udokumentować.
 7.
 Podmioty, o których mowa w art. 22b oraz w ust. 3, udostępniają standardy na swojej stronie internetowej oraz wywieszają w widocznym miejscu w swoim lokalu, w wersji zupełnej oraz skróconej, przeznaczonej dla małoletnich. Wersja skrócona zawiera informacje istotne dla małoletnich.
+Analiza zdarzeń, na skutek których małoletni poniósł śmierć lub doznał ciężkiego uszczerbku na zdrowiu
 1.
 Jeżeli skutkiem zdarzenia, co do którego zachodzi uzasadnione przypuszczenie lub zostało stwierdzone, że stanowi umyślny czyn zabroniony określony w Kodeksie karnym, popełniony przez rodzica albo opiekuna prawnego lub faktycznego, jest śmierć lub ciężki uszczerbek na zdrowiu małoletniego, zdarzenie może zostać poddane analizie, zwanej dalej „analizą określonego zdarzenia”, której celem jest ocena funkcjonowania ochrony małoletnich przed krzywdzeniem oraz określenie działań usprawniających to funkcjonowanie i umożliwiających zapobieganie podobnym zdarzeniom.
 2.
@@ -96,8 +99,7 @@ małoletniego,
 b)
 rodzeństwa małoletniego,
 c)
-rodzica małoletniego albo jego opiekuna prawnego lub faktycznego lub innych osób, które mogły mieć wpływ na sytuację małoletniego
-zanim doszło do śmierci małoletniego lub doznania przez niego ciężkiego uszczerbku na zdrowiu;
+rodzica małoletniego albo jego opiekuna prawnego lub faktycznego lub innych osób, które mogły mieć wpływ na sytuację małoletniego – zanim doszło do śmierci małoletniego lub doznania przez niego ciężkiego uszczerbku na zdrowiu;
 4)
 wskazania podstawy prawnej działań właściwych organów lub instytucji;
 5)
@@ -229,7 +231,7 @@ występować z wnioskami o udzielenie informacji oraz udostępnienie akt, dokume
 2.
 Przewodniczący Zespołu do spraw analizy zdarzeń kieruje wniosek, o którym mowa w ust. 1 pkt 2, wskazując dane ekspertów wchodzących w skład grupy ekspertów, upoważnionych do zapoznania się z informacjami, aktami, dokumentami, zapisami z monitoringu lub innymi danymi, albo ich kopiami. Wniosek może zostać skierowany do:
 1)
-Policji w celu szczegółowego ustalenia, czy w miejscu zamieszkania lub pobytu małoletniego lub z uwagi na małoletniego, jego rodzeństwo, rodzica albo opiekuna prawnego lub faktycznego podejmowano czynności interwencyjne lub czynności innego rodzaju, w tym wszczynano procedurę „Niebieskie Karty” lub stosowano środki, o których mowa w art. 15a-15 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm.), dat tych czynności, dokonanych w ich trakcie ustaleń, sposobu ich zakończenia oraz podejmowanych w ich następstwie działań;
+Policji w celu szczegółowego ustalenia, czy w miejscu zamieszkania lub pobytu małoletniego lub z uwagi na małoletniego, jego rodzeństwo, rodzica albo opiekuna prawnego lub faktycznego podejmowano czynności interwencyjne lub czynności innego rodzaju, w tym wszczynano procedurę „Niebieskie Karty” lub stosowano środki, o których mowa w art. 15a-15 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240, 289, 347, 535, 641 i 1088.), dat tych czynności, dokonanych w ich trakcie ustaleń, sposobu ich zakończenia oraz podejmowanych w ich następstwie działań;
 2)
 Żandarmerii Wojskowej w celu szczegółowego ustalenia, czy w miejscu zamieszkania lub pobytu małoletniego lub z uwagi na małoletniego, jego rodzeństwo, rodzica albo opiekuna prawnego lub faktycznego podejmowano czynności interwencyjne lub czynności innego rodzaju, w tym wszczynano procedurę „Niebieskie Karty” lub stosowano środki, o których mowa w art. 18–18aa ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2023 r. poz. 1266), dat tych czynności, dokonanych w ich trakcie ustaleń, sposobu ich zakończenia oraz podejmowanych w ich następstwie działań;
 3)
@@ -321,13 +323,13 @@ Jeżeli osoba wezwana nie może stawić się z powodu choroby lub innej niedają
 6.
 Nie wolno wzywać w celu wysłuchania:
 1)
-obrońcy albo adwokata lub radcy prawnego działającego na podstawie art. 245 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm.) co do faktów, o których dowiedział się, udzielając porady prawnej lub prowadząc sprawę;
+obrońcy albo adwokata lub radcy prawnego działającego na podstawie art. 245 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1855, 2582 i 2600 oraz z 2023 r. poz. 289, 535, 818 i 1606.) co do faktów, o których dowiedział się, udzielając porady prawnej lub prowadząc sprawę;
 2)
 duchownego co do faktów, o których dowiedział się przy spowiedzi;
 3)
 mediatora co do faktów, o których dowiedział się od oskarżonego lub pokrzywdzonego, prowadząc postępowanie mediacyjne, z wyłączeniem informacji o przestępstwach, o których mowa w art. 240 § 1 Kodeksu karnego;
 4)
-sędziego w zakresie informacji objętych tajemnicą, o której mowa w art. 85 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm.);
+sędziego w zakresie informacji objętych tajemnicą, o której mowa w art. 85 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614, 1030, 1429 i 1606.);
 5)
 prokuratora w zakresie informacji objętych tajemnicą, o której mowa w art. 102 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2023 r. poz. 1360 i 1429);
 6)
@@ -377,13 +379,13 @@ uwagi o stanie funkcjonowania systemu ochrony małoletnich przed krzywdzeniem or
 2.
 Przepis art. 22m ust. 6 stosuje się odpowiednio.
 Minister Sprawiedliwości przesyła co dwa lata Sejmowi i Senatowi Rzeczypospolitej Polskiej, Prezydentowi Rzeczypospolitej Polskiej oraz Prezesowi Rady Ministrów w terminie do dnia 31 maja roku następującego po okresie sprawozdawczym sprawozdanie, o którym mowa w art. 22p ust. 1.
+Pozostałe szczególne środki ochrony małoletnich przed krzywdzeniem oraz podmioty wskazane do ich realizacji
 1.
 W celu tworzenia warunków skutecznej ochrony małoletnich przed krzywdzeniem Rada Ministrów przyjmuje:
 1)
 Krajowy Plan Przeciwdziałania Przemocy na Szkodę Małoletnich,
 2)
-Krajowy Plan Przeciwdziałania Przestępstwom Przeciwko Wolności Seksualnej i Obyczajności na Szkodę Małoletnich
-zwane dalej „krajowymi planami”.
+Krajowy Plan Przeciwdziałania Przestępstwom Przeciwko Wolności Seksualnej i Obyczajności na Szkodę Małoletnich – zwane dalej „krajowymi planami”.
 2.
 Krajowe plany określają w szczególności:
 1)
@@ -455,6 +457,7 @@ prawomocnego skazania za przestępstwo lub przestępstwo skarbowe.
 Organy administracji rządowej oraz podległe im państwowe jednostki organizacyjne, na wniosek przewodniczącego Zespołu, udzielają Zespołowi wszechstronnej pomocy przy wykonywaniu jego zadań, a w szczególności przedstawiają niezbędne informacje lub dokumenty.
 Obsługę finansową, administracyjną i biurową Zespołu zapewnia urząd obsługujący Ministra Sprawiedliwości.
 Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb powoływania członków Zespołu oraz organizację, tryb działania i zasady uczestnictwa w pracach Zespołu, uwzględniając konieczność zapewnienia, aby w jego skład weszli przedstawiciele urzędów, instytucji i innych podmiotów, których kompetencje są niezbędne do realizacji zadań Zespołu na odpowiednim poziomie, a także konieczność zapewnienia sprawnego funkcjonowania Zespołu.
+Kontrola obowiązków
 1.
 Wójt, burmistrz, prezydent miasta, starosta oraz marszałek województwa sprawują kontrolę wykonywania obowiązków, o których mowa w art. 21 i art. 22b, w zakresie objętym właściwością rzeczową i miejscową tych organów.
 2.
@@ -480,25 +483,19 @@ W razie stwierdzenia naruszenia wykonywania przez pracodawcę obowiązku, o któ
 1.
 Prezes Narodowego Funduszu Zdrowia w zakresie swojej właściwości jest uprawniony do kontroli wykonywania przez pracodawcę lub organizatora działalności obowiązku, o którym mowa w art. 21 ust. 2, oraz obowiązku wprowadzenia standardów.
 2.
-W razie stwierdzenia naruszenia wykonywania przez pracodawcę lub organizatora działalności obowiązku, o którym mowa w art. 21 ust. 2, lub obowiązku wprowadzenia standardów pracownicy Narodowego Funduszu Zdrowia przeprowadzający kontrolę niezwłocznie powiadamiają o tym Policję lub prokuratora.
-” ;
+W razie stwierdzenia naruszenia wykonywania przez pracodawcę lub organizatora działalności obowiązku, o którym mowa w art. 21 ust. 2, lub obowiązku wprowadzenia standardów pracownicy Narodowego Funduszu Zdrowia przeprowadzający kontrolę niezwłocznie powiadamiają o tym Policję lub prokuratora. ” ;
 7)
 w art. 23:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Kto dopuszcza do pracy lub do innej działalności związanej z wychowaniem, edukacją, wypoczynkiem, leczeniem, świadczeniem porad psychologicznych, rozwojem duchowym, uprawianiem sportu lub realizacją innych zainteresowań przez małoletnich, lub z opieką nad nimi, osobę bez uzyskania informacji, o których mowa w art. 21 ust. 2, podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 1000 zł.
-” ,
+Kto dopuszcza do pracy lub do innej działalności związanej z wychowaniem, edukacją, wypoczynkiem, leczeniem, świadczeniem porad psychologicznych, rozwojem duchowym, uprawianiem sportu lub realizacją innych zainteresowań przez małoletnich, lub z opieką nad nimi, osobę bez uzyskania informacji, o których mowa w art. 21 ust. 2, podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 1000 zł. ” ,
 b)
-dodaje się ust. 3 w brzmieniu:
-„
+dodaje się ust. 3 w brzmieniu: „
 3.
-Kto przed nawiązaniem stosunku pracy lub dopuszczeniem do działalności związanej z wychowaniem, edukacją, wypoczynkiem, leczeniem, świadczeniem porad psychologicznych, rozwojem duchowym, uprawianiem sportu lub realizacją innych zainteresowań przez małoletnich, lub z opieką nad nimi, nie wypełnia obowiązku przedłożenia informacji lub oświadczenia, o których mowa w art. 21 ust. 3–7, podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 1000 zł.
-” ;
+Kto przed nawiązaniem stosunku pracy lub dopuszczeniem do działalności związanej z wychowaniem, edukacją, wypoczynkiem, leczeniem, świadczeniem porad psychologicznych, rozwojem duchowym, uprawianiem sportu lub realizacją innych zainteresowań przez małoletnich, lub z opieką nad nimi, nie wypełnia obowiązku przedłożenia informacji lub oświadczenia, o których mowa w art. 21 ust. 3–7, podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 1000 zł. ” ;
 8)
-po art. 23 dodaje się art. 23a-23c w brzmieniu:
-„
+po art. 23 dodaje się art. 23a-23c w brzmieniu: „
 
 **Art. 1.** W ustawie z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2020 r. poz. 1359 oraz z 2022 r. poz. 2140) wprowadza się następujące zmiany:
 
@@ -619,7 +616,7 @@ po art. 23 dodaje się art. 23a-23c w brzmieniu:
 
 § 7. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób przygotowania wysłuchania osoby niepełnosprawnej oraz warunki, w jakich powinno odbywać się wysłuchanie, mając na względzie konieczność zapewnienia swobody wypowiedzi i wsparcia potrzeb w komunikowaniu się wysłuchiwanych osób niepełnosprawnych. ” .
 
-**Art. 3.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1855, 2582 i 2600 oraz z 2023 r. poz. 289, 535 i 818.) wprowadza się następujące zmiany:
 
 - **1)** w art. 21 w § 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
 - **4)** rodzicowi albo opiekunowi prawnemu lub faktycznemu o przestępstwo popełnione na szkodę małoletniego – należy bezzwłocznie zawiadomić sąd rodzinny właściwy dla miejsca zamieszkania małoletniego. ” ;
@@ -693,7 +690,7 @@ po art. 23 dodaje się art. 23a-23c w brzmieniu:
 - **7)** innym organizatorom – przed dopuszczeniem osoby do działalności związanej z wychowaniem, edukacją, wypoczynkiem, leczeniem, świadczeniem porad psychologicznych, rozwojem duchowym, uprawianiem sportu lub realizacją innych zainteresowań przez małoletnich, lub z opieką nad nimi, w zakresie uzyskania informacji, czy dane tej osoby są zgromadzone w tym Rejestrze; ” ;
 - **5)** rozdział 3 otrzymuje brzmienie: „
 
-#### Rozdział 3 Obowiązki pracodawców i innych organizatorów w zakresie działalności związanej z wychowaniem, edukacją, wypoczynkiem, leczeniem, świadczeniem porad psychologicznych, rozwojem duchowym, uprawianiem sportu lub realizacją innych zainteresowań przez małoletnich, lub z opieką nad nimi oraz osób zatrudnianych i dopuszczanych do takiej działalności
+#### Rozdział 3
 
 **Art. 21.**
 
@@ -721,7 +718,7 @@ po art. 23 dodaje się art. 23a-23c w brzmieniu:
 
 - **6)** po rozdziale 4 dodaje się rozdziały 4a-4e w brzmieniu: „
 
-#### Rozdział 4a Ocena prawdopodobieństwa ponownego popełnienia przestępstwa przeciwko wolności seksualnej i obyczajności na szkodę małoletniego
+#### Rozdział 4a
 
 **Art. 22a.**
 
@@ -729,13 +726,13 @@ po art. 23 dodaje się art. 23a-23c w brzmieniu:
 
 2. Ustalenia stopnia prawdopodobieństwa ponownego popełnienia przestępstwa, o którym mowa w ust. 1, dokonuje się także w sprawie o przestępstwo z art. 148 Kodeksu karnego popełnione na szkodę małoletniego, jeżeli pozostaje ono w zbiegu z przestępstwem przeciwko wolności seksualnej i obyczajności popełnionym na szkodę małoletniego.
 
-#### Rozdział 4b Standardy ochrony małoletnich
+#### Rozdział 4b
 
-#### Rozdział 4c Analiza zdarzeń, na skutek których małoletni poniósł śmierć lub doznał ciężkiego uszczerbku na zdrowiu
+#### Rozdział 4c
 
-#### Rozdział 4d Pozostałe szczególne środki ochrony małoletnich przed krzywdzeniem oraz podmioty wskazane do ich realizacji
+#### Rozdział 4d
 
-#### Rozdział 4e Kontrola obowiązków
+#### Rozdział 4e
 
 **Art. 23a.** Kto dopuszcza do pracy lub do innej działalności związanej z wychowaniem, edukacją, wypoczynkiem, leczeniem, świadczeniem porad psychologicznych, rozwojem duchowym, uprawianiem sportu lub realizacją innych zainteresowań przez małoletnich, lub z opieką nad nimi, osobę wiedząc, że dane tej osoby są zamieszczone w Rejestrze, albo wiedząc, że została prawomocnie skazana za przestępstwo określone w rozdziale XIX i XXV Kodeksu karnego, przestępstwo określone w art. 189a i art. 207 Kodeksu karnego lub w ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 1000 zł. 1. Kto, będąc obowiązanym do wprowadzenia standardów ochrony małoletnich nie wykonuje tego obowiązku, podlega karze grzywny do 250 zł albo karze nagany. 2. W razie ponownego stwierdzenia niewykonania obowiązku wprowadzenia standardów ochrony małoletnich, sprawca, podlega karze grzywny nie niższej niż 1000 zł. Kto dopuszcza do pracy lub do innej działalności związanej z wychowaniem, edukacją, leczeniem małoletnich lub z opieką nad nimi osobę wiedząc, że osoba ta ma obowiązek stosowania się do orzeczonego przez sąd zakazu zajmowania wszelkich lub określonych stanowisk, wykonywania wszelkich lub określonych zawodów albo działalności, związanych z wychowaniem, edukacją, leczeniem małoletnich lub z opieką nad nimi, podlega karze pozbawienia wolności od 3 miesięcy do lat 5. ” ;
 
@@ -758,5 +755,5 @@ po art. 23 dodaje się art. 23a-23c w brzmieniu:
 
 **Art. 11.** Przepisy ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą, stosuje się do skazanych, którzy rozpoczną odbywanie kary pozbawienia wolności po dniu wejścia w życie niniejszej ustawy.
 
-**Art. 12.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1–3, art. 5, art. 7 pkt 6 w zakresie rozdziałów 4c i 4d, art. 8 oraz art. 9, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 12.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1–3, art. 5, art. 7 pkt 6 w zakresie rozdziałów 4c i 4d, art. 8 oraz art. 9, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej oraz ustawę z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1855, 2582 i 2600 oraz z 2023 r. poz. 289, 535 i 818. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240, 289, 347, 535, 641 i 1088. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1855, 2582 i 2600 oraz z 2023 r. poz. 289, 535, 818 i 1606. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614, 1030, 1429 i 1606.
 

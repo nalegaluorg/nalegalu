@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 28 grudnia 2017 r. w sprawie nadania statutu Państwowemu Gospodarstwu Wodnemu Wody Polskie
+# Rozporządzenie Ministra Środowiskaz dnia 28 grudnia 2017 r. w sprawie nadania statutu Państwowemu Gospodarstwu Wodnemu Wody Polskie Minister Środowiska kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 2323 i 2480).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-28 |
 | Data wydania | 2018-01-30 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002506) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2506/text.pdf) |
 
@@ -36,8 +35,7 @@ Na podstawie art. 239 ust. 4 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz.
 § 1.
 Państwowemu Gospodarstwu Wodnemu Wody Polskie nadaje się statut stanowiący załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-1) Minister Środowiska kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 2323 i 2480).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. 1) Minister Środowiska kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 2323 i 2480).
 Załącznik – Statut Państwowego Gospodarstwa Wodnego Wody Polskie
 § 1.
 Państwowe Gospodarstwo Wodne Wody Polskie, zwane dalej „Wodami Polskimi”, działa na podstawie przepisów ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180), zwanej dalej „ustawą”, oraz niniejszego statutu.
@@ -74,8 +72,7 @@ działy,
 6)
 zespoły,
 7)
-samodzielne stanowiska pracy
-będące wewnętrznymi komórkami organizacyjnymi jednostek organizacyjnych Wód Polskich.
+samodzielne stanowiska pracy – będące wewnętrznymi komórkami organizacyjnymi jednostek organizacyjnych Wód Polskich.
 2.
 W skład pionów wchodzą: departamenty, biura, wydziały, działy, zespoły, oraz samodzielne stanowiska pracy.
 3.
@@ -134,7 +131,7 @@ Regionalne zarządy gospodarki wodnej:
 1)
 wykonują zadania, o których mowa w art. 240 ust. 3 ustawy, a także zadania wynikające z przepisów odrębnych, w szczególności:
 a)
-opiniują decyzje, o których mowa w art. 6 ust. 3 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2015 r. poz. 652 oraz z 2017 r. poz. 60 i 1566), projekty planów zagospodarowania przestrzennego morskich wód wewnętrznych, morza terytorialnego i wyłącznej strefy ekonomicznej, o których mowa w przepisach ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2017 r. poz. 2205), projekty planów remediacji, o których mowa w art. 101l ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519, z późn. zm.), projekty miejscowych planów odbudowy obiektów budowlanych, o których mowa w art. 13d ustawy z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu (Dz. U. z 2016 r. poz. 1067 oraz z 2017 r. poz. 1566), decyzji o zezwoleniu na realizację inwestycji drogowej, o której mowa w przepisach ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2017 r. poz. 1496 i 1566), decyzję o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego, o której mowa w przepisach ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2017 r. poz. 1122 i 1566), decyzję o ustaleniu lokalizacji regionalnej sieci szerokopasmowej, o której mowa w przepisach ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2017 r. poz. 2062), decyzje o ustaleniu lokalizacji, o których mowa w przepisach ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. z 2017 r. poz. 552 i 1566) i decyzję o ustaleniu lokalizacji strategicznej inwestycji w zakresie sieci przesyłowych, o której mowa w przepisach ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2016 r. poz. 1812 oraz z 2017 r. poz. 635 i 1566),
+opiniują decyzje, o których mowa w art. 6 ust. 3 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2015 r. poz. 652 oraz z 2017 r. poz. 60 i 1566), projekty planów zagospodarowania przestrzennego morskich wód wewnętrznych, morza terytorialnego i wyłącznej strefy ekonomicznej, o których mowa w przepisach ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2017 r. poz. 2205), projekty planów remediacji, o których mowa w art. 101l ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 785, 898, 1089, 1529, 1566, 1888, 1999, 2056, 2180 i 2290.), projekty miejscowych planów odbudowy obiektów budowlanych, o których mowa w art. 13d ustawy z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu (Dz. U. z 2016 r. poz. 1067 oraz z 2017 r. poz. 1566), decyzji o zezwoleniu na realizację inwestycji drogowej, o której mowa w przepisach ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2017 r. poz. 1496 i 1566), decyzję o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego, o której mowa w przepisach ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2017 r. poz. 1122 i 1566), decyzję o ustaleniu lokalizacji regionalnej sieci szerokopasmowej, o której mowa w przepisach ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2017 r. poz. 2062), decyzje o ustaleniu lokalizacji, o których mowa w przepisach ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. z 2017 r. poz. 552 i 1566) i decyzję o ustaleniu lokalizacji strategicznej inwestycji w zakresie sieci przesyłowych, o której mowa w przepisach ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2016 r. poz. 1812 oraz z 2017 r. poz. 635 i 1566),
 b)
 prowadzą sprawy, w których dyrektor regionalnego zarządu gospodarki wodnej jest organem regulacyjnym, o którym mowa w przepisach ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2017 r. poz. 328, 1566 i 2108),
 c)
@@ -338,7 +335,7 @@ Zarząd Zlewni w Zgorzelcu – zlewnia Nysy Łużyckiej;
 49)
 Zarząd Zlewni w Zielonej Górze – zlewnia Odry Lubuskiej;
 50)
-Zarząd Zlewni w Żywcu – zlewnia Soły i Skawy.
+Zarząd Zlewni w Żywcu – zlewnia Soły i Skawy. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 785, 898, 1089, 1529, 1566, 1888, 1999, 2056, 2180 i 2290.
 
 ## Załącznik nr 1 — – Wykaz siedzib Zarządów zlewni oraz nadzorów wodnych
 

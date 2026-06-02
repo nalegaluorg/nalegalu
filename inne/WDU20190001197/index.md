@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 18 czerwca 2019 r. zmieniające rozporządzenie w sprawie świadectwa pracy
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 18 czerwca 2019 r. zmieniające rozporządzenie w sprawie świadectwa pracy Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1054).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-18 |
 | Data wydania | 2019-06-28 |
-| Wejście w życie | 2019-06-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001197) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1197/text.pdf) |
 
@@ -52,8 +51,7 @@ Jeżeli z przyczyn obiektywnych wydanie nowego świadectwa pracy w terminie okre
 6.
 Najpóźniej w dniu wydania nowego świadectwa pracy usuwa się z akt osobowych pracownika i niszczy poprzednio wydane świadectwo pracy.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1054).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1054).
 Załącznik – Świadectwo pracy (wzór)
 ...(pracodawca oraz jego siedziba lub miejsce zamieszkania)... ...(miejscowość i data)... ...(numer REGON-PKD)... ŚWIADECTWO PRACY
 1.
@@ -101,8 +99,7 @@ wykorzystał dodatkowy urlop albo inne uprawnienia lub świadczenia przewidziane
 7.
 Informacja o zajęciu wynagrodzenia: ... (oznaczenie komornika i numer sprawy egzekucyjnej)... ...(wysokość potrąconych kwot)...
 8.
-Informacje uzupełniające ... ... ...(podpis pracodawcy lub osoby reprezentującej pracodawcę albo osoby upoważnionej do składania oświadczeń w imieniu pracodawcy)...
-POUCZENIE Pracownik może w ciągu 7 dni od dnia otrzymania świadectwa pracy wystąpić do pracodawcy z wnioskiem o sprostowanie tego świadectwa. W razie nieuwzględnienia wniosku pracownikowi przysługuje, w ciągu 7 dni od dnia otrzymania zawiadomienia o odmowie sprostowania świadectwa pracy, prawo wystąpienia z żądaniem sprostowania świadectwa pracy do Sądu Rejonowego – Sądu Pracy w ... ...(podstawa prawna art. 97 § 2¹ Kodeksu pracy)... SPOSÓB WYPEŁNIANIA ŚWIADECTWA PRACY
+Informacje uzupełniające ... ... ...(podpis pracodawcy lub osoby reprezentującej pracodawcę albo osoby upoważnionej do składania oświadczeń w imieniu pracodawcy)... POUCZENIE Pracownik może w ciągu 7 dni od dnia otrzymania świadectwa pracy wystąpić do pracodawcy z wnioskiem o sprostowanie tego świadectwa. W razie nieuwzględnienia wniosku pracownikowi przysługuje, w ciągu 7 dni od dnia otrzymania zawiadomienia o odmowie sprostowania świadectwa pracy, prawo wystąpienia z żądaniem sprostowania świadectwa pracy do Sądu Rejonowego – Sądu Pracy w ... ...(podstawa prawna art. 97 § 2¹ Kodeksu pracy)... SPOSÓB WYPEŁNIANIA ŚWIADECTWA PRACY
 1.
 Nr REGON-PKD – stanowi identyfikator pracodawcy nadany przez właściwy wojewódzki urząd statystyczny.
 2.

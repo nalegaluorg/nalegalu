@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-03-11 |
 | Data wydania | 2014-03-17 |
-| Wejście w życie | 2014-03-18 |
 | Ostatnia zmiana | 2025-01-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000329) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/329/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 191 ust. 8 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 191 ust. 8 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 106, poz. 675, Nr 143, poz. 963, Nr 155, poz. 1043, Nr 197, poz. 1307 i Nr 200, poz. 1323, z 2011 r. Nr 64, poz. 341, Nr 106, poz. 622, Nr 115, poz. 673, Nr 129, poz. 732, Nr 130, poz. 762, Nr 135, poz. 789, Nr 163, poz. 981, Nr 187, poz. 1110 i Nr 224, poz. 1337, z 2012 r. poz. 908, 951, 1256, 1429 i 1529, z 2013 r. poz. 829 i 1238 oraz z 2014 r. poz. 40.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -98,8 +97,7 @@ Wniesiona opłata za postępowanie kwalifikacyjne podlega również zwrotowi:
 1)
 za część pisemną i ustną egzaminu, w przypadku gdy kandydat nie przystąpił do części pisemnej egzaminu,
 2)
-za część ustną egzaminu, w przypadku gdy kandydat nie przystąpił do tej części egzaminu
-jeżeli nastąpiło to z przyczyn losowych, a kandydat złożył udokumentowany wniosek o zwrot wniesionej opłaty w terminie 7 dni od dnia przeprowadzenia poszczególnych części egzaminu, do których kandydat nie przystąpił.
+za część ustną egzaminu, w przypadku gdy kandydat nie przystąpił do tej części egzaminu – jeżeli nastąpiło to z przyczyn losowych, a kandydat złożył udokumentowany wniosek o zwrot wniesionej opłaty w terminie 7 dni od dnia przeprowadzenia poszczególnych części egzaminu, do których kandydat nie przystąpił.
 § 6.
 1.
 W przypadkach, o których mowa w § 5, wniesioną opłatę za postępowanie kwalifikacyjne albo odpowiednią jego część zwraca się na wskazany przez kandydata numer rachunku bankowego albo przekazem pocztowym.
@@ -142,5 +140,5 @@ Wysokość wynagrodzenia za przeprowadzenie postępowania kwalifikacyjnego dla p
 3)
 § 4 ust. 5 – za przeprowadzenie postępowania kwalifikacyjnego w przypadku złożenia wniosku o ponowne rozpatrzenie sprawy w trybie art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 22 czerwca 2010 r. w sprawie opłaty za postępowanie kwalifikacyjne oraz wysokości wynagrodzenia członków Państwowej Komisji Kwalifikacyjnej (Dz. U. Nr 113, poz. 752 oraz z 2013 r. poz. 10), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 49 ust. 3 ustawy z dnia 13 czerwca 2013 r. o zmianie ustaw regulujących wykonywanie niektórych zawodów (Dz. U. poz. 829). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 106, poz. 675, Nr 143, poz. 963, Nr 155, poz. 1043, Nr 197, poz. 1307 i Nr 200, poz. 1323, z 2011 r. Nr 64, poz. 341, Nr 106, poz. 622, Nr 115, poz. 673, Nr 129, poz. 732, Nr 130, poz. 762, Nr 135, poz. 789, Nr 163, poz. 981, Nr 187, poz. 1110 i Nr 224, poz. 1337, z 2012 r. poz. 908, 951, 1256, 1429 i 1529, z 2013 r. poz. 829 i 1238 oraz z 2014 r. poz. 40. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 22 czerwca 2010 r. w sprawie opłaty za postępowanie kwalifikacyjne oraz wysokości wynagrodzenia członków Państwowej Komisji Kwalifikacyjnej (Dz. U. Nr 113, poz. 752 oraz z 2013 r. poz. 10), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 49 ust. 3 ustawy z dnia 13 czerwca 2013 r. o zmianie ustaw regulujących wykonywanie niektórych zawodów (Dz. U. poz. 829).
 

@@ -26,40 +26,51 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000845) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/845/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom rynkowym Rozdział 1 – Przepisy ogólne Rozdział 2 – Nieuczciwe praktyki rynkowe Rozdział 3 – Odpowiedzialność cywilna Rozdział 4 – Przepisy karne Rozdział 5 – Zmiany w przepisach obowiązujących, przepis przejściowy i końcowy
+Załącznik – Tekst jednolity ustawy z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom rynkowym
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom rynkowym (Dz. U. z 2017 r. poz. 2070), z uwzględnieniem zmian wprowadzonych ustawą z dnia 1 grudnia 2022 r. o zmianie ustawy o prawach konsumenta oraz niektórych innych ustaw (Dz. U. poz. 2581) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 kwietnia 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 9 i art. 11 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o prawach konsumenta oraz niektórych innych ustaw (Dz. U. poz. 2581), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 9 i art. 11 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o prawach konsumenta oraz niektórych innych ustaw (Dz. U. poz. 2581), które stanowią: „
+Przepisy ogólne
+Nieuczciwe praktyki rynkowe
+Odpowiedzialność cywilna
+Przepisy karne
+Zmiany w przepisach obowiązujących, przepis przejściowy i końcowy
 Art. 18–20.
 (pominięte)
 
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Nieuczciwe praktyki rynkowe
+
+#### Rozdział 3 – Odpowiedzialność cywilna
+
+#### Rozdział 4 – Przepisy karne
+
+#### Rozdział 5 – Zmiany w przepisach obowiązujących, przepis przejściowy i końcowy
+
 **Art. 9.** Do postępowań dotyczących roszczeń, o których mowa w art. 12 ust. 1 ustawy zmienianej w art. 5, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepis art. 12 ust. 1 ustawy zmienianej w art. 5 w brzmieniu nadanym niniejszą ustawą. ” „
 
-**Art. 11.** Ustawa wchodzi w życie z dniem 1 stycznia 2023 r. ” . Załącznik – Tekst jednolity ustawy z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom rynkowym
+**Art. 11.** Ustawa wchodzi w życie z dniem 1 stycznia 2023 r. ” . Załącznik – Tekst jednolity ustawy z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom rynkowymNiniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2005/29/WE Parlamentu Europejskiego i Rady z dnia 11 maja 2005 r. dotyczącej nieuczciwych praktyk handlowych stosowanych przez przedsiębiorstwa wobec konsumentów na rynku wewnętrznym oraz zmieniającej dyrektywę Rady 84/450/EWG, dyrektywy 97/7/WE, 98/27/WE, 2002/65/WE Parlamentu Europejskiego i Rady oraz rozporządzenie (WE) nr 2006/2004 Parlamentu Europejskiego i Rady („Dyrektywa o nieuczciwych praktykach handlowych”) (Dz. Urz. UE L 149 z 11.06.2005, str. 22). Niniejszą ustawą zmienia się ustawy: z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji, z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych i z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa nieuczciwe praktyki rynkowe w działalności gospodarczej i zawodowej oraz zasady przeciwdziałania tym praktykom w interesie konsumentów i w interesie publicznym.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
 - **1)** przedsiębiorcy – rozumie się przez to osoby fizyczne, osoby prawne oraz jednostki organizacyjne nieposiadające osobowości prawnej, które prowadzą działalność gospodarczą lub zawodową, nawet jeżeli działalność ta nie ma charakteru zorganizowanego i ciągłego, a także osoby działające w ich imieniu lub na ich rzecz;
-- **2)** konsumencie – rozumie się przez to konsumenta w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339 oraz z 2023 r. poz. 326);
-- **3)** produkcie – rozumie się przez to każdy towar lub usługę, w tym nieruchomości, usługi cyfrowe, treści cyfrowe, prawa i obowiązki wynikające ze stosunków cywilnoprawnych;
+- **2)** konsumencie – rozumie się przez to konsumenta w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339 oraz z 2023 r. poz. 326); 3W brzmieniu ustalonym przez art. 5 pkt 1 lit. a ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o prawach konsumenta oraz niektórych innych ustaw (Dz. U. poz. 2581), która weszła w życie z dniem 1 stycznia 2023 r.) produkcie – rozumie się przez to każdy towar lub usługę, w tym nieruchomości, usługi cyfrowe, treści cyfrowe, prawa i obowiązki wynikające ze stosunków cywilnoprawnych;
 - **4)** praktykach rynkowych – rozumie się przez to działanie lub zaniechanie przedsiębiorcy, sposób postępowania, oświadczenie lub informację handlową, w szczególności reklamę i marketing, bezpośrednio związane z promocją lub nabyciem produktu przez konsumenta;
 - **5)** kodeksie dobrych praktyk – rozumie się przez to zbiór zasad postępowania, a w szczególności norm etycznych i zawodowych, przedsiębiorców, którzy zobowiązali się do ich przestrzegania w odniesieniu do jednej lub większej liczby praktyk rynkowych;
 - **6)** propozycji nabycia produktu – rozumie się przez to informację handlową określającą cechy produktu oraz jego cenę, w sposób właściwy dla użytego środka komunikowania się z konsumentami, która bezpośrednio wpływa bądź może wpływać na podjęcie przez konsumenta decyzji dotyczącej umowy;
 - **7)** decyzji dotyczącej umowy – rozumie się przez to podejmowaną przez konsumenta decyzję, co do tego, czy, w jaki sposób i na jakich warunkach dokona zakupu, zapłaci za produkt w całości lub w części, zatrzyma produkt, rozporządzi nim lub wykona uprawnienie umowne związane z produktem, bez względu na to, czy konsument postanowi dokonać określonej czynności, czy też powstrzymać się od jej dokonania;
 - **8)** przeciętnym konsumencie – rozumie się przez to konsumenta, który jest dostatecznie dobrze poinformowany, uważny i ostrożny; oceny dokonuje się z uwzględnieniem czynników społecznych, kulturowych, językowych i przynależności danego konsumenta do szczególnej grupy konsumentów, przez którą rozumie się dającą się jednoznacznie zidentyfikować grupę konsumentów, szczególnie podatną na oddziaływanie praktyki rynkowej lub na produkt, którego praktyka rynkowa dotyczy, ze względu na szczególne cechy, takie jak wiek, niepełnosprawność fizyczna lub umysłowa;
 - **9)** państwie członkowskim – rozumie się przez to państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym;
-- **10)** systemie konsorcyjnym – rozumie się przez to prowadzenie działalności gospodarczej polegającej na zarządzaniu mieniem gromadzonym w ramach grupy z udziałem konsumentów, utworzonej w celu sfinansowania zakupu produktu na rzecz uczestników grupy;
-- **11)** plasowaniu – rozumie się przez to przyznawanie określonej widoczności produktom lub wagi nadawanej wynikom wyszukiwania przez przedsiębiorców, którzy udostępniają funkcję wyszukiwania internetowego w formie, w jakiej zostało przedstawione, zorganizowane lub przekazane niezależnie od wykorzystanych środków technologicznych;
-- **12)** internetowej platformie handlowej – rozumie się przez to internetową platformę handlową w rozumieniu art. 2 pkt 8 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2020 r. poz. 287, z 2021 r. poz. 2105 oraz z 2022 r. poz. 2337 i 2581).
+- **10)** systemie konsorcyjnym – rozumie się przez to prowadzenie działalności gospodarczej polegającej na zarządzaniu mieniem gromadzonym w ramach grupy z udziałem konsumentów, utworzonej w celu sfinansowania zakupu produktu na rzecz uczestników grupy; 11Dodany przez art. 5 pkt 1 lit. b ustawy, o której mowa w odnośniku 2.) plasowaniu – rozumie się przez to przyznawanie określonej widoczności produktom lub wagi nadawanej wynikom wyszukiwania przez przedsiębiorców, którzy udostępniają funkcję wyszukiwania internetowego w formie, w jakiej zostało przedstawione, zorganizowane lub przekazane niezależnie od wykorzystanych środków technologicznych; 12Dodany przez art. 5 pkt 1 lit. b ustawy, o której mowa w odnośniku 2.) internetowej platformie handlowej – rozumie się przez to internetową platformę handlową w rozumieniu art. 2 pkt 8 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2020 r. poz. 287, z 2021 r. poz. 2105 oraz z 2022 r. poz. 2337 i 2581).
 
-#### Rozdział 2 Nieuczciwe praktyki rynkowe
+#### Rozdział 2
 
 **Art. 3.** Zakazane jest stosowanie nieuczciwych praktyk rynkowych.
 
@@ -80,8 +91,7 @@ Art. 18–20.
 - **1)** rozpowszechnianie nieprawdziwych informacji;
 - **2)** rozpowszechnianie prawdziwych informacji w sposób mogący wprowadzać w błąd;
 - **3)** działanie związane z wprowadzeniem produktu na rynek, które może wprowadzać w błąd w zakresie produktów lub ich opakowań, znaków towarowych, nazw handlowych lub innych oznaczeń indywidualizujących przedsiębiorcę lub jego produkty, w szczególności reklama porównawcza w rozumieniu art. 16 ust. 3 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022 r. poz. 1233);
-- **4)** nieprzestrzeganie kodeksu dobrych praktyk, do którego przedsiębiorca dobrowolnie przystąpił, jeżeli przedsiębiorca ten informuje w ramach praktyki rynkowej, że jest związany kodeksem dobrych praktyk;
-- **5)** każdy rodzaj wprowadzenia na rynek w co najmniej jednym państwie członkowskim towaru jako identycznego z towarem wprowadzonym na rynki w innych państwach członkowskich, mimo że towar ten w sposób istotny różni się składem lub właściwościami, chyba że przemawiają za tym uzasadnione i obiektywne czynniki.
+- **4)** nieprzestrzeganie kodeksu dobrych praktyk, do którego przedsiębiorca dobrowolnie przystąpił, jeżeli przedsiębiorca ten informuje w ramach praktyki rynkowej, że jest związany kodeksem dobrych praktyk; 5Dodany przez art. 5 pkt 2 ustawy, o której mowa w odnośniku 2.) każdy rodzaj wprowadzenia na rynek w co najmniej jednym państwie członkowskim towaru jako identycznego z towarem wprowadzonym na rynki w innych państwach członkowskich, mimo że towar ten w sposób istotny różni się składem lub właściwościami, chyba że przemawiają za tym uzasadnione i obiektywne czynniki.
 
 3. Wprowadzające w błąd działanie może w szczególności dotyczyć:
 
@@ -109,25 +119,19 @@ Art. 18–20.
 
 - **1)** istotne cechy produktu w takim zakresie, w jakim jest to właściwe dla danego środka komunikowania się z konsumentami i produktu;
 - **2)** imię, nazwisko (nazwę) i adres przedsiębiorcy (siedzibę) oraz przedsiębiorcy, na którego rzecz działa;
-- **3)** cenę uwzględniającą podatki lub, w przypadku gdy charakter produktu nie pozwala w sposób racjonalny na wcześniejsze obliczenie ceny, sposób, w jaki cena jest obliczana, jak również wszelkie dodatkowe opłaty za transport, dostawę lub usługi pocztowe lub, w sytuacji gdy wcześniejsze obliczenie tych opłat nie jest w sposób racjonalny możliwe, informację o możliwości powstania takich dodatkowych kosztów;
-- **4)** uzgodnienia dotyczące sposobu płatności, dostawy lub wykonania produktu;
-- **5)** informacje o istnieniu prawa do odstąpienia od umowy lub rozwiązania umowy, jeżeli prawo takie wynika z ustawy lub umowy;
-- **6)** informacje o tym, czy osoba trzecia oferująca produkty na internetowej platformie handlowej jest przedsiębiorcą – na podstawie oświadczenia tej osoby złożonego dostawcy internetowej platformy handlowej w rozumieniu art. 2 pkt 9 ustawy z dnia 30 maja 2014 r. o prawach konsumenta;
-- **7)** informacje o tym, czy i w jaki sposób przedsiębiorca zapewnia, aby publikowane opinie pochodziły od konsumentów, którzy używali danego produktu lub go nabyli – w przypadku przedsiębiorcy, który umożliwia dostęp do wystawionych przez konsumentów opinii o produktach;
-- **8)** ogólne informacje udostępniane w specjalnej części interfejsu internetowego dostępnej w sposób bezpośredni i łatwy ze strony, na której prezentowane są wyniki wyszukiwania dotyczące głównych parametrów decydujących o plasowaniu produktów przedstawianych konsumentowi w wyniku wyszukiwania oraz względne znaczenie tych parametrów w porównaniu z innymi parametrami – w przypadku gdy udostępnia się konsumentom możliwość wyszukiwania produktów oferowanych przez różnych przedsiębiorców lub konsumentów i niezależnie od tego, gdzie transakcja ostatecznie zostanie zawarta.
+- **3)** cenę uwzględniającą podatki lub, w przypadku gdy charakter produktu nie pozwala w sposób racjonalny na wcześniejsze obliczenie ceny, sposób, w jaki cena jest obliczana, jak również wszelkie dodatkowe opłaty za transport, dostawę lub usługi pocztowe lub, w sytuacji gdy wcześniejsze obliczenie tych opłat nie jest w sposób racjonalny możliwe, informację o możliwości powstania takich dodatkowych kosztów; 4W brzmieniu ustalonym przez art. 5 pkt 3 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2.) uzgodnienia dotyczące sposobu płatności, dostawy lub wykonania produktu;
+- **5)** informacje o istnieniu prawa do odstąpienia od umowy lub rozwiązania umowy, jeżeli prawo takie wynika z ustawy lub umowy; 6Dodany przez art. 5 pkt 3 lit. a tiret drugie ustawy, o której mowa w odnośniku 2.) informacje o tym, czy osoba trzecia oferująca produkty na internetowej platformie handlowej jest przedsiębiorcą – na podstawie oświadczenia tej osoby złożonego dostawcy internetowej platformy handlowej w rozumieniu art. 2 pkt 9 ustawy z dnia 30 maja 2014 r. o prawach konsumenta; 7Dodany przez art. 5 pkt 3 lit. a tiret drugie ustawy, o której mowa w odnośniku 2.) informacje o tym, czy i w jaki sposób przedsiębiorca zapewnia, aby publikowane opinie pochodziły od konsumentów, którzy używali danego produktu lub go nabyli – w przypadku przedsiębiorcy, który umożliwia dostęp do wystawionych przez konsumentów opinii o produktach; 8Dodany przez art. 5 pkt 3 lit. a tiret drugie ustawy, o której mowa w odnośniku 2.) ogólne informacje udostępniane w specjalnej części interfejsu internetowego dostępnej w sposób bezpośredni i łatwy ze strony, na której prezentowane są wyniki wyszukiwania dotyczące głównych parametrów decydujących o plasowaniu produktów przedstawianych konsumentowi w wyniku wyszukiwania oraz względne znaczenie tych parametrów w porównaniu z innymi parametrami – w przypadku gdy udostępnia się konsumentom możliwość wyszukiwania produktów oferowanych przez różnych przedsiębiorców lub konsumentów i niezależnie od tego, gdzie transakcja ostatecznie zostanie zawarta.
 
 5. Przy ocenie, czy praktyka rynkowa wprowadza w błąd przez zaniechanie, należy uwzględnić wszystkie jej elementy oraz okoliczności wprowadzenia produktu na rynek, w tym sposób jego prezentacji.
 
-6. W przypadku gdy ze specyfiki środka komunikowania się z konsumentami stosowanego dla danej praktyki rynkowej wynikają ograniczenia przestrzenne lub czasowe, ograniczenia te i wszystkie środki podjęte przez przedsiębiorcę w celu udostępnienia informacji konsumentom w inny sposób uwzględnia się przy ocenie, czy doszło do pominięcia informacji.
-
-7. Przepisu ust. 4 pkt 8 nie stosuje się do dostawców wyszukiwarek internetowych w rozumieniu art. 2 pkt 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1150 z dnia 20 czerwca 2019 r. w sprawie propagowania sprawiedliwości i przejrzystości dla użytkowników biznesowych korzystających z usług pośrednictwa internetowego (Dz. Urz. UE L 186 z 11.07.2019, str. 57).
+6. W przypadku gdy ze specyfiki środka komunikowania się z konsumentami stosowanego dla danej praktyki rynkowej wynikają ograniczenia przestrzenne lub czasowe, ograniczenia te i wszystkie środki podjęte przez przedsiębiorcę w celu udostępnienia informacji konsumentom w inny sposób uwzględnia się przy ocenie, czy doszło do pominięcia informacji. 7Dodany przez art. 5 pkt 3 lit. b ustawy, o której mowa w odnośniku 2.. Przepisu ust. 4 pkt 8 nie stosuje się do dostawców wyszukiwarek internetowych w rozumieniu art. 2 pkt 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1150 z dnia 20 czerwca 2019 r. w sprawie propagowania sprawiedliwości i przejrzystości dla użytkowników biznesowych korzystających z usług pośrednictwa internetowego (Dz. Urz. UE L 186 z 11.07.2019, str. 57).
 
 **Art. 7.** Nieuczciwymi praktykami rynkowymi w każdych okolicznościach są następujące praktyki rynkowe wprowadzające w błąd:
 
 - **1)** podawanie przez przedsiębiorcę informacji, że zobowiązał się on do przestrzegania kodeksu dobrych praktyk, jeżeli jest to niezgodne z prawdą;
 - **2)** posługiwanie się certyfikatem, znakiem jakości lub równorzędnym oznaczeniem, nie mając do tego uprawnienia;
 - **3)** twierdzenie, że kodeks dobrych praktyk został zatwierdzony przez organ publiczny lub inny organ, jeżeli jest to niezgodne z prawdą;
-- **4)** twierdzenie, że: przedsiębiorca uzyskał stosowne uprawnienie od organu publicznego lub podmiotu prywatnego, praktyki rynkowe lub produkt zostały zatwierdzone, zaaprobowane lub uzyskały inne stosowne uprawnienie od organu publicznego lub podmiotu prywatnego przy jednoczesnym niespełnieniu warunków zatwierdzenia, aprobaty lub warunków niezbędnych do uzyskania innego stosownego uprawnienia;
+- **4)** twierdzenie, że: przedsiębiorca uzyskał stosowne uprawnienie od organu publicznego lub podmiotu prywatnego, praktyki rynkowe lub produkt zostały zatwierdzone, zaaprobowane lub uzyskały inne stosowne uprawnienie od organu publicznego lub podmiotu prywatnego – przy jednoczesnym niespełnieniu warunków zatwierdzenia, aprobaty lub warunków niezbędnych do uzyskania innego stosownego uprawnienia;
     - **a)**
     - **b)**
 
@@ -137,8 +141,7 @@ Art. 18–20.
 - **8)** zobowiązanie się do zapewnienia usług serwisowych konsumentom, z którymi przedsiębiorca przed zawarciem umowy komunikował się w języku niebędącym językiem urzędowym państwa członkowskiego, na którego terytorium przedsiębiorca ma swoją siedzibę, a następnie udostępnienie takich usług jedynie w innym języku, bez wyraźnego poinformowania o tym konsumenta przed zawarciem przez niego umowy;
 - **9)** twierdzenie lub wywoływanie wrażenia, że sprzedaż produktu jest zgodna z prawem, jeżeli jest to niezgodne z prawdą;
 - **10)** prezentowanie uprawnień przysługujących konsumentom z mocy prawa, jako cechy wyróżniającej ofertę przedsiębiorcy;
-- **11)** kryptoreklama, która polega na wykorzystywaniu treści publicystycznych w środkach masowego przekazu w celu promocji produktu w sytuacji gdy przedsiębiorca zapłacił za tę promocję, a nie wynika to wyraźnie z treści lub z obrazów lub dźwięków łatwo rozpoznawalnych przez konsumenta;
-- **11a)** podawanie wyników wyszukiwania bez wyraźnego ujawnienia płatnej reklamy lub płatności dokonanej specjalnie w celu uzyskania wyższego plasowania produktów w ramach wyników wyszukiwania – w odpowiedzi na internetowe wyszukiwanie konsumenta;
+- **11)** kryptoreklama, która polega na wykorzystywaniu treści publicystycznych w środkach masowego przekazu w celu promocji produktu w sytuacji gdy przedsiębiorca zapłacił za tę promocję, a nie wynika to wyraźnie z treści lub z obrazów lub dźwięków łatwo rozpoznawalnych przez konsumenta; 11aDodany przez art. 5 pkt 4 lit. a ustawy, o której mowa w odnośniku 2.) podawanie wyników wyszukiwania bez wyraźnego ujawnienia płatnej reklamy lub płatności dokonanej specjalnie w celu uzyskania wyższego plasowania produktów w ramach wyników wyszukiwania – w odpowiedzi na internetowe wyszukiwanie konsumenta;
 - **12)** przedstawianie nierzetelnych informacji dotyczących rodzaju i stopnia ryzyka, na jakie będzie narażone bezpieczeństwo osobiste konsumenta lub jego rodziny, w przypadku gdy nie nabędzie produktu;
 - **13)** reklamowanie produktu podobnego do produktu innego przedsiębiorcy w sposób celowo sugerujący konsumentowi, że produkt ten został wykonany przez tego samego przedsiębiorcę, jeżeli jest to niezgodne z prawdą;
 - **14)** zakładanie, prowadzenie lub propagowanie systemów promocyjnych typu piramida, w ramach których konsument wykonuje świadczenie w zamian za możliwość otrzymania korzyści materialnych, które są uzależnione przede wszystkim od wprowadzenia innych konsumentów do systemu, a nie od sprzedaży lub konsumpcji produktów;
@@ -150,10 +153,7 @@ Art. 18–20.
 - **20)** prezentowanie produktu jako „gratis”, „darmowy”, „bezpłatny” lub w podobny sposób, jeżeli konsument musi uiścić jakąkolwiek należność, z wyjątkiem bezpośrednich kosztów związanych z odpowiedzią na praktykę rynkową, odbiorem lub dostarczeniem produktu;
 - **21)** umieszczanie w materiałach marketingowych faktury lub podobnego dokumentu, sugerującego obowiązek zapłaty, który wywołuje u konsumenta wrażenie, że już zamówił reklamowany produkt, mimo że tego nie zrobił;
 - **22)** twierdzenie lub stwarzanie wrażenia, że sprzedawca nie działa w celu związanym z jego działalnością gospodarczą lub zawodową, lub podawanie się za konsumenta, jeżeli jest to niezgodne z prawdą;
-- **23)** wywoływanie u konsumenta wrażenia, że usługi serwisowe dotyczące danego produktu są dostępne w państwie członkowskim innym niż państwo członkowskie, w którym produkt ten został sprzedany, jeżeli jest to niezgodne z prawdą;
-- **24)** odsprzedaż konsumentom biletów na wszelkiego rodzaju imprezy kulturalne lub sportowe, jeżeli przedsiębiorca nabył je z wykorzystaniem oprogramowania pozwalającego mu obchodzić środki techniczne lub przekraczać limity techniczne nałożone przez pierwotnego sprzedawcę, aby obejść ograniczenia nałożone w odniesieniu do liczby biletów, które dana osoba może kupić, lub innych zasad mających zastosowanie do zakupu biletów;
-- **25)** twierdzenie przez przedsiębiorcę, który umożliwia dostęp do opinii konsumentów o produktach, że te opinie zostały zamieszczone przez konsumentów, którzy używali danego produktu lub go nabyli, mimo że przedsiębiorca ten nie podjął uzasadnionych i proporcjonalnych kroków, aby sprawdzić, czy opinie te pochodzą od tych konsumentów;
-- **26)** zamieszczanie lub zlecanie zamieszczania innej osobie nieprawdziwych opinii lub rekomendacji konsumentów albo zniekształcanie opinii lub rekomendacji konsumentów w celu promowania produktów.
+- **23)** wywoływanie u konsumenta wrażenia, że usługi serwisowe dotyczące danego produktu są dostępne w państwie członkowskim innym niż państwo członkowskie, w którym produkt ten został sprzedany, jeżeli jest to niezgodne z prawdą; 24Dodany przez art. 5 pkt 4 lit. b ustawy, o której mowa w odnośniku 2.) odsprzedaż konsumentom biletów na wszelkiego rodzaju imprezy kulturalne lub sportowe, jeżeli przedsiębiorca nabył je z wykorzystaniem oprogramowania pozwalającego mu obchodzić środki techniczne lub przekraczać limity techniczne nałożone przez pierwotnego sprzedawcę, aby obejść ograniczenia nałożone w odniesieniu do liczby biletów, które dana osoba może kupić, lub innych zasad mających zastosowanie do zakupu biletów; 25Dodany przez art. 5 pkt 4 lit. b ustawy, o której mowa w odnośniku 2.) twierdzenie przez przedsiębiorcę, który umożliwia dostęp do opinii konsumentów o produktach, że te opinie zostały zamieszczone przez konsumentów, którzy używali danego produktu lub go nabyli, mimo że przedsiębiorca ten nie podjął uzasadnionych i proporcjonalnych kroków, aby sprawdzić, czy opinie te pochodzą od tych konsumentów; 26Dodany przez art. 5 pkt 4 lit. b ustawy, o której mowa w odnośniku 2.) zamieszczanie lub zlecanie zamieszczania innej osobie nieprawdziwych opinii lub rekomendacji konsumentów albo zniekształcanie opinii lub rekomendacji konsumentów w celu promowania produktów.
 
 **Art. 8.**
 
@@ -188,7 +188,7 @@ Art. 18–20.
 
 3. W razie wątpliwości za twórcę kodeksu dobrych praktyk uważa się każdy podmiot, w szczególności przedsiębiorcę lub związek przedsiębiorców, odpowiedzialny za przygotowanie i wprowadzenie w życie lub nadzór nad przestrzeganiem kodeksu dobrych praktyk.
 
-#### Rozdział 3 Odpowiedzialność cywilna
+#### Rozdział 3
 
 **Art. 12.**
 
@@ -196,8 +196,7 @@ Art. 18–20.
 
 - **1)** zaniechania tej praktyki;
 - **2)** usunięcia skutków tej praktyki;
-- **3)** złożenia jednokrotnego lub wielokrotnego oświadczenia odpowiedniej treści i w odpowiedniej formie;
-- **3a)** obniżenia ceny;
+- **3)** złożenia jednokrotnego lub wielokrotnego oświadczenia odpowiedniej treści i w odpowiedniej formie; 3aDodany przez art. 5 pkt 5 ustawy, o której mowa w odnośniku 2.) obniżenia ceny;
 - **4)** naprawienia wyrządzonej szkody na zasadach ogólnych, w szczególności żądania unieważnienia umowy z obowiązkiem wzajemnego zwrotu świadczeń oraz zwrotu przez przedsiębiorcę kosztów związanych z nabyciem produktu;
 - **5)** zasądzenia odpowiedniej sumy pieniężnej na określony cel społeczny związany ze wspieraniem kultury polskiej, ochroną dziedzictwa narodowego lub ochroną konsumentów.
 
@@ -212,7 +211,7 @@ Art. 18–20.
 
 **Art. 14.** Roszczenia z tytułu nieuczciwej praktyki rynkowej, o których mowa w art. 12 ust. 1 pkt 1–3 i 5, ulegają przedawnieniu z upływem lat trzech. Bieg przedawnienia rozpoczyna się oddzielnie, co do każdego naruszenia.
 
-#### Rozdział 4 Przepisy karne
+#### Rozdział 4
 
 **Art. 15.**
 
@@ -238,7 +237,7 @@ Art. 18–20.
 
 3. Z żądaniem ścigania wykroczenia określonego w art. 15 mogą wystąpić także podmioty, o których mowa w art. 12 ust. 2.
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących, przepis przejściowy i końcowy
+#### Rozdział 5
 
-**Art. 21.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 21.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszeniaUstawa została ogłoszona w dniu 20 września 2007 r.. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2005/29/WE Parlamentu Europejskiego i Rady z dnia 11 maja 2005 r. dotyczącej nieuczciwych praktyk handlowych stosowanych przez przedsiębiorstwa wobec konsumentów na rynku wewnętrznym oraz zmieniającej dyrektywę Rady 84/450/EWG, dyrektywy 97/7/WE, 98/27/WE, 2002/65/WE Parlamentu Europejskiego i Rady oraz rozporządzenie (WE) nr 2006/2004 Parlamentu Europejskiego i Rady („Dyrektywa o nieuczciwych praktykach handlowych”) (Dz. Urz. UE L 149 z 11.06.2005, str. 22). Niniejszą ustawą zmienia się ustawy: z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji, z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych i z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów. 2) W brzmieniu ustalonym przez art. 5 pkt 1 lit. a ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o prawach konsumenta oraz niektórych innych ustaw (Dz. U. poz. 2581), która weszła w życie z dniem 1 stycznia 2023 r. 3) Dodany przez art. 5 pkt 1 lit. b ustawy, o której mowa w odnośniku 2. 4) Dodany przez art. 5 pkt 2 ustawy, o której mowa w odnośniku 2. 5) W brzmieniu ustalonym przez art. 5 pkt 3 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2. 6) Dodany przez art. 5 pkt 3 lit. a tiret drugie ustawy, o której mowa w odnośniku 2. 7) Dodany przez art. 5 pkt 3 lit. b ustawy, o której mowa w odnośniku 2. 8) Dodany przez art. 5 pkt 4 lit. a ustawy, o której mowa w odnośniku 2. 9) Dodany przez art. 5 pkt 4 lit. b ustawy, o której mowa w odnośniku 2. 10) Dodany przez art. 5 pkt 5 ustawy, o której mowa w odnośniku 2. 11) Ustawa została ogłoszona w dniu 20 września 2007 r.
 

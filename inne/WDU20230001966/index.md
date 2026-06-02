@@ -26,19 +26,73 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001966) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1966/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej Dział I – Kościół Katolicki w Polskiej Rzeczypospolitej Ludowej Rozdział 1 – Przepisy ogólne Rozdział 2 – Osoby prawne Kościoła i ich organy Dział II – Działalność Kościoła Rozdział 1 – Kult publiczny Rozdział 2 – Katecheza i szkolnictwo Rozdział 3 – Duszpasterstwo wojskowe i służba wojskowa osób duchownych Rozdział 4 – Duszpasterstwo specjalne Rozdział 5 – Organizacje kościelne, katolickie oraz stowarzyszenia katolików Rozdział 6 – Działalność charytatywno-opiekuńcza Kościoła Rozdział 7 – Budownictwo sakralne i kościelne. Cmentarze Rozdział 8 – Kultura oraz środki masowego przekazywania Dział III – Sprawy majątkowe kościelnych osób prawnych Dział IV – Przepisy przejściowe i końcowe Rozdział 1 – Regulacja spraw majątkowych Kościoła Rozdział 2 – Przepisy przejściowe Rozdział 3 – Zmiany w przepisach obowiązujących Rozdział 4 – Przepisy końcowe
+Załącznik – Tekst jednolity ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1347), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 lipca 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi: „
+Kościół Katolicki w Polskiej Rzeczypospolitej Ludowej
+Obecnie Rzeczypospolitej Polskiej, na podstawie art. 1 pkt 4 ustawy, o której mowa w odnośniku 1.
+Przepisy ogólne
+Osoby prawne Kościoła i ich organy
+Działalność Kościoła
+Kult publiczny
+Katecheza i szkolnictwo
+Duszpasterstwo wojskowe i służba wojskowa osób duchownych
+Duszpasterstwo specjalne
+Organizacje kościelne, katolickie oraz stowarzyszenia katolików
+Działalność charytatywno-opiekuńcza Kościoła
+Budownictwo sakralne i kościelne. Cmentarze
+Kultura oraz środki masowego przekazywania
+Sprawy majątkowe kościelnych osób prawnych
+Przepisy przejściowe i końcowe
+Regulacja spraw majątkowych Kościoła
+Przepisy przejściowe
+Zmiany w przepisach obowiązujących
+Przepisy końcowe
 
-**Art. 417.** Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej Sejm Polskiej Rzeczypospolitej Ludowej : – wypełniając zobowiązania określone w Konstytucji Polskiej Rzeczypospolitej Ludowej, – kierując się zasadami przyjętymi w Karcie Narodów Zjednoczonych, w Powszechnej Deklaracji Praw Człowieka, Międzynarodowym Pakcie Praw Obywatelskich i Politycznych, Akcie Końcowym Konferencji Bezpieczeństwa i Współpracy w Europie oraz Deklaracji o wyeliminowaniu wszelkich form nietolerancji i dyskryminacji z powodów religijnych lub przekonań, – mając na celu dobro osoby ludzkiej oraz potrzebę współdziałania wszystkich obywateli dla rozwoju kraju, dla bezpieczeństwa narodu i państwa polskiego stanowi, co następuje:
+### Dział I – Kościół Katolicki w Polskiej Rzeczypospolitej Ludowej
 
-### Dział I Kościół Katolicki w Polskiej Rzeczypospolitej Ludowej
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 2 – Osoby prawne Kościoła i ich organy
+
+### Dział II – Działalność Kościoła
+
+#### Rozdział 1 – Kult publiczny
+
+#### Rozdział 2 – Katecheza i szkolnictwo
+
+#### Rozdział 3 – Duszpasterstwo wojskowe i służba wojskowa osób duchownych
+
+#### Rozdział 4 – Duszpasterstwo specjalne
+
+#### Rozdział 5 – Organizacje kościelne, katolickie oraz stowarzyszenia katolików
+
+#### Rozdział 6 – Działalność charytatywno-opiekuńcza Kościoła
+
+#### Rozdział 7 – Budownictwo sakralne i kościelne. Cmentarze
+
+#### Rozdział 8 – Kultura oraz środki masowego przekazywania
+
+### Dział III – Sprawy majątkowe kościelnych osób prawnych
+
+### Dział IV – Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Regulacja spraw majątkowych Kościoła
+
+#### Rozdział 2 – Przepisy przejściowe
+
+#### Rozdział 3 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 4 – Przepisy końcowe
+
+**Art. 417.** Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej Sejm Polskiej Rzeczypospolitej Ludowej Obecnie Rzeczypospolitej Polskiej, na podstawie art. 1 pkt 8 ustawy z dnia 29 grudnia 1989 r. o zmianie Konstytucji Polskiej Rzeczypospolitej Ludowej (Dz. U. poz. 444), która weszła w życie z dniem 31 grudnia 1989 r.: – wypełniając zobowiązania określone w Konstytucji Polskiej Rzeczypospolitej LudowejObecnie Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. poz. 483, z 2001 r. poz. 319, z 2006 r. poz. 1471 oraz z 2009 r. poz. 946), która weszła w życie z dniem 17 października 1997 r., – kierując się zasadami przyjętymi w Karcie Narodów Zjednoczonych, w Powszechnej Deklaracji Praw Człowieka, Międzynarodowym Pakcie Praw Obywatelskich i Politycznych, Akcie Końcowym Konferencji Bezpieczeństwa i Współpracy w Europie oraz Deklaracji o wyeliminowaniu wszelkich form nietolerancji i dyskryminacji z powodów religijnych lub przekonań, – mając na celu dobro osoby ludzkiej oraz potrzebę współdziałania wszystkich obywateli dla rozwoju kraju, dla bezpieczeństwa narodu i państwa polskiego stanowi, co następuje:
+
+### Dział I
+
+#### Rozdział 1
 
 **Art. 1.** Kościół Katolicki, zwany dalej „Kościołem”, działa w Rzeczypospolitej Polskiej we wszystkich swoich obrządkach.
 
@@ -52,11 +106,11 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 4.**
 
-1. Komisja Wspólna przedstawicieli Rządu Polskiej Rzeczypospolitej Ludowej  i Konferencji Episkopatu Polski, składająca się z ich upoważnionych przedstawicieli, w uzgodnionej liczbie na zasadzie parytetu, zwana dalej „Komisją Wspólną”, rozpatruje problemy związane z rozwojem stosunków między Państwem i Kościołem oraz sprawy interpretacji niniejszej ustawy i jej wykonywania.
+1. Komisja Wspólna przedstawicieli Rządu Polskiej Rzeczypospolitej Ludowej Obecnie Rzeczypospolitej Polskiej, na podstawie art. 1 pkt 8 ustawy z dnia 29 grudnia 1989 r. o zmianie Konstytucji Polskiej Rzeczypospolitej Ludowej (Dz. U. poz. 444), która weszła w życie z dniem 31 grudnia 1989 r. i Konferencji Episkopatu Polski, składająca się z ich upoważnionych przedstawicieli, w uzgodnionej liczbie na zasadzie parytetu, zwana dalej „Komisją Wspólną”, rozpatruje problemy związane z rozwojem stosunków między Państwem i Kościołem oraz sprawy interpretacji niniejszej ustawy i jej wykonywania.
 
 2. Przepis ust. 1 nie narusza właściwości organów państwowych ani organów Kościoła, jak również kompetencji Stolicy Apostolskiej.
 
-#### Rozdział 2 Osoby prawne Kościoła i ich organy
+#### Rozdział 2
 
 **Art. 5.**
 
@@ -114,8 +168,8 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **1)** Ordynariat Polowy;
 - **2)** kapituły;
 - **3)** parafie personalne;
-- **4)** Konferencja Wyższych Przełożonych Zakonnych Męskich ;
-- **5)** Konferencja Wyższych Przełożonych Zakonnych Żeńskich ;
+- **4)** Konferencja Wyższych Przełożonych Zakonnych Męskich Obecnie Konferencja Wyższych Przełożonych Zakonów Męskich w Polsce, na podstawie obwieszczenia Ministra Spraw Wewnętrznych i Administracji z dnia 8 marca 2017 r. w sprawie zmiany nazwy Konferencji Wyższych Przełożonych Zakonnych Męskich na Konferencję Wyższych Przełożonych Zakonów Męskich w Polsce (M. P. poz. 278).;
+- **5)** Konferencja Wyższych Przełożonych Zakonnych Żeńskich Obecnie Konferencja Wyższych Przełożonych Żeńskich Zgromadzeń Zakonnych w Polsce, na podstawie obwieszczenia Ministra Spraw Wewnętrznych i Administracji z dnia 24 sierpnia 2016 r. w sprawie zmiany nazwy Konferencji Wyższych Przełożonych Zakonnych Żeńskich na Konferencję Wyższych Przełożonych Żeńskich Zgromadzeń Zakonnych w Polsce (M. P. poz. 896).;
 - **6)** instytuty życia konsekrowanego (instytuty zakonne i instytuty świeckie) oraz stowarzyszenia życia apostolskiego; te instytuty i stowarzyszenia zwane są dalej „zakonami”;
 - **7)** prowincje zakonów;
 - **8)** opactwa, klasztory niezależne, domy zakonne;
@@ -145,13 +199,13 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **2)** Uniwersytet Papieski Jana Pawła II w Krakowie;
 - **3)** Papieski Wydział Teologiczny w Poznaniu;
 - **4)** Papieski Wydział Teologiczny we Wrocławiu;
-- **5)** Papieski Wydział Teologiczny w Warszawie oraz jego dwie sekcje: św. Jana Chrzciciela i św. Andrzeja Boboli „Bobolanum” ;
+- **5)** Papieski Wydział Teologiczny w Warszawie oraz jego dwie sekcje: św. Jana Chrzciciela i św. Andrzeja Boboli „Bobolanum” Obecnie Akademia Katolicka w Warszawie oraz jej dwie sekcje: Collegium Joanneum i Collegium Bobolanum, na podstawie obwieszczenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 stycznia 2021 r. w sprawie zmiany nazwy Papieskiego Wydziału Teologicznego w Warszawie oraz jego dwóch sekcji: św. Jana Chrzciciela i św. Andrzeja Boboli „Bobolanum” na Akademia Katolicka w Warszawie oraz jej dwie sekcje: Collegium Joanneum i Collegium Bobolanum (M. P. poz. 113).;
 - **6)** Wydział Filozoficzny Towarzystwa Jezusowego w Krakowie;
 - **7)** kościelne instytuty naukowe i dydaktyczno-naukowe kanonicznie erygowane.
 
 2. (uchylony)
 
-**Art. 10.** Inne jednostki organizacyjne Kościoła mogą uzyskać osobowość prawną w drodze rozporządzenia Ministra-Kierownika Urzędu do Spraw Wyznań .
+**Art. 10.** Inne jednostki organizacyjne Kościoła mogą uzyskać osobowość prawną w drodze rozporządzenia Ministra-Kierownika Urzędu do Spraw Wyznań Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r..
 
 **Art. 11.** Kościelna osoba prawna nie odpowiada za zobowiązania innej kościelnej osoby prawnej.
 
@@ -163,7 +217,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Jeżeli przepis prawa lub ratyfikowane umowy nie stanowią inaczej, właściwym organem administracji państwowej jest:
 
-- **1)** odnośnie do osób prawnych wymienionych w art. 7 ust. 1 pkt 1–4, art. 7 ust. 2 pkt 2 i 3, art. 8 ust. 1 pkt 1, 6 i 7 oraz art. 9 ust. 1 pkt 7 – minister właściwy do spraw wyznań religijnych ;
+- **1)** odnośnie do osób prawnych wymienionych w art. 7 ust. 1 pkt 1–4, art. 7 ust. 2 pkt 2 i 3, art. 8 ust. 1 pkt 1, 6 i 7 oraz art. 9 ust. 1 pkt 7 – minister właściwy do spraw wyznań religijnych Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 7.;
 - **2)** w pozostałych przypadkach – wojewoda.
 
 3. Powiadomienie powinno zawierać:
@@ -179,13 +233,13 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 5. Odpis powiadomienia, o którym mowa w ust. 3 i 4, z umieszczonym na nim potwierdzeniem odbioru, jest dowodem uzyskania osobowości prawnej.
 
-6. Utworzenie jednostki organizacyjnej zakonu, który istnieje za granicą, a dotąd nie działał w Polskiej Rzeczypospolitej Ludowej , wymaga konsultacji między Sekretariatem Konferencji Episkopatu Polski a ministrem właściwym do spraw wyznań religijnych .
+6. Utworzenie jednostki organizacyjnej zakonu, który istnieje za granicą, a dotąd nie działał w Polskiej Rzeczypospolitej Ludowej Obecnie Rzeczypospolitej Polskiej, na podstawie art. 1 pkt 4 ustawy, o której mowa w odnośniku 1., wymaga konsultacji między Sekretariatem Konferencji Episkopatu Polski a ministrem właściwym do spraw wyznań religijnych Obecnie ministrem właściwym do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 7..
 
 **Art. 14.** O powołaniu i odwołaniu osoby sprawującej funkcje organu osoby prawnej władza kościelna powiadamia właściwy organ administracji państwowej, jeżeli ratyfikowane umowy nie stanowią inaczej. Powiadomienie obejmuje imię i nazwisko, obywatelstwo oraz miejsce zamieszkania danej osoby.
 
-### Dział II Działalność Kościoła
+### Dział II
 
-#### Rozdział 1 Kult publiczny
+#### Rozdział 1
 
 **Art. 15.**
 
@@ -221,9 +275,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **6)** 25 grudnia – pierwszy dzień Bożego Narodzenia;
 - **7)** 26 grudnia – drugi dzień Bożego Narodzenia.
 
-2. Zmiana uregulowań, o których mowa w ust. 1, wymaga uprzedniego uzgodnienia między Rządem Polskiej Rzeczypospolitej Ludowej  a Konferencją Episkopatu Polski.
+2. Zmiana uregulowań, o których mowa w ust. 1, wymaga uprzedniego uzgodnienia między Rządem Polskiej Rzeczypospolitej Ludowej Obecnie Rzeczypospolitej Polskiej, na podstawie art. 1 pkt 8 ustawy z dnia 29 grudnia 1989 r. o zmianie Konstytucji Polskiej Rzeczypospolitej Ludowej (Dz. U. poz. 444), która weszła w życie z dniem 31 grudnia 1989 r. a Konferencją Episkopatu Polski.
 
-#### Rozdział 2 Katecheza i szkolnictwo
+#### Rozdział 2
 
 **Art. 18.**
 
@@ -245,7 +299,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. (uchylony)
 
-3. Diecezje i zakony mają prawo zakładać i prowadzić niższe seminaria duchowne. W zakresie realizacji programu szkół ogólnokształcących i uzyskiwania świadectw dojrzałości podlegają one nadzorowi Ministra Edukacji Narodowej .
+3. Diecezje i zakony mają prawo zakładać i prowadzić niższe seminaria duchowne. W zakresie realizacji programu szkół ogólnokształcących i uzyskiwania świadectw dojrzałości podlegają one nadzorowi Ministra Edukacji Narodowej Obecnie ministra właściwego do spraw oświaty i wychowania, na podstawie art. 4 ust. 1, art. 5 pkt 15 i art. 20 ust. 1 ustawy, o której mowa w odnośniku 7..
 
 **Art. 21.**
 
@@ -253,9 +307,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. (uchylony)
 
-3. Pracownikom szkół, przedszkoli, placówek i innych jednostek organizacyjnych wchodzących w skład systemu oświaty, prowadzonych przez kościelne osoby prawne, niebędącym nauczycielami lub wychowawcami, przysługują uprawnienia i świadczenia przewidziane dla tej kategorii pracowników zatrudnionych odpowiednio w publicznych lub niepublicznych szkołach, przedszkolach, placówkach i innych jednostkach organizacyjnych wchodzących w skład systemu oświaty, prowadzonych przez podmioty niebędące jednostkami samorządu terytorialnego.
-
-**Art. 22.**
+3. Pracownikom szkół, przedszkoli, placówek i innych jednostek organizacyjnych wchodzących w skład systemu oświaty, prowadzonych przez kościelne osoby prawne, niebędącym nauczycielami lub wychowawcami, przysługują uprawnienia i świadczenia przewidziane dla tej kategorii pracowników zatrudnionych odpowiednio w publicznych lub niepublicznych szkołach, przedszkolach, placówkach i innych jednostkach organizacyjnych wchodzących w skład systemu oświaty, prowadzonych przez podmioty niebędące jednostkami samorządu terytorialnego. Art. 22Utracił moc z dniem 1 stycznia 1999 r., na podstawie art. 170 pkt 12 ustawy z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. poz. 153), która weszła w życie z dniem 1 stycznia 1999 r., w zakresie uregulowanym w wymienionej ustawie..
 
 1. Uczącym się w szkołach, o których mowa w art. 20 ust. 1 i 3, przysługują świadczenia społecznej służby zdrowia i ulgi w opłatach za przejazdy publicznymi środkami lokomocji na równi z uczniami szkół państwowych.
 
@@ -267,11 +319,11 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Konferencji Episkopatu Polski, diecezjom i zakonom przysługuje prawo zakładania i prowadzenia wyższych seminariów duchownych, a w trybie określonym w ust. 2 i 3 – innych wyższych uczelni.
 
-2. Status wyższych uczelni papieskich oraz tryb i zakres uznawania przez Państwo kościelnych stopni i tytułów naukowych regulują umowy między Rządem Polskiej Rzeczypospolitej Ludowej  a Konferencją Episkopatu Polski.
+2. Status wyższych uczelni papieskich oraz tryb i zakres uznawania przez Państwo kościelnych stopni i tytułów naukowych regulują umowy między Rządem Polskiej Rzeczypospolitej Ludowej Obecnie Rzeczypospolitej Polskiej, na podstawie art. 1 pkt 4 ustawy, o której mowa w odnośniku 1. a Konferencją Episkopatu Polski.
 
 3. Tworzenie szkół wyższych o zakresie nauczania szerszym niż określony w ust. 1 i 2 następuje w drodze ustawy na wniosek Konferencji Episkopatu Polski, z zastrzeżeniem ust. 3a.
 
-3a. Kościelne osoby prawne mają prawo zakładać i prowadzić wyższe szkoły zawodowe na zasadach określonych w ustawie o wyższych szkołach zawodowych.
+3a. Kościelne osoby prawne mają prawo zakładać i prowadzić wyższe szkoły zawodowe na zasadach określonych w ustawie o wyższych szkołach zawodowychUstawa utraciła moc z dniem 1 września 2005 r. na podstawie art. 276 pkt 3 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. poz. 1365), która weszła w życie z dniem 1 września 2005 r.; ustawa ta utraciła moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r..
 
 4. Do wykładowców, wychowawców, pracowników oraz uczących się w szkołach wymienionych w ust. 1, 3 i 3a stosuje się przepisy art. 21 i 22.
 
@@ -279,7 +331,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 24.** Osoby duchowne i członkowie zakonów mają prawo kształcenia się w szkołach państwowych wszystkich stopni i rodzajów. Podlegają oni obowiązującym przepisom, zachowując jednak prawo do noszenia stroju duchownego.
 
-#### Rozdział 3 Duszpasterstwo wojskowe i służba wojskowa osób duchownych
+#### Rozdział 3
 
 **Art. 25.**
 
@@ -338,7 +390,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 4. W razie ogłoszenia mobilizacji i w czasie wojny właściwe organy wojskowe, w porozumieniu z biskupem diecezjalnym, zapewnią pozostawienie do duszpasterskiej obsługi ludności niezbędnej liczby duchownych spośród tych, którzy podlegają mobilizacji.
 
-#### Rozdział 4 Duszpasterstwo specjalne
+#### Rozdział 4
 
 **Art. 30.**
 
@@ -346,27 +398,19 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Dzieciom i młodzieży przebywającym na krajowych koloniach i obozach organizowanych przez instytucje państwowe zapewnia się prawo do wykonywania praktyk religijnych, w szczególności do udziału we Mszy św. w niedziele i święta.
 
-3. Szczegółowe przepisy w sprawach, o których mowa w ust. 1 i 2, wydaje Minister Edukacji Narodowej , a odnośnie do dzieci i młodzieży przebywających w sanatoriach, prewentoriach i szpitalach – Minister Zdrowia i Opieki Społecznej , w porozumieniu z Sekretariatem Konferencji Episkopatu Polski.
+3. Szczegółowe przepisy w sprawach, o których mowa w ust. 1 i 2, wydaje Minister Edukacji Narodowej Obecnie minister właściwy do spraw oświaty i wychowania, na podstawie art. 4 ust. 1, art. 5 pkt 15 i art. 20 ust. 1 ustawy, o której mowa w odnośniku 7., a odnośnie do dzieci i młodzieży przebywających w sanatoriach, prewentoriach i szpitalach – Minister Zdrowia i Opieki Społecznej Obecnie minister właściwy do spraw zdrowia, na podstawie art. 4 ust. 1, art. 5 pkt 28 i art. 33 ust. 1 ustawy, o której mowa w odnośniku 7., w porozumieniu z Sekretariatem Konferencji Episkopatu Polski.
 
 **Art. 31.**
 
-1. Osobom przebywającym w zakładach leczniczych  oraz zamkniętych zakładach pomocy społecznej zapewnia się prawo wykonywania praktyk religijnych i korzystania z posług religijnych.
+1. Osobom przebywającym w zakładach leczniczych Obecnie zakładach leczniczych podmiotów leczniczych, na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r. oraz zamkniętych zakładach pomocy społecznej zapewnia się prawo wykonywania praktyk religijnych i korzystania z posług religijnych.
 
 2. W celu realizacji uprawnień, o których mowa w ust. 1, kierownicy właściwych zakładów państwowych zatrudnią kapelanów skierowanych przez biskupa diecezjalnego.
 
 3. W celu umożliwienia udziału zainteresowanych chorych i podopiecznych we Mszy św. i w innych zbiorowych praktykach religijnych, kierownicy właściwych zakładów państwowych przeznaczą odpowiednie pomieszczenia na kaplice, a w wyjątkowych wypadkach udostępnią do tego celu inne pomieszczenia.
 
-**Art. 32.**
+**Art. 32.** 1Utracił moc z dniem 1 września 1998 r., na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557 i 1083), która weszła w życie z dniem 1 września 1998 r.. Osoby tymczasowo aresztowane mogą wykonywać praktyki religijne i uczestniczyć we Mszy św. transmitowanej przez środki masowego przekazywania oraz, za zgodą organu, do którego dyspozycji pozostają, korzystać z indywidualnej posługi religijnej. 2Utracił moc z dniem 1 września 1998 r., na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557 i 1083), która weszła w życie z dniem 1 września 1998 r.. Osobom skazanym zapewnia się możliwość wykonywania praktyk religijnych, korzystania z posług religijnych oraz uczestniczenia we Mszy św. odprawianej w niedziele i święta w odpowiednio przystosowanym pomieszczeniu w zakładzie, w którym przebywają. Osobom, które nie mogą uczestniczyć we Mszy św. odprawianej na terenie zakładu, należy zapewnić możność wysłuchania Mszy św. transmitowanej przez środki masowego przekazywania. 3W brzmieniu ustalonym przez art. 366 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r.. Nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich zapewnia się możliwość wykonywania praktyk religijnych, korzystania z katechizacji i posług religijnych, uczestniczenia we Mszy św. w niedziele i święta. Nieletnim, którzy nie mogą uczestniczyć we Mszy św., należy zapewnić możność wysłuchania Mszy św. transmitowanej przez środki masowego przekazywania. 4. W celu realizacji uprawnień osób wymienionych w ust. 1Utracił moc z dniem 1 września 1998 r., na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557 i 1083), która weszła w życie z dniem 1 września 1998 r., 2Utracił moc z dniem 1 września 1998 r., na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557 i 1083), która weszła w życie z dniem 1 września 1998 r. i 3 kierownicy odpowiednich zakładów zawierają umowy w sprawie nieodpłatnego wykonywania obowiązków kapelana z duchownymi skierowanymi przez biskupa diecezjalnego.
 
-1. Osoby tymczasowo aresztowane mogą wykonywać praktyki religijne i uczestniczyć we Mszy św. transmitowanej przez środki masowego przekazywania oraz, za zgodą organu, do którego dyspozycji pozostają, korzystać z indywidualnej posługi religijnej.
-
-2. Osobom skazanym zapewnia się możliwość wykonywania praktyk religijnych, korzystania z posług religijnych oraz uczestniczenia we Mszy św. odprawianej w niedziele i święta w odpowiednio przystosowanym pomieszczeniu w zakładzie, w którym przebywają. Osobom, które nie mogą uczestniczyć we Mszy św. odprawianej na terenie zakładu, należy zapewnić możność wysłuchania Mszy św. transmitowanej przez środki masowego przekazywania.
-
-3. Nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich zapewnia się możliwość wykonywania praktyk religijnych, korzystania z katechizacji i posług religijnych, uczestniczenia we Mszy św. w niedziele i święta. Nieletnim, którzy nie mogą uczestniczyć we Mszy św., należy zapewnić możność wysłuchania Mszy św. transmitowanej przez środki masowego przekazywania.
-
-4. W celu realizacji uprawnień osób wymienionych w ust. 1, 2 i 3 kierownicy odpowiednich zakładów zawierają umowy w sprawie nieodpłatnego wykonywania obowiązków kapelana z duchownymi skierowanymi przez biskupa diecezjalnego.
-
-#### Rozdział 5 Organizacje kościelne, katolickie oraz stowarzyszenia katolików
+#### Rozdział 5
 
 **Art. 33.**
 
@@ -383,7 +427,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Organizacje kościelne mają na celu w szczególności działalność na rzecz formacji religijnej, kultu publicznego i nauki katolickiej.
 
-3. Organizacje kościelne działają w ramach tych kościelnych osób prawnych, w których zostały powołane. O erygowaniu organizacji o zasięgu ponaddiecezjalnym Sekretariat Konferencji Episkopatu Polski powiadamia Urząd do Spraw Wyznań . Organizacje wymienione w ust. 1 pkt 1 mogą nabyć osobowość prawną w trybie art. 10.
+3. Organizacje kościelne działają w ramach tych kościelnych osób prawnych, w których zostały powołane. O erygowaniu organizacji o zasięgu ponaddiecezjalnym Sekretariat Konferencji Episkopatu Polski powiadamia Urząd do Spraw Wyznań Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r.. Organizacje wymienione w ust. 1 pkt 1 mogą nabyć osobowość prawną w trybie art. 10.
 
 4. Władze kościelne czuwają nad zgodnością działania organizacji z ich celami religijnymi i moralnymi.
 
@@ -405,7 +449,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 37.** Organizacje inne niż wymienione w art. 33, zrzeszające katolików, realizują ideały chrześcijańskie według własnych programów, działając wyłącznie na podstawie ogólnie obowiązujących przepisów prawa oraz swoich statutów.
 
-#### Rozdział 6 Działalność charytatywno-opiekuńcza Kościoła
+#### Rozdział 6
 
 **Art. 38.**
 
@@ -445,7 +489,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **6)** dochodów z działalności gospodarczej prowadzonej przez Caritas Polską i Caritas diecezji bezpośrednio lub w formie wyodrębnionych zakładów;
 - **7)** dochodów instytucji kościelnych.
 
-#### Rozdział 7 Budownictwo sakralne i kościelne. Cmentarze
+#### Rozdział 7
 
 **Art. 41.**
 
@@ -465,7 +509,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Grunty stanowiące własność jednostki samorządu terytorialnego przeznaczone na te cele mogą być sprzedawane za cenę ustaloną uchwałą odpowiedniej rady lub sejmiku tej jednostki.
 
-4. Biskupi diecezjalni lub wyżsi przełożeni zakonni uzgadniają kolejność realizacji inwestycji sakralnych i kościelnych na okres narodowego planu społeczno-gospodarczego .
+4. Biskupi diecezjalni lub wyżsi przełożeni zakonni uzgadniają kolejność realizacji inwestycji sakralnych i kościelnych na okres narodowego planu społeczno-gospodarczego Narodowe plany społeczno-gospodarcze obowiązywały na podstawie ustawy z dnia 26 lutego 1982 r. o planowaniu społeczno-gospodarczym (Dz. U. z 1987 r. poz. 26 i 181, z 1988 r. poz. 134 i 327 oraz z 1989 r. poz. 22, 192 i 439), która została uchylona z dniem 17 grudnia 1990 r. na podstawie art. 1 ustawy z dnia 30 listopada 1990 r. o uchyleniu ustawy o planowaniu społeczno-gospodarczym oraz o zmianie niektórych ustaw (Dz. U. poz. 505 oraz z 1991 r. poz. 56), która weszła w życie z dniem 17 grudnia 1990 r..
 
 5. Szczegółowy tryb i zakres uzgadniania, o którym mowa w ust. 4, terminy uzgadniania oraz postępowania w przypadkach losowych określa w drodze rozporządzenia minister właściwy do spraw administracji publicznej w porozumieniu z Sekretariatem Konferencji Episkopatu Polski.
 
@@ -489,7 +533,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 4. Przepisy ust. 1–3 nie naruszają ogólnych przepisów o cmentarzach i chowaniu zmarłych, o planowaniu przestrzennym oraz o ochronie gruntów rolnych i leśnych.
 
-#### Rozdział 8 Kultura oraz środki masowego przekazywania
+#### Rozdział 8
 
 **Art. 46.**
 
@@ -529,7 +573,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 51.** Instytucje państwowe, samorządowe i kościelne współdziałają w ochronie, konserwacji, udostępnianiu i upowszechnianiu zabytków architektury kościelnej i sztuki sakralnej oraz ich dokumentacji, muzeów, archiwów i bibliotek będących własnością kościelną, a także dzieł kultury i sztuki o motywach religijnych, stanowiących ważną część dziedzictwa kultury polskiej.
 
-### Dział III Sprawy majątkowe kościelnych osób prawnych
+### Dział III
 
 **Art. 52.** Kościołowi i jego osobom prawnym przysługuje prawo nabywania, posiadania i zbywania mienia ruchomego i nieruchomego, nabywania i zbywania innych praw oraz zarządzania swoim majątkiem.
 
@@ -549,9 +593,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Dochody z działalności gospodarczej kościelnych osób prawnych oraz spółek, których udziałowcami są wyłącznie te osoby, są zwolnione od opodatkowania w części, w jakiej zostały przeznaczone w roku podatkowym lub w roku po nim następującym na cele kultowe, oświatowo-wychowawcze, naukowe, kulturalne, działalność charytatywno-opiekuńczą, punkty katechetyczne, konserwację zabytków oraz na inwestycje sakralne, o których mowa w art. 41 ust. 2, i te inwestycje kościelne, o których mowa w art. 41 ust. 3, których przedmiotem są punkty katechetyczne i zakłady charytatywno-opiekuńcze, jak również remonty tych obiektów.
 
-4. Kościelne osoby prawne są zwolnione od opodatkowania i od świadczeń na fundusz gminny i fundusz miejski , od nieruchomości lub ich części, stanowiących własność tych osób lub używanych przez nie na podstawie innego tytułu prawnego na cele niemieszkalne, z wyjątkiem części zajmowanej na wykonywanie działalności gospodarczej.
+4. Kościelne osoby prawne są zwolnione od opodatkowania i od świadczeń na fundusz gminny Fundusz gminny i fundusz miejski zostały zniesione z dniem 1 stycznia 1991 r., na podstawie art. 1 ust. 1 pkt 12 ustawy z dnia 14 grudnia 1990 r. o zniesieniu i likwidacji niektórych funduszy (Dz. U. poz. 517), która weszła w życie z dniem 1 stycznia 1991 r.i fundusz miejski Fundusz gminny i fundusz miejski zostały zniesione z dniem 1 stycznia 1991 r., na podstawie art. 1 ust. 1 pkt 12 ustawy z dnia 14 grudnia 1990 r. o zniesieniu i likwidacji niektórych funduszy (Dz. U. poz. 517), która weszła w życie z dniem 1 stycznia 1991 r., od nieruchomości lub ich części, stanowiących własność tych osób lub używanych przez nie na podstawie innego tytułu prawnego na cele niemieszkalne, z wyjątkiem części zajmowanej na wykonywanie działalności gospodarczej.
 
-5. Zwolnienie od opodatkowania podatkiem od nieruchomości oraz od świadczeń na fundusz gminny  i fundusz miejski  obejmuje nieruchomości lub ich części przeznaczone na cele mieszkalne duchownych i członków zakonu, jeżeli:
+5. Zwolnienie od opodatkowania podatkiem od nieruchomości oraz od świadczeń na fundusz gminny Fundusz gminny i fundusz miejski zostały zniesione z dniem 1 stycznia 1991 r., na podstawie art. 1 ust. 1 pkt 12 ustawy z dnia 14 grudnia 1990 r. o zniesieniu i likwidacji niektórych funduszy (Dz. U. poz. 517), która weszła w życie z dniem 1 stycznia 1991 r. i fundusz miejski Fundusz gminny i fundusz miejski zostały zniesione z dniem 1 stycznia 1991 r., na podstawie art. 1 ust. 1 pkt 12 ustawy z dnia 14 grudnia 1990 r. o zniesieniu i likwidacji niektórych funduszy (Dz. U. poz. 517), która weszła w życie z dniem 1 stycznia 1991 r. obejmuje nieruchomości lub ich części przeznaczone na cele mieszkalne duchownych i członków zakonu, jeżeli:
 
 - **1)** są one wpisane do rejestru zabytków;
 - **2)** służą jako internaty przy szkołach i seminariach duchownych, domy zakonów kontemplacyjnych, domy formacyjne zakonów i domy księży emerytów (sióstr emerytek);
@@ -562,7 +606,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **1)** rzeczy i prawa nieprzeznaczone do działalności gospodarczej;
 - **2)** sprowadzane z zagranicy maszyny, urządzenia i materiały poligraficzne oraz papier.
 
-7. Darowizny na kościelną działalność charytatywno-opiekuńczą są wyłączone z podstawy opodatkowania darczyńców podatkiem dochodowym i podatkiem wyrównawczym , jeżeli kościelna osoba prawna przedstawi darczyńcy pokwitowanie odbioru oraz – w okresie dwóch lat od dnia przekazania darowizny – sprawozdanie o przeznaczeniu jej na tę działalność. W odniesieniu do darowizn na inne cele mają zastosowanie ogólne przepisy podatkowe.
+7. Darowizny na kościelną działalność charytatywno-opiekuńczą są wyłączone z podstawy opodatkowania darczyńców podatkiem dochodowym i podatkiem wyrównawczym Podatek wyrównawczy obowiązywał na podstawie ustawy z dnia 28 lipca 1983 r. o podatku wyrównawczym (Dz. U. poz. 188, z 1984 r. poz. 268, z 1988 r. poz. 254, z 1989 r. poz. 192 oraz z 1991 r. poz. 345), która została uchylona z dniem 1 stycznia 1992 r., na podstawie art. 54 ust. 1 pkt 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. poz. 350), która weszła w życie z dniem 1 stycznia 1992 r., jeżeli kościelna osoba prawna przedstawi darczyńcy pokwitowanie odbioru oraz – w okresie dwóch lat od dnia przekazania darowizny – sprawozdanie o przeznaczeniu jej na tę działalność. W odniesieniu do darowizn na inne cele mają zastosowanie ogólne przepisy podatkowe.
 
 8. Kościelne jednostki organizacyjne, o których mowa w art. 12, mogą być na wniosek kościelnej osoby prawnej uznane przez właściwego dyrektora izby administracji skarbowej za odrębne podmioty podatkowe, jeżeli są organizacyjnie wyodrębnione.
 
@@ -593,9 +637,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 59.** W razie zniesienia kościelnej osoby prawnej, jej majątek przechodzi na nadrzędną kościelną osobę prawną, a jeżeli taka osoba nie istnieje lub nie działa w Polsce, majątek ten przechodzi na Konferencję Episkopatu Polski lub Konferencję Wyższych Przełożonych Zakonnych.
 
-### Dział IV Przepisy przejściowe i końcowe
+### Dział IV
 
-#### Rozdział 1 Regulacja spraw majątkowych Kościoła
+#### Rozdział 1
 
 **Art. 60.**
 
@@ -673,7 +717,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 8. (uchylony)
 
-9. (utracił moc)
+9. (utracił moc)Z dniem 21 czerwca 2011 r., na podstawie wyroku Trybunału Konstytucyjnego z dnia 8 czerwca 2011 r. sygn. akt K 3/09 (Dz. U. poz. 748).
 
 **Art. 64.** (uchylony)
 
@@ -722,7 +766,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Niezależnie od ustawowego ubezpieczenia duchownych kościelne osoby prawne mogą prowadzić wewnętrzną działalność ubezpieczeniową na rzecz duchownych, która w rozumieniu ustawy jest działalnością niegospodarczą.
 
-#### Rozdział 2 Przepisy przejściowe
+#### Rozdział 2
 
 **Art. 72.**
 
@@ -738,9 +782,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Zmiana nazwy grup osób prawnych lub poszczególnych osób wymienionych w art. 6–9, bez zmiany ich istoty, może być dokonana przepisami wewnątrzkościelnymi, bez konieczności zmiany ustawy.
 
-2. Minister-Kierownik Urzędu do Spraw Wyznań  na wniosek Sekretariatu Konferencji Episkopatu Polski ogłosi zmianę, o której mowa w ust. 1, w Dzienniku Urzędowym Polskiej Rzeczypospolitej Ludowej „Monitor Polski” .
+2. Minister-Kierownik Urzędu do Spraw Wyznań Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 7. na wniosek Sekretariatu Konferencji Episkopatu Polski ogłosi zmianę, o której mowa w ust. 1, w Dzienniku Urzędowym Polskiej Rzeczypospolitej Ludowej „Monitor Polski” Od dnia 1 stycznia 1990 r. w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”..
 
-#### Rozdział 3 Zmiany w przepisach obowiązujących
+#### Rozdział 3
 
 **Art. 74.** (pominięty)
 
@@ -750,16 +794,13 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Tracą moc inne akty prawne w sprawach uregulowanych ustawą.
 
-#### Rozdział 4 Przepisy końcowe
+#### Rozdział 4
 
 **Art. 76.** Tracą moc:
 
 - **1)** dekret z dnia 31 grudnia 1956 r. o organizowaniu i obsadzaniu stanowisk kościelnych (Dz. U. z 1957 r. poz. 6);
-- **2)** przepisy rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1932 r. – Prawo o stowarzyszeniach (Dz. U. poz. 808, z późn. zm.) utrzymane w mocy odnośnie do związków wyznaniowych oraz zakonów i kongregacji duchownych przepisem art. 51 i art. 56 pkt 1 ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. poz. 104);
+- **2)** przepisy rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1932 r. – Prawo o stowarzyszeniach (Dz. U. poz. 808, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1946 r. poz. 30, z 1949 r. poz. 293 i 335, z 1950 r. poz. 401 i 489, z 1964 r. poz. 276 oraz z 1985 r. poz. 167.) utrzymane w mocy odnośnie do związków wyznaniowych oraz zakonów i kongregacji duchownych przepisem art. 51 i art. 56 pkt 1 ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. poz. 104);
 - **3)** przepisy art. 2 ust. 2 lit. a i c dekretu z dnia 5 sierpnia 1949 r. o zmianie niektórych przepisów Prawa o stowarzyszeniach (Dz. U. poz. 335).
 
-**Art. 77.** Ustawa wchodzi w życie z dniem ogłoszenia.
-
-- **1)** Obecnie Rzeczypospolitej Polskiej, na podstawie art. 1 pkt 8 ustawy z dnia 29 grudnia 1989 r. o zmianie Konstytucji Polskiej Rzeczypospolitej Ludowej (Dz. U. poz. 444), która weszła w życie z dniem 31 grudnia 1989 r. 2) Obecnie Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. poz. 483, z 2001 r. poz. 319, z 2006 r. poz. 1471 oraz z 2009 r. poz. 946), która weszła w życie z dniem 17 października 1997 r. 3) Obecnie Rzeczypospolitej Polskiej, na podstawie art. 1 pkt 4 ustawy, o której mowa w odnośniku 1. 4) Obecnie Konferencja Wyższych Przełożonych Zakonów Męskich w Polsce, na podstawie obwieszczenia Ministra Spraw Wewnętrznych i Administracji z dnia 8 marca 2017 r. w sprawie zmiany nazwy Konferencji Wyższych Przełożonych Zakonnych Męskich na Konferencję Wyższych Przełożonych Zakonów Męskich w Polsce (M. P. poz. 278). 5) Obecnie Konferencja Wyższych Przełożonych Żeńskich Zgromadzeń Zakonnych w Polsce, na podstawie obwieszczenia Ministra Spraw Wewnętrznych i Administracji z dnia 24 sierpnia 2016 r. w sprawie zmiany nazwy Konferencji Wyższych Przełożonych Zakonnych Żeńskich na Konferencję Wyższych Przełożonych Żeńskich Zgromadzeń Zakonnych w Polsce (M. P. poz. 896). 6) Obecnie Akademia Katolicka w Warszawie oraz jej dwie sekcje: Collegium Joanneum i Collegium Bobolanum, na podstawie obwieszczenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 stycznia 2021 r. w sprawie zmiany nazwy Papieskiego Wydziału Teologicznego w Warszawie oraz jego dwóch sekcji: św. Jana Chrzciciela i św. Andrzeja Boboli „Bobolanum” na Akademia Katolicka w Warszawie oraz jej dwie sekcje: Collegium Joanneum i Collegium Bobolanum (M. P. poz. 113). 7) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. 8) Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 7. 9) Obecnie ministrem właściwym do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 7. 10) Obecnie ministra właściwego do spraw oświaty i wychowania, na podstawie art. 4 ust. 1, art. 5 pkt 15 i art. 20 ust. 1 ustawy, o której mowa w odnośniku 7. 11) Utracił moc z dniem 1 stycznia 1999 r., na podstawie art. 170 pkt 12 ustawy z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. poz. 153), która weszła w życie z dniem 1 stycznia 1999 r., w zakresie uregulowanym w wymienionej ustawie. 12) Ustawa utraciła moc z dniem 1 września 2005 r. na podstawie art. 276 pkt 3 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. poz. 1365), która weszła w życie z dniem 1 września 2005 r.; ustawa ta utraciła moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r. 13) Obecnie minister właściwy do spraw oświaty i wychowania, na podstawie art. 4 ust. 1, art. 5 pkt 15 i art. 20 ust. 1 ustawy, o której mowa w odnośniku 7. 14) Obecnie minister właściwy do spraw zdrowia, na podstawie art. 4 ust. 1, art. 5 pkt 28 i art. 33 ust. 1 ustawy, o której mowa w odnośniku 7. 15) Obecnie zakładach leczniczych podmiotów leczniczych, na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r. 16) Utracił moc z dniem 1 września 1998 r., na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557 i 1083), która weszła w życie z dniem 1 września 1998 r. 17) W brzmieniu ustalonym przez art. 366 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r. 18) Narodowe plany społeczno-gospodarcze obowiązywały na podstawie ustawy z dnia 26 lutego 1982 r. o planowaniu społeczno-gospodarczym (Dz. U. z 1987 r. poz. 26 i 181, z 1988 r. poz. 134 i 327 oraz z 1989 r. poz. 22, 192 i 439), która została uchylona z dniem 17 grudnia 1990 r. na podstawie art. 1 ustawy z dnia 30 listopada 1990 r. o uchyleniu ustawy o planowaniu społeczno-gospodarczym oraz o zmianie niektórych ustaw (Dz. U. poz. 505 oraz z 1991 r. poz. 56), która weszła w życie z dniem 17 grudnia 1990 r. 19) Fundusz gminny i fundusz miejski zostały zniesione z dniem 1 stycznia 1991 r., na podstawie art. 1 ust. 1 pkt 12 ustawy z dnia 14 grudnia 1990 r. o zniesieniu i likwidacji niektórych funduszy (Dz. U. poz. 517), która weszła w życie z dniem 1 stycznia 1991 r. 20) Podatek wyrównawczy obowiązywał na podstawie ustawy z dnia 28 lipca 1983 r. o podatku wyrównawczym (Dz. U. poz. 188, z 1984 r. poz. 268, z 1988 r. poz. 254, z 1989 r. poz. 192 oraz z 1991 r. poz. 345), która została uchylona z dniem 1 stycznia 1992 r., na podstawie art. 54 ust. 1 pkt 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. poz. 350), która weszła w życie z dniem 1 stycznia 1992 r. 21) Z dniem 21 czerwca 2011 r., na podstawie wyroku Trybunału Konstytucyjnego z dnia 8 czerwca 2011 r. sygn. akt K 3/09 (Dz. U. poz. 748). 22) Od dnia 1 stycznia 1990 r. w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. 23) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1946 r. poz. 30, z 1949 r. poz. 293 i 335, z 1950 r. poz. 401 i 489, z 1964 r. poz. 276 oraz z 1985 r. poz. 167. 24) Ustawa została ogłoszona w dniu 23 maja 1989 r.
-
+**Art. 77.** Ustawa wchodzi w życie z dniem ogłoszeniaUstawa została ogłoszona w dniu 23 maja 1989 r.. 1) Obecnie Rzeczypospolitej Polskiej, na podstawie art. 1 pkt 8 ustawy z dnia 29 grudnia 1989 r. o zmianie Konstytucji Polskiej Rzeczypospolitej Ludowej (Dz. U. poz. 444), która weszła w życie z dniem 31 grudnia 1989 r. 2) Obecnie Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. poz. 483, z 2001 r. poz. 319, z 2006 r. poz. 1471 oraz z 2009 r. poz. 946), która weszła w życie z dniem 17 października 1997 r. 3) Obecnie Rzeczypospolitej Polskiej, na podstawie art. 1 pkt 4 ustawy, o której mowa w odnośniku 1. 4) Obecnie Konferencja Wyższych Przełożonych Zakonów Męskich w Polsce, na podstawie obwieszczenia Ministra Spraw Wewnętrznych i Administracji z dnia 8 marca 2017 r. w sprawie zmiany nazwy Konferencji Wyższych Przełożonych Zakonnych Męskich na Konferencję Wyższych Przełożonych Zakonów Męskich w Polsce (M. P. poz. 278). 5) Obecnie Konferencja Wyższych Przełożonych Żeńskich Zgromadzeń Zakonnych w Polsce, na podstawie obwieszczenia Ministra Spraw Wewnętrznych i Administracji z dnia 24 sierpnia 2016 r. w sprawie zmiany nazwy Konferencji Wyższych Przełożonych Zakonnych Żeńskich na Konferencję Wyższych Przełożonych Żeńskich Zgromadzeń Zakonnych w Polsce (M. P. poz. 896). 6) Obecnie Akademia Katolicka w Warszawie oraz jej dwie sekcje: Collegium Joanneum i Collegium Bobolanum, na podstawie obwieszczenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 stycznia 2021 r. w sprawie zmiany nazwy Papieskiego Wydziału Teologicznego w Warszawie oraz jego dwóch sekcji: św. Jana Chrzciciela i św. Andrzeja Boboli „Bobolanum” na Akademia Katolicka w Warszawie oraz jej dwie sekcje: Collegium Joanneum i Collegium Bobolanum (M. P. poz. 113). 7) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. 8) Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 7. 9) Obecnie ministrem właściwym do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 7. 10) Obecnie ministra właściwego do spraw oświaty i wychowania, na podstawie art. 4 ust. 1, art. 5 pkt 15 i art. 20 ust. 1 ustawy, o której mowa w odnośniku 7. 11) Utracił moc z dniem 1 stycznia 1999 r., na podstawie art. 170 pkt 12 ustawy z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. poz. 153), która weszła w życie z dniem 1 stycznia 1999 r., w zakresie uregulowanym w wymienionej ustawie. 12) Ustawa utraciła moc z dniem 1 września 2005 r. na podstawie art. 276 pkt 3 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. poz. 1365), która weszła w życie z dniem 1 września 2005 r.; ustawa ta utraciła moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r. 13) Obecnie minister właściwy do spraw oświaty i wychowania, na podstawie art. 4 ust. 1, art. 5 pkt 15 i art. 20 ust. 1 ustawy, o której mowa w odnośniku 7. 14) Obecnie minister właściwy do spraw zdrowia, na podstawie art. 4 ust. 1, art. 5 pkt 28 i art. 33 ust. 1 ustawy, o której mowa w odnośniku 7. 15) Obecnie zakładach leczniczych podmiotów leczniczych, na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r. 16) Utracił moc z dniem 1 września 1998 r., na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557 i 1083), która weszła w życie z dniem 1 września 1998 r. 17) W brzmieniu ustalonym przez art. 366 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r. 18) Narodowe plany społeczno-gospodarcze obowiązywały na podstawie ustawy z dnia 26 lutego 1982 r. o planowaniu społeczno-gospodarczym (Dz. U. z 1987 r. poz. 26 i 181, z 1988 r. poz. 134 i 327 oraz z 1989 r. poz. 22, 192 i 439), która została uchylona z dniem 17 grudnia 1990 r. na podstawie art. 1 ustawy z dnia 30 listopada 1990 r. o uchyleniu ustawy o planowaniu społeczno-gospodarczym oraz o zmianie niektórych ustaw (Dz. U. poz. 505 oraz z 1991 r. poz. 56), która weszła w życie z dniem 17 grudnia 1990 r. 19) Fundusz gminny i fundusz miejski zostały zniesione z dniem 1 stycznia 1991 r., na podstawie art. 1 ust. 1 pkt 12 ustawy z dnia 14 grudnia 1990 r. o zniesieniu i likwidacji niektórych funduszy (Dz. U. poz. 517), która weszła w życie z dniem 1 stycznia 1991 r. 20) Podatek wyrównawczy obowiązywał na podstawie ustawy z dnia 28 lipca 1983 r. o podatku wyrównawczym (Dz. U. poz. 188, z 1984 r. poz. 268, z 1988 r. poz. 254, z 1989 r. poz. 192 oraz z 1991 r. poz. 345), która została uchylona z dniem 1 stycznia 1992 r., na podstawie art. 54 ust. 1 pkt 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. poz. 350), która weszła w życie z dniem 1 stycznia 1992 r. 21) Z dniem 21 czerwca 2011 r., na podstawie wyroku Trybunału Konstytucyjnego z dnia 8 czerwca 2011 r. sygn. akt K 3/09 (Dz. U. poz. 748). 22) Od dnia 1 stycznia 1990 r. w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. 23) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1946 r. poz. 30, z 1949 r. poz. 293 i 335, z 1950 r. poz. 401 i 489, z 1964 r. poz. 276 oraz z 1985 r. poz. 167. 24) Ustawa została ogłoszona w dniu 23 maja 1989 r.
 

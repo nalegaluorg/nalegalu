@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 11 października 2018 r. w sprawie otrzymywania świadczeń opieki zdrowotnej przez funkcjonariuszy Służby Ochrony Państwa w związku z urazami nabytymi podczas wykonywania zadań poza granicami państwa
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 11 października 2018 r. w sprawie otrzymywania świadczeń opieki zdrowotnej przez funkcjonariuszy Służby Ochrony Państwa w związku z urazami nabytymi podczas wykonywania zadań poza granicami państwa Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-11 |
 | Data wydania | 2018-10-23 |
-| Wejście w życie | 2018-11-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002028) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2028/text.pdf) |
 
@@ -31,7 +30,7 @@ Na podstawie art. 145 ust. 2 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony
 § 1.
 Rozporządzenie określa:
 1)
-warunki otrzymywania świadczeń opieki zdrowotnej, o których mowa w art. 42 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.), zwanych dalej „świadczeniami opieki zdrowotnej”, przez funkcjonariuszy Służby Ochrony Państwa w związku z urazami nabytymi podczas wykonywania zadań poza granicami państwa;
+warunki otrzymywania świadczeń opieki zdrowotnej, o których mowa w art. 42 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669 i 1925.), zwanych dalej „świadczeniami opieki zdrowotnej”, przez funkcjonariuszy Służby Ochrony Państwa w związku z urazami nabytymi podczas wykonywania zadań poza granicami państwa;
 2)
 sposób i tryb finansowania kosztów świadczeń opieki zdrowotnej.
 § 2.
@@ -58,6 +57,5 @@ W przypadku konieczności dokonania zwrotu przekazanych wcześniej środków fin
 7.
 Fakturę, o której mowa w ust. 1, świadczeniodawca składa w postaci papierowej albo w postaci elektronicznej, za pośrednictwem środków komunikacji elektronicznej.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669 i 1925. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 18 sierpnia 2005 r. w sprawie otrzymywania świadczeń opieki zdrowotnej przez funkcjonariuszy Biura Ochrony Rządu w związku z urazami nabytymi podczas wykonywania zadań poza granicami państwa (Dz. U. poz. 1380), które na podstawie art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 18 sierpnia 2005 r. w sprawie otrzymywania świadczeń opieki zdrowotnej przez funkcjonariuszy Biura Ochrony Rządu w związku z urazami nabytymi podczas wykonywania zadań poza granicami państwa (Dz. U. poz. 1380), które na podstawie art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669 i 1925. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 18 sierpnia 2005 r. w sprawie otrzymywania świadczeń opieki zdrowotnej przez funkcjonariuszy Biura Ochrony Rządu w związku z urazami nabytymi podczas wykonywania zadań poza granicami państwa (Dz. U. poz. 1380), które na podstawie art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

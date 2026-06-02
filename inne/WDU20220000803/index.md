@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Funduszy i Polityki Regionalnejz dnia 23 marca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie udzielania pomocy inwestycyjnej na efektywny energetycznie system ciepłowniczy i chłodniczy w ramach regionalnych programów operacyjnych na lata 2014–2020
+# Obwieszczenie Ministra Funduszy i Polityki Regionalnejz dnia 23 marca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie udzielania pomocy inwestycyjnej na efektywny energetycznie system ciepłowniczy i chłodniczy w ramach regionalnych programów operacyjnych na lata 2014–2020 Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej ‒ rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
 
 | Pole | Wartość |
 |---|---|
@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 5 listopada 2015 r. w sprawie udzielania pomocy inwestycyjnej na efektywny energetycznie system ciepłowniczy i chłodniczy w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. z 2021 r. poz. 1435), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Funduszy i Polityki Regionalnej z dnia 17 grudnia 2021 r. zmieniającym rozporządzenie w sprawie udzielania pomocy inwestycyjnej na efektywny energetycznie system ciepłowniczy i chłodniczy w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 2386).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 17 grudnia 2021 r. zmieniającego rozporządzenie w sprawie udzielania pomocy inwestycyjnej na efektywny energetycznie system ciepłowniczy i chłodniczy w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 2386), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 17 grudnia 2021 r. zmieniającego rozporządzenie w sprawie udzielania pomocy inwestycyjnej na efektywny energetycznie system ciepłowniczy i chłodniczy w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 2386), które stanowią: „
 § 2.
 1.
 Do umów zawartych i decyzji o dofinansowaniu projektu podjętych przed dniem wejścia w życie niniejszego rozporządzenia, na podstawie których udzielono pomocy, stosuje się przepisy dotychczasowe.
@@ -41,18 +40,15 @@ Do umów zawieranych i decyzji o dofinansowaniu projektu podejmowanych od dnia 1
 3.
 Wnioski, o których mowa w ust. 2, wymagające uzupełnienia w zakresie wynikającym z przepisów rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem uzupełnia się na wezwanie podmiotu udzielającego pomocy w terminie wyznaczonym przez ten podmiot, nie krótszym niż 14 dni od dnia otrzymania wezwania.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-” .
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej ‒ rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
-Załącznik – Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 5 listopada 2015 r. w sprawie udzielania pomocy inwestycyjnej na efektywny energetycznie system ciepłowniczy i chłodniczy w ramach regionalnych programów operacyjnych na lata 2014–2020
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. ” . 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej ‒ rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
+Załącznik – Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 5 listopada 2015 r. w sprawie udzielania pomocy inwestycyjnej na efektywny energetycznie system ciepłowniczy i chłodniczy w ramach regionalnych programów operacyjnych na lata 2014–2020Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
 Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom, w ramach regionalnych programów operacyjnych na lata 2014–2020, następujących rodzajów pomocy:
 1)
 pomocy inwestycyjnej na efektywny energetycznie system ciepłowniczy i chłodniczy,
 2)
-pomocy na badania środowiska
-zwanych dalej „pomocą”, do których mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”, a także podmioty udzielające tej pomocy.
+pomocy na badania środowiska – zwanych dalej „pomocą”, do których mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39., zwanego dalej „rozporządzeniem nr 651/2014”, a także podmioty udzielające tej pomocy.
 § 2.
 1.
 Przepisów rozporządzenia nie stosuje się do pomocy, o której mowa w art. 1 ust. 2 lit. c i d, ust. 3 lit. a, c i d, ust. 4 lit. c i ust. 5 rozporządzenia nr 651/2014.
@@ -100,7 +96,7 @@ Maksymalną intensywność pomocy, o której mowa w § 1 pkt 1, na pokrycie kosz
 określa się zgodnie z art. 46 ust. 3 zdanie pierwsze rozporządzenia nr 651/2014;
 2)
 zwiększa się zgodnie z art. 46 ust. 3 zdanie drugie rozporządzenia nr 651/2014.
-2.
+2W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 17 grudnia 2021 r. zmieniającego rozporządzenie w sprawie udzielania pomocy inwestycyjnej na efektywny energetycznie system ciepłowniczy i chłodniczy w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 2386), które weszło w życie z dniem 1 stycznia 2022 r..
 Maksymalną intensywność pomocy, o której mowa w § 1 pkt 1, na pokrycie kosztów kwalifikowalnych, o których mowa w art. 46 ust. 2 rozporządzenia nr 651/2014, zwiększa się również o:
 1)
 5 punktów procentowych – w przypadku gdy inwestycja jest realizowana na obszarze województw: dolnośląskiego i wielkopolskiego oraz na obszarach regionu warszawskiego stołecznego należących do gmin: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym i Żabia Wola;
@@ -123,8 +119,7 @@ Pomoc, o której mowa w § 1:
 1)
 pkt 1 – na pokrycie kosztów kwalifikowalnych, o których mowa w art. 46 ust. 2 rozporządzenia nr 651/2014, oraz w pkt 2 – w przypadku, o którym mowa w art. 4 ust. 1 lit. s rozporządzenia nr 651/2014,
 2)
-pkt 1 – na pokrycie kosztów kwalifikowalnych, o których mowa w art. 46 ust. 5 rozporządzenia nr 651/2014 – w przypadku, o którym mowa w art. 4 ust. 1 lit. w rozporządzenia nr 651/2014
-stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielona po jej zatwierdzeniu przez Komisję Europejską.
+pkt 1 – na pokrycie kosztów kwalifikowalnych, o których mowa w art. 46 ust. 5 rozporządzenia nr 651/2014 – w przypadku, o którym mowa w art. 4 ust. 1 lit. w rozporządzenia nr 651/2014 – stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielona po jej zatwierdzeniu przez Komisję Europejską.
 § 14.
 Pomoc może być udzielona, jeżeli przedsiębiorca złożył wniosek o udzielenie pomocy, zwany dalej „wnioskiem”, zgodnie z art. 6 ust. 2 zdanie pierwsze rozporządzenia nr 651/2014.
 § 15.
@@ -143,6 +138,5 @@ Po przeprowadzeniu oceny wniosku pomoc może być udzielona przedsiębiorcy na p
 § 16.
 Pomoc jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze, w związku z art. 59 rozporządzenia nr 651/2014.
 § 17.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 17 grudnia 2021 r. zmieniającego rozporządzenie w sprawie udzielania pomocy inwestycyjnej na efektywny energetycznie system ciepłowniczy i chłodniczy w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 2386), które weszło w życie z dniem 1 stycznia 2022 r. 4) Rozporządzenie zostało ogłoszone w dniu 2 grudnia 2015 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 2 grudnia 2015 r.. 1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 17 grudnia 2021 r. zmieniającego rozporządzenie w sprawie udzielania pomocy inwestycyjnej na efektywny energetycznie system ciepłowniczy i chłodniczy w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 2386), które weszło w życie z dniem 1 stycznia 2022 r. 4) Rozporządzenie zostało ogłoszone w dniu 2 grudnia 2015 r.
 

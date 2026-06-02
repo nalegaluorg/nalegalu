@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 31 grudnia 2018 r. w sprawie kontroli celno-skarbowej wykonywanej w zakresie produkcji automatów do gier hazardowych i obrotu tymi automatami
+# Rozporządzenie Ministra Finansówz dnia 31 grudnia 2018 r. w sprawie kontroli celno-skarbowej wykonywanej w zakresie produkcji automatów do gier hazardowych i obrotu tymi automatami Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-31 |
 | Data wydania | 2019-01-02 |
-| Wejście w życie | 2019-01-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000003) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/3/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 91a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 91a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654, 2193, 2245 i 2354.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -91,8 +90,7 @@ automatów nabytych od poszczególnych dostawców lub dostarczonych do poszczeg�
 a)
 w przypadku osób fizycznych – imienia i nazwiska, adresu zamieszkania oraz numeru dokumentu potwierdzającego tożsamość osoby,
 b)
-w przypadku osób prawnych – nazwy podmiotu, adresu siedziby oraz numeru z właściwego rejestru handlowego
-odrębnie dla zakładów produkcyjnych lub magazynów znajdujących się we właściwości miejscowej naczelnika urzędu celno-skarbowego właściwego ze względu na ich lokalizację; informację tę przesyła się właściwemu naczelnikowi urzędu celno-skarbowego w terminie 10 dni od zakończenia miesiąca, którego dotyczy informacja.
+w przypadku osób prawnych – nazwy podmiotu, adresu siedziby oraz numeru z właściwego rejestru handlowego – odrębnie dla zakładów produkcyjnych lub magazynów znajdujących się we właściwości miejscowej naczelnika urzędu celno-skarbowego właściwego ze względu na ich lokalizację; informację tę przesyła się właściwemu naczelnikowi urzędu celno-skarbowego w terminie 10 dni od zakończenia miesiąca, którego dotyczy informacja.
 § 5.
 1.
 W przypadku zawieszenia lub wznowienia działalności w zakresie produkcji automatów lub obrotu automatami podmiot prowadzący tę działalność sporządza, odrębnie dla każdego zakładu produkcyjnego lub magazynu, informację, o której mowa w art. 74 ust. 3a pkt 7 ustawy o Krajowej Administracji Skarbowej, dotyczącą liczby magazynowanych automatów wraz z ich oznaczeniem.
@@ -137,6 +135,5 @@ Na żądanie naczelnika urzędu celno-skarbowego właściwego miejscowo ze wzgl�
 § 14.
 Zgłoszenia i informacje oraz załączniki do nich mogą być przesyłane w postaci elektronicznej.
 § 15.
-Rozporządzenie wchodzi w życie z dniem 2 stycznia 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654, 2193, 2245 i 2354.
+Rozporządzenie wchodzi w życie z dniem 2 stycznia 2019 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654, 2193, 2245 i 2354.
 

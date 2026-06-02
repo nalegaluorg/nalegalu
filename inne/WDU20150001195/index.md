@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-06 |
 | Data wydania | 2015-08-18 |
-| Wejście w życie | 2015-08-19 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001195) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1195/text.pdf) |
 
@@ -81,8 +80,7 @@ któremu została przyznana jednolita płatność obszarowa w ramach systemów w
 a)
 poprzedzający rok złożenia wniosku o przyznanie pomocy albo
 b)
-w którym składa wniosek o przyznanie pomocy, jeżeli termin określony w § 5 ust. 2 rozpoczyna się po otrzymaniu tej płatności
-oraz złoży oświadczenie, że będzie ubiegał się o przyznanie jednolitej płatności obszarowej w ramach systemów wsparcia bezpośredniego za kolejne lata, w których zostanie objęty pomocą.
+w którym składa wniosek o przyznanie pomocy, jeżeli termin określony w § 5 ust. 2 rozpoczyna się po otrzymaniu tej płatności – oraz złoży oświadczenie, że będzie ubiegał się o przyznanie jednolitej płatności obszarowej w ramach systemów wsparcia bezpośredniego za kolejne lata, w których zostanie objęty pomocą.
 § 4.
 W przypadku gdy o pomoc ubiegają się oboje małżonkowie i oboje spełniają warunki przyznania pomocy, o których mowa w § 3, pomoc przyznaje się tylko jednemu z nich, co do którego współmałżonek wyraził pisemną zgodę, niezależnie od tego, czy posiadają wspólne czy odrębne gospodarstwa rolne.
 § 5.

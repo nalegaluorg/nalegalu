@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 maja 2023 r. o zmianie ustawy o samorządzie gminnym, ustawy o społecznych formach rozwoju mieszkalnictwa, ustawy o gospodarce nieruchomościami, ustawy o podatku od czynności cywilnoprawnych oraz niektórych innych ustaw
+# Ustawa z dnia 26 maja 2023 r. o zmianie ustawy o samorządzie gminnym, ustawy o społecznych formach rozwoju mieszkalnictwa, ustawy o gospodarce nieruchomościami, ustawy o podatku od czynności cywilnoprawnych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawę z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych, ustawę z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości, ustawę z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, ustawę z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego oraz ustawę z dnia 20 lipca 2018 r. o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-05-26 |
 | Data wydania | 2023-07-31 |
-| Wejście w życie | 2023-08-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001463) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1463/text.pdf) |
+
+Przepisy epizodyczne dotyczące roszczenia o sprzedaż nieruchomości gruntowej na rzecz jej użytkownika wieczystego
 
 **Art. 1.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2023 r. poz. 40 i 572) po art. 24f dodaje się art. 24fa w brzmieniu: „ Art. 24fa. 1. Wójtowie, zastępcy wójtów, radni, małżonkowie wójtów, zastępców wójtów, radnych, a także osoby pozostające we wspólnym pożyciu z wójtami, zastępcami wójtów, radnymi, nie mogą:
 
@@ -163,7 +164,7 @@ source: "eli-html"
 - **8)** sposób i tryb przeprowadzania postępowania z tytułu odpowiedzialności zawodowej, rodzaje i sposoby ustalania kosztów tego postępowania, organizację Komisji Odpowiedzialności Zawodowej, rodzaje i sposoby ustalania kosztów jej funkcjonowania, wysokość wynagrodzenia i zwrotu kosztów podróży i noclegów członków Komisji Odpowiedzialności Zawodowej i obrońców z urzędu oraz sposoby ich ustalania, a także wysokość dodatkowego miesięcznego wynagrodzenia przewodniczącego tej komisji. ” ;
 - **14)** po dziale VI dodaje się dział VIa w brzmieniu: „
 
-### Dział VIa Przepisy epizodyczne dotyczące roszczenia o sprzedaż nieruchomości gruntowej na rzecz jej użytkownika wieczystego
+### Dział VIa
 
 **Art. 198g.**
 
@@ -298,7 +299,7 @@ source: "eli-html"
 1. Finansowego wsparcia udziela się gminie albo związkowi międzygminnemu, jako beneficjentowi wsparcia, na pokrycie części kosztów przedsięwzięcia polegającego na tworzeniu lokali mieszkalnych na wynajem powstających w wyniku realizacji przez inwestora innego niż gmina albo związek międzygminny:
 
 - **1)** budowy budynku na nieruchomości gruntowej stanowiącej własność albo będącej w użytkowaniu wieczystym inwestora albo beneficjenta wsparcia;
-- **2)** remontu lub przebudowy: będącego własnością spółki gminnej albo społecznej inicjatywy mieszkaniowej, której jedynym albo większościowym właścicielem jest gmina, budynku albo jego części lub dzierżawionego przez społeczną agencję najmu albo będącego jej własnością, lokalu mieszkalnego, budynku mieszkalnego jednorodzinnego, budynku innego niż mieszkalny albo części takiego budynku jeżeli ten remont lub ta przebudowa nie dotyczy lokalu mieszkalnego albo budynku mieszkalnego jednorodzinnego zajmowanego przez lokatora na podstawie obowiązującej umowy najmu.
+- **2)** remontu lub przebudowy: będącego własnością spółki gminnej albo społecznej inicjatywy mieszkaniowej, której jedynym albo większościowym właścicielem jest gmina, budynku albo jego części lub dzierżawionego przez społeczną agencję najmu albo będącego jej własnością, lokalu mieszkalnego, budynku mieszkalnego jednorodzinnego, budynku innego niż mieszkalny albo części takiego budynku – jeżeli ten remont lub ta przebudowa nie dotyczy lokalu mieszkalnego albo budynku mieszkalnego jednorodzinnego zajmowanego przez lokatora na podstawie obowiązującej umowy najmu.
     - **a)**
     - **b)**
 
@@ -344,7 +345,7 @@ source: "eli-html"
 
 - **1)** 15 lat – w przypadku, o którym mowa w ust. 1 pkt 1,
 - **2)** 5 lat – w przypadku, o którym mowa w ust. 1 pkt 2 lit. a,
-- **3)** liczbę pełnych lat pozostających do zakończenia umowy, o której mowa w art. 22b ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa – w przypadku, o którym mowa w ust. 1 pkt 2 lit. b licząc od dnia przekazania przez gminę albo związek międzygminny Bankowi oświadczenia inwestora, o którym mowa w art. 18 ust. 1 pkt 2.
+- **3)** liczbę pełnych lat pozostających do zakończenia umowy, o której mowa w art. 22b ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa – w przypadku, o którym mowa w ust. 1 pkt 2 lit. b – licząc od dnia przekazania przez gminę albo związek międzygminny Bankowi oświadczenia inwestora, o którym mowa w art. 18 ust. 1 pkt 2.
 
 11. Finansowe wsparcie, o którym mowa w ust. 1, nie może przekraczać dopuszczalnej wysokości rekompensaty, o której mowa w ust. 5, ustalonej zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 19.
 
@@ -369,8 +370,10 @@ source: "eli-html"
 2. Finansowego wsparcia w przypadku, o którym mowa w art. 5a ust. 1, udziela się również gminie, związkowi międzygminnemu albo powiatowi, jako beneficjentowi wsparcia, jeżeli tworzone z udziałem gminy, związku międzygminnego albo powiatu lokale mieszkalne będą służyć wykonywaniu zadań z zakresu pomocy społecznej, w formie mieszkań chronionych, a budynek położony jest lub ma powstać na nieruchomości stanowiącej własność albo będącej w użytkowaniu wieczystym strony umowy, o której mowa w art. 5 ust. 2 pkt 1. Przepisy art. 5a ust. 2 pkt 1 oraz ust. 3 stosuje się odpowiednio. ” ;
 
 - **6)** art. 6d otrzymuje brzmienie: „ Jeżeli przedsięwzięcie, o którym mowa w art. 3 ust. 1 pkt 3, art. 4 ust. 1 pkt 3 lub art. 5 ust. 1 pkt 2, dotyczy lokalu mieszkalnego znajdującego się w budynku wspólnoty mieszkaniowej, a beneficjent wsparcia lub inwestor w dniu rozpoczęcia realizacji przedsięwzięcia nie posiada większości udziałów w nieruchomości wspólnej, przepisów art. 35a-35c ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, 1273, 1407 i 1429) nie stosuje się. ” ;
-- **7)** w art. 7a: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Lokal mieszkalny utworzony z wykorzystaniem finansowego wsparcia, o którym mowa w art. 5 ust. 1, inwestor inny niż gmina albo związek międzygminny wynajmuje osobie fizycznej, jeżeli: ” , – pkt 1 otrzymuje brzmienie: „ 1) osoba ta oraz osoby zgłoszone z nią do wspólnego zamieszkania, w dniu objęcia lokalu, nie posiadają tytułu prawnego do innego lokalu mieszkalnego w tej samej miejscowości; ” , – w pkt 2: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ średni miesięczny dochód gospodarstwa domowego tej osoby fizycznej w roku poprzedzającym rok, w którym zawierana jest umowa najmu lokalu mieszkalnego, nie przekracza: ” , – – część wspólna otrzymuje brzmienie: „ – iloczynu wysokości ostatnio ogłoszonego przeciętnego wynagrodzenia miesięcznego brutto w gospodarce narodowej w województwie, na terenie którego położony jest lokal mieszkalny, oraz współczynnika 1,4. ” , ust. 8 otrzymuje brzmienie: „
+- **7)** w art. 7a: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Lokal mieszkalny utworzony z wykorzystaniem finansowego wsparcia, o którym mowa w art. 5 ust. 1, inwestor inny niż gmina albo związek międzygminny wynajmuje osobie fizycznej, jeżeli: ” , pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** osoba ta oraz osoby zgłoszone z nią do wspólnego zamieszkania, w dniu objęcia lokalu, nie posiadają tytułu prawnego do innego lokalu mieszkalnego w tej samej miejscowości; ” , w pkt 2: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ średni miesięczny dochód gospodarstwa domowego tej osoby fizycznej w roku poprzedzającym rok, w którym zawierana jest umowa najmu lokalu mieszkalnego, nie przekracza: ” , – część wspólna otrzymuje brzmienie: „ – iloczynu wysokości ostatnio ogłoszonego przeciętnego wynagrodzenia miesięcznego brutto w gospodarce narodowej w województwie, na terenie którego położony jest lokal mieszkalny, oraz współczynnika 1,4. ” , ust. 8 otrzymuje brzmienie: „
     - **b)**
 
 8. Utworzenie przez inwestora będącego społeczną inicjatywą mieszkaniową lokalu mieszkalnego z wykorzystaniem finansowego wsparcia, o którym mowa w art. 5 ust. 1, nie wyklucza zawarcia z osobą fizyczną, o której mowa w ust. 1, umowy w sprawie partycypacji w kosztach budowy lokalu mieszkalnego, o której mowa w art. 29a ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa. ” ;
@@ -405,8 +408,13 @@ source: "eli-html"
 
 - **2)** art. 5 ust. 1 pkt 1, osiągnie wysokość, o której mowa w ust. 2 pkt 2,
 - **3)** art. 5 ust. 1 pkt 2, osiągnie wysokość, o której mowa w ust. 2 pkt 3, ” ;
-- **11)** w art. 13: w ust. 1: – w pkt 1 po wyrazach „w art. 5 ust. 2” dodaje się wyrazy „pkt 1”, – w pkt 3 lit. c otrzymuje brzmienie: „ c) art. 5 ust. 1 pkt 1 – w przypadku, o którym mowa w art. 5a ust. 1 oraz art. 6 ust. 3 pkt 1; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–7 w brzmieniu: „ 5) 80% kosztów przedsięwzięcia – w przypadku, o którym mowa w art. 5 ust. 1 pkt 2 lit. b, pod warunkiem że do zakończenia umowy, o której mowa w art. 22b ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, pozostały co najmniej 4 pełne lata; 6) 60% kosztów przedsięwzięcia – w przypadku, o którym mowa w art. 5 ust. 1 pkt 2 lit. b, pod warunkiem że do zakończenia umowy, o której mowa w art. 22b ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, pozostało mniej niż 4 lata; 7) 40% kosztów przedsięwzięcia – w przypadku, o którym mowa w art. 5 ust. 1 pkt 2 lit. b, pod warunkiem że do zakończenia umowy, o której mowa w art. 22b ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, pozostało mniej niż 3 lata. ” , w ust. 1a pkt 1 i 2 otrzymują brzmienie: „
+- **11)** w art. 13: w ust. 1: – w pkt 1 po wyrazach „w art. 5 ust. 2” dodaje się wyrazy „pkt 1”, w pkt 3 lit. c otrzymuje brzmienie: „ art. 5 ust. 1 pkt 1 – w przypadku, o którym mowa w art. 5a ust. 1 oraz art. 6 ust. 3 pkt 1; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–7 w brzmieniu: „
     - **a)**
+    - **c)**
+
+- **5)** 80% kosztów przedsięwzięcia – w przypadku, o którym mowa w art. 5 ust. 1 pkt 2 lit. b, pod warunkiem że do zakończenia umowy, o której mowa w art. 22b ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, pozostały co najmniej 4 pełne lata;
+- **6)** 60% kosztów przedsięwzięcia – w przypadku, o którym mowa w art. 5 ust. 1 pkt 2 lit. b, pod warunkiem że do zakończenia umowy, o której mowa w art. 22b ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, pozostało mniej niż 4 lata;
+- **7)** 40% kosztów przedsięwzięcia – w przypadku, o którym mowa w art. 5 ust. 1 pkt 2 lit. b, pod warunkiem że do zakończenia umowy, o której mowa w art. 22b ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, pozostało mniej niż 3 lata. ” , w ust. 1a pkt 1 i 2 otrzymują brzmienie: „
     - **b)**
 
 - **1)** 35% kosztów przedsięwzięcia – w przypadku, o którym mowa w art. 5 ust. 1 pkt 1, z wyjątkiem przypadków, o których mowa w art. 5a ust. 1 i art. 6 ust. 3 pkt 1, przy czym udział gminy lub związku międzygminnego w części przekraczającej 25% kosztów przedsięwzięcia pokrywany jest do wysokości odpowiadającej wartości prawa własności albo prawa użytkowania wieczystego gruntu będącego we władaniu inwestora, na którym realizowane jest przedsięwzięcie;
@@ -457,7 +465,7 @@ source: "eli-html"
 3. Do najmu lokalu mieszkalnego utworzonego w ramach przedsięwzięcia, o którym mowa:
 
 - **1)** w art. 5 ust. 1 pkt 1, lub
-- **2)** w art. 5 ust. 1 pkt 2 lit. a z wykorzystaniem finansowego wsparcia udzielonego w ramach planu rozwojowego, nie stosuje się przepisów art. 7a ust. 1 pkt 2 oraz art. 30 ust. 1 pkt 2 i 2a ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa; w takim przypadku w ofercie wynajmu lokalu mieszkalnego umieszcza się informację o zasadach wyboru najemców, o których mowa w ust. 1. ” .
+- **2)** w art. 5 ust. 1 pkt 2 lit. a – z wykorzystaniem finansowego wsparcia udzielonego w ramach planu rozwojowego, nie stosuje się przepisów art. 7a ust. 1 pkt 2 oraz art. 30 ust. 1 pkt 2 i 2a ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa; w takim przypadku w ofercie wynajmu lokalu mieszkalnego umieszcza się informację o zasadach wyboru najemców, o których mowa w ust. 1. ” .
 
 **Art. 9.** W ustawie z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2022 r. poz. 2061) w art. 54 ust. 5 otrzymuje brzmienie: „ 5. Do nieruchomości będących w zasobie Agencji nie stosuje się przepisu art. 19 ust. 1 pkt 3 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, 1113 i 1463) oraz przepisów tej ustawy dotyczących ograniczonego w czasie roszczenia o sprzedaż nieruchomości gruntowej na rzecz jej użytkownika wieczystego. ” .
 
@@ -486,5 +494,5 @@ source: "eli-html"
 
 **Art. 16.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 197 pkt 8 ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 197 pkt 8 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 17.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 8 pkt 9 lit. b, który wchodzi w życie z dniem następującym po dniu ogłoszenia oraz z wyjątkiem art. 4 pkt 1–3 i art. 8 pkt 1–6, pkt 7 lit. a tiret pierwsze i drugie, pkt 8 i 9 lit. a oraz pkt 10–19, które wchodzą w życie z dniem 1 stycznia 2024 r.
+**Art. 17.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 8 pkt 9 lit. b, który wchodzi w życie z dniem następującym po dniu ogłoszenia oraz z wyjątkiem art. 4 pkt 1–3 i art. 8 pkt 1–6, pkt 7 lit. a tiret pierwsze i drugie, pkt 8 i 9 lit. a oraz pkt 10–19, które wchodzą w życie z dniem 1 stycznia 2024 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawę z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych, ustawę z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości, ustawę z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, ustawę z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego oraz ustawę z dnia 20 lipca 2018 r. o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania.
 

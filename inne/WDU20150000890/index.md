@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-22 |
 | Data wydania | 2015-06-26 |
-| Wejście w życie | 2015-06-27 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000890) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/890/text.pdf) |
 
@@ -31,16 +30,13 @@ Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu roz
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 20 maja 2008 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Odtwarzanie potencjału produkcji leśnej zniszczonego przez katastrofy oraz wprowadzanie instrumentów zapobiegawczych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2014 r. poz. 470) wprowadza się następujące zmiany:
 1)
-w § 3 w ust. 3 w pkt 2 w lit. c część wspólna otrzymuje brzmienie:
-„
+w § 3 w ust. 3 w pkt 2 w lit. c część wspólna otrzymuje brzmienie: „
 – nie później jednak niż do dnia 30 września 2015 r.,
 ” ;
 2)
-w § 19a ust. 1 otrzymuje brzmienie:
-„
+w § 19a ust. 1 otrzymuje brzmienie: „
 1.
-Agencja, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na zakończenie realizacji operacji lub złożenie wniosku o płatność ostateczną po upływie terminów określonych w § 3 ust. 3 pkt 2 lit. c, w terminie nie dłuższym niż 6 miesięcy od upływu tych terminów, ale nie później niż do dnia 30 września 2015 r.
-” .
+Agencja, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na zakończenie realizacji operacji lub złożenie wniosku o płatność ostateczną po upływie terminów określonych w § 3 ust. 3 pkt 2 lit. c, w terminie nie dłuższym niż 6 miesięcy od upływu tych terminów, ale nie później niż do dnia 30 września 2015 r. ” .
 § 2.
 1.
 Umowa o przyznanie pomocy finansowej w ramach działania „Odtwarzanie potencjału produkcji leśnej zniszczonego przez katastrofy oraz wprowadzanie instrumentów zapobiegawczych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, zawarta przed dniem wejścia w życie niniejszego rozporządzenia, może być zmieniona w zakresie wynikającym ze zmian wprowadzonych tym rozporządzeniem, jeżeli beneficjent złoży w oddziale regionalnym Agencji Restrukturyzacji i Modernizacji Rolnictwa, w którym została zawarta umowa o przyznanie pomocy finansowej, wniosek o dokonanie takich zmian najpóźniej do dnia 30 czerwca 2015 r.

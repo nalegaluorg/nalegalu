@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 czerwca 2021 r. o zmianie ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
+# Ustawa z dnia 24 czerwca 2021 r. o zmianie ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę wykonawczą Komisji (UE) 2019/68 z dnia 16 stycznia 2019 r. ustanawiającą specyfikacje techniczne dotyczące oznakowania broni palnej i jej istotnych komponentów zgodnie z dyrektywą Rady 91/477/EWG w sprawie kontroli nabywania i posiadania broni (Dz. Urz. UE L 15 z 17.01.2019, str. 18) oraz dyrektywę wykonawczą Komisji (UE) 2019/69 z dnia 16 stycznia 2019 r. ustanawiającą specyfikacje techniczne dotyczące broni alarmowej i sygnałowej zgodnie z dyrektywą Rady 91/477/EWG w sprawie kontroli nabywania i posiadania broni (Dz. Urz. UE L 15 z 17.01.2019, str. 22).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-24 |
 | Data wydania | 2021-07-20 |
-| Wejście w życie | 2021-08-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001329) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1329/text.pdf) |
+
+Broń alarmowa i sygnałowa
 
 **Art. 1.** W ustawie z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2020 r. poz. 1545) wprowadza się następujące zmiany:
 
@@ -87,7 +88,7 @@ source: "eli-html"
 - **2)** zastosowanie techniki ubytkowej, z zachowaniem wymogów wielkości oznakowania określonych w ust. 2a. ” ;
 - **10)** w dziale III w rozdziale 2 po oddziale 1 dodaje się oddział 1a w brzmieniu: „
 
-##### Oddział 1a Broń alarmowa i sygnałowa
+##### Oddział 1a
 
 **Art. 47a.**
 
@@ -155,7 +156,7 @@ source: "eli-html"
 - **2)** wykaz dokumentów wchodzących w skład dokumentacji technicznej broni alarmowej i sygnałowej,
 - **3)** sposób i tryb postępowania z bronią alarmową i sygnałową oraz z dokumentacją techniczną, przekazanymi w celu weryfikacji zgodności wytworzenia ze specyfikacjami technicznymi, o których mowa w art. 47a,
 - **4)** wysokość opłaty za weryfikację oraz wydanie świadectwa broni alarmowej i sygnałowej,
-- **5)** wzór świadectwa broni alarmowej i sygnałowej mając na względzie potencjał naukowo-badawczy podmiotu uprawnionego, jego dotychczasowe doświadczenie w obszarze objętym regulacją, dające gwarancję należytego wykonania zleconych czynności, sprawne przeprowadzenie weryfikacji i jej rzetelne udokumentowanie, adekwatność opłaty do kosztów weryfikacji oraz konieczność objęcia kontrolą wszystkich typów i modeli broni alarmowej i sygnałowej nieuznanej za broń palną wytworzonych lub przywiezionych na teren Rzeczypospolitej Polskiej oraz zawarcia we wzorze świadectwa broni alarmowej i sygnałowej danych umożliwiających jednoznaczną identyfikację broni alarmowej i sygnałowej.
+- **5)** wzór świadectwa broni alarmowej i sygnałowej – mając na względzie potencjał naukowo-badawczy podmiotu uprawnionego, jego dotychczasowe doświadczenie w obszarze objętym regulacją, dające gwarancję należytego wykonania zleconych czynności, sprawne przeprowadzenie weryfikacji i jej rzetelne udokumentowanie, adekwatność opłaty do kosztów weryfikacji oraz konieczność objęcia kontrolą wszystkich typów i modeli broni alarmowej i sygnałowej nieuznanej za broń palną wytworzonych lub przywiezionych na teren Rzeczypospolitej Polskiej oraz zawarcia we wzorze świadectwa broni alarmowej i sygnałowej danych umożliwiających jednoznaczną identyfikację broni alarmowej i sygnałowej.
 
 1. Podmiot uprawniony, o którym mowa w art. 47b ust. 1, przeprowadza kontrolę wytworzonych na terytorium Rzeczypospolitej Polskiej lub sprowadzonych na terytorium Rzeczypospolitej Polskiej spoza terytorium Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub państwa trzeciego modeli, typów lub egzemplarzy urządzeń, o których mowa w art. 47a ust. 1, w zakresie spełniania przez nie wymogów, o których mowa w art. 47a.
 
@@ -258,8 +259,14 @@ source: "eli-html"
 - **4)** „samopowtarzalna strzelecka broń palna” oznacza strzelecką broń palną, którą ładuje się automatycznie po każdorazowym oddaniu strzału i która może oddać tylko jeden strzał przy jednym uruchomieniu urządzenia spustowego;
 - **5)** „powtarzalna strzelecka broń palna” oznacza strzelecką broń palną, która po oddaniu strzału może zostać ponownie naładowana ręcznie z magazynka lub bębna nabojowego;
 - **6)** „jednostrzałowa strzelecka broń palna” oznacza strzelecką broń palną bez magazynka, którą ładuje się przed każdorazowym strzałem przez ręczne wprowadzenie naboju do komory nabojowej lub wgłębienia na ładunek w części zamkowej lufy;
-- **7)** „amunicja z pociskami przeciwpancernymi” (ang. penetrating projectiles) oznacza amunicję do użytku wojskowego, w której pocisk ma płaszcz oraz twardy rdzeń penetrujący; ” , w części Kategoria A: – pkt 1 otrzymuje brzmienie: „ 1. Wojskowe pociski o działaniu wybuchowym oraz ich wyrzutnie. ” , – pkt 4 i 5 otrzymują brzmienie: „ 4. Amunicja z pociskami przeciwpancernymi, wybuchowymi lub zapalającymi oraz pociski dla takiej amunicji. 5. Amunicja przeznaczona do pistoletów i rewolwerów z pociskami grzybkującymi (ang. expanding) oraz pociski dla takiej amunicji, oprócz broni przeznaczonej do celów łowieckich i strzelectwa sportowego przez osoby uprawnione do korzystania z niej. ” .
+- **7)** „amunicja z pociskami przeciwpancernymi” (ang. penetrating projectiles) oznacza amunicję do użytku wojskowego, w której pocisk ma płaszcz oraz twardy rdzeń penetrujący; ” , w części Kategoria A: pkt 1 otrzymuje brzmienie: „
     - **b)**
+
+1. Wojskowe pociski o działaniu wybuchowym oraz ich wyrzutnie. ” , pkt 4 i 5 otrzymują brzmienie: „
+
+4. Amunicja z pociskami przeciwpancernymi, wybuchowymi lub zapalającymi oraz pociski dla takiej amunicji.
+
+5. Amunicja przeznaczona do pistoletów i rewolwerów z pociskami grzybkującymi (ang. expanding) oraz pociski dla takiej amunicji, oprócz broni przeznaczonej do celów łowieckich i strzelectwa sportowego przez osoby uprawnione do korzystania z niej. ” .
 
 **Art. 2.** Do postępowań w sprawie udzielenia i zmiany koncesji na wykonywanie działalności gospodarczej, o której mowa w art. 7 ust. 1 ustawy zmienianej w art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy, stosuje się przepis art. 17 ust. 3 pkt 6 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
 
@@ -271,5 +278,5 @@ source: "eli-html"
 
 **Art. 6.** Do postępowań w sprawie wydania certyfikatu importowego i poświadczenia oświadczenia końcowego użytkownika, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepis art. 94 ust. 4 ustawy zmienianej w art. 1.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę wykonawczą Komisji (UE) 2019/68 z dnia 16 stycznia 2019 r. ustanawiającą specyfikacje techniczne dotyczące oznakowania broni palnej i jej istotnych komponentów zgodnie z dyrektywą Rady 91/477/EWG w sprawie kontroli nabywania i posiadania broni (Dz. Urz. UE L 15 z 17.01.2019, str. 18) oraz dyrektywę wykonawczą Komisji (UE) 2019/69 z dnia 16 stycznia 2019 r. ustanawiającą specyfikacje techniczne dotyczące broni alarmowej i sygnałowej zgodnie z dyrektywą Rady 91/477/EWG w sprawie kontroli nabywania i posiadania broni (Dz. Urz. UE L 15 z 17.01.2019, str. 22).
 

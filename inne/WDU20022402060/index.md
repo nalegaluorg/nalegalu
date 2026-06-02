@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-12-20 |
 | Data wydania | 2002-12-31 |
-| Wejście w życie | 2003-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022402060) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/2060/text.pdf) |
 
@@ -135,7 +134,7 @@ source: "eli-html"
 - **2)** zatrudnienia na statku fachowych pracowników służby zdrowia lub przeszkolenia medycznego kapitana i załogi statku w zakresie stosowania środków ratunkowych i medycznych,
 - **3)** dokonania we właściwym czasie repatriacji osób do tego uprawnionych,
 - **4)** zapewnienia na statku pomieszczeń załogi odpowiednich do liczby zatrudnionych pracowników,
-- **5)** utrzymywania statku, jego wyposażenia i znajdujących się w nim pomieszczeń w stanie zapewniającym bezpieczne i higieniczne warunki pracy i wypoczynku po pracy podlega karze grzywny.
+- **5)** utrzymywania statku, jego wyposażenia i znajdujących się w nim pomieszczeń w stanie zapewniającym bezpieczne i higieniczne warunki pracy i wypoczynku po pracy – podlega karze grzywny.
 
 2. Tej samej karze podlega, kto wbrew obowiązkowi:
 

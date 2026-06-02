@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-01-09 |
 | Data wydania | 2014-01-16 |
-| Wejście w życie | 2014-01-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000073) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/73/text.pdf) |
 
@@ -33,20 +32,17 @@ W rozporządzeniu Ministra Środowiska z dnia 10 listopada 2008 r. w sprawie nad
 1)
 w § 3:
 a)
-ust. 1–3 otrzymują brzmienie:
-„
+ust. 1–3 otrzymują brzmienie: „
 1.
 Regionalny Dyrektor kieruje RDOŚ przy pomocy zastępcy Regionalnego Dyrektora oraz osób kierujących komórkami organizacyjnymi, o których mowa w § 4 ust. 1.
 2.
 Zastępcą Regionalnego Dyrektora jest regionalny konserwator przyrody, który sprawuje nadzór nad komórkami organizacyjnymi, o których mowa w § 4 ust. 1 pkt 2 i 3.
 3.
-Zakresy czynności zastępcy Regionalnego Dyrektora oraz osób kierujących komórkami organizacyjnymi, o których mowa w § 4 ust. 1, ustala Regionalny Dyrektor.
-” ,
+Zakresy czynności zastępcy Regionalnego Dyrektora oraz osób kierujących komórkami organizacyjnymi, o których mowa w § 4 ust. 1, ustala Regionalny Dyrektor. ” ,
 b)
 uchyla się ust. 4;
 2)
-§ 4 otrzymuje brzmienie:
-„
+§ 4 otrzymuje brzmienie: „
 § 4.
 1.
 W skład RDOŚ wchodzą następujące komórki organizacyjne:
@@ -65,8 +61,7 @@ Wydział Budżetu i Finansów.
 2.
 Komórki organizacyjne, o których mowa w ust. 1 pkt 1–5, są kierowane przez naczelników.
 3.
-Komórka organizacyjna, o której mowa w ust. 1 pkt 6, jest kierowana przez głównego księgowego.
-” .
+Komórka organizacyjna, o której mowa w ust. 1 pkt 6, jest kierowana przez głównego księgowego. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

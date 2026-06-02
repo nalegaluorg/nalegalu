@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-23 |
 | Data wydania | 2016-01-11 |
-| Wejście w życie | 2016-01-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000039) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/39/text.pdf) |
 
 Treść rozporządzenia
-Załącznik – Statut Polskiej Agencji Żeglugi Powietrznej Rozdział 1 – Postanowienia ogólne Rozdział 2 – Struktura organizacyjna Agencji Rozdział 3 – Udzielanie pełnomocnictw Rozdział 4 – System kontroli wewnętrznej
+Załącznik – Statut Polskiej Agencji Żeglugi Powietrznej
 Treść rozporządzenia
 Na podstawie art. 5 ust. 6 ustawy z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej (Dz. U. z 2015 r. poz. 1641) zarządza się, co następuje:
 § 1.
@@ -37,8 +36,10 @@ Traci moc rozporządzenie Ministra Transportu z dnia 28 marca 2007 r. w sprawie 
 § 3.
 Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
 Załącznik – Statut Polskiej Agencji Żeglugi Powietrznej
+Postanowienia ogólne
 § 1.
 Polska Agencja Żeglugi Powietrznej (PAŻP), zwana dalej „Agencją”, działa na podstawie ustawy z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej (Dz. U. z 2015 r. poz. 1641), zwanej dalej „ustawą”, oraz niniejszego statutu.
+Struktura organizacyjna Agencji
 § 2.
 1.
 Prezes Polskiej Agencji Żeglugi Powietrznej, zwany dalej „Prezesem”, kieruje Agencją przy pomocy:
@@ -49,8 +50,7 @@ zastępcy Prezesa do spraw finansowo-administracyjnych,
 3)
 głównego księgowego,
 4)
-osób kierujących komórkami organizacyjnymi Agencji
-którzy są odpowiedzialni za realizację spraw objętych zakresem ich działania i kierują pracą bezpośrednio podległych im komórek organizacyjnych.
+osób kierujących komórkami organizacyjnymi Agencji – którzy są odpowiedzialni za realizację spraw objętych zakresem ich działania i kierują pracą bezpośrednio podległych im komórek organizacyjnych.
 2.
 W czasie nieobecności Prezesa lub czasowej niemożności wykonywania przez niego obowiązków działalnością Agencji kieruje i reprezentuje ją na zewnątrz zastępca Prezesa do spraw żeglugi powietrznej, a w razie jego nieobecności lub niemożności wykonywania przez niego obowiązków zastępca Prezesa do spraw finansowo-administracyjnych.
 3.
@@ -74,6 +74,7 @@ W pionie Prezesa znajdują się komórki organizacyjne do spraw: zarządzania be
 W pionie zastępcy Prezesa do spraw żeglugi powietrznej znajdują się komórki organizacyjne do spraw: służb ruchu lotniczego, służb technicznych, zarządzania przestrzenią powietrzną i przygotowania operacyjnego.
 5.
 W pionie zastępcy Prezesa do spraw finansowo-administracyjnych znajdują się komórki organizacyjne do spraw: administracyjnych, finansowych i głównego księgowego.
+Udzielanie pełnomocnictw
 § 4.
 1.
 Prezes może udzielać na piśmie zastępcom Prezesa oraz innym wskazanym imiennie osobom pełnomocnictw ogólnych i szczególnych do dokonywania wszelkich czynności prawnych w imieniu Agencji.
@@ -85,6 +86,7 @@ zaciągania kredytów i pożyczek;
 zakupu, wniesienia lub zbycia nieruchomości;
 3)
 zaciągania innych zobowiązań finansowych ponad kwoty określone przez Prezesa w pełnomocnictwie ogólnym.
+System kontroli wewnętrznej
 § 5.
 Prezes jest odpowiedzialny za zorganizowanie i prawidłowe działanie systemu kontroli wewnętrznej, a także za należyte wykorzystanie wyników kontroli.
 § 6.
@@ -120,16 +122,23 @@ Kontrolujący niezwłocznie zawiadamia Prezesa o:
 1)
 ujawnieniu w toku kontroli czynu mającego znamiona przestępstwa oraz zabezpiecza dokumenty i przedmioty stanowiące dowód przestępstwa,
 2)
-stwierdzeniu bezpośredniego zagrożenia życia lub zdrowia ludzkiego lub możliwości powstania niepowetowanej szkody w mieniu
-w celu zapobieżenia tym zagrożeniom lub ich skutkom.
+stwierdzeniu bezpośredniego zagrożenia życia lub zdrowia ludzkiego lub możliwości powstania niepowetowanej szkody w mieniu – w celu zapobieżenia tym zagrożeniom lub ich skutkom.
 2.
 Prezes jest obowiązany do niezwłocznego podjęcia działań zapobiegających zagrożeniom, o których mowa w ust. 1 pkt 2.
 
-#### Rozdział 1 Postanowienia ogólne
+#### Rozdział 1 – Postanowienia ogólne
 
-#### Rozdział 2 Struktura organizacyjna Agencji
+#### Rozdział 2 – Struktura organizacyjna Agencji
 
-#### Rozdział 3 Udzielanie pełnomocnictw
+#### Rozdział 3 – Udzielanie pełnomocnictw
 
-#### Rozdział 4 System kontroli wewnętrznej
+#### Rozdział 4 – System kontroli wewnętrznej
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

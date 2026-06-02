@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 20 stycznia 2020 r. w sprawie wysokości stawek jednostkowych do obliczania składki specjalnej do Funduszu Rezerwowego oraz szczegółowego trybu dokonywania wypłat z Funduszu Rezerwowego na ulepszenia strukturalne
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 20 stycznia 2020 r. w sprawie wysokości stawek jednostkowych do obliczania składki specjalnej do Funduszu Rezerwowego oraz szczegółowego trybu dokonywania wypłat z Funduszu Rezerwowego na ulepszenia strukturalne Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-20 |
 | Data wydania | 2020-02-03 |
-| Wejście w życie | 2020-02-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000163) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/163/text.pdf) |
 
@@ -33,7 +32,7 @@ Rozporządzenie określa:
 1)
 wysokości stawek jednostkowych do obliczania składki specjalnej do Funduszu Rezerwowego;
 2)
-szczegółowy tryb postępowania przy dokonywaniu wypłat z Funduszu Rezerwowego na ulepszenia strukturalne, o których mowa w rozporządzeniu Rady (WE) nr 718/1999 z dnia 29 marca 1999 r. w sprawie polityki w zakresie zdolności przewozowych floty wspólnotowej w celu wspierania żeglugi śródlądowej (Dz. Urz. WE L 90 z 02.04.1999, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne rozdz. 7, t. 4, str. 271), zwanym dalej „rozporządzeniem 718/1999”.
+szczegółowy tryb postępowania przy dokonywaniu wypłat z Funduszu Rezerwowego na ulepszenia strukturalne, o których mowa w rozporządzeniu Rady (WE) nr 718/1999 z dnia 29 marca 1999 r. w sprawie polityki w zakresie zdolności przewozowych floty wspólnotowej w celu wspierania żeglugi śródlądowej (Dz. Urz. WE L 90 z 02.04.1999, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 163 z 29.05.2014, str. 15. – Dz. Urz. UE Polskie wydanie specjalne rozdz. 7, t. 4, str. 271), zwanym dalej „rozporządzeniem 718/1999”.
 § 2.
 1.
 Stawki jednostkowe do obliczania składek specjalnych wpłacanych przez armatorów do Funduszu Rezerwowego wynoszą w przypadku:
@@ -96,8 +95,7 @@ lit. a tiret drugim, podlegają zwiększeniu o 0,0324324 euro,
 b)
 lit. b tiret drugim, podlegają zwiększeniu o 0,0162162 euro,
 c)
-lit. c tiret drugim, podlegają zwiększeniu o 0,0058559 euro
-za każdą tonę, o którą nośność statku jest większa niż 650 ton.
+lit. c tiret drugim, podlegają zwiększeniu o 0,0058559 euro – za każdą tonę, o którą nośność statku jest większa niż 650 ton.
 4.
 Dla pchaczy o mocy napędowej większej niż 300 kW i mniejszej niż 1000 kW stawka, o której mowa w ust. 1 pkt 3 lit. a, podlega zwiększeniu o 0,0859598 euro za każdy kW mocy napędowej powyżej 301 kW.
 § 3.
@@ -113,6 +111,5 @@ Bank Gospodarstwa Krajowego dokonuje wypłaty ze środków Funduszu Rezerwowego 
 3.
 W przypadku gdy armator nie wykaże spełnienia warunków, o których mowa w art. 6 rozporządzenia 718/1999, Bank Gospodarstwa Krajowego informuje go, które warunki nie zostały spełnione, wskazując powody uznania ich za niespełnione.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 163 z 29.05.2014, str. 15.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 163 z 29.05.2014, str. 15.
 

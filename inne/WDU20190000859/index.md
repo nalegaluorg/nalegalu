@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 9 maja 2019 r. w sprawie określenia organów emerytalno-rentowych właściwych do przyznawania i wypłacania świadczenia pieniężnego, dodatku kompensacyjnego i ryczałtu energetycznego przysługującego żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 9 maja 2019 r. w sprawie określenia organów emerytalno-rentowych właściwych do przyznawania i wypłacania świadczenia pieniężnego, dodatku kompensacyjnego i ryczałtu energetycznego przysługującego żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-09 |
 | Data wydania | 2019-05-09 |
-| Wejście w życie | 2019-05-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000859) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/859/text.pdf) |
 
@@ -73,14 +72,12 @@ c)
 d)
 świadczenia pieniężnego przysługującego, na podstawie odrębnych przepisów, z tytułu pracy przymusowej lub innych represji,
 e)
-ryczałtu energetycznego z innych tytułów
-w przypadku osoby, o której mowa w § 1 ust. 1 pkt 1;
+ryczałtu energetycznego z innych tytułów – w przypadku osoby, o której mowa w § 1 ust. 1 pkt 1;
 11)
 oświadczenie o pobieraniu świadczenia o charakterze rentowym z instytucji zagranicznych, w przypadku osoby, o której mowa w § 1 ust. 1 pkt 2.
 § 3.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 10 maja 2019 r.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 6 czerwca 2000 r. w sprawie określenia organów emerytalno-rentowych właściwych do przyznawania świadczenia pieniężnego i ryczałtu energetycznego przysługującego żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach i zakładach wydobywania rud uranu oraz zasad i trybu ich wypłacania (Dz. U. z 2013 r. poz. 1085), które utraciło moc na podstawie art. 4 pkt 3 ustawy z dnia 15 marca 2019 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego oraz niektórych innych ustaw (Dz. U. poz. 752) z dniem wejścia w życie tej ustawy.
+Rozporządzenie wchodzi w życie z dniem 10 maja 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 6 czerwca 2000 r. w sprawie określenia organów emerytalno-rentowych właściwych do przyznawania świadczenia pieniężnego i ryczałtu energetycznego przysługującego żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach i zakładach wydobywania rud uranu oraz zasad i trybu ich wypłacania (Dz. U. z 2013 r. poz. 1085), które utraciło moc na podstawie art. 4 pkt 3 ustawy z dnia 15 marca 2019 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego oraz niektórych innych ustaw (Dz. U. poz. 752) z dniem wejścia w życie tej ustawy. 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 6 czerwca 2000 r. w sprawie określenia organów emerytalno-rentowych właściwych do przyznawania świadczenia pieniężnego i ryczałtu energetycznego przysługującego żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach i zakładach wydobywania rud uranu oraz zasad i trybu ich wypłacania (Dz. U. z 2013 r. poz. 1085), które utraciło moc na podstawie art. 4 pkt 3 ustawy z dnia 15 marca 2019 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego oraz niektórych innych ustaw (Dz. U. poz. 752) z dniem wejścia w życie tej ustawy.
 
 ##### Oddział ZUS wypłaca świadczenie pieniężne, dodatek kompensacyjny i ryczałt energetyczny kwartalnie, w trzecim miesiącu kwartału.
 

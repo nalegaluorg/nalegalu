@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 4 lutego 2011 r. w sprawie delegowania urzędników sądów do Ministerstwa Sprawiedliwości lub poza stałe miejsce pracy (Dz. U. poz. 187), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Sprawiedliwości z dnia 6 września 2022 r. zmieniającym rozporządzenie w sprawie delegowania urzędników sądów do Ministerstwa Sprawiedliwości lub poza stałe miejsce pracy (Dz. U. poz. 1908).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 6 września 2022 r. zmieniającego rozporządzenie w sprawie delegowania urzędników sądów do Ministerstwa Sprawiedliwości lub poza stałe miejsce pracy (Dz. U. poz. 1908), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 6 września 2022 r. zmieniającego rozporządzenie w sprawie delegowania urzędników sądów do Ministerstwa Sprawiedliwości lub poza stałe miejsce pracy (Dz. U. poz. 1908), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Tekst jednolity rozporządzenia Ministra Sprawiedliwości z dnia 4 lutego 2011 r. w sprawie delegowania urzędników sądów do Ministerstwa Sprawiedliwości lub poza stałe miejsce pracy
 Na podstawie art. 11a ust. 12 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2018 r. poz. 577) zarządza się, co następuje:
 § 1.
@@ -55,9 +53,9 @@ Wysokość dodatku funkcyjnego z tytułu delegowania do Ministerstwa Sprawiedliw
 Zwrot kosztów przejazdu obejmuje zwrot kosztów jednorazowego przejazdu z miejsca zamieszkania do miejsca delegowania i z powrotem.
 2.
 Jeżeli delegowanie trwa dłużej niż dwa tygodnie, zwrot kosztów przejazdu obejmuje także zwrot kosztów przejazdów z miejsca delegowania do miejsca zamieszkania i z powrotem, odbywanych nie częściej niż raz w tygodniu.
-3.
+3W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 6 września 2022 r. zmieniającego rozporządzenie w sprawie delegowania urzędników sądów do Ministerstwa Sprawiedliwości lub poza stałe miejsce pracy (Dz. U. poz. 1908), które weszło w życie z dniem 24 września 2022 r..
 Zwrot kosztów przejazdu następuje na warunkach określonych w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140) według zasad obowiązujących przy podróżach służbowych na obszarze kraju, z zastrzeżeniem ust. 4.
-4.
+4W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 6 września 2022 r. zmieniającego rozporządzenie w sprawie delegowania urzędników sądów do Ministerstwa Sprawiedliwości lub poza stałe miejsce pracy (Dz. U. poz. 1908), które weszło w życie z dniem 24 września 2022 r..
 Zwrot kosztów przejazdu następuje raz w miesiącu z dołu, w terminie 14 dni od dnia złożenia kierownikowi jednostki, o której mowa w art. 11a ust. 11 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury, zwanemu dalej „kierownikowi jednostki”, wykazu odbytych przejazdów oraz oświadczenia o wysokości poniesionych kosztów.
 5.
 W uzasadnionych wypadkach, na wniosek urzędnika, kierownik jednostki może wyrazić zgodę na przejazd samochodem osobowym lub innym pojazdem mechanicznym. W takim wypadku zwrot kosztów przejazdu następuje na podstawie umowy o używanie pojazdu do celów służbowych, zawartej pomiędzy urzędnikiem a kierownikiem jednostki na warunkach określonych w przepisach w sprawie warunków ustalania oraz sposobu dokonywania zwrotu kosztów używania do celów służbowych samochodów osobowych, motocykli i motorowerów, niebędących własnością pracodawcy.
@@ -125,5 +123,5 @@ Zwrot kosztów przewozu urządzenia domowego obejmuje opłatę za transport oraz
 5.
 Zwrot kosztów przewozu urządzenia domowego następuje jednorazowo na podstawie przedstawionych rachunków, niezwłocznie po ich złożeniu kierownikowi jednostki.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 18 lutego 2011 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 24 października 2007 r. w sprawie szczegółowych warunków delegowania urzędników sądów i prokuratury do wykonywania obowiązków służbowych w Ministerstwie Sprawiedliwości oraz szczegółowych warunków i zakresu świadczeń dodatkowych związanych z delegowaniem urzędników sądów i prokuratury poza stałe miejsce pracy (Dz. U. poz. 1499), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 22 ustawy z dnia 9 października 2009 r. o zmianie ustawy o prokuraturze oraz niektórych innych ustaw (Dz. U. poz. 1375 i 1706). 1) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 6 września 2022 r. zmieniającego rozporządzenie w sprawie delegowania urzędników sądów do Ministerstwa Sprawiedliwości lub poza stałe miejsce pracy (Dz. U. poz. 1908), które weszło w życie z dniem 24 września 2022 r. 2) Rozporządzenie zostało ogłoszone w dniu 18 lutego 2011 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 24 października 2007 r. w sprawie szczegółowych warunków delegowania urzędników sądów i prokuratury do wykonywania obowiązków służbowych w Ministerstwie Sprawiedliwości oraz szczegółowych warunków i zakresu świadczeń dodatkowych związanych z delegowaniem urzędników sądów i prokuratury poza stałe miejsce pracy (Dz. U. poz. 1499), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 22 ustawy z dnia 9 października 2009 r. o zmianie ustawy o prokuraturze oraz niektórych innych ustaw (Dz. U. poz. 1375 i 1706).
 

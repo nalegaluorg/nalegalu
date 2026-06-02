@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 30 grudnia 2016 r. w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu muzealnika
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 30 grudnia 2016 r. w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu muzealnika Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-30 |
 | Data wydania | 2017-01-11 |
-| Wejście w życie | 2017-01-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000062) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/62/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Staż adaptacyjny Rozdział 3 – Test umiejętności Rozdział 4 – Przepisy przejściowe i przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -36,22 +36,22 @@ warunki, sposób i tryb odbywania stażu adaptacyjnego, sposób i tryb wykonywan
 2)
 warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności,
 3)
-sposób ustalania kosztów odbywania stażu adaptacyjnego i przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za odbycie stażu adaptacyjnego i przeprowadzenie testu umiejętności
-w toku postępowania w sprawie uznania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej kwalifikacji zawodowych do wykonywania na terytorium Rzeczypospolitej Polskiej zawodu muzealnika.
+sposób ustalania kosztów odbywania stażu adaptacyjnego i przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za odbycie stażu adaptacyjnego i przeprowadzenie testu umiejętności – w toku postępowania w sprawie uznania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej kwalifikacji zawodowych do wykonywania na terytorium Rzeczypospolitej Polskiej zawodu muzealnika.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
 postępowaniu – należy przez to rozumieć postępowanie w sprawie uznania kwalifikacji zawodowych prowadzone na podstawie przepisów ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej;
 2)
-organie prowadzącym postępowanie – należy przez to rozumieć ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego lub podmiot upoważniony na podstawie art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r. poz. 543, z późn. zm.);
+organie prowadzącym postępowanie – należy przez to rozumieć ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego lub podmiot upoważniony na podstawie art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r. poz. 543, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948, 1954, 1961, 2003 i 2260.);
 3)
 wnioskodawcy – należy przez to rozumieć osobę ubiegającą się o uznanie kwalifikacji zawodowych do wykonywania zawodu muzealnika;
 4)
-jednostce – należy przez to rozumieć muzeum w rozumieniu art. 1 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2012 r. poz. 987, z późn. zm.), w którym wnioskodawca odbywa staż adaptacyjny.
+jednostce – należy przez to rozumieć muzeum w rozumieniu art. 1 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2012 r. poz. 987, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1505, z 2016 r. poz. 354, 749, 868 i 1330 oraz z 2017 r. poz. 60.), w którym wnioskodawca odbywa staż adaptacyjny.
 § 3.
 Organ prowadzący postępowanie doręcza postanowienie, o którym mowa w art. 20 ust. 1 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, wraz z kopią dokumentacji zawierającej informacje o posiadanych kwalifikacjach, w tym o wykształceniu i doświadczeniu zawodowym wnioskodawcy, odpowiednio jednostce albo komisji egzaminacyjnej, która przygotowuje i przeprowadza test umiejętności. Kopia postanowienia wraz z kopią dokumentacji może być przekazana w postaci elektronicznej.
 § 4.
 Wnioskodawca informuje organ prowadzący postępowanie o zamiarze odbycia stażu adaptacyjnego albo przystąpieniu do testu umiejętności.
+Staż adaptacyjny
 § 5.
 1.
 Wnioskodawca przekazuje organowi prowadzącemu postępowanie:
@@ -143,6 +143,7 @@ Ocena umiejętności nabytych przez wnioskodawcę w trakcie stażu adaptacyjnego
 Wnioskodawca, który nie zaliczył stażu, może ponownie wystąpić do organu prowadzącego postępowanie z wnioskiem o odbycie stażu adaptacyjnego.
 2.
 Do ponownego odbycia stażu adaptacyjnego stosuje się przepisy § 5–12 i ust. 1.
+Test umiejętności
 § 14.
 1.
 Test umiejętności przygotowuje i przeprowadza komisja egzaminacyjna trzy razy w roku.
@@ -211,23 +212,31 @@ Wnioskodawca nie wnosi ponownie opłaty, o której mowa w § 15 ust. 1.
 Wnioskodawca, który uzyskał negatywny wynik z testu umiejętności, może ponownie przystąpić do testu umiejętności nie wcześniej niż po upływie 3 miesięcy od dnia, w którym przeprowadzono test umiejętności.
 2.
 Do ponownego przeprowadzenia testu umiejętności stosuje się przepisy § 14–20 oraz ust. 1.
+Przepisy przejściowe i przepis końcowy
 § 22.
 Do wniosków o odbycie stażu adaptacyjnego albo przystąpienia do testu umiejętności złożonych i nierozpatrzonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 23.
 Osoby odbywające staż adaptacyjny w dniu wejścia w życie rozporządzenia odbywają go na podstawie dotychczasowych przepisów.
 § 24.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948, 1954, 1961, 2003 i 2260. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1505, z 2016 r. poz. 354, 749, 868 i 1330 oraz z 2017 r. poz. 60. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 19 maja 2009 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu muzealnika (Dz. U. poz. 725), które utraciło moc z dniem 1 stycznia 2017 r. zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 19 maja 2009 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu muzealnika (Dz. U. poz. 725), które utraciło moc z dniem 1 stycznia 2017 r. zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65). 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948, 1954, 1961, 2003 i 2260. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1505, z 2016 r. poz. 354, 749, 868 i 1330 oraz z 2017 r. poz. 60. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 19 maja 2009 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu muzealnika (Dz. U. poz. 725), które utraciło moc z dniem 1 stycznia 2017 r. zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Staż adaptacyjny
+#### Rozdział 2 – Staż adaptacyjny
 
-#### Rozdział 3 Test umiejętności
+#### Rozdział 3 – Test umiejętności
+
+#### Rozdział 4 – Przepisy przejściowe i przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 
 ## Część pisemna testu umiejętności trwa nie dłużej niż 120 minut i składa się z nie więcej niż 30 pytań, w tym 10% o charakterze opisowym. Każde z pytań niemające charakteru opisowego zawiera nie mniej niż 3 możliwości odpowiedzi, z których jedna jest prawidłowa.
 
 ## Część ustna testu umiejętności składa się z nie więcej niż 10 pytań i trwa do 30 minut. Część ustną testu umiejętności uznaje się za zdaną, jeżeli osoba zdająca odpowiedziała poprawnie na co najmniej 75% pytań.
 
-#### Rozdział 4 Przepisy przejściowe i przepis końcowy
+#### Rozdział 4
 

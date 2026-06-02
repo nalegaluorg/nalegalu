@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-27 |
 | Data wydania | 2018-07-09 |
-| Wejście w życie | 2018-07-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001317) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1317/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 260 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 260 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 5, 106, 138, 201, 730, 771 i 942.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 16 czerwca 2015 r. w sprawie wykazu zakładów leczniczych, w tym psychiatrycznych, przeznaczonych do wykonywania tymczasowego aresztowania oraz warunków zabezpieczenia tych zakładów (Dz. U. z 2016 r. poz. 1733 oraz z 2017 r. poz. 1585) w załączniku uchyla się pkt 2, 7, 8, 19, 23, 30, 38, 40, 44, 62, 64, 70, 80, 82, 85, 94, 95, 98, 99, 101, 108, 117 i 119.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 5, 106, 138, 201, 730, 771 i 942.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy o postępowaniu w sprawach nieletnich oraz niektórych innych ustaw
+# Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy o postępowaniu w sprawach nieletnich oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych oraz ustawę z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-08-30 |
 | Data wydania | 2013-10-01 |
-| Wejście w życie | 2014-01-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001165) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1165/text.pdf) |
 
+Przebieg postępowania
+Postępowanie odwoławcze
 Udzielanie nagród i stosowanie środków dyscyplinarnych wobec nieletnich umieszczonych w schroniskach dla nieletnich i zakładach poprawczych
 Art. 95ca.
 § 1.
@@ -112,16 +113,13 @@ W przypadkach uzasadnionych względami wychowawczymi, w szczególności jeżeli 
 § 3.
 Jeżeli w okresie zawieszenia wykonania środka dyscyplinarnego nieletni dopuścił się ponownie przewinienia, zawieszony środek dyscyplinarny podlega wykonaniu, chyba że dyrektor postanowi inaczej ze względów wychowawczych.
 § 4.
-Decyzję o uchyleniu, zawieszeniu, zamianie, skróceniu lub darowaniu środka dyscyplinarnego sporządza się na piśmie i podaje się do wiadomości nieletniemu, a jeżeli względy wychowawcze za tym przemawiają – również innym osobom i włącza się do akt osobowych nieletniego.
-” ;
+Decyzję o uchyleniu, zawieszeniu, zamianie, skróceniu lub darowaniu środka dyscyplinarnego sporządza się na piśmie i podaje się do wiadomości nieletniemu, a jeżeli względy wychowawcze za tym przemawiają – również innym osobom i włącza się do akt osobowych nieletniego. ” ;
 24)
-w art. 95g § 1 otrzymuje brzmienie:
-„
+w art. 95g § 1 otrzymuje brzmienie: „
 § 1.
-Okresy pracy wykonywanej przez nieletniego w czasie odbywania środka poprawczego, z wyjątkiem prac, o których mowa w art. 95f § 2, uważa się za okresy równorzędne z okresami zatrudnienia w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
-” .
+Okresy pracy wykonywanej przez nieletniego w czasie odbywania środka poprawczego, z wyjątkiem prac, o których mowa w art. 95f § 2, uważa się za okresy równorzędne z okresami zatrudnienia w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. ” .
 
-**Art. 1.** W ustawie z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz. U. z 2010 r. Nr 33, poz. 178, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz. U. z 2010 r. Nr 33, poz. 178, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887 i Nr 191, poz. 1134, z 2012 r. poz. 579 oraz z 2013 r. poz. 628.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w § 2 w pkt 2 lit. b otrzymuje brzmienie: „ wykroczenie określone w art. 51, art. 69, art. 74, art. 76, art. 85, art. 87, art. 119, art. 122, art. 124, art. 133 lub art. 143 Kodeksu wykroczeń. ” ;
     - **b)**
@@ -150,7 +148,7 @@ Okresy pracy wykonywanej przez nieletniego w czasie odbywania środka poprawczeg
 **Art. 18a.** Nieletniemu przysługują:
 
 - **1)** prawo do obrony, w tym prawo do korzystania z pomocy obrońcy,
-- **2)** prawo do odmowy składania wyjaśnień lub odpowiedzi na poszczególne pytania o czym należy go pouczyć przed przystąpieniem do przesłuchania lub wysłuchania. ” ;
+- **2)** prawo do odmowy składania wyjaśnień lub odpowiedzi na poszczególne pytania – o czym należy go pouczyć przed przystąpieniem do przesłuchania lub wysłuchania. ” ;
 - **7)** art. 20 i art. 21 otrzymują brzmienie: „
 
 **Art. 20.**
@@ -214,7 +212,7 @@ Okresy pracy wykonywanej przez nieletniego w czasie odbywania środka poprawczeg
 - **17)** w dziale III: po rozdziale 1 dodaje się rozdział 1a w brzmieniu: „
     - **a)**
 
-#### Rozdział 1a Przebieg postępowania
+#### Rozdział 1a
 
 **Art. 32a.**
 
@@ -239,7 +237,7 @@ Okresy pracy wykonywanej przez nieletniego w czasie odbywania środka poprawczeg
 
 - **1)** jest głuchy, niemy lub niewidomy lub
 - **2)** zachodzi uzasadniona wątpliwość, czy jego stan zdrowia psychicznego pozwala na udział w postępowaniu lub prowadzenie obrony w sposób samodzielny oraz rozsądny, lub
-- **3)** nieletniego umieszczono w schronisku dla nieletnich prezes sądu wyznacza mu obrońcę z urzędu.
+- **3)** nieletniego umieszczono w schronisku dla nieletnich – prezes sądu wyznacza mu obrońcę z urzędu.
 
 § 3. Nieletni może złożyć wniosek o ustanowienie obrońcy z urzędu. Prezes sądu uwzględnia wniosek, jeżeli udział obrońcy w sprawie uzna za potrzebny, a nieletni lub jego rodzice nie są w stanie ponieść kosztów wynagrodzenia obrońcy z wyboru bez uszczerbku dla niezbędnego utrzymania siebie i rodziny. Na odmowę ustanowienia obrońcy przysługuje zażalenie.
 
@@ -326,7 +324,7 @@ Okresy pracy wykonywanej przez nieletniego w czasie odbywania środka poprawczeg
 - **b)**
 - **c)**
 
-#### Rozdział 7 Postępowanie odwoławcze
+#### Rozdział 7
 
 **Art. 58.** Środki odwoławcze od orzeczeń wydanych w sprawach nieletnich rozpoznaje sąd okręgowy w składzie 3 sędziów.
 
@@ -371,7 +369,7 @@ Okresy pracy wykonywanej przez nieletniego w czasie odbywania środka poprawczeg
 **Art. 70e.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
 
 - **1)** warunki i sposób wykonywania obowiązków i uprawnień przez kuratorów sądowych w zakresie sprawowania nadzoru nad nieletnim, kontrolowania wykonywania przez nieletniego nałożonych na niego obowiązków określonego postępowania, jak również kontrolowania wykonywania obowiązków, o których mowa w art. 7 § 1, nałożonych na rodziców albo opiekuna nieletniego,
-- **2)** warunki i sposób wykonywania obowiązków i uprawnień przez organizacje młodzieżowe lub inne organizacje społeczne, zakłady pracy albo osoby godne zaufania, którym powierzono sprawowanie nadzoru mając na względzie dobór właściwych metod oddziaływania wychowawczego wobec nieletniego, prawidłowe wypełnianie przez rodziców albo opiekuna nieletniego oraz przez podmioty, o których mowa w pkt 2, nałożonych na nich obowiązków, a także sprawność i cele prowadzonego postępowania wykonawczego. ” ;
+- **2)** warunki i sposób wykonywania obowiązków i uprawnień przez organizacje młodzieżowe lub inne organizacje społeczne, zakłady pracy albo osoby godne zaufania, którym powierzono sprawowanie nadzoru – mając na względzie dobór właściwych metod oddziaływania wychowawczego wobec nieletniego, prawidłowe wypełnianie przez rodziców albo opiekuna nieletniego oraz przez podmioty, o których mowa w pkt 2, nałożonych na nich obowiązków, a także sprawność i cele prowadzonego postępowania wykonawczego. ” ;
 - **21)** w art. 83 uchyla się § 3;
 - **22)** w art. 85: § 2 otrzymuje brzmienie: „
     - **a)**
@@ -390,7 +388,7 @@ Okresy pracy wykonywanej przez nieletniego w czasie odbywania środka poprawczeg
 - **1)** cywilny – do spraw z zakresu prawa cywilnego, prawa rodzinnego i opiekuńczego, spraw dotyczących leczenia osób uzależnionych od alkoholu oraz od środków odurzających i psychotropowych, spraw należących do sądu opiekuńczego na podstawie odrębnych ustaw oraz spraw dotyczących demoralizacji i czynów karalnych nieletnich;
 - **2)** karny – do spraw z zakresu prawa karnego oraz spraw zgodności z prawdą oświadczeń lustracyjnych. ” .
 
-**Art. 3.** W ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. poz. 628) w art. 40 ust. 2 otrzymuje brzmienie: „ 2. O użyciu środków przymusu bezpośredniego wobec nieletniego umieszczonego w policyjnej izbie dziecka kierownik izby powiadamia sąd rodzinny sprawujący nadzór nad wykonywaniem czynności, o których mowa w art. 32e-32h ustawy z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz. U. z 2010 r. Nr 33, poz. 178, z późn. zm.), a w przypadku, o którym mowa w art. 32h tej ustawy, powiadamia również sąd rodzinny, na obszarze właściwości którego znajduje się policyjna izba dziecka. ” .
+**Art. 3.** W ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. poz. 628) w art. 40 ust. 2 otrzymuje brzmienie: „ 2. O użyciu środków przymusu bezpośredniego wobec nieletniego umieszczonego w policyjnej izbie dziecka kierownik izby powiadamia sąd rodzinny sprawujący nadzór nad wykonywaniem czynności, o których mowa w art. 32e-32h ustawy z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz. U. z 2010 r. Nr 33, poz. 178, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887 i Nr 191, poz. 1134, z 2012 r. poz. 579 oraz z 2013 r. poz. 628 i 1165.), a w przypadku, o którym mowa w art. 32h tej ustawy, powiadamia również sąd rodzinny, na obszarze właściwości którego znajduje się policyjna izba dziecka. ” .
 
 **Art. 4.**
 
@@ -400,5 +398,5 @@ Okresy pracy wykonywanej przez nieletniego w czasie odbywania środka poprawczeg
 
 **Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 70e ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 70e ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 23, który wchodzi w życie z dniem 8 października 2013 r.
+**Art. 6.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 23, który wchodzi w życie z dniem 8 października 2013 r. 1) Niniejszą ustawą zmienia się ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych oraz ustawę z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887 i Nr 191, poz. 1134, z 2012 r. poz. 579 oraz z 2013 r. poz. 628. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887 i Nr 191, poz. 1134, z 2012 r. poz. 579 oraz z 2013 r. poz. 628 i 1165.
 

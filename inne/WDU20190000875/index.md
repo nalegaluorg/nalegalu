@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 marca 2019 r. o zmianie ustawy o nadzorze nad rynkiem finansowym oraz niektórych innych ustaw
+# Ustawa z dnia 15 marca 2019 r. o zmianie ustawy o nadzorze nad rynkiem finansowym oraz niektórych innych ustaw Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/2402 z dnia 12 grudnia 2017 r. w sprawie ustanowienia ogólnych ram dla sekurytyzacji oraz utworzenia szczególnych ram dla prostych, przejrzystych i standardowych sekurytyzacji, a także zmieniającego dyrektywy 2009/65/WE, 2009/138/WE i 2011/61/UE oraz rozporządzenia (WE) nr 1060/2009 i (UE) nr 648/2012 (Dz. Urz. UE L 347 z 28.12.2017, str. 35).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-15 |
 | Data wydania | 2019-05-11 |
-| Wejście w życie | 2019-05-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000875) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/875/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym oraz ustawę z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w związku ze wzmocnieniem nadzoru nad rynkiem finansowym oraz ochrony inwestorów na tym rynku.
 
 **Art. 1.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2019 r. poz. 298, 326 i 730) wprowadza się następujące zmiany:
 
@@ -109,7 +110,7 @@ source: "eli-html"
 
 - **1)** imienia i nazwiska osoby lub nazwy (firmy) podmiotu,
 - **2)** że decyzja nakładająca sankcję nie jest prawomocna,
-- **3)** czy strona złożyła wniosek o ponowne rozpatrzenie sprawy albo skargę do sądu administracyjnego mając na uwadze cele, o których mowa w art. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym. ” , ust. 2 otrzymuje brzmienie: „
+- **3)** czy strona złożyła wniosek o ponowne rozpatrzenie sprawy albo skargę do sądu administracyjnego – mając na uwadze cele, o których mowa w art. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Informacje, o których mowa w ust. 1 i 1a, są zamieszczane na stronie internetowej Komisji Nadzoru Finansowego na okres 5 lat, licząc od dnia jej zamieszczenia, z tym że wskazanie imienia i nazwiska osoby, na którą nałożono sankcję, jest zamieszczane na okres nie dłuższy niż rok. ” , w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W informacjach, o których mowa w ust. 1 i 1a, Komisja Nadzoru Finansowego nie podaje imienia i nazwiska osoby fizycznej, w przypadku gdy opublikowanie tych danych: ” . W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2018 r. poz. 1355, 2215, 2243 i 2244 oraz z 2019 r. poz. 730) wprowadza się następujące zmiany:
@@ -149,5 +150,5 @@ na wniosek klienta domu maklerskiego na potrzeby wszczętego lub planowanego pos
 
 **Art. 8.** Komisja Nadzoru Finansowego, w terminie 90 dni od dnia wejścia w życie niniejszej ustawy, może podać do publicznej wiadomości informacje o nałożeniu sankcji administracyjnej, o których mowa w art. 10b ust. 1a ustawy zmienianej w art. 2, nałożonej przed dniem wejścia w życie niniejszej ustawy, mając na uwadze cele, o których mowa w art. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2019 r. poz. 298, 326 i 730).
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/2402 z dnia 12 grudnia 2017 r. w sprawie ustanowienia ogólnych ram dla sekurytyzacji oraz utworzenia szczególnych ram dla prostych, przejrzystych i standardowych sekurytyzacji, a także zmieniającego dyrektywy 2009/65/WE, 2009/138/WE i 2011/61/UE oraz rozporządzenia (WE) nr 1060/2009 i (UE) nr 648/2012 (Dz. Urz. UE L 347 z 28.12.2017, str. 35). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym oraz ustawę z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w związku ze wzmocnieniem nadzoru nad rynkiem finansowym oraz ochrony inwestorów na tym rynku.
 

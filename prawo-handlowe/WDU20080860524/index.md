@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 kwietnia 2008 r. o zmianie ustawy – Kodeks spółek handlowych
+# Ustawa z dnia 25 kwietnia 2008 r. o zmianie ustawy – Kodeks spółek handlowych Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 2005 r. w sprawie transgranicznego łączenia się spółek kapitałowych (Dz. Urz. UE L 310 z 25.11.2005, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-04-25 |
 | Data wydania | 2008-05-20 |
-| Wejście w życie | 2008-06-20 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080860524) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/524/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.) wprowadza się następujące zmiany:
+Transgraniczne łączenie się spółek kapitałowych i spółki komandytowo-akcyjnej
+Transgraniczne łączenie się spółek kapitałowych
+Transgraniczne łączenie się spółki komandytowo-akcyjnej
+
+**Art. 1.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539 oraz z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540.) wprowadza się następujące zmiany:
 
 - **1)** w art. 491 po § 1 dodaje się § 11 w brzmieniu: „
 
@@ -51,9 +54,9 @@ source: "eli-html"
 
 - **5)** w tytule IV w dziale I po rozdziale 2 dodaje się rozdział 21 w brzmieniu: „
 
-#### Rozdział 21 Transgraniczne łączenie się spółek kapitałowych i spółki komandytowo-akcyjnej
+#### Rozdział 21
 
-##### Oddział 1 Transgraniczne łączenie się spółek kapitałowych
+##### Oddział 1
 
 **Art. 5161.** Połączenie transgraniczne spółek kapitałowych podlega przepisom rozdziału 2, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
 
@@ -219,9 +222,9 @@ source: "eli-html"
 
 § 4. Na postanowienie przysługuje zażalenie rozpatrywane w terminie dwóch tygodni.
 
-##### Oddział 2 Transgraniczne łączenie się spółki komandytowo-akcyjnej
+##### Oddział 2
 
 **Art. 51619.** Do transgranicznego łączenia się spółki komandytowo-akcyjnej stosuje się odpowiednio przepisy oddziału 1 oraz art. 522, 525 i 526. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 2005 r. w sprawie transgranicznego łączenia się spółek kapitałowych (Dz. Urz. UE L 310 z 25.11.2005, str. 1). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539 oraz z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540.
 

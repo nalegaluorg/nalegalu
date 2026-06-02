@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-04 |
 | Data wydania | 2022-12-13 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002589) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2589/text.pdf) |
 
@@ -47,7 +46,7 @@ source: "eli-html"
 
 2. Warunki wynagradzania egzaminatorów określone każdorazowo w uchwale sejmiku województwa, o której mowa w ust. 1, nie mogą być mniej korzystne niż warunki wynagradzania egzaminatorów określone w poprzedniej uchwale. ” .
 
-**Art. 2.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1997, 2269, 2328 i 2490 oraz z 2022 r. poz. 655 i 1002.) wprowadza się następujące zmiany:
 
 - **1)** po art. 56 dodaje się art. 56a i art. 56b w brzmieniu: „
 
@@ -80,5 +79,5 @@ source: "eli-html"
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 66 ust. 1 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 66 ust. 1 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie przepisów dotychczasowych.
 
-**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2023 r.
+**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2023 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1997, 2269, 2328 i 2490 oraz z 2022 r. poz. 655 i 1002.
 

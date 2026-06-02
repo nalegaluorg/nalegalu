@@ -8,10 +8,10 @@ pos: 1546
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 15 czerwca 2018 r. o ustanowieniu Medalu Stulecia Odzyskanej Niepodległości
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 sierpnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-15 |
 | Data wydania | 2018-08-10 |
-| Wejście w życie | 2018-08-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001546) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1546/text.pdf) |
 
-Załącznik – Odznaka Medalu Stulecia Odzyskanej Niepodległości (wzór)
-Parlament Rzeczypospolitej Polskiej, dostrzegając potrzebę uhonorowania obywateli polskich, którzy od czasu odzyskania niepodległości przez Państwo Polskie w 1918 r. przyczyniali się do budowania i wzmacniania suwerenności, niepodległości, kulturowej tożsamości i materialnej pomyślności Rzeczypospolitej, na pamiątkę stulecia odrodzenia Państwa Polskiego, uchwala niniejszą ustawę.
+USTAWA dnia 15 czerwca 2018 r.
+o ustanowieniu Medalu Stulecia Odzyskanej Niepodległości Parlament Rzeczypospolitej Polskiej, dostrzegając potrzebę uhonorowania obywateli polskich, którzy od czasu odzyskania niepodległości przez Państwo Polskie w 1918 r. przyczyniali się do budowania i wzmacniania suwerenności, niepodległości, kulturowej tożsamości i materialnej pomyślności Rzeczypospolitej, na pamiątkę stulecia odrodzenia Państwa Polskiego, uchwala niniejszą ustawę.
 
 **Art. 1.** Ustanawia się odznaczenie: Medal Stulecia Odzyskanej Niepodległości, zwany dalej „Medalem”, jako dowód wdzięczności oraz wyraz szacunku dla osób, które położyły szczególne zasługi w służbie Państwu i społeczeństwu.
 
@@ -37,14 +36,14 @@ Parlament Rzeczypospolitej Polskiej, dostrzegając potrzebę uhonorowania obywat
 
 2. Medal jest nadawany osobom żyjącym, które poprzez:
 
-- **1)** pełnienie nienagannej służby publicznej – cywilnej lub wojskowej,
+- **1)** pełnienie nienagannej służby publicznej cywilnej lub wojskowej,
 - **2)** walkę o niepodległość oraz działalność na rzecz przemian demokratycznych,
 - **3)** aktywną działalność zawodową i społeczną,
-- **4)** twórczość naukową, literacką i artystyczną przyczyniły się do odzyskania lub umacniania suwerenności Rzeczypospolitej Polskiej, w tym w szczególności budowania wspólnoty obywatelskiej Polaków i poczucia tożsamości narodowej, rozwoju nauki, rozsławiania dobrego imienia Rzeczypospolitej Polskiej poprzez kulturę i sztukę, rozwoju społecznego i umacniania więzi z Polakami za granicą oraz budowania dobrobytu gospodarczego Rzeczypospolitej Polskiej.
+- **4)** twórczość naukową, literacką i artystyczną przyczyniły się do odzyskania lub umacniania suwerenności Rzeczypospolitej Polskiej, w tym w szczególności budowania wspólnoty obywatelskiej Polaków i poczucia tożsamości narodowej, rozwoju nauki, rozsławiania dobrego imienia Rzeczypospolitej Polskiej poprzez kulturę i sztukę, rozwoju społecznego i umacniania więzi Polakami za granicą oraz budowania dobrobytu gospodarczego Rzeczypospolitej Polskiej.
 
 **Art. 3.**
 
-1. Medal nadaje Prezydent Rzeczypospolitej Polskiej z własnej inicjatywy lub na wniosek Prezesa Rady Ministrów, ministrów, kierowników urzędów centralnych oraz wojewodów.
+1. Medal nadaje Prezydent Rzeczypospolitej Polskiej własnej inicjatywy lub na wniosek Prezesa Rady Ministrów, ministrów, kierowników urzędów centralnych oraz wojewodów.
 
 2. Do wniosku dołącza się wykaz przedstawianych wniosków, zawierający zestawienie zbiorcze osób proponowanych do odznaczenia.
 
@@ -52,13 +51,20 @@ Parlament Rzeczypospolitej Polskiej, dostrzegając potrzebę uhonorowania obywat
 
 **Art. 4.**
 
-1. Odznaką Medalu jest okrągły, srebrzony i oksydowany medal o średnicy 35 mm, z wrzecionowatym uszkiem i kółkiem do zawieszenia, o zróżnicowanej powierzchni sugerującej falującą flagę, z umieszczonym pośrodku wizerunkiem stylizowanego ukoronowanego orła wznoszącego skrzydła, wspartego na sfalowanej w płaszczyźnie wstędze z majuskułowym wklęsłym napisem „POLONIA REDIVIVA”. Na odwrotnej, gładkiej stronie umieszczone są wypukłe inicjały Rzeczypospolitej Polskiej „RP” nad datami „1918” i „2018” w dwóch wierszach, ujęte stylizowanymi liśćmi wawrzynu i dębiny z owocami, z przewiązką krzyżową u dołu.
+1. Odznaką Medalu jest okrągły, srebrzony i oksydowany medal o średnicy 35 mm, wrzecionowatym uszkiem i kółkiem do zawieszenia, o zróżnicowanej powierzchni sugerującej falującą flagę, umieszczonym pośrodku wizerunkiem stylizowanego ukoronowanego orła wznoszącego skrzydła, wspartego na sfalowanej w płaszczyźnie wstędze majuskułowym wklęsłym napisem „POLONIA REDIVIVA”. Na odwrotnej, gładkiej stronie umieszczone są wypukłe inicjały Rzeczypospolitej Polskiej „RP” nad datami „1918” i „2018” w dwóch wierszach, ujęte stylizowanymi liśćmi wawrzynu i dębiny owocami, przewiązką krzyżową u dołu.
 
 2. Medal zawieszony jest na niebieskiej wstążce szerokości 36 mm ze srebrzystym prążkiem szerokości 4 mm pośrodku.
 
-3. Wzór graficzny odznaki Medalu określa załącznik do ustawy.
+3. Wzór graficzny odznaki Medalu określa załącznik do ustawy. nadanie Medalu.
 
-**Art. 5.** Osoba odznaczona otrzymuje nieodpłatnie odznakę nadanego jej Medalu wraz z legitymacją potwierdzającą nadanie Medalu.
+**Art. 6.** Prezydent Rzeczypospolitej Polskiej określi, w drodze rozporządzenia:
 
-**Art. 6.**
+- **1)** tryb postępowania w sprawach o nadanie Medalu, w tym terminy przedkładania wniosków oraz wręczania odznak nadanego Medalu,
+- **2)** tryb postępowania w przypadku zgubienia lub zniszczenia odznaki Medalu lub legitymacji potwierdzającej nadanie Medalu,
+- **3)** wzory wniosku o nadanie Medalu oraz wykazu przedstawianych wniosków, zawierającego zestawienie zbiorcze osób proponowanych do odznaczenia, legitymacji potwierdzającej nadanie Medalu oraz jej wtórnika,
+- **4)** sposób i okoliczności noszenia Medalu biorąc pod uwagę konieczność ustalenia faktycznych okoliczności przemawiających za nadaniem Medalu oraz sprawność tego postępowania, a także konieczność zachowania kolejności wynikającej ze starszeństwa przyznanych orderów i odznaczeń oraz uwzględniając święta i rocznice państwowe.
+
+**Art. 7.** W sprawach nieuregulowanych w ustawie stosuje się przepisy ustawy dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. 2018 r. poz. 400 i 730).
+
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

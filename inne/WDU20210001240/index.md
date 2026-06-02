@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-24 |
 | Data wydania | 2021-07-07 |
-| Wejście w życie | 2021-07-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001240) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1240/text.pdf) |
 
@@ -131,7 +130,7 @@ source: "eli-html"
 4. Do złożenia wniosku o:
 
 - **1)** wpis koła gospodyń wiejskich do rejestru,
-- **2)** przyznanie pomocy finansowej, o której mowa w art. 23a ust. 1 za pomocą formularza udostępnionego na stronie internetowej Agencji Restrukturyzacji i Modernizacji Rolnictwa, jest wymagane uwierzytelnienie osoby, o której mowa w ust. 2 zdanie pierwsze, w sposób określony w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 670, 952 i 1005).
+- **2)** przyznanie pomocy finansowej, o której mowa w art. 23a ust. 1 – za pomocą formularza udostępnionego na stronie internetowej Agencji Restrukturyzacji i Modernizacji Rolnictwa, jest wymagane uwierzytelnienie osoby, o której mowa w ust. 2 zdanie pierwsze, w sposób określony w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 670, 952 i 1005).
 
 5. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, szczegółowe wymagania, jakie powinien spełniać formularz, o którym mowa w ust. 1, oraz szczegółowe warunki i tryb składania wniosków za pomocą tego formularza, w tym format danych, w jakim będą dołączane do wniosku elektroniczne kopie dokumentów, przy uwzględnieniu wymagań określonych w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne oraz biorąc pod uwagę potrzebę identyfikacji osoby, o której mowa w ust. 2 zdanie pierwsze, oraz zabezpieczenia przekazywanych danych przed dostępem osób nieuprawnionych. ” ;
 
@@ -154,8 +153,11 @@ source: "eli-html"
 6. Po zakończeniu likwidacji koła gospodyń wiejskich kierownik biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa właściwy ze względu na siedzibę koła wykreśla, w drodze decyzji, koło gospodyń wiejskich z rejestru. ” ;
 
 - **16)** w art. 27a w ust. 1 wyrazy „jego zarządu” zastępuje się wyrazami „zarządu koła”;
-- **17)** w art. 27b: w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) zawiadomić dyrektora oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa właściwego ze względu na siedzibę koła gospodyń wiejskich o otwarciu likwidacji i wyznaczeniu likwidatora, z podaniem jego imienia, nazwiska i miejsca zamieszkania; ” , – pkt 3 otrzymuje brzmienie: „ 3) po zakończeniu likwidacji zgłosić kierownikowi biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa właściwemu ze względu na siedzibę koła gospodyń wiejskich, za pośrednictwem dyrektora oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa właściwego ze względu na siedzibę tego koła, wniosek o wykreślenie tego koła z rejestru. ” , ust. 4 otrzymuje brzmienie: „
+- **17)** w art. 27b: w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** zawiadomić dyrektora oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa właściwego ze względu na siedzibę koła gospodyń wiejskich o otwarciu likwidacji i wyznaczeniu likwidatora, z podaniem jego imienia, nazwiska i miejsca zamieszkania; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** po zakończeniu likwidacji zgłosić kierownikowi biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa właściwemu ze względu na siedzibę koła gospodyń wiejskich, za pośrednictwem dyrektora oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa właściwego ze względu na siedzibę tego koła, wniosek o wykreślenie tego koła z rejestru. ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Jeżeli likwidacja koła gospodyń wiejskich nie zostanie zakończona w terminie roku od dnia jej zarządzenia, likwidatorzy przedstawiają przyczyny niezakończenia likwidacji dyrektorowi oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa właściwemu ze względu na siedzibę koła gospodyń wiejskich, który występuje do sądu właściwego ze względu na siedzibę tego koła o przedłużenie terminu likwidacji lub o zarządzenie zmiany likwidatorów. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
@@ -180,7 +182,7 @@ source: "eli-html"
 3. Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa przekazuje właściwemu kierownikowi biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa akta spraw dotyczących wykreślenia kół gospodyń wiejskich z Krajowego Rejestru Kół Gospodyń Wiejskich:
 
 - **1)** zakończonych decyzją ostateczną przed dniem wejścia w życie ustawy,
-- **2)** wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie ustawy niezwłocznie od dnia wejścia w życie ustawy.
+- **2)** wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie ustawy – niezwłocznie od dnia wejścia w życie ustawy.
 
 4. W przypadku gdy decyzja w sprawie wpisu koła gospodyń wiejskich do Krajowego Rejestru Kół Gospodyń Wiejskich, wpisu zmian do Krajowego Rejestru Kół Gospodyń Wiejskich albo wykreślenia koła gospodyń wiejskich z Krajowego Rejestru Kół Gospodyń Wiejskich została wydana przed dniem wejścia w życie ustawy, do:
 

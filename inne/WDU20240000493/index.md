@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 27 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie należności funkcjonariuszy Straży Granicznej za podróże służbowe, przeniesienia lub delegowania
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 27 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie należności funkcjonariuszy Straży Granicznej za podróże służbowe, przeniesienia lub delegowania Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
 
 | Pole | Wartość |
 |---|---|
@@ -26,19 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000493) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/493/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 grudnia 2006 r. w sprawie należności funkcjonariuszy Straży Granicznej za podróże służbowe, przeniesienia lub delegowania Rozdział 1 – Przepisy ogólne Rozdział 2 – Podróże służbowe Rozdział 3 – Przeniesienia służbowe Rozdział 4 – Delegowania służbowe Rozdział 5 – Podmioty uprawnione do podejmowania decyzji w sprawie podróży służbowych, przeniesień i delegowania Rozdział 6 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 grudnia 2006 r. w sprawie należności funkcjonariuszy Straży Granicznej za podróże służbowe, przeniesienia lub delegowania
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 14 grudnia 2006 r. w sprawie należności funkcjonariuszy Straży Granicznej za podróże służbowe, przeniesienia lub delegowania (Dz. U. z 2021 r. poz. 1508), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 23 sierpnia 2023 r. zmieniającym rozporządzenie w sprawie należności funkcjonariuszy Straży Granicznej za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1873).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 23 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie należności funkcjonariuszy Straży Granicznej za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1873), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 23 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie należności funkcjonariuszy Straży Granicznej za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1873), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.
-” .
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 grudnia 2006 r. w sprawie należności funkcjonariuszy Straży Granicznej za podróże służbowe, przeniesienia lub delegowania
+Rozporządzenie wchodzi w życie z dniem 1 października 2023 r. ” . 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 grudnia 2006 r. w sprawie należności funkcjonariuszy Straży Granicznej za podróże służbowe, przeniesienia lub delegowaniaNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
 Na podstawie art. 117 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723, 1860 i 2608) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa wysokość, warunki oraz sposób ustalania należności przysługujących funkcjonariuszowi Straży Granicznej z tytułu podróży służbowych odbywanych na obszarze kraju, a także w razie przeniesienia do pełnienia służby w innej miejscowości albo delegowania do czasowego pełnienia służby, podmioty właściwe do podejmowania decyzji w tych sprawach, zakres pojęcia podróży służbowej oraz terminy wypłaty należności.
 § 2.
@@ -65,10 +63,11 @@ a)
 stały,
 b)
 czasowy ponad 2 miesiące – jeżeli funkcjonariuszowi została przydzielona kwatera tymczasowa na podstawie art. 100 ust. 4 ustawy;
-10)
+10Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 23 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie należności funkcjonariuszy Straży Granicznej za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1873), które weszło w życie z dniem 1 października 2023 r.)
 jednostka – Komendę Główną Straży Granicznej, Wyższą Szkołę Straży Granicznej, Biuro Spraw Wewnętrznych Straży Granicznej, oddział Straży Granicznej, ośrodek Straży Granicznej i ośrodek szkolenia Straży Granicznej;
-11)
+11Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 kierownik – kierownika komórki organizacyjnej Komendy Głównej Straży Granicznej, Rektora-Komendanta Wyższej Szkoły Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej, komendanta oddziału Straży Granicznej, komendanta ośrodka Straży Granicznej i komendanta ośrodka szkolenia Straży Granicznej.
+Podróże służbowe
 § 3.
 1.
 Funkcjonariuszowi z tytułu podróży służbowej przysługują:
@@ -137,7 +136,7 @@ Funkcjonariusz, który w czasie podróży służbowej na obszarze kraju towarzys
 1.
 W celu rozliczenia kosztów podróży służbowej podmiot, o którym mowa w § 22, za stałe miejsce pełnienia służby może uznać miejscowość zamieszkania funkcjonariusza albo miejscowość, w której funkcjonariusz wykonuje czynności służbowe, jeżeli nie spowoduje to zwiększenia kosztów podróży służbowej.
 2.
-Podmiot, o którym mowa w § 22, może na wniosek funkcjonariusza wyrazić zgodę na przejazdy w podróży służbowej samochodem, motocyklem albo motorowerem, który nie pozostaje w dyspozycji Straży Granicznej, zwanym dalej „pojazdem”. W tym przypadku funkcjonariuszowi przysługuje zwrot kosztów przejazdu według stawek za 1 km przebiegu, nie wyższych niż określone w przepisach wydanych na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201, z późn. zm.).
+Podmiot, o którym mowa w § 22, może na wniosek funkcjonariusza wyrazić zgodę na przejazdy w podróży służbowej samochodem, motocyklem albo motorowerem, który nie pozostaje w dyspozycji Straży Granicznej, zwanym dalej „pojazdem”. W tym przypadku funkcjonariuszowi przysługuje zwrot kosztów przejazdu według stawek za 1 km przebiegu, nie wyższych niż określone w przepisach wydanych na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 760, 919, 1123, 1193, 1195, 1523 i 1720.).
 3.
 W przypadku odbywania podróży służbowej pojazdem przez więcej niż jednego funkcjonariusza zwrot kosztów przejazdu przysługuje wyłącznie jego posiadaczowi.
 § 8.
@@ -186,6 +185,7 @@ W przypadku gdy nie jest możliwe określenie kosztów przejazdów na podstawie 
 (uchylony).
 8.
 Wypłaty zaliczki na niezbędne koszty podróży, rozliczenia kosztów i wypłaty należności z tytułu podróży służbowej dokonuje jednostka Straży Granicznej, właściwa ze względu na zaopatrzenie finansowe funkcjonariusza.
+Przeniesienia służbowe
 § 13.
 1.
 Funkcjonariuszowi przeniesionemu z urzędu przysługują:
@@ -207,15 +207,14 @@ Funkcjonariuszowi przeniesionemu z urzędu do miejscowości, w której jest zame
 Funkcjonariuszowi:
 1)
 przeniesionemu z urzędu, który:
-a)
+aZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 został zwolniony ze stanowiska kursant lub student i mianowany na stanowisko służbowe w innej miejscowości,
 b)
 został zawieszony w czynnościach służbowych i przeniesiony w związku z likwidacją jednostki, placówki Straży Granicznej lub dywizjonu Straży Granicznej albo komórki organizacyjnej jednostki, w strukturze których występowało stanowisko służbowe funkcjonariusza,
 c)
 w związku z przeniesieniem służbowym przesiedlił się z miejscowości pobliskiej do miejscowości będącej nowym, stałym miejscem pełnienia służby,
 2)
-przeniesionemu na własną prośbę
-przysługują wyłącznie należności, o których mowa w ust. 1 pkt 1 i 2.
+przeniesionemu na własną prośbę – przysługują wyłącznie należności, o których mowa w ust. 1 pkt 1 i 2.
 § 14.
 Funkcjonariuszowi przeniesionemu z urzędu, którego członkowie rodziny pozostali w miejscowości dotychczasowego zamieszkania, przysługuje po upływie każdego pełnego miesiąca kalendarzowego ryczałt na pokrycie kosztów jednorazowego przejazdu ze stałego miejsca pełnienia służby do miejscowości zamieszkania tych członków rodziny i z powrotem, w wysokości iloczynu najkrótszej odległości drogowej do miejscowości stanowiącej cel podróży i 8,8 % maksymalnej stawki za 1 km przebiegu pojazdu dla samochodu osobowego o pojemności skokowej silnika powyżej 900 cm3, określonej w przepisach wydanych na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym. Należności te nie przysługują funkcjonariuszowi, który otrzymuje zwrot kosztów dojazdu do miejsca pełnienia służby na podstawie przepisów wydanych na podstawie art. 97 ust. 3 ustawy.
 § 15.
@@ -238,8 +237,7 @@ Ryczałt z tytułu przeniesienia przysługuje:
 1)
 funkcjonariuszowi posiadającemu rodzinę – w wysokości 100 %,
 2)
-funkcjonariuszowi nieposiadającemu rodziny – w wysokości 50 %
-miesięcznego uposażenia przysługującego funkcjonariuszowi w dniu jego przesiedlenia się do określonej miejscowości, zwanego dalej „uposażeniem”.
+funkcjonariuszowi nieposiadającemu rodziny – w wysokości 50 % – miesięcznego uposażenia przysługującego funkcjonariuszowi w dniu jego przesiedlenia się do określonej miejscowości, zwanego dalej „uposażeniem”.
 2.
 Funkcjonariusz posiadający rodzinę, której nie wszyscy członkowie przesiedlili się z nim do miejscowości, do której został przeniesiony, otrzymuje połowę ryczałtu określonego w ust. 1 pkt 1. Pozostałą część ryczałtu wypłaca się z chwilą przesiedlenia się wszystkich członków rodziny.
 § 18.
@@ -250,8 +248,7 @@ Zasiłek osiedleniowy przysługuje:
 1)
 funkcjonariuszowi posiadającemu rodzinę – w wysokości 200 %,
 2)
-funkcjonariuszowi nieposiadającemu rodziny – w wysokości 50 %
-uposażenia.
+funkcjonariuszowi nieposiadającemu rodziny – w wysokości 50 % – uposażenia.
 3.
 Funkcjonariuszowi posiadającemu rodzinę, której nie wszyscy członkowie przesiedlili się z nim do miejscowości, do której został on przeniesiony, przysługuje zasiłek osiedleniowy w wysokości 50 % uposażenia. Pozostałą część zasiłku wypłaca się z chwilą przesiedlenia się wszystkich członków rodziny. Przepisy § 16 ust. 3 i 4 stosuje się odpowiednio.
 § 19.
@@ -270,6 +267,7 @@ Należności, o których mowa w § 13, ustala i wypłaca na pisemny wniosek funk
 Do wniosku o wypłatę należności, o których mowa w § 13 ust. 2, funkcjonariusz dołącza pisemne oświadczenie potwierdzające miejsce jego zameldowania oraz pisemne oświadczenie o faktycznym miejscu zakwaterowania.
 3.
 Do wniosku o wypłatę należności, o których mowa w § 13 ust. 1 pkt 3–5, funkcjonariusz dołącza pisemne oświadczenie potwierdzające fakt zameldowania jego i członków rodziny w nowym miejscu zamieszkania.
+Delegowania służbowe
 § 21.
 1.
 Funkcjonariuszowi delegowanemu na okres do 6 miesięcy do czasowego pełnienia służby w innej miejscowości z urzędu przysługują należności, o których mowa w § 3 ust. 1 i § 14, według kryteriów określonych w § 4, § 8 ust. 2 i § 9 ust. 4 pkt 1.
@@ -283,6 +281,7 @@ Do ustalenia i wypłaty należności, o których mowa w ust. 1 i 2, przepisy § 
 Funkcjonariuszowi delegowanemu przyznaje się, na jego wniosek, zaliczkę na niezbędne koszty podróży w wysokości wynikającej z wstępnej kalkulacji tych kosztów. Przepisy § 12 ust. 2, 5 i 6 stosuje się odpowiednio.
 6.
 Zaliczkę, o której mowa w ust. 5, wypłaca jednostka, do której funkcjonariusz został delegowany.
+Podmioty uprawnione do podejmowania decyzji w sprawie podróży służbowych, przeniesień i delegowania
 § 22.
 Decyzje w sprawie podróży służbowej, przeniesień i delegowania, obejmujące w szczególności wydanie polecenia odbycia podróży służbowej, podejmuje:
 1)
@@ -291,6 +290,7 @@ minister właściwy do spraw wewnętrznych lub upoważniona przez niego osoba �
 Komendant Główny Straży Granicznej lub upoważniona przez niego osoba – w stosunku do zastępców Komendanta Głównego Straży Granicznej, kierowników i funkcjonariuszy pozostających w dyspozycji Komendanta Głównego Straży Granicznej;
 3)
 kierownik lub upoważniona przez niego osoba – w stosunku do podległych kierownikowi funkcjonariuszy.
+Przepisy przejściowe i końcowe
 § 23.
 1.
 Do funkcjonariusza skierowanego w podróż służbową lub delegowanego przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie rozporządzenia.
@@ -299,18 +299,29 @@ Do funkcjonariusza przeniesionego do nowego miejsca pełnienia służby przed dn
 § 24.
 Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 czerwca 2002 r. w sprawie należności za podróże służbowe funkcjonariuszy Straży Granicznej (Dz. U. poz. 964).
 § 25.
-Rozporządzenie wchodzi w życie z dniem 23 grudnia 2006 r.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 23 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie należności funkcjonariuszy Straży Granicznej za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1873), które weszło w życie z dniem 1 października 2023 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 760, 919, 1123, 1193, 1195, 1523 i 1720. 5) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
+Rozporządzenie wchodzi w życie z dniem 23 grudnia 2006 r. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 23 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie należności funkcjonariuszy Straży Granicznej za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1873), które weszło w życie z dniem 1 października 2023 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 760, 919, 1123, 1193, 1195, 1523 i 1720. 5) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Podróże służbowe
+#### Rozdział 2 – Podróże służbowe
 
-#### Rozdział 3 Przeniesienia służbowe
+#### Rozdział 3 – Przeniesienia służbowe
 
-#### Rozdział 4 Delegowania służbowe
+#### Rozdział 4 – Delegowania służbowe
 
-#### Rozdział 5 Podmioty uprawnione do podejmowania decyzji w sprawie podróży służbowych, przeniesień i delegowania
+#### Rozdział 5 – Podmioty uprawnione do podejmowania decyzji w sprawie podróży służbowych, przeniesień i delegowania
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

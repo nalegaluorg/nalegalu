@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-05-29 |
 | Data wydania | 2012-06-14 |
-| Wejście w życie | 2012-06-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000660) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/660/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 9 ust. 1 pkt 3 ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. Nr 162, poz. 1117, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 9 ust. 1 pkt 3 ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. Nr 162, poz. 1117, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2009 r. Nr 79, poz. 669 i Nr 161, poz. 1278, z 2010 r. Nr 240, poz. 1601 oraz z 2011 r. Nr 205, poz. 1203.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 8 kwietnia 2008 r. w sprawie szczegółowych zasad i trybu finansowania przygotowania i działania jednostek wojskowych poza granicami państwa (Dz. U. Nr 62, poz. 389) § 4 otrzymuje brzmienie:
-„
+W rozporządzeniu Rady Ministrów z dnia 8 kwietnia 2008 r. w sprawie szczegółowych zasad i trybu finansowania przygotowania i działania jednostek wojskowych poza granicami państwa (Dz. U. Nr 62, poz. 389) § 4 otrzymuje brzmienie: „
 § 4.
 1.
 Dysponentami środków finansowych, o których mowa w § 2, realizującymi wydatki związane z przygotowaniem i działaniem jednostek wojskowych poza granicami państwa, w przypadkach, o których mowa w art. 2 pkt 1 ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa, zwanej dalej „ustawą”, są:
@@ -65,8 +63,7 @@ uregulowanie należności z tytułu szkód związanych z działaniem jednostki p
 5)
 koszty realizacji zadań w zakresie pomocy humanitarnej;
 6)
-ubezpieczenie następstw nieszczęśliwych wypadków.
-” .
+ubezpieczenie następstw nieszczęśliwych wypadków. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2009 r. Nr 79, poz. 669 i Nr 161, poz. 1278, z 2010 r. Nr 240, poz. 1601 oraz z 2011 r. Nr 205, poz. 1203.
 

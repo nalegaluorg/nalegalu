@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-22 |
 | Data wydania | 2018-06-13 |
-| Wejście w życie | 2018-06-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001138) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1138/text.pdf) |
 
@@ -35,7 +34,7 @@ Wykaz granic między śródlądowymi wodami powierzchniowymi a morskimi wodami w
 § 2.
 Granice między śródlądowymi wodami powierzchniowymi a morskimi wodami wewnętrznymi i wodami morza terytorialnego inne niż określone w załączniku do rozporządzenia stanowi linia łącząca oba brzegi śródlądowej wody powierzchniowej przy ujściu do morskich wód wewnętrznych lub do wód morza terytorialnego.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie granic między śródlądowymi wodami powierzchniowymi a morskimi wodami wewnętrznymi i wodami morza terytorialnego (Dz. U. poz. 2035, z 2004 r. poz. 2632 oraz z 2016 r. poz. 622), które utraciło moc z dniem 1 stycznia 2018 r. zgodnie z art. 573 w związku z art. 574 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650 i 710). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie granic między śródlądowymi wodami powierzchniowymi a morskimi wodami wewnętrznymi i wodami morza terytorialnego (Dz. U. poz. 2035, z 2004 r. poz. 2632 oraz z 2016 r. poz. 622), które utraciło moc z dniem 1 stycznia 2018 r. zgodnie z art. 573 w związku z art. 574 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650 i 710).
 Załącznik – Wykaz granic między śródlądowymi wodami powierzchniowymi a morskimi wodami wewnętrznymi i wodami morza terytorialnego
 1)
 na rzece Pasłęka – linia łącząca brzegi rzeki przy ujściu do Zalewu Wiślanego i linia biegnąca wzdłuż południowego brzegu rzeki przy jej połączeniu z kanałem portowym;

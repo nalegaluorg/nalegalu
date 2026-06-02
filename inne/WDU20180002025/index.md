@@ -22,25 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-03 |
 | Data wydania | 2018-10-23 |
-| Wejście w życie | 2018-10-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002025) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2025/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2017 r. poz. 2137 oraz z 2018 r. poz. 1669) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170,) wprowadza się następujące zmiany:
 1)
-w § 13o po ust. 5 dodaje się ust. 5a w brzmieniu:
-„
+w § 13o po ust. 5 dodaje się ust. 5a w brzmieniu: „
 5a.
-Wniosek w danym roku kalendarzowym składa się do dnia 30 listopada.
-” ;
+Wniosek w danym roku kalendarzowym składa się do dnia 30 listopada. ” ;
 2)
 w § 13q uchyla się ust. 3;
 3)
-po § 13s dodaje się § 13t i § 13u w brzmieniu:
-„
+po § 13s dodaje się § 13t i § 13u w brzmieniu: „
 § 13t.
 1.
 W 2018 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu:
@@ -55,8 +51,7 @@ Pomoc, o której mowa w ust. 1, jest udzielana:
 1)
 zgodnie z przepisami rozporządzenia nr 1408/2013 oraz przepisami o postępowaniu w sprawach dotyczących pomocy publicznej – w przypadku gdy szkody, o których mowa w ust. 1 pkt 2, oszacowane przez komisję, o której mowa w § 5 ust. 5, wynoszą nie więcej niż 30% średniej rocznej produkcji rolnej w gospodarstwie rolnym lub dziale specjalnym produkcji rolnej z trzech ostatnich lat poprzedzających rok, w którym wystąpiły te szkody, albo z trzech lat w okresie pięcioletnim poprzedzającym rok, w którym wystąpiły szkody, z pominięciem roku o najwyższej i najniższej wielkości produkcji, albo
 2)
-na warunkach określonych w rozporządzeniu nr 702/2014 – w przypadku gdy szkody, o których mowa w ust. 1 pkt 2, oszacowane przez komisję, o której mowa w § 5 ust. 5, wynoszą powyżej 30% średniej rocznej produkcji rolnej, o której mowa w pkt 1.
-1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147 oraz z 2018 r. poz. 303, 1428 i 1483.
+na warunkach określonych w rozporządzeniu nr 702/2014 – w przypadku gdy szkody, o których mowa w ust. 1 pkt 2, oszacowane przez komisję, o której mowa w § 5 ust. 5, wynoszą powyżej 30% średniej rocznej produkcji rolnej, o której mowa w pkt 1. 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147 oraz z 2018 r. poz. 303, 1428 i 1483.
 3.
 Pomoc, o której mowa w ust. 1, jest przyznawana, w drodze decyzji administracyjnej kierownika biura powiatowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę producenta rolnego, na wniosek tego producenta rolnego złożony na formularzu opracowanym i udostępnionym przez Agencję na jej stronie internetowej.
 4.
@@ -105,8 +100,7 @@ który w latach 2014–2017 co najmniej przez rok utrzymywał świnie w siedzibi
 – wymienionym w załączniku do decyzji 2014/709/UE lub
 – zapowietrzonym lub zagrożonym w związku z wystąpieniem afrykańskiego pomoru świń, ustanowionym zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, lub
 e)
-który w latach 2014–2017 co najmniej raz nie otrzymał zapłaty za sprzedane świnie od podmiotu, który prowadził działalność na obszarze zapowietrzonym lub zagrożonym w związku z wystąpieniem afrykańskiego pomoru świń, ustanowionym zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt
-którzy w latach 2014–2017 co najmniej raz nie otrzymali zapłaty za sprzedany tytoń lub sprzedane świnie w związku z wydaniem postanowienia o ogłoszeniu upadłości lub wszczęciu wtórnego postępowania upadłościowego, lub postanowienia o otwarciu postępowania restrukturyzacyjnego wobec podmiotu, któremu ten tytoń lub te świnie zostały sprzedane przez producenta rolnego bezpośrednio albo za pośrednictwem grupy producentów w rozumieniu ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw;
+który w latach 2014–2017 co najmniej raz nie otrzymał zapłaty za sprzedane świnie od podmiotu, który prowadził działalność na obszarze zapowietrzonym lub zagrożonym w związku z wystąpieniem afrykańskiego pomoru świń, ustanowionym zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt – którzy w latach 2014–2017 co najmniej raz nie otrzymali zapłaty za sprzedany tytoń lub sprzedane świnie w związku z wydaniem postanowienia o ogłoszeniu upadłości lub wszczęciu wtórnego postępowania upadłościowego, lub postanowienia o otwarciu postępowania restrukturyzacyjnego wobec podmiotu, któremu ten tytoń lub te świnie zostały sprzedane przez producenta rolnego bezpośrednio albo za pośrednictwem grupy producentów w rozumieniu ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw;
 2)
 grupie producentów suszu tytoniowego utworzonej na podstawie ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw, która w latach 2014–2017 co najmniej raz nie otrzymała zapłaty za sprzedany tytoń w związku z wydaniem postanowienia o ogłoszeniu upadłości lub wszczęciu wtórnego postępowania upadłościowego, lub postanowienia o otwarciu postępowania restrukturyzacyjnego wobec podmiotu, któremu ten tytoń został sprzedany.
 2.
@@ -124,8 +118,7 @@ Pomoc, o której mowa w ust. 1, jest przyznawana w drodze decyzji administracyjn
 1)
 zamieszkania lub siedziby producenta rolnego lub
 2)
-siedziby grupy producentów, o której mowa w ust. 1 pkt 2
-na wniosek tego producenta rolnego lub tej grupy producentów złożony na formularzu opracowanym i udostępnionym przez Agencję na jej stronie internetowej.
+siedziby grupy producentów, o której mowa w ust. 1 pkt 2 – na wniosek tego producenta rolnego lub tej grupy producentów złożony na formularzu opracowanym i udostępnionym przez Agencję na jej stronie internetowej.
 6.
 Termin składania wniosków, o których mowa w ust. 5, minister właściwy do spraw rolnictwa ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu najpóźniej 7 dni przed rozpoczęciem terminu składania tych wniosków.
 7.
@@ -173,8 +166,7 @@ nie może przekroczyć 80% kwoty wynikającej z niezapłaconych producentowi rol
 a)
 netto – w przypadku producenta rolnego podatnika podatku od towarów i usług,
 b)
-brutto – w przypadku producenta rolnego będącego rolnikiem ryczałtowym w rozumieniu przepisów o podatku od towarów i usług
-potwierdzających sprzedaż tytoniu, o którym mowa w ust. 1.
+brutto – w przypadku producenta rolnego będącego rolnikiem ryczałtowym w rozumieniu przepisów o podatku od towarów i usług – potwierdzających sprzedaż tytoniu, o którym mowa w ust. 1.
 10.
 Stawka pomocy, o której mowa w ust. 1, dla producenta rolnego, który nie otrzymał zapłaty za sprzedany tytoń, wynosi 15 000 zł na 1 ha uprawy tytoniu.
 11.
@@ -186,8 +178,7 @@ kwoty utraconego dochodu z produkcji świń w roku, w którym producent rolny ni
 a)
 netto – w przypadku producenta rolnego podatnika podatku od towarów i usług,
 b)
-brutto – w przypadku producenta rolnego będącego rolnikiem ryczałtowym w rozumieniu przepisów o podatku od towarów i usług
-potwierdzających sprzedaż świń, o których mowa w ust. 1.
+brutto – w przypadku producenta rolnego będącego rolnikiem ryczałtowym w rozumieniu przepisów o podatku od towarów i usług – potwierdzających sprzedaż świń, o których mowa w ust. 1.
 12.
 Przy ustalaniu liczby świń sprzedanych w roku lub w latach, za który jest składany wniosek o udzielenie pomocy, o której mowa w ust. 1, nie uwzględnia się świń, za które producent rolny nie otrzymał zapłaty.
 13.
@@ -207,8 +198,7 @@ W przypadku gdy ze złożonych wniosków, o których mowa w ust. 5, wynika, że 
 18.
 Producent rolny i grupa producentów, o której mowa w ust. 1 pkt 2, którzy po otrzymaniu pomocy, o której mowa w ust. 1, uzyskali zapłatę za sprzedany tytoń lub sprzedane świnie, której wysokość łącznie z pomocą, o której mowa w ust. 1, przekracza 100% kwoty, o której mowa w ust. 9 pkt 2, ust. 11 pkt 2 lub ust. 15 pkt 2, są obowiązani do bezzwłocznego zwrotu pomocy na rachunek Agencji Restrukturyzacji i Modernizacji Rolnictwa w wysokości stanowiącej różnicę między sumą otrzymanej zapłaty za sprzedany tytoń lub sprzedane świnie i otrzymanej pomocy, o której mowa w ust. 1, a 100% kwoty, o której mowa w ust. 9 pkt 2, ust. 11 pkt 2 lub ust. 15 pkt 2.
 19.
-W przypadku zapłaty producentowi rolnemu albo grupie producentów, o której mowa w ust. 1 pkt 2, 100% kwoty za sprzedany tytoń lub świnie, kierownik biura powiatowego Agencji, w drodze decyzji, stwierdza wygaśnięcie decyzji o przyznaniu pomocy, o której mowa w ust. 1.
-” .
+W przypadku zapłaty producentowi rolnemu albo grupie producentów, o której mowa w ust. 1 pkt 2, 100% kwoty za sprzedany tytoń lub świnie, kierownik biura powiatowego Agencji, w drodze decyzji, stwierdza wygaśnięcie decyzji o przyznaniu pomocy, o której mowa w ust. 1. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170,
 

@@ -26,13 +26,14 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000183) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/183/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 14 grudnia 1995 r. o izbach rolniczych Rozdział 1 – Przepisy ogólne Rozdział 2 – Zadania i zasady działania izb Rozdział 3 – Organy izby Rozdział 4 – Zasady przeprowadzania wyborów do walnego zgromadzenia izby Rozdział 5 – Zasady gospodarki finansowej izb Rozdział 6 – Reprezentacja krajowa izb Rozdział 7 – Nadzór nad izbami Rozdział 8 – Przepisy szczególne, przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 14 grudnia 1995 r. o izbach rolniczych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 14 grudnia 1995 r. o izbach rolniczych (Dz. U. z 2018 r. poz. 1027), z uwzględnieniem zmian wprowadzonych ustawą z dnia 8 lipca 2021 r. o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw (Dz. U. poz. 1579) oraz zmian wynikających z przepisów ogłoszonych przed dniem 25 listopada 2021 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5–7 ustawy z dnia 8 lipca 2021 r. o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw (Dz. U. poz. 1579), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5–7 ustawy z dnia 8 lipca 2021 r. o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw (Dz. U. poz. 1579), które stanowią: „
+Przepisy ogólne
+Zadania i zasady działania izb
 1.
 Do zadań izb należy w szczególności:
 1)
@@ -112,12 +113,33 @@ być wspólnikiem spółki z ograniczoną odpowiedzialnością lub akcjonariusze
 b)
 tworzyć fundacje,
 c)
-być członkiem wspierającym stowarzyszenia oraz założycielem lub członkiem związku stowarzyszeń
-które prowadzą działalność w zakresie zgodnym z ustawowymi i statutowymi zadaniami izby.
+być członkiem wspierającym stowarzyszenia oraz założycielem lub członkiem związku stowarzyszeń – które prowadzą działalność w zakresie zgodnym z ustawowymi i statutowymi zadaniami izby.
 2.
 Dochód izby z tytułu posiadania udziałów lub akcji w spółkach może być przeznaczony wyłącznie na realizację zadań ustawowych i statutowych izby.
+Organy izby
+Zasady przeprowadzania wyborów do walnego zgromadzenia izby
+Zasady gospodarki finansowej izb
+Reprezentacja krajowa izb
+Nadzór nad izbami
+Przepisy szczególne, przejściowe i końcowe
 Art. 50–55.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Zadania i zasady działania izb
+
+#### Rozdział 3 – Organy izby
+
+#### Rozdział 4 – Zasady przeprowadzania wyborów do walnego zgromadzenia izby
+
+#### Rozdział 5 – Zasady gospodarki finansowej izb
+
+#### Rozdział 6 – Reprezentacja krajowa izb
+
+#### Rozdział 7 – Nadzór nad izbami
+
+#### Rozdział 8 – Przepisy szczególne, przejściowe i końcowe
 
 **Art. 5.** W latach 2021–2026 środki na dofinansowanie kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych odpowiednio w organizacjach, o których mowa w art. 35b ust. 1b ustawy zmienianej w art. 1, są ustalane w budżecie państwa w części, której dysponentem jest minister właściwy do spraw rolnictwa.
 
@@ -125,7 +147,7 @@ Art. 50–55.
 
 **Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 14 grudnia 1995 r. o izbach rolniczych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -157,7 +179,7 @@ Art. 50–55.
 
 **Art. 4.** W celu realizacji wspólnych zadań izby mogą zawierać porozumienia regionalne.
 
-#### Rozdział 2 Zadania i zasady działania izb
+#### Rozdział 2
 
 **Art. 8.**
 
@@ -177,7 +199,7 @@ Art. 50–55.
 - **10)** zasady gospodarki finansowej, w tym sposób dysponowania majątkiem oraz zaciągania zobowiązań majątkowych;
 - **11)** szczegółowe zasady działania rad powiatowych izby.
 
-#### Rozdział 3 Organy izby
+#### Rozdział 3
 
 **Art. 9.**
 
@@ -322,7 +344,7 @@ Art. 50–55.
 
 4. Przepis ust. 1 nie dotyczy miast na prawach powiatu.
 
-#### Rozdział 4 Zasady przeprowadzania wyborów do walnego zgromadzenia izby
+#### Rozdział 4
 
 **Art. 23.**
 
@@ -449,7 +471,7 @@ Art. 50–55.
 
 3. W przypadku wygaśnięcia mandatu członka rady powiatowej izby rada powiatowa izby, po stwierdzeniu wygaśnięcia mandatu, podejmuje na następnym posiedzeniu uchwałę o wstąpieniu na jego miejsce kandydata, który w wyborach uzyskał kolejno najwyższą liczbę głosów w tym samym okręgu, a nie utracił biernego prawa wyborczego. W przypadku uzyskania równej liczby głosów przez dwóch lub więcej kandydatów o uzyskaniu mandatu rozstrzyga losowanie przeprowadzone przez radę powiatową.
 
-#### Rozdział 5 Zasady gospodarki finansowej izb
+#### Rozdział 5
 
 **Art. 35.**
 
@@ -492,17 +514,12 @@ Art. 50–55.
 
 - **1)** izb rolniczych, związków zawodowych rolników indywidualnych oraz społeczno-zawodowych organizacji rolników, w tym rolniczych spółdzielni produkcyjnych i pracodawców rolnych, w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej,
 - **2)** Krajowej Rady Spółdzielczej, działającej na podstawie ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2021 r. poz. 648) w Głównym Komitecie Spółdzielczości Rolniczej (COGECA),
-- **3)** stowarzyszeń zrzeszających młodych rolników w Europejskiej Radzie Młodych Rolników (CEJA) są w latach 2015–2020 ponoszone przez Krajową Radę Izb Rolniczych i dofinansowywane z budżetu państwa w formie dotacji celowej.
-
-1b. Koszty związane z uczestnictwem:
-
+- **3)** stowarzyszeń zrzeszających młodych rolników w Europejskiej Radzie Młodych Rolników (CEJA) – są w latach 2015–2020 ponoszone przez Krajową Radę Izb Rolniczych i dofinansowywane z budżetu państwa w formie dotacji celowej. 1bDodany przez art. 1 pkt 1 lit. a ustawy z dnia 8 lipca 2021 r. o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw (Dz. U. poz. 1579), która weszła w życie z dniem 11 września 2021 r.. Koszty związane z uczestnictwem:
 - **1)** izb rolniczych, związków zawodowych rolników indywidualnych oraz społeczno-zawodowych organizacji rolników w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej,
 - **2)** stowarzyszeń zrzeszających młodych rolników w Europejskiej Radzie Młodych Rolników (CEJA),
-- **3)** organizacji pracodawców zrzeszających pracodawców rolnych w Grupie Pracodawców Rolniczych Organizacji Zawodowych Unii Europejskiej (GEOPA) są w latach 2021–2026 ponoszone przez Krajową Radę Izb Rolniczych i dofinansowywane z budżetu państwa w formie dotacji celowej.
+- **3)** organizacji pracodawców zrzeszających pracodawców rolnych w Grupie Pracodawców Rolniczych Organizacji Zawodowych Unii Europejskiej (GEOPA) – są w latach 2021–2026 ponoszone przez Krajową Radę Izb Rolniczych i dofinansowywane z budżetu państwa w formie dotacji celowej.
 
-2. Dofinansowania udziela się, na wniosek, Krajowej Radzie Izb Rolniczych, na podstawie umowy zawartej między Krajową Radą Izb Rolniczych a ministrem właściwym do spraw rolnictwa.
-
-2a. Umowa, o której mowa w ust. 2, zawiera co najmniej:
+2. Dofinansowania udziela się, na wniosek, Krajowej Radzie Izb Rolniczych, na podstawie umowy zawartej między Krajową Radą Izb Rolniczych a ministrem właściwym do spraw rolnictwa. 2aDodany przez art. 1 pkt 1 lit. b ustawy, o której mowa w odnośniku 1.. Umowa, o której mowa w ust. 2, zawiera co najmniej:
 
 - **1)** oznaczenie stron umowy;
 - **2)** określenie: warunków udzielenia dofinansowania, celu, na jaki dofinansowanie jest udzielane, wysokości dofinansowania z podziałem na organizacje rolnicze, którym zostanie udzielone to dofinansowanie, oraz poszczególne koszty, terminu złożenia wniosku o przekazanie środków z tytułu udzielonego dofinansowania, terminu wykorzystania dofinansowania, nie dłuższego niż do dnia 31 grudnia roku budżetowego, terminu rozliczenia udzielonego dofinansowania oraz terminu i warunków zwrotu niewykorzystanej części dofinansowania;
@@ -513,12 +530,7 @@ Art. 50–55.
     - **e)**
     - **f)**
 
-- **3)** numer rachunku bankowego, na który zostanie przekazane dofinansowanie.
-
-2b. Po zawarciu umowy, o której mowa w ust. 2, dofinansowanie jest udzielane izbom rolniczym, związkom zawodowym rolników indywidualnych, społeczno-zawodowym organizacjom rolników, stowarzyszeniom zrzeszającym młodych rolników oraz organizacjom pracodawców zrzeszającym pracodawców rolnych.
-
-2c. Umowa zawarta między Krajową Radą Izb Rolniczych a związkami zawodowymi rolników indywidualnych, społeczno-zawodowymi organizacjami rolników, stowarzyszeniami zrzeszającymi młodych rolników albo organizacjami pracodawców zrzeszającymi pracodawców rolnych, na podstawie której jest udzielane dofinansowanie, zawiera co najmniej:
-
+- **3)** numer rachunku bankowego, na który zostanie przekazane dofinansowanie. 2bDodany przez art. 1 pkt 1 lit. b ustawy, o której mowa w odnośniku 1.. Po zawarciu umowy, o której mowa w ust. 2, dofinansowanie jest udzielane izbom rolniczym, związkom zawodowym rolników indywidualnych, społeczno-zawodowym organizacjom rolników, stowarzyszeniom zrzeszającym młodych rolników oraz organizacjom pracodawców zrzeszającym pracodawców rolnych. 2cDodany przez art. 1 pkt 1 lit. b ustawy, o której mowa w odnośniku 1.. Umowa zawarta między Krajową Radą Izb Rolniczych a związkami zawodowymi rolników indywidualnych, społeczno-zawodowymi organizacjami rolników, stowarzyszeniami zrzeszającymi młodych rolników albo organizacjami pracodawców zrzeszającymi pracodawców rolnych, na podstawie której jest udzielane dofinansowanie, zawiera co najmniej:
 - **1)** warunki i sposób udzielenia oraz rozliczenia dofinansowania;
 - **2)** termin i warunki zwrotu niewykorzystanego dofinansowania;
 - **3)** tryb przeprowadzania przez Krajową Radę Izb Rolniczych weryfikacji dokumentów dotyczących wykorzystania udzielonego dofinansowania.
@@ -527,32 +539,27 @@ Art. 50–55.
 
 4. W razie nieprowadzenia ewidencji, o której mowa w ust. 3, pobrane dofinansowanie podlega zwrotowi jak dofinansowanie wykorzystane niezgodnie z przeznaczeniem.
 
-4a. Krajowa Rada Izb Rolniczych przedstawia ministrowi właściwemu do spraw rolnictwa, corocznie do dnia 15 stycznia, informację z uczestnictwa izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, Krajowej Rady Spółdzielczej oraz stowarzyszeń zrzeszających młodych rolników odpowiednio w organizacjach, o których mowa w ust. 1 i 1a.
-
-4b. Krajowa Rada Izb Rolniczych przedstawia ministrowi właściwemu do spraw rolnictwa, corocznie do dnia 15 stycznia, informację z uczestnictwa izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych odpowiednio w organizacjach, o których mowa w ust. 1b.
+4a. Krajowa Rada Izb Rolniczych przedstawia ministrowi właściwemu do spraw rolnictwa, corocznie do dnia 15 stycznia, informację z uczestnictwa izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, Krajowej Rady Spółdzielczej oraz stowarzyszeń zrzeszających młodych rolników odpowiednio w organizacjach, o których mowa w ust. 1 i 1a. 4bDodany przez art. 1 pkt 1 lit. c ustawy, o której mowa w odnośniku 1.. Krajowa Rada Izb Rolniczych przedstawia ministrowi właściwemu do spraw rolnictwa, corocznie do dnia 15 stycznia, informację z uczestnictwa izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych odpowiednio w organizacjach, o których mowa w ust. 1b.
 
 5. Rada Ministrów określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy zakres i tryb udzielania oraz sposób rozliczania dofinansowania kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych oraz społeczno-zawodowych organizacji rolników w organizacjach, o których mowa w ust. 1,
 - **2)** konieczne elementy umowy o udzielenie dofinansowania kosztów, o których mowa w ust. 1,
-- **3)** konieczne elementy informacji, o której mowa w ust. 4a mając na względzie zapewnienie prawidłowości i przejrzystości wydatkowania środków publicznych.
+- **3)** konieczne elementy informacji, o której mowa w ust. 4a – mając na względzie zapewnienie prawidłowości i przejrzystości wydatkowania środków publicznych.
 
 6. Rada Ministrów określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy zakres i tryb udzielania oraz sposób rozliczania dofinansowania kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, Krajowej Rady Spółdzielczej oraz stowarzyszeń zrzeszających młodych rolników w organizacjach, o których mowa w ust. 1a,
 - **2)** konieczne elementy umowy o udzielenie dofinansowania kosztów, o których mowa w ust. 1a,
-- **3)** konieczne elementy informacji, o której mowa w ust. 4a mając na względzie zapewnienie prawidłowości i przejrzystości wydatkowania środków publicznych oraz dofinansowania składek członkowskich i kosztów obsługi w języku polskim prac w organizacjach, o których mowa w ust. 1a, w wysokości co najmniej 95% kosztów.
-
-7. Rada Ministrów określi, w drodze rozporządzenia:
-
+- **3)** konieczne elementy informacji, o której mowa w ust. 4a – mając na względzie zapewnienie prawidłowości i przejrzystości wydatkowania środków publicznych oraz dofinansowania składek członkowskich i kosztów obsługi w języku polskim prac w organizacjach, o których mowa w ust. 1a, w wysokości co najmniej 95% kosztów. 7Dodany przez art. 1 pkt 1 lit. d ustawy, o której mowa w odnośniku 1.. Rada Ministrów określi, w drodze rozporządzenia:
 - **1)** szczegółowy zakres i sposób udzielania oraz rozliczania dofinansowania kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych w organizacjach, o których mowa w ust. 1b,
 - **2)** wysokość dofinansowania,
 - **3)** sposób przekazywania środków finansowych z tytułu udzielenia dofinansowania,
-- **4)** elementy informacji, o której mowa w ust. 4b, oraz tryb opracowania tej informacji mając na względzie zapewnienie prawidłowości i przejrzystości wydatkowania środków publicznych oraz dofinansowania kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych w organizacjach, o których mowa w ust. 1b, a także biorąc pod uwagę wysokość limitu środków finansowych na udzielenie dofinansowania z budżetu państwa w formie dotacji celowej oraz to, że w przypadku dofinansowania składek członkowskich i kosztów obsługi w języku polskim prac w tych organizacjach dofinansowanie to wynosi co najmniej 95% tych kosztów. Środki pochodzące z budżetu państwa przeznaczone na pokrycie kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, Krajowej Rady Spółdzielczej, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych w organizacjach, o których mowa w art. 35b ust. 1–1b, nie podlegają egzekucji, z wyjątkiem przypadków gdy zostały wykorzystane niezgodnie z przeznaczeniem, pobrane nienależnie lub w nadmiernej wysokości.
+- **4)** elementy informacji, o której mowa w ust. 4b, oraz tryb opracowania tej informacji – mając na względzie zapewnienie prawidłowości i przejrzystości wydatkowania środków publicznych oraz dofinansowania kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych w organizacjach, o których mowa w ust. 1b, a także biorąc pod uwagę wysokość limitu środków finansowych na udzielenie dofinansowania z budżetu państwa w formie dotacji celowej oraz to, że w przypadku dofinansowania składek członkowskich i kosztów obsługi w języku polskim prac w tych organizacjach dofinansowanie to wynosi co najmniej 95% tych kosztów. Środki pochodzące z budżetu państwa przeznaczone na pokrycie kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, Krajowej Rady Spółdzielczej, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych w organizacjach, o których mowa w art. 35b ust. 1–1b, nie podlegają egzekucji, z wyjątkiem przypadków gdy zostały wykorzystane niezgodnie z przeznaczeniem, pobrane nienależnie lub w nadmiernej wysokości.
 
 **Art. 36.** Izby prowadzą rachunkowość i sprawozdawczość zgodnie z ogólnie obowiązującymi przepisami prawa.
 
-#### Rozdział 6 Reprezentacja krajowa izb
+#### Rozdział 6
 
 **Art. 37.**
 
@@ -630,7 +637,7 @@ Art. 50–55.
 
 3. Nieprzedstawienie przez Krajową Radę stanowiska w wyznaczonym terminie uważa się za akceptację przedłożonego projektu.
 
-#### Rozdział 7 Nadzór nad izbami
+#### Rozdział 7
 
 **Art. 46.** Nadzór nad działalnością izb sprawowany jest na podstawie kryterium zgodności z prawem.
 
@@ -640,7 +647,7 @@ Art. 50–55.
 
 2. Nadzór nad gospodarką izb w zakresie wykorzystania środków przekazanych na realizację zadań zleconych sprawuje organ zlecający te zadania.
 
-3. Do gospodarki środkami, o których mowa w art. 35 ust. 1 pkt 1 i 2, stosuje się odpowiednio przepisy ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. poz. 148, z późn. zm.).
+3. Do gospodarki środkami, o których mowa w art. 35 ust. 1 pkt 1 i 2, stosuje się odpowiednio przepisy ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. poz. 148, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 391, 594, 874, 1611 i 1851, z 2004 r. poz. 177, 890, 1264, 1291, 2135 i 2703 oraz z 2005 r. poz. 114, 565, 1495 i 2259.)Obecnie ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, 1236, 1535, 1773, 1927, 1981 i 2054), która weszła w życie z dniem 1 stycznia 2010 r., na podstawie art. 118 ust. 3 ustawy z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. poz. 1241 i 1706, z 2010 r. poz. 620, 685, 1020, 1078, 1475 i 1578, z 2011 r. poz. 1016, 1061 i 1170, z 2012 r. poz. 986, 1456 i 1548 oraz z 2014 r. poz. 1457), która weszła w życie z dniem 1 stycznia 2010 r..
 
 **Art. 48.**
 
@@ -652,7 +659,7 @@ Art. 50–55.
 
 **Art. 49.** W razie powtarzającego się naruszania prawa przez zarząd izby, minister właściwy do spraw rolnictwa może zwołać, na wniosek wojewody, walne zgromadzenie w celu rozpatrzenia jego wniosku o odwołanie zarządu i powołanie nowego zarządu.
 
-#### Rozdział 8 Przepisy szczególne, przejściowe i końcowe
+#### Rozdział 8
 
 **Art. 56.**
 
@@ -662,5 +669,5 @@ Art. 50–55.
 
 3. Wniosek o zmianę wpisu we właściwym dla nich rejestrze jest wolny od opłat sądowych.
 
-**Art. 57.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 57.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszeniaUstawa została ogłoszona w dniu 4 stycznia 1996 r.. 1) Dodany przez art. 1 pkt 1 lit. a ustawy z dnia 8 lipca 2021 r. o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw (Dz. U. poz. 1579), która weszła w życie z dniem 11 września 2021 r. 2) Dodany przez art. 1 pkt 1 lit. b ustawy, o której mowa w odnośniku 1. 3) Dodany przez art. 1 pkt 1 lit. c ustawy, o której mowa w odnośniku 1. 4) Dodany przez art. 1 pkt 1 lit. d ustawy, o której mowa w odnośniku 1. 5) W brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 391, 594, 874, 1611 i 1851, z 2004 r. poz. 177, 890, 1264, 1291, 2135 i 2703 oraz z 2005 r. poz. 114, 565, 1495 i 2259. 7) Obecnie ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, 1236, 1535, 1773, 1927, 1981 i 2054), która weszła w życie z dniem 1 stycznia 2010 r., na podstawie art. 118 ust. 3 ustawy z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. poz. 1241 i 1706, z 2010 r. poz. 620, 685, 1020, 1078, 1475 i 1578, z 2011 r. poz. 1016, 1061 i 1170, z 2012 r. poz. 986, 1456 i 1548 oraz z 2014 r. poz. 1457), która weszła w życie z dniem 1 stycznia 2010 r. 8) Ustawa została ogłoszona w dniu 4 stycznia 1996 r.
 

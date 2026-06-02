@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-05-21 |
 | Data wydania | 2003-07-24 |
-| Wejście w życie | 2003-08-08 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031301187) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1187/text.pdf) |
 
@@ -61,8 +60,11 @@ source: "eli-html"
 
 3. Właściwi ministrowie w zakresie określonym strategią, o której mowa w ust. 1, wdrażają zasady bezpieczeństwa biologicznego wraz z wynikającym z niej programem działań w stosunku do działów gospodarki będących w zakresie działania tych ministrów. ” ;
 
-- **4)** w art. 11: w ust. 4: – pkt 1 otrzymuje brzmienie: „ 1) Państwowa Inspekcja Sanitarna, ” , – pkt 9 otrzymuje brzmienie: „ 9) Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych. ” , ust. 5 otrzymuje brzmienie: „
+- **4)** w art. 11: w ust. 4: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** Państwowa Inspekcja Sanitarna, ” , pkt 9 otrzymuje brzmienie: „
+- **9)** Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych. ” , ust. 5 otrzymuje brzmienie: „
     - **b)**
 
 5. Organy, o których mowa w ust. 4, przeprowadzają kontrolę z urzędu lub na wniosek ministra. ” ;
@@ -73,7 +75,7 @@ source: "eli-html"
 
 - **1)** przewodniczącemu Komisji – 35%,
 - **2)** zastępcom przewodniczącego i sekretarzowi Komisji – 32%,
-- **3)** pozostałym członkom Komisji – 22% kwoty 800 zł waloryzowanej corocznie o prognozowany średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem określony w ustawie budżetowej.
+- **3)** pozostałym członkom Komisji – 22% – kwoty 800 zł waloryzowanej corocznie o prognozowany średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem określony w ustawie budżetowej.
 
 5b. Wynagrodzenie, o którym mowa w ust. 5a, nie przysługuje członkom Komisji będącym pracownikami administracji rządowej, jeżeli uczestniczą w posiedzeniach, które odbywają się w godzinach pracy.
 
@@ -147,7 +149,7 @@ source: "eli-html"
 
 - **1)** nieprzestrzegania terminu wydawania opinii,
 - **2)** niewykonywania zadań określonych w ust. 6 pkt 1–8,
-- **3)** stwierdzenia naruszenia wymagań lub zakresu akredytacji, o których mowa w ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności minister cofa zezwolenie, o którym mowa w ust. 2.
+- **3)** stwierdzenia naruszenia wymagań lub zakresu akredytacji, o których mowa w ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności – minister cofa zezwolenie, o którym mowa w ust. 2.
 
 8. Minister ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym, wykaz laboratoriów referencyjnych, a także innych laboratoriów wykonujących zadania z zakresu kontroli GMO, z wyszczególnieniem zakresu badań wykonywanych przez te laboratoria. ” ;
 

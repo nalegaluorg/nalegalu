@@ -51,5 +51,5 @@ dla osób, o których mowa w art. 21 ust. 1 pkt 16 lit. a ustawy – 15 zł;
 4)
 dla osób, o których mowa w art. 21 ust. 1 pkt 16 lit. b ustawy – 35 zł.
 § 4.
-Rozporządzenie wchodzi w życie z dniem określonym w komunikacie wydanym na podstawie art. 110a ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych.
+Rozporządzenie wchodzi w życie z dniem określonym w komunikacie wydanym na podstawie art. 110a ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 9 lutego 2010 r. w sprawie opłat za wydanie dokumentu paszportowego oraz ich zwrotu (Dz. U. poz. 126), które traci moc z dniem określonym w komunikacie wydanym na podstawie art. 110a ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. poz. 350 i 583) wskazującym dzień wejścia w życie tej ustawy. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 9 lutego 2010 r. w sprawie opłat za wydanie dokumentu paszportowego oraz ich zwrotu (Dz. U. poz. 126), które traci moc z dniem określonym w komunikacie wydanym na podstawie art. 110a ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. poz. 350 i 583) wskazującym dzień wejścia w życie tej ustawy.
 

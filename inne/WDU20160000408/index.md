@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-03-21 |
 | Data wydania | 2016-03-30 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000408) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/408/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 9 pkt 1 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 9 pkt 1 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4, 238, 539, 957, 978, 1045, 1137, 1348, 1418, 1587, 1595 i 1854.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób uiszczania opłat sądowych w sprawach cywilnych oraz wzory znaków opłaty sądowej.
 § 2.
@@ -100,5 +99,5 @@ Do uiszczania opłat sądowych znakami opłaty sądowej, o których mowa w ust. 
 § 13.
 Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 31 stycznia 2006 r. w sprawie sposobu uiszczania opłat sądowych w sprawach cywilnych (Dz. U. poz. 199, z 2008 r. poz. 517, z 2009 r. poz. 1747, z 2011 r. poz. 1775 oraz z 2015 r. poz. 66).
 § 14.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4, 238, 539, 957, 978, 1045, 1137, 1348, 1418, 1587, 1595 i 1854.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 września 2014 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 26 września 2014 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze oraz ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-09-26 |
 | Data wydania | 2014-11-21 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001626) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1626/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379, 911 i 1146.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
@@ -97,7 +96,7 @@ source: "eli-html"
 
 **Art. 199a.** W ramach obsługi bankowej rachunków jednostek sektora finansów publicznych, o których mowa w art. 9 pkt 5–7, 9 i 12, samodzielnych publicznych zakładów opieki zdrowotnej, dla których podmiotem tworzącym jest minister, centralny organ administracji rządowej, wojewoda lub uczelnia medyczna, państwowych instytucji kultury, państwowych osób prawnych, o których mowa w art. 9 pkt 14, oraz wojewódzkich funduszy ochrony środowiska i gospodarki wodnej Bank Gospodarstwa Krajowego udostępnia Ministrowi Finansów i Najwyższej Izbie Kontroli informacje o stanach środków na poszczególnych rachunkach. ” .
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296 i 1585.) wprowadza się następujące zmiany:
 
 - **1)** w art. 492 w § 1 zdanie drugie otrzymuje brzmienie: „ Kwota zasądzona nakazem wraz z wymagalnymi odsetkami stanowi sumę, której złożenie przez dłużnika na rachunek depozytowy Ministra Finansów w rozumieniu przepisów o finansach publicznych, zwany dalej „rachunkiem depozytowym Ministra Finansów”, wystarczy do zabezpieczenia. ” ;
 - **2)** użyte w art. 5821 w § 2 w pkt 2, w art. 742 w § 1 i 4, w art. 751 w § 4, w art. 752 w § 1, w art. 808 w § 2, w art. 852 w § 1 i 2, w art. 862 w § 1, w art. 910 w § 1 w pkt 2, w art. 9118 w § 1 w pkt 2, w art. 941, w art. 967, w art. 1024 w § 1 w pkt 4, w art. 1029 w § 1, w art. 1030, w art. 1031, w art. 1032 w § 1, w art. 1033 w § 1, w art. 1034, w art. 1035, w art. 1036 w § 2, w art. 1038 w § 1, w art. 1040 oraz w art. 1123 w § 3 w różnych przypadkach wyrazy „rachunek depozytowy sądu” zastępuje się użytymi w odpowiednim przypadku wyrazami „rachunek depozytowy Ministra Finansów”;
@@ -145,15 +144,15 @@ source: "eli-html"
 
 § 3. Nadwyżkę dochodów, po pokryciu wydatków wskazanych w art. 940, zarządca wypłaca wierzycielowi. W razie wielości wierzycieli wypłata następuje z zachowaniem stosowanych odpowiednio przepisów ogólnych o podziale sumy uzyskanej z egzekucji oraz przepisów o podziale sumy uzyskanej z egzekucji z nieruchomości. Kwoty niewypłacone zarządca umieszcza na rachunku depozytowym Ministra Finansów. ” .
 
-**Art. 3.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2013 r. poz. 427, z późn. zm.) w art. 31a w § 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
+**Art. 3.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2013 r. poz. 427, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 662, 1165, 1247, 1433 i 1623 oraz z 2014 r. poz. 31, 481, 504, 512, 619 i 1071.) w art. 31a w § 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
 
 - **6)** dysponuje rachunkami depozytowymi Ministra Finansów, o których mowa w art. 83a ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, z zastrzeżeniem art. 83a ust. 2 tej ustawy. ” .
 
-**Art. 4.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2012 r. poz. 1112, z późn. zm.) art. 227 otrzymuje brzmienie: „
+**Art. 4.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2012 r. poz. 1112, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1529, z 2013 r. poz. 355 i 613 oraz z 2014 r. poz. 1306.) art. 227 otrzymuje brzmienie: „
 
 **Art. 227.** Sumy pieniężne wchodzące do masy upadłości oraz sumy uzyskane ze zbycia rzeczy i praw obciążonych rzeczowo, jeżeli nie podlegają natychmiastowemu wydaniu, syndyk składa do depozytu sądowego. ” .
 
-**Art. 5.** W ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2013 r. poz. 217, z późn. zm.) w art. 55 w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „
+**Art. 5.** W ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2013 r. poz. 217, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 24, 423, 619, 1138, 1146 i 1491.) w art. 55 w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „
 
 - **2a)** z odsetek od lokat; ” .
 
@@ -186,5 +185,5 @@ source: "eli-html"
 
 6. Do dnia 31 grudnia 2014 r. lokaty zakładane zgodnie z art. 752 § 2 zdanie drugie ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, mogą być zakładane na okres nie dłuższy niż do dnia 1 kwietnia 2015 r.
 
-**Art. 9.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r., z wyjątkiem art. 7 i art. 8 ust. 5 i 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r., z wyjątkiem art. 7 i art. 8 ust. 5 i 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze oraz ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379, 911 i 1146. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296 i 1585. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 662, 1165, 1247, 1433 i 1623 oraz z 2014 r. poz. 31, 481, 504, 512, 619 i 1071. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1529, z 2013 r. poz. 355 i 613 oraz z 2014 r. poz. 1306. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 24, 423, 619, 1138, 1146 i 1491.
 

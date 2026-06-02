@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 26 lipca 2022 r. w sprawie opłat pobieranych w Rzeczypospolitej Polskiej od cudzoziemców za wydanie i wymianę dokumentów, które mogą być wydane cudzoziemcom, oraz trybu ich uiszczania
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 26 lipca 2022 r. w sprawie opłat pobieranych w Rzeczypospolitej Polskiej od cudzoziemców za wydanie i wymianę dokumentów, które mogą być wydane cudzoziemcom, oraz trybu ich uiszczania Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-26 |
 | Data wydania | 2022-07-28 |
-| Wejście w życie | 2022-07-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001583) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1583/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 239 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 239 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 91, 583, 830, 835, 1383 i 1561.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -99,6 +98,5 @@ Jeżeli wniosek o wydanie lub wymianę jednego z dokumentów, o których mowa w 
 2.
 Jeżeli wniosek o udzielenie zezwolenia na pobyt czasowy, zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej został złożony przed dniem wejścia w życie niniejszego rozporządzenia, za wydanie z urzędu pierwszej karty pobytu pobiera się opłatę w wysokości określonej w przepisach dotychczasowych.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 29 lipca 2022 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 91, 583, 830, 835, 1383 i 1561. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 25 kwietnia 2014 r. w sprawie opłat pobieranych w Rzeczypospolitej Polskiej od cudzoziemców za wydanie i wymianę dokumentów, które mogą być wydane cudzoziemcom, oraz trybu ich uiszczania (Dz. U. poz. 563 oraz z 2017 r. poz. 1637), które zgodnie z art. 15 ust. 1 ustawy z dnia 17 grudnia 2021 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. z 2022 r. poz. 91) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem 29 lipca 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 25 kwietnia 2014 r. w sprawie opłat pobieranych w Rzeczypospolitej Polskiej od cudzoziemców za wydanie i wymianę dokumentów, które mogą być wydane cudzoziemcom, oraz trybu ich uiszczania (Dz. U. poz. 563 oraz z 2017 r. poz. 1637), które zgodnie z art. 15 ust. 1 ustawy z dnia 17 grudnia 2021 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. z 2022 r. poz. 91) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 91, 583, 830, 835, 1383 i 1561. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 25 kwietnia 2014 r. w sprawie opłat pobieranych w Rzeczypospolitej Polskiej od cudzoziemców za wydanie i wymianę dokumentów, które mogą być wydane cudzoziemcom, oraz trybu ich uiszczania (Dz. U. poz. 563 oraz z 2017 r. poz. 1637), które zgodnie z art. 15 ust. 1 ustawy z dnia 17 grudnia 2021 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. z 2022 r. poz. 91) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

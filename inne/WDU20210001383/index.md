@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 22 lipca 2021 r. w sprawie specyfikacji technicznych, jakie powinno spełnić urządzenie, aby zostało uznane za broń alarmową i sygnałową
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 22 lipca 2021 r. w sprawie specyfikacji technicznych, jakie powinno spełnić urządzenie, aby zostało uznane za broń alarmową i sygnałową Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-07-22 |
 | Data wydania | 2021-07-29 |
-| Wejście w życie | 2021-08-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001383) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1383/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Specyfikacje techniczne, jakie powinno spełnić urządzenie z uchwytem na nabój, przeznaczone wyłącznie do strzelania ślepymi nabojami oraz do wystrzeliwania substancji drażniących, innych substancji aktywnych lub pirotechnicznych nabojów sygnalizacyjnych, służące do alarmowania lub sygnalizowania, aby zostało uznane za broń alarmową i sygnałową, mające na celu zapewnienie, aby urządzenia takiego nie można było przerobić tak, aby miotało pocisk w wyniku działania ładunku miotającego
 Treść rozporządzenia
-Na podstawie art. 47a ust. 2 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2020 r. poz. 1545 oraz z 2021 r. poz. 1329) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę wykonawczą Komisji (UE) 2019/69 z dnia 16 stycznia 2019 r. ustanawiającą specyfikacje techniczne dotyczące broni alarmowej i sygnałowej zgodnie z dyrektywą Rady 91/477/EWG w sprawie kontroli nabywania i posiadania broni (Dz. Urz. UE L 15 z 17.01.2019, str. 22). Na podstawie art. 47a ust. 2 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2020 r. poz. 1545 oraz z 2021 r. poz. 1329) zarządza się, co następuje:
 § 1.
 Specyfikacje techniczne, jakie powinno spełnić urządzenie z uchwytem na nabój, przeznaczone wyłącznie do strzelania ślepymi nabojami oraz do wystrzeliwania substancji drażniących, innych substancji aktywnych lub pirotechnicznych nabojów sygnalizacyjnych, służące do alarmowania lub sygnalizowania, aby zostało uznane za broń alarmową i sygnałową, mające na celu zapewnienie, aby urządzenia takiego nie można było przerobić tak, aby miotało pocisk w wyniku działania ładunku miotającego, są określone w załączniku do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 4 sierpnia 2021 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę wykonawczą Komisji (UE) 2019/69 z dnia 16 stycznia 2019 r. ustanawiającą specyfikacje techniczne dotyczące broni alarmowej i sygnałowej zgodnie z dyrektywą Rady 91/477/EWG w sprawie kontroli nabywania i posiadania broni (Dz. Urz. UE L 15 z 17.01.2019, str. 22).
+Rozporządzenie wchodzi w życie z dniem 4 sierpnia 2021 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę wykonawczą Komisji (UE) 2019/69 z dnia 16 stycznia 2019 r. ustanawiającą specyfikacje techniczne dotyczące broni alarmowej i sygnałowej zgodnie z dyrektywą Rady 91/477/EWG w sprawie kontroli nabywania i posiadania broni (Dz. Urz. UE L 15 z 17.01.2019, str. 22).
 Załącznik – Specyfikacje techniczne, jakie powinno spełnić urządzenie z uchwytem na nabój, przeznaczone wyłącznie do strzelania ślepymi nabojami oraz do wystrzeliwania substancji drażniących, innych substancji aktywnych lub pirotechnicznych nabojów sygnalizacyjnych, służące do alarmowania lub sygnalizowania, aby zostało uznane za broń alarmową i sygnałową, mające na celu zapewnienie, aby urządzenia takiego nie można było przerobić tak, aby miotało pocisk w wyniku działania ładunku miotającego
 1.
 Urządzenia te spełniają następujące wymagania:

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-07 |
 | Data wydania | 2022-04-20 |
-| Wejście w życie | 2022-04-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000855) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/855/text.pdf) |
 
@@ -93,7 +92,7 @@ source: "eli-html"
 15. Jeżeli wójt, burmistrz lub prezydent miasta nie otrzyma w terminie co najmniej 7 dni przed upływem terminu na wniesienie sprzeciwu, o którym mowa w ust. 13:
 
 - **1)** sprzeciwu w sprawie zgłoszenia wodnoprawnego lub
-- **2)** informacji o braku sprzeciwu w sprawie zgłoszenia wodnoprawnego o których mowa w ust. 10 pkt 2 i 3, termin, o którym mowa w ust. 3, wydłuża się do 7 dni od dnia otrzymania przez wójta, burmistrza lub prezydenta miasta jednego z dokumentów, o których mowa w pkt 1 lub 2.
+- **2)** informacji o braku sprzeciwu w sprawie zgłoszenia wodnoprawnego – o których mowa w ust. 10 pkt 2 i 3, termin, o którym mowa w ust. 3, wydłuża się do 7 dni od dnia otrzymania przez wójta, burmistrza lub prezydenta miasta jednego z dokumentów, o których mowa w pkt 1 lub 2.
 
 16. Wójt, burmistrz lub prezydent miasta może przed upływem terminu określonego w ust. 3 przyjąć zgłoszenie utworzenia miejsca okazjonalnie wykorzystywanego do kąpieli, o którym mowa w ust. 2, jeżeli otrzymał informację, o której mowa w ust. 10 pkt 3, o czym niezwłocznie zawiadamia organizatora miejsca okazjonalnie wykorzystywanego do kąpieli, biorąc pod uwagę stopień skomplikowania sprawy.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-19 |
 | Data wydania | 2018-10-05 |
-| Wejście w życie | 2018-10-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001911) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1911/text.pdf) |
 
@@ -32,7 +31,7 @@ Na podstawie art. 168 ust. 9 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więzi
 Rozporządzenie określa tryb i terminy przekazywania do Zakładu Ubezpieczeń Społecznych, zwanego dalej „ZUS”, składek na ubezpieczenia emerytalne i rentowe, zwanych dalej „składkami”, od uposażenia wypłaconego funkcjonariuszowi Służby Więziennej, zwanemu dalej „funkcjonariuszem”, po dniu 31 grudnia 1998 r. do dnia zwolnienia ze służby, od którego nie odprowadzono tych składek, oraz jednostki organizacyjne do tego właściwe.
 § 2.
 1.
-Składki przekazuje się na wskazany przez ZUS rachunek bankowy, używając dokumentów płatniczych określonych w art. 47 ust. 4a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778, z późn. zm.).
+Składki przekazuje się na wskazany przez ZUS rachunek bankowy, używając dokumentów płatniczych określonych w art. 47 ust. 4a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544, 1577, 1613, 1629 i 1669.).
 2.
 Składki rozliczone w deklaracjach rozliczeniowych i imiennych raportach miesięcznych określonych w ustawie, o której mowa w ust. 1, z uwzględnieniem całego okresu służby funkcjonariusza, przekazuje się do ZUS:
 1)
@@ -65,10 +64,9 @@ Centralny Ośrodek Szkolenia Służby Więziennej,
 7)
 ośrodek szkolenia Służby Więziennej,
 8)
-ośrodek doskonalenia kadr Służby Więziennej
-właściwe w sprawie wypłaty uposażenia funkcjonariuszowi w dniu jego zwolnienia ze służby.
+ośrodek doskonalenia kadr Służby Więziennej – właściwe w sprawie wypłaty uposażenia funkcjonariuszowi w dniu jego zwolnienia ze służby.
 2.
 W przypadku likwidacji jednostki organizacyjnej Służby Więziennej, o której mowa w ust. 1, składki przekazuje jednostka organizacyjna, która przejęła prawa i obowiązki likwidowanej jednostki.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 14 września 2010 r. w sprawie przekazywania składek na ubezpieczenia emerytalne i rentowe funkcjonariuszy Służby Więziennej zwolnionych ze służby (Dz. U. poz. 1212), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 16 ust. 2 ustawy z dnia 22 marca 2018 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 912). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544, 1577, 1613, 1629 i 1669. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 14 września 2010 r. w sprawie przekazywania składek na ubezpieczenia emerytalne i rentowe funkcjonariuszy Służby Więziennej zwolnionych ze służby (Dz. U. poz. 1212), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 16 ust. 2 ustawy z dnia 22 marca 2018 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 912).
 

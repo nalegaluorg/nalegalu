@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 października 2010 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw
+# Ustawa z dnia 22 października 2010 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym oraz ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-10-22 |
 | Data wydania | 2010-11-23 |
-| Wejście w życie | 2010-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102191443) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1443/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 89, poz. 590 i Nr 166, poz. 1172, z 2008 r. Nr 17, poz. 101 i Nr 237, poz. 1653, z 2009 r. Nr 11, poz. 59 i Nr 122, poz. 1007 oraz z 2010 r. Nr 107, poz. 679.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3: pkt 3 otrzymuje brzmienie: „
     - **a)**
@@ -102,7 +101,7 @@ source: "eli-html"
 17. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy zakres danych objętych planem oraz poziom ich szczegółowości,
-- **2)** ramowy wzór planu mając na względzie potrzebę zapewnienia sprawnego planowania i nadzoru nad systemem oraz utrzymania przejrzystości i jednolitej konstrukcji planów tworzonych w poszczególnych województwach;
+- **2)** ramowy wzór planu – mając na względzie potrzebę zapewnienia sprawnego planowania i nadzoru nad systemem oraz utrzymania przejrzystości i jednolitej konstrukcji planów tworzonych w poszczególnych województwach;
 - **3)** kryteria kalkulacji kosztów działalności zespołów ratownictwa medycznego, z uwzględnieniem kosztów bezpośrednich i pośrednich, związanych z utrzymaniem zespołów. ” ;
 - **4)** w art. 23 w ust. 2 pkt 2 otrzymuje brzmienie: „
 - **2)** miejsce stacjonowania i zasięg działania poszczególnych lotniczych zespołów ratownictwa medycznego na terenie województwa; ” ;
@@ -120,8 +119,11 @@ source: "eli-html"
 
 - **d)**
 - **1)** wyznacza dyspozytorów medycznych realizujących zadania określone w ust. 1 pkt 1–4, 6 i 7 dla całego rejonu, którego dotyczy sytuacja określona w ust. 2; ” ;
-- **6)** w art. 29: w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) koordynacja współpracy dyspozytorów medycznych w przypadku zdarzeń wymagających użycia jednostek systemu, o których mowa w art. 32 ust. 1, spoza jednego rejonu operacyjnego; ” , – pkt 4 otrzymuje brzmienie: „ 4) udział w pracach wojewódzkiego zespołu zarządzania kryzysowego; ” , ust. 4 otrzymuje brzmienie: „
+- **6)** w art. 29: w ust. 2: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** koordynacja współpracy dyspozytorów medycznych w przypadku zdarzeń wymagających użycia jednostek systemu, o których mowa w art. 32 ust. 1, spoza jednego rejonu operacyjnego; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** udział w pracach wojewódzkiego zespołu zarządzania kryzysowego; ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Lekarzem koordynatorem ratownictwa medycznego może być lekarz systemu, który posiada co najmniej 3-letnie doświadczenie zawodowe w pracy w szpitalnym oddziale ratunkowym lub w zespole ratownictwa medycznego. ” ;
@@ -131,7 +133,7 @@ source: "eli-html"
 1. Jednostkami systemu są:
 
 - **1)** szpitalne oddziały ratunkowe,
-- **2)** zespoły ratownictwa medycznego, w tym lotnicze zespoły ratownictwa medycznego zwane dalej „jednostkami systemu”, na których świadczenia zawarto umowy o udzielanie świadczeń opieki zdrowotnej. ” ;
+- **2)** zespoły ratownictwa medycznego, w tym lotnicze zespoły ratownictwa medycznego – zwane dalej „jednostkami systemu”, na których świadczenia zawarto umowy o udzielanie świadczeń opieki zdrowotnej. ” ;
 - **8)** w art. 44 ust. 1 otrzymuje brzmienie: „
 
 1. Zespół ratownictwa medycznego transportuje osobę w stanie nagłego zagrożenia zdrowotnego do najbliższego, pod względem czasu dotarcia, szpitalnego oddziału ratunkowego lub do szpitala wskazanego przez dyspozytora medycznego lub lekarza koordynatora ratownictwa medycznego. ” ;
@@ -149,11 +151,11 @@ source: "eli-html"
 
 **Art. 63.** Dysponenci zespołów ratownictwa medycznego dostosują kwalifikacje członków tych zespołów do wymagań, o których mowa w art. 36 ust. 1, do dnia 31 grudnia 2012 r. ” .
 
-**Art. 2.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238, z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015, Nr 209, poz. 1320, Nr 220, poz. 1411 i 1426, Nr 223, poz. 1461 i 1462 i Nr 234, poz. 1573 i 1574, z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 79, poz. 663, Nr 91, poz. 739, Nr 92, poz. 753, Nr 97, poz. 802 i 803, Nr 98, poz. 817 i Nr 168, poz. 1323 oraz z 2010 r. Nr 40, poz. 230, Nr 43, poz. 246, Nr 122, poz. 827, Nr 151, poz. 1013, Nr 152, poz. 1018 i Nr 182, poz. 1228.) wprowadza się następujące zmiany:
 
 - **1)** w art. 39 ust. 4 otrzymuje brzmienie: „
 
-4. Przepis ust. 3 nie dotyczy przewozu dziecka taksówką osobową, specjalistycznym środkiem transportu sanitarnego, o którym mowa w art. 36 ust. 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm.), lub pojazdem Policji. ” ;
+4. Przepis ust. 3 nie dotyczy przewozu dziecka taksówką osobową, specjalistycznym środkiem transportu sanitarnego, o którym mowa w art. 36 ust. 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 89, poz. 590 i Nr 166, poz. 1172, z 2008 r. Nr 17, poz. 101 i Nr 237, poz. 1653, z 2009 r. Nr 11, poz. 59 i Nr 122, poz. 1007 oraz z 2010 r. Nr 107, poz. 679 i Nr 219, poz. 1443.), lub pojazdem Policji. ” ;
 
 - **2)** w art. 44 w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **a)**
@@ -165,7 +167,7 @@ source: "eli-html"
 - **3)** w art. 53 w ust. 1 pkt 2 otrzymuje brzmienie: „
 - **2)** zespołu ratownictwa medycznego; ” .
 
-**Art. 3.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.) w art. 78 w ust. 4 pkt 1 otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716 oraz z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675 i Nr 182, poz. 1228.) w art. 78 w ust. 4 pkt 1 otrzymuje brzmienie: „
 
 - **1)** centralnemu punktowi systemu centrów powiadamiania ratunkowego – w przypadku połączeń do numeru alarmowego „112” oraz do numerów alarmowych ustalonych dla Policji, Państwowej Straży Pożarnej i dysponenta zespołów ratownictwa medycznego, chyba że służba ustawowo powołana do niesienia pomocy, wykorzystująca dany numer alarmowy, posiada własny punkt centralny mogący współpracować z systemem albo ” .
 
@@ -194,5 +196,5 @@ source: "eli-html"
 - **1)** art. 21 ust. 15 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych, wydanych na podstawie art. 21 ust. 17 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 grudnia 2010 r.;
 - **2)** art. 78 ust. 7 i 7a ustawy, o której mowa w art. 3, zachowują moc do dnia wejścia w życie aktów wykonawczych wydanych na podstawie art. 78 ust. 7 i 7a ustawy, o której mowa w art. 3, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym oraz ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 89, poz. 590 i Nr 166, poz. 1172, z 2008 r. Nr 17, poz. 101 i Nr 237, poz. 1653, z 2009 r. Nr 11, poz. 59 i Nr 122, poz. 1007 oraz z 2010 r. Nr 107, poz. 679. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238, z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015, Nr 209, poz. 1320, Nr 220, poz. 1411 i 1426, Nr 223, poz. 1461 i 1462 i Nr 234, poz. 1573 i 1574, z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 79, poz. 663, Nr 91, poz. 739, Nr 92, poz. 753, Nr 97, poz. 802 i 803, Nr 98, poz. 817 i Nr 168, poz. 1323 oraz z 2010 r. Nr 40, poz. 230, Nr 43, poz. 246, Nr 122, poz. 827, Nr 151, poz. 1013, Nr 152, poz. 1018 i Nr 182, poz. 1228. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 89, poz. 590 i Nr 166, poz. 1172, z 2008 r. Nr 17, poz. 101 i Nr 237, poz. 1653, z 2009 r. Nr 11, poz. 59 i Nr 122, poz. 1007 oraz z 2010 r. Nr 107, poz. 679 i Nr 219, poz. 1443. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716 oraz z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675 i Nr 182, poz. 1228.
 

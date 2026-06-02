@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 28 sierpnia 2019 r. w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 28 sierpnia 2019 r. w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-28 |
 | Data wydania | 2019-08-30 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2025-08-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001663) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1663/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych szkół i placówek oświatowych Rozdział 3 – Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych innych jednostek wykonujących zadania z zakresu oświaty Rozdział 4 – Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych uczniów Rozdział 5 – Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych nauczycieli Rozdział 6 – Terminy przekazywania do bazy danych SIO danych, o których mowa w art. 30 ustawy Rozdział 7 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 31 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2018 r. poz. 1900 i 2245 oraz z 2019 r. poz. 60 i 1287) i art. 133 ust. 4 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -57,6 +57,7 @@ ustawie o systemie oświaty – należy przez to rozumieć ustawę z dnia 7 wrze
 ustawie – Karta Nauczyciela – należy przez to rozumieć ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2018 r. poz. 967 i 2245 oraz z 2019 r. poz. 730 i 1287);
 5)
 Kodeksie pracy – należy przez to rozumieć ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2019 r. poz. 1040, 1043 i 1495).
+Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych szkół i placówek oświatowych
 § 3.
 W SIO gromadzi się dane dziedzinowe dotyczące warunków dydaktycznych, materialnych i finansowych prowadzenia szkół i placówek oświatowych, o których mowa w art. 8 pkt 1 ustawy, które obejmują:
 1)
@@ -390,6 +391,7 @@ e)
 położne,
 f)
 rehabilitanci.
+Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych innych jednostek wykonujących zadania z zakresu oświaty
 § 16.
 W ramach danych, o których mowa w art. 9 pkt 2 lit. b tiret trzecie ustawy, w SIO gromadzi się dane dziedzinowe dotyczące pracowników odpowiedzialnych za zarządzanie i administrowanie oświatą, zatrudnionych w komórkach merytorycznych, obejmujące wymiar zatrudnienia pracowników, według rodzaju zajmowanych stanowisk:
 1)
@@ -406,6 +408,7 @@ W ramach danych, o których mowa w art. 9 pkt 2 lit. c ustawy, w SIO gromadzi si
 z pomocy materialnej o charakterze socjalnym, o której mowa w art. 90c ust. 2 ustawy o systemie oświaty, z określeniem świadczeń tej pomocy, według typu szkoły oraz według wysokości tej pomocy;
 2)
 z pomocy udzielanej w ramach programów przyjętych na podstawie art. 90t ust. 1 i art. 90u ust. 1 ustawy o systemie oświaty, z określeniem formy tej pomocy oraz według typu szkoły.
+Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych uczniów
 § 18.
 W ramach danych, o których mowa w art. 13 pkt 1, art. 14 pkt 1 oraz art. 15 pkt 1 ustawy, w SIO gromadzi się dane dziedzinowe uczniów obejmujące miejsce zamieszkania ucznia: województwo, powiat, gminę i miejscowość, z użyciem identyfikatorów i nazw pochodzących z krajowego rejestru podziału terytorialnego TERYT.
 § 19.
@@ -489,6 +492,7 @@ innych;
 dodatkowych działaniach mających na celu podtrzymywanie i rozwijanie poczucia tożsamości etnicznej uczniów romskich oraz wspomagających edukację tych uczniów, z wyszczególnieniem zajęć wyrównawczych, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3 ustawy o systemie oświaty;
 3)
 specjalnych działaniach opiekuńczo-wychowawczych, o których mowa w przepisach wydanych na podstawie art. 128 ust. 3 ustawy – Prawo oświatowe – w przypadku szkół specjalnych i oddziałów specjalnych zorganizowanych w podmiotach leczniczych.
+Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych nauczycieli
 § 21.
 W ramach danych, o których mowa w art. 29 ust. 1 pkt 1 lit. a, pkt 1a lit. a i pkt 2 lit. a, ust. 3 pkt 1 lit. a i pkt 2 lit. a oraz ust. 4 pkt 1 ustawy, w SIO gromadzi się dane dziedzinowe nauczycieli dotyczące wykształcenia, które obejmują:
 1)
@@ -647,6 +651,7 @@ kurs doskonalący w wymiarze od 60 do 99 godzin;
 kurs doskonalący w wymiarze co najmniej 100 godzin;
 8)
 szkolenie branżowe.
+Terminy przekazywania do bazy danych SIO danych, o których mowa w art. 30 ustawy
 § 31.
 1.
 Podmioty zobowiązane do przekazywania danych do bazy danych SIO przekazują do bazy danych SIO:
@@ -748,6 +753,7 @@ dane uczniów przystępujących do egzaminu ósmoklasisty – do dnia 10 paździ
 dane uczniów przystępujących do egzaminu maturalnego – do dnia 9 lutego roku szkolnego, w którym jest przeprowadzany ten egzamin;
 3)
 dane uczniów przystępujących do egzaminu zawodowego – 2 dni roboczych od upływu terminu złożenia deklaracji przystąpienia do egzaminu zawodowego, o którym mowa w przepisach wydanych na podstawie art. 44zzzv ustawy o systemie oświaty.
+Przepisy przejściowe i końcowe
 § 33.
 W latach 2019 i 2020 w ramach danych, o których mowa w art. 8 pkt 3 ustawy, w SIO gromadzi się dane dziedzinowe dotyczące liczby nauczycieli, z którymi w danym roku kalendarzowym rozwiązano stosunek pracy albo planowane jest jego rozwiązanie, z przyczyn określonych w art. 225 i art. 226 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203, z 2018 r. poz. 2245 oraz z 2019 r. poz. 1287).
 § 34.
@@ -758,20 +764,33 @@ Przepis § 7 pkt 10 stosuje się także do klas dotychczasowych szkół ponadgim
 § 36.
 Przepis § 32 pkt 3 stosuje się odpowiednio do egzaminu potwierdzającego kwalifikacje w zawodzie.
 § 37.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 11 sierpnia 2017 r. w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej (Dz. U. poz. 1653 oraz z 2018 r. poz. 628), które traci moc z dniem 1 września 2019 r. w związku z wejściem w życie ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 11 sierpnia 2017 r. w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej (Dz. U. poz. 1653 oraz z 2018 r. poz. 628), które traci moc z dniem 1 września 2019 r. w związku z wejściem w życie ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287). 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 11 sierpnia 2017 r. w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej (Dz. U. poz. 1653 oraz z 2018 r. poz. 628), które traci moc z dniem 1 września 2019 r. w związku z wejściem w życie ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych szkół i placówek oświatowych
+#### Rozdział 2 – Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych szkół i placówek oświatowych
 
-#### Rozdział 3 Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych innych jednostek wykonujących zadania z zakresu oświaty
+#### Rozdział 3 – Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych innych jednostek wykonujących zadania z zakresu oświaty
 
-#### Rozdział 4 Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych uczniów
+#### Rozdział 4 – Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych uczniów
 
-#### Rozdział 5 Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych nauczycieli
+#### Rozdział 5 – Szczegółowy zakres danych dziedzinowych gromadzonych w SIO w zbiorach danych nauczycieli
 
-#### Rozdział 6 Terminy przekazywania do bazy danych SIO danych, o których mowa w art. 30 ustawy
+#### Rozdział 6 – Terminy przekazywania do bazy danych SIO danych, o których mowa w art. 30 ustawy
 
-#### Rozdział 7 Przepisy przejściowe i końcowe
+#### Rozdział 7 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
 

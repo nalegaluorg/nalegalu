@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-08-31 |
 | Data wydania | 2020-09-04 |
-| Wejście w życie | 2020-09-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001527) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1527/text.pdf) |
 
@@ -102,5 +101,5 @@ W przypadku gdy na obszarze zagrożenia znajdującym się poza terytorium Rzeczy
 2.
 Operator niezwłocznie przekazuje dyrektorowi Centrum informację, o której mowa w ust. 1.
 § 12.
-Rozporządzenie wchodzi w życie z dniem 8 września 2020 r.
+Rozporządzenie wchodzi w życie z dniem 8 września 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 7 grudnia 2018 r. w sprawie współpracy dyrektora Rządowego Centrum Bezpieczeństwa z operatorem ruchomej publicznej sieci telekomunikacyjnej w celu powiadamiania użytkowników końcowych o zagrożeniu (Dz. U. poz. 2309), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 33 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, 567, 568, 695, 875, 1086, 1106, 1422, 1423, 1478 i 1493). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 7 grudnia 2018 r. w sprawie współpracy dyrektora Rządowego Centrum Bezpieczeństwa z operatorem ruchomej publicznej sieci telekomunikacyjnej w celu powiadamiania użytkowników końcowych o zagrożeniu (Dz. U. poz. 2309), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 33 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, 567, 568, 695, 875, 1086, 1106, 1422, 1423, 1478 i 1493).
 

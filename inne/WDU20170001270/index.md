@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 19 czerwca 2017 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego
+# Rozporządzenie Ministra Zdrowiaz dnia 19 czerwca 2017 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,23 +22,27 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-19 |
 | Data wydania | 2017-06-28 |
-| Wejście w życie | 2017-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001270) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1270/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844, 858, 1089 i 1139.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 22 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego (Dz. U. z 2016 r. poz. 694, 855, 918 i 2163 oraz z 2017 r. poz. 237) w § 4a ust. 1 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Zdrowia z dnia 22 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego (Dz. U. z 2016 r. poz. 694, 855, 918 i 2163 oraz z 2017 r. poz. 237) w § 4a ust. 1 otrzymuje brzmienie: „
 1.
 Świadczeniodawca udzielający świadczeń gwarantowanych w trybie hospitalizacji i hospitalizacji planowej, realizujący leczenie onkologiczne, o którym mowa w art. 32a ustawy, oraz na warunkach określonych w załączniku nr 3 do rozporządzenia, pełniący rolę ośrodka wiodącego, powinien spełniać następujące warunki:
 1)
 posiadać procedurę postępowania i organizacji udzielania świadczeń zapewniającą:
 a)
 wyodrębnienie ustalającego plan leczenia onkologicznego wielodyscyplinarnego zespołu terapeutycznego, w przypadku:
-– leczenia dzieci, składającego się co najmniej z lekarzy specjalistów w dziedzinie: – – onkologii i hematologii dziecięcej, – – radioterapii lub radioterapii onkologicznej albo medycyny nuklearnej – w przypadku nowotworów złośliwych lub miejscowo złośliwych, zwanych dalej „nowotworami złośliwymi”, leczonych z wykorzystaniem medycyny nuklearnej, – – chirurgii dziecięcej albo w przypadku chirurgii szczękowo-twarzowej – chirurgii szczękowo-twarzowej lub chirurgii stomatologicznej, albo w przypadku otorynolaryngologii – otolaryngologii dziecięcej lub otorynolaryngologii dziecięcej, lub laryngologii, lub otolaryngologii, lub otorynolaryngologii,
-– leczenia dorosłych, składającego się co najmniej z lekarzy specjalistów w dziedzinie: – – onkologii klinicznej, – – radioterapii lub radioterapii onkologicznej albo medycyny nuklearnej – w przypadku nowotworów złośliwych leczonych z wykorzystaniem medycyny nuklearnej, – – chirurgii onkologicznej albo ogólnej, albo w innej dziedzinie zabiegowej odpowiedniej dla danego rodzaju lub umiejscowienia nowotworu złośliwego,
+leczenia dzieci, składającego się co najmniej z lekarzy specjalistów w dziedzinie:
+– – onkologii i hematologii dziecięcej,
+– – radioterapii lub radioterapii onkologicznej albo medycyny nuklearnej – w przypadku nowotworów złośliwych lub miejscowo złośliwych, zwanych dalej „nowotworami złośliwymi”, leczonych z wykorzystaniem medycyny nuklearnej,
+– – chirurgii dziecięcej albo w przypadku chirurgii szczękowo-twarzowej – chirurgii szczękowo-twarzowej lub chirurgii stomatologicznej, albo w przypadku otorynolaryngologii – otolaryngologii dziecięcej lub otorynolaryngologii dziecięcej, lub laryngologii, lub otolaryngologii, lub otorynolaryngologii,
+leczenia dorosłych, składającego się co najmniej z lekarzy specjalistów w dziedzinie:
+– – onkologii klinicznej,
+– – radioterapii lub radioterapii onkologicznej albo medycyny nuklearnej – w przypadku nowotworów złośliwych leczonych z wykorzystaniem medycyny nuklearnej,
+– – chirurgii onkologicznej albo ogólnej, albo w innej dziedzinie zabiegowej odpowiedniej dla danego rodzaju lub umiejscowienia nowotworu złośliwego,
 – leczenia nowotworów złośliwych układu krwiotwórczego lub układu chłonnego u dorosłych, składającego się co najmniej z 2 lekarzy specjalistów w dziedzinie hematologii lub onkologii klinicznej, lub 1 specjalisty w dziedzinie hematologii i 1 specjalisty w dziedzinie onkologii klinicznej,
 b)
 podjęcie leczenia:
@@ -77,12 +81,9 @@ zapewniać udokumentowaną koordynację, w tym dostęp do świadczeń:
 a)
 chemioterapii oraz
 b)
-radioterapii onkologicznej i medycyny nuklearnej – w przypadku nowotworów złośliwych leczonych z wykorzystaniem medycyny nuklearnej
-odpowiednio w trybie hospitalizacji, leczenia jednego dnia i ambulatoryjnym.
-” .
+radioterapii onkologicznej i medycyny nuklearnej – w przypadku nowotworów złośliwych leczonych z wykorzystaniem medycyny nuklearnej – odpowiednio w trybie hospitalizacji, leczenia jednego dnia i ambulatoryjnym. ” .
 § 2.
 Świadczeniodawcy realizujący leczenie onkologiczne w dniu 1 stycznia 2015 r., posiadający umowę o udzielanie świadczeń opieki zdrowotnej, niespełniający w dniu wejścia w życie niniejszego rozporządzenia wymagań określonych w § 4a ust. 1 pkt 5 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, są obowiązani do udokumentowania współpracy ze świadczeniodawcami realizującymi świadczenia chemioterapii i radioterapii onkologicznej, w terminie do dnia 30 września 2017 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2017 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844, 858, 1089 i 1139.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2017 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844, 858, 1089 i 1139.
 

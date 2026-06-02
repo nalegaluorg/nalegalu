@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 28 września 2020 r. w sprawie wyżywienia w Państwowej Straży Pożarnej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 28 września 2020 r. w sprawie wyżywienia w Państwowej Straży Pożarnej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-28 |
 | Data wydania | 2020-09-29 |
-| Wejście w życie | 2020-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001675) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1675/text.pdf) |
 
@@ -102,6 +101,5 @@ za normę SZ – 18 zł;
 2)
 za normę DU – 7 zł.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 1 października 2020 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 11 grudnia 1997 r. w sprawie długotrwałych akcji ratowniczych, szczegółowych norm, zasad i warunków otrzymywania wyżywienia w czasie tych akcji oraz ćwiczeń lub szkolenia przez strażaków Państwowej Straży Pożarnej lub inne osoby biorące w nich udział, a także przypadków, w których wypłaca się równoważnik pieniężny w zamian za przysługujące wyżywienie, sposobu ustalania jego wysokości oraz szczegółowych zasad wypłacania (Dz. U. poz. 1098 oraz z 2019 r. poz. 2565), które traci moc z dniem wejścia w życie ustawy z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610).
+Rozporządzenie wchodzi w życie z dniem 1 października 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 11 grudnia 1997 r. w sprawie długotrwałych akcji ratowniczych, szczegółowych norm, zasad i warunków otrzymywania wyżywienia w czasie tych akcji oraz ćwiczeń lub szkolenia przez strażaków Państwowej Straży Pożarnej lub inne osoby biorące w nich udział, a także przypadków, w których wypłaca się równoważnik pieniężny w zamian za przysługujące wyżywienie, sposobu ustalania jego wysokości oraz szczegółowych zasad wypłacania (Dz. U. poz. 1098 oraz z 2019 r. poz. 2565), które traci moc z dniem wejścia w życie ustawy z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 11 grudnia 1997 r. w sprawie długotrwałych akcji ratowniczych, szczegółowych norm, zasad i warunków otrzymywania wyżywienia w czasie tych akcji oraz ćwiczeń lub szkolenia przez strażaków Państwowej Straży Pożarnej lub inne osoby biorące w nich udział, a także przypadków, w których wypłaca się równoważnik pieniężny w zamian za przysługujące wyżywienie, sposobu ustalania jego wysokości oraz szczegółowych zasad wypłacania (Dz. U. poz. 1098 oraz z 2019 r. poz. 2565), które traci moc z dniem wejścia w życie ustawy z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610).
 

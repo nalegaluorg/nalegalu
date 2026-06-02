@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-22 |
 | Data wydania | 2024-10-24 |
-| Wejście w życie | 2024-11-01 |
 | Ostatnia zmiana | 2024-10-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001574) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1574/text.pdf) |
 
@@ -193,8 +192,7 @@ węzeł Kalinowo – węzeł Suwałki Północ;
 25)
 droga ekspresowa S74 na odcinku węzeł Kielce Bocianek – Cedzyna (połączenie z drogą krajową nr 74);
 26)
-droga ekspresowa S79 na odcinku węzeł Warszawa Lotnisko – węzeł Marynarska.
-*) Zgodnie z § 11 pkt 1 i 2 rozporządzenia Ministra Infrastruktury z dnia 24 czerwca 2022 r. w sprawie przepisów techniczno-budowlanych dotyczących dróg publicznych (Dz. U. poz. 1518) przez klasę A rozumie się autostradę, a przez klasę S – drogę ekspresową.
+droga ekspresowa S79 na odcinku węzeł Warszawa Lotnisko – węzeł Marynarska. *) Zgodnie z § 11 pkt 1 i 2 rozporządzenia Ministra Infrastruktury z dnia 24 czerwca 2022 r. w sprawie przepisów techniczno-budowlanych dotyczących dróg publicznych (Dz. U. poz. 1518) przez klasę A rozumie się autostradę, a przez klasę S – drogę ekspresową.
 
 ## Załącznik nr 2 — – Drogi krajowe lub ich odcinki klasy GP I G, na których pobiera się opłatę elektroniczną
 
@@ -274,6 +272,5 @@ droga krajowa nr 94 na odcinkach:
 a)
 granica m. Dąbrowa Górnicza – węzeł Modlniczka,
 b)
-granica m. Rzeszów – Jarosław, ul. Kruhel Pełkiński (skrzyżowanie z drogą krajową nr 77).
-*) Zgodnie z § 11 pkt 3 i 4 rozporządzenia Ministra Infrastruktury z dnia 24 czerwca 2022 r. w sprawie przepisów techniczno-budowlanych dotyczących dróg publicznych (Dz. U. poz. 1518) przez klasę GP rozumie się drogę główną ruchu przyspieszonego, a przez klasę G – drogę główną.
+granica m. Rzeszów – Jarosław, ul. Kruhel Pełkiński (skrzyżowanie z drogą krajową nr 77). *) Zgodnie z § 11 pkt 3 i 4 rozporządzenia Ministra Infrastruktury z dnia 24 czerwca 2022 r. w sprawie przepisów techniczno-budowlanych dotyczących dróg publicznych (Dz. U. poz. 1518) przez klasę GP rozumie się drogę główną ruchu przyspieszonego, a przez klasę G – drogę główną.
 

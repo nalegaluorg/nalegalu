@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 15 lutego 2019 r. zmieniające rozporządzenie w sprawie rodzajów szkół i placówek, w których nie tworzy się rad rodziców
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 15 lutego 2019 r. zmieniające rozporządzenie w sprawie rodzajów szkół i placówek, w których nie tworzy się rad rodziców Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-15 |
 | Data wydania | 2019-02-19 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000319) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/319/text.pdf) |
 
@@ -31,18 +30,13 @@ Na podstawie art. 83 ust. 6 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatow
 § 1.
 W rozporządzeniu Ministra Edukacji Narodowej z dnia 26 lipca 2018 r. w sprawie rodzajów szkół i placówek, w których nie tworzy się rad rodziców (Dz. U. poz. 1478) w § 1:
 1)
-pkt 2 otrzymuje brzmienie:
-„
+pkt 2 otrzymuje brzmienie: „
 2)
-branżowe szkoły II stopnia i szkoły policealne;
-” ;
+branżowe szkoły II stopnia i szkoły policealne; ” ;
 2)
-pkt 7 otrzymuje brzmienie:
-„
+pkt 7 otrzymuje brzmienie: „
 7)
-placówki kształcenia ustawicznego i centra kształcenia zawodowego;
-” .
+placówki kształcenia ustawicznego i centra kształcenia zawodowego; ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 

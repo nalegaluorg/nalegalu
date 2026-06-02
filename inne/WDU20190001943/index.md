@@ -34,15 +34,13 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 7 października 2002 r. w sprawie dodatków do uposażenia funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. z 2018 r. poz. 523), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. zmieniającym rozporządzenie w sprawie dodatków do uposażenia funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1076).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. zmieniającego rozporządzenie w sprawie dodatków do uposażenia funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1076), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. zmieniającego rozporządzenie w sprawie dodatków do uposażenia funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1076), które stanowią: „
 § 2.
 Stawki dodatku za posiadany stopień służbowy w wysokości określonej w załączniku do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, przysługują funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego od dnia 1 stycznia 2019 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 7 października 2002 r. w sprawie dodatków do uposażenia funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego
-Na podstawie art. 119 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 119 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 i 2399 oraz z 2019 r. poz. 53, 125, 1091 i 1726.) zarządza się, co następuje:
 § 1.
 1.
 Rozporządzenie określa wysokość dodatków do uposażenia otrzymywanych przez funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego, zwanego dalej „funkcjonariuszem”, zasady ich przyznawania i obniżania, sposób ich wypłaty oraz rodzaje dodatków uzasadnionych szczególnymi właściwościami, kwalifikacjami, warunkami lub miejscem pełnienia służby.
@@ -102,9 +100,9 @@ Dodatki do uposażenia wypłaca się funkcjonariuszowi w formie bezgotówkowej n
 § 10.
 (uchylony).
 § 11.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 15 października 2002 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 12 listopada 2001 r. w sprawie dodatków do uposażenia funkcjonariuszy Urzędu Ochrony Państwa (Dz. U. poz. 1492), zachowanym w mocy na podstawie art. 232 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 676). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 i 2399 oraz z 2019 r. poz. 53, 125, 1091 i 1726. 2) Rozporządzenie zostało ogłoszone w dniu 15 października 2002 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 12 listopada 2001 r. w sprawie dodatków do uposażenia funkcjonariuszy Urzędu Ochrony Państwa (Dz. U. poz. 1492), zachowanym w mocy na podstawie art. 232 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 676).
 
-## Załącznik nr 1 — – Stawki dodatku za posiadany stopień służbowy
+## Załącznik nr 1 — – Stawki dodatku za posiadany stopień służbowyW brzmieniu ustalonym przez § 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. zmieniającego rozporządzenie w sprawie dodatków do uposażenia funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1076), które weszło w życie z dniem 26 czerwca 2019 r.
 
 Lp. Nazwa stopnia Stawka w złotych 1 Generał brygady 1800 2 Pułkownik 1700 3 Podpułkownik 1650 4 Major 1600 5 Kapitan 1500 6 Porucznik 1450 7 Podporucznik 1400 8 Starszy chorąży sztabowy 1250 9 Chorąży sztabowy 1200 10 Młodszy chorąży sztabowy 1150 11 Starszy chorąży 1100 12 Chorąży 1050 13 Młodszy chorąży 1000 14 Starszy sierżant sztabowy 900 15 Sierżant sztabowy 860 16 Starszy sierżant 830 17 Sierżant 800 18 Starszy plutonowy 750 19 Plutonowy 720 20 Starszy kapral 680 21 Kapral 650 22 Starszy szeregowy 620 23 Szeregowy 600
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Sportu i Turystykiz dnia 1 marca 2018 r. w sprawie Centralnej Ewidencji Organizatorów Turystyki i Przedsiębiorców Ułatwiających Nabywanie Powiązanych Usług Turystycznych
+# Rozporządzenie Ministra Sportu i Turystykiz dnia 1 marca 2018 r. w sprawie Centralnej Ewidencji Organizatorów Turystyki i Przedsiębiorców Ułatwiających Nabywanie Powiązanych Usług Turystycznych Minister Sportu i Turystyki kieruje działem administracji rządowej – turystyka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2318).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-01 |
 | Data wydania | 2018-03-12 |
-| Wejście w życie | 2018-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000518) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/518/text.pdf) |
 
@@ -182,8 +181,7 @@ datę złożenia przez przedsiębiorcę turystycznego oświadczenia o niewypłac
 § 6.
 Dane zawarte w Ewidencji są udostępniane w postaci wydruku aktualnych informacji o przedsiębiorcy turystycznym wpisanym do Ewidencji, o którym mowa w art. 24 ust. 10 ustawy, zawierającego w szczególności dane, o których mowa w art. 24 ust. 1 i 5 ustawy.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2018 r.
-1) Minister Sportu i Turystyki kieruje działem administracji rządowej – turystyka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2318). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sportu i Turystyki z dnia 9 listopada 2016 r. w sprawie Centralnej Ewidencji Organizatorów Turystyki i Pośredników Turystycznych (Dz. U. poz. 1861), które na podstawie art. 64 pkt 6 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. poz. 2361) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sportu i Turystyki z dnia 9 listopada 2016 r. w sprawie Centralnej Ewidencji Organizatorów Turystyki i Pośredników Turystycznych (Dz. U. poz. 1861), które na podstawie art. 64 pkt 6 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. poz. 2361) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Sportu i Turystyki kieruje działem administracji rządowej – turystyka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2318). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sportu i Turystyki z dnia 9 listopada 2016 r. w sprawie Centralnej Ewidencji Organizatorów Turystyki i Pośredników Turystycznych (Dz. U. poz. 1861), które na podstawie art. 64 pkt 6 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. poz. 2361) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 
 # Księga ewidencyjna składa się z trzech działów.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-12-14 |
 | Data wydania | 2007-02-09 |
-| Wejście w życie | 2007-03-10 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070210123) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/123/text.pdf) |
 
@@ -118,11 +117,11 @@ source: "eli-html"
 
 **Art. 104.**
 
-1. Nie mają obowiązku uiszczania opłat organizacje pożytku publicznego działające na podstawie przepisów o działalności pożytku publicznego i o wolontariacie, z wyjątkiem spraw dotyczących prowadzonej przez te organizacje działalności gospodarczej, a także organizacje pozarządowe oraz podmioty wymienione w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. Nr 96, poz. 873, z późn. zm.) w sprawach dotyczących realizacji zleconego zadania publicznego na podstawie przepisów o działalności pożytku publicznego i o wolontariacie.
+1. Nie mają obowiązku uiszczania opłat organizacje pożytku publicznego działające na podstawie przepisów o działalności pożytku publicznego i o wolontariacie, z wyjątkiem spraw dotyczących prowadzonej przez te organizacje działalności gospodarczej, a także organizacje pozarządowe oraz podmioty wymienione w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. Nr 96, poz. 873, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 116, poz. 1203 i Nr 210, poz. 2135, z 2005 r. Nr 155, poz. 1298, Nr 169, poz. 1420, Nr 175, poz. 1462 i Nr 249, poz. 2104 oraz z 2006 r. Nr 94, poz. 651.) w sprawach dotyczących realizacji zleconego zadania publicznego na podstawie przepisów o działalności pożytku publicznego i o wolontariacie.
 
 2. Innym organizacjom społecznym, których zadanie nie polega na prowadzeniu działalności gospodarczej, sąd może przyznać zwolnienie od kosztów sądowych w ich własnych sprawach prowadzonych w związku z działalnością społeczną, naukową, oświatową, kulturalną, sportową, dobroczynną, samopomocową, w zakresie ochrony konsumenta, ochrony środowiska i opieki społecznej. Przyznając zwolnienie od kosztów sądowych, sąd uwzględnia przede wszystkim statutowe cele działalności danej organizacji i możliwości oraz potrzeby realizacji tych celów na drodze postępowania cywilnego. ” .
 
 **Art. 2.** Do spraw wszczętych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 116, poz. 1203 i Nr 210, poz. 2135, z 2005 r. Nr 155, poz. 1298, Nr 169, poz. 1420, Nr 175, poz. 1462 i Nr 249, poz. 2104 oraz z 2006 r. Nr 94, poz. 651.
 

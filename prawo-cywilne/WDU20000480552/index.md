@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2000-05-12 |
 | Data wydania | 2000-06-14 |
-| Wejście w życie | 2000-07-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000480552) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/552/text.pdf) |
 

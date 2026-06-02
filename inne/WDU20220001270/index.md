@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 maja 2022 r. o zmianie ustawy o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności oraz niektórych innych ustaw
+# Ustawa z dnia 26 maja 2022 r. o zmianie ustawy o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawę z dnia 28 listopada 2003 r. o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej, ustawę z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013, ustawę z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego oraz ustawę z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-26 |
 | Data wydania | 2022-06-17 |
-| Wejście w życie | 2022-06-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001270) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1270/text.pdf) |
 
@@ -53,13 +52,13 @@ source: "eli-html"
 1. Po zakończeniu postępowań w sprawach dotyczących wpisu do ewidencji producentów oraz wykreślenia z tej ewidencji ostatecznymi decyzjami administracyjnymi, a w przypadku gdy na te decyzje przysługuje skarga do sądu administracyjnego:
 
 - **1)** po bezskutecznym upływie terminu na wniesienie tej skargi albo
-- **2)** po prawomocnym odrzuceniu albo oddaleniu tej skargi albo po prawomocnym umorzeniu postępowania sądowo-administracyjnego w aktach sprawy pozostawia się elektroniczną kopię dokumentów powstałych w postaci papierowej, a uprzednio skopiowane elektronicznie dokumenty w postaci papierowej poddaje się brakowaniu.
+- **2)** po prawomocnym odrzuceniu albo oddaleniu tej skargi albo po prawomocnym umorzeniu postępowania sądowo-administracyjnego – w aktach sprawy pozostawia się elektroniczną kopię dokumentów powstałych w postaci papierowej, a uprzednio skopiowane elektronicznie dokumenty w postaci papierowej poddaje się brakowaniu.
 
 2. Przepis ust. 1 stosuje się również do dokumentów składających się na akta sprawy o:
 
 - **1)** wznowienie postępowania,
 - **2)** stwierdzenie nieważności, zmianę lub uchylenie decyzji,
-- **3)** stwierdzenie wygaśnięcia decyzji w sprawach dotyczących wpisu do ewidencji producentów oraz wykreślenia z tej ewidencji, w postępowaniach przed kierownikiem biura powiatowego Agencji, dyrektorem oddziału regionalnego Agencji oraz Prezesem Agencji.
+- **3)** stwierdzenie wygaśnięcia decyzji – w sprawach dotyczących wpisu do ewidencji producentów oraz wykreślenia z tej ewidencji, w postępowaniach przed kierownikiem biura powiatowego Agencji, dyrektorem oddziału regionalnego Agencji oraz Prezesem Agencji.
 
 3. Elektroniczną kopię dokumentów, o których mowa w ust. 1 i 2, zapisuje się:
 
@@ -115,7 +114,7 @@ source: "eli-html"
 
 **Art. 4.** W ustawie z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2022 r. poz. 387) w art. 24:
 
-- **1)** w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Wniosek o przyznanie pomocy oraz wniosek o wypłatę pomocy w ramach działania, o którym mowa w art. 5 ust. 1 pkt 15, z uwzględnieniem art. 17 ust. 3 lit. b rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.), składa się za pomocą formularzy udostępnionych na stronie internetowej Agencji. ” ;
+- **1)** w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Wniosek o przyznanie pomocy oraz wniosek o wypłatę pomocy w ramach działania, o którym mowa w art. 5 ust. 1 pkt 15, z uwzględnieniem art. 17 ust. 3 lit. b rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1, Dz. Urz. UE L 225 z 19.08.2016, str. 50, Dz. Urz. UE L 170 z 01.07.2017, str. 87, Dz. Urz. UE L 178 z 11.07.2017, str. 4, Dz. Urz. UE L 119 z 15.05.2018, str. 29, Dz. Urz. UE L 125 z 22.05.2018, str. 1, Dz. Urz. UE L 149 z 07.06.2019, str. 58, Dz. Urz. UE L 276 z 29.10.2019, str. 12, Dz. Urz. UE L 224 z 13.07.2020, str. 1, Dz. Urz. UE L 108 z 29.03.2021, str. 15 oraz Dz. Urz. UE L 241 z 08.07.2021, str. 9., składa się za pomocą formularzy udostępnionych na stronie internetowej Agencji. ” ;
 - **2)** ust. 3 i 4 otrzymują brzmienie: „
 
 3. Do złożenia wniosków, o których mowa w ust. 2, za pomocą formularzy udostępnionych na stronie internetowej Agencji nie jest wymagany podpis elektroniczny.
@@ -172,7 +171,7 @@ source: "eli-html"
 1. W przypadku gdy nie są spełnione warunki przyznania pomocy w ramach:
 
 - **1)** działań i poddziałań, o których mowa w art. 3 ust. 1 pkt 3 lit. b, pkt 4 i 5, pkt 6 lit. d, pkt 7, 13 i 14, podmiot właściwy w sprawie o przyznanie pomocy informuje podmiot ubiegający się o przyznanie pomocy,
-- **2)** działań, o których mowa w art. 3 ust. 1 pkt 1 i 2, agencja płatnicza informuje podmiot, którego oferta została wybrana jako najkorzystniejsza w formie pisemnej o odmowie jej przyznania z podaniem przyczyn odmowy.
+- **2)** działań, o których mowa w art. 3 ust. 1 pkt 1 i 2, agencja płatnicza informuje podmiot, którego oferta została wybrana jako najkorzystniejsza – w formie pisemnej o odmowie jej przyznania z podaniem przyczyn odmowy.
 
 2. W przypadku, o którym mowa w ust. 1, podmiotowi ubiegającemu się o przyznanie pomocy oraz podmiotowi, którego oferta została wybrana jako najkorzystniejsza, przysługuje prawo wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi. ” , dodaje się ust. 3–7 w brzmieniu: „
 
@@ -191,17 +190,17 @@ source: "eli-html"
 **Art. 7.** Wnioski o:
 
 - **1)** pomoc finansową w zakresie wspierania rozwoju obszarów wiejskich na działanie określone w art. 1 ust. 1 pkt 4 ustawy zmienianej w art. 3 oraz wnioski o wypłatę tej pomocy,
-- **2)** przyznanie pomocy finansowej w ramach działania, o którym mowa w art. 5 ust. 1 pkt 15 ustawy zmienianej w art. 4 złożone przed dniem wejścia w życie niniejszej ustawy za pomocą formularzy odpowiednio umieszczonych albo udostępnionych na stronie internetowej Agencji Restrukturyzacji i Modernizacji Rolnictwa uznaje się za złożone skutecznie.
+- **2)** przyznanie pomocy finansowej w ramach działania, o którym mowa w art. 5 ust. 1 pkt 15 ustawy zmienianej w art. 4 – złożone przed dniem wejścia w życie niniejszej ustawy za pomocą formularzy odpowiednio umieszczonych albo udostępnionych na stronie internetowej Agencji Restrukturyzacji i Modernizacji Rolnictwa uznaje się za złożone skutecznie.
 
 **Art. 8.**
 
 1. Do postępowań o udzielenie zamówienia publicznego wszczętych przed dniem wejścia w życie niniejszej ustawy w celu wyłonienia beneficjenta w rozumieniu art. 2 pkt 2 ustawy zmienianej w art. 6, w ramach działań, o których mowa w art. 3 ust. 1 pkt 1 i 2 ustawy zmienianej w art. 6, w których termin składania ofert lub wniosków o dopuszczenie do udziału w postępowaniu o udzielenie zamówienia publicznego nie upłynął przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszą ustawą, z tym że agencja płatnicza w rozumieniu art. 2 pkt 1 ustawy zmienianej w art. 6, niezwłocznie od dnia wejścia w życie niniejszej ustawy:
 
-- **1)** zmienia ogłoszenie o zamówieniu publicznym lub dokumenty zamówienia publicznego, uwzględniając art. 34 ust. 6 ustawy zmienianej w art. 6, oraz może wymagać złożenia wadium, z tym że przepisu art. 90 ust. 3 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129, z późn. zm.) nie stosuje się;
+- **1)** zmienia ogłoszenie o zamówieniu publicznym lub dokumenty zamówienia publicznego, uwzględniając art. 34 ust. 6 ustawy zmienianej w art. 6, oraz może wymagać złożenia wadium, z tym że przepisu art. 90 ust. 3 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2054 i 2269 oraz z 2022 r. poz. 25, 872 i 1079.) nie stosuje się;
 - **2)** przedłuża termin składania wniosków o dopuszczenie do udziału w postępowaniu o udzielenie zamówienia publicznego albo termin składania ofert o czas niezbędny na ich przygotowanie lub wprowadzenie w nich zmian;
 - **3)** informuje wykonawców o zmianie ogłoszenia o zamówieniu publicznym lub dokumentów zamówienia publicznego dokonanej zgodnie z pkt 1.
 
 2. Postępowania o udzielenie zamówienia publicznego wszczęte przed dniem wejścia w życie niniejszej ustawy w celu wyłonienia beneficjenta w rozumieniu art. 2 pkt 2 ustawy zmienianej w art. 6, w ramach działań, o których mowa w art. 3 ust. 1 pkt 1 i 2 ustawy zmienianej w art. 6, w których termin składania ofert lub wniosków o dopuszczenie do udziału w postępowaniu o udzielenie zamówienia publicznego upłynął przed dniem wejścia w życie niniejszej ustawy, mogą zostać unieważnione, jeżeli ich dalsze prowadzenie jest nieuzasadnione.
 
-**Art. 9.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 1 pkt 1 i 3, które wchodzą w życie z dniem 1 stycznia 2023 r.
+**Art. 9.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 1 pkt 1 i 3, które wchodzą w życie z dniem 1 stycznia 2023 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawę z dnia 28 listopada 2003 r. o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej, ustawę z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013, ustawę z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego oraz ustawę z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1, Dz. Urz. UE L 225 z 19.08.2016, str. 50, Dz. Urz. UE L 170 z 01.07.2017, str. 87, Dz. Urz. UE L 178 z 11.07.2017, str. 4, Dz. Urz. UE L 119 z 15.05.2018, str. 29, Dz. Urz. UE L 125 z 22.05.2018, str. 1, Dz. Urz. UE L 149 z 07.06.2019, str. 58, Dz. Urz. UE L 276 z 29.10.2019, str. 12, Dz. Urz. UE L 224 z 13.07.2020, str. 1, Dz. Urz. UE L 108 z 29.03.2021, str. 15 oraz Dz. Urz. UE L 241 z 08.07.2021, str. 9. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2054 i 2269 oraz z 2022 r. poz. 25, 872 i 1079.
 

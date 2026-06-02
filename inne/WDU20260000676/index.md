@@ -22,7 +22,6 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-04-30 |
 | Data wydania | 2026-05-25 |
-| Wejście w życie | 2027-01-01 |
 | Ostatnia zmiana | 2026-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000676) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/676/text.pdf) |
 

@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-08 |
 | Data wydania | 2024-07-17 |
-| Wejście w życie | 2024-08-01 |
 | Ostatnia zmiana | 2024-07-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001060) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1060/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 49f ust. 3 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2024 r. poz. 127) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 11 października 2005 r. w sprawie warunków i trybu delegowania strażaków Państwowej Straży Pożarnej do pełnienia służby poza granicą państwa oraz sposobu i organizacji działania grupy ratowniczej (Dz. U. poz. 1765) w § 3 ust. 1 otrzymuje brzmienie:
-„
+W rozporządzeniu Rady Ministrów z dnia 11 października 2005 r. w sprawie warunków i trybu delegowania strażaków Państwowej Straży Pożarnej do pełnienia służby poza granicą państwa oraz sposobu i organizacji działania grupy ratowniczej (Dz. U. poz. 1765) w § 3 ust. 1 otrzymuje brzmienie: „
 1.
-Oceny predyspozycji strażaka do pełnienia służby poza granicą państwa w grupie ratowniczej, zwanej dalej „oceną predyspozycji”, dokonuje kierownik jednostki organizacyjnej Państwowej Straży Pożarnej, w której strażak pełni służbę.
-” .
+Oceny predyspozycji strażaka do pełnienia służby poza granicą państwa w grupie ratowniczej, zwanej dalej „oceną predyspozycji”, dokonuje kierownik jednostki organizacyjnej Państwowej Straży Pożarnej, w której strażak pełni służbę. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

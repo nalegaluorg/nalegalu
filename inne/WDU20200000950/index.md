@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-05-20 |
 | Data wydania | 2020-05-28 |
-| Wejście w życie | 2020-06-12 |
 | Ostatnia zmiana | 2024-10-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000950) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/950/text.pdf) |
 
@@ -31,16 +30,13 @@ Na podstawie art. 14 ust. 2 ustawy z dnia 13 maja 2016 r. o przeciwdziałaniu za
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 31 lipca 2017 r. w sprawie trybu, sposobu i zakresu uzyskiwania i udostępniania informacji z Rejestru z dostępem ograniczonym oraz sposobu zakładania konta użytkownika (Dz. U. poz. 1561) wprowadza się następujące zmiany:
 1)
-w § 1 pkt 9 otrzymuje brzmienie:
-„
+w § 1 pkt 9 otrzymuje brzmienie: „
 9)
-podpisie elektronicznym – rozumie się przez to kwalifikowany podpis elektroniczny, podpis osobisty albo podpis zaufany;
-” ;
+podpisie elektronicznym – rozumie się przez to kwalifikowany podpis elektroniczny, podpis osobisty albo podpis zaufany; ” ;
 2)
 w § 2 w ust. 1 wyrazy „art. 12 pkt 4–7 ustawy” zastępuje się wyrazami „art. 12 pkt 4–7a ustawy”;
 3)
-§ 14 i 15 otrzymują brzmienie:
-„
+§ 14 i 15 otrzymują brzmienie: „
 § 14.
 1.
 Podmioty, o których mowa w art. 12 pkt 4–7a ustawy, wskazują w pytaniu do systemu numer PESEL osoby wyszukiwanej, a także zadanie lub postępowanie, w związku z którym zachodzi konieczność uzyskania informacji z Rejestru.
@@ -75,8 +71,7 @@ imię ojca;
 6)
 imię matki;
 7)
-datę urodzenia.
-” ;
+datę urodzenia. ” ;
 4)
 w § 16 wyrazy „art. 12 pkt 1–5 ustawy” zastępuje się wyrazami „art. 12 pkt 1–5 i 7a ustawy”;
 5)

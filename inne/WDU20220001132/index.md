@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-13 |
 | Data wydania | 2022-05-27 |
-| Wejście w życie | 2022-05-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001132) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1132/text.pdf) |
 
@@ -43,5 +42,5 @@ niepełniącym czynnej służby wojskowej, do celów związanych z wykonywaniem 
 § 3.
 Do żołnierzy pełniących terytorialną służbę wojskową dyspozycyjnie oraz żołnierzy niepełniących czynnej służby wojskowej w zakresie norm należności i czasu używalności przedmiotów umundurowania i wyekwipowania stosuje się przepisy wydane na podstawie art. 330 ust. 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 10 sierpnia 2018 r. w sprawie wydawania przedmiotów umundurowania i wyekwipowania wojskowego żołnierzom pełniącym terytorialną służbę wojskową dyspozycyjnie oraz żołnierzom niepełniącym czynnej służby wojskowej (Dz. U. poz. 1652), które zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 10 sierpnia 2018 r. w sprawie wydawania przedmiotów umundurowania i wyekwipowania wojskowego żołnierzom pełniącym terytorialną służbę wojskową dyspozycyjnie oraz żołnierzom niepełniącym czynnej służby wojskowej (Dz. U. poz. 1652), które zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

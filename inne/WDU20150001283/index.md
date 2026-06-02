@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-23 |
 | Data wydania | 2015-09-01 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001283) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1283/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2014 r. poz. 849, z późn. zm.) w art. 7 w ust. 1 w pkt 14 kropkę zastępuje się średnikiem oraz dodaje się pkt 15 w brzmieniu: „
+**Art. 1.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2014 r. poz. 849, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 528, 699, 774 i 1045.) w art. 7 w ust. 1 w pkt 14 kropkę zastępuje się średnikiem oraz dodaje się pkt 15 w brzmieniu: „
 
 - **15)** grunty i budynki lub ich części, stanowiące własność gminy, z wyjątkiem zajętych na działalność gospodarczą lub będących w posiadaniu innych niż gmina jednostek sektora finansów publicznych oraz pozostałych podmiotów. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r.
+**Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 528, 699, 774 i 1045.
 

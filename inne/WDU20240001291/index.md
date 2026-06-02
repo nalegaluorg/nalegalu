@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 22 sierpnia 2024 r. zmieniające rozporządzenie w sprawie ogólnych warunków umów na realizację recept oraz ramowego wzoru umowy na realizację recept
+# Rozporządzenie Ministra Zdrowiaz dnia 22 sierpnia 2024 r. zmieniające rozporządzenie w sprawie ogólnych warunków umów na realizację recept oraz ramowego wzoru umowy na realizację recept Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-08-22 |
 | Data wydania | 2024-08-26 |
-| Wejście w życie | 2024-08-26 |
 | Ostatnia zmiana | 2025-09-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001291) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1291/text.pdf) |
 
@@ -33,20 +32,15 @@ W rozporządzeniu Ministra Zdrowia z dnia 8 grudnia 2011 r. w sprawie ogólnych 
 1)
 w załączniku nr 1 do rozporządzenia:
 a)
-w § 7 po ust. 1a dodaje się ust. 1b w brzmieniu:
-„
+w § 7 po ust. 1a dodaje się ust. 1b w brzmieniu: „
 1b.
-Zwrotu refundacji, o którym mowa w ust. 1, nie dokonuje się, jeżeli naruszenie, o którym mowa w art. 43 ust. 1 pkt 6 ustawy, polega na naruszeniu art. 96a ust. 7aa ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
-” ,
+Zwrotu refundacji, o którym mowa w ust. 1, nie dokonuje się, jeżeli naruszenie, o którym mowa w art. 43 ust. 1 pkt 6 ustawy, polega na naruszeniu art. 96a ust. 7aa ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne. ” ,
 b)
-w § 8 po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+w § 8 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Nie stanowi okoliczności, o której mowa w ust. 1, realizacja recepty skutkująca wydaniem produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego w sposób niezgodny z art. 96a ust. 7aa ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
-” ;
+Nie stanowi okoliczności, o której mowa w ust. 1, realizacja recepty skutkująca wydaniem produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego w sposób niezgodny z art. 96a ust. 7aa ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne. ” ;
 2)
 w załączniku nr 2 do rozporządzenia w § 12 uchyla się ust. 2.
 § 2.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 listopada 2023 r., z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 listopada 2023 r., z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

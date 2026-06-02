@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 kwietnia 2014 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz niektórych innych ustaw
+# Ustawa z dnia 24 kwietnia 2014 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 6 września 2001 r. o transporcie drogowym oraz ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-24 |
 | Data wydania | 2014-06-18 |
-| Wejście w życie | 2014-07-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000805) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/805/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm.) uchyla się rozdział 3.
+**Art. 1.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 oraz z 2013 r. poz. 433, 843, 1543 i 1646.) uchyla się rozdział 3.
 
 **Art. 2.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2014 r. poz. 518 i 659) w art. 3 uchyla się ust. 2 i 3.
 
@@ -36,5 +35,5 @@ source: "eli-html"
 
 **Art. 5.** Z dniem wejścia w życie ustawy znosi się Radę do Spraw Autostrad i Państwową Radę Nieruchomości.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 6 września 2001 r. o transporcie drogowym oraz ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 oraz z 2013 r. poz. 433, 843, 1543 i 1646.
 

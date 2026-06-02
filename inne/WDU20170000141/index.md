@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 13 stycznia 2017 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej podmiotu upoważnionego do przeprowadzania przeglądów technicznych jachtów komercyjnych
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 13 stycznia 2017 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej podmiotu upoważnionego do przeprowadzania przeglądów technicznych jachtów komercyjnych Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-01-13 |
 | Data wydania | 2017-01-23 |
-| Wejście w życie | 2017-02-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000141) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/141/text.pdf) |
 
@@ -55,6 +54,5 @@ Kwota, o której mowa w ust. 1, jest ustalana przy zastosowaniu kursu średniego
 § 5.
 Przepisy rozporządzenia stosuje się do umów ubezpieczenia OC zawartych od dnia wejścia w życie rozporządzenia.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-12-03 |
 | Data wydania | 2009-12-22 |
-| Wejście w życie | 2009-12-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092181690) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1690/text.pdf) |
 
@@ -52,7 +51,7 @@ source: "eli-html"
 
 1. W 2009 r. Funduszowi Ubezpieczeń Społecznych mogą być udzielone pożyczki z budżetu państwa w łącznej kwocie nie większej niż 5,5 mld zł.
 
-2. Do pożyczek, o których mowa w ust. 1, nie stosuje się ograniczeń wynikających z art. 101 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.).
+2. Do pożyczek, o których mowa w ust. 1, nie stosuje się ograniczeń wynikających z art. 101 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832, z 2007 r. Nr 82, poz. 560, Nr 88, poz. 587, Nr 115, poz. 791 i Nr 140, poz. 984, z 2008 r. Nr 180, poz. 1112, Nr 209, poz. 1317, Nr 216, poz. 1370 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100, Nr 62, poz. 504, Nr 72, poz. 619, Nr 79, poz. 666 i Nr 161, poz. 1277.).
 
-**Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832, z 2007 r. Nr 82, poz. 560, Nr 88, poz. 587, Nr 115, poz. 791 i Nr 140, poz. 984, z 2008 r. Nr 180, poz. 1112, Nr 209, poz. 1317, Nr 216, poz. 1370 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100, Nr 62, poz. 504, Nr 72, poz. 619, Nr 79, poz. 666 i Nr 161, poz. 1277.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-07 |
 | Data wydania | 2024-03-14 |
-| Wejście w życie | 2024-03-29 |
 | Ostatnia zmiana | 2024-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000371) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/371/text.pdf) |
 
@@ -157,5 +156,5 @@ Dowódca jednostki wojskowej dokonuje adnotacji o zwolnieniu żołnierza z obowi
 3.
 Dowódca jednostki wojskowej przesyła w terminie 7 dni od dnia zwolnienia żołnierza wyciąg z rozkazu dziennego o zwolnieniu żołnierza do szefa wojskowego centrum rekrutacji, który powołał żołnierza do odbycia obowiązkowej zasadniczej służby wojskowej.
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 14 września 2010 r. w sprawie sposobu odbywania zasadniczej służby wojskowej (Dz. U. z 2015 r. poz. 294), które utraciło moc z dniem 24 października 2023 r. zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 14 września 2010 r. w sprawie sposobu odbywania zasadniczej służby wojskowej (Dz. U. z 2015 r. poz. 294), które utraciło moc z dniem 24 października 2023 r. zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248).
 

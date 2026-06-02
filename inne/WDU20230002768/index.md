@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 19 grudnia 2023 r. o szczególnych rozwiązaniach służących zachowaniu ważności niektórych orzeczeń o niepełnosprawności oraz orzeczeń o stopniu niepełnosprawności
+# Ustawa z dnia 19 grudnia 2023 r. o szczególnych rozwiązaniach służących zachowaniu ważności niektórych orzeczeń o niepełnosprawności oraz orzeczeń o stopniu niepełnosprawności Niniejszą ustawą zmienia się ustawę z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-12-19 |
 | Data wydania | 2023-12-22 |
-| Wejście w życie | 2023-12-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002768) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2768/text.pdf) |
 
 **Art. 1.** Orzeczenie o niepełnosprawności albo orzeczenie o stopniu niepełnosprawności wydane na czas określony na podstawie ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2023 r. poz. 100, 173, 240, 852, 1234 i 1429), które zachowało ważność na podstawie art. 23 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 852 i 1429) w brzmieniu dotychczasowym, albo którego okres ważności upłynął po dniu 5 sierpnia 2023 r. i przed dniem 30 września 2024 r., zachowuje ważność do dnia 30 września 2024 r., jednak nie dłużej niż do dnia, w którym nowe orzeczenie o niepełnosprawności albo nowe orzeczenie o stopniu niepełnosprawności, stanie się ostateczne.
 
-**Art. 2.** W związku z zachowaniem ważności orzeczeń, o których mowa w art. 1, na okres wskazany w art. 1, karta parkingowa, o której mowa w art. 8 ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.), zachowuje ważność na ten okres, jednak nie dłużej niż do dnia, w którym nowe orzeczenie o niepełnosprawności albo nowe orzeczenie o stopniu niepełnosprawności, stanie się ostateczne.
+**Art. 2.** W związku z zachowaniem ważności orzeczeń, o których mowa w art. 1, na okres wskazany w art. 1, karta parkingowa, o której mowa w art. 8 ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720, 1723 i 2029.), zachowuje ważność na ten okres, jednak nie dłużej niż do dnia, w którym nowe orzeczenie o niepełnosprawności albo nowe orzeczenie o stopniu niepełnosprawności, stanie się ostateczne.
 
 **Art. 3.**
 
@@ -48,5 +47,5 @@ source: "eli-html"
 - **2)** w art. 24 uchyla się ust. 1;
 - **3)** uchyla się art. 25 i art. 26.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem 30 grudnia 2023 r.
+**Art. 6.** Ustawa wchodzi w życie z dniem 30 grudnia 2023 r. 1) Niniejszą ustawą zmienia się ustawę z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720, 1723 i 2029.
 

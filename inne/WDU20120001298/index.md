@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-11-12 |
 | Data wydania | 2012-11-26 |
-| Wejście w życie | 2012-12-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001298) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1298/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 11 ust. 5 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 11 ust. 5 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371 oraz z 2012 r. poz. 627, 664, 769 i 951.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 czerwca 2011 r. w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. Nr 143, poz. 843) w § 2 w ust. 2 pkt 1 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 czerwca 2011 r. w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. Nr 143, poz. 843) w § 2 w ust. 2 pkt 1 otrzymuje brzmienie: „
 1)
-uzyskania pozwolenia Państwowej Inspekcji Sanitarnej Ministerstwa Spraw Wewnętrznych;
-” .
+uzyskania pozwolenia Państwowej Inspekcji Sanitarnej Ministerstwa Spraw Wewnętrznych; ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371 oraz z 2012 r. poz. 627, 664, 769 i 951.
 

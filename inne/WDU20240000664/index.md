@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 26 kwietnia 2024 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytu lub innego zobowiązania
+# Rozporządzenie Ministra Finansówz dnia 26 kwietnia 2024 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytu lub innego zobowiązania Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-26 |
 | Data wydania | 2024-04-30 |
-| Wejście w życie | 2024-05-01 |
 | Ostatnia zmiana | 2024-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000664) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/664/text.pdf) |
 
@@ -72,6 +71,5 @@ Pomoc de minimis może być udzielana do końca sześciomiesięcznego okresu nas
 § 11.
 Traci moc rozporządzenie Ministra Finansów z dnia 28 marca 2018 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytu lub innego zobowiązania (Dz. U. z 2024 r. poz. 374).
 § 12.
-Rozporządzenie wchodzi w życie z dniem 1 maja 2024 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Rozporządzenie wchodzi w życie z dniem 1 maja 2024 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 

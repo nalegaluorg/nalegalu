@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 23 grudnia 2019 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej osoby posiadającej licencję doradcy restrukturyzacyjnego oraz spółki handlowej, pełniących funkcję w postępowaniu restrukturyzacyjnym, upadłościowym lub egzekucyjnym
+# Rozporządzenie Ministra Finansówz dnia 23 grudnia 2019 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej osoby posiadającej licencję doradcy restrukturyzacyjnego oraz spółki handlowej, pełniących funkcję w postępowaniu restrukturyzacyjnym, upadłościowym lub egzekucyjnym Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-23 |
 | Data wydania | 2019-12-30 |
-| Wejście w życie | 2020-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002527) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2527/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 17a ust. 2 ustawy z dnia 15 czerwca 2007 r. o licencji doradcy restrukturyzacyjnego (Dz. U. z 2016 r. poz. 883 oraz z 2019 r. poz. 55, 730, 912, 1495 i 1802) zarządza się, co następuje:
 § 1.
-Rozporządzenie określa zakres obowiązkowego ubezpieczenia odpowiedzialności cywilnej osoby posiadającej licencję doradcy restrukturyzacyjnego oraz spółki handlowej, o której mowa w art. 157 ust. 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2019 r. poz. 498, z późn. zm.) lub w art. 24 ust. 1 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2019 r. poz. 243, z późn. zm.), zwanych dalej „ubezpieczonymi”, pełniących funkcję w postępowaniu restrukturyzacyjnym, upadłościowym lub egzekucyjnym za szkody wyrządzone w związku z pełnieniem funkcji, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną tego ubezpieczenia.
+Rozporządzenie określa zakres obowiązkowego ubezpieczenia odpowiedzialności cywilnej osoby posiadającej licencję doradcy restrukturyzacyjnego oraz spółki handlowej, o której mowa w art. 157 ust. 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2019 r. poz. 498, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 912, 1495, 1655, 1802, 2089 i 2217.) lub w art. 24 ust. 1 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2019 r. poz. 243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 326, 912, 1655, 1802, 2089 i 2217.), zwanych dalej „ubezpieczonymi”, pełniących funkcję w postępowaniu restrukturyzacyjnym, upadłościowym lub egzekucyjnym za szkody wyrządzone w związku z pełnieniem funkcji, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną tego ubezpieczenia.
 § 2.
 1.
 Obowiązkowym ubezpieczeniem odpowiedzialności cywilnej, o którym mowa w § 1, zwanym dalej „ubezpieczeniem OC”, jest objęta odpowiedzialność cywilna ubezpieczonego, za szkody wyrządzone jego działaniem lub zaniechaniem, w związku z pełnieniem funkcji w postępowaniu restrukturyzacyjnym, upadłościowym lub egzekucyjnym, w okresie ubezpieczenia.
@@ -87,6 +86,5 @@ Kwoty, o których mowa w ust. 1, są ustalane przy zastosowaniu kursu średniego
 § 5.
 Przepisy rozporządzenia stosuje się do umów ubezpieczenia OC zawartych od dnia wejścia w życie rozporządzenia.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 912, 1495, 1655, 1802, 2089 i 2217. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 326, 912, 1655, 1802, 2089 i 2217. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 grudnia 2015 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej osoby posiadającej licencję doradcy restrukturyzacyjnego, pełniącej funkcję w postępowaniu restukturyzacyjnym, upadłościowym lub egzekucyjnym (Dz. U. poz. 2255), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, w związku z wejściem w życie ustawy z dnia 4 kwietnia 2019 r. o zmianie ustawy o licencji doradcy restrukturyzacyjnego oraz niektórych innych ustaw (Dz. U. poz. 912).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 grudnia 2015 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej osoby posiadającej licencję doradcy restrukturyzacyjnego, pełniącej funkcję w postępowaniu restukturyzacyjnym, upadłościowym lub egzekucyjnym (Dz. U. poz. 2255), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, w związku z wejściem w życie ustawy z dnia 4 kwietnia 2019 r. o zmianie ustawy o licencji doradcy restrukturyzacyjnego oraz niektórych innych ustaw (Dz. U. poz. 912). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 912, 1495, 1655, 1802, 2089 i 2217. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 326, 912, 1655, 1802, 2089 i 2217. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 grudnia 2015 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej osoby posiadającej licencję doradcy restrukturyzacyjnego, pełniącej funkcję w postępowaniu restukturyzacyjnym, upadłościowym lub egzekucyjnym (Dz. U. poz. 2255), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, w związku z wejściem w życie ustawy z dnia 4 kwietnia 2019 r. o zmianie ustawy o licencji doradcy restrukturyzacyjnego oraz niektórych innych ustaw (Dz. U. poz. 912).
 

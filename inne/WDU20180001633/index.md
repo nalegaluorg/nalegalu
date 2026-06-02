@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 lipca 2018 r. o zmianie niektórych ustaw w celu zwiększenia efektywności prowadzonych działań kontrolnych w zakresie niektórych rynków rolnych
+# Ustawa z dnia 20 lipca 2018 r. o zmianie niektórych ustaw w celu zwiększenia efektywności prowadzonych działań kontrolnych w zakresie niektórych rynków rolnych Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, ustawę z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu, ustawę z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych, ustawę z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym oraz ustawę z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-08-24 |
-| Wejście w życie | 2018-09-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001633) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1633/text.pdf) |
 
@@ -153,5 +152,5 @@ source: "eli-html"
 
 **Art. 8.** Do postępowań, do których mają zastosowanie przepisy art. 48 ust. 11 i art. 54 ust. 1 ustawy zmienianej w art. 5, rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 5, w brzmieniu dotychczasowym.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, ustawę z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu, ustawę z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych, ustawę z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym oraz ustawę z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 

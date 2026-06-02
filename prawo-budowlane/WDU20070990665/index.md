@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 maja 2007 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw
+# Ustawa z dnia 10 maja 2007 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 22 sierpnia 1997 r. o bezpieczeństwie imprez masowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-05-10 |
 | Data wydania | 2007-06-05 |
-| Wejście w życie | 2007-06-20 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070990665) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/665/text.pdf) |
 
@@ -59,7 +58,7 @@ source: "eli-html"
 - **1)** może zagrażać życiu lub zdrowiu ludzi, bezpieczeństwu mienia bądź środowiska albo
 - **2)** jest użytkowany w sposób zagrażający życiu lub zdrowiu ludzi, bezpieczeństwu mienia lub środowisku, albo
 - **3)** jest w nieodpowiednim stanie technicznym, albo
-- **4)** powoduje swym wyglądem oszpecenie otoczenia właściwy organ nakazuje, w drodze decyzji, usunięcie stwierdzonych nieprawidłowości, określając termin wykonania tego obowiązku.
+- **4)** powoduje swym wyglądem oszpecenie otoczenia – właściwy organ nakazuje, w drodze decyzji, usunięcie stwierdzonych nieprawidłowości, określając termin wykonania tego obowiązku.
 
 2. W decyzji, o której mowa w ust. 1 pkt 1–3, właściwy organ może zakazać użytkowania obiektu budowlanego lub jego części do czasu usunięcia stwierdzonych nieprawidłowości. Decyzja o zakazie użytkowania obiektu, jeżeli występują okoliczności, o których mowa w ust. 1 pkt 1 i 2, podlega natychmiastowemu wykonaniu i może być ogłoszona ustnie. ” ;
 
@@ -92,7 +91,7 @@ source: "eli-html"
 - **10)** w art. 89c: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. W przypadkach bezpośredniego zagrożenia życia lub zdrowia ludzi związanych z budową, utrzymaniem lub rozbiórką obiektów budowlanych starosta, wójt, burmistrz i prezydent miasta mogą wydać właściwemu powiatowemu inspektorowi nadzoru budowlanego polecenie podjęcia działań zmierzających do usunięcia tego zagrożenia. Przepisy art. 10 ust. 2 ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. Nr 62, poz. 558, z późn. zm.) stosuje się odpowiednio. ” , ust. 4 otrzymuje brzmienie: „
+1. W przypadkach bezpośredniego zagrożenia życia lub zdrowia ludzi związanych z budową, utrzymaniem lub rozbiórką obiektów budowlanych starosta, wójt, burmistrz i prezydent miasta mogą wydać właściwemu powiatowemu inspektorowi nadzoru budowlanego polecenie podjęcia działań zmierzających do usunięcia tego zagrożenia. Przepisy art. 10 ust. 2 ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. Nr 62, poz. 558, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676, z 2006 r. Nr 50, poz. 360 i Nr 191, poz. 1410 oraz z 2007 r. Nr 89, poz. 590.) stosuje się odpowiednio. ” , ust. 4 otrzymuje brzmienie: „
 
 - **b)**
 
@@ -123,7 +122,7 @@ source: "eli-html"
 4. Jeżeli obiekt budowlany, o którym mowa w ust. 1, nie narusza:
 
 - **1)** przepisów, w tym techniczno-budowlanych, w zakresie uniemożliwiającym doprowadzenie obiektu budowlanego do stanu zgodnego z prawem,
-- **2)** ustaleń miejscowego planu zagospodarowania przestrzennego, obowiązującego w dniu zakończenia budowy albo w dniu orzekania właściwy organ nadzoru budowlanego, po protokolarnym potwierdzeniu zgodności inwentaryzacji powykonawczej ze stanem faktycznym, wydaje, z zastrzeżeniem ust. 5, decyzję w sprawie pozwolenia na użytkowanie.
+- **2)** ustaleń miejscowego planu zagospodarowania przestrzennego, obowiązującego w dniu zakończenia budowy albo w dniu orzekania – właściwy organ nadzoru budowlanego, po protokolarnym potwierdzeniu zgodności inwentaryzacji powykonawczej ze stanem faktycznym, wydaje, z zastrzeżeniem ust. 5, decyzję w sprawie pozwolenia na użytkowanie.
 
 5. Jeżeli obiekt budowlany, o którym mowa w ust. 1, narusza przepisy lub ustalenia miejscowego planu zagospodarowania przestrzennego, w zakresie umożliwiającym doprowadzenie obiektu do stanu zgodnego z prawem, właściwy organ nadzoru budowlanego, w drodze postanowienia, nakłada obowiązek usunięcia tych naruszeń w wyznaczonym terminie. W razie niewykonania obowiązku w terminie, organ ten nakazuje rozbiórkę obiektu budowlanego lub jego części.
 

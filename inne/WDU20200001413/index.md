@@ -26,13 +26,12 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001413) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1413/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego Rozdział 1 – Przepisy ogólne Rozdział 2 – Identyfikowanie konglomeratów finansowych Rozdział 3 – Nadzór uzupełniający Rozdział 4 – Koordynator Rozdział 5 – Współpraca i wymiana informacji Rozdział 6 – Środki sprawowania nadzoru uzupełniającego Rozdział 7 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U. z 2019 r. poz. 2146), z uwzględnieniem zmian wprowadzonych ustawą z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 lipca 2020 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 46 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 46 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217), które stanowią: „ 1) Niniejsza ustawa:
 1)
 wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/828 z dnia 17 maja 2017 r. zmieniającą dyrektywę 2007/36/WE w zakresie zachęcania akcjonariuszy do długoterminowego zaangażowania (Dz. Urz. UE L 132 z 20.05.2017, str. 1);
 2)
@@ -46,19 +45,43 @@ w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2
 6)
 w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającą dyrektywę 2002/92/WE i dyrektywę 2011/61/UE (Dz. Urz. UE L 173 z 12.06.2014, str. 349, Dz. Urz. UE L 257 z 28.08.2014, Dz. Urz. UE L 175 z 30.06.2016, str. 8, Dz. Urz. UE L 188 z 13.07.2016, str. 28, Dz. Urz. UE L 273 z 08.10.2016, str. 35, Dz. Urz. UE L 64 z 10.03.2017, str. 116 oraz Dz. Urz. UE L 231 z 14.09.2018, str. 39);
 7)
-służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12).
-”
-„
+służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12). ” „
+Przepisy ogólne
+Identyfikowanie konglomeratów finansowych
+Nadzór uzupełniający
+Zasady nadzoru uzupełniającego
+Adekwatność kapitałowa
+Znaczące transakcje wewnątrzgrupowe
+Znacząca koncentracja ryzyka
+Zarządzanie ryzykiem oraz kontrola wewnętrzna
+Koordynator
 Zadaniem koordynatora jest sprawowanie nadzoru uzupełniającego.
+Współpraca i wymiana informacji
+Środki sprawowania nadzoru uzupełniającego
+Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 Art. 65–72.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Identyfikowanie konglomeratów finansowych
+
+#### Rozdział 3 – Nadzór uzupełniający
+
+#### Rozdział 4 – Koordynator
+
+#### Rozdział 5 – Współpraca i wymiana informacji
+
+#### Rozdział 6 – Środki sprawowania nadzoru uzupełniającego
+
+#### Rozdział 7 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 **Art. 46.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 10 i 76 oraz art. 28, które wchodzą w życie z dniem 1 stycznia 2020 r.;
-- **2)** art. 8 pkt 4 i 5 oraz art. 14 pkt 22, pkt 43 lit. b i pkt 47, które wchodzą w życie z dniem 3 września 2020 r. ” . Załącznik – Tekst jednolity ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego
+- **2)** art. 8 pkt 4 i 5 oraz art. 14 pkt 22, pkt 43 lit. b i pkt 47, które wchodzą w życie z dniem 3 września 2020 r. ” . Załącznik – Tekst jednolity ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowegoUstawa niniejsza wprowadza do polskiego prawa postanowienia dyrektywy 2002/87/WE Parlamentu Europejskiego i Rady z dnia 16 grudnia 2002 r. w sprawie nadzoru uzupełniającego nad instytucjami kredytowymi, przedsiębiorstwami ubezpieczeniowymi i firmami inwestycyjnymi w konglomeracie finansowym oraz w sprawie zmian dyrektyw Rady 73/239/EWG, 79/267/EWG, 92/49/EWG, 92/96/EWG, 93/6/EWG i 93/22/EWG oraz dyrektywy 98/78/WE i 2000/12/WE Parlamentu Europejskiego i Rady (Dz. Urz. WE L 035 z 11.02.2003).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -110,7 +133,7 @@ Art. 65–72.
 - **4)** podmiot regulowany – instytucję kredytową, zakład ubezpieczeń, zakład reasekuracji lub firmę inwestycyjną;
 - **5)** dominujący podmiot nieregulowany – podmiot dominujący, niebędący podmiotem regulowanym, który wraz z podmiotami zależnymi, z których co najmniej jeden jest podmiotem regulowanym mającym siedzibę w państwie członkowskim Unii Europejskiej, tworzy konglomerat finansowy;
 - **6)** regulacje sektorowe – przepisy określające warunki wykonywania działalności przez podmioty regulowane;
-- **7)** grupa – grupę podmiotów składającą się z podmiotu dominującego, podmiotów od niego zależnych i podmiotów powiązanych z nimi poprzez znaczący udział kapitałowy, a także grupę podmiotów powiązanych ze sobą umową o zarządzanie, o której mowa w art. 7 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r. poz. 505, z późn. zm.), lub inną umową o podobnym charakterze, jak również w ten sposób, że dany podmiot ma wpływ na kierowanie polityką finansową i operacyjną innego podmiotu;
+- **7)** grupa – grupę podmiotów składającą się z podmiotu dominującego, podmiotów od niego zależnych i podmiotów powiązanych z nimi poprzez znaczący udział kapitałowy, a także grupę podmiotów powiązanych ze sobą umową o zarządzanie, o której mowa w art. 7 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r. poz. 505, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1543, 1655, 1798 i 2217 oraz z 2020 r. poz. 288, 568 i 695.), lub inną umową o podobnym charakterze, jak również w ten sposób, że dany podmiot ma wpływ na kierowanie polityką finansową i operacyjną innego podmiotu;
 - **8)** sektor bankowy – sektor, który tworzą instytucje kredytowe, instytucje finansowe w rozumieniu art. 4 ust. 1 pkt 7 ustawy – Prawo bankowe lub przedsiębiorstwa pomocniczych usług bankowych w rozumieniu art. 4 ust. 1 pkt 12 tej ustawy;
 - **9)** sektor ubezpieczeniowy – sektor, który tworzą zakłady ubezpieczeń, zakłady reasekuracji lub dominujący podmiot ubezpieczeniowy w rozumieniu art. 3 ust. 1 pkt 5 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej;
 - **10)** sektor usług inwestycyjnych – sektor, który tworzą firmy inwestycyjne, o których mowa w pkt 3 lit. a-f;
@@ -136,7 +159,7 @@ Art. 65–72.
 - **22)** transakcja wewnątrzgrupowa – transakcję, na podstawie której należący do konglomeratu finansowego podmiot regulowany lub podmiot, wobec którego podmiot wchodzący w skład konglomeratu finansowego pełni funkcję organu zarządzającego, bezpośrednio lub pośrednio zobowiązuje się wobec innego podmiotu z tej samej grupy lub innego podmiotu blisko powiązanego z podmiotem z tej grupy do określonego zachowania lub do spełnienia określonego świadczenia;
 - **23)** znacząca koncentracja ryzyka – możliwość poniesienia przez podmiot regulowany wchodzący w skład konglomeratu finansowego straty, która jest wystarczająco istotna, by zagrozić wypłacalności lub sytuacji finansowej podmiotów regulowanych w tym konglomeracie finansowym.
 
-#### Rozdział 2 Identyfikowanie konglomeratów finansowych
+#### Rozdział 2
 
 **Art. 4.**
 
@@ -271,9 +294,9 @@ Art. 65–72.
 
 **Art. 18.** (uchylony)
 
-#### Rozdział 3 Nadzór uzupełniający
+#### Rozdział 3
 
-##### Oddział 1 Zasady nadzoru uzupełniającego
+##### Oddział 1
 
 **Art. 19.** Nadzór uzupełniający jest realizowany przez podmioty regulowane podlegające nadzorowi sprawowanemu przez krajowy organ nadzoru:
 
@@ -283,7 +306,7 @@ Art. 65–72.
 
 **Art. 20.** Podmioty wchodzące w skład konglomeratu finansowego są obowiązane udzielać koordynatorowi informacji niezbędnych dla wykonywania nadzoru uzupełniającego nad tym konglomeratem finansowym.
 
-##### Oddział 2 Adekwatność kapitałowa
+##### Oddział 2
 
 **Art. 21.** Nadzorowi uzupełniającemu podlega adekwatność kapitałowa konglomeratu finansowego oraz strategia postępowania konglomeratu finansowego w zakresie adekwatności kapitałowej.
 
@@ -332,7 +355,7 @@ Art. 65–72.
 - **1)** w terminie 30 dni od dnia przekazania przez podmiot wiodący koordynatorowi wyników rachunku adekwatności kapitałowej, określonego zgodnie z przepisami wydanymi na podstawie art. 23, opracowuje i przekazuje koordynatorowi strategię postępowania konglomeratu finansowego w zakresie adekwatności kapitałowej;
 - **2)** powiadamia koordynatora o zmianach strategii postępowania konglomeratu finansowego w zakresie adekwatności kapitałowej w terminie 30 dni od dnia ich dokonania.
 
-##### Oddział 3 Znaczące transakcje wewnątrzgrupowe
+##### Oddział 3
 
 **Art. 29.** Znaczące transakcje wewnątrzgrupowe w konglomeracie finansowym podlegają nadzorowi uzupełniającemu.
 
@@ -369,9 +392,9 @@ Art. 65–72.
 
 3. Sprawozdanie, o którym mowa w ust. 1, jest przekazywane koordynatorowi zagranicznemu w języku polskim oraz języku urzędowym państwa członkowskiego, w którym ma siedzibę.
 
-**Art. 34.** (uchylony)
+**Art. 34.** (uchylony)Przez art. 12 pkt 1 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217), która weszła w życie z dniem 30 listopada 2019 r.
 
-##### Oddział 4 Znacząca koncentracja ryzyka
+##### Oddział 4
 
 **Art. 35.** Znacząca koncentracja ryzyka podlega nadzorowi uzupełniającemu.
 
@@ -407,7 +430,7 @@ Art. 65–72.
 
 2. Decyzja, o której mowa w ust. 1, jest natychmiast wykonalna.
 
-3. (uchylony)
+3. (uchylony)Przez art. 12 pkt 2 ustawy, o której mowa w odnośniku 3.
 
 **Art. 40.**
 
@@ -415,7 +438,7 @@ Art. 65–72.
 
 2. Decyzje, o których mowa w ust. 1, są natychmiast wykonalne.
 
-##### Oddział 5 Zarządzanie ryzykiem oraz kontrola wewnętrzna
+##### Oddział 5
 
 **Art. 41.** Zarządzanie ryzykiem oraz kontrola wewnętrzna na poziomie konglomeratu finansowego podlegają nadzorowi uzupełniającemu sprawowanemu przez koordynatora.
 
@@ -445,7 +468,7 @@ Art. 65–72.
 
 **Art. 45.** Podmioty regulowane podlegające nadzorowi sprawowanemu przez krajowy organ nadzoru, są obowiązane wprowadzić procedury kontroli wewnętrznej zapewniające efektywne uzyskiwanie i przekazywanie wszelkich danych i informacji, które mogą być istotne dla celów nadzoru uzupełniającego.
 
-#### Rozdział 4 Koordynator
+#### Rozdział 4
 
 **Art. 47.** Jeżeli podmiot wiodący ma siedzibę na terytorium Rzeczypospolitej Polskiej, koordynatorem jest krajowy organ nadzoru.
 
@@ -482,7 +505,7 @@ Art. 65–72.
 
 2. Porozumienia dotyczące współpracy, o których mowa w ust. 1, są uwzględniane w uzgodnieniach koordynacyjnych zawartych na podstawie regulacji sektorowych. Odpowiednią koordynację nadzoru uzupełniającego i współpracę z właściwymi organami nadzoru państw niebędących państwami członkowskimi zapewniają kolegia organów nadzoru powołane na podstawie regulacji sektorowych.
 
-#### Rozdział 5 Współpraca i wymiana informacji
+#### Rozdział 5
 
 **Art. 56.**
 
@@ -512,7 +535,7 @@ Art. 65–72.
 1. W przypadku wydawania decyzji i podejmowania innych czynności w stosunku do podmiotów regulowanych wchodzących w skład konglomeratu finansowego zgodnie z regulacjami sektorowymi, dotyczących w szczególności:
 
 - **1)** udzielenia zgody na zmianę akcjonariatu, struktury organizacyjnej lub struktury zarządzania podmiotów regulowanych w konglomeracie finansowym,
-- **2)** nakładania sankcji lub podejmowania innych działań nadzorczych wobec podmiotów wchodzących w skład konglomeratu finansowego krajowy organ nadzoru, przed ich podjęciem, zwraca się o przekazanie informacji do zagranicznych organów nadzoru, jeżeli informacje od tych organów mogą mieć znaczenie dla sprawowania nadzoru uzupełniającego.
+- **2)** nakładania sankcji lub podejmowania innych działań nadzorczych wobec podmiotów wchodzących w skład konglomeratu finansowego – krajowy organ nadzoru, przed ich podjęciem, zwraca się o przekazanie informacji do zagranicznych organów nadzoru, jeżeli informacje od tych organów mogą mieć znaczenie dla sprawowania nadzoru uzupełniającego.
 
 2. W nagłych lub szczególnie uzasadnionych przypadkach krajowy organ nadzoru, wydając decyzje, o których mowa w ust. 1, lub podejmując inne czynności w ramach nadzoru uzupełniającego, może odstąpić od wystąpienia do zagranicznych organów nadzoru o przekazanie informacji. O decyzjach podjętych bez wystąpienia o informacje krajowy organ nadzoru informuje zagraniczne organy nadzoru bezzwłocznie.
 
@@ -527,7 +550,7 @@ Art. 65–72.
 
 2. Na wniosek zagranicznego organu nadzoru krajowy organ nadzoru przeprowadza weryfikację informacji dotyczących podmiotu regulowanego mającego siedzibę na terytorium Rzeczypospolitej Polskiej, wchodzącego w skład konglomeratu finansowego. W czynnościach tych mogą, za zgodą krajowego organu nadzoru, uczestniczyć upoważnieni przedstawiciele organu, który wystąpił z wnioskiem o weryfikację. Przedstawicielom tym przysługują takie same prawa i obowiązki, jak pracownikom tego krajowego organu nadzoru.
 
-#### Rozdział 6 Środki sprawowania nadzoru uzupełniającego
+#### Rozdział 6
 
 **Art. 61.**
 
@@ -559,14 +582,11 @@ Art. 65–72.
 
 **Art. 64.** W przypadku stwierdzenia naruszeń przepisów prawa lub innych nieprawidłowości na poziomie konglomeratu finansowego koordynator informuje zagraniczne organy nadzoru o potrzebie podjęcia odpowiednich działań w stosunku do podmiotów wchodzących w skład konglomeratu finansowego, mających siedziby w państwach członkowskich.
 
-#### Rozdział 7 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+#### Rozdział 7
 
 **Art. 73.** Do postępowań w sprawach objętych przepisami ustaw zmienianych niniejszą ustawą, wszczętych, a niezakończonych przed dniem jej wejścia w życie, stosuje się przepisy tych ustaw, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 74.** (pominięty)
 
-**Art. 75.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 68, który wchodzi w życie z dniem ogłoszenia.
-
-- **1)** Ustawa niniejsza wprowadza do polskiego prawa postanowienia dyrektywy 2002/87/WE Parlamentu Europejskiego i Rady z dnia 16 grudnia 2002 r. w sprawie nadzoru uzupełniającego nad instytucjami kredytowymi, przedsiębiorstwami ubezpieczeniowymi i firmami inwestycyjnymi w konglomeracie finansowym oraz w sprawie zmian dyrektyw Rady 73/239/EWG, 79/267/EWG, 92/49/EWG, 92/96/EWG, 93/6/EWG i 93/22/EWG oraz dyrektywy 98/78/WE i 2000/12/WE Parlamentu Europejskiego i Rady (Dz. Urz. WE L 035 z 11.02.2003). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1543, 1655, 1798 i 2217 oraz z 2020 r. poz. 288, 568 i 695. 3) Przez art. 12 pkt 1 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217), która weszła w życie z dniem 30 listopada 2019 r. 4) Przez art. 12 pkt 2 ustawy, o której mowa w odnośniku 3. 5) Ustawa została ogłoszona w dniu 13 maja 2005 r. 6) Artykuł 68 zawiera zmiany do ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami.
-
+**Art. 75.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 13 maja 2005 r., z wyjątkiem art. 68Artykuł 68 zawiera zmiany do ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami., który wchodzi w życie z dniem ogłoszenia. 1) Ustawa niniejsza wprowadza do polskiego prawa postanowienia dyrektywy 2002/87/WE Parlamentu Europejskiego i Rady z dnia 16 grudnia 2002 r. w sprawie nadzoru uzupełniającego nad instytucjami kredytowymi, przedsiębiorstwami ubezpieczeniowymi i firmami inwestycyjnymi w konglomeracie finansowym oraz w sprawie zmian dyrektyw Rady 73/239/EWG, 79/267/EWG, 92/49/EWG, 92/96/EWG, 93/6/EWG i 93/22/EWG oraz dyrektywy 98/78/WE i 2000/12/WE Parlamentu Europejskiego i Rady (Dz. Urz. WE L 035 z 11.02.2003). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1543, 1655, 1798 i 2217 oraz z 2020 r. poz. 288, 568 i 695. 3) Przez art. 12 pkt 1 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217), która weszła w życie z dniem 30 listopada 2019 r. 4) Przez art. 12 pkt 2 ustawy, o której mowa w odnośniku 3. 5) Ustawa została ogłoszona w dniu 13 maja 2005 r. 6) Artykuł 68 zawiera zmiany do ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami.
 

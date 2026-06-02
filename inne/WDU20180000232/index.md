@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 24 stycznia 2018 r. w sprawie przechowywania, ewidencjonowania oraz pobierania broni palnej i amunicji oraz środków przymusu bezpośredniego w Biurze Nadzoru Wewnętrznego
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 24 stycznia 2018 r. w sprawie przechowywania, ewidencjonowania oraz pobierania broni palnej i amunicji oraz środków przymusu bezpośredniego w Biurze Nadzoru Wewnętrznego Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-24 |
 | Data wydania | 2018-01-25 |
-| Wejście w życie | 2018-01-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000232) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/232/text.pdf) |
 
@@ -37,7 +36,7 @@ Treść rozporządzenia
 ## Załącznik nr 4 — – Książka pobrania, wydania-przyjęcia środków przymusu bezpośredniego (wzór)
 
 Treść rozporządzenia
-Na podstawie art. 11r ust. 3 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 11r ust. 3 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 443 i 943, z 1998 r. poz. 860, z 2006 r. poz. 1592, z 2007 r. poz. 162, z 2010 r. poz. 1228, z 2012 r. poz. 908 oraz z 2018 r. poz. 106 i 138.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -45,8 +44,7 @@ wymogi przechowywania,
 2)
 sposoby ewidencjonowania oraz
 3)
-tryb pobierania
-broni palnej, amunicji i środków przymusu bezpośredniego w Biurze Nadzoru Wewnętrznego.
+tryb pobierania – broni palnej, amunicji i środków przymusu bezpośredniego w Biurze Nadzoru Wewnętrznego.
 § 2.
 1.
 Broń palną i amunicję przechowuje się w szafach metalowych lub sejfach specjalnie przeznaczonych do przechowywania broni palnej i amunicji, umieszczonych w odpowiednio przystosowanym do tego celu pomieszczeniu, zwanym dalej „magazynem broni”.
@@ -121,8 +119,7 @@ Dostęp do pomieszczeń, w których są przechowywane środki przymusu bezpośre
 § 14.
 Pobieranie, wydawanie oraz rozliczanie broni i amunicji oraz środków przymusu bezpośredniego odbywa się odpowiednio w magazynie broni lub w pomieszczeniu wyznaczonym przez Inspektora Nadzoru Wewnętrznego do pobierania środków przymusu bezpośredniego, po okazaniu dokumentów identyfikujących inspektora Biura, o których mowa w art. 11k ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, oraz pisemnego upoważnienia Inspektora Nadzoru Wewnętrznego do pobrania broni, amunicji oraz środków przymusu bezpośredniego.
 § 15.
-Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 443 i 943, z 1998 r. poz. 860, z 2006 r. poz. 1592, z 2007 r. poz. 162, z 2010 r. poz. 1228, z 2012 r. poz. 908 oraz z 2018 r. poz. 106 i 138.
+Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 443 i 943, z 1998 r. poz. 860, z 2006 r. poz. 1592, z 2007 r. poz. 162, z 2010 r. poz. 1228, z 2012 r. poz. 908 oraz z 2018 r. poz. 106 i 138.
 
 ## Załącznik nr 1 — – Książka stanu broni palnej i amunicji (wzór)
 

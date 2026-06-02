@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-12 |
 | Data wydania | 2013-01-30 |
-| Wejście w życie | 2013-02-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000139) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/139/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. Nr 130, poz. 1070, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. Nr 130, poz. 1070, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 215, poz. 1664, z 2010 r. Nr 249, poz. 1657, z 2011 r. Nr 122, poz. 695 oraz z 2012 r. poz. 460 i 951.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3: w ust. 2 pkt 5 otrzymuje brzmienie: „
     - **a)**
@@ -59,7 +58,7 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-- **2)** refinansowanie: Narodowemu Funduszowi kosztów związanych z przeznaczaniem środków tego funduszu niebędących wpływami pochodzącymi ze sprzedaży jednostek Kioto, wojewódzkiemu funduszowi ochrony środowiska i gospodarki wodnej, zwanemu dalej „wojewódzkim funduszem”, kosztów związanych z przeznaczaniem środków tego funduszu na dofinansowanie programów lub projektów z zakresu ochrony środowiska, w tym kosztów związanych z przekazaniem środków na dochody budżetu państwa w celu dofinansowania zadań realizowanych przez państwowe jednostki budżetowe, obejmujących realizację tych programów lub projektów. ” ;
+- **2)** refinansowanie: Narodowemu Funduszowi kosztów związanych z przeznaczaniem środków tego funduszu niebędących wpływami pochodzącymi ze sprzedaży jednostek Kioto, wojewódzkiemu funduszowi ochrony środowiska i gospodarki wodnej, zwanemu dalej „wojewódzkim funduszem”, kosztów związanych z przeznaczaniem środków tego funduszu – na dofinansowanie programów lub projektów z zakresu ochrony środowiska, w tym kosztów związanych z przekazaniem środków na dochody budżetu państwa w celu dofinansowania zadań realizowanych przez państwowe jednostki budżetowe, obejmujących realizację tych programów lub projektów. ” ;
     - **a)**
     - **b)**
 
@@ -69,8 +68,11 @@ source: "eli-html"
 
 2. Niewykorzystane w terminie określonym umową sprzedaży jednostek przyznanej emisji środki, o których mowa w art. 22 ust. 1, są, jeżeli wynika to z zawartej umowy, zwracane na wskazany w tej umowie rachunek bankowy. ” ;
 
-- **6)** w art. 24: w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) regulaminu naboru wniosków o udzielenie dofinansowania ze środków zgromadzonych na Rachunku klimatycznym oraz jego zmian; ” , – w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „ 3) list kosztów, o których mowa w art. 31a ust. 1 i art. 31b ust. 2. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+- **6)** w art. 24: w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** regulaminu naboru wniosków o udzielenie dofinansowania ze środków zgromadzonych na Rachunku klimatycznym oraz jego zmian; ” , w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **3)** list kosztów, o których mowa w art. 31a ust. 1 i art. 31b ust. 2. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
     - **b)**
 
 3a. Rada Konsultacyjna przy opiniowaniu list kosztów, o których mowa w art. 31a ust. 1 i art. 31b ust. 2, bierze pod uwagę obszary, o których mowa w art. 22 ust. 2, oraz rodzaje programów lub projektów, określone w przepisach wydanych na podstawie art. 22 ust. 3. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
@@ -79,8 +81,17 @@ source: "eli-html"
 
 5a. W pracach Rady Konsultacyjnej bierze udział, w charakterze obserwatora, bez prawa głosu, przedstawiciel Krajowego operatora systemu zielonych inwestycji. ” ;
 
-- **7)** w art. 25: w ust. 2: – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) przedkładanie ministrowi właściwemu do spraw środowiska list kosztów wstępnie zakwalifikowanych do refinansowania ze środków zgromadzonych na Rachunku klimatycznym wraz ze wskazaniem programów lub projektów, których dotyczą te koszty; ” , – uchyla się pkt 7, – po pkt 7 dodaje się pkt 7a w brzmieniu: „ 7a) monitorowanie: a) osiągniętych efektów związanych z uniknięciem lub redukcją emisji gazów cieplarnianych w ramach Krajowego systemu zielonych inwestycji, b) wydatkowania przez beneficjentów środków uzyskanych z Rachunku klimatycznego oraz postępów w realizacji programów lub projektów dofinansowanych ze środków zgromadzonych na Rachunku klimatycznym; ” , – pkt 8 otrzymuje brzmienie: „ 8) prowadzenie wykazu programów lub projektów dofinansowanych: a) ze środków zgromadzonych na Rachunku klimatycznym, b) z innych środków Narodowego Funduszu lub środków wojewódzkiego funduszu, w odniesieniu do których koszty związane z ich przeznaczaniem refinansowano ze środków zgromadzonych na Rachunku klimatycznym; ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **7)** w art. 25: w ust. 2: po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **a)**
+
+- **2a)** przedkładanie ministrowi właściwemu do spraw środowiska list kosztów wstępnie zakwalifikowanych do refinansowania ze środków zgromadzonych na Rachunku klimatycznym wraz ze wskazaniem programów lub projektów, których dotyczą te koszty; ” , – uchyla się pkt 7, po pkt 7 dodaje się pkt 7a w brzmieniu: „
+- **7a)** monitorowanie: osiągniętych efektów związanych z uniknięciem lub redukcją emisji gazów cieplarnianych w ramach Krajowego systemu zielonych inwestycji, wydatkowania przez beneficjentów środków uzyskanych z Rachunku klimatycznego oraz postępów w realizacji programów lub projektów dofinansowanych ze środków zgromadzonych na Rachunku klimatycznym; ” , pkt 8 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **8)** prowadzenie wykazu programów lub projektów dofinansowanych: ze środków zgromadzonych na Rachunku klimatycznym, z innych środków Narodowego Funduszu lub środków wojewódzkiego funduszu, w odniesieniu do których koszty związane z ich przeznaczaniem refinansowano ze środków zgromadzonych na Rachunku klimatycznym; ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **a)**
+    - **b)**
     - **b)**
 
 2a. Monitorowaniem, o którym mowa w ust. 2 pkt 7a lit. a, obejmuje się okres do 5 lat kalendarzowych następujących po roku, w którym zakończono realizację programu lub projektu. ” ;
@@ -202,13 +213,16 @@ source: "eli-html"
 
 4. Minister właściwy do spraw środowiska może określić, w drodze rozporządzenia, szczegółowe warunki, jakie powinny spełniać projekty wspólnych wdrożeń oraz projekty mechanizmu czystego rozwoju, dotyczące obiektów hydroenergetycznych o mocy powyżej 20 MW w trakcie ich realizacji, a także kryteria ich oceny oraz formularz sprawozdania potwierdzającego spełnienie tych wymogów, kierując się potrzebą zapewnienia odpowiedniej jakości osiąganych przez te projekty efektów środowiskowych oraz harmonizacji ich oceny. ” ;
 
-- **19)** w art. 40: w ust. 7: – w pkt 2 lit. a otrzymuje brzmienie: „ a) akredytowaną niezależną jednostkę lub jednostkę uprawnioną, o której mowa w ust. 9, jeżeli wybrana została ścieżka pierwsza, albo ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) oświadczenie i raport, o których mowa w ust. 5 pkt 1 i 2, w przypadku projektu, o którym mowa w art. 38 ust. 1a. ” , dodaje się ust. 9–11 w brzmieniu: „
+- **19)** w art. 40: w ust. 7: w pkt 2 lit. a otrzymuje brzmienie: „ akredytowaną niezależną jednostkę lub jednostkę uprawnioną, o której mowa w ust. 9, jeżeli wybrana została ścieżka pierwsza, albo ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
     - **a)**
+    - **a)**
+
+- **5)** oświadczenie i raport, o których mowa w ust. 5 pkt 1 i 2, w przypadku projektu, o którym mowa w art. 38 ust. 1a. ” , dodaje się ust. 9–11 w brzmieniu: „
     - **b)**
 
-9. Jednostkę uprawnioną do weryfikacji raportów dotyczących osiągniętych efektów związanych z redukcją emisji gazów cieplarnianych w ramach projektów wspólnych wdrożeń oraz sporządzania raportu, o którym mowa w ust. 7 pkt 2, akredytuje Centrum Akredytacji, o którym mowa w art. 25 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2010 r. Nr 138, poz. 935, z późn. zm.), w trybie przepisów tej ustawy.
+9. Jednostkę uprawnioną do weryfikacji raportów dotyczących osiągniętych efektów związanych z redukcją emisji gazów cieplarnianych w ramach projektów wspólnych wdrożeń oraz sporządzania raportu, o którym mowa w ust. 7 pkt 2, akredytuje Centrum Akredytacji, o którym mowa w art. 25 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2010 r. Nr 138, poz. 935, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 586 i Nr 227, poz. 1367 oraz z 2012 r. poz. 1529.), w trybie przepisów tej ustawy.
 
-10. Jednostka uprawniona, o której mowa w ust. 9, zapewnia przeprowadzenie weryfikacji i sporządzenie raportu, o którym mowa w ust. 7 pkt 2, przez osobę, która posiada wykształcenie wyższe na poziomie studiów drugiego stopnia w obszarach wiedzy: nauk przyrodniczych, nauk technicznych oraz nauk społecznych w dziedzinie nauk ekonomicznych, określonych w przepisach wydanych na podstawie art. 3 ust. 1 ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. Nr 65, poz. 595, z późn. zm.), oraz spełnia przynajmniej jeden z następujących warunków:
+10. Jednostka uprawniona, o której mowa w ust. 9, zapewnia przeprowadzenie weryfikacji i sporządzenie raportu, o którym mowa w ust. 7 pkt 2, przez osobę, która posiada wykształcenie wyższe na poziomie studiów drugiego stopnia w obszarach wiedzy: nauk przyrodniczych, nauk technicznych oraz nauk społecznych w dziedzinie nauk ekonomicznych, określonych w przepisach wydanych na podstawie art. 3 ust. 1 ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. Nr 65, poz. 595, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 164, poz. 1365, z 2010 r. Nr 96, poz. 620 i Nr 182, poz. 1228 oraz z 2011 r. Nr 84, poz. 455.), oraz spełnia przynajmniej jeden z następujących warunków:
 
 - **1)** posiada co najmniej czteroletnie doświadczenie zawodowe związane z wykonywaniem czynności w przynajmniej jednym z następujących zakresów: nadzór lub kontrola procesów i urządzeń technologicznych z uwzględnieniem wymogów ochrony środowiska, wdrażanie systemów ekozarządzania oraz weryfikacja danych i raportów dotyczących środowiska, zarządzanie lub bilansowanie emisji, w tym monitorowanie, raportowanie i weryfikacja redukcji emisji gazów cieplarnianych, ocena dokumentacji projektowej, w tym wyznaczanie poziomów bazowych i wartości wskaźników emisji oraz określanie redukcji emisji gazów cieplarnianych;
     - **a)**
@@ -261,7 +275,7 @@ source: "eli-html"
 
 3. Kopię decyzji udzielającej zgody lub decyzji odmawiającej jej udzielenia minister właściwy do spraw środowiska przekazuje Krajowemu ośrodkowi w terminie 14 dni od dnia ich wydania. ” .
 
-**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657, z 2011 r. Nr 32, poz. 159, Nr 63, poz. 322, Nr 94, poz. 551, Nr 99, poz. 569, Nr 122, poz. 695, Nr 152, poz. 897, Nr 178, poz. 1060 i Nr 224, poz. 1341, z 2012 r. poz. 460, 951, 1342 i 1513 oraz z 2013 r. poz. 21.) wprowadza się następujące zmiany:
 
 - **1)** w art. 400b dodaje się ust. 4 i 5 w brzmieniu: „
 
@@ -272,9 +286,13 @@ source: "eli-html"
 - **2)** w art. 401d: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Przychodami Narodowego Funduszu są także wpływy pochodzące ze sprzedaży jednostek Kioto, o których mowa w art. 19a ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wpływy pochodzące ze sprzedaży jednostek przyznanej emisji gromadzone na Rachunku klimatycznym, o którym mowa w art. 23 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, pomniejszone o koszty ich obsługi, przeznacza się na: ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) refinansowanie: a) Narodowemu Funduszowi kosztów związanych z przeznaczaniem innych środków niż wymienione w ust. 1, b) wojewódzkiemu funduszowi kosztów związanych z przeznaczaniem środków – na dofinansowanie programów lub projektów w obszarach, o których mowa w art. 22 ust. 2 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, w tym kosztów związanych z przekazaniem środków na dochody budżetu państwa w celu dofinansowania zadań realizowanych przez państwowe jednostki budżetowe, obejmujących realizację tych programów lub projektów; ” ;
+1. Przychodami Narodowego Funduszu są także wpływy pochodzące ze sprzedaży jednostek Kioto, o których mowa w art. 19a ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wpływy pochodzące ze sprzedaży jednostek przyznanej emisji gromadzone na Rachunku klimatycznym, o którym mowa w art. 23 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, pomniejszone o koszty ich obsługi, przeznacza się na: ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
 
 - **b)**
+- **1a)** refinansowanie: Narodowemu Funduszowi kosztów związanych z przeznaczaniem innych środków niż wymienione w ust. 1, wojewódzkiemu funduszowi kosztów związanych z przeznaczaniem środków – na dofinansowanie programów lub projektów w obszarach, o których mowa w art. 22 ust. 2 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, w tym kosztów związanych z przekazaniem środków na dochody budżetu państwa w celu dofinansowania zadań realizowanych przez państwowe jednostki budżetowe, obejmujących realizację tych programów lub projektów; ” ;
+    - **a)**
+    - **b)**
+
 - **3)** w art. 410e: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Środki Narodowego Funduszu niebędące przychodami, o których mowa w art. 401 ust. 7, oraz niebędące wpływami pochodzącymi ze sprzedaży jednostek przyznanej emisji gromadzonymi na Rachunku klimatycznym, o którym mowa w art. 23 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, można także przeznaczać, za zgodą ministra właściwego do spraw środowiska, na: ” , ust. 3 otrzymuje brzmienie: „
     - **a)**
     - **b)**
@@ -291,5 +309,5 @@ source: "eli-html"
 
 **Art. 5.** Jednostki uprawnione do weryfikacji raportów, którym udzielono akredytacji do dnia wejścia w życie ustawy, stają się jednostkami uprawnionymi, o których mowa w art. 40 ust. 9 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 215, poz. 1664, z 2010 r. Nr 249, poz. 1657, z 2011 r. Nr 122, poz. 695 oraz z 2012 r. poz. 460 i 951. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 586 i Nr 227, poz. 1367 oraz z 2012 r. poz. 1529. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 164, poz. 1365, z 2010 r. Nr 96, poz. 620 i Nr 182, poz. 1228 oraz z 2011 r. Nr 84, poz. 455. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657, z 2011 r. Nr 32, poz. 159, Nr 63, poz. 322, Nr 94, poz. 551, Nr 99, poz. 569, Nr 122, poz. 695, Nr 152, poz. 897, Nr 178, poz. 1060 i Nr 224, poz. 1341, z 2012 r. poz. 460, 951, 1342 i 1513 oraz z 2013 r. poz. 21.
 

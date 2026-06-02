@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 29 października 2010 r. o zmianie ustawy o zarządzaniu kryzysowym
+# Ustawa z dnia 29 października 2010 r. o zmianie ustawy o zarządzaniu kryzysowym Niniejsza ustawa dokonuje transpozycji dyrektywy Rady 2008/114/WE z dnia 8 grudnia 2008 r. w sprawie rozpoznawania i wyznaczania europejskiej infrastruktury krytycznej oraz oceny potrzeb w zakresie poprawy jej ochrony (Dz. Urz. UE L 345 z 23.12.2008, str. 75).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-10-29 |
 | Data wydania | 2010-12-21 |
-| Wejście w życie | 2011-01-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102401600) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1600/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. Nr 89, poz. 590, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. Nr 89, poz. 590, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 11, poz. 59, Nr 65, poz. 553, Nr 85, poz. 716 i Nr 131, poz. 1076.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3: pkt 2 otrzymuje brzmienie: „
     - **a)**
@@ -96,5 +95,5 @@ source: "eli-html"
 - **5)** w art. 14 w ust. 6 pkt 10 otrzymuje brzmienie: „
 - **10)** gromadzenie i przetwarzanie informacji dotyczących infrastruktury krytycznej zlokalizowanej na terenie województwa; ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje transpozycji dyrektywy Rady 2008/114/WE z dnia 8 grudnia 2008 r. w sprawie rozpoznawania i wyznaczania europejskiej infrastruktury krytycznej oraz oceny potrzeb w zakresie poprawy jej ochrony (Dz. Urz. UE L 345 z 23.12.2008, str. 75). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 11, poz. 59, Nr 65, poz. 553, Nr 85, poz. 716 i Nr 131, poz. 1076.
 

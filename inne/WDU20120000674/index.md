@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-06-08 |
 | Data wydania | 2012-06-15 |
-| Wejście w życie | 2012-06-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000674) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/674/text.pdf) |
 
@@ -74,7 +73,7 @@ Stawki opłaty prowizyjnej od poręczenia lub gwarancji udzielanych pod warunkie
 Opłaty prowizyjne, o których mowa w § 2–5, są pobierane jednorazowo.
 § 7.
 1.
-Opłata prowizyjna w wysokości odpowiadającej wynagrodzeniu rynkowemu od poręczeń i gwarancji, o których mowa w art. 3 ust. 4, 5 lub 6 ustawy, niestanowiących pomocy publicznej zgodnie ze stanowiskiem Komisji Europejskiej pobierana jest corocznie, według stawek określonych w skali roku w załączniku do rozporządzenia, z zastrzeżeniem ust. 4–8.
+Opłata prowizyjna w wysokości odpowiadającej wynagrodzeniu rynkowemu od poręczeń i gwarancji, o których mowa w art. 3 ust. 4, 5 lub 6 ustawy, niestanowiących pomocy publicznej zgodnie ze stanowiskiem Komisji EuropejskiejObwieszczenie Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. WE C 155 z 20.06.2008, str. 10). pobierana jest corocznie, według stawek określonych w skali roku w załączniku do rozporządzenia, z zastrzeżeniem ust. 4–8.
 2.
 Wysokość opłaty prowizyjnej, o której mowa w ust. 1, jest uzależniona od:
 1)
@@ -137,8 +136,30 @@ Opłata prowizyjna, o której mowa w § 7 ust. 10 i 11, jest wnoszona do dnia 31
 5.
 Opłata prowizyjna od poręczenia lub gwarancji wyrażonych w walutach obcych jest wnoszona w równowartości kwoty tej opłaty w złotych polskich, przeliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski, opublikowanego i obowiązującego w dniu wniesienia opłaty.
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Obwieszczenie Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. WE C 155 z 20.06.2008, str. 10). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 19 maja 2009 r. w sprawie udzielania przez Skarb Państwa poręczenia i gwarancji oraz opłaty prowizyjnej od poręczenia i gwarancji (Dz. U. Nr 77, poz. 650), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 93 ust. 1 ustawy z dnia 25 marca 2011 r. o ograniczaniu barier administracyjnych dla obywateli i przedsiębiorców (Dz. U. Nr 106, poz. 622, Nr 131, poz. 764, Nr 133, poz. 767 i Nr 187, poz. 1110).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 19 maja 2009 r. w sprawie udzielania przez Skarb Państwa poręczenia i gwarancji oraz opłaty prowizyjnej od poręczenia i gwarancji (Dz. U. Nr 77, poz. 650), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 93 ust. 1 ustawy z dnia 25 marca 2011 r. o ograniczaniu barier administracyjnych dla obywateli i przedsiębiorców (Dz. U. Nr 106, poz. 622, Nr 131, poz. 764, Nr 133, poz. 767 i Nr 187, poz. 1110). 1) Obwieszczenie Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. WE C 155 z 20.06.2008, str. 10). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 19 maja 2009 r. w sprawie udzielania przez Skarb Państwa poręczenia i gwarancji oraz opłaty prowizyjnej od poręczenia i gwarancji (Dz. U. Nr 77, poz. 650), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 93 ust. 1 ustawy z dnia 25 marca 2011 r. o ograniczaniu barier administracyjnych dla obywateli i przedsiębiorców (Dz. U. Nr 106, poz. 622, Nr 131, poz. 764, Nr 133, poz. 767 i Nr 187, poz. 1110).
 Załącznik – Tabela minimalnych stawek opłat prowizyjnych odpowiadających wynagrodzeniu rynkowemu od poręczeń i gwarancji
-Standard & Poor's Co. Fitch Ratings Ltd. Moody's Investors Service Inc. Odpowiadające wynagrodzeniu rynkowemu stawki opłaty prowizyjnej od poręczenia lub gwarancji w skali roku w zależności od okresu obowiązywania poręczenia lub gwarancji Okres obowiązywania poręczenia lub gwarancji – – – do 5 lat 5–10 lat 10–15 lat pow. 15 lat Najwyższa zdolność do spłaty zobowiązań Kategoria ratingowa 0,4% 0,5% 0,6% 0,7% AAA AAA Aaa Bardzo wysoka zdolność do spłaty zobowiązań AA +AAAA – AA +AAAA – Aa 1Aa 2 0,5% 0,6% 0,7% 0,8% Wysoka zdolność do spłaty zobowiązań A +AA – A +AA – A 1A 2A 3 0,6% 0,7% 0,8% 0,9% Odpowiednia zdolność do spłaty zobowiązań BBB +BBBBBB BBB +BBBBBB Baa 1Baa 2Baa 3 0,9% 1,0% 1,1% 1,2% Wrażliwa na niekorzystne warunki zdolność do spłaty zobowiązań BB +BBBB BB +BBBB Ba 1Ba 2Ba 3 2,0% 2,2% 2,4% 2,6%
+Standard & Poor's Co. Fitch Ratings Ltd. Moody's Investors Service Inc. Odpowiadające wynagrodzeniu rynkowemu stawki opłaty prowizyjnej od poręczenia lub gwarancji w skali roku w zależności od okresu obowiązywania poręczenia lub gwarancji Okres obowiązywania poręczenia lub gwarancji – – – do 5 lat 5–10 lat 10–15 lat pow. 15 lat Najwyższa zdolność do spłaty zobowiązań Kategoria ratingowa 0,4% 0,5% 0,6% 0,7% AAA AAA Aaa Bardzo wysoka zdolność do spłaty zobowiązań AA +
+AA
+AA – AA +
+AA
+AA – Aa 1
+Aa 2 0,5% 0,6% 0,7% 0,8% Wysoka zdolność do spłaty zobowiązań A +
+A
+A – A +
+A
+A – A 1
+A 2
+A 3 0,6% 0,7% 0,8% 0,9% Odpowiednia zdolność do spłaty zobowiązań BBB +
+BBB
+BBB BBB +
+BBB
+BBB Baa 1
+Baa 2
+Baa 3 0,9% 1,0% 1,1% 1,2% Wrażliwa na niekorzystne warunki zdolność do spłaty zobowiązań BB +
+BB
+BB BB +
+BB
+BB Ba 1
+Ba 2
+Ba 3 2,0% 2,2% 2,4% 2,6%
 

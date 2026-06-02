@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Zagra Nicznychz dnia 21 grudnia 2022 r. zmieniające rozporządzenie w sprawie wydawania wiz krajowych cudzoziemcom przebywającym na terytorium Rzeczypospolitej Polskiej
+# Rozporządzenie Ministra Spraw Zagra Nicznychz dnia 21 grudnia 2022 r. zmieniające rozporządzenie w sprawie wydawania wiz krajowych cudzoziemcom przebywającym na terytorium Rzeczypospolitej Polskiej Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 1469).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-21 |
 | Data wydania | 2022-12-27 |
-| Wejście w życie | 2022-12-28 |
 | Ostatnia zmiana | 2025-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002760) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2760/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 79a ust. 6 i 7 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 79a ust. 6 i 7 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 91, 583, 830, 835, 1383, 1561 i 2185.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Spraw Zagranicznych z dnia 18 sierpnia 2022 r. w sprawie wydawania wiz krajowych cudzoziemcom przebywającym na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 1809) wprowadza się następujące zmiany:
 1)
@@ -35,8 +34,7 @@ w § 2 wyrazy „W okresie do dnia 31 grudnia 2022 r.” zastępuje się wyrazam
 2)
 w § 4:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
 Wniosek do ministra właściwego do spraw zagranicznych może złożyć obywatel Republiki Białorusi ubiegający się o wydanie wizy krajowej w celu, o którym mowa w art. 60 ust. 1 pkt 23 ustawy, który:
 1)
@@ -48,17 +46,13 @@ przybył na terytorium Rzeczypospolitej Polskiej w okresie od dnia 24 lutego 202
 b)
 bezpośrednio przed dniem 24 lutego 2022 r. legalnie przebywał na terytorium Ukrainy, albo
 3)
-wjechał na terytorium Rzeczypospolitej Polskiej na podstawie wizy krajowej z adnotacją „Poland Business Harbour”.
-” ,
+wjechał na terytorium Rzeczypospolitej Polskiej na podstawie wizy krajowej z adnotacją „Poland Business Harbour”. ” ,
 b)
-po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Wniosek do ministra właściwego do spraw zagranicznych może także złożyć obywatel Ukrainy ubiegający się o wydanie wizy krajowej w celu, o którym mowa w art. 60 ust. 1 pkt 23 ustawy, który spełnia warunek określony w ust. 1 pkt 3.
-” .
+Wniosek do ministra właściwego do spraw zagranicznych może także złożyć obywatel Ukrainy ubiegający się o wydanie wizy krajowej w celu, o którym mowa w art. 60 ust. 1 pkt 23 ustawy, który spełnia warunek określony w ust. 1 pkt 3. ” .
 § 2.
 Do postępowań o wydanie wizy wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 1469). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 91, 583, 830, 835, 1383, 1561 i 2185.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 1469). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 91, 583, 830, 835, 1383, 1561 i 2185.
 

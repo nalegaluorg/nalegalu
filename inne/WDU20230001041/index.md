@@ -29,8 +29,8 @@ source: "isap-pdf"
 zmieniające rozporządzenie sprawie listy czynników alarmowych, rejestrów szpitalnych i czynników alarmowych oraz raportów o bieżącej sytuacji epidemiologicznej szpitala Na podstawie art. 14 ust. 7 ustawy dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu i chorób zakaźnych u ludzi (Dz. U. 2022 r. poz. 1657, późn. zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Zdrowia dnia 23 grudnia 2011 r. sprawie listy czynników alarmowych, rejestrów szpitalnych i czynników alarmowych oraz raportów o bieżącej sytuacji epidemiologicznej szpitala (Dz. U. 2021 r.
 poz. 240) wprowadza się następujące zmiany:
 1) § 5 otrzymuje brzmienie: „§ 5. 1. Raporty o bieżącej sytuacji epidemiologicznej szpitala obejmują:
-1) r aport wstępny o podejrzeniu lub wystąpieniu ogniska epidemicznego, którego wzór jest określony załączniku nr 2 rozporządzenia,
-2) r aport końcowy wygaszenia ogniska epidemicznego, którego wzór jest określony załączniku nr 3 rozporządzenia,
+1) raport wstępny o podejrzeniu lub wystąpieniu ogniska epidemicznego, którego wzór jest określony załączniku nr 2 rozporządzenia,
+2) raport końcowy wygaszenia ogniska epidemicznego, którego wzór jest określony załączniku nr 3 rozporządzenia,
 3) raport okresowy obejmujący okres nie dłuższy niż rok kalendarzowy, którego wzór jest określony załączniku nr 4 rozporządzenia,
 4) raport miesięczny, którego wzór jest określony załączniku nr 5 sporządzane formie papierowej lub elektronicznej.
 2. Kierownik przekazuje urzędu właściwemu państwowemu inspektorowi sanitarnemu:

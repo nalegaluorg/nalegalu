@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-10 |
 | Data wydania | 2017-03-28 |
-| Wejście w życie | 2017-04-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000653) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/653/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. poz. 253 i 541, z 1991 r. poz. 151, z 1992 r. poz. 20, z 1993 r. poz. 180, z 1994 r. poz. 3 i 285, z 1996 r. poz. 102 i 496, z 1997 r. poz. 43, z 2002 r. poz. 1271 oraz z 2004 r. poz. 1492.) wprowadza się następujące zmiany:
 
 - **1)** w art. 18: w ust. 2 po wyrazie „Uwłaszczeniową” dodaje się wyrazy „, zwaną dalej „Komisją”,”, po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **a)**
@@ -75,7 +74,7 @@ source: "eli-html"
 
 5. Koszty wynagrodzeń członków Komisji, koszty obsługi organizacyjnej Komisji oraz zwrot kosztów i diet, o których mowa w ust. 4, są pokrywane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw administracji publicznej.
 
-1. Członkowie Komisji są obowiązani do złożenia oświadczenia o swoim stanie majątkowym na zasadach określonych w ustawie z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2006 r. poz. 1584, z późn. zm.).
+1. Członkowie Komisji są obowiązani do złożenia oświadczenia o swoim stanie majątkowym na zasadach określonych w ustawie z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2006 r. poz. 1584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. poz. 1458, z 2009 r. poz. 1375, z 2010 r. poz. 1228, z 2015 r. poz. 1635 oraz z 2016 r. poz. 1202, 1948, 2074, 2103, 2260 i 2261.).
 
 2. Członkowie Komisji składają oświadczenie o stanie majątkowym ministrowi właściwemu do spraw administracji publicznej, który dokonuje analizy zawartych w nim danych. ” .
 
@@ -104,5 +103,5 @@ source: "eli-html"
 
 5. Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia, wysokość zmniejszonych miesięcznych wynagrodzeń ryczałtowych przysługujących członkom Krajowej Komisji Uwłaszczeniowej oraz okres, w którym te wynagrodzenia przysługują w zmniejszonej wysokości, biorąc pod uwagę zapewnienie właściwego funkcjonowania tego organu.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. poz. 253 i 541, z 1991 r. poz. 151, z 1992 r. poz. 20, z 1993 r. poz. 180, z 1994 r. poz. 3 i 285, z 1996 r. poz. 102 i 496, z 1997 r. poz. 43, z 2002 r. poz. 1271 oraz z 2004 r. poz. 1492. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. poz. 1458, z 2009 r. poz. 1375, z 2010 r. poz. 1228, z 2015 r. poz. 1635 oraz z 2016 r. poz. 1202, 1948, 2074, 2103, 2260 i 2261.
 

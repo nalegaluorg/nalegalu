@@ -31,14 +31,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2015 r. poz. 1484) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie powołania Międzyresortowej Komisji do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy (Dz. U. Nr 225, poz. 1490), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Prezesa Rady Ministrów z dnia 10 września 2014 r. zmieniającym rozporządzenie w sprawie powołania Międzyresortowej Komisji do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy (Dz. U. poz. 1247).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 września 2014 r. zmieniającego rozporządzenie w sprawie powołania Międzyresortowej Komisji do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy (Dz. U. poz. 1247), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 września 2014 r. zmieniającego rozporządzenie w sprawie powołania Międzyresortowej Komisji do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy (Dz. U. poz. 1247), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie powołania Międzyresortowej Komisji do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy
-Na podstawie art. 228 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.) zarządza się, co następuje:
-§ 1.
+Na podstawie art. 228 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662 oraz z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735.) zarządza się, co następuje:
+§ 1W brzmieniu ustalonym przez § 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 września 2014 r. zmieniającego rozporządzenie w sprawie powołania Międzyresortowej Komisji do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy (Dz. U. poz. 1247), które weszło w życie z dniem 7 października 2014 r..
 Powołuje się Międzyresortową Komisję do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy, zwaną dalej „Komisją”, w składzie:
 1)
 Danuta Koradecka, Centralny Instytut Ochrony Pracy – Państwowy Instytut Badawczy – przewodniczący;
@@ -129,5 +127,5 @@ Wydatki związane z posiedzeniami Komisji, a także wydatki związane z opracowy
 § 7.
 Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 13 października 2003 r. w sprawie powołania Międzyresortowej Komisji do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy (Dz. U. Nr 178, poz. 1740 oraz z 2006 r. Nr 182, poz. 1339).
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 22 grudnia 2008 r.. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662 oraz z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735. 2) W brzmieniu ustalonym przez § 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 września 2014 r. zmieniającego rozporządzenie w sprawie powołania Międzyresortowej Komisji do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy (Dz. U. poz. 1247), które weszło w życie z dniem 7 października 2014 r. 3) Rozporządzenie zostało ogłoszone w dniu 22 grudnia 2008 r.
 

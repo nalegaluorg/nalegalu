@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 6 września 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 3. Wspieranie wdrażania Wspólnej Polityki Rybołówstwa, zawartego w Programie Operacyjnym „Rybactwo i Morze”
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 6 września 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 3. Wspieranie wdrażania Wspólnej Polityki Rybołówstwa, zawartego w Programie Operacyjnym „Rybactwo i Morze” Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-06 |
 | Data wydania | 2016-09-09 |
-| Wejście w życie | 2016-09-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001437) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1437/text.pdf) |
 
@@ -31,7 +30,7 @@ Załącznik – Dokumenty potwierdzające dane zawarte we wniosku o dofinansowan
 Treść rozporządzenia
 Na podstawie art. 24 ust. 1 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. poz. 1358 oraz z 2016 r. poz. 1203) zarządza się, co następuje:
 § 1.
-Rozporządzenie określa szczegółowe warunki i tryb przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań kontrola i egzekwowanie, o których mowa w art. 76 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 508/2014”, oraz gromadzenie danych, o którym mowa w art. 77 rozporządzenia nr 508/2014, objętych Priorytetem 3. Wspieranie wdrażania Wspólnej Polityki Rybołówstwa, zawartych w Programie Operacyjnym „Rybactwo i Morze”, zwanym dalej „programem”, oraz wysokość stawek tej pomocy, w tym:
+Rozporządzenie określa szczegółowe warunki i tryb przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań kontrola i egzekwowanie, o których mowa w art. 76 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43 oraz Dz. Urz. UE L 169 z 28.06.2016, str. 18., zwanego dalej „rozporządzeniem nr 508/2014”, oraz gromadzenie danych, o którym mowa w art. 77 rozporządzenia nr 508/2014, objętych Priorytetem 3. Wspieranie wdrażania Wspólnej Polityki Rybołówstwa, zawartych w Programie Operacyjnym „Rybactwo i Morze”, zwanym dalej „programem”, oraz wysokość stawek tej pomocy, w tym:
 1)
 szczegółowe wymagania, jakim powinny odpowiadać wnioski o dofinansowanie i wnioski o płatność, oraz tryb składania tych wniosków;
 2)
@@ -64,7 +63,7 @@ spełniają wymagania określone w programie w zakresie zapewnienia osiągnięci
 2)
 zgodnie z przepisami o zamówieniach publicznych – w przypadku gdy przepisy te mają zastosowanie.
 § 3.
-Operacje, o których mowa w art. 76 ust. 2 i art. 77 ust. 2 rozporządzenia nr 508/2014, nie kwalifikują się do dofinansowania w przypadku, o którym mowa w art. 65 ust. 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), zwanego dalej „rozporządzeniem nr 1303/2013”.
+Operacje, o których mowa w art. 76 ust. 2 i art. 77 ust. 2 rozporządzenia nr 508/2014, nie kwalifikują się do dofinansowania w przypadku, o którym mowa w art. 65 ust. 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1 oraz Dz. Urz. UE L 200 z 26.07.2016, str. 140., zwanego dalej „rozporządzeniem nr 1303/2013”.
 § 4.
 Pomoc finansową na realizację operacji, o których mowa w art. 76 ust. 2 i art. 77 ust. 2 rozporządzenia nr 508/2014, przyznaje się w formie zwrotu poniesionych kosztów kwalifikowalnych w wysokości 100% tych kosztów.
 § 5.
@@ -78,8 +77,7 @@ okręgowemu inspektorowi rybołówstwa morskiego na realizację operacji, o któ
 c)
 Państwowej Straży Rybackiej na realizację operacji, o których mowa w art. 76 ust. 2 lit. f oraz j rozporządzenia nr 508/2014,
 2)
-art. 77 ust. 2 rozporządzenia nr 508/2014, przyznaje się państwowemu instytutowi badawczemu albo instytutowi naukowemu wskazanemu w przepisach wydanych na podstawie art. 73 ust. 2 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2015 r. poz. 222)
-zwanych dalej „wnioskodawcami”.
+art. 77 ust. 2 rozporządzenia nr 508/2014, przyznaje się państwowemu instytutowi badawczemu albo instytutowi naukowemu wskazanemu w przepisach wydanych na podstawie art. 73 ust. 2 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2015 r. poz. 222) – zwanych dalej „wnioskodawcami”.
 § 6.
 1.
 Do kosztów kwalifikowalnych operacji, o których mowa w art. 76 ust. 2 i art. 77 ust. 2 rozporządzenia nr 508/2014, zalicza się koszty realizacji tych operacji, w tym także podatek od towarów i usług (VAT), na zasadach określonych w art. 69 ust. 3 lit. c rozporządzenia nr 1303/2013, faktycznie poniesione od dnia złożenia wniosku o dofinansowanie.
@@ -122,7 +120,7 @@ sprzętu komputerowego, podzespołów, oprogramowania oraz urządzeń telekomuni
 c)
 sprzętu komputerowego i oprogramowania, takich jak: skanery, czytniki kodów paskowych, drukarki kodów paskowych, sprzęty ważące, bazy danych, etykiety, czytniki RFID, chipy elektroniczne, smartfony, tablety, laptopy, infrastruktura teleinformatyczna do wyposażenia serwerowni, systemy elektroniczne gromadzące dane, strony internetowe, mobilne aplikacje, interaktywne kioski informacyjne w portach, umożliwiających wdrożenie systemu identyfikowalności produktów rybołówstwa i akwakultury – w przypadku operacji, o której mowa w art. 76 ust. 2 lit. c rozporządzenia nr 508/2014,
 d)
-technologii, sprzętu komputerowego i oprogramowania, umożliwiających wdrażanie programów w zakresie wymiany danych, informacji, deklaracji i powiadomień, o których mowa w art. 111 rozporządzenia Rady (WE) nr 1224/2009 z dnia 20 listopada 2009 r. ustanawiającego unijny system kontroli w celu zapewnienia przestrzegania przepisów wspólnej polityki rybołówstwa, zmieniającego rozporządzenia (WE) nr 847/96, (WE) nr 2371/2002, (WE) nr 811/2004, (WE) nr 768/2005, (WE) nr 2115/2005, (WE) nr 2166/2005, (WE) nr 388/2006, (WE) nr 509/2007, (WE) nr 676/2007, (WE) nr 1098/2007, (WE) nr 1300/2008, (WE) nr 1342/2008 i uchylającego rozporządzenia (EWG) nr 2847/93, (WE) nr 1627/94 oraz (WE) nr 1966/2006 (Dz. Urz. UE L 343 z 22.12.2009, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1224/2009”, a także analizę takich danych, informacji, deklaracji i powiadomień – w przypadku operacji, o której mowa w art. 76 ust. 2 lit. d rozporządzenia nr 508/2014;
+technologii, sprzętu komputerowego i oprogramowania, umożliwiających wdrażanie programów w zakresie wymiany danych, informacji, deklaracji i powiadomień, o których mowa w art. 111 rozporządzenia Rady (WE) nr 1224/2009 z dnia 20 listopada 2009 r. ustanawiającego unijny system kontroli w celu zapewnienia przestrzegania przepisów wspólnej polityki rybołówstwa, zmieniającego rozporządzenia (WE) nr 847/96, (WE) nr 2371/2002, (WE) nr 811/2004, (WE) nr 768/2005, (WE) nr 2115/2005, (WE) nr 2166/2005, (WE) nr 388/2006, (WE) nr 509/2007, (WE) nr 676/2007, (WE) nr 1098/2007, (WE) nr 1300/2008, (WE) nr 1342/2008 i uchylającego rozporządzenia (EWG) nr 2847/93, (WE) nr 1627/94 oraz (WE) nr 1966/2006 (Dz. Urz. UE L 343 z 22.12.2009, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 1, 22 i 86, Dz. Urz. UE L 149 z 20.05.2014, str. 1 oraz Dz. Urz. UE L 133 z 29.05.2015, str. 1., zwanego dalej „rozporządzeniem nr 1224/2009”, a także analizę takich danych, informacji, deklaracji i powiadomień – w przypadku operacji, o której mowa w art. 76 ust. 2 lit. d rozporządzenia nr 508/2014;
 2)
 zakupu, modernizacji i dopuszczenia do eksploatacji statków patrolowych, statków powietrznych, dronów i śmigłowców oraz zakupu ich wyposażenia niezbędnego do przeprowadzania kontroli rybołówstwa – w przypadku operacji, o której mowa w art. 76 ust. 2 lit. e rozporządzenia nr 508/2014;
 3)
@@ -146,8 +144,7 @@ urządzeń umożliwiających pomiar długości ryb,
 i)
 sprzętu audiowizualnego,
 j)
-środków transportu
-w przypadku operacji, o której mowa w art. 76 ust. 2 lit. f rozporządzenia nr 508/2014;
+środków transportu – w przypadku operacji, o której mowa w art. 76 ust. 2 lit. f rozporządzenia nr 508/2014;
 4)
 opracowania niestosowanych dotychczas systemów kontroli lub monitorowania rybołówstwa oraz realizacji projektów pilotażowych dotyczących kontroli rybołówstwa – w przypadku operacji, o której mowa w art. 76 ust. 2 lit. g rozporządzenia nr 508/2014;
 5)
@@ -180,8 +177,7 @@ najmu i utrzymania pomieszczeń biurowych i konferencyjnych, proporcjonalnie do 
 i)
 opłat za zużytą energię elektryczną, cieplną i gazową oraz wodę, proporcjonalnie do liczby pracowników przeprowadzających kontrolę, o której mowa w lit. a tiret pierwsze, albo do kubatury pomieszczeń zajmowanych przez tych pracowników,
 j)
-czarteru statku służącego przeprowadzaniu kontroli, o której mowa w lit. a tiret pierwsze
-w przypadku operacji, o której mowa w art. 76 ust. 2 lit. k rozporządzenia nr 508/2014;
+czarteru statku służącego przeprowadzaniu kontroli, o której mowa w lit. a tiret pierwsze – w przypadku operacji, o której mowa w art. 76 ust. 2 lit. k rozporządzenia nr 508/2014;
 9)
 wdrożenia planu działania ustanowionego zgodnie z art. 102 ust. 4 rozporządzenia nr 1224/2009, w tym poniesione koszty operacyjne związane z przygotowaniem i realizacją zadań określonych w tym planie – w przypadku operacji, o której mowa w art. 76 ust. 2 lit. I rozporządzenia nr 508/2014.
 § 9.
@@ -474,8 +470,7 @@ Wypłata pomocy następuje na podstawie umowy o dofinansowanie.
 § 28.
 Do postępowań w sprawie przyznania pomocy finansowej na realizację operacji w ramach działań kontrola i egzekwowanie, o których mowa w art. 76 rozporządzenia nr 508/2014, oraz gromadzenie danych, o których mowa w art. 77 rozporządzenia nr 508/2014, wszczętych i niezakończonych wypłatą tej pomocy przed dniem wejścia w życie rozporządzenia, stosuje się przepisy tego rozporządzenia.
 § 29.
-Rozporządzenie wchodzi w życie z dniem 9 września 2016 r.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43 oraz Dz. Urz. UE L 169 z 28.06.2016, str. 18. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1 oraz Dz. Urz. UE L 200 z 26.07.2016, str. 140. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 1, 22 i 86, Dz. Urz. UE L 149 z 20.05.2014, str. 1 oraz Dz. Urz. UE L 133 z 29.05.2015, str. 1. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 21 lipca 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 3. Wspieranie wdrażania Wspólnej Polityki Rybołówstwa, zawartego w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1122), które traci moc z dniem wejścia w życie ustawy z dnia 22 lipca 2016 r. o zmianie ustawy o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. poz. 1203).
+Rozporządzenie wchodzi w życie z dniem 9 września 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 21 lipca 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 3. Wspieranie wdrażania Wspólnej Polityki Rybołówstwa, zawartego w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1122), które traci moc z dniem wejścia w życie ustawy z dnia 22 lipca 2016 r. o zmianie ustawy o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. poz. 1203). 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43 oraz Dz. Urz. UE L 169 z 28.06.2016, str. 18. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1 oraz Dz. Urz. UE L 200 z 26.07.2016, str. 140. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 1, 22 i 86, Dz. Urz. UE L 149 z 20.05.2014, str. 1 oraz Dz. Urz. UE L 133 z 29.05.2015, str. 1. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 21 lipca 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 3. Wspieranie wdrażania Wspólnej Polityki Rybołówstwa, zawartego w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1122), które traci moc z dniem wejścia w życie ustawy z dnia 22 lipca 2016 r. o zmianie ustawy o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. poz. 1203).
 Załącznik – Dokumenty potwierdzające dane zawarte we wniosku o dofinansowanie, które dołącza się do wniosku o dofinansowanie
 1.
 W przypadku operacji realizowanej w ramach działania kontrola i egzekwowanie do wniosku o dofinansowanie dołącza się:

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-04-25 |
 | Data wydania | 2008-06-06 |
-| Wejście w życie | 2008-06-21 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080970625) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/625/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2006 r. Nr 100, poz. 696, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2006 r. Nr 100, poz. 696, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 141, poz. 1008, Nr 170, poz. 1217 i Nr 249, poz. 1829 oraz z 2007 r. Nr 50, poz. 331 i Nr 82, poz. 558.) wprowadza się następujące zmiany:
 
 - **1)** w odnośniku nr 1 do tytułu ustawy po pkt 9 dodaje się przecinek i pkt 10 w brzmieniu: „
 - **10)** dyrektywy 2004/36/WE Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie bezpieczeństwa statków powietrznych państwa trzeciego korzystających z portów lotniczych Wspólnoty (Dz. Urz. UE L 143 z 30.04.2004, str. 76, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 182, z późn. zm.). ” ;
@@ -95,5 +94,5 @@ source: "eli-html"
 - **3)** szczegółowy sposób postępowania przy wprowadzaniu czasowego zakazu wlotu, o którym mowa w art. 155a ust. 1 pkt 2, oraz warunki i sposób postępowania przy jego cofaniu;
 - **4)** szczegółowy zakres informacji, o których mowa w art. 155b ust. 1 i 4, oraz sposób ich gromadzenia. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 141, poz. 1008, Nr 170, poz. 1217 i Nr 249, poz. 1829 oraz z 2007 r. Nr 50, poz. 331 i Nr 82, poz. 558.
 

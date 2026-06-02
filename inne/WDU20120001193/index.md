@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 września 2012 r. o zmianie ustawy o kredycie konsumenckim oraz ustawy o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary
+# Ustawa z dnia 14 września 2012 r. o zmianie ustawy o kredycie konsumenckim oraz ustawy o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Komisji 2011/90/UE z dnia 14 listopada 2011 r. zmieniającej część II załącznika I do dyrektywy 2008/48/WE Parlamentu Europejskiego i Rady, zawierającą dodatkowe założenia do obliczania rzeczywistej rocznej stopy oprocentowania (Dz. Urz. UE L 296 z 15.11.2011, str. 35).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-09-14 |
 | Data wydania | 2012-10-30 |
-| Wejście w życie | 2013-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001193) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1193/text.pdf) |
 
@@ -54,5 +53,5 @@ source: "eli-html"
 
 **Art. 3.** W przypadku zmian umów o kredyt konsumencki przy obliczaniu rzeczywistej rocznej stopy oprocentowania przyjmuje się założenia dodatkowe określone w załączniku nr 4 do ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2013 r., z wyjątkiem art. 2, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2013 r., z wyjątkiem art. 2, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Komisji 2011/90/UE z dnia 14 listopada 2011 r. zmieniającej część II załącznika I do dyrektywy 2008/48/WE Parlamentu Europejskiego i Rady, zawierającą dodatkowe założenia do obliczania rzeczywistej rocznej stopy oprocentowania (Dz. Urz. UE L 296 z 15.11.2011, str. 35).
 

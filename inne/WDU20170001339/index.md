@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-26 |
 | Data wydania | 2017-07-07 |
-| Wejście w życie | 2017-07-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001339) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1339/text.pdf) |
 
@@ -33,17 +32,13 @@ W rozporządzeniu Ministra-Szefa Urzędu Rady Ministrów z dnia 9 lutego 1995 r.
 1)
 tytuł otrzymuje brzmienie: „ w sprawie nadania osobowości prawnej Zgromadzeniu Sióstr Świętej Jadwigi Królowej Służebnic Chrystusa Obecnego ” ;
 2)
-§ 1 otrzymuje brzmienie:
-„
+§ 1 otrzymuje brzmienie: „
 § 1.
-Nadaje się osobowość prawną organizacji kościelnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Zgromadzenie Sióstr Świętej Jadwigi Królowej Służebnic Chrystusa Obecnego, erygowanej przez Metropolitę Krakowskiego.
-” ;
+Nadaje się osobowość prawną organizacji kościelnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Zgromadzenie Sióstr Świętej Jadwigi Królowej Służebnic Chrystusa Obecnego, erygowanej przez Metropolitę Krakowskiego. ” ;
 3)
-po § 1 dodaje się § 1a w brzmieniu:
-„
+po § 1 dodaje się § 1a w brzmieniu: „
 § 1a.
-Siedzibą Zgromadzenia Sióstr Świętej Jadwigi Królowej Służebnic Chrystusa Obecnego jest Kraków.
-” .
+Siedzibą Zgromadzenia Sióstr Świętej Jadwigi Królowej Służebnic Chrystusa Obecnego jest Kraków. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

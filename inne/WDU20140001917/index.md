@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-17 |
 | Data wydania | 2014-12-29 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001917) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1917/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 75e ust. 12 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2014 r. poz. 635, 993 i 1778) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 9 czerwca 2009 r. w sprawie komisji egzaminacyjnej do spraw aplikacji adwokackiej oraz przeprowadzania egzaminu wstępnego (Dz. U. z 2014 r. poz. 1214) § 5 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Sprawiedliwości z dnia 9 czerwca 2009 r. w sprawie komisji egzaminacyjnej do spraw aplikacji adwokackiej oraz przeprowadzania egzaminu wstępnego (Dz. U. z 2014 r. poz. 1214) § 5 otrzymuje brzmienie: „
 § 5.
 1.
 Przewodniczący komisji kwalifikacyjnej niebędący pracownikiem administracji rządowej z tytułu każdorazowego przeprowadzenia egzaminu wstępnego otrzymuje wynagrodzenie w łącznej wysokości:
@@ -51,8 +49,7 @@ W przypadku odwołania dotychczasowego albo wygaśnięcia członkostwa, i powoł
 5.
 Członkowie komisji kwalifikacyjnej niebędący pracownikami administracji rządowej z tytułu każdorazowego przeprowadzenia egzaminu wstępnego otrzymują wynagrodzenie w wysokości 32 zł za każdego zdającego, nie mniej niż 3200 zł i nie więcej niż 6400 zł.
 6.
-Wynagrodzenia, o których mowa w ust. 1–5, wypłaca się po przeprowadzeniu egzaminu wstępnego, na pisemny wniosek przewodniczącego komisji kwalifikacyjnej lub jego zastępcy dołączony do protokołu z przebiegu egzaminu wstępnego.
-” .
+Wynagrodzenia, o których mowa w ust. 1–5, wypłaca się po przeprowadzeniu egzaminu wstępnego, na pisemny wniosek przewodniczącego komisji kwalifikacyjnej lub jego zastępcy dołączony do protokołu z przebiegu egzaminu wstępnego. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
 

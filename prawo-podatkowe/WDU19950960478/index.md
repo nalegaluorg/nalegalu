@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1995-06-08 |
 | Data wydania | 1995-08-22 |
-| Wejście w życie | 1995-10-20 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950960478) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/478/text.pdf) |
 
+Pośrednictwo ubezpieczeniowe
 1.
 Zakład ubezpieczeń może korzystać z pośrednictwa ubezpieczeniowego.
 2.
@@ -161,11 +161,11 @@ cofnięcia zezwolenia na prowadzenie działalności brokerskiej.
 1.
 Agent ubezpieczeniowy i broker przy wykonywaniu czynności zawodowych obowiązany jest działać zgodnie z przepisami prawa i zasadami uczciwego obrotu.
 2.
-Agenta ubezpieczeniowego i brokera obowiązuje tajemnica zawodowa obejmująca wszelkie informacje, jakie uzyskał w związku z prowadzeniem działalności. Przepis art. 9 stosuje się odpowiednio do agenta ubezpieczeniowego.
-” ;
+Agenta ubezpieczeniowego i brokera obowiązuje tajemnica zawodowa obejmująca wszelkie informacje, jakie uzyskał w związku z prowadzeniem działalności. Przepis art. 9 stosuje się odpowiednio do agenta ubezpieczeniowego. ” ;
 36)
-art. 38 otrzymuje brzmienie:
-„
+art. 38 otrzymuje brzmienie: „
+Ubezpieczeniowy samorząd gospodarczy
+Polskie biuro ubezpieczeń komunikacyjnych
 1.
 Zakłady ubezpieczeń, które prowadzą działalność w zakresie ubezpieczenia obowiązkowego określonego w art. 4 pkt 1, w razie objęcia zakresem tego ubezpieczenia obszarów poza granicami kraju, zrzeszają się w Polskim Biurze Ubezpieczeń Komunikacyjnych. Przynależność tych zakładów ubezpieczeń do Polskiego Biura Ubezpieczeń Komunikacyjnych jest obowiązkowa.
 2.
@@ -186,6 +186,7 @@ Działalność Polskiego Biura Ubezpieczeń Komunikacyjnych jest finansowana prz
 Polskie Biuro Ubezpieczeń Komunikacyjnych, z dniem wypłaty odszkodowania za jednego ze swoich członków, może dochodzić od niego zwrotu wypłaconego odszkodowania.
 6.
 Szczegółowe zadania, organizację i zasady działania oraz zasady gospodarki finansowej Polskiego Biura Ubezpieczeń Komunikacyjnych określa statut, uchwalany przez zakłady ubezpieczeń zrzeszone w Biurze. Organ nadzoru zatwierdza statut i jego zmiany. Minister Finansów na wniosek organu nadzoru ogłasza statut lub jego zmiany w Dzienniku Urzędowym Ministerstwa Finansów.
+Rzecznik ubezpieczonych
 1.
 Interesy ubezpieczonych i uprawnionych z umów ubezpieczenia reprezentuje Rzecznik Ubezpieczonych.
 2.
@@ -236,6 +237,7 @@ rzecznika Praw Obywatelskich.
 Rzecznik Ubezpieczonych może odwołać członka Rady po zasięgnięciu opinii podmiotu, który wskazał członka do uczestnictwa w Radzie Ubezpieczonych.
 5.
 Członkom Rady Ubezpieczonych nie przysługuje wynagrodzenie za udział w jej posiedzeniach.
+Opłaty i przepisy karne
 1.
 Osoba fizyczna lub prawna, która nie dopełnia obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 4, jest obowiązana wnieść opłatę w wysokości trzykrotnej średniej podstawowej rocznej składki ubezpieczeniowej należnej w roku kalendarzowych, za który nie dopełniła obowiązku zawarcia umowy ubezpieczenia.
 2.
@@ -271,8 +273,7 @@ Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1, działa
 1.
 Kto prowadząc działalność gospodarczą, nie będąc zakładem ubezpieczeń lub brokerem, używa w nazwie zakładu albo do określenia działalności lub w reklamie wyrazów wskazujących na działalność ubezpieczeniową lub brokerską w zakresie ubezpieczeń podlega karze pozbawienia wolności do roku, ograniczenia wolności albo grzywny.
 2.
-Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1, działając w imieniu osoby prawnej.
-” ;
+Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1, działając w imieniu osoby prawnej. ” ;
 81)
 skreśla się art. 91–94;
 82)
@@ -280,9 +281,8 @@ w art. 98 w ust. 2 skreśla się pkt 1;
 83)
 w art. 99 skreśla się wyrazy „z tym, że przepisy art. 41 i 42 wchodzą w życie z dniem 1 stycznia 1999 r.”;
 84)
-załącznik do ustawy otrzymuje brzmienie:
-„
-PODZIAŁ RYZYKA WEDŁUG DZIAŁÓW, GRUP I RODZAJÓW UBEZPIECZEŃ
+załącznik do ustawy otrzymuje brzmienie: „ PODZIAŁ RYZYKA WEDŁUG DZIAŁÓW, GRUP I RODZAJÓW UBEZPIECZEŃ
+Ubezpieczenia na życie
 1.
 Ubezpieczenia na życie.
 2.
@@ -293,6 +293,7 @@ Ubezpieczenia na życie, jeżeli są związane z funduszem inwestycyjnym.
 Ubezpieczenia rentowe.
 5.
 Ubezpieczenia wypadkowe i chorobowe, jeśli są uzupełnieniem ubezpieczeń wymienionych w grupach 1–4.
+Pozostałe ubezpieczenia osobowe oraz ubezpieczenia majątkowe
 1.
 Ubezpieczenia wypadku, w tym wypadku przy pracy i choroby zawodowej:
 1)
@@ -396,8 +397,7 @@ innych strat finansowych.
 17.
 Ubezpieczenie ochrony prawnej.
 18.
-Ubezpieczenie świadczenia pomocy na korzyść osób, które popadły w trudności w czasie podróży lub podczas nieobecności w miejscu zamieszkania.
-” .
+Ubezpieczenie świadczenia pomocy na korzyść osób, które popadły w trudności w czasie podróży lub podczas nieobecności w miejscu zamieszkania. ” .
 W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 27 czerwca 1934 r. – Kodeks handlowy (Dz. U. Nr 57, poz. 502, z 1946 r. Nr 57, poz. 321, z 1950 r. Nr 34, poz. 312, z 1964 r. Nr 16, poz. 94, z 1969 r. Nr 13, poz. 95, z 1988 r. Nr 41, poz. 326, z 1990 r. Nr 17, poz. 98 i Nr 51, poz. 298, z 1991 r. Nr 35, poz. 155, Nr 94, poz. 418 i Nr 111, poz. 480 oraz z 1994 r. Nr 121, poz. 591) w art. 310 w § 1 skreśla się wyrazy „i ubezpieczeniowymi”.
 
 **Art. 1.** W ustawie z dnia 28 lipca 1990 r. o działalności ubezpieczeniowej (Dz. U. Nr 59, poz. 344, z 1993 r. Nr 5, poz. 21 i Nr 44, poz. 201 oraz z 1994 r. Nr 4, poz. 17 i Nr 121, poz. 591) wprowadza się następujące zmiany:
@@ -714,7 +714,7 @@ W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 27 czerwca 1934 r. – Kode
 
 - **35)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Pośrednictwo ubezpieczeniowe
+#### Rozdział 3a
 
 **Art. 38.**
 
@@ -1240,7 +1240,7 @@ W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 27 czerwca 1934 r. – Kode
 
 - **79)** rozdział 10 otrzymuje brzmienie: „
 
-#### Rozdział 10 Ubezpieczeniowy samorząd gospodarczy
+#### Rozdział 10
 
 **Art. 86.**
 
@@ -1299,15 +1299,15 @@ W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 27 czerwca 1934 r. – Kode
 
 - **80)** po rozdziale 10 dodaje się rozdziały 10a, 10b i 10c w brzmieniu: „
 
-#### Rozdział 10a Polskie biuro ubezpieczeń komunikacyjnych
+#### Rozdział 10a
 
-#### Rozdział 10b Rzecznik ubezpieczonych
+#### Rozdział 10b
 
-#### Rozdział 10c Opłaty i przepisy karne
+#### Rozdział 10c
 
-### Dział I Ubezpieczenia na życie
+### Dział I
 
-### Dział II Pozostałe ubezpieczenia osobowe oraz ubezpieczenia majątkowe
+### Dział II
 
 **Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 1993 r. Nr 106, poz. 482 i Nr 134, poz. 646, z 1994 r. Nr 1, poz. 2, Nr 43, poz. 163, Nr 80, poz. 368, Nr 87, poz. 406, Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 127, poz. 627 oraz z 1995 r. Nr 5, poz. 25 i Nr 86, poz. 433) wprowadza się następujące zmiany:
 

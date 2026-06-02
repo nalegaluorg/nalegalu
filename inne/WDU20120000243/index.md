@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 27 stycznia 2012 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw
+# Ustawa z dnia 27 stycznia 2012 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu, rynku suszu paszowego oraz rynków lnu i konopi uprawianych na włókno, ustawę z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych, ustawę z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, ustawę z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz ustawę z dnia 17 lutego 2010 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-01-27 |
 | Data wydania | 2012-03-06 |
-| Wejście w życie | 2012-03-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000243) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/243/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2008 r. Nr 170, poz. 1051, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2008 r. Nr 170, poz. 1051, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1349, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 36, poz. 197 oraz z 2011 r. Nr 54, poz. 278.) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: w pkt 9: – uchyla się lit. b, – dodaje się lit. c w brzmieniu: „ c) oddzielną płatność z tytułu owoców miękkich, o której mowa w art. 129 rozporządzenia nr 73/2009; ” , uchyla się pkt 17–19, w pkt 24 kropkę zastępuje się średnikiem i dodaje się pkt 25–30 w brzmieniu: „
+- **1)** w art. 2: w pkt 9: – uchyla się lit. b, dodaje się lit. c w brzmieniu: „ oddzielną płatność z tytułu owoców miękkich, o której mowa w art. 129 rozporządzenia nr 73/2009; ” , uchyla się pkt 17–19, w pkt 24 kropkę zastępuje się średnikiem i dodaje się pkt 25–30 w brzmieniu: „
     - **a)**
+    - **c)**
     - **b)**
     - **c)**
 
@@ -53,7 +53,7 @@ source: "eli-html"
 2f. W umowie na uprawę tytoniu, o której mowa w ust. 2b pkt 3 lit. a:
 
 - **1)** rolnik niebędący członkiem grupy producentów tytoniu albo
-- **2)** grupa producentów tytoniu, w ramach umów kontraktacji zawartych z rolnikami będącymi członkami grupy zobowiązuje się do wytworzenia w rejonie uprawy tytoniu i dostarczenia pierwszemu przetwórcy surowca tytoniowego wpisanemu do rejestru pierwszych przetwórców surowca tytoniowego oznaczonej ilości surowca tytoniowego, a pierwszy przetwórca surowca tytoniowego wpisany do rejestru pierwszych przetwórców surowca tytoniowego zobowiązuje się ten surowiec odebrać w umówionym terminie i zapłacić za niego umówioną cenę.
+- **2)** grupa producentów tytoniu, w ramach umów kontraktacji zawartych z rolnikami będącymi członkami grupy – zobowiązuje się do wytworzenia w rejonie uprawy tytoniu i dostarczenia pierwszemu przetwórcy surowca tytoniowego wpisanemu do rejestru pierwszych przetwórców surowca tytoniowego oznaczonej ilości surowca tytoniowego, a pierwszy przetwórca surowca tytoniowego wpisany do rejestru pierwszych przetwórców surowca tytoniowego zobowiązuje się ten surowiec odebrać w umówionym terminie i zapłacić za niego umówioną cenę.
 
 2g. Umowa na uprawę tytoniu określa ponadto, w szczególności:
 
@@ -86,7 +86,7 @@ source: "eli-html"
 
 - **1)** bezpośredniej, płatności uzupełniającej, o której mowa w ust. 2 i 2a, specjalnej płatności obszarowej do powierzchni upraw roślin strączkowych i motylkowatych drobnonasiennych, zwanych dalej „płatnościami obszarowymi”, w danym roku kalendarzowym, ustala się jako iloczyn powierzchni kwalifikującej się do tych płatności i stawek płatności obszarowych na 1 ha tej powierzchni,
 - **2)** do krów i owiec w danym roku kalendarzowym ustala się jako iloczyn liczby zwierząt danego gatunku kwalifikujących się do płatności i stawki tej płatności za 1 sztukę zwierzęcia danego gatunku,
-- **3)** do tytoniu ustala się jako sumę płatności dla wszystkich partii surowca tytoniowego kwalifikującego się do tej płatności, zebranego w danym roku kalendarzowym przez danego rolnika, ustalonych jako iloczyn: wysokości środków finansowych określonych w przepisach wydanych na podstawie art. 17 ust. 6 pkt 2, przeznaczonych na płatności w danej grupie odmian tytoniu na dany rok kalendarzowy oraz stosunku iloczynu ceny jednostkowej i masy tytoniu w danej partii surowca tytoniowego zebranego w danym roku kalendarzowym do sumy iloczynów cen jednostkowych i masy tytoniu w poszczególnych partiach surowca tytoniowego w danej grupie odmian tytoniu, zebranego w danym roku kalendarzowym po uwzględnieniu art. 132 ust. 2 rozporządzenia nr 73/2009, zmniejszeń płatności wynikających z zastosowania modulacji zgodnie z art. 10 ust. 1 i 2 rozporządzenia nr 73/2009 oraz zmniejszeń lub wykluczeń wynikających ze stwierdzonych nieprawidłowości lub niezgodności. ” , uchyla się ust. 4a, ust. 5 otrzymuje brzmienie: „
+- **3)** do tytoniu ustala się jako sumę płatności dla wszystkich partii surowca tytoniowego kwalifikującego się do tej płatności, zebranego w danym roku kalendarzowym przez danego rolnika, ustalonych jako iloczyn: wysokości środków finansowych określonych w przepisach wydanych na podstawie art. 17 ust. 6 pkt 2, przeznaczonych na płatności w danej grupie odmian tytoniu na dany rok kalendarzowy oraz stosunku iloczynu ceny jednostkowej i masy tytoniu w danej partii surowca tytoniowego zebranego w danym roku kalendarzowym do sumy iloczynów cen jednostkowych i masy tytoniu w poszczególnych partiach surowca tytoniowego w danej grupie odmian tytoniu, zebranego w danym roku kalendarzowym – po uwzględnieniu art. 132 ust. 2 rozporządzenia nr 73/2009, zmniejszeń płatności wynikających z zastosowania modulacji zgodnie z art. 10 ust. 1 i 2 rozporządzenia nr 73/2009 oraz zmniejszeń lub wykluczeń wynikających ze stwierdzonych nieprawidłowości lub niezgodności. ” , uchyla się ust. 4a, ust. 5 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **g)**
@@ -208,8 +208,9 @@ source: "eli-html"
 
 11. Do dnia 15 kwietnia roku następującego po roku zbioru, Prezes Agencji Rynku Rolnego przekazuje Prezesowi Agencji wykaz rolników, którym wydano zaświadczenie, o którym mowa w ust. 8, wraz z numerami identyfikacyjnymi tych rolników, nadanymi na podstawie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, oraz informacją o ilości surowca tytoniowego w poszczególnych partiach surowca tytoniowego i cenie jednostkowej surowca tytoniowego w każdej z tych partii. Dyrektor oddziału terenowego Agencji Rynku Rolnego wydaje decyzję w sprawie cofnięcia zatwierdzenia punktu odbioru surowca tytoniowego, jeżeli przestały być spełniane warunki, o których mowa w art. 16j ust. 2. ” ;
 
-- **6)** w art. 17: w ust. 1: – w pkt 1 lit. c otrzymuje brzmienie: „ c) stawki wsparcia specjalnego, z wyłączeniem płatności do tytoniu, mając na względzie pułap wsparcia ustalony na podstawie art. 69 ust. 3 rozporządzenia nr 73/2009 oraz powierzchnię upraw lub liczbę zwierząt, które mogą być objęte tym wsparciem; ” , – uchyla się pkt 1a, dodaje się ust. 6 w brzmieniu: „
+- **6)** w art. 17: w ust. 1: w pkt 1 lit. c otrzymuje brzmienie: „ stawki wsparcia specjalnego, z wyłączeniem płatności do tytoniu, mając na względzie pułap wsparcia ustalony na podstawie art. 69 ust. 3 rozporządzenia nr 73/2009 oraz powierzchnię upraw lub liczbę zwierząt, które mogą być objęte tym wsparciem; ” , – uchyla się pkt 1a, dodaje się ust. 6 w brzmieniu: „
     - **a)**
+    - **c)**
     - **b)**
 
 6. Minister właściwy do spraw rynków rolnych:
@@ -234,10 +235,12 @@ source: "eli-html"
 - **8)** w art. 19: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Płatności obszarowe, płatność do krów i owiec oraz płatność do tytoniu są przyznawane w drodze decyzji. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W decyzji w sprawie przyznania płatności obszarowych, płatności do krów i owiec oraz płatności do tytoniu: ” , – pkt 2 otrzymuje brzmienie: „ 2) ustala się kwotę podlegającą odliczeniu na podstawie przepisów Unii Europejskiej, o których mowa w art. 1 pkt 1, jeżeli zachodzą przesłanki ustalenia tej kwoty określone w tych przepisach, oraz ” , – dodaje się pkt 3 w brzmieniu: „ 3) określa się zmniejszenia płatności wynikające z zastosowania modulacji, zgodnie z art. 10 ust. 1 i 2 rozporządzenia nr 73/2009. ” , ust. 3–6 otrzymują brzmienie: „
+1. Płatności obszarowe, płatność do krów i owiec oraz płatność do tytoniu są przyznawane w drodze decyzji. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W decyzji w sprawie przyznania płatności obszarowych, płatności do krów i owiec oraz płatności do tytoniu: ” , pkt 2 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **2)** ustala się kwotę podlegającą odliczeniu na podstawie przepisów Unii Europejskiej, o których mowa w art. 1 pkt 1, jeżeli zachodzą przesłanki ustalenia tej kwoty określone w tych przepisach, oraz ” , dodaje się pkt 3 w brzmieniu: „
+- **3)** określa się zmniejszenia płatności wynikające z zastosowania modulacji, zgodnie z art. 10 ust. 1 i 2 rozporządzenia nr 73/2009. ” , ust. 3–6 otrzymują brzmienie: „
+    - **c)**
 
 3. Od decyzji w sprawie przyznania płatności obszarowych, płatności do krów i owiec oraz płatności do tytoniu przysługuje odwołanie do dyrektora oddziału regionalnego Agencji.
 
@@ -262,7 +265,7 @@ source: "eli-html"
 13. W przypadku:
 
 - **1)** wszczęcia z urzędu postępowania o uchylenie decyzji, o której mowa w ust. 9, jej zmianę, stwierdzenie jej nieważności lub wygaśnięcia,
-- **2)** wznowienia z urzędu postępowania zakończonego decyzją, o której mowa w ust. 9 do zawiadomienia, o którym mowa w art. 61 § 4 Kodeksu postępowania administracyjnego, albo postanowienia, o którym mowa w art. 149 § 1 Kodeksu postępowania administracyjnego, dołącza się tę decyzję, o ile nie była ona uprzednio doręczona stronie na jej żądanie.
+- **2)** wznowienia z urzędu postępowania zakończonego decyzją, o której mowa w ust. 9 – do zawiadomienia, o którym mowa w art. 61 § 4 Kodeksu postępowania administracyjnego, albo postanowienia, o którym mowa w art. 149 § 1 Kodeksu postępowania administracyjnego, dołącza się tę decyzję, o ile nie była ona uprzednio doręczona stronie na jej żądanie.
 
 14. Kierownik biura powiatowego Agencji, o którym mowa w art. 5 ust. 2, udostępnia stronie na wniosek decyzję, o której mowa w ust. 9, o ile nie wystąpiła z żądaniem jej doręczenia.
 
@@ -281,8 +284,11 @@ source: "eli-html"
 5a. W przypadku przekazania gospodarstwa rolnego w rozumieniu art. 82 ust. 1 lit. a rozporządzenia nr 1122/2009, które zostało dokonane po dniu 31 maja roku, w którym został złożony wniosek o przyznanie jednolitej płatności obszarowej, płatności uzupełniającej, o której mowa w art. 7 ust. 2 i 2a, lub wsparcia specjalnego, płatności te lub wsparcie to przysługują przekazującemu, jeżeli są spełnione warunki do ich przyznania. ” , uchyla się ust. 7;
 
 - **c)**
-- **11)** w art. 22: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku śmierci rolnika, która nastąpiła w okresie od dnia złożenia wniosku o przyznanie jednolitej płatności obszarowej, płatności uzupełniającej, o której mowa w art. 7 ust. 2 i 2a, lub wsparcia specjalnego do dnia doręczenia decyzji w sprawie przyznania tych płatności lub tego wsparcia, płatności te lub wsparcie to przysługują spadkobiercy, jeżeli: ” , – pkt 1 otrzymuje brzmienie: „ 1) odpowiednio grunty rolne, które były objęte wnioskiem o przyznanie jednolitej płatności obszarowej, płatności uzupełniającej, o której mowa w art. 7 ust. 2 i 2a, lub specjalnej płatności obszarowej do powierzchni upraw roślin strączkowych i motylkowatych drobnonasiennych, lub zwierzęta, które były objęte wnioskiem o przyznanie płatności do krów i owiec, były w dniu 31 maja roku, w którym został złożony ten wniosek, w posiadaniu spadkodawcy lub spadkobiercy; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) przejmuje on zobowiązania wynikające z umowy na uprawę tytoniu albo umowy kontraktacji – w przypadku płatności do tytoniu; ” , uchyla się ust. 1a, ust. 2 otrzymuje brzmienie: „
+- **11)** w art. 22: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku śmierci rolnika, która nastąpiła w okresie od dnia złożenia wniosku o przyznanie jednolitej płatności obszarowej, płatności uzupełniającej, o której mowa w art. 7 ust. 2 i 2a, lub wsparcia specjalnego do dnia doręczenia decyzji w sprawie przyznania tych płatności lub tego wsparcia, płatności te lub wsparcie to przysługują spadkobiercy, jeżeli: ” , pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** odpowiednio grunty rolne, które były objęte wnioskiem o przyznanie jednolitej płatności obszarowej, płatności uzupełniającej, o której mowa w art. 7 ust. 2 i 2a, lub specjalnej płatności obszarowej do powierzchni upraw roślin strączkowych i motylkowatych drobnonasiennych, lub zwierzęta, które były objęte wnioskiem o przyznanie płatności do krów i owiec, były w dniu 31 maja roku, w którym został złożony ten wniosek, w posiadaniu spadkodawcy lub spadkobiercy; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** przejmuje on zobowiązania wynikające z umowy na uprawę tytoniu albo umowy kontraktacji – w przypadku płatności do tytoniu; ” , uchyla się ust. 1a, ust. 2 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -295,8 +301,11 @@ source: "eli-html"
 
 8. W przypadku, o którym mowa w ust. 4 pkt 2, decyzję w sprawie przyznania płatności lub wsparcia, o których mowa w ust. 1, wydaje się po złożeniu przez spadkobiercę odpisu prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku. ” ;
 
-- **12)** w art. 22a: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku rozwiązania albo przekształcenia rolnika albo wystąpienia innego zdarzenia prawnego, w wyniku których zaistniało następstwo prawne, z wyłączeniem przypadku, o którym mowa w art. 22 ust. 1, w okresie od dnia złożenia wniosku o przyznanie jednolitej płatności obszarowej, płatności uzupełniającej, o której mowa w art. 7 ust. 2 i 2a, lub wsparcia specjalnego do dnia doręczenia decyzji w sprawie przyznania tych płatności lub tego wsparcia, płatności te lub wsparcie to przysługują następcy prawnemu, jeżeli: ” , – pkt 1 otrzymuje brzmienie: „ 1) odpowiednio grunty rolne, które były objęte wnioskiem o przyznanie jednolitej płatności obszarowej, płatności uzupełniającej, o której mowa w art. 7 ust. 2 i 2a, lub specjalnej płatności obszarowej do powierzchni upraw roślin strączkowych i motylkowatych drobnonasiennych, lub zwierzęta, które były objęte wnioskiem o przyznanie płatności do krów i owiec, były w dniu 31 maja roku, w którym został złożony ten wniosek, w posiadaniu rolnika lub następcy prawnego; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) przejmuje on zobowiązania wynikające z umowy na uprawę tytoniu lub umowy kontraktacji – w przypadku płatności do tytoniu; ” , uchyla się ust. 2, ust. 3 otrzymuje brzmienie: „
+- **12)** w art. 22a: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku rozwiązania albo przekształcenia rolnika albo wystąpienia innego zdarzenia prawnego, w wyniku których zaistniało następstwo prawne, z wyłączeniem przypadku, o którym mowa w art. 22 ust. 1, w okresie od dnia złożenia wniosku o przyznanie jednolitej płatności obszarowej, płatności uzupełniającej, o której mowa w art. 7 ust. 2 i 2a, lub wsparcia specjalnego do dnia doręczenia decyzji w sprawie przyznania tych płatności lub tego wsparcia, płatności te lub wsparcie to przysługują następcy prawnemu, jeżeli: ” , pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** odpowiednio grunty rolne, które były objęte wnioskiem o przyznanie jednolitej płatności obszarowej, płatności uzupełniającej, o której mowa w art. 7 ust. 2 i 2a, lub specjalnej płatności obszarowej do powierzchni upraw roślin strączkowych i motylkowatych drobnonasiennych, lub zwierzęta, które były objęte wnioskiem o przyznanie płatności do krów i owiec, były w dniu 31 maja roku, w którym został złożony ten wniosek, w posiadaniu rolnika lub następcy prawnego; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** przejmuje on zobowiązania wynikające z umowy na uprawę tytoniu lub umowy kontraktacji – w przypadku płatności do tytoniu; ” , uchyla się ust. 2, ust. 3 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -373,7 +382,7 @@ source: "eli-html"
 1. Rolnikowi przysługuje płatność uzupełniająca w zakresie produkcji ziemniaka skrobiowego, zwana dalej „płatnością niezwiązaną do skrobi”, jeżeli rolnik ten:
 
 - **1)** spełnia warunki do przyznania jednolitej płatności obszarowej w danym roku i złożył wniosek o jej przyznanie;
-- **2)** w dniu 14 marca 2012 r. był wpisany do rejestru, o którym mowa w art. 38c ust. 1 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2007 r. Nr 231, poz. 1702, z późn. zm.) (w brzmieniu z dnia 4 lipca 2009 r., Dz. U. Nr 95, poz. 792), zwanej dalej „ustawą o ARR”.
+- **2)** w dniu 14 marca 2012 r. był wpisany do rejestru, o którym mowa w art. 38c ust. 1 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2007 r. Nr 231, poz. 1702, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 95, poz. 792 i Nr 97, poz. 799, z 2010 r. Nr 228, poz. 1486, Nr 247, poz. 1650 i Nr 257, poz. 1726 oraz z 2011 r. Nr 106, poz. 622, Nr 120, poz. 690, Nr 171, poz. 1016 i Nr 205, poz. 1208.) (w brzmieniu z dnia 4 lipca 2009 r., Dz. U. Nr 95, poz. 792), zwanej dalej „ustawą o ARR”.
 
 2. Płatność niezwiązana do skrobi może zostać przyznana rolnikowi, który w dniu 14 marca 2012 r. nie był wpisany do rejestru, o którym mowa w art. 38c ust. 1 ustawy o ARR, jeżeli:
 
@@ -441,7 +450,7 @@ source: "eli-html"
 
 - **b)**
 
-3. Należności z tytułu płatności przyznanych w decyzji, o której mowa w ust. 1, są przedmiotem dziedziczenia. ” , w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Jeżeli płatności obszarowe, płatność cukrowa, płatność do pomidorów, płatność do krów i owiec, płatność do tytoniu, płatność niezwiązana do tytoniu lub płatność niezwiązana do skrobi nie zostały przekazane na rachunek bankowy spadkodawcy, spadkobierca rolnika, który nie kwestionuje należności określonej w decyzji, o której mowa w ust. 1, składa wniosek o wypłatę przyznanych płatności do kierownika biura powiatowego Agencji, do którego spadkodawca złożył wniosek o przyznanie tych płatności, wraz z: ” , – część wspólna wyliczenia otrzymuje brzmienie: „ – jednak nie później niż przed upływem 6 miesięcy od dnia doręczenia spadkodawcy decyzji w sprawie przyznania płatności obszarowych, płatności cukrowej, płatności do pomidorów, płatności do krów i owiec, płatności do tytoniu, płatności niezwiązanej do tytoniu lub płatności niezwiązanej do skrobi. ” , ust. 4b otrzymuje brzmienie: „
+3. Należności z tytułu płatności przyznanych w decyzji, o której mowa w ust. 1, są przedmiotem dziedziczenia. ” , w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Jeżeli płatności obszarowe, płatność cukrowa, płatność do pomidorów, płatność do krów i owiec, płatność do tytoniu, płatność niezwiązana do tytoniu lub płatność niezwiązana do skrobi nie zostały przekazane na rachunek bankowy spadkodawcy, spadkobierca rolnika, który nie kwestionuje należności określonej w decyzji, o której mowa w ust. 1, składa wniosek o wypłatę przyznanych płatności do kierownika biura powiatowego Agencji, do którego spadkodawca złożył wniosek o przyznanie tych płatności, wraz z: ” , część wspólna wyliczenia otrzymuje brzmienie: „ – jednak nie później niż przed upływem 6 miesięcy od dnia doręczenia spadkodawcy decyzji w sprawie przyznania płatności obszarowych, płatności cukrowej, płatności do pomidorów, płatności do krów i owiec, płatności do tytoniu, płatności niezwiązanej do tytoniu lub płatności niezwiązanej do skrobi. ” , ust. 4b otrzymuje brzmienie: „
 
 - **c)**
 - **d)**
@@ -497,7 +506,7 @@ source: "eli-html"
 
 - **1)** termin rozpoczęcia wypłat zaliczkowych płatności obszarowych, płatności cukrowej, płatności do pomidorów, płatności do krów i owiec, płatności do tytoniu, płatności niezwiązanej do tytoniu oraz płatności niezwiązanej do skrobi lub
 - **2)** wysokość wypłat zaliczkowych płatności obszarowych, płatności cukrowej, płatności do pomidorów, płatności do krów i owiec, płatności do tytoniu, płatności niezwiązanej do tytoniu oraz płatności niezwiązanej do skrobi, lub
-- **3)** obszary objęte wypłatami zaliczkowych płatności obszarowych, płatności cukrowej, płatności do pomidorów, płatności do krów i owiec, płatności do tytoniu, płatności niezwiązanej do tytoniu oraz płatności niezwiązanej do skrobi mając na względzie wielkość szkód, które powstały w gospodarstwach rolnych na skutek nadzwyczajnych okoliczności, ze względu na wystąpienie których Rzeczpospolita Polska została upoważniona do dokonania przed dniem 1 grudnia wypłat zaliczkowych płatności obszarowych, płatności cukrowej, płatności do pomidorów, płatności do krów i owiec, płatności do tytoniu, płatności niezwiązanej do tytoniu oraz płatności niezwiązanej do skrobi.
+- **3)** obszary objęte wypłatami zaliczkowych płatności obszarowych, płatności cukrowej, płatności do pomidorów, płatności do krów i owiec, płatności do tytoniu, płatności niezwiązanej do tytoniu oraz płatności niezwiązanej do skrobi – mając na względzie wielkość szkód, które powstały w gospodarstwach rolnych na skutek nadzwyczajnych okoliczności, ze względu na wystąpienie których Rzeczpospolita Polska została upoważniona do dokonania przed dniem 1 grudnia wypłat zaliczkowych płatności obszarowych, płatności cukrowej, płatności do pomidorów, płatności do krów i owiec, płatności do tytoniu, płatności niezwiązanej do tytoniu oraz płatności niezwiązanej do skrobi.
 
 3. W przypadku dokonywania wypłaty zaliczkowej płatności obszarowych, płatności cukrowej, płatności do pomidorów, płatności do krów i owiec, płatności do tytoniu, płatności niezwiązanej do tytoniu oraz płatności niezwiązanej do skrobi, w decyzji w sprawie przyznania tych płatności określa się wysokość i termin wypłaty zaliczkowej płatności. ” ;
 
@@ -505,7 +514,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-5. W przypadku gdy rolnik nie podjął działań naprawczych, o których mowa w ust. 3 pkt 2, w terminie wyznaczonym w decyzji w sprawie przyznania płatności bezpośrednich, wsparcia specjalnego, płatności cukrowej lub płatności do pomidorów, stosuje się art. 29 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 98, poz. 634, z późn. zm.). ” ;
+5. W przypadku gdy rolnik nie podjął działań naprawczych, o których mowa w ust. 3 pkt 2, w terminie wyznaczonym w decyzji w sprawie przyznania płatności bezpośrednich, wsparcia specjalnego, płatności cukrowej lub płatności do pomidorów, stosuje się art. 29 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 98, poz. 634, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 115, poz. 961, z 2010 r. Nr 76, poz. 490 i Nr 257, poz. 1726, z 2011 r. Nr 34, poz. 168 oraz z 2012 r. poz. 243.). ” ;
 
 - **30)** w art. 37b: ust. 2 otrzymuje brzmienie: „
     - **a)**
@@ -530,8 +539,10 @@ source: "eli-html"
 
 **Art. 40a.** Należności ustalone w decyzji w sprawie przyznania płatności obszarowych, płatności cukrowej, płatności do pomidorów, płatności do krów i owiec, płatności do tytoniu, płatności niezwiązanej do tytoniu lub płatności niezwiązanej do skrobi, nie mogą być przedmiotem umowy przeniesienia wierzytelności na osobę trzecią (przelewu), o której mowa w przepisach Kodeksu cywilnego. ” ;
 
-- **34)** w art. 45a: w ust. 1: – uchyla się pkt 6, – dodaje się pkt 7 w brzmieniu: „ 7) będąc grupą producentów tytoniu nie przekazuje kopii umowy na uprawę tytoniu zgodnie z przepisami dotyczącymi obowiązku przekazywania tych umów dyrektorowi oddziału regionalnego Agencji ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **34)** w art. 45a: w ust. 1: – uchyla się pkt 6, dodaje się pkt 7 w brzmieniu: „
     - **a)**
+
+- **7)** będąc grupą producentów tytoniu nie przekazuje kopii umowy na uprawę tytoniu zgodnie z przepisami dotyczącymi obowiązku przekazywania tych umów dyrektorowi oddziału regionalnego Agencji ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. Kara pieniężna, o której mowa w ust. 1 pkt 7, może być wymierzana wielokrotnie, z tym że łączna wysokość tej kary, za dany rok kalendarzowy, nie może przekroczyć 50 000 zł. ” ;
@@ -554,7 +565,7 @@ source: "eli-html"
 - **2)** w art. 1 w ust. 1 uchyla się pkt 2;
 - **3)** uchyla się rozdział 4.
 
-**Art. 3.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2007 r. Nr 231, poz. 1702, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2007 r. Nr 231, poz. 1702, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 95, poz. 792 i Nr 97, poz. 799, z 2010 r. Nr 228, poz. 1486, Nr 247, poz. 1650 i Nr 257, poz. 1726 oraz z 2011 r. Nr 106, poz. 622, Nr 120, poz. 690, Nr 171, poz. 1016 i Nr 205, poz. 1208.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w ust. 1 w pkt 3 uchyla się lit. d;
 - **2)** art. 35 otrzymuje brzmienie: „
@@ -572,7 +583,7 @@ source: "eli-html"
 - **4)** art. 37a otrzymuje brzmienie: „ Płatność uzupełniająca, o której mowa w art. 1 ust. 1 pkt 3 lit. d, jest płatnością związaną z produkcją, zwaną dalej „płatnością związaną”. ” ;
 - **5)** uchyla się art. 38 i art. 38a-38g.
 
-**Art. 4.** W ustawie z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 76, poz. 490 i Nr 148, poz. 993 oraz z 2011 r. Nr 205, poz. 1202.) wprowadza się następujące zmiany:
 
 - **1)** w art. 20 dodaje się ust. 4–11 w brzmieniu: „
 
@@ -587,7 +598,7 @@ source: "eli-html"
 8. W przypadku:
 
 - **1)** wszczęcia z urzędu postępowania o uchylenie decyzji, o której mowa w ust. 4, jej zmianę, stwierdzenie jej nieważności lub wygaśnięcia,
-- **2)** wznowienia z urzędu postępowania zakończonego decyzją, o której mowa w ust. 4 do zawiadomienia, o którym mowa w art. 61 § 4 Kodeksu postępowania administracyjnego, albo postanowienia, o którym mowa w art. 149 § 1 Kodeksu postępowania administracyjnego, dołącza się tę decyzję, o ile nie była ona uprzednio doręczona stronie na jej żądanie.
+- **2)** wznowienia z urzędu postępowania zakończonego decyzją, o której mowa w ust. 4 – do zawiadomienia, o którym mowa w art. 61 § 4 Kodeksu postępowania administracyjnego, albo postanowienia, o którym mowa w art. 149 § 1 Kodeksu postępowania administracyjnego, dołącza się tę decyzję, o ile nie była ona uprzednio doręczona stronie na jej żądanie.
 
 9. Kierownik biura powiatowego Agencji, o którym mowa w ust. 2 pkt 1, udostępnia stronie na wniosek decyzję, o której mowa w ust. 4, o ile nie wystąpiła z żądaniem jej doręczenia.
 
@@ -597,9 +608,9 @@ source: "eli-html"
 
 - **2)** art. 28a otrzymuje brzmienie: „
 
-**Art. 28a.** W przypadku określonym w art. 33 ust. 7 rozporządzenia Rady (WE) nr 1290/2005 z dnia 21 czerwca 2005 r. w sprawie finansowania wspólnej polityki rolnej (Dz. Urz. UE L 209 z 11.08.2005, str. 1, z późn. zm.) organ, o którym mowa w art. 29 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 98, poz. 634, z późn. zm.), odstępuje od ustalenia kwot nienależnie lub nadmiernie pobranych płatności z tytułu pomocy, o którym mowa w art. 29 ust. 1 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa, jeżeli kwota, o której mowa w art. 5a rozporządzenia Komisji Europejskiej (WE) nr 885/2006 z dnia 21 czerwca 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1290/2005 w zakresie akredytacji agencji płatniczych i innych jednostek, jak również rozliczenia rachunków EFRG i EFRROW (Dz. Urz. UE L 171 z 23.06.2006, str. 90, z późn. zm.), nie jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu euro ustalonego zgodnie z art. 7 ust. 2 rozporządzenia Komisji (WE) nr 883/2006 z dnia 21 czerwca 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1290/2005 w odniesieniu do prowadzenia kont przez agencje płatnicze, deklaracji wydatków i dochodów oraz warunków zwrotu wydatków w ramach EFRG i EFRROW (Dz. Urz. UE L 171 z 23.06.2006, str. 1, z późn. zm.). ” .
+**Art. 28a.** W przypadku określonym w art. 33 ust. 7 rozporządzenia Rady (WE) nr 1290/2005 z dnia 21 czerwca 2005 r. w sprawie finansowania wspólnej polityki rolnej (Dz. Urz. UE L 209 z 11.08.2005, str. 1, z późn. zm.) organ, o którym mowa w art. 29 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 98, poz. 634, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 115, poz. 961, z 2010 r. Nr 76, poz. 490 i Nr 257, poz. 1726, z 2011 r. Nr 34, poz. 168 oraz z 2012 r. poz. 243.), odstępuje od ustalenia kwot nienależnie lub nadmiernie pobranych płatności z tytułu pomocy, o którym mowa w art. 29 ust. 1 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa, jeżeli kwota, o której mowa w art. 5a rozporządzenia Komisji Europejskiej (WE) nr 885/2006 z dnia 21 czerwca 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1290/2005 w zakresie akredytacji agencji płatniczych i innych jednostek, jak również rozliczenia rachunków EFRG i EFRROW (Dz. Urz. UE L 171 z 23.06.2006, str. 90, z późn. zm.), nie jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu euro ustalonego zgodnie z art. 7 ust. 2 rozporządzenia Komisji (WE) nr 883/2006 z dnia 21 czerwca 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1290/2005 w odniesieniu do prowadzenia kont przez agencje płatnicze, deklaracji wydatków i dochodów oraz warunków zwrotu wydatków w ramach EFRG i EFRROW (Dz. Urz. UE L 171 z 23.06.2006, str. 1, z późn. zm.). ” .
 
-**Art. 5.** W ustawie z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 98, poz. 634, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 98, poz. 634, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 115, poz. 961, z 2010 r. Nr 76, poz. 490 i Nr 257, poz. 1726 oraz z 2011 r. Nr 34, poz. 168.) wprowadza się następujące zmiany:
 
 - **1)** art. 29 otrzymuje brzmienie: „
 
@@ -608,7 +619,7 @@ source: "eli-html"
 1. Ustalenie kwoty nienależnie lub nadmiernie pobranych środków publicznych:
 
 - **1)** pochodzących z funduszy Unii Europejskiej,
-- **2)** krajowych, przeznaczonych na: współfinansowanie wydatków realizowanych z funduszy Unii Europejskiej, finansowanie przez Agencję pomocy przyznawanej w drodze decyzji administracyjnej następuje w drodze decyzji administracyjnej.
+- **2)** krajowych, przeznaczonych na: współfinansowanie wydatków realizowanych z funduszy Unii Europejskiej, finansowanie przez Agencję pomocy przyznawanej w drodze decyzji administracyjnej – następuje w drodze decyzji administracyjnej.
     - **a)**
     - **b)**
 
@@ -618,11 +629,11 @@ source: "eli-html"
 
 4. Jeżeli kwota nienależnie lub nadmiernie pobranych środków publicznych, która została ustalona w decyzji, o której mowa w ust. 3, nie jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu euro ustalonego dla danego funduszu Unii Europejskiej zgodnie z odrębnymi przepisami, kwota przyznanych płatności lub pomocy finansowej ze środków publicznych, o których mowa w ust. 1, jest wypłacana w wysokości pomniejszonej o ustaloną kwotę nienależnie lub nadmiernie pobraną; przepisu ust. 10 nie stosuje się.
 
-5. Przepisów ust. 1–3 nie stosuje się w przypadkach, o których mowa w art. 40 ust. 1 ustawy z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2008 r. Nr 170, poz. 1051, z późn. zm.) oraz art. 28a ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.).
+5. Przepisów ust. 1–3 nie stosuje się w przypadkach, o których mowa w art. 40 ust. 1 ustawy z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2008 r. Nr 170, poz. 1051, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1349, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 36, poz. 197, z 2011 r. Nr 54, poz. 278 oraz z 2012 r. poz. 243.) oraz art. 28a ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 76, poz. 490 i Nr 148, poz. 993, z 2011 r. Nr 205, poz. 1202 oraz z 2012 r. poz. 243.).
 
 6. W przypadku, o którym mowa w ust. 4, odwołanie od decyzji nie wstrzymuje jej wykonania.
 
-7. Do należności, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.), z wyjątkiem przepisów dotyczących umarzania należności, odraczania płatności, rozkładania płatności na raty oraz zaokrąglania należności.
+7. Do należności, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 57, poz. 355, Nr 127, poz. 858, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 197, poz. 1306 oraz z 2011 r. Nr 34, poz. 173, Nr 75, poz. 398, Nr 106, poz. 622, Nr 134, poz. 781, Nr 171, poz. 1016, Nr 186, poz. 1100, Nr 199, poz. 1175, Nr 232, poz. 1378, Nr 234, poz. 1391 i Nr 291, poz. 1707.), z wyjątkiem przepisów dotyczących umarzania należności, odraczania płatności, rozkładania płatności na raty oraz zaokrąglania należności.
 
 8. Uprawnienia organu podatkowego określone w ustawie, o której mowa w ust. 7, przysługują organowi, o którym mowa w ust. 2.
 
@@ -653,7 +664,7 @@ source: "eli-html"
 2. W 2012 r. rolnik ubiegający się o przyznanie wsparcia specjalnego w formie płatności do surowca tytoniowego przekazuje kierownikowi biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa, do którego złożył wniosek o przyznanie tej płatności:
 
 - **1)** kopię umowy na uprawę tytoniu – jeżeli nie jest członkiem grupy producentów tytoniu lub
-- **2)** oświadczenie o zawarciu umowy kontraktacji, zawierające oznaczenie umowy na uprawę tytoniu, w ramach której została zawarta umowa kontraktacji – jeżeli jest członkiem grupy producentów tytoniu w terminie do dnia 31 sierpnia.
+- **2)** oświadczenie o zawarciu umowy kontraktacji, zawierające oznaczenie umowy na uprawę tytoniu, w ramach której została zawarta umowa kontraktacji – jeżeli jest członkiem grupy producentów tytoniu – w terminie do dnia 31 sierpnia.
 
 3. W 2012 r. termin, o którym mowa w art. 7 ust. 2k ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą upływa z dniem 31 sierpnia.
 
@@ -682,7 +693,7 @@ source: "eli-html"
 
 - **1)** uzupełniającej krajowej płatności bezpośredniej dla producentów surowca tytoniowego, o której mowa w ust. 2,
 - **2)** stwierdzenia nabycia prawa do uzyskania uzupełniającej krajowej płatności bezpośredniej dla producentów surowca tytoniowego, o której mowa w ust. 2,
-- **3)** skreślenia i wpisania do rejestru podmiotów posiadających prawo do uzyskania uzupełniającej krajowej płatności bezpośredniej dla producentów surowca tytoniowego, o której mowa w ust. 2 jest, stosownie do swojej właściwości rzeczowej, dyrektor oddziału terenowego Agencji Rynku Rolnego albo Prezes Agencji Rynku Rolnego, albo minister właściwy do spraw rynków rolnych.
+- **3)** skreślenia i wpisania do rejestru podmiotów posiadających prawo do uzyskania uzupełniającej krajowej płatności bezpośredniej dla producentów surowca tytoniowego, o której mowa w ust. 2 – jest, stosownie do swojej właściwości rzeczowej, dyrektor oddziału terenowego Agencji Rynku Rolnego albo Prezes Agencji Rynku Rolnego, albo minister właściwy do spraw rynków rolnych.
 
 7. Organem właściwym do stwierdzenia nieważności, uchylenia lub zmiany decyzji ostatecznych wydanych przed dniem wejścia w życie niniejszej ustawy w sprawach dotyczących:
 
@@ -690,18 +701,18 @@ source: "eli-html"
 - **2)** stwierdzenia nabycia prawa do uzyskania uzupełniającej krajowej płatności bezpośredniej w zakresie produkcji ziemniaka skrobiowego, o której mowa w ust. 3,
 - **3)** skreślenia i wpisania do rejestru podmiotów posiadających prawo do uzyskania uzupełniającej krajowej płatności bezpośredniej w zakresie produkcji ziemniaka skrobiowego, o której mowa w ust. 3,
 - **4)** kwot produkcji przyznawanych producentom skrobi ziemniaczanej,
-- **5)** dopłat i zaliczek na poczet dopłat do skrobi przyznawanych przetwórcom wykorzystującym skrobię do dalszego przerobu na cele niespożywcze jest, stosownie do swojej właściwości rzeczowej, dyrektor oddziału terenowego Agencji Rynku Rolnego albo Prezes Agencji Rynku Rolnego, albo minister właściwy do spraw rynków rolnych.
+- **5)** dopłat i zaliczek na poczet dopłat do skrobi przyznawanych przetwórcom wykorzystującym skrobię do dalszego przerobu na cele niespożywcze – jest, stosownie do swojej właściwości rzeczowej, dyrektor oddziału terenowego Agencji Rynku Rolnego albo Prezes Agencji Rynku Rolnego, albo minister właściwy do spraw rynków rolnych.
 
 8. Organem właściwym do stwierdzenia nieważności, uchylenia lub zmiany decyzji ostatecznych wydanych przed dniem 1 lipca 2012 r. w sprawach dotyczących:
 
 - **1)** premii produkcyjnych przyznawanych producentom skrobi ziemniaczanej,
-- **2)** uzupełniającej krajowej płatności bezpośredniej w zakresie produkcji ziemniaka skrobiowego, o której mowa w ust. 4 jest, stosownie do swojej właściwości rzeczowej, dyrektor oddziału terenowego Agencji Rynku Rolnego albo Prezes Agencji Rynku Rolnego, albo minister właściwy do spraw rynków rolnych.
+- **2)** uzupełniającej krajowej płatności bezpośredniej w zakresie produkcji ziemniaka skrobiowego, o której mowa w ust. 4 – jest, stosownie do swojej właściwości rzeczowej, dyrektor oddziału terenowego Agencji Rynku Rolnego albo Prezes Agencji Rynku Rolnego, albo minister właściwy do spraw rynków rolnych.
 
 9. Do spraw rozstrzygniętych decyzją ostateczną wydaną przed dniem wejścia w życie niniejszej ustawy dotyczącą:
 
 - **1)** uzupełniającej krajowej płatności bezpośredniej dla producentów surowca tytoniowego, o której mowa w ust. 2,
 - **2)** stwierdzenia nabycia prawa do uzyskania uzupełniającej krajowej płatności bezpośredniej dla producentów surowca tytoniowego, o której mowa w ust. 2,
-- **3)** skreślenia i wpisania do rejestru podmiotów posiadających prawo do uzyskania uzupełniającej krajowej płatności bezpośredniej dla producentów surowca tytoniowego, o której mowa w ust. 2 która od dnia wejścia w życia niniejszej ustawy została zmieniona, uchylona albo stwierdzono jej nieważność, stosuje się przepisy dotychczasowe.
+- **3)** skreślenia i wpisania do rejestru podmiotów posiadających prawo do uzyskania uzupełniającej krajowej płatności bezpośredniej dla producentów surowca tytoniowego, o której mowa w ust. 2 – która od dnia wejścia w życia niniejszej ustawy została zmieniona, uchylona albo stwierdzono jej nieważność, stosuje się przepisy dotychczasowe.
 
 10. Do spraw rozstrzygniętych decyzją ostateczną wydaną przed dniem wejścia w życie niniejszej ustawy dotyczącą:
 
@@ -709,12 +720,12 @@ source: "eli-html"
 - **2)** stwierdzenia nabycia prawa do uzyskania uzupełniającej krajowej płatności bezpośredniej w zakresie produkcji ziemniaka skrobiowego, o której mowa w ust. 3,
 - **3)** skreślenia i wpisania do rejestru podmiotów posiadających prawo do uzyskania uzupełniającej krajowej płatności bezpośredniej w zakresie produkcji ziemniaka skrobiowego, o której mowa w ust. 3,
 - **4)** kwot produkcji przyznawanych producentom skrobi ziemniaczanej,
-- **5)** dopłat i zaliczek na poczet dopłat do skrobi przyznawanych przetwórcom wykorzystującym skrobię do dalszego przerobu na cele niespożywcze która od dnia wejścia w życia niniejszej ustawy została zmieniona, uchylona albo stwierdzono jej nieważność, stosuje się przepisy dotychczasowe.
+- **5)** dopłat i zaliczek na poczet dopłat do skrobi przyznawanych przetwórcom wykorzystującym skrobię do dalszego przerobu na cele niespożywcze – która od dnia wejścia w życia niniejszej ustawy została zmieniona, uchylona albo stwierdzono jej nieważność, stosuje się przepisy dotychczasowe.
 
 11. Do spraw rozstrzygniętych decyzją ostateczną wydaną przed dniem 1 lipca 2012 r. dotyczącą:
 
 - **1)** premii produkcyjnych przyznawanych producentom skrobi ziemniaczanej,
-- **2)** uzupełniającej krajowej płatności bezpośredniej w zakresie produkcji ziemniaka skrobiowego, o której mowa w ust. 4 która od dnia 1 lipca 2012 r. została zmieniona, uchylona albo stwierdzono jej nieważność, stosuje się przepisy dotychczasowe.
+- **2)** uzupełniającej krajowej płatności bezpośredniej w zakresie produkcji ziemniaka skrobiowego, o której mowa w ust. 4 – która od dnia 1 lipca 2012 r. została zmieniona, uchylona albo stwierdzono jej nieważność, stosuje się przepisy dotychczasowe.
 
 12. Do postępowań w sprawach, o których mowa w ust. 9 i 10, zakończonych decyzją ostateczną do dnia wejścia w życie niniejszej ustawy, które zostały wznowione od dnia wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
@@ -733,13 +744,13 @@ source: "eli-html"
 3. Przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 38 ust. 5,
-- **2)** art. 38f ustawy wymienionej w art. 3 zachowują moc.
+- **2)** art. 38f – ustawy wymienionej w art. 3 zachowują moc.
 
 **Art. 12.** Przepisy art. 35 i art. 37a ustawy wymienionej w art. 3, w brzmieniu nadanym niniejszą ustawą, obowiązują do dnia 30 czerwca 2012 r.
 
 **Art. 13.** Ustawa wchodzi w życie z dniem 15 marca 2012 r. z wyjątkiem:
 
 - **1)** art. 3 pkt 1, pkt 3 w zakresie dotyczącym art. 37 ustawy wymienionej w art. 3 i pkt 5 w zakresie dotyczącym art. 38 ustawy wymienionej w art. 3 oraz art. 11 ust. 3 pkt 1, które wchodzą w życie z dniem 1 lipca 2012 r.;
-- **2)** art. 1 pkt 32, art. 4 i art. 5, które wchodzą w życie z dniem 1 sierpnia 2012 r.
+- **2)** art. 1 pkt 32, art. 4 i art. 5, które wchodzą w życie z dniem 1 sierpnia 2012 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu, rynku suszu paszowego oraz rynków lnu i konopi uprawianych na włókno, ustawę z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych, ustawę z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, ustawę z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz ustawę z dnia 17 lutego 2010 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1349, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 36, poz. 197 oraz z 2011 r. Nr 54, poz. 278. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 95, poz. 792 i Nr 97, poz. 799, z 2010 r. Nr 228, poz. 1486, Nr 247, poz. 1650 i Nr 257, poz. 1726 oraz z 2011 r. Nr 106, poz. 622, Nr 120, poz. 690, Nr 171, poz. 1016 i Nr 205, poz. 1208. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 115, poz. 961, z 2010 r. Nr 76, poz. 490 i Nr 257, poz. 1726, z 2011 r. Nr 34, poz. 168 oraz z 2012 r. poz. 243. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 95, poz. 792 i Nr 97, poz. 799, z 2010 r. Nr 228, poz. 1486, Nr 247, poz. 1650 i Nr 257, poz. 1726 oraz z 2011 r. Nr 106, poz. 622, Nr 120, poz. 690, Nr 171, poz. 1016 i Nr 205, poz. 1208. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 76, poz. 490 i Nr 148, poz. 993 oraz z 2011 r. Nr 205, poz. 1202. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 115, poz. 961, z 2010 r. Nr 76, poz. 490 i Nr 257, poz. 1726, z 2011 r. Nr 34, poz. 168 oraz z 2012 r. poz. 243. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 115, poz. 961, z 2010 r. Nr 76, poz. 490 i Nr 257, poz. 1726 oraz z 2011 r. Nr 34, poz. 168. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1349, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 36, poz. 197, z 2011 r. Nr 54, poz. 278 oraz z 2012 r. poz. 243. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 76, poz. 490 i Nr 148, poz. 993, z 2011 r. Nr 205, poz. 1202 oraz z 2012 r. poz. 243. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 57, poz. 355, Nr 127, poz. 858, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 197, poz. 1306 oraz z 2011 r. Nr 34, poz. 173, Nr 75, poz. 398, Nr 106, poz. 622, Nr 134, poz. 781, Nr 171, poz. 1016, Nr 186, poz. 1100, Nr 199, poz. 1175, Nr 232, poz. 1378, Nr 234, poz. 1391 i Nr 291, poz. 1707.
 
 

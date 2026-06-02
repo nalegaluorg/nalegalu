@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-08-20 |
 | Data wydania | 2012-08-28 |
-| Wejście w życie | 2012-09-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000970) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/970/text.pdf) |
 
@@ -117,5 +116,5 @@ przeprowadzona ocena jakości kształcenia podlega analizie, a jej wyniki są up
 § 6.
 Działające na podstawie dotychczasowych przepisów komisje do wewnętrznej oceny jakości kształcenia stają się komisjami do wewnętrznej oceny jakości kształcenia w rozumieniu niniejszego rozporządzenia.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 15 kwietnia 2002 r. w sprawie standardów kształcenia pielęgniarek i położnych w szkołach wyższych i wyższych szkołach zawodowych (Dz. U. Nr 55, poz. 499), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 102 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039 i Nr 291, poz. 1707). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 15 kwietnia 2002 r. w sprawie standardów kształcenia pielęgniarek i położnych w szkołach wyższych i wyższych szkołach zawodowych (Dz. U. Nr 55, poz. 499), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 102 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039 i Nr 291, poz. 1707).
 

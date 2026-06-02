@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Przedsiębiorczości i Technologiiz dnia 31 maja 2019 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki w sprawie wymagań, którym powinny odpowiadać taksometry, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych
+# Obwieszczenie Ministra Przedsiębiorczości i Technologiiz dnia 31 maja 2019 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki w sprawie wymagań, którym powinny odpowiadać taksometry, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 
 | Pole | Wartość |
 |---|---|
@@ -26,22 +26,19 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001173) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1173/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Gospodarki z dnia 27 grudnia 2007 r. w sprawie wymagań, którym powinny odpowiadać taksometry, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Wymagania w zakresie charakterystyk metrologicznych taksometrów Rozdział 3 – Szczegółowy zakres sprawdzeń wykonywanych podczas legalizacji ponownej taksometrów objętych zatwierdzeniem typu Rozdział 4 – Szczegółowy zakres sprawdzeń wykonywanych podczas legalizacji ponownej taksometrów objętych oceną zgodności Rozdział 5 – Przepis końcowy
+Załącznik – Rozporządzenie Ministra Gospodarki z dnia 27 grudnia 2007 r. w sprawie wymagań, którym powinny odpowiadać taksometry, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Gospodarki z dnia 27 grudnia 2007 r. w sprawie wymagań, którym powinny odpowiadać taksometry elektroniczne, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych (Dz. U. z 2008 r. poz. 24), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Przedsiębiorczości i Technologii z dnia 10 stycznia 2019 r. zmieniającym rozporządzenie w sprawie wymagań, którym powinny odpowiadać taksometry elektroniczne, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych (Dz. U. poz. 146).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Przedsiębiorczości i Technologii z dnia 10 stycznia 2019 r. zmieniającego rozporządzenie w sprawie wymagań, którym powinny odpowiadać taksometry elektroniczne, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych (Dz. U. poz. 146), które stanowią: „ 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 5 lipca 2018 r., pod numerem 2018/321/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). ”
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Przedsiębiorczości i Technologii z dnia 10 stycznia 2019 r. zmieniającego rozporządzenie w sprawie wymagań, którym powinny odpowiadać taksometry elektroniczne, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych (Dz. U. poz. 146), które stanowią: „ 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 5 lipca 2018 r., pod numerem 2018/321/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). ” „
 § 2.
 Do prawnej kontroli metrologicznej taksometrów w sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
-Załącznik – Rozporządzenie Ministra Gospodarki z dnia 27 grudnia 2007 r. w sprawie wymagań, którym powinny odpowiadać taksometry, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych
-Na podstawie art. 9a pkt 1 i 2 ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2019 r. poz. 541, 675 i 1123) zarządza się, co następuje:
-§ 1.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
+Załącznik – Rozporządzenie Ministra Gospodarki z dnia 27 grudnia 2007 r. w sprawie wymagań, którym powinny odpowiadać taksometry, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowychObecnie działem administracji rządowej – gospodarka kieruje Minister Przedsiębiorczości i Technologii, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
+Przepisy ogólne
+§ 1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Rozporządzenie określa:
 1)
@@ -58,36 +55,37 @@ stała taksometru k – wielkość, wyrażoną w impulsach na kilometr drogi (im
 współczynnik charakterystyczny w – wielkość, wyrażoną w obrotach na kilometr drogi (obr/km) lub w impulsach na kilometr drogi (imp/km), określającą rodzaj i liczbę sygnałów elementu taksówki przeznaczonego do napędu taksometru (obrotów lub impulsów) przypadających na 1 km drogi przebytej przez taksówkę;
 3)
 stała taryf c – wielkość określającą stosunek długości pierwszego odcinka drogi do następnego odcinka drogi i pierwszego okresu czasu do następnego okresu czasu;
-4)
+4Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.)
 opłata – całkowitą wartość należności za kurs wynikającą z ustalonej opłaty początkowej za wynajęcie taksówki i długości przebytej drogi lub czasu trwania kursu, bez dopłaty;
-5)
+5Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.)
 opłata początkowa – minimalną wartość należności wskazywaną po włączeniu taksometru;
-6)
+6Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.)
 dopłata – opłatę za dodatkową usługę;
-7)
+7Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.)
 jednostka taryfowa – wartość, o jaką zmienia się opłata w położeniu taryfowym.
+Wymagania w zakresie charakterystyk metrologicznych taksometrów
 § 3.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
 § 4.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
 § 5.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
 § 6.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
 § 7.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
 § 8.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
 § 9.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
 § 10.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
 § 11.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
 § 12.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
 § 13.
-Błędy graniczne dopuszczalne przy legalizacji ponownej taksometru niezainstalowanego w taksówce wynoszą dla:
+Błędy graniczne dopuszczalne przy legalizacji ponownej taksometru niezainstalowanego w taksówce wynoszą dla:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2.
 1)
 przedziału czasu: ± 0,1%, lecz nie mniej niż 0,2 s;
 2)
@@ -95,15 +93,16 @@ długości przebytej drogi: ± 0,2%, lecz nie mniej niż 4 m;
 3)
 obliczenia opłaty: ± 0,1%, lecz nie mniej niż wartość minimalna, z uwzględnieniem zaokrąglenia, odpowiadająca najmniej znaczącej cyfrze wskazania opłaty.
 § 14.
-Błędy graniczne dopuszczalne przy legalizacji ponownej taksometru zainstalowanego w taksówce wynoszą dla:
+Błędy graniczne dopuszczalne przy legalizacji ponownej taksometru zainstalowanego w taksówce wynoszą dla:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2.
 1)
 przedziału czasu: ± 0,2%;
 2)
 długości przebytej drogi: ± 2%;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 różnicy między wartością stałej taksometru k a wartością współczynnika charakterystycznego w: 1% w odniesieniu do wartości w.
+Szczegółowy zakres sprawdzeń wykonywanych podczas legalizacji ponownej taksometrów objętych zatwierdzeniem typu
 § 15.
-Podczas legalizacji ponownej taksometru należy dokonać:
+Podczas legalizacji ponownej taksometru należy dokonać:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2.
 1)
 oględzin zewnętrznych;
 2)
@@ -113,7 +112,7 @@ wyznaczenia błędów wskazań taksometru.
 § 16.
 Podczas oględzin zewnętrznych taksometru należy sprawdzić:
 1)
-(uchylony);
+(uchylony);Przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2.
 2)
 czy w widocznym miejscu na wewnętrznej lub zewnętrznej stronie przedniej ścianki taksometru zamieszczone są w sposób trwały wymagane oznaczenia;
 3)
@@ -141,7 +140,7 @@ urządzenia programującego;
 7)
 czy obudowa taksometru chroni jego zespoły przed pyłem i wilgocią.
 § 17.
-(uchylony).
+(uchylony).Przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2.
 § 18.
 Podczas sprawdzenia działania taksometru zgłoszonego do legalizacji ponownej, naprawionego lub z uszkodzoną cechą zabezpieczającą, sprawdza się, czy:
 1)
@@ -242,7 +241,7 @@ uruchomienie przycisku zespołu dopłat powoduje dodanie kolejnej jednostki dop�
 sterowanie urządzeniami informacyjnymi odbywa się za pomocą zespołu przełącznika;
 25)
 przy położeniu TARYFA na nieruchomej tabliczce świetlnej wyświetlany jest kod sygnalizacji działania taksometru odpowiadający wyświetlanym przez taksometr taryfom;
-26)
+26W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2.)
 wskazania liczników kilometrów ogólnych i płatnych oraz liczników kursów jednostek taryfowych oraz dane o układzie taryf są zgodne z danymi wskazywanymi przez taksometr i mogą być drukowane;
 27)
 wydruki są czytelne i jednoznaczne.
@@ -293,7 +292,7 @@ sterowanie urządzeniami informacyjnymi odbywa się za pomocą zespołu przełą
 13)
 przy położeniu TARYFA na nieruchomej tabliczce świetlnej wyświetlany jest kod sygnalizacji działania taksometru odpowiadający wyświetlanym przez taksometr taryfom.
 § 20.
-Podczas legalizacji ponownej taksometru naprawianego lub z uszkodzoną cechą zabezpieczającą, współpracującego z kasą rejestrującą, sprawdza się dodatkowo, czy:
+Podczas legalizacji ponownej taksometru naprawianego lub z uszkodzoną cechą zabezpieczającą, współpracującego z kasą rejestrującą, sprawdza się dodatkowo, czy:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 2.
 1)
 na wewnętrznej lub zewnętrznej stronie przedniej ścianki taksometru, w widocznym miejscu, zamieszczony jest, w sposób trwały i czytelny, napis „fiskalny”;
 2)
@@ -303,7 +302,7 @@ wyświetlanie należności uwzględniającej zastosowanie upustu następuje najp
 4)
 przestawienie zespołu przełącznika z położenia KASA do położenia WOLNY możliwe jest dopiero po wydrukowaniu przez kasę rejestrującą paragonu.
 § 21.
-(uchylony).
+(uchylony).Przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 2.
 § 22.
 Podczas legalizacji ponownej taksometru naprawianego lub z uszkodzoną cechą zabezpieczającą błędy wskazań wyznacza się dla:
 1)
@@ -322,23 +321,24 @@ Podczas legalizacji ponownej taksometru nienaprawianego i z nieuszkodzoną cech�
 zespołu czasu – dla pierwszego i następnych okresów czasu;
 2)
 pierwszego i następnych odcinków drogi taksometru zainstalowanego w taksówce.
-§ 23a.
+§ 23aDodany przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 2..
 Podczas sprawdzenia taksometru w związku ze zmianą układu taryf sprawdza się nowy układ taryf oraz zgodność świadectwa legalizacji ze stanem faktycznym.
-§ 24.
+§ 24W brzmieniu ustalonym przez § 1 pkt 16 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Dopuszcza się wyznaczanie błędów wskazań zespołu czasu bez demontażu taksometru z taksówki. W tym przypadku wartości błędów granicznych dopuszczalnych przyjmuje się takie, jak przy legalizacji ponownej taksometru niezainstalowanego w taksówce.
 2.
 Dopuszcza się wyznaczanie błędów wskazań długości drogi poprzez porównanie wartości stałej taksometru k z wartością współczynnika charakterystycznego w.
+Szczegółowy zakres sprawdzeń wykonywanych podczas legalizacji ponownej taksometrów objętych oceną zgodności
 § 25.
 Podczas legalizacji ponownej taksometru należy dokonać:
 1)
 oględzin zewnętrznych;
-1a)
+1aDodany przez § 1 pkt 17 rozporządzenia, o którym mowa w odnośniku 2.)
 sprawdzenia działania taksometru;
 2)
 wyznaczenia błędów wskazań taksometru.
 § 26.
-Podczas oględzin zewnętrznych i sprawdzenia działania taksometru należy sprawdzić, czy:
+Podczas oględzin zewnętrznych i sprawdzenia działania taksometru należy sprawdzić, czy:Wprowadzenie do wyliczenia w brzmieniu ustalonym § 1 pkt 18 lit. a rozporządzenia, o którym mowa w odnośniku 2.
 1)
 na taksometrze znajdują się wymagane oznaczenia;
 2)
@@ -353,23 +353,23 @@ a)
 WOLNY – położenie pracy, w którym wyłączone jest obliczanie opłaty,
 b)
 TARYFA – położenie pracy, w którym ma miejsce obliczanie opłaty na podstawie ewentualnej opłaty początkowej oraz taryfy za przebytą długość drogi lub czas trwania kursu,
-c)
+cW brzmieniu ustalonym przez § 1 pkt 18 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 KASA – położenie pracy, w którym jest wskazywana opłata i jest wyłączone co najmniej obliczanie opłaty na podstawie czasu trwania kursu;
 6)
 taksometr w położeniu pracy:
 a)
 TARYFA oblicza i wyświetla opłatę wzrastającą skokowo o określoną wartość,
-b)
+bW brzmieniu ustalonym przez § 1 pkt 18 lit. c rozporządzenia, o którym mowa w odnośniku 2.)
 KASA wyświetla wartość opłaty;
 7)
 w przypadku stosowania dopłaty, wprowadzonej ręcznie przez kierowcę, jest ona wyłączona z wyświetlanej opłaty oraz czy w tym przypadku taksometr może chwilowo wyświetlać opłatę łącznie z tą wartością dopłaty;
 8)
 taksometr ma ustawiony jeden zwykły tryb obliczania;
-9)
+9W brzmieniu ustalonym przez § 1 pkt 18 lit. d rozporządzenia, o którym mowa w odnośniku 2.)
 taksometr jest właściwie przygotowany do nałożenia cech zabezpieczających w miejscach określonych w certyfikacie badania typu WE lub UE albo certyfikacie badania projektu WE lub UE;
 10)
 istotne dla charakterystyk metrologicznych oprogramowanie jest identyfikowane przez taksometr;
-11)
+11W brzmieniu ustalonym przez § 1 pkt 18 lit. e rozporządzenia, o którym mowa w odnośniku 2.)
 taksometr zapewnia przekazywanie przez właściwie zabezpieczony interfejs lub interfejsy informacji i danych;
 12)
 w przypadku podłączenia do interfejsu lub interfejsów taksometru innych urządzeń:
@@ -377,7 +377,7 @@ a)
 nie zakłócają one jego działania,
 b)
 istnieje możliwość, aby praca taksometru była automatycznie blokowana w przypadku, gdy nie ma tego urządzenia lub gdy działa ono nieprawidłowo;
-13)
+13Dodany przez § 1 pkt 18 lit. f rozporządzenia, o którym mowa w odnośniku 2.)
 wskazanie zegara czasu rzeczywistego taksometru nie różni się od czasu urzędowego więcej niż o 2 minuty i data wskazana na taksometrze nie różni się od daty rzeczywistej.
 § 27.
 Błędy wskazań taksometru niezainstalowanego w taksówce wyznacza się dla:
@@ -387,25 +387,41 @@ przedziału czasu;
 długości przebytej drogi;
 3)
 obliczania opłaty.
-§ 28.
+§ 28W brzmieniu ustalonym przez § 1 pkt 19 rozporządzenia, o którym mowa w odnośniku 2..
 Błędy wskazań taksometru zainstalowanego w taksówce wyznacza się dla przedziału czasu, długości przebytej drogi przez taksówkę poprzez wyznaczenie wartości błędu i poprzez porównanie wartości stałej taksometru k z wartością współczynnika charakterystycznego w.
-§ 28a.
+§ 28aDodany przez § 1 pkt 20 rozporządzenia, o którym mowa w odnośniku 2..
 Wyznaczenia błędów wskazań taksometru dokonuje się co najmniej dla jednej taryfy.
-§ 28b.
+§ 28bDodany przez § 1 pkt 20 rozporządzenia, o którym mowa w odnośniku 2..
 Podczas sprawdzenia taksometru w związku ze zmianą układu taryf sprawdza się nowy układ taryf oraz zgodność świadectwa legalizacji ze stanem faktycznym.
-§ 29.
+§ 29W brzmieniu ustalonym przez § 1 pkt 21 rozporządzenia, o którym mowa w odnośniku 2..
 Cechy zabezpieczające taksometr należy nałożyć w miejscach określonych w certyfikacie badania typu WE lub UE albo certyfikacie badania projektu WE lub UE.
+Przepis końcowy
 § 30.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – gospodarka kieruje Minister Przedsiębiorczości i Technologii, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93). 2) Tytuł w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Przedsiębiorczości i Technologii z dnia 10 stycznia 2019 r. zmieniającego rozporządzenie w sprawie wymagań, którym powinny odpowiadać taksometry elektroniczne, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych (Dz. U. poz. 146), które weszło w życie 8 lutego 2019 r. 3) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 11 września 2007 r., pod numerem 2007/0498/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych (Dz. Urz. UE L 204 z 21.07.1998, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337). 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 6) Tytuł w brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 7) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 8) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 9) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2. 11) Tytuł w brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 12) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 13) Przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. 14) Przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. 15) W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2. 16) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 2. 17) Przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 2. 18) Dodany przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 pkt 16 rozporządzenia, o którym mowa w odnośniku 2. 20) Dodany przez § 1 pkt 17 rozporządzenia, o którym mowa w odnośniku 2. 21) Wprowadzenie do wyliczenia w brzmieniu ustalonym § 1 pkt 18 lit. a rozporządzenia, o którym mowa w odnośniku 2. 22) W brzmieniu ustalonym przez § 1 pkt 18 lit. b rozporządzenia, o którym mowa w odnośniku 2. 23) W brzmieniu ustalonym przez § 1 pkt 18 lit. c rozporządzenia, o którym mowa w odnośniku 2. 24) W brzmieniu ustalonym przez § 1 pkt 18 lit. d rozporządzenia, o którym mowa w odnośniku 2. 25) W brzmieniu ustalonym przez § 1 pkt 18 lit. e rozporządzenia, o którym mowa w odnośniku 2. 26) Dodany przez § 1 pkt 18 lit. f rozporządzenia, o którym mowa w odnośniku 2. 27) W brzmieniu ustalonym przez § 1 pkt 19 rozporządzenia, o którym mowa w odnośniku 2. 28) Dodany przez § 1 pkt 20 rozporządzenia, o którym mowa w odnośniku 2. 29) W brzmieniu ustalonym przez § 1 pkt 21 rozporządzenia, o którym mowa w odnośniku 2. 30) Rozporządzenie zostało ogłoszone w dniu 11 stycznia 2008 r. 31) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 16 czerwca 2003 r. w sprawie wymagań metrologicznych, którym powinny odpowiadać taksometry elektroniczne (Dz. U. poz. 1014).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 11 stycznia 2008 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 16 czerwca 2003 r. w sprawie wymagań metrologicznych, którym powinny odpowiadać taksometry elektroniczne (Dz. U. poz. 1014). 1) Obecnie działem administracji rządowej – gospodarka kieruje Minister Przedsiębiorczości i Technologii, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93). 2) Tytuł w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Przedsiębiorczości i Technologii z dnia 10 stycznia 2019 r. zmieniającego rozporządzenie w sprawie wymagań, którym powinny odpowiadać taksometry elektroniczne, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych (Dz. U. poz. 146), które weszło w życie 8 lutego 2019 r. 3) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 11 września 2007 r., pod numerem 2007/0498/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych (Dz. Urz. UE L 204 z 21.07.1998, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337). 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 6) Tytuł w brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 7) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 8) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 9) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2. 11) Tytuł w brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 12) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 13) Przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. 14) Przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. 15) W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2. 16) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 2. 17) Przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 2. 18) Dodany przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 pkt 16 rozporządzenia, o którym mowa w odnośniku 2. 20) Dodany przez § 1 pkt 17 rozporządzenia, o którym mowa w odnośniku 2. 21) Wprowadzenie do wyliczenia w brzmieniu ustalonym § 1 pkt 18 lit. a rozporządzenia, o którym mowa w odnośniku 2. 22) W brzmieniu ustalonym przez § 1 pkt 18 lit. b rozporządzenia, o którym mowa w odnośniku 2. 23) W brzmieniu ustalonym przez § 1 pkt 18 lit. c rozporządzenia, o którym mowa w odnośniku 2. 24) W brzmieniu ustalonym przez § 1 pkt 18 lit. d rozporządzenia, o którym mowa w odnośniku 2. 25) W brzmieniu ustalonym przez § 1 pkt 18 lit. e rozporządzenia, o którym mowa w odnośniku 2. 26) Dodany przez § 1 pkt 18 lit. f rozporządzenia, o którym mowa w odnośniku 2. 27) W brzmieniu ustalonym przez § 1 pkt 19 rozporządzenia, o którym mowa w odnośniku 2. 28) Dodany przez § 1 pkt 20 rozporządzenia, o którym mowa w odnośniku 2. 29) W brzmieniu ustalonym przez § 1 pkt 21 rozporządzenia, o którym mowa w odnośniku 2. 30) Rozporządzenie zostało ogłoszone w dniu 11 stycznia 2008 r. 31) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 16 czerwca 2003 r. w sprawie wymagań metrologicznych, którym powinny odpowiadać taksometry elektroniczne (Dz. U. poz. 1014).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Wymagania w zakresie charakterystyk metrologicznych taksometrów
+#### Rozdział 2 – Wymagania w zakresie charakterystyk metrologicznych taksometrów
 
-#### Rozdział 3 Szczegółowy zakres sprawdzeń wykonywanych podczas legalizacji ponownej taksometrów objętych zatwierdzeniem typu
+#### Rozdział 3 – Szczegółowy zakres sprawdzeń wykonywanych podczas legalizacji ponownej taksometrów objętych zatwierdzeniem typu
 
-#### Rozdział 4 Szczegółowy zakres sprawdzeń wykonywanych podczas legalizacji ponownej taksometrów objętych oceną zgodności
+#### Rozdział 4 – Szczegółowy zakres sprawdzeń wykonywanych podczas legalizacji ponownej taksometrów objętych oceną zgodności
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+## Tytuł w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Przedsiębiorczości i Technologii z dnia 10 stycznia 2019 r. zmieniającego rozporządzenie w sprawie wymagań, którym powinny odpowiadać taksometry elektroniczne, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych (Dz. U. poz. 146), które weszło w życie 8 lutego 2019 r. Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 11 września 2007 r., pod numerem 2007/0498/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych (Dz. Urz. UE L 204 z 21.07.1998, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337). Na podstawie art. 9a pkt 1 i 2 ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2019 r. poz. 541, 675 i 1123) zarządza się, co następuje:
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+## Tytuł w brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.
+
+#### Rozdział 3
+
+## Tytuł w brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2.
+
+#### Rozdział 4
+
+#### Rozdział 5
 

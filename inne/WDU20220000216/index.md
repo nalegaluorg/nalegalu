@@ -31,12 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 8 sierpnia 2017 r. w sprawie sposobu organizacji zwalczania zagrożeń i zanieczyszczeń na morzu (Dz. U. poz. 1631), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 10 września 2020 r. zmieniającym rozporządzenie w sprawie sposobu organizacji zwalczania zagrożeń i zanieczyszczeń na morzu (Dz. U. poz. 1622).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 10 września 2020 r. zmieniającego rozporządzenie w sprawie sposobu organizacji zwalczania zagrożeń i zanieczyszczeń na morzu (Dz. U. poz. 1622), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 10 września 2020 r. zmieniającego rozporządzenie w sprawie sposobu organizacji zwalczania zagrożeń i zanieczyszczeń na morzu (Dz. U. poz. 1622), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Tekst jednolity rozporządzenia Rady Ministrów z dnia 8 sierpnia 2017 r. w sprawie sposobu organizacji zwalczania zagrożeń i zanieczyszczeń na morzu
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Tekst jednolity rozporządzenia Rady Ministrów z dnia 8 sierpnia 2017 r. w sprawie sposobu organizacji zwalczania zagrożeń i zanieczyszczeń na morzuNiniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2013/30/UE z dnia 12 czerwca 2013 r. w sprawie bezpieczeństwa działalności związanej ze złożami ropy naftowej i gazu ziemnego na obszarach morskich oraz zmiany dyrektywy 2004/35/WE (Dz. Urz. UE L 178 z 28.06.2013, str. 66).
 Na podstawie art. 24 ust. 1 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2020 r. poz. 1955) zarządza się, co następuje:
 § 1.
 1.
@@ -69,7 +67,7 @@ jednostki współdziałające, o których mowa w § 16 pkt 2‒6.
 2.
 Organizację Służby SAR określają przepisy w sprawie szczegółowej organizacji Morskiej Służby Poszukiwania i Ratownictwa.
 § 3.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 10 września 2020 r. zmieniającego rozporządzenie w sprawie sposobu organizacji zwalczania zagrożeń i zanieczyszczeń na morzu (Dz. U. poz. 1622), które weszło w życie z dniem 22 września 2020 r..
 Kapitan statku, który spowodował zagrożenie lub zanieczyszczenie morza, jest obowiązany podjąć, w miarę posiadanych możliwości, natychmiastowe działania mające na celu w szczególności zatrzymanie wypływu szkodliwej substancji lub ograniczenie jego wielkości oraz przeciwdziałanie rozprzestrzenianiu się zanieczyszczenia.
 2.
 Armator statku, który spowodował zagrożenie lub zanieczyszczenie morza, jest obowiązany do niezwłocznego podjęcia działań minimalizujących skutki zanieczyszczenia środowiska morskiego w szczególności przez usunięcie substancji powodującej zanieczyszczenie, wydobycie z wraku paliwa lub innej substancji szkodliwej dla środowiska morskiego oraz odszukanie i wydobycie z morza niebezpiecznych substancji przewożonych w opakowaniach.
@@ -157,7 +155,7 @@ Krajowy Plan zatwierdza minister właściwy do spraw gospodarki morskiej.
 Krajowy Plan podlega ogłoszeniu przez udostępnienie na stronie Biuletynu Informacji Publicznej Służby SAR oraz ministerstwa obsługującego ministra właściwego do spraw gospodarki morskiej.
 7.
 Dyrektor Służby SAR dokonuje bieżącej aktualizacji Krajowego Planu. W przypadku aktualizacji, która wprowadza znaczące zmiany w Krajowym Planie, w szczególności w zakresie spraw, o których mowa w ust. 3, projekt aktualizacji podlega konsultacjom i uzgodnieniu z podmiotami, o których mowa w ust. 2 i 3.
-§ 9a.
+§ 9aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Do Krajowego Planu załącza się zatwierdzone plany zwalczania:
 1)
 zagrożeń i zanieczyszczeń wód portowych opracowane przez podmioty zarządzające portem lub przystanią morską oraz podmioty prowadzące działalność i użytkujące nabrzeże w granicach portu morskiego lub przystani morskiej, których działalność może powodować zagrożenie zanieczyszczenia wód portowych;
@@ -211,12 +209,12 @@ informowaniu kierownika akcji o bieżącej sytuacji, sposobie i stopniu realizac
 § 14.
 1.
 Na obszarze portu inicjatorem i koordynatorem akcji zwalczania zagrożeń i zanieczyszczeń prowadzonej przez wyspecjalizowane jednostki organizacyjne jest kapitan portu, a w porcie wojennym ‒ komendant portu, działający w sposób określony odpowiednio przez właściwego dyrektora urzędu morskiego albo Dowódcę Generalnego Rodzajów Sił Zbrojnych.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Działania mające na celu zwalczanie zagrożeń i zanieczyszczeń na obszarach portowych podejmują kierownicy podmiotów prowadzących działalność i użytkujących nabrzeża w granicach portów morskich lub przystani morskich oraz podmioty zarządzające portem lub przystanią morską przy wykorzystaniu wyspecjalizowanych jednostek organizacyjnych, zgodnie z planami zwalczania zagrożeń i zanieczyszczeń wód portowych.
 3.
 W odniesieniu do eksploatacji zasobów mineralnych znajdujących się pod dnem morskim, budowy i użytkowania sztucznych wysp, budowy i eksploatacji urządzeń technicznych im towarzyszących, operatorzy przemysłowych instalacji morskich i urządzeń zobowiązani są do inicjowania i koordynacji akcji zwalczania zagrożeń i zanieczyszczeń na obszarach właściwych im terytorialnie.
 § 15.
-(uchylony).
+(uchylony).Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.
 § 16.
 W przypadku konieczności wynikającej z potrzeb akcji zwalczania zanieczyszczeń Służba SAR współdziała z jednostkami organizacyjnymi:
 1)
@@ -295,5 +293,5 @@ Informacje, o których mowa w ust. 1, Dyrektor Służby SAR udostępnia w szczeg
 § 20.
 Krajowy Plan sporządzony i zatwierdzony przez ministra właściwego do spraw gospodarki morskiej wraz z jego aktualizacjami, na podstawie dotychczasowych przepisów pozostaje w mocy do dnia zatwierdzenia Krajowego Planu sporządzonego na podstawie niniejszego rozporządzenia.
 § 21.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 30 sierpnia 2017 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 3 grudnia 2002 r. w sprawie organizacji i sposobu zwalczania zagrożeń i zanieczyszczeń na morzu (Dz. U. z 2015 r. poz. 358), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 15 pkt 2 ustawy z dnia 25 maja 2017 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 1215). 1) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2013/30/UE z dnia 12 czerwca 2013 r. w sprawie bezpieczeństwa działalności związanej ze złożami ropy naftowej i gazu ziemnego na obszarach morskich oraz zmiany dyrektywy 2004/35/WE (Dz. Urz. UE L 178 z 28.06.2013, str. 66). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 10 września 2020 r. zmieniającego rozporządzenie w sprawie sposobu organizacji zwalczania zagrożeń i zanieczyszczeń na morzu (Dz. U. poz. 1622), które weszło w życie z dniem 22 września 2020 r. 3) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 30 sierpnia 2017 r. 7) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 3 grudnia 2002 r. w sprawie organizacji i sposobu zwalczania zagrożeń i zanieczyszczeń na morzu (Dz. U. z 2015 r. poz. 358), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 15 pkt 2 ustawy z dnia 25 maja 2017 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 1215).
 

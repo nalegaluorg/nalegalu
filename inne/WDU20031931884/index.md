@@ -22,10 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-09-10 |
 | Data wydania | 2003-11-18 |
-| Wejście w życie | 2004-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031931884) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1884/text.pdf) |
 
+Udzielanie pomocy obcemu państwu oraz korzystanie z jego pomocy przy dochodzeniu należności pieniężnych
+Zasady ogólne
+Udzielanie informacji
 § 1.
 Organ wykonujący dostarcza, na wniosek obcego państwa, wszystkie informacje, które mogą być użyteczne lub potrzebne temu państwu w dochodzeniu jego należności pieniężnych, z zastrzeżeniem § 2.
 § 2.
@@ -77,6 +79,7 @@ Jeżeli z wnioskiem analogicznym do wniosku, o którym mowa w § 4, zwraca się 
 § 7.
 Do wniosku, o którym mowa w § 4, stosuje się przepisy dotyczące wniosku o udzielenie informacji.
 Wniosek o udzielenie informacji może być w każdym czasie wycofany przez organ wnioskujący. Informację o wycofaniu wniosku przekazuje się obcemu państwu w formie pisemnej.
+Powiadamianie
 § 1.
 Wniosek o powiadomienie, kierowany przez organ wnioskujący do obcego państwa, może dotyczyć podmiotu, który zgodnie z prawem Rzeczypospolitej Polskiej powinien być powiadomiony o czynnościach i orzeczeniach administracyjnych i sądowych, które zostały podjęte w Rzeczypospolitej Polskiej i które odnoszą się do należności pieniężnych przysługujących od tego podmiotu lub do dochodzenia takiej należności.
 § 2.
@@ -99,6 +102,7 @@ Jeżeli w ocenie organu wykonującego informacje zawarte we wniosku o powiadomie
 Jeżeli z wnioskiem o przekazanie uzupełniających informacji występuje państwo obce, organ wykonujący przekazuje dostępne mu informacje.
 § 3.
 Organ wykonujący niezwłocznie informuje obce państwo o dacie dokonanego powiadomienia przez zwrot jednego egzemplarza wniosku poświadczonego na odwrocie.
+Dochodzenie lub zabezpieczanie należności pieniężnych
 § 1.
 Organ wnioskujący, z zastrzeżeniem § 2, może wystąpić do obcego państwa z wnioskiem o dochodzenie należności pieniężnych, jeżeli:
 1)
@@ -274,55 +278,41 @@ Jeżeli powiadomienie, analogiczne do powiadomienia, o którym mowa w §. 1, otr
 § 4.
 Organ wnioskujący w terminie 2 miesięcy od dnia potwierdzenia, o którym mowa w § 3, informuje obce państwo, czy i w jakim zakresie pokryje wnioskowane koszty.
 § 5.
-Jeżeli organ wykonujący nie uzgodni z zainteresowanym obcym państwem sposobu pokrycia kosztów, nie podejmuje się czynności wywołujących skutki, o których mowa w art. 64c § 4c.
-” ;
+Jeżeli organ wykonujący nie uzgodni z zainteresowanym obcym państwem sposobu pokrycia kosztów, nie podejmuje się czynności wywołujących skutki, o których mowa w art. 64c § 4c. ” ;
 16)
-w art. 69 § 3 otrzymuje brzmienie:
-„
+w art. 69 § 3 otrzymuje brzmienie: „
 § 3.
-Przepis § 1 nie ma zastosowania do należności z tytułu składek na ubezpieczenie społeczne, zobowiązań podatkowych oraz należności, o których mowa w art. 2 § 1 pkt 4.
-” ;
+Przepis § 1 nie ma zastosowania do należności z tytułu składek na ubezpieczenie społeczne, zobowiązań podatkowych oraz należności, o których mowa w art. 2 § 1 pkt 4. ” ;
 17)
-w art. 105 § 3 otrzymuje brzmienie:
-„
+w art. 105 § 3 otrzymuje brzmienie: „
 § 3.
-Przekazanie, o którym mowa w § 1 pkt 3, i sprzedaż na warunkach określonych w § 2 następuje po cenie oszacowania.
-” ;
+Przekazanie, o którym mowa w § 1 pkt 3, i sprzedaż na warunkach określonych w § 2 następuje po cenie oszacowania. ” ;
 18)
 w art. 110:
 a)
-po § 1 dodaje się § 1a w brzmieniu:
-„
+po § 1 dodaje się § 1a w brzmieniu: „
 § 1a.
-O okolicznościach, o których mowa w § 1, organ egzekucyjny informuje wierzyciela niebędącego jednocześnie organem egzekucyjnym lub organ wykonujący, jeżeli egzekucja jest prowadzona w celu ściągnięcia należności pieniężnych obcego państwa.
-” ,
+O okolicznościach, o których mowa w § 1, organ egzekucyjny informuje wierzyciela niebędącego jednocześnie organem egzekucyjnym lub organ wykonujący, jeżeli egzekucja jest prowadzona w celu ściągnięcia należności pieniężnych obcego państwa. ” ,
 b)
-§ 2 i 3 otrzymują brzmienie:
-„
+§ 2 i 3 otrzymują brzmienie: „
 § 2.
 Egzekucja administracyjna z nieruchomości może być prowadzona tylko w celu wyegzekwowania należności pieniężnych określonych lub ustalonych w ostatecznym orzeczeniu, a w przypadku orzeczenia sądu wydanego na terytorium Rzeczypospolitej Polskiej – zaopatrzonego również w klauzulę wykonalności, a także należności pieniężnych wynikających z tytułu wykonawczego, o którym mowa w art. 44 ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa.
 § 3.
-Organ egzekucyjny podejmuje czynności egzekucyjne związane z egzekucją z nieruchomości na wniosek wierzyciela, z tym że jeżeli wierzycielem jest obce państwo – na wniosek organu wykonującego, z zastrzeżeniem § 3a.
-” ,
+Organ egzekucyjny podejmuje czynności egzekucyjne związane z egzekucją z nieruchomości na wniosek wierzyciela, z tym że jeżeli wierzycielem jest obce państwo – na wniosek organu wykonującego, z zastrzeżeniem § 3a. ” ,
 c)
-po § 3 dodaje się § 3a w brzmieniu:
-„
+po § 3 dodaje się § 3a w brzmieniu: „
 § 3a.
-Organ egzekucyjny podejmuje czynności, o których mowa w § 3, po otrzymaniu zaliczki na pokrycie przewidywanych wydatków od wierzyciela niebędącego naczelnikiem urzędu skarbowego lub obcym państwem, zwanego dalej „wierzycielem finansującym”.
-” ,
+Organ egzekucyjny podejmuje czynności, o których mowa w § 3, po otrzymaniu zaliczki na pokrycie przewidywanych wydatków od wierzyciela niebędącego naczelnikiem urzędu skarbowego lub obcym państwem, zwanego dalej „wierzycielem finansującym”. ” ,
 d)
-§ 4 i 5 otrzymują brzmienie:
-„
+§ 4 i 5 otrzymują brzmienie: „
 § 4.
 Wierzyciel finansujący wpłaca zaliczkę do organu egzekucyjnego sukcesywnie, w miarę podejmowania przez ten organ kolejnych czynności egzekucyjnych. Wysokość poszczególnych wpłat zaliczki określa organ egzekucyjny na podstawie przewidywanych wydatków, z tym że jeżeli do egzekucji z nieruchomości przystąpili kolejni wierzyciele finansujący – również dla tych wierzycieli, rozdzielając kwotę zaliczki między wszystkich wierzycieli finansujących w proporcji odpowiadającej stosunkowi ich należności pieniężnych do łącznej kwoty należności pieniężnych wierzycieli finansujących, z zastrzeżeniem § 5.
 § 5.
-Łączna kwota zaliczki należna od jednego wierzyciela finansującego nie może być większa niż 5% egzekwowanej należności pieniężnej wraz z odsetkami z tytułu niezapłacenia jej w terminie i nie większa niż 11 400 zł, z tym że kwotę odsetek przyjmuje się na dzień ustalenia pierwszej zaliczki.
-” ;
+Łączna kwota zaliczki należna od jednego wierzyciela finansującego nie może być większa niż 5% egzekwowanej należności pieniężnej wraz z odsetkami z tytułu niezapłacenia jej w terminie i nie większa niż 11 400 zł, z tym że kwotę odsetek przyjmuje się na dzień ustalenia pierwszej zaliczki. ” ;
 19)
-art. 110b otrzymuje brzmienie:
-„
+art. 110b otrzymuje brzmienie: „
 
-**Art. 1.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2002 r. Nr 110, poz. 968, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2002 r. Nr 110, poz. 968, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984, Nr 127, poz. 1090, Nr 141, poz. 1178, Nr 153, poz. 1271, Nr 169, poz. 1387, Nr 199, poz. 1672, Nr 200, poz. 1679 i Nr 216, poz. 1824 oraz z 2003 r. Nr 80, poz. 718, Nr 135, poz. 1268 i Nr 137, poz. 1302.) wprowadza się następujące zmiany:
 
 - **1)** art. 1 otrzymuje brzmienie: „ Ustawa określa:
 - **1)** sposób postępowania wierzycieli w przypadkach uchylania się zobowiązanych od wykonania ciążących na nich obowiązków, o których mowa w art. 2,
@@ -354,7 +344,7 @@ art. 110b otrzymuje brzmienie:
 
 § 1. Egzekucji administracyjnej podlegają następujące obowiązki:
 
-- **1)** podatki, opłaty i inne należności, do których stosuje się przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926, z późn. zm.),
+- **1)** podatki, opłaty i inne należności, do których stosuje się przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387 oraz z 2003 r. Nr 130, poz. 1188 i Nr 137, poz. 1302.),
 - **2)** grzywny i kary pieniężne wymierzane przez organy administracji publicznej,
 - **3)** należności pieniężne, inne niż wymienione w pkt 1 i 2, jeżeli pozostają we właściwości rzeczowej organów administracji publicznej,
 - **4)** należności przypadające od jednostek budżetowych, wynikające z zastosowania wzajemnego potrącenia zobowiązań podatkowych z zobowiązaniami tych jednostek,
@@ -482,9 +472,9 @@ art. 110b otrzymuje brzmienie:
 
 - **15)** w dziale I rozdział 7 otrzymuje brzmienie: „
 
-#### Rozdział 7 Udzielanie pomocy obcemu państwu oraz korzystanie z jego pomocy przy dochodzeniu należności pieniężnych
+#### Rozdział 7
 
-##### Oddział 1 Zasady ogólne
+##### Oddział 1
 
 **Art. 66a.** Przepisy niniejszego rozdziału stosuje się przy udzielaniu pomocy obcemu państwu lub korzystaniu z jego pomocy w sprawach dotyczących należności pieniężnych, o których mowa w art. 2 § 1 pkt 8 i 9, jeżeli ratyfikowana umowa międzynarodowa, której stroną jest Rzeczpospolita Polska, nie stanowi inaczej.
 
@@ -566,11 +556,11 @@ art. 110b otrzymuje brzmienie:
 - **2)** organem właściwym do uzgodnienia z nim sposobu pokrywania kosztów, o którym mowa w art. 64c § 4c,
 - **3)** organem odpowiedzialnym za korespondencję drogą elektroniczną.
 
-##### Oddział 2 Udzielanie informacji
+##### Oddział 2
 
-##### Oddział 3 Powiadamianie
+##### Oddział 3
 
-##### Oddział 4 Dochodzenie lub zabezpieczanie należności pieniężnych
+##### Oddział 4
 
 ## Tytuł wykonawczy wystawiony przez organ wykonujący może nie zawierać treści określonych w art. 27 § 1 w zakresie, w jakim tych treści nie zawiera zagraniczny tytuł wykonawczy.
 
@@ -596,5 +586,5 @@ art. 110b otrzymuje brzmienie:
 
 **Art. 168b.** Zobowiązany może dochodzić odszkodowania od organu egzekucyjnego lub wierzyciela, a jeżeli wierzycielem jest obce państwo – od organu wykonującego, na podstawie przepisów Kodeksu cywilnego, za szkody wyrządzone wskutek niezgodnego z przepisami prawa wszczęcia lub prowadzenia egzekucji administracyjnej lub postępowania zabezpieczającego. ” . 1. Przepis art. 66b § 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. 2. Obowiązek udzielenia pomocy państwu – członkowi Unii Europejskiej lub możliwość skorzystania z jego pomocy przy dochodzeniu należności pieniężnych na zasadach określonych w ustawie wymienionej w art. 1 istnieje, z wyjątkiem art. 66c § 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2004 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2004 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984, Nr 127, poz. 1090, Nr 141, poz. 1178, Nr 153, poz. 1271, Nr 169, poz. 1387, Nr 199, poz. 1672, Nr 200, poz. 1679 i Nr 216, poz. 1824 oraz z 2003 r. Nr 80, poz. 718, Nr 135, poz. 1268 i Nr 137, poz. 1302. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387 oraz z 2003 r. Nr 130, poz. 1188 i Nr 137, poz. 1302.
 

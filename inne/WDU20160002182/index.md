@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 9 grudnia 2016 r. w sprawie egzaminu aktuarialnego
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 9 grudnia 2016 r. w sprawie egzaminu aktuarialnego Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-09 |
 | Data wydania | 2016-12-28 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002182) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2182/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepis ogólny Rozdział 2 – Egzamin Rozdział 3 – Uznanie studiów wyższych oraz uzyskanie zwolnienia z egzaminu Rozdział 4 – Przepis przejściowy i końcowy
+Treść rozporządzenia
 Załącznik – Zakres obowiązujących tematów egzaminu aktuarialnego
 Treść rozporządzenia
 Na podstawie art. 72 ust. 2 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615 i 1948) zarządza się, co następuje:
+Przepis ogólny
 § 1.
 Rozporządzenie określa:
 1)
@@ -42,6 +42,7 @@ sposób kontroli przeprowadzenia egzaminu;
 sposób i tryb uznawania studiów wyższych, o których mowa w art. 70 ust. 5 pkt 4 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, zwanej dalej „ustawą”, oraz cofania tego uznania;
 5)
 sposób i tryb zwalniania kandydata z egzaminu.
+Egzamin
 § 2.
 1.
 Ustala się zakres obowiązujących tematów egzaminu podzielonych na bloki tematyczne, stanowiący załącznik do rozporządzenia.
@@ -155,6 +156,7 @@ Osoba składająca egzamin może odwołać się od wyników egzaminu w terminie 
 Komisja podejmuje uchwałę w sprawie odwołania, o którym mowa w ust. 1, w terminie 30 dni od dnia jego doręczenia Komisji.
 3.
 O wyniku odwołania osobę odwołującą się zawiadamia się przesyłką poleconą w rozumieniu art. 3 pkt 22 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2016 r. poz. 1113, 1250, 1823 i 1948), zwaną dalej „przesyłką poleconą”.
+Uznanie studiów wyższych oraz uzyskanie zwolnienia z egzaminu
 § 22.
 1.
 Komisja podejmuje uchwałę w sprawie uznania studiów wyższych, o którym mowa w art. 70 ust. 5 pkt 4 ustawy, w terminie trzech miesięcy od dnia złożenia wniosku przez jednostkę organizacyjną uczelni.
@@ -192,6 +194,7 @@ Od uchwały, o której mowa w ust. 2, przysługuje kandydatowi na aktuariusza od
 Komisja podejmuje uchwałę w sprawie odwołania, o którym mowa w ust. 3, w terminie 30 dni od dnia jego doręczenia Komisji.
 5.
 Uchwały, o których mowa w ust. 2 i 4, doręcza się kandydatowi na aktuariusza przesyłką poleconą.
+Przepis przejściowy i końcowy
 § 25.
 1.
 Do przeprowadzenia egzaminu ogłoszonego przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
@@ -202,8 +205,7 @@ W przypadku gdy osoby, o których mowa w ust. 2, nie zdołały zaliczyć wszystk
 4.
 Osoby, o których mowa w ust. 3, mogą kontynuować zdawanie egzaminu zgodnie z przepisami niniejszego rozporządzenia, nie dłużej jednak niż przez pięć lat od zaliczenia pierwszego bloku tematycznego.
 § 26.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 kwietnia 2015 r. w sprawie egzaminu aktuarialnego (Dz. U. poz. 700), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 484 ust. 1 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615 i 1948).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 kwietnia 2015 r. w sprawie egzaminu aktuarialnego (Dz. U. poz. 700), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 484 ust. 1 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615 i 1948). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 kwietnia 2015 r. w sprawie egzaminu aktuarialnego (Dz. U. poz. 700), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 484 ust. 1 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615 i 1948).
 Załącznik – Zakres obowiązujących tematów egzaminu aktuarialnego
 A.
 Zakres przedmiotowy
@@ -450,11 +452,19 @@ Opodatkowanie zakładów ubezpieczeń
 9.4.
 Rekomendacje i wytyczne Komisji Nadzoru Finansowego, standardy wydane przez Polskie Stowarzyszenie Aktuariuszy i kodeks etyki Polskiego Stowarzyszenia Aktuariuszy.
 
-#### Rozdział 1 Przepis ogólny
+#### Rozdział 1 – Przepis ogólny
 
-#### Rozdział 2 Egzamin
+#### Rozdział 2 – Egzamin
 
-#### Rozdział 3 Uznanie studiów wyższych oraz uzyskanie zwolnienia z egzaminu
+#### Rozdział 3 – Uznanie studiów wyższych oraz uzyskanie zwolnienia z egzaminu
 
-#### Rozdział 4 Przepis przejściowy i końcowy
+#### Rozdział 4 – Przepis przejściowy i końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

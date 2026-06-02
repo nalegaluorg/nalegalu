@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 28 listopada 2019 r. w sprawie współczynnika prowizji oraz sposobu i terminów pobierania wynagrodzenia prowizyjnego z tytułu obsługi Funduszu Rezerwowego
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 28 listopada 2019 r. w sprawie współczynnika prowizji oraz sposobu i terminów pobierania wynagrodzenia prowizyjnego z tytułu obsługi Funduszu Rezerwowego Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-11-28 |
 | Data wydania | 2019-12-03 |
-| Wejście w życie | 2019-12-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002343) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2343/text.pdf) |
 
@@ -36,6 +35,5 @@ Jeżeli termin, o którym mowa w ust. 1, przypada na dzień wolny od pracy w Ban
 § 2.
 Współczynnik prowizji wynosi 1,06.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
 

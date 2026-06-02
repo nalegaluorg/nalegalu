@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-09-22 |
 | Data wydania | 2006-11-21 |
-| Wejście w życie | 2006-12-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062081536) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1536/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1270, z późn. zm.) art. 19 otrzymuje brzmienie: „
+**Art. 1.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1270, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 94, poz. 788, Nr 169, poz. 1417, Nr 250, poz. 2118 i Nr 264, poz. 2205 oraz z 2006 r. Nr 38, poz. 268.) art. 19 otrzymuje brzmienie: „
 
 **Art. 19.** Niezależnie od przyczyn wymienionych w art. 18, sąd wyłącza sędziego na jego żądanie lub na wniosek strony, jeżeli istnieje okoliczność tego rodzaju, że mogłaby wywołać uzasadnioną wątpliwość co do jego bezstronności w danej sprawie. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 94, poz. 788, Nr 169, poz. 1417, Nr 250, poz. 2118 i Nr 264, poz. 2205 oraz z 2006 r. Nr 38, poz. 268.
 

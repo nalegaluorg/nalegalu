@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-03-08 |
 | Data wydania | 2013-05-13 |
-| Wejście w życie | 2013-06-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000559) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/559/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 10 marca 2006 r. o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej (Dz. U. Nr 52, poz. 379, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 10 marca 2006 r. o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej (Dz. U. Nr 52, poz. 379, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 106, poz. 622, Nr 171, poz. 1016 i Nr 291, poz. 1707.) wprowadza się następujące zmiany:
 
 - **1)** art. 1 otrzymuje brzmienie: „ Ustawa określa zasady oraz tryb zwrotu podatku akcyzowego, zwanego dalej „zwrotem podatku”, zawartego w cenie oleju napędowego oznaczonego kodem CN 2710 19 41 do 2710 19 49 oraz kodem CN 3824 90 91, wykorzystywanego do produkcji rolnej, zwanego dalej „olejem napędowym”. ” ;
 - **2)** po art. 1 dodaje się art. 1a w brzmieniu: „ Zmiany oznaczenia oleju napędowego w Nomenklaturze Scalonej (CN) nie powodują zmian w zakresie zwrotu podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej, jeżeli nie zostały określone w niniejszej ustawie. ” ;
@@ -51,5 +50,5 @@ source: "eli-html"
 
 - **b)**
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 106, poz. 622, Nr 171, poz. 1016 i Nr 291, poz. 1707.
 

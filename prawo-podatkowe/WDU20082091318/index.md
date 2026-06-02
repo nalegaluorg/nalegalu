@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw
+# Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 28 września 1991 r. o kontroli skarbowej, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-11-07 |
 | Data wydania | 2008-11-28 |
-| Wejście w życie | 2009-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082091318) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1318/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.) wprowadza się następujące zmiany:
+Wykonanie decyzji
+
+**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732, Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671 oraz z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316.) wprowadza się następujące zmiany:
 
 - **1)** w art. 14f po § 2 dodaje się § 2a w brzmieniu: „
 
@@ -121,7 +122,7 @@ source: "eli-html"
 
 - **13)** w art. 61 po § 1a dodaje się § 1b w brzmieniu: „
 
-§ 1b. Zapłata podatków przez mikroprzedsiębiorców w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.) może nastąpić również w gotówce. ” ;
+§ 1b. Zapłata podatków przez mikroprzedsiębiorców w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280 oraz z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888 i Nr 171, poz. 1056.) może nastąpić również w gotówce. ” ;
 
 - **14)** po art. 61 dodaje się art. 61a w brzmieniu: „
 
@@ -188,7 +189,7 @@ source: "eli-html"
 § 2. Związek, o którym mowa w § 1, ma miejsce, gdy podczas trwania użytkowania między:
 
 - **1)** właścicielem, samoistnym posiadaczem lub użytkownikiem wieczystym rzeczy lub prawa majątkowego a ich użytkownikiem lub
-- **2)** osobami pełniącymi funkcje zarządzające, nadzorcze albo kontrolne w podmiocie będącym właścicielem, samoistnym posiadaczem lub użytkownikiem wieczystym rzeczy lub prawa majątkowego a osobami pełniącymi takie funkcje w podmiocie będącym ich użytkownikiem istnieją powiązania o charakterze rodzinnym, kapitałowym lub majątkowym w rozumieniu przepisów o podatku dochodowym albo wynikające ze stosunku pracy. ” ;
+- **2)** osobami pełniącymi funkcje zarządzające, nadzorcze albo kontrolne w podmiocie będącym właścicielem, samoistnym posiadaczem lub użytkownikiem wieczystym rzeczy lub prawa majątkowego a osobami pełniącymi takie funkcje w podmiocie będącym ich użytkownikiem – istnieją powiązania o charakterze rodzinnym, kapitałowym lub majątkowym w rozumieniu przepisów o podatku dochodowym albo wynikające ze stosunku pracy. ” ;
 - **25)** w art. 114a po § 1 dodaje się § 1a w brzmieniu: „
 
 § 1a. Przepis § 1 stosuje się, jeżeli między dzierżawcą lub użytkownikiem a podatnikiem istnieją powiązania o charakterze rodzinnym, kapitałowym lub majątkowym w rozumieniu przepisów o podatku dochodowym albo wynikające ze stosunku pracy. ” ;
@@ -249,7 +250,7 @@ source: "eli-html"
 - **37)** uchyla się art. 238;
 - **38)** w dziale IV po rozdziale 16 dodaje się rozdział 16a w brzmieniu: „
 
-#### Rozdział 16a Wykonanie decyzji
+#### Rozdział 16a
 
 **Art. 239a.** Decyzja nieostateczna, nakładająca na stronę obowiązek podlegający wykonaniu w trybie przepisów o postępowaniu egzekucyjnym w administracji, nie podlega wykonaniu, chyba że decyzji nadano rygor natychmiastowej wykonalności.
 
@@ -333,7 +334,7 @@ source: "eli-html"
     - **f)**
     - **g)**
 
-- **2)** organ podatkowy posiada informacje, z których wynika, że kontrolowany: został prawomocnie skazany w Rzeczypospolitej Polskiej za popełnienie przestępstwa skarbowego, przestępstwa przeciwko obrotowi gospodarczemu, przestępstwa z ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.) lub wykroczenia polegającego na utrudnianiu kontroli; w przypadku osoby prawnej ten warunek odnosi się do każdego członka zarządu lub osoby zarządzającej, a w przypadku spółek niemających osobowości prawnej – do każdego wspólnika, jest zobowiązanym w postępowaniu egzekucyjnym w administracji, nie ma miejsca zamieszkania lub adresu siedziby albo doręczanie pism na podane adresy było bezskuteczne lub utrudnione.
+- **2)** organ podatkowy posiada informacje, z których wynika, że kontrolowany: został prawomocnie skazany w Rzeczypospolitej Polskiej za popełnienie przestępstwa skarbowego, przestępstwa przeciwko obrotowi gospodarczemu, przestępstwa z ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155, z 2005 r. Nr 10, poz. 66, Nr 184, poz. 1539 i Nr 267, poz. 2252, z 2006 r. Nr 157, poz. 1119 i Nr 208, poz. 1540 oraz z 2008 r. Nr 63, poz. 393, Nr 144, poz. 900 i Nr 171, poz. 1056.) lub wykroczenia polegającego na utrudnianiu kontroli; w przypadku osoby prawnej ten warunek odnosi się do każdego członka zarządu lub osoby zarządzającej, a w przypadku spółek niemających osobowości prawnej – do każdego wspólnika, jest zobowiązanym w postępowaniu egzekucyjnym w administracji, nie ma miejsca zamieszkania lub adresu siedziby albo doręczanie pism na podane adresy było bezskuteczne lub utrudnione.
     - **a)**
     - **b)**
     - **c)**
@@ -381,7 +382,7 @@ source: "eli-html"
 - **1)** na wniosek zbywającego;
 - **2)** na wniosek nabywcy, za zgodą zbywającego. ” .
 
-**Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2005 r. Nr 229, poz. 1954, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2005 r. Nr 229, poz. 1954, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 157, poz. 1119 i Nr 187, poz. 1381 oraz z 2007 r. Nr 89, poz. 589, Nr 115, poz. 794, Nr 176, poz. 1243 i Nr 192, poz. 1378.) wprowadza się następujące zmiany:
 
 - **1)** w art. 154: w § 1 w tiret trzecim kropkę zastępuje się przecinkiem i dodaje się tiret czwarte w brzmieniu: „- niezłożenie oświadczenia, o którym mowa w art. 39 § 1 ustawy – Ordynacja podatkowa, mimo wezwania do jego złożenia albo niewykazanie w złożonym oświadczeniu wszystkich rzeczy lub praw podlegających ujawnieniu.”, § 4 otrzymuje brzmienie: „
     - **a)**
@@ -408,7 +409,7 @@ source: "eli-html"
 
 § 3. Zajęcie zabezpieczające nie pozbawia zobowiązanego prawa do polecenia zapłaty zabezpieczonej należności pieniężnej ze środków pieniężnych znajdujących się na rachunku, o którym mowa w art. 165 § 2. ” .
 
-**Art. 3.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 594, Nr 91, poz. 868, Nr 171, poz. 1800 i Nr 173, poz. 1808, z 2005 r. Nr 124, poz. 1042, Nr 132, poz. 1110 i Nr 183, poz. 1537, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708 i 711, Nr 157, poz. 1119, Nr 191, poz. 1413 i Nr 217, poz. 1590, z 2007 r. Nr 171, poz. 1207 oraz z 2008 r. Nr 110, poz. 707.) wprowadza się następujące zmiany:
 
 - **1)** w art. 13: po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
@@ -431,7 +432,7 @@ source: "eli-html"
 
 2. Organ podatkowy wymieniony w ust. 1 uprawniony jest do nadania decyzji rygoru natychmiastowej wykonalności. ” .
 
-**Art. 4.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2004 r. Nr 269, poz. 2681, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2004 r. Nr 269, poz. 2681, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 14, poz. 113, z 2006 r. Nr 104, poz. 708 i 711 oraz z 2007 r. Nr 112, poz. 769.) wprowadza się następujące zmiany:
 
 - **1)** w art. 10 uchyla się ust. 2;
 - **2)** po art. 10 dodaje się art. 10a i 10b w brzmieniu: „
@@ -457,7 +458,7 @@ source: "eli-html"
 
 3. Wydając rozporządzenie, o którym mowa w ust. 2, minister właściwy do spraw finansów publicznych uwzględni konieczność zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w zgłoszeniach oraz ich ochrony przed nieuprawnionym dostępem, w szczególności poprzez weryfikację podpisu i znakowanie czasem. ” .
 
-**Art. 5.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, z późn. zm.) w art. 47 wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 17, poz. 95, Nr 21, poz. 125, Nr 112, poz. 769, Nr 115, poz. 791, 792 i 793 i Nr 176, poz. 1243 oraz z 2008 r. Nr 63, poz. 394, Nr 67, poz. 411, Nr 141, poz. 888 i Nr 171, poz. 1056.) w art. 47 wprowadza się następujące zmiany:
 
 - **1)** ust. 4b otrzymuje brzmienie: „
 
@@ -465,7 +466,7 @@ source: "eli-html"
 
 - **2)** po ust. 4d dodaje się ust. 4e w brzmieniu: „
 
-4e. Płatnik składek będący mikroprzedsiębiorcą w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.) może opłacać należności z tytułu składek również w formie przekazu pocztowego. ” .
+4e. Płatnik składek będący mikroprzedsiębiorcą w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280 oraz z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888 i Nr 171, poz. 1056.) może opłacać należności z tytułu składek również w formie przekazu pocztowego. ” .
 
 **Art. 6.** Do postępowania podatkowego w sprawie, która była przedmiotem kontroli podatkowej zakończonej przed dniem wejścia w życie ustawy, stosuje się przepisy dotychczasowe.
 
@@ -473,5 +474,5 @@ source: "eli-html"
 
 **Art. 8.** Do odpowiedzialności podatkowej osób trzecich za zaległości podatkowe powstałe przed dniem wejścia w życie ustawy stosuje się art. 112, 114a i art. 115 § 1 ustawy zmienianej w art. 1 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 9.** Do wykonywania decyzji doręczonych przed dniem wejścia w życie ustawy stosuje się przepisy ustaw zmienianych w art. 1 i 2 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie z dniem 1 stycznia 2009 r.
+**Art. 9.** Do wykonywania decyzji doręczonych przed dniem wejścia w życie ustawy stosuje się przepisy ustaw zmienianych w art. 1 i 2 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie z dniem 1 stycznia 2009 r. 1) Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 28 września 1991 r. o kontroli skarbowej, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732, Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671 oraz z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280 oraz z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888 i Nr 171, poz. 1056. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155, z 2005 r. Nr 10, poz. 66, Nr 184, poz. 1539 i Nr 267, poz. 2252, z 2006 r. Nr 157, poz. 1119 i Nr 208, poz. 1540 oraz z 2008 r. Nr 63, poz. 393, Nr 144, poz. 900 i Nr 171, poz. 1056. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 157, poz. 1119 i Nr 187, poz. 1381 oraz z 2007 r. Nr 89, poz. 589, Nr 115, poz. 794, Nr 176, poz. 1243 i Nr 192, poz. 1378. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 594, Nr 91, poz. 868, Nr 171, poz. 1800 i Nr 173, poz. 1808, z 2005 r. Nr 124, poz. 1042, Nr 132, poz. 1110 i Nr 183, poz. 1537, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708 i 711, Nr 157, poz. 1119, Nr 191, poz. 1413 i Nr 217, poz. 1590, z 2007 r. Nr 171, poz. 1207 oraz z 2008 r. Nr 110, poz. 707. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 14, poz. 113, z 2006 r. Nr 104, poz. 708 i 711 oraz z 2007 r. Nr 112, poz. 769. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 17, poz. 95, Nr 21, poz. 125, Nr 112, poz. 769, Nr 115, poz. 791, 792 i 793 i Nr 176, poz. 1243 oraz z 2008 r. Nr 63, poz. 394, Nr 67, poz. 411, Nr 141, poz. 888 i Nr 171, poz. 1056. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280 oraz z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888 i Nr 171, poz. 1056.
 

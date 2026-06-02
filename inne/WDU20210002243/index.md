@@ -39,35 +39,28 @@ rozporządzeniem Ministra Zdrowia z dnia 8 września 2020 r. zmieniającym rozpo
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 10 lutego 2010 r. zmieniającego rozporządzenie w sprawie trybu przyznawania pracownikom Państwowej Inspekcji Sanitarnej wykonującym czynności kontrolne dodatku specjalnego do wynagrodzenia oraz wysokości tego dodatku (Dz. U. poz. 132), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 10 lutego 2010 r. zmieniającego rozporządzenie w sprawie trybu przyznawania pracownikom Państwowej Inspekcji Sanitarnej wykonującym czynności kontrolne dodatku specjalnego do wynagrodzenia oraz wysokości tego dodatku (Dz. U. poz. 132), które stanowią: „
 § 2.
 Przepisy niniejszego rozporządzenia stosuje się do czynności kontrolnych powierzonych pracownikom Państwowej Inspekcji Sanitarnej od dnia 1 stycznia 2010 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 4 maja 2020 r. zmieniającego rozporządzenie w sprawie trybu przyznawania pracownikom Państwowej Inspekcji Sanitarnej wykonującym czynności kontrolne dodatku specjalnego do wynagrodzenia oraz wysokości tego dodatku (Dz. U. poz. 804), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 4 maja 2020 r. zmieniającego rozporządzenie w sprawie trybu przyznawania pracownikom Państwowej Inspekcji Sanitarnej wykonującym czynności kontrolne dodatku specjalnego do wynagrodzenia oraz wysokości tego dodatku (Dz. U. poz. 804), które stanowią: „
 § 2.
 Państwowemu wojewódzkiemu inspektorowi sanitarnemu, zastępcy państwowego wojewódzkiego inspektora sanitarnego, państwowemu powiatowemu inspektorowi sanitarnemu oraz zastępcy państwowego powiatowego inspektora sanitarnego, powołanym po dniu 14 marca 2020 r., dodatek specjalny jest przyznawany za wykonywanie czynności kontrolnych również za okres przypadający przed dniem wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 3)
-§ 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 8 września 2020 r. zmieniającego rozporządzenie w sprawie trybu przyznawania pracownikom Państwowej Inspekcji Sanitarnej wykonującym czynności kontrolne dodatku specjalnego do wynagrodzenia oraz wysokości tego dodatku (Dz. U. poz. 1554), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 8 września 2020 r. zmieniającego rozporządzenie w sprawie trybu przyznawania pracownikom Państwowej Inspekcji Sanitarnej wykonującym czynności kontrolne dodatku specjalnego do wynagrodzenia oraz wysokości tego dodatku (Dz. U. poz. 1554), które stanowią: „
 § 2.
 Pracownikowi Państwowej Inspekcji Sanitarnej, który przed dniem wejścia w życia niniejszego rozporządzenia, w okresie obowiązywania na obszarze Rzeczypospolitej Polskiej stanu epidemii w związku z zakażeniami wirusem SARS-CoV-2, wykonywał czynności kontrolne w zakresie zapobiegania i zwalczania chorób zakaźnych, może zostać:
 1)
 przyznany dodatek specjalny w wysokości do 75% wynagrodzenia zasadniczego tego pracownika,
 2)
-zwiększony przyznany dodatek specjalny do wysokości do 75% wynagrodzenia zasadniczego tego pracownika
-za wykonywanie tych czynności.
+zwiększony przyznany dodatek specjalny do wysokości do 75% wynagrodzenia zasadniczego tego pracownika – za wykonywanie tych czynności.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 5 lipca 2002 r. w sprawie trybu przyznawania pracownikom Państwowej Inspekcji Sanitarnej wykonującym czynności kontrolne dodatku specjalnego do wynagrodzenia oraz wysokości tego dodatku
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 5 lipca 2002 r. w sprawie trybu przyznawania pracownikom Państwowej Inspekcji Sanitarnej wykonującym czynności kontrolne dodatku specjalnego do wynagrodzenia oraz wysokości tego dodatkuMinister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 Na podstawie art. 14 ust. 2 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2021 r. poz. 195) zarządza się, co następuje:
 § 1.
 Pracownikom Państwowej Inspekcji Sanitarnej wykonującym czynności kontrolne jest przyznawany miesięczny dodatek specjalny do wynagrodzenia, zwany dalej „dodatkiem specjalnym”.
@@ -93,7 +86,7 @@ dokonywanie ocen i analiz epidemiologicznych w ogniskach zachorowania na choroby
 opracowywanie dokumentacji z dokonanych czynności związanych z przeprowadzoną kontrolą;
 4)
 wizytacje związane z nadzorowaniem i monitorowaniem przebiegu programów i działań oświatowo-zdrowotnych w zakresie promocji zdrowia.
-§ 3.
+§ 3W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 4 maja 2020 r. zmieniającego rozporządzenie w sprawie trybu przyznawania pracownikom Państwowej Inspekcji Sanitarnej wykonującym czynności kontrolne dodatku specjalnego do wynagrodzenia oraz wysokości tego dodatku (Dz. U. poz. 804), które weszło w życie z dniem 20 maja 2020 r..
 Dodatek specjalny przyznaje:
 1)
 Główny Inspektor Sanitarny – państwowemu wojewódzkiemu inspektorowi sanitarnemu i zastępcy państwowego wojewódzkiego inspektora sanitarnego oraz państwowemu granicznemu inspektorowi sanitarnemu i zastępcy państwowego granicznego inspektora sanitarnego;
@@ -106,7 +99,7 @@ państwowy wojewódzki, państwowy powiatowy i państwowy graniczny inspektor sa
 Dodatek specjalny jest przyznawany pracownikowi z dniem powierzenia mu obowiązków związanych z wykonywaniem czynności kontrolnych, o których mowa w § 2.
 2.
 Dodatek specjalny jest przyznawany w wysokości do 25% wynagrodzenia zasadniczego pracownika.
-3.
+3Dodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 8 września 2020 r. zmieniającego rozporządzenie w sprawie trybu przyznawania pracownikom Państwowej Inspekcji Sanitarnej wykonującym czynności kontrolne dodatku specjalnego do wynagrodzenia oraz wysokości tego dodatku (Dz. U. poz. 1554), które weszło w życie z dniem 10 września 2020 r..
 W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii dodatek specjalny za czynności kontrolne w zakresie zapobiegania i zwalczania chorób zakaźnych może być przyznany w wysokości do 75% wynagrodzenia zasadniczego pracownika.
 § 5.
 1.
@@ -116,6 +109,5 @@ W terminie określonym w ust. 1 państwowy portowy inspektor sanitarny przyznaje
 § 6.
 Za czynności kontrolne wykonywane od dnia 1 stycznia 2002 r. do dnia wejścia w życie rozporządzenia przyznaje się dodatek specjalny w trybie i w wysokości określonej przepisami rozporządzenia.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 3 pkt 2 i 3, w części dotyczącej państwowego granicznego inspektora sanitarnego, zastępcy państwowego granicznego inspektora sanitarnego oraz pracowników granicznej stacji sanitarno-epidemiologicznej, które wchodzą w życie z dniem 1 stycznia 2003 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 4 maja 2020 r. zmieniającego rozporządzenie w sprawie trybu przyznawania pracownikom Państwowej Inspekcji Sanitarnej wykonującym czynności kontrolne dodatku specjalnego do wynagrodzenia oraz wysokości tego dodatku (Dz. U. poz. 804), które weszło w życie z dniem 20 maja 2020 r. 3) Dodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 8 września 2020 r. zmieniającego rozporządzenie w sprawie trybu przyznawania pracownikom Państwowej Inspekcji Sanitarnej wykonującym czynności kontrolne dodatku specjalnego do wynagrodzenia oraz wysokości tego dodatku (Dz. U. poz. 1554), które weszło w życie z dniem 10 września 2020 r. 4) Rozporządzenie zostało ogłoszone w dniu 17 lipca 2002 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 17 lipca 2002 r., z wyjątkiem § 3 pkt 2 i 3, w części dotyczącej państwowego granicznego inspektora sanitarnego, zastępcy państwowego granicznego inspektora sanitarnego oraz pracowników granicznej stacji sanitarno-epidemiologicznej, które wchodzą w życie z dniem 1 stycznia 2003 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 4 maja 2020 r. zmieniającego rozporządzenie w sprawie trybu przyznawania pracownikom Państwowej Inspekcji Sanitarnej wykonującym czynności kontrolne dodatku specjalnego do wynagrodzenia oraz wysokości tego dodatku (Dz. U. poz. 804), które weszło w życie z dniem 20 maja 2020 r. 3) Dodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 8 września 2020 r. zmieniającego rozporządzenie w sprawie trybu przyznawania pracownikom Państwowej Inspekcji Sanitarnej wykonującym czynności kontrolne dodatku specjalnego do wynagrodzenia oraz wysokości tego dodatku (Dz. U. poz. 1554), które weszło w życie z dniem 10 września 2020 r. 4) Rozporządzenie zostało ogłoszone w dniu 17 lipca 2002 r.
 

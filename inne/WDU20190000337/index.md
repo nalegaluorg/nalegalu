@@ -31,14 +31,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 18 maja 2016 r. w sprawie Rady Zatrudnienia Socjalnego (Dz. U. poz. 733), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rodziny, Pracy i Polityki Społecznej z dnia 14 grudnia 2017 r. zmieniającym rozporządzenie w sprawie Rady Zatrudnienia Socjalnego (Dz. U. z 2018 r. poz. 14).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 14 grudnia 2017 r. zmieniającego rozporządzenie w sprawie Rady Zatrudnienia Socjalnego (Dz. U. z 2018 r. poz. 14), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 14 grudnia 2017 r. zmieniającego rozporządzenie w sprawie Rady Zatrudnienia Socjalnego (Dz. U. z 2018 r. poz. 14), które stanowią: „
 § 2.
 Dotychczasowy przewodniczący Rady pełni swoje obowiązki do czasu zmiany przewodniczącego Rady, w trybie § 6 ust. 3 pkt 1 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 18 maja 2016 r. w sprawie Rady Zatrudnienia Socjalnego
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 18 maja 2016 r. w sprawie Rady Zatrudnienia SocjalnegoMinister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).
 Na podstawie art. 18e ust. 7 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2019 r. poz. 217) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -64,15 +62,15 @@ organizacje społeczne i zawodowe.
 Zgłoszenia dokonuje się do ministra właściwego do spraw zabezpieczenia społecznego w formie pisemnej.
 3.
 Zgłoszenie, o którym mowa w ust. 2, obejmuje dane kandydata, opis realizowanych zadań w zakresie zatrudnienia socjalnego, opinię osoby kierującej instytucją zgłaszającej na członka Rady Zatrudnienia Socjalnego.
-3a.
+3aDodany przez § 1 pkt 1 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 14 grudnia 2017 r. zmieniającego rozporządzenie w sprawie Rady Zatrudnienia Socjalnego (Dz. U. z 2018 r. poz. 14), które weszło w życie z dniem 19 stycznia 2018 r..
 W przypadku gdy kandydatem na członka Rady zgłoszonym przez podmiot zatrudnienia socjalnego jest osoba kierująca tym podmiotem, opinię sporządza instytucja tworząca podmiot zatrudnienia socjalnego.
 4.
 Zgłoszenie, o którym mowa w ust. 2, należy składać na adres urzędu obsługującego ministra właściwego do spraw zabezpieczenia społecznego z dopiskiem na kopercie: „Kandydatura do Rady Zatrudnienia Socjalnego”, w terminie podanym w ogłoszeniu.
 § 4.
 W przypadku konieczności uzupełnienia składu Rady w trakcie trwania kadencji, do trybu zgłaszania kandydatów stosuje się odpowiednio § 2 ust. 1 i § 3.
-§ 5.
+§ 5W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Minister właściwy do spraw zabezpieczenia społecznego wybiera przewodniczącego Rady spośród członków Rady.
-§ 6.
+§ 6W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Pierwsze posiedzenie Rady odbywa się w terminie wskazanym przez ministra właściwego do spraw zabezpieczenia społecznego.
 2.
@@ -94,7 +92,7 @@ O zmianie, o której mowa w ust. 3 pkt 2, informuje się ministra właściwego d
 Przewodniczący Rady kieruje pracami Rady i reprezentuje ją na zewnątrz.
 2.
 Do zadań Przewodniczącego Rady należy:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 inicjowanie prac Rady, w tym:
 a)
 określanie zagadnień merytorycznych stanowiących tematykę posiedzeń Rady, w uzgodnieniu z ministrem właściwym do spraw zabezpieczenia społecznego,
@@ -106,7 +104,7 @@ opracowywanie harmonogramu posiedzeń Rady na dany rok kalendarzowy, zwoływanie
 koordynowanie prac członków Rady związanych z opracowywaniem rocznych informacji dla ministra właściwego do spraw zabezpieczenia społecznego, a także końcowego sprawozdania z kadencji Rady;
 4)
 współpraca z członkami innych organów opiniodawczo-doradczych ministra właściwego do spraw zabezpieczenia społecznego, w tym między innymi Rady Rynku Pracy, Rady Pomocy Społecznej oraz Rady Działalności Pożytku Publicznego;
-5)
+5W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 współpraca z Instytutem Pracy i Spraw Socjalnych;
 6)
 współpraca ze środowiskiem podmiotów zatrudnienia socjalnego oraz jego formalnymi i nieformalnymi ogólnokrajowymi i regionalnymi reprezentacjami.
@@ -155,6 +153,5 @@ przygotowywanie projektów uchwał Rady;
 6)
 przekazywanie do urzędu obsługującego ministra do spraw zabezpieczenia społecznego dokumentów z posiedzeń Rady.
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Dodany przez § 1 pkt 1 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 14 grudnia 2017 r. zmieniającego rozporządzenie w sprawie Rady Zatrudnienia Socjalnego (Dz. U. z 2018 r. poz. 14), które weszło w życie z dniem 19 stycznia 2018 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 31 maja 2016 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 31 maja 2016 r.. 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Dodany przez § 1 pkt 1 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 14 grudnia 2017 r. zmieniającego rozporządzenie w sprawie Rady Zatrudnienia Socjalnego (Dz. U. z 2018 r. poz. 14), które weszło w życie z dniem 19 stycznia 2018 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 31 maja 2016 r.
 

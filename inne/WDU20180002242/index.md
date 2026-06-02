@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu ułatwienia sprzedaży żywności przez rolników do sklepów i restauracji
+# Ustawa z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu ułatwienia sprzedaży żywności przez rolników do sklepów i restauracji Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia.
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-09 |
 | Data wydania | 2018-11-30 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002242) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2242/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193 i 2215.) wprowadza się następujące zmiany:
 
-- **1)** w art. 20: w ust. 1c: – uchyla się pkt 1, – pkt 2 otrzymuje brzmienie: „ 2) przetwarzanie produktów roślinnych i zwierzęcych i ich sprzedaż nie odbywa się przy zatrudnieniu osób na podstawie umów o pracę, umów zlecenia, umów o dzieło oraz innych umów o podobnym charakterze, z wyłączeniem uboju zwierząt rzeźnych i obróbki poubojowej tych zwierząt, w tym również rozbioru, podziału i klasyfikacji mięsa, przemiału zbóż, wytłoczenia oleju lub soku oraz sprzedaży podczas wystaw, festynów, targów i kiermaszy; ” , – uchyla się pkt 3, uchyla się ust. 1ea;
+- **1)** w art. 20: w ust. 1c: – uchyla się pkt 1, pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** przetwarzanie produktów roślinnych i zwierzęcych i ich sprzedaż nie odbywa się przy zatrudnieniu osób na podstawie umów o pracę, umów zlecenia, umów o dzieło oraz innych umów o podobnym charakterze, z wyłączeniem uboju zwierząt rzeźnych i obróbki poubojowej tych zwierząt, w tym również rozbioru, podziału i klasyfikacji mięsa, przemiału zbóż, wytłoczenia oleju lub soku oraz sprzedaży podczas wystaw, festynów, targów i kiermaszy; ” , – uchyla się pkt 3, uchyla się ust. 1ea;
     - **b)**
 
 - **2)** w art. 21 w ust. 1 pkt 71a otrzymuje brzmienie: „
@@ -58,5 +59,5 @@ source: "eli-html"
 
 4. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw zdrowia może określić, w drodze rozporządzenia, szczegółowy sposób oznakowania miejsca zbywania żywności konsumentowi finalnemu przez podmiot prowadzący rolniczy handel detaliczny, w tym przez pośrednika, mając na względzie zapewnienie informacji o żywności zbywanej w ramach rolniczego handlu detalicznego i podmiotach prowadzących ten handel oraz ochronę zdrowia publicznego. ” .
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193 i 2215.
 

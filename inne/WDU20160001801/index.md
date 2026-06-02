@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 26 października 2016 r. w sprawie szczegółowych kryteriów i trybu przyznawania stypendiów naukowych dla wybitnych młodych naukowców
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 26 października 2016 r. w sprawie szczegółowych kryteriów i trybu przyznawania stypendiów naukowych dla wybitnych młodych naukowców Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – nauka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 1896).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-26 |
 | Data wydania | 2016-11-04 |
-| Wejście w życie | 2016-11-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001801) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1801/text.pdf) |
 
@@ -72,8 +71,7 @@ Umowy, o których mowa w ust. 1 i 2, ulegają rozwiązaniu z dniem ustania stosu
 5.
 Inna jednostka naukowa, o której mowa w ust. 3, jest obowiązana do niezwłocznego zawarcia umów, o których mowa w ust. 1 i 2.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – nauka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 1896). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 27 października 2015 r. w sprawie szczegółowych kryteriów i trybu przyznawania i rozliczania stypendiów naukowych dla wybitnych młodych naukowców (Dz. U. poz. 1878), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ust. 1 pkt 3 ustawy z dnia 23 czerwca 2016 r. o zmianie ustawy – Prawo o szkolnictwie wyższym oraz niektórych innych ustaw (Dz. U. poz. 1311).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 27 października 2015 r. w sprawie szczegółowych kryteriów i trybu przyznawania i rozliczania stypendiów naukowych dla wybitnych młodych naukowców (Dz. U. poz. 1878), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ust. 1 pkt 3 ustawy z dnia 23 czerwca 2016 r. o zmianie ustawy – Prawo o szkolnictwie wyższym oraz niektórych innych ustaw (Dz. U. poz. 1311). 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – nauka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 1896). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 27 października 2015 r. w sprawie szczegółowych kryteriów i trybu przyznawania i rozliczania stypendiów naukowych dla wybitnych młodych naukowców (Dz. U. poz. 1878), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ust. 1 pkt 3 ustawy z dnia 23 czerwca 2016 r. o zmianie ustawy – Prawo o szkolnictwie wyższym oraz niektórych innych ustaw (Dz. U. poz. 1311).
 Załącznik – Szczegółowy zakres informacji zawartych we wniosku o przyznanie stypendium naukowego dla wybitnego młodego naukowca
 A.
 DANE JEDNOSTKI NAUKOWEJ

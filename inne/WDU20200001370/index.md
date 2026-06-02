@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 3 sierpnia 2020 r. w sprawie zezwoleń związanych z przewozem lotniczym
+# Rozporządzenie Ministra Infrastrukturyz dnia 3 sierpnia 2020 r. w sprawie zezwoleń związanych z przewozem lotniczym Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-08-03 |
 | Data wydania | 2020-08-11 |
-| Wejście w życie | 2020-08-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001370) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1370/text.pdf) |
 
@@ -35,7 +34,7 @@ Ilekroć w rozporządzeniu jest mowa o:
 1)
 Prezesie Urzędu – rozumie się przez to Prezesa Urzędu Lotnictwa Cywilnego;
 2)
-rozporządzeniu (WE) nr 785/2004 – rozumie się przez to rozporządzenie (WE) nr 785/2004 Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie wymogów w zakresie ubezpieczenia w odniesieniu do przewoźników lotniczych i operatorów statków powietrznych (Dz. Urz. UE L 138 z 30.04.2004, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 160);
+rozporządzeniu (WE) nr 785/2004 – rozumie się przez to rozporządzenie (WE) nr 785/2004 Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie wymogów w zakresie ubezpieczenia w odniesieniu do przewoźników lotniczych i operatorów statków powietrznych (Dz. Urz. UE L 138 z 30.04.2004, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 296 z 05.11.2008, str. 8, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 87 z 07.04.2010, str. 19 oraz Dz. Urz. UE L 198 z 25.07.2019, str. 241. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 160);
 3)
 ustawie – rozumie się przez to ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze;
 4)
@@ -89,6 +88,5 @@ Zezwolenia pojedyncze, ogólne i eksploatacyjne, wydane przed dniem wejścia w �
 § 13.
 Do spraw dotyczących udzielania zezwoleń pojedynczych, ogólnych i eksploatacyjnych, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 296 z 05.11.2008, str. 8, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 87 z 07.04.2010, str. 19 oraz Dz. Urz. UE L 198 z 25.07.2019, str. 241. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 17 czerwca 2013 r. w sprawie zezwoleń związanych z przewozem lotniczym (Dz. U. poz. 719), które zgodnie z art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 17 czerwca 2013 r. w sprawie zezwoleń związanych z przewozem lotniczym (Dz. U. poz. 719), które zgodnie z art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 296 z 05.11.2008, str. 8, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 87 z 07.04.2010, str. 19 oraz Dz. Urz. UE L 198 z 25.07.2019, str. 241. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 17 czerwca 2013 r. w sprawie zezwoleń związanych z przewozem lotniczym (Dz. U. poz. 719), które zgodnie z art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

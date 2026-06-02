@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 11 lipca 2019 r. w sprawie przetargu, aukcji oraz konkursu na rezerwację częstotliwości lub zasobów orbitalnych
+# Rozporządzenie Ministra Cyfryzacjiz dnia 11 lipca 2019 r. w sprawie przetargu, aukcji oraz konkursu na rezerwację częstotliwości lub zasobów orbitalnych Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-11 |
 | Data wydania | 2019-08-06 |
-| Wejście w życie | 2019-08-21 |
 | Ostatnia zmiana | 2024-08-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001467) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1467/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Ogłaszanie przetargu, aukcji albo konkursu Rozdział 3 – Dokumentacja przetargowa Rozdział 4 – Dokumentacja aukcyjna Rozdział 5 – Dokumentacja konkursowa Rozdział 6 – Wyjaśnienie i sprostowanie treści dokumentacji przetargowej, aukcyjnej i konkursowej Rozdział 7 – Komisja Rozdział 8 – Przeprowadzanie przetargu oraz konkursu Rozdział 9 – Przeprowadzanie aukcji Rozdział 10 – Zakończenie przetargu, aukcji albo konkursu Rozdział 11 – Wadium i depozyt Rozdział 12 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 120 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2018 r. poz. 1954, 2245 i 2354 oraz z 2019 r. poz. 643, 730 i 1030) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -43,8 +43,10 @@ b)
 sposób wpłaty i zwrotu wadium – w przypadku przetargu oraz aukcji,
 c)
 sposób wpłaty i zwrotu depozytu – w przypadku aukcji.
+Ogłaszanie przetargu, aukcji albo konkursu
 § 2.
 Przetarg, aukcję albo konkurs ogłasza Prezes Urzędu Komunikacji Elektronicznej, zwany dalej „Prezesem UKE”, niezwłocznie, nie później niż w terminie 21 dni od dnia ogłoszenia wyników postępowania konsultacyjnego w tej sprawie.
+Dokumentacja przetargowa
 § 3.
 Dokumentacja przetargowa zawiera:
 1)
@@ -87,6 +89,7 @@ Dokumentacja przetargowa może również zawierać:
 zastrzeżenie możliwości odwołania przetargu w terminie wyznaczonym na złożenie ofert;
 2)
 warunki uczestnictwa, o których mowa w art. 118 ust. 4a i 4b ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, zwanej dalej „Prawem telekomunikacyjnym”.
+Dokumentacja aukcyjna
 § 5.
 Dokumentacja aukcyjna zawiera:
 1)
@@ -147,6 +150,7 @@ wymóg wniesienia depozytu, sposób ustalania jego wysokości, w tym wysokość 
 procedury i środki bezpieczeństwa w celu zapewnienia prawidłowego przebiegu aukcji;
 5)
 informacje w zakresie przeprowadzenia instruktażu składania ofert aukcyjnych.
+Dokumentacja konkursowa
 § 7.
 Dokumentacja konkursowa zawiera:
 1)
@@ -187,6 +191,7 @@ Dokumentacja konkursowa może również zawierać:
 zastrzeżenie możliwości odwołania konkursu w terminie wyznaczonym na złożenie ofert;
 2)
 warunki uczestnictwa, o których mowa w art. 118 ust. 4b Prawa telekomunikacyjnego.
+Wyjaśnienie i sprostowanie treści dokumentacji przetargowej, aukcyjnej i konkursowej
 § 9.
 1.
 Podmiot, który wniósł opłatę za dokumentację przetargową, aukcyjną albo konkursową, może, nie później niż na 28 dni przed upływem terminu wyznaczonego na złożenie ofert w przypadku przetargu i konkursu lub ofert wstępnych w przypadku aukcji, zwrócić się do Prezesa UKE z wnioskiem o wyjaśnienie treści dokumentacji przetargowej, aukcyjnej albo konkursowej.
@@ -205,6 +210,7 @@ Prezes UKE może z urzędu, nie później niż na 30 dni przed upływem terminu 
 Prezes UKE niezwłocznie udostępnia sprostowanie na stronie podmiotowej BIP UKE.
 3.
 Sprostowanie jest wiążące dla uczestników przetargu, aukcji albo konkursu.
+Komisja
 § 11.
 1.
 Prezes UKE powołuje komisję:
@@ -213,8 +219,7 @@ przetargową do przeprowadzania przetargu,
 2)
 aukcyjną do przeprowadzania aukcji,
 3)
-konkursową do przeprowadzania konkursu
-zwaną dalej „komisją”.
+konkursową do przeprowadzania konkursu – zwaną dalej „komisją”.
 2.
 Komisja składa się co najmniej z 5 członków, w tym z przewodniczącego oraz jego zastępcy powoływanych przez Prezesa UKE spośród osób będących pracownikami Urzędu Komunikacji Elektronicznej, zwanego dalej „UKE”, posiadających wiedzę i doświadczenie niezbędne do przeprowadzenia przetargu, aukcji albo konkursu.
 § 12.
@@ -316,6 +321,7 @@ przyjęcia protokołu końcowego, o którym mowa w § 34;
 innych, na wniosek przewodniczącego lub członka komisji.
 2.
 Komisja podejmuje uchwały w głosowaniu jawnym, zwykłą większością głosów, w obecności co najmniej połowy składu komisji. W przypadku równej liczby głosów o wyniku głosowania decyduje głos przewodniczącego komisji.
+Przeprowadzanie przetargu oraz konkursu
 § 19.
 W złożonej ofercie podmiot składający ofertę może wprowadzić zmiany poprzez wycofanie tej oferty i złożenie nowej przed upływem terminu wyznaczonego na złożenie ofert.
 § 20.
@@ -352,6 +358,7 @@ W etapie II przetargu albo konkursu komisja dokonuje oceny ofert w oparciu o kry
 Ocena oferty w etapie II przetargu albo konkursu stanowi sumę punktów uzyskanych w tym etapie.
 3.
 Po zakończeniu etapu II przetargu albo konkursu komisja podejmuje uchwałę, w której wskazuje liczbę punktów uzyskanych przez poszczególne oferty.
+Przeprowadzanie aukcji
 § 25.
 Waukcji:
 1)
@@ -402,6 +409,7 @@ Etap II aukcji kończy się w momencie wskazanym w dokumentacji aukcyjnej.
 Po zakończeniu etapu II aukcji komisja podejmuje uchwałę, w której wskazuje oceny punktowe uzyskane przez poszczególne oferty.
 § 33.
 Po zakończeniu etapu I oraz w trakcie etapu II aukcji komisja komunikuje się z uczestnikiem aukcji w sposób określony w dokumentacji aukcyjnej.
+Zakończenie przetargu, aukcji albo konkursu
 § 34.
 1.
 Niezwłocznie po zakończeniu etapu II przetargu, aukcji albo konkursu komisja sporządza protokół końcowy z przebiegu przetargu, aukcji albo konkursu oraz przekazuje go Prezesowi UKE wraz z ofertami oraz dokumentacją, o której mowa w § 16 ust. 6.
@@ -458,6 +466,7 @@ listę ofert zakwalifikowanych oraz niezakwalifikowanych do oceny w etapie II w 
 listy lub listę, o których mowa w art. 118c ust. 1 Prawa telekomunikacyjnego, wraz z ich oceną punktową.
 3.
 Ogłoszenie wyników przetargu, aukcji albo konkursu kończy odpowiednio przetarg, aukcję albo konkurs.
+Wadium i depozyt
 § 36.
 1.
 Uczestnik przetargu albo aukcji wnosi wadium na oprocentowany rachunek bankowy UKE podany w dokumentacji przetargowej albo dokumentacji aukcyjnej.
@@ -472,33 +481,57 @@ Uczestnik aukcji wnosi depozyt na oprocentowany rachunek bankowy UKE podany w do
 Depozyt zwraca się na rachunek bankowy podany przez uczestnika aukcji.
 3.
 Depozyt zwraca się wraz z odsetkami wynikającymi z umowy rachunku bankowego, na którym był on przechowywany, pomniejszony o koszty prowadzenia rachunku oraz prowizji bankowej za przelew depozytu.
+Przepisy przejściowe i końcowe
 § 38.
 Do przetargów, aukcji oraz konkursów wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 39.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 19 lipca 2013 r. w sprawie przetargu, aukcji oraz konkursu na rezerwację częstotliwości lub zasobów orbitalnych (Dz. U. z 2016 r. poz. 1616), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 12 ustawy z dnia 15 marca 2019 r. o zmianie ustawy – Prawo telekomunikacyjne oraz niektórych innych ustaw (Dz. U. poz. 643).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 19 lipca 2013 r. w sprawie przetargu, aukcji oraz konkursu na rezerwację częstotliwości lub zasobów orbitalnych (Dz. U. z 2016 r. poz. 1616), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 12 ustawy z dnia 15 marca 2019 r. o zmianie ustawy – Prawo telekomunikacyjne oraz niektórych innych ustaw (Dz. U. poz. 643). 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 19 lipca 2013 r. w sprawie przetargu, aukcji oraz konkursu na rezerwację częstotliwości lub zasobów orbitalnych (Dz. U. z 2016 r. poz. 1616), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 12 ustawy z dnia 15 marca 2019 r. o zmianie ustawy – Prawo telekomunikacyjne oraz niektórych innych ustaw (Dz. U. poz. 643).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Ogłaszanie przetargu, aukcji albo konkursu
+#### Rozdział 2 – Ogłaszanie przetargu, aukcji albo konkursu
 
-#### Rozdział 3 Dokumentacja przetargowa
+#### Rozdział 3 – Dokumentacja przetargowa
 
-#### Rozdział 4 Dokumentacja aukcyjna
+#### Rozdział 4 – Dokumentacja aukcyjna
 
-#### Rozdział 5 Dokumentacja konkursowa
+#### Rozdział 5 – Dokumentacja konkursowa
 
-#### Rozdział 6 Wyjaśnienie i sprostowanie treści dokumentacji przetargowej, aukcyjnej i konkursowej
+#### Rozdział 6 – Wyjaśnienie i sprostowanie treści dokumentacji przetargowej, aukcyjnej i konkursowej
 
-#### Rozdział 7 Komisja
+#### Rozdział 7 – Komisja
 
-#### Rozdział 8 Przeprowadzanie przetargu oraz konkursu
+#### Rozdział 8 – Przeprowadzanie przetargu oraz konkursu
 
-#### Rozdział 9 Przeprowadzanie aukcji
+#### Rozdział 9 – Przeprowadzanie aukcji
 
-#### Rozdział 10 Zakończenie przetargu, aukcji albo konkursu
+#### Rozdział 10 – Zakończenie przetargu, aukcji albo konkursu
 
-#### Rozdział 11 Wadium i depozyt
+#### Rozdział 11 – Wadium i depozyt
 
-#### Rozdział 12 Przepisy przejściowe i końcowe
+#### Rozdział 12 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
+
+#### Rozdział 11
+
+#### Rozdział 12
 

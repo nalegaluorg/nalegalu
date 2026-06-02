@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 5 czerwca 2018 r. w sprawie opiniowania służbowego funkcjonariuszy Służby Ochrony Państwa
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 5 czerwca 2018 r. w sprawie opiniowania służbowego funkcjonariuszy Służby Ochrony Państwa Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-05 |
 | Data wydania | 2018-06-14 |
-| Wejście w życie | 2018-06-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001153) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1153/text.pdf) |
 
@@ -63,6 +62,5 @@ Opinię służbową włącza się do akt osobowych funkcjonariusza. Funkcjonariu
 § 4.
 Wniosek o ponowne rozpoznanie sprawy dotyczącej opinii służbowej wydanej przez Komendanta Służby Ochrony Państwa wnosi się bezpośrednio do Komendanta Służby Ochrony Państwa w terminie 14 dni od dnia zapoznania się z opinią.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.2)
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.2) 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 

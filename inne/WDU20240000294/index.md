@@ -26,13 +26,27 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000294) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/294/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Umowa o ustanowienie zabezpieczenia finansowego Rozdział 3 – Wykonywanie uprawnień i zaspokajanie się uprawnionego z zabezpieczenia finansowego Rozdział 4 – Przepis kolizyjny Rozdział 5 – Zmiany w przepisach obowiązujących i przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych (Dz. U. z 2022 r. poz. 133), z uwzględnieniem zmian wprowadzonych ustawą z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 lutego 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 73 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 73 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723), który stanowi: „
+Przepisy ogólne
+Umowa o ustanowienie zabezpieczenia finansowego
+Wykonywanie uprawnień i zaspokajanie się uprawnionego z zabezpieczenia finansowego
+Przepis kolizyjny
+Zmiany w przepisach obowiązujących i przepis końcowy
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Umowa o ustanowienie zabezpieczenia finansowego
+
+#### Rozdział 3 – Wykonywanie uprawnień i zaspokajanie się uprawnionego z zabezpieczenia finansowego
+
+#### Rozdział 4 – Przepis kolizyjny
+
+#### Rozdział 5 – Zmiany w przepisach obowiązujących i przepis końcowy
 
 **Art. 73.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 
@@ -45,9 +59,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **7)** art. 38 pkt 2, który wchodzi w życie z dniem 1 czerwca 2024 r.;
 - **8)** art. 20, który wchodzi w życie z dniem 1 lipca 2024 r.;
 - **9)** art. 32 pkt 11 lit. b, który wchodzi w życie po upływie 18 miesięcy od dnia ogłoszenia;
-- **10)** art. 19 pkt 4, który wchodzi w życie z dniem 1 stycznia 2025 r. ” . Załącznik – Tekst jednolity ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych
+- **10)** art. 19 pkt 4, który wchodzi w życie z dniem 1 stycznia 2025 r. ” . Załącznik – Tekst jednolity ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowychNiniejsza ustawa wdraża dyrektywę 2002/47/WE z dnia 6 czerwca 2002 r. w sprawie ustanawiania zabezpieczeń finansowych (Dz. Urz. WE L 168 z 27.06.2002).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa reguluje zasady ustanawiania i wykonywania zabezpieczeń na środkach pieniężnych, wierzytelnościach kredytowych lub instrumentach finansowych (zabezpieczenia finansowe) wierzytelności pieniężnych lub wierzytelności, w których świadczenie polega na dostarczeniu instrumentów finansowych (wierzytelności finansowe), w tym wierzytelności przyszłych, zależnych od terminu lub warunku albo okresowych, a także zasady zaspokajania się z tych zabezpieczeń.
 
@@ -59,8 +73,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **2)** bank centralny innego państwa;
 - **3)** Europejski Bank Centralny, Europejski Bank Inwestycyjny, Bank Rozrachunków Międzynarodowych, Międzynarodowy Fundusz Walutowy;
 - **4)** wielostronne banki rozwoju, o których mowa w części 1 sekcji 4 załącznika VI dyrektywy 2006/48/WE Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie podejmowania i prowadzenia działalności przez instytucje kredytowe (Dz. Urz. UE L 177 z 30.06.2006, str. 1, z późn. zm.);
-- **5)** firma inwestycyjna w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2023 r. poz. 646, 825, 1723 i 1941);
-- **6)** towarzystwo funduszy inwestycyjnych w zakresie zarządzania funduszami inwestycyjnymi, fundusz inwestycyjny oraz spółka zarządzająca funduszem zagranicznym w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2023 r. poz. 681, 825, 1723 i 1941);
+- **5)** firma inwestycyjna w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2023 r. poz. 646, 825, 1723 i 1941); 6W brzmieniu ustalonym przez art. 12 pkt 1 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723), która weszła w życie z dniem 29 września 2023 r.) towarzystwo funduszy inwestycyjnych w zakresie zarządzania funduszami inwestycyjnymi, fundusz inwestycyjny oraz spółka zarządzająca funduszem zagranicznym w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2023 r. poz. 681, 825, 1723 i 1941);
 - **7)** bank, instytucja kredytowa lub instytucja finansowa w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488), spółdzielcza kasa oszczędnościowo-kredytowa oraz Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa w rozumieniu ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2023 r. poz. 1278, 1394, 1407, 1723 i 1843);
 - **8)** towarzystwo emerytalne w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2023 r. poz. 930, 1672 i 1941);
 - **9)** CCP, agent rozrachunkowy lub izba rozliczeniowa w rozumieniu ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2022 r. poz. 1581 oraz z 2023 r. poz. 1723);
@@ -107,7 +120,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **1)** kwota netto wynikająca z obliczenia wzajemnych wierzytelności stron jest płatna stronie, której wierzytelność lub suma wierzytelności jest wyższa;
 - **2)** wierzytelność o zapłatę kwoty, o której mowa w pkt 1, jest wymagalna, także wtedy, gdy wierzytelności będące przedmiotem kompensaty nie były wymagalne. Prawo użycia nie przysługuje zastawnikowi wierzytelności kredytowej, z wyłączeniem prawa do pobierania należnych świadczeń wynikających z umowy o udzielenie kredytu lub pożyczki, w tym prawa do pobierania pożytków.
 
-#### Rozdział 2 Umowa o ustanowienie zabezpieczenia finansowego
+#### Rozdział 2
 
 **Art. 5.**
 
@@ -145,7 +158,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Wymogu uzyskania zgody, o której mowa w ust. 1 pkt 1, nie stosuje się w przypadku, o którym mowa w art. 104 ust. 2 pkt 12 oraz art. 105 ust. 1 pkt 1 ustawy – Prawo bankowe.
 
-#### Rozdział 3 Wykonywanie uprawnień i zaspokajanie się uprawnionego z zabezpieczenia finansowego
+#### Rozdział 3
 
 **Art. 8.**
 
@@ -165,9 +178,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. W razie wystąpienia podstawy realizacji zabezpieczenia zastawnik może, z zastrzeżeniem ust. 3, zaspokoić się przez sprzedaż przedmiotu zabezpieczenia, potrącenie lub kompensatę jego wartości z zabezpieczoną wierzytelnością finansową albo, jeżeli umowa o ustanowienie zabezpieczenia finansowego tak stanowi, przez przejęcie przedmiotu zabezpieczenia.
 
-2. Przejęcie, o którym mowa w ust. 1, następuje z dniem złożenia zastawcy oświadczenia zastawnika o przejęciu przedmiotu zabezpieczenia.
-
-3. W przypadku zabezpieczenia finansowego ustanowionego w formie zastawu finansowego na jednostkach uczestnictwa funduszu inwestycyjnego, zaspokojenie następuje w trybie określonym w ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi.
+2. Przejęcie, o którym mowa w ust. 1, następuje z dniem złożenia zastawcy oświadczenia zastawnika o przejęciu przedmiotu zabezpieczenia. 3Ze zmianą wprowadzoną przez art. 12 pkt 2 ustawy, o której mowa w odnośniku 2.. W przypadku zabezpieczenia finansowego ustanowionego w formie zastawu finansowego na jednostkach uczestnictwa funduszu inwestycyjnego, zaspokojenie następuje w trybie określonym w ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi.
 
 **Art. 11.**
 
@@ -184,15 +195,15 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 2. W przypadku zastawu finansowego na wierzytelności kredytowej:
 
 - **1)** zastawca nie jest uprawniony do żądania spełnienia świadczenia na jego rzecz,
-- **2)** wyłącznie uprawnionym do żądania spełnienia świadczenia jest zastawnik jeżeli ustanawiający zabezpieczenie finansowe poinformował dłużnika wierzytelności kredytowej na piśmie o ustanowieniu na tej wierzytelności zastawu finansowego oraz o skutkach określonych w pkt 1 i 2. W przypadku braku takiego poinformowania wyłącznie uprawnionym do żądania spełnienia świadczenia jest zastawca.
+- **2)** wyłącznie uprawnionym do żądania spełnienia świadczenia jest zastawnik – jeżeli ustanawiający zabezpieczenie finansowe poinformował dłużnika wierzytelności kredytowej na piśmie o ustanowieniu na tej wierzytelności zastawu finansowego oraz o skutkach określonych w pkt 1 i 2. W przypadku braku takiego poinformowania wyłącznie uprawnionym do żądania spełnienia świadczenia jest zastawca.
 
 3. Strony umowy o ustanowienie zabezpieczenia finansowego w formie zastawu na wierzytelności kredytowej mogą postanowić, że uprawniony do żądania spełnienia świadczenia z wierzytelności kredytowej będzie wyłącznie zastawca albo zastawca i zastawnik łącznie. Postanowienie o łącznym uprawnieniu do żądania spełnienia świadczenia przez zastawcę i zastawnika jest skuteczne wobec dłużnika wierzytelności kredytowej pod warunkiem poinformowania go na piśmie przez ustanawiającego zabezpieczenie finansowe o treści tego postanowienia.
 
-#### Rozdział 4 Przepis kolizyjny
+#### Rozdział 4
 
 **Art. 13.** Umowa o ustanowienie zabezpieczenia finansowego na niematerialnych instrumentach finansowych, prawa wynikające z tego zabezpieczenia, pierwszeństwo praw, a także zaspokajanie się z takiego zabezpieczenia podlega wyłącznie prawu państwa, w którym jest prowadzony rachunek papierów wartościowych, rachunek zbiorczy, inny rachunek, na którym zapisywane są instrumenty finansowe niebędące papierami wartościowymi, konto depozytowe lub inna ewidencja papierów wartościowych, w której zabezpieczenie to zostało odnotowane. Prawu temu podlega również nabycie w dobrej wierze niematerialnych instrumentów finansowych.
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących i przepis końcowy
+#### Rozdział 5
 
 **Art. 14.** (pominięty)
 
@@ -204,5 +215,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 18.** Przepisów ustawy nie stosuje się do umów zawartych przed dniem jej wejścia w życie.
 
-**Art. 19.** Ustawa wchodzi w życie z dniem 1 maja 2004 r.
+**Art. 19.** Ustawa wchodzi w życie z dniem 1 maja 2004 r. 1) Niniejsza ustawa wdraża dyrektywę 2002/47/WE z dnia 6 czerwca 2002 r. w sprawie ustanawiania zabezpieczeń finansowych (Dz. Urz. WE L 168 z 27.06.2002). 2) W brzmieniu ustalonym przez art. 12 pkt 1 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723), która weszła w życie z dniem 29 września 2023 r. 3) Ze zmianą wprowadzoną przez art. 12 pkt 2 ustawy, o której mowa w odnośniku 2.
 

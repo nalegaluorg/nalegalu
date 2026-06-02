@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 września 2016 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego oraz niektórych innych ustaw
+# Ustawa z dnia 14 września 2016 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 marca 2010 r. o szczególnych uprawnieniach ministra właściwego do spraw Skarbu Państwa oraz ich wykonywaniu w niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych, ustawę z dnia 30 sierpnia 2013 r. o dotacji przeznaczonej dla niektórych podmiotów, ustawę z dnia 22 stycznia 2015 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego w latach 2008–2015 oraz niektórych innych ustaw i ustawę z dnia 11 lutego 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-14 |
 | Data wydania | 2016-09-30 |
-| Wejście w życie | 2016-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001592) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1592/text.pdf) |
 
@@ -35,9 +34,10 @@ source: "eli-html"
 - **3)** w art. 8: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
-2. Prowadzenie likwidacji kopalń, których likwidację rozpoczęto przed dniem 1 stycznia 2019 r., zadania związane z zabezpieczeniem kopalń sąsiednich przed zagrożeniem wodnym, gazowym oraz pożarowym w trakcie i po zakończeniu likwidacji kopalni, naprawianie szkód wywołanych ruchem zakładu górniczego w trakcie i po zakończeniu likwidacji zakładu górniczego, w tym szkód powstałych w wyniku reaktywacji starych zrobów, a także działania wykonywane po zakończeniu likwidacji kopalni, są finansowane z dotacji budżetowej. ” , w ust. 5: – we wprowadzeniu do wyliczenia wyrazy „Minister właściwy do spraw energii” zastępuje się wyrazami „Minister właściwy do spraw gospodarki złożami kopalin”, – pkt 1 otrzymuje brzmienie: „ 1) szczegółowe warunki i tryb przyznawania oraz wykorzystania dotacji budżetowej przeznaczonej na finansowanie likwidacji kopalń, zabezpieczenia kopalń sąsiednich przed zagrożeniem wodnym, gazowym oraz pożarowym w trakcie i po zakończeniu likwidacji kopalni, naprawiania szkód wywołanych ruchem zakładu górniczego w trakcie i po zakończeniu likwidacji zakładu górniczego, w tym szkód powstałych w wyniku reaktywacji starych zrobów, a także na finansowanie działań wykonywanych po zakończeniu likwidacji kopalń, ” , – część wspólna otrzymuje brzmienie: „ – biorąc pod uwagę zadania wykonywane w trakcie i po zakończeniu likwidacji kopalni, zapewnienie bezpieczeństwa kopalni oraz upraszczanie systemu odwadniania, a także naprawianie szkód wywołanych ruchem zakładu górniczego w trakcie i po zakończeniu likwidacji zakładu górniczego. ” ;
+2. Prowadzenie likwidacji kopalń, których likwidację rozpoczęto przed dniem 1 stycznia 2019 r., zadania związane z zabezpieczeniem kopalń sąsiednich przed zagrożeniem wodnym, gazowym oraz pożarowym w trakcie i po zakończeniu likwidacji kopalni, naprawianie szkód wywołanych ruchem zakładu górniczego w trakcie i po zakończeniu likwidacji zakładu górniczego, w tym szkód powstałych w wyniku reaktywacji starych zrobów, a także działania wykonywane po zakończeniu likwidacji kopalni, są finansowane z dotacji budżetowej. ” , w ust. 5: – we wprowadzeniu do wyliczenia wyrazy „Minister właściwy do spraw energii” zastępuje się wyrazami „Minister właściwy do spraw gospodarki złożami kopalin”, pkt 1 otrzymuje brzmienie: „
 
 - **b)**
+- **1)** szczegółowe warunki i tryb przyznawania oraz wykorzystania dotacji budżetowej przeznaczonej na finansowanie likwidacji kopalń, zabezpieczenia kopalń sąsiednich przed zagrożeniem wodnym, gazowym oraz pożarowym w trakcie i po zakończeniu likwidacji kopalni, naprawiania szkód wywołanych ruchem zakładu górniczego w trakcie i po zakończeniu likwidacji zakładu górniczego, w tym szkód powstałych w wyniku reaktywacji starych zrobów, a także na finansowanie działań wykonywanych po zakończeniu likwidacji kopalń, ” , część wspólna otrzymuje brzmienie: „ – biorąc pod uwagę zadania wykonywane w trakcie i po zakończeniu likwidacji kopalni, zapewnienie bezpieczeństwa kopalni oraz upraszczanie systemu odwadniania, a także naprawianie szkód wywołanych ruchem zakładu górniczego w trakcie i po zakończeniu likwidacji zakładu górniczego. ” ;
 - **4)** w art. 26 w ust. 1: we wprowadzeniu do wyliczenia wyrazy „ministra właściwego do spraw energii” zastępuje się wyrazami „ministra właściwego do spraw gospodarki złożami kopalin”, pkt 3 otrzymuje brzmienie: „
     - **a)**
     - **b)**
@@ -78,9 +78,11 @@ source: "eli-html"
 - **5)** w art. 5: po ust. 3 dodaje się ust. 3a w brzmieniu: „
     - **a)**
 
-3a. Dotację na wykonanie działań, o których mowa w art. 3 ust. 5, przyznaje się na wniosek podmiotu, o którym mowa w art. 1 pkt 5, po zaakceptowaniu przez ministra właściwego do spraw gospodarki złożami kopalin rocznego planu tych działań obejmującego, w podziale na miesiące, jego zakres rzeczowy i finansowy. ” , w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek, o którym mowa w ust. 1‒3a, powinien zawierać: ” , – w pkt 2 lit. b otrzymuje brzmienie: „ b) działań przewidzianych do wykonania, o których mowa w art. 3 ust. 1 pkt 2 i 3; ” , – w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „ 7) w przypadku podmiotu, o którym mowa w art. 1 pkt 5, określenie stanu wykonania działań, o których mowa w art. 3 ust. 1 pkt 3. ” ;
+3a. Dotację na wykonanie działań, o których mowa w art. 3 ust. 5, przyznaje się na wniosek podmiotu, o którym mowa w art. 1 pkt 5, po zaakceptowaniu przez ministra właściwego do spraw gospodarki złożami kopalin rocznego planu tych działań obejmującego, w podziale na miesiące, jego zakres rzeczowy i finansowy. ” , w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek, o którym mowa w ust. 1‒3a, powinien zawierać: ” , w pkt 2 lit. b otrzymuje brzmienie: „ działań przewidzianych do wykonania, o których mowa w art. 3 ust. 1 pkt 2 i 3; ” , w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
 
 - **b)**
+- **b)**
+- **7)** w przypadku podmiotu, o którym mowa w art. 1 pkt 5, określenie stanu wykonania działań, o których mowa w art. 3 ust. 1 pkt 3. ” ;
 - **6)** w art. 9 w ust. 2 w pkt 1 lit. b otrzymuje brzmienie: „ rocznego planu działań, o którym mowa w art. 5 ust. 3 i 3a; ” ;
     - **b)**
 
@@ -124,6 +126,6 @@ source: "eli-html"
 4. W przypadku gdy wielkość wydatków w poszczególnych miesiącach jest zgodna z planem finansowym, przepisu ust. 3 nie stosuje się. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
 
 - **1)** art. 5 w zakresie art. 38a, oraz art. 8, które wchodzą w życie z dniem 1 kwietnia 2016 r.;
-- **2)** art. 1 pkt 2 w zakresie art. 11f, art. 20a i art. 24–26, oraz pkt 3 lit. a i pkt 4, a także art. 3 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2016 r.
+- **2)** art. 1 pkt 2 w zakresie art. 11f, art. 20a i art. 24–26, oraz pkt 3 lit. a i pkt 4, a także art. 3 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2016 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 marca 2010 r. o szczególnych uprawnieniach ministra właściwego do spraw Skarbu Państwa oraz ich wykonywaniu w niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych, ustawę z dnia 30 sierpnia 2013 r. o dotacji przeznaczonej dla niektórych podmiotów, ustawę z dnia 22 stycznia 2015 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego w latach 2008–2015 oraz niektórych innych ustaw i ustawę z dnia 11 lutego 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw.
 
 

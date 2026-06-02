@@ -26,7 +26,25 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000034) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/34/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Transportu z dnia 20 września 2006 r. w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać urządzenia do napełniania i opróżniania zbiorników transportowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Konstrukcja Rozdział 3 – Osprzęt i wyposażenie urządzeń NO Rozdział 4 – Wymagania dodatkowe i szczególne dla urządzeń NO przeznaczonych do przeładunku produktów naftowych w bazach paliw płynnych Rozdział 5 – Znakowanie Rozdział 6 – Dokumentacja techniczna Rozdział 7 – Eksploatacja Rozdział 8 – Wymagania dodatkowe dla portowych ramion przeładunkowych Rozdział 9 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Transportu z dnia 20 września 2006 r. w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać urządzenia do napełniania i opróżniania zbiorników transportowych
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Konstrukcja
+
+#### Rozdział 3 – Osprzęt i wyposażenie urządzeń NO
+
+#### Rozdział 4 – Wymagania dodatkowe i szczególne dla urządzeń NO przeznaczonych do przeładunku produktów naftowych w bazach paliw płynnych
+
+#### Rozdział 5 – Znakowanie
+
+#### Rozdział 6 – Dokumentacja techniczna
+
+#### Rozdział 7 – Eksploatacja
+
+#### Rozdział 8 – Wymagania dodatkowe dla portowych ramion przeładunkowych
+
+#### Rozdział 9 – Przepisy przejściowe i końcowe
 
 ## Załącznik nr 1 — – Terminy badań okresowych urządzeń no i elastycznych przewodów
 
@@ -44,35 +62,28 @@ rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 5 sierpnia 2014 r. zmi
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Infrastruktury z dnia 23 września 2011 r. zmieniającego rozporządzenie w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać urządzenia do napełniania i opróżniania zbiorników transportowych (Dz. U. Nr 208, poz. 1242), który stanowi:
-„
+§ 2 rozporządzenia Ministra Infrastruktury z dnia 23 września 2011 r. zmieniającego rozporządzenie w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać urządzenia do napełniania i opróżniania zbiorników transportowych (Dz. U. Nr 208, poz. 1242), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia jego ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia jego ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 24 września 2013 r. zmieniającego rozporządzenie w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać urządzenia do napełniania i opróżniania zbiorników transportowych (Dz. U. poz. 1161), który stanowi:
-„
+§ 2 rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 24 września 2013 r. zmieniającego rozporządzenie w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać urządzenia do napełniania i opróżniania zbiorników transportowych (Dz. U. poz. 1161), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 3)
-§ 2 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 11 czerwca 2014 r. zmieniającego rozporządzenie w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać urządzenia do napełniania i opróżniania zbiorników transportowych (Dz. U. poz. 823), który stanowi:
-„
+§ 2 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 11 czerwca 2014 r. zmieniającego rozporządzenie w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać urządzenia do napełniania i opróżniania zbiorników transportowych (Dz. U. poz. 823), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 30 czerwca 2014 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 30 czerwca 2014 r. ” ;
 4)
-odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 5 sierpnia 2014 r. zmieniającego rozporządzenie w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać urządzenia do napełniania i opróżniania zbiorników transportowych (Dz. U. poz. 1105), które stanowią: „ 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 9 kwietnia 2014 r., pod numerem 2014/0179/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę Parlamentu Europejskiego i Rady 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych (Dz. Urz. UE L 204 z 21.07.1998, z późn. zm.). ”
-„
+odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 5 sierpnia 2014 r. zmieniającego rozporządzenie w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać urządzenia do napełniania i opróżniania zbiorników transportowych (Dz. U. poz. 1105), które stanowią: „ 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 9 kwietnia 2014 r., pod numerem 2014/0179/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę Parlamentu Europejskiego i Rady 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych (Dz. Urz. UE L 204 z 21.07.1998, z późn. zm.). ” „
 § 2.
 Urządzenia do napełniania i opróżniania zbiorników transportowych eksploatowane przed dniem wejścia w życie rozporządzenia, zgłoszone do badania w Transportowym Dozorze Technicznym przed dniem 31 grudnia 2006 r. i eksploatowane na podstawie warunków technicznych ustalonych z Transportowym Dozorem Technicznym na podstawie dotychczasowych przepisów, mogą być eksploatowane na powyższych warunkach nie dłużej niż do dnia 31 grudnia 2015 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Transportu z dnia 20 września 2006 r. w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać urządzenia do napełniania i opróżniania zbiorników transportowych
-Na podstawie art. 54 ust. 2 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2013 r. poz. 963, z późn. zm.) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
-§ 1.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Transportu z dnia 20 września 2006 r. w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać urządzenia do napełniania i opróżniania zbiorników transportowychObecnie działem administracji rządowej – transport kieruje Minister Infrastruktury i Rozwoju, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Rozwoju (Dz. U. poz. 1257).
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 1 marca 2006 r. pod numerem 2006/0117/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę nr 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych (Dz. Urz. WE L 204 z 21.07.1998, z późn. zm.). Na podstawie art. 54 ust. 2 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2013 r. poz. 963, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1611 oraz z 2014 r. poz. 822.) zarządza się, co następuje:
+Rozdział 1
+Przepisy ogólne
+§ 1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 5 sierpnia 2014 r. zmieniającego rozporządzenie w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać urządzenia do napełniania i opróżniania zbiorników transportowych (Dz. U. poz. 1105), które weszło w życie z dniem 5 września 2014 r..
 1.
 Rozporządzenie określa:
 1)
@@ -82,8 +93,7 @@ portowych ramion przeładunkowych,
 b)
 urządzeń do napełniania i opróżniania zbiorników transportowych, w tym ramion przeładunkowych dla stałych, ciekłych i gazowych towarów niebezpiecznych,
 c)
-urządzeń, w tym ramion przeładunkowych, do napełniania i opróżniania pod ciśnieniem wyższym niż 0,5 bara i zaklasyfikowanych do I, II lub III kategorii, przeznaczonych do płynów zaliczonych do grupy 2 zgodnie z przepisami wydanymi na podstawie art. 9 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2014 r. poz. 1645 i 1662) dotyczącymi zasadniczych wymagań dla urządzeń ciśnieniowych i zespołów urządzeń ciśnieniowych
-ograniczonych z jednej strony zaworem odcinającym od instalacji technologicznej lub przesyłowej, a z drugiej elementem łączącym z napełnianym lub opróżnianym zbiornikiem transportowym, zwanych dalej „urządzeniami NO”;
+urządzeń, w tym ramion przeładunkowych, do napełniania i opróżniania pod ciśnieniem wyższym niż 0,5 bara i zaklasyfikowanych do I, II lub III kategorii, przeznaczonych do płynów zaliczonych do grupy 2 zgodnie z przepisami wydanymi na podstawie art. 9 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2014 r. poz. 1645 i 1662) dotyczącymi zasadniczych wymagań dla urządzeń ciśnieniowych i zespołów urządzeń ciśnieniowych – ograniczonych z jednej strony zaworem odcinającym od instalacji technologicznej lub przesyłowej, a z drugiej elementem łączącym z napełnianym lub opróżnianym zbiornikiem transportowym, zwanych dalej „urządzeniami NO”;
 2)
 rodzaje specjalistycznych urządzeń, przy których obsłudze i konserwacji wymagane jest posiadanie szczególnych kwalifikacji uzyskanych na podstawie art. 23 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym.
 2.
@@ -96,7 +106,7 @@ urządzeń przenośnych stosowanych przy przeładunku towarów niebezpiecznych w
 urządzeń stosowanych do rozładunku dużych pojemników do przewozu luzem towarów niebezpiecznych (DPPL).
 3.
 Przepisów rozdziałów 2–6 i 8 nie stosuje się do elementów, podzespołów lub zespołów urządzeń NO, jeżeli w zakresie projektowania i wytwarzania objęte są one przepisami ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności oraz aktami wykonawczymi wydanymi na podstawie tej ustawy.
-§ 2.
+§ 2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4..
 Użyte w rozporządzeniu określenia oznaczają:
 1)
 ADR – Umowę europejską dotyczącą międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzoną w Genewie dnia 30 września 1957 r. (Dz. U. z 2013 r. poz. 815), wraz ze zmianami obowiązującymi od dnia ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, ogłoszonymi we właściwy sposób;
@@ -163,7 +173,8 @@ produkty naftowe I, II i III klasy – ropę naftową i produkty naftowe, z wyj�
 – do I klasy – ropa naftowa i produkty naftowe o temperaturze zapłonu do 294,15 K (21°C),
 – do II klasy – produkty naftowe o temperaturze zapłonu od 294,15 K (21°C) do 328,15 K (55°C),
 – do III klasy – produkty naftowe o temperaturze zapłonu od 328,15 K (55°C) do 373,15 K (100°C).
-Rozdział 2 Konstrukcja
+Rozdział 2
+Konstrukcja
 § 3.
 1.
 Urządzenie NO powinno być zaprojektowane i wykonane z uwzględnieniem zagrożeń odnoszących się do danego urządzenia, wynikających z panującego w nim ciśnienia i rodzaju przeładowywanego towaru.
@@ -221,7 +232,7 @@ wymagania, o których mowa w pkt 1 i 2, można spełnić, stosując odpowiednio 
 § 10.
 1.
 Podczas projektowania urządzenia NO z zastosowaniem metody obliczeniowej należy wykonać właściwe obliczenia projektowe w celu określenia wytrzymałości tych urządzeń, w szczególności mając na względzie, że:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 4.)
 ciśnienie obliczeniowe nie może być niższe niż najwyższe ciśnienie dopuszczalne, przy czym należy uwzględnić statyczne i dynamiczne ciśnienie płynu oraz rozkład płynów nietrwałych;
 2)
 temperatury obliczeniowe powinny zapewnić odpowiedni, wynikający z analizy bezpieczeństwa, zapas bezpieczeństwa;
@@ -245,10 +256,10 @@ danych zmęczeniowych;
 modułu sprężystości Younga;
 6)
 odpowiedniego stopnia odkształcenia plastycznego;
-7)
+7W brzmieniu ustalonym przez § 1 pkt 3 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.)
 udarności w minimalnej temperaturze pracy dla medium przeładowywanego;
 8)
-(uchylony).
+(uchylony).Przez § 1 pkt 3 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4.
 3.
 Określając właściwości materiału, należy uwzględnić odpowiednie współczynniki wytrzymałościowe złączy zależne od takich czynników, jak rodzaj badań nieniszczących, rodzaj łączonych materiałów oraz przewidywane warunki pracy.
 4.
@@ -272,7 +283,7 @@ Współczynnik wytrzymałości złącza spawanego w zależności od przewidziane
 0,85 – dla urządzeń NO, których złącza poddawane są losowo badaniom nieniszczącym;
 3)
 0,7 – dla urządzeń NO, których złącza poddawane są tylko badaniom wizualnym.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4..
 Przy dobieraniu odpowiednich wartości współczynnika wytrzymałości złączy spawanych, kierując się uznaną praktyką inżynierską, należy uwzględniać charakter występujących naprężeń, właściwości wytrzymałościowych i technologicznych połączeń spawanych. Przy projektowaniu urządzeń NO do przeładunku towarów niebezpiecznych o właściwościach zapalnych o temperaturze zapłonu nie wyższej niż 60°C, trujących lub żrących należy przyjmować współczynnik wytrzymałości złącza spawanego równy 1.
 § 12.
 Podczas projektowania urządzenia NO z zastosowaniem metody obliczeniowej należy uwzględniać stateczność konstrukcji. Jeżeli obliczona grubość ścianki nie zapewnia odpowiedniej stateczności konstrukcji, należy podjąć odpowiednie środki zaradcze.
@@ -289,7 +300,7 @@ Przed rozpoczęciem badań powinny zostać ustalone rzeczywiste wartości podsta
 Podczas przeprowadzania badań powinna być umożliwiona obserwacja krytycznych stref i zakresu pracy urządzenia NO przy użyciu odpowiednich przyrządów umożliwiających rejestrowanie odkształceń i naprężeń z wystarczającą dokładnością.
 6.
 Program badań, o którym mowa w ust. 1, powinien obejmować:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4.)
 wytrzymałościową próbę ciśnieniową, której celem jest sprawdzenie, czy pod ciśnieniem określonym z zapasem bezpieczeństwa w stosunku do najwyższego ciśnienia dopuszczalnego urządzenie nie wykazuje nieszczelności ani odkształceń przekraczających wartości określone przez projektanta; ciśnienie próbne wyznacza się, uwzględniając różnice między wartościami geometrycznymi i właściwościami materiału zmierzonymi w warunkach przeprowadzanej próby a wartościami zastosowanymi do celów projektowych; uwzględnia się również różnicę między temperaturą próby i temperaturą przyjętą do obliczeń;
 2)
 odpowiednie badania, określone na podstawie warunków eksploatacyjnych ustalonych dla urządzenia, takich jak wytrzymałość w czasie w określonych temperaturach oraz liczba cykli przy określonych poziomach naprężeń, przeprowadzane, gdy występuje ryzyko pełzania lub zmęczenia materiału;
@@ -358,14 +369,14 @@ osprzęt zabezpieczający;
 odpowiednie urządzenia monitorujące, w szczególności wskaźniki lub układy alarmowe umożliwiające podjęcie stosownych działań automatycznie lub ręcznie dla utrzymania parametrów urządzenia NO w zakresie określonym jego projektem.
 § 21.
 Ramiona przeładunkowe przemieszczane ręcznie mogą być budowane z układami wyważającymi.
-§ 22.
+§ 22W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4..
 1.
 Urządzenia NO przeznaczone do przeładunku towarów niebezpiecznych o właściwościach zapalnych o temperaturze zapłonu nie wyższej niż 60°C, samozapalnych, trujących lub żrących oraz gazów powinny być wyposażone w instalacje zapewniające hermetyczne napełnianie i opróżnianie zbiorników transportowych, chyba że przepisy rozdziału 4 stanowią inaczej.
 2.
 Opary przeładowywanych towarów niebezpiecznych z instalacji, o których mowa w ust. 1, powinny być odprowadzane do instalacji odzysku, zbiornika magazynowego lub instalacji niszczenia lub neutralizacji odgazów.
 3.
 W przypadku, w którym opary substancji nie występują lub nie wykazują właściwości wskazanych w ust. 1, po uzgodnieniu z TDT możliwe jest odstąpienie od wymagań wskazanych w ust. 1 i 2 lub zastosowanie innych środków o podobnej skuteczności wskazanych w analizie zagrożeń.
-§ 23.
+§ 23W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4..
 1.
 Urządzenia NO powinny być wyposażone w układy zabezpieczające zbiornik transportowy przed przepełnieniem i wstrzymujące pracę urządzeń NO w sytuacjach awaryjnych lub współpracować z układem zapewniającym odpowiedni poziom bezpieczeństwa, wskazanym w analizie zagrożeń, chyba że przepisy rozdziału 4 stanowią inaczej.
 2.
@@ -381,12 +392,12 @@ towarów przeładowywanych w temperaturze wyższej niż ich temperatura zapłonu
 4)
 towarów, przy których przeładunku powstają ładunki elektrostatyczne, a z analizy zagrożeń wynika, że może to spowodować wybuch, uszkodzenie aparatury lub że wpływa to na warunki BHP obsługi,
 5)
-towarów, przy których przeładunku w obrębie urządzeń NO występują pyły lub włókna palnych ciał stałych w ilościach mogących wytworzyć w połączeniu z powietrzem mieszaninę wybuchową
-powinny być wyposażone w instalacje uziemiające zbiorniki transportowe, zapewniające kontrolę ciągłości uziemienia. Przerwanie ciągłości uziemienia powinno skutkować zatrzymaniem przeładunku. Powyższe wymagania nie dotyczą grawitacyjnego opróżniania zbiorników transportowych. W takim przypadku zbiornik transportowy powinien być uziemiony przed rozpoczęciem opróżniania za pomocą przewodu uziemiającego do instalacji uziemiającej stanowiska nalewczego.
-Rozdział 3 Osprzęt i wyposażenie urządzeń NO
-§ 24.
+towarów, przy których przeładunku w obrębie urządzeń NO występują pyły lub włókna palnych ciał stałych w ilościach mogących wytworzyć w połączeniu z powietrzem mieszaninę wybuchową – powinny być wyposażone w instalacje uziemiające zbiorniki transportowe, zapewniające kontrolę ciągłości uziemienia. Przerwanie ciągłości uziemienia powinno skutkować zatrzymaniem przeładunku. Powyższe wymagania nie dotyczą grawitacyjnego opróżniania zbiorników transportowych. W takim przypadku zbiornik transportowy powinien być uziemiony przed rozpoczęciem opróżniania za pomocą przewodu uziemiającego do instalacji uziemiającej stanowiska nalewczego.
+Rozdział 3
+Osprzęt i wyposażenie urządzeń NO
+§ 24W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4..
 Elementy, podzespoły oraz zespoły urządzeń NO objęte przepisami dotyczącymi oznakowania CE powinny spełniać wymagania określone w tych przepisach.
-§ 25.
+§ 25W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4..
 1.
 Urządzenia NO do przeładunku towarów niebezpiecznych o właściwościach zapalnych o temperaturze zapłonu do 60°C, samozapalnych, trujących lub żrących oraz gazów powinny być wyposażone w złącza awaryjnego rozłączania, chyba że przepisy rozdziału 4 stanowią inaczej.
 2.
@@ -397,7 +408,7 @@ Złącze awaryjnego rozłączania musi być zabezpieczone przed przypadkowym uru
 Złącz awaryjnego rozłączania nie wymaga się dla urządzeń NO, które są połączone ze zbiornikiem transportowym, skutecznie odłączonym od lądowego środka transportu.
 5.
 Złącz awaryjnego rozłączania nie wymaga się dla ramion nalewczych wyposażonych w stożki hermetyzacyjne, posiadające zintegrowany system zamykający przepływ w przypadku wysunięcia się ramienia z włazu cysterny.
-§ 26.
+§ 26W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4..
 Jeżeli urządzenie NO zostało wyposażone w złącze suchoodcinające, wówczas złącze to powinno:
 1)
 być wyposażone w układ blokady wykluczający możliwość samoczynnego otwarcia;
@@ -405,7 +416,7 @@ być wyposażone w układ blokady wykluczający możliwość samoczynnego otwarc
 zapewniać szczelność otworu po rozłączeniu;
 3)
 być wyposażone w zwalniacz ręczny, umożliwiający ręczne rozłączenie, bez konieczności stosowania napędu.
-§ 27.
+§ 27W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4..
 Przy określaniu lokalizacji i długości ramienia przeładunkowego ramię to powinno spełniać następujące warunki:
 1)
 w położeniu spoczynkowym żadna część ramienia nie powinna wystawać poza obrys pomostu przeładunkowego;
@@ -418,7 +429,7 @@ Urządzenie NO na bocznicy kolejowej w położeniu spoczynkowym nie powinno naru
 § 29.
 1.
 Strefa pracy i strefa alarmowa urządzenia NO wykonanego z elementów sztywnych powinny być ściśle określone w instrukcji eksploatacji.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 4..
 Przekroczenie stref pracy przez elementy sztywne urządzenia NO powinno samoczynnie uruchamiać układ alarmowy, jeżeli taki układ został zamontowany.
 § 30.
 1.
@@ -442,7 +453,7 @@ Urządzenia NO wyposażone w elektryczną instalację grzewczą powinny być zab
 4.
 Elektryczne instalacje grzewcze powinny być zaopatrzone w układy umożliwiające kontrolę i sterowanie mocą grzewczą w zależności od temperatury otoczenia, tak aby zapewnione było utrzymanie temperatury przeładowywanego towaru w wymaganym zakresie.
 5.
-(uchylony).
+(uchylony).Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 4.
 § 33.
 1.
 Wszystkie elementy i obudowy urządzenia NO, których temperatura powierzchni może przekraczać 70 °C, powinny być zaopatrzone w izolację cieplną lub odpowiednie osłony zabezpieczające przed poparzeniem się osób pracujących w strefie pracy urządzenia NO.
@@ -454,9 +465,9 @@ odpornością na oddziaływanie przeładowywanego towaru;
 odpowiednią przewodnością cieplną i własnościami mechanicznymi;
 3)
 ognioodpornością.
-§ 34.
+§ 34W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 4..
 Urządzenie NO przewidziane do zainstalowania w przestrzeni zagrożonej wybuchem powinno być wyposażone w instalację i aparaturę elektryczną dobraną do parametrów sklasyfikowanej strefy zagrożenia wybuchem.
-§ 35.
+§ 35W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 4..
 Ochrona przed elektrycznością statyczną oraz ochrona przeciwporażeniowa urządzeń NO wyposażonych w instalację elektryczną powinna być wykonana według wymagań odpowiednich norm serii PN-EN 61340 oraz norm PN-E 05208, PN-IEC 60050–195 i PN-HD 60364–4–41.
 § 36.
 1.
@@ -470,7 +481,7 @@ Oznakowanie, napisy oraz symbole opisujące przeznaczenie przycisków i dźwigni
 W układach cięgnowych mechanizmów napędowych i układach wyważenia portowych ramion przeładunkowych należy stosować liny stalowe wykonane według wymagań norm serii PN-EN 12385 oraz innych norm międzynarodowych.
 2.
 W układach cięgnowych, o których mowa w ust. 1, należy stosować liny dwuzwite odprężone o co najmniej sześciu splotkach wielowarstwowych.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 4..
 Wytrzymałość na rozciąganie drutu lin stalowych powinna być zgodna z normą PN-EN 12385.
 4.
 Współczynnik bezpieczeństwa cięgien powinien wynosić nie mniej niż 5, gdy na elementy urządzenia NO zawieszone na cięgnach nie wchodzą ludzie; współczynnik bezpieczeństwa elementów urządzenia NO zawieszonych na cięgnach, na które mogą wchodzić ludzie lub przebywać pod nimi, powinien wynosić nie mniej niż 10.
@@ -478,8 +489,10 @@ Współczynnik bezpieczeństwa cięgien powinien wynosić nie mniej niż 5, gdy 
 Mocowanie końców cięgien do konstrukcji urządzenia NO powinno być wykonane w taki sposób, aby wytrzymałość takiego mocowania była nie mniejsza niż wytrzymałość liny na rozerwanie w całości (nie mniejsza od rzeczywistej siły zrywającej linę w całości).
 6.
 Sposób mocowania i prowadzenia lin powinien eliminować nadmierne ich zginanie, możliwość spadania z bębnów i krążków oraz ocierania się o konstrukcję urządzenia NO lub o inne cięgna.
-Rozdział 4 Wymagania dodatkowe i szczególne dla urządzeń NO przeznaczonych do przeładunku produktów naftowych w bazach paliw płynnych
-§ 38.
+Rozdział 4
+Wymagania dodatkowe i szczególne dla urządzeń NO przeznaczonych do przeładunku produktów naftowych w bazach paliw płynnych
+Tytuł rozdziału w brzmieniu ustalonym przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 4.
+§ 38W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 4..
 1.
 Urządzenia NO stanowiące wyposażenie baz (terminali) paliw płynnych powinny spełniać wymagania określone w przepisach wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane dotyczących warunków technicznych, jakim powinny odpowiadać bazy i stacje paliw płynnych, rurociągi przesyłowe dalekosiężne służące do transportu ropy naftowej i produktów naftowych i ich usytuowanie, oraz wymagania niniejszego rozdziału.
 2.
@@ -506,13 +519,13 @@ przyłącza do napełniania powinny być rozmieszczone na długości nieprzekrac
 złączki odprowadzania oparów powinny być umieszczone po prawej stronie złączek cieczowych i na wysokości nieprzekraczającej 1,5 m (przy próżnej cysternie) i nie mniejszej niż 0,5 m (przy cysternie napełnionej);
 5)
 wyżej opisane przyłącza i złączki powinny być umieszczone po jednej stronie pojazdu cysterny.
-§ 40.
+§ 40W brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 4..
 Urządzenie NO powinno być wyposażone w układy uniemożliwiające napełnianie zbiorników cystern drogowych i cystern kolejowych w przypadkach:
 1)
 braku odpowiedniego sygnału informującego o ciągłości uziemienia i podłączeniu czujników maksymalnego napełnienia;
 2)
 przekroczenia maksymalnego napełnienia komór zbiornika cysterny lub utraty ciągłości uziemienia pomiędzy urządzeniem NO a cysterną.
-§ 40a.
+§ 40aDodany przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 4..
 1.
 Urządzenie NO przeznaczone do napełniania cystern drogowych lub cystern kolejowych produktami naftowymi I klasy powinno być wyposażone w:
 1)
@@ -523,7 +536,7 @@ urządzenie kontrolne zabezpieczające przed przepełnieniem cystern i blokując
 Urządzenia NO przeznaczone do rozładunku cystern drogowych lub cystern kolejowych z produktów naftowych I klasy nie muszą być wyposażone w układy zapewniające hermetyczne opróżnianie zbiorników transportowych, o których mowa w § 22 ust. 1, jeżeli są tak zaprojektowane i użytkowane, aby całkowite roczne straty produktów naftowych I klasy nie przekraczały wartości 0,005% ich wydajności.
 § 41.
 Napełnianie pojazdów cystern powinno być niemożliwe w przypadku, gdy przewód odprowadzający opary ze zbiornika pojazdu cysterny nie jest podłączony.
-§ 41a.
+§ 41aDodany przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 4..
 1.
 Złącz awaryjnego rozłączania, o których mowa w § 25, nie wymaga się dla urządzeń NO eksploatowanych na stanowiskach załadunku i rozładunku cystern kolejowych:
 1)
@@ -532,9 +545,10 @@ produktami naftowymi III klasy, jeżeli cysterny kolejowe są skutecznie zabezpi
 produktami naftowymi II klasy, jeżeli cysterny kolejowe zabezpieczone są przed przemieszczeniem podczas operacji przeładunkowych w sposób wskazany w analizie zagrożeń.
 2.
 Urządzenia NO eksploatowane na stanowiskach oddolnego załadunku cystern drogowych powinny być wyposażone w złącza suchoodcinające, spełniające wymagania określone w § 26.
-§ 41b.
+§ 41bDodany przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 4..
 Podczas odgórnego napełniania cystern drogowych i kolejowych ropą naftową lub produktami naftowymi końcówka ramienia nalewczego (przeładunkowego) powinna znajdować się jak najbliżej dna zbiornika cysterny. Napełnianie cystern powinno odbywać się ze zmniejszoną wydajnością przepływu ropy naftowej lub produktów naftowych na początku i końcu procesu napełniania.
-Rozdział 5 Znakowanie
+Rozdział 5
+Znakowanie
 § 42.
 1.
 Każde urządzenie NO powinno być zaopatrzone w tabliczkę fabryczną, wykonaną z materiału trwałego i odpornego na korozję oraz na działanie przeładowywanego towaru, trwale umieszczoną w miejscu dostępnym do kontroli, zawierającą co najmniej następujące dane:
@@ -552,17 +566,18 @@ parametry urządzenia (średnica nominalna, natężenie przepływu, ciśnienie r
 przeznaczenie urządzenia (rodzaj przeładowywanego towaru);
 7)
 znak kontroli jakości wytwórcy;
-8)
+8W brzmieniu ustalonym przez § 1 pkt 16 lit. a rozporządzenia, o którym mowa w odnośniku 4.)
 data ostatniej próby ciśnieniowej i stempel inspektora TDT przeprowadzającego badanie.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 16 lit. b rozporządzenia, o którym mowa w odnośniku 4.
 § 43.
 Każde urządzenie NO powinno być oznaczone numerem ewidencyjnym, nadanym przez TDT.
 § 44.
 Na dojściu (dojeździe) do urządzenia NO należy umieścić tablice ostrzegawcze – odpowiednie dla wymagań przeciwpożarowych i strefy zagrożenia wybuchem, a także napisy (tablice) wymagane szczegółowymi przepisami i instrukcjami bhp.
 § 45.
 Ruchome elementy konstrukcji urządzenia NO mogące stwarzać zagrożenie dla otoczenia powinny być oznaczone pasami ostrzegawczymi, zgodnie z odpowiednimi normami.
-Rozdział 6 Dokumentacja techniczna
+Rozdział 6
+Dokumentacja techniczna
 § 46.
 1.
 W fazie projektowania urządzenia NO powinna być opracowana dokumentacja techniczna co najmniej w dwóch egzemplarzach przedkładanych TDT w celu jej uzgodnienia.
@@ -595,14 +610,14 @@ program prób i badań podzespołów i całego urządzenia;
 13)
 wzór tabliczki fabrycznej;
 14)
-(uchylony).
+(uchylony).Przez § 1 pkt 17 lit. a rozporządzenia, o którym mowa w odnośniku 4.
 3.
 Instrukcja eksploatacji, o której mowa w ust. 2 pkt 9, powinna zawierać co najmniej:
 1)
 ogólny opis urządzenia, jego przeznaczenie i charakterystykę techniczną;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 17 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.)
 parametry pracy mechanizmów napędowych oraz ich zespołów i elementów wyposażenia (mechanicznego, elektrycznego, hydraulicznego lub pneumatycznego);
-3)
+3W brzmieniu ustalonym przez § 1 pkt 17 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.)
 parametry pracy zastosowanych urządzeń zabezpieczających;
 4)
 opis czynności przy obsłudze urządzenia, opis działania urządzeń sterowniczych i sygnalizacyjnych, wskazań przyrządów pomiarowo-kontrolnych wraz z rysunkami rozmieszczenia tych urządzeń i przyrządów, sposób i zasady sterowania oraz obowiązki operatora i jego czynności przed, w czasie i po zakończeniu pracy;
@@ -616,11 +631,11 @@ zasady wykonywania czynności konserwacyjnych, z podaniem rodzajów i terminów 
 instrukcję smarowania, zawierającą określenie miejsc – punktów smarowania; rodzajów stosowanych środków używanych do smarowania, w szczególności olejów i smarów, oraz okresów smarowania;
 9)
 wykaz usterek lub nieprawidłowości, które mogą wystąpić podczas eksploatacji urządzenia NO, z podaniem przyczyn i sposobu ich usunięcia;
-10)
+10W brzmieniu ustalonym przez § 1 pkt 17 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4.)
 terminy planowanych przeglądów technicznych, o charakterze zapobiegawczym, z podaniem zakresu czynności przeglądu i wykazu elementów podlegających wymianie po danym okresie eksploatacji urządzenia;
-11)
+11W brzmieniu ustalonym przez § 1 pkt 17 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4.)
 własności przeładowywanego towaru w formie kart charakterystyki;
-12)
+12W brzmieniu ustalonym przez § 1 pkt 17 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4.)
 określenie strefy pracy, a dla urządzenia NO wykonanego z elementów sztywnych również strefy alarmowej;
 13)
 szczególne dane projektowe, związane z czasem życia urządzenia, w szczególności w przypadku:
@@ -632,7 +647,7 @@ c)
 korozji – projektowany naddatek na korozję.
 4.
 Niezbędny zakres instrukcji eksploatacji urządzenia NO określa projektant.
-§ 47.
+§ 47W brzmieniu ustalonym przez § 1 pkt 18 rozporządzenia, o którym mowa w odnośniku 4..
 1.
 W fazie rejestracji urządzenia NO przedkładana jest TDT dokumentacja rejestracyjna co najmniej w dwóch egzemplarzach. Dokumentacja ta powinna zawierać:
 1)
@@ -677,17 +692,18 @@ opis budowy, działania i regulacji zastosowanych urządzeń zabezpieczających;
 skróconą instrukcję obsługi, umieszczaną przy urządzeniu NO.
 2.
 Dokumenty, o których mowa powyżej, mogą zostać przedłożone TDT w fazie rejestracji urządzenia w jednym egzemplarzu, jeżeli zostały one przedłożone TDT w fazie projektowania urządzenia NO, zostały uzgodnione przez TDT i nie uległy modyfikacjom oraz pozostają w dyspozycji TDT. W takim przypadku w dokumentacji rejestracyjnej należy wskazać, jakie dokumenty zostały przekazane do TDT w fazie projektowania i pozostają w jego dyspozycji.
-Rozdział 7 Eksploatacja
+Rozdział 7
+Eksploatacja
 § 48.
 Urządzenie NO należy eksploatować zgodnie z przeznaczeniem i dokumentacją techniczną.
-§ 49.
+§ 49W brzmieniu ustalonym przez § 1 pkt 19 rozporządzenia, o którym mowa w odnośniku 4..
 Skrócona instrukcja obsługi, o której mowa w § 47 ust. 1 pkt 14, dotycząca bezpośredniej obsługi urządzenia NO powinna znajdować się w miejscu obsługi urządzenia.
 § 50.
 1.
 Wykorzystanie urządzenia NO do przeładunku innego towaru niż przewidziany w dokumentacji technicznej wymaga zgody projektanta lub producenta oraz TDT.
 2.
 W przypadku braku projektanta i producenta wykorzystanie urządzenia NO do przeładunku innego towaru niż przewidziany w dokumentacji technicznej wymaga zgody TDT.
-§ 51.
+§ 51W brzmieniu ustalonym przez § 1 pkt 20 rozporządzenia, o którym mowa w odnośniku 4..
 1.
 Dla każdego urządzenia NO eksploatujący powinien prowadzić dokumentację eksploatacyjną dokumentującą czynności w zakresie obsługi, obejmującą co najmniej:
 1)
@@ -700,7 +716,7 @@ usterki i nieprawidłowości wynikłe w trakcie przeładunku;
 uwagi, spostrzeżenia.
 2.
 W zakresie wymagań, o których mowa w ust. 1 pkt 1 i 2, dopuszcza się prowadzenie dokumentacji eksploatacyjnej w wersji elektronicznej.
-§ 52.
+§ 52W brzmieniu ustalonym przez § 1 pkt 21 rozporządzenia, o którym mowa w odnośniku 4..
 Przy obsłudze urządzeń NO wymagane jest posiadanie kwalifikacji uzyskanych stosownie do przepisów wydanych na podstawie art. 23 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym.
 § 53.
 Pomiary elektryczne urządzeń NO wyposażonych w aparaturę elektryczną należy wykonywać nie rzadziej niż raz w roku.
@@ -722,7 +738,7 @@ a)
 wszystkie elementy ciśnieniowe urządzenia NO powinny być poddane próbie hydraulicznej przy ciśnieniu wynoszącym 1,5 maksymalne ciśnienie robocze przez okres nie krótszy niż 30 minut; podzespoły ciśnieniowe powinny być poddane próbie hydraulicznej u producenta przed ich zabezpieczeniem antykorozyjnym lub założeniem izolacji cieplnej,
 b)
 hydrauliczna próba ciśnieniowa całego urządzenia powinna być wykonana po całkowitym jego montażu,
-c)
+cW brzmieniu ustalonym przez § 1 pkt 22 lit. a rozporządzenia, o którym mowa w odnośniku 4.)
 próba hydrauliczna z użyciem wody w wyjątkowych przypadkach i za zgodą TDT może być zastąpiona próbą z zastosowaniem innej cieczy lub gazu; sposób przeprowadzenia próby ciśnieniowej powinien zostać w takim przypadku określony w instrukcji eksploatacji urządzenia NO i zaakceptowany przez TDT na etapie uzgodnienia dokumentacji technicznej urządzenia;
 3)
 sprawdzenie urządzeń zabezpieczających, w tym blokad ryglujących, w przypadku ich zastosowania;
@@ -734,15 +750,15 @@ sprawdzenie stanu cięgien, ich zamocowań oraz elementów zawieszenia, w przypa
 sprawdzenie działania mechanizmów napędowych w przypadku ich zastosowania;
 7)
 sprawdzenie prędkości ruchów roboczych;
-8)
+8W brzmieniu ustalonym przez § 1 pkt 22 lit. b rozporządzenia, o którym mowa w odnośniku 4.)
 sprawdzenie stanu złącza awaryjnego rozłączania;
-9)
+9W brzmieniu ustalonym przez § 1 pkt 22 lit. c rozporządzenia, o którym mowa w odnośniku 4.)
 próbę działania złącza suchoodcinającego;
 10)
 sprawdzenie protokołów pomiarów elektrycznych (rezystancji izolacji, skuteczności ochrony przeciwporażeniowej i odgromowej, rezystancji kołnierza izolacyjnego), w przypadku zastosowania w urządzeniu NO instalacji przeciwporażeniowej i odgromowej;
-11)
+11W brzmieniu ustalonym przez § 1 pkt 22 lit. d rozporządzenia, o którym mowa w odnośniku 4.)
 sprawdzenie szczelności przy ciśnieniu roboczym.
-§ 56.
+§ 56W brzmieniu ustalonym przez § 1 pkt 23 rozporządzenia, o którym mowa w odnośniku 4..
 1.
 Badanie okresowe urządzenia NO przeprowadza się nie rzadziej niż w terminach podanych w tabeli stanowiącej załącznik do rozporządzenia, uwzględniając rodzaj urządzenia, którego badanie dotyczy, w zakresie obejmującym:
 1)
@@ -777,8 +793,8 @@ poawaryjne lub powypadkowe przeprowadzane przez TDT w przypadku wystąpienia nie
 2.
 Zakres badania doraźnego określa inspektor TDT przeprowadzający badanie.
 § 58.
-(uchylony).
-§ 58a.
+(uchylony).Przez § 1 pkt 24 rozporządzenia, o którym mowa w odnośniku 4.
+§ 58aDodany przez § 1 pkt 25 rozporządzenia, o którym mowa w odnośniku 4..
 1.
 Eksploatujący urządzenie NO może dokonać wymiany:
 1)
@@ -792,13 +808,12 @@ zaworów redukcyjnych,
 5)
 urządzeń zasilających,
 6)
-elastycznych przewodów będących na wyposażeniu urządzenia NO, ale niebędących jego stałym elementem, wraz z końcówkami przyłączeniowymi z jednej strony do urządzenia NO, a z drugiej strony do zbiornika transportowego, które jako kompletne nie zawierają żadnych elementów pośrednich między tymi końcówkami
-o ile wymiana nie wymaga stosowania technologii spajania lub przeróbki plastycznej.
+elastycznych przewodów będących na wyposażeniu urządzenia NO, ale niebędących jego stałym elementem, wraz z końcówkami przyłączeniowymi z jednej strony do urządzenia NO, a z drugiej strony do zbiornika transportowego, które jako kompletne nie zawierają żadnych elementów pośrednich między tymi końcówkami – o ile wymiana nie wymaga stosowania technologii spajania lub przeróbki plastycznej.
 2.
 Nowo zainstalowane elementy, o których mowa w ust. 1, powinny być tego samego typu, o takich samych parametrach, charakterystyce i nastawach jak elementy wymieniane. Zastosowane elastyczne przewody powinny być tego samego typu, o takich samych parametrach i charakterystyce jak przewody wymieniane.
 3.
 Wymiana elementów, o których mowa w ust. 1, powinna być nadzorowana przez osoby odpowiedzialne za nadzór eksploatacyjny urządzenia NO i udokumentowana w dokumentacji eksploatacyjnej, o której mowa w § 51.
-§ 58b.
+§ 58bDodany przez § 1 pkt 25 rozporządzenia, o którym mowa w odnośniku 4..
 1.
 Naprawa lub modernizacja urządzeń do napełniania i opróżniania zbiorników transportowych powinna być przeprowadzana przez podmioty posiadające uprawnienia wydane przez TDT oraz na podstawie uzgodnionej przez TDT dokumentacji technicznej.
 2.
@@ -806,10 +821,10 @@ Wykonanie naprawy lub modernizacji powinno być potwierdzone pisemnie przez wyko
 3.
 Po zakończeniu naprawy lub modernizacji należy przeprowadzić badanie, o którym mowa w § 57 ust. 1 pkt 1.
 § 59.
-(uchylony).
+(uchylony).Przez § 1 pkt 26 rozporządzenia, o którym mowa w odnośniku 4.
 § 60.
 Dopuszcza się możliwość podłączenia urządzenia NO do kołnierza zaworu wylotowego zbiornika o średnicy nominalnej różnej od średnicy nominalnej urządzenia, przy zastosowaniu króćców redukcyjnych, o nie więcej niż 50%.
-§ 61.
+§ 61W brzmieniu ustalonym przez § 1 pkt 27 rozporządzenia, o którym mowa w odnośniku 4..
 1.
 Elastyczne przewody powinny być:
 1)
@@ -828,7 +843,8 @@ numer fabryczny i datę produkcji;
 wartość ciśnienia próbnego.
 3.
 Dane, o których mowa w ust. 2, mogą być naniesione na korpusach zakończeń przewodów.
-Rozdział 8 Wymagania dodatkowe dla portowych ramion przeładunkowych
+Rozdział 8
+Wymagania dodatkowe dla portowych ramion przeładunkowych
 § 62.
 Konstrukcja morskich ramion przeładunkowych powinna spełniać minimalne warunki określone przez OCIMF.
 § 63.
@@ -880,7 +896,7 @@ Dla zespołu ramion przeładunkowych o napędzie hydraulicznym nie dopuszcza si�
 § 78.
 1.
 W celu elektrycznego odizolowania ramienia od działania prądów błądzących należy zastosować na środkowym przegubie obrotowym trójczłonowego przegubu sferycznego specjalny kołnierz izolacyjny.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 28 rozporządzenia, o którym mowa w odnośniku 4..
 Rezystancja kołnierza izolacyjnego powinna być równa lub większa niż 10 000 Ω, mierzona przed i po zamontowaniu ramienia na stanowisku przeładunkowym.
 § 79.
 1.
@@ -894,9 +910,10 @@ Sygnał alarmowy powinien być emitowany równocześnie w formie akustycznej i o
 Sygnał optyczny powinien mieć charakter impulsowy o częstotliwości 90 impulsów na minutę z tolerancją ±30.
 3.
 Alarmowy sygnał akustyczny powinien być przerywany i powinien być wyraźnie słyszalny w promieniu minimum 40 m przy wietrze 7° w skali Beauforta w najmniej korzystnym kierunku i prędkości dopuszczalnej dla stanu pracy ramienia.
-Rozdział 9 Przepisy przejściowe i końcowe
+Rozdział 9
+Przepisy przejściowe i końcowe
 § 81.
-(uchylony).
+(uchylony).Przez § 1 pkt 29 rozporządzenia, o którym mowa w odnośniku 4.
 § 82.
 Dla portowych ramion przeładunkowych pracujących w obszarach zagrożonych wybuchem, eksploatowanych przed dniem wejścia w życie rozporządzenia, niewyposażonych w kołnierze izolacyjne, dopuszcza się stosowanie instalacji uziemiającej wyposażonej w łącznik w wykonaniu przeciwwybuchowym.
 § 83.
@@ -921,10 +938,10 @@ protokoły ważnych pomiarów elektrycznych;
 8)
 oświadczenie eksploatującego urządzenie NO o dotychczasowej pracy tego urządzenia z uwzględnieniem jego awaryjności, przeprowadzonych modernizacji i zmian konstrukcji.
 § 84.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – transport kieruje Minister Infrastruktury i Rozwoju, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Rozwoju (Dz. U. poz. 1257). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 1 marca 2006 r. pod numerem 2006/0117/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę nr 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych (Dz. Urz. WE L 204 z 21.07.1998, z późn. zm.). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1611 oraz z 2014 r. poz. 822. 4) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 5 sierpnia 2014 r. zmieniającego rozporządzenie w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać urządzenia do napełniania i opróżniania zbiorników transportowych (Dz. U. poz. 1105), które weszło w życie z dniem 5 września 2014 r. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 6) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 4. 7) W brzmieniu ustalonym przez § 1 pkt 3 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 8) Przez § 1 pkt 3 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 9) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. 10) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4. 11) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4. 12) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 4. 13) Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 4. 14) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 4. 15) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 4. 16) Tytuł rozdziału w brzmieniu ustalonym przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 4. 17) W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 4. 18) W brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 4. 19) Dodany przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 4. 20) Dodany przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 4. 21) W brzmieniu ustalonym przez § 1 pkt 16 lit. a rozporządzenia, o którym mowa w odnośniku 4. 22) Przez § 1 pkt 16 lit. b rozporządzenia, o którym mowa w odnośniku 4. 23) Przez § 1 pkt 17 lit. a rozporządzenia, o którym mowa w odnośniku 4. 24) W brzmieniu ustalonym przez § 1 pkt 17 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 25) W brzmieniu ustalonym przez § 1 pkt 17 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 26) W brzmieniu ustalonym przez § 1 pkt 18 rozporządzenia, o którym mowa w odnośniku 4. 27) W brzmieniu ustalonym przez § 1 pkt 19 rozporządzenia, o którym mowa w odnośniku 4. 28) W brzmieniu ustalonym przez § 1 pkt 20 rozporządzenia, o którym mowa w odnośniku 4. 29) W brzmieniu ustalonym przez § 1 pkt 21 rozporządzenia, o którym mowa w odnośniku 4. 30) W brzmieniu ustalonym przez § 1 pkt 22 lit. a rozporządzenia, o którym mowa w odnośniku 4. 31) W brzmieniu ustalonym przez § 1 pkt 22 lit. b rozporządzenia, o którym mowa w odnośniku 4. 32) W brzmieniu ustalonym przez § 1 pkt 22 lit. c rozporządzenia, o którym mowa w odnośniku 4. 33) W brzmieniu ustalonym przez § 1 pkt 22 lit. d rozporządzenia, o którym mowa w odnośniku 4. 34) W brzmieniu ustalonym przez § 1 pkt 23 rozporządzenia, o którym mowa w odnośniku 4. 35) Przez § 1 pkt 24 rozporządzenia, o którym mowa w odnośniku 4. 36) Dodany przez § 1 pkt 25 rozporządzenia, o którym mowa w odnośniku 4. 37) Przez § 1 pkt 26 rozporządzenia, o którym mowa w odnośniku 4. 38) W brzmieniu ustalonym przez § 1 pkt 27 rozporządzenia, o którym mowa w odnośniku 4. 39) W brzmieniu ustalonym przez § 1 pkt 28 rozporządzenia, o którym mowa w odnośniku 4. 40) Przez § 1 pkt 29 rozporządzenia, o którym mowa w odnośniku 4. 41) Rozporządzenie zostało ogłoszone w dniu 6 października 2006 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 6 października 2006 r.. 1) Obecnie działem administracji rządowej – transport kieruje Minister Infrastruktury i Rozwoju, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Rozwoju (Dz. U. poz. 1257). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 1 marca 2006 r. pod numerem 2006/0117/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę nr 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych (Dz. Urz. WE L 204 z 21.07.1998, z późn. zm.). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1611 oraz z 2014 r. poz. 822. 4) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 5 sierpnia 2014 r. zmieniającego rozporządzenie w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać urządzenia do napełniania i opróżniania zbiorników transportowych (Dz. U. poz. 1105), które weszło w życie z dniem 5 września 2014 r. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 6) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 4. 7) W brzmieniu ustalonym przez § 1 pkt 3 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 8) Przez § 1 pkt 3 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 9) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. 10) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4. 11) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4. 12) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 4. 13) Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 4. 14) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 4. 15) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 4. 16) Tytuł rozdziału w brzmieniu ustalonym przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 4. 17) W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 4. 18) W brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 4. 19) Dodany przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 4. 20) Dodany przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 4. 21) W brzmieniu ustalonym przez § 1 pkt 16 lit. a rozporządzenia, o którym mowa w odnośniku 4. 22) Przez § 1 pkt 16 lit. b rozporządzenia, o którym mowa w odnośniku 4. 23) Przez § 1 pkt 17 lit. a rozporządzenia, o którym mowa w odnośniku 4. 24) W brzmieniu ustalonym przez § 1 pkt 17 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 25) W brzmieniu ustalonym przez § 1 pkt 17 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 26) W brzmieniu ustalonym przez § 1 pkt 18 rozporządzenia, o którym mowa w odnośniku 4. 27) W brzmieniu ustalonym przez § 1 pkt 19 rozporządzenia, o którym mowa w odnośniku 4. 28) W brzmieniu ustalonym przez § 1 pkt 20 rozporządzenia, o którym mowa w odnośniku 4. 29) W brzmieniu ustalonym przez § 1 pkt 21 rozporządzenia, o którym mowa w odnośniku 4. 30) W brzmieniu ustalonym przez § 1 pkt 22 lit. a rozporządzenia, o którym mowa w odnośniku 4. 31) W brzmieniu ustalonym przez § 1 pkt 22 lit. b rozporządzenia, o którym mowa w odnośniku 4. 32) W brzmieniu ustalonym przez § 1 pkt 22 lit. c rozporządzenia, o którym mowa w odnośniku 4. 33) W brzmieniu ustalonym przez § 1 pkt 22 lit. d rozporządzenia, o którym mowa w odnośniku 4. 34) W brzmieniu ustalonym przez § 1 pkt 23 rozporządzenia, o którym mowa w odnośniku 4. 35) Przez § 1 pkt 24 rozporządzenia, o którym mowa w odnośniku 4. 36) Dodany przez § 1 pkt 25 rozporządzenia, o którym mowa w odnośniku 4. 37) Przez § 1 pkt 26 rozporządzenia, o którym mowa w odnośniku 4. 38) W brzmieniu ustalonym przez § 1 pkt 27 rozporządzenia, o którym mowa w odnośniku 4. 39) W brzmieniu ustalonym przez § 1 pkt 28 rozporządzenia, o którym mowa w odnośniku 4. 40) Przez § 1 pkt 29 rozporządzenia, o którym mowa w odnośniku 4. 41) Rozporządzenie zostało ogłoszone w dniu 6 października 2006 r.
 
-## Załącznik nr 1 — – Terminy badań okresowych urządzeń no i elastycznych przewodów
+## Załącznik nr 1 — – Terminy badań okresowych urządzeń no i elastycznych przewodówW brzmieniu ustalonym przez § 1 pkt 30 rozporządzenia, o którym mowa w odnośniku 4.
 
-Lp. Wyszczególnienie rodzajów urządzeń NO i elastyczne przewody Forma dozoru Terminy badań 1 Portowe ramiona przeładunkowe pełny co 1 rok 2 Urządzenia do napełniania i opróżniania, w tym ramiona przeładunkowe do stałych, ciekłych i gazowych towarów niebezpiecznych wg ADR/RID/ ADN/IMDG pełny co 1 rok 3 Urządzenia, w tym ramiona przeładunkowe, do napełniania i opróżniania pod ciśnieniem wyższym niż 0,5 bara zbiorników transportowych dla towarów zaklasyfikowanych do I, II lub III kategorii, przeznaczonych do płynów zaliczonych do grupy 2 zgodnie z przepisami wydanymi na podstawie art. 9 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności dotyczącymi zasadniczych wymagań dla urządzeń ciśnieniowych i zespołów urządzeń ciśnieniowych pełny co 3 lata 4 Elastyczne przewody *) *) a) badania elastycznych przewodów stanowiących stałe wyposażenie urządzeń NO powinny być wykonywane w tych samych terminach co urządzenia NO, b) badania elastycznych przewodów stanowiących stałe wyposażenie tych zbiorników, w tym cystern w ruchu drogowym, kolejowym i żegludze śródlądowej, powinny być wykonywane w tych samych terminach co badania tych zbiorników.
+Lp. Wyszczególnienie rodzajów urządzeń NO i elastyczne przewody Forma dozoru Terminy badań 1 Portowe ramiona przeładunkowe pełny co 1 rok 2 Urządzenia do napełniania i opróżniania, w tym ramiona przeładunkowe do stałych, ciekłych i gazowych towarów niebezpiecznych wg ADR/RID/ ADN/IMDG pełny co 1 rok 3 Urządzenia, w tym ramiona przeładunkowe, do napełniania i opróżniania pod ciśnieniem wyższym niż 0,5 bara zbiorników transportowych dla towarów zaklasyfikowanych do I, II lub III kategorii, przeznaczonych do płynów zaliczonych do grupy 2 zgodnie z przepisami wydanymi na podstawie art. 9 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności dotyczącymi zasadniczych wymagań dla urządzeń ciśnieniowych i zespołów urządzeń ciśnieniowych pełny co 3 lata 4 Elastyczne przewody *)
+*) a) badania elastycznych przewodów stanowiących stałe wyposażenie urządzeń NO powinny być wykonywane w tych samych terminach co urządzenia NO, b) badania elastycznych przewodów stanowiących stałe wyposażenie tych zbiorników, w tym cystern w ruchu drogowym, kolejowym i żegludze śródlądowej, powinny być wykonywane w tych samych terminach co badania tych zbiorników. 42) W brzmieniu ustalonym przez § 1 pkt 30 rozporządzenia, o którym mowa w odnośniku 4.
 

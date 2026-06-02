@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 3 października 2008 r. o zmianie ustawy o ochronie granicy państwowej oraz niektórych innych ustaw
+# Ustawa z dnia 3 października 2008 r. o zmianie ustawy o ochronie granicy państwowej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 12 października 1990 r. o Straży Granicznej oraz ustawę z dnia 21 maja 1999 r. o broni i amunicji.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-10-03 |
 | Data wydania | 2008-10-31 |
-| Wejście w życie | 2008-11-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081951199) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1199/text.pdf) |
+
+Służba funkcjonariuszy straży granicznej w zespołach szybkiej interwencji na granicy
 
 **Art. 1.** W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2005 r. Nr 226, poz. 1944 oraz z 2007 r. Nr 107, poz. 732 i Nr 140, poz. 982) wprowadza się następujące zmiany:
 
@@ -47,9 +48,9 @@ source: "eli-html"
 - **1)** wykonuje zadania krajowego punktu kontaktowego właściwego w sprawach komunikacji z Europejską Agencją Zarządzania Współpracą Operacyjną na Granicach Zewnętrznych Państw Członkowskich Unii Europejskiej;
 - **2)** uzgadnia plan operacyjny określający szczegółowe warunki oddelegowania zespołów szybkiej interwencji na granicy na terytorium Rzeczypospolitej Polskiej. ” .
 
-**Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2005 r. Nr 234, poz. 1997, z późn. zm.) po rozdziale 14a dodaje się rozdział 14b w brzmieniu: „
+**Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2005 r. Nr 234, poz. 1997, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711 i Nr 170, poz. 1218, z 2007 r. Nr 57, poz. 390 i Nr 82, poz. 558 oraz z 2008 r. Nr 86, poz. 521.) po rozdziale 14a dodaje się rozdział 14b w brzmieniu: „
 
-#### Rozdział 14b Służba funkcjonariuszy straży granicznej w zespołach szybkiej interwencji na granicy
+#### Rozdział 14b
 
 **Art. 147o.**
 
@@ -68,9 +69,9 @@ source: "eli-html"
 - **1)** art. 37 ust. 2a, art. 147h ust. 1 i art. 147j;
 - **2)** art. 147h ust. 2 – w zakresie świadczeń z tytułu uszczerbku na zdrowiu. ” .
 
-**Art. 3.** W ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2004 r. Nr 52, poz. 525, z późn. zm.) w art. 3 po pkt 2 dodaje się pkt 2a w brzmieniu: „
+**Art. 3.** W ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2004 r. Nr 52, poz. 525, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2006 r. Nr 104, poz. 708 i 711 oraz z 2007 r. Nr 176, poz. 1238.) w art. 3 po pkt 2 dodaje się pkt 2a w brzmieniu: „
 
 - **2a)** broni i amunicji stanowiących uzbrojenie funkcjonariuszy straży granicznej państw Unii Europejskiej przebywających na terytorium Rzeczypospolitej Polskiej w ramach zespołów szybkiej interwencji na granicy na zasadach określonych w rozporządzeniu (WE) nr 863/2007 Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. ustanawiającym mechanizm tworzenia zespołów szybkiej interwencji na granicy oraz zmieniającym rozporządzenie Rady (WE) nr 2007/2004 w odniesieniu do tego mechanizmu i określającym uprawnienia i zadania zaproszonych funkcjonariuszy (Dz. Urz. UE L 199 z 31.07.2007, str. 30); ” .
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawę z dnia 12 października 1990 r. o Straży Granicznej oraz ustawę z dnia 21 maja 1999 r. o broni i amunicji. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711 i Nr 170, poz. 1218, z 2007 r. Nr 57, poz. 390 i Nr 82, poz. 558 oraz z 2008 r. Nr 86, poz. 521. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2006 r. Nr 104, poz. 708 i 711 oraz z 2007 r. Nr 176, poz. 1238.
 

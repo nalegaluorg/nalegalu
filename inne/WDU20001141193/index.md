@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2000-11-30 |
 | Data wydania | 2000-12-20 |
-| Wejście w życie | 2001-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001141193) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1193/text.pdf) |
+
+Postępowanie rejestrowe
 
 **Art. 1.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. Nr 121, poz. 769, z 1998 r. Nr 155, poz. 1015, z 1999 r. Nr 101, poz. 1178oraz z 2000 r. Nr 60, poz. 702i Nr 84, poz. 948) wprowadza się następujące zmiany:
 
@@ -438,7 +439,7 @@ source: "eli-html"
 - **3)** w przypadku braku zawiadomienia – od dnia dowiedzenia się o dokonaniu czynności, z tym że w postępowaniu o wpis do Krajowego Rejestru Sądowego dla uczestników postępowania, którym postanowienia co do istoty sprawy nie doręcza się, termin do wniesienia skargi biegnie od daty wpisu w Rejestrze. ” ;
 - **4)** po dziale V księgi drugiej części pierwszej dodaje się dział VI w brzmieniu: „
 
-### Dział VI Postępowanie rejestrowe
+### Dział VI
 
 **Art. 6941.**
 

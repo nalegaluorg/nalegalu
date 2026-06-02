@@ -22,19 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-02-19 |
 | Data wydania | 2018-02-02 |
-| Wejście w życie | 2018-02-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000303) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/303/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2017 r. poz. 2137) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912 oraz z 2017 r. poz. 166, 1479, 1640, 1818 i 2147.) wprowadza się następujące zmiany:
 1)
 uchyla się § 13l;
 2)
-po § 13n dodaje się § 13o w brzmieniu:
-„
+po § 13n dodaje się § 13o w brzmieniu: „
 § 13o.
 1.
 Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi świń:
@@ -45,10 +43,9 @@ będącemu mikroprzedsiębiorstwem, małym albo średnim przedsiębiorstwem w ro
 3)
 który utrzymuje lub utrzymywał świnie w siedzibie stada, której nadano numer na podstawie ustawy z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2017 r. poz. 546), zwanej dalej „ustawą”, położonej na terytorium Rzeczypospolitej Polskiej, na obszarze:
 a)
-wymienionym w części II lub III załącznika do decyzji wykonawczej Komisji 2014/709/UE z dnia 9 października 2014 r. w sprawie środków kontroli w zakresie zdrowia zwierząt w odniesieniu do afrykańskiego pomoru świń w niektórych państwach członkowskich i uchylającej decyzję wykonawczą 2014/178/UE (Dz. Urz. UE L 295 z 11.10.2014, str. 63, z późn. zm.) , zwanej dalej „decyzją 2014/709/UE”, lub
+wymienionym w części II lub III załącznika do decyzji wykonawczej Komisji 2014/709/UE z dnia 9 października 2014 r. w sprawie środków kontroli w zakresie zdrowia zwierząt w odniesieniu do afrykańskiego pomoru świń w niektórych państwach członkowskich i uchylającej decyzję wykonawczą 2014/178/UE (Dz. Urz. UE L 295 z 11.10.2014, str. 63, z późn. zm.Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 41 z 17.02.2015, str. 46, Dz. Urz. UE L 92 z 08.04.2015, str. 109, Dz. Urz. UE L 129 z 27.05.2015, str. 41, Dz. Urz. UE L 188 z 16.07.2015, str. 45, Dz. Urz. UE L 203 z 31.07.2015, str. 14, Dz. Urz. UE L 211 z 08.08.2015, str. 34, Dz. Urz. UE L 218 z 19.08.2015, str. 16, Dz. Urz. UE L 224 z 27.08.2015, str. 39, Dz. Urz. UE L 259 z 06.10.2015, str. 27, Dz. Urz. UE L 334 z 22.12.2015, str. 46, Dz. Urz. UE L 35 z 11.02.2016, str. 12, Dz. Urz. UE L 80 z 31.03.2016, str. 36, Dz. Urz. UE L 142 z 31.05.2016, str. 14, Dz. Urz. UE L 202 z 28.07.2016, str. 45, Dz. Urz. UE L 217 z 12.08.2016, str. 38, Dz. Urz. UE L 228 z 23.08.2016, str. 33, Dz. Urz. UE L 234 z 31.08.2016, str. 12, Dz. Urz. UE L 270 z 05.10.2016, str. 17, Dz. Urz. UE L 293 z 28.10.2016, str. 46, Dz. Urz. UE L 334 z 09.12.2016, str. 40, Dz. Urz. UE L 32 z 07.02.2017, str. 40, Dz. Urz. UE L 50 z 28.02.2017, str. 82, Dz. Urz. UE L 80 z 25.03.2017, str. 35, Dz. Urz. UE L 114 z 03.05.2017, str. 26, Dz. Urz. UE L 172 z 05.07.2017, str. 16, Dz. Urz. UE L 182 z 13.07.2017, str. 42, Dz. Urz. UE L 211 z 17.08.2017, str. 46, Dz. Urz. UE L 229 z 05.09.2017, str. 1, Dz. Urz. UE L 264 z 13.10.2017, str. 7 oraz Dz. Urz. UE L 304 z 21.11.2017, str. 57.) , zwanej dalej „decyzją 2014/709/UE”, lub
 b)
-zapowietrzonym lub zagrożonym w związku z wystąpieniem afrykańskiego pomoru świń, ustanowionym zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt
-zwanemu dalej „producentem świń”.
+zapowietrzonym lub zagrożonym w związku z wystąpieniem afrykańskiego pomoru świń, ustanowionym zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt – zwanemu dalej „producentem świń”.
 2.
 Ilekroć w przepisach rozporządzenia jest mowa o siedzibie stada producenta świń, rozumie się przez to wszystkie siedziby stad tego producenta położone na obszarze kwalifikującym się do pomocy, o którym mowa w ust. 1 pkt 3.
 3.
@@ -127,14 +124,13 @@ prowadzenia miejsc gromadzenia zwierząt, o których mowa w art. 1 pkt 1 lit. e 
 d)
 prowadzenia rzeźni, lub
 e)
-prowadzenia zakładu przetwórczego w rozumieniu pkt 58 załącznika I do rozporządzenia Komisji (UE) nr 142/2011 z dnia 25 lutego 2011 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, oraz w sprawie wykonania dyrektywy Rady 97/78/WE w odniesieniu do niektórych próbek i przedmiotów zwolnionych z kontroli weterynaryjnych na granicach w myśl tej dyrektywy (Dz. Urz. UE L 54 z 26.02.2011, str. 1, z późn. zm.) , lub
+prowadzenia zakładu przetwórczego w rozumieniu pkt 58 załącznika I do rozporządzenia Komisji (UE) nr 142/2011 z dnia 25 lutego 2011 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, oraz w sprawie wykonania dyrektywy Rady 97/78/WE w odniesieniu do niektórych próbek i przedmiotów zwolnionych z kontroli weterynaryjnych na granicach w myśl tej dyrektywy (Dz. Urz. UE L 54 z 26.02.2011, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 198 z 30.07.2011, str. 3, Dz. Urz. UE L 314 z 14.11.2012, str. 5, Dz. Urz. UE L 326 z 24.11.2012, str. 3, Dz. Urz. UE L 98 z 06.04.2013, str. 1, Dz. Urz. UE L 164 z 18.06.2013, str. 11, Dz. Urz. UE L 201 z 26.07.2013, str. 31, Dz. Urz. UE L 57 z 27.02.2014, str. 21, Dz. Urz. UE L 138 z 13.05.2014, str. 52, Dz. Urz. UE L 165 z 04.06.2014, str. 33, Dz. Urz. UE L 3 z 07.01.2015, str. 10, Dz. Urz. UE L 28 z 02.02.2017, str. 1, Dz. Urz. UE L 119 z 09.05.2017, str. 1, Dz. Urz. UE L 138 z 25.05.2017, str. 92 oraz Dz. Urz. UE L 182 z 13.07.2017, str. 31 i 34.) , lub
 f)
 prowadzenia spalarni w rozumieniu pkt 56 załącznika I do rozporządzenia Komisji wymienionego w lit. e.
 15.
 Jeżeli gospodarstwo jest przedmiotem współposiadania, pomoc jest udzielana temu ze współposiadaczy, co do którego pozostali współposiadacze wyrazili pisemną zgodę.
 16.
-Pomoc, o której mowa w ust. 1, jest udzielana na warunkach określonych w art. 26 rozporządzenia nr 702/2014.
-” .
+Pomoc, o której mowa w ust. 1, jest udzielana na warunkach określonych w art. 26 rozporządzenia nr 702/2014. ” .
 § 2.
 Postępowania w sprawach udzielenia pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6 rozporządzenia zmienianego w § 1, producentowi świń:
 1)
@@ -144,12 +140,11 @@ będącemu mikroprzedsiębiorstwem, małym albo średnim przedsiębiorstwem w ro
 3)
 który utrzymywał świnie w siedzibie stada, której nadano numer na podstawie ustawy z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2017 r. poz. 546), położonej na terytorium Rzeczypospolitej Polskiej, na obszarze:
 a)
-wymienionym w części II lub III załącznika do decyzji wykonawczej Komisji 2014/709/UE z dnia 9 października 2014 r. w sprawie środków kontroli w zakresie zdrowia zwierząt w odniesieniu do afrykańskiego pomoru świń w niektórych państwach członkowskich i uchylającej decyzję wykonawczą 2014/178/UE (Dz. Urz. UE L 295 z 11.10.2014, str. 63, z późn. zm.) lub
+wymienionym w części II lub III załącznika do decyzji wykonawczej Komisji 2014/709/UE z dnia 9 października 2014 r. w sprawie środków kontroli w zakresie zdrowia zwierząt w odniesieniu do afrykańskiego pomoru świń w niektórych państwach członkowskich i uchylającej decyzję wykonawczą 2014/178/UE (Dz. Urz. UE L 295 z 11.10.2014, str. 63, z późn. zm.Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 41 z 17.02.2015, str. 46, Dz. Urz. UE L 92 z 08.04.2015, str. 109, Dz. Urz. UE L 129 z 27.05.2015, str. 41, Dz. Urz. UE L 188 z 16.07.2015, str. 45, Dz. Urz. UE L 203 z 31.07.2015, str. 14, Dz. Urz. UE L 211 z 08.08.2015, str. 34, Dz. Urz. UE L 218 z 19.08.2015, str. 16, Dz. Urz. UE L 224 z 27.08.2015, str. 39, Dz. Urz. UE L 259 z 06.10.2015, str. 27, Dz. Urz. UE L 334 z 22.12.2015, str. 46, Dz. Urz. UE L 35 z 11.02.2016, str. 12, Dz. Urz. UE L 80 z 31.03.2016, str. 36, Dz. Urz. UE L 142 z 31.05.2016, str. 14, Dz. Urz. UE L 202 z 28.07.2016, str. 45, Dz. Urz. UE L 217 z 12.08.2016, str. 38, Dz. Urz. UE L 228 z 23.08.2016, str. 33, Dz. Urz. UE L 234 z 31.08.2016, str. 12, Dz. Urz. UE L 270 z 05.10.2016, str. 17, Dz. Urz. UE L 293 z 28.10.2016, str. 46, Dz. Urz. UE L 334 z 09.12.2016, str. 40, Dz. Urz. UE L 32 z 07.02.2017, str. 40, Dz. Urz. UE L 50 z 28.02.2017, str. 82, Dz. Urz. UE L 80 z 25.03.2017, str. 35, Dz. Urz. UE L 114 z 03.05.2017, str. 26, Dz. Urz. UE L 172 z 05.07.2017, str. 16, Dz. Urz. UE L 182 z 13.07.2017, str. 42, Dz. Urz. UE L 211 z 17.08.2017, str. 46, Dz. Urz. UE L 229 z 05.09.2017, str. 1, Dz. Urz. UE L 264 z 13.10.2017, str. 7 oraz Dz. Urz. UE L 304 z 21.11.2017, str. 57.) lub
 b)
 zapowietrzonym lub zagrożonym w związku z wystąpieniem afrykańskiego pomoru świń, ustanowionym zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt,
 4)
-który sprzedał świnie utrzymywane na obszarze, o którym mowa w pkt 3, z przeznaczeniem do uboju
-wszczęte na podstawie § 13l rozporządzenia zmienianego w § 1 umarza się.
+który sprzedał świnie utrzymywane na obszarze, o którym mowa w pkt 3, z przeznaczeniem do uboju – wszczęte na podstawie § 13l rozporządzenia zmienianego w § 1 umarza się.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912 oraz z 2017 r. poz. 166, 1479, 1640, 1818 i 2147. 2) Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 41 z 17.02.2015, str. 46, Dz. Urz. UE L 92 z 08.04.2015, str. 109, Dz. Urz. UE L 129 z 27.05.2015, str. 41, Dz. Urz. UE L 188 z 16.07.2015, str. 45, Dz. Urz. UE L 203 z 31.07.2015, str. 14, Dz. Urz. UE L 211 z 08.08.2015, str. 34, Dz. Urz. UE L 218 z 19.08.2015, str. 16, Dz. Urz. UE L 224 z 27.08.2015, str. 39, Dz. Urz. UE L 259 z 06.10.2015, str. 27, Dz. Urz. UE L 334 z 22.12.2015, str. 46, Dz. Urz. UE L 35 z 11.02.2016, str. 12, Dz. Urz. UE L 80 z 31.03.2016, str. 36, Dz. Urz. UE L 142 z 31.05.2016, str. 14, Dz. Urz. UE L 202 z 28.07.2016, str. 45, Dz. Urz. UE L 217 z 12.08.2016, str. 38, Dz. Urz. UE L 228 z 23.08.2016, str. 33, Dz. Urz. UE L 234 z 31.08.2016, str. 12, Dz. Urz. UE L 270 z 05.10.2016, str. 17, Dz. Urz. UE L 293 z 28.10.2016, str. 46, Dz. Urz. UE L 334 z 09.12.2016, str. 40, Dz. Urz. UE L 32 z 07.02.2017, str. 40, Dz. Urz. UE L 50 z 28.02.2017, str. 82, Dz. Urz. UE L 80 z 25.03.2017, str. 35, Dz. Urz. UE L 114 z 03.05.2017, str. 26, Dz. Urz. UE L 172 z 05.07.2017, str. 16, Dz. Urz. UE L 182 z 13.07.2017, str. 42, Dz. Urz. UE L 211 z 17.08.2017, str. 46, Dz. Urz. UE L 229 z 05.09.2017, str. 1, Dz. Urz. UE L 264 z 13.10.2017, str. 7 oraz Dz. Urz. UE L 304 z 21.11.2017, str. 57. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 198 z 30.07.2011, str. 3, Dz. Urz. UE L 314 z 14.11.2012, str. 5, Dz. Urz. UE L 326 z 24.11.2012, str. 3, Dz. Urz. UE L 98 z 06.04.2013, str. 1, Dz. Urz. UE L 164 z 18.06.2013, str. 11, Dz. Urz. UE L 201 z 26.07.2013, str. 31, Dz. Urz. UE L 57 z 27.02.2014, str. 21, Dz. Urz. UE L 138 z 13.05.2014, str. 52, Dz. Urz. UE L 165 z 04.06.2014, str. 33, Dz. Urz. UE L 3 z 07.01.2015, str. 10, Dz. Urz. UE L 28 z 02.02.2017, str. 1, Dz. Urz. UE L 119 z 09.05.2017, str. 1, Dz. Urz. UE L 138 z 25.05.2017, str. 92 oraz Dz. Urz. UE L 182 z 13.07.2017, str. 31 i 34.
 

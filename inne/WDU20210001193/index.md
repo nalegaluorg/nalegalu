@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-30 |
 | Data wydania | 2021-07-01 |
-| Wejście w życie | 2021-07-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001193) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1193/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Sposób tworzenia i przetwarzania akt spraw Rozdział 3 – Warunki i tryb przechowywania oraz przekazywania akt spraw Rozdział 4 – Warunki i tryb niszczenia akt spraw po upływie okresu ich przechowywania Rozdział 5 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 96a § 6 ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym (Dz. U. z 2021 r. poz. 154 i 611) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -37,6 +37,7 @@ sposób tworzenia i przetwarzania akt spraw sądowych Sądu Najwyższego, zwanyc
 warunki i tryb przechowywania oraz przekazywania akt spraw;
 3)
 warunki i tryb niszczenia akt spraw po upływie okresu ich przechowywania.
+Sposób tworzenia i przetwarzania akt spraw
 § 2.
 Akta sprawy tworzy się na podstawie zarządzenia przewodniczącego wydziału właściwej izby Sądu Najwyższego.
 § 3.
@@ -59,6 +60,7 @@ datę wykonania wydruku;
 podpis upoważnionego pracownika Sądu Najwyższego dokonującego wydruku.
 2.
 Jeżeli dokument elektroniczny dołączany do akt sprawy został podpisany, a wydruk nie zawiera weryfikacji podpisu elektronicznego, dołącza się do niego dodatkowy wydruk zawierający informację z przeprowadzonej weryfikacji podpisu elektronicznego.
+Warunki i tryb przechowywania oraz przekazywania akt spraw
 § 5.
 Akta spraw dzieli się na akta stanowiące materiały archiwalne oznaczane symbolem kategorii archiwalnej A, zwane dalej „aktami spraw kategorii A”, i akta niestanowiące takich materiałów, oznaczane symbolem kategorii archiwalnej B, zwane dalej „aktami spraw kategorii B”.
 § 6.
@@ -191,6 +193,7 @@ Akta spraw, w których nie ukończono wszystkich czynności związanych z wykona
 Przekazanie akt spraw do właściwego archiwum państwowego następuje w trybie i na warunkach określonych w przepisach o narodowym zasobie archiwalnym i archiwach.
 § 15.
 W zakresie nieuregulowanym w rozporządzeniu do ksiąg i urządzeń ewidencyjnych spraw sądowych Sądu Najwyższego stosuje się odpowiednio przepisy dotyczące przechowywania, przekazywania do archiwów państwowych oraz niszczenia akt spraw.
+Warunki i tryb niszczenia akt spraw po upływie okresu ich przechowywania
 § 16.
 1.
 Przed przekazaniem akt spraw do zniszczenia Pierwszy Prezes Sądu Najwyższego powołuje komisję w celu przeprowadzenia czynności związanych z brakowaniem akt spraw. Komisji przewodniczy sędzia Sądu Najwyższego.
@@ -204,16 +207,27 @@ Z przeprowadzonych prac komisja sporządza protokół, który przedstawia Pierws
 Protokół zalicza się do kategorii A.
 § 17.
 Przekazanie akt spraw do zniszczenia następuje po uzyskaniu zgody dyrektora właściwego archiwum państwowego, w trybie i na warunkach określonych w przepisach o narodowym zasobie archiwalnym i archiwach.
+Przepis końcowy
 § 18.
 Rozporządzenie wchodzi w życie z dniem 2 lipca 2021 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Sposób tworzenia i przetwarzania akt spraw
+#### Rozdział 2 – Sposób tworzenia i przetwarzania akt spraw
 
-#### Rozdział 3 Warunki i tryb przechowywania oraz przekazywania akt spraw
+#### Rozdział 3 – Warunki i tryb przechowywania oraz przekazywania akt spraw
 
-#### Rozdział 4 Warunki i tryb niszczenia akt spraw po upływie okresu ich przechowywania
+#### Rozdział 4 – Warunki i tryb niszczenia akt spraw po upływie okresu ich przechowywania
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

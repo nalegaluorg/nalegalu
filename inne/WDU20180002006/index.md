@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 9 października 2018 r. w sprawie przenoszenia do służby w Policji
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 9 października 2018 r. w sprawie przenoszenia do służby w Policji Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-09 |
 | Data wydania | 2018-10-19 |
-| Wejście w życie | 2018-10-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002006) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2006/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 25a ust. 5 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 25a ust. 5 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544 i 1669.) zarządza się, co następuje:
 § 1.
 1.
 Rozporządzenie określa szczegółowy sposób i tryb prowadzenia postępowania w stosunku do przenoszonych do służby w Policji funkcjonariuszy Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego oraz Centralnego Biura Antykorupcyjnego.
@@ -175,6 +174,5 @@ Kwalifikacje zawodowe, inne niż wskazane w ust. 1, uzyskane w dotychczasowych j
 § 13.
 W sprawach wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544 i 1669. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 21 lutego 2017 r. w sprawie przenoszenia do służby w Policji (Dz. U. poz. 355), które utraciło moc z dniem wejścia w życie ustawy z dnia 26 stycznia 2018 r. – Przepisy wprowadzające ustawę o Straży Marszałkowskiej (Dz. U. poz. 730).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 21 lutego 2017 r. w sprawie przenoszenia do służby w Policji (Dz. U. poz. 355), które utraciło moc z dniem wejścia w życie ustawy z dnia 26 stycznia 2018 r. – Przepisy wprowadzające ustawę o Straży Marszałkowskiej (Dz. U. poz. 730). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544 i 1669. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 21 lutego 2017 r. w sprawie przenoszenia do służby w Policji (Dz. U. poz. 355), które utraciło moc z dniem wejścia w życie ustawy z dnia 26 stycznia 2018 r. – Przepisy wprowadzające ustawę o Straży Marszałkowskiej (Dz. U. poz. 730).
 

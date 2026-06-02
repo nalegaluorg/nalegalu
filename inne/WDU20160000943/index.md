@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-24 |
 | Data wydania | 2016-06-30 |
-| Wejście w życie | 2016-07-01 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000943) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/943/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 179a § 2 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2013 r. poz. 186, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 179a § 2 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2013 r. poz. 186, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1036, 1149, 1247 i 1304, z 2014 r. poz. 312, 1215 i 1328, z 2015 r. poz. 396, 1269, 1479, 1649, 1712, 1855 i 1932 oraz z 2016 r. poz. 178 i 437.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb niezwłocznego zniszczenia przedmiotów, których zniszczenie zarządził sąd w orzeczeniu o ich przepadku, oraz przedmiotów, których zniszczenie następuje na mocy art. 31 § 6 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy.
 § 2.
@@ -72,8 +71,7 @@ Zniszczenie urządzeń mechanicznych, elektromechanicznych lub sprzętu elektryc
 1)
 demontaż, polegający na rozbiórce na poszczególne elementy składowe,
 2)
-uszkodzenie mechaniczne, powodujące brak możliwości ich ponownego użycia zgodnie z pierwotnym przeznaczeniem
-w wyniku czego elementy składowe tych urządzeń lub tego sprzętu nie są tożsame z przedmiotem, z którego pochodzą, i stanowią pozostałości po zniszczeniu, wobec których stosuje się, odpowiednio, przepisy dotyczące postępowania z odpadami, w tym ze zużytym sprzętem elektrycznym i elektronicznym.
+uszkodzenie mechaniczne, powodujące brak możliwości ich ponownego użycia zgodnie z pierwotnym przeznaczeniem – w wyniku czego elementy składowe tych urządzeń lub tego sprzętu nie są tożsame z przedmiotem, z którego pochodzą, i stanowią pozostałości po zniszczeniu, wobec których stosuje się, odpowiednio, przepisy dotyczące postępowania z odpadami, w tym ze zużytym sprzętem elektrycznym i elektronicznym.
 § 8.
 1.
 Organ postępowania wykonawczego, powierzając zniszczenie przedmiotów podmiotom wyspecjalizowanym w ich niszczeniu, bierze pod uwagę:
@@ -106,5 +104,5 @@ opis odpadów pochodzących ze zniszczenia oraz wskazanie miejsca ich składowan
 8)
 podpisy osób, o których mowa w pkt 5.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 9 grudnia 2005 r. w sprawie niszczenia przedmiotów, których przepadek orzeczono na rzecz Skarbu Państwa (Dz. U. poz. 2075), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 27 pkt 3 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1036, 1149, 1247 i 1304, z 2014 r. poz. 312, 1215 i 1328, z 2015 r. poz. 396, 1269, 1479, 1649, 1712, 1855 i 1932 oraz z 2016 r. poz. 178 i 437. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 9 grudnia 2005 r. w sprawie niszczenia przedmiotów, których przepadek orzeczono na rzecz Skarbu Państwa (Dz. U. poz. 2075), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 27 pkt 3 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396).
 

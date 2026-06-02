@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 6 lutego 2022 r. zmieniające rozporządzenie w sprawie uposażenia strażaków Państwowej Straży Pożarnej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 6 lutego 2022 r. zmieniające rozporządzenie w sprawie uposażenia strażaków Państwowej Straży Pożarnej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-02-06 |
 | Data wydania | 2022-02-09 |
-| Wejście w życie | 2022-02-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000334) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/334/text.pdf) |
 
@@ -35,8 +34,7 @@ W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 wrześn
 § 2.
 Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie od dnia 1 stycznia 2022 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 Załącznik – Wysokość dodatku za stopień
 Lp. Stopień Kwota dodatku miesięcznego w złotych 1 Generał brygadier 2322 2 Nadbrygadier 2172 3 Starszy brygadier 2022 4 Brygadier 2002 5 Młodszy brygadier 1982 6 Starszy kapitan 1962 7 Kapitan 1942 8 Młodszy kapitan 1922 9 Aspirant sztabowy 1867 10 Starszy aspirant 1847 11 Aspirant 1827 12 Młodszy aspirant 1807 13 Starszy ogniomistrz 1752 14 Ogniomistrz 1732 15 Młodszy ogniomistrz 1712 16 Starszy sekcyjny 1692 17 Sekcyjny 1672 18 Starszy strażak 1632 19 Strażak 1622
 

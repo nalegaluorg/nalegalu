@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 maja 2018 r. o zmianie ustawy o systemie monitorowania drogowego przewozu towarów oraz niektórych innych ustaw
+# Ustawa z dnia 10 maja 2018 r. o zmianie ustawy o systemie monitorowania drogowego przewozu towarów oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 8 grudnia 2017 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-10 |
 | Data wydania | 2018-05-30 |
-| Wejście w życie | 2018-06-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001039) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1039/text.pdf) |
 
+Monitorowanie przewozu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych zagrożonych brakiem dostępności na terytorium Rzeczypospolitej Polskiej
 Art. 37av.
 1.
 Przedsiębiorca zgłasza Głównemu Inspektorowi Farmaceutycznemu zamiar:
 1)
 wywozu poza terytorium Rzeczypospolitej Polskiej lub
 2)
-zbycia podmiotowi prowadzącemu działalność poza terytorium Rzeczypospolitej Polskiej
-produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, zawartych w wykazie, o którym mowa w ust. 14.
+zbycia podmiotowi prowadzącemu działalność poza terytorium Rzeczypospolitej Polskiej – produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, zawartych w wykazie, o którym mowa w ust. 14.
 2.
 Zgłoszenie zamiaru, o którym mowa w ust. 1, zawiera:
 1)
@@ -94,8 +93,7 @@ bez uprzedniego zgłoszenia Głównemu Inspektorowi Farmaceutycznemu,
 2)
 przed upływem terminu na zgłoszenie sprzeciwu określonego w art. 37av ust. 3,
 3)
-wbrew sprzeciwowi Głównego Inspektora Farmaceutycznego
-jest nieważna.
+wbrew sprzeciwowi Głównego Inspektora Farmaceutycznego – jest nieważna.
 Wywóz poza terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, określonych w obwieszczeniu, o którym mowa w art. 37av ust. 14, wymaga zgłoszenia, o którym mowa w art. 5 ust. 1 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów.
 1.
 Główny Inspektor Farmaceutyczny zawiera umowę o strzeżenie i przechowywanie towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz dla celów dokonywania oględzin towaru, o których mowa w art. 13 ust. 2a tej ustawy, z przedsiębiorcą prowadzącym działalność polegającą na prowadzeniu hurtowni farmaceutycznej.
@@ -137,7 +135,7 @@ Koszty zniszczenia, o którym mowa w ust. 1 pkt 2, ponosi podmiot wysyłający w
 4.
 Koszty zniszczenia w wysokości odpowiadającej rzeczywistym wydatkom poniesionym na to zniszczenie ustala, w drodze postanowienia, naczelnik urzędu skarbowego. Przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, 650, 723, 771, 1000 i 1039) stosuje się odpowiednio.
 5.
-Do spraw o przepadek towaru przepisy art. 6101–6104 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm.) stosuje się odpowiednio.
+Do spraw o przepadek towaru przepisy art. 6101–6104 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2491 oraz z 2018 r. poz. 5, 138, 398, 416, 650, 730, 756, 770, 771, 1000 i 1009.) stosuje się odpowiednio.
 1.
 Główny Inspektor Farmaceutyczny niezwłocznie przekazuje prawomocne orzeczenie, o którym mowa w art. 37azd ust. 1, naczelnikowi urzędu skarbowego właściwemu według miejsca przechowywania zatrzymanego towaru – do wykonania.
 2.
@@ -149,19 +147,16 @@ Sprzedaż towarów w przypadkach, o których mowa w ust. 5 oraz w art. 37azd ust
 5.
 W przypadku konieczności zapewnienia dostępności pacjentom produktów leczniczych, środków specjalnego przeznaczenia żywieniowego lub wyrobów medycznych wymienionych w wykazie, o którym mowa w art. 37av ust. 14, Główny Inspektor Farmaceutyczny składa, przed wydaniem orzeczenia, o którym mowa w art. 37azd ust. 1, do naczelnika urzędu skarbowego właściwego według miejsca przechowywania zatrzymanego towaru wniosek o dokonanie jego sprzedaży, na poczet grożącego przepadku.
 6.
-Naczelnik, o którym mowa w ust. 5, sprzedaje towary w trybie przepisów wydanych na podstawie art. 109 § 1 pkt 1 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2017 r. poz. 1201, z późn. zm.), z zastrzeżeniem, że nabywcą nie może być ich ostatni właściciel przed skierowaniem wniosku, o którym mowa w ust. 5.
+Naczelnik, o którym mowa w ust. 5, sprzedaje towary w trybie przepisów wydanych na podstawie art. 109 § 1 pkt 1 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2017 r. poz. 1201, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1475, 1954 i 2491 oraz z 2018 r. poz. 138, 398, 1000 i 1009.), z zastrzeżeniem, że nabywcą nie może być ich ostatni właściciel przed skierowaniem wniosku, o którym mowa w ust. 5.
 7.
 Środki pieniężne uzyskane ze sprzedaży, o której mowa w ust. 6, wpłaca się na rachunek depozytowy naczelnika urzędu skarbowego.
-Do zniszczenia produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych stosuje się odpowiednio przepisy wydane na podstawie art. 179a § 2 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2017 r. poz. 2226 oraz z 2018 r. poz. 201 i 771).
-” ;
+Do zniszczenia produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych stosuje się odpowiednio przepisy wydane na podstawie art. 179a § 2 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2017 r. poz. 2226 oraz z 2018 r. poz. 201 i 771). ” ;
 4)
 w art. 42 w ust. 1 w pkt 4 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „c) aktualnej pełnej listy środków transportu, wraz z numerami rejestracyjnymi, wykorzystywanych w zakresie działalności objętej zezwoleniem, z tym że w przypadku rozpoczęcia działalności po uzyskaniu zezwolenia przekazanie listy powinno nastąpić niezwłocznie po dokonaniu pierwszej transakcji, nie później niż po upływie 4 miesięcy od dnia uzyskania zezwolenia;”;
 5)
-w art. 72 w ust. 8 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
-„
+w art. 72 w ust. 8 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
 4)
-sprzedaż przez naczelników urzędów skarbowych towarów w przypadkach, o których mowa w art. 37azd ust. 1 pkt 1.
-” ;
+sprzedaż przez naczelników urzędów skarbowych towarów w przypadkach, o których mowa w art. 37azd ust. 1 pkt 1. ” ;
 6)
 w art. 72a w ust. 4:
 a)
@@ -173,11 +168,9 @@ w art. 78 w ust. 1:
 a)
 w pkt 6c wyrazy „o którym mowa w art. 78a” zastępuje się wyrazami „o którym mowa w art. 37av”,
 b)
-w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 w brzmieniu:
-„
+w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 w brzmieniu: „
 15)
-przekazywanie Głównemu Inspektorowi Farmaceutycznemu pełnej aktualnej listy środków transportu, wraz z numerami rejestracyjnymi, wykorzystywanych w zakresie działalności objętej zezwoleniem, z tym że w przypadku rozpoczęcia działalności po uzyskaniu zezwolenia przekazanie listy powinno nastąpić niezwłocznie po dokonaniu pierwszej transakcji, nie później niż po upływie 4 miesięcy od dnia uzyskania zezwolenia.
-” ;
+przekazywanie Głównemu Inspektorowi Farmaceutycznemu pełnej aktualnej listy środków transportu, wraz z numerami rejestracyjnymi, wykorzystywanych w zakresie działalności objętej zezwoleniem, z tym że w przypadku rozpoczęcia działalności po uzyskaniu zezwolenia przekazanie listy powinno nastąpić niezwłocznie po dokonaniu pierwszej transakcji, nie później niż po upływie 4 miesięcy od dnia uzyskania zezwolenia. ” ;
 8)
 uchyla się art. 78a;
 9)
@@ -191,21 +184,17 @@ w art. 108:
 a)
 w ust. 4 w pkt 8 wyrazy „o którym mowa w art. 78a ust. 3” zastępuje się wyrazami „o którym mowa w art. 37av ust. 3”,
 b)
-po ust. 4 dodaje się ust. 4a w brzmieniu:
-„
+po ust. 4 dodaje się ust. 4a w brzmieniu: „
 4a.
-Do decyzji, o których mowa w ust. 4, wydanych na podstawie art. 81 ust. 1 pkt 2 i ust. 2 pkt 4a oraz art. 103 ust. 1 pkt 2 i ust. 2 pkt 3 nie stosuje się art. 61 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2017 r. poz. 1369, 1370 i 2451 oraz z 2018 r. poz. 650).
-” ;
+Do decyzji, o których mowa w ust. 4, wydanych na podstawie art. 81 ust. 1 pkt 2 i ust. 2 pkt 4a oraz art. 103 ust. 1 pkt 2 i ust. 2 pkt 3 nie stosuje się art. 61 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2017 r. poz. 1369, 1370 i 2451 oraz z 2018 r. poz. 650). ” ;
 11)
-w art. 115 w ust. 1 w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13–15 w brzmieniu:
-„
+w art. 115 w ust. 1 w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13–15 w brzmieniu: „
 13)
 współpracuje i dokonuje wymiany informacji z organami, o których mowa w art. 12 ust. 1 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów, w zakresie wynikającym z tej ustawy;
 14)
 podejmuje działania w związku z zatrzymaniem towaru, o którym mowa w art. 16 ust. 1a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów;
 15)
-jest organem właściwym w zakresie składania wniosków o orzeczenie przepadku towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów.
-” ;
+jest organem właściwym w zakresie składania wniosków o orzeczenie przepadku towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów. ” ;
 12)
 w art. 127b:
 a)
@@ -213,26 +202,20 @@ w ust. 1:
 – we wprowadzeniu do wyliczenia wyrazy „który wbrew przepisom art. 78a” zastępuje się wyrazami „który wbrew przepisom art. 37av”,
 – w pkt 1 w lit. b wyrazy „określonego w art. 78a ust. 3” zastępuje się wyrazami „określonego w art. 37av ust. 3”,
 b)
-po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
 1a.
 Karze pieniężnej podlega przedsiębiorca, który wbrew przepisom art. 37at ust. 8 nie przekazał na wezwanie organu zezwalającego określonej w wezwaniu dokumentacji.
 1b.
-Karę pieniężną, o której mowa w ust. 1a, wymierza się w wysokości od 10 000 zł do 50 000 zł, uwzględniając okoliczności i zakres naruszenia przepisów ustawy oraz uprzednie naruszenie jej przepisów przez przedsiębiorcę.
-” ,
+Karę pieniężną, o której mowa w ust. 1a, wymierza się w wysokości od 10 000 zł do 50 000 zł, uwzględniając okoliczności i zakres naruszenia przepisów ustawy oraz uprzednie naruszenie jej przepisów przez przedsiębiorcę. ” ,
 c)
 w ust. 2 w pkt 1 wyrazy „określonego w art. 78a ust. 3” zastępuje się wyrazami „określonego w art. 37av ust. 3”,
 d)
-dodaje się ust. 4 w brzmieniu:
-„
+dodaje się ust. 4 w brzmieniu: „
 4.
-Do decyzji nakładających karę pieniężną, o których mowa w ust. 1, nie stosuje się art. 61 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
-” .
-W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2017 r. poz. 43, z późn. zm.) w art. 138t ust. 8 otrzymuje brzmienie:
-„
+Do decyzji nakładających karę pieniężną, o których mowa w ust. 1, nie stosuje się art. 61 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi. ” .
+W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2017 r. poz. 43, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 60, 937 i 2216 oraz z 2018 r. poz. 137, 317 i 650.) w art. 138t ust. 8 otrzymuje brzmienie: „
 8.
-Wpisu do rejestru nie dokonuje się, w przypadku gdy w wyniku sprzedaży wyrobów wskazanych w ust. 1 ich przewóz objęty został systemem monitorowania drogowego i kolejowego przewozu towarów, o którym mowa w ustawie z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów (Dz. U. poz. 708 oraz z 2018 r. poz. 138, 1000 i 1039), lub gdy sprzedaż potwierdzana jest fakturą.
-” .
+Wpisu do rejestru nie dokonuje się, w przypadku gdy w wyniku sprzedaży wyrobów wskazanych w ust. 1 ich przewóz objęty został systemem monitorowania drogowego i kolejowego przewozu towarów, o którym mowa w ustawie z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów (Dz. U. poz. 708 oraz z 2018 r. poz. 138, 1000 i 1039), lub gdy sprzedaż potwierdzana jest fakturą. ” .
 
 **Art. 1.** W ustawie z dnia 9 marca 2017 r. o systemie monitorowania drogowego przewozu towarów (Dz. U. poz. 708 oraz z 2018 r. poz. 138 i 1000) wprowadza się następujące zmiany:
 
@@ -246,13 +229,13 @@ Wpisu do rejestru nie dokonuje się, w przypadku gdy w wyniku sprzedaży wyrobó
 - **3)** w art. 2: pkt 2 otrzymuje brzmienie: „
     - **a)**
 
-- **2)** kierujący – osobę fizyczną: która kieruje pojazdem samochodowym lub zespołem pojazdów składającym się z pojazdu samochodowego oraz przyczepy lub naczepy w rozumieniu ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260, z późn. zm.), będącą maszynistą w rozumieniu ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2017 r. poz. 2117 i 2361 oraz z 2018 r. poz. 650 i 927); ” , pkt 9–11 otrzymują brzmienie: „
+- **2)** kierujący – osobę fizyczną: która kieruje pojazdem samochodowym lub zespołem pojazdów składającym się z pojazdu samochodowego oraz przyczepy lub naczepy w rozumieniu ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1926 oraz z 2018 r. poz. 79, 106, 138, 317, 650 i 957.), będącą maszynistą w rozumieniu ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2017 r. poz. 2117 i 2361 oraz z 2018 r. poz. 650 i 927); ” , pkt 9–11 otrzymują brzmienie: „
     - **a)**
     - **b)**
     - **b)**
 
 - **9)** przewóz towarów – przemieszczanie towaru na lub przez terytorium kraju środkiem transportu po drodze publicznej albo krajowej sieci kolejowej, z uwzględnieniem postojów wymaganych podczas tego przemieszczania, przeładunku oraz rozładunku;
-- **10)** rodzaj towaru – towar klasyfikowany do jednej pozycji Nomenklatury Scalonej, o której mowa w art. 3 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2017 r. poz. 43, z późn. zm.), zwanej dalej „CN”;
+- **10)** rodzaj towaru – towar klasyfikowany do jednej pozycji Nomenklatury Scalonej, o której mowa w art. 3 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2017 r. poz. 43, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 60, 937 i 2216 oraz z 2018 r. poz. 137, 317 i 650.), zwanej dalej „CN”;
 - **11)** środek transportu – pojazd: samochodowy lub zespół pojazdów składający się z pojazdu samochodowego oraz przyczepy lub naczepy w rozumieniu ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, kolejowy bez napędu w rozumieniu ustawy z dnia 28 marca 2003 r. o transporcie kolejowym; ” , pkt 15 i 16 otrzymują brzmienie: „
     - **a)**
     - **b)**
@@ -260,27 +243,50 @@ Wpisu do rejestru nie dokonuje się, w przypadku gdy w wyniku sprzedaży wyrobó
 
 - **15)** wyznaczone miejsce – miejsce przeznaczone do przechowywania lub strzeżenia środka transportu, o którym mowa w art. 2 pkt 11 lit. a, wraz z towarem albo towaru, prowadzone przez dyrektora izby administracji skarbowej albo przez podmiot, któremu powierzono prowadzenie takiego miejsca;
 - **16)** zgłoszenie – zgłoszenie przewozu towaru do rejestru zgłoszeń określonej ilości tego samego rodzaju towaru albo określonych ilości różnych rodzajów towaru przewożonych od jednego nadawcy towaru do jednego odbiorcy towaru, do jednego miejsca dostarczenia towaru, jednym środkiem transportu; ” ;
-- **4)** w art. 3: w ust. 1 wyraz „drogowego” zastępuje się wyrazem „przewozu”, w ust. 2: – we wprowadzeniu do wyliczenia wyraz „drogowego” zastępuje się wyrazem „przewozu”, – pkt 1 otrzymuje brzmienie: „ 1) towarów objętych pozycjami CN: a) 2207 nieoznaczonych znakami akcyzy, b) 2707, c) 2710, d) 2905, e) 2917, f) 3403, g) 3811, h) 3814 zawierających alkohol etylowy, i) 3820 zawierających alkohol etylowy, j) 3824, k) 3826 – jeżeli masa brutto przesyłki towarów objętych tymi pozycjami przekracza 500 kg lub jej objętość przekracza 500 litrów; ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, objętych obowiązkiem, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2017 r. poz. 2211 oraz z 2018 r. poz. 650, 697 i 1039); ” , – w pkt 4 wyrazy „pkt 1–3” zastępuje się wyrazami „pkt 1–3a”, po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **4)** w art. 3: w ust. 1 wyraz „drogowego” zastępuje się wyrazem „przewozu”, w ust. 2: – we wprowadzeniu do wyliczenia wyraz „drogowego” zastępuje się wyrazem „przewozu”, pkt 1 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **1)** towarów objętych pozycjami CN: 2207 nieoznaczonych znakami akcyzy, 2707, 2710, 2905, 2917, 3403, 3811, 3814 zawierających alkohol etylowy, 3820 zawierających alkohol etylowy, 3824, 3826 – jeżeli masa brutto przesyłki towarów objętych tymi pozycjami przekracza 500 kg lub jej objętość przekracza 500 litrów; ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
 
-2a. Przewóz towarów, o których mowa w ust. 2 pkt 1 lit. d i j, podlega systemowi monitorowania przewozu, o ile towary te są wymienione w załączniku nr 1 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, bez względu na przeznaczenie. ” , w ust. 4: – we wprowadzeniu do wyliczenia wyraz „drogowego” zastępuje się wyrazem „przewozu”, – uchyla się pkt 1, – w pkt 2: – – po lit. a dodaje się lit. aa w brzmieniu: „ aa) 2707 w opakowaniach jednostkowych nie większych niż 11 litrów, ” , – – po lit. e dodaje się lit. ea w brzmieniu: „ ea) 3814 zawierających alkohol etylowy w opakowaniach jednostkowych nie większych niż 11 litrów, ” , w ust. 5 wyraz „drogowego” zastępuje się wyrazem „przewozu”, w ust. 6 we wprowadzeniu do wyliczenia wyraz „drogowego” zastępuje się wyrazem „przewozu”, w ust. 7: – we wprowadzeniu do wyliczenia wyraz „drogowego” zastępuje się wyrazem „przewozu”, – w pkt 3 skreśla się wyrazy „lub podkategorii PKWiU”, – w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 i 7 w brzmieniu: „ 6) numer rejestracyjny środka transportu, o którym mowa w art. 2 pkt 11 lit. a, albo numer pociągu wraz z numerem pojazdu kolejowego bez napędu; 7) datę wystawienia. ” , w ust. 9 w zdaniu pierwszym wyrazy „drogowego przewozu towarów” zastępuje się wyrazem „przewozu”, w ust. 10: – we wprowadzeniu do wyliczenia wyrazy „drogowego towarów” zastępuje się wyrazem „przewozu”, – w pkt 21 kropkę zastępuje się średnikiem i dodaje się pkt 22 w brzmieniu: „ 22) dysponentów lotniczych zespołów ratownictwa medycznego, o których mowa w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2017 r. poz. 2195 oraz z 2018 r. poz. 650). ” , ust. 11 otrzymuje brzmienie: „
+- **3a)** produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, objętych obowiązkiem, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2017 r. poz. 2211 oraz z 2018 r. poz. 650, 697 i 1039); ” , – w pkt 4 wyrazy „pkt 1–3” zastępuje się wyrazami „pkt 1–3a”, po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **c)**
+
+2a. Przewóz towarów, o których mowa w ust. 2 pkt 1 lit. d i j, podlega systemowi monitorowania przewozu, o ile towary te są wymienione w załączniku nr 1 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, bez względu na przeznaczenie. ” , w ust. 4: – we wprowadzeniu do wyliczenia wyraz „drogowego” zastępuje się wyrazem „przewozu”, – uchyla się pkt 1, w pkt 2: – po lit. a dodaje się lit. aa w brzmieniu: „ 2707 w opakowaniach jednostkowych nie większych niż 11 litrów, ” , – – po lit. e dodaje się lit. ea w brzmieniu: „ ea) 3814 zawierających alkohol etylowy w opakowaniach jednostkowych nie większych niż 11 litrów, ” , w ust. 5 wyraz „drogowego” zastępuje się wyrazem „przewozu”, w ust. 6 we wprowadzeniu do wyliczenia wyraz „drogowego” zastępuje się wyrazem „przewozu”, w ust. 7: – we wprowadzeniu do wyliczenia wyraz „drogowego” zastępuje się wyrazem „przewozu”, – w pkt 3 skreśla się wyrazy „lub podkategorii PKWiU”, w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 i 7 w brzmieniu: „
 
 - **d)**
+- **aa)**
 - **e)**
 - **f)**
 - **g)**
-- **h)**
-- **i)**
-- **j)**
+- **6)** numer rejestracyjny środka transportu, o którym mowa w art. 2 pkt 11 lit. a, albo numer pociągu wraz z numerem pojazdu kolejowego bez napędu;
+- **7)** datę wystawienia. ” , w ust. 9 w zdaniu pierwszym wyrazy „drogowego przewozu towarów” zastępuje się wyrazem „przewozu”, w ust. 10: – we wprowadzeniu do wyliczenia wyrazy „drogowego towarów” zastępuje się wyrazem „przewozu”, w pkt 21 kropkę zastępuje się średnikiem i dodaje się pkt 22 w brzmieniu: „
+    - **h)**
+    - **i)**
+
+- **22)** dysponentów lotniczych zespołów ratownictwa medycznego, o których mowa w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2017 r. poz. 2195 oraz z 2018 r. poz. 650). ” , ust. 11 otrzymuje brzmienie: „
+    - **j)**
 
 11. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, towary inne niż wymienione w ust. 2 pkt 1–3a, których przewóz jest objęty systemem monitorowania przewozu, wraz ze wskazaniem masy, ilości, objętości lub wartości tych towarów, oraz przypadki, w których ich przewóz nie podlega temu systemowi, uwzględniając konieczność przeciwdziałania uszczupleniom w zakresie podatku od towarów i usług lub podatku akcyzowego. ” ;
 
 - **5)** w art. 4 w ust. 1 skreśla się wyraz „drogowego”;
-- **6)** w art. 5: w ust. 2 w pkt 7 skreśla się wyrazy „lub podkategorii PKWiU”, w ust. 3: – pkt 7 otrzymuje brzmienie: „ 7) dane dotyczące towaru będącego przedmiotem przewozu, w szczególności rodzaju towaru, pozycji CN, ilości, masy brutto lub objętości towaru; ” , – dodaje się pkt 8 w brzmieniu: „ 8) numer zezwolenia albo pozwolenia uprawniającego do obrotu produktami leczniczymi oraz nazwę organu wydającego. ” , ust. 4 otrzymuje brzmienie: „
+- **6)** w art. 5: w ust. 2 w pkt 7 skreśla się wyrazy „lub podkategorii PKWiU”, w ust. 3: pkt 7 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+
+- **7)** dane dotyczące towaru będącego przedmiotem przewozu, w szczególności rodzaju towaru, pozycji CN, ilości, masy brutto lub objętości towaru; ” , dodaje się pkt 8 w brzmieniu: „
+- **8)** numer zezwolenia albo pozwolenia uprawniającego do obrotu produktami leczniczymi oraz nazwę organu wydającego. ” , ust. 4 otrzymuje brzmienie: „
     - **c)**
 
 4. W przypadku przewozu towaru, o którym mowa w ust. 1, przewoźnik jest obowiązany przed rozpoczęciem przewozu towaru:
@@ -415,7 +421,7 @@ Wpisu do rejestru nie dokonuje się, w przypadku gdy w wyniku sprzedaży wyrobó
 
 - **1)** bez dokonania Głównemu Inspektorowi Farmaceutycznemu zgłoszenia, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne,
 - **2)** przed upływem terminu na zgłoszenie sprzeciwu, określonego w art. 37av ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne,
-- **3)** wbrew sprzeciwowi, o którym mowa w art. 37av ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne towar zatrzymuje się.
+- **3)** wbrew sprzeciwowi, o którym mowa w art. 37av ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne – towar zatrzymuje się.
 
 1b. W przypadku przewozu towarów po krajowej sieci kolejowej towar może zostać zatrzymany w miejscu dostarczenia towaru na terytorium kraju. ” , ust. 2 otrzymuje brzmienie: „
 
@@ -441,7 +447,7 @@ Wpisu do rejestru nie dokonuje się, w przypadku gdy w wyniku sprzedaży wyrobó
 
 2. W przypadku stwierdzenia nieprawidłowości związanych z przewozem drogowym towarów niebezpiecznych, mającym wpływ na bezpieczeństwo tego przewozu, w pierwszej kolejności stosuje się art. 102 ust. 1 pkt 2 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2018 r. poz. 169 i 650).
 
-3. Przepisów ust. 1 i 2 nie stosuje się w przypadku, o którym mowa w art. 217, art. 228 oraz art. 308 § 1 i 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904, z późn. zm.). ” ;
+3. Przepisów ust. 1 i 2 nie stosuje się w przypadku, o którym mowa w art. 217, art. 228 oraz art. 308 § 1 i 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 5, 106, 138, 201, 730, 771 i 942.). ” ;
 
 - **19)** w art. 17 dodaje się ust. 5 i 6 w brzmieniu: „
 
@@ -530,7 +536,7 @@ Wpisu do rejestru nie dokonuje się, w przypadku gdy w wyniku sprzedaży wyrobó
 
 1. W przypadku stwierdzenia w trakcie kontroli rozpoczęcia przewozu towaru przez kierującego, o którym mowa w art. 2 pkt 2 lit. a, bez numeru referencyjnego, dokumentu zastępującego zgłoszenie i potwierdzenia przyjęcia dokumentu zastępującego zgłoszenie albo dokumentu, o którym mowa w art. 3 ust. 7, kierujący podlega karze grzywny w wysokości od 5000 do 7500 zł. ” .
 
-**Art. 2.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm.) w art. 1 w ust. 4 wyrazy „systemie monitorowania drogowego przewozu towarów” zastępuje się wyrazami „systemie monitorowania drogowego i kolejowego przewozu towarów”.
+**Art. 2.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 416, 650 i 730.) w art. 1 w ust. 4 wyrazy „systemie monitorowania drogowego przewozu towarów” zastępuje się wyrazami „systemie monitorowania drogowego i kolejowego przewozu towarów”.
 
 **Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, 650, 723, 771 i 1000) w art. 299 w § 3 po pkt 14 dodaje się pkt 14a w brzmieniu: „
 
@@ -544,9 +550,11 @@ Wpisu do rejestru nie dokonuje się, w przypadku gdy w wyniku sprzedaży wyrobó
 - **2)** w art. 51: ust. 5 otrzymuje brzmienie: „
     - **a)**
 
-5. Czynności związane z realizacją zadań określonych w art. 50 pkt 1 i 4 w zakresie określonym w art. 68–75 wykonują inspektorzy Inspekcji, zwani dalej „inspektorami”. ” , w ust. 6: – w pkt 1 lit. a otrzymuje brzmienie: „ a) określonych w art. 50 pkt 2–4, ” , – pkt 2 otrzymuje brzmienie: „ 2) wojewódzki inspektor – w pozostałych sprawach oraz w sprawach określonych w art. 50 pkt 4. ” ;
+5. Czynności związane z realizacją zadań określonych w art. 50 pkt 1 i 4 w zakresie określonym w art. 68–75 wykonują inspektorzy Inspekcji, zwani dalej „inspektorami”. ” , w ust. 6: w pkt 1 lit. a otrzymuje brzmienie: „ określonych w art. 50 pkt 2–4, ” , pkt 2 otrzymuje brzmienie: „
 
 - **b)**
+- **a)**
+- **2)** wojewódzki inspektor – w pozostałych sprawach oraz w sprawach określonych w art. 50 pkt 4. ” ;
 - **3)** w art. 56 ust. 3 otrzymuje brzmienie: „
 
 3. Kary pieniężne oraz grzywny, o których mowa w ust. 1 pkt 1, 2 i 4–7 oraz w art. 32 ust. 1 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów, pobierane przez organy Inspekcji Transportu Drogowego, są przekazywane na wyodrębniony rachunek bankowy Głównego Inspektoratu Transportu Drogowego. ” ;
@@ -566,14 +574,16 @@ Wpisu do rejestru nie dokonuje się, w przypadku gdy w wyniku sprzedaży wyrobó
 
 - **3)** po rozdziale 2b dodaje się rozdział 2c w brzmieniu: „
 
-#### Rozdział 2c Monitorowanie przewozu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych zagrożonych brakiem dostępności na terytorium Rzeczypospolitej Polskiej
+#### Rozdział 2c
 
 **Art. 8.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2017 r. poz. 978 i 2418 oraz z 2018 r. poz. 138, 650, 728 i 957) w art. 106 ust. 3 otrzymuje brzmienie: „ 3. Przepisu ust. 1 pkt 4 nie stosuje się do funkcjonariuszy Państwowej Straży Pożarnej, Policji, Straży Granicznej, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Służby Kontrwywiadu Wojskowego, Służby Więziennej, Służby Celno-Skarbowej i Inspekcji Transportu Drogowego oraz do kierujących pojazdami ochotniczych straży pożarnych. ” .
 
 **Art. 9.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, 650, 723 i 1000) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: w ust. 1: – w pkt 16a dodanym na mocy art. 36 pkt 1 lit. a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego przewozu towarów (Dz. U. poz. 708) wyrazy „systemie monitorowania drogowego przewozu towarów” zastępuje się wyrazami „systemie monitorowania drogowego i kolejowego przewozu towarów” i umieszcza się go po pkt 16a dodanym na mocy art. 22 pkt 1 lit. b ustawy z dnia 23 marca 2017 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 768) jako pkt 16b, – po pkt 18 dodaje się pkt 18a w brzmieniu: „ 18a) współdziałanie z innymi organami w zakresie ujawniania naruszeń przepisów dotyczących towarów objętych systemem monitorowania przewozu towarów; ” , w ust. 2 pkt 4 otrzymuje brzmienie: „
+- **1)** w art. 2: w ust. 1: – w pkt 16a dodanym na mocy art. 36 pkt 1 lit. a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego przewozu towarów (Dz. U. poz. 708) wyrazy „systemie monitorowania drogowego przewozu towarów” zastępuje się wyrazami „systemie monitorowania drogowego i kolejowego przewozu towarów” i umieszcza się go po pkt 16a dodanym na mocy art. 22 pkt 1 lit. b ustawy z dnia 23 marca 2017 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 768) jako pkt 16b, po pkt 18 dodaje się pkt 18a w brzmieniu: „
     - **a)**
+
+- **18a)** współdziałanie z innymi organami w zakresie ujawniania naruszeń przepisów dotyczących towarów objętych systemem monitorowania przewozu towarów; ” , w ust. 2 pkt 4 otrzymuje brzmienie: „
     - **b)**
 
 - **4)** zadania określone w ust. 1 pkt 14–16a i 16b w zakresie kontroli przewozu towarów, oraz w art. 14 ust. 1 pkt 19 i art. 33 ust. 1 pkt 15 ” ;
@@ -623,5 +633,5 @@ Wpisu do rejestru nie dokonuje się, w przypadku gdy w wyniku sprzedaży wyrobó
 
 2. Stałe upoważnienia do wykonywania kontroli celno-skarbowej, o której mowa w art. 62 ust. 5 ustawy zmienianej w art. 9, udzielone przed dniem wejścia w życie niniejszej ustawy zachowują ważność do dnia 31 grudnia 2018 r. Do dnia 31 lipca 2018 r. do przewozów towarów po krajowej sieci kolejowej nie stosuje się przepisów art. 21 ust. 1–2a, art. 22 ust. 1 i 2, art. 22a oraz art. 24 ust. 1 i 1a ustawy zmienianej w art. 1.
 
-**Art. 21.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 21 lit. c, który wchodzi w życie z dniem 1 czerwca 2018 r.
+**Art. 21.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 21 lit. c, który wchodzi w życie z dniem 1 czerwca 2018 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 8 grudnia 2017 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1926 oraz z 2018 r. poz. 79, 106, 138, 317, 650 i 957. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 60, 937 i 2216 oraz z 2018 r. poz. 137, 317 i 650. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 5, 106, 138, 201, 730, 771 i 942. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 416, 650 i 730. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2491 oraz z 2018 r. poz. 5, 138, 398, 416, 650, 730, 756, 770, 771, 1000 i 1009. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1475, 1954 i 2491 oraz z 2018 r. poz. 138, 398, 1000 i 1009. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 60, 937 i 2216 oraz z 2018 r. poz. 137, 317 i 650.
 

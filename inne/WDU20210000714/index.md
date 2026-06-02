@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 14 kwietnia 2021 r. zmieniające rozporządzenie w sprawie wymagań Dobrej Praktyki Dystrybucyjnej
+# Rozporządzenie Ministra Zdrowiaz dnia 14 kwietnia 2021 r. zmieniające rozporządzenie w sprawie wymagań Dobrej Praktyki Dystrybucyjnej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-14 |
 | Data wydania | 2021-04-19 |
-| Wejście w życie | 2021-04-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000714) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/714/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 79 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2020 r. poz. 944, 1493 i 2112 oraz z 2021 r. poz. 97) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 13 marca 2015 r. w sprawie wymagań Dobrej Praktyki Dystrybucyjnej (Dz. U. z 2017 r. poz. 509) w załączniku do rozporządzenia dodaje się rozdział 11 w brzmieniu:
-„
-Postanowienia niniejszego rozdziału mają zastosowanie do szczepionek przeciw COVID-19 objętych Narodowym Programem Szczepień przeciw COVID-19, przyjętym na podstawie uchwały nr 187/2020 Rady Ministrów z dnia 15 grudnia 2020 r. w sprawie przyjęcia Narodowego Programu Szczepień przeciw COVID-19, dystrybuowanych zgodnie z przepisami wydanymi na podstawie art. 18a ust. 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845, z późn. zm.). Do spraw objętych postanowieniami niniejszego rozdziału nie mają zastosowania postanowienia pkt 9.2.11.
+W rozporządzeniu Ministra Zdrowia z dnia 13 marca 2015 r. w sprawie wymagań Dobrej Praktyki Dystrybucyjnej (Dz. U. z 2017 r. poz. 509) w załączniku do rozporządzenia dodaje się rozdział 11 w brzmieniu: „
+SZCZEGÓLNE WARUNKI PRZYJMOWANIA, PRZECHOWYWANIA, TRANSPORTU ORAZ DOKUMENTOWANIA CZYNNOŚCI DOTYCZĄCYCH SZCZEPIONEK PRZECIW COVID-19
+Postanowienia niniejszego rozdziału mają zastosowanie do szczepionek przeciw COVID-19 objętych Narodowym Programem Szczepień przeciw COVID-19, przyjętym na podstawie uchwały nr 187/2020 Rady Ministrów z dnia 15 grudnia 2020 r. w sprawie przyjęcia Narodowego Programu Szczepień przeciw COVID-19, dystrybuowanych zgodnie z przepisami wydanymi na podstawie art. 18a ust. 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112 i 2401 oraz z 2021 r. poz. 159, 180, 255 i 616.). Do spraw objętych postanowieniami niniejszego rozdziału nie mają zastosowania postanowienia pkt 9.2.11.
 11.
 1 Dzielenie opakowań Dopuszcza się dzielenie opakowań zewnętrznych produktów leczniczych stanowiących szczepionkę przeciw COVID-19 oraz produktów leczniczych stanowiących rezerwy strategiczne, których użycie jest niezbędne do podania tej szczepionki. Proces dzielenia nie może naruszać opakowania bezpośredniego, nie może przyczynić się do zmiany gwarantowanej przez producenta jakości produktu leczniczego i może być przeprowadzony pod warunkiem, że każde opakowanie bezpośrednie posiada co najmniej nazwę produktu leczniczego, jego moc (jeżeli dotyczy), datę ważności i numer serii.
 11.
@@ -127,11 +126,9 @@ datę i godzinę załadunku;
 10)
 numer rejestracyjny pojazdu;
 11)
-imię i nazwisko kierowcy.
-” .
+imię i nazwisko kierowcy. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112 i 2401 oraz z 2021 r. poz. 159, 180, 255 i 616.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112 i 2401 oraz z 2021 r. poz. 159, 180, 255 i 616.
 
-#### Rozdział 11 SZCZEGÓLNE WARUNKI PRZYJMOWANIA, PRZECHOWYWANIA, TRANSPORTU ORAZ DOKUMENTOWANIA CZYNNOŚCI DOTYCZĄCYCH SZCZEPIONEK PRZECIW COVID-19
+#### Rozdział 11
 

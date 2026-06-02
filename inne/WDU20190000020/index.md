@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 2 stycznia 2019 r. w sprawie trybu zgłaszania roszczeń uczestników gier hazardowych
+# Rozporządzenie Ministra Finansówz dnia 2 stycznia 2019 r. w sprawie trybu zgłaszania roszczeń uczestników gier hazardowych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-01-02 |
 | Data wydania | 2019-01-04 |
-| Wejście w życie | 2019-01-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000020) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/20/text.pdf) |
 
@@ -33,6 +32,5 @@ Roszczenie zgłasza się na piśmie lub za pomocą środków komunikacji elektro
 § 2.
 Traci moc rozporządzenie Ministra Finansów z dnia 1 lipca 2010 r. w sprawie trybu zgłaszania roszczeń uczestników gier hazardowych (Dz. U. poz. 793).
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 

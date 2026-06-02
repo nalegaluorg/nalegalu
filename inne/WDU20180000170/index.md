@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Rozwoju i Finansówz dnia 2 stycznia 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie właściwości miejscowej organów celnych
+# Obwieszczenie Ministra Rozwoju i Finansówz dnia 2 stycznia 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie właściwości miejscowej organów celnych Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
 
 | Pole | Wartość |
 |---|---|
@@ -35,14 +35,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 31 maja 2016 r. w sprawie właściwości miejscowej organów celnych (Dz. U. poz. 801), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. zmieniającym rozporządzenie w sprawie właściwości miejscowej organów celnych (Dz. U. poz. 359).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. zmieniającego rozporządzenie w sprawie właściwości miejscowej organów celnych (Dz. U. poz. 359), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. zmieniającego rozporządzenie w sprawie właściwości miejscowej organów celnych (Dz. U. poz. 359), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-” .
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
+Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. ” . 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
 
-## Załącznik nr 1 — – Tekst jednolity rozporządzenia Ministra Finansów z dnia 31 maja 2016 r. w sprawie właściwości miejscowej organów celnych
+## Załącznik nr 1 — – Tekst jednolity rozporządzenia Ministra Finansów z dnia 31 maja 2016 r. w sprawie właściwości miejscowej organów celnychObecnie działem administracji rządowej – finanse publiczne kieruje Minister Rozwoju i Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
 
 Na podstawie art. 71 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2018 r. poz. 167) zarządza się, co następuje:
 § 1.
@@ -88,7 +85,7 @@ złożenia wniosku o wydanie pozwolenia na złożenie zabezpieczenia generalnego
 12)
 złożenia wniosku o wydanie pozwolenia na odroczenie płatności wymaganych należności celnych – według:
 a)
-siedziby organu, który zaksięgował należności – w przypadku ubiegania się o odroczenie, o którym mowa w art. 110 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.), zwanego dalej „unijnym kodeksem celnym”,
+siedziby organu, który zaksięgował należności – w przypadku ubiegania się o odroczenie, o którym mowa w art. 110 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 287 z 29.10.2013, str. 90.), zwanego dalej „unijnym kodeksem celnym”,
 b)
 siedziby lub miejsca zamieszkania wnioskodawcy – w przypadku ubiegania się o odroczenie, o którym mowa w art. 110 lit. b lub c unijnego kodeksu celnego;
 13)
@@ -123,7 +120,7 @@ złożenia wniosku o wydanie pozwolenia na korzystanie ze statusu upoważnionego
 złożenia wniosku o wystawienie świadectwa informacyjnego INF4 – według siedziby wnioskodawcy;
 25)
 złożenia wniosku o wydanie pozwolenia na korzystanie ze statusu upoważnionego przedsiębiorcy (AEO) – według siedziby wnioskodawcy;
-26)
+26W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. zmieniającego rozporządzenie w sprawie właściwości miejscowej organów celnych (Dz. U. poz. 359), które weszło w życie z dniem 1 marca 2017 r.)
 objęcia procedurą dopuszczenia do obrotu energii elektrycznej w transporcie przesyłowym – według miejsca zamieszkania lub siedziby osoby, na rzecz której dokonuje się zgłoszenia celnego;
 27)
 objęcia procedurą dopuszczenia do obrotu ropy naftowej w transporcie przesyłowym – według miejsca zamieszkania lub siedziby osoby, na rzecz której dokonuje się zgłoszenia celnego;
@@ -160,10 +157,9 @@ Postępowania w sprawach wszczętych i niezakończonych przez organy celne przed
 § 4.
 Traci moc rozporządzenie Ministra Finansów z dnia 23 kwietnia 2004 r. w sprawie właściwości miejscowej organów celnych (Dz. U. z 2015 r. poz. 844).
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Obecnie działem administracji rządowej – finanse publiczne kieruje Minister Rozwoju i Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 287 z 29.10.2013, str. 90. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. zmieniającego rozporządzenie w sprawie właściwości miejscowej organów celnych (Dz. U. poz. 359), które weszło w życie z dniem 1 marca 2017 r. 4) Rozporządzenie zostało ogłoszone w dniu 7 czerwca 2016 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 7 czerwca 2016 r.. 1) Obecnie działem administracji rządowej – finanse publiczne kieruje Minister Rozwoju i Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 287 z 29.10.2013, str. 90. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. zmieniającego rozporządzenie w sprawie właściwości miejscowej organów celnych (Dz. U. poz. 359), które weszło w życie z dniem 1 marca 2017 r. 4) Rozporządzenie zostało ogłoszone w dniu 7 czerwca 2016 r.
 
-## Załącznik nr 2 — – Tekst załącznika
+## Załącznik nr 2 — – Tekst załącznikaW brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.
 
 Lp. Dyrektor Izby Administracji Skarbowej Właściwość miejscowa Naczelnik Urzędu Celno-Skarbowego 1 2 3 I Dyrektor Izby Administracji Skarbowej we Wrocławiu obszar województwa dolnośląskiego Naczelnik Dolnośląskiego Urzędu Celno-Skarbowego we Wrocławiu obszar województwa dolnośląskiego II Dyrektor Izby Administracji Skarbowej w Bydgoszczy obszar województwa kujawsko-pomorskiego Naczelnik Kujawsko-Pomorskiego Urzędu Celno-Skarbowego w Toruniu obszar województwa kujawsko-pomorskiego III Dyrektor Izby Administracji Skarbowej w Lublinie obszar województwa lubelskiego Naczelnik Lubelskiego Urzędu Celno-Skarbowego w Białej Podlaskiej obszar województwa lubelskiego IV Dyrektor Izby Administracji Skarbowej w Zielonej Górze obszar województwa lubuskiego Naczelnik Lubuskiego Urzędu Celno-Skarbowego w Gorzowie Wielkopolskim obszar województwa lubuskiego V Dyrektor Izby Administracji Skarbowej w Łodzi obszar województwa łódzkiego Naczelnik Łódzkiego Urzędu Celno-Skarbowego w Łodzi obszar województwa łódzkiego VI Dyrektor Izby Administracji Skarbowej w Krakowie obszar województwa małopolskiego Naczelnik Małopolskiego Urzędu Celno-Skarbowego w Krakowie obszar województwa małopolskiego VII Dyrektor Izby Administracji Skarbowej w Warszawie obszar województwa mazowieckiego Naczelnik Mazowieckiego Urzędu Celno-Skarbowego w Warszawie obszar województwa mazowieckiego VIII Dyrektor Izby Administracji Skarbowej w Opolu obszar województwa opolskiego Naczelnik Opolskiego Urzędu Celno-Skarbowego w Opolu obszar województwa opolskiego IX Dyrektor Izby Administracji Skarbowej w Rzeszowie obszar województwa podkarpackiego Naczelnik Podkarpackiego Urzędu Celno-Skarbowego w Przemyślu obszar województwa podkarpackiego X Dyrektor Izby Administracji Skarbowej w Białymstoku obszar województwa podlaskiego Naczelnik Podlaskiego Urzędu Celno-Skarbowego w Białymstoku obszar województwa podlaskiego XI Dyrektor Izby Administracji Skarbowej w Gdańsku obszar województwa pomorskiego oraz morskie wody wewnętrzne, morze terytorialne, morskie porty i przystanie od wschodniej granicy państwa do południka 16°42'00” długości geograficznej wschodniej, z wyłączeniem wód Zalewu Wiślanego Naczelnik Pomorskiego Urzędu Celno-Skarbowego w Gdyni obszar województwa pomorskiego oraz morskie wody wewnętrzne, morze terytorialne, morskie porty i przystanie od wschodniej granicy państwa do południka 16°42'00” długości geograficznej wschodniej, z wyłączeniem wód Zalewu Wiślanego XII Dyrektor Izby Administracji Skarbowej w Katowicach obszar województwa śląskiego Naczelnik Śląskiego Urzędu Celno-Skarbowego w Katowicach obszar województwa śląskiego XIII Dyrektor Izby Administracji Skarbowej w Kielcach obszar województwa świętokrzyskiego Naczelnik Świętokrzyskiego Urzędu Celno-Skarbowego w Kielcach obszar województwa świętokrzyskiego XIV Dyrektor Izby Administracji Skarbowej w Olsztynie obszar województwa warmińsko-mazurskiego oraz wody Zalewu Wiślanego wraz z morskimi portami i przystaniami od wschodniej granicy państwa Naczelnik Warmińsko-Mazurskiego Urzędu Celno-Skarbowego w Olsztynie obszar województwa warmińsko-mazurskiego oraz wody Zalewu Wiślanego wraz z morskimi portami i przystaniami od wschodniej granicy państwa XV Dyrektor Izby Administracji Skarbowej w Poznaniu obszar województwa wielkopolskiego Naczelnik Wielkopolskiego Urzędu Celno-Skarbowego w Poznaniu obszar województwa wielkopolskiego XVI Dyrektor Izby Administracji Skarbowej w Szczecinie obszar województwa zachodniopomorskiego oraz morskie wody wewnętrzne, morze terytorialne, morskie porty i przystanie od południka 16°42'00” długości geograficznej wschodniej do zachodniej granicy państwa Naczelnik Zachodniopomorskiego Urzędu Celno-Skarbowego w Szczecinie obszar województwa zachodniopomorskiego oraz morskie wody wewnętrzne, morze terytorialne, morskie porty i przystanie od południka 16°42'00” długości geograficznej wschodniej do zachodniej granicy państwa
 

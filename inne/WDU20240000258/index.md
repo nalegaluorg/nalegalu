@@ -37,19 +37,15 @@ rozporządzeniem Ministra Obrony Narodowej z dnia 22 grudnia 2022 r. zmieniając
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 10 lutego 2009 r. zmieniającego rozporządzenie w sprawie oddelegowania żołnierza zawodowego wyznaczonego na stanowisko służbowe w Służbie Kontrwywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Kontrwywiadu Wojskowego (Dz. U. poz. 196), który stanowi:
-„
+§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 10 lutego 2009 r. zmieniającego rozporządzenie w sprawie oddelegowania żołnierza zawodowego wyznaczonego na stanowisko służbowe w Służbie Kontrwywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Kontrwywiadu Wojskowego (Dz. U. poz. 196), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Obrony Narodowej z dnia 22 grudnia 2022 r. zmieniającego rozporządzenie w sprawie oddelegowania żołnierza zawodowego wyznaczonego na stanowisko służbowe w Służbie Kontrwywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Kontrwywiadu Wojskowego (Dz. U. z 2023 r. poz. 44), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Obrony Narodowej z dnia 22 grudnia 2022 r. zmieniającego rozporządzenie w sprawie oddelegowania żołnierza zawodowego wyznaczonego na stanowisko służbowe w Służbie Kontrwywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Kontrwywiadu Wojskowego (Dz. U. z 2023 r. poz. 44), które stanowią: „
 § 2.
 Do dnia wejścia w życie przepisów wydanych na podstawie art. 203 ust. 8 i art. 468 ust. 10 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305), w zakresie szczególnych uprawnień i obowiązków żołnierza Służby Kontrwywiadu Wojskowego pełniącego służbę poza granicami państwa, stosuje się odpowiednio przepisy wydane na podstawie art. 24 ust. 8 i art. 102 ust. 10 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2022 r. poz. 536) utrzymane czasowo w mocy na podstawie art. 822 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, jednak nie dłużej niż do upływu terminu określonego w tym przepisie.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 29 września 2006 r. w sprawie oddelegowania żołnierza zawodowego wyznaczonego na stanowisko służbowe w Służbie Kontrwywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Kontrwywiadu Wojskowego
 Na podstawie art. 50 ust. 3 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2023 r. poz. 81, 1834 i 1860) zarządza się, co następuje:
 § 1.
@@ -127,7 +123,7 @@ numer poświadczenia bezpieczeństwa wydanego oddelegowanemu żołnierzowi SKW, 
 stanowisko służbowe, które oddelegowany żołnierz SKW będzie zajmował;
 7)
 zakres zadań i obowiązków oddelegowanego żołnierza SKW.
-§ 8a.
+§ 8aDodany przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 10 lutego 2009 r. zmieniającego rozporządzenie w sprawie oddelegowania żołnierza zawodowego wyznaczonego na stanowisko służbowe w Służbie Kontrwywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Kontrwywiadu Wojskowego (Dz. U. poz. 196), które weszło w życie z dniem 12 marca 2009 r..
 Wyznaczenie żołnierza SKW na stanowiska służbowe:
 1)
 w polskich przedstawicielstwach wojskowych przy:
@@ -140,9 +136,8 @@ bezpośrednio w strukturach organizacji międzynarodowych i międzynarodowych st
 3)
 w ataszatach obrony w przedstawicielstwach dyplomatycznych i w stałych przedstawicielstwach przy organizacjach międzynarodowych, podległych ministrowi właściwemu do spraw zagranicznych, mających siedzibę poza granicami Rzeczypospolitej Polskiej,
 4)
-przy siłach zbrojnych albo przy innych strukturach obronnych innych państw
-odbywa się w trybie przewidzianym do wyznaczania na te stanowiska w podmiocie oddelegowania.
-§ 9.
+przy siłach zbrojnych albo przy innych strukturach obronnych innych państw – odbywa się w trybie przewidzianym do wyznaczania na te stanowiska w podmiocie oddelegowania.
+§ 9W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Oddelegowany żołnierz SKW w czasie oddelegowania podlega bezpośrednio Szefowi SKW, a w zakresie wykonywanych zadań i obowiązków określonych w podmiocie oddelegowania – kierownikowi podmiotu oddelegowania.
 § 10.
 1.
@@ -156,7 +151,7 @@ W czasie oddelegowania żołnierz SKW otrzymuje uposażenie i inne należności 
 Składniki uposażenia i inne świadczenia oraz należności pieniężne są wypłacane oddelegowanemu żołnierzowi przez:
 1)
 podmiot oddelegowania:
-a)
+aW brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 22 grudnia 2022 r. zmieniającego rozporządzenie w sprawie oddelegowania żołnierza zawodowego wyznaczonego na stanowisko służbowe w Służbie Kontrwywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Kontrwywiadu Wojskowego (Dz. U. z 2023 r. poz. 44), które weszło w życie z dniem 24 stycznia 2023 r.)
 uposażenie zasadnicze wraz z dodatkami, o których mowa w art. 439 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248), w terminach płatności przewidzianych dla żołnierzy,
 b)
 dodatkowe uposażenie roczne,
@@ -180,11 +175,11 @@ e)
 zasiłek pogrzebowy i odprawę pośmiertną.
 3.
 Szef SKW może przyznać oddelegowanemu żołnierzowi SKW dodatkową należność pieniężną, w przypadku gdy jest to szczególnie uzasadnione miejscem lub charakterem i zakresem zadań wykonywanych przez oddelegowanego żołnierza SKW.
-4.
+4Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1..
 W przypadku wyznaczenia żołnierza SKW na stanowisko służbowe w trybie § 8a, składniki uposażenia i inne świadczenia oraz należności pieniężne wypłacane są oddelegowanemu żołnierzowi SKW przez podmiot oddelegowania.
-5.
+5Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1..
 Wprzypadku gdy wysokość uposażenia, o którym mowa w ust. 2 pkt 1 lit. a, jest niższa od uposażenia otrzymywanego przez oddelegowanego żołnierza SKW na ostatnio zajmowanym stanowisku służbowym przed oddelegowaniem, z uwzględnieniem powstałych w tym okresie zmian mających wpływ na wysokość uposażenia oraz innych świadczeń i należności pieniężnych, oddelegowanemu żołnierzowi SKW przysługuje odpowiednie wyrównanie ze środków SKW.
-6.
+6Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1..
 Należności pieniężne, o których mowa w ust. 5, są wypłacane oddelegowanemu żołnierzowi SKW przez właściwą jednostkę organizacyjną SKW.
 § 12.
 Uposażenie i inne należności pieniężne, o których mowa w § 11, są wypłacane do rąk oddelegowanego żołnierza SKW albo wpłacane w formie bezgotówkowej na rachunek bankowy przez niego wskazany.
@@ -197,8 +192,8 @@ Oddelegowany żołnierz SKW może być bez jego zgody odwołany z oddelegowania 
 Szef SKW odwołuje żołnierza SKW z oddelegowania na jego pisemny wniosek.
 3.
 W przypadku odwołania z oddelegowania lub upływu okresu, na który nastąpiło oddelegowanie, oddelegowany żołnierz SKW jest obowiązany stawić się do służby w SKW.
-§ 15.
+§ 15W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3..
 W zakresie szczególnych uprawnień i obowiązków żołnierza SKW pełniącego służbę poza granicami państwa stosuje się przepisy wydane na podstawie art. 203 ust. 8 i art. 468 ust. 10 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny.
 § 16.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 10 października 2006 r..Niniejsze rozporządzenie poprzedzone było rozporządzeniem Ministra Obrony Narodowej z dnia 19 lipca 2004 r. w sprawie oddelegowania żołnierza Wojskowych Służb Informacyjnych do wykonywania zadań służbowych poza Wojskowymi Służbami Informacyjnymi (Dz. U. poz. 1776), które utraciło moc na podstawie art. 75 ustawy z dnia 9 czerwca 2006 r. – Przepisy wprowadzające ustawę o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego oraz ustawę o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. poz. 711). 1) Dodany przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 10 lutego 2009 r. zmieniającego rozporządzenie w sprawie oddelegowania żołnierza zawodowego wyznaczonego na stanowisko służbowe w Służbie Kontrwywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Kontrwywiadu Wojskowego (Dz. U. poz. 196), które weszło w życie z dniem 12 marca 2009 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 22 grudnia 2022 r. zmieniającego rozporządzenie w sprawie oddelegowania żołnierza zawodowego wyznaczonego na stanowisko służbowe w Służbie Kontrwywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Kontrwywiadu Wojskowego (Dz. U. z 2023 r. poz. 44), które weszło w życie z dniem 24 stycznia 2023 r. 4) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) Rozporządzenie zostało ogłoszone w dniu 10 października 2006 r. 7) Niniejsze rozporządzenie poprzedzone było rozporządzeniem Ministra Obrony Narodowej z dnia 19 lipca 2004 r. w sprawie oddelegowania żołnierza Wojskowych Służb Informacyjnych do wykonywania zadań służbowych poza Wojskowymi Służbami Informacyjnymi (Dz. U. poz. 1776), które utraciło moc na podstawie art. 75 ustawy z dnia 9 czerwca 2006 r. – Przepisy wprowadzające ustawę o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego oraz ustawę o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. poz. 711).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 kwietnia 2009 r.Przepisy wprowadzające ustawę o prawach pacjenta i Rzeczniku Praw Pacjenta, ustawę o akredytacji w ochronie zdrowia oraz ustawę o konsultantach w ochronie zdrowia
+# Ustawa z dnia 24 kwietnia 2009 r.Przepisy wprowadzające ustawę o prawach pacjenta i Rzeczniku Praw Pacjenta, ustawę o akredytacji w ochronie zdrowia oraz ustawę o konsultantach w ochronie zdrowia Niniejszą ustawą zmienia się ustawy: ustawę z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, ustawę z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego, ustawę z dnia 5 lipca 1996 r. o zawodach pielęgniarki i położnej, ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, ustawę z dnia 6 listopada 2008 r. o akredytacji w ochronie zdrowia, ustawę z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia i ustawę z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-04-24 |
 | Data wydania | 2009-05-21 |
-| Wejście w życie | 2009-06-05 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090760641) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/641/text.pdf) |
 
@@ -34,7 +33,7 @@ source: "eli-html"
 
 3. Ustawa z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2009 r. Nr 52, poz. 419) wchodzi w życie z dniem wejścia w życie niniejszej ustawy.
 
-**Art. 2.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. Nr 14, poz. 89, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. Nr 14, poz. 89, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 123, poz. 849, Nr 166, poz. 1172, Nr 176, poz. 1240 i Nr 181, poz. 1290, z 2008 r. Nr 171, poz. 1056 i Nr 234, poz. 1570 oraz z 2009 r. Nr 19, poz. 100.) wprowadza się następujące zmiany:
 
 - **1)** art. 18 otrzymuje brzmienie: „
 
@@ -60,7 +59,7 @@ source: "eli-html"
 - **3)** zakładom opieki zdrowotnej,
 - **4)** publicznym uczelniom medycznym i publicznej uczelni prowadzącej działalność dydaktyczną i badawczą w dziedzinie nauk medycznych,
 - **5)** medycznym jednostkom badawczo-rozwojowym,
-- **6)** specjalistom z poszczególnych dziedzin medycyny za ich zgodą;
+- **6)** specjalistom z poszczególnych dziedzin medycyny – za ich zgodą;
 - **7)** jednostkom organizacyjnym podległym lub nadzorowanym odpowiednio przez ministra właściwego do spraw zdrowia albo wojewodę;
 - **8)** konsultantom krajowym albo wojewódzkim, o których mowa w ustawie z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2009 r. Nr 52, poz. 419). ” ;
 - **8)** uchyla się art. 66a;
@@ -75,11 +74,11 @@ source: "eli-html"
 
 2a. Do publicznych zakładów opieki zdrowotnej utworzonych przez Ministra Obrony Narodowej nie stosuje się art. 44a-44c i art. 45–48a oraz działu III, z wyjątkiem art. 67 ust. 1–3 i 4 oraz art. 67a. ” .
 
-**Art. 3.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. Nr 111, poz. 535, z późn. zm.) art. 10d otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. Nr 111, poz. 535, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 88, poz. 554 i Nr 113, poz. 731, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95, z 2000 r. Nr 120, poz. 1268, z 2005 r. Nr 141, poz. 1183, Nr 167, poz. 1398 i Nr 175, poz. 1462, z 2007 r. Nr 112, poz. 766 i Nr 121, poz. 831 oraz z 2008 r. Nr 180, poz. 1108.) art. 10d otrzymuje brzmienie: „
 
 **Art. 10d.** Rzecznicy Praw Pacjenta Szpitala Psychiatrycznego są pracownikami Biura Rzecznika Praw Pacjenta, o którym mowa w ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2009 r. Nr 52, poz. 417), i wykonują swoje zadania przy pomocy tego Biura. ” .
 
-**Art. 4.** W ustawie z dnia 5 lipca 1996 r. o zawodach pielęgniarki i położnej (Dz. U. z 2001 r. Nr 57, poz. 602, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 5 lipca 1996 r. o zawodach pielęgniarki i położnej (Dz. U. z 2001 r. Nr 57, poz. 602, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 89, poz. 969, z 2003 r. Nr 109, poz. 1029, z 2004 r. Nr 19, poz. 177, Nr 92, poz. 885 i Nr 173, poz. 1808, z 2005 r. Nr 175, poz. 1461 i Nr 253, poz. 2131, z 2007 r. Nr 176, poz. 1237 oraz z 2009 r. Nr 6, poz. 33.) wprowadza się następujące zmiany:
 
 - **1)** w art. 20: ust. 3 otrzymuje brzmienie: „
     - **a)**
@@ -178,7 +177,7 @@ source: "eli-html"
 
 **Art. 25.** Zgoda, o której mowa w art. 22, nie jest wymagana w przypadku wykonywania przez diagnostę laboratoryjnego zabiegów i czynności diagnostyki laboratoryjnej przeprowadzanych na zlecenie lekarskie. ” .
 
-**Art. 7.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. Nr 167, poz. 1398, z późn. zm.) w art. 96 w ust. 1 pkt 6 otrzymuje brzmienie: „
+**Art. 7.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. Nr 167, poz. 1398, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 126, poz. 876, z 2007 r. Nr 21, poz. 123, Nr 82, poz. 560, Nr 123, poz. 849, Nr 125, poz. 873 i Nr 191, poz. 1371, z 2008 r. Nr 228, poz. 1524 i Nr 234, poz. 1571 i 1572 oraz z 2009 r. Nr 26, poz. 156.) w art. 96 w ust. 1 pkt 6 otrzymuje brzmienie: „
 
 - **6)** prokurator, Rzecznik Praw Obywatelskich, Rzecznik Praw Pacjenta; ” .
 
@@ -187,7 +186,7 @@ source: "eli-html"
 - **1)** w art. 3 w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
 
-- **3)** osoba wykonująca zawód medyczny – osobę wykonującą zawód medyczny w rozumieniu art. 18d ust. 1 pkt 1 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. Nr 14, poz. 89, z późn. zm.); ” , pkt 5 i 6 otrzymują brzmienie: „
+- **3)** osoba wykonująca zawód medyczny – osobę wykonującą zawód medyczny w rozumieniu art. 18d ust. 1 pkt 1 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. Nr 14, poz. 89, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 123, poz. 849, Nr 166, poz. 1172, Nr 176, poz. 1240 i Nr 181, poz. 1290, z 2008 r. Nr 171, poz. 1056 i Nr 234, poz. 1570 oraz z 2009 r. Nr 19, poz. 100 i Nr 76, poz. 641.); ” , pkt 5 i 6 otrzymują brzmienie: „
     - **b)**
 
 - **5)** podmiot udzielający świadczeń zdrowotnych – zakład opieki zdrowotnej oraz indywidualną praktykę lekarską, indywidualną specjalistyczną praktykę lekarską, grupową praktykę lekarską, indywidualną praktykę pielęgniarek, położnych, indywidualną specjalistyczną praktykę pielęgniarek, położnych oraz grupową praktykę pielęgniarek, położnych;
@@ -280,10 +279,10 @@ source: "eli-html"
 
 - **1)** art. 18 ust. 8 i 9, art. 19b ust. 2 i art. 66a ust. 6 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej,
 - **2)** art. 20 ust. 8 ustawy z dnia 5 lipca 1996 r. o zawodach pielęgniarki i położnej,
-- **3)** art. 41 ust. 9 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty zachowują moc do dnia wejścia w życie aktów wykonawczych wydanych na podstawie art. 30 i art. 40 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta oraz art. 16 ust. 2 ustawy z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia, jednak nie dłużej niż do dnia 1 stycznia 2011 r. Jeżeli w przepisach odrębnych jest mowa o ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, w zakresie dotyczącym:
+- **3)** art. 41 ust. 9 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty – zachowują moc do dnia wejścia w życie aktów wykonawczych wydanych na podstawie art. 30 i art. 40 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta oraz art. 16 ust. 2 ustawy z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia, jednak nie dłużej niż do dnia 1 stycznia 2011 r. Jeżeli w przepisach odrębnych jest mowa o ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, w zakresie dotyczącym:
 - **1)** praw pacjenta oraz obowiązków z tymi prawami związanych, a także zasad udostępniania dokumentacji medycznej – rozumie się przez to ustawę z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
 - **2)** akredytowania zakładów opieki zdrowotnej – rozumie się przez to ustawę z dnia 6 listopada 2008 r. o akredytacji w ochronie zdrowia;
 - **3)** wojewódzkich lub krajowych konsultantów – rozumie się przez to ustawę z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia.
 
-**Art. 19.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 ust. 1 i art. 12, które wchodzą w życie z dniem ogłoszenia.
+**Art. 19.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 ust. 1 i art. 12, które wchodzą w życie z dniem ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, ustawę z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego, ustawę z dnia 5 lipca 1996 r. o zawodach pielęgniarki i położnej, ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, ustawę z dnia 6 listopada 2008 r. o akredytacji w ochronie zdrowia, ustawę z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia i ustawę z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 123, poz. 849, Nr 166, poz. 1172, Nr 176, poz. 1240 i Nr 181, poz. 1290, z 2008 r. Nr 171, poz. 1056 i Nr 234, poz. 1570 oraz z 2009 r. Nr 19, poz. 100. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 88, poz. 554 i Nr 113, poz. 731, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95, z 2000 r. Nr 120, poz. 1268, z 2005 r. Nr 141, poz. 1183, Nr 167, poz. 1398 i Nr 175, poz. 1462, z 2007 r. Nr 112, poz. 766 i Nr 121, poz. 831 oraz z 2008 r. Nr 180, poz. 1108. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 89, poz. 969, z 2003 r. Nr 109, poz. 1029, z 2004 r. Nr 19, poz. 177, Nr 92, poz. 885 i Nr 173, poz. 1808, z 2005 r. Nr 175, poz. 1461 i Nr 253, poz. 2131, z 2007 r. Nr 176, poz. 1237 oraz z 2009 r. Nr 6, poz. 33. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 126, poz. 876, z 2007 r. Nr 21, poz. 123, Nr 82, poz. 560, Nr 123, poz. 849, Nr 125, poz. 873 i Nr 191, poz. 1371, z 2008 r. Nr 228, poz. 1524 i Nr 234, poz. 1571 i 1572 oraz z 2009 r. Nr 26, poz. 156. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 123, poz. 849, Nr 166, poz. 1172, Nr 176, poz. 1240 i Nr 181, poz. 1290, z 2008 r. Nr 171, poz. 1056 i Nr 234, poz. 1570 oraz z 2009 r. Nr 19, poz. 100 i Nr 76, poz. 641.
 

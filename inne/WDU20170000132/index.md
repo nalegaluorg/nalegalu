@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 grudnia 2016 r. o zmianie ustawy o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego oraz niektórych innych ustaw
+# Ustawa z dnia 15 grudnia 2016 r. o zmianie ustawy o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 listopada 1996 r. o muzeach, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody oraz ustawę z dnia 25 czerwca 2015 r. – Prawo konsularne.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-15 |
 | Data wydania | 2017-01-20 |
-| Wejście w życie | 2017-04-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000132) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/132/text.pdf) |
 
@@ -55,7 +54,7 @@ source: "eli-html"
 
 4. Minister właściwy do spraw transportu, w porozumieniu z ministrami właściwymi do spraw: oświaty i wychowania, kultury i ochrony dziedzictwa narodowego oraz spraw zagranicznych, określi, w drodze rozporządzenia, wzory dokumentów, o których mowa w ust. 3, oraz tryb i terminy ich wydawania i przedłużania ważności, uwzględniając konieczność zapewnienia kompletności i poprawności przekazanych informacji oraz mając na uwadze potrzebę sprawnego wydawania i przedłużania ważności tych dokumentów. ” .
 
-**Art. 2.** W ustawie z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2012 r. poz. 987, z późn. zm.) w art. 10:
+**Art. 2.** W ustawie z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2012 r. poz. 987, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1505, z 2016 r. poz. 352, 749, 868 i 1330 oraz z 2017 r. poz. 60.) w art. 10:
 
 - **1)** ust. 1 otrzymuje brzmienie: „
 
@@ -104,5 +103,5 @@ source: "eli-html"
 
 - **8a)** wydaje uczniom i nauczycielom dokumenty poświadczające uprawnienie do korzystania z ulgowych przejazdów – w związku z pobieraniem albo nauczaniem języka polskiego, historii, geografii, kultury polskiej lub innych przedmiotów nauczanych w języku polskim – oraz przedłuża ich ważność; ” .
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 listopada 1996 r. o muzeach, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody oraz ustawę z dnia 25 czerwca 2015 r. – Prawo konsularne. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1505, z 2016 r. poz. 352, 749, 868 i 1330 oraz z 2017 r. poz. 60.
 

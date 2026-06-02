@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-24 |
 | Data wydania | 2017-11-02 |
-| Wejście w życie | 2017-11-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002032) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2032/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 22 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 22 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089, 1475, 1529 i 1537.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób ustalania nadwyżki środków finansowych Agencji Mienia Wojskowego, zwanej dalej „Agencją”, podlegających wpłacie do budżetu państwa.
 § 2.
@@ -60,5 +59,5 @@ zobowiązania wymagalne z terminem płatności do dnia 31 marca roku następnego
 § 3.
 Rozporządzenie ma zastosowanie po raz pierwszy do ustalania nadwyżki środków finansowych Agencji za 2016 r.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 10 grudnia 2012 r. w sprawie sposobu ustalania nadwyżki środków finansowych Wojskowej Agencji Mieszkaniowej (Dz. U. poz. 1432), które na podstawie art. 136 ust. 5 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2017 r. poz. 1456) utraciło moc z dniem 2 października 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089, 1475, 1529 i 1537. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 10 grudnia 2012 r. w sprawie sposobu ustalania nadwyżki środków finansowych Wojskowej Agencji Mieszkaniowej (Dz. U. poz. 1432), które na podstawie art. 136 ust. 5 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2017 r. poz. 1456) utraciło moc z dniem 2 października 2016 r.
 

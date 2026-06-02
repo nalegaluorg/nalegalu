@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-20 |
 | Data wydania | 2024-12-30 |
-| Wejście w życie | 2025-01-14 |
 | Ostatnia zmiana | 2025-10-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001957) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1957/text.pdf) |
 
@@ -41,21 +40,17 @@ W rozporządzeniu Ministra Obrony Narodowej z dnia 18 stycznia 2007 r. w sprawie
 1)
 w § 2:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Funkcjonariuszowi, któremu nie wydano w naturze umundurowania zgodnie z przepisami wydanymi na podstawie art. 46 ust. 1 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego dotyczącymi funkcjonariuszy Służby Wywiadu Wojskowego, przyznaje się równoważnik pieniężny albo kwotę na zakup ubrania typu cywilnego w zamian za umundurowanie.
-” ,
+Funkcjonariuszowi, któremu nie wydano w naturze umundurowania zgodnie z przepisami wydanymi na podstawie art. 46 ust. 1 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego dotyczącymi funkcjonariuszy Służby Wywiadu Wojskowego, przyznaje się równoważnik pieniężny albo kwotę na zakup ubrania typu cywilnego w zamian za umundurowanie. ” ,
 b)
-dodaje się ust. 6 w brzmieniu:
-„
+dodaje się ust. 6 w brzmieniu: „
 6.
-Funkcjonariuszowi, któremu nie wydano w naturze munduru polowego, wypłaca się równoważnik. Wysokość równoważnika jest określona w załączniku nr 2a do rozporządzenia.
-” ;
+Funkcjonariuszowi, któremu nie wydano w naturze munduru polowego, wypłaca się równoważnik. Wysokość równoważnika jest określona w załączniku nr 2a do rozporządzenia. ” ;
 2)
 w § 8:
 a)
-w ust. 1 dodaje się zdanie drugie w brzmieniu: „ Równoważnik zmniejsza się o wartości określone w przepisach wydanych na postawie art. 334 ust. 5 pkt 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm.). ” ,
+w ust. 1 dodaje się zdanie drugie w brzmieniu: „ Równoważnik zmniejsza się o wartości określone w przepisach wydanych na postawie art. 334 ust. 5 pkt 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1248, 1585, 1871 i 1907.). ” ,
 b)
 uchyla się ust. 4;
 3)
@@ -69,7 +64,7 @@ uchyla się załącznik nr 4 do rozporządzenia.
 § 2.
 Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie do ustalania wysokości równoważników pieniężnych określonych w załącznikach nr 1 i nr 3 do niniejszego rozporządzenia, od dnia 1 stycznia 2024 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1248, 1585, 1871 i 1907.
 
 ## Załącznik nr 1 — – Wysokość równoważnika pieniężnego w zamian za umundurowanie
 

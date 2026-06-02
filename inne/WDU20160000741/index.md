@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-05-31 |
 | Data wydania | 2016-05-31 |
-| Wejście w życie | 2016-05-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000741) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/741/text.pdf) |
 
@@ -99,7 +98,7 @@ wykaz dowodów, o których przeprowadzenie podczas rozprawy wnosi rzecznik dyscy
 6)
 datę i podpis rzecznika dyscyplinarnego.
 3.
-We wniosku o wszczęcie postępowania dyscyplinarnego rzecznik dyscyplinarny może wnieść o zaniechanie wezwania i odczytanie na rozprawie zeznań świadków przebywających za granicą lub mających stwierdzić okoliczności, którym nauczyciel, którego dotyczy to postępowanie, w wyjaśnieniach nie zaprzeczył, a okoliczności te nie są tak doniosłe, aby konieczne było przesłuchanie świadków na rozprawie. Wniosek o zaniechanie wezwania i odczytanie na rozprawie zeznań świadków nie może dotyczyć osób, które mają prawo do odmowy zeznań na podstawie art. 182 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. poz. 555, z późn. zm.).
+We wniosku o wszczęcie postępowania dyscyplinarnego rzecznik dyscyplinarny może wnieść o zaniechanie wezwania i odczytanie na rozprawie zeznań świadków przebywających za granicą lub mających stwierdzić okoliczności, którym nauczyciel, którego dotyczy to postępowanie, w wyjaśnieniach nie zaprzeczył, a okoliczności te nie są tak doniosłe, aby konieczne było przesłuchanie świadków na rozprawie. Wniosek o zaniechanie wezwania i odczytanie na rozprawie zeznań świadków nie może dotyczyć osób, które mają prawo do odmowy zeznań na podstawie art. 182 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. poz. 555, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. poz. 931, z 2000 r. poz. 580, 717, 852 i 1027, z 2001 r. poz. 1071 i 1149, z 2002 r. poz. 676, z 2003 r. poz. 155, 1061 i 1188, z 2004 r. poz. 514, 626, 889, 2405 i 2641, z 2005 r. poz. 70, 461, 680, 821, 1181, 1203, 1363, 1416 i 1479, z 2006 r. poz. 118, 467, 659, 708, 711, 1009, 1013, 1192, 1647 i 1648, z 2007 r. poz. 116, 432, 539, 589, 664, 766, 849 i 903, z 2008 r. poz. 162, 648, 686, 802, 1133, 1308, 1344, 1485, 1571 i 1651, z 2009 r. poz. 39, 104, 171, 585, 716, 1051, 1178, 1323, 1375, 1474 i 1589, z 2010 r. poz. 46, 626, 669, 826, 842, 1228 i 1307, z 2011 r. poz. 245, 246, 273, 654, 678, 829, 1135, 1280, 1430, 1431, 1438 i 1645, z 2012 r. poz. 886, 1091, 1101, 1327, 1426, 1447 i 1529, z 2013 r. poz. 480, 765, 849, 1247, 1262, 1282 i 1650, z 2014 r. poz. 85, 384, 694, 1375 i 1556, z 2015 r. poz. 21, 290, 396, 1185, 1186, 1334, 1788, 1855 i 2281 oraz z 2016 r. poz. 178 i 437.).
 § 12.
 1.
 O przekazaniu komisji pierwszej instancji wniosku o wszczęcie postępowania dyscyplinarnego zawiadamia się nauczyciela, którego dotyczyło to postępowanie, jego obrońcę oraz dyrektora szkoły, w której nauczyciel jest zatrudniony, a w przypadku wniosku o wszczęcie postępowania dyscyplinarnego wobec nauczyciela pełniącego funkcję dyrektora szkoły – tego nauczyciela, jego obrońcę oraz organ prowadzący szkołę.
@@ -376,5 +375,5 @@ W przypadku wznowienia postępowania z przyczyn, o których mowa w art. 85n ust.
 § 48.
 Listy obrońców z urzędu sporządzone przed dniem wejścia w życie rozporządzenia stosuje się do wszczętych i niezakończonych przed dniem wejścia w życie ustawy z dnia 18 marca 2016 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 668) postępowań dyscyplinarnych prowadzonych przez komisje dyscyplinarne, o których mowa w art. 10 ust. 1 tej ustawy, do końca kadencji tych komisji.
 § 49.
-Rozporządzenie wchodzi w życie z dniem 31 maja 2016 r.
+Rozporządzenie wchodzi w życie z dniem 31 maja 2016 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. poz. 931, z 2000 r. poz. 580, 717, 852 i 1027, z 2001 r. poz. 1071 i 1149, z 2002 r. poz. 676, z 2003 r. poz. 155, 1061 i 1188, z 2004 r. poz. 514, 626, 889, 2405 i 2641, z 2005 r. poz. 70, 461, 680, 821, 1181, 1203, 1363, 1416 i 1479, z 2006 r. poz. 118, 467, 659, 708, 711, 1009, 1013, 1192, 1647 i 1648, z 2007 r. poz. 116, 432, 539, 589, 664, 766, 849 i 903, z 2008 r. poz. 162, 648, 686, 802, 1133, 1308, 1344, 1485, 1571 i 1651, z 2009 r. poz. 39, 104, 171, 585, 716, 1051, 1178, 1323, 1375, 1474 i 1589, z 2010 r. poz. 46, 626, 669, 826, 842, 1228 i 1307, z 2011 r. poz. 245, 246, 273, 654, 678, 829, 1135, 1280, 1430, 1431, 1438 i 1645, z 2012 r. poz. 886, 1091, 1101, 1327, 1426, 1447 i 1529, z 2013 r. poz. 480, 765, 849, 1247, 1262, 1282 i 1650, z 2014 r. poz. 85, 384, 694, 1375 i 1556, z 2015 r. poz. 21, 290, 396, 1185, 1186, 1334, 1788, 1855 i 2281 oraz z 2016 r. poz. 178 i 437.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1996-09-12 |
 | Data wydania | 1996-10-29 |
-| Wejście w życie | 1996-12-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961270593) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/593/text.pdf) |
 
@@ -177,14 +176,18 @@ source: "eli-html"
 - **3)** powyżej 18% zawartości alkoholu. ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
-3. Zezwolenia na prowadzenie sprzedaży napojów alkoholowych przeznaczonych do spożycia na miejscu lub poza miejscem sprzedaży wydaje się tylko wtedy, gdy punkt sprzedaży spełnia warunki sprzedaży i usytuowania odpowiadające zasadom określonym przez radę gminy zgodnie z art. 12 ust. 2. ” , w ust. 6: – pkt 2 otrzymuje brzmienie: „ 2) powtarzającego się, w miejscu sprzedaży lub najbliższej okolicy, zakłócenia porządku publicznego w związku ze sprzedażą napojów alkoholowych przez daną placówkę, ” – w pkt 3 wyraz „wprowadzania” zastępuje się wyrazem „wprowadzenia”, – w pkt 4 kropkę zastępuje się przecinkiem, – po pkt 4 dodaje się pkt 5 i 6 w brzmieniu: „ 5) przedstawienia fałszywych danych w oświadczeniu, o którym mowa w art. 111 ust. 4, 6) popełnienia przestępstwa w celu osiągnięcia korzyści majątkowej przez osobę odpowiedzialną za działalność podmiotu gospodarczego posiadającego zezwolenie. ” , po ust. 7 dodaje się ust. 7a w brzmieniu: „
+3. Zezwolenia na prowadzenie sprzedaży napojów alkoholowych przeznaczonych do spożycia na miejscu lub poza miejscem sprzedaży wydaje się tylko wtedy, gdy punkt sprzedaży spełnia warunki sprzedaży i usytuowania odpowiadające zasadom określonym przez radę gminy zgodnie z art. 12 ust. 2. ” , w ust. 6: pkt 2 otrzymuje brzmienie: „
 
 - **c)**
-- **d)**
+- **2)** powtarzającego się, w miejscu sprzedaży lub najbliższej okolicy, zakłócenia porządku publicznego w związku ze sprzedażą napojów alkoholowych przez daną placówkę, ” – w pkt 3 wyraz „wprowadzania” zastępuje się wyrazem „wprowadzenia”, – w pkt 4 kropkę zastępuje się przecinkiem, po pkt 4 dodaje się pkt 5 i 6 w brzmieniu: „
+- **5)** przedstawienia fałszywych danych w oświadczeniu, o którym mowa w art. 111 ust. 4,
+- **6)** popełnienia przestępstwa w celu osiągnięcia korzyści majątkowej przez osobę odpowiedzialną za działalność podmiotu gospodarczego posiadającego zezwolenie. ” , po ust. 7 dodaje się ust. 7a w brzmieniu: „
+    - **d)**
 
-7a. Podmiot gospodarczy, któremu cofnięto zezwolenie, może wystąpić z wnioskiem o ponowne wydanie zezwolenia nie wcześniej niż po upływie 3 lat od dnia wydania decyzji o jego cofnięciu. ” , w ust. 8: – w pkt 4 kropkę zastępuje się przecinkiem, – po pkt 4 dodaje się pkt 5 w brzmieniu: „ 5) niedokonania kolejnej wpłaty za zezwolenie w terminie miesiąca od rozpoczęcia kolejnego roku ważności zezwolenia. ” ;
+7a. Podmiot gospodarczy, któremu cofnięto zezwolenie, może wystąpić z wnioskiem o ponowne wydanie zezwolenia nie wcześniej niż po upływie 3 lat od dnia wydania decyzji o jego cofnięciu. ” , w ust. 8: – w pkt 4 kropkę zastępuje się przecinkiem, po pkt 4 dodaje się pkt 5 w brzmieniu: „
 
 - **e)**
+- **5)** niedokonania kolejnej wpłaty za zezwolenie w terminie miesiąca od rozpoczęcia kolejnego roku ważności zezwolenia. ” ;
 - **15)** po art. 18 dodaje się art. 181 w brzmieniu: „
 
 **Art. 181.** Na sprzedaż napojów alkoholowych przeznaczonych do spożycia w czasie i w miejscu organizowanych imprez odbywających się na wolnym powietrzu – podmiotom gospodarczym posiadającym zezwolenia na sprzedaż napojów alkoholowych oraz jednostkom ochotniczych straży pożarnych mogą być wydawane jednorazowe zezwolenia, do których nie stosuje się przepisów art. 18. ” ;

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 5 lipca 2024 r. w sprawie danych udostępnianych właścicielowi budynku lub lokalu z centralnej ewidencji emisyjności budynków oraz informacji, których podanie jest wymagane w celu uzyskania dostępu do tych danych
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 5 lipca 2024 r. w sprawie danych udostępnianych właścicielowi budynku lub lokalu z centralnej ewidencji emisyjności budynków oraz informacji, których podanie jest wymagane w celu uzyskania dostępu do tych danych Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-05 |
 | Data wydania | 2024-07-10 |
-| Wejście w życie | 2024-07-11 |
 | Ostatnia zmiana | 2024-07-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001020) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1020/text.pdf) |
 
@@ -127,6 +126,5 @@ informację o planowanej wymianie źródła ciepła lub źródła spalania paliw
 3)
 dane w zakresie przeprowadzonych kontroli lub czynności, o których mowa w art. 27a ust. 2 pkt 1 lit. d ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, i osobie wprowadzającej te dane i informacje do ewidencji oraz datę wprowadzenia tych danych do ewidencji.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739).
 

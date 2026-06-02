@@ -31,26 +31,24 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 31 października 2007 r. w sprawie rodzajów stanowisk w Agencji Wywiadu, na których występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia, a także innych stanowisk, na których przysługuje prawo do płatnego urlopu dodatkowego, albo gdy jest to uzasadnione szczególnymi właściwościami służby (Dz. U. poz. 1496), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 7 stycznia 2016 r. zmieniającym rozporządzenie w sprawie rodzajów stanowisk w Agencji Wywiadu, na których występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia, a także innych stanowisk, na których przysługuje prawo do płatnego urlopu dodatkowego, albo gdy jest to uzasadnione szczególnymi właściwościami służby (Dz. U. poz. 55).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 7 stycznia 2016 r. zmieniającego rozporządzenie w sprawie rodzajów stanowisk w Agencji Wywiadu, na których występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia, a także innych stanowisk, na których przysługuje prawo do płatnego urlopu dodatkowego, albo gdy jest to uzasadnione szczególnymi właściwościami służby (Dz. U. poz. 55), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 7 stycznia 2016 r. zmieniającego rozporządzenie w sprawie rodzajów stanowisk w Agencji Wywiadu, na których występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia, a także innych stanowisk, na których przysługuje prawo do płatnego urlopu dodatkowego, albo gdy jest to uzasadnione szczególnymi właściwościami służby (Dz. U. poz. 55), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 31 października 2007 r. w sprawie rodzajów stanowisk w Agencji Wywiadu, na których występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia, a także innych stanowisk, na których przysługuje prawo do płatnego urlopu dodatkowego, albo gdy jest to uzasadnione szczególnymi właściwościami służby
 Na podstawie art. 97 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2015 r. poz. 1929 i 2023 oraz z 2016 r. poz. 147, 437, 904 i 960) zarządza się, co następuje:
 § 1.
 Stanowiskami służbowymi w Agencji Wywiadu, na których występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia, a także stanowiskami służbowymi, na których przysługuje prawo do płatnego urlopu dodatkowego, albo gdy jest to uzasadnione szczególnymi właściwościami służby, są stanowiska służbowe, z których opisu wynika konieczność wykonywania obowiązków służbowych z narażeniem funkcjonariusza na:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 7 stycznia 2016 r. zmieniającego rozporządzenie w sprawie rodzajów stanowisk w Agencji Wywiadu, na których występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia, a także innych stanowisk, na których przysługuje prawo do płatnego urlopu dodatkowego, albo gdy jest to uzasadnione szczególnymi właściwościami służby (Dz. U. poz. 55), które weszło w życie z dniem 27 stycznia 2016 r.)
 działanie substancji niebezpiecznych i mieszanin niebezpiecznych w rozumieniu przepisów ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2015 r. poz. 1203);
-2)
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 7 stycznia 2016 r. zmieniającego rozporządzenie w sprawie rodzajów stanowisk w Agencji Wywiadu, na których występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia, a także innych stanowisk, na których przysługuje prawo do płatnego urlopu dodatkowego, albo gdy jest to uzasadnione szczególnymi właściwościami służby (Dz. U. poz. 55), które weszło w życie z dniem 27 stycznia 2016 r.)
 działanie pyłów stanowiących czynniki szkodliwe dla zdrowia, wymienionych w załączniku nr 1 część B do rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 6 czerwca 2014 r. w sprawie najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy (Dz. U. poz. 817 oraz z 2016 r. poz. 944 i 952), zwanego dalej „rozporządzeniem w sprawie najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia”, osiągających najwyższe dopuszczalne stężenie określone w przepisach tego rozporządzenia;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 7 stycznia 2016 r. zmieniającego rozporządzenie w sprawie rodzajów stanowisk w Agencji Wywiadu, na których występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia, a także innych stanowisk, na których przysługuje prawo do płatnego urlopu dodatkowego, albo gdy jest to uzasadnione szczególnymi właściwościami służby (Dz. U. poz. 55), które weszło w życie z dniem 27 stycznia 2016 r.)
 działanie promieniowania optycznego nielaserowego osiągającego maksymalne dopuszczalne ekspozycje oka i skóry, określone w przepisach rozporządzenia w sprawie najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia;
 4)
-(uchylony);
+(uchylony);Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
 5)
 działanie promieniowania laserowego osiągającego maksymalne dopuszczalne ekspozycje oka i skóry, określone w przepisach rozporządzenia w sprawie najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia;
-6)
+6W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.)
 działanie hałasu i hałasu ultradźwiękowego osiągającego najwyższe dopuszczalne natężenie, określone w przepisach rozporządzenia w sprawie najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia;
 7)
 działanie pola i promieniowania elektromagnetycznego o różnych częstotliwościach osiągającego maksymalne dopuszczalne wielkości normatywne, określone w przepisach rozporządzenia w sprawie najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia;
@@ -90,5 +88,5 @@ Traci moc zarządzenie Szefa Urzędu Ochrony Państwa z dnia 21 lipca 1997 r. w 
 2.
 Niewykorzystane do dnia 1 stycznia 2008 r. przez funkcjonariuszy Agencji Wywiadu dni płatnego urlopu dodatkowego z tytułu pełnienia służby w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia, przysługującego tym funkcjonariuszom na podstawie dotychczasowych przepisów, podlegają wykorzystaniu w terminach i na warunkach określonych w przepisach zarządzenia, o którym mowa w ust. 1.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2008 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2008 r. 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 7 stycznia 2016 r. zmieniającego rozporządzenie w sprawie rodzajów stanowisk w Agencji Wywiadu, na których występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia, a także innych stanowisk, na których przysługuje prawo do płatnego urlopu dodatkowego, albo gdy jest to uzasadnione szczególnymi właściwościami służby (Dz. U. poz. 55), które weszło w życie z dniem 27 stycznia 2016 r. 2) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.
 

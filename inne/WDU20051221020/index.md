@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-05-06 |
 | Data wydania | 2005-07-07 |
-| Wejście w życie | 2005-08-07 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051221020) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1020/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 marca 1990 r. o pracownikach samorządowych (Dz. U. z 2001 r. Nr 142, poz. 1593, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 22 marca 1990 r. o pracownikach samorządowych (Dz. U. z 2001 r. Nr 142, poz. 1593, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 214, poz. 1806 oraz z 2005 r. Nr 10, poz. 71 i Nr 23, poz. 192.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3: w ust. 1 pkt 2 otrzymuje brzmienie: „
     - **a)**
@@ -116,11 +115,11 @@ source: "eli-html"
 
 2. Do rozpatrzenia odwołania stosuje się przepisy Kodeksu postępowania cywilnego o apelacji. Od orzeczenia sądu apelacyjnego skarga kasacyjna nie przysługuje. ” .
 
-**Art. 2.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) po art. 5c dodaje się art. 5d w brzmieniu: „
+**Art. 2.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781 oraz z 2005 r. Nr 17, poz. 141 i Nr 94, poz. 788.) po art. 5c dodaje się art. 5d w brzmieniu: „
 
 **Art. 5d.** Status prawny pracowników niebędących nauczycielami zatrudnionych w szkołach i placówkach prowadzonych przez jednostki samorządu terytorialnego określają przepisy o pracownikach samorządowych. ” . W ustawie z dnia 12 października 1994 r. o samorządowych kolegiach odwoławczych (Dz. U. z 2001 r. Nr 79, poz. 856 i Nr 154, poz. 1799, z 2002 r. Nr 153, poz. 1271 oraz z 2005 r. Nr 33, poz. 288) w art. 16d po ust. 6 dodaje się ust. 7 i 8 w brzmieniu: „ 7. Od orzeczeń komisji dyscyplinarnej przy Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych stronom służy odwołanie do właściwego ze względu na miejsce zamieszkania obwinionego sądu apelacyjnego – sądu pracy i ubezpieczeń społecznych. 8. Do rozpatrzenia odwołania stosuje się przepisy Kodeksu postępowania cywilnego o apelacji. Od orzeczenia sądu apelacyjnego skarga kasacyjna nie przysługuje. ” .
 
 **Art. 4.** Pracownicy samorządowi, którzy w dniu wejścia w życie niniejszej ustawy nie spełniają wymagań przewidzianych w ustawie, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, do zajmowanego przez nich stanowiska, mogą nadal być zatrudniani na tych stanowiskach. Postępowania dotyczące naboru na wolne stanowiska urzędnicze w jednostkach, o których mowa w art. 1 ustawy, o której mowa w art. 1, wszczęte na podstawie dotychczasowych przepisów i niezakończone do dnia wejścia w życie niniejszej ustawy ulegają zakończeniu. Ogłoszenie nowego naboru kandydatów na wolne stanowisko następuje na podstawie przepisów niniejszej ustawy.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 214, poz. 1806 oraz z 2005 r. Nr 10, poz. 71 i Nr 23, poz. 192. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781 oraz z 2005 r. Nr 17, poz. 141 i Nr 94, poz. 788.
 

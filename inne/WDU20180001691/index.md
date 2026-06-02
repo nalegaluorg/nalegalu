@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 21 sierpnia 2018 r. zmieniające rozporządzenie w sprawie zaliczek w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 21 sierpnia 2018 r. zmieniające rozporządzenie w sprawie zaliczek w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-08-21 |
 | Data wydania | 2018-09-03 |
-| Wejście w życie | 2018-10-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001691) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1691/text.pdf) |
 
@@ -31,22 +30,17 @@ Na podstawie art. 21 ust. 5 ustawy z dnia 27 maja 2015 r. o finansowaniu wspóln
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 3 listopada 2015 r. w sprawie zaliczek w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1857 oraz z 2017 r. poz. 551) w § 5:
 1)
-w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
-„
+w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
 5)
-zastawu na papierach wartościowych emitowanych przez Skarb Państwa.
-” ;
+zastawu na papierach wartościowych emitowanych przez Skarb Państwa. ” ;
 2)
 w ust. 3:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
-Agencją Restrukturyzacji i Modernizacji Rolnictwa – w przypadku działań i poddziałań wymienionych w art. 20 ust. 1 pkt 1–4 ustawy;
-” ,
+Agencją Restrukturyzacji i Modernizacji Rolnictwa – w przypadku działań i poddziałań wymienionych w art. 20 ust. 1 pkt 1–4 ustawy; ” ,
 b)
 uchyla się pkt 2.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 

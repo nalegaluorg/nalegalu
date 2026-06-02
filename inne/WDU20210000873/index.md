@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 2 maja 2021 r. w sprawie szczegółowego zakresu danych zawartych w centralnych rejestrach prowadzonych przez Zakład Ubezpieczeń Społecznych
+# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 2 maja 2021 r. w sprawie szczegółowego zakresu danych zawartych w centralnych rejestrach prowadzonych przez Zakład Ubezpieczeń Społecznych Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. poz. 1723).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-02 |
 | Data wydania | 2021-05-10 |
-| Wejście w życie | 2021-05-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000873) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/873/text.pdf) |
 
@@ -63,6 +62,5 @@ dane adresowe członka rodziny ubezpieczonego: kod pocztowy, miejscowość, gmin
 3)
 dane dotyczące oddziału wojewódzkiego Narodowego Funduszu Zdrowia właściwego dla członka rodziny ubezpieczonego.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 16 maja 2021 r.
-1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. poz. 1723). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 21 grudnia 2009 r. w sprawie szczegółowego zakresu danych zawartych w centralnych rejestrach prowadzonych przez Zakład Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 219), które zgodnie z art. 76 pkt 3 lit. a ustawy z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875, 1086, 2255 i 2320 oraz z 2021 r. poz. 159) traci moc z dniem 16 maja 2021 r.
+Rozporządzenie wchodzi w życie z dniem 16 maja 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 21 grudnia 2009 r. w sprawie szczegółowego zakresu danych zawartych w centralnych rejestrach prowadzonych przez Zakład Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 219), które zgodnie z art. 76 pkt 3 lit. a ustawy z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875, 1086, 2255 i 2320 oraz z 2021 r. poz. 159) traci moc z dniem 16 maja 2021 r. 1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. poz. 1723). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 21 grudnia 2009 r. w sprawie szczegółowego zakresu danych zawartych w centralnych rejestrach prowadzonych przez Zakład Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 219), które zgodnie z art. 76 pkt 3 lit. a ustawy z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875, 1086, 2255 i 2320 oraz z 2021 r. poz. 159) traci moc z dniem 16 maja 2021 r.
 

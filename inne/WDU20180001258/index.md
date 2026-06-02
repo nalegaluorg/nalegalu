@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-21 |
 | Data wydania | 2018-06-28 |
-| Wejście w życie | 2018-06-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001258) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1258/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 103 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 103 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 3, 5, 106, 138, 771, 848, 1000 i 1045.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób i tryb ustalania i wypłacania uposażeń sędziom w stanie spoczynku oraz uposażeń rodzinnych członkom rodzin sędziów i sędziów w stanie spoczynku oraz terminy przekazania do Zakładu Ubezpieczeń Społecznych składek, o których mowa w art. 91 § 10 i 11 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
 § 2.
@@ -35,7 +34,7 @@ Ilekroć w rozporządzeniu jest mowa o osobie uprawnionej, rozumie się przez to
 1)
 sędziego w stanie spoczynku;
 2)
-członka rodziny zmarłego sędziego lub sędziego w stanie spoczynku, spełniającego warunki wymagane do uzyskania renty rodzinnej na podstawie przepisów ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2017 r. poz. 1383, z późn. zm.);
+członka rodziny zmarłego sędziego lub sędziego w stanie spoczynku, spełniającego warunki wymagane do uzyskania renty rodzinnej na podstawie przepisów ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2017 r. poz. 1383, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1386 i 2120 oraz z 2018 r. poz. 138, 357, 730, 912 i 1076.);
 3)
 byłego sędziego, o którym mowa w art. 200 § 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
 § 3.
@@ -93,5 +92,5 @@ uposażenia sędziom, którzy do dnia 31 grudnia 2008 r. przeszli w stan spoczyn
 2)
 uposażenia rodzinnego członkom rodzin sędziów, o których mowa w pkt 1.
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 20 stycznia 2017 r. w sprawie uposażeń oraz uposażeń rodzinnych sędziów w stanie spoczynku i członków ich rodzin oraz terminów przekazania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenie społeczne (Dz. U. poz. 199), które utraciło moc na podstawie art. 24 ust. 3 ustawy z dnia 11 maja 2017 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury, ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1139). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 3, 5, 106, 138, 771, 848, 1000 i 1045. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1386 i 2120 oraz z 2018 r. poz. 138, 357, 730, 912 i 1076. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 20 stycznia 2017 r. w sprawie uposażeń oraz uposażeń rodzinnych sędziów w stanie spoczynku i członków ich rodzin oraz terminów przekazania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenie społeczne (Dz. U. poz. 199), które utraciło moc na podstawie art. 24 ust. 3 ustawy z dnia 11 maja 2017 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury, ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1139).
 

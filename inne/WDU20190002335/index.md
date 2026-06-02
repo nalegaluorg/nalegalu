@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 27 listopada 2019 r. w sprawie zakresu zadań lekarza podstawowej opieki zdrowotnej, pielęgniarki podstawowej opieki zdrowotnej i położnej podstawowej opieki zdrowotnej
+# Rozporządzenie Ministra Zdrowiaz dnia 27 listopada 2019 r. w sprawie zakresu zadań lekarza podstawowej opieki zdrowotnej, pielęgniarki podstawowej opieki zdrowotnej i położnej podstawowej opieki zdrowotnej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-11-27 |
 | Data wydania | 2019-11-29 |
-| Wejście w życie | 2019-12-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002335) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2335/text.pdf) |
 
@@ -39,8 +38,7 @@ Ustala się zakres zadań lekarza podstawowej opieki zdrowotnej, który określa
 § 2.
 Ustala się zakres zadań pielęgniarki podstawowej opieki zdrowotnej i położnej podstawowej opieki zdrowotnej, który określa załącznik nr 2 do rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 2 grudnia 2019 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 21 września 2016 r. w sprawie zakresu zadań lekarza podstawowej opieki zdrowotnej, pielęgniarki podstawowej opieki zdrowotnej i położnej podstawowej opieki zdrowotnej (Dz. U. poz. 1567), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 35 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2019 r. poz. 357, 730 i 1590).
+Rozporządzenie wchodzi w życie z dniem 2 grudnia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 21 września 2016 r. w sprawie zakresu zadań lekarza podstawowej opieki zdrowotnej, pielęgniarki podstawowej opieki zdrowotnej i położnej podstawowej opieki zdrowotnej (Dz. U. poz. 1567), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 35 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2019 r. poz. 357, 730 i 1590). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 21 września 2016 r. w sprawie zakresu zadań lekarza podstawowej opieki zdrowotnej, pielęgniarki podstawowej opieki zdrowotnej i położnej podstawowej opieki zdrowotnej (Dz. U. poz. 1567), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 35 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2019 r. poz. 357, 730 i 1590).
 
 ## Załącznik nr 1 — – Zakres zadań lekarza podstawowej opieki zdrowotnej
 

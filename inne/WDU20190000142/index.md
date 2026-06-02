@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 10 stycznia 2019 r. zmieniające rozporządzenie w sprawie wymagań, którym powinny odpowiadać instalacje pomiarowe do ciągłego i dynamicznego pomiaru ilości cieczy innych niż woda, oraz szczegółowego zakresu badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych
+# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 10 stycznia 2019 r. zmieniające rozporządzenie w sprawie wymagań, którym powinny odpowiadać instalacje pomiarowe do ciągłego i dynamicznego pomiaru ilości cieczy innych niż woda, oraz szczegółowego zakresu badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-01-10 |
 | Data wydania | 2019-01-24 |
-| Wejście w życie | 2019-02-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000142) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/142/text.pdf) |
 
@@ -33,12 +32,11 @@ Treść rozporządzenia
 ## Załącznik nr 2 — – Błędy wskazań współpracujących przyrządów pomiarowych w przypadku oddzielnego sprawdzania części przelicznika
 
 Treść rozporządzenia
-Na podstawie art. 9a pkt 1 i 2 ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2018 r. poz. 376, 650, 1338, 1480 i 1669) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 5 lipca 2018 r., pod numerem 2018/320/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 9a pkt 1 i 2 ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2018 r. poz. 376, 650, 1338, 1480 i 1669) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Gospodarki z dnia 27 grudnia 2007 r. w sprawie wymagań, którym powinny odpowiadać instalacje pomiarowe do ciągłego i dynamicznego pomiaru ilości cieczy innych niż woda, oraz szczegółowego zakresu badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych (Dz. U. z 2008 r. poz. 23 oraz z 2010 r. poz. 1238) wprowadza się następujące zmiany:
 1)
-§ 1 otrzymuje brzmienie:
-„
+§ 1 otrzymuje brzmienie: „
 § 1.
 Rozporządzenie określa:
 1)
@@ -46,25 +44,19 @@ wymagania w zakresie wykonania i charakterystyk metrologicznych instalacji pomia
 2)
 szczegółowy zakres badań i sprawdzeń wykonywanych podczas legalizacji ponownej instalacji pomiarowych do ciągłego i dynamicznego pomiaru ilości cieczy innych niż woda;
 3)
-wymagania w zakresie warunków właściwego stosowania instalacji pomiarowych do ciągłego i dynamicznego pomiaru ilości cieczy innych niż woda.
-” ;
+wymagania w zakresie warunków właściwego stosowania instalacji pomiarowych do ciągłego i dynamicznego pomiaru ilości cieczy innych niż woda. ” ;
 2)
-w § 2 pkt 1 otrzymuje brzmienie:
-„
+w § 2 pkt 1 otrzymuje brzmienie: „
 1)
-na podstawie decyzji zatwierdzenia typu wydanych przed dniem 7 stycznia 2007 r. lub legalizacji pierwotnej;
-” ;
+na podstawie decyzji zatwierdzenia typu wydanych przed dniem 7 stycznia 2007 r. lub legalizacji pierwotnej; ” ;
 3)
-w § 4 pkt 3c otrzymuje brzmienie:
-„
+w § 4 pkt 3c otrzymuje brzmienie: „
 3c)
-sprzedaż konsumencka – umowę sprzedaży zawartą przez kupującego będącego konsumentem, przy której podstawą do ustalenia ceny jest wynik pomiaru dokonanego instalacją pomiarową;
-” ;
+sprzedaż konsumencka – umowę sprzedaży zawartą przez kupującego będącego konsumentem, przy której podstawą do ustalenia ceny jest wynik pomiaru dokonanego instalacją pomiarową; ” ;
 4)
 tytuł rozdziału 2 otrzymuje brzmienie: „ Wymagania w zakresie wykonania i charakterystyk metrologicznych instalacji pomiarowych ” ;
 5)
-w § 5 ust. 1 otrzymuje brzmienie:
-„
+w § 5 ust. 1 otrzymuje brzmienie: „
 1.
 Na instalacji pomiarowej, o której mowa w § 2 pkt 1, powinny być naniesione w sposób trwały następujące oznaczenia:
 1)
@@ -86,22 +78,18 @@ minimalne i maksymalne ciśnienie robocze;
 9)
 rodzaj cieczy lub graniczne wartości lepkości kinetycznej i dynamicznej, jeżeli nie wynikają one z rodzaju cieczy;
 10)
-zakres temperatury mierzonej cieczy, jeżeli możliwe jest mierzenie cieczy o temperaturze niższej niż −10°C lub wyższej niż +50°C.
-” ;
+zakres temperatury mierzonej cieczy, jeżeli możliwe jest mierzenie cieczy o temperaturze niższej niż −10°C lub wyższej niż +50°C. ” ;
 6)
-po § 5 dodaje się § 5a w brzmieniu:
-„
+po § 5 dodaje się § 5a w brzmieniu: „
 § 5a.
 1.
 Wartość bezwzględna różnicy pomiędzy zaprogramowaną wartością objętości a wartością objętości wskazaną po zakończeniu pomiaru w znamionowych warunkach użytkowania nie może być większa od wartości odchylenia dawki lub należności minimalnej.
 2.
 Wartość bezwzględna różnicy pomiędzy należnością określoną na wydruku a należnością obliczoną na podstawie ceny jednostkowej i wskazanej objętości cieczy nie może być większa od połowy wartości odchylenia należności minimalnej w przypadku liczydła o ruchu ciągłym elementu wskazującego lub połowy wartości działki elementarnej liczydła należności w przypadku liczydła o ruchu przerywanym elementu wskazującego.
 3.
-Wartość bezwzględna różnicy pomiędzy należnością wskazaną przez urządzenie wskazujące należność i należnością obliczoną na podstawie ceny jednostkowej i wskazanej objętości cieczy nie może być większa od połowy wartości odchylenia należności minimalnej w przypadku liczydła o ruchu ciągłym elementu wskazującego lub połowy wartości działki elementarnej liczydła należności w przypadku liczydła o ruchu przerywanym elementu wskazującego.
-” ;
+Wartość bezwzględna różnicy pomiędzy należnością wskazaną przez urządzenie wskazujące należność i należnością obliczoną na podstawie ceny jednostkowej i wskazanej objętości cieczy nie może być większa od połowy wartości odchylenia należności minimalnej w przypadku liczydła o ruchu ciągłym elementu wskazującego lub połowy wartości działki elementarnej liczydła należności w przypadku liczydła o ruchu przerywanym elementu wskazującego. ” ;
 7)
-§ 6 otrzymuje brzmienie:
-„
+§ 6 otrzymuje brzmienie: „
 § 6.
 1.
 Względne błędy graniczne dopuszczalne wskazań liczników i instalacji pomiarowych w zależności od klasy dokładności określa załącznik nr 1 do rozporządzenia.
@@ -110,22 +98,17 @@ Błędy graniczne dopuszczalne instalacji pomiarowej w zależności od jej klasy
 3.
 Błędy graniczne dopuszczalne wskazań przeliczonych spowodowane przez przelicznik wynoszą ± (A – B), gdzie A i B są wartościami określonymi w wierszach A i B tabeli określonej w załączniku nr 1 do rozporządzenia.
 4.
-Dla części przelicznika, które mogą być sprawdzane oddzielnie, błędy wskazań współpracujących przyrządów pomiarowych określa załącznik nr 2 do rozporządzenia.
-” ;
+Dla części przelicznika, które mogą być sprawdzane oddzielnie, błędy wskazań współpracujących przyrządów pomiarowych określa załącznik nr 2 do rozporządzenia. ” ;
 8)
-w § 7 ust. 1 otrzymuje brzmienie:
-„
+w § 7 ust. 1 otrzymuje brzmienie: „
 1.
-Wartości względnych błędów granicznych dopuszczalnych dla wskazań objętości cieczy równych wartości dawki minimalnej równej lub większej niż 2 dm3 są dwukrotnie większe od wartości, o których mowa w § 6 ust. 1.
-” ;
+Wartości względnych błędów granicznych dopuszczalnych dla wskazań objętości cieczy równych wartości dawki minimalnej równej lub większej niż 2 dm3 są dwukrotnie większe od wartości, o których mowa w § 6 ust. 1. ” ;
 9)
 uchyla się § 7a-7c;
 10)
-§ 7d otrzymuje brzmienie:
-„
+§ 7d otrzymuje brzmienie: „
 § 7d.
-Instalacje pomiarowe, o których mowa w § 2 pkt 1, powinny być stosowane zgodnie z przeznaczeniem i warunkami wynikającymi z oznaczeń zamieszczonych na danej instalacji pomiarowej, a jeżeli z tych oznaczeń nie wynikają warunki właściwego stosowania, zgodnie z warunkami określonymi w decyzji zatwierdzenia typu lub warunkami określonymi przez producenta instalacji pomiarowej.
-” ;
+Instalacje pomiarowe, o których mowa w § 2 pkt 1, powinny być stosowane zgodnie z przeznaczeniem i warunkami wynikającymi z oznaczeń zamieszczonych na danej instalacji pomiarowej, a jeżeli z tych oznaczeń nie wynikają warunki właściwego stosowania, zgodnie z warunkami określonymi w decyzji zatwierdzenia typu lub warunkami określonymi przez producenta instalacji pomiarowej. ” ;
 11)
 tytuł rozdziału 3 otrzymuje brzmienie: „ Szczegółowy zakres badań i sprawdzeń wykonywanych podczas legalizacji ponownej instalacji pomiarowych ” ;
 12)
@@ -143,8 +126,7 @@ w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podczas legalizacji
 c)
 w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podczas legalizacji ponownej instalacji pomiarowej do cieczy kriogenicznych należy określić wartości względnych błędów wskazań przy wartości strumienia objętości zawartego w przedziale: ” ,
 d)
-po ust. 3 dodaje się ust. 3a i 3b w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
 3a.
 Podczas legalizacji ponownej instalacji pomiarowej do przyjmowania mleka należy określić wartości względnych błędów wskazań przy wartości strumienia objętości:
 1)
@@ -156,8 +138,7 @@ Podczas legalizacji ponownej instalacji pomiarowej do wydawania mleka należy ok
 1)
 od 0,9 QRmax do QRmax – trzy pomiary;
 2)
-od Qmin do QRmax, dla objętości cieczy równej wartości dawki minimalnej – trzy pomiary.
-” ,
+od Qmin do QRmax, dla objętości cieczy równej wartości dawki minimalnej – trzy pomiary. ” ,
 e)
 w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podczas legalizacji ponownej instalacji pomiarowej do cieczy, z wyłączeniem gazu ciekłego propan-butan i cieczy kriogenicznych, montowanej w rurociągu, należy określić wartości względnych błędów wskazań przy wartości strumienia objętości zawartego w przedziale: ” ,
 f)
@@ -183,37 +164,33 @@ w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podczas legalizacji
 b)
 w ust. 2:
 – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podczas legalizacji ponownej instalacji pomiarowej, o której mowa w § 2 pkt 1, w zakresie sprawdzenia poprawności działania programatora należy: ” ,
-– pkt 1 otrzymuje brzmienie: „ 1) określić różnicę pomiędzy zaprogramowaną wartością objętości a wartością objętości wskazaną po zakończeniu pomiaru; ” ,
+pkt 1 otrzymuje brzmienie: „
+1)
+określić różnicę pomiędzy zaprogramowaną wartością objętości a wartością objętości wskazaną po zakończeniu pomiaru; ” ,
 c)
 w ust. 3:
 – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podczas legalizacji ponownej instalacji pomiarowej, o której mowa w § 2 pkt 1, w zakresie sprawdzenia poprawności działania drukarki należy sprawdzić, czy: ” ,
-– w pkt 3 lit. c otrzymuje brzmienie: „ c) należnością określoną na wydruku a należnością obliczoną na podstawie ceny jednostkowej i wskazanej objętości cieczy, na podstawie jednego pomiaru, nie przekracza wymaganej wartości. ” ;
+w pkt 3 lit. c otrzymuje brzmienie: „
+c)
+należnością określoną na wydruku a należnością obliczoną na podstawie ceny jednostkowej i wskazanej objętości cieczy, na podstawie jednego pomiaru, nie przekracza wymaganej wartości. ” ;
 15)
 uchyla się § 11;
 16)
-§ 12 otrzymuje brzmienie:
-„
+§ 12 otrzymuje brzmienie: „
 § 12.
-Podczas legalizacji ponownej odmierzacza paliw ciekłych innych niż gazy ciekłe lub odmierzacza gazu ciekłego propan-butan, będących instalacjami pomiarowymi, o których mowa w § 2 pkt 1, należy określić różnicę pomiędzy należnością wskazaną przez urządzenie wskazujące należność i należnością obliczoną na podstawie ceny jednostkowej i wskazanej objętości cieczy, na podstawie jednego pomiaru.
-” ;
+Podczas legalizacji ponownej odmierzacza paliw ciekłych innych niż gazy ciekłe lub odmierzacza gazu ciekłego propan-butan, będących instalacjami pomiarowymi, o których mowa w § 2 pkt 1, należy określić różnicę pomiędzy należnością wskazaną przez urządzenie wskazujące należność i należnością obliczoną na podstawie ceny jednostkowej i wskazanej objętości cieczy, na podstawie jednego pomiaru. ” ;
 17)
-w § 13 ust. 1 otrzymuje brzmienie:
-„
+w § 13 ust. 1 otrzymuje brzmienie: „
 1.
-Podczas legalizacji ponownej odmierzacza paliw ciekłych innych niż gazy ciekłe lub odmierzacza gazu ciekłego propan-butan, będących instalacjami pomiarowymi, o których mowa w § 2 pkt 1, należy porównać wskazanie odmierzacza z wydrukiem urządzenia wtórnego, jeżeli urządzenie takie jest podłączone do odmierzacza.
-” ;
+Podczas legalizacji ponownej odmierzacza paliw ciekłych innych niż gazy ciekłe lub odmierzacza gazu ciekłego propan-butan, będących instalacjami pomiarowymi, o których mowa w § 2 pkt 1, należy porównać wskazanie odmierzacza z wydrukiem urządzenia wtórnego, jeżeli urządzenie takie jest podłączone do odmierzacza. ” ;
 18)
-po § 13 dodaje się § 13a w brzmieniu:
-„
+po § 13 dodaje się § 13a w brzmieniu: „
 § 13a.
-W przypadku instalacji pomiarowej, o której mowa w § 2 pkt 1, z wyłączeniem instalacji pomiarowej, której typ został zatwierdzony na podstawie ustawy z dnia 11 maja 2001 r. – Prawo o miarach, nie wykonuje się czynności określonych w § 10 ust. 1 pkt 2 lit. b i c, ust. 2 pkt 2 lit. b i ust. 3 pkt 3 lit. a.
-” ;
+W przypadku instalacji pomiarowej, o której mowa w § 2 pkt 1, z wyłączeniem instalacji pomiarowej, której typ został zatwierdzony na podstawie ustawy z dnia 11 maja 2001 r. – Prawo o miarach, nie wykonuje się czynności określonych w § 10 ust. 1 pkt 2 lit. b i c, ust. 2 pkt 2 lit. b i ust. 3 pkt 3 lit. a. ” ;
 19)
-w § 14 w ust. 1 w pkt 2 w lit. f kropkę zastępuje się przecinkiem i dodaje się lit. g w brzmieniu:
-„
+w § 14 w ust. 1 w pkt 2 w lit. f kropkę zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „
 g)
-wartości względnych błędów wskazań współpracujących przyrządów pomiarowych, jeżeli są stosowane.
-” ;
+wartości względnych błędów wskazań współpracujących przyrządów pomiarowych, jeżeli są stosowane. ” ;
 20)
 w § 15:
 a)
@@ -229,8 +206,7 @@ w ust. 10 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podczas legalizacj
 f)
 w ust. 11 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podczas legalizacji ponownej instalacji pomiarowej do cieczy kriogenicznych należy określić wartości względnych błędów wskazań przy wartości strumienia objętości zawartego w przedziale: ” ,
 g)
-dodaje się ust. 13 i 14 w brzmieniu:
-„
+dodaje się ust. 13 i 14 w brzmieniu: „
 13.
 Podczas legalizacji ponownej instalacji pomiarowych służących do przyjmowania cieczy innych niż woda, niewymienionych w ust. 1–12, należy określić wartości względnych błędów wskazań przy wartości strumienia objętości:
 1)
@@ -244,38 +220,29 @@ od 0,9 QRmax do QRmax – trzy pomiary;
 2)
 od 0,5 QRmax do 0,7 QRmax – trzy pomiary;
 3)
-od Qmin do QRmax, dla objętości cieczy równej wartości dawki minimalnej – trzy pomiary.
-” ;
+od Qmin do QRmax, dla objętości cieczy równej wartości dawki minimalnej – trzy pomiary. ” ;
 21)
 w § 16 w ust. 1:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
-wskazania urządzeń wchodzących w skład instalacji pomiarowej są prawidłowe;
-” ,
+wskazania urządzeń wchodzących w skład instalacji pomiarowej są prawidłowe; ” ,
 b)
-w pkt 6 lit. c otrzymuje brzmienie:
-„
+w pkt 6 lit. c otrzymuje brzmienie: „
 c)
-należnością określoną na wydruku a należnością obliczoną na podstawie ceny jednostkowej i wskazanej objętości cieczy nie jest większa od odchylenia należności minimalnej, z zastrzeżeniem że dopuszczalna jest różnica w wysokości 1 grosza.
-” ;
+należnością określoną na wydruku a należnością obliczoną na podstawie ceny jednostkowej i wskazanej objętości cieczy nie jest większa od odchylenia należności minimalnej, z zastrzeżeniem że dopuszczalna jest różnica w wysokości 1 grosza. ” ;
 22)
 w § 17:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Jeżeli instalacja pomiarowa w rurociągu jest wyposażona w elementy umożliwiające jej podłączenie do wzorca objętości, podczas legalizacji ponownej sprawdzenia dokonuje się za pomocą podłączonego do instalacji pomiarowej wzorca objętości.
-” ,
+Jeżeli instalacja pomiarowa w rurociągu jest wyposażona w elementy umożliwiające jej podłączenie do wzorca objętości, podczas legalizacji ponownej sprawdzenia dokonuje się za pomocą podłączonego do instalacji pomiarowej wzorca objętości. ” ,
 b)
 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Jeżeli instalacja pomiarowa w rurociągu nie jest wyposażona w elementy umożliwiające jej podłączenie do wzorca objętości, podczas legalizacji ponownej: ” ;
 23)
-§ 18 otrzymuje brzmienie:
-„
+§ 18 otrzymuje brzmienie: „
 § 18.
-Badania i sprawdzenia wykonywane podczas legalizacji ponownej instalacji pomiarowych są przeprowadzane w miejscu ich zainstalowania lub miejscu ich użytkowania, z zastrzeżeniem § 17 ust. 2.
-” ;
+Badania i sprawdzenia wykonywane podczas legalizacji ponownej instalacji pomiarowych są przeprowadzane w miejscu ich zainstalowania lub miejscu ich użytkowania, z zastrzeżeniem § 17 ust. 2. ” ;
 24)
 załącznik do rozporządzenia otrzymuje oznaczenie załącznika nr 1 i brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 25)
@@ -283,8 +250,7 @@ dodaje się załącznik nr 2 do rozporządzenia w brzmieniu określonym w załą
 § 2.
 Do legalizacji ponownej instalacji pomiarowych do ciągłego i dynamicznego pomiaru ilości cieczy innych niż woda w sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 5 lipca 2018 r., pod numerem 2018/320/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 5 lipca 2018 r., pod numerem 2018/320/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 
 ## Załącznik nr 1 — – Względne błędy graniczne dopuszczalne wskazań liczników i instalacji pomiarowych w zależności od klasy dokładności
 
@@ -292,5 +258,7 @@ Błąd graniczny dopuszczalny Klasa dokładności 0,3 0,5 1,0 1,5 2,5 (A) Instal
 
 ## Załącznik nr 2 — – Błędy wskazań współpracujących przyrządów pomiarowych w przypadku oddzielnego sprawdzania części przelicznika
 
-Błąd graniczny dopuszczalny Klasa dokładności instalacji pomiarowej 0,3 0,5 1,0 1,5 2,5 Temperatura ±0,3°C ±0,5°C ± 1,0°C Ciśnienie mniejsze niż 1 MPa: ± 50 kPaod 1 MPa do 4 MPa: ± 5%większe niż 4 MPa: ± 200 kPa Gęstość ± 1 kg/m3 ± 2 kg/m3 ± 5 kg/m3
+Błąd graniczny dopuszczalny Klasa dokładności instalacji pomiarowej 0,3 0,5 1,0 1,5 2,5 Temperatura ±0,3°C ±0,5°C ± 1,0°C Ciśnienie mniejsze niż 1 MPa: ± 50 kPa
+od 1 MPa do 4 MPa: ± 5%
+większe niż 4 MPa: ± 200 kPa Gęstość ± 1 kg/m3 ± 2 kg/m3 ± 5 kg/m3
 

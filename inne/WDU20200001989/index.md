@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-06 |
 | Data wydania | 2020-11-12 |
-| Wejście w życie | 2020-11-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001989) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1989/text.pdf) |
 
@@ -35,8 +34,7 @@ Wniosek o dofinansowanie kosztów zaopatrzenia w wyroby medyczne kwotą wykracza
 1)
 weteran poszkodowany-funkcjonariusz ABW do jednostki organizacyjnej ABW właściwej w sprawach osobowych,
 2)
-weteran poszkodowany-funkcjonariusz AW do komórki organizacyjnej AW właściwej do spraw lecznictwa
-w terminie 7 dni od dnia otrzymania zlecenia na zaopatrzenie w wyroby medyczne, o którym mowa w art. 47 ust. 2a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+weteran poszkodowany-funkcjonariusz AW do komórki organizacyjnej AW właściwej do spraw lecznictwa – w terminie 7 dni od dnia otrzymania zlecenia na zaopatrzenie w wyroby medyczne, o którym mowa w art. 47 ust. 2a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 § 3.
 1.
 Wniosek o dofinansowanie zawiera:
@@ -63,5 +61,5 @@ cenę wyrobu medycznego potwierdzoną przez podmiot realizujący czynności z za
 2.
 Do wniosku o dofinansowanie dołącza się kopię orzeczenia komisji lekarskiej podległej odpowiednio Szefowi ABW albo Szefowi AW o związku urazu lub choroby z działaniami podczas wykonywania zadań poza granicami państwa lub kopię wypisu z treści takiego orzeczenia.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 5 lutego 2013 r. w sprawie dofinansowania kosztów zaopatrzenia w wyroby medyczne weteranowi poszkodowanemu-funkcjonariuszowi Agencji Bezpieczeństwa Wewnętrznego lub Agencji Wywiadu (Dz. U. poz. 197), które na podstawie art. 19 ust. 1 pkt 6 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) utraciło moc z dniem 11 października 2020 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 5 lutego 2013 r. w sprawie dofinansowania kosztów zaopatrzenia w wyroby medyczne weteranowi poszkodowanemu-funkcjonariuszowi Agencji Bezpieczeństwa Wewnętrznego lub Agencji Wywiadu (Dz. U. poz. 197), które na podstawie art. 19 ust. 1 pkt 6 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) utraciło moc z dniem 11 października 2020 r.
 

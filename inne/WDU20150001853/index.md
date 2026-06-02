@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-20 |
 | Data wydania | 2015-11-12 |
-| Wejście w życie | 2015-11-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001853) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1853/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie suwalskiej specjalnej strefy ekonomicznej (Dz. U. z 2014 r. poz. 1103) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 635,0653 ha, położone na terenach miast: Białystok, Bielsk Podlaski, Ełk, Grajewo, Hajnówka, Łomża, Olecko, Ostrów Mazowiecka, Sejny i Suwałki oraz gmin: Czyżew, Gołdap, Małkinia Górna, Narewka, Nowogród, Siemiatycze, Suwałki, Szczuczyn i Zabłudów.
-” ;
+Strefa obejmuje grunty o powierzchni 635,0653 ha, położone na terenach miast: Białystok, Bielsk Podlaski, Ełk, Grajewo, Hajnówka, Łomża, Olecko, Ostrów Mazowiecka, Sejny i Suwałki oraz gmin: Czyżew, Gołdap, Małkinia Górna, Narewka, Nowogród, Siemiatycze, Suwałki, Szczuczyn i Zabłudów. ” ;
 2)
 w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU SUWALSKIEJ SPECJALNEJ STREFY EKONOMICZNEJ:
 a)

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-05 |
 | Data wydania | 2022-08-17 |
-| Wejście w życie | 2022-08-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001713) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1713/text.pdf) |
 
@@ -76,9 +75,9 @@ source: "eli-html"
 - **1)** zapewnia ciągłość działalności przedsiębiorstwa podmiotu gospodarczego,
 - **2)** zarządza przedsiębiorstwem, w szczególności na zarządcę przechodzi prawo podejmowania uchwał i decyzji we wszystkich sprawach zastrzeżonych do właściwości władz i organów podmiotu gospodarczego,
 - **3)** wykonuje uprawnienia przysługujące osobie lub podmiotowi wpisanym na listę, wobec których został ustanowiony zarząd, w szczególności wykonuje prawa z akcji należących do takiej osoby lub podmiotu,
-- **4)** podejmuje działania niezbędne do zapobieżenia wykorzystaniu środków finansowych, funduszy lub zasobów gospodarczych objętych zarządem w celu bezpośredniego lub pośredniego wspierania agresji, naruszeń lub innych działań określonych w art. 3 ust. 2 do czasu zbycia całości środków finansowych, funduszy lub zasobów gospodarczych objętych zarządem.
+- **4)** podejmuje działania niezbędne do zapobieżenia wykorzystaniu środków finansowych, funduszy lub zasobów gospodarczych objętych zarządem w celu bezpośredniego lub pośredniego wspierania agresji, naruszeń lub innych działań określonych w art. 3 ust. 2 – do czasu zbycia całości środków finansowych, funduszy lub zasobów gospodarczych objętych zarządem.
 
-12. W celu realizacji zadań, o których mowa w ust. 11, zarządca posiada dostęp do wszystkich danych i informacji dotyczących podmiotu gospodarczego, w szczególności do informacji objętych tajemnicą bankową, o której mowa w przepisach ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2021 r. poz. 2439, z późn. zm.), oraz posiada uprawnienia do dokonywania czynności wynikających z dostępu do tych danych i informacji.
+12. W celu realizacji zadań, o których mowa w ust. 11, zarządca posiada dostęp do wszystkich danych i informacji dotyczących podmiotu gospodarczego, w szczególności do informacji objętych tajemnicą bankową, o której mowa w przepisach ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2021 r. poz. 2439, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2447 oraz z 2022 r. poz. 830, 872, 1358, 1488 i 1692.), oraz posiada uprawnienia do dokonywania czynności wynikających z dostępu do tych danych i informacji.
 
 13. Zarządca jest obowiązany do bieżącego przekazywania ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw gospodarki informacji o podjętych działaniach, o których mowa w ust. 10 i ust. 11 pkt 4, oraz o każdym przypadku zbycia środków finansowych, funduszy lub zasobów gospodarczych objętych zarządem w ramach czynności przekraczających zwykły zarząd oraz do przekazywania, na ich żądanie, szczegółowych wyjaśnień w zakresie objętym zarządem.
 
@@ -151,7 +150,7 @@ source: "eli-html"
 4. Uprawnionymi do świadczeń, o których mowa w ust. 1, są:
 
 - **1)** pracownik w rozumieniu art. 10 ustawy o ochronie roszczeń pracowniczych,
-- **2)** były pracownik oraz uprawniony do renty rodzinnej członek rodziny zmarłego pracownika lub zmarłego byłego pracownika, o których mowa w art. 11 ustawy o ochronie roszczeń pracowniczych zwani dalej „osobami uprawnionymi”.
+- **2)** były pracownik oraz uprawniony do renty rodzinnej członek rodziny zmarłego pracownika lub zmarłego byłego pracownika, o których mowa w art. 11 ustawy o ochronie roszczeń pracowniczych – zwani dalej „osobami uprawnionymi”.
 
 5. Wypłata świadczeń, o których mowa w ust. 1, może nastąpić także na podstawie wniosku osoby uprawnionej złożonego nie wcześniej niż po upływie 2 tygodni od dnia upływu terminu złożenia wniosku, o którym mowa w ust. 3.
 
@@ -162,7 +161,7 @@ source: "eli-html"
 8. Dołączane do wniosku, o którym mowa:
 
 - **1)** w ust. 1, oświadczenia, o których mowa w art. 15 ust. 3a ustawy o ochronie roszczeń pracowniczych,
-- **2)** w ust. 5, oświadczenie o zatrudnieniu u pracodawcy oraz rodzaju i wysokości niezaspokojonych roszczeń oraz oświadczenia, o których mowa w art. 12a ust. 5 pkt 3 i 4 ustawy o ochronie roszczeń pracowniczych składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+- **2)** w ust. 5, oświadczenie o zatrudnieniu u pracodawcy oraz rodzaju i wysokości niezaspokojonych roszczeń oraz oświadczenia, o których mowa w art. 12a ust. 5 pkt 3 i 4 ustawy o ochronie roszczeń pracowniczych – składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 
 9. Po otrzymaniu wniosku, o którym mowa w ust. 1 lub 5, marszałek województwa może wystąpić do właściwej terenowej jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych o przekazanie wykazu ubezpieczonych zgłoszonych do ubezpieczeń społecznych przez pracodawcę, którego dotyczy wniosek, wskazując w wystąpieniu:
 
@@ -207,5 +206,5 @@ source: "eli-html"
 
 **Art. 5.** Przepisy art. 6a, art. 6b i art. 6e ustawy zmienianej w art. 1 stosuje się również w przypadku, gdy środek, o którym mowa w art. 1 pkt 1 albo 2 tej ustawy, został zastosowany przed dniem wejścia w życie niniejszej ustawy. W przypadku określonym w art. 5 termin złożenia wniosku określony w art. 6e ust. 3 ustawy zmienianej w art. 1 liczy się od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 7.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2447 oraz z 2022 r. poz. 830, 872, 1358, 1488 i 1692.
 

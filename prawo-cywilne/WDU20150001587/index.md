@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-05 |
 | Data wydania | 2015-10-12 |
-| Wejście w życie | 2016-01-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001587) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1587/text.pdf) |
 
@@ -72,7 +71,7 @@ source: "eli-html"
 - **9)** w art. 8: ust. 1 i 2 otrzymują brzmienie: „
     - **a)**
 
-1. Organem właściwym w sprawach o przyznanie kompensaty jest sąd rejonowy właściwy ze względu na miejsce stałego pobytu osoby uprawnionej, zwany dalej „organem orzekającym”. W postępowaniu przed organem orzekającym w sprawach nieuregulowanych w ustawie stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) o postępowaniu nieprocesowym. Czynności w sprawach o przyznanie kompensaty mogą wykonywać referendarze sądowi. Na orzeczenie referendarza przysługuje skarga do sądu.
+1. Organem właściwym w sprawach o przyznanie kompensaty jest sąd rejonowy właściwy ze względu na miejsce stałego pobytu osoby uprawnionej, zwany dalej „organem orzekającym”. W postępowaniu przed organem orzekającym w sprawach nieuregulowanych w ustawie stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527 i 1567.) o postępowaniu nieprocesowym. Czynności w sprawach o przyznanie kompensaty mogą wykonywać referendarze sądowi. Na orzeczenie referendarza przysługuje skarga do sądu.
 
 2. Jeżeli nie można ustalić miejsca stałego pobytu osoby uprawnionej lub osoba ta ma miejsce stałego pobytu na terytorium innego państwa członkowskiego Unii Europejskiej, właściwy jest sąd, w którego okręgu popełniono czyn zabroniony, o którym mowa w art. 2 pkt 1. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
 
@@ -143,7 +142,7 @@ source: "eli-html"
 
 - **15)** w art. 16 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Organ pomocniczy, o którym mowa w art. 10 ust. 2, na wniosek organów orzekających w innych państwach członkowskich Unii Europejskiej: ” .
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) w art. 7531:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527 i 1567.) w art. 7531:
 
 - **1)** w § 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
 - **9)** przyznanie państwowej kompensaty przysługującej ofiarom niektórych czynów zabronionych, w części na pokrycie niezbędnych kosztów leczenia, rehabilitacji lub pogrzebu. ” ;
@@ -153,8 +152,8 @@ source: "eli-html"
 
 § 3. W sprawach wymienionych w § 1 w pkt 1, 2 i 9 do udzielenia zabezpieczenia nie jest wymagane uprawdopodobnienie interesu prawnego. ” .
 
-**Art. 3.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.) w art. 96 w ust. 1 w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „
+**Art. 3.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4, 238, 539, 957, 978, 1045, 1137, 1348 i 1418.) w art. 96 w ust. 1 w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „
 
-- **13)** osoba ubiegająca się o uzyskanie kompensaty na podstawie ustawy z dnia 7 lipca 2005 r. o państwowej kompensacie przysługującej ofiarom niektórych czynów zabronionych (Dz. U. Nr 169, poz. 1415, z późn. zm.). ” . Do postępowań w sprawach wniosków o kompensatę złożonych w trybie przepisów ustawy, o której mowa w art. 1, przed dniem wejścia w życie niniejszej ustawy, a także w sprawach wypłat oraz zwrotu przyznanych na podstawie tych przepisów kompensat stosuje się przepisy dotychczasowe. Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia.
+- **13)** osoba ubiegająca się o uzyskanie kompensaty na podstawie ustawy z dnia 7 lipca 2005 r. o państwowej kompensacie przysługującej ofiarom niektórych czynów zabronionych (Dz. U. Nr 169, poz. 1415, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 96, poz. 608, z 2009 r. Nr 79, poz. 665 oraz z 2015 r. poz. 1587.). ” . Do postępowań w sprawach wniosków o kompensatę złożonych w trybie przepisów ustawy, o której mowa w art. 1, przed dniem wejścia w życie niniejszej ustawy, a także w sprawach wypłat oraz zwrotu przyznanych na podstawie tych przepisów kompensat stosuje się przepisy dotychczasowe. Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527 i 1567. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527 i 1567. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4, 238, 539, 957, 978, 1045, 1137, 1348 i 1418. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 96, poz. 608, z 2009 r. Nr 79, poz. 665 oraz z 2015 r. poz. 1587.
 
 

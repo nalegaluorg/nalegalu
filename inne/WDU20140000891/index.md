@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-04 |
 | Data wydania | 2014-07-03 |
-| Wejście w życie | 2014-07-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000891) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/891/text.pdf) |
 
@@ -85,8 +84,7 @@ Artykuł 11
 1.
 Niniejszy Protokół, którego teksty w języku angielskim, arabskim, chińskim, francuskim, hiszpańskim i rosyjskim są jednakowo autentyczne, będzie złożony w archiwach Organizacji Narodów Zjednoczonych.
 2.
-Sekretarz Generalny Organizacji Narodów Zjednoczonych przekaże uwierzytelnione kopie niniejszego Protokołu wszystkim Państwom, o których mowa w artykule 48 Paktu.
-Po zaznajomieniu się z powyższym protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że:
+Sekretarz Generalny Organizacji Narodów Zjednoczonych przekaże uwierzytelnione kopie niniejszego Protokołu wszystkim Państwom, o których mowa w artykule 48 Paktu. Po zaznajomieniu się z powyższym protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że:
 – został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych,
 – jest przyjęty, ratyfikowany i potwierdzony,
 – będzie niezmiennie zachowywany.

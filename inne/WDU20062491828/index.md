@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 grudnia 2006 r. o zmianie ustawy o podatkach i opłatach lokalnych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 7 grudnia 2006 r. o zmianie ustawy o podatkach i opłatach lokalnych oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się: ustawę z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych, ustawę z dnia 9 listopada 2000 r. o repatriacji, ustawę z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy oraz ustawę z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-12-07 |
 | Data wydania | 2006-12-29 |
-| Wejście w życie | 2007-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062491828) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1828/text.pdf) |
 
@@ -44,13 +43,16 @@ source: "eli-html"
 - **5)** grunty zadrzewione i zakrzewione,
 - **6)** grunty zadrzewione i zakrzewione na użytkach rolnych,
 - **7)** grunty pod wodami powierzchniowymi płynącymi,
-- **8)** grunty pod morskimi wodami wewnętrznymi rozumie się grunty sklasyfikowane w ten sposób w ewidencji gruntów i budynków. ” ;
+- **8)** grunty pod morskimi wodami wewnętrznymi – rozumie się grunty sklasyfikowane w ten sposób w ewidencji gruntów i budynków. ” ;
 - **3)** w art. 2: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
-2. Opodatkowaniu podatkiem od nieruchomości nie podlegają użytki rolne, grunty zadrzewione i zakrzewione na użytkach rolnych lub lasy, z wyjątkiem zajętych na prowadzenie działalności gospodarczej. ” , w ust. 3: – pkt 2 otrzymuje brzmienie: „ 2) grunty pod wodami powierzchniowymi płynącymi i kanałami żeglownymi, z wyjątkiem jezior oraz gruntów zajętych na zbiorniki wodne retencyjne lub elektrowni wodnych; ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) grunty pod morskimi wodami wewnętrznymi; ” , – pkt 4 otrzymuje brzmienie: „ 4) grunty zajęte pod pasy drogowe dróg publicznych w rozumieniu przepisów o drogach publicznych oraz zlokalizowane w nich budowle – z wyjątkiem związanych z prowadzeniem działalności gospodarczej innej niż eksploatacja autostrad płatnych. ” ;
+2. Opodatkowaniu podatkiem od nieruchomości nie podlegają użytki rolne, grunty zadrzewione i zakrzewione na użytkach rolnych lub lasy, z wyjątkiem zajętych na prowadzenie działalności gospodarczej. ” , w ust. 3: pkt 2 otrzymuje brzmienie: „
 
 - **b)**
+- **2)** grunty pod wodami powierzchniowymi płynącymi i kanałami żeglownymi, z wyjątkiem jezior oraz gruntów zajętych na zbiorniki wodne retencyjne lub elektrowni wodnych; ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** grunty pod morskimi wodami wewnętrznymi; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** grunty zajęte pod pasy drogowe dróg publicznych w rozumieniu przepisów o drogach publicznych oraz zlokalizowane w nich budowle – z wyjątkiem związanych z prowadzeniem działalności gospodarczej innej niż eksploatacja autostrad płatnych. ” ;
 - **4)** w art. 4: w ust. 1 pkt 3 otrzymuje brzmienie: „
     - **a)**
 
@@ -72,8 +74,15 @@ source: "eli-html"
 
 16. Poświadczenie przez organ podatkowy złożenia informacji o nieruchomościach i obiektach budowlanych lub deklaracji na podatek od nieruchomości za pomocą środków komunikacji elektronicznej odbywa się zgodnie z przepisami o informatyzacji działalności podmiotów realizujących zadania publiczne. ” ;
 
-- **6)** w art. 7: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) budowle wchodzące w skład infrastruktury kolejowej w rozumieniu przepisów o transporcie kolejowym oraz zajęte pod nie grunty, jeżeli: a) zarządca infrastruktury jest obowiązany do jej udostępniania licencjonowanym przewoźnikom kolejowym lub b) są przeznaczone wyłącznie do przewozu osób, wykonywanego przez przewoźnika kolejowego, który równocześnie zarządza tą infrastrukturą bez udostępniania jej innym przewoźnikom, lub c) tworzą linie kolejowe o szerokości torów większej niż 1 435 mm; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) grunty, budynki i budowle pozostałe po likwidacji linii kolejowych lub ich odcinków – do czasu przeniesienia ich własności lub prawa użytkowania wieczystego – nie dłużej jednak niż przez 3 lata od pierwszego dnia miesiąca następującego po miesiącu, w którym stała się ostateczna decyzja lub weszło w życie rozporządzenie, wyrażające zgodę na likwidację linii lub ich odcinków, wydane w trybie przewidzianym w przepisach o transporcie kolejowym – z wyjątkiem zajętych na działalność inną niż działalność, o której mowa w przepisach o transporcie kolejowym; ” , ust. 4 otrzymuje brzmienie: „
+- **6)** w art. 7: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** budowle wchodzące w skład infrastruktury kolejowej w rozumieniu przepisów o transporcie kolejowym oraz zajęte pod nie grunty, jeżeli: zarządca infrastruktury jest obowiązany do jej udostępniania licencjonowanym przewoźnikom kolejowym lub są przeznaczone wyłącznie do przewozu osób, wykonywanego przez przewoźnika kolejowego, który równocześnie zarządza tą infrastrukturą bez udostępniania jej innym przewoźnikom, lub tworzą linie kolejowe o szerokości torów większej niż 1 435 mm; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **1a)** grunty, budynki i budowle pozostałe po likwidacji linii kolejowych lub ich odcinków – do czasu przeniesienia ich własności lub prawa użytkowania wieczystego – nie dłużej jednak niż przez 3 lata od pierwszego dnia miesiąca następującego po miesiącu, w którym stała się ostateczna decyzja lub weszło w życie rozporządzenie, wyrażające zgodę na likwidację linii lub ich odcinków, wydane w trybie przewidzianym w przepisach o transporcie kolejowym – z wyjątkiem zajętych na działalność inną niż działalność, o której mowa w przepisach o transporcie kolejowym; ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Z tytułu zwolnień, o których mowa w ust. 1 pkt 8 oraz ust. 2 pkt 5a, jednostkom samorządu terytorialnego przysługuje z budżetu państwa zwrot utraconych dochodów za przedmioty opodatkowania, które podlegają opodatkowaniu i nie są z niego zwolnione na podstawie innych przepisów niniejszej ustawy. ” ;
@@ -182,5 +191,5 @@ source: "eli-html"
 
 **Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 7 ust. 5, art. 9 ust. 8 i 9 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych.
 
-**Art. 7.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r., z wyjątkiem art. 1 pkt 1, pkt 6 lit. a tiret drugie, pkt 7, pkt 8 lit. a i lit. d, pkt 9, pkt 12, pkt 14, pkt 15, art. 4 i art. 5, które wchodzą w życie z dniem 1 stycznia 2008 r.
+**Art. 7.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r., z wyjątkiem art. 1 pkt 1, pkt 6 lit. a tiret drugie, pkt 7, pkt 8 lit. a i lit. d, pkt 9, pkt 12, pkt 14, pkt 15, art. 4 i art. 5, które wchodzą w życie z dniem 1 stycznia 2008 r. 1) Niniejszą ustawą zmienia się: ustawę z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych, ustawę z dnia 9 listopada 2000 r. o repatriacji, ustawę z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy oraz ustawę z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego.
 

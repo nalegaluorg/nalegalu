@@ -22,24 +22,24 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-13 |
 | Data wydania | 2021-11-09 |
-| Wejście w życie | 2021-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002032) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2032/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Akta sprawy Rozdział 3 – Zbiór dokumentów Rozdział 4 – Repertorium „GRp-ns” Rozdział 5 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 49137 ust. 7 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2020 r. poz. 1228 i 2320 oraz z 2021 r. poz. 1080, 1177 i 1598) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa sposób i tryb:
 1)
 prowadzenia przez nadzorcę sądowego akt, o których mowa w art. 49137 ust. 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe, zwanej dalej „ustawą”, oraz zbioru dokumentów, o którym mowa w art. 49137 ust. 2 ustawy, w tym stosowania urządzeń ewidencyjnych,
 2)
-udostępniania tych akt oraz zbioru dokumentów
-w postępowaniu o zawarcie układu na zgromadzeniu wierzycieli przez osobę fizyczną nieprowadzącą działalności gospodarczej, zwanego dalej „układem”.
+udostępniania tych akt oraz zbioru dokumentów – w postępowaniu o zawarcie układu na zgromadzeniu wierzycieli przez osobę fizyczną nieprowadzącą działalności gospodarczej, zwanego dalej „układem”.
 § 2.
 Nadzorca sądowy prowadzi urządzenie ewidencyjne w systemie teleinformatycznym obsługującym postępowanie sądowe, o którym mowa w art. 53 § 1a ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072 oraz z 2021 r. poz. 1080 i 1236), zwanym dalej „systemem teleinformatycznym”, w postaci repertorium „GRp-ns” dla spraw o zawarcie układu.
 § 3.
 Nadzorca sądowy prowadzi akta, o których mowa w art. 49137 ust. 1 ustawy, zwane dalej „aktami sprawyˮ, oraz zbiór dokumentów odrębnie dla każdego dłużnika.
+Akta sprawy
 § 4.
 Akta sprawy są zakładane w systemie teleinformatycznym z chwilą:
 1)
@@ -79,6 +79,7 @@ Akta sprawy udostępnia się uczestnikom postępowania za pośrednictwem ogólno
 Nadzorca sądowy udostępnia akta sprawy w biurze za pośrednictwem systemu teleinformatycznego osobom, o których mowa w ust. 1, po potwierdzeniu przez nie swojej tożsamości, a innym osobom również po dostatecznym usprawiedliwieniu potrzeby zapoznania się z tymi aktami, chyba że przepisy ustawy stanowią inaczej.
 3.
 Udostępnienie akt sprawy prowadzonych w systemie teleinformatycznym służbie nadzoru Ministra Sprawiedliwości następuje przez zgłoszenie przez tę służbę żądania wglądu do akt w systemie teleinformatycznym.
+Zbiór dokumentów
 § 8.
 1.
 Z chwilą doręczenia nadzorcy sądowemu odpisu postanowienia o otwarciu postępowania o zawarcie układu zakłada on zbiór dokumentów dla pism i dokumentów papierowych.
@@ -143,6 +144,7 @@ datę sporządzenia odpisu;
 numer licencji doradcy restrukturyzacyjnego pełniącego funkcję nadzorcy sądowego oraz
 4)
 czytelne imię i nazwisko osoby podpisującej odpis.
+Repertorium „GRp-ns”
 § 13.
 Wrepertorium „GRp-ns” odnotowuje się:
 1)
@@ -191,16 +193,27 @@ zatwierdzeniu układu przyjętego w postępowaniu o zawarcie układu;
 odmowie zatwierdzenia układu;
 4)
 odrzuceniu przez sąd drugiej instancji wniosku o otwarcie postępowania o zawarcie układu.
+Przepis końcowy
 § 15.
-Rozporządzenie wchodzi w życie z dniem 1 grudnia 2021 r.
+Rozporządzenie wchodzi w życie z dniem 1 grudnia 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 18 marca 2020 r. w sprawie sposobu i trybu prowadzenia oraz udostępniania uczestnikom postępowania oraz służbie nadzoru Ministra Sprawiedliwości akt w postępowaniu o zawarcie układu na zgromadzeniu wierzycieli przez osobę fizyczną nieprowadzącą działalności gospodarczej (Dz. U. poz. 488), które traci moc z dniem 1 grudnia 2021 r. na podstawie art. 12 ustawy z dnia 28 maja 2021 r. o zmianie ustawy o Krajowym Rejestrze Zadłużonych oraz niektórych innych ustaw (Dz. U. poz. 1080). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 18 marca 2020 r. w sprawie sposobu i trybu prowadzenia oraz udostępniania uczestnikom postępowania oraz służbie nadzoru Ministra Sprawiedliwości akt w postępowaniu o zawarcie układu na zgromadzeniu wierzycieli przez osobę fizyczną nieprowadzącą działalności gospodarczej (Dz. U. poz. 488), które traci moc z dniem 1 grudnia 2021 r. na podstawie art. 12 ustawy z dnia 28 maja 2021 r. o zmianie ustawy o Krajowym Rejestrze Zadłużonych oraz niektórych innych ustaw (Dz. U. poz. 1080).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Akta sprawy
+#### Rozdział 2 – Akta sprawy
 
-#### Rozdział 3 Zbiór dokumentów
+#### Rozdział 3 – Zbiór dokumentów
 
-#### Rozdział 4 Repertorium „GRp-ns”
+#### Rozdział 4 – Repertorium „GRp-ns”
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

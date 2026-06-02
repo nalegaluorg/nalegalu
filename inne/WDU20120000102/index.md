@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-01-19 |
 | Data wydania | 2012-01-26 |
-| Wejście w życie | 2012-01-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000102) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/102/text.pdf) |
 
@@ -67,5 +66,5 @@ Natężenie oświetlenia przy oznakowaniu i przeszkodach występujących na zorg
 § 4.
 Do dnia 1 czerwca 2012 r. zorganizowane tereny narciarskie udostępnione do użytkowania po zmroku mogą być oświetlone tak, aby natężenie oświetlenia w żadnym punkcie trasy nie było mniejsze niż 10 luksów i zapewniona była możliwość oceny warunków narciarskich oraz czytelność oznakowania i zabezpieczeń.
 § 5.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 6 maja 1997 r. w sprawie określenia warunków bezpieczeństwa osób przebywających w górach, pływających, kąpiących się i uprawiających sporty wodne (Dz. U. Nr 57, poz. 358), które traci moc w zakresie dotyczącym obciążenia trasy narciarskiej z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 6 maja 1997 r. w sprawie określenia warunków bezpieczeństwa osób przebywających w górach, pływających, kąpiących się i uprawiających sporty wodne (Dz. U. Nr 57, poz. 358), które traci moc w zakresie dotyczącym obciążenia trasy narciarskiej z dniem wejścia w życie niniejszego rozporządzenia.
 

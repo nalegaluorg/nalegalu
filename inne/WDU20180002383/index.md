@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-06 |
 | Data wydania | 2018-12-21 |
-| Wejście w życie | 2018-12-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002383) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2383/text.pdf) |
 
@@ -32,7 +31,7 @@ source: "eli-html"
 
 **Art. 29a.**
 
-1. W roku 2018 minister właściwy do spraw zdrowia może przekazać z budżetu państwa środki do Narodowego Funduszu Zdrowia w wysokości 1 800 000 tys. zł w celu zwiększenia funduszu zapasowego Narodowego Funduszu Zdrowia, o którym mowa w art. 115 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.), z przeznaczeniem na sfinansowanie świadczeń opieki zdrowotnej.
+1. W roku 2018 minister właściwy do spraw zdrowia może przekazać z budżetu państwa środki do Narodowego Funduszu Zdrowia w wysokości 1 800 000 tys. zł w celu zwiększenia funduszu zapasowego Narodowego Funduszu Zdrowia, o którym mowa w art. 115 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925 i 2192.), z przeznaczeniem na sfinansowanie świadczeń opieki zdrowotnej.
 
 2. Planowane koszty świadczeń opieki zdrowotnej w planie finansowym Narodowego Funduszu Zdrowia mogą zostać zwiększone ze środków, o których mowa w ust. 1, po uzyskaniu zgody ministra właściwego do spraw zdrowia i ministra właściwego do spraw finansów publicznych.
 
@@ -58,7 +57,7 @@ source: "eli-html"
 
 1. W roku 2018 upoważnia się ministra właściwego do spraw finansów publicznych do dokonania, na wniosek Ministra Obrony Narodowej, przeniesienia wydatków w wysokości do 12 000 tys. zł w ustawie budżetowej na rok 2018 z dnia 11 stycznia 2018 r. (Dz. U. poz. 291) z części 29 – Obrona Narodowa do części 57 – Agencja Bezpieczeństwa Wewnętrznego, z przeznaczeniem na realizację wydatków wynikających z Programu Pozamilitarnych Przygotowań Obronnych Rzeczypospolitej Polskiej w latach 2017–2026, sporządzonego na podstawie przepisów wykonawczych wydanych na podstawie art. 6 ust. 2 pkt 1 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2018 r. poz. 1459, 1669, 2182 i 2245).
 
-2. Środki, o których mowa w ust. 1, mogą zostać wykorzystane do dnia 31 grudnia 2019 r. W roku 2018 źródłem przychodu Funduszu Emerytur Pomostowych, o którym mowa w art. 30 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych (Dz. U. z 2018 r. poz. 1924), może być również wpłata z budżetu państwa do wysokości 1 000 000 tys. zł przekazana przez Prezesa Zakładu Ubezpieczeń Społecznych. W roku 2018 źródłem przychodu Funduszu Rezerwy Demograficznej, o którym mowa w art. 58 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778, z późn. zm.), może być również wpłata z budżetu państwa do wysokości 2 000 000 tys. zł przekazana przez Prezesa Zakładu Ubezpieczeń Społecznych. ” ;
+2. Środki, o których mowa w ust. 1, mogą zostać wykorzystane do dnia 31 grudnia 2019 r. W roku 2018 źródłem przychodu Funduszu Emerytur Pomostowych, o którym mowa w art. 30 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych (Dz. U. z 2018 r. poz. 1924), może być również wpłata z budżetu państwa do wysokości 1 000 000 tys. zł przekazana przez Prezesa Zakładu Ubezpieczeń Społecznych. W roku 2018 źródłem przychodu Funduszu Rezerwy Demograficznej, o którym mowa w art. 58 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544, 1577, 1613, 1629, 1669, 2126, 2192, 2215 i 2244.), może być również wpłata z budżetu państwa do wysokości 2 000 000 tys. zł przekazana przez Prezesa Zakładu Ubezpieczeń Społecznych. ” ;
 
 - **2)** po art. 34 dodaje się art. 34a w brzmieniu: „
 
@@ -120,5 +119,5 @@ source: "eli-html"
 - **2)** nie stosuje się art. 177 ust. 7 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **3)** podziału tej rezerwy dokonuje minister właściwy do spraw finansów publicznych na wniosek właściwego ministra, nie później niż do dnia 28 grudnia 2018 r. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925 i 2192. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544, 1577, 1613, 1629, 1669, 2126, 2192, 2215 i 2244.
 

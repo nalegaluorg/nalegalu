@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-06-27 |
 | Data wydania | 2022-07-01 |
-| Wejście w życie | 2022-07-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001384) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1384/text.pdf) |
 
@@ -108,8 +107,7 @@ W przypadku powołania do zawodowej służby wojskowej kandydata albo żołnierz
 1)
 posiadającego stopień wojskowy bezpośrednio niższy od stopnia etatowego stanowiska służbowego, na które ma być wyznaczony po powołaniu do zawodowej służby wojskowej,
 2)
-posiadającego stopień wojskowy bezpośrednio niższy od stopnia wojskowego, do którego ma być zaszeregowany po powołaniu do zawodowej służby wojskowej, w przypadku gdy stanowisko służbowe jest określone kilkoma stopniami wojskowymi
-właściwy organ wojskowy wydaje decyzję o mianowaniu tego kandydata albo żołnierza na stopień wojskowy odpowiadający stopniowi etatowemu stanowiska służbowego albo stopniowi wojskowemu, do którego ma być zaszeregowany.
+posiadającego stopień wojskowy bezpośrednio niższy od stopnia wojskowego, do którego ma być zaszeregowany po powołaniu do zawodowej służby wojskowej, w przypadku gdy stanowisko służbowe jest określone kilkoma stopniami wojskowymi – właściwy organ wojskowy wydaje decyzję o mianowaniu tego kandydata albo żołnierza na stopień wojskowy odpowiadający stopniowi etatowemu stanowiska służbowego albo stopniowi wojskowemu, do którego ma być zaszeregowany.
 4.
 Organ właściwy do wyznaczenia na stanowisko służbowe powiadamia szefa WCR o powołaniu kandydata albo żołnierza do zawodowej służby wojskowej oraz o terminie i miejscu skierowania tego kandydata albo żołnierza w celu doręczenia decyzji o powołaniu do zawodowej służby wojskowej oraz przekazania decyzji o jego wyznaczeniu na stanowisko służbowe.
 5.
@@ -159,8 +157,7 @@ Po wyrażeniu zgody na przeniesienie funkcjonariusza do dalszego pełnienia słu
 1)
 ministra nadzorującego daną służbę,
 2)
-w przypadku funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu albo Centralnego Biura Antykorupcyjnego – Prezesa Rady Ministrów albo ministra powołanego w celu koordynowania działalności służb specjalnych, jeżeli został powołany
-i jednocześnie określa termin na wyrażenie tej zgody oraz wskazuje przewidywaną datę przeniesienia funkcjonariusza, a także może wnioskować o weryfikację zgromadzonych danych o funkcjonariuszu oraz o udzielenie informacji, które mogą mieć wpływ na podjęcie decyzji o powołaniu funkcjonariusza do zawodowej służby wojskowej.
+w przypadku funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu albo Centralnego Biura Antykorupcyjnego – Prezesa Rady Ministrów albo ministra powołanego w celu koordynowania działalności służb specjalnych, jeżeli został powołany – i jednocześnie określa termin na wyrażenie tej zgody oraz wskazuje przewidywaną datę przeniesienia funkcjonariusza, a także może wnioskować o weryfikację zgromadzonych danych o funkcjonariuszu oraz o udzielenie informacji, które mogą mieć wpływ na podjęcie decyzji o powołaniu funkcjonariusza do zawodowej służby wojskowej.
 9.
 Czynności, o których mowa w ust. 8, nie realizuje się, jeżeli ministrem nadzorującym jest Minister Obrony Narodowej.
 10.
@@ -186,5 +183,5 @@ Jeżeli kandydat, żołnierz albo funkcjonariusz usprawiedliwił przyczyny niest
 § 12.
 Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 13.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 9 marca 2010 r. w sprawie powoływania do zawodowej służby wojskowej (Dz. U. z 2021 r. poz. 2337), które w związku z wejściem w życie ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) utraciło moc z dniem 23 kwietnia 2022 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 9 marca 2010 r. w sprawie powoływania do zawodowej służby wojskowej (Dz. U. z 2021 r. poz. 2337), które w związku z wejściem w życie ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) utraciło moc z dniem 23 kwietnia 2022 r.
 

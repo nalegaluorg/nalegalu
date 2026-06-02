@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-07-22 |
 | Data wydania | 2014-08-27 |
-| Wejście w życie | 2014-09-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001135) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1135/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2009 r. Nr 52, poz. 419, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2009 r. Nr 52, poz. 419, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 76, poz. 641, z 2010 r. Nr 107, poz. 679 oraz z 2011 r. Nr 112, poz. 654.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 ust. 1 otrzymuje brzmienie: „
 
@@ -92,13 +91,13 @@ source: "eli-html"
     - **c)**
 
 - **6)** jest członkiem organów lub pracownikiem podmiotów tworzących w rozumieniu przepisów o działalności leczniczej, a jeżeli tak, to jakich;
-- **7)** prowadzi badania naukowe lub prace rozwojowe w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. Nr 96, poz. 615, z późn. zm.), które są finansowane przez podmiot: wykonujący działalność, o której mowa w pkt 1, a jeżeli tak, to jakie i dla jakiego podmiotu, lub posiadający akcje lub udziały w spółkach handlowych wykonujących działalność, o której mowa w pkt 1, lub udziały w spółdzielniach wykonujących działalność, o której mowa w pkt 1, a jeżeli tak, to jakie i dla jakiego podmiotu, lub będący wspólnikiem lub partnerem spółki handlowej lub stroną umowy spółki cywilnej wykonującej działalność w zakresie, o którym mowa w pkt 1, a jeżeli tak, to jakie i dla jakiego podmiotu;
+- **7)** prowadzi badania naukowe lub prace rozwojowe w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. Nr 96, poz. 615, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 84, poz. 455 i Nr 185, poz. 1092, z 2013 r. poz. 675 oraz z 2014 r. poz. 379 i 423.), które są finansowane przez podmiot: wykonujący działalność, o której mowa w pkt 1, a jeżeli tak, to jakie i dla jakiego podmiotu, lub posiadający akcje lub udziały w spółkach handlowych wykonujących działalność, o której mowa w pkt 1, lub udziały w spółdzielniach wykonujących działalność, o której mowa w pkt 1, a jeżeli tak, to jakie i dla jakiego podmiotu, lub będący wspólnikiem lub partnerem spółki handlowej lub stroną umowy spółki cywilnej wykonującej działalność w zakresie, o którym mowa w pkt 1, a jeżeli tak, to jakie i dla jakiego podmiotu;
     - **a)**
     - **b)**
     - **c)**
 
 - **8)** przystosowuje wyniki badań naukowych lub prac rozwojowych, o których mowa w pkt 7, do potrzeb praktyki lub je wdraża, a jeżeli tak, to w jaki sposób i dla jakiego podmiotu;
-- **9)** prowadzi badania kliniczne w rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.), a jeżeli tak, to jakie;
+- **9)** prowadzi badania kliniczne w rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245 oraz z 2014 r. poz. 822.), a jeżeli tak, to jakie;
 - **10)** wykonuje zadania opiniodawcze i doradcze dla podmiotu: wykonującego działalność, o której mowa w pkt 1, a jeżeli tak, to jakie i dla jakiego podmiotu, lub posiadającego akcje lub udziały w spółkach handlowych wykonujących działalność, o której mowa w pkt 1, lub udziały w spółdzielniach wykonujących działalność, o której mowa w pkt 1, a jeżeli tak, to jakie i dla jakiego podmiotu, lub będącego wspólnikiem lub partnerem spółki handlowej lub stroną umowy spółki cywilnej wykonującej działalność w zakresie, o którym mowa w pkt 1, a jeżeli tak, to jakie i dla jakiego podmiotu.
     - **a)**
     - **b)**
@@ -112,7 +111,7 @@ source: "eli-html"
 
 - **1)** wykonującego działalność, o której mowa w art. 8c ust. 1 pkt 1, lub
 - **2)** posiadającego akcje lub udziały w spółkach handlowych wykonujących działalność, o której mowa w art. 8c ust. 1 pkt 1, lub udziały w spółdzielniach wykonujących działalność, o której mowa w art. 8c ust. 1 pkt 1, lub
-- **3)** będącego wspólnikiem lub partnerem spółki handlowej lub stroną umowy spółki cywilnej wykonującej działalność w zakresie, o którym mowa w art. 8c ust. 1 pkt 1 w terminie 14 dni od dnia otrzymania korzyści.
+- **3)** będącego wspólnikiem lub partnerem spółki handlowej lub stroną umowy spółki cywilnej wykonującej działalność w zakresie, o którym mowa w art. 8c ust. 1 pkt 1 – w terminie 14 dni od dnia otrzymania korzyści.
 
 2. Kwota, o której mowa w ust. 1, podlega corocznej waloryzacji o prognozowany w ustawie budżetowej na dany rok średnioroczny wskaźnik wzrostu wynagrodzeń w państwowej sferze budżetowej. Zwaloryzowana kwota jest publikowana na stronach Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw zdrowia. Zwaloryzowaną kwotę stosuje się od dnia publikacji.
 
@@ -154,5 +153,5 @@ source: "eli-html"
 
 2. Konsultanci, o których mowa w ust. 1, składają oświadczenie, o którym mowa w art. 8c ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie później niż w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy. W przypadku niezłożenia tego oświadczenia organ, który powołał konsultanta, odwołuje go.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 76, poz. 641, z 2010 r. Nr 107, poz. 679 oraz z 2011 r. Nr 112, poz. 654. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 84, poz. 455 i Nr 185, poz. 1092, z 2013 r. poz. 675 oraz z 2014 r. poz. 379 i 423. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245 oraz z 2014 r. poz. 822.
 

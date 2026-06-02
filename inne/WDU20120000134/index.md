@@ -22,25 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-01-26 |
 | Data wydania | 2012-02-07 |
-| Wejście w życie | 2012-02-22 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000134) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/134/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 76, poz. 490 i Nr 148, poz. 993 oraz z 2011 r. Nr 205, poz. 1202.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 14 lutego 2008 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 38, poz. 220 i Nr 156, poz. 974 oraz z 2010 r. Nr 65, poz. 417 i Nr 162, poz. 1092) wprowadza się następujące zmiany:
 1)
-w § 1 dodaje się pkt 5 w brzmieniu:
-„
+w § 1 dodaje się pkt 5 w brzmieniu: „
 5)
-przypadki, w których następcy prawnemu beneficjenta może być przyznana pomoc, oraz warunki i tryb przyznawania tej pomocy.
-” ;
+przypadki, w których następcy prawnemu beneficjenta może być przyznana pomoc, oraz warunki i tryb przyznawania tej pomocy. ” ;
 2)
 w § 26 uchyla się pkt 2;
 3)
-po § 26 dodaje się § 26a w brzmieniu:
-„
+po § 26 dodaje się § 26a w brzmieniu: „
 § 26a.
 1.
 W przypadku przekształcenia albo rozwiązania beneficjenta następcy prawnemu beneficjenta, zwanemu dalej „następcą”, może być przyznana pomoc, jeżeli:
@@ -57,10 +53,9 @@ W przypadku złożenia wniosku następcy po upływie terminu, o którym mowa w u
 5.
 Wniosek następcy rozpatruje się w terminie 3 miesięcy od dnia jego złożenia.
 6.
-Do wniosku następcy i trybu jego rozpatrywania przepisy § 10 ust. 1 pkt 1, 2 i 6 i ust. 4 oraz § 11 ust. 1–3 stosuje się odpowiednio.
-” .
+Do wniosku następcy i trybu jego rozpatrywania przepisy § 10 ust. 1 pkt 1, 2 i 6 i ust. 4 oraz § 11 ust. 1–3 stosuje się odpowiednio. ” .
 § 2.
 Jeżeli przekształcenie albo rozwiązanie beneficjenta nastąpiło przed dniem wejścia w życie niniejszego rozporządzenia, następca prawny beneficjenta składa wniosek o przyznanie pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 w terminie 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 76, poz. 490 i Nr 148, poz. 993 oraz z 2011 r. Nr 205, poz. 1202.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-22 |
 | Data wydania | 2018-01-11 |
-| Wejście w życie | 2018-01-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000082) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/82/text.pdf) |
 
@@ -35,7 +34,7 @@ Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 6c ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2017 r. poz. 2137) zarządza się, co następuje:
 § 1.
-Rozporządzenie określa zadania realizowane przez Agencję Restrukturyzacji i Modernizacji Rolnictwa, zwaną dalej „Agencją”, związane z ustanowieniem tymczasowych nadzwyczajnych środków wsparcia dla producentów niektórych owoców w związku z kontynuacją zakazu ich przywozu z Unii Europejskiej do Federacji Rosyjskiej, określonych w rozporządzeniu delegowanym Komisji (UE) 2017/1165 z dnia 20 kwietnia 2017 r. ustanawiającym tymczasowe nadzwyczajne środki wsparcia producentów niektórych owoców (Dz. Urz. UE L 170 z 01.07.2017, str. 31, z późn. zm.), zwanym dalej „rozporządzeniem 2017/1165”.
+Rozporządzenie określa zadania realizowane przez Agencję Restrukturyzacji i Modernizacji Rolnictwa, zwaną dalej „Agencją”, związane z ustanowieniem tymczasowych nadzwyczajnych środków wsparcia dla producentów niektórych owoców w związku z kontynuacją zakazu ich przywozu z Unii Europejskiej do Federacji Rosyjskiej, określonych w rozporządzeniu delegowanym Komisji (UE) 2017/1165 z dnia 20 kwietnia 2017 r. ustanawiającym tymczasowe nadzwyczajne środki wsparcia producentów niektórych owoców (Dz. Urz. UE L 170 z 01.07.2017, str. 31, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 233 z 09.09.2017, str. 1.), zwanym dalej „rozporządzeniem 2017/1165”.
 § 2.
 Agencja realizuje zadania związane z udzielaniem pomocy, o której mowa w art. 1 rozporządzenia 2017/1165, zwanej dalej „wsparciem”, w tym przeprowadza kontrole, o których mowa w art. 9 rozporządzenia 2017/1165.
 § 3.
@@ -44,7 +43,7 @@ Prezes Agencji przekazuje Komisji Europejskiej powiadomienia i informacje, o kt�
 1.
 Wsparcie przysługuje:
 1)
-organizacji producentów owoców i warzyw, uznanej na podstawie odrębnych przepisów i realizującej program operacyjny, o którym mowa w art. 33 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.), zwanego dalej „rozporządzeniem nr 1308/2013”;
+organizacji producentów owoców i warzyw, uznanej na podstawie odrębnych przepisów i realizującej program operacyjny, o którym mowa w art. 33 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20 oraz Dz. Urz. UE L 135 z 24.05.2016, str. 1.), zwanego dalej „rozporządzeniem nr 1308/2013”;
 2)
 producentowi owoców niebędącemu członkiem organizacji producentów, o której mowa w pkt 1, będącemu producentem rolnym w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2017 r. poz. 1853), który posiada gospodarstwo rolne o łącznej powierzchni co najmniej 1 ha, w którym prowadzi uprawę owoców, a powierzchnia działki rolnej w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, na której prowadzi daną uprawę, wynosi co najmniej 0,1 ha.
 2.
@@ -76,8 +75,7 @@ Jeżeli łączna ilość produktów wynikająca z powiadomienia przekracza limit
 1)
 20 000 ton – w przypadku podmiotu, o którym mowa w ust. 1 pkt 1, albo
 2)
-200 ton – w przypadku podmiotu, o którym mowa w ust. 1 pkt 2
-uznaje się, że łączna ilość produktów wynikająca z tego powiadomienia jest równa limitowi produktów określonemu dla danego podmiotu, o którym mowa w ust. 1 pkt 1 albo ust. 1 pkt 2, a ilość danego rodzaju produktu wynikająca z tego powiadomienia jest równa iloczynowi ilości tego produktu oraz stosunku limitu produktów określonego dla danego podmiotu, o którym mowa w ust. 1 pkt 1 albo ust. 1 pkt 2, do łącznej ilości produktów wynikającej z tego powiadomienia.
+200 ton – w przypadku podmiotu, o którym mowa w ust. 1 pkt 2 – uznaje się, że łączna ilość produktów wynikająca z tego powiadomienia jest równa limitowi produktów określonemu dla danego podmiotu, o którym mowa w ust. 1 pkt 1 albo ust. 1 pkt 2, a ilość danego rodzaju produktu wynikająca z tego powiadomienia jest równa iloczynowi ilości tego produktu oraz stosunku limitu produktów określonego dla danego podmiotu, o którym mowa w ust. 1 pkt 1 albo ust. 1 pkt 2, do łącznej ilości produktów wynikającej z tego powiadomienia.
 7.
 Jeżeli ten sam podmiot złożył więcej niż jedno powiadomienie, przepis ust. 6 stosuje się odpowiednio do powiadomienia, którego złożenie spowodowało przekroczenie limitu produktów określonego dla danego podmiotu w ust. 6, z tym że, obliczając łączną ilość produktów oraz ilość danego rodzaju produktu, które uznaje się za wynikające z tego powiadomienia, zamiast limitu produktów określonego dla danego podmiotu w ust. 6 uwzględnia się różnicę między tym limitem a łączną ilością produktów wynikającą z poprzednio złożonych przez ten podmiot powiadomień.
 8.
@@ -220,11 +218,11 @@ Przy obliczaniu wysokości wsparcia uwzględnia się ilość produktów danego r
 3.
 W przypadku operacji przeprowadzonej przez podmioty, o których mowa w § 4 ust. 1 pkt 2, jeżeli wysokość wsparcia w przeliczeniu na 1 ha upraw, z których pochodzą produkty objęte tą operacją, przekracza maksymalny poziom wsparcia określony w załączniku nr 2 do rozporządzenia, wsparcie przysługuje w wysokości stanowiącej iloczyn maksymalnego poziomu wsparcia określonego w załączniku nr 2 do rozporządzenia i powierzchni tych upraw.
 § 11.
-Obliczenie równowartości kwoty wsparcia w złotych następuje zgodnie z zasadami określonymi w art. 36 lit. c rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro (Dz. Urz. UE L 255 z 28.08.2014, str. 18, z późn. zm.).
+Obliczenie równowartości kwoty wsparcia w złotych następuje zgodnie z zasadami określonymi w art. 36 lit. c rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro (Dz. Urz. UE L 255 z 28.08.2014, str. 18, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7 oraz Dz. Urz. UE L 5 z 10.01.2017, str. 11.).
 § 12.
 Środki z tytułu wsparcia Agencja wypłaca w terminie określonym w art. 12 rozporządzenia 2017/1165.
 § 13.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 233 z 09.09.2017, str. 1. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20 oraz Dz. Urz. UE L 135 z 24.05.2016, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7 oraz Dz. Urz. UE L 5 z 10.01.2017, str. 11.
 
 ## Załącznik nr 1 — – Maksymalne plony uzyskiwane z upraw owoców objętych wsparciem
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-06-19 |
 | Data wydania | 2012-06-26 |
-| Wejście w życie | 2012-06-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000723) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/723/text.pdf) |
 
@@ -47,5 +46,5 @@ Opłatę roczną wnosi się najpóźniej do ostatniego dnia miesiąca następuj�
 § 4.
 Opłaty, o których mowa w § 2 i § 3, wnosi się na rachunek Biura do spraw Substancji Chemicznych.
 § 5.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 22 marca 2010 r. w sprawie wysokości i sposobu wnoszenia opłaty przez jednostki organizacyjne wykonujące badania substancji i preparatów chemicznych za kontrolę i weryfikację spełniania kryteriów oraz nadanie tym jednostkom uprawnień (Dz. U. Nr 61, poz. 385), które utraciło moc z dniem 9 kwietnia 2012 r. na podstawie art. 88 pkt 1 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. Nr 63, poz. 322). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 22 marca 2010 r. w sprawie wysokości i sposobu wnoszenia opłaty przez jednostki organizacyjne wykonujące badania substancji i preparatów chemicznych za kontrolę i weryfikację spełniania kryteriów oraz nadanie tym jednostkom uprawnień (Dz. U. Nr 61, poz. 385), które utraciło moc z dniem 9 kwietnia 2012 r. na podstawie art. 88 pkt 1 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. Nr 63, poz. 322).
 

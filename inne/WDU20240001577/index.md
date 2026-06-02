@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-04 |
 | Data wydania | 2024-10-25 |
-| Wejście w życie | 2024-11-09 |
 | Ostatnia zmiana | 2024-10-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001577) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1577/text.pdf) |
 
@@ -37,7 +36,7 @@ Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 21 ust. 3, art. 22 ust. 2, art. 23 ust. 2, art. 24 ust. 2 w związku z art. 43 ust. 1 i 2, art. 44, art. 46 i art. 53 ust. 3 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 2 lutego 2010 r. w sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej i pracowników innych jednostek (Dz. U. z 2023 r. poz. 467, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 2 lutego 2010 r. w sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej i pracowników innych jednostek (Dz. U. z 2023 r. poz. 467, z późn. zm.Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2023 r. poz. 915, 1121, 1277 i 2675 oraz z 2024 r. poz. 586, 681, 1101 i 1227.) wprowadza się następujące zmiany:
 1)
 w załączniku nr 1 do rozporządzenia tabela C otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 2)
@@ -51,11 +50,12 @@ Pracownik zatrudniony w dniu wejścia w życie rozporządzenia na stanowisku nie
 § 4.
 Wynagrodzenie pracownika ustalone na podstawie przepisów rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem nie może być niższe od wynagrodzenia przysługującego temu pracownikowi przed dniem wejścia w życie niniejszego rozporządzenia.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2023 r. poz. 915, 1121, 1277 i 2675 oraz z 2024 r. poz. 586, 681, 1101 i 1227.
 
 ## Załącznik nr 1 — –
 
-Tabela C. Tabela miesięcznych stawek wynagrodzenia zasadniczego dla pracowników, o których mowa w tabeli VI części I, tabeli XII części XII oraz tabeli XVI załącznika nr 3 do rozporządzenia
+Tabela C.
+Tabela miesięcznych stawek wynagrodzenia zasadniczego dla pracowników, o których mowa w tabeli VI części I, tabeli XII części XII oraz tabeli XVI załącznika nr 3 do rozporządzenia
 Kategoria zaszeregowania Kwota w złotych 1 2 I 3130–6450 II 3130–6600 III 3130–6750 IV 3130–6900 V 3130–7200 VI 3130–7500 VII 3130–7800 VIII 3130–8250 IX 3130–8700 X 3200–9150 XI 3250–9600 XII 3300–10 050 XIII 3350–10 500 XIV 3400–11 040 XV 3450–11 760 XVI 3500–12 480 XVII 3550–13 200 XVIII 3600–13 920 XIX 3650–14 640 XX 3700–15 360 XXI 3750–20 600
 
 ## Załącznik nr 2 — –
@@ -64,6 +64,7 @@ I. Urzędy morskie 1 Dyrektor XX-XXI 10 według odrębnych przepisów 2 Zastępc
 
 ## Załącznik nr 3 — –
 
-Tabela E. Tabela stanowisk, kwot wynagrodzenia zasadniczego i dodatku funkcyjnego oraz kwalifikacji przewodniczącego Centralnej Morskiej Komisji Egzaminacyjnej oraz zastępców przewodniczącego Centralnej Morskiej Komisji Egzaminacyjnej
+Tabela E.
+Tabela stanowisk, kwot wynagrodzenia zasadniczego i dodatku funkcyjnego oraz kwalifikacji przewodniczącego Centralnej Morskiej Komisji Egzaminacyjnej oraz zastępców przewodniczącego Centralnej Morskiej Komisji Egzaminacyjnej
 Lp. Stanowisko Kategoria wynagrodzenia zasadniczego w zł Kwota dodatku funkcyjnego w zł do Wymagane kwalifikacje wykształcenie liczba lat pracy 1 2 3 4 5 6 1 Przewodniczący Centralnej Morskiej Komisji Egzaminacyjnej 6500–13 800 – według odrębnych przepisów 2 Zastępca przewodniczącego Centralnej Morskiej Komisji Egzaminacyjnej 5400–11 800 –
 

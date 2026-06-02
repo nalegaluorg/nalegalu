@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 20 lutego 2024 r. zmieniające rozporządzenie w sprawie wymiarów i okresów ochronnych organizmów morskich oraz szczegółowych warunków wykonywania rybołówstwa komercyjnego
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 20 lutego 2024 r. zmieniające rozporządzenie w sprawie wymiarów i okresów ochronnych organizmów morskich oraz szczegółowych warunków wykonywania rybołówstwa komercyjnego Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-20 |
 | Data wydania | 2024-02-22 |
-| Wejście w życie | 2024-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000244) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/244/text.pdf) |
 
@@ -37,6 +36,5 @@ w pkt 3 w lit. b wyrazy „od dnia 1 marca do dnia 31 marca, od dnia 1 czerwca d
 § 2.
 W 2024 r. okresy ochronne, o których mowa w § 3 pkt 1 lit. d, pkt 2 lit. h oraz pkt 3 lit. b rozporządzenia zmienianego w § 1, nie obejmują okresu od dnia 1 marca do dnia 15 marca.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2024 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
+Rozporządzenie wchodzi w życie z dniem 1 marca 2024 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 

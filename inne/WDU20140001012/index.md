@@ -31,13 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 30 marca 2011 r. w sprawie wyłączenia niektórych rodzajów porozumień wertykalnych spod zakazu porozumień ograniczających konkurencję (Dz. U. Nr 81, poz. 441), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 23 maja 2013 r. zmieniającym rozporządzenie w sprawie wyłączenia niektórych rodzajów porozumień wertykalnych spod zakazu porozumień ograniczających konkurencję (Dz. U. poz. 622).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 23 maja 2013 r. zmieniającego rozporządzenie w sprawie wyłączenia niektórych rodzajów porozumień wertykalnych spod zakazu porozumień ograniczających konkurencję (Dz. U. poz. 622), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 23 maja 2013 r. zmieniającego rozporządzenie w sprawie wyłączenia niektórych rodzajów porozumień wertykalnych spod zakazu porozumień ograniczających konkurencję (Dz. U. poz. 622), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 czerwca 2013 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 czerwca 2013 r. ” .
 Załącznik – Tekst jednolity rozporządzenia Rady Ministrów z dnia 30 marca 2011 r. w sprawie wyłączenia niektórych rodzajów porozumień wertykalnych spod zakazu porozumień ograniczających konkurencję
-Na podstawie art. 8 ust. 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. Nr 50, poz. 331, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 8 ust. 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. Nr 50, poz. 331, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 660 i Nr 171, poz. 1206, z 2008 r. Nr 157, poz. 976, Nr 223, poz. 1458 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 i Nr 157, poz. 1241, z 2011 r. Nr 34, poz. 173 oraz z 2014 r. poz. 945.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -86,15 +84,15 @@ ostateczny użytkownik – konsumenta albo przedsiębiorcę kupującego towary o
 klient nabywcy – przedsiębiorcę niebędącego stroną porozumienia wertykalnego kupującego towary objęte porozumieniem wertykalnym od nabywcy będącego stroną tego porozumienia w celu ich odsprzedaży;
 15)
 aktywna sprzedaż – aktywne działania sprzedawcy podejmowane w celu zwiększenia sprzedaży lub pozyskania nowych klientów, polegające w szczególności na prowadzeniu działań reklamowych lub promocyjnych, tworzeniu oddziałów lub organizowaniu centrów dystrybucji na określonym terytorium;
-16)
+16Dodany przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 23 maja 2013 r. zmieniającego rozporządzenie w sprawie wyłączenia niektórych rodzajów porozumień wertykalnych spod zakazu porozumień ograniczających konkurencję (Dz. U. poz. 622), które weszło w życie z dniem 1 czerwca 2013 r.)
 usługi serwisowe – usługi polegające na naprawie lub przeglądzie pojazdów samochodowych;
-17)
-pojazdy samochodowe – pojazdy samochodowe w rozumieniu ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), z wyłączeniem motocykli;
-18)
+17Dodany przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 23 maja 2013 r. zmieniającego rozporządzenie w sprawie wyłączenia niektórych rodzajów porozumień wertykalnych spod zakazu porozumień ograniczających konkurencję (Dz. U. poz. 622), które weszło w życie z dniem 1 czerwca 2013 r.)
+pojazdy samochodowe – pojazdy samochodowe w rozumieniu ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312, 486, 529, 768, 822 i 970.), z wyłączeniem motocykli;
+18Dodany przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 23 maja 2013 r. zmieniającego rozporządzenie w sprawie wyłączenia niektórych rodzajów porozumień wertykalnych spod zakazu porozumień ograniczających konkurencję (Dz. U. poz. 622), które weszło w życie z dniem 1 czerwca 2013 r.)
 warsztat – przedsiębiorcę świadczącego usługi serwisowe;
-19)
+19Dodany przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 23 maja 2013 r. zmieniającego rozporządzenie w sprawie wyłączenia niektórych rodzajów porozumień wertykalnych spod zakazu porozumień ograniczających konkurencję (Dz. U. poz. 622), które weszło w życie z dniem 1 czerwca 2013 r.)
 autoryzowany warsztat – warsztat działający w ramach systemu dystrybucji stworzonego przez dostawcę;
-20)
+20Dodany przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 23 maja 2013 r. zmieniającego rozporządzenie w sprawie wyłączenia niektórych rodzajów porozumień wertykalnych spod zakazu porozumień ograniczających konkurencję (Dz. U. poz. 622), które weszło w życie z dniem 1 czerwca 2013 r.)
 niezależny warsztat – warsztat, który nie działa w ramach systemu dystrybucji stworzonego przez dostawcę, dla którego świadczy usługi serwisowe; autoryzowany warsztat działający w ramach systemu dystrybucji danego dostawcy uważa się za niezależny warsztat w takim zakresie, w jakim świadczy on usługi serwisowe dotyczące pojazdów samochodowych nieobjętych systemem dystrybucji tego dostawcy.
 § 4.
 Wyłączeniu podlegają porozumienia wertykalne, w szczególności zawierające zobowiązania wyłącznego zakupu lub zobowiązania wyłącznej dostawy, lub tworzące systemy dystrybucji selektywnej lub systemy dystrybucji franchisingowej, jeżeli porozumienia te spełniają warunki wyłączenia określone w rozporządzeniu.
@@ -121,8 +119,7 @@ Porozumienia wertykalne podlegają wyłączeniu, jeżeli:
 1)
 udział dostawcy i grupy kapitałowej, do której należy dostawca, w rynku właściwym sprzedaży towarów objętych takim porozumieniem nie przekracza 30%,
 2)
-udział nabywcy i grupy kapitałowej, do której należy nabywca, w rynku właściwym zakupu towarów objętych takim porozumieniem nie przekracza 30%
-z zastrzeżeniem § 9.
+udział nabywcy i grupy kapitałowej, do której należy nabywca, w rynku właściwym zakupu towarów objętych takim porozumieniem nie przekracza 30% – z zastrzeżeniem § 9.
 2.
 Jeżeli w ramach porozumienia wertykalnego wielostronnego przedsiębiorca nabywa towary objęte tym porozumieniem od przedsiębiorcy będącego stroną tego porozumienia oraz sprzedaje te towary innemu przedsiębiorcy będącemu również stroną tego porozumienia, wyłączenie stosuje się, jeżeli jego udział w rynku zarówno jako nabywcy oraz jako dostawcy, nie przekracza 30%.
 § 9.
@@ -171,7 +168,7 @@ dystrybutorom detalicznym działającym w systemie dystrybucji selektywnej możl
 wzajemnych dostaw między dystrybutorami działającymi w systemie dystrybucji selektywnej, włączając w to dystrybutorów działających na różnych szczeblach obrotu;
 5)
 prawa dostawcy do sprzedaży komponentów objętych porozumieniem wertykalnym – jako części zamiennych – ostatecznym użytkownikom, zakładom naprawczym lub innym usługodawcom, którym nabywca nie powierzył napraw lub serwisowania towarów wyprodukowanych z użyciem tych komponentów.
-§ 11a.
+§ 11aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Wyłączeniu nie podlegają porozumienia wertykalne w sektorze pojazdów samochodowych, które bezpośrednio lub pośrednio, samodzielnie lub w powiązaniu z innymi okolicznościami zależnymi od stron tych porozumień mają na celu:
 1)
@@ -195,8 +192,7 @@ dotyczy towarów, które ze względu na ich przeznaczenie, cenę oraz właściwo
 b)
 jest ograniczone do lokalu lub terenu, na którym nabywca prowadzi działalność w trakcie obowiązywania porozumienia wertykalnego, oraz
 c)
-jest niezbędne do ochrony know-how przekazanego przez dostawcę nabywcy
-a czas ich obowiązywania jest ograniczony do roku po wygaśnięciu porozumienia wertykalnego, z wyjątkiem możliwości nałożenia ograniczenia, które nie ma limitu czasowego na używanie i ujawnianie know-how.
+jest niezbędne do ochrony know-how przekazanego przez dostawcę nabywcy – a czas ich obowiązywania jest ograniczony do roku po wygaśnięciu porozumienia wertykalnego, z wyjątkiem możliwości nałożenia ograniczenia, które nie ma limitu czasowego na używanie i ujawnianie know-how.
 § 13.
 Wyłączenia nie stosuje się do porozumień wertykalnych, jeżeli klauzul, o których mowa w § 12 i których występowanie w porozumieniu stanowi naruszenie art. 6 ust. 1 ustawy, nie można oddzielić od porozumienia wertykalnego jako całości.
 § 14.
@@ -204,5 +200,5 @@ Do porozumień wertykalnych podlegających wyłączeniu na podstawie rozporządz
 § 15.
 Rozporządzenie obowiązuje do dnia 31 maja 2023 r.
 § 16.
-Rozporządzenie wchodzi w życie z dniem 1 czerwca 2011 r.
+Rozporządzenie wchodzi w życie z dniem 1 czerwca 2011 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 660 i Nr 171, poz. 1206, z 2008 r. Nr 157, poz. 976, Nr 223, poz. 1458 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 i Nr 157, poz. 1241, z 2011 r. Nr 34, poz. 173 oraz z 2014 r. poz. 945. 2) Dodany przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 23 maja 2013 r. zmieniającego rozporządzenie w sprawie wyłączenia niektórych rodzajów porozumień wertykalnych spod zakazu porozumień ograniczających konkurencję (Dz. U. poz. 622), które weszło w życie z dniem 1 czerwca 2013 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312, 486, 529, 768, 822 i 970. 4) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
 

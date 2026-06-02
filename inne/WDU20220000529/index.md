@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 24 lutego 2022 r. zmieniające rozporządzenie w sprawie sposobu przesyłania za pomocą środków komunikacji elektronicznej ksiąg podatkowych oraz wymagań technicznych dla informatycznych nośników danych, na których te księgi mogą być zapisane i przekazywane
+# Rozporządzenie Ministra Finansówz dnia 24 lutego 2022 r. zmieniające rozporządzenie w sprawie sposobu przesyłania za pomocą środków komunikacji elektronicznej ksiąg podatkowych oraz wymagań technicznych dla informatycznych nośników danych, na których te księgi mogą być zapisane i przekazywane Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-02-24 |
 | Data wydania | 2022-03-04 |
-| Wejście w życie | 2022-03-05 |
 | Ostatnia zmiana | 2025-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000529) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/529/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 193a § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, 1598, 2076, 2105, 2262 i 2328) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Finansów z dnia 24 czerwca 2016 r. w sprawie sposobu przesyłania za pomocą środków komunikacji elektronicznej ksiąg podatkowych oraz wymagań technicznych dla informatycznych nośników danych, na których te księgi mogą być zapisane i przekazywane (Dz. U. z 2020 r. poz. 175) w § 2 w ust. 2a pkt 5 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Finansów z dnia 24 czerwca 2016 r. w sprawie sposobu przesyłania za pomocą środków komunikacji elektronicznej ksiąg podatkowych oraz wymagań technicznych dla informatycznych nośników danych, na których te księgi mogą być zapisane i przekazywane (Dz. U. z 2020 r. poz. 175) w § 2 w ust. 2a pkt 5 otrzymuje brzmienie: „
 5)
 wysokość przychodu wykazanego odpowiednio w:
 a)
@@ -48,10 +46,7 @@ poz. 20 zeznania o wysokości osiągniętego dochodu (poniesionej straty) w roku
 g)
 poz. 38 lub 40 rocznego obliczenia podatku przez organ rentowy za rok podatkowy (PIT-40A) – w przypadku wariantu formularza oznaczonego liczbą 19 w brzmieniu nadanym rozporządzeniem Ministra Finansów z dnia 23 listopada 2018 r. w sprawie wzoru rocznego obliczenia podatku wraz z informacją o wysokości dochodu, do sporządzenia których obowiązane są organy rentowe (Dz. U. poz. 2239),
 h)
-poz. 36 lub 38 rocznego obliczenia podatku przez organ rentowy za rok podatkowy (PIT-40A) – w przypadku wariantu formularza oznaczonego liczbą 20 w brzmieniu nadanym rozporządzeniem Ministra Finansów z dnia 29 lipca 2020 r. w sprawie wzoru rocznego obliczenia podatku wraz z informacją o wysokości dochodu, do sporządzenia których obowiązane są organy rentowe (Dz. U. poz. 1343)
-za rok podatkowy o dwa lata wcześniejszy niż rok przesyłania księgi albo wartość „0” (zero), gdy za ten rok podatkowy nie złożono żadnego z wymienionych zeznań lub obliczeń; przepis ust. 5 stosuje się odpowiednio.
-” .
+poz. 36 lub 38 rocznego obliczenia podatku przez organ rentowy za rok podatkowy (PIT-40A) – w przypadku wariantu formularza oznaczonego liczbą 20 w brzmieniu nadanym rozporządzeniem Ministra Finansów z dnia 29 lipca 2020 r. w sprawie wzoru rocznego obliczenia podatku wraz z informacją o wysokości dochodu, do sporządzenia których obowiązane są organy rentowe (Dz. U. poz. 1343) – za rok podatkowy o dwa lata wcześniejszy niż rok przesyłania księgi albo wartość „0” (zero), gdy za ten rok podatkowy nie złożono żadnego z wymienionych zeznań lub obliczeń; przepis ust. 5 stosuje się odpowiednio. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947).
 

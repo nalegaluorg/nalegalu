@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 17 maja 2021 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 17 maja 2021 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-17 |
 | Data wydania | 2021-05-20 |
-| Wejście w życie | 2021-05-21 |
 | Ostatnia zmiana | 2025-03-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000930) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/930/text.pdf) |
 
@@ -33,20 +32,15 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 sierpnia 2015 r. w 
 1)
 w § 4 w ust. 7 w pkt 1 w części wspólnej, w ust. 7a i w ust. 9 w pkt 1 w lit. d oraz w § 26a w zdaniu pierwszym liczbę „2023” zastępuje się liczbą „2025”;
 2)
-w § 11 ust. 1 otrzymuje brzmienie:
-„
+w § 11 ust. 1 otrzymuje brzmienie: „
 1.
-W jednym roku można złożyć tylko jeden wniosek o przyznanie pomocy dotyczący danego gospodarstwa na operację w obszarach, o których mowa w § 4 ust. 1 pkt 1 lit. a-d.
-” ;
+W jednym roku można złożyć tylko jeden wniosek o przyznanie pomocy dotyczący danego gospodarstwa na operację w obszarach, o których mowa w § 4 ust. 1 pkt 1 lit. a-d. ” ;
 3)
-w § 13 ust. 6 otrzymuje brzmienie:
-„
+w § 13 ust. 6 otrzymuje brzmienie: „
 6.
-Jeżeli biznesplan lub informacja o wielkości ekonomicznej gospodarstwa nie są składane w postaci elektronicznej na adres do doręczeń elektronicznych w rozumieniu art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320 oraz z 2021 r. poz. 72 i 802), składa się je na informatycznym nośniku danych (CD, DVD lub pamięć USB) wraz z wydrukiem podsumowania tego biznesplanu lub wydrukiem arkusza podsumowującego tę informację.
-” ;
+Jeżeli biznesplan lub informacja o wielkości ekonomicznej gospodarstwa nie są składane w postaci elektronicznej na adres do doręczeń elektronicznych w rozumieniu art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320 oraz z 2021 r. poz. 72 i 802), składa się je na informatycznym nośniku danych (CD, DVD lub pamięć USB) wraz z wydrukiem podsumowania tego biznesplanu lub wydrukiem arkusza podsumowującego tę informację. ” ;
 4)
-w § 16 po ust. 7 dodaje się ust. 7a w brzmieniu:
-„
+w § 16 po ust. 7 dodaje się ust. 7a w brzmieniu: „
 7a.
 W przypadku gdy w terminie składania wniosków o przyznanie pomocy wskazanym dla danego obszaru spośród obszarów, o których mowa w § 4 ust. 1 pkt 1 lit. a-d, jest realizowany nabór wniosków o przyznanie pomocy w ramach innego z obszarów, o których mowa w § 4 ust. 1 pkt 1 lit. a-d, to pomoc przysługuje według następującej kolejności:
 1)
@@ -56,8 +50,7 @@ na operacje w obszarze, o którym mowa w § 4 ust. 1 pkt 1 lit. c;
 3)
 na operacje w obszarze, o którym mowa w § 4 ust. 1 pkt 1 lit. b;
 4)
-na operacje w obszarze, o którym mowa w § 4 ust. 1 pkt 1 lit. d.
-” ;
+na operacje w obszarze, o którym mowa w § 4 ust. 1 pkt 1 lit. d. ” ;
 5)
 w § 18 w ust. 1 i w § 18a skreśla się wyrazy „w województwie mazowieckim i łącznie w pozostałych województwach”.
 § 2.
@@ -67,6 +60,5 @@ Do przyznawania pomocy finansowej na operacje typu „Modernizacja gospodarstw r
 2)
 do dnia 30 czerwca 2021 r., jeżeli biznesplan lub informacja o wielkości ekonomicznej gospodarstwa nie są składane w formie dokumentu elektronicznego na elektroniczną skrzynkę podawczą w rozumieniu art. 3 pkt 17 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 670), składa się je na informatycznym nośniku danych (CD, DVD lub pamięć USB) wraz z wydrukiem podsumowania tego biznesplanu lub wydrukiem arkusza podsumowującego tę informację.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 3, który wchodzi w życie z dniem 1 lipca 2021 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 3, który wchodzi w życie z dniem 1 lipca 2021 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928).
 

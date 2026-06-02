@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-12 |
 | Data wydania | 2015-01-07 |
-| Wejście w życie | 2015-01-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000019) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/19/text.pdf) |
 
@@ -31,27 +30,21 @@ Na podstawie art. 21 ust. 4 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz.
 § 1.
 W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 2 kwietnia 2012 r. w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. poz. 390) wprowadza się następujące zmiany:
 1)
-w § 2 pkt 2 otrzymuje brzmienie:
-„
+w § 2 pkt 2 otrzymuje brzmienie: „
 2)
-zatrudniony jest co najmniej jeden pracownik ze stopniem naukowym w zakresie bibliologii i informatologii lub w zakresie jednej z dyscyplin naukowych albo artystycznych zaliczonych do dziedziny nauki obsługiwanej przez bibliotekę, prowadzący działalność naukową albo działalność upowszechniającą naukę;
-” ;
+zatrudniony jest co najmniej jeden pracownik ze stopniem naukowym w zakresie bibliologii i informatologii lub w zakresie jednej z dyscyplin naukowych albo artystycznych zaliczonych do dziedziny nauki obsługiwanej przez bibliotekę, prowadzący działalność naukową albo działalność upowszechniającą naukę; ” ;
 2)
 w załączniku do rozporządzenia:
 a)
-pkt 9 i 10 otrzymują brzmienie:
-„
+pkt 9 i 10 otrzymują brzmienie: „
 9.
 Biblioteka Publiczna m.st. Warszawy – Biblioteka Główna Województwa Mazowieckiego
 10.
-Wojewódzka Biblioteka Publiczna im. Marszałka Józefa Piłsudskiego w Łodzi
-” ,
+Wojewódzka Biblioteka Publiczna im. Marszałka Józefa Piłsudskiego w Łodzi ” ,
 b)
-dodaje się pkt 28 w brzmieniu:
-„
+dodaje się pkt 28 w brzmieniu: „
 28.
-Biblioteka Zakładu Narodowego im. Ossolińskich we Wrocławiu
-” .
+Biblioteka Zakładu Narodowego im. Ossolińskich we Wrocławiu ” .
 § 2.
 Biblioteki zaliczone do bibliotek naukowych na podstawie dotychczasowych przepisów w terminie czterech lat od dnia wejścia w życie niniejszego rozporządzenia dostosują swoją działalność do wymogu określonego w § 2 pkt 2 rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 3 kwietnia 2018 r. w sprawie zakresu informacji przekazywanych organowi kontroli obrotu przez podmiot dokonujący obrotu towarami o znaczeniu strategicznym w ramach zezwoleń generalnych
+# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 3 kwietnia 2018 r. w sprawie zakresu informacji przekazywanych organowi kontroli obrotu przez podmiot dokonujący obrotu towarami o znaczeniu strategicznym w ramach zezwoleń generalnych Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-04-03 |
 | Data wydania | 2018-04-18 |
-| Wejście w życie | 2018-06-01 |
 | Ostatnia zmiana | 2026-04-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000747) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/747/text.pdf) |
 
@@ -65,6 +64,5 @@ końcowe przeznaczenie i oznaczenie końcowego użytkownika.
 § 3.
 Traci moc rozporządzenie Ministra Gospodarki z dnia 13 maja 2013 r. w sprawie zakresu informacji przekazywanych organowi kontroli obrotu przez podmiot dokonujący obrotu towarami o znaczeniu strategicznym w ramach zezwoleń generalnych (Dz. U. poz. 620).
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 czerwca 2018 r.
-1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
+Rozporządzenie wchodzi w życie z dniem 1 czerwca 2018 r. 1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 

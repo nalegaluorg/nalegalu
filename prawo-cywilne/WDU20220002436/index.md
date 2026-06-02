@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 4 listopada 2022 r. o zmianie ustawy o Krajowym Rejestrze Sądowym, ustawy – Kodeks postępowania cywilnego oraz ustawy – Kodeks spółek handlowych
+# Ustawa z dnia 4 listopada 2022 r. o zmianie ustawy o Krajowym Rejestrze Sądowym, ustawy – Kodeks postępowania cywilnego oraz ustawy – Kodeks spółek handlowych Niniejsza ustawa wdraża częściowo dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1151 z dnia 20 czerwca 2019 r. zmieniającą dyrektywę (UE) 2017/1132 w odniesieniu do stosowania narzędzi i procesów cyfrowych w prawie spółek (Dz. Urz. UE L 186 z 11.07.2019, str. 80).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-04 |
 | Data wydania | 2022-11-25 |
-| Wejście w życie | 2022-12-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002436) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2436/text.pdf) |
 
@@ -93,7 +92,7 @@ source: "eli-html"
 
 1d. Wpis informacji, o których mowa w art. 21d ust. 1 pkt 5 oraz ust. 2, następuje z urzędu. ” .
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180 i 2339.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6944: w § 22 pkt 1 otrzymuje brzmienie: „
     - **a)**
@@ -119,5 +118,5 @@ source: "eli-html"
 
 **Art. 4.** Do postępowań wszczętych na podstawie ustaw zmienianych w art. 1 i art. 2 oraz niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 15 grudnia 2022 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem 15 grudnia 2022 r. 1) Niniejsza ustawa wdraża częściowo dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1151 z dnia 20 czerwca 2019 r. zmieniającą dyrektywę (UE) 2017/1132 w odniesieniu do stosowania narzędzi i procesów cyfrowych w prawie spółek (Dz. Urz. UE L 186 z 11.07.2019, str. 80). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180 i 2339.
 

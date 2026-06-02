@@ -37,19 +37,15 @@ rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 3 stycznia 
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 23 stycznia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu wydawania, posługiwania się, przechowywania i ewidencji dokumentów, które uniemożliwiają ustalenie danych identyfikujących policjanta lub osobę udzielającą pomocy Policji oraz środków, którymi posługują się przy wykonywaniu zadań służbowych (Dz. U. poz. 224), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 23 stycznia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu wydawania, posługiwania się, przechowywania i ewidencji dokumentów, które uniemożliwiają ustalenie danych identyfikujących policjanta lub osobę udzielającą pomocy Policji oraz środków, którymi posługują się przy wykonywaniu zadań służbowych (Dz. U. poz. 224), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 3 stycznia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu wydawania, posługiwania się, przechowywania i ewidencji dokumentów, które uniemożliwiają ustalenie danych identyfikujących policjanta lub osobę udzielającą pomocy Policji oraz środków, którymi posługują się przy wykonywaniu zadań służbowych (Dz. U. poz. 26), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 3 stycznia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu wydawania, posługiwania się, przechowywania i ewidencji dokumentów, które uniemożliwiają ustalenie danych identyfikujących policjanta lub osobę udzielającą pomocy Policji oraz środków, którymi posługują się przy wykonywaniu zadań służbowych (Dz. U. poz. 26), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r.
-” .
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 maja 2002 r. w sprawie szczegółowych zasad i trybu wydawania, posługiwania się, przechowywania i ewidencji dokumentów, które uniemożliwiają ustalenie danych identyfikujących policjanta lub osobę udzielającą pomocy Policji oraz środków, którymi posługują się przy wykonywaniu zadań służbowych
-Na podstawie art. 20a ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, z późn. zm.) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r. ” .
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 maja 2002 r. w sprawie szczegółowych zasad i trybu wydawania, posługiwania się, przechowywania i ewidencji dokumentów, które uniemożliwiają ustalenie danych identyfikujących policjanta lub osobę udzielającą pomocy Policji oraz środków, którymi posługują się przy wykonywaniu zadań służbowychMinister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Na podstawie art. 20a ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2333, 2447 i 2448 oraz z 2022 r. poz. 655, 1115, 1488 i 1855.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe zasady i tryb wydawania, posługiwania się, przechowywania i ewidencji dokumentów uniemożliwiających ustalenie danych identyfikujących policjanta, osobę udzielającą pomocy Policji oraz środków, którymi posługują się podczas wykonywania czynności operacyjno-rozpoznawczych albo udzielania pomocy.
 § 2.
@@ -65,15 +61,14 @@ Wnioski, o których mowa w ust. 2, składają:
 kierownicy komórek organizacyjnych Komendy Głównej Policji,
 1a)
 Komendant CBŚP,
-1b)
+1bDodany przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 23 stycznia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu wydawania, posługiwania się, przechowywania i ewidencji dokumentów, które uniemożliwiają ustalenie danych identyfikujących policjanta lub osobę udzielającą pomocy Policji oraz środków, którymi posługują się przy wykonywaniu zadań służbowych (Dz. U. poz. 224), które weszło w życie z dniem 27 stycznia 2018 r.)
 Komendant Biura Spraw Wewnętrznych Policji,
-1c)
+1cDodany przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 3 stycznia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu wydawania, posługiwania się, przechowywania i ewidencji dokumentów, które uniemożliwiają ustalenie danych identyfikujących policjanta lub osobę udzielającą pomocy Policji oraz środków, którymi posługują się przy wykonywaniu zadań służbowych (Dz. U. poz. 26), które weszło w życie z dniem 12 stycznia 2022 r.)
 Komendant Centralnego Biura Zwalczania Cyberprzestępczości,
 2)
 komendanci wojewódzcy Policji,
 3)
-kierownicy organów, służb i instytucji państwowych uprawnionych do posługiwania się dokumentami na podstawie odrębnych przepisów,
-zwani dalej „wnioskodawcami”.
+kierownicy organów, służb i instytucji państwowych uprawnionych do posługiwania się dokumentami na podstawie odrębnych przepisów, zwani dalej „wnioskodawcami”.
 4.
 Pisemny wniosek o wydanie dokumentu powinien zawierać:
 1)
@@ -194,6 +189,5 @@ Do wydawania, posługiwania się, przechowywania i ewidencji dokumentów stosuje
 § 15.
 Traci moc zarządzenie nr 5/99 Ministra Spraw Wewnętrznych i Administracji z dnia 12 lutego 1999 r. w sprawie szczegółowych zasad i trybu wydawania, posługiwania się i przechowywania dokumentów, które uniemożliwiają ustalenie danych identyfikujących policjanta oraz środków, którymi posługuje się przy wykonywaniu zadań służbowych (Dz. Urz. MSWiA poz. 14).
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2333, 2447 i 2448 oraz z 2022 r. poz. 655, 1115, 1488 i 1855. 3) Dodany przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 23 stycznia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu wydawania, posługiwania się, przechowywania i ewidencji dokumentów, które uniemożliwiają ustalenie danych identyfikujących policjanta lub osobę udzielającą pomocy Policji oraz środków, którymi posługują się przy wykonywaniu zadań służbowych (Dz. U. poz. 224), które weszło w życie z dniem 27 stycznia 2018 r. 4) Dodany przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 3 stycznia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu wydawania, posługiwania się, przechowywania i ewidencji dokumentów, które uniemożliwiają ustalenie danych identyfikujących policjanta lub osobę udzielającą pomocy Policji oraz środków, którymi posługują się przy wykonywaniu zadań służbowych (Dz. U. poz. 26), które weszło w życie z dniem 12 stycznia 2022 r. 5) Rozporządzenie zostało ogłoszone w dniu 14 czerwca 2002 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 14 czerwca 2002 r.. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2333, 2447 i 2448 oraz z 2022 r. poz. 655, 1115, 1488 i 1855. 3) Dodany przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 23 stycznia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu wydawania, posługiwania się, przechowywania i ewidencji dokumentów, które uniemożliwiają ustalenie danych identyfikujących policjanta lub osobę udzielającą pomocy Policji oraz środków, którymi posługują się przy wykonywaniu zadań służbowych (Dz. U. poz. 224), które weszło w życie z dniem 27 stycznia 2018 r. 4) Dodany przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 3 stycznia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu wydawania, posługiwania się, przechowywania i ewidencji dokumentów, które uniemożliwiają ustalenie danych identyfikujących policjanta lub osobę udzielającą pomocy Policji oraz środków, którymi posługują się przy wykonywaniu zadań służbowych (Dz. U. poz. 26), które weszło w życie z dniem 12 stycznia 2022 r. 5) Rozporządzenie zostało ogłoszone w dniu 14 czerwca 2002 r.
 

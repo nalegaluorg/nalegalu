@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-17 |
 | Data wydania | 2022-05-20 |
-| Wejście w życie | 2022-06-04 |
 | Ostatnia zmiana | 2025-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001073) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1073/text.pdf) |
 
@@ -33,11 +32,13 @@ Na podstawie art. 14 ust. 1 ustawy z dnia 18 grudnia 1998 r. o pracownikach sąd
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U. z 2021 r. poz. 2288 i 2295) wprowadza się następujące zmiany:
 1)
-w załączniku nr 1 do rozporządzenia w części „Sądy powszechne i wojskowe” w tabeli po wierszu „administrator systemu informatycznego administrator systemu teleinformatycznego inspektor bezpieczeństwa teleinformatycznego informatyk” dodaje się wiersz w brzmieniu: menedżer usługi wykształcenie wyższe: studia pierwszego stopnia lub studia drugiego stopnia, lub jednolite studia magisterskie, na kierunku związanym z kształceniem w zakresie informatyki, ekonomii, zarządzania lub studia prawnicze
+w załączniku nr 1 do rozporządzenia w części „Sądy powszechne i wojskowe” w tabeli po wierszu „administrator systemu informatycznego administrator systemu teleinformatycznego inspektor bezpieczeństwa teleinformatycznego informatyk” dodaje się wiersz w brzmieniu:
+menedżer usługi wykształcenie wyższe: studia pierwszego stopnia lub studia drugiego stopnia, lub jednolite studia magisterskie, na kierunku związanym z kształceniem w zakresie informatyki, ekonomii, zarządzania lub studia prawnicze
 2)
 załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia;
 3)
-w załączniku nr 4 do rozporządzenia w części „Sądy powszechne i wojskowe” w tabeli po wierszu „- informatyk” dodaje się wiersz w brzmieniu: – menedżer usługi do 2000
+w załączniku nr 4 do rozporządzenia w części „Sądy powszechne i wojskowe” w tabeli po wierszu „- informatyk” dodaje się wiersz w brzmieniu:
+menedżer usługi do 2000
 § 2.
 Kwoty wynagrodzenia zasadniczego określone w załączniku nr 3 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do wynagrodzenia zasadniczego przysługującego urzędnikom i innym pracownikom sądów i prokuratury od dnia 1 stycznia 2022 r.
 § 3.

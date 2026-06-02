@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 11 lipca 2024 r. zmieniające rozporządzenie w sprawie rodzajów dokumentów i informacji wymaganych do rozpatrzenia wniosku o określenie warunków zwrotu, odstąpienie od dochodzenia zwrotu lub umorzenie należności Funduszu Gwarantowanych Świadczeń Pracowniczych
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 11 lipca 2024 r. zmieniające rozporządzenie w sprawie rodzajów dokumentów i informacji wymaganych do rozpatrzenia wniosku o określenie warunków zwrotu, odstąpienie od dochodzenia zwrotu lub umorzenie należności Funduszu Gwarantowanych Świadczeń Pracowniczych Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-11 |
 | Data wydania | 2024-07-16 |
-| Wejście w życie | 2024-07-17 |
 | Ostatnia zmiana | 2026-03-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001053) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1053/text.pdf) |
 
@@ -31,24 +30,17 @@ Na podstawie art. 23 ust. 11 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń
 § 1.
 W rozporządzeniu Ministra Rodziny, Pracy i Polityki Społecznej z dnia 19 października 2017 r. w sprawie rodzajów dokumentów i informacji wymaganych do rozpatrzenia wniosku o określenie warunków zwrotu, odstąpienie od dochodzenia zwrotu lub umorzenie należności Funduszu Gwarantowanych Świadczeń Pracowniczych (Dz. U. poz. 2007) wprowadza się następujące zmiany:
 1)
-w § 9 pkt 1 otrzymuje brzmienie:
-„
+w § 9 pkt 1 otrzymuje brzmienie: „
 1)
-wszystkie zaświadczenia o pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie, jaką dłużnik Funduszu otrzymał w okresie trzech lat poprzedzających dzień złożenia wniosku, lub oświadczenie o wielkości pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie otrzymanej w tym okresie albo oświadczenie o nieotrzymaniu pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie w tym okresie;
-” ;
+wszystkie zaświadczenia o pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie, jaką dłużnik Funduszu otrzymał w okresie trzech lat poprzedzających dzień złożenia wniosku, lub oświadczenie o wielkości pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie otrzymanej w tym okresie albo oświadczenie o nieotrzymaniu pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie w tym okresie; ” ;
 2)
-w § 16 pkt 5 otrzymuje brzmienie:
-„
+w § 16 pkt 5 otrzymuje brzmienie: „
 5)
-oświadczenie dłużnika Funduszu o wielkości udzielonej – w okresie trzech lat poprzedzających dzień złożenia wniosku – i wnioskowanej pomocy publicznej oraz pomocy de minimis lub pomocy de minimis w rolnictwie lub rybołówstwie;
-” ;
+oświadczenie dłużnika Funduszu o wielkości udzielonej – w okresie trzech lat poprzedzających dzień złożenia wniosku – i wnioskowanej pomocy publicznej oraz pomocy de minimis lub pomocy de minimis w rolnictwie lub rybołówstwie; ” ;
 3)
-w § 17 pkt 5 otrzymuje brzmienie:
-„
+w § 17 pkt 5 otrzymuje brzmienie: „
 5)
-oświadczenie dłużnika Funduszu o wielkości udzielonej – w okresie trzech lat poprzedzających dzień złożenia wniosku – i wnioskowanej pomocy publicznej oraz pomocy de minimis lub pomocy de minimis w rolnictwie lub rybołówstwie;
-” .
+oświadczenie dłużnika Funduszu o wielkości udzielonej – w okresie trzech lat poprzedzających dzień złożenia wniosku – i wnioskowanej pomocy publicznej oraz pomocy de minimis lub pomocy de minimis w rolnictwie lub rybołówstwie; ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715).
 

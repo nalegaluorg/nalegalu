@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 14 grudnia 2022 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 14 grudnia 2022 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-14 |
 | Data wydania | 2022-12-16 |
-| Wejście w życie | 2022-12-17 |
 | Ostatnia zmiana | 2024-09-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002653) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2653/text.pdf) |
 
@@ -31,21 +30,20 @@ Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu r
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 sierpnia 2015 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2021 r. poz. 2101) wprowadza się następujące zmiany:
 1)
-w § 2 po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+w § 2 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Warunek przyznania pomocy, o którym mowa w ust. 1 pkt 1 lit. a, w zakresie maksymalnej powierzchni gruntów ornych, sadów, łąk trwałych, pastwisk trwałych, gruntów rolnych zabudowanych, gruntów pod stawami lub gruntów pod rowami nie dotyczy realizacji operacji w obszarze zielona energia w gospodarstwie.
-” ;
+Warunek przyznania pomocy, o którym mowa w ust. 1 pkt 1 lit. a, w zakresie maksymalnej powierzchni gruntów ornych, sadów, łąk trwałych, pastwisk trwałych, gruntów rolnych zabudowanych, gruntów pod stawami lub gruntów pod rowami nie dotyczy realizacji operacji w obszarze zielona energia w gospodarstwie. ” ;
 2)
 w § 4:
 a)
 w ust. 1:
 – w pkt 1 we wprowadzeniu do wyliczenia po wyrazach „w gospodarstwie” dodaje się wyrazy „lub w obszarze zielona energia w gospodarstwie,”,
 – w pkt 3 po wyrazach „oraz nawadnianiem” dodaje się wyrazy „w przypadku operacji, o której mowa w ust. 1 pkt 1 lit. a-d, oraz nawadniania w gospodarstwie”,
-– po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) obejmującą inwestycje związane z wytwarzaniem energii elektrycznej z energii promieniowania słonecznego, magazynowaniem tej energii oraz wykorzystywaniem jej wyłącznie na potrzeby własne gospodarstwa, w przypadku operacji w obszarze zielona energia w gospodarstwie; ” ,
+po pkt 3 dodaje się pkt 3a w brzmieniu: „
+3a)
+obejmującą inwestycje związane z wytwarzaniem energii elektrycznej z energii promieniowania słonecznego, magazynowaniem tej energii oraz wykorzystywaniem jej wyłącznie na potrzeby własne gospodarstwa, w przypadku operacji w obszarze zielona energia w gospodarstwie; ” ,
 b)
-po ust. 1a dodaje się ust. 1b-1d w brzmieniu:
-„
+po ust. 1a dodaje się ust. 1b-1d w brzmieniu: „
 1b.
 W przypadku operacji w obszarze zielona energia w gospodarstwie pomoc jest przyznawana, jeżeli inwestycja objęta tą operacją:
 1)
@@ -69,30 +67,25 @@ parametry techniczne istniejących oraz planowanych do wykonania magazynów ener
 6)
 określenie doboru mocy planowanych do wykonania urządzeń do wytwarzania energii elektrycznej z energii promieniowania słonecznego oraz magazynów energii elektrycznej lub pomp ciepła na podstawie zużycia energii elektrycznej wynikającej z przedstawionych faktur za okres, o którym mowa w pkt 2, z uwzględnieniem urządzeń, o których mowa w pkt 3, oraz zainstalowania pomp ciepła, w podziale na budynki mieszkalne jednorodzinne oraz pozostałe budynki w gospodarstwie, z wyłączeniem budynków przeznaczonych do chowu drobiu nieekologicznego, o którym mowa w ust. 3.
 1d.
-Przepisu ust. 1 pkt 6 nie stosuje się w przypadku realizacji operacji w obszarze zielona energia w gospodarstwie.
-” ;
+Przepisu ust. 1 pkt 6 nie stosuje się w przypadku realizacji operacji w obszarze zielona energia w gospodarstwie. ” ;
 3)
 w § 4 w ust. 7a, w § 8 w ust. 6 w pkt 2, w § 11 w ust. 1a oraz w § 18a po wyrazach „w gospodarstwie” dodaje się wyrazy „lub w obszarze zielona energia w gospodarstwie”;
 4)
 w § 7:
 a)
-w ust. 1 po pkt 4c dodaje się pkt 4d-4f w brzmieniu:
-„
+w ust. 1 po pkt 4c dodaje się pkt 4d-4f w brzmieniu: „
 4d)
 zakupu urządzeń do wytwarzania energii elektrycznej z energii promieniowania słonecznego i magazynowania tej energii;
 4e)
 budowy lub zakupu elementów infrastruktury technicznej niezbędnej do instalacji urządzeń do wytwarzania energii elektrycznej z energii promieniowania słonecznego i magazynowania tej energii;
 4f)
-zakupu pomp ciepła;
-” ,
+zakupu pomp ciepła; ” ,
 b)
 w ust. 3b wyrazy „pkt 4a-5” zastępuje się wyrazami „pkt 4a-4c i 5”,
 c)
-po ust. 3b dodaje się ust. 3c w brzmieniu:
-„
+po ust. 3b dodaje się ust. 3c w brzmieniu: „
 3c.
-W przypadku operacji realizowanej w obszarze zielona energia w gospodarstwie pomoc przyznaje się w formie refundacji części kosztów kwalifikowalnych, o których mowa w ust. 1 pkt 4d-5.
-” ,
+W przypadku operacji realizowanej w obszarze zielona energia w gospodarstwie pomoc przyznaje się w formie refundacji części kosztów kwalifikowalnych, o których mowa w ust. 1 pkt 4d-5. ” ,
 d)
 w ust. 6 w pkt 1 po wyrazach „lit. a-d” dodaje się wyrazy „, lub w obszarze zielona energia w gospodarstwie”;
 5)
@@ -104,20 +97,17 @@ w ust. 1:
 b)
 w ust. 1a wyrazy „900 tys.” zastępuje się wyrazami „1 mln”,
 c)
-ust. 1b otrzymuje brzmienie:
-„
+ust. 1b otrzymuje brzmienie: „
 1b.
 W przypadku operacji w obszarze nawadniania w gospodarstwie oraz w obszarze zielona energia w gospodarstwie pomoc przyznaje się i wypłaca do wysokości limitu, który w okresie realizacji programu, na jednego beneficjenta i na jedno gospodarstwo, wynosi maksymalnie:
 1)
 100 tys. zł – w przypadku operacji w obszarze nawadniania w gospodarstwie;
 2)
-150 tys. zł – w przypadku operacji w obszarze zielona energia w gospodarstwie.
-” ;
+150 tys. zł – w przypadku operacji w obszarze zielona energia w gospodarstwie. ” ;
 6)
 w § 9:
 a)
-po ust. 1a dodaje się ust. 1b w brzmieniu:
-„
+po ust. 1a dodaje się ust. 1b w brzmieniu: „
 1b.
 Do kosztów kwalifikowalnych, o których mowa w § 7 ust. 1 pkt 4d-4f, zalicza się koszty:
 1)
@@ -131,8 +121,7 @@ budowy lub zakupu infrastruktury technicznej niezbędnej do instalacji urządze�
 5)
 zakupu sprzętu komputerowego i oprogramowania na potrzeby funkcjonowania systemów zarządzania przepływami energii elektrycznej;
 6)
-opłat za patenty lub licencje.
-” ,
+opłat za patenty lub licencje. ” ,
 b)
 w ust. 3 wyrazy „ust. 1 pkt 1–7 i ust. 1a pkt 1–4” zastępuje się wyrazami: „ust. 1 pkt 1–7, ust. 1a pkt 1–4 i ust. 1b pkt 1–5”;
 7)
@@ -142,30 +131,23 @@ w § 12:
 a)
 w ust. 1 zdanie drugie otrzymuje brzmienie: „ Wniosek o przyznanie pomocy składa się osobiście albo przez upoważnioną osobę, albo przesyłką rejestrowaną nadaną w polskiej placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042) lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej. ” ,
 b)
-ust. 6 otrzymuje brzmienie:
-„
+ust. 6 otrzymuje brzmienie: „
 6.
-W przypadku złożenia wniosku o przyznanie pomocy przesyłką rejestrowaną nadaną w polskiej placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej za dzień złożenia wniosku uznaje się dzień, w którym nadano tę przesyłkę.
-” ;
+W przypadku złożenia wniosku o przyznanie pomocy przesyłką rejestrowaną nadaną w polskiej placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej za dzień złożenia wniosku uznaje się dzień, w którym nadano tę przesyłkę. ” ;
 9)
 w § 13 w ust. 3:
 a)
-po pkt 1a dodaje się pkt 1b w brzmieniu:
-„
+po pkt 1a dodaje się pkt 1b w brzmieniu: „
 1b)
-informacje o gospodarstwie, w tym dane dotyczące wielkości produkcji zwierzęcej, opracowane na formularzu udostępnionym do pobrania na stronie internetowej administrowanej przez Agencję – w przypadku operacji w obszarze zielona energia w gospodarstwie;
-” ,
+informacje o gospodarstwie, w tym dane dotyczące wielkości produkcji zwierzęcej, opracowane na formularzu udostępnionym do pobrania na stronie internetowej administrowanej przez Agencję – w przypadku operacji w obszarze zielona energia w gospodarstwie; ” ,
 b)
 w pkt 5 po wyrazach „w gospodarstwie” dodaje się wyrazy „, lub w obszarze zielona energia w gospodarstwie”,
 c)
-pkt 22 otrzymuje brzmienie:
-„
+pkt 22 otrzymuje brzmienie: „
 22)
-informację o złożeniu wniosku o wpis do ewidencji producentów, o której mowa w przepisach o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, jeżeli podmiotowi ubiegającemu się o przyznanie pomocy albo spółce cywilnej, której wspólnikiem jest podmiot ubiegający się o przyznanie pomocy, nie został nadany numer identyfikacyjny;
-” ,
+informację o złożeniu wniosku o wpis do ewidencji producentów, o której mowa w przepisach o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, jeżeli podmiotowi ubiegającemu się o przyznanie pomocy albo spółce cywilnej, której wspólnikiem jest podmiot ubiegający się o przyznanie pomocy, nie został nadany numer identyfikacyjny; ” ,
 d)
-po pkt 27 dodaje się pkt 27a-27c w brzmieniu:
-„
+po pkt 27 dodaje się pkt 27a-27c w brzmieniu: „
 27a)
 oświadczenie podmiotu ubiegającego się o przyznanie pomocy sporządzone na formularzu udostępnionym do pobrania na stronie internetowej administrowanej przez Agencję, że operacja nie będzie zrealizowana na pokryciu dachu wykonanym z wykorzystaniem wyrobów zawierających azbest, w przypadku operacji w obszarze zielona energia w gospodarstwie, jeżeli inwestycja objęta tą operacją dotyczy instalowania urządzeń do wytwarzania energii elektrycznej z energii promieniowania słonecznego na budynkach;
 27b)
@@ -177,15 +159,13 @@ instalatora, o którym mowa w art. 136 ust. 1 ustawy z dnia 20 lutego 2015 r. o 
 b)
 osobę zajmującą się eksploatacją urządzeń, instalacji lub sieci, która posiada kwalifikacje potwierdzone świadectwem, o którym mowa w art. 54 ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, 1723, 2127, 2243 i 2370), albo
 c)
-osobę posiadającą uprawnienia budowlane w specjalności instalacyjnej w zakresie sieci, instalacji i urządzeń elektrycznych i elektroenergetycznych, o której mowa w art. 15a ust. 22 lub 23 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2021 r. poz. 2351, z późn. zm.);
-” ;
+osobę posiadającą uprawnienia budowlane w specjalności instalacyjnej w zakresie sieci, instalacji i urządzeń elektrycznych i elektroenergetycznych, o której mowa w art. 15a ust. 22 lub 23 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2021 r. poz. 2351, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 88, 1557, 1768, 1783, 1846 i 2206.); ” ;
 10)
 w § 16:
 a)
 w ust. 8 w pkt 3 i w ust. 12 liczbę „2018” zastępuje się liczbą „2021”,
 b)
-dodaje się ust. 13 i 14 w brzmieniu:
-„
+dodaje się ust. 13 i 14 w brzmieniu: „
 13.
 O kolejności przysługiwania pomocy na operację w obszarze zielona energia w gospodarstwie decyduje suma uzyskanych punktów przyznanych na podstawie następujących kryteriów wyboru:
 1)
@@ -207,22 +187,17 @@ powyżej 18% i nie więcej niż 21%, przyznaje się 2 punkty,
 c)
 nie więcej niż 18%, przyznaje się 1 punkt.
 14.
-Przy ustalaniu liczby zwierząt w gospodarstwie w przeliczeniu na DJP, o których mowa w ust. 13 pkt 3, bierze się pod uwagę stan średni zwierząt w gospodarstwie z ostatnich 12 miesięcy poprzedzających miesiąc złożenia wniosku o przyznanie pomocy oraz stosuje się współczynniki przeliczania zwierząt na DJP określone w załączniku do rozporządzenia Rady Ministrów z dnia 10 września 2019 r. w sprawie przedsięwzięć mogących znacząco oddziaływać na środowisko (Dz. U. poz. 1839 oraz z 2022 r. poz. 1071).
-” ;
+Przy ustalaniu liczby zwierząt w gospodarstwie w przeliczeniu na DJP, o których mowa w ust. 13 pkt 3, bierze się pod uwagę stan średni zwierząt w gospodarstwie z ostatnich 12 miesięcy poprzedzających miesiąc złożenia wniosku o przyznanie pomocy oraz stosuje się współczynniki przeliczania zwierząt na DJP określone w załączniku do rozporządzenia Rady Ministrów z dnia 10 września 2019 r. w sprawie przedsięwzięć mogących znacząco oddziaływać na środowisko (Dz. U. poz. 1839 oraz z 2022 r. poz. 1071). ” ;
 11)
 w § 17:
 a)
-w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
-„
+w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 3)
-pkt 1b, 25, 27b i 27c, złożonych wraz z tym wnioskiem, w dniu złożenia tego wniosku – w przypadku operacji w obszarze zielona energia w gospodarstwie.
-” ,
+pkt 1b, 25, 27b i 27c, złożonych wraz z tym wnioskiem, w dniu złożenia tego wniosku – w przypadku operacji w obszarze zielona energia w gospodarstwie. ” ,
 b)
-w ust. 3 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
-„
+w ust. 3 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
 4)
-3 punkty – w przypadku operacji w obszarze zielona energia w gospodarstwie.
-” ;
+3 punkty – w przypadku operacji w obszarze zielona energia w gospodarstwie. ” ;
 12)
 w § 19 w ust. 1 we wprowadzeniu do wyliczenia po wyrazach „w gospodarstwie” dodaje się wyrazy „, lub w terminie 4 miesięcy od dnia zakończenia terminu składania wniosków o przyznanie pomocy, w przypadku operacji w obszarze zielona energia w gospodarstwie”;
 13)
@@ -230,29 +205,21 @@ w § 28:
 a)
 w ust. 1 zdanie drugie otrzymuje brzmienie: „ Wniosek o płatność składa się osobiście albo przez upoważnioną osobę, albo przesyłką rejestrowaną nadaną w polskiej placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej. ” ,
 b)
-ust. 1c otrzymuje brzmienie:
-„
+ust. 1c otrzymuje brzmienie: „
 1c.
-W przypadku złożenia wniosku o płatność przesyłką rejestrowaną nadaną w polskiej placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej za dzień złożenia wniosku uznaje się dzień, w którym nadano tę przesyłkę.
-” ;
+W przypadku złożenia wniosku o płatność przesyłką rejestrowaną nadaną w polskiej placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej za dzień złożenia wniosku uznaje się dzień, w którym nadano tę przesyłkę. ” ;
 14)
-w § 30 w ust. 10 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
-„
+w § 30 w ust. 10 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 3)
-§ 13 ust. 1 pkt 1, 2, 2a, 4, 7, 9, 10 i 12, ust. 3 pkt 1b, 2, 4, 8–10, 13, 14, 20–23, 25, 27a i 28 oraz ust. 4 i 5, § 14 ust. 3, § 15 oraz § 19–21 – w przypadku operacji w obszarze zielona energia w gospodarstwie.
-” ;
+§ 13 ust. 1 pkt 1, 2, 2a, 4, 7, 9, 10 i 12, ust. 3 pkt 1b, 2, 4, 8–10, 13, 14, 20–23, 25, 27a i 28 oraz ust. 4 i 5, § 14 ust. 3, § 15 oraz § 19–21 – w przypadku operacji w obszarze zielona energia w gospodarstwie. ” ;
 15)
-w § 31 w ust. 9 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
-„
+w § 31 w ust. 9 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 3)
-§ 13 ust. 1 pkt 1, 2, 2a, 4, 7, 9, 10 i 12, ust. 3 pkt 1b, 2, 4, 8–10, 13, 14, 20–23, 25, 27a i 28 oraz ust. 4 i 5, § 14 ust. 3, § 15 oraz § 19–21 – w przypadku operacji w obszarze zielona energia w gospodarstwie.
-” ;
+§ 13 ust. 1 pkt 1, 2, 2a, 4, 7, 9, 10 i 12, ust. 3 pkt 1b, 2, 4, 8–10, 13, 14, 20–23, 25, 27a i 28 oraz ust. 4 i 5, § 14 ust. 3, § 15 oraz § 19–21 – w przypadku operacji w obszarze zielona energia w gospodarstwie. ” ;
 16)
-po § 35e dodaje się § 35f w brzmieniu:
-„
+po § 35e dodaje się § 35f w brzmieniu: „
 § 35f.
-Do wniosków o przyznanie pomocy w obszarze nawadniania w gospodarstwie, złożonych w naborach rozpoczynających się od dnia 1 września 2022 r., które nie spełniają wymagań określonych w § 14 ust. 1a, stosuje się § 15.
-” .
+Do wniosków o przyznanie pomocy w obszarze nawadniania w gospodarstwie, złożonych w naborach rozpoczynających się od dnia 1 września 2022 r., które nie spełniają wymagań określonych w § 14 ust. 1a, stosuje się § 15. ” .
 § 2.
 1.
 Do przyznawania pomocy finansowej na operacje typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, w sprawach objętych postępowaniami wszczętymi i niezakończonymi zawarciem umowy o przyznaniu tej pomocy przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, z wyłączeniem:
@@ -278,6 +245,5 @@ W przypadku niezłożenia wniosku, o którym mowa w ust. 1, albo złożenia go w
 4.
 W przypadku gdy beneficjent złożył wniosek o płatność końcową przed dniem wejścia w życie niniejszego rozporządzenia i złożył wniosek, o którym mowa w ust. 1, termin rozpatrzenia wniosku o płatność końcową, o którym mowa w § 29 ust. 1 rozporządzenia zmienianego w § 1, wydłuża się o czas niezbędny do rozpatrzenia wniosku, o którym mowa w ust. 1.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 88, 1557, 1768, 1783, 1846 i 2206.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 88, 1557, 1768, 1783, 1846 i 2206.
 

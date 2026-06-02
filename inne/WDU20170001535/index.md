@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 2 sierpnia 2017 r. w sprawie Komisji Egzaminacyjnej dla Pośredników Kredytu Hipotecznego
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 2 sierpnia 2017 r. w sprawie Komisji Egzaminacyjnej dla Pośredników Kredytu Hipotecznego Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-02 |
 | Data wydania | 2017-08-16 |
-| Wejście w życie | 2017-08-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001535) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1535/text.pdf) |
 
@@ -56,8 +55,7 @@ Za przygotowanie testów egzaminacyjnych osobom wchodzącym w skład Komisji prz
 § 5.
 W przypadku unieważnienia egzaminu na pośrednika kredytu hipotecznego z przyczyn, o których mowa w art. 53 ust. 9 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami, osobom wchodzącym w skład Komisji przysługuje połowa wynagrodzenia określonego w § 3.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 Załącznik – Regulamin Komisji Egzaminacyjnej dla Pośredników Kredytu Hipotecznego
 § 1.
 Regulamin określa organizację i tryb działania Komisji Egzaminacyjnej dla Pośredników Kredytu Hipotecznego, zwanej dalej „Komisją”.

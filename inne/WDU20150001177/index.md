@@ -22,18 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-05 |
 | Data wydania | 2015-08-14 |
-| Wejście w życie | 2015-08-15 |
 | Ostatnia zmiana | 2024-05-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001177) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1177/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Wewnętrzna organizacja wojewódzkich sądów administracyjnych Rozdział 3 – Urządzenia zewnętrzne i wewnętrzne sądu oraz pieczęcie urzędowe Rozdział 4 – Czynności prezesa i wiceprezesa sądu oraz przewodniczącego wydziału Rozdział 5 – Przydział spraw i wyznaczanie składów orzekających Rozdział 6 – Czas urzędowania Rozdział 7 – Czynności wstępne w postępowaniu sądowoadministracyjnym Rozdział 8 – Posiedzenia Rozdział 9 – Orzeczenia Rozdział 10 – Czynności po wydaniu orzeczenia Rozdział 11 – Pytania prawne do Trybunału Konstytucyjnego Rozdział 12 – Pytania prawne do Trybunału Sprawiedliwości Unii Europejskiej Rozdział 13 – Przepisy końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 23 § 1 ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych (Dz. U. z 2014 r. poz. 1647) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa wewnętrzną organizację i porządek funkcjonowania wojewódzkich sądów administracyjnych, tryb czynności sądowych, tryb wyznaczania składów orzekających oraz przypadki wyznaczania tych składów w drodze losowania i zasady losowania.
 2.
 Ilekroć w rozporządzeniu jest mowa o referendarzu sądowym, rozumie się przez to także starszego referendarza sądowego.
+Wewnętrzna organizacja wojewódzkich sądów administracyjnych
 § 2.
 1.
 Wojewódzki sąd administracyjny dzieli się na wydziały orzecznicze tworzone na podstawie, ustalonych w przepisach o biurowości, kryteriów rzeczowo-problemowych określających przedmiot spraw sądowoadministracyjnych.
@@ -49,7 +50,7 @@ Każdy wydział orzeczniczy ma oddzielny sekretariat, którym kieruje kierownik 
 1.
 W wydziale orzeczniczym może być utworzona sekcja, w skład której wchodzą sędziowie rozpoznający sprawy określonego rodzaju, jeżeli rodzaje spraw i ich liczba uzasadniają jej utworzenie. W skład sekcji mogą również wchodzić referendarze sądowi. Kierownikiem sekcji jest wyznaczony przez prezesa sądu jeden z sędziów wchodzący w skład sekcji.
 2.
-W wydziale orzeczniczym może być utworzona sekcja, w skład której wchodzą referendarze sądowi wykonujący czynności powierzone przez przewodniczącego tego wydziału, określone ustawą z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2012 r. poz. 270, z późn. zm.), jeżeli rodzaj czynności i ich liczba uzasadniają jej utworzenie. Kierownikiem sekcji jest wyznaczony przez przewodniczącego wydziału orzeczniczego jeden z referendarzy sądowych wchodzący w skład sekcji.
+W wydziale orzeczniczym może być utworzona sekcja, w skład której wchodzą referendarze sądowi wykonujący czynności powierzone przez przewodniczącego tego wydziału, określone ustawą z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2012 r. poz. 270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101 i 1529, z 2014 r. poz. 183 i 543 oraz z 2015 r. poz. 658.), jeżeli rodzaj czynności i ich liczba uzasadniają jej utworzenie. Kierownikiem sekcji jest wyznaczony przez przewodniczącego wydziału orzeczniczego jeden z referendarzy sądowych wchodzący w skład sekcji.
 3.
 W sekretariacie wydziału może być utworzona sekcja, w skład której wchodzą pracownicy administracyjni wykonujący czynności określonego rodzaju.
 4.
@@ -136,6 +137,7 @@ W przypadku powołania dyrektora wojewódzkiego sądu administracyjnego dyrektor
 Zadania i obowiązki pełnomocnika do spraw ochrony informacji niejawnych oraz kancelarii tajnej określają przepisy o ochronie informacji niejawnych.
 2.
 Audyt wewnętrzny w wojewódzkich sądach administracyjnych jest wykonywany na zasadach określonych w przepisach o finansach publicznych.
+Urządzenia zewnętrzne i wewnętrzne sądu oraz pieczęcie urzędowe
 § 12.
 1.
 Na zewnątrz budynku, w którym mieści się sąd, umieszcza się tablicę z nazwą sądu oraz godłem państwowym.
@@ -156,6 +158,7 @@ Wojewódzki sąd administracyjny oraz prezes sądu posiadają swoje pieczęcie u
 Poszczególne wydziały sądu mogą używać osobnych egzemplarzy pieczęci. Kontrolę wydanych pieczęci prowadzi prezes sądu. Pieczęcie urzędowe o jednakowej treści są oznaczone numerami rozpoznawczymi umieszczonymi w otoku pieczęci.
 § 18.
 Odpowiedzialność za przechowywanie pieczęci wydanych do użytku wydziałów lub innych jednostek organizacyjnych sądu spoczywa na kierownikach sekretariatów tych wydziałów lub innych jednostek organizacyjnych.
+Czynności prezesa i wiceprezesa sądu oraz przewodniczącego wydziału
 § 19.
 1.
 Do obowiązków prezesa sądu w zakresie administracji sądowej należy w szczególności:
@@ -208,6 +211,7 @@ kontrola terminowości sporządzania uzasadnień orzeczeń;
 nadzorowanie i kontrola prawidłowości i sprawności wykonywania czynności powierzonych referendarzom sądowym;
 9)
 bieżąca kontrola nad prawidłowością i sprawnością wykonywania czynności przez sekretariat oraz prowadzenia ksiąg i innych urządzeń biurowych, w tym odnotowywanie ich sprawdzania co najmniej raz na kwartał, a także wydawanie stosownych zarządzeń.
+Przydział spraw i wyznaczanie składów orzekających
 § 22.
 1.
 Kolegium sądu, na wniosek prezesa sądu, przydziela sędziów i referendarzy sądowych do wydziałów orzeczniczych i określa szczegółowe zasady przydziału spraw sędziom oraz powierzania referendarzom sądowym wykonywania czynności określonych ustawą – Prawo o postępowaniu przed sądami administracyjnymi, uwzględniając specjalizację orzeczniczą sędziów, zakres obowiązków sędziego niezwiązanych z orzekaniem, wpływ spraw oraz obowiązek zapewnienia sprawności postępowania, a w szczególności zagwarantowania przez przewodniczącego wydziału orzeczniczego pełnego obciążenia sprawami rozpraw w ustalonych terminach oraz wyznaczania spraw najdłużej zalegających i podlegających wyznaczeniu w pierwszej kolejności.
@@ -265,6 +269,7 @@ Losowanie przeprowadza przewodniczący wydziału orzeczniczego, przy udziale pro
 Z przebiegu losowania sporządza się protokół losowania, który podpisuje przewodniczący wydziału orzeczniczego i protokolant. Protokół powinien zawierać oznaczenie sprawy, imiona i nazwiska sędziów, spośród których losowano skład orzekający, imiona i nazwiska wyznaczonych w drodze losowania sędziów składu orzekającego i sędziego sprawozdawcy oraz imiona i nazwiska sędziów wyłączonych z losowania wraz z podaniem przyczyny tego wyłączenia. Protokół dołącza się do akt sprawy.
 5.
 W razie konieczności dokonania zmiany w składzie orzekającym wyznaczonym w drodze losowania przeprowadza się losowanie uzupełniające, do którego stosuje się przepisy ust. 1–4.
+Czas urzędowania
 § 30.
 1.
 Prezes sądu ustala godziny urzędowania sądu oraz godziny przyjęć interesantów przez prezesa, wiceprezesów sądu, przewodniczących wydziałów oraz kierowników innych jednostek organizacyjnych. Informację o tym zamieszcza się na tablicy przeznaczonej do wywieszania obwieszczeń.
@@ -272,6 +277,7 @@ Prezes sądu ustala godziny urzędowania sądu oraz godziny przyjęć interesant
 Wydział informacji sądowej przyjmuje interesantów w godzinach urzędowania sądu.
 § 31.
 Osoby pełniące funkcje kierownicze w sądzie powinny być obecne w godzinach urzędowania sądu.
+Czynności wstępne w postępowaniu sądowoadministracyjnym
 § 32.
 1.
 Sprawy wniesione do sądu rozpoznaje się na rozprawie według kolejności ich wpływu, chyba że przepis szczególny stanowi inaczej.
@@ -314,6 +320,7 @@ kontrolowanie prawidłowości i sprawności wykonywania czynności powierzonych 
 W sprawach, w których skarżący lub organ złożyli wniosek o przeprowadzenie postępowania mediacyjnego, oraz w sprawach, w których mimo braku takiego wniosku zachodzą okoliczności wskazujące na celowość przeprowadzenia postępowania mediacyjnego, postępowanie mediacyjne przeprowadza sędzia sprawozdawca lub referendarz sądowy wyznaczony przez przewodniczącego wydziału orzeczniczego.
 3.
 Na posiedzenie mediacyjne wzywa się strony do osobistego stawiennictwa. Za organ, którego działanie lub bezczynność jest przedmiotem skargi, powinna stawić się osoba umocowana do przyjęcia ustaleń co do sposobu załatwienia sprawy.
+Posiedzenia
 § 38.
 Dla każdej sprawy wyznaczonej na rozprawę określa się godzinę rozpoczęcia jej rozpoznania, z uwzględnieniem przypuszczalnego czasu trwania spraw, które ją poprzedzają, oraz możliwości dojazdu do sądu osób zamieszkałych poza siedzibą sądu, a także, w miarę możliwości, uzasadnionych wniosków w tym przedmiocie, zgłoszonych przez strony, ich pełnomocników lub przedstawicieli.
 § 39.
@@ -384,6 +391,7 @@ Protokół podpisuje się bezpośrednio po zakończeniu posiedzenia, a w wyjątk
 Z posiedzenia niejawnego nie spisuje się protokołu, chyba że na posiedzeniu tym wysłuchano wezwane przez sąd osoby lub dokonano innych czynności procesowych.
 § 52.
 Skreśleń i poprawek w protokole dokonuje się tak, aby wyrazy skreślone i poprawione były czytelne. Poprawki i uzupełnienia treści protokołu omawia się w końcowej części protokołu, przed jego podpisaniem, albo w osobnej wzmiance podpisanej przez protokolanta i przewodniczącego składu orzekającego.
+Orzeczenia
 § 53.
 1.
 Orzeczenie podlegające ogłoszeniu na rozprawie sporządza się i ogłasza bezpośrednio po zamknięciu rozprawy i naradzie, chyba że sąd odroczył ogłoszenie orzeczenia na inny dzień.
@@ -410,6 +418,7 @@ Sędzia zgłaszający zdanie odrębne uzasadnia je w terminie, o którym mowa w 
 Uzasadnienia zdania odrębnego nie doręcza się stronom.
 § 56.
 Pouczenie strony działającej bez adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego co do sposobu wniesienia środka odwoławczego powinno wskazywać czynności, które może wykonać tylko adwokat, radca prawny, doradca podatkowy lub rzecznik patentowy, a także podstawy i tryb wystąpienia z wnioskiem o ustanowienie adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego.
+Czynności po wydaniu orzeczenia
 § 57.
 1.
 W razie wniesienia skargi kasacyjnej lub zażalenia przewodniczący wydziału orzeczniczego bada, czy środek odwoławczy odpowiada wymaganiom formalnym oraz czy został uiszczony wpis, a w razie potrzeby wzywa do usunięcia braków formalnych lub uiszczenia wpisu. Przewodniczący wydziału orzeczniczego może powierzyć referendarzowi sądowemu ustalenie, czy środek odwoławczy czyni zadość wymaganiom formalnym, a w razie potrzeby wezwanie do usunięcia braków formalnych.
@@ -419,6 +428,7 @@ Jeżeli w związku z wniesieniem skargi kasacyjnej lub zażalenia ma być wyznac
 Wniesioną skargę kasacyjną spełniającą wymogi formalne i opłaconą przewodniczący wydziału orzeczniczego niezwłocznie przekazuje sędziemu sprawozdawcy lub innemu członkowi składu orzekającego celem dokonania niezwłocznie oceny dopuszczalności zastosowania art. 179a ustawy – Prawo o postępowaniu przed sądami administracyjnymi. Jeżeli sędzia stwierdzi dopuszczalność zastosowania tego przepisu, kieruje sprawę do rozpoznania przez sąd na rozprawie albo na posiedzeniu niejawnym w składzie i terminie wyznaczonym przez przewodniczącego wydziału orzeczniczego.
 § 58.
 Jeżeli odpowiedź na skargę kasacyjną lub zażalenie została wniesiona po przedstawieniu akt sprawy Naczelnemu Sądowi Administracyjnemu, wojewódzki sąd administracyjny niezwłocznie przesyła odpowiedź do Naczelnego Sądu Administracyjnego.
+Pytania prawne do Trybunału Konstytucyjnego
 § 59.
 1.
 Postanowienie o przedstawieniu pytania prawnego do Trybunału Konstytucyjnego zawiera:
@@ -438,6 +448,7 @@ wskazanie przedstawiciela składu orzekającego.
 Postanowienie o przedstawieniu pytania prawnego skład orzekający przedstawia Trybunałowi Konstytucyjnemu wraz z aktami sprawy za pośrednictwem prezesa sądu.
 § 60.
 Skład orzekający zawiadamia prezesa sądu o stwierdzonej w toku rozpoznawania sprawy niezgodności aktu normatywnego lub jego części z Konstytucją, umową międzynarodową lub ustawą, jeżeli brak jest podstaw do przedstawienia pytania prawnego. Prezes sądu przekazuje zawiadomienie niezwłocznie Prezesowi Naczelnego Sądu Administracyjnego.
+Pytania prawne do Trybunału Sprawiedliwości Unii Europejskiej
 § 61.
 1.
 Postanowienie o przedstawieniu pytania prawnego do Trybunału Sprawiedliwości Unii Europejskiej w trybie prejudycjalnym zawiera w szczególności:
@@ -459,14 +470,41 @@ Skład orzekający kierujący pytanie decyduje, czy i w jakim zakresie przesyła
 Informacje o treści wydawanych postanowień zawierających pytania prawne do Trybunału Sprawiedliwości Unii Europejskiej przekazuje się niezwłocznie do Biura Orzecznictwa Naczelnego Sądu Administracyjnego.
 § 62.
 Skład orzekający przesyła do Trybunału Sprawiedliwości Unii Europejskiej odpis orzeczenia kończącego postępowanie, w którym zapadło orzeczenie w trybie prejudycjalnym, wskazując numer sprawy, pod którym toczyło się postępowanie przed Trybunałem Sprawiedliwości Unii Europejskiej.
+Przepisy końcowe
 § 63.
 Traci moc rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 18 września 2003 r. – Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych (Dz. U. Nr 169, poz. 1646 oraz z 2015 r. poz. 402).
 § 64.
-Rozporządzenie wchodzi w życie z dniem 15 sierpnia 2015 r.
+Rozporządzenie wchodzi w życie z dniem 15 sierpnia 2015 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101 i 1529, z 2014 r. poz. 183 i 543 oraz z 2015 r. poz. 658.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Wewnętrzna organizacja wojewódzkich sądów administracyjnych
+#### Rozdział 2 – Wewnętrzna organizacja wojewódzkich sądów administracyjnych
+
+#### Rozdział 3 – Urządzenia zewnętrzne i wewnętrzne sądu oraz pieczęcie urzędowe
+
+#### Rozdział 4 – Czynności prezesa i wiceprezesa sądu oraz przewodniczącego wydziału
+
+#### Rozdział 5 – Przydział spraw i wyznaczanie składów orzekających
+
+#### Rozdział 6 – Czas urzędowania
+
+#### Rozdział 7 – Czynności wstępne w postępowaniu sądowoadministracyjnym
+
+#### Rozdział 8 – Posiedzenia
+
+#### Rozdział 9 – Orzeczenia
+
+#### Rozdział 10 – Czynności po wydaniu orzeczenia
+
+#### Rozdział 11 – Pytania prawne do Trybunału Konstytucyjnego
+
+#### Rozdział 12 – Pytania prawne do Trybunału Sprawiedliwości Unii Europejskiej
+
+#### Rozdział 13 – Przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
 
 ##### Oddział spraw ogólnych i osobowych wykonuje zadania w zakresie:
 
@@ -474,25 +512,25 @@ Rozporządzenie wchodzi w życie z dniem 15 sierpnia 2015 r.
 
 ##### Oddział finansowo-budżetowy wykonuje zadania w zakresie:
 
-#### Rozdział 3 Urządzenia zewnętrzne i wewnętrzne sądu oraz pieczęcie urzędowe
+#### Rozdział 3
 
-#### Rozdział 4 Czynności prezesa i wiceprezesa sądu oraz przewodniczącego wydziału
+#### Rozdział 4
 
-#### Rozdział 5 Przydział spraw i wyznaczanie składów orzekających
+#### Rozdział 5
 
-#### Rozdział 6 Czas urzędowania
+#### Rozdział 6
 
-#### Rozdział 7 Czynności wstępne w postępowaniu sądowoadministracyjnym
+#### Rozdział 7
 
-#### Rozdział 8 Posiedzenia
+#### Rozdział 8
 
-#### Rozdział 9 Orzeczenia
+#### Rozdział 9
 
-#### Rozdział 10 Czynności po wydaniu orzeczenia
+#### Rozdział 10
 
-#### Rozdział 11 Pytania prawne do Trybunału Konstytucyjnego
+#### Rozdział 11
 
-#### Rozdział 12 Pytania prawne do Trybunału Sprawiedliwości Unii Europejskiej
+#### Rozdział 12
 
-#### Rozdział 13 Przepisy końcowe
+#### Rozdział 13
 

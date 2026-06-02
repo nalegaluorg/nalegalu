@@ -22,23 +22,22 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-08-27 |
 | Data wydania | 2014-09-02 |
-| Wejście w życie | 2014-09-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001169) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1169/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Rodzaje instalacji mogących powodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości
 Treść rozporządzenia
-Na podstawie art. 201 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 201 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47, 457, 822, 1101 i 1146.) zarządza się, co następuje:
 § 1.
 Rodzaje instalacji mogących powodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości określa załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 5 września 2014 r.
+Rozporządzenie wchodzi w życie z dniem 5 września 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 26 lipca 2002 r. w sprawie rodzajów instalacji mogących powodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości (Dz. U. Nr 122, poz. 1055), które na podstawie art. 36 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1101) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47, 457, 822, 1101 i 1146. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 26 lipca 2002 r. w sprawie rodzajów instalacji mogących powodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości (Dz. U. Nr 122, poz. 1055), które na podstawie art. 36 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1101) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 Załącznik – Rodzaje instalacji mogących powodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości
 1.
 Instalacje do wytwarzania energii i paliw:
 1)
-do spalania paliw o nominalnej mocy nie mniejszej niż 50 MW;
+do spalania paliwWszelkie stałe, płynne lub gazowe materiały palne. o nominalnej mocyIlość energii wprowadzonej w paliwie w jednostce czasu przy nominalnym obciążeniu instalacji. nie mniejszej niż 50 MW;
 2)
 do rafinacji ropy naftowej lub gazu;
 3)
@@ -48,27 +47,27 @@ do zgazowania lub upłynniania:
 a)
 węgla,
 b)
-paliw innych niż wymienione w lit. a, o całkowitej nominalnej mocy nie mniejszej niż 20 MW.
+paliw innych niż wymienione w lit. a, o całkowitej nominalnej mocyIlość energii wprowadzonej w paliwie w jednostce czasu przy nominalnym obciążeniu instalacji. nie mniejszej niż 20 MW.
 2.
 Instalacje do produkcji i obróbki metali:
 1)
 do prażenia lub spiekania rud metali, w tym rudy siarczkowej;
 2)
-do produkcji surówki żelaza lub stali surowej, pierwotny lub wtórny wytop, łącznie z ciągłym odlewaniem stali o zdolności produkcyjnej ponad 2,5 tony na godzinę;
+do produkcji surówki żelaza lub stali surowej, pierwotny lub wtórny wytop, łącznie z ciągłym odlewaniem stali o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 2,5 tony na godzinę;
 3)
 do obróbki stali lub stopów żelaza:
 a)
-przez walcowanie na gorąco o zdolności produkcyjnej ponad 20 ton stali na godzinę,
+przez walcowanie na gorąco o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 20 ton stali na godzinę,
 b)
 kuźnie z młotami o energii przekraczającej 50 kJ na młot, gdzie stosowana łączna moc cieplna przekracza 20 MW,
 c)
 do nakładania powłok metalicznych z wsadem przekraczającym 2 tony wyrobów stalowych na godzinę;
 4)
-do odlewania stali lub stopów żelaza o zdolności produkcyjnej ponad 20 ton wytopu na dobę;
+do odlewania stali lub stopów żelaza o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 20 ton wytopu na dobę;
 5)
 do produkcji metali nieżelaznych z rud metali, koncentratów lub surowców wtórnych w wyniku procesów metalurgicznych, chemicznych lub elektrolitycznych;
 6)
-do topienia, łącznie ze stapianiem, metali nieżelaznych, w tym produktów z odzysku, lub odlewania metali nieżelaznych, o zdolności produkcyjnej przekraczającej 4 tony wytopu na dobę dla ołowiu i kadmu lub 20 ton wytopu na dobę dla pozostałych metali;
+do topienia, łącznie ze stapianiem, metali nieżelaznych, w tym produktów z odzysku, lub odlewania metali nieżelaznych, o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. przekraczającej 4 tony wytopu na dobę dla ołowiu i kadmu lub 20 ton wytopu na dobę dla pozostałych metali;
 7)
 do powierzchniowej obróbki metali lub materiałów z tworzyw sztucznych z wykorzystaniem procesów elektrolitycznych lub chemicznych, gdzie całkowita pojemność wanien procesowych przekracza 30 m3.
 3.
@@ -76,19 +75,19 @@ Instalacje w przemyśle mineralnym:
 1)
 do produkcji:
 a)
-klinkieru cementowego w piecach obrotowych o zdolności produkcyjnej ponad 500 ton na dobę lub w innych piecach o zdolności produkcyjnej ponad 50 ton na dobę,
+klinkieru cementowego w piecach obrotowych o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 500 ton na dobę lub w innych piecach o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 50 ton na dobę,
 b)
-wapna w piecach o zdolności produkcyjnej ponad 50 ton na dobę,
+wapna w piecach o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 50 ton na dobę,
 c)
-tlenku magnezu w piecach o zdolności produkcyjnej ponad 50 ton na dobę;
+tlenku magnezu w piecach o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 50 ton na dobę;
 2)
 do wytwarzania produktów z azbestu lub produktów zawierających azbest;
 3)
-do produkcji szkła, w tym włókna szklanego, o zdolności produkcyjnej ponad 20 ton wytopu na dobę;
+do produkcji szkła, w tym włókna szklanego, o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 20 ton wytopu na dobę;
 4)
-do wytapiania substancji mineralnych, w tym produkcji włókien mineralnych, o zdolności produkcyjnej ponad 20 ton wytopu na dobę;
+do wytapiania substancji mineralnych, w tym produkcji włókien mineralnych, o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 20 ton wytopu na dobę;
 5)
-do produkcji wyrobów ceramicznych za pomocą wypalania o zdolności produkcyjnej ponad 75 ton na dobę.
+do produkcji wyrobów ceramicznych za pomocą wypalania o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 75 ton na dobę.
 4.
 Instalacje w przemyśle chemicznym do wytwarzania, przy zastosowaniu procesów chemicznych lub biologicznych:
 1)
@@ -136,13 +135,13 @@ nawozów prostych lub złożonych na bazie fosforu, azotu lub potasu;
 4)
 środków ochrony roślin lub produktów biobójczych;
 5)
-produktów leczniczych lub surowców farmaceutycznych;
+produktów leczniczych lub surowców farmaceutycznychW rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.).;
 6)
 materiałów wybuchowych.
 5.
 Instalacje w gospodarce odpadami:
 1)
-do odzysku lub unieszkodliwiania odpadów niebezpiecznych o zdolności przetwarzania ponad 10 ton na dobę z wykorzystaniem następujących działań:
+do odzysku lub unieszkodliwiania odpadów niebezpiecznych o zdolności przetwarzaniaNajwiększa ilość określonego odpadu lub odpadów, która może być przetworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 10 ton na dobę z wykorzystaniem następujących działań:
 a)
 obróbki biologicznej,
 b)
@@ -168,28 +167,28 @@ retencji powierzchniowej;
 2)
 do termicznego przekształcania odpadów:
 a)
-innych niż niebezpieczne o zdolności przetwarzania ponad 3 tony na godzinę,
+innych niż niebezpieczne o zdolności przetwarzaniaNajwiększa ilość określonego odpadu lub odpadów, która może być przetworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 3 tony na godzinę,
 b)
-niebezpiecznych o zdolności przetwarzania ponad 10 ton na dobę;
+niebezpiecznych o zdolności przetwarzaniaNajwiększa ilość określonego odpadu lub odpadów, która może być przetworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 10 ton na dobę;
 3)
 dla odpadów innych niż niebezpieczne z wyłączeniem działań realizowanych podczas oczyszczania ścieków komunalnych:
 a)
-do unieszkodliwiania o zdolności przetwarzania ponad 50 ton na dobę z wykorzystaniem następujących działań:
+do unieszkodliwiania o zdolności przetwarzaniaNajwiększa ilość określonego odpadu lub odpadów, która może być przetworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 50 ton na dobę z wykorzystaniem następujących działań:
 – obróbki biologicznej,
 – obróbki fizyczno-chemicznej,
 – obróbki wstępnej odpadów przeznaczonych do termicznego przekształcania,
 – obróbki żużlu i popiołów,
 – obróbki w strzępiarkach odpadów metalowych, w tym zużytego sprzętu elektrycznego i elektronicznego oraz pojazdów wycofanych z eksploatacji i ich części,
 b)
-do odzysku lub kombinacji odzysku i unieszkodliwiania o zdolności przetwarzania ponad 75 ton na dobę, z wykorzystaniem następujących działań:
+do odzysku lub kombinacji odzysku i unieszkodliwiania o zdolności przetwarzaniaNajwiększa ilość określonego odpadu lub odpadów, która może być przetworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 75 ton na dobę, z wykorzystaniem następujących działań:
 – obróbki biologicznej,
 – obróbki wstępnej odpadów przeznaczonych do termicznego przekształcania,
 – obróbki żużlu i popiołów,
 – obróbki w strzępiarkach odpadów metalowych, w tym zużytego sprzętu elektrycznego i elektronicznego oraz pojazdów wycofanych z eksploatacji i ich części,
 c)
-do odzysku lub unieszkodliwiania z wykorzystaniem fermentacji beztlenowej o zdolności przetwarzania nie mniejszej niż 100 ton na dobę;
+do odzysku lub unieszkodliwiania z wykorzystaniem fermentacji beztlenowej o zdolności przetwarzaniaNajwiększa ilość określonego odpadu lub odpadów, która może być przetworzona w jednostce czasu w normalnych warunkach pracy instalacji. nie mniejszej niż 100 ton na dobę;
 4)
-do składowania odpadów, o zdolności przyjmowania ponad 10 ton odpadów na dobę lub o całkowitej pojemności ponad 25 000 ton, z wyjątkiem składowisk odpadów obojętnych lub obiektów unieszkodliwiania odpadów wydobywczych;
+do składowania odpadów, o zdolności przyjmowaniaNajwiększa ilość określonych surowców, która może być przyjmowana w jednostce czasu w normalnych warunkach pracy instalacji. ponad 10 ton odpadów na dobę lub o całkowitej pojemności ponad 25 000 ton, z wyjątkiem składowisk odpadów obojętnych lub obiektów unieszkodliwiania odpadów wydobywczych;
 5)
 do magazynowania odpadów niebezpiecznych, w oczekiwaniu na działania, o których mowa w pkt 1, 2 lit. b oraz w pkt 4 i 6, o całkowitej pojemności ponad 50 ton, z wyłączeniem wstępnego magazynowania odpadów przez ich wytwórcę w miejscu ich wytworzenia;
 6)
@@ -201,48 +200,46 @@ do produkcji:
 a)
 masy włóknistej z drewna lub innych materiałów włóknistych,
 b)
-papieru lub tektury o zdolności produkcyjnej ponad 20 ton na dobę,
+papieru lub tektury o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 20 ton na dobę,
 c)
-płyt drewnopochodnych: płyt o wiórach zorientowanych (OSB), płyt wiórowych lub płyt pilśniowych o zdolności produkcyjnej ponad 600 m3 na dobę;
+płyt drewnopochodnych: płyt o wiórach zorientowanych (OSB), płyt wiórowych lub płyt pilśniowych o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 600 m3 na dobę;
 2)
-do obróbki wstępnej lub barwienia włókien lub materiałów włókienniczych o zdolności produkcyjnej ponad 10 ton wyrobów gotowych na dobę;
+do obróbki wstępnejObróbką wstępną jest w szczególności: 1) mycie; 2) bielenie; 3) merceryzacja. lub barwienia włókien lub materiałów włókienniczych o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 10 ton wyrobów gotowych na dobę;
 3)
-do garbowania skór o zdolności produkcyjnej ponad 12 ton produktu końcowego na dobę;
+do garbowania skór o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 12 ton produktu końcowego na dobę;
 4)
-do uboju zwierząt o zdolności produkcyjnej ponad 50 ton tusz na dobę;
+do uboju zwierząt o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 50 ton tusz na dobę;
 5)
 do obróbki i przetwórstwa, poza wyłącznym pakowaniem, produktów spożywczych lub paszy z przetworzonych lub nieprzetworzonych:
 a)
-surowców pochodzenia zwierzęcego innych niż wyłącznie mleko o zdolności produkcyjnej ponad 75 ton wyrobów gotowych na dobę,
+surowców pochodzenia zwierzęcego innych niż wyłącznie mleko o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 75 ton wyrobów gotowychDotyczy masy netto wyrobu gotowego. na dobę,
 b)
-surowców pochodzenia roślinnego o zdolności produkcyjnej ponad 300 ton wyrobów gotowych na dobę lub 600 ton wyrobów gotowych na dobę, przy założeniu, że instalacja jest eksploatowana nie dłużej niż przez 90 kolejnych dni w danym roku,
+surowców pochodzenia roślinnego o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 300 ton wyrobów gotowychDotyczy masy netto wyrobu gotowego. na dobę lub 600 ton wyrobów gotowychDotyczy masy netto wyrobu gotowego. na dobę, przy założeniu, że instalacja jest eksploatowana nie dłużej niż przez 90 kolejnych dni w danym roku,
 c)
-surowców pochodzenia zwierzęcego i roślinnego o dobowej zdolności produkcyjnej wyrobów gotowych ponad:
+surowców pochodzenia zwierzęcego i roślinnego o dobowej zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. wyrobów gotowychDotyczy masy netto wyrobu gotowego. ponad:
 – 75 ton, jeżeli A wynosi nie mniej niż 10 lub
 – [300 − (22,5 × A)], jeżeli A jest mniejsze niż 10,
-– gdzie „A” oznacza zawartość materiału pochodzenia zwierzęcego, w procentach wagowych, w wyrobie gotowym;
+– gdzie „A” oznacza zawartość materiału pochodzenia zwierzęcego, w procentach wagowych, w wyrobie gotowymDotyczy masy netto wyrobu gotowego.;
 6)
-do obróbki i przetwórstwa mleka o zdolności przyjmowania obliczonej jako wartość średnia w stosunku do produkcji rocznej, ponad 200 ton mleka na dobę;
+do obróbki i przetwórstwa mleka o zdolności przyjmowaniaNajwiększa ilość określonych surowców, która może być przyjmowana w jednostce czasu w normalnych warunkach pracy instalacji. obliczonej jako wartość średnia w stosunku do produkcji rocznej, ponad 200 ton mleka na dobę;
 7)
-do unieszkodliwiania lub odzysku padłych lub ubitych zwierząt lub produktów ubocznych pochodzenia zwierzęcego o zdolności produkcyjnej ponad 10 ton na dobę;
+do unieszkodliwiania lub odzysku padłych lub ubitych zwierząt lub produktów ubocznych pochodzenia zwierzęcego o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 10 ton na dobę;
 8)
 do chowu lub hodowli drobiu lub świń o więcej niż:
 a)
-40 000 stanowisk dla drobiu,
+40 000 stanowisk dla drobiuOznacza: 1) kury, 2) kaczki, 3) gęsi, 4) indyki, 5) przepiórki, 6) perlice, 7) strusie,8) bezgrzebieniowce inne niż wskazane w pkt 7, 9) gołębie, 10) bażanty, 11) kuropatwy – utrzymywane w celach rozpłodowych, produkcji mięsa lub jaj spożywczych lub odtworzenia zasobów ptactwa łownego.,
 b)
 2000 stanowisk dla świń o wadze ponad 30 kg,
 c)
 750 stanowisk dla macior;
 9)
-do powierzchniowej obróbki substancji, przedmiotów lub produktów z wykorzystaniem rozpuszczalników organicznych, o zużyciu rozpuszczalnika ponad 150 kg na godzinę lub ponad 200 ton rocznie;
+do powierzchniowej obróbkiPowierzchniowa obróbka substancji, przedmiotów lub produktów z wykorzystaniem rozpuszczalników organicznych to w szczególności: 1) drukowanie; 2) pokrywanie; 3) zdobienie; 4) odtłuszczanie; 5) uszczelnianie; 6) klejenie; 7) malowanie; 8) czyszczenie; 9) impregnowanie. substancji, przedmiotów lub produktów z wykorzystaniem rozpuszczalników organicznychRozpuszczalniki organiczne – lotne związki organiczne mające w temperaturze 293,15 K prężność par nie mniejszą niż 0,01 kPa, względnie posiadające analogiczną lotność w szczególnych warunkach użytkowania, które są stosowane oddzielnie lub w połączeniu z innymi substancjami i które nie podlegają przemianie chemicznej, w celu rozpuszczania surowców, produktów, materiałów odpadowych lub zanieczyszczeń, lub LZO, które są stosowane jako czynnik rozpuszczający, czynnik dyspergujący, regulator lepkości, regulator napięcia powierzchniowego, plastyfikator lub konserwant., o zużyciu rozpuszczalnika ponad 150 kg na godzinę lub ponad 200 ton rocznie;
 10)
 do produkcji węgla pierwiastkowego lub elektrografitu poprzez spopielenie lub grafityzację;
 11)
 do wychwytywania strumieni dwutlenku węgla z instalacji objętych obowiązkiem uzyskania pozwolenia zintegrowanego na użytek podziemnego składowania dwutlenku węgla;
 12)
-do konserwacji drewna i produktów z drewna środkami chemicznymi o zdolności produkcyjnej ponad 75 m3 na dobę, innymi niż przeznaczonymi wyłącznie do stosowania w przypadku sinizny;
+do konserwacji drewna i produktów z drewna środkami chemicznymi o zdolności produkcyjnejNajwiększa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. ponad 75 m3 na dobę, innymi niż przeznaczonymi wyłącznie do stosowania w przypadku sinizny;
 13)
-do oczyszczania ścieków, z wyjątkiem oczyszczalni ścieków komunalnych, pochodzących z instalacji wymagających uzyskania pozwolenia zintegrowanego.
-Uwaga: Parametry tego samego rodzaju, charakteryzujące skalę działalności prowadzonej w instalacji, odnoszące się do instalacji tego samego rodzaju położonych na terenie jednego zakładu, wymienione w ust. 1–3, 5 pkt 1, pkt 3 lit. a i b oraz ust. 6, sumuje się.
-1) Wszelkie stałe, płynne lub gazowe materiały palne. 2) Ilość energii wprowadzonej w paliwie w jednostce czasu przy nominalnym obciążeniu instalacji. 3) Największa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. 4) W rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.). 5) Największa ilość określonego odpadu lub odpadów, która może być przetworzona w jednostce czasu w normalnych warunkach pracy instalacji. 6) Największa ilość określonych surowców, która może być przyjmowana w jednostce czasu w normalnych warunkach pracy instalacji. 7) Obróbką wstępną jest w szczególności: 1) mycie; 2) bielenie; 3) merceryzacja. 8) Dotyczy masy netto wyrobu gotowego. 9) Oznacza: 1) kury, 2) kaczki, 3) gęsi, 4) indyki, 5) przepiórki, 6) perlice, 7) strusie,8) bezgrzebieniowce inne niż wskazane w pkt 7, 9) gołębie, 10) bażanty, 11) kuropatwy – utrzymywane w celach rozpłodowych, produkcji mięsa lub jaj spożywczych lub odtworzenia zasobów ptactwa łownego. 10) Powierzchniowa obróbka substancji, przedmiotów lub produktów z wykorzystaniem rozpuszczalników organicznych to w szczególności: 1) drukowanie; 2) pokrywanie; 3) zdobienie; 4) odtłuszczanie; 5) uszczelnianie; 6) klejenie; 7) malowanie; 8) czyszczenie; 9) impregnowanie. 11) Rozpuszczalniki organiczne – lotne związki organiczne mające w temperaturze 293,15 K prężność par nie mniejszą niż 0,01 kPa, względnie posiadające analogiczną lotność w szczególnych warunkach użytkowania, które są stosowane oddzielnie lub w połączeniu z innymi substancjami i które nie podlegają przemianie chemicznej, w celu rozpuszczania surowców, produktów, materiałów odpadowych lub zanieczyszczeń, lub LZO, które są stosowane jako czynnik rozpuszczający, czynnik dyspergujący, regulator lepkości, regulator napięcia powierzchniowego, plastyfikator lub konserwant.
+do oczyszczania ścieków, z wyjątkiem oczyszczalni ścieków komunalnych, pochodzących z instalacji wymagających uzyskania pozwolenia zintegrowanego. Uwaga: Parametry tego samego rodzaju, charakteryzujące skalę działalności prowadzonej w instalacji, odnoszące się do instalacji tego samego rodzaju położonych na terenie jednego zakładu, wymienione w ust. 1–3, 5 pkt 1, pkt 3 lit. a i b oraz ust. 6, sumuje się. 1) Wszelkie stałe, płynne lub gazowe materiały palne. 2) Ilość energii wprowadzonej w paliwie w jednostce czasu przy nominalnym obciążeniu instalacji. 3) Największa ilość określonego wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji. 4) W rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.). 5) Największa ilość określonego odpadu lub odpadów, która może być przetworzona w jednostce czasu w normalnych warunkach pracy instalacji. 6) Największa ilość określonych surowców, która może być przyjmowana w jednostce czasu w normalnych warunkach pracy instalacji. 7) Obróbką wstępną jest w szczególności: 1) mycie; 2) bielenie; 3) merceryzacja. 8) Dotyczy masy netto wyrobu gotowego. 9) Oznacza: 1) kury, 2) kaczki, 3) gęsi, 4) indyki, 5) przepiórki, 6) perlice, 7) strusie,8) bezgrzebieniowce inne niż wskazane w pkt 7, 9) gołębie, 10) bażanty, 11) kuropatwy – utrzymywane w celach rozpłodowych, produkcji mięsa lub jaj spożywczych lub odtworzenia zasobów ptactwa łownego. 10) Powierzchniowa obróbka substancji, przedmiotów lub produktów z wykorzystaniem rozpuszczalników organicznych to w szczególności: 1) drukowanie; 2) pokrywanie; 3) zdobienie; 4) odtłuszczanie; 5) uszczelnianie; 6) klejenie; 7) malowanie; 8) czyszczenie; 9) impregnowanie. 11) Rozpuszczalniki organiczne – lotne związki organiczne mające w temperaturze 293,15 K prężność par nie mniejszą niż 0,01 kPa, względnie posiadające analogiczną lotność w szczególnych warunkach użytkowania, które są stosowane oddzielnie lub w połączeniu z innymi substancjami i które nie podlegają przemianie chemicznej, w celu rozpuszczania surowców, produktów, materiałów odpadowych lub zanieczyszczeń, lub LZO, które są stosowane jako czynnik rozpuszczający, czynnik dyspergujący, regulator lepkości, regulator napięcia powierzchniowego, plastyfikator lub konserwant.
 

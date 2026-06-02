@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 28 września 2020 r. w sprawie urlopów funkcjonariuszy Straży Granicznej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 28 września 2020 r. w sprawie urlopów funkcjonariuszy Straży Granicznej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-28 |
 | Data wydania | 2020-09-30 |
-| Wejście w życie | 2020-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001676) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1676/text.pdf) |
 
@@ -68,8 +67,7 @@ w pomieszczeniach pozbawionych oświetlenia dziennego, w których ze względów 
 7)
 w radiowych obiektach nadawczych i centrach radioodbiorczych, w stacjach radiowych, radiolokacyjnych i radioliniowych,
 8)
-przy ciągłym napięciu i koncentracji podczas nagrywania i odtwarzania zapisów magnetycznych lub cyfrowych w styczności ze zmiennym natężeniem i zakresem fal dźwiękowych, a także przy nasłuchu radiowym
-jeżeli jest pełniona co najmniej przez połowę obowiązującego czasu służby.
+przy ciągłym napięciu i koncentracji podczas nagrywania i odtwarzania zapisów magnetycznych lub cyfrowych w styczności ze zmiennym natężeniem i zakresem fal dźwiękowych, a także przy nasłuchu radiowym – jeżeli jest pełniona co najmniej przez połowę obowiązującego czasu służby.
 2.
 Drugi stopień szkodliwości, o którym mowa w art. 87b ust. 4 pkt 2 ustawy, obejmuje służbę wykonywaną:
 1)
@@ -81,8 +79,7 @@ w pomieszczeniach specjalnych zagłębionych i półzagłębionych, obwałowanyc
 4)
 przy narażeniu na hałas, gdy zostały przekroczone normatywy higieniczne na danych stanowiskach służby,
 5)
-przy załadunku, rozładunku, transporcie i magazynowaniu paliwa oraz uzupełnianiu nim sprzętu
-jeżeli jest pełniona co najmniej przez połowę obowiązującego czasu służby.
+przy załadunku, rozładunku, transporcie i magazynowaniu paliwa oraz uzupełnianiu nim sprzętu – jeżeli jest pełniona co najmniej przez połowę obowiązującego czasu służby.
 3.
 Trzeci stopień szkodliwości, o którym mowa w art. 87b ust. 4 pkt 3 ustawy, obejmuje służbę wykonywaną:
 1)
@@ -98,8 +95,7 @@ przy narażeniu na pyły lub aerozole rozpuszczalnych soli metali ciężkich,
 6)
 przy narażeniu na działanie pól elektromagnetycznych wysokiej częstotliwości od 0,1 MHz do 300 000 MHz w strefie zagrożenia,
 7)
-przy przewijaniu kabli oraz remoncie i konserwacji linii kablowych w osłonie ołowiowej
-jeżeli jest pełniona co najmniej przez połowę obowiązującego czasu służby.
+przy przewijaniu kabli oraz remoncie i konserwacji linii kablowych w osłonie ołowiowej – jeżeli jest pełniona co najmniej przez połowę obowiązującego czasu służby.
 4.
 Trzeci stopień szkodliwości, o którym mowa w art. 87b ust. 4 pkt 3 ustawy, obejmuje także służbę wykonywaną w formie pełnienia stałych dyżurów przy obsłudze źródeł promieniowania elektromagnetycznego w zakresie częstotliwości od 0,2 MHz do 300 000 MHz przy zmieniającym się natężeniu na granicy strefy zagrożenia i strefy pośredniej – jeżeli jest pełniona przez co najmniej połowę dopuszczalnego czasu przebywania w strefie zagrożenia.
 5.
@@ -107,6 +103,5 @@ Czwarty stopień szkodliwości, o którym mowa w art. 87b ust. 4 pkt 4 ustawy, o
 6.
 Oceny warunków uciążliwości lub szkodliwości dla zdrowia dokonują komisje powołane przez właściwych przełożonych określonych w art. 36 ust. 1 ustawy, z udziałem przedstawicieli służby medycyny pracy, służby bezpieczeństwa i higieny pracy oraz zakładowych organizacji związkowych funkcjonujących w danej jednostce organizacyjnej Straży Granicznej.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 października 2020 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie urlopów funkcjonariuszy Straży Granicznej (Dz. U. poz. 784, z 2004 r. poz. 511, z 2013 r. poz. 1704, z 2016 r. poz. 999, z 2018 r. poz. 251 i 828 oraz z 2019 r. poz. 13 i 2307), które traci moc z dniem wejścia w życie ustawy z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610).
+Rozporządzenie wchodzi w życie z dniem 1 października 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie urlopów funkcjonariuszy Straży Granicznej (Dz. U. poz. 784, z 2004 r. poz. 511, z 2013 r. poz. 1704, z 2016 r. poz. 999, z 2018 r. poz. 251 i 828 oraz z 2019 r. poz. 13 i 2307), które traci moc z dniem wejścia w życie ustawy z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie urlopów funkcjonariuszy Straży Granicznej (Dz. U. poz. 784, z 2004 r. poz. 511, z 2013 r. poz. 1704, z 2016 r. poz. 999, z 2018 r. poz. 251 i 828 oraz z 2019 r. poz. 13 i 2307), które traci moc z dniem wejścia w życie ustawy z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610).
 

@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-10 |
 | Data wydania | 2022-11-18 |
-| Wejście w życie | 2022-11-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002350) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2350/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 131 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 131 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180 i 2339.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 6 maja 2020 r. w sprawie szczegółowego trybu i sposobu doręczania pism sądowych w postępowaniu cywilnym (Dz. U. poz. 819) w § 2 ust. 5 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Sprawiedliwości z dnia 6 maja 2020 r. w sprawie szczegółowego trybu i sposobu doręczania pism sądowych w postępowaniu cywilnym (Dz. U. poz. 819) w § 2 ust. 5 otrzymuje brzmienie: „
 5.
-Pokwitowania nadania przesyłki można dokonać w postaci elektronicznej przy wykorzystaniu systemu teleinformatycznego służącego do obsługi elektronicznej książki nadawczej. Pokwitowanie zawiera informację o numerze nadawczym przesyłki oraz, w razie potrzeby, inne dane pozwalające zidentyfikować przesyłkę, w tym dane o placówce pocztowej, w której nadano przesyłkę. W takim przypadku sporządzenie wykazu, o którym mowa w ust. 4, nie jest wymagane.
-” .
+Pokwitowania nadania przesyłki można dokonać w postaci elektronicznej przy wykorzystaniu systemu teleinformatycznego służącego do obsługi elektronicznej książki nadawczej. Pokwitowanie zawiera informację o numerze nadawczym przesyłki oraz, w razie potrzeby, inne dane pozwalające zidentyfikować przesyłkę, w tym dane o placówce pocztowej, w której nadano przesyłkę. W takim przypadku sporządzenie wykazu, o którym mowa w ust. 4, nie jest wymagane. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180 i 2339.
 

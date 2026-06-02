@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-03 |
 | Data wydania | 2022-03-04 |
-| Wejście w życie | 2022-03-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000532) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/532/text.pdf) |
 
@@ -33,27 +32,21 @@ W rozporządzeniu Prezesa Rady Ministrów z dnia 1 grudnia 2016 r. w sprawie nad
 1)
 w § 3:
 a)
-w ust. 1 po pkt 1a dodaje się pkt 1b w brzmieniu:
-„
+w ust. 1 po pkt 1a dodaje się pkt 1b w brzmieniu: „
 1b)
-komórka organizacyjna – oddział zamiejscowy – Biuro Instytutu w Berlinie (Republika Federalna Niemiec);
-” ,
+komórka organizacyjna – oddział zamiejscowy – Biuro Instytutu w Berlinie (Republika Federalna Niemiec); ” ,
 b)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Dyrektor oddziału zamiejscowego – Biura Instytutu w Brukseli (Królestwo Belgii), dyrektor oddziału zamiejscowego – Biura Instytutu w Berlinie (Republika Federalna Niemiec) oraz pracownicy Instytutu zajmujący samodzielne stanowiska podlegają bezpośrednio Dyrektorowi Instytutu.
-” ;
+Dyrektor oddziału zamiejscowego – Biura Instytutu w Brukseli (Królestwo Belgii), dyrektor oddziału zamiejscowego – Biura Instytutu w Berlinie (Republika Federalna Niemiec) oraz pracownicy Instytutu zajmujący samodzielne stanowiska podlegają bezpośrednio Dyrektorowi Instytutu. ” ;
 2)
 w § 4:
 a)
 w ust. 3 w pkt 3 wyrazy „oddziału zamiejscowego, o którym mowa w § 3 ust. 1 pkt 1a” zastępuje się wyrazami „oddziałów zamiejscowych, o których mowa w § 3 ust. 1 pkt 1a i 1b”,
 b)
-ust. 8 otrzymuje brzmienie:
-„
+ust. 8 otrzymuje brzmienie: „
 8.
-W posiedzeniu Rady może wziąć udział, na zaproszenie przewodniczącego Rady, zastępca Dyrektora Instytutu, główny księgowy, kierownik komórki organizacyjnej, dyrektorzy oddziałów zamiejscowych, o których mowa w § 3 ust. 1 pkt 1a i 1b, oraz inne osoby, których wiedza i doświadczenie mogą być wykorzystane w realizacji zadań Rady.
-” .
+W posiedzeniu Rady może wziąć udział, na zaproszenie przewodniczącego Rady, zastępca Dyrektora Instytutu, główny księgowy, kierownik komórki organizacyjnej, dyrektorzy oddziałów zamiejscowych, o których mowa w § 3 ust. 1 pkt 1a i 1b, oraz inne osoby, których wiedza i doświadczenie mogą być wykorzystane w realizacji zadań Rady. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

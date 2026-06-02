@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-28 |
 | Data wydania | 2016-07-12 |
-| Wejście w życie | 2016-07-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001012) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1012/text.pdf) |
 
@@ -35,31 +34,23 @@ w § 3:
 a)
 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw energii nadaje odznakę z własnej inicjatywy lub na wniosek: ” ,
 b)
-pkt 2 otrzymuje brzmienie:
-„
+pkt 2 otrzymuje brzmienie: „
 2)
-kierownika jednostki organizacyjnej podległej lub nadzorowanej przez ministra właściwego do spraw energii;
-” ;
+kierownika jednostki organizacyjnej podległej lub nadzorowanej przez ministra właściwego do spraw energii; ” ;
 2)
-w § 4 ust. 3 otrzymuje brzmienie:
-„
+w § 4 ust. 3 otrzymuje brzmienie: „
 3.
-Wniosek o nadanie odznaki przedstawia się ministrowi właściwemu do spraw energii nie później niż na dwa miesiące przed przewidywanym przez wnioskodawcę terminem jej wręczenia.
-” ;
+Wniosek o nadanie odznaki przedstawia się ministrowi właściwemu do spraw energii nie później niż na dwa miesiące przed przewidywanym przez wnioskodawcę terminem jej wręczenia. ” ;
 3)
-w § 6 ust. 1 otrzymuje brzmienie:
-„
+w § 6 ust. 1 otrzymuje brzmienie: „
 1.
-Odznakę wręcza minister właściwy do spraw energii lub osoba przez niego upoważniona.
-” ;
+Odznakę wręcza minister właściwy do spraw energii lub osoba przez niego upoważniona. ” ;
 4)
-§ 7 i § 8 otrzymują brzmienie:
-„
+§ 7 i § 8 otrzymują brzmienie: „
 § 7.
 Ewidencję osób wyróżnionych odznaką prowadzi minister właściwy do spraw energii.
 § 8.
-Koszty związane z nadawaniem odznaki są pokrywane z budżetu państwa w części, której dysponentem jest minister właściwy do spraw energii.
-” .
+Koszty związane z nadawaniem odznaki są pokrywane z budżetu państwa w części, której dysponentem jest minister właściwy do spraw energii. ” .
 § 2.
 Osoby, którym nadano odznakę honorową „Zasłużony dla Przemysłu Naftowego i Gazowniczego”, na podstawie przepisów obowiązujących przed dniem wejścia w życie niniejszego rozporządzenia, zachowują prawo do jej noszenia.
 § 3.

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-12 |
 | Data wydania | 2015-10-27 |
-| Wejście w życie | 2015-11-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001714) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1714/text.pdf) |
 
@@ -33,5 +32,5 @@ Psy, koty i zwierzęta z rzędu naczelnych, utrzymywane w celu wykorzystania w p
 § 2.
 Psy, koty i zwierzęta z rzędu naczelnych, które przed dniem wejścia w życie rozporządzenia zostały oznakowane zgodnie z przepisami dotychczasowymi, uznaje się za oznakowane zgodnie z przepisami tego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 13 maja 2005 r. w sprawie znakowania psów, kotów i zwierząt naczelnych (Dz. U. Nr 95, poz. 801), które na podstawie art. 82 ust. 1 ustawy z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych (Dz. U. poz. 266) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 13 maja 2005 r. w sprawie znakowania psów, kotów i zwierząt naczelnych (Dz. U. Nr 95, poz. 801), które na podstawie art. 82 ust. 1 ustawy z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych (Dz. U. poz. 266) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

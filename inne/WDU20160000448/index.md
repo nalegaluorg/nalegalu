@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-04-04 |
 | Data wydania | 2016-04-04 |
-| Wejście w życie | 2016-04-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000448) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/448/text.pdf) |
 
@@ -63,5 +62,9 @@ Część Dział Rozdział Paragraf Wyszczególnienie Kwota w złotych zmniejszen
 
 ## Załącznik nr 3 — – Przeniesienie kwot wynagrodzeń między częściami 29 i 88
 
-Część Dział Rozdział Wyszczególnienie Kwota w złotych Zmniejszenia Zwiększenia OGÓŁEM Wynagrodzenia Dodatkowewynagrodzenieroczne OGÓŁEM Wynagrodzenia Dodatkowewynagrodzenieroczne 1 2 3 4 5 6 7 8 9 10 29 Obrona Narodowa 18 070 199 17 696 712 373 487 755 Wymiar sprawiedliwości 18 070 199 17 696 712 373 487 75506 Wojskowe jednostki powszechne prokuratury 18 070 199 17 696 712 373 487 osoby nieobjęte mnożnikowymi systemami wynagrodzeń 4 142 615 4 044 539 98 076 prokuratorzy oraz asesorzy prokuratorscy 2 236 160 2211 121 25 039 żołnierze 11 691 424 11 441 052 250 372 88 Powszechne jednostki organizacyjne prokuratury 18 070 199 17 696 712 373 487 752 Obrona narodowa 18 070 199 17 696 712 373 487 75205 Jednostki organizacyjne prokuratury powszechnej właściwe w sprawach wojskowych 18 070 199 17 696 712 373 487 osoby nieobjęte mnożnikowymi systemami wynagrodzeń 4 142 615 4 044 539 98 076 prokuratorzy oraz asesorzy prokuratorscy 2 236 160 2211 121 25 039 żołnierze 11 691 424 11 441 052 250 372
+Część Dział Rozdział Wyszczególnienie Kwota w złotych Zmniejszenia Zwiększenia OGÓŁEM Wynagrodzenia Dodatkowe
+wynagrodzenie
+roczne OGÓŁEM Wynagrodzenia Dodatkowe
+wynagrodzenie
+roczne 1 2 3 4 5 6 7 8 9 10 29 Obrona Narodowa 18 070 199 17 696 712 373 487 755 Wymiar sprawiedliwości 18 070 199 17 696 712 373 487 75506 Wojskowe jednostki powszechne prokuratury 18 070 199 17 696 712 373 487 osoby nieobjęte mnożnikowymi systemami wynagrodzeń 4 142 615 4 044 539 98 076 prokuratorzy oraz asesorzy prokuratorscy 2 236 160 2211 121 25 039 żołnierze 11 691 424 11 441 052 250 372 88 Powszechne jednostki organizacyjne prokuratury 18 070 199 17 696 712 373 487 752 Obrona narodowa 18 070 199 17 696 712 373 487 75205 Jednostki organizacyjne prokuratury powszechnej właściwe w sprawach wojskowych 18 070 199 17 696 712 373 487 osoby nieobjęte mnożnikowymi systemami wynagrodzeń 4 142 615 4 044 539 98 076 prokuratorzy oraz asesorzy prokuratorscy 2 236 160 2211 121 25 039 żołnierze 11 691 424 11 441 052 250 372
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 marca 2017 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw
+# Ustawa z dnia 9 marca 2017 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych, ustawę z dnia 26 października 2000 r. o giełdach towarowych, ustawę z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, ustawę z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawę z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym oraz ustawę z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-09 |
 | Data wydania | 2017-04-14 |
-| Wejście w życie | 2017-04-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000791) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/791/text.pdf) |
+
+Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2014/59/UE z dnia 15 maja 2014 r. ustanawiającej ramy na potrzeby prowadzenia działań naprawczych oraz restrukturyzacji i uporządkowanej likwidacji w odniesieniu do instytucji kredytowych i firm inwestycyjnych oraz zmieniającej dyrektywę Rady 82/891/EWG i dyrektywy Parlamentu Europejskiego i Rady 2001/24/WE, 2002/47/WE, 2004/25/WE, 2005/56/WE, 2007/36/WE, 2011/35/UE, 2012/30/UE i 2013/36/EU oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 i (UE) nr 648/2012.
 
 **Art. 1.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2016 r. poz. 1636, 1948 i 1997 oraz z 2017 r. poz. 724 i 768) wprowadza się następujące zmiany:
 
@@ -115,12 +116,17 @@ source: "eli-html"
 - **13)** w art. 25: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Prowadzenie rynku regulowanego wymaga zezwolenia Komisji, wydanego na wniosek zainteresowanego podmiotu. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek o udzielenie zezwolenia na prowadzenie rynku regulowanego zawiera: ” , – pkt 2 i 3 otrzymują brzmienie: „ 2) dane osobowe członków zarządu i rady nadzorczej spółki prowadzącej rynek regulowany oraz innych osób, które odpowiadają za rozpoczęcie działalności rynku regulowanego lub będą nim kierować; 3) przewidywaną wysokość środków własnych i kredytów, przeznaczoną na uruchomienie rynku regulowanego, oraz określenie sposobu finansowania działalności; ” , – pkt 5–7 otrzymują brzmienie: „ 5) wskazanie podmiotu lub podmiotów, które będą dokonywać, na podstawie umowy ze spółką, rozliczenia oraz rozrachunku transakcji zawieranych na rynku regulowanym prowadzonym przez spółkę oraz zasad, na jakich ma być dokonywany rozrachunek oraz rozliczenie transakcji przez ten podmiot lub te podmioty; 6) dane o przewidywanej lokalizacji rynku regulowanego oraz środkach technicznych umożliwiających funkcjonowanie rynku, w szczególności zapewniających stałą łączność z podmiotami, o których mowa w pkt 5; 7) zobowiązanie co najmniej 6 firm inwestycyjnych do prowadzenia działalności na danym rynku regulowanym; ” , w ust. 3 zdanie pierwsze otrzymuje brzmienie: „ Do wniosku należy dołączyć statut spółki, regulamin rynku regulowanego, procedurę przeciwdziałania i ujawniania przypadków manipulacji oraz analizę ekonomiczno-finansową możliwości prowadzenia rynku regulowanego. ” , uchyla się ust. 4, ust. 5 otrzymuje brzmienie: „
+1. Prowadzenie rynku regulowanego wymaga zezwolenia Komisji, wydanego na wniosek zainteresowanego podmiotu. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek o udzielenie zezwolenia na prowadzenie rynku regulowanego zawiera: ” , pkt 2 i 3 otrzymują brzmienie: „
 
 - **b)**
-- **c)**
-- **d)**
-- **e)**
+- **2)** dane osobowe członków zarządu i rady nadzorczej spółki prowadzącej rynek regulowany oraz innych osób, które odpowiadają za rozpoczęcie działalności rynku regulowanego lub będą nim kierować;
+- **3)** przewidywaną wysokość środków własnych i kredytów, przeznaczoną na uruchomienie rynku regulowanego, oraz określenie sposobu finansowania działalności; ” , pkt 5–7 otrzymują brzmienie: „
+- **5)** wskazanie podmiotu lub podmiotów, które będą dokonywać, na podstawie umowy ze spółką, rozliczenia oraz rozrachunku transakcji zawieranych na rynku regulowanym prowadzonym przez spółkę oraz zasad, na jakich ma być dokonywany rozrachunek oraz rozliczenie transakcji przez ten podmiot lub te podmioty;
+- **6)** dane o przewidywanej lokalizacji rynku regulowanego oraz środkach technicznych umożliwiających funkcjonowanie rynku, w szczególności zapewniających stałą łączność z podmiotami, o których mowa w pkt 5;
+- **7)** zobowiązanie co najmniej 6 firm inwestycyjnych do prowadzenia działalności na danym rynku regulowanym; ” , w ust. 3 zdanie pierwsze otrzymuje brzmienie: „ Do wniosku należy dołączyć statut spółki, regulamin rynku regulowanego, procedurę przeciwdziałania i ujawniania przypadków manipulacji oraz analizę ekonomiczno-finansową możliwości prowadzenia rynku regulowanego. ” , uchyla się ust. 4, ust. 5 otrzymuje brzmienie: „
+    - **c)**
+    - **d)**
+    - **e)**
 
 5. Wydając zezwolenie, Komisja zatwierdza statut spółki i regulamin rynku regulowanego oraz określa termin rozpoczęcia działalności objętej zezwoleniem, nie dłuższy niż 12 miesięcy od dnia, w którym decyzja o udzieleniu zezwolenia stała się ostateczna. ” ;
 
@@ -180,9 +186,18 @@ source: "eli-html"
 - **19)** w art. 28: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Rada nadzorcza spółki prowadzącej rynek regulowany, na wniosek zarządu spółki prowadzącej rynek regulowany, uchwala regulamin rynku regulowanego, a także zmiany tego regulaminu. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Regulamin rynku regulowanego określa w szczególności: ” , – pkt 1–5 otrzymują brzmienie: „ 1) kryteria i warunki dopuszczania papierów wartościowych i innych instrumentów finansowych do obrotu na poszczególnych rynkach, w tym papierów wartościowych dopuszczonych do obrotu na rynku regulowanym w innym państwie członkowskim; 2) sposób i tryb rozstrzygania sporów dotyczących przebiegu transakcji; 3) rodzaje transakcji zawieranych na rynku regulowanym; 4) porządek obrotu papierami wartościowymi i innymi instrumentami finansowymi na rynku regulowanym; 5) warunki i tryb notowania, zawieszania i zaprzestania notowania papierów wartościowych i innych instrumentów finansowych na rynku regulowanym; ” , – pkt 9–11 otrzymują brzmienie: „ 9) sposób klasyfikowania papierów wartościowych i innych instrumentów finansowych notowanych na rynku regulowanym; 10) system informacyjny rynku regulowanego; 11) wysokość stałej opłaty rocznej za korzystanie z urządzeń rynku regulowanego; ” , – pkt 13 otrzymuje brzmienie: „ 13) obowiązki informacyjne emitentów papierów wartościowych dopuszczonych do obrotu wyłącznie na rynku regulowanym niebędącym rynkiem oficjalnych notowań, a także warunki uznania informacji za równoważne informacjom bieżącym i okresowym, w przypadku emitentów z siedzibą w państwie niebędącym państwem członkowskim, dla których Rzeczpospolita Polska jest państwem macierzystym w rozumieniu art. 55a ustawy o ofercie publicznej – w zakresie określonym w art. 61 tej ustawy; ” ;
+1. Rada nadzorcza spółki prowadzącej rynek regulowany, na wniosek zarządu spółki prowadzącej rynek regulowany, uchwala regulamin rynku regulowanego, a także zmiany tego regulaminu. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Regulamin rynku regulowanego określa w szczególności: ” , pkt 1–5 otrzymują brzmienie: „
 
 - **b)**
+- **1)** kryteria i warunki dopuszczania papierów wartościowych i innych instrumentów finansowych do obrotu na poszczególnych rynkach, w tym papierów wartościowych dopuszczonych do obrotu na rynku regulowanym w innym państwie członkowskim;
+- **2)** sposób i tryb rozstrzygania sporów dotyczących przebiegu transakcji;
+- **3)** rodzaje transakcji zawieranych na rynku regulowanym;
+- **4)** porządek obrotu papierami wartościowymi i innymi instrumentami finansowymi na rynku regulowanym;
+- **5)** warunki i tryb notowania, zawieszania i zaprzestania notowania papierów wartościowych i innych instrumentów finansowych na rynku regulowanym; ” , pkt 9–11 otrzymują brzmienie: „
+- **9)** sposób klasyfikowania papierów wartościowych i innych instrumentów finansowych notowanych na rynku regulowanym;
+- **10)** system informacyjny rynku regulowanego;
+- **11)** wysokość stałej opłaty rocznej za korzystanie z urządzeń rynku regulowanego; ” , pkt 13 otrzymuje brzmienie: „
+- **13)** obowiązki informacyjne emitentów papierów wartościowych dopuszczonych do obrotu wyłącznie na rynku regulowanym niebędącym rynkiem oficjalnych notowań, a także warunki uznania informacji za równoważne informacjom bieżącym i okresowym, w przypadku emitentów z siedzibą w państwie niebędącym państwem członkowskim, dla których Rzeczpospolita Polska jest państwem macierzystym w rozumieniu art. 55a ustawy o ofercie publicznej – w zakresie określonym w art. 61 tej ustawy; ” ;
 - **20)** w art. 29: w ust. 1 zdanie pierwsze otrzymuje brzmienie: „ Dokonywanie zmian w statucie spółki prowadzącej rynek regulowany i regulaminie rynku regulowanego wymaga zgody Komisji. ” , ust. 3 otrzymuje brzmienie: „
     - **a)**
     - **b)**
@@ -368,7 +383,7 @@ source: "eli-html"
 1a. W przypadkach, o których mowa w ust. 1 pkt 3 lub 5–7, Komisja może:
 
 - **1)** odstąpić od zastosowania sankcji określonej w ust. 1 i nałożyć na spółkę prowadzącą rynek regulowany karę pieniężną do wysokości 1 000 000 zł albo
-- **2)** zastosować sankcję określoną w ust. 1 i jednocześnie nałożyć karę pieniężną, o której mowa w pkt 1 jeżeli uzasadnia to charakter naruszeń, których dopuściła się spółka prowadząca rynek regulowany. ” , ust. 4 otrzymuje brzmienie: „
+- **2)** zastosować sankcję określoną w ust. 1 i jednocześnie nałożyć karę pieniężną, o której mowa w pkt 1 – jeżeli uzasadnia to charakter naruszeń, których dopuściła się spółka prowadząca rynek regulowany. ” , ust. 4 otrzymuje brzmienie: „
     - **c)**
 
 4. Komisja informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o każdym przypadku cofnięcia zezwolenia na prowadzenie rynku regulowanego. ” ;
@@ -387,7 +402,7 @@ source: "eli-html"
 2. W przypadkach, o których mowa w ust. 1 pkt 2–4, Komisja może:
 
 - **1)** odstąpić od zastosowania sankcji, o której mowa w ust. 1, i nałożyć na spółkę prowadzącą rynek regulowany karę pieniężną do wysokości 1 000 000 zł albo
-- **2)** zastosować sankcję określoną w ust. 1 i jednocześnie nałożyć karę pieniężną, o której mowa w pkt 1 jeżeli uzasadnia to charakter naruszeń, których dopuściła się spółka prowadząca rynek regulowany.
+- **2)** zastosować sankcję określoną w ust. 1 i jednocześnie nałożyć karę pieniężną, o której mowa w pkt 1 – jeżeli uzasadnia to charakter naruszeń, których dopuściła się spółka prowadząca rynek regulowany.
 
 3. Wydanie decyzji następuje po przeprowadzeniu rozprawy.
 
@@ -423,11 +438,11 @@ source: "eli-html"
 
 - **4)** po zasięgnięciu opinii Przewodniczącego Komisji Nadzoru Finansowego, określić szczególne zasady rachunkowości spółek prowadzących rynek regulowany, w tym zakres informacji wykazywanych w sprawozdaniu finansowym, odpowiednio w skonsolidowanym sprawozdaniu finansowym grupy kapitałowej oraz sprawozdaniach z działalności; ” .
 
-**Art. 3.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2015 r. poz. 641, z późn. zm.) w art. 39p ust. 5 otrzymuje brzmienie: „ 5. Obligacje emitowane na rynku krajowym są dopuszczone do obrotu na rynku regulowanym, o ile emitent nie postanowi inaczej w warunkach emisji. ” . W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2017 r. poz. 220) w art. 3 pkt 44 otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2015 r. poz. 641, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 901 oraz z 2016 r. poz. 615, 770, 1020, 1250, 1920, 1948 i 2260.) w art. 39p ust. 5 otrzymuje brzmienie: „ 5. Obligacje emitowane na rynku krajowym są dopuszczone do obrotu na rynku regulowanym, o ile emitent nie postanowi inaczej w warunkach emisji. ” . W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2017 r. poz. 220) w art. 3 pkt 44 otrzymuje brzmienie: „
 
 - **44)** rynek organizowany przez podmiot prowadzący na terytorium Rzeczypospolitej Polskiej rynek regulowany – obrót towarami giełdowymi organizowany na podstawie przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2016 r. poz. 1636, 1948 i 1997 oraz z 2017 r. poz. 724, 768 i 791) przez spółkę prowadzącą rynek regulowany; ” .
 
-**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2016 r. poz. 1988, z późn. zm.) w art. 4 w ust. 1 w pkt 35 w lit. a tiret pierwsze otrzymuje brzmienie: „ – akcje banku zostały dopuszczone do obrotu na rynku regulowanym w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2016 r. poz. 1636, 1948 i 1997 oraz z 2017 r. poz. 724, 768 i 791), ” .
+**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2016 r. poz. 1988, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1997 i 2260 oraz z 2017 r. poz. 85, 724 i 768.) w art. 4 w ust. 1 w pkt 35 w lit. a tiret pierwsze otrzymuje brzmienie: „ – akcje banku zostały dopuszczone do obrotu na rynku regulowanym w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2016 r. poz. 1636, 1948 i 1997 oraz z 2017 r. poz. 724, 768 i 791), ” .
 
 **Art. 6.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2016 r. poz. 1578, 1579, 2255 i 2260) w art. 403 zdanie drugie otrzymuje brzmienie: „ Walne zgromadzenie spółki publicznej może odbyć się także w miejscowości będącej siedzibą spółki prowadzącej rynek regulowany, na którym akcje tej spółki są przedmiotem obrotu. ” .
 
@@ -580,5 +595,5 @@ source: "eli-html"
 
 **Art. 20.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 60 ust. 2 ustawy zmienianej w art. 12 zachowują moc do dnia wejścia przepisów wykonawczych wydanych na podstawie art. 60 ust. 2 ustawy zmienianej w art. 12, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 21.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 21.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych, ustawę z dnia 26 października 2000 r. o giełdach towarowych, ustawę z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, ustawę z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawę z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym oraz ustawę z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji. 2) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2014/59/UE z dnia 15 maja 2014 r. ustanawiającej ramy na potrzeby prowadzenia działań naprawczych oraz restrukturyzacji i uporządkowanej likwidacji w odniesieniu do instytucji kredytowych i firm inwestycyjnych oraz zmieniającej dyrektywę Rady 82/891/EWG i dyrektywy Parlamentu Europejskiego i Rady 2001/24/WE, 2002/47/WE, 2004/25/WE, 2005/56/WE, 2007/36/WE, 2011/35/UE, 2012/30/UE i 2013/36/EU oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 i (UE) nr 648/2012. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 901 oraz z 2016 r. poz. 615, 770, 1020, 1250, 1920, 1948 i 2260. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1997 i 2260 oraz z 2017 r. poz. 85, 724 i 768.
 

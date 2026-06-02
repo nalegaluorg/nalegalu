@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 13 września 2018 r. w sprawie sposobu nadawania numeru rejestrowego podmiotom wpisywanym do rejestru prowadzonego w ramach BDO
+# Rozporządzenie Ministra Środowiskaz dnia 13 września 2018 r. w sprawie sposobu nadawania numeru rejestrowego podmiotom wpisywanym do rejestru prowadzonego w ramach BDO Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-13 |
 | Data wydania | 2018-09-24 |
-| Wejście w życie | 2018-10-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001807) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1807/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 54 ust. 4 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. 
 § 1.
 Dokonując wpisu do rejestru podmiotów wprowadzających produkty, produkty w opakowaniach i gospodarujących odpadami, o którym mowa w art. 49 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, nadaje się kolejno indywidualny numer rejestrowy składający się z 9 cyfr arabskich.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 9 października 2015 r. w sprawie sposobu nadawania numeru rejestrowego (Dz. U. poz. 1696), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 17 ust. 2 ustawy z dnia 12 października 2017 r. o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw (Dz. U. poz. 2056 i 2422).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaNiniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 9 października 2015 r. w sprawie sposobu nadawania numeru rejestrowego (Dz. U. poz. 1696), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 17 ust. 2 ustawy z dnia 12 października 2017 r. o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw (Dz. U. poz. 2056 i 2422).. 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 9 października 2015 r. w sprawie sposobu nadawania numeru rejestrowego (Dz. U. poz. 1696), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 17 ust. 2 ustawy z dnia 12 października 2017 r. o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw (Dz. U. poz. 2056 i 2422).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 marca 2018 r. o zmianie ustawy o mikroorganizmach i organizmach genetycznie zmodyfikowanych oraz niektórych innych ustaw
+# Ustawa z dnia 22 marca 2018 r. o zmianie ustawy o mikroorganizmach i organizmach genetycznie zmodyfikowanych oraz niektórych innych ustaw Niniejsza ustawa służy stosowaniu rozporządzenia (WE) nr 1829/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. w sprawie genetycznie zmodyfikowanej żywności i paszy (Dz. Urz. UE L 268 z 18.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 432, Dz. Urz. UE L 368 z 23.12.2006, str. 99, Dz. Urz. UE L 211 z 11.08.2007, str. 40, Dz. Urz. UE L 97 z 09.04.2008, str. 64). Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2001/18/WE z dnia 12 marca 2001 r. w sprawie zamierzonego uwalniania do środowiska organizmów zmodyfikowanych genetycznie i uchylającą dyrektywę Rady 90/220/EWG (Dz. Urz. WE L 106 z 17.04.2001, str. 1, Dz. Urz. UE L 268 z 18.10.2003, str. 1, Dz. Urz. UE L 268 z 18.10.2003, str. 24 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 77, Dz. Urz. UE L 81 z 20.03.2008, str. 45, Dz. Urz. UE L 68 z 13.03.2015, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-22 |
 | Data wydania | 2018-04-27 |
-| Wejście w życie | 2018-07-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000810) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/810/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 18 grudnia 2003 r. o ochronie roślin, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej oraz ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
 **Art. 1.** W ustawie z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2017 r. poz. 2134) wprowadza się następujące zmiany:
 
@@ -191,7 +192,7 @@ source: "eli-html"
 18. Przy wydawaniu odmowy na podstawie przesłanki, o której mowa w ust. 17 pkt 3, minister właściwy do spraw środowiska bierze pod uwagę aktualną wiedzę naukową, lokalizację uprawy GMO, która ma być prowadzona, względem form ochrony przyrody, o których mowa w art. 6 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, a także proporcjonalność oraz niedyskryminujący charakter przyjętych rozstrzygnięć. Wniosek o dokonanie wpisu uprawy GMO do Rejestru Upraw GMO, który dotyczy:
 
 - **1)** rośliny GMO, która nie została wprowadzona do obrotu z przeznaczeniem do uprawy,
-- **2)** rośliny GMO wprowadzonej do obrotu z przeznaczeniem do uprawy, której uprawa na terytorium Rzeczypospolitej Polskiej jest zakazana na podstawie art. 49b ust. 2 albo przepisów wydanych na podstawie art. 49c ust. 1, albo na podstawie przepisów odrębnych pozostawia się bez rozpoznania. Podmiot prowadzący uprawę GMO niezwłocznie informuje ministra właściwego do spraw środowiska i wojewódzkiego inspektora ochrony roślin i nasiennictwa właściwego ze względu na miejsce uprawy GMO o zmianie danych podanych we wniosku, o których mowa w art. 49e ust. 4 pkt 1, nie później jednak niż w terminie 14 dni od dnia zaistnienia tej zmiany. Minister właściwy do spraw środowiska wykreśla wpis uprawy GMO z Rejestru Upraw GMO, jeżeli:
+- **2)** rośliny GMO wprowadzonej do obrotu z przeznaczeniem do uprawy, której uprawa na terytorium Rzeczypospolitej Polskiej jest zakazana na podstawie art. 49b ust. 2 albo przepisów wydanych na podstawie art. 49c ust. 1, albo na podstawie przepisów odrębnych – pozostawia się bez rozpoznania. Podmiot prowadzący uprawę GMO niezwłocznie informuje ministra właściwego do spraw środowiska i wojewódzkiego inspektora ochrony roślin i nasiennictwa właściwego ze względu na miejsce uprawy GMO o zmianie danych podanych we wniosku, o których mowa w art. 49e ust. 4 pkt 1, nie później jednak niż w terminie 14 dni od dnia zaistnienia tej zmiany. Minister właściwy do spraw środowiska wykreśla wpis uprawy GMO z Rejestru Upraw GMO, jeżeli:
 - **1)** uprawa dotyczy rośliny GMO wprowadzonej do obrotu z przeznaczeniem do uprawy, w przypadku gdy zezwolenie na wprowadzenie do obrotu z przeznaczeniem do uprawy zostało zawieszone albo cofnięte;
 - **2)** kontrola, o której mowa w art. 49j ust. 5 pkt 1, wykaże, że uprawa GMO jest prowadzona niezgodnie z warunkami i sposobem prowadzenia tej uprawy określonymi we wpisie uprawy GMO w Rejestrze Upraw GMO.
 
@@ -220,7 +221,7 @@ source: "eli-html"
 6. Wojewódzki inspektor ochrony roślin i nasiennictwa, przeprowadzając kontrolę:
 
 - **1)** o której mowa w ust. 5 pkt 2, pobiera próbki roślin lub produktów roślinnych do badań laboratoryjnych,
-- **2)** o której mowa w ust. 5 pkt 1, może pobrać próbki roślin lub produktów roślinnych do badań laboratoryjnych, jeżeli wystąpią zastrzeżenia do kontrolowanej dokumentacji w celu zidentyfikowania modyfikacji genetycznej.
+- **2)** o której mowa w ust. 5 pkt 1, może pobrać próbki roślin lub produktów roślinnych do badań laboratoryjnych, jeżeli wystąpią zastrzeżenia do kontrolowanej dokumentacji – w celu zidentyfikowania modyfikacji genetycznej.
 
 7. Badania laboratoryjne są wykonywane przez Głównego Inspektora Ochrony Roślin i Nasiennictwa.
 
@@ -282,7 +283,7 @@ source: "eli-html"
 - **1)** wstępu na wszystkie grunty, w tym leśne, oraz do wszelkich pomieszczeń, środków transportu i obiektów, w których są lub były uprawiane, wytwarzane, przewożone lub przechowywane rośliny, produkty roślinne lub przedmioty, a także środki ochrony roślin, materiał siewny i sprzęt przeznaczony do stosowania środków ochrony roślin, oraz na teren portów, przystani, lotnisk, stacji kolejowych, placówek pocztowych, przejść granicznych, w celu przeprowadzenia kontroli wynikających z przepisów ustawy, z przepisów o środkach ochrony roślin, przepisów o nasiennictwie i przepisów o mikroorganizmach i organizmach genetycznie zmodyfikowanych;
 - **2)** kontroli dokumentów, żądania pisemnych lub ustnych informacji, wyjaśnień oraz dostępu do wszelkich danych, w tym również prowadzonych w formie elektronicznej, mających związek z przedmiotem kontroli i dotyczących spraw ochrony roślin, środków ochrony roślin, nasiennictwa i upraw GMO w rozumieniu przepisów o mikroorganizmach i organizmach genetycznie zmodyfikowanych; ” .
 
-**Art. 4.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2016 r. poz. 1827, z późn. zm.) w załączniku do ustawy w części III ust. 36 otrzymuje brzmienie: 1 2 3 4 36. Zgody i zezwolenia wydawane na podstawie przepisów o mikroorganizmach i organizmach genetycznie zmodyfikowanych: zgoda i zezwolenie wydawane jednostkom naukowym, o których mowa w art. 2 pkt 9 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2018 r. poz. 87) 1) zgoda na zamknięte użycie mikroorganizmów genetycznie zmodyfikowanych 3466 zł 2) zgoda na zamknięte użycie organizmów genetycznie zmodyfikowanych 3466 zł 3) zgoda na zamierzone uwolnienie organizmów genetycznie zmodyfikowanych do środowiska 3466 zł 4) zezwolenie na wprowadzenie produktu GMO do obrotu 3466 zł 5) zezwolenie na prowadzenie zakładu inżynierii genetycznej 3466 zł 6) wpis uprawy GMO do Rejestru Upraw GMO 3466 zł
+**Art. 4.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2016 r. poz. 1827, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 624, 1273, 1529, 1543, 1566, 2361 i 2486 oraz z 2018 r. poz. 107 i 650.) w załączniku do ustawy w części III ust. 36 otrzymuje brzmienie: 1 2 3 4 36. Zgody i zezwolenia wydawane na podstawie przepisów o mikroorganizmach i organizmach genetycznie zmodyfikowanych: zgoda i zezwolenie wydawane jednostkom naukowym, o których mowa w art. 2 pkt 9 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2018 r. poz. 87) 1) zgoda na zamknięte użycie mikroorganizmów genetycznie zmodyfikowanych 3466 zł 2) zgoda na zamknięte użycie organizmów genetycznie zmodyfikowanych 3466 zł 3) zgoda na zamierzone uwolnienie organizmów genetycznie zmodyfikowanych do środowiska 3466 zł 4) zezwolenie na wprowadzenie produktu GMO do obrotu 3466 zł 5) zezwolenie na prowadzenie zakładu inżynierii genetycznej 3466 zł 6) wpis uprawy GMO do Rejestru Upraw GMO 3466 zł
 
 **Art. 5.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2017 r. poz. 1405, 1566 i 1999) wprowadza się następujące zmiany:
 
@@ -319,5 +320,5 @@ source: "eli-html"
 
 4. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, jest odpowiednio minister właściwy do spraw środowiska, minister właściwy do spraw rolnictwa oraz minister właściwy do spraw administracji publicznej.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa służy stosowaniu rozporządzenia (WE) nr 1829/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. w sprawie genetycznie zmodyfikowanej żywności i paszy (Dz. Urz. UE L 268 z 18.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 432, Dz. Urz. UE L 368 z 23.12.2006, str. 99, Dz. Urz. UE L 211 z 11.08.2007, str. 40, Dz. Urz. UE L 97 z 09.04.2008, str. 64). Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2001/18/WE z dnia 12 marca 2001 r. w sprawie zamierzonego uwalniania do środowiska organizmów zmodyfikowanych genetycznie i uchylającą dyrektywę Rady 90/220/EWG (Dz. Urz. WE L 106 z 17.04.2001, str. 1, Dz. Urz. UE L 268 z 18.10.2003, str. 1, Dz. Urz. UE L 268 z 18.10.2003, str. 24 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 77, Dz. Urz. UE L 81 z 20.03.2008, str. 45, Dz. Urz. UE L 68 z 13.03.2015, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 18 grudnia 2003 r. o ochronie roślin, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej oraz ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 624, 1273, 1529, 1543, 1566, 2361 i 2486 oraz z 2018 r. poz. 107 i 650.
 

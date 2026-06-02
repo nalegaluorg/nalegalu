@@ -26,22 +26,30 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001704) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1704/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych Rozdział 1 – Przepisy ogólne Rozdział 2 – Zryczałtowany podatek Rozdział 3 – Zmiany w przepisach oraz przepisy przejściowy i końcowy
+Załącznik – Tekst jednolity ustawy z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych (Dz. U. z 2020 r. poz. 1084), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 listopada 2020 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw (Dz. U. poz. 2123) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 września 2021 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 24 ustawy z dnia 28 listopada 2020 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw (Dz. U. poz. 2123), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 24 ustawy z dnia 28 listopada 2020 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw (Dz. U. poz. 2123), który stanowi: „
+Przepisy ogólne
+Zryczałtowany podatek
+Zmiany w przepisach oraz przepisy przejściowy i końcowy
 Art. 16–22.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Zryczałtowany podatek
+
+#### Rozdział 3 – Zmiany w przepisach oraz przepisy przejściowy i końcowy
 
 **Art. 24.** Ustawa wchodzi w życie z dniem 1 stycznia 2021 r., z wyjątkiem:
 
 - **1)** art. 1 pkt 21–33, art. 2 pkt 25–35, art. 3 pkt 9–13, art. 9, art. 10, art. 12, art. 18, art. 19 oraz art. 23 ust. 3 i 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 - **2)** art. 4 i art. 8, które wchodzą w życie z dniem 1 marca 2021 r. ” . Załącznik – Tekst jednolity ustawy z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa formy aktywizacji przemysłu okrętowego i przemysłów komplementarnych, w tym reguluje opodatkowanie zryczałtowanym podatkiem od wartości sprzedanej produkcji, zwanym dalej „zryczałtowanym podatkiem”.
 
@@ -51,13 +59,11 @@ Art. 16–22.
 
 - **1)** budowie statku – oznacza to budowę nowego, kompletnego i zdolnego do żeglugi statku;
 - **2)** okresie opodatkowania – oznacza to okres opodatkowania zryczałtowanym podatkiem;
-- **3)** przebudowie statku – oznacza to przebudowę przeprowadzoną w całości przez przedsiębiorcę okrętowego, a w przypadku prowadzenia działalności w formie spółki cywilnej lub spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych – przez tę spółkę: której wartość całkowita wynosi co najmniej równowartość w złotych kwoty 5 000 000 euro lub polegającą na zmianie przeznaczenia statku lub zmianie źródła napędu;
+- **3)** przebudowie statku – oznacza to przebudowę przeprowadzoną w całości przez przedsiębiorcę okrętowego, a w przypadku prowadzenia działalności w formie spółki cywilnej lub spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych – przez tę spółkę:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 7 pkt 1 lit. a ustawy z dnia 28 listopada 2020 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw (Dz. U. poz. 2123), która weszła w życie z dniem 1 stycznia 2021 r. której wartość całkowita wynosi co najmniej równowartość w złotych kwoty 5 000 000 euro lub polegającą na zmianie przeznaczenia statku lub zmianie źródła napędu;
     - **a)**
     - **b)**
 
-- **4)** przedsiębiorcy okrętowym – oznacza to: osobę fizyczną, osobę prawną i spółkę, o której mowa w art. 1 ust. 3 pkt 1 i 1a ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm.), mającą odpowiednio miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, wspólnika spółki cywilnej i spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych, mającego siedzibę, zarząd lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, przedsiębiorcę zagranicznego w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 994) prowadzących na terytorium Rzeczypospolitej Polskiej działalność polegającą na budowie statku lub przebudowie statku;
-    - **a)**
-    - **b)**
+- **4)** przedsiębiorcy okrętowym – oznacza to: aW brzmieniu ustalonym przez art. 7 pkt 1 lit. b ustawy, o której mowa w odnośniku 1.) osobę fizyczną, osobę prawną i spółkę, o której mowa w art. 1 ust. 3 pkt 1 i 1a ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1565, 2122, 2123 i 2320 oraz z 2021 r. poz. 11, 255, 1163, 1243 i 1598.), mającą odpowiednio miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, bW brzmieniu ustalonym przez art. 7 pkt 1 lit. b ustawy, o której mowa w odnośniku 1.) wspólnika spółki cywilnej i spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych, mającego siedzibę, zarząd lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, przedsiębiorcę zagranicznego w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 994) – prowadzących na terytorium Rzeczypospolitej Polskiej działalność polegającą na budowie statku lub przebudowie statku;
     - **c)**
 
 - **5)** statku – oznacza to jednostkę pływającą używaną do żeglugi morskiej lub śródlądowej, o długości kadłuba powyżej 5 metrów, podlegającą nadzorowi technicznemu uznanej organizacji, o której mowa w ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2020 r. poz. 680 oraz z 2021 r. poz. 234), jak również morską platformę wiertniczą lub produkcyjną;
@@ -69,7 +75,7 @@ Art. 16–22.
 
 3. Rokiem podatkowym przedsiębiorcy okrętowego jest rok kalendarzowy, a w przypadku przedsiębiorcy okrętowego będącego podatnikiem podatku dochodowego od osób prawnych – rok podatkowy przyjęty dla celów tego podatku.
 
-#### Rozdział 2 Zryczałtowany podatek
+#### Rozdział 2
 
 **Art. 3.** Przedsiębiorca okrętowy może opłacać zryczałtowany podatek w zakresie budowy statku lub przebudowy statku.
 
@@ -88,9 +94,7 @@ Art. 16–22.
 3. Do wniosku, o którym mowa w ust. 1, przedsiębiorca okrętowy dołącza:
 
 - **1)** umowę o budowę statku albo umowę o przebudowę statku;
-- **2)** dokumenty uznanej organizacji wydane na podstawie ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim – w przypadku certyfikatu zakończenia budowy statku lub przebudowy statku.
-
-4. W przypadku prowadzenia przez przedsiębiorcę okrętowego działalności w formie spółki cywilnej lub spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych wniosek, o którym mowa w ust. 1, składa ta spółka.
+- **2)** dokumenty uznanej organizacji wydane na podstawie ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim – w przypadku certyfikatu zakończenia budowy statku lub przebudowy statku. 4W brzmieniu ustalonym przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 1.. W przypadku prowadzenia przez przedsiębiorcę okrętowego działalności w formie spółki cywilnej lub spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych wniosek, o którym mowa w ust. 1, składa ta spółka.
 
 5. Certyfikat stanowi zaświadczenie w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735 i 1491).
 
@@ -101,7 +105,7 @@ Art. 16–22.
 8. Minister właściwy do spraw gospodarki morskiej w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
 
 - **1)** wzór certyfikatu wydawanego przez organ, o którym mowa w ust. 1 pkt 1,
-- **2)** wzór certyfikatu wydawanego przez organ, o którym mowa w ust. 1 pkt 2 mając na względzie zakres niezbędnych danych oraz konieczność zapewnienia prawidłowości prowadzonej dokumentacji dla celów kontroli celno-skarbowej lub podatkowej.
+- **2)** wzór certyfikatu wydawanego przez organ, o którym mowa w ust. 1 pkt 2 – mając na względzie zakres niezbędnych danych oraz konieczność zapewnienia prawidłowości prowadzonej dokumentacji dla celów kontroli celno-skarbowej lub podatkowej.
 
 **Art. 5.**
 
@@ -147,7 +151,7 @@ Art. 16–22.
 4. Jeżeli w okresie opodatkowania zmarł przedsiębiorca okrętowy, podatnikiem zryczałtowanego podatku w okresie od otwarcia spadku do dnia wygaśnięcia:
 
 - **1)** zarządu sukcesyjnego albo
-- **2)** uprawnienia do powołania zarządcy sukcesyjnego, jeżeli zarząd sukcesyjny nie został ustanowiony i dokonano zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2020 r. poz. 170 oraz z 2021 r. poz. 802 i 1163) nie dłużej jednak niż do końca okresu opodatkowania, jest przedsiębiorstwo w spadku.
+- **2)** uprawnienia do powołania zarządcy sukcesyjnego, jeżeli zarząd sukcesyjny nie został ustanowiony i dokonano zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2020 r. poz. 170 oraz z 2021 r. poz. 802 i 1163) – nie dłużej jednak niż do końca okresu opodatkowania, jest przedsiębiorstwo w spadku.
 
 5. Przedsiębiorstwo w spadku kontynuuje opodatkowanie zryczałtowanym podatkiem na zasadach, jakie obowiązywały zmarłego przedsiębiorcę.
 
@@ -159,11 +163,7 @@ Art. 16–22.
 
 3. W przypadku prowadzenia przez przedsiębiorcę okrętowego działalności w formie spółki cywilnej albo spółki jawnej obowiązek prowadzenia ewidencji przychodów dotyczy tej spółki.
 
-**Art. 10.**
-
-1. W okresie opodatkowania zryczałtowanym podatkiem przedsiębiorca okrętowy jest obowiązany prowadzić odrębny wykaz środków trwałych oraz wartości niematerialnych i prawnych związanych z działalnością w zakresie budowy statku lub przebudowy statku, a w przypadku gdy tę działalność prowadzi spółka cywilna lub spółka jawna niebędąca podatnikiem podatku dochodowego od osób prawnych – wykaz obowiązana jest prowadzić ta spółka.
-
-2. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, w drodze rozporządzenia, sposób prowadzenia wykazu środków trwałych oraz wartości niematerialnych i prawnych, o którym mowa w ust. 1, kierując się koniecznością prawidłowego określenia, dla celów podatku dochodowego, wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych i stawki amortyzacyjnej.
+**Art. 10.** 1W brzmieniu ustalonym przez art. 7 pkt 3 ustawy, o której mowa w odnośniku 1.. W okresie opodatkowania zryczałtowanym podatkiem przedsiębiorca okrętowy jest obowiązany prowadzić odrębny wykaz środków trwałych oraz wartości niematerialnych i prawnych związanych z działalnością w zakresie budowy statku lub przebudowy statku, a w przypadku gdy tę działalność prowadzi spółka cywilna lub spółka jawna niebędąca podatnikiem podatku dochodowego od osób prawnych – wykaz obowiązana jest prowadzić ta spółka. 2. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, w drodze rozporządzenia, sposób prowadzenia wykazu środków trwałych oraz wartości niematerialnych i prawnych, o którym mowa w ust. 1, kierując się koniecznością prawidłowego określenia, dla celów podatku dochodowego, wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych i stawki amortyzacyjnej.
 
 **Art. 11.** Organem podatkowym właściwym w sprawach zryczałtowanego podatku jest naczelnik urzędu skarbowego właściwy w sprawach podatku dochodowego.
 
@@ -186,14 +186,11 @@ Art. 16–22.
 **Art. 14.** Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, w drodze rozporządzenia, wzory:
 
 - **1)** oświadczenia,
-- **2)** zeznania, o którym mowa w art. 13 ust. 2 wraz z objaśnieniami co do sposobu ich wypełniania, terminu i miejsca składania, mając na względzie zakres informacji niezbędnych do prawidłowego ustalenia zobowiązania podatkowego.
+- **2)** zeznania, o którym mowa w art. 13 ust. 2 – wraz z objaśnieniami co do sposobu ich wypełniania, terminu i miejsca składania, mając na względzie zakres informacji niezbędnych do prawidłowego ustalenia zobowiązania podatkowego.
 
 **Art. 15.** Wyboru opodatkowania zryczałtowanym podatkiem można dokonać w okresie obowiązywania pozytywnej decyzji Komisji Europejskiej o zgodności zryczałtowanego podatku z rynkiem wewnętrznym.
 
-#### Rozdział 3 Zmiany w przepisach oraz przepisy przejściowy i końcowy
+#### Rozdział 3
 
-**Art. 23.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r.
-
-- **1)** Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 7 pkt 1 lit. a ustawy z dnia 28 listopada 2020 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw (Dz. U. poz. 2123), która weszła w życie z dniem 1 stycznia 2021 r. 2) W brzmieniu ustalonym przez art. 7 pkt 1 lit. b ustawy, o której mowa w odnośniku 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1565, 2122, 2123 i 2320 oraz z 2021 r. poz. 11, 255, 1163, 1243 i 1598. 4) W brzmieniu ustalonym przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 1. 5) W brzmieniu ustalonym przez art. 7 pkt 3 ustawy, o której mowa w odnośniku 1.
-
+**Art. 23.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r. 1) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 7 pkt 1 lit. a ustawy z dnia 28 listopada 2020 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw (Dz. U. poz. 2123), która weszła w życie z dniem 1 stycznia 2021 r. 2) W brzmieniu ustalonym przez art. 7 pkt 1 lit. b ustawy, o której mowa w odnośniku 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1565, 2122, 2123 i 2320 oraz z 2021 r. poz. 11, 255, 1163, 1243 i 1598. 4) W brzmieniu ustalonym przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 1. 5) W brzmieniu ustalonym przez art. 7 pkt 3 ustawy, o której mowa w odnośniku 1.
 

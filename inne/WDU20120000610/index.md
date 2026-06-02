@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-05-24 |
 | Data wydania | 2012-05-30 |
-| Wejście w życie | 2012-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000610) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/610/text.pdf) |
 
@@ -73,5 +72,5 @@ Informacja o przyznanych nagrodach jest publikowana w Biuletynie Informacji Publ
 § 5.
 Wnioski dotyczące nagród złożone przed dniem wejścia w życie rozporządzenia podlegają rozpatrzeniu na podstawie przepisów dotychczasowych.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2012 r.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2012 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 7 czerwca 2000 r. w sprawie szczegółowych zasad i trybu przyznawania dorocznych nagród za osiągnięcia w dziedzinie twórczości artystycznej, upowszechniania i ochrony kultury oraz ich wysokości (Dz. U. Nr 50, poz. 593), które utraciło moc na podstawie art. 13 pkt 1 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. Nr 207, poz. 1230). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 7 czerwca 2000 r. w sprawie szczegółowych zasad i trybu przyznawania dorocznych nagród za osiągnięcia w dziedzinie twórczości artystycznej, upowszechniania i ochrony kultury oraz ich wysokości (Dz. U. Nr 50, poz. 593), które utraciło moc na podstawie art. 13 pkt 1 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. Nr 207, poz. 1230).
 

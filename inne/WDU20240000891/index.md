@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 stycznia 2020 r. o dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. z 2022 r. poz. 2575), z uwzględnieniem zmian wprowadzonych ustawą z dnia 26 maja 2023 r. o kolejnym dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. poz. 1407) oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 czerwca 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 24–26 ustawy z dnia 26 maja 2023 r. o kolejnym dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. poz. 1407), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 24–26 ustawy z dnia 26 maja 2023 r. o kolejnym dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. poz. 1407), które stanowią: „
 
 **Art. 24.**
 
@@ -73,7 +72,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **14)** emerytury, o której mowa w art. 1 ust. 1 pkt 1 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych (Dz. U. z 2023 r. poz. 164 i 1667),
 - **15)** świadczenia, o którym mowa w art. 5 ust. 1 ustawy z dnia 22 maja 2009 r. o nauczycielskich świadczeniach kompensacyjnych (Dz. U. z 2024 r. poz. 245),
 - **16)** okresowej emerytury rolniczej, o której mowa w art. 15 ustawy z dnia 11 maja 2012 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (Dz. U. poz. 637 oraz z 2017 r. poz. 38),
-- **17)** rodzicielskiego świadczenia uzupełniającego, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2022 r. poz. 1051) zwanym dalej „osobami uprawnionymi”.
+- **17)** rodzicielskiego świadczenia uzupełniającego, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2022 r. poz. 1051) – zwanym dalej „osobami uprawnionymi”.
 
 2. Dodatkowe roczne świadczenie pieniężne nie przysługuje osobom, którym prawo do świadczeń określonych w ust. 1 zostało zawieszone na dzień 31 marca roku, w którym wypłacane jest dodatkowe roczne świadczenie pieniężne.
 
@@ -124,9 +123,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 12.**
 
-1. Dla celów podatku dochodowego od osób fizycznych dodatkowe roczne świadczenie pieniężne stanowi świadczenie, o którym mowa w art. 12 ust. 7 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226 i 232).
-
-2. Do kwoty dodatkowego rocznego świadczenia pieniężnego stosuje się odpowiednio art. 66 ust. 1 pkt 16, art. 81 ust. 8 pkt 2, art. 83 ust. 1 i art. 85 ust. 9–11 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146).
+1. Dla celów podatku dochodowego od osób fizycznych dodatkowe roczne świadczenie pieniężne stanowi świadczenie, o którym mowa w art. 12 ust. 7 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226 i 232). 2W brzmieniu ustalonym przez art. 20 pkt 1 ustawy z dnia 26 maja 2023 r. o kolejnym dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. poz. 1407), która weszła w życie z dniem 8 sierpnia 2023 r.; wszedł w życie z dniem 1 stycznia 2024 r.. Do kwoty dodatkowego rocznego świadczenia pieniężnego stosuje się odpowiednio art. 66 ust. 1 pkt 16, art. 81 ust. 8 pkt 2, art. 83 ust. 1 i art. 85 ust. 9–11 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146).
 
 **Art. 13.** W sprawach nieuregulowanych w niniejszej ustawie stosuje się przepisy:
 
@@ -135,22 +132,12 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **3)** ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, z wyjątkiem art. 47 tej ustawy;
 - **4)** ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z wyjątkiem art. 136 tej ustawy.
 
-**Art. 14.**
-
-1. Dodatkowe roczne świadczenie pieniężne wypłacane przez Zakład Ubezpieczeń Społecznych, Kasę Rolniczego Ubezpieczenia Społecznego i Agencję Restrukturyzacji i Modernizacji Rolnictwa oraz koszty obsługi jego wypłaty są finansowane z budżetu państwa.
-
-2. Koszty obsługi, o których mowa w ust. 1, wynoszą 0,5 % kwoty przeznaczonej na wypłatę dodatkowego rocznego świadczenia pieniężnego.
-
-1. Organy wypłacające świadczenia, o których mowa w art. 2 ust. 1, są uprawnione do pozyskiwania i przetwarzania danych osobowych w zakresie niezbędnym do przyznawania i ustania prawa do dodatkowego rocznego świadczenia pieniężnego oraz wypłacania tego świadczenia.
-
-2. Zabezpieczenia przetwarzania danych osobowych przez organy wypłacające świadczenia, o których mowa w art. 2 ust. 1, polegają co najmniej na:
+**Art. 14.** 1W brzmieniu ustalonym przez art. 20 pkt 2 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 stycznia 2024 r.. Dodatkowe roczne świadczenie pieniężne wypłacane przez Zakład Ubezpieczeń Społecznych, Kasę Rolniczego Ubezpieczenia Społecznego i Agencję Restrukturyzacji i Modernizacji Rolnictwa oraz koszty obsługi jego wypłaty są finansowane z budżetu państwa. 2. Koszty obsługi, o których mowa w ust. 1, wynoszą 0,5 % kwoty przeznaczonej na wypłatę dodatkowego rocznego świadczenia pieniężnego. 1. Organy wypłacające świadczenia, o których mowa w art. 2 ust. 1, są uprawnione do pozyskiwania i przetwarzania danych osobowych w zakresie niezbędnym do przyznawania i ustania prawa do dodatkowego rocznego świadczenia pieniężnego oraz wypłacania tego świadczenia. 2. Zabezpieczenia przetwarzania danych osobowych przez organy wypłacające świadczenia, o których mowa w art. 2 ust. 1, polegają co najmniej na:
 
 - **1)** dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
-- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich poufności.
-
-3. Pozyskiwanie danych osobowych, o którym mowa w ust. 1, następuje za pośrednictwem systemu teleinformatycznego.
+- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich poufności. 3Wejdzie w życie z dniem 1 stycznia 2025 r.. Pozyskiwanie danych osobowych, o którym mowa w ust. 1, następuje za pośrednictwem systemu teleinformatycznego.
 
 **Art. 15.** W 2020 r. minister właściwy do spraw finansów publicznych, na wniosek właściwego dysponenta części budżetowej, może dokonywać przeniesień wydatków budżetowych między działami, rozdziałami i paragrafami klasyfikacji wydatków budżetu państwa, a w przypadku ministrów będących dysponentami więcej niż jednej części budżetowej również między tymi częściami budżetowymi. Art. 16–19. (pominięte)
 
-**Art. 20.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 20.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszeniaUstawa została ogłoszona w dniu 27 lutego 2020 r.. 1) W brzmieniu ustalonym przez art. 20 pkt 1 ustawy z dnia 26 maja 2023 r. o kolejnym dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. poz. 1407), która weszła w życie z dniem 8 sierpnia 2023 r.; wszedł w życie z dniem 1 stycznia 2024 r. 2) W brzmieniu ustalonym przez art. 20 pkt 2 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 stycznia 2024 r. 3) Dodany przez art. 20 pkt 3 ustawy, o której mowa w odnośniku 1. 4) Wejdzie w życie z dniem 1 stycznia 2025 r. 5) Ustawa została ogłoszona w dniu 27 lutego 2020 r.
 

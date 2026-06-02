@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 kwietnia 2014 r. o zmianie niektórych ustaw w związku ze standaryzacją niektórych wzorów pism w procedurach administracyjnych
+# Ustawa z dnia 24 kwietnia 2014 r. o zmianie niektórych ustaw w związku ze standaryzacją niektórych wzorów pism w procedurach administracyjnych Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 29 sierpnia 1997 r. o usługach turystycznych, ustawę z dnia 21 grudnia 2000 r. o dozorze technicznym, ustawę z dnia 18 stycznia 2001 r. o wyścigach konnych, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków, ustawę z dnia 6 lipca 2001 r. o usługach detektywistycznych, ustawę z dnia 18 lipca 2001 r. – Prawo wodne, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, ustawę z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt, ustawę z dnia 18 grudnia 2003 r. o ochronie roślin, ustawę z dnia 19 lutego 2004 r. o rybołówstwie, ustawę z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, ustawę z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz ustawę z dnia 8 marca 2013 r. o środkach ochrony roślin.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-24 |
 | Data wydania | 2014-06-24 |
-| Wejście w życie | 2014-12-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000822) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/822/text.pdf) |
 
@@ -78,7 +77,7 @@ source: "eli-html"
 
 **Art. 3.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409 oraz z 2014 r. poz. 40 i 768) w art. 31 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi wzór zgłoszenia, o którym mowa w ust. 2, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183). ” .
 
-**Art. 4.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312, 486, 529 i 768.) wprowadza się następujące zmiany:
 
 - **1)** w art. 75ab: w ust. 2 pkt 1 otrzymuje brzmienie: „
     - **a)**
@@ -116,7 +115,7 @@ source: "eli-html"
 
 **Art. 7.** W ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2013 r. poz. 963, 984 i 1611) w art. 9 po ust. 3 dodaje się ust. 3a w brzmieniu: „ 3a. Prezes Urzędu, Dyrektor Transportowego Dozoru Technicznego i Szef Wojskowego Dozoru Technicznego, każdy w zakresie swojej właściwości, określą wzór wniosku, o którym mowa w ust. 2, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183). ” .
 
-**Art. 8.** W ustawie z dnia 18 stycznia 2001 r. o wyścigach konnych (Dz. U. Nr 11, poz. 86, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 18 stycznia 2001 r. o wyścigach konnych (Dz. U. Nr 11, poz. 86, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 84, poz. 774, z 2004 r. Nr 173, poz. 1808, z 2006 r. Nr 249, poz. 1832, z 2009 r. Nr 201, poz. 1540 oraz z 2011 r. Nr 106, poz. 622.) wprowadza się następujące zmiany:
 
 - **1)** w art. 16 po ust. 7 dodaje się ust. 7a w brzmieniu: „
 
@@ -138,9 +137,9 @@ source: "eli-html"
 
 6a. Minister właściwy do spraw rolnictwa określi wzór wniosku, o którym mowa w ust. 5, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. ” .
 
-**Art. 9.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.) w art. 221 dodaje się ust. 3 w brzmieniu: „ 3. Minister właściwy do spraw środowiska określi wzór wniosku, o którym mowa w ust. 1, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183). ” .
+**Art. 9.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47 i 457.) w art. 221 dodaje się ust. 3 w brzmieniu: „ 3. Minister właściwy do spraw środowiska określi wzór wniosku, o którym mowa w ust. 1, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183). ” .
 
-**Art. 10.** W ustawie z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2006 r. Nr 123, poz. 858, z późn. zm.) w art. 17 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi wzór wniosku, o którym mowa w ust. 1, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183). ” .
+**Art. 10.** W ustawie z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2006 r. Nr 123, poz. 858, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 147, poz. 1033, z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 47, poz. 278 i Nr 238, poz. 1578 oraz z 2012 r. poz. 951 i 1513.) w art. 17 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi wzór wniosku, o którym mowa w ust. 1, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183). ” .
 
 **Art. 11.** W ustawie z dnia 6 lipca 2001 r. o usługach detektywistycznych (Dz. U. z 2014 r. poz. 273) wprowadza się następujące zmiany:
 
@@ -154,9 +153,9 @@ source: "eli-html"
 
 **Art. 16b.** Minister właściwy do spraw wewnętrznych określi wzór zgłoszenia zamiaru rozpoczęcia czasowego świadczenia usług detektywistycznych oraz wzór zgłoszenia zakończenia czasowego świadczenia usług detektywistycznych, w formie dokumentów elektronicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. ” .
 
-**Art. 12.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm.) w art. 131 po ust. 4 dodaje się ust. 4a w brzmieniu: „ 4a. Minister właściwy do spraw gospodarki wodnej określi wzór wniosku, o którym mowa w ust. 1, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183). ” .
+**Art. 12.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513, z 2013 r. poz. 21 i 165 oraz z 2014 r. poz. 659.) w art. 131 po ust. 4 dodaje się ust. 4a w brzmieniu: „ 4a. Minister właściwy do spraw gospodarki wodnej określi wzór wniosku, o którym mowa w ust. 1, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183). ” .
 
-**Art. 13.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 13.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544 oraz z 2013 r. poz. 1245.) wprowadza się następujące zmiany:
 
 - **1)** w art. 70 po ust. 4 dodaje się ust. 4a w brzmieniu: „
 
@@ -164,7 +163,7 @@ source: "eli-html"
 
 - **2)** w art. 83 w ust. 5 skreśla się wyrazy „(Dz. U. Nr 64, poz. 565, z późn. zm.22))”.
 
-**Art. 14.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2010 r. Nr 138, poz. 935, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 14.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2010 r. Nr 138, poz. 935, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 586 i Nr 227, poz. 1367, z 2012 r. poz. 1529 oraz z 2013 r. poz. 898.) wprowadza się następujące zmiany:
 
 - **1)** w art. 15 po ust. 6 dodaje się ust. 6a w brzmieniu: „
 
@@ -178,7 +177,7 @@ source: "eli-html"
 
 **Art. 15.** W ustawie z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt (Dz. U. z 2004 r. Nr 11, poz. 95, z 2008 r. Nr 220, poz. 1433 oraz z 2011 r. Nr 106, poz. 622) w art. 17 dodaje się ust. 9 w brzmieniu: „ 9. Minister właściwy do spraw rolnictwa określi wzór wniosku, o którym mowa w ust. 2, zawierającego oświadczenie, o którym mowa w ust. 4, wzór wniosku o zmianę wpisu do ewidencji oraz wzór wniosku o wykreślenie z ewidencji, w formie dokumentów elektronicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183). ” . W ustawie z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2014 r. poz. 621) w art. 13 po ust. 4 dodaje się ust. 4a w brzmieniu: „ 4a. Minister właściwy do spraw rolnictwa określi wzór wniosku, o którym mowa w ust. 1, oraz wzór wniosku o zmianę danych w rejestrze, w formie dokumentów elektronicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183)
 
-**Art. 17.** W ustawie z dnia 19 lutego 2004 r. o rybołówstwie (Dz. U. Nr 62, poz. 574, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 17.** W ustawie z dnia 19 lutego 2004 r. o rybołówstwie (Dz. U. Nr 62, poz. 574, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 96, poz. 807, z 2006 r. Nr 220, poz. 1600, z 2007 r. Nr 21, poz. 125, z 2009 r. Nr 18, poz. 97, Nr 92, poz. 753 i Nr 168, poz. 1323 oraz z 2011 r. Nr 34, poz. 168 i Nr 106, poz. 622.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -205,7 +204,7 @@ source: "eli-html"
 
 2a. Minister właściwy do spraw rybołówstwa określi wzór wniosku o wydanie zezwolenia, o którym mowa w ust. 1, oraz wzór wniosku o zmianę zezwolenia, w formie dokumentów elektronicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. ” .
 
-**Art. 18.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, z późn. zm.) w art. 65 ust. 2 otrzymuje brzmienie: „ 2. Oświadczenie składa się do organu prowadzącego rejestr działalności regulowanej. ” .
+**Art. 18.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650.) w art. 65 ust. 2 otrzymuje brzmienie: „ 2. Oświadczenie składa się do organu prowadzącego rejestr działalności regulowanej. ” .
 
 **Art. 19.** W ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. z 2013 r. poz. 1162) w art. 31 dodaje się ust. 3 w brzmieniu: „ 3. Minister właściwy do spraw środowiska określi wzór zawiadomienia, o którym mowa w ust. 1, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183). ” .
 
@@ -235,5 +234,5 @@ source: "eli-html"
 
 **Art. 22.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9 ust. 4 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9 ust. 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 23.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 23.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 29 sierpnia 1997 r. o usługach turystycznych, ustawę z dnia 21 grudnia 2000 r. o dozorze technicznym, ustawę z dnia 18 stycznia 2001 r. o wyścigach konnych, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków, ustawę z dnia 6 lipca 2001 r. o usługach detektywistycznych, ustawę z dnia 18 lipca 2001 r. – Prawo wodne, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, ustawę z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt, ustawę z dnia 18 grudnia 2003 r. o ochronie roślin, ustawę z dnia 19 lutego 2004 r. o rybołówstwie, ustawę z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, ustawę z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz ustawę z dnia 8 marca 2013 r. o środkach ochrony roślin. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312, 486, 529 i 768. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 84, poz. 774, z 2004 r. Nr 173, poz. 1808, z 2006 r. Nr 249, poz. 1832, z 2009 r. Nr 201, poz. 1540 oraz z 2011 r. Nr 106, poz. 622. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47 i 457. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 147, poz. 1033, z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 47, poz. 278 i Nr 238, poz. 1578 oraz z 2012 r. poz. 951 i 1513. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513, z 2013 r. poz. 21 i 165 oraz z 2014 r. poz. 659. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544 oraz z 2013 r. poz. 1245. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 586 i Nr 227, poz. 1367, z 2012 r. poz. 1529 oraz z 2013 r. poz. 898. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 96, poz. 807, z 2006 r. Nr 220, poz. 1600, z 2007 r. Nr 21, poz. 125, z 2009 r. Nr 18, poz. 97, Nr 92, poz. 753 i Nr 168, poz. 1323 oraz z 2011 r. Nr 34, poz. 168 i Nr 106, poz. 622. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650.
 

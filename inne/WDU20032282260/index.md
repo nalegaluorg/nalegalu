@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-12-18 |
 | Data wydania | 2003-12-30 |
-| Wejście w życie | 2004-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032282260) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2260/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. Nr 140, poz. 938, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. Nr 140, poz. 938, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 160, poz. 1063, z 2000 r. Nr 53, poz. 648, Nr 62, poz. 718 i Nr 119, poz. 1252, z 2001 r. Nr 8, poz. 64, Nr 110, poz. 1189 i Nr 154, poz. 1784 i 1800, z 2002 r. Nr 126, poz. 1070 i Nr 141, poz. 1178 oraz z 2003 r. Nr 65, poz. 594, Nr 137, poz. 1303 i Nr 209, poz. 2035.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 w ust. 2 pkt 7 otrzymuje brzmienie: „
 - **7)** opracowywanie statystyki pieniężnej i bankowej, bilansu płatniczego oraz międzynarodowej pozycji inwestycyjnej, ” ;
@@ -82,9 +81,10 @@ source: "eli-html"
 
 2a. Członków Zarządu NBP powołuje i odwołuje Prezydent Rzeczypospolitej Polskiej na wniosek Prezesa NBP.
 
-2b. Członkowie Zarządu NBP są powoływani na okres 6 lat. Przepisy art. 9 ust. 2, art. 13 ust. 3 i ust. 5–7 stosuje się odpowiednio. ” , w ust. 4: – uchyla się pkt 1, – pkt 12 otrzymuje brzmienie: „ 12) sporządzanie rocznego sprawozdania finansowego NBP, ” ;
+2b. Członkowie Zarządu NBP są powoływani na okres 6 lat. Przepisy art. 9 ust. 2, art. 13 ust. 3 i ust. 5–7 stosuje się odpowiednio. ” , w ust. 4: – uchyla się pkt 1, pkt 12 otrzymuje brzmienie: „
 
 - **b)**
+- **12)** sporządzanie rocznego sprawozdania finansowego NBP, ” ;
 - **10)** w art. 22 dotychczasową treść oznacza się jako ust. 1 i dodaje ust. 2 w brzmieniu: „
 
 2. Prezes NBP i inni przedstawiciele organów NBP, o których mowa w art. 6, są obowiązani do przedstawienia informacji i udzielenia wyjaśnień dotyczących polityki pieniężnej i działalności NBP przed Sejmem i Senatem oraz ich komisjami. ” ;
@@ -127,7 +127,7 @@ source: "eli-html"
 
 - **1)** 80% środków pieniężnych z tytułu oprocentowania rezerwy obowiązkowej utrzymywanej w 2004 roku,
 - **2)** 60% środków pieniężnych z tytułu oprocentowania rezerwy obowiązkowej utrzymywanej w 2005 roku,
-- **3)** 50% środków pieniężnych z tytułu oprocentowania rezerwy obowiązkowej utrzymywanej w 2006 roku z przeznaczeniem na cele związane z prefinansowaniem oraz współfinansowaniem zadań realizowanych z udziałem środków pochodzących z funduszy pomocowych Unii Europejskiej. ” ;
+- **3)** 50% środków pieniężnych z tytułu oprocentowania rezerwy obowiązkowej utrzymywanej w 2006 roku – z przeznaczeniem na cele związane z prefinansowaniem oraz współfinansowaniem zadań realizowanych z udziałem środków pochodzących z funduszy pomocowych Unii Europejskiej. ” ;
 - **13)** art. 40 otrzymuje brzmienie: „
 
 **Art. 40.**
@@ -209,11 +209,11 @@ source: "eli-html"
 
 4. W terminie 14 dni od dnia zatwierdzenia rocznego sprawozdania finansowego NBP część rocznego zysku NBP (wpłata z zysku NBP) podlega odprowadzeniu do budżetu państwa. ” .
 
-**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.) w art. 105 w ust. 1 pkt 3 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074 oraz z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535 i Nr 65, poz. 594.) w art. 105 w ust. 1 pkt 3 otrzymuje brzmienie: „
 
 - **3)** Narodowemu Bankowi Polskiemu, w związku z wykonywaniem kontroli oraz zbieraniem danych niezbędnych do sporządzania bilansu płatniczego oraz międzynarodowej pozycji inwestycyjnej, a także innym bankom uprawnionym do pośredniczenia w dokonywaniu przez rezydentów przekazów pieniężnych za granicę oraz rozliczeń w kraju z nierezydentami, w zakresie określonym w ustawie z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. Nr 141, poz. 1178). ” .
 
-**Art. 3.** W ustawie z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. Nr 119, poz. 1252, z późn. zm.) w art. 2 pkt 2 otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. Nr 119, poz. 1252, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 111, poz. 1195, z 2002 r. Nr 141, poz. 1178 i Nr 216, poz. 1824 oraz z 2003 r. Nr 137, poz. 1303.) w art. 2 pkt 2 otrzymuje brzmienie: „
 
 - **2)** banku zrzeszającym – należy przez to rozumieć Gospodarczy Bank Wielkopolski Spółka Akcyjna w Poznaniu, Bank Polskiej Spółdzielczości Spółka Akcyjna w Warszawie, Mazowiecki Bank Regionalny Spółka Akcyjna w Warszawie, jak również bank powstały w wyniku połączenia się co najmniej dwóch z tych banków, pod warunkiem że zrzesza co najmniej jeden bank spółdzielczy na zasadach określonych w art. 16 i którego fundusze własne stanowią co najmniej czterokrotność kwoty określonej w art. 32 ust. 1 ustawy – Prawo bankowe, z zastrzeżeniem art. 28, ” .
 
@@ -237,5 +237,5 @@ source: "eli-html"
 
 **Art. 8.** Do czasu wydania przepisów wykonawczych na podstawie przepisów zmienianych niniejszą ustawą, zachowują moc dotychczasowe przepisy wykonawcze, o ile nie są z nią sprzeczne.
 
-**Art. 9.** Ustawa wchodzi w życie z dniem 1 stycznia 2004 r., z wyjątkiem art. 6 ust. 1, który wchodzi w życie z dniem 31 grudnia 2003 r.
+**Art. 9.** Ustawa wchodzi w życie z dniem 1 stycznia 2004 r., z wyjątkiem art. 6 ust. 1, który wchodzi w życie z dniem 31 grudnia 2003 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 160, poz. 1063, z 2000 r. Nr 53, poz. 648, Nr 62, poz. 718 i Nr 119, poz. 1252, z 2001 r. Nr 8, poz. 64, Nr 110, poz. 1189 i Nr 154, poz. 1784 i 1800, z 2002 r. Nr 126, poz. 1070 i Nr 141, poz. 1178 oraz z 2003 r. Nr 65, poz. 594, Nr 137, poz. 1303 i Nr 209, poz. 2035. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074 oraz z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535 i Nr 65, poz. 594. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 111, poz. 1195, z 2002 r. Nr 141, poz. 1178 i Nr 216, poz. 1824 oraz z 2003 r. Nr 137, poz. 1303.
 

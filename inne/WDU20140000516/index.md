@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 31 marca 2014 r. w sprawie warunków stosowania środków ochrony roślin
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 31 marca 2014 r. w sprawie warunków stosowania środków ochrony roślin Rozporządzenie wdraża częściowo postanowienia dyrektywy Parlamentu Europejskiego i Rady 2009/128/WE z dnia 21 października 2009 r. ustanawiającej ramy wspólnotowego działania na rzecz zrównoważonego stosowania pestycydów (Dz. Urz. UE L 309 z 24.11.2009, str. 71).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-03-31 |
 | Data wydania | 2014-04-23 |
-| Wejście w życie | 2014-05-08 |
 | Ostatnia zmiana | 2026-03-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000516) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/516/text.pdf) |
 
@@ -56,8 +55,7 @@ a)
 b)
 20 m od pasiek, przy kierunku wiatru innym niż określony w pkt 5,
 7)
-sprzętu agrolotniczego montowanego na statku powietrznym innym niż śmigłowiec w odległości co najmniej 20 m od pasiek, krawędzi jezdni dróg publicznych zaliczanych do kategorii dróg krajowych, zbiorników i cieków wodnych oraz terenów nieużytkowanych rolniczo, innych niż będących celem zabiegu z zastosowaniem środków ochrony roślin, przy kierunku wiatru innym niż określony w pkt 5
-chyba że w etykiecie środków ochrony roślin podano większe odległości od tych miejsc lub obiektów, po uwzględnieniu których można stosować te środki.
+sprzętu agrolotniczego montowanego na statku powietrznym innym niż śmigłowiec w odległości co najmniej 20 m od pasiek, krawędzi jezdni dróg publicznych zaliczanych do kategorii dróg krajowych, zbiorników i cieków wodnych oraz terenów nieużytkowanych rolniczo, innych niż będących celem zabiegu z zastosowaniem środków ochrony roślin, przy kierunku wiatru innym niż określony w pkt 5 – chyba że w etykiecie środków ochrony roślin podano większe odległości od tych miejsc lub obiektów, po uwzględnieniu których można stosować te środki.
 2.
 Odległości od zbiorników i cieków wodnych są mierzone w linii prostej od krawędzi koryta naturalnego cieku wodnego, kanału lub rowu lub górnej krawędzi misy zbiornika wodnego.
 § 3.
@@ -71,6 +69,5 @@ obszar, na którym stosuje się te środki, wynosi co najmniej 3 ha.
 § 5.
 Środki ochrony roślin, dla których zostało wydane zezwolenie na wprowadzanie do obrotu przed dniem 14 czerwca 2011 r. i których etykieta nie określa minimalnej odległości, w jakiej można je stosować od zbiorników i cieków wodnych, mogą być stosowane na terenie otwartym przy użyciu opryskiwaczy ciągnikowych i samobieżnych polowych lub sadowniczych, jeżeli miejsce ich stosowania jest oddalone o co najmniej 20 m od zbiorników i cieków wodnych.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-2) Rozporządzenie wdraża częściowo postanowienia dyrektywy Parlamentu Europejskiego i Rady 2009/128/WE z dnia 21 października 2009 r. ustanawiającej ramy wspólnotowego działania na rzecz zrównoważonego stosowania pestycydów (Dz. Urz. UE L 309 z 24.11.2009, str. 71).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Rozporządzenie wdraża częściowo postanowienia dyrektywy Parlamentu Europejskiego i Rady 2009/128/WE z dnia 21 października 2009 r. ustanawiającej ramy wspólnotowego działania na rzecz zrównoważonego stosowania pestycydów (Dz. Urz. UE L 309 z 24.11.2009, str. 71).
 

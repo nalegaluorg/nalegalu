@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 29 października 2021 r. w sprawie wystawiania faktur
+# Rozporządzenie Ministra Finansówz dnia 29 października 2021 r. w sprawie wystawiania faktur Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-29 |
 | Data wydania | 2021-10-29 |
-| Wejście w życie | 2021-11-02 |
 | Ostatnia zmiana | 2025-12-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001979) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1979/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Przypadki, w których faktury mogą zawierać zakres danych węższy niż określony w art. 106e ustawy, oraz zakres tych danych Rozdział 3 – Inny niż określony w art. 31a ust. 1 ustawy sposób przeliczania wykazywanych na fakturach kwot w walutach obcych, stosowanych do określenia podstawy opodatkowania Rozdział 4 – Późniejsze niż określone w art. 106i ustawy terminy wystawiania faktur Rozdział 5 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 106o-106q ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2021 r. poz. 685, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 106o-106q ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2021 r. poz. 685, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 694, 802, 1163, 1243, 1598 i 1626.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -43,6 +43,7 @@ Ilekroć w rozporządzeniu jest mowa o:
 podatku – rozumie się przez to podatek od towarów i usług;
 2)
 podatniku – rozumie się przez to podatnika podatku od towarów i usług.
+Przypadki, w których faktury mogą zawierać zakres danych węższy niż określony w art. 106e ustawy, oraz zakres tych danych
 § 3.
 Faktura dokumentująca:
 1)
@@ -62,7 +63,7 @@ cenę jednostkową towaru lub usługi,
 g)
 kwotę należności ogółem,
 h)
-wskazanie przepisu ustawy, aktu wydanego na podstawie ustawy, przepisu dyrektywy 2006/112/WE Rady z dnia 28 listopada 2006 r. w sprawie wspólnego systemu podatku od wartości dodanej (Dz. Urz. UE L 347 z 11.12.2006, str. 1, z późn. zm.) lub innej podstawy prawnej, zgodnie z którą podatnik stosuje zwolnienie od podatku;
+wskazanie przepisu ustawy, aktu wydanego na podstawie ustawy, przepisu dyrektywy 2006/112/WE Rady z dnia 28 listopada 2006 r. w sprawie wspólnego systemu podatku od wartości dodanej (Dz. Urz. UE L 347 z 11.12.2006, str. 1, z późn. zm.)Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 384 z 29.12.2006, str. 92, Dz. Urz. UE L 335 z 20.12.2007, str. 60, Dz. Urz. UE L 346 z 29.12.2007, str. 13, Dz. Urz. UE L 44 z 20.02.2008, str. 11, Dz. Urz. UE L 14 z 20.01.2009, str. 7, Dz. Urz. UE L 116 z 09.05.2009, str. 18, Dz. Urz. UE L 175 z 04.07.2009, str. 12, Dz. Urz. UE L 10 z 15.01.2010, str. 14, Dz. Urz. UE L 72 z 20.03.2010, str. 1, Dz. Urz. UE L 189 z 22.07.2010, str. 1, Dz. Urz. UE L 326 z 10.12.2010, str. 1, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 201 z 26.07.2013, str. 1 i 4, Dz. Urz. UE L 353 z 28.12.2013, str. 5, Dz. Urz. UE L 142 z 31.05.2016, str. 12, Dz. Urz. UE L 177 z 01.07.2016, str. 9, Dz. Urz. UE L 348 z 29.12.2017, str. 7, Dz. Urz. UE L 162 z 27.06.2018, str. 1, Dz. Urz. UE L 282 z 12.11.2018, str. 5, Dz. Urz. UE L 286 z 14.11.2018, str. 20, Dz. Urz. UE L 311 z 07.12.2018, str. 3, Dz. Urz. UE L 329 z 27.12.2018, str. 3 i 53, Dz. Urz. UE L 20 z 23.01.2019, str. 43, Dz. Urz. UE L 83 z 25.03.2019, str. 42, Dz. Urz. UE L 310 z 02.12.2019, str. 1, Dz. Urz. UE L 336 z 30.12.2019, str. 10, Dz. Urz. UE L 62 z 02.03.2020, str. 7 i 13, Dz. Urz. UE L 396 z 25.11.2020, str. 1, Dz. Urz. UE L 419 z 11.12.2020, str. 1 oraz Dz. Urz. UE L 250 z 15.07.2021, str. 1. lub innej podstawy prawnej, zgodnie z którą podatnik stosuje zwolnienie od podatku;
 2)
 świadczenie usług zwolnionych od podatku na podstawie art. 43 ust. 1 pkt 7, 37–41 ustawy powinna zawierać:
 a)
@@ -97,23 +98,35 @@ b)
 określenie nabywcy usług,
 c)
 informację, jakiego okresu rozliczeniowego dotyczy.
+Inny niż określony w art. 31a ust. 1 ustawy sposób przeliczania wykazywanych na fakturach kwot w walutach obcych, stosowanych do określenia podstawy opodatkowania
 § 4.
 Kwoty wyrażone w euro wykazywane na fakturze dokumentującej świadczenie usług w zakresie kontroli i nadzoru ruchu lotniczego, za które pobierane są opłaty trasowe, wystawianej przez Centralne Biuro Opłat Trasowych (CRCO) Europejskiej Organizacji do Spraw Bezpieczeństwa Żeglugi Powietrznej (EUROCONTROL) w imieniu Polskiej Agencji Żeglugi Powietrznej, przelicza się na złote według średniego miesięcznego krzyżowego kursu zamknięcia obliczonego przez Grupę Reutera na podstawie dziennego kursu kupna euro z miesiąca poprzedzającego miesiąc, w którym wykonano usługę.
 § 5.
 Kwoty wykazywane na fakturach dokumentujących usługi wstępu na imprezy masowe w rozumieniu ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2019 r. poz. 2171) wyrażone w walucie obcej przelicza się na złote zgodnie z przepisami celnymi stosowanymi na potrzeby obliczania wartości celnej importowanych towarów.
+Późniejsze niż określone w art. 106i ustawy terminy wystawiania faktur
 § 6.
 W przypadku usług w zakresie kontroli i nadzoru ruchu lotniczego, za które pobierane są opłaty trasowe, fakturę, o której mowa w § 3 pkt 5, wystawia się nie później niż 28. dnia miesiąca następującego po miesiącu, w którym wykonano tę usługę.
+Przepis końcowy
 § 7.
-Rozporządzenie wchodzi w życie z dniem 2 listopada 2021 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 694, 802, 1163, 1243, 1598 i 1626. 3) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 384 z 29.12.2006, str. 92, Dz. Urz. UE L 335 z 20.12.2007, str. 60, Dz. Urz. UE L 346 z 29.12.2007, str. 13, Dz. Urz. UE L 44 z 20.02.2008, str. 11, Dz. Urz. UE L 14 z 20.01.2009, str. 7, Dz. Urz. UE L 116 z 09.05.2009, str. 18, Dz. Urz. UE L 175 z 04.07.2009, str. 12, Dz. Urz. UE L 10 z 15.01.2010, str. 14, Dz. Urz. UE L 72 z 20.03.2010, str. 1, Dz. Urz. UE L 189 z 22.07.2010, str. 1, Dz. Urz. UE L 326 z 10.12.2010, str. 1, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 201 z 26.07.2013, str. 1 i 4, Dz. Urz. UE L 353 z 28.12.2013, str. 5, Dz. Urz. UE L 142 z 31.05.2016, str. 12, Dz. Urz. UE L 177 z 01.07.2016, str. 9, Dz. Urz. UE L 348 z 29.12.2017, str. 7, Dz. Urz. UE L 162 z 27.06.2018, str. 1, Dz. Urz. UE L 282 z 12.11.2018, str. 5, Dz. Urz. UE L 286 z 14.11.2018, str. 20, Dz. Urz. UE L 311 z 07.12.2018, str. 3, Dz. Urz. UE L 329 z 27.12.2018, str. 3 i 53, Dz. Urz. UE L 20 z 23.01.2019, str. 43, Dz. Urz. UE L 83 z 25.03.2019, str. 42, Dz. Urz. UE L 310 z 02.12.2019, str. 1, Dz. Urz. UE L 336 z 30.12.2019, str. 10, Dz. Urz. UE L 62 z 02.03.2020, str. 7 i 13, Dz. Urz. UE L 396 z 25.11.2020, str. 1, Dz. Urz. UE L 419 z 11.12.2020, str. 1 oraz Dz. Urz. UE L 250 z 15.07.2021, str. 1. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 3 grudnia 2013 r. w sprawie wystawiania faktur (Dz. U. poz. 1485 oraz z 2021 r. poz. 1105), które utraciło moc na podstawie art. 16 ustawy z dnia 9 sierpnia 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1751 i 2200 oraz z 2020 r. poz. 568).
+Rozporządzenie wchodzi w życie z dniem 2 listopada 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 3 grudnia 2013 r. w sprawie wystawiania faktur (Dz. U. poz. 1485 oraz z 2021 r. poz. 1105), które utraciło moc na podstawie art. 16 ustawy z dnia 9 sierpnia 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1751 i 2200 oraz z 2020 r. poz. 568). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 694, 802, 1163, 1243, 1598 i 1626. 3) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 384 z 29.12.2006, str. 92, Dz. Urz. UE L 335 z 20.12.2007, str. 60, Dz. Urz. UE L 346 z 29.12.2007, str. 13, Dz. Urz. UE L 44 z 20.02.2008, str. 11, Dz. Urz. UE L 14 z 20.01.2009, str. 7, Dz. Urz. UE L 116 z 09.05.2009, str. 18, Dz. Urz. UE L 175 z 04.07.2009, str. 12, Dz. Urz. UE L 10 z 15.01.2010, str. 14, Dz. Urz. UE L 72 z 20.03.2010, str. 1, Dz. Urz. UE L 189 z 22.07.2010, str. 1, Dz. Urz. UE L 326 z 10.12.2010, str. 1, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 201 z 26.07.2013, str. 1 i 4, Dz. Urz. UE L 353 z 28.12.2013, str. 5, Dz. Urz. UE L 142 z 31.05.2016, str. 12, Dz. Urz. UE L 177 z 01.07.2016, str. 9, Dz. Urz. UE L 348 z 29.12.2017, str. 7, Dz. Urz. UE L 162 z 27.06.2018, str. 1, Dz. Urz. UE L 282 z 12.11.2018, str. 5, Dz. Urz. UE L 286 z 14.11.2018, str. 20, Dz. Urz. UE L 311 z 07.12.2018, str. 3, Dz. Urz. UE L 329 z 27.12.2018, str. 3 i 53, Dz. Urz. UE L 20 z 23.01.2019, str. 43, Dz. Urz. UE L 83 z 25.03.2019, str. 42, Dz. Urz. UE L 310 z 02.12.2019, str. 1, Dz. Urz. UE L 336 z 30.12.2019, str. 10, Dz. Urz. UE L 62 z 02.03.2020, str. 7 i 13, Dz. Urz. UE L 396 z 25.11.2020, str. 1, Dz. Urz. UE L 419 z 11.12.2020, str. 1 oraz Dz. Urz. UE L 250 z 15.07.2021, str. 1. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 3 grudnia 2013 r. w sprawie wystawiania faktur (Dz. U. poz. 1485 oraz z 2021 r. poz. 1105), które utraciło moc na podstawie art. 16 ustawy z dnia 9 sierpnia 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1751 i 2200 oraz z 2020 r. poz. 568).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Przypadki, w których faktury mogą zawierać zakres danych węższy niż określony w art. 106e ustawy, oraz zakres tych danych
+#### Rozdział 2 – Przypadki, w których faktury mogą zawierać zakres danych węższy niż określony w art. 106e ustawy, oraz zakres tych danych
 
-#### Rozdział 3 Inny niż określony w art. 31a ust. 1 ustawy sposób przeliczania wykazywanych na fakturach kwot w walutach obcych, stosowanych do określenia podstawy opodatkowania
+#### Rozdział 3 – Inny niż określony w art. 31a ust. 1 ustawy sposób przeliczania wykazywanych na fakturach kwot w walutach obcych, stosowanych do określenia podstawy opodatkowania
 
-#### Rozdział 4 Późniejsze niż określone w art. 106i ustawy terminy wystawiania faktur
+#### Rozdział 4 – Późniejsze niż określone w art. 106i ustawy terminy wystawiania faktur
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

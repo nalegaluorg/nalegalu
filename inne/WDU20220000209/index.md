@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 stycznia 2022 r. o zmianie ustawy o transporcie drogowym, ustawy o czasie pracy kierowców oraz niektórych innych ustaw
+# Ustawa z dnia 26 stycznia 2022 r. o zmianie ustawy o transporcie drogowym, ustawy o czasie pracy kierowców oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1057 z dnia 15 lipca 2020 r. ustanawiającą przepisy szczególne w odniesieniu do dyrektywy 96/71/WE i dyrektywy 2014/67/UE dotyczące delegowania kierowców w sektorze transportu drogowego oraz zmieniającą dyrektywę 2006/22/WE w odniesieniu do wymogów w zakresie egzekwowania przepisów oraz rozporządzenie (UE) nr 1024/2012 (Dz. Urz. UE L 249 z 31.07.2020, str. 49).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-26 |
 | Data wydania | 2022-01-28 |
-| Wejście w życie | 2022-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000209) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/209/text.pdf) |
+
+Niniejsza ustawa służy stosowaniu:
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych oraz ustawę z dnia 5 lipca 2018 r. o tachografach.
 
 **Art. 1.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 180) wprowadza się następujące zmiany:
 
@@ -47,10 +49,12 @@ source: "eli-html"
 - **5)** w art. 5: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
-2. Zezwolenia na wykonywanie zawodu przewoźnika drogowego udziela się przedsiębiorcy, jeżeli spełnia wymagania określone w rozporządzeniu (WE) nr 1071/2009. ” , w ust. 2a: – pkt 4 otrzymuje brzmienie: „ 4) art. 54–61, art. 62 ust. 2, art. 62b ust. 2 i art. 66 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050 oraz z 2021 r. poz. 2469); ” , – w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „ 6) art. 54 § 1 i 2, art. 55 § 1 i 2, art. 60 § 1 i 2, art. 62 § 1–4, art. 65 § 1–2b, art. 67 § 1 i 2, art. 69a § 1, art. 69b § 1, art. 69c § 1, art. 73a, art. 76a § 1 i 2 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2021 r. poz. 408, 694, 2105 i 2427). ” , po ust. 2a dodaje się ust. 2b-2d w brzmieniu: „
+2. Zezwolenia na wykonywanie zawodu przewoźnika drogowego udziela się przedsiębiorcy, jeżeli spełnia wymagania określone w rozporządzeniu (WE) nr 1071/2009. ” , w ust. 2a: pkt 4 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **4)** art. 54–61, art. 62 ust. 2, art. 62b ust. 2 i art. 66 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050 oraz z 2021 r. poz. 2469); ” , w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
+- **6)** art. 54 § 1 i 2, art. 55 § 1 i 2, art. 60 § 1 i 2, art. 62 § 1–4, art. 65 § 1–2b, art. 67 § 1 i 2, art. 69a § 1, art. 69b § 1, art. 69c § 1, art. 73a, art. 76a § 1 i 2 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2021 r. poz. 408, 694, 2105 i 2427). ” , po ust. 2a dodaje się ust. 2b-2d w brzmieniu: „
+    - **c)**
 
 2b. W przypadku gdy do skazania doszło poza terytorium Rzeczypospolitej Polskiej, za przestępstwa w dziedzinach określonych w art. 6 ust. 1 lit. a rozporządzenia (WE) nr 1071/2009 w zakresie spełniania wymogu dobrej reputacji uznaje się przestępstwa odpowiadające znamionom przestępstw wymienionych w ust. 2a.
 
@@ -65,9 +69,14 @@ source: "eli-html"
     - **b)**
 
 - **2)** licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób samochodem osobowym, licencji na wykonywanie krajowego transportu drogowego pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu powyżej 7 i nie więcej niż 9 osób łącznie z kierowcą lub licencji na wykonywanie transportu drogowego w zakresie pośrednictwa przy przewozie rzeczy jest starosta właściwy dla siedziby przedsiębiorcy określonej w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym (KRS), a w przypadku przedsiębiorców będących osobami fizycznymi – adresu stałego miejsca wykonywania działalności gospodarczej określonego w Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG); ” ;
-- **7)** w art. 7a: w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) oznaczenie przedsiębiorcy, jego adres i siedzibę określoną w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym (KRS) albo w przypadku przedsiębiorców będących osobami fizycznymi – adres stałego miejsca wykonywania działalności gospodarczej określonego w Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG) oraz adresy lokali, o których mowa w art. 5 ust. 1 lit. a rozporządzenia (WE) nr 1071/2009; ” , – uchyla się pkt 2, w ust. 3: – uchyla się pkt 4, – w pkt 6 lit. a otrzymuje brzmienie: „ a) będącej członkiem organu zarządzającego osoby prawnej, osoby zarządzającej spółką jawną lub komandytową, dyrektora wykonawczego, o którym mowa w art. 30076 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, ” , – w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „ 8) oświadczenie osób, o których mowa w pkt 6, o nieskazaniu poza terytorium Rzeczypospolitej Polskiej za przestępstwa w dziedzinach określonych w art. 6 ust. 1 lit. a rozporządzenia (WE) nr 1071/2009 w zakresie spełniania wymogu dobrej reputacji, które znamionami odpowiadają przestępstwom wymienionym w art. 5 ust. 2a. ” , w ust. 4 po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **7)** w art. 7a: w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** oznaczenie przedsiębiorcy, jego adres i siedzibę określoną w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym (KRS) albo w przypadku przedsiębiorców będących osobami fizycznymi – adres stałego miejsca wykonywania działalności gospodarczej określonego w Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG) oraz adresy lokali, o których mowa w art. 5 ust. 1 lit. a rozporządzenia (WE) nr 1071/2009; ” , – uchyla się pkt 2, w ust. 3: – uchyla się pkt 4, w pkt 6 lit. a otrzymuje brzmienie: „ będącej członkiem organu zarządzającego osoby prawnej, osoby zarządzającej spółką jawną lub komandytową, dyrektora wykonawczego, o którym mowa w art. 30076 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, ” , w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
     - **b)**
+    - **a)**
+
+- **8)** oświadczenie osób, o których mowa w pkt 6, o nieskazaniu poza terytorium Rzeczypospolitej Polskiej za przestępstwa w dziedzinach określonych w art. 6 ust. 1 lit. a rozporządzenia (WE) nr 1071/2009 w zakresie spełniania wymogu dobrej reputacji, które znamionami odpowiadają przestępstwom wymienionym w art. 5 ust. 2a. ” , w ust. 4 po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **c)**
 
 - **2a)** wykaz pojazdów, o których mowa w ust. 7; ” , w ust. 6 wyrazy „ust. 3 pkt 3, 4 i 7” zastępuje się wyrazami „ust. 3 pkt 3, 7 i 8, ust. 7 pkt 7 oraz ust. 8 pkt 1”, w ust. 7 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 i 7 w brzmieniu: „
@@ -159,7 +168,7 @@ source: "eli-html"
 - **1)** szczegółowy zakres wiedzy, warunki, sposób przeprowadzania i minimalną liczbę godzin szkolenia, o którym mowa w ust. 4a pkt 1,
 - **2)** wzór zaświadczenia o ukończeniu szkolenia, o którym mowa w ust. 4a pkt 1,
 - **3)** wzór zaświadczenia o złożeniu z wynikiem pozytywnym egzaminu, o którym mowa w ust. 4a pkt 2,
-- **4)** maksymalną wysokość opłaty za przeprowadzenie szkolenia, o którym mowa w ust. 4a pkt 1 uwzględniając potrzebę osiągnięcia właściwego poziomu wiedzy niezbędnej do przywrócenia zarządzającemu transportem zdolności do kierowania operacjami transportowymi, wysokość rzeczywistych kosztów związanych z przeprowadzeniem szkolenia oraz konieczność ujednolicenia wydawanych zaświadczeń. ” ;
+- **4)** maksymalną wysokość opłaty za przeprowadzenie szkolenia, o którym mowa w ust. 4a pkt 1 – uwzględniając potrzebę osiągnięcia właściwego poziomu wiedzy niezbędnej do przywrócenia zarządzającemu transportem zdolności do kierowania operacjami transportowymi, wysokość rzeczywistych kosztów związanych z przeprowadzeniem szkolenia oraz konieczność ujednolicenia wydawanych zaświadczeń. ” ;
 - **17)** w art. 29a: po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **a)**
 
@@ -243,7 +252,7 @@ source: "eli-html"
 
 4. Jeżeli udzielenie informacji będących przedmiotem wniosku jest utrudnione lub niemożliwe, Główny Inspektor Transportu Drogowego informuje o tym wnioskujące państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym w terminie 10 dni roboczych od dnia otrzymania wniosku i przedstawia powody uzasadniające taką trudność lub brak możliwości udzielenia informacji.
 
-5. Informacje, o których mowa w art. 54 ust. 2 pkt 10a, są udostępniane za pośrednictwem systemu wymiany informacji na rynku wewnętrznym (IMI) ustanowionego rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1024/2012 z dnia 25 października 2012 r. w sprawie współpracy administracyjnej za pośrednictwem systemu wymiany informacji na rynku wewnętrznym i uchylającym decyzję Komisji 2008/49/WE („rozporządzenie w sprawie IMI”) (Dz. Urz. UE L 316 z 14.11.2012, str. 1, z późn. zm.), z wyjątkiem informacji przekazywanych na podstawie przepisów odrębnych za pośrednictwem Krajowego Rejestru Elektronicznego Przedsiębiorców Transportu Drogowego. ” ;
+5. Informacje, o których mowa w art. 54 ust. 2 pkt 10a, są udostępniane za pośrednictwem systemu wymiany informacji na rynku wewnętrznym (IMI) ustanowionego rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1024/2012 z dnia 25 października 2012 r. w sprawie współpracy administracyjnej za pośrednictwem systemu wymiany informacji na rynku wewnętrznym i uchylającym decyzję Komisji 2008/49/WE („rozporządzenie w sprawie IMI”) (Dz. Urz. UE L 316 z 14.11.2012, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 159 z 28.05.2014, str. 1 i 11, Dz. Urz. UE L 200 z 26.07.2016, str. 1, Dz. Urz. UE L 252 z 16.09.2016, str. 53, Dz. Urz. UE L 295 z 21.11.2018, str. 1 oraz Dz. Urz. UE L 231 z 06.09.2019, str. 29.), z wyjątkiem informacji przekazywanych na podstawie przepisów odrębnych za pośrednictwem Krajowego Rejestru Elektronicznego Przedsiębiorców Transportu Drogowego. ” ;
 
 - **27)** w art. 54b uchyla się ust. 4;
 - **28)** w art. 55 w ust. 1: pkt 3 otrzymuje brzmienie: „
@@ -252,7 +261,7 @@ source: "eli-html"
 - **3)** kontroli zainstalowanych lub znajdujących się w pojeździe urządzeń pomiarowo-kontrolnych i tachografu, w tym zdjęcia lub zerwania plomby tachografu do celów kontroli zgodnie z art. 22 ust. 5 rozporządzenia (UE) nr 165/2014; ” , w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
     - **b)**
 
-- **7)** żądania okazywania i badania dokumentów dotyczących głównej działalności przewoźnika drogowego, w tym: umów przewozowych, innych umów będących podstawą do wykonania przewozu drogowego, dokumentów dotyczących pojazdów, którymi dysponuje, dokumentów księgowych, aktów dotyczących pracowników, umów o pracę lub innych umów będących podstawą wykonywania przez kierowców przewozu na jego rzecz, dokumentów dotyczących zabezpieczenia społecznego, dokumentów zawierających dane na temat przydziału zadań dla kierowców i ich delegowania, dokumentów zawierających dane na temat kabotażu, dokumentów zawierających dane na temat czasu prowadzenia pojazdu i okresów odpoczynku kierowców, innych dokumentów, w celu weryfikacji spełnienia warunków przewidzianych w przepisach, o których mowa w art. 4 pkt 22, dokumentów zawierających informacje na temat organizowania przewozów w taki sposób, aby pojazdy, którymi dysponuje i które są wykorzystywane w przewozach międzynarodowych, wracały do bazy eksploatacyjnej nie później niż w terminie ośmiu tygodni od dnia opuszczenia państwa, w którym znajduje się jego siedziba. ” , w ust. 1a wyrazy „ust. 1 pkt 2, 5 i 6” zastępuje się wyrazami „ust. 1 pkt 2, 5–7”, w ust. 1c: – we wprowadzeniu do wyliczenia wyrazy „ust. 1 pkt 5 i 6 i ust. 1a” zastępuje się wyrazami „ust. 1 pkt 5–7 i ust. 1a”, – w pkt 1 w lit. g średnik zastępuje się przecinkiem i dodaje się lit. h w brzmieniu: „ h) podwykonawcy; ” , dodaje się ust. 3 w brzmieniu: „
+- **7)** żądania okazywania i badania dokumentów dotyczących głównej działalności przewoźnika drogowego, w tym: umów przewozowych, innych umów będących podstawą do wykonania przewozu drogowego, dokumentów dotyczących pojazdów, którymi dysponuje, dokumentów księgowych, aktów dotyczących pracowników, umów o pracę lub innych umów będących podstawą wykonywania przez kierowców przewozu na jego rzecz, dokumentów dotyczących zabezpieczenia społecznego, dokumentów zawierających dane na temat przydziału zadań dla kierowców i ich delegowania, dokumentów zawierających dane na temat kabotażu, dokumentów zawierających dane na temat czasu prowadzenia pojazdu i okresów odpoczynku kierowców, innych dokumentów, w celu weryfikacji spełnienia warunków przewidzianych w przepisach, o których mowa w art. 4 pkt 22, dokumentów zawierających informacje na temat organizowania przewozów w taki sposób, aby pojazdy, którymi dysponuje i które są wykorzystywane w przewozach międzynarodowych, wracały do bazy eksploatacyjnej nie później niż w terminie ośmiu tygodni od dnia opuszczenia państwa, w którym znajduje się jego siedziba. ” , w ust. 1a wyrazy „ust. 1 pkt 2, 5 i 6” zastępuje się wyrazami „ust. 1 pkt 2, 5–7”, w ust. 1c: – we wprowadzeniu do wyliczenia wyrazy „ust. 1 pkt 5 i 6 i ust. 1a” zastępuje się wyrazami „ust. 1 pkt 5–7 i ust. 1a”, w pkt 1 w lit. g średnik zastępuje się przecinkiem i dodaje się lit. h w brzmieniu: „ podwykonawcy; ” , dodaje się ust. 3 w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
@@ -264,6 +273,7 @@ source: "eli-html"
     - **i)**
     - **c)**
     - **d)**
+    - **h)**
     - **e)**
 
 3. Inspektor ma prawo do zatrzymywania pojazdów oraz podjęcia czynności kontrolnych w celu ustalenia, czy wykonywane są nimi przewozy drogowe objęte zakresem stosowania niniejszej ustawy. ” ;
@@ -308,8 +318,11 @@ source: "eli-html"
 
 3b. Organy, o których mowa w art. 7 ust. 2 pkt 2 i ust. 4 pkt 1 i 4, art. 18 ust. 1 pkt 1 lit. f-g oraz pkt 2 oraz art. 33 ust. 8 w zakresie zaświadczeń, o których mowa w art. 33 ust. 5, są obowiązane przedstawiać ministrowi właściwemu do spraw transportu, co najmniej dwa razy w roku, w terminach do dnia 31 stycznia oraz do dnia 31 lipca, informacje dotyczące liczby i zakresu ważnych zezwoleń na wykonywanie zawodu przewoźnika drogowego, licencji, zezwoleń i wydanych zaświadczeń na przewozy drogowe na potrzeby własne oraz liczby wypisów z tych dokumentów, a także liczby licencji na wykonywanie transportu drogowego w zakresie pośrednictwa przy przewozie osób. ” ;
 
-- **36)** w art. 87: w ust. 1: – w pkt 3 w lit. i średnik zastępuje się przecinkiem i dodaje się lit. j w brzmieniu: „ j) przy wykonywaniu przewozów kabotażowych dokumenty, o których mowa w art. 29a ust. 3 i 4; ” , – w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „ 7) podpisane przez funkcjonariusza lub pracownika organu przeprowadzającego kontrolę pisemne oświadczenie o zdjęciu lub zerwaniu plomby tachografu do celów kontroli, zgodnie z art. 22 ust. 5 rozporządzenia (UE) nr 165/2014 – jeżeli jest wymagane. ” , dodaje się ust. 6 w brzmieniu: „
+- **36)** w art. 87: w ust. 1: w pkt 3 w lit. i średnik zastępuje się przecinkiem i dodaje się lit. j w brzmieniu: „ przy wykonywaniu przewozów kabotażowych dokumenty, o których mowa w art. 29a ust. 3 i 4; ” , w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
     - **a)**
+    - **j)**
+
+- **7)** podpisane przez funkcjonariusza lub pracownika organu przeprowadzającego kontrolę pisemne oświadczenie o zdjęciu lub zerwaniu plomby tachografu do celów kontroli, zgodnie z art. 22 ust. 5 rozporządzenia (UE) nr 165/2014 – jeżeli jest wymagane. ” , dodaje się ust. 6 w brzmieniu: „
     - **b)**
 
 6. Podczas kontroli drogowej kierowca może kontaktować się z siedzibą przedsiębiorcy, na rzecz którego wykonuje przewóz, jego zarządzającym transportem lub inną osobą lub podmiotem, aby przed zakończeniem kontroli drogowej przedstawić wszelkie dowody, których obecności nie stwierdzono w pojeździe; pozostaje to bez uszczerbku dla obowiązków kierowcy dotyczących zapewnienia właściwego stosowania tachografu i obowiązku posiadania w pojeździe dokumentów, o których mowa w ust. 1, 2 i 4. ” ;
@@ -334,20 +347,62 @@ source: "eli-html"
 - **8)** podwykonawcy ” , część wspólna otrzymuje brzmienie: „ – jeżeli wiedzieli oni lub, w świetle wszystkich istotnych okoliczności, powinni byli wiedzieć, że zlecone przez nich usługi transportowe wiążą się z powstaniem naruszenia. ” ;
     - **b)**
 
-- **40)** w załączniku nr 1: lp. 1 otrzymuje brzmienie: 1. Nieokazanie: 1.1. wypisu z zezwolenia na wykonywanie zawodu przewoźnika drogowego 200 1.2. wypisu z licencji 200 10.2 BPN11.2 BPN 1.3. świadectwa kierowcy 150 10.4 PN 1.4. zapisów odręcznych i wydruków za dni podlegające kontroli, karty kierowcy, jeżeli kierowca posiada taką kartę 200 2.22 BPN2.23 BPN2.24 BPN 1.4a. 1 wykresówki za dzień podlegający kontroli 500 2.21 BPN 1.4b. od 2 do 15 wykresówek za dni podlegające kontroli 1000 2.21 BPN 1.4c. powyżej 15 wykresówek za dni podlegające kontroli 1500 2.21 BPN 1.5. zezwolenia na wykonywanie regularnych przewozów osób w międzynarodowym transporcie drogowym lub zezwolenia na wykonywanie regularnych specjalnych przewozów osób w międzynarodowym transporcie drogowym lub wypisów z tych zezwoleń 150 11.4 PN 1.6. dokumentów wymaganych przy przewozie zwierząt określonych w przepisach rozporządzenia Rady (WE) nr 1/20053) 150 12.5 PN 1.7. innego wymaganego w związku z wykonywanym przewozem drogowym dokumentu, o którym mowa w art. 87 ustawy o transporcie drogowym1) 200 w lp. 5 dodaje się pkt 5.7 w brzmieniu: 5.7. Wykorzystywanie w pojeździe lub w miejscu zakwaterowania niewyposażonym w odpowiednią infrastrukturę noclegową i sanitarną regularnego tygodniowego okresu odpoczynku lub dowolnego tygodniowego okresu odpoczynku trwającego ponad 45 godzin wykorzystywanego jako rekompensata za skrócone tygodniowe okresy odpoczynku 50 w lp. 7 pkt 7.12 otrzymuje brzmienie: 7.12. Okazanie podczas kontroli wykresówki, wydruku z tachografu lub karty kierowcy, które nie zawierają wprowadzonych ręcznie bądź automatycznie wszystkich wymaganych danych dotyczących okresów aktywności kierowcy lub symbolu państwa miejsca rozpoczęcia lub zakończenia dziennego okresu pracy lub symbolu państwa, którego granicę kierowca przekroczył – za każdy dzień podlegający kontroli 100 2.23 BPN
+- **40)** w załączniku nr 1: lp. 1 otrzymuje brzmienie:
     - **a)**
-    - **b)**
-    - **c)**
 
-- **41)** w załączniku nr 3: w lp. 1: – pkt 1.1 otrzymuje brzmienie: 1.1. Wykonywanie transportu drogowego bez wymaganego zezwolenia na wykonywanie zawodu przewoźnika drogowego lub bez wymaganej licencji innej niż licencja wspólnotowa 12 000 – po pkt 1.1 dodaje się pkt 1.1a w brzmieniu: 1.1a. Wykonywanie transportu drogowego bez wymaganej licencji wspólnotowej 12 000 10.1 NN11.1 NN – po pkt 1.7 dodaje się pkt 1.7a w brzmieniu: 1.7a. Niedokumentowanie, nieprzechowywanie w lokalu przedsiębiorstwa lub nieokazanie do kontroli dokumentów potwierdzających spełnienie obowiązku, o którym mowa w art. 8 ust. 8a rozporządzenia (WE) nr 561/20065) – za każdego kierowcę 150 – pkt 1.8 otrzymuje brzmienie: 1.8. Uzależnienie wynagrodzenia kierowcy od liczby przejechanych kilometrów, szybkości dostawy lub ilości przewiezionego ładunku, jeżeli ich stosowanie mogłoby zagrażać bezpieczeństwu na drogach lub zachęcać do naruszenia przepisów rozporządzenia (WE) nr 561/20065) – za każdego kierowcę 8000 1.32 BPN – dodaje się pkt 1.17 i 1.18 w brzmieniu: 1.17. Naruszenie wymogu dotyczącego posiadania dokumentów, o których mowa w art. 5 ust. 1 lit. a rozporządzenia (WE) nr 1071/20094), z zastrzeżeniem art. 7b ust. 4 ustawy o transporcie drogowym1) 3000 1.18. Naruszenie wymogu dotyczącego posiadania siedziby w zakresie organizacji przewozów flotą pojazdów w sposób, o którym mowa w art. 5 ust. 1 lit. b rozporządzenia (WE) nr 1071/20094) 2000 w lp. 2 dodaje się pkt 2.23 w brzmieniu: 2.23. Rozliczanie opłaty za przewóz osób na podstawie aplikacji mobilnej, o której mowa w art. 13b ust. 1 ustawy o transporcie drogowym1), niespełniającej wymagań dla kas rejestrujących mających postać oprogramowania 12 000 w lp. 5: – po pkt 5.10 dodaje się pkt 5.10a w brzmieniu: 5.10a. Dopuszczenie do wykorzystywania przez kierowcę w pojeździe lub w miejscu zakwaterowania niewyposażonym w odpowiednią infrastrukturę noclegową i sanitarną regularnego tygodniowego okresu odpoczynku lub dowolnego tygodniowego okresu odpoczynku trwającego ponad 45 godzin wykorzystywanego jako rekompensata za skrócone tygodniowe okresy odpoczynku 50 – pkt 5.12 otrzymuje brzmienie: 5.12. Przekroczenie dopuszczalnego dobowego 10-godzinnego czasu pracy, jeżeli praca jest wykonywana w porze nocnej: 1) o czas do 1 godziny 50 2) o czas od 1 godziny do mniej niż 3 godzin 100 3.9 PN 3) za każdą rozpoczętą godzinę od 3 godzin 200 3.10 BPN w lp. 10 dodaje się pkt 10.5 w brzmieniu: 10.5. Dopuszczenie do wykonywania międzynarodowego przewozu drogowego pojazdem lub zespołem pojazdów o dopuszczalnej masie całkowitej powyżej 2,5 t do 3,5 t, których dopuszczalna masa całkowita została przekroczona: 1) mniej niż 5% 500 2) co najmniej 5% i mniej niż 10% 1000 3) co najmniej 10% i mniej niż 20% 1500 4) co najmniej 20% 2000
-    - **a)**
-    - **b)**
-    - **c)**
-    - **d)**
+1. Nieokazanie: 1.1. wypisu z zezwolenia na wykonywanie zawodu przewoźnika drogowego 200 1.2. wypisu z licencji 200 10.2 BPN
 
-- **42)** w załączniku nr 4: po lp. 14 dodaje się lp. 14a w brzmieniu: 14a. Organizacja pracy uniemożliwiająca wykorzystanie przez kierowcę regularnego tygodniowego okresu odpoczynku lub dowolnego tygodniowego okresu odpoczynku trwającego ponad 45 godzin wykorzystywanego jako rekompensata za skrócone tygodniowe okresy odpoczynku w miejscu zakwaterowania wyposażonym w odpowiednią infrastrukturę noclegową i sanitarną 50 dodaje się lp. 20 w brzmieniu: 20. Niedokumentowanie, nieprzechowywanie w lokalu przedsiębiorstwa lub nieokazanie do kontroli dokumentów potwierdzających spełnienie obowiązku, o którym mowa w art. 8 ust. 8a rozporządzenia (WE) nr 561/20064) – za każdego kierowcę 50
+11. 2 BPN 1.3. świadectwa kierowcy 150 10.4 PN 1.4. zapisów odręcznych i wydruków za dni podlegające kontroli, karty kierowcy, jeżeli kierowca posiada taką kartę 200 2.22 BPN
+
+2. 23 BPN
+
+2. 24 BPN 1.4a. 1 wykresówki za dzień podlegający kontroli 500 2.21 BPN 1.4b. od 2 do 15 wykresówek za dni podlegające kontroli 1000 2.21 BPN 1.4c. powyżej 15 wykresówek za dni podlegające kontroli 1500 2.21 BPN 1.5. zezwolenia na wykonywanie regularnych przewozów osób w międzynarodowym transporcie drogowym lub zezwolenia na wykonywanie regularnych specjalnych przewozów osób w międzynarodowym transporcie drogowym lub wypisów z tych zezwoleń 150 11.4 PN 1.6. dokumentów wymaganych przy przewozie zwierząt określonych w przepisach rozporządzenia Rady (WE) nr 1/20053) 150 12.5 PN 1.7. innego wymaganego w związku z wykonywanym przewozem drogowym dokumentu, o którym mowa w art. 87 ustawy o transporcie drogowym1) 200 w lp. 5 dodaje się pkt 5.7 w brzmieniu:
+
+- **b)**
+
+5. 7. Wykorzystywanie w pojeździe lub w miejscu zakwaterowania niewyposażonym w odpowiednią infrastrukturę noclegową i sanitarną regularnego tygodniowego okresu odpoczynku lub dowolnego tygodniowego okresu odpoczynku trwającego ponad 45 godzin wykorzystywanego jako rekompensata za skrócone tygodniowe okresy odpoczynku 50 w lp. 7 pkt 7.12 otrzymuje brzmienie:
+
+- **c)**
+
+7. 12. Okazanie podczas kontroli wykresówki, wydruku z tachografu lub karty kierowcy, które nie zawierają wprowadzonych ręcznie bądź automatycznie wszystkich wymaganych danych dotyczących okresów aktywności kierowcy lub symbolu państwa miejsca rozpoczęcia lub zakończenia dziennego okresu pracy lub symbolu państwa, którego granicę kierowca przekroczył – za każdy dzień podlegający kontroli 100 2.23 BPN
+
+- **41)** w załączniku nr 3: w lp. 1: pkt 1.1 otrzymuje brzmienie:
     - **a)**
-    - **b)**
+
+1. 1. Wykonywanie transportu drogowego bez wymaganego zezwolenia na wykonywanie zawodu przewoźnika drogowego lub bez wymaganej licencji innej niż licencja wspólnotowa 12 000 po pkt 1.1 dodaje się pkt 1.1a w brzmieniu:
+
+1. 1a. Wykonywanie transportu drogowego bez wymaganej licencji wspólnotowej 12 000 10.1 NN
+
+11. 1 NN po pkt 1.7 dodaje się pkt 1.7a w brzmieniu:
+
+1. 7a. Niedokumentowanie, nieprzechowywanie w lokalu przedsiębiorstwa lub nieokazanie do kontroli dokumentów potwierdzających spełnienie obowiązku, o którym mowa w art. 8 ust. 8a rozporządzenia (WE) nr 561/20065) – za każdego kierowcę 150 pkt 1.8 otrzymuje brzmienie:
+
+1. 8. Uzależnienie wynagrodzenia kierowcy od liczby przejechanych kilometrów, szybkości dostawy lub ilości przewiezionego ładunku, jeżeli ich stosowanie mogłoby zagrażać bezpieczeństwu na drogach lub zachęcać do naruszenia przepisów rozporządzenia (WE) nr 561/20065) – za każdego kierowcę 8000 1.32 BPN dodaje się pkt 1.17 i 1.18 w brzmieniu:
+
+1. 17. Naruszenie wymogu dotyczącego posiadania dokumentów, o których mowa w art. 5 ust. 1 lit. a rozporządzenia (WE) nr 1071/20094), z zastrzeżeniem art. 7b ust. 4 ustawy o transporcie drogowym1) 3000 1.18. Naruszenie wymogu dotyczącego posiadania siedziby w zakresie organizacji przewozów flotą pojazdów w sposób, o którym mowa w art. 5 ust. 1 lit. b rozporządzenia (WE) nr 1071/20094) 2000 w lp. 2 dodaje się pkt 2.23 w brzmieniu:
+
+- **b)**
+
+2. 23. Rozliczanie opłaty za przewóz osób na podstawie aplikacji mobilnej, o której mowa w art. 13b ust. 1 ustawy o transporcie drogowym1), niespełniającej wymagań dla kas rejestrujących mających postać oprogramowania 12 000 w lp. 5: po pkt 5.10 dodaje się pkt 5.10a w brzmieniu:
+
+- **c)**
+
+5. 10a. Dopuszczenie do wykorzystywania przez kierowcę w pojeździe lub w miejscu zakwaterowania niewyposażonym w odpowiednią infrastrukturę noclegową i sanitarną regularnego tygodniowego okresu odpoczynku lub dowolnego tygodniowego okresu odpoczynku trwającego ponad 45 godzin wykorzystywanego jako rekompensata za skrócone tygodniowe okresy odpoczynku 50 pkt 5.12 otrzymuje brzmienie:
+
+5. 12. Przekroczenie dopuszczalnego dobowego 10-godzinnego czasu pracy, jeżeli praca jest wykonywana w porze nocnej: 1) o czas do 1 godziny 50 2) o czas od 1 godziny do mniej niż 3 godzin 100 3.9 PN 3) za każdą rozpoczętą godzinę od 3 godzin 200 3.10 BPN w lp. 10 dodaje się pkt 10.5 w brzmieniu:
+
+- **d)**
+
+10. 5. Dopuszczenie do wykonywania międzynarodowego przewozu drogowego pojazdem lub zespołem pojazdów o dopuszczalnej masie całkowitej powyżej 2,5 t do 3,5 t, których dopuszczalna masa całkowita została przekroczona: 1) mniej niż 5% 500 2) co najmniej 5% i mniej niż 10% 1000 3) co najmniej 10% i mniej niż 20% 1500 4) co najmniej 20% 2000
+
+- **42)** w załączniku nr 4: po lp. 14 dodaje się lp. 14a w brzmieniu:
+    - **a)**
+
+14a. Organizacja pracy uniemożliwiająca wykorzystanie przez kierowcę regularnego tygodniowego okresu odpoczynku lub dowolnego tygodniowego okresu odpoczynku trwającego ponad 45 godzin wykorzystywanego jako rekompensata za skrócone tygodniowe okresy odpoczynku w miejscu zakwaterowania wyposażonym w odpowiednią infrastrukturę noclegową i sanitarną 50 dodaje się lp. 20 w brzmieniu:
+
+- **b)**
+
+20. Niedokumentowanie, nieprzechowywanie w lokalu przedsiębiorstwa lub nieokazanie do kontroli dokumentów potwierdzających spełnienie obowiązku, o którym mowa w art. 8 ust. 8a rozporządzenia (WE) nr 561/20064) – za każdego kierowcę 50
 
 **Art. 2.** W ustawie z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. z 2019 r. poz. 1412) wprowadza się następujące zmiany:
 
@@ -366,8 +421,8 @@ source: "eli-html"
 
 2. Do kierowcy, o którym mowa w ust. 1, stosuje się w zakresie ustalania podstawy wymiaru:
 
-- **1)** podatku dochodowego od osób fizycznych – przepisy dotyczące osób zatrudnionych w kraju i przebywających czasowo za granicą, o których mowa w art. 21 ust. 1 pkt 20 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.);
-- **2)** składek na ubezpieczenie emerytalne i rentowe – przepisy wydane na podstawie art. 21 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2021 r. poz. 423, z późn. zm.) dotyczące pracowników zatrudnionych za granicą u polskich pracodawców. ” ;
+- **1)** podatku dochodowego od osób fizycznych – przepisy dotyczące osób zatrudnionych w kraju i przebywających czasowo za granicą, o których mowa w art. 21 ust. 1 pkt 20 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64 i 138.);
+- **2)** składek na ubezpieczenie emerytalne i rentowe – przepisy wydane na podstawie art. 21 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2021 r. poz. 423, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 432, 619, 1621, 1834, 1981 i 2105.) dotyczące pracowników zatrudnionych za granicą u polskich pracodawców. ” ;
 - **4)** art. 22 otrzymuje brzmienie: „
 
 **Art. 22.** Przepisy art. 12 ust. 2 i 3, art. 13, art. 21 oraz art. 24 pkt 2 nie mają zastosowania do kierowców prowadzących pojazdy wymienione w art. 29 ustawy, w art. 3 rozporządzenia (WE) nr 561/2006 oraz w art. 2 ust. 2 Umowy AETR. ” ;
@@ -475,7 +530,7 @@ source: "eli-html"
 
 **Art. 11.** W przypadku gdy przewoźnik drogowy dokonał zgłoszenia pojazdu do licencji wspólnotowej przed dniem wejścia w życie niniejszej ustawy, a pojazd taki nie został zgłoszony do zezwolenia na wykonywanie zawodu przewoźnika drogowego, przewoźnik ma obowiązek zgłoszenia takiego pojazdu do tego zezwolenia w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 12.** Do czasu zakończenia negocjacji, o których mowa w art. 14 dyrektywy 2006/22/WE Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. w sprawie minimalnych warunków wykonania rozporządzeń (WE) nr 561/2006 i (UE) nr 165/2014 oraz dyrektywy 2002/15/WE w odniesieniu do przepisów socjalnych dotyczących działalności w transporcie drogowym oraz uchylającej dyrektywę Rady 88/599/EWG (Dz. Urz. UE L 102 z 11.04.2006, str. 35, z późn. zm.), Główny Inspektor Transportu Drogowego włącza dane dotyczące kontroli pojazdów z państw trzecich do informacji przekazywanych Komisji Europejskiej, zgodnie z art. 90a ust. 1 pkt 2 ustawy zmienianej w art. 1.
+**Art. 12.** Do czasu zakończenia negocjacji, o których mowa w art. 14 dyrektywy 2006/22/WE Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. w sprawie minimalnych warunków wykonania rozporządzeń (WE) nr 561/2006 i (UE) nr 165/2014 oraz dyrektywy 2002/15/WE w odniesieniu do przepisów socjalnych dotyczących działalności w transporcie drogowym oraz uchylającej dyrektywę Rady 88/599/EWG (Dz. Urz. UE L 102 z 11.04.2006, str. 35, z późn. zm.Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 21 z 24.01.2009, str. 39, Dz. Urz. UE L 29 z 31.01.2009, str. 45, Dz. Urz. UE L 256 z 29.09.2009, str. 38 oraz Dz. Urz. UE L 74 z 19.03.2016, str. 8.), Główny Inspektor Transportu Drogowego włącza dane dotyczące kontroli pojazdów z państw trzecich do informacji przekazywanych Komisji Europejskiej, zgodnie z art. 90a ust. 1 pkt 2 ustawy zmienianej w art. 1.
 
 **Art. 13.**
 
@@ -547,6 +602,8 @@ source: "eli-html"
 - **2)** art. 1 pkt 19 i art. 16, które wchodzą w życie po upływie 7 dni od dnia ogłoszenia;
 - **3)** art. 2 pkt 1–3, które wchodzą w życie z dniem 2 lutego 2022 r.;
 - **4)** art. 2 pkt 5, który wchodzi w życie po upływie 4 miesięcy od dnia ogłoszenia;
-- **5)** art. 1 pkt 32 w zakresie art. 82h ust. 1 pkt 21, który wchodzi w życie po upływie 14 miesięcy od dnia wejścia w życie aktu wykonawczego dotyczącego wspólnego wzoru służącego obliczeniu stopnia ryzyka przedsiębiorstwa, o którym mowa w art. 9 ust. 1 dyrektywy 2006/22/WE Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. w sprawie minimalnych warunków wykonania rozporządzeń (WE) nr 561/2006 i (UE) nr 165/2014 oraz dyrektywy 2002/15/WE w odniesieniu do przepisów socjalnych dotyczących działalności w transporcie drogowym oraz uchylającej dyrektywę Rady 88/599/EWG.
+- **5)** art. 1 pkt 32 w zakresie art. 82h ust. 1 pkt 21, który wchodzi w życie po upływie 14 miesięcy od dnia wejścia w życie aktu wykonawczego dotyczącego wspólnego wzoru służącego obliczeniu stopnia ryzyka przedsiębiorstwa, o którym mowa w art. 9 ust. 1 dyrektywy 2006/22/WE Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. w sprawie minimalnych warunków wykonania rozporządzeń (WE) nr 561/2006 i (UE) nr 165/2014 oraz dyrektywy 2002/15/WE w odniesieniu do przepisów socjalnych dotyczących działalności w transporcie drogowym oraz uchylającej dyrektywę Rady 88/599/EWG. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1057 z dnia 15 lipca 2020 r. ustanawiającą przepisy szczególne w odniesieniu do dyrektywy 96/71/WE i dyrektywy 2014/67/UE dotyczące delegowania kierowców w sektorze transportu drogowego oraz zmieniającą dyrektywę 2006/22/WE w odniesieniu do wymogów w zakresie egzekwowania przepisów oraz rozporządzenie (UE) nr 1024/2012 (Dz. Urz. UE L 249 z 31.07.2020, str. 49). 2) Niniejsza ustawa służy stosowaniu:
+- **1)** rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1054 z dnia 15 lipca 2020 r. zmieniającego rozporządzenie (WE) nr 561/2006 w odniesieniu do minimalnych wymogów dotyczących maksymalnego dziennego i tygodniowego czasu prowadzenia pojazdu, minimalnych przerw oraz dziennego i tygodniowego okresu odpoczynku oraz zmieniającego rozporządzenie (UE) nr 165/2014 w odniesieniu do określania położenia za pomocą tachografów (Dz. Urz. UE L 249 z 31.07.2020, str. 1);
+- **2)** rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1055 z dnia 15 lipca 2020 r. zmieniającego rozporządzenia (WE) nr 1071/2009, (WE) nr 1072/2009 i (UE) nr 1024/2012 w celu dostosowania ich do zmian w transporcie drogowym (Dz. Urz. UE L 249 z 31.07.2020, str. 17). 3) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych oraz ustawę z dnia 5 lipca 2018 r. o tachografach. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 159 z 28.05.2014, str. 1 i 11, Dz. Urz. UE L 200 z 26.07.2016, str. 1, Dz. Urz. UE L 252 z 16.09.2016, str. 53, Dz. Urz. UE L 295 z 21.11.2018, str. 1 oraz Dz. Urz. UE L 231 z 06.09.2019, str. 29. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64 i 138. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 432, 619, 1621, 1834, 1981 i 2105. 7) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 21 z 24.01.2009, str. 39, Dz. Urz. UE L 29 z 31.01.2009, str. 45, Dz. Urz. UE L 256 z 29.09.2009, str. 38 oraz Dz. Urz. UE L 74 z 19.03.2016, str. 8.
 
 

@@ -25,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001763) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1763/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI, MINISTRA OBRONY NARODOWEJ ORAZ MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 29 sierpnia 2023 r.
+11776633 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI, MINISTRA OBRONY NARODOWEJ ORAZ MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 29 sierpnia 2023 r.
 w sprawie zawiadamiania orzeczeniach wydanych w sprawach karnych oraz sprawach nieletnich Na podstawie art. 76 ust. 2 ustawy z dnia 11 marca 2022 r. obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r. poz. 347, 641 i 1615) zarządza się, co następuje: § 1. Rozporządzenie określa zakres zawiadomień, których mowa w art. 76 ust. 1 ustawy z dnia 11 marca 2022 r.
 obronie Ojczyzny, zwanej dalej „ustawą”, oraz sposób i terminy ich przesyłania przez sądy, zakłady karne i poprawcze oraz areszty śledcze.
 § 2. 1. Zawiadomienia, których mowa w art. 76 ust. 1 ustawy, zakłady karne i areszty śledcze przesyłają:
@@ -48,7 +48,7 @@ z 2020 r. poz. 344) lub drogą pocztową.
 4. Wzór zawiadomień przesyłanych przez zakłady karne oraz areszty śledcze i dotyczących osób osadzonych w zakładzie karnym lub areszcie śledczym lub zwolnionych z zakładu karnego lub aresztu śledczego jest określony w załączniku 4 do rozporządzenia.
 § 5. Zawiadomienia, których mowa w § 4 ust. 2 i 3, przesyła się za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. świadczeniu usług drogą elektroniczną lub drogą pocztową.
 § 6. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 2 ust. 3 i 4, który wchodzi w życie z dniem 1 września 2023 r.
-Minister Sprawiedliwości: Z. Ziobro Minister Obrony Narodowej: wz. M. Wiśniewski Minister Spraw Wewnętrznych i Administracji: M. Kamiński 1 ZÓ .............................................................
+Minister Sprawiedliwości: Z. Ziobro Minister Obrony Narodowej: wz. M. Wiśniewski Minister Spraw Wewnętrznych i Administracji: M. Kamiński 1 .............................................................
 ........................, .................... 20..... r.
 sygn. akt ...................................................
 1. ...................................................................................................

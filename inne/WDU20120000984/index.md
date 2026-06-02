@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-08-17 |
 | Data wydania | 2012-08-31 |
-| Wejście w życie | 2012-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000984) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/984/text.pdf) |
 
@@ -83,5 +82,5 @@ współpracy przy prowadzeniu działalności edukacyjnej.
 2.
 Szczegółowe zasady współdziałania może określić porozumienie zawarte pomiędzy organizatorem a dyrektorem biblioteki publicznej.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 28 sierpnia 2002 r. w sprawie zasad organizacji obsługi bibliotecznej w jednostkach organizacyjnych podległych Ministrowi Spraw Wewnętrznych i Administracji oraz zasad współdziałania bibliotek publicznych w wykonywaniu tej obsługi (Dz. U. Nr 154, poz. 1284), które utraciło moc z upływem 30 czerwca 2012 r. na podstawie art. 13 pkt 3 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. Nr 207, poz. 1230). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 28 sierpnia 2002 r. w sprawie zasad organizacji obsługi bibliotecznej w jednostkach organizacyjnych podległych Ministrowi Spraw Wewnętrznych i Administracji oraz zasad współdziałania bibliotek publicznych w wykonywaniu tej obsługi (Dz. U. Nr 154, poz. 1284), które utraciło moc z upływem 30 czerwca 2012 r. na podstawie art. 13 pkt 3 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. Nr 207, poz. 1230).
 

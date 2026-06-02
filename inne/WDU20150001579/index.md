@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-02 |
 | Data wydania | 2015-10-09 |
-| Wejście w życie | 2015-10-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001579) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1579/text.pdf) |
 
@@ -31,9 +30,9 @@ Załącznik – Szczegółowy opis granic i obszar składu wolnocłowego na tere
 Treść rozporządzenia
 Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2015 r. poz. 858) zarządza się, co następuje:
 § 1.
-Określa się, w załączniku do rozporządzenia, granice i obszar składu wolnocłowego na terenie Międzynarodowego Portu Lotniczego im. Jana Pawła II Kraków-Balice Sp. z o.o., ustanowionego rozporządzeniem Ministra Finansów z dnia 17 kwietnia 2001 r. w sprawie ustanowienia składu wolnocłowego na terenie Międzynarodowego Portu Lotniczego im. Jana Pawła II w Krakowie-Balicach Sp. z o.o. (Dz. U. Nr 37, poz. 435, z późn. zm.).
+Określa się, w załączniku do rozporządzenia, granice i obszar składu wolnocłowego na terenie Międzynarodowego Portu Lotniczego im. Jana Pawła II Kraków-Balice Sp. z o.o., ustanowionego rozporządzeniem Ministra Finansów z dnia 17 kwietnia 2001 r. w sprawie ustanowienia składu wolnocłowego na terenie Międzynarodowego Portu Lotniczego im. Jana Pawła II w Krakowie-Balicach Sp. z o.o. (Dz. U. Nr 37, poz. 435, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2003 r. Nr 46, poz. 396, z 2007 r. Nr 192, poz. 1388 oraz z 2011 r. Nr 13, poz. 60.).
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2003 r. Nr 46, poz. 396, z 2007 r. Nr 192, poz. 1388 oraz z 2011 r. Nr 13, poz. 60.
 Załącznik – Szczegółowy opis granic i obszar składu wolnocłowego na terenie Międzynarodowego Portu Lotniczego im. Jana Pawła II Kraków-Balice SP. Z O.O
 Skład wolnocłowy jest zlokalizowany w Międzynarodowym Porcie Lotniczym im. Jana Pawła II Kraków-Balice Sp. z o.o. na poziomie I piętra Terminalu Pasażerskiego oraz na poziomie piwnicy. Stanowi on strefę zamkniętą odcinkami ścian określonymi w poniższym opisie granicy składu wolnocłowego. Z uwagi na usytuowanie wewnątrz budynku, odgraniczenie składu wolnocłowego stanowią trwałe elementy budowlane. Opis przebiegu granic składu wolnocłowego jest przedstawiony na mapie w skali 1:500. Dokument zawierający opis przebiegu granic składu wolnocłowego wraz z mapą jest przechowywany u zarządzającego składem wolnocłowym oraz w postaci kopii we właściwej miejscowo izbie celnej nadzorującej skład wolnocłowy oraz w Ministerstwie Finansów. Granicę obszaru składu wolnocłowego na poziomie +1 (+3.9, +5.1) Terminalu Pasażerskiego stanowią następujące odcinki ścian:
 1)
@@ -117,8 +116,7 @@ przestrzeń o szerokości 42,43 m, wyznaczona przez linię stacjonarnych detekto
 40)
 ściana o długości 17,75 m, z dwoma otworami drzwiowymi, oddzielająca skład wolnocłowy od klatki schodowej;
 41)
-ściana o długości 30,1 m, z otworem drzwiowym, oddzielająca skład wolnocłowy od klatki schodowej.
-Granicę obszaru składu wolnocłowego na poziomie piwnicy (-6.6) Terminalu Pasażerskiego stanowią następujące odcinki ścian:
+ściana o długości 30,1 m, z otworem drzwiowym, oddzielająca skład wolnocłowy od klatki schodowej. Granicę obszaru składu wolnocłowego na poziomie piwnicy (-6.6) Terminalu Pasażerskiego stanowią następujące odcinki ścian:
 1)
 ściana o długości 32,7 m, oddzielająca skład wolnocłowy od pomieszczeń technicznych i magazynowych;
 2)
@@ -134,6 +132,5 @@ przestrzeń o szerokości 1,1 m, z otworem drzwiowym, oddzielającym skład woln
 7)
 ściana o długości 16,56 m, z otworem drzwiowym, oddzielająca skład wolnocłowy od klatki schodowej;
 8)
-ściana fundamentowa o długości 55,68 m, odgraniczająca skład wolnocłowy w obrysie budynku.
-Obszar składu wolnocłowego Obszar składu wolnocłowego wynosi 10 798 m2.
+ściana fundamentowa o długości 55,68 m, odgraniczająca skład wolnocłowy w obrysie budynku. Obszar składu wolnocłowego Obszar składu wolnocłowego wynosi 10 798 m2.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 kwietnia 2021 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw
+# Ustawa z dnia 15 kwietnia 2021 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, ustawę z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 oraz ustawę z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-15 |
 | Data wydania | 2021-05-14 |
-| Wejście w życie | 2021-05-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000904) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/904/text.pdf) |
 
@@ -35,7 +34,7 @@ source: "eli-html"
 
 - **b)**
 
-5. Do terminów, o których mowa w art. 21 ust. 1 i 1a, terminów do dokonania określonych czynności w toku postępowań oraz terminów, w jakich należy spełnić określone warunki przyznania lub wypłaty płatności bezpośrednich oraz płatności niezwiązanej do tytoniu, nie stosuje się przepisów art. 15zzzzzn2 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.). ” ;
+5. Do terminów, o których mowa w art. 21 ust. 1 i 1a, terminów do dokonania określonych czynności w toku postępowań oraz terminów, w jakich należy spełnić określone warunki przyznania lub wypłaty płatności bezpośrednich oraz płatności niezwiązanej do tytoniu, nie stosuje się przepisów art. 15zzzzzn2 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180 i 694.). ” ;
 
 - **2)** w art. 4 w ust. 1 skreśla się wyrazy „Restrukturyzacji i Modernizacji Rolnictwa, zwana dalej „Agencją” ”;
 - **3)** po art. 8 dodaje się art. 8a w brzmieniu: „
@@ -66,7 +65,7 @@ source: "eli-html"
 - **1)** działek referencyjnych, o których mowa w art. 5 ust. 1 rozporządzenia nr 640/2014, wraz z ich identyfikatorami,
 - **2)** maksymalnego kwalifikowalnego obszaru, o którym mowa w art. 5 ust. 2 lit. a i b rozporządzenia nr 640/2014,
 - **3)** obszarów, gruntów i użytków wymienionych w art. 5 ust. 2 lit. c i d rozporządzenia nr 640/2014,
-- **4)** upraw rolnych, obszarów wymienionych w art. 5 ust. 2 lit. c rozporządzenia nr 640/2014 oraz trwałych użytków zielonych i pastwisk trwałych w rozumieniu art. 4 ust. 1 lit. h rozporządzenia nr 1307/2013 deklarowanych przez rolnika we wniosku o przyznanie płatności jeżeli te dane będą wykorzystywane do celów naukowych, badawczych, statystycznych lub środowiskowych, na wniosek podmiotów realizujących ustawowe zadania dotyczące tych celów, a także na wniosek instytucji i organów Unii Europejskiej.
+- **4)** upraw rolnych, obszarów wymienionych w art. 5 ust. 2 lit. c rozporządzenia nr 640/2014 oraz trwałych użytków zielonych i pastwisk trwałych w rozumieniu art. 4 ust. 1 lit. h rozporządzenia nr 1307/2013 deklarowanych przez rolnika we wniosku o przyznanie płatności – jeżeli te dane będą wykorzystywane do celów naukowych, badawczych, statystycznych lub środowiskowych, na wniosek podmiotów realizujących ustawowe zadania dotyczące tych celów, a także na wniosek instytucji i organów Unii Europejskiej.
 
 2. Wniosek o udostępnienie danych przestrzennych, o którym mowa w ust. 1:
 
@@ -95,7 +94,7 @@ source: "eli-html"
 6. Do postępowań w sprawach o wypłatę pomocy przepis art. 27 ust. 2a stosuje się odpowiednio. ” ;
 
 - **4)** w art. 57d w ust. 2 dodaje się zdanie drugie w brzmieniu: „ Przepisy art. 42b ust. 1–3 stosuje się odpowiednio. ” ;
-- **5)** w art. 67b: uchyla się ust. 1 i 2, w ust. 3 po wyrazach „u ludzi” dodaje się wyrazy „(Dz. U. z 2020 r. poz. 1845, z późn. zm.)”, uchyla się ust. 6, w ust. 7 wyrazy „ust. 1–6” zastępuje się wyrazami „ust. 3–5”;
+- **5)** w art. 67b: uchyla się ust. 1 i 2, w ust. 3 po wyrazach „u ludzi” dodaje się wyrazy „(Dz. U. z 2020 r. poz. 1845, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112 i 2401 oraz z 2021 r. poz. 159, 180, 255 i 616.)”, uchyla się ust. 6, w ust. 7 wyrazy „ust. 1–6” zastępuje się wyrazami „ust. 3–5”;
     - **a)**
     - **b)**
     - **c)**
@@ -103,7 +102,7 @@ source: "eli-html"
 
 - **6)** art. 67c otrzymuje brzmienie: „
 
-**Art. 67c.** Do terminów składania wniosków o przyznanie płatności i terminów zgłaszania zmian do tych wniosków w ramach działań, o których mowa w art. 3 ust. 1 pkt 8 i 10–12a, do terminów na dokonanie określonych czynności w toku postępowań w sprawach dotyczących wyboru operacji partnerów KSOW oraz do terminów, o których mowa w art. 67a, terminów do dokonania określonych czynności w toku postępowań, o których mowa w art. 67b, terminów, w jakich należy spełnić określone warunki przyznania lub wypłaty pomocy lub pomocy technicznej lub określone wymogi, terminów dopełnienia warunków, z zastrzeżeniem których została wydana decyzja o przyznaniu pomocy, lub terminów realizacji innych zobowiązań związanych z przyznaną pomocą lub pomocą techniczną nie stosuje się przepisów art. 15zzzzzn2 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.). ” .
+**Art. 67c.** Do terminów składania wniosków o przyznanie płatności i terminów zgłaszania zmian do tych wniosków w ramach działań, o których mowa w art. 3 ust. 1 pkt 8 i 10–12a, do terminów na dokonanie określonych czynności w toku postępowań w sprawach dotyczących wyboru operacji partnerów KSOW oraz do terminów, o których mowa w art. 67a, terminów do dokonania określonych czynności w toku postępowań, o których mowa w art. 67b, terminów, w jakich należy spełnić określone warunki przyznania lub wypłaty pomocy lub pomocy technicznej lub określone wymogi, terminów dopełnienia warunków, z zastrzeżeniem których została wydana decyzja o przyznaniu pomocy, lub terminów realizacji innych zobowiązań związanych z przyznaną pomocą lub pomocą techniczną nie stosuje się przepisów art. 15zzzzzn2 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180 i 694.). ” .
 
 **Art. 5.** Do przyznawania płatności, o których mowa w ustawie zmienianej w art. 1, w sprawach objętych postępowaniami:
 
@@ -126,13 +125,13 @@ source: "eli-html"
 - **2)** przyznawania pomocy finansowej w ramach działań, o których mowa w ustawie zmienianej w art. 4, innych niż wymienione w pkt 1, wypłaty pomocy finansowej w ramach tych działań oraz przyznawania i wypłaty pomocy technicznej, w sprawach objętych postępowaniami wszczętymi i niezakończonymi przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe;
 - **3)** wyboru operacji partnera KSOW, o którym mowa w ustawie zmienianej w art. 4, w sprawach objętych postępowaniami wszczętymi i niezakończonymi przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 4 w brzmieniu nadanym niniejszą ustawą.
 
-2. W przypadku uchybienia terminu w toku postępowania w sprawie o przyznanie pomocy lub pomocy technicznej, o których mowa w ustawie zmienianej w art. 4, przez podmiot ubiegający się o przyznanie tej pomocy lub tej pomocy technicznej z przyczyn związanych z ogłoszeniem na obszarze Rzeczypospolitej Polskiej stanu zagrożenia epidemicznego lub stanu epidemii na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845, z późn. zm.) w związku z zakażeniami wirusem SARS-CoV-2 lub wprowadzeniem stanu nadzwyczajnego w związku z zakażeniami tym wirusem, wszczętego i niezakończonego przed dniem wejścia w życie niniejszej ustawy, należy przywrócić ten termin, jeżeli czynność, dla której był określony termin, została dopełniona nie później niż w terminie 60 dni od dnia wejścia w życie niniejszej ustawy. Przywrócenie terminu nie ma wpływu na przyznawanie tej pomocy lub tej pomocy technicznej innym podmiotom.
+2. W przypadku uchybienia terminu w toku postępowania w sprawie o przyznanie pomocy lub pomocy technicznej, o których mowa w ustawie zmienianej w art. 4, przez podmiot ubiegający się o przyznanie tej pomocy lub tej pomocy technicznej z przyczyn związanych z ogłoszeniem na obszarze Rzeczypospolitej Polskiej stanu zagrożenia epidemicznego lub stanu epidemii na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112 i 2401 oraz z 2021 r. poz. 159, 180, 255 i 616.) w związku z zakażeniami wirusem SARS-CoV-2 lub wprowadzeniem stanu nadzwyczajnego w związku z zakażeniami tym wirusem, wszczętego i niezakończonego przed dniem wejścia w życie niniejszej ustawy, należy przywrócić ten termin, jeżeli czynność, dla której był określony termin, została dopełniona nie później niż w terminie 60 dni od dnia wejścia w życie niniejszej ustawy. Przywrócenie terminu nie ma wpływu na przyznawanie tej pomocy lub tej pomocy technicznej innym podmiotom.
 
 3. W przypadku gdy podmiot ubiegający się o przyznanie pomocy lub pomocy technicznej, o których mowa w ustawie zmienianej w art. 4, nie spełnił określonego warunku przyznania tej pomocy lub tej pomocy technicznej lub określonego wymogu z przyczyn związanych z ogłoszeniem na obszarze Rzeczypospolitej Polskiej stanu zagrożenia epidemicznego lub stanu epidemii na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi w związku z zakażeniami wirusem SARS-CoV-2 lub wprowadzeniem stanu nadzwyczajnego w związku z zakażeniami tym wirusem i gdy podmiot ten:
 
 - **1)** przed dniem wejścia w życie niniejszej ustawy został wezwany do niezwłocznego przedstawienia dowodów na spełnienie tego warunku lub wymogu oraz
-- **2)** nie przedstawił dowodów, o których mowa w pkt 1, w terminie 60 dni od dnia wejścia w życie niniejszej ustawy podmiot właściwy w sprawie o przyznanie tej pomocy lub tej pomocy technicznej odmawia podmiotowi ubiegającemu się o przyznanie tej pomocy lub tej pomocy technicznej jej przyznania, z podaniem przyczyn odmowy.
+- **2)** nie przedstawił dowodów, o których mowa w pkt 1, w terminie 60 dni od dnia wejścia w życie niniejszej ustawy – podmiot właściwy w sprawie o przyznanie tej pomocy lub tej pomocy technicznej odmawia podmiotowi ubiegającemu się o przyznanie tej pomocy lub tej pomocy technicznej jej przyznania, z podaniem przyczyn odmowy.
 
-4. Przepisy ust. 2 i 3 stosuje się z uwzględnieniem zasad i warunków określonych w przepisach, o których mowa w art. 1 pkt 1 ustawy zmienianej w art. 4. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 2, który wchodzi w życie z dniem 12 czerwca 2021 r.
+4. Przepisy ust. 2 i 3 stosuje się z uwzględnieniem zasad i warunków określonych w przepisach, o których mowa w art. 1 pkt 1 ustawy zmienianej w art. 4. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 2, który wchodzi w życie z dniem 12 czerwca 2021 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, ustawę z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 oraz ustawę z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180 i 694. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112 i 2401 oraz z 2021 r. poz. 159, 180, 255 i 616. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180 i 694. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112 i 2401 oraz z 2021 r. poz. 159, 180, 255 i 616.
 
 

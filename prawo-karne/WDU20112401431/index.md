@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 września 2011 r. o zmianie ustawy – Kodeks karny wykonawczy oraz niektórych innych ustaw
+# Ustawa z dnia 16 września 2011 r. o zmianie ustawy – Kodeks karny wykonawczy oraz niektórych innych ustaw Niniejszą ustawą zmienia się również ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 23 czerwca 1973 r. o opłatach w sprawach karnych, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych oraz ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-09-16 |
 | Data wydania | 2011-11-10 |
-| Wejście w życie | 2012-01-01 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112401431) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1431/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849, z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344, z 2009 r. Nr 8, poz. 39, Nr 22, poz. 119, Nr 62, poz. 504, Nr 98, poz. 817, Nr 108, poz. 911, Nr 115, poz. 963, Nr 190, poz. 1475, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 34, poz. 191, Nr 40, poz. 227, Nr 125, poz. 842 i Nr 182, poz. 1228 oraz z 2011 r. Nr 39, poz. 201 i 202, Nr 112, poz. 654, Nr 129, poz. 734, Nr 185, poz. 1092 i Nr 217, poz. 1280.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 pkt 1 otrzymuje brzmienie: „
 - **1)** sąd pierwszej instancji lub inny sąd równorzędny, ” ;
@@ -55,9 +54,11 @@ source: "eli-html"
 
 - **1)** oparte są na tych samych podstawach faktycznych,
 - **2)** zawierają wyrazy lub zwroty powszechnie uznawane za wulgarne lub obelżywe albo gwarę przestępców,
-- **3)** nie zawierają uzasadnienia zawartych w nich żądań w stopniu umożliwiającym ich rozpoznanie właściwy organ może pozostawić wniosek, skargę lub prośbę bez rozpoznania. ” ;
-- **4)** w art. 8: w § 2: – uchyla się pkt 4, – dodaje się pkt 5 w brzmieniu: „ 5) sąd uzna to za niezbędne ze względu na okoliczności utrudniające obronę. ” , § 3 otrzymuje brzmienie: „
+- **3)** nie zawierają uzasadnienia zawartych w nich żądań w stopniu umożliwiającym ich rozpoznanie – właściwy organ może pozostawić wniosek, skargę lub prośbę bez rozpoznania. ” ;
+- **4)** w art. 8: w § 2: – uchyla się pkt 4, dodaje się pkt 5 w brzmieniu: „
     - **a)**
+
+- **5)** sąd uzna to za niezbędne ze względu na okoliczności utrudniające obronę. ” , § 3 otrzymuje brzmienie: „
     - **b)**
 
 § 3. Skazany pozbawiony wolności może porozumiewać się ze swoim obrońcą lub pełnomocnikiem będącym adwokatem lub radcą prawnym podczas nieobecności innych osób, a rozmowy z tymi osobami w trakcie widzeń i rozmowy telefoniczne nie podlegają kontroli. ” ;
@@ -491,7 +492,7 @@ source: "eli-html"
 - **1)** bezzwłocznego, a najpóźniej w ciągu 7 dni od zwolnienia z zakładu karnego, zgłoszenia się do sądowego kuratora zawodowego sądu rejonowego, w którego okręgu będzie miał miejsce stałego pobytu,
 - **2)** zgłaszania się do sądowego kuratora zawodowego w określonych przez niego terminach i udzielania wyjaśnień co do przebiegu okresu próby,
 - **3)** niezmieniania bez zgody sądu miejsca stałego pobytu,
-- **4)** wykonywania nałożonych na niego obowiązków o czym sąd poucza warunkowo zwolnionego.
+- **4)** wykonywania nałożonych na niego obowiązków – o czym sąd poucza warunkowo zwolnionego.
 
 § 3. W razie oddania pod dozór sąd poucza skazanego o obowiązku wynikającym z art. 169 § 2.
 
@@ -762,7 +763,7 @@ source: "eli-html"
 - **99)** w art. 249a pkt 2 otrzymuje brzmienie: „
 - **2)** szczegółowe zasady prowadzenia i organizacji pracy penitencjarnej oraz zakresy czynności funkcjonariuszy i pracowników działów penitencjarnych i terapeutycznych oraz oddziałów penitencjarnych, ” .
 
-**Art. 2.** W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2010 r. Nr 46, poz. 275, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2010 r. Nr 46, poz. 275, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 106, poz. 672, Nr 152, poz. 1017 i 1018, Nr 217, poz. 1427 i Nr 225, poz. 1466 oraz z 2011 r. Nr 126, poz. 715, Nr 217, poz. 1280, Nr 224, poz. 1340 i Nr 230, poz. 1370.) wprowadza się następujące zmiany:
 
 - **1)** art. 23 otrzymuje brzmienie: „
 
@@ -804,7 +805,7 @@ source: "eli-html"
 - **9)** od ponownej prośby o ułaskawienie – 45 zł,
 - **10)** od wniosku o wznowienie postępowania – 150 zł. ” .
 
-**Art. 4.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344, z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 40, poz. 227 i 229, Nr 98, poz. 625 i 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 152, poz. 1018 i 1021, Nr 182, poz. 1228, Nr 225, poz. 1474 i Nr 240, poz. 1602 oraz z 2011 r. Nr 17, poz. 78, Nr 24, poz. 130, Nr 39, poz. 202, Nr 48, poz. 245, Nr 72, poz. 381, Nr 94, poz. 549, Nr 117, poz. 678, Nr 133, poz. 767, Nr 160, poz. 964, Nr 191, poz. 1135, Nr 217, poz. 1280 i Nr 233, poz. 1381.) wprowadza się następujące zmiany:
 
 - **1)** w art. 68 po § 2 dodaje się § 2a w brzmieniu: „
 
@@ -855,7 +856,7 @@ source: "eli-html"
 
 § 2. Uznanie za wykonane obowiązku lub zakazu, o których mowa w § 1, nie może nastąpić bez zasięgnięcia opinii biegłych. ” .
 
-**Art. 5.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651, z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104, Nr 28, poz. 171, Nr 68, poz. 585, Nr 85, poz. 716, Nr 127, poz. 1051, Nr 144, poz. 1178, Nr 168, poz. 1323, Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 98, poz. 626, Nr 106, poz. 669, Nr 122, poz. 826, Nr 125, poz. 842, Nr 182, poz. 1228 i Nr 197, poz. 1307 oraz z 2011 r. Nr 48, poz. 245 i 246, Nr 53, poz. 273, Nr 112, poz. 654, Nr 117, poz. 678, Nr 142, poz. 829, Nr 191, poz. 1135, Nr 217, poz. 1280 i Nr 240, poz. 1430.) wprowadza się następujące zmiany:
 
 - **1)** w art. 213 § 1 otrzymuje brzmienie: „
 
@@ -871,7 +872,7 @@ source: "eli-html"
 
 **Art. 549.** O podjęciu postępowania warunkowo umorzonego sąd orzeka na wniosek oskarżyciela, pokrzywdzonego lub sądowego kuratora zawodowego albo z urzędu. ” .
 
-**Art. 6.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2007 r. Nr 111, poz. 765, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2007 r. Nr 111, poz. 765, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 112, poz. 766, z 2008 r. Nr 66, poz. 410, Nr 215, poz. 1355 i Nr 237, poz. 1651, z 2009 r. Nr 3, poz. 11, Nr 8, poz. 39, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 88, poz. 583, Nr 127, poz. 858 i Nr 151, poz. 1013 oraz z 2011 r. Nr 48, poz. 245, Nr 129, poz. 733 i Nr 171, poz. 1016.) wprowadza się następujące zmiany:
 
 - **1)** art. 46 otrzymuje brzmienie: „ Do wykroczeń skarbowych nie mają zastosowania przepisy części ogólnej Kodeksu wykroczeń. ” ;
 - **2)** art. 183 otrzymuje brzmienie: „
@@ -916,9 +917,9 @@ source: "eli-html"
 
 § 2. Na postanowienie w przedmiocie wykonania środka karnego wymienionego w art. 22 § 2 pkt 5 i 7 przysługuje zażalenie. ” .
 
-**Art. 7.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, z późn. zm.) w art. 54 dodaje się § 8 w brzmieniu: „
+**Art. 7.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651, z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1598, z 2010 r. Nr 182, poz. 1228, Nr 197, poz. 1307 i Nr 225, poz. 1466 oraz z 2011 r. Nr 217, poz. 1280.) w art. 54 dodaje się § 8 w brzmieniu: „
 
-§ 8. Przepis art. 213 § 1 Kodeksu postępowania karnego stosuje się odpowiednio. ” . W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2010 r. Nr 90, poz. 594, z późn. zm.) wprowadza się następujące zmiany:
+§ 8. Przepis art. 213 § 1 Kodeksu postępowania karnego stosuje się odpowiednio. ” . W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2010 r. Nr 90, poz. 594, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 152, poz. 1016 i Nr 197, poz. 1307 oraz z 2011 r. Nr 92, poz. 531, Nr 106, poz. 622, Nr 149, poz. 887 i Nr 163, poz. 981.) wprowadza się następujące zmiany:
 
 - **1)** tytuł tytułu V otrzymuje brzmienie: „ Wykonanie orzeczeń w zakresie należności sądowych ” ;
 - **2)** art. 119 otrzymuje brzmienie: „
@@ -939,7 +940,7 @@ source: "eli-html"
 
 2. Po rozpoznaniu wniosku o rozłożenie na raty lub umorzenie należności sądowych, albo w razie wystąpienia okoliczności dających podstawę do wszczęcia postępowania o umorzenie należności sądowych z urzędu, prezes sądu wydaje stosowne zarządzenie. ” .
 
-**Art. 9.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. Nr 179, poz. 1485, z późn. zm.) w art. 71 ust. 1 otrzymuje brzmienie: „ 1. W razie skazania osoby uzależnionej za przestępstwo pozostające w związku z używaniem środka odurzającego lub substancji psychotropowej na karę pozbawienia wolności, której wykonanie warunkowo zawieszono, sąd zobowiązuje skazanego do poddania się leczeniu lub rehabilitacji w podmiocie leczniczym w rozumieniu przepisów o działalności leczniczej i oddaje go pod dozór wyznaczonej osoby, instytucji lub stowarzyszenia. ” .
+**Art. 9.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. Nr 179, poz. 1485, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 66, poz. 469 i Nr 120, poz. 826, z 2007 r. Nr 7, poz. 48 i Nr 82, poz. 558, z 2009 r. Nr 18, poz. 97, Nr 63, poz. 520, Nr 92, poz. 753 i Nr 98, poz. 817, z 2010 r. Nr 28, poz. 146, Nr 143, poz. 962, Nr 213, poz. 1396 i Nr 228, poz. 1486 oraz z 2011 r. Nr 63, poz. 322, Nr 105, poz. 614 i Nr 117, poz. 678.) w art. 71 ust. 1 otrzymuje brzmienie: „ 1. W razie skazania osoby uzależnionej za przestępstwo pozostające w związku z używaniem środka odurzającego lub substancji psychotropowej na karę pozbawienia wolności, której wykonanie warunkowo zawieszono, sąd zobowiązuje skazanego do poddania się leczeniu lub rehabilitacji w podmiocie leczniczym w rozumieniu przepisów o działalności leczniczej i oddaje go pod dozór wyznaczonej osoby, instytucji lub stowarzyszenia. ” .
 
 **Art. 10.**
 
@@ -953,5 +954,5 @@ source: "eli-html"
 
 **Art. 12.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 176 ustawy, o której mowa w art. 1 niniejszej ustawy, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 176 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 13.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r.
+**Art. 13.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r. 1) Niniejszą ustawą zmienia się również ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 23 czerwca 1973 r. o opłatach w sprawach karnych, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych oraz ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849, z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344, z 2009 r. Nr 8, poz. 39, Nr 22, poz. 119, Nr 62, poz. 504, Nr 98, poz. 817, Nr 108, poz. 911, Nr 115, poz. 963, Nr 190, poz. 1475, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 34, poz. 191, Nr 40, poz. 227, Nr 125, poz. 842 i Nr 182, poz. 1228 oraz z 2011 r. Nr 39, poz. 201 i 202, Nr 112, poz. 654, Nr 129, poz. 734, Nr 185, poz. 1092 i Nr 217, poz. 1280. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 106, poz. 672, Nr 152, poz. 1017 i 1018, Nr 217, poz. 1427 i Nr 225, poz. 1466 oraz z 2011 r. Nr 126, poz. 715, Nr 217, poz. 1280, Nr 224, poz. 1340 i Nr 230, poz. 1370. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344, z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 40, poz. 227 i 229, Nr 98, poz. 625 i 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 152, poz. 1018 i 1021, Nr 182, poz. 1228, Nr 225, poz. 1474 i Nr 240, poz. 1602 oraz z 2011 r. Nr 17, poz. 78, Nr 24, poz. 130, Nr 39, poz. 202, Nr 48, poz. 245, Nr 72, poz. 381, Nr 94, poz. 549, Nr 117, poz. 678, Nr 133, poz. 767, Nr 160, poz. 964, Nr 191, poz. 1135, Nr 217, poz. 1280 i Nr 233, poz. 1381. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651, z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104, Nr 28, poz. 171, Nr 68, poz. 585, Nr 85, poz. 716, Nr 127, poz. 1051, Nr 144, poz. 1178, Nr 168, poz. 1323, Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 98, poz. 626, Nr 106, poz. 669, Nr 122, poz. 826, Nr 125, poz. 842, Nr 182, poz. 1228 i Nr 197, poz. 1307 oraz z 2011 r. Nr 48, poz. 245 i 246, Nr 53, poz. 273, Nr 112, poz. 654, Nr 117, poz. 678, Nr 142, poz. 829, Nr 191, poz. 1135, Nr 217, poz. 1280 i Nr 240, poz. 1430. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 112, poz. 766, z 2008 r. Nr 66, poz. 410, Nr 215, poz. 1355 i Nr 237, poz. 1651, z 2009 r. Nr 3, poz. 11, Nr 8, poz. 39, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 88, poz. 583, Nr 127, poz. 858 i Nr 151, poz. 1013 oraz z 2011 r. Nr 48, poz. 245, Nr 129, poz. 733 i Nr 171, poz. 1016. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651, z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1598, z 2010 r. Nr 182, poz. 1228, Nr 197, poz. 1307 i Nr 225, poz. 1466 oraz z 2011 r. Nr 217, poz. 1280. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 152, poz. 1016 i Nr 197, poz. 1307 oraz z 2011 r. Nr 92, poz. 531, Nr 106, poz. 622, Nr 149, poz. 887 i Nr 163, poz. 981. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 66, poz. 469 i Nr 120, poz. 826, z 2007 r. Nr 7, poz. 48 i Nr 82, poz. 558, z 2009 r. Nr 18, poz. 97, Nr 63, poz. 520, Nr 92, poz. 753 i Nr 98, poz. 817, z 2010 r. Nr 28, poz. 146, Nr 143, poz. 962, Nr 213, poz. 1396 i Nr 228, poz. 1486 oraz z 2011 r. Nr 63, poz. 322, Nr 105, poz. 614 i Nr 117, poz. 678.
 

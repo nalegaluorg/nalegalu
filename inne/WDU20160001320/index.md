@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 11 sierpnia 2016 r. w sprawie przekazywania danych pomiędzy centralną ewidencją pojazdów a Ubezpieczeniowym Funduszem Gwarancyjnym
+# Rozporządzenie Ministra Cyfryzacjiz dnia 11 sierpnia 2016 r. w sprawie przekazywania danych pomiędzy centralną ewidencją pojazdów a Ubezpieczeniowym Funduszem Gwarancyjnym Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-08-11 |
 | Data wydania | 2016-08-23 |
-| Wejście w życie | 2018-06-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001320) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1320/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 80ba ust. 6 pkt 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 80ba ust. 6 pkt 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970, z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1830, 1844, 1893, 2183 i 2281 oraz z 2016 r. poz. 266, 352 i 1250.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa tryb i terminy przekazywania danych pomiędzy centralną ewidencją pojazdów a Ubezpieczeniowym Funduszem Gwarancyjnym oraz warunki, sposób i tryb współdziałania między nimi w zakresie przekazywania danych przez zakłady ubezpieczeń.
 § 2.
@@ -98,6 +97,5 @@ Fundusz po otrzymaniu informacji, o której mowa w ust. 2, ustala z zakładem ub
 4.
 Po rozpoczęciu przekazywania przez zakład ubezpieczeń danych do ewidencji w czasie wykonania czynności skutkującej koniecznością przekazania do niej danych, zakład ubezpieczeń przekazuje dane wyłącznie w tym trybie.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970, z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1830, 1844, 1893, 2183 i 2281 oraz z 2016 r. poz. 266, 352 i 1250.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970, z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1830, 1844, 1893, 2183 i 2281 oraz z 2016 r. poz. 266, 352 i 1250.
 

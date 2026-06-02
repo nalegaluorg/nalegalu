@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-10-17 |
 | Data wydania | 2008-12-18 |
-| Wejście w życie | 2009-01-02 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082231456) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1456/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2006 r. Nr 139, poz. 992, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2006 r. Nr 139, poz. 992, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 222, poz. 1630, z 2007 r. Nr 64, poz. 427, Nr 105, poz. 720, Nr 109, poz. 747, Nr 192, poz. 1378 i Nr 200, poz. 1446 oraz z 2008 r. Nr 70, poz. 416 i Nr 138, poz. 872 i 875.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3: pkt 10 otrzymuje brzmienie: „
     - **a)**
@@ -43,7 +42,7 @@ source: "eli-html"
 
 7. W przypadku gdy członek rodziny przebywa w instytucji zapewniającej całodobowe utrzymanie, ustalając dochód rodziny w przeliczeniu na osobę, nie uwzględnia się osoby przebywającej w tej instytucji.
 
-8. W przypadku ustalania dochodu z gospodarstwa rolnego, przyjmuje się, że z 1 ha przeliczeniowego uzyskuje się dochód miesięczny w wysokości 1/12 dochodu ogłaszanego corocznie w drodze obwieszczenia przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 18 ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2006 r. Nr 136, poz. 969, z późn. zm.).
+8. W przypadku ustalania dochodu z gospodarstwa rolnego, przyjmuje się, że z 1 ha przeliczeniowego uzyskuje się dochód miesięczny w wysokości 1/12 dochodu ogłaszanego corocznie w drodze obwieszczenia przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 18 ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2006 r. Nr 136, poz. 969, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 191, poz. 1412, Nr 245, poz. 1775 i Nr 249, poz. 1825, z 2007 r. Nr 109, poz. 747 oraz z 2008 r. Nr 116, poz. 730.).
 
 9. W przypadku gdy rodzina lub osoba ucząca się uzyskuje dochody z gospodarstwa rolnego oraz dochody pozarolnicze, dochody te sumuje się. ” ;
 
@@ -83,7 +82,7 @@ source: "eli-html"
 - **8)** w art. 17: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Świadczenie pielęgnacyjne z tytułu rezygnacji z zatrudnienia lub innej pracy zarobkowej przysługuje osobom, na których zgodnie z przepisami ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. Nr 9, poz. 59, z późn. zm.) ciąży obowiązek alimentacyjny, a także opiekunowi faktycznemu dziecka, jeżeli nie podejmuje lub rezygnuje z zatrudnienia lub innej pracy zarobkowej w celu sprawowania opieki nad dzieckiem legitymującym się orzeczeniem o niepełnosprawności łącznie ze wskazaniami: konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji oraz konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji, albo osobą legitymującą się orzeczeniem o znacznym stopniu niepełnosprawności. ” , po ust. 2 dodaje się ust. 2a-2d w brzmieniu: „
+1. Świadczenie pielęgnacyjne z tytułu rezygnacji z zatrudnienia lub innej pracy zarobkowej przysługuje osobom, na których zgodnie z przepisami ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. Nr 9, poz. 59, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1975 r. Nr 45, poz. 234, z 1986 r. Nr 36, poz. 180, z 1990 r. Nr 34, poz. 198, z 1995 r. Nr 83, poz. 417, z 1998 r. Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 122, poz. 1322, z 2001 r. Nr 128, poz. 1403, z 2003 r. Nr 83, poz. 772 i Nr 130, poz. 1188, z 2004 r. Nr 162, poz. 1691, z 2007 r. Nr 121, poz. 831, Nr 134, poz. 947 i Nr 192, poz. 1378 oraz z 2008 r. Nr 220, poz. 1431.) ciąży obowiązek alimentacyjny, a także opiekunowi faktycznemu dziecka, jeżeli nie podejmuje lub rezygnuje z zatrudnienia lub innej pracy zarobkowej w celu sprawowania opieki nad dzieckiem legitymującym się orzeczeniem o niepełnosprawności łącznie ze wskazaniami: konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji oraz konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji, albo osobą legitymującą się orzeczeniem o znacznym stopniu niepełnosprawności. ” , po ust. 2 dodaje się ust. 2a-2d w brzmieniu: „
 
 - **b)**
 
@@ -93,9 +92,11 @@ source: "eli-html"
 
 2c. W przypadku, gdy o prawo do świadczenia pielęgnacyjnego ubiega się rodzina zastępcza spokrewniona z dzieckiem, na której zgodnie z przepisami ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy ciąży obowiązek alimentacyjny, ustalając prawo do świadczenia uwzględnia się dochód rodziny zastępczej oraz dochód tego dziecka.
 
-2d. Przy ustalaniu dochodu, o którym mowa w ust. 2–2c, w składzie rodziny uwzględnia się również dziecko, którego niepełnosprawność uprawnia do pobierania świadczenia pielęgnacyjnego, nawet jeżeli posiada ono własne dziecko. ” , w ust. 5: – w pkt 2 lit. b otrzymuje brzmienie: „ b) została umieszczona w rodzinie zastępczej, z wyjątkiem rodziny zastępczej spokrewnionej z dzieckiem, o której mowa w ust. 2c, albo, w związku z koniecznością kształcenia, rewalidacji lub rehabilitacji w placówce zapewniającej całodobową opiekę, w tym w specjalnym ośrodku szkolno-wychowawczym i korzysta w niej z całodobowej opieki przez więcej niż 5 dni w tygodniu, z wyjątkiem zakładów opieki zdrowotnej; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje pkt 5 w brzmieniu: „ 5) na osobę wymagającą opieki członek rodziny jest uprawniony za granicą do świadczenia na pokrycie wydatków związanych z opieką, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy o zabezpieczeniu społecznym stanowią inaczej. ” ;
+2d. Przy ustalaniu dochodu, o którym mowa w ust. 2–2c, w składzie rodziny uwzględnia się również dziecko, którego niepełnosprawność uprawnia do pobierania świadczenia pielęgnacyjnego, nawet jeżeli posiada ono własne dziecko. ” , w ust. 5: w pkt 2 lit. b otrzymuje brzmienie: „ została umieszczona w rodzinie zastępczej, z wyjątkiem rodziny zastępczej spokrewnionej z dzieckiem, o której mowa w ust. 2c, albo, w związku z koniecznością kształcenia, rewalidacji lub rehabilitacji w placówce zapewniającej całodobową opiekę, w tym w specjalnym ośrodku szkolno-wychowawczym i korzysta w niej z całodobowej opieki przez więcej niż 5 dni w tygodniu, z wyjątkiem zakładów opieki zdrowotnej; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje pkt 5 w brzmieniu: „
 
 - **c)**
+- **b)**
+- **5)** na osobę wymagającą opieki członek rodziny jest uprawniony za granicą do świadczenia na pokrycie wydatków związanych z opieką, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy o zabezpieczeniu społecznym stanowią inaczej. ” ;
 - **9)** w art. 18 ust. 1 otrzymuje brzmienie: „
 
 1. Kwoty, o których mowa w art. 5 ust. 1 i 2, oraz wysokości świadczeń rodzinnych podlegają weryfikacji co 3 lata, z uwzględnieniem wyników badań progu wsparcia dochodowego rodzin. ” ;
@@ -187,6 +188,6 @@ source: "eli-html"
 **Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 4, pkt 5, pkt 6 lit. b, pkt 7 i pkt 15, które wchodzą w życie z dniem 1 stycznia 2009 r.;
-- **2)** art. 1 pkt 1 lit. a, który wchodzi w życie z dniem 1 listopada 2009 r.
+- **2)** art. 1 pkt 1 lit. a, który wchodzi w życie z dniem 1 listopada 2009 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 222, poz. 1630, z 2007 r. Nr 64, poz. 427, Nr 105, poz. 720, Nr 109, poz. 747, Nr 192, poz. 1378 i Nr 200, poz. 1446 oraz z 2008 r. Nr 70, poz. 416 i Nr 138, poz. 872 i 875. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 191, poz. 1412, Nr 245, poz. 1775 i Nr 249, poz. 1825, z 2007 r. Nr 109, poz. 747 oraz z 2008 r. Nr 116, poz. 730. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1975 r. Nr 45, poz. 234, z 1986 r. Nr 36, poz. 180, z 1990 r. Nr 34, poz. 198, z 1995 r. Nr 83, poz. 417, z 1998 r. Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 122, poz. 1322, z 2001 r. Nr 128, poz. 1403, z 2003 r. Nr 83, poz. 772 i Nr 130, poz. 1188, z 2004 r. Nr 162, poz. 1691, z 2007 r. Nr 121, poz. 831, Nr 134, poz. 947 i Nr 192, poz. 1378 oraz z 2008 r. Nr 220, poz. 1431.
 
 

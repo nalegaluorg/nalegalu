@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 czerwca 1997 r. o Międzynarodowym Instytucie Biologii Molekularnej i Komórkowej w Warszawie (Dz. U. poz. 674), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 16 października 2019 r. o zmianie ustawy o Polskiej Akademii Nauk oraz niektórych innych ustaw (Dz. U. poz. 2227) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 maja 2020 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 16 października 2019 r. o zmianie ustawy o Polskiej Akademii Nauk oraz niektórych innych ustaw (Dz. U. poz. 2227), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 16 października 2019 r. o zmianie ustawy o Polskiej Akademii Nauk oraz niektórych innych ustaw (Dz. U. poz. 2227), który stanowi: „
 
 **Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 26 czerwca 1997 r. o Międzynarodowym Instytucie Biologii Molekularnej i Komórkowej w Warszawie
 
@@ -155,9 +154,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Na stanowisku asystenta można zatrudnić osobę, która posiada co najmniej tytuł zawodowy magistra lub równorzędny tytuł zawodowy.
 
-4. Kandydatów na stanowiska, o których mowa w ust. 1–3, wyłania się w drodze konkursu.
-
-5. Wykonywanie obowiązków pracownika zatrudnionego na stanowiskach, o których mowa w art. 13 pkt 1–3, stanowi działalność twórczą o indywidualnym charakterze, o której mowa w art. 1 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2019 r. poz. 1231 oraz z 2020 r. poz. 288).
+4. Kandydatów na stanowiska, o których mowa w ust. 1–3, wyłania się w drodze konkursu. 5Dodany przez art. 2 ustawy z dnia 16 października 2019 r. o zmianie ustawy o Polskiej Akademii Nauk oraz niektórych innych ustaw (Dz. U. poz. 2227), która weszła w życie z dniem 30 listopada 2019 r.. Wykonywanie obowiązków pracownika zatrudnionego na stanowiskach, o których mowa w art. 13 pkt 1–3, stanowi działalność twórczą o indywidualnym charakterze, o której mowa w art. 1 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2019 r. poz. 1231 oraz z 2020 r. poz. 288).
 
 **Art. 15.** Na wniosek profesora Instytut zatrudnia jego współpracownika na stanowisku, o którym mowa w art. 13 pkt 2 lub 3, bez konieczności wyłonienia kandydata w drodze konkursu.
 
@@ -183,5 +180,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 21.** W wypadku utraty mocy obowiązującej Porozumienia, Prezes Polskiej Akademii Nauk zarządzi likwidację Instytutu, określając jednocześnie warunki i tryb przeprowadzenia tej likwidacji.
 
-**Art. 22.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 22.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 11 września 1997 r.. 1) Dodany przez art. 2 ustawy z dnia 16 października 2019 r. o zmianie ustawy o Polskiej Akademii Nauk oraz niektórych innych ustaw (Dz. U. poz. 2227), która weszła w życie z dniem 30 listopada 2019 r. 2) Ustawa została ogłoszona w dniu 11 września 1997 r.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-07-15 |
 | Data wydania | 2020-07-21 |
-| Wejście w życie | 2020-07-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001273) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1273/text.pdf) |
 
@@ -33,7 +32,7 @@ source: "eli-html"
 1. Zbrodnie:
 
 - **1)** stanowiące według prawa międzynarodowego zbrodnie przeciwko pokojowi, ludzkości lub zbrodnie wojenne, o których mowa w art. 1 pkt 1 lit. a, oraz
-- **2)** komunistyczne, w rozumieniu art. 2 ust. 1, niebędące zbrodniami wojennymi lub zbrodniami przeciwko ludzkości nie ulegają przedawnieniu. ” ;
+- **2)** komunistyczne, w rozumieniu art. 2 ust. 1, niebędące zbrodniami wojennymi lub zbrodniami przeciwko ludzkości – nie ulegają przedawnieniu. ” ;
 - **2)** uchyla się ust. 1a;
 - **3)** po ust. 1a dodaje się ust. 1b w brzmieniu: „
 

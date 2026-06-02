@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 26 kwietnia 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową
+# Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 26 kwietnia 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 2488), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 17 grudnia 2020 r. zmieniającym rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 2295).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 17 grudnia 2020 r. zmieniającego rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 2295), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 17 grudnia 2020 r. zmieniającego rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 2295), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
-” .
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
-Załącznik – Rozporządzenie Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r. ” . 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Załącznik – Rozporządzenie Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-SkarbowąObecnie działem administracji rządowej – finanse publiczne kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 Na podstawie art. 163 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2021 r. poz. 422, 464, 694, 802 i 815) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -49,7 +46,7 @@ warunki i tryb oddelegowania do wykonywania pracy lub wykonywania zadań służb
 tryb postępowania w przypadku zmiany warunków oddelegowania funkcjonariusza, w tym w zakresie ustalania i wypłaty uposażenia oraz prawa do urlopu;
 4)
 tryb odwołania funkcjonariusza z oddelegowania.
-§ 2.
+§ 2W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 17 grudnia 2020 r. zmieniającego rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 2295), które weszło w życie z dniem 1 stycznia 2021 r..
 Podmiotem oddelegowania jest:
 1)
 urząd zapewniający obsługę organu administracji publicznej, reprezentowany przez:
@@ -178,6 +175,5 @@ W przypadku gdy odwołanie funkcjonariusza z oddelegowania następuje w dniu zwo
 § 14.
 Porozumienia o oddelegowaniu zawarte przed dniem wejścia w życie rozporządzenia pozostają w mocy.
 § 15.
-Rozporządzenie wchodzi w życie z dniem 2 stycznia 2019 r.
-1) Obecnie działem administracji rządowej – finanse publiczne kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 17 grudnia 2020 r. zmieniającego rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 2295), które weszło w życie z dniem 1 stycznia 2021 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 lutego 2018 r. w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 451), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
+Rozporządzenie wchodzi w życie z dniem 2 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 lutego 2018 r. w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 451), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354). 1) Obecnie działem administracji rządowej – finanse publiczne kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 17 grudnia 2020 r. zmieniającego rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 2295), które weszło w życie z dniem 1 stycznia 2021 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 lutego 2018 r. w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 451), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 2 listopada 2022 r. zmieniające rozporządzenie w sprawie urzędów celno-skarbowych, w których może być dokonywany wywóz, przywóz i tranzyt towarów o znaczeniu strategicznym
+# Rozporządzenie Ministra Finansówz dnia 2 listopada 2022 r. zmieniające rozporządzenie w sprawie urzędów celno-skarbowych, w których może być dokonywany wywóz, przywóz i tranzyt towarów o znaczeniu strategicznym Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-02 |
 | Data wydania | 2022-11-08 |
-| Wejście w życie | 2022-11-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002263) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2263/text.pdf) |
 
@@ -31,10 +30,11 @@ Na podstawie art. 20 ust. 2 ustawy z dnia 29 listopada 2000 r. o obrocie z zagra
 § 1.
 W rozporządzeniu Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. w sprawie urzędów celno-skarbowych, w których może być dokonywany wywóz, przywóz i tranzyt towarów o znaczeniu strategicznym (Dz. U. poz. 365, z 2021 r. poz. 1860 oraz z 2022 r. poz. 1721) w załączniku:
 1)
-w lp. I dodaje się pkt 14 i 15 w brzmieniu: 14 Oddział Celny w Zosinie 303040 15 Oddział Celny w Dołhobyczowie 303091
+w lp. I dodaje się pkt 14 i 15 w brzmieniu:
+14 Oddział Celny w Zosinie 303040 15 Oddział Celny w Dołhobyczowie 303091
 2)
-w lp. XI dodaje się pkt 10 i 11w brzmieniu: 10 Oddział Celny w Krościenku 404030 11 Oddział Celny w Budomierzu 401080
+w lp. XI dodaje się pkt 10 i 11w brzmieniu:
+10 Oddział Celny w Krościenku 404030 11 Oddział Celny w Budomierzu 401080
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-04-11 |
 | Data wydania | 2016-04-25 |
-| Wejście w życie | 2016-05-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000569) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/569/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 19 września 2013 r. w
 1)
 tytuł rozporządzenia otrzymuje brzmienie: „ w sprawie warunków wstępnego uznawania grup producentów owoców i warzyw, uznawania organizacji producentów owoców i warzyw i ich zrzeszeń oraz warunków i wymagań, jakie powinny spełniać plany dochodzenia do uznania ” ;
 2)
-po § 3 dodaje się § 3a w brzmieniu:
-„
+po § 3 dodaje się § 3a w brzmieniu: „
 § 3a.
 1.
 Podmiot zrzeszający uznane organizacje producentów owoców i warzyw może zostać uznany za zrzeszenie organizacji producentów owoców i warzyw, jeżeli:
@@ -63,8 +61,7 @@ przez dysponowanie bezpośrednio lub pośrednio większością głosów na walny
 2)
 gdy członkowie zarządu członka zrzeszenia organizacji stanowią więcej niż połowę członków zarządu innego członka zrzeszenia organizacji.
 3.
-Członkami zrzeszenia organizacji mogą być wyłącznie uznane organizacje producentów owoców i warzyw.
-” .
+Członkami zrzeszenia organizacji mogą być wyłącznie uznane organizacje producentów owoców i warzyw. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 5 września 2018 r. w sprawie dokumentów uniemożliwiających ustalenie danych identyfikujących funkcjonariusza Służby Ochrony Państwa
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 5 września 2018 r. w sprawie dokumentów uniemożliwiających ustalenie danych identyfikujących funkcjonariusza Służby Ochrony Państwa Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-05 |
 | Data wydania | 2018-09-13 |
-| Wejście w życie | 2018-09-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001769) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1769/text.pdf) |
 
@@ -36,8 +35,7 @@ tryb wydawania dokumentów, które uniemożliwiają ustalenie danych identyfikuj
 a)
 funkcjonariusza Służby Ochrony Państwa przy wykonywaniu czynności operacyjno-rozpoznawczych,
 b)
-środków, którymi funkcjonariusz Służby Ochrony Państwa posługuje się przy wykonywaniu zadań służbowych
-zwanych dalej „dokumentami”;
+środków, którymi funkcjonariusz Służby Ochrony Państwa posługuje się przy wykonywaniu zadań służbowych – zwanych dalej „dokumentami”;
 2)
 sposób posługiwania się dokumentami;
 3)
@@ -169,6 +167,5 @@ W przypadku utraty albo całkowitego zniszczenia dokumentu wnioskodawca przeprow
 § 11.
 Dokumentację dotyczącą wydawania, posługiwania się, przechowywania i ewidencji dokumentów prowadzi się w sposób zapewniający zachowanie w tajemnicy informacji w nich zawartych oraz uniemożliwiający dostęp do nich osób nieuprawnionych.
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 

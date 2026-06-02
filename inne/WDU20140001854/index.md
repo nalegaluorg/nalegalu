@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 listopada 2014 r. o zmianie ustawy o specjalnych strefach ekonomicznych oraz niektórych innych ustaw
+# Ustawa z dnia 28 listopada 2014 r. o zmianie ustawy o specjalnych strefach ekonomicznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw oraz ustawę z dnia 30 maja 2008 r. o zmianie ustawy o specjalnych strefach ekonomicznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-28 |
 | Data wydania | 2014-12-22 |
-| Wejście w życie | 2015-01-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001854) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1854/text.pdf) |
 
@@ -34,7 +33,7 @@ source: "eli-html"
     - **a)**
 
 - **5)** podejmowanie działań zmierzających do powstawania klastrów;
-- **6)** współpraca w zakresie uwzględniania w procesie kształcenia potrzeb rynku pracy w strefie: ze szkołami ponadgimnazjalnymi, o których mowa w art. 9 ust. 1 pkt 3 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.), z uczelniami, o których mowa w art. 2 ust. 1 pkt 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.). ” , ust. 3 otrzymuje brzmienie: „
+- **6)** współpraca w zakresie uwzględniania w procesie kształcenia potrzeb rynku pracy w strefie: ze szkołami ponadgimnazjalnymi, o których mowa w art. 9 ust. 1 pkt 3 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650 oraz z 2014 r. poz. 7, 290, 538, 598, 642, 811, 1146 i 1198.), z uczelniami, o których mowa w art. 2 ust. 1 pkt 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650 oraz z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198.). ” , ust. 3 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **b)**
@@ -54,7 +53,7 @@ source: "eli-html"
 
 2. W przypadku cofnięcia albo stwierdzenia wygaśnięcia zezwolenia, o którym mowa w art. 16 ust. 1, minister właściwy do spraw gospodarki przekazuje naczelnikowi urzędu skarbowego właściwemu dla przedsiębiorcy w sprawach podatku dochodowego kopię wydanej decyzji w terminie 14 dni, licząc od dnia, w którym decyzja ta stała się prawomocna.
 
-3. W przypadku cofnięcia zezwolenia, o którym mowa w art. 16 ust. 1, naczelnik urzędu skarbowego, o którym mowa w ust. 2, określa w drodze decyzji kwotę pomocy podlegającą zwrotowi pomniejszoną o kwotę należnego podatku ustalonego zgodnie z art. 21 ust. 5b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) lub art. 17 ust. 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.).
+3. W przypadku cofnięcia zezwolenia, o którym mowa w art. 16 ust. 1, naczelnik urzędu skarbowego, o którym mowa w ust. 2, określa w drodze decyzji kwotę pomocy podlegającą zwrotowi pomniejszoną o kwotę należnego podatku ustalonego zgodnie z art. 21 ust. 5b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717 oraz z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644 i 1662.) lub art. 17 ust. 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662.).
 
 4. W kwocie pomocy podlegającej zwrotowi, o której mowa w ust. 3, uwzględnia się odsetki liczone jak dla zaległości podatkowej. Odsetki te należne są za okres od dnia udzielenia pomocy do dnia jej zwrotu. Roszczenia związane ze zwrotem pomocy publicznej, udzielanej zgodnie z ustawą, przedawniają się z upływem 10 lat, licząc od końca roku kalendarzowego, w którym przedsiębiorca skorzystał z tej pomocy. ” ;
 
@@ -70,10 +69,13 @@ source: "eli-html"
 
 - **6)** art. 18 otrzymuje brzmienie: „
 
-**Art. 18.** Minister właściwy do spraw gospodarki wykonuje kontrolę działalności gospodarczej prowadzonej na terenie strefy w zakresie i na zasadach określonych w art. 57 oraz rozdziale 5 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, z późn. zm.). ” ;
+**Art. 18.** Minister właściwy do spraw gospodarki wykonuje kontrolę działalności gospodarczej prowadzonej na terenie strefy w zakresie i na zasadach określonych w art. 57 oraz rozdziale 5 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650 oraz z 2014 r. poz. 822, 1133, 1138 i 1146.). ” ;
 
-- **7)** w art. 19: w ust. 3: – pkt 3 otrzymuje brzmienie: „ 3) nie usunął uchybień stwierdzonych w toku kontroli, o której mowa w art. 18, w terminie do ich usunięcia wyznaczonym w wezwaniu ministra właściwego do spraw gospodarki, lub ” , – dodaje się pkt 4 w brzmieniu: „ 4) wystąpił z wnioskiem o cofnięcie zezwolenia albo ograniczenie zakresu lub przedmiotu działalności określonego w zezwoleniu. ” , ust. 5 otrzymuje brzmienie: „
+- **7)** w art. 19: w ust. 3: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** nie usunął uchybień stwierdzonych w toku kontroli, o której mowa w art. 18, w terminie do ich usunięcia wyznaczonym w wezwaniu ministra właściwego do spraw gospodarki, lub ” , dodaje się pkt 4 w brzmieniu: „
+- **4)** wystąpił z wnioskiem o cofnięcie zezwolenia albo ograniczenie zakresu lub przedmiotu działalności określonego w zezwoleniu. ” , ust. 5 otrzymuje brzmienie: „
     - **b)**
 
 5. Minister właściwy do spraw gospodarki stwierdza wygaśnięcie zezwolenia na wniosek przedsiębiorcy, który nie skorzystał z pomocy publicznej, udzielanej zgodnie z ustawą, na podstawie tego zezwolenia lub przedsiębiorcy, który korzystał z pomocy publicznej udzielonej zgodnie z ustawą i spełnił wszystkie warunki określone w zezwoleniu oraz warunki udzielania pomocy publicznej, o których mowa w przepisach wydanych na podstawie art. 4 ust. 4. ” , dodaje się ust. 6 i 7 w brzmieniu: „
@@ -86,7 +88,7 @@ source: "eli-html"
 
 - **8)** uchyla się art. 19a.
 
-**Art. 2.** W ustawie z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw (Dz. U. Nr 188, poz. 1840, z późn. zm.) w art. 10 dodaje się ust. 11 w brzmieniu: „ 11. W przypadku cofnięcia albo stwierdzenia wygaśnięcia zezwolenia, zmienionego stosownie do przepisów art. 6, przedsiębiorcy, do którego stosuje się art. 5 ust. 2, minister właściwy do spraw gospodarki przekazuje wójtowi (burmistrzowi, prezydentowi miasta) właściwemu dla przedsiębiorcy w sprawach podatku od nieruchomości kopię wydanej decyzji w terminie 14 dni od dnia, w którym decyzja ta stała się prawomocna. ” .
+**Art. 2.** W ustawie z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw (Dz. U. Nr 188, poz. 1840, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 123, poz. 1291 i Nr 273, poz. 2703, z 2005 r. Nr 184, poz. 1539, z 2006 r. Nr 141, poz. 997 oraz z 2013 r. poz. 1646.) w art. 10 dodaje się ust. 11 w brzmieniu: „ 11. W przypadku cofnięcia albo stwierdzenia wygaśnięcia zezwolenia, zmienionego stosownie do przepisów art. 6, przedsiębiorcy, do którego stosuje się art. 5 ust. 2, minister właściwy do spraw gospodarki przekazuje wójtowi (burmistrzowi, prezydentowi miasta) właściwemu dla przedsiębiorcy w sprawach podatku od nieruchomości kopię wydanej decyzji w terminie 14 dni od dnia, w którym decyzja ta stała się prawomocna. ” .
 
 **Art. 3.** W ustawie z dnia 30 maja 2008 r. o zmianie ustawy o specjalnych strefach ekonomicznych (Dz. U. Nr 118, poz. 746) w art. 4 uchyla się ust. 2.
 
@@ -100,5 +102,5 @@ source: "eli-html"
 
 3. Do pomocy publicznej, o której mowa w ust. 2, przepisu art. 12b ust. 4 ustawy wymienionej w art. 1 nie stosuje się.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw oraz ustawę z dnia 30 maja 2008 r. o zmianie ustawy o specjalnych strefach ekonomicznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650 oraz z 2014 r. poz. 7, 290, 538, 598, 642, 811, 1146 i 1198. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650 oraz z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717 oraz z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644 i 1662. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650 oraz z 2014 r. poz. 822, 1133, 1138 i 1146. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 123, poz. 1291 i Nr 273, poz. 2703, z 2005 r. Nr 184, poz. 1539, z 2006 r. Nr 141, poz. 997 oraz z 2013 r. poz. 1646.
 

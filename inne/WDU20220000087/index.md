@@ -31,12 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 8 stycznia 2020 r. w sprawie Rejestru Hipercholesterolemii Rodzinnej (Dz. U. poz. 83), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 16 września 2020 r. zmieniającym rozporządzenie w sprawie Rejestru Hipercholesterolemii Rodzinnej (Dz. U. poz. 1627).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 16 września 2020 r. zmieniającego rozporządzenie w sprawie Rejestru Hipercholesterolemii Rodzinnej (Dz. U. poz. 1627), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 16 września 2020 r. zmieniającego rozporządzenie w sprawie Rejestru Hipercholesterolemii Rodzinnej (Dz. U. poz. 1627), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 8 stycznia 2020 r. w sprawie Rejestru Hipercholesterolemii Rodzinnej
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 8 stycznia 2020 r. w sprawie Rejestru Hipercholesterolemii RodzinnejMinister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 Na podstawie art. 20 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2021 r. poz. 666 i 1292) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -73,7 +71,7 @@ numer PESEL,
 h)
 datę urodzenia,
 i)
-w przypadku osób, które nie mają nadanego numeru PESEL – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość, albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm.),
+w przypadku osób, które nie mają nadanego numeru PESEL – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość, albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 28 z 04.04.2016, str. 18.,
 j)
 adres miejsca zamieszkania lub adres do korespondencji,
 k)
@@ -153,11 +151,10 @@ Dane i identyfikatory, o których mowa w § 4, są przekazywane do rejestru prze
 usługodawcę realizującego świadczenia opieki zdrowotnej z zakresu diagnostyki i leczenia hipercholesterolemii rodzinnej w zakresie, o którym mowa w § 4, za pośrednictwem dedykowanego systemu informatycznego, w terminie do 10. dnia miesiąca następującego po miesiącu, w którym usługodawca wykazał dane świadczenie do rozliczenia;
 2)
 Narodowy Fundusz Zdrowia w zakresie, o którym mowa w § 4 pkt 1 lit. d, g-i, o oraz p (w przypadku zgonów szpitalnych), pkt 2 lit. f oraz g oraz pkt 3 i 4, do systemu, o którym mowa w pkt 1, w terminie do 120 dni po przekazaniu danych przez usługodawcę.
-§ 5a.
+§ 5aDodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 16 września 2020 r. zmieniającego rozporządzenie w sprawie Rejestru Hipercholesterolemii Rodzinnej (Dz. U. poz. 1627), które weszło w życie z dniem 7 października 2020 r..
 Dane i identyfikatory, o których mowa w § 4, obejmujące okres od dnia 1 stycznia 2010 r. do dnia wejścia w życie rozporządzenia, zostaną przekazane do rejestru przez Uniwersyteckie Centrum Kliniczne w Gdańsku nie później niż do dnia 31 grudnia 2022 r.
 § 6.
 Tworzy się Rejestr Hipercholesterolemii Rodzinnej.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 28 z 04.04.2016, str. 18. 3) Dodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 16 września 2020 r. zmieniającego rozporządzenie w sprawie Rejestru Hipercholesterolemii Rodzinnej (Dz. U. poz. 1627), które weszło w życie z dniem 7 października 2020 r. 4) Rozporządzenie zostało ogłoszone w dniu 17 stycznia 2020 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 17 stycznia 2020 r.. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 28 z 04.04.2016, str. 18. 3) Dodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 16 września 2020 r. zmieniającego rozporządzenie w sprawie Rejestru Hipercholesterolemii Rodzinnej (Dz. U. poz. 1627), które weszło w życie z dniem 7 października 2020 r. 4) Rozporządzenie zostało ogłoszone w dniu 17 stycznia 2020 r.
 

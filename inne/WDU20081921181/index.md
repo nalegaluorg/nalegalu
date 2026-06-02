@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-09-04 |
 | Data wydania | 2008-10-28 |
-| Wejście w życie | 2008-10-28 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081921181) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1181/text.pdf) |
+
+Zasady udzielania pożyczki dla zakładów objętych i nieobjętych restrukturyzacją finansową
 
 **Art. 1.** W ustawie z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 78, poz. 684, z 2006 r. Nr 137, poz. 971 oraz z 2007 r. Nr 158, poz. 1104) wprowadza się następujące zmiany:
 
@@ -52,12 +53,15 @@ source: "eli-html"
 - **5)** w art. 36: w ust. 1 po pkt 3 dodaje się pkt 3a w brzmieniu: „
     - **a)**
 
-- **3a)** podpisuje umowę o pożyczkę z zakładem, który spełnia łącznie warunki określone w art. 41a ust. 1; ” , w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) nadzoruje zgodność wykorzystania środków z pożyczki z art. 35 ust. 4 pkt 3, art. 35a ust. 4 albo art. 41b; ” , – pkt 3 i 4 otrzymują brzmienie: „ 3) stawia, za zgodą ministra właściwego do spraw finansów publicznych, pożyczkę w stan natychmiastowej wymagalności, w przypadku, o którym mowa w art. 35 ust. 15, art. 35a ust. 8 albo art. 41c ust. 5; 4) dokonuje oceny spełnienia przez zakład warunków umorzenia, o którym mowa w art. 35 ust. 10 albo ust. 10a, albo ust. 10b oraz 10i, albo art. 35a ust. 6 lub art. 35ba ust. 8 oraz 10 albo art. 41c ust. 2, oraz przekazuje ją do wiadomości ministrowi właściwemu do spraw finansów publicznych. ” ;
+- **3a)** podpisuje umowę o pożyczkę z zakładem, który spełnia łącznie warunki określone w art. 41a ust. 1; ” , w ust. 3: pkt 1 otrzymuje brzmienie: „
     - **b)**
 
+- **1)** nadzoruje zgodność wykorzystania środków z pożyczki z art. 35 ust. 4 pkt 3, art. 35a ust. 4 albo art. 41b; ” , pkt 3 i 4 otrzymują brzmienie: „
+- **3)** stawia, za zgodą ministra właściwego do spraw finansów publicznych, pożyczkę w stan natychmiastowej wymagalności, w przypadku, o którym mowa w art. 35 ust. 15, art. 35a ust. 8 albo art. 41c ust. 5;
+- **4)** dokonuje oceny spełnienia przez zakład warunków umorzenia, o którym mowa w art. 35 ust. 10 albo ust. 10a, albo ust. 10b oraz 10i, albo art. 35a ust. 6 lub art. 35ba ust. 8 oraz 10 albo art. 41c ust. 2, oraz przekazuje ją do wiadomości ministrowi właściwemu do spraw finansów publicznych. ” ;
 - **6)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
 
-#### Rozdział 4a Zasady udzielania pożyczki dla zakładów objętych i nieobjętych restrukturyzacją finansową
+#### Rozdział 4a
 
 **Art. 41a.**
 

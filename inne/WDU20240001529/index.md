@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-15 |
 | Data wydania | 2024-10-15 |
-| Wejście w życie | 2024-10-16 |
 | Ostatnia zmiana | 2024-12-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001529) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1529/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 1 ust. 2 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654 i 1473) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 16 września 2024 r. w sprawie wykazu gmin, w których są stosowane szczególne rozwiązania związane z usuwaniem skutków powodzi z września 2024 r., oraz rozwiązań stosowanych na ich terenie (Dz. U. poz. 1371 i 1484) § 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Rady Ministrów z dnia 16 września 2024 r. w sprawie wykazu gmin, w których są stosowane szczególne rozwiązania związane z usuwaniem skutków powodzi z września 2024 r., oraz rozwiązań stosowanych na ich terenie (Dz. U. poz. 1371 i 1484) § 2 otrzymuje brzmienie: „
 § 2.
 Gminami poszkodowanymi są:
 1)
@@ -66,8 +64,7 @@ w powiecie żagańskim – gmina miejsko-wiejska Szprotawa i gmina wiejska Żaga
 3)
 w województwie opolskim – wszystkie gminy położone na terenie powiatów brzeskiego, głubczyckiego, kędzierzyńsko-kozielskiego, krapkowickiego, nyskiego, opolskiego i prudnickiego;
 4)
-w województwie śląskim – wszystkie gminy położone na terenie powiatów bielskiego, cieszyńskiego, pszczyńskiego i raciborskiego oraz miasto na prawach powiatu Bielsko-Biała.
-” .
+w województwie śląskim – wszystkie gminy położone na terenie powiatów bielskiego, cieszyńskiego, pszczyńskiego i raciborskiego oraz miasto na prawach powiatu Bielsko-Biała. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 16 października 2024 r.
 

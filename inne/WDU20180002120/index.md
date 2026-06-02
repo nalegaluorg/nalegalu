@@ -33,13 +33,11 @@ Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og�
 1)
 ustawą z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498),
 2)
-ustawą z dnia 9 listopada 2017 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego (Dz. U. z 2018 r. poz. 4)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 24 października 2018 r.
+ustawą z dnia 9 listopada 2017 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego (Dz. U. z 2018 r. poz. 4) oraz zmian wynikających z przepisów ogłoszonych przed dniem 24 października 2018 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 40 i art. 43 ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498), które stanowią:
-„
+art. 40 i art. 43 ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498), które stanowią: „
 
 **Art. 40.**
 
@@ -95,9 +93,7 @@ art. 40 i art. 43 ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek
 
 1. Kampania promocyjna służy przedstawianiu i wyjaśnianiu przez komitet treści projektu ustawy, stanowiącego przedmiot inicjatywy ustawodawczej.
 
-2. Kampania promocyjna na rzecz projektu ustawy oraz zbieranie podpisów obywateli popierających projekt ustawy może rozpocząć się po ogłoszeniu, o którym mowa w art. 7 ust. 1.
-
-3. Do prowadzenia kampanii promocyjnej oraz do zbierania podpisów stosuje się odpowiednio przepisy rozdziału 12 działu I ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2018 r. poz. 754, 1000 i 1349).
+2. Kampania promocyjna na rzecz projektu ustawy oraz zbieranie podpisów obywateli popierających projekt ustawy może rozpocząć się po ogłoszeniu, o którym mowa w art. 7 ust. 1. 3W brzmieniu ustalonym przez art. 2 ustawy z dnia 9 listopada 2017 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego (Dz. U. z 2018 r. poz. 4), która weszła w życie z dniem 17 stycznia 2018 r.. Do prowadzenia kampanii promocyjnej oraz do zbierania podpisów stosuje się odpowiednio przepisy rozdziału 12 działu I ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2018 r. poz. 754, 1000 i 1349).
 
 **Art. 9.**
 
@@ -137,9 +133,7 @@ art. 40 i art. 43 ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek
 
 1. W pracach nad projektem ustawy komitet reprezentuje przedstawiciel lub osoba uprawniona do jego zastępstwa, powołana w trybie określonym w art. 5 ust. 3 i art. 6 ust. 2 pkt 3.
 
-2. Przedstawiciel jest uprawniony do udziału w pracach Sejmu i Senatu w trybie i na zasadach określonych odpowiednio w regulaminach Sejmu i Senatu.
-
-**Art. 15.**
+2. Przedstawiciel jest uprawniony do udziału w pracach Sejmu i Senatu w trybie i na zasadach określonych odpowiednio w regulaminach Sejmu i Senatu. Art. 15W brzmieniu ustalonym przez art. 36 ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498), która weszła w życie z dniem 18 lipca 2014 r..
 
 1. Wydatki związane z wykonywaniem inicjatywy ustawodawczej przez obywateli pokrywa komitet.
 
@@ -195,7 +189,7 @@ art. 40 i art. 43 ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek
 
 - **1)** nie dopełnia obowiązku opublikowania sprawozdania finansowego, o którym mowa w art. 17 ust. 2, albo podaje w nim nieprawdziwe dane,
 - **2)** nie dopełnia obowiązku przechowywania dokumentów związanych z finansowaniem wykonywania inicjatywy ustawodawczej, o którym mowa w art. 17 ust. 5,
-- **3)** nie przekazuje instytucji charytatywnej nadwyżki środków finansowych, o której mowa w art. 17 ust. 6 podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
+- **3)** nie przekazuje instytucji charytatywnej nadwyżki środków finansowych, o której mowa w art. 17 ust. 6 – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
 
-**Art. 21.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 21.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 23 lipca 1999 r.. 1) W brzmieniu ustalonym przez art. 2 ustawy z dnia 9 listopada 2017 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego (Dz. U. z 2018 r. poz. 4), która weszła w życie z dniem 17 stycznia 2018 r. 2) W brzmieniu ustalonym przez art. 36 ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498), która weszła w życie z dniem 18 lipca 2014 r. 3) Ustawa została ogłoszona w dniu 23 lipca 1999 r.
 

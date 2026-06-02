@@ -41,22 +41,17 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 26 stycznia 2012 r. zmi
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 31 lipca 2008 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 156, poz. 974), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 31 lipca 2008 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 156, poz. 974), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 1 kwietnia 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 65, poz. 417), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 1 kwietnia 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 65, poz. 417), które stanowią: „
 § 2.
 Do spraw dotyczących przyznania pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia, stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. ” ;
 3)
-§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 sierpnia 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 162, poz. 1092), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 sierpnia 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 162, poz. 1092), które stanowią: „
 § 2.
 Przepisy § 4 ust. 4a i 4b rozporządzenia wymienionego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem stosuje się wyłącznie do refundacji kosztów poniesionych na realizację operacji objętej wnioskiem o przyznanie pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 złożonym nie wcześniej niż w dniu wejścia w życie niniejszego rozporządzenia, z tym że w przypadku kosztów poniesionych przez:
 1)
@@ -64,16 +59,13 @@ podmioty, które są obowiązane do prowadzenia ksiąg rachunkowych, przepisy te
 2)
 pozostałe podmioty przepisy te stosuje się od dnia wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 4)
-§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 stycznia 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 134), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 stycznia 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 134), które stanowią: „
 § 2.
 Jeżeli przekształcenie albo rozwiązanie beneficjenta nastąpiło przed dniem wejścia w życie niniejszego rozporządzenia, następca prawny beneficjenta składa wniosek o przyznanie pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 w terminie 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Tekst jednolity rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 14 lutego 2008 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013
 Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. z 2013 r. poz. 173) zarządza się, co następuje:
 § 1.
@@ -86,7 +78,7 @@ szczegółowe wymagania, jakim powinny odpowiadać wnioski o przyznanie pomocy o
 szczegółowe wymagania, jakim powinna odpowiadać umowa, na podstawie której jest przyznawana pomoc, zwana dalej „umową”;
 4)
 kategorie siły wyższej i wyjątkowe okoliczności, inne niż wymienione w przepisach rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 368 z 23.12.2006, str. 15, z późn. zm.), zwanego dalej „rozporządzeniem nr 1974/2006”, w przypadku wystąpienia których nie jest wymagany zwrot pomocy;
-5)
+5Dodany przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 stycznia 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 134), które weszło w życie z dniem 22 lutego 2012 r.)
 przypadki, w których następcy prawnemu beneficjenta może być przyznana pomoc, oraz warunki i tryb przyznawania tej pomocy.
 § 2.
 Pomoc jest przyznawana:
@@ -94,22 +86,22 @@ Pomoc jest przyznawana:
 gminie;
 2)
 instytucji kultury, dla której organizatorem jest jednostka samorządu terytorialnego;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 31 lipca 2008 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 156, poz. 974), które weszło w życie z dniem 28 sierpnia 2008 r.)
 osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej, działającej na podstawie przepisów o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej, o stosunku Państwa do innych kościołów i związków wyznaniowych oraz o gwarancjach wolności sumienia i wyznania – na operacje, w ramach których są ponoszone koszty określone w § 4 ust. 1 pkt 5, 12, 14–16;
 4)
-organizacji pozarządowej o statusie organizacji pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm.), której cele statutowe są zbieżne z celami działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013.
+organizacji pozarządowej o statusie organizacji pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378.), której cele statutowe są zbieżne z celami działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013.
 § 3.
 1.
 Pomoc jest przyznawana na operację spełniającą wymagania określone w Programie Rozwoju Obszarów Wiejskich na lata 2007–2013, zwanym dalej „Programem”, zapewniającą osiągnięcie i zachowanie celów działania „Odnowa i rozwój wsi” objętego Programem:
 1)
 niefinansowaną z udziałem innych środków publicznych, z wyłączeniem przypadku współfinansowania:
-a)
+aW brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3.)
 z krajowych środków publicznych będących w dyspozycji ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego w ramach Programu Promesa Ministra Kultury i Dziedzictwa Narodowego,
 b)
 z Funduszu Kościelnego,
-c)
+cW brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 sierpnia 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 162, poz. 1092), które weszło w życie z dniem 18 września 2010 r.)
 ze środków własnych jednostek samorządu terytorialnego, zgodnie z przepisami o finansach publicznych,
-d)
+dDodana przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3.)
 z krajowych środków publicznych będących w dyspozycji ministra właściwego do spraw kultury fizycznej i sportu i ministra właściwego do spraw turystyki;
 2)
 realizowaną w miejscowości należącej do:
@@ -119,7 +111,7 @@ b)
 gminy miejsko-wiejskiej, z wyłączeniem miast liczących powyżej 5000 mieszkańców, lub
 c)
 gminy miejskiej, z wyłączeniem miejscowości liczących powyżej 5000 mieszkańców;
-3)
+3Dodany przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 1 kwietnia 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 65, poz. 417), które weszło w życie z dniem 21 kwietna 2010 r.)
 realizowaną w zakresie objętym działalnością statutową podmiotu ubiegającego się o pomoc – w przypadku podmiotów wymienionych w § 2 pkt 2 i 4.
 2.
 Pomoc jest przyznawana, jeżeli:
@@ -132,8 +124,7 @@ zakończenie realizacji operacji i złożenie wniosku o płatność ostateczną,
 a)
 36 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanej w dwóch etapach,
 b)
-24 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanej w jednym etapie
-nie później jednak niż do dnia 30 czerwca 2015 r.;
+24 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanej w jednym etapie – nie później jednak niż do dnia 30 czerwca 2015 r.;
 4)
 płatność ostateczna będzie obejmować nie mniej niż 25% łącznej planowanej kwoty pomocy.
 § 4.
@@ -141,9 +132,9 @@ płatność ostateczna będzie obejmować nie mniej niż 25% łącznej planowane
 Pomoc jest przyznawana w formie refundacji części, związanych z realizacją operacji, kosztów:
 1)
 budowy, przebudowy, remontu lub wyposażania budynków pełniących funkcje rekreacyjne, sportowe i społeczno-kulturalne, w tym świetlic i domów kultury, z wyłączeniem szkół, przedszkoli i żłobków;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 6.)
 budowy, przebudowy, remontu lub wyposażenia obiektów małej architektury lub targowisk;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3.)
 budowy, przebudowy lub remontu przeznaczonych do użytku publicznego ścieżek rowerowych, szlaków pieszych, placów zabaw, miejsc rekreacji oraz obiektów sportowych, z wyłączeniem sal sportowych przeznaczonych wyłącznie dla szkół lub przedszkoli;
 4)
 zakupu towarów służących przedsięwzięciom związanym z kultywowaniem tradycji społeczności lokalnych lub tradycyjnych zawodów;
@@ -161,11 +152,11 @@ rewitalizacji budynków wpisanych do rejestru zabytków lub objętych wojewódzk
 zakupu i odnawiania obiektów charakterystycznych dla danego regionu lub tradycji budownictwa wiejskiego i ich adaptacji na cele publiczne;
 11)
 budowy, przebudowy, remontu lub wyposażania obiektów budowlanych przeznaczonych na cele promocji lokalnych produktów i usług, w tym pawilonów, punktów wystawowych, sal ekspozycyjnych lub witryn;
-12)
+12W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3.)
 odnawiania elewacji zewnętrznych i dachów w budynkach architektury sakralnej wpisanych do rejestru zabytków lub objętych wojewódzką ewidencją zabytków i odnawiania cmentarzy wpisanych do rejestru zabytków;
 13)
 wyburzenia i rozbiórki zdewastowanych obiektów budowlanych w celu uporządkowania terenu w miejscowości, jeżeli niemożliwe jest ich odnowienie i dalsze użytkowanie – w zakresie koniecznym do realizacji operacji wymienionych w pkt 1–12;
-14)
+14W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 3.)
 zakupu materiału siewnego lub nasadzeniowego roślin wieloletnich – koniecznego do realizacji operacji;
 15)
 zakupu sprzętu, materiałów i usług, służących realizacji operacji;
@@ -177,26 +168,25 @@ Koszty, o których mowa w ust. 1, uznaje się za koszty kwalifikowalne, jeżeli:
 zostały poniesione:
 a)
 w formie rozliczenia bezgotówkowego,
-b)
+bW brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 3.)
 od dnia, w którym została zawarta umowa;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 8.)
 dostawy, roboty budowlane i usługi, związane z realizacją operacji, zostały nabyte w trybie przepisów o zamówieniach publicznych, w przypadku gdy beneficjent jest obowiązany stosować te przepisy.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 3..
 W przypadku przyznania pomocy, do kosztów kwalifikowalnych zalicza się również koszty kwalifikowalne poniesione przez wnioskodawcę przed dniem zawarcia umowy, lecz nie wcześniej niż w dniu, w którym został złożony wniosek o przyznanie pomocy, a w przypadku kosztów stanowiących koszty ogólne, nie wcześniej niż w dniu 1 stycznia 2007 r.
 4.
 Refundacji podlegają koszty kwalifikowalne poniesione przez beneficjenta, w wysokości nieprzekraczającej 75% tych kosztów, z tym że dla jednej miejscowości – nie więcej niż 500 000 zł w okresie realizacji Programu.
-4a.
+4aDodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 6..
 W przypadku gdy zdarzenie powodujące poniesienie kosztów kwalifikowalnych:
 1)
 nie zostało uwzględnione w oddzielnym systemie rachunkowości albo
 2)
-do jego identyfikacji nie wykorzystano odpowiedniego kodu rachunkowego
-o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1698/2005”, koszty te podlegają refundacji w wysokości określonej w ust. 4 pomniejszonej o 10%.
-4b.
+do jego identyfikacji nie wykorzystano odpowiedniego kodu rachunkowego – o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1698/2005”, koszty te podlegają refundacji w wysokości określonej w ust. 4 pomniejszonej o 10%.
+4bDodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 6..
 Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego, o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005, odbywa się w ramach prowadzonych ksiąg rachunkowych albo przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu opracowanym i udostępnionym przez samorząd województwa, gdy na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych.
 5.
 Wysokość pomocy nie może być wyższa niż 500 000 zł, także w przypadku operacji realizowanej w więcej niż jednej miejscowości, z tym że kwotę tę dzieli się proporcjonalnie do kosztów realizacji w każdej z tych miejscowości.
-6.
+6W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 8..
 Wysokość pomocy przyznanej na realizację jednej operacji nie może być równa lub niższa niż 25 000 zł, według kalkulacji kosztów określonych we wniosku o przyznanie pomocy.
 § 5.
 1.
@@ -223,7 +213,7 @@ opłat za patenty lub licencje;
 sprawowania nadzoru inwestorskiego lub autorskiego i związane z kierowaniem robotami budowlanymi;
 4)
 przygotowania innych dokumentów niezbędnych do realizacji operacji.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 6..
 Do kosztów kwalifikowalnych zalicza się także podatek od towarów i usług (VAT), na zasadach określonych w art. 71 ust. 3 lit. a rozporządzenia nr 1698/2005.
 § 6.
 1.
@@ -236,7 +226,7 @@ Termin składania wniosków o przyznanie pomocy nie może być krótszy niż 14 
 1.
 Wniosek o przyznanie pomocy składa się bezpośrednio w miejscu określonym w § 6 ust. 1.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 8.
 § 8.
 1.
 Postępowanie w sprawie przyznania pomocy prowadzi właściwy organ samorządu województwa.
@@ -275,15 +265,15 @@ c)
 ocenę mocnych i słabych stron miejscowości, w której będzie realizowana operacja,
 d)
 opis planowanych zadań inwestycyjnych i przedsięwzięć aktywizujących społeczność lokalną w okresie co najmniej 7 lat od dnia przyjęcia planu odnowy miejscowości, w kolejności wynikającej z przyjętych priorytetów rozwoju miejscowości, z podaniem szacunkowych kosztów ich realizacji;
-e)
+eDodana przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 8.)
 opis i charakterystykę obszarów, o których mowa w § 4 ust. 1 pkt 5;
 2)
-uchwały:
-a)
+uchwały:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 8.
+aW brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.)
 zebrania wiejskiego lub rady dzielnicy, lub rady osiedla w sprawie przyjęcia planu odnowy miejscowości podjętą dla każdej miejscowości, w której będzie realizowana operacja, a w przypadku gdy na terenie, na którym będzie realizowana operacja, nie ma możliwości zwołania zebrania wiejskiego lub nie została powołana rada dzielnicy lub rada osiedla – rady gminy,
 b)
 rady gminy w sprawie zatwierdzenia planu odnowy miejscowości,
-c)
+cDodana przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 8.)
 zmieniające uchwały, o których mowa w lit. a i b, jeżeli zostały podjęte.
 3.
 W przypadku sołectw obejmujących kilka miejscowości, plan odnowy miejscowości i uchwała, o której mowa w ust. 2 pkt 2 lit. a, może obejmować wszystkie miejscowości położone na obszarze sołectwa.
@@ -292,22 +282,22 @@ Formularz wniosku o przyznanie pomocy udostępnia się na stronie internetowej u
 § 11.
 1.
 Jeżeli złożony wniosek o przyznanie pomocy jest wypełniony nieprawidłowo lub zawiera braki, wzywa się wnioskodawcę, na piśmie, do usunięcia nieprawidłowości lub braków w terminie 14 dni od dnia doręczenia wezwania.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3..
 Jeżeli wnioskodawca, pomimo wezwania, o którym mowa w ust. 1:
 1)
 nie usunął w terminie żadnych nieprawidłowości lub braków, pomocy nie przyznaje się, o czym wnioskodawcę informuje się na piśmie, podając przyczyny nieprzyznania pomocy;
 2)
 usunął w terminie nie wszystkie nieprawidłowości lub braki, wzywa się go ponownie, na piśmie, do usunięcia pozostałych nieprawidłowości lub braków w terminie 14 dni od dnia doręczenia wezwania.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3..
 Jeżeli wnioskodawca, pomimo wezwania, o którym mowa w ust. 2 pkt 2, nie usunął w terminie pozostałych nieprawidłowości lub braków, pomocy nie przyznaje się, o czym wnioskodawcę informuje się na piśmie, podając przyczyny nieprzyznania pomocy.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 8..
 Złożony wniosek o przyznanie pomocy może być zmieniony przez wnioskodawcę:
 1)
 w wyniku wezwań, o których mowa w ust. 1 lub ust. 2 pkt 2, albo
 2)
 za zgodą właściwego organu samorządu województwa na prośbę wnioskodawcy złożoną w terminie 14 dni od dnia doręczenia wezwań, o których mowa w ust. 1 lub ust. 2 pkt 2.
 § 12.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 8..
 Wniosek o przyznanie pomocy jest rozpatrywany w terminie 4 miesięcy od dnia, w którym upłynął termin określony w § 6 ust. 3.
 2.
 Wezwanie wnioskodawcy do wykonania określonych czynności w toku postępowania w sprawie przyznania pomocy wstrzymuje bieg terminu rozpatrywania wniosku o przyznanie pomocy do czasu wykonania przez wnioskodawcę tych czynności.
@@ -332,7 +322,7 @@ b)
 równe ze średnią w województwie – 1 punkt,
 c)
 niższe od średniej w województwie – 0 punktów;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 8.)
 jeżeli kryterium regionalne:
 a)
 jest spełnione – 2 punkty,
@@ -353,13 +343,13 @@ Po dokonaniu oceny wniosków sporządza się listę operacji w kolejności uzysk
 7.
 Pomoc może być przyznana na:
 1)
-(uchylony);
+(uchylony);Przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 8.
 2)
 operacje, które uzyskały co najmniej 3 punkty.
 § 14.
 1.
 Zatwierdzenia listy operacji, o której mowa w § 13 ust. 6, dokonuje właściwy organ samorządu województwa.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 8..
 Umowy są zawierane w kolejności wynikającej z listy operacji, o której mowa w § 13 ust. 6, w ramach dostępnych środków w danym województwie.
 3.
 Niezwłocznie po zatwierdzeniu, o którym mowa w ust. 1, wyznacza się wnioskodawcy, na piśmie, termin zawarcia umowy, nie dłuższy niż 14 dni od dnia otrzymania wezwania.
@@ -376,7 +366,7 @@ W przypadku nieprzyznania pomocy na podstawie ust. 4, informuje się o tym wnios
 Umowę zawiera się na formularzu opracowanym przez samorząd województwa, zatwierdzonym przez ministra właściwego do spraw rozwoju wsi i udostępnionym na stronach internetowych urzędu marszałkowskiego albo samorządowej jednostki.
 2.
 Poza postanowieniami określonymi w art. 23 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, umowa może zawierać inne postanowienia dotyczące realizacji operacji, w szczególności zobowiązania beneficjenta dotyczące:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 6.)
 osiągnięcia celu operacji i jego zachowania przez 7 lat od dnia przyznania pomocy;
 2)
 ograniczeń lub warunków w zakresie:
@@ -433,7 +423,7 @@ W trakcie rozpatrywania wniosku o płatność można wzywać beneficjenta, na pi
 Wypłaty środków finansowych dokonuje się niezwłocznie po pozytywnym rozpatrzeniu wniosku o płatność, nie później jednak niż w terminie 3 miesięcy od dnia złożenia wniosku.
 2.
 Do trybu rozpatrywania wniosków o płatność stosuje się przepis § 12 ust. 2.
-3.
+3Dodany przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 8..
 Właściwy organ samorządu województwa, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na przedłużenie terminu wykonania przez beneficjenta określonych czynności w toku postępowania w sprawie wypłaty środków finansowych, jednak nie dłużej niż o 3 miesiące.
 § 22.
 W uzasadnionych przypadkach właściwy organ samorządu województwa może wyrazić zgodę na:
@@ -466,8 +456,8 @@ W przypadku działania „Odnowa i rozwój wsi” objętego Programem, ze wzglę
 1)
 następca prawny wnioskodawcy nie może wstąpić do toczącego się postępowania na miejsce wnioskodawcy;
 2)
-(uchylony).
-§ 26a.
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
+§ 26aDodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 W przypadku przekształcenia albo rozwiązania beneficjenta następcy prawnemu beneficjenta, zwanemu dalej „następcą”, może być przyznana pomoc, jeżeli:
 1)
@@ -485,5 +475,5 @@ Wniosek następcy rozpatruje się w terminie 3 miesięcy od dnia jego złożenia
 6.
 Do wniosku następcy i trybu jego rozpatrywania przepisy § 10 ust. 1 pkt 1, 2 i 6 i ust. 4 oraz § 11 ust. 1–3 stosuje się odpowiednio.
 § 27.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 6 marca 2008 r.. 2) Dodany przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 stycznia 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 134), które weszło w życie z dniem 22 lutego 2012 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 31 lipca 2008 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 156, poz. 974), które weszło w życie z dniem 28 sierpnia 2008 r. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378. 5) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 sierpnia 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 162, poz. 1092), które weszło w życie z dniem 18 września 2010 r. 7) Dodana przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 8) Dodany przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 1 kwietnia 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Odnowa i rozwój wsi” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 65, poz. 417), które weszło w życie z dniem 21 kwietna 2010 r. 9) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 6. 10) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 11) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 12) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 3. 13) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 3. 14) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 8. 15) W brzmieniu ustalonym przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 3. 16) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 6. 17) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 8. 18) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 6. 19) Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 8. 20) Dodana przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 8. 21) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 8. 22) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3. 23) Dodana przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 8. 24) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3. 25) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 8. 26) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 8. 27) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 8. 28) Przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 8. 29) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 8. 30) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 6. 31) Dodany przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 8. 32) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 33) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 34) Rozporządzenie zostało ogłoszone w dniu 6 marca 2008 r.
 

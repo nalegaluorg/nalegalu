@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 kwietnia 2004 r. o zmianie ustawy o transporcie kolejowym
+# Ustawaz dnia 20 kwietnia 2004 r. o zmianie ustawy o transporcie kolejowym Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-04-20 |
 | Data wydania | 2004-04-30 |
-| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040920883) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/883/text.pdf) |
 
-– dyrektywy 2001/16/WE z dnia 19 marca 2001 r. w sprawie interoperacyjności transeuropejskiego systemu kolei konwencjonalnej (Dz. Urz. WE L 110, z 20.04.2001 r.).
+-dyrektywy 96/48/WE z dnia 23 lipca 1996 r. w sprawie interoperacyjności transeuropejskiego systemu kolei dużych prędkości (Dz. Urz. WE L 235, z 17.09.1996 r.);
+-dyrektywy 2001/16/WE z dnia 19 marca 2001 r. w sprawie interoperacyjności transeuropejskiego systemu kolei konwencjonalnej (Dz. Urz. WE L 110, z 20.04.2001 r.).
 Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
+Warunki zapewnienia interoperacyjności transeuropejskiego systemu kolei dużych prędkości i transeuropejskiego systemu kolei konwencjonalnej na terytorium Rzeczypospolitej Polskiej
 
 **Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. Nr 86, poz. 789, Nr 170, poz. 1652 i Nr 203, poz. 1966) wprowadza się następujące zmiany:
 
@@ -65,7 +66,7 @@ Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w ninie
 - **37)** „środki publiczne” – środki publiczne w rozumieniu ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. Nr 15, poz. 148, Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851 oraz z 2004 r. Nr 19, poz. 177). ” ;
 - **4)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
 
-#### Rozdział 4a Warunki zapewnienia interoperacyjności transeuropejskiego systemu kolei dużych prędkości i transeuropejskiego systemu kolei konwencjonalnej na terytorium Rzeczypospolitej Polskiej
+#### Rozdział 4a
 
 **Art. 25a.**
 
@@ -245,7 +246,7 @@ Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w ninie
 - **1)** autoryzacją jednostek certyfikujących, jednostek kontrolujących i laboratoriów,
 - **2)** rozpatrywaniem wniosków związanych z niestosowaniem TSI, o których mowa w art. 25f ust. 2,
 - **3)** obowiązkowymi okresowymi sprawdzeniami, o których mowa w art. 25k ust. 1,
-- **4)** rozpatrywaniem spraw, o których mowa w art. 25k ust. 3, pobiera się opłaty.
+- **4)** rozpatrywaniem spraw, o których mowa w art. 25k ust. 3, – pobiera się opłaty.
 
 2. Opłaty, o których mowa w ust. 1, uiszcza wnioskodawca, a w przypadku, o którym mowa w ust. 1 pkt 3 – zarządca infrastruktury albo przewoźnik kolejowy.
 
@@ -258,7 +259,7 @@ Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w ninie
 - **1)** wykaz składników interoperacyjności podsystemów,
 - **2)** zasadnicze wymagania dotyczące interoperacyjności kolei dla podsystemów i składników interoperacyjności,
 - **3)** procedury oceny zgodności podsystemów oraz treść deklaracji weryfikacji zgodności podsystemów,
-- **4)** procedury oceny zgodności składników interoperacyjności oraz treść deklaracji zgodności składników interoperacyjności biorąc pod uwagę wymagania niezbędne dla zapewnienia bezpiecznego i niezakłóconego ruchu pociągów odpowiednio dla transeuropejskiego systemu kolei dużych prędkości i transeuropejskiego systemu kolei konwencjonalnej. ” ;
+- **4)** procedury oceny zgodności składników interoperacyjności oraz treść deklaracji zgodności składników interoperacyjności – biorąc pod uwagę wymagania niezbędne dla zapewnienia bezpiecznego i niezakłóconego ruchu pociągów odpowiednio dla transeuropejskiego systemu kolei dużych prędkości i transeuropejskiego systemu kolei konwencjonalnej. ” ;
 - **5)** w art. 38 po ust. 5 dodaje się ust. 6–8 w brzmieniu: „
 
 6. Ze środków publicznych mogą być finansowane lub współfinansowane wydatki w zakresie zakupu i modernizacji pojazdów kolejowych przeznaczonych do wykonywania przewozów pasażerskich.
@@ -288,8 +289,5 @@ Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w ninie
 - **1)** wydane na podstawie art. 13 ust. 4, art. 14 ust. 4, art. 19, art. 22 ust. 11, art. 41b ust. 3, art. 46, art. 48 ust. 4 i 5 oraz art. 51 ust. 2–4 ustawy, o której mowa w ust. 1, zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 22 ust. 2, art. 23 ust. 4 pkt 1, art. 24 ust. 5, art. 27 ust. 5, art. 28 ust. 3, art. 40 ust. 7, art. 54, art. 59 ust. 6 pkt 1 i 3 oraz art. 62 ust. 2, 3, 5 i 6 niniejszej ustawy, jednak nie dłużej niż do dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej;
 - **2)** wydane na podstawie art. 5 ust. 2, art. 7 ust. 3 i 4, art. 13 ust. 5, art. 16, art. 17 ust. 4 oraz art. 48 ust. 6 ustawy, o której mowa w ust. 1, zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 6 ust. 2, art. 17 ust. 7, art. 20, art. 23 ust. 4 pkt 2, art. 25 oraz art. 59 ust. 8 niniejszej ustawy, jednak nie dłużej niż do dnia 31 grudnia 2004 r. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 1 maja 2004 r., z wyjątkiem art. 1 pkt 9, który wchodzi w życie z dniem 30 kwietnia 2004 r.
-
-- **1)** Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich: – dyrektywy 96/48/WE z dnia 23 lipca 1996 r. w sprawie interoperacyjności transeuropejskiego systemu kolei dużych prędkości (Dz. Urz. WE L 235, z 17.09.1996 r.); – dyrektywy 2001/16/WE z dnia 19 marca 2001 r. w sprawie interoperacyjności transeuropejskiego systemu kolei konwencjonalnej (Dz. Urz. WE L 110, z 20.04.2001 r.). Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
-
+**Art. 2.** Ustawa wchodzi w życie z dniem 1 maja 2004 r., z wyjątkiem art. 1 pkt 9, który wchodzi w życie z dniem 30 kwietnia 2004 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich: – dyrektywy 96/48/WE z dnia 23 lipca 1996 r. w sprawie interoperacyjności transeuropejskiego systemu kolei dużych prędkości (Dz. Urz. WE L 235, z 17.09.1996 r.); – dyrektywy 2001/16/WE z dnia 19 marca 2001 r. w sprawie interoperacyjności transeuropejskiego systemu kolei konwencjonalnej (Dz. Urz. WE L 110, z 20.04.2001 r.). Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
 

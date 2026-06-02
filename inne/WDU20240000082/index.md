@@ -26,20 +26,24 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000082) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/82/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych Rozdział 1 – Przepisy ogólne Rozdział 2 – Ograniczanie przeznaczania gruntów na cele nierolnicze i nieleśne Rozdział 3 – Wyłączanie gruntów z produkcji rolniczej lub leśnej Rozdział 4 – Zapobieganie degradacji gruntów Rozdział 5 – Rekultywacja i zagospodarowanie gruntów Rozdział 5a – Dochody związane z wyłączeniem z produkcji gruntów rolnych Rozdział 6 Rozdział 7 – Kontrola wykonania przepisów ustawy Rozdział 8 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2022 r. poz. 2409), z uwzględnieniem zmian wprowadzonych:
 1)
 ustawą z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688),
 2)
-ustawą z dnia 13 lipca 2023 r. o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu (Dz. U. poz. 1597)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 stycznia 2024 r.
+ustawą z dnia 13 lipca 2023 r. o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu (Dz. U. poz. 1597) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 stycznia 2024 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 78 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688), który stanowi:
-„
+art. 78 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688), który stanowi: „
+Przepisy ogólne
+Ograniczanie przeznaczania gruntów na cele nierolnicze i nieleśne
+Wyłączanie gruntów z produkcji rolniczej lub leśnej
+Zapobieganie degradacji gruntów
+Rekultywacja i zagospodarowanie gruntów
+Dochody związane z wyłączeniem z produkcji gruntów rolnych
 1.
 Dochodami budżetu województwa związanymi z wyłączaniem z produkcji gruntów rolnych są pobierane na podstawie ustawy:
 1)
@@ -55,7 +59,7 @@ odsetki z tytułu należności i opłat, o których mowa w pkt 1–4.
 2.
 Zarząd województwa gromadzi dochody, o których mowa w ust. 1, na wyodrębnionym rachunku bankowym.
 3.
-Dochody, o których mowa w ust. 1, są niepodatkowymi należnościami budżetowymi o charakterze publiczno-prawnym w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.).
+Dochody, o których mowa w ust. 1, są niepodatkowymi należnościami budżetowymi o charakterze publiczno-prawnym w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.).
 4.
 Marszałek województwa jest wierzycielem i organem egzekucyjnym uprawnionym do egzekucji należności za zobowiązania z tytułu dochodów, o których mowa w ust. 1.
 1.
@@ -87,6 +91,26 @@ Dochody, o których mowa w art. 22b, powinny być w pierwszej kolejności przezn
 3.
 Przy przydzielaniu środków uzyskanych z dochodów, o których mowa w art. 22b ust. 1, właścicielom gruntów, na ich wniosek, należy uwzględniać udział własny tych właścicieli w kosztach robót oraz efektywność projektowanych przedsięwzięć.
 (uchylony)
+Kontrola wykonania przepisów ustawy
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Ograniczanie przeznaczania gruntów na cele nierolnicze i nieleśne
+
+#### Rozdział 3 – Wyłączanie gruntów z produkcji rolniczej lub leśnej
+
+#### Rozdział 4 – Zapobieganie degradacji gruntów
+
+#### Rozdział 5 – Rekultywacja i zagospodarowanie gruntów
+
+#### Rozdział 5a – Dochody związane z wyłączeniem z produkcji gruntów rolnych
+
+#### Rozdział 6
+
+#### Rozdział 7 – Kontrola wykonania przepisów ustawy
+
+#### Rozdział 8 – Przepisy przejściowe i końcowe
 
 **Art. 78.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 
@@ -102,7 +126,7 @@ Przy przydzielaniu środków uzyskanych z dochodów, o których mowa w art. 22b 
 
 3. W przypadku stwierdzenia wygaśnięcia decyzji zezwalającej na wyłączenie gruntu z produkcji na podstawie ust. 2 organ, o którym mowa w ust. 2, przekazuje decyzję stwierdzającą wygaśnięcie tej decyzji:
 
-- **1)** właściwemu staroście, który dokonuje w ewidencji gruntów i budynków zmiany: oznaczenia użytku gruntowego z terenów przemysłowych na grunty rolne zabudowane, rodzaju budynków z przemysłowych lub magazynowych na budynki produkcyjne, usługowe i gospodarcze dla rolnictwa jeżeli powierzchnia użytku gruntowego, stanowiącego tereny przemysłowe, w dniu wejścia w życie niniejszej ustawy nie przekraczała w ewidencji gruntów i budynków 1 ha (10 000 m2);
+- **1)** właściwemu staroście, który dokonuje w ewidencji gruntów i budynków zmiany: oznaczenia użytku gruntowego z terenów przemysłowych na grunty rolne zabudowane, rodzaju budynków z przemysłowych lub magazynowych na budynki produkcyjne, usługowe i gospodarcze dla rolnictwa – jeżeli powierzchnia użytku gruntowego, stanowiącego tereny przemysłowe, w dniu wejścia w życie niniejszej ustawy nie przekraczała w ewidencji gruntów i budynków 1 ha (10 000 m2);
     - **a)**
     - **b)**
 
@@ -114,7 +138,7 @@ Przy przydzielaniu środków uzyskanych z dochodów, o których mowa w art. 22b 
 
 **Art. 30.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 14, który wchodzi w życie z dniem 1 stycznia 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa reguluje zasady ochrony gruntów rolnych i leśnych oraz rekultywacji i poprawiania wartości użytkowej gruntów.
 
@@ -124,8 +148,7 @@ Przy przydzielaniu środków uzyskanych z dochodów, o których mowa w art. 22b 
 
 - **1)** określone w ewidencji gruntów jako użytki rolne;
 - **2)** pod stawami rybnymi i innymi zbiornikami wodnymi, służącymi wyłącznie dla potrzeb rolnictwa;
-- **3)** pod wchodzącymi w skład gospodarstw rolnych budynkami mieszkalnymi oraz innymi budynkami i urządzeniami służącymi wyłącznie produkcji rolniczej oraz przetwórstwu rolno-spożywczemu;
-- **3a)** pod budynkami, budowlami i urządzeniami wchodzące w skład biogazowni rolniczej spełniającej warunki określone w art. 4 ust. 1 ustawy z dnia 13 lipca 2023 r. o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu (Dz. U. poz. 1597), a także grunty położone między tymi budynkami, budowlami i urządzeniami lub w bezpośrednim ich sąsiedztwie, tworzące zorganizowaną całość gospodarczą, w tym zajęte pod dojazdy, place składowe, postojowe i manewrowe, śmietniki, miejsca magazynowania odpadów i ogrodzenia, o ile ich łączna powierzchnia nie jest większa niż 1 ha i wchodzą one w skład gospodarstwa rolnego;
+- **3)** pod wchodzącymi w skład gospodarstw rolnych budynkami mieszkalnymi oraz innymi budynkami i urządzeniami służącymi wyłącznie produkcji rolniczej oraz przetwórstwu rolno-spożywczemu; 3aDodany przez art. 10 ustawy z dnia 13 lipca 2023 r. o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu (Dz. U. poz. 1597), która weszła w życie z dniem 11 września 2023 r.) pod budynkami, budowlami i urządzeniami wchodzące w skład biogazowni rolniczej spełniającej warunki określone w art. 4 ust. 1 ustawy z dnia 13 lipca 2023 r. o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu (Dz. U. poz. 1597), a także grunty położone między tymi budynkami, budowlami i urządzeniami lub w bezpośrednim ich sąsiedztwie, tworzące zorganizowaną całość gospodarczą, w tym zajęte pod dojazdy, place składowe, postojowe i manewrowe, śmietniki, miejsca magazynowania odpadów i ogrodzenia, o ile ich łączna powierzchnia nie jest większa niż 1 ha i wchodzą one w skład gospodarstwa rolnego;
 - **4)** pod budynkami i urządzeniami służącymi bezpośrednio do produkcji rolniczej uznanej za dział specjalny, stosownie do przepisów o podatku dochodowym od osób fizycznych i podatku dochodowym od osób prawnych;
 - **5)** parków wiejskich oraz pod zadrzewieniami i zakrzewieniami śródpolnymi, w tym również pod pasami przeciwwietrznymi i urządzeniami przeciwerozyjnymi;
 - **6)** rodzinnych ogrodów działkowych i ogrodów botanicznych;
@@ -189,12 +212,12 @@ Przy przydzielaniu środków uzyskanych z dochodów, o których mowa w art. 22b 
 - **25)** zakładzie przemysłowym – rozumie się przez to osobę, której działalność może powodować utratę lub ograniczenie wartości użytkowej gruntów;
 - **26)** działalności przemysłowej – rozumie się przez to działalność nierolniczą i nieleśną, powodującą utratę albo ograniczenie wartości użytkowej gruntów;
 - **27)** przepływie nienaruszalnym – rozumie się przez to przepływ minimalnej ilości wody, niezbędnej do utrzymania życia biologicznego w cieku wodnym;
-- **28)** ruchach masowych ziemi – rozumie się przez to ruchy masowe ziemi w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2022 r. poz. 2556, z późn. zm.);
-- **29)** (uchylony)
-- **30)** (uchylony)
+- **28)** ruchach masowych ziemi – rozumie się przez to ruchy masowe ziemi w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2022 r. poz. 2556, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 oraz z 2023 r. poz. 877, 1506, 1688, 1719, 1762, 1890, 1963 i 2029.);
+- **29)** (uchylony)Przez art. 14 pkt 1 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688), która weszła w życie z dniem 24 września 2023 r.
+- **30)** (uchylony)Przez art. 14 pkt 1 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688), która weszła w życie z dniem 24 września 2023 r.
 - **31)** zabudowie zagrodowej – rozumie się przez to budynki mieszkalne oraz budynki i urządzenia służące wyłącznie produkcji rolniczej oraz przetwórstwu rolno-spożywczemu, jeżeli są położone na gruntach rolnych i wchodzą w skład gospodarstwa rolnego;
 - **32)** gospodarstwie rolnym – rozumie się przez to gospodarstwo rolne w rozumieniu art. 553 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, 1615, 1890 i 1933);
-- **33)** działalności rolniczej – rozumie się przez to działalność rolniczą w rozumieniu art. 2 ust. 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm.).
+- **33)** działalności rolniczej – rozumie się przez to działalność rolniczą w rozumieniu art. 2 ust. 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658, 825, 1059, 1114, 1130, 1407, 1414, 1429, 1523, 1617, 1667, 1675, 1705, 1723, 1787, 1843 i 2760.).
 
 **Art. 5.**
 
@@ -204,7 +227,7 @@ Przy przydzielaniu środków uzyskanych z dochodów, o których mowa w art. 22b 
 
 3. Zadania marszałka województwa, o których mowa w art. 7 ust. 2 i 4, w art. 22c oraz w art. 26 ust. 1, są zadaniami własnymi samorządu województwa. (uchylony) (uchylony)
 
-#### Rozdział 2 Ograniczanie przeznaczania gruntów na cele nierolnicze i nieleśne
+#### Rozdział 2
 
 **Art. 6.**
 
@@ -221,20 +244,18 @@ Przy przydzielaniu środków uzyskanych z dochodów, o których mowa w art. 22b 
 2. Przeznaczenie na cele nierolnicze i nieleśne:
 
 - **1)** gruntów rolnych stanowiących użytki rolne klas I-III – wymaga uzyskania zgody ministra właściwego do spraw rozwoju wsi, z zastrzeżeniem ust. 2a,
-- **2)** gruntów leśnych stanowiących własność Skarbu Państwa – wymaga uzyskania zgody Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa  lub upoważnionej przez niego osoby,
+- **2)** gruntów leśnych stanowiących własność Skarbu Państwa – wymaga uzyskania zgody Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa Obecnie ministra właściwego do spraw środowiska na podstawie art. 4 ust. 1, art. 5 pkt 23 i art. 28 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512 oraz z 2023 r. poz. 2029), która weszła w życie z dniem 1 kwietnia 1999 r. lub upoważnionej przez niego osoby,
 - **3)** (uchylony)
 - **4)** (uchylony)
-- **5)** pozostałych gruntów leśnych wymaga uzyskania zgody marszałka województwa wyrażanej po uzyskaniu opinii izby rolniczej.
+- **5)** pozostałych gruntów leśnych – wymaga uzyskania zgody marszałka województwa wyrażanej po uzyskaniu opinii izby rolniczej. 2aW brzmieniu ustalonym przez art. 14 pkt 2 lit. a ustawy, o której mowa w odnośniku 3.. Nie wymaga uzyskania zgody ministra właściwego do spraw rozwoju wsi przeznaczenie na cele nierolnicze i nieleśne gruntów rolnych stanowiących użytki rolne klas I-III położonych na obszarze uzupełnienia zabudowy w rozumieniu przepisów o planowaniu i zagospodarowaniu przestrzennym.
 
-2a. Nie wymaga uzyskania zgody ministra właściwego do spraw rozwoju wsi przeznaczenie na cele nierolnicze i nieleśne gruntów rolnych stanowiących użytki rolne klas I-III położonych na obszarze uzupełnienia zabudowy w rozumieniu przepisów o planowaniu i zagospodarowaniu przestrzennym.
-
-3. Wyrażenie zgody, o której mowa w ust. 2 pkt 1, 2 i 5, następuje na wniosek wójta (burmistrza, prezydenta miasta). Do wniosku dotyczącego gruntów leśnych stanowiących własność Skarbu Państwa wójt (burmistrz, prezydent miasta) dołącza opinię dyrektora regionalnej dyrekcji Lasów Państwowych, a w odniesieniu do gruntów parków narodowych – opinię dyrektora parku. Termin na wyrażenie zgody wynosi 60 dni od dnia otrzymania wniosku. Brak wyrażenia zgody albo odmowy wyrażenia zgody w tym terminie uważa się za równoznaczny z wyrażeniem zgody.
+3. Wyrażenie zgody, o której mowa w ust. 2 pkt 1, 2 i 5, następuje na wniosek wójta (burmistrza, prezydenta miasta). Do wniosku dotyczącego gruntów leśnych stanowiących własność Skarbu Państwa wójt (burmistrz, prezydent miasta) dołącza opinię dyrektora regionalnej dyrekcji Lasów Państwowych, a w odniesieniu do gruntów parków narodowych – opinię dyrektora parku. Termin na wyrażenie zgody wynosi 60 dni od dnia otrzymania wniosku.Zdanie trzecie i czwarte dodane przez art. 14 pkt 2 lit. b ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem 1 stycznia 2026 r. Brak wyrażenia zgody albo odmowy wyrażenia zgody w tym terminie uważa się za równoznaczny z wyrażeniem zgody.Zdanie trzecie i czwarte dodane przez art. 14 pkt 2 lit. b ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem 1 stycznia 2026 r.
 
 3a. Stroną w postępowaniu, o którym mowa w ust. 2, jest wójt (burmistrz, prezydent miasta).
 
 4. Do wniosku dotyczącego gruntów, o których mowa w ust. 2 pkt 1 i 2, marszałek województwa dołącza swoją opinię i przekazuje wniosek odpowiedniemu ministrowi w terminie do 30 dni od chwili złożenia wniosku przez wójta (burmistrza, prezydenta miasta).
 
-5. (uchylony)
+5. (uchylony)Przez art. 14 pkt 2 lit. c ustawy, o której mowa w odnośniku 3.
 
 6. (uchylony)
 
@@ -261,17 +282,15 @@ Przy przydzielaniu środków uzyskanych z dochodów, o których mowa w art. 22b 
 
 - **1)** uzasadnienie potrzeby zmiany przeznaczenia gruntów, o których mowa w art. 7 ust. 2;
 - **2)** wykaz powierzchni gruntów, o których mowa w pkt 1, z uwzględnieniem klas bonitacyjnych gruntów rolnych i typów siedliskowych gruntów leśnych;
-- **3)** ekonomiczne uzasadnienie projektowanego przeznaczenia, uwzględniające w szczególności: sumę należności i opłat rocznych za grunty projektowane do przeznaczenia na cele nierolnicze i nieleśne, przewidywany rozmiar strat, które poniesie rolnictwo i leśnictwo w wyniku ujemnego oddziaływania inwestycji lokalizowanych na gruntach projektowanych do przeznaczenia na cele nierolnicze i nieleśne.
+- **3)** ekonomiczne uzasadnienie projektowanego przeznaczenia, uwzględniające w szczególności: sumę należności i opłat rocznych za grunty projektowane do przeznaczenia na cele nierolnicze i nieleśne, przewidywany rozmiar strat, które poniesie rolnictwo i leśnictwo w wyniku ujemnego oddziaływania inwestycji lokalizowanych na gruntach projektowanych do przeznaczenia na cele nierolnicze i nieleśne. 2Ze zmianą wprowadzoną przez art. 14 pkt 3 ustawy, o której mowa w odnośniku 3.. Do wniosku powinna być dołączona mapa gminy lub miasta, z oznaczeniem gruntów zabudowanych, z wyjątkiem gruntów, o których mowa w art. 2 ust. 1 pkt 3 i 4 oraz ust. 2 pkt 1, klas bonitacyjnych gruntów rolnych i typów siedliskowych gruntów leśnych oraz granic gruntów, o których mowa w ust. 1 pkt 1, wykonana w skali takiej jak część graficzna miejscowego planu zagospodarowania przestrzennego. W odniesieniu do gruntów leśnych mapa stanowiąca załącznik do wniosku zawiera treść mapy gospodarczej lasów.
     - **a)**
     - **b)**
-
-2. Do wniosku powinna być dołączona mapa gminy lub miasta, z oznaczeniem gruntów zabudowanych, z wyjątkiem gruntów, o których mowa w art. 2 ust. 1 pkt 3 i 4 oraz ust. 2 pkt 1, klas bonitacyjnych gruntów rolnych i typów siedliskowych gruntów leśnych oraz granic gruntów, o których mowa w ust. 1 pkt 1, wykonana w skali takiej jak część graficzna miejscowego planu zagospodarowania przestrzennego. W odniesieniu do gruntów leśnych mapa stanowiąca załącznik do wniosku zawiera treść mapy gospodarczej lasów.
 
 3. Wniosek, o którym mowa w ust. 1, dotyczący gruntów o obszarze ponad 10 ha na cele inwestycji górniczych, powinien zawierać oprócz danych określonych w ust. 1 i 2 także wariantowe rozwiązania w zakresie rekultywacji i zagospodarowania gruntów w trakcie i po zakończeniu działalności przemysłowej, określające dla każdego wariantu koszty rekultywacji i zagospodarowania oraz straty, które poniesie rolnictwo i leśnictwo.
 
 4. Organ wyrażający zgodę, o którym mowa w art. 7 ust. 2, może w szczególnie uzasadnionym przypadku odstąpić od wymogu przedkładania uzasadnienia ekonomicznego oraz rozwiązań wariantowych, o których mowa w ust. 3. Przepisów rozdziału 2 nie stosuje się do gruntów rolnych położonych w granicach administracyjnych miast.
 
-#### Rozdział 3 Wyłączanie gruntów z produkcji rolniczej lub leśnej
+#### Rozdział 3
 
 **Art. 11.**
 
@@ -279,13 +298,11 @@ Przy przydzielaniu środków uzyskanych z dochodów, o których mowa w art. 22b 
 
 1a. W decyzji dotyczącej wyłączenia z produkcji użytków rolnych wytworzonych z gleb pochodzenia mineralnego i organicznego, zaliczonych do klas I, II, III, IIIa, IIIb, a także gruntów, o których mowa w art. 2 ust. 1 pkt 2–10, oraz gruntów leśnych, przeznaczonych na cele nierolnicze i nieleśne określa się obowiązki związane z wyłączeniem.
 
-1b. Wniosek o wyłączenie z produkcji użytków rolnych klas IV, IVa, IVb, V i VI wytworzonych z gleb pochodzenia organicznego jest wiążący, a decyzja ma charakter deklaratoryjny.
-
-2. W odniesieniu do gruntów wchodzących w skład parków narodowych decyzje, o których mowa w ust. 1 i 1a, wydają dyrektorzy tych parków.
+1b. Wniosek o wyłączenie z produkcji użytków rolnych klas IV, IVa, IVb, V i VI wytworzonych z gleb pochodzenia organicznego jest wiążący, a decyzja ma charakter deklaratoryjny. 2Ze zmianą wprowadzoną przez art. 14 pkt 4 ustawy, o której mowa w odnośniku 3.. W odniesieniu do gruntów wchodzących w skład parków narodowych decyzje, o których mowa w ust. 1 i 1a, wydają dyrektorzy tych parków.
 
 3. Decyzje, o których mowa w ust. 1–2, dotyczące gruntów wymienionych w art. 8, mogą być wydane po dniu faktycznego wyłączenia gruntów z produkcji.
 
-4. Wydanie decyzji, o których mowa w ust. 1 i 2, następuje przed uzyskaniem pozwolenia na budowę albo dokonaniem zgłoszenia budowy lub wykonania robót budowlanych, o których mowa w ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm.).
+4. Wydanie decyzji, o których mowa w ust. 1 i 2, następuje przed uzyskaniem pozwolenia na budowę albo dokonaniem zgłoszenia budowy lub wykonania robót budowlanych, o których mowa w ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762, 1890, 1963 i 2029.).
 
 4a. Decyzje, o których mowa w ust. 1 i 2, dołącza się do wniosku o pozwolenie na budowę albo zgłoszenia budowy lub wykonania robót budowlanych, o których mowa w ustawie z dnia 7 lipca 1994 r. – Prawo budowlane.
 
@@ -379,7 +396,7 @@ Przy przydzielaniu środków uzyskanych z dochodów, o których mowa w art. 22b 
 - **2)** z gleb pochodzenia mineralnego, zaliczonych do klas III, IIIa i IIIb – 233,16 zł;
 - **3)** z gleb pochodzenia mineralnego, zaliczonych do klas IVa i IV – 174,87 zł.
 
-#### Rozdział 4 Zapobieganie degradacji gruntów
+#### Rozdział 4
 
 **Art. 15.**
 
@@ -415,7 +432,7 @@ Przy przydzielaniu środków uzyskanych z dochodów, o których mowa w art. 22b 
 
 4. Rada gminy podejmuje jako zadanie własne uchwałę w przedmiocie zatwierdzenia planu, po uzyskaniu opinii izby rolniczej, a także placówek naukowych lub innych osób upoważnionych przez ministra właściwego do spraw rozwoju wsi w porozumieniu z ministrem właściwym do spraw środowiska. Koszty sporządzenia opinii pokrywa zakład przemysłowy.
 
-5. W razie prowadzenia produkcji w sposób naruszający ustalenia planu, o których mowa w ust. 2 pkt 4 i 9, wójt, w porozumieniu z wojewódzkim inspektorem sanitarnym , nakazuje właścicielowi gruntów w oznaczonym terminie zniszczenie określonych upraw, przemieszczenie zwierząt poza obszar ograniczonego użytkowania lub dokonanie ich uboju.
+5. W razie prowadzenia produkcji w sposób naruszający ustalenia planu, o których mowa w ust. 2 pkt 4 i 9, wójt, w porozumieniu z wojewódzkim inspektorem sanitarnym Obecnie państwowym wojewódzkim inspektorem sanitarnym na podstawie art. 10 ust. 1 pkt 2 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2023 r. poz. 338 i 1688), która weszła w życie z dniem 1 września 1985 r., nakazuje właścicielowi gruntów w oznaczonym terminie zniszczenie określonych upraw, przemieszczenie zwierząt poza obszar ograniczonego użytkowania lub dokonanie ich uboju.
 
 6. Wykonanie decyzji, o której mowa w ust. 5, następuje bez odszkodowania.
 
@@ -437,13 +454,11 @@ Przy przydzielaniu środków uzyskanych z dochodów, o których mowa w art. 22b 
 
 **Art. 19.** Przepisy art. 16–18 stosuje się odpowiednio także do gruntów zdewastowanych i zdegradowanych, położonych poza obszarami ograniczonego użytkowania.
 
-#### Rozdział 5 Rekultywacja i zagospodarowanie gruntów
+#### Rozdział 5
 
 **Art. 20.**
 
-1. Osoba powodująca utratę albo ograniczenie wartości użytkowej gruntów jest obowiązana do ich rekultywacji na własny koszt.
-
-2. Rekultywacji na cele rolnicze gruntów rolnych, zdewastowanych lub zdegradowanych przez nieustalone osoby, w wyniku klęsk żywiołowych lub ruchów masowych ziemi, dokonuje właściwy organ wymieniony w art. 5, przy wykorzystaniu środków budżetu województwa, o których mowa w art. 22b ust. 1, a rekultywacji gruntów leśnych i gruntów przeznaczonych do zalesienia – przy wykorzystaniu środków pochodzących z budżetu państwa, na zasadach określonych w przepisach o lasach.
+1. Osoba powodująca utratę albo ograniczenie wartości użytkowej gruntów jest obowiązana do ich rekultywacji na własny koszt. 2Ze zmianą wprowadzoną przez art. 14 pkt 5 ustawy, o której mowa w odnośniku 3.. Rekultywacji na cele rolnicze gruntów rolnych, zdewastowanych lub zdegradowanych przez nieustalone osoby, w wyniku klęsk żywiołowych lub ruchów masowych ziemi, dokonuje właściwy organ wymieniony w art. 5, przy wykorzystaniu środków budżetu województwa, o których mowa w art. 22b ust. 1, a rekultywacji gruntów leśnych i gruntów przeznaczonych do zalesienia – przy wykorzystaniu środków pochodzących z budżetu państwa, na zasadach określonych w przepisach o lasach.
 
 2a. Rekultywacji na cele inne niż wymienione w ust. 2 pozostałych gruntów zdewastowanych lub zdegradowanych przez nieustalone osoby, w wyniku klęsk żywiołowych lub ruchów masowych ziemi, dokonuje właściwy organ wymieniony w art. 5, przy wykorzystaniu środków pochodzących z budżetu państwa lub środków osób zainteresowanych prowadzeniem działalności na zrekultywowanych gruntach.
 
@@ -481,15 +496,15 @@ Przy przydzielaniu środków uzyskanych z dochodów, o których mowa w art. 22b 
 - **1)** po dniu 30 kwietnia 2007 r. – przepisy ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. z 2020 r. poz. 2187);
 - **2)** przed dniem 30 kwietnia 2007 r. – przepisy ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
-#### Rozdział 5a Dochody związane z wyłączeniem z produkcji gruntów rolnych
+#### Rozdział 5a
 
 #### Rozdział 6
 
-#### Rozdział 7 Kontrola wykonania przepisów ustawy
+#### Rozdział 7
 
 **Art. 26.**
 
-1. Kontrolę stosowania przepisów ustawy sprawują Minister Rolnictwa i Gospodarki Żywnościowej , Minister Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa , marszałkowie województw oraz podmioty wymienione w art. 5 oraz art. 15 ust. 5 i art. 16 ust. 5.
+1. Kontrolę stosowania przepisów ustawy sprawują Minister Rolnictwa i Gospodarki Żywnościowej Obecnie minister właściwy do spraw rozwoju wsi na podstawie art. 4 ust. 1, art. 5 pkt 18 i art. 23 ustawy, o której mowa w odnośniku 5., Minister Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa Obecnie minister właściwy do spraw środowiska na podstawie art. 4 ust. 1, art. 5 pkt 23 i art. 28 ustawy, o której mowa w odnośniku 5., marszałkowie województw oraz podmioty wymienione w art. 5 oraz art. 15 ust. 5 i art. 16 ust. 5.
 
 2. Osoby przeprowadzające kontrolę są uprawnione do:
 
@@ -556,11 +571,11 @@ Przy przydzielaniu środków uzyskanych z dochodów, o których mowa w art. 22b 
 
 **Art. 31.** (uchylony)
 
-#### Rozdział 8 Przepisy przejściowe i końcowe
+#### Rozdział 8
 
 **Art. 32.**
 
-1. Działający na podstawie ustawy z dnia 26 marca 1982 r. o ochronie gruntów rolnych i leśnych (Dz. U. poz. 79) Fundusz Ochrony Gruntów Rolnych staje się Funduszem Ochrony Gruntów Rolnych w rozumieniu niniejszej ustawy.
+1. Działający na podstawie ustawy z dnia 26 marca 1982 r. o ochronie gruntów rolnych i leśnych (Dz. U. poz. 79) Fundusz Ochrony Gruntów Rolnych staje się Funduszem Ochrony Gruntów RolnychZ dniem 31 grudnia 2010 r. Fundusz Ochrony Gruntów Rolnych został zlikwidowany na podstawie art. 90 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. poz. 1241). w rozumieniu niniejszej ustawy.
 
 2. Dochody, o których mowa w art. 12 ust. 1 oraz w art. 28 ust. 1–4, dotyczące gruntów leśnych są dochodami Funduszu Leśnego, o którym mowa w przepisach o lasach. Przepisy art. 31 stosuje się odpowiednio. (pominięty) (pominięty)
 
@@ -570,7 +585,7 @@ Przy przydzielaniu środków uzyskanych z dochodów, o których mowa w art. 22b 
 - **2)** ustalonych należności, opłat rocznych i innych wymienionych w niniejszej ustawie dochodów budżetu województwa lub Funduszu Leśnego,
 - **3)** wielkości obszarów i położenia gruntów zdewastowanych i zdegradowanych, podlegających rekultywacji i zagospodarowaniu,
 - **4)** wyników rekultywacji i zagospodarowania gruntów,
-- **5)** istniejących zasobów i eksploatacji złóż torfów według zasad określonych przez ministra właściwego do spraw rozwoju wsi w porozumieniu z ministrem właściwym do spraw środowiska i z Prezesem Głównego Urzędu Statystycznego.
+- **5)** istniejących zasobów i eksploatacji złóż torfów – według zasad określonych przez ministra właściwego do spraw rozwoju wsi w porozumieniu z ministrem właściwym do spraw środowiska i z Prezesem Głównego Urzędu Statystycznego.
 
 **Art. 34.** W stosunku do gruntów, na których znajdują się zabytki archeologiczne, wojewódzki konserwator zabytków może określić, w drodze decyzji, zakres i sposób eksploatacji takich gruntów.
 
@@ -594,7 +609,7 @@ Przy przydzielaniu środków uzyskanych z dochodów, o których mowa w art. 22b 
 
 6. Niewykonane do dnia wejścia w życie ustawy decyzje ostateczne w sprawach przeciwdziałania erozji gleb pozostają w mocy.
 
-**Art. 36.** Traci moc ustawa z dnia 26 marca 1982 r. o ochronie gruntów rolnych i leśnych (Dz. U. poz. 79, z późn. zm.).
+**Art. 36.** Traci moc ustawa z dnia 26 marca 1982 r. o ochronie gruntów rolnych i leśnych (Dz. U. poz. 79, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1984 r. poz. 185, z 1988 r. poz. 169, z 1990 r. poz. 198, z 1991 r. poz. 444, 446 i 494 oraz z 1994 r. poz. 96.).
 
-**Art. 37.** Ustawa wchodzi w życie po upływie 30 dni od dnia jej ogłoszenia.
+**Art. 37.** Ustawa wchodzi w życie po upływie 30 dni od dnia jej ogłoszeniaUstawa została ogłoszona w dniu 22 lutego 1995 r.. 1) Dodany przez art. 10 ustawy z dnia 13 lipca 2023 r. o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu (Dz. U. poz. 1597), która weszła w życie z dniem 11 września 2023 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 oraz z 2023 r. poz. 877, 1506, 1688, 1719, 1762, 1890, 1963 i 2029. 3) Przez art. 14 pkt 1 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688), która weszła w życie z dniem 24 września 2023 r. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658, 825, 1059, 1114, 1130, 1407, 1414, 1429, 1523, 1617, 1667, 1675, 1705, 1723, 1787, 1843 i 2760. 5) Obecnie ministra właściwego do spraw środowiska na podstawie art. 4 ust. 1, art. 5 pkt 23 i art. 28 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512 oraz z 2023 r. poz. 2029), która weszła w życie z dniem 1 kwietnia 1999 r. 6) W brzmieniu ustalonym przez art. 14 pkt 2 lit. a ustawy, o której mowa w odnośniku 3. 7) Zdanie trzecie i czwarte dodane przez art. 14 pkt 2 lit. b ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem 1 stycznia 2026 r. 8) Przez art. 14 pkt 2 lit. c ustawy, o której mowa w odnośniku 3. 9) Ze zmianą wprowadzoną przez art. 14 pkt 3 ustawy, o której mowa w odnośniku 3. 10) Ze zmianą wprowadzoną przez art. 14 pkt 4 ustawy, o której mowa w odnośniku 3. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762, 1890, 1963 i 2029. 12) Obecnie państwowym wojewódzkim inspektorem sanitarnym na podstawie art. 10 ust. 1 pkt 2 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2023 r. poz. 338 i 1688), która weszła w życie z dniem 1 września 1985 r. 13) Ze zmianą wprowadzoną przez art. 14 pkt 5 ustawy, o której mowa w odnośniku 3. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872. 15) Obecnie minister właściwy do spraw rozwoju wsi na podstawie art. 4 ust. 1, art. 5 pkt 18 i art. 23 ustawy, o której mowa w odnośniku 5. 16) Obecnie minister właściwy do spraw środowiska na podstawie art. 4 ust. 1, art. 5 pkt 23 i art. 28 ustawy, o której mowa w odnośniku 5. 17) Z dniem 31 grudnia 2010 r. Fundusz Ochrony Gruntów Rolnych został zlikwidowany na podstawie art. 90 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. poz. 1241). 18) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1984 r. poz. 185, z 1988 r. poz. 169, z 1990 r. poz. 198, z 1991 r. poz. 444, 446 i 494 oraz z 1994 r. poz. 96. 19) Ustawa została ogłoszona w dniu 22 lutego 1995 r.
 

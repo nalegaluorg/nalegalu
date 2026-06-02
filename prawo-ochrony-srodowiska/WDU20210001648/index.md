@@ -22,23 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-11 |
 | Data wydania | 2021-09-08 |
-| Wejście w życie | 2021-09-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001648) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1648/text.pdf) |
 
-Wytwórcy odpadów komunalnych są obowiązani do selektywnego zbierania wytworzonych przez siebie odpadów komunalnych zgodnie z wymaganiami określonymi w regulaminie oraz w sposób określony w przepisach wydanych na podstawie art. 4a ust. 1.
-” ;
+Obowiązki wytwórców odpadów komunalnych
+Wytwórcy odpadów komunalnych są obowiązani do selektywnego zbierania wytworzonych przez siebie odpadów komunalnych zgodnie z wymaganiami określonymi w regulaminie oraz w sposób określony w przepisach wydanych na podstawie art. 4a ust. 1. ” ;
 8)
 w art. 6:
 a)
-po ust. 1b dodaje się ust. 1c w brzmieniu:
-„
+po ust. 1b dodaje się ust. 1c w brzmieniu: „
 1c.
-Postanowienia umowy, o której mowa w ust. 1 pkt 2, zapewniają odbiór wszystkich frakcji odpadów komunalnych zgodnie z wymaganiami określonymi w regulaminie oraz w sposób określony w przepisach wydanych na podstawie art. 4a ust. 1.
-” ,
+Postanowienia umowy, o której mowa w ust. 1 pkt 2, zapewniają odbiór wszystkich frakcji odpadów komunalnych zgodnie z wymaganiami określonymi w regulaminie oraz w sposób określony w przepisach wydanych na podstawie art. 4a ust. 1. ” ,
 b)
-ust. 5a otrzymuje brzmienie:
-„
+ust. 5a otrzymuje brzmienie: „
 5a.
 Wójt, burmistrz lub prezydent miasta kontroluje:
 1)
@@ -46,16 +42,13 @@ posiadanie umów, o których mowa w ust. 1;
 2)
 zgodność postanowień umów, o których mowa w ust. 1 pkt 2, z wymaganiami określonymi w regulaminie oraz ze sposobem określonym w przepisach wydanych na podstawie art. 4a ust. 1;
 3)
-dowody uiszczania opłat za usługi, o których mowa w ust. 1, lub inny sposób udokumentowania wykonania obowiązków, o których mowa w art. 5 ust. 1 pkt 3b.
-” ,
+dowody uiszczania opłat za usługi, o których mowa w ust. 1, lub inny sposób udokumentowania wykonania obowiązków, o których mowa w art. 5 ust. 1 pkt 3b. ” ,
 c)
-po ust. 5a dodaje się ust. 5b i 5c w brzmieniu:
-„
+po ust. 5a dodaje się ust. 5b i 5c w brzmieniu: „
 5b.
 W przypadku gdy postanowienia umowy, o której mowa w ust. 1 pkt 2, nie spełniają wymagań, o których mowa w ust. 1c, wójt, burmistrz lub prezydent miasta wzywa strony umowy do usunięcia uchybień, w terminie określonym w tym wezwaniu.
 5c.
-Po bezskutecznym upływie terminu, o którym mowa w ust. 5b, umowa, o której mowa w ust. 1 pkt 2, wygasa, a wójt, burmistrz lub prezydent miasta wydaje decyzję, o której mowa w ust. 7.
-” ;
+Po bezskutecznym upływie terminu, o którym mowa w ust. 5b, umowa, o której mowa w ust. 1 pkt 2, wygasa, a wójt, burmistrz lub prezydent miasta wydaje decyzję, o której mowa w ust. 7. ” ;
 9)
 w art. 6c:
 a)
@@ -63,8 +56,7 @@ w ust. 2b wyrazy „przepisów ust. 2a i 2c” zastępuje się wyrazami „przep
 b)
 uchyla się ust. 2c,
 c)
-po ust. 3 dodaje się ust. 3a-3e w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a-3e w brzmieniu: „
 3a.
 Właściciel nieruchomości, na której nie zamieszkują mieszkańcy, może w terminie 60 dni od dnia ogłoszenia uchwały, o której mowa w ust. 2, złożyć wójtowi, burmistrzowi lub prezydentowi miasta pisemne oświadczenie o wyłączeniu się z systemu odbierania odpadów komunalnych zorganizowanego przez gminę na podstawie tej uchwały. W oświadczeniu właściciel nieruchomości wskazuje gminną jednostkę organizacyjną lub przedsiębiorcę, z którymi zawarł umowę, o której mowa w art. 6 ust. 1 pkt 2, oraz dołącza do oświadczenia kopię tej umowy, pod rygorem nieskuteczności oświadczenia. Oświadczenie jest skuteczne od dnia wejścia w życie uchwały, o której mowa w ust. 2, i nie może być odwołane przez okres obowiązywania umowy w sprawie zamówienia publicznego na odbieranie odpadów komunalnych od właścicieli nieruchomości, na których nie zamieszkują mieszkańcy, zawartej po dniu ogłoszenia tej uchwały.
 3b.
@@ -78,24 +70,20 @@ złożenie przez właściciela nieruchomości oświadczenia spełniającego wyma
 3d.
 Wójt, burmistrz lub prezydent miasta jest obowiązany do poinformowania, w szczególności za pośrednictwem środków komunikacji elektronicznej, przedsiębiorców odbierających odpady komunalne od właścicieli nieruchomości, wpisanych do rejestru działalności regulowanej, o którym mowa w art. 9b ust. 2, o zamiarze przeprowadzenia postępowania o udzielenie zamówienia publicznego na odbieranie odpadów komunalnych od właścicieli nieruchomości, na których nie zamieszkują mieszkańcy.
 3e.
-Odwołanie oświadczenia, o którym mowa w ust. 3c pkt 1, oraz oświadczenie, o którym mowa w ust. 3b, są skuteczne od dnia, w którym zaczęła obowiązywać następna umowa w sprawie zamówienia publicznego na odbieranie odpadów komunalnych od właścicieli nieruchomości, na których nie zamieszkują mieszkańcy, i nie mogą być odwołane przez okres obowiązywania tej umowy. Wójt, burmistrz lub prezydent miasta jest obowiązany do zamieszczenia na stronie podmiotowej Biuletynu Informacji Publicznej urzędu gminy, na stronie internetowej urzędu gminy oraz w sposób zwyczajowo przyjęty informacji o terminie obowiązywania umowy w sprawie zamówienia publicznego na odbieranie odpadów komunalnych od właścicieli nieruchomości, na których nie zamieszkują mieszkańcy.
-” ;
+Odwołanie oświadczenia, o którym mowa w ust. 3c pkt 1, oraz oświadczenie, o którym mowa w ust. 3b, są skuteczne od dnia, w którym zaczęła obowiązywać następna umowa w sprawie zamówienia publicznego na odbieranie odpadów komunalnych od właścicieli nieruchomości, na których nie zamieszkują mieszkańcy, i nie mogą być odwołane przez okres obowiązywania tej umowy. Wójt, burmistrz lub prezydent miasta jest obowiązany do zamieszczenia na stronie podmiotowej Biuletynu Informacji Publicznej urzędu gminy, na stronie internetowej urzędu gminy oraz w sposób zwyczajowo przyjęty informacji o terminie obowiązywania umowy w sprawie zamówienia publicznego na odbieranie odpadów komunalnych od właścicieli nieruchomości, na których nie zamieszkują mieszkańcy. ” ;
 10)
-w art. 6d w ust. 4 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu:
-„
+w art. 6d w ust. 4 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
 7)
-obowiązek zagospodarowania odpadów komunalnych zgodnie z hierarchią sposobów postępowania z odpadami.
-” ;
+obowiązek zagospodarowania odpadów komunalnych zgodnie z hierarchią sposobów postępowania z odpadami. ” ;
 11)
-art. 6h otrzymuje brzmienie:
-„
+art. 6h otrzymuje brzmienie: „
 
 **Art. 1.** W ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2021 r. poz. 888) wprowadza się następujące zmiany:
 
 - **1)** w art. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
 
-- **1)** zadania gminy oraz obowiązki: właścicieli nieruchomości, właścicieli lokali w budynku wielolokalowym, w którym ustanowiono odrębną własność lokali, osób, którym służy tytuł prawny do lokalu w budynkach wielolokalowych, osób faktycznie zamieszkujących lub użytkujących te lokale lub osób faktycznie zamieszkujących lub użytkujących lokal należący do spółdzielni mieszkaniowej dotyczące utrzymania czystości i porządku; ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **1)** zadania gminy oraz obowiązki: właścicieli nieruchomości, właścicieli lokali w budynku wielolokalowym, w którym ustanowiono odrębną własność lokali, osób, którym służy tytuł prawny do lokalu w budynkach wielolokalowych, osób faktycznie zamieszkujących lub użytkujących te lokale lub osób faktycznie zamieszkujących lub użytkujących lokal należący do spółdzielni mieszkaniowej – dotyczące utrzymania czystości i porządku; ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
     - **a)**
     - **b)**
     - **b)**
@@ -129,9 +117,11 @@ art. 6h otrzymuje brzmienie:
 5. W przypadku podjęcia uchwały, o której mowa w ust. 1, wspólnota mieszkaniowa lub spółdzielnia mieszkaniowa:
 
 - **1)** składa deklarację o wysokości opłaty za gospodarowanie odpadami komunalnymi – w terminie 14 dni od dnia wejścia w życie tej uchwały,
-- **2)** ponosi opłatę za gospodarowanie odpadami komunalnymi, począwszy od miesiąca, w którym ta uchwała weszła w życie w stosunku do odpadów komunalnych wytworzonych na nieruchomościach zabudowanych budynkami wielolokalowymi, z wyłączeniem odpadów komunalnych wytworzonych w lokalach objętych tą uchwałą. ” ;
-- **4)** w art. 3: w ust. 2: – w pkt 2 po wyrazach „z innymi gminami” dodaje się przecinek i wyrazy „lub wspólnych ze związkiem metropolitalnym”, – po pkt 6a dodaje się pkt 6b w brzmieniu: „ 6b) zapewniają zagospodarowanie odpadów zgodnie z hierarchią sposobów postępowania z odpadami; ” , ust. 2b otrzymuje brzmienie: „
+- **2)** ponosi opłatę za gospodarowanie odpadami komunalnymi, począwszy od miesiąca, w którym ta uchwała weszła w życie – w stosunku do odpadów komunalnych wytworzonych na nieruchomościach zabudowanych budynkami wielolokalowymi, z wyłączeniem odpadów komunalnych wytworzonych w lokalach objętych tą uchwałą. ” ;
+- **4)** w art. 3: w ust. 2: – w pkt 2 po wyrazach „z innymi gminami” dodaje się przecinek i wyrazy „lub wspólnych ze związkiem metropolitalnym”, po pkt 6a dodaje się pkt 6b w brzmieniu: „
     - **a)**
+
+- **6b)** zapewniają zagospodarowanie odpadów zgodnie z hierarchią sposobów postępowania z odpadami; ” , ust. 2b otrzymuje brzmienie: „
     - **b)**
 
 2b. Gmina jest obowiązana utworzyć co najmniej jeden stacjonarny punkt selektywnego zbierania odpadów komunalnych, samodzielnie lub wspólnie z inną gminą lub gminami, lub wspólnie ze związkiem metropolitalnym. ” , po ust. 2c dodaje się ust. 2d w brzmieniu: „
@@ -175,13 +165,13 @@ art. 6h otrzymuje brzmienie:
 
 - **7)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Obowiązki wytwórców odpadów komunalnych
+#### Rozdział 2a
 
 **Art. 6h.** Opłatę za gospodarowanie odpadami komunalnymi są obowiązani ponosić:
 
 - **1)** właściciele nieruchomości, na których zamieszkują mieszkańcy,
 - **2)** osoby wymienione w art. 1 pkt 1 lit. b, jeżeli rada gminy podjęła uchwałę, o której mowa w art. 2a ust. 1,
-- **3)** właściciele nieruchomości, na których nie zamieszkują mieszkańcy, jeżeli rada gminy podjęła uchwałę, o której mowa w art. 6c ust. 2 na rzecz gminy, na terenie której są położone nieruchomości lub lokale. ” ;
+- **3)** właściciele nieruchomości, na których nie zamieszkują mieszkańcy, jeżeli rada gminy podjęła uchwałę, o której mowa w art. 6c ust. 2 – na rzecz gminy, na terenie której są położone nieruchomości lub lokale. ” ;
 - **12)** w art. 6i po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
 1a. W przypadku podjęcia uchwały, o której mowa w art. 2a ust. 1, opłatę za gospodarowanie odpadami komunalnymi po raz pierwszy uiszcza się za miesiąc, w którym ta uchwała weszła w życie. ” ;
@@ -189,7 +179,7 @@ art. 6h otrzymuje brzmienie:
 - **13)** w art. 6j: w ust. 1 pkt 3 otrzymuje brzmienie: „
     - **a)**
 
-- **3)** powierzchni użytkowej lokalu mieszkalnego w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2020 r. poz. 1333, z późn. zm.) ” , w ust. 2 skreśla się wyraz „jedną”, ust. 2a i 2b otrzymują brzmienie: „
+- **3)** powierzchni użytkowej lokalu mieszkalnego w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2020 r. poz. 1333, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2127 i 2320 oraz z 2021 r. poz. 11, 234, 282 i 784.) ” , w ust. 2 skreśla się wyraz „jedną”, ust. 2a i 2b otrzymują brzmienie: „
     - **b)**
     - **c)**
 
@@ -210,7 +200,7 @@ art. 6h otrzymuje brzmienie:
 
 - **1)** wyboru przez radę gminy metody ustalenia opłaty za gospodarowanie odpadami komunalnymi, o której mowa w ust. 1 pkt 2,
 - **2)** wyboru przez radę gminy metody ustalenia opłaty za gospodarowanie odpadami komunalnymi, o której mowa w ust. 2, i zróżnicowania stawki opłaty ze względu na ilość zużytej wody w gospodarstwie domowym,
-- **3)** ustalenia opłaty na podstawie ust. 3a rada gminy w uchwale, o której mowa w art. 6k ust. 1, określa sposób ustalania ilości zużytej wody na potrzeby ustalania wysokości opłaty za gospodarowanie odpadami komunalnymi, w szczególności sposób ustalania ilości zużytej wody w przypadku braku wodomierza lub w przypadku nieruchomości, dla których brak jest odpowiednich danych dotyczących ilości zużytej wody, lub odliczania wody zużytej na określone cele. ” , po ust. 3e dodaje się ust. 3f w brzmieniu: „
+- **3)** ustalenia opłaty na podstawie ust. 3a – rada gminy w uchwale, o której mowa w art. 6k ust. 1, określa sposób ustalania ilości zużytej wody na potrzeby ustalania wysokości opłaty za gospodarowanie odpadami komunalnymi, w szczególności sposób ustalania ilości zużytej wody w przypadku braku wodomierza lub w przypadku nieruchomości, dla których brak jest odpowiednich danych dotyczących ilości zużytej wody, lub odliczania wody zużytej na określone cele. ” , po ust. 3e dodaje się ust. 3f w brzmieniu: „
     - **i)**
 
 3f. W przypadku nieruchomości, na której zamieszkują mieszkańcy, opłata za gospodarowanie odpadami komunalnymi ustalana na podstawie metody, o której mowa w ust. 1 pkt 2, nie może wynosić więcej niż 7,8% przeciętnego miesięcznego dochodu rozporządzalnego na 1 osobę ogółem za gospodarstwo domowe. ” ;
@@ -218,9 +208,10 @@ art. 6h otrzymuje brzmienie:
 - **14)** w art. 6k: w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
     - **a)**
 
-- **3)** ustali stawkę opłaty za m3zużytej wody – w przypadku wyboru metody ustalania opłaty za gospodarowanie odpadami komunalnymi, o której mowa w art. 6j ust. 3a. ” , w ust. 2a: – w pkt 3 wyrazy „powierzchni lokalu mieszkalnego” zastępuje się wyrazami „powierzchni użytkowej lokalu mieszkalnego w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane”, – pkt 5 otrzymuje brzmienie: „ 5) w przypadku metody, o której mowa w art. 6j ust. 3 – 1,3% przeciętnego miesięcznego dochodu rozporządzalnego na 1 osobę ogółem za pojemniki lub worki o pojemności 120 I przeznaczone do zbierania odpadów komunalnych na terenie nieruchomości; za pojemniki lub worki o mniejszej lub większej pojemności stawki opłat ustala się w wysokości proporcjonalnej do ich pojemności. ” ;
+- **3)** ustali stawkę opłaty za m3zużytej wody – w przypadku wyboru metody ustalania opłaty za gospodarowanie odpadami komunalnymi, o której mowa w art. 6j ust. 3a. ” , w ust. 2a: – w pkt 3 wyrazy „powierzchni lokalu mieszkalnego” zastępuje się wyrazami „powierzchni użytkowej lokalu mieszkalnego w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane”, pkt 5 otrzymuje brzmienie: „
     - **b)**
 
+- **5)** w przypadku metody, o której mowa w art. 6j ust. 3 – 1,3% przeciętnego miesięcznego dochodu rozporządzalnego na 1 osobę ogółem za pojemniki lub worki o pojemności 120 I przeznaczone do zbierania odpadów komunalnych na terenie nieruchomości; za pojemniki lub worki o mniejszej lub większej pojemności stawki opłat ustala się w wysokości proporcjonalnej do ich pojemności. ” ;
 - **15)** w art. 6m: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -246,7 +237,7 @@ art. 6h otrzymuje brzmienie:
 
 - **1)** właściciele nieruchomości, na których zamieszkują mieszkańcy,
 - **2)** osoby wymienione w art. 1 pkt 1 lit. b, jeżeli rada gminy podjęła uchwałę, o której mowa w art. 2a ust. 1,
-- **3)** właściciele nieruchomości, na których nie zamieszkują mieszkańcy, jeżeli rada gminy podjęła uchwałę, o której mowa w art. 6c ust. 2, a właściciele nieruchomości nie złożyli skutecznego oświadczenia, o którym mowa w art. 6c ust. 3b wobec których została wydana decyzja, o której mowa w ust. 1. ” ;
+- **3)** właściciele nieruchomości, na których nie zamieszkują mieszkańcy, jeżeli rada gminy podjęła uchwałę, o której mowa w art. 6c ust. 2, a właściciele nieruchomości nie złożyli skutecznego oświadczenia, o którym mowa w art. 6c ust. 3b – wobec których została wydana decyzja, o której mowa w ust. 1. ” ;
 - **17)** w art. 6q po ust. 1 dodaje się ust. 11wbrzmieniu: „
 
 11. Zarząd związku międzygminnego, o którym mowa w ust. 1, może upoważnić członków zarządu związku międzygminnego lub innych pracowników jednostki obsługującej zarząd związku międzygminnego do załatwiania indywidualnych spraw z zakresu opłat za gospodarowanie odpadami komunalnymi. ” ;
@@ -283,7 +274,7 @@ art. 6h otrzymuje brzmienie:
 
 - **b)**
 
-2b. Kto wbrew obowiązkowi określonemu w art. 2a ust. 5 albo art. 6m ust. 1, 11 lub 2 nie składa deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi – podlega karze grzywny. ” . W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, z późn. zm.) wprowadza się następujące zmiany:
+2b. Kto wbrew obowiązkowi określonemu w art. 2a ust. 5 albo art. 6m ust. 1, 11 lub 2 nie składa deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi – podlega karze grzywny. ” . W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802, 868, 1047, 1162, 1535 i 1642.) wprowadza się następujące zmiany:
 
 - **1)** w art. 115a ust. 1 otrzymuje brzmienie: „
 
@@ -338,9 +329,12 @@ art. 6h otrzymuje brzmienie:
 2. Kto nie dopełnia ciążących na nim obowiązków w zakresie:
 
 - **1)** posiadania w trakcie transportu odpadów potwierdzenia wygenerowanego z BDO, zgodnie z art. 69 ust. 1a,
-- **2)** posiadania w trakcie transportu odpadów komunalnych potwierdzenia wygenerowanego z BDO, zgodnie z art. 71a ust. 3 podlega karze grzywny. ” ;
-- **12)** w art. 194: w ust. 1: – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) zlecanie wykonywania obowiązku gospodarowania odpadami podmiotom, które nie uzyskały wymaganych decyzji lub wymaganego wpisu do rejestru, wbrew przepisom art. 27 ust. 2; ” , – po pkt 5a dodaje się pkt 5b w brzmieniu: „ 5b) nieprowadzenie ewidencji odpadów albo prowadzenie tej ewidencji w sposób nieterminowy lub niezgodnie ze stanem rzeczywistym; ” , ust. 2 i 3 otrzymują brzmienie: „
+- **2)** posiadania w trakcie transportu odpadów komunalnych potwierdzenia wygenerowanego z BDO, zgodnie z art. 71a ust. 3 – podlega karze grzywny. ” ;
+- **12)** w art. 194: w ust. 1: po pkt 3 dodaje się pkt 3a w brzmieniu: „
     - **a)**
+
+- **3a)** zlecanie wykonywania obowiązku gospodarowania odpadami podmiotom, które nie uzyskały wymaganych decyzji lub wymaganego wpisu do rejestru, wbrew przepisom art. 27 ust. 2; ” , po pkt 5a dodaje się pkt 5b w brzmieniu: „
+- **5b)** nieprowadzenie ewidencji odpadów albo prowadzenie tej ewidencji w sposób nieterminowy lub niezgodnie ze stanem rzeczywistym; ” , ust. 2 i 3 otrzymują brzmienie: „
     - **b)**
 
 2. Przepisów ust. 1 i 4 nie stosuje się, w przypadku gdy za naruszenie może być ustalona opłata podwyższona, o której mowa w art. 293 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
@@ -390,6 +384,6 @@ art. 6h otrzymuje brzmienie:
 **Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 3 pkt 14, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 1 pkt 1 lit. a, pkt 3, 6, 7 i 13 lit. f oraz pkt 21–24, które wchodzą w życie z dniem 1 stycznia 2022 r.
+- **2)** art. 1 pkt 1 lit. a, pkt 3, 6, 7 i 13 lit. f oraz pkt 21–24, które wchodzą w życie z dniem 1 stycznia 2022 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2127 i 2320 oraz z 2021 r. poz. 11, 234, 282 i 784. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802, 868, 1047, 1162, 1535 i 1642.
 
 

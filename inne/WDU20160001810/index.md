@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-06 |
 | Data wydania | 2016-11-04 |
-| Wejście w życie | 2016-11-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001810) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1810/text.pdf) |
 
@@ -91,7 +90,7 @@ source: "eli-html"
     - **i)**
     - **j)**
 
-- **4)** dotyczące uprawnionych do świadczeń z ubezpieczeń społecznych oraz świadczeń wypłacanych przez Zakład na mocy odrębnych przepisów: numer PESEL, identyfikator miejscowości według krajowego rejestru urzędowego podziału terytorialnego kraju (TERYT) adresu zamieszkania – do najniższego posiadanego poziomu, stopień niezdolności do pracy, symbol świadczenia, wysokość świadczenia, wysokość dodatków przysługujących do świadczenia w celu niezbędnym do wykonywania ustawowych zadań ministra właściwego do spraw finansów publicznych oraz podległych mu i nadzorowanych przez niego jednostek, zmierzających do skutecznego poboru należności podatkowych i weryfikacji danych własnych oraz zadań analityczno-sprawozdawczych. ” .
+- **4)** dotyczące uprawnionych do świadczeń z ubezpieczeń społecznych oraz świadczeń wypłacanych przez Zakład na mocy odrębnych przepisów: numer PESEL, identyfikator miejscowości według krajowego rejestru urzędowego podziału terytorialnego kraju (TERYT) adresu zamieszkania – do najniższego posiadanego poziomu, stopień niezdolności do pracy, symbol świadczenia, wysokość świadczenia, wysokość dodatków przysługujących do świadczenia – w celu niezbędnym do wykonywania ustawowych zadań ministra właściwego do spraw finansów publicznych oraz podległych mu i nadzorowanych przez niego jednostek, zmierzających do skutecznego poboru należności podatkowych i weryfikacji danych własnych oraz zadań analityczno-sprawozdawczych. ” .
     - **a)**
     - **b)**
     - **c)**

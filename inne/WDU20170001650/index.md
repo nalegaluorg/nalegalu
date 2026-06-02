@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 25 sierpnia 2017 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Działania informacyjne i promocyjne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 25 sierpnia 2017 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Działania informacyjne i promocyjne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-25 |
 | Data wydania | 2017-08-31 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001650) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1650/text.pdf) |
 
@@ -33,19 +32,15 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 8 czerwca 2009 r. w sp
 1)
 w § 2 uchyla się pkt 1;
 2)
-w § 4 ust. 4 otrzymuje brzmienie:
-„
+w § 4 ust. 4 otrzymuje brzmienie: „
 4.
-Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego dla wszystkich transakcji związanych z operacją, o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005, odbywa się w ramach prowadzonych ksiąg rachunkowych albo przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu opracowanym i udostępnionym przez Krajowy Ośrodek Wsparcia Rolnictwa, zwany dalej „Krajowym Ośrodkiem”, gdy na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych.
-” ;
+Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego dla wszystkich transakcji związanych z operacją, o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005, odbywa się w ramach prowadzonych ksiąg rachunkowych albo przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu opracowanym i udostępnionym przez Krajowy Ośrodek Wsparcia Rolnictwa, zwany dalej „Krajowym Ośrodkiem”, gdy na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych. ” ;
 3)
-w § 5 ust. 1 i 2 otrzymują brzmienie:
-„
+w § 5 ust. 1 i 2 otrzymują brzmienie: „
 1.
 Dyrektor Generalny Krajowego Ośrodka podaje do publicznej wiadomości, na stronie internetowej administrowanej przez Krajowy Ośrodek, informację o możliwości składania wniosków o przyznanie pomocy.
 2.
-Wniosek o przyznanie pomocy składa się w biurze Krajowego Ośrodka, zwanym dalej „Centralą Krajowego Ośrodka”, po upływie 14 dni od dnia podania do publicznej wiadomości informacji, o której mowa w ust. 1. Formularz wniosku o przyznanie pomocy jest udostępniony na stronie internetowej administrowanej przez Krajowy Ośrodek.
-” ;
+Wniosek o przyznanie pomocy składa się w biurze Krajowego Ośrodka, zwanym dalej „Centralą Krajowego Ośrodka”, po upływie 14 dni od dnia podania do publicznej wiadomości informacji, o której mowa w ust. 1. Formularz wniosku o przyznanie pomocy jest udostępniony na stronie internetowej administrowanej przez Krajowy Ośrodek. ” ;
 4)
 w § 6 w ust. 1 uchyla się pkt 1;
 5)
@@ -53,12 +48,9 @@ użyty w § 6 ust. 3, § 8 ust. 1, ust. 2 w części wspólnej, ust. 3 i 4, ust.
 6)
 użyte w § 7 ust. 2, § 10 ust. 2 pkt 4 oraz § 11 ust. 3 wyrazy „centrali Agencji” zastępuje się wyrazami „Centrali Krajowego Ośrodka”;
 7)
-w § 11 ust. 6 otrzymuje brzmienie:
-„
+w § 11 ust. 6 otrzymuje brzmienie: „
 6.
-Agencja Restrukturyzacji i Modernizacji Rolnictwa dokonuje wypłaty środków finansowych z tytułu pomocy na rachunek bankowy wskazany przez grupę producentów, w terminie 30 dni od dnia otrzymania z Krajowego Ośrodka polecenia wypłaty pomocy.
-” .
+Agencja Restrukturyzacji i Modernizacji Rolnictwa dokonuje wypłaty środków finansowych z tytułu pomocy na rachunek bankowy wskazany przez grupę producentów, w terminie 30 dni od dnia otrzymania z Krajowego Ośrodka polecenia wypłaty pomocy. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 

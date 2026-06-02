@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 kwietnia 2023 r. o zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
+# Ustawa z dnia 14 kwietnia 2023 r. o zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 28 sierpnia 1997 r. o zatrudnianiu osób pozbawionych wolności, ustawę z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, ustawę z dnia 2 grudnia 2021 r. o wsparciu przygotowania III Igrzysk Europejskich w 2023 roku, ustawę z dnia 17 grudnia 2021 r. o ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2022–2025”, o ustanowieniu „Programu modernizacji Służby Więziennej w latach 2022–2025” oraz o zmianie ustawy o Policji i niektórych innych ustaw oraz ustawę z dnia 22 lipca 2022 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-04-14 |
 | Data wydania | 2023-06-02 |
-| Wejście w życie | 2023-06-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001053) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1053/text.pdf) |
 
@@ -86,7 +85,7 @@ source: "eli-html"
 - **1)** ustania stosunku służbowego albo przeniesienia do służby w innej miejscowości;
 - **2)** zakończenia okresu służby przygotowawczej.
 
-3. Jeżeli funkcjonariusz nie zwolni kwatery tymczasowej w terminie, o którym mowa w ust. 2, o jej opróżnieniu rozstrzyga się w drodze rozkazu personalnego. W takim przypadku opróżnienie kwatery tymczasowej następuje na podstawie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.).
+3. Jeżeli funkcjonariusz nie zwolni kwatery tymczasowej w terminie, o którym mowa w ust. 2, o jej opróżnieniu rozstrzyga się w drodze rozkazu personalnego. W takim przypadku opróżnienie kwatery tymczasowej następuje na podstawie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614 i 852.).
 
 **Art. 191.** Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy tryb przydziału i opróżniania lokali mieszkalnych i kwater tymczasowych, szczegółowe warunki odpłatności za zajmowanie kwater tymczasowych, wzór wniosku o przydział lokalu mieszkalnego i kwatery tymczasowej, a także dokument przyjęcia i zdania przez funkcjonariusza lokalu mieszkalnego lub kwatery tymczasowej, mając na względzie zapewnienie sprawności postępowania w sprawach dotyczących przydziału i opróżniania lokali mieszkalnych i kwater tymczasowych oraz terminowości uiszczania opłat ponoszonych przez funkcjonariusza z tytułu zajmowania kwatery tymczasowej. ” ;
 
@@ -144,6 +143,6 @@ source: "eli-html"
 **Art. 12.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 6, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 1, art. 2 pkt 6 i art. 7, które wchodzą w życie z dniem 1 września 2023 r.
+- **2)** art. 1, art. 2 pkt 6 i art. 7, które wchodzą w życie z dniem 1 września 2023 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 28 sierpnia 1997 r. o zatrudnianiu osób pozbawionych wolności, ustawę z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, ustawę z dnia 2 grudnia 2021 r. o wsparciu przygotowania III Igrzysk Europejskich w 2023 roku, ustawę z dnia 17 grudnia 2021 r. o ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2022–2025”, o ustanowieniu „Programu modernizacji Służby Więziennej w latach 2022–2025” oraz o zmianie ustawy o Policji i niektórych innych ustaw oraz ustawę z dnia 22 lipca 2022 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614 i 852.
 
 

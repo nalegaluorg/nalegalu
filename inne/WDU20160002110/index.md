@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-20 |
 | Data wydania | 2016-12-22 |
-| Wejście w życie | 2016-12-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002110) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2110/text.pdf) |
 
@@ -48,7 +47,11 @@ Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z m
 
 ## Załącznik nr 1 — – Przeniesienia planowanych wydatków budżetu państwa
 
-Część Dział Rozdział Paragraf Wyszczególnienie Kwota w zł Zmniejszenie Zwiększenie 1 2 3 4 5 6 7 36 Skarb Państwa 117 095 750 Administracja publiczna 117 095 75001 Urzędy naczelnych i centralnych organów administracji rządowej 117 095 4020 Wynagrodzenia osobowe członków korpusu służby cywilnej 96 425 4110 Składki naubezpieczeniaspołeczne 16 576 4120 Składki na Fundusz Pracy 2 362 4440 Odpisy na zakładowy fundusz świadczeń socjalnych 1 732 47 Energia 117 095 750 Administracja publiczna 117 095 75001 Urzędy naczelnych i centralnych organów administracji rządowej 117 095 4020 Wynagrodzenia osobowe członków korpusu służby cywilnej 96 425 4110 Składki naubezpieczeniaspołeczne 16 576 4120 Składki na Fundusz Pracy 2 362 4440 Odpisy na zakładowy fundusz świadczeń socjalnych 1 732
+Część Dział Rozdział Paragraf Wyszczególnienie Kwota w zł Zmniejszenie Zwiększenie 1 2 3 4 5 6 7 36 Skarb Państwa 117 095 750 Administracja publiczna 117 095 75001 Urzędy naczelnych i centralnych organów administracji rządowej 117 095 4020 Wynagrodzenia osobowe członków korpusu służby cywilnej 96 425 4110 Składki na
+ubezpieczenia
+społeczne 16 576 4120 Składki na Fundusz Pracy 2 362 4440 Odpisy na zakładowy fundusz świadczeń socjalnych 1 732 47 Energia 117 095 750 Administracja publiczna 117 095 75001 Urzędy naczelnych i centralnych organów administracji rządowej 117 095 4020 Wynagrodzenia osobowe członków korpusu służby cywilnej 96 425 4110 Składki na
+ubezpieczenia
+społeczne 16 576 4120 Składki na Fundusz Pracy 2 362 4440 Odpisy na zakładowy fundusz świadczeń socjalnych 1 732
 
 ## Załącznik nr 2 — – Przeniesienia kwot wynagrodzeń
 

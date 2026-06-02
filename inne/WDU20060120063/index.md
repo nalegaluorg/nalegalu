@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 grudnia 2005 r. o zmianie ustawy o transporcie kolejowym oraz o zmianie innych ustaw
+# Ustawaz dnia 16 grudnia 2005 r. o zmianie ustawy o transporcie kolejowym oraz o zmianie innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia:
 
 | Pole | Wartość |
 |---|---|
@@ -22,24 +22,29 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-12-16 |
 | Data wydania | 2006-01-25 |
-| Wejście w życie | 2006-02-09 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060120063) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/63/text.pdf) |
 
-Treść ustawy Art. 1. Art. 2. Art. 3. Art. 4. Art. 5. Art. 6. Art. 7.
-Załącznik – Usługi, które mają / mogą być świadczone na rzecz przewoźników kolejowych
-2)
-dyrektywy 2004/51/WE Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. zmieniającej dyrektywę Rady 91/440/EWG w sprawie rozwoju kolei wspólnotowych (Dz. Urz. WE L 164 z 30.04.2004);
-3)
-dyrektywy 2001/13/WE Parlamentu Europejskiego i Rady z dnia 26 lutego 2001 r. zmieniającej dyrektywę Rady 95/18/WE w sprawie przyznawania licencji przedsiębiorstwom kolejowym (Dz. Urz. WE L 075 z 15.03.2001).
-Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2004 r. zamieszczone w niniejszej ustawie dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
+dyrektywy 2001/14/WE Parlamentu Europejskiego i Rady z dnia 26 lutego 2001 r. w sprawie alokacji zdolności przepustowej infrastruktury kolejowej i pobierania opłat za użytkowanie infrastruktury kolejowej oraz przyznawanie świadectw bezpieczeństwa(Dz. Urz. WE L 075 z 15.03.2001);
+Budowa i przebudowa linii kolejowych określonych w Narodowym Planie Rozwoju
 
-**Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. Nr 86, poz. 789, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.**
 
-- **1)** art. 2 otrzymuje brzmienie: „
+**Art. 2.**
 
-**Art. 2.** Przepisy ustawy stosuje się także do:
+**Art. 3.**
 
+**Art. 4.**
+
+**Art. 5.**
+
+**Art. 6.**
+
+**Art. 7.** Załącznik – Usługi, które mają / mogą być świadczone na rzecz przewoźników kolejowych
+
+- **2)** dyrektywy 2004/51/WE Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. zmieniającej dyrektywę Rady 91/440/EWG w sprawie rozwoju kolei wspólnotowych (Dz. Urz. WE L 164 z 30.04.2004);
+- **3)** dyrektywy 2001/13/WE Parlamentu Europejskiego i Rady z dnia 26 lutego 2001 r. zmieniającej dyrektywę Rady 95/18/WE w sprawie przyznawania licencji przedsiębiorstwom kolejowym (Dz. Urz. WE L 075 z 15.03.2001). Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2004 r. zamieszczone w niniejszej ustawie dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne. Niniejszą ustawą zmienia się: ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych oraz ustawę z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”. W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. Nr 86, poz. 789, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652 i Nr 203, poz. 1966, z 2004 r. Nr 92, poz. 883, Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808 oraz z 2005 r. Nr 157, poz. 1314, Nr 163, poz. 1362 i Nr 169, poz. 1420.) wprowadza się następujące zmiany:
+- **1)** art. 2 otrzymuje brzmienie: „ Przepisy ustawy stosuje się także do:
 - **1)** metra, z wyjątkiem rozdziałów 2, 2a, 4a-9 i 12 oraz art. 13 ust. 1; przepisy rozdziału 10 stosuje się odpowiednio;
 - **2)** bocznic kolejowych, z wyjątkiem rozdziałów 4a, 6–8 i 10;
 - **3)** infrastruktury kolejowej obejmującej linie kolejowe o szerokości torów mniejszej niż 1 435 mm i przewoźników kolejowych korzystających z tej infrastruktury kolejowej, z wyjątkiem rozdziałów 4a, 6–8, art. 5 ust. 3–6, art. 9, art. 13 ust. 1 oraz art. 59–64. ” ;
@@ -67,7 +72,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 
 - **4)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Budowa i przebudowa linii kolejowych określonych w Narodowym Planie Rozwoju
+#### Rozdział 2a
 
 **Art. 9a.** Przepisy niniejszego rozdziału stosuje się do linii kolejowych, których budowa i przebudowa realizowana jest w ramach Narodowego Planu Rozwoju. 1. Decyzję o ustaleniu lokalizacji linii kolejowej, na wniosek ministra właściwego do spraw transportu, wydaje wojewoda. 2. Wniosek o wydanie decyzji o ustaleniu lokalizacji linii kolejowej powinien zawierać:
 
@@ -88,7 +93,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 
 3. W zawiadomieniu o wydaniu decyzji o ustaleniu lokalizacji linii kolejowej zamieszcza się informację o miejscu, w którym strony mogą zapoznać się z treścią decyzji. Odwołanie strony od decyzji o ustaleniu lokalizacji linii kolejowej rozpatruje się w terminie 14 dni, a skargę do sądu administracyjnego – w terminie 60 dni.
 
-1. Do decyzji o ustaleniu lokalizacji linii kolejowej stosuje się przepisy art. 53 ust. 4 i 5 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. Nr 80, poz. 717, z późn. zm.).
+1. Do decyzji o ustaleniu lokalizacji linii kolejowej stosuje się przepisy art. 53 ust. 4 i 5 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. Nr 80, poz. 717, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492 oraz z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087.).
 
 2. Wojewoda wydaje pozwolenie na budowę linii kolejowej na zasadach i w trybie przepisów Prawa budowlanego oraz doręcza je wnioskodawcy, a pozostałe strony zawiadamia o jego wydaniu w drodze obwieszczenia w urzędach gmin właściwych ze względu na przebieg linii kolejowej oraz w prasie lokalnej.
 
@@ -106,7 +111,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 
 1. Wszczęcie postępowania wywłaszczeniowego w odniesieniu do nieruchomości przeznaczonych na pasy gruntu pod linię kolejową następuje na wniosek ministra właściwego do spraw transportu, po bezskutecznym upływie terminu do zawarcia umowy, o której mowa w art. 9f ust. 1, wyznaczonego przez wojewodę na piśmie właścicielowi lub użytkownikowi wieczystemu. Termin ten nie może być krótszy niż 60 dni od dnia otrzymania przez właściciela lub użytkownika wieczystego nieruchomości pisemnej oferty ministra właściwego do spraw transportu dotyczącej zawarcia umowy.
 
-2. W przypadku gdy nieruchomości przeznaczone na pasy gruntu pod linię kolejową mają nieuregulowany stan prawny w rozumieniu art. 113 ust. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.), wszczęcie postępowania następuje na wniosek ministra właściwego do spraw transportu, bez konieczności zachowania warunków określonych w ust. 1. Organem właściwym w sprawach objętych przepisami wywłaszczeniowymi ustawy jest wojewoda.
+2. W przypadku gdy nieruchomości przeznaczone na pasy gruntu pod linię kolejową mają nieuregulowany stan prawny w rozumieniu art. 113 ust. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782 oraz z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459.), wszczęcie postępowania następuje na wniosek ministra właściwego do spraw transportu, bez konieczności zachowania warunków określonych w ust. 1. Organem właściwym w sprawach objętych przepisami wywłaszczeniowymi ustawy jest wojewoda.
 
 1. Wysokość odszkodowania za wywłaszczoną nieruchomość powinna odpowiadać jej wartości rynkowej, ustalonej według stanu na dzień wydania decyzji o ustaleniu lokalizacji linii kolejowej.
 
@@ -273,14 +278,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
     - **b)**
 
 - **20)** w art. 66 w ust. 1 po pkt 4 kropkę zastępuje się przecinkiem i dodaje się pkt 5 w brzmieniu: „
-- **5)** nie udzielił informacji, o których mowa w art. 13 ust. 7a. ” . W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2003 r. Nr 207, poz. 2016, z późn. zm.) po art. 40 dodaje się art. 40a w brzmieniu: „ Ilekroć w przepisach niniejszego rozdziału jest mowa o decyzji o warunkach zabudowy i zagospodarowania terenu, rozumie się przez to także decyzję o ustaleniu lokalizacji linii kolejowej w rozumieniu ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. Nr 86, poz. 789, z późn. zm.). ” .
-
-**Art. 3.** W ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2004 r. Nr 121, poz. 1266 oraz z 2005 r. Nr 175, poz. 1462) po art. 5 dodaje się art. 5a w brzmieniu: „
-
-**Art. 5a.** Ustawy nie stosuje się do gruntów rolnych i leśnych objętych decyzjami o ustaleniu lokalizacji linii kolejowej, z tym że określone w ustawie należności oraz jednorazowe odszkodowania w razie dokonania przedwczesnego wyrębu drzewostanu w odniesieniu do gruntów leśnych i zadrzewionych przeznacza się na Fundusz Leśny w Dyrekcji Generalnej Lasów Państwowych – z tytułu wyłączenia gruntów Skarbu Państwa, zarządzanych przez Państwowe Gospodarstwo Leśne „Lasy Państwowe”. ” .
-
-**Art. 4.** W ustawie z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. Nr 84, poz. 948, z późn. zm.) wprowadza się następujące zmiany:
-
+- **5)** nie udzielił informacji, o których mowa w art. 13 ust. 7a. ” . W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2003 r. Nr 207, poz. 2016, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41, Nr 92, poz. 881, Nr 93, poz. 888 i Nr 96, poz. 959 oraz z 2005 r. Nr 113, poz. 954, Nr 163, poz. 1362 i 1364 i Nr 169, poz. 1419.) po art. 40 dodaje się art. 40a w brzmieniu: „ Ilekroć w przepisach niniejszego rozdziału jest mowa o decyzji o warunkach zabudowy i zagospodarowania terenu, rozumie się przez to także decyzję o ustaleniu lokalizacji linii kolejowej w rozumieniu ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. Nr 86, poz. 789, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652 i Nr 203, poz. 1966, z 2004 r. Nr 92, poz. 883, Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808, z 2005 r. Nr 157, poz. 1314, Nr 163, poz. 1362 i Nr 169, poz. 1420 oraz z 2006 r. Nr 12, poz. 63.). ” . W ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2004 r. Nr 121, poz. 1266 oraz z 2005 r. Nr 175, poz. 1462) po art. 5 dodaje się art. 5a w brzmieniu: „ Ustawy nie stosuje się do gruntów rolnych i leśnych objętych decyzjami o ustaleniu lokalizacji linii kolejowej, z tym że określone w ustawie należności oraz jednorazowe odszkodowania w razie dokonania przedwczesnego wyrębu drzewostanu w odniesieniu do gruntów leśnych i zadrzewionych przeznacza się na Fundusz Leśny w Dyrekcji Generalnej Lasów Państwowych – z tytułu wyłączenia gruntów Skarbu Państwa, zarządzanych przez Państwowe Gospodarstwo Leśne „Lasy Państwowe”. ” . W ustawie z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. Nr 84, poz. 948, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1086 i Nr 154, poz. 1802, z 2002 r. Nr 205, poz. 1730 i Nr 240, poz. 2055, z 2003 r. Nr 6, poz. 63, Nr 80, poz. 720 i Nr 203, poz. 1966, z 2004 r. Nr 96, poz. 959 i Nr 120, poz. 1252 oraz z 2005 r. Nr 157, poz. 1315 i Nr 184, poz. 1539.) wprowadza się następujące zmiany:
 - **1)** w art. 15: ust. 8 otrzymuje brzmienie: „
     - **a)**
 
@@ -290,22 +288,17 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 
 8a. Akcje PLK S.A. będące własnością PKP S.A. mogą być zbywane wyłącznie na rzecz Skarbu Państwa. ” ;
 
-- **2)** po art. 40 dodaje się art. 40a w brzmieniu: „ PKP S.A. może dokonywać, na warunkach określonych w art. 9 ust. 2 pkt 2 i 3 oraz ust. 3–6 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. Nr 86, poz. 789, z późn. zm.), likwidacji linii kolejowej lub odcinka linii kolejowej, niepodlegającej wniesieniu w formie wkładu niepieniężnego do PLK S.A. jako zbędnej dla jej działalności. ” .
+- **2)** po art. 40 dodaje się art. 40a w brzmieniu: „ PKP S.A. może dokonywać, na warunkach określonych w art. 9 ust. 2 pkt 2 i 3 oraz ust. 3–6 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. Nr 86, poz. 789, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652 i Nr 203, poz. 1966, z 2004 r. Nr 92, poz. 883, Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808, z 2005 r. Nr 157, poz. 1314, Nr 163, poz. 1362 i Nr 169, poz. 1420 oraz z 2006 r. Nr 12, poz. 63.), likwidacji linii kolejowej lub odcinka linii kolejowej, niepodlegającej wniesieniu w formie wkładu niepieniężnego do PLK S.A. jako zbędnej dla jej działalności. ” .
 
 1. Minister właściwy do spraw transportu może przekazać w latach 2006 i 2007 część środków przeznaczonych na budowę, przebudowę, remonty, utrzymanie, ochronę i zarządzanie infrastrukturą transportu lądowego, o których mowa w art. 5 i 11 ustawy z dnia 16 grudnia 2005 r. o finansowaniu infrastruktury transportu lądowego (Dz. U. Nr 267, poz. 2251), na dofinansowanie kolejowych przewozów osób wykonywanych w połączeniach międzywojewódzkich pociągami krajowymi, w których nie obowiązuje rezerwacja miejsc, oraz w połączeniach międzynarodowych na obszarze Rzeczypospolitej Polskiej.
 
 2. Dofinansowanie, o którym mowa w ust. 1, może dotyczyć wyłącznie przewozów świadczonych jako usługi publiczne.
 
-3. Wysokość dofinansowania, o którym mowa w ust. 1, określa się w umowie o świadczenie usług publicznych, o której mowa w art. 40a ust. 3 lub 4 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
+3. Wysokość dofinansowania, o którym mowa w ust. 1, określa się w umowie o świadczenie usług publicznych, o której mowa w art. 40a ust. 3 lub 4 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 35 ustawy wymienionej w art. 1 zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie upoważnienia w brzmieniu nadanym niniejszą ustawą. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 9 w zakresie dotyczącym art. 29a ust. 3, który wchodzi w życie z dniem 1 stycznia 2007 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia:
 
-**Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 35 ustawy wymienionej w art. 1 zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie upoważnienia w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 9 w zakresie dotyczącym art. 29a ust. 3, który wchodzi w życie z dniem 1 stycznia 2007 r.
-
-- **1)** Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia:
 - **1)** dyrektywy 2001/14/WE Parlamentu Europejskiego i Rady z dnia 26 lutego 2001 r. w sprawie alokacji zdolności przepustowej infrastruktury kolejowej i pobierania opłat za użytkowanie infrastruktury kolejowej oraz przyznawanie świadectw bezpieczeństwa (Dz. Urz. WE L 075 z 15.03.2001);
 - **2)** dyrektywy 2004/51/WE Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. zmieniającej dyrektywę Rady 91/440/EWG w sprawie rozwoju kolei wspólnotowych (Dz. Urz. WE L 164 z 30.04.2004);
-- **3)** dyrektywy 2001/13/WE Parlamentu Europejskiego i Rady z dnia 26 lutego 2001 r. zmieniającej dyrektywę Rady 95/18/WE w sprawie przyznawania licencji przedsiębiorstwom kolejowym (Dz. Urz. WE L 075 z 15.03.2001). Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2004 r. zamieszczone w niniejszej ustawie dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne. Załącznik – Usługi, które mają / mogą być świadczone na rzecz przewoźników kolejowych I. Usługi, które mają być świadczone na rzecz przewoźników kolejowych
+- **3)** dyrektywy 2001/13/WE Parlamentu Europejskiego i Rady z dnia 26 lutego 2001 r. zmieniającej dyrektywę Rady 95/18/WE w sprawie przyznawania licencji przedsiębiorstwom kolejowym (Dz. Urz. WE L 075 z 15.03.2001). Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2004 r. zamieszczone w niniejszej ustawie dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne. 2) Niniejszą ustawą zmienia się: ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych oraz ustawę z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652 i Nr 203, poz. 1966, z 2004 r. Nr 92, poz. 883, Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808 oraz z 2005 r. Nr 157, poz. 1314, Nr 163, poz. 1362 i Nr 169, poz. 1420. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492 oraz z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782 oraz z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41, Nr 92, poz. 881, Nr 93, poz. 888 i Nr 96, poz. 959 oraz z 2005 r. Nr 113, poz. 954, Nr 163, poz. 1362 i 1364 i Nr 169, poz. 1419. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652 i Nr 203, poz. 1966, z 2004 r. Nr 92, poz. 883, Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808, z 2005 r. Nr 157, poz. 1314, Nr 163, poz. 1362 i Nr 169, poz. 1420 oraz z 2006 r. Nr 12, poz. 63. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1086 i Nr 154, poz. 1802, z 2002 r. Nr 205, poz. 1730 i Nr 240, poz. 2055, z 2003 r. Nr 6, poz. 63, Nr 80, poz. 720 i Nr 203, poz. 1966, z 2004 r. Nr 96, poz. 959 i Nr 120, poz. 1252 oraz z 2005 r. Nr 157, poz. 1315 i Nr 184, poz. 1539. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652 i Nr 203, poz. 1966, z 2004 r. Nr 92, poz. 883, Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808, z 2005 r. Nr 157, poz. 1314, Nr 163, poz. 1362 i Nr 169, poz. 1420 oraz z 2006 r. Nr 12, poz. 63. Załącznik – Usługi, które mają / mogą być świadczone na rzecz przewoźników kolejowych I. Usługi, które mają być świadczone na rzecz przewoźników kolejowych
 
 1. Minimalny dostęp do infrastruktury kolejowej obejmuje:
 

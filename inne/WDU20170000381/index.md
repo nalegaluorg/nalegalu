@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 22 lutego 2017 r. w sprawie warunków użycia urządzeń technicznych i psów służbowych podczas kontroli oraz sposobu przeprowadzania przeszukania osoby i rewizji bagażu podróżnego
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 22 lutego 2017 r. w sprawie warunków użycia urządzeń technicznych i psów służbowych podczas kontroli oraz sposobu przeprowadzania przeszukania osoby i rewizji bagażu podróżnego Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-22 |
 | Data wydania | 2017-02-28 |
-| Wejście w życie | 2017-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000381) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/381/text.pdf) |
 
@@ -60,8 +59,7 @@ Podczas wykonywania czynności kontrolnych dopuszcza się możliwość zdjęcia 
 1)
 kagańca,
 2)
-smyczy
-jeżeli jest to niezbędne dla prawidłowego wykonania czynności kontrolnych i nie narusza warunków wykonywania czynności kontrolnych, o których mowa w ust. 1.
+smyczy – jeżeli jest to niezbędne dla prawidłowego wykonania czynności kontrolnych i nie narusza warunków wykonywania czynności kontrolnych, o których mowa w ust. 1.
 § 6.
 1.
 Warunkiem użycia psa służbowego jest odbycie przez wykonującego czynności kontrolne szkolenia zakończonego otrzymaniem zaświadczenia o ukończeniu szkolenia dla przewodnika psa.
@@ -83,6 +81,5 @@ W przypadku odmowy wykonania czynności, o których mowa w ust. 1, funkcjonarius
 3.
 Rewizja bagażu podróżnego polega na sprawdzeniu jego zawartości pod względem rodzaju i ilości przewożonych towarów, przedmiotów lub wartości dewizowych.
 § 12.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 18 listopada 2009 r. w sprawie warunków użycia urządzeń technicznych i psów służbowych podczas kontroli oraz sposobu przeprowadzania przeszukania osoby i rewizji bagażu podróżnego (Dz. U. poz. 1562), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379).
+Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 18 listopada 2009 r. w sprawie warunków użycia urządzeń technicznych i psów służbowych podczas kontroli oraz sposobu przeprowadzania przeszukania osoby i rewizji bagażu podróżnego (Dz. U. poz. 1562), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 18 listopada 2009 r. w sprawie warunków użycia urządzeń technicznych i psów służbowych podczas kontroli oraz sposobu przeprowadzania przeszukania osoby i rewizji bagażu podróżnego (Dz. U. poz. 1562), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379).
 

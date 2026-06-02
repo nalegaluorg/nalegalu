@@ -26,20 +26,19 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002213) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2213/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Rady Ministrów z dnia 14 września 2004 r. w sprawie sposobu i trybu przeprowadzania przetargów oraz rokowań na zbycie nieruchomości Rozdział 1 – Przepisy ogólne Rozdział 2 – Przetarg ustny nieograniczony Rozdział 3 – Przetarg ustny ograniczony Rozdział 4 – Przetarg pisemny nieograniczony Rozdział 5 – Przetarg pisemny ograniczony Rozdział 6 – Rokowania po drugim przetargu Rozdział 6a – Sposób i tryb przeprowadzania przetargu ustnego nieograniczonego oraz przetargu ustnego ograniczonego w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii Rozdział 7 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Rady Ministrów z dnia 14 września 2004 r. w sprawie sposobu i trybu przeprowadzania przetargów oraz rokowań na zbycie nieruchomości
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 14 września 2004 r. w sprawie sposobu i trybu przeprowadzania przetargów oraz rokowań na zbycie nieruchomości (Dz. U. z 2014 r. poz. 1490), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 24 września 2020 r. zmieniającym rozporządzenie w sprawie sposobu i trybu przeprowadzania przetargów oraz rokowań na zbycie nieruchomości (Dz. U. poz. 1698).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Rady Ministrów z dnia 24 września 2020 r. zmieniającego rozporządzenie w sprawie sposobu i trybu przeprowadzania przetargów oraz rokowań na zbycie nieruchomości (Dz. U. poz. 1698), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Rady Ministrów z dnia 24 września 2020 r. zmieniającego rozporządzenie w sprawie sposobu i trybu przeprowadzania przetargów oraz rokowań na zbycie nieruchomości (Dz. U. poz. 1698), które stanowią: „
 § 2.
 Do przetargów ogłoszonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Rady Ministrów z dnia 14 września 2004 r. w sprawie sposobu i trybu przeprowadzania przetargów oraz rokowań na zbycie nieruchomości
 Na podstawie art. 42 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2021 r. poz. 1899) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Przepisy rozporządzenia określają sposób i tryb przeprowadzania przetargów oraz przeprowadzania rokowań po drugim przetargu zakończonym wynikiem negatywnym, na zbycie nieruchomości stanowiących własność Skarbu Państwa lub własność jednostek samorządu terytorialnego.
 § 2.
@@ -47,7 +46,7 @@ Przepisy rozporządzenia określają sposób i tryb przeprowadzania przetargów 
 Artykuły powołane w rozporządzeniu bez bliższego określenia oznaczają artykuły ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 2.
 Ilekroć w rozporządzeniu jest mowa o cenie wywoławczej, należy przez to rozumieć cenę nieruchomości ustaloną według zasad zawartych w art. 67 ust. 2 pkt 1, 2 i 4.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 24 września 2020 r. zmieniającego rozporządzenie w sprawie sposobu i trybu przeprowadzania przetargów oraz rokowań na zbycie nieruchomości (Dz. U. poz. 1698), które weszło w życie z dniem 6 października 2020 r..
 Ilekroć w rozporządzeniu jest mowa o właściwym organie, należy przez to rozumieć organy, o których mowa w art. 4 pkt 9, a także ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w odniesieniu do nieruchomości, o których mowa w art. 57 ust. 1, oraz nieruchomości ujętych w ewidencji, o której mowa w art. 60 ust. 2 pkt 1.
 § 3.
 1.
@@ -113,8 +112,8 @@ dane teleadresowe, pod którymi można uzyskać szczegółowe informacje dotycz�
 6.
 Przeliczenia ceny wywoławczej na równowartość euro dokonuje się nie wcześniej niż 7 dni przed terminem pierwszego ogłoszenia o przetargu, według średniego kursu ogłaszanego przez Narodowy Bank Polski obowiązującego w tym dniu.
 7.
-Ogłoszenie o przetargu podlega publikacji na stronach internetowych i na stronie podmiotowej w Biuletynie Informacji Publicznej urzędu obsługującego właściwy organ, a także w sposób zwyczajowo przyjęty w danej miejscowości. Ogłoszenie o przetargu można również zamieścić w prasie.
-§ 6a.
+Ogłoszenie o przetargu podlega publikacji na stronach internetowych i na stronie podmiotowej w Biuletynie Informacji Publicznej urzędu obsługującego właściwy organ, a także w sposób zwyczajowo przyjęty w danej miejscowości.Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. Ogłoszenie o przetargu można również zamieścić w prasie.
+§ 6aDodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1..
 1.
 Właściwy organ jest uprawniony do żądania, od uczestnika przetargu będącego osobą fizyczną, przedstawiciela uczestnika przetargu oraz osoby uprawnionej do reprezentowania osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, danych obejmujących: imię (imiona) i nazwisko, numer identyfikacyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), adres zamieszkania oraz adres do doręczeń, w tym adres elektroniczny.
 2.
@@ -164,21 +163,21 @@ Protokół przeprowadzonego przetargu podpisują przewodniczący i członkowie k
 4.
 Protokół przeprowadzonego przetargu stanowi podstawę zawarcia aktu notarialnego.
 § 11.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 1..
 Skargę na czynności związane z przeprowadzeniem przetargu uczestnik przetargu składa za pośrednictwem właściwego organu albo bezpośrednio do właściwego organu, jeżeli przetarg dotyczy nieruchomości, o których mowa w art. 57 ust. 1, albo nieruchomości ujętych w ewidencji, o której mowa w art. 60 ust. 2 pkt 1.
 2.
 W przypadku wniesienia skargi, o której mowa w ust. 1, właściwy organ wstrzymuje czynności związane ze zbyciem nieruchomości.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, wojewoda albo organ wykonawczy jednostki samorządu terytorialnego rozpatruje skargę w terminie 7 dni od daty jej otrzymania.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, wojewoda albo organ wykonawczy jednostki samorządu terytorialnego może uznać skargę za zasadną i nakazać powtórzenie czynności przetargowych lub unieważnić przetarg albo uznać skargę za niezasadną.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Po rozpatrzeniu skargi wojewoda albo organ wykonawczy jednostki samorządu terytorialnego zawiadamia skarżącego, a właściwy organ niezwłocznie, na okres co najmniej 7 dni, zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu go obsługującego oraz wywiesza w swojej siedzibie informację o sposobie rozstrzygnięcia skargi.
-6.
+6W brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Po rozpatrzeniu skargi minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zawiadamia skarżącego oraz zamieszcza niezwłocznie, na okres co najmniej 7 dni, w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa informację o sposobie rozstrzygnięcia skargi.
 § 12.
 1.
-W przypadku niezaskarżenia w wyznaczonym terminie czynności związanych z przeprowadzeniem przetargu albo w razie uznania skargi za niezasadną właściwy organ podaje do publicznej wiadomości, zamieszczając w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu go obsługującego oraz wywieszając w swojej siedzibie, na okres co najmniej 7 dni, informację o wyniku przetargu, która zawiera:
+W przypadku niezaskarżenia w wyznaczonym terminie czynności związanych z przeprowadzeniem przetargu albo w razie uznania skargi za niezasadną właściwy organ podaje do publicznej wiadomości, zamieszczając w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu go obsługującego oraz wywieszając w swojej siedzibie, na okres co najmniej 7 dni, informację o wyniku przetargu, która zawiera:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 1.
 1)
 datę i miejsce oraz rodzaj przeprowadzonego przetargu;
 2)
@@ -189,8 +188,9 @@ liczbę osób dopuszczonych oraz osób niedopuszczonych do uczestniczenia w prze
 cenę wywoławczą nieruchomości oraz najwyższą cenę osiągniętą w przetargu albo informację o złożonych ofertach lub o niewybraniu żadnej z ofert;
 5)
 imię, nazwisko albo nazwę lub firmę osoby ustalonej jako nabywca nieruchomości.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Informację o wyniku przetargu w odniesieniu do nieruchomości, o których mowa w art. 57 ust. 1, oraz nieruchomości ujętych w ewidencji, o której mowa w art. 60 ust. 2 pkt 1, zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+Przetarg ustny nieograniczony
 § 13.
 W ogłoszeniu o przetargu ustnym nieograniczonym zamieszcza się w szczególności informacje o:
 1)
@@ -222,15 +222,17 @@ Uczestnicy przetargu zgłaszają ustnie kolejne postąpienia ceny, dopóki mimo 
 Przetarg jest ważny bez względu na liczbę uczestników przetargu, jeżeli przynajmniej jeden uczestnik zaoferował co najmniej jedno postąpienie powyżej ceny wywoławczej.
 6.
 Po ustaniu zgłaszania postąpień przewodniczący komisji przetargowej wywołuje trzykrotnie ostatnią, najwyższą cenę i zamyka przetarg, a następnie ogłasza imię i nazwisko albo nazwę lub firmę osoby, która przetarg wygrała.
+Przetarg ustny ograniczony
 § 15.
 1.
 W ogłoszeniu o przetargu ustnym ograniczonym podaje się informację, że przetarg jest ograniczony, wraz z uzasadnieniem wyboru formy przetargu oraz wyznacza się termin zgłoszenia uczestnictwa w przetargu.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 1..
 Komisja przetargowa sprawdza, czy oferenci spełniają warunki przetargowe i kwalifikuje ich do uczestnictwa w przetargu. Listę osób zakwalifikowanych zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego właściwy organ oraz wywiesza się w siedzibie właściwego organu nie później niż dzień przed wyznaczonym terminem przetargu. Jeżeli przetarg dotyczy nieruchomości, o których mowa w art. 57 ust. 1, albo nieruchomości ujętych w ewidencji, o której mowa w art. 60 ust. 2 pkt 1, listę osób zakwalifikowanych zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
 3.
 Przetarg może się odbyć, chociażby zakwalifikowano do przetargu tylko jednego oferenta spełniającego warunki określone w ogłoszeniu.
 4.
 W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy rozdziału 2.
+Przetarg pisemny nieograniczony
 § 16.
 W ogłoszeniu o przetargu pisemnym nieograniczonym zamieszcza się w szczególności informacje o:
 1)
@@ -321,15 +323,17 @@ W dodatkowym przetargu ustnym ograniczonym oferenci zgłaszają ustnie kolejne p
 Przetarg uważa się za zamknięty z chwilą podpisania protokołu.
 2.
 Przewodniczący komisji przetargowej zawiadamia na piśmie wszystkich, którzy złożyli oferty, o wyniku przetargu w terminie nie dłuższym niż 3 dni od dnia zamknięcia przetargu.
+Przetarg pisemny ograniczony
 § 24.
 1.
 W ogłoszeniu o przetargu pisemnym ograniczonym podaje się informację, że przetarg jest ograniczony, wraz z uzasadnieniem wyboru formy przetargu oraz wyznacza się termin zgłoszenia uczestnictwa w przetargu.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 1..
 Komisja przetargowa sprawdza, czy oferenci spełniają warunki przetargowe i kwalifikuje do uczestnictwa w przetargu. Listę osób zakwalifikowanych zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego właściwy organ oraz wywiesza się w siedzibie właściwego organu nie później niż dzień przed wyznaczonym terminem przetargu. Jeżeli przetarg dotyczy nieruchomości, o których mowa w art. 57 ust. 1, albo nieruchomości ujętych w ewidencji, o której mowa w art. 60 ust. 2 pkt 1, listę osób zakwalifikowanych zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
 3.
 Przetarg może się odbyć, chociażby zakwalifikowano do przetargu tylko jednego oferenta spełniającego warunki określone w ogłoszeniu.
 4.
 W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy rozdziału 4.
+Rokowania po drugim przetargu
 § 25.
 1.
 W ogłoszeniu o rokowaniach po drugim przetargu zakończonym wynikiem negatywnym zamieszcza się w szczególności informacje o:
@@ -420,6 +424,7 @@ Rokowania uważa się za zamknięte z chwilą podpisania protokołu.
 Przewodniczący komisji zawiadamia ustnie uczestników rokowań o wyniku rokowań bezpośrednio po ich zamknięciu.
 § 30.
 W sprawach nieuregulowanych w niniejszym rozdziale, w odniesieniu do komisji przeprowadzającej rokowania, a także w zakresie sposobu i trybu przeprowadzania rokowań, stosuje się przepisy rozdziału 1.
+Sposób i tryb przeprowadzania przetargu ustnego nieograniczonego oraz przetargu ustnego ograniczonego w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemiiRozdział dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 1.
 § 30a.
 Przepisy niniejszego rozdziału stosuje się w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2021 r. poz. 2069 i 2120).
 § 30b.
@@ -428,8 +433,7 @@ Przetarg ustny nieograniczony lub przetarg ustny ograniczony, zwany dalej „prz
 1)
 transmisję przetargu w czasie rzeczywistym między uczestnikami przetargu oraz członkami komisji przetargowej,
 2)
-wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy przetargu oraz członkowie komisji przetargowej mogą w nim uczestniczyć
-z zachowaniem poufności, integralności i dostępności przekazywanych informacji, a także możliwości identyfikacji uczestników przetargu i członków komisji przetargowej.
+wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy przetargu oraz członkowie komisji przetargowej mogą w nim uczestniczyć – z zachowaniem poufności, integralności i dostępności przekazywanych informacji, a także możliwości identyfikacji uczestników przetargu i członków komisji przetargowej.
 2.
 Przeprowadzenie przetargu przy użyciu środków komunikacji elektronicznej obejmuje otwarcie przetargu, wywołania i postąpienia ceny, a także zamknięcie przetargu i ogłoszenie imienia i nazwiska albo nazwy lub firmy osoby, która przetarg wygrała.
 3.
@@ -446,26 +450,43 @@ Protokół przeprowadzonego przetargu podpisują przewodniczący i członkowie k
 Przepisy § 14 ust. 1–3 i 5 oraz § 15 ust. 2 stosuje się. Przepis § 14 ust. 4 stosuje się odpowiednio.
 § 30c.
 W przypadku odwołania stanu zagrożenia epidemicznego i stanu epidemii po zamieszczeniu w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego właściwy organ informacji o przeprowadzeniu przetargu przy użyciu środków komunikacji elektronicznej, a przed dniem przeprowadzenia przetargu, do jego przeprowadzenia stosuje się przepisy niniejszego rozdziału.
+Przepisy przejściowe i końcowe
 § 31.
 (pominięty).
 § 32.
-Rozporządzenie wchodzi w życie z dniem 22 września 2004 r.
+Rozporządzenie wchodzi w życie z dniem 22 września 2004 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 13 stycznia 1998 r. w sprawie określenia szczegółowych zasad i trybu przeprowadzania przetargów na zbycie nieruchomości stanowiących własność Skarbu Państwa lub własność gminy (Dz. U. poz. 30 oraz z 2003 r. poz. 80), które utraciło moc z dniem wejścia w życie ustawy z dnia 28 listopada 2003 r. o zmianie ustawy o gospodarce nieruchomościami oraz o zmianie niektórych innych ustaw (Dz. U. z 2004 r. poz. 1492). 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 24 września 2020 r. zmieniającego rozporządzenie w sprawie sposobu i trybu przeprowadzania przetargów oraz rokowań na zbycie nieruchomości (Dz. U. poz. 1698), które weszło w życie z dniem 6 października 2020 r. 2) Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 4) Ze zmianą wprowadzoną przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 1. 5) W brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 1. 6) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 1. 7) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 1. 8) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 1. 9) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 1. 10) Rozdział dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 1. 11) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 13 stycznia 1998 r. w sprawie określenia szczegółowych zasad i trybu przeprowadzania przetargów na zbycie nieruchomości stanowiących własność Skarbu Państwa lub własność gminy (Dz. U. poz. 30 oraz z 2003 r. poz. 80), które utraciło moc z dniem wejścia w życie ustawy z dnia 28 listopada 2003 r. o zmianie ustawy o gospodarce nieruchomościami oraz o zmianie niektórych innych ustaw (Dz. U. z 2004 r. poz. 1492).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Przetarg ustny nieograniczony
+#### Rozdział 2 – Przetarg ustny nieograniczony
 
-#### Rozdział 3 Przetarg ustny ograniczony
+#### Rozdział 3 – Przetarg ustny ograniczony
 
-#### Rozdział 4 Przetarg pisemny nieograniczony
+#### Rozdział 4 – Przetarg pisemny nieograniczony
+
+#### Rozdział 5 – Przetarg pisemny ograniczony
+
+#### Rozdział 6 – Rokowania po drugim przetargu
+
+#### Rozdział 6a – Sposób i tryb przeprowadzania przetargu ustnego nieograniczonego oraz przetargu ustnego ograniczonego w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii
+
+#### Rozdział 7 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 
 ## Część jawna przetargu odbywa się w obecności oferentów. W części jawnej przewodniczący komisji przetargowej otwiera przetarg, przekazując oferentom informacje, o których mowa w § 16 pkt 1–4 i 9–11.
 
-#### Rozdział 5 Przetarg pisemny ograniczony
+#### Rozdział 5
 
-#### Rozdział 6 Rokowania po drugim przetargu
+#### Rozdział 6
 
-#### Rozdział 6a Sposób i tryb przeprowadzania przetargu ustnego nieograniczonego oraz przetargu ustnego ograniczonego w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii
+#### Rozdział 6a
 
-#### Rozdział 7 Przepisy przejściowe i końcowe
+#### Rozdział 7
 

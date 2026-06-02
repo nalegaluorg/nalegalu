@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-22 |
 | Data wydania | 2019-03-05 |
-| Wejście w życie | 2019-03-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000428) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/428/text.pdf) |
 
@@ -44,7 +43,7 @@ source: "eli-html"
 1. Decyzje wydane przed dniem wejścia w życie niniejszej ustawy:
 
 - **1)** o odmowie przyznania zwrotu podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej – w przypadku gdy wniosek o zwrot tego podatku dotyczył oleju napędowego oznaczonego kodem CN 2710 20 11 do CN 2710 20 19,
-- **2)** przyznające zwrot podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej a nieuwzględniające oleju napędowego oznaczonego kodem CN 2710 20 11 do CN 2710 20 19 mogą być zmieniane na wniosek producenta rolnego, o którym mowa w art. 3 ust. 2 ustawy zmienianej w art. 1, albo z urzędu, przez przyznanie zwrotu podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej oznaczonego kodem CN 2710 20 11 do CN 2710 20 19.
+- **2)** przyznające zwrot podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej a nieuwzględniające oleju napędowego oznaczonego kodem CN 2710 20 11 do CN 2710 20 19 – mogą być zmieniane na wniosek producenta rolnego, o którym mowa w art. 3 ust. 2 ustawy zmienianej w art. 1, albo z urzędu, przez przyznanie zwrotu podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej oznaczonego kodem CN 2710 20 11 do CN 2710 20 19.
 
 2. Wniosek, o którym mowa w ust. 1, składa się w terminie do dnia 31 marca 2019 r., a decyzję w sprawie zmiany decyzji, o której mowa w ust. 1, wydaje się w terminie do dnia 30 kwietnia 2019 r.
 

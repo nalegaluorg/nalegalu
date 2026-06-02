@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-12-19 |
 | Data wydania | 2009-01-28 |
-| Wejście w życie | 2009-02-12 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090130070) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/70/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722, z 2005 r. Nr 167, poz. 1400, Nr 169, poz. 1418, Nr 178, poz. 1479 i Nr 184, poz. 1539, z 2006 r. Nr 107, poz. 721 i Nr 208, poz. 1532 oraz z 2008 r. Nr 180, poz. 1109.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2: po pkt 3 dodaje się pkt 3a w brzmieniu: „
     - **a)**
@@ -68,7 +67,7 @@ source: "eli-html"
 - **2)** spółka wykonuje działalność gospodarczą na obszarze składającej wniosek jednostki samorządu terytorialnego lub związku jednostek samorządu terytorialnego,
 - **3)** spółka nie jest wpisana na listę spółek o szczególnym znaczeniu dla gospodarki państwa lub inne listy spółek o znaczeniu państwowym, tworzone na podstawie przepisów odrębnych.
 
-2. Zbycie akcji, o którym mowa w ust. 1, nie jest zbyciem akcji na zasadach ogólnych. Do zbycia akcji nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.). Zbycie akcji jest jawne i następuje na podstawie umowy cywilnoprawnej.
+2. Zbycie akcji, o którym mowa w ust. 1, nie jest zbyciem akcji na zasadach ogólnych. Do zbycia akcji nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524 oraz z 2008 r. Nr 229, poz. 1539.). Zbycie akcji jest jawne i następuje na podstawie umowy cywilnoprawnej.
 
 3. Uprawnieni pracownicy w spółce powstałej w wyniku komercjalizacji, której akcje zostały nieodpłatnie zbyte w trybie, o którym mowa w ust. 1, zachowują uprawnienia do nieodpłatnego nabycia akcji. Przepisy art. 36–38c stosuje się odpowiednio, przy czym kompetencje ministra właściwego do spraw Skarbu Państwa w zakresie zbywania akcji wykonuje organ wykonawczy jednostki samorządu terytorialnego lub organ wykonawczy związku jednostek samorządu terytorialnego.
 
@@ -88,7 +87,7 @@ source: "eli-html"
 - **1)** 5% wartości księgowej zbytych akcji – na Fundusz Reprywatyzacji,
 - **2)** 15% wartości księgowej zbytych akcji – na Fundusz Restrukturyzacji Przedsiębiorców,
 - **3)** 2% wartości księgowej zbytych akcji – na Fundusz Skarbu Państwa,
-- **4)** 2% wartości księgowej zbytych akcji – na Fundusz Nauki i Technologii Polskiej przy czym wartość księgową zbytych akcji ustala się na dzień ich zbycia.
+- **4)** 2% wartości księgowej zbytych akcji – na Fundusz Nauki i Technologii Polskiej – przy czym wartość księgową zbytych akcji ustala się na dzień ich zbycia.
 
 3. Jeżeli jednostka samorządu terytorialnego lub związek jednostek samorządu terytorialnego przekaże nieodpłatnie akcje, o których mowa w art. 4b ust. 1, na rzecz innej jednostki samorządu terytorialnego lub związku jednostek samorządu terytorialnego, przepisu ust. 2 nie stosuje się. ” ;
 
@@ -106,8 +105,12 @@ source: "eli-html"
 - **3)** może zobowiązać spółkę, w której Skarb Państwa posiada większość głosów na walnym zgromadzeniu, do wprowadzenia w jej przedsiębiorstwie zmian wynikających z wymogów ochrony środowiska, a w szczególności wynikających z analizy, o której mowa w pkt 2 lit. b. ” , uchyla się ust. 3;
     - **b)**
 
-- **6)** w art. 33: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) negocjacji podjętych na podstawie publicznego zaproszenia, ” , – pkt 5 otrzymuje brzmienie: „ 5) aukcji ogłoszonej publicznie, jeżeli cena wywoławcza nie jest niższa od wartości księgowej akcji, ” , – dodaje się pkt 6 w brzmieniu: „ 6) sprzedaży akcji na rynku regulowanym. ” , ust. 2 otrzymuje brzmienie: „
+- **6)** w art. 33: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** negocjacji podjętych na podstawie publicznego zaproszenia, ” , pkt 5 otrzymuje brzmienie: „
+- **5)** aukcji ogłoszonej publicznie, jeżeli cena wywoławcza nie jest niższa od wartości księgowej akcji, ” , dodaje się pkt 6 w brzmieniu: „
+- **6)** sprzedaży akcji na rynku regulowanym. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Rada Ministrów określi, w drodze rozporządzenia, szczegółowy tryb zbywania akcji oraz warunki, jakie powinny spełniać: oferta zbycia akcji, zaproszenie do składania ofert nabycia akcji oraz zaproszenie do negocjacji, które mogą dotyczyć zobowiązań inwestycyjnych, zobowiązań związanych z ochroną środowiska, a także zobowiązań związanych z ochroną interesów pracowników i innych osób związanych ze spółką, uwzględniając konieczność zapewnienia jawności i przejrzystości procesowi prywatyzacji. ” , dodaje się ust. 5 w brzmieniu: „
@@ -197,7 +200,7 @@ source: "eli-html"
 - **1)** w art. 2: pkt 2 otrzymuje brzmienie: „
     - **a)**
 
-- **2)** spółce konsolidowanej – rozumie się przez to: spółkę z udziałem Skarbu Państwa, której akcje zostały wniesione na pokrycie kapitału zakładowego spółki konsolidującej, spółkę powstałą w wyniku połączenia spółek, o których mowa w lit. a, w trybie art. 492 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.), spółkę powstałą w wyniku podziału spółki, o której mowa w lit. a, w trybie art. 529 § 1 pkt 1–3 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych; ” , w pkt 3 lit. b otrzymuje brzmienie: „ osoby, które jako uprawnieni pracownicy, w rozumieniu ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji, albo jako ich spadkobiercy, nabyły od Skarbu Państwa akcje spółek konsolidowanych lub prawo do nieodpłatnego nabycia akcji spółek konsolidowanych lub prawo do ekwiwalentu; ” , pkt 4 otrzymuje brzmienie: „
+- **2)** spółce konsolidowanej – rozumie się przez to: spółkę z udziałem Skarbu Państwa, której akcje zostały wniesione na pokrycie kapitału zakładowego spółki konsolidującej, spółkę powstałą w wyniku połączenia spółek, o których mowa w lit. a, w trybie art. 492 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540, z 2008 r. Nr 86, poz. 524, Nr 118, poz. 747, Nr 217, poz. 1381 i Nr 231, poz. 1547 oraz z 2009 r. Nr 13, poz. 69.), spółkę powstałą w wyniku podziału spółki, o której mowa w lit. a, w trybie art. 529 § 1 pkt 1–3 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych; ” , w pkt 3 lit. b otrzymuje brzmienie: „ osoby, które jako uprawnieni pracownicy, w rozumieniu ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji, albo jako ich spadkobiercy, nabyły od Skarbu Państwa akcje spółek konsolidowanych lub prawo do nieodpłatnego nabycia akcji spółek konsolidowanych lub prawo do ekwiwalentu; ” , pkt 4 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **c)**
@@ -265,5 +268,5 @@ source: "eli-html"
 
 **Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 33 ust. 2 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 33 ust. 2 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722, z 2005 r. Nr 167, poz. 1400, Nr 169, poz. 1418, Nr 178, poz. 1479 i Nr 184, poz. 1539, z 2006 r. Nr 107, poz. 721 i Nr 208, poz. 1532 oraz z 2008 r. Nr 180, poz. 1109. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524 oraz z 2008 r. Nr 229, poz. 1539. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540, z 2008 r. Nr 86, poz. 524, Nr 118, poz. 747, Nr 217, poz. 1381 i Nr 231, poz. 1547 oraz z 2009 r. Nr 13, poz. 69.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-17 |
 | Data wydania | 2022-11-30 |
-| Wejście w życie | 2022-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002457) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2457/text.pdf) |
 
@@ -66,7 +65,10 @@ dofinansowanie pomocy psychologicznej, z której skorzystał pracownik lub czło
 Świadczenia, o których mowa w § 3 i 4, są przyznawane na pisemny wniosek pracownika złożony do pracodawcy.
 § 6.
 1.
-Wysokość dofinansowania, o którym mowa w § 3 pkt 1, jest uzależniona od wyrażonego w procentach stosunku średniego miesięcznego dochodu uzyskiwanego przez pracownika i członków jego rodziny, przypadającego na osobę w rodzinie pracownika, za okres 12 miesięcy kalendarzowych poprzedzających dzień, w którym zainteresowany wystąpił z wnioskiem, do minimalnego wynagrodzenia w rozumieniu ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207), zwanego dalej „minimalnym wynagrodzeniem”, obowiązującego w dniu 1 stycznia roku kalendarzowego, w którym zainteresowany wystąpił z wnioskiem, i wynosi odpowiednio: Średni miesięczny dochód przypadający na osobęw rodzinie pracownika ustalany w procentachw stosunku do minimalnego wynagrodzenia Wysokość dofinansowania odpowiadająca procentowi minimalnego wynagrodzenia do 30 40 powyżej 30 do 45 30 powyżej 45 do 65 20 powyżej 65 15
+Wysokość dofinansowania, o którym mowa w § 3 pkt 1, jest uzależniona od wyrażonego w procentach stosunku średniego miesięcznego dochodu uzyskiwanego przez pracownika i członków jego rodziny, przypadającego na osobę w rodzinie pracownika, za okres 12 miesięcy kalendarzowych poprzedzających dzień, w którym zainteresowany wystąpił z wnioskiem, do minimalnego wynagrodzenia w rozumieniu ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207), zwanego dalej „minimalnym wynagrodzeniem”, obowiązującego w dniu 1 stycznia roku kalendarzowego, w którym zainteresowany wystąpił z wnioskiem, i wynosi odpowiednio:
+Średni miesięczny dochód przypadający na osobę
+w rodzinie pracownika ustalany w procentach
+w stosunku do minimalnego wynagrodzenia Wysokość dofinansowania odpowiadająca procentowi minimalnego wynagrodzenia do 30 40 powyżej 30 do 45 30 powyżej 45 do 65 20 powyżej 65 15
 2.
 Średni miesięczny dochód uwzględnia wszystkie dochody pracownika, jego małżonka oraz dzieci pozostających na jego utrzymaniu obliczane jako przychody pomniejszone o koszty uzyskania przychodu i obciążenie podatkiem należnym określonym w przepisach o podatku dochodowym od osób fizycznych oraz obciążenie składkami na ubezpieczenie społeczne i zdrowotne, określnymi odpowiednio w przepisach o systemie ubezpieczeń społecznych i w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 3.
@@ -89,7 +91,10 @@ Dofinansowanie przyznaje pracodawca, a wypłaca organ finansowy, na którego zao
 Dofinansowanie przysługuje nie częściej niż raz w roku kalendarzowym.
 § 7.
 1.
-Wysokość dofinansowania, o którym mowa w § 3 pkt 2, uzależniona jest od dochodu, o którym mowa w § 6 ust. 1, i wynosi odpowiednio: Średni miesięczny dochód przypadający na osobęw rodzinie pracownika ustalany w procentachw stosunku do minimalnego wynagrodzenia Wysokość dofinansowania odpowiadająca procentowi minimalnego wynagrodzenia na pierwsze dziecko na drugie i następne dziecko do 30 40 30 powyżej 30 do 45 30 20 powyżej 45 do 65 25 15 powyżej 65 10
+Wysokość dofinansowania, o którym mowa w § 3 pkt 2, uzależniona jest od dochodu, o którym mowa w § 6 ust. 1, i wynosi odpowiednio:
+Średni miesięczny dochód przypadający na osobę
+w rodzinie pracownika ustalany w procentach
+w stosunku do minimalnego wynagrodzenia Wysokość dofinansowania odpowiadająca procentowi minimalnego wynagrodzenia na pierwsze dziecko na drugie i następne dziecko do 30 40 30 powyżej 30 do 45 30 20 powyżej 45 do 65 25 15 powyżej 65 10
 2.
 Do wypłaty dofinansowania, o którym mowa w § 3 pkt 2, stosuje się odpowiednio przepisy § 6 ust. 2–7.
 § 8.

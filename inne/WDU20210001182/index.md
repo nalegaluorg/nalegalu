@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 30 czerwca 2021 r. w sprawie systemu zarządzającego trybami obsługi pacjenta w szpitalnym oddziale ratunkowym
+# Rozporządzenie Ministra Zdrowiaz dnia 30 czerwca 2021 r. w sprawie systemu zarządzającego trybami obsługi pacjenta w szpitalnym oddziale ratunkowym Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-30 |
 | Data wydania | 2021-06-30 |
-| Wejście w życie | 2021-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001182) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1182/text.pdf) |
 
@@ -190,6 +189,5 @@ PN-EN ISO 13606:2–4:2009 Informatyka w ochronie zdrowia – Przesyłanie elekt
 3)
 PN-EN ISO 13606–5:2019–08 Informatyka w ochronie zdrowia – Przesyłanie elektronicznej dokumentacji zdrowotnej – albo normami lub wersjami norm lub standardami je zastępującymi.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 

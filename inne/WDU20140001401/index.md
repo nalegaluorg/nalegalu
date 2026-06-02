@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-10-05 |
 | Data wydania | 2014-10-15 |
-| Wejście w życie | 2014-10-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001401) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1401/text.pdf) |
 
@@ -73,8 +72,7 @@ Ministerstwie Finansów,
 g)
 samorządowych służbach finansowych,
 h)
-samorządowym kolegium odwoławczym
-jeżeli do zakresu obowiązków kandydata należało stosowanie przepisów prawa podatkowego w związku z prowadzonymi postępowaniami podatkowymi lub kontrolnymi;
+samorządowym kolegium odwoławczym – jeżeli do zakresu obowiązków kandydata należało stosowanie przepisów prawa podatkowego w związku z prowadzonymi postępowaniami podatkowymi lub kontrolnymi;
 3)
 przez okres co najmniej roku:
 a)
@@ -92,5 +90,5 @@ Na równi z praktyką jest traktowane wykonywanie przez okres co najmniej sześc
 3.
 Przepis ust. 2 stosuje się odpowiednio do prawnika z Unii Europejskiej wykonującego stałą praktykę na podstawie ustawy z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej (Dz. U. z 2014 r. poz. 134).
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 17 listopada 2010 r. w sprawie praktyk zawodowych kandydatów na doradców podatkowych (Dz. U. Nr 230, poz. 1514), które na podstawie art. 37 ust. 1 ustawy z dnia 9 maja 2014 r. o ułatwieniu dostępu do wykonywania niektórych zawodów regulowanych (Dz. U. poz. 768) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 17 listopada 2010 r. w sprawie praktyk zawodowych kandydatów na doradców podatkowych (Dz. U. Nr 230, poz. 1514), które na podstawie art. 37 ust. 1 ustawy z dnia 9 maja 2014 r. o ułatwieniu dostępu do wykonywania niektórych zawodów regulowanych (Dz. U. poz. 768) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

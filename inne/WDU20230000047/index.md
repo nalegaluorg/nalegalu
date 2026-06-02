@@ -26,18 +26,32 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000047) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/47/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej Rozdział 1 – Przepisy ogólne Rozdział 2 – Osoby prawne Kościoła i ich organy Rozdział 3 – Działalność Kościoła Rozdział 4 – Sprawy majątkowe Kościoła Rozdział 5 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej
 Załącznik – Wykaz osób prawnych Kościoła Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 14), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 grudnia 2022 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi: „
+Przepisy ogólne
+Osoby prawne Kościoła i ich organy
+Działalność Kościoła
+Sprawy majątkowe Kościoła
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Osoby prawne Kościoła i ich organy
+
+#### Rozdział 3 – Działalność Kościoła
+
+#### Rozdział 4 – Sprawy majątkowe Kościoła
+
+#### Rozdział 5 – Przepisy przejściowe i końcowe
 
 **Art. 417.** Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -53,7 +67,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Kościół może należeć do krajowych i międzynarodowych organizacji o charakterze ekumenicznym i międzywyznaniowym.
 
-#### Rozdział 2 Osoby prawne Kościoła i ich organy
+#### Rozdział 2
 
 **Art. 3.**
 
@@ -82,9 +96,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 4. W sprawach majątkowych Kościół jako całość reprezentuje Rada Kościoła. Do składania oświadczeń woli uprawnieni są dwaj członkowie Rady Kościoła działający łącznie, w tym jej Przewodniczący.
 
-5. Zmiana nazwy grup osób prawnych, o których mowa w ust. 2 pkt 2–5, może być dokonana przepisami wewnątrzkościelnymi. Zmiany te, na wniosek Rady Kościoła, Minister Spraw Wewnętrznych i Administracji  ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+5. Zmiana nazwy grup osób prawnych, o których mowa w ust. 2 pkt 2–5, może być dokonana przepisami wewnątrzkościelnymi. Zmiany te, na wniosek Rady Kościoła, Minister Spraw Wewnętrznych i Administracji Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-**Art. 4.** Inne jednostki organizacyjne Kościoła mogą, na wniosek Rady Kościoła, uzyskać osobowość prawną w drodze rozporządzenia Ministra Spraw Wewnętrznych i Administracji .
+**Art. 4.** Inne jednostki organizacyjne Kościoła mogą, na wniosek Rady Kościoła, uzyskać osobowość prawną w drodze rozporządzenia Ministra Spraw Wewnętrznych i Administracji Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1..
 
 **Art. 5.**
 
@@ -92,7 +106,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. O faktach wymienionych w ust. 1 władza kościelna powiadamia niezwłocznie właściwy organ administracji rządowej:
 
-- **1)** odnośnie do osób wymienionych w art. 3 ust. 2 pkt 2, 4 i 5 oraz jednostek, które otrzymały osobowość prawną na zasadzie określonej w art. 4 – Ministra Spraw Wewnętrznych i Administracji ;
+- **1)** odnośnie do osób wymienionych w art. 3 ust. 2 pkt 2, 4 i 5 oraz jednostek, które otrzymały osobowość prawną na zasadzie określonej w art. 4 – Ministra Spraw Wewnętrznych i Administracji Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1.;
 - **2)** w pozostałych przypadkach – wojewodę.
 
 3. Nowo utworzone jednostki organizacyjne, o których mowa w art. 3 ust. 2 pkt 2–5, nabywają osobowość prawną z chwilą pisemnego powiadomienia właściwego organu administracji rządowej. Odpis powiadomienia, z umieszczonym na nim potwierdzeniem odbioru, jest dowodem uzyskania osobowości prawnej.
@@ -105,7 +119,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 7.** Kościelna osoba prawna nie odpowiada za zobowiązania innej kościelnej osoby prawnej.
 
-#### Rozdział 3 Działalność Kościoła
+#### Rozdział 3
 
 **Art. 8.**
 
@@ -161,11 +175,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Opiekę duszpasterską na terenie jednostek wojskowych dla żołnierzy, o których mowa w ust. 1, zapewniają duchowni Kościoła w terminach uzgodnionych z dowódcami jednostek.
 
-3. Duchownych, o których mowa w ust. 2, wyznacza Rada Kościoła w porozumieniu z Ministrem Obrony Narodowej.
-
-**Art. 16.**
-
-1. Wiernym przebywającym w podmiotach leczniczych wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne w rozumieniu przepisów o działalności leczniczej, w zakładach wychowawczo-opiekuńczych, okręgowych ośrodkach wychowawczych, zakładach poprawczych, schroniskach dla nieletnich i zakładach karnych oraz osobom tymczasowo aresztowanym zapewnia się prawo do wykonywania praktyk religijnych oraz korzystania z posług religijnych.
+3. Duchownych, o których mowa w ust. 2, wyznacza Rada Kościoła w porozumieniu z Ministrem Obrony Narodowej. Art. 16Z dniem 1 września 1998 r. utraciły moc przepisy o stosunku Państwa do Kościołów, dotyczące wykonywania praktyk religijnych osób skazanych i tymczasowo aresztowanych na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557 i 1083).. 1W brzmieniu ustalonym przez art. 376 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r.. Wiernym przebywającym w podmiotach leczniczych wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne w rozumieniu przepisów o działalności leczniczej, w zakładach wychowawczo-opiekuńczych, okręgowych ośrodkach wychowawczych, zakładach poprawczych, schroniskach dla nieletnich i zakładach karnych oraz osobom tymczasowo aresztowanym zapewnia się prawo do wykonywania praktyk religijnych oraz korzystania z posług religijnych.
 
 2. Przepis ust. 1 stosuje się również do dzieci i młodzieży korzystających z zorganizowanych form wypoczynku.
 
@@ -207,7 +217,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 24.** Instytucje państwowe, samorządowe i kościelne współdziałają w ochronie, konserwacji, udostępnianiu i upowszechnianiu zabytków architektury kościelnej i sztuki sakralnej oraz ich dokumentacji, muzeów, archiwów i bibliotek będących własnością kościelną, a także dzieł kultury i sztuki o motywach religijnych, stanowiących ważną część dziedzictwa kultury polskiej.
 
-#### Rozdział 4 Sprawy majątkowe Kościoła
+#### Rozdział 4
 
 **Art. 25.** Kościołowi i jego osobom prawnym przysługuje prawo nabywania, posiadania i zbywania mienia ruchomego i nieruchomego, nabywania i zbywania innych praw oraz swobodnego zarządzania swoim majątkiem.
 
@@ -256,7 +266,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 31.** Niezależnie od ustawowego ubezpieczenia duchownych, kościelne osoby prawne mogą prowadzić wewnętrzną działalność ubezpieczeniową na rzecz duchownych, która w rozumieniu ustawy nie jest działalnością gospodarczą.
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5
 
 **Art. 32.**
 
@@ -275,7 +285,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Przyznaje się Kościołowi prawo nieodpłatnego użytkowania wieczystego działki gruntu położonego w Warszawie przy ul. Szarej 8, oznaczonej hip. nr N-6062.
 
-2. Minister Spraw Wewnętrznych i Administracji  określi, w terminie 6 miesięcy od dnia wejścia w życie ustawy, sposób wykonania przepisu ust. 1.
+2. Minister Spraw Wewnętrznych i Administracji Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. określi, w terminie 6 miesięcy od dnia wejścia w życie ustawy, sposób wykonania przepisu ust. 1.
 
 **Art. 34.**
 
@@ -287,14 +297,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 36.** Traci moc dekret z dnia 5 września 1947 r. o uregulowaniu położenia prawnego Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej, Kościoła Mariawickiego i Kościoła Starokatolickiego (Dz. U. poz. 316 oraz z 1994 r. poz. 324).
 
-**Art. 37.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-
-- **1)** Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. 2) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1. 3) Z dniem 1 września 1998 r. utraciły moc przepisy o stosunku Państwa do Kościołów, dotyczące wykonywania praktyk religijnych osób skazanych i tymczasowo aresztowanych na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557 i 1083). 4) W brzmieniu ustalonym przez art. 376 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r. 5) Ustawa została ogłoszona w dniu 26 kwietnia 1997 r. Załącznik – Wykaz osób prawnych Kościoła Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej I. Diecezje i parafie
-
-1. Diecezja warszawsko-płocka Parafia Błonie Parafia Filipów Parafia Leszno Parafia Lutkówka Parafia Pepłowo Parafia Płock Parafia Radzyminek Parafia Raszewo Parafia Warszawa Parafia Wierzbica Parafia Żyrardów
-
-2. Diecezja lubelsko-podlaska Parafia Cegłów Parafia Dąbrówka-Stany Parafia Gózd Parafia Kamionka Parafia Lublin Parafia Łany Parafia Mińsk Mazowiecki Parafia Piaseczno Parafia Wiśniew Parafia Żarnówka Parafia Żeliszew
-
-3. Diecezja śląsko-łódzka Parafia Dobra Parafia Gniazdów Parafia Grzmiąca Parafia Kadzidłowa Parafia Koziegłowy Parafia Lipka Parafia Łowicz Parafia Łódź Parafia Pabianice Parafia Piątek Parafia Sobótka Parafia Sosnowiec Parafia Starcza Parafia Stryków Parafia Wola Cyrusowa Parafia Zgierz II. Zgromadzenia zakonne Zgromadzenie Kapłanów Mariawitów Zgromadzenie Sióstr Mariawitek III. Seminaria Wyższe Seminarium Duchowne Kościoła Starokatolickiego Mariawitów w Płocku.
-
+**Art. 37.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 26 kwietnia 1997 r.. 1) Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. 2) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1. 3) Z dniem 1 września 1998 r. utraciły moc przepisy o stosunku Państwa do Kościołów, dotyczące wykonywania praktyk religijnych osób skazanych i tymczasowo aresztowanych na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557 i 1083). 4) W brzmieniu ustalonym przez art. 376 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r. 5) Ustawa została ogłoszona w dniu 26 kwietnia 1997 r. Załącznik – Wykaz osób prawnych Kościoła Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej I. Diecezje i parafie 1. Diecezja warszawsko-płocka Parafia Błonie Parafia Filipów Parafia Leszno Parafia Lutkówka Parafia Pepłowo Parafia Płock Parafia Radzyminek Parafia Raszewo Parafia Warszawa Parafia Wierzbica Parafia Żyrardów 2. Diecezja lubelsko-podlaska Parafia Cegłów Parafia Dąbrówka-Stany Parafia Gózd Parafia Kamionka Parafia Lublin Parafia Łany Parafia Mińsk Mazowiecki Parafia Piaseczno Parafia Wiśniew Parafia Żarnówka Parafia Żeliszew 3. Diecezja śląsko-łódzka Parafia Dobra Parafia Gniazdów Parafia Grzmiąca Parafia Kadzidłowa Parafia Koziegłowy Parafia Lipka Parafia Łowicz Parafia Łódź Parafia Pabianice Parafia Piątek Parafia Sobótka Parafia Sosnowiec Parafia Starcza Parafia Stryków Parafia Wola Cyrusowa Parafia Zgierz II. Zgromadzenia zakonne Zgromadzenie Kapłanów Mariawitów Zgromadzenie Sióstr Mariawitek III. Seminaria Wyższe Seminarium Duchowne Kościoła Starokatolickiego Mariawitów w Płocku.
 

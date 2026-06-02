@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-19 |
 | Data wydania | 2022-12-23 |
-| Wejście w życie | 2023-01-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002744) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2744/text.pdf) |
 
@@ -33,11 +32,9 @@ W rozporządzeniu Ministra Sprawiedliwości z dnia 2 stycznia 2019 r. w sprawie 
 1)
 w § 2 w ust. 3 uchyla się pkt 1;
 2)
-§ 3 otrzymuje brzmienie:
-„
+§ 3 otrzymuje brzmienie: „
 § 3.
-W ramach obsługi administracyjno-biurowej zespołu Minister Sprawiedliwości zapewnia odpowiednie środki techniczne, w szczególności sprzęt komputerowy służący do przygotowania pytań niebędący urządzeniem służącym do przekazu i odbioru informacji oraz sprzęt komputerowy zawierający system informacji prawnej.
-” .
+W ramach obsługi administracyjno-biurowej zespołu Minister Sprawiedliwości zapewnia odpowiednie środki techniczne, w szczególności sprzęt komputerowy służący do przygotowania pytań niebędący urządzeniem służącym do przekazu i odbioru informacji oraz sprzęt komputerowy zawierający system informacji prawnej. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

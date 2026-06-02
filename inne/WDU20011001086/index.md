@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-07-27 |
 | Data wydania | 2001-09-18 |
-| Wejście w życie | 2001-10-03 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011001086) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1086/text.pdf) |
 
@@ -45,7 +44,7 @@ source: "eli-html"
 2. Sprzedaż lokalu mieszkalnego następuje po cenie ustalonej na zasadach określonych w przepisach o gospodarce nieruchomościami, pomniejszonej o:
 
 - **1)** 6% – za każdy rok pracy najemcy w PKP albo PKP i PKP SA łącznie,
-- **2)** oraz 3% – za każdy rok najmu mieszkania od PKP albo PKP i PKP SA łącznie, nie więcej jednak niż o 95%. ” , dodaje się ust. 2a w brzmieniu: „
+- **2)** oraz 3% – za każdy rok najmu mieszkania od PKP albo PKP i PKP SA łącznie, – nie więcej jednak niż o 95%. ” , dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. Jeżeli osobą uprawnioną jest emeryt, rencista lub wdowa (wdowiec) po niej, to korzysta on (ona) z obniżki 95% ceny. ” ;

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-06-18 |
 | Data wydania | 2009-07-21 |
-| Wejście w życie | 2009-08-05 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091150962) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/962/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959, z 2005 r. Nr 83, poz. 719, Nr 143, poz. 1204, Nr 167, poz. 1396, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 50, poz. 331, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056 i Nr 234, poz. 1571 oraz z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341 i Nr 97, poz. 802.) wprowadza się następujące zmiany:
 
 - **1)** w art. 35 ust. 2 otrzymuje brzmienie: „
 
@@ -36,12 +35,12 @@ source: "eli-html"
 
 1. Podmiot, który zamierza zbyć bezpośrednio lub pośrednio akcje lub prawa z akcji krajowego zakładu ubezpieczeń, ma obowiązek każdorazowo powiadomić o zamiarze zbycia organ nadzoru, jeżeli w wyniku zbycia jego udział w liczbie głosów na walnym zgromadzeniu lub w kapitale zakładowym spadłby odpowiednio poniżej 10%, 20%, 331/3 %, 50%. ” .
 
-**Art. 2.** W ustawie z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539, z późn. zm.) w art. 69 ust. 1 otrzymuje brzmienie: „ 1. Kto:
+**Art. 2.** W ustawie z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 235, poz. 1734 oraz z 2008 r. Nr 171, poz. 1056 i Nr 231, poz. 1547.) w art. 69 ust. 1 otrzymuje brzmienie: „ 1. Kto:
 
 - **1)** osiągnął lub przekroczył 5%, 10%, 15%, 20%, 25%, 33%, 331/3 %, 50%, 75% albo 90% ogólnej liczby głosów w spółce publicznej albo
-- **2)** posiadał co najmniej 5%, 10%, 15%, 20%, 25%, 33%, 331/3 %, 50%, 75% albo 90% ogólnej liczby głosów w tej spółce, a w wyniku zmniejszenia tego udziału osiągnął odpowiednio 5%, 10%, 15%, 20%, 25%, 33%, 331/3 %, 50%, 75% albo 90% lub mniej ogólnej liczby głosów jest obowiązany niezwłocznie zawiadomić o tym Komisję oraz spółkę, nie później niż w terminie 4 dni roboczych od dnia, w którym dowiedział się o zmianie udziału w ogólnej liczbie głosów lub przy zachowaniu należytej staranności mógł się o niej dowiedzieć, a w przypadku zmiany wynikającej z nabycia akcji spółki publicznej w transakcji zawartej na rynku regulowanym – nie później niż w terminie 6 dni sesyjnych od dnia zawarcia transakcji. ” .
+- **2)** posiadał co najmniej 5%, 10%, 15%, 20%, 25%, 33%, 331/3 %, 50%, 75% albo 90% ogólnej liczby głosów w tej spółce, a w wyniku zmniejszenia tego udziału osiągnął odpowiednio 5%, 10%, 15%, 20%, 25%, 33%, 331/3 %, 50%, 75% albo 90% lub mniej ogólnej liczby głosów – jest obowiązany niezwłocznie zawiadomić o tym Komisję oraz spółkę, nie później niż w terminie 4 dni roboczych od dnia, w którym dowiedział się o zmianie udziału w ogólnej liczbie głosów lub przy zachowaniu należytej staranności mógł się o niej dowiedzieć, a w przypadku zmiany wynikającej z nabycia akcji spółki publicznej w transakcji zawartej na rynku regulowanym – nie później niż w terminie 6 dni sesyjnych od dnia zawarcia transakcji. ” .
 
 **Art. 3.** Do postępowań wszczętych na podstawie art. 35 i 36 ustawy, o której mowa w art. 1, i niezakończonych do dnia wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959, z 2005 r. Nr 83, poz. 719, Nr 143, poz. 1204, Nr 167, poz. 1396, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 50, poz. 331, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056 i Nr 234, poz. 1571 oraz z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341 i Nr 97, poz. 802. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 235, poz. 1734 oraz z 2008 r. Nr 171, poz. 1056 i Nr 231, poz. 1547.
 

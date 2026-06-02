@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-03-20 |
 | Data wydania | 2002-04-19 |
-| Wejście w życie | 2002-05-04 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020410364) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/364/text.pdf) |
+
+Czas pracy w instytucjach kultury
 
 **Art. 1.** W ustawie z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2001 r. Nr 13, poz. 123) wprowadza się następujące zmiany:
 
@@ -51,7 +52,7 @@ source: "eli-html"
 
 - **4)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Czas pracy w instytucjach kultury
+#### Rozdział 2a
 
 **Art. 26a.** Do pracowników instytucji kultury stosuje się przepisy Kodeksu pracy, z zastrzeżeniem przepisów art. 26b-26d. 1. Okres rozliczeniowy czasu pracy pracowników instytucji kultury nie może przekraczać 12 miesięcy. 2. Rozkłady czasu pracy pracowników są ustalane na okresy nie krótsze niż 2 tygodnie. 1. Jeżeli jest to uzasadnione rodzajem pracy lub jej organizacją, do pracowników instytucji kultury może być stosowany przerywany czas pracy, według z góry ustalonego rozkładu, przewidującego nie więcej niż jedną przerwę w pracy w ciągu doby, trwającą nie dłużej niż 5 godzin. 2. Przerwa, o której mowa w ust. 1, nie jest wliczana do czasu pracy. 3. W uzasadnionych przypadkach do pracowników, o których mowa w ust. 1, można stosować równocześnie system organizacji czasu pracy określony w art. 1294§ 1 Kodeksu pracy. Pracownikom instytucji kultury mogą być udzielane dni wolne od pracy, wynikające z rozkładu czasu pracy w pięciodniowym tygodniu pracy, łącznie z urlopem wypoczynkowym. Do pracowników instytucji kultury nie stosuje się przepisu art. 140 § 2 zdanie pierwsze Kodeksu pracy. ”
 

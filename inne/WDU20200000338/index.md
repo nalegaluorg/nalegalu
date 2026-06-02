@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 16 lutego 2020 r. w sprawie sposobu, trybu i terminów występowania do Narodowego Funduszu Zdrowia oraz udostępniania przez Narodowy Fundusz Zdrowia świadczeniobiorcy informacji o prawie do świadczeń opieki zdrowotnej oraz o udzielonych mu świadczeniach
+# Rozporządzenie Ministra Zdrowiaz dnia 16 lutego 2020 r. w sprawie sposobu, trybu i terminów występowania do Narodowego Funduszu Zdrowia oraz udostępniania przez Narodowy Fundusz Zdrowia świadczeniobiorcy informacji o prawie do świadczeń opieki zdrowotnej oraz o udzielonych mu świadczeniach Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-02-16 |
 | Data wydania | 2020-03-02 |
-| Wejście w życie | 2020-03-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000338) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/338/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 192 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 192 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób, tryb i terminy:
 1)
@@ -96,6 +95,5 @@ Informacje są przekazywane przesyłką rejestrowaną w rozumieniu art. 3 pkt 23
 § 5.
 Do dnia 30 czerwca 2020 r. Fundusz udostępnia informacje przez system teleinformatyczny Funduszu, o którym mowa w § 5 ust. 1 rozporządzenia Ministra Zdrowia z dnia 4 grudnia 2017 r. w sprawie sposobu, trybu i terminów występowania do Narodowego Funduszu Zdrowia oraz udostępniania przez Narodowy Fundusz Zdrowia świadczeniobiorcy informacji o prawie do świadczeń opieki zdrowotnej oraz o udzielonych mu świadczeniach (Dz. U. poz. 2297).
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 4 grudnia 2017 r. w sprawie sposobu, trybu i terminów występowania do Narodowego Funduszu Zdrowia oraz udostępniania przez Narodowy Fundusz Zdrowia świadczeniobiorcy informacji o prawie do świadczeń opieki zdrowotnej oraz o udzielonych mu świadczeniach (Dz. U. poz. 2297), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 33 ustawy z dnia 19 lipca 2019 r. o zmianie niektórych ustaw w związku z wdrażaniem rozwiązań w obszarze e-zdrowia (Dz. U. poz. 1590).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 4 grudnia 2017 r. w sprawie sposobu, trybu i terminów występowania do Narodowego Funduszu Zdrowia oraz udostępniania przez Narodowy Fundusz Zdrowia świadczeniobiorcy informacji o prawie do świadczeń opieki zdrowotnej oraz o udzielonych mu świadczeniach (Dz. U. poz. 2297), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 33 ustawy z dnia 19 lipca 2019 r. o zmianie niektórych ustaw w związku z wdrażaniem rozwiązań w obszarze e-zdrowia (Dz. U. poz. 1590). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 4 grudnia 2017 r. w sprawie sposobu, trybu i terminów występowania do Narodowego Funduszu Zdrowia oraz udostępniania przez Narodowy Fundusz Zdrowia świadczeniobiorcy informacji o prawie do świadczeń opieki zdrowotnej oraz o udzielonych mu świadczeniach (Dz. U. poz. 2297), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 33 ustawy z dnia 19 lipca 2019 r. o zmianie niektórych ustaw w związku z wdrażaniem rozwiązań w obszarze e-zdrowia (Dz. U. poz. 1590).
 

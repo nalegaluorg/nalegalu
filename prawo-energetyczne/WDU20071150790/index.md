@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-06-15 |
 | Data wydania | 2007-06-29 |
-| Wejście w życie | 2007-06-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071150790) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/790/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2006 r. Nr 89, poz. 625, z późn. zm.) po art. 5a dodaje się art. 5b w brzmieniu: „
+**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2006 r. Nr 89, poz. 625, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 158, poz. 1123 i Nr 170, poz. 1217 oraz z 2007 r. Nr 21, poz. 124 i Nr 52, poz. 343.) po art. 5a dodaje się art. 5b w brzmieniu: „
 
 **Art. 5b.**
 
@@ -52,5 +51,5 @@ source: "eli-html"
 - **2)** w rozliczeniach z odbiorcami, o których mowa w pkt 1, do dnia wejścia w życie zatwierdzonej dla tego przedsiębiorstwa nowej taryfy, stosuje taryfy obowiązujące do dnia przejęcia przez to przedsiębiorstwo wydzielonej z przedsiębiorstwa zintegrowanego pionowo części przedsiębiorstwa niezwiązanej z działalnością dystrybucyjną;
 - **3)** w rozliczeniach z nowymi odbiorcami do dnia wejścia w życie zatwierdzonej dla tego przedsiębiorstwa nowej taryfy stosuje taryfy właściwe dla miejsca przyłączenia ich instalacji.
 
-**Art. 7.** Ustawa wchodzi w życie z dniem ogłoszenia, z mocą od dnia 24 czerwca 2007 r.
+**Art. 7.** Ustawa wchodzi w życie z dniem ogłoszenia, z mocą od dnia 24 czerwca 2007 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 158, poz. 1123 i Nr 170, poz. 1217 oraz z 2007 r. Nr 21, poz. 124 i Nr 52, poz. 343.
 

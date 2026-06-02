@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-10-03 |
 | Data wydania | 2012-10-10 |
-| Wejście w życie | 2012-10-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001118) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1118/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 83 ust. 5 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 83 ust. 5 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679 oraz z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa opis systemu teleinformatycznego, w którym jest prowadzony Rejestr Zezwoleń na Prowadzenie Hurtowni Farmaceutycznej, zwany dalej „systemem”, zawierający:
 1)
 jego minimalną funkcjonalność;
 2)
-zestawienie struktur dokumentów elektronicznych, formatów danych oraz protokołów komunikacyjnych i szyfrujących, o których mowa w art. 13 ust. 2 pkt 2 lit. a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm.), zwanej dalej „ustawą o informatyzacji”.
+zestawienie struktur dokumentów elektronicznych, formatów danych oraz protokołów komunikacyjnych i szyfrujących, o których mowa w art. 13 ust. 2 pkt 2 lit. a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 12, poz. 65 i Nr 73, poz. 501, z 2008 r. Nr 127, poz. 817, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131 i Nr 182, poz. 1228 oraz z 2011 r. Nr 112, poz. 654, Nr 185, poz. 1092 i Nr 204, poz. 1195.), zwanej dalej „ustawą o informatyzacji”.
 § 2.
 System zapewnia następującą minimalną funkcjonalność:
 1)
@@ -41,7 +40,7 @@ gromadzenie danych dotyczących zezwoleń na prowadzenie hurtowni farmaceutyczne
 2)
 możliwość złożenia wniosku o wydanie lub zmianę zezwolenia na prowadzenie hurtowni farmaceutycznej w postaci dokumentu elektronicznego, o którym mowa w art. 3 pkt 2 ustawy o informatyzacji, na elektroniczną skrzynkę podawczą właściwego organu administracji publicznej, o której mowa w art. 3 pkt 17 ustawy o informatyzacji, za pośrednictwem elektronicznej platformy usług administracji publicznej, zwanej dalej „ePUAP”, lub formularza elektronicznego, o którym mowa w przepisach wydanych na podstawie art. 16 ust. 3 ustawy o informatyzacji, umieszczonego na stronie internetowej systemu, a także przesyłania do wnioskodawcy dokumentów elektronicznych wytworzonych przez Głównego Inspektora Farmaceutycznego, zwanego dalej „organem”, w rezultacie złożonego wniosku;
 3)
-tworzenie i modyfikowanie projektów decyzji administracyjnych dotyczących wydawania lub zmiany zezwoleń na prowadzenie hurtowni farmaceutycznej, a po zaakceptowaniu treści opatrywanie ich przez organ bezpiecznym podpisem elektronicznym, o którym mowa w art. 3 pkt 2 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, poz. 1450, z późn. zm.), tworzenie i modyfikowanie projektów innych dokumentów, a po zaakceptowaniu treści opatrywanie ich przez organ bezpiecznym podpisem elektronicznym, o którym mowa w art. 3 pkt 2 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym, albo podpisem potwierdzonym profilem zaufanym ePUAP, o którym mowa w art. 3 pkt 14 ustawy o informatyzacji, oraz przechowywanie w systemie dokumentów w postaci elektronicznej przesłanych przez podmiot wnioskujący o wydanie zezwolenia lub dla którego wydane zostało zezwolenie, a także dokumentów w postaci elektronicznej wydanych przez organ;
+tworzenie i modyfikowanie projektów decyzji administracyjnych dotyczących wydawania lub zmiany zezwoleń na prowadzenie hurtowni farmaceutycznej, a po zaakceptowaniu treści opatrywanie ich przez organ bezpiecznym podpisem elektronicznym, o którym mowa w art. 3 pkt 2 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, poz. 1450, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 64, poz. 565, z 2006 r. Nr 145, poz. 1050, z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 40, poz. 230 i Nr 182, poz. 1228 oraz z 2011 r. Nr 106, poz. 622.), tworzenie i modyfikowanie projektów innych dokumentów, a po zaakceptowaniu treści opatrywanie ich przez organ bezpiecznym podpisem elektronicznym, o którym mowa w art. 3 pkt 2 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym, albo podpisem potwierdzonym profilem zaufanym ePUAP, o którym mowa w art. 3 pkt 14 ustawy o informatyzacji, oraz przechowywanie w systemie dokumentów w postaci elektronicznej przesłanych przez podmiot wnioskujący o wydanie zezwolenia lub dla którego wydane zostało zezwolenie, a także dokumentów w postaci elektronicznej wydanych przez organ;
 4)
 automatyczne uzupełnianie danych w systemie przez wykorzystanie danych zawartych w zezwoleniu na prowadzenie hurtowni farmaceutycznej, a także w powiązanym wniosku, jeżeli wydanie zezwolenia nastąpiło w sposób, o którym mowa w pkt 2, a w przypadku gdy wydanie zezwolenia nastąpiło poza systemem, umożliwienie ręcznego wprowadzenia danych do systemu;
 5)
@@ -66,5 +65,5 @@ Zestawienie struktur dokumentów elektronicznych, formatów danych oraz protoko�
 5.
 Dokumenty elektroniczne, o których mowa w ust. 1, podpisuje się bezpiecznym podpisem elektronicznym, o którym mowa w art. 3 pkt 2 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym, albo podpisem potwierdzonym profilem zaufanym ePUAP, o którym mowa w art. 3 pkt 14 ustawy o informatyzacji.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679 oraz z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 12, poz. 65 i Nr 73, poz. 501, z 2008 r. Nr 127, poz. 817, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131 i Nr 182, poz. 1228 oraz z 2011 r. Nr 112, poz. 654, Nr 185, poz. 1092 i Nr 204, poz. 1195. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 64, poz. 565, z 2006 r. Nr 145, poz. 1050, z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 40, poz. 230 i Nr 182, poz. 1228 oraz z 2011 r. Nr 106, poz. 622.
 

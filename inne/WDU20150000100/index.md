@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 31 października 2007 r. w sprawie wykonywania funkcji wynikających ze zwierzchnictwa w polskiej przestrzeni powietrznej oraz umacniania obronności na czas pokoju (Dz. U. Nr 210, poz. 1523), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 17 grudnia 2013 r. zmieniającym rozporządzenie w sprawie wykonywania funkcji wynikających ze zwierzchnictwa w polskiej przestrzeni powietrznej oraz umacniania obronności na czas pokoju (Dz. U. poz. 1682).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 17 grudnia 2013 r. zmieniającego rozporządzenie w sprawie wykonywania funkcji wynikających ze zwierzchnictwa w polskiej przestrzeni powietrznej oraz umacniania obronności na czas pokoju (Dz. U. poz. 1682), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 17 grudnia 2013 r. zmieniającego rozporządzenie w sprawie wykonywania funkcji wynikających ze zwierzchnictwa w polskiej przestrzeni powietrznej oraz umacniania obronności na czas pokoju (Dz. U. poz. 1682), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r. ” .
 Załącznik – Rozporządzenie Rady Ministrów z dnia 31 października 2007 r. w sprawie wykonywania funkcji wynikających ze zwierzchnictwa w polskiej przestrzeni powietrznej oraz umacniania obronności na czas pokoju
 Na podstawie art. 4 ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2013 r. poz. 1393 oraz z 2014 r. poz. 768) zarządza się, co następuje:
 § 1.
@@ -92,13 +90,13 @@ instytucje zapewniające służby żeglugi powietrznej;
 cywilne lotniskowe organy służb ruchu lotniczego.
 § 5.
 Współpraca, o której mowa w § 3, w części dotyczącej lotnictwa państwowego jest prowadzona przez:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Rady Ministrów z dnia 17 grudnia 2013 r. zmieniającego rozporządzenie w sprawie wykonywania funkcji wynikających ze zwierzchnictwa w polskiej przestrzeni powietrznej oraz umacniania obronności na czas pokoju (Dz. U. poz. 1682), które weszło w życie z dniem 1 stycznia 2014 r.)
 Dowódcę Operacyjnego Rodzajów Sił Zbrojnych;
 2)
 Szefostwo Służby Ruchu Lotniczego Sił Zbrojnych Rzeczypospolitej Polskiej;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1.)
 Centrum Operacji Powietrznych – Dowództwo Komponentu Powietrznego;
-4)
+4W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1.)
 Ośrodki Dowodzenia i Naprowadzania, Mobilną Jednostkę Dowodzenia Operacjami Powietrznymi;
 5)
 wojskowe lotniskowe organy służby ruchu lotniczego;
@@ -107,11 +105,11 @@ stanowiska kierowania lotami na poligonach lotniczych;
 7)
 stanowiska kierowania lotami bezzałogowych statków powietrznych;
 8)
-(uchylony);
+(uchylony);Przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 1.
 9)
 organy dowodzenia lotnictwem podległe ministrowi właściwemu do spraw wewnętrznych.
 § 6.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Organizację współpracy i ustanowienie jej warunków poza zakresem zadań, o których mowa w § 3, mogą określać porozumienia zawierane między instytucjami zapewniającymi służby ruchu lotniczego a Szefostwem Służby Ruchu Lotniczego Sił Zbrojnych Rzeczypospolitej Polskiej. Porozumienia te podlegają zatwierdzeniu przez Prezesa Urzędu Lotnictwa Cywilnego i Dowódcę Operacyjnego Rodzajów Sił Zbrojnych.
 2.
 Porozumienia, o których mowa w ust. 1, mogą obejmować również zasady współpracy i wymiany informacji między sąsiadującymi cywilnymi i wojskowymi organami służb ruchu lotniczego.
@@ -132,11 +130,11 @@ prowadzenia akcji poszukiwawczo-ratowniczych;
 7)
 zapewnienia służby informacji lotniczej;
 8)
-zapewniania osłony meteorologicznej lotnictwu państwowemu na zasadach określonych w załączniku nr 3 do Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. Nr 35, poz. 212 i 214, z późn. zm.), z uwzględnieniem przepisów rozporządzenia Ministrów Infrastruktury, Środowiska, Spraw Wewnętrznych i Administracji oraz Obrony Narodowej z dnia 28 października 2004 r. w sprawie osłony meteorologicznej lotnictwa (Dz. U. Nr 245, poz. 2459).
+zapewniania osłony meteorologicznej lotnictwu państwowemu na zasadach określonych w załączniku nr 3 do Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. Nr 35, poz. 212 i 214, z późn. zm.Zmiany wymienionej umowy zostały ogłoszone w Dz. U. z 1963 r. Nr 24, poz. 137 i 138, z 1969 r. Nr 27, poz. 210 i 211, z 1976 r. Nr 21, poz. 130 i 131, Nr 32, poz. 188 i 189 i Nr 39, poz. 227 i 228, z 1984 r. Nr 39, poz. 199 i 200, z 2000 r. Nr 39, poz. 446 i 447, z 2002 r. Nr 58, poz. 527 i 528, z 2003 r. Nr 78, poz. 700 i 701 oraz z 2012 r. poz. 368 i 370.), z uwzględnieniem przepisów rozporządzenia Ministrów Infrastruktury, Środowiska, Spraw Wewnętrznych i Administracji oraz Obrony Narodowej z dnia 28 października 2004 r. w sprawie osłony meteorologicznej lotnictwa (Dz. U. Nr 245, poz. 2459)Rozporządzenie utraciło moc z dniem 19 marca 2013 r. na podstawie art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. Nr 170, poz. 1015), która weszła w życie z dniem 18 września 2011 r..
 § 8.
 Z zachowaniem kompetencji właściwych ministrów, instytucje zapewniające służby żeglugi powietrznej oraz jednostki organizacyjne wymienione w § 5 uzgadniają procedury operacyjne współpracy, o której mowa w § 3, dla podległych im jednostek.
 § 9.
-(uchylony).
+(uchylony).Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 14 listopada 2007 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministrów Infrastruktury i Obrony Narodowej z dnia 13 stycznia 2004 r. w sprawie wykonywania funkcji wynikających ze zwierzchnictwa w polskiej przestrzeni powietrznej oraz umacniania obronności na czas pokoju (Dz. U. Nr 15, poz. 132 oraz z 2005 r. Nr 214, poz. 1810), które zgodnie z art. 21 ustawy z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej (Dz. U. Nr 249, poz. 1829) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia. 1) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Rady Ministrów z dnia 17 grudnia 2013 r. zmieniającego rozporządzenie w sprawie wykonywania funkcji wynikających ze zwierzchnictwa w polskiej przestrzeni powietrznej oraz umacniania obronności na czas pokoju (Dz. U. poz. 1682), które weszło w życie z dniem 1 stycznia 2014 r. 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1. 3) Przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 1. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 5) Zmiany wymienionej umowy zostały ogłoszone w Dz. U. z 1963 r. Nr 24, poz. 137 i 138, z 1969 r. Nr 27, poz. 210 i 211, z 1976 r. Nr 21, poz. 130 i 131, Nr 32, poz. 188 i 189 i Nr 39, poz. 227 i 228, z 1984 r. Nr 39, poz. 199 i 200, z 2000 r. Nr 39, poz. 446 i 447, z 2002 r. Nr 58, poz. 527 i 528, z 2003 r. Nr 78, poz. 700 i 701 oraz z 2012 r. poz. 368 i 370. 6) Rozporządzenie utraciło moc z dniem 19 marca 2013 r. na podstawie art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. Nr 170, poz. 1015), która weszła w życie z dniem 18 września 2011 r. 7) Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 8) Rozporządzenie zostało ogłoszone w dniu 14 listopada 2007 r. 9) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministrów Infrastruktury i Obrony Narodowej z dnia 13 stycznia 2004 r. w sprawie wykonywania funkcji wynikających ze zwierzchnictwa w polskiej przestrzeni powietrznej oraz umacniania obronności na czas pokoju (Dz. U. Nr 15, poz. 132 oraz z 2005 r. Nr 214, poz. 1810), które zgodnie z art. 21 ustawy z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej (Dz. U. Nr 249, poz. 1829) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
 

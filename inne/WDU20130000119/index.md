@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-01-18 |
 | Data wydania | 2013-01-25 |
-| Wejście w życie | 2013-02-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000119) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/119/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wysokość limitów środków w podziale na poszczególne województwa w ramach działań, o których mowa w § 1 pkt 1
 Treść rozporządzenia
-Na podstawie art. 16 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 16 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 76, poz. 490 i Nr 148, poz. 993, z 2011 r. Nr 205, poz. 1202 oraz z 2012 r. poz. 243.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -64,8 +63,7 @@ tworzenie i rozwój mikroprzedsiębiorstw,
 4)
 podstawowe usługi dla gospodarki i ludności wiejskiej,
 5)
-odnowa i rozwój wsi
-zawierają zapotrzebowanie na środki przekraczające określoną w załączniku do rozporządzenia wysokość odpowiedniego limitu środków, niezwłocznie informuje się o tym, w formie pisemnej, a także o sposobie postępowania z tymi wnioskami.
+odnowa i rozwój wsi – zawierają zapotrzebowanie na środki przekraczające określoną w załączniku do rozporządzenia wysokość odpowiedniego limitu środków, niezwłocznie informuje się o tym, w formie pisemnej, a także o sposobie postępowania z tymi wnioskami.
 2.
 Operacje objęte wnioskami, o których mowa w ust. 1, umieszcza się na liście, w kolejności określonej w przepisach w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poszczególnych działań wymienionych w ust. 1, zgodnie z którą przysługuje pomoc finansowa.
 3.
@@ -88,9 +86,9 @@ Jeżeli przyznanie pomocy finansowej wnioskodawcy, o którym mowa w ust. 1, w ra
 § 5.
 Wnioskodawcom, których wnioski o przyznanie pomocy finansowej złożone w ramach działania renty strukturalne zawierają takie zapotrzebowanie na środki, którego część stanowiąca sumę środków, jakie maksymalnie miałyby być wypłacone danemu wnioskodawcy przez okres 52 miesięcy, przekracza określoną w załączniku do rozporządzenia wysokość odpowiedniego limitu środków, odmawia się przyznania pomocy finansowej.
 § 6.
-Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 marca 2009 r. w sprawie podziału środków Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 48, poz. 388, z późn. zm.).
+Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 marca 2009 r. w sprawie podziału środków Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 48, poz. 388, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 72, poz. 626, Nr 133, poz. 1100 i Nr 193, poz. 1494, z 2010 r. Nr 86, poz. 557, Nr 147, poz. 985, Nr 160, poz. 1077 i Nr 258, poz. 1759, z 2011 r. Nr 62, poz. 320, Nr 168, poz. 1011 i Nr 191, poz. 1139 oraz z 2012 r. poz. 277 i 866.).
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 76, poz. 490 i Nr 148, poz. 993, z 2011 r. Nr 205, poz. 1202 oraz z 2012 r. poz. 243. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 72, poz. 626, Nr 133, poz. 1100 i Nr 193, poz. 1494, z 2010 r. Nr 86, poz. 557, Nr 147, poz. 985, Nr 160, poz. 1077 i Nr 258, poz. 1759, z 2011 r. Nr 62, poz. 320, Nr 168, poz. 1011 i Nr 191, poz. 1139 oraz z 2012 r. poz. 277 i 866.
 Załącznik – Wysokość limitów środków w podziale na poszczególne województwa w ramach działań, o których mowa w § 1 pkt 1
 I. Renty strukturalne
 Lp. Nazwa województwa Wysokość limitów środków w euro 1 dolnośląskie 5 570 739 2 kujawsko-pomorskie 6 384 326 3 lubelskie 14 475 491 4 lubuskie 2 242 256 5 łódzkie 11 018 920 6 małopolskie 4 119 450 7 mazowieckie 19 663 799 8 opolskie 2 926 649 9 podkarpackie 5 549 297 10 podlaskie 7 210 189 11 pomorskie 4 212 928 12 śląskie 4 629 618 13 świętokrzyskie 7 349 205 14 warmińsko-mazurskie 4 061710 15 wielkopolskie 11 324 202 16 zachodniopomorskie 3 261 221 Kwota na działanie 114 000 000

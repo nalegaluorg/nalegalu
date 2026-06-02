@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 2 grudnia 2016 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw
+# Ustawa z dnia 2 grudnia 2016 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników oraz ustawę z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-02 |
 | Data wydania | 2017-01-02 |
-| Wejście w życie | 2017-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000002) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2/text.pdf) |
 
@@ -164,5 +163,5 @@ source: "eli-html"
 
 **Art. 11.** W 2017 r. do świadczeń emerytalno-rentowych wypłacanych z Funduszu Ubezpieczeń Społecznych i Funduszu Emerytur Pomostowych, którymi dysponuje Zakład Ubezpieczeń Społecznych, oraz świadczeń emerytalno-rentowych wypłacanych z Funduszu Emerytalno-Rentowego, którym dysponuje Prezes Kasy Rolniczego Ubezpieczenia Społecznego, nie stosuje się przepisu art. 29 ust. 10 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, 1948, 1984 i 2260).
 
-**Art. 12.** Ustawa wchodzi w życie z dniem 1 marca 2017 r., z wyjątkiem art. 9 oraz art. 10 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+**Art. 12.** Ustawa wchodzi w życie z dniem 1 marca 2017 r., z wyjątkiem art. 9 oraz art. 10 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników oraz ustawę z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych.
 

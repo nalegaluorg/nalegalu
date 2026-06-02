@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 11 września 2020 r. w sprawie czasu służby policjantów
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 11 września 2020 r. w sprawie czasu służby policjantów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-11 |
 | Data wydania | 2020-09-11 |
-| Wejście w życie | 2020-09-12 |
 | Ostatnia zmiana | 2024-03-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001574) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1574/text.pdf) |
 
@@ -73,8 +72,7 @@ Policjantowi pełniącemu służbę w zmianowym rozkładzie czasu służby, o kt
 1)
 o których mowa w § 7 ust. 1,
 2)
-realizacji zadań o szczególnym charakterze dla ochrony bezpieczeństwa ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, w szczególności mających na celu zapobieżenie zdarzeniom, o których mowa w art. 18 ust. 1 ustawy
-udzielony czas wolny może obejmować mniejszą liczbę godzin, nie może być jednak krótszy niż 24 godziny.
+realizacji zadań o szczególnym charakterze dla ochrony bezpieczeństwa ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, w szczególności mających na celu zapobieżenie zdarzeniom, o których mowa w art. 18 ust. 1 ustawy – udzielony czas wolny może obejmować mniejszą liczbę godzin, nie może być jednak krótszy niż 24 godziny.
 8.
 Policjant, do którego obowiązków należy kierowanie pojazdem samochodowym, może pełnić służbę do 12 godzin na dobę, w tym kierować pojazdem nie więcej niż 10 godzin.
 9.
@@ -91,8 +89,7 @@ W podstawowym rozkładzie czasu służby policjantowi udziela się, po zakończe
 1)
 o których mowa w § 7 ust. 1,
 2)
-realizacji zadań o szczególnym charakterze dla ochrony bezpieczeństwa ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, w szczególności mających na celu zapobieżenie zdarzeniom, o których mowa w art. 18 ust. 1 ustawy
-udzielony czas wolny może obejmować mniejszą liczbę godzin, nie może być jednak krótszy niż 24 godziny.
+realizacji zadań o szczególnym charakterze dla ochrony bezpieczeństwa ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, w szczególności mających na celu zapobieżenie zdarzeniom, o których mowa w art. 18 ust. 1 ustawy – udzielony czas wolny może obejmować mniejszą liczbę godzin, nie może być jednak krótszy niż 24 godziny.
 3.
 Do czasu służby wlicza się 20 minut przerwy. Przepis § 4 ust. 10 stosuje się odpowiednio.
 § 6.
@@ -163,11 +160,9 @@ policjanta będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej 
 2)
 policjanta opiekującego się dzieckiem do 8 lat, jeżeli z takiego uprawnienia nie korzysta drugie z rodziców lub opiekun,
 3)
-policjanta-kobietę karmiącą dziecko piersią
-bez ich zgody.
+policjanta-kobietę karmiącą dziecko piersią – bez ich zgody.
 § 17.
 Rekompensatę pieniężną, o której mowa w art. 33 ust. 3 ustawy, wypłaca się na podstawie listy imiennej, zatwierdzonej przez przełożonego właściwego w sprawach osobowych lub upoważnioną przez niego osobę, w terminie określonym w art. 33 ust. 3d ustawy.
 § 18.
-Rozporządzenie wchodzi w życie z dniem 12 września 2020 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 18 października 2001 r. w sprawie rozkładu czasu służby policjantów (Dz. U. poz. 1471, z 2014 r. poz. 1286, z 2018 r. poz. 209 oraz z 2019 r. poz. 463 i 627), które zgodnie z art. 19 ust. 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw (Dz. U. poz. 1635) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem 12 września 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 18 października 2001 r. w sprawie rozkładu czasu służby policjantów (Dz. U. poz. 1471, z 2014 r. poz. 1286, z 2018 r. poz. 209 oraz z 2019 r. poz. 463 i 627), które zgodnie z art. 19 ust. 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw (Dz. U. poz. 1635) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 18 października 2001 r. w sprawie rozkładu czasu służby policjantów (Dz. U. poz. 1471, z 2014 r. poz. 1286, z 2018 r. poz. 209 oraz z 2019 r. poz. 463 i 627), które zgodnie z art. 19 ust. 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw (Dz. U. poz. 1635) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

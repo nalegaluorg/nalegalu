@@ -173,7 +173,7 @@ Aby umieści ć to pole w dowolny m miejscu [Przycią gnij uwagę czytelni ka in
 Aby umieści ć to pole [Przycią gnij uwagę czytelni ka interesuj ącym cytatem z dokume ntu lub podaj w tym miejscu kluczow ą kwestię.
 Aby umieści ć to pole [Przycią gnij uwagę czytelni ka interesuj ącym cytatem z dokume ntu lub podaj w tym miejscu kluczow ą kwestię.
 Aby umieści ć to pole w [Przycią gnij uwagę czytelni ka interesuj ącym cytatem z dokume ntu lub podaj w tym miejscu kluczow ą kwestię.
-Aby umieści ć to pole w Załącznik nr 2 WZÓR PROTOKÓŁ z przebiegu badania laboratoryjnego moczu / krwi* na zawartość w organizmie funkcjonariusza alkoholu lub obecność środka działającego podobnie do alkoholu , dnia 20 r.
+Aby umieści ć to pole w Załącznik nr 2 WZÓR PROTOKÓŁ z przebiegu badania laboratoryjnego moczu / krwi * na zawartość w organizmie funkcjonariusza alkoholu lub obecność środka działającego podobnie do alkoholu , dnia 20 r.
 Działając na podstawie art. 157a ust. 4 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2023 r.
 poz. 1683 i 1860) Część A POBRANIE MATERIAŁU BIOLOGICZNEGO DO BADAŃ
 1.

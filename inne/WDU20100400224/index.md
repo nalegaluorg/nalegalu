@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-01-08 |
 | Data wydania | 2010-03-16 |
-| Wejście w życie | 2010-05-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100400224) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/224/text.pdf) |
 

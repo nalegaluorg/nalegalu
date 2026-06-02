@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 18 sierpnia 2022 r. zmieniające rozporządzenie w sprawie świadectw kwalifikacji
+# Rozporządzenie Ministra Infrastrukturyz dnia 18 sierpnia 2022 r. zmieniające rozporządzenie w sprawie świadectw kwalifikacji Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-18 |
 | Data wydania | 2022-09-14 |
-| Wejście w życie | 2022-09-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001938) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1938/text.pdf) |
 
@@ -35,41 +34,35 @@ w załączniku nr 5 do rozporządzenia:
 a)
 pkt 1.1.2 otrzymuje brzmienie:
 1.1.2.
-Świadectwo kwalifikacji pilota (UACP) z ważnym uprawnieniem podstawowym, o którym mowa w pkt 1.2.1 ppkt 1–4, oraz ważnym uprawnieniem dodatkowym, o którym mowa w pkt 1.2.2 ppkt 1 i 2, w przypadku statków powietrznych przeznaczonych do lądowania na wodzie, upoważnia do samodzielnego wykonywania lotów na statku powietrznym danej kategorii, do którego nie ma zastosowania rozporządzenie nr 2018/1139/UE i który spełnia warunki określone w przepisach wydanych na podstawie art. 33 ust. 1 i 4 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze.
-” ,
+Świadectwo kwalifikacji pilota (UACP) z ważnym uprawnieniem podstawowym, o którym mowa w pkt 1.2.1 ppkt 1–4, oraz ważnym uprawnieniem dodatkowym, o którym mowa w pkt 1.2.2 ppkt 1 i 2, w przypadku statków powietrznych przeznaczonych do lądowania na wodzie, upoważnia do samodzielnego wykonywania lotów na statku powietrznym danej kategorii, do którego nie ma zastosowania rozporządzenie nr 2018/1139/UE i który spełnia warunki określone w przepisach wydanych na podstawie art. 33 ust. 1 i 4 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze. ” ,
 b)
 w pkt 1.2.1:
-– ppkt 3 otrzymuje brzmienie: „ 3) uprawnienie do pilotowania szybowców ultralekkich UGLP, w tym szybowców z napędem oraz motoszybowców; ” ,
-– dodaje się ppkt 4 w brzmieniu: „ 4) uprawnienie do pilotowania ultralekkich balonów i sterowców UBLP. ” ,
+ppkt 3 otrzymuje brzmienie: „
+3)
+uprawnienie do pilotowania szybowców ultralekkich UGLP, w tym szybowców z napędem oraz motoszybowców; ” ,
+dodaje się ppkt 4 w brzmieniu: „
+4)
+uprawnienie do pilotowania ultralekkich balonów i sterowców UBLP. ” ,
 c)
-w pkt 1.2.2 w ppkt 5 kropkę zastępuje się średnikiem i dodaje się ppkt 6 w brzmieniu:
-„
+w pkt 1.2.2 w ppkt 5 kropkę zastępuje się średnikiem i dodaje się ppkt 6 w brzmieniu: „
 6)
-uprawnienie instruktora ultralekkiego balonu i sterowca INS(B), zwane dalej „uprawnieniem instruktora INS(B)”.
-” ,
+uprawnienie instruktora ultralekkiego balonu i sterowca INS(B), zwane dalej „uprawnieniem instruktora INS(B)”. ” ,
 d)
 po pkt 1.2.2.3 dodaje się pkt 1.2.2.4 w brzmieniu:
 1.2.2.4.
-Uprawnienie instruktora INS(B) upoważnia do prowadzenia szkolenia lotniczego w celu uzyskania świadectwa kwalifikacji pilota (UACP) z uprawnieniem podstawowym do pilotowania ultralekkich balonów i sterowców UBLP oraz do pozostałych uprawnień w zakresie danej kategorii statku powietrznego posiadanych przez instruktora INS(B). Uprawnienie instruktora INS(B) może również upoważniać do prowadzenia szkolenia lotniczego w celu uzyskania uprawnienia instruktora INS(B) pod warunkiem posiadania przez instruktora INS(B) co najmniej 50 godzin nalotu jako instruktor INS(B).
-” ,
-Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
+Uprawnienie instruktora INS(B) upoważnia do prowadzenia szkolenia lotniczego w celu uzyskania świadectwa kwalifikacji pilota (UACP) z uprawnieniem podstawowym do pilotowania ultralekkich balonów i sterowców UBLP oraz do pozostałych uprawnień w zakresie danej kategorii statku powietrznego posiadanych przez instruktora INS(B). Uprawnienie instruktora INS(B) może również upoważniać do prowadzenia szkolenia lotniczego w celu uzyskania uprawnienia instruktora INS(B) pod warunkiem posiadania przez instruktora INS(B) co najmniej 50 godzin nalotu jako instruktor INS(B). ” , Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 e)
 pkt 1.3.1.3 otrzymuje brzmienie:
 1.3.1.3.
-Szkolenie teoretyczne kandydata ubiegającego się o świadectwo kwalifikacji pilota (UACP) z uprawnieniem podstawowym, który posiada ważną licencję pilota samolotowego, śmigłowcowego, szybowcowego lub balonowego, świadectwo kwalifikacji pilota paralotni (PGP), świadectwo kwalifikacji pilota wiatrakowcowego o maksymalnej masie startowej (MTOM) do 560 kg (UAGP) albo świadectwo kwalifikacji pilota motolotni (PHGP) z ważnym uprawnieniem podstawowym, może być ograniczone do zagwarantowania temu kandydatowi nabycia wiedzy z przedmiotów, o których mowa w pkt 1.3.1 ppkt 6–10.
-” ,
+Szkolenie teoretyczne kandydata ubiegającego się o świadectwo kwalifikacji pilota (UACP) z uprawnieniem podstawowym, który posiada ważną licencję pilota samolotowego, śmigłowcowego, szybowcowego lub balonowego, świadectwo kwalifikacji pilota paralotni (PGP), świadectwo kwalifikacji pilota wiatrakowcowego o maksymalnej masie startowej (MTOM) do 560 kg (UAGP) albo świadectwo kwalifikacji pilota motolotni (PHGP) z ważnym uprawnieniem podstawowym, może być ograniczone do zagwarantowania temu kandydatowi nabycia wiedzy z przedmiotów, o których mowa w pkt 1.3.1 ppkt 6–10. ” ,
 f)
-w pkt 1.3.2.1 w ppkt 3 kropkę zastępuje się średnikiem i dodaje się ppkt 4 w brzmieniu:
-„
+w pkt 1.3.2.1 w ppkt 3 kropkę zastępuje się średnikiem i dodaje się ppkt 4 w brzmieniu: „
 4)
-co najmniej 15 godzin lotu, w tym co najmniej 2 godziny lotu w charakterze dowódcy statku powietrznego, w tym 1 lot trwający nie krócej niż 1 godzinę oraz co najmniej 20 startów i lądowań – w przypadku uprawnienia do pilotowania ultralekkich balonów i sterowców UBLP.
-” ,
+co najmniej 15 godzin lotu, w tym co najmniej 2 godziny lotu w charakterze dowódcy statku powietrznego, w tym 1 lot trwający nie krócej niż 1 godzinę oraz co najmniej 20 startów i lądowań – w przypadku uprawnienia do pilotowania ultralekkich balonów i sterowców UBLP. ” ,
 g)
-w pkt 1.3.5 w ppkt 3 na końcu dodaje się przecinek i dodaje się ppkt 4 w brzmieniu:
-„
+w pkt 1.3.5 w ppkt 3 na końcu dodaje się przecinek i dodaje się ppkt 4 w brzmieniu: „
 4)
-pilotowania balonów lub sterowców – może uzyskać świadectwo kwalifikacji pilota (UACP) wraz z uprawnieniem podstawowym do pilotowania ultralekkich balonów i sterowców UBLP bez szkolenia teoretycznego i praktycznego
-” ,
+pilotowania balonów lub sterowców – może uzyskać świadectwo kwalifikacji pilota (UACP) wraz z uprawnieniem podstawowym do pilotowania ultralekkich balonów i sterowców UBLP bez szkolenia teoretycznego i praktycznego ” ,
 h)
 dodaje się pkt 1.4.7–1.4.7.6.2 w brzmieniu:
 1.4.7.
@@ -121,49 +114,45 @@ Wydanie uprawnienia. Warunkiem wydania uprawnienia instruktora INS(B) jest posia
 1.4.7.6.1.
 Uprawnienie instruktora INS(B) może być wydane członkowi personelu lotniczego posiadającemu ważną licencję uprawniającą do pilotowania balonów lub sterowców z ważnym uprawnieniem instruktora. Przepisu pkt 1.4.7.6 nie stosuje się.
 1.4.7.6.2.
-Ważność uprawnienia instruktora INS(B), o którym mowa w pkt 1.4.7.6.1, jest taka sama jak ważność uprawnienia instruktora.
-” ;
+Ważność uprawnienia instruktora INS(B), o którym mowa w pkt 1.4.7.6.1, jest taka sama jak ważność uprawnienia instruktora. ” ;
 2)
 w załączniku nr 8 do rozporządzenia po pkt 1.1.2 dodaje się pkt 1.1.3 w brzmieniu:
 1.1.3.
-Świadectwo kwalifikacji pilota (UAGP) z ważnym uprawnieniem podstawowym, o którym mowa w pkt 1.2.1, upoważnia do samodzielnego wykonywania lotów na wiatrakowcu, do którego nie ma zastosowania rozporządzenie nr 2018/1139/UE i który spełnia warunki określone w przepisach wydanych na podstawie art. 33 ust. 1 i 4 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze.
-” ;
+Świadectwo kwalifikacji pilota (UAGP) z ważnym uprawnieniem podstawowym, o którym mowa w pkt 1.2.1, upoważnia do samodzielnego wykonywania lotów na wiatrakowcu, do którego nie ma zastosowania rozporządzenie nr 2018/1139/UE i który spełnia warunki określone w przepisach wydanych na podstawie art. 33 ust. 1 i 4 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze. ” ;
 3)
 w załączniku nr 9 do rozporządzenia:
 a)
-w pkt 1.2.1 po ppkt 3 dodaje się ppkt 3a i 3b w brzmieniu:
-„
+w pkt 1.2.1 po ppkt 3 dodaje się ppkt 3a i 3b w brzmieniu: „
 3a)
 TM(FB) – uprawnienie dotyczące jednoosobowego lub dwuosobowego balonu o maksymalnej nominalnej objętości powłoki nieprzekraczającej, w przypadku gorącego powietrza – 1200 m3, a w przypadku innych gazów nośnych – 400 m3, jako całości;
 3b)
-TM(AS) – uprawnienie dotyczące jednoosobowego lub dwuosobowego sterowca o maksymalnej nominalnej objętości powłoki nieprzekraczającej, w przypadku gorącego powietrza – 1200 m3, a w przypadku innych gazów nośnych – 400 m3, jako całości;
-” ,
+TM(AS) – uprawnienie dotyczące jednoosobowego lub dwuosobowego sterowca o maksymalnej nominalnej objętości powłoki nieprzekraczającej, w przypadku gorącego powietrza – 1200 m3, a w przypadku innych gazów nośnych – 400 m3, jako całości; ” ,
 b)
 pkt 1.2.2 otrzymuje brzmienie:
 1.2.2.
-W przypadku gdy mechanik wykonujący obsługę statku powietrznego posiada licencję wydaną zgodnie z załącznikiem III do rozporządzenia Komisji (UE) nr 1321/2014 z dnia 26 listopada 2014 r. w sprawie ciągłej zdatności do lotu statków powietrznych oraz wyrobów lotniczych, części i wyposażenia, a także w sprawie zatwierdzeń udzielanych organizacjom i personelowi zaangażowanym w takie zadania (Dz. Urz. UE L 362 z 17.12.2014, str. 1, z późn. zm.) (Part-66) w kategorii B1, B2 lub B3, uprawnienia lotnicze wyszczególnione w pkt 1.2.1 ppkt 1–7 mogą zostać wpisane do tej licencji na stronie „Załącznik do FORMULARZA 26 EASA”.
-” ,
+W przypadku gdy mechanik wykonujący obsługę statku powietrznego posiada licencję wydaną zgodnie z załącznikiem III do rozporządzenia Komisji (UE) nr 1321/2014 z dnia 26 listopada 2014 r. w sprawie ciągłej zdatności do lotu statków powietrznych oraz wyrobów lotniczych, części i wyposażenia, a także w sprawie zatwierdzeń udzielanych organizacjom i personelowi zaangażowanym w takie zadania (Dz. Urz. UE L 362 z 17.12.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 07.07.2015, str. 4, Dz. Urz. UE L 241 z 17.09.2015, str. 16, Dz. Urz. UE L 50 z 28.02.2017, str. 13, Dz. Urz. UE L 123 z 16.05.2017, str. 52, Dz. Urz. UE L 141 z 01.06.2017, str. 30, Dz. Urz. UE L 144 z 07.06.2017, str. 37, Dz. Urz. UE L 126 z 23.05.2018, str. 1, Dz. Urz. UE L 207 z 16.08.2018, str. 2, Dz. Urz. UE L 228 z 04.09.2019, str. 1, Dz. Urz. UE L 228 z 04.09.2019, str. 106, Dz. Urz. UE L 230 z 06.09.2019, str. 7, Dz. Urz. UE L 56 z 27.02.2020, str. 20, Dz. Urz. UE L 203 z 26.06.2020, str. 97–102, Dz. Urz. UE L 211 z 03.07.2020, str. 22 i 24, Dz. Urz. UE L 257 z 06.08.2020, str. 14, Dz. Urz. UE L 143 z 27.04.2021, str. 6, Dz. Urz. UE L 145 z 28.04.2021, str. 20, Dz. Urz. UE L 400 z 12.11.2021, str. 18 oraz Dz. Urz. UE L 84 z 11.03.2022, str. 20.) (Part-66) w kategorii B1, B2 lub B3, uprawnienia lotnicze wyszczególnione w pkt 1.2.1 ppkt 1–7 mogą zostać wpisane do tej licencji na stronie „Załącznik do FORMULARZA 26 EASA”. ” ,
 c)
 po pkt 1.2.5 dodaje się pkt 1.2.6 w brzmieniu:
 1.2.6.
-Z zastrzeżeniem pkt 1.2.3–1.2.5 uprawnienie podstawowe, o którym mowa w pkt 1.2.1, upoważnia do poświadczania obsługi statku powietrznego, do którego nie ma zastosowania rozporządzenie nr 2018/1139/UE i który spełnia warunki określone w przepisach wydanych na podstawie art. 33 ust. 1 i 4 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, w zakresie uprawnień wpisanych do świadectwa kwalifikacji.
-” ,
+Z zastrzeżeniem pkt 1.2.3–1.2.5 uprawnienie podstawowe, o którym mowa w pkt 1.2.1, upoważnia do poświadczania obsługi statku powietrznego, do którego nie ma zastosowania rozporządzenie nr 2018/1139/UE i który spełnia warunki określone w przepisach wydanych na podstawie art. 33 ust. 1 i 4 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, w zakresie uprawnień wpisanych do świadectwa kwalifikacji. ” ,
 d)
-w pkt 1.3.5.1 ppkt 2 otrzymuje brzmienie:
-„
+w pkt 1.3.5.1 ppkt 2 otrzymuje brzmienie: „
 2)
-statków powietrznych jako całości objętych uprawnieniami podstawowymi, o których mowa w pkt 1.2.1 ppkt 1–3b, wynoszącą co najmniej 12 miesięcy.
-” ;
+statków powietrznych jako całości objętych uprawnieniami podstawowymi, o których mowa w pkt 1.2.1 ppkt 1–3b, wynoszącą co najmniej 12 miesięcy. ” ;
 4)
 w załączniku nr 11 do rozporządzenia:
 a)
-w tabeli nr 1 wiersz 5 otrzymuje brzmienie: pilot statku powietrznego o maksymalnej masie startowej (MTOM) do 495 kg ultralight aircraft pilot UACP UAP(L), UAP(S), UHP(L), UHP(S), UGLP, UBLP, INS(A), INS(H), INS(GL), INS (B)
+w tabeli nr 1 wiersz 5 otrzymuje brzmienie:
+pilot statku powietrznego o maksymalnej masie startowej (MTOM) do 495 kg ultralight aircraft pilot UACP UAP(L), UAP(S), UHP(L), UHP(S), UGLP, UBLP, INS(A), INS(H), INS(GL), INS (B)
 b)
 w tabeli nr 2:
-– po wierszu 6 dodaje się wiersz w brzmieniu: INS(B) uprawnienie instruktora ultralekkiego balonu i sterowca Instructor rating (balloon and airship) UACP
-– po wierszu 23 dodaje się wiersz w brzmieniu: UBLP uprawnienie do pilotowania ultralekkiego balonu i sterowca Ultralight balloon and airships pilot UACP
+po wierszu 6 dodaje się wiersz w brzmieniu:
+INS(B) uprawnienie instruktora ultralekkiego balonu i sterowca Instructor rating (balloon and airship) UACP
+po wierszu 23 dodaje się wiersz w brzmieniu:
+UBLP uprawnienie do pilotowania ultralekkiego balonu i sterowca Ultralight balloon and airships pilot UACP
 c)
-w tabeli nr 3 po wierszu 15 dodaje się wiersze w brzmieniu: TM(FB) uprawnienie dotyczące ultralekkiego balonu jako całości Totality of ultralight balloon TM(AS) uprawnienie dotyczące ultralekkiego sterowca jako całości Totality of ultralight airship
+w tabeli nr 3 po wierszu 15 dodaje się wiersze w brzmieniu:
+TM(FB) uprawnienie dotyczące ultralekkiego balonu jako całości Totality of ultralight balloon TM(AS) uprawnienie dotyczące ultralekkiego sterowca jako całości Totality of ultralight airship
 § 2.
 1.
 Do szkoleń teoretycznych, o których mowa w pkt 1.3.1.3 załącznika nr 5 do rozporządzenia zmienianego w § 1, rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
@@ -172,6 +161,5 @@ Do postępowań w sprawie przyznania i wpisania do świadectw kwalifikacji upraw
 3.
 Świadectwa kwalifikacji wydane przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 07.07.2015, str. 4, Dz. Urz. UE L 241 z 17.09.2015, str. 16, Dz. Urz. UE L 50 z 28.02.2017, str. 13, Dz. Urz. UE L 123 z 16.05.2017, str. 52, Dz. Urz. UE L 141 z 01.06.2017, str. 30, Dz. Urz. UE L 144 z 07.06.2017, str. 37, Dz. Urz. UE L 126 z 23.05.2018, str. 1, Dz. Urz. UE L 207 z 16.08.2018, str. 2, Dz. Urz. UE L 228 z 04.09.2019, str. 1, Dz. Urz. UE L 228 z 04.09.2019, str. 106, Dz. Urz. UE L 230 z 06.09.2019, str. 7, Dz. Urz. UE L 56 z 27.02.2020, str. 20, Dz. Urz. UE L 203 z 26.06.2020, str. 97–102, Dz. Urz. UE L 211 z 03.07.2020, str. 22 i 24, Dz. Urz. UE L 257 z 06.08.2020, str. 14, Dz. Urz. UE L 143 z 27.04.2021, str. 6, Dz. Urz. UE L 145 z 28.04.2021, str. 20, Dz. Urz. UE L 400 z 12.11.2021, str. 18 oraz Dz. Urz. UE L 84 z 11.03.2022, str. 20.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 07.07.2015, str. 4, Dz. Urz. UE L 241 z 17.09.2015, str. 16, Dz. Urz. UE L 50 z 28.02.2017, str. 13, Dz. Urz. UE L 123 z 16.05.2017, str. 52, Dz. Urz. UE L 141 z 01.06.2017, str. 30, Dz. Urz. UE L 144 z 07.06.2017, str. 37, Dz. Urz. UE L 126 z 23.05.2018, str. 1, Dz. Urz. UE L 207 z 16.08.2018, str. 2, Dz. Urz. UE L 228 z 04.09.2019, str. 1, Dz. Urz. UE L 228 z 04.09.2019, str. 106, Dz. Urz. UE L 230 z 06.09.2019, str. 7, Dz. Urz. UE L 56 z 27.02.2020, str. 20, Dz. Urz. UE L 203 z 26.06.2020, str. 97–102, Dz. Urz. UE L 211 z 03.07.2020, str. 22 i 24, Dz. Urz. UE L 257 z 06.08.2020, str. 14, Dz. Urz. UE L 143 z 27.04.2021, str. 6, Dz. Urz. UE L 145 z 28.04.2021, str. 20, Dz. Urz. UE L 400 z 12.11.2021, str. 18 oraz Dz. Urz. UE L 84 z 11.03.2022, str. 20.
 

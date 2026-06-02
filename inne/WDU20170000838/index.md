@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 12 kwietnia 2017 r. w sprawie form współdziałania straży ochrony kolei z organami Krajowej Administracji Skarbowej
+# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 12 kwietnia 2017 r. w sprawie form współdziałania straży ochrony kolei z organami Krajowej Administracji Skarbowej Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-12 |
 | Data wydania | 2017-04-26 |
-| Wejście w życie | 2017-05-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000838) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/838/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 62 ust. 4 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2016 r. poz. 1727, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 62 ust. 4 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2016 r. poz. 1727, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1920, 1923, 1948 i 2138 oraz z 2017 r. poz. 60.) zarządza się, co następuje:
 § 1.
 Współdziałanie straży ochrony kolei z organami Krajowej Administracji Skarbowej polega w szczególności na:
 1)
@@ -59,8 +58,7 @@ Komendanci straży ochrony kolei i organy Krajowej Administracji Skarbowej mogą
 1)
 zawierać porozumienia,
 2)
-organizować i przeprowadzać wspólne ćwiczenia oraz wzajemne szkolenia
-uwzględniając zasady koordynacji, o których mowa w ust. 1 i 2.
+organizować i przeprowadzać wspólne ćwiczenia oraz wzajemne szkolenia – uwzględniając zasady koordynacji, o których mowa w ust. 1 i 2.
 4.
 Bieżąca wymiana informacji dotyczących spraw wymagających współdziałania straży ochrony kolei i organów Krajowej Administracji Skarbowej odbywa się w drodze bezpośrednich spotkań roboczych, pisemnie albo za pomocą wszelkich dostępnych środków łączności i systemów teleinformatycznych, z uwzględnieniem zasad koordynacji, o których mowa w ust. 1 i 2.
 5.
@@ -83,6 +81,5 @@ imię i nazwisko oraz podpisy osób w nich uczestniczących, a w razie braku pod
 5.
 Protokół sporządza się w dwóch jednobrzmiących egzemplarzach, po jednym dla każdej ze stron współdziałających.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1920, 1923, 1948 i 2138 oraz z 2017 r. poz. 60. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 1 września 2004 r. w sprawie form współdziałania straży ochrony kolei z organami kontroli skarbowej (Dz. U. poz. 2056), które utraciło moc z dniem 1 marca 2017 r. na podstawie art. 75 pkt 2 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 1 września 2004 r. w sprawie form współdziałania straży ochrony kolei z organami kontroli skarbowej (Dz. U. poz. 2056), które utraciło moc z dniem 1 marca 2017 r. na podstawie art. 75 pkt 2 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379). 1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1920, 1923, 1948 i 2138 oraz z 2017 r. poz. 60. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 1 września 2004 r. w sprawie form współdziałania straży ochrony kolei z organami kontroli skarbowej (Dz. U. poz. 2056), które utraciło moc z dniem 1 marca 2017 r. na podstawie art. 75 pkt 2 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379).
 

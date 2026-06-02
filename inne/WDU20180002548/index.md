@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Sprawiedliwościz dnia 28 grudnia 2018 r. w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw *) Ostatnia pozycja w 2018 r.
+# Rozporządzenie Ministra Sprawiedliwościz dnia 28 grudnia 2018 r. w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw *)Ostatnia pozycja w 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-28 |
 | Data wydania | 2018-12-31 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2026-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002548) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2548/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 20 pkt 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 20 pkt 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 3, 5, 106, 138, 771, 848, 1000, 1045, 1443, 1544 i 1669.) zarządza się, co następuje:
 § 1.
 Ustala się siedziby, obszary właściwości oraz zakres spraw rozpoznawanych przez sądy apelacyjne:
 1)
@@ -895,6 +894,5 @@ Sąd Rejonowy w Żaganiu – dla miast Gozdnica i Żagań oraz gmin: Brzeźnica,
 g)
 Sąd Rejonowy w Żarach – dla miast Łęknica i Żary oraz gmin: Brody, Jasień, Lipinki Łużyckie, Lubsko, Przewóz, Trzebiel, Tuplice i Żary oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy, a także do prowadzenia ksiąg wieczystych.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-*) Ostatnia pozycja w 2018 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 3, 5, 106, 138, 771, 848, 1000, 1045, 1443, 1544 i 1669. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych (Dz. U. poz. 1407 i 1744, z 2015 r. poz. 1609 i 2339, z 2016 r. poz. 2165, z 2017 r. poz. 1272 oraz z 2018 r. poz. 556), które traci moc na podstawie art. 19 ustawy z dnia 20 lipca 2018 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1443) z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych (Dz. U. poz. 1407 i 1744, z 2015 r. poz. 1609 i 2339, z 2016 r. poz. 2165, z 2017 r. poz. 1272 oraz z 2018 r. poz. 556), które traci moc na podstawie art. 19 ustawy z dnia 20 lipca 2018 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1443) z dniem wejścia w życie niniejszego rozporządzenia. *) Ostatnia pozycja w 2018 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 3, 5, 106, 138, 771, 848, 1000, 1045, 1443, 1544 i 1669. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych (Dz. U. poz. 1407 i 1744, z 2015 r. poz. 1609 i 2339, z 2016 r. poz. 2165, z 2017 r. poz. 1272 oraz z 2018 r. poz. 556), które traci moc na podstawie art. 19 ustawy z dnia 20 lipca 2018 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1443) z dniem wejścia w życie niniejszego rozporządzenia.
 

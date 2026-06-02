@@ -31,19 +31,17 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 kwietnia 2018 r. w sprawie przenoszenia do służby w Straży Granicznej (Dz. U. z 2022 r. poz. 2032), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 20 lipca 2023 r. zmieniającym rozporządzenie w sprawie przenoszenia do służby w Straży Granicznej (Dz. U. poz. 1529).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 lipca 2023 r. zmieniającego rozporządzenie w sprawie przenoszenia do służby w Straży Granicznej (Dz. U. poz. 1529), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 lipca 2023 r. zmieniającego rozporządzenie w sprawie przenoszenia do służby w Straży Granicznej (Dz. U. poz. 1529), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.
-” .
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 kwietnia 2018 r. w sprawie przenoszenia do służby w Straży Granicznej
+Rozporządzenie wchodzi w życie z dniem 1 października 2023 r. ” .
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 kwietnia 2018 r. w sprawie przenoszenia do służby w Straży GranicznejMinister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
 Na podstawie art. 31a ust. 5 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723, 1860 i 2608) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy sposób i tryb prowadzenia postępowania w stosunku do funkcjonariusza Policji, Straży Marszałkowskiej, Służby Ochrony Państwa, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego lub Centralnego Biura Antykorupcyjnego, zwanego dalej „funkcjonariuszem”, który na podstawie art. 31a ust. 1 ustawy z dnia 12 października 1990 r. o Straży Granicznej, zwanej dalej „ustawą”, wystąpił z pisemną prośbą o przeniesienie do służby w Straży Granicznej, zwaną dalej „prośbą”.
 § 2.
 1.
 Postępowanie, o którym mowa w § 1, zwane dalej „postępowaniem”, rozpoczyna złożenie przez funkcjonariusza prośby do Komendanta Głównego Straży Granicznej.
-2.
+2Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 lipca 2023 r. zmieniającego rozporządzenie w sprawie przenoszenia do służby w Straży Granicznej (Dz. U. poz. 1529), które weszło w życie z dniem 1 października 2023 r..
 Funkcjonariusz ubiegający się o przeniesienie do służby w Komendzie Głównej Straży Granicznej, Wyższej Szkole Straży Granicznej, Biurze Spraw Wewnętrznych Straży Granicznej, określonym oddziale Straży Granicznej, ośrodku szkolenia Straży Granicznej albo ośrodku Straży Granicznej, zwanych dalej „jednostkami organizacyjnymi Straży Granicznej”, składa prośbę za pośrednictwem komendanta jednostki organizacyjnej Straży Granicznej, której dotyczy prośba, a w przypadku prośby o przeniesienie do służby w Komendzie Głównej Straży Granicznej – bezpośrednio do Komendanta Głównego Straży Granicznej.
 3.
 Komendant jednostki organizacyjnej Straży Granicznej innej niż Komenda Główna Straży Granicznej niezwłocznie informuje Komendanta Głównego Straży Granicznej o wniesieniu za jego pośrednictwem prośby funkcjonariusza i jednocześnie przesyła jej kopię.
@@ -74,7 +72,7 @@ Komendant Główny Straży Granicznej odmawia akceptacji prośby, jeżeli prowad
 Odmowa akceptacji prośby w przypadku, o którym mowa w ust. 6, może nastąpić:
 1)
 z urzędu;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 na uzasadniony wniosek Rektora-Komendanta Wyższej Szkoły Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej, właściwego komendanta oddziału Straży Granicznej, właściwego komendanta ośrodka szkolenia Straży Granicznej albo właściwego komendanta ośrodka Straży Granicznej.
 § 4.
 1.
@@ -97,7 +95,7 @@ podpis funkcjonariusza z podaniem imienia i nazwiska.
 Strażak Państwowej Straży Pożarnej, który rozpoczął służbę w Państwowej Straży Pożarnej przed dniem 1 lipca 2005 r., do prośby dołącza kserokopię aktualnego zaświadczenia o niekaralności z Krajowego Rejestru Karnego.
 3.
 Składając prośbę, funkcjonariusz może przedłożyć dokumenty potwierdzające jego dodatkowe umiejętności, osiągnięcia zawodowe lub naukowe oraz opinie polecające.
-§ 5.
+§ 5Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Prośbę oraz dokumenty, o których mowa w § 4 ust. 2 i 3, funkcjonariusz składa osobiście w komórce organizacyjnej właściwej w sprawach osobowych Komendy Głównej Straży Granicznej, Wyższej Szkoły Straży Granicznej, Biura Spraw Wewnętrznych Straży Granicznej, oddziału Straży Granicznej, ośrodka szkolenia Straży Granicznej lub ośrodka Straży Granicznej, zwanej dalej „komórką kadrową”, podczas rozmowy informacyjnej, w trakcie której przedstawiciel komórki kadrowej informuje funkcjonariusza o przebiegu postępowania oraz odbiera od niego oświadczenie o wyrażeniu zgody na przetwarzanie jego danych osobowych, o zapoznaniu z zasadami i celem przetwarzania tych danych, informacji o odbiorcach danych, praw, które mu przysługują w związku z przetwarzaniem jego danych osobowych, oraz o podstawie prawnej przetwarzania tych danych.
 § 6.
 1.
@@ -224,11 +222,11 @@ posiadanie doświadczenia zawodowego w zakresie eksploatacji i naprawy uzbrojeni
 posiadanie kwalifikacji i doświadczenia w zakresie organizacji, eksploatacji i naprawy sprzętu transportowego;
 25)
 posiadanie kwalifikacji i doświadczenia z zakresu zbiorowego żywienia;
-26)
+26Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.)
 posiadanie stopnia naukowego;
-27)
+27Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.)
 posiadanie tytułu naukowego;
-28)
+28Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.)
 posiadanie doświadczenia w nauczaniu.
 5.
 Przebieg czynności, o których mowa w ust. 1 pkt 1‒3 i ust. 2 pkt 1, dokumentuje się w formie protokołów.
@@ -388,6 +386,5 @@ Do postępowań w sprawie przeniesienia funkcjonariusza do służby w Straży Gr
 2.
 Wszczęte i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia postępowania w sprawie przeniesienia funkcjonariusza Policji, Służby Ochrony Państwa, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego lub Centralnego Biura Antykorupcyjnego do dalszego pełnienia służby w Biurze Spraw Wewnętrznych Straży Granicznej jako komórki organizacyjnej Komendy Głównej Straży Granicznej prowadzi się dalej jako postępowania w sprawie przeniesienia funkcjonariusza do służby w Biurze Spraw Wewnętrznych Straży Granicznej jako jednostki organizacyjnej Straży Granicznej, zachowując w mocy dotychczas podjęte w ich toku czynności.
 § 20.
-Rozporządzenie wchodzi w życie z dniem 20 maja 2018 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 lipca 2023 r. zmieniającego rozporządzenie w sprawie przenoszenia do służby w Straży Granicznej (Dz. U. poz. 1529), które weszło w życie z dniem 1 października 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 27 lutego 2017 r. w sprawie przenoszenia do służby w Straży Granicznej (Dz. U. poz. 445), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 389 ust. 2 pkt 5 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650 i 730).
+Rozporządzenie wchodzi w życie z dniem 20 maja 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 27 lutego 2017 r. w sprawie przenoszenia do służby w Straży Granicznej (Dz. U. poz. 445), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 389 ust. 2 pkt 5 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650 i 730). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 lipca 2023 r. zmieniającego rozporządzenie w sprawie przenoszenia do służby w Straży Granicznej (Dz. U. poz. 1529), które weszło w życie z dniem 1 października 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 27 lutego 2017 r. w sprawie przenoszenia do służby w Straży Granicznej (Dz. U. poz. 445), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 389 ust. 2 pkt 5 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650 i 730).
 

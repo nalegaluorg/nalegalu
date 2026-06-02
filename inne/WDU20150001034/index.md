@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-21 |
 | Data wydania | 2015-07-24 |
-| Wejście w życie | 2015-07-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001034) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1034/text.pdf) |
 
@@ -33,25 +32,19 @@ W rozporządzeniu Krajowej Rady Radiofonii i Telewizji z dnia 12 sierpnia 2003 r
 1)
 w § 4 w ust. 2 uchyla się pkt 3;
 2)
-w § 6 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
-„
+w § 6 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
 5)
-miejscu i terminie losowania kolejności rozpowszechniania audycji referendalnych.
-” ;
+miejscu i terminie losowania kolejności rozpowszechniania audycji referendalnych. ” ;
 3)
 w § 10:
 a)
-w ust. 2 pkt 1 otrzymuje brzmienie:
-„
+w ust. 2 pkt 1 otrzymuje brzmienie: „
 1)
-nieodpłatne przegranie audycji referendalnej dostarczonej przez podmiot uprawniony na kasecie lub innym nośniku z obrazem o rozdzielczości SD lub wyższej, wskazanym przedstawicielom podmiotów uprawnionych przez Telewizję Polską, na stosowane w emisji nośniki;
-” ,
+nieodpłatne przegranie audycji referendalnej dostarczonej przez podmiot uprawniony na kasecie lub innym nośniku z obrazem o rozdzielczości SD lub wyższej, wskazanym przedstawicielom podmiotów uprawnionych przez Telewizję Polską, na stosowane w emisji nośniki; ” ,
 b)
-w ust. 3 pkt 1 otrzymuje brzmienie:
-„
+w ust. 3 pkt 1 otrzymuje brzmienie: „
 1)
-nieodpłatne przegranie audycji referendalnej dostarczonej przez podmiot uprawniony na kasecie, płycie lub innym nośniku dźwięku, wskazanym przedstawicielom podmiotów uprawnionych przez Polskie Radio i spółki radiofonii regionalnej, na stosowane w emisji nośniki;
-” .
+nieodpłatne przegranie audycji referendalnej dostarczonej przez podmiot uprawniony na kasecie, płycie lub innym nośniku dźwięku, wskazanym przedstawicielom podmiotów uprawnionych przez Polskie Radio i spółki radiofonii regionalnej, na stosowane w emisji nośniki; ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem ogłoszenia.
 

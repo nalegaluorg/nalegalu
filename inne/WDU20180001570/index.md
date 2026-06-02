@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-08-16 |
-| Wejście w życie | 2018-08-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001570) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1570/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. poz. 24, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. poz. 24, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. poz. 324, z 1989 r. poz. 187, z 1990 r. poz. 173, z 1991 r. poz. 442, z 1996 r. poz. 542, z 1997 r. poz. 554 i 770, z 1999 r. poz. 999, z 2001 r. poz. 1198, z 2002 r. poz. 1271, z 2004 r. poz. 1181, z 2005 r. poz. 377, z 2007 r. poz. 590, z 2010 r. poz. 1228 i 1551, z 2011 r. poz. 459, 934, 1204 i 1660, z 2012 r. poz. 1136, z 2013 r. poz. 771 oraz z 2017 r. poz. 2173.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 ust. 1 otrzymuje brzmienie: „
 
@@ -43,5 +42,5 @@ source: "eli-html"
 
 - **5)** w art. 41 po wyrazach „posiedzeń Sejmu” dodaje się przecinek i wyraz „Senatu”.
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. poz. 324, z 1989 r. poz. 187, z 1990 r. poz. 173, z 1991 r. poz. 442, z 1996 r. poz. 542, z 1997 r. poz. 554 i 770, z 1999 r. poz. 999, z 2001 r. poz. 1198, z 2002 r. poz. 1271, z 2004 r. poz. 1181, z 2005 r. poz. 377, z 2007 r. poz. 590, z 2010 r. poz. 1228 i 1551, z 2011 r. poz. 459, 934, 1204 i 1660, z 2012 r. poz. 1136, z 2013 r. poz. 771 oraz z 2017 r. poz. 2173.
 

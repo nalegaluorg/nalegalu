@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-02-28 |
 | Data wydania | 2018-04-11 |
-| Wejście w życie | 2018-04-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000710) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/710/text.pdf) |
 
@@ -45,7 +44,7 @@ source: "eli-html"
 3a. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących:
 
 - **1)** administracyjnych kar pieniężnych, o których mowa w art. 298 ust. 1 pkt 2 i 3 ustawy zmienianej w art. 493, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy,
-- **2)** odroczenia terminu płatności administracyjnych kar pieniężnych, o których mowa w art. 298 ust. 1 pkt 2 i 3 ustawy zmienianej w art. 493, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+- **2)** odroczenia terminu płatności administracyjnych kar pieniężnych, o których mowa w art. 298 ust. 1 pkt 2 i 3 ustawy zmienianej w art. 493, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy – stosuje się przepisy dotychczasowe.
 
 3b. Do wymierzonych administracyjnych kar pieniężnych, o których mowa w art. 298 ust. 1 pkt 2 i 3 ustawy zmienianej w art. 493, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, w tym do odraczania terminu ich płatności oraz z wpływów z tych kar, stosuje się przepisy dotychczasowe.
 

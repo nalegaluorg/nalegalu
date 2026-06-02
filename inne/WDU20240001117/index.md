@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 22 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Kultury i Dziedzictwa Narodowego w sprawie narodowego zasobu bibliotecznego
+# Obwieszczenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 22 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Kultury i Dziedzictwa Narodowego w sprawie narodowego zasobu bibliotecznego Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 740).
 
 | Pole | Wartość |
 |---|---|
@@ -32,17 +32,14 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 4 lipca 2012 r. w sprawie narodowego zasobu bibliotecznego (Dz. U. z 2021 r. poz. 1308), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 6 lipca 2023 r. zmieniającym rozporządzenie w sprawie narodowego zasobu bibliotecznego (Dz. U. poz. 1345).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–4 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 6 lipca 2023 r. zmieniającego rozporządzenie w sprawie narodowego zasobu bibliotecznego (Dz. U. poz. 1345), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–4 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 6 lipca 2023 r. zmieniającego rozporządzenie w sprawie narodowego zasobu bibliotecznego (Dz. U. poz. 1345), które stanowią: „
 § 2.
 Biblioteki, o których mowa w § 1 pkt 2, dokonają czynności, o których mowa w § 4–6 rozporządzenia zmienianego w § 1, w terminie do dnia 31 grudnia 2025 r.
 § 3.
 Biblioteki, o których mowa w § 1 pkt 2, dokonają czynności, o których mowa w § 7 ust. 1 i § 8 rozporządzenia zmienianego w § 1, w terminie roku od dnia wejścia w życie niniejszego rozporządzenia.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 740).
-Załącznik – Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 4 lipca 2012 r. w sprawie narodowego zasobu bibliotecznego
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 740).
+Załącznik – Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 4 lipca 2012 r. w sprawie narodowego zasobu bibliotecznegoNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – kultura i ochrona dziedzictwa narodowego kieruje Minister Kultury i Dziedzictwa Narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 740).
 Na podstawie art. 6 ust. 3 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2022 r. poz. 2393) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -159,8 +156,7 @@ przechowywania,
 2)
 kopiowania i utrwalania na informatycznych nośnikach danych,
 3)
-udostępniania w celach naukowych albo ekspozycyjnych
-które nie spowodują pogorszenia stanu ich zachowania lub uniemożliwią ich zniszczenie lub kradzież.
+udostępniania w celach naukowych albo ekspozycyjnych – które nie spowodują pogorszenia stanu ich zachowania lub uniemożliwią ich zniszczenie lub kradzież.
 § 9.
 Środki na wprowadzenie oraz utrzymanie szczególnej ochrony, określonej w § 7 ust. 1 i § 8, zapewnia organizator biblioteki, o którym mowa w art. 8 ust. 2 i 3 ustawy z dnia 27 czerwca 1997 r. o bibliotekach.
 § 10.
@@ -170,8 +166,7 @@ Biblioteka, której zbiory są zaliczane do narodowego zasobu w dniu wejścia w 
 2)
 § 7 ust. 1 i § 8, w terminie roku od dnia wejścia w życie niniejszego rozporządzenia.
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – kultura i ochrona dziedzictwa narodowego kieruje Minister Kultury i Dziedzictwa Narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 740). 2) Rozporządzenie zostało ogłoszone w dniu 11 lipca 2012 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Sztuki z dnia 24 listopada 1998 r. w sprawie ustalenia wykazu bibliotek, których zbiory tworzą narodowy zasób biblioteczny, określenia organizacji tego zasobu oraz zasad i zakresu jego szczególnej ochrony (Dz. U. poz. 955 oraz z 2009 r. poz. 356), które utraciło moc z dniem 2 lipca 2012 r. na podstawie art. 13 pkt 3 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. poz. 1230).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 11 lipca 2012 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Sztuki z dnia 24 listopada 1998 r. w sprawie ustalenia wykazu bibliotek, których zbiory tworzą narodowy zasób biblioteczny, określenia organizacji tego zasobu oraz zasad i zakresu jego szczególnej ochrony (Dz. U. poz. 955 oraz z 2009 r. poz. 356), które utraciło moc z dniem 2 lipca 2012 r. na podstawie art. 13 pkt 3 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. poz. 1230). 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – kultura i ochrona dziedzictwa narodowego kieruje Minister Kultury i Dziedzictwa Narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 740). 2) Rozporządzenie zostało ogłoszone w dniu 11 lipca 2012 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Sztuki z dnia 24 listopada 1998 r. w sprawie ustalenia wykazu bibliotek, których zbiory tworzą narodowy zasób biblioteczny, określenia organizacji tego zasobu oraz zasad i zakresu jego szczególnej ochrony (Dz. U. poz. 955 oraz z 2009 r. poz. 356), które utraciło moc z dniem 2 lipca 2012 r. na podstawie art. 13 pkt 3 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. poz. 1230).
 Załącznik – Wykaz bibliotek, które posiadają zbiory zaliczane do Narodowego Zasobu Bibliotecznego
 1)
 Biblioteka Jagiellońska w Krakowie
@@ -189,7 +184,7 @@ Biblioteka Zakładu Narodowego im. Ossolińskich we Wrocławiu
 Wojewódzka Biblioteka Publiczna im. Witolda Gombrowicza w Kielcach
 8)
 Biblioteka Śląska w Katowicach
-9)
+9W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 6 lipca 2023 r. zmieniającego rozporządzenie w sprawie narodowego zasobu bibliotecznego (Dz. U. poz. 1345), które weszło w życie z dniem 29 lipca 2023 r.)
 Centralna Biblioteka Rolnicza Narodowego Instytutu Kultury i Dziedzictwa Wsi Oddział w Puławach
 10)
 Wojewódzka Biblioteka Publiczna im. Hieronima Łopacińskiego w Lublinie
@@ -199,8 +194,8 @@ Biblioteka Uniwersytecka w Toruniu
 Wojewódzka Biblioteka Publiczna – Książnica Kopernikańska w Toruniu
 13)
 Biblioteka Uniwersytecka Katolickiego Uniwersytetu Lubelskiego Jana Pawła II
-14)
+14Dodana przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.)
 Książnica Pomorska im. Stanisława Staszica w Szczecinie
-15)
-Polska Akademia Nauk Biblioteka Gdańska
+15Dodana przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.)
+Polska Akademia Nauk Biblioteka Gdańska 4) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 6 lipca 2023 r. zmieniającego rozporządzenie w sprawie narodowego zasobu bibliotecznego (Dz. U. poz. 1345), które weszło w życie z dniem 29 lipca 2023 r. 5) Dodana przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 2 sierpnia 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej w ramach działania „Tworzenie grup producentów i organizacji producentów” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 2 sierpnia 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej w ramach działania „Tworzenie grup producentów i organizacji producentów” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-08-02 |
 | Data wydania | 2016-08-18 |
-| Wejście w życie | 2016-08-19 |
 | Ostatnia zmiana | 2025-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001284) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1284/text.pdf) |
 
@@ -37,7 +36,7 @@ szczegółowe wymagania, jakim powinny odpowiadać wnioski o przyznanie pomocy i
 3)
 kryteria wyboru operacji.
 § 2.
-O pomoc może ubiegać się grupa producentów rolnych, w skład której wchodzą wyłącznie osoby fizyczne, uznana nie wcześniej niż w dniu 1 stycznia 2014 r. na podstawie ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. poz. 983, z późn. zm.), zwana dalej „grupą”, z wyłączeniem grupy utworzonej ze względu na grupę produktów: drób żywy (bez względu na wiek), mięso lub jadalne podroby drobiowe: świeże, chłodzone, mrożone.
+O pomoc może ubiegać się grupa producentów rolnych, w skład której wchodzą wyłącznie osoby fizyczne, uznana nie wcześniej niż w dniu 1 stycznia 2014 r. na podstawie ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. poz. 983, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 2273, z 2004 r. poz. 1694, z 2005 r. poz. 1462, z 2006 r. poz. 1847, z 2008 r. poz. 634 oraz z 2015 r. poz. 1888.), zwana dalej „grupą”, z wyłączeniem grupy utworzonej ze względu na grupę produktów: drób żywy (bez względu na wiek), mięso lub jadalne podroby drobiowe: świeże, chłodzone, mrożone.
 § 3.
 1.
 Pomoc jest przyznawana grupie:
@@ -128,7 +127,7 @@ informację o objęciu dobrowolnym ubezpieczeniem produkcji rolnej, innym niż u
 8)
 określenie kategorii przedsiębiorstwa prowadzonego przez grupę zgodnie z załącznikiem I do rozporządzenia nr 651/2014;
 9)
-informację o liczbie osób zatrudnionych na podstawie umowy o pracę na pełne etaty albo liczbie osób niepełnosprawnych w rozumieniu przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. poz. 721, z późn. zm.) zatrudnionych na podstawie umowy o pracę w miesiącu poprzedzającym miesiąc złożenia wniosku o przyznanie pomocy – w przypadku zatrudniania przez grupę takich osób;
+informację o liczbie osób zatrudnionych na podstawie umowy o pracę na pełne etaty albo liczbie osób niepełnosprawnych w rozumieniu przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. poz. 721, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. poz. 1016, 1243, 1244 i 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645, z 2014 r. poz. 598, 877, 1198, 1457 i 1873, z 2015 r. poz. 218, 493, 1240, 1273, 1359, 1649 i 1886 oraz z 2016 r. poz. 195.) zatrudnionych na podstawie umowy o pracę w miesiącu poprzedzającym miesiąc złożenia wniosku o przyznanie pomocy – w przypadku zatrudniania przez grupę takich osób;
 10)
 oświadczenie grupy, że znane są jej warunki, o których mowa w § 15.
 2.
@@ -165,7 +164,7 @@ jeżeli grupa jest zorganizowana w formie spółdzielni – przyznaje się 3 pun
 2)
 jeżeli grupa zrzesza producentów w kategoriach:
 a)
-produkty wysokiej jakości objęte art. 16 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Funduszu Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.), zwanego dalej „rozporządzeniem nr 1305/2013”, lub
+produkty wysokiej jakości objęte art. 16 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Funduszu Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1 oraz Dz. Urz. UE L 28 z 04.02.2016, str. 8.), zwanego dalej „rozporządzeniem nr 1305/2013”, lub
 b)
 świnie żywe, prosięta, warchlaki, mięso wieprzowe: świeże, chłodzone, mrożone, lub
 c)
@@ -177,8 +176,7 @@ miód naturalny lub inne produkty pszczele, lub
 f)
 rośliny w plonie głównym, całe lub rozdrobnione, uprawiane z przeznaczeniem na cele energetyczne lub do wykorzystania technicznego, lub
 g)
-szyszki chmielowe
-przyznaje się 3 punkty;
+szyszki chmielowe – przyznaje się 3 punkty;
 3)
 jeżeli w skład grupy wchodzi co najmniej 10 członków – przyznaje się 4 punkty, a za każdego kolejnego członka grupy – przyznaje się 0,2 punktu;
 4)
@@ -297,7 +295,7 @@ Decyzja administracyjna o wypłacie pomocy jest wydawana w terminie 60 dni od dn
 3.
 Dyrektor oddziału regionalnego Agencji, na prośbę beneficjenta, w przypadku gdy beneficjent uprawdopodobni, że złożenie wniosku o płatność w terminie:
 1)
-jest niemożliwe albo znacznie utrudnione z powodu działania siły wyższej lub wystąpienia wyjątkowych okoliczności, o których mowa w art. 2 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.), zwanego dalej „rozporządzeniem nr 1306/2013” – wydłuża ten termin o czas niezbędny do dokonania tej czynności;
+jest niemożliwe albo znacznie utrudnione z powodu działania siły wyższej lub wystąpienia wyjątkowych okoliczności, o których mowa w art. 2 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865 oraz Dz. Urz. UE L 256 z 01.10.2015, str. 9.), zwanego dalej „rozporządzeniem nr 1306/2013” – wydłuża ten termin o czas niezbędny do dokonania tej czynności;
 2)
 było niemożliwe albo znacznie utrudnione z powodu działania siły wyższej lub wystąpienia wyjątkowych okoliczności, o których mowa w art. 2 ust. 2 rozporządzenia nr 1306/2013 – określa nowy termin niezbędny do dokonania tej czynności.
 4.
@@ -322,10 +320,9 @@ po trzecim roku prowadzenia działalności – 6%,
 4)
 po czwartym roku prowadzenia działalności – 5%,
 5)
-po piątym roku prowadzenia działalności – 4%
-wartości udokumentowanych rocznych przychodów netto beneficjenta, o których mowa w ust. 1.
+po piątym roku prowadzenia działalności – 4% – wartości udokumentowanych rocznych przychodów netto beneficjenta, o których mowa w ust. 1.
 3.
-Pomoc jest wypłacana w złotych, a jej przeliczenie następuje zgodnie z zasadami określonymi w art. 34 ust. 1 rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro (Dz. Urz. UE L 255 z 28.08.2014, str. 18, z późn. zm.).
+Pomoc jest wypłacana w złotych, a jej przeliczenie następuje zgodnie z zasadami określonymi w art. 34 ust. 1 rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro (Dz. Urz. UE L 255 z 28.08.2014, str. 18, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7.).
 § 15.
 Beneficjent jest obowiązany do spełniania następujących warunków:
 1)
@@ -358,7 +355,7 @@ W przypadku gdy ze składanego sprawozdania za trzeci lub czwarty rok działalno
 3.
 W przypadku braku uzasadnienia przez beneficjenta nierealizowania działań lub inwestycji zatwierdzonych w planie biznesowym w ujęciu rzeczowo-rodzajowym za trzeci lub czwarty rok działalności, Agencja ponownie wzywa beneficjenta do złożenia wyjaśnień, wskazując zakres spraw, których dotyczy wezwanie.
 4.
-W przypadku niezłożenia przez beneficjenta wyjaśnień, o których mowa w ust. 3, kwota pomocy ustalona po uwzględnieniu art. 63 rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.), zwanego dalej „rozporządzeniem nr 809/2014”, ulega zmniejszeniu za trzeci lub czwarty rok działalności, w którym stwierdzono niepełną realizację planu biznesowego:
+W przypadku niezłożenia przez beneficjenta wyjaśnień, o których mowa w ust. 3, kwota pomocy ustalona po uwzględnieniu art. 63 rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 119 z 12.05.2015, str. 21, Dz. Urz. UE L 329 z 15.12.2015, str. 1 oraz Dz. Urz. UE L 126 z 14.05.2016, str. 67.), zwanego dalej „rozporządzeniem nr 809/2014”, ulega zmniejszeniu za trzeci lub czwarty rok działalności, w którym stwierdzono niepełną realizację planu biznesowego:
 1)
 o 50% – jeżeli beneficjent nie realizował żadnego działania lub inwestycji zatwierdzonych w planie biznesowym w ujęciu rzeczowo-rodzajowym w danym roku;
 2)
@@ -388,6 +385,5 @@ pkt 6 – zwrotowi podlega 10% otrzymanej pomocy;
 5)
 pkt 7 – zwrotowi podlega 0,5% otrzymanej pomocy.
 § 18.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 2273, z 2004 r. poz. 1694, z 2005 r. poz. 1462, z 2006 r. poz. 1847, z 2008 r. poz. 634 oraz z 2015 r. poz. 1888. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. poz. 1016, 1243, 1244 i 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645, z 2014 r. poz. 598, 877, 1198, 1457 i 1873, z 2015 r. poz. 218, 493, 1240, 1273, 1359, 1649 i 1886 oraz z 2016 r. poz. 195. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1 oraz Dz. Urz. UE L 28 z 04.02.2016, str. 8. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865 oraz Dz. Urz. UE L 256 z 01.10.2015, str. 9. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 119 z 12.05.2015, str. 21, Dz. Urz. UE L 329 z 15.12.2015, str. 1 oraz Dz. Urz. UE L 126 z 14.05.2016, str. 67.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 2273, z 2004 r. poz. 1694, z 2005 r. poz. 1462, z 2006 r. poz. 1847, z 2008 r. poz. 634 oraz z 2015 r. poz. 1888. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. poz. 1016, 1243, 1244 i 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645, z 2014 r. poz. 598, 877, 1198, 1457 i 1873, z 2015 r. poz. 218, 493, 1240, 1273, 1359, 1649 i 1886 oraz z 2016 r. poz. 195. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1 oraz Dz. Urz. UE L 28 z 04.02.2016, str. 8. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865 oraz Dz. Urz. UE L 256 z 01.10.2015, str. 9. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 119 z 12.05.2015, str. 21, Dz. Urz. UE L 329 z 15.12.2015, str. 1 oraz Dz. Urz. UE L 126 z 14.05.2016, str. 67.
 

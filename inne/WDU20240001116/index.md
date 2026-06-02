@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 15 lipca 2024 r. w sprawie sposobu ustalania wymagań dotyczących nowej zabudowy i zagospodarowania terenu w przypadku braku miejscowego planu zagospodarowania przestrzennego
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 15 lipca 2024 r. w sprawie sposobu ustalania wymagań dotyczących nowej zabudowy i zagospodarowania terenu w przypadku braku miejscowego planu zagospodarowania przestrzennego Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-15 |
 | Data wydania | 2024-07-25 |
-| Wejście w życie | 2024-07-26 |
 | Ostatnia zmiana | 2024-07-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001116) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1116/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 61 ust. 6 i 7 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 61 ust. 6 i 7 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1506, 1597, 1688, 1890, 2029 i 2739.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób ustalania w decyzji o warunkach zabudowy wymagań dotyczących nowej zabudowy i zagospodarowania terenu w przypadku braku miejscowego planu zagospodarowania przestrzennego, w tym wymagania dotyczące ustalania:
 1)
@@ -105,6 +104,5 @@ Analiza, o której mowa w art. 61 ust. 5a ustawy, zawierająca część tekstow�
 § 12.
 Do spraw dotyczących wydania decyzji o warunkach zabudowy, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 13.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1506, 1597, 1688, 1890, 2029 i 2739. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 26 sierpnia 2003 r. w sprawie sposobu ustalania wymagań dotyczących nowej zabudowy i zagospodarowania terenu w przypadku braku miejscowego planu zagospodarowania przestrzennego (Dz. U. poz. 1588 oraz z 2021 r. poz. 2399), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 71 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 26 sierpnia 2003 r. w sprawie sposobu ustalania wymagań dotyczących nowej zabudowy i zagospodarowania terenu w przypadku braku miejscowego planu zagospodarowania przestrzennego (Dz. U. poz. 1588 oraz z 2021 r. poz. 2399), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 71 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688). 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1506, 1597, 1688, 1890, 2029 i 2739. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 26 sierpnia 2003 r. w sprawie sposobu ustalania wymagań dotyczących nowej zabudowy i zagospodarowania terenu w przypadku braku miejscowego planu zagospodarowania przestrzennego (Dz. U. poz. 1588 oraz z 2021 r. poz. 2399), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 71 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688).
 

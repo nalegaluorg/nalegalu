@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 7 sierpnia 2019 r. zmieniające rozporządzenie w sprawie procedury przyznawania danych dostępowych do bazy danych systemu informacji oświatowej
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 7 sierpnia 2019 r. zmieniające rozporządzenie w sprawie procedury przyznawania danych dostępowych do bazy danych systemu informacji oświatowej Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-07 |
 | Data wydania | 2019-08-20 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001557) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1557/text.pdf) |
 
@@ -41,6 +40,5 @@ w § 6 w ust. 1 w pkt 3 wyrazy „art. 70 ust. 1” zastępuje się wyrazami „
 3)
 w § 9 wyrazy „art. 70 ust. 1” zastępuje się wyrazami „art. 70 ust. 1 i 2”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
 

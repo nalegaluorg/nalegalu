@@ -22,23 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-08 |
 | Data wydania | 2022-12-14 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002606) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2606/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 36 § 1 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2022 r. poz. 1247, 1259 i 2582) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 7 kwietnia 2016 r. – Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury (Dz. U. z 2017 r. poz. 1206, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Ministra Sprawiedliwości z dnia 7 kwietnia 2016 r. – Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury (Dz. U. z 2017 r. poz. 1206, z późn. zm.Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2018 r. poz. 793 i 1470, z 2020 r. poz. 606 i 2090, z 2021 r. poz. 160, 976 i 1590 oraz z 2022 r. poz. 386 i 1619.) wprowadza się następujące zmiany:
 1)
-w § 336 ust. 1 otrzymuje brzmienie:
-„
+w § 336 ust. 1 otrzymuje brzmienie: „
 1.
-W razie zaistnienia okoliczności dających podstawę do odwołania odroczenia, przerwy w wykonywaniu kary pozbawienia wolności lub warunkowego przedterminowego zwolnienia albo do podjęcia zawieszonego postępowania wykonawczego, uchylenia zezwolenia na odbycie kary w systemie dozoru elektronicznego lub wszczęcia egzekucji z zabezpieczonego mienia – prokurator niezwłocznie występuje do sądu ze stosownym wnioskiem.
-” ;
+W razie zaistnienia okoliczności dających podstawę do odwołania odroczenia, przerwy w wykonywaniu kary pozbawienia wolności lub warunkowego przedterminowego zwolnienia albo do podjęcia zawieszonego postępowania wykonawczego, uchylenia zezwolenia na odbycie kary w systemie dozoru elektronicznego lub wszczęcia egzekucji z zabezpieczonego mienia – prokurator niezwłocznie występuje do sądu ze stosownym wnioskiem. ” ;
 2)
-§ 337 otrzymuje brzmienie:
-„
+§ 337 otrzymuje brzmienie: „
 § 337.
 Prokurator bierze udział w posiedzeniach sądu pierwszej lub drugiej instancji oraz komisji penitencjarnej, gdy ustawa tak stanowi, a także w wypadkach, gdy jest to uzasadnione wagą sprawy lub innymi okolicznościami, a sąd rozstrzyga w przedmiocie:
 1)
@@ -54,8 +50,7 @@ uchylenia zezwolenia na odbycie kary w systemie dozoru elektronicznego;
 6)
 środka zabezpieczającego, w zakresie którego obowiązkowy udział prokuratora nie wynika z ustawy;
 7)
-wszczęcia egzekucji z zabezpieczonego mienia lub uchylenia bądź zmiany postanowienia o zabezpieczeniu majątkowym.
-” .
+wszczęcia egzekucji z zabezpieczonego mienia lub uchylenia bądź zmiany postanowienia o zabezpieczeniu majątkowym. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. 1) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2018 r. poz. 793 i 1470, z 2020 r. poz. 606 i 2090, z 2021 r. poz. 160, 976 i 1590 oraz z 2022 r. poz. 386 i 1619.
 

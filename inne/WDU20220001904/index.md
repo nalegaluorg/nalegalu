@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-05 |
 | Data wydania | 2022-09-09 |
-| Wejście w życie | 2022-09-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001904) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1904/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 29 ust. 2 pkt 1 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 29 ust. 2 pkt 1 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2469 oraz z 2022 r. poz. 763, 764, 1700, 1812 i 1855.) zarządza się, co następuje:
 § 1.
 1.
 Leczenie, rehabilitację i reintegrację osób uzależnionych umieszczonych w okręgowych ośrodkach wychowawczych i zakładach poprawczych prowadzi się w okręgowych ośrodkach wychowawczych i zakładach poprawczych, w których realizuje się system wychowawczy resocjalizacyjno-terapeutyczny.
@@ -78,5 +77,5 @@ W zakresie leczenia, rehabilitacji i reintegracji osób uzależnionych okręgowe
 § 6.
 W okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich prowadzi się działalność edukacyjną oraz profilaktyczną w celu informowania nieletnich o szkodliwości wszystkich rodzajów uzależnienia, w tym narkomanii, oraz podejmuje się działania zmierzające do zmotywowania osób uzależnionych do podjęcia leczenia, a wobec osób uzależnionych, które pomyślnie zakończyły proces leczenia, organizuje się formy pomocy w utrzymywaniu abstynencji.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 17 maja 2007 r. w sprawie szczegółowych warunków i trybu postępowania leczniczego, rehabilitacyjnego i reintegracyjnego w stosunku do osób uzależnionych umieszczonych w zakładach poprawczych i schroniskach dla nieletnich (Dz. U. poz. 627), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 415 pkt 1 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2469 oraz z 2022 r. poz. 763, 764, 1700, 1812 i 1855. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 17 maja 2007 r. w sprawie szczegółowych warunków i trybu postępowania leczniczego, rehabilitacyjnego i reintegracyjnego w stosunku do osób uzależnionych umieszczonych w zakładach poprawczych i schroniskach dla nieletnich (Dz. U. poz. 627), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 415 pkt 1 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700).
 

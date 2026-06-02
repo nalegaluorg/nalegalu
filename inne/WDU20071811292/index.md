@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-09-07 |
 | Data wydania | 2007-10-01 |
-| Wejście w życie | 2008-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071811292) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1292/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658 oraz z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818 i Nr 180, poz. 1280.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w pkt 2: lit. b otrzymuje brzmienie: „ gimnazja, w tym: specjalne, integracyjne, dwujęzyczne, z oddziałami integracyjnymi, dwujęzycznymi, sportowymi i przysposabiającymi do pracy, sportowe i mistrzostwa sportowego, ” , lit. c otrzymuje brzmienie: „ ponadgimnazjalne, w tym: specjalne, integracyjne, dwujęzyczne, z oddziałami integracyjnymi, dwujęzycznymi i sportowymi, sportowe, mistrzostwa sportowego, rolnicze i leśne, ” ;
     - **a)**
@@ -157,5 +156,5 @@ source: "eli-html"
 
 **Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 71b ust. 6 i 8 ustawy, o której mowa w art. 1 niniejszej ustawy, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 71b ust. 6 i 8 ustawy, o której mowa w art. 1 niniejszej ustawy, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2008 r., z wyjątkiem art. 1 pkt 15 i art. 3, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2008 r., z wyjątkiem art. 1 pkt 15 i art. 3, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658 oraz z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818 i Nr 180, poz. 1280.
 

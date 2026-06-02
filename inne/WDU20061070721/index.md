@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 12 maja 2006 r. o zmianie ustawy o komercjalizacji i prywatyzacji oraz o zmianie innych ustaw
+# Ustawa z dnia 12 maja 2006 r. o zmianie ustawy o komercjalizacji i prywatyzacji oraz o zmianie innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 września 1981 r. o przedsiębiorstwach państwowych, ustawę z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa, ustawę z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-05-12 |
 | Data wydania | 2006-06-27 |
-| Wejście w życie | 2006-07-28 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061070721) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/721/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.) wprowadza się następujące zmiany:
+Wniesienie przedsiębiorstwa do jednoosobowej spółki Skarbu Państwa
+
+**Art. 1.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722 oraz z 2005 r. Nr 167, poz. 1400, Nr 169, poz. 1418, Nr 178, poz. 1479 i Nr 184, poz. 1539.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -68,7 +69,7 @@ source: "eli-html"
 - **1)** odpłatnego zbycia akcji spółki, o której mowa w ust. 3, należących do jednostki samorządu terytorialnego lub związku jednostek samorządu terytorialnego,
 - **2)** odpłatnego wniesienia do innego podmiotu należących do jednostki samorządu terytorialnego lub związku jednostek samorządu terytorialnego akcji spółki, o której mowa w ust. 3,
 - **3)** odpłatnego zbycia przez spółkę, o której mowa w ust. 3, przedsiębiorstwa, składników aktywów trwałych lub praw do nieruchomości, na rzecz innych podmiotów niż jednostka samorządu terytorialnego lub związek jednostek samorządu terytorialnego,
-- **4)** odpłatnego wniesienia należących do spółki, o której mowa w ust. 3, przedsiębiorstwa, składników aktywów trwałych lub praw do nieruchomości, na rzecz innych podmiotów niż jednostka samorządu terytorialnego lub związek jednostek samorządu terytorialnego z naruszeniem przepisów ust. 5 lub ust. 6, korzyści uzyskane z tego tytułu przez jednostkę samorządu terytorialnego, związek jednostek samorządu terytorialnego lub spółkę, o której mowa w ust. 3, podlegają przekazaniu na rzecz Skarbu Państwa.
+- **4)** odpłatnego wniesienia należących do spółki, o której mowa w ust. 3, przedsiębiorstwa, składników aktywów trwałych lub praw do nieruchomości, na rzecz innych podmiotów niż jednostka samorządu terytorialnego lub związek jednostek samorządu terytorialnego – z naruszeniem przepisów ust. 5 lub ust. 6, korzyści uzyskane z tego tytułu przez jednostkę samorządu terytorialnego, związek jednostek samorządu terytorialnego lub spółkę, o której mowa w ust. 3, podlegają przekazaniu na rzecz Skarbu Państwa.
 
 8. Środki finansowe uzyskane z tytułu dokonania czynności prawnych, o których mowa w ust. 7 pkt 1 oraz ust. 7 pkt 3, podlegają przekazaniu na rachunek dochodów budżetu państwa, z wyjątkiem środków, o których mowa w art. 56, które podlegają przekazaniu na rachunek właściwych funduszy celowych. Prawa uzyskane z tytułu dokonania czynności prawnych, o których mowa w ust. 7 pkt 2 oraz ust. 7 pkt 4, przysługują Skarbowi Państwa i podlegają przekazaniu ministrowi właściwemu do spraw Skarbu Państwa.
 
@@ -114,10 +115,10 @@ source: "eli-html"
 - **1)** sposób zamieszczania ogłoszeń o przetargu i dane, które powinny być zamieszczone w ogłoszeniu,
 - **2)** wymagania, jakie powinien spełniać oferent oraz jakim powinna odpowiadać oferta,
 - **3)** termin składania ofert oraz zakończenia przetargu,
-- **4)** warunki, w których dopuszcza się odstąpienie od przetargu lub obniżenie ceny z uwzględnieniem konieczności ochrony interesu Skarbu Państwa. ” ;
+- **4)** warunki, w których dopuszcza się odstąpienie od przetargu lub obniżenie ceny – z uwzględnieniem konieczności ochrony interesu Skarbu Państwa. ” ;
 - **8)** po dziale II dodaje się dział II w brzmieniu: „
 
-### Dział IIa Wniesienie przedsiębiorstwa do jednoosobowej spółki Skarbu Państwa
+### Dział IIa
 
 **Art. 20a.**
 
@@ -208,9 +209,9 @@ source: "eli-html"
 
 **Art. 46b.** Czynności prawne, dokonane z naruszeniem przepisów art. 46 ust. 3–4, oraz czynności prawne, o których mowa w art. 46a ust. 1, 1a i 1c, dokonane pomimo niewyrażenia zgody przez organ założycielski, są nieważne. ” .
 
-**Art. 3.** W ustawie z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. Nr 106, poz. 493, z późn. zm.) w art. 2 pkt 8a otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. Nr 106, poz. 493, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 106, poz. 673, Nr 115, poz. 741 i Nr 141, poz. 943, z 1998 r. Nr 155, poz. 1014, z 2000 r. Nr 48, poz. 550, z 2001 r. Nr 4, poz. 26, z 2002 r. Nr 25, poz. 253 i Nr 240, poz. 2055, z 2004 r. Nr 99, poz. 1001, Nr 123, poz. 1291 i Nr 273, poz. 2703 oraz z 2005 r. Nr 169, poz. 1417 i Nr 183, poz. 1538.) w art. 2 pkt 8a otrzymuje brzmienie: „
 
-- **8a)** udziela ze środków, o których mowa w art. 56 ust. 1 pkt 2 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.), wsparcia w celu ratowania lub restrukturyzacji przedsiębiorstw państwowych oraz spółek z udziałem Skarbu Państwa, ” . W ustawie z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. Nr 106, poz. 679, z późn. zm.) w art. 6 ust. 1 otrzymuje brzmienie: „
+- **8a)** udziela ze środków, o których mowa w art. 56 ust. 1 pkt 2 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722, z 2005 r. Nr 167, poz. 1400, Nr 169, poz. 1418, Nr 178, poz. 1479 i Nr 184, poz. 1539 oraz z 2006 r. Nr 107, poz. 721.), wsparcia w celu ratowania lub restrukturyzacji przedsiębiorstw państwowych oraz spółek z udziałem Skarbu Państwa, ” . W ustawie z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. Nr 106, poz. 679, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 113, poz. 715 i Nr 162, poz. 1126, z 1999 r. Nr 49, poz. 483, z 2000 r. Nr 26, poz. 306, z 2002 r. Nr 113, poz. 984 i Nr 214, poz. 1806, z 2003 r. Nr 137, poz. 1302, z 2005 r. Nr 169, poz. 1417 oraz z 2006 r. Nr 104, poz. 708.) w art. 6 ust. 1 otrzymuje brzmienie: „
 
 1. Zakaz zajmowania stanowisk w organach spółek, o którym mowa w art. 4 pkt 1, nie dotyczy osób wymienionych w art. 2 pkt 1, 2 i 6–10, o ile zostały zgłoszone do objęcia takich stanowisk w spółce prawa handlowego przez: Skarb Państwa, inne państwowe osoby prawne, spółki, w których udział Skarbu Państwa przekracza 50% kapitału zakładowego lub 50% liczby akcji, jednostki samorządu terytorialnego, ich związki lub inne osoby prawne jednostek samorządu terytorialnego; osoby te nie mogą zostać zgłoszone do więcej niż dwóch spółek prawa handlowego z udziałem podmiotów zgłaszających te osoby. ” .
 
@@ -225,7 +226,7 @@ source: "eli-html"
 **Art. 7.** Po komercjalizacji następujących przedsiębiorstw państwowych o szczególnym znaczeniu gospodarczo-obronnym, dla których organem założycielskim jest Minister Obrony Narodowej:
 
 - **1)** Wojskowych Zakładów Kartograficznych w Warszawie,
-- **2)** Wojskowego Biura Projektów Budowlanych w Poznaniu kompetencje ministra właściwego do spraw Skarbu Państwa określone w art. 2 pkt 5 oraz art. 18 ust. 1 ustawy, o której mowa w art. 3, wykonuje Minister Obrony Narodowej.
+- **2)** Wojskowego Biura Projektów Budowlanych w Poznaniu – kompetencje ministra właściwego do spraw Skarbu Państwa określone w art. 2 pkt 5 oraz art. 18 ust. 1 ustawy, o której mowa w art. 3, wykonuje Minister Obrony Narodowej.
 
 **Art. 8.** Połączenie funkcji członka zarządu lub rady nadzorczej z zatrudnieniem lub funkcją, których dotyczy zakaz określony w art. 15a, art. 16 ust. 4 i art. 69a ust. 4 ustawy wymienionej w art. 1, powoduje wygaśnięcie mandatu członka zarządu lub rady nadzorczej po upływie 3 miesięcy od dnia wejścia w życie niniejszej ustawy, chyba że członek zarządu lub rady nadzorczej wcześniej przestanie pełnić funkcję lub ustanie jego zatrudnienie, o których mowa w art. 15a ustawy wymienionej w art. 1.
 
@@ -233,5 +234,5 @@ source: "eli-html"
 
 **Art. 10.** Przepisy wydane na podstawie art. 19 ust. 2 ustawy wymienionej w art. 1 zachowują moc do czasu wejścia w życie przepisów wydanych na podstawie art. 19 ust. 5 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 14, art. 3 i art. 4, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 14, art. 3 i art. 4, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 września 1981 r. o przedsiębiorstwach państwowych, ustawę z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa, ustawę z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722 oraz z 2005 r. Nr 167, poz. 1400, Nr 169, poz. 1418, Nr 178, poz. 1479 i Nr 184, poz. 1539. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 106, poz. 673, Nr 115, poz. 741 i Nr 141, poz. 943, z 1998 r. Nr 155, poz. 1014, z 2000 r. Nr 48, poz. 550, z 2001 r. Nr 4, poz. 26, z 2002 r. Nr 25, poz. 253 i Nr 240, poz. 2055, z 2004 r. Nr 99, poz. 1001, Nr 123, poz. 1291 i Nr 273, poz. 2703 oraz z 2005 r. Nr 169, poz. 1417 i Nr 183, poz. 1538. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722, z 2005 r. Nr 167, poz. 1400, Nr 169, poz. 1418, Nr 178, poz. 1479 i Nr 184, poz. 1539 oraz z 2006 r. Nr 107, poz. 721. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 113, poz. 715 i Nr 162, poz. 1126, z 1999 r. Nr 49, poz. 483, z 2000 r. Nr 26, poz. 306, z 2002 r. Nr 113, poz. 984 i Nr 214, poz. 1806, z 2003 r. Nr 137, poz. 1302, z 2005 r. Nr 169, poz. 1417 oraz z 2006 r. Nr 104, poz. 708.
 

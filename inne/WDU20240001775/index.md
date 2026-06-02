@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 22 listopada 2024 r. zmieniające rozporządzenie w sprawie projektu planu ogólnego gminy, dokumentowania prac planistycznych w zakresie tego planu oraz wydawania z niego wypisów i wyrysów
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 22 listopada 2024 r. zmieniające rozporządzenie w sprawie projektu planu ogólnego gminy, dokumentowania prac planistycznych w zakresie tego planu oraz wydawania z niego wypisów i wyrysów Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739). C S PLISCC
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-22 |
 | Data wydania | 2024-12-03 |
-| Wejście w życie | 2024-12-18 |
 | Ostatnia zmiana | 2024-12-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001775) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1775/text.pdf) |
 
@@ -38,8 +37,95 @@ Do spraw sporządzenia projektów planów ogólnych gmin i ich uchwalania wszcz�
 2.
 Dokonanych przed dniem wejścia w życie niniejszego rozporządzenia czynności, o których mowa w art. 13i ust. 3 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, nie ponawia się.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739). C S PLISCC
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739). C S PLISCC
 Załącznik – Charakterystyka stref planistycznych
-Lp. Symbol literowy Nazwa strefy planistycznej Profil funkcjonalny strefy planistycznej Minimalnyudział powierzchni biologicznie czynnej [%]1) podstawowy2) dodatkowy2) 1 SW strefa wielofunkcyjnaz zabudowąmieszkaniowąwielorodzinną teren zabudowy mieszkaniowejwielorodzinnej, teren usług, terenkomunikacji, teren zieleni urządzonej, terenogrodów działkowych, teren infrastrukturytechnicznej3) teren zabudowy mieszkaniowejjednorodzinnej, teren handluwielkopowierzchniowego, teren zieleninaturalnej, teren lasu, teren wód 30 2 SJ strefa wielofunkcyjnaz zabudowąmieszkaniowąjednorodzinną teren zabudowy mieszkaniowejjednorodzinnej, teren usług, terenkomunikacji, teren zieleni urządzonej, terenogrodów działkowych, teren infrastrukturytechnicznej3) teren zabudowy letniskowej lubrekreacji indywidualnej, teren zieleninaturalnej, teren lasu, teren wód 30 3 SZ strefa wielofunkcyjna z zabudową zagrodową teren zabudowy zagrodowej, teren produkcjiw gospodarstwach rolnych, terenakwakultury i obsługi rybactwa, terenkomunikacji, teren zieleni urządzonej, terenogrodów działkowych, teren infrastrukturytechnicznej3) teren wielkotowarowej produkcji rolnej, teren rolnictwa z zakazem zabudowy, teren biogazowni, teren usług, terenzieleni naturalnej, teren lasu, teren wód 30 4 SU strefa usługowa teren usług, teren komunikacji, teren zieleniurządzonej, teren ogrodów działkowych, teren infrastruktury technicznej3) teren składów i magazynów, terenelektrowni słonecznej, teren zieleninaturalnej, teren lasu, teren wód 30 5 SH strefa handluwielkopowierzchniowego teren handlu wielkopowierzchniowego, teren komunikacji, teren zieleni urządzonej, teren ogrodów działkowych, teren infrastrukturytechnicznej3) teren usług, teren składów i magazynów, teren elektrowni słonecznej, teren zieleninaturalnej, teren lasu, teren wód 30 6 SP strefa gospodarcza teren produkcji, teren komunikacji, terenzieleni urządzonej, teren ogrodówdziałkowych, teren infrastrukturytechnicznej3) teren usług, teren zieleni naturalnej, teren lasu, teren wód 20 7 SR strefa produkcji rolniczej teren produkcji w gospodarstwach rolnych, teren wielkotowarowej produkcji rolnej, teren akwakultury i obsługi rybactwa, terenkomunikacji, teren ogrodów działkowych, teren infrastruktury technicznej3) teren rolnictwa z zakazem zabudowy, teren biogazowni, teren elektrownisłonecznej, teren elektrowni wiatrowej, teren elektrowni wodnej, teren zieleniurządzonej, teren zieleni naturalnej, teren lasu, teren wód 30 8 SI strefa infrastrukturalna teren infrastruktury technicznej, teren komunikacji, teren ogrodów działkowych teren usług, teren produkcji, teren zieleniurządzonej, teren zieleni naturalnej, teren lasu, teren wód 20 9 SN strefa zieleni i rekreacji teren zieleni urządzonej, teren plaży, terenwód, teren komunikacji, teren ogrodówdziałkowych, teren infrastrukturytechnicznej3) teren usług sportu i rekreacji, teren usługkultury i rozrywki, teren usług handludetalicznego, teren usług gastronomii, teren usług turystyki, teren usług nauki, teren usług edukacji, teren usługzdrowia i pomocy społecznej, terenzieleni naturalnej, teren lasu 50 10 SC strefa cmentarzy teren cmentarza, teren komunikacji, terenzieleni urządzonej, teren ogrodówdziałkowych, teren infrastrukturytechnicznej3) teren usług kultu religijnego, teren usłughandlu detalicznego, teren zieleninaturalnej, teren lasu, teren wód 30 11 SG strefa górnictwa teren górnictwa i wydobycia, terenkomunikacji, teren ogrodów działkowych, teren infrastruktury technicznej3) teren produkcji, teren usług handlu, teren usług rzemieślniczych, teren usługgastronomii, teren usług biurowychi administracji, teren usług nauki, terenzieleni urządzonej, teren zieleninaturalnej, teren lasu, teren wód – 12 SO strefa otwarta teren rolnictwa z zakazem zabudowy, terenlasu, teren zieleni naturalnej, teren wód, terenkomunikacji, teren ogrodów działkowych, teren infrastruktury technicznej3) teren elektrowni wiatrowej, terenelektrowni słonecznej, teren elektrownigeotermalnej, teren elektrowni wodnej, teren biogazowni, teren zieleniurządzonej – 13 SK strefa komunikacyjna4) teren autostrady, teren drogi ekspresowej, teren drogi głównej ruchu przyspieszonego, teren drogi głównej, teren komunikacjikolejowej i szynowej, teren komunikacjikolei linowej, teren komunikacji wodnej, teren komunikacji lotniczej, teren obsługikomunikacji, teren ogrodów działkowych, teren infrastruktury technicznej3) teren drogi zbiorczej, teren usług handludetalicznego, teren usług gastronomii, teren usług turystyki, teren zieleniurządzonej, teren lasu, teren zieleninaturalnej, teren wód –
+Lp. Symbol literowy Nazwa strefy planistycznej Profil funkcjonalny strefy planistycznej Minimalny
+udział powierzchni biologicznie czynnej [%]1) podstawowy2) dodatkowy2) 1 SW strefa wielofunkcyjna
+z zabudową
+mieszkaniową
+wielorodzinną teren zabudowy mieszkaniowej
+wielorodzinnej, teren usług, teren
+komunikacji, teren zieleni urządzonej, teren
+ogrodów działkowych, teren infrastruktury
+technicznej3) teren zabudowy mieszkaniowej
+jednorodzinnej, teren handlu
+wielkopowierzchniowego, teren zieleni
+naturalnej, teren lasu, teren wód 30 2 SJ strefa wielofunkcyjna
+z zabudową
+mieszkaniową
+jednorodzinną teren zabudowy mieszkaniowej
+jednorodzinnej, teren usług, teren
+komunikacji, teren zieleni urządzonej, teren
+ogrodów działkowych, teren infrastruktury
+technicznej3) teren zabudowy letniskowej lub
+rekreacji indywidualnej, teren zieleni
+naturalnej, teren lasu, teren wód 30 3 SZ strefa wielofunkcyjna z zabudową zagrodową teren zabudowy zagrodowej, teren produkcji
+w gospodarstwach rolnych, teren
+akwakultury i obsługi rybactwa, teren
+komunikacji, teren zieleni urządzonej, teren
+ogrodów działkowych, teren infrastruktury
+technicznej3) teren wielkotowarowej produkcji rolnej,
+teren rolnictwa z zakazem zabudowy,
+teren biogazowni, teren usług, teren
+zieleni naturalnej, teren lasu, teren wód 30 4 SU strefa usługowa teren usług, teren komunikacji, teren zieleni
+urządzonej, teren ogrodów działkowych,
+teren infrastruktury technicznej3) teren składów i magazynów, teren
+elektrowni słonecznej, teren zieleni
+naturalnej, teren lasu, teren wód 30 5 SH strefa handlu
+wielkopowierzchniowego teren handlu wielkopowierzchniowego, teren komunikacji, teren zieleni urządzonej, teren ogrodów działkowych, teren infrastruktury
+technicznej3) teren usług, teren składów i magazynów,
+teren elektrowni słonecznej, teren zieleni
+naturalnej, teren lasu, teren wód 30 6 SP strefa gospodarcza teren produkcji, teren komunikacji, teren
+zieleni urządzonej, teren ogrodów
+działkowych, teren infrastruktury
+technicznej3) teren usług, teren zieleni naturalnej, teren lasu, teren wód 20 7 SR strefa produkcji rolniczej teren produkcji w gospodarstwach rolnych,
+teren wielkotowarowej produkcji rolnej,
+teren akwakultury i obsługi rybactwa, teren
+komunikacji, teren ogrodów działkowych,
+teren infrastruktury technicznej3) teren rolnictwa z zakazem zabudowy,
+teren biogazowni, teren elektrowni
+słonecznej, teren elektrowni wiatrowej,
+teren elektrowni wodnej, teren zieleni
+urządzonej, teren zieleni naturalnej,
+teren lasu, teren wód 30 8 SI strefa infrastrukturalna teren infrastruktury technicznej, teren komunikacji, teren ogrodów działkowych teren usług, teren produkcji, teren zieleni
+urządzonej, teren zieleni naturalnej,
+teren lasu, teren wód 20 9 SN strefa zieleni i rekreacji teren zieleni urządzonej, teren plaży, teren
+wód, teren komunikacji, teren ogrodów
+działkowych, teren infrastruktury
+technicznej3) teren usług sportu i rekreacji, teren usług
+kultury i rozrywki, teren usług handlu
+detalicznego, teren usług gastronomii,
+teren usług turystyki, teren usług nauki,
+teren usług edukacji, teren usług
+zdrowia i pomocy społecznej, teren
+zieleni naturalnej, teren lasu 50 10 SC strefa cmentarzy teren cmentarza, teren komunikacji, teren
+zieleni urządzonej, teren ogrodów
+działkowych, teren infrastruktury
+technicznej3) teren usług kultu religijnego, teren usług
+handlu detalicznego, teren zieleni
+naturalnej, teren lasu, teren wód 30 11 SG strefa górnictwa teren górnictwa i wydobycia, teren
+komunikacji, teren ogrodów działkowych,
+teren infrastruktury technicznej3) teren produkcji, teren usług handlu, teren usług rzemieślniczych, teren usług
+gastronomii, teren usług biurowych
+i administracji, teren usług nauki, teren
+zieleni urządzonej, teren zieleni
+naturalnej, teren lasu, teren wód – 12 SO strefa otwarta teren rolnictwa z zakazem zabudowy, teren
+lasu, teren zieleni naturalnej, teren wód, teren
+komunikacji, teren ogrodów działkowych,
+teren infrastruktury technicznej3) teren elektrowni wiatrowej, teren
+elektrowni słonecznej, teren elektrowni
+geotermalnej, teren elektrowni wodnej,
+teren biogazowni, teren zieleni
+urządzonej – 13 SK strefa komunikacyjna4) teren autostrady, teren drogi ekspresowej,
+teren drogi głównej ruchu przyspieszonego,
+teren drogi głównej, teren komunikacji
+kolejowej i szynowej, teren komunikacji
+kolei linowej, teren komunikacji wodnej,
+teren komunikacji lotniczej, teren obsługi
+komunikacji, teren ogrodów działkowych,
+teren infrastruktury technicznej3) teren drogi zbiorczej, teren usług handlu
+detalicznego, teren usług gastronomii,
+teren usług turystyki, teren zieleni
+urządzonej, teren lasu, teren zieleni
+naturalnej, teren wód –
 

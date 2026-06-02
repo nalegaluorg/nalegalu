@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 14 marca 2019 r. zmieniające rozporządzenie w sprawie urlopów policjantów
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 14 marca 2019 r. zmieniające rozporządzenie w sprawie urlopów policjantów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-14 |
 | Data wydania | 2019-03-26 |
-| Wejście w życie | 2019-04-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000561) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/561/text.pdf) |
 
@@ -31,32 +30,23 @@ Na podstawie art. 86 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2019 r
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 19 września 2014 r. w sprawie urlopów policjantów (Dz. U. poz. 1282 oraz z 2018 r. poz. 253) wprowadza się następujące zmiany:
 1)
-w § 2 pkt 2 otrzymuje brzmienie:
-„
+w § 2 pkt 2 otrzymuje brzmienie: „
 2)
-jednostka organizacyjna Policji – Centralne Biuro Śledcze Policji, Biuro Spraw Wewnętrznych Policji, Centralny Pododdział Kontrterrorystyczny Policji „BOA”, komendę, komisariat, komisariat specjalistyczny, oddział i samodzielny pododdział prewencji Policji, samodzielny pododdział kontrterrorystyczny Policji, Wyższą Szkołę Policji w Szczytnie, szkołę policyjną, ośrodek szkolenia Policji i instytut badawczy;
-” ;
+jednostka organizacyjna Policji – Centralne Biuro Śledcze Policji, Biuro Spraw Wewnętrznych Policji, Centralny Pododdział Kontrterrorystyczny Policji „BOA”, komendę, komisariat, komisariat specjalistyczny, oddział i samodzielny pododdział prewencji Policji, samodzielny pododdział kontrterrorystyczny Policji, Wyższą Szkołę Policji w Szczytnie, szkołę policyjną, ośrodek szkolenia Policji i instytut badawczy; ” ;
 2)
 w § 6:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Jeżeli policjant nie może rozpocząć urlopu wypoczynkowego w ustalonym terminie z powodu czasowej niezdolności do służby wskutek choroby, urlopu zdrowotnego, zwolnienia od zajęć służbowych z powodu konieczności osobistego sprawowania opieki nad dzieckiem lub innym członkiem rodziny, odosobnienia w związku z chorobą zakaźną, urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, urlopu rodzicielskiego, urlopu ojcowskiego lub urlopu wychowawczego, urlop ten należy przesunąć na inny termin.
-” ,
+Jeżeli policjant nie może rozpocząć urlopu wypoczynkowego w ustalonym terminie z powodu czasowej niezdolności do służby wskutek choroby, urlopu zdrowotnego, zwolnienia od zajęć służbowych z powodu konieczności osobistego sprawowania opieki nad dzieckiem lub innym członkiem rodziny, odosobnienia w związku z chorobą zakaźną, urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, urlopu rodzicielskiego, urlopu ojcowskiego lub urlopu wychowawczego, urlop ten należy przesunąć na inny termin. ” ,
 b)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-Na wniosek policjanta urlopu wypoczynkowego udziela się bezpośrednio po urlopie macierzyńskim, urlopie na warunkach urlopu macierzyńskiego, urlopie rodzicielskim lub po urlopie ojcowskim.
-” ;
+Na wniosek policjanta urlopu wypoczynkowego udziela się bezpośrednio po urlopie macierzyńskim, urlopie na warunkach urlopu macierzyńskiego, urlopie rodzicielskim lub po urlopie ojcowskim. ” ;
 3)
-w § 10 ust. 2 otrzymuje brzmienie:
-„
+w § 10 ust. 2 otrzymuje brzmienie: „
 2.
-Do stażu służby, o którym mowa w ust. 1, zalicza się również okresy, traktowane jako równorzędne ze służbą w Policji, w rozumieniu przepisów o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin.
-” .
+Do stażu służby, o którym mowa w ust. 1, zalicza się również okresy, traktowane jako równorzędne ze służbą w Policji, w rozumieniu przepisów o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 5 kwietnia 2019 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
+Rozporządzenie wchodzi w życie z dniem 5 kwietnia 2019 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 

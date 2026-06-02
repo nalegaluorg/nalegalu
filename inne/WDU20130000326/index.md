@@ -39,8 +39,8 @@ d) zestawienie roczne, którego wzór jest określony w załączniku nr 4 do roz
 § 3. 1. Uprawniony do rybactwa dokonuje wpisów w dokumentacji gospodarki rybackiej w języku polskim, czytelnie, bez używania skrótów, z wyjątkiem skrótów ogólnie przyjętych.
 2. Wpisów dokonanych w dokumentacji gospodarki rybackiej nie poprawia się, z wyjątkiem błędów powstałych wskutek oczywistej pomyłki pisarskiej lub rachunkowej.
 3. Błędy, o których mowa w ust. 2, powstałe w:
-1) p rotokole zarybień lub protokole połowu ryb i raków poprawia się przed potwierdzeniem zawartych w nich informacji przez właściwego dyrektora regionalnego zarządu gospodarki wodnej, zwanego dalej „dyrektorem RZGW”, albo osobę przez niego upoważnioną, jeżeli zostało to przewidziane w umowie zawartej przez uprawnionego do rybactwa z dyrektorem RZGW;
-2) księdze gospodarczej lub zestawieniu rocznym poprawia się przed przekazaniem kopii zestawienia rocznego do katastru wodnego, jednak nie później niż przed podjęciem przez marszałka województwa czynności związanych z dokony waniem oceny wypełniania przez uprawnionego do rybactwa obowiązku prowadzenia racjonalnej gospodarki rybackiej w obwodzie rybackim.
+1) protokole zarybień lub protokole połowu ryb i raków poprawia się przed potwierdzeniem zawartych w nich informacji przez właściwego dyrektora regionalnego zarządu gospodarki wodnej, zwanego dalej „dyrektorem RZGW”, albo osobę przez niego upoważnioną, jeżeli zostało to przewidziane w umowie zawartej przez uprawnionego do rybactwa z dyrektorem RZGW;
+2) księdze gospodarczej lub zestawieniu rocznym poprawia się przed przekazaniem kopii zestawienia rocznego do katastru wodnego, jednak nie później niż przed podjęciem przez marszałka województwa czynności związanych z dokonywaniem oceny wypełniania przez uprawnionego do rybactwa obowiązku prowadzenia racjonalnej gospodarki rybackiej w obwodzie rybackim.
 4. Błędy w dokumentacji gospodarki rybackiej poprawia się przez skreślenie dotychczasowego wpisu i dokonanie nowego w taki sposób, aby był czytelny wpis poprawiany.
 5. Dokonanie czynności, o której mowa w ust. 4, potwierdza podpisem złożonym przy poprawionym wpisie, wraz z określeniem daty:
 1) uprawniony do rybactwa w przypadku:
@@ -83,9 +83,9 @@ d) zestawienia rocznego;
 § 9. W ewidencji zarybień, o której mowa w § 6 ust. 3 pkt 3, uprawniony do rybactwa wpisuje informacje zawarte w:
 1) protokole zarybień, o którym mowa w § 2 pkt 1 lit. a,
 2) dokumentach dotyczących zarybień, innych niż protokół zarybień, o którym mowa w § 2 pkt 1 lit. a, przekazanych uprawnionemu do rybactwa przez:
-a) d yrektora RZGW,
-b) p odmiot, któremu dyrektor RZGW udostępnił obwód rybacki do badań naukowych, lub
-c) p odmioty, o których mowa w art. 4b ust. 1 pkt 2 i 3 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym nie później niż do 15. dnia miesiąca następującego po miesiącu, w którym uprawniony do rybactwa dokonał zarybienia albo otrzymał informację o dokonanych zarybieniach.
+a) dyrektora RZGW,
+b) podmiot, któremu dyrektor RZGW udostępnił obwód rybacki do badań naukowych, lub
+c) podmioty, o których mowa w art. 4b ust. 1 pkt 2 i 3 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym nie później niż do 15. dnia miesiąca następującego po miesiącu, w którym uprawniony do rybactwa dokonał zarybienia albo otrzymał informację o dokonanych zarybieniach.
 § 10. 1. Zestawienie roczne sporządza uprawniony do rybactwa w formie pisemnej albo w postaci elektronicznej, raz w roku, nie później niż do dnia 15 kwietnia każdego roku.
 2. Zestawienie roczne prowadzone w postaci elektronicznej jest utrwalane na elektronicznym nośniku danych w sposób
 3. Zestawienie roczne zawiera w szczególności:
@@ -109,7 +109,7 @@ c) p odmioty, o których mowa w art. 4b ust. 1 pkt 2 i 3 ustawy z dnia 18 kwietn
 4. Przepisów ust. 3 pkt 6–8 nie stosuje się do obiektów chowu lub hodowli ryb łososiowatych.
 5. Uprawniony do rybactwa przekazuje informacje zawarte w księdze stawowej, w sposób i w terminie określonym w przepisach o statystyce publicznej.
 § 12. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. K. Plocke W WZÓR PROTOKOŁU POŁOWU RYB I RAKÓW Strona A Protokół połowu ryb i raków
+Minister Rolnictwa i Rozwoju Wsi: wz. K. Plocke M W W Załącznik nr 2 WZÓR PROTOKOŁU POŁOWU RYB I RAKÓW Strona A Protokół połowu ryb i raków
 1. Uprawniony do rybactwa 2. Miejsce połowu 2a. Region wodny 2b. Miejsce połowu 2c. Obwód rybacki
 3. Data połowu 4. Miejsce sporządzenia protokołu Lp. 5. Gatunek 7. Ilość (kg) 8. Sposób zagospodarowania
 1.
@@ -143,7 +143,7 @@ Podpis Czytelny podpis 11c.Data 12c. Data Strona B Objaśnienia do protokołu po
 „ 12a. Dyrektor RZGW ” nazwę, siedzibę i adres dyrektora RZGW;
 „ 12b. Czytelny podpis ” czytelny podpis, z podaniem imienia i nazwiska osoby upoważnionej do potwierdzenia protokołu;
 „ 12c. Data ” dzień, miesiąc i rok potwierdzenia protokołu.
-W K Ę G A OG O CRAD Z A W O O W W M O K OG W M OG O W Ó W m O O W O O G OG O O O G OG O WZÓR ZESTAWIENIA ROCZNEGO Strona A Zestawienie roczne Strona A
+W K Ę G A OG O CRAD Z A W O O W W M O K OG W M OG O W Ó W m O O W O O G OG O O O G OG O Załącznik nr 4 WZÓR ZESTAWIENIA ROCZNEGO Strona A Zestawienie roczne Strona A
 1. Liczba stron C 2. Region wodny Oznaczenia w katastrze wodnym Region wodny 3. Obwód rybacki Dorzecze
 5. Połowy ryb i raków rybackimi narzędziami i urządzeniami połowowymi w roku 2 0 Lp. 5a. Gatunek 5b. Ilość [kg] Lp. 5a. Gatunek 5b. Ilość [kg]
 1. Raki 17. Lin

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-03 |
 | Data wydania | 2014-04-22 |
-| Wejście w życie | 2014-05-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000506) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/506/text.pdf) |
 
@@ -83,5 +82,5 @@ Dla operatorów pocztowych miejscem dostępu do skrzynki jest otwór wrzutowy, o
 § 8.
 Skrzynki z otworem wrzutowym o wysokości niższej niż określona w § 3 ust. 3 pkt 2 zainstalowane zgodnie z przepisami dotychczasowymi mogą być użytkowane do momentu ich fizycznego zużycia i wymiany skrzynki albo wymiany jej elementu konstrukcyjnego z otworem wrzutowym.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 24 września 2003 r. w sprawie oddawczych skrzynek pocztowych (Dz. U. Nr 177, poz. 1731 oraz z 2004 r. Nr 83, poz. 770), które utraciło moc na podstawie art. 190 ust. 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 24 września 2003 r. w sprawie oddawczych skrzynek pocztowych (Dz. U. Nr 177, poz. 1731 oraz z 2004 r. Nr 83, poz. 770), które utraciło moc na podstawie art. 190 ust. 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529).
 

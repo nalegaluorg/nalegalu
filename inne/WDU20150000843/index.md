@@ -22,17 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-10 |
 | Data wydania | 2015-06-18 |
-| Wejście w życie | 2015-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000843) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/843/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Ocenianie, klasyfikowanie i promowanie uczniów w szkołach publicznych dla dzieci i młodzieży Rozdział 3 – Ocenianie, klasyfikowanie i promowanie słuchaczy w szkołach publicznych dla dorosłych Rozdział 4 – Przepisy przejściowe i końcowe
 Treść rozporządzenia
-Na podstawie art. 44zb ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 44zb ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650, z 2014 r. poz. 7, 290, 538, 598, 642, 811, 1146, 1198 i 1877 oraz z 2015 r. poz. 357.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe warunki i sposób oceniania, klasyfikowania i promowania uczniów w szkołach publicznych dla dzieci i młodzieży oraz słuchaczy w szkołach publicznych dla dorosłych.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o ustawie, należy przez to rozumieć ustawę z dnia 7 września 1991 r. o systemie oświaty.
+Ocenianie, klasyfikowanie i promowanie uczniów w szkołach publicznych dla dzieci i młodzieży
 § 3.
 Wymagania edukacyjne, o których mowa w art. 44b ust. 8 pkt 1 ustawy, dostosowuje się do indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych ucznia:
 1)
@@ -337,6 +338,7 @@ Uczniowi, który uczęszczał na dodatkowe zajęcia edukacyjne, religię lub ety
 W przypadku gdy uczeń uczęszczał na zajęcia religii i zajęcia etyki, do średniej ocen, o której mowa w ust. 1, wlicza się ocenę ustaloną jako średnia z końcowych ocen klasyfikacyjnych uzyskanych z tych zajęć. Jeżeli ustalona w ten sposób ocena nie jest liczbą całkowitą, ocenę tę należy zaokrąglić do liczby całkowitej w górę.
 4.
 Uczeń, o którym mowa w art. 16 ust. 11 ustawy, kończy szkołę podstawową, gimnazjum lub szkołę ponadgimnazjalną: zasadniczą szkołę zawodową, liceum ogólnokształcące i technikum z wyróżnieniem, jeżeli w wyniku klasyfikacji końcowej uzyskał z obowiązkowych zajęć edukacyjnych średnią końcowych ocen klasyfikacyjnych co najmniej 4,75.
+Ocenianie, klasyfikowanie i promowanie słuchaczy w szkołach publicznych dla dorosłych
 § 22.
 1.
 Do słuchaczy szkół publicznych dla dorosłych stosuje się odpowiednio przepisy § 3, § 4, § 5 ust. 2 i 3, § 6, § 9, § 14–16 oraz § 19 ust. 1–6, 9, 10 i 12.
@@ -372,8 +374,7 @@ W przypadku zwolnienia słuchacza w całości lub w części z obowiązku odbyci
 1)
 „zwolniony w całości z praktycznej nauki zawodu” albo „zwolniona w całości z praktycznej nauki zawodu”,
 2)
-„zwolniony w części z praktycznej nauki zawodu” albo „zwolniona w części z praktycznej nauki zawodu”
-oraz podstawę prawną zwolnienia.
+„zwolniony w części z praktycznej nauki zawodu” albo „zwolniona w części z praktycznej nauki zawodu” – oraz podstawę prawną zwolnienia.
 6.
 W przypadku zwolnienia słuchacza z obowiązku realizacji zajęć edukacyjnych „podstawy przedsiębiorczości” w dokumentacji przebiegu nauczania zamiast oceny klasyfikacyjnej wpisuje się „zwolniony” albo „zwolniona” oraz rodzaj świadectwa będącego podstawą zwolnienia i datę jego wydania.
 § 24.
@@ -438,20 +439,29 @@ wylosowane przez poszczególnych słuchaczy zadania wraz ze zwięzłą informacj
 Dyrektor szkoły dla dorosłych może zwolnić słuchacza powtarzającego semestr na podstawie art. 44z ust. 3–5 ustawy z realizacji obowiązkowych zajęć edukacyjnych, z których uzyskał poprzednio pozytywną semestralną ocenę klasyfikacyjną, o której mowa w § 9 ust. 2.
 2.
 W przypadku zwolnienia, o którym mowa w ust. 1, w dokumentacji przebiegu nauczania zamiast oceny klasyfikacyjnej wpisuje się odpowiednio „zwolniony” albo „zwolniona” oraz podstawę prawną zwolnienia.
+Przepisy przejściowe i końcowe
 § 31.
-Opinie poradni psychologiczno-pedagogicznych, w tym poradni specjalistycznych, o specyficznych trudnościach w uczeniu się wydane na podstawie § 6a rozporządzenia Ministra Edukacji Narodowej z dnia 30 kwietnia 2007 r. w sprawie warunków i sposobu oceniania, klasyfikowania i promowania uczniów i słuchaczy oraz przeprowadzania sprawdzianów i egzaminów w szkołach publicznych (Dz. U. Nr 83, poz. 562, z późn. zm.) zachowują ważność i mogą być podstawą dostosowania wymagań edukacyjnych, o którym mowa w art. 44c ust. 2 ustawy.
+Opinie poradni psychologiczno-pedagogicznych, w tym poradni specjalistycznych, o specyficznych trudnościach w uczeniu się wydane na podstawie § 6a rozporządzenia Ministra Edukacji Narodowej z dnia 30 kwietnia 2007 r. w sprawie warunków i sposobu oceniania, klasyfikowania i promowania uczniów i słuchaczy oraz przeprowadzania sprawdzianów i egzaminów w szkołach publicznych (Dz. U. Nr 83, poz. 562, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2007 r. Nr 130, poz. 906, z 2008 r. Nr 3, poz. 9 i Nr 178, poz. 1097, z 2009 r. Nr 58, poz. 475, Nr 83, poz. 694 i Nr 141, poz. 1150, z 2010 r. Nr 156, poz. 1046 i Nr 228, poz. 1491, z 2011 r. Nr 35, poz. 178 i Nr 179, poz. 1063, z 2012 r. poz. 262 oraz z 2013 r. poz. 520.) zachowują ważność i mogą być podstawą dostosowania wymagań edukacyjnych, o którym mowa w art. 44c ust. 2 ustawy.
 § 32.
 Opinie o ograniczonych możliwościach uczestniczenia ucznia w zajęciach wychowania fizycznego, zajęciach komputerowych i informatyki wydane przez lekarzy, wymienione w § 8 rozporządzenia, o którym mowa w § 31, zachowują ważność i mogą być podstawą zwolnienia ucznia z realizacji tych zajęć, na czas określony w tych opiniach.
 § 33.
 Projekty edukacyjne, których realizacja rozpoczęła się przed dniem wejścia w życie rozporządzenia, na podstawie § 21a rozporządzenia, o którym mowa w § 31, są prowadzone do ich zakończenia zgodnie z ustalonymi dla nich warunkami.
 § 34.
-Rozporządzenie wchodzi w życie z dniem 1 września 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 września 2015 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 30 kwietnia 2007 r. w sprawie warunków i sposobu oceniania, klasyfikowania i promowania uczniów i słuchaczy oraz przeprowadzania sprawdzianów i egzaminów w szkołach publicznych (Dz. U. Nr 83, poz. 562 i Nr 130, poz. 906, z 2008 r. Nr 3, poz. 9 i Nr 178, poz. 1097, z 2009 r. Nr 58, poz. 475, Nr 83, poz. 694 i Nr 141, poz. 1150, z 2010 r. Nr 156, poz. 1046 i Nr 228, poz. 1491, z 2011 r. Nr 35, poz. 178 i Nr 179, poz. 1063, z 2012 r. poz. 262 oraz z 2013 r. poz. 520), które utraciło moc z dniem 31 marca 2015 r. w związku z wejściem w życie ustawy z dnia 20 lutego 2015 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 357). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650, z 2014 r. poz. 7, 290, 538, 598, 642, 811, 1146, 1198 i 1877 oraz z 2015 r. poz. 357. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2007 r. Nr 130, poz. 906, z 2008 r. Nr 3, poz. 9 i Nr 178, poz. 1097, z 2009 r. Nr 58, poz. 475, Nr 83, poz. 694 i Nr 141, poz. 1150, z 2010 r. Nr 156, poz. 1046 i Nr 228, poz. 1491, z 2011 r. Nr 35, poz. 178 i Nr 179, poz. 1063, z 2012 r. poz. 262 oraz z 2013 r. poz. 520. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 30 kwietnia 2007 r. w sprawie warunków i sposobu oceniania, klasyfikowania i promowania uczniów i słuchaczy oraz przeprowadzania sprawdzianów i egzaminów w szkołach publicznych (Dz. U. Nr 83, poz. 562 i Nr 130, poz. 906, z 2008 r. Nr 3, poz. 9 i Nr 178, poz. 1097, z 2009 r. Nr 58, poz. 475, Nr 83, poz. 694 i Nr 141, poz. 1150, z 2010 r. Nr 156, poz. 1046 i Nr 228, poz. 1491, z 2011 r. Nr 35, poz. 178 i Nr 179, poz. 1063, z 2012 r. poz. 262 oraz z 2013 r. poz. 520), które utraciło moc z dniem 31 marca 2015 r. w związku z wejściem w życie ustawy z dnia 20 lutego 2015 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 357).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Ocenianie, klasyfikowanie i promowanie uczniów w szkołach publicznych dla dzieci i młodzieży
+#### Rozdział 2 – Ocenianie, klasyfikowanie i promowanie uczniów w szkołach publicznych dla dzieci i młodzieży
 
-#### Rozdział 3 Ocenianie, klasyfikowanie i promowanie słuchaczy w szkołach publicznych dla dorosłych
+#### Rozdział 3 – Ocenianie, klasyfikowanie i promowanie słuchaczy w szkołach publicznych dla dorosłych
 
-#### Rozdział 4 Przepisy przejściowe i końcowe
+#### Rozdział 4 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

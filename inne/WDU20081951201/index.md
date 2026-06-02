@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-10-03 |
 | Data wydania | 2008-10-31 |
-| Wejście w życie | 2008-11-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081951201) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1201/text.pdf) |
 
@@ -48,7 +47,7 @@ source: "eli-html"
 3. Wykonywanie czynności, o których mowa w ust. 1, następuje po zawarciu przez powiatowego lekarza weterynarii umowy z:
 
 - **1)** osobami, o których mowa w ust. 1 pkt 1, 2 i 3,
-- **2)** podmiotem prowadzącym zakład leczniczy dla zwierząt – w przypadku, o którym mowa w ust. 1 pkt 1a określającej zakres, terminy i miejsce wykonywania tych czynności, wysokość wynagrodzenia za ich wykonanie oraz termin płatności, a w przypadku, o którym mowa w ust. 1 pkt 1a, dodatkowo imię i nazwisko wyznaczonego lekarza weterynarii świadczącego usługi weterynaryjne w ramach zakładu leczniczego dla zwierząt. ” ;
+- **2)** podmiotem prowadzącym zakład leczniczy dla zwierząt – w przypadku, o którym mowa w ust. 1 pkt 1a – określającej zakres, terminy i miejsce wykonywania tych czynności, wysokość wynagrodzenia za ich wykonanie oraz termin płatności, a w przypadku, o którym mowa w ust. 1 pkt 1a, dodatkowo imię i nazwisko wyznaczonego lekarza weterynarii świadczącego usługi weterynaryjne w ramach zakładu leczniczego dla zwierząt. ” ;
 - **4)** w ust. 5 pkt 5 otrzymuje brzmienie: „
 - **5)** złożenia wniosku przez osobę wyznaczoną, a w przypadku, o którym mowa w ust. 1 pkt 1a, także po złożeniu wniosku przez kierownika zakładu leczniczego dla zwierząt. ” .
 

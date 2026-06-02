@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 12 czerwca 2018 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy publicznej w formie gwarancji spłaty kredytów w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020
+# Rozporządzenie Ministra Finansówz dnia 12 czerwca 2018 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy publicznej w formie gwarancji spłaty kredytów w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-12 |
 | Data wydania | 2018-06-18 |
-| Wejście w życie | 2018-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001165) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1165/text.pdf) |
 
@@ -32,7 +31,7 @@ Na podstawie art. 34a ust. 4 pkt 1 ustawy z dnia 8 maja 1997 r. o poręczeniach 
 Rozporządzenie określa szczegółowe warunki oraz tryb udzielania pomocy publicznej w formie gwarancji udzielanej przez Bank Gospodarstwa Krajowego, zwanej dalej „pomocą”, w ramach rządowego programu poręczeniowo-gwarancyjnego, o którym mowa w art. 34a ust. 1 pkt 1 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, w zakresie Programu Operacyjnego Inteligentny Rozwój 2014–2020.
 § 2.
 1.
-Pomoc jest udzielana mikroprzedsiębiorcom, małym i średnim przedsiębiorcom jako regionalna pomoc inwestycyjna zgodnie z art. 14 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.) , zwanego dalej „rozporządzeniem Komisji”, w formie udzielanej przez Bank Gospodarstwa Krajowego gwarancji spłaty kredytu przeznaczonego na finansowanie rozwoju działalności gospodarczej innowacyjnych przedsiębiorstw, w tym wdrażania wyników prac badawczo-rozwojowych.
+Pomoc jest udzielana mikroprzedsiębiorcom, małym i średnim przedsiębiorcom jako regionalna pomoc inwestycyjna zgodnie z art. 14 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28.) , zwanego dalej „rozporządzeniem Komisji”, w formie udzielanej przez Bank Gospodarstwa Krajowego gwarancji spłaty kredytu przeznaczonego na finansowanie rozwoju działalności gospodarczej innowacyjnych przedsiębiorstw, w tym wdrażania wyników prac badawczo-rozwojowych.
 2.
 Pomoc nie może być udzielona w przypadkach wskazanych w art. 1 ust. 2, ust. 3 lit. a-d, ust. 4 i 5 i w art. 13 rozporządzenia Komisji.
 3.
@@ -101,6 +100,5 @@ Przedsiębiorca zobowiązuje się do utrzymania inwestycji finansowanej kredytem
 § 9.
 Pomoc jest udzielana do końca okresu obowiązywania mapy pomocy regionalnej na lata 2014–2020 określonej na podstawie art. 10 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2018 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 7 października 2015 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy publicznej w formie gwarancji spłaty kredytów w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1674 oraz z 2017 r. poz. 982), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 7 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne oraz niektórych innych ustaw (Dz. U. poz. 2433).
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 7 października 2015 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy publicznej w formie gwarancji spłaty kredytów w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1674 oraz z 2017 r. poz. 982), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 7 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne oraz niektórych innych ustaw (Dz. U. poz. 2433). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 7 października 2015 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy publicznej w formie gwarancji spłaty kredytów w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1674 oraz z 2017 r. poz. 982), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 7 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne oraz niektórych innych ustaw (Dz. U. poz. 2433).
 

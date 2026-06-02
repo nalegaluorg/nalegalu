@@ -25,9 +25,10 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001700) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1700/text.pdf) |
 
-Treść obwieszczenia Rozdział 1 – Dane zbiorcze Rozdział 2 – Wyniki wyborów
 Treść obwieszczenia
-Na podstawie art. 477 § 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.) Państwowa Komisja Wyborcza podaje do publicznej wiadomości, na podstawie danych zawartych w obwieszczeniach komisarzy wyborczych, zbiorcze wyniki ponownego głosowania w wyborach wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonego w dniu 30 listopada 2014 r.
+Treść obwieszczenia
+Na podstawie art. 477 § 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072.) Państwowa Komisja Wyborcza podaje do publicznej wiadomości, na podstawie danych zawartych w obwieszczeniach komisarzy wyborczych, zbiorcze wyniki ponownego głosowania w wyborach wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonego w dniu 30 listopada 2014 r.
+Dane zbiorcze
 1.
 W ponownym głosowaniu wybierano łącznie 890 wójtów, burmistrzów i prezydentów miast spośród 1 773 kandydatów, w tym w 7 gminach i miastach, w których zarejestrowano tylko jednego kandydata.
 2.
@@ -48,6 +49,7 @@ Głosów nieważnych z powodu niepostawienia znaku „x” oddano 35 470, to jes
 Głosów nieważnych z powodu postawienia dwóch znaków „x” oddano 36 795, to jest 46,26% ogólnej liczby głosów nieważnych.
 10.
 Głosów nieważnych z innych przyczyn oddano 7 280, tj. 9,15% ogólnej liczby głosów nieważnych.
+Wyniki wyborów
 1.
 W ponownym głosowaniu wybierano łącznie 890 wójtów, burmistrzów i prezydentów miast, z czego:
 1)
@@ -63,9 +65,13 @@ Wybrano łącznie 889 wójtów, burmistrzów i prezydentów miast, z czego:
 3.
 Nie wybrano wójta w 1 gminie (gmina Moskorzew, powiat włoszczowski, województwo świętokrzyskie), ponieważ na liście kandydatów pozostał tylko jeden kandydat na wójta, który w ponownym głosowaniu nie otrzymał więcej niż połowy ważnie oddanych głosów.
 4.
-W gminie tej wyboru wójta dokona, zgodnie z art. 482 § 4 Kodeksu wyborczego, rada gminy.
+W gminie tej wyboru wójta dokona, zgodnie z art. 482 § 4 Kodeksu wyborczego, rada gminy. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072.
 
-#### Rozdział 1 Dane zbiorcze
+#### Rozdział 1 – Dane zbiorcze
 
-#### Rozdział 2 Wyniki wyborów
+#### Rozdział 2 – Wyniki wyborów
+
+#### Rozdział 1
+
+#### Rozdział 2
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-07-26 |
 | Data wydania | 2002-08-28 |
-| Wejście w życie | 2002-11-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021351146) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1146/text.pdf) |
 
@@ -356,7 +355,7 @@ source: "eli-html"
 1. Pracodawca bez zgody zarządu zakładowej organizacji związkowej nie może:
 
 - **1)** wypowiedzieć ani rozwiązać stosunku pracy z imiennie wskazanym uchwałą zarządu jego członkiem lub z innym pracownikiem będącym członkiem danej zakładowej organizacji związkowej, upoważnionym do reprezentowania tej organizacji wobec pracodawcy albo organu lub osoby dokonującej za pracodawcę czynności w sprawach z zakresu prawa pracy,
-- **2)** zmienić jednostronnie warunków pracy lub płacy na niekorzyść pracownika, o którym mowa w pkt 1 z wyjątkiem gdy dopuszczają to odrębne przepisy.
+- **2)** zmienić jednostronnie warunków pracy lub płacy na niekorzyść pracownika, o którym mowa w pkt 1 – z wyjątkiem gdy dopuszczają to odrębne przepisy.
 
 2. Ochrona, o której mowa w ust. 1, przysługuje przez okres określony uchwałą zarządu, a po jego upływie – dodatkowo przez czas odpowiadający połowie okresu określonego uchwałą, nie dłużej jednak niż rok po jego upływie.
 

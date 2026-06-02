@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-26 |
 | Data wydania | 2018-10-31 |
-| Wejście w życie | 2018-11-01 |
 | Ostatnia zmiana | 2024-12-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002082) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2082/text.pdf) |
 
@@ -37,7 +36,8 @@ Na podstawie art. 28 ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów 
 § 1.
 W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 22 marca 2011 r. w sprawie stanowisk i wymaganych kwalifikacji urzędników sądowych i innych pracowników oraz szczegółowych zasad wynagradzania referendarzy sądowych, starszych referendarzy sądowych, asystentów sędziów, starszych asystentów sędziów, urzędników oraz innych pracowników wojewódzkich sądów administracyjnych (Dz. U. poz. 384 oraz z 2016 r. poz. 1428 i 2228) wprowadza się następujące zmiany:
 1)
-w załączniku nr 1 do rozporządzenia w tabeli A lp. 8 otrzymuje brzmienie: 8 INSPEKTOR OCHRONY DANYCH XV-XIX 8 WEDŁUG ODRĘBNYCH PRZEPISÓW
+w załączniku nr 1 do rozporządzenia w tabeli A lp. 8 otrzymuje brzmienie:
+8 INSPEKTOR OCHRONY DANYCH XV-XIX 8 WEDŁUG ODRĘBNYCH PRZEPISÓW
 2)
 załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 3)

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 16 lipca 2024 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty płatności ekologicznych w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 16 lipca 2024 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty płatności ekologicznych w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-16 |
 | Data wydania | 2024-07-19 |
-| Wejście w życie | 2024-07-20 |
 | Ostatnia zmiana | 2025-01-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001072) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1072/text.pdf) |
 
@@ -33,12 +32,11 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 17 kwietnia 2023 r. w 
 1)
 w § 6:
 a)
-ust. 8 otrzymuje brzmienie:
-„
+ust. 8 otrzymuje brzmienie: „
 8.
 Jeżeli w przypadku użytków rolnych, które były trwałymi użytkami zielonymi w dniu 15 marca roku złożenia wniosku o przyznanie pierwszych płatności ekologicznych i pozostają trwałymi użytkami zielonymi w kolejnych latach realizacji zobowiązania ekologicznego, we wniosku tym lub we wnioskach o przyznanie kolejnych płatności ekologicznych rolnik zadeklarował na tych użytkach realizację pakietu wymienionego w § 3 ust. 1:
 1)
-pkt 1 z uprawą traw w siewie czystym z przeznaczeniem na materiał siewny jako uprawy rocznej lub traw w siewie czystym z przeznaczeniem na materiał siewny jako uprawy wieloletniej – uznaje się, że na gruntach tych jest realizowany ten pakiet, a płatności ekologiczne do tych gruntów są przyznawane z zastosowaniem stawki płatności określonej dla tego pakietu odpowiednio dla gruntów w okresie konwersji w rozumieniu art. 3 pkt 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/848 z dnia 30 maja 2018 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającego rozporządzenie Rady (WE) nr 834/2007 (Dz. Urz. UE L 150 z 14.06.2018, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2018/848”, lub dla gruntów z zakończonym okresem konwersji w rozumieniu art. 3 pkt 6 rozporządzenia 2018/848, zwanej dalej „konwersją”;
+pkt 1 z uprawą traw w siewie czystym z przeznaczeniem na materiał siewny jako uprawy rocznej lub traw w siewie czystym z przeznaczeniem na materiał siewny jako uprawy wieloletniej – uznaje się, że na gruntach tych jest realizowany ten pakiet, a płatności ekologiczne do tych gruntów są przyznawane z zastosowaniem stawki płatności określonej dla tego pakietu odpowiednio dla gruntów w okresie konwersji w rozumieniu art. 3 pkt 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/848 z dnia 30 maja 2018 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającego rozporządzenie Rady (WE) nr 834/2007 (Dz. Urz. UE L 150 z 14.06.2018, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 29.10.2018, str. 37, Dz. Urz. UE L 305 z 26.11.2019, str. 59, Dz. Urz. UE L 87 z 23.03.2020, str. 1, Dz. Urz. UE L 381 z 13.11.2020, str. 1, Dz. Urz. UE L 402 z 01.12.2020, str. 23, Dz. Urz. UE L 439 z 29.12.2020, str. 32, Dz. Urz. UE L 7 z 11.01.2021, str. 53, Dz. Urz. UE L 60 z 22.02.2021, str. 24, Dz. Urz. UE L 133 z 20.04.2021, str. 1, Dz. Urz. UE L 151 z 03.05.2021, str. 1 i 5, Dz. Urz. UE L 204 z 10.06.2021, str. 47, Dz. Urz. UE L 222 z 22.06.2021, str. 3, Dz. Urz. UE L 318 z 09.09.2021, str. 5, Dz. Urz. UE L 334 z 22.09.2021, str. 1, Dz. Urz. UE L 336 z 23.09.2021, str. 3, Dz. Urz. UE L 98 z 25.03.2022, str. 1, Dz. Urz. UE L 187 z 14.07.2022, str. 60, Dz. Urz. UE L 321 z 15.12.2022, str. 74, Dz. Urz. UE L 29 z 01.02.2023, str. 6, Dz. Urz. UE L 171 z 06.07.2023, str. 43, Dz. Urz. UE L 204 z 17.08.2023, str. 66 oraz Dz. Urz. UE L 214 z 31.08.2023, str. 232, 233 i 234.), zwanego dalej „rozporządzeniem 2018/848”, lub dla gruntów z zakończonym okresem konwersji w rozumieniu art. 3 pkt 6 rozporządzenia 2018/848, zwanej dalej „konwersją”;
 2)
 pkt 7 z uprawą łąki przemiennej, mieszanki jednorocznej traw, mieszanki jednorocznej traw z bobowatymi drobnonasiennymi, mieszanki wieloletniej traw, mieszanki wieloletniej traw z bobowatymi drobnonasiennymi lub pastwiska przemiennego – uznaje się, że na gruntach tych jest realizowany pakiet wymieniony w § 3 ust. 1 pkt 8, a płatności ekologiczne do tych gruntów są przyznawane z zastosowaniem stawki płatności określonej dla pakietu wymienionego w § 3 ust. 1 pkt 8;
 3)
@@ -46,51 +44,41 @@ pkt 9 z uprawą roślin wymienionych w:
 a)
 części I tabeli załącznika nr 4 do rozporządzenia: trawy w siewie czystym z przeznaczeniem na materiał siewny jako uprawa roczna lub trawy w siewie czystym z przeznaczeniem na materiał siewny jako uprawa wieloletnia – uznaje się, że na gruntach tych jest realizowany ten pakiet z takimi uprawami,
 b)
-części VII tabeli załącznika nr 4 do rozporządzenia: łąka przemienna, mieszanka jednoroczna traw, mieszanka jednoroczna traw z bobowatymi drobnonasiennymi, mieszanka wieloletnia traw, mieszanka wieloletnia traw z bobowatymi drobnonasiennymi lub pastwisko przemienne – uznaje się, że na gruntach tych jest realizowany ten pakiet w odniesieniu do trwałych użytków zielonych.
-” ,
+części VII tabeli załącznika nr 4 do rozporządzenia: łąka przemienna, mieszanka jednoroczna traw, mieszanka jednoroczna traw z bobowatymi drobnonasiennymi, mieszanka wieloletnia traw, mieszanka wieloletnia traw z bobowatymi drobnonasiennymi lub pastwisko przemienne – uznaje się, że na gruntach tych jest realizowany ten pakiet w odniesieniu do trwałych użytków zielonych. ” ,
 b)
-po ust. 8 dodaje się ust. 8a i 8b w brzmieniu:
-„
+po ust. 8 dodaje się ust. 8a i 8b w brzmieniu: „
 8a.
 Jeżeli w przypadku gruntów ornych, które stały się trwałymi użytkami zielonymi po dniu 15 marca roku złożenia wniosku o przyznanie pierwszych płatności ekologicznych lub w kolejnych latach realizacji zobowiązania ekologicznego, rolnik we wniosku o przyznanie płatności ekologicznych za dany rok zadeklarował na tych gruntach realizację pakietu wymienionego w § 3 ust. 1:
 1)
 pkt 1 z uprawą traw w siewie czystym z przeznaczeniem na materiał siewny jako uprawy rocznej lub traw w siewie czystym z przeznaczeniem na materiał siewny jako uprawy wieloletniej lub
 2)
-pkt 7 z uprawą łąki przemiennej, mieszanki jednorocznej traw, mieszanki jednorocznej traw z bobowatymi drobnonasiennymi, mieszanki wieloletniej traw, mieszanki wieloletniej traw z bobowatymi drobnonasiennymi lub pastwiska przemiennego
-uznaje się, że na gruntach tych jest realizowany ten pakiet, a płatności ekologiczne do tych gruntów są przyznawane z zastosowaniem stawki płatności określonej dla tego pakietu odpowiednio dla gruntów w okresie konwersji lub dla gruntów z zakończonym okresem konwersji;
+pkt 7 z uprawą łąki przemiennej, mieszanki jednorocznej traw, mieszanki jednorocznej traw z bobowatymi drobnonasiennymi, mieszanki wieloletniej traw, mieszanki wieloletniej traw z bobowatymi drobnonasiennymi lub pastwiska przemiennego – uznaje się, że na gruntach tych jest realizowany ten pakiet, a płatności ekologiczne do tych gruntów są przyznawane z zastosowaniem stawki płatności określonej dla tego pakietu odpowiednio dla gruntów w okresie konwersji lub dla gruntów z zakończonym okresem konwersji;
 3)
 pkt 9 z uprawą roślin wymienionych w:
 a)
 części I tabeli załącznika nr 4 do rozporządzenia: trawy w siewie czystym z przeznaczeniem na materiał siewny jako uprawa roczna lub trawy w siewie czystym z przeznaczeniem na materiał siewny jako uprawa wieloletnia lub
 b)
-części VII tabeli załącznika nr 4 do rozporządzenia: łąka przemienna, mieszanka jednoroczna traw, mieszanka jednoroczna traw z bobowatymi drobnonasiennymi, mieszanka wieloletnia traw, mieszanka wieloletnia traw z bobowatymi drobnonasiennymi lub pastwisko przemienne
-uznaje się, że na gruntach tych jest realizowany ten pakiet z takimi uprawami.
+części VII tabeli załącznika nr 4 do rozporządzenia: łąka przemienna, mieszanka jednoroczna traw, mieszanka jednoroczna traw z bobowatymi drobnonasiennymi, mieszanka wieloletnia traw, mieszanka wieloletnia traw z bobowatymi drobnonasiennymi lub pastwisko przemienne – uznaje się, że na gruntach tych jest realizowany ten pakiet z takimi uprawami.
 8b.
-W przypadkach, o których mowa w ust. 8 i 8a, nie stosuje się przepisu § 30.
-” ,
+W przypadkach, o których mowa w ust. 8 i 8a, nie stosuje się przepisu § 30. ” ,
 c)
 w ust. 9 we wprowadzeniu do wyliczenia skreśla się wyrazy „na potrzeby wypełnienia normy dobrej kultury rolnej zgodnej z ochroną środowiska GAEC 8, wymienionej w załączniku III do rozporządzenia 2021/2115, w zakresie minimalnego udziału powierzchni użytków rolnych wykorzystanej”,
 d)
 uchyla się ust. 9–11;
 2)
-w § 8 w ust. 9 w pkt 2 lit. a otrzymuje brzmienie:
-„
+w § 8 w ust. 9 w pkt 2 lit. a otrzymuje brzmienie: „
 a)
-przeprowadzenia kontroli, o której mowa w art. 38 ust. 3 rozporządzenia 2018/848, w roku poprzedzającym rok złożenia wniosku o przyznanie płatności ekologicznych do dnia przeprowadzenia tej kontroli w roku złożenia wniosku o przyznanie tych płatności – w przypadku zwierząt innych niż wymienione w pkt 1, utrzymywanych przez rolnika lub jego małżonka, którzy zostali objęci systemem kontroli obejmującym kontrolę urzędową i inne czynności urzędowe, o których mowa w rozdziale VI rozporządzenia 2018/848, nie później niż w roku poprzedzającym rok złożenia wniosku o przyznanie płatności ekologicznych,
-” ;
+przeprowadzenia kontroli, o której mowa w art. 38 ust. 3 rozporządzenia 2018/848, w roku poprzedzającym rok złożenia wniosku o przyznanie płatności ekologicznych do dnia przeprowadzenia tej kontroli w roku złożenia wniosku o przyznanie tych płatności – w przypadku zwierząt innych niż wymienione w pkt 1, utrzymywanych przez rolnika lub jego małżonka, którzy zostali objęci systemem kontroli obejmującym kontrolę urzędową i inne czynności urzędowe, o których mowa w rozdziale VI rozporządzenia 2018/848, nie później niż w roku poprzedzającym rok złożenia wniosku o przyznanie płatności ekologicznych, ” ;
 3)
 w § 11 w ust. 5 skreśla się wyrazy „w rozumieniu art. 3 pkt 6 rozporządzenia 2018/848, zwanej dalej „konwersją”,”;
 4)
-w § 18 dodaje się ust. 3 w brzmieniu:
-„
+w § 18 dodaje się ust. 3 w brzmieniu: „
 3.
-Oświadczenia, o których mowa w ust. 1, lub dane dotyczące zwierząt objętych zgodą, o której mowa w § 8 ust. 6 pkt 2, mogą zostać zmienione do dnia 21 marca roku następującego po roku złożenia wniosku o przyznanie płatności ekologicznych.
-” ;
+Oświadczenia, o których mowa w ust. 1, lub dane dotyczące zwierząt objętych zgodą, o której mowa w § 8 ust. 6 pkt 2, mogą zostać zmienione do dnia 21 marca roku następującego po roku złożenia wniosku o przyznanie płatności ekologicznych. ” ;
 5)
 w § 19 w ust. 2 we wprowadzeniu do wyliczenia oraz w § 26 w ust. 3 liczbę „15” zastępuje się liczbą „31”;
 6)
-po § 47a dodaje się § 47b w brzmieniu:
-„
+po § 47a dodaje się § 47b w brzmieniu: „
 § 47b.
 1.
 Jeżeli zgoda, o której mowa w § 8 ust. 6 pkt 2, dołączona przez rolnika do wniosku o przyznanie płatności ekologicznych za 2024 r. nie zawiera:
@@ -101,8 +89,7 @@ numerów z systemu IRZ, jakimi są oznaczone zwierzęta objęte tą zgodą,
 b)
 gatunków oraz liczby zwierząt w ramach poszczególnych gatunków objętych tą zgodą – w przypadku zwierząt, o których mowa w ust. 1 pkt 3 i 6 oraz w ust. 2 pkt 3 i 5 załącznika nr 5 do rozporządzenia i o których mowa w art. 16 ust. 4 rozporządzenia 2021/520 oraz które nie są oznaczone numerem z systemu IRZ zgodnie z przepisami o systemie identyfikacji i rejestracji zwierząt,
 2)
-w odniesieniu do zwierząt gatunków, o których mowa w ust. 1 pkt 4, 5, 7, 10, 11 lub 16–19 lub w ust. 2 pkt 4 lub 8 załącznika nr 5 do rozporządzenia – gatunków oraz liczby zwierząt w ramach poszczególnych gatunków objętych tą zgodą
-to mimo braku tych danych z uwzględnieniem tej zgody mogą zostać przyznane rolnikowi płatności ekologiczne za 2024 r.
+w odniesieniu do zwierząt gatunków, o których mowa w ust. 1 pkt 4, 5, 7, 10, 11 lub 16–19 lub w ust. 2 pkt 4 lub 8 załącznika nr 5 do rozporządzenia – gatunków oraz liczby zwierząt w ramach poszczególnych gatunków objętych tą zgodą – to mimo braku tych danych z uwzględnieniem tej zgody mogą zostać przyznane rolnikowi płatności ekologiczne za 2024 r.
 2.
 Jeżeli zgoda zawarta w oświadczeniu, o którym mowa w § 18 ust. 1 pkt 2, dołączonym przez rolnika do wniosku o przyznanie płatności ekologicznych za 2024 r. nie zawiera:
 1)
@@ -110,9 +97,7 @@ numerów z systemu IRZ, jakimi są oznaczone zwierzęta objęte tą zgodą, w pr
 2)
 gatunków i liczby zwierząt w ramach poszczególnych gatunków objętych tą zgodą, w przypadku zwierząt, o których mowa w ust. 1 pkt 4, 5, 7, 10, 11 i 16–19 oraz w ust. 2 pkt 4 i 8 załącznika nr 5 do rozporządzenia,
 3)
-gatunków oraz liczby zwierząt w ramach poszczególnych gatunków objętych tą zgodą, w przypadku zwierząt, o których mowa w ust. 1 pkt 3 i 6 oraz w ust. 2 pkt 3 i 5 załącznika nr 5 do rozporządzenia i o których mowa w art. 16 ust. 4 rozporządzenia 2021/520 oraz które nie są oznaczone numerem z systemu IRZ zgodnie z przepisami o systemie identyfikacji i rejestracji zwierząt
-to mimo braku tych danych zwierzęta objęte tą zgodą mogą zostać uwzględnione przy ustalaniu liczby zwierząt stanowiących podstawę ustalenia wysokości płatności ekologicznych za 2024 r.
-” ;
+gatunków oraz liczby zwierząt w ramach poszczególnych gatunków objętych tą zgodą, w przypadku zwierząt, o których mowa w ust. 1 pkt 3 i 6 oraz w ust. 2 pkt 3 i 5 załącznika nr 5 do rozporządzenia i o których mowa w art. 16 ust. 4 rozporządzenia 2021/520 oraz które nie są oznaczone numerem z systemu IRZ zgodnie z przepisami o systemie identyfikacji i rejestracji zwierząt – to mimo braku tych danych zwierzęta objęte tą zgodą mogą zostać uwzględnione przy ustalaniu liczby zwierząt stanowiących podstawę ustalenia wysokości płatności ekologicznych za 2024 r. ” ;
 7)
 w załączniku nr 2 do rozporządzenia w ust. 1 w pkt 1 we wprowadzeniu do wyliczenia liczbę „9” zastępuje się liczbą „8”.
 § 2.
@@ -121,8 +106,7 @@ Do przyznawania płatności ekologicznych, o których mowa w art. 41 pkt 2 ustaw
 1)
 wszczętymi przed dniem 15 marca 2024 r. i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszego rozporządzenia,
 2)
-zakończonymi ostateczną decyzją wydaną na podstawie przepisów dotychczasowych, w przypadku gdy zostały wznowione po dniu 14 marca 2024 r.
-stosuje się przepisy rozporządzenia zmienianego w § 1 (w brzmieniu z dnia 9 września 2023 r., Dz. U, poz. 791 i 1830), z wyłączeniem § 6 ust. 9, który stosuje się w brzmieniu nadanym w § 1 pkt 1 lit. c niniejszego rozporządzenia.
+zakończonymi ostateczną decyzją wydaną na podstawie przepisów dotychczasowych, w przypadku gdy zostały wznowione po dniu 14 marca 2024 r. – stosuje się przepisy rozporządzenia zmienianego w § 1 (w brzmieniu z dnia 9 września 2023 r., Dz. U, poz. 791 i 1830), z wyłączeniem § 6 ust. 9, który stosuje się w brzmieniu nadanym w § 1 pkt 1 lit. c niniejszego rozporządzenia.
 2.
 Do przyznawania płatności ekologicznych, o których mowa w art. 41 pkt 2 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027, w sprawach objętych postępowaniami wszczętymi po dniu 14 marca 2024 r. i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
@@ -136,9 +120,7 @@ pkt 9 z uprawą roślin wymienionych w:
 a)
 części I tabeli załącznika nr 4 do rozporządzenia: trawy w siewie czystym z przeznaczeniem na materiał siewny jako uprawa roczna lub trawy w siewie czystym z przeznaczeniem na materiał siewny jako uprawa wieloletnia,
 b)
-części VII tabeli załącznika nr 4 do rozporządzenia: łąka przemienna, mieszanka jednoroczna traw, mieszanka jednoroczna traw z bobowatymi drobnonasiennymi, mieszanka wieloletnia traw, mieszanka wieloletnia traw z bobowatymi drobnonasiennymi lub pastwisko przemienne
-a w decyzji w sprawie o przyznanie płatności ekologicznych za ten rok ustalono dla tego rolnika karę w wysokości, o której mowa w § 30 rozporządzenia zmienianego w § 1, kierownik biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa zmienia z urzędu decyzję w sprawie o przyznanie płatności ekologicznych za 2023 r. – w części dotyczącej ustalonej kary z zastosowaniem § 6 ust. 8 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem oraz § 6 ust. 8a i 8b rozporządzenia zmienianego w § 1.
+części VII tabeli załącznika nr 4 do rozporządzenia: łąka przemienna, mieszanka jednoroczna traw, mieszanka jednoroczna traw z bobowatymi drobnonasiennymi, mieszanka wieloletnia traw, mieszanka wieloletnia traw z bobowatymi drobnonasiennymi lub pastwisko przemienne – a w decyzji w sprawie o przyznanie płatności ekologicznych za ten rok ustalono dla tego rolnika karę w wysokości, o której mowa w § 30 rozporządzenia zmienianego w § 1, kierownik biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa zmienia z urzędu decyzję w sprawie o przyznanie płatności ekologicznych za 2023 r. – w części dotyczącej ustalonej kary z zastosowaniem § 6 ust. 8 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem oraz § 6 ust. 8a i 8b rozporządzenia zmienianego w § 1.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 1 lit. d, który wchodzi w życie z dniem 15 marca 2025 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 29.10.2018, str. 37, Dz. Urz. UE L 305 z 26.11.2019, str. 59, Dz. Urz. UE L 87 z 23.03.2020, str. 1, Dz. Urz. UE L 381 z 13.11.2020, str. 1, Dz. Urz. UE L 402 z 01.12.2020, str. 23, Dz. Urz. UE L 439 z 29.12.2020, str. 32, Dz. Urz. UE L 7 z 11.01.2021, str. 53, Dz. Urz. UE L 60 z 22.02.2021, str. 24, Dz. Urz. UE L 133 z 20.04.2021, str. 1, Dz. Urz. UE L 151 z 03.05.2021, str. 1 i 5, Dz. Urz. UE L 204 z 10.06.2021, str. 47, Dz. Urz. UE L 222 z 22.06.2021, str. 3, Dz. Urz. UE L 318 z 09.09.2021, str. 5, Dz. Urz. UE L 334 z 22.09.2021, str. 1, Dz. Urz. UE L 336 z 23.09.2021, str. 3, Dz. Urz. UE L 98 z 25.03.2022, str. 1, Dz. Urz. UE L 187 z 14.07.2022, str. 60, Dz. Urz. UE L 321 z 15.12.2022, str. 74, Dz. Urz. UE L 29 z 01.02.2023, str. 6, Dz. Urz. UE L 171 z 06.07.2023, str. 43, Dz. Urz. UE L 204 z 17.08.2023, str. 66 oraz Dz. Urz. UE L 214 z 31.08.2023, str. 232, 233 i 234.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 1 lit. d, który wchodzi w życie z dniem 15 marca 2025 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 29.10.2018, str. 37, Dz. Urz. UE L 305 z 26.11.2019, str. 59, Dz. Urz. UE L 87 z 23.03.2020, str. 1, Dz. Urz. UE L 381 z 13.11.2020, str. 1, Dz. Urz. UE L 402 z 01.12.2020, str. 23, Dz. Urz. UE L 439 z 29.12.2020, str. 32, Dz. Urz. UE L 7 z 11.01.2021, str. 53, Dz. Urz. UE L 60 z 22.02.2021, str. 24, Dz. Urz. UE L 133 z 20.04.2021, str. 1, Dz. Urz. UE L 151 z 03.05.2021, str. 1 i 5, Dz. Urz. UE L 204 z 10.06.2021, str. 47, Dz. Urz. UE L 222 z 22.06.2021, str. 3, Dz. Urz. UE L 318 z 09.09.2021, str. 5, Dz. Urz. UE L 334 z 22.09.2021, str. 1, Dz. Urz. UE L 336 z 23.09.2021, str. 3, Dz. Urz. UE L 98 z 25.03.2022, str. 1, Dz. Urz. UE L 187 z 14.07.2022, str. 60, Dz. Urz. UE L 321 z 15.12.2022, str. 74, Dz. Urz. UE L 29 z 01.02.2023, str. 6, Dz. Urz. UE L 171 z 06.07.2023, str. 43, Dz. Urz. UE L 204 z 17.08.2023, str. 66 oraz Dz. Urz. UE L 214 z 31.08.2023, str. 232, 233 i 234.
 

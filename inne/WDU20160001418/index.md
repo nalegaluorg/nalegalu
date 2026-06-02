@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 6 września 2016 r. w sprawie metody zapobiegania odrze
+# Rozporządzenie Ministra Zdrowiaz dnia 6 września 2016 r. w sprawie metody zapobiegania odrze Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-06 |
 | Data wydania | 2016-09-07 |
-| Wejście w życie | 2016-09-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001418) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1418/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 3 ust. 4 pkt 2 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2013 r. poz. 947, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 3 ust. 4 pkt 2 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2013 r. poz. 947, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 619 i 1138, z 2015 r. poz. 1365, 1916 i 1991 oraz z 2016 r. poz. 542, 823 i 960.) zarządza się, co następuje:
 § 1.
 1.
 Wprowadza się metodę zapobiegania odrze polegającą na wykonywaniu szczepień ochronnych przeciw tej chorobie zakaźnej, zwanych dalej „szczepieniami”.
@@ -51,6 +50,5 @@ Szczepienia są wykonywane w gabinetach diagnostyczno-zabiegowych, a także – 
 § 4.
 Przy wykonywaniu szczepień stosuje się przepisy dotyczące nabywania szczepionek, ich przechowywania i dystrybucji, wykonywania i dokumentowania obowiązkowych szczepień ochronnych oraz zgłaszania i leczenia niepożądanych odczynów poszczepiennych.
 § 5.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 619 i 1138, z 2015 r. poz. 1365, 1916 i 1991 oraz z 2016 r. poz. 542, 823 i 960.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 619 i 1138, z 2015 r. poz. 1365, 1916 i 1991 oraz z 2016 r. poz. 542, 823 i 960.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 czerwca 2018 r. o zmianie ustawy – Kodeks wyborczy oraz niektórych innych ustaw
+# Ustawa z dnia 15 czerwca 2018 r. o zmianie ustawy – Kodeks wyborczy oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym, ustawę z dnia 15 września 2000 r. o referendum lokalnym, ustawę z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów oraz ustawę z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-15 |
 | Data wydania | 2018-07-12 |
-| Wejście w życie | 2018-07-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001349) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1349/text.pdf) |
 
@@ -77,9 +76,14 @@ source: "eli-html"
 - **1)** w art. 5: w pkt 5 w lit. d, § 14 otrzymuje brzmienie: „
     - **a)**
 
-§ 14. Na postanowienie Państwowej Komisji Wyborczej dotyczące skarg na postanowienie komisarza wyborczego, o którym mowa w § 2, wyborcom w liczbie co najmniej 15 przysługuje prawo wniesienia skargi do Naczelnego Sądu Administracyjnego, w terminie 3 dni od daty podania tego postanowienia do publicznej wiadomości. Naczelny Sąd Administracyjny rozpoznaje sprawę na posiedzeniu niejawnym w składzie trzech sędziów nie później niż w ciągu 5 dni od dnia jej wniesienia. Od orzeczenia Naczelnego Sądu Administracyjnego nie przysługuje środek prawny. Przepis art. 420 § 3 stosuje się. ” , w pkt 110, w art. 420: – § 2 otrzymuje brzmienie: „ § 2. Na postanowienie Państwowej Komisji Wyborczej przysługuje prawo wniesienia skargi do Naczelnego Sądu Administracyjnego, w terminie 3 dni od daty podania tego postanowienia do publicznej wiadomości. Naczelny Sąd Administracyjny rozpoznaje sprawę na posiedzeniu niejawnym w składzie trzech sędziów nie później niż w ciągu 5 dni od dnia jej wniesienia. Od orzeczenia Naczelnego Sądu Administracyjnego nie przysługuje środek prawny. ” , – dodaje się § 3 w brzmieniu „ § 3. W zakresie nieuregulowanym w kodeksie do postępowania przed Naczelnym Sądem Administracyjnym stosuje się odpowiednio przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2018 r. poz. 1302) dotyczące spraw ze skarg, o których mowa w art. 3 § 2 pkt 1 tej ustawy, z wyłączeniem art. 52–55, art. 61 § 2–6, art. 90, art. 91 § 2, art. 93, art. 96–122, art. 145 § 1 pkt 1 lit. b, pkt 2 i 3 oraz art. 243–262, z tym, że termin, o którym mowa w art. 193 tej ustawy wynosi 5 dni. ” , w pkt 130, w art. 456 § 2 otrzymuje brzmienie: „
+§ 14. Na postanowienie Państwowej Komisji Wyborczej dotyczące skarg na postanowienie komisarza wyborczego, o którym mowa w § 2, wyborcom w liczbie co najmniej 15 przysługuje prawo wniesienia skargi do Naczelnego Sądu Administracyjnego, w terminie 3 dni od daty podania tego postanowienia do publicznej wiadomości. Naczelny Sąd Administracyjny rozpoznaje sprawę na posiedzeniu niejawnym w składzie trzech sędziów nie później niż w ciągu 5 dni od dnia jej wniesienia. Od orzeczenia Naczelnego Sądu Administracyjnego nie przysługuje środek prawny. Przepis art. 420 § 3 stosuje się. ” , w pkt 110, w art. 420: § 2 otrzymuje brzmienie: „
 
 - **b)**
+
+§ 2. Na postanowienie Państwowej Komisji Wyborczej przysługuje prawo wniesienia skargi do Naczelnego Sądu Administracyjnego, w terminie 3 dni od daty podania tego postanowienia do publicznej wiadomości. Naczelny Sąd Administracyjny rozpoznaje sprawę na posiedzeniu niejawnym w składzie trzech sędziów nie później niż w ciągu 5 dni od dnia jej wniesienia. Od orzeczenia Naczelnego Sądu Administracyjnego nie przysługuje środek prawny. ” , dodaje się § 3 w brzmieniu „
+
+§ 3. W zakresie nieuregulowanym w kodeksie do postępowania przed Naczelnym Sądem Administracyjnym stosuje się odpowiednio przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2018 r. poz. 1302) dotyczące spraw ze skarg, o których mowa w art. 3 § 2 pkt 1 tej ustawy, z wyłączeniem art. 52–55, art. 61 § 2–6, art. 90, art. 91 § 2, art. 93, art. 96–122, art. 145 § 1 pkt 1 lit. b, pkt 2 i 3 oraz art. 243–262, z tym, że termin, o którym mowa w art. 193 tej ustawy wynosi 5 dni. ” , w pkt 130, w art. 456 § 2 otrzymuje brzmienie: „
+
 - **c)**
 
 § 2. Na postanowienie Państwowej Komisji Wyborczej przysługuje prawo wniesienia skargi do Naczelnego Sądu Administracyjnego, w terminie 3 dni od daty podania tego postanowienia do publicznej wiadomości. Naczelny Sąd Administracyjny rozpoznaje sprawę na posiedzeniu niejawnym w składzie trzech sędziów nie później niż w ciągu 5 dni od dnia jej wniesienia. Od orzeczenia Naczelnego Sądu Administracyjnego nie przysługuje środek prawny. Przepis art. 420 § 3 stosuje się. ” ;
@@ -105,5 +109,5 @@ source: "eli-html"
 
 **Art. 9.** Przepis art. 7 ust. 3 niniejszej ustawy oraz art. 12 ust. 3b ustawy, o której mowa w art. 6, w brzmieniu nadanym niniejszą ustawą, ma zastosowanie do skarg na postanowienia Państwowej Komisji Wyborczej podane do publicznej wiadomości po dniu wejścia w życie niniejszej ustawy.
 
-**Art. 10.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 6 pkt 1, który wchodzi w życie z dniem 1 stycznia 2019 r.
+**Art. 10.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 6 pkt 1, który wchodzi w życie z dniem 1 stycznia 2019 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym, ustawę z dnia 15 września 2000 r. o referendum lokalnym, ustawę z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów oraz ustawę z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych.
 

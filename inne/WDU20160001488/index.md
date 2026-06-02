@@ -22,7 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-09 |
 | Data wydania | 2016-09-16 |
-| Ostatnia zmiana | 2025-06-27 |
+| Ostatnia zmiana | 2026-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001488) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1488/text.pdf) |
 
 Treść obwieszczenia
@@ -37,27 +37,23 @@ rozporządzeniem Ministra Zdrowia z dnia 24 lipca 2015 r. zmieniającym rozporz�
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Zdrowia z dnia 3 listopada 2008 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych (Dz. U. poz. 1275), który stanowi:
-„
+§ 2 rozporządzenia Ministra Zdrowia z dnia 3 listopada 2008 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych (Dz. U. poz. 1275), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-odnośnika nr 2 oraz § 2 rozporządzenia Ministra Zdrowia z dnia 24 lipca 2015 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych (Dz. U. poz. 1097), które stanowią: „ 2) Przepisy niniejszego rozporządzenia w zakresie swojej regulacji wdrażają przepisy dyrektywy Parlamentu Europejskiego i Rady 2014/27/UE z dnia 26 lutego 2014 r. zmieniającej dyrektywy Rady 92/58/EWG, 92/85/EWG, 94/33/WE, 98/24/WE oraz dyrektywę 2004/37/WE Parlamentu Europejskiego i Rady w celu dostosowania ich do rozporządzenia (WE) nr 1272/2008 w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin (Dz. Urz. UE L 65 z 05.03.2014, str. 1). ”
-„
+odnośnika nr 2 oraz § 2 rozporządzenia Ministra Zdrowia z dnia 24 lipca 2015 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych (Dz. U. poz. 1097), które stanowią: „ 2) Przepisy niniejszego rozporządzenia w zakresie swojej regulacji wdrażają przepisy dyrektywy Parlamentu Europejskiego i Rady 2014/27/UE z dnia 26 lutego 2014 r. zmieniającej dyrektywy Rady 92/58/EWG, 92/85/EWG, 94/33/WE, 98/24/WE oraz dyrektywę 2004/37/WE Parlamentu Europejskiego i Rady w celu dostosowania ich do rozporządzenia (WE) nr 1272/2008 w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin (Dz. Urz. UE L 65 z 05.03.2014, str. 1). ” „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 30 grudnia 2004 r. w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych
-Na podstawie art. 23715 §2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 30 grudnia 2004 r. w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznychMinister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
+Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Rady 98/24/WE z dnia 7 kwietnia 1998 r. w sprawie ochrony zdrowia i bezpieczeństwa pracowników przed ryzykiem związanym ze środkami chemicznymi w miejscu pracy (czternasta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/931/EWG) (Dz. Urz. WE L 131 z 05.05.1998 – Dz. Urz. UE Polskie Wydanie Specjalne, rozdz. 05, t. 03, str. 279). Na podstawie art. 23715 §2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662, z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735 oraz z 2016 r. poz. 868, 910, 960 i 1053.) zarządza się, co następuje:
 § 1.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
 czynnik chemiczny – każdy pierwiastek lub związek chemiczny, w postaci własnej lub w mieszaninie, w stanie, w jakim występuje w przyrodzie, lub w stanie, w jakim jest wytwarzany, stosowany lub uwalniany w środowisku pracy, w tym podczas usuwania go w postaci odpadów, w trakcie każdej pracy, niezależnie od faktu, czy jest albo nie jest wytwarzany celowo lub jest albo nie jest wprowadzany do obrotu;
-2)
+2W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 24 lipca 2015 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych (Dz. U. poz. 1097), które weszło w życie z dniem 12 sierpnia 2015 r.)
 czynnik chemiczny stwarzający zagrożenie:
 a)
-czynnik chemiczny, który spełnia kryteria klasyfikacji zawarte w którejkolwiek z klas zagrożeń fizycznych lub zagrożeń dla zdrowia człowieka określonych w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającym i uchylającym dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającym rozporządzenie (WE) nr 1907/2006 (Dz. Urz. UE L 353 z 31.12.2008, str. 1, z późn. zm.), bez względu na to, czy został zaklasyfikowany,
+czynnik chemiczny, który spełnia kryteria klasyfikacji zawarte w którejkolwiek z klas zagrożeń fizycznych lub zagrożeń dla zdrowia człowieka określonych w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającym i uchylającym dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającym rozporządzenie (WE) nr 1907/2006 (Dz. Urz. UE L 353 z 31.12.2008, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 235 z 05.09.2009, str. 1, Dz. Urz. UE L 16 z 20.01.2011, str. 1, Dz. Urz. UE L 83 z 30.03.2011, str. 1, Dz. Urz. UE L 179 z 11.07.2012, str. 3, Dz. Urz. UE L 149 z 01.06.2013, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 216 z 10.08.2013, str. 1, Dz. Urz. UE L 261 z 03.10.2013, str. 5, Dz. Urz. UE L 167 z 06.06.2014, str. 36, Dz. Urz. UE L 350 z 06.12.2014, str. 1, Dz. Urz. UE L 197 z 25.07.2015, str. 10, Dz. Urz. UE L 156 z 14.06.2016, str. 1 oraz Dz. Urz. UE L 195 z 20.07.2016, str. 11.), bez względu na to, czy został zaklasyfikowany,
 b)
 czynnik chemiczny, który nie spełnia kryteriów klasyfikacji, o których mowa w lit. a, który z uwagi na swoje właściwości fizykochemiczne lub oddziaływanie na człowieka oraz sposób, w jaki jest stosowany lub obecny w miejscu pracy, może stwarzać ryzyko dla bezpieczeństwa lub zdrowia pracowników; przez pojęcie to należy rozumieć także każdy czynnik chemiczny oraz pył, dla którego ustalono wartości najwyższych dopuszczalnych stężeń, o których mowa w przepisach wydanych na podstawie art. 228 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 3)
@@ -68,7 +64,7 @@ zagrożenie czynnikiem chemicznym – swoistą właściwość czynnika chemiczne
 ryzyko zawodowe stwarzane przez czynnik chemiczny – prawdopodobieństwo (możliwość) wystąpienia potencjalnej szkody zdrowotnej w warunkach stosowania czynnika chemicznego lub narażenia na czynnik chemiczny w miejscu pracy;
 6)
 praca z udziałem czynnika chemicznego – każdą pracę, w której stosuje się lub zamierza się stosować czynnik chemiczny, w jakimkolwiek procesie, łącznie z jego wytwarzaniem, wszelkimi manipulacjami, przechowywaniem, transportem oraz usuwaniem w postaci odpadów i procesami przeróbki odpadów, a także wszelką działalność, która wynika z takiej pracy;
-7)
+7Dodany przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 3 listopada 2008 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych (Dz. U. poz. 1275), które weszło w życie z dniem 2 grudnia 2008 r.)
 narażenie zawodowe na czynnik chemiczny – proces oddziaływania na organizm pracownika czynnika chemicznego występującego na jego stanowisku pracy.
 § 2.
 Pracodawca jest obowiązany do ustalenia, czy w środowisku pracy występuje czynnik chemiczny stwarzający zagrożenie oraz do dokonania i udokumentowania oceny ryzyka zawodowego stwarzanego przez czynnik chemiczny.
@@ -114,7 +110,7 @@ zmiana w składzie czynnika chemicznego;
 zmiana w procesie technologicznym;
 3)
 postęp wiedzy medycznej dotyczącej oddziaływania tego czynnika na zdrowie ludzi.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6..
 Ponowna ocena ryzyka, o której mowa w ust. 1, powinna być także przeprowadzona na wniosek lekarza sprawującego profilaktyczną opiekę zdrowotną nad pracownikami, w przypadkach uzasadnionych oceną stanu zdrowia pracowników, a w szczególności w razie wystąpienia przekroczenia poziomu dopuszczalnej wartości biologicznej ołowiu we krwi pracownika.
 § 5.
 W przypadku rozpoczęcia przez pracodawcę nowej działalności z zastosowaniem czynnika chemicznego, prace można rozpocząć po ustaleniu, czy w środowisku pracy będzie występował czynnik lub czynniki chemiczne stwarzające zagrożenie, dokonaniu oceny ryzyka zawodowego wynikającego z obecności tego czynnika i podjęciu niezbędnych działań zapobiegawczych.
@@ -182,11 +178,10 @@ Pracownikom wykonującym prace w obszarze, w którym zaistniało zdarzenie, o kt
 4.
 W obszarze, o którym mowa w ust. 1, zabronione jest przebywanie osobom bez odpowiednich do zagrożenia środków ochrony indywidualnej oraz innego niezbędnego sprzętu.
 § 13.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 6..
 W przypadku narażenia w środowisku pracy na ołów i jego związki nieorganiczne, w ramach kontroli stanu zdrowia, obowiązkowy jest monitoring biologiczny obejmujący pomiar stężenia ołowiu we krwi (PbB), przeprowadzany zgodnie z przepisami wydanymi na podstawie art. 229 § 8 Kodeksu pracy, z zastosowaniem absorpcyjnej spektrometrii atomowej lub metody dającej równoważne wyniki.
 2.
 Dopuszczalne stężenie ołowiu w materiale biologicznym dla ołowiu wynosi 50 µg Pb/100 ml krwi.
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Rady 98/24/WE z dnia 7 kwietnia 1998 r. w sprawie ochrony zdrowia i bezpieczeństwa pracowników przed ryzykiem związanym ze środkami chemicznymi w miejscu pracy (czternasta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/931/EWG) (Dz. Urz. WE L 131 z 05.05.1998 – Dz. Urz. UE Polskie Wydanie Specjalne, rozdz. 05, t. 03, str. 279). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662, z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735 oraz z 2016 r. poz. 868, 910, 960 i 1053. 4) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 24 lipca 2015 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych (Dz. U. poz. 1097), które weszło w życie z dniem 12 sierpnia 2015 r. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 235 z 05.09.2009, str. 1, Dz. Urz. UE L 16 z 20.01.2011, str. 1, Dz. Urz. UE L 83 z 30.03.2011, str. 1, Dz. Urz. UE L 179 z 11.07.2012, str. 3, Dz. Urz. UE L 149 z 01.06.2013, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 216 z 10.08.2013, str. 1, Dz. Urz. UE L 261 z 03.10.2013, str. 5, Dz. Urz. UE L 167 z 06.06.2014, str. 36, Dz. Urz. UE L 350 z 06.12.2014, str. 1, Dz. Urz. UE L 197 z 25.07.2015, str. 10, Dz. Urz. UE L 156 z 14.06.2016, str. 1 oraz Dz. Urz. UE L 195 z 20.07.2016, str. 11. 6) Dodany przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 3 listopada 2008 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych (Dz. U. poz. 1275), które weszło w życie z dniem 2 grudnia 2008 r. 7) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6. 8) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 6. 9) Rozporządzenie zostało ogłoszone w dniu 18 stycznia 2005 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 18 stycznia 2005 r.. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Rady 98/24/WE z dnia 7 kwietnia 1998 r. w sprawie ochrony zdrowia i bezpieczeństwa pracowników przed ryzykiem związanym ze środkami chemicznymi w miejscu pracy (czternasta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/931/EWG) (Dz. Urz. WE L 131 z 05.05.1998 – Dz. Urz. UE Polskie Wydanie Specjalne, rozdz. 05, t. 03, str. 279). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662, z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735 oraz z 2016 r. poz. 868, 910, 960 i 1053. 4) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 24 lipca 2015 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych (Dz. U. poz. 1097), które weszło w życie z dniem 12 sierpnia 2015 r. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 235 z 05.09.2009, str. 1, Dz. Urz. UE L 16 z 20.01.2011, str. 1, Dz. Urz. UE L 83 z 30.03.2011, str. 1, Dz. Urz. UE L 179 z 11.07.2012, str. 3, Dz. Urz. UE L 149 z 01.06.2013, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 216 z 10.08.2013, str. 1, Dz. Urz. UE L 261 z 03.10.2013, str. 5, Dz. Urz. UE L 167 z 06.06.2014, str. 36, Dz. Urz. UE L 350 z 06.12.2014, str. 1, Dz. Urz. UE L 197 z 25.07.2015, str. 10, Dz. Urz. UE L 156 z 14.06.2016, str. 1 oraz Dz. Urz. UE L 195 z 20.07.2016, str. 11. 6) Dodany przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 3 listopada 2008 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych (Dz. U. poz. 1275), które weszło w życie z dniem 2 grudnia 2008 r. 7) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6. 8) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 6. 9) Rozporządzenie zostało ogłoszone w dniu 18 stycznia 2005 r.
 

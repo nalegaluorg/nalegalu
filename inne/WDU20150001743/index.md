@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-20 |
 | Data wydania | 2015-10-29 |
-| Wejście w życie | 2015-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001743) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1743/text.pdf) |
 
@@ -285,14 +284,26 @@ symbolem „Bc” oznacza się dokumentację niearchiwalną wtórną, o ile zach
 
 ## Załącznik nr 2 — – Schemat klas pierwszego i drugiego rzędu podziału dla klas oznaczonych symbolami klasyfikacyjnymi od „0” do „3”
 
-Część A Schemat klas pierwszego i drugiego rzędu podziału dla klas oznaczonych symbolami klasyfikacyjnymi od „0” do „3”
+Część A
+Schemat klas pierwszego i drugiego rzędu podziału dla klas oznaczonych symbolami klasyfikacyjnymi od „0” do „3”
 0 ZARZĄDZANIE 00 Gremia kolegialne 01 Organizacja 02 Zbiory aktów normatywnych, legislacja i obsługa prawna 03 Strategie, programy, planowanie, sprawozdawczość i analizy 04 Informatyzacja 05 Skargi, wnioski, petycje, postulaty, inicjatywy i interpelacje 06 Reprezentacja i promocja 07 Współdziałanie własnej jednostki organizacyjnej z innymi organami lub jednostkami organizacyjnymi 08 Programy i projekty współfinansowane ze środków zewnętrznych, w tym Unii Europejskiej 09 Kontrole, audyt i szacowanie ryzyka 1 SPRAWY KADROWE 10 Regulacje i wyjaśnienia dotyczące zagadnień z zakresu spraw kadrowych 11 Nawiązywanie, przebieg i rozwiązywanie stosunku pracy oraz innych form zatrudnienia 12 Ewidencja osobowa 13 Bezpieczeństwo i higiena pracy 14 Szkolenie i doskonalenie zawodowe osób zatrudnionych 15 Dyscyplina pracy 16 Sprawy socjalno – bytowe 17 Ubezpieczenia osobowe i opieka zdrowotna 2 ADMINISTROWANIE ŚRODKAMI RZECZOWYMI 20 Regulacje i wyjaśnienia dotyczące zagadnień z zakresu spraw administracyjnych 21 Inwestycje i remonty 22 Administrowanie i eksploatacja obiektów 23 Gospodarka materiałowa 24 Transport, łączność i infrastruktura informatyczna i telekomunikacyjna 25 Ochrona obiektów i mienia oraz sprawy obronne 26 Zamówienia publiczne 3 FINANSE 30 Regulacje i wyjaśnienia dotyczące zagadnień z zakresu spraw finansowo-księgowych 31 Planowanie i realizacja budżetu 32 Rachunkowość, księgowość i obsługa kasowa 33 Obsługa finansowa funduszy 34 Opłaty i ustalanie cen 35 Inwentaryzacja 36 Dyscyplina finansowa
-Część B Wzór budowy wykazu akt
-Symbole klasyfikacyjne Hasło klasyfikacyjne Oznaczenie kategorii archiwalnej*) Uwagi I II III IV rząd rząd rząd rząd 1 2 3 4 5 6 7 0 00 ZARZĄDZANIEGremia kolegialne 000 **) A W tym: powołania, regulaminy, posiedzenia 001 **) A Jak przy klasie 000 01 Organizacja 010 Organizacja organów i jednostek nadrzędnych oraz współdziałających BE10 1 011 Organizacja jednostki własnej SPRAWY KADROWE A 10 Regulacje i wyjaśnienia, dotyczące zagadnień z zakresu spraw kadrowych, w tym kontakty i wymiana informacji ze związkami zawodowymi w sprawach kadrowych A M.in. regulamin pracy, wykazy etatów, umowy zbiorowe 11 Nawiązywanie, przebieg i rozwiązywanie stosunku pracy oraz innych form zatrudnienia 110 Zapotrzebowanie i nabór kandydatów do pracy B2 Przy czym okres przechowywania ofert kandydatów nieprzyjętych i tryb ich niszczenia wynika z odrębnych 111 Konkursy na stanowiska B5 przepisów Akta osób przyjętych odkłada się do akt osobowych; przy czym dokumentację posiedzeń komisji klasyfikuje się przy odpowiedniej klasie w ramach grupy rzeczowej 00 *) W przypadku organów państwowych, państwowych jednostek organizacyjnych, organów jednostek samorządu terytorialnego i samorządowych jednostek organizacyjnych, w których nie powstają materiały archiwalne, odpowiednikiem symbolu A jest symbol B25, a symbolu BE symbol B. **) Miejsca wykropkowane w polu hasła klasyfikacyjnego przy symbolach 000, 001 oznaczają, że jeżeli w danym podmiocie istnieją stałe gremia (organy), to dla dokumentacji (np. aktów powołania, regulaminów, dokumentacji z posiedzeń) każdego takiego gremium należy przewidzieć odrębną klasę rzeczową.
+Część B
+Wzór budowy wykazu akt
+Symbole klasyfikacyjne Hasło klasyfikacyjne Oznaczenie kategorii archiwalnej*) Uwagi I II III IV rząd rząd rząd rząd 1 2 3 4 5 6 7 0 00 ZARZĄDZANIE
+Gremia kolegialne 000 **) A W tym: powołania, regulaminy, posiedzenia 001 **) A Jak przy klasie 000 01 Organizacja 010 Organizacja organów i jednostek nadrzędnych oraz współdziałających BE10 1 011 Organizacja jednostki własnej SPRAWY KADROWE A 10 Regulacje i wyjaśnienia, dotyczące zagadnień z zakresu spraw kadrowych, w tym kontakty i wymiana informacji ze związkami zawodowymi w sprawach kadrowych A M.in. regulamin pracy, wykazy etatów, umowy zbiorowe 11 Nawiązywanie, przebieg i rozwiązywanie stosunku pracy oraz innych form zatrudnienia 110 Zapotrzebowanie i nabór kandydatów do pracy B2 Przy czym okres przechowywania ofert kandydatów nieprzyjętych i tryb ich niszczenia wynika z odrębnych 111 Konkursy na stanowiska B5 przepisów Akta osób przyjętych odkłada się do akt osobowych; przy czym dokumentację posiedzeń komisji klasyfikuje się przy odpowiedniej klasie w ramach grupy rzeczowej 00
+*) W przypadku organów państwowych, państwowych jednostek organizacyjnych, organów jednostek samorządu terytorialnego i samorządowych jednostek organizacyjnych, w których nie powstają materiały archiwalne, odpowiednikiem symbolu A jest symbol B25, a symbolu BE symbol B. **) Miejsca wykropkowane w polu hasła klasyfikacyjnego przy symbolach 000, 001 oznaczają, że jeżeli w danym podmiocie istnieją stałe gremia (organy), to dla dokumentacji (np. aktów powołania, regulaminów, dokumentacji z posiedzeń) każdego takiego gremium należy przewidzieć odrębną klasę rzeczową.
 
 ## Załącznik nr 3 — – Wzór budowy kwalifikatora dokumentacji
 
-Numer porządkowy*) Typ dokumentacji Oznaczenie kategorii archiwalnej**) Uszczegółowienie kwalifikacji archiwalnej 400 Konstruowanie sprzętu mechanicznego 400.1 Dokumentacja konstrukcyjna modelu BE10 okres przechowywania liczy się od daty zatwierdzenia dokumentacji 400.2 Dokumentacja konstrukcyjna prototypu A – egzemplarz archiwalny – A- kalki i matryce – kategoria B10- kopie – kategoria Bc 400.3 Dokumentacja konstrukcyjna partii próbnej A – egzemplarz archiwalny -A- kalki i matryce – kategoria B10- kopie – kategoria Bc 400.4 Dokumentacja konstrukcyjna produkcji seryjnej A – egzemplarz archiwalny -A- kalki i matryce – kategoria B10- kopie – kategoria Bc 400.5 Dokumentacja oprzyrządowani a konstrukcyjnego BE10 okres przechowywania liczy się od daty zatwierdzenia dokumentacji 400.6 Zmiany w dokumentacji konstrukcyjnej A – książka partii próbnej, wnioski zmian, karty zmian – A- książka prototypu – BE10 401 Dokumentacja technologiczna sprzętu mechanicznego 401.1 Dokumentacja technologiczna produkcji seryjnej A – karta procesu technologicznego, proces technologiczny – spis operacji, proces technologiczny -instrukcja pracy – A pozostałe-B10 401.2 Dokumentacja oprzyrządowani a technologicznego BE10 *) Numer porządkowy konstruuje się z symbolu klasyfikacyjnego klasy w wykazie akt, do której odnosi się kwalifikator i z kolejnej liczby, począwszy od liczby 1. **) W przypadku organów państwowych, państwowych jednostek organizacyjnych, organów jednostek samorządu terytorialnego i samorządowych jednostek organizacyjnych, w których nie powstają materiały archiwalne, odpowiednikiem symbolu A jest symbol B25, a symbolu BE symbol B.
+Numer porządkowy*) Typ dokumentacji Oznaczenie kategorii archiwalnej**) Uszczegółowienie kwalifikacji archiwalnej 400 Konstruowanie sprzętu mechanicznego 400.1 Dokumentacja konstrukcyjna modelu BE10 okres przechowywania liczy się od daty zatwierdzenia dokumentacji 400.2 Dokumentacja konstrukcyjna prototypu A – egzemplarz archiwalny – A
+kalki i matryce – kategoria B10
+kopie – kategoria Bc 400.3 Dokumentacja konstrukcyjna partii próbnej A – egzemplarz archiwalny -A
+kalki i matryce – kategoria B10
+kopie – kategoria Bc 400.4 Dokumentacja konstrukcyjna produkcji seryjnej A – egzemplarz archiwalny -A
+kalki i matryce – kategoria B10
+kopie – kategoria Bc 400.5 Dokumentacja oprzyrządowani a konstrukcyjnego BE10 okres przechowywania liczy się od daty zatwierdzenia dokumentacji 400.6 Zmiany w dokumentacji konstrukcyjnej A – książka partii próbnej, wnioski zmian, karty zmian – A
+książka prototypu – BE10 401 Dokumentacja technologiczna sprzętu mechanicznego 401.1 Dokumentacja technologiczna produkcji seryjnej A – karta procesu technologicznego, proces technologiczny – spis operacji, proces technologiczny -instrukcja pracy – A pozostałe-B10 401.2 Dokumentacja oprzyrządowani a technologicznego BE10
+*) Numer porządkowy konstruuje się z symbolu klasyfikacyjnego klasy w wykazie akt, do której odnosi się kwalifikator i z kolejnej liczby, począwszy od liczby 1. **) W przypadku organów państwowych, państwowych jednostek organizacyjnych, organów jednostek samorządu terytorialnego i samorządowych jednostek organizacyjnych, w których nie powstają materiały archiwalne, odpowiednikiem symbolu A jest symbol B25, a symbolu BE symbol B.
 
 ## Załącznik nr 4 — – Standardy porządkowania, ewidencjonowania i technicznego zabezpieczania materiałów archiwalnych przed ich przekazaniem do archiwów państwowych
 
@@ -371,5 +382,206 @@ opakowania, o których mowa w pkt 4.5., powinny być wykonane z materiału liteg
 
 ## Załącznik nr 5 — – Właściwość archiwów państwowych niemających charakteru centralnego w sprawach przejmowania materiałów archiwalnych oraz brakowania dokumentacji niearchiwalnej
 
-Lp. Nazwa archiwum państwowego Obszar 1. Archiwum Państwowe w Białymstoku 1) na terenie województwa podlaskiego powiaty: białostocki, bielski, grajewski, hajnowski, kolneński, łomżyński, moniecki, siemiatycki, sokolski, wysokomazowiecki i zambrowski 2) na terenie województwa mazowieckiego gminy: Andrzejewo, Nur, Szulborze Wielkie, Zaręby Kościelne i Boguty – Pianki w powiecie ostrowskim 2. Archiwum Państwowe w Bydgoszczy 1) na terenie województwa kujawsko-pomorskiego:- miasto na prawach powiatu Bydgoszcz- powiaty: bydgoski, inowrocławski, mogileński, nakielski, sępoleński, świecki, tucholski i żniński 2) na terenie województwa pomorskiego:- miasto Chojnice- gminy: Brusy, Chojnice i Czersk w powiecie chojnickim 3) na terenie województwa wielkopolskiego gmina Trzemeszno w powiecie gnieźnieńskim 3. Archiwum Państwowe w Częstochowie 1) na terenie województwa śląskiego:- miasto na prawach powiatu Częstochowa- powiaty: częstochowski, kłobucki, lubliniecki i myszkowski- miasto Kalety w powiecie tarnogórskim- gminy: Irządze, Kroczyce, Szczekociny i Włodowice w powiecie zawierciańskim 2) na terenie województwa łódzkiego:- gminy: Nowa Brzeźnica, Pajęczno i Strzelce Wielkie w powiecie pajęczańskim- gminy: Gidle i Żytno w powiecie radomszczańskim 3) na terenie województwa opolskiego gminy: Dobrodzień, Gorzów Śląski, Olesno, Praszka, Radłów i Rudniki w powiecie oleskim 4) na terenie województwa świętokrzyskiego gminy: Moskorzew, Radków i Secemin w powiecie włoszczowskim 4. Archiwum Państwowe w Elblągu z siedzibą w Malborku 1) na terenie województwa pomorskiego powiaty: kwidzyński, malborski, nowodworski i sztumski 2) na terenie województwa warmińsko-mazurskiego:- miasto na prawach powiatu Elbląg- powiaty: braniewski i elbląski- gminy Kisielice i Susz w powiecie iławskim- gmina Orneta w powiecie lidzbarskim 5. Archiwum Państwowe w Gdańsku na terenie województwa pomorskiego:- miasta na prawach powiatu: Gdańsk, Gdynia i Sopot- powiaty: gdański, kartuski, kościerski, pucki, starogardzki, tczewski i wejherowski 6. Archiwum Państwowe w Gorzowie Wielkopolskim 1) na terenie woj ewództwa lubuskiego:- miasto na prawach powiatu Gorzów Wielkopolski- powiaty: gorzowski, międzyrzecki i strzelecko-drezdenecki- gminy: Górzyca, Ośno Lubuskie, Rzepin i Słubice w powiecie słubickim- gminy: Lubniewice, Krzeszyce, Słońsk i Sulęcin w powiecie sulęcińskim 2) na terenie województwa wielkopolskiego:- gmina Międzychód w powiecie międzychodzkim- gmina Miedzichowo w powiecie nowotomyskim 7. Archiwum Państwowe w Kaliszu 1) na terenie województwa wielkopolskiego:- miasto na prawach powiatu Kalisz- miasto Sulmierzyce- powiaty: jarociński, kaliski, kępiński, ostrowski, ostrzeszowski i pleszewski- gminy Koźmin Wielkopolski, Krotoszyn, Rozdrażew i Zduny w powiecie krotoszyńskim 2) na terenie województwa dolnośląskiego:- gminy Dziadowa Kłoda, Międzybórz i Syców w powiecie oleśnickim, 3) na terenie województwa łódzkiego gminy:Bolesławiec, Czastary, Galewice, Łubnice, Sokolniki i Wieruszów w powiecie wieruszowskim 8. Archiwum Państwowe w Katowicach 1) na terenie województwa śląskiego:- miasta na prawach powiatu: Bielsko-Biała, Bytom, Chorzów, Dąbrowa Górnicza, Gliwice, Jastrzębie Zdrój, Jaworzno, Katowice, Mysłowice, Piekary Śląskie, Ruda Śląska, Rybnik, Siemianowice Śląskie, Sosnowiec, Świętochłowice, Tychy, Zabrze i Żory- miasta: Miasteczko Śląskie, Radzionków i Tarnowskie Góry oraz gminy: Krupski Młyn, Ożarowice, Świerklaniec, Tworóg i Zbrosławice w powiecie tarnogórskim- miasta: Poręba i Zawiercie w powiecie zawierciańskim- powiaty: będziński, bielski, bieruńsko-lędziński, cieszyński, gliwicki, mikołowski, pszczyński, raciborski, rybnicki, wodzisławski i żywiecki- gminy: Łazy, Ogrodzieniec, Pilica i Żarnowiec w powiecie zawierciańskim 2) na terenie województwa małopolskiego:- miasto: Bukowno w powiecie olkuskim- miasto: Sucha Beskidzka w powiecie suskim- powiaty: oświęcimski i wadowicki- gminy: Babice, Chrzanów, Libiąż i Trzebinia w powiecie chrzanowskim- gminy: Bolesław, Klucze, Olkusz i Wolbrom w powiecie olkuskim- gminy: Budzów, Maków Podhalański, Stryszawa, Zawoja i Zembrzyce w powiecie suskim 9. Archiwum Państwowe w Kielcach 1) na terenie województwa świętokrzyskiego:- miasto na prawach powiatu Kielce- powiaty: buski, jędrzejowski, kazimierski, kielecki, opatowski, ostrowiecki, pińczowski, sandomierski, skarżyski, starachowicki i staszowski- gminy: Końskie, Radoszyce, Ruda Maleniecka, Słupia (Konecka), Smyków i Stąporków w powiecie koneckim- gminy: Krasocin i Włoszczowa w powiecie włoszczowskim 2) na terenie województwa lubelskiego:- powiat janowski- gminy: Annopol, Gościeradów, Szastarka i Trzydnik Duży w powiecie kraśnickim 3) na terenie województwa małopolskiego:- gminy: Charsznica, Kozłów, Książ Wielki, Miechów, Racławice i Słaboszów w powiecie miechowskim- gminy: Koszyce i Pałecznica w powiecie proszowickim 4) na terenie województwa podkarpackiego:- miasto na prawach powiatu Tarnobrzeg- powiaty: niżański, stalowowolski i tarnobrzeski- gmina Majdan Królewski w powiecie kolbuszowskim- gmina Padew Narodowa w powiecie mieleckim 10. Archiwum Państwowe w Koszalinie 1) na terenie województwa zachodniopomorskiego:- miasto na prawach powiatu Koszalin- powiaty: białogardzki, drawski, kołobrzeski, koszaliński, sławieński, szczecinecki i świdwiński 2) na terenie województwa pomorskiego:- miasto na prawach powiatu Słupsk- powiaty: bytowski, człuchowski, lęborski i słupski- gmina Konarzyny w powiecie chojnickim 11. Archiwum Narodowe w Krakowie 1) na terenie województwa małopolskiego:- miasta na prawach powiatu: Kraków, Nowy Sącz i Tarnów- miasto Gorlice w powiecie gorlickim- miasto Jordanów w powiecie suskim- powiaty: bocheński, brzeski, dąbrowski, krakowski, limanowski, myślenicki, nowosądecki, nowotarski, tarnowski, tatrzański i wielicki- gmina Alwernia w powiecie chrzanowskim- gmina Gołcza w powiecie miechowskim- gmina Trzyciąż w powiecie olkuskim- gminy: Koniusza, Nowe Brzesko, Proszowice i Radziemice w powiecie proszowickim- gminy: Bystra-Sidzina i Jordanów w powiecie suskim- gminy: Bobowa, Gorlice, Łużna, Moszczenica, Ropa, Sękowa i Uście Gorlickie w powiecie gorlickim 2) na terenie województwa podkarpackiego:- powiat dębicki- gminy: Radomyśl Wielki i Wadowice Górne w powiecie mieleckim 12. Archiwum Państwowe w Lesznie 1) na terenie województwa wielkopolskiego:- miasto na prawach powiatu Leszno- miasto Kościan w powiecie kościańskim- powiaty: leszczyński, gostyński, rawicki- gminy: Kościan, Krzywiń i Śmigiel w powiecie kościańskim- gmina Kobylin w powiecie krotoszyńskim- gmina Przemęt w powiecie wolsztyńskim 2) na terenie województwa dolnośląskiego powiat górowski 3) na terenie województwa lubuskiego gminy: Szlichtyngowa i Wschowa w powiecie wschowskim 13. Archiwum Państwowe w Lublinie 1) na terenie województwa lubelskiego:- miasta na prawach powiatu: Biała Podlaska, Chełm i Lublin- miasto Krasnystaw w powiecie krasnostawskim- miasto Kraśnik w powiecie kraśnickim- miasto Dęblin w powiecie ryckim- powiaty: bialski, chełmski, lubartowski, łęczyński, opolski, parczewski, puławski, radzyński, świdnicki i włodawski- gminy: Fajsławice, Krasnystaw, Kraśniczyn, Łopiennik Górny, Rejowiec i Siennica Różana w powiecie krasnostawskim- gminy: Dzierzkowice, Kraśnik, Urzędów, Wilkołaz i Zakrzówek w powiecie kraśnickim- gminy: Bełżyce, Borzechów, Bychawa, Garbów, Głusk, Jabłonna, Jastków, Konopnica, Krzczonów, Niedrzwica Duża, Niemce, Strzyżewice, Wojciechów i Wólka w powiecie lubelskim- gminy: Nowodwór, Ryki, Stężyca i Ułęż w powiecie ryckim 2) na terenie województwa mazowieckiego powiat łosicki 14. Archiwum Państwowe w Łodzi na terenie województwa łódzkiego:- miasto na prawach powiatu Łódź- miasta: Konstantynów Łódzki i Pabianice w powiecie pabianickim- powiaty: łaski, sieradzki, wieluński, zduńskowolski i zgierski- gmina Rusiec w powiecie bełchatowskim- gminy: Działoszyn, Kiełczygłów i Siemkowice w powiecie pajęczańskim- gminy: Dalików, Poddębice, Pęczniew, Wartkowice i Zadzim w powiecie poddębickim- gmina Lututów w powiecie wieruszowskim- gminy: Andrespol, Brojce, Nowosolna i Rzgów w powiecie łódzkim wschodnim- gminy: Dobroń, Ksawerów, Lutomiersk i Pabianice w powiecie pabianickim 15. Archiwum Państwowe w Olsztynie na terenie województwa warmińsko-mazurskiego:- miasto na prawach powiatu Olsztyn- miasta Iława i Lubawa w powiecie iławskim- miasto Lidzbark Warmiński w powiecie lidzbarskim- miasto Mrągowo w powiecie szczycieńskim- powiaty: bartoszycki, kętrzyński, nidzicki, olsztyński i ostródzki- gminy: Iława, Lubawa i Zalewo w powiecie iławskim- gminy: Kiwity, Lidzbark Warmiński i Lubomino w powiecie lidzbarskim- gminy: Dźwierzuty, Jedwabno, Pasym, Szczytno, Świętajno i Wielbark w powiecie szczycieńskim 16. Archiwum Państwowe w Opolu na terenie województwa opolskiego:- miasto na prawach powiatu Opole- powiaty: brzeski, głubczycki, kędzierzyńsko-kozielski, kluczborski, krapkowicki, namysłowski, nyski, opolski, prudnicki i strzelecki- gmina Zębowice w powiecie oleskim 17. Archiwum Państwowe w Piotrkowie Trybunalskim 1) na terenie województwa łódzkiego:- miasto na prawach powiatu Piotrków Trybunalski- miasto Bełchatów w powiecie bełchatowskim- miasto Radomsko w powiecie radomszczańskim- powiaty: piotrkowski i tomaszowski- gminy: Bełchatów, Drużbice, Kleszczów, Kluki, Szczerców i Zelów w powiecie bełchatowskim- gminy: Koluszki i Tuszyn w powiecie łódzkim wschodnim- gminy: Białaczów, Mniszków, Opoczno, Paradyż, Poświętne, Sławno i Żarnów w powiecie opoczyńskim- gmina Dłutów w powiecie pabianickim- gminy: Rząśnia i Sulmierzyce w powiecie pajęczańskim- gminy: Dobryszyce, Gomunice, Kamieńsk, Kobiele Wielkie, Kodrąb, Lgota Wielka, Ładzice, Masłowice, Przedbórz, Radomsko i Wielgomłyny w powiecie radomszczańskim 2) na terenie województwa świętokrzyskiego:- gmina Fałków w powiecie koneckim- gmina Kluczewsko w powiecie włoszczowskim 18. Archiwum Państwowe w Płocku 1) na terenie województwa mazowieckiego:- miasto na prawach powiatu Płock- powiaty: gostyniński, płocki i sierpecki- gmina Czerwińsk n. Wisłą w powiecie płońskim- gmina Iłów w powiecie sochaczewskim 2) na terenie województwa łódzkiego:- miasto Łęczyca w powiecie łęczyckim – powiat kutnowski- gminy: Daszyna, Góra Św. Małgorzaty, Łęczyca, Piątek i Witonia w powiecie łęczyckim- gmina Kiernozia w powiecie łowickim 19. Archiwum Państwowe w Poznaniu 1) na terenie województwa wielkopolskiego:- miasta na prawach powiatu: Konin i Poznań- miasto Gniezno w powiecie gnieźnieńskim- powiaty: chodzieski, czarnkowsko-trzcianecki, grodziski, kolski, koniński, obornicki, pilski, poznański, słupecki, szamotulski, śremski, średzki, turecki, wągrowiecki, wrzesiński i złotowski- gminy: Czerniejewo, Gniezno, Kiszkowo, Kłecko, Łubowo, Mieleszyn, Niechanowo i Witkowo w powiecie gnieźnieńskim- gmina Czempiń w powiecie kościańskim- gminy: Chrzypsko Wielkie, Kwilcz i Sieraków w powiecie międzychodzkim- gminy: Kuślin, Lwówek, Nowy Tomyśl i Opalenica w powiecie nowotomyskim 2) na terenie województwa łódzkiego:- gmina Uniejów w powiecie poddębickim- gminy: Grabów i Świnice Warckie w powiecie łęczyckim 3) na terenie województwa zachodniopomorskiego powiat wałecki 20. Archiwum Państwowe w Przemyślu na terenie województwa podkarpackiego:- miasto na prawach powiatu Przemyśl- powiaty: jarosławski, lubaczowski, przemyski i przeworski- gmina Dynów w powiecie rzeszowskim 21. Archiwum Państwowe w Radomiu 1) na terenie województwa mazowieckiego:- miasto na prawach powiatu Radom- powiaty białobrzeski, kozienicki, lipski, przysuski, szydłowiecki, radomski i zwoleński- gminy: Belsk Duży, Błędów, Chynów, Goszczyn, Grójec, Jasieniec, Mogielnica, Nowe Miasto n. Pilicą, Pniewy i Warka w powiecie grójeckim 2) na terenie województwa łódzkiego gmina Drzewica w powiecie opoczyńskim 3) na terenie województwa świętokrzyskiego gmina Gowarczów w powiecie koneckim 22. Archiwum Państwowe w Rzeszowie 1) na terenie województwa podkarpackiego:- miasta na prawach powiatu: Rzeszów i Krosno – miasto Mielec w powiecie mieleckim- powiaty: bieszczadzki, brzozowski, jasielski, krośnieński, leski, leżajski, łańcucki, ropczycko-sędziszowski, sanocki i strzyżowski- gminy: Cmolas, Kolbuszowa, Niwiska, Raniżów i Dzikowiec w powiecie kolbuszowskim- gminy: Borowa, Czermin, Gawłuszowice, Mielec, Przecław i Tuszów Narodowy w powiecie mieleckim- gminy: Błażowa, Boguchwała, Chmielnik, Głogów Małopolski, Hyżne, Kamień, Krasne, Lubenia, Sokołów Małopolski, Świlcza, Trzebownisko i Tyczyn w powiecie rzeszowskim 2) na terenie województwa małopolskiego:- gminy: Biecz i Lipinki w powiecie gorlickim 23. Archiwum Państwowe w Siedlcach 1) na terenie województwa mazowieckiego:- miasto na prawach powiatu Siedlce- miasto Mińsk Mazowiecki w powiecie mińskim,- powiaty: garwoliński, siedlecki, sokołowski i węgrowski- gminy: Cegłów, Dębe Wielkie, Dobre, Jakubów, Kałuszyn, Latowicz, Mińsk Mazowiecki, Mrozy, Siennica i Stanisławów w powiecie mińskim- gminy: Kołbiel, Osieck i Sobienie Jeziory w powiecie otwockim- gminy: Jadów, Poświętne i Strachówka w powiecie wołomińskim 2) na terenie województwa lubelskiego:- powiat łukowski- gmina Kłoczew w powiecie ryckim 24. Archiwum Państwowe w Suwałkach 1) na terenie województwa podlaskiego:- miasto na prawach powiatu Suwałki- powiaty: augustowski, sejneński i suwalski2) na terenie województwa warmińsko-mazurskiego:- powiaty: ełcki, giżycki, gołdapski, olecki, piski i węgorzewski- gmina Mikołajki w powiecie mrągowskim 25. Archiwum Państwowe w Szczecinie na terenie województwa zachodniopomorskiego:- miasta na prawach powiatu: Szczecin i Świnoujście- miasto Stargard Szczeciński w powiecie stargardzkim *)- powiaty: choszczeński, goleniowski, gryficki, gryfiński, kamieński, łobeski, myśliborski, policki, pyrzycki i stargardzki 26. Archiwum Państwowe w Toruniu 1) na terenie województwa kujawsko-pomorskiego:- miasta na prawach powiatu: Grudziądz, Toruń i Włocławek- powiaty: aleksandrowski, brodnicki, chełmiński, golubsko-dobrzyński, grudziądzki, lipnowski, radziejowski, rypiński, toruński, wąbrzeski i włocławski 2) na terenie województwa warmińsko-mazurskiego powiat nowomiejski 27. Archiwum Państwowe w Warszawie **) 1) na terenie województwa mazowieckiego:- miasto stołeczne Warszawa- miasto na prawach powiatu Ostrołęka- miasto Sulejówek w powiecie mińskim- miasto Ostrów Mazowiecka w powiecie ostrowskim- miasta: Józefów i Otwock w powiecie otwockim- miasta: Płońsk i Raciąż w powiecie płońskim- miasto Sochaczew w powiecie sochaczewskim- miasta: Kobyłka, Marki, Ząbki i Zielonka w powiecie wołomińskim- powiaty: ciechanowski, grodziski, legionowski, makowski, mławski, nowodworski, ostrołęcki, piaseczyński, pruszkowski, przasnyski, pułtuski, warszawski zachodni, wyszkowski, żuromiński i żyrardowski- gmina Halinów w powiecie mińskim- gminy: Brok, Małkinia Górna, Ostrów Mazowiecka, Stary Lubotyń i Wąsewo w powiecie ostrowskim- gminy: Celestynów, Karczew i Wiązowna w powiecie otwockim- gminy: Baboszewo, Dzierzążnia, Joniec, Naruszewo, Nowe Miasto, Płońsk, Raciąż, Sochocin i Załuski w powiecie płońskim- gminy: Brochów, Młodzieszyn, Nowa Sucha, Rybno, Sochaczew i Teresin w powiecie sochaczewskim- gminy: Dąbrówka, Klembów, Radzymin, Tłuszcz i Wołomin w powiecie wołomińskim 2) na terenie województwa łódzkiego:- miasto na prawach powiatu Skierniewice- miasto Łowicz w powiecie łowickim- gminy: Bielawy, Chąśno, Domaniewice, Kocierzew Południowy, Łowicz, Łyszkowice, Nieborów i Zduny w powiecie łowickim – powiaty: brzeziński, rawski i skierniewicki 3) na terenie województwa warmińsko-mazurskiego:- powiat działdowski- gmina Rozogi w powiecie szczycieńskim 28. Archiwum Państwowe we Wrocławiu na terenie województwa dolnośląskiego:- miasta na prawach powiatu: Jelenia Góra, Legnica, Wałbrzych i Wrocław- miasto Oleśnica w powiecie oleśnickim- powiaty: bolesławiecki, dzierżoniowski, głogowski, jaworski, jeleniogórski, kamiennogórski, kłodzki, legnicki, lubański, lubiński, lwówecki, milicki, oławski, polkowicki, strzeliński, średzki, świdnicki, trzebnicki, wałbrzyski, wołowski, wrocławski, ząbkowicki, zgorzelecki i złotoryjski- gminy: Bierutów, Dobroszyce, Oleśnica i Twardogóra w powiecie oleśnickim 29. Archiwum Państwowe w Zamościu na terenie województwa lubelskiego:- miasto na prawach powiatu Zamość- powiaty: biłgorajski, hrubieszowski, tomaszowski i zamojski- gminy: Gorzków, Izbica, Rudnik i Żółkiewka w powiecie krasnostawskim- gminy: Wysokie i Zakrzew w powiecie lubelskim 30. Archiwum Państwowe w Zielonej Górze 1) na terenie województwa lubuskiego:- miasto na prawach powiatu Zielona Góra- miasto Nowa Sól w powiecie nowosolskim- powiaty: krośnieński, świebodziński, zielonogórski, żagański i żarski- gminy: Bytom Odrzański, Kolsko, Kożuchów, Nowa Sól, Nowe Miasteczko, Otyń i Siedlisko w powiecie nowosolskim- gmina Sława w powiecie wschowskim- gmina Cybinka w powiecie słubickim- gmina Torzym w powiecie sulęcińskim 2) na terenie województwa wielkopolskiego:- gmina Zbąszyń w powiecie nowotomyskim- gminy: Siedlec i Wolsztyn w powiecie wolsztyńskim *) Zgodnie z § 5 pkt 1 rozporządzenia Rady Ministrów z dnia 28 lipca 2015 r. w sprawie ustalenia granic niektórych miast, nadania niektórym miejscowościom statusu miasta, ustalenia granic oraz zmiany nazw i siedzib władz niektórych gmin (Dz. U. poz. 1083), z dniem 1 stycznia 2016 r. gmina o statusie miasta Stargard Szczeciński zmienia nazwę na Stargard. **) W zakresie przejmowania materiałów archiwalnych i wyrażania zgody na brakowanie dokumentacji niearchiwalnej naczelnych i centralnych organów władzy i administracji rządowej oraz innych centralnych jednostek organizacyjnych, których siedziba mieści się Warszawie, właściwe jest Archiwum Akt Nowych; w zakresie przejmowania materiałów archiwalnych i wyrażania zgody na brakowanie dokumentacji niearchiwalnej powstałej w wyniku działalności jednostek organizacyjnych powołanych do wytwarzania dokumentacji fotograficznej i audiowizualnej, utrwalających działalność podstawową w formie fotograficznej oraz audiowizualnej i gromadzących takie materiały archiwalne celowo, mających siedzibę w Warszawie, właściwe jest Narodowe Archiwum Cyfrowe.
+Lp. Nazwa archiwum państwowego Obszar 1. Archiwum Państwowe w Białymstoku 1) na terenie województwa podlaskiego powiaty:
+białostocki, bielski, grajewski, hajnowski, kolneński, łomżyński, moniecki, siemiatycki, sokolski, wysokomazowiecki i zambrowski 2) na terenie województwa mazowieckiego gminy: Andrzejewo, Nur, Szulborze Wielkie, Zaręby Kościelne i Boguty – Pianki w powiecie ostrowskim 2. Archiwum Państwowe w Bydgoszczy 1) na terenie województwa kujawsko-pomorskiego:
+miasto na prawach powiatu Bydgoszcz
+powiaty: bydgoski, inowrocławski, mogileński, nakielski, sępoleński, świecki, tucholski i żniński 2) na terenie województwa pomorskiego:
+miasto Chojnice
+gminy: Brusy, Chojnice i Czersk w powiecie chojnickim 3) na terenie województwa wielkopolskiego gmina Trzemeszno w powiecie gnieźnieńskim 3. Archiwum Państwowe w Częstochowie 1) na terenie województwa śląskiego:
+miasto na prawach powiatu Częstochowa
+powiaty: częstochowski, kłobucki, lubliniecki i myszkowski
+miasto Kalety w powiecie tarnogórskim
+gminy: Irządze, Kroczyce, Szczekociny i Włodowice w powiecie zawierciańskim 2) na terenie województwa łódzkiego:
+gminy: Nowa Brzeźnica, Pajęczno i Strzelce Wielkie w powiecie pajęczańskim
+gminy: Gidle i Żytno w powiecie radomszczańskim 3) na terenie województwa opolskiego gminy: Dobrodzień, Gorzów Śląski, Olesno, Praszka, Radłów i Rudniki w powiecie oleskim 4) na terenie województwa świętokrzyskiego gminy: Moskorzew, Radków i Secemin w powiecie włoszczowskim 4. Archiwum Państwowe w Elblągu z siedzibą w Malborku 1) na terenie województwa pomorskiego powiaty: kwidzyński, malborski, nowodworski i sztumski 2) na terenie województwa warmińsko-mazurskiego:
+miasto na prawach powiatu Elbląg
+powiaty: braniewski i elbląski
+gminy Kisielice i Susz w powiecie iławskim
+gmina Orneta w powiecie lidzbarskim 5. Archiwum Państwowe w Gdańsku na terenie województwa pomorskiego:
+miasta na prawach powiatu: Gdańsk, Gdynia i Sopot
+powiaty: gdański, kartuski, kościerski, pucki, starogardzki, tczewski i wejherowski 6. Archiwum Państwowe w Gorzowie Wielkopolskim 1) na terenie woj ewództwa lubuskiego:
+miasto na prawach powiatu Gorzów Wielkopolski
+powiaty: gorzowski, międzyrzecki i strzelecko-drezdenecki
+gminy: Górzyca, Ośno Lubuskie, Rzepin i Słubice w powiecie słubickim
+gminy: Lubniewice, Krzeszyce, Słońsk i Sulęcin w powiecie sulęcińskim 2) na terenie województwa wielkopolskiego:
+gmina Międzychód w powiecie międzychodzkim
+gmina Miedzichowo w powiecie nowotomyskim 7. Archiwum Państwowe w Kaliszu 1) na terenie województwa wielkopolskiego:
+miasto na prawach powiatu Kalisz
+miasto Sulmierzyce
+powiaty: jarociński, kaliski, kępiński, ostrowski, ostrzeszowski i pleszewski
+gminy Koźmin Wielkopolski, Krotoszyn, Rozdrażew i Zduny w powiecie krotoszyńskim 2) na terenie województwa dolnośląskiego:
+gminy Dziadowa Kłoda, Międzybórz i Syców w powiecie oleśnickim, 3) na terenie województwa łódzkiego gminy:
+Bolesławiec, Czastary, Galewice, Łubnice, Sokolniki i Wieruszów w powiecie wieruszowskim 8. Archiwum Państwowe w Katowicach 1) na terenie województwa śląskiego:
+miasta na prawach powiatu: Bielsko-Biała, Bytom, Chorzów, Dąbrowa Górnicza, Gliwice, Jastrzębie Zdrój, Jaworzno, Katowice, Mysłowice, Piekary Śląskie, Ruda Śląska, Rybnik, Siemianowice Śląskie, Sosnowiec, Świętochłowice, Tychy, Zabrze i Żory
+miasta: Miasteczko Śląskie, Radzionków i Tarnowskie Góry oraz gminy: Krupski Młyn, Ożarowice, Świerklaniec, Tworóg i Zbrosławice w powiecie tarnogórskim
+miasta: Poręba i Zawiercie w powiecie zawierciańskim
+powiaty: będziński, bielski, bieruńsko-lędziński, cieszyński, gliwicki, mikołowski, pszczyński, raciborski, rybnicki, wodzisławski i żywiecki
+gminy: Łazy, Ogrodzieniec, Pilica i Żarnowiec w powiecie zawierciańskim 2) na terenie województwa małopolskiego:
+miasto: Bukowno w powiecie olkuskim
+miasto: Sucha Beskidzka w powiecie suskim
+powiaty: oświęcimski i wadowicki
+gminy: Babice, Chrzanów, Libiąż i Trzebinia w powiecie chrzanowskim
+gminy: Bolesław, Klucze, Olkusz i Wolbrom w powiecie olkuskim
+gminy: Budzów, Maków Podhalański, Stryszawa, Zawoja i Zembrzyce w powiecie suskim 9. Archiwum Państwowe w Kielcach 1) na terenie województwa świętokrzyskiego:
+miasto na prawach powiatu Kielce
+powiaty: buski, jędrzejowski, kazimierski, kielecki, opatowski, ostrowiecki, pińczowski, sandomierski, skarżyski, starachowicki i staszowski
+gminy: Końskie, Radoszyce, Ruda Maleniecka, Słupia (Konecka), Smyków i Stąporków w powiecie koneckim
+gminy: Krasocin i Włoszczowa w powiecie włoszczowskim 2) na terenie województwa lubelskiego:
+powiat janowski
+gminy: Annopol, Gościeradów, Szastarka i Trzydnik Duży w powiecie kraśnickim 3) na terenie województwa małopolskiego:
+gminy: Charsznica, Kozłów, Książ Wielki, Miechów, Racławice i Słaboszów w powiecie miechowskim
+gminy: Koszyce i Pałecznica w powiecie proszowickim 4) na terenie województwa podkarpackiego:
+miasto na prawach powiatu Tarnobrzeg
+powiaty: niżański, stalowowolski i tarnobrzeski
+gmina Majdan Królewski w powiecie kolbuszowskim
+gmina Padew Narodowa w powiecie mieleckim 10. Archiwum Państwowe w Koszalinie 1) na terenie województwa zachodniopomorskiego:
+miasto na prawach powiatu Koszalin
+powiaty: białogardzki, drawski, kołobrzeski, koszaliński, sławieński, szczecinecki i świdwiński 2) na terenie województwa pomorskiego:
+miasto na prawach powiatu Słupsk
+powiaty: bytowski, człuchowski, lęborski i słupski
+gmina Konarzyny w powiecie chojnickim 11. Archiwum Narodowe w Krakowie 1) na terenie województwa małopolskiego:
+miasta na prawach powiatu: Kraków, Nowy Sącz i Tarnów
+miasto Gorlice w powiecie gorlickim
+miasto Jordanów w powiecie suskim
+powiaty: bocheński, brzeski, dąbrowski, krakowski, limanowski, myślenicki, nowosądecki, nowotarski, tarnowski, tatrzański i wielicki
+gmina Alwernia w powiecie chrzanowskim
+gmina Gołcza w powiecie miechowskim
+gmina Trzyciąż w powiecie olkuskim
+gminy: Koniusza, Nowe Brzesko, Proszowice i Radziemice w powiecie proszowickim
+gminy: Bystra-Sidzina i Jordanów w powiecie suskim
+gminy: Bobowa, Gorlice, Łużna, Moszczenica, Ropa, Sękowa i Uście Gorlickie w powiecie gorlickim 2) na terenie województwa podkarpackiego:
+powiat dębicki
+gminy: Radomyśl Wielki i Wadowice Górne w powiecie mieleckim 12. Archiwum Państwowe w Lesznie 1) na terenie województwa wielkopolskiego:
+miasto na prawach powiatu Leszno
+miasto Kościan w powiecie kościańskim
+powiaty: leszczyński, gostyński, rawicki
+gminy: Kościan, Krzywiń i Śmigiel w powiecie kościańskim
+gmina Kobylin w powiecie krotoszyńskim
+gmina Przemęt w powiecie wolsztyńskim 2) na terenie województwa dolnośląskiego powiat górowski 3) na terenie województwa lubuskiego gminy: Szlichtyngowa i Wschowa w powiecie wschowskim 13. Archiwum Państwowe w Lublinie 1) na terenie województwa lubelskiego:
+miasta na prawach powiatu: Biała Podlaska, Chełm i Lublin
+miasto Krasnystaw w powiecie krasnostawskim
+miasto Kraśnik w powiecie kraśnickim
+miasto Dęblin w powiecie ryckim
+powiaty: bialski, chełmski, lubartowski, łęczyński, opolski, parczewski, puławski, radzyński, świdnicki i włodawski
+gminy: Fajsławice, Krasnystaw, Kraśniczyn, Łopiennik Górny, Rejowiec i Siennica Różana w powiecie krasnostawskim
+gminy: Dzierzkowice, Kraśnik, Urzędów, Wilkołaz i Zakrzówek w powiecie kraśnickim
+gminy: Bełżyce, Borzechów, Bychawa, Garbów, Głusk, Jabłonna, Jastków, Konopnica, Krzczonów, Niedrzwica Duża, Niemce, Strzyżewice, Wojciechów i Wólka w powiecie lubelskim
+gminy: Nowodwór, Ryki, Stężyca i Ułęż w powiecie ryckim 2) na terenie województwa mazowieckiego powiat łosicki 14. Archiwum Państwowe w Łodzi na terenie województwa łódzkiego:
+miasto na prawach powiatu Łódź
+miasta: Konstantynów Łódzki i Pabianice w powiecie pabianickim
+powiaty: łaski, sieradzki, wieluński, zduńskowolski i zgierski
+gmina Rusiec w powiecie bełchatowskim
+gminy: Działoszyn, Kiełczygłów i Siemkowice w powiecie pajęczańskim
+gminy: Dalików, Poddębice, Pęczniew, Wartkowice i Zadzim w powiecie poddębickim
+gmina Lututów w powiecie wieruszowskim
+gminy: Andrespol, Brojce, Nowosolna i Rzgów w powiecie łódzkim wschodnim
+gminy: Dobroń, Ksawerów, Lutomiersk i Pabianice w powiecie pabianickim 15. Archiwum Państwowe w Olsztynie na terenie województwa warmińsko-mazurskiego:
+miasto na prawach powiatu Olsztyn
+miasta Iława i Lubawa w powiecie iławskim
+miasto Lidzbark Warmiński w powiecie lidzbarskim
+miasto Mrągowo w powiecie szczycieńskim
+powiaty: bartoszycki, kętrzyński, nidzicki, olsztyński i ostródzki
+gminy: Iława, Lubawa i Zalewo w powiecie iławskim
+gminy: Kiwity, Lidzbark Warmiński i Lubomino w powiecie lidzbarskim
+gminy: Dźwierzuty, Jedwabno, Pasym, Szczytno, Świętajno i Wielbark w powiecie szczycieńskim 16. Archiwum Państwowe w Opolu na terenie województwa opolskiego:
+miasto na prawach powiatu Opole
+powiaty: brzeski, głubczycki, kędzierzyńsko-kozielski, kluczborski, krapkowicki, namysłowski, nyski, opolski, prudnicki i strzelecki
+gmina Zębowice w powiecie oleskim 17. Archiwum Państwowe w Piotrkowie Trybunalskim 1) na terenie województwa łódzkiego:
+miasto na prawach powiatu Piotrków Trybunalski
+miasto Bełchatów w powiecie bełchatowskim
+miasto Radomsko w powiecie radomszczańskim
+powiaty: piotrkowski i tomaszowski
+gminy: Bełchatów, Drużbice, Kleszczów, Kluki, Szczerców i Zelów w powiecie bełchatowskim
+gminy: Koluszki i Tuszyn w powiecie łódzkim wschodnim
+gminy: Białaczów, Mniszków, Opoczno, Paradyż, Poświętne, Sławno i Żarnów w powiecie opoczyńskim
+gmina Dłutów w powiecie pabianickim
+gminy: Rząśnia i Sulmierzyce w powiecie pajęczańskim
+gminy: Dobryszyce, Gomunice, Kamieńsk, Kobiele Wielkie, Kodrąb, Lgota Wielka, Ładzice, Masłowice, Przedbórz, Radomsko i Wielgomłyny w powiecie radomszczańskim 2) na terenie województwa świętokrzyskiego:
+gmina Fałków w powiecie koneckim
+gmina Kluczewsko w powiecie włoszczowskim 18. Archiwum Państwowe w Płocku 1) na terenie województwa mazowieckiego:
+miasto na prawach powiatu Płock
+powiaty: gostyniński, płocki i sierpecki
+gmina Czerwińsk n. Wisłą w powiecie płońskim
+gmina Iłów w powiecie sochaczewskim 2) na terenie województwa łódzkiego:
+miasto Łęczyca w powiecie łęczyckim
+powiat kutnowski
+gminy: Daszyna, Góra Św. Małgorzaty, Łęczyca, Piątek i Witonia w powiecie łęczyckim
+gmina Kiernozia w powiecie łowickim 19. Archiwum Państwowe w Poznaniu 1) na terenie województwa wielkopolskiego:
+miasta na prawach powiatu: Konin i Poznań
+miasto Gniezno w powiecie gnieźnieńskim
+powiaty: chodzieski, czarnkowsko-trzcianecki, grodziski, kolski, koniński, obornicki, pilski, poznański, słupecki, szamotulski, śremski, średzki, turecki, wągrowiecki, wrzesiński i złotowski
+gminy: Czerniejewo, Gniezno, Kiszkowo, Kłecko, Łubowo, Mieleszyn, Niechanowo i Witkowo w powiecie gnieźnieńskim
+gmina Czempiń w powiecie kościańskim
+gminy: Chrzypsko Wielkie, Kwilcz i Sieraków w powiecie międzychodzkim
+gminy: Kuślin, Lwówek, Nowy Tomyśl i Opalenica w powiecie nowotomyskim 2) na terenie województwa łódzkiego:
+gmina Uniejów w powiecie poddębickim
+gminy: Grabów i Świnice Warckie w powiecie łęczyckim 3) na terenie województwa zachodniopomorskiego powiat wałecki 20. Archiwum Państwowe w Przemyślu na terenie województwa podkarpackiego:
+miasto na prawach powiatu Przemyśl
+powiaty: jarosławski, lubaczowski, przemyski i przeworski
+gmina Dynów w powiecie rzeszowskim 21. Archiwum Państwowe w Radomiu 1) na terenie województwa mazowieckiego:
+miasto na prawach powiatu Radom
+powiaty białobrzeski, kozienicki, lipski, przysuski, szydłowiecki, radomski i zwoleński
+gminy: Belsk Duży, Błędów, Chynów, Goszczyn, Grójec, Jasieniec, Mogielnica, Nowe Miasto n. Pilicą, Pniewy i Warka w powiecie grójeckim 2) na terenie województwa łódzkiego gmina Drzewica w powiecie opoczyńskim 3) na terenie województwa świętokrzyskiego gmina Gowarczów w powiecie koneckim 22. Archiwum Państwowe w Rzeszowie 1) na terenie województwa podkarpackiego:
+miasta na prawach powiatu: Rzeszów i Krosno – miasto Mielec w powiecie mieleckim
+powiaty: bieszczadzki, brzozowski, jasielski, krośnieński, leski, leżajski, łańcucki, ropczycko-sędziszowski, sanocki i strzyżowski
+gminy: Cmolas, Kolbuszowa, Niwiska, Raniżów i Dzikowiec w powiecie kolbuszowskim
+gminy: Borowa, Czermin, Gawłuszowice, Mielec, Przecław i Tuszów Narodowy w powiecie mieleckim
+gminy: Błażowa, Boguchwała, Chmielnik, Głogów Małopolski, Hyżne, Kamień, Krasne, Lubenia, Sokołów Małopolski, Świlcza, Trzebownisko i Tyczyn w powiecie rzeszowskim 2) na terenie województwa małopolskiego:
+gminy: Biecz i Lipinki w powiecie gorlickim 23. Archiwum Państwowe w Siedlcach 1) na terenie województwa mazowieckiego:
+miasto na prawach powiatu Siedlce
+miasto Mińsk Mazowiecki w powiecie mińskim,
+powiaty: garwoliński, siedlecki, sokołowski i węgrowski
+gminy: Cegłów, Dębe Wielkie, Dobre, Jakubów, Kałuszyn, Latowicz, Mińsk Mazowiecki, Mrozy, Siennica i Stanisławów w powiecie mińskim
+gminy: Kołbiel, Osieck i Sobienie Jeziory w powiecie otwockim
+gminy: Jadów, Poświętne i Strachówka w powiecie wołomińskim 2) na terenie województwa lubelskiego:
+powiat łukowski
+gmina Kłoczew w powiecie ryckim 24. Archiwum Państwowe w Suwałkach 1) na terenie województwa podlaskiego:
+miasto na prawach powiatu Suwałki
+powiaty: augustowski, sejneński i suwalski
+2) na terenie województwa warmińsko-mazurskiego:
+powiaty: ełcki, giżycki, gołdapski, olecki, piski i węgorzewski
+gmina Mikołajki w powiecie mrągowskim 25. Archiwum Państwowe w Szczecinie na terenie województwa zachodniopomorskiego:
+miasta na prawach powiatu: Szczecin i Świnoujście
+miasto Stargard Szczeciński w powiecie stargardzkim *)
+powiaty: choszczeński, goleniowski, gryficki, gryfiński, kamieński, łobeski, myśliborski, policki, pyrzycki i stargardzki 26. Archiwum Państwowe w Toruniu 1) na terenie województwa kujawsko-pomorskiego:
+miasta na prawach powiatu: Grudziądz, Toruń i Włocławek
+powiaty: aleksandrowski, brodnicki, chełmiński, golubsko-dobrzyński, grudziądzki, lipnowski, radziejowski, rypiński, toruński, wąbrzeski i włocławski 2) na terenie województwa warmińsko-mazurskiego powiat nowomiejski 27. Archiwum Państwowe w Warszawie **) 1) na terenie województwa mazowieckiego:
+miasto stołeczne Warszawa
+miasto na prawach powiatu Ostrołęka
+miasto Sulejówek w powiecie mińskim
+miasto Ostrów Mazowiecka w powiecie ostrowskim
+miasta: Józefów i Otwock w powiecie otwockim
+miasta: Płońsk i Raciąż w powiecie płońskim
+miasto Sochaczew w powiecie sochaczewskim
+miasta: Kobyłka, Marki, Ząbki i Zielonka w powiecie wołomińskim
+powiaty: ciechanowski, grodziski, legionowski, makowski, mławski, nowodworski, ostrołęcki, piaseczyński, pruszkowski, przasnyski, pułtuski, warszawski zachodni, wyszkowski, żuromiński i żyrardowski
+gmina Halinów w powiecie mińskim
+gminy: Brok, Małkinia Górna, Ostrów Mazowiecka, Stary Lubotyń i Wąsewo w powiecie ostrowskim
+gminy: Celestynów, Karczew i Wiązowna w powiecie otwockim
+gminy: Baboszewo, Dzierzążnia, Joniec, Naruszewo, Nowe Miasto, Płońsk, Raciąż, Sochocin i Załuski w powiecie płońskim
+gminy: Brochów, Młodzieszyn, Nowa Sucha, Rybno, Sochaczew i Teresin w powiecie sochaczewskim
+gminy: Dąbrówka, Klembów, Radzymin, Tłuszcz i Wołomin w powiecie wołomińskim 2) na terenie województwa łódzkiego:
+miasto na prawach powiatu Skierniewice
+miasto Łowicz w powiecie łowickim
+gminy: Bielawy, Chąśno, Domaniewice, Kocierzew Południowy, Łowicz, Łyszkowice, Nieborów i Zduny w powiecie łowickim – powiaty: brzeziński, rawski i skierniewicki 3) na terenie województwa warmińsko-mazurskiego:
+powiat działdowski
+gmina Rozogi w powiecie szczycieńskim 28. Archiwum Państwowe we Wrocławiu na terenie województwa dolnośląskiego:
+miasta na prawach powiatu: Jelenia Góra, Legnica, Wałbrzych i Wrocław
+miasto Oleśnica w powiecie oleśnickim
+powiaty: bolesławiecki, dzierżoniowski, głogowski, jaworski, jeleniogórski, kamiennogórski, kłodzki, legnicki, lubański, lubiński, lwówecki, milicki, oławski, polkowicki, strzeliński, średzki, świdnicki, trzebnicki, wałbrzyski, wołowski, wrocławski, ząbkowicki, zgorzelecki i złotoryjski
+gminy: Bierutów, Dobroszyce, Oleśnica i Twardogóra w powiecie oleśnickim 29. Archiwum Państwowe w Zamościu na terenie województwa lubelskiego:
+miasto na prawach powiatu Zamość
+powiaty: biłgorajski, hrubieszowski, tomaszowski i zamojski
+gminy: Gorzków, Izbica, Rudnik i Żółkiewka w powiecie krasnostawskim
+gminy: Wysokie i Zakrzew w powiecie lubelskim 30. Archiwum Państwowe w Zielonej Górze 1) na terenie województwa lubuskiego:
+miasto na prawach powiatu Zielona Góra
+miasto Nowa Sól w powiecie nowosolskim
+powiaty: krośnieński, świebodziński, zielonogórski, żagański i żarski
+gminy: Bytom Odrzański, Kolsko, Kożuchów, Nowa Sól, Nowe Miasteczko, Otyń i Siedlisko w powiecie nowosolskim
+gmina Sława w powiecie wschowskim
+gmina Cybinka w powiecie słubickim
+gmina Torzym w powiecie sulęcińskim 2) na terenie województwa wielkopolskiego:
+gmina Zbąszyń w powiecie nowotomyskim
+gminy: Siedlec i Wolsztyn w powiecie wolsztyńskim
+*) Zgodnie z § 5 pkt 1 rozporządzenia Rady Ministrów z dnia 28 lipca 2015 r. w sprawie ustalenia granic niektórych miast, nadania niektórym miejscowościom statusu miasta, ustalenia granic oraz zmiany nazw i siedzib władz niektórych gmin (Dz. U. poz. 1083), z dniem 1 stycznia 2016 r. gmina o statusie miasta Stargard Szczeciński zmienia nazwę na Stargard. **) W zakresie przejmowania materiałów archiwalnych i wyrażania zgody na brakowanie dokumentacji niearchiwalnej naczelnych i centralnych organów władzy i administracji rządowej oraz innych centralnych jednostek organizacyjnych, których siedziba mieści się Warszawie, właściwe jest Archiwum Akt Nowych; w zakresie przejmowania materiałów archiwalnych i wyrażania zgody na brakowanie dokumentacji niearchiwalnej powstałej w wyniku działalności jednostek organizacyjnych powołanych do wytwarzania dokumentacji fotograficznej i audiowizualnej, utrwalających działalność podstawową w formie fotograficznej oraz audiowizualnej i gromadzących takie materiały archiwalne celowo, mających siedzibę w Warszawie, właściwe jest Narodowe Archiwum Cyfrowe.
 

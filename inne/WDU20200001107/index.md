@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Sportuz dnia 19 czerwca 2020 r. w sprawie przeznaczania w czasie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii oraz w terminie 6 miesięcy po jego odwołaniu środków budżetu państwa z części, której dysponentem jest minister właściwy do spraw kultury fizycznej, środków Funduszu Rozwoju Kultury Fizycznej oraz środków Funduszu Zajęć Sportowych dla Uczniów
+# Rozporządzenie Ministra Sportuz dnia 19 czerwca 2020 r. w sprawie przeznaczania w czasie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii oraz w terminie 6 miesięcy po jego odwołaniu środków budżetu państwa z części, której dysponentem jest minister właściwy do spraw kultury fizycznej, środków Funduszu Rozwoju Kultury Fizycznej oraz środków Funduszu Zajęć Sportowych dla Uczniów Minister Sportu kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 grudnia 2019 r. w sprawie szczegółowego zakresu działania Ministra Sportu (Dz. U. poz. 2380).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-19 |
 | Data wydania | 2020-06-25 |
-| Wejście w życie | 2020-06-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001107) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1107/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Rodzaje wydatków objętych wsparciem Rozdział 3 – Finansowanie lub dofinansowanie realizacji zadań z zakresu kultury fizycznej objętych wsparciem Rozdział 4 – Finansowanie lub dofinansowanie realizacji zadań z zakresu zwalczania epidemii objętych wsparciem Rozdział 5 – Umowa, płatności i rozliczenie Rozdział 6 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 89 ust. 6 ustawy z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 695, 875, 979 i 1086) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -51,11 +51,13 @@ koszt bezpośredni – część kosztów, która jest bezpośrednio przeznaczona
 koszt pośredni – część kosztów, która nie jest bezpośrednio przeznaczona na realizację zadania z zakresu kultury fizycznej w zakresie realizacji programu, o którym mowa w § 4, oraz zadania z zakresu zwalczania epidemii, o którym mowa w § 7;
 3)
 Fundusz – Fundusz Rozwoju Kultury Fizycznej lub Fundusz Zajęć Sportowych dla Uczniów.
+Rodzaje wydatków objętych wsparciem
 § 3.
 1.
 W ramach realizacji zadania z zakresu kultury fizycznej objęte wsparciem są wydatki przeznaczone na realizację zadania z zakresu kultury fizycznej, w szczególności dotyczące szkolenia sportowego, zwalczania dopingu w sporcie, upowszechniania i promocji sportu.
 2.
 W ramach realizacji zadania z zakresu zwalczania epidemii objęte wsparciem są wydatki ponoszone w związku z realizacją zadań wynikających z obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, w szczególności dotyczące badań epidemicznych i zakupów materiałów ochrony osobistej oraz środków dezynfekujących.
+Finansowanie lub dofinansowanie realizacji zadań z zakresu kultury fizycznej objętych wsparciem
 § 4.
 W celu finansowania lub dofinansowania realizacji zadań z zakresu kultury fizycznej objętych wsparciem minister właściwy do spraw kultury fizycznej, zwany dalej „ministrem”, ogłasza programy z zakresu kultury fizycznej.
 § 5.
@@ -126,6 +128,7 @@ zaświadczenie lub informację sporządzoną na podstawie ewidencji właściwej 
 statut, umowę lub akt założycielski dotyczące prowadzenia działalności przez wnioskodawcę;
 5)
 inne dokumenty związane z realizacją zadania z zakresu kultury fizycznej wskazane we właściwym programie z zakresu kultury fizycznej.
+Finansowanie lub dofinansowanie realizacji zadań z zakresu zwalczania epidemii objętych wsparciem
 § 7.
 W celu finansowania lub dofinansowania realizacji zadań z zakresu zwalczania epidemii objętych wsparciem minister ogłasza programy z zakresu zwalczania epidemii.
 § 8.
@@ -194,6 +197,7 @@ zaświadczenie lub informację sporządzoną na podstawie ewidencji właściwej 
 statut, umowę lub akt założycielski dotyczące prowadzenia działalności przez wnioskodawcę;
 5)
 inne dokumenty związane z realizacją zadania z zakresu zwalczania epidemii wskazane we właściwym programie z zakresu zwalczania epidemii.
+Umowa, płatności i rozliczenie
 § 10.
 1.
 Wniosek o finansowanie lub dofinansowanie realizacji zadania z zakresu kultury fizycznej objętego wsparciem, zaakceptowany przez ministra, stanowi podstawę do zawarcia umowy o finansowanie lub dofinansowanie z wnioskodawcą.
@@ -236,26 +240,38 @@ określenie sposobu przeprowadzania kontroli wykonania zadania;
 15)
 określenie wysokości kosztów pośrednich.
 3.
-W przypadku stwierdzenia wykorzystania finansowania lub dofinansowania niezgodnie z przeznaczeniem, pobrania nienależnie lub w nadmiernej wysokości oraz w odniesieniu do zwrotu niewykorzystanego finansowania lub dofinansowania stosuje się przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.) w zakresie dotyczącym dotacji udzielanych z budżetu państwa.
+W przypadku stwierdzenia wykorzystania finansowania lub dofinansowania niezgodnie z przeznaczeniem, pobrania nienależnie lub w nadmiernej wysokości oraz w odniesieniu do zwrotu niewykorzystanego finansowania lub dofinansowania stosuje się przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568 i 695.) w zakresie dotyczącym dotacji udzielanych z budżetu państwa.
 § 11.
 Finansowanie lub dofinansowanie jest przekazywane przelewem na rachunek bankowy wnioskodawcy w wysokości i na warunkach wynikających z umowy o finansowanie lub dofinansowanie.
 § 12.
 W przypadku zmniejszenia rzeczywistych przychodów Funduszu lub wydatków budżetu państwa w części, której dysponentem jest minister w stosunku do założonego planu, minister może zmniejszyć przyznane finansowanie lub dofinansowanie.
 § 13.
 Do zadania z zakresu zwalczania epidemii § 10−12 stosuje się odpowiednio, z tym że termin, o którym mowa w § 10 ust. 2 pkt 5 lit. b, wynosi nie więcej niż 60 dni.
+Przepis końcowy
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Sportu kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 grudnia 2019 r. w sprawie szczegółowego zakresu działania Ministra Sportu (Dz. U. poz. 2380). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568 i 695.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Sportu kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 grudnia 2019 r. w sprawie szczegółowego zakresu działania Ministra Sportu (Dz. U. poz. 2380). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568 i 695.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Rodzaje wydatków objętych wsparciem
+#### Rozdział 2 – Rodzaje wydatków objętych wsparciem
 
-#### Rozdział 3 Finansowanie lub dofinansowanie realizacji zadań z zakresu kultury fizycznej objętych wsparciem
+#### Rozdział 3 – Finansowanie lub dofinansowanie realizacji zadań z zakresu kultury fizycznej objętych wsparciem
 
-#### Rozdział 4 Finansowanie lub dofinansowanie realizacji zadań z zakresu zwalczania epidemii objętych wsparciem
+#### Rozdział 4 – Finansowanie lub dofinansowanie realizacji zadań z zakresu zwalczania epidemii objętych wsparciem
 
-#### Rozdział 5 Umowa, płatności i rozliczenie
+#### Rozdział 5 – Umowa, płatności i rozliczenie
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

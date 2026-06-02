@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 7 grudnia 2022 r. w sprawie udzielania pomocy na rozwój infrastruktury szerokopasmowej w ramach Krajowego Planu Odbudowy i Zwiększania Odporności
+# Rozporządzenie Ministra Cyfryzacjiz dnia 7 grudnia 2022 r. w sprawie udzielania pomocy na rozwój infrastruktury szerokopasmowej w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-07 |
 | Data wydania | 2022-12-13 |
-| Wejście w życie | 2022-12-14 |
 | Ostatnia zmiana | 2024-07-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002604) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2604/text.pdf) |
 
@@ -33,7 +32,7 @@ Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania 
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
-dostępie hurtowym – należy przez to rozumieć dostęp hurtowy, o którym mowa w art. 2 pkt 139 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”;
+dostępie hurtowym – należy przez to rozumieć dostęp hurtowy, o którym mowa w art. 2 pkt 139 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39., zwanego dalej „rozporządzeniem nr 651/2014”;
 2)
 infrastrukturze szerokopasmowej – należy przez to rozumieć sieć szerokopasmową, o której mowa w art. 2 ust. 1 pkt 1 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2022 r. poz. 884 i 2164), lub sieć telekomunikacyjną, o której mowa w art. 2 pkt 35 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2022 r. poz. 1648, 1933 i 2581);
 3)
@@ -71,7 +70,7 @@ zobowiązał się do zapewnienia dostępu hurtowego na równych i niedyskryminuj
 4)
 złożył oświadczenie, że w ramach przedsięwzięcia nie będą finansowane w całości lub w części nałożone na niego przez podmioty publiczne zobowiązania lub obowiązki inne niż wynikające z realizacji umowy o objęcie przedsięwzięcia wsparciem, w szczególności obowiązki lub zobowiązania wynikające z dokonanych rezerwacji częstotliwości lub zasobów orbitalnych;
 5)
-zobowiązał się do realizacji przedsięwzięcia zgodnie z technicznymi kryteriami kwalifikacji określonymi w rozporządzeniu delegowanym Komisji (UE) 2021/2139 z dnia 4 czerwca 2021 r. uzupełniającym rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/852 poprzez ustanowienie technicznych kryteriów kwalifikacji służących określeniu warunków, na jakich dana działalność gospodarcza kwalifikuje się jako wnosząca istotny wkład w łagodzenie zmian klimatu lub w adaptację do zmian klimatu, a także określeniu, czy ta działalność gospodarcza nie wyrządza poważnych szkód względem żadnego z pozostałych celów środowiskowych (Dz. Urz. UE L 442 z 09.12.2021, str. 1, z późn. zm.), w tym do ponownego użycia lub poddania recyklingowi co najmniej 70% odpadów z procesu inwestycyjnego oraz późniejszej eksploatacji sieci NGA;
+zobowiązał się do realizacji przedsięwzięcia zgodnie z technicznymi kryteriami kwalifikacji określonymi w rozporządzeniu delegowanym Komisji (UE) 2021/2139 z dnia 4 czerwca 2021 r. uzupełniającym rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/852 poprzez ustanowienie technicznych kryteriów kwalifikacji służących określeniu warunków, na jakich dana działalność gospodarcza kwalifikuje się jako wnosząca istotny wkład w łagodzenie zmian klimatu lub w adaptację do zmian klimatu, a także określeniu, czy ta działalność gospodarcza nie wyrządza poważnych szkód względem żadnego z pozostałych celów środowiskowych (Dz. Urz. UE L 442 z 09.12.2021, str. 1, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 188 z 15.07.2022, str. 1.), w tym do ponownego użycia lub poddania recyklingowi co najmniej 70% odpadów z procesu inwestycyjnego oraz późniejszej eksploatacji sieci NGA;
 6)
 zobowiązał się do realizacji przedsięwzięcia zgodnie z właściwymi przepisami dotyczącymi ochrony środowiska.
 3.
@@ -112,7 +111,7 @@ niezbędnych nakładów inwestycyjnych, takich jak:
 – koszty najmu, dzierżawy lub leasingu sieci pasywnej, a także elementów infrastruktury elektroenergetycznej, sanitarnej, wodociągowej oraz kanałów technologicznych, o których mowa w art. 4 pkt 15a ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2022 r. poz. 1693, 1768, 1783 i 2185),
 – koszty inwestycyjne budowy sieci NGA, w tym związane z przebudową lub rozbudową sieci szerokopasmowej do standardu sieci NGA,
 – opłaty publicznoprawne związane z przygotowaniem i realizacją przedsięwzięcia, w szczególności za wydanie decyzji, zgód i zezwoleń,
-– koszty przygotowania dokumentacji powykonawczej, o której mowa w art. 3 pkt 14 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2021 r. poz. 2351, z późn. zm.),
+– koszty przygotowania dokumentacji powykonawczej, o której mowa w art. 3 pkt 14 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2021 r. poz. 2351, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 88, 1557, 1768, 1783, 1846 i 2206.),
 b)
 kosztów operacyjnych,
 c)
@@ -124,6 +123,5 @@ W wyniku analizy, o której mowa w ust. 3 pkt 1, w ogłoszeniu o naborze określ
 § 8.
 Pomoc podlega indywidualnej notyfikacji Komisji Europejskiej w przypadku określonym w art. 4 ust. 1 lit. y rozporządzenia nr 651/2014.
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 188 z 15.07.2022, str. 1. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 88, 1557, 1768, 1783, 1846 i 2206.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 188 z 15.07.2022, str. 1. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 88, 1557, 1768, 1783, 1846 i 2206.
 

@@ -38,24 +38,19 @@ rozporządzeniem Ministra Zdrowia z dnia 15 maja 2018 r. zmieniającym rozporzą
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Zdrowia z dnia 10 kwietnia 2017 r. zmieniającego rozporządzenie w sprawie nadania statutu Agencji Oceny Technologii Medycznych i Taryfikacji (Dz. U. poz. 815), który stanowi:
-„
+§ 2 rozporządzenia Ministra Zdrowia z dnia 10 kwietnia 2017 r. zmieniającego rozporządzenie w sprawie nadania statutu Agencji Oceny Technologii Medycznych i Taryfikacji (Dz. U. poz. 815), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Zdrowia z dnia 15 maja 2018 r. zmieniającego rozporządzenie w sprawie nadania statutu Agencji Oceny Technologii Medycznych i Taryfikacji (Dz. U. poz. 953), który stanowi:
-„
+§ 2 rozporządzenia Ministra Zdrowia z dnia 15 maja 2018 r. zmieniającego rozporządzenie w sprawie nadania statutu Agencji Oceny Technologii Medycznych i Taryfikacji (Dz. U. poz. 953), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 15 grudnia 2014 r. w sprawie nadania statutu Agencji Oceny Technologii Medycznych i Taryfikacji
-Na podstawie art. 31m ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 15 grudnia 2014 r. w sprawie nadania statutu Agencji Oceny Technologii Medycznych i TaryfikacjiMinister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
+Na podstawie art. 31m ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697, 730, 771, 858, 912, 932, 1115 i 1128.) zarządza się, co następuje:
 § 1.
 Agencji Oceny Technologii Medycznych i Taryfikacji nadaje się statut, stanowiący załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697, 730, 771, 858, 912, 932, 1115 i 1128. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 18 sierpnia 2009 r. w sprawie nadania statutu Agencji Oceny Technologii Medycznych (Dz. U. poz. 1102 oraz z 2014 r. poz. 168), które utraciło moc z dniem wejścia w życie ustawy z dnia 22 lipca 2014 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1138 i 1491).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 18 sierpnia 2009 r. w sprawie nadania statutu Agencji Oceny Technologii Medycznych (Dz. U. poz. 1102 oraz z 2014 r. poz. 168), które utraciło moc z dniem wejścia w życie ustawy z dnia 22 lipca 2014 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1138 i 1491). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697, 730, 771, 858, 912, 932, 1115 i 1128. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 18 sierpnia 2009 r. w sprawie nadania statutu Agencji Oceny Technologii Medycznych (Dz. U. poz. 1102 oraz z 2014 r. poz. 168), które utraciło moc z dniem wejścia w życie ustawy z dnia 22 lipca 2014 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1138 i 1491).
 Załącznik – Statut Agencji Oceny Technologii Medycznych i Taryfikacji
 § 1.
 1.
@@ -73,8 +68,8 @@ Biuro Prawne;
 4)
 Biuro Prezesa;
 5)
-(uchylony);
-5a)
+(uchylony);Przez § 1 pkt 1 lit. a rozporządzenia Ministra Zdrowia z dnia 10 kwietnia 2017 r. zmieniającego rozporządzenie w sprawie nadania statutu Agencji Oceny Technologii Medycznych i Taryfikacji (Dz. U. poz. 815), które weszło w życie z dniem 6 maja 2017 r.
+5aDodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 4.)
 Wydział Świadczeń Opieki Zdrowotnej;
 6)
 Wydział Oceny Technologii Medycznych;
@@ -86,20 +81,20 @@ Wydział Informatyki;
 Samodzielne Stanowisko Pracy Rzecznika Prasowego;
 10)
 Samodzielne Stanowisko Pracy do spraw Audytu Wewnętrznego.
-4.
+4Dodany przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 15 maja 2018 r. zmieniającego rozporządzenie w sprawie nadania statutu Agencji Oceny Technologii Medycznych i Taryfikacji (Dz. U. poz. 953), które weszło w życie z dniem 5 czerwca 2018 r..
 W ramach komórek organizacyjnych Agencji wydzielone przez Prezesa Agencji zespoły mogą wykonywać zadania Agencji poza jej siedzibą.
-§ 2.
+§ 2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4..
 1.
 Prezesowi Agencji bezpośrednio podlegają komórki organizacyjne, o których mowa w § 1 ust. 3 pkt 1–5a oraz 8–10.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 6..
 Zastępcy Prezesa Agencji bezpośrednio podlegają komórki organizacyjne, o których mowa w § 1 ust. 3 pkt 6 i 7.
 3.
-(uchylony).
-4.
+(uchylony).Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 6.
+4W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 6..
 Prezesa Agencji, w razie jego nieobecności, zastępuje Zastępca Prezesa Agencji. W razie nieobecności Zastępcy Prezesa Agencji Prezesa Agencji zastępuje Dyrektor Biura Prezesa.
 § 3.
 1.
-Do zadań Zastępcy Prezesa Agencji należy:
+Do zadań Zastępcy Prezesa Agencji należy:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 6.
 1)
 planowanie i organizowanie realizacji zadań podległych komórek organizacyjnych;
 2)
@@ -112,8 +107,8 @@ występowanie do Prezesa Agencji z wnioskami w sprawach personalnych pracownikó
 przygotowywanie sprawozdań i informacji dotyczących prac podległych komórek organizacyjnych w zakresie i terminach określonych przez Prezesa Agencji;
 6)
 wykonywanie innych poleceń Prezesa Agencji.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 6..
 Zastępca Prezesa Agencji reprezentuje Agencję na zewnątrz w zakresie udzielonego przez Prezesa Agencji upoważnienia.
 § 4.
-Szczegółowy zakres działania komórek organizacyjnych, o których mowa w § 1 ust. 3, ich wewnętrzną organizację oraz tryb pracy określa regulamin organizacyjny nadany przez Prezesa Agencji.
+Szczegółowy zakres działania komórek organizacyjnych, o których mowa w § 1 ust. 3, ich wewnętrzną organizację oraz tryb pracy określa regulamin organizacyjny nadany przez Prezesa Agencji. 4) Przez § 1 pkt 1 lit. a rozporządzenia Ministra Zdrowia z dnia 10 kwietnia 2017 r. zmieniającego rozporządzenie w sprawie nadania statutu Agencji Oceny Technologii Medycznych i Taryfikacji (Dz. U. poz. 815), które weszło w życie z dniem 6 maja 2017 r. 5) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 4. 6) Dodany przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 15 maja 2018 r. zmieniającego rozporządzenie w sprawie nadania statutu Agencji Oceny Technologii Medycznych i Taryfikacji (Dz. U. poz. 953), które weszło w życie z dniem 5 czerwca 2018 r. 7) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 8) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 6. 9) Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 6. 10) W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 6. 11) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 6. 12) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 6.
 

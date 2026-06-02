@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-12-05 |
 | Data wydania | 2008-12-24 |
-| Wejście w życie | 2009-03-31 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082341572) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1572/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. Nr 60, poz. 535, z późn. zm.) wprowadza się następujące zmiany:
+Postępowanie upadłościowe wobec osób fizycznych nieprowadzących działalności gospodarczej
+
+**Art. 1.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. Nr 60, poz. 535, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 217, poz. 2125, z 2004 r. Nr 91, poz. 870 i 871, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808 i Nr 210, poz. 2135, z 2005 r. Nr 94, poz. 785, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 47, poz. 347, Nr 133, poz. 935 i Nr 157, poz. 1119, z 2007 r. Nr 123, poz. 850 i Nr 179, poz. 1279 oraz z 2008 r. Nr 96, poz. 606 i Nr 116, poz. 731.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 ust. 1 otrzymuje brzmienie: „
 
@@ -40,7 +41,7 @@ source: "eli-html"
 - **3)** zasady postępowania naprawczego wobec przedsiębiorców zagrożonych niewypłacalnością. ” ;
 - **2)** w części trzeciej dodaje się tytuł V w brzmieniu: „
 
-## Tytuł V. Postępowanie upadłościowe wobec osób fizycznych nieprowadzących działalności gospodarczej
+## Tytuł V.
 
 **Art. 4911.** Przepisy niniejszego tytułu stosuje się wobec osób fizycznych, do których nie mają zastosowania przepisy działu II tytułu I części pierwszej.
 
@@ -125,9 +126,9 @@ source: "eli-html"
 
 4. O umorzeniu niezaspokojonych zobowiązań upadłego oraz o zakończeniu postępowania upadłościowego sąd orzeka na wniosek upadłego, po przeprowadzeniu rozprawy, o której terminie zawiadamia wszystkich wierzycieli objętych planem spłaty wierzycieli. Na postanowienie sądu przysługuje zażalenie. ” .
 
-**Art. 2.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. Nr 167, poz. 1398, z późn. zm.) w art. 75 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+**Art. 2.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. Nr 167, poz. 1398, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 126, poz. 876, z 2007 r. Nr 21, poz. 123, Nr 82, poz. 560, Nr 123, poz. 849, Nr 125, poz. 873 i Nr 191, poz. 1371 oraz z 2008 r. Nr 228, poz. 1524 i Nr 234, poz. 1571.) w art. 75 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
 
 - **5)** wniosku o ogłoszenie upadłości osoby fizycznej nieprowadzącej działalności gospodarczej. ” .
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 217, poz. 2125, z 2004 r. Nr 91, poz. 870 i 871, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808 i Nr 210, poz. 2135, z 2005 r. Nr 94, poz. 785, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 47, poz. 347, Nr 133, poz. 935 i Nr 157, poz. 1119, z 2007 r. Nr 123, poz. 850 i Nr 179, poz. 1279 oraz z 2008 r. Nr 96, poz. 606 i Nr 116, poz. 731. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 126, poz. 876, z 2007 r. Nr 21, poz. 123, Nr 82, poz. 560, Nr 123, poz. 849, Nr 125, poz. 873 i Nr 191, poz. 1371 oraz z 2008 r. Nr 228, poz. 1524 i Nr 234, poz. 1571.
 

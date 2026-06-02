@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 20 listopada 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie warunków wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów
+# Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 20 listopada 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie warunków wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -26,19 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002227) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2227/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Finansów z dnia 29 stycznia 2018 r. w sprawie warunków wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów Rozdział 1 – Przepisy ogólne Rozdział 2 – Wykonywanie kontroli na przejściach granicznych, w oddziałach celnych urzędów celno-skarbowych albo miejscu wyznaczonym lub uznanym przez organ Krajowej Administracji Skarbowej do przedstawienia towaru i czasowego składowania Rozdział 3 – Wykonywanie kontroli w siedzibie, w miejscu prowadzenia działalności gospodarczej oraz miejscu zamieszkania kontrolowanego Rozdział 4 – Wykonywanie kontroli w miejscach innych niż urząd celno-skarbowy albo miejsce wyznaczone lub uznane przez organ Krajowej Administracji Skarbowej do przedstawienia towaru i czasowego składowania oraz innych niż siedziba, miejsce prowadzenia działalności gospodarczej oraz miejsce zamieszkania kontrolowanego Rozdział 5 – Wykonywanie kontroli stosowania procedur celnych Rozdział 6 – Wykonywanie kontroli działalności składów celnych i działalności wolnego obszaru celnego Rozdział 7 – Wykonywanie kontroli wynikających ze Wspólnej Polityki Rolnej Rozdział 8 – Przepis końcowy
+Załącznik – Rozporządzenie Ministra Finansów z dnia 29 stycznia 2018 r. w sprawie warunków wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 29 stycznia 2018 r. w sprawie warunków wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów (Dz. U. poz. 349), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. zmieniającym rozporządzenie w sprawie warunków wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów (Dz. U. poz. 1933).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. zmieniającego rozporządzenie w sprawie warunków wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów (Dz. U. poz. 1933), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. zmieniającego rozporządzenie w sprawie warunków wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów (Dz. U. poz. 1933), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
-Załącznik – Rozporządzenie Ministra Finansów z dnia 29 stycznia 2018 r. w sprawie warunków wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Załącznik – Rozporządzenie Ministra Finansów z dnia 29 stycznia 2018 r. w sprawie warunków wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarówObecnie działem administracji rządowej – finanse publiczne kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 Na podstawie art. 89 ust. 1 pkt 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2020 r. poz. 505, 568, 695, 1087 i 1106) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa warunki wykonywania kontroli celno-skarbowej:
 1)
@@ -50,10 +48,9 @@ stosowania receptur, o których mowa w pkt 2, oraz prawidłowości deklaracji do
 4)
 działalności zakładów produkcyjnych i przetwórczych w zakresie prawidłowości deklaracji dotyczących surowców wykorzystywanych przy produkcji towarów wywożonych z wnioskiem o refundację wywozową,
 5)
-prawidłowości wypłaty refundacji wywozowych przyznawanych w przypadku wywozu produktów rolnych do państw trzecich, realizowanych w ramach finansowania wspólnej polityki rolnej, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającym rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.) i na zasadach określonych w tytule V rozdziale III tego rozporządzenia,
+prawidłowości wypłaty refundacji wywozowych przyznawanych w przypadku wywozu produktów rolnych do państw trzecich, realizowanych w ramach finansowania wspólnej polityki rolnej, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającym rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 130 z 19.05.2016, str. 11, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 327 z 09.12.2017, str. 83 oraz Dz. Urz. UE L 350 z 29.12.2017, str. 15. i na zasadach określonych w tytule V rozdziale III tego rozporządzenia,
 6)
-wywozu z terytorium Rzeczypospolitej Polskiej i przywozu na terytorium Rzeczypospolitej Polskiej towarów podlegających ograniczeniom lub zakazom
-zwanej dalej „kontrolą”.
+wywozu z terytorium Rzeczypospolitej Polskiej i przywozu na terytorium Rzeczypospolitej Polskiej towarów podlegających ograniczeniom lub zakazom – zwanej dalej „kontrolą”.
 § 2.
 Kontrola autentyczności dokumentów polega na:
 1)
@@ -74,11 +71,12 @@ innych czynnościach podejmowanych wobec dokumentów zmierzających do ustalenia
 Rewizję przeprowadza się na podstawie analizy ryzyka lub wyników kontroli dokumentów, wyników oględzin lub wyników kontroli wykonywanej z użyciem urządzeń technicznych lub psów służbowych.
 § 4.
 Kontrolę przeprowadza się w warunkach niezagrażających bezpieczeństwu osób i mienia.
-§ 5.
+Wykonywanie kontroli na przejściach granicznych, w oddziałach celnych urzędów celno-skarbowych albo miejscu wyznaczonym lub uznanym przez organ Krajowej Administracji Skarbowej do przedstawienia towaru i czasowego składowania
+§ 5W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. zmieniającego rozporządzenie w sprawie warunków wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów (Dz. U. poz. 1933), które weszło w życie z dniem 26 października 2019 r..
 Funkcjonariusz Służby Celno-Skarbowej, zwany dalej „funkcjonariuszem”, przystępując do kontroli, podaje podstawę prawną podjęcia kontroli.
 § 6.
 1.
-Kontrolę towarów zgłoszonych wprowadzanych na obszar celny Unii Europejskiej i wyprowadzanych z tego obszaru wykonuje się przez podjęcie czynności określonych w przepisach tytułu V w rozdziale 3 rozporządzenia wykonawczego Komisji (UE) 2015/2447 z dnia 24 listopada 2015 r. ustanawiającego szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 ustanawiającego unijny kodeks celny (Dz. Urz. UE L 343 z 29.12.2015, str. 558, z późn. zm.).
+Kontrolę towarów zgłoszonych wprowadzanych na obszar celny Unii Europejskiej i wyprowadzanych z tego obszaru wykonuje się przez podjęcie czynności określonych w przepisach tytułu V w rozdziale 3 rozporządzenia wykonawczego Komisji (UE) 2015/2447 z dnia 24 listopada 2015 r. ustanawiającego szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 ustanawiającego unijny kodeks celny (Dz. Urz. UE L 343 z 29.12.2015, str. 558, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 101 z 13.04.2017, str. 200 oraz Dz. Urz. UE L 149 z 13.06.2017, str. 19..
 2.
 Kontrola towarów wprowadzanych na obszar celny Unii Europejskiej przed objęciem towaru procedurą celną jest wykonywana przez weryfikację:
 1)
@@ -113,8 +111,7 @@ o ilości lub wartości przywożonego lub wywożonego towaru,
 b)
 o całkowitym wykorzystaniu pozwolenia, zezwolenia, licencji lub innego dokumentu, jeżeli towar objęty pozwoleniem, zezwoleniem, licencją lub innym dokumentem został w całości przywieziony lub wywieziony,
 2)
-zwrócić oryginał pozwolenia, zezwolenia, licencji lub innego dokumentu zgłaszającemu
-chyba że przepisy odrębne określają inny sposób postępowania lub pozwolenie, zezwolenie, licencja lub inny dokument obsługiwany jest w postaci elektronicznej.
+zwrócić oryginał pozwolenia, zezwolenia, licencji lub innego dokumentu zgłaszającemu – chyba że przepisy odrębne określają inny sposób postępowania lub pozwolenie, zezwolenie, licencja lub inny dokument obsługiwany jest w postaci elektronicznej.
 § 9.
 1.
 Kontrola wyrobów akcyzowych podlegających oznaczaniu znakami akcyzy, na podstawie przepisów o podatku akcyzowym, jest wykonywana przez sprawdzenie prawidłowości naniesienia znaków akcyzy na wyrób akcyzowy oraz sprawdzenie, czy znaki akcyzy:
@@ -141,6 +138,7 @@ ewidencja towarów składowanych w magazynie czasowego składowania jest prowadz
 ilość towarów znajdujących się w magazynie czasowego składowania jest zgodna z ilością wykazaną w ewidencji towarów składowanych w magazynie czasowego składowania oraz innych dokumentach dotyczących towaru.
 2.
 W przypadkach uzasadnionych rezultatami analizy ryzyka, kontrola, o której mowa w ust. 1, może być wykonywana również przy wprowadzeniu towarów do magazynu czasowego składowania w obecności funkcjonariusza.
+Wykonywanie kontroli w siedzibie, w miejscu prowadzenia działalności gospodarczej oraz miejscu zamieszkania kontrolowanego
 § 12.
 1.
 Kontrola stosowania uproszczeń, których sposób weryfikacji nie został określony w przepisach prawa celnego, wykonywana jest przez ustalenie, czy posiadacz pozwolenia nie naruszył:
@@ -162,6 +160,7 @@ przechowanie ich u kontrolowanego w oddzielnym, zamkniętym pomieszczeniu, na kt
 nałożenie zamknięć urzędowych i oddanie za pokwitowaniem na przechowanie podmiotowi podlegającemu kontroli;
 3)
 odebranie ich za pokwitowaniem.
+Wykonywanie kontroli w miejscach innych niż urząd celno-skarbowy albo miejsce wyznaczone lub uznane przez organ Krajowej Administracji Skarbowej do przedstawienia towaru i czasowego składowania oraz innych niż siedziba, miejsce prowadzenia działalności gospodarczej oraz miejsce zamieszkania kontrolowanego
 § 14.
 1.
 Legitymację służbową, w przypadkach, o których mowa w art. 62 ust. 5 pkt 1, 2, 4 i 5 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, zwanej dalej „ustawą”, okazuje się w sposób umożliwiający odczytanie i odnotowanie danych funkcjonariusza, w szczególności jego stopnia, imienia i nazwiska oraz nazwy organu, który wydał ten dokument.
@@ -169,6 +168,7 @@ Legitymację służbową, w przypadkach, o których mowa w art. 62 ust. 5 pkt 1,
 W przypadku gdy w wyniku przeprowadzonych czynności kontrolnych nie stwierdzono nieprawidłowości, funkcjonariusz poucza kontrolowanego o prawie złożenia żądania sporządzenia protokołu z wykonanych czynności kontrolnych.
 § 15.
 Kontrola jest wykonywana w miejscu, w którym są zapewnione warunki do jej przeprowadzenia.
+Wykonywanie kontroli stosowania procedur celnych
 § 16.
 1.
 Kontrola stosowania procedury dopuszczenia do obrotu jest wykonywana przez sprawdzenie przestrzegania obowiązujących przepisów prawa celnego warunkujących dopuszczalność zastosowania tej procedury.
@@ -266,6 +266,7 @@ Kontrola, o której mowa w ust. 1, jest wykonywana w szczególności przez weryf
 danych z komunikatów przesyłanych w systemie informatycznym obsługi wywozowych zgłoszeń celnych;
 2)
 zgodności faktycznie wywożonego towaru z danymi zawartymi w zgłoszeniu celnym oraz w dokumentach stanowiących załączniki do zgłoszenia celnego.
+Wykonywanie kontroli działalności składów celnych i działalności wolnego obszaru celnego
 § 23.
 1.
 Kontrola działalności składu celnego, w tym stosowania procedury składowania celnego, jest wykonywana przez sprawdzenie zgodności prowadzenia tej działalności z przepisami prawa celnego i udzielonym pozwoleniem, w tym przez sprawdzenie, czy:
@@ -280,8 +281,7 @@ operacje dotyczące:
 a)
 składowania towarów unijnych nieobjętych procedurą składowania celnego,
 b)
-przetwarzania towarów objętych procedurą uszlachetniania czynnego lub procedurą końcowego przeznaczenia w składzie celnym
-nie ograniczają możliwości sprawowania dozoru celnego;
+przetwarzania towarów objętych procedurą uszlachetniania czynnego lub procedurą końcowego przeznaczenia w składzie celnym – nie ograniczają możliwości sprawowania dozoru celnego;
 5)
 ilość i tożsamość towarów znajdujących się w składzie celnym jest zgodna z zapisami w ewidencji oraz w dokumentach celnych;
 6)
@@ -310,6 +310,7 @@ ewidencja jest prowadzona zgodnie z zasadami określonymi przez organ Krajowej A
 spełnione są wymogi, od których przepisy prawa celnego uzależniają udzielenie zgody na prowadzenie działalności gospodarczej w wolnym obszarze celnym;
 9)
 przestrzegane są terminy pozostawania towarów w wolnym obszarze celnym, jeżeli terminy takie zostały wyznaczone.
+Wykonywanie kontroli wynikających ze Wspólnej Polityki Rolnej
 § 25.
 1.
 Kontrola przystosowania zakładów produkcyjnych do rejestrowania receptur we właściwej agencji płatniczej i stosowania receptur zarejestrowanych we właściwej agencji płatniczej, ustanowionej zgodnie z art. 3 ustawy z dnia 30 lipca 2003 r. o uruchamianiu środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej, jest wykonywana przez sprawdzenie, czy:
@@ -356,11 +357,11 @@ ilość, wartość, tożsamość oraz stan towaru złożonego w magazynie są zg
 4)
 rejestry magazynowe są prowadzone prawidłowo;
 5)
-towar wyprowadzany z magazynu dostarczany jest zgodnie z przeznaczeniem do miejsc wskazanych w art. 37 ust. 1 rozporządzenia Komisji (WE) nr 612/2009 z dnia 7 lipca 2009 r. ustanawiającego wspólne szczegółowe zasady stosowania systemu refundacji wywozowych do produktów rolnych (Dz. Urz. UE L 186 z 17.07.2009, str. 1, z późn. zm.);
+towar wyprowadzany z magazynu dostarczany jest zgodnie z przeznaczeniem do miejsc wskazanych w art. 37 ust. 1 rozporządzenia Komisji (WE) nr 612/2009 z dnia 7 lipca 2009 r. ustanawiającego wspólne szczegółowe zasady stosowania systemu refundacji wywozowych do produktów rolnych (Dz. Urz. UE L 186 z 17.07.2009, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 86 z 01.04.2010, str. 15, Dz. Urz. UE L 310 z 26.11.2010, str. 1, Dz. Urz. UE L 49 z 24.02.2011, str. 16, Dz. Urz. UE L 158 z 10.06.2013, str. 74 oraz Dz. Urz. UE L 255 z 28.08.2014, str. 18.;
 6)
 przestrzegane są terminy przechowywania towarów w magazynie.
 § 30.
-Kontrola podmiotu wnioskującego o udzielenie pozwolenia na prowadzenie składu celnego, w którym składowane będą towary na podstawie rozporządzenia Komisji (WE) nr 1741/2006 z dnia 24 listopada 2006 r. ustanawiającego warunki przyznawania specjalnych refundacji wywozowych do wołowiny bez kości z dorosłego bydła płci męskiej, objętej procedurą składu celnego przed wywozem (Dz. Urz. UE L 329 z 25.11.2006, str. 7, z późn. zm.), jest wykonywana przez ustalenie, czy wnioskodawca spełnia określone przepisami prawa warunki do udzielenia pozwolenia oraz warunki związane z prowadzeniem przez wnioskodawcę komputerowej bazy danych produktów objętych procedurą składowania celnego.
+Kontrola podmiotu wnioskującego o udzielenie pozwolenia na prowadzenie składu celnego, w którym składowane będą towary na podstawie rozporządzenia Komisji (WE) nr 1741/2006 z dnia 24 listopada 2006 r. ustanawiającego warunki przyznawania specjalnych refundacji wywozowych do wołowiny bez kości z dorosłego bydła płci męskiej, objętej procedurą składu celnego przed wywozem (Dz. Urz. UE L 329 z 25.11.2006, str. 7, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 215 z 20.08.2009, str. 5 oraz Dz. Urz. UE L 49 z 24.02.2011, str. 16., jest wykonywana przez ustalenie, czy wnioskodawca spełnia określone przepisami prawa warunki do udzielenia pozwolenia oraz warunki związane z prowadzeniem przez wnioskodawcę komputerowej bazy danych produktów objętych procedurą składowania celnego.
 § 31.
 1.
 Do kontroli składu celnego, w którym składowana jest przed wywozem wołowina bez kości z dorosłego bydła płci męskiej, stosuje się odpowiednio § 23.
@@ -369,7 +370,7 @@ Organ Krajowej Administracji Skarbowej przeprowadza rocznie co najmniej dwie kon
 3.
 Funkcjonariusz w szczególności sprawdza stan rzeczywisty z danymi zawartymi w komputerowej bazie danych.
 § 32.
-Kontrola miejsca przeznaczonego do wykorzystania cielęciny i wołowiny do produkcji konserw kwalifikujących się do refundacji na podstawie rozporządzenia Komisji (WE) nr 1731/2006 z dnia 23 listopada 2006 r. w sprawie szczególnych zasad stosowania refundacji wywozowych w odniesieniu do niektórych konserw z wołowiny i cielęciny (Dz. Urz. UE L 325 z 24.11.2006, str. 12, z późn. zm.), zwanego dalej „rozporządzeniem nr 1731/2006”, jest wykonywana przez ustalenie, czy:
+Kontrola miejsca przeznaczonego do wykorzystania cielęciny i wołowiny do produkcji konserw kwalifikujących się do refundacji na podstawie rozporządzenia Komisji (WE) nr 1731/2006 z dnia 23 listopada 2006 r. w sprawie szczególnych zasad stosowania refundacji wywozowych w odniesieniu do niektórych konserw z wołowiny i cielęciny (Dz. Urz. UE L 325 z 24.11.2006, str. 12, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 29 z 02.02.2008, str. 5, Dz. Urz. UE L 300 z 11.11.2008, str. 31 oraz Dz. Urz. UE L 167 z 19.06.2013, str. 26.), zwanego dalej „rozporządzeniem nr 1731/2006”, jest wykonywana przez ustalenie, czy:
 1)
 osoba, która dokonuje przetwarzania, prowadzi działalność zgodnie z zasadami wskazanymi w przepisach prawa celnego;
 2)
@@ -409,23 +410,39 @@ składu produktu – w przypadku towarów przetworzonych;
 terminowego wywozu w stanie niezmienionym;
 11)
 innych szczególnych kryteriów wynikających z przepisów prawa.
+Przepis końcowy
 § 34.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – finanse publiczne kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 130 z 19.05.2016, str. 11, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 327 z 09.12.2017, str. 83 oraz Dz. Urz. UE L 350 z 29.12.2017, str. 15. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. zmieniającego rozporządzenie w sprawie warunków wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów (Dz. U. poz. 1933), które weszło w życie z dniem 26 października 2019 r. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 101 z 13.04.2017, str. 200 oraz Dz. Urz. UE L 149 z 13.06.2017, str. 19. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 86 z 01.04.2010, str. 15, Dz. Urz. UE L 310 z 26.11.2010, str. 1, Dz. Urz. UE L 49 z 24.02.2011, str. 16, Dz. Urz. UE L 158 z 10.06.2013, str. 74 oraz Dz. Urz. UE L 255 z 28.08.2014, str. 18. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 215 z 20.08.2009, str. 5 oraz Dz. Urz. UE L 49 z 24.02.2011, str. 16. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 29 z 02.02.2008, str. 5, Dz. Urz. UE L 300 z 11.11.2008, str. 31 oraz Dz. Urz. UE L 167 z 19.06.2013, str. 26. 8) Rozporządzenie zostało ogłoszone w dniu 12 lutego 2018 r. 9) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 21 stycznia 2011 r. w sprawie wykonywania kontroli przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów (Dz. U. z 2017 r. poz. 1313), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 12 lutego 2018 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 21 stycznia 2011 r. w sprawie wykonywania kontroli przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów (Dz. U. z 2017 r. poz. 1313), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409). 1) Obecnie działem administracji rządowej – finanse publiczne kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 130 z 19.05.2016, str. 11, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 327 z 09.12.2017, str. 83 oraz Dz. Urz. UE L 350 z 29.12.2017, str. 15. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. zmieniającego rozporządzenie w sprawie warunków wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów (Dz. U. poz. 1933), które weszło w życie z dniem 26 października 2019 r. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 101 z 13.04.2017, str. 200 oraz Dz. Urz. UE L 149 z 13.06.2017, str. 19. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 86 z 01.04.2010, str. 15, Dz. Urz. UE L 310 z 26.11.2010, str. 1, Dz. Urz. UE L 49 z 24.02.2011, str. 16, Dz. Urz. UE L 158 z 10.06.2013, str. 74 oraz Dz. Urz. UE L 255 z 28.08.2014, str. 18. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 215 z 20.08.2009, str. 5 oraz Dz. Urz. UE L 49 z 24.02.2011, str. 16. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 29 z 02.02.2008, str. 5, Dz. Urz. UE L 300 z 11.11.2008, str. 31 oraz Dz. Urz. UE L 167 z 19.06.2013, str. 26. 8) Rozporządzenie zostało ogłoszone w dniu 12 lutego 2018 r. 9) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 21 stycznia 2011 r. w sprawie wykonywania kontroli przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów (Dz. U. z 2017 r. poz. 1313), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Wykonywanie kontroli na przejściach granicznych, w oddziałach celnych urzędów celno-skarbowych albo miejscu wyznaczonym lub uznanym przez organ Krajowej Administracji Skarbowej do przedstawienia towaru i czasowego składowania
+#### Rozdział 2 – Wykonywanie kontroli na przejściach granicznych, w oddziałach celnych urzędów celno-skarbowych albo miejscu wyznaczonym lub uznanym przez organ Krajowej Administracji Skarbowej do przedstawienia towaru i czasowego składowania
 
-#### Rozdział 3 Wykonywanie kontroli w siedzibie, w miejscu prowadzenia działalności gospodarczej oraz miejscu zamieszkania kontrolowanego
+#### Rozdział 3 – Wykonywanie kontroli w siedzibie, w miejscu prowadzenia działalności gospodarczej oraz miejscu zamieszkania kontrolowanego
 
-#### Rozdział 4 Wykonywanie kontroli w miejscach innych niż urząd celno-skarbowy albo miejsce wyznaczone lub uznane przez organ Krajowej Administracji Skarbowej do przedstawienia towaru i czasowego składowania oraz innych niż siedziba, miejsce prowadzenia działalności gospodarczej oraz miejsce zamieszkania kontrolowanego
+#### Rozdział 4 – Wykonywanie kontroli w miejscach innych niż urząd celno-skarbowy albo miejsce wyznaczone lub uznane przez organ Krajowej Administracji Skarbowej do przedstawienia towaru i czasowego składowania oraz innych niż siedziba, miejsce prowadzenia działalności gospodarczej oraz miejsce zamieszkania kontrolowanego
 
-#### Rozdział 5 Wykonywanie kontroli stosowania procedur celnych
+#### Rozdział 5 – Wykonywanie kontroli stosowania procedur celnych
 
-#### Rozdział 6 Wykonywanie kontroli działalności składów celnych i działalności wolnego obszaru celnego
+#### Rozdział 6 – Wykonywanie kontroli działalności składów celnych i działalności wolnego obszaru celnego
 
-#### Rozdział 7 Wykonywanie kontroli wynikających ze Wspólnej Polityki Rolnej
+#### Rozdział 7 – Wykonywanie kontroli wynikających ze Wspólnej Polityki Rolnej
 
-#### Rozdział 8 Przepis końcowy
+#### Rozdział 8 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

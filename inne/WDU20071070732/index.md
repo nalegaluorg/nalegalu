@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 maja 2007 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 24 maja 2007 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o ochronie granicy państwowej, ustawę z dnia 14 grudnia 1995 r. o urzędzie Ministra Obrony Narodowej, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 9 listopada 2000 r. o bezpieczeństwie morskim i ustawę z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-05-24 |
 | Data wydania | 2007-06-19 |
-| Wejście w życie | 2007-07-04 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071070732) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/732/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 277, poz. 2742, z 2005 r. Nr 180, poz. 1496 oraz z 2006 r. Nr 104, poz. 708 i 711 i Nr 220, poz. 1600.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3: ust. 3 i 4 otrzymują brzmienie: „
     - **a)**
@@ -129,7 +128,7 @@ source: "eli-html"
 
 3. Decyzję o zastosowaniu środków, o których mowa w ust. 2 pkt 1 i 2 oraz pkt 3 lit. a i b, podejmuje Dowódca Operacyjny Sił Zbrojnych, a środka, o którym mowa w ust. 2 pkt 3 lit. c – Minister Obrony Narodowej. ” .
 
-**Art. 3.** W ustawie z dnia 14 grudnia 1995 r. o urzędzie Ministra Obrony Narodowej (Dz. U. z 1996 r. Nr 10, poz. 56, z późn. zm.) w art. 8 w ust. 1:
+**Art. 3.** W ustawie z dnia 14 grudnia 1995 r. o urzędzie Ministra Obrony Narodowej (Dz. U. z 1996 r. Nr 10, poz. 56, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 102, poz. 474, z 1997 r. Nr 121, poz. 770 i Nr 141, poz. 944, z 1999 r. Nr 11, poz. 95, z 2001 r. Nr 123, poz. 1353 i Nr 154, poz. 1800, z 2002 r. Nr 156, poz. 1301, z 2003 r. Nr 210, poz. 2036 oraz z 2006 r. Nr 104, poz. 711.) w art. 8 w ust. 1:
 
 - **1)** pkt 4 otrzymuje brzmienie: „
 - **4)** określanie celów, kierunków i głównych zadań szkolenia, w tym działalności sportowej w Siłach Zbrojnych, ” ;
@@ -143,7 +142,7 @@ source: "eli-html"
 
 **Art. 5.** W ustawie z dnia 9 listopada 2000 r. o bezpieczeństwie morskim (Dz. U. z 2006 r. Nr 99, poz. 693) w art. 47 ust. 4 otrzymuje brzmienie: „ 4. Radzie SAR przewodniczy Dowódca Operacyjny Sił Zbrojnych. ” .
 
-**Art. 6.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. Nr 179, poz. 1750, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. Nr 179, poz. 1750, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 116, poz. 1203 i Nr 210, poz. 2135, z 2005 r. Nr 122, poz. 1025 oraz z 2006 r. Nr 104, poz. 711, Nr 191, poz. 1414 i Nr 220, poz. 1600 i 1602.) wprowadza się następujące zmiany:
 
 - **1)** po art. 43 dodaje się art. 43a w brzmieniu: „
 
@@ -163,6 +162,6 @@ source: "eli-html"
 **Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 4, który wchodzi w życie z dniem 1 stycznia 2008 r.;
-- **2)** art. 1 pkt 2 w zakresie art. 13b ust. 2 pkt 2 ustawy, o której mowa w art. 1, oraz art. 2 i art. 5, które wchodzą w życie z dniem 1 lipca 2008 r.
+- **2)** art. 1 pkt 2 w zakresie art. 13b ust. 2 pkt 2 ustawy, o której mowa w art. 1, oraz art. 2 i art. 5, które wchodzą w życie z dniem 1 lipca 2008 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o ochronie granicy państwowej, ustawę z dnia 14 grudnia 1995 r. o urzędzie Ministra Obrony Narodowej, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 9 listopada 2000 r. o bezpieczeństwie morskim i ustawę z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 277, poz. 2742, z 2005 r. Nr 180, poz. 1496 oraz z 2006 r. Nr 104, poz. 708 i 711 i Nr 220, poz. 1600. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 102, poz. 474, z 1997 r. Nr 121, poz. 770 i Nr 141, poz. 944, z 1999 r. Nr 11, poz. 95, z 2001 r. Nr 123, poz. 1353 i Nr 154, poz. 1800, z 2002 r. Nr 156, poz. 1301, z 2003 r. Nr 210, poz. 2036 oraz z 2006 r. Nr 104, poz. 711. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 116, poz. 1203 i Nr 210, poz. 2135, z 2005 r. Nr 122, poz. 1025 oraz z 2006 r. Nr 104, poz. 711, Nr 191, poz. 1414 i Nr 220, poz. 1600 i 1602.
 
 

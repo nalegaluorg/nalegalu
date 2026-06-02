@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 8 lipca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 8 lipca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -32,13 +32,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych z dnia 27 lutego 2012 r. w sprawie wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne (Dz. U. poz. 261), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 18 stycznia 2018 r. zmieniającym rozporządzenie w sprawie wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne (Dz. U. poz. 189).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 18 stycznia 2018 r. zmieniającego rozporządzenie w sprawie wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne (Dz. U. poz. 189), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 18 stycznia 2018 r. zmieniającego rozporządzenie w sprawie wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne (Dz. U. poz. 189), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych z dnia 27 lutego 2012 r. w sprawie wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych z dnia 27 lutego 2012 r. w sprawie wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarneObecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 Na podstawie art. 10 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. z 2022 r. poz. 147) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa wymagania dotyczące wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne.
@@ -76,12 +73,12 @@ maszt wraz z kompletem flag przy każdym stanowisku ratowniczym;
 15)
 sprzęt medyczny, leki i artykuły sanitarne.
 2.
-Miejsce okazjonalnie wykorzystywane do kąpieli wyposaża się w:
+Miejsce okazjonalnie wykorzystywane do kąpieli wyposaża się w:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 18 stycznia 2018 r. zmieniającego rozporządzenie w sprawie wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne (Dz. U. poz. 189), które weszło w życie z dniem 24 stycznia 2018 r.
 1)
 ratownicze łodzie wiosłowe – jedna na każde 100 m linii brzegowej;
 2)
 koło ratunkowe z linką nietonącą – jedno na każde 50 m linii brzegowej, umieszczone w pobliżu lustra wody;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 żerdzie ratunkowe – w miejscach okazjonalnie wykorzystywanych do kąpieli posiadających pomosty stałe lub pływające – dwie sztuki;
 4)
 linę asekuracyjną o długości minimum 80 m na kołowrotku lub w zasobniku linowym – jedna na każde 100 m linii brzegowej;
@@ -123,8 +120,7 @@ Wykaz sprzętu medycznego, leków i artykułów sanitarnych, w które wyposaża 
 2.
 Sprzęt medyczny, leki i artykuły sanitarne umieszcza się w łatwej do przenoszenia torbie/plecaku lub torbach/plecakach o miękkich wewnętrznych ścianach, z tkaniny trudno zapalnej, wodoodpornej z uchwytami umożliwiającymi transport w ręku, na ramieniu i na plecach, z łatwym dostępem do niezależnych przegród na sprzęt medyczny, leki i artykuły sanitarne, z elementami odblaskowymi, oznakowanej/oznakowanego krzyżem św. Andrzeja lub znakiem podmiotu uprawnionego do wykonywania ratownictwa wodnego.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Obecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 18 stycznia 2018 r. zmieniającego rozporządzenie w sprawie wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne (Dz. U. poz. 189), które weszło w życie z dniem 24 stycznia 2018 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Rozporządzenie zostało ogłoszone w dniu 9 marca 2012 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 6 maja 1997 r. w sprawie określenia warunków bezpieczeństwa osób przebywających w górach, pływających, kąpiących się i uprawiających sporty wodne (Dz. U. poz. 358), które z dniem wejścia w życie niniejszego rozporządzenia utraciło moc w zakresie dotyczącym wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 9 marca 2012 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 6 maja 1997 r. w sprawie określenia warunków bezpieczeństwa osób przebywających w górach, pływających, kąpiących się i uprawiających sporty wodne (Dz. U. poz. 358), które z dniem wejścia w życie niniejszego rozporządzenia utraciło moc w zakresie dotyczącym wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne. 1) Obecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 18 stycznia 2018 r. zmieniającego rozporządzenie w sprawie wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne (Dz. U. poz. 189), które weszło w życie z dniem 24 stycznia 2018 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Rozporządzenie zostało ogłoszone w dniu 9 marca 2012 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 6 maja 1997 r. w sprawie określenia warunków bezpieczeństwa osób przebywających w górach, pływających, kąpiących się i uprawiających sporty wodne (Dz. U. poz. 358), które z dniem wejścia w życie niniejszego rozporządzenia utraciło moc w zakresie dotyczącym wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne.
 Załącznik – Wykaz sprzętu medycznego, leków i artykułów sanitarnych
 Sprzęt do resuscytacji krążeniowo-oddechowej:
 1.
@@ -148,8 +144,7 @@ Wąsy tlenowe 1 szt.
 10.
 Reduktor tlenowy 1 szt.
 11.
-Butla tlenowa 1 szt.
-Środki opatrunkowe:
+Butla tlenowa 1 szt. Środki opatrunkowe:
 1.
 Gaza jałowa 1 m2 1 szt.
 2.
@@ -201,8 +196,7 @@ Nożyczki zakrzywione 1 szt.
 25.
 Worek czerwony na odpady medyczne 2 szt.
 26.
-Nosze ratunkowe 1 szt.
-Leki:
+Nosze ratunkowe 1 szt. Leki:
 1.
 Środek dezynfekujący 2 szt.
 2.

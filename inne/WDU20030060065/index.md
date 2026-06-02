@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-12-20 |
 | Data wydania | 2003-01-22 |
-| Wejście w życie | 2003-02-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030060065) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/65/text.pdf) |
 
@@ -246,8 +245,12 @@ source: "eli-html"
     - **c)**
 
 - **4d)** wpłaty, o których mowa w art. 37 ust. 8, ” ;
-- **30)** w art. 57: w ust. 1: – uchyla się pkt 12, – pkt 15 otrzymuje brzmienie: „ 15) kosztów wysyłki wezwań, zawiadomień, zakupu lub druku kart rejestracyjnych niezbędnych do ustalenia uprawnień, przekazywania bezrobotnym należnych świadczeń pieniężnych oraz kosztów korespondencji z pracodawcami, ” , – pkt 17 otrzymuje brzmienie: „ 17) kosztów wprowadzania, rozwijania i eksploatacji systemu informatycznego w organach zatrudnienia, ” , – uchyla się pkt 24, – w pkt 32 kropkę zastępuje się przecinkiem i dodaje się pkt 33 w brzmieniu: „ 33) wsparcia programów, o których mowa w art. 37i ust. 1. ” , ust. 3 otrzymuje brzmienie: „
+- **30)** w art. 57: w ust. 1: – uchyla się pkt 12, pkt 15 otrzymuje brzmienie: „
     - **a)**
+
+- **15)** kosztów wysyłki wezwań, zawiadomień, zakupu lub druku kart rejestracyjnych niezbędnych do ustalenia uprawnień, przekazywania bezrobotnym należnych świadczeń pieniężnych oraz kosztów korespondencji z pracodawcami, ” , pkt 17 otrzymuje brzmienie: „
+- **17)** kosztów wprowadzania, rozwijania i eksploatacji systemu informatycznego w organach zatrudnienia, ” , – uchyla się pkt 24, w pkt 32 kropkę zastępuje się przecinkiem i dodaje się pkt 33 w brzmieniu: „
+- **33)** wsparcia programów, o których mowa w art. 37i ust. 1. ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Wydatki, o których mowa w ust. 1 pkt 10, są zwracane z Funduszu Pracy do wysokości najniższych stawek, określonych w odrębnych przepisach obowiązujących w okresie, za który jest dokonywana refundacja. ” , po ust. 7 dodaje się ust. 8 w brzmieniu: „
@@ -341,7 +344,7 @@ source: "eli-html"
 - **1)** nie dopełnia obowiązku opłacania składek na Fundusz Pracy lub nie opłaca ich w przewidzianym przepisami terminie,
 - **2)** nie zgłasza wymaganych przepisami danych lub zgłasza nieprawdziwe dane mające wpływ na wymiar składek na Fundusz Pracy bądź udziela w powyższym zakresie nieprawdziwych wyjaśnień lub odmawia ich udzielania,
 - **3)** ze względu na płeć, wiek, niepełnosprawność, rasę, pochodzenie etniczne, narodowość, orientację seksualną, przekonania, zwłaszcza polityczne i religijne, lub ze względu na przynależność związkową – odmówi zatrudnienia kandydata na wolnym miejscu zatrudnienia lub miejscu przygotowania zawodowego,
-- **4)** prowadząc agencję zatrudnienia, nie przestrzega zasady zakazu dyskryminacji ze względu na płeć, wiek, niepełnosprawność, rasę, pochodzenie etniczne, narodowość, orientację seksualną, przekonania, zwłaszcza polityczne lub religijne, lub ze względu na przynależność związkową podlega karze grzywny nie niższej niż 3 000 zł.
+- **4)** prowadząc agencję zatrudnienia, nie przestrzega zasady zakazu dyskryminacji ze względu na płeć, wiek, niepełnosprawność, rasę, pochodzenie etniczne, narodowość, orientację seksualną, przekonania, zwłaszcza polityczne lub religijne, lub ze względu na przynależność związkową – podlega karze grzywny nie niższej niż 3 000 zł.
 
 **Art. 67.** Kto udaremnia lub utrudnia przeprowadzenie kontroli przestrzegania przepisów ustawy, podlega karze grzywny nie niższej niż 3 000 zł. ” ;
 

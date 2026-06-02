@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 18 marca 2008 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw
+# Ustawa z dnia 18 marca 2008 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2004/83/WE z dnia 29 kwietnia 2004 r. w sprawie minimalnych norm dla kwalifikacji i statusu obywateli państw trzecich lub bezpaństwowców jako uchodźców lub jako osoby, które z innych względów potrzebują międzynarodowej ochrony oraz zawartości przyznawanej pomocy (Dz. Urz. UE L 304 z 30.09.2004, str. 12; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 7, str. 96) oraz dyrektywy Rady 2005/85/WE z dnia 1 grudnia 2005 r. w sprawie ustanowienia minimalnych norm dotyczących procedur nadawania i cofania statusu uchodźcy w Państwach Członkowskich (Dz. Urz. UE L 326 z 13.12.2005, str. 13).
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-03-18 |
 | Data wydania | 2008-04-28 |
-| Wejście w życie | 2008-05-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080700416) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/416/text.pdf) |
 
+Status uchodźcy i ochrona uzupełniająca
+Zasady nadawania, odmowy nadania i pozbawiania statusu uchodźcy oraz udzielania, odmowy udzielenia i pozbawiania ochrony uzupełniającej
+Postępowanie w sprawach nadawania statusu uchodźcy lub udzielania ochrony uzupełniającej oraz pozbawiania statusu uchodźcy lub ochrony uzupełniającej
+Tymczasowe zaświadczenie tożsamości cudzoziemca
+Postępowanie z udziałem małoletnich bez opieki i cudzoziemców, których stan psychofizyczny stwarza domniemanie, że byli poddani przemocy albo są niepełnosprawni
+Pomoc dla cudzoziemców ubiegających się o nadanie statusu uchodźcy
+Zatrzymanie cudzoziemca oraz umieszczenie go w strzeżonym ośrodku lub zastosowanie aresztu w celu wydalenia w postępowaniu w sprawie nadania statusu uchodźcy lub udzielenia ochrony uzupełniającej
+Prawa i obowiązki cudzoziemca, który posiada status uchodźcy lub korzysta z ochrony uzupełniającej
 Szef Urzędu informuje niezwłocznie na piśmie cudzoziemca, któremu nadano status uchodźcy lub udzielono ochrony uzupełniającej, o jego prawach i obowiązkach.
 Cudzoziemcowi, który posiada status uchodźcy lub korzysta z ochrony uzupełniającej, udziela się pomocy w celu wspierania procesu jego integracji ze społeczeństwem, w trybie i na zasadach określonych w ustawie z dnia 12 marca 2004 r. o pomocy społecznej.
 Cudzoziemcowi, który posiada status uchodźcy lub korzysta z ochrony uzupełniającej, przysługują uprawnienia cudzoziemca, któremu udzielono zezwolenia na zamieszkanie na czas oznaczony, o ile przepisy ustawy lub innych ustaw nie stanowią inaczej.
@@ -79,6 +86,7 @@ Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia wz
 dokumentu podróży przewidzianego w Konwencji Genewskiej, uwzględniając postanowienia załącznika do Konwencji Genewskiej;
 2)
 formularza wniosku o wymianę lub wydanie nowego dokumentu podróży przewidzianego w Konwencji Genewskiej, uwzględniając dane, o których mowa w art. 8, dotyczące cudzoziemca i małoletnich dzieci towarzyszących cudzoziemcowi, w zakresie niezbędnym do wymiany lub wydania nowego dokumentu podróży przewidzianego w Konwencji Genewskiej, a także liczbę fotografii i wymogi dotyczące fotografii dołączanych do wniosku.
+Rada do Spraw Uchodźców
 1.
 Rada do Spraw Uchodźców, zwana dalej „Radą”, jest organem administracji publicznej rozpatrującym odwołania od decyzji i zażalenia na postanowienia wydane przez Szefa Urzędu w sprawach prowadzonych na podstawie przepisów niniejszego działu, z wyjątkiem spraw, o których mowa w art. 33 ust. 4–9 oraz w rozdziale 5.
 2.
@@ -137,13 +145,13 @@ prowadzenie rejestru złożonych zażaleń i odwołań oraz wydanych przez Radę
 - **1)** postępowanie o nadanie statusu uchodźcy, udzielenie azylu lub zgody na pobyt tolerowany wobec cudzoziemca jest w toku lub zakończyło się,
 - **2)** cudzoziemcowi nadano lub odmówiono nadania statusu uchodźcy,
 - **3)** cudzoziemcowi udzielono lub odmówiono udzielenia azylu lub zgody na pobyt tolerowany,
-- **4)** cudzoziemcowi udzielono lub odmówiono udzielenia ochrony uzupełniającej nie mogą być udostępniane władzom oraz instytucjom publicznym kraju jego pochodzenia. ” ;
+- **4)** cudzoziemcowi udzielono lub odmówiono udzielenia ochrony uzupełniającej – nie mogą być udostępniane władzom oraz instytucjom publicznym kraju jego pochodzenia. ” ;
 - **6)** art. 12 uchyla się;
 - **7)** dział II otrzymuje brzmienie: „
 
-### Dział II Status uchodźcy i ochrona uzupełniająca
+### Dział II
 
-#### Rozdział 1 Zasady nadawania, odmowy nadania i pozbawiania statusu uchodźcy oraz udzielania, odmowy udzielenia i pozbawiania ochrony uzupełniającej
+#### Rozdział 1
 
 **Art. 13.**
 
@@ -191,7 +199,7 @@ prowadzenie rejestru złożonych zażaleń i odwołań oraz wydanych przez Radę
 
 - **1)** orzeczenie kary śmierci lub wykonanie egzekucji,
 - **2)** tortury, nieludzkie lub poniżające traktowanie albo karanie,
-- **3)** poważne i zindywidualizowane zagrożenie dla życia lub zdrowia wynikające z powszechnego stosowania przemocy wobec ludności cywilnej w sytuacji międzynarodowego lub wewnętrznego konfliktu zbrojnego i ze względu na to ryzyko nie może lub nie chce korzystać z ochrony kraju pochodzenia.
+- **3)** poważne i zindywidualizowane zagrożenie dla życia lub zdrowia wynikające z powszechnego stosowania przemocy wobec ludności cywilnej w sytuacji międzynarodowego lub wewnętrznego konfliktu zbrojnego – i ze względu na to ryzyko nie może lub nie chce korzystać z ochrony kraju pochodzenia.
 
 **Art. 16.**
 
@@ -278,7 +286,7 @@ prowadzenie rejestru złożonych zażaleń i odwołań oraz wydanych przez Radę
 
 4. Cudzoziemca można pozbawić ochrony uzupełniającej, jeżeli po jej udzieleniu wyjdą na jaw okoliczności, o których mowa w art. 20 ust. 3.
 
-#### Rozdział 2 Postępowanie w sprawach nadawania statusu uchodźcy lub udzielania ochrony uzupełniającej oraz pozbawiania statusu uchodźcy lub ochrony uzupełniającej
+#### Rozdział 2
 
 **Art. 23.**
 
@@ -391,7 +399,7 @@ prowadzenie rejestru złożonych zażaleń i odwołań oraz wydanych przez Radę
 
 - **1)** unieważnienie wizy,
 - **2)** wygaśnięcie decyzji o zobowiązaniu do opuszczenia terytorium Rzeczypospolitej Polskiej,
-- **3)** wstrzymanie wykonania decyzji o wydaleniu do dnia doręczenia cudzoziemcowi decyzji ostatecznej w sprawie o nadanie statusu uchodźcy wydanych wnioskodawcy i osobie, w imieniu której wnioskodawca występuje.
+- **3)** wstrzymanie wykonania decyzji o wydaleniu do dnia doręczenia cudzoziemcowi decyzji ostatecznej w sprawie o nadanie statusu uchodźcy – wydanych wnioskodawcy i osobie, w imieniu której wnioskodawca występuje.
 
 2. Organ przyjmujący wniosek odnotowuje unieważnienie wizy oraz wygaśnięcie decyzji o zobowiązaniu do opuszczenia terytorium Rzeczypospolitej Polskiej w dokumentach podróży wnioskodawcy i osoby, w imieniu której wnioskodawca występuje.
 
@@ -425,7 +433,7 @@ prowadzenie rejestru złożonych zażaleń i odwołań oraz wydanych przez Radę
 - **4)** złożył inny wniosek o nadanie statusu uchodźcy, w którym podał inne dane osobowe,
 - **5)** przedstawił niespójne, sprzeczne, nieprawdopodobne lub niewystarczające wyjaśnienia na potwierdzenie faktu prześladowania,
 - **6)** złożył wniosek w celu opóźnienia wydania decyzji o wydaleniu lub opóźnienia lub zakłócenia wykonania takiej decyzji,
-- **7)** stanowi zagrożenie dla bezpieczeństwa państwa lub porządku publicznego lub był z tego powodu w przeszłości wydalony z terytorium Rzeczypospolitej Polskiej rozpatruje się w pierwszej kolejności jako wniosek oczywiście bezzasadny.
+- **7)** stanowi zagrożenie dla bezpieczeństwa państwa lub porządku publicznego lub był z tego powodu w przeszłości wydalony z terytorium Rzeczypospolitej Polskiej – rozpatruje się w pierwszej kolejności jako wniosek oczywiście bezzasadny.
 
 2. Postępowanie w sprawie nadania statusu uchodźcy, w przypadku gdy wniosek jest oczywiście bezzasadny zgodnie z ust. 1, prowadzi się według zasad określonych w ustawie, z tym że:
 
@@ -526,7 +534,7 @@ prowadzenie rejestru złożonych zażaleń i odwołań oraz wydanych przez Radę
 - **2)** opuścił ośrodek na okres dłuższy niż 7 dni bez usprawiedliwionej przyczyny,
 - **3)** opuścił bez zgody Szefa Urzędu miejsce pobytu lub miejscowość, określone w decyzji, o której mowa w art. 89c, lub nie zgłasza się w określonych odstępach czasu do organu wskazanego w decyzji,
 - **4)** opuścił terytorium Rzeczypospolitej Polskiej,
-- **5)** nie stawił się na przesłuchanie i nie wykaże w terminie 7 dni od dnia wyznaczonego na przesłuchanie, że niedopełnienie tego obowiązku było spowodowane okolicznościami, za które nie ponosi odpowiedzialności organ prowadzący postępowanie wydaje decyzję o umorzeniu postępowania, jeżeli umorzenie postępowania nie jest sprzeczne z interesem społecznym.
+- **5)** nie stawił się na przesłuchanie i nie wykaże w terminie 7 dni od dnia wyznaczonego na przesłuchanie, że niedopełnienie tego obowiązku było spowodowane okolicznościami, za które nie ponosi odpowiedzialności – organ prowadzący postępowanie wydaje decyzję o umorzeniu postępowania, jeżeli umorzenie postępowania nie jest sprzeczne z interesem społecznym.
 
 2. Na wniosek wnioskodawcy, złożony w terminie 2 lat od dnia wydania decyzji o umorzeniu postępowania, organ, który umorzył postępowanie na podstawie ust. 1, uchyla decyzję o umorzeniu i podejmuje postępowanie na nowo, przy czym czynności podjęte w toku postępowania umorzonego pozostają w mocy.
 
@@ -621,7 +629,7 @@ prowadzenie rejestru złożonych zażaleń i odwołań oraz wydanych przez Radę
 
 **Art. 54.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór formularza wniosku o nadanie statusu uchodźcy, uwzględniając dane, o których mowa w art. 8, dotyczące cudzoziemca, który składa wniosek, oraz osoby, w imieniu której wnioskodawca występuje, w zakresie niezbędnym do przeprowadzenia postępowania w sprawie nadania statusu uchodźcy, oraz informację, o której mowa w art. 27 pkt 3.
 
-#### Rozdział 3 Tymczasowe zaświadczenie tożsamości cudzoziemca
+#### Rozdział 3
 
 **Art. 55.**
 
@@ -695,7 +703,7 @@ prowadzenie rejestru złożonych zażaleń i odwołań oraz wydanych przez Radę
 
 2. W przypadku zmiany wzorów tymczasowego zaświadczenia tożsamości cudzoziemca, w rozporządzeniu, o którym mowa w ust. 1, można określić termin ważności dotychczasowych zaświadczeń tożsamości cudzoziemca wydanych na blankietach dotychczasowego wzoru oraz termin, do którego mogą być stosowane blankiety dotychczasowego wzoru.
 
-#### Rozdział 4 Postępowanie z udziałem małoletnich bez opieki i cudzoziemców, których stan psychofizyczny stwarza domniemanie, że byli poddani przemocy albo są niepełnosprawni
+#### Rozdział 4
 
 **Art. 61.**
 
@@ -763,7 +771,7 @@ prowadzenie rejestru złożonych zażaleń i odwołań oraz wydanych przez Radę
 
 **Art. 69.** W stosunku do cudzoziemca, którego badanie lekarskie potwierdziło, że był poddany przemocy lub jest niepełnosprawny, czynności w postępowaniu w sprawie nadania statusu uchodźcy oraz związane z udzielaniem pomocy w ośrodku mogą być wykonywane przez osobę płci wskazanej przez cudzoziemca, która odbyta szkolenie przygotowujące do pracy z osobami poszkodowanymi na skutek przestępstwa lub poddanymi przemocy i z osobami niepełnosprawnymi.
 
-#### Rozdział 5 Pomoc dla cudzoziemców ubiegających się o nadanie statusu uchodźcy
+#### Rozdział 5
 
 **Art. 70.**
 
@@ -772,7 +780,7 @@ prowadzenie rejestru złożonych zażaleń i odwołań oraz wydanych przez Radę
 2. Przepisu ust. 1 nie stosuje się do cudzoziemca, który:
 
 - **1)** korzysta z ochrony uzupełniającej,
-- **2)** przebywa na terytorium Rzeczypospolitej Polskiej na podstawie zgody na pobyt tolerowany po upływie okresów, o których mowa w art. 74 ust. 1;
+- **2)** przebywa na terytorium Rzeczypospolitej Polskiej na podstawie zgody na pobyt tolerowany – po upływie okresów, o których mowa w art. 74 ust. 1;
 - **3)** przebywa na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na zamieszkanie na czas oznaczony, zezwolenia na osiedlenie się lub zezwolenia na pobyt rezydenta długoterminowego Wspólnot Europejskich;
 - **4)** przebywa w placówce opiekuńczo -wychowawczej;
 - **5)** przebywa w strzeżonym ośrodku lub areszcie w celu wydalenia;
@@ -823,7 +831,7 @@ prowadzenie rejestru złożonych zażaleń i odwołań oraz wydanych przez Radę
 
 **Art. 73.**
 
-1. Opieka medyczna obejmuje świadczenia opieki zdrowotnej w zakresie, w jakim osobom objętym obowiązkowym lub dobrowolnym ubezpieczeniem zdrowotnym przysługuje prawo do świadczeń na podstawie ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z późn. zm.), z wyłączeniem leczenia uzdrowiskowego.
+1. Opieka medyczna obejmuje świadczenia opieki zdrowotnej w zakresie, w jakim osobom objętym obowiązkowym lub dobrowolnym ubezpieczeniem zdrowotnym przysługuje prawo do świadczeń na podstawie ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 94, poz. 788, Nr 132, poz. 1110, Nr 138, poz. 1154, Nr 157, poz. 1314, Nr 164, poz. 1366, Nr 169, poz. 1411 i Nr 179, poz. 1485, z 2006 r. Nr 75, poz. 519, Nr 104, poz. 708 i 711, Nr 143, poz. 1030, Nr 170, poz. 1217, Nr 191, poz. 1410, Nr 227, poz. 1658 i Nr 249, poz. 1824, z 2007 r. Nr 64, poz. 427 i 433, Nr 82, poz. 559, Nr 115, poz. 793, Nr 133, poz. 922, Nr 166, poz. 1172, Nr 171, poz. 1208 i Nr 176, poz. 1243 oraz z 2008 r. Nr 52, poz. 305.), z wyłączeniem leczenia uzdrowiskowego.
 
 2. Opieka medyczna jest wykonywana na podstawie umów cywilnoprawnych zawartych między Szefem Urzędu a świadczeniodawcami w rozumieniu przepisów ustawy, o której mowa w ust. 1.
 
@@ -907,15 +915,15 @@ prowadzenie rejestru złożonych zażaleń i odwołań oraz wydanych przez Radę
 - **1)** w następnym dniu po upływie okresu udzielania pomocy, o którym mowa w art. 74;
 - **2)** po doręczeniu decyzji o pozbawieniu pomocy socjalnej.
 
-2. Do egzekucji obowiązku opuszczenia ośrodka, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2005 r. Nr 229, poz. 1954, z późn. zm.), dotyczące obowiązków o charakterze niepieniężnym.
+2. Do egzekucji obowiązku opuszczenia ośrodka, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2005 r. Nr 229, poz. 1954, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 157, poz. 1119 i Nr 187, poz. 1381 oraz z 2007 r. Nr 89, poz. 589, Nr 115, poz. 794, Nr 176, poz. 1243 i Nr 192, poz. 1378.), dotyczące obowiązków o charakterze niepieniężnym.
 
 **Art. 84.**
 
-1. Osobie, która pokryta koszty pogrzebu cudzoziemca zmarłego przed zakończeniem postępowania w sprawie nadania statusu uchodźcy, a w przypadku śmierci cudzoziemca korzystającego z pomocy socjalnej – w okresie, o którym mowa w art. 74, przysługuje zasiłek pogrzebowy w wysokości kosztów rzeczywiście poniesionych, nie większej jednak niż kwota zasiłku pogrzebowego wypłacana na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.).
+1. Osobie, która pokryta koszty pogrzebu cudzoziemca zmarłego przed zakończeniem postępowania w sprawie nadania statusu uchodźcy, a w przypadku śmierci cudzoziemca korzystającego z pomocy socjalnej – w okresie, o którym mowa w art. 74, przysługuje zasiłek pogrzebowy w wysokości kosztów rzeczywiście poniesionych, nie większej jednak niż kwota zasiłku pogrzebowego wypłacana na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421, z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534, z 2007 r. Nr 17, poz. 95, Nr 82, poz. 558, Nr 191, poz. 1368 i 1369 i Nr 200, poz. 1445 oraz z 2008 r. Nr 67, poz. 411.).
 
 2. Jeżeli pogrzeb cudzoziemca odbywa się za granicą, zasiłek pogrzebowy obejmuje wyłącznie zwrot kosztów transportu zwłok do granicy.
 
-3. W przypadku gdy zwłoki cudzoziemca, o którym mowa w ust. 1, nie zostały pochowane przez podmioty, o których mowa w art. 10 ust. 1 ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2000 r. Nr 23, poz. 295, z późn. zm.), pogrzeb cudzoziemca organizuje Szef Urzędu i pokrywa jego koszty z części budżetu państwa, której dysponentem jest minister właściwy do spraw wewnętrznych, ze środków będących w dyspozycji Szefa Urzędu.
+3. W przypadku gdy zwłoki cudzoziemca, o którym mowa w ust. 1, nie zostały pochowane przez podmioty, o których mowa w art. 10 ust. 1 ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2000 r. Nr 23, poz. 295, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 120, poz. 1268, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 80, poz. 717 i Nr 162, poz. 1568 oraz z 2006 r. Nr 220, poz. 1600.), pogrzeb cudzoziemca organizuje Szef Urzędu i pokrywa jego koszty z części budżetu państwa, której dysponentem jest minister właściwy do spraw wewnętrznych, ze środków będących w dyspozycji Szefa Urzędu.
 
 4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb wypłaty zasiłków pogrzebowych oraz warunki pokrywania kosztów pogrzebu cudzoziemca ze środków budżetu państwa, z uwzględnieniem w szczególności:
 
@@ -923,11 +931,11 @@ prowadzenie rejestru złożonych zażaleń i odwołań oraz wydanych przez Radę
 - **2)** rodzaju kosztów pogrzebu, które mogą być pokrywane ze środków budżetu państwa;
 - **3)** wysokości kwot na pokrycie tych kosztów.
 
-**Art. 85.** Koszty pomocy socjalnej, opieki medycznej, z wyłączeniem kosztów określonych w przepisach ustawy z dnia 6 września 2001 r. o chorobach zakaźnych i zakażeniach (Dz. U. Nr 126, poz. 1384, z późn. zm.), zasiłku pogrzebowego, pomocy w dobrowolnym powrocie i prowadzenia ośrodków są finansowane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw wewnętrznych, ze środków będących w dyspozycji Szefa Urzędu.
+**Art. 85.** Koszty pomocy socjalnej, opieki medycznej, z wyłączeniem kosztów określonych w przepisach ustawy z dnia 6 września 2001 r. o chorobach zakaźnych i zakażeniach (Dz. U. Nr 126, poz. 1384, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391 i Nr 199, poz. 1938, z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 210, poz. 2135 oraz z 2006 r. Nr 220, poz. 1600.), zasiłku pogrzebowego, pomocy w dobrowolnym powrocie i prowadzenia ośrodków są finansowane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw wewnętrznych, ze środków będących w dyspozycji Szefa Urzędu.
 
 **Art. 86.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wysokość jednorazowej pomocy pieniężnej lub wartość bonów towarowych na zakup odzieży i obuwia, wysokość stałej pomocy pieniężnej na zakup środków higieny osobistej, kieszonkowego oraz ekwiwalentu pieniężnego w zamian za wyżywienie, związanych z pobytem w ośrodku, a także wysokość świadczenia pieniężnego na pokrycie we własnym zakresie kosztów pobytu na terytorium Rzeczypospolitej Polskiej, pomocy na pokrycie kosztów wyżywienia cudzoziemca w podróży w związku z dobrowolnym powrotem do kraju, do którego cudzoziemiec ma prawo wjazdu, a także termin i sposób ich wypłaty oraz wysokość stawki dziennej wyżywienia zbiorowego w ośrodku, biorąc pod uwagę konieczność zaspokojenia niezbędnych potrzeb życiowych cudzoziemca. Rozporządzenie może określać, w jakich przypadkach i do jakiej wysokości może być zwiększona wysokość kieszonkowego, ze względu na działania cudzoziemca na rzecz ośrodka i przebywających w nim osób.
 
-#### Rozdział 6 Zatrzymanie cudzoziemca oraz umieszczenie go w strzeżonym ośrodku lub zastosowanie aresztu w celu wydalenia w postępowaniu w sprawie nadania statusu uchodźcy lub udzielenia ochrony uzupełniającej
+#### Rozdział 6
 
 **Art. 87.**
 
@@ -980,9 +988,9 @@ prowadzenie rejestru złożonych zażaleń i odwołań oraz wydanych przez Radę
 
 4. Kierownik strzeżonego ośrodka lub funkcjonariusz odpowiadający za funkcjonowanie aresztu w celu wydalenia przekazuje odwołanie w terminie 2 dni sądowi, który rozpoznaje je niezwłocznie.
 
-5. Do postępowania w sprawie odwołania od decyzji, o której mowa w ust. 3, stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.) o postępowaniu w sprawie zażalenia na postanowienie w przedmiocie środka zapobiegawczego, przy czym funkcję oskarżyciela publicznego wykonuje Szef Urzędu. Wnioskodawcy lub osobie, w imieniu której wnioskodawca występuje, zwolnionym ze strzeżonego ośrodka lub z aresztu w celu wydalenia na podstawie decyzji, o której mowa w art. 89b ust. 1 i 2, albo nieumieszczonym w strzeżonym ośrodku lub areszcie w celu wydalenia z przyczyn określonych w art. 103 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach, Szef Urzędu może, w drodze decyzji, nakazać przebywanie w określonym miejscu pobytu lub miejscowości, których bez jego zezwolenia nie mogą opuszczać, do dnia wydania decyzji ostatecznej w postępowaniu w sprawie nadania statusu uchodźcy oraz zobowiązać do zgłaszania się w określonych odstępach czasu do organu wskazanego w decyzji.
+5. Do postępowania w sprawie odwołania od decyzji, o której mowa w ust. 3, stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903 oraz z 2008 r. Nr 27, poz. 162.) o postępowaniu w sprawie zażalenia na postanowienie w przedmiocie środka zapobiegawczego, przy czym funkcję oskarżyciela publicznego wykonuje Szef Urzędu. Wnioskodawcy lub osobie, w imieniu której wnioskodawca występuje, zwolnionym ze strzeżonego ośrodka lub z aresztu w celu wydalenia na podstawie decyzji, o której mowa w art. 89b ust. 1 i 2, albo nieumieszczonym w strzeżonym ośrodku lub areszcie w celu wydalenia z przyczyn określonych w art. 103 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach, Szef Urzędu może, w drodze decyzji, nakazać przebywanie w określonym miejscu pobytu lub miejscowości, których bez jego zezwolenia nie mogą opuszczać, do dnia wydania decyzji ostatecznej w postępowaniu w sprawie nadania statusu uchodźcy oraz zobowiązać do zgłaszania się w określonych odstępach czasu do organu wskazanego w decyzji.
 
-#### Rozdział 7 Prawa i obowiązki cudzoziemca, który posiada status uchodźcy lub korzysta z ochrony uzupełniającej
+#### Rozdział 7
 
-#### Rozdział 8 Rada do Spraw Uchodźców
+#### Rozdział 8
 

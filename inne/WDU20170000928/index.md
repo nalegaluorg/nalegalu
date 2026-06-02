@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 28 kwietnia 2017 r. w sprawie Listy Skarbów Dziedzictwa
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 28 kwietnia 2017 r. w sprawie Listy Skarbów Dziedzictwa Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-28 |
 | Data wydania | 2017-05-11 |
-| Wejście w życie | 2017-05-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000928) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/928/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 23a ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 23a ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 397, 774 i 1505, z 2016 r. poz. 1330, 1887 i 1948 oraz z 2017 r. poz. 60.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób prowadzenia Listy Skarbów Dziedzictwa, zwanej dalej „Listą”, i zakres danych zamieszczanych na Liście.
 § 2.
@@ -82,6 +81,5 @@ W części drugiej Listy w polu trzecim zamieszcza się fotografie zabytku w lic
 § 9.
 Wpis skreślony pozostawia się na Liście.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 397, 774 i 1505, z 2016 r. poz. 1330, 1887 i 1948 oraz z 2017 r. poz. 60.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 397, 774 i 1505, z 2016 r. poz. 1330, 1887 i 1948 oraz z 2017 r. poz. 60.
 

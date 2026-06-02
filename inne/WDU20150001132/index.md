@@ -22,13 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-12 |
 | Data wydania | 2015-08-11 |
-| Wejście w życie | 2015-11-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001132) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1132/text.pdf) |
 
+Urzędowe poświadczanie znajomości języka polskiego
+
 **Art. 1.** W ustawie z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2011 r. Nr 43, poz. 224 i Nr 84, poz. 455) rozdział 2a otrzymuje brzmienie: „
 
-#### Rozdział 2a Urzędowe poświadczanie znajomości języka polskiego
+#### Rozdział 2a
 
 **Art. 11a.**
 
@@ -39,7 +40,7 @@ source: "eli-html"
 3. Certyfikat poświadcza znajomość języka polskiego jako obcego na jednym z następujących poziomów biegłości językowej:
 
 - **1)** A1, A2, B1, B2, C1 i C2 – w grupie dostosowanej do potrzeb osób dorosłych,
-- **2)** A1, A2, B1 i B2 – w grupie dostosowanej do potrzeb dzieci i młodzieży przy czym poziom oznaczony jako A1 jest najniższym poświadczanym poziomem biegłości językowej, a poziom oznaczony jako C2 jest najwyższym poświadczanym poziomem biegłości językowej.
+- **2)** A1, A2, B1 i B2 – w grupie dostosowanej do potrzeb dzieci i młodzieży – przy czym poziom oznaczony jako A1 jest najniższym poświadczanym poziomem biegłości językowej, a poziom oznaczony jako C2 jest najwyższym poświadczanym poziomem biegłości językowej.
 
 4. Osoba, o której mowa w ust. 1, będąca absolwentem szkoły wyższej, która ukończyła studia w języku polskim, albo szkoły ponadgimnazjalnej lub ponadpodstawowej szkoły średniej, która posiada świadectwo dojrzałości, działających w systemie edukacji Rzeczypospolitej Polskiej, po złożeniu wniosku i uiszczeniu opłaty za wydanie certyfikatu otrzymuje certyfikat bez konieczności zdawania egzaminu.
 
@@ -94,7 +95,7 @@ source: "eli-html"
 - **1)** posiada dyplom ukończenia studiów wyższych w zakresie filologii polskiej ze specjalnością nauczanie języka polskiego jako obcego, potwierdzający uzyskanie kwalifikacji drugiego stopnia, lub równorzędny lub dyplom ukończenia studiów wyższych w zakresie filologii polskiej lub neofilologii, potwierdzający uzyskanie kwalifikacji drugiego stopnia, lub równorzędny i ukończone studia podyplomowe w zakresie nauczania języka polskiego jako obcego,
 - **2)** posiada co najmniej trzyletnie doświadczenie w nauczaniu języka polskiego jako obcego uzyskane w okresie pięciu lat przed dniem złożenia wniosku,
 - **3)** nie była skazana prawomocnym wyrokiem za przestępstwo popełnione umyślnie lub umyślne przestępstwo skarbowe,
-- **4)** ukończyła szkolenie dla kandydatów na egzaminatorów Komisja dokonuje wpisu na listę, o której mowa w ust. 1.
+- **4)** ukończyła szkolenie dla kandydatów na egzaminatorów – Komisja dokonuje wpisu na listę, o której mowa w ust. 1.
 
 3. Wniosek, o którym mowa w ust. 2, zawiera:
 
@@ -195,7 +196,7 @@ source: "eli-html"
 8. Wynagrodzenie:
 
 - **1)** miesięczne przewodniczącego i sekretarza Komisji nie może być wyższe niż 50%,
-- **2)** za udział w posiedzeniach pozostałych członków Komisji nie może być wyższe niż 15% stawki wynagrodzenia zasadniczego profesora zwyczajnego zatrudnionego w uczelni publicznej, określonego w przepisach wydanych na podstawie art. 151 ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.).
+- **2)** za udział w posiedzeniach pozostałych członków Komisji nie może być wyższe niż 15% – stawki wynagrodzenia zasadniczego profesora zwyczajnego zatrudnionego w uczelni publicznej, określonego w przepisach wydanych na podstawie art. 151 ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650, z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198 oraz z 2015 r. poz. 357 i 860.).
 
 9. Wynagrodzenie nie przysługuje członkom Komisji będącym członkami korpusu służby cywilnej, którzy sprawują funkcję członka Komisji w ramach obowiązków służbowych.
 
@@ -253,7 +254,7 @@ source: "eli-html"
 - **6)** tryb organizowania szkoleń dla kandydatów na egzaminatorów, biorąc pod uwagę konieczność zapewnienia jednolitego standardu przeprowadzania egzaminu;
 - **7)** wzór wniosku o wpis na listę egzaminatorów, o której mowa w art. 11f ust. 1, uwzględniając dane niezbędne do identyfikacji wnioskodawcy oraz zweryfikowania warunków, o których mowa w art. 11f ust. 2, uwzględniając możliwość elektronicznego składania wniosków. ” .
 
-**Art. 2.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2013 r. poz. 989, z późn. zm.) w art. 41 ust. 1a otrzymuje brzmienie: „ 1a. Co najmniej dwie osoby wchodzące w skład zarządu towarzystwa, w tym prezes zarządu, muszą posiadać udowodnioną znajomość języka polskiego. ” .
+**Art. 2.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2013 r. poz. 989, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1289 i 1717 oraz z 2015 r. poz. 238.) w art. 41 ust. 1a otrzymuje brzmienie: „ 1a. Co najmniej dwie osoby wchodzące w skład zarządu towarzystwa, w tym prezes zarządu, muszą posiadać udowodnioną znajomość języka polskiego. ” .
 
 **Art. 3.** Do postępowań w sprawie wydania urzędowego poświadczenia znajomości języka polskiego jako obcego, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
@@ -269,5 +270,5 @@ source: "eli-html"
 
 5. Państwowa Komisja do spraw Poświadczania Znajomości Języka Polskiego jako Obcego przejmuje dokumentację Państwowej Komisji Poświadczania Znajomości Języka Polskiego jako Obcego.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650, z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198 oraz z 2015 r. poz. 357 i 860. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1289 i 1717 oraz z 2015 r. poz. 238.
 

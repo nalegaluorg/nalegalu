@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 1 marca 2020 r. w sprawie identyfikacji spółdzielczej kasy oszczędnościowo-kredytowej w systemie teleinformatycznym obsługującym zajęcie wierzytelności z rachunku bankowego
+# Rozporządzenie Ministra Finansówz dnia 1 marca 2020 r. w sprawie identyfikacji spółdzielczej kasy oszczędnościowo-kredytowej w systemie teleinformatycznym obsługującym zajęcie wierzytelności z rachunku bankowego Minister Finansów kieruje działem administracji rządowej ‒ instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-03-01 |
 | Data wydania | 2020-03-16 |
-| Wejście w życie | 2020-10-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000450) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/450/text.pdf) |
 
@@ -57,6 +56,5 @@ przy użyciu interfejsu użytkownika tego systemu teleinformatycznego lub
 2)
 w drodze wymiany danych między systemem teleinformatycznym a systemem informatycznym użytkownika, realizowanej z wykorzystaniem rozwiązań opartych na modelu usługowym.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 30 października 2020 r.
-1) Minister Finansów kieruje działem administracji rządowej ‒ instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
+Rozporządzenie wchodzi w życie z dniem 30 października 2020 r. 1) Minister Finansów kieruje działem administracji rządowej ‒ instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 

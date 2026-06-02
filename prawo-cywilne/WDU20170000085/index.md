@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 grudnia 2016 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
+# Ustawa z dnia 15 grudnia 2016 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 655/2014 z dnia 15 maja 2014 r. ustanawiającego procedurę europejskiego nakazu zabezpieczenia na rachunku bankowym w celu ułatwienia transgranicznego dochodzenia wierzytelności w sprawach cywilnych i handlowych (Dz. Urz. UE L 189 z 27.06.2014, str. 59).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-15 |
 | Data wydania | 2017-01-13 |
-| Wejście w życie | 2017-01-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000085) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/85/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.) wprowadza się następujące zmiany:
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych oraz ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych.
+Europejski nakaz zabezpieczenia na rachunku bankowym
+
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2260 i 2261 oraz z 2017 r. poz. 67.) wprowadza się następujące zmiany:
 
 - **1)** w części czwartej w księdze drugiej dodaje się tytuł XI w brzmieniu: „
 
-## Tytuł XI Europejski nakaz zabezpieczenia na rachunku bankowym
+## Tytuł XI
 
 **Art. 11443.**
 
@@ -100,7 +102,7 @@ source: "eli-html"
 - **1)** wykonywanie orzeczeń sądowych w sprawach o roszczenia pieniężne i niepieniężne oraz o zabezpieczenie roszczeń, w tym europejskich nakazów zabezpieczenia na rachunku bankowym; ” , ust. 5 otrzymuje brzmienie: „
     - **b)**
 
-5. Organy administracji publicznej, urzędy skarbowe, organy rentowe, o których mowa w art. 476 § 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.), banki, spółdzielcze kasy oszczędnościowo-kredytowe, podmioty prowadzące działalność maklerską, organy spółdzielni mieszkaniowych, zarządy wspólnot mieszkaniowych, inne podmioty zarządzające mieszkaniami i lokalami użytkowymi, jak również inne instytucje są obowiązane na pisemne żądanie komornika udzielić mu informacji niezbędnych do prawidłowego prowadzenia postępowania egzekucyjnego, wykonania postanowienia o udzieleniu zabezpieczenia lub europejskiego nakazu zabezpieczenia na rachunku bankowym oraz wykonania innych czynności wchodzących w zakres jego ustawowych zadań, w szczególności dotyczących stanu majątkowego dłużnika oraz umożliwiających identyfikację składników jego majątku. Przepis art. 762 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego stosuje się odpowiednio. ” ;
+5. Organy administracji publicznej, urzędy skarbowe, organy rentowe, o których mowa w art. 476 § 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2260 i 2261 oraz z 2017 r. poz. 67 i 85.), banki, spółdzielcze kasy oszczędnościowo-kredytowe, podmioty prowadzące działalność maklerską, organy spółdzielni mieszkaniowych, zarządy wspólnot mieszkaniowych, inne podmioty zarządzające mieszkaniami i lokalami użytkowymi, jak również inne instytucje są obowiązane na pisemne żądanie komornika udzielić mu informacji niezbędnych do prawidłowego prowadzenia postępowania egzekucyjnego, wykonania postanowienia o udzieleniu zabezpieczenia lub europejskiego nakazu zabezpieczenia na rachunku bankowym oraz wykonania innych czynności wchodzących w zakres jego ustawowych zadań, w szczególności dotyczących stanu majątkowego dłużnika oraz umożliwiających identyfikację składników jego majątku. Przepis art. 762 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego stosuje się odpowiednio. ” ;
 
 - **2)** w art. 8: ust. 4 otrzymuje brzmienie: „
     - **a)**
@@ -160,5 +162,5 @@ source: "eli-html"
 - **27)** na żądanie Ministra Sprawiedliwości w zakresie niezbędnym do wykonywania zadań organu do spraw informacji zgodnie z art. 14 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 655/2014 z dnia 15 maja 2014 r. ustanawiającego procedurę europejskiego nakazu zabezpieczenia na rachunku bankowym w celu ułatwienia transgranicznego dochodzenia wierzytelności w sprawach cywilnych i handlowych (Dz. Urz. UE L 189 z 27.06.2014, str. 59). ” ;
 - **2)** po art. 9fa dodaje się art. 9fb w brzmieniu: „ Art. 9fb. Podmiot, o którym mowa w art. 9f ust. 1 pkt 27, w granicach uprawnień wynikających z tego przepisu, jest uprawniony do uzyskania z Centralnej informacji zbiorczej informacji, o której mowa w art. 13d ust. 1, z tym że zbiorcza informacja może dotyczyć także rachunków członka niebędącego osobą fizyczną. ” .
 
-**Art. 6.** Ustawa wchodzi w życie z dniem 18 stycznia 2017 r.
+**Art. 6.** Ustawa wchodzi w życie z dniem 18 stycznia 2017 r. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 655/2014 z dnia 15 maja 2014 r. ustanawiającego procedurę europejskiego nakazu zabezpieczenia na rachunku bankowym w celu ułatwienia transgranicznego dochodzenia wierzytelności w sprawach cywilnych i handlowych (Dz. Urz. UE L 189 z 27.06.2014, str. 59). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych oraz ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2260 i 2261 oraz z 2017 r. poz. 67. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2260 i 2261 oraz z 2017 r. poz. 67 i 85.
 

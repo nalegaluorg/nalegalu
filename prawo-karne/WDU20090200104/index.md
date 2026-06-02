@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-12-05 |
 | Data wydania | 2009-02-09 |
-| Wejście w życie | 2009-02-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090200104) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/104/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.) w art. 203 § 1–4 otrzymują brzmienie: „
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651 oraz z 2009 r. Nr 8, poz. 39.) w art. 203 § 1–4 otrzymują brzmienie: „
 
 § 1. W razie zgłoszenia przez biegłych takiej konieczności, badanie stanu zdrowia psychicznego oskarżonego może być połączone z obserwacją w zakładzie leczniczym tylko wtedy, gdy zebrane dowody wskazują na duże prawdopodobieństwo, że oskarżony popełnił przestępstwo. Przepis art. 259 § 2 stosuje się odpowiednio, chyba że oskarżony wnosi o poddanie go obserwacji.
 
@@ -38,5 +37,5 @@ source: "eli-html"
 
 **Art. 2.** Z dniem wejścia w życie ustawy tracą moc postanowienia o poddaniu oskarżonego badaniu psychiatrycznemu połączonemu z obserwacją w zakładzie leczniczym albo o przedłużeniu takiego badania, wydane na podstawie art. 203 § 3 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym, w zakresie zarządzającym łączny okres obserwacji ponad 8 tygodni.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651 oraz z 2009 r. Nr 8, poz. 39.
 

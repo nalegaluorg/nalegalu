@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-04 |
 | Data wydania | 2021-08-17 |
-| Wejście w życie | 2021-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001495) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1495/text.pdf) |
 
@@ -39,8 +38,7 @@ rodzaje świadczeń socjalnych,
 4)
 dysponentów środków funduszu,
 5)
-tryb przyznawania świadczeń socjalnych
-w odniesieniu do emerytów i rencistów Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego uprawnionych do zaopatrzenia emerytalnego oraz członków ich rodzin, zwanych dalej „uprawnionymi”.
+tryb przyznawania świadczeń socjalnych – w odniesieniu do emerytów i rencistów Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego uprawnionych do zaopatrzenia emerytalnego oraz członków ich rodzin, zwanych dalej „uprawnionymi”.
 § 2.
 Środki funduszu przeznacza się na następujące świadczenia socjalne:
 1)
@@ -94,5 +92,5 @@ Komisje socjalne powołane na podstawie rozporządzenia Ministra Obrony Narodowe
 § 9.
 Postępowania wszczęte na podstawie rozporządzenia, o którym mowa w § 8, i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia są prowadzone na podstawie przepisów niniejszego rozporządzenia.
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie funduszu socjalnego emerytów i rencistów Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego oraz ich rodzin (Dz. U. poz. 1254), które utraciło moc z dniem 1 stycznia 2019 r. zgodnie z art. 23 pkt 1 ustawy z dnia 11 maja 2017 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw (Dz. U. poz. 1321). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie funduszu socjalnego emerytów i rencistów Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego oraz ich rodzin (Dz. U. poz. 1254), które utraciło moc z dniem 1 stycznia 2019 r. zgodnie z art. 23 pkt 1 ustawy z dnia 11 maja 2017 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw (Dz. U. poz. 1321).
 

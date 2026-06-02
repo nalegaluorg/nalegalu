@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Zagranicznychz dnia 28 października 2019 r. w sprawie egzaminu konsularnego
+# Rozporządzenie Ministra Spraw Zagranicznychz dnia 28 października 2019 r. w sprawie egzaminu konsularnego Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 98).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-28 |
 | Data wydania | 2019-10-31 |
-| Wejście w życie | 2019-11-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002112) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2112/text.pdf) |
 
@@ -161,8 +160,7 @@ Członek komisji kierujący pracą składu komisji informuje przystępującego d
 § 25.
 W przypadku niezaliczenia części ustnej egzaminu kandydat na urzędnika konsularnego może jeden raz ponownie przystąpić do tej części egzaminu w terminie nie późniejszym niż jeden miesiąc od dnia przeprowadzenia niezaliczonej części egzaminu. W uzasadnionych przypadkach przewodniczący komisji może wydłużyć ten termin do trzech miesięcy.
 § 26.
-Rozporządzenie wchodzi w życie z dniem 4 listopada 2019 r.
-1) Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 98). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Zagranicznych z dnia 16 grudnia 2015 r. w sprawie egzaminu konsularnego (Dz. U. poz. 2291), które na podstawie art. 3 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy – Prawo konsularne (Dz. U. poz. 1687) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem 4 listopada 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Zagranicznych z dnia 16 grudnia 2015 r. w sprawie egzaminu konsularnego (Dz. U. poz. 2291), które na podstawie art. 3 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy – Prawo konsularne (Dz. U. poz. 1687) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 98). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Zagranicznych z dnia 16 grudnia 2015 r. w sprawie egzaminu konsularnego (Dz. U. poz. 2291), które na podstawie art. 3 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy – Prawo konsularne (Dz. U. poz. 1687) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 
 ## Część pisemna egzaminu polega na rozwiązaniu testu jednokrotnego wyboru składającego się z czterdziestu pytań. Część pisemna egzaminu trwa czterdzieści minut.
 

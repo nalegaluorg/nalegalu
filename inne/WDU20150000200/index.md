@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw
+# Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych, ustawę z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, ustawę z dnia 16 grudnia 2005 r. o Funduszu Kolejowym oraz ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
 | Pole | Wartość |
 |---|---|
@@ -22,20 +22,23 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-01-15 |
 | Data wydania | 2015-02-10 |
-| Wejście w życie | 2015-02-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000200) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/200/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2013 r. poz. 1594, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2013 r. poz. 1594, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 644, 768 i 962.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9o: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Decyzję o ustaleniu lokalizacji linii kolejowej wydaje wojewoda, na wniosek PKP Polskich Linii Kolejowych Spółki Akcyjnej, zwanych dalej „PLK S.A.”, lub właściwej jednostki samorządu terytorialnego. ” , w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) mapę w skali co najmniej 1:5000, przedstawiającą proponowany przebieg linii kolejowej, z zaznaczeniem terenu niezbędnego dla planowanych obiektów budowlanych, opracowaną z wykorzystaniem treści mapy zasadniczej, a w razie jej braku – innej mapy sytuacyjno-wysokościowej w tej samej skali, zaś dla terenów zamkniętych z wykorzystaniem treści mapy, o której mowa w art. 4 ust. 2 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne; ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) wykaz nieruchomości lub ich części, które planowane są do przejęcia na rzecz Skarbu Państwa lub jednostki samorządu terytorialnego, zawierający oznaczenia działek według katastru nieruchomości lub map z projektami podziału nieruchomości oraz powierzchnie tych działek; ” , – w pkt 4 w lit. h kropkę zastępuję się przecinkiem i dodaje się lit. i oraz j w brzmieniu: „ i) właściwego zarządcy drogi publicznej – w odniesieniu do drogi publicznej, która krzyżuje się z linią kolejową, j) właściwego zarządcy infrastruktury kolejowej – w odniesieniu do projektowanej linii kolejowej, która krzyżuje się z linią kolejową tego zarządcy lub jest lokalizowana w obszarze kolejowym jego linii. ” , w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Właściwy organ, na wniosek PLK S.A. lub właściwej jednostki samorządu terytorialnego, wydaje opinie, o których mowa w ust. 3 pkt 4, w terminie nie dłuższym niż 30 dni od dnia otrzymania wniosku o wydanie opinii. ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
+1. Decyzję o ustaleniu lokalizacji linii kolejowej wydaje wojewoda, na wniosek PKP Polskich Linii Kolejowych Spółki Akcyjnej, zwanych dalej „PLK S.A.”, lub właściwej jednostki samorządu terytorialnego. ” , w ust. 3: pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
-- **d)**
+- **1)** mapę w skali co najmniej 1:5000, przedstawiającą proponowany przebieg linii kolejowej, z zaznaczeniem terenu niezbędnego dla planowanych obiektów budowlanych, opracowaną z wykorzystaniem treści mapy zasadniczej, a w razie jej braku – innej mapy sytuacyjno-wysokościowej w tej samej skali, zaś dla terenów zamkniętych z wykorzystaniem treści mapy, o której mowa w art. 4 ust. 2 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne; ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** wykaz nieruchomości lub ich części, które planowane są do przejęcia na rzecz Skarbu Państwa lub jednostki samorządu terytorialnego, zawierający oznaczenia działek według katastru nieruchomości lub map z projektami podziału nieruchomości oraz powierzchnie tych działek; ” , w pkt 4 w lit. h kropkę zastępuję się przecinkiem i dodaje się lit. i oraz j w brzmieniu: „ właściwego zarządcy drogi publicznej – w odniesieniu do drogi publicznej, która krzyżuje się z linią kolejową, właściwego zarządcy infrastruktury kolejowej – w odniesieniu do projektowanej linii kolejowej, która krzyżuje się z linią kolejową tego zarządcy lub jest lokalizowana w obszarze kolejowym jego linii. ” , w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Właściwy organ, na wniosek PLK S.A. lub właściwej jednostki samorządu terytorialnego, wydaje opinie, o których mowa w ust. 3 pkt 4, w terminie nie dłuższym niż 30 dni od dnia otrzymania wniosku o wydanie opinii. ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
+    - **i)**
+    - **j)**
+    - **c)**
+    - **d)**
 
 6a. W przypadku nieruchomości o nieuregulowanym stanie prawnym oraz w sytuacji, gdy właściciel lub użytkownik wieczysty nie żyją, a ich spadkobiercy nie wykazali prawa do spadku, zawiadomienia, o którym mowa w ust. 6, dokonuje się w drodze obwieszczenia w urzędzie wojewódzkim i urzędach gmin właściwych ze względu na przebieg linii kolejowej, w Biuletynie Informacji Publicznej na stronach podmiotowych tych gmin oraz urzędu wojewódzkiego, a także w prasie lokalnej. ” ;
 
@@ -62,7 +65,7 @@ source: "eli-html"
 3. Nieruchomości, o których mowa w art. 9q ust. 1 pkt 7, stają się z mocy prawa własnością:
 
 - **1)** Skarbu Państwa – w przypadku wniosku o wydanie decyzji o ustaleniu lokalizacji linii kolejowej złożonego przez PLK S.A.,
-- **2)** jednostki samorządu terytorialnego – w przypadku wniosku o wydanie decyzji o ustaleniu lokalizacji linii kolejowej złożonego przez tę jednostkę z dniem, w którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna. ” , ust. 3b otrzymuje brzmienie: „
+- **2)** jednostki samorządu terytorialnego – w przypadku wniosku o wydanie decyzji o ustaleniu lokalizacji linii kolejowej złożonego przez tę jednostkę – z dniem, w którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna. ” , ust. 3b otrzymuje brzmienie: „
     - **b)**
 
 3b. PLK S.A. nabywają z mocy prawa z dniem, w którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna, prawo użytkowania wieczystego nieruchomości gruntowych nabytych z mocy prawa przez Skarb Państwa, określonych w ust. 3, z wyłączeniem nieruchomości, o których mowa w ust. 3e, oraz prawo własności budynków, innych urządzeń i lokali znajdujących się na tych nieruchomościach. ” , po ust. 3d dodaje się ust. 3e w brzmieniu: „
@@ -77,7 +80,7 @@ source: "eli-html"
 
 - **e)**
 
-8. Z dniem, w którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna, PLK S.A. lub właściwa jednostka samorządu terytorialnego uzyskuje prawo do dysponowania nieruchomościami, o których mowa w ust. 3, na cele budowlane w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.), zwanej dalej „Prawem budowlanym”, z uwzględnieniem art. 9w ust. 4. ” ;
+8. Z dniem, w którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna, PLK S.A. lub właściwa jednostka samorządu terytorialnego uzyskuje prawo do dysponowania nieruchomościami, o których mowa w ust. 3, na cele budowlane w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151.), zwanej dalej „Prawem budowlanym”, z uwzględnieniem art. 9w ust. 4. ” ;
 
 - **4)** w art. 9t: ust. 2 i 3 otrzymują brzmienie: „
     - **a)**
@@ -96,10 +99,13 @@ source: "eli-html"
 - **5)** w art. 9w: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Wojewoda nadaje decyzji o ustaleniu lokalizacji linii kolejowej rygor natychmiastowej wykonalności na wniosek PLK S.A. lub właściwej jednostki samorządu terytorialnego, uzasadniony interesem społecznym lub gospodarczym. ” , w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) przyznaje PLK S.A. albo jednostce samorządu terytorialnego prawo do dysponowania nieruchomością na cele budowlane; ” , – pkt 3 otrzymuje brzmienie: „ 3) uprawnia do faktycznego objęcia nieruchomości w posiadanie przez PLK S.A. albo jednostkę samorządu terytorialnego; ” , – dodaje się pkt 4 w brzmieniu: „ 4) uprawnia wojewodę do wydania decyzji o pozwoleniu na budowę. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+1. Wojewoda nadaje decyzji o ustaleniu lokalizacji linii kolejowej rygor natychmiastowej wykonalności na wniosek PLK S.A. lub właściwej jednostki samorządu terytorialnego, uzasadniony interesem społecznym lub gospodarczym. ” , w ust. 3: pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **1)** przyznaje PLK S.A. albo jednostce samorządu terytorialnego prawo do dysponowania nieruchomością na cele budowlane; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** uprawnia do faktycznego objęcia nieruchomości w posiadanie przez PLK S.A. albo jednostkę samorządu terytorialnego; ” , dodaje się pkt 4 w brzmieniu: „
+- **4)** uprawnia wojewodę do wydania decyzji o pozwoleniu na budowę. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+    - **c)**
 
 3a. W przypadku, o którym mowa w ust. 3 pkt 4, projekt budowlany zawiera projekt zagospodarowania działki lub terenu, sporządzony na mapie z naniesionymi projektami podziałów nieruchomości wynikającymi z decyzji, o której mowa w ust. 1. ” , ust. 4 i 5 otrzymują brzmienie: „
 
@@ -130,11 +136,11 @@ source: "eli-html"
 
 1. W przypadku gdy realizacja inwestycji kolejowej wymaga przejścia przez tereny wód płynących bądź dróg publicznych, PLK S.A. lub właściwa jednostka samorządu terytorialnego są uprawnione do ich nieodpłatnego zajęcia na czas realizacji inwestycji.
 
-2. Decyzję o zezwoleniu na nieodpłatne zajęcie pasa drogowego, o której mowa w art. 40 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2013 r. poz. 260, z późn. zm.), wydaje zarządca drogi w terminie 30 dni od dnia złożenia wniosku.
+2. Decyzję o zezwoleniu na nieodpłatne zajęcie pasa drogowego, o której mowa w art. 40 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2013 r. poz. 260, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 843, 1446 i 1543 oraz z 2014 r. poz. 659 i 1310.), wydaje zarządca drogi w terminie 30 dni od dnia złożenia wniosku.
 
 3. Jeżeli decyzji o ustaleniu lokalizacji linii kolejowej został nadany rygor natychmiastowej wykonalności decyzję o zezwoleniu na nieodpłatne zajęcie pasa drogowego wydaje się niezwłocznie.
 
-4. PLK S.A. albo jednostka samorządu terytorialnego nie później niż w terminie 30 dni przed planowanym zajęciem terenu wód płynących uzgadnia w drodze pisemnego porozumienia z odpowiednimi organami, o których mowa w art. 11 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm.) zakres, warunki i termin tego zajęcia.
+4. PLK S.A. albo jednostka samorządu terytorialnego nie później niż w terminie 30 dni przed planowanym zajęciem terenu wód płynących uzgadnia w drodze pisemnego porozumienia z odpowiednimi organami, o których mowa w art. 11 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513, z 2013 r. poz. 21 i 165 oraz z 2014 r. poz. 659, 822, 850 i 1146.) zakres, warunki i termin tego zajęcia.
 
 5. W przypadku gdy decyzji o ustaleniu lokalizacji linii kolejowej został nadany rygor natychmiastowej wykonalności, porozumienie, o którym mowa w ust. 4, zawiera się niezwłocznie.
 
@@ -148,7 +154,7 @@ source: "eli-html"
 
 1. Do gruntów rolnych i leśnych objętych decyzją o ustaleniu lokalizacji linii kolejowej nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych.
 
-2. Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych decyzją o ustaleniu lokalizacji linii kolejowej, z wyjątkiem drzew i krzewów wpisanych do rejestru zabytków, nie stosuje się przepisów ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.) w zakresie obowiązku uzyskiwania zezwoleń na ich usunięcie oraz opłat z tym związanych. ” ;
+2. Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych decyzją o ustaleniu lokalizacji linii kolejowej, z wyjątkiem drzew i krzewów wpisanych do rejestru zabytków, nie stosuje się przepisów ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850, 926, 1002, 1101 i 1863.) w zakresie obowiązku uzyskiwania zezwoleń na ich usunięcie oraz opłat z tym związanych. ” ;
 
 - **9)** w art. 9z dotychczasową treść oznacza się jako ust. 1 oraz dodaje się ust. 2 w brzmieniu: „
 
@@ -201,7 +207,7 @@ source: "eli-html"
 
 **Art. 38c.**
 
-1. Inwestycje obejmujące linie kolejowe zarządzane przez PLK S.A. są prowadzone w ramach programu wieloletniego w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.).
+1. Inwestycje obejmujące linie kolejowe zarządzane przez PLK S.A. są prowadzone w ramach programu wieloletniego w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379, 911, 1146, 1626 i 1877.).
 
 2. Program wieloletni ustanawia się na okres nie krótszy niż 3 lata.
 
@@ -216,10 +222,10 @@ source: "eli-html"
 
 6. W terminie do dnia 31 marca każdego roku minister właściwy do spraw transportu składa Radzie Ministrów sprawozdanie z wykonania planu realizacji programu wieloletniego za rok poprzedni. ” .
 
-**Art. 2.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.) w art. 35 ust. 6 otrzymuje brzmienie: „ 6. W przypadku gdy właściwy organ nie wyda decyzji w sprawie pozwolenia na budowę:
+**Art. 2.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151.) w art. 35 ust. 6 otrzymuje brzmienie: „ 6. W przypadku gdy właściwy organ nie wyda decyzji w sprawie pozwolenia na budowę:
 
 - **1)** w terminie 65 dni od dnia złożenia wniosku o wydanie takiej decyzji albo
-- **2)** w zakresie realizacji inwestycji kolejowej, w terminie 45 dni od dnia złożenia wniosku o wydanie takiej decyzji organ wyższego stopnia wymierza temu organowi, w drodze postanowienia, na które przysługuje zażalenie, karę w wysokości 500 zł za każdy dzień zwłoki. Wpływy z kar stanowią dochód budżetu państwa. ” .
+- **2)** w zakresie realizacji inwestycji kolejowej, w terminie 45 dni od dnia złożenia wniosku o wydanie takiej decyzji – organ wyższego stopnia wymierza temu organowi, w drodze postanowienia, na które przysługuje zażalenie, karę w wysokości 500 zł za każdy dzień zwłoki. Wpływy z kar stanowią dochód budżetu państwa. ” .
 
 **Art. 3.** W ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2013 r. poz. 1205 oraz z 2014 r. poz. 40 i 1101) uchyla się art. 5a.
 
@@ -235,7 +241,7 @@ source: "eli-html"
 
 **Art. 5.** W ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym (Dz. U. z 2014 r. poz. 1201 i 1559) w art. 3 dodaje się ust. 3d w brzmieniu: „ 3d. Środki Funduszu mogą być przeznaczone na finansowanie lub współfinansowanie zakupu i modernizacji przez PKP PLK SA pojazdów kolejowych przeznaczonych do diagnostyki, utrzymania, naprawy lub budowy infrastruktury kolejowej oraz do prowadzenia działań ratowniczych. ” .
 
-**Art. 6.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.) użyte w art. 64 ust. 2 pkt 3, art. 74 ust. 1 pkt 5, art. 77 ust. 2 pkt 3, art. 80 ust. 2 oraz art. 96 ust. 3 pkt 5 wyrazy „linii kolejowej o znaczeniu państwowym” zastępuje się wyrazami „linii kolejowej”.
+**Art. 6.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 587, 822, 850, 1101 i 1133.) użyte w art. 64 ust. 2 pkt 3, art. 74 ust. 1 pkt 5, art. 77 ust. 2 pkt 3, art. 80 ust. 2 oraz art. 96 ust. 3 pkt 5 wyrazy „linii kolejowej o znaczeniu państwowym” zastępuje się wyrazami „linii kolejowej”.
 
 **Art. 7.**
 
@@ -245,5 +251,5 @@ source: "eli-html"
 
 **Art. 8.** Do postępowań w sprawie wydania zezwoleń na dopuszczenie do eksploatacji podsystemów strukturalnych lub pojazdów kolejowych, wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe. Programy wieloletnie przyjęte przed dniem wejścia w życie niniejszej ustawy na podstawie art. 38c ust. 1 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym, zachowują ważność przez okres, na jaki zostały ustanowione, i mogą być aktualizowane na podstawie dotychczasowych przepisów.
 
-**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 14, który wchodzi w życie z dniem 21 maja 2015 r.
+**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 14, który wchodzi w życie z dniem 21 maja 2015 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych, ustawę z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, ustawę z dnia 16 grudnia 2005 r. o Funduszu Kolejowym oraz ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 644, 768 i 962. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 843, 1446 i 1543 oraz z 2014 r. poz. 659 i 1310. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513, z 2013 r. poz. 21 i 165 oraz z 2014 r. poz. 659, 822, 850 i 1146. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850, 926, 1002, 1101 i 1863. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379, 911, 1146, 1626 i 1877. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 587, 822, 850, 1101 i 1133.
 

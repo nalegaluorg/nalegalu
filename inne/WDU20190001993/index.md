@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 października 2019 r. w sprawie przekazywania przez agencję płatniczą ministrowi właściwemu do spraw rozwoju wsi informacji niezbędnych do publikacji wykazu beneficjentów
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 października 2019 r. w sprawie przekazywania przez agencję płatniczą ministrowi właściwemu do spraw rozwoju wsi informacji niezbędnych do publikacji wykazu beneficjentów Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-07 |
 | Data wydania | 2019-10-21 |
-| Wejście w życie | 2019-11-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001993) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1993/text.pdf) |
 
@@ -35,6 +34,5 @@ Agencja płatnicza przekazuje ministrowi właściwemu do spraw rozwoju wsi infor
 § 3.
 Informacje określone w art. 9 ust. 4 ustawy, o której mowa w § 1, są przekazywane ministrowi właściwemu do spraw rozwoju wsi w formie dokumentów elektronicznych w rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne, do dnia 30 kwietnia roku następującego po roku, którego dotyczą te informacje.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 17 sierpnia 2015 r. w sprawie przekazywania przez agencje płatnicze jednostce koordynującej informacji niezbędnych do publikacji wykazu beneficjentów (Dz. U. poz. 1362), które zgodnie z art. 60 ust. 1 pkt 6 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) utraciło moc z dniem 1 września 2019 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 17 sierpnia 2015 r. w sprawie przekazywania przez agencje płatnicze jednostce koordynującej informacji niezbędnych do publikacji wykazu beneficjentów (Dz. U. poz. 1362), które zgodnie z art. 60 ust. 1 pkt 6 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) utraciło moc z dniem 1 września 2019 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 17 sierpnia 2015 r. w sprawie przekazywania przez agencje płatnicze jednostce koordynującej informacji niezbędnych do publikacji wykazu beneficjentów (Dz. U. poz. 1362), które zgodnie z art. 60 ust. 1 pkt 6 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) utraciło moc z dniem 1 września 2019 r.
 

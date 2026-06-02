@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatuz dnia 7 sierpnia 2020 r. w sprawie szczegółowego wykazu surowców oraz produktów naftowych objętych systemem zapasów interwencyjnych oraz wykazu paliw stanowiących podstawę do wyliczenia opłaty zapasowej
+# Rozporządzenie Ministra Klimatuz dnia 7 sierpnia 2020 r. w sprawie szczegółowego wykazu surowców oraz produktów naftowych objętych systemem zapasów interwencyjnych oraz wykazu paliw stanowiących podstawę do wyliczenia opłaty zapasowej Minister Klimatu kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 marca 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu (Dz. U. poz. 495).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-08-07 |
 | Data wydania | 2020-08-12 |
-| Wejście w życie | 2020-09-01 |
 | Ostatnia zmiana | 2025-10-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001373) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1373/text.pdf) |
 
@@ -237,8 +236,7 @@ e)
 f)
 2710 20 38,
 g)
-2710 20 90
-− w tym również zawierające dodatki bez względu na ich ilość.
+2710 20 90 − w tym również zawierające dodatki bez względu na ich ilość.
 § 5.
 Zapasy interwencyjne paliw mogą być utrzymywane zamiennie w zakresie następujących kategorii:
 1)
@@ -316,6 +314,5 @@ f)
 g)
 2710 20 90.
 § 7.
-Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
-1) Minister Klimatu kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 marca 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu (Dz. U. poz. 495). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 8 grudnia 2014 r. w sprawie szczegółowego wykazu surowców oraz produktów naftowych objętych systemem zapasów interwencyjnych oraz wykazu paliw stanowiących podstawę do wyliczenia opłaty zapasowej (Dz. U. poz. 1806), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 34 ustawy z dnia 11 lutego 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 266 i 1592).
+Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 8 grudnia 2014 r. w sprawie szczegółowego wykazu surowców oraz produktów naftowych objętych systemem zapasów interwencyjnych oraz wykazu paliw stanowiących podstawę do wyliczenia opłaty zapasowej (Dz. U. poz. 1806), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 34 ustawy z dnia 11 lutego 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 266 i 1592). 1) Minister Klimatu kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 marca 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu (Dz. U. poz. 495). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 8 grudnia 2014 r. w sprawie szczegółowego wykazu surowców oraz produktów naftowych objętych systemem zapasów interwencyjnych oraz wykazu paliw stanowiących podstawę do wyliczenia opłaty zapasowej (Dz. U. poz. 1806), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 34 ustawy z dnia 11 lutego 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 266 i 1592).
 

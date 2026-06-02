@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 24 maja 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Polityki Społecznej w sprawie specjalistycznych usług opiekuńczych
+# Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 24 maja 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Polityki Społecznej w sprawie specjalistycznych usług opiekuńczych Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715).
 
 | Pole | Wartość |
 |---|---|
@@ -37,19 +37,16 @@ rozporządzeniem Ministra Rodziny i Polityki Społecznej z dnia 16 lutego 2023 r
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 i § 3 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 6 lipca 2006 r. zmieniającego rozporządzenie w sprawie specjalistycznych usług opiekuńczych (Dz. U. poz. 943), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 6 lipca 2006 r. zmieniającego rozporządzenie w sprawie specjalistycznych usług opiekuńczych (Dz. U. poz. 943), które stanowią: „
 § 2.
 1.
 Do dnia 31 grudnia 2006 r. specjalistyczne usługi mogą być świadczone przez osoby, które przed dniem 1 października 2005 r. były zatrudnione w jednostkach samorządu terytorialnego lub jednostkach niepublicznych jako osoby świadczące specjalistyczne usługi dla osób z zaburzeniami psychicznymi i spełniały kryteria wymagane przed tym okresem.
 2.
 Osoby, o których mowa w ust. 1, które świadczyły specjalistyczne usługi dla osób z zaburzeniami psychicznymi do dnia wejścia w życie niniejszego rozporządzenia, są traktowane jak osoby, które spełniały kryteria wymagane przed okresem wskazanym w ust. 1.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2–5 rozporządzenia Ministra Rodziny i Polityki Społecznej z dnia 16 lutego 2023 r. zmieniającego rozporządzenie w sprawie specjalistycznych usług opiekuńczych (Dz. U. poz. 395), które stanowią:
-„
+§ 2–5 rozporządzenia Ministra Rodziny i Polityki Społecznej z dnia 16 lutego 2023 r. zmieniającego rozporządzenie w sprawie specjalistycznych usług opiekuńczych (Dz. U. poz. 395), które stanowią: „
 § 2.
 Osoby, które przed dniem wejścia w życie niniejszego rozporządzenia posiadały co najmniej półroczny staż w zakładach rehabilitacyjnych, mogą świadczyć specjalistyczne usługi dla osób z zaburzeniami psychicznymi po dniu wejścia w życie niniejszego rozporządzenia.
 § 3.
@@ -60,10 +57,8 @@ Decyzje ustalające wysokość odpłatności za specjalistyczne usługi, o któr
 2.
 Ośrodek pomocy społecznej albo centrum usług społecznych, przed upływem terminu, o którym mowa w ust. 1, ustalą wysokość odpłatności za specjalistyczne usługi na podstawie rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 5.
-Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po upływie miesiąca od dnia ogłoszenia.
-” .
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715).
-Załącznik – Rozporządzenie Ministra Polityki Społecznej z dnia 22 września 2005 r. w sprawie specjalistycznych usług opiekuńczych
+Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po upływie miesiąca od dnia ogłoszenia. ” . 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715).
+Załącznik – Rozporządzenie Ministra Polityki Społecznej z dnia 22 września 2005 r. w sprawie specjalistycznych usług opiekuńczychNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – zabezpieczenie społeczne kieruje Minister Rodziny, Pracy i Polityki Społecznej, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715).
 Na podstawie art. 50 ust. 7 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, 1693, 1938 i 2760 oraz z 2024 r. poz. 743) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -139,10 +134,10 @@ c)
 kształtowanie właściwych relacji osoby uzyskującej pomoc z sąsiadami i gospodarzem domu;
 5)
 zapewnienie dzieciom i młodzieży z zaburzeniami psychicznymi dostępu do zajęć rehabilitacyjnych i rewalidacyjno-wychowawczych, w wyjątkowych przypadkach, jeżeli nie mają możliwości uzyskania dostępu do zajęć, o których mowa w art. 7 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2022 r. poz. 2123 oraz z 2023 r. poz. 1972).
-§ 3.
+§ 3W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 6 lipca 2006 r. zmieniającego rozporządzenie w sprawie specjalistycznych usług opiekuńczych (Dz. U. poz. 943), które weszło w życie z dniem 9 sierpnia 2006 r..
 1.
 Specjalistyczne usługi są świadczone przez osoby posiadające kwalifikacje do wykonywania zawodu: pracownika socjalnego, psychologa, pedagoga, logopedy, terapeuty zajęciowego, pielęgniarki, asystenta osoby niepełnosprawnej, opiekunki środowiskowej, specjalisty w zakresie rehabilitacji medycznej, fizjoterapeuty lub innego zawodu dającego wiedzę i umiejętności pozwalające świadczyć określone specjalistyczne usługi.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rodziny i Polityki Społecznej z dnia 16 lutego 2023 r. zmieniającego rozporządzenie w sprawie specjalistycznych usług opiekuńczych (Dz. U. poz. 395), które weszło w życie z dniem 1 maja 2023 r..
 Osoby świadczące specjalistyczne usługi dla osób z zaburzeniami psychicznymi muszą posiadać co najmniej trzymiesięczne doświadczenie zawodowe w pracy z osobami z zaburzeniami psychicznymi zdobyte w jednej z następujących jednostek:
 1)
 szpitalu psychiatrycznym;
@@ -171,19 +166,20 @@ prowadzenia treningu zachowań społecznych.
 Odpłatność za specjalistyczne usługi dla osób z zaburzeniami psychicznymi ustala ośrodek pomocy społecznej właściwy ze względu na miejsce zamieszkania osoby wymagającej pomocy w tej formie, na wniosek osoby zainteresowanej lub jej opiekuna, w zależności od posiadanego dochodu na osobę w rodzinie.
 2.
 Minimalny poziom dochodu, od którego jest obliczana wysokość odpłatności, odpowiada aktualnie obowiązującemu kryterium dochodowemu osoby samotnie gospodarującej, o którym mowa w art. 8 ust. 1 pkt 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
-3.
-Przedziały dochodu uzyskiwanego przez osobę samotnie gospodarującą lub przypadającego na osobę w rodzinie określają następujące wskaźniki odpłatności: Dochód osoby samotnie gospodarującej lub przypadający na osobę w rodzinie: Wskaźniki odpłatności w procentach ustalone od ceny specjalistycznej usługi za 1 godzinę zegarową dla: osoby samotnie gospodarującej osoby w rodzinie do 100 % kwoty kryterium dochodowego, o którym mowa w art. 8 ust. 1 pkt 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej nieodpłatnie nieodpłatnie powyżej 100% do 220% 1,5% 3,5% powyżej 220 % do 250 % 10% 15% powyżej 250 % do 300 % 15% 25% powyżej 300 % do 400 % 30% 45% powyżej 400 % do 500 % 50% 65% powyżej 500 % do 600 % 75% 85% powyżej 600 % 100% 100%
-4.
+3W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3..
+Przedziały dochodu uzyskiwanego przez osobę samotnie gospodarującą lub przypadającego na osobę w rodzinie określają następujące wskaźniki odpłatności:
+Dochód osoby samotnie gospodarującej lub przypadający na osobę w rodzinie: Wskaźniki odpłatności w procentach ustalone od ceny specjalistycznej usługi za 1 godzinę zegarową dla: osoby samotnie gospodarującej osoby w rodzinie do 100 % kwoty kryterium dochodowego, o którym mowa w art. 8 ust. 1 pkt 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej nieodpłatnie nieodpłatnie powyżej 100% do 220% 1,5% 3,5% powyżej 220 % do 250 % 10% 15% powyżej 250 % do 300 % 15% 25% powyżej 300 % do 400 % 30% 45% powyżej 400 % do 500 % 50% 65% powyżej 500 % do 600 % 75% 85% powyżej 600 % 100% 100%
+4W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3..
 Cenę 1 godziny zegarowej specjalistycznych usług dla osób z zaburzeniami psychicznymi ustala ośrodek pomocy społecznej albo centrum usług społecznych, o którym mowa w ustawie z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818). Cenę ustala się na podstawie analizy kosztów realizacji tego zadania lub wynika ona z umowy zawartej przez ośrodek pomocy społecznej lub centrum usług społecznych z podmiotem przyjmującym zlecenie realizacji zadania.
 5.
 Opłata za specjalistyczne usługi stanowi iloczyn ceny, o której mowa w ust. 4, wskaźnika odpłatności określonego w procentach, o którym mowa w ust. 3, oraz liczby godzin świadczonych usług w ciągu miesiąca.
-6.
+6W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 Ośrodek pomocy społecznej albo centrum usług społecznych wydaje decyzję o liczbie godzin przyznanych miesięcznie specjalistycznych usług oraz o wysokości odpłatności.
 7.
 Jeżeli wyliczona kwota odpłatności za specjalistyczne usługi dla osób z zaburzeniami psychicznymi jest niższa od kwoty określonej w art. 38 ust. 4 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, odpłatności nie pobiera się.
 8.
 Odpłatność za specjalistyczne usługi dla osób z zaburzeniami psychicznymi świadczone w ośrodkach wsparcia regulują odrębne przepisy.
-§ 5.
+§ 5W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3..
 Opłata za specjalistyczne usługi jest wnoszona przez osobę uzyskującą pomoc w formie specjalistycznej usługi lub jej opiekuna, w terminie do 15. dnia każdego miesiąca następującego po miesiącu, w którym wykonano usługę:
 1)
 bezpośrednio do kasy urzędu gminy, ośrodka pomocy społecznej albo centrum usług społecznych;
@@ -199,9 +195,8 @@ konieczność ponoszenia opłat za pobyt członka rodziny w domu pomocy społecz
 konieczność korzystania przez więcej niż jedną osobę w rodzinie z pomocy w formie specjalistycznych usług lub usług opiekuńczych, w tym co najmniej jedną przewlekle chorą;
 4)
 zdarzenie losowe;
-5)
+5Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3.)
 konieczność ponoszenia zwiększonych wydatków na leki, leczenie, rehabilitację własną lub członka rodziny.
 § 7.
-Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – zabezpieczenie społeczne kieruje Minister Rodziny, Pracy i Polityki Społecznej, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 6 lipca 2006 r. zmieniającego rozporządzenie w sprawie specjalistycznych usług opiekuńczych (Dz. U. poz. 943), które weszło w życie z dniem 9 sierpnia 2006 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rodziny i Polityki Społecznej z dnia 16 lutego 2023 r. zmieniającego rozporządzenie w sprawie specjalistycznych usług opiekuńczych (Dz. U. poz. 395), które weszło w życie z dniem 1 maja 2023 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 7) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 8) Rozporządzenie zostało ogłoszone w dniu 30 września 2005 r. 9) Z dniem wejścia w życie niniejszego rozporządzenia utraciło moc rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 18 grudnia 1996 r. w sprawie rodzajów specjalistycznych usług opiekuńczych oraz kwalifikacji osób świadczących takie usługi dla osób z zaburzeniami psychicznymi, zasad i trybu ustalania i pobierania opłat za te usługi, jak również warunków częściowego lub całkowitego zwolnienia od opłat (Dz. U. z 1997 r. poz. 12), zachowane w mocy na podstawie art. 159 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. poz. 593, 1001 i 2703 oraz z 2005 r. poz. 565, 788, 1366, 1462, 1487 i 1493).
+Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 30 września 2005 r..Z dniem wejścia w życie niniejszego rozporządzenia utraciło moc rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 18 grudnia 1996 r. w sprawie rodzajów specjalistycznych usług opiekuńczych oraz kwalifikacji osób świadczących takie usługi dla osób z zaburzeniami psychicznymi, zasad i trybu ustalania i pobierania opłat za te usługi, jak również warunków częściowego lub całkowitego zwolnienia od opłat (Dz. U. z 1997 r. poz. 12), zachowane w mocy na podstawie art. 159 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. poz. 593, 1001 i 2703 oraz z 2005 r. poz. 565, 788, 1366, 1462, 1487 i 1493). 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – zabezpieczenie społeczne kieruje Minister Rodziny, Pracy i Polityki Społecznej, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 6 lipca 2006 r. zmieniającego rozporządzenie w sprawie specjalistycznych usług opiekuńczych (Dz. U. poz. 943), które weszło w życie z dniem 9 sierpnia 2006 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rodziny i Polityki Społecznej z dnia 16 lutego 2023 r. zmieniającego rozporządzenie w sprawie specjalistycznych usług opiekuńczych (Dz. U. poz. 395), które weszło w życie z dniem 1 maja 2023 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 7) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 8) Rozporządzenie zostało ogłoszone w dniu 30 września 2005 r. 9) Z dniem wejścia w życie niniejszego rozporządzenia utraciło moc rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 18 grudnia 1996 r. w sprawie rodzajów specjalistycznych usług opiekuńczych oraz kwalifikacji osób świadczących takie usługi dla osób z zaburzeniami psychicznymi, zasad i trybu ustalania i pobierania opłat za te usługi, jak również warunków częściowego lub całkowitego zwolnienia od opłat (Dz. U. z 1997 r. poz. 12), zachowane w mocy na podstawie art. 159 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. poz. 593, 1001 i 2703 oraz z 2005 r. poz. 565, 788, 1366, 1462, 1487 i 1493).
 

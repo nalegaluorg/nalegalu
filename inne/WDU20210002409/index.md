@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 21 grudnia 2021 r. zmieniające rozporządzenie w sprawie przedłużenia terminu do wpłaty przez podatników podatku dochodowego od osób fizycznych podatku należnego od dochodów z niezrealizowanych zysków
+# Rozporządzenie Ministra Finansówz dnia 21 grudnia 2021 r. zmieniające rozporządzenie w sprawie przedłużenia terminu do wpłaty przez podatników podatku dochodowego od osób fizycznych podatku należnego od dochodów z niezrealizowanych zysków Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-21 |
 | Data wydania | 2021-12-24 |
-| Wejście w życie | 2021-12-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002409) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2409/text.pdf) |
 
@@ -39,6 +38,5 @@ w pkt 2 wyrazy „31 grudnia 2021 r.” zastępuje się wyrazami „31 grudnia 2
 2)
 w ust. 2 wyrazy „30 listopada 2021 r.” zastępuje się wyrazami „30 listopada 2023 r.”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947).
 

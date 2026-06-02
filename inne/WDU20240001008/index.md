@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 3 lipca 2024 r. w sprawie szczegółowych kryteriów warunkujących przynależność podmiotu wykonującego działalność leczniczą do poziomu zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej Specjalistyczny Ośrodek Leczenia Onkologicznego
+# Rozporządzenie Ministra Zdrowiaz dnia 3 lipca 2024 r. w sprawie szczegółowych kryteriów warunkujących przynależność podmiotu wykonującego działalność leczniczą do poziomu zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej Specjalistyczny Ośrodek Leczenia Onkologicznego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-03 |
 | Data wydania | 2024-07-09 |
-| Wejście w życie | 2024-07-24 |
 | Ostatnia zmiana | 2024-07-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001008) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1008/text.pdf) |
 
@@ -37,8 +36,7 @@ I poziomu,
 2)
 II poziomu,
 3)
-III poziomu
-stanowiące załącznik do rozporządzenia.
+III poziomu – stanowiące załącznik do rozporządzenia.
 § 2.
 Przy pierwszej kwalifikacji, o której mowa w art. 56 ust. 2 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej, na poziom zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej, o którym mowa w:
 1)
@@ -50,8 +48,553 @@ w dziale II w lp. 2 „Realizacja świadczeń opieki zdrowotnej” w kolumnie 4 
 b)
 w dziale III w lp. 1 „Obszar leczenie zabiegowe chirurgiczne” w części A w kolumnie 4 – jeżeli wykonał w roku kalendarzowym poprzedzającym kwalifikację co najmniej 500 zabiegów chirurgicznych związanych z leczeniem operacyjnym nowotworów, dla których rozpoznania i procedury medyczne są zdefiniowane w części B, oraz spełnił warunek realizacji minimalnej liczby zabiegów co najmniej w 3 z 16 grup nowotworów określonych w części B.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 Załącznik – Szczegółowe kryteria warunkujące przynależność podmiotu wykonującego działalność leczniczą do poziomu zabezpieczenia opieki onkologicznej krajowej sieci onkologicznej specjalistyczny ośrodek leczenia onkologicznego
-Lp. Rodzaj kryterium Specjalistyczne Ośrodki Leczenia Onkologicznego I poziomu(SOLO I) Specjalistyczne Ośrodki Leczenia Onkologicznego II poziomu(SOLO II) Specjalistyczne Ośrodki Leczenia Onkologicznego III poziomu(SOLO III) 1 2 3 4 I Liczba i kwalifikacje personelu medycznego 1 Personel medyczny Lekarz specjalista:1) w dziedzinie chirurgii onkologicznej lub w dziedzinie chirurgii ogólnej, lub w innej dziedzinie zabiegowej odpowiedniej dla danego rodzaju lub umiejscowienia nowotworu złośliwego, realizujący świadczenia opieki zdrowotnej z zakresu leczenia szpitalnego -równoważnik 2 etatów -w przypadku udzielania świadczeń opieki zdrowotnej z obszaru leczenia zabiegowego chirurgicznego lub2) w dziedzinie radioterapii onkologicznej – równoważnik 2 etatów – w przypadku udzielania świadczeń opieki zdrowotnej z obszaru radioterapii onkologicznej Lekarz specjalista:1) w dziedzinie chirurgii onkologicznej lub w dziedzinie chirurgii ogólnej, lub w innej dziedzinie zabiegowej odpowiedniej dla danego rodzaju lub umiejscowienia nowotworu złośliwego, realizujący świadczenia opieki zdrowotnej z zakresu leczenia szpitalnego -równoważnik 2 etatów -w przypadku udzielania świadczeń opieki zdrowotnej z obszaru leczenia zabiegowego chirurgicznego lub2) w dziedzinie radioterapii onkologicznej – równoważnik 2 etatów – w przypadku udzielania świadczeń opieki zdrowotnej z obszaru radioterapii onkologicznej Lekarz specjalista:1) w dziedzinie zabiegowej realizujący świadczenia opieki zdrowotnej z zakresu leczenia szpitalnego – równoważnik 5 etatów, w tym lekarz specjalista w dziedzinie chirurgii onkologicznej – równoważnik 3 etatów;2) w dziedzinie onkologii klinicznej lub chemioterapii – równoważnik 6 etatów;3) w dziedzinie radioterapii onkologicznej – równoważnik 5 etatów;4) w dziedzinie patomorfologii -równoważnik 2 etatów II Potencjał diagnostyczno-terapeutyczny 1 Komórki organizacyjne A. Poradnie Świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej, następujące poradnie specjalistyczne posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799):1) 1500 Poradnia chirurgii ogólnej lub2) 1540 Poradnia chirurgii onkologicznej, lub3) 1460 Poradnia ginekologii onkologicznej, lub4) 1452 Poradnia ginekologiczna, lub5) 1450 Poradnia położniczo-ginekologiczna, lub6) 1640 Poradnia urologiczna, lub7) 1520 Poradnia chirurgii klatki piersiowej, lub8) 1570 Poradnia neurochirurgiczna, lub9) 1600 Poradnia okulistyczna, lub10) 1610 Poradnia otorynolaryngologiczna, lub11) 1240 Poradnia onkologiczna, lub12) 1242 Poradnia chemioterapii, lub13) 1244 Poradnia radioterapii, lub14) 1030 Poradnia endokrynologiczna, lub15) 1050 Poradnia gastroenterologiczna, lub16) 1200 Poradnia dermatologiczna, lub17) 1270 Poradnia gruźlicy i chorób płuc, lub18) 1272 Poradnia chorób płuc, lub19) 1130 Poradnia nefrologiczna, lub20) 1506 Poradnia proktologiczna, lub21) 1580 Poradnia chirurgii urazowo-ortopedycznej, lub22) 1630 Poradnia chirurgii szczękowo-twarzowej, lub23) 1056 Poradnia hepatologiczna, lub24) 1220 Poradnia neurologiczna, lub25) 1614 Poradnia foniatryczna Świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej, następujące poradnie specjalistyczne posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej:1) 1500 Poradnia chirurgii ogólnej lub2) 1540 Poradnia chirurgii onkologicznej, lub3) 1460 Poradnia ginekologii onkologicznej, lub4) 1452 Poradnia ginekologiczna, lub5) 1450 Poradnia położniczo-ginekologiczna, lub6) 1640 Poradnia urologiczna, lub7) 1520 Poradnia chirurgii klatki piersiowej, lub8) 1570 Poradnia neurochirurgiczna, lub9) 1600 Poradnia okulistyczna, lub10) 1610 Poradnia otorynolaryngologiczna, lub11) 1240 Poradnia onkologiczna, lub12) 1242 Poradnia chemioterapii, lub13) 1244 Poradnia radioterapii, lub14) 1030 Poradnia endokrynologiczna, lub15) 1050 Poradnia gastroenterologiczna, lub16) 1200 Poradnia dermatologiczna, lub17) 1270 Poradnia gruźlicy i chorób płuc, lub18) 1272 Poradnia chorób płuc, lub19) 1130 Poradnia nefrologiczna, lub20) 1506 Poradnia proktologiczna, lub21) 1580 Poradnia chirurgii urazowo-ortopedycznej, lub22) 1630 Poradnia chirurgii szczękowo-twarzowej, lub23) 1056 Poradnia hepatologiczna, lub24) 1220 Poradnia neurologiczna, lub25) 1614 Poradnia foniatryczna Świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej, następujące poradnie specjalistyczne posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej:1) 1500 Poradnia chirurgii ogólnej lub2) 1540 Poradnia chirurgii onkologicznej, lub3) 1460 Poradnia ginekologii onkologicznej, lub4) 1452 Poradnia ginekologiczna, lub5) 1450 Poradnia położniczo-ginekologiczna, lub6) 1640 Poradnia urologiczna, lub7) 1520 Poradnia chirurgii klatki piersiowej, lub8) 1570 Poradnia neurochirurgiczna, lub9) 1600 Poradnia okulistyczna, lub10) 1610 Poradnia otorynolaryngologiczna, lub11) 1240 Poradnia onkologiczna, lub12) 1242 Poradnia chemioterapii, lub13) 1244 Poradnia radioterapii, lub14) 1030 Poradnia endokrynologiczna, lub15) 1050 Poradnia gastroenterologiczna, lub16) 1200 Poradnia dermatologiczna, lub17) 1270 Poradnia gruźlicy i chorób płuc, lub18) 1272 Poradnia chorób płuc, lub19) 1130 Poradnia nefrologiczna, lub20) 1506 Poradnia proktologiczna, lub21) 1580 Poradnia chirurgii urazowo-ortopedycznej, lub22) 1630 Poradnia chirurgii szczękowo-twarzowej, lub23) 1056 Poradnia hepatologiczna, lub24) 1220 Poradnia neurologiczna, lub25) 1614 Poradnia foniatryczna B. Oddziały, pracownie, zakłady 1) w przypadku udzielania świadczeń opieki zdrowotnej z obszaru leczenia zabiegowego chirurgicznego świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej, następujące komórki organizacyjne posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej – oddział o specjalności zabiegowej: a) 4500 Oddział chirurgii ogólnej lubb) 4540 Oddział chirurgii onkologicznej, lubc) 4550 Oddział chirurgii plastycznej, lubd) 4460 Oddział ginekologii onkologicznej, lube) 4452 Oddział ginekologiczny, lubf) 4450 Oddział położniczo-ginekologiczny, lubg) 4640 Oddział urologiczny, lubh) 4520 Oddział chirurgii klatki piersiowej, lubi) 4570 Oddział neurochirurgiczny, lubj) 4600 Oddział okulistyczny, lubk) 4610 Oddział otorynolaryngologiczny, lubl) 4580 Oddział chirurgii urazowo-ortopedycznej, lubm) 4630 Oddział chirurgii szczękowo-twarzowej;2) w przypadku udzielania świadczeń opieki zdrowotnej z obszaru chemioterapii i innych metod leczenia systemowego świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej, następujące komórki organizacyjne, posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej: a) 4240 Oddział onkologiczny lubb) 4242 Oddział onkologii klinicznej / chemioterapii lubc) 4670 Oddział leczenia jednego dnia, lubd) 4272 Oddział chorób płuc, lube) 4270 Oddział gruźlicy i chorób płuc, lubf) 4030 Oddział endokrynologiczny, lubg) 4050 Oddział gastroenterologiczny, lubh) 4460 Oddział ginekologii onkologicznej, lubi) 4500 Oddział chirurgiczny ogólny, lubj) 4540 Oddział chirurgii onkologicznej, lubk) 4000 Oddział chorób wewnętrznych, lubl) 4640 Oddział urologiczny, lubm) 4610 Oddział otorynolaryngologiczny, lubn) 4650 Oddział transplantologiczny, lubo) 4244 Oddział radioterapii;3) w przypadku udzielania świadczeń opieki zdrowotnej z obszaru radioterapii onkologicznej świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej, komórkę organizacyjną posiadającą resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej – 7960 Pracownia lub zakład teleradioterapii;4) świadczeniodawca posiada co najmniej w dostępie: a) 7300 Zakład patomorfologii lubb) 7150 Pracownia histopatologii i 7140 Pracownia cytologiczna 1) w przypadku udzielania świadczeń opieki zdrowotnej z obszaru leczenia zabiegowego chirurgicznego świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej, następujące komórki organizacyjne posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej – oddział o specjalności zabiegowej: a) 4500 Oddział chirurgii ogólnej lubb) 4540 Oddział chirurgii onkologicznej, lubc) 4550 Oddział chirurgii plastycznej, lubd) 4460 Oddział ginekologii onkologicznej, lube) 4452 Oddział ginekologiczny, lubf) 4450 Oddział położniczo-ginekologiczny, lubg) 4640 Oddział urologiczny, lubh) 4520 Oddział chirurgii klatki piersiowej, lubi) 4570 Oddział neurochirurgiczny, lubj) 4600 Oddział okulistyczny, lubk) 4610 Oddział otorynolaryngologiczny, lubl) 4580 Oddział chirurgii urazowo-ortopedycznej, lubm) 4630 Oddział chirurgii szczękowo-twarzowej;2) w przypadku udzielania świadczeń opieki zdrowotnej z obszaru chemioterapii i innych metod leczenia systemowego świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej, następujące komórki organizacyjne, posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej: a) 4240 Oddział onkologiczny lubb) 4242 Oddział onkologii klinicznej / chemioterapii lubc) 4670 Oddział leczenia jednego dnia, lubd) 4272 Oddział chorób płuc, lube) 4270 Oddział gruźlicy i chorób płuc, lubf) 4030 Oddział endokrynologiczny, lubg) 4050 Oddział gastroenterologiczny, lubh) 4460 Oddział ginekologii onkologicznej, lubi) 4500 Oddział chirurgiczny ogólny, lubj) 4540 Oddział chirurgii onkologicznej, lubk) 4000 Oddział chorób wewnętrznych, lubl) 4640 Oddział urologiczny, lubm) 4610 Oddział otorynolaryngologiczny, lubn) 4650 Oddział transplantologiczny, lubo) 4244 Oddział radioterapii;3) w przypadku udzielania świadczeń opieki zdrowotnej z obszaru radioterapii onkologicznej świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej, komórkę organizacyjną posiadającą resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej – 7960 Pracownia lub zakład teleradioterapii;4) świadczeniodawca posiada co najmniej w dostępie: a) 7300 Zakład patomorfologii lubb) 7150 Pracownia histopatologii i 7140 Pracownia cytologiczna 1) świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej: a) dla świadczeń opieki zdrowotnej z obszaru leczenia zabiegowego chirurgicznego – następujące komórki organizacyjne posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej:- 4500 Oddział chirurgii ogólnej lub- 4540 Oddział chirurgii onkologicznej, lub- 4550 Oddział chirurgii plastycznej, lub- 4460 Oddział ginekologii onkologicznej, lub- 4452 Oddział ginekologiczny, lub- 4450 Oddział położniczo-ginekologiczny, lub- 4640 Oddział urologiczny, lub- 4520 Oddział chirurgii klatki piersiowej, lub- 4570 Oddział neurochirurgiczny, lub- 4600 Oddział okulistyczny, lub -4610 Oddział otorynolaryngologiczny, lub- 4580 Oddział chirurgii urazowo-ortopedycznej, lub- 4630 Oddział chirurgii szczękowo-twarzowej, b) dla świadczeń opieki zdrowotnej z obszaru chemioterapii i innych metod leczenia systemowego -następujące komórki organizacyjne posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej:- 4240 Oddział onkologiczny lub- 4242 Oddział onkologii klinicznej lub chemioterapii lub- 4272 Oddział chorób płuc, lub- 4270 Oddział gruźlicy i chorób płuc, lub- 4030 Oddział endokrynologiczny, lub- 4050 Oddział gastroenterologiczny, lub- 4460 Oddział ginekologii onkologicznej, lub- 4500 Oddział chirurgiczny ogólny, lub- 4540 Oddział chirurgii onkologicznej, lub- 4000 Oddział chorób wewnętrznych, lub- 4640 Oddział urologiczny, lub- 4610 Oddział otorynolaryngologiczny, lub- 4650 Oddział transplantologiczny, lub- 4244 Oddział radioterapii, c) dla świadczeń opieki zdrowotnej z obszaru radioterapii onkologicznej – następujące komórki organizacyjne posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej:- 7960 Pracownia lub zakład teleradioterapii, oraz- 7962 Pracownia lub zakład brachyterapii;2) świadczeniodawca posiada w lokalizacji lub w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej: a) 7300 Zakład patomorfologii lubb) 7150 Pracownia histopatologii i 7140 Pracownia cytologiczna 2 Realizacja świadczeń opieki zdrowotnej Świadczeniodawca zapewnia:1) realizację świadczeń opieki zdrowotnej zgodnie z warunkami realizacji określonymi w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z poźn. zm.), zwanej dalej „ustawą o świadczeniach”, w zakresie, o którym mowa w art. 15 ust. 2 pkt 2 i 3 ustawy o świadczeniach;2) w przypadku udzielania świadczeń opieki zdrowotnej z obszaru leczenia zabiegowego chirurgicznego: a) w lokalizacji – możliwość pobrania materiału do biopsji (zgodnego z profilem diagnozowanego nowotworu), b) co najmniej dostęp do:- pozytonowej tomografii emisyjnej,- diagnostyki genetycznej i molekularnej Świadczeniodawca zapewnia:1) realizację świadczeń opieki zdrowotnej zgodnie z warunkami realizacji określonymi w przepisach wydanych na podstawie art. 31d ustawy o świadczeniach w zakresie, o którym mowa w art. 15 ust. 2 pkt 2 i 3 ustawy o świadczeniach;2) w przypadku udzielania świadczeń opieki zdrowotnej z obszaru leczenia zabiegowego chirurgicznego: a) w lokalizacji – możliwość pobrania materiału do biopsji (zgodnego z profilem diagnozowanego nowotworu), b) co najmniej dostęp do:- pozytonowej tomografii emisyjnej,- diagnostyki genetycznej i molekularnej Świadczeniodawca zapewnia:1) realizację świadczeń opieki zdrowotnej zgodnie z warunkami realizacji określonymi w przepisach wydanych na podstawie art. 31d ustawy o świadczeniach w zakresie, o którym mowa w art. 15 ust. 2 pkt 2 i 3 ustawy o świadczeniach;2) w ramach działalności jednostek diagnostyki patomorfologicznej wykonywanie łącznie badań cytologicznych; histopatologicznych, histochemicznych, immunohistochemicznych i śródoperacyjnych;3) w strukturze organizacyjnej lub w lokalizacji: a) badania diagnostyki genetycznej i molekularnej, b) badania realizowane przez medyczne laboratorium diagnostyczne wpisane do ewidencji laboratoriów, o której mowa w art. 68 ust. 6 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. z 2023 r. poz. 2125), c) badania obrazowe (tomografia komputerowa i rezonans magnetyczny), d) badania endoskopowe;4) co najmniej dostęp do badań medycyny nuklearnej, w tym pozytonowej tomografii emisyjnej 3 Organizacja udzielania świadczeń opieki zdrowotnej Świadczeniodawca zapewnia:1) konsultacje wielospecjalistyczne konieczne w procesie opieki nad świadczeniobiorcą;2) leczenie powikłań i następstw po chemioterapii i innych metodach leczenia systemowego lub radioterapii, w oparciu o posiadane schematy postępowania w zakresie leczenia powikłań i następstw po chemioterapii i innych metodach leczenia systemowego lub radioterapii, jeżeli udziela świadczeń opieki zdrowotnej w obszarze chemioterapii i innych metodach leczenia systemowego lub obszarze radioterapii onkologicznej;3) zakwaterowanie i transport świadczeniobiorcy z miejsca tego zakwaterowania do miejsca udzielania świadczeń opieki zdrowotnej, w przypadkach określonych w art. 33b ust. 2 ustawy o świadczeniach – jeżeli udziela świadczeń opieki zdrowotnej w obszarze chemioterapii i innych metodach leczenia systemowego lub obszarze radioterapii onkologicznej Świadczeniodawca zapewnia:1) konsultacje wielospecjalistyczne niezbędne w procesie opieki nad świadczeniobiorcą;2) leczenia powikłań i następstw po chemioterapii i innych metodach leczenia systemowego lub radioterapii, w oparciu o posiadane schematy postępowania w zakresie leczenia powikłań i następstw po chemioterapii i innych metodach leczenia systemowego lub radioterapii;3) zakwaterowanie i transport świadczeniobiorcy z miejsca tego zakwaterowania do miejsca udzielania świadczeń opieki zdrowotnej, w przypadkach określonych w art. 33b ust. 2 ustawy o świadczeniach -jeżeli udziela świadczeń opieki zdrowotnej w obszarze chemioterapii i innych metodach leczenia systemowego lub obszarze radioterapii onkologicznej Świadczeniodawca zapewnia:1) konsultacje wielospecjalistyczne niezbędne w procesie opieki nad świadczeniobiorcą;2) leczenie powikłań i następstw po chemioterapii i innych metodach leczenia systemowego i radioterapii, w oparciu o posiadane schematy postępowania w zakresie leczenia powikłań i następstw po chemioterapii i innych metodach leczenia systemowego i radioterapii;3) zakwaterowanie i transport świadczeniobiorcy z miejsca tego zakwaterowania do miejsca udzielania świadczeń opieki zdrowotnej w przypadkach określonych w art. 33b ust. 2 ustawy o świadczeniach – w przypadku świadczeń opieki zdrowotnej w obszarze chemioterapii i obszarze radioterapii onkologicznej;4) leczenie skojarzone -jednoczasowa chemioterapia i radioterapia (RCHT);5) pełne leczenie skojarzone nowotworów (chirurgia onkologiczna, radioterapia i chemioterapia) III Liczba i rodzaj procedur medycznych lub liczba świadczeniobiorców 1 Obszar leczenie zabiegowe chirurgiczne A. Liczba procedur medycznych Dla świadczeniodawców udzielających świadczeń opieki zdrowotnej w obszarze leczenie zabiegowe chirurgiczne – minimalna liczba świadczeń opieki zdrowotnej związanych z leczeniem operacyjnym nowotworów, dla których rozpoznania i procedury medyczne są zdefiniowane w części B, wykonanych w roku kalendarzowym poprzedzającym kwalifikację lub weryfikację, o których mowa w art. 9 ust. 1 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U. poz. 650, z późn. zm.), zwanej dalej „ustawą” -150 zabiegów lub spełnianie warunku realizacji minimalnej liczby zabiegów co najmniej w 1 z 16 grup nowotworów określonych w części B Dla świadczeniodawców udzielających świadczeń opieki zdrowotnej w obszarze leczenie zabiegowe chirurgiczne – minimalna liczba świadczeń opieki zdrowotnej związanych z leczeniem operacyjnym nowotworów, dla których rozpoznania i procedury medyczne są zdefiniowane w części B, wykonanych w roku kalendarzowym poprzedzającym kwalifikację lub weryfikację, o których mowa w art. 9 ust. 1 ustawy – 150 zabiegów oraz spełnianie warunku realizacji minimalnej liczby zabiegów co najmniej w 1 z 16 grup nowotworów określonych w części B Dla świadczeniodawców udzielających świadczeń opieki zdrowotnej w obszarze leczenie zabiegowe chirurgiczne – minimalna liczba świadczeń opieki zdrowotnej związanych z leczeniem operacyjnym nowotworów, dla których rozpoznania i procedury medyczne są zdefiniowane w części B, wykonanych w roku kalendarzowym poprzedzającym weryfikację, o której mowa w art. 9 ust. 1 pkt 2 ustawy – 500 zabiegów oraz spełnianie warunku realizacji minimalnej liczby zabiegów co najmniej w 5 z 16 grup nowotworów określonych w części B B. Liczba i rodzaj procedur medycznych w poszczególnych rozpoznaniach 1. NOWOTWÓR ZŁOŚLIWY PŁUCA – minimalna liczba 70 zabiegów obejmujących następujące procedury medyczne zgodnie z Międzynarodową Klasyfikacją Procedur Medycznych ICD-9, zwaną „dalej „ICD-9”, wykonane w rozpoznaniu zasadniczym według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych ICD-10, zwanej dalej „ICD-10”: C34, C78.0:1) 31.731 Wycięcie przetoki tchawiczo-przelykowej;2) 31.75 Rekonstrukcja tchawicy i wytworzenie sztucznej krtani;3) 31.791 Wprowadzenie stałej endoprotezy tchawiczo-oskrzelowej;4) 32.1 Inne wycięcia oskrzela;5) 32.292 Klinowe wycięcie płuca;6) 32.3 Segmentowa resekcja płuca;7) 32.41 Lobektomia z wycięciem segmentu drugiego płata;8) 32.49 Lobektomia – inna;9) 32.52 Wycięcie płuca z rozdzieleniem śródpiersia;10) 32.59 Całkowite usunięcie płuca nieokreślone inaczej;11) 32.6 Radykalna resekcja struktur klatki piersiowej;12) 32.9 Inne wycięcia płuc;13) 33.34 Torakoplastyka;14) 33.99 Operacje płuc – inne;15) 34.51 Dekortykacja płuca 2. NOWOTWÓR ZŁOŚLIWY PĘCHERZA MOCZOWEGO – minimalna liczba 30 zabiegów obejmujących następujące procedury medyczne zgodnie z ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C67:1) 57.711 Wytrzewienie miednicy u mężczyzny;2) 57.712 Usunięcie pęcherza, stercza, pęcherzyków nasiennych i tkanki tłuszczowej;3) 57.713 Usunięcie pęcherza, cewki moczowej i tkanki tłuszczowej u kobiety;4) 57.721 Wycięcie pęcherza radykalne z odprowadzeniem moczu przez wstawkę jelitową u mężczyzny;5) 57. 122 Wycięcie pęcherza radykalne z wytworzeniem zastępczego, kontynentnego zbiornika jelitowego u mężczyzny;6) 57.723 Wycięcie pęcherza radykalne z wytworzeniem ortotopowego pęcherza jelitowego u mężczyzny;7) 57.724 Wycięcie pęcherza radykalne z wytworzeniem przetok moczowodowo-skórnych u mężczyzny;8) 57.725 Wycięcie pęcherza radykalne i całej cewki moczowej męskiej (cystouretrektomia) z wytworzeniem przetok moczowodowo-skórnych;9) 57.726 Wycięcie pęcherza radykalne i cewki moczowej męskiej z wytworzeniem zastępczego, kontynentnego zbiornika jelitowego;10) 57.727 Wycięcie pęcherza radykalne i cewki moczowej męskiej z odprowadzeniem moczu przez wstawkę jelitową;11) 57.730 Wycięcie pęcherza radykalne wraz z całą cewką moczową, macicą, przydatkami i przednią ścianą pochwy z wytworzeniem przetok moczowodowo-skórnych;12) 57.731 Wycięcie pęcherza radykalne wraz z całą cewką moczową, macicą, przydatkami i przednią ścianą pochwy z odprowadzeniem moczu przez wstawkę jelitową;13) 57.732 Wycięcie pęcherza radykalne wraz z całą cewką moczową, macicą, przydatkami i przednią ścianą pochwy z wytworzeniem zastępczego, kontynentnego zbiornika jelitowego;14) 57.733 Wycięcie pęcherza radykalne wraz z macicą i przydatkami z wytworzeniem ortotopowego pęcherza jelitowego;15) 57.734 Wycięcie pęcherza radykalne wraz z macicą i jednostronnym wycięciem przydatków oraz odprowadzeniem moczu przez wstawkę jelitową;16) 57.735 Wycięcie pęcherza radykalne wraz z macicą i jednostronnym wycięciem przydatków oraz wytworzeniem zastępczego, kontynentnego zbiornika jelitowego;17) 57.736 Wycięcie pęcherza radykalne wraz z macicą i jednostronnym wycięciem przydatków oraz wytworzeniem ortotopowego pęcherza jelitowego;18) 57.737 Wycięcie pęcherza radykalne bez macicy ani przydatków oraz odprowadzeniem moczu przez wstawkę jelitową;19) 57.738 Wycięcie pęcherza radykalne bez macicy ani przydatków oraz wytworzeniem zastępczego, kontynentnego zbiornika jelitowego;20) 57.739 Wycięcie pęcherza radykalne bez macicy ani przydatków oraz wytworzeniem ortotopowego pęcherza jelitowego;21) 57.741 Wycięcie radykalne pęcherza laparoskopowo z odprowadzeniem moczu przez wstawkę jelitową metodą otwartą;22) 57.742 Wycięcie radykalne pęcherza laparoskopowo z rekonstrukcją dróg moczowych metodą otwartą;23) 57.743 Wycięcie radykalne pęcherza laparoskopowo z wytworzeniem zastępczego, kontynentnego zbiornika jelitowego metodą otwartą;24) 57.744 Wycięcie radykalne pęcherza laparoskopowo z wytworzeniem ortotopowego pęcherza jelitowego metodą otwartą;25) 57.745 Wycięcie pęcherza radykalne laparoskopowo z wytworzeniem przetok moczowodowo-skórnych metodą otwartą;26) 57.746 Wycięcie radykalne pęcherza laparoskopowo z wycięciem całej cewki moczowej męskiej metodą otwartą i wytworzeniem przetok moczowodowo-skórnych metodą otwartą;27) 57.747 Wycięcie radykalne pęcherza laparoskopowo z wycięciem całej cewki moczowej męskiej metodą otwartą i odprowadzeniem moczu przez wstawkę jelitową metodą otwartą;28) 57.748 Wycięcie radykalne pęcherza laparoskopowo z wycięciem całej cewki moczowej męskiej metodą otwartą i wytworzeniem zastępczego, kontynentnego zbiornika jelitowego metodą otwartą;29) 57.751 Wycięcie pęcherza proste (bez limfadenektomii) laparoskopowe z wytworzeniem przetok moczowodowo-skórnych metodą otwartą;30) 57.752 Wycięcie pęcherza proste (bez limfadenektomii) laparoskopowe z odprowadzeniem moczu przez wstawkę jelitową metodą otwartą;31) 57.753 Wycięcie pęcherza proste (bez limfadenektomii) laparoskopowe z wytworzeniem zastępczego, kontynentnego zbiornika jelitowego metodą otwartą;32) 57.754 Wycięcie pęcherza proste (bez limfadenektomii) laparoskopowe z wytworzeniem ortotopowego pęcherza jelitowego metodą otwartą;33) 57.791 Wycięcie pęcherza proste (bez limfadenektomii) z wytworzeniem przetok moczowodowo-skórnych u mężczyzny;34) 57.792 Wycięcie pęcherza proste (bez limfadenektomii) z odprowadzeniem moczu przez wstawkę jelitową u mężczyzny;35) 57.793 Wycięcie pęcherza proste (bez limfadenektomii) z wytworzeniem zastępczego, kontynentnego zbiornika jelitowego u mężczyzny;36) 57.794 Wycięcie pęcherza proste (bez limfadenektomii) z wytworzeniem ortotopowego pęcherza jelitowego u mężczyzny;37) 57.875 Wycięcie pęcherza z pozostawieniem szyi i trójkąta pęcherza oraz zastąpieniem pęcherza jelitem (cystoenteroplastyka) 3. NOWOTWÓR ZŁOŚLIWY JAJNIKA – minimalna liczba 30 zabiegów, obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C56:1) 65.26 Wyniszczenie guza jajnika jednostronne/obustronne;2) 65.41 Jednostronne usunięcie jajnika i jajowodu laparoskopowo;3) 65.49 Jednostronne usunięcie jajnika i jajowodu – inne;4) 65.519 Równoczesne usunięcie obu jajników – inne;5) 65.53 Laparoskopowe usunięcie obu jajników w trakcie jednego zabiegu;6) 65.54 Laparoskopowe usunięcie pozostałego jajnika;7) 65.61 Równoczesne usunięcie obu jajników i jajowodów;8) 65.62 Laparoskopowe usunięcie obu jajników i jajowodów w trakcie jednego zabiegu;9) 65.63 Laparoskopowe usunięcie pozostałego jajnika i jajowodu;10) 68.42 Poszerzone wycięcie macicy;11) 68.51 Wycięcie macicy drogą pochwową w asyście laparoskopowej (LAVH);12) 68.61 Zmodyfikowane radykalne wycięcie macicy;13) 68.62 Operacja Wertheima;14) 68.71 Laparoskopowe radykalne wycięcie macicy drogą pochwową (LRVH);15) 68.8 Wytrzewienie miednicy małej 4. NOWOTWÓR ZŁOŚLIWY JELITA GRUBEGO – minimalna liczba 75 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C18-C20:1) 45.732 Prawostronna radykalna kolektomia;2) 45.733 Hemikolektomia prawostronna;3) 45.74 Resekcja poprzecznicy;4) 45.75 Hemikolektomia lewostronna;5) 45.76 Sigmoidektomia;6) 45.8 Totalna śródbrzuszna kolektomia;7) 48.5 Brzuszno-kroczowa amputacja odbytnicy;8) 48.61 Przezkrzyżowe wycięcie odbytnicy/esicy;9) 48.62 Przednia resekcja odbytnicy z wytworzeniem kolostomii;10) 48.63 Przednia resekcja odbytnicy – inna;11) 48.64 Tylna resekcja odbytnicy;12) 48.65 Resekcja odbytnicy metodą Duhamela 5. NOWOTWÓR ZŁOŚLIWY MACICY – minimalna liczba 50 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C53-C55:1) 68.42 Poszerzone wycięcie macicy;2) 68.51 Wycięcie macicy drogą pochwową w asyście laparoskopowej (LAVH);3) 68.61 Zmodyfikowane radykalne wycięcie macicy;4) 68.62 Operacja Wertheima;5) 68.71 Laparoskopowe radykalne wycięcie macicy drogą pochwową (LRVH)6) 68.76 Histerokolpektomia;7) 68.77 Operacja Schauta;8) 68.8 Wytrzewienie miednicy małej 6. NOWOTWÓR ZŁOŚLIWY NERKI – minimalna liczba 50 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C64-C65:1) 55.41 Wycięcie kielicha nerkowego;2) 55.42 Klinowa resekcja nerki;3) 55.45 Wycięcie nerki częściowe i zespolenie kielichowo-moczowodowe;4) 55.470 Częściowe wycięcie nerki proste laparoskopowo;5) 55.471 Wycięcie nerki wraz z całym moczowodem (nefroureterektomia) bez usuwania śródściennego odcinka moczowodu laparoskopowo;6) 55.472 Wycięcie nerki wraz z całym moczowodem (nefroureterektomia) z usunięciem śródściennego odcinka moczowodu po jego uwolnieniu przezcewkowym laparoskopowo;7) 55.473 Wycięcie nerki wraz z całym moczowodem (nefroureterektomia) laparoskopowo i usunięciem fragmentu pęcherza obejmującego śródścienny odcinek moczowodu metodą otwartą;8) 55.49 Częściowe wycięcie nerki – inne;9) 55.511 Wycięcie nerki wraz z całym moczowodem i fragmentem pęcherza (nefroureterektomia);10) 55.512 Całkowite jednostronne wycięcie nerki;11) 55.513 Wycięcie nerki radykalne z wycięciem nadnercza i regionalnych węzłów chłonnych z powodu guza;12) 55.514 Wycięcie nerki radykalne z wycięciem regionalnych węzłów chłonnych i pozostawieniem nadnercza z powodu guza;13) 55.515 Wycięcie nerki radykalne z powodu guza i usunięcie czopa nowotworowego z żyły głównej dolnej przez jej nacięcie (kawotomia) – operacja prosta;14) 55.516 Wycięcie nerki radykalne z powodu guza i usunięcie czopa nowotworowego z żyły głównej dolnej przez jej nacięcie (kawotomia) – operacja skomplikowana;15) 55.517 Wycięcie nerki radykalne z powodu guza i usunięcie czopa nowotworowego sięgającego do ponadprzeponowego odcinka żyły głównej dolnej z otwarciem klatki piersiowej i wytworzeniem krążenia omijającego;16) 55.52 Wycięcie nerki jedynej;17) 55.54 Obustronne wycięcie nerek;18) 55.553 Wycięcie nerki radykalne z wycięciem nadnercza i regionalnych węzłów chłonnych z powodu guza;19) 55.554 Wycięcie nerki z wycięciem regionalnych węzłów chłonnych i pozostawieniem nadnercza z powodu guza;20) 55.555 Wycięcie nerki z pozostawieniem nadnercza i regionalnych węzłów chłonnych z powodu guza;21) 55.556 Wycięcie nerki radykalne wraz z czopem sięgającym do pozanerkowego odcinka żyły nerkowej z wycięciem nadnercza i regionalnych węzłów chłonnych z powodu guza;22) 55.557 Wycięcie nerki radykalne wraz z czopem sięgającym do przynerkowego odcinka żyły głównej dolnej z wycięciem nadnercza i regionalnych węzłów chłonnych z powodu guza 7. NOWOTWÓR ZŁOŚLIWY PIERSI – minimalna liczba 150 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C50:1) 85.22 Resekcja kwadrantu piersi;2) 85.23 Subtotalna mammektomia;3) 85.261 Wycięcie guza piersi z zastosowaniem technik onkoplastycznych bez centralizacji kompleksu brodawka -otoczka piersiowa lub z centralizacją;4) 85.269 Wycięcie guza piersi – BCT – inne;5) 85.411 Mastektomia – inna;6) 85.412 Mastektomia całkowita;7) 85.421 Obustronne proste odjęcie piersi;8) 85.422 Obustronne całkowite odjęcie piersi;9) 85.431 Poszerzona prosta mastektomia – inna;10) 85.432 Zmodyfikowana radykalna mastektomia;11) 85.433 Prosta mastektomia z wycięciem regionalnych węzłów chłonnych;12) 85.44 Obustronne poszerzone proste odjęcie piersi;13) 85.451 Usunięcie piersi, mięśnia piersiowego, regionalnych węzłów (pachowych, pod i nadobojczykowych);14) 85.452 Radykalne odjęcie piersi BNO;15) 85.46 Obustronne radykalne odjęcie piersi;16) 85.471 Wycięcie piersi, mięśnia piersiowego, regionalnych węzłów chłonnych (pachowych, nadobojczykowych, piersiowych wewnętrznych, śródpiersiowych);17) 85.472 Poszerzona radykalna amputacja piersi BNO;18) 85.48 Obustronne poszerzone radykalne odjęcie piersi 8. NOWOTWÓR ZŁOŚLIWY GRUCZOŁU KROKOWEGO – minimalna liczba 75 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C61:1) 60.51 Wycięcie radykalne stercza (prostatektomia radykalna) z limfadenektomią zasłonową z dostępu załonowego;2) 60.52 Wycięcie radykalne stercza (prostatektomia radykalna) z limfadenektomią miedniczną z dostępu załonowego;3) 60.53 Wycięcie radykalne stercza (prostatektomia radykalna) z limfadenektomią zasłonową z dostępu kroczowego;4) 60.54 Wycięcie radykalne stercza (prostatektomia radykalna) z limfadenektomią zasłonową laparoskopowo;5) 60.55 Wycięcie radykalne stercza (prostatektomia radykalna) z limfadenektomią miedniczną laparoskopowo 9. NOWOTWÓR ZŁOŚLIWY TRZUSTKI – minimalna liczba 30 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C25:1) 52.511 Wycięcie głowy trzustki z częścią trzonu;2) 52.512 Proksymalne wycięcie trzustki z jednoczasową duodenektomią;3) 52.513 Resekcja głowy trzustki z zaoszczędzeniem dwunastnicy sposobem Bergera;4) 52.514 Miejscowe wycięcie głowy trzustki z pankreatikojejunostomią sposobem Frey'a;5) 52.521 Wycięcie ogona trzustki z częścią trzonu;6) 52.522 Wycięcie ogona trzustki z zaoszczędzeniem śledziony;7) 52.53 Radykalna subtotalna pankreatektomia;8) 52.61 Pankreatektomia z jednoczasową duodenektomią;9) 52.69 Totalna pankreatektomia – inna;10) 52.71 Jednoetapowa resekcja trzustki i dwunastnicy z zespoleniem dróg żółciowych z jelitem cienkim, dróg trzustkowych z jelitem cienkim i wytworzeniem zespolenia żołądkowo-jelitowego;11) 52.72 Dwuetapowa resekcja trzustki i dwunastnicy;12) 52.73 Radykalna resekcja trzustki;13) 52.74 Operacja Whipple'a;14) 52.75 Radykalne usunięcie trzustki i dwunastnicy z zaoszczędzeniem odźwiernika sposobem Traverso-Longmire'a 10. NOWOTWÓR ZŁOŚLIWY ŻOŁĄDKA I JELITA CIENKIEGO – minimalna liczba 30 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C16, C17:1) 43.6 Częściowe wycięcie żołądka z zespoleniem z dwunastnicą;2) 43.7 Częściowe wycięcie żołądka z zespoleniem z jelitem czczym;3) 43.81 Częściowe wycięcie żołądka wstawka jelita czczego;4) 43.89 Częściowe wycięcie żołądka – inne;5) 43.91 Całkowite usunięcie żołądka-wstawka jelitowa;6) 43.991 Całkowite usunięcie żołądka i dwunastnicy;7) 43.992 Zespolenie żołądkowo dwunastnicze z całkowitym usunięciem żołądka;8) 43.993 Wycięcie żołądka i przełyku – inne;9) 43.994 Zespolenie przełyku z jelitem cienkim z całkowitym usunięciem żołądka;10) 43.995 Radykalne wycięcie żołądka;11) 43.999 Całkowite usunięcie żołądka – inne;12) 45.621 Resekcja dwunastnicy;13) 45.622 Resekcja jelita czczego;14) 45.623 Resekcja jelita krętego;15) 45.629 Częściowa resekcja jelita cienkiego -inna;16) 45.63 Całkowite usunięcie jelita cienkiego. 11. NOWOTWÓR ZŁOŚLIWY TARCZYCY I PRZYTARCZYC – minimalna liczba 50 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C73, C75.0:1) 06.21 Całkowite usunięcie jednego płata tarczycy (z usunięciem cieśni lub części drugiego płata);2) 06.22 Wycięcie połowy tarczycy;3) 06.391 Wycięcie cieśni tarczycy;4) 06.399 Inna częściowa tyroidektomia;5) 06.4 Całkowita resekcja tarczycy;6) 06.51 Częściowa resekcja tarczycy zamostkowej;7) 06.52 Całkowita resekcja tarczycy zamostkowej;8) 06.59 Zamostkowa resekcja tarczycy – inna;9) 06.61 Wycięcie tarczycy językowej z dostępu podbródkowego;10) 06.62 Wycięcie tarczycy językowej z dostępu przez usta;11) 06.7 Wycięcie przewodu tarczowo-językowego;12) 06.81 Całkowite usunięcie przytarczyc;13) 06.98 Operacje tarczycy – inne;14) 06.99 Operacje przytarczyc – inne 12. NOWOTWÓR OUN – minimalna liczba 70 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C70, C71, C75.1, C75.3, D32, D33.0-D33.4, D35.2, D35.4:1) 01.511 Dekortykacja opon;2) 01.512 Wycięcie opony mózgowej;3) 01.513 Zdjęcie błony podtwardówkowej z opony;4) 01.52Hemisferektomia;5) 01.53 Lobektomia mózgu;6) 01.591 Wyłyżeczkowanie w zakresie mózgu;7) 01.594 Przezskroniowe (przez wyrostek sutkowaty) wycięcie guza mózgu;8) 01.595 Wycięcie guza móżdżku;9) 01.596 Wycięcie guza pnia mózgu;10) 01.599 Inne wycięcie guza mózgu;11) 02.92 Operacja naprawcza mózgu;12) 03.41 Łyżeczkowanie rdzenia kręgowego lub opon;13) 03.42 Oczyszczenie rdzenia kręgowego lub opon;14) 03.44 Resekcja rdzenia kręgowego lub opon;15) 03.99 Operacje struktur kanału kręgowego – inne;16) 04.011 Wycięcie nerwiaka nerwu słuchowego;17) 04.012 Wycięcie nerwiaka nerwu słuchowego z kraniotomią;18) 07.53 Częściowe wycięcie szyszynki;19) 07.54 Całkowite usunięcie szyszynki;20) 07.59 Inne operacje szyszynki;21) 07.611 Kriochirurgiczne częściowe usunięcie przysadki, z dojścia przezczołowego;22) 07.612 Rozdzielenie szypuly przysadki, z dojścia przezczołowego;23) 07.613 Wycięcie zmiany przysadki, z dojścia przezczołowego;24) 07.614 Subtotalne wycięcie przysadki, z dojścia przezczołowego;25) 07.615 Wycięcie szypuły przysadki, z dojścia przezczołowego;26) 07.619 Częściowe wycięcie przysadki, z dojścia przezczołowego – inne;27) 07.62 Częściowe wycięcie przysadki przezklinowe;28) 07.631 Częściowe wycięcie przysadki, z dojścia podczołowego;29) 07.639 Częściowe wycięcie przysadki z nieokreślonego dojścia;30) 07.641 Ablacja przysadki przez implantację strontu/itru;31) 07.642 Kriochirurgiczne całkowite usunięcie przysadki;32) 07.649 Całkowite usunięcie przysadki przezczołowe – inne;33) 07.65 Całkowite usunięcie przysadki przezklinowe;34) 07.68 Całkowite usunięcie przysadki z innego dojścia 13. NOWOTWÓR ZŁOŚLIWY REGIONU GŁOWY I SZYI – minimalna liczba 50 zabiegów obejmujących następujące procedury medyczne ICD-9, wykonane w rozpoznaniu zasadniczym ICD-10: C02, C04, C06, C13, C31, C32, C41.0, C41.1:1) 16.51 Wytrzewienie oczodołu z usunięciem przyległych struktur;2) 25.3 Całkowite usunięcie języka;3) 25.4 Radykalne usunięcie języka;4) 26.322 Radykalne usunięcie ślinianki;5) 27.32 Rozległe wycięcie lub zniszczenie zmiany lub tkanki podniebienia twardego;6) 27.43 Rozległe wycięcie zmiany lub tkanki wargi;7) 27.492 Wycięcie zmiany w zakresie dna jamy ustnej;8) 27.493 Wycięcie zmiany w zakresie przedsionka i dna jamy ustnej;9) 29.33 Częściowa faryngektomia;10) 30.1 Wycięcie połowy krtani;11) 30.21 Wycięcie nagłośni;12) 30.22 Wycięcie strun głosowych;13) 30.23 Częściowe wycięcie krtani z rekonstrukcją;14) 30.29 Częściowa laryngektomia – inna;15) 30.31 Blokowe wycięcie krtani z tyroidektomią z jednoczasową tracheostomią;16) 30.32 Wycięcie krtani i gardła;17) 30.39 Całkowite wycięcie krtani – inne;18) 30.41 Radykalne wycięcie krtani z radykalnym preparowaniem szyi z wycięciem tarczycy i z jednoczesną tracheostomią;19) 30.49 Radykalne wycięcie krtani – inne;20) 31.65 Rekonstrukcja z plastyką krtani po operacji częściowej;21) 76.312 Subtotalna resekcja żuchwy;22) 76.391 Połowicze wycięcie szczęki (z przeszczepem kostnym lub protezą);23) 76.41 Całkowite wycięcie żuchwy z jednoczasową rekonstrukcją;24) 76.441 Całkowite usunięcie szczęki z jednoczasową rekonstrukcją chirurgiczną lub protetyczną;25) 76.451 Całkowite wycięcie szczęki 14. NOWOTWÓR ZŁOŚLIWY TCHAWICY, OPŁUCNEJ, ŚRÓDPIERSIA I INNYCH NARZĄDÓW KLATKI PIERSIOWEJ – minimalna liczba 15 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C15, C33, C37, C38:1) 07.81 Częściowe usunięcie grasicy;2) 07.82 Całkowite usunięcie grasicy;3) 07.89 Usunięcie grasicy-inne;4) 07.95 Torakoskopowe wycięcie grasicy;5) 07.991 Resekcja grasicy z dostępu szyjnego;6) 07.992 Operacje grasicy – inne;7) 31.75 Rekonstrukcja tchawicy i wytworzenie sztucznej krtani;8) 32.6 Radykalna resekcja struktur klatki piersiowej;9) 33.990peracje płuc-inne;10) 34.03 Retorakotomia przez ranę operacyjną;11) 34.3 Zniszczenie lub wycięcie zmiany lub tkanki śródpiersia;12) 34.4 Zniszczenie lub wycięcie zmiany ze ściany klatki piersiowej (z usunięciem żeber);13) 34.51 Dekortykacja płuca;14) 34.59 Inne wycięcia opłucnej;15) 34.81 Wycięcie zmiany lub tkanki przepony;16) 34.89 Operacje przepony – inne;17) 34.99 Operacje klatki piersiowej – inne;18) 42.41 Częściowe wycięcie przełyku;19) 42.42 Całkowite wycięcie przełyku;20) 42.49 Wycięcie przełyku – inne;21) 42.89 Zabiegi naprawcze przełyku – inne;22) 43.5 Częściowe wycięcie żołądka z zespoleniem z przełykiem 15. NOWOTWÓR ZŁOŚLIWY NARZĄDU RUCHU – minimalna liczba 10 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C40, C41.2, C41.3, C41.4, C41.8, C41.9, C49.1, C49.2, C49.9, C76.4, C76.5, C79.5:1) 77.81 Inne częściowe wycięcie kości – łopatka, obojczyk, klatka piersiowa (żebra i mostek);2) 77.82 Inne częściowe wycięcie kości – kość ramienna;3) 77.83 Inne częściowe wycięcie kości – kość promieniowa / kość łokciowa;4) 77.84 Inne częściowe wycięcie kości – kości nadgarstka/śródręcza;5) 77.85 Inne częściowe wycięcie kości – kość udowa;6) 77.86 Inne częściowe wycięcie kości – rzepka;7) 77.87 Inne częściowe wycięcie kości – kość piszczelowa / kość strzałkowa;8) 77.88 Inne częściowe wycięcie kości – kości stępu / kości śródstopia;9) 77.891 Inne częściowe wycięcie kości – inne kości (miednica);10) 77.892 Inne częściowe wycięcie kości – inne kości (paliczki palców stopy/ręki);11) 77.893 Inne częściowe wycięcie kości – inne kości (kręgi);12) 78.242 Resekcja/osteotomia – kość ramienna;13) 78.243 Resekcja/osteotomia – kość promieniowa / kość łokciowa;14) 78.244 Resekcja/osteotomia – kości nadgarstka/śródręcza / paliczki (ręki);15) 78.245 Resekcja/osteotomia-kość udowa/miednica;16) 78.247 Resekcja/osteotomia – kość piszczelowa / kość strzałkowa;17) 84.001 Amputacja kończyny górnej z pokryciem kikuta płatem;18) 84.002 Kineplastyczna amputacja kończyny górnej;19) 84.003 Otwarta lub gilotynowa amputacja kończyny górnej;20) 84.01 Amputacja i wyłuszczenie palca ręki w stawie;21) 84.02 Amputacja i wyłuszczenie kciuka w stawie;22) 84.03 Amputacja w zakresie ręki;23) 84.05 Amputacja w zakresie przedramienia;24) 84.101 Amputacja kończyny dolnej z pokryciem kikuta płatem;25) 84.102 Amputacja kineplastyczna kończyny dolnej;26) 84.103 Otwarta lub gilotynowa amputacja kończyny dolnej;27) 84.111 Amputacja palca stopy w stawie śródstopno-paliczkowym;28) 84.112 Wyłuszczenie palca stopy w stawie;29) 84.113 Amputacja głowy kości śródstopa;30) 84.114 Promieniowa amputacja stopy (wyłuszczenie głowy paliczka bliższego tuż ponad fałdem śródstopno-palcowym);31) 84.121 Amputacja przedniej części stopy;32) 84.122 Amputacja przez śródstopie;33) 84.123 Amputacja w stawie Choparta;34) 84.124 Amputacja w środkowym śródstopiu;35) 84.125 Amputacja przez śródstopie (w tym wszystkich palców u stopy);36) 84.129 Amputacja w zakresie stopy – inne;37) 84.151 Amputacja nogi na wysokości kości piszczelowej i strzałkowej – nieokreślona inaczej;38) 84.191 Amputacja kończyny dolnej z częścią miednicy;39) 84.192 Amputacja tylnej części miednicy;40) 77.61 Miejscowe wycięcie zmiany lub tkanki kości – łopatka, obojczyk, klatka piersiowa (żebra i mostek);41) 77.62 Miejscowe wycięcie zmiany lub tkanki kości – kość ramienna;42) 77.63 Miejscowe wycięcie zmiany lub tkanki kości – kość promieniowa / kość łokciowa;43) 77.64 Miejscowe wycięcie zmiany lub tkanki kości – kości nadgarstka/śródręcza;44) 77.65 Miejscowe wycięcie zmiany lub tkanki kości – kość udowa;45) 77.67 Miejscowe wycięcie zmiany lub tkanki kości – kość piszczelowa / kość strzałkowa;46) 77.68 Miejscowe wycięcie zmiany lub tkanki kości – kości stepu / kości śródstopia;47) 77.691 Miejscowe wycięcie zmiany lub tkanki kości – inne kości (miednica);48) 77.692 Miejscowe wycięcie zmiany lub tkanki kości – inne kości (paliczki palców stopy/ręki);49) 77.693 Miejscowe wycięcie zmiany lub tkanki kości – inne kości (kręgi);50) 78.249 Resekcja/osteotomia- inne (kręgi);51) 84.07 Amputacja w zakresie ramienia;52) 84.08 Wyłuszczenie w stawie barkowym;53) 84.09 Amputacja kończyny górnej z odjęciem łopatki;54) 84.171 Amputacjanogi na wysokości kości udowej;55) 84.172 Amputacja uda;56) 84.174 Nadkłykciowa amputacja powyżej kolana;57) 84.18 Wyłuszczenie w stawie biodrowym;58) 84.04 Wyłuszczenie nadgarstka;59) 84.06 Wyłuszczenie w stawie łokciowym;60) 84.13 Wyłuszczenie w stawie skokowym;61) 84.14 Amputacja stopy w zakresie kostek bocznych;62) 84.169 Wyłuszczenie w stawie kolanowym – inne 16. NOWOTWÓR ZŁOŚLIWY OKA – minimalna liczba 10 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C69:1) 08.249 Wycięcie pełnej grubości dużej zmiany powieki – inne;2) 09.23 Całkowite wycięcie gruczołu łzowego;3) 16.31 Wytrzewienie gałki ocznej z jednoczasowym wszczepem protezy;4) 16.39 Inne wytrzewienie gałki ocznej;5) 16.41 Wyłuszczenie gałki ocznej z jednoczesnym założeniem wszczepu do torebki Tenona z przyczepieniem mięśni;6) 16.42 Wyłuszczenie gałki ocznej z innym jednoczesnym wszczepieniem;7) 16.49 Inna enukleacja gałki ocznej;8) 16.52 Wytrzewienie gałki ocznej z usunięciem kości;9) 16.59 Wytrzewienie gałki ocznej – inne;10) 16.92 Wycięcie zmiany oczodołu 2 OBSZAR RADIOTERAPIA ONKOLOGICZNA Dla świadczeniodawców udzielających świadczeń opieki zdrowotnej z obszaru radioterapia onkologiczna -realizowanie procedur radioterapii 3D konformalnej, w tym radioterapii z modulacją intensywności dawki promieniowania (IMRT) Dla świadczeniodawców udzielających świadczeń opieki zdrowotnej z obszaru radioterapii onkologicznej -realizowanie procedur radioterapii 3D konformalnej, w tym radioterapii z modulacją intensywności dawki promieniowania (IMRT) Dla świadczeniodawców udzielających świadczeń opieki zdrowotnej z obszaru radioterapii onkologicznej -realizowanie procedur radioterapii metodą radioterapii z modulacją intensywności dawki promieniowania (IMRT), stereotaksji oraz brachyterapii
+Lp. Rodzaj kryterium Specjalistyczne Ośrodki Leczenia Onkologicznego I poziomu
+(SOLO I) Specjalistyczne Ośrodki Leczenia Onkologicznego II poziomu
+(SOLO II) Specjalistyczne Ośrodki Leczenia Onkologicznego III poziomu
+(SOLO III) 1 2 3 4 I Liczba i kwalifikacje personelu medycznego 1 Personel medyczny Lekarz specjalista:
+1) w dziedzinie chirurgii onkologicznej lub w dziedzinie chirurgii ogólnej, lub w innej dziedzinie zabiegowej odpowiedniej dla danego rodzaju lub umiejscowienia nowotworu złośliwego, realizujący świadczenia opieki zdrowotnej z zakresu leczenia szpitalnego -równoważnik 2 etatów -w przypadku udzielania świadczeń opieki zdrowotnej z obszaru leczenia zabiegowego chirurgicznego lub
+2) w dziedzinie radioterapii onkologicznej – równoważnik 2 etatów – w przypadku udzielania świadczeń opieki zdrowotnej z obszaru radioterapii onkologicznej Lekarz specjalista:
+1) w dziedzinie chirurgii onkologicznej lub w dziedzinie chirurgii ogólnej, lub w innej dziedzinie zabiegowej odpowiedniej dla danego rodzaju lub umiejscowienia nowotworu złośliwego, realizujący świadczenia opieki zdrowotnej z zakresu leczenia szpitalnego -równoważnik 2 etatów -w przypadku udzielania świadczeń opieki zdrowotnej z obszaru leczenia zabiegowego chirurgicznego lub
+2) w dziedzinie radioterapii onkologicznej – równoważnik 2 etatów – w przypadku udzielania świadczeń opieki zdrowotnej z obszaru radioterapii onkologicznej Lekarz specjalista:
+1) w dziedzinie zabiegowej realizujący świadczenia opieki zdrowotnej z zakresu leczenia szpitalnego – równoważnik 5 etatów, w tym lekarz specjalista w dziedzinie chirurgii onkologicznej – równoważnik 3 etatów;
+2) w dziedzinie onkologii klinicznej lub chemioterapii – równoważnik 6 etatów;
+3) w dziedzinie radioterapii onkologicznej – równoważnik 5 etatów;
+4) w dziedzinie patomorfologii -równoważnik 2 etatów II Potencjał diagnostyczno-terapeutyczny 1 Komórki organizacyjne A. Poradnie Świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej, następujące poradnie specjalistyczne posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799):
+1) 1500 Poradnia chirurgii ogólnej lub
+2) 1540 Poradnia chirurgii onkologicznej, lub
+3) 1460 Poradnia ginekologii onkologicznej, lub
+4) 1452 Poradnia ginekologiczna, lub
+5) 1450 Poradnia położniczo-ginekologiczna, lub
+6) 1640 Poradnia urologiczna, lub
+7) 1520 Poradnia chirurgii klatki piersiowej, lub
+8) 1570 Poradnia neurochirurgiczna, lub
+9) 1600 Poradnia okulistyczna, lub
+10) 1610 Poradnia otorynolaryngologiczna, lub
+11) 1240 Poradnia onkologiczna, lub
+12) 1242 Poradnia chemioterapii, lub
+13) 1244 Poradnia radioterapii, lub
+14) 1030 Poradnia endokrynologiczna, lub
+15) 1050 Poradnia gastroenterologiczna, lub
+16) 1200 Poradnia dermatologiczna, lub
+17) 1270 Poradnia gruźlicy i chorób płuc, lub
+18) 1272 Poradnia chorób płuc, lub
+19) 1130 Poradnia nefrologiczna, lub
+20) 1506 Poradnia proktologiczna, lub
+21) 1580 Poradnia chirurgii urazowo-ortopedycznej, lub
+22) 1630 Poradnia chirurgii szczękowo-twarzowej, lub
+23) 1056 Poradnia hepatologiczna, lub
+24) 1220 Poradnia neurologiczna, lub
+25) 1614 Poradnia foniatryczna Świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej, następujące poradnie specjalistyczne posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej:
+1) 1500 Poradnia chirurgii ogólnej lub
+2) 1540 Poradnia chirurgii onkologicznej, lub
+3) 1460 Poradnia ginekologii onkologicznej, lub
+4) 1452 Poradnia ginekologiczna, lub
+5) 1450 Poradnia położniczo-ginekologiczna, lub
+6) 1640 Poradnia urologiczna, lub
+7) 1520 Poradnia chirurgii klatki piersiowej, lub
+8) 1570 Poradnia neurochirurgiczna, lub
+9) 1600 Poradnia okulistyczna, lub
+10) 1610 Poradnia otorynolaryngologiczna, lub
+11) 1240 Poradnia onkologiczna, lub
+12) 1242 Poradnia chemioterapii, lub
+13) 1244 Poradnia radioterapii, lub
+14) 1030 Poradnia endokrynologiczna, lub
+15) 1050 Poradnia gastroenterologiczna, lub
+16) 1200 Poradnia dermatologiczna, lub
+17) 1270 Poradnia gruźlicy i chorób płuc, lub
+18) 1272 Poradnia chorób płuc, lub
+19) 1130 Poradnia nefrologiczna, lub
+20) 1506 Poradnia proktologiczna, lub
+21) 1580 Poradnia chirurgii urazowo-ortopedycznej, lub
+22) 1630 Poradnia chirurgii szczękowo-twarzowej, lub
+23) 1056 Poradnia hepatologiczna, lub
+24) 1220 Poradnia neurologiczna, lub
+25) 1614 Poradnia foniatryczna Świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej, następujące poradnie specjalistyczne posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej:
+1) 1500 Poradnia chirurgii ogólnej lub
+2) 1540 Poradnia chirurgii onkologicznej, lub
+3) 1460 Poradnia ginekologii onkologicznej, lub
+4) 1452 Poradnia ginekologiczna, lub
+5) 1450 Poradnia położniczo-ginekologiczna, lub
+6) 1640 Poradnia urologiczna, lub
+7) 1520 Poradnia chirurgii klatki piersiowej, lub
+8) 1570 Poradnia neurochirurgiczna, lub
+9) 1600 Poradnia okulistyczna, lub
+10) 1610 Poradnia otorynolaryngologiczna, lub
+11) 1240 Poradnia onkologiczna, lub
+12) 1242 Poradnia chemioterapii, lub
+13) 1244 Poradnia radioterapii, lub
+14) 1030 Poradnia endokrynologiczna, lub
+15) 1050 Poradnia gastroenterologiczna, lub
+16) 1200 Poradnia dermatologiczna, lub
+17) 1270 Poradnia gruźlicy i chorób płuc, lub
+18) 1272 Poradnia chorób płuc, lub
+19) 1130 Poradnia nefrologiczna, lub
+20) 1506 Poradnia proktologiczna, lub
+21) 1580 Poradnia chirurgii urazowo-ortopedycznej, lub
+22) 1630 Poradnia chirurgii szczękowo-twarzowej, lub
+23) 1056 Poradnia hepatologiczna, lub
+24) 1220 Poradnia neurologiczna, lub
+25) 1614 Poradnia foniatryczna B. Oddziały, pracownie, zakłady 1) w przypadku udzielania świadczeń opieki zdrowotnej z obszaru leczenia zabiegowego chirurgicznego świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej, następujące komórki organizacyjne posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej – oddział o specjalności zabiegowej:
+a) 4500 Oddział chirurgii ogólnej lub
+b) 4540 Oddział chirurgii onkologicznej, lub
+c) 4550 Oddział chirurgii plastycznej, lub
+d) 4460 Oddział ginekologii onkologicznej, lub
+e) 4452 Oddział ginekologiczny, lub
+f) 4450 Oddział położniczo-ginekologiczny, lub
+g) 4640 Oddział urologiczny, lub
+h) 4520 Oddział chirurgii klatki piersiowej, lub
+i) 4570 Oddział neurochirurgiczny, lub
+j) 4600 Oddział okulistyczny, lub
+k) 4610 Oddział otorynolaryngologiczny, lub
+l) 4580 Oddział chirurgii urazowo-ortopedycznej, lub
+m) 4630 Oddział chirurgii szczękowo-twarzowej;
+2) w przypadku udzielania świadczeń opieki zdrowotnej z obszaru chemioterapii i innych metod leczenia systemowego świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej, następujące komórki organizacyjne, posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej:
+a) 4240 Oddział onkologiczny lub
+b) 4242 Oddział onkologii klinicznej / chemioterapii lub
+c) 4670 Oddział leczenia jednego dnia, lub
+d) 4272 Oddział chorób płuc, lub
+e) 4270 Oddział gruźlicy i chorób płuc, lub
+f) 4030 Oddział endokrynologiczny, lub
+g) 4050 Oddział gastroenterologiczny, lub
+h) 4460 Oddział ginekologii onkologicznej, lub
+i) 4500 Oddział chirurgiczny ogólny, lub
+j) 4540 Oddział chirurgii onkologicznej, lub
+k) 4000 Oddział chorób wewnętrznych, lub
+l) 4640 Oddział urologiczny, lub
+m) 4610 Oddział otorynolaryngologiczny, lub
+n) 4650 Oddział transplantologiczny, lub
+o) 4244 Oddział radioterapii;
+3) w przypadku udzielania świadczeń opieki zdrowotnej z obszaru radioterapii onkologicznej świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej, komórkę organizacyjną posiadającą resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej – 7960 Pracownia lub zakład teleradioterapii;
+4) świadczeniodawca posiada co najmniej w dostępie:
+a) 7300 Zakład patomorfologii lub
+b) 7150 Pracownia histopatologii i 7140 Pracownia cytologiczna 1) w przypadku udzielania świadczeń opieki zdrowotnej z obszaru leczenia zabiegowego chirurgicznego świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej, następujące komórki organizacyjne posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej – oddział o specjalności zabiegowej:
+a) 4500 Oddział chirurgii ogólnej lub
+b) 4540 Oddział chirurgii onkologicznej, lub
+c) 4550 Oddział chirurgii plastycznej, lub
+d) 4460 Oddział ginekologii onkologicznej, lub
+e) 4452 Oddział ginekologiczny, lub
+f) 4450 Oddział położniczo-ginekologiczny, lub
+g) 4640 Oddział urologiczny, lub
+h) 4520 Oddział chirurgii klatki piersiowej, lub
+i) 4570 Oddział neurochirurgiczny, lub
+j) 4600 Oddział okulistyczny, lub
+k) 4610 Oddział otorynolaryngologiczny, lub
+l) 4580 Oddział chirurgii urazowo-ortopedycznej, lub
+m) 4630 Oddział chirurgii szczękowo-twarzowej;
+2) w przypadku udzielania świadczeń opieki zdrowotnej z obszaru chemioterapii i innych metod leczenia systemowego świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej, następujące komórki organizacyjne, posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej:
+a) 4240 Oddział onkologiczny lub
+b) 4242 Oddział onkologii klinicznej / chemioterapii lub
+c) 4670 Oddział leczenia jednego dnia, lub
+d) 4272 Oddział chorób płuc, lub
+e) 4270 Oddział gruźlicy i chorób płuc, lub
+f) 4030 Oddział endokrynologiczny, lub
+g) 4050 Oddział gastroenterologiczny, lub
+h) 4460 Oddział ginekologii onkologicznej, lub
+i) 4500 Oddział chirurgiczny ogólny, lub
+j) 4540 Oddział chirurgii onkologicznej, lub
+k) 4000 Oddział chorób wewnętrznych, lub
+l) 4640 Oddział urologiczny, lub
+m) 4610 Oddział otorynolaryngologiczny, lub
+n) 4650 Oddział transplantologiczny, lub
+o) 4244 Oddział radioterapii;
+3) w przypadku udzielania świadczeń opieki zdrowotnej z obszaru radioterapii onkologicznej świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej, komórkę organizacyjną posiadającą resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej – 7960 Pracownia lub zakład teleradioterapii;
+4) świadczeniodawca posiada co najmniej w dostępie:
+a) 7300 Zakład patomorfologii lub
+b) 7150 Pracownia histopatologii i 7140 Pracownia cytologiczna 1) świadczeniodawca posiada w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej:
+a) dla świadczeń opieki zdrowotnej z obszaru leczenia zabiegowego chirurgicznego – następujące komórki organizacyjne posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej:
+4500 Oddział chirurgii ogólnej lub
+4540 Oddział chirurgii onkologicznej, lub
+4550 Oddział chirurgii plastycznej, lub
+4460 Oddział ginekologii onkologicznej, lub
+4452 Oddział ginekologiczny, lub
+4450 Oddział położniczo-ginekologiczny, lub
+4640 Oddział urologiczny, lub
+4520 Oddział chirurgii klatki piersiowej, lub
+4570 Oddział neurochirurgiczny, lub
+4600 Oddział okulistyczny, lub -4610 Oddział otorynolaryngologiczny, lub
+4580 Oddział chirurgii urazowo-ortopedycznej, lub
+4630 Oddział chirurgii szczękowo-twarzowej,
+b) dla świadczeń opieki zdrowotnej z obszaru chemioterapii i innych metod leczenia systemowego -następujące komórki organizacyjne posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej:
+4240 Oddział onkologiczny lub
+4242 Oddział onkologii klinicznej lub chemioterapii lub
+4272 Oddział chorób płuc, lub
+4270 Oddział gruźlicy i chorób płuc, lub
+4030 Oddział endokrynologiczny, lub
+4050 Oddział gastroenterologiczny, lub
+4460 Oddział ginekologii onkologicznej, lub
+4500 Oddział chirurgiczny ogólny, lub
+4540 Oddział chirurgii onkologicznej, lub
+4000 Oddział chorób wewnętrznych, lub
+4640 Oddział urologiczny, lub
+4610 Oddział otorynolaryngologiczny, lub
+4650 Oddział transplantologiczny, lub
+4244 Oddział radioterapii,
+c) dla świadczeń opieki zdrowotnej z obszaru radioterapii onkologicznej – następujące komórki organizacyjne posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej:
+7960 Pracownia lub zakład teleradioterapii, oraz
+7962 Pracownia lub zakład brachyterapii;
+2) świadczeniodawca posiada w lokalizacji lub w strukturze organizacyjnej na terenie województwa, w którym będą udzielane świadczenia opieki zdrowotnej:
+a) 7300 Zakład patomorfologii lub
+b) 7150 Pracownia histopatologii i 7140 Pracownia cytologiczna 2 Realizacja świadczeń opieki zdrowotnej Świadczeniodawca zapewnia:
+1) realizację świadczeń opieki zdrowotnej zgodnie z warunkami realizacji określonymi w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z poźn. zm.), zwanej dalej „ustawą o świadczeniach”, w zakresie, o którym mowa w art. 15 ust. 2 pkt 2 i 3 ustawy o świadczeniach;
+2) w przypadku udzielania świadczeń opieki zdrowotnej z obszaru leczenia zabiegowego chirurgicznego:
+a) w lokalizacji – możliwość pobrania materiału do biopsji (zgodnego z profilem diagnozowanego nowotworu),
+b) co najmniej dostęp do:
+pozytonowej tomografii emisyjnej,
+diagnostyki genetycznej i molekularnej Świadczeniodawca zapewnia:
+1) realizację świadczeń opieki zdrowotnej zgodnie z warunkami realizacji określonymi w przepisach wydanych na podstawie art. 31d ustawy o świadczeniach w zakresie, o którym mowa w art. 15 ust. 2 pkt 2 i 3 ustawy o świadczeniach;
+2) w przypadku udzielania świadczeń opieki zdrowotnej z obszaru leczenia zabiegowego chirurgicznego:
+a) w lokalizacji – możliwość pobrania materiału do biopsji (zgodnego z profilem diagnozowanego nowotworu),
+b) co najmniej dostęp do:
+pozytonowej tomografii emisyjnej,
+diagnostyki genetycznej i molekularnej Świadczeniodawca zapewnia:
+1) realizację świadczeń opieki zdrowotnej zgodnie z warunkami realizacji określonymi w przepisach wydanych na podstawie art. 31d ustawy o świadczeniach w zakresie, o którym mowa w art. 15 ust. 2 pkt 2 i 3 ustawy o świadczeniach;
+2) w ramach działalności jednostek diagnostyki patomorfologicznej wykonywanie łącznie badań cytologicznych; histopatologicznych, histochemicznych, immunohistochemicznych i śródoperacyjnych;
+3) w strukturze organizacyjnej lub w lokalizacji:
+a) badania diagnostyki genetycznej i molekularnej,
+b) badania realizowane przez medyczne laboratorium diagnostyczne wpisane do ewidencji laboratoriów, o której mowa w art. 68 ust. 6 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. z 2023 r. poz. 2125),
+c) badania obrazowe (tomografia komputerowa i rezonans magnetyczny),
+d) badania endoskopowe;
+4) co najmniej dostęp do badań medycyny nuklearnej, w tym pozytonowej tomografii emisyjnej 3 Organizacja udzielania świadczeń opieki zdrowotnej Świadczeniodawca zapewnia:
+1) konsultacje wielospecjalistyczne konieczne w procesie opieki nad świadczeniobiorcą;
+2) leczenie powikłań i następstw po chemioterapii i innych metodach leczenia systemowego lub radioterapii, w oparciu o posiadane schematy postępowania w zakresie leczenia powikłań i następstw po chemioterapii i innych metodach leczenia systemowego lub radioterapii, jeżeli udziela świadczeń opieki zdrowotnej w obszarze chemioterapii i innych metodach leczenia systemowego lub obszarze radioterapii onkologicznej;
+3) zakwaterowanie i transport świadczeniobiorcy z miejsca tego zakwaterowania do miejsca udzielania świadczeń opieki zdrowotnej, w przypadkach określonych w art. 33b ust. 2 ustawy o świadczeniach – jeżeli udziela świadczeń opieki zdrowotnej w obszarze chemioterapii i innych metodach leczenia systemowego lub obszarze radioterapii onkologicznej Świadczeniodawca zapewnia:
+1) konsultacje wielospecjalistyczne niezbędne w procesie opieki nad świadczeniobiorcą;
+2) leczenia powikłań i następstw po chemioterapii i innych metodach leczenia systemowego lub radioterapii, w oparciu o posiadane schematy postępowania w zakresie leczenia powikłań i następstw po chemioterapii i innych metodach leczenia systemowego lub radioterapii;
+3) zakwaterowanie i transport świadczeniobiorcy z miejsca tego zakwaterowania do miejsca udzielania świadczeń opieki zdrowotnej, w przypadkach określonych w art. 33b ust. 2 ustawy o świadczeniach -jeżeli udziela świadczeń opieki zdrowotnej w obszarze chemioterapii i innych metodach leczenia systemowego lub obszarze radioterapii onkologicznej Świadczeniodawca zapewnia:
+1) konsultacje wielospecjalistyczne niezbędne w procesie opieki nad świadczeniobiorcą;
+2) leczenie powikłań i następstw po chemioterapii i innych metodach leczenia systemowego i radioterapii, w oparciu o posiadane schematy postępowania w zakresie leczenia powikłań i następstw po chemioterapii i innych metodach leczenia systemowego i radioterapii;
+3) zakwaterowanie i transport świadczeniobiorcy z miejsca tego zakwaterowania do miejsca udzielania świadczeń opieki zdrowotnej w przypadkach określonych w art. 33b ust. 2 ustawy o świadczeniach – w przypadku świadczeń opieki zdrowotnej w obszarze chemioterapii i obszarze radioterapii onkologicznej;
+4) leczenie skojarzone -jednoczasowa chemioterapia i radioterapia (RCHT);
+5) pełne leczenie skojarzone nowotworów (chirurgia onkologiczna, radioterapia i chemioterapia) III Liczba i rodzaj procedur medycznych lub liczba świadczeniobiorców 1 Obszar leczenie zabiegowe chirurgiczne A. Liczba procedur medycznych Dla świadczeniodawców udzielających świadczeń opieki zdrowotnej w obszarze leczenie zabiegowe chirurgiczne – minimalna liczba świadczeń opieki zdrowotnej związanych z leczeniem operacyjnym nowotworów, dla których rozpoznania i procedury medyczne są zdefiniowane w części B, wykonanych w roku kalendarzowym poprzedzającym kwalifikację lub weryfikację, o których mowa w art. 9 ust. 1 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U. poz. 650, z późn. zm.), zwanej dalej „ustawą” -150 zabiegów lub spełnianie warunku realizacji minimalnej liczby zabiegów co najmniej w 1 z 16 grup nowotworów określonych w części B Dla świadczeniodawców udzielających świadczeń opieki zdrowotnej w obszarze leczenie zabiegowe chirurgiczne – minimalna liczba świadczeń opieki zdrowotnej związanych z leczeniem operacyjnym nowotworów, dla których rozpoznania i procedury medyczne są zdefiniowane w części B, wykonanych w roku kalendarzowym poprzedzającym kwalifikację lub weryfikację, o których mowa w art. 9 ust. 1 ustawy – 150 zabiegów oraz spełnianie warunku realizacji minimalnej liczby zabiegów co najmniej w 1 z 16 grup nowotworów określonych w części B Dla świadczeniodawców udzielających świadczeń opieki zdrowotnej w obszarze leczenie zabiegowe chirurgiczne – minimalna liczba świadczeń opieki zdrowotnej związanych z leczeniem operacyjnym nowotworów, dla których rozpoznania i procedury medyczne są zdefiniowane w części B, wykonanych w roku kalendarzowym poprzedzającym weryfikację, o której mowa w art. 9 ust. 1 pkt 2 ustawy – 500 zabiegów oraz spełnianie warunku realizacji minimalnej liczby zabiegów co najmniej w 5 z 16 grup nowotworów określonych w części B B. Liczba i rodzaj procedur medycznych w poszczególnych rozpoznaniach 1. NOWOTWÓR ZŁOŚLIWY PŁUCA – minimalna liczba 70 zabiegów obejmujących następujące procedury medyczne zgodnie z Międzynarodową Klasyfikacją Procedur Medycznych ICD-9, zwaną „dalej „ICD-9”, wykonane w rozpoznaniu zasadniczym według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych ICD-10, zwanej dalej „ICD-10”: C34, C78.0:
+1) 31.731 Wycięcie przetoki tchawiczo-przelykowej;
+2) 31.75 Rekonstrukcja tchawicy i wytworzenie sztucznej krtani;
+3) 31.791 Wprowadzenie stałej endoprotezy tchawiczo-oskrzelowej;
+4) 32.1 Inne wycięcia oskrzela;
+5) 32.292 Klinowe wycięcie płuca;
+6) 32.3 Segmentowa resekcja płuca;
+7) 32.41 Lobektomia z wycięciem segmentu drugiego płata;
+8) 32.49 Lobektomia – inna;
+9) 32.52 Wycięcie płuca z rozdzieleniem śródpiersia;
+10) 32.59 Całkowite usunięcie płuca nieokreślone inaczej;
+11) 32.6 Radykalna resekcja struktur klatki piersiowej;
+12) 32.9 Inne wycięcia płuc;
+13) 33.34 Torakoplastyka;
+14) 33.99 Operacje płuc – inne;
+15) 34.51 Dekortykacja płuca 2. NOWOTWÓR ZŁOŚLIWY PĘCHERZA MOCZOWEGO – minimalna liczba 30 zabiegów obejmujących następujące procedury medyczne zgodnie z ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C67:
+1) 57.711 Wytrzewienie miednicy u mężczyzny;
+2) 57.712 Usunięcie pęcherza, stercza, pęcherzyków nasiennych i tkanki tłuszczowej;
+3) 57.713 Usunięcie pęcherza, cewki moczowej i tkanki tłuszczowej u kobiety;
+4) 57.721 Wycięcie pęcherza radykalne z odprowadzeniem moczu przez wstawkę jelitową u mężczyzny;
+5) 57. 122 Wycięcie pęcherza radykalne z wytworzeniem zastępczego, kontynentnego zbiornika jelitowego u mężczyzny;
+6) 57.723 Wycięcie pęcherza radykalne z wytworzeniem ortotopowego pęcherza jelitowego u mężczyzny;
+7) 57.724 Wycięcie pęcherza radykalne z wytworzeniem przetok moczowodowo-skórnych u mężczyzny;
+8) 57.725 Wycięcie pęcherza radykalne i całej cewki moczowej męskiej (cystouretrektomia) z wytworzeniem przetok moczowodowo-skórnych;
+9) 57.726 Wycięcie pęcherza radykalne i cewki moczowej męskiej z wytworzeniem zastępczego, kontynentnego zbiornika jelitowego;
+10) 57.727 Wycięcie pęcherza radykalne i cewki moczowej męskiej z odprowadzeniem moczu przez wstawkę jelitową;
+11) 57.730 Wycięcie pęcherza radykalne wraz z całą cewką moczową, macicą, przydatkami i przednią ścianą pochwy z wytworzeniem przetok moczowodowo-skórnych;
+12) 57.731 Wycięcie pęcherza radykalne wraz z całą cewką moczową, macicą, przydatkami i przednią ścianą pochwy z odprowadzeniem moczu przez wstawkę jelitową;
+13) 57.732 Wycięcie pęcherza radykalne wraz z całą cewką moczową, macicą, przydatkami i przednią ścianą pochwy z wytworzeniem zastępczego, kontynentnego zbiornika jelitowego;
+14) 57.733 Wycięcie pęcherza radykalne wraz z macicą i przydatkami z wytworzeniem ortotopowego pęcherza jelitowego;
+15) 57.734 Wycięcie pęcherza radykalne wraz z macicą i jednostronnym wycięciem przydatków oraz odprowadzeniem moczu przez wstawkę jelitową;
+16) 57.735 Wycięcie pęcherza radykalne wraz z macicą i jednostronnym wycięciem przydatków oraz wytworzeniem zastępczego, kontynentnego zbiornika jelitowego;
+17) 57.736 Wycięcie pęcherza radykalne wraz z macicą i jednostronnym wycięciem przydatków oraz wytworzeniem ortotopowego pęcherza jelitowego;
+18) 57.737 Wycięcie pęcherza radykalne bez macicy ani przydatków oraz odprowadzeniem moczu przez wstawkę jelitową;
+19) 57.738 Wycięcie pęcherza radykalne bez macicy ani przydatków oraz wytworzeniem zastępczego, kontynentnego zbiornika jelitowego;
+20) 57.739 Wycięcie pęcherza radykalne bez macicy ani przydatków oraz wytworzeniem ortotopowego pęcherza jelitowego;
+21) 57.741 Wycięcie radykalne pęcherza laparoskopowo z odprowadzeniem moczu przez wstawkę jelitową metodą otwartą;
+22) 57.742 Wycięcie radykalne pęcherza laparoskopowo z rekonstrukcją dróg moczowych metodą otwartą;
+23) 57.743 Wycięcie radykalne pęcherza laparoskopowo z wytworzeniem zastępczego, kontynentnego zbiornika jelitowego metodą otwartą;
+24) 57.744 Wycięcie radykalne pęcherza laparoskopowo z wytworzeniem ortotopowego pęcherza jelitowego metodą otwartą;
+25) 57.745 Wycięcie pęcherza radykalne laparoskopowo z wytworzeniem przetok moczowodowo-skórnych metodą otwartą;
+26) 57.746 Wycięcie radykalne pęcherza laparoskopowo z wycięciem całej cewki moczowej męskiej metodą otwartą i wytworzeniem przetok moczowodowo-skórnych metodą otwartą;
+27) 57.747 Wycięcie radykalne pęcherza laparoskopowo z wycięciem całej cewki moczowej męskiej metodą otwartą i odprowadzeniem moczu przez wstawkę jelitową metodą otwartą;
+28) 57.748 Wycięcie radykalne pęcherza laparoskopowo z wycięciem całej cewki moczowej męskiej metodą otwartą i wytworzeniem zastępczego, kontynentnego zbiornika jelitowego metodą otwartą;
+29) 57.751 Wycięcie pęcherza proste (bez limfadenektomii) laparoskopowe z wytworzeniem przetok moczowodowo-skórnych metodą otwartą;
+30) 57.752 Wycięcie pęcherza proste (bez limfadenektomii) laparoskopowe z odprowadzeniem moczu przez wstawkę jelitową metodą otwartą;
+31) 57.753 Wycięcie pęcherza proste (bez limfadenektomii) laparoskopowe z wytworzeniem zastępczego, kontynentnego zbiornika jelitowego metodą otwartą;
+32) 57.754 Wycięcie pęcherza proste (bez limfadenektomii) laparoskopowe z wytworzeniem ortotopowego pęcherza jelitowego metodą otwartą;
+33) 57.791 Wycięcie pęcherza proste (bez limfadenektomii) z wytworzeniem przetok moczowodowo-skórnych u mężczyzny;
+34) 57.792 Wycięcie pęcherza proste (bez limfadenektomii) z odprowadzeniem moczu przez wstawkę jelitową u mężczyzny;
+35) 57.793 Wycięcie pęcherza proste (bez limfadenektomii) z wytworzeniem zastępczego, kontynentnego zbiornika jelitowego u mężczyzny;
+36) 57.794 Wycięcie pęcherza proste (bez limfadenektomii) z wytworzeniem ortotopowego pęcherza jelitowego u mężczyzny;
+37) 57.875 Wycięcie pęcherza z pozostawieniem szyi i trójkąta pęcherza oraz zastąpieniem pęcherza jelitem (cystoenteroplastyka) 3. NOWOTWÓR ZŁOŚLIWY JAJNIKA – minimalna liczba 30 zabiegów, obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C56:
+1) 65.26 Wyniszczenie guza jajnika jednostronne/obustronne;
+2) 65.41 Jednostronne usunięcie jajnika i jajowodu laparoskopowo;
+3) 65.49 Jednostronne usunięcie jajnika i jajowodu – inne;
+4) 65.519 Równoczesne usunięcie obu jajników – inne;
+5) 65.53 Laparoskopowe usunięcie obu jajników w trakcie jednego zabiegu;
+6) 65.54 Laparoskopowe usunięcie pozostałego jajnika;
+7) 65.61 Równoczesne usunięcie obu jajników i jajowodów;
+8) 65.62 Laparoskopowe usunięcie obu jajników i jajowodów w trakcie jednego zabiegu;
+9) 65.63 Laparoskopowe usunięcie pozostałego jajnika i jajowodu;
+10) 68.42 Poszerzone wycięcie macicy;
+11) 68.51 Wycięcie macicy drogą pochwową w asyście laparoskopowej (LAVH);
+12) 68.61 Zmodyfikowane radykalne wycięcie macicy;
+13) 68.62 Operacja Wertheima;
+14) 68.71 Laparoskopowe radykalne wycięcie macicy drogą pochwową (LRVH);
+15) 68.8 Wytrzewienie miednicy małej 4. NOWOTWÓR ZŁOŚLIWY JELITA GRUBEGO – minimalna liczba 75 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C18-C20:
+1) 45.732 Prawostronna radykalna kolektomia;
+2) 45.733 Hemikolektomia prawostronna;
+3) 45.74 Resekcja poprzecznicy;
+4) 45.75 Hemikolektomia lewostronna;
+5) 45.76 Sigmoidektomia;
+6) 45.8 Totalna śródbrzuszna kolektomia;
+7) 48.5 Brzuszno-kroczowa amputacja odbytnicy;
+8) 48.61 Przezkrzyżowe wycięcie odbytnicy/esicy;
+9) 48.62 Przednia resekcja odbytnicy z wytworzeniem kolostomii;
+10) 48.63 Przednia resekcja odbytnicy – inna;
+11) 48.64 Tylna resekcja odbytnicy;
+12) 48.65 Resekcja odbytnicy metodą Duhamela 5. NOWOTWÓR ZŁOŚLIWY MACICY – minimalna liczba 50 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C53-C55:
+1) 68.42 Poszerzone wycięcie macicy;
+2) 68.51 Wycięcie macicy drogą pochwową w asyście laparoskopowej (LAVH);
+3) 68.61 Zmodyfikowane radykalne wycięcie macicy;
+4) 68.62 Operacja Wertheima;
+5) 68.71 Laparoskopowe radykalne wycięcie macicy drogą pochwową (LRVH)
+6) 68.76 Histerokolpektomia;
+7) 68.77 Operacja Schauta;
+8) 68.8 Wytrzewienie miednicy małej 6. NOWOTWÓR ZŁOŚLIWY NERKI – minimalna liczba 50 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C64-C65:
+1) 55.41 Wycięcie kielicha nerkowego;
+2) 55.42 Klinowa resekcja nerki;
+3) 55.45 Wycięcie nerki częściowe i zespolenie kielichowo-moczowodowe;
+4) 55.470 Częściowe wycięcie nerki proste laparoskopowo;
+5) 55.471 Wycięcie nerki wraz z całym moczowodem (nefroureterektomia) bez usuwania śródściennego odcinka moczowodu laparoskopowo;
+6) 55.472 Wycięcie nerki wraz z całym moczowodem (nefroureterektomia) z usunięciem śródściennego odcinka moczowodu po jego uwolnieniu przezcewkowym laparoskopowo;
+7) 55.473 Wycięcie nerki wraz z całym moczowodem (nefroureterektomia) laparoskopowo i usunięciem fragmentu pęcherza obejmującego śródścienny odcinek moczowodu metodą otwartą;
+8) 55.49 Częściowe wycięcie nerki – inne;
+9) 55.511 Wycięcie nerki wraz z całym moczowodem i fragmentem pęcherza (nefroureterektomia);
+10) 55.512 Całkowite jednostronne wycięcie nerki;
+11) 55.513 Wycięcie nerki radykalne z wycięciem nadnercza i regionalnych węzłów chłonnych z powodu guza;
+12) 55.514 Wycięcie nerki radykalne z wycięciem regionalnych węzłów chłonnych i pozostawieniem nadnercza z powodu guza;
+13) 55.515 Wycięcie nerki radykalne z powodu guza i usunięcie czopa nowotworowego z żyły głównej dolnej przez jej nacięcie (kawotomia) – operacja prosta;
+14) 55.516 Wycięcie nerki radykalne z powodu guza i usunięcie czopa nowotworowego z żyły głównej dolnej przez jej nacięcie (kawotomia) – operacja skomplikowana;
+15) 55.517 Wycięcie nerki radykalne z powodu guza i usunięcie czopa nowotworowego sięgającego do ponadprzeponowego odcinka żyły głównej dolnej z otwarciem klatki piersiowej i wytworzeniem krążenia omijającego;
+16) 55.52 Wycięcie nerki jedynej;
+17) 55.54 Obustronne wycięcie nerek;
+18) 55.553 Wycięcie nerki radykalne z wycięciem nadnercza i regionalnych węzłów chłonnych z powodu guza;
+19) 55.554 Wycięcie nerki z wycięciem regionalnych węzłów chłonnych i pozostawieniem nadnercza z powodu guza;
+20) 55.555 Wycięcie nerki z pozostawieniem nadnercza i regionalnych węzłów chłonnych z powodu guza;
+21) 55.556 Wycięcie nerki radykalne wraz z czopem sięgającym do pozanerkowego odcinka żyły nerkowej z wycięciem nadnercza i regionalnych węzłów chłonnych z powodu guza;
+22) 55.557 Wycięcie nerki radykalne wraz z czopem sięgającym do przynerkowego odcinka żyły głównej dolnej z wycięciem nadnercza i regionalnych węzłów chłonnych z powodu guza 7. NOWOTWÓR ZŁOŚLIWY PIERSI – minimalna liczba 150 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C50:
+1) 85.22 Resekcja kwadrantu piersi;
+2) 85.23 Subtotalna mammektomia;
+3) 85.261 Wycięcie guza piersi z zastosowaniem technik onkoplastycznych bez centralizacji kompleksu brodawka -otoczka piersiowa lub z centralizacją;
+4) 85.269 Wycięcie guza piersi – BCT – inne;
+5) 85.411 Mastektomia – inna;
+6) 85.412 Mastektomia całkowita;
+7) 85.421 Obustronne proste odjęcie piersi;
+8) 85.422 Obustronne całkowite odjęcie piersi;
+9) 85.431 Poszerzona prosta mastektomia – inna;
+10) 85.432 Zmodyfikowana radykalna mastektomia;
+11) 85.433 Prosta mastektomia z wycięciem regionalnych węzłów chłonnych;
+12) 85.44 Obustronne poszerzone proste odjęcie piersi;
+13) 85.451 Usunięcie piersi, mięśnia piersiowego, regionalnych węzłów (pachowych, pod i nadobojczykowych);
+14) 85.452 Radykalne odjęcie piersi BNO;
+15) 85.46 Obustronne radykalne odjęcie piersi;
+16) 85.471 Wycięcie piersi, mięśnia piersiowego, regionalnych węzłów chłonnych (pachowych, nadobojczykowych, piersiowych wewnętrznych, śródpiersiowych);
+17) 85.472 Poszerzona radykalna amputacja piersi BNO;
+18) 85.48 Obustronne poszerzone radykalne odjęcie piersi 8. NOWOTWÓR ZŁOŚLIWY GRUCZOŁU KROKOWEGO – minimalna liczba 75 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C61:
+1) 60.51 Wycięcie radykalne stercza (prostatektomia radykalna) z limfadenektomią zasłonową z dostępu załonowego;
+2) 60.52 Wycięcie radykalne stercza (prostatektomia radykalna) z limfadenektomią miedniczną z dostępu załonowego;
+3) 60.53 Wycięcie radykalne stercza (prostatektomia radykalna) z limfadenektomią zasłonową z dostępu kroczowego;
+4) 60.54 Wycięcie radykalne stercza (prostatektomia radykalna) z limfadenektomią zasłonową laparoskopowo;
+5) 60.55 Wycięcie radykalne stercza (prostatektomia radykalna) z limfadenektomią miedniczną laparoskopowo 9. NOWOTWÓR ZŁOŚLIWY TRZUSTKI – minimalna liczba 30 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C25:
+1) 52.511 Wycięcie głowy trzustki z częścią trzonu;
+2) 52.512 Proksymalne wycięcie trzustki z jednoczasową duodenektomią;
+3) 52.513 Resekcja głowy trzustki z zaoszczędzeniem dwunastnicy sposobem Bergera;
+4) 52.514 Miejscowe wycięcie głowy trzustki z pankreatikojejunostomią sposobem Frey'a;
+5) 52.521 Wycięcie ogona trzustki z częścią trzonu;
+6) 52.522 Wycięcie ogona trzustki z zaoszczędzeniem śledziony;
+7) 52.53 Radykalna subtotalna pankreatektomia;
+8) 52.61 Pankreatektomia z jednoczasową duodenektomią;
+9) 52.69 Totalna pankreatektomia – inna;
+10) 52.71 Jednoetapowa resekcja trzustki i dwunastnicy z zespoleniem dróg żółciowych z jelitem cienkim, dróg trzustkowych z jelitem cienkim i wytworzeniem zespolenia żołądkowo-jelitowego;
+11) 52.72 Dwuetapowa resekcja trzustki i dwunastnicy;
+12) 52.73 Radykalna resekcja trzustki;
+13) 52.74 Operacja Whipple'a;
+14) 52.75 Radykalne usunięcie trzustki i dwunastnicy z zaoszczędzeniem odźwiernika sposobem Traverso-Longmire'a 10. NOWOTWÓR ZŁOŚLIWY ŻOŁĄDKA I JELITA CIENKIEGO – minimalna liczba 30 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C16, C17:
+1) 43.6 Częściowe wycięcie żołądka z zespoleniem z dwunastnicą;
+2) 43.7 Częściowe wycięcie żołądka z zespoleniem z jelitem czczym;
+3) 43.81 Częściowe wycięcie żołądka wstawka jelita czczego;
+4) 43.89 Częściowe wycięcie żołądka – inne;
+5) 43.91 Całkowite usunięcie żołądka-wstawka jelitowa;
+6) 43.991 Całkowite usunięcie żołądka i dwunastnicy;
+7) 43.992 Zespolenie żołądkowo dwunastnicze z całkowitym usunięciem żołądka;
+8) 43.993 Wycięcie żołądka i przełyku – inne;
+9) 43.994 Zespolenie przełyku z jelitem cienkim z całkowitym usunięciem żołądka;
+10) 43.995 Radykalne wycięcie żołądka;
+11) 43.999 Całkowite usunięcie żołądka – inne;
+12) 45.621 Resekcja dwunastnicy;
+13) 45.622 Resekcja jelita czczego;
+14) 45.623 Resekcja jelita krętego;
+15) 45.629 Częściowa resekcja jelita cienkiego -inna;
+16) 45.63 Całkowite usunięcie jelita cienkiego. 11. NOWOTWÓR ZŁOŚLIWY TARCZYCY I PRZYTARCZYC – minimalna liczba 50 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C73, C75.0:
+1) 06.21 Całkowite usunięcie jednego płata tarczycy (z usunięciem cieśni lub części drugiego płata);
+2) 06.22 Wycięcie połowy tarczycy;
+3) 06.391 Wycięcie cieśni tarczycy;
+4) 06.399 Inna częściowa tyroidektomia;
+5) 06.4 Całkowita resekcja tarczycy;
+6) 06.51 Częściowa resekcja tarczycy zamostkowej;
+7) 06.52 Całkowita resekcja tarczycy zamostkowej;
+8) 06.59 Zamostkowa resekcja tarczycy – inna;
+9) 06.61 Wycięcie tarczycy językowej z dostępu podbródkowego;
+10) 06.62 Wycięcie tarczycy językowej z dostępu przez usta;
+11) 06.7 Wycięcie przewodu tarczowo-językowego;
+12) 06.81 Całkowite usunięcie przytarczyc;
+13) 06.98 Operacje tarczycy – inne;
+14) 06.99 Operacje przytarczyc – inne 12. NOWOTWÓR OUN – minimalna liczba 70 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C70, C71, C75.1, C75.3, D32, D33.0-D33.4, D35.2, D35.4:
+1) 01.511 Dekortykacja opon;
+2) 01.512 Wycięcie opony mózgowej;
+3) 01.513 Zdjęcie błony podtwardówkowej z opony;
+4) 01.52Hemisferektomia;
+5) 01.53 Lobektomia mózgu;
+6) 01.591 Wyłyżeczkowanie w zakresie mózgu;
+7) 01.594 Przezskroniowe (przez wyrostek sutkowaty) wycięcie guza mózgu;
+8) 01.595 Wycięcie guza móżdżku;
+9) 01.596 Wycięcie guza pnia mózgu;
+10) 01.599 Inne wycięcie guza mózgu;
+11) 02.92 Operacja naprawcza mózgu;
+12) 03.41 Łyżeczkowanie rdzenia kręgowego lub opon;
+13) 03.42 Oczyszczenie rdzenia kręgowego lub opon;
+14) 03.44 Resekcja rdzenia kręgowego lub opon;
+15) 03.99 Operacje struktur kanału kręgowego – inne;
+16) 04.011 Wycięcie nerwiaka nerwu słuchowego;
+17) 04.012 Wycięcie nerwiaka nerwu słuchowego z kraniotomią;
+18) 07.53 Częściowe wycięcie szyszynki;
+19) 07.54 Całkowite usunięcie szyszynki;
+20) 07.59 Inne operacje szyszynki;
+21) 07.611 Kriochirurgiczne częściowe usunięcie przysadki, z dojścia przezczołowego;
+22) 07.612 Rozdzielenie szypuly przysadki, z dojścia przezczołowego;
+23) 07.613 Wycięcie zmiany przysadki, z dojścia przezczołowego;
+24) 07.614 Subtotalne wycięcie przysadki, z dojścia przezczołowego;
+25) 07.615 Wycięcie szypuły przysadki, z dojścia przezczołowego;
+26) 07.619 Częściowe wycięcie przysadki, z dojścia przezczołowego – inne;
+27) 07.62 Częściowe wycięcie przysadki przezklinowe;
+28) 07.631 Częściowe wycięcie przysadki, z dojścia podczołowego;
+29) 07.639 Częściowe wycięcie przysadki z nieokreślonego dojścia;
+30) 07.641 Ablacja przysadki przez implantację strontu/itru;
+31) 07.642 Kriochirurgiczne całkowite usunięcie przysadki;
+32) 07.649 Całkowite usunięcie przysadki przezczołowe – inne;
+33) 07.65 Całkowite usunięcie przysadki przezklinowe;
+34) 07.68 Całkowite usunięcie przysadki z innego dojścia 13. NOWOTWÓR ZŁOŚLIWY REGIONU GŁOWY I SZYI – minimalna liczba 50 zabiegów obejmujących następujące procedury medyczne ICD-9, wykonane w rozpoznaniu zasadniczym ICD-10: C02, C04, C06, C13, C31, C32, C41.0, C41.1:
+1) 16.51 Wytrzewienie oczodołu z usunięciem przyległych struktur;
+2) 25.3 Całkowite usunięcie języka;
+3) 25.4 Radykalne usunięcie języka;
+4) 26.322 Radykalne usunięcie ślinianki;
+5) 27.32 Rozległe wycięcie lub zniszczenie zmiany lub tkanki podniebienia twardego;
+6) 27.43 Rozległe wycięcie zmiany lub tkanki wargi;
+7) 27.492 Wycięcie zmiany w zakresie dna jamy ustnej;
+8) 27.493 Wycięcie zmiany w zakresie przedsionka i dna jamy ustnej;
+9) 29.33 Częściowa faryngektomia;
+10) 30.1 Wycięcie połowy krtani;
+11) 30.21 Wycięcie nagłośni;
+12) 30.22 Wycięcie strun głosowych;
+13) 30.23 Częściowe wycięcie krtani z rekonstrukcją;
+14) 30.29 Częściowa laryngektomia – inna;
+15) 30.31 Blokowe wycięcie krtani z tyroidektomią z jednoczasową tracheostomią;
+16) 30.32 Wycięcie krtani i gardła;
+17) 30.39 Całkowite wycięcie krtani – inne;
+18) 30.41 Radykalne wycięcie krtani z radykalnym preparowaniem szyi z wycięciem tarczycy i z jednoczesną tracheostomią;
+19) 30.49 Radykalne wycięcie krtani – inne;
+20) 31.65 Rekonstrukcja z plastyką krtani po operacji częściowej;
+21) 76.312 Subtotalna resekcja żuchwy;
+22) 76.391 Połowicze wycięcie szczęki (z przeszczepem kostnym lub protezą);
+23) 76.41 Całkowite wycięcie żuchwy z jednoczasową rekonstrukcją;
+24) 76.441 Całkowite usunięcie szczęki z jednoczasową rekonstrukcją chirurgiczną lub protetyczną;
+25) 76.451 Całkowite wycięcie szczęki 14. NOWOTWÓR ZŁOŚLIWY TCHAWICY, OPŁUCNEJ, ŚRÓDPIERSIA I INNYCH NARZĄDÓW KLATKI PIERSIOWEJ – minimalna liczba 15 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C15, C33, C37, C38:
+1) 07.81 Częściowe usunięcie grasicy;
+2) 07.82 Całkowite usunięcie grasicy;
+3) 07.89 Usunięcie grasicy-inne;
+4) 07.95 Torakoskopowe wycięcie grasicy;
+5) 07.991 Resekcja grasicy z dostępu szyjnego;
+6) 07.992 Operacje grasicy – inne;
+7) 31.75 Rekonstrukcja tchawicy i wytworzenie sztucznej krtani;
+8) 32.6 Radykalna resekcja struktur klatki piersiowej;
+9) 33.990peracje płuc-inne;
+10) 34.03 Retorakotomia przez ranę operacyjną;
+11) 34.3 Zniszczenie lub wycięcie zmiany lub tkanki śródpiersia;
+12) 34.4 Zniszczenie lub wycięcie zmiany ze ściany klatki piersiowej (z usunięciem żeber);
+13) 34.51 Dekortykacja płuca;
+14) 34.59 Inne wycięcia opłucnej;
+15) 34.81 Wycięcie zmiany lub tkanki przepony;
+16) 34.89 Operacje przepony – inne;
+17) 34.99 Operacje klatki piersiowej – inne;
+18) 42.41 Częściowe wycięcie przełyku;
+19) 42.42 Całkowite wycięcie przełyku;
+20) 42.49 Wycięcie przełyku – inne;
+21) 42.89 Zabiegi naprawcze przełyku – inne;
+22) 43.5 Częściowe wycięcie żołądka z zespoleniem z przełykiem 15. NOWOTWÓR ZŁOŚLIWY NARZĄDU RUCHU – minimalna liczba 10 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C40, C41.2, C41.3, C41.4, C41.8, C41.9, C49.1, C49.2, C49.9, C76.4, C76.5, C79.5:
+1) 77.81 Inne częściowe wycięcie kości – łopatka, obojczyk, klatka piersiowa (żebra i mostek);
+2) 77.82 Inne częściowe wycięcie kości – kość ramienna;
+3) 77.83 Inne częściowe wycięcie kości – kość promieniowa / kość łokciowa;
+4) 77.84 Inne częściowe wycięcie kości – kości nadgarstka/śródręcza;
+5) 77.85 Inne częściowe wycięcie kości – kość udowa;
+6) 77.86 Inne częściowe wycięcie kości – rzepka;
+7) 77.87 Inne częściowe wycięcie kości – kość piszczelowa / kość strzałkowa;
+8) 77.88 Inne częściowe wycięcie kości – kości stępu / kości śródstopia;
+9) 77.891 Inne częściowe wycięcie kości – inne kości (miednica);
+10) 77.892 Inne częściowe wycięcie kości – inne kości (paliczki palców stopy/ręki);
+11) 77.893 Inne częściowe wycięcie kości – inne kości (kręgi);
+12) 78.242 Resekcja/osteotomia – kość ramienna;
+13) 78.243 Resekcja/osteotomia – kość promieniowa / kość łokciowa;
+14) 78.244 Resekcja/osteotomia – kości nadgarstka/śródręcza / paliczki (ręki);
+15) 78.245 Resekcja/osteotomia-kość udowa/miednica;
+16) 78.247 Resekcja/osteotomia – kość piszczelowa / kość strzałkowa;
+17) 84.001 Amputacja kończyny górnej z pokryciem kikuta płatem;
+18) 84.002 Kineplastyczna amputacja kończyny górnej;
+19) 84.003 Otwarta lub gilotynowa amputacja kończyny górnej;
+20) 84.01 Amputacja i wyłuszczenie palca ręki w stawie;
+21) 84.02 Amputacja i wyłuszczenie kciuka w stawie;
+22) 84.03 Amputacja w zakresie ręki;
+23) 84.05 Amputacja w zakresie przedramienia;
+24) 84.101 Amputacja kończyny dolnej z pokryciem kikuta płatem;
+25) 84.102 Amputacja kineplastyczna kończyny dolnej;
+26) 84.103 Otwarta lub gilotynowa amputacja kończyny dolnej;
+27) 84.111 Amputacja palca stopy w stawie śródstopno-paliczkowym;
+28) 84.112 Wyłuszczenie palca stopy w stawie;
+29) 84.113 Amputacja głowy kości śródstopa;
+30) 84.114 Promieniowa amputacja stopy (wyłuszczenie głowy paliczka bliższego tuż ponad fałdem śródstopno-palcowym);
+31) 84.121 Amputacja przedniej części stopy;
+32) 84.122 Amputacja przez śródstopie;
+33) 84.123 Amputacja w stawie Choparta;
+34) 84.124 Amputacja w środkowym śródstopiu;
+35) 84.125 Amputacja przez śródstopie (w tym wszystkich palców u stopy);
+36) 84.129 Amputacja w zakresie stopy – inne;
+37) 84.151 Amputacja nogi na wysokości kości piszczelowej i strzałkowej – nieokreślona inaczej;
+38) 84.191 Amputacja kończyny dolnej z częścią miednicy;
+39) 84.192 Amputacja tylnej części miednicy;
+40) 77.61 Miejscowe wycięcie zmiany lub tkanki kości – łopatka, obojczyk, klatka piersiowa (żebra i mostek);
+41) 77.62 Miejscowe wycięcie zmiany lub tkanki kości – kość ramienna;
+42) 77.63 Miejscowe wycięcie zmiany lub tkanki kości – kość promieniowa / kość łokciowa;
+43) 77.64 Miejscowe wycięcie zmiany lub tkanki kości – kości nadgarstka/śródręcza;
+44) 77.65 Miejscowe wycięcie zmiany lub tkanki kości – kość udowa;
+45) 77.67 Miejscowe wycięcie zmiany lub tkanki kości – kość piszczelowa / kość strzałkowa;
+46) 77.68 Miejscowe wycięcie zmiany lub tkanki kości – kości stepu / kości śródstopia;
+47) 77.691 Miejscowe wycięcie zmiany lub tkanki kości – inne kości (miednica);
+48) 77.692 Miejscowe wycięcie zmiany lub tkanki kości – inne kości (paliczki palców stopy/ręki);
+49) 77.693 Miejscowe wycięcie zmiany lub tkanki kości – inne kości (kręgi);
+50) 78.249 Resekcja/osteotomia- inne (kręgi);
+51) 84.07 Amputacja w zakresie ramienia;
+52) 84.08 Wyłuszczenie w stawie barkowym;
+53) 84.09 Amputacja kończyny górnej z odjęciem łopatki;
+54) 84.171 Amputacjanogi na wysokości kości udowej;
+55) 84.172 Amputacja uda;
+56) 84.174 Nadkłykciowa amputacja powyżej kolana;
+57) 84.18 Wyłuszczenie w stawie biodrowym;
+58) 84.04 Wyłuszczenie nadgarstka;
+59) 84.06 Wyłuszczenie w stawie łokciowym;
+60) 84.13 Wyłuszczenie w stawie skokowym;
+61) 84.14 Amputacja stopy w zakresie kostek bocznych;
+62) 84.169 Wyłuszczenie w stawie kolanowym – inne 16. NOWOTWÓR ZŁOŚLIWY OKA – minimalna liczba 10 zabiegów obejmujących następujące procedury medyczne ICD-9 wykonane w rozpoznaniu zasadniczym ICD-10: C69:
+1) 08.249 Wycięcie pełnej grubości dużej zmiany powieki – inne;
+2) 09.23 Całkowite wycięcie gruczołu łzowego;
+3) 16.31 Wytrzewienie gałki ocznej z jednoczasowym wszczepem protezy;
+4) 16.39 Inne wytrzewienie gałki ocznej;
+5) 16.41 Wyłuszczenie gałki ocznej z jednoczesnym założeniem wszczepu do torebki Tenona z przyczepieniem mięśni;
+6) 16.42 Wyłuszczenie gałki ocznej z innym jednoczesnym wszczepieniem;
+7) 16.49 Inna enukleacja gałki ocznej;
+8) 16.52 Wytrzewienie gałki ocznej z usunięciem kości;
+9) 16.59 Wytrzewienie gałki ocznej – inne;
+10) 16.92 Wycięcie zmiany oczodołu 2 OBSZAR RADIOTERAPIA ONKOLOGICZNA Dla świadczeniodawców udzielających świadczeń opieki zdrowotnej z obszaru radioterapia onkologiczna -realizowanie procedur radioterapii 3D konformalnej, w tym radioterapii z modulacją intensywności dawki promieniowania (IMRT) Dla świadczeniodawców udzielających świadczeń opieki zdrowotnej z obszaru radioterapii onkologicznej -realizowanie procedur radioterapii 3D konformalnej, w tym radioterapii z modulacją intensywności dawki promieniowania (IMRT) Dla świadczeniodawców udzielających świadczeń opieki zdrowotnej z obszaru radioterapii onkologicznej -realizowanie procedur radioterapii metodą radioterapii z modulacją intensywności dawki promieniowania (IMRT), stereotaksji oraz brachyterapii
 

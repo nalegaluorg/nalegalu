@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 19 października 2012 r. w sprawie szczegółowego zakresu raportów sporządzanych przez Państwową Komisję Badania Wypadków Morskich
+# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 19 października 2012 r. w sprawie szczegółowego zakresu raportów sporządzanych przez Państwową Komisję Badania Wypadków Morskich Przepisy niniejszego rozporządzenia dokonują w zakresie swojej regulacji wdrożenia postanowień dyrektywy Parlamentu Europejskiego i Rady 2009/18/WE z dnia 23 kwietnia 2009 r. ustanawiającej podstawowe zasady regulujące dochodzenia w sprawach wypadków w sektorze transportu morskiego i zmieniającej dyrektywę Rady 1999/35/WE oraz dyrektywę 2002/59/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 131 z 28.05.2009, str. 114).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-10-19 |
 | Data wydania | 2012-10-24 |
-| Wejście w życie | 2012-10-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001159) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1159/text.pdf) |
 
@@ -45,8 +44,7 @@ tymczasowego z przeprowadzonego badania wypadku lub incydentu morskiego określa
 3)
 uproszczonego z przeprowadzonego badania wypadku lub incydentu morskiego określa załącznik nr 3 do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 27 października 2012 r.
-2) Przepisy niniejszego rozporządzenia dokonują w zakresie swojej regulacji wdrożenia postanowień dyrektywy Parlamentu Europejskiego i Rady 2009/18/WE z dnia 23 kwietnia 2009 r. ustanawiającej podstawowe zasady regulujące dochodzenia w sprawach wypadków w sektorze transportu morskiego i zmieniającej dyrektywę Rady 1999/35/WE oraz dyrektywę 2002/59/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 131 z 28.05.2009, str. 114).
+Rozporządzenie wchodzi w życie z dniem 27 października 2012 r. 2) Przepisy niniejszego rozporządzenia dokonują w zakresie swojej regulacji wdrożenia postanowień dyrektywy Parlamentu Europejskiego i Rady 2009/18/WE z dnia 23 kwietnia 2009 r. ustanawiającej podstawowe zasady regulujące dochodzenia w sprawach wypadków w sektorze transportu morskiego i zmieniającej dyrektywę Rady 1999/35/WE oraz dyrektywę 2002/59/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 131 z 28.05.2009, str. 114).
 
 ## Załącznik nr 1 — – Szczegółowy zakres raportu końcowego z przeprowadzonego badania wypadku lub incydentu morskiego
 
@@ -61,11 +59,11 @@ nazwa;
 2)
 bandera;
 3)
-właściciel*) Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych).;
+właściciel*)Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych).;
 4)
-armator*) Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych).;
+armator*)Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych).;
 5)
-operator*) Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych).;
+operator*)Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych).;
 6)
 instytucja klasyfikacyjna;
 7)
@@ -153,7 +151,7 @@ wpływ czynników zewnętrznych, w tym związanych ze środowiskiem morskim, na 
 E.
 Opis wyników przeprowadzonego badania, w tym identyfikacja kwestii dotyczących bezpieczeństwa i wniosków wynikających z badania Podsumowanie czynników mających wpływ na wypadek lub incydent morski, ustalonych w wyniku badania, oraz ocena środków zaradczych zastosowanych przed wypadkiem, które okazały się niewystarczające lub których nie podjęto.
 F.
-Zalecenia dotyczące bezpieczeństwa**) Państwowa Komisja Badania Wypadków Morskich formułuje zalecenia dotyczące bezpieczeństwa w przypadkach, gdy jest to uzasadnione.
+Zalecenia dotyczące bezpieczeństwa**)Państwowa Komisja Badania Wypadków Morskich formułuje zalecenia dotyczące bezpieczeństwa w przypadkach, gdy jest to uzasadnione.
 G.
 Załączniki:
 1)
@@ -173,8 +171,7 @@ Liczba i nazwy państw istotnie zainteresowanych.
 2.
 Powody, dla których państwa wystąpiły z wnioskiem o udział w badaniu wypadku lub incydentu morskiego.
 I.
-Informacja o pracy Państwowej Komisji Badania Wypadków Morskich Skład zespołu badającego wypadek.
-*) Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych). **) Państwowa Komisja Badania Wypadków Morskich formułuje zalecenia dotyczące bezpieczeństwa w przypadkach, gdy jest to uzasadnione.
+Informacja o pracy Państwowej Komisji Badania Wypadków Morskich Skład zespołu badającego wypadek. *) Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych). **) Państwowa Komisja Badania Wypadków Morskich formułuje zalecenia dotyczące bezpieczeństwa w przypadkach, gdy jest to uzasadnione.
 
 ## Załącznik nr 2 — – Szczegółowy zakres raportu tymczasowego z przeprowadzonego badania wypadku lub incydentu morskiego
 
@@ -189,7 +186,7 @@ nazwa;
 2)
 bandera;
 3)
-armator*) Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych).;
+armator*)Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych).;
 4)
 typ statku;
 5)
@@ -267,8 +264,7 @@ Powody, dla których państwa zgłosiły wniosek o uczestnictwo w badaniu wypadk
 F.
 Informacja o pracy Państwowej Komisji Badania Wypadków Morskich Skład zespołu badającego wypadek.
 G.
-Przewidywany termin opublikowania raportu końcowego
-*) Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych).
+Przewidywany termin opublikowania raportu końcowego *) Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych).
 
 ## Załącznik nr 3 — – Szczegółowy zakres raportu uproszczonego z przeprowadzonego badania wypadku lub incydentu morskiego
 
@@ -283,11 +279,11 @@ nazwa;
 2)
 bandera;
 3)
-właściciel*) Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych).;
+właściciel*)Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych).;
 4)
-armator*) Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych).;
+armator*)Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych).;
 5)
-operator*) Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych).;
+operator*)Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych).;
 6)
 instytucja klasyfikacyjna;
 7)
@@ -375,6 +371,5 @@ wpływ czynników zewnętrznych, w tym związanych ze środowiskiem morskim, na 
 E.
 Opis wyników przeprowadzonego badania, w tym identyfikacja kwestii dotyczących bezpieczeństwa i wniosków wynikających z badania Podsumowanie czynników mających wpływ na wypadek lub incydent morski, ustalonych w wyniku badania, oraz ocena środków zaradczych zastosowanych przed wypadkiem, które okazały się niewystarczające lub których nie podjęto.
 F.
-Informacja o pracy Państwowej Komisji Badania Wypadków Morskich Skład zespołu badającego wypadek.
-*) Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych).
+Informacja o pracy Państwowej Komisji Badania Wypadków Morskich Skład zespołu badającego wypadek. *) Nazwa i siedziba (w przypadku osób prawnych) lub imię, nazwisko i miejsce zamieszkania (w przypadku osób fizycznych).
 

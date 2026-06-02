@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-22 |
 | Data wydania | 2022-04-22 |
-| Wejście w życie | 2022-04-23 |
 | Ostatnia zmiana | 2024-10-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000878) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/878/text.pdf) |
 
@@ -60,7 +59,7 @@ Akademia Bialska Nauk Stosowanych im. Jana Pawła II;
 5)
 Państwowa Uczelnia Zawodowa im. Ignacego Mościckiego w Ciechanowie;
 6)
-Państwowa Uczelnia im. Stefana Batorego;
+Państwowa Uczelnia im. Stefana BatoregoZ dniem 1 października 2022 r. – Akademia Nauk Stosowanych Stefana Batorego na podstawie § 1 pkt 3 lit. b rozporządzenia Ministra Edukacji i Nauki z dnia 14 stycznia 2022 r. w sprawie zmiany nazw niektórych publicznych uczelni zawodowych (Dz. U. poz. 136).;
 7)
 Akademia Wychowania Fizycznego we Wrocławiu;
 8)
@@ -78,13 +77,13 @@ Akademia Zamojska;
 14)
 Uniwersytet Wrocławski;
 15)
-Państwowa Wyższa Szkoła Zawodowa w Wałczu;
+Państwowa Wyższa Szkoła Zawodowa w WałczuZ dniem 1 maja 2022 r. – Akademia Nauk Stosowanych w Wałczu na podstawie § 1 pkt 1 lit. c rozporządzenia Ministra Edukacji i Nauki z dnia 17 marca 2022 r. w sprawie zmiany nazw niektórych publicznych uczelni zawodowych (Dz. U. poz. 638).;
 16)
 Uniwersytet Warszawski;
 17)
 Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie;
 18)
-Państwowa Wyższa Szkoła Zawodowa w Chełmie;
+Państwowa Wyższa Szkoła Zawodowa w ChełmieZ dniem 16 maja 2022 r. – Państwowa Akademia Nauk Stosowanych w Chełmie na podstawie § 1 pkt 2 rozporządzenia Ministra Edukacji i Nauki z dnia 17 marca 2022 r. w sprawie zmiany nazw niektórych publicznych uczelni zawodowych.;
 19)
 Uniwersytet Opolski;
 20)
@@ -192,6 +191,5 @@ Centrum Szkolenia Marynarki Wojennej w Ustce;
 7)
 Centrum Szkolenia Żandarmerii Wojskowej w Mińsku Mazowieckim;
 8)
-Centrum Szkolenia Logistyki w Grudziądzu.
-1) Z dniem 1 października 2022 r. – Akademia Nauk Stosowanych Stefana Batorego na podstawie § 1 pkt 3 lit. b rozporządzenia Ministra Edukacji i Nauki z dnia 14 stycznia 2022 r. w sprawie zmiany nazw niektórych publicznych uczelni zawodowych (Dz. U. poz. 136). 2) Z dniem 1 maja 2022 r. – Akademia Nauk Stosowanych w Wałczu na podstawie § 1 pkt 1 lit. c rozporządzenia Ministra Edukacji i Nauki z dnia 17 marca 2022 r. w sprawie zmiany nazw niektórych publicznych uczelni zawodowych (Dz. U. poz. 638). 3) Z dniem 16 maja 2022 r. – Państwowa Akademia Nauk Stosowanych w Chełmie na podstawie § 1 pkt 2 rozporządzenia Ministra Edukacji i Nauki z dnia 17 marca 2022 r. w sprawie zmiany nazw niektórych publicznych uczelni zawodowych.
+Centrum Szkolenia Logistyki w Grudziądzu. 1) Z dniem 1 października 2022 r. – Akademia Nauk Stosowanych Stefana Batorego na podstawie § 1 pkt 3 lit. b rozporządzenia Ministra Edukacji i Nauki z dnia 14 stycznia 2022 r. w sprawie zmiany nazw niektórych publicznych uczelni zawodowych (Dz. U. poz. 136). 2) Z dniem 1 maja 2022 r. – Akademia Nauk Stosowanych w Wałczu na podstawie § 1 pkt 1 lit. c rozporządzenia Ministra Edukacji i Nauki z dnia 17 marca 2022 r. w sprawie zmiany nazw niektórych publicznych uczelni zawodowych (Dz. U. poz. 638). 3) Z dniem 16 maja 2022 r. – Państwowa Akademia Nauk Stosowanych w Chełmie na podstawie § 1 pkt 2 rozporządzenia Ministra Edukacji i Nauki z dnia 17 marca 2022 r. w sprawie zmiany nazw niektórych publicznych uczelni zawodowych.
 

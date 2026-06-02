@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-03-30 |
 | Data wydania | 2012-05-18 |
-| Wejście w życie | 2012-05-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000549) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/549/text.pdf) |
 
@@ -36,7 +35,7 @@ source: "eli-html"
 
 2. W przypadku decyzji o zezwoleniu na realizację inwestycji drogowej wydanej dla drogi posiadającej co najmniej dwie jezdnie, przy czym każdą z nich przeznaczoną dla jednego kierunku ruchu, właściwy organ nadzoru budowlanego, na wniosek inwestora, wydaje decyzję o pozwoleniu na użytkowanie w odniesieniu do jezdni lub odcinka drogi, na których zakończono budowę.
 
-3. Właściwy organ nadzoru budowlanego może wydać decyzję o pozwoleniu na użytkowanie drogi, jezdni lub odcinka drogi, pomimo niespełniania wymagań ochrony środowiska, o których mowa w art. 76 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.), jeżeli stwierdzi, że zostały spełnione warunki określone w przepisach ustawy z dnia 7 lipca 1994 r. – Prawo budowlane. Przepisów art. 59 ust. 4 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane i art. 59e tej ustawy, w zakresie dotyczącym posiadania przez przeprowadzającego kontrolę statusu osoby zatrudnionej we właściwym organie nadzoru budowlanego, oraz art. 76 ust. 1, 3 i 4 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, nie stosuje się.
+3. Właściwy organ nadzoru budowlanego może wydać decyzję o pozwoleniu na użytkowanie drogi, jezdni lub odcinka drogi, pomimo niespełniania wymagań ochrony środowiska, o których mowa w art. 76 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657, z 2011 r. Nr 32, poz. 159, Nr 63, poz. 322, Nr 94, poz. 551, Nr 99, poz. 569, Nr 122, poz. 695, Nr 152, poz. 897, Nr 178, poz. 1060 i Nr 224, poz. 1341 oraz z 2012 r. poz. 460.), jeżeli stwierdzi, że zostały spełnione warunki określone w przepisach ustawy z dnia 7 lipca 1994 r. – Prawo budowlane. Przepisów art. 59 ust. 4 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane i art. 59e tej ustawy, w zakresie dotyczącym posiadania przez przeprowadzającego kontrolę statusu osoby zatrudnionej we właściwym organie nadzoru budowlanego, oraz art. 76 ust. 1, 3 i 4 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, nie stosuje się.
 
 4. W decyzji, o której mowa w ust. 3, właściwy organ nadzoru budowlanego określa termin wykonania pozostałej części robót wykończeniowych lub innych robót budowlanych i spełnienia wymagań ochrony środowiska, o których mowa w art. 76 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska. Termin ten nie może być dłuższy niż 9 miesięcy.
 
@@ -58,5 +57,5 @@ source: "eli-html"
 
 **Art. 4.** Decyzje o pozwoleniu na użytkowanie dróg, jezdni, odcinków drogi lub drogowych obiektów inżynierskich, o których mowa w art. 32 ust. 3 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, mogą być wydane do dnia 30 czerwca 2012 r.
 
-**Art. 5.** Ustawa wchodzi w życie w dniu następującym po dniu ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie w dniu następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657, z 2011 r. Nr 32, poz. 159, Nr 63, poz. 322, Nr 94, poz. 551, Nr 99, poz. 569, Nr 122, poz. 695, Nr 152, poz. 897, Nr 178, poz. 1060 i Nr 224, poz. 1341 oraz z 2012 r. poz. 460.
 

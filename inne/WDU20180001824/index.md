@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 17 września 2018 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w ramach programu „Kreatywna Europa” (2014–2020)
+# Rozporządzenie Ministra Finansówz dnia 17 września 2018 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w ramach programu „Kreatywna Europa” (2014–2020) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-17 |
 | Data wydania | 2018-09-26 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001824) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1824/text.pdf) |
 
@@ -35,7 +34,7 @@ Rozporządzenie określa szczegółowe warunki oraz tryb udzielania pomocy de mi
 Do pomocy de minimis udzielanej na podstawie niniejszego rozporządzenia nie stosuje się przepisów rozporządzenia Ministra Finansów z dnia 28 marca 2018 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów (Dz. U. poz. 707).
 § 2.
 1.
-Pomoc de minimis jest udzielana mikroprzedsiębiorcom, małym i średnim przedsiębiorcom działającym w sektorach kreatywnym i kultury, w formie udzielanej przez BGK gwarancji spłaty kredytu, zgodnie z przepisami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1), zwanego dalej „rozporządzeniem Komisji”, oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1295/2013 z dnia 11 grudnia 2013 r. ustanawiającego program „Kreatywna Europa” (2014–2020) i uchylającego decyzje nr 1718/2006/WE, nr 1855/2006/WE i nr 1041/2009/WE (Dz. Urz. UE L 347 z 20.12.2013, str. 221, z późn. zm.).
+Pomoc de minimis jest udzielana mikroprzedsiębiorcom, małym i średnim przedsiębiorcom działającym w sektorach kreatywnym i kultury, w formie udzielanej przez BGK gwarancji spłaty kredytu, zgodnie z przepisami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1), zwanego dalej „rozporządzeniem Komisji”, oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1295/2013 z dnia 11 grudnia 2013 r. ustanawiającego program „Kreatywna Europa” (2014–2020) i uchylającego decyzje nr 1718/2006/WE, nr 1855/2006/WE i nr 1041/2009/WE (Dz. Urz. UE L 347 z 20.12.2013, str. 221, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 189 z 27.06.2014, str. 260 oraz Dz. Urz. UE L 103 z 23.04.2018, str. 1..
 2.
 Pomoc de minimis nie może być udzielona w przypadkach wskazanych w art. 1 ust. 1 rozporządzenia Komisji.
 § 3.
@@ -68,6 +67,5 @@ Zabezpieczenie udzielonej gwarancji stanowi weksel własny in blanco wraz z dekl
 § 8.
 Pomoc de minimis jest udzielana do dnia 30 czerwca 2021 r.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 189 z 27.06.2014, str. 260 oraz Dz. Urz. UE L 103 z 23.04.2018, str. 1.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 189 z 27.06.2014, str. 260 oraz Dz. Urz. UE L 103 z 23.04.2018, str. 1.
 

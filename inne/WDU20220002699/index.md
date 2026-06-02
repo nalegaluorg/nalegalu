@@ -22,20 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-16 |
 | Data wydania | 2022-12-21 |
-| Wejście w życie | 2022-12-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002699) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2699/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 36 § 1 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2022 r. poz. 1247, 1259 i 2582) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 7 kwietnia 2016 r. – Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury (Dz. U. z 2017 r. poz. 1206, z późn. zm.) w dziale IV w rozdziale 5 po oddziale 3 dodaje się oddział 4 w brzmieniu:
-„
+W rozporządzeniu Ministra Sprawiedliwości z dnia 7 kwietnia 2016 r. – Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury (Dz. U. z 2017 r. poz. 1206, z późn. zm.Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2018 r. poz. 793 i 1470, z 2020 r. poz. 606 i 2090, z 2021 r. poz. 160, 976 i 1590 oraz z 2022 r. poz. 386, 1619 i 2606.) w dziale IV w rozdziale 5 po oddziale 3 dodaje się oddział 4 w brzmieniu: „
+Współpraca z Prokuraturą Europejską
 § 309a.
-Przepisy rozdziałów 1, 2 i 5 niniejszego działu stosuje się odpowiednio do współpracy z Prokuraturą Europejską.
-” .
+Przepisy rozdziałów 1, 2 i 5 niniejszego działu stosuje się odpowiednio do współpracy z Prokuraturą Europejską. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 27 grudnia 2022 r.
+Rozporządzenie wchodzi w życie z dniem 27 grudnia 2022 r. 1) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2018 r. poz. 793 i 1470, z 2020 r. poz. 606 i 2090, z 2021 r. poz. 160, 976 i 1590 oraz z 2022 r. poz. 386, 1619 i 2606.
 
-##### Oddział 4 Współpraca z Prokuraturą Europejską
+##### Oddział 4
 

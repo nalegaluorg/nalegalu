@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 12 maja 2022 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw
+# Ustawa z dnia 12 maja 2022 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 września 2017 r. o przedsiębiorstwie państwowym „Porty Lotnicze” oraz ustawę z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-12 |
 | Data wydania | 2022-07-01 |
-| Wejście w życie | 2022-07-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001390) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1390/text.pdf) |
 

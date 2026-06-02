@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 lipca 2022 r. o zmianie niektórych ustaw w celu przeciwdziałania przestępczości środowiskowej
+# Ustawa z dnia 22 lipca 2022 r. o zmianie niektórych ustaw w celu przeciwdziałania przestępczości środowiskowej Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody, ustawę z dnia 14 grudnia 2012 r. o odpadach oraz ustawę z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-22 |
 | Data wydania | 2022-08-17 |
-| Wejście w życie | 2022-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001726) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1726/text.pdf) |
 
@@ -100,7 +99,7 @@ source: "eli-html"
 - **1)** w art. 47: § 2 otrzymuje brzmienie: „
     - **a)**
 
-§ 2. W razie skazania sprawcy za umyślne przestępstwo przeciwko środowisku sąd orzeka, a w wypadku skazania sprawcy za nieumyślne przestępstwo przeciwko środowisku sąd może orzec, nawiązkę w wysokości od 10 000 do 10 000 000 złotych na rzecz Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, o którym mowa w art. 400 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm.). ” , § 4 otrzymuje brzmienie: „
+§ 2. W razie skazania sprawcy za umyślne przestępstwo przeciwko środowisku sąd orzeka, a w wypadku skazania sprawcy za nieumyślne przestępstwo przeciwko środowisku sąd może orzec, nawiązkę w wysokości od 10 000 do 10 000 000 złotych na rzecz Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, o którym mowa w art. 400 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2127 i 2269 oraz z 2022 r. poz. 1079, 1260, 1504 i 1576.). ” , § 4 otrzymuje brzmienie: „
 
 - **b)**
 
@@ -211,5 +210,5 @@ source: "eli-html"
 
 2. Do umów koncesji na roboty budowlane lub usługi zawartych w następstwie postępowań o zawarcie umowy koncesji na roboty budowlane lub usługi wszczętych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 12.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 12.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody, ustawę z dnia 14 grudnia 2012 r. o odpadach oraz ustawę z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2127 i 2269 oraz z 2022 r. poz. 1079, 1260, 1504 i 1576.
 

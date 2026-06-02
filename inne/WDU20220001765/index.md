@@ -31,12 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 24 września 2004 r. w sprawie wyposażenia lokalu przeznaczonego do wykonywania działalności kantorowej oraz sposobu prowadzenia ewidencji i wydawania dowodów kupna i sprzedaży wartości dewizowych (Dz. U. poz. 2220), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 2 sierpnia 2021 r. zmieniającym rozporządzenie w sprawie wyposażenia lokalu przeznaczonego do wykonywania działalności kantorowej oraz sposobu prowadzenia ewidencji i wydawania dowodów kupna i sprzedaży wartości dewizowych (Dz. U. poz. 1507).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 2 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie wyposażenia lokalu przeznaczonego do wykonywania działalności kantorowej oraz sposobu prowadzenia ewidencji i wydawania dowodów kupna i sprzedaży wartości dewizowych (Dz. U. poz. 1507), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 2 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie wyposażenia lokalu przeznaczonego do wykonywania działalności kantorowej oraz sposobu prowadzenia ewidencji i wydawania dowodów kupna i sprzedaży wartości dewizowych (Dz. U. poz. 1507), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Tekst jednolity rozporządzenia Ministra Finansów z dnia 24 września 2004 r. w sprawie wyposażenia lokalu przeznaczonego do wykonywania działalności kantorowej oraz sposobu prowadzenia ewidencji i wydawania dowodów kupna i sprzedaży wartości dewizowych
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Finansów z dnia 24 września 2004 r. w sprawie wyposażenia lokalu przeznaczonego do wykonywania działalności kantorowej oraz sposobu prowadzenia ewidencji i wydawania dowodów kupna i sprzedaży wartości dewizowychMinister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 Na podstawie art. 17d ustawy z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. z 2022 r. poz. 309) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -58,7 +56,7 @@ wykaz skupowanych i sprzedawanych wartości dewizowych oraz aktualne ceny (kursy
 b)
 informację o wydawaniu dowodów kupna i sprzedaży wartości dewizowych, na okaziciela lub imiennych,
 c)
-(uchylona);
+(uchylona);Przez § 1 pkt 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 2 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie wyposażenia lokalu przeznaczonego do wykonywania działalności kantorowej oraz sposobu prowadzenia ewidencji i wydawania dowodów kupna i sprzedaży wartości dewizowych (Dz. U. poz. 1507), które weszło w życie z dniem 2 września 2021 r.
 3)
 rejestry kupowanych i sprzedawanych wartości dewizowych;
 4)
@@ -66,7 +64,7 @@ formularze druków wystawianych na dowód kupna i sprzedaży wartości dewizowyc
 5)
 pieczątkę z nazwą i adresem kantoru oraz pieczątki imienne kasjerów;
 6)
-(uchylony).
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
 3.
 W kantorze należy zapewnić ekspozycję bieżących komunikatów Narodowego Banku Polskiego zawierających informacje o walutach będących przedmiotem obrotu.
 § 3.
@@ -134,6 +132,5 @@ Przepisów § 4 nie stosuje się, jeżeli w związku z transakcjami kupna i sprz
 § 6.
 Traci moc rozporządzenie Ministra Finansów z dnia 3 września 2002 r. w sprawie warunków technicznych i organizacyjnych prowadzenia działalności kantorowej, szczegółowego sposobu prowadzenia ewidencji i wydawania dowodów kupna i sprzedaży wartości dewizowych oraz wzoru wniosku o udzielenie zezwolenia na prowadzenie działalności kantorowej (Dz. U. poz. 1274).
 § 7.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Przez § 1 pkt 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 2 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie wyposażenia lokalu przeznaczonego do wykonywania działalności kantorowej oraz sposobu prowadzenia ewidencji i wydawania dowodów kupna i sprzedaży wartości dewizowych (Dz. U. poz. 1507), które weszło w życie z dniem 2 września 2021 r. 3) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Rozporządzenie zostało ogłoszone w dniu 8 października 2004 r.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 8 października 2004 r.. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Przez § 1 pkt 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 2 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie wyposażenia lokalu przeznaczonego do wykonywania działalności kantorowej oraz sposobu prowadzenia ewidencji i wydawania dowodów kupna i sprzedaży wartości dewizowych (Dz. U. poz. 1507), które weszło w życie z dniem 2 września 2021 r. 3) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Rozporządzenie zostało ogłoszone w dniu 8 października 2004 r.
 

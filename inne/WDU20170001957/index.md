@@ -32,11 +32,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 13 maja 2014 r. w sprawie wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego (Dz. U. poz. 649), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 3 października 2016 r. zmieniającym rozporządzenie w sprawie wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego (Dz. U. poz. 1622).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 3 października 2016 r. zmieniającego rozporządzenie w sprawie wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego (Dz. U. poz. 1622), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 3 października 2016 r. zmieniającego rozporządzenie w sprawie wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego (Dz. U. poz. 1622), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 13 maja 2014 r. w sprawie wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego
 Na podstawie art. 1 ust. 7 ustawy z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego (Dz. U. z 2014 r. poz. 125) zarządza się, co następuje:
 § 1.
@@ -52,10 +50,10 @@ wysokość opłat za zamieszczenie w Monitorze Sądowym i Gospodarczym ogłoszen
 § 2.
 1.
 Monitor Sądowy i Gospodarczy, zwany dalej „Monitorem”, jest wydawany w formacie Portable Document Format (PDF) w sposób umożliwiający przeszukiwanie i wydruk dokumentu.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 3 października 2016 r. zmieniającego rozporządzenie w sprawie wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego (Dz. U. poz. 1622), które weszło w życie z dniem 7 października 2016 r..
 Autentyczność i integralność Monitora jest zagwarantowana kwalifikowanym podpisem elektronicznym osoby upoważnionej.
 § 3.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Przy rozpowszechnianiu Monitora za pomocą informatycznych nośników danych oraz środków komunikacji elektronicznej numery Monitora udostępnia się w postaci dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym osoby upoważnionej.
 2.
 Minister Sprawiedliwości ustala cenę numerów Monitora rozpowszechnianego za pomocą informatycznych nośników danych oraz środków komunikacji elektronicznej. Cena zapewnia pokrycie kosztów związanych z udostępnianiem numerów Monitora w ten sposób.
@@ -66,13 +64,13 @@ Cenę numeru Monitora, a w przypadku prenumeraty ‒ cenę prenumeraty, pobiera 
 § 4.
 Centralna Informacja Krajowego Rejestru Sądowego, bezpośrednio po dokonaniu wpisów do Krajowego Rejestru Sądowego, podlegających obowiązkowi ogłoszenia w Monitorze, podejmuje działania w celu ich ogłoszenia.
 § 5.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 1..
 Ogłoszenia i obwieszczenia, inne niż wymienione w § 4, przeznaczone do zamieszczenia w Monitorze są przyjmowane oraz przekazywane do Ministerstwa Sprawiedliwości za pośrednictwem punktów przyjmowania ogłoszeń w sądach, których wykaz określa załącznik do rozporządzenia, lub do sekretariatów sądowych wydziałów, w których jest prowadzona sprawa, jeżeli sąd postanowił o opublikowaniu ogłoszenia, lub są przekazywane za pośrednictwem systemu teleinformatycznego przez osobę, której tożsamość została potwierdzona danymi zweryfikowanymi za pomocą kwalifikowanego certyfikatu podpisu elektronicznego i której został przydzielony unikalny adres internetowy (konto użytkownika) powiązany z niepowtarzalną nazwą i hasłem (zarejestrowany użytkownik).
 2.
 Zarejestrowanym użytkownikiem jest osoba uprawniona do występowania w imieniu wnioskodawcy.
 3.
 Adres systemu teleinformatycznego jest dostępny na stronie podmiotowej Biuletynu Informacji Publicznej Ministerstwa Sprawiedliwości.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Ogłoszenia lub obwieszczenia, o których mowa w ust. 1, przekazywane do zamieszczenia w Monitorze za pośrednictwem systemu teleinformatycznego składa się w jednym z formatów wskazanych w przepisach o minimalnych wymaganiach dla systemów teleinformatycznych i opatruje kwalifikowanym podpisem elektronicznym osoby upoważnionej.
 5.
 System teleinformatyczny potwierdza złożenie ogłoszenia lub obwieszczenia pod adresem, o którym mowa w ust. 3.
@@ -91,7 +89,7 @@ Opłaty, o których mowa w § 6 ust. 2 i 3, pobiera się z góry na rachunek bie
 § 8.
 W sprawach niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia do opłat za ogłoszenie wpisu do Krajowego Rejestru Sądowego stosuje się przepisy dotychczasowe.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 30 maja 2014 r.
+Rozporządzenie wchodzi w życie z dniem 30 maja 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 15 kwietnia 1996 r. w sprawie organizacji, sposobu wydawania i rozpowszechniania oraz podstawy ustalania ceny numerów Monitora Sądowego i Gospodarczego i wysokości opłat za zamieszczenie w nim ogłoszenia lub obwieszczenia (Dz. U. z 2013 r. poz. 238), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 3 ustawy z dnia 27 września 2013 r. o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz ustawy o europejskim ugrupowaniu współpracy terytorialnej (Dz. U. poz. 1323). 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 3 października 2016 r. zmieniającego rozporządzenie w sprawie wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego (Dz. U. poz. 1622), które weszło w życie z dniem 7 października 2016 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 1. 4) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 1. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 15 kwietnia 1996 r. w sprawie organizacji, sposobu wydawania i rozpowszechniania oraz podstawy ustalania ceny numerów Monitora Sądowego i Gospodarczego i wysokości opłat za zamieszczenie w nim ogłoszenia lub obwieszczenia (Dz. U. z 2013 r. poz. 238), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 3 ustawy z dnia 27 września 2013 r. o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz ustawy o europejskim ugrupowaniu współpracy terytorialnej (Dz. U. poz. 1323).
 Załącznik – Wykaz sądów rejonowych, w których ustanowiono punkty przyjmowania ogłoszeń i obwieszczeń przeznaczonych do zamieszczenia w Monitorze Sądowym i Gospodarczym
 1.
 Sąd Rejonowy w Białej Podlaskiej,

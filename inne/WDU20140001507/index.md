@@ -37,24 +37,20 @@ rozporządzeniem Ministra Obrony Narodowej z dnia 3 grudnia 2013 r. zmieniający
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 26 sierpnia 2008 r. zmieniającego rozporządzenie w sprawie dodatkowego umundurowania, uzbrojenia i wyposażenia żołnierzy Żandarmerii Wojskowej (Dz. U. Nr 162, poz. 1006), który stanowi:
-„
+§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 26 sierpnia 2008 r. zmieniającego rozporządzenie w sprawie dodatkowego umundurowania, uzbrojenia i wyposażenia żołnierzy Żandarmerii Wojskowej (Dz. U. Nr 162, poz. 1006), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 3 grudnia 2013 r. zmieniającego rozporządzenie w sprawie dodatkowego umundurowania, uzbrojenia i wyposażenia żołnierzy Żandarmerii Wojskowej (Dz. U. poz. 1546), który stanowi:
-„
+§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 3 grudnia 2013 r. zmieniającego rozporządzenie w sprawie dodatkowego umundurowania, uzbrojenia i wyposażenia żołnierzy Żandarmerii Wojskowej (Dz. U. poz. 1546), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 14 grudnia 2001 r. w sprawie dodatkowego umundurowania, uzbrojenia i wyposażenia żołnierzy Żandarmerii Wojskowej
 Na podstawie art. 9 ust. 3 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2013 r. poz. 568 i 628 oraz z 2014 r. poz. 1055) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa dodatkowe umundurowanie, uzbrojenie i wyposażenie żołnierzy Żandarmerii Wojskowej niezbędne do wykonywania zadań służbowych.
 § 2.
 Żołnierze Żandarmerii Wojskowej otrzymują dodatkowe:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 3 grudnia 2013 r. zmieniającego rozporządzenie w sprawie dodatkowego umundurowania, uzbrojenia i wyposażenia żołnierzy Żandarmerii Wojskowej (Dz. U. poz. 1546), które weszło w życie z dniem 28 grudnia 2013 r.)
 przedmioty umundurowania:
 a)
 pasy białe,
@@ -72,7 +68,7 @@ d)
 koszule,
 e)
 obuwie;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.)
 wyposażenie specjalistyczne:
 a)
 pałki służbowe,
@@ -117,5 +113,5 @@ Wzory umundurowania oraz typy i normy wyposażenia specjalistycznego i uzbrojeni
 § 4.
 Dodatkowe uzbrojenie i wyposażenie żołnierzy Żandarmerii Wojskowej wyznaczonych do pełnienia służby prewencyjnej ustala komendant jednostki organizacyjnej Żandarmerii Wojskowej.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2002 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2002 r. 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 3 grudnia 2013 r. zmieniającego rozporządzenie w sprawie dodatkowego umundurowania, uzbrojenia i wyposażenia żołnierzy Żandarmerii Wojskowej (Dz. U. poz. 1546), które weszło w życie z dniem 28 grudnia 2013 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
 

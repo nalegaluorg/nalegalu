@@ -26,13 +26,36 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000536) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/536/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 1 kwietnia 2011 r. Prawo probiercze Rozdział 1 – Przepisy ogólne Rozdział 2 – Zasady i warunki wprowadzania do obrotu wyrobów z metali szlachetnych oraz obrotu nimi na terytorium Rzeczypospolitej Polskiej Rozdział 3 – Zasady i tryb przeprowadzania badań i oznaczania wyrobów z metali szlachetnych oraz wyrobów zawierających metale szlachetne Rozdział 4 – Próby dla wyrobów z metali szlachetnych Rozdział 5 – Organy administracji probierczej Rozdział 6 – Nadzór nad wykonywaniem przepisów ustawy Rozdział 7 – Przepisy karne Rozdział 8 – Zmiany w przepisach obowiązujących, przepisy dostosowujące, przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 1 kwietnia 2011 r. Prawo probiercze
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 1 kwietnia 2011 r. – Prawo probiercze (Dz. U. z 2022 r. poz. 1800), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 lutego 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 66 i art. 81 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 66 i art. 81 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), które stanowią: „
+Przepisy ogólne
+Zasady i warunki wprowadzania do obrotu wyrobów z metali szlachetnych oraz obrotu nimi na terytorium Rzeczypospolitej Polskiej
+Zasady i tryb przeprowadzania badań i oznaczania wyrobów z metali szlachetnych oraz wyrobów zawierających metale szlachetne
+Próby dla wyrobów z metali szlachetnych
+Organy administracji probierczej
+Nadzór nad wykonywaniem przepisów ustawy
+Przepisy karne
+Zmiany w przepisach obowiązujących, przepisy dostosowujące, przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Zasady i warunki wprowadzania do obrotu wyrobów z metali szlachetnych oraz obrotu nimi na terytorium Rzeczypospolitej Polskiej
+
+#### Rozdział 3 – Zasady i tryb przeprowadzania badań i oznaczania wyrobów z metali szlachetnych oraz wyrobów zawierających metale szlachetne
+
+#### Rozdział 4 – Próby dla wyrobów z metali szlachetnych
+
+#### Rozdział 5 – Organy administracji probierczej
+
+#### Rozdział 6 – Nadzór nad wykonywaniem przepisów ustawy
+
+#### Rozdział 7 – Przepisy karne
+
+#### Rozdział 8 – Zmiany w przepisach obowiązujących, przepisy dostosowujące, przejściowe i końcowe
 
 **Art. 66.** Do postępowań w sprawie wydania decyzji, o której mowa w art. 19 ust. 8 ustawy zmienianej w art. 31, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe. ” „
 
@@ -43,9 +66,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **3)** art. 47 i art. 79 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 - **4)** art. 8 pkt 2, art. 21, art. 22 pkt 1−9, art. 28 i art. 38 pkt 6, pkt 9 lit. b i pkt 10, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
 - **5)** art. 5, który wchodzi w życie z dniem 1 stycznia 2023 r.;
-- **6)** art. 22 pkt 10–12 oraz art. 62 ust. 2, które wchodzą w życie z dniem 1 stycznia 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 1 kwietnia 2011 r. Prawo probiercze
+- **6)** art. 22 pkt 10–12 oraz art. 62 ust. 2, które wchodzą w życie z dniem 1 stycznia 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 1 kwietnia 2011 r. Prawo probierczeUstawa została notyfikowana Komisji Europejskiej w dniu 14 lipca 2010 r., pod numerem 2010/0496/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37; Dz. Urz. Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa:
 
@@ -58,7 +81,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 **Art. 2.** Metalami szlachetnymi w rozumieniu ustawy są:
 
 - **1)** platyna, pallad, złoto i srebro,
-- **2)** metale z grupy platynowców: iryd, osm, rod i ruten w stanie czystym albo w stopach z innymi metalami.
+- **2)** metale z grupy platynowców: iryd, osm, rod i ruten – w stanie czystym albo w stopach z innymi metalami.
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
 
@@ -75,7 +98,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **7)** próba – stosunek masy czystego metalu szlachetnego zawartego w stopie do masy stopu wyrażony w częściach tysięcznych;
 - **8)** znak imienny – indywidualny znak pozwalający na identyfikację wytwórcy wyrobu z metalu szlachetnego lub podmiotu wprowadzającego do obrotu wyrób z metalu szlachetnego wytworzony poza terytorium Rzeczypospolitej Polskiej.
 
-#### Rozdział 2 Zasady i warunki wprowadzania do obrotu wyrobów z metali szlachetnych oraz obrotu nimi na terytorium Rzeczypospolitej Polskiej
+#### Rozdział 2
 
 **Art. 4.** Wyroby z metali szlachetnych mogą być, z zastrzeżeniem art. 6, wprowadzane do obrotu i być przedmiotem obrotu na terytorium Rzeczypospolitej Polskiej, jeżeli spełniają co najmniej 1 z następujących warunków:
 
@@ -103,7 +126,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 - **2)** wyrobów dawnego pochodzenia;
 - **3)** narzędzi i aparatów lub ich części, służących do celów naukowych i przemysłowych;
-- **4)** wyrobów medycznych i wyposażenia wyrobów medycznych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), a także produktów wymienionych w załączniku XVI do tego rozporządzenia, oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.);
+- **4)** wyrobów medycznych i wyposażenia wyrobów medycznych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 9, Dz. Urz. UE L 334 z 27.12.2019, str. 165, Dz. Urz. UE L 130 z 24.04.2020, str. 18 i Dz. Urz. UE L 241 z 08.07.2021, str. 7., a także produktów wymienionych w załączniku XVI do tego rozporządzenia, oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 11, Dz. Urz. UE L 334 z 27.12.2019, str. 167 i Dz. Urz. UE L 233 z 01.07.2021, str. 9.;
 - **5)** odznaczeń i orderów w rozumieniu przepisów ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2022 r. poz. 1031) oraz odznak honorowych ustanowionych na podstawie przepisów ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2023 r. poz. 76) przez organy władzy publicznej;
 - **6)** inkrustacji;
 - **7)** monet, które są albo były znakami pieniężnymi stanowiącymi prawny środek płatniczy na terytorium Rzeczypospolitej Polskiej albo w innych państwach, oraz monet przeznaczonych na cele kolekcjonerskie oraz inne, których sprzedaż prowadzi Narodowy Bank Polski, chociażby stanowiły części składowe wyrobów z metali szlachetnych;
@@ -125,7 +148,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 8.** Podmiot dokonujący obrotu wyrobami z metali szlachetnych jest obowiązany umieścić w miejscu widocznym dla klientów graficzne wizerunki cech probierczych umieszczonych na oferowanych wyrobach z metali szlachetnych.
 
-#### Rozdział 3 Zasady i tryb przeprowadzania badań i oznaczania wyrobów z metali szlachetnych oraz wyrobów zawierających metale szlachetne
+#### Rozdział 3
 
 **Art. 9.**
 
@@ -216,7 +239,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 1. Wprowadzane do obrotu:
 
 - **1)** nowo wytworzone na terytorium Rzeczypospolitej Polskiej wyroby z metali szlachetnych oraz
-- **2)** wyroby z metali szlachetnych, o których mowa w art. 6 ust. 1 pkt 1, wytworzone poza terytorium Rzeczypospolitej Polskiej oznacza się znakiem imiennym.
+- **2)** wyroby z metali szlachetnych, o których mowa w art. 6 ust. 1 pkt 1, wytworzone poza terytorium Rzeczypospolitej Polskiej – oznacza się znakiem imiennym.
 
 2. Do oznaczania znakiem imiennym wyrobów, o których mowa w ust. 1, jest obowiązany:
 
@@ -247,11 +270,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 7. Dyrektor odmawia wpisu znaku imiennego do rejestru znaków imiennych, jeżeli projekt graficzny znaku imiennego nie spełnia warunków określonych w ust. 6.
 
-8. Wpis znaku imiennego do rejestru znaków imiennych oraz odmowa wpisu następują w drodze decyzji administracyjnej wydanej przez dyrektora. Uzasadnienie decyzji o odmowie wpisu znaku imiennego do rejestru znaków imiennych powinno zawierać wskazanie przyczyny odmowy.
-
-8a. Do postępowania w sprawie wydania decyzji, o której mowa w ust. 8, stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185).
-
-8b. Do postępowania w sprawie wydania decyzji, o której mowa w ust. 8, nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+8. Wpis znaku imiennego do rejestru znaków imiennych oraz odmowa wpisu następują w drodze decyzji administracyjnej wydanej przez dyrektora. Uzasadnienie decyzji o odmowie wpisu znaku imiennego do rejestru znaków imiennych powinno zawierać wskazanie przyczyny odmowy. 8aDodany przez art. 31 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), która weszła w życie z dniem 10 listopada 2022 r.. Do postępowania w sprawie wydania decyzji, o której mowa w ust. 8, stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185). 8bDodany przez art. 31 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), która weszła w życie z dniem 10 listopada 2022 r.. Do postępowania w sprawie wydania decyzji, o której mowa w ust. 8, nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 9. Podmiot, o którym mowa w ust. 4 pkt 1, jest obowiązany do zawiadamiania dyrektora o zmianach danych objętych wpisem do rejestru znaków imiennych, w terminie miesiąca od powstania tych zmian.
 
@@ -280,7 +299,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 22.** Minister właściwy do spraw gospodarki określa, w drodze rozporządzenia, wzór formularza wniosku zgłoszenia znaku imiennego do rejestru znaków imiennych, mając na względzie zakres danych wymienionych w art. 19 ust. 4.
 
-#### Rozdział 4 Próby dla wyrobów z metali szlachetnych
+#### Rozdział 4
 
 **Art. 23.** Zawartość metalu szlachetnego w wyrobie określa się próbą. Wyrób odpowiada danej próbie, jeżeli zawartość metalu szlachetnego nie jest mniejsza od przewidzianej dla danej próby.
 
@@ -337,7 +356,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 6. Lutowie nie może być stosowane do wzmacniania, obciążania, wypełniania lub dekoracji wyrobów.
 
-#### Rozdział 5 Organy administracji probierczej
+#### Rozdział 5
 
 **Art. 27.**
 
@@ -370,7 +389,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Dyrektorzy wykonują swoje zadania przy pomocy kierowanych przez nich okręgowych urzędów probierczych.
 
-3. Okręgowe urzędy probiercze są jednostkami budżetowymi w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm.).
+3. Okręgowe urzędy probiercze są jednostkami budżetowymi w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414.).
 
 **Art. 31.**
 
@@ -476,7 +495,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 8. Minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii Prezesa Głównego Urzędu Miar, określa, w drodze rozporządzenia, wysokość opłat i tryb ich pobierania, uwzględniając w szczególności rodzaje wyrobów oraz rodzaje metali szlachetnych, z których je wykonano, a także koszty wykonywanych czynności.
 
-#### Rozdział 6 Nadzór nad wykonywaniem przepisów ustawy
+#### Rozdział 6
 
 **Art. 37.**
 
@@ -555,7 +574,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 44.** W zakresie nieuregulowanym w niniejszej ustawie do kontroli działalności gospodarczej przedsiębiorców stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221).
 
-#### Rozdział 7 Przepisy karne
+#### Rozdział 7
 
 **Art. 45.** Kto wbrew przepisom art. 4 wprowadza do obrotu wyroby z metali szlachetnych lub dokonuje obrotu nimi, podlega karze grzywny.
 
@@ -563,13 +582,13 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 - **1)** uniemożliwianie lub utrudnianie wstępu na teren nieruchomości lub do pomieszczeń,
 - **2)** odmowę udostępnienia dokumentów lub innych dowodów, o których mowa w art. 41,
-- **3)** uniemożliwianie gromadzenia i zabezpieczania dowodów naruszenia przepisów ustawy podlega karze grzywny.
+- **3)** uniemożliwianie gromadzenia i zabezpieczania dowodów naruszenia przepisów ustawy – podlega karze grzywny.
 
 **Art. 47.** Kto nie dopełnia obowiązków określonych w art. 6 ust. 2 i 3, art. 8, art. 18 ust. 2 lub art. 19 ust. 1 i 5, podlega karze grzywny.
 
 **Art. 48.** Orzekanie w sprawach o czyny wymienione w art. 45–47 następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
-#### Rozdział 8 Zmiany w przepisach obowiązujących, przepisy dostosowujące, przejściowe i końcowe
+#### Rozdział 8
 
 **Art. 49.** (pominięty)
 
@@ -596,7 +615,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Z dniem wejścia w życie niniejszej ustawy pracownicy zatrudnieni w obwodowych urzędach probierczych stają się pracownikami właściwych miejscowo okręgowych urzędów probierczych.
 
-3. Właściwi dyrektorzy są obowiązani zawiadomić na piśmie pracowników, o których mowa w ust. 1 i 2, o zmianach, jakie mają nastąpić w zakresie ich stosunku pracy. Przepis art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. poz. 94, z późn. zm.) stosuje się odpowiednio.
+3. Właściwi dyrektorzy są obowiązani zawiadomić na piśmie pracowników, o których mowa w ust. 1 i 2, o zmianach, jakie mają nastąpić w zakresie ich stosunku pracy. Przepis art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 668 i 717, z 1999 r. poz. 1152, z 2000 r. poz. 239, 489, 1127 i 1268, z 2001 r. poz. 84, 301, 538, 1075, 1194, 1354, 1405 i 1805, z 2002 r. poz. 676, 1146, 1660, 1673 i 1679, z 2003 r. poz. 1608 i 2081, z 2004 r. poz. 959, 1001, 1252 i 2407, z 2005 r. poz. 71, 610, 732 i 1398, z 2006 r. poz. 708, 711, 935, 1587 i 1615, z 2007 r. poz. 426, 589, 1239, 1288 i 1672, z 2008 r. poz. 586, 740, 1460 i 1654, z 2009 r. poz. 33, 458, 485, 817, 825, 958, 1241 i 1704, z 2010 r. poz. 655, 912, 1228, 1459, 1655 i 1700 oraz z 2011 r. poz. 181, 322 i 432.) stosuje się odpowiednio.
 
 4. Przepisów ust. 2 i ust. 3 zdanie drugie nie stosuje się do urzędników służby cywilnej, do których stosuje się przepisy ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. poz. 1505, z 2009 r. poz. 1241 i 1706 oraz z 2011 r. poz. 451).
 
@@ -606,10 +625,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 56.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 1a, art. 5 oraz art. 16 ust. 2 ustawy wymienionej w art. 57 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 17, art. 33 ust. 1 oraz art. 36 ust. 8 niniejszej ustawy, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 57.** Traci moc ustawa z dnia 3 kwietnia 1993 r. – Prawo probiercze (Dz. U. poz. 249, z późn. zm.).
+**Art. 57.** Traci moc ustawa z dnia 3 kwietnia 1993 r. – Prawo probiercze (Dz. U. poz. 249, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. poz. 1268, z 2001 r. poz. 636, 1382 i 1800, z 2003 r. poz. 1664 oraz z 2010 r. poz. 679.).
 
-**Art. 58.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem przepisów art. 24 ust. 1 pkt 1 lit. a i c, pkt 2 lit. a, pkt 3 lit. a i pkt 4 lit. a, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia.
-
-- **1)** Ustawa została notyfikowana Komisji Europejskiej w dniu 14 lipca 2010 r., pod numerem 2010/0496/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37; Dz. Urz. Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 9, Dz. Urz. UE L 334 z 27.12.2019, str. 165, Dz. Urz. UE L 130 z 24.04.2020, str. 18 i Dz. Urz. UE L 241 z 08.07.2021, str. 7. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 11, Dz. Urz. UE L 334 z 27.12.2019, str. 167 i Dz. Urz. UE L 233 z 01.07.2021, str. 9. 4) Dodany przez art. 31 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), która weszła w życie z dniem 10 listopada 2022 r. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 668 i 717, z 1999 r. poz. 1152, z 2000 r. poz. 239, 489, 1127 i 1268, z 2001 r. poz. 84, 301, 538, 1075, 1194, 1354, 1405 i 1805, z 2002 r. poz. 676, 1146, 1660, 1673 i 1679, z 2003 r. poz. 1608 i 2081, z 2004 r. poz. 959, 1001, 1252 i 2407, z 2005 r. poz. 71, 610, 732 i 1398, z 2006 r. poz. 708, 711, 935, 1587 i 1615, z 2007 r. poz. 426, 589, 1239, 1288 i 1672, z 2008 r. poz. 586, 740, 1460 i 1654, z 2009 r. poz. 33, 458, 485, 817, 825, 958, 1241 i 1704, z 2010 r. poz. 655, 912, 1228, 1459, 1655 i 1700 oraz z 2011 r. poz. 181, 322 i 432. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. poz. 1268, z 2001 r. poz. 636, 1382 i 1800, z 2003 r. poz. 1664 oraz z 2010 r. poz. 679. 8) Ustawa została ogłoszona w dniu 6 maja 2011 r.
-
+**Art. 58.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszeniaUstawa została ogłoszona w dniu 6 maja 2011 r., z wyjątkiem przepisów art. 24 ust. 1 pkt 1 lit. a i c, pkt 2 lit. a, pkt 3 lit. a i pkt 4 lit. a, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia. 1) Ustawa została notyfikowana Komisji Europejskiej w dniu 14 lipca 2010 r., pod numerem 2010/0496/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37; Dz. Urz. Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 9, Dz. Urz. UE L 334 z 27.12.2019, str. 165, Dz. Urz. UE L 130 z 24.04.2020, str. 18 i Dz. Urz. UE L 241 z 08.07.2021, str. 7. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 11, Dz. Urz. UE L 334 z 27.12.2019, str. 167 i Dz. Urz. UE L 233 z 01.07.2021, str. 9. 4) Dodany przez art. 31 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), która weszła w życie z dniem 10 listopada 2022 r. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 668 i 717, z 1999 r. poz. 1152, z 2000 r. poz. 239, 489, 1127 i 1268, z 2001 r. poz. 84, 301, 538, 1075, 1194, 1354, 1405 i 1805, z 2002 r. poz. 676, 1146, 1660, 1673 i 1679, z 2003 r. poz. 1608 i 2081, z 2004 r. poz. 959, 1001, 1252 i 2407, z 2005 r. poz. 71, 610, 732 i 1398, z 2006 r. poz. 708, 711, 935, 1587 i 1615, z 2007 r. poz. 426, 589, 1239, 1288 i 1672, z 2008 r. poz. 586, 740, 1460 i 1654, z 2009 r. poz. 33, 458, 485, 817, 825, 958, 1241 i 1704, z 2010 r. poz. 655, 912, 1228, 1459, 1655 i 1700 oraz z 2011 r. poz. 181, 322 i 432. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. poz. 1268, z 2001 r. poz. 636, 1382 i 1800, z 2003 r. poz. 1664 oraz z 2010 r. poz. 679. 8) Ustawa została ogłoszona w dniu 6 maja 2011 r.
 

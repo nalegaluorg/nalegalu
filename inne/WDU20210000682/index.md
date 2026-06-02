@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju, Pracy i Technologiiz dnia 2 kwietnia 2021 r. zmieniające rozporządzenie w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w państwowych jednostkach budżetowych resortu spraw wewnętrznych i administracji
+# Rozporządzenie Ministra Rozwoju, Pracy i Technologiiz dnia 2 kwietnia 2021 r. zmieniające rozporządzenie w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w państwowych jednostkach budżetowych resortu spraw wewnętrznych i administracji Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-02 |
 | Data wydania | 2021-04-13 |
-| Wejście w życie | 2021-04-28 |
 | Ostatnia zmiana | 2025-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000682) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/682/text.pdf) |
 
@@ -33,20 +32,17 @@ W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 30 kwietnia 2008 
 1)
 uchyla się § 6;
 2)
-w załączniku nr 1 do rozporządzenia tytuł tabeli 1 otrzymuje brzmienie:
-„
-Tabela 1. Tabela miesięcznych stawek wynagrodzenia zasadniczego dla pracowników zatrudnionych w Centrum Personalizacji Dokumentów Ministerstwa Spraw Wewnętrznych i Administracji oraz Zarządzie Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji ”;
+w załączniku nr 1 do rozporządzenia tytuł tabeli 1 otrzymuje brzmienie: „
+Tabela 1.
+Tabela miesięcznych stawek wynagrodzenia zasadniczego dla pracowników zatrudnionych w Centrum Personalizacji Dokumentów Ministerstwa Spraw Wewnętrznych i Administracji oraz Zarządzie Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji ”;
 3)
 w załączniku nr 2 do rozporządzenia:
 a)
 uchyla się tabelę II,
 b)
-tytuł tabeli VI otrzymuje brzmienie:
-„
+tytuł tabeli VI otrzymuje brzmienie: „
 VI.
-Pracowników innych niż wymienieni w tabeli I
-” .
+Pracowników innych niż wymienieni w tabeli I ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-04-17 |
 | Data wydania | 2015-05-05 |
-| Wejście w życie | 2015-05-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000606) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/606/text.pdf) |
 
@@ -59,5 +58,5 @@ Zapomogę przyznaje się na pisemny uzasadniony wniosek funkcjonariusza.
 2.
 W uzasadnionych przypadkach zapomoga może być przyznana z inicjatywy organów, o których mowa w § 4, lub na uzasadniony wniosek bezpośredniego przełożonego funkcjonariusza.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie warunków i trybu przyznawania funkcjonariuszom Służby Kontrwywiadu Wojskowego nagród rocznych, nagród uznaniowych i zapomóg (Dz. U. Nr 174, poz. 1275), które utraciło moc na podstawie art. 17 pkt 6 ustawy z dnia 24 stycznia 2014 r. o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej, ustawy o Biurze Ochrony Rządu, ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawy o służbie wojskowej żołnierzy zawodowych, ustawy o Centralnym Biurze Antykorupcyjnym, ustawy o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 502). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie warunków i trybu przyznawania funkcjonariuszom Służby Kontrwywiadu Wojskowego nagród rocznych, nagród uznaniowych i zapomóg (Dz. U. Nr 174, poz. 1275), które utraciło moc na podstawie art. 17 pkt 6 ustawy z dnia 24 stycznia 2014 r. o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej, ustawy o Biurze Ochrony Rządu, ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawy o służbie wojskowej żołnierzy zawodowych, ustawy o Centralnym Biurze Antykorupcyjnym, ustawy o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 502).
 

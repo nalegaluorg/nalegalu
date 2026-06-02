@@ -26,13 +26,14 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000475) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/475/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego Rozdział I – Przepisy ogólne Rozdział II – Organy i organizacja Instytutu Rozdział III – Gospodarka Instytutu Rozdział IV – Zmiany w przepisach Rozdział V – Przepisy dostosowujące, przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego (Dz. U. z 2021 r. poz. 402), z uwzględnieniem zmian wprowadzonych ustawą z dnia 11 sierpnia 2021 r. o zmianie ustawy o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego oraz niektórych innych ustaw (Dz. U. poz. 1574) oraz zmian wynikających z przepisów ogłoszonych przed dniem 22 lutego 2022 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 11 sierpnia 2021 r. o zmianie ustawy o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego oraz niektórych innych ustaw (Dz. U. poz. 1574), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 11 sierpnia 2021 r. o zmianie ustawy o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego oraz niektórych innych ustaw (Dz. U. poz. 1574), który stanowi: „
+Przepisy ogólne
+Organy i organizacja Instytutu
 Organami Instytutu są:
 1)
 Dyrektor Instytutu;
@@ -40,10 +41,23 @@ Dyrektor Instytutu;
 Rada Pamięci;
 3)
 Rada Naukowa.
+Gospodarka Instytutu
+Zmiany w przepisach
+Przepisy dostosowujące, przejściowe i końcowe
+
+#### Rozdział I – Przepisy ogólne
+
+#### Rozdział II – Organy i organizacja Instytutu
+
+#### Rozdział III – Gospodarka Instytutu
+
+#### Rozdział IV – Zmiany w przepisach
+
+#### Rozdział V – Przepisy dostosowujące, przejściowe i końcowe
 
 **Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego
 
-#### Rozdział I Przepisy ogólne
+#### Rozdział I
 
 **Art. 1.** Ustawa określa organizację i zadania Instytutu Solidarności i Męstwa imienia Witolda Pileckiego, zwanego dalej „Instytutem”.
 
@@ -55,11 +69,7 @@ Rada Naukowa.
 
 3. Siedzibą Instytutu jest miasto stołeczne Warszawa.
 
-4. Nadzór nad Instytutem sprawuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, zwany dalej „ministrem”.
-
-5. Instytut może używać skróconej nazwy w brzmieniu: „Instytut Pileckiego”.
-
-6. W stosunkach z zagranicą Instytut może posługiwać się swoją nazwą lub swoją skróconą nazwą w tłumaczeniu na języki obce.
+4. Nadzór nad Instytutem sprawuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, zwany dalej „ministrem”. 5Dodany przez art. 1 pkt 1 ustawy z dnia 11 sierpnia 2021 r. o zmianie ustawy o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego oraz niektórych innych ustaw (Dz. U. poz. 1574), która weszła w życie z dniem 11 września 2021 r.. Instytut może używać skróconej nazwy w brzmieniu: „Instytut Pileckiego”. 6Dodany przez art. 1 pkt 1 ustawy z dnia 11 sierpnia 2021 r. o zmianie ustawy o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego oraz niektórych innych ustaw (Dz. U. poz. 1574), która weszła w życie z dniem 11 września 2021 r.. W stosunkach z zagranicą Instytut może posługiwać się swoją nazwą lub swoją skróconą nazwą w tłumaczeniu na języki obce.
 
 **Art. 3.**
 
@@ -75,14 +85,11 @@ Rada Naukowa.
 - **2)** prowadzenie oraz poszerzanie baz danych, księgozbiorów i archiwów w zakresie określonym w ust. 1, w tym także powierzonego zasobu archiwalnego;
 - **3)** popularyzowanie, dokumentowanie i poszerzanie wiedzy w zakresie określonym w ust. 1, w tym gromadzenie, ewidencjonowanie, przechowywanie, digitalizacja, opracowywanie, tłumaczenie, udostępnianie i zabezpieczanie materiałów lub ich kopii, w tym poprzez współpracę z innymi podmiotami;
 - **4)** upowszechnianie wiedzy o osobach, o których mowa w ust. 1;
-- **5)** inicjowanie, prowadzenie i wspieranie działań informacyjnych, edukacyjnych i kulturalnych w zakresie określonym w ust. 1;
-- **6)** występowanie z wnioskiem do Prezydenta Rzeczypospolitej Polskiej o nadanie osobom, o których mowa w ust. 1, Medalu Virtus et Fraternitas;
+- **5)** inicjowanie, prowadzenie i wspieranie działań informacyjnych, edukacyjnych i kulturalnych w zakresie określonym w ust. 1; 6W brzmieniu ustalonym przez art. 1 pkt 2 lit. a ustawy, o której mowa w odnośniku 1.) występowanie z wnioskiem do Prezydenta Rzeczypospolitej Polskiej o nadanie osobom, o których mowa w ust. 1, Medalu Virtus et Fraternitas;
 - **7)** zgłaszanie uprawnionym organom inicjatyw nadania innego odznaczenia lub orderu osobom, o których jest mowa w ust. 1;
 - **8)** prowadzenie działalności wydawniczej w zakresie, o którym mowa w ust. 1;
 - **9)** organizowanie uroczystości, konferencji, sympozjów, wykładów, seminariów, dyskusji oraz prowadzenie innej działalności popularyzatorskiej, w zakresie określonym w ust. 1;
-- **10)** współpraca z Instytutem Pamięci Narodowej – Komisją Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz krajowymi, zagranicznymi i międzynarodowymi instytucjami naukowymi i stowarzyszeniami w zakresie, o którym mowa w ust. 1;
-- **11)** produkcja i współprodukcja utworów audiowizualnych, w tym filmów, dotyczących zagadnień związanych z zakresem, o którym mowa w ust. 1, w celu ich nadania w programach nadawców publicznych, prywatnych i Internecie lub rozpowszechniania w inny sposób;
-- **12)** popularyzacja problematyki, o której mowa w ust. 1, w tym dystrybucja materiałów związanych z działalnością Instytutu.
+- **10)** współpraca z Instytutem Pamięci Narodowej – Komisją Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz krajowymi, zagranicznymi i międzynarodowymi instytucjami naukowymi i stowarzyszeniami w zakresie, o którym mowa w ust. 1; 11W brzmieniu ustalonym przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 1.) produkcja i współprodukcja utworów audiowizualnych, w tym filmów, dotyczących zagadnień związanych z zakresem, o którym mowa w ust. 1, w celu ich nadania w programach nadawców publicznych, prywatnych i Internecie lub rozpowszechniania w inny sposób; 12W brzmieniu ustalonym przez art. 1 pkt 2 lit. c ustawy, o której mowa w odnośniku 1.) popularyzacja problematyki, o której mowa w ust. 1, w tym dystrybucja materiałów związanych z działalnością Instytutu.
 
 3. Działania określone w ust. 2 mogą być prowadzone w Rzeczypospolitej Polskiej i za granicą.
 
@@ -97,9 +104,7 @@ Rada Naukowa.
 3. W sprawach nieuregulowanych niniejszą ustawą do Instytutu stosuje się przepisy ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych. Ministrem właściwym w rozumieniu przepisów, o których mowa w zdaniu pierwszym, jest minister. Zadania, o których mowa w art. 3 ust. 2, mogą być realizowane przy pomocy:
 
 - **1)** oddziałów zamiejscowych będących wyodrębnionymi jednostkami organizacyjnymi lub komórkami organizacyjnymi Instytutu, w tym mających siedzibę poza terytorium Rzeczypospolitej Polskiej, zwanych dalej „oddziałami zamiejscowymi”;
-- **2)** podmiotów zależnych będących jednostkami organizacyjnymi mającymi siedzibę poza terytorium Rzeczypospolitej Polskiej, zwanych dalej „podmiotami zależnymi”.
-
-1. Instytut może tworzyć, za zgodą ministra udzieloną na wniosek Dyrektora Instytutu, oddziały zamiejscowe. W przypadku oddziału zamiejscowego mającego siedzibę poza terytorium Rzeczypospolitej Polskiej Dyrektor Instytutu dodatkowo informuje ministra właściwego do spraw zagranicznych o jego utworzeniu.
+- **2)** podmiotów zależnych będących jednostkami organizacyjnymi mającymi siedzibę poza terytorium Rzeczypospolitej Polskiej, zwanych dalej „podmiotami zależnymi”. 1W brzmieniu ustalonym przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 1.. Instytut może tworzyć, za zgodą ministra udzieloną na wniosek Dyrektora Instytutu, oddziały zamiejscowe. W przypadku oddziału zamiejscowego mającego siedzibę poza terytorium Rzeczypospolitej Polskiej Dyrektor Instytutu dodatkowo informuje ministra właściwego do spraw zagranicznych o jego utworzeniu.
 
 2. Wniosek o wyrażenie zgody, o której mowa w ust. 1, określa zamierzony termin utworzenia oddziału zamiejscowego i jego proponowaną siedzibę oraz zawiera uzasadnienie.
 
@@ -113,7 +118,7 @@ Rada Naukowa.
 
 7. Instytut może przekształcać i likwidować, za zgodą ministra, oddziały zamiejscowe.
 
-1. Instytut może tworzyć, za zgodą ministra udzieloną na wniosek Dyrektora Instytutu, po uprzednim poinformowaniu ministra właściwego do spraw zagranicznych, podmioty zależne w formie prawnej i organizacyjnej zależnej od miejsca ich utworzenia, w tym w formie spółki kapitałowej. Przepisów art. 45 i art. 49 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.) nie stosuje się.
+1. Instytut może tworzyć, za zgodą ministra udzieloną na wniosek Dyrektora Instytutu, po uprzednim poinformowaniu ministra właściwego do spraw zagranicznych, podmioty zależne w formie prawnej i organizacyjnej zależnej od miejsca ich utworzenia, w tym w formie spółki kapitałowej. Przepisów art. 45 i art. 49 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270.) nie stosuje się.
 
 2. Wniosek o wyrażenie zgody, o której mowa w ust. 1, określa zamierzony termin utworzenia podmiotu zależnego i proponowaną siedzibę oraz zawiera informacje o jego zamierzonej formie prawnej i organizacyjnej oraz uzasadnienie.
 
@@ -127,7 +132,7 @@ Rada Naukowa.
 
 7. Instytut może przekształcać i likwidować, za zgodą ministra, podmioty zależne.
 
-#### Rozdział II Organy i organizacja Instytutu
+#### Rozdział II
 
 **Art. 6.**
 
@@ -173,8 +178,7 @@ Rada Naukowa.
 - **3)** zapewnienie funkcjonowania i ciągłości pracy Instytutu;
 - **4)** opracowywanie rocznego planu działania Instytutu;
 - **5)** opracowywanie rocznego planu finansowego Instytutu;
-- **6)** opracowywanie rocznego sprawozdania finansowego Instytutu i przedstawianie go ministrowi;
-- **6a)** przedstawianie corocznie, nie później niż do dnia 31 marca, sprawozdania z działalności Instytutu sejmowym i senackim komisjom właściwym ze względu na przedmiotowy zakres ich działania;
+- **6)** opracowywanie rocznego sprawozdania finansowego Instytutu i przedstawianie go ministrowi; 6aDodany przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 1.) przedstawianie corocznie, nie później niż do dnia 31 marca, sprawozdania z działalności Instytutu sejmowym i senackim komisjom właściwym ze względu na przedmiotowy zakres ich działania;
 - **7)** sporządzanie rocznego sprawozdania z działalności Instytutu i przedstawianie go ministrowi;
 - **8)** sprawowanie zarządu nad mieniem Instytutu;
 - **9)** prowadzenie gospodarki finansowej Instytutu;
@@ -183,9 +187,7 @@ Rada Naukowa.
 
 **Art. 9.**
 
-1. Rada Pamięci jest organem opiniodawczo-doradczym Dyrektora Instytutu.
-
-2. Rada Pamięci opiniuje inicjatywy nadania osobom, o których mowa w art. 3 ust. 1, Medalu Virtus et Fraternitas oraz innych odznaczeń, orderów lub wyróżnień.
+1. Rada Pamięci jest organem opiniodawczo-doradczym Dyrektora Instytutu. 2W brzmieniu ustalonym przez art. 1 pkt 7 ustawy, o której mowa w odnośniku 1.. Rada Pamięci opiniuje inicjatywy nadania osobom, o których mowa w art. 3 ust. 1, Medalu Virtus et Fraternitas oraz innych odznaczeń, orderów lub wyróżnień.
 
 3. Rada Pamięci składa się z nie mniej niż siedmiu i nie więcej niż jedenastu członków, powoływanych i odwoływanych przez ministra spośród osób wyróżniających się wysokimi walorami moralnymi oraz wiedzą z zakresu historii Polski i Narodu Polskiego.
 
@@ -197,7 +199,7 @@ Rada Naukowa.
 
 7. Członkom Rady Pamięci, mającym inne miejsce zamieszkania niż miejsce posiedzeń Rady, przysługują diety, zwrot kosztów przejazdów i noclegów związanych z uczestnictwem w tych posiedzeniach, na zasadach określonych w przepisach wydanych na podstawie art. 775 § 2 Kodeksu pracy. Do Rady Naukowej nie stosuje się przepisów ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych w zakresie dotyczącym uchwalania statutu Instytutu oraz opiniowania rocznego planu finansowego Instytutu.
 
-#### Rozdział III Gospodarka Instytutu
+#### Rozdział III
 
 **Art. 10.**
 
@@ -257,11 +259,11 @@ Rada Naukowa.
 
 2. Minister określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania oraz pozbawiania stypendiów, o których mowa w ust. 1, a także rodzaje i wysokość stypendiów, uwzględniając potrzebę wsparcia działań najpełniej służących realizacji celów Instytutu.
 
-#### Rozdział IV Zmiany w przepisach
+#### Rozdział IV
 
 **Art. 16.** -18. (pominięte)
 
-#### Rozdział V Przepisy dostosowujące, przejściowe i końcowe
+#### Rozdział V
 
 **Art. 19.** Tworzy się Instytut Solidarności i Męstwa.
 
@@ -314,5 +316,5 @@ Rada Naukowa.
 
 2. W celu wykonania przepisów ustawy minister dokona przeniesienia wydatków między działami klasyfikacji budżetowej w ramach części budżetowej, której jest dysponentem.
 
-**Art. 27.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+**Art. 27.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 12 grudnia 2017 r.. 1) Dodany przez art. 1 pkt 1 ustawy z dnia 11 sierpnia 2021 r. o zmianie ustawy o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego oraz niektórych innych ustaw (Dz. U. poz. 1574), która weszła w życie z dniem 11 września 2021 r. 2) W brzmieniu ustalonym przez art. 1 pkt 2 lit. a ustawy, o której mowa w odnośniku 1. 3) W brzmieniu ustalonym przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 1. 4) W brzmieniu ustalonym przez art. 1 pkt 2 lit. c ustawy, o której mowa w odnośniku 1. 5) W brzmieniu ustalonym przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 1. 6) W brzmieniu ustalonym przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 1. 7) Dodany przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 1. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270. 9) Dodany przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 1. 10) W brzmieniu ustalonym przez art. 1 pkt 7 ustawy, o której mowa w odnośniku 1. 11) Ustawa została ogłoszona w dniu 12 grudnia 2017 r.
 

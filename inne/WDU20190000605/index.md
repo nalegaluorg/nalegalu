@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 29 marca 2019 r. w sprawie szczegółowego zakresu danych objętych wpisem do rejestru podmiotów wykonujących działalność leczniczą oraz szczegółowego trybu postępowania w sprawach dokonywania wpisów, zmian w rejestrze oraz wykreśleń z tego rejestru
+# Rozporządzenie Ministra Zdrowiaz dnia 29 marca 2019 r. w sprawie szczegółowego zakresu danych objętych wpisem do rejestru podmiotów wykonujących działalność leczniczą oraz szczegółowego trybu postępowania w sprawach dokonywania wpisów, zmian w rejestrze oraz wykreśleń z tego rejestru Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-29 |
 | Data wydania | 2019-04-01 |
-| Wejście w życie | 2019-04-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000605) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/605/text.pdf) |
 
@@ -198,7 +197,7 @@ w rubryce dwudziestej ósmej – datę zakończenia działalności leczniczej za
 29)
 w rubryce dwudziestej dziewiątej – nazwę i adres podmiotu przechowującego dokumentację medyczną po zaprzestaniu udzielania świadczeń zdrowotnych przez podmiot leczniczy;
 30)
-w rubryce trzydziestej – informację o zakwalifikowaniu podmiotu leczniczego do systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej w rozumieniu ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.).
+w rubryce trzydziestej – informację o zakwalifikowaniu podmiotu leczniczego do systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej w rozumieniu ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399 i 447.).
 2.
 W przypadku spółki cywilnej w rubryce trzeciej wpisuje się imiona i nazwiska oraz Numer Identyfikacji Podatkowej (NIP) każdego ze wspólników.
 § 6.
@@ -1382,8 +1381,7 @@ Zaświadczenie, o którym mowa w ust. 1, jest wystawiane w postaci elektroniczne
 § 18.
 Organ prowadzący rejestr przekazuje wnioskodawcy, na adres poczty elektronicznej wskazany we wniosku, informację o wydaniu zaświadczenia, o którym mowa w § 17 ust. 1, oraz dane umożliwiające pobranie zaświadczenia z systemu teleinformatycznego.
 § 19.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399 i 447. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 29 września 2011 r. w sprawie szczegółowego zakresu danych objętych wpisem do rejestru podmiotów wykonujących działalność leczniczą oraz szczegółowego trybu postępowania w sprawach dokonywania wpisów, zmian w rejestrze oraz wykreśleń z tego rejestru (Dz. U. z 2014 r. poz. 325 oraz z 2017 r. poz. 1540), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 8 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 2219).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 29 września 2011 r. w sprawie szczegółowego zakresu danych objętych wpisem do rejestru podmiotów wykonujących działalność leczniczą oraz szczegółowego trybu postępowania w sprawach dokonywania wpisów, zmian w rejestrze oraz wykreśleń z tego rejestru (Dz. U. z 2014 r. poz. 325 oraz z 2017 r. poz. 1540), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 8 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 2219). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399 i 447. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 29 września 2011 r. w sprawie szczegółowego zakresu danych objętych wpisem do rejestru podmiotów wykonujących działalność leczniczą oraz szczegółowego trybu postępowania w sprawach dokonywania wpisów, zmian w rejestrze oraz wykreśleń z tego rejestru (Dz. U. z 2014 r. poz. 325 oraz z 2017 r. poz. 1540), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 8 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 2219).
 
 ## Załącznik nr 1 — – Kody województw
 

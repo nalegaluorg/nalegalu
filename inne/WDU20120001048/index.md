@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 31 sierpnia 2012 r. w sprawie wymagań bezpieczeństwa jądrowego i ochrony radiologicznej, jakie ma uwzględniać projekt obiektu jądrowego
+# Rozporządzenie Rady Ministrówz dnia 31 sierpnia 2012 r. w sprawie wymagań bezpieczeństwa jądrowego i ochrony radiologicznej, jakie ma uwzględniać projekt obiektu jądrowego Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2009/71/Euratom z dnia 25 czerwca 2009 r. ustanawiającej wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 172 z 02.07.2009, str. 18 oraz Dz. Urz. UE L 260 z 03.10.2009, str. 40).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-08-31 |
 | Data wydania | 2012-09-20 |
-| Wejście w życie | 2012-10-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001048) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1048/text.pdf) |
 
-Treść rozporządzenia Dział I – Przepisy ogólne Dział II – Podstawowe wymagania bezpieczeństwa jądrowego i ochrony radiologicznej, jakie ma uwzględniać projekt obiektu jądrowego Rozdział 1 – Sekwencje poziomów bezpieczeństwa, projektowe cele bezpieczeństwa oraz probabilistyczne kryteria bezpieczeństwa Rozdział 2 – Funkcje bezpieczeństwa i klasyfikacja bezpieczeństwa, założenia projektowe, klasyfikacja stanów obiektu jądrowego, postulowane zdarzenia inicjujące Rozdział 3 – Stany eksploatacyjne i rozpatrywane awarie Dział III – Ogólne wymagania bezpieczeństwa jądrowego i ochrony radiologicznej dotyczące projektowania systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej Rozdział 1 – Zasady ogólne Rozdział 2 – Uszkodzenia ze wspólnej przyczyny, kryterium pojedynczego uszkodzenia, stan bezpieczny po uszkodzeniu Rozdział 3 – Pomocnicze wyposażenie i systemy istotne dla bezpieczeństwa, czynności utrzymania, kontrole, próby i kalibracje Rozdział 4 – Badania kwalifikacyjne, starzenie systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego, czynnik ludzki Rozdział 5 – Pozostałe ogólne wymagania projektowe Dział IV – Szczegółowe wymagania bezpieczeństwa jądrowego i ochrony radiologicznej dotyczące projektowania poszczególnych systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego istotnych dla bezpieczeństwa jądrowego i ochrony radiologicznej Rozdział 1 – Reaktor Rozdział 2 – Obieg chłodzenia reaktora Rozdział 3 – System obudowy bezpieczeństwa reaktora Rozdział 4 – Systemy pomiarów i sterowania obiektu jądrowego Rozdział 5 – Systemy zasilania elektrycznego obiektu jądrowego Rozdział 6 – Systemy gospodarki odpadami promieniotwórczymi i paliwem jądrowym obiektu jądrowego Rozdział 7 – Zewnętrzne systemy chłodzenia obiektu jądrowego istotne dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej Rozdział 8 – Wymagania w zakresie ochrony przeciwpożarowej i zapobiegania wybuchom Rozdział 9 – Wymagania dla pozostałych systemów pomocniczych obiektu jądrowego Dział V – Specyficzne wymagania projektowe w zakresie ochrony przed promieniowaniem w obiekcie jądrowym Dział VI – Przepisy przejściowe i końcowe
 Treść rozporządzenia
-Na podstawie art. 36c ust. 3 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2012 r. poz. 264 i 908) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 kwietnia 2012 r., pod numerem 2012/277/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). Na podstawie art. 36c ust. 3 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2012 r. poz. 264 i 908) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 W rozumieniu niniejszego rozporządzenia użyte określenia oznaczają:
 1)
@@ -130,6 +130,8 @@ b)
 część systemów i elementów wyposażenia obiektu jądrowego połączonych z granicą ciśnieniową obiegu chłodzenia reaktora lub z przestrzenią pierwotnej obudowy bezpieczeństwa reaktora, które w razie awarii mogą przenosić skażone płyny poza pierwotną obudowę bezpieczeństwa reaktora;
 39)
 zwielokrotnienie (redundancja) – zastosowanie większej liczby systemów lub elementów wyposażenia niż wymaga tego funkcjonowanie obiektu jądrowego, w szczególności jego systemów bezpieczeństwa, tak żeby uszkodzenie jakiegokolwiek z nich nie skutkowało niewypełnieniem funkcji bezpieczeństwa.
+Podstawowe wymagania bezpieczeństwa jądrowego i ochrony radiologicznej, jakie ma uwzględniać projekt obiektu jądrowego
+Sekwencje poziomów bezpieczeństwa, projektowe cele bezpieczeństwa oraz probabilistyczne kryteria bezpieczeństwa
 § 2.
 Obiekt jądrowy projektuje się w sposób zapewniający:
 1)
@@ -229,6 +231,7 @@ mniejszego niż raz na 100 000 lat pracy reaktora prawdopodobieństwa wystąpien
 mniejszego niż raz na 1 000 000 lat pracy reaktora prawdopodobieństwa uwolnień do otoczenia substancji promieniotwórczych o takiej wielkości, że poza granicami obszaru ograniczonego użytkowania mógłby zostać przekroczony którykolwiek z poziomów interwencyjnych wymagający rozważenia podjęcia wczesnych lub długoterminowych działań interwencyjnych, a poza granicami strefy planowania awaryjnego mógłby zostać przekroczony poziom interwencyjny wymagający rozważenia podjęcia średnioterminowych działań interwencyjnych;
 3)
 znacznie mniejszego niż raz na 1 000 000 lat pracy reaktora prawdopodobieństwa sekwencji awaryjnych potencjalnie prowadzących do wczesnego uszkodzenia obudowy bezpieczeństwa reaktora lub bardzo dużych uwolnień substancji promieniotwórczych do otoczenia.
+Funkcje bezpieczeństwa i klasyfikacja bezpieczeństwa, założenia projektowe, klasyfikacja stanów obiektu jądrowego, postulowane zdarzenia inicjujące
 § 11.
 1.
 W projekcie obiektu jądrowego wskazuje się funkcje bezpieczeństwa, jakie mają być wypełniane przez systemy oraz elementy konstrukcji i wyposażenia obiektu jądrowego mające istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej, włączając sprzęt i oprogramowanie systemów pomiarowych i sterowania.
@@ -324,6 +327,7 @@ W przypadku posadowienia obiektu jądrowego na obszarach, o których mowa w art.
 Przy projektowaniu obiektu jądrowego w odniesieniu do zagrożenia powodziowego uwzględnia się czynniki, o których mowa w § 2 pkt 3 lit. d i pkt 4 rozporządzenia lokalizacyjnego, oraz kryterium, o którym mowa w § 5 pkt 6 rozporządzenia lokalizacyjnego.
 3.
 Przy projektowaniu zabezpieczeń przeciwpowodziowych obiektu jądrowego uwzględnia się maksymalne rzędne zwierciadła wody o prawdopodobieństwie wystąpienia raz na 1000 lat.
+Stany eksploatacyjne i rozpatrywane awarie
 § 24.
 Dla systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej określa się w projekcie obiektu jądrowego graniczne parametry projektowe.
 § 25.
@@ -445,6 +449,8 @@ W projekcie elektrowni jądrowej przewiduje się rozwiązania projektowe zapewni
 rdzeń reaktora pozostaje chłodzony lub pierwotna obudowa bezpieczeństwa reaktora pozostaje nienaruszona;
 2)
 utrzymuje się chłodzenie wypalonego paliwa jądrowego lub integralność basenu wypalonego paliwa jądrowego.
+Ogólne wymagania bezpieczeństwa jądrowego i ochrony radiologicznej dotyczące projektowania systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej
+Zasady ogólne
 § 34.
 1.
 Przy projektowaniu systemów obiektu jądrowego odpowiedzialnych za wypełnienie fundamentalnych funkcji bezpieczeństwa stosuje się rozwiązania zapewniające wykonywanie przez te systemy funkcji bezpieczeństwa, nawet w razie uszkodzenia lub nieprawidłowego działania, takie jak: zwielokrotnienie, separacja fizyczna, niezależność funkcjonalna oraz różnorodność.
@@ -454,6 +460,7 @@ System bezpieczeństwa konieczny do doprowadzenia obiektu jądrowego do stanu be
 Dla zapewnienia wypełniania funkcji bezpieczeństwa w rozwiązaniach projektowych obiektu jądrowego wykorzystuje się, tam gdzie to możliwe, wbudowane cechy bezpieczeństwa systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej. Tam, gdzie zapewnienie wypełniania funkcji bezpieczeństwa nie jest możliwe przez wykorzystanie wbudowanych cech bezpieczeństwa, w pierwszej kolejności stosuje się systemy i elementy wyposażenia obiektu jądrowego niewymagające zasilania elektrycznego ze źródeł zewnętrznych spoza obiektu jądrowego lub takie, które w razie utraty zasilania będą przyjmować stan preferowany z punktu widzenia bezpieczeństwa jądrowego.
 4.
 Obiekt jądrowy wyposaża się w systemy zasilania elektrycznego ze źródeł wewnętrznych i zewnętrznych spoza obiektu jądrowego, przy czym wypełnienie funkcji bezpieczeństwa powinno być możliwe przy wykorzystaniu któregokolwiek z tych dwóch źródeł zasilania elektrycznego.
+Uszkodzenia ze wspólnej przyczyny, kryterium pojedynczego uszkodzenia, stan bezpieczny po uszkodzeniu
 § 35.
 W projekcie obiektu jądrowego należy zastosować różnorodność i niezależność funkcjonalną systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej dla uzyskania wymaganego poziomu ich niezawodności, tam gdzie na konieczność zastosowania różnorodności i niezależności funkcjonalnej wskazały analizy niezawodnościowe przeprowadzone w oparciu o kryterium możliwości wystąpienia uszkodzeń ze wspólnej przyczyny.
 § 36.
@@ -463,6 +470,7 @@ Systemy oraz elementy wyposażenia obiektu jądrowego mające istotne znaczenie 
 Do każdej grupy bezpieczeństwa włączonej do projektu obiektu jądrowego stosuje się kryterium pojedynczego uszkodzenia.
 2.
 Wymaganą niezawodność określonej grupy bezpieczeństwa dla każdego postulowanego zdarzenia inicjującego, przy założeniu, że wystąpi pojedyncze uszkodzenie, zapewnia się przez odpowiedni dobór rozwiązań technicznych obejmujących stosowanie elementów sprawdzonych, zwielokrotnienie (redundancję), różnorodność, rozdzielenie fizyczne i funkcjonalne oraz odizolowanie elementów.
+Pomocnicze wyposażenie i systemy istotne dla bezpieczeństwa, czynności utrzymania, kontrole, próby i kalibracje
 § 38.
 1.
 Systemy pomocnicze wspomagające systemy lub wyposażenie istotne dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej traktuje się jak część tych systemów lub wyposażenia i klasyfikuje się je zgodnie z zasadami określonymi w § 11.
@@ -480,10 +488,10 @@ Rozwiązania projektowe obiektu jądrowego, z zastrzeżeniem ust. 2, zapewniają
 1)
 podczas pracy obiektu jądrowego na mocy – kalibracji i prób lub czynności utrzymania w zakresie eksploatacji,
 2)
-w warunkach wyłączenia obiektu – także czynności utrzymania w zakresie napraw, modernizacji i kontroli
-na systemach oraz elementach konstrukcji i wyposażenia obiektu jądrowego mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej, bez istotnego zmniejszenia możliwości wypełniania funkcji bezpieczeństwa, a w sytuacji, o której mowa w pkt 1, także bez konieczności wyłączania obiektu jądrowego.
+w warunkach wyłączenia obiektu – także czynności utrzymania w zakresie napraw, modernizacji i kontroli – na systemach oraz elementach konstrukcji i wyposażenia obiektu jądrowego mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej, bez istotnego zmniejszenia możliwości wypełniania funkcji bezpieczeństwa, a w sytuacji, o której mowa w pkt 1, także bez konieczności wyłączania obiektu jądrowego.
 2.
 Jeżeli obiektu jądrowego nie można zaprojektować w sposób wymagany w ust. 1, to w projekcie obiektu jądrowego stosuje się inne rozwiązania zapewniające możliwość uzyskania informacji o stanie i funkcjonowaniu systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej, polegające na zastosowaniu zwiększonych zapasów bezpieczeństwa lub innych środków zapobiegawczych służących zrównoważeniu skutków potencjalnych uszkodzeń.
+Badania kwalifikacyjne, starzenie systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego, czynnik ludzki
 § 41.
 W projekcie obiektu jądrowego wskazuje się systemy oraz elementy konstrukcji i wyposażenia obiektu jądrowego mające istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej, co do których inwestor ma obowiązek wykazać, iż zostały poddane badaniom kwalifikacyjnym przeprowadzanym w celu potwierdzenia, że przez cały przewidziany w projekcie obiektu jądrowego okres ich użytkowania będą one zdolne do wykonywania swoich funkcji, podlegając starzeniu w szczególności na skutek działania warunków środowiskowych, w szczególności takich jak: drgania, temperatura, ciśnienie, uderzenie strumienia płynu lub odłamków, zakłócenia elektromagnetyczne, napromienienie, zalanie, wilgotność oraz wszelkich możliwych kombinacji tych czynników, występujących w czasie, gdy działanie tych systemów oraz elementów konstrukcji i wyposażenia będzie niezbędne.
 § 42.
@@ -517,6 +525,7 @@ b)
 umożliwiających określenie prawidłowych inicjowanych przez operatora obiektu jądrowego działań, które należy podjąć dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej,
 c)
 o parametrach poszczególnych systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego, w celu potwierdzenia, że czynności konieczne dla zapewnienia bezpieczeństwa mogą zostać bezpiecznie wykonane.
+Pozostałe ogólne wymagania projektowe
 § 45.
 W wieloblokowych elektrowniach jądrowych systemy oraz elementy konstrukcji i wyposażenia mające istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej nie mogą być wspólne dla dwóch lub więcej reaktorów, chyba że zostanie wykazane, że dla wszystkich reaktorów w stanach eksploatacyjnych, włączając czynności utrzymania w zakresie eksploatacji, napraw i modernizacji, oraz podczas rozpatrywanych awarii będą spełnione wymagania bezpieczeństwa jądrowego i ochrony radiologicznej, a w razie wystąpienia ciężkiej awarii jednego z reaktorów dla pozostałych reaktorów będzie zapewniona możliwość ich uporządkowanego wyłączenia, wychłodzenia i odprowadzania ciepła powyłączeniowego.
 § 46.
@@ -547,6 +556,8 @@ możliwości dostępu do miejsc, do których dostęp jest konieczny;
 konieczność minimalizacji narażenia pracowników na promieniowanie jonizujące oraz zapobieżenia skażeniom środowiska substancjami promieniotwórczymi przy demontażu obiektu jądrowego;
 4)
 obiekty konieczne do przechowywania odpadów promieniotwórczych powstałych zarówno podczas eksploatacji, jak i likwidacji obiektu jądrowego.
+Szczegółowe wymagania bezpieczeństwa jądrowego i ochrony radiologicznej dotyczące projektowania poszczególnych systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego istotnych dla bezpieczeństwa jądrowego i ochrony radiologicznej
+Reaktor
 § 51.
 1.
 Reaktor i związane z nim systemy projektuje się w taki sposób, żeby:
@@ -634,6 +645,7 @@ W projekcie elektrowni jądrowej oraz reaktora badawczego przewiduje się:
 środki techniczne służące do wyłączania reaktora, odpowiednie dla zapobieżenia powstaniu lub dla skompensowania niezamierzonych wzrostów reaktywności podczas stanu wyłączenia, w tym – podczas przeładunku paliwa w tym stanie;
 2)
 aparaturę kontrolno-pomiarową i możliwość prowadzenia prób w celu zapewnienia, że środki techniczne służące do wyłączania reaktora będą utrzymywane w stanie ustalonym dla określonych warunków elektrowni jądrowej lub reaktora badawczego.
+Obieg chłodzenia reaktora
 § 58.
 1.
 Obieg chłodzenia reaktora, związane z nim systemy pomocnicze oraz systemy sterowania i zabezpieczeń projektuje się z uwzględnieniem zapasów bezpieczeństwa odpowiednich do zapewnienia, że w stanach eksploatacyjnych nie nastąpi przekroczenie granicznych parametrów projektowych dla granicy ciśnieniowej obiegu chłodzenia reaktora, w szczególności takich jak: maksymalne ciśnienie, maksymalna temperatura, dopuszczalne zmiany ciśnienia i temperatury w stanach przejściowych oraz dopuszczalne naprężenia.
@@ -716,6 +728,7 @@ integralności konstrukcyjnej i szczelności elementów systemu;
 zdolności do działania z odpowiednią wydajnością czynnych elementów systemu podczas normalnej eksploatacji;
 3)
 zdolności systemu do działania w stanach określonych w założeniach projektowych elektrowni jądrowej lub reaktora badawczego.
+System obudowy bezpieczeństwa reaktora
 § 67.
 1.
 W elektrowni jądrowej oraz w reaktorze badawczym stosuje się system obudowy bezpieczeństwa reaktora zapewniający:
@@ -803,6 +816,7 @@ Systemy, o których mowa w ust. 1, projektuje się z należytym stopniem zwielok
 Rozwiązania projektowe systemów oczyszczania przestrzeni obudowy bezpieczeństwa reaktora zapewniają możliwość prowadzenia okresowej kontroli elementów wyposażenia oraz wykonywania prób ciśnieniowych i funkcjonalnych tych systemów.
 § 77.
 Materiały pokryć, izolacji cieplnej i powłok elementów wyposażenia oraz konstrukcji wewnątrz obudowy bezpieczeństwa reaktora dobiera się tak, żeby zapewnić wypełnianie ich funkcji bezpieczeństwa i zminimalizować niekorzystny wpływ na inne funkcje bezpieczeństwa w razie degradacji tych pokryć, izolacji lub powłok.
+Systemy pomiarów i sterowania obiektu jądrowego
 § 78.
 1.
 W obiekcie jądrowym stosuje się aparaturę kontrolno-pomiarową odpowiednią dla:
@@ -906,6 +920,7 @@ dostęp do informacji o istotnych parametrach obiektu jądrowego oraz o warunkac
 łączność ze sterowniami głównymi i sterowniami rezerwowymi oraz z innymi ważnymi miejscami w obiekcie jądrowym, a także z zespołami reagowania awaryjnego na terenie obiektu jądrowego i poza nim;
 3)
 środki ochrony osób przebywających w awaryjnym ośrodku zarządzania przed zagrożeniami wynikającymi z warunków awaryjnych, włączając ciężkie awarie.
+Systemy zasilania elektrycznego obiektu jądrowego
 § 93.
 1.
 Dla niezawodnego funkcjonowania systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej zapewnia się zasilanie elektryczne ze źródeł wewnętrznych obiektu jądrowego i z zewnętrznej sieci elektroenergetycznej.
@@ -947,6 +962,7 @@ pojemności zbiorników magazynowych oleju napędowego i wydajności systemów z
 zdolności urządzenia poruszającego do uruchomienia i skutecznego działania w określonych warunkach i przez wymagany czas;
 3)
 rodzajów systemów pomocniczych wymaganych dla ich działania.
+Systemy gospodarki odpadami promieniotwórczymi i paliwem jądrowym obiektu jądrowego
 § 102.
 W obiekcie jądrowym projektuje się:
 1)
@@ -1021,6 +1037,7 @@ do monitorowania i kontrolowania poziomu wody w basenie do przechowywania paliwa
 zapobiegające spadkowi poziomu wody w basenie służącym do przechowywania paliwa jądrowego;
 4)
 środki techniczne do pomiaru i rejestracji temperatury w basenie służącym do przechowywania paliwa jądrowego.
+Zewnętrzne systemy chłodzenia obiektu jądrowego istotne dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej
 § 108.
 1.
 Dla obiektu jądrowego projektuje się zewnętrzne systemy chłodzenia do odprowadzania ciepła, w szczególności ciepła powyłączeniowego, od systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej do ostatecznego ujścia ciepła, z niezawodnością odpowiednią do wypełnianych funkcji bezpieczeństwa w stanach eksploatacyjnych i w warunkach awaryjnych.
@@ -1033,12 +1050,12 @@ odpowiednie wzajemne połączenia elementów składowych systemów,
 3)
 wykrywanie przecieków oraz możliwości odcinania,
 4)
-odporność na zablokowanie dopływu chłodziwa
-tak żeby systemy te mogły wypełnić swoje funkcje bezpieczeństwa przy zasilaniu elektrycznym ze źródeł wewnętrznych obiektu jądrowego lub z zewnętrznej sieci elektroenergetycznej, zakładając wystąpienie pojedynczego uszkodzenia.
+odporność na zablokowanie dopływu chłodziwa – tak żeby systemy te mogły wypełnić swoje funkcje bezpieczeństwa przy zasilaniu elektrycznym ze źródeł wewnętrznych obiektu jądrowego lub z zewnętrznej sieci elektroenergetycznej, zakładając wystąpienie pojedynczego uszkodzenia.
 3.
 W projekcie obiektu jądrowego przewiduje się rozwiązania zapewniające alternatywny sposób lub drogę odprowadzania ciepła do wykorzystania w razie niedyspozycyjności zewnętrznych systemów chłodzenia, o których mowa w ust. 1.
 § 109.
 Zewnętrzne systemy chłodzenia obiektu jądrowego projektuje się w sposób umożliwiający prowadzenie okresowych kontroli stanu technicznego ich elementów wyposażenia oraz okresowych prób ciśnieniowych i funkcjonalnych całych systemów.
+Wymagania w zakresie ochrony przeciwpożarowej i zapobiegania wybuchom
 § 110.
 1.
 Systemy oraz elementy konstrukcji i wyposażenia obiektu jądrowego mające istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej projektuje się i rozmieszcza tak, żeby zminimalizować prawdopodobieństwo zaistnienia i skutki pożarów lub wybuchów spowodowanych przez zdarzenia zewnętrzne lub wewnętrzne oraz utrzymać zdolność do wyłączenia reaktora, odprowadzania ciepła powyłączeniowego, zatrzymania substancji promieniotwórczych, a także monitorowania stanu obiektu jądrowego.
@@ -1054,6 +1071,7 @@ tam, gdzie to konieczne, były one uruchamiane automatycznie;
 ich rozerwanie lub nieuprawnione albo nieumyślne uruchomienie nie spowodowało znaczącego pogorszenia zdolności wypełniania przewidzianych w projekcie funkcji przez systemy oraz elementy konstrukcji i wyposażenia obiektu jądrowego mające istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej oraz nie doprowadziło do uszkodzenia zwielokrotnionych systemów bezpieczeństwa, czyniąc nieskutecznymi rozwiązania techniczne zastosowane w projekcie obiektu w celu spełnienia kryterium pojedynczego uszkodzenia.
 § 113.
 W obiekcie jądrowym, tam gdzie to możliwe, zwłaszcza w miejscach takich jak obudowa bezpieczeństwa reaktora i sterownie, stosuje się materiały niepalne lub niezapalne.
+Wymagania dla pozostałych systemów pomocniczych obiektu jądrowego
 § 114.
 W obiekcie jądrowym wprowadza się systemy poboru próbek z systemów technologicznych, pomieszczeń i środowiska oraz systemy poawaryjnego poboru próbek w celu określenia w odpowiednim czasie stężenia wybranych radionuklidów w systemach technologicznych zawierających płyny oraz w próbkach gazów i cieczy pobranych z pomieszczeń systemów technologicznych lub środowiska, w stanach eksploatacyjnych i w warunkach awaryjnych.
 § 115.
@@ -1109,6 +1127,7 @@ Turbozespół w elektrowni jądrowej wyposaża się w:
 zabezpieczenia, takie jak regulator bezpieczeństwa (ogranicznik maksymalnej prędkości obrotowej) i zabezpieczenie przed nadmiernymi drganiami;
 2)
 rozwiązania techniczne minimalizujące ewentualne skutki dezintegracji turbozespołu dla systemów lub elementów konstrukcji lub wyposażenia obiektu jądrowego mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej.
+Specyficzne wymagania projektowe w zakresie ochrony przed promieniowaniem w obiekcie jądrowym
 § 120.
 Projekt obiektu jądrowego przewiduje rozwiązania zapewniające:
 1)
@@ -1130,8 +1149,7 @@ stacjonarne mierniki mocy dawki do:
 a)
 miejscowego monitorowania mocy dawki w miejscach rutynowego przebywania personelu eksploatacyjnego, gdzie zmiany poziomów promieniowania jonizującego w stanach eksploatacyjnych mogą wymagać ograniczenia czasu przebywania pracowników,
 b)
-pomiaru ogólnego poziomu promieniowania jonizującego w określonych miejscach w razie rozpatrywanych awarii
-podające w głównej sterowni i sterowni rezerwowej lub w innym odpowiednim miejscu kontroli informacje wystarczające do zainicjowania przez personel obiektu jądrowego, w razie potrzeby, właściwych działań korygujących lub interwencyjnych;
+pomiaru ogólnego poziomu promieniowania jonizującego w określonych miejscach w razie rozpatrywanych awarii – podające w głównej sterowni i sterowni rezerwowej lub w innym odpowiednim miejscu kontroli informacje wystarczające do zainicjowania przez personel obiektu jądrowego, w razie potrzeby, właściwych działań korygujących lub interwencyjnych;
 2)
 wyposażenie monitorujące mierzące stężenie substancji promieniotwórczych w powietrzu w miejscach rutynowego przebywania pracowników oraz tam, gdzie poziom stężenia substancji promieniotwórczych zawartych w powietrzu może sporadycznie wymagać wprowadzenia środków ochronnych, zapewniające wykrywanie wysokiego stężenia substancji promieniotwórczych oraz sygnalizację w głównej sterowni i sterowni rezerwowej lub w innych stosownych miejscach;
 3)
@@ -1152,6 +1170,7 @@ ewentualnych skutków radiologicznych dla lokalnych ekosystemów;
 potencjalnej akumulacji substancji promieniotwórczych w środowisku;
 4)
 możliwości istnienia nieakceptowalnych dróg uwolnień substancji promieniotwórczych do środowiska.
+Przepisy przejściowe i końcowe
 § 125.
 1.
 Przepisów niniejszego rozporządzenia nie stosuje się do obiektów jądrowych eksploatowanych na terytorium Rzeczypospolitej Polskiej w dniu jego wejścia w życie.
@@ -1168,51 +1187,97 @@ nie stosuje się § 2 pkt 2, § 25 ust. 2, § 28 ust. 1, § 29 ust. 2, § 92, §
 2)
 § 43 ust. 3 pkt 3, § 44, § 78–91, § 101, § 105–107, § 114–116 stosuje się odpowiednio.
 § 126.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2009/71/Euratom z dnia 25 czerwca 2009 r. ustanawiającej wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 172 z 02.07.2009, str. 18 oraz Dz. Urz. UE L 260 z 03.10.2009, str. 40). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 kwietnia 2012 r., pod numerem 2012/277/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).
 
-### Dział I Przepisy ogólne
+### Dział I – Przepisy ogólne
 
-### Dział II Podstawowe wymagania bezpieczeństwa jądrowego i ochrony radiologicznej, jakie ma uwzględniać projekt obiektu jądrowego
+### Dział II – Podstawowe wymagania bezpieczeństwa jądrowego i ochrony radiologicznej, jakie ma uwzględniać projekt obiektu jądrowego
 
-#### Rozdział 1 Sekwencje poziomów bezpieczeństwa, projektowe cele bezpieczeństwa oraz probabilistyczne kryteria bezpieczeństwa
+#### Rozdział 1 – Sekwencje poziomów bezpieczeństwa, projektowe cele bezpieczeństwa oraz probabilistyczne kryteria bezpieczeństwa
 
-#### Rozdział 2 Funkcje bezpieczeństwa i klasyfikacja bezpieczeństwa, założenia projektowe, klasyfikacja stanów obiektu jądrowego, postulowane zdarzenia inicjujące
+#### Rozdział 2 – Funkcje bezpieczeństwa i klasyfikacja bezpieczeństwa, założenia projektowe, klasyfikacja stanów obiektu jądrowego, postulowane zdarzenia inicjujące
 
-#### Rozdział 3 Stany eksploatacyjne i rozpatrywane awarie
+#### Rozdział 3 – Stany eksploatacyjne i rozpatrywane awarie
 
-### Dział III Ogólne wymagania bezpieczeństwa jądrowego i ochrony radiologicznej dotyczące projektowania systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej
+### Dział III – Ogólne wymagania bezpieczeństwa jądrowego i ochrony radiologicznej dotyczące projektowania systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej
 
-#### Rozdział 1 Zasady ogólne
+#### Rozdział 1 – Zasady ogólne
 
-#### Rozdział 2 Uszkodzenia ze wspólnej przyczyny, kryterium pojedynczego uszkodzenia, stan bezpieczny po uszkodzeniu
+#### Rozdział 2 – Uszkodzenia ze wspólnej przyczyny, kryterium pojedynczego uszkodzenia, stan bezpieczny po uszkodzeniu
 
-#### Rozdział 3 Pomocnicze wyposażenie i systemy istotne dla bezpieczeństwa, czynności utrzymania, kontrole, próby i kalibracje
+#### Rozdział 3 – Pomocnicze wyposażenie i systemy istotne dla bezpieczeństwa, czynności utrzymania, kontrole, próby i kalibracje
 
-#### Rozdział 4 Badania kwalifikacyjne, starzenie systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego, czynnik ludzki
+#### Rozdział 4 – Badania kwalifikacyjne, starzenie systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego, czynnik ludzki
 
-#### Rozdział 5 Pozostałe ogólne wymagania projektowe
+#### Rozdział 5 – Pozostałe ogólne wymagania projektowe
 
-### Dział IV Szczegółowe wymagania bezpieczeństwa jądrowego i ochrony radiologicznej dotyczące projektowania poszczególnych systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego istotnych dla bezpieczeństwa jądrowego i ochrony radiologicznej
+### Dział IV – Szczegółowe wymagania bezpieczeństwa jądrowego i ochrony radiologicznej dotyczące projektowania poszczególnych systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego istotnych dla bezpieczeństwa jądrowego i ochrony radiologicznej
 
-#### Rozdział 1 Reaktor
+#### Rozdział 1 – Reaktor
 
-#### Rozdział 2 Obieg chłodzenia reaktora
+#### Rozdział 2 – Obieg chłodzenia reaktora
 
-#### Rozdział 3 System obudowy bezpieczeństwa reaktora
+#### Rozdział 3 – System obudowy bezpieczeństwa reaktora
 
-#### Rozdział 4 Systemy pomiarów i sterowania obiektu jądrowego
+#### Rozdział 4 – Systemy pomiarów i sterowania obiektu jądrowego
 
-#### Rozdział 5 Systemy zasilania elektrycznego obiektu jądrowego
+#### Rozdział 5 – Systemy zasilania elektrycznego obiektu jądrowego
 
-#### Rozdział 6 Systemy gospodarki odpadami promieniotwórczymi i paliwem jądrowym obiektu jądrowego
+#### Rozdział 6 – Systemy gospodarki odpadami promieniotwórczymi i paliwem jądrowym obiektu jądrowego
 
-#### Rozdział 7 Zewnętrzne systemy chłodzenia obiektu jądrowego istotne dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej
+#### Rozdział 7 – Zewnętrzne systemy chłodzenia obiektu jądrowego istotne dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej
 
-#### Rozdział 8 Wymagania w zakresie ochrony przeciwpożarowej i zapobiegania wybuchom
+#### Rozdział 8 – Wymagania w zakresie ochrony przeciwpożarowej i zapobiegania wybuchom
 
-#### Rozdział 9 Wymagania dla pozostałych systemów pomocniczych obiektu jądrowego
+#### Rozdział 9 – Wymagania dla pozostałych systemów pomocniczych obiektu jądrowego
 
-### Dział V Specyficzne wymagania projektowe w zakresie ochrony przed promieniowaniem w obiekcie jądrowym
+### Dział V – Specyficzne wymagania projektowe w zakresie ochrony przed promieniowaniem w obiekcie jądrowym
 
-### Dział VI Przepisy przejściowe i końcowe
+### Dział VI – Przepisy przejściowe i końcowe
+
+### Dział I
+
+### Dział II
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+### Dział III
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+### Dział IV
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+### Dział V
+
+### Dział VI
 

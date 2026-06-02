@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 grudnia 2018 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw
+# Ustawa z dnia 14 grudnia 2018 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawę z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych oraz ustawę z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-14 |
 | Data wydania | 2019-01-09 |
-| Wejście w życie | 2019-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000039) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/39/text.pdf) |
 
@@ -119,9 +118,9 @@ source: "eli-html"
 - **5)** art. 3 ust. 3 ustawy z dnia 31 maja 1996 r. o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich;
 - **6)** art. 94 ust. 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-**Art. 10.** W 2019 r. do świadczeń emerytalno-rentowych wypłacanych z Funduszu Ubezpieczeń Społecznych i Funduszu Emerytur Pomostowych, którymi dysponuje Zakład Ubezpieczeń Społecznych, oraz świadczeń emerytalno-rentowych wypłacanych z Funduszu Emerytalno-Rentowego, którym dysponuje Prezes Kasy Rolniczego Ubezpieczenia Społecznego, nie stosuje się art. 29 ust. 10 i art. 52 ust. 2 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077, z późn. zm.).
+**Art. 10.** W 2019 r. do świadczeń emerytalno-rentowych wypłacanych z Funduszu Ubezpieczeń Społecznych i Funduszu Emerytur Pomostowych, którymi dysponuje Zakład Ubezpieczeń Społecznych, oraz świadczeń emerytalno-rentowych wypłacanych z Funduszu Emerytalno-Rentowego, którym dysponuje Prezes Kasy Rolniczego Ubezpieczenia Społecznego, nie stosuje się art. 29 ust. 10 i art. 52 ust. 2 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 2500.).
 
 **Art. 11.** W 2019 r. upoważnia się Prezesa Zakładu Ubezpieczeń Społecznych do dokonania przeniesień planowanych wydatków między działami, rozdziałami i paragrafami w ramach części 73 – Zakład Ubezpieczeń Społecznych z przeznaczeniem na waloryzację renty socjalnej.
 
-**Art. 12.** Ustawa wchodzi w życie z dniem 1 marca 2019 r., z wyjątkiem art. 4, art. 7 ust. 2 i art. 9, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+**Art. 12.** Ustawa wchodzi w życie z dniem 1 marca 2019 r., z wyjątkiem art. 4, art. 7 ust. 2 i art. 9, które wchodzą w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawę z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych oraz ustawę z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 2500.
 

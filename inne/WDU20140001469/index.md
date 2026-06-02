@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 16 października 2014 r. w sprawie rejestru obszarów górniczych i zamkniętych podziemnych składowisk dwutlenku węgla
+# Rozporządzenie Ministra Środowiskaz dnia 16 października 2014 r. w sprawie rejestru obszarów górniczych i zamkniętych podziemnych składowisk dwutlenku węgla Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia postanowień dyrektywy Parlamentu Europejskiego i Rady 2009/31/WE z dnia 23 kwietnia 2009 r. w sprawie geologicznego składowania dwutlenku węgla oraz zmieniającej dyrektywę Rady 85/337/EWG, dyrektywy Parlamentu Europejskiego i Rady 2000/60/WE, 2001/80/WE, 2004/35/WE, 2006/12/WE, 2008/1/WE i rozporządzenie (WE) nr 1013/2006 (Dz. Urz. UE L 140 z 05.06.2009, str. 114).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-10-16 |
 | Data wydania | 2014-10-29 |
-| Wejście w życie | 2014-11-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001469) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1469/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 152a ust. 5 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2014 r. poz. 613, ze zm.) zarządza się, co następuje:
+Na podstawie art. 152a ust. 5 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2014 r. poz. 613, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 850 i 1133. Tekst jednolity nie uwzględnia zmiany ogłoszonej w Dz. U. z 2014 r. poz. 587.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -148,8 +147,7 @@ dokonuje wpisu danych, o których mowa w § 3 ust. 1, do księgi rejestrowej,
 2)
 zamieszcza na każdym egzemplarzu mapy obszaru górniczego adnotację o wpisie obszaru górniczego do rejestru,
 3)
-przekazuje mapę obszaru górniczego wraz z adnotacją o wpisie tego obszaru do rejestru: przedsiębiorcy, właściwemu miejscowo organowi koncesyjnemu, organowi nadzoru górniczego oraz wójtowi (burmistrzowi, prezydentowi miasta)
-w terminie 14 dni od dnia otrzymania kompletu dokumentów będących podstawą wpisu.
+przekazuje mapę obszaru górniczego wraz z adnotacją o wpisie tego obszaru do rejestru: przedsiębiorcy, właściwemu miejscowo organowi koncesyjnemu, organowi nadzoru górniczego oraz wójtowi (burmistrzowi, prezydentowi miasta) – w terminie 14 dni od dnia otrzymania kompletu dokumentów będących podstawą wpisu.
 § 10.
 1.
 Zmiany wpisu w księdze rejestrowej dokonuje się w sposób pozwalający odczytać wpis poprzedni.
@@ -161,5 +159,5 @@ Obszar górniczy wykreśla się z rejestru, z urzędu, w terminie 14 dni od dnia
 2.
 Do wykreślenia obszaru górniczego z rejestru stosuje się odpowiednio przepisy § 5 i § 9 pkt 1.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 15 grudnia 2011 r. w sprawie rejestru obszarów górniczych (Dz. U. Nr 286, poz. 1685), które na podstawie art. 15 ustawy z dnia 27 września 2013 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 1238) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia postanowień dyrektywy Parlamentu Europejskiego i Rady 2009/31/WE z dnia 23 kwietnia 2009 r. w sprawie geologicznego składowania dwutlenku węgla oraz zmieniającej dyrektywę Rady 85/337/EWG, dyrektywy Parlamentu Europejskiego i Rady 2000/60/WE, 2001/80/WE, 2004/35/WE, 2006/12/WE, 2008/1/WE i rozporządzenie (WE) nr 1013/2006 (Dz. Urz. UE L 140 z 05.06.2009, str. 114). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 850 i 1133. Tekst jednolity nie uwzględnia zmiany ogłoszonej w Dz. U. z 2014 r. poz. 587. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 15 grudnia 2011 r. w sprawie rejestru obszarów górniczych (Dz. U. Nr 286, poz. 1685), które na podstawie art. 15 ustawy z dnia 27 września 2013 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 1238) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

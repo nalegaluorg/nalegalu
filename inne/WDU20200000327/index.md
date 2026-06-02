@@ -31,13 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 24 marca 2016 r. w sprawie przestrzegania przepisów o ochronie środowiska w komórkach i jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej albo przez niego nadzorowanych (Dz. U. z 2018 r. poz. 2086), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Obrony Narodowej z dnia 25 listopada 2019 r. zmieniającym rozporządzenie w sprawie przestrzegania przepisów o ochronie środowiska w komórkach i jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej albo przez niego nadzorowanych (Dz. U. poz. 2359).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 25 listopada 2019 r. zmieniającego rozporządzenie w sprawie przestrzegania przepisów o ochronie środowiska w komórkach i jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej albo przez niego nadzorowanych (Dz. U. poz. 2359), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 25 listopada 2019 r. zmieniającego rozporządzenie w sprawie przestrzegania przepisów o ochronie środowiska w komórkach i jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej albo przez niego nadzorowanych (Dz. U. poz. 2359), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 24 marca 2016 r. w sprawie przestrzegania przepisów o ochronie środowiska w komórkach i jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej albo przez niego nadzorowanych
-Na podstawie art. 385 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2019 r. poz. 1396, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 385 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2019 r. poz. 1396, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1403, 1495, 1501, 1527, 1579, 1680, 1712, 1815, 2087 i 2166 oraz z 2020 r. poz. 284.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -84,7 +82,7 @@ pkt 1–4, 6, 8 i 9 stosuje się odpowiednio do Dowódcy Wojsk Obrony Terytorial
 3.
 Do Dowódcy Generalnego Rodzajów Sił Zbrojnych oprócz zadań wymienionych w ust. 2 pkt 1 należy:
 1)
-(uchylony);
+(uchylony);Przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 25 listopada 2019 r. zmieniającego rozporządzenie w sprawie przestrzegania przepisów o ochronie środowiska w komórkach i jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej albo przez niego nadzorowanych (Dz. U. poz. 2359), które weszło w życie z dniem 20 grudnia 2019 r.
 2)
 nadzorowanie wykonywania przez Centralny Ośrodek Analizy Skażeń czynności na potrzeby ochrony środowiska polegających na:
 a)
@@ -161,9 +159,9 @@ prowadzi ewidencję niebezpiecznych substancji chemicznych wykorzystywanych prze
 koordynuje w podległych mu komórkach i jednostkach organizacyjnych wykonanie zbiorczych zestawień danych dotyczących: a) wielkości emisji gazów i pyłów do powietrza, wielkości poboru wody i ilości ścieków wprowadzanych do wód i ziemi oraz ilości wytwarzanych odpadów, w tym odpadów niebezpiecznych, b) opłat wnoszonych za korzystanie ze środowiska oraz kar za nieprzestrzeganie przepisów o ochronie środowiska;
 8)
 organizuje przedsięwzięcia z zakresu ochrony środowiska w ramach rejonowego systemu zaopatrywania w miarę potrzeb wynikających z bieżącej działalności oraz występuje do właściwych organów o przydział środków na te cele;
-9)
+9W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 corocznie w terminie do dnia 18 maja, na podstawie informacji o stanie środowiska i działalności proekologicznej otrzymanych zgodnie z § 3 ust. 1 pkt 5, § 5 pkt 4, § 6 pkt 5, § 8 pkt 2, § 9 pkt 13 i § 11 pkt 11 oraz informacji o stanie środowiska i działalności proekologicznej opracowanej przez dyrektora komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw polityki zbrojeniowej i dyrektora komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw zdrowia, opracowuje „Informację o stanie środowiska i działalności proekologicznej w komórkach i jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych” i przesyła do zatwierdzenia Ministrowi Obrony Narodowej za pośrednictwem osoby zajmującej kierownicze stanowisko w Ministerstwie Obrony Narodowej właściwej do spraw infrastruktury;
-9a)
+9aDodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 przesyła „Informację o stanie środowiska i działalności proekologicznej w komórkach i jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych”, o której mowa w pkt 9, do wiadomości Szefa Sztabu Generalnego Wojska Polskiego;
 10)
 nadzoruje proces pozbywania się zbędnych środków bojowych, rakietowych materiałów napędowych oraz innych substancji chemicznych;
@@ -329,5 +327,5 @@ Dyrektor jednostki organizacyjnej właściwej do spraw konsolidacji kompetencji 
 § 15.
 Traci moc rozporządzenie Ministra Obrony Narodowej z dnia 9 maja 2011 r. w sprawie przestrzegania przepisów o ochronie środowiska w komórkach i jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej albo przez niego nadzorowanych (Dz. U. z 2015 r. poz. 297).
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 8 kwietnia 2016 r.. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1403, 1495, 1501, 1527, 1579, 1680, 1712, 1815, 2087 i 2166 oraz z 2020 r. poz. 284. 2) Przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 25 listopada 2019 r. zmieniającego rozporządzenie w sprawie przestrzegania przepisów o ochronie środowiska w komórkach i jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej albo przez niego nadzorowanych (Dz. U. poz. 2359), które weszło w życie z dniem 20 grudnia 2019 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) Rozporządzenie zostało ogłoszone w dniu 8 kwietnia 2016 r.
 

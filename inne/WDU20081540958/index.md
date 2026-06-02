@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 lipca 2008 r. o zmianie ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 25 lipca 2008 r. o zmianie ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-07-25 |
 | Data wydania | 2008-08-26 |
-| Wejście w życie | 2008-09-10 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081540958) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/958/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. Nr 80, poz. 721, z późn. zm.) wprowadza się następujące zmiany:
+Postępowanie poprzedzające rozpoczęcie robót budowlanych
+
+**Art. 1.** W ustawie z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. Nr 80, poz. 721, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 217, poz. 2124, z 2005 r. Nr 113, poz. 954 i Nr 267, poz. 2251, z 2006 r. Nr 220, poz. 1601 oraz z 2007 r. Nr 23, poz. 136 i Nr 112, poz. 767.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 ust. 1 otrzymuje brzmienie: „
 
@@ -35,7 +36,7 @@ source: "eli-html"
 - **2)** uchyla się rozdział 2;
 - **3)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Postępowanie poprzedzające rozpoczęcie robót budowlanych
+#### Rozdział 2a
 
 **Art. 11a.**
 
@@ -55,8 +56,8 @@ source: "eli-html"
 - **2)** analizę powiązania drogi z innymi drogami publicznymi;
 - **3)** mapy zawierające projekty podziału nieruchomości, sporządzone zgodnie z odrębnymi przepisami;
 - **4)** określenie zmian w dotychczasowej infrastrukturze zagospodarowania terenu;
-- **5)** cztery egzemplarze projektu budowlanego wraz z zaświadczeniem, o którym mowa w art. 12 ust. 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.), aktualnym na dzień opracowania projektu;
-- **6)** pozwolenie, o którym mowa w art. 23 i 23a ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502, z późn. zm.), jeżeli jest ono wymagane;
+- **5)** cztery egzemplarze projektu budowlanego wraz z zaświadczeniem, o którym mowa w art. 12 ust. 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844 oraz z 2008 r. Nr 145, poz. 914.), aktualnym na dzień opracowania projektu;
+- **6)** pozwolenie, o którym mowa w art. 23 i 23a ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652, z 2004 r. Nr 6, poz. 41, Nr 93, poz. 895 i Nr 273, poz. 2703, z 2005 r. Nr 203, poz. 1683, z 2006 r. Nr 220, poz. 1600 i Nr 249, poz. 1834 oraz z 2007 r. Nr 21, poz. 125.), jeżeli jest ono wymagane;
 - **7)** w przypadku obiektów zakładów górniczych oraz obiektów usytuowanych na terenach zamkniętych i terenach, o których mowa w art. 82 ust. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, postanowienie o uzgodnieniu z organem administracji architektoniczno-budowlanej, o którym mowa w art. 82 ust. 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, projektowanych rozwiązań w zakresie: linii zabudowy oraz elewacji obiektów budowlanych projektowanych od strony dróg, ulic, placów i innych miejsc publicznych, przebiegu i charakterystyki technicznej dróg, linii komunikacyjnych oraz sieci uzbrojenia terenu, wyprowadzonych poza granice terenu zamkniętego, portów morskich i przystani morskich, a także podłączeń tych obiektów do sieci użytku publicznego;
     - **a)**
     - **b)**
@@ -77,7 +78,7 @@ source: "eli-html"
 
 3. Opinie, o których mowa w ust. 1 pkt 8, zastępują uzgodnienia, pozwolenia, opinie bądź stanowiska właściwych organów wymagane odrębnymi przepisami.
 
-4. Jeżeli realizacja inwestycji drogowej wymaga wydania pozwolenia wodnoprawnego, odpowiednio marszałek województwa albo starosta wydają to pozwolenie w terminie nie dłuższym niż 30 dni od dnia złożenia wniosku o jego wydanie. W sprawach dotyczących wydania pozwolenia wodnoprawnego nie stosuje się art. 131 ust. 2 pkt 2 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm.). Dla ustalenia stanu prawnego nieruchomości, o których mowa w art. 132 ust. 2 pkt 2 lit. c ustawy z dnia 18 lipca 2001 r. – Prawo wodne, siedziby i adresy właścicieli tych nieruchomości określa się według katastru nieruchomości.
+4. Jeżeli realizacja inwestycji drogowej wymaga wydania pozwolenia wodnoprawnego, odpowiednio marszałek województwa albo starosta wydają to pozwolenie w terminie nie dłuższym niż 30 dni od dnia złożenia wniosku o jego wydanie. W sprawach dotyczących wydania pozwolenia wodnoprawnego nie stosuje się art. 131 ust. 2 pkt 2 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 267, poz. 2255, z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658 oraz z 2007 r. Nr 21, poz. 125, Nr 64, poz. 427, Nr 75, poz. 493, Nr 88, poz. 587, Nr 147, poz. 1033, Nr 176, poz. 1238, Nr 181, poz. 1286 i Nr 231, poz. 1704.). Dla ustalenia stanu prawnego nieruchomości, o których mowa w art. 132 ust. 2 pkt 2 lit. c ustawy z dnia 18 lipca 2001 r. – Prawo wodne, siedziby i adresy właścicieli tych nieruchomości określa się według katastru nieruchomości.
 
 5. Wojewoda w odniesieniu do dróg krajowych i wojewódzkich albo starosta w odniesieniu do dróg powiatowych i gminnych wysyłają zawiadomienie o wszczęciu postępowania w sprawie wydania decyzji o zezwoleniu na realizację inwestycji drogowej wnioskodawcy, właścicielom lub użytkownikom wieczystym nieruchomości objętych wnioskiem o wydanie tej decyzji na adres wskazany w katastrze nieruchomości, a w przypadku, o którym mowa w art. 11a ust. 2, wojewodom, na których obszarze właściwości znajduje się część nieruchomości objętej wnioskiem o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej, oraz zawiadamiają pozostałe strony w drodze obwieszczeń, odpowiednio w urzędzie wojewódzkim lub starostwie powiatowym, a także w urzędach gmin właściwych ze względu na przebieg drogi, na stronach internetowych tych gmin i w prasie lokalnej. Doręczenie zawiadomienia na adres wskazany w katastrze nieruchomości jest skuteczne.
 
@@ -113,7 +114,7 @@ source: "eli-html"
     - **g)**
     - **h)**
 
-2. Do ograniczeń, o których mowa w ust. 1 pkt 8 lit. g, przepisy art. 124 ust. 4–8 i art. 124a ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.) stosuje się odpowiednio.
+2. Do ograniczeń, o których mowa w ust. 1 pkt 8 lit. g, przepisy art. 124 ust. 4–8 i art. 124a ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 64, poz. 456, Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601, z 2007 r. Nr 173, poz. 1218 oraz z 2008 r. Nr 59, poz. 369.) stosuje się odpowiednio.
 
 3. Wojewoda w odniesieniu do dróg krajowych i wojewódzkich albo starosta w odniesieniu do dróg powiatowych i gminnych doręczają decyzję o zezwoleniu na realizację inwestycji drogowej wnioskodawcy oraz zawiadamiają o jej wydaniu pozostałe strony w drodze obwieszczeń, odpowiednio w urzędzie wojewódzkim lub starostwie powiatowym oraz w urzędach gmin właściwych ze względu na przebieg drogi, na stronach internetowych tych gmin, a także w prasie lokalnej. Ponadto wysyłają zawiadomienie o wydaniu decyzji o zezwoleniu na realizację inwestycji drogowej dotychczasowemu właścicielowi lub użytkownikowi wieczystemu na adres wskazany w katastrze nieruchomości. W przypadku, o którym mowa w art. 11a ust. 2, zawiadomienie to wysyła się wojewodom, na których obszarze właściwości znajduje się część nieruchomości objętej wnioskiem o wydanie tej decyzji. Doręczenie zawiadomienia na adres wskazany w katastrze nieruchomości jest skuteczne.
 
@@ -154,7 +155,7 @@ source: "eli-html"
 4. Nieruchomości lub ich części, o których mowa w art. 11f ust. 1 pkt 6, stają się z mocy prawa:
 
 - **1)** własnością Skarbu Państwa w odniesieniu do dróg krajowych,
-- **2)** własnością odpowiednich jednostek samorządu terytorialnego w odniesieniu do dróg wojewódzkich, powiatowych i gminnych z dniem, w którym decyzja o zezwoleniu na realizację inwestycji drogowej stała się ostateczna. ” , po ust. 4 dodaje się ust. 4a-4f w brzmieniu: „
+- **2)** własnością odpowiednich jednostek samorządu terytorialnego w odniesieniu do dróg wojewódzkich, powiatowych i gminnych – z dniem, w którym decyzja o zezwoleniu na realizację inwestycji drogowej stała się ostateczna. ” , po ust. 4 dodaje się ust. 4a-4f w brzmieniu: „
     - **b)**
 
 4a. Decyzję ustalającą wysokość odszkodowania za nieruchomości, o których mowa w ust. 4, wydaje organ, który wydał decyzję o zezwoleniu na realizację inwestycji drogowej.
@@ -184,11 +185,12 @@ source: "eli-html"
 - **6)** w art. 17: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Wojewoda w odniesieniu do dróg krajowych i wojewódzkich albo starosta w odniesieniu do dróg powiatowych i gminnych nadają decyzji o zezwoleniu na realizację inwestycji drogowej rygor natychmiastowej wykonalności na wniosek właściwego zarządcy drogi, uzasadniony interesem społecznym lub gospodarczym. ” , uchyla się ust. 2, w ust. 3: – uchyla się pkt 1, – dodaje się pkt 4 w brzmieniu: „ 4) uprawnia do rozpoczęcia robót budowlanych. ” , ust. 4 otrzymuje brzmienie: „
+1. Wojewoda w odniesieniu do dróg krajowych i wojewódzkich albo starosta w odniesieniu do dróg powiatowych i gminnych nadają decyzji o zezwoleniu na realizację inwestycji drogowej rygor natychmiastowej wykonalności na wniosek właściwego zarządcy drogi, uzasadniony interesem społecznym lub gospodarczym. ” , uchyla się ust. 2, w ust. 3: – uchyla się pkt 1, dodaje się pkt 4 w brzmieniu: „
 
 - **b)**
 - **c)**
-- **d)**
+- **4)** uprawnia do rozpoczęcia robót budowlanych. ” , ust. 4 otrzymuje brzmienie: „
+    - **d)**
 
 4. W przypadku gdy decyzja, o której mowa w ust. 1, dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, w którym został wyodrębniony lokal mieszkalny, właściwy zarządca drogi jest obowiązany, w terminie faktycznego objęcia nieruchomości w posiadanie, do wskazania lokalu zamiennego, z zastrzeżeniem ust. 4a. ” , po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „
 
@@ -221,7 +223,7 @@ source: "eli-html"
 
 - **1)** doręczenia zawiadomienia o wydaniu decyzji, o której mowa w art. 17,
 - **2)** doręczenia postanowienia o nadaniu decyzji o zezwoleniu na realizację inwestycji drogowej rygoru natychmiastowej wykonalności albo
-- **3)** w którym decyzja o zezwoleniu na realizację inwestycji drogowej stała się ostateczna wysokość odszkodowania powiększa się o kwotę równą 5% wartości nieruchomości lub wartości prawa użytkowania wieczystego.
+- **3)** w którym decyzja o zezwoleniu na realizację inwestycji drogowej stała się ostateczna – wysokość odszkodowania powiększa się o kwotę równą 5% wartości nieruchomości lub wartości prawa użytkowania wieczystego.
 
 1f. W przypadku gdy decyzja o zezwoleniu na realizację inwestycji drogowej dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, w którym został wyodrębniony lokal mieszkalny, wysokość odszkodowania, o którym mowa w ust. 1, przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu zamieszkałemu w tym budynku albo lokalu, powiększa się o kwotę 10 000 zł w odniesieniu do tej nieruchomości. ” ;
 
@@ -256,7 +258,7 @@ source: "eli-html"
 
 5. Do zapłaty odszkodowania, o którym mowa w ust. 4, jest obowiązany właściwy zarządca drogi.
 
-1. Lasy Państwowe, zarządzające nieruchomościami, o których mowa w art. 11f ust. 1 pkt 6, na podstawie ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z późn. zm.), są obowiązane do dokonania nieodpłatnie, z zastrzeżeniem ust. 3, wycinki drzew i krzewów oraz ich uprzątnięcia w terminie ustalonym w odrębnym porozumieniu między Lasami Państwowymi a właściwym zarządcą drogi.
+1. Lasy Państwowe, zarządzające nieruchomościami, o których mowa w art. 11f ust. 1 pkt 6, na podstawie ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 157, poz. 1315, Nr 167, poz. 1399 i Nr 175, poz. 1460 i 1462, z 2006 r. Nr 227, poz. 1658 i Nr 245, poz. 1775 oraz z 2007 r. Nr 59, poz. 405, Nr 64, poz. 427 i Nr 181, poz. 1286.), są obowiązane do dokonania nieodpłatnie, z zastrzeżeniem ust. 3, wycinki drzew i krzewów oraz ich uprzątnięcia w terminie ustalonym w odrębnym porozumieniu między Lasami Państwowymi a właściwym zarządcą drogi.
 
 2. Drewno pozyskane z wycinki drzew i krzewów, o której mowa w ust. 1, staje się nieodpłatnie własnością Lasów Państwowych.
 
@@ -298,7 +300,7 @@ source: "eli-html"
 
 1. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2. Przepisy rozdziałów 1–5 tracą moc z dniem 31 grudnia 2020 r. ” .
 
-**Art. 2.** W ustawie z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. z 2005 r. Nr 228, poz. 1947, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. z 2005 r. Nr 228, poz. 1947, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 133, poz. 934, Nr 170, poz. 1217, Nr 190, poz. 1399 i Nr 249, poz. 1834, z 2007 r. Nr 21, poz. 125 i Nr 82, poz. 556 oraz z 2008 r. Nr 138, poz. 865.) wprowadza się następujące zmiany:
 
 - **1)** w art. 33: po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
@@ -325,7 +327,7 @@ source: "eli-html"
 
 5b. Wydając rozporządzenie, o którym mowa w ust. 5a, minister właściwy do spraw transportu uwzględnia przeznaczenie terenów położonych w obszarach ograniczonego użytkowania oraz słuszny interes właścicieli nieruchomości położonych w tych obszarach. ” .
 
-**Art. 4.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. Nr 92, poz. 880, z późn. zm.) w art. 35 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Za utrzymanie siedlisk przyrodniczych, siedlisk roślin i zwierząt, utworzonych w ramach kompensacji przyrodniczej, jak również za monitorowanie ich stanu odpowiada:
+**Art. 4.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. Nr 92, poz. 880, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087 oraz z 2007 r. Nr 75, poz. 493, Nr 176, poz. 1238 i Nr 181, poz. 1286.) w art. 35 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Za utrzymanie siedlisk przyrodniczych, siedlisk roślin i zwierząt, utworzonych w ramach kompensacji przyrodniczej, jak również za monitorowanie ich stanu odpowiada:
 
 - **1)** sprawujący nadzór nad obszarem Natura 2000, na terenie którego została wykonana kompensacja;
 - **2)** wojewoda na terenie znajdującym się poza obszarem Natura 2000. ” .
@@ -346,5 +348,5 @@ source: "eli-html"
 
 **Art. 7.** Jeżeli w terminie 30 dni od dnia wejścia w życie niniejszej ustawy właściciel bądź użytkownik wieczysty nieruchomości objętej decyzją o ustaleniu lokalizacji drogi, decyzją o ustaleniu lokalizacji drogi krajowej, decyzją o ustaleniu lokalizacji celu publicznego albo decyzją o warunkach zabudowy i zagospodarowania terenu, odpowiednio wyda tę nieruchomość lub wyda nieruchomość i opróżni lokal oraz inne pomieszczenia wysokość odszkodowania przysługującego temu właścicielowi bądź użytkownikowi wieczystemu nieruchomości powiększa się o kwotę równą 5% wartości nieruchomości lub wartości prawa użytkowania wieczystego.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 217, poz. 2124, z 2005 r. Nr 113, poz. 954 i Nr 267, poz. 2251, z 2006 r. Nr 220, poz. 1601 oraz z 2007 r. Nr 23, poz. 136 i Nr 112, poz. 767. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844 oraz z 2008 r. Nr 145, poz. 914. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652, z 2004 r. Nr 6, poz. 41, Nr 93, poz. 895 i Nr 273, poz. 2703, z 2005 r. Nr 203, poz. 1683, z 2006 r. Nr 220, poz. 1600 i Nr 249, poz. 1834 oraz z 2007 r. Nr 21, poz. 125. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 267, poz. 2255, z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658 oraz z 2007 r. Nr 21, poz. 125, Nr 64, poz. 427, Nr 75, poz. 493, Nr 88, poz. 587, Nr 147, poz. 1033, Nr 176, poz. 1238, Nr 181, poz. 1286 i Nr 231, poz. 1704. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 64, poz. 456, Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601, z 2007 r. Nr 173, poz. 1218 oraz z 2008 r. Nr 59, poz. 369. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 157, poz. 1315, Nr 167, poz. 1399 i Nr 175, poz. 1460 i 1462, z 2006 r. Nr 227, poz. 1658 i Nr 245, poz. 1775 oraz z 2007 r. Nr 59, poz. 405, Nr 64, poz. 427 i Nr 181, poz. 1286. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 133, poz. 934, Nr 170, poz. 1217, Nr 190, poz. 1399 i Nr 249, poz. 1834, z 2007 r. Nr 21, poz. 125 i Nr 82, poz. 556 oraz z 2008 r. Nr 138, poz. 865. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087 oraz z 2007 r. Nr 75, poz. 493, Nr 176, poz. 1238 i Nr 181, poz. 1286.
 

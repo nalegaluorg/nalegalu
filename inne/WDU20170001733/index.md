@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-09 |
 | Data wydania | 2017-09-12 |
-| Wejście w życie | 2017-09-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001733) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1733/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 181 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2016 r. poz. 1749, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 181 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2016 r. poz. 1749, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 2138 i 2261 oraz z 2017 r. poz. 244, 768, 773, 966 i 1452.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób sporządzania, przechowywania i udostępniania protokołów przesłuchań oskarżonych, świadków, biegłych i kuratorów, a także innych dokumentów lub przedmiotów, na które rozciąga się obowiązek zachowania w tajemnicy informacji niejawnych albo zachowania tajemnicy związanej z wykonywaniem zawodu lub funkcji, jak również dopuszczalny sposób powoływania się na takie przesłuchania, dokumenty i przedmioty w orzeczeniach i pismach procesowych.
 § 2.
@@ -91,5 +90,5 @@ Przy powoływaniu się w jawnych orzeczeniach i pismach procesowych na protokoł
 2.
 Przy powoływaniu się w jawnych orzeczeniach i pismach procesowych na protokoły przesłuchań, dokumenty lub przedmioty, na które rozciąga się obowiązek zachowania tajemnicy związanej z wykonywaniem zawodu lub funkcji, w miejsce danych dotyczących tych dowodów wpisuje się numer karty w aktach sprawy lub numer z urządzenia ewidencyjnego, pod którym zarejestrowano dowód rzeczowy.
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 20 lutego 2012 r. w sprawie sposobu postępowania z protokołami przesłuchań i innymi dokumentami lub przedmiotami, na które rozciąga się obowiązek zachowania w tajemnicy informacji niejawnych albo zachowania tajemnicy związanej z wykonywaniem zawodu lub funkcji (Dz. U. poz. 219), które utraciło moc z dniem 6 sierpnia 2017 r. na podstawie art. 6 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy – Kodeks postępowania karnego, ustawy o zawodach lekarza i lekarza dentysty oraz ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. poz. 1070 i 2103). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 2138 i 2261 oraz z 2017 r. poz. 244, 768, 773, 966 i 1452. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 20 lutego 2012 r. w sprawie sposobu postępowania z protokołami przesłuchań i innymi dokumentami lub przedmiotami, na które rozciąga się obowiązek zachowania w tajemnicy informacji niejawnych albo zachowania tajemnicy związanej z wykonywaniem zawodu lub funkcji (Dz. U. poz. 219), które utraciło moc z dniem 6 sierpnia 2017 r. na podstawie art. 6 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy – Kodeks postępowania karnego, ustawy o zawodach lekarza i lekarza dentysty oraz ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. poz. 1070 i 2103).
 

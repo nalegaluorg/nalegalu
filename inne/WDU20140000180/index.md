@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 stycznia 2014 r. o zmianie ustawy – Kodeks wyborczy
+# Ustawa z dnia 10 stycznia 2014 r. o zmianie ustawy – Kodeks wyborczy Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Rady 2013/1/UE z dnia 20 grudnia 2012 r. zmieniającą dyrektywę 93/109/WE w odniesieniu do szczegółowych warunków wykonywania prawa kandydowania w wyborach do Parlamentu Europejskiego przez obywateli Unii mających miejsce zamieszkania w państwie członkowskim, którego nie są obywatelami (Dz. Urz. UE L 26 z 26.01.2013, str. 27).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-01-10 |
 | Data wydania | 2014-02-07 |
-| Wejście w życie | 2014-02-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000180) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/180/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179.) wprowadza się następujące zmiany:
 
 - **1)** w art. 344 w § 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
@@ -55,5 +54,5 @@ source: "eli-html"
 
 § 1. Okręgowa komisja wyborcza skreśla z zarejestrowanej listy kandydatów nazwisko kandydata na posła do Parlamentu Europejskiego, który zmarł, utracił prawo wybieralności, złożył komisji oświadczenie na piśmie o wycofaniu zgody na kandydowanie lub złożył nieprawdziwe oświadczenie, o którym mowa w art. 344 § 1 pkt 2. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Rady 2013/1/UE z dnia 20 grudnia 2012 r. zmieniającą dyrektywę 93/109/WE w odniesieniu do szczegółowych warunków wykonywania prawa kandydowania w wyborach do Parlamentu Europejskiego przez obywateli Unii mających miejsce zamieszkania w państwie członkowskim, którego nie są obywatelami (Dz. Urz. UE L 26 z 26.01.2013, str. 27). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179.
 

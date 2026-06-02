@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-07 |
 | Data wydania | 2020-01-15 |
-| Wejście w życie | 2020-01-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000064) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/64/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Wydawanie osobom poleceń określonego zachowania się Rozdział 3 – Legitymowanie osób Rozdział 4 – Zatrzymywanie osób Rozdział 5 – Przeszukanie osób i pomieszczeń Rozdział 6 – Obserwowanie i rejestrowanie obrazu zdarzeń oraz dźwięku towarzyszącego tym zdarzeniom Rozdział 7 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 23 ust. 10 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe warunki przeprowadzania i dokumentowania przez funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego, zwanego dalej „funkcjonariuszem”, czynności:
 1)
@@ -40,8 +40,7 @@ zatrzymywania osób w trybie i w przypadkach określonych w przepisach ustawy z 
 4)
 przeszukiwania osób i pomieszczeń w trybie i w przypadkach określonych w przepisach ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego,
 5)
-obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych oraz dźwięku towarzyszącego tym zdarzeniom
-o których mowa w art. 23 ust. 1 pkt 1–4 i 6 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, zwanej dalej „ustawą”.
+obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych oraz dźwięku towarzyszącego tym zdarzeniom – o których mowa w art. 23 ust. 1 pkt 1–4 i 6 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, zwanej dalej „ustawą”.
 § 2.
 1.
 Funkcjonariusz, przystępując do przeprowadzenia czynności, o których mowa w § 1 pkt 1–3, podaje:
@@ -71,6 +70,7 @@ zawiadamia o konieczności podjęcia działań mających na celu usunięcie tego
 W przypadku przeprowadzania czynności określonych w § 1 pkt 3 i 4 wobec osoby, która korzysta z immunitetu parlamentarnego, sędziowskiego lub prokuratorskiego, funkcjonariusz niezwłocznie powiadamia drogą służbową Szefa ABW o podjęciu działań wobec tej osoby.
 § 5.
 W uzasadnionych przypadkach funkcjonariusz może przybrać do udziału w czynnościach, o których mowa w § 1 pkt 3–5, osobę posiadającą wiedzę specjalistyczną, w celu zabezpieczenia prawidłowego przebiegu toku postępowania.
+Wydawanie osobom poleceń określonego zachowania się
 § 6.
 O wydaniu osobie polecenia określonego zachowania się w granicach niezbędnych do wykonania czynności określonych w art. 23 ust. 1 pkt 2–5a ustawy lub wykonywania innych czynności służbowych podejmowanych w zakresie i w celu:
 1)
@@ -93,6 +93,7 @@ d)
 wzmiankę o pouczeniu osoby o przysługującym jej prawie, o którym mowa w art. 23 ust. 7 pkt 1 ustawy,
 e)
 podpis funkcjonariusza.
+Legitymowanie osób
 § 7.
 1.
 Funkcjonariusz ustala tożsamość osoby legitymowanej na podstawie:
@@ -139,6 +140,7 @@ wzmiankę o pouczeniu osoby legitymowanej o przysługującym jej prawie, o któr
 podpis funkcjonariusza.
 2.
 W przypadku gdy informacja o przeprowadzonej czynności legitymowania osoby została zamieszczona w protokole sporządzonym w przypadkach, o których mowa w § 12 ust. 1 i § 20, przepisu ust. 1 nie stosuje się.
+Zatrzymywanie osób
 § 11.
 1.
 Funkcjonariusz przy zatrzymywaniu osoby, o którym mowa w § 1 pkt 3:
@@ -200,8 +202,7 @@ jest ona pod wpływem alkoholu lub innego podobnie działającego środka,
 2)
 jest ona pod wpływem środka odurzającego, substancji psychotropowej lub innego podobnie działającego środka,
 3)
-z powodów innych niż wymienione w pkt 1 i 2 ma ona zakłóconą świadomość
-funkcjonariusz wykonuje czynności określone w ust. 1 pkt 1 i 4 po ustaniu przyczyn zakłócających świadomość osoby zatrzymanej.
+z powodów innych niż wymienione w pkt 1 i 2 ma ona zakłóconą świadomość – funkcjonariusz wykonuje czynności określone w ust. 1 pkt 1 i 4 po ustaniu przyczyn zakłócających świadomość osoby zatrzymanej.
 § 13.
 W przypadku wniesienia przez osobę zatrzymaną zażalenia na zatrzymanie, funkcjonariusz niezwłocznie przekazuje właściwemu sądowi kopię protokołu zatrzymania osoby wraz z materiałami uzasadniającymi zatrzymanie.
 § 14.
@@ -210,6 +211,7 @@ Osobę zatrzymaną umieszcza się w pomieszczeniu jednostki organizacyjnej ABW l
 Poza przypadkami określonymi w art. 248 § 1 i 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, funkcjonariusz zwalnia osobę zatrzymaną także, gdy otrzymał zaświadczenie lekarskie o istnieniu przeciwwskazań medycznych do zatrzymania.
 § 16.
 Zatrzymanie i zwolnienie osoby ewidencjonuje się w przeznaczonej do tego dokumentacji prowadzonej w jednostce organizacyjnej ABW lub w jednostce organizacyjnej Policji, do której osobę zatrzymaną doprowadzono.
+Przeszukanie osób i pomieszczeń
 § 17.
 Funkcjonariusz, przystępując do przeszukania, o którym mowa w § 1 pkt 4:
 1)
@@ -242,6 +244,7 @@ W przypadku braku możliwości swobodnego wejścia do pomieszczenia, w którym m
 W razie potrzeby funkcjonariusz informuje służby ratownicze o środkach technicznych i chemicznych użytych podczas wykonywania czynności, o której mowa w ust. 1.
 § 20.
 Z dokonanej czynności przeszukania funkcjonariusz sporządza protokół zgodnie z art. 229 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, z uwzględnieniem informacji o użyciu lub wykorzystaniu środków przymusu bezpośredniego.
+Obserwowanie i rejestrowanie obrazu zdarzeń oraz dźwięku towarzyszącego tym zdarzeniom
 § 21.
 1.
 Funkcjonariusz podczas wykonywania czynności operacyjno-rozpoznawczych realizuje uprawnienie do obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych oraz dźwięku towarzyszącego tym zdarzeniom, o którym mowa w art. 23 ust. 1 pkt 6 ustawy, gdy jest to niezbędne do wykonywania zadań określonych w art. 5 ust. 1 ustawy.
@@ -261,20 +264,35 @@ cel i opis przeprowadzonej czynności;
 rodzaj użytych środków technicznych;
 5)
 podpis funkcjonariusza nadzorującego realizację czynności.
+Przepis końcowy
 § 23.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 26 kwietnia 2005 r. w sprawie wydawania osobom poleceń określonego zachowania się, legitymowania, zatrzymywania, przeszukania, kontroli osobistej, przeglądania bagaży i sprawdzania ładunku oraz rejestrowania zdarzeń przez funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 733 oraz z 2017 r. poz. 2405), które utraciło moc na podstawie art. 15 pkt 5 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy o Policji oraz niektórych innych ustaw (Dz. U. poz. 2399 oraz z 2019 r. poz. 1091). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 26 kwietnia 2005 r. w sprawie wydawania osobom poleceń określonego zachowania się, legitymowania, zatrzymywania, przeszukania, kontroli osobistej, przeglądania bagaży i sprawdzania ładunku oraz rejestrowania zdarzeń przez funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 733 oraz z 2017 r. poz. 2405), które utraciło moc na podstawie art. 15 pkt 5 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy o Policji oraz niektórych innych ustaw (Dz. U. poz. 2399 oraz z 2019 r. poz. 1091).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Wydawanie osobom poleceń określonego zachowania się
+#### Rozdział 2 – Wydawanie osobom poleceń określonego zachowania się
 
-#### Rozdział 3 Legitymowanie osób
+#### Rozdział 3 – Legitymowanie osób
 
-#### Rozdział 4 Zatrzymywanie osób
+#### Rozdział 4 – Zatrzymywanie osób
 
-#### Rozdział 5 Przeszukanie osób i pomieszczeń
+#### Rozdział 5 – Przeszukanie osób i pomieszczeń
 
-#### Rozdział 6 Obserwowanie i rejestrowanie obrazu zdarzeń oraz dźwięku towarzyszącego tym zdarzeniom
+#### Rozdział 6 – Obserwowanie i rejestrowanie obrazu zdarzeń oraz dźwięku towarzyszącego tym zdarzeniom
 
-#### Rozdział 7 Przepis końcowy
+#### Rozdział 7 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
 

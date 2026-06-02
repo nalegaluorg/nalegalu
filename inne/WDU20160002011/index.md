@@ -33,20 +33,15 @@ Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og�
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 11 ustawy z dnia 15 stycznia 2016 r. o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r. (Dz. U. poz. 188), który stanowi:
-„
+art. 11 ustawy z dnia 15 stycznia 2016 r. o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r. (Dz. U. poz. 188), który stanowi: „
 
-**Art. 11.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863 oraz z 2015 r. poz. 73, 211, 251, 478, 693, 699, 860, 933, 978, 1197, 1217, 1259, 1296, 1321, 1322, 1333, 1569, 1595, 1607, 1688, 1767, 1784, 1844, 1893, 1925, 1932, 1992 i 2299.) po art. 52f dodaje się art. 52g w brzmieniu: „
+**Art. 11.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.a)Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863 oraz z 2015 r. poz. 73, 211, 251, 478, 693, 699, 860, 933, 978, 1197, 1217, 1259, 1296, 1321, 1322, 1333, 1569, 1595, 1607, 1688, 1767, 1784, 1844, 1893, 1925, 1932, 1992 i 2299.) po art. 52f dodaje się art. 52g w brzmieniu: „
 
 **Art. 52g.** Zwalnia się od podatku dochodowego kwoty jednorazowego dodatku pieniężnego, o którym mowa w ustawie z dnia 15 stycznia 2016 r. o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r. (Dz. U. poz. 188).”. ” ; ” ;
 
 - **2)** art. 2 ustawy z dnia 25 lutego 2016 r. o zmianie ustawy o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r. (Dz. U. poz. 366), który stanowi: „
 
-**Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 marca 2016 r. ” .
-
-Załącznik – Tekst jednolity ustawy z dnia 15 stycznia 2016 r. o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r.
-
-- **a)** Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863 oraz z 2015 r. poz. 73, 211, 251, 478, 693, 699, 860, 933, 978, 1197, 1217, 1259, 1296, 1321, 1322, 1333, 1569, 1595, 1607, 1688, 1767, 1784, 1844, 1893, 1925, 1932, 1992 i 2299.
+**Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 marca 2016 r. ” . a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863 oraz z 2015 r. poz. 73, 211, 251, 478, 693, 699, 860, 933, 978, 1197, 1217, 1259, 1296, 1321, 1322, 1333, 1569, 1595, 1607, 1688, 1767, 1784, 1844, 1893, 1925, 1932, 1992 i 2299. Załącznik – Tekst jednolity ustawy z dnia 15 stycznia 2016 r. o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r.
 
 **Art. 1.** Ustawa określa warunki nabywania prawa do jednorazowego dodatku pieniężnego przysługującego w 2016 r. oraz zasady wypłaty i finansowania tego dodatku. 1. Jednorazowy dodatek pieniężny, zwany dalej „dodatkiem”, przysługuje osobom, które w dniu 29 lutego 2016 r. mają prawo do:
 
@@ -56,7 +51,7 @@ Załącznik – Tekst jednolity ustawy z dnia 15 stycznia 2016 r. o jednorazowym
 - **4)** świadczeń, o których mowa w art. 2 pkt 1 lit. a-c ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2016 r. poz. 1037),
 - **5)** świadczeń, o których mowa w art. 2 pkt 1 lit. a-c ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2016 r. poz. 708),
 - **6)** emerytur i rent, o których mowa w art. 3 pkt 1–3 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2016 r. poz. 887),
-- **7)** świadczeń, o których mowa w art. 100 § 1 i 2 oraz art. 102 § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.),
+- **7)** świadczeń, o których mowa w art. 100 § 1 i 2 oraz art. 102 § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1595 i 1781 oraz z 2016 r. poz. 147, 437, 633, 960 i 1579.),
 - **8)** rent, o których mowa w art. 6 ust. 1 pkt 6–8 oraz art. 49, art. 50 i art. 52 ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2015 r. poz. 1242 i 1442 oraz z 2016 r. poz. 1807),
 - **9)** rent, o których mowa w art. 3 ust. 1 pkt 1 oraz ust. 3 i 4 ustawy z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach (Dz. U. z 2013 r. poz. 737),
 - **10)** renty socjalnej, o której mowa w ustawie z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. z 2013 r. poz. 982 i 1650 oraz z 2014 r. poz. 1175 i 1682),
@@ -65,7 +60,7 @@ Załącznik – Tekst jednolity ustawy z dnia 15 stycznia 2016 r. o jednorazowym
 - **13)** okresowej emerytury kapitałowej, o której mowa w art. 7 ust. 1 ustawy z dnia 21 listopada 2008 r. o emeryturach kapitałowych (Dz. U. z 2014 r. poz. 1097),
 - **14)** emerytury, o której mowa w art. 1 ust. 1 pkt 1 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych (Dz. U. z 2015 r. poz. 965 i 1240 oraz z 2016 r. poz. 615),
 - **15)** świadczenia, o którym mowa w art. 5 ust. 1 ustawy z dnia 22 maja 2009 r. o nauczycielskich świadczeniach kompensacyjnych (Dz. U. poz. 800, z 2011 r. poz. 398 oraz z 2012 r. poz. 637),
-- **16)** okresowej emerytury rolniczej, o której mowa w art. 15 ustawy z dnia 11 maja 2012 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (Dz. U. poz. 637) zwanym dalej „osobami uprawnionymi”, jeżeli wysokość tych świadczeń nie przekracza, na dzień 29 lutego 2016 r., kwoty 2000,00 zł miesięcznie.
+- **16)** okresowej emerytury rolniczej, o której mowa w art. 15 ustawy z dnia 11 maja 2012 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (Dz. U. poz. 637) – zwanym dalej „osobami uprawnionymi”, jeżeli wysokość tych świadczeń nie przekracza, na dzień 29 lutego 2016 r., kwoty 2000,00 zł miesięcznie.
 
 2. Przy ustalaniu wysokości świadczenia uwzględnia się kwotę świadczenia łącznie z dodatkiem pielęgnacyjnym, dodatkiem dla sierot zupełnych oraz innymi dodatkami lub świadczeniami pieniężnymi przysługującymi na podstawie odrębnych przepisów, które są wypłacane przez organy emerytalno-rentowe – w wysokości ustalonej przed dokonaniem potrąceń i egzekucji oraz zmniejszenia na zasadach określonych w ustawach, o których mowa w ust. 1 pkt 4–6 i 11, a także zawieszenia na zasadach określonych w ustawie, o której mowa w ust. 1 pkt 2.
 
@@ -113,9 +108,9 @@ Załącznik – Tekst jednolity ustawy z dnia 15 stycznia 2016 r. o jednorazowym
 
 3. Organem właściwym do monitorowania wykorzystywania limitu wydatków, o którym mowa w ust. 2, jest minister właściwy do spraw finansów publicznych.
 
-**Art. 10.** Z kwoty dodatku nie dokonuje się potrąceń i egzekucji. (pominięty)
+**Art. 10.** Z kwoty dodatku nie dokonuje się potrąceń i egzekucji. (pominięty)Zamieszczony w obwieszczeniu.
 
 **Art. 12.** Wsprawach nieuregulowanych w niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z wyłączeniem art. 136.
 
-**Art. 13.** Ustawa wchodzi w życie z dniem 1 marca 2016 r.
+**Art. 13.** Ustawa wchodzi w życie z dniem 1 marca 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1595 i 1781 oraz z 2016 r. poz. 147, 437, 633, 960 i 1579. 2) Dodany przez art. 1 ustawy z dnia 25 lutego 2016 r. o zmianie ustawy o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r. (Dz. U. poz. 366), która weszła w życie z dniem 19 marca 2016 r., z mocą od dnia 1 marca 2016 r. 3) Zamieszczony w obwieszczeniu.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-28 |
 | Data wydania | 2015-08-26 |
-| Wejście w życie | 2015-09-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001235) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1235/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie wałbrzyskiej specjalnej strefy ekonomicznej (Dz. U. z 2015 r. poz. 1055) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 2921,6993 ha, położone na terenach miast: Bielawa, Bolesławiec, Dzierżoniów, Grodków, Kalisz, Kłodzko, Kudowa-Zdrój, Leszno, Nowa Ruda, Oleśnica, Oława, Opole, Świdnica, Świebodzice, Wałbrzych, Wrocław oraz gmin: Brzeg Dolny, Bystrzyca Kłodzka, Dąbrowa, Długołęka, Góra, Jarocin, Jelcz-Laskowice, Kluczbork, Kłodzko, Kobierzyce, Kościan, Krotoszyn, Książ Wielkopolski, Lewin Brzeski, Namysłów, Niemodlin, Nowa Ruda, Nysa, Oława, Otmuchów, Praszka, Prudnik, Rawicz, Skarbimierz, Strzegom, Strzelin, Syców, Szprotawa, Śrem, Świdnica, Świebodzin, Twardogóra, Wiązów, Wołów, Września, Ząbkowice Śląskie i Żarów.
-” ;
+Strefa obejmuje grunty o powierzchni 2921,6993 ha, położone na terenach miast: Bielawa, Bolesławiec, Dzierżoniów, Grodków, Kalisz, Kłodzko, Kudowa-Zdrój, Leszno, Nowa Ruda, Oleśnica, Oława, Opole, Świdnica, Świebodzice, Wałbrzych, Wrocław oraz gmin: Brzeg Dolny, Bystrzyca Kłodzka, Dąbrowa, Długołęka, Góra, Jarocin, Jelcz-Laskowice, Kluczbork, Kłodzko, Kobierzyce, Kościan, Krotoszyn, Książ Wielkopolski, Lewin Brzeski, Namysłów, Niemodlin, Nowa Ruda, Nysa, Oława, Otmuchów, Praszka, Prudnik, Rawicz, Skarbimierz, Strzegom, Strzelin, Syców, Szprotawa, Śrem, Świdnica, Świebodzin, Twardogóra, Wiązów, Wołów, Września, Ząbkowice Śląskie i Żarów. ” ;
 2)
 w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU WAŁBRZYSKIEJ SPECJALNEJ STREFY EKONOMICZNEJ INVEST-PARK:
 a)

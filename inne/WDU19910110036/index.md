@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1991-01-05 |
 | Data wydania | 1991-02-06 |
-| Wejście w życie | 1991-02-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910110036) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/36/text.pdf) |
+
+Prawa i obowiązki senatorów w Senacie
 
 **Art. 1.** W ustawie z dnia 31 lipca 1985 r. o obowiązkach i prawach posłów na Sejm Polskiej Rzeczypospolitej Ludowej (Dz. U. Nr 37, poz. 173, z 1989 r. Nr 42, poz. 230 i z 1990 r. Nr 10, poz. 58) wprowadza się następujące zmiany:
 
@@ -86,7 +87,7 @@ source: "eli-html"
 
 - **15)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Prawa i obowiązki senatorów w Senacie
+#### Rozdział 3a
 
 **Art. 17a.** Udział w pracach Senatu jest prawem i obowiązkiem każdego senatora. Senatora obowiązuje obecność i czynny udział w posiedzeniach Senatu oraz organów Senatu, do których został wybrany. W wykonywaniu obowiązków senatorskich senator w szczególności ma prawo:
 

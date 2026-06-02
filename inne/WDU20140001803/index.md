@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 4 grudnia 2014 r. w sprawie wniosków o zwrot podatku od wartości dodanej naliczonego w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej
+# Rozporządzenie Ministra Finansówz dnia 4 grudnia 2014 r. w sprawie wniosków o zwrot podatku od wartości dodanej naliczonego w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej Niniejsze rozporządzenie dokonuje w zakresie swej regulacji wdrożenia dyrektywy Rady 2008/8/WE z dnia 12 lutego 2008 r. zmieniającej dyrektywę 2006/112/WE w odniesieniu do miejsca świadczenia usług (Dz. Urz. UE L 44 z 20.02.2008, str. 11) oraz dyrektywy Rady 2008/9/WE z dnia 12 lutego 2008 r. określającej szczegółowe zasady zwrotu podatku od wartości dodanej, przewidzianego w dyrektywie 2006/112/WE, podatnikom niemającym siedziby w państwie członkowskim zwrotu, lecz mającym siedzibę w innym państwie członkowskim (Dz. Urz. UE L 44 z 20.02.2008, str. 23, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-04 |
 | Data wydania | 2014-12-16 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001803) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1803/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Informacje, jakie powinien zawierać wniosek o zwrot podatku od wartości dodanej, oraz sposób opisu niektórych informacji
 Treść rozporządzenia
-Na podstawie art. 89 ust. 8 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 89 ust. 8 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35, 1027 i 1608 oraz z 2014 r. poz. 312, 1171 i 1662.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa informacje, jakie powinien zawierać wniosek podatnika, o którym mowa w art. 15 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, zwany dalej „wnioskiem”, ubiegającego się o zwrot podatku od wartości dodanej w odniesieniu do nabytych przez niego towarów i usług lub w odniesieniu do zaimportowanych przez niego towarów wykorzystywanych do wykonywania czynności dających prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego na terytorium kraju oraz sposób opisu niektórych informacji, warunki i termin składania wniosków.
 § 2.
@@ -46,7 +45,7 @@ Do wniosków za 2014 r. składanych przez podatników stosuje się przepisy doty
 § 4.
 Traci moc rozporządzenie Ministra Finansów z dnia 24 grudnia 2009 r. w sprawie wniosków o zwrot podatku od wartości dodanej naliczonego w innym niż Rzeczpospolita Polska państwie członkowskim Wspólnoty Europejskiej (Dz. U. Nr 224, poz. 1800 oraz z 2010 r. Nr 236, poz. 1556).
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. 2) Niniejsze rozporządzenie dokonuje w zakresie swej regulacji wdrożenia dyrektywy Rady 2008/8/WE z dnia 12 lutego 2008 r. zmieniającej dyrektywę 2006/112/WE w odniesieniu do miejsca świadczenia usług (Dz. Urz. UE L 44 z 20.02.2008, str. 11) oraz dyrektywy Rady 2008/9/WE z dnia 12 lutego 2008 r. określającej szczegółowe zasady zwrotu podatku od wartości dodanej, przewidzianego w dyrektywie 2006/112/WE, podatnikom niemającym siedziby w państwie członkowskim zwrotu, lecz mającym siedzibę w innym państwie członkowskim (Dz. Urz. UE L 44 z 20.02.2008, str. 23, z późn. zm.). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35, 1027 i 1608 oraz z 2014 r. poz. 312, 1171 i 1662.
 Załącznik – Informacje, jakie powinien zawierać wniosek o zwrot podatku od wartości dodanej, oraz sposób opisu niektórych informacji
 1.
 Urząd skarbowy, za pośrednictwem którego przekazywany jest wniosek.
@@ -77,7 +76,7 @@ adres e-mail;
 5)
 Numer Identyfikacji Podatkowej podatnika.
 6.
-Dane dotyczące pełnomocnika (reprezentanta):
+Dane dotyczące pełnomocnika (reprezentanta)Pozycję 6 wypełnia się, jeśli podatnik ustanowił pełnomocnika.:
 1)
 nazwisko i imię;
 2)
@@ -87,7 +86,7 @@ adres e-mail;
 4)
 numer identyfikacyjny.
 7.
-Rodzaj prowadzonej działalności – wskazanie czwartego poziomu kodów NACE Rev. 2, zgodnie z art. 2 ust. 1 lit. d rozporządzenia nr 1893/2006, na podstawie art. 9 rozporządzenia nr 79/2012 lub opis tekstowy.
+Rodzaj prowadzonej działalności – wskazanie czwartego poziomu kodów NACE Rev. 2, zgodnie z art. 2 ust. 1 lit. d rozporządzenia nr 1893/2006Rozporządzenie (WE) nr 1893/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie statystycznej klasyfikacji działalności gospodarczej NACE Rev. 2 i zmieniające rozporządzenie Rady (EWG) nr 3037/90 oraz niektóre rozporządzenia WE w sprawie określonych dziedzin statystycznych (Dz. Urz. UE L 393 z 30.12.2006, str. 1, z późn. zm.)., na podstawie art. 9 rozporządzenia nr 79/2012Rozporządzenie wykonawcze Komisji (UE) nr 79/2012 z dnia 31 stycznia 2012 r. ustanawiające szczegółowe zasady wykonywania niektórych przepisów rozporządzenia Rady (UE) nr 904/2010 w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 29 z 01.02.2012, str. 13, z późn. zm.). lub opis tekstowy.
 8.
 Okres, do którego odnosi się wniosek:
 1)
@@ -101,7 +100,7 @@ usług transportu i usług pomocniczych do takich usług, zwolnionych zgodnie z 
 2)
 dostaw towarów lub świadczenia usług na rzecz osoby zobowiązanej do zapłaty podatku od wartości dodanej zgodnie z przepisami państwa członkowskiego zwrotu implementującymi przepisy art. 194–197 i art. 199 dyrektywy 2006/112/WE.
 10.
-Dane dotyczące rachunku bankowego, na który ma być dokonany zwrot podatku:
+Dane dotyczące rachunku bankowego, na który ma być dokonany zwrot podatkuW przypadku gdy podatnik ustanowił pełnomocnika – możliwa opcja wskazania rachunku wnioskodawcy/pełnomocnika (reprezentanta).:
 1)
 numer IBAN, o którym mowa w przepisach prawa bankowego;
 2)
@@ -117,37 +116,37 @@ adres i kraj sprzedawcy towarów;
 3)
 data i numer dokumentu celnego;
 4)
-rodzaj towarów według kodów i podkodów, o których mowa w załączniku do rozporządzenia nr 79/2012, lub według opisu tekstowego;
+rodzaj towarów według kodów i podkodów, o których mowa w załączniku do rozporządzenia nr 79/2012Rozporządzenie wykonawcze Komisji (UE) nr 79/2012 z dnia 31 stycznia 2012 r. ustanawiające szczegółowe zasady wykonywania niektórych przepisów rozporządzenia Rady (UE) nr 904/2010 w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 29 z 01.02.2012, str. 13, z późn. zm.)., lub według opisu tekstowego;
 5)
 podstawa opodatkowania w walucie państwa członkowskiego zwrotu;
 6)
 kwota podatku od wartości dodanej w walucie państwa członkowskiego zwrotu;
 7)
-obliczenie podatku od wartości dodanej w przypadku stosowania proporcji, o której mowa w art. 89 ust. 1k ustawy – wysokość proporcji (w %);
+obliczenie podatku od wartości dodanej w przypadku stosowania proporcji, o której mowa w art. 89 ust. 1k ustawyUstawa z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.). – wysokość proporcji (w %);
 8)
-kwota podatku od wartości dodanej do zwrotu.
+kwota podatku od wartości dodanej do zwrotuW przypadku stosowania proporcji, o której mowa w art. 89 ust. 1k ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, kwota zwrotu powinna być obliczona z uwzględnieniem tej proporcji..
 12.
 Informacje dotyczące nabytych towarów i usług:
 1)
 imię i nazwisko/nazwa dostawcy towarów lub usług;
 2)
-numer rejestracyjny VAT dostawcy;
+numer rejestracyjny VAT dostawcyW przypadku Niemiec możliwe jest podanie numeru rejestracji podatkowej.W przypadku faktury uproszczonej nie ma konieczności podawania numeru rejestracyjnego VAT dostawcy.;
 3)
 adres i kraj dostawcy towarów i usług;
 4)
 data i numer faktury;
 5)
-rodzaj towarów i usług według kodów i podkodów, o których mowa w załączniku do rozporządzenia nr 79/2012, lub według opisu tekstowego;
+rodzaj towarów i usług według kodów i podkodów, o których mowa w załączniku do rozporządzenia nr 79/2012Rozporządzenie wykonawcze Komisji (UE) nr 79/2012 z dnia 31 stycznia 2012 r. ustanawiające szczegółowe zasady wykonywania niektórych przepisów rozporządzenia Rady (UE) nr 904/2010 w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 29 z 01.02.2012, str. 13, z późn. zm.)., lub według opisu tekstowego;
 6)
 podstawa opodatkowania w walucie państwa członkowskiego zwrotu;
 7)
 kwota podatku od wartości dodanej w walucie państwa członkowskiego zwrotu;
 8)
-obliczenie podatku od wartości dodanej w przypadku stosowania proporcji, o której mowa w art. 89 ust. 1k ustawy – wysokość proporcji (w %);
+obliczenie podatku od wartości dodanej w przypadku stosowania proporcji, o której mowa w art. 89 ust. 1k ustawyUstawa z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.). – wysokość proporcji (w %);
 9)
-kwota podatku od wartości dodanej do zwrotu.
+kwota podatku od wartości dodanej do zwrotuW przypadku stosowania proporcji, o której mowa w art. 89 ust. 1k ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, kwota zwrotu powinna być obliczona z uwzględnieniem tej proporcji..
 13.
-Zmiana proporcji, o której mowa w art. 89 ust. 1l ustawy:
+Zmiana proporcji, o której mowa w art. 89 ust. 1l ustawyUstawa z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.).:
 1)
 okres, do którego odnosi się zmiana:
 a)
@@ -161,6 +160,5 @@ Informacja o załącznikach, jeśli są wymagane – typ i nazwa pliku oraz opis
 15.
 Informacja o wyrażeniu zgody przez podatnika/osobę reprezentującą podatnika na otrzymywanie pism (informacji) w sprawie wniosku za pomocą środków komunikacji elektronicznej, na podany we wniosku adres poczty elektronicznej.
 16.
-Data wypełnienia wniosku.
-1) Pozycję 6 wypełnia się, jeśli podatnik ustanowił pełnomocnika. 2) Rozporządzenie (WE) nr 1893/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie statystycznej klasyfikacji działalności gospodarczej NACE Rev. 2 i zmieniające rozporządzenie Rady (EWG) nr 3037/90 oraz niektóre rozporządzenia WE w sprawie określonych dziedzin statystycznych (Dz. Urz. UE L 393 z 30.12.2006, str. 1, z późn. zm.). 3) Rozporządzenie wykonawcze Komisji (UE) nr 79/2012 z dnia 31 stycznia 2012 r. ustanawiające szczegółowe zasady wykonywania niektórych przepisów rozporządzenia Rady (UE) nr 904/2010 w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 29 z 01.02.2012, str. 13, z późn. zm.). 4) W przypadku gdy podatnik ustanowił pełnomocnika – możliwa opcja wskazania rachunku wnioskodawcy/pełnomocnika (reprezentanta). 5) Ustawa z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.). 6) W przypadku stosowania proporcji, o której mowa w art. 89 ust. 1k ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, kwota zwrotu powinna być obliczona z uwzględnieniem tej proporcji. 7) W przypadku Niemiec możliwe jest podanie numeru rejestracji podatkowej. 8) W przypadku faktury uproszczonej nie ma konieczności podawania numeru rejestracyjnego VAT dostawcy.
+Data wypełnienia wniosku. 1) Pozycję 6 wypełnia się, jeśli podatnik ustanowił pełnomocnika. 2) Rozporządzenie (WE) nr 1893/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie statystycznej klasyfikacji działalności gospodarczej NACE Rev. 2 i zmieniające rozporządzenie Rady (EWG) nr 3037/90 oraz niektóre rozporządzenia WE w sprawie określonych dziedzin statystycznych (Dz. Urz. UE L 393 z 30.12.2006, str. 1, z późn. zm.). 3) Rozporządzenie wykonawcze Komisji (UE) nr 79/2012 z dnia 31 stycznia 2012 r. ustanawiające szczegółowe zasady wykonywania niektórych przepisów rozporządzenia Rady (UE) nr 904/2010 w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 29 z 01.02.2012, str. 13, z późn. zm.). 4) W przypadku gdy podatnik ustanowił pełnomocnika – możliwa opcja wskazania rachunku wnioskodawcy/pełnomocnika (reprezentanta). 5) Ustawa z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.). 6) W przypadku stosowania proporcji, o której mowa w art. 89 ust. 1k ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, kwota zwrotu powinna być obliczona z uwzględnieniem tej proporcji. 7) W przypadku Niemiec możliwe jest podanie numeru rejestracji podatkowej. 8) W przypadku faktury uproszczonej nie ma konieczności podawania numeru rejestracyjnego VAT dostawcy.
 

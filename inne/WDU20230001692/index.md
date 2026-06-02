@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
+# Ustawa z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych, ustawę z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia oraz uchyla się ustawę z dnia 6 listopada 2008 r. o akredytacji w ochronie zdrowia.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,33 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-06-16 |
 | Data wydania | 2023-08-24 |
-| Wejście w życie | 2023-09-08 |
 | Ostatnia zmiana | 2024-10-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001692) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1692/text.pdf) |
 
-#### Rozdział 1 Przepisy ogólne
+Przepisy ogólne
+Autoryzacja
+Wewnętrzny system
+Akredytacja w ochronie zdrowia
+Przepisy ogólne
+Procedura oceniająca
+Udzielenie lub odmowa udzielenia akredytacji
+Rada Akredytacyjna
+Zmiany w przepisach
+Przepisy przejściowe, dostosowujące i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Autoryzacja
+
+#### Rozdział 3 – Wewnętrzny system
+
+#### Rozdział 4 – Akredytacja w ochronie zdrowia
+
+#### Rozdział 5 – Zmiany w przepisach
+
+#### Rozdział 6 – Przepisy przejściowe, dostosowujące i końcowe
+
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -44,7 +66,7 @@ source: "eli-html"
 
 - **3)** podmiot wykonujący działalność leczniczą – podmiot wykonujący działalność leczniczą w rozumieniu art. 2 ust. 1 pkt 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
 - **4)** rodzaj działalności leczniczej – rodzaj działalności leczniczej, o którym mowa w art. 8 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
-- **5)** świadczenia opieki zdrowotnej – świadczenia opieki zdrowotnej w rozumieniu art. 5 pkt 34 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm.), zwanej dalej „ustawą o świadczeniach”;
+- **5)** świadczenia opieki zdrowotnej – świadczenia opieki zdrowotnej w rozumieniu art. 5 pkt 34 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234, 1429 i 1675.), zwanej dalej „ustawą o świadczeniach”;
 - **6)** zakład leczniczy – zakład leczniczy w rozumieniu art. 2 ust. 1 pkt 14 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
 - **7)** zakres świadczeń: jeden z zakresów świadczeń opieki zdrowotnej wymienionych w art. 15 ust. 2 ustawy o świadczeniach lub świadczenie opieki zdrowotnej lub grupę tych świadczeń należące do jednego z zakresów wymienionych w art. 15 ust. 2 ustawy o świadczeniach, które mogą być dodatkowo określone przez wskazanie profilu lub rodzaju komórki organizacyjnej, w których są udzielane, lub świadczenie opieki zdrowotnej lub grupę tych świadczeń, dla których w umowie o udzielanie świadczeń opieki zdrowotnej określa się kwotę finansowania;
     - **a)**
@@ -90,7 +112,7 @@ source: "eli-html"
 
 4. Prezes Funduszu, określając szczegółowe warunki rozliczania świadczeń opieki zdrowotnej, ustala współczynniki korygujące związane z uzyskaniem odpowiedniej wartości realizacji wskaźników jakości opieki zdrowotnej, o których mowa w przepisach wydanych na podstawie art. 4 ust. 2, w odniesieniu do świadczeń opieki zdrowotnej, których dotyczą.
 
-#### Rozdział 2 Autoryzacja
+#### Rozdział 2
 
 **Art. 6.** Autoryzacja jest warunkiem realizacji przez podmiot wykonujący działalność leczniczą w rodzaju świadczenia szpitalne umowy o udzielanie świadczeń opieki zdrowotnej w ramach profili systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej, o którym mowa w art. 95l ustawy o świadczeniach.
 
@@ -228,7 +250,7 @@ source: "eli-html"
 4. W przypadku gdy zawarta z Funduszem umowa o udzielanie świadczeń opieki zdrowotnej objętych autoryzacją zostanie rozwiązana z powodu:
 
 - **1)** utraty przez podmiot wnioskujący uprawnień koniecznych do udzielania świadczeń opieki zdrowotnej,
-- **2)** udzielania świadczeń opieki zdrowotnej w sposób niespełniający warunków wydania autoryzacji, o których mowa w art. 7 Prezes Funduszu cofa autoryzację w zakresie świadczeń objętych umową nie później niż w terminie 14 dni od dnia rozwiązania tej umowy.
+- **2)** udzielania świadczeń opieki zdrowotnej w sposób niespełniający warunków wydania autoryzacji, o których mowa w art. 7 – Prezes Funduszu cofa autoryzację w zakresie świadczeń objętych umową nie później niż w terminie 14 dni od dnia rozwiązania tej umowy.
 
 5. W przypadku zmiany warunków realizacji świadczeń gwarantowanych w rozumieniu art. 5 pkt 35 ustawy o świadczeniach, w zakresie świadczeń objętych autoryzacją, dotychczas wydana autoryzacja zachowuje ważność przez okres, na jaki została wydana.
 
@@ -248,7 +270,7 @@ source: "eli-html"
 
 **Art. 17.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzór wniosku o autoryzację, mając na uwadze zapewnienie sprawności postępowania w sprawie wydania autoryzacji.
 
-#### Rozdział 3 Wewnętrzny system
+#### Rozdział 3
 
 **Art. 18.**
 
@@ -284,9 +306,9 @@ source: "eli-html"
 
 3. Podmiot wykonujący działalność leczniczą inny niż wymieniony w ust. 2 informuje pacjentów, w wybrany przez siebie sposób, o możliwości wypełnienia ankiety badania opinii i doświadczeń pacjentów, w sposób zapewniający swobodę wyrażenia opinii.
 
-#### Rozdział 4 Akredytacja w ochronie zdrowia
+#### Rozdział 4
 
-##### Oddział 1 Przepisy ogólne
+##### Oddział 1
 
 **Art. 21.**
 
@@ -364,7 +386,7 @@ source: "eli-html"
 
 6. Standardy akredytacyjne, które nie mają zastosowania do podmiotu wnioskującego o udzielenie akredytacji, nie są oceniane i nie są ujęte w ocenie, o której mowa w art. 34 ust. 2 pkt 8.
 
-##### Oddział 2 Procedura oceniająca
+##### Oddział 2
 
 **Art. 26.**
 
@@ -545,7 +567,7 @@ source: "eli-html"
 
 3. Zastrzeżenia mogą dotyczyć wyłącznie niezgodności między oceną pojedynczych standardów akredytacyjnych w raporcie z przeglądu a stanem faktycznym i nie mogą dotyczyć żądania zmiany oceny pojedynczych standardów akredytacyjnych na podstawie uzupełnienia ocenianej dokumentacji.
 
-##### Oddział 3 Udzielenie lub odmowa udzielenia akredytacji
+##### Oddział 3
 
 **Art. 36.**
 
@@ -600,7 +622,7 @@ source: "eli-html"
 1. Akredytacja zachowuje ważność przez okres, na jaki jej udzielono, dla podmiotu, który został przekształcony na zasadach określonych:
 
 - **1)** w art. 551–563, art. 567–577 i art. 579–58413 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, 1488, 2280 i 2436 oraz z 2023 r. poz. 739 i 825),
-- **2)** dla samodzielnego publicznego zakładu opieki zdrowotnej zgodnie z art. 69 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej o ile nie doszło do zmiany rodzaju działalności leczniczej albo zakresu świadczeń przez ten podmiot.
+- **2)** dla samodzielnego publicznego zakładu opieki zdrowotnej zgodnie z art. 69 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej – o ile nie doszło do zmiany rodzaju działalności leczniczej albo zakresu świadczeń przez ten podmiot.
 
 2. W przypadku, o którym mowa w ust. 1, nie wydaje się nowego certyfikatu akredytacyjnego.
 
@@ -696,7 +718,7 @@ source: "eli-html"
 - **5)** utraty prawa do korzystania z pełni praw publicznych;
 - **6)** uporczywego uchylania się od wykonywania obowiązków wizytatora albo nieprawidłowego wykonywania tych obowiązków.
 
-##### Oddział 4 Rada Akredytacyjna
+##### Oddział 4
 
 **Art. 47.**
 
@@ -796,9 +818,9 @@ source: "eli-html"
 
 4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość wynagrodzenia członków, wiceprzewodniczących i przewodniczącego Rady Akredytacyjnej, uwzględniając zakres ich zadań.
 
-#### Rozdział 5 Zmiany w przepisach
+#### Rozdział 5
 
-**Art. 54.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 54.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234, 1429 i 1675.) wprowadza się następujące zmiany:
 
 - **1)** w art. 95m w ust. 3 w pkt 2 w lit. c w tiret drugim kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 - **3)** posiada autoryzację, o której mowa w ustawie z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta (Dz. U. poz. 1692), w zakresie profili systemu zabezpieczenia kwalifikujących danego świadczeniodawcę do danego poziomu systemu zabezpieczenia. ” ;
@@ -856,7 +878,7 @@ source: "eli-html"
 - **1)** o rozpoznaniu zgodnie z aktualnie obowiązującą Międzynarodową Klasyfikacją Chorób i Problemów Zdrowotnych,
 - **2)** dotyczące przeprowadzonych badań diagnostycznych, w szczególności dane dotyczące rozpoznań histopatologicznych,
 - **3)** dotyczące pacjenta: wykształcenie, wiek, płeć oraz przyczynę zgonu,
-- **4)** na temat powikłań i wyników odległych, związanych z pogorszeniem jakości życia, bezpośrednio zagrażających życiu lub mogących prowadzić do zgonu pacjenta w formie uniemożliwiającej ich powiązanie z konkretną osobą fizyczną.
+- **4)** na temat powikłań i wyników odległych, związanych z pogorszeniem jakości życia, bezpośrednio zagrażających życiu lub mogących prowadzić do zgonu pacjenta – w formie uniemożliwiającej ich powiązanie z konkretną osobą fizyczną.
 
 7b. Podmiot prowadzący rejestr medyczny określony w przepisach wydanych na podstawie art. 20 ust. 1 jest obowiązany w terminie do dnia 30 listopada roku następnego przedstawić i udostępnić raport analityczny zawierający dane w formie uniemożliwiającej ich powiązanie z konkretną osobą fizyczną na swojej stronie podmiotowej oraz usługodawcom określonym w przepisach wydanych na podstawie art. 20 ust. 1.
 
@@ -895,7 +917,7 @@ source: "eli-html"
     - **c)**
     - **d)**
 
-#### Rozdział 6 Przepisy przejściowe, dostosowujące i końcowe
+#### Rozdział 6
 
 **Art. 58.**
 
@@ -949,6 +971,6 @@ source: "eli-html"
 
 - **1)** art. 26 ust. 1–3 i 5, art. 28–41, art. 44–53, art. 55, art. 56 i art. 66, które wchodzą w życie z dniem 1 stycznia 2024 r.;
 - **2)** art. 22 ust. 6, który wchodzi w życie z dniem 1 stycznia 2025 r.;
-- **3)** art. 26 ust. 4 i 6 oraz art. 27, które wchodzą w życie po upływie 24 miesięcy od dnia ogłoszenia.
+- **3)** art. 26 ust. 4 i 6 oraz art. 27, które wchodzą w życie po upływie 24 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych, ustawę z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia oraz uchyla się ustawę z dnia 6 listopada 2008 r. o akredytacji w ochronie zdrowia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234, 1429 i 1675. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234, 1429 i 1675.
 
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-04-24 |
 | Data wydania | 2009-05-28 |
-| Wejście w życie | 2009-10-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090790667) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/667/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2008 r. Nr 50, poz. 291, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2008 r. Nr 50, poz. 291, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 67, poz. 411, Nr 70, poz. 416, Nr 180, poz. 1112, Nr 227, poz. 1505, Nr 228, poz. 1507 i Nr 237, poz. 1654 i 1656 oraz z 2009 r. Nr 69, poz. 595.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
@@ -141,5 +140,5 @@ source: "eli-html"
 
 3. Składki, o których mowa w ust. 1 i 2, za czwarty kwartał 2009 r. opłaca się w terminie do dnia 31 grudnia 2009 r.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 października 2009 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 października 2009 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 67, poz. 411, Nr 70, poz. 416, Nr 180, poz. 1112, Nr 227, poz. 1505, Nr 228, poz. 1507 i Nr 237, poz. 1654 i 1656 oraz z 2009 r. Nr 69, poz. 595.
 

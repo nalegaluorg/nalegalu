@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 czerwca 2014 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 26 czerwca 2014 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 29 czerwca 1995 r. o statystyce publicznej, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-06-26 |
 | Data wydania | 2014-09-02 |
-| Wejście w życie | 2014-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001161) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1161/text.pdf) |
 
@@ -97,7 +96,7 @@ source: "eli-html"
 - **15)** uchyla się art. 54;
 - **16)** w art. 60 uchyla się ust. 2.
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) w art. 6945 § 1 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945 i 1091.) w art. 6945 § 1 otrzymuje brzmienie: „
 
 § 1. Wpis do Krajowego Rejestru Sądowego następuje na podstawie postanowienia, jeżeli przepis szczególny nie stanowi inaczej. ” .
 
@@ -169,7 +168,7 @@ source: "eli-html"
 - **b)**
 - **c)**
 
-5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzory formularzy zgłoszeń identyfikacyjnych i formularzy zgłoszeń aktualizacyjnych oraz zgłoszeń w zakresie danych uzupełniających, o których mowa w ust. 2b pkt 2, w art. 42 ust. 3a pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z 2013 r. poz. 2 oraz z 2014 r. poz. 1161) i w art. 43 ust. 5b pkt 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r. poz. 1442, z późn. zm.), z wyjątkiem zgłoszeń osób fizycznych będących przedsiębiorcami, biorąc pod uwagę kompletność przekazywanych danych niezbędnych do ewidencji i identyfikacji podatników i płatników oraz konieczność przekazywania danych uzupełniających do krajowego rejestru urzędowego podmiotów gospodarki narodowej oraz Centralnego Rejestru Płatników Składek. ” , ust. 6 otrzymuje brzmienie: „
+5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzory formularzy zgłoszeń identyfikacyjnych i formularzy zgłoszeń aktualizacyjnych oraz zgłoszeń w zakresie danych uzupełniających, o których mowa w ust. 2b pkt 2, w art. 42 ust. 3a pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z 2013 r. poz. 2 oraz z 2014 r. poz. 1161) i w art. 43 ust. 5b pkt 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r. poz. 1442, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1623, 1650 i 1717 oraz z 2014 r. poz. 567, 598, 1146 i 1161.), z wyjątkiem zgłoszeń osób fizycznych będących przedsiębiorcami, biorąc pod uwagę kompletność przekazywanych danych niezbędnych do ewidencji i identyfikacji podatników i płatników oraz konieczność przekazywania danych uzupełniających do krajowego rejestru urzędowego podmiotów gospodarki narodowej oraz Centralnego Rejestru Płatników Składek. ” , ust. 6 otrzymuje brzmienie: „
 
 - **d)**
 
@@ -206,7 +205,7 @@ source: "eli-html"
 
 **Art. 8d.**
 
-1. W zakresie nieuregulowanym w art. 8b i art. 8c do postępowań w sprawie odmowy nadania NIP, unieważnienia lub uchylenia nadanego NIP stosuje się odpowiednio przepisy działu IV ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.). W zakresie wydawania potwierdzeń nadania NIP oraz zaświadczeń i informacji o nadanym NIP stosuje się odpowiednio przepisy działu VIIIa ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+1. W zakresie nieuregulowanym w art. 8b i art. 8c do postępowań w sprawie odmowy nadania NIP, unieważnienia lub uchylenia nadanego NIP stosuje się odpowiednio przepisy działu IV ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289 oraz z 2014 r. poz. 183, 567 i 915.). W zakresie wydawania potwierdzeń nadania NIP oraz zaświadczeń i informacji o nadanym NIP stosuje się odpowiednio przepisy działu VIIIa ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 2. W przypadku ustalenia przez organ podatkowy, że dane adresowe siedziby lub miejsca wykonywania działalności gospodarczej podatnika są fałszywe lub fikcyjne, do postępowania w sprawie uchylenia NIP nie stosuje się art. 165 § 2 i 4 i art. 200 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
@@ -261,7 +260,7 @@ source: "eli-html"
 
 2c. CRP KEP udostępnia za pośrednictwem systemu teleinformatycznego informację o nadanym podmiotowi NIP lub o jego unieważnieniu, uchyleniu lub przywróceniu krajowemu rejestrowi urzędowemu podmiotów gospodarki narodowej i Centralnemu Rejestrowi Płatników Składek. ” .
 
-**Art. 5.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r. poz. 1442, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r. poz. 1442, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1623, 1650 i 1717 oraz z 2014 r. poz. 567, 598 i 1146.) wprowadza się następujące zmiany:
 
 - **1)** w art. 43: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Płatnicy składek, z zastrzeżeniem ust. 5a-5d, są zobowiązani do złożenia druku – zgłoszenie płatnika składek w Zakładzie w terminie 7 dni od: ” , po ust. 5a dodaje się ust. 5b-5d w brzmieniu: „
     - **a)**
@@ -294,7 +293,7 @@ source: "eli-html"
 
 - **1)** wniosek o wpis albo zmianę wpisu do krajowego rejestru urzędowego podmiotów gospodarki narodowej,
 - **2)** zgłoszenie płatnika składek albo jego zmiany w rozumieniu przepisów o systemie ubezpieczeń społecznych,
-- **3)** zgłoszenie identyfikacyjne albo aktualizacyjne, o którym mowa w ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2012 r. poz. 1314 oraz z 2013 r. poz. 2) stosuje się przepisy dotychczasowe, z tym że do przedmiotu działalności, o którym mowa w art. 40 pkt 1 ustawy zmienianej w art. 1, stosuje się przepisy art. 40 pkt 1 tej ustawy, w brzmieniu nadanym niniejszą ustawą.
+- **3)** zgłoszenie identyfikacyjne albo aktualizacyjne, o którym mowa w ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2012 r. poz. 1314 oraz z 2013 r. poz. 2) – stosuje się przepisy dotychczasowe, z tym że do przedmiotu działalności, o którym mowa w art. 40 pkt 1 ustawy zmienianej w art. 1, stosuje się przepisy art. 40 pkt 1 tej ustawy, w brzmieniu nadanym niniejszą ustawą.
 
 2. Nadanie NIP na podstawie zgłoszenia identyfikacyjnego złożonego przed dniem wejścia w życie niniejszej ustawy następuje na podstawie przepisów dotychczasowych.
 
@@ -326,5 +325,5 @@ source: "eli-html"
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 46 ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 46 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 12.** Ustawa wchodzi w życie z dniem 1 grudnia 2014 r.
+**Art. 12.** Ustawa wchodzi w życie z dniem 1 grudnia 2014 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 29 czerwca 1995 r. o statystyce publicznej, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945 i 1091. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1623, 1650 i 1717 oraz z 2014 r. poz. 567, 598, 1146 i 1161. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289 oraz z 2014 r. poz. 183, 567 i 915. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1623, 1650 i 1717 oraz z 2014 r. poz. 567, 598 i 1146.
 

@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-06-28 |
 | Data wydania | 2012-07-05 |
-| Wejście w życie | 2012-07-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000765) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/765/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowe wymagania, które musi spełnić regionalna instytucja finansująca Rozdział 3 – Szczegółowy tryb przeprowadzenia konkursu wyłaniającego regionalną instytucję finansującą Rozdział 4 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 6d ust. 6 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2007 r. Nr 42, poz. 275, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 6d ust. 6 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2007 r. Nr 42, poz. 275, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 116, poz. 730 i 732 i Nr 227, poz. 1505 oraz z 2010 r. Nr 96, poz. 620, Nr 240, poz. 1603 i Nr 257, poz. 1726.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -45,6 +45,7 @@ ustawie – należy przez to rozumieć ustawę z dnia 9 listopada 2000 r. o utwo
 konkursie – należy przez to rozumieć postępowanie mające na celu wyłonienie regionalnej instytucji finansującej;
 4)
 ofercie – należy przez to rozumieć ofertę podmiotu ubiegającego się o pełnienie roli regionalnej instytucji finansującej złożoną w konkursie.
+Szczegółowe wymagania, które musi spełnić regionalna instytucja finansująca
 § 3.
 1.
 Regionalna instytucja finansująca spełnia wymagania w zakresie kwalifikacji pracowników, jeżeli zatrudnia na podstawie umowy o pracę co najmniej 10 pracowników posiadających kwalifikacje niezbędne do realizacji zadań z zakresu, o którym mowa w art. 4 ust. 1 lub 1a ustawy, w tym:
@@ -106,6 +107,7 @@ o łącznej wartości nie niższej niż 3 mln zł;
 nie naruszyła w sposób istotny umów zawartych z Agencją.
 § 7.
 W przypadku gdy podmiot ubiega się o pełnienie roli regionalnej instytucji finansującej w więcej niż jednym województwie, warunki, o których mowa w § 3–5, muszą być spełnione dla każdego województwa.
+Szczegółowy tryb przeprowadzenia konkursu wyłaniającego regionalną instytucję finansującą
 § 8.
 1.
 Konkurs jest ogłaszany w Biuletynie Informacji Publicznej na stronie internetowej Agencji.
@@ -307,14 +309,23 @@ w terminie, o którym mowa w § 10 ust. 1 pkt 13, nie uzyskał rejestracji w Kra
 uchyla się od zawarcia z Agencją umowy na realizację zadań związanych z udzielaniem pomocy finansowej.
 2.
 Jeżeli wybór, o którym mowa w ust. 1, nie został dokonany, Agencja unieważnia konkurs.
+Przepis końcowy
 § 19.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 5 marca 2008 r. w sprawie regionalnych instytucji finansujących (Dz. U. Nr 43, poz. 259), które utraciło moc z dniem 6 lipca 2012 r., zgodnie z art. 2 ustawy z dnia 3 grudnia 2010 r. o zmianie ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. Nr 240, poz. 1603). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 116, poz. 730 i 732 i Nr 227, poz. 1505 oraz z 2010 r. Nr 96, poz. 620, Nr 240, poz. 1603 i Nr 257, poz. 1726. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 5 marca 2008 r. w sprawie regionalnych instytucji finansujących (Dz. U. Nr 43, poz. 259), które utraciło moc z dniem 6 lipca 2012 r., zgodnie z art. 2 ustawy z dnia 3 grudnia 2010 r. o zmianie ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. Nr 240, poz. 1603).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowe wymagania, które musi spełnić regionalna instytucja finansująca
+#### Rozdział 2 – Szczegółowe wymagania, które musi spełnić regionalna instytucja finansująca
 
-#### Rozdział 3 Szczegółowy tryb przeprowadzenia konkursu wyłaniającego regionalną instytucję finansującą
+#### Rozdział 3 – Szczegółowy tryb przeprowadzenia konkursu wyłaniającego regionalną instytucję finansującą
 
-#### Rozdział 4 Przepis końcowy
+#### Rozdział 4 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

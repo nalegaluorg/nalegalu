@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 23 grudnia 2020 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej podmiotu przeprowadzającego eksperyment medyczny
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 23 grudnia 2020 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej podmiotu przeprowadzającego eksperyment medyczny Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-23 |
 | Data wydania | 2020-12-30 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002412) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2412/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 23c ust. 3 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2020 r. poz. 514, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 23c ust. 3 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2020 r. poz. 514, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 567, 1291, 1493, 2112, 2345 i 2401.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy zakres obowiązkowego ubezpieczenia odpowiedzialności cywilnej podmiotu przeprowadzającego eksperyment medyczny, zwanego dalej „ubezpieczeniem OC”, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną tego ubezpieczenia.
 § 2.
@@ -61,6 +60,5 @@ Minimalna suma gwarancyjna ubezpieczenia OC, w okresie ubezpieczenia nie dłużs
 2.
 Kwoty, o których mowa w ust. 1, są ustalane przy zastosowaniu kursu średniego euro, ogłoszonego przez Narodowy Bank Polski po raz pierwszy w roku, w którym umowa ubezpieczenia OC została zawarta.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 567, 1291, 1493, 2112, 2345 i 2401.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r. 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 567, 1291, 1493, 2112, 2345 i 2401.
 

@@ -26,13 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001135) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1135/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Nawiązanie z pracownikiem samorządowym zatrudnianym na podstawie umowy o pracę stosunku pracy i zmiana tego stosunku pracy Rozdział 3 – Obowiązki pracownika samorządowego Rozdział 4 – Uprawnienia pracownika samorządowego Rozdział 4a – Zmiany w podziale terytorialnym państwa Rozdział 5 – Zmiany w przepisach obowiązujących Rozdział 6 – Przepisy przejściowe Rozdział 7 – Przepisy końcowe
+Załącznik – Tekst jednolity ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. z 2022 r. poz. 530), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 26 kwietnia 2024 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw (Dz. U. poz. 721) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 lipca 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje art. 4 i art. 5 ustawy z dnia 26 kwietnia 2024 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw (Dz. U. poz. 721), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje art. 4 i art. 5 ustawy z dnia 26 kwietnia 2024 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw (Dz. U. poz. 721), które stanowią: „
+Przepisy ogólne
+Nawiązanie z pracownikiem samorządowym zatrudnianym na podstawie umowy o pracę stosunku pracy i zmiana tego stosunku pracy
+Obowiązki pracownika samorządowego
+Uprawnienia pracownika samorządowego
+Zmiany w podziale terytorialnym państwa
 Z dniem utworzenia nowej jednostki samorządu terytorialnego powstałej w wyniku połączenia pracownicy samorządowi dotychczasowych urzędów jednostek samorządu terytorialnego stają się pracownikami samorządowymi urzędu nowej jednostki samorządu terytorialnego.
 1.
 Stosunki pracy z wyboru w dotychczasowych urzędach gmin, starostwach powiatowych lub urzędach marszałkowskich wygasają z dniem utworzenia nowej jednostki samorządu terytorialnego.
@@ -44,8 +48,27 @@ Stosunki pracy sekretarza oraz skarbnika gminy, powiatu i województwa wygasają
 Wygaśnięcie stosunku pracy, o którym mowa w ust. 1, pociąga za sobą skutki, jakie przepisy Kodeksu pracy wiążą z rozwiązaniem stosunku pracy za wypowiedzeniem.
 3.
 Pracodawca obowiązany jest powiadomić na piśmie pracownika, o którym mowa w ust. 1, odpowiednio o terminie wygaśnięcia stosunku pracy albo o skutkach nieprzyjęcia nowych warunków pracy lub płacy.
+Zmiany w przepisach obowiązujących
 Art. 44–52.
 (pominięte)
+Przepisy przejściowe
+Przepisy końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Nawiązanie z pracownikiem samorządowym zatrudnianym na podstawie umowy o pracę stosunku pracy i zmiana tego stosunku pracy
+
+#### Rozdział 3 – Obowiązki pracownika samorządowego
+
+#### Rozdział 4 – Uprawnienia pracownika samorządowego
+
+#### Rozdział 4a – Zmiany w podziale terytorialnym państwa
+
+#### Rozdział 5 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 6 – Przepisy przejściowe
+
+#### Rozdział 7 – Przepisy końcowe
 
 **Art. 4.**
 
@@ -55,7 +78,7 @@ Art. 44–52.
 
 **Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** W celu zapewnienia zawodowego, rzetelnego i bezstronnego wykonywania zadań publicznych przez samorząd terytorialny ustanawia się przepisy prawa pracy określające status prawny pracowników samorządowych.
 
@@ -83,11 +106,7 @@ Art. 44–52.
 
 - **1)** urzędniczych, w tym kierowniczych stanowiskach urzędniczych;
 - **2)** (uchylony)
-- **3)** pomocniczych i obsługi.
-
-3. Osoby wyznaczone przez Prezesa Rady Ministrów do pełnienia funkcji albo przejęcia zadań i kompetencji organów jednostek samorządu terytorialnego oraz komisarze rządowi powołani w związku z ustanowieniem zarządu komisarycznego w jednostkach samorządu terytorialnego są zatrudniani w urzędzie jednostki samorządu terytorialnego na podstawie powołania na czas pełnienia funkcji albo wykonywania zadań i kompetencji.
-
-4. W odniesieniu do osób, o których mowa w ust. 3, przepisy o pracownikach samorządowych dotyczące wójta (burmistrza, prezydenta miasta), starosty albo marszałka województwa stosuje się odpowiednio, z tym że wynagrodzenie tych osób ustala Prezes Rady Ministrów.
+- **3)** pomocniczych i obsługi. 3Dodany przez art. 2 ustawy z dnia 26 kwietnia 2024 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw (Dz. U. poz. 721), która weszła w życie z dniem 28 maja 2024 r.. Osoby wyznaczone przez Prezesa Rady Ministrów do pełnienia funkcji albo przejęcia zadań i kompetencji organów jednostek samorządu terytorialnego oraz komisarze rządowi powołani w związku z ustanowieniem zarządu komisarycznego w jednostkach samorządu terytorialnego są zatrudniani w urzędzie jednostki samorządu terytorialnego na podstawie powołania na czas pełnienia funkcji albo wykonywania zadań i kompetencji. 4Dodany przez art. 2 ustawy z dnia 26 kwietnia 2024 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw (Dz. U. poz. 721), która weszła w życie z dniem 28 maja 2024 r.. W odniesieniu do osób, o których mowa w ust. 3, przepisy o pracownikach samorządowych dotyczące wójta (burmistrza, prezydenta miasta), starosty albo marszałka województwa stosuje się odpowiednio, z tym że wynagrodzenie tych osób ustala Prezes Rady Ministrów.
 
 1. W urzędzie gminy, starostwie powiatowym i urzędzie marszałkowskim tworzy się odpowiednio stanowisko sekretarza gminy, powiatu i województwa, zwanego dalej „sekretarzem”.
 
@@ -153,7 +172,7 @@ Art. 44–52.
 
 3. Czynności w sprawach z zakresu prawa pracy wobec pozostałych członków zarządu województwa wykonuje marszałek województwa.
 
-#### Rozdział 2 Nawiązanie z pracownikiem samorządowym zatrudnianym na podstawie umowy o pracę stosunku pracy i zmiana tego stosunku pracy
+#### Rozdział 2
 
 **Art. 11.**
 
@@ -282,7 +301,7 @@ Art. 44–52.
 
 2. Pracownik, o którym mowa w ust. 1, zachowuje prawo do dotychczasowego wynagrodzenia, jeżeli jest ono wyższe od wynagrodzenia przysługującego na nowym stanowisku przez okres 6 miesięcy następujących po miesiącu, w którym pracownik został przeniesiony na nowe stanowisko.
 
-#### Rozdział 3 Obowiązki pracownika samorządowego
+#### Rozdział 3
 
 **Art. 24.**
 
@@ -378,7 +397,7 @@ Art. 44–52.
 
 3. W przypadku umorzenia postępowania karnego albo wydania wyroku uniewinniającego pracownikowi samorządowemu należy wypłacić pozostałą część wynagrodzenia; nie dotyczy to warunkowego umorzenia postępowania karnego.
 
-#### Rozdział 4 Uprawnienia pracownika samorządowego
+#### Rozdział 4
 
 **Art. 36.**
 
@@ -481,11 +500,11 @@ Art. 44–52.
 
 2. Spory ze stosunku pracy pracowników samorządowych rozpoznają właściwe sądy pracy.
 
-#### Rozdział 4a Zmiany w podziale terytorialnym państwa
+#### Rozdział 4a
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących
+#### Rozdział 5
 
-#### Rozdział 6 Przepisy przejściowe
+#### Rozdział 6
 
 **Art. 53.**
 
@@ -560,9 +579,9 @@ Art. 44–52.
 
 2. Do dnia 31 grudnia 2011 r. w stosunku do pracowników samorządowych mianowanych stosuje się dotychczasowe przepisy dotyczące wynagrodzeń.
 
-#### Rozdział 7 Przepisy końcowe
+#### Rozdział 7
 
-**Art. 60.** Traci moc ustawa z dnia 22 marca 1990 r. o pracownikach samorządowych (Dz. U. z 2001 r. poz. 1593, z późn. zm.).
+**Art. 60.** Traci moc ustawa z dnia 22 marca 1990 r. o pracownikach samorządowych (Dz. U. z 2001 r. poz. 1593, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. poz. 984 i 1806, z 2005 r. poz. 71, 192 i 1020 oraz z 2006 r. poz. 549, 1201 i 1218.).
 
-**Art. 61.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r., z tym że art. 45 pkt 3, art. 49 pkt 3 oraz art. 50 pkt 3 mają zastosowanie do kadencji następujących po kadencji, w czasie której trwania ustawa weszła w życie.
+**Art. 61.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r., z tym że art. 45 pkt 3, art. 49 pkt 3 oraz art. 50 pkt 3 mają zastosowanie do kadencji następujących po kadencji, w czasie której trwania ustawa weszła w życie. 1) Dodany przez art. 2 ustawy z dnia 26 kwietnia 2024 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw (Dz. U. poz. 721), która weszła w życie z dniem 28 maja 2024 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. poz. 984 i 1806, z 2005 r. poz. 71, 192 i 1020 oraz z 2006 r. poz. 549, 1201 i 1218.
 

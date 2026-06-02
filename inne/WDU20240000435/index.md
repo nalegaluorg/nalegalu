@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 18 marca 2024 r. w sprawie wymagań dotyczących sposobu obliczania, pomiarów i rejestracji ilości energii elektrycznej, ciepła i chłodu wytwarzanych w instalacjach odnawialnego źródła energii
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 18 marca 2024 r. w sprawie wymagań dotyczących sposobu obliczania, pomiarów i rejestracji ilości energii elektrycznej, ciepła i chłodu wytwarzanych w instalacjach odnawialnego źródła energii Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-18 |
 | Data wydania | 2024-03-22 |
-| Wejście w życie | 2024-03-30 |
 | Ostatnia zmiana | 2024-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000435) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/435/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 61 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2023 r. poz. 1436, 1597, 1681 i 1762) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 listopada 2023 r. pod numerem 2023/0667/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 61 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2023 r. poz. 1436, 1597, 1681 i 1762) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -53,7 +52,7 @@ W przypadku instalacji odnawialnego źródła energii, w której energia elektry
 1)
 kompetencje w zakresie pomiarów i badań oraz ich dokumentowania, w tym kompetencje techniczne i biegłość zgodne z aktualnym poziomem wiedzy i najlepszą praktyką, w szczególności określone w normie PN-EN ISO/IEC 17025 „Ogólne wymagania dotyczące kompetencji laboratoriów badawczych i wzorcujących”;
 2)
-akredytację jednostki certyfikującej uzyskaną zgodnie z przepisami rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30, z późn. zm.).
+akredytację jednostki certyfikującej uzyskaną zgodnie z przepisami rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 169 z 25.06.2019, str. 1..
 § 4.
 W przypadku wytworzenia energii elektrycznej, ciepła lub chłodu w instalacji odnawialnego źródła energii w procesie spalania biomasy, biopłynów, biogazu lub biogazu rolniczego wspólnie z innymi paliwami, w celu obliczenia ilości tej energii elektrycznej, ciepła i chłodu dokonuje się pomiarów ilości:
 1)
@@ -90,8 +89,7 @@ W przypadku wytwarzania energii elektrycznej, ciepła lub chłodu w układzie hy
 1)
 z odnawialnych źródeł energii,
 2)
-ze źródeł innych niż odnawialne
-o ile nie są dokonywane pomiary i obliczenia, o których mowa w § 4–6.
+ze źródeł innych niż odnawialne – o ile nie są dokonywane pomiary i obliczenia, o których mowa w § 4–6.
 § 8.
 Ilość energii elektrycznej, ciepła i chłodu wytwarzanych w instalacjach odnawialnego źródła energii wykorzystujących w procesie wytwarzania energii nośniki energii, o których mowa w art. 2 pkt 22 ustawy, oraz inne paliwa oblicza się, sumując wartości uzyskane w wyniku pomiarów i obliczeń dokonanych zgodnie z § 2 i 4–7, z uwzględnieniem obliczeń dokonanych w sposób określony w § 9–11.
 § 9.
@@ -137,6 +135,5 @@ Ilość wytworzonego ciepła lub chłodu wyrażoną w GJ przelicza się na iloś
 § 15.
 Przepis § 13 pkt 1 w zakresie, w jakim dotyczy ilości energii elektrycznej na potrzeby ustalenia rzeczywistego rozliczenia obowiązku wytworzenia energii elektrycznej z odnawialnych źródeł energii przez wytwórcę, który wygrał aukcję na wsparcie operacyjne, o której mowa w art. 83b ust. 1 ustawy, lub uzyskał zaświadczenie, o którym mowa w art. 70h ust. 5 ustawy, stosuje się od dnia 1 lipca 2025 r.
 § 16.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 listopada 2023 r. pod numerem 2023/0667/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 169 z 25.06.2019, str. 1. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Energii z dnia 7 sierpnia 2018 r. w sprawie wymagań dotyczących sposobu obliczania, pomiarów i rejestracji ilości energii elektrycznej lub ciepła wytwarzanych w instalacjach odnawialnego źródła energii (Dz. U. poz. 1596), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 47 pkt 4 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1762).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszeniaNiniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Energii z dnia 7 sierpnia 2018 r. w sprawie wymagań dotyczących sposobu obliczania, pomiarów i rejestracji ilości energii elektrycznej lub ciepła wytwarzanych w instalacjach odnawialnego źródła energii (Dz. U. poz. 1596), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 47 pkt 4 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1762).. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 listopada 2023 r. pod numerem 2023/0667/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 169 z 25.06.2019, str. 1. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Energii z dnia 7 sierpnia 2018 r. w sprawie wymagań dotyczących sposobu obliczania, pomiarów i rejestracji ilości energii elektrycznej lub ciepła wytwarzanych w instalacjach odnawialnego źródła energii (Dz. U. poz. 1596), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 47 pkt 4 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1762).
 

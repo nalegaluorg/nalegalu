@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-28 |
 | Data wydania | 2017-09-01 |
-| Wejście w życie | 2017-09-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001666) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1666/text.pdf) |
 
@@ -35,19 +34,15 @@ tytuł rozporządzenia otrzymuje brzmienie: „ w sprawie realizacji przez Agenc
 2)
 w § 1 wyrazy „Agencję Rynku Rolnego” zastępuje się wyrazami „Agencję Restrukturyzacji i Modernizacji Rolnictwa”;
 3)
-w § 2 pkt 3 otrzymuje brzmienie:
-„
+w § 2 pkt 3 otrzymuje brzmienie: „
 3)
-art. 3 ust. 1 rozporządzenia 2017/647 – przeprowadza kontrole; do tych kontroli stosuje się odpowiednio art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych.
-” ;
+art. 3 ust. 1 rozporządzenia 2017/647 – przeprowadza kontrole; do tych kontroli stosuje się odpowiednio art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych. ” ;
 4)
 użyty w § 6 ust. 1, § 8 we wprowadzeniu do wyliczenia, § 10 ust. 3 oraz § 12 ust. 1 wyraz „terenowego” zastępuje się wyrazem „regionalnego”;
 5)
-§ 11 otrzymuje brzmienie:
-„
+§ 11 otrzymuje brzmienie: „
 § 11.
-Środki finansowe z tytułu pomocy wypłaca się w terminie 21 dni od dnia wydania decyzji administracyjnej, o której mowa w § 6 ust. 1, nie później niż do dnia 30 września 2017 r.
-” .
+Środki finansowe z tytułu pomocy wypłaca się w terminie 21 dni od dnia wydania decyzji administracyjnej, o której mowa w § 6 ust. 1, nie później niż do dnia 30 września 2017 r. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

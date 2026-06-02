@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 27 lipca 2022 r. w sprawie zakresu czynności o charakterze pomocniczym wykonywanych przez osoby niebędące pracownikami Inspekcji Weterynaryjnej oraz kwalifikacji tych osób
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 27 lipca 2022 r. w sprawie zakresu czynności o charakterze pomocniczym wykonywanych przez osoby niebędące pracownikami Inspekcji Weterynaryjnej oraz kwalifikacji tych osób Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-27 |
 | Data wydania | 2022-08-08 |
-| Wejście w życie | 2022-08-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001662) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1662/text.pdf) |
 
@@ -42,8 +41,7 @@ szczepień ochronnych i badań rozpoznawczych,
 c)
 pobierania próbek do badań,
 d)
-sekcji zwłok zwierzęcych
-w tym w zakresie dokumentowania wykonywanych czynności;
+sekcji zwłok zwierzęcych – w tym w zakresie dokumentowania wykonywanych czynności;
 2)
 mające na celu poskramianie zwierząt.
 2.
@@ -51,11 +49,9 @@ Do wykonywania czynności o charakterze pomocniczym, o których mowa w ust. 1 pk
 1)
 lit. a – w przypadku wykonywania przez lekarza weterynarii badań klinicznych zwierząt gatunku pszczoła miodna (Apis mellifera),
 2)
-lit. c – w przypadku pobierania przez lekarza weterynarii próbek do badań w miejscu utrzymywania zwierząt, o których mowa w pkt 1
-powiatowy lekarz weterynarii może także wyznaczyć osobę mającą tytuł pszczelarza lub tytuł technika pszczelarza, która przez co najmniej dwa lata samodzielnie prowadziła działalność w zakresie utrzymywania zwierząt gatunku pszczoła miodna (Apis mellifera).
+lit. c – w przypadku pobierania przez lekarza weterynarii próbek do badań w miejscu utrzymywania zwierząt, o których mowa w pkt 1 – powiatowy lekarz weterynarii może także wyznaczyć osobę mającą tytuł pszczelarza lub tytuł technika pszczelarza, która przez co najmniej dwa lata samodzielnie prowadziła działalność w zakresie utrzymywania zwierząt gatunku pszczoła miodna (Apis mellifera).
 3.
 Do wykonywania czynności o charakterze pomocniczym, o których mowa w ust. 1 pkt 2, powiatowy lekarz weterynarii może wyznaczyć osoby mające doświadczenie w zakresie poskramiania zwierząt lub osoby, które zostaną przyuczone przez lekarza weterynarii do wykonywania tych czynności.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 11 sierpnia 2022 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 22 kwietnia 2004 r. w sprawie zakresu czynności wykonywanych przez osoby niebędące pracownikami Inspekcji Weterynaryjnej oraz kwalifikacji tych osób (Dz. U. poz. 860 oraz z 2008 r. poz. 1034), które traci moc z dniem 11 sierpnia 2022 r. w związku z wejściem w życie ustawy z dnia 23 czerwca 2022 r. o zmianie ustawy o Inspekcji Weterynaryjnej oraz niektórych innych ustaw (Dz. U. poz. 1570).
+Rozporządzenie wchodzi w życie z dniem 11 sierpnia 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 22 kwietnia 2004 r. w sprawie zakresu czynności wykonywanych przez osoby niebędące pracownikami Inspekcji Weterynaryjnej oraz kwalifikacji tych osób (Dz. U. poz. 860 oraz z 2008 r. poz. 1034), które traci moc z dniem 11 sierpnia 2022 r. w związku z wejściem w życie ustawy z dnia 23 czerwca 2022 r. o zmianie ustawy o Inspekcji Weterynaryjnej oraz niektórych innych ustaw (Dz. U. poz. 1570). 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 22 kwietnia 2004 r. w sprawie zakresu czynności wykonywanych przez osoby niebędące pracownikami Inspekcji Weterynaryjnej oraz kwalifikacji tych osób (Dz. U. poz. 860 oraz z 2008 r. poz. 1034), które traci moc z dniem 11 sierpnia 2022 r. w związku z wejściem w życie ustawy z dnia 23 czerwca 2022 r. o zmianie ustawy o Inspekcji Weterynaryjnej oraz niektórych innych ustaw (Dz. U. poz. 1570).
 

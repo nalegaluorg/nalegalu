@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-28 |
 | Data wydania | 2014-12-08 |
-| Wejście w życie | 2015-01-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001738) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1738/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 12 ust. 1 pkt 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.) zarządza się, co następuje:
+Na podstawie art. 12 ust. 1 pkt 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529, z 2013 r. poz. 628, 675, 1351, 1635 i 1650 oraz z 2014 r. poz. 24, 486, 502, 538, 616, 1055 i 1199. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371.) zarządza się, co następuje:
 § 1.
 Na uzbrojenie Policji składają się:
 1)
@@ -85,5 +84,5 @@ Wzory i typy uzbrojenia, o którym mowa w § 1 pkt 1–6, 8, 10 i 16, ustala Kom
 § 3.
 Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 listopada 2000 r. w sprawie uzbrojenia Policji (Dz. U. z 2001 r. Nr 14, poz. 139 oraz z 2005 r. Nr 135, poz. 1142).
 § 4.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529, z 2013 r. poz. 628, 675, 1351, 1635 i 1650 oraz z 2014 r. poz. 24, 486, 502, 538, 616, 1055 i 1199. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371.
 

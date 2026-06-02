@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-10-30 |
 | Data wydania | 2003-12-08 |
-| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032082018) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2018/text.pdf) |
 
@@ -115,7 +114,7 @@ source: "eli-html"
 7. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego, po zasięgnięciu opinii Krajowej Rady Lekarsko-Weterynaryjnej, określi, w drodze rozporządzenia:
 
 - **1)** zakres znajomości języka polskiego w mowie i piśmie, niezbędnej do wykonywania zawodu lekarza weterynarii,
-- **2)** sposób i tryb przeprowadzania egzaminu, o którym mowa w ust. 3, oraz wysokość opłaty za ten egzamin uwzględniając zakres uprawnień zawodowych określonych w art. 1 ust. 1 i 2.
+- **2)** sposób i tryb przeprowadzania egzaminu, o którym mowa w ust. 3, oraz wysokość opłaty za ten egzamin – uwzględniając zakres uprawnień zawodowych określonych w art. 1 ust. 1 i 2.
 
 1. Lekarz weterynarii będący obywatelem państwa członkowskiego Unii Europejskiej i posiadający prawo wykonywania zawodu lekarza weterynarii w państwie członkowskim Unii Europejskiej może czasowo wykonywać zawód na terytorium Rzeczypospolitej Polskiej, bez konieczności wpisu do rejestru członków okręgowej izby lekarsko-weterynaryjnej prowadzonego przez okręgową radę lekarsko-weterynaryjną, jeżeli:
 

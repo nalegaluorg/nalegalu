@@ -34,12 +34,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 16 stycznia 2017 r. w sprawie komisji psychiatrycznej do spraw środków zabezpieczających i wykonywania środków zabezpieczających w zakładach psychiatrycznych (Dz. U. poz. 119), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 30 lipca 2018 r. zmieniającym rozporządzenie w sprawie komisji psychiatrycznej do spraw środków zabezpieczających i wykonywania środków zabezpieczających w zakładach psychiatrycznych (Dz. U. poz. 1538).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 30 lipca 2018 r. zmieniającego rozporządzenie w sprawie komisji psychiatrycznej do spraw środków zabezpieczających i wykonywania środków zabezpieczających w zakładach psychiatrycznych (Dz. U. poz. 1538), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 30 lipca 2018 r. zmieniającego rozporządzenie w sprawie komisji psychiatrycznej do spraw środków zabezpieczających i wykonywania środków zabezpieczających w zakładach psychiatrycznych (Dz. U. poz. 1538), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Tekst jednolity rozporządzenia Ministra Zdrowia z dnia 16 stycznia 2017 r. w sprawie komisji psychiatrycznej do spraw środków zabezpieczających i wykonywania środków zabezpieczających w zakładach psychiatrycznych
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Zdrowia z dnia 16 stycznia 2017 r. w sprawie komisji psychiatrycznej do spraw środków zabezpieczających i wykonywania środków zabezpieczających w zakładach psychiatrycznychMinister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 Na podstawie art. 201 § 4 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2020 r. poz. 523 i 568) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -61,8 +59,8 @@ Instytutu Psychiatrii i Neurologii w Warszawie – 2 osoby;
 3)
 Sekcji Psychiatrii Sądowej Polskiego Towarzystwa Psychiatrycznego – 1 osoba;
 4)
-Regionalnych Ośrodków Psychiatrii Sądowej – 2 osoby;
-4a)
+Regionalnych Ośrodków Psychiatrii Sądowej – 2 osobyZe zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 30 lipca 2018 r. zmieniającego rozporządzenie w sprawie komisji psychiatrycznej do spraw środków zabezpieczających i wykonywania środków zabezpieczających w zakładach psychiatrycznych (Dz. U. poz. 1538), które weszło w życie z dniem 24 sierpnia 2018 r.;
+4aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 Krajowego Ośrodka Zapobiegania Zachowaniom Dyssocjalnym – 1 osoba;
 5)
 zgłoszeni przez Komisję do spraw Szpitalnictwa Psychiatrycznego Polskiego Towarzystwa Psychiatrycznego – 1 osoba.
@@ -167,8 +165,7 @@ Regulamin organizacyjno-porządkowy wykonywania środków zabezpieczających sta
 § 10.
 Członkowie Komisji powołani na podstawie dotychczasowych przepisów pełnią swoje funkcje do czasu upływu kadencji, na którą zostali powołani.
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 30 lipca 2018 r. zmieniającego rozporządzenie w sprawie komisji psychiatrycznej do spraw środków zabezpieczających i wykonywania środków zabezpieczających w zakładach psychiatrycznych (Dz. U. poz. 1538), które weszło w życie z dniem 24 sierpnia 2018 r. 3) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Rozporządzenie zostało ogłoszone w dniu 19 stycznia 2017 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 10 sierpnia 2004 r. w sprawie wykazu zakładów psychiatrycznych i zakładów leczenia odwykowego przeznaczonych do wykonywania środków zabezpieczających oraz składu, trybu powoływania i zadań komisji psychiatrycznej do spraw środków zabezpieczających (Dz. U. z 2016 r. poz. 1133), które utraciło moc z dniem 2 stycznia 2017 r. zgodnie z art. 27 pkt 1 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 19 stycznia 2017 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 10 sierpnia 2004 r. w sprawie wykazu zakładów psychiatrycznych i zakładów leczenia odwykowego przeznaczonych do wykonywania środków zabezpieczających oraz składu, trybu powoływania i zadań komisji psychiatrycznej do spraw środków zabezpieczających (Dz. U. z 2016 r. poz. 1133), które utraciło moc z dniem 2 stycznia 2017 r. zgodnie z art. 27 pkt 1 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 30 lipca 2018 r. zmieniającego rozporządzenie w sprawie komisji psychiatrycznej do spraw środków zabezpieczających i wykonywania środków zabezpieczających w zakładach psychiatrycznych (Dz. U. poz. 1538), które weszło w życie z dniem 24 sierpnia 2018 r. 3) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Rozporządzenie zostało ogłoszone w dniu 19 stycznia 2017 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 10 sierpnia 2004 r. w sprawie wykazu zakładów psychiatrycznych i zakładów leczenia odwykowego przeznaczonych do wykonywania środków zabezpieczających oraz składu, trybu powoływania i zadań komisji psychiatrycznej do spraw środków zabezpieczających (Dz. U. z 2016 r. poz. 1133), które utraciło moc z dniem 2 stycznia 2017 r. zgodnie z art. 27 pkt 1 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396).
 
 ## Załącznik nr 1 — – Regulamin organizacyjno-porządkowy wykonywania środków zabezpieczających
 

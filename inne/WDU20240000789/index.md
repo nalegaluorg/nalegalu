@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Finansówz dnia 21 maja 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie Rejestru Należności Publicznoprawnych
+# Obwieszczenie Ministra Finansówz dnia 21 maja 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie Rejestru Należności Publicznoprawnych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -37,23 +37,18 @@ rozporządzeniem Ministra Finansów z dnia 11 listopada 2023 r. zmieniającym ro
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 i § 3 rozporządzenia Ministra Finansów z dnia 2 lutego 2023 r. zmieniającego rozporządzenie w sprawie Rejestru Należności Publicznoprawnych (Dz. U. poz. 298), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Finansów z dnia 2 lutego 2023 r. zmieniającego rozporządzenie w sprawie Rejestru Należności Publicznoprawnych (Dz. U. poz. 298), które stanowią: „
 § 2.
 Do korzystania z Rejestru Należności Publicznoprawnych przed dniem określonym w obwieszczeniu wydanym na podstawie art. 27 ust. 1 pkt 4 ustawy z dnia 8 czerwca 2022 r. o zmianie niektórych ustaw w celu automatyzacji załatwiania niektórych spraw przez Krajową Administrację Skarbową (Dz. U. poz. 1301 i 2707) stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Finansów z dnia 11 listopada 2023 r. zmieniającego rozporządzenie w sprawie Rejestru Należności Publicznoprawnych (Dz. U. poz. 2472), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Finansów z dnia 11 listopada 2023 r. zmieniającego rozporządzenie w sprawie Rejestru Należności Publicznoprawnych (Dz. U. poz. 2472), które stanowią: „
 § 2.
 Do doręczeń pomiędzy wierzycielem lub podmiotem, o którym mowa w art. 18q § 2 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, niebędącymi organami Krajowej Administracji Skarbowej a organem prowadzącym Rejestr Należności Publicznoprawnych, dokonywanych przed dniem, w którym ostatni z podmiotów, pomiędzy którymi dokonywane jest doręczenie, stał się obowiązany do stosowania przepisów ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285 i 1860) w zakresie doręczania korespondencji z wykorzystaniem publicznej usługi rejestrowanego doręczenia elektronicznego, stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
-Załącznik – Rozporządzenie Ministra Finansów z dnia 4 czerwca 2018 r. w sprawie Rejestru Należności Publicznoprawnych
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Załącznik – Rozporządzenie Ministra Finansów z dnia 4 czerwca 2018 r. w sprawie Rejestru Należności PublicznoprawnychNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 Na podstawie art. 18m ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505 i 2760) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -63,17 +58,16 @@ sposób i tryb korzystania z Rejestru Należności Publicznoprawnych, zwanego da
 tryb i sposób wprowadzania danych do rejestru;
 3)
 formaty danych wymagane przy wprowadzaniu danych do rejestru.
-§ 2.
+§ 2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 11 listopada 2023 r. zmieniającego rozporządzenie w sprawie Rejestru Należności Publicznoprawnych (Dz. U. poz. 2472), które weszło w życie z dniem 15 listopada 2023 r..
 1.
 Organ prowadzący rejestr nadaje wierzycielowi, o którym mowa w art. 18b § 1 ustawy:
 1)
 niebędącemu organem Krajowej Administracji Skarbowej – na wniosek,
 2)
-będącemu organem Krajowej Administracji Skarbowej – z urzędu
-identyfikator i hasło uprawniające do korzystania z systemu teleinformatycznego, w którym prowadzony jest rejestr, zwanego dalej „systemem”.
+będącemu organem Krajowej Administracji Skarbowej – z urzędu – identyfikator i hasło uprawniające do korzystania z systemu teleinformatycznego, w którym prowadzony jest rejestr, zwanego dalej „systemem”.
 2.
 Wniosek, o którym mowa w ust. 1 pkt 1, jest opatrywany kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym oraz doręczany z wykorzystaniem publicznej usługi rejestrowanego doręczenia elektronicznego w rozumieniu art. 2 pkt 8 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285, 1860 i 2699).
-§ 3.
+§ 3W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 11 listopada 2023 r. zmieniającego rozporządzenie w sprawie Rejestru Należności Publicznoprawnych (Dz. U. poz. 2472), które weszło w życie z dniem 15 listopada 2023 r..
 1.
 Udostępnienie danych z rejestru w sposób, o którym mowa w art. 18k § 3:
 1)
@@ -87,8 +81,8 @@ z urzędu – w przypadku podmiotu uprawnionego będącego organem Krajowej Admi
 2)
 na wniosek opatrzony kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, doręczony z wykorzystaniem publicznej usługi rejestrowanego doręczenia elektronicznego w rozumieniu art. 2 pkt 8 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych – w przypadku podmiotu uprawnionego niebędącego organem Krajowej Administracji Skarbowej.
 § 4.
-(uchylony).
-§ 5.
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
+§ 5W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów z dnia 2 lutego 2023 r. zmieniającego rozporządzenie w sprawie Rejestru Należności Publicznoprawnych (Dz. U. poz. 298), które weszło w życie z dniem 3 marca 2023 r..
 Korzystając z rejestru, zobowiązany oraz podmiot zainteresowany używają swojego konta w e-Urzędzie Skarbowym.
 § 6.
 Podmiot zainteresowany w celu wyszukiwania w rejestrze zobowiązanego, jako kryterium wyszukiwania zobowiązanego będącego:
@@ -240,6 +234,5 @@ pkt 9 ustawy, podaje się informację o zakończeniu postępowania, w którym uc
 § 11.
 Do rejestru wprowadza się dane w formacie XML według struktury logicznej udostępnionej w Biuletynie Informacji Publicznej na stronie podmiotowej organu prowadzącego rejestr.
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 11 listopada 2023 r. zmieniającego rozporządzenie w sprawie Rejestru Należności Publicznoprawnych (Dz. U. poz. 2472), które weszło w życie z dniem 15 listopada 2023 r. 3) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów z dnia 2 lutego 2023 r. zmieniającego rozporządzenie w sprawie Rejestru Należności Publicznoprawnych (Dz. U. poz. 298), które weszło w życie z dniem 3 marca 2023 r. 5) Rozporządzenie zostało ogłoszone w dniu 12 czerwca 2018 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 12 czerwca 2018 r.. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 11 listopada 2023 r. zmieniającego rozporządzenie w sprawie Rejestru Należności Publicznoprawnych (Dz. U. poz. 2472), które weszło w życie z dniem 15 listopada 2023 r. 3) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów z dnia 2 lutego 2023 r. zmieniającego rozporządzenie w sprawie Rejestru Należności Publicznoprawnych (Dz. U. poz. 298), które weszło w życie z dniem 3 marca 2023 r. 5) Rozporządzenie zostało ogłoszone w dniu 12 czerwca 2018 r.
 

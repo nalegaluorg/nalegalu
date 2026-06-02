@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 24 stycznia 2019 r. zmieniające rozporządzenie w sprawie okoliczności, w jakich są używane pojazdy uprzywilejowane w kolumnach
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 24 stycznia 2019 r. zmieniające rozporządzenie w sprawie okoliczności, w jakich są używane pojazdy uprzywilejowane w kolumnach Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-01-24 |
 | Data wydania | 2019-01-29 |
-| Wejście w życie | 2019-01-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000170) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/170/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 53 ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu d
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 2 września 2002 r. w sprawie okoliczności, w jakich są używane pojazdy uprzywilejowane w kolumnach (Dz. U. poz. 1377) użyte w § 1 w pkt 2 wyrazy „Biura Ochrony Rządu” zastępuje się wyrazami „Służby Ochrony Państwa”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 

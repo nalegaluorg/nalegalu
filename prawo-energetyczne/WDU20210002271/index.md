@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-02 |
 | Data wydania | 2021-12-09 |
-| Wejście w życie | 2021-12-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002271) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2271/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, z późn. zm.) po art. 62e dodaje się art. 62f w brzmieniu: „
+**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873 i 2269.) po art. 62e dodaje się art. 62f w brzmieniu: „
 
 **Art. 62f.**
 
@@ -51,7 +50,7 @@ source: "eli-html"
 **Art. 2.** Do taryf na obrót paliwami gazowymi zatwierdzonych przed dniem wejścia w życie niniejszej ustawy oraz do wniosków o zatwierdzenie taryf na obrót paliwami gazowymi złożonych przed dniem wejścia w życie niniejszej ustawy i do tego dnia nierozpatrzonych stosuje się art. 62f ustawy zmienianej w art. 1 pod warunkiem złożenia przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu paliwami gazowymi:
 
 - **1)** wniosku o zmianę takiej taryfy,
-- **2)** korekty wniosku o zatwierdzenie taryfy w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
+- **2)** korekty wniosku o zatwierdzenie taryfy – w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873 i 2269.
 

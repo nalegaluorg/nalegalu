@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 10 sierpnia 2018 r. w sprawie umundurowania funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1690), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Obrony Narodowej z dnia 8 listopada 2022 r. zmieniającym rozporządzenie w sprawie umundurowania funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 2353).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 8 listopada 2022 r. zmieniającego rozporządzenie w sprawie umundurowania funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 2353), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 8 listopada 2022 r. zmieniającego rozporządzenie w sprawie umundurowania funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 2353), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 10 sierpnia 2018 r. w sprawie umundurowania funkcjonariuszy Służby Wywiadu Wojskowego
 Na podstawie art. 46 ust. 1 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2023 r. poz. 2098) zarządza się, co następuje:
 § 1.
@@ -53,7 +51,7 @@ wyjściowego;
 służbowego;
 5)
 polowego.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 8 listopada 2022 r. zmieniającego rozporządzenie w sprawie umundurowania funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 2353), które weszło w życie z dniem 3 grudnia 2022 r..
 Funkcjonariusze otrzymują umundurowanie zgodne z wzorami ubiorów, o których mowa w ust. 1, określonymi w przepisach wydanych na podstawie art. 270 ust. 2 pkt 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r. poz. 347, 641, 1615, 1834 i 1872) dla żołnierzy zawodowych Wojsk Lądowych.
 § 3.
 1.
@@ -65,7 +63,7 @@ Do ubioru polowego w okresie zimowym funkcjonariusze mogą nosić czapkę zimow�
 Orzeł noszony na kołnierzu kurtek mundurowych i kołnierzu płaszcza sukiennego generała jest haftowany srebrzystym bajorkiem. Korona, dziób i szpony są haftowane bajorkiem złocistym.
 2.
 Na guzikach kurtek mundurów wyjściowych, galowych i służbowych, płaszczy sukiennych i letnich oraz czapek rogatywek umieszcza się znak orła, o którym mowa w § 3 ust. 1.
-§ 5.
+§ 5W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Funkcjonariusze otrzymują umundurowanie zgodnie z normami umundurowania określonymi w przepisach wydanych na podstawie art. 334 ust. 4 pkt 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny dla żołnierzy zawodowych Wojsk Lądowych w komórkach organizacyjnych Ministerstwa Obrony Narodowej.
 § 6.
 1.
@@ -158,8 +156,7 @@ Ubiór służbowy noszą funkcjonariusze:
 1)
 w stopniu służbowym generała brygady,
 2)
-wchodzący w skład pocztu sztandarowego Służby Wywiadu Wojskowego
-w czasie wystąpień o charakterze reprezentacyjnym.
+wchodzący w skład pocztu sztandarowego Służby Wywiadu Wojskowego – w czasie wystąpień o charakterze reprezentacyjnym.
 § 22.
 1.
 Ubiór polowy jest noszony podczas:
@@ -233,5 +230,5 @@ Umundurowanie i oznaki służbowe dotychczasowych wzorów innych niż określone
 § 26.
 Traci moc rozporządzenie Ministra Obrony Narodowej z dnia 18 stycznia 2007 r. w sprawie umundurowania funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 254, z 2009 r. poz. 1313 oraz z 2012 r. poz. 1233).
 § 27.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 8 listopada 2022 r. zmieniającego rozporządzenie w sprawie umundurowania funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 2353), które weszło w życie z dniem 3 grudnia 2022 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
 

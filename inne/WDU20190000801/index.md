@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-04 |
 | Data wydania | 2019-04-29 |
-| Wejście w życie | 2019-05-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000801) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/801/text.pdf) |
 
@@ -85,12 +84,12 @@ source: "eli-html"
 1. W przypadku gdy w okresie od dnia 1 stycznia 1998 r. do dnia wejścia w życie niniejszej ustawy, ze względu na brak zgody wszystkich uprawnionych, żądanie zwrotu wywłaszczonej nieruchomości lub jej części:
 
 - **1)** nie zostało zgłoszone w terminie, o którym mowa w art. 136 ust. 5 ustawy zmienianej w art. 1, albo
-- **2)** nie zostało uwzględnione poprzedni właściciel albo jego spadkobierca może złożyć żądanie zwrotu wywłaszczonej nieruchomości lub udziału w tej nieruchomości albo części wywłaszczonej nieruchomości lub udziału w tej części w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+- **2)** nie zostało uwzględnione – poprzedni właściciel albo jego spadkobierca może złożyć żądanie zwrotu wywłaszczonej nieruchomości lub udziału w tej nieruchomości albo części wywłaszczonej nieruchomości lub udziału w tej części w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 2. W przypadku gdy w okresie od dnia 1 stycznia 1998 r. do dnia wejścia w życie niniejszej ustawy, ze względu na nabycie nieruchomości w drodze umowy, o której mowa w art. 114 ust. 1 ustawy zmienianej w art. 1, żądanie zwrotu wywłaszczonej nieruchomości lub jej części:
 
 - **1)** nie zostało zgłoszone w terminie, o którym mowa w art. 136 ust. 5 ustawy zmienianej w art. 1, albo
-- **2)** nie zostało uwzględnione poprzedni właściciel albo jego spadkobierca może złożyć żądanie zwrotu wywłaszczonej nieruchomości lub udziału w tej nieruchomości albo części wywłaszczonej nieruchomości lub udziału w tej części w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+- **2)** nie zostało uwzględnione – poprzedni właściciel albo jego spadkobierca może złożyć żądanie zwrotu wywłaszczonej nieruchomości lub udziału w tej nieruchomości albo części wywłaszczonej nieruchomości lub udziału w tej części w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 4.** Do spraw o zwrot wywłaszczonych nieruchomości wszczętych i niezakończonych ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, z wyłączeniem art. 136 ust. 7.
 

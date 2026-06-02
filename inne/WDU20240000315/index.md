@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 28 lutego 2024 r. w sprawie oświadczenia zobowiązanego o posiadanym majątku i źródłach dochodu oraz prawdziwości i zupełności tego oświadczenia oraz wezwania do jego złożenia
+# Rozporządzenie Ministra Finansówz dnia 28 lutego 2024 r. w sprawie oświadczenia zobowiązanego o posiadanym majątku i źródłach dochodu oraz prawdziwości i zupełności tego oświadczenia oraz wezwania do jego złożenia Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-28 |
 | Data wydania | 2024-03-06 |
-| Wejście w życie | 2024-03-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000315) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/315/text.pdf) |
 
@@ -134,8 +133,7 @@ informacje o:
 a)
 imieniu i nazwisku małżonka zobowiązanego oraz adresie jego miejsca zamieszkania, a także numerze PESEL lub NIP, jeżeli małżonek taki numer posiada, albo innym numerze identyfikacyjnym ze wskazaniem jego rodzaju, jeżeli małżonek nie posiada numeru PESEL lub NIP,
 b)
-zawarciu umowy majątkowej małżeńskiej lub wystąpieniu innego zdarzenia skutkującego ograniczeniem, zniesieniem, wyłączeniem lub ustaniem odpowiedzialności majątkiem wspólnym
-w przypadku odpowiedzialności, o której mowa w § 3;
+zawarciu umowy majątkowej małżeńskiej lub wystąpieniu innego zdarzenia skutkującego ograniczeniem, zniesieniem, wyłączeniem lub ustaniem odpowiedzialności majątkiem wspólnym – w przypadku odpowiedzialności, o której mowa w § 3;
 5)
 oświadczenie o treści: „Oświadczam, że podane przeze mnie informacje o posiadanym majątku i źródłach dochodu są prawdziwe i zupełne. Zostałem pouczony o grożącej mi odpowiedzialności karnej za złożenie fałszywego oświadczenia o posiadanym majątku i źródłach dochodu na podstawie art. 233 § 6 w związku z § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”;
 6)
@@ -143,6 +141,5 @@ podpis zobowiązanego.
 § 5.
 Do wezwań, o których mowa w art. 6 § 1d ustawy, wystawionych przed dniem wejścia w życie niniejszego rozporządzenia oraz oświadczeń o posiadanym majątku lub źródłach dochodu, składanych na te wezwania, stosuje się przepisy dotychczasowe.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 25 marca 2024 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 15 lipca 2020 r. w sprawie oświadczenia zobowiązanego o posiadanym majątku i źródłach dochodu oraz o prawdziwości i zupełności tego oświadczenia oraz wezwania do jego złożenia (Dz. U. poz. 1279), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ust. 1 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 556 i 1059).
+Rozporządzenie wchodzi w życie z dniem 25 marca 2024 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 15 lipca 2020 r. w sprawie oświadczenia zobowiązanego o posiadanym majątku i źródłach dochodu oraz o prawdziwości i zupełności tego oświadczenia oraz wezwania do jego złożenia (Dz. U. poz. 1279), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ust. 1 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 556 i 1059). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 15 lipca 2020 r. w sprawie oświadczenia zobowiązanego o posiadanym majątku i źródłach dochodu oraz o prawdziwości i zupełności tego oświadczenia oraz wezwania do jego złożenia (Dz. U. poz. 1279), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ust. 1 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 556 i 1059).
 

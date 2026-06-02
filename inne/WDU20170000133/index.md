@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 16 stycznia 2017 r. w sprawie poziomów Polskiej Ramy Kwalifikacji dla kwalifikacji pełnych nadanych do dnia 15 stycznia 2016 r.
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 16 stycznia 2017 r. w sprawie poziomów Polskiej Ramy Kwalifikacji dla kwalifikacji pełnych nadanych do dnia 15 stycznia 2016 r. Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-01-16 |
 | Data wydania | 2017-01-20 |
-| Wejście w życie | 2017-01-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000133) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/133/text.pdf) |
 
@@ -83,6 +82,5 @@ dyplom ukończenia studiów drugiego stopnia, uzyskany od roku akademickiego 201
 9)
 dyplom doktorski, uzyskany do dnia 15 stycznia 2016 r., potwierdza nadanie kwalifikacji na poziomie 8 PRK.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 

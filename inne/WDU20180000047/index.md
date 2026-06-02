@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 15 grudnia 2017 r. w sprawie bezpieczeństwa i higieny pracy przy użytkowaniu wózków jezdniowych z napędem silnikowym
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 15 grudnia 2017 r. w sprawie bezpieczeństwa i higieny pracy przy użytkowaniu wózków jezdniowych z napędem silnikowym Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-15 |
 | Data wydania | 2018-01-09 |
-| Wejście w życie | 2018-08-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000047) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/47/text.pdf) |
 
@@ -170,6 +169,5 @@ wystawione od dnia 1 stycznia 2015 r. zachowują ważność nie dłużej niż do
 § 19.
 Traci moc rozporządzenie Ministra Gospodarki z dnia 10 maja 2002 r. w sprawie bezpieczeństwa i higieny pracy przy użytkowaniu wózków jezdniowych z napędem silnikowym (Dz. U. poz. 650 oraz z 2003 r. poz. 603).
 § 20.
-Rozporządzenie wchodzi w życie po upływie 7 miesięcy od dnia ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
+Rozporządzenie wchodzi w życie po upływie 7 miesięcy od dnia ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
 

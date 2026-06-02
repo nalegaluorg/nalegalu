@@ -36,13 +36,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 29 października 2013 r. w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej (Dz. U. poz. 1347), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 31 stycznia 2017 r. zmieniającym rozporządzenie w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej (Dz. U. poz. 236).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 31 stycznia 2017 r. zmieniającego rozporządzenie w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej (Dz. U. poz. 236), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 31 stycznia 2017 r. zmieniającego rozporządzenie w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej (Dz. U. poz. 236), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 29 października 2013 r. w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej
-Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 29 października 2013 r. w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnejMinister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
+Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697 i 730.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -55,13 +53,12 @@ Użyte w rozporządzeniu określenia oznaczają:
 lekarz specjalista – lekarza, który posiada specjalizację II stopnia lub tytuł specjalisty w określonej dziedzinie medycyny;
 2)
 lekarz w trakcie specjalizacji – lekarza, który rozpoczął specjalizację zgodnie z programem specjalizacji oraz uzyskał potwierdzenie przez kierownika specjalizacji wiedzy i umiejętności umożliwiających samodzielną pracę;
-3)
+3Dodany przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 31 stycznia 2017 r. zmieniającego rozporządzenie w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej (Dz. U. poz. 236), które weszło w życie z dniem 10 lutego 2017 r.)
 perinatalna opieka paliatywna – zapewnienie:
 a)
 wsparcia rodzicom dziecka, w tym będącego w fazie prenatalnej,
 b)
-opieki nastawionej na zapewnienie komfortu i ochronę przed uporczywą terapią noworodkom
-z ciężkim i nieodwracalnym upośledzeniem albo nieuleczalną chorobą zagrażającą życiu, które powstały w prenatalnym okresie rozwoju dziecka lub w czasie porodu.
+opieki nastawionej na zapewnienie komfortu i ochronę przed uporczywą terapią noworodkom – z ciężkim i nieodwracalnym upośledzeniem albo nieuleczalną chorobą zagrażającą życiu, które powstały w prenatalnym okresie rozwoju dziecka lub w czasie porodu.
 § 3.
 1.
 Świadczenia opieki paliatywnej i hospicyjnej to wszechstronna, całościowa opieka i leczenie objawowe świadczeniobiorców chorujących na nieuleczalne, niepoddające się leczeniu przyczynowemu, postępujące, ograniczające życie choroby. Opieka ta jest ukierunkowana na poprawę jakości życia, ma na celu zapobieganie bólowi i innym objawom somatycznym oraz ich uśmierzanie, łagodzenie cierpień psychicznych, duchowych i socjalnych.
@@ -77,7 +74,7 @@ stacjonarnych – w hospicjum stacjonarnym lub w oddziale medycyny paliatywnej;
 domowych – w hospicjum domowym dla dorosłych lub dla dzieci do ukończenia 18. roku życia;
 3)
 ambulatoryjnych – w poradni medycyny paliatywnej;
-4)
+4Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.)
 perinatalnej opieki paliatywnej – w ośrodku diagnostyki prenatalnej, w ośrodku kardiologii prenatalnej, w zakładzie genetyki, w poradni medycyny paliatywnej, w hospicjum domowym dla dzieci lub w hospicjum stacjonarnym.
 § 5.
 Świadczenia gwarantowane realizowane w warunkach stacjonarnych obejmują:
@@ -136,7 +133,7 @@ poradę lekarską w domu świadczeniobiorcy;
 poradę psychologiczną lub wizytę psychologa w domu świadczeniobiorcy;
 10)
 zabieg pielęgniarski lub wizytę pielęgniarki w domu świadczeniobiorcy.
-§ 7a.
+§ 7aDodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3..
 Świadczenia gwarantowane realizowane w warunkach perinatalnej opieki paliatywnej obejmują:
 1)
 porady i konsultacje lekarskie w poradni medycyny paliatywnej, hospicjum domowym dla dzieci lub hospicjum stacjonarnym;
@@ -196,15 +193,14 @@ chorób zakaźnych i pasożytniczych,
 15)
 urazów i zatruć,
 16)
-wad rozwojowych wrodzonych, zniekształceń i aberracji chromosomowych
-gdy ze zlecenia lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego wynika, że świadczeniobiorca jest zdolny do samodzielnego poruszania się bez stałej pomocy innej osoby, ale wymaga przy korzystaniu ze środków transportu publicznego pomocy innej osoby lub środka transportu publicznego dostosowanego do potrzeb osób niepełnosprawnych.
+wad rozwojowych wrodzonych, zniekształceń i aberracji chromosomowych – gdy ze zlecenia lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego wynika, że świadczeniobiorca jest zdolny do samodzielnego poruszania się bez stałej pomocy innej osoby, ale wymaga przy korzystaniu ze środków transportu publicznego pomocy innej osoby lub środka transportu publicznego dostosowanego do potrzeb osób niepełnosprawnych.
 3.
 Świadczeniobiorcom korzystającym ze świadczeń gwarantowanych realizowanych w hospicjum domowym dla dorosłych albo hospicjum domowym dla dzieci do ukończenia 18. roku życia nie przysługują świadczenia gwarantowane z zakresu świadczeń pielęgnacyjnych i opiekuńczych w ramach opieki długoterminowej udzielane w warunkach domowych oraz świadczenia z zakresu rehabilitacji leczniczej udzielane w warunkach domowych.
 § 9.
 Warunkami realizacji świadczeń gwarantowanych są:
 1)
 przedstawienie skierowania wystawionego przez lekarza ubezpieczenia zdrowotnego;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3.)
 wskazanie medyczne, a w szczególności fakt występowania u świadczeniobiorcy jednostki chorobowej, o której mowa w załączniku nr 1 do rozporządzenia, nierokującej nadziei na wyleczenie, a w przypadku perinatalnej opieki paliatywnej – ciężkie i nieodwracalne upośledzenie albo nieuleczalna choroba zagrażająca życiu, które powstały w prenatalnym okresie rozwoju dziecka lub w czasie porodu, w szczególności zaburzenia rozwojowe prowadzące do poronienia samoistnego, porodu przedwczesnego lub zgonu wewnątrzmacicznego, zaburzenia rozwojowe prowadzące do przedwczesnej śmierci żywo urodzonego dziecka, określone w szczególności jednostkami chorobowymi, o których mowa w części III załącznika nr 1 do rozporządzenia.
 § 10.
 Warunki realizacji świadczeń gwarantowanych określa załącznik nr 2 do rozporządzenia.
@@ -214,17 +210,20 @@ Przepisy rozporządzenia stosuje się do świadczeń gwarantowanych udzielanych 
 2.
 Do świadczeń gwarantowanych udzielanych przed dniem 1 stycznia 2014 r. stosuje się przepisy dotychczasowe.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697 i 730. 3) Dodany przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 31 stycznia 2017 r. zmieniającego rozporządzenie w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej (Dz. U. poz. 236), które weszło w życie z dniem 10 lutego 2017 r. 4) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 5) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 7) Rozporządzenie zostało ogłoszone w dniu 20 listopada 2013 r. 8) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 29 sierpnia 2009 r. w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej (Dz. U. poz. 1138 i 1640 oraz z 2011 r. poz. 139), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 85 ust. 1 pkt 2 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. poz. 696, z 2012 r. poz. 95 i 742 oraz z 2013 r. poz. 766 i 1290).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 20 listopada 2013 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 29 sierpnia 2009 r. w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej (Dz. U. poz. 1138 i 1640 oraz z 2011 r. poz. 139), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 85 ust. 1 pkt 2 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. poz. 696, z 2012 r. poz. 95 i 742 oraz z 2013 r. poz. 766 i 1290). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697 i 730. 3) Dodany przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 31 stycznia 2017 r. zmieniającego rozporządzenie w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej (Dz. U. poz. 236), które weszło w życie z dniem 10 lutego 2017 r. 4) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 5) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 7) Rozporządzenie zostało ogłoszone w dniu 20 listopada 2013 r. 8) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 29 sierpnia 2009 r. w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej (Dz. U. poz. 1138 i 1640 oraz z 2011 r. poz. 139), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 85 ust. 1 pkt 2 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. poz. 696, z 2012 r. poz. 95 i 742 oraz z 2013 r. poz. 766 i 1290).
 
 ## Załącznik nr 1 — – Wykaz nieuleczalnych, postępujących, ograniczających życie chorób nowotworowych i nienowotworowych, w których są udzielane świadczenia gwarantowane z zakresu opieki paliatywnej i hospicyjnej
 
 I.
-Osoby dorosłe Lp. Kod ICD-10 Jednostki chorobowe kwalifikujące do leczenia 1 B20-B24 Choroba wywołana przez ludzki wirus upośledzenia odporności (HIV) 2 C00-D48 Nowotwory 3 G09 Następstwa zapalnych chorób ośrodkowego układu nerwowego 4 G10-G13 Układowe zaniki pierwotne zajmujące ośrodkowy układ nerwowy 5 I42–143 Kardiomiopatia 6 J96 Niewydolność oddechowa niesklasyfikowana gdzie indziej 7 L89 Owrzodzenie odleżynowe
+Osoby dorosłe
+Lp. Kod ICD-10 Jednostki chorobowe kwalifikujące do leczenia 1 B20-B24 Choroba wywołana przez ludzki wirus upośledzenia odporności (HIV) 2 C00-D48 Nowotwory 3 G09 Następstwa zapalnych chorób ośrodkowego układu nerwowego 4 G10-G13 Układowe zaniki pierwotne zajmujące ośrodkowy układ nerwowy 5 I42–143 Kardiomiopatia 6 J96 Niewydolność oddechowa niesklasyfikowana gdzie indziej 7 L89 Owrzodzenie odleżynowe
 II.
-Dzieci do ukończenia 18. roku życia Lp. Kod ICD-10 Jednostki chorobowe kwalifikujące do leczenia 1 A81 Atypowe wirusowe zakażenia ośrodkowego układu nerwowego 2 B20-B24 Choroba wywołana przez ludzki wirus upośledzenia odporności (HIV) 3 B90-B94 Następstwa chorób zakaźnych i pasożytniczych 4 C00-C14 Nowotwory złośliwe wargi, jamy ustnej i gardła 5 C15-C26 Nowotwory złośliwe narządów układu pokarmowego 6 C30-C39 Nowotwory złośliwe układu oddechowego i narządów klatki piersiowej 7 C40-C41 Nowotwór złośliwy kości i chrząstki stawowej 8 C43-C44 Czerniak i inne nowotwory złośliwe skóry 9 C45-C49 Nowotwory złośliwe mezotelium i tkanek miękkich 10 C50 Nowotwór złośliwy piersi 11 C51-C58 Nowotwory złośliwe żeńskich narządów płciowych 12 C60-C63 Nowotwory złośliwe męskich narządów płciowych 13 C64-C68 Nowotwory złośliwe układu moczowego 14 C69-C72 Nowotwory złośliwe oka, mózgu i innych części ośrodkowego układu nerwowego 15 C73-C75 Nowotwory złośliwe tarczycy i innych gruczołów wydzielania wewnętrznego 16 C76-C80 Nowotwory złośliwe niedokładnie określone, wtórne i o nieokreślonym umiejscowieniu 17 C81-C96 Nowotwory złośliwe, o potwierdzonym lub przypuszczalnym pierwotnym charakterze, tkanki limfatycznej, układu krwiotwórczego i tkanek pokrewnych 18 C97 Nowotwory złośliwe o niezależnym (pierwotnym) mnogim umiejscowieniu 19 D00-D09 Nowotwory in situ 20 D32 Nowotwór niezłośliwy opon mózgowo-rdzeniowych 21 D33 Nowotwór niezłośliwy mózgu i innych części ośrodkowego układu nerwowego 22 D37-D48 Nowotwory o niepewnym lub nieznanym charakterze 23 E70-E90 Choroby metaboliczne 24 F84 Całościowe zaburzenia rozwojowe 25 G09 Następstwa zapalnych chorób ośrodkowego układu nerwowego 26 G10-G13 Układowe zaniki pierwotnie zajmujące ośrodkowy układ nerwowy 27 G23 Inne choroby zwyrodnieniowe zwojów podstawnych (w szczególności choroba Hellervordena-Spatza) 28 G70-G73 Choroby połączeń nerwowo-mięśniowych i mięśni (w szczególności G71.0 Dystrofia mięśniowa, w tym ciężka [Duchenne'a], G71.2 Miopatie wrodzone, G71.3 Miopatia mitochondrialna niesklasyfikowana gdzie indziej) 29 G80-G83 Mózgowe porażenie dziecięce i inne zespoły porażenne (w szczególności G80 Mózgowe porażenie dziecięce) 30 G90-G99 Inne zaburzenia układu nerwowego 31 I50 Niewydolność serca 32 I69 Następstwa chorób naczyniowych mózgu 33 J96.1 Przewlekła niewydolność oddechowa 34 K72 Niewydolność wątroby, niesklasyfikowana gdzie indziej 35 K74 Zwłóknienie i marskość wątroby 36 N18.0 Schyłkowa niewydolność nerek 37 P10 Uszkodzenie struktur śródczaszkowych i krwotok spowodowany urazem porodowym 38 P11 Inne porodowe urazy ośrodkowego układu nerwowego 39 P21 Zamartwica urodzeniowa 40 P27 Przewlekła choroba oddechowa rozpoczynająca się w okresie okołoporodowym (w szczególności P27.1 Dysplazja oskrzelowo-płucna rozpoczynająca się w okresie okołoporodowym) 41 P35 Wrodzone choroby wirusowe 42 P91 Inne zaburzenia mózgowe noworodka (w szczególności P91.0 Niedokrwienie mózgu noworodkowe) 43 Q00-Q07 Wrodzone wady rozwojowe układu nerwowego (w szczególności Q03 Wodogłowie wrodzone, Q03.1 Zespół Dandy-Walkera, Q04.2 Przodomózgowie jednokomorowe -holoprosencephalia, Q04.3 Inne wady mózgu z ubytkiem tkanek, np. gładkomózgowie -lissencephalia, Q04.8 Inne określone wrodzone wady rozwojowe mózgu, Q04.9 Wrodzone wady rozwojowe mózgu, nieokreślone, Q05 Rozszczep kręgosłupa, Q05.0 Rozszczep kręgosłupa szyjnego ze współistniejącym wodogłowiem, Q05.2 Rozszczep kręgosłupa lędźwiowego ze współistniejącym wodogłowiem, Q07 Inne wrodzone wady rozwojowe układu nerwowego, Q07.0 Zespół Arnolda-Chiariego) 44 Q20-Q25 Wrodzone wady rozwojowe serca i dużych naczyń – dotyczy dzieci niezakwalifikowanych do leczenia operacyjnego 45 Q31 Wrodzone wady rozwojowe krtani 46 Q32 Wrodzone wady rozwojowe tchawicy i oskrzeli 47 Q44 Wrodzone wady rozwojowe pęcherzyka żółciowego, przewodów żółciowych i wątroby (w szczególności Q44.2 Zarośnięcie przewodów żółciowych, Q44.7 Zespół Alagille'a) 48 Q60 Niewytworżenie się nerki i inne zaburzenia związane z niedorozwojem nerki (w szczególności Q60.4 Niedorozwój nerek, obustronny) 49 Q61.1 Wielotorbielowatość nerek, dziedziczona autosomalnie recesywnie 50 Q77 Dysplazja kostno-chrzestna z upośledzeniem wzrostu kości długich i kręgosłupa (w szczególności Q77.4 Achondroplazja – chondrodystrofia płodowa) 51 Q78 Inne osteochondrodysplazje (w szczególności Q78.0 Kostnienie niedoskonałe – łamliwość kości wrodzona – osteogenesis imperfecta) 52 Q79 Wrodzone wady rozwojowe układu mięśniowo-szkieletowego, nie sklasyfikowane gdzie indziej 53 Q81 Pęcherzowe oddzielanie naskórka 54 Q85 Fakomatozy, nie sklasyfikowane gdzie indziej 55 Q87 Inne określone zespoły wrodzonych wad rozwojowych dotyczące wielu układów 56 Q89 Inne wrodzone wady rozwojowe niesklasyfikowane gdzie indziej (w szczególności Q89.7 Mnogie wrodzone wady rozwojowe niesklasyfikowane gdzie indziej) 57 Q90-Q99 Aberracje chromosomowe, niesklasyfikowane gdzie indziej 58 R40.2 Śpiączka, nieokreślona 59 S06 Uraz śródczaszkowy (w szczególności S06.7 Uraz śródczaszkowy z długotrwałym okresem nieprzytomności) 60 T90 Następstwa urazów głowy 61 T91 Następstwa urazów szyi i tułowia 62 T94 Następstwa urazów obejmujących liczne okolice ciała i nieokreślone okolice ciała 63 T96 Następstwa zatrucia lekami, środkami farmakologicznymi i substancjami biologicznymi 64 T97 Następstwa toksycznych skutków działania substancji zazwyczaj niestosowanych w celach leczniczych 65 Y85-Y89 Następstwa zewnętrznych przyczyn zachorowania i zgonu (w szczególności Y85 Następstwa wypadków komunikacyjnych, Y87.0 Następstwa zamierzonego samouszkodzenia, Y88.0 Następstwa niekorzystnego działania leku, środka farmakologicznego i substancji biologicznej zastosowanych do celów leczniczych, Y88.1 Następstwa wypadku pacjenta w trakcie zabiegów chirurgicznych i medycznych, Y89 Następstwa działania innych przyczyn zewnętrznych)
-III.
-Perinatalna opieka paliatywna 1 P00-P96Q00-Q99 Wybrane stany rozpoczynające się w okresie okołoporodowym oraz wady rozwojowe wrodzone, zniekształcenie i aberracje chromosomowe
+Dzieci do ukończenia 18. roku życia
+Lp. Kod ICD-10 Jednostki chorobowe kwalifikujące do leczenia 1 A81 Atypowe wirusowe zakażenia ośrodkowego układu nerwowego 2 B20-B24 Choroba wywołana przez ludzki wirus upośledzenia odporności (HIV) 3 B90-B94 Następstwa chorób zakaźnych i pasożytniczych 4 C00-C14 Nowotwory złośliwe wargi, jamy ustnej i gardła 5 C15-C26 Nowotwory złośliwe narządów układu pokarmowego 6 C30-C39 Nowotwory złośliwe układu oddechowego i narządów klatki piersiowej 7 C40-C41 Nowotwór złośliwy kości i chrząstki stawowej 8 C43-C44 Czerniak i inne nowotwory złośliwe skóry 9 C45-C49 Nowotwory złośliwe mezotelium i tkanek miękkich 10 C50 Nowotwór złośliwy piersi 11 C51-C58 Nowotwory złośliwe żeńskich narządów płciowych 12 C60-C63 Nowotwory złośliwe męskich narządów płciowych 13 C64-C68 Nowotwory złośliwe układu moczowego 14 C69-C72 Nowotwory złośliwe oka, mózgu i innych części ośrodkowego układu nerwowego 15 C73-C75 Nowotwory złośliwe tarczycy i innych gruczołów wydzielania wewnętrznego 16 C76-C80 Nowotwory złośliwe niedokładnie określone, wtórne i o nieokreślonym umiejscowieniu 17 C81-C96 Nowotwory złośliwe, o potwierdzonym lub przypuszczalnym pierwotnym charakterze, tkanki limfatycznej, układu krwiotwórczego i tkanek pokrewnych 18 C97 Nowotwory złośliwe o niezależnym (pierwotnym) mnogim umiejscowieniu 19 D00-D09 Nowotwory in situ 20 D32 Nowotwór niezłośliwy opon mózgowo-rdzeniowych 21 D33 Nowotwór niezłośliwy mózgu i innych części ośrodkowego układu nerwowego 22 D37-D48 Nowotwory o niepewnym lub nieznanym charakterze 23 E70-E90 Choroby metaboliczne 24 F84 Całościowe zaburzenia rozwojowe 25 G09 Następstwa zapalnych chorób ośrodkowego układu nerwowego 26 G10-G13 Układowe zaniki pierwotnie zajmujące ośrodkowy układ nerwowy 27 G23 Inne choroby zwyrodnieniowe zwojów podstawnych (w szczególności choroba Hellervordena-Spatza) 28 G70-G73 Choroby połączeń nerwowo-mięśniowych i mięśni (w szczególności G71.0 Dystrofia mięśniowa, w tym ciężka [Duchenne'a], G71.2 Miopatie wrodzone, G71.3 Miopatia mitochondrialna niesklasyfikowana gdzie indziej) 29 G80-G83 Mózgowe porażenie dziecięce i inne zespoły porażenne (w szczególności G80 Mózgowe porażenie dziecięce) 30 G90-G99 Inne zaburzenia układu nerwowego 31 I50 Niewydolność serca 32 I69 Następstwa chorób naczyniowych mózgu 33 J96.1 Przewlekła niewydolność oddechowa 34 K72 Niewydolność wątroby, niesklasyfikowana gdzie indziej 35 K74 Zwłóknienie i marskość wątroby 36 N18.0 Schyłkowa niewydolność nerek 37 P10 Uszkodzenie struktur śródczaszkowych i krwotok spowodowany urazem porodowym 38 P11 Inne porodowe urazy ośrodkowego układu nerwowego 39 P21 Zamartwica urodzeniowa 40 P27 Przewlekła choroba oddechowa rozpoczynająca się w okresie okołoporodowym (w szczególności P27.1 Dysplazja oskrzelowo-płucna rozpoczynająca się w okresie okołoporodowym) 41 P35 Wrodzone choroby wirusowe 42 P91 Inne zaburzenia mózgowe noworodka (w szczególności P91.0 Niedokrwienie mózgu noworodkowe) 43 Q00-Q07 Wrodzone wady rozwojowe układu nerwowego (w szczególności Q03 Wodogłowie wrodzone, Q03.1 Zespół Dandy-Walkera, Q04.2 Przodomózgowie jednokomorowe -holoprosencephalia, Q04.3 Inne wady mózgu z ubytkiem tkanek, np. gładkomózgowie -lissencephalia, Q04.8 Inne określone wrodzone wady rozwojowe mózgu, Q04.9 Wrodzone wady rozwojowe mózgu, nieokreślone, Q05 Rozszczep kręgosłupa, Q05.0 Rozszczep kręgosłupa szyjnego ze współistniejącym wodogłowiem, Q05.2 Rozszczep kręgosłupa lędźwiowego ze współistniejącym wodogłowiem, Q07 Inne wrodzone wady rozwojowe układu nerwowego, Q07.0 Zespół Arnolda-Chiariego) 44 Q20-Q25 Wrodzone wady rozwojowe serca i dużych naczyń – dotyczy dzieci niezakwalifikowanych do leczenia operacyjnego 45 Q31 Wrodzone wady rozwojowe krtani 46 Q32 Wrodzone wady rozwojowe tchawicy i oskrzeli 47 Q44 Wrodzone wady rozwojowe pęcherzyka żółciowego, przewodów żółciowych i wątroby (w szczególności Q44.2 Zarośnięcie przewodów żółciowych, Q44.7 Zespół Alagille'a) 48 Q60 Niewytworżenie się nerki i inne zaburzenia związane z niedorozwojem nerki (w szczególności Q60.4 Niedorozwój nerek, obustronny) 49 Q61.1 Wielotorbielowatość nerek, dziedziczona autosomalnie recesywnie 50 Q77 Dysplazja kostno-chrzestna z upośledzeniem wzrostu kości długich i kręgosłupa (w szczególności Q77.4 Achondroplazja – chondrodystrofia płodowa) 51 Q78 Inne osteochondrodysplazje (w szczególności Q78.0 Kostnienie niedoskonałe – łamliwość kości wrodzona – osteogenesis imperfecta) 52 Q79 Wrodzone wady rozwojowe układu mięśniowo-szkieletowego, nie sklasyfikowane gdzie indziej 53 Q81 Pęcherzowe oddzielanie naskórka 54 Q85 Fakomatozy, nie sklasyfikowane gdzie indziej 55 Q87 Inne określone zespoły wrodzonych wad rozwojowych dotyczące wielu układów 56 Q89 Inne wrodzone wady rozwojowe niesklasyfikowane gdzie indziej (w szczególności Q89.7 Mnogie wrodzone wady rozwojowe niesklasyfikowane gdzie indziej) 57 Q90-Q99 Aberracje chromosomowe, niesklasyfikowane gdzie indziej 58 R40.2 Śpiączka, nieokreślona 59 S06 Uraz śródczaszkowy (w szczególności S06.7 Uraz śródczaszkowy z długotrwałym okresem nieprzytomności) 60 T90 Następstwa urazów głowy 61 T91 Następstwa urazów szyi i tułowia 62 T94 Następstwa urazów obejmujących liczne okolice ciała i nieokreślone okolice ciała 63 T96 Następstwa zatrucia lekami, środkami farmakologicznymi i substancjami biologicznymi 64 T97 Następstwa toksycznych skutków działania substancji zazwyczaj niestosowanych w celach leczniczych 65 Y85-Y89 Następstwa zewnętrznych przyczyn zachorowania i zgonu (w szczególności Y85 Następstwa wypadków komunikacyjnych, Y87.0 Następstwa zamierzonego samouszkodzenia, Y88.0 Następstwa niekorzystnego działania leku, środka farmakologicznego i substancji biologicznej zastosowanych do celów leczniczych, Y88.1 Następstwa wypadku pacjenta w trakcie zabiegów chirurgicznych i medycznych, Y89 Następstwa działania innych przyczyn zewnętrznych)
+IIICzęść dodana przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3..
+Perinatalna opieka paliatywna
+1 P00-P96
+Q00-Q99 Wybrane stany rozpoczynające się w okresie okołoporodowym oraz wady rozwojowe wrodzone, zniekształcenie i aberracje chromosomowe
 9) Część dodana przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
 ## Załącznik nr 2 — – Warunki realizacji świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej
@@ -242,8 +241,7 @@ ukończyła specjalizację w dziedzinie pielęgniarstwa opieki paliatywnej albo 
 b)
 ukończyła kurs kwalifikacyjny w dziedzinie pielęgniarstwa opieki paliatywnej albo jest w trakcie tego kursu, lub
 c)
-ukończyła kurs specjalistyczny w zakresie podstaw opieki paliatywnej albo jest w trakcie tego kursu
-co najmniej 25% czasu pracy ogółu pielęgniarek udzielających świadczeń u danego świadczeniodawcy;
+ukończyła kurs specjalistyczny w zakresie podstaw opieki paliatywnej albo jest w trakcie tego kursu – co najmniej 25% czasu pracy ogółu pielęgniarek udzielających świadczeń u danego świadczeniodawcy;
 3)
 psycholog lub psycholog posiadający tytuł specjalisty w dziedzinie psychologii klinicznej, lub psychoonkolog, którym jest osoba z wykształceniem psychologicznym lub medycznym, która ukończyła studia wyższe i uzyskała tytuł magistra lub równorzędny oraz ukończyła studia podyplomowe z psychoonkologii – równoważnik 1/2 etatu przeliczeniowego na 20 łóżek;
 4)
@@ -261,8 +259,7 @@ rozpoczęła przed dniem 1 stycznia 1980 r. studia wyższe na kierunku wychowani
 f)
 rozpoczęła przed dniem 1 stycznia 1980 r. studia wyższe na kierunku wychowanie fizyczne i uzyskała tytuł magistra na tym kierunku oraz ukończyła 3-miesięczny kurs specjalizacyjny z rehabilitacji, lub
 g)
-ukończyła szkołę policealną publiczną lub niepubliczną o uprawnieniach szkoły publicznej i uzyskała tytuł zawodowy technik fizjoterapii
-równoważnik 1/4 etatu przeliczeniowego na 10 łóżek.
+ukończyła szkołę policealną publiczną lub niepubliczną o uprawnieniach szkoły publicznej i uzyskała tytuł zawodowy technik fizjoterapii – równoważnik 1/4 etatu przeliczeniowego na 10 łóżek.
 2.
 Sprzęt medyczny i pomocniczy:
 1)
@@ -310,8 +307,7 @@ ukończyła specjalizację w dziedzinie pielęgniarstwa opieki paliatywnej albo 
 b)
 ukończyła kurs kwalifikacyjny w dziedzinie pielęgniarstwa opieki paliatywnej albo jest w trakcie tego kursu, lub
 c)
-ukończyła kurs specjalistyczny w zakresie podstaw opieki paliatywnej albo jest w trakcie tego kursu
-co najmniej 25% czasu pracy ogółu pielęgniarek udzielających świadczeń u danego świadczeniodawcy; równoważnik 1 etatu przeliczeniowego na 15 świadczeniobiorców;
+ukończyła kurs specjalistyczny w zakresie podstaw opieki paliatywnej albo jest w trakcie tego kursu – co najmniej 25% czasu pracy ogółu pielęgniarek udzielających świadczeń u danego świadczeniodawcy; równoważnik 1 etatu przeliczeniowego na 15 świadczeniobiorców;
 3)
 psycholog lub psycholog posiadający tytuł specjalisty w dziedzinie psychologii klinicznej, lub psychoonkolog, którym jest osoba z wykształceniem psychologicznym lub medycznym, która ukończyła studia wyższe i uzyskała tytuł magistra lub równorzędny oraz ukończyła studia podyplomowe z psychoonkologii – równoważnik 1/2 etatu przeliczeniowego na 30 świadczeniobiorców;
 4)
@@ -331,8 +327,7 @@ ukończyła kurs kwalifikacyjny w dziedzinie pielęgniarstwa opieki paliatywnej 
 d)
 ukończyła kurs kwalifikacyjny w dziedzinie pielęgniarstwa pediatrycznego i kurs specjalistyczny w zakresie pediatrycznej domowej opieki paliatywnej albo ukończyła kurs kwalifikacyjny w dziedzinie pielęgniarstwa pediatrycznego i jest w trakcie kursu specjalistycznego w zakresie pediatrycznej domowej opieki paliatywnej, lub
 e)
-ukończyła kurs specjalistyczny w zakresie opieki paliatywnej albo jest w trakcie tego kursu lub ukończyła kurs specjalistyczny w zakresie pediatrycznej domowej opieki paliatywnej albo jest w trakcie tego kursu
-co najmniej 25% czasu pracy ogółu pielęgniarek udzielających świadczeń u danego świadczeniodawcy; równoważnik 1 etatu przeliczeniowego na 12 świadczeniobiorców;
+ukończyła kurs specjalistyczny w zakresie opieki paliatywnej albo jest w trakcie tego kursu lub ukończyła kurs specjalistyczny w zakresie pediatrycznej domowej opieki paliatywnej albo jest w trakcie tego kursu – co najmniej 25% czasu pracy ogółu pielęgniarek udzielających świadczeń u danego świadczeniodawcy; równoważnik 1 etatu przeliczeniowego na 12 świadczeniobiorców;
 3)
 psycholog lub psycholog posiadający tytuł specjalisty w dziedzinie psychologii klinicznej, lub psychoonkolog, którym jest osoba z wykształceniem psychologicznym lub medycznym, która ukończyła studia wyższe i uzyskała tytuł magistra lub równorzędny oraz ukończyła studia podyplomowe z psychoonkologii – równoważnik 1/2 etatu przeliczeniowego na 12 świadczeniobiorców;
 4)
@@ -357,7 +352,22 @@ kule, laski, balkoniki, chodziki, wózki inwalidzkie;
 neseser pielęgniarski dla każdej pielęgniarki wyposażony w:
 a)
 podstawowy sprzęt i materiały jednorazowego użytku:
-– do wykonania iniekcji: – – igły, strzykawki, wenflony, – – zestaw niezbędnych płynów dezynfekcyjnych i odkażających, – do przetaczania płynów: – – aparat do kroplowych wlewów dożylnych, – – zestaw gazików, plastry, – – stazę, – do wykonania opatrunków: – – serwety, pakiety opatrunkowe, – – podstawowy zestaw narzędzi chirurgicznych, nożyczki, miskę nerkową, – pakiet ochronny przed zakażeniem: maseczki, rękawice, fartuch, – sprzęt do płukania pęcherza moczowego lub przetoki: – – strzykawkę jednorazowego użytku 50 ml, – – strzykawkę specjalistyczną 50/60 K z końcówką cewnikową, – sprzęt do karmienia przez zgłębnik: – – sondę żołądkową, – – strzykawkę jednorazowego użytku 20 ml,
+do wykonania iniekcji:
+– – igły, strzykawki, wenflony,
+– – zestaw niezbędnych płynów dezynfekcyjnych i odkażających,
+do przetaczania płynów:
+– – aparat do kroplowych wlewów dożylnych,
+– – zestaw gazików, plastry,
+– – stazę,
+do wykonania opatrunków:
+– – serwety, pakiety opatrunkowe,
+– – podstawowy zestaw narzędzi chirurgicznych, nożyczki, miskę nerkową,
+– pakiet ochronny przed zakażeniem: maseczki, rękawice, fartuch,
+sprzęt do płukania pęcherza moczowego lub przetoki:
+– – strzykawkę jednorazowego użytku 50 ml,
+– strzykawkę specjalistyczną 50/60 K z końcówką cewnikową, – sprzęt do karmienia przez zgłębnik:
+– – sondę żołądkową,
+– – strzykawkę jednorazowego użytku 20 ml,
 b)
 zestaw przeciwwstrząsowy: leki, rurkę ustno-gardłową, maseczkę do reanimacji z filtrem,
 c)
@@ -408,7 +418,7 @@ Inne warunki:
 świadczenia gwarantowane w warunkach ambulatoryjnych są przeznaczone dla świadczeniobiorców, których stan ogólny jest stabilny oraz którzy mogą przybyć do poradni medycyny paliatywnej sami lub którzy ze względu na ograniczoną możliwość poruszania się wymagają porad lub wizyt w domu;
 2)
 świadczenia gwarantowane w warunkach ambulatoryjnych obejmują nie więcej niż 2 porady lub wizyty w tygodniu w domu świadczeniobiorcy.
-IV.
+IVCzęść dodana przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3..
 Świadczenia gwarantowane realizowane w warunkach perinatalnej opieki paliatywnej
 1.
 Wymagania dotyczące personelu:
@@ -451,6 +461,5 @@ współpraca z położną podstawowej opieki zdrowotnej oraz lekarzem specjalist
 4)
 świadczeniodawca realizujący świadczenie gwarantowane w warunkach perinatalnej opieki paliatywnej posiada co najmniej trzyletnie doświadczenie w pracy w pediatrycznej opiece paliatywnej w zakresie hospicjum domowego dla dzieci lub hospicjum stacjonarnego lub współpracuje z ośrodkiem mającym doświadczenie w pracy w pediatrycznej opiece paliatywnej;
 5)
-świadczenie gwarantowane w warunkach perinatalnej opieki paliatywnej jest realizowane do 28. dnia po porodzie.
-10) Część dodana przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3.
+świadczenie gwarantowane w warunkach perinatalnej opieki paliatywnej jest realizowane do 28. dnia po porodzie. 10) Część dodana przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3.
 

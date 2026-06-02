@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 21 października 2021 r. w sprawie zasad i trybu powierzania mienia funkcjonariuszom Służby Celno-Skarbowej
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 21 października 2021 r. w sprawie zasad i trybu powierzania mienia funkcjonariuszom Służby Celno-Skarbowej Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-21 |
 | Data wydania | 2021-11-05 |
-| Wejście w życie | 2021-11-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002004) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2004/text.pdf) |
 
@@ -31,7 +30,7 @@ Na podstawie art. 10 ust. 3 ustawy z dnia 7 maja 1999 r. o odpowiedzialności ma
 § 1.
 Rozporządzenie określa zasady i tryb powierzania funkcjonariuszom Służby Celno-Skarbowej, zwanym dalej „funkcjonariuszami”, mienia znajdującego się, zgodnie z przepisami regulującymi ewidencję rzeczowych składników majątkowych, w dyspozycji jednostek organizacyjnych Krajowej Administracji Skarbowej.
 § 2.
-Ilekroć w rozporządzeniu jest mowa o kierowniku jednostki organizacyjnej, rozumie się przez to kierownika jednostki organizacyjnej, o którym mowa w art. 145 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2021 r. poz. 422, z późn. zm.).
+Ilekroć w rozporządzeniu jest mowa o kierowniku jednostki organizacyjnej, rozumie się przez to kierownika jednostki organizacyjnej, o którym mowa w art. 145 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2021 r. poz. 422, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 464, 694, 802, 815, 954, 1003, 1005 i 1718.).
 § 3.
 1.
 Funkcjonariuszowi mogą być powierzone z obowiązkiem zwrotu albo wyliczenia się środki pieniężne, papiery wartościowe, uzbrojenie, sprzęt techniczny oraz inne mienie niezbędne do wykonywania zadań służbowych, zwane dalej „mieniem”.
@@ -61,6 +60,5 @@ Funkcjonariusz, któremu ma być powierzone mienie, oraz funkcjonariusz lub prac
 § 6.
 Traci moc rozporządzenie Ministra Finansów z dnia 13 października 2010 r. w sprawie zasad i trybu powierzania mienia funkcjonariuszom celnym (Dz. U. poz. 1337).
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 464, 694, 802, 815, 954, 1003, 1005 i 1718.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 464, 694, 802, 815, 954, 1003, 1005 i 1718.
 

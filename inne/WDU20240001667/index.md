@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-06 |
 | Data wydania | 2024-11-14 |
-| Wejście w życie | 2024-11-15 |
 | Ostatnia zmiana | 2025-07-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001667) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1667/text.pdf) |
 
@@ -33,23 +32,17 @@ W rozporządzeniu Ministra Sprawiedliwości z dnia 31 lipca 2009 r. w sprawie s�
 1)
 w ust. 2:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
-Centralnego Zarządu Służby Więziennej i Ośrodka Szkolenia Służby Więziennej w Popowie – zapewnia zakład opieki zdrowotnej medycyny pracy SW utworzony przy Okręgowym Inspektoracie Służby Więziennej w Warszawie;
-” ,
+Centralnego Zarządu Służby Więziennej i Ośrodka Szkolenia Służby Więziennej w Popowie – zapewnia zakład opieki zdrowotnej medycyny pracy SW utworzony przy Okręgowym Inspektoracie Służby Więziennej w Warszawie; ” ,
 b)
-pkt 6 otrzymuje brzmienie:
-„
+pkt 6 otrzymuje brzmienie: „
 6)
-Ośrodka Szkolenia Służby Więziennej w Olszanicy – zapewnia zakład opieki zdrowotnej medycyny pracy SW utworzony przy Okręgowym Inspektoracie Służby Więziennej w Rzeszowie;
-” ;
+Ośrodka Szkolenia Służby Więziennej w Olszanicy – zapewnia zakład opieki zdrowotnej medycyny pracy SW utworzony przy Okręgowym Inspektoracie Służby Więziennej w Rzeszowie; ” ;
 2)
-dodaje się ust. 3 w brzmieniu:
-„
+dodaje się ust. 3 w brzmieniu: „
 3.
-Realizację zadań odpowiednich do zadań służby medycyny pracy w odniesieniu do funkcjonariuszy pełniących służbę w Uczelni zapewnia zakład opieki zdrowotnej medycyny pracy SW położony najbliżej miejsca zamieszkania tych funkcjonariuszy.
-” .
+Realizację zadań odpowiednich do zadań służby medycyny pracy w odniesieniu do funkcjonariuszy pełniących służbę w Uczelni zapewnia zakład opieki zdrowotnej medycyny pracy SW położony najbliżej miejsca zamieszkania tych funkcjonariuszy. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

@@ -22,17 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2000-11-16 |
 | Data wydania | 2000-12-23 |
-| Wejście w życie | 2001-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001171228) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1228/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. Nr 123, poz. 600, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 121, poz. 770i z 1998 r. Nr 106, poz. 668) wprowadza się następujące zmiany:
 
 - **1)** tytuł rozdziału 2 otrzymuje brzmienie: „ Ustanawianie, łączenie, znoszenie stref oraz zmiana ich obszaru ” ;
-- **2)** w art. 4: w ust. 1 wyrazy „Ministra Przemysłu i Handlu” zastępuje się wyrazami „ministra właściwego do spraw gospodarki uzgodniony z ministrem właściwym do spraw rozwoju regionalnego”, w ust. 2 i 3 wyrazy „Minister Przemysłu i Handlu” zastępuje się wyrazami „Minister właściwy do spraw gospodarki”, w ust. 4: – pkt 2 otrzymuje brzmienie: „ 2) przedmioty działalności gospodarczej, na które nie będzie wydawane zezwolenie, o którym mowa w art. 16 ust. 1, ” – pkt 5 otrzymuje brzmienie: „ 5) wielkość pomocy publicznej udzielanej przedsiębiorcom prowadzącym działalność gospodarczą na terenie strefy na podstawie zezwolenia, o którym mowa w art. 16 ust. 1, ” – dodaje się pkt 6 w brzmieniu: „ 6) szczegółowe warunki uznawania wydatków za wydatki poniesione na inwestycję na terenie strefy, a także ich minimalną wysokość. ” , ust. 5 otrzymuje brzmienie: „
+- **2)** w art. 4: w ust. 1 wyrazy „Ministra Przemysłu i Handlu” zastępuje się wyrazami „ministra właściwego do spraw gospodarki uzgodniony z ministrem właściwym do spraw rozwoju regionalnego”, w ust. 2 i 3 wyrazy „Minister Przemysłu i Handlu” zastępuje się wyrazami „Minister właściwy do spraw gospodarki”, w ust. 4: pkt 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **c)**
+
+- **2)** przedmioty działalności gospodarczej, na które nie będzie wydawane zezwolenie, o którym mowa w art. 16 ust. 1, ” pkt 5 otrzymuje brzmienie: „
+- **5)** wielkość pomocy publicznej udzielanej przedsiębiorcom prowadzącym działalność gospodarczą na terenie strefy na podstawie zezwolenia, o którym mowa w art. 16 ust. 1, ” dodaje się pkt 6 w brzmieniu: „
+- **6)** szczegółowe warunki uznawania wydatków za wydatki poniesione na inwestycję na terenie strefy, a także ich minimalną wysokość. ” , ust. 5 otrzymuje brzmienie: „
     - **d)**
 
 5. Rada Ministrów, określając dopuszczalną wielkość pomocy publicznej w poszczególnych strefach, uwzględnia następujące kryteria:

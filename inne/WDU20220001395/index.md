@@ -31,18 +31,16 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 29 czerwca 2020 r. w sprawie wyznaczenia sądów okręgowych właściwych do rozpoznawania spraw z zakresu ochrony unijnych znaków towarowych i wzorów wspólnotowych (Dz. U. poz. 1150), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającym rozporządzenie w sprawie wyznaczenia sądów okręgowych właściwych do rozpoznawania spraw z zakresu ochrony unijnych znaków towarowych i wzorów wspólnotowych (Dz. U. poz. 565 i 1545).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającego rozporządzenie w sprawie wyznaczenia sądów okręgowych właściwych do rozpoznawania spraw z zakresu ochrony unijnych znaków towarowych i wzorów wspólnotowych (Dz. U. poz. 565 i 1545), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającego rozporządzenie w sprawie wyznaczenia sądów okręgowych właściwych do rozpoznawania spraw z zakresu ochrony unijnych znaków towarowych i wzorów wspólnotowych (Dz. U. poz. 565 i 1545), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 29 czerwca 2020 r. w sprawie wyznaczenia sądów okręgowych właściwych do rozpoznawania spraw z zakresu ochrony unijnych znaków towarowych i wzorów wspólnotowych
 Na podstawie art. 20 pkt 9 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072, z 2021 r. poz. 1080 i 1236 oraz z 2022 r. poz. 655 i 1259) zarządza się, co następuje:
 § 1.
 Wyznacza się następujące sądy okręgowe jako właściwe do rozpoznawania spraw z zakresu ochrony unijnych znaków towarowych i wzorów wspólnotowych (sądy unijnych znaków towarowych i wzorów wspólnotowych):
 1)
 Sąd Okręgowy w Gdańsku – do spraw z obszaru właściwości sądów okręgowych: w Bydgoszczy, Elblągu, Gdańsku, Koszalinie, Olsztynie, Słupsku, Toruniu i we Włocławku;
-2)
+2W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającego rozporządzenie w sprawie wyznaczenia sądów okręgowych właściwych do rozpoznawania spraw z zakresu ochrony unijnych znaków towarowych i wzorów wspólnotowych (Dz. U. poz. 565 i 1545), które weszło w życie z dniem 1 kwietnia 2022 r.)
 Sąd Okręgowy w Katowicach – do spraw z obszaru właściwości sądów okręgowych w: Bielsku-Białej, Częstochowie, Gliwicach, Katowicach, Krakowie, Nowym Sączu, Opolu, Rybniku, Sosnowcu i Tarnowie;
 3)
 Sąd Okręgowy w Lublinie – do spraw z obszaru właściwości sądów okręgowych w: Kielcach, Krośnie, Lublinie, Przemyślu, Radomiu, Rzeszowie, Siedlcach, Tarnobrzegu i Zamościu;
@@ -51,5 +49,5 @@ Sąd Okręgowy w Poznaniu – do spraw z obszaru właściwości sądów okręgow
 5)
 Sąd Okręgowy w Warszawie – do spraw z obszaru właściwości sądów okręgowych: w Białymstoku, Łomży, Ostrołęce, Piotrkowie Trybunalskim, Płocku, Suwałkach, Warszawie i Warszawa-Praga w Warszawie.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2020 r.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 19 marca 2018 r. w sprawie wyznaczenia sądu okręgowego właściwego do rozpoznawania spraw z zakresu ochrony unijnych znaków towarowych i wzorów wspólnotowych (Dz. U. poz. 636), które utraciło moc z dniem wejścia w życie ustawy z dnia 13 lutego 2020 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 288 i 875). 1) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającego rozporządzenie w sprawie wyznaczenia sądów okręgowych właściwych do rozpoznawania spraw z zakresu ochrony unijnych znaków towarowych i wzorów wspólnotowych (Dz. U. poz. 565 i 1545), które weszło w życie z dniem 1 kwietnia 2022 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 19 marca 2018 r. w sprawie wyznaczenia sądu okręgowego właściwego do rozpoznawania spraw z zakresu ochrony unijnych znaków towarowych i wzorów wspólnotowych (Dz. U. poz. 636), które utraciło moc z dniem wejścia w życie ustawy z dnia 13 lutego 2020 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 288 i 875).
 

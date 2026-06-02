@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 2 kwietnia 2013 r. w sprawie zakresu informacji zawartych w dokumencie informacyjnym funduszu inwestycyjnego
+# Rozporządzenie Ministra Finansówz dnia 2 kwietnia 2013 r. w sprawie zakresu informacji zawartych w dokumencie informacyjnym funduszu inwestycyjnego Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywy:
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-04-02 |
 | Data wydania | 2013-04-11 |
-| Wejście w życie | 2013-04-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000451) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/451/text.pdf) |
 
+Parlamentu Europejskiego i Rady 2009/65/WE z dnia 13 lipca 2009 r. w sprawie koordynacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS)(Dz. Urz. UE L 302 z 17.11.2009, str. 32, z późn. zm.);
 Treść rozporządzenia
 2)
 Komisji 2010/44/UE z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie niektórych przepisów dotyczących łączenia funduszy, modeli funduszy podstawowych i powiązanych oraz procedury powiadamiania (Dz. Urz. UE L 176 z 10.07.2010, str. 28, z późn. zm.).
-Na podstawie art. 204 ust. 4 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 204 ust. 4 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 596, 1385 i 1529 oraz z 2013 r. poz. 70.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy zakres informacji, które powinny być zawarte w dokumencie informacyjnym funduszu przejmującego oraz dokumencie informacyjnym funduszu przejmowanego.
 § 2.
@@ -127,11 +127,9 @@ Jeżeli w połączeniu bierze udział subfundusz wydzielony w funduszu z wydziel
 § 6.
 W przypadku połączenia transgranicznego fundusz przejmowany i fundusz przejmujący przedstawiają w swoich dokumentach informacyjnych zwięzłe informacje o cechach, formach i zasadach funkcjonowania funduszu przejmującego albo funduszu przejmowanego, biorącego udział w połączeniu, różniących się od obowiązujących na terytorium Rzeczypospolitej Polskiej.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-2)
-Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywy:
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywy:
 1)
 Parlamentu Europejskiego i Rady 2009/65/WE z dnia 13 lipca 2009 r. w sprawie koordynacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) (Dz. Urz. UE L 302 z 17.11.2009, str. 32, z późn. zm.);
 2)
-Komisji 2010/44/UE z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie niektórych przepisów dotyczących łączenia funduszy, modeli funduszy podstawowych i powiązanych oraz procedury powiadamiania (Dz. Urz. UE L 176 z 10.07.2010, str. 28, z późn. zm.).
+Komisji 2010/44/UE z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie niektórych przepisów dotyczących łączenia funduszy, modeli funduszy podstawowych i powiązanych oraz procedury powiadamiania (Dz. Urz. UE L 176 z 10.07.2010, str. 28, z późn. zm.). 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 596, 1385 i 1529 oraz z 2013 r. poz. 70.
 

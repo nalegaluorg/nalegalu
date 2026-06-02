@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 marca 2018 r. o zmianie ustawy o usługach płatniczych oraz niektórych innych ustaw
+# Ustawa z dnia 22 marca 2018 r. o zmianie ustawy o usługach płatniczych oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2015/2366 z dnia 25 listopada 2015 r. w sprawie usług płatniczych w ramach rynku wewnętrznego, zmieniającą dyrektywy 2002/65/WE, 2009/110/WE, 2013/36/UE i rozporządzenie (UE) nr 1093/2010 oraz uchylającą dyrektywę 2007/64/WE (Dz. Urz. UE L 337 z 23.12.2015, str. 35).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-22 |
 | Data wydania | 2018-05-10 |
-| Wejście w życie | 2018-08-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000864) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/864/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych.
 
 **Art. 1.** W ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2017 r. poz. 2003 oraz z 2018 r. poz. 62, 650 i 723) wprowadza się następujące zmiany:
 
@@ -94,13 +95,13 @@ source: "eli-html"
 
 **Art. 153d.** Płatnik, który pozyskuje i wykorzystuje dane, o których mowa w art. 143b ust. 1, w innym celu niż dochodzenie kwoty transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora, podlega grzywnie do 30 000 zł. ” .
 
-**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2017 r. poz. 1876, z późn. zm.) w art. 105 w ust. 1:
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2017 r. poz. 1876, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2361 i 2491 oraz z 2018 r. poz. 62, 106, 138, 650, 685 i 723.) w art. 105 w ust. 1:
 
 - **1)** po pkt 1h dodaje się pkt 1i w brzmieniu: „
 - **1i)** dostawcom usług płatniczych w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, w zakresie niezbędnym do wykonania obowiązków określonych w art. 143a ust. 1 pkt 2, art. 143b ust. 2 i art. 143c ust. 2 i 5 tej ustawy; ” ;
 - **2)** w pkt 2 po lit. m dodaje się lit. ma w brzmieniu: „ ma) płatnika w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, w zakresie określonym w art. 143b oraz art. 143c ust. 6 tej ustawy, ” .
 
-**Art. 3.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2017 r. poz. 2065, z późn. zm.) w art. 9f w ust. 1 po pkt 5c dodaje się pkt 5d i 5e w brzmieniu: „
+**Art. 3.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2017 r. poz. 2065, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2486 i 2491 oraz z 2018 r. poz. 62, 106, 138, 650, 723 i 771.) w art. 9f w ust. 1 po pkt 5c dodaje się pkt 5d i 5e w brzmieniu: „
 
 - **5d)** płatnikowi w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, w zakresie określonym w art. 143b oraz art. 143c ust. 6 tej ustawy;
 - **5e)** dostawcy usług płatniczych w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, w zakresie określonym w art. 143a ust. 1 pkt 2, art. 143b ust. 2 i art. 143c ust. 2 i 5 tej ustawy; ” .
@@ -113,5 +114,5 @@ source: "eli-html"
 
 3. Do informacji o transakcjach płatniczych wykonanych z użyciem nieprawidłowego unikatowego identyfikatora przed dniem wejścia w życie niniejszej ustawy a zgłoszonych przez płatników po dniu wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2015/2366 z dnia 25 listopada 2015 r. w sprawie usług płatniczych w ramach rynku wewnętrznego, zmieniającą dyrektywy 2002/65/WE, 2009/110/WE, 2013/36/UE i rozporządzenie (UE) nr 1093/2010 oraz uchylającą dyrektywę 2007/64/WE (Dz. Urz. UE L 337 z 23.12.2015, str. 35). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2361 i 2491 oraz z 2018 r. poz. 62, 106, 138, 650, 685 i 723. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2486 i 2491 oraz z 2018 r. poz. 62, 106, 138, 650, 723 i 771.
 

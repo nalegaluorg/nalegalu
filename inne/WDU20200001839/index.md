@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-10-14 |
 | Data wydania | 2020-10-19 |
-| Wejście w życie | 2020-10-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001839) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1839/text.pdf) |
 
@@ -35,19 +34,15 @@ użyte w § 1 w ust. 2 oraz w § 7 w różnym przypadku wyrazy „Ministerstwo R
 2)
 w § 2 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W ramach zadania, o którym mowa w ust. 1 pkt 1, Pełnomocnik, w porozumieniu z Ministrem Rodziny i Polityki Społecznej: ” ;
 3)
-§ 4 otrzymuje brzmienie:
-„
+§ 4 otrzymuje brzmienie: „
 § 4.
-Pełnomocnik może, po uprzednim uzgodnieniu z Ministrem Rodziny i Polityki Społecznej, powoływać zespoły eksperckie i doradcze związane z zakresem powierzonych mu zadań.
-” ;
+Pełnomocnik może, po uprzednim uzgodnieniu z Ministrem Rodziny i Polityki Społecznej, powoływać zespoły eksperckie i doradcze związane z zakresem powierzonych mu zadań. ” ;
 4)
 w § 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Pełnomocnik, w porozumieniu z Ministrem Rodziny i Polityki Społecznej, przedstawia Radzie Ministrów: ” ;
 5)
-§ 8 otrzymuje brzmienie:
-„
+§ 8 otrzymuje brzmienie: „
 § 8.
-Wydatki związane z działalnością Pełnomocnika są pokrywane z budżetu państwa z części, której dysponentem jest Minister Rodziny i Polityki Społecznej.
-” .
+Wydatki związane z działalnością Pełnomocnika są pokrywane z budżetu państwa z części, której dysponentem jest Minister Rodziny i Polityki Społecznej. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem ogłoszenia.
 

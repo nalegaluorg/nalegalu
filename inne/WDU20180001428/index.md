@@ -22,37 +22,29 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-11 |
 | Data wydania | 2018-07-24 |
-| Wejście w życie | 2018-08-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001428) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1428/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2017 r. poz. 2137) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147 oraz z 2018 r. poz. 303.) wprowadza się następujące zmiany:
 1)
 w § 5:
 a)
-w ust. 2 w pkt 2 lit. a otrzymuje brzmienie:
-„
+w ust. 2 w pkt 2 lit. a otrzymuje brzmienie: „
 a)
-wynoszą powyżej 30% średniej rocznej produkcji rolnej, o której mowa w pkt 1, lub gdy szkoda przekracza kwotę 3350 zł – w przypadku szkód w środku trwałym,
-” ,
+wynoszą powyżej 30% średniej rocznej produkcji rolnej, o której mowa w pkt 1, lub gdy szkoda przekracza kwotę 3350 zł – w przypadku szkód w środku trwałym, ” ,
 b)
-w ust. 8 pkt 4 otrzymuje brzmienie:
-„
+w ust. 8 pkt 4 otrzymuje brzmienie: „
 4)
-informację o powierzchni upraw rolnych w danym sezonie wegetacyjnym, w tym powierzchni upraw rolnych w dniu wystąpienia szkód;
-” ,
+informację o powierzchni upraw rolnych w danym sezonie wegetacyjnym, w tym powierzchni upraw rolnych w dniu wystąpienia szkód; ” ,
 c)
-po ust. 11 dodaje się ust. 11a w brzmieniu:
-„
+po ust. 11 dodaje się ust. 11a w brzmieniu: „
 11a.
-Oprocentowanie kredytów bankowych, o których mowa w ust. 1 pkt 1, może być zmienne i nie może wynosić więcej niż stopa referencyjna WIBOR ustalana dla pożyczek na rynku międzybankowym udzielanych na okres 3 miesięcy (WIBOR 3M), zaokrąglona do drugiego miejsca po przecinku, powiększona nie więcej niż o 3,5 punktu procentowego.
-” ,
+Oprocentowanie kredytów bankowych, o których mowa w ust. 1 pkt 1, może być zmienne i nie może wynosić więcej niż stopa referencyjna WIBOR ustalana dla pożyczek na rynku międzybankowym udzielanych na okres 3 miesięcy (WIBOR 3M), zaokrąglona do drugiego miejsca po przecinku, powiększona nie więcej niż o 3,5 punktu procentowego. ” ,
 d)
-ust. 12–14 otrzymują brzmienie:
-„
+ust. 12–14 otrzymują brzmienie: „
 12.
 Przy ustalaniu wysokości oprocentowania stosuje się stopę referencyjną WIBOR 3M, ogłaszaną na ostatni dzień roboczy drugiego miesiąca kwartału, która podlega zmianom w okresie kredytowania zgodnie z wysokością stopy referencyjnej WIBOR 3M ogłaszaną w ostatnim dniu roboczym drugiego miesiąca poprzedzającego każdy następny kwartał.
 13.
@@ -62,58 +54,45 @@ kredytobiorcę – w wysokości 0,5% – w przypadku kredytów bankowych na sfin
 2)
 Agencję – w pozostałej części.
 14.
-Wysokość oprocentowania płaconego przez kredytobiorcę stanowi różnicę pomiędzy wysokością należnego bankowi oprocentowania i wysokością połowy oprocentowania płaconego przez Agencję, jeżeli w dniu wystąpienia szkód, o których mowa w § 2 ust. 1 pkt 3, co najmniej 50% powierzchni upraw rolnych, z wyłączeniem łąk i pastwisk, lub co najmniej 50% liczby zwierząt gospodarskich w gospodarstwie rolnym lub dziale specjalnym produkcji rolnej nie było ubezpieczonych co najmniej od jednego z ryzyk, o których mowa w § 2 ust. 1 pkt 3.
-” ;
+Wysokość oprocentowania płaconego przez kredytobiorcę stanowi różnicę pomiędzy wysokością należnego bankowi oprocentowania i wysokością połowy oprocentowania płaconego przez Agencję, jeżeli w dniu wystąpienia szkód, o których mowa w § 2 ust. 1 pkt 3, co najmniej 50% powierzchni upraw rolnych, z wyłączeniem łąk i pastwisk, lub co najmniej 50% liczby zwierząt gospodarskich w gospodarstwie rolnym lub dziale specjalnym produkcji rolnej nie było ubezpieczonych co najmniej od jednego z ryzyk, o których mowa w § 2 ust. 1 pkt 3. ” ;
 2)
 w § 7:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Kredyty bankowe objęte pomocą, o której mowa w § 3–6, § 13g, § 13h i § 13q, są udzielane przez banki w ramach przyznanych tym bankom limitów finansowych.
-” ,
+Kredyty bankowe objęte pomocą, o której mowa w § 3–6, § 13g, § 13h i § 13q, są udzielane przez banki w ramach przyznanych tym bankom limitów finansowych. ” ,
 b)
-w ust. 4 pkt 1 otrzymuje brzmienie:
-„
+w ust. 4 pkt 1 otrzymuje brzmienie: „
 1)
-warunki kredytowania, w tym określenie wysokości opłat i prowizji na rzecz banku związanych z kredytem bankowym, w tym pobieranych od czynności bankowych w okresie kredytowania, których wysokość nie może przekroczyć 2% kwoty udzielonego kredytu, z tym że w przypadku kredytów bankowych, o których mowa w § 13q, wysokość opłat i prowizji na rzecz banku związanych z kredytem bankowym, w tym pobieranych od czynności bankowych w okresie kredytowania, nie może przekroczyć 1,5% kwoty udzielonego kredytu;
-” ;
+warunki kredytowania, w tym określenie wysokości opłat i prowizji na rzecz banku związanych z kredytem bankowym, w tym pobieranych od czynności bankowych w okresie kredytowania, których wysokość nie może przekroczyć 2% kwoty udzielonego kredytu, z tym że w przypadku kredytów bankowych, o których mowa w § 13q, wysokość opłat i prowizji na rzecz banku związanych z kredytem bankowym, w tym pobieranych od czynności bankowych w okresie kredytowania, nie może przekroczyć 1,5% kwoty udzielonego kredytu; ” ;
 3)
 w § 13e:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Agencja udziela corocznie pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, który prowadzi gospodarstwo w rozumieniu art. 2 pkt 8 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, w którym są utrzymywane zwierzęta gospodarskie z gatunku świnia ( Sus scrofa ).
-” ,
+Agencja udziela corocznie pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, który prowadzi gospodarstwo w rozumieniu art. 2 pkt 8 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, w którym są utrzymywane zwierzęta gospodarskie z gatunku świnia ( Sus scrofa ). ” ,
 b)
 w ust. 3 wyrazy „od dnia wprowadzenia programu bioasekuracji do dnia złożenia wniosku, o którym mowa w ust. 6,” zastępuje się wyrazami „w danym roku kalendarzowym”,
 c)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
 Wysokość pomocy, o której mowa w ust. 1, nie może przekroczyć:
 1)
 w 2018 r. – 75%,
 2)
-w kolejnych latach – 50%
-wydatków, o których mowa w ust. 3, na gospodarstwo.
-” ;
+w kolejnych latach – 50% – wydatków, o których mowa w ust. 3, na gospodarstwo. ” ;
 4)
 w § 13o:
 a)
 w ust. 1 w pkt 3 skreśla się wyrazy „, której nadano numer na podstawie ustawy z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2017 r. poz. 546), zwanej dalej „ustawą”,”,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Ilekroć w niniejszym paragrafie jest mowa o siedzibie stada producenta świń, rozumie się przez to wszystkie siedziby stad tego producenta położone na obszarze kwalifikującym się do pomocy, o którym mowa w ust. 1 pkt 3.
-” ,
+Ilekroć w niniejszym paragrafie jest mowa o siedzibie stada producenta świń, rozumie się przez to wszystkie siedziby stad tego producenta położone na obszarze kwalifikującym się do pomocy, o którym mowa w ust. 1 pkt 3. ” ,
 c)
 w ust. 9 w pkt 3 po wyrazie „ustawy” dodaje się wyrazy „z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt”;
 5)
-po § 13o dodaje się § 13p i 13q w brzmieniu:
-„
+po § 13o dodaje się § 13p i 13q w brzmieniu: „
 § 13p.
 1.
 Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi świń:
@@ -205,10 +184,9 @@ nie udokumentował, w terminie 3 miesięcy od dnia pobrania środków finansowyc
 2)
 nie przysługują, a już udzielone nie podlegają zwrotowi od dnia trwałego zaprzestania przez kredytobiorcę działalności rolniczej przed upływem okresu kredytowania lub trwałego zaprzestania spłaty kredytu bankowego i odsetek.
 8.
-Pomoc, o której mowa w ust. 1, ma charakter pomocy de minimis w rolnictwie i jest udzielana zgodnie z przepisami rozporządzenia nr 1408/2013 oraz przepisami o postępowaniu w sprawach dotyczących pomocy publicznej.
-” .
+Pomoc, o której mowa w ust. 1, ma charakter pomocy de minimis w rolnictwie i jest udzielana zgodnie z przepisami rozporządzenia nr 1408/2013 oraz przepisami o postępowaniu w sprawach dotyczących pomocy publicznej. ” .
 § 2.
 Pomoc, o której mowa w § 13p ust. 1 rozporządzenia zmienianego w § 1, może być udzielana od dnia ogłoszenia pozytywnej decyzji Komisji Europejskiej o zgodności ze wspólnym rynkiem pomocy publicznej określonej w tym przepisie.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147 oraz z 2018 r. poz. 303.
 

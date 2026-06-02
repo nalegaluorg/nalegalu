@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo administracyjne**.
 
-Łącznie: **69** aktów
+Łącznie: **68** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -13,7 +13,6 @@ Akty prawne z dziedziny: **Prawo administracyjne**.
 | [WDU20250001684](WDU20250001684/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada  | Obwieszczenie | obowiązujący |  |
 | [WDU20250001436](WDU20250001436/index.md) | Ustawa z dnia 12 września 2025 r. o zmianie ustawy o samorządzie gminnym or | Ustawa | obowiązujący |  |
 | [WDU20250001427](WDU20250001427/index.md) | Ustawa z dnia 12 września 2025 r. o zmianie ustawy - Prawo o postępowaniu p | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20250001153](WDU20250001153/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 sierpnia 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000581](WDU20250000581/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20240000721](WDU20240000721/index.md) | Ustawa z dnia 26 kwietnia 2024 r. o zmianie ustawy o samorządzie gminnym or | Ustawa | obowiązujący |  |
 | [WDU20230001463](WDU20230001463/index.md) | Ustawa z dnia 26 maja 2023 r. o zmianie ustawy o samorządzie gminnym, ustaw | Ustawa | obowiązujący |  |
@@ -76,4 +75,4 @@ Akty prawne z dziedziny: **Prawo administracyjne**.
 | [WDU19860470228](WDU19860470228/index.md) | Ustawa z dnia 19 grudnia 1986 r. o zmianie ustawy - Kodeks postępowania adm | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19600300168](WDU19600300168/index.md) | Ustawa z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego. | Ustawa | akt posiada tekst jednolity | [tak](WDU19600300168/orzecznictwo.md) |
 
-*69 aktów • [← Powrót do spisu głównego](../README.md)*
+*68 aktów • [← Powrót do spisu głównego](../README.md)*

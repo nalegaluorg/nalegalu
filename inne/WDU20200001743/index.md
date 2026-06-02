@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwojuz dnia 1 października 2020 r. w sprawie ewidencji obrotu towarami o znaczeniu strategicznym
+# Rozporządzenie Ministra Rozwojuz dnia 1 października 2020 r. w sprawie ewidencji obrotu towarami o znaczeniu strategicznym Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-10-01 |
 | Data wydania | 2020-10-08 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2026-04-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001743) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1743/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 25 ust. 4 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2020 r. poz. 509) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/43/WE z dnia 6 maja 2009 r. w sprawie uproszczenia warunków transferów produktów związanych z obronnością we Wspólnocie (Dz. Urz. UE L 146 z 10.06.2009, str. 1, Dz. Urz. UE L 308 z 24.11.2010, str. 11, Dz. Urz. UE L 85 z 24.03.2012, str. 3, Dz. Urz. UE L 31 z 31.01.2013, str. 43, Dz. Urz. UE L 40 z 11.02.2014, str. 20, Dz. Urz. UE L 359 z 16.12.2014, str. 117, Dz. Urz. UE L 163 z 21.06.2016, str. 1, Dz. Urz. UE L 70 z 15.03.2017, str. 1, Dz. Urz. UE L 311 z 25.11.2017, str. 1, Dz. Urz. UE L 89 z 29.03.2019, str. 1 oraz Dz. Urz. UE L 198 z 25.07.2019, str. 241). Na podstawie art. 25 ust. 4 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2020 r. poz. 509) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe informacje gromadzone w ewidencji obrotu towarami o znaczeniu strategicznym, zwanej dalej „ewidencją”, oraz sposób jej prowadzenia.
 § 2.
@@ -261,6 +260,5 @@ Ewidencję prowadzoną na podstawie dotychczasowych przepisów zamyka się z dni
 § 15.
 Traci moc rozporządzenie Ministra Gospodarki z dnia 10 maja 2013 r. w sprawie ewidencji obrotu towarami o znaczeniu strategicznym (Dz. U. poz. 619).
 § 16.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
-1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/43/WE z dnia 6 maja 2009 r. w sprawie uproszczenia warunków transferów produktów związanych z obronnością we Wspólnocie (Dz. Urz. UE L 146 z 10.06.2009, str. 1, Dz. Urz. UE L 308 z 24.11.2010, str. 11, Dz. Urz. UE L 85 z 24.03.2012, str. 3, Dz. Urz. UE L 31 z 31.01.2013, str. 43, Dz. Urz. UE L 40 z 11.02.2014, str. 20, Dz. Urz. UE L 359 z 16.12.2014, str. 117, Dz. Urz. UE L 163 z 21.06.2016, str. 1, Dz. Urz. UE L 70 z 15.03.2017, str. 1, Dz. Urz. UE L 311 z 25.11.2017, str. 1, Dz. Urz. UE L 89 z 29.03.2019, str. 1 oraz Dz. Urz. UE L 198 z 25.07.2019, str. 241).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r. 1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/43/WE z dnia 6 maja 2009 r. w sprawie uproszczenia warunków transferów produktów związanych z obronnością we Wspólnocie (Dz. Urz. UE L 146 z 10.06.2009, str. 1, Dz. Urz. UE L 308 z 24.11.2010, str. 11, Dz. Urz. UE L 85 z 24.03.2012, str. 3, Dz. Urz. UE L 31 z 31.01.2013, str. 43, Dz. Urz. UE L 40 z 11.02.2014, str. 20, Dz. Urz. UE L 359 z 16.12.2014, str. 117, Dz. Urz. UE L 163 z 21.06.2016, str. 1, Dz. Urz. UE L 70 z 15.03.2017, str. 1, Dz. Urz. UE L 311 z 25.11.2017, str. 1, Dz. Urz. UE L 89 z 29.03.2019, str. 1 oraz Dz. Urz. UE L 198 z 25.07.2019, str. 241).
 

@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-08-30 |
 | Data wydania | 2013-09-17 |
-| Wejście w życie | 2013-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001088) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1088/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Uczestnicy przetargów Rozdział 3 – Przetargi bonów Rozdział 4 – Przetarg sprzedaży Rozdział 5 – Przetarg uzupełniający Rozdział 6 – Rozrachunek przetargu sprzedaży i przetargu uzupełniającego Rozdział 7 – Przetarg odkupu bonów Rozdział 8 – Wykup bonów
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 97 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885 i 938) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa warunki emitowania bonów skarbowych, zwanych dalej „bonami”, w szczególności:
 1)
@@ -93,18 +93,19 @@ Bony mogą być nabywane przez osoby fizyczne, osoby prawne lub spółki nieposi
 Bony mogą być przedmiotem obrotu między podmiotami, o których mowa w ust. 1, przy zachowaniu warunków wynikających z przepisów regulujących obrót dewizowy, a także obrót instrumentami finansowymi oraz nadzór nad rynkiem kapitałowym.
 § 7.
 Listy emisyjne i komunikaty są publikowane na stronach internetowych Ministerstwa Finansów lub w innych środkach masowego przekazu o zasięgu ogólnopolskim.
+Uczestnicy przetargów
 § 8.
 1.
 W przetargach mogą brać udział:
 1)
-banki, instytucje kredytowe lub instytucje finansowe, a także ich oddziały, w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm.), z którymi Minister Finansów zawarł umowę w sprawie pełnienia funkcji Dealera Skarbowych Papierów Wartościowych, przyznającą im prawo do składania ofert na przetargach bonów określonych w rozporządzeniu,
+banki, instytucje kredytowe lub instytucje finansowe, a także ich oddziały, w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529 oraz z 2013 r. poz. 777 i 1036.), z którymi Minister Finansów zawarł umowę w sprawie pełnienia funkcji Dealera Skarbowych Papierów Wartościowych, przyznającą im prawo do składania ofert na przetargach bonów określonych w rozporządzeniu,
 2)
-banki państwowe w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, nieposiadające statusu Dealera Skarbowych Papierów Wartościowych
-zwane dalej „uczestnikami przetargu”.
+banki państwowe w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, nieposiadające statusu Dealera Skarbowych Papierów Wartościowych – zwane dalej „uczestnikami przetargu”.
 2.
 Szczegółowe warunki uczestnictwa w przetargach podmiotów, o których mowa w ust. 1 pkt 2, zostaną określone w umowie zawartej z Ministrem Finansów.
 § 9.
 Uczestnicy przetargu nabywają bony we własnym imieniu i na własny rachunek. Obowiązek zapłacenia ceny zakupu bonów ciąży na uczestniku przetargu.
+Przetargi bonów
 § 10.
 1.
 Przetargi bonów są organizowane przez agenta emisji.
@@ -131,6 +132,7 @@ Nie przydziela się ułamkowych części bonów.
 Wartość nominalna oferty przedstawionej przez uczestnika przetargu nie może być mniejsza od określonej w komunikacie.
 2.
 Oferty nabycia bonów złożone niezgodnie z warunkiem określonym w ust. 1 lub błędne pod względem rachunkowym, a także złożone po upływie terminu określonego w komunikacie zostają odrzucone.
+Przetarg sprzedaży
 § 14.
 Bony są oferowane na przetargach w terminach określonych w liście emisyjnym.
 § 15.
@@ -236,6 +238,7 @@ najwyższą cenę przetargową zgłoszoną przez uczestnika przetargu i odpowiad
 stopę redukcji ofert zawierających minimalną cenę sprzedaży, z dokładnością do dwóch miejsc po przecinku, z wyszczególnieniem ofert niekonkurencyjnych, jeżeli były dopuszczone.
 2.
 W przypadku sprzedaży bonów na przetargu jednej ceny komunikat, o którym mowa w ust. 1, nie zawiera danych, o których mowa w ust. 1 pkt 10 i 11.
+Przetarg uzupełniający
 § 21.
 1.
 Minister Finansów może oferować bony na przetargu uzupełniającym.
@@ -319,6 +322,7 @@ wartość nominalną bonów oferowanych do sprzedaży;
 wartość nominalną bonów, na które otrzymano ofertę zakupu;
 8)
 wartość nominalną bonów, których oferty zakupu przyjęto.
+Rozrachunek przetargu sprzedaży i przetargu uzupełniającego
 § 29.
 1.
 Uczestnicy przetargu sprzedaży, których oferty zakupu zostały przyjęte, są obowiązani zapłacić za bony nabyte na przetargu kwotę wynikającą z odpowiedniej ceny przetargowej i liczby sprzedanych bonów (cena zakupu).
@@ -340,6 +344,7 @@ Wysokość odstępnego, o którym mowa w ust. 1, obliczona będzie jako iloczyn 
 Odstępne jest pobierane z rachunku, o którym mowa w § 18 pkt 5, a w przypadku przetargu uzupełniającego z rachunku, o którym mowa w § 25 ust. 1 pkt 5 – w następnym dniu roboczym po dniu, o którym mowa w ust. 1.
 § 32.
 W przypadku przetargu uzupełniającego przepisy § 29–31 stosuje się odpowiednio.
+Przetarg odkupu bonów
 § 33.
 1.
 Minister Finansów może odkupować bony przed upływem terminu, na jaki zostały wyemitowane.
@@ -436,6 +441,7 @@ Jeżeli uczestnik przetargu nie dostarczy odpowiedniej liczby bonów oraz nie ui
 Wysokość odstępnego, o którym mowa w ust. 6, obliczona będzie jako iloczyn dwukrotności oprocentowania kredytu lombardowego ustalanego przez Narodowy Bank Polski, ceny przetargowej, liczby bonów oferowanych do odkupu w danej transakcji odkupu oraz 5/365.
 8.
 Odstępne jest pobierane z rachunku, o którym mowa w § 36 ust. 1 pkt 7, w następnym dniu roboczym po dniu, o którym mowa w ust. 6.
+Wykup bonów
 § 40.
 1.
 Bieg terminu wykupu bonów, o których mowa w § 4 ust. 2 pkt 1, rozpoczyna się od określonego w komunikacie dnia zapłaty za te bony.
@@ -457,21 +463,37 @@ Do sprzedaży i odkupu bonów, które zostaną wyemitowane na podstawie listów 
 § 44.
 Traci moc rozporządzenie Ministra Finansów z dnia 20 grudnia 2010 r. w sprawie warunków emitowania bonów skarbowych (Dz. U. Nr 250, poz. 1679).
 § 45.
-Rozporządzenie wchodzi w życie z dniem 1 października 2013 r.
+Rozporządzenie wchodzi w życie z dniem 1 października 2013 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529 oraz z 2013 r. poz. 777 i 1036.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Uczestnicy przetargów
+#### Rozdział 2 – Uczestnicy przetargów
 
-#### Rozdział 3 Przetargi bonów
+#### Rozdział 3 – Przetargi bonów
 
-#### Rozdział 4 Przetarg sprzedaży
+#### Rozdział 4 – Przetarg sprzedaży
 
-#### Rozdział 5 Przetarg uzupełniający
+#### Rozdział 5 – Przetarg uzupełniający
 
-#### Rozdział 6 Rozrachunek przetargu sprzedaży i przetargu uzupełniającego
+#### Rozdział 6 – Rozrachunek przetargu sprzedaży i przetargu uzupełniającego
 
-#### Rozdział 7 Przetarg odkupu bonów
+#### Rozdział 7 – Przetarg odkupu bonów
 
-#### Rozdział 8 Wykup bonów
+#### Rozdział 8 – Wykup bonów
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

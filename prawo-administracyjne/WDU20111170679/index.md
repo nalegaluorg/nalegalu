@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-04-15 |
 | Data wydania | 2011-06-08 |
-| Wejście w życie | 2011-06-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111170679) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/679/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 80, poz. 717 i Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1203 i Nr 167, poz. 1759, z 2005 r. Nr 172, poz. 1441 i Nr 175, poz. 1457, z 2006 r. Nr 17, poz. 128 i Nr 181, poz. 1337, z 2007 r. Nr 48, poz. 327, Nr 138, poz. 974 i Nr 173, poz. 1218, z 2008 r. Nr 180, poz. 1111 i Nr 223, poz. 1458, z 2009 r. Nr 52, poz. 420 i Nr 157, poz. 1241, z 2010 r. Nr 28, poz. 142 i 146, Nr 40, poz. 230 i Nr 106, poz. 675 oraz z 2011 r. Nr 21, poz. 113.) wprowadza się następujące zmiany:
 
 - **1)** w art. 28f dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
@@ -56,5 +55,5 @@ source: "eli-html"
 
 2. Uchylanie się od złożenia ślubowania przez wójta (burmistrza, prezydenta miasta) wybranego w wyborach przeprowadzonych przed dniem wejścia w życie niniejszej ustawy w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy jest równoznaczne z odmową złożenia ślubowania.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 80, poz. 717 i Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1203 i Nr 167, poz. 1759, z 2005 r. Nr 172, poz. 1441 i Nr 175, poz. 1457, z 2006 r. Nr 17, poz. 128 i Nr 181, poz. 1337, z 2007 r. Nr 48, poz. 327, Nr 138, poz. 974 i Nr 173, poz. 1218, z 2008 r. Nr 180, poz. 1111 i Nr 223, poz. 1458, z 2009 r. Nr 52, poz. 420 i Nr 157, poz. 1241, z 2010 r. Nr 28, poz. 142 i 146, Nr 40, poz. 230 i Nr 106, poz. 675 oraz z 2011 r. Nr 21, poz. 113.
 

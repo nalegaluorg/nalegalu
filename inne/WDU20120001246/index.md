@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-09-12 |
 | Data wydania | 2012-11-14 |
-| Wejście w życie | 2012-11-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001246) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1246/text.pdf) |
 
 Treść rozporządzenia
-Załącznik – Urzędowa tabela klas gruntów Część I – Grunty orne Dział I – Gleby terenów nizinnych i wyżynnych Rozdział 1 – Ogólna charakterystyka klas bonitacyjnych gleb terenów nizinnych i wyżynnych Rozdział 2 – Typy gleb terenów nizinnych i wyżynnych Rozdział 3 – Rodzaje i gatunki gleb terenów nizinnych i wyżynnych Rozdział 4 – Zaliczanie gleb terenów nizinnych i wyżynnych do poszczególnych klas bonitacyjnych Dział II – Gleby terenów górskich Rozdział 1 – Ogólna charakterystyka klas bonitacyjnych gleb terenów górskich Rozdział 2 – Typy gleb terenów górskich Rozdział 3 – Gatunki gleb terenów górskich Rozdział 4 – Granice stref wysokościowych dla terenów górskich Rozdział 5 – Zaliczanie gleb terenów górskich do poszczególnych klas bonitacyjnych Część II – Grunty zrekultywowane Dział I – Ogólna charakterystyka klas bonitacyjnych gruntów zrekultywowanych z przeznaczeniem na grunty orne Dział II – Gatunki gleb gruntów zrekultywowanych Dział III – Zaliczanie gruntów zrekultywowanych do poszczególnych klas bonitacyjnych Część III – Łąki trwałe i pastwiska trwałe Dział I – Ogólna charakterystyka klas bonitacyjnych gleb łąk trwałych i pastwisk trwałych Rozdział 1 – Tereny nizinne i wyżynne Rozdział 2 – Tereny górskie Dział II – Typy gleb łąk trwałych i pastwisk trwałych Rozdział 1 – Tereny nizinne i wyżynne Rozdział 2 – Tereny górskie Dział III – Gatunki gleb łąk trwałych i pastwisk trwałych Dział IV – Zaliczanie gleb łąk trwałych i pastwisk trwałych terenów nizinnych i wyżynnych do poszczególnych klas bonitacyjnych Rozdział 1 – Klasa I Rozdział 2 – Klasa II Rozdział 3 – Klasa III Rozdział 4 – Klasa IV Rozdział 5 – Klasa V Rozdział 6 – Klasa VI Dział V – Zaliczanie gleb łąk trwałych i pastwisk trwałych terenów górskich do poszczególnych klas bonitacyjnych Rozdział 1 – Klasa II Rozdział 2 – Klasa III Rozdział 3 – Klasa IV Rozdział 4 – Klasa V Rozdział 5 – Klasa VI Część IV – Lasy Dział I – Ogólna charakterystyka klas bonitacyjnych gleb gruntów leśnych Rozdział 1 – Tereny nizinne i wyżynne Rozdział 2 – Tereny górskie Dział II – Typy gleb gruntów leśnych Rozdział 1 – Tereny nizinne i wyżynne Rozdział 2 – Tereny górskie Dział III – Gatunki gleb gruntów leśnych Dział IV – Ustalanie typu siedliskowego lasu, jego drzewostanu, podszycia i runa na glebach gruntów leśnych Rozdział 1 – Tereny nizinne i wyżynne Rozdział 2 – Tereny górskie Dział V – Zaliczanie gleb gruntów leśnych terenów nizinnych i wyżynnych do poszczególnych klas bonitacyjnych Rozdział 1 – Klasa I Rozdział 2 – Klasa II Rozdział 3 – Klasa III Rozdział 4 – Klasa IV Rozdział 5 – Klasa V Rozdział 6 – Klasa VI Dział VI – Zaliczanie gleb gruntów leśnych terenów górskich do poszczególnych klas bonitacyjnych Rozdział 1 – Klasa I Rozdział 2 – Klasa II Rozdział 3 – Klasa III Rozdział 4 – Klasa IV Rozdział 5 – Klasa V Rozdział 6 – Klasa VI Część V – Grunty zadrzewione i zakrzewione Część VI – Grunty pod stawami rybnymi Część VII – Nieużytki Część VIII – Pozostałe kategorie gruntów rolnych
+Załącznik – Urzędowa tabela klas gruntów
 Treść rozporządzenia
 Na podstawie art. 26 ust. 1 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2010 r. Nr 193, poz. 1287) zarządza się, co następuje:
 § 1.
@@ -165,9 +164,13 @@ Uzasadnienie do decyzji o ustaleniu klasyfikacji zawiera dodatkowo informacje o 
 § 12.
 Klasyfikacja przeprowadzona na podstawie dotychczasowych przepisów zachowuje ważność.
 § 13.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 4 czerwca 1956 r. w sprawie klasyfikacji gruntów (Dz. U. Nr 19, poz. 97, z 1957 r. Nr 5, poz. 21 oraz z 1972 r. Nr 49, poz. 317), które zgodnie z art. 59 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2010 r. Nr 193, poz. 1287) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 4 czerwca 1956 r. w sprawie klasyfikacji gruntów (Dz. U. Nr 19, poz. 97, z 1957 r. Nr 5, poz. 21 oraz z 1972 r. Nr 49, poz. 317), które zgodnie z art. 59 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2010 r. Nr 193, poz. 1287) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 Załącznik – Urzędowa tabela klas gruntów
+Grunty orne
+Gleby terenów nizinnych i wyżynnych
+Ogólna charakterystyka klas bonitacyjnych gleb terenów nizinnych i wyżynnych
 Klasa I Gleby orne najlepsze Gleby te występują zawsze w dobrych warunkach fizjograficznych, tj. na równinach lub na bardzo łagodnych (do 2°) pochyłościach, są zasobne we wszystkie składniki odżywcze dla roślin, mają dobrą naturalną strukturę, nawet na znacznej głębokości, są łatwe do uprawy, ciepłe, czynne, przepuszczalne i przewiewne, ale przy tym dostatecznie wilgotne, niezaskorupiające się. Mają w dobrze wykształconym i głębokim poziomie próchnicznym słodką próchnicę niewykazującą większego zakwaszenia. Mają właściwe stosunki wodne i nie wymagają melioracji. Można na nich osiągać bez większych nakładów, nawet w średniej kulturze rolnej, wysokie plony najszlachetniejszych, głęboko korzeniących się roślin uprawnych. Gleby te nadają się pod uprawę wszystkich roślin uprawnych, w szczególności buraków cukrowych, pszenicy, lucerny, rzepaku, koniczyny czerwonej, pod uprawę warzyw i zakładanie sadów. Do klasy tej zalicza się najlepsze czarnoziemy, najlepsze mady czarnoziemne pyłowe i najlepsze czarne ziemie wytworzone z glin marglistych lub utworów pyłowych, najlepsze czarnoziemne rędziny deluwialne, najlepsze gleby brunatne wytworzone z lessów lub utworów lessowatych oraz wyjątkowo najlepsze gleby brunatne wytworzone z glin, średnie. Klasa II Gleby orne bardzo dobre Gleby te są zbliżone właściwościami do gleb klasy I, ale występują już w nieco gorszych warunkach fizjograficznych lub mają nieco gorsze właściwości fizyczne, np. są mniej przepuszczalne i mniej przewiewne oraz trudniejsze do uprawy. Gleby te są zmeliorowane lub nie wymagają melioracji. W zasadzie nadają się pod uprawę tych samych roślin uprawnych co gleby klasy I, ale w średniej kulturze rolnej plony osiągane na glebach tej klasy są niższe. Gleby te nadają się bardzo dobrze pod zakładanie sadów. Do klasy tej zalicza się bardzo dobre czarnoziemy, bardzo dobre mady pyłowe i próchniczne oraz najlepsze spośród strukturalnych mad średnich, bardzo dobre czarne ziemie wytworzone z glin marglistych lub utworów pyłowych oraz najlepsze spośród czarnych ziem wytworzonych ze strukturalnych iłów marglistych, bardzo dobre czarnoziemne rędziny deluwialne lub głębokie czarnoziemne rędziny kredowe i mieszane, bardzo dobre gleby brunatne wytworzone z lessów lub utworów lessowatych oraz najlepsze gleby brunatne wytworzone z glin, iłów pylastych lub utworów pyłowych wodnego pochodzenia, najlepsze gleby płowe wytworzone z glin, iłów pylastych, utworów pyłowych wodnego pochodzenia, lessów lub utworów lessowatych. Klasa IIIa Gleby orne dobre Gleby te mają gorsze właściwości fizyczne lub chemiczne, lub występują w gorszych warunkach fizjograficznych niż gleby klasy I i II. Przede wszystkim odnosi się to do stosunków wodnych (poziom wód gruntowych może ulegać stosunkowo znacznym wahaniom), wybór roślin uprawnych na tych glebach jest na ogół mniejszy niż na glebach klasy I i II, a wysokość plonów waha się w szerokich granicach w zależności od stopnia kultury rolnej, umiejętności uprawy i nawożenia oraz w pewnym stopniu od warunków atmosferycznych. Niektóre z gleb zaliczonych do tej klasy mogą być także trudniejsze do uprawy. Większość z nich wykazuje pewne oznaki procesu degradacji, chociaż nie można nazwać ich glebami wadliwymi, gdyż ujemne cechy występują w stopniu nieznacznym. Gleby w tej klasie są zmeliorowane lub nie wymagają melioracji. Na lżejszych glebach tej klasy osiąga się wysokie plony żyta, jęczmienia, owsa i ziemniaków, a w warunkach wysokiej kultury rolnej uzyskuje się, podobnie jak na glebach cięższych, dobre plony buraków cukrowych, pszenicy, warzyw i koniczyny czerwonej. Gleby tej klasy nadają się również pod zakładanie sadów. Do klasy tej zalicza się gleby brunatne i płowe wytworzone z najlepszych piasków gliniastych mocnych zalegających na glinach, iłach, lessach lub pyłach, wytworzone z najlepszych płytkich piasków gliniastych lekkich pylastych, zalegających na zwięźlej szych podłożach o dobrych stosunkach wodnych oraz, wyjątkowo, najlepszych całkowitych piasków gliniastych mocnych pylastych, gleby brunatne i płowe wytworzone z glin, utworów pyłowych, lessów lub utworów lessowatych oraz najlepsze gleby brunatne i płowe (występujące stosunkowo rzadko) wytworzone z iłów ciężkich lub bardzo ciężkich, czarnoziemy niecałkowite lub występujące w gorszych warunkach fizjograficznych, czarne ziemie wytworzone z glin, iłów lub utworów pyłowych oraz najlepsze czarne ziemie lekkie, wytworzone z piasków gliniastych mocnych, najlepsze gleby torfowe, zmeliorowane lub nie wymagają melioracji, mady pyłowe, strukturalne mady średnie oraz najlepsze spośród strukturalnych mad ciężkich i mad lekkich piaszczystych, najlepsze spośród kredowych rędzin brunatnych i rędziny czarnoziemne, mieszane lub deluwialne oraz najlepsze spośród rędzin gipsowych. Klasa IIIb Gleby orne średnio dobre Gleby te są zasadniczo zbliżone właściwościami do gleb klasy IIIa, ale mają gorsze właściwości fizyczne lub chemiczne, lub występują w gorszych warunkach fizjograficznych. Poziom wód gruntowych ulega jeszcze większym wahaniom, a plony są uzależnione w jeszcze większym stopniu od warunków atmosferycznych, niekiedy bywają to gleby okresowo za suche, inne mogą być okresowo za mokre. Gleby te mogą być również narażone na erozję. Oznaki procesu degradacji, jeżeli występują, są już zazwyczaj wyraźnie zaznaczone w porównaniu z glebami klas wyższych. Gleby te, zasadniczo jeszcze dość dobre, mogą być uważane już w pewnym, ale jeszcze stosunkowo nieznacznym stopniu, za gleby wadliwe. Niektóre z nich są trudniejsze do uprawy. Na glebach tych w warunkach wysokiej kultury rolnej i pomyślnego przebiegu warunków atmosferycznych można osiągnąć dobre plony pszenicy, buraków cukrowych i koniczyny czerwonej. Gleby tej klasy nadają się również pod zakładanie sadów. Do klasy tej zalicza się gleby brunatne i płowe wytworzone z piasków gliniastych mocnych, zalegających na glinach, iłach lub pyłach, nieco gorszych od zaliczonych do klasy IIIa, najlepszych piasków gliniastych lekkich na zwięźlej szych podłożach o dobrych stosunkach wodnych oraz całkowitych piasków gliniastych mocnych i najlepszych, całkowitych piasków gliniastych lekkich pylastych oraz gleby brunatne i płowe wytworzone z glin, iłów, utworów pyłowych, lessów lub utworów lessowatych, gorsze czarnoziemy niecałkowite lub występujące w złych warunkach fizjograficznych, czarne ziemie wytworzone z glin, iłów, utworów pyłowych lub piasków gliniastych mocnych oraz najlepsze czarne ziemie wytworzone z piasków gliniastych lekkich zalegających na zwięźlej szych podłożach, gleby orne wytworzone na torfach, zmeliorowane lub nie wymagają melioracji, mady pyłowe, mady średnie oraz niektóre strukturalne mady ciężkie i mady lekkie, niektóre rędziny kredowe brunatne, czarnoziemne i deluwialne oraz rędziny gipsowe. Klasa IVa Gleby orne średniej jakości, lepsze Są to gleby o zdecydowanie mniejszym wyborze roślin uprawnych niż gleby klas wyższych. Plony są na ogół średnie, nawet gdy gleby te znajdują się w dobrej kulturze rolnej. Plony w znacznym stopniu są uzależnione od ilości i rozkładu opadów atmosferycznych, szczególnie w okresie wegetacyjnym. Gleby te nieraz występują w gorszych warunkach fizjograficznych, na większych spadkach, mogą być narażone na erozję wodną. Gleby ciężkie tej klasy są zasobne w składniki pokarmowe i charakteryzuje je duża żyzność potencjalna, ale są mało przewiewne, zimne i mało czynne, przeważnie ciężkie do uprawy, w okresach upałów zaskorupiają się, tworząc głębokie pęknięcia i szczeliny lub bryły trudne do rozbicia. Uprawiane na mokro mażą się, wymagają więc umiejętnego uchwycenia pory upraw. W sprzyjających warunkach atmosferycznych i dobrej kulturze rolnej mogą dać nawet wysokie plony pszenicy, buraków cukrowych i koniczyny czerwonej, żyto plonuje na nich gorzej od pszenicy i jest mniej pewne. Znaczna część takich gleb ma poziom wód gruntowych okresowo za wysoki i wymaga melioracji, a po jej wykonaniu gleby te przechodzą do klas wyższych (nawet do klasy II). Przeważnie występują na nich mniej korzystne warunki do zakładania sadów niż na glebach klas wyższych. Gleby lekkie tej klasy są glebami żytnio-ziemniaczanymi, natomiast nie nadają się pod uprawę koniczyny czerwonej. W przypadku gdy gleby tej klasy są utrzymywane w wysokiej kulturze rolnej i dobrych warunkach wilgotnościowych, nadają się pod uprawę jęczmienia, a nawet pszenicy i owsa, a buraki pastewne dają plony zadowalające. Gleby tej klasy nadają się również pod zakładanie sadów, ale pod uprawę nie wszystkich gatunków drzew owocowych. Do tej klasy zalicza się gleby brunatne i płowe wytworzone ze żwirów gliniastych, całkowitych piasków gliniastych lekkich lub piasków gliniastych lekkich niecałkowitych zalegających na zwięźlejszym głęboko występującym podłożu, gleby wytworzone z piasków gliniastych pylastych lub słabo gliniastych niecałkowitych, zalegających na słabo przepuszczalnych glinach lub iłach, niezbyt wysoko oglejonych (50–60 cm), piasków gliniastych na wapieniach, żwirach lub piaskach luźnych oraz piasków gliniastych powstałych ze zwietrzenia piaskowców, jak również gleby brunatne i płowe wytworzone z glin, iłów, utworów pyłowych, lessów lub utworów lessowatych. Są to przeważnie gleby niecałkowite na przepuszczalnych podłożach lub gleby o gorszych stosunkach wodnych, względnie położone w gorszych warunkach fizjograficznych, narażone na erozję wodną, niektóre czarnoziemy podmokłe, średniej jakości czarne ziemie wytworzone z glin, iłów, utworów pyłowych lub piasków gliniastych mocnych lub lekkich, średniej jakości gleby orne na torfach, zmeliorowane lub nie wymagają melioracji, mady pyłowe, mady lekkie, piaszczyste, mady średnie oraz mady ciężkie, jeżeli nie są za wilgotne (wyraźne oglejenie poniżej 50 cm), średniej jakości płytsze kredowe rędziny czarnoziemne, brunatne i deluwialne, rędziny gipsowe oraz najlepsze rędziny wytworzone z twardych wapieni. Klasa IVb Gleby orne średniej jakości, gorsze Gleby te zasadniczo są zbliżone swymi właściwościami do gleb klasy IVa, ale są bardziej od nich wadliwe – albo zbyt suche, albo zbyt wilgotne. Plony wahają się w szerokich granicach i silnie są uzależnione od warunków atmosferycznych. Gleby ciężkie w tej klasie są najczęściej podmokłe, często zbyt ciężkie do uprawy, albo położone w złych warunkach fizjograficznych, np. na silnych spadkach, zerodowanych szczytach wzgórz, zagłębieniach terenu. Niektóre z tych gleb zalegają płytko na zbyt przepuszczalnym podłożu i mogą być zbyt suche. W innych odmianach gleb tej klasy poziom wód gruntowych jest przez dłuższy czas zbyt wysoki, a wyraźne oglejenie występuje w profilu glebowym powyżej 50 cm, co powoduje, że wymagają one melioracji. Na cięższych glebach zaliczanych do tej klasy najlepiej uprawia się mieszanki zbóż, owies, koniczynę, kapustę, brukiew i inne rośliny pastewne. Nie nadają się pod uprawę ozimin. Gleby tej klasy nadają się pod uprawę tylko niektórych gatunków drzew owocowych. Gleby lekkie w tej klasie są w zasadzie glebami żytnio-ziemniaczanymi, są jednak często wrażliwe na suszę. Wyjątkowo, w sprzyjających warunkach atmosferycznych i gdy są utrzymywane w wysokiej kulturze rolnej, nadają się pod uprawę innych roślin uprawnych. Pod zakładanie sadów nadają się dla mniej wymagających gatunków drzew owocowych. Do tej klasy zalicza się głównie gleby brunatne wytworzone z niektórych żwirów gliniastych, piasków słabo gliniastych z domieszką pyłu lub piasków słabo gliniastych pylastych, całkowitych o przewadze frakcji pyłu grubego, piasków słabo gliniastych, całkowitych, występujących w wybitnie dobrych warunkach uwilgotnienia, piasków na glinach lub iłach silnie oglejonych, średnio głębokich, piasków gliniastych na wapieniach, żwirach lub piaskach oraz piasków gliniastych wietrzeniowych, zalegających na podłożu średnio głęboko występującym w profilu glebowym. W klasie tej występują gleby brunatne i płowe, wytworzone z glin, iłów, utworów pyłowych, lessów lub utworów lessowatych, zbyt wilgotne lub wyjątkowo najgorsze podmokłe czarnoziemy, silnie oglejone czarne ziemie wytworzone z glin, iłów, utworów pyłowych lub piasków gliniastych oraz niektóre czarne ziemie wytworzone z piasków słabo gliniastych, gleby orne na płytko zmurszałym torfie, zmeliorowane lub nie wymagają melioracji, gleby murszowe i murszaste, płytkie mady pyłowe, lekkie i średnie oraz wysoko oglejone mady ciężkie, płytkie rędziny kredowe brunatne i czarnoziemne, mieszane i deluwialne oraz rędziny wytworzone z twardych wapieni nieco gorsze od rędzin zaliczanych do klasy IVa. Klasa V Gleby orne słabe Gleby te są mało żyzne i mało urodzajne. Należą do nich gleby zbyt lekkie, za suche, przydatne do uprawy żyta i łubinu, a w latach obfitujących w opady nadają się pod uprawę ziemniaków i seradeli. Do klasy tej zalicza się również płytkie i kamieniste gleby, najczęściej ubogie w materię organiczną oraz gleby zbyt mokre, niezmeliorowane lub nienadające się do melioracji. Gleby ciężkie i podmokłe w tej klasie najbardziej nadają się pod uprawę brukwi i kapusty, mieszanek traw oraz niektórych roślin pastewnych. Gleby te w zasadzie nie nadają się pod zakładanie sadów. Na glebach lekkich i suchych tej klasy uprawia się żyto, łubin, niekiedy ziemniaki. Dobór odpowiednich roślin w głównej mierze jest uzależniony od stosunków wodnych i stopnia kultury rolnej. Gleby te nadają się pod uprawę tylko niektórych gatunków drzew owocowych. Na płytkich rędzinach kredowych tej klasy można uprawiać również pszenicę, esparcetę i koniczynę białą, ale plony tych roślin są znacznie niższe niż w klasach wyższych. Do klasy V zalicza się gleby brunatne, gleby płowe, gleby bielicowe i rdzawe wytworzone ze żwirów piaszczystych, gorszych żwirów gliniastych, piasków słabo gliniastych całkowitych i średnio głębokich na przepuszczalnym podłożu lub wapieniach lub średnio głębokich piasków słabo gliniastych wietrzeniowych, piasków słabo gliniastych głębokich na glinach, lessach lub utworach pyłowych, piasków słabo gliniastych całkowitych podmokłych lub piasków słabo gliniastych na glinach lub iłach o stale za wysokim poziomie wód gruntowych, z płytkich piasków gliniastych zalegających na piasku luźnym lub słabo gliniastym. Do klasy tej należą bardzo płytkie gleby brunatne i płowe wytworzone z glin, utworów pyłowych, lessów lub utworów lessowatych, zalegających na piaskach luźnych lub żwirach, gleby glejowe bardzo silnie podmokłe (oglejenie występuje pod poziomem próchnicznym), występujące na terenach bezodpływowych, wytworzone z glin, iłów, utworów pyłowych, lessów lub utworów lessowatych, czarne ziemie wytworzone z piasków słabo gliniastych, całkowite lub niecałkowite, zalegające na piaskach luźnych, czarne ziemie silnie podmokłe, wytworzone z różnych skał macierzystych, gleby orne na płytko rozłożonych torfach lub płytkich torfach na piasku luźnym, o nieuregulowanych stosunkach wodnych, gleby murszaste, mady bardzo lekkie, różne mady płytkie i suche oraz różne mady silnie oglejone i podmokłe, mady ciężkie położone w bezodpływowych kotlinach i zagłębieniach, różne bardzo płytkie rędziny oraz gorsze odmiany rędzin wytworzonych z twardych wapieni. Klasa VI Gleby orne najsłabsze Gleby te są bardzo słabe, wadliwe, dają plony niskie i niepewne. Podmokłe gleby tej klasy wykazują stale za wysoki poziom wód gruntowych, często występuje storfiały lub zmurszały utwór organiczny. Przeprowadzenie melioracji na tych glebach jest bardzo utrudnione. Nie nadają się do uprawy zbóż i roślin okopowych i powinny być wykorzystywane raczej jako pastwiska. Nie nadają się również pod zakładanie sadów. Do klasy tej należą również gleby lekkie, za suche, które nadają się pod uprawę łubinu, natomiast żyto daje na nich średnie plony, ale tylko w latach o sprzyjających warunkach atmosferycznych. Należą tu również gleby bardzo płytkie (płytsze niż gleby należące do klasy V) lub płytkie i silnie kamieniste, przez co trudne do uprawy. Gleby te w zasadzie nie nadają się pod zakładanie sadów, z wyjątkiem mniej wymagających gatunków wiśni. Na bardzo płytkich rędzinach tej klasy można uprawiać jedynie żyto i koniczynę białą, w zasadzie gleby te nadają się bardziej pod zalesienie niż pod uprawę rolną. Do klasy tej zalicza się gleby brunatne, rdzawe i bielicowe wytworzone z gorszych żwirów piaszczystych, płytkich piasków słabo gliniastych położonych na piaskach luźnych, wapieniach, żwirach, gleby wytworzone z bardzo płytkich piasków wietrzeniowych, piasków słabo gliniastych średnio głębokich na piasku luźnym, znajdujących się na terenach zbyt suchych lub piasków słabo gliniastych całkowitych, występujących na terenach wybitnie suchych, np. na szczytach wzgórz. Należą do tej klasy najgorsze odmiany gleb ornych na torfach, wysoce wadliwe oraz najgorsze gleby murszaste, najgorsze mady piaszczyste, bardzo lekkie lub ciężkie oraz bardzo płytkie rędziny wytworzone z twardych wapieni. Klasa VIz Gleby orne najsłabsze, trwale za suche lub za mokre Do tej klasy zalicza się gleby suche, nieprzydatne do uprawy polowej. Gleby te powinny być zalesione. Zalicza się tu w szczególności gleby bielicowe i rdzawe wytworzone ze żwirów piaszczystych, piasków luźnych całkowitych, piasków luźnych płytkich na wapieniach lub żwirach lub płytkich piasków wietrzeniowych. Wymienione gleby różnią się od przedstawionych w klasie VI bardziej niekorzystnymi cechami wynikającymi z budowy profilu glebowego i układu warunków fizjograficznych. Wyjątkowo zalicza się do tej klasy niektóre bardzo podmokłe piaski, nieprzydatne jako grunty orne ani łąki trwałe i pastwiska trwałe, nadające się pod zalesienie olszyną.
+Typy gleb terenów nizinnych i wyżynnych
 AB. Gleby brunatne, gleby płowe, gleby bielicowe i gleby rdzawe wytworzone ze żwirów i piasków
 A.
 Gleby płowe
@@ -183,6 +186,7 @@ F.
 Mady
 G.
 Rędziny
+Rodzaje i gatunki gleb terenów nizinnych i wyżynnych
 Rodzaj gleby oznacza się cyfrą arabską. Rodzaje gleb występują tylko w typie AB. gleby brunatne, gleby płowe, gleby bielicowe i gleby rdzawe oraz typach A. gleby płowe i B. gleby brunatne terenów nizinnych i wyżynnych.
 1.
 wytworzone ze żwirów
@@ -195,37 +199,34 @@ wytworzone z iłów
 5.
 wytworzone z pyłów wodnego pochodzenia, utworów lessowatych i pyłów o nieustalonej genezie
 6.
-wytworzone z lessów
-Gatunki gleb oznacza się małymi literami alfabetu, które są podane w tekście tabeli przy opisach gleb zaliczonych do danej klasy. Dla gleb mineralnych oraz warstw mineralnych w niektórych glebach organicznych i organiczno-mineralnych gatunek gleby określa się na podstawie uziarnienia (składu granulometrycznego), jak następuje: żwir piaszczysty żwir gliniasty piasek luźny piasek luźny pylasty piasek słabo gliniasty piasek słabo gliniasty pylasty piasek gliniasty lekki piasek gliniasty lekki pylasty piasek gliniasty mocny piasek gliniasty mocny pylasty glina lekka glina lekka pylasta glina średnia glina średnia pylasta glina ciężka glina ciężka pylasta ił ciężki ił bardzo ciężki pył zwykły pył ilasty less zwykły less ilasty utwór szkieletowy utwór skalisty W glebach mineralnych wytworzonych z glin, w rędzinach, madach i utworach namytych gatunki gleb są określane na podstawie uziarnienia wierzchnich warstw. Wyróżnia się gleby: bardzo lekkie lekkie średnie ciężkie W glebach organicznych gatunki gleb są określane na podstawie odpowiednich utworów organicznych: torf niski torf wysoki torf przejściowy mursz muł
+wytworzone z lessów Gatunki gleb oznacza się małymi literami alfabetu, które są podane w tekście tabeli przy opisach gleb zaliczonych do danej klasy. Dla gleb mineralnych oraz warstw mineralnych w niektórych glebach organicznych i organiczno-mineralnych gatunek gleby określa się na podstawie uziarnienia (składu granulometrycznego), jak następuje: żwir piaszczysty żwir gliniasty piasek luźny piasek luźny pylasty piasek słabo gliniasty piasek słabo gliniasty pylasty piasek gliniasty lekki piasek gliniasty lekki pylasty piasek gliniasty mocny piasek gliniasty mocny pylasty glina lekka glina lekka pylasta glina średnia glina średnia pylasta glina ciężka glina ciężka pylasta ił ciężki ił bardzo ciężki pył zwykły pył ilasty less zwykły less ilasty utwór szkieletowy utwór skalisty W glebach mineralnych wytworzonych z glin, w rędzinach, madach i utworach namytych gatunki gleb są określane na podstawie uziarnienia wierzchnich warstw. Wyróżnia się gleby: bardzo lekkie lekkie średnie ciężkie W glebach organicznych gatunki gleb są określane na podstawie odpowiednich utworów organicznych: torf niski torf wysoki torf przejściowy mursz muł
+Zaliczanie gleb terenów nizinnych i wyżynnych do poszczególnych klas bonitacyjnych
+AB. Gleby brunatne, gleby płowe, gleby bielicowe i gleby rdzawe
 1.
 wytworzone ze żwirów Klasa IVa
 a)
 Gleby żwirowe gliniaste, całkowite, z domieszką części pyłowych w całym profilu glebowym. Poziom próchniczny o miąższości nie mniejszej niż 30 cm, wykształcony. W podłożu może występować piasek. Węglan wapnia występuje często pod warstwą próchniczną. Gleby dość urodzajne, chociaż czasem zbyt suche. Nadają się pod uprawę żyta, ziemniaków i owsa.
 b)
-Gleby żwirowe silnie gliniaste, niecałkowite, na glinach przepuszczalnych leżących nie głębiej niż 80 cm. Poziom próchniczny o miąższości ponad 30 cm, dobrze wykształcony. Dobre gleby żytnio-ziemniaczane. Czasem za suche. W sprzyjających warunkach atmosferycznych nadają się pod uprawę żyta, ziemniaków i owsa.
-Klasa IVb
+Gleby żwirowe silnie gliniaste, niecałkowite, na glinach przepuszczalnych leżących nie głębiej niż 80 cm. Poziom próchniczny o miąższości ponad 30 cm, dobrze wykształcony. Dobre gleby żytnio-ziemniaczane. Czasem za suche. W sprzyjających warunkach atmosferycznych nadają się pod uprawę żyta, ziemniaków i owsa. Klasa IVb
 a)
 Gleby żwirowe gliniaste, całkowite, z domieszką części pyłowych w wierzchniej warstwie. Pod poziomem próchnicznym o miąższości około 30 cm, występują znaczne ilości odłamków skał. W podłożu spotyka się niekiedy grubszy piasek różnoziarnisty. Gleby średnio urodzajne, często zbyt suche. Nadają się pod uprawę żyta i ziemniaków.
 b)
-Gleby żwirowe gliniaste, niecałkowite, na glinach przepuszczalnych leżących na głębokości około 100 cm. Poziom próchniczny o miąższości około 30 cm. Gleby żytnio-ziemniaczane. Często za suche.
-Klasa V
+Gleby żwirowe gliniaste, niecałkowite, na glinach przepuszczalnych leżących na głębokości około 100 cm. Poziom próchniczny o miąższości około 30 cm. Gleby żytnio-ziemniaczane. Często za suche. Klasa V
 a)
 Gleby żwirowo-kamieniste, całkowite lub niecałkowite, na piaskach. Poziom próchniczny o miąższości około 25 cm, dobrze wykształcony. Gleby suche, żytnio-łubinowe.
 b)
-Gleby żwirowe gliniaste, całkowite, z domieszką części pyłowych i dużą ilością kamieni. Pod poziomem próchnicznym o miąższości około 20 cm barwy szarej występują warstwy żwiru zawierającego odłamki skał wapiennych. Gleby zbyt przewiewne i przepuszczalne. Nadają się pod uprawę żyta i ziemniaków.
-Klasa VI
+Gleby żwirowe gliniaste, całkowite, z domieszką części pyłowych i dużą ilością kamieni. Pod poziomem próchnicznym o miąższości około 20 cm barwy szarej występują warstwy żwiru zawierającego odłamki skał wapiennych. Gleby zbyt przewiewne i przepuszczalne. Nadają się pod uprawę żyta i ziemniaków. Klasa VI
 a)
 Gleby żwirowo-kamieniste, całkowite lub niecałkowite, na piaskach, nadmiernie przewiewne i przepuszczalne oraz bardzo wrażliwe na brak opadów. Poziom próchniczny o miąższości około 15 cm. Plony żyta i łubinu na tych glebach są bardzo niskie.
 b)
-Gleby żwirowe, niecałkowite, na nieprzepuszczalnych glinach lub iłach ułożonych nieckowato i niemające przez to odpływu wód gruntowych.
-Klasa VIz
+Gleby żwirowe, niecałkowite, na nieprzepuszczalnych glinach lub iłach ułożonych nieckowato i niemające przez to odpływu wód gruntowych. Klasa VIz
 a)
 Gleby piaszczysto-żwirowe, z domieszką kamieni, całkowite lub niecałkowite, na przepuszczalnym podłożu. Poziom próchniczny o miąższości do 15 cm, słabo wykształcony. Są to gleby stale za suche, trudne do uprawy.
+AB. Gleby brunatne, gleby płowe, gleby bielicowe i gleby rdzawe
 2.
 wytworzone z piasków Klasa II
 a)
-Piaski gliniaste mocne pylaste, o stosunkowo dużej zawartości pyłu (ponad 30%) i przewagą pyłu drobnego wśród frakcji pyłowej, niecałkowite, płytkie, na glinach. Glina średnia lub lekka słabo spiaszczona, często pylasta o naturalnej dobrej strukturze i właściwych stosunkach wodnych występuje nie głębiej niż 50 cm. Są to gleby brunatne lub płowe ze słabo wykształconymi cechami wymycia iłu koloidalnego. Poziom próchniczny o miąższości około 30 cm lub głębszy, strukturalny, dobrze wykształcony, barwy ciemnoszarej lub szarobrunatnej w stanie świeżym. Odczyn w górnych poziomach słabo kwaśny lub zbliżony do obojętnego, węglan wapnia występuje w profilu glebowym. Przejście od piasku do gliniastego podłoża ostre lub wyraźne. Występują na terenach płaskich lub lekko falistych warunkujących odpowiedni stan uwilgotnienia do rozwoju roślin uprawnych. Nie wymagają melioracji lub są zmeliorowane w przypadku bardziej zwięzłego podłoża. Są to bardzo dobre gleby pszenno-buraczane, łatwe do uprawy. Nadają się również pod uprawę innych roślin uprawnych.
-Klasa IIIa
+Piaski gliniaste mocne pylaste, o stosunkowo dużej zawartości pyłu (ponad 30%) i przewagą pyłu drobnego wśród frakcji pyłowej, niecałkowite, płytkie, na glinach. Glina średnia lub lekka słabo spiaszczona, często pylasta o naturalnej dobrej strukturze i właściwych stosunkach wodnych występuje nie głębiej niż 50 cm. Są to gleby brunatne lub płowe ze słabo wykształconymi cechami wymycia iłu koloidalnego. Poziom próchniczny o miąższości około 30 cm lub głębszy, strukturalny, dobrze wykształcony, barwy ciemnoszarej lub szarobrunatnej w stanie świeżym. Odczyn w górnych poziomach słabo kwaśny lub zbliżony do obojętnego, węglan wapnia występuje w profilu glebowym. Przejście od piasku do gliniastego podłoża ostre lub wyraźne. Występują na terenach płaskich lub lekko falistych warunkujących odpowiedni stan uwilgotnienia do rozwoju roślin uprawnych. Nie wymagają melioracji lub są zmeliorowane w przypadku bardziej zwięzłego podłoża. Są to bardzo dobre gleby pszenno-buraczane, łatwe do uprawy. Nadają się również pod uprawę innych roślin uprawnych. Klasa IIIa
 a)
 Piaski gliniaste mocne pylaste, niecałkowite, na glinach lub iłach, występujących nie głębiej niż 80 cm, lub piaski gliniaste mocne pylaste, o stosunkowo dużej zawartości pyłu (ponad 30%), z przewagą pyłu drobnego we frakcji pyłowej, niecałkowite, bez względu na głębokość występowania zwięźlejszego podłoża. Glina lub ił o właściwych stosunkach wodnych. Oglejenie, jeżeli występuje, to na głębokości nie mniejszej niż około 80 cm, słabe lub średnie. Poziom próchniczny o miąższości 25 cm lub głębszy, strukturalny, dobrze wykształcony. Przejście od piasku do zwięźlejszego podłoża ostre lub wyraźne. Występują na terenach płaskich lub lekko falistych, warunkujących dobry stan uwilgotnienia do rozwoju roślin uprawnych. Zmeliorowane lub nie wymagają melioracji. Są to bardzo dobre gleby żytnio-jęczmienne. Nadają się również pod uprawę pszenicy, buraków cukrowych, rzepaku, ziemniaków, koniczyny czerwonej i innych roślin uprawnych.
 b)
@@ -243,8 +244,7 @@ Gleby piaszczyste, wietrzeniowe, wytworzone z wapieni, margli lub gezów piaszcz
 h)
 Piaski gliniaste mocne, niecałkowite, zalegające na wapieniach silnie zwietrzałych. Gliniasta zwietrzelina wapienna o miąższości ponad 20 cm występuje nie głębiej niż 60 cm, poniżej skała węglanowa o różnym stopniu zwietrzenia. Poziom próchniczny o miąższości około 25 cm lub głębszy, strukturalny, dobrze wykształcony. Gleby te występują na terenach równinnych, warunkujących dobry stan uwilgotnienia do rozwoju roślin uprawnych. Nadają się pod uprawę prawie wszystkich roślin uprawnych.
 i)
-Piaski gliniaste lekkie pylaste, niecałkowite, zalegające na silnie zwietrzałych wapieniach. Gliniasta zwietrzelina o miąższości co najmniej 20 cm, występuje nie głębiej niż 50 cm. Poziom próchniczny o miąższości 25 cm lub głębszy, strukturalny, dobrze wykształcony. Gleby te występują na terenach warunkujących dobry stan uwilgotnienia do rozwoju roślin uprawnych. Nadają się pod uprawę wszystkich roślin uprawnych.
-Klasa IIIb
+Piaski gliniaste lekkie pylaste, niecałkowite, zalegające na silnie zwietrzałych wapieniach. Gliniasta zwietrzelina o miąższości co najmniej 20 cm, występuje nie głębiej niż 50 cm. Poziom próchniczny o miąższości 25 cm lub głębszy, strukturalny, dobrze wykształcony. Gleby te występują na terenach warunkujących dobry stan uwilgotnienia do rozwoju roślin uprawnych. Nadają się pod uprawę wszystkich roślin uprawnych. Klasa IIIb
 a)
 Piaski gliniaste mocne pylaste, niecałkowite, na glinach lub iłach występujących głębiej niż 80 cm (80 – 150 cm), położone na terenach płaskich lub lekko falistych, warunkujących dobry stan uwilgotnienia do rozwoju roślin uprawnych. W odniesieniu do gleb położonych na terenach falistych, bardziej wrażliwych na brak opadów, glina lub ił, powinny występować nie głębiej niż na 100 cm. Poziom próchniczny o miąższości około 25 cm, strukturalny, dobrze wykształcony. Gleby te są zmeliorowane lub nie wymagają melioracji, przepuszczalne i przewiewne. Oglejenie, jeżeli występuje, to na głębokości nie mniejszej niż 70 cm, słabe lub średnie. Są to dobre gleby żytnio-jęczmienne. Nadają się pod uprawę koniczyny czerwonej, a w dobrej kulturze rolnej nadają się również pod uprawę pszenicy, buraków cukrowych i innych roślin uprawnych.
 b)
@@ -284,8 +284,7 @@ Gleby piaszczyste, wietrzeniowe, wytworzone z wapieni, margli lub gezów piaszcz
 s)
 Piaski gliniaste lekkie, niecałkowite, na wapieniach silnie zwietrzałych. Miąższość utworu piaszczystego do gliniastej zwietrzeliny wapnia wynosi 60 – 70 cm. Gleby te występują na terenach płaskich lub lekko falistych. Poziom próchniczny o miąższości około 25 cm. Nadają się pod uprawę wszystkich roślin uprawnych, ale w latach o małej ilości opadów można uzyskać na nich plony nieco niższe od średnich.
 t)
-Piaski gliniaste mocne, niecałkowite, na wapieniach silnie zwietrzałych. Gliniasta zwietrzelina występuje nie głębiej niż 80 cm. Poziom próchniczny o miąższości około 25 cm. Gleby te występują na terenach płaskich lub lekko falistych. Nadają się pod uprawę prawie wszystkich roślin uprawnych, ale w latach o małej ilości opadów mogą dać plony nieco niższe od średnich.
-Klasa IVa
+Piaski gliniaste mocne, niecałkowite, na wapieniach silnie zwietrzałych. Gliniasta zwietrzelina występuje nie głębiej niż 80 cm. Poziom próchniczny o miąższości około 25 cm. Gleby te występują na terenach płaskich lub lekko falistych. Nadają się pod uprawę prawie wszystkich roślin uprawnych, ale w latach o małej ilości opadów mogą dać plony nieco niższe od średnich. Klasa IVa
 a)
 Piaski gliniaste lekkie, całkowite, piaski gliniaste lekkie pylaste, całkowite, w których przeważa pył gruby we frakcji pyłowej lub piaski gliniaste lekkie lub piaski gliniaste lekkie pylaste, zalegające poniżej 80 cm na piaskach słabo gliniastych. Poziom próchniczny o miąższości około 25 cm lub głębszy. Gleby te występują na terenach warunkujących dobry stan uwilgotnienia do rozwoju roślin uprawnych. Są to dobre gleby żytnio-ziemniaczane, na których w dobrej kulturze rolnej i sprzyjających warunkach atmosferycznych można uprawiać również jęczmień, owies, koniczynę białą, a nawet pszenicę.
 b)
@@ -337,8 +336,7 @@ Piaski gliniaste, niecałkowite, na wapieniach silnie zwietrzałych (z gliniast�
 za)
 Piaski gliniaste lekkie, niecałkowite, na wapieniach silnie zwietrzałych, występujące na wyższych częściach zboczy lub wierzchołkach wzniesień. Miąższość warstwy piaszczystej do zwietrzeliny gliniastej wapienia około 60 cm. Poziom próchniczny o miąższości ponad 20 cm. Nadają się pod uprawę roślin takich jak żyto, ziemniaki, koniczyna biała.
 zb)
-Piaski gliniaste mocne, zalegające na piaskach słabo gliniastych, niecałkowite, na wapieniach silnie zwietrzałych. Gliniasta zwietrzeliną wapienna występuje na głębokości około 80 cm. Poziom próchniczny o miąższości około 25 cm. Nadają się pod uprawę żyta, owsa i ziemniaków.
-Klasa IVb
+Piaski gliniaste mocne, zalegające na piaskach słabo gliniastych, niecałkowite, na wapieniach silnie zwietrzałych. Gliniasta zwietrzeliną wapienna występuje na głębokości około 80 cm. Poziom próchniczny o miąższości około 25 cm. Nadają się pod uprawę żyta, owsa i ziemniaków. Klasa IVb
 a)
 Piaski słabo gliniaste, z domieszką pyłu, całkowite, domieszka pyłu wyraźnie wyczuwalna w palcach (15 – 25%) lub piaski słabo gliniaste pylaste, całkowite, w których przeważa pył gruby we frakcji pyłowej. W profilu glebowym mogą nieraz występować kamienie. Poziom próchniczny o miąższości około 25 cm, okresowo mogą być za suche. Są to gleby żytnio-ziemniaczane, na których dobre plony daje również seradela i łubin, a w dobrej kulturze rolnej i sprzyjających warunkach atmosferycznych można na nich uprawiać owies i koniczynę białą.
 b)
@@ -376,8 +374,7 @@ Piaski słabo gliniaste, całkowite, występujące na terenach warunkujących ko
 r)
 Piaski gliniaste, zalegające na głębokości 50 – 60 cm na piaskach luźnych lub słabo gliniastych, niecałkowite, na zwięźlej szych podłożach występujących na głębokości około 80 – 100 cm. Występują na terenach dostatecznie uwilgotnionych, ale nie podmokłych. Zwięźlejsze podłoże przeważnie średnio oglejone. Poziom próchniczny o miąższości około 30 cm, dobrze wykształcony. Gleby te nadają się pod uprawę żyta, ziemniaków, owsa, mieszanek, seradeli i łubinu.
 s)
-Piaski słabo gliniaste, ze znaczną domieszką części pyłowych (15 – 25%), niecałkowite, na wapieniach silnie zwietrzałych. Miąższość utworu piaszczystego do gliniastej zwietrzeliny wapienia wynosi około 80 cm. Poziom próchniczny o miąższości ponad 20 cm. Są to gleby żytnio-ziemniaczane. Można na nich uprawiać również koniczynę białą i inne rośliny motylkowe.
-Klasa V
+Piaski słabo gliniaste, ze znaczną domieszką części pyłowych (15 – 25%), niecałkowite, na wapieniach silnie zwietrzałych. Miąższość utworu piaszczystego do gliniastej zwietrzeliny wapienia wynosi około 80 cm. Poziom próchniczny o miąższości ponad 20 cm. Są to gleby żytnio-ziemniaczane. Można na nich uprawiać również koniczynę białą i inne rośliny motylkowe. Klasa V
 a)
 Piaski słabo gliniaste, całkowite, piaski słabo gliniaste głębokie, zalegające na piaskach luźnych lub piaskach gliniastych poniżej 100 cm, piaski gliniaste lekkie lub lekkie pylaste, zalegające na piaskach luźnych lub słabo gliniastych na głębokości powyżej 60 cm lub piaski gliniaste mocne lub mocne pylaste, zalegające na piaskach luźnych lub słabo gliniastych na głębokości powyżej 50 cm. Poziom próchniczny o miąższości około 20 – 25 cm, mało strukturalny, słabo wykształcony. Gleby suche, przewiewne, zbyt przepuszczalne. Plony roślin uprawnych są uzależnione od ilości opadów w okresie wegetacyjnym. Na glebach tych uprawia się na nich żyto, łubin żółty i seradelę. Ziemniaki dają dobre plony tylko w latach o dużej ilości opadów.
 b)
@@ -403,8 +400,7 @@ Piaski słabo gliniaste pylaste, przewarstwione na głębokości 60 – 70 cm wa
 l)
 Piaski słabo gliniaste, niecałkowite, na glinach lub iłach, występujących na głębokości 40–50 cm. Oglejenie średnie występuje na głębokości 30 cm, a silne – poniżej 40 – 50 cm. Poziom próchniczny o miąższości około 25 cm. Obok plam glejowych występują plamy żelaziste i manganowe o silnych kontrastach, o średnicy większej niż 15 mm. Gleby te występują w obniżeniach terenowych i na starych tarasach akumulacyjnych. Nadają się pod uprawę owsa, mieszanek, warzyw i roślin pastewnych. Ziemniaki i żyto dają niskie plony.
 ł)
-Piaski słabo gliniaste, płytkie, na głębokości około 20–30 cm, zalegające na piaskach zwałowych luźnych, niecałkowite, na głębokości około 80 – 100 cm lub mniejszej występuje glina, ił, utwór pyłowy lub less. Piasek luźny zawiera 3–5% części spławialnych oraz często znaczną domieszkę pyłu grubego. Poziom próchniczny o miąższości 20 – 25 cm, dobrze wykształcony. Występują w korzystnych warunkach uwilgotnienia, podłoże zwięźlejsze przeważnie oglejone słabo lub średnio. Są to gleby żytnio-łubinowe.
-Klasa VI
+Piaski słabo gliniaste, płytkie, na głębokości około 20–30 cm, zalegające na piaskach zwałowych luźnych, niecałkowite, na głębokości około 80 – 100 cm lub mniejszej występuje glina, ił, utwór pyłowy lub less. Piasek luźny zawiera 3–5% części spławialnych oraz często znaczną domieszkę pyłu grubego. Poziom próchniczny o miąższości 20 – 25 cm, dobrze wykształcony. Występują w korzystnych warunkach uwilgotnienia, podłoże zwięźlejsze przeważnie oglejone słabo lub średnio. Są to gleby żytnio-łubinowe. Klasa VI
 a)
 Piaski słabo gliniaste, płytkie, zalegające na głębokości mniejszej niż 50 cm na piaskach luźnych. Są to gleby najczęściej bardzo kwaśne. Poziom próchniczny o miąższości około 15–20 cm. Piaski słabo gliniaste, średnio głębokie, zalegające na piaskach luźnych na głębokości 50–100 cm, występujące w niekorzystnych (zbyt suchych) warunkach uwilgotnienia do rozwoju roślin uprawnych, np. na szczytach wzgórz. Są to gleby żytnio-łubinowe, ubogie, suche. Uprawa żyta jest możliwa przy zastosowaniu nawozów zielonych.
 b)
@@ -422,8 +418,7 @@ Piaski słabo gliniaste lub luźne, niecałkowite, na glinach lub iłach silnie 
 h)
 Piaski słabo gliniaste, płytkie, na głębokości mniejszej niż 50 cm zalegające na piaskach luźnych, niecałkowite, na głębokości większej niż 80–100 cm występuje glina, ił, utwór pyłowy lub less. Poziom próchniczny o miąższości około 15–20 cm, słabo wykształcony. Są to słabe gleby żytnio-łubinowe, suche. Uprawa żyta jest możliwa przy zastosowaniu nawozów zielonych.
 i)
-Piaski luźne, zwałowe, z domieszką pyłu, niecałkowite, na glinach lub iłach. Zwięźlejsze podłoże występuje na głębokości około 50–60 cm lub wyżej. Gleby te znajdują się w korzystnych warunkach uwilgotnienia. Poziom próchniczny o miąższości około 20 cm, dobrze wykształcony. Słabe gleby żytnio-łubinowe.
-Klasa VIz
+Piaski luźne, zwałowe, z domieszką pyłu, niecałkowite, na glinach lub iłach. Zwięźlejsze podłoże występuje na głębokości około 50–60 cm lub wyżej. Gleby te znajdują się w korzystnych warunkach uwilgotnienia. Poziom próchniczny o miąższości około 20 cm, dobrze wykształcony. Słabe gleby żytnio-łubinowe. Klasa VIz
 a)
 Piaski luźne, całkowite. Poziom próchniczny o miąższości przeważnie około 15–20 cm, słabo wykształcony. Nieprzydatne do uprawy roślin uprawnych, nadają się tylko pod zalesienie.
 b)
@@ -436,11 +431,11 @@ e)
 Piaski luźne, niecałkowite, na glinach, iłach, utworach pyłowych lub lessach, występujących poniżej głębokości 50–60 cm. Nieprzydatne do uprawy roślin uprawnych. Nadają się tylko pod zalesienie.
 f)
 Piaski słabo gliniaste, niecałkowite, bardzo płytkie, na żwirach piaszczystych, występujących na głębokości około 30 cm. Poziom próchniczny słabo wykształcony. Gleby zbyt suche, nieprzydatne do uprawy roślin uprawnych.
+A. Gleby płowe, B. Gleby brunatne
 3.
 wytworzone z glin Klasa I
 a)
-Gleby brunatne, wytworzone z glin, średnie. Skałę macierzystą tych gleb stanowią najczęściej gliny zwałowe, margliste, zasobne w sole mineralne i przepuszczalne. Poziom próchniczny o miąższości około 35 cm, dobrze wykształcony, o strukturze gruzełkowatej. Gleby te występują na terenach płaskich, niepodlegających procesom zmywu i warunkujących dobry do rozwoju roślin uprawnych stan uwilgotnienia. Pod względem przydatności rolniczej są to najlepsze gleby pszenno-buraczane.
-Klasa II
+Gleby brunatne, wytworzone z glin, średnie. Skałę macierzystą tych gleb stanowią najczęściej gliny zwałowe, margliste, zasobne w sole mineralne i przepuszczalne. Poziom próchniczny o miąższości około 35 cm, dobrze wykształcony, o strukturze gruzełkowatej. Gleby te występują na terenach płaskich, niepodlegających procesom zmywu i warunkujących dobry do rozwoju roślin uprawnych stan uwilgotnienia. Pod względem przydatności rolniczej są to najlepsze gleby pszenno-buraczane. Klasa II
 a)
 Gleby płowe ze słabo wykształconymi cechami wymycia iłu koloidalnego, wytworzone z glin, lekkie. Podłoże jest przepuszczalne. Poziom próchniczny o miąższości około 30 cm, dobrze wykształcony, o trwałej strukturze gruzełkowatej. Gleby te występują na terenach płaskich, niepodlegających procesom zmywu i warunkujących dobry do rozwoju roślin uprawnych stan uwilgotnienia. Spiaszczenie wierzchnich warstw tych gleb nie sięga głębiej niż 40 cm i utrzymuje się w grupie piasku gliniastego mocnego. W razie występowania w podłożu mniej przepuszczalnych glin – zmeliorowane. Są to bardzo dobre gleby pszenno-buraczane.
 b)
@@ -460,8 +455,7 @@ Gleby brunatne wytworzone z glin zwałowych, średnie, niecałkowite, na wapieni
 i)
 Gleby płowe ze słabo wykształconymi cechami wymycia iłu koloidalnego, wytworzone z glin, niecałkowite, na utworach pyłowych. Poziom próchniczny o miąższości około 30 cm. Gleby te występują na terenach warunkujących dobry stan uwilgotnienia do rozwoju roślin uprawnych. Są zmeliorowane lub nie wymagają melioracji. Są to bardzo dobre gleby pszenno-buraczane, na których można uprawiać również dobrze i inne rośliny uprawne.
 j)
-Gleby brunatne różniące się od gleb gatunku i w tej klasie brakiem cech wymycia iłu koloidalnego.
-Klasa IIIa
+Gleby brunatne różniące się od gleb gatunku i w tej klasie brakiem cech wymycia iłu koloidalnego. Klasa IIIa
 a)
 Gleby płowe wytworzone z glin, średnie. Poziom próchniczny o miąższości około 25 cm. Gleby te są zmeliorowane lub nie wymagają melioracji. Dają dobre plony buraków cukrowych i pszenicy.
 b)
@@ -493,8 +487,7 @@ Gleby brunatne wytworzone z glin zwałowych, lekkie lub średnie, niecałkowite,
 n)
 Gleby płowe różniące się od gleb gatunku ł w tej klasie występowaniem słabo wykształconych cech wymycia iłu koloidalnego.
 o)
-Gleby płowe różniące się od gleb gatunku m w tej klasie występowaniem słabo wykształconych cech wymycia iłu koloidalnego.
-Klasa IIIb
+Gleby płowe różniące się od gleb gatunku m w tej klasie występowaniem słabo wykształconych cech wymycia iłu koloidalnego. Klasa IIIb
 a)
 Gleby płowe wytworzone z glin, lekkie, średnie lub ciężkie. Poziom próchniczny o miąższości około 25 cm. Gleby te występują na terenach falistych, które utrudniają uprawę. Gleby te są zmeliorowane lub nie wymagają melioracji. Nadają się pod uprawę na ogół wszystkich roślin uprawnych.
 b)
@@ -524,8 +517,7 @@ Gleby brunatne lekkie, średnie lub ciężkie, wytworzone z glin zwałowych, nie
 m)
 Gleby płowe różniące się od gleb gatunku ł w tej klasie występowaniem słabo wykształconych cech wymycia iłu koloidalnego.
 n)
-Gleby płowe różniące się od gleb gatunku 1 w tej klasie występowaniem słabo wykształconych cech wymycia iłu koloidalnego.
-Klasa IVa
+Gleby płowe różniące się od gleb gatunku 1 w tej klasie występowaniem słabo wykształconych cech wymycia iłu koloidalnego. Klasa IVa
 a)
 Gleby płowe wytworzone z glin, lekkie. Poziom próchniczny o miąższości około 25 cm. Spiaszczenie wierzchnich warstw sięga ponad 80 cm, a przechodzenie ich w gliniaste podłoże jest stopniowe. Są to dobre gleby żytnio-ziemniaczane.
 b)
@@ -553,8 +545,7 @@ Gleby brunatne różniące się od gatunku k w tej klasie brakiem cech wymycia i
 ł)
 Gleby brunatne wytworzone z glin, średnie lub ciężkie, całkowite lub niecałkowite, na iłach. Gleby te występują na stokach o nachyleniu ponad 10°. Poziom próchniczny o miąższości do 20 cm. Są objęte działaniem procesów erozyjnych, a ich uprawa ze względu na położenie jest w dużym stopniu utrudniona. Na glebach tych jednak w latach meteorologicznie korzystnych można uprawiać pszenicę i koniczynę czerwoną.
 m)
-Gleby brunatne wytworzone z glin, średnie lub ciężkie, niecałkowite, na piaskach, żwirach piaszczystych lub silnie szkieletowych zwietrzelinach skał masywnych, zalegających na głębokości poniżej 80 cm. Gleby te występują na stokach o nachyleniu ponad 10°. Poziom próchniczny o miąższości około 20 cm. Gleby te są narażone na procesy erozyjne, a ich uprawa jest utrudniona. Na glebach tych w latach z odpowiednią ilością opadów można uprawiać większość roślin uprawnych, ale w latach o małej ilości opadów plony są niskie.
-Klasa IVb
+Gleby brunatne wytworzone z glin, średnie lub ciężkie, niecałkowite, na piaskach, żwirach piaszczystych lub silnie szkieletowych zwietrzelinach skał masywnych, zalegających na głębokości poniżej 80 cm. Gleby te występują na stokach o nachyleniu ponad 10°. Poziom próchniczny o miąższości około 20 cm. Gleby te są narażone na procesy erozyjne, a ich uprawa jest utrudniona. Na glebach tych w latach z odpowiednią ilością opadów można uprawiać większość roślin uprawnych, ale w latach o małej ilości opadów plony są niskie. Klasa IVb
 a)
 Gleby płowe wytworzone z glin, lekkie, niecałkowite, na piaskach, żwirach lub wapieniach, występujących na głębokości 60 – 80 cm. Poziom próchniczny o miąższości około 25 cm. Są to gleby żytnio-ziemniaczane, często za suche.
 b)
@@ -574,8 +565,7 @@ Gleby płowe wytworzone z glin, lekkie, średnie lub ciężkie, niecałkowite, n
 i)
 Gleby brunatne różniące się od gleb gatunku h w tej klasie brakiem cech wymycia iłu koloidalnego.
 j)
-Gleby brunatne wytworzone z glin, średnie lub ciężkie, niecałkowite, na różnych podłożach zalegających poniżej 60 cm. Poziom próchniczny o miąższości około 15 cm, słabo wykształcony. Gleby te występują na stokach o nachyleniu około 15°. Objęte są działaniem silnie zachodzących procesów erozyjnych, trudne do uprawy i wrażliwe na suszę. W latach meteorologicznie korzystnych gleby te nadają się pod uprawę pszenicy, koniczyny czerwonej i innych roślin motylkowych, ale plony są niższe od średnich.
-Klasa V
+Gleby brunatne wytworzone z glin, średnie lub ciężkie, niecałkowite, na różnych podłożach zalegających poniżej 60 cm. Poziom próchniczny o miąższości około 15 cm, słabo wykształcony. Gleby te występują na stokach o nachyleniu około 15°. Objęte są działaniem silnie zachodzących procesów erozyjnych, trudne do uprawy i wrażliwe na suszę. W latach meteorologicznie korzystnych gleby te nadają się pod uprawę pszenicy, koniczyny czerwonej i innych roślin motylkowych, ale plony są niższe od średnich. Klasa V
 a)
 Gleby płowe wytworzone z glin zwałowych, całkowite lub niecałkowite, na różnych podłożach, silnie oglejone i podmokłe. Przeprowadzenie na nich melioracji jest utrudnione.
 b)
@@ -587,10 +577,10 @@ Gleby brunatne wytworzone z glin, średnie lub ciężkie, niecałkowite, płytki
 e)
 Gleby płowe różniące się od gleb gatunku c w tej klasie występowaniem słabo wykształconych cech wymycia iłu koloidalnego.
 f)
-Gleby płowe różniące się od gleb gatunku d w tej klasie występowaniem słabo wykształconych cech wymycia iłu koloidalnego.
-Klasa VI
+Gleby płowe różniące się od gleb gatunku d w tej klasie występowaniem słabo wykształconych cech wymycia iłu koloidalnego. Klasa VI
 a)
 Gleby brunatne wytworzone z glin, średnie lub ciężkie, niecałkowite, bardzo płytkie, na piaskach luźnych lub żwirach piaszczystych, występujących na głębokości mniejszej niż 30 – 40 cm. Są to gleby bardzo suche, położone wyjątkowo niekorzystnie do rozwoju roślin uprawnych, np. na stromych stokach wzgórz podlegających erozji, szczytach pagórków o bardzo niskim stanie wód gruntowych. Poziom próchniczny bardzo słabo wykształcony. Uprawa trudna, plony niskie. Są to słabe gleby żytnio-łubinowe, bardzo wrażliwe na suszę.
+A. Gleby płowe, B. Gleby brunatne
 4.
 wytworzone z iłów Klasa II
 a)
@@ -600,13 +590,11 @@ Gleby brunatne wytworzone z iłów pylastych, niecałkowite, na piaskach lub inn
 c)
 Gleby płowe różniące się od gleb gatunku a w tej klasie występowaniem słabo wykształconych cech wymycia iłu koloidalnego.
 d)
-Gleby płowe różniące się od gleb gatunku b w tej klasie występowaniem słabo wykształconych cech wymycia iłu koloidalnego.
-Klasa IIIa
+Gleby płowe różniące się od gleb gatunku b w tej klasie występowaniem słabo wykształconych cech wymycia iłu koloidalnego. Klasa IIIa
 a)
 Gleby brunatne wytworzone z iłów, ciężkie lub średnie, całkowite, zmeliorowane. Poziom próchniczny o miąższości około 25 cm, o dobrej strukturze gruzełkowatej. Węglan wapnia występuje zazwyczaj na głębokości około 60 cm. Gleby te są zasobne w składniki pokarmowe dla roślin, ale trudne do uprawy. Nadają się pod uprawę pszenicy i buraków cukrowych.
 b)
-Gleby brunatne wytworzone z iłów, niecałkowite, na piaskach lub innym przepuszczalnym podłożu, występujących na głębokości 80 – 100 cm. Zmeliorowane lub nie wymagają melioracji. Poziom próchniczny o miąższości około 25 cm, odznaczający się dobrą strukturą gruzełkowatą. Gleby te są zasobne w składniki pokarmowe. Nadają się pod uprawę wszystkich roślin uprawnych, zwłaszcza pszenicy, jęczmienia i roślin motylkowych.
-Klasa IIIb
+Gleby brunatne wytworzone z iłów, niecałkowite, na piaskach lub innym przepuszczalnym podłożu, występujących na głębokości 80 – 100 cm. Zmeliorowane lub nie wymagają melioracji. Poziom próchniczny o miąższości około 25 cm, odznaczający się dobrą strukturą gruzełkowatą. Gleby te są zasobne w składniki pokarmowe. Nadają się pod uprawę wszystkich roślin uprawnych, zwłaszcza pszenicy, jęczmienia i roślin motylkowych. Klasa IIIb
 a)
 Gleby brunatne wytworzone z iłów, średnie lub ciężkie, zmeliorowane, występujące często na terenach falistych. Poziom próchniczny o miąższości około 25 cm. Węglan wapnia występuje na głębokości około 60 cm. Gleby te są trudne do uprawy, ale zasobne w składniki pokarmowe dla roślin.
 b)
@@ -614,8 +602,7 @@ Gleby brunatne wytworzone z iłów, średnie lub ciężkie, niecałkowite, na pi
 c)
 Gleby płowe różniące się od gleb gatunku a w tej klasie występowaniem cech wymycia iłu koloidalnego oraz odczynem przeważnie kwaśnym.
 d)
-Gleby płowe różniące się od gleb gatunku b w tej klasie występowaniem cech wymycia iłu koloidalnego oraz odczynem przeważnie kwaśnym.
-Klasa IVa
+Gleby płowe różniące się od gleb gatunku b w tej klasie występowaniem cech wymycia iłu koloidalnego oraz odczynem przeważnie kwaśnym. Klasa IVa
 a)
 Gleby brunatne wytworzone z iłów pylastych, niecałkowite, na przepuszczalnym podłożu występującym na głębokości 50–60 cm. Poziom wód gruntowych głęboki. W latach o małej ilości opadów plony roślin na tych glebach mogą być niskie.
 b)
@@ -623,8 +610,7 @@ Gleby brunatne wytworzone z iłów, średnie lub ciężkie, całkowite lub nieca
 c)
 Gleby płowe różniące się od gleb gatunku a w tej klasie występowaniem cech wymycia iłu koloidalnego.
 d)
-Gleby płowe różniące się od gleb gatunku b w tej klasie występowaniem cech wymycia iłu koloidalnego.
-Klasa IVb
+Gleby płowe różniące się od gleb gatunku b w tej klasie występowaniem cech wymycia iłu koloidalnego. Klasa IVb
 a)
 Gleby brunatne wytworzone z iłów, niecałkowite, na przepuszczalnym podłożu występującym na głębokości 40 – 50 cm. Gleby te są zbyt suche.
 b)
@@ -636,19 +622,18 @@ Gleby płowe różniące się od gleb gatunku a w tej klasie występowaniem cech
 e)
 Gleby płowe różniące się od gleb gatunku b w tej klasie występowaniem cech wymycia iłu koloidalnego.
 f)
-Gleby płowe różniące się od gleb gatunku c w tej klasie występowaniem cech wymycia iłu koloidalnego.
-Klasa V
+Gleby płowe różniące się od gleb gatunku c w tej klasie występowaniem cech wymycia iłu koloidalnego. Klasa V
 a)
 Gleby wytworzone z iłów, całkowite lub niecałkowite, na różnych podłożach, ale z wysokim poziomem wód gruntowych. Warstwy glejowe i konkrecje żelaziste występują bezpośrednio pod poziomem próchnicznym. Gleby zimne, do uprawy trudne i położone w warunkach utrudniających meliorację.
 b)
 Gleby brunatne wytworzone z iłów, niecałkowite, bardzo płytkie, na piaskach luźnych słabo gliniastych lub żwirach piaszczystych, występujących na głębokości powyżej 40 cm, położone na terenach o niskim poziomie wód gruntowych. Są to gleby żytnie, suche, można na nich uprawiać również koniczynę białą.
+A. Gleby płowe, B. Gleby brunatne
 5.
 wytworzone z pyłów wodnego pochodzenia, utworów lessowatych i pyłów o nieustalonej genezie Klasa I
 a)
 Gleby brunatne lessowate, wykazujące uziarnienie pyłowo-ilaste, całkowite, średnio zwięzłe, przepuszczalne i przewiewne. W profilu glebowym nie wykazują śladów oglejenia, rdzawych cętek i pieprzy. W dolnej części profilu glebowego mogą zawierać węglan wapnia. Poziom próchniczny o miąższości ponad 30 cm, dobrze wykształcony, barwy ciemnoszarej w stanie świeżym, o strukturze gruzełkowatej. Odczyn tych gleb jest zbliżony do obojętnego. Występują na terenach płaskich, warunkujących dobry do rozwoju roślin stan uwilgotnienia. Nadają się pod uprawę wszystkich roślin uprawnych.
 b)
-Gleby brunatne lessowate, pyłowo-ilaste, w dolnej części profilu glebowego niekiedy zawierające pojedyncze drobne nadwietrzałe odłamki skał miejscowych, przewiewne i przepuszczalne, dość porowate, strukturalne, bez najmniejszych śladów oglejenia, rdzawych cętek i pieprzy. Poziom próchniczny o miąższości ponad 30 cm, barwy ciemnoszarej w stanie świeżym, o strukturze gruzełkowatej, średnio zwięzły, stopniowo przechodzący do nieco zwięźlejszego poziomu brunatnienia, o barwie brunatnoczerwonej, która poniżej 60 cm przechodzi w barwę brunatnożółtą. Odczyn tych gleb jest zbliżony do obojętnego. Występują na terenach płaskich, warunkujących dobry do rozwoju roślin stan uwilgotnienia. Nadają się pod uprawę wszystkich roślin uprawnych.
-Klasa II
+Gleby brunatne lessowate, pyłowo-ilaste, w dolnej części profilu glebowego niekiedy zawierające pojedyncze drobne nadwietrzałe odłamki skał miejscowych, przewiewne i przepuszczalne, dość porowate, strukturalne, bez najmniejszych śladów oglejenia, rdzawych cętek i pieprzy. Poziom próchniczny o miąższości ponad 30 cm, barwy ciemnoszarej w stanie świeżym, o strukturze gruzełkowatej, średnio zwięzły, stopniowo przechodzący do nieco zwięźlejszego poziomu brunatnienia, o barwie brunatnoczerwonej, która poniżej 60 cm przechodzi w barwę brunatnożółtą. Odczyn tych gleb jest zbliżony do obojętnego. Występują na terenach płaskich, warunkujących dobry do rozwoju roślin stan uwilgotnienia. Nadają się pod uprawę wszystkich roślin uprawnych. Klasa II
 a)
 Gleby brunatne pyłowe, z przewagą pyłu drobnego we frakcji pyłowej, średnio zwięzłe, całkowite lub niecałkowite, na przepuszczalnych glinach zwałowych, występujące na terenach płaskich, warunkujących dobry do rozwoju roślin stan uwilgotnienia. Poziom próchniczny o miąższości około 30 cm, dobrze wykształcony, o strukturze gruzełkowatej. W razie występowania w podłożu mniej przepuszczalnych glin gleby te są zmeliorowane. Nadają się pod uprawę wszystkich roślin uprawnych.
 b)
@@ -666,8 +651,7 @@ Gleby brunatne lessowate, o uziarnieniu pyłu ilastego, całkowite, na glinach �
 h)
 Gleby płowe lessowate, różniące się od gleb gatunku d w tej klasie występowaniem słabo wykształconych cech przemieszczenia iłu koloidalnego.
 i)
-Gleby płowe lessowate, różniące się od gleb gatunku g w tej klasie występowaniem słabo wykształconych cech przemieszczenia iłu koloidalnego.
-Klasa IIIa
+Gleby płowe lessowate, różniące się od gleb gatunku g w tej klasie występowaniem słabo wykształconych cech przemieszczenia iłu koloidalnego. Klasa IIIa
 a)
 Gleby płowe pyłowe, z przewagą pyłu drobnego we frakcji pyłowej, całkowite lub niecałkowite, na glinach lub iłach. Poziom próchniczny o miąższości około 25 cm. Są to gleby zmeliorowane lub nie wymagają melioracji. Dają dobre plony żyta, ziemniaków, owsa, jęczmienia i koniczyny czerwonej. Można na nich uprawiać również pszenicę i buraki cukrowe.
 b)
@@ -695,8 +679,7 @@ Gleby brunatne różniące się od gleb gatunku j w tej klasie brakiem cech prze
 ł)
 Gleby płowe z przewagą pyłu grubego we frakcji pyłowej, średnie, ilaste lub niektóre lekkie, o uziarnieniu zbliżonym do piasków gliniastych mocnych pylastych, całkowite lub niecałkowite, na glinach lub iłach, o właściwych stosunkach wodnych. Oglejenie, jeżeli występuje, to na głębokości poniżej 80 cm, plamiste słabe lub średnie. Poziom próchniczny o miąższości około 30 cm lub głębszy, dobrze wykształcony, strukturalny. Gleby te występują na terenach warunkujących dobry stan uwilgotnienia do rozwoju roślin uprawnych. Są zmeliorowane lub nie wymagają melioracji. Dają dobre plony żyta, ziemniaków, owsa i jęczmienia. Można uprawiać na nich również pszenicę i buraki cukrowe oraz często koniczynę czerwoną.
 m)
-Gleby brunatne z przewagą pyłu grubego we frakcji pyłowej, różniące się od gleb gatunku ł w tej klasie brakiem cech wymycia iłu koloidalnego.
-Klasa IIIb
+Gleby brunatne z przewagą pyłu grubego we frakcji pyłowej, różniące się od gleb gatunku ł w tej klasie brakiem cech wymycia iłu koloidalnego. Klasa IIIb
 a)
 Gleby płowe pyłowe, niecałkowite, na glinach lub iłach, silnie oglejonych na głębokości 80 – 100 cm. Glina lub ił występują poniżej głębokości 50 cm. Poziom próchniczny o miąższości około 25 cm. Są to gleby, na których można uprawiać pszenicę i buraki cukrowe, ale w latach o dużej ilości opadów plony mogą być niskie.
 b)
@@ -748,8 +731,7 @@ Gleby brunatne z przewagą pyłu grubego we frakcji pyłowej, różniące się o
 za)
 Gleby płowe z przewagą pyłu grubego we frakcji pyłowej, bardzo lekkie, niecałkowite, na glinach lub iłach, o właściwych stosunkach wodnych. Zwięźlejsze podłoże występuje powyżej 50 cm. Poziom próchniczny o miąższości około 25 cm. Są to gleby żytnio-ziemniaczane, na których można uprawiać również inne rośliny uprawne.
 zb)
-Gleby brunatne z przewagą pyłu grubego we frakcji pyłowej, różniące się od gleb gatunku za w tej klasie brakiem cech wymycia.
-Klasa IVa
+Gleby brunatne z przewagą pyłu grubego we frakcji pyłowej, różniące się od gleb gatunku za w tej klasie brakiem cech wymycia. Klasa IVa
 a)
 Gleby płowe z przewagą pyłu drobnego we frakcji pyłowej, niecałkowite, na piaskach, żwirach lub wapieniach. Miąższość warstwy pyłowej wynosi 60 – 80 cm. Poziom próchniczny o miąższości około 25 cm. Są to dobre gleby żytnio-ziemniaczane.
 b)
@@ -787,8 +769,7 @@ Gleby brunatne z przewagą pyłu grubego, różniące się od gleb gatunku o w t
 r)
 Gleby płowe z przewagą pyłu grubego we frakcji pyłowej, bardzo lekkie lub lekkie, o uziarnieniu zbliżonym do piasków gliniastych lekkich pylastych, niecałkowite, na piaskach luźnych, żwirach piaszczystych lub wapieniach, występujących na głębokości poniżej 100 cm oraz gleby wytworzone z takich samych utworów z przewagą pyłu grubego we frakcji pyłowej, niecałkowite, na piaskach słabo gliniastych, występujących na głębokości poniżej 80 cm. Występują na terenach warunkujących dobry stan uwilgotnienia do rozwoju roślin uprawnych. Nie wymagają melioracji. Poziom próchniczny o miąższości około 25 cm. Są to gleby żytnio-ziemniaczane.
 s)
-Gleby brunatne z przewagą pyłu grubego we frakcji pyłowej, różniące się od gleb gatunku r w tej klasie brakiem cech wymycia iłu koloidalnego.
-Klasa IVb
+Gleby brunatne z przewagą pyłu grubego we frakcji pyłowej, różniące się od gleb gatunku r w tej klasie brakiem cech wymycia iłu koloidalnego. Klasa IVb
 a)
 Gleby płowe pyłowe, z przewagą pyłu drobnego we frakcji pyłowej, niecałkowite, na piaskach, żwirach lub wapieniach. Miąższość warstwy pyłowej 40 – 60 cm. Poziom próchniczny o miąższości około 25 cm. Gleby żytnio-ziemniaczane, często za suche.
 b)
@@ -820,8 +801,7 @@ Gleby płowe z przewagą pyłu grubego we frakcji pyłowej, różniące się od 
 n)
 Gleby płowe z przewagą pyłu grubego we frakcji pyłowej, bardzo lekkie, niecałkowite, na piaskach gliniastych zalegających poniżej 50 cm. Poziom próchniczny o miąższości co najmniej 20 cm. Są to gleby żytnio-ziemniaczane.
 o)
-Gleby brunatne z przewagą pyłu grubego we frakcji pyłowej, różniące się od gleb gatunku n w tej klasie brakiem cech wymycia iłu koloidalnego.
-Klasa V
+Gleby brunatne z przewagą pyłu grubego we frakcji pyłowej, różniące się od gleb gatunku n w tej klasie brakiem cech wymycia iłu koloidalnego. Klasa V
 a)
 Gleby brunatne pyłowe, z przewagą pyłu drobnego we frakcji pyłowej, niecałkowite, płytkie, na piaskach, żwirach lub wapieniach. Miąższość warstwy pyłowej wynosi do 40 cm. Gleby suche żytnio-ziemniaczane.
 b)
@@ -850,6 +830,7 @@ Gleby płowe z przewagą pyłu grubego we frakcji pyłowej, różniące się od 
 Gleby płowe z przewagą pyłu grubego we frakcji pyłowej, różniące się od gleb gatunku j w tej klasie występowaniem cech przemieszczenia iłu koloidalnego.
 m)
 Gleby płowe z przewagą pyłu grubego we frakcji pyłowej, różniące się od gleb gatunku k w tej klasie występowaniem cech przemieszczenia iłu koloidalnego.
+A. Gleby płowe, B. Gleby brunatne
 6.
 wytworzone z lessów Klasa I
 a)
@@ -857,8 +838,7 @@ Gleby brunatne lessowe, całkowite. Poziom próchniczny o miąższości co najmn
 b)
 Gleby brunatne lessowe, całkowite, namyte, położone korzystnie w dobrych warunkach uwilgotnienia. Poziom próchniczny tych gleb wykazuje trwałą strukturę gruzełkowatą. Własności fizyczne w całym profilu glebowym dobre. Węglan wapnia występuje w górnej części profilu glebowego. Nadają się pod uprawę wszystkich ziemiopłodów.
 c)
-Gleby brunatne lessowe, niecałkowite, o miąższości ponad 120 cm, położone w dobrych warunkach wilgotnościowych na przepuszczalnym podłożu. Poziom próchniczny o miąższości co najmniej 30 cm, dobrze wykształcony. Nadają się pod uprawę wszystkich roślin uprawnych.
-Klasa II
+Gleby brunatne lessowe, niecałkowite, o miąższości ponad 120 cm, położone w dobrych warunkach wilgotnościowych na przepuszczalnym podłożu. Poziom próchniczny o miąższości co najmniej 30 cm, dobrze wykształcony. Nadają się pod uprawę wszystkich roślin uprawnych. Klasa II
 a)
 Gleby brunatne lessowe, całkowite. Na głębokości poniżej 70 cm zaznaczają się brunatne plamy wmycia oraz nieliczne pieprze. Poziom próchniczny o miąższości 25 cm, mniejszej niż w lessach klasy I. Właściwości fizyczne w całym profilu glebowym dobre. Węglan wapnia występuje w dolnej części profilu glebowego. Położone na terenach lekko falistych, nieco mniej korzystnie niż lessy zaliczone do klasy I. Nadają się pod uprawę wszystkich roślin uprawnych.
 b)
@@ -876,8 +856,7 @@ Gleby płowe lessowe, różniące się od gleb gatunku c w tej klasie występowa
 h)
 Gleby brunatne lessowe, na wapieniach silnie zwietrzałych, niecałkowite, o miąższości ponad 80 cm. Poniżej utworu lessowego zalega gliniasta zwietrzelina skał wapiennych przechodząca stopniowo w słabo zwietrzałą skałę. Poziom próchniczny o miąższości około 30 cm. Gleby te występują na terenach płaskich lub na stokach o nachyleniu do 5°, mają dobre warunki uwilgotnienia do rozwoju roślin uprawnych. Nadają się pod uprawę wszystkich roślin uprawnych.
 i)
-Gleby płowe lessowe, różniące się od gleb gatunku h w tej klasie występowaniem cech wymycia iłu koloidalnego.
-Klasa IIIa
+Gleby płowe lessowe, różniące się od gleb gatunku h w tej klasie występowaniem cech wymycia iłu koloidalnego. Klasa IIIa
 a)
 Gleby płowe lessowe, całkowite. Poziom próchniczny o miąższości około 25 cm, pod którym występuje wyraźny poziom wymywania, często o wyraźnej strukturze płytkowej. Pod poziomem wymywania występuje zbity, brunatny poziom wmywania. Węglan wapnia nie występuje w całym profilu glebowym. Są to gleby przepuszczalne i przewiewne, ale ulegające zaskorupianiu. Położone najczęściej na terenach lekko falistych lub nawet falistych. Przy starannej uprawie i nawożeniu gleby te nadają się pod uprawę wszystkich roślin uprawnych.
 b)
@@ -901,8 +880,7 @@ Gleby płowe lessowe, różniące się od gleb gatunku i w tej klasie występowa
 k)
 Gleby brunatne lessowe, niecałkowite, na wapieniach silnie zwietrzałych, o miąższości warstwy lessowej około 60 cm do gliniastej zwietrzeliny wapienia. Poziom próchniczny o miąższości około 25 cm. Gleby te występują na terenach płaskich, charakteryzują się dobrymi właściwościami fizycznymi i w sprzyjających warunkach atmosferycznych dają dobre plony wszystkich roślin uprawnych.
 l)
-Gleby płowe lessowe, różniące się od gleb gatunku k w tej klasie występowaniem cech wymycia iłu koloidalnego.
-Klasa IIIb
+Gleby płowe lessowe, różniące się od gleb gatunku k w tej klasie występowaniem cech wymycia iłu koloidalnego. Klasa IIIb
 a)
 Gleby płowe lessowe, niecałkowite, na piaskach, żwirach lub wapieniach, o miąższości warstwy lessowej 60 – 80 cm. Poziom próchniczny o miąższości około 25 cm. Są to gleby wrażliwe na brak opadów. Nadają się pod uprawę żyta, ziemniaków, a nawet pszenicy.
 b)
@@ -920,8 +898,7 @@ Gleby brunatne lessowe, niecałkowite, na wapieniach silnie zwietrzałych, o mi�
 h)
 Gleby brunatne lessowe, całkowite, występujące na terenach falistych, narażone w wyraźnym stopniu na procesy zmywu. Poziom próchniczny o miąższości około 20 cm. Gleby te nadają się na ogół pod uprawę wszystkich roślin uprawnych, przy czym plony mogą być nieco niższe od średnich.
 i)
-Gleby płowe różniące się od gleb gatunku h w tej klasie występowaniem cech przemycia iłu koloidalnego.
-Klasa IVa
+Gleby płowe różniące się od gleb gatunku h w tej klasie występowaniem cech przemycia iłu koloidalnego. Klasa IVa
 a)
 Gleby brunatne lessowe, płytkie, niecałkowite, na piaskach lub żwirach, o miąższości warstwy lessowej 50 – 60 cm. Niekiedy za suche. Poziom próchniczny o miąższości około 20 cm. Gleby żytnio-ziemniaczane.
 b)
@@ -935,8 +912,7 @@ Gleby płowe lessowe, różniące się od gleb gatunku a w tej klasie występowa
 f)
 Gleby płowe lessowe, różniące się od gleb gatunku b w tej klasie występowaniem cech wymycia.
 g)
-Gleby brunatne lessowe, niecałkowite, na wapieniach silnie zwietrzałych, o miąższości warstwy lessowej 30–40 cm do gliniastej zwietrzeliny wapienia. Gleby te występują na terenach płaskich lub stokach o nachyleniu do 5°. W latach o sprzyjających warunkach atmosferycznych dają średnie plony roślin, natomiast w latach o małej ilości opadów plony mogą być niskie.
-Klasa IVb
+Gleby brunatne lessowe, niecałkowite, na wapieniach silnie zwietrzałych, o miąższości warstwy lessowej 30–40 cm do gliniastej zwietrzeliny wapienia. Gleby te występują na terenach płaskich lub stokach o nachyleniu do 5°. W latach o sprzyjających warunkach atmosferycznych dają średnie plony roślin, natomiast w latach o małej ilości opadów plony mogą być niskie. Klasa IVb
 a)
 Gleby brunatne lessowe, płytkie, niecałkowite, na wapieniach, piaskach lub żwirach, o miąższości warstwy lessowej około 40–50 cm. Gleby żytnio-ziemniaczane, wrażliwe na brak opadów.
 b)
@@ -948,8 +924,7 @@ Gleby brunatne lessowe, namyte, nisko położone na nieprzepuszczalnym podłożu
 e)
 Gleby płowe lessowe, różniące się od gleb gatunku a w tej klasie występowaniem cech wymycia.
 f)
-Gleby płowe lessowe, różniące się od gleb gatunku b w tej klasie występowaniem cech wymycia.
-Klasa V
+Gleby płowe lessowe, różniące się od gleb gatunku b w tej klasie występowaniem cech wymycia. Klasa V
 a)
 Gleby brunatne lessowe, bardzo płytkie, niecałkowite, na wapieniach, piaskach lub żwirach, o miąższości warstwy lessowej 30 – 40 cm. Gleby zbyt suche.
 b)
@@ -959,10 +934,10 @@ Gleby brunatne lessowe, zmyte, prawie bez próchnicy, na zbitym podłożu.
 d)
 Gleby płowe lessowe, różniące się od gleb gatunku a w tej klasie występowaniem cech wymycia iłu koloidalnego.
 e)
-Gleby płowe lessowe, różniące się od gleb gatunku b w tej klasie występowaniem cech wymycia iłu koloidalnego.
-Klasa VI
+Gleby płowe lessowe, różniące się od gleb gatunku b w tej klasie występowaniem cech wymycia iłu koloidalnego. Klasa VI
 a)
 Gleby lessowe o niewykształconym profilu glebowym, występujące na stokach o nachyleniu 30 – 40°, narażone na silną erozję. Powierzchnia tych gleb zbita, bez poziomu próchnicznego. Zaleca się ich wyłączenie z użytkowania ornego i przeznaczenie pod trwałe zadarnienie lub zadrzewienie.
+C. Czarnoziemy
 Klasa I
 a)
 Czarnoziemy wytworzone z lessów, całkowite lub niecałkowite, poziom próchniczny razem z lessem o łącznej miąższości nie mniejszej niż 120 cm, nie zdegradowane lub słabo zdegradowane, o trwałej strukturze gruzełkowatej. Poziom próchniczny o miąższości ponad 50 cm. Próchnica słodka. Podłoże przepuszczalne, węglan wapnia występuje na powierzchni lub w dolnej granicy poziomu próchnicznego. Nadają się pod uprawę wszystkich roślin uprawnych.
@@ -981,8 +956,7 @@ Czarnoziemy słabo zdegradowane, wytworzone z lessów, niecałkowite, na kredach
 h)
 Czarnoziemy zdegradowane, wytworzone z utworów lessowatych, całkowite, położone na terenach płaskich lub lekko falistych. Poziom próchniczny o miąższości około 60 cm lub głębszy, ciemno zabarwiony. W górnej części odczyn obojętny, często ku dołowi przechodzący w słabo kwaśny. Węglanu wapnia najczęściej brak w całym profilu glebowym. Są to gleby strukturalne, ciepłe i żyzne. Stanowią one bardzo dobre gleby pszenno-buraczane.
 i)
-Czarnoziemy namyte, o cechach takich jak gleby gatunku b w tej klasie, ale powstałe na utworach lessowatych, niezawierających węglanów w całym profilu glebowym, przeważnie o słabo kwaśnym odczynie.
-Klasa II
+Czarnoziemy namyte, o cechach takich jak gleby gatunku b w tej klasie, ale powstałe na utworach lessowatych, niezawierających węglanów w całym profilu glebowym, przeważnie o słabo kwaśnym odczynie. Klasa II
 a)
 Czarnoziemy wytworzone z lessów, niecałkowite, poziom próchniczny razem z lessem o łącznej miąższości 80–120 cm, na przepuszczalnym podłożu, dość silnie zdegradowane. Poziom próchniczny o miąższości nie mniejszej niż 40 cm. Węglan wapnia występuje w dolnej części profilu glebowego. Gleby te są zbliżone właściwościami do czarnoziemów klasy I, ale plony są nieco niższe.
 b)
@@ -1000,8 +974,7 @@ Czarnoziemy namyte, z nadkładem materiału lessowego, o cechach takich jak gleb
 h)
 Czarnoziemy zdegradowane, wytworzone z lessów, całkowite, położone na terenach płaskich lub lekko falistych. Poziom próchniczny o miąższości około 50 cm, często znacznie głębszy. Pod poziomem próchnicznym występuje poziom ciemnobrunatny wykazujący znaczną zwięzłość (widać wyraźne opylenie krzemionką). Odczyn tych gleb w górnej części poziomu próchnicznego przeważnie słabo kwaśny, w głębszej wyraźnie kwaśny. Węglanu wapnia brak w całym profilu glebowym. Są to gleby żyzne i przy właściwych stosunkach wodnych dają dobre plony wszystkich roślin uprawnych.
 i)
-Czarnoziemy namyte, o cechach takich jak gleby gatunku b w tej klasie, ale na utworach lessowatych.
-Klasa IIIa
+Czarnoziemy namyte, o cechach takich jak gleby gatunku b w tej klasie, ale na utworach lessowatych. Klasa IIIa
 a)
 Czarnoziemy wytworzone z lessów, niecałkowite, o miąższości warstwy lessowej 60 – 80 cm, zalegające na piaskach, żwirach lub wapieniach. Poziom próchniczny o miąższości 35–50 cm. Gleby te występują na terenach niższych i okresowo bywają za wilgotne. Węglan wapnia występuje często w całym profilu glebowym.
 b)
@@ -1021,8 +994,7 @@ Czarnoziemy namyte, podobne do gleb gatunku c w tej klasie, ale na utworach less
 i)
 Czarnoziemy namyte na czarne ziemie, występujące na pobrzeżach dolin rzecznych i lokalnych obniżeniach terenu. Na profil glebowy czarnych ziem wytworzonych z utworów pyłowych namyty został materiał ze zboczy, na których występuje czarnoziem wytworzony z lessu. Warstwa namyta różni się wyraźnie od właściwego poziomu próchnicznego czarnej ziemi jaśniejszym zabarwieniem. Są to gleby okresowo zbyt wilgotne, zbliżone właściwościami i wartością użytkową do gleb gatunku c w tej klasie.
 j)
-Czarnoziemy namyte, z nadkładem materiału lessowego, podobne do czarnoziemów gatunku g w klasie II, ale występujące w gorszych warunkach fizjograficznych, np. w niższych częściach silnie erodowanych zboczy lub o znacznej zbitości zagrzebanego poziomu próchnicznego.
-Klasa IIIb
+Czarnoziemy namyte, z nadkładem materiału lessowego, podobne do czarnoziemów gatunku g w klasie II, ale występujące w gorszych warunkach fizjograficznych, np. w niższych częściach silnie erodowanych zboczy lub o znacznej zbitości zagrzebanego poziomu próchnicznego. Klasa IIIb
 a)
 Czarnoziemy wytworzone z lessu, niecałkowite, o miąższości 60 – 80 cm, zalegające na piaskach, żwirach lub wapieniach. Gleby te występują często na terenach falistych, warunkujących procesy zmywu. Poziom próchniczny o miąższości około 35 cm.
 b)
@@ -1038,21 +1010,20 @@ Czarnoziemy występujące na przejściu do czarnych ziem, położone nisko, niec
 g)
 Czarnoziemy zdegradowane, o cechach takich jak gleby gatunku e w tej klasie, ale wytworzone z utworów lessowatych, nie zawierają węglanu wapnia w całym profilu glebowym.
 h)
-Czarnoziemy namyte, o cechach takich jak gleby gatunku d w tej klasie, ale wytworzone z utworów lessowatych. Mają odczyn słabo kwaśny w całym profilu glebowym.
-Klasa IVa
+Czarnoziemy namyte, o cechach takich jak gleby gatunku d w tej klasie, ale wytworzone z utworów lessowatych. Mają odczyn słabo kwaśny w całym profilu glebowym. Klasa IVa
 a)
 Czarnoziemy wytworzone z lessów, niecałkowite, na iłach, próchnica w dolnej części poziomu próchnicznego jest nieco storfiała. W podłożu występuje ił zwięzły, nieprzepuszczalny na głębokości 60 – 80 cm.
 b)
 Czarnoziemy namyte, na trudno przepuszczalnym podłożu oglejonym do głębokości 60 cm. W profilu glebowym występują ślady storfienia.
 c)
-Czarnoziemy wytworzone z lessów, podmokłe. Poziom próchniczny głęboki, ciemnopopielaty lub czarny, ze śladami storfienia. Plamy glejowe występują na głębokości 60 cm.
-Klasa IVb
+Czarnoziemy wytworzone z lessów, podmokłe. Poziom próchniczny głęboki, ciemnopopielaty lub czarny, ze śladami storfienia. Plamy glejowe występują na głębokości 60 cm. Klasa IVb
 a)
 Czarnoziemy wytworzone z lessów, niecałkowite, na iłach, próchnica w dolnej części poziomu próchnicznego jest storfiała. W podłożu na głębokości 40 – 60 cm jest zwięzły i nieprzepuszczalny ił.
 b)
 Czarnoziemy namyte, na nieprzepuszczalnym podłożu. W profilu glebowym występują wyraźne ślady storfienia oraz plamy glejowe, które znajdują się już na głębokości 40–50 cm.
 c)
 Czarnoziemy wytworzone z lessów, podmokłe. Poziom próchniczny głęboki, ciemnopopielaty lub czarny, z wyraźnymi śladami storfienia. Od głębokości 40 – 50 cm plamy glejowe przechodzą stopniowo w jednolity poziom glejowy.
+D. Czarne ziemie
 Klasa I
 a)
 Czarne ziemie właściwe, wytworzone z glin marglistych, przewiewnych i przepuszczalnych, średnio zwięzłe. Poziom próchniczny o miąższości ponad 50 cm, ciemnoszary, o strukturze gruzełkowatej, zawiera próchnicę słodką, wytwarzającą się w obecności wapnia. Gleby te występują na terenach płaskich, warunkujących dobry do rozwoju roślin uprawnych stan uwilgotnienia. Poziom burzenia w kwasie solnym występuje zwykle na głębokości 50 – 60 cm. Są to gleby czynne, łatwe do uprawy, zasobne w składniki pokarmowe roślin.
@@ -1067,8 +1038,7 @@ Czarne ziemie słabo zdegradowane, różniące się od gleb gatunku a w tej klas
 f)
 Czarne ziemie słabo zdegradowane, różniące się od gleb gatunku b w tej klasie zróżnicowaniem poziomu próchnicznego na część górną, nieco jaśniejszej barwy, i część dolną, barwy ciemnoszarej, przechodzącej niekiedy w barwę czarną. Pod poziomem próchnicznym może wystąpić poziom przejściowy lub słabo zaznaczający się brunatnożółty poziom wmywania. Poziom próchniczny o miąższości ponad 60 cm. Węglan wapnia występuje najczęściej w dolnej części profilu glebowego.
 g)
-Czarne ziemie słabo zdegradowane, różniące się od gleb gatunku c w tej klasie zróżnicowaniem poziomu próchnicznego na część górną, nieco jaśniejszej barwy i część dolną, barwy ciemnoszarej, przechodzącej niekiedy w barwę czarną. Pod poziomem próchnicznym może wystąpić poziom przejściowy lub słabo zaznaczający się brunatnożółty poziom wmywania. Poziom próchniczny o miąższości ponad 60 cm. Węglan wapnia występuje najczęściej w dolnej części profilu glebowego.
-Klasa II
+Czarne ziemie słabo zdegradowane, różniące się od gleb gatunku c w tej klasie zróżnicowaniem poziomu próchnicznego na część górną, nieco jaśniejszej barwy i część dolną, barwy ciemnoszarej, przechodzącej niekiedy w barwę czarną. Pod poziomem próchnicznym może wystąpić poziom przejściowy lub słabo zaznaczający się brunatnożółty poziom wmywania. Poziom próchniczny o miąższości ponad 60 cm. Węglan wapnia występuje najczęściej w dolnej części profilu glebowego. Klasa II
 a)
 Czarne ziemie właściwe, wytworzone z glin marglistych, średnio zwięzłe, o właściwościach fizycznych gorszych niż w klasie I. Poziom próchniczny o miąższości około 40 cm, o zabarwieniu ciemnoszarym, o strukturze gruzełkowatej. Stosunki wodne tych gleb są dobre do rozwoju roślin uprawnych. Zmeliorowane lub nie wymagają melioracji. Nadają się pod uprawę wszystkich roślin uprawnych.
 b)
@@ -1100,8 +1070,7 @@ Czarne ziemie zdegradowane lub szare ziemie, różniące się od gleb gatunku ł
 n)
 Czarne ziemie zdegradowane lub szare ziemie, różniące się od gleb gatunku ł w tej klasie tym, że są wytworzone z utworów lessowatych, całkowite lub niecałkowite, na glinach lub iłach, zalegających poniżej 100 cm.
 o)
-Czarne ziemie zdegradowane lub szare ziemie, różniące się od gleb gatunku ł w tej klasie tym, że są wytworzone z utworów namytych, średnich, wykazujących najczęściej uziarnienie glin pylastych, całkowite lub niecałkowite, na glinach lub iłach, zalegających poniżej 100 cm.
-Klasa IIIa
+Czarne ziemie zdegradowane lub szare ziemie, różniące się od gleb gatunku ł w tej klasie tym, że są wytworzone z utworów namytych, średnich, wykazujących najczęściej uziarnienie glin pylastych, całkowite lub niecałkowite, na glinach lub iłach, zalegających poniżej 100 cm. Klasa IIIa
 a)
 Czarne ziemie właściwe, wytworzone z glin, często marglistych, lekkie lub średnie, całkowite, występujące na terenach płaskich, ale dość niskich. Poziom próchniczny o miąższości ponad 30 cm, o zabarwieniu ciemnoszarym, o strukturze gruzełkowatej. Gleby te są najczęściej zmeliorowane. W ich profilach glebowych występują jednak rdzawe lub glejowe plamy na głębokości nie mniejszej niż 80 cm (oglejenie plamiste słabe lub średnie). Nadają się pod uprawę w zasadzie wszystkich roślin uprawnych, ale w latach o dużej ilości opadów mogą być niekiedy nieco za wilgotne.
 b)
@@ -1133,8 +1102,7 @@ Czarne ziemie zdegradowane lub szare ziemie, wytworzone z utworów lessowatych, 
 n)
 Czarne ziemie zdegradowane lub szare ziemie, różniące się od gleb gatunku 1 w tej klasie tym, że są wytworzone z utworów namytych, średnich, o uziarnieniu glin pylastych.
 o)
-Czarne ziemie właściwe, lekkie, wytworzone z piasków gliniastych mocnych, pylastych, zalegających poniżej 100 cm na piaskach luźnych lub słabo gliniastych. Poziom próchniczny o miąższości około 50 cm lub głębszy, dobrze wykształcony, o zabarwieniu ciemnoszarym. Występują na terenach niższych, ale nie nadmiernie uwilgotnionych, zapewniających właściwe stosunki wodne do rozwoju roślin uprawnych. W podłożu piasek luźny lub słabo gliniasty całkowicie oglejony, występujące nad nim rdzawe cętki, pieprze, konkrecje żelazisto-manganowe lub inne oznaki oglejenia znajdują się nie wyżej niż około 70 cm. Odczyn tych gleb w górnych poziomach przeważnie słabo kwaśny lub zbliżony do obojętnego, w dolnych poziomach i warstwach może być niekiedy kwaśny. Są to gleby dość żyzne, nadające się na ogół pod uprawę wszystkich roślin uprawnych.
-Klasa IIIb
+Czarne ziemie właściwe, lekkie, wytworzone z piasków gliniastych mocnych, pylastych, zalegających poniżej 100 cm na piaskach luźnych lub słabo gliniastych. Poziom próchniczny o miąższości około 50 cm lub głębszy, dobrze wykształcony, o zabarwieniu ciemnoszarym. Występują na terenach niższych, ale nie nadmiernie uwilgotnionych, zapewniających właściwe stosunki wodne do rozwoju roślin uprawnych. W podłożu piasek luźny lub słabo gliniasty całkowicie oglejony, występujące nad nim rdzawe cętki, pieprze, konkrecje żelazisto-manganowe lub inne oznaki oglejenia znajdują się nie wyżej niż około 70 cm. Odczyn tych gleb w górnych poziomach przeważnie słabo kwaśny lub zbliżony do obojętnego, w dolnych poziomach i warstwach może być niekiedy kwaśny. Są to gleby dość żyzne, nadające się na ogół pod uprawę wszystkich roślin uprawnych. Klasa IIIb
 a)
 Czarne ziemie wytworzone z glin, często marglistych, lekkie lub średnie, całkowite lub niecałkowite, na iłach występujących poniżej 80 cm, występujące na terenach płaskich lub niskich. Poziom próchniczny o miąższości ponad 30 cm, o zabarwieniu ciemnym, o strukturze gruzełkowatej. Gleby te są zmeliorowane. W ich profilach glebowych występują jednak rdzawe lub glejowe plamy na głębokości nie mniejszej niż 80 cm (oglejenie plamiste słabe lub średnie). W latach o dużej ilości opadów są zbyt wilgotne, co ujemnie odbija się na plonach.
 b)
@@ -1160,8 +1128,7 @@ Czarne ziemie wytworzone z glin pylastych, lekkie lub średnie, całkowite lub n
 l)
 Czarne ziemie wytworzone z glin pylastych, lekkie lub średnie, na piaskach luźnych, piaskach słabo gliniastych lub żwirach, występujących na głębokości 80–100 cm. Poziom próchniczny o miąższości około 35 cm. Gleby te są zmeliorowane lub nie wymagają melioracji. W profilu glebowym może występować węglan wapnia. Są to gleby nadające się pod uprawę pszenicy i buraków cukrowych.
 ł)
-Czarne ziemie właściwe, zdegradowane lub szare ziemie, lekkie, wytworzone z piasków gliniastych, nieraz pylastych mocnych, zalegających na piaskach luźnych lub słabo gliniastych, na około 90 cm lub głębiej. Występują na terenach niższych, ale nie nadmiernie wilgotnych, zapewniających właściwe stosunki wodne dla roślin uprawnych. Poziom próchniczny o miąższości ponad 40 cm, barwy ciemnoszarej lub szarobrunatnej, ma nieraz w dolnej części ciemniejsze zabarwienie. Pod nim występuje często brunatny poziom wmywania z pieprzami i konkrecjami żelazisto-manganowymi. W podłożu piasek luźny lub słabo gliniasty całkowicie oglejony. Odczyn tych gleb w górnych poziomach przeważnie słabo kwaśny lub zbliżony do obojętnego, a w dolnych może być nieraz wyraźnie kwaśny. Nadają się na ogół pod uprawę wszystkich roślin uprawnych, a w szczególności roślin pastewnych i mieszanek.
-Klasa IVa
+Czarne ziemie właściwe, zdegradowane lub szare ziemie, lekkie, wytworzone z piasków gliniastych, nieraz pylastych mocnych, zalegających na piaskach luźnych lub słabo gliniastych, na około 90 cm lub głębiej. Występują na terenach niższych, ale nie nadmiernie wilgotnych, zapewniających właściwe stosunki wodne dla roślin uprawnych. Poziom próchniczny o miąższości ponad 40 cm, barwy ciemnoszarej lub szarobrunatnej, ma nieraz w dolnej części ciemniejsze zabarwienie. Pod nim występuje często brunatny poziom wmywania z pieprzami i konkrecjami żelazisto-manganowymi. W podłożu piasek luźny lub słabo gliniasty całkowicie oglejony. Odczyn tych gleb w górnych poziomach przeważnie słabo kwaśny lub zbliżony do obojętnego, a w dolnych może być nieraz wyraźnie kwaśny. Nadają się na ogół pod uprawę wszystkich roślin uprawnych, a w szczególności roślin pastewnych i mieszanek. Klasa IVa
 a)
 Czarne ziemie wytworzone z glin, lekkie lub średnie, występujące na terenach warunkujących nadmierny stan uwilgotnienia. Poziom próchniczny głęboki ma zabarwienie ciemne w wierzchnich warstwach, a dalej czarne. W profilu glebowym występuje często węglan wapnia, mogą też znaleźć się glejowe i rdzawe plamy oraz drobne konkrecje żelaza na głębokości około 60 cm. Poziom wód gruntowych dość wysoki. Są to gleby dające niskie plony. Nadają się w szczególności pod uprawę mieszanek i roślin pastewnych.
 b)
@@ -1183,8 +1150,7 @@ Czarne ziemie wytworzone z utworów lessowatych, o cechach takich jak gleby gatu
 j)
 Czarne ziemie lekkie, wytworzone z piasków gliniastych lekkich, całkowite. Nadają się w szczególności pod uprawę żyta, owsa, jęczmienia i ziemniaków. Poziom próchniczny o miąższości około 40 – 50 cm.
 k)
-Czarne ziemie zdegradowane lub szare ziemie, lekkie, wytworzone z piasków gliniastych, nieraz pylastych, zalegających na piaskach luźnych lub słabo gliniastych na głębokości poniżej 70 – 90 cm (w zależności od innych cech gleby). Występują na terenach niższych, ale nie nadmiernie uwilgotnionych. Poziom próchniczny o miąższości ponad 40 cm, barwy ciemnoszarej lub szarobrunatnej, ma często w dolnej części ciemniejsze zabarwienie. Pod nim brunatny poziom wmywania z licznymi pieprzami i konkrecjami żelazisto-manganowymi. W podłożu piasek luźny lub słabo gliniasty całkowicie oglejony. Odczyn tych gleb w górnych poziomach przeważnie słabo kwaśny lub zbliżony do obojętnego, a w dolnych niejednokrotnie może być wyraźnie kwaśny. Nadają się pod uprawę żyta, owsa, ziemniaków, buraków pastewnych i mieszanek, a w dobrej agrotechnice również pszenicy i buraków cukrowych. W latach o dużej ilości opadów plony mogą być niskie.
-Klasa IVb
+Czarne ziemie zdegradowane lub szare ziemie, lekkie, wytworzone z piasków gliniastych, nieraz pylastych, zalegających na piaskach luźnych lub słabo gliniastych na głębokości poniżej 70 – 90 cm (w zależności od innych cech gleby). Występują na terenach niższych, ale nie nadmiernie uwilgotnionych. Poziom próchniczny o miąższości ponad 40 cm, barwy ciemnoszarej lub szarobrunatnej, ma często w dolnej części ciemniejsze zabarwienie. Pod nim brunatny poziom wmywania z licznymi pieprzami i konkrecjami żelazisto-manganowymi. W podłożu piasek luźny lub słabo gliniasty całkowicie oglejony. Odczyn tych gleb w górnych poziomach przeważnie słabo kwaśny lub zbliżony do obojętnego, a w dolnych niejednokrotnie może być wyraźnie kwaśny. Nadają się pod uprawę żyta, owsa, ziemniaków, buraków pastewnych i mieszanek, a w dobrej agrotechnice również pszenicy i buraków cukrowych. W latach o dużej ilości opadów plony mogą być niskie. Klasa IVb
 a)
 Czarne ziemie wytworzone z glin, lekkie lub średnie, występujące na terenach warunkujących nadmierny stan uwilgotnienia. Poziom próchniczny głęboki, ma zabarwienie bardzo ciemne lub czarne. W profilu glebowym występują oglejenia i konkrecje żelaza na głębokości około 50 cm. Poziom wód gruntowych wysoki. Wymagają melioracji. Gleby uniemożliwiające w terminie wiosenne uprawy. Nadają się najbardziej pod uprawę mieszanek i roślin pastewnych.
 b)
@@ -1198,18 +1164,17 @@ Czarne ziemie wytworzone z utworów lessowatych, o cechach takich jak gleby gatu
 f)
 Czarne ziemie wytworzone z glin, lekkie lub średnie, niecałkowite, na piaskach luźnych, piaskach słabo gliniastych lub żwirach, występujących na głębokości poniżej 60 cm. Poziom próchniczny o miąższości 30 cm, barwy ciemnoszarej. Występują na terenach niskich o nadmiernym uwilgotnieniu. Nadają się pod uprawę roślin pastewnych.
 g)
-Czarne ziemie ciężkie, wytworzone z ciężkich glin lub iłów, o cechach takich jak gleby gatunku f w tej klasie.
-Klasa V
+Czarne ziemie ciężkie, wytworzone z ciężkich glin lub iłów, o cechach takich jak gleby gatunku f w tej klasie. Klasa V
 a)
 Czarne ziemie wytworzone z piasków słabo gliniastych. Niekiedy w podłożu występuje piasek luźny. Poziom próchniczny o miąższości około 30 cm, barwy ciemnej. Poziom wód gruntowych wysoki. Nadają się w szczególności pod uprawę kapusty, brukwi i roślin pastewnych.
 b)
 Czarne ziemie wytworzone z różnych skał macierzystych, występujące na terenach bezodpływowych, silnie podmokłe, których melioracje są utrudnione. Nadają się w szczególności pod łąki trwałe i pastwiska trwałe oraz pod uprawę roślin pastewnych.
+E. Gleby bagienne i pobagienne
 Klasa IIIa
 a)
 Gleby torfowo-murszowe zmeliorowane lub nie wymagają melioracji. Wierzchnie warstwy do głębokości ponad 60 cm mają strukturalną, nierozpyloną i dobrze rozłożoną materię organiczną bez widocznych włókien roślinnych z dużą zawartością części mineralnych. W podłożu występuje słabiej rozłożony torf albo piasek luźny, który występuje na głębokości nie mniejszej niż 120 cm. Torfy na glinach lub iłach mogą być nieco płytsze. Gleby łatwe do uprawy. Dają dobre plony, zwłaszcza roślin pastewnych, przemysłowych i niektórych warzyw.
 b)
-Gleby mułowo-torfowe zmeliorowane. Warstwy namułów mineralno-próchnicznych o miąższości około 50 cm, zalegają na torfie niskim, dobrze rozłożonym. Warstwa torfu sięga do głębokości większej niż 100 cm. Uziarnienie warstw mineralnych pylaste lub gliniaste lekkie, względnie średnie. Gleby te dają dobre plony roślin pastewnych, przemysłowych i niektórych warzyw.
-Klasa IIIb
+Gleby mułowo-torfowe zmeliorowane. Warstwy namułów mineralno-próchnicznych o miąższości około 50 cm, zalegają na torfie niskim, dobrze rozłożonym. Warstwa torfu sięga do głębokości większej niż 100 cm. Uziarnienie warstw mineralnych pylaste lub gliniaste lekkie, względnie średnie. Gleby te dają dobre plony roślin pastewnych, przemysłowych i niektórych warzyw. Klasa IIIb
 a)
 Gleby torfowo-murszowe zmeliorowane lub nie wymagają melioracji. Wierzchnie warstwy na głębokości 50 – 60 cm mają strukturalną, nierozpyloną i dobrze rozłożoną materię organiczną bez widocznych włókien roślinnych, z dużą zawartością części mineralnych. W podłożu występuje słabiej rozłożony torf albo piasek luźny, który występuje na głębokości 100 – 120 cm. Torfy na glinach lub iłach mogą być nieco płytsze. Gleby łatwe do uprawy. Dają niezłe plony roślin pastewnych i niektórych warzyw.
 b)
@@ -1219,8 +1184,7 @@ Gleby murszowe lub murszaste, na utworach pyłowych, całkowite lub niecałkowit
 d)
 Gleby murszowe lub murszaste pylaste, o cechach takich jak gleby gatunku c w tej klasie, na glinach pylastych lub strukturalnych iłach pylastych, całkowite lub niecałkowite, zalegające na piaskach luźnych lub słabo gliniastych, na głębokości około 80 cm lub głębiej.
 e)
-Gleby murszowe lub murszaste pylaste, na piaskach gliniastych pylastych, całkowite lub niecałkowite, zalegające na piaskach luźnych lub słabo gliniastych, na głębokości około 100 cm lub głębiej. Inne cechy takie jak u gleb gatunku c w tej klasie.
-Klasa IVa
+Gleby murszowe lub murszaste pylaste, na piaskach gliniastych pylastych, całkowite lub niecałkowite, zalegające na piaskach luźnych lub słabo gliniastych, na głębokości około 100 cm lub głębiej. Inne cechy takie jak u gleb gatunku c w tej klasie. Klasa IVa
 a)
 Gleby torfowo-murszowe zmeliorowane lub nie wymagają melioracji. Wierzchnie warstwy do głębokości nie mniejszej niż 50 cm, mają dobrze rozłożoną materię organiczną bez widocznych większych włókien roślinnych, z domieszką części mineralnych. W podłożu na głębokości co najmniej 80 cm może występować słabiej rozłożony torf, piasek luźny lub wapno łąkowe. Torfy na iłach mogą być płytsze. Gleby łatwe do uprawy. Nadają się pod uprawę głównie kapusty i roślin pastewnych.
 b)
@@ -1240,8 +1204,7 @@ Gleby murszaste o cechach takich jak gleby gatunku g w tej klasie, ale piasek gl
 i)
 Gleby murszaste o cechach takich jak gleby gatunku g w tej klasie, różniące się tym, że pod warstwą murszastą występuje piasek gliniasty pylasty, całkowite lub niecałkowite, na piaskach luźnych lub żwirach, zalegających poniżej 100 cm.
 j)
-Gleby murszaste o cechach takich jak gleby gatunku g w tej klasie, różniące się tym, że zalegają na warstwowanych osadach złożonych z piasków gliniastych, utworów pyłowych lub glin, poniżej 100 cm, zalegających na piaskach luźnych lub żwirach. Poziom próchniczny o miąższości ponad 25 cm. Występują najczęściej na terenach dolin rzecznych lub w bezpośrednim ich sąsiedztwie na płaskich, niskich terenach.
-Klasa IVb
+Gleby murszaste o cechach takich jak gleby gatunku g w tej klasie, różniące się tym, że zalegają na warstwowanych osadach złożonych z piasków gliniastych, utworów pyłowych lub glin, poniżej 100 cm, zalegających na piaskach luźnych lub żwirach. Poziom próchniczny o miąższości ponad 25 cm. Występują najczęściej na terenach dolin rzecznych lub w bezpośrednim ich sąsiedztwie na płaskich, niskich terenach. Klasa IVb
 a)
 Gleby torfowo-murszowe zmeliorowane lub nie wymagają melioracji. Wierzchnie warstwy do głębokości nie mniejszej niż 40 cm mają dobrze rozłożoną materię organiczną z niewielką ilością większych włókien roślinnych, z domieszką części mineralnych. W podłożu na głębokości przynajmniej 60 cm może być słabiej rozłożony torf, piasek luźny lub wapno łąkowe. Gleby łatwe do uprawy. Nadają się pod uprawę kapusty.
 b)
@@ -1261,8 +1224,7 @@ Gleby murszaste różniące się od gleb gatunku g w klasie IVa mniejszą miąż
 i)
 Gleby murszaste różniące się od gleb gatunku i w klasie IVa mniejszą miąższością poziomu próchnicznego, murszastego, która wynosi około 25 cm, oraz tym, że piasek gliniasty pylasty zalega na piasku luźnym lub żwirze, na głębokości 60–100 cm.
 j)
-Gleby murszowe lub murszaste, wytworzone na piaskach luźnych. Poziom próchniczny, murszowy lub murszasty, dobrze wykształcony do głębokości 60 cm. Stosunki wodne takie jak u gleb gatunku d w tej klasie. Nadają się pod uprawę brukwi, kapusty i niektórych roślin pastewnych.
-Klasa V
+Gleby murszowe lub murszaste, wytworzone na piaskach luźnych. Poziom próchniczny, murszowy lub murszasty, dobrze wykształcony do głębokości 60 cm. Stosunki wodne takie jak u gleb gatunku d w tej klasie. Nadają się pod uprawę brukwi, kapusty i niektórych roślin pastewnych. Klasa V
 a)
 Gleby torfowo-murszowe zmeliorowane lub niezmeliorowane. Wierzchnie warstwy do głębokości nie mniejszej niż 20 cm mają dobrze rozłożony torf z domieszką części mineralnych. W podłożu torf słabo rozłożony albo piasek luźny na głębokości nie mniejszej niż 50 cm. Plony wielu roślin są niskie. Nadają się najbardziej pod łąki trwałe i pastwiska trwałe oraz pod uprawę roślin pastewnych.
 b)
@@ -1280,8 +1242,7 @@ Gleby murszowe lub murszaste, na wapnie łąkowym zalegającym na głębokości 
 h)
 Gleby murszowe lub murszaste. Poziom próchniczny, murszowy lub murszasty, o miąższości 25 – 30 cm. Gleby te zalegają na piasku słabo gliniastym, pod którym poniżej 50 cm występuje piasek luźny lub żwir. Pod poziomem próchnicznym często występują rdzawe plamy i konkrecje żelaziste lub rudawiec. Są to gleby dające niskie plony zarówno w latach o małej jak i dużej ilości opadów.
 i)
-Gleby murszaste wytworzone z piasków słabo gliniastych, całkowite lub niecałkowite, zalegające na piasku luźnym, podmokłe. Poziom próchniczny o miąższości około 25 cm, zawiera częściowo niezhumifikowane szczątki organiczne. Gleby te występują na terenach niższych, a niekiedy na spadkach. W tym ostatnim przypadku woda wybija się z nich pod ciśnieniem. W profilu glebowym spotyka się często uformowany poziom z rudawcem. Poziom wód gruntowych okresowo zmienny. Gleby te w sprzyjających warunkach atmosferycznych (w latach o małej ilości opadów) nadają się pod uprawę ziemniaków, owsa, mieszanek, a niekiedy nawet żyta. W latach o dużej ilości opadów uprawiane na nich rośliny przeważnie dają niskie plony.
-Klasa VI
+Gleby murszaste wytworzone z piasków słabo gliniastych, całkowite lub niecałkowite, zalegające na piasku luźnym, podmokłe. Poziom próchniczny o miąższości około 25 cm, zawiera częściowo niezhumifikowane szczątki organiczne. Gleby te występują na terenach niższych, a niekiedy na spadkach. W tym ostatnim przypadku woda wybija się z nich pod ciśnieniem. W profilu glebowym spotyka się często uformowany poziom z rudawcem. Poziom wód gruntowych okresowo zmienny. Gleby te w sprzyjających warunkach atmosferycznych (w latach o małej ilości opadów) nadają się pod uprawę ziemniaków, owsa, mieszanek, a niekiedy nawet żyta. W latach o dużej ilości opadów uprawiane na nich rośliny przeważnie dają niskie plony. Klasa VI
 a)
 Gleby torfowe wadliwe, o właściwościach gorszych niż wymienione w klasie V.
 b)
@@ -1298,19 +1259,18 @@ g)
 Gleby murszowe lub murszaste, zalegające na wapnie łąkowym na głębokości 40 cm lub płycej. Wierzchnie warstwy silnie burzą, po wyschnięciu jaśnieją. Poziom próchniczny, murszowy lub murszasty, około 20 cm. Gleby rolniczo nieprzydatne. Wymagają intensywnego nawożenia sztucznego, a szczególnie boraksowania.
 h)
 Gleby murszowe płytkie (20 – 25 cm), na piaskach luźnych, przesuszone na skutek znacznego obniżenia poziomu wód gruntowych. Poziom murszowy rozpylony. W profilu glebowym mogą wystąpić plamy żelazisto-manganowe na głębokości 40 – 50 cm i wyżej, jako pozostałość dawniejszych niewłaściwych stosunków wodnych. Gleby te wymagają melioracji przy użyciu gliny, iłu lub lessu w celu powiększenia pojemności wodnej i zapasu wody dostępnej dla roślin, względnie wymagają nawadniania.
+F. Mady
 Klasa I
 a)
 Mady pyłowe, lekkie, o miąższości ponad 120 cm lub mady pyłowe, średnie, średnio zwięzłe, o miąższości ponad 100 cm. Występować mogą cienkie warstewki piasku. Struktura w górnej części profilu glebowego gruzełkowata. Przepuszczalność i przewiewność dobra. Barwa wierzchnich warstw brunatna lub ciemnopopielata, głębiej żółtawoszara lub żółtawobrązowa, z odcieniem oliwkowym. W podłożu zwykle piasek. W niektórych madach występuje węglan wapnia w całym profilu glebowym. Mogą to być również mady brunatne o bardzo trudnym do odróżnienia poziomie próchnicznym od występującego pod nim poziomu brunatnienia (B). Barwa brunatna lub oliwkowobrunatna utworu aluwialnego może intensywnie maskować obecność próchnicy, mimo że jej procentowa zawartość jest stosunkowo duża. Gleby łatwe do uprawy. Nadają się dobrze pod uprawę wszystkich ziemiopłodów. Mady te położone są na terenach niepodlegających zalewom.
 b)
-Mady pyłowe, próchniczne. Poziom próchniczny o miąższości około 50 cm, na przepuszczalnym podłożu występującym głębiej niż 100 cm. Nie podlegają zalewom. Nadają się bardzo dobrze pod uprawę wszystkich ziemiopłodów.
-Klasa II
+Mady pyłowe, próchniczne. Poziom próchniczny o miąższości około 50 cm, na przepuszczalnym podłożu występującym głębiej niż 100 cm. Nie podlegają zalewom. Nadają się bardzo dobrze pod uprawę wszystkich ziemiopłodów. Klasa II
 a)
 Mady pyłowe, lekkie, o miąższości 100 – 120 cm lub mady pyłowe, średnie, średnio zwięzłe, o miąższości 80 – 100 cm na podłożu piaszczystym, występujące na terenach warunkujących dobry do rozwoju roślin uprawnych stan uwilgotnienia. Należą tu również mady lekkie lub średnie, o miąższości nieco większej, ale podlegające okresowym krótkotrwałym zalewom. Mogą to być również mady brunatne o poziomie próchnicznym takim jak w madach gatunku a w klasie I. Są to gleby bardzo dobre, nadające się pod uprawę wszystkich ziemiopłodów, a zwłaszcza warzyw.
 b)
 Mady średnie, dość zwięzłe, strukturalne, mające od głębokości około 40 cm warstwy o uziarnieniu nieco lżejszym od warstw wierzchnich. Są to gleby żyzne, nieco trudniejsze do uprawy.
 c)
-Mady pyłowe, próchniczne, o miąższości 70–100 cm, na przepuszczalnym podłożu. Poziom próchniczny o miąższości około 50 cm. Stan wód gruntowych nie za wysoki.
-Klasa IIIa
+Mady pyłowe, próchniczne, o miąższości 70–100 cm, na przepuszczalnym podłożu. Poziom próchniczny o miąższości około 50 cm. Stan wód gruntowych nie za wysoki. Klasa IIIa
 a)
 Mady lekkie lub średnie, pyłowe, o miąższości 60 – 80 cm, leżące na piaszczystym podłożu. Występują na terenach warunkujących dobry stan uwilgotnienia do rozwoju roślin uprawnych.
 b)
@@ -1322,8 +1282,7 @@ Mady ciężkie, strukturalne, o miąższości 70 – 100 cm, na podłożu piaszc
 e)
 Mady ciężkie, próchniczne, głębokie, na podłożu piaszczystym. Poziom próchniczny o miąższości ponad 40 cm, barwy ciemnoszarej lub czarnej. Od 70 – 80 cm średnio oglejone. Poniżej 100 cm najczęściej występuje silne oglejenie. Gleby te w okresie suszy pękają, rzadko jednak brak im wody. Zbyt mokre, jak również za suche, trudne do uprawy. Nadają się bardzo dobrze pod uprawę buraków, pszenicy i rzepaku.
 f)
-Mady średnie, średnio zwięzłe, o miąższości około 80 cm, zalegające na torfach o uregulowanych stosunkach wodnych. Torf w górnej części warstwy dość dobrze rozłożony. Ponad nim występują rdzawe cętki, plamki i oznaki słabego oglejenia, jednak nie płycej niż na głębokości około 60 cm. Gleby żyzne, nadające się w szczególności pod uprawę buraków pastewnych, mieszanek, koniczyn oraz innych roślin pastewnych, ale w sprzyjających warunkach atmosferycznych można na nich uprawiać również pszenicę i buraki cukrowe.
-Klasa IIIb
+Mady średnie, średnio zwięzłe, o miąższości około 80 cm, zalegające na torfach o uregulowanych stosunkach wodnych. Torf w górnej części warstwy dość dobrze rozłożony. Ponad nim występują rdzawe cętki, plamki i oznaki słabego oglejenia, jednak nie płycej niż na głębokości około 60 cm. Gleby żyzne, nadające się w szczególności pod uprawę buraków pastewnych, mieszanek, koniczyn oraz innych roślin pastewnych, ale w sprzyjających warunkach atmosferycznych można na nich uprawiać również pszenicę i buraki cukrowe. Klasa IIIb
 a)
 Mady lekkie lub średnie, pyłowe, o miąższości 50–60 cm, leżące na piaszczystym podłożu. Gleby te w latach o małej ilości opadów, a szczególnie w okresie wegetacyjnym, mogą być nieco za suche.
 b)
@@ -1337,8 +1296,7 @@ Mady ciężkie, głębokie, na piaszczystym podłożu. Poziom próchniczny o mi�
 f)
 Mady ciężkie, próchniczne, głębokie na piaszczystym podłożu. Poziom próchniczny o miąższości około 40 cm. Plamy glejowe występują na głębokości 50–70 cm. Głębsze warstwy zawierają często substancję organiczną, która nadaje im barwę czarną lub niebieskoczarną.
 g)
-Mady średnie, dość zwięzłe, strukturalne, o miąższości około 70 cm, zalegające na torfach, o właściwych stosunkach wodnych. Oznaki słabego lub średniego oglejenia występują nie płycej niż na głębokości 50–60 cm. Nadają się w szczególności pod uprawę buraków pastewnych, mieszanek, koniczyny i innych roślin pastewnych. W sprzyjających warunkach atmosferycznych można uprawiać na nich również inne rośliny.
-Klasa IVa
+Mady średnie, dość zwięzłe, strukturalne, o miąższości około 70 cm, zalegające na torfach, o właściwych stosunkach wodnych. Oznaki słabego lub średniego oglejenia występują nie płycej niż na głębokości 50–60 cm. Nadają się w szczególności pod uprawę buraków pastewnych, mieszanek, koniczyny i innych roślin pastewnych. W sprzyjających warunkach atmosferycznych można uprawiać na nich również inne rośliny. Klasa IVa
 a)
 Mady lekkie lub średnie, o miąższości około 50 – 60 cm, na piaszczystym lub żwirowatym podłożu lub mady piaszczyste o większej miąższości, ale zbyt przewiewne i zbyt przepuszczalne. W profilach glebowych mad piaszczystych zaznaczają się często grubsze warstwy namułów pyłowych lub gliniastych. Zarówno jedne jak i drugie odmiany tych mad są dobrymi glebami żytnio-ziemniaczanymi.
 b)
@@ -1350,8 +1308,7 @@ Mady próchniczne, bardzo ciężkie. Poziom próchniczny o miąższości około 
 e)
 Mady ciężkie, ilasto-pyłowe, strukturalne w górnych warstwach, o miąższości około 60 – 70 cm na torfach. Wyraźne oglejenie występuje nie płycej niż na głębokości około 50 cm, ale pojedyncze plamy glejowe i rdzawe pasma i cętki mogą występować już na głębokości 35–40 cm. Nadają się w szczególności pod uprawę mieszanek, koniczyn i innych roślin pastewnych.
 f)
-Mady silnie próchniczne, ze storfiałą częściowo próchnicą, murszaste, o miąższości ponad 70 cm, zalegające na piaskach. Zaliczyć tu można również płytsze mady murszaste, zalegające na piaskach pylastych. Gleby średniej jakości, nadają się pod uprawę niektórych roślin pastewnych.
-Klasa IVb
+Mady silnie próchniczne, ze storfiałą częściowo próchnicą, murszaste, o miąższości ponad 70 cm, zalegające na piaskach. Zaliczyć tu można również płytsze mady murszaste, zalegające na piaskach pylastych. Gleby średniej jakości, nadają się pod uprawę niektórych roślin pastewnych. Klasa IVb
 a)
 Mady lekkie lub średnie, o miąższości około 40–50 cm, na piaszczystym lub żwirowatym podłożu lub mady piaszczyste o większej miąższości, zbyt przepuszczalne i przewiewne. Są to gleby żytnio-ziemniaczane.
 b)
@@ -1363,8 +1320,7 @@ Mady ciężkie, ilaste, o miąższości około 50 cm, zalegające na piaskach. M
 e)
 Mady silnie próchniczne, ze storfiałą częściowo próchnicą (murszaste), o miąższości około 50 cm na piasku. Zbyt suche na łąki trwałe i pastwiska trwałe. Nadają się pod uprawę niektórych roślin pastewnych, ale plony są słabsze niż średnie.
 f)
-Mady ciężkie, ilaste, o miąższości około 60 cm, na torfie. Mało czynne i niestrukturalne. Wyraźne oglejenie występujące na głębokości około 40 – 50 cm. Nadają się pod uprawę roślin pastewnych oraz łąki trwałe i pastwiska trwałe.
-Klasa V
+Mady ciężkie, ilaste, o miąższości około 60 cm, na torfie. Mało czynne i niestrukturalne. Wyraźne oglejenie występujące na głębokości około 40 – 50 cm. Nadają się pod uprawę roślin pastewnych oraz łąki trwałe i pastwiska trwałe. Klasa V
 a)
 Mady bardzo lekkie, z domieszką piasku, występujące bliżej koryta rzeki. Obok przeważających warstw o grubszych cząstkach występują w profilu glebowym cienkie warstwy namułów pyłowych, gliniastych lub próchnicznych, które polepszają ich właściwości. W podłożu od głębokości około 80 cm piasek luźny lub żwir. Są to gleby ubogie w składniki pokarmowe dla roślin, zbyt przepuszczalne i zbyt przewiewne. Słabe gleby żytnio-ziemniaczane.
 b)
@@ -1372,27 +1328,25 @@ Mady lekkie lub średnie, płytkie i za suche. Piasek występuje już na głębo
 c)
 Mady lekkie lub średnie, silnie podmokłe, oglejone już na głębokości około 30 cm.
 d)
-Mady ciężkie, położone w bezodpływowych kotlinach i zagłębieniach. Gleby nieczynne, oglejone już na głębokości około 30 cm, nieprzewiewne i trudne do uprawy, zsychają się, a na mokro mażą się. Należą tu również mady ciężkie o miąższości warstwy próchnicznej około 20 cm, poniżej warstwy zwięzłe i nieprzepuszczalne, oglejone. Podłoże o głębokości około 80 cm stanowi piasek lub żwir. Gleby zlewne, nadają się pod uprawę niektórych roślin pastewnych oraz łąki trwałe i pastwiska trwałe.
-Klasa VI
+Mady ciężkie, położone w bezodpływowych kotlinach i zagłębieniach. Gleby nieczynne, oglejone już na głębokości około 30 cm, nieprzewiewne i trudne do uprawy, zsychają się, a na mokro mażą się. Należą tu również mady ciężkie o miąższości warstwy próchnicznej około 20 cm, poniżej warstwy zwięzłe i nieprzepuszczalne, oglejone. Podłoże o głębokości około 80 cm stanowi piasek lub żwir. Gleby zlewne, nadają się pod uprawę niektórych roślin pastewnych oraz łąki trwałe i pastwiska trwałe. Klasa VI
 a)
 Mady piaszczyste, płytkie, o miąższości do 20 cm, suche i niespójne, leżące na piasku luźnym.
 b)
 Mady ciężkie, głębokie, o uziarnieniu iłu. Poziom próchniczny o miąższości około 10 cm. Oglejenie występuje już na głębokości 10 cm. Są to gleby zlewne i zsychające się. Do uprawy prawie nieprzydatne. Melioracje są bezskuteczne. Nadają się pod łąki trwałe i pastwiska trwałe.
+G. Rędziny
 Klasa I
 a)
 Rędziny namyte, średnio zwięzłe, o miąższości ponad 100 cm, na przepuszczalnych podłożach lub płytsze, namyte na gleby o dużej przydatności rolniczej. Poziom próchniczny ma trwałą gruzełkowatą strukturę. Węglan wapnia występuje w całym namywie. Są to gleby przepuszczalne, przewiewne, bardzo urodzajne i łatwe do uprawy, ale w odpowiednim stanie uwilgotnienia.
 b)
 Rędziny kredowe, czarnoziemne, o miąższości około 100 cm, średnio zwięzłe. Poziom próchniczny o miąższości co najmniej 40 cm, barwy ciemnej, dobrze wykształcony, o trwałej strukturze gruzełkowatej, przechodzi stopniowo w dobrze rozłożoną, ziemistą (czynną) zwietrzelinę, macierzystej skały kredowej, z niewielką ilością odłamków skalnych. Położone w dobrych warunkach fizjograficznych. Są to gleby bardzo żyzne, łatwe do uprawy w odpowiednim stanie uwilgotnienia. Nadają się bardzo dobrze pod uprawę pszenicy, rzepaku, buraków cukrowych, jęczmienia, koniczyny, grochu i innych roślin motylkowych.
 c)
-Rędziny kredowe, mieszane z materiałem lessowym, o miąższości ponad 100 cm. Odłamki skały kredowej występują w całym profilu glebowym. Położone na terenach płaskich lub na zboczach o nachyleniu do 5°. Są to przeważnie rędziny czarnoziemne, czasem brunatne. Poziom próchniczny strukturalny, dobrze wykształcony, o miąższości około 40 cm lub głębszy. Są to gleby bardzo urodzajne, łatwiejsze do uprawy od rędzin czystych. Nadają się pod uprawę w szczególności pszenicy, rzepaku, buraków cukrowych, jęczmienia, koniczyny, grochu i innych roślin motylkowych.
-Klasa II
+Rędziny kredowe, mieszane z materiałem lessowym, o miąższości ponad 100 cm. Odłamki skały kredowej występują w całym profilu glebowym. Położone na terenach płaskich lub na zboczach o nachyleniu do 5°. Są to przeważnie rędziny czarnoziemne, czasem brunatne. Poziom próchniczny strukturalny, dobrze wykształcony, o miąższości około 40 cm lub głębszy. Są to gleby bardzo urodzajne, łatwiejsze do uprawy od rędzin czystych. Nadają się pod uprawę w szczególności pszenicy, rzepaku, buraków cukrowych, jęczmienia, koniczyny, grochu i innych roślin motylkowych. Klasa II
 a)
 Rędziny kredowe, o miąższości ponad 60 cm. Poziom próchniczny dobrze wykształcony, o zabarwieniu ciemnym, o trwałej strukturze gruzełkowatej. Gleby te są łatwe do uprawy, ale jedynie w odpowiednim stanie uwilgotnienia. Najbardziej nadają się pod uprawę pszenicy, jęczmienia, koniczyny i grochu.
 b)
 Rędziny kredowe, mieszane, z materiałem lodowcowym (zwałowym i wodnolodowcowym), średnio zwięzłe, o miąższości około 100 cm oraz rędziny kredowe, mieszane z materiałem lessowym o miąższości 80 – 100 cm. Poziom próchniczny dobrze wykształcony, ciemnobrunatny lub ciemnoszary, o strukturze gruzełkowatej, o miąższości około 40 cm. Odłamki skały kredowej w całym profilu glebowym. Gleby przepuszczalne łatwiejsze do uprawy niż rędziny czyste. Nadają się w szczególności pod uprawę pszenicy, jęczmienia, rzepaku, koniczyn, grochu i innych roślin motylkowych.
 c)
-Rędziny namyte, nieco płytsze lub o nieco gorszych właściwościach fizycznych niż rędziny namyte klasy I.
-Klasa IIIa
+Rędziny namyte, nieco płytsze lub o nieco gorszych właściwościach fizycznych niż rędziny namyte klasy I. Klasa IIIa
 a)
 Rędziny kredowe, czyste, średnio zwięzłe lub zwięzłe, o miąższości 40 – 60 cm. Gleby strukturalne czynne i urodzajne, ale trudne do uprawy.
 b)
@@ -1400,8 +1354,7 @@ Rędziny mieszane, z materiałem zwałowym, wodno lodowcowym lub lessowym, śred
 c)
 Rędziny namyte, średnio zwięzłe, o miąższości około 60 cm, na przepuszczalnym podłożu. Gleby te mają dobry stan uwilgotnienia do rozwoju roślin uprawnych.
 d)
-Rędziny gipsowe, czyste lub rędziny gipsowe, mieszane, o miąższości ponad 60 cm, występujące na terenach warunkujących dobry stan uwilgotnienia do rozwoju roślin uprawnych. Gleby pszenno-buraczane. Nadają się również dobrze pod uprawę wszystkich roślin motylkowych.
-Klasa IIIb
+Rędziny gipsowe, czyste lub rędziny gipsowe, mieszane, o miąższości ponad 60 cm, występujące na terenach warunkujących dobry stan uwilgotnienia do rozwoju roślin uprawnych. Gleby pszenno-buraczane. Nadają się również dobrze pod uprawę wszystkich roślin motylkowych. Klasa IIIb
 a)
 Rędziny kredowe, czyste, o miąższości 30–40 cm. Gleby strukturalne czynne i dość urodzajne, ale trudne do uprawy.
 b)
@@ -1411,8 +1364,7 @@ Rędziny namyte, średnio zwięzłe, o miąższości około 50 cm, na przepuszcz
 d)
 Rędziny namyte, na słabiej przepuszczalnym podłożu. Gleby te w latach o dużej ilości opadów są niekiedy zbyt wilgotne. Rdzawe lub glejowe plamy i pasma występują w tych glebach na głębokości nie mniejszej niż 60 cm.
 e)
-Rędziny gipsowe, czyste lub mieszane, o miąższości 50–60 cm, występujące w dość korzystnych warunkach uwilgotnienia do rozwoju roślin uprawnych.
-Klasa IVa
+Rędziny gipsowe, czyste lub mieszane, o miąższości 50–60 cm, występujące w dość korzystnych warunkach uwilgotnienia do rozwoju roślin uprawnych. Klasa IVa
 a)
 Rędziny kredowe, o miąższości około 30 cm, zawierające zazwyczaj na powierzchni większe ilości odłamków skały wapiennej. Gleby dość trudne do uprawy. Nadają się zwłaszcza pod uprawę pszenicy i roślin motylkowych.
 b)
@@ -1426,8 +1378,7 @@ Rędziny mieszane, z piaskiem, słabo zwięzłe, o miąższości ponad 40 cm, z 
 f)
 Rędziny namyte, słabo zwięzłe, o miąższości około 40 cm, na piaskach. Gleby okresowo zbyt suche.
 g)
-Rędziny namyte, płytkie, na podłożu trudno przepuszczalnym. Rdzawe plamy i oglejenie występują na głębokości około 50 cm. Gleby te dają niskie plony, ale uprawiane w sprzyjających warunkach atmosferycznych mogą dać dobre plony pszenicy i koniczyny.
-Klasa IVb
+Rędziny namyte, płytkie, na podłożu trudno przepuszczalnym. Rdzawe plamy i oglejenie występują na głębokości około 50 cm. Gleby te dają niskie plony, ale uprawiane w sprzyjających warunkach atmosferycznych mogą dać dobre plony pszenicy i koniczyny. Klasa IVb
 a)
 Rędziny kredowe, o miąższości około 25 cm, zawierające na powierzchni większe ilości odłamków skały wapiennej. Gleby trudne do uprawy. Można na nich uprawiać pszenicę i rośliny motylkowe.
 b)
@@ -1441,8 +1392,7 @@ Rędziny mieszane, z piaskiem, z oznakami degradacji, o miąższości 30–40 cm
 f)
 Rędziny namyte, słabo zwięzłe, o miąższości 30 – 40 cm, na piaskach. Gleby żytnio-ziemniaczane, za suche.
 g)
-Rędziny namyte, płytkie, na podłożu trudno przepuszczalnym, występujące na terenach warunkujących okresowo nadmierny stan uwilgotnienia. Rdzawe plamy i oglejenie występują na głębokości około 40 cm. Gleby te w latach o dużej ilości opadów dają niskie plony.
-Klasa V
+Rędziny namyte, płytkie, na podłożu trudno przepuszczalnym, występujące na terenach warunkujących okresowo nadmierny stan uwilgotnienia. Rdzawe plamy i oglejenie występują na głębokości około 40 cm. Gleby te w latach o dużej ilości opadów dają niskie plony. Klasa V
 a)
 Rędziny kredowe, bardzo płytkie, o miąższości około 20 cm, z dużą ilością odłamków skały wapiennej. Gleby suche i trudne do uprawy. Na glebach tych są uprawiane pszenica, żyto, ziemniaki i esparceta.
 b)
@@ -1452,12 +1402,14 @@ Rędziny gipsowe, o miąższości 20–35 cm, zbyt suche.
 d)
 Rędziny gipsowe, czyste, położone dość nisko i silnie zakwaszone.
 e)
-Rędziny mieszane, piaszczyste, o miąższości 30 – 50 cm, za suche. Nadają się pod uprawę koniczyny białej i żyta.
-Klasa VI
+Rędziny mieszane, piaszczyste, o miąższości 30 – 50 cm, za suche. Nadają się pod uprawę koniczyny białej i żyta. Klasa VI
 a)
 Rędziny wytworzone z twardych wapieni, bardzo płytkie, o miąższości do 20 cm. Są silnie szkieletowe i mało próchniczne. Zawierają mało części gliniastych. Dają słabe plony żyta i koniczyny białej, nadają się raczej pod zalesienie.
+Gleby terenów górskich
 Tereny górskie dzieli się na: Karpaty Zachodnie wraz z Podkarpaciem Zachodnim, Karpaty Wschodnie wraz z Podkarpaciem Północnym oraz Sudety.
+Ogólna charakterystyka klas bonitacyjnych gleb terenów górskich
 Klasa II Gleby orne bardzo dobre Na terenach górskich gleby zaliczane do klasy II pod względem budowy profilu glebowego i właściwości są podobne do gleb klasy I i II terenów wyżynnych i nizinnych. Występować mogą tylko w I strefie wysokościowej, na terenach płaskich lub stokach o nachyleniu do 5°, gdzie panują wyjątkowo korzystne warunki klimatyczne. Klasa IIIa Gleby orne dobre Gleby klasy IIIa niewiele różnią się od gleb klasy II. Mają nieco gorsze właściwości fizyczne lub chemiczne, lub występują w gorszych warunkach fizjograficznych. Są to jednak gleby dobre i urodzajne, nadają się pod uprawę wszystkich roślin uprawnych. Występują w zasadzie tylko w I strefie wysokościowej. Wyjątkowo mogą występować nieco powyżej 400 m n.p.m., ale wówczas swoją budową i właściwościami odpowiadają glebom zaliczonym do klasy II. Są lokalizowane na stokach o nachyleniu do 5° o korzystnej wystawie. W mniej korzystnych położeniach oraz w wyższych częściach II strefy wysokościowej dla tych gleb obniżyć należy klasę stosownie do wysokości i rzeźby terenu. Klasa IIIb Gleby orne średnio dobre Do klasy IIIb na terenach górskich zaliczane są gleby położone w I strefie wysokościowej, wykazujące nieco gorsze właściwości niż gleby zaliczone do klasy IIIa (nieco płytsze, bardziej zwięzłe i mniej przepuszczalne, silniej zakwaszone). Do klasy IIIb zalicza się również gleby, które swoją budową i właściwościami odpowiadają glebom klasy IIIa, a nawet II, położone w I strefie wysokościowej, ale w mniej korzystnych warunkach fizjograficznych (większe nachylenie stoków, niekorzystna wystawa, kotliny o wyraźnie niekorzystnych warunkach klimatycznych). Klasa IVa Gleby orne średniej jakości, lepsze Do klasy IVa na terenach górskich zaliczam są gleby bardzo różne pod względem budowy i właściwości. Należą do tej grupy klasy gleby, o których wartości decyduje głównie budowa i właściwości samej gleby, a rzeźba terenu i warunki klimatyczne nie obniżają ich przydatności rolniczej i wartości bonitacyjnej. Gleby te występują głównie w I strefie wysokościowej. Drugą grupę stanowią gleby, które pod względem budowy i właściwości odpowiadają glebom zaliczonym do klas wyższych (IIIa i IIIb), ale występują na stokach o większym nachyleniu i o mniej korzystnej wystawie lub są położone w II strefie wysokościowej na stokach o nachyleniu poniżej 30° i o korzystniejszej wystawie. Klasa IVb Gleby orne średniej jakości, gorsze O zaliczeniu gleby do klasy IVb na terenach górskich znacznie częściej decyduje rzeźba terenu oraz wysokość nad poziom morza i związane z tym warunki klimatyczne niż budowa profilu glebowego i właściwości samej gleby. W I strefie wysokościowej do tej klasy zaliczane są gleby położone na stokach o nachyleniu do 10°, rzadziej gleby głębokie i szkieletowe położone na terenach płaskich, a częściej gleby wietrzeniowe głębokie, ale położone na stokach o większych nachyleniach (10° – 20°). Klasa V Gleby orne słabe Do klasy V na terenach górskich zaliczane są bardzo różne gleby występujące we wszystkich strefach wysokościowych. W I, a częściowo i II strefie wysokościowej, o zaliczeniu gruntu do tej klasy w dużym stopniu decydują budowa profilu glebowego i właściwości samej gleby. Równocześnie istotne kryterium, które decyduje o zaliczeniu gleby do tej klasy, stanowi rzeźba terenu. W obrębie klasy V znajduje się najwięcej gleb, które ze względu na budowę profilu glebowego i właściwości samej gleby mogłyby być zaliczone do klas wyższych, a o zakwalifikowaniu ich do klasy V decyduje przeważnie niekorzystne położenie w rzeźbie terenu. W wyższych częściach gór zaliczanych do III, a częściowo i IV strefy wysokościowej, do klasy V zaliczane są gleby, które na podstawie budowy profilu glebowego mogłyby być zaliczone w I i II strefie wysokościowej do klas wyższych. W najwyższej, IV strefie wysokościowej, do klasy V mogą być zaliczone tylko gleby o wyjątkowo dobrych właściwościach i korzystnym położeniu w rzeźbie terenu (stoki o nachyleniu do 10° o wystawie południowej). Klasa VI Gleby orne najsłabsze Do klasy VI na terenach górskich zaliczane są bardzo różne gleby, których niska wartość bonitacyjna uwarunkowana jest, poza budową profilu glebowego i jej właściwościami, położeniem w rzeźbie terenu oraz wysokością nad poziom morza (warunki klimatyczne). W najniższej strefie wysokościowej do klasy VI, poza bardzo słabymi glebami płytkimi i szkieletowymi, zaliczane są gleby głębokie, wykazujące względnie korzystne właściwości fizyczne i chemiczne, ale położone na stokach o nachyleniu powyżej 30°. W miarę wzrostu wysokości następuje dodatkowo spadek wartości bonitacyjnej gruntu z uwagi na pogarszające się warunki klimatyczne. Klasa VIz Gleby orne najsłabsze, trwale za suche lub za mokre W klasie tej występują gleby, które powinny zostać wyłączone z użytkowania ornego, ponieważ są położone w III i IV strefie wysokościowej.
+Typy gleb terenów górskich
 H.
 Gleby inicjalne
 I.
@@ -1470,34 +1422,38 @@ L.
 Czarne ziemie
 M.
 Gleby bagienne i pobagienne
+Gatunki gleb terenów górskich
 Gatunki gleb ustala się zgodnie z zasadami określonymi w części I w dziale I w rozdziale 3.
-Strefa Wysokość w m n.p.m. Sudety Karpaty Wschodnie z Podkarpaciem Północnym Karpaty Zachodnie z Podkarpaciem Zachodnim I < 400 (450) < 450 < 450 II 400 – 550(450 – 600) 450 – 600 450 – 600 III 550 – 700(600 – 750) > 600 600 – 800 IV > 700 > 800 I strefa wysokościowa Charakteryzuje się najkorzystniejszymi warunkami klimatycznymi występującymi na terenach górskich, a podstawowym kryterium przy ustalaniu klasy bonitacyjnej jest budowa i właściwości gleby. Modyfikacja hierarchii ważności poszczególnych czynników dotyczy jedynie gleb położonych w rzeźbie terenu charakterystycznej dla terenów górskich. Na lepszych glebach położonych w tej strefie można dobrze uprawiać pszenicę ozimą, koniczynę czerwoną i wiele innych roślin, ale uprawa roślin o dłuższym okresie wegetacji oraz roślin wrażliwych na przymrozki może się okazać ryzykowna. II strefa wysokościowa II strefa wysokościowa odznacza się wyraźnie gorszymi, w porównaniu do strefy I, warunkami klimatycznymi (więcej opadów, częstsze przymrozki, krótszy okres wegetacji). Stąd dobór roślin dla tej strefy jest już wyraźnie ograniczony. Plony niższe niż w strefie I daje pszenica, ale dobre plony daje żyto, jęczmień jary, owies, ziemniaki i buraki pastewne. III strefa wysokościowa W strefie tej warunki klimatyczne eliminują z uprawy rośliny ozime oraz poważnie ograniczają dobór gatunków roślin jarych. Przewodnimi roślinami tej strefy są owies, ziemniaki i mieszanki motylkowato-trawiaste. Na glebach lepszych można uprawiać również jęczmień, który najczęściej uprawia się w mieszance z owsem. W latach meteorologicznie korzystnych można uprawiać także żyto, jednak jego plony są często niskie. IV strefa wysokościowa IV strefa wysokościowa obejmuje najwyżej położone gleby orne terenów górskich. W strefie tej czynnikiem decydującym o przydatności rolniczej gleb jest klimat. Bez większego ryzyka można tu tylko uprawiać owies i mieszanki motylkowato-trawiaste (mały udział roślin motylkowatych).
+Granice stref wysokościowych dla terenów górskich
+Strefa Wysokość w m n.p.m. Sudety Karpaty Wschodnie z Podkarpaciem Północnym Karpaty Zachodnie z Podkarpaciem Zachodnim I < 400 (450) < 450 < 450 II 400 – 550
+(450 – 600) 450 – 600 450 – 600 III 550 – 700
+(600 – 750) > 600 600 – 800 IV > 700 > 800
+I strefa wysokościowa Charakteryzuje się najkorzystniejszymi warunkami klimatycznymi występującymi na terenach górskich, a podstawowym kryterium przy ustalaniu klasy bonitacyjnej jest budowa i właściwości gleby. Modyfikacja hierarchii ważności poszczególnych czynników dotyczy jedynie gleb położonych w rzeźbie terenu charakterystycznej dla terenów górskich. Na lepszych glebach położonych w tej strefie można dobrze uprawiać pszenicę ozimą, koniczynę czerwoną i wiele innych roślin, ale uprawa roślin o dłuższym okresie wegetacji oraz roślin wrażliwych na przymrozki może się okazać ryzykowna. II strefa wysokościowa II strefa wysokościowa odznacza się wyraźnie gorszymi, w porównaniu do strefy I, warunkami klimatycznymi (więcej opadów, częstsze przymrozki, krótszy okres wegetacji). Stąd dobór roślin dla tej strefy jest już wyraźnie ograniczony. Plony niższe niż w strefie I daje pszenica, ale dobre plony daje żyto, jęczmień jary, owies, ziemniaki i buraki pastewne. III strefa wysokościowa W strefie tej warunki klimatyczne eliminują z uprawy rośliny ozime oraz poważnie ograniczają dobór gatunków roślin jarych. Przewodnimi roślinami tej strefy są owies, ziemniaki i mieszanki motylkowato-trawiaste. Na glebach lepszych można uprawiać również jęczmień, który najczęściej uprawia się w mieszance z owsem. W latach meteorologicznie korzystnych można uprawiać także żyto, jednak jego plony są często niskie. IV strefa wysokościowa IV strefa wysokościowa obejmuje najwyżej położone gleby orne terenów górskich. W strefie tej czynnikiem decydującym o przydatności rolniczej gleb jest klimat. Bez większego ryzyka można tu tylko uprawiać owies i mieszanki motylkowato-trawiaste (mały udział roślin motylkowatych).
+Zaliczanie gleb terenów górskich do poszczególnych klas bonitacyjnych
+H. Gleby inicjalne
 Klasa VI Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Gleby szkieletowe, bardzo płytkie. Położone na wysokości poniżej 600 m n.p.m. na terenach dość dostępnych, nadające się najczęściej tylko pod uprawę owsa, a miejscami również ziemniaków.
 b)
 Gleby średnio szkieletowe, płytkie, skała lita występuje na głębokości od 30 cm, tworzące się z niezbyt twardych łupków pyłowych lub ilastych. Szkielet drobny, łatwo wietrzejący. Części ziemiste o uziarnieniu glin średnich lub pyłów ilastych. Gleby te są położone poniżej 600 m n.p.m. na stokach o nachyleniu 20 – 30° narażonych na działanie erozji. Poziom próchniczny słabo wykształcony. Są to gleby rolniczo nieprzydatne, trudne do uprawy, często zbyt suche. Nadają się pod uprawę owsa, rzadziej ziemniaków.
 c)
-Gleby średnio szkieletowe, bardzo płytkie, skała lita występuje na głębokości od 20 – 30 cm – fliszowy piaskowiec lub łupek. W warstwie ornej znaczna domieszka większych okruchów skalnych. Części ziemiste o uziarnieniu glin lekkich pylastych. Gleby te są położone poniżej 600 m n.p.m. na stokach o nachyleniu 20–30° lub na wierzchołkach wzniesień. Są rolniczo nieprzydatne, trudne do uprawy i często zbyt suche.
-Karpaty Wschodnie z Podkarpaciem Północnym
+Gleby średnio szkieletowe, bardzo płytkie, skała lita występuje na głębokości od 20 – 30 cm – fliszowy piaskowiec lub łupek. W warstwie ornej znaczna domieszka większych okruchów skalnych. Części ziemiste o uziarnieniu glin lekkich pylastych. Gleby te są położone poniżej 600 m n.p.m. na stokach o nachyleniu 20–30° lub na wierzchołkach wzniesień. Są rolniczo nieprzydatne, trudne do uprawy i często zbyt suche. Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Gleby podobne do gleb gatunku a w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 b)
-Gleby średnio szkieletowe, płytkie, skała lita występuje na głębokości 30 cm, tworzące się z niezbyt twardych łupków pyłowych lub ilastych. Szkielet drobny, łatwo wietrzejący. Części ziemiste wykazują uziarnienie glin średnich lub pyłów ilastych. Gleby te są położone poniżej 600 m n.p.m. na stokach o nachyleniu 20 – 30° narażonych na działanie erozji. Poziom próchniczny słabo wykształcony.
-Są to gleby rolniczo nieprzydatne, trudne do uprawy, często zbyt suche. Nadają się pod uprawę owsa, rzadziej ziemniaków.
+Gleby średnio szkieletowe, płytkie, skała lita występuje na głębokości 30 cm, tworzące się z niezbyt twardych łupków pyłowych lub ilastych. Szkielet drobny, łatwo wietrzejący. Części ziemiste wykazują uziarnienie glin średnich lub pyłów ilastych. Gleby te są położone poniżej 600 m n.p.m. na stokach o nachyleniu 20 – 30° narażonych na działanie erozji. Poziom próchniczny słabo wykształcony. Są to gleby rolniczo nieprzydatne, trudne do uprawy, często zbyt suche. Nadają się pod uprawę owsa, rzadziej ziemniaków.
 c)
 Gleby średnio szkieletowe, bardzo płytkie, skała lita występuje na głębokości 20–30 cm. W warstwie ornej znaczna domieszka większych odłamków skalnych, piaskowca lub łupku pyłowego (flisz). Części ziemiste wykazują uziarnienie glin lekkich pylastych. Gleby te są położone poniżej 600 m n.p.m. na stokach o nachyleniu 20–30° lub na wierzchołkach wzniesień. Są rolniczo nieprzydatne, trudne do uprawy, łatwo przesychające.
 d)
-Gleby silnie szkieletowe, płytkie, skała lita występuje na głębokości około 40 cm, tworzące się z twardych skał fliszowych. W warstwie ornej duża ilość kamieni twardych i trudno wietrzejących. Części ziemiste wykazują uziarnienie piasków gliniastych pylastych. Gleby te są położone na terenach trudniej dostępnych (stoki o nachyleniu 30 – 40° lub wierzchowiny wzniesień). Są bardzo trudne do uprawy. Dają słabe plony owsa i ziemniaków. W większych kompleksach nadają się raczej pod trwałe zadarnienie lub zalesienie.
-Klasa VIz Karpaty Zachodnie z Podkarpaciem Zachodnim a, b, c) Gleby gatunku odpowiednio a – c w klasie VI położone powyżej 600 m n.p.m. Karpaty Wschodnie z Podkarpaciem Północnym a, b, c, d) Gleby gatunku odpowiednio a – d w klasie VI położone powyżej 600 m n.p.m.
+Gleby silnie szkieletowe, płytkie, skała lita występuje na głębokości około 40 cm, tworzące się z twardych skał fliszowych. W warstwie ornej duża ilość kamieni twardych i trudno wietrzejących. Części ziemiste wykazują uziarnienie piasków gliniastych pylastych. Gleby te są położone na terenach trudniej dostępnych (stoki o nachyleniu 30 – 40° lub wierzchowiny wzniesień). Są bardzo trudne do uprawy. Dają słabe plony owsa i ziemniaków. W większych kompleksach nadają się raczej pod trwałe zadarnienie lub zalesienie. Klasa VIz Karpaty Zachodnie z Podkarpaciem Zachodnim a, b, c) Gleby gatunku odpowiednio a – c w klasie VI położone powyżej 600 m n.p.m. Karpaty Wschodnie z Podkarpaciem Północnym a, b, c, d) Gleby gatunku odpowiednio a – d w klasie VI położone powyżej 600 m n.p.m.
+I. Gleby brunatne, gleby płowe i gleby bielicowe
 Klasa II Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Gleby pyłowe całkowite, położone poniżej 400 m n.p.m. na terenach płaskich lub lekko falistych. Poziom próchniczny o miąższości co najmniej 35 cm. Są to gleby łatwe do uprawy. Nadają się pod uprawę wszystkich ziemiopłodów.
 b)
 Gleby brunatne pyłowe, lessowate, całkowite, położone poniżej 400 m n.p.m. na terenach płaskich lub lekko falistych. Poziom próchniczny o miąższości około 35 cm, o zabarwieniu szarobrązowym. Węglan wapnia może występować już na głębokości 60 cm. Są to gleby strukturalne, żyzne, ciepłe i przewiewne. Nadają się pod uprawę wszystkich roślin uprawnych.
 c)
-Gleby brunatne pyłowe, czasem z domieszką piasku, wietrzeniowe, całkowite. Położone poniżej 400 m n.p.m. u podnóża zboczy lub w lokalnych zagłębieniach (namyte). Poziom próchniczny o miąższości ponad 35 cm, o zabarwieniu szarym (ciemniejszym w dolnej części). Są to gleby urodzajne, o odczynie przeważnie obojętnym, łatwe do uprawy, o właściwych stosunkach wodnych. Nadają się pod uprawę wszystkich ziemiopłodów.
-Karpaty Wschodnie z Podkarpaciem Północnym
+Gleby brunatne pyłowe, czasem z domieszką piasku, wietrzeniowe, całkowite. Położone poniżej 400 m n.p.m. u podnóża zboczy lub w lokalnych zagłębieniach (namyte). Poziom próchniczny o miąższości ponad 35 cm, o zabarwieniu szarym (ciemniejszym w dolnej części). Są to gleby urodzajne, o odczynie przeważnie obojętnym, łatwe do uprawy, o właściwych stosunkach wodnych. Nadają się pod uprawę wszystkich ziemiopłodów. Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Gleby podobne do gleb gatunku a w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 b)
@@ -1507,13 +1463,11 @@ Gleby brunatne pyłowe lub pyłowe z domieszką piasku, wietrzeniowe, całkowite
 d)
 Gleby brunatne pyłowe lub ilasto-pyłowe, wietrzeniowe, całkowite. Położone poniżej 400 m n.p.m. na terenach płaskich lub lekko falistych. Poziom próchniczny o miąższości około 30 cm. Są to gleby żyzne, strukturalne, łatwe do uprawy, o właściwych stosunkach wodnych. Wszystkie rośliny uprawne dają na nich dobre plony.
 e)
-Gleby brunatne pyłowe z domieszką piasku lub wytworzone z wietrzeniowych glin średnich pylastych, całkowite. Położone poniżej 400 m n.p.m. na terenach płaskich lub na wydłużonych stokach o nachyleniu do 10°. Poziom próchniczny o miąższości co najmniej 30 cm. Węglan wapnia występuje nie głębiej niż na 50 cm. Gleby te mają właściwe dla roślin uprawnych stosunki wodne. Są łatwe do uprawy, żyzne, ciepłe, strukturalne. Nadają się pod uprawę wszystkich roślin uprawnych.
-Sudety
+Gleby brunatne pyłowe z domieszką piasku lub wytworzone z wietrzeniowych glin średnich pylastych, całkowite. Położone poniżej 400 m n.p.m. na terenach płaskich lub na wydłużonych stokach o nachyleniu do 10°. Poziom próchniczny o miąższości co najmniej 30 cm. Węglan wapnia występuje nie głębiej niż na 50 cm. Gleby te mają właściwe dla roślin uprawnych stosunki wodne. Są łatwe do uprawy, żyzne, ciepłe, strukturalne. Nadają się pod uprawę wszystkich roślin uprawnych. Sudety
 a)
 Gleby podobne do gleb gatunku a w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 b)
-Gleby brunatne pyłowo-ilaste, lessowate, całkowite. Poziom próchniczny o miąższości około 30 cm, barwy ciemnoszarej w stanie świeżym, strukturalny, układ pulchno-zwięzły, przejście do poziomu brunatnienia stopniowe. Niżej leżące poziomy wykazują układ bardziej zwięzły. Widoczne liczne, pionowe, drobne kanaliki. Brak szaroniebieskich plam oraz rdzawoczarnych cętek i pieprzyków. Gleby te są położone poniżej 400 m n.p.m. na terenach płaskich lub lekko falistych o wydłużonych stokach o nachyleniu do 10°. Łatwe do uprawy, nadają się pod uprawę wszystkich ziemiopłodów.
-Klasa IIIa Karpaty Zachodnie z Podkarpaciem Zachodnim
+Gleby brunatne pyłowo-ilaste, lessowate, całkowite. Poziom próchniczny o miąższości około 30 cm, barwy ciemnoszarej w stanie świeżym, strukturalny, układ pulchno-zwięzły, przejście do poziomu brunatnienia stopniowe. Niżej leżące poziomy wykazują układ bardziej zwięzły. Widoczne liczne, pionowe, drobne kanaliki. Brak szaroniebieskich plam oraz rdzawoczarnych cętek i pieprzyków. Gleby te są położone poniżej 400 m n.p.m. na terenach płaskich lub lekko falistych o wydłużonych stokach o nachyleniu do 10°. Łatwe do uprawy, nadają się pod uprawę wszystkich ziemiopłodów. Klasa IIIa Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Gleby pyłowe lub ilasto-pyłowe. Poziom próchniczny o miąższości około 30 cm. Podłoże na głębokości ponad 100 cm stanowi lita skała. Gleby te są położone poniżej 450 m n.p.m. na stokach o nachyleniu poniżej 10° o wystawie południowej lub południowo-zachodniej. Do uprawy łatwe i dość urodzajne.
 b)
@@ -1527,8 +1481,7 @@ Gleby pyłowe lub ilasto-pyłowe, z domieszką piasku, lub wytworzone z wietrzen
 f)
 Gleby wytworzone z wietrzeniowych glin średnich pylastych, czasem z domieszką części grubszych, przeważnie całkowite. Podłoże może być nie płycej niż 100 cm. Gleby te są położone poniżej 450 m n.p.m. na stokach o nachyleniu poniżej 10° o wystawie południowej lub południowo-zachodniej. Poziom próchniczny o miąższości około 30 cm. Są to gleby dość urodzajne, strukturalne i łatwe do uprawy. Wszystkie rośliny uprawne dają na nich dobre plony.
 g)
-Gleby wytworzone z pyłów wodnego pochodzenia lub glin pylastych, z małą domieszką szkieletu. Położone poniżej 450 m n.p.m. na starych tarasach akumulacyjnych, całkowicie zatraciły cechy mad. Często zbielicowane, mogą być przewarstwione materiałem lżejszym. Poziom próchniczny o miąższości około 30 cm, jasnoszary. Są to gleby przepuszczalne, dość żyzne i łatwe do uprawy. W latach o małej ilości opadów mogą być za suche.
-Karpaty Wschodnie z Podkarpaciem Północnym a, b, c, d) Gleby podobne do gleb gatunku odpowiednio a – d w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
+Gleby wytworzone z pyłów wodnego pochodzenia lub glin pylastych, z małą domieszką szkieletu. Położone poniżej 450 m n.p.m. na starych tarasach akumulacyjnych, całkowicie zatraciły cechy mad. Często zbielicowane, mogą być przewarstwione materiałem lżejszym. Poziom próchniczny o miąższości około 30 cm, jasnoszary. Są to gleby przepuszczalne, dość żyzne i łatwe do uprawy. W latach o małej ilości opadów mogą być za suche. Karpaty Wschodnie z Podkarpaciem Północnym a, b, c, d) Gleby podobne do gleb gatunku odpowiednio a – d w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 e)
 Gleby pyłowe lessowate, całkowite. Położone poniżej 450 m n.p.m. na stokach o nachyleniu poniżej 10° o korzystnej wystawie. Poziom próchniczny o miąższości około 25 cm, o zabarwieniu jasnoszarym z żółtawym odcieniem. W całym profilu glebowym przeważa barwa jasnobrązowa. Odczyn w górnych poziomach obojętny lub słabo kwaśny. Węglan wapnia występuje najczęściej już od głębokości 100 cm. Są to gleby żyzne, ciepłe i czynne, o dobrych stosunkach wodno-powietrznych. Nadają się pod uprawę wszystkich roślin uprawnych.
 f)
@@ -1552,8 +1505,7 @@ Gleby wytworzone z marglistych iłów pylastych, czasem z domieszką części gr
 n)
 Gleby wytworzone z glin lekkich pylastych, niecałkowite. Od głębokości 40 – 60 cm występuje utwór pyłowy lub glina średnia pylasta. Gleby te są położone poniżej 450 m n.p.m. na terenach płaskich lub w dolnych częściach zboczy (namyte). Poziom próchniczny o miąższości ponad 25 cm, barwy ciemnoszarej, może częściowo pochodzić z namywu. Odczyn przeważnie obojętny, czasem zawierają węglan wapnia w całym profilu glebowym. Są to gleby żyzne, strukturalne, ciepłe i czynne. Nadają się pod uprawę prawie wszystkich roślin uprawnych.
 o)
-Gleby wytworzone z piasków gliniastych mocnych pylastych, niecałkowite, zalegające na glinie średniej lub utworze pyłowym, o zabarwieniu siwym lub żółtym, występujących nie głębiej niż 60 cm. Odczyn kwaśny, w górnych poziomach przechodzi stopniowo w obojętny już na głębokości 70 cm. Brak wyraźnych oznak wyługowania. Gleby te są położone poniżej 450 m n.p.m. u podnóży zboczy lub na terenach o małym nachyleniu do 10°, w korzystnych warunkach wilgotnościowych. Poziom próchniczny o miąższości około 40 cm, pochodzi częściowo z namywu. Są to gleby strukturalne, ciepłe i czynne, bez skłonności do przesychania. Nadają się pod uprawę większości roślin uprawnych.
-Sudety a, b, c, d) Gleby podobne do gleb gatunku odpowiednio a – d w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
+Gleby wytworzone z piasków gliniastych mocnych pylastych, niecałkowite, zalegające na glinie średniej lub utworze pyłowym, o zabarwieniu siwym lub żółtym, występujących nie głębiej niż 60 cm. Odczyn kwaśny, w górnych poziomach przechodzi stopniowo w obojętny już na głębokości 70 cm. Brak wyraźnych oznak wyługowania. Gleby te są położone poniżej 450 m n.p.m. u podnóży zboczy lub na terenach o małym nachyleniu do 10°, w korzystnych warunkach wilgotnościowych. Poziom próchniczny o miąższości około 40 cm, pochodzi częściowo z namywu. Są to gleby strukturalne, ciepłe i czynne, bez skłonności do przesychania. Nadają się pod uprawę większości roślin uprawnych. Sudety a, b, c, d) Gleby podobne do gleb gatunku odpowiednio a – d w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 e)
 Gleby brunatne pyłowo-ilaste, lessowate, całkowite. Poziom próchniczny o miąższości 25 cm, strukturalny i pulchno-zwięzły. Barwa tego poziomu w stanie świeżym ciemnoszara, przejście do poziomu brunatnienia stopniowe. W dolnej części profilu glebowego widoczne drobne pojedyncze rdzawe cętki. Gleby te są położone poniżej 400 (450) m n.p.m. na terenach płaskich, z łagodnie wykształconymi stokami. Nadają się pod uprawę pszenicy, średnio buraków cukrowych.
 f)
@@ -1561,8 +1513,7 @@ Gleby brunatne pyłowo-ilaste lub o uziarnieniu glin średnich pylastych, całko
 g)
 Gleby pyłowo-ilaste. Poziom próchniczny o miąższości ponad 35 cm. Gleby te są położone w dolnych częściach stoków o nachyleniu do 10°, gdzie zachodzi gromadzenie materiału glebowego zmywanego, wiosną okresowo za wilgotne. Utwór pyłowo-ilasty sięga do głębokości 150 cm, na żółtobrunatnym tle masy glebowej widoczne pojedyncze popielate plamki. Gleby te są położone poniżej 400 (450) m n.p.m.
 h)
-Gleby brunatne wytworzone z wietrzeniowych glin pylastych, słabo szkieletowych, zawierających silnie nadwietrzałe pojedyncze drobne odłamki gnejsu (granito-gnejsu) lub innej skały, a poniżej 90 cm zwietrzelina gliniasto-pylasta, silnie szkieletowa, z różnowymiarowymi odłamkami skały silnie zwietrzałej, dającymi się kruszyć w ręku. Poziom próchniczny o miąższości około 25 cm, barwy brunatnoszarej w stanie świeżym, głębiej występuje barwa brunatnoczerwona lub brunatnożółta. Gleby te są położone poniżej 400 (450) m n.p.m. na terenach płaskich lub stokach o nachyleniu około 5°. Nadają się dobrze pod uprawę pszenicy, koniczyny, bardzo dobrze owsa.
-Klasa IIIb Karpaty Zachodnie z Podkarpaciem Zachodnim
+Gleby brunatne wytworzone z wietrzeniowych glin pylastych, słabo szkieletowych, zawierających silnie nadwietrzałe pojedyncze drobne odłamki gnejsu (granito-gnejsu) lub innej skały, a poniżej 90 cm zwietrzelina gliniasto-pylasta, silnie szkieletowa, z różnowymiarowymi odłamkami skały silnie zwietrzałej, dającymi się kruszyć w ręku. Poziom próchniczny o miąższości około 25 cm, barwy brunatnoszarej w stanie świeżym, głębiej występuje barwa brunatnoczerwona lub brunatnożółta. Gleby te są położone poniżej 400 (450) m n.p.m. na terenach płaskich lub stokach o nachyleniu około 5°. Nadają się dobrze pod uprawę pszenicy, koniczyny, bardzo dobrze owsa. Klasa IIIb Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Gleby pyłowe lub pyłowo-ilaste. Poziom próchniczny o miąższości około 30 cm. Podłoże na głębokości ponad 80 – 100 cm stanowi wietrzejący piaskowiec z przewarstwieniami iłołupka (flisz), iłołupek lub inna skała lita. Gleby te są położone poniżej 450 m n.p.m. na stokach o nachyleniu do 10° o wystawie południowej, południowo-zachodniej lub Południowo-Wschodniej. Są łatwe do uprawy i dość urodzajne.
 b)
@@ -1592,8 +1543,7 @@ Gleby gliniaste ciężkie, z domieszką szkieletu z cienkimi wkładkami materia�
 n)
 Gleby ilaste niecałkowite. Warstwa iłu pylastego o miąższości do 30 – 50 cm, na glinie pylastej niezbyt ciężkiej. Podłoże (piaskowiec lub łupek pyłowy) nie płycej niż od 80 cm. Gleby te są położone poniżej 450 m n.p.m. na stokach o nachyleniu do 10° o korzystnej wystawie i właściwych stosunkach wodnych. Poziom próchniczny o miąższości około 25 cm, dobrze wykształcony, w stanie świeżym barwy ciemnoszarej. Są to gleby strukturalne, dość żyzne, ale trudne do uprawy.
 o)
-Gleby gliniaste lub ilaste, przewarstwione, na przemian warstwy iłu, gliny lub pyłu ilastego, czasem z domieszką szkieletu. Podłoże nie płycej niż od 80 cm (fliszowy pyłowiec lub iłołupek). Gleby te są położone poniżej 450 m n.p.m. na stokach o nachyleniu do 10° o korzystnej wystawie i właściwych stosunkach wodnych. Poziom próchniczny o miąższości około 25 cm. Są to gleby dość trudne do uprawy (zależnie od układu warstw), ale żyzne. Nadają się pod uprawę większości roślin uprawnych.
-Karpaty Wschodnie z Podkarpaciem Północnym a, b, c, d) Gleby podobne do gleb gatunku odpowiednio a – d w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
+Gleby gliniaste lub ilaste, przewarstwione, na przemian warstwy iłu, gliny lub pyłu ilastego, czasem z domieszką szkieletu. Podłoże nie płycej niż od 80 cm (fliszowy pyłowiec lub iłołupek). Gleby te są położone poniżej 450 m n.p.m. na stokach o nachyleniu do 10° o korzystnej wystawie i właściwych stosunkach wodnych. Poziom próchniczny o miąższości około 25 cm. Są to gleby dość trudne do uprawy (zależnie od układu warstw), ale żyzne. Nadają się pod uprawę większości roślin uprawnych. Karpaty Wschodnie z Podkarpaciem Północnym a, b, c, d) Gleby podobne do gleb gatunku odpowiednio a – d w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 e)
 Gleby pyłowe lessowate, podobne do gleb gatunku e w klasie IIIa, ale bardziej kwaśne, niezawierające węglanu wapnia w całym profilu glebowym. Położone poniżej 450 m n.p.m. na stokach o nachyleniu do 10° o mniej korzystnej wystawie.
 f)
@@ -1621,8 +1571,7 @@ Gleby ilaste lub gliniaste, przewarstwione. W profilu glebowym występują na pr
 p)
 Gleby ilaste wietrzeniowe, całkowite lub niecałkowite, ale nie płytsze niż na 100 cm. W dolnych poziomach mogą zawierać węglan wapnia. Poziom próchniczny o miąższości 20 – 25 cm, o zabarwieniu ciemnoszarym. Gleby te są położone poniżej 450 m n.p.m. na stokach o nachyleniu do 10° o korzystnej wystawie. Są to gleby trudne do uprawy, w górnych poziomach dość strukturalne, słabo przepuszczalne i zwięzłe, ale żyzne z natury. Mogą dawać dobre plony zbóż i roślin okopowych, a szczególnie roślin pastewnych.
 r)
-Gleby wytworzone z piasków gliniastych lekkich pylastych, niecałkowite. Warstwa piasku sięga do głębokości około 60 cm. Głębiej występuje utwór pyłowy lub glina średnia o zabarwieniu siwym lub żółtym. Odczyn kwaśny w górnych poziomach, przechodzi stopniowo w obojętny już na głębokości 70 cm. Nie wykazują oznak wymycia składników w profilu glebowym. Położone poniżej 450 m n.p.m., u podnóża zboczy lub na terenach o małym nachyleniu, w korzystnych warunkach wilgotnościowych. Poziom próchniczny o miąższości około 30 cm, pochodzi częściowo z namywu. Są to gleby strukturalne, ciepłe i czynne, bez skłonności do przesychania. Nadają się pod uprawę większości roślin uprawnych.
-Sudety a, b, c, d) Gleby podobne do gleb gatunku odpowiednio a – d w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
+Gleby wytworzone z piasków gliniastych lekkich pylastych, niecałkowite. Warstwa piasku sięga do głębokości około 60 cm. Głębiej występuje utwór pyłowy lub glina średnia o zabarwieniu siwym lub żółtym. Odczyn kwaśny w górnych poziomach, przechodzi stopniowo w obojętny już na głębokości 70 cm. Nie wykazują oznak wymycia składników w profilu glebowym. Położone poniżej 450 m n.p.m., u podnóża zboczy lub na terenach o małym nachyleniu, w korzystnych warunkach wilgotnościowych. Poziom próchniczny o miąższości około 30 cm, pochodzi częściowo z namywu. Są to gleby strukturalne, ciepłe i czynne, bez skłonności do przesychania. Nadają się pod uprawę większości roślin uprawnych. Sudety a, b, c, d) Gleby podobne do gleb gatunku odpowiednio a – d w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 e)
 Gleby gliniasto-pylaste o uziarnieniu glin średnich pylastych, zawierających znaczną domieszkę odłamków skalnych. Poziom próchniczny o miąższości około 25 cm, barwy brunatnoszarej. Masa glebowa poniżej poziomu próchnicznego barwy brunatnożółtej, przechodząca w barwę żółtą, z pojedynczymi plamkami popielatymi w dolnej części profilu glebowym. Gleby te są położone poniżej 400 (450) m n.p.m. na terenach płaskich lub na stokach o nachyleniu do 10°. Nadają się pod uprawę ziemniaków, buraków pastewnych, pszenicy i owsa.
 f)
@@ -1636,8 +1585,7 @@ Gleby wytworzone z glin pylastych, słabo szkieletowych, zalegające poniżej 60
 j)
 Gleby wytworzone z glin średnich pylastych lub ciężkich pylastych, słabo szkieletowych, zalegających poniżej 100 cm na piasku słabo gliniastym. Poziom próchniczny o miąższości około 25 cm, barwy ciemnoszarej w stanie świeżym. Gleby te są położone poniżej 400 (450) m n.p.m. na terenach płaskich lub stokach o nachyleniu około 5°.
 k)
-Gleby gliniasto-pylaste niecałkowite, bezszkieletowe, o zabarwieniu ciemnobrunatnym, zalegające na głębokości poniżej 50 cm na ile, barwy czerwonobrunatnawej. W ile występują pojedyncze odłamki czerwonego łupku. Poziom próchniczny o miąższości około 30 cm. Gleby te są trudniej przepuszczalne, zmeliorowane, wiosną mokre, mażą się i są dość ciężkie do uprawy. Położone poniżej 400 (450) m n.p.m. u podnóża niektórych wyniosłości lub w dolnych częściach stoków o nachyleniu do 5°. Nadają się pod uprawę jęczmienia, pszenicy, nawet buraków. W latach o dużej ilości opadów plony są nieco zawodne.
-Klasa IVa Karpaty Zachodnie z Podkarpaciem Zachodnim
+Gleby gliniasto-pylaste niecałkowite, bezszkieletowe, o zabarwieniu ciemnobrunatnym, zalegające na głębokości poniżej 50 cm na ile, barwy czerwonobrunatnawej. W ile występują pojedyncze odłamki czerwonego łupku. Poziom próchniczny o miąższości około 30 cm. Gleby te są trudniej przepuszczalne, zmeliorowane, wiosną mokre, mażą się i są dość ciężkie do uprawy. Położone poniżej 400 (450) m n.p.m. u podnóża niektórych wyniosłości lub w dolnych częściach stoków o nachyleniu do 5°. Nadają się pod uprawę jęczmienia, pszenicy, nawet buraków. W latach o dużej ilości opadów plony są nieco zawodne. Klasa IVa Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Gleby takie jak gleby gatunku a w klasie IIIb, ale położone powyżej 450 m n.p.m. lub poniżej, ale na stokach północnych lub wschodnich.
 b)
@@ -1669,8 +1617,7 @@ Gleby wytworzone z glin, lekkich lub średnich pylastych, z niewielką domieszk�
 n)
 Gleby wytworzone z glin ciężkich, słabo szkieletowych, o miąższości 80 – 100 cm. Położone poniżej 450 m n.p.m. na stokach o nachyleniu 10 – 20° o korzystnej wystawie lub wyżej (450 – 600 m), ale wtedy na stokach o nachyleniu do 10°. Poziom próchniczny o miąższości około 25 cm, jasnoszary, niżej przeważa odcień jasny, marmurkowy, z rdzawymi plamkami. Są to gleby w miarę strukturalne i przewiewne, ale ciężkie, często kwaśne i trudne do uprawy.
 o)
-Gleby gliniaste, średnie lub ciężkie, niekiedy pylaste, namyte, takie jak gleby gatunku a w klasie IIIb, ale położone na wysokości 450 – 600 m n.p.m. na stokach o nachyleniu 10 – 20°. Przy silniejszym oglejeniu takie jak gleby gatunku n w klasie IVa lub gatunku z w klasie IVb.
-Karpaty Wschodnie z Podkarpaciem Północnym a, b, c, d, e, f, g) Gleby podobne do gleb gatunku odpowiednio a – g w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
+Gleby gliniaste, średnie lub ciężkie, niekiedy pylaste, namyte, takie jak gleby gatunku a w klasie IIIb, ale położone na wysokości 450 – 600 m n.p.m. na stokach o nachyleniu 10 – 20°. Przy silniejszym oglejeniu takie jak gleby gatunku n w klasie IVa lub gatunku z w klasie IVb. Karpaty Wschodnie z Podkarpaciem Północnym a, b, c, d, e, f, g) Gleby podobne do gleb gatunku odpowiednio a – g w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 h)
 Gleby pyłowe lub ilasto-pyłowe, całkowite, położone poniżej 450 m n.p.m. na stokach o nachyleniu 10 – 20° o wystawie północnej lub wschodniej, lub na stokach o nachyleniu 20 – 30°, ale wtedy o korzystniejszej wystawie. Poziom próchniczny o miąższości około 20 cm, o zabarwieniu ciemnoszarym. Są to gleby o dobrych stosunkach wodno-powietrznych, ale przeważnie kwaśne, trudniejsze do uprawy. Gleby żytnio-ziemniaczane. Czasem nadają się pod uprawę pszenicy, rzadziej buraków cukrowych.
 i)
@@ -1698,8 +1645,7 @@ Gleby ilaste lub gliniaste, o warstwowanej budowie, słabo szkieletowe. W profil
 t)
 Gleby ilaste, wietrzeniowe, często z domieszką szkieletu, całkowite lub niecałkowite, ale nie płytsze niż 100 cm. Poziom próchniczny o miąższości 20 – 25 cm, dobrze wykształcony, z szarobrunatnym odcieniem, dość strukturalny. W dolnych poziomach występują rdzawe zacieki lub plamy glejowe. Gleby te są położone poniżej 450 m n.p.m. na stokach o nachyleniu 10 – 20° o niezbyt korzystnej wystawie lub wyżej (450 – 600 m), ale wtedy na stokach o nachyleniu do 10° lub o korzystnej wystawie. Są to gleby w miarę przewiewne, ale mało czynne, często zimne i trudne do uprawy. Najbardziej nadają się pod uprawę roślin pastewnych. W latach o dużej ilości opadów plony ozimin są często zawodne.
 u)
-Gleby piaszczyste, wietrzeniowe, o uziarnieniu piasków gliniastych mocnych pylastych, często z domieszką okruchów piaskowca. Podłoże, występujące nie płycej niż na głębokości 100 cm, stanowi piaskowiec fliszowy. Poziom próchniczny o miąższości 20 – 25 cm. Gleby te występują poniżej 450 m n.p.m. na terenach płaskich lub stokach o nachyleniu do 10°. Nadają się pod uprawę żyta, ziemniaków i owsa.
-Sudety a, b, c, d, e, f, g) Gleby podobne do gleb gatunku odpowiednio a – g w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
+Gleby piaszczyste, wietrzeniowe, o uziarnieniu piasków gliniastych mocnych pylastych, często z domieszką okruchów piaskowca. Podłoże, występujące nie płycej niż na głębokości 100 cm, stanowi piaskowiec fliszowy. Poziom próchniczny o miąższości 20 – 25 cm. Gleby te występują poniżej 450 m n.p.m. na terenach płaskich lub stokach o nachyleniu do 10°. Nadają się pod uprawę żyta, ziemniaków i owsa. Sudety a, b, c, d, e, f, g) Gleby podobne do gleb gatunku odpowiednio a – g w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 h)
 Gleby namyte, niecałkowite, wytworzone z glin lekkich pylastych, wykazujące znaczną domieszkę odłamków skał, wielkości ziaren żwiru i kamyków o zaokrąglonych krawędziach. Poniżej 50 cm zalega zwietrzelina gnejsu, granitu lub sjenitu, o uziarnieniu piasku gliniastego, średnio szkieletowego, przewaga odłamków drobnych z domieszką większych odłamków, silnie zwietrzałych. Poziom próchniczny o miąższości około 25 cm. Położone poniżej 400 (450) m n.p.m. na stokach o nachyleniu do 10°.
 i)
@@ -1725,8 +1671,7 @@ Gleby wytworzone z wietrzeniowych iłów pylastych, barwy czerwonej; w dolnej cz
 s)
 Gleby wytworzone z namytych glin lekkich lub średnich, barwy, czerwonobrunatnej, poniżej 120 cm zawierających liczne odłamki piaskowca czerwonego z otoczonymi krawędziami. Poziom próchniczny o miąższości około 20 cm, barwy brunatnoszarej z czerwonym odcieniem. Gleby te są położone na wysokości 400 (450) – 550 (600) m n.p.m. w górnych częściach stoków o nachyleniu do 10°. Nadają się pod uprawę żyta, ziemniaków, pszenicy, koniczyny.
 t)
-Gleby wytworzone z wietrzeniowych glin lekkich, średnio szkieletowych, barwy czerwonej, z odłamkami piaskowca czerwonego, a w dolnej części profilu glebowego poniżej 80 cm występuje już silnie zwietrzały piaskowiec ze zlepieńcem o lepiszczu żelazistym. Poziom próchniczny o miąższości co najmniej 30 cm. Gleby te są położone na wysokości 400 (450) – 550 (600) m n.p.m. na płaskich wierzchowinach niewielkich wyniosłości lub stokach o nachyleniu do 15°. Gleby te są wrażliwe na wysychanie, szczególnie gdy występują na stokach południowych.
-Klasa IVb Karpaty Zachodnie z Podkarpaciem Zachodnim
+Gleby wytworzone z wietrzeniowych glin lekkich, średnio szkieletowych, barwy czerwonej, z odłamkami piaskowca czerwonego, a w dolnej części profilu glebowego poniżej 80 cm występuje już silnie zwietrzały piaskowiec ze zlepieńcem o lepiszczu żelazistym. Poziom próchniczny o miąższości co najmniej 30 cm. Gleby te są położone na wysokości 400 (450) – 550 (600) m n.p.m. na płaskich wierzchowinach niewielkich wyniosłości lub stokach o nachyleniu do 15°. Gleby te są wrażliwe na wysychanie, szczególnie gdy występują na stokach południowych. Klasa IVb Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Gleby ilasto-pyłowe, zwięzłe. Poziom próchniczny o miąższości około 20 cm. Piaskowiec często z iłołupkiem (flisz) występuje już na głębokości 50 – 75 cm. Położenie najczęściej spadziste, podlegające zmywom. Gleby te są położone poniżej 450 m n.p.m. Ich uprawa jest utrudniona.
 b)
@@ -1776,8 +1721,7 @@ Gleby wytworzone z glin średnich, z niewielkim udziałem szkieletu, niecałkowi
 za)
 Gleby ilaste lub gliniaste, ciężkie, wietrzeniowe, o miąższości 50–70 cm. W podłożu łupek ilasty lub ił marglisty. Gleby te są położone poniżej 450 m n.p.m. na stokach o nachyleniu 20–30° lub na wierzchołkach wzniesień, lub wyżej (450 – 600 m n.p.m.), ale wtedy na terenach bardziej dostępnych. Poziom próchniczny o miąższości około 20 cm. Profil ma marmurkowe (żółtozielone) zabarwienie. Są to gleby rolniczo nieprzydatne, trudne do uprawy.
 zb)
-Gleby ilaste, niecałkowite. Warstwa iłu o marmurkowym odcieniu do głębokości 40 cm, niżej materiał pyłowy lub gliniasty (żółtawy). W podłożu od głębokości 60 – 80 cm występuje skała lita. Gleby te są położone poniżej 450 m n.p.m. na stokach o nachyleniu 20 – 30° (może być niekorzystna wystawa). Poziom próchniczny o miąższości około 20 cm. Są to gleby dość zwięzłe, trudne do uprawy, ale dostatecznie strukturalne i przewiewne.
-Karpaty Wschodnie z Podkarpaciem Północnym a, b, c, d, e) Gleby podobne do gleb gatunku odpowiednio a – e w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
+Gleby ilaste, niecałkowite. Warstwa iłu o marmurkowym odcieniu do głębokości 40 cm, niżej materiał pyłowy lub gliniasty (żółtawy). W podłożu od głębokości 60 – 80 cm występuje skała lita. Gleby te są położone poniżej 450 m n.p.m. na stokach o nachyleniu 20 – 30° (może być niekorzystna wystawa). Poziom próchniczny o miąższości około 20 cm. Są to gleby dość zwięzłe, trudne do uprawy, ale dostatecznie strukturalne i przewiewne. Karpaty Wschodnie z Podkarpaciem Północnym a, b, c, d, e) Gleby podobne do gleb gatunku odpowiednio a – e w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 f)
 Gleby pyłowe lub ilasto-pyłowe, wietrzeniowe, całkowite lub niecałkowite, ale nie płytsze niż 100 cm. Położone na wysokości 450 – 600 m n.p.m. na stokach o nachyleniu 10 – 20° o wystawie północnej lub wschodniej, lub trudniej dostępnych wierzchowinach. Poziom próchniczny o miąższości 15 – 20 cm. Są to gleby dość strukturalne, o dobrych stosunkach wodno-powietrznych, ale narażone na działanie erozji, słabo nasłonecznione, przeważnie kwaśne, warunki uprawy są utrudnione. Nadają się pod uprawę owsa, żyta, ziemniaków i koniczyny.
 g)
@@ -1815,8 +1759,7 @@ Gleby ilaste, całkowite lub niecałkowite. Wytworzone z iłów marglistych o ja
 y)
 Gleby ilaste, wietrzeniowe, o miąższości 50–70 cm. Podłoże stanowią łupki ilaste lub iły margliste. Położone poniżej 450 m n.p.m. na stokach o nachyleniu 20 – 30° lub na wierzchołkach wzniesień. Jeżeli położone wyżej (450 – 600 m n.p.m.) to na terenach bardziej dostępnych. Poziom próchniczny o miąższości 15 – 20 cm. Profil ma marmurkowe (żółtozielone) zabarwienie. Gleby te są trudne do uprawy i rolniczo nieprzydatne.
 z)
-Gleby wytworzone z piasków słabo gliniastych, niecałkowite. Na głębokości około 60 cm występuje utwór pyłowy lub gliniasty. Położone poniżej 450 m n.p.m. na terenach płaskich lub stokach o nachyleniu do 10°. Poziom próchniczny o miąższości około 20 cm, barwy ciemnoszarej w stanie świeżym. Są to gleby lekkie, zbyt przepuszczalne, przeważnie kwaśne, ale bez wyraźnych cech wyługowania. Nadają się pod uprawę owsa, ziemniaków, żyta.
-Sudety a, b, c, d, e) Gleby podobne do gleb gatunku a-e w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
+Gleby wytworzone z piasków słabo gliniastych, niecałkowite. Na głębokości około 60 cm występuje utwór pyłowy lub gliniasty. Położone poniżej 450 m n.p.m. na terenach płaskich lub stokach o nachyleniu do 10°. Poziom próchniczny o miąższości około 20 cm, barwy ciemnoszarej w stanie świeżym. Są to gleby lekkie, zbyt przepuszczalne, przeważnie kwaśne, ale bez wyraźnych cech wyługowania. Nadają się pod uprawę owsa, ziemniaków, żyta. Sudety a, b, c, d, e) Gleby podobne do gleb gatunku a-e w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 f)
 Gleby wytworzone z warstwowanych utworów namytych (glina pylasta przewarstwiana piaskiem gliniastym, średnio szkieletowym z drobnymi odłamkami zwietrzałych skał), zalegających poniżej 100 cm na zwietrzelinie granitu, o uziarnieniu piasku słabo gliniastego lub gliniastego, silnie szkieletowego, z odłamkami nadwietrzałego granitu wielkości ziaren żwiru barwy żółtobrunatnej. Poziom próchniczny o miąższości około 25 cm. Gleby te są położone na wysokości 400 (450) – 550 (600) m n.p.m. w dolnych częściach stoków o nachyleniu do 15° o wystawie północnej lub wschodniej. Są to gleby przepuszczalne i przewiewne, silnie wrażliwe na suszę, szczególnie gdy występują na stokach o wystawie południowej lub południowo-zachodniej. Są to gleby żytnio-ziemniaczane.
 g)
@@ -1848,8 +1791,7 @@ Gleby wytworzone z wietrzeniowych, czerwonobrunatnych glin lekkich, silnie szkie
 t)
 Gleby wytworzone z wietrzeniowych, czerwonych piasków gliniastych mocnych, słabo szkieletowych, z odłamkami piaskowca, zalegających poniżej 40 cm na spękanych płytach czerwonego piaskowca. Poziom próchniczny o miąższości około 20 cm, barwy brunatnoszarej. Gleby te są położone poniżej 400 (450) m n.p.m. na płaskich wierzchowinach lub stokach o nachyleniu około 5° (korzystniejsza jest wystawa północna). Są to gleby wrażliwe na suszę. Nadają się dobrze pod uprawę ziemniaków, koniczyny, owsa, żyta. Plony pszenicy są zawodne.
 u)
-Gleby wytworzone z piasków gliniastych, brunatnoczerwonych, słabo szkieletowych, na głębokości 65 – 90 cm przewarstwione warstwą scementowaną utworu piaszczysto-żwirowego, a poniżej 120 cm występują liczne odłamki piaskowca w postaci płyt różnowymiarowych. Poziom próchniczny o miąższości około 20 cm, barwy szarobrunatnej. Gleby te są położone poniżej 400 (450) m n.p.m. na terenach płaskich lub stokach o nachyleniu do 10°.
-Klasa V Karpaty Zachodnie z Podkarpaciem Zachodnim
+Gleby wytworzone z piasków gliniastych, brunatnoczerwonych, słabo szkieletowych, na głębokości 65 – 90 cm przewarstwione warstwą scementowaną utworu piaszczysto-żwirowego, a poniżej 120 cm występują liczne odłamki piaskowca w postaci płyt różnowymiarowych. Poziom próchniczny o miąższości około 20 cm, barwy szarobrunatnej. Gleby te są położone poniżej 400 (450) m n.p.m. na terenach płaskich lub stokach o nachyleniu do 10°. Klasa V Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Gleby ilasto-pyłowe, wietrzeniowe, płytkie (około 30 cm), najczęściej ze szkieletem. W podłożu występuje wietrzejący piaskowiec lub inna skała lita. Gleby te są położone na terenach bardziej stromych i mniej dostępnych niż gleby gatunku a w klasie IVb. Trudne do uprawy. Nadają się dość słabo pod uprawę owsa, ziemniaków i żyta. Należą tu również gleby ilasto-pyłowe, takie jak gleby gatunku a w klasie IVb, ale położone powyżej 450 m n.p.m.
 b)
@@ -1887,8 +1829,7 @@ Gleby ilaste lub gliniaste, ciężkie, wietrzeniowe, o miąższości 60 – 80 c
 s)
 Gleby ilaste, wietrzeniowe, wytworzone z iłów marglistych, o miąższości 30 – 60 cm. Położone na wysokości 450 – 600 m n.p.m. na stokach o nachyleniu 10 – 20° (rzadziej o nachyleniu 20 – 30°). Są to gleby trudne do uprawy, zwięzłe i nieprzepuszczalne, w okresach suszy twarde i zbite. W latach meteorologicznie korzystnych nadają się pod uprawę niektórych roślin motylkowych. Plony zbóż zawodne.
 t)
-Gleby wytworzone z glin szkieletowych (większe okruchy skalne tuż pod warstwą orną). Skała lita występuje poniżej głębokości 40 cm. Poziom próchniczny o miąższości 15–20 cm. Gleby te są położone poniżej 450 m n.p.m. na terenach o małym nachyleniu (wierzchołki wzgórz). Są to gleby bardzo słabe, trudne do uprawy, przeważnie za suche. Owies i ziemniaki dają na nich niskie plony.
-Karpaty Wschodnie z Podkarpaciem Północnym a, b, c, d, e, f, g) Gleby podobne do gleb gatunku odpowiednio a – g w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
+Gleby wytworzone z glin szkieletowych (większe okruchy skalne tuż pod warstwą orną). Skała lita występuje poniżej głębokości 40 cm. Poziom próchniczny o miąższości 15–20 cm. Gleby te są położone poniżej 450 m n.p.m. na terenach o małym nachyleniu (wierzchołki wzgórz). Są to gleby bardzo słabe, trudne do uprawy, przeważnie za suche. Owies i ziemniaki dają na nich niskie plony. Karpaty Wschodnie z Podkarpaciem Północnym a, b, c, d, e, f, g) Gleby podobne do gleb gatunku odpowiednio a – g w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 h)
 Gleby pyłowe lub ilasto-pyłowe, wietrzeniowe. Podłoże, występujące nie płycej niż na głębokości 80 cm, stanowi skała lita (łupek pyłowy lub ilasty). Gleby te są położone powyżej 600 m n.p.m. na stokach o nachyleniu 20 – 30° o wystawie północnej lub wschodniej. Poziom próchniczny o miąższości około 15 cm. Potencjalnie są to gleby średniej wartości, ale trudno dostępne, narażone na erozję, przeważnie kwaśne, o skróconym okresie wegetacyjnym roślin. Uprawia się na nich owies, ziemniaki, rzadziej żyto.
 i)
@@ -1912,8 +1853,7 @@ Gleby wytworzone z glin szkieletowych (większe odłamki skalne występują tuż
 r)
 Gleby wytworzone z piasków słabo gliniastych, całkowite lub niecałkowite, na iłach lub glinach. Ił lub glina ciężka występują nie płycej niż na głębokości 80 cm. Gleby te są położone powyżej 450 m n.p.m. na terenach płaskich lub u podnóża zboczy (namyte). Poziom próchniczny o miąższości ponad 20 cm. Są to gleby bardzo lekkie, zbyt przepuszczalne, ze skłonnością do przesychania, przeważnie kwaśne. W latach o dużej ilości opadów stanowią słabe gleby żytnio-ziemniaczane.
 s)
-Gleby wytworzone z gezów, czyli miękkich skał wapiennych wyługowanych z węglanu wapnia, o miąższości 30–40 cm, o uziarnieniu glin średnich lub ciężkich, ze znaczną domieszką żółtych odłamków skalnych, mają często rdzawe zabarwienie od tlenków żelaza. Są trudne do uprawy, dość zwięzłe i zlewne. Węglan wapnia występuje dopiero na głębokości 40 – 60 cm. Gleby te występują najczęściej na wierzchołkach wzniesień. Plony na tych glebach są bardzo zawodne (owies i niektóre rośliny motylkowe).
-Sudety a, b, c, d, e, f, g) Gleby podobne do gleb gatunku a – g w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
+Gleby wytworzone z gezów, czyli miękkich skał wapiennych wyługowanych z węglanu wapnia, o miąższości 30–40 cm, o uziarnieniu glin średnich lub ciężkich, ze znaczną domieszką żółtych odłamków skalnych, mają często rdzawe zabarwienie od tlenków żelaza. Są trudne do uprawy, dość zwięzłe i zlewne. Węglan wapnia występuje dopiero na głębokości 40 – 60 cm. Gleby te występują najczęściej na wierzchołkach wzniesień. Plony na tych glebach są bardzo zawodne (owies i niektóre rośliny motylkowe). Sudety a, b, c, d, e, f, g) Gleby podobne do gleb gatunku a – g w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 h)
 Gleby wytworzone z namytych glin lekkich, pylastych, średnio szkieletowych, barwy żółtej. Na głębokości poniżej 30 cm wśród różnowymiarowych odłamków skalnych występują pojedyncze duże głazy gnejsu o średnicy większej niż 50 cm. Poziom próchniczny o miąższości około 20 cm, barwy szarej, z domieszką drobnych odłamków o otoczonych krawędziach. Gleby te są położone na wysokości 400 (450) – 550 (600) m n.p.m. na stokach o nachyleniu ponad 15° o wystawie południowej.
 i)
@@ -1941,8 +1881,7 @@ Gleby płytkie, wytworzone z wietrzeniowych glin średnich lub ciężkich, silni
 t)
 Gleby wietrzeniowe. Poziom próchniczny o miąższości około 15 cm, wykazujący uziarnienie gliny lekkiej pylastej, średnio szkieletowej, z odłamkami granitu lub innej skały (gnejsów). Poniżej poziomu próchnicznego zalega piasek gliniasty, barwy brunatnej, średnio szkieletowy, z ostrokrawędzistymi równowymiarowymi odłamkami, który na głębokości ponad 40 cm przechodzi w rumosz silnie szkieletowy z małą zawartością części ziemistych, wykazujących uziarnienie piasku gliniastego. Gleby te są położone na wysokości poniżej 550 (600) m n.p.m. na terenach płaskich lub stokach o nachyleniu do 15° (korzystniejsza jest wystawa północna). Są to gleby wrażliwe na wysychanie.
 u)
-Gleby wytworzone z namytych glin, silnie szkieletowych, zawierające różnej wielkości odłamki różnych skał o obtoczonych krawędziach, zalegających do głębokości ponad 100 cm. Poziom próchniczny o miąższości około 15 cm, barwy szarobrunatnej. Na powierzchni gleby występuje wielka ilość obtoczonych odłamków skalnych. Gleby te są położone poniżej 400 (450) m n.p.m. na terenach płaskich lub w obniżeniach, rynnach terenowych, płaskich terenach, przyległych do stoków lub na wypiętrzonych częściach stokowych.
-Klasa VI Karpaty Zachodnie z Podkarpaciem Zachodnim
+Gleby wytworzone z namytych glin, silnie szkieletowych, zawierające różnej wielkości odłamki różnych skał o obtoczonych krawędziach, zalegających do głębokości ponad 100 cm. Poziom próchniczny o miąższości około 15 cm, barwy szarobrunatnej. Na powierzchni gleby występuje wielka ilość obtoczonych odłamków skalnych. Gleby te są położone poniżej 400 (450) m n.p.m. na terenach płaskich lub w obniżeniach, rynnach terenowych, płaskich terenach, przyległych do stoków lub na wypiętrzonych częściach stokowych. Klasa VI Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Należą tu gleby gatunku a – g w klasie V, ale o gorszych właściwościach i przydatności rolniczej.
 b)
@@ -1952,8 +1891,7 @@ Gleby gliniaste, wietrzeniowe, z domieszką szkieletu, płytkie. Skała lita (pi
 d)
 Gleby pyłowe lub wytworzone z glin pylastych, o miąższości około 20 cm. W podłożu występuje piasek lub żwir. Gleby te są położone powyżej 450 m n.p.m. na terenach trudno dostępnych. Są to gleby bardzo słabe, zbyt przepuszczalne, przeważnie za suche. Uprawia się na nich owies, rzadko ziemniaki.
 e)
-Gleby gliniaste, ciężkie, wietrzeniowe, słabo szkieletowe. Podłoże, występujące nie głębiej niż na 30 cm, stanowi piaskowiec, łupek, łupek ilasty lub inna skała lita. Gleby te są położone powyżej 450 m n.p.m. na stokach o nachyleniu 20 – 45°. Poziom próchniczny o miąższości 10–15 cm, słabo wykształcony. Gleby ciężkie, trudne do uprawy, zwięzłe i nieprzepuszczalne, rolniczo nieprzydatne. Nadają się raczej pod trwałe zadarnienie.
-Karpaty Wschodnie z Podkarpaciem Północnym
+Gleby gliniaste, ciężkie, wietrzeniowe, słabo szkieletowe. Podłoże, występujące nie głębiej niż na 30 cm, stanowi piaskowiec, łupek, łupek ilasty lub inna skała lita. Gleby te są położone powyżej 450 m n.p.m. na stokach o nachyleniu 20 – 45°. Poziom próchniczny o miąższości 10–15 cm, słabo wykształcony. Gleby ciężkie, trudne do uprawy, zwięzłe i nieprzepuszczalne, rolniczo nieprzydatne. Nadają się raczej pod trwałe zadarnienie. Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Gleby podobne do gleb gatunku a w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 b)
@@ -1973,8 +1911,7 @@ Gleby gliniaste, wietrzeniowe, o uziarnieniu glin ciężkich, słabo szkieletowe
 i)
 Gleby piaszczyste, takie jak gleby gatunku m w klasie V, ale płytsze, o głębokości do 50 cm. Są to gleby o gorszej przydatności rolniczej. Nadają się jedynie pod uprawę owsa. Powinny być raczej zalesione.
 j)
-Gleby piaszczyste, takie jak gleby gatunku r w klasie V, ale zalegające na głębokości 60 – 80 cm na piasku luźnym.
-Sudety
+Gleby piaszczyste, takie jak gleby gatunku r w klasie V, ale zalegające na głębokości 60 – 80 cm na piasku luźnym. Sudety
 a)
 Gleby podobne do gleb gatunku a w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 b)
@@ -1990,24 +1927,21 @@ Gleby wytworzone z namytych glin lekkich pylastych, średnio szkieletowych, zale
 g)
 Gleby płytkie, wytworzone z wietrzeniowych, żółtych piasków gliniastych, słabo lub średnio szkieletowych, z większymi odłamkami piaskowca kwadrowego (o lepiszczu krzemionkowym), barwy szarej lub, gdy nadwietrzałe, szarożółtej. Na głębokości 30 cm zalega spękany piaskowiec. Poziom próchniczny o miąższości około 15 cm, słabo szkieletowy. Gleby te są położone powyżej 400 (450) m n.p.m. na płaskich wierzchowinach lub stokach o nachyleniu około 5° (korzystniejsza jest wystawa północna). Są to gleby wrażliwe na wysychanie.
 h)
-Gleby płytkie, wietrzeniowe, silnie szkieletowe, z dużą ilością odłamków łupku zielonego, części ziemiste wykazują uziarnienie gliny lekkiej pylastej. Poziom próchniczny o miąższości około 10 cm, a pod nim zalega zwietrzelina silnie szkieletowa, z większymi płytami łupku zielonego. Płyty te w dużym stopniu utrudniają dokonywanie zabiegów uprawy mechanicznej. Gleby te są położone na wysokości poniżej 400 (450) m n.p.m. na wierzchowinach wzniesień lub w górnych częściach stoków o nachyleniu do 10°, względnie na wypiętrzeniach, w częściach środkowych stoku. Gleby te nadają się raczej pod łąki trwałe i pastwiska trwałe lub pod zalesienie, szczególnie gdy są położone powyżej 400 (450) m n.p.m.
-Klasa VIz Gleby górskie podobne do gleb gatunków wymienionych w klasie VI, ale położone w wyższych strefach klimatycznych.
+Gleby płytkie, wietrzeniowe, silnie szkieletowe, z dużą ilością odłamków łupku zielonego, części ziemiste wykazują uziarnienie gliny lekkiej pylastej. Poziom próchniczny o miąższości około 10 cm, a pod nim zalega zwietrzelina silnie szkieletowa, z większymi płytami łupku zielonego. Płyty te w dużym stopniu utrudniają dokonywanie zabiegów uprawy mechanicznej. Gleby te są położone na wysokości poniżej 400 (450) m n.p.m. na wierzchowinach wzniesień lub w górnych częściach stoków o nachyleniu do 10°, względnie na wypiętrzeniach, w częściach środkowych stoku. Gleby te nadają się raczej pod łąki trwałe i pastwiska trwałe lub pod zalesienie, szczególnie gdy są położone powyżej 400 (450) m n.p.m. Klasa VIz Gleby górskie podobne do gleb gatunków wymienionych w klasie VI, ale położone w wyższych strefach klimatycznych.
+J. Mady
 Klasa II Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Mady pyłowe, lekkie lub średnie, rzadziej pyłowo-ilaste (ale wtedy w dolnych poziomach lżejsze, piaszczyste lub z otoczakami), całkowite, o miąższości ponad 100 cm. Może być mała domieszka piasku lub szkieletu w całym profilu glebowym. Poziom próchniczny o miąższości ponad 35 cm. Są to gleby strukturalne, przewiewne, przepuszczalne, położone poniżej 400 m n.p.m., przeważnie w szerokich i płaskich dolinach rzek lub kotlinach śródgórskich. Nie są narażone na zalewanie. Węglan wapnia może występować od powierzchni lub w dolnej części profilu glebowego. Mady te nadają się pod uprawę wszystkich roślin uprawnych.
 b)
-Mady wytworzone z glin średnich pylastych, całkowite, o miąższości ponad 100 cm. Zawierają czasem domieszkę części grubszych (kamyki) lub cienkie wkładki piasku w dolnych poziomach. Położone tak jak gleby gatunku a w tej klasie. Poziom próchniczny o miąższości ponad 40 cm, barwy szarej lub szarobrunatnej (bez zacieków żelazistych). Gleby te są czasem dość zwięzłe, ale strukturalne i bardzo żyzne, o właściwych stosunkach wodnych. Nadają się pod uprawę wszystkich roślin uprawnych.
-Karpaty Wschodnie z Podkarpaciem Północnym
+Mady wytworzone z glin średnich pylastych, całkowite, o miąższości ponad 100 cm. Zawierają czasem domieszkę części grubszych (kamyki) lub cienkie wkładki piasku w dolnych poziomach. Położone tak jak gleby gatunku a w tej klasie. Poziom próchniczny o miąższości ponad 40 cm, barwy szarej lub szarobrunatnej (bez zacieków żelazistych). Gleby te są czasem dość zwięzłe, ale strukturalne i bardzo żyzne, o właściwych stosunkach wodnych. Nadają się pod uprawę wszystkich roślin uprawnych. Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Mady pyłowe, lekkie lub średnie, czasem z małą domieszką piasku lub części grubszych, całkowite. Strukturalne, przewiewne i przepuszczalne, o właściwych stosunkach wodnych. Barwa ciemno lub jasnoszara, jaśniejsza ku dołowi profilu glebowego. Zawierają czasem węglan wapnia od powierzchni. Poziom próchniczny o miąższości ponad 40 cm. Mady te są położone przeważnie poniżej 400 m n.p.m. w szerokich i płaskich dolinach rzek lub w kotlinach śródgórskich. Nie są narażone na zalewanie. Nadają się pod uprawę wszystkich roślin uprawnych.
 b)
 Mady wytworzone z glin średnich pylastych, całkowite, o miąższości ponad 100 cm. Czasem dość zwięzłe, ale strukturalne i bardzo żyzne, pozostają we właściwych stosunkach wodnych. Mady te zawierają czasem domieszkę części grubszych (kamyki) lub cienkie wkładki piasków dolnych poziomów. Barwa szara lub szarobrunatna (bez zacieków żelazistych). Położone tak jak gleby gatunku a w tej klasie. Poziom próchniczny o miąższości ponad 40 cm. Mady te nadają się pod uprawę wszystkich roślin uprawnych.
 c)
-Mady pyłowe, ilaste, całkowite, o miąższości co najmniej 100 cm. W dolnych poziomach mają lżejsze uziarnienie (domieszka piasku lub otoczaków). Poziom próchniczny o miąższości ponad 30 cm. Mady te są nieco trudniejsze do uprawy, ale bardzo żyzne, strukturalne o dobrych stosunkach wodno-powietrznych. Położone tak jak gleby gatunku a i b w tej klasie. Nie są narażone na zalewanie. Często zawierają węglan wapnia tuż pod warstwą orną. Nadają się pod uprawę wszystkich ziemiopłodów.
-Sudety
+Mady pyłowe, ilaste, całkowite, o miąższości co najmniej 100 cm. W dolnych poziomach mają lżejsze uziarnienie (domieszka piasku lub otoczaków). Poziom próchniczny o miąższości ponad 30 cm. Mady te są nieco trudniejsze do uprawy, ale bardzo żyzne, strukturalne o dobrych stosunkach wodno-powietrznych. Położone tak jak gleby gatunku a i b w tej klasie. Nie są narażone na zalewanie. Często zawierają węglan wapnia tuż pod warstwą orną. Nadają się pod uprawę wszystkich ziemiopłodów. Sudety
 a)
-Mady średnie, strukturalne, o miąższości ponad 100 cm, barwy brunatnej lub brunatnoszarej. Głębiej, poniżej 80 cm, może występować warstwa materiału nieco lżejszego, pyłowego lub namułu, o uziarnieniu gliny pylastej ciężkiej, z pojedynczymi odłamkami skał. Na głębokości ponad 100 cm zalega piasek lub żwirowo-piaszczysty utwór. Mady te są położone poniżej 400 (450) m n.p.m. na terenach niepodlegających zalewom lub podlegających im, ale jedynie okresowo i o słabym nasileniu. Są to gleby łatwe do uprawy. Nadają się pod uprawę wszystkich ziemiopłodów.
-Klasa IIIa Karpaty Zachodnie z Podkarpaciem Zachodnim
+Mady średnie, strukturalne, o miąższości ponad 100 cm, barwy brunatnej lub brunatnoszarej. Głębiej, poniżej 80 cm, może występować warstwa materiału nieco lżejszego, pyłowego lub namułu, o uziarnieniu gliny pylastej ciężkiej, z pojedynczymi odłamkami skał. Na głębokości ponad 100 cm zalega piasek lub żwirowo-piaszczysty utwór. Mady te są położone poniżej 400 (450) m n.p.m. na terenach niepodlegających zalewom lub podlegających im, ale jedynie okresowo i o słabym nasileniu. Są to gleby łatwe do uprawy. Nadają się pod uprawę wszystkich ziemiopłodów. Klasa IIIa Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Mady lekkie, średnie lub ciężkie, strukturalne, o miąższości ponad 100 cm. Zawierają domieszkę żwiru i kamieni (otoczaków). Gleby te są położone poniżej 450 m n.p.m. Są niezbyt suche, łatwe do uprawy. Nadają się dobrze pod uprawę wszystkich roślin uprawnych.
 b)
@@ -2015,8 +1949,7 @@ Mady pyłowe, lekkie lub średnie, ilasto-pyłowe lub wytworzone z glin lekkich 
 c)
 Mady pyłowe, ilasto-pyłowe, a także gliniaste ciężkie, pylaste (ale wtedy strukturalne, przechodzące od 30 – 40 cm w utwór pyłowy). W całym profilu glebowym niewielka domieszka szkieletu lub cienkie warstewki piasku. W podłożu, od głębokości 80 – 100 cm, występuje żwir piaszczysty lub piasek luźny. Poziom próchniczny o miąższości co najmniej 30 cm. Mady te są położone poniżej 450 m n.p.m. na ogół w szerokich dolinach na terenach warunkujących właściwe stosunki wodne. Są łatwe lub dość łatwe do uprawy. Niekiedy zawierają węglan wapnia w całym profilu glebowym. Dają dobre plony roślin uprawnych.
 d)
-Mady pyłowe, lekkie lub średnie, niecałkowite. Od głębokości 50 – 60 cm może wystąpić glina ciężka lub ił pylasty. W podłożu, od głębokości około 80 cm, występuje piasek słabo gliniasty lub żwir. Mady te są położone poniżej 450 m n.p.m. na terenach warunkujących właściwe stosunki wodne. Są łatwe do uprawy, żyzne, ale niezbyt przepuszczalne. Nadają się pod uprawę większości roślin uprawnych.
-Karpaty Wschodnie z Podkarpaciem Północnym
+Mady pyłowe, lekkie lub średnie, niecałkowite. Od głębokości 50 – 60 cm może wystąpić glina ciężka lub ił pylasty. W podłożu, od głębokości około 80 cm, występuje piasek słabo gliniasty lub żwir. Mady te są położone poniżej 450 m n.p.m. na terenach warunkujących właściwe stosunki wodne. Są łatwe do uprawy, żyzne, ale niezbyt przepuszczalne. Nadają się pod uprawę większości roślin uprawnych. Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Gleby podobne do gleb gatunku a w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 b)
@@ -2028,8 +1961,7 @@ Mady pyłowe, lekkie lub średnie, niecałkowite. W profilu glebowym, na głębo
 e)
 Mady ilasto-pyłowe lub pyłowo-ilaste, lub gliniaste o uziarnieniu glin ciężkich pylastych, z domieszką części grubszych w całym profilu glebowym. Podłoże, występujące na głębokości 80 – 100 cm, stanowi piasek lub żwir gliniasty. Poziom próchniczny o miąższości 40 – 50 cm. Mady te są położone poniżej 450 m n.p.m. Należą tu również mady całkowite o podobnym uziarnieniu, ale położone powyżej 450 m n.p.m. Są to gleby trudniejsze do uprawy, ale żyzne. Dają dobre plony prawie wszystkich roślin uprawnych.
 f)
-Mady ciężkie, ale strukturalne, mające w górnych poziomach na głębokości 30–40 cm glinę ciężką lub ił pylasty, z domieszką części grubszych. Niżej, do głębokości 100 cm, zalega materiał pyłowy, czasem z niewielką domieszką piasku, zapewniający dostateczną przepuszczalność i przewiewność gleby. Mady te są położone poniżej 450 m n.p.m. na terenach warunkujących właściwe stosunki wodne. Są one trudniejsze do uprawy i mają skłonność do zaskorupiania, ale są bardzo żyzne z natury. Często zawierają węglan wapnia w całym profilu glebowym.
-Klasa IIIb Karpaty Zachodnie z Podkarpaciem Zachodnim
+Mady ciężkie, ale strukturalne, mające w górnych poziomach na głębokości 30–40 cm glinę ciężką lub ił pylasty, z domieszką części grubszych. Niżej, do głębokości 100 cm, zalega materiał pyłowy, czasem z niewielką domieszką piasku, zapewniający dostateczną przepuszczalność i przewiewność gleby. Mady te są położone poniżej 450 m n.p.m. na terenach warunkujących właściwe stosunki wodne. Są one trudniejsze do uprawy i mają skłonność do zaskorupiania, ale są bardzo żyzne z natury. Często zawierają węglan wapnia w całym profilu glebowym. Klasa IIIb Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Mady o miąższości ponad 80–100 cm, zawierające, oprócz pyłu i piasku, domieszkę żwiru i kamieni (otoczaków). Poziom próchniczny o miąższości około 30 cm. Są to gleby niezbyt suche, łatwe do uprawy (pomimo kamieni). Położone poniżej 450 m n.p.m. Nadają się dobrze pod uprawę wszystkich roślin uprawnych.
 b)
@@ -2039,8 +1971,7 @@ Mady wytworzone z pyłów ilastych lub glin średnich, ze znaczną domieszką ż
 d)
 Mady pyłowe lub wytworzone z glin lekkich lub średnich pylastych. Położone poniżej 450 m n.p.m. na starych tarasach akumulacyjnych. Podłoże (żwir lub kamienie) od głębokości około 80 cm. Mady te są łatwe do uprawy i w latach meteorologicznie korzystnych mogą dawać dobre plony większości ziemiopłodów.
 e)
-Mady średnie, głębokie, o profilu glebowym złożonym z przewarstwień pyłu, piasku i iłu pylastego, z niewielką domieszką szkieletu. Są położone poniżej 450 m n.p.m. na terenach zapewniających właściwe stosunki wodne. Przeważnie bez oznak oglejenia. Czasem poniżej głębokości 60 cm występują rdzawe plamy. Są to gleby żyzne, strukturalne i niezbyt trudne do uprawy. Nadają się dobrze pod uprawę prawie wszystkich roślin uprawnych.
-Karpaty Wschodnie z Podkarpaciem Północnym
+Mady średnie, głębokie, o profilu glebowym złożonym z przewarstwień pyłu, piasku i iłu pylastego, z niewielką domieszką szkieletu. Są położone poniżej 450 m n.p.m. na terenach zapewniających właściwe stosunki wodne. Przeważnie bez oznak oglejenia. Czasem poniżej głębokości 60 cm występują rdzawe plamy. Są to gleby żyzne, strukturalne i niezbyt trudne do uprawy. Nadają się dobrze pod uprawę prawie wszystkich roślin uprawnych. Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Gleby podobne do gleb gatunku a w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 b)
@@ -2056,8 +1987,7 @@ Mady średnie, głębokie, o profilu glebowym złożonym z przewarstwień pyłu,
 g)
 Mady pyłowo-ilaste lub gliniaste, średnie lub ciężkie, o miąższości 80 – 100 cm. W całym profilu glebowym występuje domieszka szkieletu. W profilu glebowym występuje piasek lub żwir gliniasty. Mady te są położone na wysokości 450 – 600 m n.p.m. Poziom próchniczny o miąższości 40 – 50 cm. Są to gleby trudniejsze do uprawy, ale dostatecznie przepuszczalne i przewiewne. Nadają się pod uprawę większości roślin uprawnych.
 h)
-Mady ciężkie, ale strukturalne, o miąższości 80–100 cm. Wytworzone z glin ciężkich (czasem przewarstwienia ilaste), z domieszką części grubszych. W podłożu występuje piasek lub żwir. Mady te są położone poniżej 450 m n.p.m. na terenach o zmiennym poziomie wód gruntowych i okresowo są zalewane. Oznaki oglejenia występują nie wyżej niż na głębokości 70 cm. Są to gleby dość żyzne, ale trudne do uprawy, słabo przepuszczalne. W latach o właściwych stosunkach wodnych większość roślin uprawnych daje na nich dobre plony.
-Klasa IVa Karpaty Zachodnie z Podkarpaciem Zachodnim
+Mady ciężkie, ale strukturalne, o miąższości 80–100 cm. Wytworzone z glin ciężkich (czasem przewarstwienia ilaste), z domieszką części grubszych. W podłożu występuje piasek lub żwir. Mady te są położone poniżej 450 m n.p.m. na terenach o zmiennym poziomie wód gruntowych i okresowo są zalewane. Oznaki oglejenia występują nie wyżej niż na głębokości 70 cm. Są to gleby dość żyzne, ale trudne do uprawy, słabo przepuszczalne. W latach o właściwych stosunkach wodnych większość roślin uprawnych daje na nich dobre plony. Klasa IVa Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Mady o miąższości 60 – 80 cm, z otoczakami w profilach glebowych. Poziom próchniczny o miąższości około 25 cm. Mady te są położone poniżej 450 m n.p.m. Nadają się pod uprawę wszystkich roślin uprawnych, a szczególnie owsa.
 b)
@@ -2081,8 +2011,7 @@ Mady pyłowe lub gliniaste, średnie. Na głębokości 40 cm występuje warstwa 
 k)
 Mady lekkie, piaszczysto-gliniaste, niecałkowite. Warstwa piasku gliniastego występuje do 40 – 60 cm, niżej utwór pyłowy lub gliniasty ze szkieletem. Mady te są położone poniżej 450 m n.p.m. w dolinach blisko koryta rzeki. Są to gleby łatwe do uprawy, lekkie i przepuszczalne, żytnio-ziemniaczane.
 l)
-Mady lekkie, wytworzone z piasków gliniastych, z wkładkami materiału cięższego (pyłu lub gliny), całkowite lub niecałkowite, na iłach. Położone poniżej 450 m n.p.m. na terenach o niskim poziomie wody gruntowej. Są to gleby łatwe do uprawy, ale zbyt przepuszczalne, skłonne do przesychania, żytnio-ziemniaczane.
-Karpaty Wschodnie z Podkarpaciem Północnym
+Mady lekkie, wytworzone z piasków gliniastych, z wkładkami materiału cięższego (pyłu lub gliny), całkowite lub niecałkowite, na iłach. Położone poniżej 450 m n.p.m. na terenach o niskim poziomie wody gruntowej. Są to gleby łatwe do uprawy, ale zbyt przepuszczalne, skłonne do przesychania, żytnio-ziemniaczane. Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Mady podobne do gleb gatunku a w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 b)
@@ -2106,8 +2035,7 @@ Mady pyłowe lub gliniaste, średnie. W profilu glebowym na głębokości 40 cm 
 k)
 Mady lekkie, piaszczyste, niecałkowite. Warstwa piasku gliniastego sięga do głębokości 40 – 60 cm. Niżej zalega utwór pyłowy lub gliniasty ze szkieletem. Mady te są położone poniżej 450 m n.p.m. w dolinach bliżej koryta rzeki. Okresowo są zalewane. W okresie lata mogą mieć skłonność do przesychania. Są to gleby łatwe do uprawy, ale zbyt lekkie i przepuszczalne, żytnio-ziemniaczane.
 l)
-Mady lekkie, wytworzone z piasków gliniastych, całkowite lub niecałkowite, na iłach. W profilu glebowym występują wkładki materiału cięższego (pyłu lub gliny). Mady te są położone poniżej 450 m n.p.m. na terenach o niskim poziomie wód gruntowych. Są to gleby łatwe do uprawy, ale zbyt przepuszczalne, skłonne do przesychania, żytnio-ziemniaczane.
-Klasa IVb Karpaty Zachodnie z Podkarpaciem Zachodnim
+Mady lekkie, wytworzone z piasków gliniastych, całkowite lub niecałkowite, na iłach. W profilu glebowym występują wkładki materiału cięższego (pyłu lub gliny). Mady te są położone poniżej 450 m n.p.m. na terenach o niskim poziomie wód gruntowych. Są to gleby łatwe do uprawy, ale zbyt przepuszczalne, skłonne do przesychania, żytnio-ziemniaczane. Klasa IVb Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Mady o miąższości 40 – 60 cm, z otoczakami w profilu glebowym. Poziom próchniczny o miąższości około 20 – 25 cm. Mady te nadają się dobrze pod uprawę owsa, słabiej pod uprawę innych roślin.
 b)
@@ -2125,8 +2053,7 @@ Mady gliniasto-pylaste, średnie, średnio szkieletowe od głębokości około 3
 h)
 Mady średnie, przewarstwione, występują na przemian warstwy żwiru gliniastego i pyłu z domieszką szkieletu. W podłożu od głębokości 60 – 80 cm występuje żwir lub kamienie. Mady te są położone powyżej 400 m n.p.m., często w starych korytach rzek. Czasem węglan wapnia występuje w całym profilu glebowym. Są to gleby nieprzydatne rolniczo. Przy właściwych stosunkach wodnych dają średnie plony owsa i ziemniaków.
 i)
-Mady lekkie, o uziarnieniu piasków gliniastych. Od głębokości 60 – 80 cm występuje piasek luźny lub żwir. Mady te są położone poniżej 450 m n.p.m. w pobliżu koryta rzeki. Są to gleby słabe, zbyt przepuszczalne, wymagające wzbogacenia w próchnicę, przeważnie za suche. Uprawia się na nich średnio owies i ziemniaki.
-Karpaty Wschodnie z Podkarpaciem Północnym
+Mady lekkie, o uziarnieniu piasków gliniastych. Od głębokości 60 – 80 cm występuje piasek luźny lub żwir. Mady te są położone poniżej 450 m n.p.m. w pobliżu koryta rzeki. Są to gleby słabe, zbyt przepuszczalne, wymagające wzbogacenia w próchnicę, przeważnie za suche. Uprawia się na nich średnio owies i ziemniaki. Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Mady podobne do gleb gatunku a w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 b)
@@ -2142,8 +2069,7 @@ Mady ciężkie, gliniaste lub ilaste, z domieszką żwiru lub kamieni w całym p
 g)
 Mady średnie, przewarstwione, w profilu glebowym występują na przemian warstwy pyłu z domieszką szkieletu i żwiru gliniastego. Podłoże, występujące na głębokości 60 – 80 cm, stanowi żwir lub kamienie. Mady te są położone ponad 400 m n.p.m., często w starych korytach rzek. Czasem zawierają węglan wapnia w całym profilu glebowym. Są to gleby rolniczo nieprzydatne. Przy właściwych stosunkach wodnych dają średnie plony owsa i ziemniaków.
 h)
-Mady lekkie, o uziarnieniu piasków gliniastych. Na głębokości 60 – 80 cm występuje piasek luźny lub żwir. Położone poniżej 450 m n.p.m. w pobliżu koryta rzek. Są to gleby bardzo słabe, zbyt przepuszczalne, ubogie w składniki pokarmowe roślin, wymagają wzbogacenia w próchnicę, przeważnie za suche. Średnio uprawia się na nich owies i ziemniaki.
-Klasa V Karpaty Zachodnie z Podkarpaciem Zachodnim
+Mady lekkie, o uziarnieniu piasków gliniastych. Na głębokości 60 – 80 cm występuje piasek luźny lub żwir. Położone poniżej 450 m n.p.m. w pobliżu koryta rzek. Są to gleby bardzo słabe, zbyt przepuszczalne, ubogie w składniki pokarmowe roślin, wymagają wzbogacenia w próchnicę, przeważnie za suche. Średnio uprawia się na nich owies i ziemniaki. Klasa V Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Mady płytkie, o miąższości do 50 cm, silnie kamieniste w całym profilu glebowym. Poziom próchniczny o miąższości około 20 cm. Mady te nadają się pod uprawę owsa, słabiej żyta i ziemniaków.
 b)
@@ -2155,8 +2081,7 @@ Mady pyłowe lub gliniaste, lekkie lub średnie, o miąższości 50–70 cm. Po�
 e)
 Mady pyłowe lub gliniaste, lekkie lub średnie, podmokłe, podobne do gleb gatunku d w tej klasie, ale o poziomie próchnicznym z próchnicą torfiastą (przypominają słabo wykształcone czarne ziemie).
 f)
-Mady ciężkie, wytworzone z glin ciężkich szkieletowych lub iłów. Położone poniżej 450 m n.p.m., często w małych kotlinach lub bezodpływowych zagłębieniach, bez możliwości melioracji. Wyraźne oglejenie występuje na głębokości nie mniejszej niż około 50 cm. Są to gleby zbyt mokre, zimne, zwięzłe i nieprzepuszczalne. Nadają się raczej pod łąki trwałe i pastwiska trwałe. Plony zbóż są zawodne.
-Karpaty Wschodnie z Podkarpaciem Północnym
+Mady ciężkie, wytworzone z glin ciężkich szkieletowych lub iłów. Położone poniżej 450 m n.p.m., często w małych kotlinach lub bezodpływowych zagłębieniach, bez możliwości melioracji. Wyraźne oglejenie występuje na głębokości nie mniejszej niż około 50 cm. Są to gleby zbyt mokre, zimne, zwięzłe i nieprzepuszczalne. Nadają się raczej pod łąki trwałe i pastwiska trwałe. Plony zbóż są zawodne. Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Mady podobne do gleb gatunku a w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 b)
@@ -2166,8 +2091,7 @@ Mady pyłowe lub gliniaste, lekkie lub średnie, o miąższości 50–70 cm. Po�
 d)
 Mady pyłowe lub gliniaste, średnie, z dużym udziałem szkieletu, o miąższości 40 – 50 cm. W podłożu występuje żwir lub kamienie. Mady te są położone poniżej 450 m n.p.m. na terenach warunkujących właściwe stosunki wodne. Są to gleby słabe, bardzo trudne do uprawy. Nadają się pod uprawę owsa, rzadziej ziemniaków.
 e)
-Mady ciężkie, wytworzone z glin ciężkich, szkieletowych lub iłów. Położone poniżej 450 m n.p.m., często w małych kotlinach lub w bezodpływowych zagłębieniach, bez możliwości melioracji. Są to gleby zbyt mokre, zimne, zwięzłe i nieprzepuszczalne. Wyraźne oglejenie występuje już na głębokości około 50 cm. Nadają się raczej pod łąki trwałe i pastwiska trwałe.
-Klasa VI Karpaty Zachodnie z Podkarpaciem Zachodnim
+Mady ciężkie, wytworzone z glin ciężkich, szkieletowych lub iłów. Położone poniżej 450 m n.p.m., często w małych kotlinach lub w bezodpływowych zagłębieniach, bez możliwości melioracji. Są to gleby zbyt mokre, zimne, zwięzłe i nieprzepuszczalne. Wyraźne oglejenie występuje już na głębokości około 50 cm. Nadają się raczej pod łąki trwałe i pastwiska trwałe. Klasa VI Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Mady bardzo lekkie, o uziarnieniu piasków luźnych (głębokich) lub słabo gliniastych, zalegających na piasku luźnym lub utworze żwirowo-kamienistym. Położone poniżej 450 m n.p.m. w bliskim sąsiedztwie koryta rzeki lub na starych łachach rzecznych. Są to gleby bardzo słabe, przeważnie suche, słabo spojone i ubogie w próchnicę, wymagające intensywnego nawożenia. Nadają się pod uprawę owsa i ziemniaków, ale w latach o małej ilości opadów również te rośliny zawodzą.
 b)
@@ -2175,8 +2099,7 @@ Mady lekkie lub bardzo lekkie, o uziarnieniu piasków, podmokłe, z plamami glej
 c)
 Mady pyłowe lub gliniaste, lekkie lub średnie, średnio lub silnie szkieletowe, bardzo płytkie. Tuż pod warstwą orną (15–30 cm) występuje piasek luźny, żwir lub kamienie. Są to gleby bardzo słabe, trudne do uprawy, niekiedy za suche. Należą tu również gleby nieco głębsze (około 30 cm), ale położone ponad 450 m n.p.m., zwłaszcza w dość wąskich i zacienionych dolinach potoków. Nadają się raczej pod trwałe zadarnienie lub zadrzewienie.
 d)
-Mady średnie, pyłowe lub gliniaste, ze szkieletem, płytkie. Od głębokości około 30 cm występuje utwór żwirowy lub kamienisty. Położone na terenach, gdzie okresowo gromadzi się woda i powstają wymoki. W latach o dużej ilości opadów plony mogą przepadać.
-Karpaty Wschodnie z Podkarpaciem Północnym
+Mady średnie, pyłowe lub gliniaste, ze szkieletem, płytkie. Od głębokości około 30 cm występuje utwór żwirowy lub kamienisty. Położone na terenach, gdzie okresowo gromadzi się woda i powstają wymoki. W latach o dużej ilości opadów plony mogą przepadać. Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Mady podobne do gleb gatunku a w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 b)
@@ -2185,12 +2108,12 @@ c)
 Mady pyłowe lub gliniaste, średnie, ze szkieletem, płytkie. Na głębokości około 30 cm występuje utwór żwirowy lub kamienisty. Położone na terenach, gdzie okresowo gromadzi się woda i powstają wymoki. W latach o dużej ilości opadów plony mogą być zawodne.
 d)
 Mady bardzo płytkie, gliniaste, silnie szkieletowe, o miąższości do 20 cm, na podłożu żwirowym lub kamienistym. Są to gleby bardzo słabe, trudne do uprawy. W latach o małej ilości opadów plony są bardzo zawodne.
+K. Rędziny
 Klasa IIIa Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Rędziny wytworzone z wapiennych skał węglanowych (np. wapieni, margli, piaskowców wapnistych lub łupków wapnistych lub marglistych), o miąższości ponad 60 cm. Należą tu również rędziny wytworzone z iłowców wapnistych lub łupków ilastych marglistych lub wapnistych, które występują nie płycej niż na głębokości 70 cm. Gleby te zawierają węglan wapnia już od powierzchni. Są położone poniżej 450 m n.p.m. na stokach o nachyleniu do 10° o wystawie południowej lub południowo-zachodniej. Są to gleby trudne do uprawy, ale urodzajne.
 b)
-Rędziny gliniaste, średnie, pylaste, słabo szkieletowe, wytworzone z piasków wapnistych lub łupków marglistych, o miąższości ponad 70 cm. Węglan wapnia występuje w całym profilu glebowym. Poziom próchniczny o miąższości około 30 cm, szarobrunatny, niżej barwa jaśniejsza żółtawa. Gleby te są położone poniżej 450 m n.p.m. na stokach o nachyleniu do 10° o wystawie południowej lub południowo-zachodniej, lub na wierzchowinach wzniesień. Są to gleby średnio zwięzłe, łatwe do uprawy i dość żyzne. Nadają się pod uprawę większości roślin uprawnych.
-Karpaty Wschodnie z Podkarpaciem Północnym
+Rędziny gliniaste, średnie, pylaste, słabo szkieletowe, wytworzone z piasków wapnistych lub łupków marglistych, o miąższości ponad 70 cm. Węglan wapnia występuje w całym profilu glebowym. Poziom próchniczny o miąższości około 30 cm, szarobrunatny, niżej barwa jaśniejsza żółtawa. Gleby te są położone poniżej 450 m n.p.m. na stokach o nachyleniu do 10° o wystawie południowej lub południowo-zachodniej, lub na wierzchowinach wzniesień. Są to gleby średnio zwięzłe, łatwe do uprawy i dość żyzne. Nadają się pod uprawę większości roślin uprawnych. Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Rędziny podobne do gleb gatunku a w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 b)
@@ -2198,15 +2121,13 @@ Rędziny wytworzone z miękkich skał wapiennych, zawierające węglan wapnia w 
 c)
 Rędziny wytworzone z trudniej wietrzejących skał wapiennych (wapienie litotamniowe), o miąższości nie mniejszej niż 70 cm. Węglan wapnia występuje od powierzchni. Uziarnienie glin średnich lub ciężkich, z małą domieszką szkieletu w górnych poziomach. W profilu glebowym przeważa zabarwienie jasnobrązowe. Występują w warunkach podobnych do gleb gatunku b w tej klasie. Są to gleby trudniejsze do uprawy, ale żyzne z natury. Nadają się pod uprawę wszystkich ziemiopłodów.
 d)
-Rędziny wytworzone z piaskowców wapnistych lub łupków marglistych, o uziarnieniu glin średnich pylastych (słabo szkieletowe), o miąższości ponad 70 cm. Zawierają węglan wapnia w całym profilu glebowym. Poziom próchniczny o miąższości około 30 cm, o szarobrunatnym zabarwieniu, niżej barwa jaśniejsza, żółtawa. Gleby te są położone poniżej 450 m n.p.m. na stokach o nachyleniu do 10° o wystawie południowej lub południowo-zachodniej, lub na wierzchowinach wzniesień. Są to gleby średnio zwięzłe, łatwe do uprawy i dość żyzne. Nadają się pod uprawę większości roślin uprawnych.
-Klasa IIIb Karpaty Zachodnie z Podkarpaciem Zachodnim
+Rędziny wytworzone z piaskowców wapnistych lub łupków marglistych, o uziarnieniu glin średnich pylastych (słabo szkieletowe), o miąższości ponad 70 cm. Zawierają węglan wapnia w całym profilu glebowym. Poziom próchniczny o miąższości około 30 cm, o szarobrunatnym zabarwieniu, niżej barwa jaśniejsza, żółtawa. Gleby te są położone poniżej 450 m n.p.m. na stokach o nachyleniu do 10° o wystawie południowej lub południowo-zachodniej, lub na wierzchowinach wzniesień. Są to gleby średnio zwięzłe, łatwe do uprawy i dość żyzne. Nadają się pod uprawę większości roślin uprawnych. Klasa IIIb Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Rędziny wytworzone z wapiennych skał węglanowych (np. wapieni, margli, piaskowców wapnistych lub łupków wapnistych lub marglistych), o miąższości 50–60 cm. Należą tu również rędziny wytworzone z iłowców wapnistych lub łupków ilastych marglistych lub wapnistych, które występują na głębokości 60 – 70 cm. Gleby te zawierają węglan wapnia od powierzchni. Są położone poniżej 450 m n.p.m. na stokach o nachyleniu do 10°. Są trudne do uprawy, ale dość urodzajne.
 b)
 Rędziny gliniaste, średnie, z okruchami miękkiej, zwietrzałej skały macierzystej, wytworzone z piaskowców lub łupków wapnistych, o miąższości 50–70 cm. Węglan wapnia występuje w całym profilu glebowym. Gleby te są położone poniżej 450 m n.p.m. na stokach o nachyleniu do 20° o wystawie południowej lub południowo-zachodniej, lub na wierzchołkach wzniesień. Poziom próchniczny o miąższości 20–30 cm, o zabarwieniu szarym z żółtawym odcieniem, niżej przeważa barwa żółta. Gleby te są łatwe do uprawy i przy dobrych stosunkach wodno-powietrznych nadają się pod uprawę większości roślin uprawnych.
 c)
-Rędziny gliniaste, ciężkie, wytworzone z wapnistych łupków ilastych lub iłów marglistych, o miąższości nie mniejszej niż 70 cm. Położone tak jak gleby gatunku b w tej klasie. Węglan wapnia występuje w całym profilu glebowym. Gleby te są dość trudne do uprawy.
-Karpaty Wschodnie z Podkarpaciem Północnym
+Rędziny gliniaste, ciężkie, wytworzone z wapnistych łupków ilastych lub iłów marglistych, o miąższości nie mniejszej niż 70 cm. Położone tak jak gleby gatunku b w tej klasie. Węglan wapnia występuje w całym profilu glebowym. Gleby te są dość trudne do uprawy. Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Rędziny podobne do gleb gatunku a w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 b)
@@ -2214,25 +2135,21 @@ Rędziny wytworzone z różnych skał wapiennych trzeciorzędu, zawierające wę
 c)
 Rędziny wytworzone z piaskowców lub łupków wapnistych, o miąższości 50–70 cm, o uziarnieniu glin średnich, z odłamkami miękkiej zwietrzałej skały macierzystej. Zawierają węglan wapnia w całym profilu glebowym. Gleby te są położone poniżej 450 m n.p.m. na stokach o nachyleniu do 20° o wystawie południowej lub południowo-zachodniej, lub na wierzchowinach wzniesień. Poziom próchniczny o miąższości 20–30 cm, o zabarwieniu szarym z żółtawym odcieniem, niżej przeważa barwa żółta. Gleby te są łatwe do uprawy i przy dobrych stosunkach wodno-powietrznych nadają się pod uprawę większości roślin uprawnych.
 d)
-Rędziny wytworzone z wapnistych łupków ilastych lub iłów marglistych, o miąższości nie mniejszej niż 70 cm. Uziarnienie glin ciężkich. Są to gleby trudniejsze do uprawy (węglan wapnia występuje w całym profilu glebowym). Podłoże takie jak u gleb gatunku c w tej klasie.
-Klasa IVa Karpaty Zachodnie z Podkarpaciem Zachodnim
+Rędziny wytworzone z wapnistych łupków ilastych lub iłów marglistych, o miąższości nie mniejszej niż 70 cm. Uziarnienie glin ciężkich. Są to gleby trudniejsze do uprawy (węglan wapnia występuje w całym profilu glebowym). Podłoże takie jak u gleb gatunku c w tej klasie. Klasa IVa Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Rędziny wytworzone z wapiennych skał węglanowych (np. wapieni, margli), o miąższości 40 – 50 cm, przeważnie z domieszką obcego materiału, szkieletowe. Należą tu również iły wapniowcowe, wytworzone z piaskowców wapnistych lub łupków wapnistych lub marglistych, które występują nie płycej niż 60 cm. Gleby te zawierają węglan wapnia już od powierzchni. Gleby te są położone na stokach. Są trudne do uprawy, ale dają średnie plony zbóż, roślin okopowych i większość roślin motylkowych.
 b)
 Rędziny gliniaste, średnie, słabo szkieletowe, wytworzone z piaskowców lub pyłowców wapnistych, występujących nie płycej niż 50 cm. Są położone poniżej 450 m n.p.m. na stokach o nachyleniu 10 – 20° lub wyżej, ale wtedy na stokach o nachyleniu do 10° o korzystnej wystawie. Burzenie z kwasem solnym od powierzchni. Są to gleby średniej wartości, dość trudne do uprawy. Zboża i rośliny okopowe mogą dawać na nich średnie plony. Lepiej nadają się pod uprawę roślin motylkowych.
 c)
-Rędziny gliniaste, ciężkie, wytworzone z wapnistych łupków ilastych lub iłów marglistych, występujących nie płycej niż 60 cm. Są położone tak jak gleby gatunku b w tej klasie. Burzenie z kwasem solnym w całym profilu glebowym. Są to gleby trudne do uprawy, zwięzłe i zlewne, jednak dość żyzne. W latach meteorologicznie korzystnych mogą dawać średnie plony zbóż i roślin okopowych. Najbardziej nadają się pod uprawę roślin motylkowych.
-Karpaty Wschodnie z Podkarpaciem Północnym
+Rędziny gliniaste, ciężkie, wytworzone z wapnistych łupków ilastych lub iłów marglistych, występujących nie płycej niż 60 cm. Są położone tak jak gleby gatunku b w tej klasie. Burzenie z kwasem solnym w całym profilu glebowym. Są to gleby trudne do uprawy, zwięzłe i zlewne, jednak dość żyzne. W latach meteorologicznie korzystnych mogą dawać średnie plony zbóż i roślin okopowych. Najbardziej nadają się pod uprawę roślin motylkowych. Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Rędziny podobne do gleb gatunku a w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 b)
-Rędziny wytworzone z wapiennych skał węglanowych (wapienie trzeciorzędowe), o miąższości 40 – 50 cm, o uziarnieniu glin średnich lub ciężkich. Domieszka szkieletu występuje już na powierzchni. Gleby te są położone poniżej 450 m n.p.m. na stokach o nachyleniu 10 – 20° lub wyżej, ale wtedy na terenach bardziej płaskich o nachyleniu do 10° o korzystnej wystawie. W profilu glebowym przeważa zabarwienie ciemnożółte (rdzawe plamy). Węglan wapnia występuje w całym profilu glebowym. Są to gleby dość żyzne, ale trudne do uprawy.
-W latach o małej ilości opadów plony mogą być zawodne.
+Rędziny wytworzone z wapiennych skał węglanowych (wapienie trzeciorzędowe), o miąższości 40 – 50 cm, o uziarnieniu glin średnich lub ciężkich. Domieszka szkieletu występuje już na powierzchni. Gleby te są położone poniżej 450 m n.p.m. na stokach o nachyleniu 10 – 20° lub wyżej, ale wtedy na terenach bardziej płaskich o nachyleniu do 10° o korzystnej wystawie. W profilu glebowym przeważa zabarwienie ciemnożółte (rdzawe plamy). Węglan wapnia występuje w całym profilu glebowym. Są to gleby dość żyzne, ale trudne do uprawy. W latach o małej ilości opadów plony mogą być zawodne.
 c)
 Rędziny wytworzone z piaskowców lub pyłowców wapnistych, występujących nie płycej niż na głębokości 50 cm. Uziarnienie glin średnich, słabo szkieletowych. Burzenie z kwasem solnym od powierzchni. Gleby te są położone podobnie jak gleby gatunku b w tej klasie. Są to gleby średniej wartości, trudniejsze do uprawy. Zboża i rośliny okopowe mogą dawać na nich średnie plony. Bardziej nadają się pod uprawę roślin motylkowych.
 d)
-Rędziny wytworzone z wapnistych łupków ilastych lub iłów marglistych, występujących nie płycej niż na głębokości 60 cm. Uziarnienie glin ciężkich. Gleby te są położone podobnie jak gleby gatunku b i c w tej klasie. Są to gleby trudne do uprawy, zwięzłe i zlewne, jednak potencjalnie żyzne. Burzenie z kwasem solnym w całym profilu glebowym. W latach meteorologicznie korzystnych gleby te mogą dawać średnie plony zbóż i roślin okopowych. Najbardziej nadają się pod uprawę roślin motylkowych.
-Klasa IVb Karpaty Zachodnie z Podkarpaciem Zachodnim
+Rędziny wytworzone z wapnistych łupków ilastych lub iłów marglistych, występujących nie płycej niż na głębokości 60 cm. Uziarnienie glin ciężkich. Gleby te są położone podobnie jak gleby gatunku b i c w tej klasie. Są to gleby trudne do uprawy, zwięzłe i zlewne, jednak potencjalnie żyzne. Burzenie z kwasem solnym w całym profilu glebowym. W latach meteorologicznie korzystnych gleby te mogą dawać średnie plony zbóż i roślin okopowych. Najbardziej nadają się pod uprawę roślin motylkowych. Klasa IVb Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Rędziny wytworzone z wapiennych skał węglanowych (np. wapieni, margli), o miąższości 30–40 cm, przeważnie z domieszką obcego materiału, silnie szkieletowe. Należą tu również iły wapniowe wytworzone z piaskowców wapnistych lub łupków wapnistych lub marglistych, które występują nie płycej niż 40 cm. Gleby te zawierają węglan wapnia w całym profilu glebowym. Występują na stokach o nachyleniu 30–45°. Są trudne do uprawy. Dają średnie plony zbóż i niektórych roślin motylkowych.
 b)
@@ -2242,8 +2159,7 @@ Rędziny gliniaste, średnie, szkieletowe, wytworzone z piaskowców lub łupków
 d)
 Rędziny gliniaste, ciężkie, wytworzone z wapnistych łupków ilastych lub iłów marglistych, o miąższości 30–50 cm, takie jak gleby gatunku c w klasie IVa, ale położone na wysokości 450 – 600 m n.p.m. na stokach o nachyleniu 20 – 30°. Dają słabe stanowisko dla niektórych zbóż i roślin motylkowych.
 e)
-Rędziny gliniaste, ciężkie, namyte, z gleb wytworzonych z twardych wapieni, w podłożu od głębokości około 50 – 70 cm występuje lita skała (piaskowiec wapnisty, iłołupek marglisty). Są położone na wysokości 450 – 600 m n.p.m. na stokach o nachyleniu do 10°. Poziom próchniczny o miąższości około 20 cm, poziom przejściowy słabiej próchniczny o miąższości do 35 – 50 cm. Słabe burzenie z kwasem solnym występuje tylko przy okruchach szkieletu lub głębszych poziomach. Są to gleby podobne do gleb gatunku t w klasie IVb w oddziale 2.
-Karpaty Wschodnie z Podkarpaciem Północnym
+Rędziny gliniaste, ciężkie, namyte, z gleb wytworzonych z twardych wapieni, w podłożu od głębokości około 50 – 70 cm występuje lita skała (piaskowiec wapnisty, iłołupek marglisty). Są położone na wysokości 450 – 600 m n.p.m. na stokach o nachyleniu do 10°. Poziom próchniczny o miąższości około 20 cm, poziom przejściowy słabiej próchniczny o miąższości do 35 – 50 cm. Słabe burzenie z kwasem solnym występuje tylko przy okruchach szkieletu lub głębszych poziomach. Są to gleby podobne do gleb gatunku t w klasie IVb w oddziale 2. Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Rędziny podobne do gleb gatunku a w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 b)
@@ -2251,8 +2167,7 @@ Rędziny wytworzone ze skał wapiennych (różnych formacji geologicznych), wyst
 c)
 Rędziny wytworzone z piaskowców lub łupków pyłowych, bogatych w węglan wapnia. Podłoże występuje na głębokości około 30 cm. Uziarnienie glin średnich, ze znaczną domieszką odłamków skalnych. Z kwasem solnym burzą od powierzchni. Gleby te są łatwe do uprawy, ale słabo żyzne i łatwo przesychające. Są położone poniżej 450 m n.p.m. na stokach o nachyleniu 10 – 20° lub wierzchołkach wzniesień (często narażone na działanie erozji). W latach meteorologicznie korzystnych owies, żyto i koniczyna dają na nich średnie plony.
 d)
-Rędziny podobne do gleb gatunku d w klasie IVa, ale położone na wysokości 450 – 600 m n.p.m. na stokach o nachyleniu 20 – 30°. Gleby te mają miąższość 30 – 50 cm. Dają słabe stanowisko dla niektórych zbóż i roślin motylkowych.
-Klasa V Karpaty Zachodnie z Podkarpaciem Zachodnim
+Rędziny podobne do gleb gatunku d w klasie IVa, ale położone na wysokości 450 – 600 m n.p.m. na stokach o nachyleniu 20 – 30°. Gleby te mają miąższość 30 – 50 cm. Dają słabe stanowisko dla niektórych zbóż i roślin motylkowych. Klasa V Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Rędziny wytworzone z twardych skał wapiennych, piaskowców wapnistych lub iłołupków wapnistych, płytkie, o miąższości 15–30 cm, z małą ilością cząstek ziemistych. Są to gleby silnie szkieletowe. Są położone na stokach o nachyleniu 30 – 45°. Są trudne do uprawy. Dają słabe plony owsa i koniczyny.
 b)
@@ -2262,8 +2177,7 @@ Rędziny gliniaste, ciężkie, wytworzone z iłów lub piaskowców marglistych. 
 d)
 Rędziny gliniaste, średnio szkieletowe, wytworzone z twardych piaskowców wapnistych, pyłowców lub łupków marglistych, płytkie (do głębokości 20 – 30 cm). Położone poniżej 450 m n.p.m. na stokach o nachyleniu 20 – 30° narażonych na erozję lub wyżej, ale wtedy na terenach bardziej płaskich (wierzchołki wzgórz). Węglan wapnia występuje w całym profilu glebowym. Gleby te są trudne do uprawy, zawodne w plonach, przeważnie za suche. Dają słabe plony owsa i koniczyny.
 e)
-Rędziny gliniaste, ciężkie, namyte, podobne do gleb gatunku e w klasie IVb, ale położone powyżej 600 m n.p.m. Można tu zaliczyć także podobne gleby położone na wysokości 450 – 600 m n.p.m., ale wtedy płytsze lub na stokach o większym nachyleniu. Podobne do gleb gatunku o w klasie V w oddziale 2.
-Karpaty Wschodnie z Podkarpaciem Północnym
+Rędziny gliniaste, ciężkie, namyte, podobne do gleb gatunku e w klasie IVb, ale położone powyżej 600 m n.p.m. Można tu zaliczyć także podobne gleby położone na wysokości 450 – 600 m n.p.m., ale wtedy płytsze lub na stokach o większym nachyleniu. Podobne do gleb gatunku o w klasie V w oddziale 2. Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Rędziny podobne do gleb gatunku a w tej klasie w Karpatach Zachodnich z Podkarpaciem Zachodnim.
 b)
@@ -2271,25 +2185,23 @@ Rędziny wytworzone z twardych skał wapiennych, wapienie jurajskie, o miąższo
 c)
 Rędziny wytworzone z iłów marglistych, o uziarnieniu glin ciężkich. Poziom próchniczny o miąższości 20–30 cm. Ił stanowiący podglebie sięga do głębokości 70 – 100 cm. Niżej zalega łupek ilasty wapnisty. Gleby te są położone poniżej 450 m n.p.m. na wierzchołkach pagórków lub stokach o nachyleniu 20 – 30° o korzystnej wystawie lub wyżej, ale wtedy na terenach bardziej dostępnych. Węglan wapnia występuje w całym profilu glebowym. Są to gleby potencjalnie żyzne, ale trudne do uprawy, zwięzłe i trudno dostępne (narażone na działanie erozji). Najbardziej nadają się pod uprawę roślin motylkowych. Plony zbóż i roślin okopowych są często zawodne.
 d)
-Rędziny wytworzone z twardych piaskowców wapnistych, pyłowców lub łupków marglistych, płytkie, o miąższości 20 – 30 cm i uziarnieniu glin średnio szkieletowych. Położone tak jak gleby gatunku b w tej klasie. Węglan wapnia występuje w całym profilu glebowym. Gleby te są trudne do uprawy, zawodne w plonach, przeważnie za suche, narażone na erozję. Dają słabe plony owsa i koniczyny.
-Klasa VI Karpaty Zachodnie z Podkarpaciem Zachodnim
+Rędziny wytworzone z twardych piaskowców wapnistych, pyłowców lub łupków marglistych, płytkie, o miąższości 20 – 30 cm i uziarnieniu glin średnio szkieletowych. Położone tak jak gleby gatunku b w tej klasie. Węglan wapnia występuje w całym profilu glebowym. Gleby te są trudne do uprawy, zawodne w plonach, przeważnie za suche, narażone na erozję. Dają słabe plony owsa i koniczyny. Klasa VI Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Rędziny wytworzone z twardych skał wapiennych, bardzo płytkie, szkieletowe (nawet kamieniste), o miąższości do 20 cm. Położone na stokach o nachyleniu 20 – 30°, czasem 30 – 45°, lub na trudno dostępnych wierzchołkach wzniesień. Silnie erodowane, przeważnie za suche, bardzo trudne do uprawy. Są to gleby rolniczo nieprzydatne. Nadają się pod zalesienie.
 b)
-Rędziny wytworzone z twardych piaskowców wapnistych, pyłowców lub łupków marglistych, takie jak gleby gatunku d w klasie V, ale płytsze (do głębokości 20 cm), bardziej szkieletowe, o niższej przydatności rolniczej. Nadają się pod zalesienie.
-Karpaty Wschodnie z Podkarpaciem Północnym
+Rędziny wytworzone z twardych piaskowców wapnistych, pyłowców lub łupków marglistych, takie jak gleby gatunku d w klasie V, ale płytsze (do głębokości 20 cm), bardziej szkieletowe, o niższej przydatności rolniczej. Nadają się pod zalesienie. Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Rędziny wytworzone z twardych skał wapiennych, bardzo płytkie, szkieletowe, a nawet kamieniste, o miąższości do 20 cm. Położone na stokach o nachyleniu 20 – 30°, czasem 30 – 45°, lub na trudno dostępnych wierzchołkach wzniesień. Silnie erodowane, przeważnie za suche. Są to gleby bardzo trudne do uprawy, rolniczo nieprzydatne. Nadają się raczej pod zalesienie.
 b)
 Rędziny podobne do gleb gatunku d w klasie V, ale płytsze (do 20 cm), bardziej szkieletowe, o niższej przydatności rolniczej.
+L. Czarne ziemie
 Klasa II Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Czarne ziemie wytworzone z pyłów różnego pochodzenia, całkowite. Położone poniżej 450 m n.p.m. na terenach płaskich o właściwych dla roślin stosunkach wodnych (często ogrody i warzywniki przydomowe). Poziom próchniczny o miąższości ponad 40 cm. Są to gleby żyzne, strukturalne, łatwe do uprawy, o dobrych stosunkach wodno-powietrznych. Nadają się pod uprawę wszystkich ziemiopłodów.
 b)
 Czarne ziemie wytworzone z glin lekkich lub średnich, całkowite. Położone poniżej 450 m n.p.m. na terenach płaskich lub lekko nachylonych, dostatecznie wilgotnych. Poziom próchniczny o miąższości ponad 40 cm, o barwie ciemnoszarej lub prawie czarnej. Są to gleby głębokie, o przepuszczalnym podłożu, zmeliorowane lub nie wymagają melioracji. Nadają się pod uprawę wszystkich roślin uprawnych.
 c)
-Czarne ziemie wytworzone z pyłów, z domieszką piasków lub glin średnich, głębokie. W profilu glebowym występują cienkie przewarstwienia piaskiem. Gleby te są położone poniżej 450 m n.p.m. na terenach warunkujących właściwe dla roślin stosunki wodne. Poziom próchniczny o miąższości ponad 40 cm. Gleby te są łatwe do uprawy, przepuszczalne, ciepłe i czynne. Wszystkie rośliny uprawne dają na nich dobre plony.
-Klasa IIIa Karpaty Wschodnie z Podkarpaciem Północnym a i b) Czarne ziemie takie jak gleby gatunku a i b w klasie II, ale położone na terenach o zmiennych stosunkach wodnych, okresowo zbyt wilgotne, ale bez wyraźnych śladów oglejenia w profilu glebowym.
+Czarne ziemie wytworzone z pyłów, z domieszką piasków lub glin średnich, głębokie. W profilu glebowym występują cienkie przewarstwienia piaskiem. Gleby te są położone poniżej 450 m n.p.m. na terenach warunkujących właściwe dla roślin stosunki wodne. Poziom próchniczny o miąższości ponad 40 cm. Gleby te są łatwe do uprawy, przepuszczalne, ciepłe i czynne. Wszystkie rośliny uprawne dają na nich dobre plony. Klasa IIIa Karpaty Wschodnie z Podkarpaciem Północnym a i b) Czarne ziemie takie jak gleby gatunku a i b w klasie II, ale położone na terenach o zmiennych stosunkach wodnych, okresowo zbyt wilgotne, ale bez wyraźnych śladów oglejenia w profilu glebowym.
 c)
 Czarne ziemie wytworzone z pyłów wietrzeniowych, z niewielkim udziałem części grubszych, niecałkowite. Od głębokości około 70 cm zalega glina ciężka lub ił. Poziom próchniczny o miąższości 30–40 cm. Gleby te są położone poniżej 450 m n.p.m. Są dostatecznie przepuszczalne i przewiewne, o właściwych stosunkach wodnych. Większość roślin uprawnych daje na nich dobre plony.
 d)
@@ -2297,8 +2209,7 @@ Czarne ziemie wytworzone z glin lekkich lub średnich, o miąższości około 80
 e)
 Czarne ziemie wytworzone z glin ciężkich lub iłów, niecałkowite. Podłoże przepuszczalne, występuje na głębokości 80–100 cm. Poziom próchniczny o miąższości około 40 cm. Węglan wapnia występuje w całym profilu glebowym. Są to gleby trudniejsze do uprawy, zwięzłe, ale dostatecznie przewiewne i strukturalne. Są położone poniżej 450 m n.p.m. W latach meteorologicznie korzystnych stanowią dobre gleby pszenno-buraczane.
 f)
-Czarne ziemie wytworzone z piasków gliniastych mocnych, próchniczne, niecałkowite. Na głębokości 40 – 60 cm występuje materiał pyłowy lub gliniasty, niezbyt ciężki. Poziom próchniczny o miąższości ponad 40 cm, o zabarwieniu ciemnoszarym, bogaty w próchnicę. Są to gleby łatwe do uprawy, pozostające we właściwych stosunkach wodnych, przepuszczalne, ciepłe i czynne. Są położone poniżej 450 m n.p.m. Nadają się pod uprawę większości roślin uprawnych.
-Klasa IIIb Karpaty Wschodnie z Podkarpaciem Północnym
+Czarne ziemie wytworzone z piasków gliniastych mocnych, próchniczne, niecałkowite. Na głębokości 40 – 60 cm występuje materiał pyłowy lub gliniasty, niezbyt ciężki. Poziom próchniczny o miąższości ponad 40 cm, o zabarwieniu ciemnoszarym, bogaty w próchnicę. Są to gleby łatwe do uprawy, pozostające we właściwych stosunkach wodnych, przepuszczalne, ciepłe i czynne. Są położone poniżej 450 m n.p.m. Nadają się pod uprawę większości roślin uprawnych. Klasa IIIb Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Czarne ziemie wytworzone z glin lekkich lub średnich, niecałkowite. Podłoże, występujące na głębokości 60 – 80 cm, stanowi piasek luźny. Poziom próchniczny o miąższości około 35 cm. W profilu glebowym występują plamy żelaziste poniżej 50 cm. Wyraźnych śladów trwałego oglejenia brak. Są to gleby strukturalne i łatwe do uprawy. Są położone poniżej 450 m n.p.m. W latach o niezbyt dużej ilości opadów nadają się pod uprawę prawie wszystkich roślin uprawnych.
 b)
@@ -2306,8 +2217,7 @@ Czarne ziemie pyłowe, całkowite. Położone w obniżeniach, na terenach warunk
 c)
 Czarne ziemie próchniczne, wytworzone z piasków gliniastych, całkowite. W profilu glebowym występują czasem cienkie wkładki pyłowe lub gliniaste. Poziom próchniczny o miąższości około 40 cm, o zabarwieniu ciemnoszarym, prawie czarnym. Są to gleby łatwe do uprawy, pulchne, strukturalne, ciepłe i czynne. Są położone poniżej 450 m n.p.m. Są zmeliorowane lub nie wymagają melioracji. Nadają się szczególnie pod uprawę warzyw.
 d)
-Czarne ziemie wytworzone z glin ciężkich lub iłów, całkowite. Położone poniżej 450 m n.p.m. na terenach płaskich, ale dość niskich. Poziom próchniczny o miąższości 30–40 cm. Są to gleby strukturalne i dość żyzne, ale trudne do uprawy, słabo przepuszczalne i okresowo zbyt wilgotne. Plamy glejowe występują na głębokości 70 cm. W latach o dużej ilości opadów plony zbóż mogą być zawodne. W latach meteorologicznie korzystnych stanowią gleby pszenno-buraczane.
-Klasa IVa Karpaty Wschodnie z Podkarpaciem Północnym
+Czarne ziemie wytworzone z glin ciężkich lub iłów, całkowite. Położone poniżej 450 m n.p.m. na terenach płaskich, ale dość niskich. Poziom próchniczny o miąższości 30–40 cm. Są to gleby strukturalne i dość żyzne, ale trudne do uprawy, słabo przepuszczalne i okresowo zbyt wilgotne. Plamy glejowe występują na głębokości 70 cm. W latach o dużej ilości opadów plony zbóż mogą być zawodne. W latach meteorologicznie korzystnych stanowią gleby pszenno-buraczane. Klasa IVa Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Czarne ziemie wytworzone z glin lekkich lub średnich, całkowite lub niecałkowite, na iłach (ił występuje nie płycej niż na głębokości 100 cm). Położone poniżej 450 m n.p.m. na terenach płaskich lub lokalnych obniżeniach. Poziom próchniczny o miąższości około 30 cm, barwy ciemnoszarej. Ich stosunki wodne są zmienne, okresowo są zbyt wilgotne. Plamy glejowe i żelaziste występują już na głębokości 50 cm. Są to gleby łatwe do uprawy, przepuszczalne. W latach meteorologicznie korzystnych nadają się nawet pod uprawę pszenicy. W latach o dużej ilości opadów plony są zawodne.
 b)
@@ -2317,8 +2227,7 @@ Czarne ziemie wytworzone z glin ciężkich lub iłów, głębokie. Występują w
 d)
 Czarne ziemie wytworzone z pyłów z domieszką piasku lub wietrzeniowych glin średnich pylastych, głębokie. Położone poniżej 450 m n.p.m. na stokach o nachyleniu poniżej 30°. Gleby te tworzą się pod wpływem wysiąkającej wody. Plamy rdzawe występują od głębokości 60 cm. Poziom próchniczny o miąższości około 40 cm. Są to gleby średniej wartości. W latach meteorologicznie korzystnych większość roślin uprawnych daje na nich średnie plony.
 e)
-Czarne ziemie wytworzone z piasków gliniastych, na iłach. Położone wyżej, na terenach falistych lub u podnóża zboczy (ale nie namywane). W latach o dużej ilości opadów nieprzepuszczalne podłoże powoduje nadmiar wody. W latach o małej ilości opadów górne poziomy wykazują skłonność do przesychania. Są to gleby łatwe do uprawy, pulchne i czynne, mające głęboki poziom próchniczny o miąższości około 40 cm. W latach meteorologicznie korzystnych nadają się nawet pod uprawę pszenicy.
-Klasa IVb Karpaty Wschodnie z Podkarpaciem Północnym
+Czarne ziemie wytworzone z piasków gliniastych, na iłach. Położone wyżej, na terenach falistych lub u podnóża zboczy (ale nie namywane). W latach o dużej ilości opadów nieprzepuszczalne podłoże powoduje nadmiar wody. W latach o małej ilości opadów górne poziomy wykazują skłonność do przesychania. Są to gleby łatwe do uprawy, pulchne i czynne, mające głęboki poziom próchniczny o miąższości około 40 cm. W latach meteorologicznie korzystnych nadają się nawet pod uprawę pszenicy. Klasa IVb Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Czarne ziemie pyłowe lub wytworzone z glin niezbyt ciężkich pylastych. Położone na terenach o wadliwych stosunkach wodnych. W latach o dużej ilości opadów są podmokłe. Oglejenie występuje już na głębokości 50 cm. Poziom próchniczny o miąższości około 30 cm. Są to gleby zimne, słabo czynne, zawodne w plonach. W latach o małej ilości opadów nadają się nawet pod uprawę pszenicy i buraków.
 b)
@@ -2326,8 +2235,7 @@ Czarne ziemie wytworzone z pyłów z domieszką piasku lub glin, lekkich lub śr
 c)
 Czarne ziemie takie jak gleby gatunku c w klasie IVa, ale mające gorsze właściwości i gorszą przydatność rolniczą.
 d)
-Czarne ziemie wytworzone z piasków gliniastych, całkowite lub niecałkowite, na iłach. Występują na terenach płaskich, ale nisko położonych. Okresowo są zbyt wilgotne. Ślady oglejenia występują nie wyżej niż na głębokości 80 cm. Poziom próchniczny o miąższości 30–40 cm, o zabarwieniu szarym. Są to gleby łatwe do uprawy, ciepłe i czynne, ale ich uziarnienie i niewłaściwe stosunki wodne sprawiają, że wybór roślin jest ograniczony. Można je zaliczyć do średnich gleb żytnio-ziemniaczanych.
-Klasa V Karpaty Wschodnie z Podkarpaciem Północnym
+Czarne ziemie wytworzone z piasków gliniastych, całkowite lub niecałkowite, na iłach. Występują na terenach płaskich, ale nisko położonych. Okresowo są zbyt wilgotne. Ślady oglejenia występują nie wyżej niż na głębokości 80 cm. Poziom próchniczny o miąższości 30–40 cm, o zabarwieniu szarym. Są to gleby łatwe do uprawy, ciepłe i czynne, ale ich uziarnienie i niewłaściwe stosunki wodne sprawiają, że wybór roślin jest ograniczony. Można je zaliczyć do średnich gleb żytnio-ziemniaczanych. Klasa V Karpaty Wschodnie z Podkarpaciem Północnym
 a)
 Czarne ziemie pyłowe lub wytworzone z glin niezbyt ciężkich, całkowite lub niecałkowite. Są położone w bezodpływowych zagłębieniach o wysokim poziomie wód gruntowych (bez możliwości melioracji). Wiosną lub jesienią mogą tworzyć się wymoki. Oglejenie trwałe występuje od głębokości 50 cm. Plony roślin uprawnych mogą być zawodne. Powinny być wykorzystane raczej jako łąki trwałe lub pastwiska trwałe.
 b)
@@ -2336,14 +2244,18 @@ c)
 Czarne ziemie wytworzone z glin ciężkich lub iłów. Są położone w zagłębieniach gruntu, podmokłe (bez możliwości melioracji). Są oglejone już na głębokości około 40 cm. Są to gleby bardzo słabe, trudne do uprawy, zimne i nieczynne, o bardzo ograniczonym wyborze roślin. Nadają się raczej pod łąki trwałe lub pastwiska trwałe.
 d)
 Czarne ziemie zdegradowane, wytworzone z piasków słabo gliniastych, całkowite lub niecałkowite. W podłożu może występować piasek luźny lub żwir. Poziom próchniczny o miąższości 30–40 cm, o zabarwieniu szarym. Są to gleby łatwe do uprawy, ale ubogie w składniki pokarmowe, często kwaśne, zbyt przepuszczalne. Wykazują skłonność przesychania i rozpylania. W latach meteorologicznie korzystnych można je traktować jako słabe gleby żytnio-ziemniaczane.
+M. Gleby bagienne i pobagienne
 Klasa V Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
-Gleby torfowo-murszowe, zmeliorowane, poziom próchniczny, murszowy, o miąższości 20 – 30 cm. Są położone na wysokości 450 – 600 m n.p.m. Warstwa torfu średnio rozłożonego o miąższości około 50 – 100 cm zalega na podłożu gliniastym lub ilastym oglejonym, często z domieszką żwiru lub kamieni (otoczaków). Gleby te nadają się pod uprawę niektórych warzyw, owsa lub roślin pastewnych.
-Klasa VI Karpaty Zachodnie z Podkarpaciem Zachodnim
+Gleby torfowo-murszowe, zmeliorowane, poziom próchniczny, murszowy, o miąższości 20 – 30 cm. Są położone na wysokości 450 – 600 m n.p.m. Warstwa torfu średnio rozłożonego o miąższości około 50 – 100 cm zalega na podłożu gliniastym lub ilastym oglejonym, często z domieszką żwiru lub kamieni (otoczaków). Gleby te nadają się pod uprawę niektórych warzyw, owsa lub roślin pastewnych. Klasa VI Karpaty Zachodnie z Podkarpaciem Zachodnim
 a)
 Gleby torfowo-murszowe, zmeliorowane, poziom próchniczny, murszowy, o miąższości 20–30 cm, takie jak gleby gatunku a w klasie V, ale położone w wąskich zacienionych dolinach lub powyżej 600 m n.p.m.
+Grunty zrekultywowane
+Ogólna charakterystyka klas bonitacyjnych gruntów zrekultywowanych z przeznaczeniem na grunty orne
 Klasa IIIa Grunty zrekultywowane dobre Do klasy tej zaliczane są najlepsze grunty zrekultywowane, o uziarnieniu piasków gliniastych mocnych, glin lekkich, glin średnich pylastych, utworów lessowych, lessowatych lub pyłowych. Występują one w dobrych warunkach fizjograficznych, na równinach lub bardzo łagodnych pochyłościach, na obszarach o dobrych warunkach klimatycznych. Mają dobrze wykształcony poziom próchniczny, odtworzony metodami technicznymi lub w wyniku wieloletniej intensywnej uprawy roślin, w szczególności motylkowych. Są zasobne w składniki pokarmowe dla roślin, łatwe w uprawie, właściwie uwilgotnione, niezaskorupiające się. Odczyn tych utworów glebowych jest zbliżony do obojętnego (pH 6,5 – 7,2), a w dolnej części profilu glebowego najczęściej występuje węglan wapnia. Nadają się pod uprawę wszystkich roślin uprawnych, a plonowanie roślin w małym stopniu zależy od pogody. Od gruntów ornych naturalnych zaliczanych do klas I i II różnią się mniejszą aktywnością biologiczną. Klasa IIIb Grunty zrekultywowane średnio dobre Grunty tej klasy swoimi właściwościami, przydatnością rolniczą i położeniem są zbliżone do gruntów klasy IIIa, ale mają nieco gorsze właściwości fizyczne, są w wierzchnich warstwach bardziej przepuszczalne lub nieco zwięźlejsze. Poziom próchniczny w gruntach tej klasy jest z reguły słabiej wykształcony w porównaniu do gruntów klasy IIIa. Klasa IVa Grunty zrekultywowane średniej jakości, lepsze Do klasy IVa zalicza się szereg gruntów o zbliżonej wartości, ale o różnych właściwościach fizyczno-chemicznych. Występują tu grunty zrekultywowane lekkie o dobrze wykształconym poziomie próchnicznym, łatwe w uprawie, oraz grunty zrekultywowane zwięzłe, o widocznych oznakach wadliwości wynikającej z nadmiernej zwięzłości lub słabiej wykształconego poziomu próchnicznego (zlewność, zaskorupienie, pękanie), co powoduje, że są one trudne w uprawie. W klasie tej występują grunty zbliżone budową do gruntów wymienionych w klasie IIIb, ale są położone w mniej korzystnych warunkach (na stokach o wystawie północnej lub północno-wschodniej o nachyleniu 6 – 10°, spągi głębszych wyrobisk). Dobór roślin uprawnych jest tu częściowo ograniczony, a wysokość i wierność ich plonowania zależy w dużym stopniu od pogody. Klasa IVb Grunty zrekultywowane średniej jakości, gorsze Do klasy IVb zalicza się grunty zrekultywowane, najczęściej wadliwe: od zbyt suchych do zbyt wilgotnych. Należą tu grunty lekkie piaskowe oraz grunty ciężkie: gliniaste lub ilaste. Zróżnicowanie właściwości chemicznych gruntów tej klasy jest duże: od zakwaszonych i wyługowanych do alkalicznych i zasobnych w składniki niezbędne dla roślin. Wspólną cechą gruntów zaliczanych do tej klasy są duże wahania plonów, uzależnione w szczególności od ilości i rozkładu opadów atmosferycznych. Dobór roślin uprawnych dla tych gruntów jest bardzo ograniczony i zależy on głównie od ich właściwości fizyczno-chemicznych. Klasa V Grunty zrekultywowane słabe Grunty tej klasy charakteryzują się niską urodzajnością. Należą tu głównie utwory bardzo lekkie lub lekkie: piaski słabo gliniaste lub piaski gliniaste, zalegające płytko na utworach bardzo lekkich. Grunty tej grupy są nadmiernie przepuszczalne i słabo zatrzymują wodę, są, najczęściej okresowo, rzadziej trwale, za suche. Grunty te są ubogie w składniki pokarmowe potrzebne do rozwoju roślin, a niedobór wody ogranicza działanie nawozów mineralnych. Dobór roślin uprawnych jest niewielki: żyto, owies, ziemniaki, seradela, łubin. Plony roślin zależą w dużym stopniu od ilości i rozkładu opadów atmosferycznych. Drugą grupę gruntów zaliczanych do tej klasy stanowią utwory zwięzłe, położone na terenach o utrudnionym odpływie wód powierzchniowych, o małym zaawansowaniu procesów glebotwórczych lub płytko zalegające na utworach przepuszczalnych. Dobór roślin dla tych gruntów jest wyraźnie ograniczony, a plony są niepewne. Grunty te są bardzo trudne do uprawy. Klasa VI Grunty zrekultywowane najsłabsze Do klasy VI zalicza się grunty bardzo słabe, wadliwe, na których uprawiać można tylko niektóre gatunki roślin, a plony są niskie i niepewne. Grunty stale za suche lub trwale podmokłe można zaliczyć do tej klasy, jeżeli jest to podyktowane wyłącznie względami organizacyjnymi, tj. gleby te występują w postaci drobnych konturów w obrębie gleb ornych.
+Gatunki gleb gruntów zrekultywowanych
 Gatunki gleb ustala się zgodnie z zasadami określonymi w części I w dziale I w rozdziale 3.
+Zaliczanie gruntów zrekultywowanych do poszczególnych klas bonitacyjnych
 Klasa IIIa
 a)
 Piaski gliniaste mocne, niecałkowite, na glinach lub iłach. Zwięzłe podłoże występuje nie głębiej niż 60 – 80 cm. Poziom próchniczny o miąższości około 30 cm, barwy ciemnoszarej lub szarobrunatnej w stanie świeżym, dobrze wykształcony w wyniku wieloletniej uprawy roślin, strukturalny.
@@ -2360,8 +2272,7 @@ Lessy całkowite. Poziom próchniczny o miąższości około 25 cm, barwy szarej
 g)
 Ziemia próchniczna lub ziemia popłuczkowa z gorzelni lub cukrowni, zalegające na głębokości 50 – 60 cm, np. na wapnie defekacyjnym. Uziarnienie ziemi próchnicznej lub popłuczkowej: piasek gliniasty mocny, glina lekka, glina lekka pylasta lub utwór pyłowy. Powierzchnia terenu z nawiezioną ziemią próchniczna dobrze wyrównana.
 h)
-Ziemia próchniczna lub ziemia popłuczkowa z gorzelni lub cukrowni, zalegające na głębokości 40 – 50 cm na piaskach gliniastych lub glinie. Uziarnienie ziemi próchnicznej lub popłuczkowej: piasek gliniasty mocny, glina lekka lub utwór pyłowy. Powierzchnia terenu dobrze wyrównana.
-Klasa IIIb
+Ziemia próchniczna lub ziemia popłuczkowa z gorzelni lub cukrowni, zalegające na głębokości 40 – 50 cm na piaskach gliniastych lub glinie. Uziarnienie ziemi próchnicznej lub popłuczkowej: piasek gliniasty mocny, glina lekka lub utwór pyłowy. Powierzchnia terenu dobrze wyrównana. Klasa IIIb
 a)
 Piaski gliniaste lekkie, niecałkowite, na glinach lub iłach. Zwięzłe podłoże występuje nie głębiej niż 60 – 80 cm. Poziom próchniczny o miąższości 30 cm, barwy szarej, dobrze wykształcony w wyniku wieloletniej uprawy roślin, strukturalny. Nadają się pod uprawę większości roślin uprawnych.
 b)
@@ -2383,8 +2294,7 @@ Lessy niecałkowite, na przepuszczalnym podłożu zalegającym na głębokości 
 j)
 Ziemia próchniczna lub ziemia popłuczkowa z gorzelni lub cukrowni, zalegające na głębokości 40 – 50 cm na wapnie defekacyjnym. Uziarnienie ziemi próchnicznej lub popłuczkowej: piasek gliniasty lekki lub mocny, glina lekka, glina lekka pylasta lub utwór pyłowy. Powierzchnia terenu z nawiezioną ziemią popłuczkowa dobrze wyrównana.
 k)
-Ziemia próchniczna lub ziemia popłuczkowa z gorzelni lub cukrowni, zalegające na głębokości 30 – 40 cm na piaskach gliniastych lub glinie. Uziarnienie ziemi próchnicznej lub popłuczkowej: piasek gliniasty lekki lub mocny, glina lekka lub utwór pyłowy, zależnie od uziarnienia poziomu próchnicznego gleb, z których pochodzi. Powierzchnia terenu z nawiezioną ziemią popłuczkowa dobrze wyrównana.
-Klasa IVa
+Ziemia próchniczna lub ziemia popłuczkowa z gorzelni lub cukrowni, zalegające na głębokości 30 – 40 cm na piaskach gliniastych lub glinie. Uziarnienie ziemi próchnicznej lub popłuczkowej: piasek gliniasty lekki lub mocny, glina lekka lub utwór pyłowy, zależnie od uziarnienia poziomu próchnicznego gleb, z których pochodzi. Powierzchnia terenu z nawiezioną ziemią popłuczkowa dobrze wyrównana. Klasa IVa
 a)
 Piaski gliniaste lekkie pylaste, całkowite. Poziom próchniczny o miąższości 30 cm, barwy szarej, gorzej wykształcony niż na gruntach klas wyższych, strukturalny. Występują na terenach warunkujących dobry stan uwilgotnienia do rozwoju roślin uprawnych. Łatwe w uprawie, ale wymagają wysokiego nawożenia mineralnego.
 b)
@@ -2436,8 +2346,7 @@ Ziemia próchniczna, zalegająca na głębokości 30 – 40 cm na wapnie defekac
 za)
 Ziemia próchniczna lub ziemia popłuczkowa z gorzelni lub cukrowni, zalegające na głębokości 25–35 cm na piaskach gliniastych lub glinie. Uziarnienie ziemi próchnicznej lub popłuczkowej: piasek gliniasty mocny, glina lekka lub utwór pyłowy. Powierzchnia terenu dobrze wyrównana.
 zb)
-Ziemia próchniczna lub ziemia popłuczkowa z cukrowni lub gorzelni, zalegające na głębokości 50–60 cm na przepuszczalnym podłożu. Uziarnienie ziemi próchnicznej lub popłuczkowej: piasek gliniasty mocny, glina lekka lub utwór pyłowy. Powierzchnia terenu dobrze wyrównana.
-Klasa IVb
+Ziemia próchniczna lub ziemia popłuczkowa z cukrowni lub gorzelni, zalegające na głębokości 50–60 cm na przepuszczalnym podłożu. Uziarnienie ziemi próchnicznej lub popłuczkowej: piasek gliniasty mocny, glina lekka lub utwór pyłowy. Powierzchnia terenu dobrze wyrównana. Klasa IVb
 a)
 Piaski słabo gliniaste, niecałkowite, na glinach. Glina występuje na głębokości 40 – 60 cm. Poziom próchniczny o miąższości 25 – 30 cm, barwy szarej, wykształcony. Występują na terenach płaskich.
 b)
@@ -2487,8 +2396,7 @@ Lżejsze odmiany glin ciężkich, zalegających na utworach zwięzłych, z niewi
 z)
 Ziemia próchniczna lub ziemia popłuczkowa z gorzelni lub cukrowni, zalegające na głębokości 20 – 30 cm na wapnie defekacyjnym. Uziarnienie ziemi próchnicznej lub popłuczkowej: piasek gliniasty mocny, glina lekka pylasta lub utwór pyłowy. Powierzchnia terenu z nawiezioną ziemią popłuczkową dobrze wyrównana.
 za)
-Ziemia próchniczna lub ziemia popłuczkowa z gorzelni lub cukrowni, zalegające na głębokości 40 – 50 cm na przepuszczalnym podłożu. Uziarnienie ziemi próchnicznej lub popłuczkowej: piasek gliniasty mocny, glina lekka lub utwór pyłowy. Powierzchnia terenu dobrze wyrównana.
-Klasa V
+Ziemia próchniczna lub ziemia popłuczkowa z gorzelni lub cukrowni, zalegające na głębokości 40 – 50 cm na przepuszczalnym podłożu. Uziarnienie ziemi próchnicznej lub popłuczkowej: piasek gliniasty mocny, glina lekka lub utwór pyłowy. Powierzchnia terenu dobrze wyrównana. Klasa V
 a)
 Piaski słabo gliniaste, całkowite. Poziom próchniczny o miąższości odpowiadającej głębokości orki, barwy szarej, słabo wykształcony. Występują na terenach płaskich, są korzystnie uwilgotnione.
 b)
@@ -2542,8 +2450,7 @@ Ziemia próchniczna lub ziemia popłuczkowa z cukrowni, zalegające na głęboko
 zb)
 Ziemia próchniczna lub ziemia popłuczkowa z gorzelni lub cukrowni, zalegające na głębokości 30–40 cm na przepuszczalnym podłożu. Uziarnienie ziemi próchnicznej lub popłuczkowej: piasek gliniasty, glina lekka lub utwór pyłowy. Powierzchnia terenu dobrze wyrównana.
 zc)
-Zrekultywowane osady wapienne po flotacji rud siarkonośnych. Poziom próchniczny o miąższości około 30 cm, dobrze wykształcony. Uwilgotnienie właściwe.
-Klasa VI
+Zrekultywowane osady wapienne po flotacji rud siarkonośnych. Poziom próchniczny o miąższości około 30 cm, dobrze wykształcony. Uwilgotnienie właściwe. Klasa VI
 a)
 Piaski słabo gliniaste, całkowite. Poziom próchniczny o miąższości około 25 cm, barwy szarej lub szarożółtej, słabo wykształcony, słabo strukturalny. Położone na terenach płaskich. Trwale lub okresowo suche.
 b)
@@ -2562,21 +2469,34 @@ h)
 Gliny ciężkie lub iły, od powierzchni silnie zakwaszone, występujące na terenach zwałowisk górnictwa odkrywkowego. Poziom próchniczny o miąższości 20 – 25 cm, słabo wykształcony, bezstrukturalny. Dają niskie plony, wyjątkowo trudne do uprawy. Wymagają melioracyjnego wapnowania.
 i)
 Zrekultywowane osady wapienne po flotacji rud siarkonośnych. Poziom próchniczny o miąższości około 25 cm, dobrze wykształcony. Uwilgotnienie właściwe.
+Łąki trwałe i pastwiska trwałe
+Ogólna charakterystyka klas bonitacyjnych gleb łąk trwałych i pastwisk trwałych
+Tereny nizinne i wyżynne
 Klasa I Gleby najlepsze Łąki trwałe i pastwiska trwałe usytuowane na glebach mineralnych, średnio zwięzłych, głębokich, zasobnych w próchnicę, o trwałej strukturze gruzełkowo-ziarnistej, przewiewne, przepuszczalne, zasobne w składniki odżywcze. Łąki trwałe i pastwiska trwałe zaliczane do klasy I powinny spełniać następujące warunki: wysoki naturalny potencjał produkcyjny; występowanie wielogatunkowych naturalnych zbiorowisk roślinnych trawiastych lub koniczynowo-trawiastych z dominacją (ponad 80%) wartościowych traw pastewnych i koniczyn, z udziałem 10 – 15% ziół bez turzyc, sitów, chwastów szerokolistnych oraz mało wartościowych traw; występowanie zwartego i równego zadarnienia; łatwa dostępność przy użytkowaniu (brak zarośli i kamieni) i zabiegach pielęgnacyjnych oraz brak lub minimalna ilość urządzeń melioracyjnych ze względu na korzystny układ stosunków wodnych; występowanie użyźniających zalewów w okresach niepowodujących przerw w eksploatacji użytku; zasilanie przeważnie zalewami wód żyznych, natlenionych, z łatwym dopływem i odpływem. Zalewy, jeżeli występują, wnoszą przynajmniej 70% składników odżywczych, niezbędnych dla otrzymania właściwego plonu. Darń jest równa i gładka. Warunki pozwalają na dowolną uprawę i zbiór całkowicie zmechanizowany. W składzie przeważają trawy bardzo dobre, takie jak: wyczyniec łąkowy Alopecurus pratensis, wiechlina łąkowa Poa pratensis, kostrzewa łąkowa Festuca pratensis, życica trwała Lolium perenne, konietlica łąkowa Trisetum flavescens oraz rośliny motylkowe takie jak: koniczyna łąkowa Triolium pratense, koniczyna biała Trifolium repem, koniczyna białoróżowa (szwedzka) Trifolium hybridum. Łąki przeważnie trzykośne. Pastwiska występujące wyjątkowo w tej klasie umożliwiają czterokrotne spasanie. Do klasy I gleb łąk trwałych i pastwisk trwałych należy zaliczyć w szczególności łąki trwałe i pastwiska trwałe zalewne na madach średnich, lekkich pyłowych lub pylastych, ciężkich pylastych, strukturalnych, na utworach pyłowych oraz gradowe śródpolne na piaskach gliniastych mocnych, zalegających na podłożu gliniastym lub glinach z domieszką piasku, często zawierających węglan wapnia, na utworach pyłowych i podobnych, zasilane przeważnie zalewami żyzną wodą z pól z łatwym odpływem. Klasa II Gleby bardzo dobre Łąki trwałe i pastwiska trwałe na glebach mineralnych lub mułowo-torfowych o właściwościach i położeniu podobnych jak w klasie I, ale nieco gorszych warunkach siedliskowych, florystycznych oraz produkcyjnych, bez pełnej możliwości regulacji stosunków wodnych. Potencjał produkcyjny jest oceniany na poziomie 3,5 – 4,0 t/ha bardzo dobrego lub dobrego siana. Dostępność przy użytkowaniu bardzo dobra, urządzenia melioracyjne występują sporadycznie. Przy wyodrębnianiu, identyfikowaniu i kwalifikowaniu łąk trwałych i pastwisk trwałych do klasy II należy zwrócić uwagę na zróżnicowanie siedlisk i zbiorowisk roślinnych, powodowanych większą amplitudą wahań uwilgotnienia, spowodowaną zarówno zróżnicowaniem zalewów powierzchniowych, jak również zasilaniem gruntowym i właściwościami wodnymi gleb. Do klasy II łąk trwałych i pastwisk trwałych zalicza się: obszary obecnie pozbawione systematycznego użyźniania przez wody powierzchniowe, ale o bardzo dobrych glebach próchnicznych, żyznych i zasobnych w składniki pokarmowe; obszary z występującymi zalewami użyźniającymi, ale których obsychanie wiosną jest stosunkowo szybkie, gdyż gleby, na których są położone łąki trwałe i pastwiska trwałe, są bardziej przepuszczalne, a w lecie okresowo nawet za suche, co powoduje, że zbiorowiska roślinne porastające te obszary są wartościowe, ale mniej żywotne w porównaniu do klasy I; obszary z występującymi zalewami, ale gleby na tych obszarach są zwięzłe, silnie próchniczne, oglejone poniżej 60 cm, w związku z tym skład botaniczny zbiorowisk jest bardziej uproszczony, darń mniej zwarta, plony umiarkowane, pasza wartościowa, ale nieco gorsza w porównaniu ze stanowiskami suchszymi. Zbiorowiska roślinne na łąkach trwałych i pastwiskach trwałych naturalnych lub tylko sporadycznie nawożonych, kwalifikujące się do klasy II są tak samo wartościowe jak w klasie I, ale ruń jest mniej żywotna i bardziej zróżnicowana. W składzie runi bardzo dobre i dobre trawy oraz rośliny motylkowe stanowią więcej niż 50%. Ziół i chwastów jest mniej niż 36%, w tym turzyc nie więcej niż 5%. W składzie dominują trawy bardzo dobre i dobre, takie jak: mozga trzcinowata Phalaris arundinacea, bekmania robaczkowata Beckmania eruciformis, wyczyniec łąkowy Alopecurus pratensis, wiechlina błotna Poa palustris, wiechlina łąkowa Poa pratensis, życica trwała Lolium perenne, tymotka łąkowa Phleum pratense, konietlica łąkowa Trisetum flavescens, rajgras wyniosły Arrhenatherum elatius, kupkówka pospolita Dactylis glomerata, stokłosa bezostna Bromus inermis, oraz rośliny motylkowe, takie jak: koniczyna łąkowa Trifolium pratense, koniczyna biała Trifolium repem, koniczyna białoróżowa (szwedzka) Trifolium hybridum, komonica błotna Lotus uliginosus, komonica rożkowa Lotus corniculatus, groszek łąkowy Latyrus pratensis, wyka ptasia Vicia cracca. Łąki co najmniej dwukośne, a pastwiska występujące w tej klasie mają wydajność pozwalającą na czterokrotne spasanie. Należy tu zaliczyć gleby użytków zielonych nadrzeczne, zalewne i gradowe śródpolne użyźniane wodami powierzchniowymi, ale z mniej korzystnym układem stosunków wodnych niż w klasie I, zalewy, jeżeli występują, wnoszą przynajmniej 50% składników odżywczych, niezbędnych do otrzymania właściwego plonu. Odpływ wody dobry, darń zwarta, gładka. Warunki pozwalają na dowolną uprawę i pełny zbiór mechaniczny. W zasadzie wszystkie zbiorowiska roślinne na łąkach trwałych i pastwiskach trwałych, które kwalifikują się do klasy II, bardzo dobrze reagują na nawożenie i można na nich zwiększyć dwukrotnie plon przez zastosowanie odpowiedniego nawożenia i racjonalnie prowadzone zabiegi pielęgnacyjne. Klasa III Gleby dobre Łąki trwałe i pastwiska trwałe na glebach mineralnych mułowo-torfowych o właściwościach fizycznych i chemicznych gorszych niż w klasie I i II oraz na glebach torfowych torfów niskich o uregulowanych stosunkach wodnych i glebach torfowo-murszowych. Łąki trwałe i pastwiska trwałe kwalifikujące się do tej klasy, pod względem genezy, warunków wodno-glebowych oraz pokrywy roślinnej, reprezentują dwa typy obiektów. Pierwszy z nich reprezentują łąki trwałe i pastwiska trwałe położone w dolinach równinnych, wyścielonych utworami akumulacji organicznej (torfy i namuły organiczne), które po melioracji są przeważnie umiarkowanie wilgotne, z występującym co kilka lat zalewem powierzchniowym po wiosennych roztopach. Dobre stosunki wodno-powietrzne gleb organicznych (torfowo-murszowych) przy średnio intensywnym nawożeniu zapewniają znaczną trwałość i wierność wysokiego plonowania. Na użytkach tych występują zbiorowiska trawiaste (najczęściej wiechlinowo-wyczyńcowe), powstałe w wyniku sukcesji sztucznych zbiorowisk, uzyskanych przez zasiew mieszanek w trakcie zagospodarowania pomelioracyjnego. Drugi typ to łąki trwałe i pastwiska trwałe położone na terenach zalewowych rzek oraz w małych dolinach śródpolnych, w których można wyróżnić dwa rodzaje siedlisk: siedliska wilgotniejsze, wolno obsychające wiosną, częściej zalewane, w lecie przeważnie umiarkowanie wilgotne, o glebach średnio zwięzłych lub zwięzłych, silnie próchnicznych, oglejonych na głębokości 40–50 cm, oraz siedliska umiarkowanie wilgotne, w lecie raczej okresowo za suche, przeważnie niezalewane lub rzadko zalewane. Łąki trwałe i pastwiska trwałe zaliczane do klasy III mają równy i łatwy dostęp, który okresowo mogą utrudniać, np. roztopy. W składzie runi oprócz traw wymienionych w klasie I i II dominują gatunki dobrej i średniej wartości, w szczególności: mozga trzcinowata Phalaris arundinacea, manna jadalna Glyceria fluitans, mietlica biaława Agrostis gigantea, kostrzewa trzcinowata Festuca arundinacea, Wiechlina zwyczajna Poa trivialis, grzebienica pospolita Cynosurus cristatus, kostrzewa czerwona Festuca rubra, mietlica pospolita Agrostis capillaris. W składzie runi traw bardzo dobrych i dobrych oraz roślin motylkowatych jest więcej niż 15%, główną masę roślinności stanowią trawy średniej jakości. Ziół i chwastów wraz z turzycami i trawami średniej i gorszej jakości jest nie więcej niż 85%, w tym turzyc nie więcej niż 50% i chwastów nie więcej niż 35%. Do tej klasy zaliczyć należy: gleby łąk trwałych i pastwisk trwałych z grupy zalewnych gradowych w gorszych położeniach i o gorszych warunkach odpływu oraz gleby terenów pobagiennych o właściwych stosunkach wodnych. Klasa IV Gleby średniej jakości Łąki trwałe i pastwiska trwałe kwalifikujące się do klasy IV są obszarowo najliczniejsze i reprezentują siedliska charakteryzujące się zmiennym uwilgotnieniem i dużą różnorodnością gleb organicznych, mineralno-organicznych i mineralnych. Są to w szczególności gleby mineralne, murszowe na podłożu mineralnym, mułowe, torfowo-murszowe, zbliżone właściwościami fizycznymi i chemicznymi do klasy II, ale występujące na gorszych stanowiskach, utrudniających zagospodarowanie ze względu na np. zakrzaczenie, większą ilość kamieni i pni, ukształtowanie terenu bądź utrudniony dostęp. Stosunki wodne panujące na glebach tej klasy bywają wadliwe, gleby mogą być okresowo za suche lub nadmiernie uwilgocone. W trakcie zalewów, które mogą utrudniać właściwe użytkowanie tych obszarów, woda ma utrudniony odpływ i pozostaje na powierzchni przez kilkanaście dni. Na łąkach trwałych i pastwiskach trwałych klasy IV uwilgotnienie w ciągu okresu wegetacyjnego uzależnione jest od zasilania gruntowego i warunków pogodowych oraz właściwości wodnych gleb, co pozwala na utrzymanie względnie trwałych zbiorowisk trawiastych. Naturalny potencjał produkcyjny siedlisk kwalifikujących się do klasy IV jest niski. Siano jest niskiej lub średniej wartości paszowej, a jego plon zależy od stosunków wilgotnościowych panujących w danym roku. Dzięki istniejącym urządzeniom melioracyjnym i systematycznym zabiegom pielęgnacyjnym (zwłaszcza nawożeniu) oraz prawidłowemu użytkowaniu, na części użytków klasy IV można osiągnąć wyższe plony. Po zaprzestaniu nawożenia i zabiegów pielęgnacyjnych użytki te szybko ulegają daleko posuniętej degradacji runi i darni, a użytkowanie ich może być nieopłacalne. Łąki tej klasy są przeważnie jednokośne. W składzie runi występują w niewielkiej ilości trawy dobre i bardzo dobre, natomiast przeważają trawy średniej i gorszej jakości, turzyce i chwasty, które stanowią około 90% masy roślinnej. Wśród traw dominują trawy średniej i gorszej wartości pastewnej, takie jak: manna mielec Glyceria aąuatica, manna jadalna Glyceria fluitans, mietlica rozłogowa Agrostis stolonifera, kostrzewa trzcinowata Festuca arundinacea, trzęślica modra Molinia caerulea, Wiechlina zwyczajna Poa trivialis, izgrzyca przyziemna Danthonia decumbens, tomka wonna Anthoxanthum odoratum, drżączka średnia Briza media, śmiałek darniowy Deschampsia caespitosa, kostrzewa czerwona Festuca rubra, owsica omszona Avenula pubescens, kłosówka wełnista Holcus lanatus, mietlica pospolita Agrostis capillaris. Klasa V Gleby słabe Łąki trwałe i pastwiska trwałe zaliczane do klasy V charakteryzują się w szczególności trwałym, wadliwym układem warunków wodnych. Mogą być one zbyt suche lub zbyt wilgotne w okresie wegetacyjnym. Uprawa łąk trwałych i zbiór mechaniczny są bardzo utrudnione. Woda przeważnie podtapia teren; jeżeli nawet jest to woda zalewowa, nie polepsza ona jakości zbiorów. Powierzchnia jest nierówna i kępiasta. Łąki trwałe i pastwiska trwałe tej klasy usytuowane są na słabo próchniczych, ubogich w składniki pokarmowe glebach mineralnych, na glebach mułowo-torfowych przesuszonych i zbyt mokrych, na glebach torfowych o utrudnionym użytkowaniu i glebach torfowych zdegradowanych. Czynnikami obniżającymi wartość tych siedlisk są w szczególności zakrzaczenie, obecność pni i kamieni, niekorzystne ukształtowanie terenu i inne. Najczęściej w klasie V klasyfikowane są łąki jednokośne, turzycowe i trawiaste, zachwaszczone. W składzie runi przeważają turzyce i gorsze trawy. Traw bardzo dobrych i dobrych jest zaledwie od 5 do 6%. Trawy średniej i gorszej jakości pastewnej stanowią domieszkę (do 20%). Wśród grupy traw dominują trawy gorszej lub złej wartości paszowej, takie jak: trzęślica modna Molinia caerulea, śmiałek darniowy Deschampsia caespitosa bliźniaczka psia trawka Nardus stricta, izgrzyca przyziemna Danthonia decumbens, kłosówka wełnista Holcus lanatus, drżączka średnia Briza media, owsica omszona Avenula pubescens, kostrzewa owcza Festuca ovina. Klasa VI Gleby najsłabsze Łąki trwałe i pastwiska trwałe kwalifikujące się do tej klasy to w większości siedliska ubogie, a równocześnie krańcowo różne pod względem uwilgotnienia, tj. za mokre lub za suche, o zróżnicowanych zbiorowiskach roślinnych. Występują na glebach murszowych mocno zdegradowanych, na glebach mineralnych i wytworzonych z torfów stale podtapianych. Zbiór siana odbywa się w trudnych warunkach i nie co roku, a zbiór mechaniczny jest wręcz niemożliwy. Wspólną cechą tych siedlisk jest mała żyzność i przydatność rolnicza, wyrażająca się bardzo niską produkcyjnością i mało wartościową paszą. W runi dominują turzyce, sity, chwasty, sitowia i trawy złej jakości, w tym: śmiałek darniowy Deschampsia caespitosa, bliźniaczka psia trawka Nardus stricta, kłosówka wełnista Holcus lanatus, owsica omszona Avenula pubescens, stokłosa miękka Bromus hordeaceus.
+Tereny górskie
 Klasa I Gleby najlepsze Łąki trwałe i pastwiska trwałe nie występują w tej klasie na terenach górskich. Klasa II Gleby bardzo dobre Na terenach górskich do klasy II można zaliczyć niektóre łąki trwałe i pastwiska trwałe położone na żyznych glebach mineralnych występujących na obszarze kotlin śródgórskich do wysokości 500 m n.p.m. Klasa III Gleby dobre Na terenach górskich do klasy III należy zaliczyć łąki trwałe i pastwiska trwałe na najlepszych glebach mineralnych położonych w strefie od 500 do ponad 1000 m n.p.m. Są to dobre łąki dwukośne. Skład runi w dużym stopniu zależy od wystawy i układu stosunków geomorfologicznych, jednak nie występuje wśród nich śmiałek łąkowy i turzyce. Klasa IV Gleby średniej jakości Na terenach górskich łąki trwałe i pastwiska trwałe klasy IV występują przeważnie do wysokości 950 m n.p.m. Położone są na glebach gorszej jakości w porównaniu do gleb klasy III. Nachylenie stoku nie przekracza 25°. Skład roślin podobny do klasy III, uzależniony od warunków siedliskowych. Klasa V Gleby słabe Na terenach górskich do tej klasy zaliczamy łąki trwałe i pastwiska trwałe użytkowane głównie jako pastwiska trudno dostępne, występujące na stokach o nachyleniu do 20° i na wysokości do 800 m n.p.m. Klasa VI Gleby najsłabsze Do klasy VI na terenach górskich należy zaliczyć łąki trwałe i pastwiska trwałe położone na stokach o nachyleniu powyżej 20° i wysokości ponad 800 m n.p.m. oraz wszystkie łąki trwałe i pastwiska trwałe położone na wysokości 1000 m n.p.m. niezależnie od nachylenia terenu i jakości gleby.
+Typy gleb łąk trwałych i pastwisk trwałych
+Tereny nizinne i wyżynne
 BZ. Gleby brunatne i gleby rdzawe BZ(G). Gleby brunatne glejowe CZ. Czarnoziemy CZ(G). Czarnoziemy glejowe DZ. Czarne ziemie DZ(G). Czarne ziemie glejowe EZ. Gleby bagienne i pobagienne FZ. Mady FZ(G). Mady glejowe GZ. Rędziny GZ(G). Rędziny glejowe
+Tereny górskie
 HZ. Gleby inicjalne IZ. Gleby brunatne, gleby płowe i gleby bielicowe IZ(G). Gleby brunatne glejowe, gleby płowe glejowe i gleby bielicowe glejowe JZ. Mady JZ(G). Mady glejowe KZ. Rędziny LZ. Czarne ziemie MZ. Gleby bagienne i pobagienne
+Gatunki gleb łąk trwałych i pastwisk trwałych
 Gatunki gleb ustala się zgodnie z zasadami określonymi w części I w dziale I w rozdziale 3.
+Zaliczanie gleb łąk trwałych i pastwisk trwałych terenów nizinnych i wyżynnych do poszczególnych klas bonitacyjnych
+Klasa I
+CZ. Czarnoziemy
 a)
 Czarnoziemy wytworzone z lessów całkowitych. Poziom próchniczny o miąższości około 50 cm lub głębszy, o strukturze gruzełkowatej. Poziom wody gruntowej w granicach 20 – 60 cm w ciągu okresu wegetacyjnego. Oglejenie słabo zaznaczone występuje poniżej głębokości 60 cm.
 b)
 Czarnoziemy namyte, na przepuszczalnym podłożu. Poziom próchniczny o miąższości 100 cm lub głębszy. Struktura wierzchnich warstw gruzełkowata. Węglan wapnia występuje zwykle w profilu glebowym. Poziom wody gruntowej w granicach 60–120 cm w ciągu okresu wegetacyjnego. Oglejenie słabo zaznaczone występuje poniżej głębokości 60 cm.
+DZ. Czarne ziemie
 a)
 Czarne ziemie wytworzone z glin marglistych, średnio zwięzłe, przewiewne i przepuszczalne. Poziom próchniczny o miąższości ponad 50 cm, o zabarwieniu matowo-czarnym i strukturze gruzełkowato-ziarnistej. Poziom wody gruntowej w granicach 60 – 120 cm w ciągu okresu wegetacyjnego. Słabe oglejenie występuje poniżej głębokości 60 cm.
 b)
 Czarne ziemie wytworzone z utworów pyłowych wodnego pochodzenia lub utworów lessowych, lessowatych lub namytych. Poziom próchniczny o miąższości około 50 cm. Inne cechy takie jak u gleb gatunku a w tym oddziale.
 c)
 Czarne ziemie wytworzone z piasków gliniastych mocnych pylastych, zalegających na podłożu gliniastym, glinach z domieszką piasku lub na utworach pyłowych. Inne cechy takie u jak gleb gatunku a w tym oddziale.
+FZ. Mady
 a)
 Mady średnie, głównie pyłowe, próchniczne, o miąższości co najmniej 100 cm. Występować w nich mogą cienkie warstewki piasku. Struktura gruzełkowata, przepuszczalność i przewiewność dobra. Poziom próchniczny o miąższości ponad 50 cm, o barwie od czarnej do ciemnobrunatnej. Poziom wody gruntowej w granicach 60 – 120 cm w ciągu okresu wegetacyjnego. Oglejenie słabo zaznaczone występuje w niższych częściach profilu glebowego, poniżej głębokości 60 cm. W podłożu zwykle piasek. Odczyn w częściach powierzchniowych obojętny, a niżej obojętny lub lekko alkaliczny.
 b)
@@ -2585,6 +2505,8 @@ c)
 Mady lekkie, pyłowe, próchniczne. Inne cechy takie jak u gleb gatunku a w tym oddziale.
 d)
 Niektóre mady ciężkie, pylaste, próchniczne, strukturalne. Inne cechy takie jak u gleb gatunku a w tym oddziale.
+Klasa II
+BZ. Gleby brunatne i gleby rdzawe
 a)
 Gleby brunatne wytworzone z glin, lekkie lub średnie, całkowite. Skałę macierzystą tych gleb stanowią najczęściej gliny zwałowe margliste, zasobne w składniki odżywcze. Podłoże jest przepuszczalne. Poziom próchniczny o miąższości około 25–35 cm, dobrze wykształcony, o strukturze gruzełkowatej. Na głębokości 40 – 50 cm występuje oglejenie z rdzawymi plamami. Poziom wody gruntowej w granicach 40–150 cm w ciągu okresu wegetacyjnego.
 b)
@@ -2597,12 +2519,14 @@ e)
 Gleby brunatne lessowe lub lessowate, całkowite, namyte. Inne cechy takie jak u gleb gatunku d w tym oddziale.
 f)
 Gleby brunatne lessowe lub lessowate, niecałkowite, o miąższości ponad 120 cm, położone w dogodnych warunkach wilgotnościowych na przepuszczalnym podłożu. Poziom próchniczny o miąższości 25–35 cm, dobrze wykształcony. Oglejenie występuje poniżej głębokości 40 cm.
+CZ. Czarnoziemy
 a)
 Czarnoziemy wytworzone z lessów, niecałkowite, o miąższości warstwy lessowej 60 – 80 cm, zalegającej na piasku, żwirze lub wapieniu. Poziom próchniczny o miąższości 35 – 50 cm. Poniżej widoczne oglejenie. Poziom wody gruntowej w granicach 40–150 cm w ciągu okresu wegetacyjnego.
 b)
 Czarnoziemy wytworzone z lessów, niecałkowite, zalegające na podłożu z gliny ciężkiej lub iłu. W zależności od przepuszczalności podłoża miąższość warstwy lessowej w granicach 60 – 100 cm. Dolne części lessu, poniżej głębokości 40 cm, są oglejone. Poziom wody gruntowej w granicach 60 – 120 cm w ciągu okresu wegetacyjnego.
 c)
 Czarnoziemy namyte, na mniej przepuszczalnym podłożu niż w klasie I. Poziom próchniczny podobny do poziomu gleb gatunku b w oddziale 1 w rozdziale 1. Poziom wody gruntowej w granicach 40 – 120 cm w ciągu okresu wegetacyjnego.
+DZ. Czarne ziemie
 a)
 Czarne ziemie lekkie lub średnie, wytworzone z glin całkowitych. Poziom próchniczny o miąższości ponad 40 cm. Poziom wody gruntowej w granicach 40 – 150 cm w ciągu okresu wegetacyjnego. Oglejenie wyraźne z rdzawymi plamami występuje poniżej poziomu próchnicznego.
 b)
@@ -2611,8 +2535,10 @@ c)
 Czarne ziemie wytworzone z utworów pyłowych wodnego pochodzenia lub utworów lessowych, lessowatych lub namytych. Poziom próchniczny o miąższości około 40 cm. Poziom wody gruntowej w granicach 40 – 150 cm w ciągu okresu wegetacyjnego. Oglejenie występuje poniżej głębokości 40 cm.
 d)
 Czarne ziemie lekkie, niecałkowite, wytworzone z piasków gliniastych zalegających na zwięźlejszym podłożu, występującym nie głębiej niż 100 cm. Poziom wody gruntowej w granicach 40 – 100 cm w ciągu okresu wegetacyjnego. Oglejenie występuje poniżej głębokości 40 cm.
+EZ. Gleby bagienne i pobagienne
 a)
 Gleby mułowo-torfowe o warstwie mułowej nie płytszej od 40 cm i uziarnieniu pyłów lub glin lekkich pylastych, zalegające na torfie. Poziom wody gruntowej w granicach 40–100 cm w ciągu okresu wegetacyjnego.
+FZ. Mady
 a)
 Mady średnie, próchniczne takie jak gleby gatunku a w klasie I w oddziale 3, ale poziom wody gruntowej w granicach 40 – 150 cm w ciągu okresu wegetacyjnego, a oglejenie występuje poniżej głębokości 40 cm.
 b)
@@ -2629,6 +2555,8 @@ g)
 Mady próchniczne lub mady brunatne, ciężkie, o dobrze wykształconym, strukturalnym poziomie próchnicznym. Poziom wody gruntowej w granicach 40 – 150 cm w ciągu okresu wegetacyjnego.
 h)
 Mady średnie lub ciężkie, średnio głębokie, na piasku lub torfie. Poziom wody gruntowej w granicach 40 – 100 cm w ciągu okresu wegetacyjnego. Oglejenie strefowe lub całkowite występuje poniżej głębokości 40 cm.
+Klasa III
+BZ. Gleby brunatne i gleby rdzawe
 a)
 Gleby żwirowe, gliniaste, całkowite, z domieszką części pyłowych. Poziom próchniczny o miąższości nie mniejszej niż 30 cm, wykształcony. Wiosną czasem występują żyzne zalewy. Poziom wody gruntowej wiosną na głębokości 40 cm, latem spada do 120 cm. Oglejenie występuje poniżej głębokości 40 cm.
 b)
@@ -2647,26 +2575,31 @@ h)
 Gleby brunatne lessowe lub lessowate, całkowite, takie jak gleby gatunku d i e w rozdziale 2 w oddziale 1, będące w gorszych warunkach wilgotnościowych. Oglejenie wyraźne występuje poniżej głębokości 40 cm.
 i)
 Gleby brunatne lessowe lub lessowate, niecałkowite, takie jak gleby gatunku f w rozdziale 2 w oddziale 1, będące w gorszych warunkach wilgotnościowych. Oglejenie wyraźne występuje poniżej głębokości 40 cm.
+BZ(G). Gleby brunatne glejowe
 a)
 Gleby brunatne wytworzone z glin ciężkich lub iłów (również pylastych), całkowite, z dobrze wykształconym poziomem próchnicznym. Poziom wody gruntowej na głębokości 40 – 150 cm w ciągu okresu wegetacyjnego. Oglejenie występuje poniżej głębokości 30 cm.
 b)
 Gleby brunatne wytworzone z glin ciężkich lub iłów (również pylastych), niecałkowite, zalegające na przepuszczalnym podłożu, występującym na głębokości około 80 – 120 cm. Poziom próchniczny dobrze wykształcony. Poziom wody gruntowej w granicach 40 – 150 cm w ciągu okresu wegetacyjnego. Oglejenie występuje poniżej głębokości 30 cm.
+CZ(G). Czarnoziemy glejowe
 a)
 Czarnoziemy wytworzone z lessów, niecałkowite, na iłach. W podłożu występuje ił zwięzły, nieprzepuszczalny, na głębokości 40–80 cm. Próchnica w dolnej części profilu glebowego wykazuje oznaki storfienia. Oglejenie występuje pod poziomem próchnicznym. Poziom wody gruntowej w granicach 40 – 150 cm w ciągu okresu wegetacyjnego.
 b)
 Czarnoziemy namyte, zalegające na trudno przepuszczalnym podłożu, oglejone pod poziomem próchnicznym. Poziom wody gruntowej w granicach 40 – 150 cm w ciągu okresu wegetacyjnego.
+DZ. Czarne ziemie
 a)
 Czarne ziemie ciężkie, całkowite, wytworzone z glin ciężkich lub iłów. Poziom próchniczny o miąższości około 30 cm, o zabarwieniu czarnym lub ciemnoszarym. Poziom wody gruntowej w granicach 40 – 120 cm w ciągu okresu wegetacyjnego. Poniżej głębokości 40 cm występuje oglejenie z rdzawymi plamami. Uwilgotnienie może być okresowo niewłaściwe (za mokro lub za sucho).
 b)
 Czarne ziemie ciężkie, niecałkowite, wytworzone z glin ciężkich lub iłów, zalegających na przepuszczalnym podłożu, występującym nie głębiej niż na głębokości 100 cm. Poziom próchniczny i inne cechy takie jak u gleb gatunku a w tym oddziale.
 c)
 Czarne ziemie wytworzone z utworów pyłowych wodnego pochodzenia lub utworów lessowych, lessowatych lub namytych. Poziom próchniczny o miąższości około 30 cm. Poziom wody gruntowej w granicach 40 – 140 cm w ciągu okresu wegetacyjnego, powoduje okresowo nadmierne uwilgotnienie, innym razem nadmierne wysychanie.
+DZ(G). Czarne ziemie glejowe
 a)
 Czarne ziemie całkowite, wytworzone z piasków słabo gliniastych lub gliniastych lekkich. Poziom próchniczny o miąższości około 40 cm. Wyraźne oglejenie występuje od głębokości 40 cm. Poziom wody gruntowej w granicach 40 – 120 cm w ciągu okresu wegetacyjnego.
 b)
 Czarne ziemie lekkie, niecałkowite, wytworzone z piasków słabo gliniastych lub piasków gliniastych lekkich, zalegających na zwięźlejszym podłożu (np. glinie, utworach pyłowych). Inne cechy takie jak u gleb gatunku a w tym oddziale.
 c)
 Czarne ziemie średnie lub ciężkie, wytworzone z glin lub iłów. Inne cechy takie jak u gleb gatunku a w tym oddziale.
+EZ. Gleby bagienne i pobagienne
 a)
 Gleby mułowo-torfowe o warstwie mułowej nie płytszej niż 25 cm, o uziarnieniu piasku gliniastego lub gliny. Poziom wody gruntowej w granicach 30 – 120 cm w ciągu okresu wegetacyjnego.
 b)
@@ -2683,18 +2616,22 @@ g)
 Gleby mineralno-murszowe na zwięźlejszym podłożu. Gleby te mają właściwe stosunki wodne.
 h)
 Gleby murszowate wytworzone z piasków gliniastych na utworach średnio zwięzłych, glin lub utworów pyłowych. Gleby te są dobrze uwilgotnione. Poziom wody gruntowej nie opada poniżej 100 cm w ciągu okresu wegetacyjnego.
+FZ. Mady
 a)
 Mady lekkie, średnio głębokie lub głębokie na piasku. Poziom próchniczny o miąższości 25 – 30 cm, dobrze wykształcony. Okresowo za suche lub za wilgotne. Zalewy powodują niekiedy intensywne zamulenie siana. Oglejenie plamiste występuje poniżej 40 cm.
 b)
 Mady średnie, pyłowe, o miąższości warstwy pyłowej około 50–60 cm, na piasku luźnym lub słabo gliniastym. Inne cechy takie jak u gleb gatunku a w tym oddziale.
 c)
 Mady ciężkie, ilaste, płytkie (do głębokości 50 cm), na piasku. Inne cechy takie jak u gleb gatunku a w tym oddziale.
+FZ(G). Mady glejowe
 a)
 Mady pyłowe, gliniaste lekkie lub średnie, niecałkowite, zalegające na warstwach lżejszych, przepuszczalnych, piaszczystych. Poziom wody gruntowej utrzymuje się wysoko, w granicach 30–60 cm. Oglejenie poniżej głębokości 30 cm. Gleby te są zamulane podczas zalewów.
 b)
 Mady pyłowe, gliniaste lekkie lub średnie, niecałkowite, zalegające na warstwach cięższych, mniej przepuszczalnych. Inne cechy takie jak u gleb gatunku a w tym oddziale.
 c)
 Mady ciężkie, słabo strukturalne. Inne cechy takie jak u gleb gatunku a w tym oddziale.
+Klasa IV
+BZ. Gleby brunatne i gleby rdzawe
 a)
 Gleby brunatne wytworzone z piasków słabo gliniastych lub piasków słabo gliniastych pylastych, całkowite, na glinach, iłach lub utworach pyłowych (less). Wymienione w rozdziale 3 w oddziale 1, ale znajdujące się w mniej korzystnym położeniu i warunkach wilgotnościowych. Oglejenie występuje poniżej głębokości 40 cm.
 b)
@@ -2703,6 +2640,7 @@ c)
 Gleby brunatne wytworzone z ciężkich glin lub iłów, również pylastych, niecałkowite, zalegające na lżejszym, przepuszczalnym podłożu występującym na głębokości ponad 100 cm. Uwilgotnienie zmienne. Mogą być okresowo za suche.
 d)
 Gleby brunatne pyłowe (również lessowe lub lessowate), całkowite lub niecałkowite, na różnych podłożach. Poziom wód gruntowych zbyt niski.
+BZ(G). Gleby brunatne glejowe
 a)
 Gleby brunatne żwirowe, gliniaste, całkowite lub niecałkowite, takie jak wymienione w rozdziale 3 w oddziale 1, znajdujące się w gorszych warunkach wilgotnościowych. Oglejenie występuje poniżej głębokości 30 cm.
 b)
@@ -2711,10 +2649,13 @@ c)
 Gleby brunatne wytworzone z ciężkich glin lub iłów (również pylastych), niecałkowite, zalegające na lżejszym przepuszczalnym podłożu, występującym na głębokości ponad 100 cm. Poziom próchniczny dobrze wykształcony. Oglejenie występuje poniżej głębokości 25 cm. Gleby za mokre.
 d)
 Gleby brunatne wytworzone z utworów pyłowych (również lessowe lub lessowate), całkowite lub niecałkowite, na różnych podłożach, znajdujące się na terenach bezodpływowych. Oglejenie występuje poniżej głębokości 25 cm. Poziom wód gruntowych zmienny, na ogół zbyt wysoki.
+CZ(G). Czarnoziemy glejowe
 a)
 Czarnoziemy namyte, znajdujące się na terenach bezodpływowych. Oglejenie występuje poniżej poziomu próchniczego. Poziom wody gruntowej w granicach od 25 – 200 cm w ciągu okresu wegetacyjnego.
+DZ. Czarne ziemie
 a)
 Czarne ziemie wytworzone z piasków gliniastych, zalegających na piaskach luźnych, oglejonych na głębokości 50 cm. Poziom próchniczny o miąższości 25 – 30 cm.
+DZ(G). Czarne ziemie glejowe
 a)
 Czarne ziemie wytworzone z piasków luźnych lub słabo gliniastych, całkowite. Poziom próchniczny o miąższości około 40 cm. Poniżej występuje Oglejenie. Poziom wody gruntowej w granicach 25 – 120 cm w ciągu okresu wegetacyjnego.
 b)
@@ -2723,6 +2664,7 @@ c)
 Czarne ziemie ciężkie, całkowite lub niecałkowite, występujące na terenach bezodpływowych. Poziom próchniczny o miąższości do 30 cm. Poniżej występuje oglejenie strefowe lub całkowite. Poziom wody gruntowej w granicach 30 – 180 cm w ciągu okresu wegetacyjnego.
 d)
 Czarne ziemie murszaste, wytworzone z piasków gliniastych. Poziom próchniczny o miąższości około 40 cm. Poniżej występuje wyraźne oglejenie. Poziom wody gruntowej w granicach 30 – 120 cm w ciągu okresu wegetacyjnego.
+EZ. Gleby bagienne i pobagienne
 a)
 Gleby mułowo-torfowe o warstwie mułowej około 25 cm i uziarnieniu piasku luźnego lub piasku słabo gliniastego. Poziom wody gruntowej w granicach 40 – 60 cm w ciągu okresu wegetacyjnego. Latem mogą być zbyt suche.
 b)
@@ -2747,28 +2689,36 @@ k)
 Gleby murszaste wytworzone z piasków gliniastych. Poziom organiczny o miąższości ponad 25 cm, o gruzełkowatej strukturze. Uwilgotnienie umiarkowane lub zmienne.
 l)
 Gleby murszowate lub murszaste, wytworzone z utworów pyłowych lub gliniastych, zalegających na piaskach luźnych. Uwilgotnienie zmienne. Okresowo zbyt suche.
+FZ. Mady
 a)
 Mady lekkie, zalegające na piasku luźnym, występującym na głębokości około 50 – 60 cm, okresowo zalewane. Poziom próchniczny o miąższości 25 – 30 cm. Okresowo za suche. Oglejenie występuje poniżej głębokości 40 cm.
+FZ(G). Mady glejowe
 a)
 Mady lekkie, zalegające na piasku luźnym na głębokości około 50 – 60 cm, podlegające zalewom. Poziom próchniczny o miąższości 25 – 30 cm. Okresowo za wilgotne. Oglejenie występuje poniżej głębokości 30 cm.
 b)
 Mady ciężkie zalegające na piasku, występującym na głębokości 50 – 80 cm. W wierzchnich warstwach słabo strukturalne, o wadliwych właściwościach fizycznych, na sucho pękają, na mokro mażą się. Oglejenie występuje poniżej głębokości 25 cm.
 c)
 Mady glejowe, o gliniastym ciężkim lub ilastym uziarnieniu warstw powierzchniowych, zalegające na lżejszym materiale, lekkie, średnie lub ciężkie, płytkie lub średnio głębokie na piaszczystym podłożu. Okresowo zbyt silnie uwilgotnione. Poziom wody gruntowej w granicach 30 – 50 cm w ciągu okresu wegetacyjnego. Oglejenie występuje poniżej głębokości 25 cm. Zamulenie zbiorów zachodzi podczas każdorazowych wylewów.
+GZ. Rędziny
 a)
 Rędziny zwięzłe, występujące na terenach niskich. Poziom próchniczny o miąższości 25 – 30 cm, wykształcony. Twarda skała na głębokości poniżej głębokości 35 cm.
 b)
 Rędziny namyte, płytkie lub średnio głębokie, na trudno przepuszczalnym podłożu, występujące na terenach warunkujących okresowo nadmierny stan uwilgotnienia.
+Klasa V
+BZ. Gleby brunatne i gleby rdzawe
 a)
 Gleby brunatne żwirowe, całkowite lub niecałkowite, słabo gliniaste, pozbawione żyznych zalewów, na nieprzepuszczalnych ułożonych nieckowato glinach lub iłach, niemające przez to odpływu wód gruntowych. W okresach obfitujących w opady utrzymuje się wysoki stan wody gruntowej, powodujący podtopienie całego profilu glebowego. W okresach suchych poziom wody gruntowej opada nawet poniżej 120 cm, powodując przesuszanie gleby.
+BZ(G). Gleby brunatne glejowe
 a)
 Gleby brunatne wytworzone z ciężkich glin lub iłów, całkowite lub niecałkowite, na różnych podłożach, podmokłe. Oglejenie i konkrecje żelaziste występują bezpośrednio pod płytkim poziomem próchnicznym.
+DZ(G). Czarne ziemie glejowe
 a)
 Czarne ziemie wytworzone z piasków luźnych lub słabo gliniastych, całkowite, o stale za wysokim poziomie wód gruntowych. W poziomie próchnicznym występuje storfiała próchnica. Położone w zagłębieniach bezodpływowych. Oglejenie występuje powyżej głębokości 20 cm, wyraźnie zaznaczone. W podłożu występują warstwy rudawca. Gleby te mogą przesychać w lecie.
 b)
 Czarne ziemie wytworzone z piasków słabo gliniastych, podmokłych, niecałkowite, na glinach lub iłach. Woda gruntowa utrzymuje się na wysokim poziomie w okresach opadów, natomiast w okresach suchych spada poniżej 200 cm. Oglejenie występuje od powierzchni. Stosunki wodne są trudne do uregulowania. W poziomie próchnicznym występuje storfiała próchnica. Gleby te są położone w zagłębieniach bezodpływowych. Oglejenie występuje powyżej głębokości 20 cm, wyraźnie zaznaczone. W podłożu występują warstwy rudawca. Gleby te mogą przesychać w lecie.
 c)
 Czarne ziemie ciężkie, o wysokim poziomie wody gruntowej sięgającym pod powierzchnię i słabym odpływie. W okresach suchych poziom wody gruntowej spada do głębokości 120 cm.
+EZ. Gleby bagienne i pobagienne
 a)
 Gleby mułowo-torfowe o warstwie namułowej ilastej około 50 cm miąższości, oglejonej. Poziom wody gruntowej w granicach 0 – 120 cm w ciągu okresu wegetacyjnego.
 b)
@@ -2809,26 +2759,35 @@ t)
 Gleby murszaste różniące się od gleb gatunku p w tym oddziale tym, że w podłożu występuje utwór zwięźlejszy (glina, ił lub utwór pyłowy).
 u)
 Gleby o różnym uziarnieniu. W poziomie darniowym znaczna zawartość substancji organicznej słabo zhumifikowanej. Bezpośrednio pod tym poziomem występuje silne oglejenie. Poziom wody gruntowej wysoki, rzadko spada poniżej głębokości 60 cm.
+FZ. Mady
 a)
 Mady średnie, pyłowe, płytkie, na piasku luźnym, za suche.
+FZ(G). Mady glejowe
 a)
 Mady lekkie, piaszczyste, płytkie, na utworach ilastych. Oglejenie występuje w całym profilu glebowym. Poziom wody gruntowej przeważnie wysoki, wiosną sięga powierzchni gleby, a latem spada do głębokości 150 cm.
 b)
 Mady ciężkie, głębokie, bez przewarstwień, o lżejszym uziarnieniu. Oglejenie występuje powyżej głębokości 20 cm, z rdzawymi plamami. Poziom wody gruntowej w granicach 0 – 80 cm w całym okresie wegetacyjnym. W stanie suchym pękają, a w stanie wilgotnym pęcznieją.
+GZ. Rędziny
 a)
 Rędziny wymienione w rozdziale 4 w oddziale 9 oraz rędziny innych formacji geologicznych, będące w gorszych warunkach wilgotnościowych. Poziom próchniczny o miąższości do 25 cm, słabiej wykształcony. Są to gleby szkieletowe.
+GZ(G). Rędziny glejowe
 a)
 Rędziny namyte, płytkie, na podłożu trudno przepuszczalnym, podmokłe, wysoko oglejone do głębokości 20 cm.
+Klasa VI
+BZ. Gleby brunatne i gleby rdzawe
 a)
 Gleby brunatne żwirowe, całkowite lub niecałkowite, wymienione w rozdziale 5 w oddziale 1, z kamieniami na powierzchni, trudno dostępne, zakrzaczone.
 b)
 Gleby piaszczyste. Oglejone w całym profilu glebowym. Poziom wody gruntowej przeważnie wysoki, okresowo do powierzchni.
+BZ(G). Gleby brunatne glejowe
 a)
 Gleby brunatne wytworzone z glin ciężkich lub iłów, całkowite lub niecałkowite, wymienione w rozdziale 5 w oddziale 2, trudno dostępne, zakrzaczone.
+DZ(G). Czarne ziemie glejowe
 a)
 Czarne ziemie wytworzone z piasków luźnych lub piasków słabo gliniastych, całkowite, o stale za wysokim poziomie wody gruntowej. W poziomie próchnicznym występuje storfiała próchnica. Położone w zagłębieniach bezodpływowych. Oglejenie występuje powyżej głębokości 20 cm, wyraźnie zaznaczone. W podłożu występują warstwy rudawca. Gleby te są trudno dostępne, zakrzaczone.
 b)
 Czarne ziemie wytworzone z piasków luźnych lub piasków słabo gliniastych, podmokłe, niedostatecznie przewiewne. Poziom próchniczny o miąższości około 25 cm. Oglejenie występuje od powierzchni. Gleby te występują w obniżeniach, a niekiedy na zboczach i stokach o nachyleniu do 10°. Poziom wody gruntowej może być okresowo zmienny.
+EZ. Gleby bagienne i pobagienne
 a)
 Gleby torfowe zamulane, takie jak gleby gatunku a w rozdziale 5 w oddziale 4, zakrzaczone, trudno dostępne.
 b)
@@ -2845,67 +2804,99 @@ g)
 Gleby murszowe na podłożu mineralnym takie jak gleby gatunku g i h w rozdziale 5 w oddziale 4, o zakrzaczonej powierzchni lub trwale obniżonym poziomie wody, przyczyniającym się do zaniku roślinności i powstawania rozpylonych powierzchni obnażonych.
 h)
 Gleby torfowe wytworzone z torfów torfowisk przejściowych lub wysokich, z typową roślinnością dla wymienionych typów torfowisk.
+FZ. Mady
 a)
 Mady bardzo lekkie, płytkie, na piasku luźnym lub piaski rzeczne o bardzo zmiennym uwilgotnieniu. Okresowo zbyt suche.
 b)
 Mady wymienione w rozdziale 5 w oddziale 5, zakrzaczone, trudno dostępne.
+FZ(G). Mady glejowe
 a)
 Mady piaszczyste, oglejone od powierzchni w całym profilu glebowym. Poziom wody gruntowej wysoki, sięgający do powierzchni. Powierzchnie silnie zakrzaczone, trudno dostępne.
 b)
 Mady takie jak gleby gatunku a i b w rozdziale 5 w oddziale 5, zakrzaczone, trudno dostępne.
+GZ. Rędziny
 a)
 Rędziny takie jak gleby gatunku a w rozdziale 5 w oddziale 7, zakrzaczone, trudno dostępne.
+GZ(G). Rędziny glejowe
 a)
 Rędziny występujące na zboczach wzniesień, silnie szkieletowe.
+Zaliczanie gleb łąk trwałych i pastwisk trwałych terenów górskich do poszczególnych klas bonitacyjnych
+Klasa II
+JZ. Mady
 a)
 Mady średnie, o miąższości ponad 100 cm, podobne do gleb gatunku a i b w dziale IV w rozdziale 1 w oddziale 3, występujące w dolinach rzek i na obszarze kotlin śródgórskich, położone nie wyżej niż 400 m n.p.m. Poziom wody gruntowej w granicach 60 – 120 cm w całym okresie wegetacyjnym. Oglejenie występuje poniżej głębokości 50 cm.
 b)
 Mady próchniczne, średnie, głównie pyłowe, głębokie, o miąższości ponad 100 cm, strukturalne, z występującymi w profilu glebowym cienkimi warstwami piasku. Poziom próchniczny o miąższości około 50 cm, barwy czarnej do ciemnobrązowej. Poziom wody gruntowej w granicach 60 – 120 cm w ciągu okresu wegetacyjnego. Poniżej głębokości 60 cm może występować oglejenie plamiste, słabo zaznaczone. W podłożu zwykle piasek. Występują w dolinach rzek.
 c)
 Mady średnie, pyłowe, o miąższości do 100 cm, poniżej podłoże piaszczyste. Poziom próchniczny o miąższości poniżej 50 cm, barwy ciemnobrunatnej, ograniczonej do warstwy darniowej. Poniżej, od głębokości 60 cm w dół, utwór pyłowy lekko oglejony. Poziom wody gruntowej w granicach 50 – 100 cm w ciągu okresu wegetacyjnego. Występują w dolinach rzek.
+LZ. Czarne ziemie
 a)
 Czarne ziemie wytworzone z utworów pyłowych lub glin marglistych, występujące na obszarze kotlin śródgórskich nie wyżej niż 400 m n.p.m. Są to gleby średnio zwięzłe, przewiewne i przepuszczalne. Poziom próchniczny o miąższości ponad 50 cm. Poziom wody gruntowej w granicach 60–100 cm w ciągu okresu wegetacyjnego. Oglejenie plamiste występuje poniżej głębokości 50 cm.
+Klasa III
+JZ. Mady
 a)
 Mady lekkie lub średnie, strukturalne, o miąższości ponad 100 cm, położone powyżej 400 m n.p.m., zawierające domieszkę żwiru lub kamieni. Poziom wody gruntowej w granicach 40 – 120 cm w ciągu okresu wegetacyjnego. Czasem plony niskie z powodu zalewów.
 b)
 Mady ciężkie, średnio głębokie, z wkładkami żwirowo-kamienistymi, zalegające na luźnym piaszczystym lub żwirowym podłożu. Poziom wody gruntowej w granicach 30 – 100 cm w ciągu okresu wegetacyjnego.
+LZ. Czarne ziemie
 a)
 Czarne ziemie podobne do gleb gatunku a w rozdziale 1 w oddziale 2, o gorszych stosunkach wodnych, okresowo zbyt silnie uwilgotnione i silnie oglejone lub czarne ziemie takie jak gleby gatunku a w rozdziale 1 w oddziale 2, położone powyżej 400 m n.p.m.
+Klasa IV
 IZ. Gleby brunatne, gleby płowe i gleby bielicowe
 a)
 Gleby brunatne pyłowe lub ilaste pylaste, wytworzone z fliszu. Poziom próchniczny o miąższości około 20 – 25 cm. Podłoże zwięźlejsze, mało przepuszczalne, na głębokości 40 – 50 cm. Położone na wysokości 500 – 950 m n.p.m. na stokach o nachyleniu mniejszym niż 35°.
+JZ. Mady
 a)
 Mady lekkie, średnie lub ciężkie, o miąższości 40 – 80 cm. Często z otoczakami w profilu glebowym. Poziom próchniczny o miąższości 20 – 25 cm. Wydajność ograniczona na skutek zalewów.
+JZ(G). Mady glejowe
 a)
 Mady oglejone, o średnim lub ciężkim uziarnieniu, występujące na obszarze kotlin śródlądowych, nie wyżej niż 600 m n.p.m.
+KZ. Rędziny
 a)
 Rędziny przeważnie z domieszką obcego materiału, szkieletowe. Należą tu również rędziny wytworzone z iłów wapniowcowych, piaskowców wapnistych lub łupków wapnistych. Skała lita na głębokości 35 – 50 cm. Przeważnie występują na nich pastwiska górskie.
+MZ. Gleby bagienne i pobagienne
 a)
 Gleby torfowe wytworzone z torfów torfowisk niskich, są zmeliorowane lub nie wymagają melioracji. Warstwy powierzchniowe dobrze rozłożone. Występują na obszarach kotlin śródgórskich, na wysokości nie wyżej niż 400 m n.p.m.
+Klasa V
+HZ. Gleby inicjalne
 a)
 Gleby słabo wykształcone o różnym uziarnieniu, szkieletowe. Położone na stokach o nachyleniu ponad 35° i nie wyżej niż 800 m n.p.m.
 IZ. Gleby brunatne, gleby płowe i gleby bielicowe
 a)
 Gleby brunatne ilaste pylaste lub gliniaste, wietrzeniowe, płytkie, często ze znaczną zawartością szkieletu. W podłożu, na głębokości poniżej 40 cm, występuje piaskowiec lub inna skała lita. Położone na stokach o nachyleniu mniejszym niż 35°, występują na wysokościach 750 – 1000 m n.p.m.
+JZ. Mady
 a)
 Mady górskie, szkieletowe, głębokie, z małą ilością materiału ziemistego. Poziom próchniczny słabo wykształcony.
+IZ(G). Mady glejowe
 a)
 Mady glejowe (gleby mułowo-bagienne) takie jak gleby gatunku a w rozdziale 3 w oddziale 2, położone powyżej 600 m n.p.m., z porostem turzycowym, wełniankowym, skrzypowym lub podobnym, właściwym młakom górskim, użytkowym.
+KZ. Rędziny
 a)
 Rędziny podobne do gleb gatunku b w rozdziale 3 w oddziale 4, położone na stokach o nachyleniach większych od 20° lub mniejszych od 20°, gdy wzniesienie wynosi powyżej 1000 m n.p.m.
+MZ. Gleby bagienne i pobagienne
 a)
 Gleby torfowe takie jak gleby gatunku a w rozdziale 3 w oddziale 5, występujące na obszarze kotlin śródgórskich, powyżej 400 m n.p.m., z dużą ilością mchu oraz porostem turzyc i chwastów o charakterze młak w poroście, jednak koszonych na siano i spasanych.
+Klasa VI
+HZ. Gleby inicjalne
 a)
 Gleby o niewykształconym profilu glebowym, skaliste oraz szkieletowe, trudno dostępne, zakrzaczone. Położone na stokach o nachyleniu do 20° i powyżej 800 m n.p.m.
 IZ. Gleby brunatne, gleby płowe i gleby bielicowe
 a)
 Gleby brunatne ilaste pylaste lub gliniaste, wietrzeniowe, często ze znaczną zawartością szkieletu. W podłożu występuje piaskowiec lub inna skała lita. Położone na stokach o nachyleniu do 20° i powyżej 800 m n.p.m.
+KZ. Rędziny
 a)
 Rędziny podobne do gleb gatunku b w rozdziale 3 w oddziale 4, występujące na stokach o nachyleniach większych od 20° i powyżej 800 m n.p.m.
+MZ. Gleby bagienne
 a)
 Gleby torfowe powstałe z torfów torfowisk przejściowych lub wysokich, występujące na obszarze górskim bez względu na wysokość.
+Lasy
+Ogólna charakterystyka klas bonitacyjnych gleb gruntów leśnych
+Tereny nizinne i wyżynne
 Klasa I Gleby najlepsze Do klasy I zalicza się gleby brunatne, czarnoziemy zdegradowane, czarne ziemie, mady brunatne lub próchnicze, niektóre gleby bagienne odpowiadające na terenach nizinnych i wyżynnych klasie I i II, rzadziej IIIa i IIIb, gruntów ornych porośniętych przez zbiorowiska charakterystyczne dla lasu świeżego i lasu wilgotnego oraz klasie II i III łąk trwałych i pastwisk trwałych, które porastają olsy jesionowe i lasy łęgowe. Klasa II Gleby bardzo dobre Do klasy II należą gleby brunatne i gleby płowe, niektóre mady i rędziny oraz gleby bagienne wytworzone z namułów mineralnych lub organicznych odpowiadające na terenach nizinnych i wyżynnych klasie II – IVb gruntów ornych ze zbiorowiskami leśnymi charakterystycznymi dla lasu: mieszanego, łęgowego, świeżego i wilgotnego oraz klasie III łąk trwałych i pastwisk trwałych, na których występują olsy. Klasa III Gleby dobre Do klasy III zalicza się gleby brunatne, gleby płowe, gleby bielicowe, niektóre czarne ziemie, mady i rędziny oraz pobagienne gleby murszowe odpowiadające przeważnie klasie IVa i IVb, rzadziej klasie IIIa i IIIb oraz V, gruntów ornych ze zbiorowiskami charakterystycznymi dla lasów mieszanych, świeżych i łęgowych oraz borów mieszanych, a także klasy II i III łąk trwałych i pastwisk trwałych porośniętych olsami, olsami jesionowymi i lasami łęgowymi. Klasa IV Gleby średniej jakości Do klasy IV zalicza się gleby brunatne, gleby płowe, gleby rdzawe i gleby bielicowe, niektóre rędziny oraz gleby torfowe i murszowe, które odpowiadają klasie IVa i IVb oraz V gruntów ornych i klasie III – V łąk trwałych i pastwisk trwałych. Gleby te porastają zbiorowiska charakterystyczne dla lasów mieszanych i świeżych oraz borów mieszanych, borów mieszanych świeżych i borów świeżych, a także olsów w przypadku gleb bagiennych i pobagiennych. Klasa V Gleby słabe Do klasy V zalicza się najsłabsze gleby rdzawe, gleby bielicowe, rędziny, lekkie mady oraz gleby torfowe wytworzone z torfów torfowisk przejściowych, które odpowiadają klasie VI gruntów ornych i klasie V łąk trwałych i pastwisk trwałych. Rosną na nich bory świeże, bory wilgotne, bory mieszane świeże, bory mieszane wilgotne, a na terenach nadmiernie uwilgotnionych olsy i bory bagienne. Klasa VI Gleby najsłabsze Do klasy VI zaliczane są gleby bielicowe, porośnięte przez bory suche, oraz gleby torfowe wytworzone z torfów torfowisk wysokich, porośnięte przez zbiorowiska tworzące bory bagienne.
+Tereny górskie
 Klasa I Gleby najlepsze Na terenach górskich do tej klasy zaliczane są gleby brunatne odpowiadające klasie IIIa – IVb, rzadziej klasie II, gruntów ornych oraz łąk trwałych i pastwisk trwałych, porośnięte przez lasy górskie, lasy mieszane górskie i bory mieszane górskie. Klasa II Gleby bardzo dobre Na terenach górskich do tej klasy należą głównie gleby brunatne i gleby płowe odpowiadające klasie IIIa – IVb gruntów ornych i klasie III i IV łąk trwałych i pastwisk trwałych terenów górskich. Porastają je lasy górskie, lasy mieszane górskie, bory mieszane górskie i bory górskie. Klasa III Gleby dobre Na terenach górskich do tej klasy należą gleby brunatne i gleby bielicowe, które odpowiadają klasie IVa – V gruntów ornych, porośnięte przez lasy mieszane górskie, bory mieszane górskie i bory górskie. Klasa IV Gleby średniej jakości Na terenach górskich są to głównie gleby brunatne i gleby bielicowe odpowiadające klasie IVa – V gruntów ornych oraz klasie IV i V łąk trwałych i pastwisk trwałych, które znajdują się głównie pod borami górskimi. Klasa V Gleby słabe Na terenach górskich do tej klasy zalicza się przeważnie gleby silnie szkieletowe odpowiadające klasie VI gruntów ornych oraz łąk trwałych i pastwisk trwałych, które porastają bory górskie. Klasa VI Gleby najsłabsze Na terenach górskich do tej klasy zalicza się gleby inicjalne i słabo ukształtowane oraz gleby wytworzone z torfów torfowisk wysokich, odpowiadające nieużytkom oraz wszystkie gleby na stokach o nachyleniu 30 – 40°, podlegające silnej erozji lub zmywom.
+Typy gleb gruntów leśnych
+Tereny nizinne i wyżynne
 A.
 Gleby płowe i gleby bielicowe
 B.
@@ -2920,6 +2911,7 @@ F.
 Mady
 G.
 Rędziny
+Tereny górskie
 H.
 Gleby inicjalne
 I.
@@ -2932,30 +2924,38 @@ L.
 Czarne ziemie
 M.
 Gleby bagienne i pobagienne
+Gatunki gleb gruntów leśnych
 Gatunki gleb ustala się zgodnie z zasadami określonymi w części I w dziale I w rozdziale 3.
+Ustalanie typu siedliskowego lasu, jego drzewostanu, podszycia i runa na glebach gruntów leśnych
+Tereny nizinne i wyżynne
 Typ siedliskowy lasu: ols jesionowy – występuje na całym niżu, na terenach zalewowych. Drzewostan: olsza czarna, jesion, wiąz, dąb szypułkowy. Podszyt: czeremcha pospolita, grab, leszczyna, trzmielina, jarzębina, kruszyna. Runo: śledziennica skrętolistna, chmiel zwyczajny, kostrzewa olbrzymia, czyściec błotny, czyściec leśny, kosaciec żółty, kuklik pospolity, jaskier rozłogowy, szczyr trwały, kopytnik pospolity, pokrzywa zwyczajna, bodziszek cuchnący. Typ siedliskowy lasu: ols – występuje na całym niżu na niskich terenach. Drzewostan: olsza czarna, brzoza, brzoza brodawkowata, jesion. Podszyt: kruszyna, jarzębina, porzeczka czarna., krzaczaste formy wierzb. Runo: psianka słodkogórz, gorysz błotny, przytulia błotna, tojeść pospolita, konwalijka dwulistna, szczawik zajęczy, nerecznica krótkoostna. Typ siedliskowy lasu: las łęgowy – występuje na całym niżu, w dolinach rzek. Drzewostan: jesion, wiąz szypułkowy, dąb szypułkowy, topola biała. Podszyt: czeremcha pospolita, bez czarny, trzmielina, dereń świdwa, porzeczka czerwona. Runo: kostrzewa olbrzymia, bluszczyk kurdybanek, perz psi, kopytnik pospolity, miodunka ćma, szczaw gajowy, czyściec leśny, szczyr trwały, żywokost lekarski, ziarnopłon wiosenny, kokorycz pusta, kokorycz pełna, przytulia czepna, zawilec żółty. Typ siedliskowy lasu: las świeży – występuje na całym niżu. Drzewostan: dąb szypułkowy, lipa, klon pospolity, dąb bezszypułkowy, jawor, osika, brzoza brodawkowata, grab. Podszyt: leszczyna, trzmielina, kruszyna, głóg, dereń właściwy, kalina, czeremcha pospolita. Runo: marzanka wonna, gajowiec żółty, podagrycznik pospolity, nerecznica samcza, kostrzewa leśna, turzyca leśna, czworolist pospolity, groszek wiosenny, kokoryczka wielokwiatowa, kopytnik pospolity, miodunka ćma, zawilec gajowy, fiołek leśny, przylaszczka pospolita, dąbrówka rozłogowa. Typ siedliskowy lasu: las wilgotny – występuje na całym niżu. Drzewostan: dąb szypułkowy, lipa, klon pospolity, jesion, brzoza, osika, olsza czarna, grab, wierzba iwa. Podszyt: leszczyna, grab, kruszyna, czereśnia, trzmielina, jarzębina, czeremcha pospolita, suchodrzew. Runo: niecierpek pospolity, kostrzewa olbrzymia, kokoryczka wielokwiatowa, zawilec żółty, zerwą kłosowa, marzanka wonna, gajowiec żółty. Typ siedliskowy lasu: las mieszany – występuje na całym niżu. Drzewostan: dąb szypułkowy, dąb bezszypułkowy, sosna zwyczajna, brzoza brodawkowata, grab. Podszyt: leszczyna, kruszyna, trzmielina, jałowiec, jarzębina. Runo: przylaszczka pospolita, gwiazdnica wielkokwiatowa, zawilec gajowy, pszeniec gajowy, konwalijka dwulistna, konwalia majowa, poziomka pospolita. Typ siedliskowy lasu: bór świeży – występuje na całym niżu, woda gruntowa przeważnie poza zasięgiem profilu glebowego (200 cm). Siedlisko bardzo ubogie. Drzewostan: sosna zwyczajna, brzoza brodawkowata. Podszyt: jarzębina, dąb bezszypułkowy, brzoza, jałowiec, osika. Runo: borówka czarna, konwalia majowa, nawłoć pospolita, pszeniec pospolity, borówka brusznica, tomka wonna. Typ siedliskowy lasu: bór wilgotny – występuje na całym niżu, woda gruntowa poniżej 100 cm. Siedlisko bardzo ubogie. Drzewostan: jak w borze świeżym. Podszyt: kruszyna, jarzębina, jałowiec, osika. Runo: trzęślica modra, płonnik pospolity, borówka bagienna, bagno zwyczajne, torfowiec całolistny. Typ siedliskowy lasu: bór bagienny – występuje na całym niżu, na torfowiskach, woda gruntowa płytko (do 50 cm) lub średnio głęboko (50 – 100 cm). Siedlisko bardzo ubogie. Drzewostan: sosna zwyczajna, brzoza, brzoza omszona. Podszyt: kruszyna, wierzba szara, wierzba uszata, jarzębina. Runo: mchy torfowce, żurawina błotna, wełnianka pochwowata, borówka bagienna, bagno zwyczajne, borówka brusznica, borówka czarna. Typ siedliskowy lasu: bór mieszany świeży – występuje na całym niżu, woda gruntowa przeważnie poza zasięgiem profilu glebowego (200 cm). Drzewostan: sosna zwyczajna, dąb bezszypułkowy, brzoza brodawkowata, osika. Podszyt: jałowiec, jarzębina, kruszyna. Runo: konwalijka dwulistna, szczawik zajęczy, orlica pospolita, malina kamionka, borówka czarna, nawłoć pospolita, przetacznik leśny. Typ siedliskowy lasu: bór mieszany wilgotny – występuje na całym niżu, woda gruntowa w zasięgu profilu glebowego 100 – 200 cm. Położenie bardziej wilgotne niż boru świeżego. Drzewostan: sosna zwyczajna, dąb bezszypułkowy, brzoza brodawkowata, brzoza omszona. Podszyt: jarzębina, leszczyna. Runo: widłak jałowcowaty, tojeść pospolita, orlica pospolita, trzęślica modra, płonnik pospolity, borówka czarna. Typ siedliskowy lasu: bór suchy – występuje na całym niżu, woda gruntowa poza zasięgiem profilu glebowego (200 cm). Siedlisko bardzo ubogie. Drzewostan: sosna zwyczajna, sporadycznie brzoza brodawkowata. Podszyt: jałowiec, brzoza brodawkowata, sosna zwyczajna, jarzębina, wierzba piaskowa. Runo: chrobotki, szczotlicha siwa, macierzanka piaskowa, trzcinnik piaskowy, mącznica lekarska, borówka brusznica.
+Tereny górskie
 Typ siedliskowy lasu: las górski – na obszarach górskich, poniżej dolnej granicy regla górnego. Drzewostan: jodła, świerk, buk, jawor, osika, modrzew, sosna zwyczajna, klon zwyczajny, brzoza zwyczajna. Podszyt: bez koralowy, wiciokrzew czarny, leszczyna. Runo: żywiec cebulkowy i gruczołkowaty, marzanna wonna, przetacznik górski, zawilec leśny, kosmatka gajowa. Typ siedliskowy lasu: las mieszany górski – na obszarach górskich, poniżej dolnej granicy regla górnego. Drzewostan: buk, świerk, jodła, jawor, modrzew, sosna zwyczajna. Podszyt: bez koralowy oraz jawor, buk, świerk. Runo: starzec Fuchsa, starzec gajowy, zawilec gajowy, borówka czarna. Typ siedliskowy lasu: bór mieszany górski – na obszarach górskich, w strefie regla dolnego. Drzewostan: świerk, buk, jawor, jodła, modrzew, sosna zwyczajna. Podszyt: spotyka się niektóre z gatunków wymienionych wyżej w drzewostanie. Runo: Jastrzębiec leśny, borówka czarna, szczawik zajęczy, wątrobowiec, goryczka trojeściowa. Typ siedliskowy lasu: bór górski – na obszarze regla dolnego. Drzewostan: świerk, jarzębina. Podszyt: świerk, jarzębina. Runo: podbiałek alpejski, goryczka trojeściowa, borówka czarna, siódmaczek leśny, śmiałek pogięty, trzcinnik owłosiony. Typ siedliskowy lasu: bór wysokogórski – na obszarze regla górnego. Drzewostan: świerk. Podszyt: świerk, jarzębina, porzeczka skalna. Runo: podbiałek alpejski, kosmatka olbrzymia, goryczka trojeściowa, śmiałek pogięty, szczaw górski, ciemiężyca zielona, borówka czarna, mchy torfowce.
+Zaliczanie gleb gruntów leśnych terenów nizinnych i wyżynnych do poszczególnych klas bonitacyjnych
+Klasa I
+B. Gleby brunatne i gleby rdzawe
 a)
 Gleby brunatne właściwe lub wyługowane, wytworzone z lessów, całkowite lub niecałkowite, na glinach, iłach lub marglach, o miąższości co najmniej 120 cm, odpowiadające klasie II, rzadziej III gruntów ornych.
 b)
-Gleby brunatne właściwe lub wyługowane, wytworzone z utworów pyłowych wodnego pochodzenia, całkowite lub niecałkowite, na glinach, iłach lub marglach, o miąższości utworów pyłowych co najmniej 120 cm, odpowiadające klasie III, rzadziej I lub II gruntów ornych.
-Typ siedliskowy lasu: las świeży, las wilgotny.
+Gleby brunatne właściwe lub wyługowane, wytworzone z utworów pyłowych wodnego pochodzenia, całkowite lub niecałkowite, na glinach, iłach lub marglach, o miąższości utworów pyłowych co najmniej 120 cm, odpowiadające klasie III, rzadziej I lub II gruntów ornych. Typ siedliskowy lasu: las świeży, las wilgotny.
+C. Czarnoziemy
 a)
-Czarnoziemy zdegradowane, wytworzone z lessów, całkowite lub niecałkowite, na glinach, iłach lub wapieniach (margle kredowe), o miąższości warstwy lessowej co najmniej 120 cm, odpowiadające klasie I lub II, rzadziej III gruntów ornych.
-Typ siedliskowy lasu: las świeży.
+Czarnoziemy zdegradowane, wytworzone z lessów, całkowite lub niecałkowite, na glinach, iłach lub wapieniach (margle kredowe), o miąższości warstwy lessowej co najmniej 120 cm, odpowiadające klasie I lub II, rzadziej III gruntów ornych. Typ siedliskowy lasu: las świeży.
+D. Czarne ziemie
 a)
 Czarne ziemie wytworzone z glin zwałowych zasobnych w węglan wapnia, całkowite lub niecałkowite, na przepuszczalnych iłach, poziom próchniczny z gliną zwałową o łącznej miąższości co najmniej 120 cm, odpowiadające klasie II, rzadziej III gruntów ornych.
 b)
 Czarne ziemie wytworzone z utworów pyłowych wodnego pochodzenia, całkowite lub niecałkowite, na glinach lub iłach, odpowiadające klasie II, rzadziej III gruntów ornych.
 c)
-Czarne ziemie wytworzone z iłów pylastych zasobnych w węglan wapnia, słabo oglejone, odpowiadające klasie II, rzadziej III, gruntów ornych.
-Typ siedliskowy lasu: las świeży, las wilgotny.
+Czarne ziemie wytworzone z iłów pylastych zasobnych w węglan wapnia, słabo oglejone, odpowiadające klasie II, rzadziej III, gruntów ornych. Typ siedliskowy lasu: las świeży, las wilgotny.
+E. Gleby bagienne i pobagienne
 a)
-Gleby bagienne wytworzone z namułów mineralnych lub organicznych, zasobnych w węglan wapnia, biologicznie czynne, słabo oglejone, poziom wody gruntowej w granicach 60 – 100 cm w ciągu okresu wegetacyjnego, odpowiadające klasie II lub III łąk trwałych i pastwisk trwałych.
-Typ siedliskowy lasu: ols jesionowy.
+Gleby bagienne wytworzone z namułów mineralnych lub organicznych, zasobnych w węglan wapnia, biologicznie czynne, słabo oglejone, poziom wody gruntowej w granicach 60 – 100 cm w ciągu okresu wegetacyjnego, odpowiadające klasie II lub III łąk trwałych i pastwisk trwałych. Typ siedliskowy lasu: ols jesionowy.
+F. Mady
 a)
-Mady próchniczne lub mady brunatne, lekkie lub średnie, o słabo zróżnicowanych warstwach, zasobne w składniki mineralne, o miąższości łącznej do piaszczystego podłoża co najmniej 100 cm, słabo oglejone, poziom wody gruntowej do głębokości 50 cm w okresie letnim, odpowiadające klasie III, rzadziej II lub IV gruntów ornych.
-Typ siedliskowy lasu: las łęgowy.
+Mady próchniczne lub mady brunatne, lekkie lub średnie, o słabo zróżnicowanych warstwach, zasobne w składniki mineralne, o miąższości łącznej do piaszczystego podłoża co najmniej 100 cm, słabo oglejone, poziom wody gruntowej do głębokości 50 cm w okresie letnim, odpowiadające klasie III, rzadziej II lub IV gruntów ornych. Typ siedliskowy lasu: las łęgowy.
+Klasa II
+A. Gleby płowe i gleby bielicowe
 a)
 Gleby płowe wytworzone z glin zwałowych lekkich, średnich lub ciężkich, głęboko wyługowanych z węglanu wapnia, czasami oglejone, odpowiadające klasie III lub IV gruntów ornych.
 b)
@@ -2965,8 +2965,8 @@ Gleby płowe wytworzone z piasków gliniastych mocnych, całkowite lub niecałko
 d)
 Gleby płowe wytworzone z iłów pylastych, średnio oglejonych, odpowiadające klasie III lub IV gruntów ornych.
 e)
-Gleby płowe wytworzone z lessów, całkowite lub niecałkowite, na glinach, marglach lub iłach, odpowiadające klasie II lub III, rzadziej IV gruntów ornych.
-Typ siedliskowy lasu: las mieszany.
+Gleby płowe wytworzone z lessów, całkowite lub niecałkowite, na glinach, marglach lub iłach, odpowiadające klasie II lub III, rzadziej IV gruntów ornych. Typ siedliskowy lasu: las mieszany.
+B. Gleby brunatne i gleby rdzawe
 a)
 Gleby brunatne właściwe lub wyługowane, wytworzone z ciężkich glin zwałowych lub iłów, całkowite, mało strukturalne, zawierające węglan wapnia w wierzchnich warstwach lub nie głębiej niż 100 cm, odpowiadające klasie III lub IV gruntów ornych.
 b)
@@ -2978,29 +2978,30 @@ Gleby brunatne właściwe lub wyługowane, wytworzone z piasków gliniastych lek
 e)
 Gleby brunatne właściwe lub wyługowane, wytworzone z lessów, niecałkowite, na piaskach, żwirach lub wapieniach, warstwa lessowa o miąższości 60–120 cm, odpowiadające klasie II lub III gruntów ornych.
 f)
-Gleby brunatne właściwe lub wyługowane, wytworzone z lessów namytych, świeżych, przeławiconych, niecałkowite, o miąższości 60 – 120 cm, zalegające na piaskach, żwirach lub wapieniach. W profilu glebowym najczęściej brak węglanu wapnia, odpowiadające klasie II lub III gruntów ornych.
-Typ siedliskowy lasu: las mieszany, las świeży.
+Gleby brunatne właściwe lub wyługowane, wytworzone z lessów namytych, świeżych, przeławiconych, niecałkowite, o miąższości 60 – 120 cm, zalegające na piaskach, żwirach lub wapieniach. W profilu glebowym najczęściej brak węglanu wapnia, odpowiadające klasie II lub III gruntów ornych. Typ siedliskowy lasu: las mieszany, las świeży.
+C. Czarnoziemy
 a)
 Czarnoziemy zdegradowane, wytworzone z lessów namytych, wykazujących niski stan uwilgotnienia (świeżych), przeławiconych, niecałkowite, zalegające na przepuszczalnym podłożu piaszczystym, żwirowym lub wapniowym, warstwa lessowa o miąższości 60–120 cm, odpowiadające klasie III gruntów ornych.
 b)
 Czarnoziemy zdegradowane, wytworzone z lessów świeżych, niecałkowite, na piaskach, żwirach lub wapieniach, warstwa lessowa o miąższości 60 – 120 cm, odpowiadające klasie III gruntów ornych.
 c)
-Czarnoziemy zdegradowane, wytworzone z lessów, niecałkowite, warstwa lessowa o miąższości 60–120 cm, zalegających na podłożu nieprzepuszczalnym, z występującymi w głębszych poziomach profilu glebowego plamami rdzawymi i glejowymi, odpowiadające klasie III gruntów ornych.
-Typ siedliskowy lasu: las mieszany, las świeży.
+Czarnoziemy zdegradowane, wytworzone z lessów, niecałkowite, warstwa lessowa o miąższości 60–120 cm, zalegających na podłożu nieprzepuszczalnym, z występującymi w głębszych poziomach profilu glebowego plamami rdzawymi i glejowymi, odpowiadające klasie III gruntów ornych. Typ siedliskowy lasu: las mieszany, las świeży.
+D. Czarne ziemie
 a)
 Czarne ziemie wytworzone z glin zwałowych ciężkich, słabo przepuszczalnych, całkowite lub niecałkowite, na słabo przepuszczalnych glinach lub iłach, z wyraźnymi cechami oglejenia na głębokości 80 – 100 cm, odpowiadające klasie III lub IV gruntów ornych.
 b)
-Czarne ziemie wytworzone z utworów pyłowych wodnego pochodzenia, całkowite lub niecałkowite, na glinach lub iłach, z oznakami oglejenia na głębokości 80–100 cm, odpowiadające klasie III lub IV gruntów ornych.
-Typ siedliskowy lasu: las mieszany, las wilgotny.
+Czarne ziemie wytworzone z utworów pyłowych wodnego pochodzenia, całkowite lub niecałkowite, na glinach lub iłach, z oznakami oglejenia na głębokości 80–100 cm, odpowiadające klasie III lub IV gruntów ornych. Typ siedliskowy lasu: las mieszany, las wilgotny.
+E. Gleby bagienne i pobagienne
 a)
-Gleby bagienne wytworzone z namułów mineralnych lub organicznych, poziom wody gruntowej w granicach 50 – 80 cm w ciągu okresu wegetacyjnego, średnio oglejone, odpowiadające klasie III łąk trwałych i pastwisk trwałych.
-Typ siedliskowy lasu: ols.
+Gleby bagienne wytworzone z namułów mineralnych lub organicznych, poziom wody gruntowej w granicach 50 – 80 cm w ciągu okresu wegetacyjnego, średnio oglejone, odpowiadające klasie III łąk trwałych i pastwisk trwałych. Typ siedliskowy lasu: ols.
+F. Mady
 a)
-Mady próchniczne ciężkie lub mady brunatne ciężkie, o wysokim okresowo poziomie wody gruntowej, z wyraźnymi cechami oglejenia na głębokości 80–100 cm, odpowiadające klasie III lub IV gruntów ornych.
-Typ siedliskowy lasu: las łęgowy.
+Mady próchniczne ciężkie lub mady brunatne ciężkie, o wysokim okresowo poziomie wody gruntowej, z wyraźnymi cechami oglejenia na głębokości 80–100 cm, odpowiadające klasie III lub IV gruntów ornych. Typ siedliskowy lasu: las łęgowy.
+G. Rędziny
 a)
-Rędziny czyste lub mieszane, wytworzone z glin lub wapieni kredowych, o miąższości zwietrzeliny przekraczającej 50 cm, odpowiadające klasie II lub III gruntów ornych.
-Typ siedliskowy lasu: las mieszany.
+Rędziny czyste lub mieszane, wytworzone z glin lub wapieni kredowych, o miąższości zwietrzeliny przekraczającej 50 cm, odpowiadające klasie II lub III gruntów ornych. Typ siedliskowy lasu: las mieszany.
+Klasa III
+A. Gleby płowe i gleby bielicowe
 a)
 Gleby płowe wytworzone z glin zwałowych lekkich, ze znaczną domieszką piasku w wierzchnich warstwach, o kwaśnym odczynie, wykazujące wyraźne cechy zbielicowania, odpowiadające klasie III, częściej IV gruntów ornych.
 b)
@@ -3016,8 +3017,8 @@ Gleby płowe wytworzone z lessów, niecałkowite, erodowane, zalegające średni
 g)
 Gleby płowe wytworzone z glin zwałowych, piasków gliniastych mocnych lub lekkich, na glinach, z silnie scementowaną warstwą różnej miąższości i przeważnie występującą na głębokości do 70 cm, odpowiadające klasie IV, rzadziej III, gruntów ornych.
 h)
-Gleby płowe wytworzone z piasków gliniastych lekkich lub mocnych, glin lub pyłów przewarstwionych piaskami słabo gliniastymi, odpowiadające klasie III lub IV gruntów ornych.
-Typ siedliskowy lasu: bór mieszany świeży, las mieszany.
+Gleby płowe wytworzone z piasków gliniastych lekkich lub mocnych, glin lub pyłów przewarstwionych piaskami słabo gliniastymi, odpowiadające klasie III lub IV gruntów ornych. Typ siedliskowy lasu: bór mieszany świeży, las mieszany.
+B. Gleby brunatne i gleby rdzawe
 a)
 Gleby brunatne właściwe lub wyługowane, wytworzone z utworów pyłowych wodnego pochodzenia, niecałkowite, z głębokim zaleganiem gliny często przewarstwionej piaskami lub na wapieniach, o odczynie w wierzchnich warstwach obojętnym lub alkalicznym, odpowiadające klasie IV gruntów ornych.
 b)
@@ -3029,24 +3030,25 @@ Gleby brunatne właściwe lub wyługowane, wytworzone z utworów kompleksowych (
 e)
 Gleby brunatne właściwe lub wyługowane, wytworzone z lessów, płytkie, niecałkowite, na piaskach lub żwirach, warstwa lessowa o miąższości do 60 cm, odpowiadające klasie IV gruntów ornych.
 f)
-Gleby brunatne właściwe lub wyługowane, wytworzone z lessów, zmyte, z wykształconym i występującym blisko powierzchni poziomem wmywania, warstwa lessowa o miąższości 60 – 80 cm, odpowiadające klasie IV gruntów ornych.
-Typ siedliskowy lasu: las mieszany, bór mieszany świeży.
+Gleby brunatne właściwe lub wyługowane, wytworzone z lessów, zmyte, z wykształconym i występującym blisko powierzchni poziomem wmywania, warstwa lessowa o miąższości 60 – 80 cm, odpowiadające klasie IV gruntów ornych. Typ siedliskowy lasu: las mieszany, bór mieszany świeży.
+D. Czarne ziemie
 a)
 Czarne ziemie wytworzone z glin zwałowych, niecałkowite, zalegające średnio głęboko (50 – 100 cm) na piaskach, podmokłe, odpowiadające klasie IV gruntów ornych.
 b)
 Czarne ziemie wytworzone z utworów pyłowych wodnego pochodzenia, niecałkowite, zalegające średnio głęboko (50 – 100 cm) na piaskach, podmokłe, odpowiadające klasie IV gruntów ornych.
 c)
-Czarne ziemie wytworzone z piasków gliniastych różnego pochodzenia geologicznego, zawierające w podłożu piasek słabo gliniasty lub piasek luźny na głębokości 50–100 cm, odpowiadające klasie IV gruntów ornych.
-Typ siedliskowy lasu: las mieszany, las świeży.
+Czarne ziemie wytworzone z piasków gliniastych różnego pochodzenia geologicznego, zawierające w podłożu piasek słabo gliniasty lub piasek luźny na głębokości 50–100 cm, odpowiadające klasie IV gruntów ornych. Typ siedliskowy lasu: las mieszany, las świeży.
+E. Gleby bagienne i pobagienne
 a)
-Gleby murszowe ze znaczną domieszką części mineralnych, na piaskach gliniastych lub glinach zwałowych, o wysokim okresowo poziomie wody gruntowej, odpowiadające klasie IV lub V gruntów ornych, względnie klasie III łąk trwałych i pastwisk trwałych.
-Typ siedliskowy lasu: ols, ols jesionowy.
+Gleby murszowe ze znaczną domieszką części mineralnych, na piaskach gliniastych lub glinach zwałowych, o wysokim okresowo poziomie wody gruntowej, odpowiadające klasie IV lub V gruntów ornych, względnie klasie III łąk trwałych i pastwisk trwałych. Typ siedliskowy lasu: ols, ols jesionowy.
+F. Mady
 a)
-Mady próchniczne lub mady brunatne ciężkie, o wyższym niż w klasie II poziomie wody gruntowej i silniej oglejone, odpowiadające klasie IV gruntów ornych lub klasie II, względnie III, łąk trwałych i pastwisk trwałych.
-Typ siedliskowy lasu: las łęgowy, ols, ols jesionowy.
+Mady próchniczne lub mady brunatne ciężkie, o wyższym niż w klasie II poziomie wody gruntowej i silniej oglejone, odpowiadające klasie IV gruntów ornych lub klasie II, względnie III, łąk trwałych i pastwisk trwałych. Typ siedliskowy lasu: las łęgowy, ols, ols jesionowy.
+G. Rędziny
 a)
-Rędziny kredowe, czyste, o miąższości 25 – 50 cm lub mieszane z materiałem lodowcowym, o miąższości 25 – 50 cm, o uziarnieniu glin, odpowiadające klasie IV gruntów ornych.
-Typ siedliskowy lasu: bór mieszany świeży.
+Rędziny kredowe, czyste, o miąższości 25 – 50 cm lub mieszane z materiałem lodowcowym, o miąższości 25 – 50 cm, o uziarnieniu glin, odpowiadające klasie IV gruntów ornych. Typ siedliskowy lasu: bór mieszany świeży.
+Klasa IV
+A. Gleby płowe i gleby bielicowe
 a)
 Gleby bielicowe wytworzone z piasków słabo gliniastych, całkowite lub niecałkowite, z piasków luźnych, często pylastych, zalegających głęboko (100 – 200 cm) na glinie, odpowiadające klasie V lub VI gruntów ornych.
 b)
@@ -3062,8 +3064,8 @@ Gleby płowe wytworzone z piasków gliniastych lekkich lub mocnych, niecałkowit
 g)
 Gleby bielicowe wytworzone z piasków słabo gliniastych, przewarstwionych piaskiem gliniastym lekkim lub mocnym – warstwami do 40 cm grubości, odpowiadające klasie IV gruntów ornych.
 h)
-Gleby bielicowe wytworzone z piasków luźnych, zalegających średnio głęboko (50 – 100 cm) na piasku gliniastym lekkim lub mocnym, odpowiadające klasie V lub VI gruntów ornych.
-Typ siedliskowy lasu: bór mieszany świeży, bór świeży.
+Gleby bielicowe wytworzone z piasków luźnych, zalegających średnio głęboko (50 – 100 cm) na piasku gliniastym lekkim lub mocnym, odpowiadające klasie V lub VI gruntów ornych. Typ siedliskowy lasu: bór mieszany świeży, bór świeży.
+B. Gleby brunatne i gleby rdzawe
 a)
 Gleby brunatne właściwe lub wyługowane, wytworzone z utworów pyłowych wodnego pochodzenia, niecałkowite, na piaskach lub żwirach, o miąższości utworu pyłowego do 50 cm, o odczynie w wierzchnich warstwach słabo kwaśnym, a w głębszych – obojętnym lub alkalicznym, odpowiadające klasie IV lub V gruntów ornych.
 b)
@@ -3079,13 +3081,13 @@ Gleby rdzawe wytworzone z piasków luźnych, zalegających średnio głęboko (5
 g)
 Gleby rdzawe wytworzone z piasków luźnych, zwałowych, całkowite lub niecałkowite, na piaskach lub żwirach gliniastych, odpowiadające klasie VI gruntów ornych.
 h)
-Gleby brunatne właściwe lub wyługowane, wytworzone z glin zwałowych płytkich, o miąższości do 50 cm, zalegających na piasku lub żwirze, odpowiadające klasie IV lub V gruntów ornych.
-Typ siedliskowy lasu: las mieszany, las świeży.
+Gleby brunatne właściwe lub wyługowane, wytworzone z glin zwałowych płytkich, o miąższości do 50 cm, zalegających na piasku lub żwirze, odpowiadające klasie IV lub V gruntów ornych. Typ siedliskowy lasu: las mieszany, las świeży.
+E. Gleby bagienne i pobagienne
 a)
 Gleby wytworzone z torfów torfowisk niskich, zamulanych, o wysokim poziomie wody gruntowej, odpowiadające klasie III lub IV łąk trwałych i pastwisk trwałych.
 b)
-Gleby wytworzone z murszów zalegających średnio głęboko (50 – 100 cm) na piaskach luźnych lub słabo gliniastych, o odczynie najczęściej zbliżonym do obojętnego, odpowiadające klasie IV lub V łąk trwałych i pastwisk trwałych.
-Typ siedliskowy lasu: ols.
+Gleby wytworzone z murszów zalegających średnio głęboko (50 – 100 cm) na piaskach luźnych lub słabo gliniastych, o odczynie najczęściej zbliżonym do obojętnego, odpowiadające klasie IV lub V łąk trwałych i pastwisk trwałych. Typ siedliskowy lasu: ols.
+F. Mady
 a)
 Mady lekkie lub średnie, o miąższości 30 – 50 cm, zalegające na piaszczystym lub żwirowym podłożu, odpowiadające klasie IV lub V gruntów ornych.
 b)
@@ -3093,17 +3095,16 @@ Mady lekkie, przewarstwione warstwami piaszczystymi lub żwirowymi, odpowiadają
 c)
 Mady lekkie (piaszczyste), przewarstwione warstwami namułów pyłowych, gliniastych lub organicznych, odpowiadające klasie V gruntów ornych.
 d)
-Mady piaszczysto-żwirowe, całkowite lub niecałkowite, przewarstwione piaskiem słabo gliniastym z cienkimi warstewkami namułów pyłowych, gliniastych lub organicznych, odpowiadające klasie V lub VI gruntów ornych.
-Typ siedliskowy lasu: bór mieszany świeży, las mieszany.
+Mady piaszczysto-żwirowe, całkowite lub niecałkowite, przewarstwione piaskiem słabo gliniastym z cienkimi warstewkami namułów pyłowych, gliniastych lub organicznych, odpowiadające klasie V lub VI gruntów ornych. Typ siedliskowy lasu: bór mieszany świeży, las mieszany.
+G. Rędziny
 a)
-Rędziny jurajskie, czyste lub mieszane, o miąższości 25 – 50 cm, średnio szkieletowe, odpowiadające klasie IV gruntów ornych.
-Typ siedliskowy lasu: las mieszany, las świeży.
+Rędziny jurajskie, czyste lub mieszane, o miąższości 25 – 50 cm, średnio szkieletowe, odpowiadające klasie IV gruntów ornych. Typ siedliskowy lasu: las mieszany, las świeży.
+Klasa V
+A. Gleby płowe i gleby bielicowe
 a)
-Gleby bielicowe wytworzone z piasków słabo gliniastych, zalegających płytko lub średnio głęboko (50 – 100 cm) na piaskach luźnych lub żwirach, o odczynie kwaśnym w całym profilu glebowym, odpowiadające klasie VI gruntów ornych.
-Typ siedliskowy lasu: bór świeży.
+Gleby bielicowe wytworzone z piasków słabo gliniastych, zalegających płytko lub średnio głęboko (50 – 100 cm) na piaskach luźnych lub żwirach, o odczynie kwaśnym w całym profilu glebowym, odpowiadające klasie VI gruntów ornych. Typ siedliskowy lasu: bór świeży.
 b)
-Gleby bielicowe wytworzone z piasków luźnych podmokłych, całkowite lub niecałkowite, na żwirach, o wysokim poziomie wód gruntowych, oglejonych od głębokości około 50 cm, odpowiadające klasie VI gruntów ornych.
-Typ siedliskowy lasu: bór wilgotny.
+Gleby bielicowe wytworzone z piasków luźnych podmokłych, całkowite lub niecałkowite, na żwirach, o wysokim poziomie wód gruntowych, oglejonych od głębokości około 50 cm, odpowiadające klasie VI gruntów ornych. Typ siedliskowy lasu: bór wilgotny.
 c)
 Gleby bielicowe wytworzone z piasków luźnych, świeżych, głębokich, odpowiadające klasie VI gruntów ornych.
 d)
@@ -3121,8 +3122,8 @@ Gleby bielicowe wytworzone z piasków luźnych, przewarstwionych piaskiem słabo
 j)
 Gleby bielicowe wytworzone z glin, pyłów, lessów lub iłów, o miąższości do 30 cm, zalegających na piasku luźnym lub żwirze, suchych, odpowiadających klasie V gruntów ornych.
 k)
-Gleby bielicowe wytworzone z piasków lub żwirów, całkowite, przewarstwione warstewkami żelazistymi, odpowiadające klasie V lub VI gruntów ornych.
-Typ siedliskowy lasu: bór świeży.
+Gleby bielicowe wytworzone z piasków lub żwirów, całkowite, przewarstwione warstewkami żelazistymi, odpowiadające klasie V lub VI gruntów ornych. Typ siedliskowy lasu: bór świeży.
+B. Gleby brunatne i gleby rdzawe
 a)
 Gleby rdzawe wytworzone z piasków luźnych, słabo świeżych, odpowiadające klasie VI gruntów ornych.
 b)
@@ -3140,17 +3141,15 @@ Gleby rdzawe wytworzone z piasków luźnych, przewarstwionych piaskiem słabo gl
 h)
 Gleby rdzawe wytworzone z glin, pyłów, lessów lub iłów, o grubości do 30 cm, zalegających na piasku luźnym lub żwirze, suchych, odpowiadające klasie V gruntów ornych.
 i)
-Gleby rdzawe wytworzone z piasków słabo gliniastych, zalegających płytko lub średnio głęboko (50 – 100 cm) na piaskach luźnych lub żwirach, odpowiadające klasie V lub VI gruntów ornych.
-Typ siedliskowy lasu: bór świeży, bór mieszany świeży.
+Gleby rdzawe wytworzone z piasków słabo gliniastych, zalegających płytko lub średnio głęboko (50 – 100 cm) na piaskach luźnych lub żwirach, odpowiadające klasie V lub VI gruntów ornych. Typ siedliskowy lasu: bór świeży, bór mieszany świeży.
+E. Gleby bagienne i pobagienne
 a)
-Gleby wytworzone z torfów torfowisk przejściowych lub płytkich murszów (25 – 50 cm), na piaskach, z wysokim poziomem wody gruntowej, oglejone, odpowiadające klasie V łąk trwałych i pastwisk trwałych.
-Typ siedliskowy lasu: ols.
+Gleby wytworzone z torfów torfowisk przejściowych lub płytkich murszów (25 – 50 cm), na piaskach, z wysokim poziomem wody gruntowej, oglejone, odpowiadające klasie V łąk trwałych i pastwisk trwałych. Typ siedliskowy lasu: ols.
 b)
-Gleby wytworzone z torfów torfowisk wysokich, o uregulowanym poziomie wód gruntowych.
-Typ siedliskowy lasu: bór bagienny.
+Gleby wytworzone z torfów torfowisk wysokich, o uregulowanym poziomie wód gruntowych. Typ siedliskowy lasu: bór bagienny.
+F. Mady
 a)
-Mady piaszczyste, niezawierające grubszych przewarstwień pylastych lub ilastych, o zmiennym poziomie wody gruntowej. Gleby okresowo suche, o odczynie najczęściej obojętnym lub bliskim obojętnemu, odpowiadające klasie VI gruntów ornych.
-Typ siedliskowy lasu: bór mieszany wilgotny.
+Mady piaszczyste, niezawierające grubszych przewarstwień pylastych lub ilastych, o zmiennym poziomie wody gruntowej. Gleby okresowo suche, o odczynie najczęściej obojętnym lub bliskim obojętnemu, odpowiadające klasie VI gruntów ornych. Typ siedliskowy lasu: bór mieszany wilgotny.
 b)
 Mady piaszczyste, przewarstwione warstwami żwirowymi, o głębokim poziomie wód gruntowych, odpowiadające klasie VI gruntów ornych.
 c)
@@ -3158,19 +3157,21 @@ Mady piaszczyste, o głębokim poziomie wód gruntowych, odpowiadające klasie V
 d)
 Mady piaszczysto-żwirowe, zalegające na piasku luźnym poniżej 50 cm, o głębokim poziomie wód gruntowych, odpowiadające klasie VI gruntów ornych.
 e)
-Mady piaszczysto-żwirowe, całkowite, przewarstwione warstewkami żelazistymi, o głębokim poziomie wód gruntowych, odpowiadające klasie VI gruntów ornych.
-Typ siedliskowy lasu: bór świeży.
+Mady piaszczysto-żwirowe, całkowite, przewarstwione warstewkami żelazistymi, o głębokim poziomie wód gruntowych, odpowiadające klasie VI gruntów ornych. Typ siedliskowy lasu: bór świeży.
+G. Rędziny
 a)
-Rędziny wytworzone z wapieni lub margli różnych formacji geologicznych: jurajskich, dewońskich, triasowych i innych, oprócz kredowych, o miąższości zwietrzeliny do 25 cm, średnio lub silnie szkieletowe, odpowiadające klasie V lub VI gruntów ornych.
-Typ siedliskowy lasu: bór świeży.
+Rędziny wytworzone z wapieni lub margli różnych formacji geologicznych: jurajskich, dewońskich, triasowych i innych, oprócz kredowych, o miąższości zwietrzeliny do 25 cm, średnio lub silnie szkieletowe, odpowiadające klasie V lub VI gruntów ornych. Typ siedliskowy lasu: bór świeży.
+Klasa VI
+A. Gleby płowe i gleby bielicowe
 a)
 Gleby bielicowe silnie przemyte z piasków luźnych, suchych, całkowite lub niecałkowite, na żwirach, z niskim poziomem wody gruntowej. Gleby te łatwo ulegają rozwydmieniu lub tworzą wydmy. Odpowiadają klasie VI lub VIz gruntów ornych.
 b)
-Gleby bielicowe silnie przemyte z piasków wydmowych, wydm nadmorskich lub śródlądowych, odpowiadające klasie VI lub VIz gruntów ornych.
-Typ siedliskowy lasu: bór suchy.
+Gleby bielicowe silnie przemyte z piasków wydmowych, wydm nadmorskich lub śródlądowych, odpowiadające klasie VI lub VIz gruntów ornych. Typ siedliskowy lasu: bór suchy.
+E. Gleby bagienne i pobagienne
 a)
-Gleby wytworzone z torfów torfowisk wysokich, o znacznej miąższości torfu i wysokim poziomie wody gruntowej, silnie kwaśne, odpowiadające nieużytkom.
-Typ siedliskowy lasu: bór bagienny.
+Gleby wytworzone z torfów torfowisk wysokich, o znacznej miąższości torfu i wysokim poziomie wody gruntowej, silnie kwaśne, odpowiadające nieużytkom. Typ siedliskowy lasu: bór bagienny.
+Zaliczanie gleb gruntów leśnych terenów górskich do poszczególnych klas bonitacyjnych
+Klasa I
 I.
 Gleby brunatne, gleby płowe i gleby bielicowe
 a)
@@ -3178,15 +3179,14 @@ Gleby brunatne właściwe lub wyługowane, wytworzone z utworów pyłowych lub g
 b)
 Gleby brunatne właściwe lub wyługowane, wytworzone z iłów różnego pochodzenia geologicznego, zasobnych w węglan wapnia, często ze znaczną domieszką części szkieletowych, odpowiadające klasie III, rzadziej II gruntów ornych oraz łąk trwałych i pastwisk trwałych.
 c)
-Gleby brunatne właściwe lub wyługowane, wytworzone z różnych skał zwartych, najczęściej węglanowych, o znacznej miąższości zwietrzeliny przekraczającej 100 cm, odznaczającej się średnią szkieletowatością, o uziarnieniu glin, iłów lub pyłów, odpowiadające klasie III lub IV gruntów ornych, względnie łąk trwałych i pastwisk trwałych.
-Typ siedliskowy lasu: las górski.
+Gleby brunatne właściwe lub wyługowane, wytworzone z różnych skał zwartych, najczęściej węglanowych, o znacznej miąższości zwietrzeliny przekraczającej 100 cm, odznaczającej się średnią szkieletowatością, o uziarnieniu glin, iłów lub pyłów, odpowiadające klasie III lub IV gruntów ornych, względnie łąk trwałych i pastwisk trwałych. Typ siedliskowy lasu: las górski.
 d)
 Gleby brunatne kwaśne, wytworzone z utworów pyłowych różnego pochodzenia geologicznego, strukturalne, odznaczające się w całym profilu glebowym kwaśnym odczynem. Gleby te nie wykazują morfologicznie cech zbielicowania, mają domieszkę części szkieletowych, odpowiadają klasie III lub IV gruntów ornych, względnie łąk trwałych i pastwisk trwałych.
 e)
 Gleby brunatne kwaśne, wytworzone z iłów różnego pochodzenia geologicznego, niezawierających węglanu wapnia oraz odznaczających się kwaśnym odczynem w całym profilu glebowym, niewykazujące cech nadmiernego uwilgotnienia, odpowiadają klasie III lub IV gruntów ornych, względnie łąk trwałych i pastwisk trwałych.
 f)
-Gleby brunatne kwaśne, wytworzone ze skał masywnych różnego pochodzenia geologicznego, o kwaśnym odczynie w całym profilu glebowym, o uziarnieniu iłów lub pyłów, o miąższości zwietrzeliny ponad 100 cm, odznaczające się znaczną szkieletowatością, głęboko zakwaszone, odpowiadające klasie III lub IV gruntów ornych, względnie łąk trwałych i pastwisk trwałych.
-Typ siedliskowy lasu: las mieszany górski, bór mieszany górski.
+Gleby brunatne kwaśne, wytworzone ze skał masywnych różnego pochodzenia geologicznego, o kwaśnym odczynie w całym profilu glebowym, o uziarnieniu iłów lub pyłów, o miąższości zwietrzeliny ponad 100 cm, odznaczające się znaczną szkieletowatością, głęboko zakwaszone, odpowiadające klasie III lub IV gruntów ornych, względnie łąk trwałych i pastwisk trwałych. Typ siedliskowy lasu: las mieszany górski, bór mieszany górski.
+Klasa II
 I.
 Gleby brunatne, gleby płowe i gleby bielicowe
 a)
@@ -3194,59 +3194,57 @@ Gleby płowe wytworzone z utworów pyłowych różnego pochodzenia geologicznego
 b)
 Gleby płowe wytworzone z iłów różnego pochodzenia geologicznego, niecałkowite, na różnych utworach, o odczynie w wierzchnich warstwach kwaśnym, ze zmniejszającą się kwasowością w głębszych warstwach, odpowiadające klasie III lub IV gruntów ornych oraz łąk trwałych i pastwisk trwałych.
 c)
-Gleby płowe wytworzone z różnych skał zwartych różnego pochodzenia geologicznego, o miąższości zwietrzeliny powyżej 50 cm, o uziarnieniu glin, iłów lub utworów pyłowych, odpowiadające klasie IV gruntów ornych oraz łąk trwałych i pastwisk trwałych.
-Typ siedliskowy lasu: bór górski, bór mieszany górski.
+Gleby płowe wytworzone z różnych skał zwartych różnego pochodzenia geologicznego, o miąższości zwietrzeliny powyżej 50 cm, o uziarnieniu glin, iłów lub utworów pyłowych, odpowiadające klasie IV gruntów ornych oraz łąk trwałych i pastwisk trwałych. Typ siedliskowy lasu: bór górski, bór mieszany górski.
 d)
 Gleby brunatne właściwe lub wyługowane, wytworzone z utworów pyłowych lub glin pylastych różnego pochodzenia geologicznego, niecałkowite, zalegające na ciężkich glinach lub iłach słabo przepuszczalnych i zasobnych w węglan wapnia, o znacznej zawartości części szkieletowych, odpowiadające klasie III lub IV gruntów ornych oraz łąk trwałych i pastwisk trwałych.
 e)
 Gleby brunatne właściwe lub wyługowane, wytworzone z iłów różnego pochodzenia geologicznego, słabo przepuszczalnych, zasobnych w węglan wapnia, odpowiadające klasie III lub IV gruntów ornych oraz łąk trwałych i pastwisk trwałych.
 f)
-Gleby brunatne właściwe lub wyługowane, wytworzone z różnych skał zwartych zasobnych w węglan wapnia, odznaczających się znaczną szkieletowatością, średnio głębokie (miąższość zwietrzeliny powyżej 50 cm), o uziarnieniu glin, iłów lub utworów pyłowych, odpowiadające klasie IV gruntów ornych oraz łąk trwałych i pastwisk trwałych.
-Typ siedliskowy lasu: las mieszany górski, bór mieszany górski.
+Gleby brunatne właściwe lub wyługowane, wytworzone z różnych skał zwartych zasobnych w węglan wapnia, odznaczających się znaczną szkieletowatością, średnio głębokie (miąższość zwietrzeliny powyżej 50 cm), o uziarnieniu glin, iłów lub utworów pyłowych, odpowiadające klasie IV gruntów ornych oraz łąk trwałych i pastwisk trwałych. Typ siedliskowy lasu: las mieszany górski, bór mieszany górski.
 g)
 Gleby brunatne kwaśne, wytworzone z utworów pyłowych różnego pochodzenia geologicznego, niecałkowite, zalegające na ciężkich glinach lub iłach, w całym profilu glebowym kwaśne. Gleby te nie wykazują morfologicznie cech zbielicowania i zawierają znaczną domieszkę części szkieletowych, odpowiadające klasie IV gruntów ornych, względnie łąk trwałych i pastwisk trwałych.
 h)
 Gleby brunatne kwaśne, wytworzone z iłów różnego pochodzenia geologicznego, niezawierające w całym profilu glebowym węglanu wapnia, słabo przepuszczalne, odpowiadające klasie III lub IV gruntów ornych, względnie łąk trwałych i pastwisk trwałych.
 i)
-Gleby brunatne kwaśne, wytworzone ze skał zwartych różnego pochodzenia geologicznego, o odczynie kwaśnym w całym profilu glebowym, średnio głębokie (o miąższości powyżej 50 cm), uziarnieniu glin, iłów lub utworów pyłowych, odpowiadające klasie III lub IV gruntów ornych oraz łąk trwałych i pastwisk trwałych.
-Typ siedliskowy lasu: las górski.
+Gleby brunatne kwaśne, wytworzone ze skał zwartych różnego pochodzenia geologicznego, o odczynie kwaśnym w całym profilu glebowym, średnio głębokie (o miąższości powyżej 50 cm), uziarnieniu glin, iłów lub utworów pyłowych, odpowiadające klasie III lub IV gruntów ornych oraz łąk trwałych i pastwisk trwałych. Typ siedliskowy lasu: las górski.
+Klasa III
 I.
 Gleby brunatne, gleby płowe i gleby bielicowe
 a)
 Gleby płowe wytworzone z utworów pyłowych, niecałkowite, zalegające średnio głęboko (50 – 100 cm) na piaskach, o odczynie w wierzchnich warstwach kwaśnym, ze zmniejszającą się kwasowością w głębszych warstwach, odpowiadające klasie IV gruntów ornych.
 b)
-Gleby bielicowe wytworzone ze skał zwartych różnego pochodzenia geologicznego, o odczynie w wierzchnich warstwach kwaśnym, z wyraźnymi morfologicznie cechami zbielicowania, odpowiadające klasie IV gruntów ornych.
-Typ siedliskowy lasu: bór górski, bór mieszany górski.
+Gleby bielicowe wytworzone ze skał zwartych różnego pochodzenia geologicznego, o odczynie w wierzchnich warstwach kwaśnym, z wyraźnymi morfologicznie cechami zbielicowania, odpowiadające klasie IV gruntów ornych. Typ siedliskowy lasu: bór górski, bór mieszany górski.
 c)
 Gleby brunatne właściwe lub wyługowane, wytworzone z utworów pyłowych, gliniastych lub ilastych, zalegających średnio głęboko na piaskach, o odczynie słabo kwaśnym w wierzchnich warstwach, ze zmniejszającą się kwasowością w głębszych warstwach, średnio szkieletowe, odpowiadające klasie IV gruntów ornych.
 d)
-Gleby brunatne właściwe lub wyługowane, wytworzone z różnych skał zwartych, zasobnych w węglan wapnia, o miąższości do 50 cm, wykazujące w wierzchnich warstwach uziarnienie piasków słabo gliniastych lub gliniastych, średnio szkieletowe, odpowiadające klasie IV lub V gruntów ornych.
-Typ siedliskowy lasu: las mieszany górski, bór mieszany górski.
+Gleby brunatne właściwe lub wyługowane, wytworzone z różnych skał zwartych, zasobnych w węglan wapnia, o miąższości do 50 cm, wykazujące w wierzchnich warstwach uziarnienie piasków słabo gliniastych lub gliniastych, średnio szkieletowe, odpowiadające klasie IV lub V gruntów ornych. Typ siedliskowy lasu: las mieszany górski, bór mieszany górski.
 e)
-Gleby brunatne kwaśne, wytworzone z różnych skał zwartych kwaśnych, wykazujące w wierzchnich warstwach uziarnienie piasków gliniastych, o miąższości zwietrzeliny około 50 cm, o odczynie w całym profilu glebowym kwaśnym lub silnie kwaśnym, odpowiadające klasie IV lub V gruntów ornych.
-Typ siedliskowy lasu: bór mieszany górski.
+Gleby brunatne kwaśne, wytworzone z różnych skał zwartych kwaśnych, wykazujące w wierzchnich warstwach uziarnienie piasków gliniastych, o miąższości zwietrzeliny około 50 cm, o odczynie w całym profilu glebowym kwaśnym lub silnie kwaśnym, odpowiadające klasie IV lub V gruntów ornych. Typ siedliskowy lasu: bór mieszany górski.
+Klasa IV
 I.
 Gleby brunatne, gleby płowe i gleby bielicowe
 a)
-Gleby bielicowe wytworzone z różnych skał zwartych lub masywnych, wykazujące w wierzchnich warstwach uziarnienie piasków słabo gliniastych, płytkie (do 25 cm), odznaczające się większą szkieletowatością niż gleby w klasie III, o odczynie kwaśnym w całym profilu glebowym, odpowiadające klasie V lub VI gruntów ornych, względnie łąk trwałych i pastwisk trwałych.
-Typ siedliskowy lasu: bór górski.
+Gleby bielicowe wytworzone z różnych skał zwartych lub masywnych, wykazujące w wierzchnich warstwach uziarnienie piasków słabo gliniastych, płytkie (do 25 cm), odznaczające się większą szkieletowatością niż gleby w klasie III, o odczynie kwaśnym w całym profilu glebowym, odpowiadające klasie V lub VI gruntów ornych, względnie łąk trwałych i pastwisk trwałych. Typ siedliskowy lasu: bór górski.
 b)
-Gleby brunatne kwaśne, wytworzone z różnych skał zwartych lub masywnych, wykazujące w wierzchnich warstwach uziarnienie piasków słabo gliniastych, płytkie (do 25 cm), odznaczające się większą szkieletowatością niż gleby w klasie III, o odczynie kwaśnym w całym profilu glebowym, barwy brunatnej w całym profilu glebowym, odpowiadające klasie V lub VI gruntów ornych, względnie łąk trwałych i pastwisk trwałych.
-Typ siedliskowy lasu: bór górski.
+Gleby brunatne kwaśne, wytworzone z różnych skał zwartych lub masywnych, wykazujące w wierzchnich warstwach uziarnienie piasków słabo gliniastych, płytkie (do 25 cm), odznaczające się większą szkieletowatością niż gleby w klasie III, o odczynie kwaśnym w całym profilu glebowym, barwy brunatnej w całym profilu glebowym, odpowiadające klasie V lub VI gruntów ornych, względnie łąk trwałych i pastwisk trwałych. Typ siedliskowy lasu: bór górski.
+Klasa V
 H.
 Gleby inicjalne
 a)
-Gleby wytworzone z różnych skał masywnych, bardzo płytkie, silnie szkieletowe, odpowiadające klasie VI gruntów ornych oraz łąk trwałych i pastwisk trwałych.
-Typ siedliskowy lasu: bór górski, bór wysokogórski.
+Gleby wytworzone z różnych skał masywnych, bardzo płytkie, silnie szkieletowe, odpowiadające klasie VI gruntów ornych oraz łąk trwałych i pastwisk trwałych. Typ siedliskowy lasu: bór górski, bór wysokogórski.
+Klasa VI
+H. Gleby inicjalne
 a)
-Skały częściowo zwietrzałe, gołoborza, występujące ponad reglem górnym i często niżej, odpowiadające nieużytkom.
-Typ siedliskowy lasu: bór wysokogórski.
+Skały częściowo zwietrzałe, gołoborza, występujące ponad reglem górnym i często niżej, odpowiadające nieużytkom. Typ siedliskowy lasu: bór wysokogórski.
+M. Gleby bagienne i pobagienne
 a)
 Gleby wytworzone z torfów torfowisk wysokich, odpowiadające nieużytkom.
+Grunty zadrzewione i zakrzewione
 1.
 Do ustalenia klas bonitacyjnych gleb gruntów zadrzewionych i zakrzewionych stosuje się odpowiednio tabelę dla gleb gruntów leśnych.
 2.
 Do ustalenia klas bonitacyjnych gleb gruntów zadrzewionych i zakrzewionych na użytkach rolnych stosuje się odpowiednio tabelę dla gleb gruntów ornych lub gleb łąk trwałych i pastwisk trwałych.
+Grunty pod stawami rybnymi
 1.
 Do ustalenia klas bonitacyjnych gleb gruntów pod stawami rybnymi stosuje się odpowiednio tabelę dla gleb łąk trwałych i pastwisk trwałych.
 2.
@@ -3255,6 +3253,7 @@ W przypadku gruntów pod stawami rybnymi niewypełnionymi wodą klasę bonitacyj
 W przypadku gruntów pod stawami rybnymi wypełnionymi wodą klasę bonitacyjną gruntu pod stawami ustala się tak, jak klasę przeważającego gruntu otaczającego staw rybny.
 4.
 Grunty pokryte wodozbiorami nienadającymi się do zagospodarowania rybnego (sadzawki, wodopoje, doły potorfowe) klasyfikuje się jako nieużytki.
+Nieużytki
 Nieużytki stanowią grunty niewymienione w częściach I – VI nienadające się do jakiejkolwiek produkcji. Do nieużytków zalicza się:
 1)
 bagna (błota, topieliska, trzęsawiska, moczary, rojsty),
@@ -3262,6 +3261,7 @@ bagna (błota, topieliska, trzęsawiska, moczary, rojsty),
 piaski (piaski ruchome, plaże nieurządzone, piaski nadbrzeżne, wydmy),
 3)
 naturalne utwory fizjograficzne, takie jak: urwiska, strome stoki, uskoki, skały, rumowiska, zapadliska, nisze osuwiskowe, piargi.
+Pozostałe kategorie gruntów rolnych
 1.
 Grunty rolne zabudowane, które wchodzą w skład gospodarstw rolnych i są zabudowane budynkami mieszkalnymi oraz innymi budynkami i urządzeniami służącymi wyłącznie produkcji rolniczej oraz przetwórstwu rolno-spożywczemu, klasyfikuje się, zaliczając je do klasy gleb gruntów przyległych.
 2.
@@ -3271,353 +3271,485 @@ Grunty rolne zajęte pod uprawy wieloletnie, w szczególności pod sady owocowe,
 4.
 Grunty rolne lub leśne objęte formami ochrony przyrody w rozumieniu przepisów o ochronie przyrody klasyfikuje się jak grunty orne, łąki trwałe lub pastwiska trwałe, grunty leśne oraz grunty zadrzewione i zakrzewione albo grunty pod stawami.
 
-## Część I Grunty orne
+## Część I – Grunty orne
 
-### Dział I Gleby terenów nizinnych i wyżynnych
+### Dział I – Gleby terenów nizinnych i wyżynnych
 
-#### Rozdział 1 Ogólna charakterystyka klas bonitacyjnych gleb terenów nizinnych i wyżynnych
+#### Rozdział 1 – Ogólna charakterystyka klas bonitacyjnych gleb terenów nizinnych i wyżynnych
 
-#### Rozdział 2 Typy gleb terenów nizinnych i wyżynnych
+#### Rozdział 2 – Typy gleb terenów nizinnych i wyżynnych
 
-#### Rozdział 3 Rodzaje i gatunki gleb terenów nizinnych i wyżynnych
+#### Rozdział 3 – Rodzaje i gatunki gleb terenów nizinnych i wyżynnych
 
-#### Rozdział 4 Zaliczanie gleb terenów nizinnych i wyżynnych do poszczególnych klas bonitacyjnych
+#### Rozdział 4 – Zaliczanie gleb terenów nizinnych i wyżynnych do poszczególnych klas bonitacyjnych
 
-##### Oddział 1 AB. Gleby brunatne, gleby płowe, gleby bielicowe i gleby rdzawe
+### Dział II – Gleby terenów górskich
 
-##### Oddział 2 AB. Gleby brunatne, gleby płowe, gleby bielicowe i gleby rdzawe
+#### Rozdział 1 – Ogólna charakterystyka klas bonitacyjnych gleb terenów górskich
 
-##### Oddział 3 A. Gleby płowe, B. Gleby brunatne
+#### Rozdział 2 – Typy gleb terenów górskich
 
-##### Oddział 4 A. Gleby płowe, B. Gleby brunatne
+#### Rozdział 3 – Gatunki gleb terenów górskich
 
-##### Oddział 5 A. Gleby płowe, B. Gleby brunatne
+#### Rozdział 4 – Granice stref wysokościowych dla terenów górskich
 
-##### Oddział 6 A. Gleby płowe, B. Gleby brunatne
+#### Rozdział 5 – Zaliczanie gleb terenów górskich do poszczególnych klas bonitacyjnych
 
-##### Oddział 7 C. Czarnoziemy
+## Część II – Grunty zrekultywowane
 
-##### Oddział 8 D. Czarne ziemie
+### Dział I – Ogólna charakterystyka klas bonitacyjnych gruntów zrekultywowanych z przeznaczeniem na grunty orne
 
-##### Oddział 9 E. Gleby bagienne i pobagienne
+### Dział II – Gatunki gleb gruntów zrekultywowanych
 
-##### Oddział 10 F. Mady
+### Dział III – Zaliczanie gruntów zrekultywowanych do poszczególnych klas bonitacyjnych
 
-##### Oddział 11 G. Rędziny
+## Część III – Łąki trwałe i pastwiska trwałe
 
-### Dział II Gleby terenów górskich
+### Dział I – Ogólna charakterystyka klas bonitacyjnych gleb łąk trwałych i pastwisk trwałych
 
-#### Rozdział 1 Ogólna charakterystyka klas bonitacyjnych gleb terenów górskich
+#### Rozdział 1 – Tereny nizinne i wyżynne
 
-#### Rozdział 2 Typy gleb terenów górskich
+#### Rozdział 2 – Tereny górskie
 
-#### Rozdział 3 Gatunki gleb terenów górskich
+### Dział II – Typy gleb łąk trwałych i pastwisk trwałych
 
-#### Rozdział 4 Granice stref wysokościowych dla terenów górskich
+#### Rozdział 1 – Tereny nizinne i wyżynne
 
-#### Rozdział 5 Zaliczanie gleb terenów górskich do poszczególnych klas bonitacyjnych
+#### Rozdział 2 – Tereny górskie
 
-##### Oddział 1 H. Gleby inicjalne
+### Dział III – Gatunki gleb łąk trwałych i pastwisk trwałych
 
-##### Oddział 2 I. Gleby brunatne, gleby płowe i gleby bielicowe
+### Dział IV – Zaliczanie gleb łąk trwałych i pastwisk trwałych terenów nizinnych i wyżynnych do poszczególnych klas bonitacyjnych
 
-##### Oddział 3 J. Mady
+#### Rozdział 1 – Klasa I
 
-##### Oddział 4 K. Rędziny
+#### Rozdział 2 – Klasa II
 
-##### Oddział 5 L. Czarne ziemie
+#### Rozdział 3 – Klasa III
 
-##### Oddział 6 M. Gleby bagienne i pobagienne
+#### Rozdział 4 – Klasa IV
 
-## Część II Grunty zrekultywowane
+#### Rozdział 5 – Klasa V
 
-### Dział I Ogólna charakterystyka klas bonitacyjnych gruntów zrekultywowanych z przeznaczeniem na grunty orne
+#### Rozdział 6 – Klasa VI
 
-### Dział II Gatunki gleb gruntów zrekultywowanych
+### Dział V – Zaliczanie gleb łąk trwałych i pastwisk trwałych terenów górskich do poszczególnych klas bonitacyjnych
 
-### Dział III Zaliczanie gruntów zrekultywowanych do poszczególnych klas bonitacyjnych
+#### Rozdział 1 – Klasa II
 
-## Część III Łąki trwałe i pastwiska trwałe
+#### Rozdział 2 – Klasa III
 
-### Dział I Ogólna charakterystyka klas bonitacyjnych gleb łąk trwałych i pastwisk trwałych
+#### Rozdział 3 – Klasa IV
 
-#### Rozdział 1 Tereny nizinne i wyżynne
+#### Rozdział 4 – Klasa V
 
-#### Rozdział 2 Tereny górskie
+#### Rozdział 5 – Klasa VI
 
-### Dział II Typy gleb łąk trwałych i pastwisk trwałych
+## Część IV – Lasy
 
-#### Rozdział 1 Tereny nizinne i wyżynne
+### Dział I – Ogólna charakterystyka klas bonitacyjnych gleb gruntów leśnych
 
-#### Rozdział 2 Tereny górskie
+#### Rozdział 1 – Tereny nizinne i wyżynne
 
-### Dział III Gatunki gleb łąk trwałych i pastwisk trwałych
+#### Rozdział 2 – Tereny górskie
 
-### Dział IV Zaliczanie gleb łąk trwałych i pastwisk trwałych terenów nizinnych i wyżynnych do poszczególnych klas bonitacyjnych
+### Dział II – Typy gleb gruntów leśnych
 
-#### Rozdział 1 Klasa I
+#### Rozdział 1 – Tereny nizinne i wyżynne
 
-##### Oddział 1 CZ. Czarnoziemy
+#### Rozdział 2 – Tereny górskie
 
-##### Oddział 2 DZ. Czarne ziemie
+### Dział III – Gatunki gleb gruntów leśnych
 
-##### Oddział 3 FZ. Mady
+### Dział IV – Ustalanie typu siedliskowego lasu, jego drzewostanu, podszycia i runa na glebach gruntów leśnych
 
-#### Rozdział 2 Klasa II
+#### Rozdział 1 – Tereny nizinne i wyżynne
 
-##### Oddział 1 BZ. Gleby brunatne i gleby rdzawe
+#### Rozdział 2 – Tereny górskie
 
-##### Oddział 2 CZ. Czarnoziemy
+### Dział V – Zaliczanie gleb gruntów leśnych terenów nizinnych i wyżynnych do poszczególnych klas bonitacyjnych
 
-##### Oddział 3 DZ. Czarne ziemie
+#### Rozdział 1 – Klasa I
 
-##### Oddział 4 EZ. Gleby bagienne i pobagienne
+#### Rozdział 2 – Klasa II
 
-##### Oddział 5 FZ. Mady
+#### Rozdział 3 – Klasa III
 
-#### Rozdział 3 Klasa III
+#### Rozdział 4 – Klasa IV
 
-##### Oddział 1 BZ. Gleby brunatne i gleby rdzawe
+#### Rozdział 5 – Klasa V
 
-##### Oddział 2 BZ(G). Gleby brunatne glejowe
+#### Rozdział 6 – Klasa VI
 
-##### Oddział 3 CZ(G). Czarnoziemy glejowe
+### Dział VI – Zaliczanie gleb gruntów leśnych terenów górskich do poszczególnych klas bonitacyjnych
 
-##### Oddział 4 DZ. Czarne ziemie
+#### Rozdział 1 – Klasa I
 
-##### Oddział 5 DZ(G). Czarne ziemie glejowe
+#### Rozdział 2 – Klasa II
 
-##### Oddział 6 EZ. Gleby bagienne i pobagienne
+#### Rozdział 3 – Klasa III
 
-##### Oddział 7 FZ. Mady
+#### Rozdział 4 – Klasa IV
 
-##### Oddział 8 FZ(G). Mady glejowe
+#### Rozdział 5 – Klasa V
 
-#### Rozdział 4 Klasa IV
+#### Rozdział 6 – Klasa VI
 
-##### Oddział 1 BZ. Gleby brunatne i gleby rdzawe
+## Część V – Grunty zadrzewione i zakrzewione
 
-##### Oddział 2 BZ(G). Gleby brunatne glejowe
+## Część VI – Grunty pod stawami rybnymi
 
-##### Oddział 3 CZ(G). Czarnoziemy glejowe
+## Część VII – Nieużytki
 
-##### Oddział 4 DZ. Czarne ziemie
+## Część VIII – Pozostałe kategorie gruntów rolnych
 
-##### Oddział 5 DZ(G). Czarne ziemie glejowe
+## Część I
 
-##### Oddział 6 EZ. Gleby bagienne i pobagienne
+### Dział I
 
-##### Oddział 7 FZ. Mady
+#### Rozdział 1
 
-##### Oddział 8 FZ(G). Mady glejowe
+#### Rozdział 2
 
-##### Oddział 9 GZ. Rędziny
+#### Rozdział 3
 
-#### Rozdział 5 Klasa V
-
-##### Oddział 1 BZ. Gleby brunatne i gleby rdzawe
-
-##### Oddział 2 BZ(G). Gleby brunatne glejowe
-
-##### Oddział 3 DZ(G). Czarne ziemie glejowe
-
-##### Oddział 4 EZ. Gleby bagienne i pobagienne
-
-##### Oddział 5 FZ. Mady
-
-##### Oddział 6 FZ(G). Mady glejowe
-
-##### Oddział 7 GZ. Rędziny
-
-##### Oddział 8 GZ(G). Rędziny glejowe
-
-#### Rozdział 6 Klasa VI
-
-##### Oddział 1 BZ. Gleby brunatne i gleby rdzawe
-
-##### Oddział 2 BZ(G). Gleby brunatne glejowe
-
-##### Oddział 3 DZ(G). Czarne ziemie glejowe
-
-##### Oddział 4 EZ. Gleby bagienne i pobagienne
-
-##### Oddział 5 FZ. Mady
-
-##### Oddział 6 FZ(G). Mady glejowe
-
-##### Oddział 7 GZ. Rędziny
-
-##### Oddział 8 GZ(G). Rędziny glejowe
-
-### Dział V Zaliczanie gleb łąk trwałych i pastwisk trwałych terenów górskich do poszczególnych klas bonitacyjnych
-
-#### Rozdział 1 Klasa II
-
-##### Oddział 1 JZ. Mady
-
-##### Oddział 2 LZ. Czarne ziemie
-
-#### Rozdział 2 Klasa III
-
-##### Oddział 1 JZ. Mady
-
-##### Oddział 2 LZ. Czarne ziemie
-
-#### Rozdział 3 Klasa IV
+#### Rozdział 4
 
 ##### Oddział 1
 
-##### Oddział 2 JZ. Mady
+##### Oddział 2
 
-##### Oddział 3 JZ(G). Mady glejowe
+##### Oddział 3
 
-##### Oddział 4 KZ. Rędziny
+##### Oddział 4
 
-##### Oddział 5 MZ. Gleby bagienne i pobagienne
+##### Oddział 5
 
-#### Rozdział 4 Klasa V
+##### Oddział 6
 
-##### Oddział 1 HZ. Gleby inicjalne
+##### Oddział 7
+
+##### Oddział 8
+
+##### Oddział 9
+
+##### Oddział 10
+
+##### Oddział 11
+
+### Dział II
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+##### Oddział 1
 
 ##### Oddział 2
 
-##### Oddział 3 JZ. Mady
+##### Oddział 3
 
-##### Oddział 4 IZ(G). Mady glejowe
+##### Oddział 4
 
-##### Oddział 5 KZ. Rędziny
+##### Oddział 5
 
-##### Oddział 6 MZ. Gleby bagienne i pobagienne
+##### Oddział 6
 
-#### Rozdział 5 Klasa VI
+## Część II
 
-##### Oddział 1 HZ. Gleby inicjalne
+### Dział I
+
+### Dział II
+
+### Dział III
+
+## Część III
+
+### Dział I
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+### Dział II
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+### Dział III
+
+### Dział IV
+
+#### Rozdział 1
+
+##### Oddział 1
 
 ##### Oddział 2
 
-##### Oddział 3 KZ. Rędziny
+##### Oddział 3
 
-##### Oddział 4 MZ. Gleby bagienne
+#### Rozdział 2
 
-## Część IV Lasy
+##### Oddział 1
 
-### Dział I Ogólna charakterystyka klas bonitacyjnych gleb gruntów leśnych
+##### Oddział 2
 
-#### Rozdział 1 Tereny nizinne i wyżynne
+##### Oddział 3
 
-#### Rozdział 2 Tereny górskie
+##### Oddział 4
 
-### Dział II Typy gleb gruntów leśnych
+##### Oddział 5
 
-#### Rozdział 1 Tereny nizinne i wyżynne
+#### Rozdział 3
 
-#### Rozdział 2 Tereny górskie
+##### Oddział 1
 
-### Dział III Gatunki gleb gruntów leśnych
+##### Oddział 2
 
-### Dział IV Ustalanie typu siedliskowego lasu, jego drzewostanu, podszycia i runa na glebach gruntów leśnych
+##### Oddział 3
 
-#### Rozdział 1 Tereny nizinne i wyżynne
+##### Oddział 4
 
-#### Rozdział 2 Tereny górskie
+##### Oddział 5
 
-### Dział V Zaliczanie gleb gruntów leśnych terenów nizinnych i wyżynnych do poszczególnych klas bonitacyjnych
+##### Oddział 6
 
-#### Rozdział 1 Klasa I
+##### Oddział 7
 
-##### Oddział 1 B. Gleby brunatne i gleby rdzawe
+##### Oddział 8
 
-##### Oddział 2 C. Czarnoziemy
+#### Rozdział 4
 
-##### Oddział 3 D. Czarne ziemie
+##### Oddział 1
 
-##### Oddział 4 E. Gleby bagienne i pobagienne
+##### Oddział 2
 
-##### Oddział 5 F. Mady
+##### Oddział 3
 
-#### Rozdział 2 Klasa II
+##### Oddział 4
 
-##### Oddział 1 A. Gleby płowe i gleby bielicowe
+##### Oddział 5
 
-##### Oddział 2 B. Gleby brunatne i gleby rdzawe
+##### Oddział 6
 
-##### Oddział 3 C. Czarnoziemy
+##### Oddział 7
 
-##### Oddział 4 D. Czarne ziemie
+##### Oddział 8
 
-##### Oddział 5 E. Gleby bagienne i pobagienne
+##### Oddział 9
 
-##### Oddział 6 F. Mady
+#### Rozdział 5
 
-##### Oddział 7 G. Rędziny
+##### Oddział 1
 
-#### Rozdział 3 Klasa III
+##### Oddział 2
 
-##### Oddział 1 A. Gleby płowe i gleby bielicowe
+##### Oddział 3
 
-##### Oddział 2 B. Gleby brunatne i gleby rdzawe
+##### Oddział 4
 
-##### Oddział 3 D. Czarne ziemie
+##### Oddział 5
 
-##### Oddział 4 E. Gleby bagienne i pobagienne
+##### Oddział 6
 
-##### Oddział 5 F. Mady
+##### Oddział 7
 
-##### Oddział 6 G. Rędziny
+##### Oddział 8
 
-#### Rozdział 4 Klasa IV
+#### Rozdział 6
 
-##### Oddział 1 A. Gleby płowe i gleby bielicowe
+##### Oddział 1
 
-##### Oddział 2 B. Gleby brunatne i gleby rdzawe
+##### Oddział 2
 
-##### Oddział 3 E. Gleby bagienne i pobagienne
+##### Oddział 3
 
-##### Oddział 4 F. Mady
+##### Oddział 4
 
-##### Oddział 5 G. Rędziny
+##### Oddział 5
 
-#### Rozdział 5 Klasa V
+##### Oddział 6
 
-##### Oddział 1 A. Gleby płowe i gleby bielicowe
+##### Oddział 7
 
-##### Oddział 2 B. Gleby brunatne i gleby rdzawe
+##### Oddział 8
 
-##### Oddział 3 E. Gleby bagienne i pobagienne
+### Dział V
 
-##### Oddział 4 F. Mady
+#### Rozdział 1
 
-##### Oddział 5 G. Rędziny
+##### Oddział 1
 
-#### Rozdział 6 Klasa VI
+##### Oddział 2
 
-##### Oddział 1 A. Gleby płowe i gleby bielicowe
+#### Rozdział 2
 
-##### Oddział 2 E. Gleby bagienne i pobagienne
+##### Oddział 1
 
-### Dział VI Zaliczanie gleb gruntów leśnych terenów górskich do poszczególnych klas bonitacyjnych
+##### Oddział 2
 
-#### Rozdział 1 Klasa I
+#### Rozdział 3
 
-#### Rozdział 2 Klasa II
+##### Oddział 1
 
-#### Rozdział 3 Klasa III
+##### Oddział 2
 
-#### Rozdział 4 Klasa IV
+##### Oddział 3
 
-#### Rozdział 5 Klasa V
+##### Oddział 4
 
-#### Rozdział 6 Klasa VI
+##### Oddział 5
 
-##### Oddział 1 H. Gleby inicjalne
+#### Rozdział 4
 
-##### Oddział 2 M. Gleby bagienne i pobagienne
+##### Oddział 1
 
-## Część V Grunty zadrzewione i zakrzewione
+##### Oddział 2
 
-## Część VI Grunty pod stawami rybnymi
+##### Oddział 3
 
-## Część VII Nieużytki
+##### Oddział 4
 
-## Część VIII Pozostałe kategorie gruntów rolnych
+##### Oddział 5
+
+##### Oddział 6
+
+#### Rozdział 5
+
+##### Oddział 1
+
+##### Oddział 2
+
+##### Oddział 3
+
+##### Oddział 4
+
+## Część IV
+
+### Dział I
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+### Dział II
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+### Dział III
+
+### Dział IV
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+### Dział V
+
+#### Rozdział 1
+
+##### Oddział 1
+
+##### Oddział 2
+
+##### Oddział 3
+
+##### Oddział 4
+
+##### Oddział 5
+
+#### Rozdział 2
+
+##### Oddział 1
+
+##### Oddział 2
+
+##### Oddział 3
+
+##### Oddział 4
+
+##### Oddział 5
+
+##### Oddział 6
+
+##### Oddział 7
+
+#### Rozdział 3
+
+##### Oddział 1
+
+##### Oddział 2
+
+##### Oddział 3
+
+##### Oddział 4
+
+##### Oddział 5
+
+##### Oddział 6
+
+#### Rozdział 4
+
+##### Oddział 1
+
+##### Oddział 2
+
+##### Oddział 3
+
+##### Oddział 4
+
+##### Oddział 5
+
+#### Rozdział 5
+
+##### Oddział 1
+
+##### Oddział 2
+
+##### Oddział 3
+
+##### Oddział 4
+
+##### Oddział 5
+
+#### Rozdział 6
+
+##### Oddział 1
+
+##### Oddział 2
+
+### Dział VI
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+##### Oddział 1
+
+##### Oddział 2
+
+## Część V
+
+## Część VI
+
+## Część VII
+
+## Część VIII
 

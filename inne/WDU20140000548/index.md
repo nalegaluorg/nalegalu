@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-23 |
 | Data wydania | 2014-04-28 |
-| Wejście w życie | 2014-05-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000548) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/548/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 74b ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. Nr 144, poz. 1043, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 74b ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. Nr 144, poz. 1043, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 120, poz. 818, z 2008 r. Nr 216, poz. 1367, z 2010 r. Nr 81, poz. 531, z 2011 r. Nr 92, poz. 532 oraz z 2013 r. poz. 1650.) zarządza się, co następuje:
 § 1.
 1.
 Wniosek o wydanie decyzji o wydaleniu obywatela UE lub członka rodziny niebędącego obywatelem UE, zwany dalej „wnioskiem”, zawiera:
@@ -80,5 +79,5 @@ podpis osoby upoważnionej,
 c)
 odciśnięcie datownika.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 maja 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 maja 2014 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 120, poz. 818, z 2008 r. Nr 216, poz. 1367, z 2010 r. Nr 81, poz. 531, z 2011 r. Nr 92, poz. 532 oraz z 2013 r. poz. 1650.
 

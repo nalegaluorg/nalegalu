@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 17 marca 2020 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego
+# Rozporządzenie Ministra Zdrowiaz dnia 17 marca 2020 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 
 | Pole | Wartość |
 |---|---|
@@ -22,38 +22,31 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-03-17 |
 | Data wydania | 2020-03-17 |
-| Wejście w życie | 2020-03-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000466) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/466/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 22 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego (Dz. U. z 2017 r. poz. 2295, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Ministra Zdrowia z dnia 22 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego (Dz. U. z 2017 r. poz. 2295, z późn. zm.Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2018 r. poz. 2012, 2013 i 2376 oraz z 2019 r. poz. 77, 401, 1062 i 2224.) wprowadza się następujące zmiany:
 1)
-w § 4 ust. 4 otrzymuje brzmienie:
-„
+w § 4 ust. 4 otrzymuje brzmienie: „
 4.
 W przypadku udzielania świadczeń na bloku operacyjnym w trybie hospitalizacji i hospitalizacji planowej świadczeniodawca zapewnia w zakresie kwalifikacji personelu:
 1)
 równoważnik co najmniej części wymiaru etatu odpowiadający czasowi udzielania świadczeń określonemu w harmonogramie pracy – lekarz posiadający specjalizację I lub II stopnia w dziedzinie anestezjologii lub anestezjologii i reanimacji, lub anestezjologii i intensywnej terapii lub tytuł specjalisty w dziedzinie anestezjologii i intensywnej terapii, lub za zgodą lekarza kierującego oddziałem anestezjologii i intensywnej terapii lekarz w trakcie specjalizacji z anestezjologii i intensywnej terapii, pod warunkiem spełniania standardów postępowania medycznego w dziedzinie anestezjologii i intensywnej terapii określonych na podstawie przepisów o działalności leczniczej;
 2)
-obecność co najmniej dwóch pielęgniarek lub położnych na każdy stół operacyjny odpowiadającą czasowi udzielania świadczeń określonemu w harmonogramie pracy – pielęgniarka specjalista lub pielęgniarka po kursie kwalifikacyjnym w dziedzinie pielęgniarstwa operacyjnego lub w trakcie tych szkoleń, lub pielęgniarka z co najmniej dwuletnim doświadczeniem w instrumentowaniu do zabiegów, a w przypadkach uzasadnionych medycznie – położna po kursie kwalifikacyjnym w dziedzinie pielęgniarstwa operacyjnego lub położna z co najmniej dwuletnim doświadczeniem w instrumentowaniu do zabiegów.
-” ;
+obecność co najmniej dwóch pielęgniarek lub położnych na każdy stół operacyjny odpowiadającą czasowi udzielania świadczeń określonemu w harmonogramie pracy – pielęgniarka specjalista lub pielęgniarka po kursie kwalifikacyjnym w dziedzinie pielęgniarstwa operacyjnego lub w trakcie tych szkoleń, lub pielęgniarka z co najmniej dwuletnim doświadczeniem w instrumentowaniu do zabiegów, a w przypadkach uzasadnionych medycznie – położna po kursie kwalifikacyjnym w dziedzinie pielęgniarstwa operacyjnego lub położna z co najmniej dwuletnim doświadczeniem w instrumentowaniu do zabiegów. ” ;
 2)
 w załączniku nr 3 w części I: „Warunki szczegółowe, jakie powinni spełnić świadczeniodawcy przy udzielaniu świadczeń gwarantowanych w trybie hospitalizacji i hospitalizacji planowej”:
 a)
-w lp. 2 w części „Organizacja udzielania świadczeń” w kolumnie 3 po pkt 1 dodaje się pkt 1a w brzmieniu:
-„
+w lp. 2 w części „Organizacja udzielania świadczeń” w kolumnie 3 po pkt 1 dodaje się pkt 1a w brzmieniu: „
 1a)
-lekarz specjalista może opuścić oddział anestezjologii i intensywnej terapii w celu podjęcia interwencji u pacjenta znajdującego się poza oddziałem (przeprowadzenie resuscytacji lub innych niezbędnych czynności z zakresu anestezjologii i intensywnej terapii, z wyłączeniem świadczeń z zakresu anestezji);
-” ,
+lekarz specjalista może opuścić oddział anestezjologii i intensywnej terapii w celu podjęcia interwencji u pacjenta znajdującego się poza oddziałem (przeprowadzenie resuscytacji lub innych niezbędnych czynności z zakresu anestezjologii i intensywnej terapii, z wyłączeniem świadczeń z zakresu anestezji); ” ,
 b)
-w lp. 3 w części „Organizacja udzielania świadczeń” w kolumnie 3 po pkt 1 dodaje się pkt 1a w brzmieniu:
-„
+w lp. 3 w części „Organizacja udzielania świadczeń” w kolumnie 3 po pkt 1 dodaje się pkt 1a w brzmieniu: „
 1a)
-lekarz specjalista może opuścić oddział anestezjologii i intensywnej terapii w celu podjęcia interwencji u pacjenta znajdującego się poza oddziałem (przeprowadzenie resuscytacji lub innych niezbędnych czynności z zakresu anestezjologii i intensywnej terapii, z wyłączeniem świadczeń z zakresu anestezji);
-” .
+lekarz specjalista może opuścić oddział anestezjologii i intensywnej terapii w celu podjęcia interwencji u pacjenta znajdującego się poza oddziałem (przeprowadzenie resuscytacji lub innych niezbędnych czynności z zakresu anestezjologii i intensywnej terapii, z wyłączeniem świadczeń z zakresu anestezji); ” .
 § 2.
 Wymienione w rozporządzeniu zmienianym w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, warunki realizacji świadczeń opieki zdrowotnej dotyczące:
 1)
@@ -65,6 +58,5 @@ złożył z wynikiem pozytywnym część pisemną EDAIC (European Diploma in Ana
 2)
 lekarza w trakcie specjalizacji – spełnia również lekarz, który uzyskał potwierdzenie zakończenia szkolenia specjalizacyjnego, o którym mowa w art. 16r ust. 6 pkt 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, oraz lekarz, który ma uznany dorobek na podstawie art. 16 ust. 7 albo ust. 9 tej ustawy oraz wystąpił do dyrektora Centrum Egzaminów Medycznych z wnioskiem o przystąpienie do PES w wiosennej sesji egzaminacyjnej w 2020 r. przedłużonej na podstawie § 27 ust. 3 rozporządzenia Ministra Zdrowia z dnia 29 marca 2019 r. w sprawie specjalizacji lekarzy i lekarzy dentystów, nie dłużej jednak niż do dnia wskazanego jako termin PES wyznaczonego na podstawie § 27 ust. 5 rozporządzenia Ministra Zdrowia z dnia 29 marca 2019 r. w sprawie specjalizacji lekarzy i lekarzy dentystów.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473. 3) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2018 r. poz. 2012, 2013 i 2376 oraz z 2019 r. poz. 77, 401, 1062 i 2224.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473. 3) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2018 r. poz. 2012, 2013 i 2376 oraz z 2019 r. poz. 77, 401, 1062 i 2224.
 

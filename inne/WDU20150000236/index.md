@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-02-04 |
 | Data wydania | 2015-02-20 |
-| Wejście w życie | 2015-03-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000236) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/236/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 18 ust. 1 ustawy z dnia 5 sierpnia 2010 r. o ochronie informac
 § 1.
 W rozporządzeniu Ministra Obrony Narodowej z dnia 19 grudnia 2013 r. w sprawie szczegółowych zadań pełnomocników ochrony w zakresie ochrony informacji niejawnych w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych (Dz. U. poz.1660) wprowadza się następujące zmiany:
 1)
-§ 1 otrzymuje brzmienie:
-„
+§ 1 otrzymuje brzmienie: „
 § 1.
 Rozporządzenie określa:
 1)
@@ -48,11 +46,9 @@ szczególne wymagania dotyczące stosowania środków bezpieczeństwa fizycznego
 6)
 zakres stosowania środków bezpieczeństwa fizycznego oraz kryteria tworzenia stref ochronnych;
 7)
-tryb opracowywania oraz niezbędne elementy planów ochrony informacji niejawnych, w tym postępowanie z materiałami zawierającymi informacje niejawne oznaczone klauzulą „tajne” lub „ściśle tajne” w razie wprowadzenia stanu nadzwyczajnego, a także sposób nadzorowania ich realizacji.
-” ;
+tryb opracowywania oraz niezbędne elementy planów ochrony informacji niejawnych, w tym postępowanie z materiałami zawierającymi informacje niejawne oznaczone klauzulą „tajne” lub „ściśle tajne” w razie wprowadzenia stanu nadzwyczajnego, a także sposób nadzorowania ich realizacji. ” ;
 2)
-w § 3 w ust. 2 w pkt 7 lit. a i b otrzymują brzmienie:
-„
+w § 3 w ust. 2 w pkt 7 lit. a i b otrzymują brzmienie: „
 a)
 o których mowa w art. 19 ust. 2 pkt 1 ustawy, prowadzone przez SKW, dla osób z jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych,
 b)
@@ -62,8 +58,7 @@ specjalistyczne z zakresu bezpieczeństwa teleinformatycznego, prowadzone przez 
 – Komendy Głównej Żandarmerii Wojskowej,
 ” ;
 3)
-w § 4 ust. 2 otrzymuje brzmienie:
-„
+w § 4 ust. 2 otrzymuje brzmienie: „
 2.
 Pełnomocnicy ochrony dowódców rodzajów Sił Zbrojnych, Szefa Inspektoratu Wsparcia Sił Zbrojnych, Komendanta Głównego Żandarmerii Wojskowej oraz Dowódcy Garnizonu Warszawa realizują zadania, o których mowa w ust. 1, oraz:
 1)
@@ -75,8 +70,7 @@ specjalistyczne z zakresu bezpieczeństwa teleinformatycznego, prowadzone przez 
 b)
 specjalistyczne dla kandydatów na stanowiska w kancelariach tajnych i kancelariach tajnych międzynarodowych oraz innych niż kancelaria tajna komórkach organizacyjnych odpowiedzialnych za przetwarzanie materiałów niejawnych, z jednostek organizacyjnych, o których mowa w pkt 1,
 c)
-specjalistyczne uzupełniające dla pracowników kancelarii tajnej i kancelarii tajnej międzynarodowej oraz innych niż kancelaria tajna komórek organizacyjnych odpowiedzialnych za przetwarzanie materiałów niejawnych, z jednostek organizacyjnych, o których mowa w pkt 1.
-” ;
+specjalistyczne uzupełniające dla pracowników kancelarii tajnej i kancelarii tajnej międzynarodowej oraz innych niż kancelaria tajna komórek organizacyjnych odpowiedzialnych za przetwarzanie materiałów niejawnych, z jednostek organizacyjnych, o których mowa w pkt 1. ” ;
 4)
 w § 8 uchyla się ust. 3;
 5)

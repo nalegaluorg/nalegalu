@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 15 lipca 2024 r. w sprawie obowiązku zakupu ciepła lub chłodu oraz ciepła odpadowego oraz sposobu załatwiania reklamacji w zakresie przyłączania do sieci ciepłowniczej
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 15 lipca 2024 r. w sprawie obowiązku zakupu ciepła lub chłodu oraz ciepła odpadowego oraz sposobu załatwiania reklamacji w zakresie przyłączania do sieci ciepłowniczej Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-15 |
 | Data wydania | 2024-07-22 |
-| Wejście w życie | 2024-08-06 |
 | Ostatnia zmiana | 2024-07-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001084) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1084/text.pdf) |
 
@@ -93,6 +92,5 @@ Reklamacja w zakresie przyłączania do sieci ciepłowniczej jest rozpatrywana p
 2.
 Reklamację rozpatruje się w postaci papierowej, w przypadku gdy reklamacja została złożona w postaci papierowej, a w postaci elektronicznej, w przypadku gdy składający reklamację złożył oświadczenie, że wyraża zgodę na prowadzenie sprawy w postaci elektronicznej.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Energii z dnia 18 maja 2017 r. w sprawie szczegółowego zakresu obowiązku i warunków technicznych zakupu ciepła z odnawialnych źródeł energii oraz warunków przyłączania instalacji do sieci (Dz. U. poz. 1084), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 47 pkt 5 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1762 oraz z 2024 r. poz. 859).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Energii z dnia 18 maja 2017 r. w sprawie szczegółowego zakresu obowiązku i warunków technicznych zakupu ciepła z odnawialnych źródeł energii oraz warunków przyłączania instalacji do sieci (Dz. U. poz. 1084), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 47 pkt 5 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1762 oraz z 2024 r. poz. 859). 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Energii z dnia 18 maja 2017 r. w sprawie szczegółowego zakresu obowiązku i warunków technicznych zakupu ciepła z odnawialnych źródeł energii oraz warunków przyłączania instalacji do sieci (Dz. U. poz. 1084), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 47 pkt 5 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1762 oraz z 2024 r. poz. 859).
 

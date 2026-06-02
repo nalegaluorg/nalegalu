@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-08 |
 | Data wydania | 2021-11-15 |
-| Wejście w życie | 2021-11-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002049) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2049/text.pdf) |
 
@@ -77,7 +76,7 @@ Odpis lub wyciąg, o których mowa w ust. 1, wydaje się po uiszczeniu należnej
 3.
 O wydaniu odpisu lub wyciągu z ewidencji bądź statutu partii politycznej czyni się odpowiednią wzmiankę w aktach ewidencyjnych partii, której te dokumenty dotyczą.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 5 września 2021 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 5 września 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 lutego 2006 r. w sprawie wzoru i sposobu prowadzenia ewidencji partii politycznych oraz szczegółowych zasad wydawania odpisów i wyciągów z ewidencji i statutów tych partii (Dz. U. poz. 235), które utraciło moc z dniem 5 września 2021 r. na podstawie art. 2 ustawy z dnia 24 czerwca 2021 r. o zmianie ustawy o partiach politycznych (Dz. U. poz. 1407). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 lutego 2006 r. w sprawie wzoru i sposobu prowadzenia ewidencji partii politycznych oraz szczegółowych zasad wydawania odpisów i wyciągów z ewidencji i statutów tych partii (Dz. U. poz. 235), które utraciło moc z dniem 5 września 2021 r. na podstawie art. 2 ustawy z dnia 24 czerwca 2021 r. o zmianie ustawy o partiach politycznych (Dz. U. poz. 1407).
 
 # Księga ewidencji powinna być oprawiona, a karty w niej – ponumerowane. Liczbę kart poświadcza się na ostatniej stronie. Wykreślenie partii politycznej z ewidencji zaznacza się znakiem „L”.
 

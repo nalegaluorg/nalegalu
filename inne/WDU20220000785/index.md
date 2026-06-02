@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 31 marca 2022 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej w ramach działania „Zarządzanie ryzykiem” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 31 marca 2022 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej w ramach działania „Zarządzanie ryzykiem” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-31 |
 | Data wydania | 2022-04-08 |
-| Wejście w życie | 2022-04-09 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000785) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/785/text.pdf) |
 
@@ -89,8 +88,7 @@ Wartość produkcji drobiu, bydła lub świń, o której mowa w ust. 2 pkt 2, je
 1)
 bydła lub świń przewidzianej do prowadzenia w roku zawarcia umowy ubezpieczenia działalności rolniczej w zakresie produkcji bydła lub świń, które zostały zgłoszone przez producenta rolnego do Systemu Identyfikacji i Rejestracji Zwierząt, o którym mowa w ustawie z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2021 r. poz. 1542),
 2)
-drobiu przewidzianej do prowadzenia w roku zawarcia umowy ubezpieczenia działalności rolniczej w zakresie produkcji drobiu zadeklarowanej przez producenta rolnego w oświadczeniu, o którym mowa w § 6 ust. 2 pkt 4
-oraz średniej masy ciała zwierzęcia z gatunku drób, bydło lub świnie, a w przypadku drobiu nieśnego – średniej liczby jaj od jednej sztuki drobiu nieśnego i średniej ceny skupu ustalonej na podstawie wynikowych informacji statystycznych ogłaszanych, udostępnianych lub rozpowszechnianych zgodnie z przepisami o statystyce publicznej z trzech kolejnych lat poprzedzających rok zawarcia umowy ubezpieczenia albo z trzech lat w okresie pięcioletnim z pominięciem roku, w którym zanotowano najwyższą i najniższą cenę skupu.
+drobiu przewidzianej do prowadzenia w roku zawarcia umowy ubezpieczenia działalności rolniczej w zakresie produkcji drobiu zadeklarowanej przez producenta rolnego w oświadczeniu, o którym mowa w § 6 ust. 2 pkt 4 – oraz średniej masy ciała zwierzęcia z gatunku drób, bydło lub świnie, a w przypadku drobiu nieśnego – średniej liczby jaj od jednej sztuki drobiu nieśnego i średniej ceny skupu ustalonej na podstawie wynikowych informacji statystycznych ogłaszanych, udostępnianych lub rozpowszechnianych zgodnie z przepisami o statystyce publicznej z trzech kolejnych lat poprzedzających rok zawarcia umowy ubezpieczenia albo z trzech lat w okresie pięcioletnim z pominięciem roku, w którym zanotowano najwyższą i najniższą cenę skupu.
 4.
 Deklarowaną przez producenta rolnego liczbę drobiu, o której mowa w ust. 3 pkt 2, powiatowy lekarz weterynarii właściwy ze względu na miejsce prowadzenia działalności rolniczej w zakresie produkcji drobiu potwierdza albo odmawia jej potwierdzenia na podstawie danych zawartych w rejestrze, o którym mowa w art. 11 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2020 r. poz. 1421), sporządzając na oświadczeniu producenta rolnego, o którym mowa w § 6 ust. 2 pkt 4, adnotację o zgodności albo niezgodności podanej przez producenta rolnego liczby drobiu z danymi zawartymi w tym rejestrze.
 5.
@@ -142,7 +140,7 @@ kwotę zapłaconych do dnia złożenia wniosku o przyznanie pomocy składek z ty
 8)
 oświadczenie producenta rolnego:
 a)
-o niepodleganiu zakazowi dostępu do środków publicznych, o których mowa w art. 5 ust. 3 pkt 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.), na podstawie prawomocnego orzeczenia sądowego,
+o niepodleganiu zakazowi dostępu do środków publicznych, o których mowa w art. 5 ust. 3 pkt 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583 i 655.), na podstawie prawomocnego orzeczenia sądowego,
 b)
 o nieprzyznaniu na podstawie odrębnych przepisów dopłaty do składki z tytułu ubezpieczenia wynikającej z umowy ubezpieczenia,
 c)
@@ -182,11 +180,11 @@ wstąpienie do toczącego się postępowania na miejsce producenta rolnego ubieg
 2)
 przyznanie pomocy następcy prawnemu producenta rolnego, któremu przyznano pomoc, albo nabywcy gospodarstwa lub jego części, albo przejmującemu posiadanie gospodarstwa lub jego części.
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583 i 655.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583 i 655.
 Załącznik – Tekst załącznika
 I.
-Średnia masa ciała zwierząt z gatunku drób, bydło lub świnie Lp. Gatunek zwierząt Średnia masa ciała zwierząt w kilogramach 1 Kurczęta brojlery 2,50 2 Młode indory rzeźne 22,56 3 Młode indyczki rzeźne 10,32 4 Gęsi rzeźne 7,00 5 Bydło w wieku: 1) do miesiąca; 50,00 2) powyżej miesiąca do 8 miesięcy: a) samice, 140,00 b) samce; 205,00 3) powyżej 8 miesięcy do 3 lat: a) samice, 200,00 b) samce; 325,00 4) powyżej 3 lat do 5 lat: a) samice, 300,00 b) samce; 450,00 5) powyżej 5 lat: a) samice, 450,00 b) samce 750,00 6 Świnia w wieku: 1) do 2 miesięcy; 16,00 2) powyżej 2 miesięcy do 5 miesięcy; 60,00 3) powyżej 5 miesięcy do 8 miesięcy; 100,00 4) powyżej 8 miesięcy do 12 miesięcy 125,00
+Średnia masa ciała zwierząt z gatunku drób, bydło lub świnie
+Lp. Gatunek zwierząt Średnia masa ciała zwierząt w kilogramach 1 Kurczęta brojlery 2,50 2 Młode indory rzeźne 22,56 3 Młode indyczki rzeźne 10,32 4 Gęsi rzeźne 7,00 5 Bydło w wieku: 1) do miesiąca; 50,00 2) powyżej miesiąca do 8 miesięcy: a) samice, 140,00 b) samce; 205,00 3) powyżej 8 miesięcy do 3 lat: a) samice, 200,00 b) samce; 325,00 4) powyżej 3 lat do 5 lat: a) samice, 300,00 b) samce; 450,00 5) powyżej 5 lat: a) samice, 450,00 b) samce 750,00 6 Świnia w wieku: 1) do 2 miesięcy; 16,00 2) powyżej 2 miesięcy do 5 miesięcy; 60,00 3) powyżej 5 miesięcy do 8 miesięcy; 100,00 4) powyżej 8 miesięcy do 12 miesięcy 125,00
 II.
 Średnia roczna liczba jaj od jednej sztuki drobiu nieśnego – 219 sztuk
 

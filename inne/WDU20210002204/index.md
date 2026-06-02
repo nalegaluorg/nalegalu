@@ -22,15 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-30 |
 | Data wydania | 2021-12-01 |
-| Wejście w życie | 2021-12-01 |
 | Ostatnia zmiana | 2025-08-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002204) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2204/text.pdf) |
 
-Treść rozporządzenia § 1. Rozdział 1 – Przepisy ogólne Rozdział 2 – Przepisy dotyczące kont wykorzystywanych w elektronicznym postępowaniu upominawczym Rozdział 3 – Przepisy dotyczące kont wykorzystywanych w postępowaniu wieczystoksięgowym Rozdział 4 – Przepis końcowy
+Treść rozporządzenia
+§ 1.
 Treść rozporządzenia
 Na podstawie art. 53d ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072 oraz z 2021 r. poz. 1080 i 1236) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa tryb zakładania i udostępniania konta oraz sposób korzystania z konta i zamykania konta w systemie teleinformatycznym obsługującym postępowanie sądowe.
+Przepisy ogólne
 § 2.
 1.
 Ilekroć w rozporządzeniu jest mowa o:
@@ -71,7 +72,7 @@ inny niż polski identyfikator podatku od wartości dodanej – kraj, wartość,
 d)
 inny niż polski identyfikator krajowego rejestru handlowego – kraj, wartość,
 e)
-numer autoryzacji dostawcy usług płatniczych zgodnie z dyrektywą Parlamentu Europejskiego i Rady (UE) 2015/2366 z dnia 25 listopada 2015 r. w sprawie usług płatniczych w ramach rynku wewnętrznego, zmieniającą dyrektywy 2002/65/WE, 2009/110/WE, 2013/36/UE i rozporządzenie (UE) nr 1093/2010 oraz uchylającą dyrektywę 2007/64/WE (Dz. Urz. UE L 337 z 23.12.2015, str. 35, z późn. zm.) – kraj, wartość,
+numer autoryzacji dostawcy usług płatniczych zgodnie z dyrektywą Parlamentu Europejskiego i Rady (UE) 2015/2366 z dnia 25 listopada 2015 r. w sprawie usług płatniczych w ramach rynku wewnętrznego, zmieniającą dyrektywy 2002/65/WE, 2009/110/WE, 2013/36/UE i rozporządzenie (UE) nr 1093/2010 oraz uchylającą dyrektywę 2007/64/WE (Dz. Urz. UE L 337 z 23.12.2015, str. 35, z późn. zm.)Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 102 z 23.04.2018, str. 97. – kraj, wartość,
 f)
 globalny identyfikator podmiotu prawnego według ISO 17442 – oznaczenie kraju według ISO 3166 równe XG, wartość,
 g)
@@ -116,8 +117,7 @@ Konto podmiotu niebędącego osobą fizyczną zakłada w systemie teleinformatyc
 1)
 sąd – po złożeniu za pośrednictwem systemu teleinformatycznego w imieniu tego podmiotu pisma procesowego albo
 2)
-Minister Sprawiedliwości – po zgłoszeniu za pośrednictwem systemu teleinformatycznego potrzeby posiadania konta
-wraz z jednoczesnym zgłoszeniem administratora lub administratorów konta.
+Minister Sprawiedliwości – po zgłoszeniu za pośrednictwem systemu teleinformatycznego potrzeby posiadania konta – wraz z jednoczesnym zgłoszeniem administratora lub administratorów konta.
 2.
 Do zgłoszenia, o którym mowa w ust. 1 pkt 2, dołącza się dokumenty potwierdzające umocowanie do działania w imieniu podmiotu niebędącego osobą fizyczną, chyba że stwierdzenie umocowania jest możliwe na podstawie wykazu lub innego rejestru, do którego Minister Sprawiedliwości ma dostęp drogą elektroniczną; okoliczność tę należy wskazać w treści zgłoszenia.
 3.
@@ -156,6 +156,7 @@ Konto podmiotu niebędącego osobą fizyczną jest zamykane na skutek zgłoszeni
 W przypadku, o którym mowa w ust. 2, przepis § 5 ust. 2 stosuje się odpowiednio.
 § 8.
 Przepisów § 3–7 nie stosuje się do kont wykorzystywanych w elektronicznym postępowaniu upominawczym oraz postępowaniu wieczystoksięgowym wszczynanym za pośrednictwem systemu teleinformatycznego.
+Przepisy dotyczące kont wykorzystywanych w elektronicznym postępowaniu upominawczym
 § 9.
 1.
 W elektronicznym postępowaniu upominawczym konto zakłada się w systemie teleinformatycznym na wniosek złożony za pośrednictwem tego systemu.
@@ -175,6 +176,7 @@ przez wpisanie nazwy użytkownika i hasła;
 przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej.
 § 11.
 Sąd Rejonowy Lublin-Zachód w Lublinie zamyka konto na wniosek użytkownika konta złożony w formie pisemnej do tego sądu.
+Przepisy dotyczące kont wykorzystywanych w postępowaniu wieczystoksięgowym
 § 12.
 1.
 W postępowaniu wieczystoksięgowym wszczynanym za pośrednictwem systemu teleinformatycznego konto dla notariusza, zastępcy notarialnego, emerytowanego notariusza, komornika, asesora komorniczego, naczelnika urzędu skarbowego lub zastępcy naczelnika urzędu skarbowego, przewodniczącego Komisji do spraw reprywatyzacji nieruchomości warszawskich, wydanych z naruszeniem prawa, zwanej dalej „Komisją”, lub jej członka zakłada się w systemie teleinformatycznym na ich wniosek złożony do Ministra Sprawiedliwości.
@@ -196,7 +198,7 @@ Wniosek składany przez naczelnika urzędu skarbowego lub zastępcę naczelnika 
 Wniosek niespełniający wymagań, o których mowa w § 12, Minister Sprawiedliwości pozostawia bez rozpatrzenia, o czym zawiadamia się wnioskodawcę. Zawiadomienie z podaniem przyczyny nierozpatrzenia doręcza się na adres wskazany we wniosku, chyba że nie został wskazany.
 § 14.
 1.
-Konto, o którym mowa w § 12 ust. 1, zakłada się i udostępnia użytkownikowi konta po automatycznej weryfikacji danych notariusza, zastępcy notarialnego, komornika, asesora komorniczego, naczelnika urzędu skarbowego lub zastępcy naczelnika urzędu skarbowego zgodnie z ich listą prowadzoną na podstawie – odpowiednio – art. 41a § 1 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie, art. 216 ustawy z dnia 22 marca 2018 r. o komornikach sądowych lub art. 15 ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2021 r. poz. 422, z późn. zm.).
+Konto, o którym mowa w § 12 ust. 1, zakłada się i udostępnia użytkownikowi konta po automatycznej weryfikacji danych notariusza, zastępcy notarialnego, komornika, asesora komorniczego, naczelnika urzędu skarbowego lub zastępcy naczelnika urzędu skarbowego zgodnie z ich listą prowadzoną na podstawie – odpowiednio – art. 41a § 1 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie, art. 216 ustawy z dnia 22 marca 2018 r. o komornikach sądowych lub art. 15 ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2021 r. poz. 422, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 464, 694, 802, 815, 954, 1003, 1005, 1718, 2076 i 2105.).
 2.
 Po założeniu konta notariusz, zastępca notarialny, emerytowany notariusz, komornik, asesor komorniczy, naczelnik urzędu skarbowego lub zastępca naczelnika urzędu skarbowego, przewodniczący Komisji lub jej członek otrzymują certyfikat dostępowy umożliwiający uwierzytelnienie w systemie teleinformatycznym.
 § 15.
@@ -213,14 +215,23 @@ W postępowaniu wieczystoksięgowym wszczynanym za pośrednictwem systemu telein
 Zamknięcie konta, o którym mowa w § 12 ust. 1, następuje przez unieważnienie certyfikatu dostępowego, o którym mowa w § 14 ust. 2.
 2.
 Konto, o którym mowa w § 16, jest zamykane przez administratora systemu teleinformatycznego obsługującego postępowanie sądowe na wniosek złożony w formie pisemnej do Ministra Sprawiedliwości.
+Przepis końcowy
 § 19.
-Rozporządzenie wchodzi w życie z dniem 1 grudnia 2021 r., z wyjątkiem § 10 pkt 2, który wchodzi w życie 1 stycznia 2022 r.
+Rozporządzenie wchodzi w życie z dniem 1 grudnia 2021 r., z wyjątkiem § 10 pkt 2, który wchodzi w życie 1 stycznia 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 26 kwietnia 2016 r. w sprawie trybu zakładania i udostępniania konta w systemie teleinformatycznym obsługującym postępowanie sądowe (Dz. U. poz. 637, z 2017 r. poz. 267 i 1699 oraz z 2018 r. poz. 533), które traci moc z dniem 1 grudnia 2021 r. na podstawie art. 14 ustawy z dnia 6 grudnia 2018 r. o Krajowym Rejestrze Zadłużonych (Dz. U. z 2021 r. poz. 1909). 1) Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 102 z 23.04.2018, str. 97. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 464, 694, 802, 815, 954, 1003, 1005, 1718, 2076 i 2105. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 26 kwietnia 2016 r. w sprawie trybu zakładania i udostępniania konta w systemie teleinformatycznym obsługującym postępowanie sądowe (Dz. U. poz. 637, z 2017 r. poz. 267 i 1699 oraz z 2018 r. poz. 533), które traci moc z dniem 1 grudnia 2021 r. na podstawie art. 14 ustawy z dnia 6 grudnia 2018 r. o Krajowym Rejestrze Zadłużonych (Dz. U. z 2021 r. poz. 1909).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Przepisy dotyczące kont wykorzystywanych w elektronicznym postępowaniu upominawczym
+#### Rozdział 2 – Przepisy dotyczące kont wykorzystywanych w elektronicznym postępowaniu upominawczym
 
-#### Rozdział 3 Przepisy dotyczące kont wykorzystywanych w postępowaniu wieczystoksięgowym
+#### Rozdział 3 – Przepisy dotyczące kont wykorzystywanych w postępowaniu wieczystoksięgowym
 
-#### Rozdział 4 Przepis końcowy
+#### Rozdział 4 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

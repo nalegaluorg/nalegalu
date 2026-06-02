@@ -26,20 +26,22 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000129) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/129/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 6 lipca 2001 r. o usługach detektywistycznych Rozdział 1 – Przepisy ogólne Rozdział 2 – Prawa i obowiązki detektywa Rozdział 3 – Zasady wykonywania działalności gospodarczej w zakresie usług detektywistycznych Rozdział 3a – Przetwarzanie danych osobowych Rozdział 4 – Wymagania kwalifikacyjne detektywów Rozdział 5 – Przepisy karne Rozdział 6 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 6 lipca 2001 r. o usługach detektywistycznych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 lipca 2001 r. o usługach detektywistycznych (Dz. U. z 2018 r. poz. 2163), z uwzględnieniem zmian wprowadzonych:
 1)
 ustawą z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 398 i 650 oraz z 2019 r. poz. 55 i 1214),
 2)
-ustawą z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 stycznia 2020 r.
+ustawą z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730) oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 stycznia 2020 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-odnośnika nr 1 oraz art. 55 ustawy z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 398 i 650 oraz z 2019 r. poz. 55 i 1214), które stanowią: „ 1) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek (Dz. Urz. UE L 169 z 30.06.2017, str. 46–127). ”
-„
+odnośnika nr 1 oraz art. 55 ustawy z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 398 i 650 oraz z 2019 r. poz. 55 i 1214), które stanowią: „ 1) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek (Dz. Urz. UE L 169 z 30.06.2017, str. 46–127). ” „
+Przepisy ogólne
+Prawa i obowiązki detektywa
+Zasady wykonywania działalności gospodarczej w zakresie usług detektywistycznych
+Przetwarzanie danych osobowychRozdział dodany przez art. 56 pkt 3 ustawy, o której mowa w odnośniku 1.
 Detektyw lub zatrudniający go przedsiębiorca przetwarza dane osobowe zebrane w toku wykonywania czynności, o których mowa w art. 2 ust. 1, bez zgody osób, których dane dotyczą, wyłącznie w zakresie realizacji usługi detektywistycznej.
 1.
 Po zrealizowaniu usługi detektywistycznej detektyw lub zatrudniający go przedsiębiorca obowiązany jest przekazać zleceniodawcy dane osobowe zebrane podczas wykonywania czynności, o których mowa w art. 2 ust. 1.
@@ -57,10 +59,27 @@ podpis zleceniodawcy, w przypadku odebrania przetwarzanych danych osobowych, ora
 Niszczenie przetwarzanych danych osobowych przez detektywa odbywa się w obecności przedsiębiorcy lub wyznaczonej przez niego osoby. Przedsiębiorca lub wyznaczona przez niego osoba podpisuje notatkę, o której mowa w ust. 3.
 5.
 Detektyw lub zatrudniający go przedsiębiorca może przekazać dane osobowe zebrane w toku wykonywania czynności, o których mowa w art. 2 ust. 1, wyłącznie innemu detektywowi wyznaczonemu przez przedsiębiorcę do współdziałania w ramach realizowanej usługi detektywistycznej albo do przejęcia dalszej realizacji usługi detektywistycznej.
-Do przetwarzania danych osobowych zebranych w toku wykonywania czynności, o których mowa w art. 2 ust. 1, nie stosuje się przepisów art. 13 ust. 1 i 2 oraz art. 15 ust. 1 lit. a, c i g rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.).
+Do przetwarzania danych osobowych zebranych w toku wykonywania czynności, o których mowa w art. 2 ust. 1, nie stosuje się przepisów art. 13 ust. 1 i 2 oraz art. 15 ust. 1 lit. a, c i g rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2..
 Przedsiębiorca realizujący usługi detektywistyczne informuje o ograniczeniach, o których mowa w art. 28c, na swojej stronie internetowej lub przez wywieszenie w stałym miejscu wykonywania swojej działalności.
+Wymagania kwalifikacyjne detektywów
+Przepisy karne
+Przepisy przejściowe i końcowe
 Art. 47–49.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Prawa i obowiązki detektywa
+
+#### Rozdział 3 – Zasady wykonywania działalności gospodarczej w zakresie usług detektywistycznych
+
+#### Rozdział 3a – Przetwarzanie danych osobowych
+
+#### Rozdział 4 – Wymagania kwalifikacyjne detektywów
+
+#### Rozdział 5 – Przepisy karne
+
+#### Rozdział 6 – Przepisy przejściowe i końcowe
 
 **Art. 55.** Ustawa wchodzi w życie z dniem 15 marca 2018 r., z wyjątkiem:
 
@@ -77,7 +96,7 @@ Art. 47–49.
 - **2)** art. 107 pkt 7 i 8, które wchodzą w życie z dniem 1 maja 2019 r.;
 - **3)** art. 157 pkt 2, który wchodzi w życie z dniem 13 października 2019 r. ” . Załącznik – Tekst jednolity ustawy z dnia 6 lipca 2001 r. o usługach detektywistycznych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -115,13 +134,13 @@ Art. 47–49.
 
 **Art. 5.** (uchylony)
 
-#### Rozdział 2 Prawa i obowiązki detektywa
+#### Rozdział 2
 
 **Art. 6.** Detektyw powinien, przy wykonywaniu czynności, o których mowa w art. 2 ust. 1, kierować się zasadami etyki, lojalnością wobec zlecającego usługę i szczególną starannością, aby nie naruszyć wolności i praw człowieka i obywatela.
 
 **Art. 7.** Wykonując usługi detektywistyczne, o których mowa w art. 2 ust. 1, detektyw nie może stosować środków technicznych oraz metod i czynności operacyjno-rozpoznawczych, zastrzeżonych dla upoważnionych organów na mocy odrębnych przepisów.
 
-**Art. 8.** (uchylony)
+**Art. 8.** (uchylony)Przez art. 56 pkt 1 ustawy z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730), która weszła w życie z dniem 4 maja 2019 r.
 
 **Art. 9.** O ile przepisy innych ustaw nie stanowią inaczej, detektyw, w trakcie wykonywania czynności, o których mowa w art. 2 ust. 1, może uzyskiwać informacje od osób fizycznych, przedsiębiorców, instytucji, a także organów administracji rządowej lub samorządowej.
 
@@ -149,16 +168,14 @@ Art. 47–49.
 
 **Art. 14.** Detektyw ponosi odpowiedzialność za szkody wyrządzone podczas wykonywania czynności, o których mowa w art. 2 ust. 1, oraz wskutek podania nieprawdziwych informacji, na zasadach określonych w Kodeksie cywilnym.
 
-#### Rozdział 3 Zasady wykonywania działalności gospodarczej w zakresie usług detektywistycznych
+#### Rozdział 3
 
 **Art. 15.** Przedsiębiorca może wykonywać działalność, o której mowa w art. 3, jeżeli:
 
-- **1)** posiada licencję: przedsiębiorca lub ustanowiony przez niego pełnomocnik – w przypadku przedsiębiorcy będącego osobą fizyczną, co najmniej jedna osoba uprawniona do reprezentowania przedsiębiorcy lub pełnomocnik ustanowiony przez przedsiębiorcę do kierowania działalnością detektywistyczną – w przypadku przedsiębiorcy niebędącego osobą fizyczną;
+- **1)** posiada licencję: przedsiębiorca lub ustanowiony przez niego pełnomocnik – w przypadku przedsiębiorcy będącego osobą fizyczną, co najmniej jedna osoba uprawniona do reprezentowania przedsiębiorcy lub pełnomocnik ustanowiony przez przedsiębiorcę do kierowania działalnością detektywistyczną – w przypadku przedsiębiorcy niebędącego osobą fizyczną; 2W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 3.) nie jest wpisany do rejestru dłużników niewypłacalnych Krajowego Rejestru Sądowego; 2W brzmieniu ustalonym przez art. 19 ustawy z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 398 i 650 oraz z 2019 r. poz. 55 i 1214), która weszła w życie z dniem 15 marca 2018 r.; wejdzie w życie z dniem 1 grudnia 2020 r.) nie jest wpisany do rejestru dłużników niewypłacalnych Krajowego Rejestru Sądowego oraz nie jest ujawniony w Krajowym Rejestrze Zadłużonych;
     - **a)**
     - **b)**
 
-- **2)** nie jest wpisany do rejestru dłużników niewypłacalnych Krajowego Rejestru Sądowego;
-- **2)** nie jest wpisany do rejestru dłużników niewypłacalnych Krajowego Rejestru Sądowego oraz nie jest ujawniony w Krajowym Rejestrze Zadłużonych;
 - **3)** osoby nieposiadające licencji, wchodzące w skład organu zarządzającego przedsiębiorcy oraz ustanowieni przez ten organ prokurenci oraz przedsiębiorca będący osobą fizyczną nie byli karani za przestępstwa umyślne lub umyślne przestępstwa skarbowe;
 - **4)** zawarł umowę ubezpieczenia, o której mowa w art. 24 ust. 1.
 
@@ -289,7 +306,7 @@ Art. 47–49.
 
 2. Minister właściwy do spraw instytucji finansowych, w porozumieniu z ministrem właściwym do spraw wewnętrznych, po zasięgnięciu opinii Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 1, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc w szczególności pod uwagę specyfikę wykonywanego zawodu oraz zakres realizowanych zadań.
 
-**Art. 25.** Przedsiębiorca wykonujący działalność gospodarczą w zakresie usług detektywistycznych jest obowiązany, niezwłocznie po zawarciu umowy, o której mowa w art. 2 ust. 1, powiadomić na piśmie o jej zawarciu organ prowadzący postępowanie karne lub postępowanie w sprawach o przestępstwa skarbowe i wykroczenia skarbowe, jeżeli z treści tej umowy wynika, że może się ona wiązać ze sprawą, w której prowadzone jest postępowanie. (uchylony) Przedsiębiorca jest uprawniony do żądania od zleceniodawcy dokumentów, w tym okazania dokumentów stwierdzających tożsamość, koniecznych do oceny, czy zawarcie umowy i jej wykonanie będzie zgodne z wymaganiami określonymi w art. 6 oraz art. 11.
+**Art. 25.** Przedsiębiorca wykonujący działalność gospodarczą w zakresie usług detektywistycznych jest obowiązany, niezwłocznie po zawarciu umowy, o której mowa w art. 2 ust. 1, powiadomić na piśmie o jej zawarciu organ prowadzący postępowanie karne lub postępowanie w sprawach o przestępstwa skarbowe i wykroczenia skarbowe, jeżeli z treści tej umowy wynika, że może się ona wiązać ze sprawą, w której prowadzone jest postępowanie. (uchylony)Przez art. 56 pkt 2 ustawy, o której mowa w odnośniku 1. Przedsiębiorca jest uprawniony do żądania od zleceniodawcy dokumentów, w tym okazania dokumentów stwierdzających tożsamość, koniecznych do oceny, czy zawarcie umowy i jej wykonanie będzie zgodne z wymaganiami określonymi w art. 6 oraz art. 11.
 
 **Art. 26.** (uchylony)
 
@@ -319,9 +336,9 @@ Art. 47–49.
 
 **Art. 28.** W sprawach działalności w zakresie usług detektywistycznych nieuregulowanych w ustawie stosuje się przepisy ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
-#### Rozdział 3a Przetwarzanie danych osobowych
+#### Rozdział 3a
 
-#### Rozdział 4 Wymagania kwalifikacyjne detektywów
+#### Rozdział 4
 
 **Art. 29.**
 
@@ -411,7 +428,7 @@ Art. 47–49.
 **Art. 41.** Osoby posiadające licencję są obowiązane poddawać się okresowym badaniom lekarskim i psychologicznym. W stosunku do osób, wobec których zostało wydane orzeczenie:
 
 - **1)** lekarskie, o którym mowa w art. 29 ust. 1 pkt 9,
-- **2)** lekarskie i psychologiczne, na podstawie przeprowadzonych badań, o których mowa w art. 41 nie stosuje się przepisów art. 229 § 1 i 2 Kodeksu pracy.
+- **2)** lekarskie i psychologiczne, na podstawie przeprowadzonych badań, o których mowa w art. 41 – nie stosuje się przepisów art. 229 § 1 i 2 Kodeksu pracy.
 
 **Art. 42.**
 
@@ -431,7 +448,7 @@ Art. 47–49.
 
 **Art. 43.** Koszty związane z przeprowadzeniem badań potwierdzających zdolność psychiczną do wykonywania czynności detektywa ponosi osoba poddająca się badaniu.
 
-#### Rozdział 5 Przepisy karne
+#### Rozdział 5
 
 **Art. 44.** Kto, wbrew obowiązkowi, o którym mowa w art. 25, nie wypełnia obowiązku zawiadomienia organu prowadzącego postępowanie karne lub postępowanie w sprawach o przestępstwa skarbowe i wykroczenia skarbowe o zawarciu umowy mającej związek ze sprawą, w której prowadzone jest postępowanie karne lub postępowanie w sprawach o przestępstwa skarbowe i wykroczenia skarbowe, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
 
@@ -443,9 +460,9 @@ Art. 47–49.
 
 2. Tej samej karze podlega osoba wykonująca czynności detektywa w ramach prowadzonej działalności gospodarczej bez wymaganej licencji.
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6
 
 **Art. 50.** (uchylony)
 
-**Art. 51.** (pominięty)
+**Art. 51.** (pominięty)Jako niezgodny z art. 2 i art. 42 ust. 1 zdanie pierwsze Konstytucji Rzeczypospolitej Polskiej na podstawie wyroku Trybunału Konstytucyjnego z dnia 3 października 2001 r. sygn. akt K. 27/2001 (M. P. poz. 739). Ustawa weszła w życie – zgodnie z art. 4 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. poz. 718 oraz z 2001 r. poz. 499) – po upływie 14 dni od dnia ogłoszenia, które miało miejsce w dniu 15 lutego 2002 r. 1) Przez art. 56 pkt 1 ustawy z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730), która weszła w życie z dniem 4 maja 2019 r. 2) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 3. 3) W brzmieniu ustalonym przez art. 19 ustawy z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 398 i 650 oraz z 2019 r. poz. 55 i 1214), która weszła w życie z dniem 15 marca 2018 r.; wejdzie w życie z dniem 1 grudnia 2020 r. 4) Przez art. 56 pkt 2 ustawy, o której mowa w odnośniku 1. 5) Rozdział dodany przez art. 56 pkt 3 ustawy, o której mowa w odnośniku 1. 6) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2. 7) Jako niezgodny z art. 2 i art. 42 ust. 1 zdanie pierwsze Konstytucji Rzeczypospolitej Polskiej na podstawie wyroku Trybunału Konstytucyjnego z dnia 3 października 2001 r. sygn. akt K. 27/2001 (M. P. poz. 739). Ustawa weszła w życie – zgodnie z art. 4 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. poz. 718 oraz z 2001 r. poz. 499) – po upływie 14 dni od dnia ogłoszenia, które miało miejsce w dniu 15 lutego 2002 r.
 

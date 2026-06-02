@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-30 |
 | Data wydania | 2013-12-31 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001729) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1729/text.pdf) |
 
@@ -31,14 +30,11 @@ Na podstawie art. 122 ust. 2 ustawy z dnia 3 października 2008 r. o udostępnia
 § 1.
 W rozporządzeniu Prezesa Rady Ministrów z dnia 12 listopada 2008 r. w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska (Dz. U. Nr 202, poz. 1250 oraz z 2010 r. Nr 34, poz. 180) w załączniku do rozporządzenia wprowadza się następujące zmiany:
 1)
-w § 2 ust. 1 otrzymuje brzmienie:
-„
+w § 2 ust. 1 otrzymuje brzmienie: „
 1.
-Generalny Dyrektor kieruje Generalną Dyrekcją przy pomocy zastępców Generalnego Dyrektora, dyrektora generalnego urzędu oraz dyrektorów komórek organizacyjnych i osób zajmujących stanowiska, o których mowa w § 3 ust. 1.
-” ;
+Generalny Dyrektor kieruje Generalną Dyrekcją przy pomocy zastępców Generalnego Dyrektora, dyrektora generalnego urzędu oraz dyrektorów komórek organizacyjnych i osób zajmujących stanowiska, o których mowa w § 3 ust. 1. ” ;
 2)
-w § 3 ust. 1 otrzymuje brzmienie:
-„
+w § 3 ust. 1 otrzymuje brzmienie: „
 1.
 W skład Generalnej Dyrekcji wchodzą następujące komórki organizacyjne i stanowiska:
 1)
@@ -58,8 +54,7 @@ Zespół do spraw Budżetu i Finansów;
 8)
 Stanowisko do spraw Audytu Wewnętrznego;
 9)
-Stanowisko do spraw Ochrony Informacji Niejawnych.
-” .
+Stanowisko do spraw Ochrony Informacji Niejawnych. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
 

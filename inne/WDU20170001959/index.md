@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 17 października 2017 r. w sprawie rodzajów szkół artystycznych, w których nie tworzy się rad rodziców
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 17 października 2017 r. w sprawie rodzajów szkół artystycznych, w których nie tworzy się rad rodziców Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-17 |
 | Data wydania | 2017-10-20 |
-| Wejście w życie | 2017-10-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001959) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1959/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 83 ust. 6 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatow
 § 1.
 W prowadzonych przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego oraz przez jednostki samorządu terytorialnego szkołach policealnych kształcących w zawodach artystycznych nie tworzy się rad rodziców.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
 

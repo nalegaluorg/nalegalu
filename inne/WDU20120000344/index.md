@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-03-26 |
 | Data wydania | 2012-03-29 |
-| Wejście w życie | 2012-04-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000344) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/344/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 58 ust. 4 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. Nr 104, poz. 708, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 58 ust. 4 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. Nr 104, poz. 708, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 158, poz. 1122 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, z 2008 r. Nr 171, poz. 1056, z 2009 r. Nr 18, poz. 97, Nr 85, poz. 716, Nr 105, poz. 880 i Nr 157, poz. 1241, z 2010 r. Nr 151, poz. 1014, Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455, Nr 117, poz. 677, Nr 122, poz. 696 i Nr 171, poz. 1016.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -67,5 +66,5 @@ Przy określaniu warunków pełnienia dyżurów ustala się w szczególności mi
 § 6.
 Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 16 października 2006 r. w sprawie warunków i trybu przenoszenia funkcjonariuszy do dyspozycji Szefa Centralnego Biura Antykorupcyjnego (Dz. U. Nr 190, poz. 1404).
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 158, poz. 1122 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, z 2008 r. Nr 171, poz. 1056, z 2009 r. Nr 18, poz. 97, Nr 85, poz. 716, Nr 105, poz. 880 i Nr 157, poz. 1241, z 2010 r. Nr 151, poz. 1014, Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455, Nr 117, poz. 677, Nr 122, poz. 696 i Nr 171, poz. 1016.
 

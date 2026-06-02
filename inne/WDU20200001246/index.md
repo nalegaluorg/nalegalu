@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 13 lipca 2020 r. w sprawie programu pilotażowego w zakresie rehabilitacji leczniczej dla świadczeniobiorców po przebytej chorobie COVID-19
+# Rozporządzenie Ministra Zdrowiaz dnia 13 lipca 2020 r. w sprawie programu pilotażowego w zakresie rehabilitacji leczniczej dla świadczeniobiorców po przebytej chorobie COVID-19 Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-07-13 |
 | Data wydania | 2020-07-15 |
-| Wejście w życie | 2020-07-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001246) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1246/text.pdf) |
 
@@ -33,7 +32,7 @@ Treść rozporządzenia
 ## Załącznik nr 2 — – Warunki realizacji świadczeń opieki zdrowotnej, w tym dotyczące personelu medycznego i wyposażenia w sprzęt i aparaturę medyczną
 
 Treść rozporządzenia
-Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473 oraz z 2020 r. poz. 695 i 945.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa warunki realizacji programu pilotażowego w zakresie rehabilitacji leczniczej dla świadczeniobiorców po przebytej chorobie COVID-19, zwanego dalej „programem pilotażowym”.
 § 2.
@@ -60,8 +59,7 @@ testu wysiłkowego na ergometrze rowerowym lub
 2)
 testu wysiłkowego na bieżni ruchomej, lub
 3)
-testu 6-minutowego marszu
-wykonywanych do osiągnięcia limitu tętna (tętna submaksymalnego).
+testu 6-minutowego marszu – wykonywanych do osiągnięcia limitu tętna (tętna submaksymalnego).
 3.
 Procedura kwalifikacyjna uwzględnia również duszność ocenianą według zmodyfikowanej skali Borga.
 4.
@@ -113,12 +111,14 @@ Fundusz przekazuje sprawozdanie, o którym mowa w ust. 1, ministrowi właściwem
 § 14.
 Podmiotem zobowiązanym do wdrożenia, finansowania, monitorowania i ewaluacji programu pilotażowego jest Fundusz.
 § 15.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473 oraz z 2020 r. poz. 695 i 945.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473 oraz z 2020 r. poz. 695 i 945.
 
 ## Załącznik nr 1 — – Modele fizjoterapii oddechowej oraz kryteria kwalifikacji do nich
 
-Modele fizjoterapii oddechowej Zakres świadczeń opieki zdrowotnej udzielanych w każdym z modeli fizjoterapii oddechowej Obciążenie Model A, B, C Trening wydolnościowy (na ergometrze rowerowym lub bieżni ruchomej lub trening marszowy), ćwiczenia oddechowe (ćwiczenia rozluźniające, ćwiczenia wydłużonego wydechu, ćwiczenia oddychania przeponowego, ćwiczenia zwiększające ruch oddechowy dolnożebrowy), trening stacyjny, ćwiczenia ogólnousprawniające, techniki usuwania wydzieliny z drzewa oskrzelowego (pozycje drenażowe, efektywny kaszel, czynna wibracja oskrzeli, oklepywanie klatki piersiowej), inhalacje, relaksacja. Model A – 80% submaksymalnego tętnaModel B – 70% submaksymalnego tętnaModel C – 60% submaksymalnego tętna Model D, E Ćwiczenia oddechowe (ćwiczenia rozluźniające, ćwiczenia wydłużonego wydechu, ćwiczenia oddychania przeponowego, ćwiczenia zwiększające ruch oddechowy dolnożebrowy), trening stacyjny, ćwiczenia ogólnousprawniające, techniki usuwania wydzieliny z drzewa oskrzelowego (pozycje drenażowe, efektywny kaszel, czynna wibracja oskrzeli, oklepywanie klatki piersiowej), inhalacje, relaksacja. Model D – wzrost tętna do 30% w stosunku do tętna spoczynkowegoModel E – ćwiczenia w pozycji siedzącej na krześle, wzrost tętna do 20% w stosunku do tętna spoczynkowego
+Modele fizjoterapii oddechowej Zakres świadczeń opieki zdrowotnej udzielanych w każdym z modeli fizjoterapii oddechowej Obciążenie Model A, B, C Trening wydolnościowy (na ergometrze rowerowym lub bieżni ruchomej lub trening marszowy), ćwiczenia oddechowe (ćwiczenia rozluźniające, ćwiczenia wydłużonego wydechu, ćwiczenia oddychania przeponowego, ćwiczenia zwiększające ruch oddechowy dolnożebrowy), trening stacyjny, ćwiczenia ogólnousprawniające, techniki usuwania wydzieliny z drzewa oskrzelowego (pozycje drenażowe, efektywny kaszel, czynna wibracja oskrzeli, oklepywanie klatki piersiowej), inhalacje, relaksacja. Model A – 80% submaksymalnego tętna
+Model B – 70% submaksymalnego tętna
+Model C – 60% submaksymalnego tętna Model D, E Ćwiczenia oddechowe (ćwiczenia rozluźniające, ćwiczenia wydłużonego wydechu, ćwiczenia oddychania przeponowego, ćwiczenia zwiększające ruch oddechowy dolnożebrowy), trening stacyjny, ćwiczenia ogólnousprawniające, techniki usuwania wydzieliny z drzewa oskrzelowego (pozycje drenażowe, efektywny kaszel, czynna wibracja oskrzeli, oklepywanie klatki piersiowej), inhalacje, relaksacja. Model D – wzrost tętna do 30% w stosunku do tętna spoczynkowego
+Model E – ćwiczenia w pozycji siedzącej na krześle, wzrost tętna do 20% w stosunku do tętna spoczynkowego
 I.
 TRENING WYDOLNOŚCIOWY
 1.
@@ -168,9 +168,44 @@ RELAKSACJA Metody relaksowo-koncentrujące – relaksacja neuromięśniowa fizyc
 VIII.
 OPCJONALNIE WSPARCIE PSYCHOLOGICZNE
 IX.
-OPCJONALNIE ZABIEGI Z ZAKRESU FIZYKOTERAPII KRYTERIA KWALIFIKACJI ŚWIADCZENIOBIORCY DO JEDNEGO Z MODELI FIZJOTERAPII ODDECHOWEJ Test wysiłkowy/ duszność* <3 MET/ <320 metrów 3–4.9 MET/ 320–434 metrów 5–6.9 MET/ 435–520 metrów ≥7 MET/ >520 metrów 8–7 model D model D model C model B 6–4 model D model D lub C model C lub B model B lub A 3–2 model D model C model B model A 0–1 model D model C model B model A Przeciwwskazania do testu / duszność >8 model E * Stopień duszności i zmęczenia określa się według zmodyfikowanej skali Borga.
+OPCJONALNIE ZABIEGI Z ZAKRESU FIZYKOTERAPII KRYTERIA KWALIFIKACJI ŚWIADCZENIOBIORCY DO JEDNEGO Z MODELI FIZJOTERAPII ODDECHOWEJ
+Test wysiłkowy/ duszność* <3 MET/ <320 metrów 3–4.9 MET/ 320–434 metrów 5–6.9 MET/ 435–520 metrów ≥7 MET/ >520 metrów 8–7 model D model D model C model B 6–4 model D model D lub C model C lub B model B lub A 3–2 model D model C model B model A 0–1 model D model C model B model A Przeciwwskazania do testu / duszność >8 model E
+* Stopień duszności i zmęczenia określa się według zmodyfikowanej skali Borga.
 
 ## Załącznik nr 2 — – Warunki realizacji świadczeń opieki zdrowotnej, w tym dotyczące personelu medycznego i wyposażenia w sprzęt i aparaturę medyczną
 
-Warunki realizacji świadczeń opieki zdrowotnej, w tym dotyczące personelu medycznego i wyposażenia w sprzęt i aparaturę medyczną Rehabilitacja lecznicza świadczeniobiorców po przebytej chorobie COVID-19 1. Wymagania dotyczące personelu medycznego:1) lekarz specjalista chorób płuc lub specjalista w dziedzinie chorób wewnętrznych (w tym co najmniej 2 lekarzy specjalistów chorób płuc) udzielający świadczeń opieki zdrowotnej w wymiarze co najmniej 3 etatów;2) fizjoterapeuta (w tym co najmniej 2 specjalistów fizjoterapii) udzielający świadczeń opieki zdrowotnej w wymiarze co najmniej 8 etatów;3) psycholog lub psycholog posiadający tytuł specjalisty w dziedzinie psychologii klinicznej – równoważnik co najmniej 1/2 etatu przeliczeniowego;4) zapewnienie całodobowej opieki pielęgniarskiej – następuje z uwzględnieniem minimalnej liczby pielęgniarek lub położnych, ustalonej na podstawie przepisów wydanych na podstawie art. 50 ust. 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2020 r. poz. 295 i 567).2. Wyposażenie:1) oddział stacjonarny rehabilitacji pulmonologicznej nie mniejszy niż 50 łóżek (pokoje pacjentów nie większe niż 2-osobowe);2) gabinet kinezyterapii będący odrębnym pomieszczeniem -wyposażenie wymagane w lokalizacji: a) system do treningów monitorowanych, b) stół drenażowy, c) spirometr, d) bieżnia, e) stepper;3) sala kinezyterapii wyposażona w: a) stół rehabilitacyjny, b) drabinki rehabilitacyjne lub inne spełniające takie same funkcje, c) maty lub materace do kinezyterapii;4) gabinet fizykoterapii – wyposażenie wymagane w lokalizacji: a) zestaw do elektroterapii z osprzętem, b) zestaw do magnetoterapii, c) zestaw do terapii falą ultradźwiękową, d) zabiegi światłolecznictwa i elektrolecznictwa udzielane w osobnych pomieszczeniach (boksach), posiadających ściany o wysokości co najmniej 2,0 m, umożliwiających stosowanie wspólnej wentylacji mechanicznej;5) pracownia badań czynnościowych w lokalizacji;6) gabinet terapii indywidualnej w lokalizacji;7) sala do treningów interwałowych (cykloergometr, nie mniej niż 1 na 10 świadczeniobiorców);8) inhalatorium, w którym będą wykonywane inhalacje z wykorzystaniem leków rozszerzających oskrzela, rozrzedzających wydzielinę i wykrztuśnych.3. Wymagany zakres wykonywanych zabiegów:1) fizykoterapeutycznych: a) elektroterapia, b) światłolecznictwo, c) leczenie zmiennym polem elektromagnetycznym, ciepłolecznictwo, d) ultradźwięki, e) laseroterapia;2) kinezyterapia oraz drenaż ułożeniowy.
+Warunki realizacji świadczeń opieki zdrowotnej, w tym dotyczące personelu medycznego i wyposażenia w sprzęt i aparaturę medyczną Rehabilitacja lecznicza świadczeniobiorców po przebytej chorobie COVID-19 1. Wymagania dotyczące personelu medycznego:
+1) lekarz specjalista chorób płuc lub specjalista w dziedzinie chorób wewnętrznych (w tym co najmniej 2 lekarzy specjalistów chorób płuc) udzielający świadczeń opieki zdrowotnej w wymiarze co najmniej 3 etatów;
+2) fizjoterapeuta (w tym co najmniej 2 specjalistów fizjoterapii) udzielający świadczeń opieki zdrowotnej w wymiarze co najmniej 8 etatów;
+3) psycholog lub psycholog posiadający tytuł specjalisty w dziedzinie psychologii klinicznej – równoważnik co najmniej 1/2 etatu przeliczeniowego;
+4) zapewnienie całodobowej opieki pielęgniarskiej – następuje z uwzględnieniem minimalnej liczby pielęgniarek lub położnych, ustalonej na podstawie przepisów wydanych na podstawie art. 50 ust. 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2020 r. poz. 295 i 567).
+2. Wyposażenie:
+1) oddział stacjonarny rehabilitacji pulmonologicznej nie mniejszy niż 50 łóżek (pokoje pacjentów nie większe niż 2-osobowe);
+2) gabinet kinezyterapii będący odrębnym pomieszczeniem -wyposażenie wymagane w lokalizacji:
+a) system do treningów monitorowanych,
+b) stół drenażowy,
+c) spirometr,
+d) bieżnia,
+e) stepper;
+3) sala kinezyterapii wyposażona w:
+a) stół rehabilitacyjny,
+b) drabinki rehabilitacyjne lub inne spełniające takie same funkcje,
+c) maty lub materace do kinezyterapii;
+4) gabinet fizykoterapii – wyposażenie wymagane w lokalizacji:
+a) zestaw do elektroterapii z osprzętem,
+b) zestaw do magnetoterapii,
+c) zestaw do terapii falą ultradźwiękową,
+d) zabiegi światłolecznictwa i elektrolecznictwa udzielane w osobnych pomieszczeniach (boksach), posiadających ściany o wysokości co najmniej 2,0 m, umożliwiających stosowanie wspólnej wentylacji mechanicznej;
+5) pracownia badań czynnościowych w lokalizacji;
+6) gabinet terapii indywidualnej w lokalizacji;
+7) sala do treningów interwałowych (cykloergometr, nie mniej niż 1 na 10 świadczeniobiorców);
+8) inhalatorium, w którym będą wykonywane inhalacje z wykorzystaniem leków rozszerzających oskrzela, rozrzedzających wydzielinę i wykrztuśnych.
+3. Wymagany zakres wykonywanych zabiegów:
+1) fizykoterapeutycznych:
+a) elektroterapia,
+b) światłolecznictwo,
+c) leczenie zmiennym polem elektromagnetycznym, ciepłolecznictwo,
+d) ultradźwięki,
+e) laseroterapia;
+2) kinezyterapia oraz drenaż ułożeniowy.
 

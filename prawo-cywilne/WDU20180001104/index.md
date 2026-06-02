@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 kwietnia 2018 r. o zmianie ustawy – Kodeks cywilny oraz niektórych innych ustaw
+# Ustawa z dnia 13 kwietnia 2018 r. o zmianie ustawy – Kodeks cywilny oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji oraz ustawę z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-04-13 |
 | Data wydania | 2018-06-08 |
-| Wejście w życie | 2018-07-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001104) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1104/text.pdf) |
 
@@ -55,7 +54,7 @@ source: "eli-html"
 
 § 2. Roszczenie o usunięcie wady lub wymianę rzeczy sprzedanej na wolną od wad przedawnia się z upływem roku, licząc od dnia stwierdzenia wady. Jeżeli kupującym jest konsument, bieg terminu przedawnienia nie może zakończyć się przed upływem terminów określonych w § 1 zdanie pierwsze. ” .
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2491 oraz z 2018 r. poz. 5, 138, 398, 416, 650, 730, 756, 770, 771, 1000 i 1009.) wprowadza się następujące zmiany:
 
 - **1)** w art. 187 w § 1 po pkt 1 dodaje się pkt 11 w brzmieniu: „
 - **11)** oznaczenie daty wymagalności roszczenia w sprawach o zasądzenie roszczenia; ” ;
@@ -66,7 +65,7 @@ source: "eli-html"
 
 **Art. 8892.** Bank przekazuje środki pieniężne z zajętego rachunku na rachunek bankowy komornika niezwłocznie po upływie siedmiu dni od dnia doręczenia zawiadomienia o zajęciu. Jednakże w razie egzekucji bieżących alimentów lub rent bank niezwłocznie przekazuje środki pieniężne z zajętego rachunku na rachunek bankowy komornika. ” .
 
-**Art. 3.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2017 r. poz. 1201, z późn. zm.) w art. 80 § 1 otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2017 r. poz. 1201, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1475, 1954 i 2491 oraz z 2018 r. poz. 138, 398, 1000 i 1009.) w art. 80 § 1 otrzymuje brzmienie: „
 
 § 1. Organ egzekucyjny dokonuje zajęcia wierzytelności z rachunku bankowego przez przesłanie do banku zawiadomienia o zajęciu wierzytelności pieniężnej zobowiązanego z rachunku bankowego do wysokości egzekwowanej należności pieniężnej wraz z odsetkami z tytułu niezapłacenia w terminie dochodzonej wierzytelności oraz kosztami egzekucyjnymi. Organ egzekucyjny jednocześnie wzywa bank, aby bez zgody organu egzekucyjnego nie dokonywał wypłat z rachunku bankowego do wysokości zajętej wierzytelności, lecz niezwłocznie po upływie 7 dni od dnia doręczenia zawiadomienia przekazał zajętą kwotę organowi egzekucyjnemu na pokrycie egzekwowanej należności albo zawiadomił organ egzekucyjny o przeszkodzie w dokonaniu wpłaty, w tym również o nieprowadzeniu rachunku bankowego zobowiązanego. ” .
 
@@ -96,5 +95,5 @@ source: "eli-html"
 
 **Art. 7.** Do informacji gospodarczych o dłużnikach będących konsumentami przekazanych przez wierzycieli do biura informacji gospodarczej po dniu 13 listopada 2017 r. i udostępnianych przez to biuro w dniu wejścia w życie niniejszej ustawy, niespełniających warunku, o którym mowa w art. 14 ust. 1 pkt 4, albo warunku, o którym mowa w art. 16 ust. 1 pkt 4 ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą, stosuje się przepis art. 31 pkt 9 ustawy zmienianej w art. 4 w brzmieniu dotychczasowym.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 4 pkt 2–4, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 4 pkt 2–4, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji oraz ustawę z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2491 oraz z 2018 r. poz. 5, 138, 398, 416, 650, 730, 756, 770, 771, 1000 i 1009. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1475, 1954 i 2491 oraz z 2018 r. poz. 138, 398, 1000 i 1009.
 

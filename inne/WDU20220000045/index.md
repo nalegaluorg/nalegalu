@@ -22,42 +22,35 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-04 |
 | Data wydania | 2022-01-11 |
-| Wejście w życie | 2022-01-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000045) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/45/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2019 r. poz. 1505 oraz z 2022 r. poz. 24) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354 oraz z 2021 r. poz. 926, 1311, 1387, 1528, 1698 i 2087.) wprowadza się następujące zmiany:
 1)
 w § 13e:
 a)
-po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Warunek utrzymywania w gospodarstwie świń uważa się za spełniony także w przypadku zaprzestania utrzymywania świń na okres nie dłuższy niż 31 dni od dnia złożenia wniosku, o którym mowa w ust. 6.
-” ,
+Warunek utrzymywania w gospodarstwie świń uważa się za spełniony także w przypadku zaprzestania utrzymywania świń na okres nie dłuższy niż 31 dni od dnia złożenia wniosku, o którym mowa w ust. 6. ” ,
 b)
-w ust. 3 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
-„
+w ust. 3 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
 5)
-przebudowę lub remont pomieszczeń w celu utrzymywania świń w gospodarstwie w odrębnych, zamkniętych pomieszczeniach mających oddzielne wejścia oraz niemających bezpośredniego przejścia do innych pomieszczeń, w których są utrzymywane inne zwierzęta kopytne – w przypadku gospodarstwa, w którym utrzymuje się średniorocznie nie więcej niż 50 sztuk świń.
-” ,
+przebudowę lub remont pomieszczeń w celu utrzymywania świń w gospodarstwie w odrębnych, zamkniętych pomieszczeniach mających oddzielne wejścia oraz niemających bezpośredniego przejścia do innych pomieszczeń, w których są utrzymywane inne zwierzęta kopytne – w przypadku gospodarstwa, w którym utrzymuje się średniorocznie nie więcej niż 50 sztuk świń. ” ,
 c)
 w ust. 8 uchyla się pkt 2,
 d)
-po ust. 8 dodaje się ust. 8a w brzmieniu:
-„
+po ust. 8 dodaje się ust. 8a w brzmieniu: „
 8a.
-Średnioroczną liczbę świń, o której mowa w ust. 3 pkt 5, ustala się jako iloraz sumy świń utrzymywanych w gospodarstwie w ostatnim dniu każdego miesiąca z 12 miesięcy poprzedzających miesiąc, w którym złożono wniosek, o którym mowa w ust. 6, i liczby miesięcy, przez które świnie były utrzymywane w gospodarstwie. Liczbę świń ustala się na podstawie danych zawartych w rejestrze zwierząt gospodarskich i siedzib stad tych zwierząt, o którym mowa w ustawie z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2021 r. poz. 1542).
-” ;
+Średnioroczną liczbę świń, o której mowa w ust. 3 pkt 5, ustala się jako iloraz sumy świń utrzymywanych w gospodarstwie w ostatnim dniu każdego miesiąca z 12 miesięcy poprzedzających miesiąc, w którym złożono wniosek, o którym mowa w ust. 6, i liczby miesięcy, przez które świnie były utrzymywane w gospodarstwie. Liczbę świń ustala się na podstawie danych zawartych w rejestrze zwierząt gospodarskich i siedzib stad tych zwierząt, o którym mowa w ustawie z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2021 r. poz. 1542). ” ;
 2)
 w § 13n w ust. 1:
 a)
 we wprowadzeniu do wyliczenia po wyrazie „zwierząt” skreśla się wyrazy „(Dz. U. z 2017 r. poz. 546)”,
 b)
-w pkt 1 po wyrazie „lub” dodaje się wyrazy „w części II lub III załącznika I do rozporządzenia wykonawczego Komisji (UE) 2021/605 z dnia 7 kwietnia 2021 r. ustanawiającego szczególne środki zwalczania afrykańskiego pomoru świń (Dz. Urz. UE L 129 z 15.04.2021, str. 1, z późn. zm.) lub”;
+w pkt 1 po wyrazie „lub” dodaje się wyrazy „w części II lub III załącznika I do rozporządzenia wykonawczego Komisji (UE) 2021/605 z dnia 7 kwietnia 2021 r. ustanawiającego szczególne środki zwalczania afrykańskiego pomoru świń (Dz. Urz. UE L 129 z 15.04.2021, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 131 z 16.04.2021, str. 137, Dz. Urz. UE L 143 z 27.04.2021, str. 12, Dz. Urz. UE L 180 z 21.05.2021, str. 114, Dz. Urz. UE L 197 z 04.06.2021, str. 76, Dz. Urz. UE L 209 z 14.06.2021, str. 95, Dz. Urz. UE L 219 z 21.06.2021, str. 1, Dz. Urz. UE L 236 z 05.07.2021, str. 10, Dz. Urz. UE L 247 z 13.07.2021, str. 55, Dz. Urz. UE L 261 z 22.07.2021, str. 8, Dz. Urz. UE L 277 z 02.08.2021, str. 99, Dz. Urz. UE L 294 z 17.08.2021, str. 14, Dz. Urz. UE L 313 z 06.09.2021, str. 35, Dz. Urz. UE L 342 z 27.09.2021, str. 5, Dz. Urz. UE L 361 z 12.10.2021, str. 4, Dz. Urz. UE L 374 z 22.10.2021, str. 12, Dz. Urz. UE L 390 z 04.11.2021, str. 1 oraz Dz. Urz. UE L 411 z 19.11.2021, str. 3.) lub”;
 3)
 w § 13p w ust. 6 liczbę:
 a)
@@ -69,36 +62,31 @@ w § 13zl:
 a)
 w ust. 5 w części wspólnej po wyrazach „kwartału 2020 r.” dodaje się wyrazy „do końca czwartego kwartału 2021 r.”,
 b)
-w ust. 10 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
-„
+w ust. 10 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 3)
-kopię umowy, jeżeli na jej podstawie została dokonana sprzedaż.
-” ,
+kopię umowy, jeżeli na jej podstawie została dokonana sprzedaż. ” ,
 c)
-ust. 12 otrzymuje brzmienie:
-„
+ust. 12 otrzymuje brzmienie: „
 12.
-W przypadku gdy liczba świń sprzedanych w kwartale, za który jest składany wniosek, o którym mowa w ust. 6, jest wyższa o 10% od liczby świń sprzedanych w kwartale, w odniesieniu do którego jest obliczana wysokość pomocy zgodnie ze sposobem określonym w ust. 11, do obliczenia wysokości pomocy przyjmuje się mniejszą liczbę sprzedanych świń powiększoną o 10%. W przypadku gdy liczba świń sprzedanych w kwartale, za który jest składany wniosek, o którym mowa w ust. 6, jest mniejsza niż liczba świń sprzedanych w kwartale, w odniesieniu do którego jest obliczana wysokość pomocy zgodnie ze sposobem określonym w ust. 11, do obliczenia wysokości pomocy przyjmuje się liczbę świń sprzedanych w kwartale, za który jest składany ten wniosek.
-” ,
+W przypadku gdy liczba świń sprzedanych w kwartale, za który jest składany wniosek, o którym mowa w ust. 6, jest wyższa o 10% od liczby świń sprzedanych w kwartale, w odniesieniu do którego jest obliczana wysokość pomocy zgodnie ze sposobem określonym w ust. 11, do obliczenia wysokości pomocy przyjmuje się mniejszą liczbę sprzedanych świń powiększoną o 10%. W przypadku gdy liczba świń sprzedanych w kwartale, za który jest składany wniosek, o którym mowa w ust. 6, jest mniejsza niż liczba świń sprzedanych w kwartale, w odniesieniu do którego jest obliczana wysokość pomocy zgodnie ze sposobem określonym w ust. 11, do obliczenia wysokości pomocy przyjmuje się liczbę świń sprzedanych w kwartale, za który jest składany ten wniosek. ” ,
 d)
-ust. 14 otrzymuje brzmienie:
-„
+ust. 14 otrzymuje brzmienie: „
 14.
-Jeżeli producent świń rozpoczął w danej siedzibie stada utrzymywanie świń albo zmienił kierunek produkcji świń w danej siedzibie stada w okresie krótszym niż ostatnie trzy lata przed złożeniem wniosku, o którym mowa w ust. 6, do obliczenia wysokości pomocy przyjmuje się średnią liczbę sprzedanych świń od dnia rozpoczęcia utrzymywania świń albo zmiany kierunku produkcji świń do ostatniego dnia miesiąca poprzedzającego miesiąc złożenia wniosku, o którym mowa w ust. 6.
-” ,
+Jeżeli producent świń rozpoczął w danej siedzibie stada utrzymywanie świń albo zmienił kierunek produkcji świń w danej siedzibie stada w okresie krótszym niż ostatnie trzy lata przed złożeniem wniosku, o którym mowa w ust. 6, do obliczenia wysokości pomocy przyjmuje się średnią liczbę sprzedanych świń od dnia rozpoczęcia utrzymywania świń albo zmiany kierunku produkcji świń do ostatniego dnia miesiąca poprzedzającego miesiąc złożenia wniosku, o którym mowa w ust. 6. ” ,
 e)
 w ust. 15:
 – w pkt 2 w lit. f kropkę zastępuje się przecinkiem i dodaje się wyraz „lub”,
-– dodaje się pkt 3 i 4 w brzmieniu: „ 3) które zostały sprzedane innemu producentowi świń, z wyłączeniem świń do ukończenia 10. tygodnia życia, lub 4) które nie były przetrzymywane w danej siedzibie stada co najmniej 85 dni przed sprzedażą. ” ;
+dodaje się pkt 3 i 4 w brzmieniu: „
+3)
+które zostały sprzedane innemu producentowi świń, z wyłączeniem świń do ukończenia 10. tygodnia życia, lub
+4)
+które nie były przetrzymywane w danej siedzibie stada co najmniej 85 dni przed sprzedażą. ” ;
 5)
-po § 13zl dodaje się § 13zla w brzmieniu:
-„
+po § 13zl dodaje się § 13zla w brzmieniu: „
 § 13zla.
-W 2022 r. wniosek, o którym mowa w § 13zl ust. 6, składa się do dnia 28 lutego.
-” ;
+W 2022 r. wniosek, o którym mowa w § 13zl ust. 6, składa się do dnia 28 lutego. ” ;
 6)
-po § 13zm dodaje się § 13zn w brzmieniu:
-„
+po § 13zm dodaje się § 13zn w brzmieniu: „
 § 13zn.
 1.
 W 2022 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi świń:
@@ -133,12 +121,11 @@ o dokonaniu w terminie do dnia 15 kwietnia 2022 r. zgłoszeń oznakowania świń
 6.
 Wysokość pomocy, o której mowa w ust. 1, wynosi 1000 zł do każdych 10 sztuk świń, jednak nie więcej 500 000 zł dla producenta świń.
 7.
-Pomoc, o której mowa w ust. 1, jest wypłacana na rachunek producenta świń wskazany w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
-” .
+Pomoc, o której mowa w ust. 1, jest wypłacana na rachunek producenta świń wskazany w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności. ” .
 § 2.
 Pomoc publiczna określona w § 13zn ust. 1 rozporządzenia zmienianego w § 1 oraz pomoc na warunkach określonych w § 13p rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem może być udzielana od dnia ogłoszenia pozytywnej decyzji Komisji Europejskiej o zgodności ze wspólnym rynkiem pomocy publicznej określonej w tym przepisie.
 § 3.
-Pomoc na warunkach określonych w § 13zl rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem może być udzielana od dnia publikacji przez Komisję Europejską informacji zgodnie z przepisami art. 9 rozporządzenia Komisji (UE) nr 702/2014 z dnia 25 czerwca 2014 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 193 z 01.07.2014, str. 1, z późn. zm.).
+Pomoc na warunkach określonych w § 13zl rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem może być udzielana od dnia publikacji przez Komisję Europejską informacji zgodnie z przepisami art. 9 rozporządzenia Komisji (UE) nr 702/2014 z dnia 25 czerwca 2014 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 193 z 01.07.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 48 z 20.02.2019, str. 1 oraz Dz. Urz. UE L 414 z 09.12.2020, str. 15..
 § 4.
 Do postępowań w sprawach o przyznanie pomocy, o której mowa w § 13e ust. 1 i § 13zl ust. 1 rozporządzenia zmienianego w § 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia ostateczną decyzją, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 5.
@@ -146,8 +133,7 @@ Do postępowań w sprawach o przyznanie pomocy, o której mowa w:
 1)
 § 13n ust. 1 rozporządzenia zmienianego w § 1, wszczętych i niezakończonych zawarciem umowy przed dniem wejścia w życie niniejszego rozporządzenia,
 2)
-§ 13p ust. 1 rozporządzenia zmienianego w § 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia ostateczną decyzją
-stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+§ 13p ust. 1 rozporządzenia zmienianego w § 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia ostateczną decyzją – stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354 oraz z 2021 r. poz. 926, 1311, 1387, 1528, 1698 i 2087. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 131 z 16.04.2021, str. 137, Dz. Urz. UE L 143 z 27.04.2021, str. 12, Dz. Urz. UE L 180 z 21.05.2021, str. 114, Dz. Urz. UE L 197 z 04.06.2021, str. 76, Dz. Urz. UE L 209 z 14.06.2021, str. 95, Dz. Urz. UE L 219 z 21.06.2021, str. 1, Dz. Urz. UE L 236 z 05.07.2021, str. 10, Dz. Urz. UE L 247 z 13.07.2021, str. 55, Dz. Urz. UE L 261 z 22.07.2021, str. 8, Dz. Urz. UE L 277 z 02.08.2021, str. 99, Dz. Urz. UE L 294 z 17.08.2021, str. 14, Dz. Urz. UE L 313 z 06.09.2021, str. 35, Dz. Urz. UE L 342 z 27.09.2021, str. 5, Dz. Urz. UE L 361 z 12.10.2021, str. 4, Dz. Urz. UE L 374 z 22.10.2021, str. 12, Dz. Urz. UE L 390 z 04.11.2021, str. 1 oraz Dz. Urz. UE L 411 z 19.11.2021, str. 3. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 48 z 20.02.2019, str. 1 oraz Dz. Urz. UE L 414 z 09.12.2020, str. 15.
 

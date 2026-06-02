@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Energiiz dnia 23 września 2019 r. w sprawie sposobu obliczania danych podanych na potrzeby korzystania z systemu wsparcia oraz szczegółowego zakresu obowiązku potwierdzania danych dotyczących ilości energii elektrycznej z wysokosprawnej kogeneracji
+# Rozporządzenie Ministra Energiiz dnia 23 września 2019 r. w sprawie sposobu obliczania danych podanych na potrzeby korzystania z systemu wsparcia oraz szczegółowego zakresu obowiązku potwierdzania danych dotyczących ilości energii elektrycznej z wysokosprawnej kogeneracji Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-23 |
 | Data wydania | 2019-09-30 |
-| Wejście w życie | 2019-10-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001851) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1851/text.pdf) |
 
@@ -118,18 +117,16 @@ ciepła użytkowego wprowadzanego do publicznej sieci ciepłowniczej,
 2)
 równoważnika paliwowego,
 3)
-współczynnika zmiany mocy
-zawiera załącznik do rozporządzenia.
+współczynnika zmiany mocy – zawiera załącznik do rozporządzenia.
 6.
 W jednostce kogeneracji uczestniczącej w systemie wsparcia, o którym mowa w rozdziale 3 ustawy, równoważnik paliwowy może pochodzić wyłącznie z paliwa, o którym mowa w art. 15 ust. 5 ustawy, stanowiącego podstawę do przyjęcia wartości referencyjnej dla tej jednostki kogeneracji.
 § 5.
 1.
-Obliczona odpowiednio, zgodnie z art. 3 pkt 36 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm.), zwanej dalej „ustawą – Prawo energetyczne”:
+Obliczona odpowiednio, zgodnie z art. 3 pkt 36 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524 i 1556.), zwanej dalej „ustawą – Prawo energetyczne”:
 1)
 ilość energii elektrycznej z kogeneracji, oznaczona symbolem „Abq”, o którym mowa w § 6 ust. 3, jest równa ilości energii elektrycznej z wysokosprawnej kogeneracji,
 2)
-ilość wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z kogeneracji jest równa ilości energii elektrycznej wytworzonej, wprowadzonej do sieci i sprzedanej z wysokosprawnej kogeneracji
-pod warunkiem uzyskania przez jednostkę kogeneracji oszczędności energii pierwotnej, oznaczonej symbolem „PES”, o której mowa w § 6 ust. 1, obliczonej w sposób określony w tym przepisie, w wysokości określonej w art. 3 pkt 38 ustawy – Prawo energetyczne.
+ilość wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z kogeneracji jest równa ilości energii elektrycznej wytworzonej, wprowadzonej do sieci i sprzedanej z wysokosprawnej kogeneracji – pod warunkiem uzyskania przez jednostkę kogeneracji oszczędności energii pierwotnej, oznaczonej symbolem „PES”, o której mowa w § 6 ust. 1, obliczonej w sposób określony w tym przepisie, w wysokości określonej w art. 3 pkt 38 ustawy – Prawo energetyczne.
 2.
 Wartość współczynnika określającego stosunek energii elektrycznej z kogeneracji do ciepła użytkowego w kogeneracji, oznaczonego symbolem „C”, o którym mowa w pkt 1.6 załącznika do rozporządzenia, oblicza się na podstawie rzeczywistych parametrów technologicznych jednostki kogeneracji, dla danego przedziału czasowego, w sposób określony w pkt 1.7 załącznika do rozporządzenia.
 § 6.
@@ -146,8 +143,7 @@ Referencyjne wartości sprawności dla wytwarzania rozdzielonego:
 1)
 energii elektrycznej, oznaczone symbolem „ηrefe”, o których mowa w ust. 1, ustala się w oparciu o zharmonizowane wartości referencyjnych sprawności dla rozdzielonej produkcji energii elektrycznej określone w załączniku nr I do rozporządzenia delegowanego Komisji (UE) 2015/2402 z dnia 12 października 2015 r. w sprawie przeglądu zharmonizowanych wartości referencyjnych sprawności dla rozdzielonej produkcji energii elektrycznej i ciepła w zastosowaniu dyrektywy Parlamentu Europejskiego i Rady 2012/27/UE i uchylającego decyzję wykonawczą Komisji 2011/877/UE (Dz. Urz. UE L 333 z 19.12.2015, str. 54), zwanego dalej „rozporządzeniem (UE) 2015/2402”,
 2)
-ciepła, oznaczone symbolem „ηrefc”, o których mowa w ust. 1, ustala się w oparciu o zharmonizowane wartości referencyjnych sprawności dla rozdzielonej produkcji ciepła określone w załączniku nr II do rozporządzenia (UE) 2015/2402
-w temperaturze otoczenia 15ºC oraz przy ciśnieniu atmosferycznym 1013 hPa i wilgotności względnej 60%.
+ciepła, oznaczone symbolem „ηrefc”, o których mowa w ust. 1, ustala się w oparciu o zharmonizowane wartości referencyjnych sprawności dla rozdzielonej produkcji ciepła określone w załączniku nr II do rozporządzenia (UE) 2015/2402 – w temperaturze otoczenia 15ºC oraz przy ciśnieniu atmosferycznym 1013 hPa i wilgotności względnej 60%.
 6.
 Referencyjną wartość sprawności dla wytwarzania rozdzielonego energii elektrycznej, oznaczoną symbolem „ηrefe”, o której mowa w ust. 1, koryguje się, dostosowując średnią roczną temperaturę otoczenia wynoszącą dla warunków panujących w Polsce 8°C do temperatury otoczenia, o której mowa w ust. 5, w sposób określony w załączniku nr III do rozporządzenia (UE) 2015/2402.
 7.
@@ -160,8 +156,7 @@ określenia ilości wytworzonej energii elektrycznej z wysokosprawnej kogeneracj
 2)
 rozliczenia rzeczywistej ilości energii elektrycznej wytworzonej z wysokosprawnej kogeneracji w jednostce kogeneracji, o której mowa w art. 5 ust. 1 pkt 3, ust. 7 i 8 oraz art. 101 ust. 4 ustawy,
 3)
-realizacji obowiązku potwierdzania danych, o którym mowa w art. 77 ust. 2 ustawy
-dokonuje się na podstawie rzeczywistych wskazań urządzeń pomiarowo-rozliczeniowych zainstalowanych na zaciskach generatorów lub ogniw paliwowych wchodzących w skład jednostki kogeneracji.
+realizacji obowiązku potwierdzania danych, o którym mowa w art. 77 ust. 2 ustawy – dokonuje się na podstawie rzeczywistych wskazań urządzeń pomiarowo-rozliczeniowych zainstalowanych na zaciskach generatorów lub ogniw paliwowych wchodzących w skład jednostki kogeneracji.
 2.
 Na potrzeby rozliczenia rzeczywistej ilości wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji w jednostce kogeneracji, innej niż wymieniona w ust. 1 pkt 2, w odniesieniu do której wytwórca nabył prawo do wypłaty premii kogeneracyjnej lub premii kogeneracyjnej indywidualnej lub premii gwarantowanej lub premii gwarantowanej indywidualnej, w tym na potrzeby realizacji obowiązku potwierdzania danych, o którym mowa w art. 77 ust. 1 ustawy, dokonuje się:
 1)
@@ -177,12 +172,11 @@ Miejsca pomiarów i granicę bilansową, o których mowa w ust. 1–4, oznacza s
 § 8.
 1.
 Jednostkowy wskaźnik emisji dwutlenku węgla na potrzeby systemu wsparcia energii elektrycznej z wysokosprawnej kogeneracji, wyrażony w kilogramach na 1 MWh wytwarzanej energii w jednostce kogeneracji, oblicza się według wzoru: \( JW = {{EM} \over {E + Q}} \) gdzie poszczególne symbole oznaczają: JW – jednostkowy wskaźnik emisji dwutlenku węgla dla jednostki kogeneracji, w [kg/MWh] netto z dokładnością do 3 miejsc po przecinku, EM – całkowitą roczną ilość wprowadzonego do atmosfery dwutlenku węgla z jednostki kogeneracji, w [kg/rok], E – całkowitą roczną ilość wytworzonej energii elektrycznej brutto w jednostce kogeneracji, w [MWh], Q – całkowitą roczną ilość wytworzonego ciepła brutto w jednostce kogeneracji, w [MWh]
-– z zastrzeżeniem że emisja dwutlenku węgla wyznaczana jest tak jak na potrzeby raportowania emisji określonych w rozporządzeniu Komisji (UE) nr 601/2012 z dnia 21 czerwca 2012 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych zgodnie z dyrektywą 2003/87/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 181 z 12.07.2012, str. 30, z późn. zm.).
+– z zastrzeżeniem że emisja dwutlenku węgla wyznaczana jest tak jak na potrzeby raportowania emisji określonych w rozporządzeniu Komisji (UE) nr 601/2012 z dnia 21 czerwca 2012 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych zgodnie z dyrektywą 2003/87/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 181 z 12.07.2012, str. 30, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 15.12.2012, str. 43, Dz. Urz. UE L 65 z 05.03.2014, str. 27, Dz. Urz. UE L 201 z 10.07.2014, str. 1 oraz Dz. Urz. UE L 334 z 31.12.2018, str. 1..
 2.
 W okresie rozliczeniowym obejmującym miesiąc lub kilka kolejno następujących po sobie miesięcy danego roku kalendarzowego ust. 1 stosuje się odpowiednio, odnosząc go do tego okresu rozliczeniowego.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524 i 1556. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 15.12.2012, str. 43, Dz. Urz. UE L 65 z 05.03.2014, str. 27, Dz. Urz. UE L 201 z 10.07.2014, str. 1 oraz Dz. Urz. UE L 334 z 31.12.2018, str. 1.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524 i 1556. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 15.12.2012, str. 43, Dz. Urz. UE L 65 z 05.03.2014, str. 27, Dz. Urz. UE L 201 z 10.07.2014, str. 1 oraz Dz. Urz. UE L 334 z 31.12.2018, str. 1.
 Załącznik – Sposób obliczania danych stosowanych do obliczania ilości energii elektrycznej z wysokosprawnej kogeneracji oraz wielkości oszczędności energii pierwotnej
 1.
 Zakres
@@ -303,7 +297,9 @@ Pomocnicze turbiny parowe służące do napędu pomp lub sprężarek, dostarczaj
 3.4.
 W układach połączonych szeregowo urządzeń, przetwarzających energię chemiczną paliwa w energię elektryczną, mechaniczną i ciepło, urządzenia, w których ciepło to jest wykorzystane do dalszej produkcji energii, nie mogą być traktowane rozdzielnie, nawet jeżeli wytwarzanie energii odbywa się w innym miejscu.
 3.5.
-Główne urządzenia i przyrządy pomiarowe przedstawione na schemacie jednostki kogeneracji powinny być opisane za pomocą prostych oznaczeń składających się z przedrostka oznaczającego typ i numer urządzenia oraz zamieszczonego w nawiasie przyrostka oznaczającego podtyp urządzenia, np.: TP1 (K), TP2 (U/K), ST1 (G), ST2 (DP), M1 (FcS), M2 (TR). Skróty tych oznaczeń zawiera poniższa tabela. Tabela. Skróty oznaczeń Przedrostek Typ urządzenia Przyrostek Podtyp BYP urządzenie obejściowe (by-pass) TG turbina gazowa ST silnik tłokowy (G) silnik gazowy (W) silnik wysokoprężny (DP) silnik dwupaliwowy (COO) ciężki olej opałowy TP turbina parowa (P) przeciwprężna (U) upustowa (D) dopustowa (K) kondensacyjna KO kocioł odzysknicowy (P) para (W) gorąca woda (SpU) spalanie uzupełniające (SpP) spalanie pomocnicze K kocioł (P) podstawowy (RG) w rezerwie gorącej (RZ) w rezerwie zimnej M stacja pomiarowa (F) przepływy/(Fc) przepływ skorygowany (E) energia elektryczna (Q) ciepło (T) temperatura (P) ciśnienie (An) analizator (I) wskaźnik (R) rejestrator (M) ciężar (S) licznik Do oznaczenia odbiorcy ciepła stosuje się oznaczenie „OC”. Strumienie doprowadzane do jednostki kogeneracji oraz wyjścia energii elektrycznej i ciepła użytkowego powinny być jednoznacznie opisane i zawierać informację o przepływającym medium, a w przypadku pary i wody gorącej – także o roboczym ciśnieniu i temperaturze.
+Główne urządzenia i przyrządy pomiarowe przedstawione na schemacie jednostki kogeneracji powinny być opisane za pomocą prostych oznaczeń składających się z przedrostka oznaczającego typ i numer urządzenia oraz zamieszczonego w nawiasie przyrostka oznaczającego podtyp urządzenia, np.: TP1 (K), TP2 (U/K), ST1 (G), ST2 (DP), M1 (FcS), M2 (TR). Skróty tych oznaczeń zawiera poniższa tabela. Tabela. Skróty oznaczeń
+Przedrostek Typ urządzenia Przyrostek Podtyp BYP urządzenie obejściowe (by-pass) TG turbina gazowa ST silnik tłokowy (G) silnik gazowy (W) silnik wysokoprężny (DP) silnik dwupaliwowy (COO) ciężki olej opałowy TP turbina parowa (P) przeciwprężna (U) upustowa (D) dopustowa (K) kondensacyjna KO kocioł odzysknicowy (P) para (W) gorąca woda (SpU) spalanie uzupełniające (SpP) spalanie pomocnicze K kocioł (P) podstawowy (RG) w rezerwie gorącej (RZ) w rezerwie zimnej M stacja pomiarowa (F) przepływy/(Fc) przepływ skorygowany (E) energia elektryczna (Q) ciepło (T) temperatura (P) ciśnienie (An) analizator (I) wskaźnik (R) rejestrator (M) ciężar (S) licznik
+Do oznaczenia odbiorcy ciepła stosuje się oznaczenie „OC”. Strumienie doprowadzane do jednostki kogeneracji oraz wyjścia energii elektrycznej i ciepła użytkowego powinny być jednoznacznie opisane i zawierać informację o przepływającym medium, a w przypadku pary i wody gorącej – także o roboczym ciśnieniu i temperaturze.
 4.
 Określanie ilości energii elektrycznej wytworzonej w jednostce kogeneracji
 4.1.
@@ -319,8 +315,7 @@ pompy wody chłodzącej,
 3)
 pompy kondensatu,
 4)
-wentylatory i sprężarki powietrza technologicznego
-dla których alternatywny napęd stanowi silnik elektryczny, może być zaliczona do wyjściowej energii mechanicznej tej jednostki kogeneracji.
+wentylatory i sprężarki powietrza technologicznego – dla których alternatywny napęd stanowi silnik elektryczny, może być zaliczona do wyjściowej energii mechanicznej tej jednostki kogeneracji.
 4.4.
 Ilość energii elektrycznej wytworzonej w jednostce kogeneracji poza procesem kogeneracji wyznacza się, w przypadku gdy średnioroczna sprawność ogólna obliczona zgodnie z § 3 ust. 1 rozporządzenia jest niższa niż sprawność graniczna danej jednostki kogeneracji określona w sposób, o którym mowa w pkt 1.3 i pkt 1.4.
 4.5.

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-24 |
 | Data wydania | 2018-01-02 |
-| Wejście w życie | 2018-01-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000007) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/7/text.pdf) |
 
@@ -34,14 +33,14 @@ source: "eli-html"
 
 - **1)** uniemożliwiających, poprzez rażące naruszanie przepisów odpowiednich regulaminów, pracę Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów,
 - **2)** nieuczestniczących, bez usprawiedliwienia, w posiedzeniach Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów,
-- **3)** naruszających swoim zachowaniem na sali posiedzeń powagę Sejmu, Senatu albo Zgromadzenia Narodowego określają regulaminy Sejmu, Senatu i Zgromadzenia Narodowego. ” ;
+- **3)** naruszających swoim zachowaniem na sali posiedzeń powagę Sejmu, Senatu albo Zgromadzenia Narodowego – określają regulaminy Sejmu, Senatu i Zgromadzenia Narodowego. ” ;
 - **2)** w art. 42 ust. 4 otrzymuje brzmienie: „
 
 4. Zasady obniżania i utraty prawa do diety parlamentarnej posłów i senatorów:
 
 - **1)** uniemożliwiających, poprzez rażące naruszanie przepisów odpowiednich regulaminów, pracę Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów,
 - **2)** nieuczestniczących, bez usprawiedliwienia, w posiedzeniach Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów,
-- **3)** naruszających swoim zachowaniem na sali posiedzeń powagę Sejmu, Senatu albo Zgromadzenia Narodowego określają regulaminy Sejmu, Senatu i Zgromadzenia Narodowego. ” .
+- **3)** naruszających swoim zachowaniem na sali posiedzeń powagę Sejmu, Senatu albo Zgromadzenia Narodowego – określają regulaminy Sejmu, Senatu i Zgromadzenia Narodowego. ” .
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

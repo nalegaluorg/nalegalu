@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-12 |
 | Data wydania | 2022-01-20 |
-| Wejście w życie | 2022-02-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000139) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/139/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 7 maja 2015 r. w spra
 1)
 w § 1:
 a)
-w pkt 1 lit. b otrzymuje brzmienie:
-„
+w pkt 1 lit. b otrzymuje brzmienie: „
 b)
 tor podejściowy do Portu Północnego:
 – odcinek od pławy PP do pary pław P1-P2, o długości 5,06 km i głębokości naturalnej większej od 18,0 m, zapewniającej podejście z dowolnego kierunku,
@@ -48,18 +46,24 @@ w pkt 2:
 – po lit. d dodaje się lit. da w brzmieniu: „ da) falochron osłonowy południowo-wschodni Portu Północnego o długości 826,0 m, ” ,
 – w lit. e w tiret drugim wyrazy „o długości 2100,0 m” zastępuje się wyrazami „wraz z pochłaniaczem falowania o długości 409,6 m”,
 c)
-w pkt 4 lit. b otrzymuje brzmienie:
-„
+w pkt 4 lit. b otrzymuje brzmienie: „
 b)
-pławy toru podejściowego do Portu Północnego – 14 szt.,
-” ;
+pławy toru podejściowego do Portu Północnego – 14 szt., ” ;
 2)
 w § 3:
 a)
 w pkt 1:
-– lit. a i b otrzymują brzmienie: „ a) podejściowy tor wodny do Świnoujścia o długości 60,8 km, którego oś przebiega od punktu o współrzędnych podanych w układzie „WGS-84” φ = 53°55'45,6”N, λ = 014°16'40,5”E do punktu o współrzędnych podanych w układzie „WGS-84” φ = 54°14'40,9”N, λ = 014°11'00,8”E i dalej do punktu o współrzędnych podanych w układzie „WGS-84” φ = 54°16'58,2”N, λ = 014°05'13,1”E oraz dalej do punktu o współrzędnych podanych w układzie „WGS-84” φ = 54°26'26,9”N, λ = 014°05'43,3”E, o szerokościach w dnie: 210 m – od km 0 do km 0,8; 200 m – od km 0,8 do km 26,8; 220 m – od km 26,8 do km 35,6; 240 m – od km 35,6 do km 60,8 i głębokości technicznej 14,5 m, b) wejściowy tor wodny do Portu Zewnętrznego w Świnoujściu, na odcinku od połączenia z podejściowym torem wodnym do Świnoujścia do obrotnicy w Porcie Zewnętrznym; szerokość toru w dnie 200 m, głębokość techniczna 14,5 m, długość toru 1386 m, licząc od punktu połączenia z torem podejściowym o współrzędnych w układzie „WGS-84” φ = 53°56'21,8”N, λ = 014°16'30,3”E do przecięcia z północną krawędzią obrotnicy w punkcie o współrzędnych w układzie „WGS-84” φ = 53°55'48,3”N, λ = 014°17'20,1”E, ” ,
-– lit. d otrzymuje brzmienie: „ d) tor wodny Świnoujście – Szczecin o długości 67,35 km (licząc od punktu o współrzędnych podanych w układzie „WGS-84” φ = 53°55'45,6”N, λ = 014°16'40,5”E w kierunku południowym) z odpowiednimi poszerzeniami na łukach toru oraz następujących szerokościach na odcinkach prostych: od 210 m do 150 m – od km 0 do km 3,1; od 150 m do 90 m – od km 3,1 do km 5,5; 90 m – od km 5,5 do km 67,35 i głębokościach technicznych: 14,5 m – od km 0 do km 3,1; 13 m – od km 3,1 do km 5,28; 10,5 m – od km 5,28 do km 67,35, ” ,
-– lit. g otrzymuje brzmienie: „ g) tor wodny w Kanale Polickim (Wąski Nurt) o długości 5,32 km, o szerokościach na odcinkach: 70 m – od km 0 do km 4,11; 100 m – od km 4,11 do km 5,03; od 160 m do 130 m – od km 5,03 do km 5,15; od 130 m do 140 m – od km 5,15 do km 5,32 i głębokościach technicznych: 4,5 m – od km 0 do km 4,11; 10,5 m – od km 4,11 do km 5,32, ” ,
+lit. a i b otrzymują brzmienie: „
+a)
+podejściowy tor wodny do Świnoujścia o długości 60,8 km, którego oś przebiega od punktu o współrzędnych podanych w układzie „WGS-84” φ = 53°55'45,6”N, λ = 014°16'40,5”E do punktu o współrzędnych podanych w układzie „WGS-84” φ = 54°14'40,9”N, λ = 014°11'00,8”E i dalej do punktu o współrzędnych podanych w układzie „WGS-84” φ = 54°16'58,2”N, λ = 014°05'13,1”E oraz dalej do punktu o współrzędnych podanych w układzie „WGS-84” φ = 54°26'26,9”N, λ = 014°05'43,3”E, o szerokościach w dnie: 210 m – od km 0 do km 0,8; 200 m – od km 0,8 do km 26,8; 220 m – od km 26,8 do km 35,6; 240 m – od km 35,6 do km 60,8 i głębokości technicznej 14,5 m,
+b)
+wejściowy tor wodny do Portu Zewnętrznego w Świnoujściu, na odcinku od połączenia z podejściowym torem wodnym do Świnoujścia do obrotnicy w Porcie Zewnętrznym; szerokość toru w dnie 200 m, głębokość techniczna 14,5 m, długość toru 1386 m, licząc od punktu połączenia z torem podejściowym o współrzędnych w układzie „WGS-84” φ = 53°56'21,8”N, λ = 014°16'30,3”E do przecięcia z północną krawędzią obrotnicy w punkcie o współrzędnych w układzie „WGS-84” φ = 53°55'48,3”N, λ = 014°17'20,1”E, ” ,
+lit. d otrzymuje brzmienie: „
+d)
+tor wodny Świnoujście – Szczecin o długości 67,35 km (licząc od punktu o współrzędnych podanych w układzie „WGS-84” φ = 53°55'45,6”N, λ = 014°16'40,5”E w kierunku południowym) z odpowiednimi poszerzeniami na łukach toru oraz następujących szerokościach na odcinkach prostych: od 210 m do 150 m – od km 0 do km 3,1; od 150 m do 90 m – od km 3,1 do km 5,5; 90 m – od km 5,5 do km 67,35 i głębokościach technicznych: 14,5 m – od km 0 do km 3,1; 13 m – od km 3,1 do km 5,28; 10,5 m – od km 5,28 do km 67,35, ” ,
+lit. g otrzymuje brzmienie: „
+g)
+tor wodny w Kanale Polickim (Wąski Nurt) o długości 5,32 km, o szerokościach na odcinkach: 70 m – od km 0 do km 4,11; 100 m – od km 4,11 do km 5,03; od 160 m do 130 m – od km 5,03 do km 5,15; od 130 m do 140 m – od km 5,15 do km 5,32 i głębokościach technicznych: 4,5 m – od km 0 do km 4,11; 10,5 m – od km 4,11 do km 5,32, ” ,
 b)
 w pkt 9 w lit. a wyrazy „41 szt.” zastępuje się wyrazami „39 szt.”,
 c)
@@ -73,11 +77,9 @@ w pkt 24 wyrazy „6 świateł – falochron wschodni Portu Świnoujście” zas
 g)
 w pkt 25 wyrazy „trałowo-hydrograficzny „Simrad EM 3000”” zastępuje się wyrazami „hydrograficzny do badania warunków żeglowności dróg wodnych”,
 h)
-w pkt 27 kropkę zastępuje się średnikiem i dodaje się pkt 28 w brzmieniu:
-„
+w pkt 27 kropkę zastępuje się średnikiem i dodaje się pkt 28 w brzmieniu: „
 28)
-obiekty baz oznakowania nawigacyjnego oraz jednostki pływające przeznaczone do obsługi oznakowania nawigacyjnego i torów wodnych.
-” .
+obiekty baz oznakowania nawigacyjnego oraz jednostki pływające przeznaczone do obsługi oznakowania nawigacyjnego i torów wodnych. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 8 maja 2014 r. w sprawie szczegółowych wymagań, jakim powinien odpowiadać plan zagospodarowania podziemnego składowiska dwutlenku węgla
+# Rozporządzenie Ministra Środowiskaz dnia 8 maja 2014 r. w sprawie szczegółowych wymagań, jakim powinien odpowiadać plan zagospodarowania podziemnego składowiska dwutlenku węgla Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2009/31/WE z dnia 23 kwietnia 2009 r. w sprawie geologicznego składowania dwutlenku węgla oraz zmieniającej dyrektywę Rady 85/337/EWG, dyrektywy Parlamentu Europejskiego i Rady 2000/60/WE, 2001/80/WE, 2004/35/WE, 2006/12/WE, 2008/1/WE i rozporządzenie (WE) nr 1013/2006 (Dz. Urz. UE L 140 z 05.06.2009, str. 114, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-05-08 |
 | Data wydania | 2014-05-09 |
-| Wejście w życie | 2014-05-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000591) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/591/text.pdf) |
 
@@ -35,7 +34,7 @@ Treść rozporządzenia
 ## Załącznik nr 3 — – Szczegółowe wymagania, jakim powinien odpowiadać tymczasowy plan działań po zamknięciu podziemnego składowiska dwutlenku węgla
 
 Treść rozporządzenia
-Na podstawie art. 27a ust. 6 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 27a ust. 6 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 21 i 1238 oraz z 2014 r. poz. 587.) zarządza się, co następuje:
 § 1.
 Plan zagospodarowania podziemnego składowiska dwutlenku węgla określa:
 1)
@@ -68,7 +67,7 @@ nazwę i adres podmiotu, który wykonał plan, a także imię, nazwisko i podpis
 3)
 informacje dotyczące środków, w tym organizacyjnych, finansowych i technicznych, jakimi dysponuje podmiot, który zamówił i sfinansował plan, w celu zapewnienia prawidłowego wykonywania działalności polegającej na podziemnym składowaniu dwutlenku węgla, oraz określenie kwalifikacji tego podmiotu lub jego pracowników, w tym w zakresie górnictwa i ratownictwa górniczego;
 4)
-informacje o położeniu i granicach kompleksu podziemnego składowania dwutlenku węgla, w tym podziemnego składowiska dwutlenku węgla, oraz określenie granic projektowanego obszaru górniczego i terenu górniczego wraz z podaniem współrzędnych punktów załamania tych granic, określonych w państwowym systemie odniesień przestrzennych, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2010 r. Nr 193, poz. 1287, z późn. zm.);
+informacje o położeniu i granicach kompleksu podziemnego składowania dwutlenku węgla, w tym podziemnego składowiska dwutlenku węgla, oraz określenie granic projektowanego obszaru górniczego i terenu górniczego wraz z podaniem współrzędnych punktów załamania tych granic, określonych w państwowym systemie odniesień przestrzennych, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2010 r. Nr 193, poz. 1287, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 805, 829 i 1635.);
 5)
 charakterystykę warunków geograficznych i ochrony środowiska oraz uwarunkowań prawnych wpływających na ograniczenie możliwości eksploatacji podziemnego składowiska dwutlenku węgla lub jego części i na lokalizację obiektów zakładu górniczego wraz z określeniem lokalizacji tych obiektów;
 6)
@@ -146,7 +145,7 @@ opis stwierdzonych istotnych różnic w stosunku do planu zagospodarowania podzi
 3)
 dodatek sporządzany przed zamknięciem podziemnego składowiska dwutlenku węgla i przystąpieniem do likwidacji zakładu górniczego powinien zawierać podsumowanie dotychczasowych wyników monitoringu kompleksu podziemnego składowania dwutlenku węgla, wykonanych modelowań oraz innych informacji uzyskanych w trakcie eksploatacji składowiska, sporządzoną na tej podstawie aktualizację planu monitoringu kompleksu podziemnego składowania dwutlenku węgla po zamknięciu składowiska, aktualizację planu działań naprawczych i aktualizację tymczasowego planu działań po zamknięciu podziemnego składowiska dwutlenku węgla, które uwzględniają ocenę ryzyka związanego z prowadzoną działalnością, w tym ryzyko wystąpienia wycieku dwutlenku węgla, najlepsze dostępne techniki i pojawiające się usprawnienia technologiczne.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2009/31/WE z dnia 23 kwietnia 2009 r. w sprawie geologicznego składowania dwutlenku węgla oraz zmieniającej dyrektywę Rady 85/337/EWG, dyrektywy Parlamentu Europejskiego i Rady 2000/60/WE, 2001/80/WE, 2004/35/WE, 2006/12/WE, 2008/1/WE i rozporządzenie (WE) nr 1013/2006 (Dz. Urz. UE L 140 z 05.06.2009, str. 114, z późn. zm.). 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 21 i 1238 oraz z 2014 r. poz. 587. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 805, 829 i 1635.
 
 ## Załącznik nr 1 — – Szczegółowe wymagania, jakim powinien odpowiadać plan monitoringu kompleksu podziemnego składowania dwutlenku węgla
 

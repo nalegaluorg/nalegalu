@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 9 maja 2017 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu rehabilitacji leczniczej
+# Rozporządzenie Ministra Zdrowiaz dnia 9 maja 2017 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu rehabilitacji leczniczej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,219 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-05-09 |
 | Data wydania | 2017-05-15 |
-| Wejście w życie | 2017-05-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000946) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/946/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844 i 858.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu rehabilitacji leczniczej (Dz. U. poz. 1522 oraz z 2016 r. poz. 2162) w załączniku nr 1 do rozporządzenia lp. 1 i 2 otrzymują brzmienie: 1 realizowane w warunkach ambulatoryjnych: Warunki lokalowe wspólne:1) przy wejściu do obiektu znajdują się dojazdy oraz dojścia dla świadczeniobiorców z niepełnosprawnością ruchową;2) w węzłach sanitarnych dla świadczeniobiorców znajdują się poręcze i uchwyty;3) w obiekcie znajduje się co najmniej jedno pomieszczenie higieniczno-sanitarne dla świadczeniobiorców, dostosowane do potrzeb osób z niepełnosprawnością ruchową;4) w budynkach wielokondygnacyjnych znajduje się dźwig lub inne urządzenie techniczne (z wyjątkiem schodołazów), umożliwiające wjazd świadczeniobiorcom z niepełnosprawnością ruchową, w tym poruszającym się na wózkach inwalidzkich, tylko wtedy, gdy świadczenia są udzielane na kondygnacji innej niż parter. a) lekarska ambulatoryjna opieka rehabilitacyjna:- porada lekarska rehabilitacyjna 1. Wymagania dotyczące personelu:1) lekarz specjalista w dziedzinie rehabilitacji w chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub fizjoterapii i balneoklimatologii, lub balneoklimatologii i medycyny fizykalnej, lub balneologii, lub balneologii i medycyny fizykalnej lub2) lekarz ze specjalizacją I stopnia w dziedzinie rehabilitacji w chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub 3) lekarz, który ukończył minimum drugi rok specjalizacji w trakcie specjalizacji w dziedzinie rehabilitacji medycznej lub balneologii i medycyny fizykalnej, lub4) lekarz specjalista w dziedzinie chirurgii ortopedycznej lub chirurgii urazowo-ortopedycznej, lub ortopedii i traumatologii, lub ortopedii i traumatologii narządu ruchu, lub lekarz specjalista reumatologii- udziela świadczeń w wymiarze co najmniej 1/4 etatu przeliczeniowego (równoważnik 1/4 etatu przeliczeniowego).2. Inne warunki:Skierowanie do poradni rehabilitacyjnej jest wystawiane przez lekarza ubezpieczenia zdrowotnego.3. Czas pracy poradni:Poradnia jest czynna co najmniej 2 dni w tygodniu, w tym co najmniej jeden dzień w przedziale czasowym od 13.00 do 18.00. | b) fizjoterapia ambulatoryjna: Warunki udzielania:1) fizjoterapia ambulatoryjna odbywa się na podstawie zlecenia wydanego przez lekarza ubezpieczenia zdrowotnego w cyklu terapeutycznym do 10 dni zabiegowych, jednemu świadczeniobiorcy przysługuje nie więcej niż 5 zabiegów dziennie;?,) usprawnianie dzieci z uszkodzeniem ośrodkowego układu nerwowego do ukończenia 18. roku życia w formie ambulatoryjnej (w gabinecie, zakładzie rehabilitacji lub fizjoterapii) może odbywać się na podstawie jednego w roku kalendarzowym skierowania z poradni specjalistycznej, w którym zlecony cykl terapeutyczny nie może przekroczyć 120 dni zabiegowych i 5 zabiegów dziennie;3) świadczenia udzielane w fizjoterapii ambulatoryjnej, z wyjątkiem masażu, muszą odbywać się pod nadzorem co najmniej osoby wykonującej zawód fizjoterapeuty i posiadającej tytuł magistra, o którym mowa w art. 4 ust. 4 pkt 1 i 2 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty (Dz. U. poz. 1994 oraz z 2017 r. poz. 599), lub fizjoterapeuty posiadającego dyplom, świadectwo lub inny dokument, o którym mowa w art. 13 ust. 1 pkt 5 lit. b i c tej ustawy, potwierdzający ukończenie studiów drugiego stopnia oraz posiadającego co najmniej 3-letnie doświadczenie w zawodzie fizjoterapeuty. – wizyta fizjoterapeutyczna Wymagania dotyczące personelu: fizjoterapeuta posiadający tytuł specjalisty w dziedzinie fizjoterapii lub tytuł specjalisty rehabilitacji ruchowej II stopnia, zwany dalej „specjalistą w dziedzinie fizjoterapii”, lub fizjoterapeuta posiadający tytuł magistra, o którym mowa w art. 4 ust. 4 pkt 1 i 2 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty, lub fizjoterapeuta posiadający dyplom, świadectwo, lub inny dokument, o którym mowa w art. 13 ust. 1 pkt 5 lit. b i c tej ustawy, potwierdzający ukończenie studiów drugiego stopnia oraz posiadający co najmniej 3-letnie doświadczenie w zawodzie fizjoterapeuty, w wymiarze co najmniej 1/4 etatu przeliczeniowego (równoważnik 1/4 etatu przeliczeniowego). – zabieg fizjoterapeutyczny: 1. Kinezyterapia1.1. indywidualna praca ze świadczeniobiorcą (w szczególności: ćwiczenia 1. Wymagania dotyczące personelu:1) zabieg fizjoterapeutyczny wykonuje fizjoterapeuta w wymiarze co najmniej 1/2 etatu przeliczeniowego (równoważnik 1/2 etatu przeliczeniowego); bierne, czynno-bierne, ćwiczenia według metod neurofizjologicznych, metody reedukacji nerwowo-mięśniowej, ćwiczenia specjalne, mobilizacje i manipulacje) – nie mniej niż 30 minut; możliwość rozliczenia nie więcej niż 2 razy dziennie,1.2. ćwiczenia wspomagane – czas trwania zabiegu – minimum 15 minut,1.3. pionizacja,1.4. ćwiczenia czynne w odciążeniu i czynne w odciążeniu z oporem -czas trwania zabiegu – minimum 15 minut,1.5. ćwiczenia czynne wolne i czynne z oporem – czas trwania zabiegu -minimum 15 minut,1.6. ćwiczenia izometryczne – czas trwania zabiegu – minimum 15 minut,1.7. nauka czynności lokomocji – czas trwania zabiegu – minimum 15 minut,1.8. wyciągi,1.9. inne formy usprawniania (kinezyterapia) – czas trwania zabiegu – minimum 15 minut,1.10. ćwiczenia grupowe ogólnousprawniające (nie więcej niż 10 świadczeniobiorców na 1 terapeutę).2. Masaż2.1. masaż suchy – częściowy – minimum 20 minut na jednego świadczeniobiorcę, w tym minimum 15 minut czynnego masażu,2.2. masaż limfatyczny ręczny – leczniczy,2.3. masaż limfatyczny mechaniczny – leczniczy,2.4. masaż podwodny – hydropowietrzny (nie obejmuj e urządzeń jaccuzi),2.5. masaż podwodny miejscowy,2.6. masaż podwodny całkowity,2.7. masaż mechaniczny (nie obejmuje urządzeń typu fotele masujące, maty masujące).3. Elektrolecznictwo3.1. galwanizacja,3.2. jonoforeza,3.3. kąpiel czterokomorowa,3.4. kąpiel elektryczna – wodna całkowita,3.5. elektrostymulacja,3.6. tonoliza,3.7. prądy diadynamiczne, 2) personel realizujący zabiegi masażu: a) fizjoterapeuta, b) osoba, która uzyskała dyplom technika masażysty po ukończeniu technikum lub szkoły policealnej publicznej lub niepublicznej o uprawnieniach szkoły publicznej- zwana dalej „masażystą”;3) personel realizujący zabiegi krioterapii ogólnoustrojowej: lekarz oraz fizjoterapeuta, który uzyskał tytuł magistra, o którym mowa w art. 4 ust. 4 pkt 1 i 2 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty, lub fizjoterapeuta posiadający dyplom, świadectwo, lub inny dokument, o którym mowa w art. 13 ust. 1 pkt 5 lit. b i c tej ustawy, potwierdzający ukończenie studiów drugiego stopnia oraz posiadający co najmniej 3-letnie doświadczenie w zawodzie fizjoterapeuty.2. Wyposażenie w gabinecie, zakładzie rehabilitacji lub fizjoterapii:1) wyposażenie do zabiegów kinezyterapeutycznych wymagane w miejscu udzielania świadczeń: a) wyposażenie sali kinezyterapii: stół rehabilitacyjny, drabinki rehabilitacyjne, lub inne spełniające takie same funkcje, maty lub materace do kinezyterapii, b) rotory do ćwiczeń kończyn górnych i kończyn dolnych, c) Uniwersalny Gabinet Usprawniania Leczniczego (UGUL) lub inny system spełniający jego rolę, d) stół lub tablica do ćwiczeń manualnych (ręki);2) wyposażenie do zabiegów fizykoterapeutycznych wymagane w miejscu udzielania świadczeń: a) zestaw do elektroterapii z osprzętem, aparaty wykorzystujące prąd stały oraz impulsowy małej i średniej częstotliwości, b) lampa do naświetlań promieniowaniem widzialnym, podczerwonym lub ultrafioletowym, c) zestaw do magnetoterapii, d) zestaw do terapii falą ultradźwięków (nie dotyczy ośrodków, które realizują świadczenia tylko na rzecz dzieci), e) zestaw do biostymulacji laserowej.3. Wymagany zakres wykonywanych zabiegów:1) fizykoterapeutycznych: a) elektroterapia, b) światłolecznictwo, c) leczenie zmiennym polem elektromagnetycznym i magnetycznym, d) ultradźwięki (nie dotyczy ośrodków, które realizują świadczenia tylko na rzecz dzieci), e) laseroterapia;2) kinezyterapeutycznych: a) ćwiczenia bierne, czynno-bierne, wspomagane, pionizacja – prowadzone indywidualnie przez osobę prowadzącą fizjoterapię, b) ćwiczenia różne: czynne w odciążeniu, czynne w odciążeniu z oporem, czynne wolne, czynne z oporem, izometryczne, c) nauka czynności lokomocyjnych, d) zabiegi z użyciem wyciągów. 3.8. prądy interferencyjne,3.9. prądy TENS,3.10. prądy TRAEBERTA,3.11. prądy KOTZA,3.12. ultradźwięki miejscowe,3.13. ultrafonoforeza.4. Leczenie polem elektromagnetycznym4.1. impulsowe pole elektromagnetyczne wysokiej częstotliwości,4.2. diatermia krótkofalowa, mikrofala,4.3. impulsowe pole magnetyczne niskiej częstotliwości.5. Swiatłolecznictwo i termoterapia5.1. naświetlanie promieniowaniem widzialnym, podczerwonym lub ultrafioletowym – miejscowe,5.2. laseroterapia – skaner,5.3. laseroterapia punktowa,5.4. okłady parafinowe.6. Hydroterapia6.1. kąpiel wirowa kończyn,6.2. inne kąpiele – wirowa w tanku,6.3. natrysk biczowy, szkocki, stały płaszczowy, inne natryski.7. Krioterapia7.1. zabieg wkriokomorze – jednemu świadczeniobiorcy przysługuje do 20 zabiegów w kriokomorze w ciągu roku kalendarzowego,7.2. krioterapia – miejscowa (pary azotu).8. Balneoterapia8.1. okłady z borowiny – ogólne,8.2. okłady z borowiny-miejscowe,8.3. kąpiel borowinowa, solankowa, kwasowęglowa, siarczkowo-siarkowodorowa, w suchym CO2,8.4. fango. 4. Wymagane warunki dotyczące pomieszczeń:1) zabiegi światłolecznictwa i elektrolecznictwa powinny być udzielane w osobnych pomieszczeniach (boksach), posiadających ściany o wysokości co najmniej 2,0 m, umożliwiających stosowanie wspólnej wentylacji mechanicznej;2) diatermie krótkofalowe i mikrofalowe powinny być instalowane w oddzielnych pomieszczeniach (boksach), odpowiednio zabezpieczonych przed szkodliwym oddziaływaniem promieniowania elektromagnetycznego na otoczenie;3) sala do kinezyterapii powinna stanowić odrębne pomieszczenie;4) gabinet masażu powinien stanowić odrębne pomieszczenie (jeżeli świadczenie jest realizowane).5. Wymagane wyposażenie do zabiegu krioterapii ogólnoustrojowej, jeżeli dane świadczenie jest udzielane w lokalizacji:1) wieloosobowa komora kriogeniczna niskotemperaturowa, zakres uzyskiwanych temperatur od -120şC do -150şC, z możliwością obserwacji świadczeniobiorcy w trakcie zabiegu;2) gabinet wyposażony w zestaw do udzielania pierwszej pomocy;3) wyposażenie sali kinezyterapii: stół rehabilitacyjny, drabinki rehabilitacyjne, lub inne spełniające takie same funkcje, maty lub materace do kinezyterapii, w miejscu udzielania świadczenia;4) cykloergometr – nie mniej niż 2 stanowiska.Jednemu świadczeniobiorcy przysługuje do 20 zabiegów w kriokomorze w okresie roku kalendarzowego.6. Wymagane wyposażenie, jeżeli dane świadczenie jest udzielane w miejscu:1) wanny do masażu wirowego kończyn górnych i kończyn dolnych;2) zestaw do kriostymulacji parami azotu;3) urządzenie wytwarzające impulsowe pole elektromagnetyczne wysokiej częstotliwości.7. Inne warunki:Skierowanie na fizjoterapię w warunkach ambulatoryjnych wystawia lekarz ubezpieczenia zdrowotnego, z zastrzeżeniem, że w przypadku stwierdzenia u świadczeniobiorcy wady postawy kwalifikującej się do rehabilitacji leczniczej lub dysfunkcji narządu ruchu, której przyczyną są wady postawy, skierowanie na zabiegi wystawia lekarz ubezpieczenia zdrowotnego będący specjalistą rehabilitacji ogólnej lub rehabilitacji medycznej, lub rehabilitacji w chorobach narządu ruchu, lub chirurgii ortopedycznej, lub chirurgii ogólnej, lub chirurgii urazowo-ortopedycznej, lub ortopedii i traumatologii, lub ortopedii i traumatologii narządu ruchu, lub lekarzem ze specjalizacją I stopnia w zakresie chirurgii ortopedycznej lub chirurgii urazowo-ortopedycznej, lub ortopedii i traumatologii lub rehabilitacji narządu ruchu, lub rehabilitacji ogólnej, lub rehabilitacji medycznej, lub lekarzem w trakcie specjalizacji z rehabilitacji medycznej lub ortopedii i traumatologii narządu ruchu (w przypadku skierowań dla dzieci odpowiednio lekarz specjalistów dziecięcych). Świadczeniobiorca powinien zarejestrować skierowanie w wybranym gabinecie, zakładzie rehabilitacji lub fizjoterapii nie później niż 30 dni od dnia jego wystawienia. Skierowanie na cykl zabiegów powinno zawierać:1) pieczęć nagłówkową z numerem umowy zawartej z dyrektorem właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia;2) imię, nazwisko, adres zamieszkania świadczeniobiorcy oraz numer PESEL, a w przypadku braku numeru PESEL, numer dokumentu potwierdzającego tożsamość;3) rozpoznanie w języku polskim;4) kod jednostki chorobowej według Klasyfikacji ICD-10;5) opis dysfunkcji narządu ruchu, deficytu neurologicznego lub innej przyczyny kierowania na rehabilitację;6) choroby przebyte i współistniejące oraz inne czynniki (np. wszczepione urządzenia wspomagające pracę układu krążeniowo-oddechowego lub metal w ciele pacjenta, przyjmowanie niektórych leków) mogące mieć istotny wpływ na proces rehabilitacji;7) zlecone zabiegi fizjoterapeutyczne wraz z określeniem okolicy ciała, ewentualnej strony (prawa, lewa) oraz liczbę poszczególnych zabiegów w cyklu;8) pieczęć i podpis lekarza kierującego oraz datę wystawienia skierowania.8. Czas pracy gabinetu, zakładu rehabilitacji lub fizjoterapii:Gabinet, zakład rehabilitacji lub fizjoterapii jest czynny co najmniej 5 dni w tygodniu, nie krócej niż 5 godzin dziennie bez przerwy, w tym co najmniej 2 dni w przedziale czasowym od 13.00 do 18.00. | 2 realizowane w warunkach domowych: a) porada lekarska rehabilitacyjna Wymagania dotyczące personelu:1) lekarz specjalista w dziedzinie rehabilitacji lub rehabilitacji w chorobach narządu ruchu, lub rehabilitacji ogólnej, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub fizjoterapii i balneoklimatologii, lub balneoklimatologii i medycyny fizykalnej, lub balneologii, lub balneologii i medycyny fizykalnej lub2) lekarz ze specjalizacją I stopnia w dziedzinie rehabilitacji lub rehabilitacji w chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub3) lekarz, który ukończył minimum drugi rok specjalizacji w trakcie specjalizacji w dziedzinie rehabilitacji medycznej lub balneologii i medycyny fizykalnej, lub4) lekarz specjalista w dziedzinie chirurgii ortopedycznej lub chirurgii urazowo-ortopedycznej, lub ortopedii i traumatologii, lub ortopedii i traumatologii narządu ruchu, lub lekarz specjalista reumatologii, w wymiarze co najmniej 1/4 etatu przeliczeniowego (równoważnik 1/4 etatu przeliczeniowego). b) fizjoterapia domowa: Czas trwania rehabilitacji realizowanej w warunkach domowych dla jednego świadczeniobiorcy wynosi do 80 dni zabiegowych w roku kalendarzowym oraz nie więcej niż 5 zabiegów dziennie. W przypadku uzasadnionym względami medycznymi i koniecznością osiągnięcia celu leczniczego czas trwania rehabilitacji może zostać przedłużony decyzją lekarza zlecającego zabiegi, za pisemną zgodą dyrektora właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia. – wizyta fizjoterapeutyczna- zabieg fizjoterapeutyczny1. Kinezyterapia1.1. indywidualna praca ze świadczeniobiorcą (w szczególności: ćwiczenia bierne, czynno-bierne, ćwiczenia według metod neurofizjologicznych, metody reedukacji nerwowo-mięśniowej, ćwiczenia specjalne, mobilizacje i manipulacje) – nie mniej niż 30 minut; możliwość rozliczenia 1 raz dziennie,1.2. ćwiczenia wspomagane – czas trwania zabiegu – minimum 15 minut,1.3. pionizacja,1.4. ćwiczenia czynne w odciążeniu i czynne w odciążeniu z oporem -czas trwania zabiegu – minimum 15 minut,1.5. ćwiczenia czynne wolne i czynne z oporem – czas trwania zabiegu -minimum 15 minut,1.6. ćwiczenia izometryczne – czas trwania zabiegu – minimum 15 minut,1.7. nauka czynności lokomocji – czas trwania zabiegu – minimum 15 minut,1.8. wyciągi,1.9. inne formy usprawniania (kinezyterapia) – czas trwania zabiegu – minimum 15 minut.2. Masaż2.1. masaż suchy – częściowy – minimum 20 minut na jednego pacjenta, w tym minimum 15 minut czynnego masażu,2.2. masaż limfatyczny ręczny – leczniczy,2.3. masaż limfatyczny mechaniczny -leczniczy.3. Elektrolecznictwo3.1. galwanizacja,3.2. jonoforeza,3.3. elektrostymulacja,3.4. tonoliza,3.5. prądy diadynamiczne,3.6. prądy interferencyjne, Wymagania dotyczące personelu: specjalista w dziedzinie fizjoterapii lub fizjoterapeuta posiadający tytuł magistra, o którym mowa w art. 4 ust. 4 pkt 1 i 2 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty, lub fizjoterapeuta posiadający dyplom, świadectwo, lub inny dokument, o którym mowa w art. 13 ust. 1 pkt 5 lit. b i c tej ustawy, potwierdzający ukończenie studiów drugiego stopnia oraz posiadający co najmniej 3-letnie doświadczenie w zawodzie fizjoterapeuty, w wymiarze co najmniej 1/4 etatu przeliczeniowego (równoważnik 1/4 etatu przeliczeniowego).1. Wymagania dotyczące personelu:1) zabieg fizjoterapeutyczny: fizjoterapeuta;2) personel realizujący zabiegi masażu: fizjoterapeuta lub masażysta, w wymiarze co najmniej 1/2 etatu przeliczeniowego (równoważnik 1/2 etatu przeliczeniowego).2. Wyposażenie świadczeniodawcy:1) przenośny zestaw do elektroterapii z osprzętem – nie mniej niż 1 zestaw na 2 fizjoterapeutów;2) przenośny zestaw do biostymulacji laserowej – nie mniej niż 1 zestaw na 2 fizjoterapeutów;3) pomieszczenie biurowe z telefonem, sekretarką automatyczną i faksem;4) pomieszczenie magazynowe na leki i sprzęt medyczny.3. Inne warunki:1) skierowanie na rehabilitację jest wystawiane przez lekarza podstawowej opieki zdrowotnej lub innego lekarza ubezpieczenia zdrowotnego: a) specjalistę w dziedzinie:- rehabilitacji w chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacji medycznej,- medycyny fizykalnej i balneoklimatologii, lub fizjoterapii i balneoklimatologii, lub balneoklimatologii i medycyny fizykalnej, lub balneologii, lub balneologii i medycyny fizykalnej,- reumatologii,- neurologii,- neurochirurgii lub neurochirurgii i neurotraumatologii,- chirurgii lub chirurgii ogólnej,- chirurgii ortopedycznej lub chirurgii urazowo-ortopedycznej, lub ortopedii i traumatologii, lub ortopedii i traumatologii narządu ruchu, lubb) lekarza ze specjalizacją I stopnia w dziedzinie:- rehabilitacji w chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacj i medycznej,- medycyny fizykalnej i balneoklimatologii,- neurologii,- neurochirurgii,- chirurgii ogólnej,- ortopedii i traumatologii, lubc) lekarza w trakcie specjalizacj i w dziedzinie:- rehabilitacji medycznej,- balneologii i medycyny fizykalnej, 3.7. prądy TENS,3.8. prądy TRAEBERTA,3.9. prądy KOTZA,3.10. ultradźwięki miejscowe,3.11. ultrafonoforeza.4. Leczenie polem elektromagnetycznym4.1. impulsowe pole magnetyczne niskiej częstotliwości.5. Światłolecznictwo i termoterapia5.1. naświetlanie promieniem widzialnym, podczerwonym i/lub ultrafioletowym miejscowe5.2. laseroterapia – skaner,5.3. laseroterapia punktowa.6. Balneoterapia6.1. okłady z borowiny – miejscowe,6.2. zabiegi fizykoterapeutyczne. – reumatologii,- neurologii,- neurochirurgii,- chirurgii ogólnej,- ortopedii i traumatologii narządu ruchu;2) świadczeniobiorca powinien zarejestrować skierowanie nie później niż 30 dni od dnia jego wystawienia;3) skierowanie na cykl zabiegów powinno zawierać: a) pieczęć nagłówkową z numerem umowy zawartej z dyrektorem właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia, b) imię, nazwisko, adres zamieszkania świadczeniobiorcy oraz numer PESEL, a w przypadku braku numeru PESEL – numer dokumentu potwierdzającego tożsamość, c) rozpoznanie w języku polskim, d) kod jednostki chorobowej według Klasyfikacji ICD-10, e) opis dysfunkcji narządu ruchu, deficytu neurologicznego lub innej przyczyny kierowania na rehabili-tację, f) choroby przebyte i współistniejące oraz inne czynniki (np. wszczepione urządzenia wspomagające pracę układu krążeniowo-oddechowego lub metal w ciele pacjenta, przyjmowanie niektórych leków) mogące mieć istotny wpływ na proces rehabilitacj i, g) liczbę zleconych zabiegów fizjoterapeutycznych wraz z określeniem okolicy ciała, ewentualnej strony (prawa, lewa) oraz liczbę poszczególnych zabiegów w cyklu, h) pieczęć i podpis lekarza kierującego oraz datę wystawienia skierowania.
+W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu rehabilitacji leczniczej (Dz. U. poz. 1522 oraz z 2016 r. poz. 2162) w załączniku nr 1 do rozporządzenia lp. 1 i 2 otrzymują brzmienie:
+1 realizowane w warunkach ambulatoryjnych: Warunki lokalowe wspólne:
+1) przy wejściu do obiektu znajdują się dojazdy oraz dojścia dla świadczeniobiorców z niepełnosprawnością ruchową;
+2) w węzłach sanitarnych dla świadczeniobiorców znajdują się poręcze i uchwyty;
+3) w obiekcie znajduje się co najmniej jedno pomieszczenie higieniczno-sanitarne dla świadczeniobiorców, dostosowane do potrzeb osób z niepełnosprawnością ruchową;
+4) w budynkach wielokondygnacyjnych znajduje się dźwig lub inne urządzenie techniczne (z wyjątkiem schodołazów), umożliwiające wjazd świadczeniobiorcom z niepełnosprawnością ruchową, w tym poruszającym się na wózkach inwalidzkich, tylko wtedy, gdy świadczenia są udzielane na kondygnacji innej niż parter. a) lekarska ambulatoryjna opieka rehabilitacyjna:
+porada lekarska rehabilitacyjna 1. Wymagania dotyczące personelu:
+1) lekarz specjalista w dziedzinie rehabilitacji w chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub fizjoterapii i balneoklimatologii, lub balneoklimatologii i medycyny fizykalnej, lub balneologii, lub balneologii i medycyny fizykalnej lub
+2) lekarz ze specjalizacją I stopnia w dziedzinie rehabilitacji w chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub 3) lekarz, który ukończył minimum drugi rok specjalizacji w trakcie specjalizacji w dziedzinie rehabilitacji medycznej lub balneologii i medycyny fizykalnej, lub
+4) lekarz specjalista w dziedzinie chirurgii ortopedycznej lub chirurgii urazowo-ortopedycznej, lub ortopedii i traumatologii, lub ortopedii i traumatologii narządu ruchu, lub lekarz specjalista reumatologii
+udziela świadczeń w wymiarze co najmniej 1/4 etatu przeliczeniowego (równoważnik 1/4 etatu przeliczeniowego).
+2. Inne warunki:
+Skierowanie do poradni rehabilitacyjnej jest wystawiane przez lekarza ubezpieczenia zdrowotnego.
+3. Czas pracy poradni:
+Poradnia jest czynna co najmniej 2 dni w tygodniu, w tym co najmniej jeden dzień w przedziale czasowym od 13.00 do 18.00. | b) fizjoterapia ambulatoryjna: Warunki udzielania:
+1) fizjoterapia ambulatoryjna odbywa się na podstawie zlecenia wydanego przez lekarza ubezpieczenia zdrowotnego w cyklu terapeutycznym do 10 dni zabiegowych, jednemu świadczeniobiorcy przysługuje nie więcej niż 5 zabiegów dziennie;
+?,) usprawnianie dzieci z uszkodzeniem ośrodkowego układu nerwowego do ukończenia 18. roku życia w formie ambulatoryjnej (w gabinecie, zakładzie rehabilitacji lub fizjoterapii) może odbywać się na podstawie jednego w roku kalendarzowym skierowania z poradni specjalistycznej, w którym zlecony cykl terapeutyczny nie może przekroczyć 120 dni zabiegowych i 5 zabiegów dziennie;
+3) świadczenia udzielane w fizjoterapii ambulatoryjnej, z wyjątkiem masażu, muszą odbywać się pod nadzorem co najmniej osoby wykonującej zawód fizjoterapeuty i posiadającej tytuł magistra, o którym mowa w art. 4 ust. 4 pkt 1 i 2 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty (Dz. U. poz. 1994 oraz z 2017 r. poz. 599), lub fizjoterapeuty posiadającego dyplom, świadectwo lub inny dokument, o którym mowa w art. 13 ust. 1 pkt 5 lit. b i c tej ustawy, potwierdzający ukończenie studiów drugiego stopnia oraz posiadającego co najmniej 3-letnie doświadczenie w zawodzie fizjoterapeuty. – wizyta fizjoterapeutyczna Wymagania dotyczące personelu: fizjoterapeuta posiadający tytuł specjalisty w dziedzinie fizjoterapii lub tytuł specjalisty rehabilitacji ruchowej II stopnia, zwany dalej „specjalistą w dziedzinie fizjoterapii”, lub fizjoterapeuta posiadający tytuł magistra, o którym mowa w art. 4 ust. 4 pkt 1 i 2 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty, lub fizjoterapeuta posiadający dyplom, świadectwo, lub inny dokument, o którym mowa w art. 13 ust. 1 pkt 5 lit. b i c tej ustawy, potwierdzający ukończenie studiów drugiego stopnia oraz posiadający co najmniej 3-letnie doświadczenie w zawodzie fizjoterapeuty, w wymiarze co najmniej 1/4 etatu przeliczeniowego (równoważnik 1/4 etatu przeliczeniowego). – zabieg fizjoterapeutyczny: 1. Kinezyterapia
+1.1. indywidualna praca ze świadczeniobiorcą (w szczególności: ćwiczenia 1. Wymagania dotyczące personelu:
+1) zabieg fizjoterapeutyczny wykonuje fizjoterapeuta w wymiarze co najmniej 1/2 etatu przeliczeniowego (równoważnik 1/2 etatu przeliczeniowego); bierne, czynno-bierne, ćwiczenia według metod neurofizjologicznych, metody reedukacji nerwowo-mięśniowej, ćwiczenia specjalne, mobilizacje i manipulacje) – nie mniej niż 30 minut; możliwość rozliczenia nie więcej niż 2 razy dziennie,
+1.2. ćwiczenia wspomagane – czas trwania zabiegu – minimum 15 minut,
+1.3. pionizacja,
+1.4. ćwiczenia czynne w odciążeniu i czynne w odciążeniu z oporem -czas trwania zabiegu – minimum 15 minut,
+1.5. ćwiczenia czynne wolne i czynne z oporem – czas trwania zabiegu -minimum 15 minut,
+1.6. ćwiczenia izometryczne – czas trwania zabiegu – minimum 15 minut,
+1.7. nauka czynności lokomocji – czas trwania zabiegu – minimum 15 minut,
+1.8. wyciągi,
+1.9. inne formy usprawniania (kinezyterapia) – czas trwania zabiegu – minimum 15 minut,
+1.10. ćwiczenia grupowe ogólnousprawniające (nie więcej niż 10 świadczeniobiorców na 1 terapeutę).
+2. Masaż
+2.1. masaż suchy – częściowy – minimum 20 minut na jednego świadczeniobiorcę, w tym minimum 15 minut czynnego masażu,
+2.2. masaż limfatyczny ręczny – leczniczy,
+2.3. masaż limfatyczny mechaniczny – leczniczy,
+2.4. masaż podwodny – hydropowietrzny (nie obejmuj e urządzeń jaccuzi),
+2.5. masaż podwodny miejscowy,
+2.6. masaż podwodny całkowity,
+2.7. masaż mechaniczny (nie obejmuje urządzeń typu fotele masujące, maty masujące).
+3. Elektrolecznictwo
+3.1. galwanizacja,
+3.2. jonoforeza,
+3.3. kąpiel czterokomorowa,
+3.4. kąpiel elektryczna – wodna całkowita,
+3.5. elektrostymulacja,
+3.6. tonoliza,
+3.7. prądy diadynamiczne, 2) personel realizujący zabiegi masażu:
+a) fizjoterapeuta,
+b) osoba, która uzyskała dyplom technika masażysty po ukończeniu technikum lub szkoły policealnej publicznej lub niepublicznej o uprawnieniach szkoły publicznej
+zwana dalej „masażystą”;
+3) personel realizujący zabiegi krioterapii ogólnoustrojowej: lekarz oraz fizjoterapeuta, który uzyskał tytuł magistra, o którym mowa w art. 4 ust. 4 pkt 1 i 2 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty, lub fizjoterapeuta posiadający dyplom, świadectwo, lub inny dokument, o którym mowa w art. 13 ust. 1 pkt 5 lit. b i c tej ustawy, potwierdzający ukończenie studiów drugiego stopnia oraz posiadający co najmniej 3-letnie doświadczenie w zawodzie fizjoterapeuty.
+2. Wyposażenie w gabinecie, zakładzie rehabilitacji lub fizjoterapii:
+1) wyposażenie do zabiegów kinezyterapeutycznych wymagane w miejscu udzielania świadczeń:
+a) wyposażenie sali kinezyterapii: stół rehabilitacyjny, drabinki rehabilitacyjne, lub inne spełniające takie same funkcje, maty lub materace do kinezyterapii,
+b) rotory do ćwiczeń kończyn górnych i kończyn dolnych,
+c) Uniwersalny Gabinet Usprawniania Leczniczego (UGUL) lub inny system spełniający jego rolę,
+d) stół lub tablica do ćwiczeń manualnych (ręki);
+2) wyposażenie do zabiegów fizykoterapeutycznych wymagane w miejscu udzielania świadczeń:
+a) zestaw do elektroterapii z osprzętem, aparaty wykorzystujące prąd stały oraz impulsowy małej i średniej częstotliwości,
+b) lampa do naświetlań promieniowaniem widzialnym, podczerwonym lub ultrafioletowym,
+c) zestaw do magnetoterapii,
+d) zestaw do terapii falą ultradźwięków (nie dotyczy ośrodków, które realizują świadczenia tylko na rzecz dzieci),
+e) zestaw do biostymulacji laserowej.
+3. Wymagany zakres wykonywanych zabiegów:
+1) fizykoterapeutycznych:
+a) elektroterapia,
+b) światłolecznictwo,
+c) leczenie zmiennym polem elektromagnetycznym i magnetycznym,
+d) ultradźwięki (nie dotyczy ośrodków, które realizują świadczenia tylko na rzecz dzieci),
+e) laseroterapia;
+2) kinezyterapeutycznych:
+a) ćwiczenia bierne, czynno-bierne, wspomagane, pionizacja – prowadzone indywidualnie przez osobę prowadzącą fizjoterapię,
+b) ćwiczenia różne: czynne w odciążeniu, czynne w odciążeniu z oporem, czynne wolne, czynne z oporem, izometryczne,
+c) nauka czynności lokomocyjnych,
+d) zabiegi z użyciem wyciągów. 3.8. prądy interferencyjne,
+3.9. prądy TENS,
+3.10. prądy TRAEBERTA,
+3.11. prądy KOTZA,
+3.12. ultradźwięki miejscowe,
+3.13. ultrafonoforeza.
+4. Leczenie polem elektromagnetycznym
+4.1. impulsowe pole elektromagnetyczne wysokiej częstotliwości,
+4.2. diatermia krótkofalowa, mikrofala,
+4.3. impulsowe pole magnetyczne niskiej częstotliwości.
+5. Swiatłolecznictwo i termoterapia
+5.1. naświetlanie promieniowaniem widzialnym, podczerwonym lub ultrafioletowym – miejscowe,
+5.2. laseroterapia – skaner,
+5.3. laseroterapia punktowa,
+5.4. okłady parafinowe.
+6. Hydroterapia
+6.1. kąpiel wirowa kończyn,
+6.2. inne kąpiele – wirowa w tanku,
+6.3. natrysk biczowy, szkocki, stały płaszczowy, inne natryski.
+7. Krioterapia
+7.1. zabieg wkriokomorze – jednemu świadczeniobiorcy przysługuje do 20 zabiegów w kriokomorze w ciągu roku kalendarzowego,
+7.2. krioterapia – miejscowa (pary azotu).
+8. Balneoterapia
+8.1. okłady z borowiny – ogólne,
+8.2. okłady z borowiny-miejscowe,
+8.3. kąpiel borowinowa, solankowa, kwasowęglowa, siarczkowo-siarkowodorowa, w suchym CO2,
+8.4. fango. 4. Wymagane warunki dotyczące pomieszczeń:
+1) zabiegi światłolecznictwa i elektrolecznictwa powinny być udzielane w osobnych pomieszczeniach (boksach), posiadających ściany o wysokości co najmniej 2,0 m, umożliwiających stosowanie wspólnej wentylacji mechanicznej;
+2) diatermie krótkofalowe i mikrofalowe powinny być instalowane w oddzielnych pomieszczeniach (boksach), odpowiednio zabezpieczonych przed szkodliwym oddziaływaniem promieniowania elektromagnetycznego na otoczenie;
+3) sala do kinezyterapii powinna stanowić odrębne pomieszczenie;
+4) gabinet masażu powinien stanowić odrębne pomieszczenie (jeżeli świadczenie jest realizowane).
+5. Wymagane wyposażenie do zabiegu krioterapii ogólnoustrojowej, jeżeli dane świadczenie jest udzielane w lokalizacji:
+1) wieloosobowa komora kriogeniczna niskotemperaturowa, zakres uzyskiwanych temperatur od -120şC do -150şC, z możliwością obserwacji świadczeniobiorcy w trakcie zabiegu;
+2) gabinet wyposażony w zestaw do udzielania pierwszej pomocy;
+3) wyposażenie sali kinezyterapii: stół rehabilitacyjny, drabinki rehabilitacyjne, lub inne spełniające takie same funkcje, maty lub materace do kinezyterapii, w miejscu udzielania świadczenia;
+4) cykloergometr – nie mniej niż 2 stanowiska.
+Jednemu świadczeniobiorcy przysługuje do 20 zabiegów w kriokomorze w okresie roku kalendarzowego.
+6. Wymagane wyposażenie, jeżeli dane świadczenie jest udzielane w miejscu:
+1) wanny do masażu wirowego kończyn górnych i kończyn dolnych;
+2) zestaw do kriostymulacji parami azotu;
+3) urządzenie wytwarzające impulsowe pole elektromagnetyczne wysokiej częstotliwości.
+7. Inne warunki:
+Skierowanie na fizjoterapię w warunkach ambulatoryjnych wystawia lekarz ubezpieczenia zdrowotnego, z zastrzeżeniem, że w przypadku stwierdzenia u świadczeniobiorcy wady postawy kwalifikującej się do rehabilitacji leczniczej lub dysfunkcji narządu ruchu, której przyczyną są wady postawy, skierowanie na zabiegi wystawia lekarz ubezpieczenia zdrowotnego będący specjalistą rehabilitacji ogólnej lub rehabilitacji medycznej, lub rehabilitacji w chorobach narządu ruchu, lub chirurgii ortopedycznej, lub chirurgii ogólnej, lub chirurgii urazowo-ortopedycznej, lub ortopedii i traumatologii, lub ortopedii i traumatologii narządu ruchu, lub lekarzem ze specjalizacją I stopnia w zakresie chirurgii ortopedycznej lub chirurgii urazowo-ortopedycznej, lub ortopedii i traumatologii lub rehabilitacji narządu ruchu, lub rehabilitacji ogólnej, lub rehabilitacji medycznej, lub lekarzem w trakcie specjalizacji z rehabilitacji medycznej lub ortopedii i traumatologii narządu ruchu (w przypadku skierowań dla dzieci odpowiednio lekarz specjalistów dziecięcych). Świadczeniobiorca powinien zarejestrować skierowanie w wybranym gabinecie, zakładzie rehabilitacji lub fizjoterapii nie później niż 30 dni od dnia jego wystawienia. Skierowanie na cykl zabiegów powinno zawierać:
+1) pieczęć nagłówkową z numerem umowy zawartej z dyrektorem właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia;
+2) imię, nazwisko, adres zamieszkania świadczeniobiorcy oraz numer PESEL, a w przypadku braku numeru PESEL, numer dokumentu potwierdzającego tożsamość;
+3) rozpoznanie w języku polskim;
+4) kod jednostki chorobowej według Klasyfikacji ICD-10;
+5) opis dysfunkcji narządu ruchu, deficytu neurologicznego lub innej przyczyny kierowania na rehabilitację;
+6) choroby przebyte i współistniejące oraz inne czynniki (np. wszczepione urządzenia wspomagające pracę układu krążeniowo-oddechowego lub metal w ciele pacjenta, przyjmowanie niektórych leków) mogące mieć istotny wpływ na proces rehabilitacji;
+7) zlecone zabiegi fizjoterapeutyczne wraz z określeniem okolicy ciała, ewentualnej strony (prawa, lewa) oraz liczbę poszczególnych zabiegów w cyklu;
+8) pieczęć i podpis lekarza kierującego oraz datę wystawienia skierowania.
+8. Czas pracy gabinetu, zakładu rehabilitacji lub fizjoterapii:
+Gabinet, zakład rehabilitacji lub fizjoterapii jest czynny co najmniej 5 dni w tygodniu, nie krócej niż 5 godzin dziennie bez przerwy, w tym co najmniej 2 dni w przedziale czasowym od 13.00 do 18.00. | 2 realizowane w warunkach domowych: a) porada lekarska rehabilitacyjna Wymagania dotyczące personelu:
+1) lekarz specjalista w dziedzinie rehabilitacji lub rehabilitacji w chorobach narządu ruchu, lub rehabilitacji ogólnej, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub fizjoterapii i balneoklimatologii, lub balneoklimatologii i medycyny fizykalnej, lub balneologii, lub balneologii i medycyny fizykalnej lub
+2) lekarz ze specjalizacją I stopnia w dziedzinie rehabilitacji lub rehabilitacji w chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub
+3) lekarz, który ukończył minimum drugi rok specjalizacji w trakcie specjalizacji w dziedzinie rehabilitacji medycznej lub balneologii i medycyny fizykalnej, lub
+4) lekarz specjalista w dziedzinie chirurgii ortopedycznej lub chirurgii urazowo-ortopedycznej, lub ortopedii i traumatologii, lub ortopedii i traumatologii narządu ruchu, lub lekarz specjalista reumatologii, w wymiarze co najmniej 1/4 etatu przeliczeniowego (równoważnik 1/4 etatu przeliczeniowego). b) fizjoterapia domowa: Czas trwania rehabilitacji realizowanej w warunkach domowych dla jednego świadczeniobiorcy wynosi do 80 dni zabiegowych w roku kalendarzowym oraz nie więcej niż 5 zabiegów dziennie. W przypadku uzasadnionym względami medycznymi i koniecznością osiągnięcia celu leczniczego czas trwania rehabilitacji może zostać przedłużony decyzją lekarza zlecającego zabiegi, za pisemną zgodą dyrektora właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia. – wizyta fizjoterapeutyczna
+zabieg fizjoterapeutyczny
+1. Kinezyterapia
+1.1. indywidualna praca ze świadczeniobiorcą (w szczególności: ćwiczenia bierne, czynno-bierne, ćwiczenia według metod neurofizjologicznych, metody reedukacji nerwowo-mięśniowej, ćwiczenia specjalne, mobilizacje i manipulacje) – nie mniej niż 30 minut; możliwość rozliczenia 1 raz dziennie,
+1.2. ćwiczenia wspomagane – czas trwania zabiegu – minimum 15 minut,
+1.3. pionizacja,
+1.4. ćwiczenia czynne w odciążeniu i czynne w odciążeniu z oporem -czas trwania zabiegu – minimum 15 minut,
+1.5. ćwiczenia czynne wolne i czynne z oporem – czas trwania zabiegu -minimum 15 minut,
+1.6. ćwiczenia izometryczne – czas trwania zabiegu – minimum 15 minut,
+1.7. nauka czynności lokomocji – czas trwania zabiegu – minimum 15 minut,
+1.8. wyciągi,
+1.9. inne formy usprawniania (kinezyterapia) – czas trwania zabiegu – minimum 15 minut.
+2. Masaż
+2.1. masaż suchy – częściowy – minimum 20 minut na jednego pacjenta, w tym minimum 15 minut czynnego masażu,
+2.2. masaż limfatyczny ręczny – leczniczy,
+2.3. masaż limfatyczny mechaniczny -leczniczy.
+3. Elektrolecznictwo
+3.1. galwanizacja,
+3.2. jonoforeza,
+3.3. elektrostymulacja,
+3.4. tonoliza,
+3.5. prądy diadynamiczne,
+3.6. prądy interferencyjne, Wymagania dotyczące personelu: specjalista w dziedzinie fizjoterapii lub fizjoterapeuta posiadający tytuł magistra, o którym mowa w art. 4 ust. 4 pkt 1 i 2 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty, lub fizjoterapeuta posiadający dyplom, świadectwo, lub inny dokument, o którym mowa w art. 13 ust. 1 pkt 5 lit. b i c tej ustawy, potwierdzający ukończenie studiów drugiego stopnia oraz posiadający co najmniej 3-letnie doświadczenie w zawodzie fizjoterapeuty, w wymiarze co najmniej 1/4 etatu przeliczeniowego (równoważnik 1/4 etatu przeliczeniowego).
+1. Wymagania dotyczące personelu:
+1) zabieg fizjoterapeutyczny: fizjoterapeuta;
+2) personel realizujący zabiegi masażu: fizjoterapeuta lub masażysta,
+w wymiarze co najmniej 1/2 etatu przeliczeniowego (równoważnik 1/2 etatu przeliczeniowego).
+2. Wyposażenie świadczeniodawcy:
+1) przenośny zestaw do elektroterapii z osprzętem – nie mniej niż 1 zestaw na 2 fizjoterapeutów;
+2) przenośny zestaw do biostymulacji laserowej – nie mniej niż 1 zestaw na 2 fizjoterapeutów;
+3) pomieszczenie biurowe z telefonem, sekretarką automatyczną i faksem;
+4) pomieszczenie magazynowe na leki i sprzęt medyczny.
+3. Inne warunki:
+1) skierowanie na rehabilitację jest wystawiane przez lekarza podstawowej opieki zdrowotnej lub innego lekarza ubezpieczenia zdrowotnego:
+a) specjalistę w dziedzinie:
+rehabilitacji w chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacji medycznej,
+medycyny fizykalnej i balneoklimatologii, lub fizjoterapii i balneoklimatologii, lub balneoklimatologii i medycyny fizykalnej, lub balneologii, lub balneologii i medycyny fizykalnej,
+reumatologii,
+neurologii,
+neurochirurgii lub neurochirurgii i neurotraumatologii,
+chirurgii lub chirurgii ogólnej,
+chirurgii ortopedycznej lub chirurgii urazowo-ortopedycznej, lub ortopedii i traumatologii, lub ortopedii i traumatologii narządu ruchu, lub
+b) lekarza ze specjalizacją I stopnia w dziedzinie:
+rehabilitacji w chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacj i medycznej,
+medycyny fizykalnej i balneoklimatologii,
+neurologii,
+neurochirurgii,
+chirurgii ogólnej,
+ortopedii i traumatologii, lub
+c) lekarza w trakcie specjalizacj i w dziedzinie:
+rehabilitacji medycznej,
+balneologii i medycyny fizykalnej, 3.7. prądy TENS,
+3.8. prądy TRAEBERTA,
+3.9. prądy KOTZA,
+3.10. ultradźwięki miejscowe,
+3.11. ultrafonoforeza.
+4. Leczenie polem elektromagnetycznym
+4.1. impulsowe pole magnetyczne niskiej częstotliwości.
+5. Światłolecznictwo i termoterapia
+5.1. naświetlanie promieniem widzialnym, podczerwonym i/lub ultrafioletowym miejscowe
+5.2. laseroterapia – skaner,
+5.3. laseroterapia punktowa.
+6. Balneoterapia
+6.1. okłady z borowiny – miejscowe,
+6.2. zabiegi fizykoterapeutyczne. – reumatologii,
+neurologii,
+neurochirurgii,
+chirurgii ogólnej,
+ortopedii i traumatologii narządu ruchu;
+2) świadczeniobiorca powinien zarejestrować skierowanie nie później niż 30 dni od dnia jego wystawienia;
+3) skierowanie na cykl zabiegów powinno zawierać:
+a) pieczęć nagłówkową z numerem umowy zawartej z dyrektorem właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia,
+b) imię, nazwisko, adres zamieszkania świadczeniobiorcy oraz numer PESEL, a w przypadku braku numeru PESEL – numer dokumentu potwierdzającego tożsamość,
+c) rozpoznanie w języku polskim,
+d) kod jednostki chorobowej według Klasyfikacji ICD-10,
+e) opis dysfunkcji narządu ruchu, deficytu neurologicznego lub innej przyczyny kierowania na rehabili-tację,
+f) choroby przebyte i współistniejące oraz inne czynniki (np. wszczepione urządzenia wspomagające pracę układu krążeniowo-oddechowego lub metal w ciele pacjenta, przyjmowanie niektórych leków) mogące mieć istotny wpływ na proces rehabilitacj i,
+g) liczbę zleconych zabiegów fizjoterapeutycznych wraz z określeniem okolicy ciała, ewentualnej strony (prawa, lewa) oraz liczbę poszczególnych zabiegów w cyklu,
+h) pieczęć i podpis lekarza kierującego oraz datę wystawienia skierowania.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844 i 858.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844 i 858.
 

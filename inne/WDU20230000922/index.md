@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 listopada 2003 r. o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej (Dz. U. z 2022 r. poz. 2026), z uwzględnieniem zmian wprowadzonych ustawą z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 kwietnia 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), który stanowi: „
 
 **Art. 169.** Ustawa wchodzi w życie z dniem 15 marca 2023 r., z wyjątkiem:
 
@@ -53,7 +52,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **6)** dostosowania gospodarstw rolnych do standardów Unii Europejskiej,
 - **7)** wspierania grup producentów rolnych,
 - **8)** pomocy technicznej dla jednostek organizacyjnych i organów realizujących zadania związane z rozwojem obszarów wiejskich
-- **9)** (uchylony) określonych przepisami Unii Europejskiej oraz postanowieniami Traktatu między Królestwem Belgii, Królestwem Danii, Republiką Federalną Niemiec, Republiką Grecką, Królestwem Hiszpanii, Republiką Francuską, Irlandią, Republiką Włoską, Wielkim Księstwem Luksemburga, Królestwem Niderlandów, Republiką Austrii, Republiką Portugalską, Republiką Finlandii, Królestwem Szwecji, Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej (Państwami Członkowskimi Unii Europejskiej) a Republiką Czeską, Republiką Estońską, Republiką Cypryjską, Republiką Łotewską, Republiką Litewską, Republiką Węgierską, Republiką Malty, Rzecząpospolitą Polską, Republiką Słowenii, Republiką Słowacką dotyczącego przystąpienia Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii, Republiki Słowackiej do Unii Europejskiej, podpisanego w dniu 16 kwietnia 2003 r. w Atenach.
+- **9)** (uchylony) – określonych przepisami Unii EuropejskiejRozporządzenie Rady (WE) nr 1257/1999 z dnia 17 maja 1999 r. w sprawie wsparcia rozwoju wsi przez Europejski Fundusz Orientacji i Gwarancji Rolnej (EFOiGR) oraz rozporządzenie Komisji (WE) nr 445/2002 z dnia 26 lutego 2002 r. ustanawiające szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1257/1999 z dnia 17 maja 1999 r. w sprawie wsparcia rozwoju wsi przez Europejski Fundusz Orientacji i Gwarancji Rolnej (EFOiGR). oraz postanowieniami Traktatu między Królestwem Belgii, Królestwem Danii, Republiką Federalną Niemiec, Republiką Grecką, Królestwem Hiszpanii, Republiką Francuską, Irlandią, Republiką Włoską, Wielkim Księstwem Luksemburga, Królestwem Niderlandów, Republiką Austrii, Republiką Portugalską, Republiką Finlandii, Królestwem Szwecji, Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej (Państwami Członkowskimi Unii Europejskiej) a Republiką Czeską, Republiką Estońską, Republiką Cypryjską, Republiką Łotewską, Republiką Litewską, Republiką Węgierską, Republiką Malty, Rzecząpospolitą Polską, Republiką Słowenii, Republiką Słowacką dotyczącego przystąpienia Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii, Republiki Słowackiej do Unii Europejskiej, podpisanego w dniu 16 kwietnia 2003 r. w Atenach.
 
 2. Warunki i tryb udzielania pomocy w zakresie uzupełnienia płatności bezpośrednich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej są realizowane na podstawie przepisów odrębnych.
 
@@ -96,11 +95,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 4. Agencja płatnicza oraz organy administracji rządowej i jednostki organizacyjne podległe organom administracji rządowej lub przez nie nadzorowane, a także organy samorządu terytorialnego, współpracują przy realizacji zadań związanych z przyznawaniem i wypłatą pomocy.
 
-4a. Wnioski o pomoc na działanie określone w art. 1 ust. 1 pkt 4 oraz wnioski o wypłatę tej pomocy składa się na formularzach opracowanych i udostępnionych przez Agencję.
+4a. Wnioski o pomoc na działanie określone w art. 1 ust. 1 pkt 4 oraz wnioski o wypłatę tej pomocy składa się na formularzach opracowanych i udostępnionych przez Agencję. 4bW brzmieniu ustalonym przez art. 125 pkt 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), która weszła w życie z dniem 15 marca 2023 r.. Wnioski, o których mowa w ust. 4a, można również składać za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
-4b. Wnioski, o których mowa w ust. 4a, można również składać za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
-
-4c. (uchylony)
+4c. (uchylony)Przez art. 125 pkt 2 ustawy, o której mowa w odnośniku 2.
 
 5. (uchylony)
 
@@ -108,7 +105,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 6a. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, szczegółowe wymagania, jakie powinny spełniać wnioski o pomoc na działanie określone w art. 1 ust. 1 pkt 4 oraz wnioski o wypłatę tej pomocy, mając na względzie konieczność zawarcia w tych wnioskach danych niezbędnych do prawidłowego udzielenia i prawidłowej wypłaty tej pomocy.
 
-7. (uchylony)
+7. (uchylony)Przez art. 125 pkt 3 ustawy, o której mowa w odnośniku 2.
 
 **Art. 6.**
 
@@ -164,7 +161,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 14.**
 
-1. Grupy producentów rolnych, które zostały wpisane do rejestru grup do dnia 30 kwietnia 2004 r. na podstawie przepisów, o których mowa w art. 12, otrzymują pomoc finansową na dotychczasowych zasadach.
+1. Grupy producentów rolnych, które zostały wpisane do rejestru grup do dnia 30 kwietnia 2004 r. na podstawie przepisów, o których mowa w art. 12Artykuł 12 zawiera zmiany do ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw., otrzymują pomoc finansową na dotychczasowych zasadach.
 
 2. Do miesięcznego ekwiwalentu za wyłączenie gruntów z upraw rolnych i prowadzenie uprawy leśnej, przyznanego przed dniem wejścia w życie niniejszej ustawy na podstawie przepisów ustawy, o której mowa w art. 15, stosuje się zasady dotychczasowe.
 
@@ -178,10 +175,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 15.** Traci moc ustawa z dnia 8 czerwca 2001 r. o przeznaczeniu gruntów rolnych do zalesienia (Dz. U. poz. 764 oraz z 2003 r. poz. 392).
 
-**Art. 16.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, z wyjątkiem:
+**Art. 16.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii EuropejskiejRzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej z dniem 1 maja 2004 r., z wyjątkiem:
 
-- **1)** art. 2–4, art. 13, art. 14 ust. 2 i 3 oraz art. 15, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
-- **2)** art. 1 ust. 2, art. 5 ust. 6, art. 7 ust. 8 i art. 14a ust. 2, które wchodzą w życie z dniem 15 marca 2004 r.
-- **1)** Rozporządzenie Rady (WE) nr 1257/1999 z dnia 17 maja 1999 r. w sprawie wsparcia rozwoju wsi przez Europejski Fundusz Orientacji i Gwarancji Rolnej (EFOiGR) oraz rozporządzenie Komisji (WE) nr 445/2002 z dnia 26 lutego 2002 r. ustanawiające szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1257/1999 z dnia 17 maja 1999 r. w sprawie wsparcia rozwoju wsi przez Europejski Fundusz Orientacji i Gwarancji Rolnej (EFOiGR). 2) W brzmieniu ustalonym przez art. 125 pkt 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), która weszła w życie z dniem 15 marca 2023 r. 3) Przez art. 125 pkt 2 ustawy, o której mowa w odnośniku 2. 4) Przez art. 125 pkt 3 ustawy, o której mowa w odnośniku 2. 5) Artykuł 12 zawiera zmiany do ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw. 6) Rzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej z dniem 1 maja 2004 r. 7) Ustawa została ogłoszona w dniu 31 grudnia 2003 r.
+- **1)** art. 2–4, art. 13, art. 14 ust. 2 i 3 oraz art. 15, które wchodzą w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 31 grudnia 2003 r.;
+- **2)** art. 1 ust. 2, art. 5 ust. 6, art. 7 ust. 8 i art. 14a ust. 2, które wchodzą w życie z dniem 15 marca 2004 r. 1) Rozporządzenie Rady (WE) nr 1257/1999 z dnia 17 maja 1999 r. w sprawie wsparcia rozwoju wsi przez Europejski Fundusz Orientacji i Gwarancji Rolnej (EFOiGR) oraz rozporządzenie Komisji (WE) nr 445/2002 z dnia 26 lutego 2002 r. ustanawiające szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1257/1999 z dnia 17 maja 1999 r. w sprawie wsparcia rozwoju wsi przez Europejski Fundusz Orientacji i Gwarancji Rolnej (EFOiGR). 2) W brzmieniu ustalonym przez art. 125 pkt 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), która weszła w życie z dniem 15 marca 2023 r. 3) Przez art. 125 pkt 2 ustawy, o której mowa w odnośniku 2. 4) Przez art. 125 pkt 3 ustawy, o której mowa w odnośniku 2. 5) Artykuł 12 zawiera zmiany do ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw. 6) Rzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej z dniem 1 maja 2004 r. 7) Ustawa została ogłoszona w dniu 31 grudnia 2003 r.
 
 

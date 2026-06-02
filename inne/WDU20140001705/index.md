@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-17 |
 | Data wydania | 2014-12-03 |
-| Wejście w życie | 2014-12-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001705) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1705/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 20b ust. 3 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 20b ust. 3 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 85, poz. 459, Nr 112, poz. 654, Nr 153, poz. 903 i Nr 160, poz. 963 oraz z 2012 r. poz. 1209 i 1315.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa listę innych, niż wymienione w art. 20b ust. 2 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji, ważnych wydarzeń.
 § 2.
@@ -47,5 +46,5 @@ zawody Pucharu Świata w biegach narciarskich kobiet;
 7)
 Mistrzostwa Świata w Lekkoatletyce.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 85, poz. 459, Nr 112, poz. 654, Nr 153, poz. 903 i Nr 160, poz. 963 oraz z 2012 r. poz. 1209 i 1315.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 stycznia 2023 r. o zmianie ustaw w celu likwidowania zbędnych barier administracyjnych i prawnych
+# Ustawa z dnia 26 stycznia 2023 r. o zmianie ustaw w celu likwidowania zbędnych barier administracyjnych i prawnych Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 28 lipca 1983 r. o podatku od spadków i darowizn, ustawę z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych, ustawę z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego, ustawę z dnia 21 maja 1999 r. o broni i amunicji, ustawę z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 6 marca 2018 r. o Rzeczniku Małych i Średnich Przedsiębiorców, ustawę z dnia 6 marca 2018 r. – Prawo przedsiębiorców, ustawę z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących oraz ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-01-26 |
 | Data wydania | 2023-04-27 |
-| Wejście w życie | 2023-05-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000803) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/803/text.pdf) |
 
@@ -36,7 +35,7 @@ source: "eli-html"
 
 § 1. Przed upływem terminu do wniesienia odwołania strona może zrzec się prawa do wniesienia odwołania wobec organu administracji publicznej, który wydał decyzję. ” .
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535, 556, 614 i 739.) wprowadza się następujące zmiany:
 
 - **1)** w art. 61 § 3 otrzymuje brzmienie: „
 
@@ -192,11 +191,11 @@ source: "eli-html"
 
 § 2a. W terminie określonym w § 2, przed przekazaniem akt sądowi, organ sporządza uzasadnienie zaskarżonej decyzji, jeżeli odstąpił od jej uzasadnienia z powodu uwzględnienia w całości żądania strony. ” .
 
-**Art. 12.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm.) uchyla się art. 266.
+**Art. 12.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414 oraz z 2023 r. poz. 412, 497 i 658.) uchyla się art. 266.
 
 **Art. 13.** W ustawie z dnia 6 marca 2018 r. o Rzeczniku Małych i Średnich Przedsiębiorców (Dz. U. poz. 648) w art. 9 w ust. 1 po pkt 6 dodaje się pkt 6a w brzmieniu: „
 
-- **6a)** brać udział w postępowaniu w sprawach cywilnych z zakresu prawa pracy i ubezpieczeń społecznych, o których mowa w części pierwszej w księdze pierwszej w tytule VII w dziale III ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.), jeżeli stroną jest przedsiębiorca, który wyraził zgodę na piśmie na udział Rzecznika, oraz jeżeli Rzecznik brał udział w postępowaniu administracyjnym poprzedzającym to postępowanie sądowe – na prawach przysługujących prokuratorowi; ” .
+- **6a)** brać udział w postępowaniu w sprawach cywilnych z zakresu prawa pracy i ubezpieczeń społecznych, o których mowa w części pierwszej w księdze pierwszej w tytule VII w dziale III ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535, 556, 614, 739 i 803.), jeżeli stroną jest przedsiębiorca, który wyraził zgodę na piśmie na udział Rzecznika, oraz jeżeli Rzecznik brał udział w postępowaniu administracyjnym poprzedzającym to postępowanie sądowe – na prawach przysługujących prokuratorowi; ” .
 
 **Art. 14.** W ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221 i 641) w art. 5 ust. 1 otrzymuje brzmienie: „ 1. Nie stanowi działalności gospodarczej działalność wykonywana przez osobę fizyczną, której przychód należny z tej działalności nie przekracza w żadnym miesiącu 75% kwoty minimalnego wynagrodzenia, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207), i która w okresie ostatnich 60 miesięcy nie wykonywała działalności gospodarczej. ” .
 
@@ -245,9 +244,9 @@ source: "eli-html"
 
 - **7)** w art. 19 ust. 3 otrzymuje brzmienie: „
 
-3. W lokalnych standardach urbanistycznych, o których mowa w ust. 1, rada gminy może określić liczby miejsc postojowych niezbędnych dla obsługi realizowanej inwestycji mieszkaniowej większe niż określone w art. 17 ust. 4a pkt 2 lub art. 17 ust. 4d pkt 2 lub obowiązek zapewnienia dostępu do sieci ciepłowniczej na zasadach wynikających z przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm.). ” .
+3. W lokalnych standardach urbanistycznych, o których mowa w ust. 1, rada gminy może określić liczby miejsc postojowych niezbędnych dla obsługi realizowanej inwestycji mieszkaniowej większe niż określone w art. 17 ust. 4a pkt 2 lub art. 17 ust. 4d pkt 2 lub obowiązek zapewnienia dostępu do sieci ciepłowniczej na zasadach wynikających z przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295.). ” .
 
-**Art. 16.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.) art. 100 otrzymuje brzmienie: „
+**Art. 16.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687 oraz z 2023 r. poz. 295 i 556.) art. 100 otrzymuje brzmienie: „
 
 **Art. 100.** W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii albo wprowadzenia stanu nadzwyczajnego profil zaufany, o którym mowa w art. 3 pkt 14 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57), zachowuje ważność do końca trzeciego miesiąca, licząc od miesiąca, w którym odwołano stan zagrożenia epidemicznego lub stan epidemii albo zniesiono stan nadzwyczajny, jednocześnie nie ogłaszając ani nie wprowadzając żadnego z tych stanów. ” .
 
@@ -280,6 +279,6 @@ source: "eli-html"
 **Art. 24.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 10 i art. 20, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-- **2)** art. 5, art. 14 i art. 19, które wchodzą w życie z dniem 1 lipca 2023 r.
+- **2)** art. 5, art. 14 i art. 19, które wchodzą w życie z dniem 1 lipca 2023 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 28 lipca 1983 r. o podatku od spadków i darowizn, ustawę z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych, ustawę z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego, ustawę z dnia 21 maja 1999 r. o broni i amunicji, ustawę z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 6 marca 2018 r. o Rzeczniku Małych i Średnich Przedsiębiorców, ustawę z dnia 6 marca 2018 r. – Prawo przedsiębiorców, ustawę z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących oraz ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535, 556, 614 i 739. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414 oraz z 2023 r. poz. 412, 497 i 658. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535, 556, 614, 739 i 803. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687 oraz z 2023 r. poz. 295 i 556.
 
 

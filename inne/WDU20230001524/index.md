@@ -25,17 +25,52 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001524) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1524/text.pdf) |
 
-Treść obwieszczenia 1. 2.
-Załącznik – Tekst jednolity ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego Rozdział 1 – Przepisy ogólne Rozdział 2 – Zasady udostępniania i przekazywania informacji sektora publicznego w celu ponownego wykorzystywania Rozdział 3 – Warunki ponownego wykorzystywania Rozdział 4 – Zasady ustalania opłat za ponowne wykorzystywanie Rozdział 5 – Dane badawcze, dane dynamiczne i dane o wysokiej wartości Rozdział 6 – Program otwierania danych Rozdział 7 – Portal danych Rozdział 8 – Pełnomocnicy do spraw otwartości danych Rozdział 9 – Ponowne wykorzystywanie informacji sektora publicznego przekazywanych na wniosek Rozdział 10 – Zmiany w przepisach Rozdział 11 – Przepisy przejściowe, dostosowujące i przepisy końcowe
+Treść obwieszczenia
+1.
+2.
+Załącznik – Tekst jednolity ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 czerwca 2023 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641), które stanowią:
-„
-(pominięte)
+art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641), które stanowią: „
+Zintegrowana platforma analityczna
+Przepisy ogólne
+Zasady udostępniania i przekazywania informacji sektora publicznego w celu ponownego wykorzystywania
+Warunki ponownego wykorzystywania
+Zasady ustalania opłat za ponowne wykorzystywanie
+Dane badawcze, dane dynamiczne i dane o wysokiej wartości
+Program otwierania danych
+Portal danych
+Pełnomocnicy do spraw otwartości danych
+Ponowne wykorzystywanie informacji sektora publicznego przekazywanych na wniosek
+Zmiany w przepisach
+(pominięte)Zamieszczone w obwieszczeniu.
+Przepisy przejściowe, dostosowujące i przepisy końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Zasady udostępniania i przekazywania informacji sektora publicznego w celu ponownego wykorzystywania
+
+#### Rozdział 3 – Warunki ponownego wykorzystywania
+
+#### Rozdział 4 – Zasady ustalania opłat za ponowne wykorzystywanie
+
+#### Rozdział 5 – Dane badawcze, dane dynamiczne i dane o wysokiej wartości
+
+#### Rozdział 6 – Program otwierania danych
+
+#### Rozdział 7 – Portal danych
+
+#### Rozdział 8 – Pełnomocnicy do spraw otwartości danych
+
+#### Rozdział 9 – Ponowne wykorzystywanie informacji sektora publicznego przekazywanych na wniosek
+
+#### Rozdział 10 – Zmiany w przepisach
+
+#### Rozdział 11 – Przepisy przejściowe, dostosowujące i przepisy końcowe
 
 **Art. 45.** W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r. poz. 2052 oraz z 2021 r. poz. 922) w art. 40k wyrazy „ustawy z dnia 25 lutego 2016 r. o ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2019 r. poz. 1446)” zastępuje się wyrazami „ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641)”.
 
@@ -76,7 +111,7 @@ art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wyk
 - **2)** w art. 15 w ust. 4 wyrazy „ustawie z dnia 25 lutego 2016 r. o ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2019 r. poz. 1446)” zastępuje się wyrazami „ustawie z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641)”;
 - **3)** po rozdziale 3a dodaje się rozdział 3b w brzmieniu: „
 
-#### Rozdział 3b Zintegrowana platforma analityczna
+#### Rozdział 3b
 
 **Art. 20p.** Minister właściwy do spraw informatyzacji zapewnia funkcjonowanie rozwiązania organizacyjno-technicznego, zwanego dalej „zintegrowaną platformą analityczną”, służącego do prowadzenia analiz wspomagających tworzenie kluczowych polityk publicznych z wykorzystaniem danych udostępnianych przez podmioty, o których mowa w art. 2, gromadzonych w rejestrach publicznych i systemach teleinformatycznych. 1. W ramach zintegrowanej platformy analitycznej minister właściwy do spraw informatyzacji przetwarza dane udostępnione z rejestrów publicznych i systemów teleinformatycznych określonych w przepisach wydanych na podstawie ust. 7, w celu wykonywania zadań związanych z analizami wspomagającymi tworzenie kluczowych polityk publicznych. 2. Podmioty prowadzące rejestry publiczne i systemy teleinformatyczne określone w przepisach wydanych na podstawie ust. 7 udostępniają na potrzeby analiz w ramach zintegrowanej platformy analitycznej dane określone w tych przepisach, zgromadzone przez te podmioty na podstawie przepisów odrębnych w związku z realizacją zadań publicznych. 3. Jeżeli jest to niezbędne do realizacji konkretnej analizy w ramach zintegrowanej platformy analitycznej, dane udostępnione z różnych rejestrów publicznych i systemów teleinformatycznych mogą być łączone. 4. Dane osobowe udostępniane na potrzeby prowadzenia analiz w ramach zintegrowanej platformy analitycznej podlegają pseudonimizacji. 5. Pseudonimizacja jest dokonywana przez organ lub podmiot, który udostępnia dane, po określeniu niezbędnego celu i zakresu prowadzonej analizy. 6. Podmiot, który udostępnia dane, oraz minister właściwy do spraw informatyzacji uzgadniają metodę pseudonimizacji udostępnianych danych oraz tryb udostępniania, mając na uwadze cel, zakres analizy oraz przepisy o ochronie danych osobowych. 7. Rada Ministrów określi, w drodze rozporządzenia, zakres danych i wykaz rejestrów publicznych i systemów teleinformatycznych, z których są udostępniane niezbędne dane na potrzeby prowadzenia analiz w ramach zintegrowanej platformy analitycznej, oraz podmiotów je prowadzących, które są obowiązane do przekazywania danych pochodzących z tych rejestrów i systemów, a także sposób udostępniania tych danych, mając na uwadze zapewnienie skutecznego pozyskiwania danych oraz zgodności ich udostępniania z przepisami o ochronie danych osobowych. 1. Minister właściwy do spraw informatyzacji zawiera porozumienie w sprawie wykorzystywania zintegrowanej platformy analitycznej z podmiotem, o którym mowa w art. 2, na potrzeby kluczowej polityki publicznej. 2. Porozumienie określa w szczególności:
 
@@ -125,9 +160,9 @@ art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wyk
 
 - **2)** art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi: „
 
-**Art. 417.** Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego
+**Art. 417.** Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznegoNiniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1024 z dnia 20 czerwca 2019 r. w sprawie otwartych danych i ponownego wykorzystywania informacji sektora publicznego (Dz. Urz. UE L 172 z 26.06.2019, str. 56).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa zasady otwartości danych, zasady i tryb udostępniania i przekazywania informacji sektora publicznego w celu ponownego wykorzystywania oraz podmioty, które udostępniają lub przekazują te informacje.
 
@@ -150,7 +185,7 @@ art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wyk
 
 **Art. 3.** Podmiotami zobowiązanymi do udostępniania lub przekazywania informacji sektora publicznego w celu ponownego wykorzystywania, zwanymi dalej „podmiotami zobowiązanymi”, są:
 
-- **1)** jednostki sektora finansów publicznych w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm.);
+- **1)** jednostki sektora finansów publicznych w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414 oraz z 2023 r. poz. 412, 497, 658, 803 i 1059.);
 - **2)** inne niż określone w pkt 1 państwowe jednostki organizacyjne nieposiadające osobowości prawnej;
 - **3)** inne niż określone w pkt 1 osoby prawne, utworzone w szczególnym celu zaspokajania potrzeb o charakterze powszechnym, niemających charakteru przemysłowego ani handlowego, jeżeli podmioty, o których mowa w tym przepisie, oraz podmioty, o których mowa w pkt 1 i 2, pojedynczo lub wspólnie, bezpośrednio albo pośrednio przez inny podmiot: finansują je w ponad 50% lub posiadają ponad połowę udziałów albo akcji, lub sprawują nadzór nad organem zarządzającym, lub mają prawo do powoływania ponad połowy składu organu nadzorczego lub zarządzającego;
     - **a)**
@@ -159,7 +194,7 @@ art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wyk
     - **d)**
 
 - **4)** związki podmiotów, o których mowa w pkt 1–3;
-- **5)** inne niż określone w pkt 1–4 podmioty, które: wykonują jeden z rodzajów działalności sektorowej, o której mowa w art. 5 ust. 4 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2022 r. poz. 1710, 1812, 1933 i 2185 oraz z 2023 r. poz. 412 i 825), lub działają w charakterze podmiotów świadczących usługi publiczne w rozumieniu art. 2 lit. d rozporządzenia (WE) nr 1370/2007 Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. dotyczącego usług publicznych w zakresie kolejowego i drogowego transportu pasażerskiego oraz uchylającego rozporządzenia Rady (EWG) nr 1191/69 i (EWG) nr 1107/70 (Dz. Urz. UE L 315 z 03.12.2007, str. 1, z późn. zm.), lub działają w charakterze przewoźników lotniczych w rozumieniu art. 2 pkt 10 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1008/2008 z dnia 24 września 2008 r. w sprawie wspólnych zasad wykonywania przewozów lotniczych na terenie Wspólnoty (Wersja przekształcona) (Dz. Urz. UE L 293 z 31.10.2008, str. 3, z późn. zm.), wykonujących obowiązki użyteczności publicznej zgodnie z art. 16 tego rozporządzenia, lub działają w charakterze armatorów Wspólnoty w rozumieniu art. 2 pkt 2 rozporządzenia Rady (EWG) nr 3577/92 z dnia 7 grudnia 1992 r. dotyczącego stosowania zasady swobody świadczenia usług w transporcie morskim w obrębie Państw Członkowskich (kabotaż morski) (Dz. Urz. UE Polskie wydanie specjalne rozdz. 6, t. 2, str. 10, z późn. zm.), wykonujących zobowiązania z tytułu świadczenia usług publicznych zgodnie z art. 4 tego rozporządzenia na które podmioty, wymienione w pkt 1–4, pojedynczo lub wspólnie, bezpośrednio lub pośrednio przez inny podmiot, wywierają dominujący wpływ, w szczególności posiadają ponad połowę udziałów albo akcji lub posiadają ponad połowę głosów wynikających z udziałów albo akcji lub mają prawo do powoływania ponad połowy składu organu nadzorczego lub zarządzającego.
+- **5)** inne niż określone w pkt 1–4 podmioty, które: wykonują jeden z rodzajów działalności sektorowej, o której mowa w art. 5 ust. 4 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2022 r. poz. 1710, 1812, 1933 i 2185 oraz z 2023 r. poz. 412 i 825), lub działają w charakterze podmiotów świadczących usługi publiczne w rozumieniu art. 2 lit. d rozporządzenia (WE) nr 1370/2007 Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. dotyczącego usług publicznych w zakresie kolejowego i drogowego transportu pasażerskiego oraz uchylającego rozporządzenia Rady (EWG) nr 1191/69 i (EWG) nr 1107/70 (Dz. Urz. UE L 315 z 03.12.2007, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 240 z 16.09.2015, str. 65 oraz Dz. Urz. UE L 354 z 23.12.2016, str. 22.), lub działają w charakterze przewoźników lotniczych w rozumieniu art. 2 pkt 10 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1008/2008 z dnia 24 września 2008 r. w sprawie wspólnych zasad wykonywania przewozów lotniczych na terenie Wspólnoty (Wersja przekształcona) (Dz. Urz. UE L 293 z 31.10.2008, str. 3, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 212 z 22.08.2018, str. 1, Dz. Urz. UE L 11 z 14.01.2019, str. 1, Dz. Urz. UE L 165 z 27.05.2020, str. 1 oraz Dz. Urz. UE L 426 z 17.12.2020, str. 1 i 4.), wykonujących obowiązki użyteczności publicznej zgodnie z art. 16 tego rozporządzenia, lub działają w charakterze armatorów Wspólnoty w rozumieniu art. 2 pkt 2 rozporządzenia Rady (EWG) nr 3577/92 z dnia 7 grudnia 1992 r. dotyczącego stosowania zasady swobody świadczenia usług w transporcie morskim w obrębie Państw Członkowskich (kabotaż morski) (Dz. Urz. UE Polskie wydanie specjalne rozdz. 6, t. 2, str. 10, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 112 z 24.04.2012, str. 21 oraz Dz. Urz. UE L 295 z 11.10.2014, str. 85.), wykonujących zobowiązania z tytułu świadczenia usług publicznych zgodnie z art. 4 tego rozporządzenia – na które podmioty, wymienione w pkt 1–4, pojedynczo lub wspólnie, bezpośrednio lub pośrednio przez inny podmiot, wywierają dominujący wpływ, w szczególności posiadają ponad połowę udziałów albo akcji lub posiadają ponad połowę głosów wynikających z udziałów albo akcji lub mają prawo do powoływania ponad połowy składu organu nadzorczego lub zarządzającego.
     - **a)**
     - **b)**
     - **c)**
@@ -177,12 +212,11 @@ art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wyk
     - **e)**
 
 - **4)** podmiotów, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900), z wyjątkiem bibliotek pedagogicznych w rozumieniu przepisów ustawy z dnia 27 czerwca 1997 r. o bibliotekach,
-- **5)** podmiotów, o których mowa w art. 3 pkt 5, w zakresie, w jakim informacje te zostały wytworzone: poza zakresem zadań publicznych, w ramach działalności uznanej za bezpośrednio podlegającą konkurencji, zgodnie z art. 34 dyrektywy Parlamentu Europejskiego i Rady 2014/25/UE z dnia 26 lutego 2014 r. w sprawie udzielania zamówień przez podmioty działające w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych, uchylającej dyrektywę 2004/17/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 243, z późn. zm.),
+- **5)** podmiotów, o których mowa w art. 3 pkt 5, w zakresie, w jakim informacje te zostały wytworzone: poza zakresem zadań publicznych, w ramach działalności uznanej za bezpośrednio podlegającą konkurencji, zgodnie z art. 34 dyrektywy Parlamentu Europejskiego i Rady 2014/25/UE z dnia 26 lutego 2014 r. w sprawie udzielania zamówień przez podmioty działające w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych, uchylającej dyrektywę 2004/17/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 243, z późn. zm.Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 307 z 25.11.2015, str. 7, Dz. Urz. UE L 337 z 19.12.2017, str. 17 oraz Dz. Urz. UE L 279 z 31.10.2019, str. 27.), 6W brzmieniu ustalonym przez art. 392 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r.) podmiotów, o których mowa w art. 343 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700 oraz z 2023 r. poz. 289), oraz zakładów karnych i aresztów śledczych,
     - **a)**
     - **b)**
 
-- **6)** podmiotów, o których mowa w art. 343 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700 oraz z 2023 r. poz. 289), oraz zakładów karnych i aresztów śledczych,
-- **7)** Krajowej Szkoły Sądownictwa i Prokuratury, z wyjątkiem danych badawczych chyba że informacje te stanowią informacje publiczne podlegające udostępnianiu w Biuletynie Informacji Publicznej.
+- **7)** Krajowej Szkoły Sądownictwa i Prokuratury, z wyjątkiem danych badawczych – chyba że informacje te stanowią informacje publiczne podlegające udostępnianiu w Biuletynie Informacji Publicznej.
 
 2. Przepisów ustawy nie stosuje się do informacji sektora publicznego, których udostępnianie lub przekazanie zostało uzależnione od wykazania przez użytkowników interesu prawnego lub faktycznego na podstawie odrębnych przepisów.
 
@@ -215,7 +249,7 @@ art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wyk
 
 2. Przepisy ustawy nie naruszają przepisów o ochronie danych osobowych.
 
-#### Rozdział 2 Zasady udostępniania i przekazywania informacji sektora publicznego w celu ponownego wykorzystywania
+#### Rozdział 2
 
 **Art. 8.**
 
@@ -270,7 +304,7 @@ art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wyk
 
 **Art. 13.** Podmiot zobowiązany niezwłocznie publikuje w systemie teleinformatycznym, w którym udostępnia informacje sektora publicznego w celu ponownego wykorzystywania, informacje o zaprzestaniu udostępniania lub aktualizowania takich informacji oraz informacje dotyczące dostępności informacji sektora publicznego udostępnianych za pośrednictwem API, w tym w szczególności danych dynamicznych.
 
-#### Rozdział 3 Warunki ponownego wykorzystywania
+#### Rozdział 3
 
 **Art. 14.**
 
@@ -296,7 +330,7 @@ art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wyk
 
 **Art. 16.** Określone przez podmiot zobowiązany warunki ponownego wykorzystywania są obiektywne, proporcjonalne, niedyskryminacyjne oraz nie ograniczają w sposób nieuzasadniony możliwości ponownego wykorzystywania informacji sektora publicznego.
 
-#### Rozdział 4 Zasady ustalania opłat za ponowne wykorzystywanie
+#### Rozdział 4
 
 **Art. 17.** Informacje sektora publicznego udostępnia się lub przekazuje w celu ponownego wykorzystywania bezpłatnie, z wyjątkiem przypadków określonych w ustawie.
 
@@ -320,7 +354,7 @@ art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wyk
 
 **Art. 21.** Na żądanie wnioskodawcy podmiot zobowiązany wskazuje sposób obliczenia opłaty za ponowne wykorzystywanie w odniesieniu do złożonego przez tego wnioskodawcę wniosku o ponowne wykorzystywanie.
 
-#### Rozdział 5 Dane badawcze, dane dynamiczne i dane o wysokiej wartości
+#### Rozdział 5
 
 **Art. 22.** Dane badawcze, będące w posiadaniu podmiotów, o których mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, podlegają bezpłatnie ponownemu wykorzystywaniu, jeżeli zostały wytworzone lub zgromadzone w ramach działalności naukowej finansowanej ze środków publicznych oraz są już publicznie udostępniane w systemie teleinformatycznym podmiotu zobowiązanego, w szczególności w repozytorium instytucjonalnym lub tematycznym. Podmiot zobowiązany, udostępniając te dane, wraz z ich udostępnieniem informuje o braku warunków ponownego wykorzystywania albo określa te warunki.
 
@@ -360,7 +394,7 @@ art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wyk
 
 **Art. 27.** Rada Ministrów może określić, w drodze rozporządzenia, odrębnie dla poszczególnych podmiotów zobowiązanych, listę będących w ich posiadaniu danych o wysokiej wartości, warunki ponownego wykorzystywania tych danych, a także sposób udostępniania oraz formaty tych danych i metadanych, mając na względzie akty wykonawcze Komisji Europejskiej wydane na podstawie art. 14 ust. 1 dyrektywy, o której mowa w art. 26, oraz posiadaną przez podmioty zobowiązane infrastrukturę teleinformatyczną umożliwiającą udostępnianie w celu ponownego wykorzystywania, w sposób, o którym mowa w art. 25, danych o wysokiej wartości oraz metadanych, a także możliwości techniczne udostępniania tych danych i metadanych w portalu danych.
 
-#### Rozdział 6 Program otwierania danych
+#### Rozdział 6
 
 **Art. 28.**
 
@@ -392,7 +426,7 @@ art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wyk
 
 - **1)** zapewnienie należytej realizacji programu w zakresie swojego działania, w tym w organach i jednostkach organizacyjnych podległych i nadzorowanych;
 - **2)** współpraca z koordynatorem programu w zakresie realizacji programu;
-- **3)** przedstawianie koordynatorowi programu harmonogramu: udostępniania nowych informacji sektora publicznego w portalu danych lub poprawy jakości informacji sektora publicznego udostępnianych w portalu danych w każdym półroczu, w zakresie swojego działania oraz w zakresie organów i jednostek organizacyjnych podległych i nadzorowanych, w celu weryfikacji spełniania warunków, o których mowa w art. 32 ust. 1 i 4;
+- **3)** przedstawianie koordynatorowi programu harmonogramu: udostępniania nowych informacji sektora publicznego w portalu danych lub poprawy jakości informacji sektora publicznego udostępnianych w portalu danych – w każdym półroczu, w zakresie swojego działania oraz w zakresie organów i jednostek organizacyjnych podległych i nadzorowanych, w celu weryfikacji spełniania warunków, o których mowa w art. 32 ust. 1 i 4;
     - **a)**
     - **b)**
 
@@ -411,7 +445,7 @@ art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wyk
 - **9)** monitorowanie postępów w realizacji programu;
 - **10)** współpraca z podmiotami zobowiązanymi, organizacjami pozarządowym oraz innymi podmiotami uczestniczącymi w działaniach w zakresie polityki otwartych danych.
 
-#### Rozdział 7 Portal danych
+#### Rozdział 7
 
 **Art. 32.**
 
@@ -443,7 +477,7 @@ art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wyk
 
 - **1)** zakres informacji sektora publicznego przeznaczony do udostępniania w portalu danych wraz z wykazem podmiotów zobowiązanych do ich udostępnienia,
 - **2)** harmonogram udostępniania oraz aktualizowania w portalu danych informacji sektora publicznego oraz metadanych, o których mowa w art. 32 ust. 3,
-- **3)** sposób udostępniania informacji sektora publicznego mając na względzie szczególne znaczenie określonych informacji sektora publicznego dla rozwoju innowacyjności lub społeczeństwa informacyjnego, posiadaną przez podmioty zobowiązane infrastrukturę teleinformatyczną umożliwiającą gromadzenie w niej informacji sektora publicznego oraz ich udostępnianie, a także możliwości techniczne przechowywania tych informacji w portalu danych.
+- **3)** sposób udostępniania informacji sektora publicznego – mając na względzie szczególne znaczenie określonych informacji sektora publicznego dla rozwoju innowacyjności lub społeczeństwa informacyjnego, posiadaną przez podmioty zobowiązane infrastrukturę teleinformatyczną umożliwiającą gromadzenie w niej informacji sektora publicznego oraz ich udostępnianie, a także możliwości techniczne przechowywania tych informacji w portalu danych.
 
 2. Do informacji sektora publicznego oraz metadanych określonych w przepisach wydanych na podstawie ust. 1 stosuje się przepisy art. 32 ust. 4–6 oraz przepisy wydane na podstawie art. 34 ust. 7.
 
@@ -459,7 +493,7 @@ art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wyk
 
 3. Minister właściwy do spraw informatyzacji może zlecić wyspecjalizowanym podmiotom czynności związane z prowadzeniem portalu danych, pod warunkiem zapewnienia:
 
-- **1)** przez te podmioty: rozliczalności i niezawodności jego prowadzenia, integralności, rozliczalności, dostępności, autentyczności i niezaprzeczalności zbiorów danych w nim udostępnianych, warunków organizacyjnych i technicznych zapewniających ochronę przetwarzanych danych osobowych, w szczególności zabezpieczenia danych przed nieuprawnionym dostępem, nielegalnym ujawnieniem lub pozyskaniem, a także przed ich modyfikacją, uszkodzeniem, zniszczeniem lub utratą, w przypadku zawarcia umowy, o której mowa w art. 28 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.);
+- **1)** przez te podmioty: rozliczalności i niezawodności jego prowadzenia, integralności, rozliczalności, dostępności, autentyczności i niezaprzeczalności zbiorów danych w nim udostępnianych, warunków organizacyjnych i technicznych zapewniających ochronę przetwarzanych danych osobowych, w szczególności zabezpieczenia danych przed nieuprawnionym dostępem, nielegalnym ujawnieniem lub pozyskaniem, a także przed ich modyfikacją, uszkodzeniem, zniszczeniem lub utratą, w przypadku zawarcia umowy, o której mowa w art. 28 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz w Dz. Urz. UE L 74 z 04.03.2021, str. 35.);
     - **a)**
     - **b)**
     - **c)**
@@ -477,7 +511,7 @@ art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wyk
 - **1)** sposób weryfikacji, o której mowa w ust. 4,
 - **2)** sposób udostępniania informacji sektora publicznego lub metadanych, o których mowa w art. 32 ust. 3, mając na względzie posiadaną przez podmioty zobowiązane infrastrukturę teleinformatyczną umożliwiającą gromadzenie w niej informacji sektora publicznego oraz ich udostępnianie, a także możliwości techniczne przechowywania tych informacji w portalu danych,
 - **3)** sposób przetwarzania informacji sektora publicznego i metadanych, o których mowa w art. 32 ust. 3, udostępnianych w portalu danych,
-- **4)** standardy techniczne prowadzenia portalu danych, dane niezbędne do założenia konta użytkownika portalu danych, zasady tworzenia profilu dostawcy danych oraz zestaw elementów metadanych, o których mowa w art. 32 ust. 3 mając na względzie zasadę neutralności technologicznej, konieczność zapewnienia przeszukiwalności i dostępności informacji jak najszerszej grupie użytkowników, możliwość zastosowania automatyzacji procesów oraz potrzebę zapewnienia ich użyteczności i efektywności.
+- **4)** standardy techniczne prowadzenia portalu danych, dane niezbędne do założenia konta użytkownika portalu danych, zasady tworzenia profilu dostawcy danych oraz zestaw elementów metadanych, o których mowa w art. 32 ust. 3 – mając na względzie zasadę neutralności technologicznej, konieczność zapewnienia przeszukiwalności i dostępności informacji jak najszerszej grupie użytkowników, możliwość zastosowania automatyzacji procesów oraz potrzebę zapewnienia ich użyteczności i efektywności.
 
 **Art. 35.**
 
@@ -498,7 +532,7 @@ art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wyk
 
 3. Podmiot udostępniający dane prywatne w portalu danych może określić warunki wykorzystywania, stosując standardowe otwarte licencje.
 
-#### Rozdział 8 Pełnomocnicy do spraw otwartości danych
+#### Rozdział 8
 
 **Art. 37.**
 
@@ -525,7 +559,7 @@ art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wyk
 - **5)** współpraca z komórkami organizacyjnymi jednostki organizacyjnej, w której został powołany, oraz z organami i jednostkami organizacyjnymi podległymi właściwemu ministrowi albo Prezesowi Rady Ministrów i przez nich nadzorowanymi, w zakresie poprawy jakości informacji sektora publicznego udostępnianych w portalu danych;
 - **6)** podejmowanie działań mających na celu podnoszenie świadomości pracowników jednostki organizacyjnej, w której został powołany, lub pracowników organów i jednostek organizacyjnych podległych właściwemu ministrowi albo Prezesowi Rady Ministrów i przez nich nadzorowanych, w zakresie otwartości danych.
 
-#### Rozdział 9 Ponowne wykorzystywanie informacji sektora publicznego przekazywanych na wniosek
+#### Rozdział 9
 
 **Art. 39.**
 
@@ -602,9 +636,9 @@ art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wyk
 
 **Art. 44.** Przepisów niniejszego rozdziału nie stosuje się do informacji sektora publicznego będących w posiadaniu podmiotów, o których mowa w art. 3 pkt 5, oraz danych badawczych, o których mowa w art. 22.
 
-#### Rozdział 10 Zmiany w przepisach
+#### Rozdział 10
 
-#### Rozdział 11 Przepisy przejściowe, dostosowujące i przepisy końcowe
+#### Rozdział 11
 
 **Art. 58.**
 
@@ -664,5 +698,5 @@ art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wyk
 
 **Art. 62.** Traci moc ustawa z dnia 25 lutego 2016 r. o ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2019 r. poz. 1446).
 
-**Art. 63.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 24, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 63.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszeniaUstawa została ogłoszona w dniu 7 września 2021 r., z wyjątkiem art. 24, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1024 z dnia 20 czerwca 2019 r. w sprawie otwartych danych i ponownego wykorzystywania informacji sektora publicznego (Dz. Urz. UE L 172 z 26.06.2019, str. 56). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414 oraz z 2023 r. poz. 412, 497, 658, 803 i 1059. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 240 z 16.09.2015, str. 65 oraz Dz. Urz. UE L 354 z 23.12.2016, str. 22. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 212 z 22.08.2018, str. 1, Dz. Urz. UE L 11 z 14.01.2019, str. 1, Dz. Urz. UE L 165 z 27.05.2020, str. 1 oraz Dz. Urz. UE L 426 z 17.12.2020, str. 1 i 4. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 112 z 24.04.2012, str. 21 oraz Dz. Urz. UE L 295 z 11.10.2014, str. 85. 6) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 307 z 25.11.2015, str. 7, Dz. Urz. UE L 337 z 19.12.2017, str. 17 oraz Dz. Urz. UE L 279 z 31.10.2019, str. 27. 7) W brzmieniu ustalonym przez art. 392 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r. 8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz w Dz. Urz. UE L 74 z 04.03.2021, str. 35. 9) Zamieszczone w obwieszczeniu. 10) Ustawa została ogłoszona w dniu 7 września 2021 r.
 

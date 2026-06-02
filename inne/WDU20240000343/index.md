@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 8 marca 2024 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty podstawowego wsparcia dochodów, płatności redystrybucyjnej, płatności dla młodych rolników, płatności związanych z produkcją do powierzchni upraw i płatności związanych z produkcją do zwierząt i przejściowego wsparcia krajowego w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 8 marca 2024 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty podstawowego wsparcia dochodów, płatności redystrybucyjnej, płatności dla młodych rolników, płatności związanych z produkcją do powierzchni upraw i płatności związanych z produkcją do zwierząt i przejściowego wsparcia krajowego w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-08 |
 | Data wydania | 2024-03-11 |
-| Wejście w życie | 2024-03-15 |
 | Ostatnia zmiana | 2026-03-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000343) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/343/text.pdf) |
 
@@ -43,16 +42,13 @@ w § 20 po wyrazach „Susz paszowy” dodaje się wyrazy „, o którym mowa w 
 4)
 w § 26 w ust. 1 w pkt 1:
 a)
-lit. a otrzymuje brzmienie:
-„
+lit. a otrzymuje brzmienie: „
 a)
-oświadczenie o pozostawaniu w związku małżeńskim i wspólnym prowadzeniu gospodarstwa z małżonkiem, któremu nie został nadany numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (numer PESEL), zawierające datę urodzenia tego małżonka i datę rozpoczęcia przez niego działalności rolniczej, kod kraju, numer i nazwę dokumentu stwierdzającego tożsamość tego małżonka oraz nazwę organu, który wydał ten dokument,
-” ,
+oświadczenie o pozostawaniu w związku małżeńskim i wspólnym prowadzeniu gospodarstwa z małżonkiem, któremu nie został nadany numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (numer PESEL), zawierające datę urodzenia tego małżonka i datę rozpoczęcia przez niego działalności rolniczej, kod kraju, numer i nazwę dokumentu stwierdzającego tożsamość tego małżonka oraz nazwę organu, który wydał ten dokument, ” ,
 b)
 w lit. b po wyrazach „dla młodych rolników” dodaje się wyrazy „, jeżeli wnioskodawca lub jego małżonek nie podlegali ubezpieczeniu społecznemu rolników w pełnym zakresie jako rolnik lub domownik”;
 5)
-w § 27 w pkt 2 lit. b otrzymuje brzmienie:
-„
+w § 27 w pkt 2 lit. b otrzymuje brzmienie: „
 b)
 oświadczenie:
 – podmiotu przeprowadzającego badanie lustracyjne, o którym mowa w art. 91 § 1 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze, o poddaniu się wnioskodawcy temu badaniu lub inny dokument potwierdzający poddanie się przez wnioskodawcę temu badaniu albo
@@ -61,6 +57,5 @@ oświadczenie:
 6)
 w § 38 po wyrazach „§ 27 pkt 2 lit. b” dodaje się wyrazy „tiret pierwsze”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 15 marca 2024 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
+Rozporządzenie wchodzi w życie z dniem 15 marca 2024 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 

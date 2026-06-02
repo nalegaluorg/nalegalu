@@ -26,37 +26,60 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001689) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1689/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób Rozdział 1 – Przepisy ogólne Rozdział 2 – Krajowy Ośrodek Zapobiegania Zachowaniom Dyssocjalnym Rozdział 3 – Postępowanie przed sądem Rozdział 4 – Nadzór prewencyjny Rozdział 5 – Pobyt w Ośrodku Rozdział 6 – Stosowanie przymusu bezpośredniego Rozdział 7 – Wypisanie z Ośrodka Rozdział 8 – Zmiany w przepisach obowiązujących Rozdział 9 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2021 r. poz. 1638), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 lipca 2022 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośników nr 1 i nr 3 oraz art. 148 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośników nr 1 i nr 3 oraz art. 148 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974), które stanowią: „ 1) Niniejsza ustawa służy stosowaniu:
 1)
 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, Dz. Urz. UE L 117 z 03.05.2019, str. 9, Dz. Urz. UE L 334 z 27.12.2019, str. 165, Dz. Urz. UE L 130 z 24.04.2020, str. 18 i Dz. Urz. UE L 241 z 08.07.2021, str. 7);
 2)
 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, Dz. Urz. UE L 117 z 03.05.2019, str. 11, Dz. Urz. UE L 334 z 27.12.2019, str. 167 i Dz. Urz. UE L 233 z 01.07.2021, str. 9);
 3)
-rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1020 z dnia 20 czerwca 2019 r. w sprawie nadzoru rynku i zgodności produktów oraz zmieniającego dyrektywę 2004/42/WE oraz rozporządzenia (WE) nr 765/2008 i (UE) nr 305/2011 (Dz. Urz. UE L 169 z 25.06.2019, str. 1).
-”
-„ 3) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 5 listopada 2021 r., pod numerem 2021/698/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). ”
-„
+rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1020 z dnia 20 czerwca 2019 r. w sprawie nadzoru rynku i zgodności produktów oraz zmieniającego dyrektywę 2004/42/WE oraz rozporządzenia (WE) nr 765/2008 i (UE) nr 305/2011 (Dz. Urz. UE L 169 z 25.06.2019, str. 1). ” „ 3) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 5 listopada 2021 r., pod numerem 2021/698/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). ” „
+Przepisy ogólne
+Krajowy Ośrodek Zapobiegania Zachowaniom Dyssocjalnym
+Postępowanie przed sądem
+Nadzór prewencyjny
+Pobyt w Ośrodku
+Stosowanie przymusu bezpośredniego
+Wypisanie z Ośrodka
+Zmiany w przepisach obowiązujących
 Art. 49–53.
 (pominięte)
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Krajowy Ośrodek Zapobiegania Zachowaniom Dyssocjalnym
+
+#### Rozdział 3 – Postępowanie przed sądem
+
+#### Rozdział 4 – Nadzór prewencyjny
+
+#### Rozdział 5 – Pobyt w Ośrodku
+
+#### Rozdział 6 – Stosowanie przymusu bezpośredniego
+
+#### Rozdział 7 – Wypisanie z Ośrodka
+
+#### Rozdział 8 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 9 – Przepisy przejściowe i końcowe
 
 **Art. 148.** Ustawa wchodzi w życie z dniem 26 maja 2022 r., z wyjątkiem:
 
 - **1)** art. 54–61, które wchodzą w życie z dniem 1 stycznia 2023 r.;
 - **2)** art. 21–25, które wchodzą w życie z dniem 1 lipca 2023 r. ” . Załącznik – Tekst jednolity ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa reguluje postępowanie wobec osób, które spełniają łącznie następujące przesłanki:
 
 - **1)** odbywają prawomocnie orzeczoną karę pozbawienia wolności lub karę 25 lat pozbawienia wolności, wykonywaną w systemie terapeutycznym,
 - **2)** w trakcie postępowania wykonawczego występowały u nich zaburzenia psychiczne w postaci upośledzenia umysłowego, zaburzenia osobowości lub zaburzenia preferencji seksualnych,
-- **3)** stwierdzone u nich zaburzenia psychiczne mają taki charakter lub takie nasilenie, że zachodzi co najmniej wysokie prawdopodobieństwo popełnienia czynu zabronionego z użyciem przemocy lub groźbą jej użycia przeciwko życiu, zdrowiu lub wolności seksualnej, zagrożonego karą pozbawienia wolności, której górna granica wynosi co najmniej 10 lat zwanych dalej „osobami stwarzającymi zagrożenie”.
+- **3)** stwierdzone u nich zaburzenia psychiczne mają taki charakter lub takie nasilenie, że zachodzi co najmniej wysokie prawdopodobieństwo popełnienia czynu zabronionego z użyciem przemocy lub groźbą jej użycia przeciwko życiu, zdrowiu lub wolności seksualnej, zagrożonego karą pozbawienia wolności, której górna granica wynosi co najmniej 10 lat – zwanych dalej „osobami stwarzającymi zagrożenie”.
 
 **Art. 2.**
 
@@ -64,13 +87,13 @@ Art. 49–53.
 
 2. Czynności określone w rozdziale 3 wykonuje sąd właściwy dla siedziby zakładu karnego, czynności określone w rozdziale 4 – sąd właściwy dla miejsca stałego pobytu osoby stwarzającej zagrożenie, a czynności określone w rozdziałach 5 i 7 – sąd właściwy dla siedziby Krajowego Ośrodka Zapobiegania Zachowaniom Dyssocjalnym.
 
-3. W postępowaniu sądowym stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.) o postępowaniu nieprocesowym ze zmianami wynikającymi z niniejszej ustawy, z tym że do środków odwoławczych wnoszonych przez osobę, której dotyczy postępowanie uregulowane w niniejszej ustawie, nie ma zastosowania art. 368 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
+3. W postępowaniu sądowym stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301 i 1371.) o postępowaniu nieprocesowym ze zmianami wynikającymi z niniejszej ustawy, z tym że do środków odwoławczych wnoszonych przez osobę, której dotyczy postępowanie uregulowane w niniejszej ustawie, nie ma zastosowania art. 368 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
 
 4. Postępowanie określone w rozdziałach 3, 4 i 7 toczy się z udziałem prokuratora.
 
 **Art. 3.** Wobec osoby stwarzającej zagrożenie stosuje się nadzór prewencyjny albo umieszczenie w Krajowym Ośrodku Zapobiegania Zachowaniom Dyssocjalnym. Ustawa ma zastosowanie do osób skazanych za czyn popełniony przed dniem wejścia w życie ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396).
 
-#### Rozdział 2 Krajowy Ośrodek Zapobiegania Zachowaniom Dyssocjalnym
+#### Rozdział 2
 
 **Art. 4.**
 
@@ -122,9 +145,9 @@ Art. 49–53.
 - **2)** wymagania ogólnoprzestrzenne, sanitarne i instalacyjne, jakie muszą spełniać pomieszczenia i urządzenia Ośrodka stosownie do rodzaju wykonywanej działalności leczniczej oraz zakresu udzielanych świadczeń zdrowotnych,
 - **3)** warunki zabezpieczenia Ośrodka,
 - **4)** rodzaj i liczebność personelu mającego styczność z osobami stwarzającymi zagrożenie umieszczonymi w Ośrodku,
-- **5)** rodzaje urządzeń i środków technicznych służących do przekazywania, odtwarzania i utrwalania obrazu lub dźwięku z monitoringu oraz sposób przechowywania, odtwarzania i niszczenia zapisów oraz udostępniania ich uprawnionym podmiotom mając na względzie potrzebę zapewnienia odpowiedniego postępowania terapeutycznego, bezpieczeństwa zdrowotnego osób stwarzających zagrożenie umieszczonych w Ośrodku, zapobieżenia samowolnemu oddaleniu się tych osób poza Ośrodek oraz przeciwdziałania zachowaniom zagrażającym życiu i zdrowiu ludzkiemu lub powodującym niszczenie mienia, a także konieczność właściwego zabezpieczenia monitorowanego obrazu lub dźwięku przed utratą, zniekształceniem lub nieuprawnionym ujawnieniem.
+- **5)** rodzaje urządzeń i środków technicznych służących do przekazywania, odtwarzania i utrwalania obrazu lub dźwięku z monitoringu oraz sposób przechowywania, odtwarzania i niszczenia zapisów oraz udostępniania ich uprawnionym podmiotom – mając na względzie potrzebę zapewnienia odpowiedniego postępowania terapeutycznego, bezpieczeństwa zdrowotnego osób stwarzających zagrożenie umieszczonych w Ośrodku, zapobieżenia samowolnemu oddaleniu się tych osób poza Ośrodek oraz przeciwdziałania zachowaniom zagrażającym życiu i zdrowiu ludzkiemu lub powodującym niszczenie mienia, a także konieczność właściwego zabezpieczenia monitorowanego obrazu lub dźwięku przed utratą, zniekształceniem lub nieuprawnionym ujawnieniem.
 
-#### Rozdział 3 Postępowanie przed sądem
+#### Rozdział 3
 
 **Art. 9.** Jeżeli wydana w trakcie postępowania wykonawczego opinia psychiatryczna i psychologiczna o stanie zdrowia osoby, o której mowa w art. 1 pkt 1, wskazuje, że osoba ta spełnia przesłanki określone w art. 1 pkt 2 i 3, dyrektor zakładu karnego występuje do właściwego sądu z wnioskiem o uznanie osoby, której dotyczy wniosek, za osobę stwarzającą zagrożenie. Do wniosku dołącza się opinię, a także informację o wynikach dotychczas stosowanych programów terapeutycznych i postępach w resocjalizacji.
 
@@ -208,7 +231,7 @@ Art. 49–53.
 
 2. Sąd orzeka o umieszczeniu w Ośrodku osoby stwarzającej zagrożenie, wobec której zastosowano nadzór prewencyjny, jeżeli zachodzą okoliczności określone w art. 14 ust. 3.
 
-#### Rozdział 4 Nadzór prewencyjny
+#### Rozdział 4
 
 **Art. 22.**
 
@@ -249,13 +272,13 @@ Art. 49–53.
 
 4. Przed uchyleniem nadzoru prewencyjnego sąd wysłuchuje biegłych, o których mowa w art. 11.
 
-#### Rozdział 5 Pobyt w Ośrodku
+#### Rozdział 5
 
 **Art. 25.** Osoba stwarzająca zagrożenie umieszczona w Ośrodku zostaje objęta odpowiednim postępowaniem terapeutycznym, którego celem jest poprawa stanu jej zdrowia i zachowania w stopniu umożliwiającym funkcjonowanie w społeczeństwie w sposób niestwarzający zagrożenia życia, zdrowia lub wolności seksualnej innych osób. Kierownik Ośrodka sporządza indywidualny plan terapii dla każdej osoby stwarzającej zagrożenie umieszczonej w Ośrodku.
 
 **Art. 26.**
 
-1. Osobie stwarzającej zagrożenie umieszczonej w Ośrodku nie przysługuje prawo wyboru lekarza i pielęgniarki podstawowej opieki zdrowotnej, świadczeniodawcy udzielającego ambulatoryjnych świadczeń opieki zdrowotnej, lekarza dentysty oraz szpitala, określone w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.).
+1. Osobie stwarzającej zagrożenie umieszczonej w Ośrodku nie przysługuje prawo wyboru lekarza i pielęgniarki podstawowej opieki zdrowotnej, świadczeniodawcy udzielającego ambulatoryjnych świadczeń opieki zdrowotnej, lekarza dentysty oraz szpitala, określone w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265 i 1352.).
 
 2. Świadczenia zdrowotne, których nie można udzielić w Ośrodku, są udzielane osobie stwarzającej zagrożenie umieszczonej w Ośrodku w pierwszej kolejności przez podmioty lecznicze dla osób pozbawionych wolności.
 
@@ -270,9 +293,7 @@ Art. 49–53.
 
 **Art. 27.**
 
-1. Od osoby stwarzającej zagrożenie umieszczonej w Ośrodku nie pobiera się opłat za świadczenia opieki zdrowotnej udzielane przez świadczeniodawcę, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, o której mowa w art. 132 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
-
-2. Osobie stwarzającej zagrożenie umieszczonej w Ośrodku przysługują ponadto, bez pobierania od niej opłat, wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), oraz wyroby medyczne do diagnostyki in vitro i wyposażenie wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.), oraz produkty lecznicze.
+1. Od osoby stwarzającej zagrożenie umieszczonej w Ośrodku nie pobiera się opłat za świadczenia opieki zdrowotnej udzielane przez świadczeniodawcę, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, o której mowa w art. 132 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. 2Ze zmianą wprowadzoną przez art. 130 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974), która weszła w życie z dniem 26 maja 2022 r.. Osobie stwarzającej zagrożenie umieszczonej w Ośrodku przysługują ponadto, bez pobierania od niej opłat, wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 9, Dz. Urz. UE L 334 z 27.12.2019, str. 165, Dz. Urz. UE L 130 z 24.04.2020, str. 18 i Dz. Urz. UE L 241 z 08.07.2021, str. 7., oraz wyroby medyczne do diagnostyki in vitro i wyposażenie wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 11, Dz. Urz. UE L 334 z 27.12.2019, str. 167 i Dz. Urz. UE L 233 z 01.07.2021, str. 9., oraz produkty lecznicze.
 
 **Art. 28.**
 
@@ -324,7 +345,7 @@ Art. 49–53.
 
 **Art. 33.** Jeżeli osoba stwarzająca zagrożenie umieszczona w Ośrodku samowolnie opuści Ośrodek, kierownik Ośrodka niezwłocznie powiadamia o tym Policję, która podejmuje czynności w celu poszukiwania, zatrzymania i doprowadzenia tej osoby do Ośrodka. Przepis art. 20 stosuje się.
 
-#### Rozdział 6 Stosowanie przymusu bezpośredniego
+#### Rozdział 6
 
 **Art. 34.**
 
@@ -476,15 +497,9 @@ Art. 49–53.
 
 2. W terminie 3 dni od dnia zastosowania przymusu bezpośredniego kierownik Ośrodka ocenia jego zasadność, odnotowując tę ocenę w dokumentacji medycznej.
 
-#### Rozdział 7 Wypisanie z Ośrodka
+#### Rozdział 7
 
-**Art. 46.**
-
-1. Nie rzadziej niż raz na 6 miesięcy sąd, na podstawie opinii lekarza psychiatry oraz wyników postępowania terapeutycznego, ustala, czy jest niezbędny dalszy pobyt w Ośrodku osoby stwarzającej zagrożenie.
-
-2. Kierownik Ośrodka co 6 miesięcy przesyła do sądu opinię lekarza psychiatry o stanie zdrowia osoby stwarzającej zagrożenie umieszczonej w Ośrodku i o wynikach postępowania terapeutycznego; opinię taką jest obowiązany przesłać bezzwłocznie, jeżeli w związku ze zmianą stanu zdrowia tej osoby uzna, że jej dalszy pobyt w Ośrodku nie jest konieczny. Za sporządzenie opinii nie przysługuje wynagrodzenie.
-
-3. Z ustalenia, o którym mowa w ust. 1, sporządza się notatkę do akt sprawy.
+**Art. 46.** 1Utracił moc z dniem 29 grudnia 2016 r. w zakresie, w jakim przewiduje sporządzanie opinii w sprawie niezbędności dalszego pobytu w Krajowym Ośrodku Zapobiegania Zachowaniom Dyssocjalnym tylko przez jednego lekarza psychiatrę, na podstawie wyroku Trybunału Konstytucyjnego z dnia 23 listopada 2016 r. sygn. akt K 6/14 (Dz. U. poz. 2205).. Nie rzadziej niż raz na 6 miesięcy sąd, na podstawie opinii lekarza psychiatry oraz wyników postępowania terapeutycznego, ustala, czy jest niezbędny dalszy pobyt w Ośrodku osoby stwarzającej zagrożenie. 2. Kierownik Ośrodka co 6 miesięcy przesyła do sądu opinię lekarza psychiatry o stanie zdrowia osoby stwarzającej zagrożenie umieszczonej w Ośrodku i o wynikach postępowania terapeutycznego; opinię taką jest obowiązany przesłać bezzwłocznie, jeżeli w związku ze zmianą stanu zdrowia tej osoby uzna, że jej dalszy pobyt w Ośrodku nie jest konieczny. Za sporządzenie opinii nie przysługuje wynagrodzenie. 3. Z ustalenia, o którym mowa w ust. 1, sporządza się notatkę do akt sprawy.
 
 **Art. 47.**
 
@@ -498,9 +513,9 @@ Art. 49–53.
 
 **Art. 48.** Postanowienie o wypisaniu z Ośrodka jest wykonywane z dniem jego uprawomocnienia.
 
-#### Rozdział 8 Zmiany w przepisach obowiązujących
+#### Rozdział 8
 
-#### Rozdział 9 Przepisy przejściowe i końcowe
+#### Rozdział 9
 
 **Art. 54.** Do czasu spełnienia przez Ośrodek warunków określonych w rozporządzeniu wydanym na podstawie art. 8 oraz w przepisach odrębnych, jednakże przez okres nie dłuższy niż 18 miesięcy od dnia wejścia w życie ustawy, można umieszczać w Ośrodku osoby stwarzające zagrożenie, jeżeli zapewniono właściwe zabezpieczenie Ośrodka i możliwość udzielania świadczeń terapeutycznych.
 
@@ -529,7 +544,7 @@ Art. 49–53.
 - **7)** w 2019 r. – 7 000 000 zł,
 - **8)** w 2020 r. – 7 000 000 zł,
 - **9)** w 2021 r. – 7 000 000 zł,
-- **10)** w 2022 r. – 7 000 000 zł pod warunkiem, że liczba osób skierowanych do Krajowego Ośrodka Zapobiegania Zachowaniom Dyssocjalnym nie przekroczy 10.
+- **10)** w 2022 r. – 7 000 000 zł – pod warunkiem, że liczba osób skierowanych do Krajowego Ośrodka Zapobiegania Zachowaniom Dyssocjalnym nie przekroczy 10.
 
 2. Jeżeli liczba osób, o której mowa w ust. 1, zostanie przekroczona, wówczas, począwszy od kolejnego roku (rok X), maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wynosi:
 
@@ -551,9 +566,9 @@ Art. 49–53.
 
 - **1)** po pierwszym kwartale – co najmniej o 15%,
 - **2)** po dwóch kwartałach – co najmniej o 10%,
-- **3)** po trzech kwartałach – co najmniej o 5% minister właściwy do spraw zdrowia stosuje mechanizm korygujący, polegający na ograniczeniu tych wydatków.
+- **3)** po trzech kwartałach – co najmniej o 5% – minister właściwy do spraw zdrowia stosuje mechanizm korygujący, polegający na ograniczeniu tych wydatków.
 
-**Art. 57.** Akty wykonawcze wydane na podstawie art. 13a ustawy, o której mowa w art. 50 oraz art. 88 ust. 9 ustawy, o której mowa w art. 52, zachowują moc do dnia wejścia w życie odpowiednio aktów wykonawczych wydanych na podstawie art. 13a ustawy, o której mowa w art. 50, w brzmieniu nadanym niniejszą ustawą oraz art. 88 ust. 9 ustawy, o której mowa w art. 52, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+**Art. 57.** Akty wykonawcze wydane na podstawie art. 13a ustawy, o której mowa w art. 50Artykuł 50 zawiera zmiany do ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. oraz art. 88 ust. 9 ustawy, o której mowa w art. 52Artykuł 52 zawiera zmiany do ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej., zachowują moc do dnia wejścia w życie odpowiednio aktów wykonawczych wydanych na podstawie art. 13a ustawy, o której mowa w art. 50, w brzmieniu nadanym niniejszą ustawą oraz art. 88 ust. 9 ustawy, o której mowa w art. 52, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 58.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 58.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 7 stycznia 2014 r.. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301 i 1371. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265 i 1352. 3) Ze zmianą wprowadzoną przez art. 130 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974), która weszła w życie z dniem 26 maja 2022 r. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 9, Dz. Urz. UE L 334 z 27.12.2019, str. 165, Dz. Urz. UE L 130 z 24.04.2020, str. 18 i Dz. Urz. UE L 241 z 08.07.2021, str. 7. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 11, Dz. Urz. UE L 334 z 27.12.2019, str. 167 i Dz. Urz. UE L 233 z 01.07.2021, str. 9. 6) Utracił moc z dniem 29 grudnia 2016 r. w zakresie, w jakim przewiduje sporządzanie opinii w sprawie niezbędności dalszego pobytu w Krajowym Ośrodku Zapobiegania Zachowaniom Dyssocjalnym tylko przez jednego lekarza psychiatrę, na podstawie wyroku Trybunału Konstytucyjnego z dnia 23 listopada 2016 r. sygn. akt K 6/14 (Dz. U. poz. 2205). 7) Artykuł 50 zawiera zmiany do ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. 8) Artykuł 52 zawiera zmiany do ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej. 9) Ustawa została ogłoszona w dniu 7 stycznia 2014 r.
 

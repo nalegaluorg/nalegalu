@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-08-29 |
 | Data wydania | 2014-09-26 |
-| Wejście w życie | 2014-10-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001296) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1296/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091 i 1161.) wprowadza się następujące zmiany:
 
 - **1)** art. 9 otrzymuje brzmienie: „
 
@@ -111,5 +110,5 @@ source: "eli-html"
 
 **Art. 3.** Do orzeczeń sądów drugiej instancji wydanych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy art. 387 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1, pkt 2 lit. e i pkt 14, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1, pkt 2 lit. e i pkt 14, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091 i 1161.
 

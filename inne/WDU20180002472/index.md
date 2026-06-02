@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowia i Ministra Spraw Wewnętrznych i Administracjiz dnia 28 grudnia 2018 r. w sprawie badań na zawartość alkoholu w organizmie
+# Rozporządzenie Ministra Zdrowia i Ministra Spraw Wewnętrznych i Administracjiz dnia 28 grudnia 2018 r. w sprawie badań na zawartość alkoholu w organizmie Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-28 |
 | Data wydania | 2018-12-29 |
-| Wejście w życie | 2018-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002472) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2472/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 47 ust. 2 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2018 r. poz. 2137 i 2244) zarządza się, co następuje:
+Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). Na podstawie art. 47 ust. 2 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2018 r. poz. 2137 i 2244) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa warunki i sposób przeprowadzania badań w celu ustalenia zawartości alkoholu w organizmie, zwanych dalej „badaniami”, sposób ich dokumentowania oraz weryfikacji.
 § 2.
@@ -41,8 +40,7 @@ Badanie wydychanego powietrza przeprowadza się w sposób nieinwazyjny przy uży
 1)
 spektrometrii w podczerwieni lub
 2)
-utleniania elektrochemicznego
-zwanego dalej „analizatorem wydechu”.
+utleniania elektrochemicznego – zwanego dalej „analizatorem wydechu”.
 2.
 Badania analizatorem wydechu nie przeprowadza się przed upływem 15 minut od chwili zakończenia spożywania alkoholu, palenia wyrobów tytoniowych, w tym palenia nowatorskich wyrobów tytoniowych, palenia papierosów elektronicznych lub używania wyrobów tytoniowych bezdymnych przez osobę badaną.
 § 4.
@@ -230,6 +228,5 @@ opis okoliczności i przyczyn odstąpienia od wykonania pobrania krwi;
 4)
 opis stanu klinicznego osoby, wobec której odstąpiono od wykonania pobrania krwi.
 § 12.
-Rozporządzenie wchodzi w życie z dniem 31 grudnia 2018 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 11 grudnia 2015 r. w sprawie badań na zawartość alkoholu w organizmie (Dz. U. poz. 2153), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 10 pkt 3 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o ochronie zdrowia psychicznego oraz niektórych innych ustaw (Dz. U. poz. 2439).
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 11 grudnia 2015 r. w sprawie badań na zawartość alkoholu w organizmie (Dz. U. poz. 2153), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 10 pkt 3 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o ochronie zdrowia psychicznego oraz niektórych innych ustaw (Dz. U. poz. 2439). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 11 grudnia 2015 r. w sprawie badań na zawartość alkoholu w organizmie (Dz. U. poz. 2153), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 10 pkt 3 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o ochronie zdrowia psychicznego oraz niektórych innych ustaw (Dz. U. poz. 2439).
 

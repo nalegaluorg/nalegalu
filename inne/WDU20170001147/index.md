@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 7 czerwca 2017 r. zmieniające rozporządzenie w sprawie warunków i sposobu organizowania nauki religii w publicznych przedszkolach i szkołach
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 7 czerwca 2017 r. zmieniające rozporządzenie w sprawie warunków i sposobu organizowania nauki religii w publicznych przedszkolach i szkołach Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-07 |
 | Data wydania | 2017-06-14 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001147) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1147/text.pdf) |
 
@@ -33,21 +32,17 @@ W rozporządzeniu Ministra Edukacji Narodowej z dnia 14 kwietnia 1992 r. w spraw
 1)
 w § 1:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
 W publicznych przedszkolach i oddziałach przedszkolnych w publicznych szkołach podstawowych, zwanych dalej „przedszkolami”, organizuje się naukę religii na życzenie rodziców. W publicznych szkołach podstawowych i szkołach ponadpodstawowych, zwanych dalej „szkołami”, organizuje się naukę religii i etyki:
 1)
 w szkołach podstawowych – na życzenie rodziców;
 2)
-w szkołach ponadpodstawowych – na życzenie bądź rodziców, bądź samych uczniów; po osiągnięciu pełnoletności o pobieraniu nauki religii i etyki decydują uczniowie.
-” ,
+w szkołach ponadpodstawowych – na życzenie bądź rodziców, bądź samych uczniów; po osiągnięciu pełnoletności o pobieraniu nauki religii i etyki decydują uczniowie. ” ,
 b)
-po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-W przedszkolach zajęcia religii uwzględnia się w ramowym rozkładzie dnia. W szkołach zajęcia religii i etyki uwzględnia się w tygodniowym rozkładzie zajęć.
-” ;
+W przedszkolach zajęcia religii uwzględnia się w ramowym rozkładzie dnia. W szkołach zajęcia religii i etyki uwzględnia się w tygodniowym rozkładzie zajęć. ” ;
 2)
 w § 3 w ust. 1 wyrazy „programy dopuszczone do użytku w szkole zgodnie z przepisami wydanymi na podstawie art. 22a ust. 8” zastępuje się wyrazami „programy nauczania dopuszczone do użytku w danej szkole zgodnie z art. 22a ust. 6”;
 3)
@@ -57,8 +52,7 @@ w § 8 w ust. 1 w zdaniu pierwszym skreśla się wyrazy „(właściwych dla dan
 5)
 w § 9 w ust. 1 w zdaniu pierwszym wyrazy „ze sprawowania” zastępuje się wyrazem „zachowania”;
 6)
-§ 10 otrzymuje brzmienie:
-„
+§ 10 otrzymuje brzmienie: „
 § 10.
 1.
 Uczniowie uczęszczający na naukę religii mają prawo do zwolnienia z zajęć szkolnych w celu odbycia trzydniowych rekolekcji wielkopostnych, jeżeli rekolekcje te stanowią praktykę danego kościoła lub innego związku wyznaniowego. W czasie trwania rekolekcji szkoła nie jest zwolniona z realizowania funkcji opiekuńczej i wychowawczej.
@@ -69,16 +63,13 @@ O terminie rekolekcji dyrektor szkoły powinien być powiadomiony przez organizu
 4.
 Jeżeli na terenie szkoły jest prowadzona nauka religii więcej niż jednego kościoła lub innego związku wyznaniowego, powinny one dążyć do ustalenia wspólnego terminu rekolekcji.
 5.
-Szczegółowe zasady dotyczące organizacji rekolekcji, jak również inny termin rekolekcji, są przedmiotem odrębnych ustaleń między organizującymi rekolekcje a szkołą.
-” .
+Szczegółowe zasady dotyczące organizacji rekolekcji, jak również inny termin rekolekcji, są przedmiotem odrębnych ustaleń między organizującymi rekolekcje a szkołą. ” .
 § 2.
 Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, dotyczące:
 1)
 publicznych szkół podstawowych – stosuje się odpowiednio do dotychczasowych publicznych gimnazjów oraz klas dotychczasowego publicznego gimnazjum prowadzonych w szkołach innego typu,
 2)
-publicznych szkół ponadpodstawowych – stosuje się odpowiednio do dotychczasowych publicznych szkół ponadgimnazjalnych oraz klas dotychczasowych publicznych szkół ponadgimnazjalnych prowadzonych w szkołach ponadpodstawowych
-do czasu zakończenia kształcenia w tych szkołach i klasach.
+publicznych szkół ponadpodstawowych – stosuje się odpowiednio do dotychczasowych publicznych szkół ponadgimnazjalnych oraz klas dotychczasowych publicznych szkół ponadgimnazjalnych prowadzonych w szkołach ponadpodstawowych – do czasu zakończenia kształcenia w tych szkołach i klasach.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 

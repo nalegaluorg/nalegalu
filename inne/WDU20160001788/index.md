@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-28 |
 | Data wydania | 2016-11-02 |
-| Wejście w życie | 2016-11-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001788) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1788/text.pdf) |
 
@@ -33,11 +32,9 @@ W rozporządzeniu Prezesa Rady Ministrów z dnia 19 listopada 2015 r. w sprawie 
 1)
 uchyla się pkt 4;
 2)
-pkt 5 otrzymuje brzmienie:
-„
+pkt 5 otrzymuje brzmienie: „
 5)
-kierowanie działalnością i nadzór nad realizacją zadań Kancelarii Prezesa Rady Ministrów określonych w art. 29 pkt 1a-1d ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów;
-” .
+kierowanie działalnością i nadzór nad realizacją zadań Kancelarii Prezesa Rady Ministrów określonych w art. 29 pkt 1a-1d ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów; ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem ogłoszenia.
 

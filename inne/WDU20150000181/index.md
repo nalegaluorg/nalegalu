@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-01-26 |
 | Data wydania | 2015-02-04 |
-| Wejście w życie | 2015-02-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000181) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/181/text.pdf) |
 
@@ -53,7 +52,7 @@ sprawozdanie z wykonania planu finansowego funduszu – sporządzane przez wła�
 7)
 ustawa o Straży Granicznej – ustawę z dnia 12 października 1990 r. o Straży Granicznej;
 8)
-ustawa o finansach publicznych – ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.).
+ustawa o finansach publicznych – ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379, 911, 1146, 1626 i 1877.).
 § 3.
 1.
 Środki finansowe funduszu centralnego, funduszu oddziału, funduszu ośrodka, funduszu ośrodka szkolenia gromadzone są na wyodrębnionych rachunkach bankowych.
@@ -102,5 +101,5 @@ Komendant Główny Straży Granicznej przekazuje łączne sprawozdanie z wykonan
 § 9.
 Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 października 2008 r. w sprawie szczegółowych zasad gospodarki finansowej Funduszu Wsparcia Straży Granicznej (Dz. U. Nr 203, poz. 1272 oraz z 2010 r. Nr 164, poz. 1114).
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379, 911, 1146, 1626 i 1877.
 

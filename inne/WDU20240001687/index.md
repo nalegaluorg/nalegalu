@@ -26,19 +26,33 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001687) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1687/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomicznym Rozdział 1 – Przepisy ogólne Rozdział 2 – Organy i organizacja Instytutu Rozdział 3 – Gospodarka finansowa Instytutu Rozdział 4 – Zmiany w przepisach Rozdział 5 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomicznym
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomicznym (Dz. U. poz. 1735), z uwzględnieniem zmian wprowadzonych ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 listopada 2024 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 22 i art. 23 ustawy z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomicznym (Dz. U. poz. 1735), które stanowią:
-„
-(pominięty)
-(pominięty)
+art. 22 i art. 23 ustawy z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomicznym (Dz. U. poz. 1735), które stanowią: „
+Przepisy ogólne
+Organy i organizacja Instytutu
+Gospodarka finansowa Instytutu
+Zmiany w przepisach
+(pominięty)Zamieszczony w obwieszczeniu.
+(pominięty)Zamieszczony w obwieszczeniu.
+Przepisy przejściowe i końcowe
 
-**Art. 22.** W ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2017 r. poz. 2186, z późn. zm.a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000, 1349 i 1669.) wprowadza się następujące zmiany:
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Organy i organizacja Instytutu
+
+#### Rozdział 3 – Gospodarka finansowa Instytutu
+
+#### Rozdział 4 – Zmiany w przepisach
+
+#### Rozdział 5 – Przepisy przejściowe i końcowe
+
+**Art. 22.** W ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2017 r. poz. 2186, z późn. zm.a)Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000, 1349 i 1669.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4: pkt 62 dodany przez art. 32 pkt 1 ustawy z dnia 8 lutego 2018 r. o Instytucie Współpracy Polsko-Węgierskiej im. Wacława Felczaka (Dz. U. poz. 538) oznacza się jako pkt 61a, po pkt 61a dodaje się pkt 61b w brzmieniu: „
     - **a)**
@@ -78,10 +92,9 @@ art. 22 i art. 23 ustawy z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomiczn
 **Art. 84.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
 
 - **1)** art. 65 ust. 2 i art. 73 ust. 2, które wchodzą w życie z dniem ogłoszenia;
-- **2)** art. 47 i art. 82, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomicznym
-    - **a)** Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000, 1349 i 1669.
+- **2)** art. 47 i art. 82, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000, 1349 i 1669. Załącznik – Tekst jednolity ustawy z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomicznym
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa organizację i zadania Polskiego Instytutu Ekonomicznego, zwanego dalej „Instytutem”.
 
@@ -89,9 +102,7 @@ art. 22 i art. 23 ustawy z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomiczn
 
 1. Instytut jest państwową osobą prawną.
 
-2. Siedzibą Instytutu jest miasto stołeczne Warszawa.
-
-3. Minister właściwy do spraw finansów publicznych, w drodze zarządzenia, nadaje Instytutowi statut, w którym określa organizację wewnętrzną oraz tryb pracy organów Instytutu, mając na względzie sprawne wykonywanie zadań przez Instytut oraz możliwość tworzenia oddziałów zamiejscowych Instytutu.
+2. Siedzibą Instytutu jest miasto stołeczne Warszawa. 3Ze zmianą wprowadzoną przez art. 46 pkt 1 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r.. Minister właściwy do spraw finansów publicznych, w drodze zarządzenia, nadaje Instytutowi statut, w którym określa organizację wewnętrzną oraz tryb pracy organów Instytutu, mając na względzie sprawne wykonywanie zadań przez Instytut oraz możliwość tworzenia oddziałów zamiejscowych Instytutu.
 
 **Art. 3.** Do zadań Instytutu należy:
 
@@ -103,13 +114,7 @@ art. 22 i art. 23 ustawy z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomiczn
 - **6)** organizowanie seminariów i konferencji w celu prezentowania wyników badań z zakresu nauk ekonomicznych i społecznych;
 - **7)** upowszechnianie wiedzy o stanie i tendencjach zmian sytuacji gospodarczej oraz rozwoju stosunków gospodarczych.
 
-**Art. 4.**
-
-1. Nadzór nad Instytutem sprawuje minister właściwy do spraw finansów publicznych.
-
-2. (uchylony)
-
-3. Nadzór, o którym mowa w ust. 1, obejmuje nadzór nad:
+**Art. 4.** 1Ze zmianą wprowadzoną przez art. 46 pkt 1 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r.. Nadzór nad Instytutem sprawuje minister właściwy do spraw finansów publicznych. 2. (uchylony)Przez art. 46 pkt 2 ustawy, o której mowa w odnośniku 1. 3. Nadzór, o którym mowa w ust. 1, obejmuje nadzór nad:
 
 - **1)** zgodnością działań Instytutu z przepisami prawa i statutem;
 - **2)** realizacją przez Instytut zadań określonych w art. 3;
@@ -117,9 +122,7 @@ art. 22 i art. 23 ustawy z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomiczn
 
 4. Kontrolę w ramach nadzoru przeprowadza się na zasadach i w trybie określonych w ustawie z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2020 r. poz. 224).
 
-5. Dyrektor Instytutu i Rada Instytutu są zobowiązani do realizacji zaleceń pokontrolnych wydanych w ramach realizacji nadzoru.
-
-6. Minister właściwy do spraw finansów publicznych ma prawo wglądu do dokumentów Instytutu i może żądać niezbędnych informacji od Dyrektora Instytutu.
+5. Dyrektor Instytutu i Rada Instytutu są zobowiązani do realizacji zaleceń pokontrolnych wydanych w ramach realizacji nadzoru. 6Ze zmianą wprowadzoną przez art. 46 pkt 3 ustawy, o której mowa w odnośniku 1.. Minister właściwy do spraw finansów publicznych ma prawo wglądu do dokumentów Instytutu i może żądać niezbędnych informacji od Dyrektora Instytutu.
 
 **Art. 5.**
 
@@ -127,27 +130,17 @@ art. 22 i art. 23 ustawy z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomiczn
 
 2. Organizację oddziału zamiejscowego i zakres jego zadań określa regulamin oddziału nadany przez Dyrektora Instytutu.
 
-#### Rozdział 2 Organy i organizacja Instytutu
+#### Rozdział 2
 
 **Art. 6.** Organami Instytutu są:
 
 - **1)** Dyrektor Instytutu;
 - **2)** Rada Instytutu.
 
-**Art. 7.**
-
-1. Dyrektora Instytutu powołuje i odwołuje minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii Rady Instytutu.
-
-2. Dyrektor Instytutu powołuje nie więcej niż trzech swoich zastępców i wyznacza zakres ich zadań. Dyrektor Instytutu odwołuje zastępców Dyrektora Instytutu.
-
-3. Minister właściwy do spraw finansów publicznych odwołuje Dyrektora Instytutu w przypadku:
+**Art. 7.** 1W brzmieniu ustalonym przez art. 46 pkt 4 ustawy, o której mowa w odnośniku 1.. Dyrektora Instytutu powołuje i odwołuje minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii Rady Instytutu. 2. Dyrektor Instytutu powołuje nie więcej niż trzech swoich zastępców i wyznacza zakres ich zadań. Dyrektor Instytutu odwołuje zastępców Dyrektora Instytutu. 3. Minister właściwy do spraw finansów publicznych odwołuje Dyrektora Instytutu w przypadku:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 46 pkt 1 ustawy, o której mowa w odnośniku 1.
 
 - **1)** rezygnacji ze stanowiska;
-- **2)** zaprzestania spełniania wymagań, o których mowa w art. 8 ust. 1 pkt 1 i 4–6.
-
-4. Minister właściwy do spraw finansów publicznych może w każdym czasie odwołać Dyrektora Instytutu.
-
-5. W przypadkach, o których mowa w ust. 3 i 4, minister właściwy do spraw finansów publicznych powierza zastępcy Dyrektora Instytutu lub innej osobie pełnienie obowiązków Dyrektora Instytutu do czasu powołania nowego Dyrektora Instytutu.
+- **2)** zaprzestania spełniania wymagań, o których mowa w art. 8 ust. 1 pkt 1 i 4–6. 4Ze zmianą wprowadzoną przez art. 46 pkt 1 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r.. Minister właściwy do spraw finansów publicznych może w każdym czasie odwołać Dyrektora Instytutu. 5Ze zmianą wprowadzoną przez art. 46 pkt 1 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r.. W przypadkach, o których mowa w ust. 3 i 4, minister właściwy do spraw finansów publicznych powierza zastępcy Dyrektora Instytutu lub innej osobie pełnienie obowiązków Dyrektora Instytutu do czasu powołania nowego Dyrektora Instytutu.
 
 **Art. 8.**
 
@@ -166,9 +159,7 @@ art. 22 i art. 23 ustawy z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomiczn
 
 **Art. 9.**
 
-1. Powołanie, o którym mowa w art. 7 ust. 1 i 2, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878 i 1222).
-
-2. Wynagrodzenie Dyrektora Instytutu ustala minister właściwy do spraw finansów publicznych zgodnie z przepisami ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2019 r. poz. 2136).
+1. Powołanie, o którym mowa w art. 7 ust. 1 i 2, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878 i 1222). 2Ze zmianą wprowadzoną przez art. 46 pkt 3 ustawy, o której mowa w odnośniku 1.. Wynagrodzenie Dyrektora Instytutu ustala minister właściwy do spraw finansów publicznych zgodnie z przepisami ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2019 r. poz. 2136).
 
 3. Wynagrodzenie zastępców Dyrektora Instytutu ustala Dyrektor Instytutu, po zasięgnięciu opinii Rady Instytutu.
 
@@ -187,31 +178,21 @@ art. 22 i art. 23 ustawy z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomiczn
 - **9)** sporządzanie rocznego sprawozdania z działalności Instytutu;
 - **10)** sprawowanie zarządu nad mieniem Instytutu;
 - **11)** prowadzenie gospodarki finansowej Instytutu;
-- **12)** rozliczanie dotacji otrzymanych z budżetu państwa.
-
-2. Dokumenty, o których mowa w ust. 1 pkt 6–9, Dyrektor Instytutu przedstawia do zatwierdzenia ministrowi właściwemu do spraw finansów publicznych.
+- **12)** rozliczanie dotacji otrzymanych z budżetu państwa. 2Ze zmianą wprowadzoną przez art. 46 pkt 3 ustawy, o której mowa w odnośniku 1.. Dokumenty, o których mowa w ust. 1 pkt 6–9, Dyrektor Instytutu przedstawia do zatwierdzenia ministrowi właściwemu do spraw finansów publicznych.
 
 **Art. 11.**
 
-1. Do zadań Rady Instytutu należy:
+1. Do zadań Rady Instytutu należy: 1Ze zmianą wprowadzoną przez art. 46 pkt 1 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r.) opiniowanie, na wniosek ministra właściwego do spraw finansów publicznych, kandydatów na stanowisko Dyrektora Instytutu;
 
-- **1)** opiniowanie, na wniosek ministra właściwego do spraw finansów publicznych, kandydatów na stanowisko Dyrektora Instytutu;
 - **2)** opiniowanie projektów rocznych planów finansowych oraz projektów rocznych planów działalności Instytutu;
-- **3)** opiniowanie sprawozdania finansowego Instytutu oraz sprawozdania z rocznej działalności Instytutu;
-- **4)** wyrażanie opinii w sprawach dotyczących działalności Instytutu, przedstawionych przez ministra właściwego do spraw finansów publicznych, Dyrektora Instytutu lub z własnej inicjatywy.
+- **3)** opiniowanie sprawozdania finansowego Instytutu oraz sprawozdania z rocznej działalności Instytutu; 4W brzmieniu ustalonym przez art. 46 pkt 5 ustawy, o której mowa w odnośniku 1.) wyrażanie opinii w sprawach dotyczących działalności Instytutu, przedstawionych przez ministra właściwego do spraw finansów publicznych, Dyrektora Instytutu lub z własnej inicjatywy.
 
 2. Rada Instytutu ma prawo wglądu do dokumentów Instytutu i może żądać niezbędnych informacji od Dyrektora Instytutu.
 
-**Art. 12.**
+**Art. 12.** 1Ze zmianą wprowadzoną przez art. 46 pkt 1 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r.. W skład Rady Instytutu wchodzi siedmiu członków powoływanych przez ministra właściwego do spraw finansów publicznych. 2. W skład Rady Instytutu wchodzą:
 
-1. W skład Rady Instytutu wchodzi siedmiu członków powoływanych przez ministra właściwego do spraw finansów publicznych.
-
-2. W skład Rady Instytutu wchodzą:
-
-- **1)** przedstawiciel Prezesa Rady Ministrów;
-- **1a)** przedstawiciel ministra właściwego do spraw finansów publicznych;
-- **2)** przedstawiciel ministra właściwego do spraw gospodarki;
-- **3)** cztery osoby powoływane na okres kadencji.
+- **1)** przedstawiciel Prezesa Rady Ministrów; 1aDodany przez art. 46 pkt 6 lit. a ustawy, o której mowa w odnośniku 1.) przedstawiciel ministra właściwego do spraw finansów publicznych;
+- **2)** przedstawiciel ministra właściwego do spraw gospodarki; 3W brzmieniu ustalonym przez art. 46 pkt 6 lit. b ustawy, o której mowa w odnośniku 1.) cztery osoby powoływane na okres kadencji.
 
 3. Kadencja członków Rady Instytutu, o których mowa w ust. 2 pkt 3, trwa 4 lata.
 
@@ -219,14 +200,10 @@ art. 22 i art. 23 ustawy z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomiczn
 
 **Art. 13.**
 
-1. Minister właściwy do spraw finansów publicznych odwołuje członków Rady Instytutu w przypadku:
+1. Minister właściwy do spraw finansów publicznych odwołuje członków Rady Instytutu w przypadku:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 46 pkt 1 ustawy, o której mowa w odnośniku 1.
 
 - **1)** rezygnacji ze stanowiska;
-- **2)** zaprzestania spełniania wymagań, o których mowa w art. 14 pkt 1 i 3.
-
-2. Minister właściwy do spraw finansów publicznych może w każdym czasie odwołać członka Rady Instytutu, o którym mowa w art. 12 ust. 2 pkt 1 i 2.
-
-3. W przypadku upływu kadencji, odwołania albo śmierci członka Rady Instytutu minister właściwy do spraw finansów publicznych powołuje nowego członka Rady.
+- **2)** zaprzestania spełniania wymagań, o których mowa w art. 14 pkt 1 i 3. 2Ze zmianą wprowadzoną przez art. 46 pkt 1 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r.. Minister właściwy do spraw finansów publicznych może w każdym czasie odwołać członka Rady Instytutu, o którym mowa w art. 12 ust. 2 pkt 1 i 2. 3Ze zmianą wprowadzoną przez art. 46 pkt 1 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r.. W przypadku upływu kadencji, odwołania albo śmierci członka Rady Instytutu minister właściwy do spraw finansów publicznych powołuje nowego członka Rady.
 
 **Art. 14.** Członkiem Rady Instytutu może być osoba, która:
 
@@ -246,7 +223,7 @@ art. 22 i art. 23 ustawy z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomiczn
 
 4. Instytut zapewnia poufność i rozliczalność udostępnionych danych statystycznych na zasadach określonych w przepisach regulujących działalność podmiotów, o których mowa w ust. 1.
 
-#### Rozdział 3 Gospodarka finansowa Instytutu
+#### Rozdział 3
 
 **Art. 17.** Przychodami Instytutu są:
 
@@ -276,9 +253,7 @@ art. 22 i art. 23 ustawy z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomiczn
 
 1. Instytut prowadzi samodzielną gospodarkę finansową na podstawie planu finansowego, ustalanego w układzie zadaniowym, zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530 i 1572).
 
-2. Projekt planu finansowego na następny rok budżetowy opracowuje Dyrektor Instytutu, z uwzględnieniem terminów określanych przez ministra właściwego do spraw finansów publicznych dla materiałów do projektu ustawy budżetowej.
-
-3. Podstawę gospodarki finansowej Instytutu w okresie od dnia 1 stycznia do dnia zatwierdzenia planu finansowego Instytutu przez ministra właściwego do spraw finansów publicznych stanowi projekt tego planu, zaopiniowany przez Radę Instytutu.
+2. Projekt planu finansowego na następny rok budżetowy opracowuje Dyrektor Instytutu, z uwzględnieniem terminów określanych przez ministra właściwego do spraw finansów publicznych dla materiałów do projektu ustawy budżetowej. 3Ze zmianą wprowadzoną przez art. 46 pkt 3 ustawy, o której mowa w odnośniku 1.. Podstawę gospodarki finansowej Instytutu w okresie od dnia 1 stycznia do dnia zatwierdzenia planu finansowego Instytutu przez ministra właściwego do spraw finansów publicznych stanowi projekt tego planu, zaopiniowany przez Radę Instytutu.
 
 4. Roczny plan finansowy Instytutu obejmuje w szczególności:
 
@@ -306,15 +281,11 @@ art. 22 i art. 23 ustawy z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomiczn
 
 **Art. 21.**
 
-1. Roczne sprawozdanie finansowe Instytutu podlega badaniu przez firmę audytorską.
+1. Roczne sprawozdanie finansowe Instytutu podlega badaniu przez firmę audytorską. 2Ze zmianą wprowadzoną przez art. 46 pkt 3 ustawy, o której mowa w odnośniku 1.. Wyboru firmy audytorskiej do badania rocznego sprawozdania finansowego Instytutu dokonuje minister właściwy do spraw finansów publicznych. 3Ze zmianą wprowadzoną przez art. 46 pkt 3 ustawy, o której mowa w odnośniku 1.. Dyrektor Instytutu przedstawia ministrowi właściwemu do spraw finansów publicznych do zatwierdzenia, zaopiniowane przez Radę Instytutu, roczne sprawozdanie finansowe Instytutu, wraz ze sprawozdaniem z badania.
 
-2. Wyboru firmy audytorskiej do badania rocznego sprawozdania finansowego Instytutu dokonuje minister właściwy do spraw finansów publicznych.
+#### Rozdział 4
 
-3. Dyrektor Instytutu przedstawia ministrowi właściwemu do spraw finansów publicznych do zatwierdzenia, zaopiniowane przez Radę Instytutu, roczne sprawozdanie finansowe Instytutu, wraz ze sprawozdaniem z badania.
-
-#### Rozdział 4 Zmiany w przepisach
-
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5
 
 **Art. 24.**
 
@@ -366,18 +337,11 @@ art. 22 i art. 23 ustawy z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomiczn
 - **7)** 2024 r. – 15 000 000 zł;
 - **8)** 2025 r. – 15 000 000 zł;
 - **9)** 2026 r. – 15 000 000 zł;
-- **10)** 2027 r. – 15 000 000 zł.
+- **10)** 2027 r. – 15 000 000 zł. 2Ze zmianą wprowadzoną przez art. 46 pkt 3 ustawy, o której mowa w odnośniku 1.. Organem monitorującym wykorzystanie limitu wydatków, o których mowa w ust. 1, jest minister właściwy do spraw finansów publicznych.
 
-2. Organem monitorującym wykorzystanie limitu wydatków, o których mowa w ust. 1, jest minister właściwy do spraw finansów publicznych.
-
-3. W przypadku zagrożenia przekroczenia limitu wydatków, o których mowa w ust. 1, zostanie zastosowany mechanizm korygujący polegający na ograniczeniu wydatków związanych z kosztami funkcjonowania Instytutu.
-
-4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest minister właściwy do spraw finansów publicznych.
+3. W przypadku zagrożenia przekroczenia limitu wydatków, o których mowa w ust. 1, zostanie zastosowany mechanizm korygujący polegający na ograniczeniu wydatków związanych z kosztami funkcjonowania Instytutu. 4Ze zmianą wprowadzoną przez art. 46 pkt 3 ustawy, o której mowa w odnośniku 1.. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest minister właściwy do spraw finansów publicznych.
 
 **Art. 30.** W 2018 r. do czasu otrzymania dotacji, o której mowa w art. 17 pkt 1, działalność Instytutu jest finansowana z rezerwy ogólnej Rady Ministrów.
 
-**Art. 31.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-
-- **1)** Ze zmianą wprowadzoną przez art. 46 pkt 1 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r. 2) Przez art. 46 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Ze zmianą wprowadzoną przez art. 46 pkt 3 ustawy, o której mowa w odnośniku 1. 4) W brzmieniu ustalonym przez art. 46 pkt 4 ustawy, o której mowa w odnośniku 1. 5) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 46 pkt 1 ustawy, o której mowa w odnośniku 1. 6) W brzmieniu ustalonym przez art. 46 pkt 5 ustawy, o której mowa w odnośniku 1. 7) Dodany przez art. 46 pkt 6 lit. a ustawy, o której mowa w odnośniku 1. 8) W brzmieniu ustalonym przez art. 46 pkt 6 lit. b ustawy, o której mowa w odnośniku 1. 9) Zamieszczony w obwieszczeniu. 10) Ustawa została ogłoszona w dniu 7 września 2018 r.
-
+**Art. 31.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 7 września 2018 r.. 1) Ze zmianą wprowadzoną przez art. 46 pkt 1 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r. 2) Przez art. 46 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Ze zmianą wprowadzoną przez art. 46 pkt 3 ustawy, o której mowa w odnośniku 1. 4) W brzmieniu ustalonym przez art. 46 pkt 4 ustawy, o której mowa w odnośniku 1. 5) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 46 pkt 1 ustawy, o której mowa w odnośniku 1. 6) W brzmieniu ustalonym przez art. 46 pkt 5 ustawy, o której mowa w odnośniku 1. 7) Dodany przez art. 46 pkt 6 lit. a ustawy, o której mowa w odnośniku 1. 8) W brzmieniu ustalonym przez art. 46 pkt 6 lit. b ustawy, o której mowa w odnośniku 1. 9) Zamieszczony w obwieszczeniu. 10) Ustawa została ogłoszona w dniu 7 września 2018 r.
 

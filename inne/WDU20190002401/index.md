@@ -41,32 +41,24 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 24 lipca 2019 r. zmieni
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lipca 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1472), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lipca 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1472), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 884), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 884), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 3)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 października 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2074), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 października 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2074), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 4)
-§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 lipca 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1494), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 lipca 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1494), które stanowią: „
 § 2.
 Do wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 na podstawie umów o przyznaniu tej pomocy zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 lipca 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 lipca 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258).
 Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2018 r. poz. 627 oraz z 2019 r. poz. 83, 504, 1824 i 2020) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb przyznawania oraz wypłaty pomocy finansowej w ramach działania „Systemy jakości produktów rolnych i środków spożywczych” w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym”, zwanej dalej „pomocą”, objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, zwanym dalej „Programem”, w tym:
@@ -83,7 +75,7 @@ przypadki, w których następcy prawnemu beneficjenta albo nabywcy beneficjenta 
 § 2.
 Pomoc jest przyznawana grupie producentów w rozumieniu art. 4 ust. 1 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1, z późn. zm.):
 1)
-(uchylony);
+(uchylony);Przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lipca 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1472), które weszło w życie z dniem 1 września 2017 r.
 2)
 której został nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, zwany dalej „numerem identyfikacyjnym”;
 3)
@@ -91,7 +83,7 @@ która składa się co najmniej z dwóch członków wytwarzających produkty rol
 4)
 której członkowie niewytwarzający produktów rolnych lub środków spożywczych w ramach systemów jakości, o których mowa w pkt 5, stanowią nie więcej niż 20% liczby członków tej grupy;
 5)
-której członkowie wytwarzają lub – jeżeli podmiot ubiegający się o przyznanie pomocy ma formę spółdzielni w rozumieniu przepisów prawa spółdzielczego – która wytwarza lub której członkowie wytwarzają na terytorium Rzeczypospolitej Polskiej produkty rolne lub środki spożywcze:
+której członkowie wytwarzają lub – jeżeli podmiot ubiegający się o przyznanie pomocy ma formę spółdzielni w rozumieniu przepisów prawa spółdzielczego – która wytwarza lub której członkowie wytwarzają na terytorium Rzeczypospolitej Polskiej produkty rolne lub środki spożywcze:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 884), które weszło w życie z dniem 29 maja 2018 r.
 a)
 których nazwy zostały wpisane do rejestru gwarantowanych tradycyjnych specjalności, o którym mowa w art. 22 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1151/2012 z dnia 21 listopada 2012 r. w sprawie systemów jakości produktów rolnych i środków spożywczych (Dz. Urz. UE L 343 z 14.12.2012, str. 1), lub rejestru chronionych nazw pochodzenia i chronionych oznaczeń geograficznych, o którym mowa w art. 11 tego rozporządzenia, lub
 b)
@@ -128,9 +120,9 @@ wyznaczenia wspólnika spółki cywilnej lub podmiotu, który zawarł umowę kon
 – odpowiedzialny za przechowywanie dokumentów związanych z przyznaną pomocą przez okres 5 lat od dnia otrzymania płatności końcowej, o której mowa w § 15 ust. 1 pkt 1 lit. b,
 c)
 miejsca przechowywania dokumentów związanych z przyznaną pomocą przez okres wskazany w lit. b tiret drugie;
-10)
+10Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3.)
 w skład której nie wchodzą członkowie będący członkami innej grupy producentów ubiegającej się o przyznanie pomocy w ramach poddziałania, o którym mowa w § 1, której złożony wniosek o przyznanie pomocy dotyczy co najmniej jednego tego samego produktu rolnego lub środka spożywczego, wytwarzanego w ramach systemów jakości, o których mowa w pkt 5.
-§ 2a.
+§ 2aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3..
 W przypadku gdy o pomoc ubiega się podmiot nieposiadający osobowości prawnej, warunek, o którym mowa w § 2 pkt 2, uważa się za spełniony, jeżeli numer identyfikacyjny posiada podmiot wchodzący w skład podmiotu ubiegającego się o przyznanie pomocy, reprezentujący pozostałych członków tego podmiotu.
 § 3.
 1.
@@ -145,7 +137,7 @@ dotyczy produktów rolnych lub środków spożywczych wytwarzanych w ramach syst
 jest realizowana zgodnie z przepisami ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2019 r. poz. 2277) – w przypadku gdy operacja dotyczy napojów alkoholowych;
 5)
 jest uzasadniona ekonomicznie, w tym pod względem racjonalności jej kosztów.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 lipca 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1494), które weszło w życie z dniem 23 sierpnia 2019 r..
 Pomoc jest przyznawana na operację, która będzie realizowana w nie więcej niż 8 etapach, z tym że każdy etap będzie realizowany przez co najmniej 90 dni, a wykonanie zakresu rzeczowego operacji, zgodnie z zestawieniem rzeczowo-finansowym operacji, w tym poniesienie przez beneficjenta kosztów kwalifikowalnych operacji oraz złożenie wniosku o płatność końcową, nastąpi nie później niż w terminie 24 miesięcy od dnia zawarcia umowy, lecz nie później niż do dnia 30 czerwca 2023 r.
 § 4.
 1.
@@ -190,27 +182,27 @@ wytworzenia bezpośrednio przez beneficjenta produktów rolnych lub środków sp
 tłumaczeń, których wykonanie jest niezbędne do zrealizowania operacji;
 15)
 podatku od towarów i usług (VAT) na zasadach określonych w art. 69 ust. 3 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.).
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6..
 Wysokość kosztów kwalifikowalnych wynosi nie więcej niż 2 500 000 zł, a pomoc jest przyznawana w formie refundacji do 70% tych kosztów, które wiążą się bezpośrednio z realizacją operacji, poniesionych od dnia, w którym został złożony wniosek o przyznanie pomocy.
 § 5.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa, zwanego dalej „Krajowym Ośrodkiem”, podaje do publicznej wiadomości na stronie internetowej administrowanej przez Krajowy Ośrodek, w co najmniej jednym dzienniku o zasięgu krajowym oraz w siedzibie biura Krajowego Ośrodka, zwanego dalej „Centralą Krajowego Ośrodka”, i oddziałów terenowych Krajowego Ośrodka ogłoszenie o naborze wniosków o przyznanie pomocy, na co najmniej 30 dni przed planowanym rozpoczęciem terminu składania tych wniosków.
 2.
-Ogłoszenie, o którym mowa w ust. 1, zawiera wskazanie dnia rozpoczęcia oraz dnia zakończenia terminu składania wniosków o przyznanie pomocy, a także informację na temat systemów jakości spośród wymienionych w § 2 pkt 5, których dotyczy planowany nabór wniosków o przyznanie pomocy.
+Ogłoszenie, o którym mowa w ust. 1, zawiera wskazanie dnia rozpoczęcia oraz dnia zakończenia terminu składania wniosków o przyznanie pomocy, a także informację na temat systemów jakości spośród wymienionych w § 2 pkt 5, których dotyczy planowany nabór wniosków o przyznanie pomocyZe zmianą wprowadzoną przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 października 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2074), które weszło w życie z dniem 15 listopada 2018 r..
 3.
 Termin naboru wniosków o przyznanie pomocy nie może być krótszy niż 30 dni i dłuższy niż 60 dni.
 4.
-Krajowy Ośrodek udostępnia na stronie internetowej administrowanej przez Krajowy Ośrodek formularz wniosku o przyznanie pomocy, formularz umowy o przyznaniu pomocy oraz formularz wniosku o płatność nie później niż od dnia podania do publicznej wiadomości ogłoszenia, o którym mowa w ust. 1.
-§ 5a.
+Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. udostępnia na stronie internetowej administrowanej przez Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. formularz wniosku o przyznanie pomocy, formularz umowy o przyznaniu pomocy oraz formularz wniosku o płatność nie później niż od dnia podania do publicznej wiadomości ogłoszenia, o którym mowa w ust. 1.
+§ 5aDodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3..
 1.
 W ramach jednego naboru wniosków o przyznanie pomocy jeden podmiot ubiegający się o przyznanie pomocy może złożyć jeden wniosek o przyznanie pomocy.
 2.
 W przypadku złożenia przez jeden podmiot ubiegający się o przyznanie pomocy w ramach jednego naboru wniosków o przyznanie pomocy więcej niż jednego wniosku o przyznanie pomocy, Krajowy Ośrodek rozpatruje wyłącznie wniosek, który pierwszy wpłynął do Krajowego Ośrodka. Na operacje objęte pozostałymi wnioskami Krajowy Ośrodek nie przyznaje pomocy. Przepis art. 35 ust. 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020, zwanej dalej „ustawą”, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
 § 6.
 1.
-Wniosek o przyznanie pomocy składa się, w formie pisemnej, w Centrali Krajowego Ośrodka.
+Wniosek o przyznanie pomocy składa się, w formie pisemnej, w Centrali Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 2.
-W przypadku złożenia wniosku o przyznanie pomocy osobiście albo za pośrednictwem innej osoby w Centrali Krajowego Ośrodka, wydaje się potwierdzenie jego złożenia.
+W przypadku złożenia wniosku o przyznanie pomocy osobiście albo za pośrednictwem innej osoby w Centrali Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2., wydaje się potwierdzenie jego złożenia.
 3.
 W przypadku złożenia wniosku o przyznanie pomocy przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego w rozumieniu przepisów ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2018 r. poz. 2188 oraz z 2019 r. poz. 1051, 1495 i 2005) za dzień złożenia wniosku uznaje się dzień, w którym przesyłkę nadano.
 § 7.
@@ -219,7 +211,7 @@ Wniosek o przyznanie pomocy zawiera dane niezbędne do jej przyznania, w szczeg�
 1)
 dane podmiotu ubiegającego się o przyznanie pomocy oraz jego członków:
 a)
-(uchylona),
+(uchylona),Przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 2.
 b)
 numer identyfikacyjny, jeżeli został nadany,
 c)
@@ -228,7 +220,7 @@ d)
 miejsce zamieszkania i adres albo siedzibę i adres,
 e)
 numer identyfikacji podatkowej (NIP), jeżeli został nadany,
-f)
+fW brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 6.)
 numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli został nadany;
 2)
 dane osób upoważnionych do reprezentowania podmiotu ubiegającego się o przyznanie pomocy, zawierające w szczególności imię i nazwisko oraz miejsce zamieszkania i adres, jeżeli zostało udzielone takie upoważnienie;
@@ -242,7 +234,7 @@ oświadczenia podmiotu ubiegającego się o przyznanie pomocy niezbędne do jej 
 informację o załącznikach.
 2.
 Do wniosku o przyznanie pomocy dołącza się:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3.)
 kopie dokumentów potwierdzających wytwarzanie przez spółdzielnię lub jej członków albo członków podmiotu ubiegającego się o przyznanie pomocy produktów rolnych lub środków spożywczych w ramach systemów jakości, o których mowa w § 2 pkt 5, z wyłączeniem członków podmiotu ubiegającego się o przyznanie pomocy, którzy nie wytwarzają produktów rolnych lub środków spożywczych w ramach systemów jakości, o których mowa w § 2 pkt 5;
 2)
 kopie dokumentów stanowiących podstawę utworzenia podmiotu ubiegającego się o przyznanie pomocy;
@@ -259,32 +251,32 @@ oświadczenie o kwalifikowalności VAT;
 5)
 kopię wniosku o nadanie numeru identyfikacyjnego w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, w przypadku gdy podmiot ubiegający się o przyznanie pomocy nie posiada takiego numeru;
 6)
-(uchylony);
+(uchylony);Przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 7)
 inne dokumenty potwierdzające spełnienie warunków do przyznania pomocy.
 3.
-Kopie dokumentów dołącza się w formie kopii potwierdzonych za zgodność z oryginałem przez pracownika Krajowego Ośrodka lub podmiot, który wydał dokument, albo w formie kopii poświadczonych za zgodność z oryginałem przez notariusza albo przez występującego w sprawie pełnomocnika strony będącego radcą prawnym albo adwokatem, z tym że kopia, o której mowa w ust. 2 pkt 2, może być potwierdzona przez podmiot ubiegający się o przyznanie pomocy lub jednego z jego członków.
+Kopie dokumentów dołącza się w formie kopii potwierdzonych za zgodność z oryginałem przez pracownika Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. lub podmiot, który wydał dokument, albo w formie kopii poświadczonych za zgodność z oryginałem przez notariusza albo przez występującego w sprawie pełnomocnika strony będącego radcą prawnym albo adwokatem, z tym że kopia, o której mowa w ust. 2 pkt 2, może być potwierdzona przez podmiot ubiegający się o przyznanie pomocy lub jednego z jego członków.
 § 8.
 1.
 Jeżeli wniosek o przyznanie pomocy:
 1)
-nie zawiera adresu podmiotu ubiegającego się o przyznanie pomocy i nie jest możliwe jego ustalenie na podstawie posiadanych przez Krajowy Ośrodek danych, Krajowy Ośrodek pozostawia wniosek bez rozpatrzenia;
+nie zawiera adresu podmiotu ubiegającego się o przyznanie pomocy i nie jest możliwe jego ustalenie na podstawie posiadanych przez Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. danych, Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. pozostawia wniosek bez rozpatrzenia;
 2)
-nie został złożony w terminie wskazanym w ogłoszeniu, o którym mowa w § 5 ust. 2, Krajowy Ośrodek informuje podmiot ubiegający się o przyznanie pomocy o pozostawieniu wniosku bez rozpatrzenia.
+nie został złożony w terminie wskazanym w ogłoszeniu, o którym mowa w § 5 ust. 2, Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. informuje podmiot ubiegający się o przyznanie pomocy o pozostawieniu wniosku bez rozpatrzenia.
 2.
-W przypadku podmiotu ubiegającego się o przyznanie pomocy, który pisemnie poinformował o rezygnacji z ubiegania się o jej przyznanie, złożony przez ten podmiot wniosek o przyznanie pomocy Krajowy Ośrodek pozostawia bez rozpatrzenia.
+W przypadku podmiotu ubiegającego się o przyznanie pomocy, który pisemnie poinformował o rezygnacji z ubiegania się o jej przyznanie, złożony przez ten podmiot wniosek o przyznanie pomocy Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. pozostawia bez rozpatrzenia.
 § 9.
 1.
-Jeżeli wniosek o przyznanie pomocy nie spełnia innych niż określone w § 8 wymagań lub został wypełniony nieprawidłowo, Krajowy Ośrodek wzywa podmiot ubiegający się o przyznanie pomocy, w formie pisemnej, do usunięcia braków w terminie 14 dni od dnia doręczenia wezwania, chyba że zachodzą niebudzące wątpliwości przesłanki nieprzyznania pomocy.
+Jeżeli wniosek o przyznanie pomocy nie spełnia innych niż określone w § 8 wymagań lub został wypełniony nieprawidłowo, Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. wzywa podmiot ubiegający się o przyznanie pomocy, w formie pisemnej, do usunięcia braków w terminie 14 dni od dnia doręczenia wezwania, chyba że zachodzą niebudzące wątpliwości przesłanki nieprzyznania pomocy.
 2.
-Jeżeli podmiot ubiegający się o przyznanie pomocy pomimo wezwania nie usunął braków w wyznaczonym terminie, Krajowy Ośrodek wzywa ponownie ten podmiot, w formie pisemnej, do usunięcia braków, w terminie 14 dni od dnia doręczenia wezwania.
-3.
-Jeżeli podmiot ubiegający się o przyznanie pomocy pomimo powtórnego wezwania nie usunął wszystkich braków wskazanych przez Krajowy Ośrodek, Krajowy Ośrodek nie przyznaje pomocy. Przepis art. 35 ust. 1 ustawy stosuje się odpowiednio.
+Jeżeli podmiot ubiegający się o przyznanie pomocy pomimo wezwania nie usunął braków w wyznaczonym terminie, Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. wzywa ponownie ten podmiot, w formie pisemnej, do usunięcia braków, w terminie 14 dni od dnia doręczenia wezwania.
+3Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3..
+Jeżeli podmiot ubiegający się o przyznanie pomocy pomimo powtórnego wezwania nie usunął wszystkich braków wskazanych przez Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2., Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. nie przyznaje pomocy. Przepis art. 35 ust. 1 ustawy stosuje się odpowiednio.
 4.
-Złożony wniosek o przyznanie pomocy nie może być zmieniany przez podmiot ubiegający się o przyznanie pomocy w zakresie zestawienia rzeczowo-finansowego operacji, z wyłączeniem zmian wynikających z wezwań Krajowego Ośrodka.
+Złożony wniosek o przyznanie pomocy nie może być zmieniany przez podmiot ubiegający się o przyznanie pomocy w zakresie zestawienia rzeczowo-finansowego operacji, z wyłączeniem zmian wynikających z wezwań Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 § 10.
 1.
-Pomoc przysługuje według kolejności ustalonej przez Dyrektora Generalnego Krajowego Ośrodka na podstawie sumy uzyskanych punktów, przyznanych na podstawie następujących kryteriów wyboru:
+Pomoc przysługujeZe zmianą wprowadzoną przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 3. według kolejności ustalonej przez Dyrektora Generalnego Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. na podstawie sumy uzyskanych punktów, przyznanych na podstawie następujących kryteriów wyboru:
 1)
 efektywność zaplanowanych działań informacyjno-promocyjnych w zakresie:
 a)
@@ -303,25 +295,25 @@ W przypadku korzystania przez podmiot ubiegający się o przyznanie pomocy z wi�
 3.
 Jeżeli wniosek o przyznanie pomocy lub dołączone do niego dokumenty nie zawierają danych niezbędnych do ustalenia liczby punktów za dane kryterium, nie przyznaje się punktów za to kryterium.
 4.
-W pierwszej kolejności pomoc przysługuje podmiotom ubiegającym się o przyznanie pomocy, którym przyznano największą liczbę punktów, jednak nie mniej niż 5 punktów.
+W pierwszej kolejności pomoc przysługujeZe zmianą wprowadzoną przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 3. podmiotom ubiegającym się o przyznanie pomocy, którym przyznano największą liczbę punktów, jednak nie mniej niż 5 punktów.
 5.
-W przypadku podmiotów ubiegających się o przyznanie pomocy, którym przyznano taką samą liczbę punktów, o kolejności przysługiwania pomocy decyduje liczba kanałów przekazu, o których mowa w ust. 1 pkt 1 lit. a, planowanych do wykorzystania w ramach realizowanej operacji, począwszy od największej.
+W przypadku podmiotów ubiegających się o przyznanie pomocy, którym przyznano taką samą liczbę punktów, o kolejności przysługiwaniaZe zmianą wprowadzoną przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 3. pomocy decyduje liczba kanałów przekazu, o których mowa w ust. 1 pkt 1 lit. a, planowanych do wykorzystania w ramach realizowanej operacji, począwszy od największej.
 6.
-W przypadku podmiotów ubiegających się o przyznanie pomocy, którym przyznano taką samą liczbę punktów i którzy w ramach realizowanej operacji planują wykorzystać taką samą liczbę kanałów przekazu, o których mowa w ust. 1 pkt 1 lit. a, o kolejności przysługiwania pomocy decyduje kwota wnioskowanej pomocy, przy czym pierwszeństwo w uzyskaniu pomocy ma operacja z niższą wnioskowaną kwotą pomocy.
+W przypadku podmiotów ubiegających się o przyznanie pomocy, którym przyznano taką samą liczbę punktów i którzy w ramach realizowanej operacji planują wykorzystać taką samą liczbę kanałów przekazu, o których mowa w ust. 1 pkt 1 lit. a, o kolejności przysługiwaniaZe zmianą wprowadzoną przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 3. pomocy decyduje kwota wnioskowanej pomocy, przy czym pierwszeństwo w uzyskaniu pomocy ma operacja z niższą wnioskowaną kwotą pomocy.
 7.
 W trakcie realizacji Programu jednemu beneficjentowi pomoc może zostać przyznana nie więcej niż dwa razy.
 § 11.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 3..
 Dyrektor Generalny Krajowego Ośrodka ustala kolejność przysługiwania pomocy w terminie 120 dni od dnia upływu terminu wskazanego w ogłoszeniu, o którym mowa w § 5 ust. 2.
 2.
-Przy ustalaniu kolejności przysługiwania pomocy uwzględnia się wszystkie wnioski o przyznanie pomocy, wypełnione we wszystkich wymaganych pozycjach, do których załączono wszystkie wymagane dokumenty, oraz spełniające wymagania wynikające z wezwań Krajowego Ośrodka, o których mowa w § 9 ust. 1 i 2, złożone w terminie wskazanym w ogłoszeniu, o którym mowa w § 5 ust. 2.
+Przy ustalaniu kolejności przysługiwaniaZe zmianą wprowadzoną przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 3. pomocy uwzględnia się wszystkie wnioski o przyznanie pomocy, wypełnione we wszystkich wymaganych pozycjach, do których załączono wszystkie wymagane dokumenty, oraz spełniające wymagania wynikające z wezwań Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2., o których mowa w § 9 ust. 1 i 2, złożone w terminie wskazanym w ogłoszeniu, o którym mowa w § 5 ust. 2.
 3.
-Kolejność przysługiwania pomocy jest ustalana na podstawie danych zawartych we wniosku o przyznanie pomocy, dołączonych do niego dokumentach oraz kontroli administracyjnej.
+Kolejność przysługiwaniaZe zmianą wprowadzoną przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 3. pomocy jest ustalana na podstawie danych zawartych we wniosku o przyznanie pomocy, dołączonych do niego dokumentach oraz kontroli administracyjnej.
 4.
 Podmiotom ubiegającym się o przyznanie pomocy, które nie spełniają warunków określonych w § 2 lub których wnioski o przyznanie pomocy nie uzyskały minimalnej liczby punktów, o której mowa w § 10 ust. 4, pomocy nie przyznaje się, o czym podmiot ubiegający się o przyznanie pomocy jest informowany w formie pisemnej.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 7 lit. c rozporządzenia, o którym mowa w odnośniku 3..
 W terminie 7 dni od dnia ustalenia kolejności przysługiwania pomocy Dyrektor Generalny Krajowego Ośrodka podaje do publicznej wiadomości, na stronie internetowej administrowanej przez Krajowy Ośrodek, informację o tej kolejności w województwie mazowieckim i łącznie w pozostałych województwach wraz ze wskazaniem numerów identyfikacyjnych podmiotów ubiegających się o przyznanie pomocy oraz liczby punktów przyznanych każdemu z tych podmiotów.
-6.
+6Dodany przez § 1 pkt 7 lit. d rozporządzenia, o którym mowa w odnośniku 3..
 Kolejność przysługiwania pomocy w województwie mazowieckim i łącznie w pozostałych województwach jest ustalana w odniesieniu do:
 1)
 siedziby podmiotu ubiegającego się o przyznanie pomocy będącego grupą producentów posiadającą zdolność prawną;
@@ -329,18 +321,18 @@ siedziby podmiotu ubiegającego się o przyznanie pomocy będącego grupą produ
 miejsca zamieszkania albo siedziby podmiotu wchodzącego w skład podmiotu ubiegającego się o przyznanie pomocy będącego grupą producentów nieposiadającą zdolności prawnej, reprezentującego podmioty wchodzące w skład tej grupy.
 § 12.
 1.
-W terminie 14 dni od dnia podania do publicznej wiadomości informacji, o której mowa w § 11 ust. 5, Krajowy Ośrodek:
+W terminie 14 dni od dnia podania do publicznej wiadomości informacji, o której mowa w § 11 ust. 5, Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.:
 1)
 wzywa podmiot ubiegający się o przyznanie pomocy do zawarcia umowy − w przypadku pozytywnego rozpatrzenia wniosku o przyznanie pomocy;
 2)
 informuje podmiot ubiegający się o przyznanie pomocy o odmowie przyznania pomocy – w przypadku gdy nie są spełnione warunki do jej przyznania.
 2.
-W przypadku, o którym mowa w ust. 1 pkt 1, Krajowy Ośrodek wyznacza niezwłocznie, w formie pisemnej, termin zawarcia umowy, który nie może być dłuższy niż 14 dni od dnia otrzymania wezwania przez podmiot ubiegający się o przyznanie pomocy.
+W przypadku, o którym mowa w ust. 1 pkt 1, Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. wyznacza niezwłocznie, w formie pisemnej, termin zawarcia umowy, który nie może być dłuższy niż 14 dni od dnia otrzymania wezwania przez podmiot ubiegający się o przyznanie pomocy.
 3.
-W przypadku gdy podmiot ubiegający się o przyznanie pomocy nie stawił się w wyznaczonym przez Krajowy Ośrodek terminie w celu zawarcia umowy albo odmówił jej podpisania, Krajowy Ośrodek nie przyznaje pomocy, chyba że podmiot ten zawarł umowę w innym terminie uzgodnionym z Krajowym Ośrodkiem, nie dłuższym niż 21 dni od dnia, na który został wyznaczony poprzedni termin zawarcia umowy.
+W przypadku gdy podmiot ubiegający się o przyznanie pomocy nie stawił się w wyznaczonym przez Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. terminie w celu zawarcia umowy albo odmówił jej podpisania, Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. nie przyznaje pomocy, chyba że podmiot ten zawarł umowę w innym terminie uzgodnionym z Krajowym OśrodkiemZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2., nie dłuższym niż 21 dni od dnia, na który został wyznaczony poprzedni termin zawarcia umowy.
 § 13.
 1.
-W razie uchybienia terminu wykonania przez podmiot ubiegający się o przyznanie pomocy określonych czynności w toku postępowania w sprawie przyznania pomocy Krajowy Ośrodek, na pisemną prośbę tego podmiotu, przywraca termin wykonania tych czynności, jeżeli podmiot ubiegający się o przyznanie pomocy:
+W razie uchybienia terminu wykonania przez podmiot ubiegający się o przyznanie pomocy określonych czynności w toku postępowania w sprawie przyznania pomocy Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2., na pisemną prośbę tego podmiotu, przywraca termin wykonania tych czynności, jeżeli podmiot ubiegający się o przyznanie pomocy:
 1)
 wniósł prośbę w terminie 14 dni od dnia ustania przyczyny uchybienia;
 2)
@@ -361,15 +353,15 @@ przedkładania projektów materiałów informacyjnych, promocyjnych i reklamowyc
 4)
 udostępniania danych niezbędnych do monitorowania i oceny realizowanej operacji do dnia, w którym upłynie 5 lat od dnia otrzymania płatności końcowej;
 5)
-informowania Krajowego Ośrodka o każdej zmianie danych zawartych w złożonych dokumentach do dnia otrzymania płatności końcowej;
+informowania Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. o każdej zmianie danych zawartych w złożonych dokumentach do dnia otrzymania płatności końcowej;
 6)
-informowania Krajowego Ośrodka o okolicznościach mogących mieć wpływ na wykonanie umowy do dnia otrzymania płatności końcowej;
+informowania Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. o okolicznościach mogących mieć wpływ na wykonanie umowy do dnia otrzymania płatności końcowej;
 7)
 przechowywania dokumentów związanych z przyznaną pomocą do dnia, w którym upłynie 5 lat od dnia otrzymania płatności końcowej;
 8)
 prowadzenia ewidencji uwzględniającej wszystkie transakcje związane z realizowaną operacją w oddzielnym systemie rachunkowości albo w ramach odpowiedniego kodu rachunkowego, o których mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.), zwanego dalej „rozporządzeniem nr 1305/2013”;
 9)
-(uchylony);
+(uchylony);Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 3.
 10)
 umożliwienia przeprowadzania kontroli związanych z przyznaną pomocą w trakcie realizacji operacji oraz przez 5 lat od dnia otrzymania płatności końcowej;
 11)
@@ -379,8 +371,8 @@ przestrzegania obowiązków, o których mowa w załączniku III do rozporządzen
 13)
 prawidłowego oznakowania wszystkich materiałów informacyjno-promocyjnych związanych z realizacją operacji.
 2.
-Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego, o których mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia nr 1305/2013, odbywa się w ramach prowadzonych ksiąg rachunkowych albo przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu udostępnionym przez Krajowy Ośrodek, jeżeli na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych.
-§ 14a.
+Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego, o których mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia nr 1305/2013, odbywa się w ramach prowadzonych ksiąg rachunkowych albo przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu udostępnionym przez Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2., jeżeli na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych.
+§ 14aDodany przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 3..
 1.
 Zabezpieczeniem należytego wykonania przez beneficjenta zobowiązań określonych w umowie jest weksel niezupełny (in blanco) wraz z deklaracją wekslową sporządzoną na formularzu udostępnionym przez Krajowy Ośrodek.
 2.
@@ -393,8 +385,7 @@ złożył wniosek o płatność:
 a)
 pośrednią – przez który rozumie się wniosek o płatność składany po zrealizowaniu każdego z etapów operacji, jeżeli dany etap nie jest etapem końcowym,
 b)
-końcową – przez który rozumie się wniosek o płatność składany po zrealizowaniu całej operacji
-oraz poniósł koszty związane z realizacją operacji lub jej etapu, zgodnie z warunkami określonymi w rozporządzeniu i w umowie oraz warunkami określonymi w innych przepisach, jeżeli mają one zastosowanie do zadań objętych operacją;
+końcową – przez który rozumie się wniosek o płatność składany po zrealizowaniu całej operacji – oraz poniósł koszty związane z realizacją operacji lub jej etapu, zgodnie z warunkami określonymi w rozporządzeniu i w umowie oraz warunkami określonymi w innych przepisach, jeżeli mają one zastosowanie do zadań objętych operacją;
 2)
 zrealizował lub realizuje zobowiązania określone w umowie;
 3)
@@ -403,9 +394,9 @@ udokumentował zrealizowanie operacji lub jej etapu, w tym poniesienie kosztów 
 Koszty kwalifikowalne, o których mowa w ust. 1 pkt 3, podlegają refundacji, jeżeli zostały:
 1)
 poniesione:
-a)
+aW brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 6.)
 od dnia, w którym został złożony wniosek o przyznanie pomocy, i nie później niż do dnia złożenia wniosku o płatność, a w przypadku gdy beneficjent został wezwany do usunięcia braków we wniosku o płatność zgodnie z § 16 ust. 2 lub 3, nie później niż w terminie 14 dni od dnia doręczenia tego wezwania,
-b)
+bW brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 3.)
 zgodnie z przepisami:
 – o zamówieniach publicznych – w przypadku gdy te przepisy mają zastosowanie,
 – ustawy określającymi konkurencyjny tryb wyboru wykonawcy i przepisami wydanymi na podstawie art. 43a ust. 6 ustawy – w przypadku gdy te przepisy mają zastosowanie,
@@ -415,23 +406,23 @@ w formie rozliczenia bezgotówkowego, z wyłączeniem kwoty do wysokości 5000 z
 uwzględnione w oddzielnym systemie rachunkowości albo do ich identyfikacji wykorzystano odpowiedni kod rachunkowy, o których mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia nr 1305/2013.
 § 16.
 1.
-Wniosek o płatność składa się, w formie pisemnej, w Centrali Krajowego Ośrodka, w terminie określonym w umowie. Przepisy § 6 ust. 2 i 3 stosuje się odpowiednio.
+Wniosek o płatność składa się, w formie pisemnej, w Centrali Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2., w terminie określonym w umowie. Przepisy § 6 ust. 2 i 3 stosuje się odpowiednio.
 2.
-Jeżeli wniosek o płatność nie został wypełniony we wszystkich wymaganych pozycjach lub nie dołączono do niego wymaganych dokumentów lub wniosek lub dokumenty nie spełniają innych wymagań, Krajowy Ośrodek wzywa beneficjenta, w formie pisemnej, do usunięcia braków, w terminie 14 dni od dnia doręczenia wezwania.
+Jeżeli wniosek o płatność nie został wypełniony we wszystkich wymaganych pozycjach lub nie dołączono do niego wymaganych dokumentów lub wniosek lub dokumenty nie spełniają innych wymagań, Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. wzywa beneficjenta, w formie pisemnej, do usunięcia braków, w terminie 14 dni od dnia doręczenia wezwania.
 3.
-Jeżeli beneficjent pomimo wezwania nie usunął braków w wyznaczonym terminie, Krajowy Ośrodek wzywa ponownie beneficjenta, w formie pisemnej, do usunięcia braków, w terminie 14 dni od dnia doręczenia wezwania.
+Jeżeli beneficjent pomimo wezwania nie usunął braków w wyznaczonym terminie, Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. wzywa ponownie beneficjenta, w formie pisemnej, do usunięcia braków, w terminie 14 dni od dnia doręczenia wezwania.
 4.
-Jeżeli beneficjent pomimo powtórnego wezwania nie usunął braków, Krajowy Ośrodek rozpatruje wniosek o płatność w zakresie, w jakim został wypełniony, oraz na podstawie dołączonych do niego dokumentów.
+Jeżeli beneficjent pomimo powtórnego wezwania nie usunął braków, Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. rozpatruje wniosek o płatność w zakresie, w jakim został wypełniony, oraz na podstawie dołączonych do niego dokumentów.
 5.
-Krajowy Ośrodek, w trakcie rozpatrywania wniosku o płatność, może wzywać beneficjenta, w formie pisemnej, do wyjaśnienia faktów istotnych dla rozstrzygnięcia sprawy lub przedstawienia dowodów na potwierdzenie tych faktów, w terminie 14 dni od dnia doręczenia wezwania.
+Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2., w trakcie rozpatrywania wniosku o płatność, może wzywać beneficjenta, w formie pisemnej, do wyjaśnienia faktów istotnych dla rozstrzygnięcia sprawy lub przedstawienia dowodów na potwierdzenie tych faktów, w terminie 14 dni od dnia doręczenia wezwania.
 § 17.
 1.
-Krajowy Ośrodek rozpatruje wniosek o płatność w terminie 90 dni od dnia złożenia wniosku o płatność wypełnionego we wszystkich wymaganych pozycjach, do którego załączono wszystkie wymagane dokumenty, oraz spełniającego wymagania wynikające z wezwań Krajowego Ośrodka, o których mowa w § 16 ust. 2 i 3.
+Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. rozpatruje wniosek o płatność w terminie 90 dni od dnia złożenia wniosku o płatność wypełnionego we wszystkich wymaganych pozycjach, do którego załączono wszystkie wymagane dokumenty, oraz spełniającego wymagania wynikające z wezwań Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2., o których mowa w § 16 ust. 2 i 3.
 2.
-Krajowy Ośrodek, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na przedłużenie terminu wykonania przez beneficjenta określonej czynności w toku postępowania w sprawie wypłaty pomocy, przy czym przedłużenie terminów wykonania przez beneficjenta określonych czynności nie może przekroczyć łącznie 30 dni.
+Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2., na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na przedłużenie terminu wykonania przez beneficjenta określonej czynności w toku postępowania w sprawie wypłaty pomocy, przy czym przedłużenie terminów wykonania przez beneficjenta określonych czynności nie może przekroczyć łącznie 30 dni.
 3.
 Do trybu rozpatrywania wniosku o płatność stosuje się § 13.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2..
 Agencja Restrukturyzacji i Modernizacji Rolnictwa dokonuje wypłaty środków finansowych z tytułu pomocy na rachunek bankowy beneficjenta, w terminie 30 dni od dnia otrzymania z Krajowego Ośrodka polecenia wypłaty pomocy.
 § 18.
 1.
@@ -443,19 +434,19 @@ na następcę prawnego beneficjenta przeszły prawa beneficjenta nabyte w ramach
 2.
 Wniosek następcy prawnego beneficjenta o przyznanie pomocy, zwany dalej „wnioskiem następcy”, składa się:
 1)
-na formularzu opracowanym i udostępnionym przez Krajowy Ośrodek;
+na formularzu opracowanym i udostępnionym przez Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.;
 2)
-w Centrali Krajowego Ośrodka;
+w Centrali Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.;
 3)
 w terminie 2 miesięcy od dnia zaistnienia zdarzenia określonego w ust. 1.
 3.
 Do wniosku następcy dołącza się dokument potwierdzający fakt zaistnienia następstwa prawnego.
 4.
-W przypadku złożenia wniosku następcy po upływie terminu, o którym mowa w ust. 2, Krajowy Ośrodek nie przyznaje pomocy.
+W przypadku złożenia wniosku następcy po upływie terminu, o którym mowa w ust. 2, Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. nie przyznaje pomocy.
 5.
 Wniosek następcy rozpatruje się w terminie 2 miesięcy od dnia jego złożenia.
 6.
-W przypadku nierozpatrzenia wniosku następcy w terminie, o którym mowa w ust. 5, Krajowy Ośrodek zawiadamia wnioskodawcę o przyczynach zwłoki, wskazując nowy termin rozpatrzenia wniosku, nie dłuższy niż 2 miesiące.
+W przypadku nierozpatrzenia wniosku następcy w terminie, o którym mowa w ust. 5, Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. zawiadamia wnioskodawcę o przyczynach zwłoki, wskazując nowy termin rozpatrzenia wniosku, nie dłuższy niż 2 miesiące.
 7.
 Do wniosku następcy i trybu jego rozpatrywania stosuje się odpowiednio przepisy § 7, § 8 ust. 1 pkt 1, § 9, § 12 i § 13.
 § 19.
@@ -468,6 +459,5 @@ W przypadkach określonych w § 18 i § 19 pomoc przyznaje się następcy prawne
 § 21.
 Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku postępowania w sprawie przyznania pomocy i wypłaty środków finansowych z tytułu pomocy dokonuje się zgodnie z przepisami Kodeksu cywilnego dotyczącymi terminów.
 § 22.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258). 2) Przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lipca 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1472), które weszło w życie z dniem 1 września 2017 r. 3) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 884), które weszło w życie z dniem 29 maja 2018 r. 4) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 5) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 lipca 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1494), które weszło w życie z dniem 23 sierpnia 2019 r. 7) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6. 8) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 9) Ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 października 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2074), które weszło w życie z dniem 15 listopada 2018 r. 10) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 11) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 12) Przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 6. 14) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 15) Przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2. 16) Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3. 17) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 3. 18) Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 19) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 3. 20) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 3. 21) Ze zmianą wprowadzoną przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 3. 22) W brzmieniu ustalonym przez § 1 pkt 7 lit. c rozporządzenia, o którym mowa w odnośniku 3. 23) Dodany przez § 1 pkt 7 lit. d rozporządzenia, o którym mowa w odnośniku 3. 24) Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 3. 25) Dodany przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 3. 26) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 6. 27) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 3. 28) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 29) Rozporządzenie zostało ogłoszone w dniu 22 lipca 2016 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 22 lipca 2016 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258). 2) Przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lipca 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1472), które weszło w życie z dniem 1 września 2017 r. 3) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 884), które weszło w życie z dniem 29 maja 2018 r. 4) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 5) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 lipca 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1494), które weszło w życie z dniem 23 sierpnia 2019 r. 7) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6. 8) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 9) Ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 października 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2074), które weszło w życie z dniem 15 listopada 2018 r. 10) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 11) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 12) Przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 6. 14) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 15) Przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2. 16) Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3. 17) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 3. 18) Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 19) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 3. 20) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 3. 21) Ze zmianą wprowadzoną przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 3. 22) W brzmieniu ustalonym przez § 1 pkt 7 lit. c rozporządzenia, o którym mowa w odnośniku 3. 23) Dodany przez § 1 pkt 7 lit. d rozporządzenia, o którym mowa w odnośniku 3. 24) Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 3. 25) Dodany przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 3. 26) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 6. 27) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 3. 28) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 29) Rozporządzenie zostało ogłoszone w dniu 22 lipca 2016 r.
 

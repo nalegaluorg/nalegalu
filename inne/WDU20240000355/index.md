@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 8 marca 2024 r. w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty pomocy finansowej w ramach narzędzi zarządzania ryzykiem w formie wkładów finansowych na rzecz składek w ramach systemów ubezpieczeń w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 8 marca 2024 r. w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty pomocy finansowej w ramach narzędzi zarządzania ryzykiem w formie wkładów finansowych na rzecz składek w ramach systemów ubezpieczeń w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-08 |
 | Data wydania | 2024-03-12 |
-| Wejście w życie | 2024-03-27 |
 | Ostatnia zmiana | 2024-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000355) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/355/text.pdf) |
 
@@ -31,7 +30,7 @@ Załącznik – Średnia masa ciała zwierząt gatunków: świnia, bydło domowe
 Treść rozporządzenia
 Na podstawie art. 71 ust. 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. z 2024 r. poz. 261) zarządza się, co następuje:
 § 1.
-Rozporządzenie określa szczegółowe warunki i szczegółowy tryb przyznawania i wypłaty pomocy finansowej w ramach narzędzi zarządzania ryzykiem w formie wkładów finansowych na rzecz składek w ramach systemów ubezpieczeń, o których mowa w art. 76 ust. 3 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, z późn. zm.), zwanej dalej „pomocą”, w tym szczegółowe wymagania, jakie powinny spełniać wnioski o przyznanie pomocy.
+Rozporządzenie określa szczegółowe warunki i szczegółowy tryb przyznawania i wypłaty pomocy finansowej w ramach narzędzi zarządzania ryzykiem w formie wkładów finansowych na rzecz składek w ramach systemów ubezpieczeń, o których mowa w art. 76 ust. 3 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 119 z 21.04.2022, str. 1, Dz. Urz. UE L 181 z 07.07.2022, str. 35, Dz. Urz. UE L 227 z 01.09.2022, str. 136, Dz. Urz. UE L 102 z 17.04.2023, str. 1 oraz Dz. Urz. UE L 148 z 08.06.2023, str. 130., zwanej dalej „pomocą”, w tym szczegółowe wymagania, jakie powinny spełniać wnioski o przyznanie pomocy.
 § 2.
 1.
 Pomoc przyznaje się rolnikowi, który:
@@ -110,8 +109,7 @@ enzootycznej białaczki bydła,
 zi)
 gorączki Q,
 zj)
-paratuberkulozy
-zwaną dalej „umową ubezpieczenia”, na okres objęty ubezpieczeniem rozpoczynający się nie wcześniej niż w dniu 1 stycznia 2024 r.;
+paratuberkulozy – zwaną dalej „umową ubezpieczenia”, na okres objęty ubezpieczeniem rozpoczynający się nie wcześniej niż w dniu 1 stycznia 2024 r.;
 3)
 ubezpieczył zgodnie z umową ubezpieczenia co najmniej:
 a)
@@ -237,11 +235,11 @@ wstąpienie do toczącego się postępowania na miejsce rolnika ubiegającego si
 2)
 przyznanie pomocy następcy prawnemu rolnika, któremu przyznano pomoc, albo nabywcy gospodarstwa lub jego części, albo przejmującemu grunty lub zwierzęta.
 § 11.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 119 z 21.04.2022, str. 1, Dz. Urz. UE L 181 z 07.07.2022, str. 35, Dz. Urz. UE L 227 z 01.09.2022, str. 136, Dz. Urz. UE L 102 z 17.04.2023, str. 1 oraz Dz. Urz. UE L 148 z 08.06.2023, str. 130.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 119 z 21.04.2022, str. 1, Dz. Urz. UE L 181 z 07.07.2022, str. 35, Dz. Urz. UE L 227 z 01.09.2022, str. 136, Dz. Urz. UE L 102 z 17.04.2023, str. 1 oraz Dz. Urz. UE L 148 z 08.06.2023, str. 130.
 Załącznik – Średnia masa ciała zwierząt gatunków: świnia, bydło domowe, owca domowa, koza domowa lub koń domowy i drobiu oraz średnia roczna liczba jaj od jednej sztuki drobiu nieśnego
 I.
-Średnia masa ciała poszczególnych gatunków zwierząt Lp. Gatunki zwierząt Średnia masa ciała zwierząt w kg 1 Świnia w wieku: 1) do 2 miesięcy 16,00 2) do 5 miesięcy 60,00 3) do 8 miesięcy 100,00 4) do 12 miesięcy 125,00 2 Bydło domowe w wieku: 1) do miesiąca 50,00 2) powyżej miesiąca do 8 miesięcy: a) samice 140,00 b) samce 205,00 3) powyżej 8 miesięcy do 3 lat: a) samice 200,00 b) samce 325,00 4) powyżej 3 lat do 5 lat: a) samice 300,00 b) samce 450,00 5) powyżej 5 lat: a) samice 450,00 b) samce 750,00 3 Owce domowe w wieku: 1) do 3,5 miesiąca 19,00 2) powyżej 3,5 miesiąca do 1,5 roku: a) samice 40,00 b) samce 55,00 3) powyżej 1,5 roku: a) samice 65,00 b) samce 95,00 4 Kozy domowe: 1) do 3,5 miesięcy 17,00 2) powyżej 3,5 miesięcy do 1,5 roku 35,00 3) powyżej 1,5 roku: a) samice 60,00 b) samce 80,00 5 Konie domowe: 1) do 0,5 roku 70,00 2) powyżej 0,5 roku do 1 roku 180,00 3) powyżej 1 roku do 2 lat 400,00 4) powyżej 2 lat 600,00 6 Kurczęta brojlery 2,50 7 Młode indory rzeźne 22,56 8 Młode indyczki rzeźne 10,32 9 Gęsi i kaczki rzeźne 7,00 10 Perlice rzeźne 1,30
+Średnia masa ciała poszczególnych gatunków zwierząt
+Lp. Gatunki zwierząt Średnia masa ciała zwierząt w kg 1 Świnia w wieku: 1) do 2 miesięcy 16,00 2) do 5 miesięcy 60,00 3) do 8 miesięcy 100,00 4) do 12 miesięcy 125,00 2 Bydło domowe w wieku: 1) do miesiąca 50,00 2) powyżej miesiąca do 8 miesięcy: a) samice 140,00 b) samce 205,00 3) powyżej 8 miesięcy do 3 lat: a) samice 200,00 b) samce 325,00 4) powyżej 3 lat do 5 lat: a) samice 300,00 b) samce 450,00 5) powyżej 5 lat: a) samice 450,00 b) samce 750,00 3 Owce domowe w wieku: 1) do 3,5 miesiąca 19,00 2) powyżej 3,5 miesiąca do 1,5 roku: a) samice 40,00 b) samce 55,00 3) powyżej 1,5 roku: a) samice 65,00 b) samce 95,00 4 Kozy domowe: 1) do 3,5 miesięcy 17,00 2) powyżej 3,5 miesięcy do 1,5 roku 35,00 3) powyżej 1,5 roku: a) samice 60,00 b) samce 80,00 5 Konie domowe: 1) do 0,5 roku 70,00 2) powyżej 0,5 roku do 1 roku 180,00 3) powyżej 1 roku do 2 lat 400,00 4) powyżej 2 lat 600,00 6 Kurczęta brojlery 2,50 7 Młode indory rzeźne 22,56 8 Młode indyczki rzeźne 10,32 9 Gęsi i kaczki rzeźne 7,00 10 Perlice rzeźne 1,30
 II.
 Średnia roczna liczba jaj od jednej sztuki drobiu nieśnego – 219 sztuk
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-05-19 |
 | Data wydania | 2017-06-07 |
-| Wejście w życie | 2017-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001097) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1097/text.pdf) |
 
@@ -39,8 +38,7 @@ W rozporządzeniu Krajowej Rady Radiofonii i Telewizji z dnia 29 kwietnia 2011 r
 1)
 w § 2:
 a)
-w ust. 1 pkt 1–4 otrzymują brzmienie:
-„
+w ust. 1 pkt 1–4 otrzymują brzmienie: „
 1)
 jednym lub kilku programach ogólnokrajowych wybranych przez spółkę „Telewizja Polska – Spółka Akcyjna” spośród wymienionych w art. 26 ust. 2 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji oraz programie wyspecjalizowanym TVP Info;
 2)
@@ -48,11 +46,9 @@ każdym programie terenowego oddziału spółki „Telewizja Polska – Spółka
 3)
 jednym lub kilku programach ogólnokrajowych wybranych przez spółkę „Polskie Radio – Spółka Akcyjna”;
 4)
-każdym programie regionalnym spółek publicznej radiofonii regionalnej.
-” ,
+każdym programie regionalnym spółek publicznej radiofonii regionalnej. ” ,
 b)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
 Czas rozpowszechniania audycji informujących o nieodpłatnej działalności pożytku publicznego prowadzonej przez organizacje pożytku publicznego wynosi dla:
 1)
@@ -72,22 +68,17 @@ audycji prezentujących kampanie społeczne, dostarczonych jednostce publicznej 
 a)
 w programach, o których mowa w ust. 1 pkt 1, 3 i 4 – nie mniej niż 270 minut w ciągu miesiąca,
 b)
-w programach, o których mowa w ust. 1 pkt 2 – nie mniej niż 60 minut w ciągu miesiąca.
-” ,
+w programach, o których mowa w ust. 1 pkt 2 – nie mniej niż 60 minut w ciągu miesiąca. ” ,
 c)
-po ust. 3 dodaje się ust. 3a i 3b w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
 3a.
 Jeżeli jednostka publicznej radiofonii i telewizji rozpowszechnia audycje, o których mowa w ust. 3, w więcej niż jednym programie ogólnokrajowym, do czasu rozpowszechniania audycji zalicza się łączny czas ich trwania we wszystkich programach ogólnokrajowych.
 3b.
-Audycje, o których mowa w ust. 3, rozpowszechniane są w godzinach od 600 do 2300.
-” ;
+Audycje, o których mowa w ust. 3, rozpowszechniane są w godzinach od 600 do 2300. ” ;
 2)
-w § 5 ust. 1 otrzymuje brzmienie:
-„
+w § 5 ust. 1 otrzymuje brzmienie: „
 1.
-Jednostki publicznej radiofonii i telewizji są obowiązane do składania Krajowej Radzie Radiofonii i Telewizji sprawozdań w postaci elektronicznej w formacie pdf.
-” ;
+Jednostki publicznej radiofonii i telewizji są obowiązane do składania Krajowej Radzie Radiofonii i Telewizji sprawozdań w postaci elektronicznej w formacie pdf. ” ;
 3)
 załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 4)
@@ -99,9 +90,29 @@ Rozporządzenie wchodzi w życie z dniem 1 lipca 2017 r.
 
 ## Załącznik nr 1 — – Sprawozdanie kwartalne z realizacji obowiązku rozpowszechniania audycji informujących o nieodpłatnej działalności pożytku publicznego prowadzonej przez organizacje pożytku publicznego (wzór)
 
-za okres: ... (kwartał) (rok) Nazwa nadawcy: ... CZEŚĆ A Audycje przygotowane przez jednostkę publicznej radiofonii i telewizji, o których mowa w § 2 ust. 3 pkt 1 rozporządzenia I miesiąc kwartału Nazwa programu Tytuł audycji Nazwa OPP Data rozpowszechnienia audycji Godzina rozpoczęcia i zakończenia audycji od-do (gg: mm: ss) Łączny czas trwania audycji (gg: mm: ss) Razem: II miesiąc kwartału Nazwa programu Tytuł audycji Nazwa OPP Data rozpowszechnienia audycji Godzina rozpoczęcia i zakończenia audycji od-do (gg: mm: ss) Łączny czas trwania audycji (gg: mm: ss) Razem: III miesiąc kwartału Nazwa programu Tytuł audycji Nazwa OPP Data rozpowszechnienia audycji Godzina rozpoczęcia i zakończenia audycji od- do (gg: mm: ss) Łączny czas trwania audycji (gg: mm: ss) Razem: CZEŚĆ B Audycje prezentujące kampanie społeczne, dostarczone jednostce publicznej radiofonii i telewizji przez organizacje pożytku publicznego, o których mowa w § 2 ust. 3 pkt 3 rozporządzenia I miesiąc kwartału Nazwa programu Nazwa OPP Data rozpowszechnienia audycji Godzina rozpoczęcia audycji (gg: mm: ss) Liczba wyemitowanych audycji Łączny czas trwania audycji (gg: mm: ss) Razem: II miesiąc kwartału Nazwa programu Nazwa OPP Data rozpowszechnienia audycji Godzina rozpoczęcia audycji (gg: mm: ss) Liczba wyemitowanych audycji Łączny czas trwania audycji (gg: mm: ss) Razem: III miesiąc kwartału Nazwa programu Nazwa OPP Data rozpowszechnienia audycji Godzina rozpoczęcia audycji (gg: mm: ss) Liczba wyemitowanych audycji Łączny czas trwania audycji (gg: mm: ss) Razem: (data sporządzenia, podpis i pieczęć nadawcy)
+za okres: ... (kwartał) (rok) Nazwa nadawcy: ... CZEŚĆ A Audycje przygotowane przez jednostkę publicznej radiofonii i telewizji, o których mowa w § 2 ust. 3 pkt 1 rozporządzenia I miesiąc kwartału
+Nazwa programu Tytuł audycji Nazwa OPP Data rozpowszechnienia audycji Godzina rozpoczęcia i zakończenia audycji od-do (gg: mm: ss) Łączny czas trwania audycji (gg: mm: ss) Razem:
+II miesiąc kwartału
+Nazwa programu Tytuł audycji Nazwa OPP Data rozpowszechnienia audycji Godzina rozpoczęcia i zakończenia audycji od-do (gg: mm: ss) Łączny czas trwania audycji (gg: mm: ss) Razem:
+III miesiąc kwartału
+Nazwa programu Tytuł audycji Nazwa OPP Data rozpowszechnienia audycji Godzina rozpoczęcia i zakończenia audycji od- do (gg: mm: ss) Łączny czas trwania audycji (gg: mm: ss) Razem:
+CZEŚĆ B Audycje prezentujące kampanie społeczne, dostarczone jednostce publicznej radiofonii i telewizji przez organizacje pożytku publicznego, o których mowa w § 2 ust. 3 pkt 3 rozporządzenia I miesiąc kwartału
+Nazwa programu Nazwa OPP Data rozpowszechnienia audycji Godzina rozpoczęcia audycji (gg: mm: ss) Liczba wyemitowanych audycji Łączny czas trwania audycji (gg: mm: ss) Razem:
+II miesiąc kwartału
+Nazwa programu Nazwa OPP Data rozpowszechnienia audycji Godzina rozpoczęcia audycji (gg: mm: ss) Liczba wyemitowanych audycji Łączny czas trwania audycji (gg: mm: ss) Razem:
+III miesiąc kwartału
+Nazwa programu Nazwa OPP Data rozpowszechnienia audycji Godzina rozpoczęcia audycji (gg: mm: ss) Liczba wyemitowanych audycji Łączny czas trwania audycji (gg: mm: ss) Razem:
+(data sporządzenia, podpis i pieczęć nadawcy)
 
 ## Załącznik nr 2 — – Sprawozdanie z realizacji obowiązku rozpowszechniania audycji informujących o możliwości i zasadach przekazywania 1% podatku dochodowego od osób fizycznych organizacjom pożytku publicznego w okresie od dnia 1 stycznia do dnia 30 kwietnia (wzór)
 
-Styczeń, ... rok Nazwa programu Data rozpowszechnienia audycji Godzina rozpoczęcia audycji (gg: mm: ss) Liczba wyemitowanych audycji Łączny czas trwania audycji (gg: mm: ss) Razem: Luty, ... rok Nazwa programu Data rozpowszechnienia audycji Godzina rozpoczęcia audycji (gg: mm: ss) Liczba wyemitowanych audycji Łączny czas trwania audycji (gg: mm: ss) Razem: Marzec, ... rok Nazwa programu Data rozpowszechnienia audycji Godzina rozpoczęcia audycji (gg: mm: ss) Liczba wyemitowanych audycji Łączny czas trwania audycji (gg: mm: ss) Razem: Kwiecień, ... rok Nazwa programu Data rozpowszechnienia audycji Godzina rozpoczęcia audycji (gg: mm: ss) Liczba wyemitowanych audycji Łączny czas trwania audycji (gg: mm: ss) Razem: ... (data sporządzenia, podpis i pieczęć nadawcy)
+Styczeń, ... rok
+Nazwa programu Data rozpowszechnienia audycji Godzina rozpoczęcia audycji (gg: mm: ss) Liczba wyemitowanych audycji Łączny czas trwania audycji (gg: mm: ss) Razem:
+Luty, ... rok
+Nazwa programu Data rozpowszechnienia audycji Godzina rozpoczęcia audycji (gg: mm: ss) Liczba wyemitowanych audycji Łączny czas trwania audycji (gg: mm: ss) Razem:
+Marzec, ... rok
+Nazwa programu Data rozpowszechnienia audycji Godzina rozpoczęcia audycji (gg: mm: ss) Liczba wyemitowanych audycji Łączny czas trwania audycji (gg: mm: ss) Razem:
+Kwiecień, ... rok
+Nazwa programu Data rozpowszechnienia audycji Godzina rozpoczęcia audycji (gg: mm: ss) Liczba wyemitowanych audycji Łączny czas trwania audycji (gg: mm: ss) Razem:
+... (data sporządzenia, podpis i pieczęć nadawcy)
 

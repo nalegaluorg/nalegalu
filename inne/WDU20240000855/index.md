@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 18 czerwca 2001 r. w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia (Dz. U. z 2023 r. poz. 518), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 23 kwietnia 2024 r. zmieniającym rozporządzenie w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia (Dz. U. poz. 668).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 23 kwietnia 2024 r. zmieniającego rozporządzenie w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia (Dz. U. poz. 668), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 23 kwietnia 2024 r. zmieniającego rozporządzenie w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia (Dz. U. poz. 668), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Rady Ministrów z dnia 18 czerwca 2001 r. w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia
 Na podstawie art. 16 ust. 2 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2024 r. poz. 388) zarządza się, co następuje:
 § 1.
@@ -64,7 +62,7 @@ j)
 Jastarnia – ruch osobowy morskimi statkami sportowymi i towarowy statkami rybackimi o polskiej przynależności, wykonującymi rybołówstwo morskie,
 k)
 Kołobrzeg – ruch osobowy i towarowy,
-l)
+lW brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 23 kwietnia 2024 r. zmieniającego rozporządzenie w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia (Dz. U. poz. 668), które weszło w życie z dniem 15 maja 2024 r.)
 Łeba – ruch osobowy i towarowy,
 ł)
 Mrzeżyno – ruch towarowy statkami rybackimi o polskiej przynależności, wykonującymi rybołówstwo morskie,
@@ -81,7 +79,7 @@ Ustka – ruch osobowy i towarowy,
 s)
 Władysławowo – ruch osobowy i towarowy,
 t)
-(uchylona),
+(uchylona),Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
 u)
 Nowy Świat – ruch osobowy i towarowy;
 2)
@@ -119,5 +117,5 @@ Radom-Sadków – ruch osobowy i towarowy.
 § 2.
 Traci moc rozporządzenie Rady Ministrów z dnia 22 listopada 1994 r. w sprawie ustalenia morskich i stałych lotniczych przejść granicznych (Dz. U. poz. 659, z 1995 r. poz. 548 oraz z 1996 r. poz. 579).
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 20 czerwca 2001 r.. 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 23 kwietnia 2024 r. zmieniającego rozporządzenie w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia (Dz. U. poz. 668), które weszło w życie z dniem 15 maja 2024 r. 2) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Rozporządzenie zostało ogłoszone w dniu 20 czerwca 2001 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 26 kwietnia 2019 r. w sprawie szczegółowych kryteriów i trybu przyznawania środków finansowych na utrzymanie aparatury naukowo-badawczej, stanowiska badawczego oraz specjalnej infrastruktury informatycznej oraz oceny raportu z ich wykorzystania
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 26 kwietnia 2019 r. w sprawie szczegółowych kryteriów i trybu przyznawania środków finansowych na utrzymanie aparatury naukowo-badawczej, stanowiska badawczego oraz specjalnej infrastruktury informatycznej oraz oceny raportu z ich wykorzystania Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317, z 2018 r. poz. 1998 oraz z 2019 r. poz. 715).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-26 |
 | Data wydania | 2019-05-13 |
-| Wejście w życie | 2019-05-28 |
 | Ostatnia zmiana | 2025-05-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000893) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/893/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 402 pkt 6 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 402 pkt 6 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe kryteria i tryb przyznawania środków finansowych, o których mowa w art. 365 pkt 5 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, zwanej dalej „ustawą”, szczegółowe kryteria i tryb oceny raportu z ich wykorzystania, zakres informacji zawartych we wniosku o ich przyznanie, zwanym dalej „wnioskiemˮ, oraz w raporcie z ich wykorzystania, zwanym dalej „raportemˮ.
 § 2.
@@ -35,8 +34,7 @@ Wniosek dotyczący utrzymania:
 1)
 aparatury naukowo-badawczej lub stanowiska badawczego, unikatowych w skali kraju, zwanych dalej „aparaturą”,
 2)
-specjalnej infrastruktury informatycznej, zwanej dalej „infrastrukturą”
-składa się w terminie do dnia 31 sierpnia roku poprzedzającego rok, na który mają być przyznane środki.
+specjalnej infrastruktury informatycznej, zwanej dalej „infrastrukturą” – składa się w terminie do dnia 31 sierpnia roku poprzedzającego rok, na który mają być przyznane środki.
 § 3.
 Wniosek zawiera:
 1)
@@ -63,8 +61,7 @@ Wnioski składa się w systemie teleinformatycznym wskazanym przez ministra wła
 1)
 zgodności danych zawartych w systemie ze stanem faktycznym i prawnym,
 2)
-wyrażeniu zgody na przesyłanie korespondencji za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2019 r. poz. 123 i 730)
-składa się w formie dokumentu elektronicznego opatrzonego podpisem zaufanym albo kwalifikowanym podpisem elektronicznym, za pomocą elektronicznej skrzynki podawczej ministra lub w postaci papierowej.
+wyrażeniu zgody na przesyłanie korespondencji za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2019 r. poz. 123 i 730) – składa się w formie dokumentu elektronicznego opatrzonego podpisem zaufanym albo kwalifikowanym podpisem elektronicznym, za pomocą elektronicznej skrzynki podawczej ministra lub w postaci papierowej.
 2.
 Wniosek może dotyczyć przyznania środków finansowych na utrzymanie jednej aparatury albo infrastruktury.
 § 5.
@@ -171,6 +168,5 @@ wykonane nienależycie lub niewykonane, z wezwaniem do zwrotu części lub cało
 § 13.
 Wnioski dotyczące utrzymania aparatury lub infrastruktury, na podstawie których środki finansowe będą przyznawane w 2020 r., składa się w terminie do dnia 31 października 2019 r.
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317, z 2018 r. poz. 1998 oraz z 2019 r. poz. 715). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 11 września 2015 r. w sprawie szczegółowych kryteriów i trybu przyznawania oraz rozliczania środków finansowych na utrzymanie specjalnego urządzenia badawczego, specjalnego urządzenia badawczego z zakresu infrastruktury informatycznej nauki, zapewnienia dostępu do informacji naukowej, w tym do Wirtualnej Biblioteki Nauki, oraz na pokrycie kosztów restrukturyzacji jednostek naukowych (Dz. U. poz. 1462), które utraciło moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 4 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39 i 534).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 11 września 2015 r. w sprawie szczegółowych kryteriów i trybu przyznawania oraz rozliczania środków finansowych na utrzymanie specjalnego urządzenia badawczego, specjalnego urządzenia badawczego z zakresu infrastruktury informatycznej nauki, zapewnienia dostępu do informacji naukowej, w tym do Wirtualnej Biblioteki Nauki, oraz na pokrycie kosztów restrukturyzacji jednostek naukowych (Dz. U. poz. 1462), które utraciło moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 4 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39 i 534). 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317, z 2018 r. poz. 1998 oraz z 2019 r. poz. 715). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 11 września 2015 r. w sprawie szczegółowych kryteriów i trybu przyznawania oraz rozliczania środków finansowych na utrzymanie specjalnego urządzenia badawczego, specjalnego urządzenia badawczego z zakresu infrastruktury informatycznej nauki, zapewnienia dostępu do informacji naukowej, w tym do Wirtualnej Biblioteki Nauki, oraz na pokrycie kosztów restrukturyzacji jednostek naukowych (Dz. U. poz. 1462), które utraciło moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 4 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39 i 534).
 

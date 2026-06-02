@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 6 września 2018 r. w sprawie wyznaczenia instytutu badawczego do dokonywania analizy danych dotyczących przewozu towarów gromadzonych w rejestrze zgłoszeń oraz zakresu danych podlegających tej analizie
+# Rozporządzenie Ministra Finansówz dnia 6 września 2018 r. w sprawie wyznaczenia instytutu badawczego do dokonywania analizy danych dotyczących przewozu towarów gromadzonych w rejestrze zgłoszeń oraz zakresu danych podlegających tej analizie Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-06 |
 | Data wydania | 2018-09-07 |
-| Wejście w życie | 2018-09-08 |
 | Ostatnia zmiana | 2026-01-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001743) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1743/text.pdf) |
 
@@ -84,6 +83,5 @@ miejsce zakończenia przewozu towaru na terytorium kraju;
 3)
 planowana data zakończenia przewozu towaru na terytorium kraju.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 2 ust. 1 pkt 5–10, które wchodzą w życie z dniem 1 października 2018 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 2 ust. 1 pkt 5–10, które wchodzą w życie z dniem 1 października 2018 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 

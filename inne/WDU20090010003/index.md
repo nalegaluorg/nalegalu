@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-12-08 |
 | Data wydania | 2009-01-07 |
-| Wejście w życie | 2009-01-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090010003) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/3/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2007 r. Nr 16, poz. 94, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2007 r. Nr 16, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374 oraz z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9o: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -51,7 +50,7 @@ source: "eli-html"
 
 - **f)**
 
-10. Przepisu ust. 8 nie stosuje się do gruntów wnoszonych przez Polskie Koleje Państwowe Spółkę Akcyjną, zwane dalej „PKP S.A.”, w formie wkładu niepieniężnego do PLK S.A. na podstawie art. 17 ust. 1 ustawy z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. Nr 84, poz. 948, z późn. zm.). ” ;
+10. Przepisu ust. 8 nie stosuje się do gruntów wnoszonych przez Polskie Koleje Państwowe Spółkę Akcyjną, zwane dalej „PKP S.A.”, w formie wkładu niepieniężnego do PLK S.A. na podstawie art. 17 ust. 1 ustawy z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. Nr 84, poz. 948, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1086 i Nr 154, poz. 1802, z 2002 r. Nr 205, poz. 1730 i Nr 240, poz. 2055, z 2003 r. Nr 6, poz. 63, Nr 80, poz. 720 i Nr 203, poz. 1966, z 2004 r. Nr 96, poz. 959 i Nr 120, poz. 1252, z 2005 r. Nr 157, poz. 1315 i Nr 184, poz. 1539, z 2006 r. Nr 12, poz. 63 i Nr 157, poz. 1119 oraz z 2008 r. Nr 97, poz. 624, Nr 193, poz. 1196 i Nr 206, poz. 1289.). ” ;
 
 - **2)** w art. 9q: w ust. 1 pkt 3 otrzymuje brzmienie: „
     - **a)**
@@ -107,7 +106,7 @@ source: "eli-html"
 - **3)** uprawnia do faktycznego objęcia nieruchomości w posiadanie przez PLK S.A. ” , ust. 4 i 5 otrzymują brzmienie: „
     - **c)**
 
-4. W przypadku gdy decyzja, o której mowa w ust. 1, dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, w którym został wyodrębniony lokal mieszkalny, PLK S.A. są obowiązane, w terminie faktycznego objęcia nieruchomości w posiadanie, do wskazania lokalu zamiennego w rozumieniu przepisów ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2005 r. Nr 31, poz. 266, z późn. zm.), z zastrzeżeniem ust. 5.
+4. W przypadku gdy decyzja, o której mowa w ust. 1, dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, w którym został wyodrębniony lokal mieszkalny, PLK S.A. są obowiązane, w terminie faktycznego objęcia nieruchomości w posiadanie, do wskazania lokalu zamiennego w rozumieniu przepisów ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2005 r. Nr 31, poz. 266, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 69, poz. 626, z 2006 r. Nr 86, poz. 602, Nr 167, poz. 1193 i Nr 249, poz. 1833 oraz z 2007 r. Nr 128, poz. 902 i Nr 173, poz. 1218.), z zastrzeżeniem ust. 5.
 
 5. W przypadku gdy faktyczne objęcie nieruchomości w posiadanie następuje po upływie terminu, o którym mowa w art. 9q ust. 6, PLK S.A. nie mają obowiązku wskazania lokalu zamiennego. ” , dodaje się ust. 6 w brzmieniu: „
 
@@ -148,7 +147,7 @@ source: "eli-html"
 
 - **1)** doręczenia zawiadomienia o wydaniu decyzji, o którym mowa w art. 9q ust. 2,
 - **2)** doręczenia postanowienia o nadaniu decyzji o ustaleniu lokalizacji linii kolejowej rygoru natychmiastowej wykonalności albo
-- **3)** w którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna wysokość odszkodowania powiększa się o kwotę równą 5% wartości nieruchomości lub wartości prawa użytkowania wieczystego.
+- **3)** w którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna – wysokość odszkodowania powiększa się o kwotę równą 5% wartości nieruchomości lub wartości prawa użytkowania wieczystego.
 
 3f. W przypadku gdy decyzja o ustaleniu lokalizacji linii kolejowej dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, w którym został wyodrębniony lokal mieszkalny, wysokość odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu zamieszkałemu w tym budynku albo lokalu powiększa się o kwotę 10 000 zł w odniesieniu do tej nieruchomości. ” , ust. 4 otrzymuje brzmienie: „
 
@@ -160,7 +159,7 @@ source: "eli-html"
 - **2)** decyzja o ustaleniu odszkodowania, o której mowa w ust. 2, stała się ostateczna. ” , dodaje się ust. 6 w brzmieniu: „
     - **d)**
 
-6. Do finansowania wypłaty odszkodowań, o których mowa w ust. 1 i 2, wypłaty ceny nabycia nieruchomości, o których mowa w art. 9t, oraz pozostałych kosztów związanych z jej nabyciem, kosztów wynikających z realizacji obowiązku, o którym mowa w art. 9w ust. 4, a także wypłaty należności oraz jednorazowych odszkodowań, o których mowa w art. 5a ust. 2 ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2004 r. Nr 121, poz. 1266, z późn. zm.), stosuje się art. 38 ust. 1 pkt 3 i ust. 2. ” ;
+6. Do finansowania wypłaty odszkodowań, o których mowa w ust. 1 i 2, wypłaty ceny nabycia nieruchomości, o których mowa w art. 9t, oraz pozostałych kosztów związanych z jej nabyciem, kosztów wynikających z realizacji obowiązku, o którym mowa w art. 9w ust. 4, a także wypłaty należności oraz jednorazowych odszkodowań, o których mowa w art. 5a ust. 2 ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2004 r. Nr 121, poz. 1266, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 12, poz. 63, z 2007 r. Nr 75, poz. 493, Nr 80, poz. 541 i Nr 191, poz. 1374, z 2008 r. Nr 237, poz. 1657 i Nr 1, poz. 3.), stosuje się art. 38 ust. 1 pkt 3 i ust. 2. ” ;
 
 - **8)** uchyla się art. 9aa i 9ab;
 - **9)** w art. 9ac po ust. 1 dodaje się ust. 1a w brzmieniu: „
@@ -179,7 +178,7 @@ source: "eli-html"
 
 **Art. 77a.** Przepisy rozdziału 2b tracą moc z dniem 31 grudnia 2020 r. ” .
 
-**Art. 2.** W ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2004 r. Nr 121, poz. 1266, z późn. zm.) w art. 5a ust. 2 otrzymuje brzmienie: „ 2. Należności oraz jednorazowe odszkodowania, w wysokości ustalonej przez organy właściwe w sprawach ochrony gruntów leśnych, PKP Polskie Linie Kolejowe Spółka Akcyjna przekazują na rachunek bankowy Funduszu, o którym mowa w ust. 1, po nabyciu przez spółkę prawa użytkowania wieczystego gruntów w danym obrębie ewidencji gruntów, w terminie do dnia 30 czerwca każdego roku. ” .
+**Art. 2.** W ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2004 r. Nr 121, poz. 1266, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 12, poz. 63, z 2007 r. Nr 75, poz. 493, Nr 80, poz. 541 i Nr 191, poz. 1374 oraz z 2008 r. Nr 237, poz. 1657.) w art. 5a ust. 2 otrzymuje brzmienie: „ 2. Należności oraz jednorazowe odszkodowania, w wysokości ustalonej przez organy właściwe w sprawach ochrony gruntów leśnych, PKP Polskie Linie Kolejowe Spółka Akcyjna przekazują na rachunek bankowy Funduszu, o którym mowa w ust. 1, po nabyciu przez spółkę prawa użytkowania wieczystego gruntów w danym obrębie ewidencji gruntów, w terminie do dnia 30 czerwca każdego roku. ” .
 
 **Art. 3.**
 
@@ -193,5 +192,5 @@ source: "eli-html"
 
 5. W przypadku, o którym mowa w ust. 4, nie stosuje się przepisu art. 9aa ustawy, o której mowa w art. 1.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374 oraz z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1086 i Nr 154, poz. 1802, z 2002 r. Nr 205, poz. 1730 i Nr 240, poz. 2055, z 2003 r. Nr 6, poz. 63, Nr 80, poz. 720 i Nr 203, poz. 1966, z 2004 r. Nr 96, poz. 959 i Nr 120, poz. 1252, z 2005 r. Nr 157, poz. 1315 i Nr 184, poz. 1539, z 2006 r. Nr 12, poz. 63 i Nr 157, poz. 1119 oraz z 2008 r. Nr 97, poz. 624, Nr 193, poz. 1196 i Nr 206, poz. 1289. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 69, poz. 626, z 2006 r. Nr 86, poz. 602, Nr 167, poz. 1193 i Nr 249, poz. 1833 oraz z 2007 r. Nr 128, poz. 902 i Nr 173, poz. 1218. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 12, poz. 63, z 2007 r. Nr 75, poz. 493, Nr 80, poz. 541 i Nr 191, poz. 1374, z 2008 r. Nr 237, poz. 1657 i Nr 1, poz. 3. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 12, poz. 63, z 2007 r. Nr 75, poz. 493, Nr 80, poz. 541 i Nr 191, poz. 1374 oraz z 2008 r. Nr 237, poz. 1657.
 

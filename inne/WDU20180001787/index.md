@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 12 września 2018 r. w sprawie kryteriów oceny programowej
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 12 września 2018 r. w sprawie kryteriów oceny programowej Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-12 |
 | Data wydania | 2018-09-18 |
-| Wejście w życie | 2018-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001787) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1787/text.pdf) |
 
@@ -51,6 +50,5 @@ dostępność i jakość informacji o studiach;
 10)
 sposoby doskonalenia jakości kształcenia i ich skuteczność.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 20 września 2016 r. w sprawie ogólnych kryteriów oceny programowej (Dz. U. poz. 1529), które traci moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669).
+Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 20 września 2016 r. w sprawie ogólnych kryteriów oceny programowej (Dz. U. poz. 1529), które traci moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669). 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 20 września 2016 r. w sprawie ogólnych kryteriów oceny programowej (Dz. U. poz. 1529), które traci moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669).
 

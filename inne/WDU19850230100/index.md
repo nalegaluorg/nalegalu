@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1985-05-10 |
 | Data wydania | 1985-05-20 |
-| Wejście w życie | 1985-07-01 |
 | Ostatnia zmiana | 2024-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19850230100) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1985/100/text.pdf) |
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 28 września 2020 r. w sprawie otrzymywania wyżywienia przez policjantów
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 28 września 2020 r. w sprawie otrzymywania wyżywienia przez policjantów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-28 |
 | Data wydania | 2020-09-29 |
-| Wejście w życie | 2020-10-01 |
 | Ostatnia zmiana | 2024-10-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001674) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1674/text.pdf) |
 
@@ -189,6 +188,5 @@ Policjantom pełniącym w okresie od dnia 1 listopada do dnia 31 marca służbę
 2.
 Wypłata świadczenia pieniężnego w zamian za wyżywienie następuje raz w miesiącu z dołu w terminie do ostatniego dnia miesiąca następującego po miesiącu, w którym zaistniała podstawa faktyczna do wypłaty świadczenia.
 § 16.
-Rozporządzenie wchodzi w życie z dniem 1 października 2020 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 12 września 2002 r. w sprawie przypadków otrzymywania przez policjanta wyżywienia oraz norm tego wyżywienia (Dz. U. poz. 1366 oraz z 2019 r. poz. 615 i 2516) oraz rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 12 września 2002 r. w sprawie przypadków otrzymywania przez policjanta równoważnika pieniężnego w zamian za wyżywienie oraz wysokości tego równoważnika (Dz. U. poz. 1367, z 2005 r. poz. 1293, z 2006 r. poz. 1104, z 2009 r. poz. 351 oraz z 2019 r. poz. 2562), które tracą moc z dniem wejścia w życie ustawy z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610).
+Rozporządzenie wchodzi w życie z dniem 1 października 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 12 września 2002 r. w sprawie przypadków otrzymywania przez policjanta wyżywienia oraz norm tego wyżywienia (Dz. U. poz. 1366 oraz z 2019 r. poz. 615 i 2516) oraz rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 12 września 2002 r. w sprawie przypadków otrzymywania przez policjanta równoważnika pieniężnego w zamian za wyżywienie oraz wysokości tego równoważnika (Dz. U. poz. 1367, z 2005 r. poz. 1293, z 2006 r. poz. 1104, z 2009 r. poz. 351 oraz z 2019 r. poz. 2562), które tracą moc z dniem wejścia w życie ustawy z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 12 września 2002 r. w sprawie przypadków otrzymywania przez policjanta wyżywienia oraz norm tego wyżywienia (Dz. U. poz. 1366 oraz z 2019 r. poz. 615 i 2516) oraz rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 12 września 2002 r. w sprawie przypadków otrzymywania przez policjanta równoważnika pieniężnego w zamian za wyżywienie oraz wysokości tego równoważnika (Dz. U. poz. 1367, z 2005 r. poz. 1293, z 2006 r. poz. 1104, z 2009 r. poz. 351 oraz z 2019 r. poz. 2562), które tracą moc z dniem wejścia w życie ustawy z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610).
 

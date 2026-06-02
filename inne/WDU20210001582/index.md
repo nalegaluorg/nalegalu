@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-23 |
 | Data wydania | 2021-08-27 |
-| Wejście w życie | 2021-09-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001582) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1582/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 149a § 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072 oraz z 2021 r. poz. 1080 i 1236) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 22 marca 2012 r. w sprawie przeprowadzania konkursu na stanowisko referendarza sądowego (Dz. U. z 2018 r. poz. 769) w § 3 w ust. 1 pkt 3 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Sprawiedliwości z dnia 22 marca 2012 r. w sprawie przeprowadzania konkursu na stanowisko referendarza sądowego (Dz. U. z 2018 r. poz. 769) w § 3 w ust. 1 pkt 3 otrzymuje brzmienie: „
 3)
-oryginał lub urzędowo poświadczony odpis dokumentu potwierdzającego uzyskanie pozytywnego wyniku z egzaminu sędziowskiego, prokuratorskiego, notarialnego, adwokackiego, radcowskiego lub referendarskiego albo oryginał lub urzędowo poświadczony odpis dyplomu ukończenia aplikacji ogólnej, aplikacji sędziowskiej lub aplikacji prokuratorskiej;
-” .
+oryginał lub urzędowo poświadczony odpis dokumentu potwierdzającego uzyskanie pozytywnego wyniku z egzaminu sędziowskiego, prokuratorskiego, notarialnego, adwokackiego, radcowskiego lub referendarskiego albo oryginał lub urzędowo poświadczony odpis dyplomu ukończenia aplikacji ogólnej, aplikacji sędziowskiej lub aplikacji prokuratorskiej; ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

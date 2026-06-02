@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Energiiz dnia 1 marca 2017 r. w sprawie metod badania jakości lekkiego oleju opałowego, ciężkiego oleju opałowego oraz oleju do silników statków żeglugi śródlądowej
+# Rozporządzenie Ministra Energiiz dnia 1 marca 2017 r. w sprawie metod badania jakości lekkiego oleju opałowego, ciężkiego oleju opałowego oraz oleju do silników statków żeglugi śródlądowej Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-01 |
 | Data wydania | 2017-03-20 |
-| Wejście w życie | 2017-04-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000584) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/584/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Metody badania jakości lekkiego oleju opałowego, ciężkiego oleju opałowego oraz oleju do silników statków żeglugi śródlądowej dotyczące zawartości siarki
 Treść rozporządzenia
-Na podstawie art. 26 pkt 5 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2016 r. poz. 1928 i 1948) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 25 października 2016 r. pod numerem 2016/572/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 26 pkt 5 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2016 r. poz. 1928 i 1948) zarządza się, co następuje:
 § 1.
 Metody badania jakości:
 1)
@@ -37,11 +36,9 @@ lekkiego oleju opałowego,
 2)
 ciężkiego oleju opałowego,
 3)
-oleju do silników statków żeglugi śródlądowej
-dotyczące zawartości siarki określa załącznik do rozporządzenia.
+oleju do silników statków żeglugi śródlądowej – dotyczące zawartości siarki określa załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 25 października 2016 r. pod numerem 2016/572/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 21 maja 2015 r. w sprawie metod badania jakości lekkiego oleju opałowego, ciężkiego oleju opałowego oraz oleju do silników statków żeglugi śródlądowej (Dz. U. poz. 740), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 32 ustawy z dnia 11 lutego 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 266 i 1592).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 21 maja 2015 r. w sprawie metod badania jakości lekkiego oleju opałowego, ciężkiego oleju opałowego oraz oleju do silników statków żeglugi śródlądowej (Dz. U. poz. 740), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 32 ustawy z dnia 11 lutego 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 266 i 1592). 1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 25 października 2016 r. pod numerem 2016/572/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 21 maja 2015 r. w sprawie metod badania jakości lekkiego oleju opałowego, ciężkiego oleju opałowego oraz oleju do silników statków żeglugi śródlądowej (Dz. U. poz. 740), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 32 ustawy z dnia 11 lutego 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 266 i 1592).
 Załącznik – Metody badania jakości lekkiego oleju opałowego, ciężkiego oleju opałowego oraz oleju do silników statków żeglugi śródlądowej dotyczące zawartości siarki
 1.
 Metodami badania zawartości siarki w lekkim oleju opałowym są:

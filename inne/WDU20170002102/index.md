@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 29 września 2017 r. o zmianie ustawy o nadzorze nad rynkiem finansowym oraz ustawy o działalności ubezpieczeniowej i reasekuracyjnej
+# Ustawa z dnia 29 września 2017 r. o zmianie ustawy o nadzorze nad rynkiem finansowym oraz ustawy o działalności ubezpieczeniowej i reasekuracyjnej Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1 oraz Dz. Urz. UE L 354 z 23.12.2016, str. 35).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-29 |
 | Data wydania | 2017-11-14 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002102) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2102/text.pdf) |
 
@@ -30,7 +29,7 @@ source: "eli-html"
 
 - **1)** po art. 3a dodaje się art. 3b i art. 3c w brzmieniu: „
 
-**Art. 3b.** Komisja jest właściwym organem w rozumieniu art. 4 pkt 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1286/2014”. 1. W przypadku naruszenia obowiązków, o których mowa w art. 5 ust. 1, art. 6, art. 7, art. 8 ust. 1–3, art. 9, art. 10 ust. 1, art. 13 ust. 1, 3 i 4 oraz art. 14 i art. 19 rozporządzenia nr 1286/2014, Komisja może, w drodze decyzji:
+**Art. 3b.** Komisja jest właściwym organem w rozumieniu art. 4 pkt 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 354 z 23.12.2016, str. 35., zwanego dalej „rozporządzeniem nr 1286/2014”. 1. W przypadku naruszenia obowiązków, o których mowa w art. 5 ust. 1, art. 6, art. 7, art. 8 ust. 1–3, art. 9, art. 10 ust. 1, art. 13 ust. 1, 3 i 4 oraz art. 14 i art. 19 rozporządzenia nr 1286/2014, Komisja może, w drodze decyzji:
 
 - **1)** zakazać proponowania detalicznego produktu zbiorowego inwestowania i ubezpieczeniowego produktu inwestycyjnego, o którym mowa w art. 4 pkt 3 rozporządzenia nr 1286/2014;
 - **2)** nakazać zawieszenie proponowania detalicznego produktu zbiorowego inwestowania i ubezpieczeniowego produktu inwestycyjnego, o którym mowa w art. 4 pkt 3 rozporządzenia nr 1286/2014;
@@ -65,10 +64,10 @@ source: "eli-html"
 - **1)** uchyla się ust. 1;
 - **2)** ust. 2 otrzymuje brzmienie: „
 
-2. Organ nadzoru wprowadza zakazy lub ograniczenia, o których mowa w art. 17 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1, z późn. zm.), w drodze decyzji. ” ;
+2. Organ nadzoru wprowadza zakazy lub ograniczenia, o których mowa w art. 17 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 354 z 23.12.2016, str. 35., w drodze decyzji. ” ;
 
 - **3)** dodaje się ust. 5 w brzmieniu: „
 
-5. Zakład ubezpieczeń wykonujący działalność na terytorium Rzeczypospolitej Polskiej przekazuje Komisji dokument zawierający kluczowe informacje w rozumieniu rozporządzenia wymienionego w ust. 2 co najmniej 30 dni przed rozpoczęciem proponowania tego dokumentu, a w przypadku jego aktualizacji – co najmniej 14 dni przed rozpoczęciem jego proponowania. ” . Ustawa wchodzi w życie z dniem 1 stycznia 2018 r.
+5. Zakład ubezpieczeń wykonujący działalność na terytorium Rzeczypospolitej Polskiej przekazuje Komisji dokument zawierający kluczowe informacje w rozumieniu rozporządzenia wymienionego w ust. 2 co najmniej 30 dni przed rozpoczęciem proponowania tego dokumentu, a w przypadku jego aktualizacji – co najmniej 14 dni przed rozpoczęciem jego proponowania. ” . Ustawa wchodzi w życie z dniem 1 stycznia 2018 r. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1 oraz Dz. Urz. UE L 354 z 23.12.2016, str. 35). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 354 z 23.12.2016, str. 35. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 354 z 23.12.2016, str. 35.
 
 

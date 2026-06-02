@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 kwietnia 2016 r. o zmianie ustawy o materiałach wybuchowych przeznaczonych do użytku cywilnego oraz niektórych innych ustaw
+# Ustawa z dnia 13 kwietnia 2016 r. o zmianie ustawy o materiałach wybuchowych przeznaczonych do użytku cywilnego oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża: – dyrektywę Parlamentu Europejskiego i Rady 2013/29/UE z dnia 12 czerwca 2013 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku wyrobów pirotechnicznych (Dz. Urz. UE L 178 z 28.06.2013, str. 27), – dyrektywę Parlamentu Europejskiego i Rady 2014/28/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku i kontroli materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. Urz. UE L 96 z 29.03.2014, str. 1), – dyrektywę wykonawczą Komisji 2014/58/UE z dnia 16 kwietnia 2014 r. ustanawiającą, zgodnie z dyrektywą 2007/23/WE Parlamentu Europejskiego i Rady, system identyfikowalności wyrobów pirotechnicznych (Dz. Urz. UE L 115 z 17.04.2014, str. 28).
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-04-13 |
 | Data wydania | 2016-04-19 |
-| Wejście w życie | 2016-04-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000544) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/544/text.pdf) |
 
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej oraz ustawę z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
+Obowiązki podmiotów gospodarczych związane z wprowadzaniem do obrotu lub udostępnianiem na rynku materiałów wybuchowych przeznaczonych do użytku cywilnego oraz wytwarzaniem materiałów wybuchowych metodą in situ
 1.
 Producent materiału wybuchowego przeznaczonego do użytku cywilnego, z wyjątkiem wytwarzanego materiału wybuchowego metodą in situ, jest obowiązany do:
 1)
@@ -165,6 +166,7 @@ Obowiązki, o których mowa w ust. 1 pkt 1, dystrybutor materiału wybuchowego p
 W przypadku gdy importer lub dystrybutor wprowadza materiał wybuchowy przeznaczony do użytku cywilnego pod własną nazwą lub znakiem towarowym, o ile taki posiada, lub modyfikuje materiał wybuchowy już znajdujący się w obrocie, w sposób mogący mieć wpływ na zgodność tego materiału z wymaganiami ustawy, podlega obowiązkom producenta, o których mowa w art. 62v.
 Na żądanie organów nadzoru rynku, o których mowa w art. 62zc, podmioty gospodarcze muszą udostępniać dane pozwalające zidentyfikować każdy podmiot gospodarczy, który im dostarczył, lub każdy podmiot, któremu dostarczyły materiał wybuchowy przeznaczony do użytku cywilnego, w przypadku, o którym mowa w art. 62v ust. 1 pkt 7 i 8. Informacje, o których mowa w zdaniu pierwszym, podmioty gospodarcze są obowiązane udostępniać w okresie 10 lat od dnia dostarczenia im lub dostarczenia przez te podmioty tego materiału.
 Przepisów niniejszego rozdziału nie stosuje się do wyrobów pirotechnicznych.
+Organy nadzoru rynku prowadzące kontrole i postępowania w sprawach materiałów wybuchowych przeznaczonych do użytku cywilnego
 1.
 Materiały wybuchowe przeznaczone do użytku cywilnego wprowadzone do obrotu podlegają kontroli organów nadzoru rynku wymienionych w ust. 2 w zakresie spełniania przez te materiały wymagań, o których mowa w ustawie.
 2.
@@ -182,6 +184,7 @@ Prezes Wyższego Urzędu Górniczego – w zakresie materiałów wybuchowych prz
 2)
 okręgowi inspektorzy pracy – w zakresie materiałów wybuchowych przeznaczonych do użytku cywilnego stosowanych poza górnictwem.
 Przepisów niniejszego rozdziału nie stosuje się do wyrobów pirotechnicznych.
+Obowiązki podmiotów gospodarczych związane z wprowadzaniem do obrotu lub udostępnianiem na rynku wyrobów pirotechnicznych
 1.
 Producent wyrobu pirotechnicznego jest obowiązany do:
 1)
@@ -307,6 +310,7 @@ nazwie i dacie targów, wystaw lub pokazów, podczas których te wyroby będą p
 2.
 Wyroby pirotechniczne, o których mowa w ust. 1, mogą być prezentowane lub używane na targach, wystawach lub pokazach, jeżeli zapewnione zostały odpowiednie środki bezpieczeństwa w celu uniknięcia zagrożeń dla życia i zdrowia ludzi oraz mienia lub środowiska związanych z prezentowaniem lub używaniem tych wyrobów.
 Wyroby pirotechniczne niezgodne z wymaganiami ustawy wytworzone na potrzeby działalności badawczo-rozwojowej i testów mogą być udostępniane na rynku i używane pod warunkiem wyraźnego oznakowania wskazującego na ich niezgodność oraz zakaz wykorzystywania do innych celów niż działalność badawczo-rozwojowa i testy.
+Organy nadzoru rynku prowadzące kontrole i postępowania w sprawach wyrobów pirotechnicznych
 1.
 Wyroby pirotechniczne wprowadzone do obrotu podlegają kontroli organów nadzoru rynku wymienionych w ust. 2 w zakresie spełniania przez te wyroby wymagań, o których mowa w ustawie.
 2.
@@ -323,6 +327,7 @@ Postępowania w sprawach wprowadzonych do obrotu wyrobów pirotechnicznych niezg
 Prezes Urzędu Ochrony Konkurencji i Konsumentów – w zakresie wyrobów pirotechnicznych klas F1-F4, T1 i P1;
 2)
 okręgowi inspektorzy pracy – w zakresie wyrobów pirotechnicznych klas F4, T1, T2, P1 i P2.
+Obowiązki jednostek notyfikowanych związane z przydzielaniem numerów rejestracyjnych identyfikujących wyroby pirotechniczne
 1.
 Jednostka notyfikowana przydziela numery rejestracyjne identyfikujące wyroby pirotechniczne ocenione pod względem zgodności z wymaganiami bezpieczeństwa, składające się z następujących elementów:
 1)
@@ -332,8 +337,7 @@ w procedurze badania typu UE (moduł B) – certyfikat badania typu UE albo
 b)
 w procedurze zgodności w oparciu o weryfikację jednostkową (moduł G) – certyfikat zgodności, albo
 c)
-w procedurze zgodności w oparciu o pełne zapewnienie jakości (moduł H) w zakresie dotyczącym wyrobów pirotechnicznych widowiskowych klasy F4 – zatwierdzenie systemu zapewnienia jakości
-o których mowa w przepisach wydanych na podstawie art. 2g ust. 2;
+w procedurze zgodności w oparciu o pełne zapewnienie jakości (moduł H) w zakresie dotyczącym wyrobów pirotechnicznych widowiskowych klasy F4 – zatwierdzenie systemu zapewnienia jakości – o których mowa w przepisach wydanych na podstawie art. 2g ust. 2;
 2)
 oznaczenia klasy wyrobu pirotechnicznego, którego dotyczy certyfikat zgodności, w skróconej formie (F1, F2, F3 i F4, T1 i T2, P1 i P2);
 3)
@@ -369,11 +373,10 @@ Informacje zawarte w rejestrze są przechowywane przez 10 lat od dnia wydania ce
 6.
 W przypadku, gdy jednostka notyfikowana utraci uprawnienia do oceny zgodności wyrobów pirotechnicznych, przekazuje rejestr, o którym mowa w ust. 3, innej jednostce notyfikowanej lub ministrowi właściwemu do spraw gospodarki.
 7.
-Przekazanie rejestru w przypadku, o którym mowa w ust. 6, następuje za pośrednictwem środków komunikacji elektronicznej, w formacie ustalonym z jednostką notyfikowaną lub ministrem właściwym do spraw gospodarki, które przejmą rejestr, po opatrzeniu bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu albo podpisem potwierdzonym profilem zaufanym ePUAP.
-” ;
+Przekazanie rejestru w przypadku, o którym mowa w ust. 6, następuje za pośrednictwem środków komunikacji elektronicznej, w formacie ustalonym z jednostką notyfikowaną lub ministrem właściwym do spraw gospodarki, które przejmą rejestr, po opatrzeniu bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu albo podpisem potwierdzonym profilem zaufanym ePUAP. ” ;
 30)
-art. 63 otrzymuje brzmienie:
-„
+art. 63 otrzymuje brzmienie: „
+Kary pieniężne
 
 **Art. 1.** W ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2015 r. poz. 1100 i 1893) wprowadza się następujące zmiany:
 
@@ -397,7 +400,7 @@ art. 63 otrzymuje brzmienie:
 
 **Art. 2a.** Przepisów rozdziałów 5d-5f nie stosuje się do:
 
-- **1)** wyrobów pirotechnicznych przeznaczonych do niehandlowego wykorzystania w realizacji zadań: Sił Zbrojnych Rzeczypospolitej Polskiej, o których mowa w art. 3 ust. 1–2b ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 827, z późn. zm.), Policji, o których mowa w art. 1 ust. 2 i 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2015 r. poz. 355, z późn. zm.), Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, o których mowa w art. 5 i art. 6 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2015 r. poz. 1929 i 2023 oraz z 2016 r. poz. 147 i 437), Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, o których mowa w art. 5 i art. 6 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 253, z późn. zm.), Centralnego Biura Antykorupcyjnego, o których mowa w art. 2 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2014 r. poz. 1411, z późn. zm.), Biura Ochrony Rządu, o których mowa w art. 2 ust. 1 ustawy z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz. U. z 2014 r. poz. 170, z późn. zm.), Straży Granicznej, o których mowa w art. 1 ust. 2–2b ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2014 r. poz. 1402, z późn. zm.), Służby Celnej, o których mowa w art. 2 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2015 r. poz. 990, z późn. zm.), Służby Więziennej, o których mowa w art. 2 ust. 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2014 r. poz. 1415, z późn. zm.), Państwowej Straży Pożarnej, o których mowa w art. 1 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.);
+- **1)** wyrobów pirotechnicznych przeznaczonych do niehandlowego wykorzystania w realizacji zadań: Sił Zbrojnych Rzeczypospolitej Polskiej, o których mowa w art. 3 ust. 1–2b ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 827, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1220, 1224, 1830, 2183 i 2281 oraz z 2016 r. poz. 178.), Policji, o których mowa w art. 1 ust. 2 i 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2015 r. poz. 355, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 529, 1045, 1066, 1217, 1268, 1890, 2023 i 2281 oraz z 2016 r. poz. 147 i 437.), Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, o których mowa w art. 5 i art. 6 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2015 r. poz. 1929 i 2023 oraz z 2016 r. poz. 147 i 437), Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, o których mowa w art. 5 i art. 6 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 253, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 502 i 1055, z 2015 r. poz. 1066 i 1224 oraz z 2016 r. poz. 147 i 437.), Centralnego Biura Antykorupcyjnego, o których mowa w art. 2 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2014 r. poz. 1411, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822, z 2015 r. poz. 1066, 1217, 1224, 1268 i 2023 oraz z 2016 r. poz. 147 i 437.), Biura Ochrony Rządu, o których mowa w art. 2 ust. 1 ustawy z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz. U. z 2014 r. poz. 170, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 502, 616 i 1822 oraz z 2015 r. poz. 1066, 1217, 1268 i 1322.), Straży Granicznej, o których mowa w art. 1 ust. 2–2b ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2014 r. poz. 1402, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822, z 2015 r. poz. 529, 1045, 1066, 1217, 1268, 1322, 1336, 1607, 1642, 1830, 1890, 2023 i 2281 oraz z 2016 r. poz. 147 i 437.), Służby Celnej, o których mowa w art. 2 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2015 r. poz. 990, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1045, 1217, 1268, 1269, 1479, 1642, 1830, 1890 i 2023 oraz z 2016 r. poz. 147.), Służby Więziennej, o których mowa w art. 2 ust. 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2014 r. poz. 1415, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822 oraz z 2015 r. poz. 529, 928, 1066, 1217, 1268 i 1830.), Państwowej Straży Pożarnej, o których mowa w art. 1 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351, z 2014 r. poz. 502, 616 i 1822 oraz z 2015 r. poz. 881, 1045, 1066, 1098, 1217, 1268, 1434, 1505 i 1890.);
     - **a)**
     - **b)**
     - **c)**
@@ -457,7 +460,7 @@ art. 63 otrzymuje brzmienie:
 - **1)** wymagania bezpieczeństwa dotyczące projektowania i wytwarzania tych materiałów,
 - **2)** procedury oceny zgodności tych materiałów z zastosowaniem modułów w tych procedurach,
 - **3)** zakres dokumentacji technicznej tych materiałów,
-- **4)** elementy deklaracji zgodności dla tych materiałów uwzględniając w szczególności rodzaj i stopień zagrożeń stwarzanych przez te materiały, potrzebę zapewnienia identyfikacji i identyfikowalności tych materiałów oraz potrzebę zapewnienia użytkownikom tych materiałów informacji niezbędnych dla ich bezpiecznego użytkowania.
+- **4)** elementy deklaracji zgodności dla tych materiałów – uwzględniając w szczególności rodzaj i stopień zagrożeń stwarzanych przez te materiały, potrzebę zapewnienia identyfikacji i identyfikowalności tych materiałów oraz potrzebę zapewnienia użytkownikom tych materiałów informacji niezbędnych dla ich bezpiecznego użytkowania.
 
 2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, w odniesieniu do wyrobów pirotechnicznych:
 
@@ -465,7 +468,7 @@ art. 63 otrzymuje brzmienie:
 - **2)** procedury oceny zgodności tych wyrobów z zastosowaniem modułów w tych procedurach,
 - **3)** zakres dokumentacji technicznej tych wyrobów,
 - **4)** wymagania dla etykiet umieszczanych na tych wyrobach,
-- **5)** elementy deklaracji zgodności dla tych wyrobów uwzględniając w szczególności rodzaj i stopień zagrożeń stwarzanych przez te wyroby, potrzebę zapewnienia identyfikowalności tych wyrobów oraz potrzebę zapewnienia użytkownikom tych wyrobów informacji niezbędnych dla ich bezpiecznego użytkowania. ” ;
+- **5)** elementy deklaracji zgodności dla tych wyrobów – uwzględniając w szczególności rodzaj i stopień zagrożeń stwarzanych przez te wyroby, potrzebę zapewnienia identyfikowalności tych wyrobów oraz potrzebę zapewnienia użytkownikom tych wyrobów informacji niezbędnych dla ich bezpiecznego użytkowania. ” ;
 - **4)** art. 3 otrzymuje brzmienie: „
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
@@ -475,7 +478,7 @@ art. 63 otrzymuje brzmienie:
 - **3)** dokumencie wewnątrzwspólnotowego przemieszczania materiałów wybuchowych – należy przez to rozumieć dokument, o którym mowa w decyzji Komisji Europejskiej 2004/388/WE z dnia 15 kwietnia 2004 r. w sprawie dokumentu wewnątrzwspólnotowego przemieszczenia materiałów wybuchowych (Dz. Urz. UE L 120 z 24.04.2004, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 135);
 - **4)** dystrybutorze – należy przez to rozumieć osobę fizyczną albo prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, działającą w łańcuchu dostaw, niebędącą producentem ani importerem, która udostępnia materiały wybuchowe przeznaczone do użytku cywilnego, w tym wyroby pirotechniczne, na rynku;
 - **5)** grupach zgodności – należy przez to rozumieć oznaczone literowo grupy zgodności materiałów i przedmiotów wybuchowych, określone w załączniku A;
-- **6)** importerze – należy przez to rozumieć: osobę fizyczną mającą miejsce zamieszkania albo osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, która wprowadza do obrotu materiał wybuchowy przeznaczony do użytku cywilnego, w tym wyrób pirotechniczny, pochodzący z państwa trzeciego;
+- **6)** importerze – należy przez to rozumieć: osobę fizyczną mającą miejsce zamieszkania albo osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę – na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, która wprowadza do obrotu materiał wybuchowy przeznaczony do użytku cywilnego, w tym wyrób pirotechniczny, pochodzący z państwa trzeciego;
     - **a)**
     - **b)**
 
@@ -487,13 +490,13 @@ art. 63 otrzymuje brzmienie:
 - **12)** normie zharmonizowanej – należy przez to rozumieć normę zharmonizowaną w rozumieniu art. 2 pkt 1 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1025/2012 z dnia 25 października 2012 r. w sprawie normalizacji europejskiej, zmieniającego dyrektywy Rady 89/686/EWG i 93/15/EWG oraz dyrektywy Parlamentu Europejskiego i Rady 94/9/WE, 94/25/WE, 95/16/WE, 97/23/WE, 98/34/WE, 2004/22/WE, 2007/23/WE, 2009/23/WE i 2009/105/WE oraz uchylającego decyzję Rady 87/95/EWG i decyzję Parlamentu Europejskiego i Rady nr 1673/2006/WE (Dz. Urz. UE L 316 z 14.11.2012, str. 12), której tytuł i numer zostały opublikowane w Dzienniku Urzędowym Unii Europejskiej;
 - **13)** ocenie zgodności – należy przez to rozumieć proces wykazujący, że zostały spełnione wymagania bezpieczeństwa dotyczące materiałów wybuchowych przeznaczonych do użytku cywilnego albo wyrobów pirotechnicznych;
 - **14)** oczyszczaniu terenów – należy przez to rozumieć działalność gospodarczą obejmującą poszukiwanie materiałów wybuchowych, wydobycie, zabezpieczenie, zniszczenie albo unieszkodliwienie znalezionych materiałów wybuchowych na lądzie lub wodach śródlądowych, lub obszarach morskich;
-- **15)** odbiorcy – należy przez to rozumieć: osobę fizyczną mającą miejsce zamieszkania albo osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, która odbiera materiały wybuchowe przeznaczone do użytku cywilnego, w tym amunicję, z wyłączeniem wyrobów pirotechnicznych;
+- **15)** odbiorcy – należy przez to rozumieć: osobę fizyczną mającą miejsce zamieszkania albo osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę – na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, która odbiera materiały wybuchowe przeznaczone do użytku cywilnego, w tym amunicję, z wyłączeniem wyrobów pirotechnicznych;
     - **a)**
     - **b)**
 
 - **16)** odzyskaniu – należy przez to rozumieć doprowadzenie do zwrotu materiału wybuchowego przeznaczonego do użytku cywilnego, w tym wyrobu pirotechnicznego, który został udostępniony użytkownikowi końcowemu;
 - **17)** organach nadzoru rynku – należy przez to rozumieć organy nadzoru rynku w rozumieniu ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku;
-- **18)** osobie zagranicznej – należy przez to rozumieć osobę zagraniczną, o której mowa w art. 5 pkt 2 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.);
+- **18)** osobie zagranicznej – należy przez to rozumieć osobę zagraniczną, o której mowa w art. 5 pkt 2 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65 i 352.);
 - **19)** oznakowaniu CE – należy przez to rozumieć oznakowanie CE w rozumieniu art. 2 pkt 20 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30), zwanego dalej „rozporządzeniem (WE) nr 765/2008”;
 - **20)** plastycznych materiałach wybuchowych – należy przez to rozumieć materiały wybuchowe w giętkiej lub elastycznej prasowanej postaci, których opis jest przedstawiony w części 1 ust. 1 „Opis materiałów wybuchowych” załącznika technicznego do Konwencji;
 - **21)** podklasach materiałów i przedmiotów niebezpiecznych – należy przez to rozumieć wydzielone w klasie 1 materiałów niebezpiecznych podklasy materiałów i przedmiotów wybuchowych o podobnym zachowaniu się przy spalaniu, deflagracji lub detonacji, określone w załączniku A;
@@ -508,7 +511,7 @@ art. 63 otrzymuje brzmienie:
 - **27)** udostępnieniu na rynku – należy przez to rozumieć dostarczenie w ramach działalności gospodarczej, odpłatnie lub nieodpłatnie, materiału wybuchowego przeznaczonego do użytku cywilnego, w tym wyrobu pirotechnicznego, w celu dystrybucji lub używania na terytorium państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej;
 - **28)** umowie ADR – należy przez to rozumieć Umowę europejską dotyczącą międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzoną w Genewie dnia 30 września 1957 r. (Dz. U. z 2015 r. poz. 882);
 - **29)** unijnym prawodawstwie harmonizacyjnym – należy przez to rozumieć prawodawstwo, o którym mowa w art. 2 pkt 21 rozporządzenia (WE) nr 765/2008;
-- **30)** upoważnionym przedstawicielu – należy przez to rozumieć: osobę fizyczną mającą miejsce zamieszkania albo osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, posiadającą pisemne pełnomocnictwo od producenta materiałów wybuchowych przeznaczonych do użytku cywilnego do działania w jego imieniu w określonym zakresie;
+- **30)** upoważnionym przedstawicielu – należy przez to rozumieć: osobę fizyczną mającą miejsce zamieszkania albo osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę – na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, posiadającą pisemne pełnomocnictwo od producenta materiałów wybuchowych przeznaczonych do użytku cywilnego do działania w jego imieniu w określonym zakresie;
     - **a)**
     - **b)**
 
@@ -539,8 +542,11 @@ art. 63 otrzymuje brzmienie:
 
 3a. Przedsiębiorca może wytwarzać materiały wybuchowe metodą in situ bez uzyskania pozwolenia, jeżeli posiada koncesję na wytwarzanie materiałów wybuchowych lub obrót tymi materiałami i zatrudnia osoby spełniające wymagania, o których mowa w art. 19, w zakresie dostępu do materiałów wybuchowych przeznaczonych do użytku cywilnego. ” ;
 
-- **8)** w art. 14: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) dane osobowe przedsiębiorcy, o którym mowa w art. 11 ust. 1 pkt 1, w przypadku przedsiębiorcy, o którym mowa w art. 11 ust. 1 pkt 2, albo jednostki naukowej – członków organu zarządzającego, prokurentów i pełnomocników, zawierające imię i nazwisko, datę i miejsce urodzenia i numer PESEL, a w przypadku osoby posiadającej obywatelstwo innego państwa – serię i numer paszportu oraz adres miejsca zamieszkania; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 4a w brzmieniu: „ 4a) określenie rodzaju i ilości wytwarzanych materiałów wybuchowych metodą in situ . ” , ust. 5 otrzymuje brzmienie: „
+- **8)** w art. 14: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** dane osobowe przedsiębiorcy, o którym mowa w art. 11 ust. 1 pkt 1, w przypadku przedsiębiorcy, o którym mowa w art. 11 ust. 1 pkt 2, albo jednostki naukowej – członków organu zarządzającego, prokurentów i pełnomocników, zawierające imię i nazwisko, datę i miejsce urodzenia i numer PESEL, a w przypadku osoby posiadającej obywatelstwo innego państwa – serię i numer paszportu oraz adres miejsca zamieszkania; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 4a w brzmieniu: „
+- **4a)** określenie rodzaju i ilości wytwarzanych materiałów wybuchowych metodą in situ . ” , ust. 5 otrzymuje brzmienie: „
     - **b)**
 
 5. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wzór wniosku o wydanie pozwolenia, uwzględniając obowiązek zawarcia w nim informacji, o których mowa w ust. 1, oraz mając na celu ujednolicenie i ułatwienie poprawnego sporządzenia wniosku. ” ;
@@ -731,15 +737,15 @@ art. 63 otrzymuje brzmienie:
 - **28)** uchyla się art. 62d-62u;
 - **29)** po rozdziale 5a dodaje się rozdziały 5b-5f w brzmieniu: „
 
-#### Rozdział 5b Obowiązki podmiotów gospodarczych związane z wprowadzaniem do obrotu lub udostępnianiem na rynku materiałów wybuchowych przeznaczonych do użytku cywilnego oraz wytwarzaniem materiałów wybuchowych metodą in situ
+#### Rozdział 5b
 
-#### Rozdział 5c Organy nadzoru rynku prowadzące kontrole i postępowania w sprawach materiałów wybuchowych przeznaczonych do użytku cywilnego
+#### Rozdział 5c
 
-#### Rozdział 5d Obowiązki podmiotów gospodarczych związane z wprowadzaniem do obrotu lub udostępnianiem na rynku wyrobów pirotechnicznych
+#### Rozdział 5d
 
-#### Rozdział 5e Organy nadzoru rynku prowadzące kontrole i postępowania w sprawach wyrobów pirotechnicznych
+#### Rozdział 5e
 
-#### Rozdział 5f Obowiązki jednostek notyfikowanych związane z przydzielaniem numerów rejestracyjnych identyfikujących wyroby pirotechniczne
+#### Rozdział 5f
 
 **Art. 63.**
 
@@ -780,18 +786,18 @@ art. 63 otrzymuje brzmienie:
 
 - **34)** po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „
 
-#### Rozdział 6a Kary pieniężne
+#### Rozdział 6a
 
 **Art. 65a.** Producent albo importer, który udostępnia na rynku wyroby pirotechniczne klasy P1 do pojazdów, z wyjątkiem takich wyrobów zamontowanych w pojeździe lub stanowiących części zamienne do pojazdu, podlega karze pieniężnej w wysokości do 20 000 zł. 1. Producent albo importer, który wprowadza do obrotu materiał wybuchowy przeznaczony do użytku cywilnego lub wyrób pirotechniczny, niezgodny z wymaganiami bezpieczeństwa, albo dystrybutor, który udostępnia na rynku ten materiał lub wyrób, niezgodny z wymaganiami bezpieczeństwa, podlega karze pieniężnej w wysokości do 100 000 zł. 2. Producent albo importer, który wprowadza do obrotu materiał wybuchowy przeznaczony do użytku cywilnego lub wyrób pirotechniczny, niezgodny z wymaganiami bezpieczeństwa, z umieszczonym oznakowaniem CE, albo dystrybutor, który udostępnia na rynku ten materiał lub wyrób, niezgodny z wymaganiami bezpieczeństwa, z umieszczonym oznakowaniem CE, podlega karze pieniężnej w wysokości do 120 000 zł. 3. Producent wytwarzanego materiału wybuchowego metodą in situ , który nie zapewnia wytworzenia tego materiału zgodnie z wymaganiami bezpieczeństwa, podlega karze pieniężnej w wysokości do 100 000 zł. 1. Producent albo importer, który wprowadza do obrotu materiał wybuchowy przeznaczony do użytku cywilnego lub wyrób pirotechniczny, zgodny z wymaganiami bezpieczeństwa, bez oznakowania CE, albo dystrybutor, który udostępnia na rynku ten materiał lub wyrób, zgodny z wymaganiami bezpieczeństwa, bez oznakowania CE, podlega karze pieniężnej w wysokości do 20 000 zł. 2. Producent, który wytwarza materiał wybuchowy metodą in situ zgodny z wymaganiami bezpieczeństwa, bez umieszczenia oznakowania CE na dokumentach towarzyszących, podlega karze pieniężnej w wysokości do 20 000 zł. 1. Producent wprowadzonego do obrotu materiału wybuchowego przeznaczonego do użytku cywilnego, który nie dopełnia obowiązków w zakresie dołączenia do tego materiału instrukcji obsługi lub informacji dotyczących bezpieczeństwa, sporządzonych w jasnej, zrozumiałej i czytelnej formie, w języku polskim, podlega karze pieniężnej w wysokości do 10 000 zł. 2. Producent wytwarzanego materiału wybuchowego metodą in situ , który nie dopełnia obowiązków w zakresie dołączenia do tego materiału instrukcji obsługi lub informacji dotyczących bezpieczeństwa, sporządzonych w jasnej, zrozumiałej i czytelnej formie, w języku polskim, podlega karze pieniężnej w wysokości do 10 000 zł. 3. Importer wprowadzonego do obrotu materiału wybuchowego przeznaczonego do użytku cywilnego, który nie dopełnia obowiązków w zakresie zapewnienia, że do tego materiału dołączono instrukcję obsługi lub informację dotyczącą bezpieczeństwa, w języku polskim, podlega karze pieniężnej w wysokości do 10 000 zł. 4. Dystrybutor udostępnionego na rynku materiału wybuchowego przeznaczonego do użytku cywilnego, który nie dopełnia obowiązków w zakresie sprawdzenia, że do tego materiału dołączono instrukcję obsługi lub informację dotyczącą bezpieczeństwa, w języku polskim, podlega karze pieniężnej w wysokości do 10 000 zł. 1. Producent wprowadzonego do obrotu wyrobu pirotechnicznego, który nie dopełnia obowiązków w zakresie umieszczenia na tym wyrobie etykiety spełniającej wymagania ustawy, a gdy nie jest to możliwe, umieszczenia informacji, które powinny znajdować się na etykiecie, na opakowaniu jednostkowym lub na dokumentach towarzyszących, podlega karze pieniężnej w wysokości do 10 000 zł. 2. Importer wprowadzonego do obrotu wyrobu pirotechnicznego, który nie dopełnia obowiązków w zakresie zapewnienia, że na tym wyrobie umieszczona została etykieta spełniająca wymagania ustawy, a gdy nie jest to możliwe, że informacje, które powinny znajdować się na etykiecie, zostały umieszczone na opakowaniu jednostkowym lub na dokumentach towarzyszących, podlega karze pieniężnej w wysokości do 10 000 zł. 3. Dystrybutor udostępnionego na rynku wyrobu pirotechnicznego, który nie dopełnia obowiązków w zakresie sprawdzenia, że na tym wyrobie została umieszczona etykieta spełniająca wymagania ustawy, a gdy nie jest to możliwe, że informacje, które powinny znajdować się na etykiecie, zostały umieszczone na opakowaniu jednostkowym lub na dokumentach towarzyszących, podlega karze pieniężnej w wysokości do 10 000 zł. 1. Producent materiału wybuchowego przeznaczonego do użytku cywilnego, wytwarzanego materiału wybuchowego metodą in situ lub wyrobu pirotechnicznego, który nie dopełnia obowiązków w zakresie sporządzenia i przechowywania:
 
 - **1)** dokumentacji technicznej dotyczącej tego materiału lub wyrobu lub
-- **2)** deklaracji zgodności dotyczącej tego materiału lub wyrobu podlega karze pieniężnej w wysokości do 10 000 zł.
+- **2)** deklaracji zgodności dotyczącej tego materiału lub wyrobu – podlega karze pieniężnej w wysokości do 10 000 zł.
 
 2. Importer materiału wybuchowego przeznaczonego do użytku cywilnego lub wyrobu pirotechnicznego, który nie dopełnia obowiązków w zakresie:
 
 - **1)** zapewnienia sporządzenia przez producenta dokumentacji technicznej tego materiału lub wyrobu lub
 - **2)** przechowywania kopii deklaracji zgodności tego materiału lub wyrobu, lub
-- **3)** zapewnienia dostępności dokumentacji technicznej tego materiału lub wyrobu podlega karze pieniężnej w wysokości do 10 000 zł. Upoważniony przedstawiciel producenta materiału wybuchowego przeznaczonego do użytku cywilnego lub wytwarzanego materiału wybuchowego metodą in situ , który nie dopełnia obowiązków w zakresie przechowywania deklaracji zgodności lub dokumentacji technicznej tego materiału, podlega karze pieniężnej w wysokości do 10 000 zł.
+- **3)** zapewnienia dostępności dokumentacji technicznej tego materiału lub wyrobu – podlega karze pieniężnej w wysokości do 10 000 zł. Upoważniony przedstawiciel producenta materiału wybuchowego przeznaczonego do użytku cywilnego lub wytwarzanego materiału wybuchowego metodą in situ , który nie dopełnia obowiązków w zakresie przechowywania deklaracji zgodności lub dokumentacji technicznej tego materiału, podlega karze pieniężnej w wysokości do 10 000 zł.
 
 1. Kary pieniężne, o których mowa w art. 65a-65g, nakłada, w drodze decyzji, organ nadzoru rynku, o którym mowa w art. 62zc ust. 4 oraz art. 62zl ust. 4, prowadzący postępowanie w sprawie materiałów wybuchowych przeznaczonych do użytku cywilnego lub wyrobów pirotechnicznych.
 
@@ -820,7 +826,7 @@ art. 63 otrzymuje brzmienie:
 
 1. Środki finansowe pochodzące z kar pieniężnych stanowią dochód budżetu państwa.
 
-2. Do kar pieniężnych, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm.).
+2. Do kar pieniężnych, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184 oraz z 2016 r. poz. 195.).
 
 3. Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym. ” ;
 
@@ -836,10 +842,10 @@ art. 63 otrzymuje brzmienie:
 2. W przypadku gdy przedsiębiorca wykonujący działalność gospodarczą w zakresie obrotu materiałami wybuchowymi przeznaczonymi do użytku cywilnego:
 
 - **1)** wprowadza do obrotu materiał wybuchowy przeznaczony do użytku cywilnego oznaczony jednoznacznym oznaczeniem pod swoją nazwą lub znakiem towarowym, o ile taki posiada, lub
-- **2)** modyfikuje materiał wybuchowy przeznaczony do użytku cywilnego znajdujący się w obrocie w takim stopniu, iż może mieć to wpływ na spełnienie przez ten materiał wymagań bezpieczeństwa przejmuje na siebie obowiązki wytwórcy materiałów wybuchowych przeznaczonych do użytku cywilnego wskazane w art. 23a oraz obowiązki producenta wskazane w art. 62v ustawy, o której mowa w art. 6 ust. 2 pkt 1. ” . W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2015 r. poz. 1212, 1844 i 1855 oraz z 2016 r. poz. 437) w art. 16 w ust. 1 w pkt 1 dodaje się lit. j w brzmieniu: „ art. 63–63c ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2015 r. poz. 1100 i 1893 oraz z 2016 r. poz. 544). ” .
+- **2)** modyfikuje materiał wybuchowy przeznaczony do użytku cywilnego znajdujący się w obrocie w takim stopniu, iż może mieć to wpływ na spełnienie przez ten materiał wymagań bezpieczeństwa – przejmuje na siebie obowiązki wytwórcy materiałów wybuchowych przeznaczonych do użytku cywilnego wskazane w art. 23a oraz obowiązki producenta wskazane w art. 62v ustawy, o której mowa w art. 6 ust. 2 pkt 1. ” . W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2015 r. poz. 1212, 1844 i 1855 oraz z 2016 r. poz. 437) w art. 16 w ust. 1 w pkt 1 dodaje się lit. j w brzmieniu: „ art. 63–63c ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2015 r. poz. 1100 i 1893 oraz z 2016 r. poz. 544). ” .
     - **j)**
 
-**Art. 4.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2015 r. poz. 783, z późn. zm.) w części III załącznika do ustawy w kolumnie 2 ust. 43 otrzymuje brzmienie: „ 43. Pozwolenie na nabywanie, przechowywanie, używanie materiałów wybuchowych przeznaczonych do użytku cywilnego lub wytwarzanie materiałów wybuchowych metodą in situ , na potrzeby działalności regulowanej na podstawie przepisów ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze. ” .
+**Art. 4.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2015 r. poz. 783, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1358, 1607, 1649, 1844 i 1893 oraz z 2016 r. poz. 65 i 195.) w części III załącznika do ustawy w kolumnie 2 ust. 43 otrzymuje brzmienie: „ 43. Pozwolenie na nabywanie, przechowywanie, używanie materiałów wybuchowych przeznaczonych do użytku cywilnego lub wytwarzanie materiałów wybuchowych metodą in situ , na potrzeby działalności regulowanej na podstawie przepisów ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze. ” .
 
 **Art. 5.** W ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2015 r. poz. 196, 1272 i 1505 oraz z 2016 r. poz. 266 i 542) w art. 115 w ust. 7 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
 
@@ -875,5 +881,5 @@ art. 63 otrzymuje brzmienie:
 
 **Art. 11.** Przepis art. 62zm ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się od dnia 17 października 2016 r.
 
-**Art. 12.** Ustawa wchodzi w życie z dniem 20 kwietnia 2016 r.
+**Art. 12.** Ustawa wchodzi w życie z dniem 20 kwietnia 2016 r. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża: – dyrektywę Parlamentu Europejskiego i Rady 2013/29/UE z dnia 12 czerwca 2013 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku wyrobów pirotechnicznych (Dz. Urz. UE L 178 z 28.06.2013, str. 27), – dyrektywę Parlamentu Europejskiego i Rady 2014/28/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku i kontroli materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. Urz. UE L 96 z 29.03.2014, str. 1), – dyrektywę wykonawczą Komisji 2014/58/UE z dnia 16 kwietnia 2014 r. ustanawiającą, zgodnie z dyrektywą 2007/23/WE Parlamentu Europejskiego i Rady, system identyfikowalności wyrobów pirotechnicznych (Dz. Urz. UE L 115 z 17.04.2014, str. 28). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej oraz ustawę z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1220, 1224, 1830, 2183 i 2281 oraz z 2016 r. poz. 178. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 529, 1045, 1066, 1217, 1268, 1890, 2023 i 2281 oraz z 2016 r. poz. 147 i 437. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 502 i 1055, z 2015 r. poz. 1066 i 1224 oraz z 2016 r. poz. 147 i 437. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822, z 2015 r. poz. 1066, 1217, 1224, 1268 i 2023 oraz z 2016 r. poz. 147 i 437. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 502, 616 i 1822 oraz z 2015 r. poz. 1066, 1217, 1268 i 1322. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822, z 2015 r. poz. 529, 1045, 1066, 1217, 1268, 1322, 1336, 1607, 1642, 1830, 1890, 2023 i 2281 oraz z 2016 r. poz. 147 i 437. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1045, 1217, 1268, 1269, 1479, 1642, 1830, 1890 i 2023 oraz z 2016 r. poz. 147. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822 oraz z 2015 r. poz. 529, 928, 1066, 1217, 1268 i 1830. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351, z 2014 r. poz. 502, 616 i 1822 oraz z 2015 r. poz. 881, 1045, 1066, 1098, 1217, 1268, 1434, 1505 i 1890. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65 i 352. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184 oraz z 2016 r. poz. 195. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1358, 1607, 1649, 1844 i 1893 oraz z 2016 r. poz. 65 i 195.
 

@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-23 |
 | Data wydania | 2017-07-20 |
-| Wejście w życie | 2017-08-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001395) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1395/text.pdf) |
 
-Treść rozporządzenia § 1. § 2.
+Treść rozporządzenia
+§ 1.
+§ 2.
 
 ## Załącznik nr 1 — – Minimalny skład ekipy wykonującej podwodne działania bojowe
 
@@ -51,65 +52,49 @@ W rozporządzeniu Ministra Obrony Narodowej z dnia 21 czerwca 2012 r. w sprawie 
 1)
 w § 2:
 a)
-po pkt 6 dodaje się pkt 6a w brzmieniu:
-„
+po pkt 6 dodaje się pkt 6a w brzmieniu: „
 6a)
-nurkowanie powtarzalne – nurkowanie, które charakteryzuje się tym, że przerwa między zakończeniem jednej ekspozycji a rozpoczęciem następnej jest krótsza niż 2 godziny;
-” ,
+nurkowanie powtarzalne – nurkowanie, które charakteryzuje się tym, że przerwa między zakończeniem jednej ekspozycji a rozpoczęciem następnej jest krótsza niż 2 godziny; ” ,
 b)
-w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu:
-„
+w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
 9)
-podwodne działania bojowe – prace podwodne wykonywane w ramach operacji wojskowych, szkolenia prowadzonego w tym zakresie oraz szkolenia specjalistycznego w celu uzyskania wojskowych kwalifikacji nurkowych, realizowane w dzień i w nocy, z uwzględnieniem bezpieczeństwa nurków oraz możliwości technicznego zabezpieczenia ich pracy przez użycie adekwatnych sił i środków.
-” ;
+podwodne działania bojowe – prace podwodne wykonywane w ramach operacji wojskowych, szkolenia prowadzonego w tym zakresie oraz szkolenia specjalistycznego w celu uzyskania wojskowych kwalifikacji nurkowych, realizowane w dzień i w nocy, z uwzględnieniem bezpieczeństwa nurków oraz możliwości technicznego zabezpieczenia ich pracy przez użycie adekwatnych sił i środków. ” ;
 2)
 w § 23 w ust. 1:
 a)
-po pkt 1 dodaje się pkt 1a w brzmieniu:
-„
+po pkt 1 dodaje się pkt 1a w brzmieniu: „
 1a)
-termin napełnienia butli;
-” ,
+termin napełnienia butli; ” ,
 b)
 uchyla się pkt 4;
 3)
-w § 25 ust. 4 otrzymuje brzmienie:
-„
+w § 25 ust. 4 otrzymuje brzmienie: „
 4.
-Dozwolone ciśnienia cząstkowe i czasy ekspozycji w przypadku prac podwodnych wykonywanych z użyciem tlenu (mieszanin wzbogaconych w tlen) są określone w tabeli 1 załącznika nr 11 do rozporządzenia.
-” ;
+Dozwolone ciśnienia cząstkowe i czasy ekspozycji w przypadku prac podwodnych wykonywanych z użyciem tlenu (mieszanin wzbogaconych w tlen) są określone w tabeli 1 załącznika nr 11 do rozporządzenia. ” ;
 4)
 w § 28 uchyla się ust. 2;
 5)
 w § 36:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Przeglądu urządzeń technicznych dokonuje członek ekipy posiadający odpowiednie kwalifikacje lub przeszkolenie w tym zakresie, a następnie melduje o tym kierownikowi.
-” ,
+Przeglądu urządzeń technicznych dokonuje członek ekipy posiadający odpowiednie kwalifikacje lub przeszkolenie w tym zakresie, a następnie melduje o tym kierownikowi. ” ,
 b)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-Sprawdzenie poprawności działania sprzętu przed rozpoczęciem prac odbywa się w obecności kierownika lub wyznaczonego przez niego członka ekipy posiadającego co najmniej kwalifikacje starszego nurka.
-” ;
+Sprawdzenie poprawności działania sprzętu przed rozpoczęciem prac odbywa się w obecności kierownika lub wyznaczonego przez niego członka ekipy posiadającego co najmniej kwalifikacje starszego nurka. ” ;
 6)
-w § 39 ust. 2 otrzymuje brzmienie:
-„
+w § 39 ust. 2 otrzymuje brzmienie: „
 2.
-W przypadku zaistnienia wypadku nurkowego decyzję dotyczącą transportu lotniczego osoby, która wykonywała prace podwodne, podejmuje lekarz lub kierownik.
-” ;
+W przypadku zaistnienia wypadku nurkowego decyzję dotyczącą transportu lotniczego osoby, która wykonywała prace podwodne, podejmuje lekarz lub kierownik. ” ;
 7)
-w § 49 ust. 3 otrzymuje brzmienie:
-„
+w § 49 ust. 3 otrzymuje brzmienie: „
 3.
-Zanurzenie kontrolne wykonuje się po uprzednim sprawdzeniu sprzętu nurkowego przez kierownika lub wyznaczonego przez niego członka ekipy posiadającego co najmniej kwalifikacje starszego nurka.
-” ;
+Zanurzenie kontrolne wykonuje się po uprzednim sprawdzeniu sprzętu nurkowego przez kierownika lub wyznaczonego przez niego członka ekipy posiadającego co najmniej kwalifikacje starszego nurka. ” ;
 8)
-po rozdziale 9 dodaje się rozdział 9a w brzmieniu:
-„
-Rozdział 9a Podwodne działania bojowe
+po rozdziale 9 dodaje się rozdział 9a w brzmieniu: „
+Rozdział 9a
+Podwodne działania bojowe
 § 84a.
 Do podwodnych działań bojowych stosuje się przepisy rozporządzenia ze zmianami wynikającymi z przepisów niniejszego rozdziału.
 § 84b.
@@ -333,8 +318,7 @@ W przypadku wykonywania podwodnych działań bojowych w ramach nurkowań szkolen
 1.
 Podwodne działania bojowe z użyciem materiałów wybuchowych realizowane w ramach nurkowań szkoleniowych wykonuje się do stanu morza 2.
 2.
-W czasie wykonywania podwodnych działań bojowych w ramach operacji wojskowych nie stosuje się przepisu § 80 ust. 3.
-” ;
+W czasie wykonywania podwodnych działań bojowych w ramach operacji wojskowych nie stosuje się przepisu § 80 ust. 3. ” ;
 9)
 po załączniku nr 1 do rozporządzenia dodaje się załącznik nr 1a w brzmieniu określonym w załączniku nr 1 do niniejszego rozporządzenia;
 10)
@@ -358,7 +342,9 @@ Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
 ## Załącznik nr 1 — – Minimalny skład ekipy wykonującej podwodne działania bojowe
 
-Lp. Podział podwodnych działań bojowych według ich charakteru, głębokości, stosowanego czynnikaoddechowego w określonym obiegu tego czynnika EKIPA kierownik nurek roboczy nurek asekuracyjny sygnalista operator komory dekompresyjnej 1 Nurkowanie szkoleniowe X X3) X X2) X 2 Podwodne działania bojowe do głębokości 50 m z użyciem aparatu nurkowego o zamkniętym lub półzamkniętym obiegu tlenu, mieszaniny oddechowej jako czynnika oddechowego X X3) X4) X2) X 3 Podwodne działania bojowe do głębokości 50 m z użyciem aparatu nurkowego o otwartym obiegu czynnika oddechowego X X3) X4) X2) X 4 Głębinowe podwodne działania bojowe X X3) X X2) X 5 Podwodne działania bojowe wykonywane w ramach operacji wojskowych X X X4) X2) X1) 1) Istnieje możliwość odstąpienia od zabezpieczenia w komorę dekompresyjną. 2) Jeżeli asekuracja realizowana jest przy użyciu linki sygnałowej. W sytuacji użycia znacznika powierzchniowego decyzję o wyznaczeniu sygnalisty podejmuje kierownik. 3) Wykonywanie zadań pod wodą przez minimum 2 nurków. 4) Według decyzji kierownika.
+Lp. Podział podwodnych działań bojowych według ich charakteru, głębokości, stosowanego czynnika
+oddechowego w określonym obiegu tego czynnika EKIPA kierownik nurek roboczy nurek asekuracyjny sygnalista operator komory dekompresyjnej 1 Nurkowanie szkoleniowe X X3) X X2) X 2 Podwodne działania bojowe do głębokości 50 m z użyciem aparatu nurkowego o zamkniętym lub półzamkniętym obiegu tlenu, mieszaniny oddechowej jako czynnika oddechowego X X3) X4) X2) X 3 Podwodne działania bojowe do głębokości 50 m z użyciem aparatu nurkowego o otwartym obiegu czynnika oddechowego X X3) X4) X2) X 4 Głębinowe podwodne działania bojowe X X3) X X2) X 5 Podwodne działania bojowe wykonywane w ramach operacji wojskowych X X X4) X2) X1)
+1) Istnieje możliwość odstąpienia od zabezpieczenia w komorę dekompresyjną. 2) Jeżeli asekuracja realizowana jest przy użyciu linki sygnałowej. W sytuacji użycia znacznika powierzchniowego decyzję o wyznaczeniu sygnalisty podejmuje kierownik. 3) Wykonywanie zadań pod wodą przez minimum 2 nurków. 4) Według decyzji kierownika.
 
 ## Załącznik nr 2 — – Skład personelu medycznego
 
@@ -366,7 +352,8 @@ Lp. Podział podwodnych działań bojowych według ich charakteru, głębokości
 
 ## Załącznik nr 3 — – Minimalne wyposażenie apteczki nurkowej stosowanej do zabezpieczenia medycznego podczas podwodnych działań bojowych
 
-Rodzaj środka Ilość SPRZĘT MEDYCZNY 1 Aparat do sztucznego oddychania (typ Ambu) z ssakiem 1 kpl. 2 Inhalator tlenowy* 1 kpl. 3 Nożyczki do opatrunków 1 szt. 4 Nóż lub nożyczki do cięcia kombinezonu i pasów parcianych 1 szt. 5 Ostrza chirurgiczne jednorazowego użytku (różne) 5 szt. 6 Peseta chirurgiczna (sterylna) 1 szt. 7 Rękawiczki lateksowe jednorazowego użytku (nr 6 1/2, 7 i 7 1/2) 5 par 8 Rurka ustno-gardłowa (kpl. w różnych rozmiarach) 1 kpl. 9 Defibrylator automatyczny l kpl. LEKI 1 Aviomarin tabl. 1 op. 2 Codeinum 1 op. 3 Otinum gtt. 20% 1 op. 4 Glucosum 5% fl. 500 ml 1 szt. 5 Lignocainum hydrochl. żel 1% 1 op. 6 Lignocainum hydrochl. fl. 2% 1 op. 7 Mannitol 20% fl. 250 ml 1 szt. 8 Natrium chlor. 0,9% fl. 500 ml 2 op. 9 Płyn fizjologiczny wieloelektrolitowy fl. 500 ml 1 szt. 10 Xylogell 0, l% 1 op. ŚRODKI OPATRUNKOWE 1 Chusta trójkątna 3 szt. 2 Codofix w różnych rozmiarach 1 szt. z każdego rozmiaru 3 Gaza opatrunkowa 1 m2 2 szt. 4 Gaza opatrunkowa 1/2 m2 2 szt. 5 Kompresy z gazy wyjałowionej (12x24) 20 3 szt. 6 Opatrunek osobisty 2 szt. 7 Opaska elastyczna 8x4 2 szt. 8 Opaska elastyczna 12x4 2 szt. 9 Opaska gazowa 5x4 2 szt. 10 Opaska gazowa 10x4 5 szt. 11 Przylepiec kauczukowy 2,5x5 (lub podobny) do opatrunków 1 szt. 12 Preparaty do dezynfekcji skóry i ran 1 op. 13 Wata opatrunkowa l00g 1 op. 14 Viscoplast (lub podobny plaster z opatrunkiem) 2 szt. 15 Folia lub koc termiczny 2 szt. * Inhalator zapewnia możliwość podawania tlenu na żądanie lub z przepływem ciągłym w czasie zapewniającym podjęcie leczenia poszkodowanego nurka.
+Rodzaj środka Ilość SPRZĘT MEDYCZNY 1 Aparat do sztucznego oddychania (typ Ambu) z ssakiem 1 kpl. 2 Inhalator tlenowy* 1 kpl. 3 Nożyczki do opatrunków 1 szt. 4 Nóż lub nożyczki do cięcia kombinezonu i pasów parcianych 1 szt. 5 Ostrza chirurgiczne jednorazowego użytku (różne) 5 szt. 6 Peseta chirurgiczna (sterylna) 1 szt. 7 Rękawiczki lateksowe jednorazowego użytku (nr 6 1/2, 7 i 7 1/2) 5 par 8 Rurka ustno-gardłowa (kpl. w różnych rozmiarach) 1 kpl. 9 Defibrylator automatyczny l kpl. LEKI 1 Aviomarin tabl. 1 op. 2 Codeinum 1 op. 3 Otinum gtt. 20% 1 op. 4 Glucosum 5% fl. 500 ml 1 szt. 5 Lignocainum hydrochl. żel 1% 1 op. 6 Lignocainum hydrochl. fl. 2% 1 op. 7 Mannitol 20% fl. 250 ml 1 szt. 8 Natrium chlor. 0,9% fl. 500 ml 2 op. 9 Płyn fizjologiczny wieloelektrolitowy fl. 500 ml 1 szt. 10 Xylogell 0, l% 1 op. ŚRODKI OPATRUNKOWE 1 Chusta trójkątna 3 szt. 2 Codofix w różnych rozmiarach 1 szt. z każdego rozmiaru 3 Gaza opatrunkowa 1 m2 2 szt. 4 Gaza opatrunkowa 1/2 m2 2 szt. 5 Kompresy z gazy wyjałowionej (12x24) 20 3 szt. 6 Opatrunek osobisty 2 szt. 7 Opaska elastyczna 8x4 2 szt. 8 Opaska elastyczna 12x4 2 szt. 9 Opaska gazowa 5x4 2 szt. 10 Opaska gazowa 10x4 5 szt. 11 Przylepiec kauczukowy 2,5x5 (lub podobny) do opatrunków 1 szt. 12 Preparaty do dezynfekcji skóry i ran 1 op. 13 Wata opatrunkowa l00g 1 op. 14 Viscoplast (lub podobny plaster z opatrunkiem) 2 szt. 15 Folia lub koc termiczny 2 szt.
+* Inhalator zapewnia możliwość podawania tlenu na żądanie lub z przepływem ciągłym w czasie zapewniającym podjęcie leczenia poszkodowanego nurka.
 
 ## Załącznik nr 4 — – Minimalne wyposażenie nurka do wykonywania podwodnych działań bojowych w lekkim sprzęcie nurkowym o otwartym, półzamkniętym lub zamkniętym obiegu czynnika oddechowego
 
@@ -480,17 +467,23 @@ Do podwodnych działań bojowych nie stosuje się pkt 1, 4, 5, 6, 8, 19–24.
 
 ## Załącznik nr 6 — –
 
-Tabela 2 Dopuszczalne ekspozycje tlenowe przy korzystaniu z procedury typu pojedynczej ekspozycji stosowane w podwodnych działaniach bojowych
-Maksymalna głębokość nurkowania Maksymalny czas nurkowania przy oddychaniu tlenem [mH2O] [min] 6 240 7 142 8 90 9 60 10 42 11 30 12 22 13 17 14 13 15 10 UWAGA Wykorzystanie limitów określonych w tabeli 2 musi być zgodne z obowiązującą w Siłach Zbrojnych Rzeczypospolitej Polskiej technologią prowadzenia prac podwodnych w ramach podwodnych działań bojowych.
+Tabela 2
+Dopuszczalne ekspozycje tlenowe przy korzystaniu z procedury typu pojedynczej ekspozycji stosowane w podwodnych działaniach bojowych
+Maksymalna głębokość nurkowania Maksymalny czas nurkowania przy oddychaniu tlenem [mH2O] [min] 6 240 7 142 8 90 9 60 10 42 11 30 12 22 13 17 14 13 15 10
+UWAGA Wykorzystanie limitów określonych w tabeli 2 musi być zgodne z obowiązującą w Siłach Zbrojnych Rzeczypospolitej Polskiej technologią prowadzenia prac podwodnych w ramach podwodnych działań bojowych.
 
 ## Załącznik nr 7 — –
 
-Tabela 3 Maksymalne dozwolone czasy „wycieczki” tlenowej stosowane w podwodnych działaniach bojowych
-Zakres głębokości Maksymalny dozwolony czas trwania „wycieczki” tlenowej Uwagi [mH2O] [min] tlen Maksymalny czas ekspozycji do 240 min.Po wykonaniu „wycieczki” tlenowej maksymalny czas ekspozycji zmniejsza się do 120 min. 6–12 10 12–15 5
-Tabela 4 Sposoby kalkulacji dozwolonych ekspozycji tlenowych przy nurkowaniach powtarzalnych, stosowane w podwodnych działaniach bojowych
+Tabela 3
+Maksymalne dozwolone czasy „wycieczki” tlenowej stosowane w podwodnych działaniach bojowych
+Zakres głębokości Maksymalny dozwolony czas trwania „wycieczki” tlenowej Uwagi [mH2O] [min] tlen Maksymalny czas ekspozycji do 240 min.
+Po wykonaniu „wycieczki” tlenowej maksymalny czas ekspozycji zmniejsza się do 120 min. 6–12 10 12–15 5
+Tabela 4
+Sposoby kalkulacji dozwolonych ekspozycji tlenowych przy nurkowaniach powtarzalnych, stosowane w podwodnych działaniach bojowych
 Wyszczególnienie procedur Sposób obliczania dozwolonego czasu trwania nurkowania powtarzalnego Możliwość wykonania „wycieczki” tlenowej na większą głębokość Procedura przejścia z dopuszczalną „wycieczką” tlenową na większą głębokość Odjąć czas poprzedniej ekspozycji od 240 min., a otrzymany czas jest możliwym czasem pobytu podczas powtórnego nurkowania Możliwa, jeżeli nie była przedsięwzięta podczas poprzedniego nurkowania i czas tranzytu nie przekroczył 120 min. Jeżeli żadna z opisanych sytuacji w tabeli dla procedury przejścia z dopuszczalną „wycieczką” tlenową nie może być wybrana, to należy odczekać minimum 2 godziny do następnego nurkowania. Procedura jednej ekspozycji tlenowej 1. Określić maksymalny czas nurkowania dla maksymalnej głębokości nurkowania, która to głębokość jest wybierana po analizie poprzednich i planowanego nurkowania Nie jest możliwa przy wyborze tej procedury postępowania 2. Odjąć czas poprzedniej ekspozycji od dozwolonego czasu ekspozycji dla maksymalnej głębokości nurkowania określonej w pkt 1. Jeżeli żadna z opisanych sytuacji w tabeli dla procedury typu jednej ekspozycji nie może być wybrana, to należy odczekać minimum 2 godziny do następnego nurkowania.
 
 ## Załącznik nr 8 — – Czas pobytu nurka w pobliżu komory dekompresyjnej po zakończeniu podwodnych działań bojowych
 
-Głębokość nurkowania [m] Czas pobytu nurka w pobliżu komory dekompresyjnej po nurkowaniu [godz.]1) do 20 2 do 50 6 powyżej 50 12 1)Nie dotyczy wykonywania podwodnych działań bojowych w ramach operacji wojskowych.
+Głębokość nurkowania [m] Czas pobytu nurka w pobliżu komory dekompresyjnej po nurkowaniu [godz.]1) do 20 2 do 50 6 powyżej 50 12
+1)Nie dotyczy wykonywania podwodnych działań bojowych w ramach operacji wojskowych.
 

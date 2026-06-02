@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-29 |
 | Data wydania | 2016-11-29 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001926) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1926/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863, z 2015 r. poz. 73, 211, 251, 478, 693, 699, 860, 933, 978, 1197, 1217, 1259, 1296, 1321, 1322, 1333, 1569, 1595, 1607, 1688, 1767, 1784, 1844, 1893, 1925, 1932, 1992 i 2299 oraz z 2016 r. poz. 188, 195, 615, 780, 823, 929, 1010, 1206, 1550 i 1860.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6 w ust. 4 pkt 3 otrzymuje brzmienie: „
 - **3)** do ukończenia 25 roku życia uczące się w szkołach, o których mowa w przepisach o systemie oświaty, przepisach o szkolnictwie wyższym lub w przepisach regulujących system oświatowy lub szkolnictwo wyższe obowiązujących w innym niż Rzeczpospolita Polska państwie, jeżeli w roku podatkowym nie uzyskały dochodów podlegających opodatkowaniu na zasadach określonych w art. 27 lub art. 30b, w łącznej wysokości przekraczającej kwotę stanowiącą iloraz kwoty zmniejszającej podatek określonej w art. 27 ust. 1b pkt 1 oraz stawki podatku, określonej w pierwszym przedziale skali, o której mowa w art. 27 ust. 1, z wyjątkiem renty rodzinnej ” ;
@@ -92,12 +91,16 @@ source: "eli-html"
 
 - **5)** w roku korzystania ze zwolnienia są opodatkowani na zasadach określonych w art. 27. ” .
 
-**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662, z 2015 r. poz. 73, 211, 933, 978, 1166, 1197, 1259, 1296, 1348, 1595, 1688, 1767, 1844 i 1932 oraz z 2016 r. poz. 68, 615, 780, 996, 1206, 1454 i 1550.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4a w pkt 29 kropkę zastępuje się średnikiem i dodaje się pkt 30 w brzmieniu: „
-- **30)** ustawie o funduszach inwestycyjnych – oznacza to ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2014 r. poz. 157, z późn. zm.). ” ;
-- **2)** w art. 6: w ust. 1: – pkt 10 otrzymuje brzmienie: „ 10) fundusze inwestycyjne otwarte oraz specjalistyczne fundusze inwestycyjne otwarte, utworzone na podstawie ustawy o funduszach inwestycyjnych, z wyłączeniem specjalistycznych funduszy inwestycyjnych otwartych stosujących zasady i ograniczenia inwestycyjne określone dla funduszy inwestycyjnych zamkniętych; ” , – w pkt 10a: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ instytucje wspólnego inwestowania, z zastrzeżeniem ust. 4, posiadające siedzibę w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego, które spełniają łącznie następujące warunki: ” , – – lit. b i c otrzymują brzmienie: „ b) wyłącznym przedmiotem ich działalności jest zbiorowe lokowanie środków pieniężnych, zebranych w drodze publicznego proponowania nabycia ich tytułów uczestnictwa w papiery wartościowe lub instrumenty rynku pieniężnego, c) prowadzą swoją działalność na podstawie zezwolenia właściwych organów nadzoru nad rynkiem finansowym państwa, w którym mają siedzibę, ” , dodaje się ust. 4 w brzmieniu: „
+- **30)** ustawie o funduszach inwestycyjnych – oznacza to ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2014 r. poz. 157, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 73, 978, 1260, 1357, 1634 i 1844 oraz z 2016 r. poz. 615, 904 i 996.). ” ;
+- **2)** w art. 6: w ust. 1: pkt 10 otrzymuje brzmienie: „
     - **a)**
+
+- **10)** fundusze inwestycyjne otwarte oraz specjalistyczne fundusze inwestycyjne otwarte, utworzone na podstawie ustawy o funduszach inwestycyjnych, z wyłączeniem specjalistycznych funduszy inwestycyjnych otwartych stosujących zasady i ograniczenia inwestycyjne określone dla funduszy inwestycyjnych zamkniętych; ” , w pkt 10a: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ instytucje wspólnego inwestowania, z zastrzeżeniem ust. 4, posiadające siedzibę w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego, które spełniają łącznie następujące warunki: ” , – lit. b i c otrzymują brzmienie: „ wyłącznym przedmiotem ich działalności jest zbiorowe lokowanie środków pieniężnych, zebranych w drodze publicznego proponowania nabycia ich tytułów uczestnictwa w papiery wartościowe lub instrumenty rynku pieniężnego, prowadzą swoją działalność na podstawie zezwolenia właściwych organów nadzoru nad rynkiem finansowym państwa, w którym mają siedzibę, ” , dodaje się ust. 4 w brzmieniu: „
+    - **b)**
+    - **c)**
     - **b)**
 
 4. Zwolnienie, o którym mowa w ust. 1 pkt 10a, nie ma zastosowania do instytucji wspólnego inwestowania:
@@ -148,5 +151,5 @@ source: "eli-html"
 
 3. Przepis ust. 2 ma zastosowanie do dochodów uzyskanych od dnia 1 stycznia 2016 r.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r., z wyjątkiem art. 4 ust. 2 i 3, które wchodzą w życie z dniem 30 listopada 2016 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r., z wyjątkiem art. 4 ust. 2 i 3, które wchodzą w życie z dniem 30 listopada 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863, z 2015 r. poz. 73, 211, 251, 478, 693, 699, 860, 933, 978, 1197, 1217, 1259, 1296, 1321, 1322, 1333, 1569, 1595, 1607, 1688, 1767, 1784, 1844, 1893, 1925, 1932, 1992 i 2299 oraz z 2016 r. poz. 188, 195, 615, 780, 823, 929, 1010, 1206, 1550 i 1860. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662, z 2015 r. poz. 73, 211, 933, 978, 1166, 1197, 1259, 1296, 1348, 1595, 1688, 1767, 1844 i 1932 oraz z 2016 r. poz. 68, 615, 780, 996, 1206, 1454 i 1550. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 73, 978, 1260, 1357, 1634 i 1844 oraz z 2016 r. poz. 615, 904 i 996.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 13 kwietnia 2017 r. zmieniające rozporządzenie w sprawie zakresu obowiązków oraz podstaw, zakresu i trybu udzielania zwolnień od zajęć służbowych funkcjonariuszom Straży Granicznej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 13 kwietnia 2017 r. zmieniające rozporządzenie w sprawie zakresu obowiązków oraz podstaw, zakresu i trybu udzielania zwolnień od zajęć służbowych funkcjonariuszom Straży Granicznej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-13 |
 | Data wydania | 2017-04-26 |
-| Wejście w życie | 2017-05-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000846) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/846/text.pdf) |
 
@@ -33,24 +32,19 @@ W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca
 1)
 uchyla się § 13;
 2)
-§ 16 otrzymuje brzmienie:
-„
+§ 16 otrzymuje brzmienie: „
 § 16.
 1.
 Zwolnień od zajęć służbowych, o których mowa w § 8, 11, 14 ust. 1 i 3 oraz w § 15, udziela bezpośredni przełożony funkcjonariusza.
 2.
-Przepis ust. 1 stosuje się odpowiednio w przypadku udzielania zwolnienia od zajęć służbowych, o którym mowa w art. 188 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60).
-” ;
+Przepis ust. 1 stosuje się odpowiednio w przypadku udzielania zwolnienia od zajęć służbowych, o którym mowa w art. 188 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60). ” ;
 3)
-§ 18 otrzymuje brzmienie:
-„
+§ 18 otrzymuje brzmienie: „
 § 18.
 1.
 Przełożony właściwy w sprawach osobowych z urzędu: 1) zwalnia od zajęć służbowych funkcjonariusza, wobec którego jest prowadzone postępowanie w sprawie zwolnienia ze służby w związku z zaistnieniem przesłanek, o których mowa w art. 45 ust. 1 ustawy, na okres tego postępowania, 2) może zwolnić od zajęć służbowych funkcjonariusza, wobec którego jest prowadzone postępowanie w sprawie zwolnienia ze służby w związku z zaistnieniem przesłanek, o których mowa w art. 45 ust. 2 ustawy, na okres tego postępowania, 3) zwalnia od zajęć służbowych funkcjonariusza, u którego w toku orzekania o zdolności fizycznej i psychicznej do służby przed komisją lekarską podległą ministrowi właściwemu do spraw wewnętrznych stwierdzono choroby lub ułomności niepozwalające na pełnienie służby, na pozostały okres służby, chyba że w toku dalszych czynności komisji lekarskiej wystąpią okoliczności pozwalające na pełnienie służby przez funkcjonariusza.
 2.
-W przypadku wydania decyzji o zwolnieniu ze służby w Straży Granicznej, zwolnienie od zajęć służbowych udzielone w trybie ust. 1 pkt 1 albo 2 trwa do dnia zwolnienia funkcjonariusza ze służby.
-” .
+W przypadku wydania decyzji o zwolnieniu ze służby w Straży Granicznej, zwolnienie od zajęć służbowych udzielone w trybie ust. 1 pkt 1 albo 2 trwa do dnia zwolnienia funkcjonariusza ze służby. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 16 kwietnia 2019 r. w sprawie wysokości środków finansowych, jakie będzie musiał posiadać cudzoziemiec, który zamierza na terytorium Rzeczypospolitej Polskiej podjąć lub kontynuować naukę lub cudzoziemiec poszukujący pracy lub planujący rozpocząć wykonywanie działalności gospodarczej, który jest absolwentem polskiej uczelni lub zakończył prowadzenie badań naukowych lub prac rozwojowych na terytorium Rzeczypospolitej Polskiej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 16 kwietnia 2019 r. w sprawie wysokości środków finansowych, jakie będzie musiał posiadać cudzoziemiec, który zamierza na terytorium Rzeczypospolitej Polskiej podjąć lub kontynuować naukę lub cudzoziemiec poszukujący pracy lub planujący rozpocząć wykonywanie działalności gospodarczej, który jest absolwentem polskiej uczelni lub zakończył prowadzenie badań naukowych lub prac rozwojowych na terytorium Rzeczypospolitej Polskiej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-16 |
 | Data wydania | 2019-04-26 |
-| Wejście w życie | 2019-04-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000773) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/773/text.pdf) |
 
@@ -42,8 +41,7 @@ Minimalna wysokość środków finansowych, jakie cudzoziemiec, o którym mowa w
 2)
 500 złotych, jeżeli cudzoziemiec przybył z państwa członkowskiego Unii Europejskiej niesąsiadującego z Rzecząpospolitą Polską lub z państwa członkowskiego Europejskiego Porozumienia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub z Konfederacji Szwajcarskiej,
 3)
-2500 złotych, jeżeli cudzoziemiec przybył z innego państwa niż określone w pkt 1 i 2
-albo równowartość tych kwot w walutach obcych.
+2500 złotych, jeżeli cudzoziemiec przybył z innego państwa niż określone w pkt 1 i 2 – albo równowartość tych kwot w walutach obcych.
 2.
 Cudzoziemiec, który przybył na terytorium Rzeczypospolitej Polskiej lub przebywa na tym terytorium wraz z członkami rodziny pozostającymi na jego utrzymaniu, będzie musiał dodatkowo posiadać środki finansowe na pokrycie kosztów podróży powrotnej tych członków rodziny do państwa pochodzenia lub zamieszkania albo kosztów tranzytu do państwa trzeciego, które udzieli pozwolenia na wjazd, których minimalna wysokość na każdego członka rodziny cudzoziemca wynosi:
 1)
@@ -51,8 +49,7 @@ Cudzoziemiec, który przybył na terytorium Rzeczypospolitej Polskiej lub przeby
 2)
 500 złotych, jeżeli członek rodziny cudzoziemca przybył z państwa członkowskiego Unii Europejskiej niesąsiadującego z Rzecząpospolitą Polską lub z państwa członkowskiego Europejskiego Porozumienia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub z Konfederacji Szwajcarskiej,
 3)
-2500 złotych, jeżeli członek rodziny cudzoziemca przybył z innego państwa niż określone w pkt 1 i 2
-albo równowartość tych kwot w walutach obcych.
+2500 złotych, jeżeli członek rodziny cudzoziemca przybył z innego państwa niż określone w pkt 1 i 2 – albo równowartość tych kwot w walutach obcych.
 § 3.
 1.
 Dokumentami mogącymi potwierdzić możliwość uzyskania środków finansowych na pokrycie kosztów podróży powrotnej do państwa pochodzenia lub zamieszkania albo kosztów tranzytu do państwa trzeciego, które udzieli pozwolenia na wjazd, w wysokości, o której mowa w § 2, oraz środków finansowych na pokrycie kosztów utrzymania cudzoziemca oraz członków jego rodziny na terytorium Rzeczypospolitej Polskiej, o których mowa w art. 188 ust. 1a pkt 3 lub ust. 3 pkt 3 ustawy, są:
@@ -71,6 +68,5 @@ Zaświadczenia, o których mowa w ust. 1 pkt 2, 3 i 5, wystawia się nie wcześn
 § 4.
 Do przeliczenia na walutę polską posiadanych przez cudzoziemca środków finansowych w walucie obcej stosuje się średni kurs tej waluty ogłoszony przez Narodowy Bank Polski w ostatnim dniu roboczym poprzedzającym złożenie wniosku o udzielenie zezwolenia na pobyt czasowy.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 27 kwietnia 2019 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 6 lutego 2018 r. w sprawie wysokości środków finansowych, jakie będzie musiał posiadać cudzoziemiec, który zamierza na terytorium Rzeczypospolitej Polskiej podjąć lub kontynuować naukę (Dz. U. poz. 338), które na podstawie art. 20 ust. 1 ustawy z dnia 22 lutego 2019 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. poz. 577) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem 27 kwietnia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 6 lutego 2018 r. w sprawie wysokości środków finansowych, jakie będzie musiał posiadać cudzoziemiec, który zamierza na terytorium Rzeczypospolitej Polskiej podjąć lub kontynuować naukę (Dz. U. poz. 338), które na podstawie art. 20 ust. 1 ustawy z dnia 22 lutego 2019 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. poz. 577) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 6 lutego 2018 r. w sprawie wysokości środków finansowych, jakie będzie musiał posiadać cudzoziemiec, który zamierza na terytorium Rzeczypospolitej Polskiej podjąć lub kontynuować naukę (Dz. U. poz. 338), które na podstawie art. 20 ust. 1 ustawy z dnia 22 lutego 2019 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. poz. 577) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

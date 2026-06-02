@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 20 lipca 2016 r. w sprawie wynagrodzeń oraz zwrotu kosztów podróży i noclegów członków Rady do Spraw Przeciwdziałania Unikaniu Opodatkowania
+# Rozporządzenie Ministra Finansówz dnia 20 lipca 2016 r. w sprawie wynagrodzeń oraz zwrotu kosztów podróży i noclegów członków Rady do Spraw Przeciwdziałania Unikaniu Opodatkowania Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-20 |
 | Data wydania | 2016-07-26 |
-| Wejście w życie | 2016-07-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001106) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1106/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 119v § 4 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 119v § 4 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184 oraz z 2016 r. poz. 195, 615 i 846.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -53,10 +52,9 @@ Członkowi Rady przysługuje zwrot kosztów noclegu w obiekcie świadczącym us�
 2.
 Członkowi Rady, na jego uzasadniony wniosek złożony do sekretarza Rady, mogą zostać zwrócone koszty podróży prywatnym samochodem, motocyklem lub motorowerem.
 3.
-Koszty, o których mowa w ust. 2, są zwracane w wysokości stanowiącej iloczyn przejechanych kilometrów i 75% stawki za jeden kilometr przebiegu ustalonej dla danego pojazdu w przepisach wydanych na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm.).
+Koszty, o których mowa w ust. 2, są zwracane w wysokości stanowiącej iloczyn przejechanych kilometrów i 75% stawki za jeden kilometr przebiegu ustalonej dla danego pojazdu w przepisach wydanych na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805, 915 i 1310 oraz z 2015 r. poz. 211, 390, 978, 1269, 1273, 1893 i 2183.).
 4.
 W zakresie nieuregulowanym w ust. 1–3 do zwrotu członkom Rady kosztów podróży i noclegów stosuje się odpowiednio przepisy o należnościach przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184 oraz z 2016 r. poz. 195, 615 i 846. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805, 915 i 1310 oraz z 2015 r. poz. 211, 390, 978, 1269, 1273, 1893 i 2183.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184 oraz z 2016 r. poz. 195, 615 i 846. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805, 915 i 1310 oraz z 2015 r. poz. 211, 390, 978, 1269, 1273, 1893 i 2183.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-30 |
 | Data wydania | 2020-10-07 |
-| Wejście w życie | 2020-10-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001729) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1729/text.pdf) |
 
@@ -38,8 +37,7 @@ samorządowe instytucje artystyczne w rozumieniu przepisów ustawy z dnia 25 pa�
 2)
 organizacje pozarządowe w rozumieniu przepisów ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2020 r. poz. 1057) prowadzące działalność w dziedzinie teatru, muzyki lub tańca,
 3)
-przedsiębiorców w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2019 r. poz. 1292 i 1495 oraz z 2020 r. poz. 424 i 1086) prowadzących działalność gospodarczą w dziedzinie teatru, muzyki lub tańca, w tym usług wspomagających tę działalność przez organizację zaplecza technicznego
-zwanych dalej „jednostkami”.
+przedsiębiorców w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2019 r. poz. 1292 i 1495 oraz z 2020 r. poz. 424 i 1086) prowadzących działalność gospodarczą w dziedzinie teatru, muzyki lub tańca, w tym usług wspomagających tę działalność przez organizację zaplecza technicznego – zwanych dalej „jednostkami”.
 2.
 Jednostka może złożyć tylko jeden wniosek o udzielenie wsparcia finansowego, zwany dalej „wnioskiem”.
 3.
@@ -48,7 +46,7 @@ Wniosek składa się do ministra właściwego do spraw kultury i ochrony dziedzi
 Minister, wskazując państwowe instytucje, określa dziedzinę, w której instytucja udziela wsparcia finansowego.
 § 3.
 1.
-Wsparcia finansowego nie udziela się na rzecz przedsiębiorców, na których ciąży obowiązek zwrotu pomocy, w rozumieniu art. 1 ust. 4 lit. a rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”, oraz przedsiębiorców znajdujących się w trudnej sytuacji w rozumieniu art. 2 pkt 18 rozporządzenia Komisji (UE) nr 651/2014, z wyjątkiem przedsiębiorców, którzy nie znajdowali się w trudnej sytuacji w dniu 31 grudnia 2019 r., ale znaleźli się w takiej sytuacji w okresie od dnia 12 marca 2020 r. do dnia 31 grudnia 2020 r.
+Wsparcia finansowego nie udziela się na rzecz przedsiębiorców, na których ciąży obowiązek zwrotu pomocy, w rozumieniu art. 1 ust. 4 lit. a rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53 oraz Dz. Urz. UE L 215 z 02.07.2020, str. 3., zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”, oraz przedsiębiorców znajdujących się w trudnej sytuacji w rozumieniu art. 2 pkt 18 rozporządzenia Komisji (UE) nr 651/2014, z wyjątkiem przedsiębiorców, którzy nie znajdowali się w trudnej sytuacji w dniu 31 grudnia 2019 r., ale znaleźli się w takiej sytuacji w okresie od dnia 12 marca 2020 r. do dnia 31 grudnia 2020 r.
 2.
 Wsparcia finansowego udziela się na koszty kwalifikowalne, o których mowa w art. 53 ust. 5 rozporządzenia Komisji (UE) nr 651/2014.
 3.
@@ -69,8 +67,7 @@ jednostek, o których mowa w § 2 ust. 1 pkt 1, jako rekompensatę z tytułu utr
 2)
 jednostek, o których mowa w § 2 ust. 1 pkt 2, jako rekompensatę z tytułu utraconych przychodów w okresie od dnia 12 marca do dnia 31 grudnia 2020 r., ustala się w wysokości nieprzekraczającej 50% przychodów netto ze sprzedaży usług związanych z działalnością kulturalną w dziedzinie teatru, muzyki lub tańca, obliczonych na podstawie danych z analogicznego okresu w 2019 r.,
 3)
-jednostek, o których mowa w § 2 ust. 1 pkt 3, jako rekompensatę z tytułu utraconych przychodów w okresie od dnia 12 marca do dnia 31 grudnia 2020 r., ustala się w wysokości nieprzekraczającej 50% przychodów netto ze sprzedaży usług związanych z działalnością kulturalną w dziedzinie teatru, muzyki lub tańca, w tym usług wspomagających tę działalność przez organizację zaplecza technicznego, obliczonych na podstawie danych z analogicznego okresu w 2019 r.
-pomniejszonej o wsparcie zwrotne lub bezzwrotne otrzymane przez jednostkę ze środków publicznych w związku z przeciwdziałaniem i zwalczaniem COVID-19 do dnia poprzedzającego dzień złożenia wniosku o wsparcie finansowe.
+jednostek, o których mowa w § 2 ust. 1 pkt 3, jako rekompensatę z tytułu utraconych przychodów w okresie od dnia 12 marca do dnia 31 grudnia 2020 r., ustala się w wysokości nieprzekraczającej 50% przychodów netto ze sprzedaży usług związanych z działalnością kulturalną w dziedzinie teatru, muzyki lub tańca, w tym usług wspomagających tę działalność przez organizację zaplecza technicznego, obliczonych na podstawie danych z analogicznego okresu w 2019 r. – pomniejszonej o wsparcie zwrotne lub bezzwrotne otrzymane przez jednostkę ze środków publicznych w związku z przeciwdziałaniem i zwalczaniem COVID-19 do dnia poprzedzającego dzień złożenia wniosku o wsparcie finansowe.
 2.
 Wsparcie finansowe jest przeznaczone na działalność kulturalną w dziedzinie teatru, muzyki lub tańca, w tym polegającą na świadczeniu usług wspomagających tę działalność przez organizację zaplecza technicznego, na finansowanie lub refinansowanie wydatków ponoszonych w okresie od dnia 12 marca 2020 r. do dnia 31 grudnia 2020 r.
 § 6.

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 15 czerwca 2022 r. zmieniające rozporządzenie w sprawie szpitalnego oddziału ratunkowego
+# Rozporządzenie Ministra Zdrowiaz dnia 15 czerwca 2022 r. zmieniające rozporządzenie w sprawie szpitalnego oddziału ratunkowego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-06-15 |
 | Data wydania | 2022-06-22 |
-| Wejście w życie | 2022-06-30 |
 | Ostatnia zmiana | 2024-12-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001305) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1305/text.pdf) |
 
@@ -31,47 +30,35 @@ Na podstawie art. 34 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwi
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 27 czerwca 2019 r. w sprawie szpitalnego oddziału ratunkowego (Dz. U. z 2021 r. poz. 2048) wprowadza się następujące zmiany:
 1)
-w § 3 ust. 11 otrzymuje brzmienie:
-„
+w § 3 ust. 11 otrzymuje brzmienie: „
 11.
-Projekt lotniska lub lądowiska wymaga uzyskania pozytywnej opinii podmiotu leczniczego utworzonego przez ministra właściwego do spraw zdrowia w celu realizacji zadań lotniczych zespołów ratownictwa medycznego.
-” ;
+Projekt lotniska lub lądowiska wymaga uzyskania pozytywnej opinii podmiotu leczniczego utworzonego przez ministra właściwego do spraw zdrowia w celu realizacji zadań lotniczych zespołów ratownictwa medycznego. ” ;
 2)
-w § 6 w ust. 6 pkt 2 i 3 otrzymują brzmienie:
-„
+w § 6 w ust. 6 pkt 2 i 3 otrzymują brzmienie: „
 2)
 są rejestrowane na stanowisku rejestracji medycznej;
 3)
-są niezwłocznie poddawane segregacji medycznej, w przebiegu której ich stan zdrowia jest oceniany pod względem ustalenia priorytetu udzielania im świadczeń zdrowotnych i przypisania do jednej z kategorii, o których mowa w ust. 9;
-” ;
+są niezwłocznie poddawane segregacji medycznej, w przebiegu której ich stan zdrowia jest oceniany pod względem ustalenia priorytetu udzielania im świadczeń zdrowotnych i przypisania do jednej z kategorii, o których mowa w ust. 9; ” ;
 3)
 w § 15:
 a)
-pkt 4 otrzymuje brzmienie:
-„
+pkt 4 otrzymuje brzmienie: „
 4)
-§ 5 ust. 2 oraz § 6 ust. 4 pkt 4 i 6 – do dnia 1 lipca 2022 r.;
-” ,
+§ 5 ust. 2 oraz § 6 ust. 4 pkt 4 i 6 – do dnia 1 lipca 2022 r.; ” ,
 b)
-po pkt 4 dodaje się pkt 4a w brzmieniu:
-„
+po pkt 4 dodaje się pkt 4a w brzmieniu: „
 4a)
-§ 4 ust. 1 pkt 5 – do dnia 30 czerwca 2023 r.;
-” ,
+§ 4 ust. 1 pkt 5 – do dnia 30 czerwca 2023 r.; ” ,
 c)
-pkt 5 otrzymuje brzmienie:
-„
+pkt 5 otrzymuje brzmienie: „
 5)
-§ 3 ust. 7–10 – do dnia 31 grudnia 2024 r.
-” ;
+§ 3 ust. 7–10 – do dnia 31 grudnia 2024 r. ” ;
 4)
 w § 16 w pkt 1 wyrazy „30 czerwca 2022 r.” zastępuje się wyrazami „30 czerwca 2023 r.”;
 5)
-w załączniku do rozporządzenia w rozdziale 1 ust. 3 otrzymuje brzmienie:
-„
+w załączniku do rozporządzenia w rozdziale 1 ust. 3 otrzymuje brzmienie: „
 3.
-Konstrukcja lądowiska musi mieć zdolność przenoszenia obciążeń, wystarczających do przyjmowania przerwanego startu śmigłowców operujących w 1 klasie osiągów o maksymalnej masie do startu (MTOM) 5700 kg.
-” .
+Konstrukcja lądowiska musi mieć zdolność przenoszenia obciążeń, wystarczających do przyjmowania przerwanego startu śmigłowców operujących w 1 klasie osiągów o maksymalnej masie do startu (MTOM) 5700 kg. ” .
 § 2.
 1.
 Podmiot leczniczy, który do dnia wejścia w życie niniejszego rozporządzenia nie dostosował szpitalnego oddziału ratunkowego do wymagań określonych w § 3 ust. 7–10 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, przedstawi projekt, o którym mowa w § 3 ust. 11 tego rozporządzenia, podmiotowi leczniczemu utworzonemu przez ministra właściwego do spraw zdrowia w celu realizacji zadań lotniczych zespołów ratownictwa medycznego, w terminie do dnia 31 grudnia 2022 r., w celu uzyskania pozytywnej opinii tego podmiotu.
@@ -91,9 +78,7 @@ nie mogą uzyskać nośności 5700 kg MTOM,
 2)
 nie mogą przyjąć śmigłowców o maksymalnym wymiarze D=15m,
 3)
-nie posiadają wymaganej niezabudowanej przestrzeni – Airgap albo przestrzeń ta nie spełnia swojej roli w wyniku posiadania parametrów niezgodnych z wymaganiami załącznika do rozporządzenia, o którym mowa w § 1
--mogą być użytkowane w zakresie, w jakim otrzymają wpis o ograniczeniach użytkowych w dokumentacji podmiotu leczniczego utworzonego przez ministra właściwego do spraw zdrowia w celu realizacji zadań lotniczych zespołów ratownictwa medycznego.
+nie posiadają wymaganej niezabudowanej przestrzeni – Airgap albo przestrzeń ta nie spełnia swojej roli w wyniku posiadania parametrów niezgodnych z wymaganiami załącznika do rozporządzenia, o którym mowa w § 1 -mogą być użytkowane w zakresie, w jakim otrzymają wpis o ograniczeniach użytkowych w dokumentacji podmiotu leczniczego utworzonego przez ministra właściwego do spraw zdrowia w celu realizacji zadań lotniczych zespołów ratownictwa medycznego.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 30 czerwca 2022 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
+Rozporządzenie wchodzi w życie z dniem 30 czerwca 2022 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 

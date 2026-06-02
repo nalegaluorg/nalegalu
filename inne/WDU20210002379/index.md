@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 17 grudnia 2021 r. zmieniające rozporządzenie w sprawie przekazywania gminom dotacji celowej na postępowanie w sprawie zwrotu podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej i jego wypłatę
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 17 grudnia 2021 r. zmieniające rozporządzenie w sprawie przekazywania gminom dotacji celowej na postępowanie w sprawie zwrotu podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej i jego wypłatę Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-17 |
 | Data wydania | 2021-12-22 |
-| Wejście w życie | 2022-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002379) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2379/text.pdf) |
 
@@ -33,6 +32,5 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 23 sierpnia 2006 r. w 
 § 2.
 Do dodatkowych wniosków złożonych przez wójtów, burmistrzów (prezydentów miast), o których mowa w § 4 ust. 1 i 1a rozporządzenia zmienianego w § 1, do właściwego miejscowo wojewody, które nie zostały zrealizowane przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 

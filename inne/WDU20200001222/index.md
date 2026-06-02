@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-19 |
 | Data wydania | 2020-07-09 |
-| Wejście w życie | 2020-07-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001222) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1222/text.pdf) |
 
@@ -32,7 +31,7 @@ source: "eli-html"
 
 **Art. 2.**
 
-1. Z dniem wejścia w życie niniejszej ustawy postępowanie w sprawie ponownego ustalenia wysokości emerytury ubezpieczonych, o których mowa w art. 194j ust. 1 ustawy zmienianej w art. 1, lub renty rodzinnej po tych ubezpieczonych z pominięciem przepisu art. 25 ust. 1b ustawy zmienianej w art. 1, wszczęte przez organ rentowy w wyniku skargi o wznowienie postępowania złożonej w trybie art. 145a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256 i 695) lub przez sąd w wyniku skargi o wznowienie postępowania złożonej w trybie art. 4011 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm.), ulega zawieszeniu z mocy prawa do czasu wydania przez organ rentowy decyzji na podstawie art. 194j ust. 1 ustawy zmienianej w art. 1.
+1. Z dniem wejścia w życie niniejszej ustawy postępowanie w sprawie ponownego ustalenia wysokości emerytury ubezpieczonych, o których mowa w art. 194j ust. 1 ustawy zmienianej w art. 1, lub renty rodzinnej po tych ubezpieczonych z pominięciem przepisu art. 25 ust. 1b ustawy zmienianej w art. 1, wszczęte przez organ rentowy w wyniku skargi o wznowienie postępowania złożonej w trybie art. 145a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256 i 695) lub przez sąd w wyniku skargi o wznowienie postępowania złożonej w trybie art. 4011 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802, 1818, 2070, 2089, 2128 i 2217 oraz z 2020 r. poz. 288, 462, 875, 956, 1017 i 1086.), ulega zawieszeniu z mocy prawa do czasu wydania przez organ rentowy decyzji na podstawie art. 194j ust. 1 ustawy zmienianej w art. 1.
 
 2. Organ rentowy niezwłocznie zawiadamia sąd o wszczęciu postępowania na podstawie art. 194j ust. 1 ustawy zmienianej w art. 1 oraz doręcza kopię wydanej decyzji.
 
@@ -46,5 +45,5 @@ source: "eli-html"
 
 2. W pozostałych przypadkach ponowne ustalenie wysokości emerytury na podstawie art. 194j ustawy zmienianej w art. 1 następuje z urzędu po upływie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802, 1818, 2070, 2089, 2128 i 2217 oraz z 2020 r. poz. 288, 462, 875, 956, 1017 i 1086.
 

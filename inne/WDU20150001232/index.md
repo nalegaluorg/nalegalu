@@ -36,14 +36,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378 oraz z 2015 r. poz. 1045) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 lipca 2008 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Wdrażanie lokalnych strategii rozwoju” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2013 r. poz. 1163), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 5 czerwca 2014 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Wdrażanie lokalnych strategii rozwoju” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 884).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 5 czerwca 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Wdrażanie lokalnych strategii rozwoju” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 884), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 5 czerwca 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Wdrażanie lokalnych strategii rozwoju” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 884), które stanowią: „
 § 2.
 Do postępowań w sprawach dotyczących przyznania pomocy finansowej w ramach działania „Wdrażanie lokalnych strategii rozwoju” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 wszczętych w terminach składania wniosków o przyznanie tej pomocy, które rozpoczęły bieg przed dniem wejścia w życie rozporządzenia, stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 lipca 2008 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Wdrażanie lokalnych strategii rozwoju” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 lipca 2008 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Wdrażanie lokalnych strategii rozwoju” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1261).
 Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2013 r. poz. 173 oraz z 2015 r. poz. 349) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb przyznawania oraz wypłaty pomocy finansowej w ramach działania „Wdrażanie lokalnych strategii rozwoju” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, zwanej dalej „pomocą”, w szczególności:
@@ -58,7 +56,7 @@ tryb składania wniosków o płatność;
 5)
 przypadki, w których następcy prawnemu beneficjenta albo nabywcy przedsiębiorstwa albo jego części lub nabywcy gospodarstwa rolnego albo jego części może być przyznana pomoc, oraz warunki i tryb przyznania tej pomocy;
 6)
-kategorie siły wyższej i wyjątkowe okoliczności, inne niż wymienione w przepisach rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 368 z 23.12.2006, str. 15, z późn. zm.), zwanego dalej „rozporządzeniem nr 1974/2006”, w przypadku wystąpienia których nie jest wymagany zwrot pomocy.
+kategorie siły wyższej i wyjątkowe okoliczności, inne niż wymienione w przepisach rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 368 z 23.12.2006, str. 15, z późn. zm.)Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1); rozporządzenie stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.) przed dniem 1 stycznia 2014 r., zwanego dalej „rozporządzeniem nr 1974/2006”, w przypadku wystąpienia których nie jest wymagany zwrot pomocy.
 § 2.
 O pomoc na operacje, o których mowa w art. 12 ust. 1 pkt 1 lit. b ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013, zwane dalej „małymi projektami”, może ubiegać się podmiot będący:
 1)
@@ -82,7 +80,7 @@ a)
 z Funduszu Kościelnego lub
 b)
 z dochodów własnych jednostek samorządu terytorialnego lub subwencji ogólnej;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 5 czerwca 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Wdrażanie lokalnych strategii rozwoju” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 884), które weszło w życie z dniem 17 lipca 2014 r.)
 będzie realizowany w nie więcej niż dwóch etapach, jego zakończenie i złożenie wniosku o płatność ostateczną będącą refundacją kosztów kwalifikowalnych wypłacaną po zrealizowaniu całego małego projektu nastąpi w terminie 2 lat od dnia zawarcia umowy, na podstawie której jest przyznawana pomoc na małe projekty, lecz nie później niż do dnia 31 marca 2015 r., przy czym płatność ostateczna będzie obejmować nie mniej niż 25% łącznej planowanej kwoty pomocy.
 2.
 Pomoc na małe projekty jest przyznawana:
@@ -104,8 +102,7 @@ poniesionych:
 a)
 od dnia zawarcia umowy, na podstawie której jest przyznawana pomoc na małe projekty,
 b)
-w formie rozliczenia pieniężnego, a w przypadku transakcji, której wartość, bez względu na liczbę wynikających z niej płatności, przekracza 1000 złotych – w formie rozliczenia bezgotówkowego
-zwanych dalej „kosztami kwalifikowalnymi małych projektów”.
+w formie rozliczenia pieniężnego, a w przypadku transakcji, której wartość, bez względu na liczbę wynikających z niej płatności, przekracza 1000 złotych – w formie rozliczenia bezgotówkowego – zwanych dalej „kosztami kwalifikowalnymi małych projektów”.
 1a.
 Do kosztów, o których mowa w ust. 1 pkt 1, zalicza się koszty:
 1)
@@ -123,21 +120,19 @@ zakupu materiałów lub przedmiotów;
 3)
 zakupu usług lub robót budowlanych;
 4)
-najmu, dzierżawy lub zakupu oprogramowania, sprzętu, narzędzi, urządzeń lub maszyn, z wyłączeniem środków transportu napędzanych mechanicznie, z tym że w przypadku części małego projektu, która nie obejmuje inwestycji,
-koszty zakupu oprogramowania, sprzętu, narzędzi, urządzeń lub maszyn podlegają refundacji wyłącznie, gdy nie przekraczają kosztów ich najmu lub dzierżawy.
+najmu, dzierżawy lub zakupu oprogramowania, sprzętu, narzędzi, urządzeń lub maszyn, z wyłączeniem środków transportu napędzanych mechanicznie, z tym że w przypadku części małego projektu, która nie obejmuje inwestycji, koszty zakupu oprogramowania, sprzętu, narzędzi, urządzeń lub maszyn podlegają refundacji wyłącznie, gdy nie przekraczają kosztów ich najmu lub dzierżawy.
 2.
 Do kosztów kwalifikowalnych małych projektów stanowiących koszty ogólne zalicza się koszty w wysokości nieprzekraczającej 10% pozostałych kosztów kwalifikowalnych małych projektów pomniejszonych o wartość wkładu niepieniężnego.
 3.
 Do kosztów kwalifikowalnych małych projektów zalicza się także:
 1)
-podatek od towarów i usług (VAT), uiszczany w związku z poniesieniem kosztów, o których mowa w ust. 1 pkt 1, na zasadach określonych w art. 71 ust. 3 lit. a rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1698/2005”;
+podatek od towarów i usług (VAT), uiszczany w związku z poniesieniem kosztów, o których mowa w ust. 1 pkt 1, na zasadach określonych w art. 71 ust. 3 lit. a rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.)Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r., zwanego dalej „rozporządzeniem nr 1698/2005”;
 2)
 wartość wkładu niepieniężnego obejmującą wartość:
 a)
 pracy oraz usług świadczonych nieodpłatnie, stanowiącą iloczyn liczby przepracowanych godzin oraz ilorazu przeciętnego wynagrodzenia w gospodarce narodowej w drugim roku poprzedzającym rok, w którym złożono wniosek o przyznanie pomocy na małe projekty, i liczby 168,
 b)
-udostępnienia ziemi, nieruchomości, sprzętu lub surowców, o którym mowa w art. 54 ust. 1 rozporządzenia nr 1974/2006
-na zasadach określonych w art. 54 ust. 2 rozporządzenia nr 1974/2006 .
+udostępnienia ziemi, nieruchomości, sprzętu lub surowców, o którym mowa w art. 54 ust. 1 rozporządzenia nr 1974/2006 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1); rozporządzenie stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.) przed dniem 1 stycznia 2014 r. – na zasadach określonych w art. 54 ust. 2 rozporządzenia nr 1974/2006 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1); rozporządzenie stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.) przed dniem 1 stycznia 2014 r..
 4.
 W przypadku przyznania pomocy do kosztów kwalifikowalnych małych projektów zalicza się również koszty, o których mowa w ust. 1 pkt 1 i ust. 3, poniesione przez wnioskodawcę przed dniem zawarcia umowy, na podstawie której jest przyznawana pomoc na małe projekty, lecz nie wcześniej niż w dniu, w którym został złożony wniosek o przyznanie pomocy na małe projekty, a w przypadku kosztów stanowiących koszty ogólne – nie wcześniej niż w dniu 1 stycznia 2007 r.
 5.
@@ -149,10 +144,9 @@ W przypadku gdy zdarzenie powodujące poniesienie kosztów kwalifikowalnych:
 1)
 nie zostało uwzględnione w oddzielnym systemie rachunkowości albo
 2)
-do jego identyfikacji nie wykorzystano odpowiedniego kodu rachunkowego
-o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005, koszty te podlegają refundacji w wysokości określonej w ust. 6 pomniejszonej o 10%.
+do jego identyfikacji nie wykorzystano odpowiedniego kodu rachunkowego – o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r., koszty te podlegają refundacji w wysokości określonej w ust. 6 pomniejszonej o 10%.
 6b.
-Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego, o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005, odbywa się w ramach prowadzonych ksiąg rachunkowych albo przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu udostępnionym przez samorząd województwa, gdy na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych.
+Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego, o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r., odbywa się w ramach prowadzonych ksiąg rachunkowych albo przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu udostępnionym przez samorząd województwa, gdy na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych.
 7.
 Pomoc na małe projekty przyznaje się i wypłaca do wysokości limitu, który w okresie realizacji Programu Rozwoju Obszarów Wiejskich na lata 2007–2013, zwanego dalej „Programem”, wynosi 200 tys. złotych na jednego beneficjenta, z tym że w przypadku beneficjenta, który może ubiegać się o pomoc finansową w ramach działań, o których mowa w art. 5 ust. 1 pkt 17 i 18 ustawy, limit ten wynosi 50 tys. złotych na jednego beneficjenta.
 7a.
@@ -193,7 +187,7 @@ Informacja, o której mowa w ust. 1, zawiera wskazanie:
 terminu składania wniosków o przyznanie pomocy na małe projekty:
 a)
 nie krótszego niż 14 dni i nie dłuższego niż 30 dni,
-b)
+bW brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.)
 rozpoczynającego bieg nie wcześniej niż po upływie 14 dni od dnia podania do publicznej wiadomości tej informacji oraz kończącego bieg nie później niż w dniu 30 września 2014 r.;
 2)
 miejsca składania wniosków o przyznanie pomocy na małe projekty;
@@ -239,7 +233,7 @@ Do wniosku o przyznanie pomocy na małe projekty dołącza się także ten wnios
 Wnioskodawca informuje LGD i właściwy organ samorządu województwa, w formie pisemnej, o wszelkich zmianach w zakresie danych objętych wnioskiem o przyznanie pomocy na małe projekty, niezwłocznie po zaistnieniu tych zmian.
 § 9.
 1.
-LGD dokonuje wyboru małych projektów zgodnie z art. 62 ust. 4 rozporządzenia nr 1698/2005
+LGD dokonuje wyboru małych projektów zgodnie z art. 62 ust. 4 rozporządzenia nr 1698/2005Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r.
 1)
 spośród małych projektów:
 a)
@@ -256,7 +250,7 @@ na podstawie kryteriów wyboru małych projektów;
 do wysokości limitu dostępnych środków wskazanego w informacji, o której mowa w § 6 ust. 1.
 2.
 (uchylony).
-3.
+3W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3..
 W przypadku gdy informacja o możliwości składania wniosków o przyznanie pomocy na małe projekty, według harmonogramu przewidywanych terminów podawania do publicznej wiadomości takich informacji stanowiącego załącznik do umowy, o której mowa w art. 14 ust. 3 ustawy, jest podawana do publicznej wiadomości po raz ostatni, LGD wybiera małe projekty do wysokości 150% limitu dostępnych środków wskazanego w tej informacji.
 § 10.
 1.
@@ -272,8 +266,7 @@ W terminie 45 dni od dnia, w którym upłynął termin składania wniosków o pr
 1)
 małych projektów, które zostały wybrane, ustalając ich kolejność według liczby uzyskanych punktów w ramach oceny spełniania kryteriów wyboru małych projektów,
 2)
-małych projektów, które nie zostały wybrane
-uwzględniając wyniki oceny małych projektów dokonanej na skutek złożonych odwołań, o których mowa w ust. 1 pkt 3.
+małych projektów, które nie zostały wybrane – uwzględniając wyniki oceny małych projektów dokonanej na skutek złożonych odwołań, o których mowa w ust. 1 pkt 3.
 3.
 Listy, o których mowa w ust. 1 i 2, zawierają dane umożliwiające identyfikację małego projektu i wnioskowaną kwotę pomocy, a lista, o której mowa w ust. 2:
 1)
@@ -298,8 +291,7 @@ LGD informuje na piśmie wnioskodawcę o:
 1)
 wybraniu małego projektu albo jego niewybraniu, wskazując przyczyny niewybrania,
 2)
-liczbie uzyskanych punktów w ramach oceny małych projektów pod względem spełniania kryteriów wyboru małych projektów lub miejscu na liście małych projektów, które zostały wybrane
-w terminie określonym w § 10 ust. 2, z tym że – w przypadku określonym w § 9 ust. 3 – wnioskodawcę, którego mały projekt został wybrany, informuje również, czy projekt ten mieści się w ramach limitu dostępnych środków wskazanego w informacji, o której mowa w § 6 ust. 1.
+liczbie uzyskanych punktów w ramach oceny małych projektów pod względem spełniania kryteriów wyboru małych projektów lub miejscu na liście małych projektów, które zostały wybrane – w terminie określonym w § 10 ust. 2, z tym że – w przypadku określonym w § 9 ust. 3 – wnioskodawcę, którego mały projekt został wybrany, informuje również, czy projekt ten mieści się w ramach limitu dostępnych środków wskazanego w informacji, o której mowa w § 6 ust. 1.
 § 10c.
 1.
 Samorząd województwa może dwukrotnie wezwać LGD do złożenia wyjaśnień, uzupełnienia list, o których mowa w § 10 ust. 2, lub przekazania brakujących uchwał, o których mowa w § 10a, lub złożonych wniosków o przyznanie pomocy na małe projekty, jeżeli jest to niezbędne dla rozstrzygnięcia sprawy dotyczącej przyznania pomocy na mały projekt.
@@ -338,7 +330,7 @@ W przypadku nierozpatrzenia wniosku w terminie, o którym mowa w ust. 2, właśc
 W przypadku określonym w § 9 ust. 3 wniosek o przyznanie pomocy na mały projekt, który nie mieści się w ramach limitu dostępnych środków wskazanego w informacji, o której mowa w § 6 ust. 1, podlega rozpatrzeniu dopiero wówczas, gdy okaże się, że w ramach tego limitu jest możliwe przyznanie pomocy na ten projekt, o czym właściwy organ samorządu województwa informuje wnioskodawcę w formie pisemnej.
 2.
 Termin rozpatrzenia wniosku, o którym mowa w ust. 1, rozpoczyna bieg od dnia, w którym okaże się, że w ramach limitu dostępnych środków wskazanego w informacji, o której mowa w § 6 ust. 1, jest możliwe przyznanie pomocy na mały projekt objęty tym wnioskiem.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3..
 Jeżeli do dnia 31 marca 2015 r. okaże się, że nie jest możliwe przyznanie pomocy na mały projekt w ramach limitu dostępnych środków wskazanego w informacji, o której mowa w § 6 ust. 1, właściwy organ samorządu województwa informuje wnioskodawcę, w formie pisemnej, o odmowie przyznania pomocy finansowej z podaniem jej przyczyn.
 § 12b.
 1.
@@ -356,7 +348,7 @@ uzgodnionym z właściwym organem samorządu województwa przed upływem terminu
 wyznaczonym przez właściwy organ samorządu województwa, nie dłuższym niż 21 dni od dnia oznaczonego w wezwaniu, o którym mowa w ust. 1.
 3.
 W przypadku nieprzyznania pomocy na małe projekty na podstawie ust. 2, właściwy organ samorządu województwa informuje o tym wnioskodawcę, w formie pisemnej, podając przyczyny nieprzyznania pomocy.
-§ 13a.
+§ 13aW brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3..
 1.
 Właściwy organ samorządu województwa, na uzasadnioną prośbę wnioskodawcy, może wyrazić zgodę na przedłużenie terminu wykonania przez wnioskodawcę określonych czynności w toku postępowania w sprawie przyznania pomocy, jednak nie dłużej niż o 30 dni.
 2.
@@ -384,8 +376,7 @@ informacji zawierającej wskazanie przyczyn nieuwzględnienia zastrzeżeń, jeż
 2)
 informacji, o której mowa w pkt 1, wraz ze zmienionym lub uzupełnionym raportem z czynności kontrolnych, jeżeli zastrzeżenia zostały uwzględnione w części, albo
 3)
-zmienionego lub uzupełnionego raportu z czynności kontrolnych, jeżeli zastrzeżenia zostały uwzględnione w całości
-jednak nie dłużej niż przez miesiąc, o czym właściwy organ samorządu województwa na piśmie zawiadamia wnioskodawców.
+zmienionego lub uzupełnionego raportu z czynności kontrolnych, jeżeli zastrzeżenia zostały uwzględnione w całości – jednak nie dłużej niż przez miesiąc, o czym właściwy organ samorządu województwa na piśmie zawiadamia wnioskodawców.
 2.
 Jeżeli w trakcie rozpatrywania wniosku o przyznanie pomocy na małe projekty niezbędne jest uzyskanie dodatkowych wyjaśnień lub opinii innego podmiotu lub zajdą nowe okoliczności budzące wątpliwości co do możliwości przyznania pomocy, termin rozpatrywania wniosku o jej przyznanie wydłuża się o czas niezbędny do uzyskania tych wyjaśnień lub opinii, także w związku z zajściem nowych okoliczności, nie dłuższy jednak niż 2 miesiące, o czym właściwy organ samorządu województwa informuje na piśmie wnioskodawcę i LGD.
 § 16.
@@ -411,8 +402,7 @@ ograniczeń lub warunków w zakresie:
 a)
 przenoszenia własności lub posiadania rzeczy nabytych w ramach realizacji małego projektu lub sposobu ich wykorzystywania,
 b)
-sposobu lub miejsca prowadzenia działalności związanej z przyznaną pomocą
-do dnia, w którym upłynie 5 lat od dnia przyznania pomocy;
+sposobu lub miejsca prowadzenia działalności związanej z przyznaną pomocą – do dnia, w którym upłynie 5 lat od dnia przyznania pomocy;
 4)
 umożliwienia przeprowadzania kontroli związanych z przyznaną pomocą do dnia, w którym upłynie 5 lat od dnia przyznania pomocy;
 5)
@@ -451,7 +441,7 @@ współwłaściciela albo współwłaścicieli przedsiębiorstwa, a w przypadku 
 § 19.
 1.
 Środki finansowe z tytułu pomocy na małe projekty wypłaca się na warunkach określonych w umowie, na podstawie której jest przyznawana pomoc na małe projekty, z tym że środki te mogą być wypłacone, jeżeli beneficjent:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3.)
 zrealizował mały projekt lub jego etap, w tym poniósł związane z tym koszty, zgodnie z warunkami określonymi w rozporządzeniu i w umowie oraz określonymi w innych przepisach odrębnych, których regulacje dotyczą małego projektu;
 2)
 zrealizował lub realizuje zobowiązania określone w umowie;
@@ -482,11 +472,11 @@ W trakcie rozpatrywania wniosku o płatność właściwy organ samorządu wojew�
 § 22.
 1.
 Wypłaty środków finansowych z tytułu pomocy na małe projekty dokonuje się niezwłocznie po pozytywnym rozpatrzeniu wniosku o płatność, lecz nie później niż w terminie 3 miesięcy od dnia złożenia tego wniosku.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 3..
 Do trybu rozpatrywania wniosku o płatność stosuje się odpowiednio przepisy § 14 i § 15, z wyłączeniem § 15 ust. 1a i 1b.
-3.
+3Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 Właściwy organ samorządu województwa, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na przedłużenie terminu wykonania przez beneficjenta określonych czynności w toku postępowania w sprawie wypłaty pomocy, jednak nie dłużej niż o 6 miesięcy, przy czym przedłużenie terminu o więcej niż miesiąc wymaga udokumentowania przez beneficjenta przyczyny uzasadniającej jego prośbę.
-4.
+4Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 Zgoda na przedłużenie terminu, o którym mowa w ust. 3, może być wyrażona więcej niż raz, jeżeli łączny okres tego przedłużenia nie przekracza 6 miesięcy.
 § 23.
 1.
@@ -503,7 +493,7 @@ Do wniosku następcy dołącza się dokument potwierdzający fakt zaistnienia na
 Jeżeli nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku, spadkobierca dołącza do wniosku następcy zaświadczenie sądu o zarejestrowaniu wniosku o stwierdzenie nabycia spadku albo kopię wniosku o stwierdzenie nabycia spadku, potwierdzoną za zgodność z oryginałem przez:
 1)
 sąd albo
-2)
+2W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 3.)
 notariusza albo upoważnionego pracownika urzędu marszałkowskiego wraz z potwierdzeniem nadania tego wniosku w polskiej placówce pocztowej operatora wyznaczonego albo kopią tego potwierdzenia poświadczoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika urzędu marszałkowskiego.
 5.
 W przypadku, o którym mowa w ust. 4, spadkobierca przekazuje właściwemu organowi samorządu województwa prawomocne postanowienie sądu o stwierdzeniu nabycia spadku w terminie 14 dni od dnia uprawomocnienia się tego postanowienia.
@@ -551,7 +541,7 @@ Jeżeli suma kwot pomocy wypłaconej w ramach małych projektów zrealizowanych 
 § 27.
 1.
 Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku postępowania w sprawie przyznania pomocy na małe projekty i wypłaty środków finansowych z tytułu tej pomocy dokonuje się zgodnie z przepisami Kodeksu cywilnego dotyczącymi terminów.
-2.
+2W brzmieniu ustalonym przez 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 3..
 Jeżeli przepisy rozporządzenia nie stanowią inaczej, termin uważa się za zachowany, jeżeli przed jego upływem pismo nadano w polskiej placówce pocztowej operatora wyznaczonego albo złożono w polskim urzędzie konsularnym.
 § 28.
 1.
@@ -560,7 +550,7 @@ Właściwy organ samorządu województwa po upływie każdego kwartału informuj
 Informacje, o których mowa w ust. 1, właściwy organ samorządu województwa przekazuje LGD, na jej wniosek, również przed podaniem do publicznej wiadomości informacji, o której mowa w § 6 ust. 1.
 § 29.
 1.
-Innymi niż wymienione w przepisach rozporządzenia nr 1974/2006  kategoriami siły wyższej lub wyjątkowymi okolicznościami, w przypadku wystąpienia których nie jest wymagany zwrot całości albo części pomocy przyznanej na małe projekty, są:
+Innymi niż wymienione w przepisach rozporządzenia nr 1974/2006 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1); rozporządzenie stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.) przed dniem 1 stycznia 2014 r. kategoriami siły wyższej lub wyjątkowymi okolicznościami, w przypadku wystąpienia których nie jest wymagany zwrot całości albo części pomocy przyznanej na małe projekty, są:
 1)
 wywłaszczenie części nieruchomości związanej z małym projektem, jeżeli takiego wywłaszczenia nie można było przewidzieć w dniu zawarcia umowy, na podstawie której jest przyznawana pomoc na małe projekty;
 2)
@@ -576,7 +566,7 @@ zmiana, w całości albo w części, za zgodą właściwego organu samorządu wo
 2.
 Sposób postępowania beneficjenta i samorządu województwa w razie wystąpienia okoliczności siły wyższej lub wyjątkowych okoliczności, w przypadku wystąpienia których nie jest wymagany zwrot pomocy, określa umowa, na podstawie której jest przyznawana pomoc na małe projekty.
 § 30.
-Poza okolicznościami siły wyższej i wyjątkowymi okolicznościami, o których mowa w przepisach rozporządzenia nr 1974/2006 oraz w § 29 ust. 1, beneficjent nie jest zobowiązany do zwrotu pomocy w części dotyczącej małego projektu, która została zrealizowana zgodnie z warunkami, o których mowa w § 19 ust. 1, jeżeli cel małego projektu został osiągnięty i zachowany.
+Poza okolicznościami siły wyższej i wyjątkowymi okolicznościami, o których mowa w przepisach rozporządzenia nr 1974/2006 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1); rozporządzenie stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.) przed dniem 1 stycznia 2014 r.oraz w § 29 ust. 1, beneficjent nie jest zobowiązany do zwrotu pomocy w części dotyczącej małego projektu, która została zrealizowana zgodnie z warunkami, o których mowa w § 19 ust. 1, jeżeli cel małego projektu został osiągnięty i zachowany.
 § 31.
 1.
 Pomoc na operacje, o których mowa w art. 12 ust. 1 pkt 1 lit. a ustawy, jest przyznawana podmiotom:
@@ -645,11 +635,10 @@ informacji zawierającej wskazanie przyczyn nieuwzględnienia zastrzeżeń, jeż
 b)
 informacji, o której mowa w lit. a, wraz ze zmienionym lub uzupełnionym raportem z czynności kontrolnych, jeżeli zastrzeżenia zostały uwzględnione w części, albo
 c)
-zmienionego lub uzupełnionego raportu z czynności kontrolnych, jeżeli zastrzeżenia zostały uwzględnione w całości
-jednak nie dłużej niż przez miesiąc, o czym właściwy podmiot wdrażający na piśmie zawiadamia wnioskodawców;
+zmienionego lub uzupełnionego raportu z czynności kontrolnych, jeżeli zastrzeżenia zostały uwzględnione w całości – jednak nie dłużej niż przez miesiąc, o czym właściwy podmiot wdrażający na piśmie zawiadamia wnioskodawców;
 7)
 pomoc jest przyznawana:
-a)
+aW brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 3.)
 jeżeli zakończenie realizacji operacji i złożenie wniosku o płatność ostateczną będącą refundacją kosztów kwalifikowalnych wypłacaną po zrealizowaniu całej operacji nastąpi nie później niż do dnia 31 marca 2015 r.,
 b)
 do wysokości limitów określonych w tych przepisach i do wysokości limitu dostępnych środków, który jest określony w informacji, o której mowa w pkt 1;
@@ -658,8 +647,7 @@ umowa, na podstawie której jest przyznawana pomoc, zawiera również postanowie
 § 34a.
 Do postępowań w sprawach dotyczących przyznania pomocy na operacje, o których mowa w art. 12 ust. 1 pkt 1 lit. a ustawy, wszczętych w terminach składania wniosków o przyznanie tej pomocy, które upłynęły przed dniem wejścia w życie przepisów zmieniających przepisy wydane na podstawie art. 29 ust. 1 pkt 1 ustawy, określające szczegółowe warunki i tryb przyznawania pomocy finansowej w ramach działań, o których mowa w art. 5 ust. 1 pkt 17, 18 i 20 ustawy, stosuje się przepisy dotychczasowe.
 § 35.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1261). 2) Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1); rozporządzenie stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.) przed dniem 1 stycznia 2014 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 5 czerwca 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Wdrażanie lokalnych strategii rozwoju” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 884), które weszło w życie z dniem 17 lipca 2014 r. 4) Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 7) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 8) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3. 9) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3. 10) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 3. 11) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 3. 12) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 3. 13) W brzmieniu ustalonym przez 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 3. 14) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 3. 15) Rozporządzenie zostało ogłoszone w dniu 31 lipca 2008 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 31 lipca 2008 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1261). 2) Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1); rozporządzenie stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.) przed dniem 1 stycznia 2014 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 5 czerwca 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Wdrażanie lokalnych strategii rozwoju” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 884), które weszło w życie z dniem 17 lipca 2014 r. 4) Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 7) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 8) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3. 9) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3. 10) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 3. 11) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 3. 12) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 3. 13) W brzmieniu ustalonym przez 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 3. 14) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 3. 15) Rozporządzenie zostało ogłoszone w dniu 31 lipca 2008 r.
 
 ## Załącznik nr 1 — – Zakres realizacji małych projektów:
 
@@ -719,8 +707,7 @@ budowę, adaptację lub wyposażenie niemieszkalnych obiektów budowlanych wykor
 e)
 budowę, adaptację lub wyposażenie niemieszkalnych obiektów budowlanych wykorzystywanych do tradycyjnego wyrobu produktów lokalnych,
 f)
-badanie rynku produktów lub usług lokalnych
-z wyłączeniem działalności rolniczej;
+badanie rynku produktów lub usług lokalnych – z wyłączeniem działalności rolniczej;
 7)
 wykorzystanie energii pochodzącej ze źródeł odnawialnych w celu poprawienia warunków prowadzenia działalności kulturalnej lub gospodarczej, w tym polegającej na wynajmie pokoi w gospodarstwie rolnym, z wyłączeniem działalności rolniczej.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-04 |
 | Data wydania | 2018-10-12 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001953) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1953/text.pdf) |
 
@@ -33,10 +32,11 @@ Opłata za udzielenie koncesji na rozpowszechnianie programu radiowego w sposób
 1)
 dla zakresu fal średnich: 20 zł × K,
 2)
-dla zakresu UKF: 370 zł × K,
-gdzie: K – oznacza liczbę mieszkańców w zasięgu programu, w pełnych tysiącach.
+dla zakresu UKF: 370 zł × K, gdzie: K – oznacza liczbę mieszkańców w zasięgu programu, w pełnych tysiącach.
 § 2.
-Opłata za udzielenie koncesji na rozpowszechnianie programu telewizyjnego w sposób analogowy rozsiewczy naziemny wynosi: Liczba mieszkańców w zasięgu programu Opłata w zł do 0,5 mln 12 000 + 660 × K powyżej 0,5 mln do 5 mln 180 000 + 660 × K powyżej 5 mln 480 000 + 660 × K gdzie: K – oznacza liczbę mieszkańców w zasięgu programu, w pełnych tysiącach.
+Opłata za udzielenie koncesji na rozpowszechnianie programu telewizyjnego w sposób analogowy rozsiewczy naziemny wynosi:
+Liczba mieszkańców w zasięgu programu Opłata w zł do 0,5 mln 12 000 + 660 × K powyżej 0,5 mln do 5 mln 180 000 + 660 × K powyżej 5 mln 480 000 + 660 × K
+gdzie: K – oznacza liczbę mieszkańców w zasięgu programu, w pełnych tysiącach.
 § 3.
 1.
 Opłata za udzielenie koncesji na rozpowszechnianie programu radiowego w sposób cyfrowy rozsiewczy naziemny w multipleksie o zasięgu ogólnopolskim, dla wszystkich standardów naziemnej radiofonii cyfrowej, z zastrzeżeniem ust. 5, wynosi 6 444 140 zł.

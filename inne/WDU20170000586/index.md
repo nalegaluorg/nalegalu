@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 14 marca 2017 r. w sprawie przeprowadzania postępowania rekrutacyjnego oraz postępowania uzupełniającego na lata szkolne 2017/2018–2019/2020 do trzyletniego liceum ogólnokształcącego, czteroletniego technikum i branżowej szkoły I stopnia, dla kandydatów będących absolwentami dotychczasowego gimnazjum
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 14 marca 2017 r. w sprawie przeprowadzania postępowania rekrutacyjnego oraz postępowania uzupełniającego na lata szkolne 2017/2018–2019/2020 do trzyletniego liceum ogólnokształcącego, czteroletniego technikum i branżowej szkoły I stopnia, dla kandydatów będących absolwentami dotychczasowego gimnazjum Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-14 |
 | Data wydania | 2017-03-20 |
-| Wejście w życie | 2017-03-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000586) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/586/text.pdf) |
 
@@ -55,8 +54,7 @@ matematyki,
 4)
 przedmiotów przyrodniczych,
 5)
-języka obcego nowożytnego na poziomie podstawowym
-mnoży się przez 0,2.
+języka obcego nowożytnego na poziomie podstawowym – mnoży się przez 0,2.
 § 4.
 W przypadku przeliczania na punkty ocen z zajęć edukacyjnych, o których mowa w art. 20f ust. 2 pkt 2, art. 20h ust. 6 pkt 3 i art. 20j ust. 2 pkt 3 ustawy, wymienionych na świadectwie ukończenia gimnazjum, za oceny wyrażone w stopniu:
 1)
@@ -158,8 +156,7 @@ dobrym – przyznaje się po 13 punktów,
 d)
 dostatecznym – przyznaje się po 8 punktów,
 e)
-dopuszczającym – przyznaje się po 2 punkty
-oraz liczbę punktów uzyskaną po zsumowaniu punktów z tych zajęć edukacyjnych dzieli się przez 2;
+dopuszczającym – przyznaje się po 2 punkty – oraz liczbę punktów uzyskaną po zsumowaniu punktów z tych zajęć edukacyjnych dzieli się przez 2;
 3)
 biologii, chemii, fizyki i geografii oceny wyrażonej w stopniu:
 a)
@@ -171,8 +168,7 @@ dobrym – przyznaje się po 13 punktów,
 d)
 dostatecznym – przyznaje się po 8 punktów,
 e)
-dopuszczającym – przyznaje się po 2 punkty
-oraz liczbę punktów uzyskaną po zsumowaniu punktów z tych zajęć edukacyjnych dzieli się przez 4;
+dopuszczającym – przyznaje się po 2 punkty – oraz liczbę punktów uzyskaną po zsumowaniu punktów z tych zajęć edukacyjnych dzieli się przez 4;
 4)
 języka obcego nowożytnego oceny wyrażonej w stopniu:
 a)
@@ -248,6 +244,5 @@ przekazuje gminom i dyrektorom gimnazjów informację o trzyletnich liceach ogó
 2)
 organizuje punkty informacyjne o wolnych miejscach w szkołach, o których mowa w pkt 1.
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 

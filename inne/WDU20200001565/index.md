@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 sierpnia 2020 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
+# Ustawa z dnia 14 sierpnia 2020 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 8 grudnia 2017 r. o rynku mocy, ustawę z dnia 6 czerwca 2018 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw oraz ustawę z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-08-14 |
 | Data wydania | 2020-09-11 |
-| Wejście w życie | 2020-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001565) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1565/text.pdf) |
 
@@ -166,7 +165,7 @@ source: "eli-html"
 10s. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw rodziny określi, w drodze rozporządzenia:
 
 - **1)** wzór żądania wydania zaświadczenia, o którym mowa w ust. 10g,
-- **2)** wzór zaświadczenia, o którym mowa w ust. 10g kierując się koniecznością ujednolicenia formy przekazywanych danych, a także zapewnienia zupełności i przejrzystości przedstawianych informacji. ” .
+- **2)** wzór zaświadczenia, o którym mowa w ust. 10g – kierując się koniecznością ujednolicenia formy przekazywanych danych, a także zapewnienia zupełności i przejrzystości przedstawianych informacji. ” .
 
 **Art. 6.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2020 r. poz. 1546) w art. 2 w ust. 1 w pkt 8 na końcu kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
 
@@ -234,7 +233,7 @@ source: "eli-html"
 
 2. Bank Gospodarstwa Krajowego przekazuje na rachunek bankowy NFOŚiGW kwotę pobranej opłaty emisyjnej, o której mowa w art. 321a ustawy zmienianej w art. 5, w części przypadającej – zgodnie z art. 321b ustawy zmienianej w art. 5, w brzmieniu dotychczasowym – zlikwidowanemu FNT-PFC, w terminie 7 dni od dnia jej wpływu na rachunek w Banku Gospodarstwa Krajowego.
 
-3. Wolne środki FNT-PFC, przekazane przed dniem wejścia w życie niniejszej ustawy w zarządzanie terminowe zgodnie z art. 78b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.), pozostają w tym zarządzaniu do dnia ich zwrotu, określonego w dyspozycji przekazania tych środków w zarządzanie terminowe.
+3. Wolne środki FNT-PFC, przekazane przed dniem wejścia w życie niniejszej ustawy w zarządzanie terminowe zgodnie z art. 78b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695 i 1175.), pozostają w tym zarządzaniu do dnia ich zwrotu, określonego w dyspozycji przekazania tych środków w zarządzanie terminowe.
 
 4. Do zwrotu środków, o których mowa w ust. 3, stosuje się przepisy dotychczasowe, z tym że zwrot następuje na rachunek bankowy NFOŚiGW.
 
@@ -286,6 +285,6 @@ source: "eli-html"
 **Art. 17.** Ustawa wchodzi w życie z dniem 1 października 2020 r., z wyjątkiem:
 
 - **1)** art. 7 i art. 16, które wchodzą w życie po upływie 7 dni od dnia ogłoszenia;
-- **2)** art. 10 i art. 11, które wchodzą w życie z dniem 30 września 2020 r.
+- **2)** art. 10 i art. 11, które wchodzą w życie z dniem 30 września 2020 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 8 grudnia 2017 r. o rynku mocy, ustawę z dnia 6 czerwca 2018 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw oraz ustawę z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695 i 1175.
 
 

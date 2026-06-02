@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwojuz dnia 17 sierpnia 2016 r. w sprawie konkursów na stanowiska Dyrektora i zastępcy Dyrektora Polskiego Centrum Akredytacji
+# Rozporządzenie Ministra Rozwojuz dnia 17 sierpnia 2016 r. w sprawie konkursów na stanowiska Dyrektora i zastępcy Dyrektora Polskiego Centrum Akredytacji Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-08-17 |
 | Data wydania | 2016-08-26 |
-| Wejście w życie | 2016-08-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001349) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1349/text.pdf) |
 
@@ -161,6 +160,5 @@ Komisje ulegają rozwiązaniu po powołaniu przez Ministra Dyrektora Centrum lub
 § 9.
 Wyniki konkursu na stanowisko Dyrektora Centrum i na stanowisko zastępcy Dyrektora Centrum ogłasza się przez udostępnienie informacji o tych wynikach w Biuletynie Informacji Publicznej Centrum, w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów i w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw gospodarki.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady
 

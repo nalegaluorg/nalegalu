@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 17 maja 2019 r. w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem nadzwyczajnych środków wspierania rynku w sektorach jaj i mięsa drobiowego
+# Rozporządzenie Rady Ministrówz dnia 17 maja 2019 r. w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem nadzwyczajnych środków wspierania rynku w sektorach jaj i mięsa drobiowego Niniejsze rozporządzenie służy stosowaniu rozporządzenia wykonawczego Komisji (UE) 2018/1507 z dnia 10 października 2018 r. w sprawie nadzwyczajnych środków wspierania rynku w sektorach jaj i mięsa drobiowego w Polsce (Dz. Urz. UE L 255 z 11.10.2018, str. 7).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-17 |
 | Data wydania | 2019-06-07 |
-| Wejście w życie | 2019-06-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001066) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1066/text.pdf) |
 
@@ -153,5 +152,5 @@ stanowi 10% kwoty wsparcia otrzymanej przez producenta rolnego;
 2)
 jest wymierzana w drodze decyzji administracyjnej przez dyrektora oddziału regionalnego Agencji.
 § 11.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Niniejsze rozporządzenie służy stosowaniu rozporządzenia wykonawczego Komisji (UE) 2018/1507 z dnia 10 października 2018 r. w sprawie nadzwyczajnych środków wspierania rynku w sektorach jaj i mięsa drobiowego w Polsce (Dz. Urz. UE L 255 z 11.10.2018, str. 7).
 

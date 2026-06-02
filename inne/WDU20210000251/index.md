@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Kultury, Dziedzictwa Narodowego i Sportuz dnia 27 stycznia 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Kultury i Dziedzictwa Narodowego w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu
+# Obwieszczenie Ministra Kultury, Dziedzictwa Narodowego i Sportuz dnia 27 stycznia 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Kultury i Dziedzictwa Narodowego w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu Minister Kultury, Dziedzictwa Narodowego i Sportu kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. poz. 1717).
 
 | Pole | Wartość |
 |---|---|
@@ -40,25 +40,18 @@ rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 10 września 2
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 19 października 2016 r. zmieniającego rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. poz. 1775), który stanowi:
-„
+§ 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 19 października 2016 r. zmieniającego rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. poz. 1775), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 12 grudnia 2017 r. zmieniającego rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. poz. 2427), który stanowi:
-„
+§ 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 12 grudnia 2017 r. zmieniającego rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. poz. 2427), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 3)
-§ 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 10 września 2020 r. zmieniającego rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. poz. 1601), który stanowi:
-„
+§ 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 10 września 2020 r. zmieniającego rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. poz. 1601), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Kultury, Dziedzictwa Narodowego i Sportu kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. poz. 1717).
-Załącznik – Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 2 kwietnia 2012 r. w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Kultury, Dziedzictwa Narodowego i Sportu kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. poz. 1717).
+Załącznik – Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 2 kwietnia 2012 r. w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazuObecnie działem administracji rządowej – kultura i ochrona dziedzictwa narodowego kieruje Minister Kultury, Dziedzictwa Narodowego i Sportu, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. poz. 1717).
 Na podstawie art. 21 ust. 4 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2019 r. poz. 1479) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób i tryb zaliczania bibliotek do bibliotek naukowych, o których mowa w art. 21 ust. 2 pkt 5 ustawy z dnia 27 czerwca 1997 r. o bibliotekach, zwanych dalej „bibliotekami naukowymi”, oraz ustala ich wykaz.
@@ -115,8 +108,7 @@ Biblioteki zaliczone do bibliotek naukowych na podstawie dotychczasowych przepis
 2.
 W przypadku bibliotek, o których mowa w ust. 1, ocenę w zakresie spełniania kryteriów, o których mowa w § 2, przeprowadza się nie wcześniej niż trzy lata, a nie później niż cztery lata od dnia zaliczenia biblioteki do bibliotek naukowych.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – kultura i ochrona dziedzictwa narodowego kieruje Minister Kultury, Dziedzictwa Narodowego i Sportu, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. poz. 1717). 2) Rozporządzenie zostało ogłoszone w dniu 11 kwietnia 2012 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Sztuki z dnia 19 marca 1998 r. w sprawie zasad i trybu zaliczania bibliotek do bibliotek naukowych oraz ustalania ich wykazu (Dz. U. poz. 269, z 2001 r. poz. 313 i 1219, z 2006 r. poz. 1742 oraz z 2010 r. poz. 811), które na podstawie art. 13 pkt 3 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. poz. 1230) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 11 kwietnia 2012 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Sztuki z dnia 19 marca 1998 r. w sprawie zasad i trybu zaliczania bibliotek do bibliotek naukowych oraz ustalania ich wykazu (Dz. U. poz. 269, z 2001 r. poz. 313 i 1219, z 2006 r. poz. 1742 oraz z 2010 r. poz. 811), które na podstawie art. 13 pkt 3 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. poz. 1230) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Obecnie działem administracji rządowej – kultura i ochrona dziedzictwa narodowego kieruje Minister Kultury, Dziedzictwa Narodowego i Sportu, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. poz. 1717). 2) Rozporządzenie zostało ogłoszone w dniu 11 kwietnia 2012 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Sztuki z dnia 19 marca 1998 r. w sprawie zasad i trybu zaliczania bibliotek do bibliotek naukowych oraz ustalania ich wykazu (Dz. U. poz. 269, z 2001 r. poz. 313 i 1219, z 2006 r. poz. 1742 oraz z 2010 r. poz. 811), które na podstawie art. 13 pkt 3 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. poz. 1230) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
 Załącznik – Wykaz bibliotek zaliczonych do bibliotek naukowych
 1.
 Biblioteka Śląska w Katowicach
@@ -174,15 +166,14 @@ Wojewódzka Biblioteka Publiczna im. Emanuela Smołki w Opolu
 Książnica Podlaska im. Łukasza Górnickiego w Białymstoku
 28.
 Biblioteka Zakładu Narodowego im. Ossolińskich we Wrocławiu
-29.
+29Dodana przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 19 października 2016 r. zmieniającego rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. poz. 1775), które weszło w życie z dniem 12 listopada 2016 r..
 Biblioteka Międzynarodowego Centrum Kultury w Krakowie
-30.
+30Dodana przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 19 października 2016 r. zmieniającego rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. poz. 1775), które weszło w życie z dniem 12 listopada 2016 r..
 Biblioteka Elbląska im. Cypriana Norwida w Elblągu
-31.
+31Dodana przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 12 grudnia 2017 r. zmieniającego rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. poz. 2427), które weszło w życie z dniem 11 stycznia 2018 r..
 Biblioteka Fundacji Ośrodka KARTA
-32.
+32Dodana przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 12 grudnia 2017 r. zmieniającego rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. poz. 2427), które weszło w życie z dniem 11 stycznia 2018 r..
 Biblioteka Diecezjalna w Sandomierzu
-33.
-Polskie Centrum Informacji Muzycznej POLMIC / Biblioteka – Fonoteka Związku Kompozytorów Polskich
-4) Dodana przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 19 października 2016 r. zmieniającego rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. poz. 1775), które weszło w życie z dniem 12 listopada 2016 r. 5) Dodana przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 12 grudnia 2017 r. zmieniającego rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. poz. 2427), które weszło w życie z dniem 11 stycznia 2018 r. 6) Dodana przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 10 września 2020 r. zmieniającego rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. poz. 1601), które weszło w życie z dniem 2 października 2020 r.
+33Dodana przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 10 września 2020 r. zmieniającego rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. poz. 1601), które weszło w życie z dniem 2 października 2020 r..
+Polskie Centrum Informacji Muzycznej POLMIC / Biblioteka – Fonoteka Związku Kompozytorów Polskich 4) Dodana przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 19 października 2016 r. zmieniającego rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. poz. 1775), które weszło w życie z dniem 12 listopada 2016 r. 5) Dodana przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 12 grudnia 2017 r. zmieniającego rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. poz. 2427), które weszło w życie z dniem 11 stycznia 2018 r. 6) Dodana przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 10 września 2020 r. zmieniającego rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. poz. 1601), które weszło w życie z dniem 2 października 2020 r.
 

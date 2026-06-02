@@ -39,26 +39,20 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 24 czerwca 2013 r. zmie
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 listopada 2009 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przeprowadzania kontroli na miejscu i wizytacji w miejscu w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 210, poz. 1622), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 listopada 2009 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przeprowadzania kontroli na miejscu i wizytacji w miejscu w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 210, poz. 1622), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 września 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przeprowadzania kontroli na miejscu i wizytacji w miejscu w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 174, poz. 1182), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 września 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przeprowadzania kontroli na miejscu i wizytacji w miejscu w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 174, poz. 1182), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 3)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 czerwca 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przeprowadzania kontroli na miejscu i wizytacji w miejscu w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 772), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 czerwca 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przeprowadzania kontroli na miejscu i wizytacji w miejscu w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 772), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 31 sierpnia 2007 r. w sprawie szczegółowych warunków i trybu przeprowadzania kontroli na miejscu i wizytacji w miejscu w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 31 sierpnia 2007 r. w sprawie szczegółowych warunków i trybu przeprowadzania kontroli na miejscu i wizytacji w miejscu w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013Minister Rolnictwa i Rozwoju Wsi kierował działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486).
 Na podstawie art. 32 pkt 3 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. z 2013 r. poz. 173) zarządza się, co następuje:
-§ 1.
+§ 1W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 czerwca 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przeprowadzania kontroli na miejscu i wizytacji w miejscu w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 772), które weszło w życie z dniem 19 lipca 2013 r..
 1.
 Wizytacja w miejscu, o której mowa w art. 24 ust. 4 rozporządzenia Komisji (UE) nr 65/2011 z dnia 27 stycznia 2011 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1698/2005 w odniesieniu do wprowadzenia procedur kontroli oraz do zasady wzajemnej zgodności w zakresie środków wsparcia rozwoju obszarów wiejskich (Dz. Urz. UE L 25 z 28.01.2011, str. 8, z późn. zm.), zwanego dalej „rozporządzeniem nr 65/2011”, jest przeprowadzana w przypadku wszystkich operacji inwestycyjnych, dla których określona we wniosku o przyznanie pomocy lub przyznana kwota pomocy:
 1)
@@ -94,7 +88,7 @@ Wizytację w miejscu przeprowadza się również w przypadku, gdy istnieją uzas
 § 2.
 1.
 Kontrole na miejscu oraz wizytacje w miejscu są przeprowadzane przez co najmniej dwie osoby spełniające warunek, o którym mowa w art. 31 ust. 1 ustawy, zwane dalej „kontrolującymi”.
-1a.
+1aDodany przez § 1 pkt 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 września 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przeprowadzania kontroli na miejscu i wizytacji w miejscu w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 174, poz. 1182), które weszło w życie z dniem 9 października 2010 r..
 Kontrole na miejscu przeprowadzane metodą teledetekcji w ramach działania, o którym mowa w art. 5 ust. 1 pkt 12 ustawy, mogą być przeprowadzane przez jednego kontrolującego.
 2.
 Kontrolujący przy wykonywaniu kontroli na miejscu lub wizytacji w miejscu podlegają przepisom o bezpieczeństwie i higienie pracy oraz przepisom o postępowaniu z materiałami i dokumentami ustawowo chronionymi, obowiązującymi w podmiocie kontrolowanym.
@@ -180,6 +174,5 @@ wskazanie uchybień stwierdzonych w ramach kontroli na miejscu lub wizytacji w m
 § 12.
 Do kontroli na miejscu dotyczącej wniosków o przyznanie pomocy na 2007 rok w ramach działania, o którym mowa w art. 5 ust. 1 pkt 12 ustawy, przepisów rozporządzenia nie stosuje się.
 § 13.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kierował działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 czerwca 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przeprowadzania kontroli na miejscu i wizytacji w miejscu w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 772), które weszło w życie z dniem 19 lipca 2013 r. 3) Dodany przez § 1 pkt 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 września 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przeprowadzania kontroli na miejscu i wizytacji w miejscu w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 174, poz. 1182), które weszło w życie z dniem 9 października 2010 r. 4) Rozporządzenie zostało ogłoszone w dniu 18 września 2007 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 18 września 2007 r.. 1) Minister Rolnictwa i Rozwoju Wsi kierował działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 czerwca 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przeprowadzania kontroli na miejscu i wizytacji w miejscu w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 772), które weszło w życie z dniem 19 lipca 2013 r. 3) Dodany przez § 1 pkt 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 września 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przeprowadzania kontroli na miejscu i wizytacji w miejscu w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 174, poz. 1182), które weszło w życie z dniem 9 października 2010 r. 4) Rozporządzenie zostało ogłoszone w dniu 18 września 2007 r.
 

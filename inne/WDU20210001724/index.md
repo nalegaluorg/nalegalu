@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 16 września 2021 r. zmieniające rozporządzenie w sprawie sposobu ustalania ryczałtu systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej
+# Rozporządzenie Ministra Zdrowiaz dnia 16 września 2021 r. zmieniające rozporządzenie w sprawie sposobu ustalania ryczałtu systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-09-16 |
 | Data wydania | 2021-09-20 |
-| Wejście w życie | 2021-09-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001724) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1724/text.pdf) |
 
@@ -31,19 +30,15 @@ Na podstawie art. 136c ust. 6 pkt 1 ustawy z dnia 27 sierpnia 2004 r. o świadcz
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 22 września 2017 r. w sprawie sposobu ustalania ryczałtu systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej (Dz. U. poz. 1783, z 2018 r. poz. 1587 i 1812 oraz z 2020 r. poz. 312 i 1049) wprowadza się następujące zmiany:
 1)
-w § 2 po pkt 24a dodaje się pkt 24b w brzmieniu:
-„
+w § 2 po pkt 24a dodaje się pkt 24b w brzmieniu: „
 24b)
-L'l – liczbę jednostek sprawozdawczych wykonanych i sprawozdanych w dokumentach rozliczeniowych, przez świadczeniodawcę l, w okresie obliczeniowym;
-” ;
+L'l – liczbę jednostek sprawozdawczych wykonanych i sprawozdanych w dokumentach rozliczeniowych, przez świadczeniodawcę l, w okresie obliczeniowym; ” ;
 2)
-w § 3 w ust. 1 pkt 4 i 5 otrzymują brzmienie:
-„
+w § 3 w ust. 1 pkt 4 i 5 otrzymują brzmienie: „
 4)
 \( \Delta L_l = {{L'_l } \over {J_{l, i} }}; \)
 5)
 \( P_l = J_{l, i} + B_l^ + – {{B_l^ – } \over {\Delta L_l }} \)
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2021 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2021 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 

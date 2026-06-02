@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 19 listopada 2009 r. o zmianie ustawy o wyborze Prezydenta Rzeczypospolitej Polskiej oraz niektórych innych ustaw
+# Ustawa z dnia 19 listopada 2009 r. o zmianie ustawy o wyborze Prezydenta Rzeczypospolitej Polskiej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 czerwca 1997 r. o partiach politycznych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw oraz ustawę z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-11-19 |
 | Data wydania | 2009-12-16 |
-| Wejście w życie | 2009-12-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092131652) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1652/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej (Dz. U. z 2000 r. Nr 47, poz. 544, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej (Dz. U. z 2000 r. Nr 47, poz. 544, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 153, poz. 1271, z 2003 r. Nr 57, poz. 507 i Nr 130, poz. 1188, z 2004 r. Nr 25, poz. 219, z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162 i Nr 112, poz. 766, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 119, poz. 999, Nr 202, poz. 1547 i Nr 213, poz. 1651.) wprowadza się następujące zmiany:
 
 - **1)** w art. 10 w ust. 3 po wyrazach „przeprowadzeniem wyborów” dodaje się wyrazy „, jak i dla komitetów wyborczych oraz nadawców telewizyjnych i radiowych”;
 - **2)** w art. 15: w ust. 2 wyrazy „wojewódzki komisarz wyborczy lub zastępca wojewódzkiego komisarza wyborczego, powoływani” zastępuje się wyrazami „komisarz wyborczy powoływany”, w ust. 3 wyrazy „wojewódzkiego komisarza wyborczego lub jego zastępcę” zastępuje się wyrazami „komisarza wyborczego”, w ust. 3a zdanie drugie otrzymuje brzmienie: „ Na sekretarza komisji powołuje się dyrektora właściwej miejscowo delegatury Krajowego Biura Wyborczego albo osobę przez niego wskazaną. ” ;
@@ -115,7 +114,7 @@ source: "eli-html"
 
 **Art. 85.**
 
-1. Środki finansowe komitetu mogą pochodzić jedynie z wpłat obywateli polskich mających miejsce stałego zamieszkania na terenie Rzeczypospolitej Polskiej oraz wpłat funduszów wyborczych partii politycznych tworzonych na podstawie przepisów ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2001 r. Nr 79, poz. 857, z późn. zm.), z zastrzeżeniem przepisów ust. 2 i 3.
+1. Środki finansowe komitetu mogą pochodzić jedynie z wpłat obywateli polskich mających miejsce stałego zamieszkania na terenie Rzeczypospolitej Polskiej oraz wpłat funduszów wyborczych partii politycznych tworzonych na podstawie przepisów ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2001 r. Nr 79, poz. 857, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1802, z 2002 r. Nr 127, poz. 1089, z 2003 r. Nr 57, poz. 507, z 2004 r. Nr 25, poz. 219 i Nr 273, poz. 2703, z 2005 r. Nr 167, poz. 1398 oraz z 2008 r. Nr 171, poz. 1056.), z zastrzeżeniem przepisów ust. 2 i 3.
 
 2. Komitetowi nie wolno przyjmować wartości niepieniężnych, z wyjątkiem nieodpłatnych usług polegających na rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne.
 
@@ -209,7 +208,7 @@ source: "eli-html"
 - **1)** w siedzibach urzędów administracji rządowej lub administracji samorządu terytorialnego bądź sądów,
 - **2)** na terenie zakładów pracy w sposób i w formach zakłócających ich normalne funkcjonowanie,
 - **3)** na terenie jednostek wojskowych i innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub oddziałów obrony cywilnej bądź skoszarowanych jednostek podległych ministrowi właściwemu do spraw wewnętrznych,
-- **4)** w lokalu wyborczym lub na terenie budynku, w którym lokal się znajduje podlega karze grzywny.
+- **4)** w lokalu wyborczym lub na terenie budynku, w którym lokal się znajduje – podlega karze grzywny.
 
 2. Tej samej karze podlega, kto prowadzi agitację wyborczą na terenie szkół podstawowych lub gimnazjów wobec uczniów nieposiadających prawa wybierania. ” ;
 
@@ -243,7 +242,7 @@ source: "eli-html"
 
 - **31)** w art. 88k wyrazy „art. 88e” zastąpić wyrazami „art. 88ca, art. 88e, art. 88ea”.
 
-**Art. 2.** W ustawie z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2001 r. Nr 79, poz. 857, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2001 r. Nr 79, poz. 857, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1802, z 2002 r. Nr 127, poz. 1089, z 2003 r. Nr 57, poz. 507, z 2004 r. Nr 25, poz. 219 i Nr 273, poz. 2703, z 2005 r. Nr 167, poz. 1398 oraz z 2008 r. Nr 171, poz. 1056.) wprowadza się następujące zmiany:
 
 - **1)** w art. 25: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -275,9 +274,12 @@ source: "eli-html"
 4a. Organy kontroli, rewizji i inspekcji, działające w administracji rządowej i samorządzie terytorialnym, współpracują z Państwową Komisją Wyborczą i są obowiązane do udostępniania Państwowej Komisji Wyborczej, na jej wniosek, wyników postępowań kontrolnych prowadzonych przez te organy. ” , w ust. 5 wyrazy „W terminie 14 dni” zastępuje się wyrazami „W terminie 30 dni”;
 
 - **d)**
-- **4)** w art. 38a: w ust. 1 wyrazy „w terminie 4 miesięcy” zastępuje się wyrazami „w terminie 6 miesięcy”, w ust. 2: – pkt 4 otrzymuje brzmienie: „ 4) przyjmowania lub pozyskiwania środków finansowych z innych źródeł niedozwolonych, ” , – w pkt 6 kropkę zastępuje się przecinkiem i dodaje się pkt 7 w brzmieniu: „ 7) przyjmowania wartości niepieniężnych z naruszeniem przepisów art. 25 ust. 4a. ” , dodaje się ust. 3 w brzmieniu: „
+- **4)** w art. 38a: w ust. 1 wyrazy „w terminie 4 miesięcy” zastępuje się wyrazami „w terminie 6 miesięcy”, w ust. 2: pkt 4 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+
+- **4)** przyjmowania lub pozyskiwania środków finansowych z innych źródeł niedozwolonych, ” , w pkt 6 kropkę zastępuje się przecinkiem i dodaje się pkt 7 w brzmieniu: „
+- **7)** przyjmowania wartości niepieniężnych z naruszeniem przepisów art. 25 ust. 4a. ” , dodaje się ust. 3 w brzmieniu: „
     - **c)**
 
 3. Odrzucenie sprawozdania następuje również w przypadku poręczenia kredytu z naruszeniem przepisów art. 25a, a także dokonania czynności skutkującej zmniejszeniem wartości zobowiązań partii politycznej przez inną osobę aniżeli wymieniona w art. 25 ust. 1 i art. 25a ust. 1 lub dokonanej z naruszeniem limitu wpłat, o którym mowa w art. 25 ust. 4. ” ;
@@ -289,11 +291,11 @@ source: "eli-html"
 - **6)** w art. 49c dodaje się pkt 4 w brzmieniu: „
 - **4)** dokonuje czynności skutkującej zmniejszeniem wartości zobowiązań partii politycznej będąc osobą inną aniżeli wymieniona w art. 25 ust. 1 i art. 25a ust. 1 lub z naruszeniem limitu wpłat, o którym mowa w art. 25 ust. 4, ” .
 
-**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.) w art. 297 dodaje się § 5 w brzmieniu: „
+**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320 oraz z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317 i Nr 168, poz. 1323.) w art. 297 dodaje się § 5 w brzmieniu: „
 
-§ 5. Naczelnicy urzędów skarbowych udostępniają Państwowej Komisji Wyborczej, w związku z badaniem sprawozdania komitetu wyborczego, informacji, o której mowa w art. 34 ust. 1, lub sprawozdania, o którym mowa w art. 38 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2001 r. Nr 79, poz. 857, z późn. zm.), akta, o których mowa w § 1. ” .
+§ 5. Naczelnicy urzędów skarbowych udostępniają Państwowej Komisji Wyborczej, w związku z badaniem sprawozdania komitetu wyborczego, informacji, o której mowa w art. 34 ust. 1, lub sprawozdania, o którym mowa w art. 38 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2001 r. Nr 79, poz. 857, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1802, z 2002 r. Nr 127, poz. 1089, z 2003 r. Nr 57, poz. 507, z 2004 r. Nr 25, poz. 219 i Nr 273, poz. 2703, z 2005 r. Nr 167, poz. 1398, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 213, poz. 1652.), akta, o których mowa w § 1. ” .
 
-**Art. 4.** W ustawie z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2003 r. Nr 159, poz. 1547, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2003 r. Nr 159, poz. 1547, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 25, poz. 219, Nr 102, poz. 1055 i Nr 167, poz. 1760, z 2005 r. Nr 175, poz. 1457, z 2006 r. Nr 17, poz. 128, Nr 34, poz. 242, Nr 146, poz. 1055, Nr 159, poz. 1127 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 48, poz. 327 i Nr 112, poz. 766, z 2008 r. Nr 96, poz. 607 i Nr 180, poz. 1111 oraz z 2009 r. Nr 213, poz. 1651.) wprowadza się następujące zmiany:
 
 - **1)** w art. 11 w ust. 2 po wyrazach „przeprowadzeniem wyborów” dodaje się wyrazy „, jak i dla komitetów wyborczych oraz nadawców telewizyjnych i radiowych”;
 - **2)** w art. 18: ust. 1 otrzymuje brzmienie: „
@@ -398,8 +400,8 @@ source: "eli-html"
 
 **Art. 202.** Kto:
 
-- **1)** w związku z wyborami do rad gmin, rad powiatów lub sejmików województw, prowadzi kampanię wyborczą bez uprzedniej zgody pełnomocnika wyborczego komitetu wyborczego, a koszt takiego działania wynosi od 500 do 50 000 złotych podlega grzywnie nie mniejszej niż koszt takiego działania,
-- **2)** prowadzi działania, o których mowa w pkt 1, a ich koszt przekracza 50 000 złotych podlega grzywnie nie mniejszej niż koszt takiego działania oraz karze ograniczenia wolności albo pozbawienia wolności do lat 2. ” ;
+- **1)** w związku z wyborami do rad gmin, rad powiatów lub sejmików województw, prowadzi kampanię wyborczą bez uprzedniej zgody pełnomocnika wyborczego komitetu wyborczego, a koszt takiego działania wynosi od 500 do 50 000 złotych – podlega grzywnie nie mniejszej niż koszt takiego działania,
+- **2)** prowadzi działania, o których mowa w pkt 1, a ich koszt przekracza 50 000 złotych – podlega grzywnie nie mniejszej niż koszt takiego działania oraz karze ograniczenia wolności albo pozbawienia wolności do lat 2. ” ;
 - **16)** w art. 202g: w pkt 6 wyrazy „osób fizycznych” zastępuje się wyrazami „obywateli polskich mających stałe miejsce zamieszkania na terenie Rzeczypospolitej Polskiej”, w pkt 6 na końcu dodaje się przecinek i dodaje się pkt 7 i 8 w brzmieniu: „
     - **a)**
     - **b)**
@@ -409,7 +411,7 @@ source: "eli-html"
 - **17)** uchyla się art. 202h;
 - **18)** w art. 203 skreśla się wyrazy „, art. 202”.
 
-**Art. 5.** W ustawie z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. Nr 113, poz. 984, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. Nr 113, poz. 984, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1089 i Nr 214, poz. 1806, z 2004 r. Nr 102, poz. 1055, z 2005 r. Nr 175, poz. 1457, z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162 i Nr 48, poz. 327, z 2008 r. Nr 180, poz. 1111 oraz z 2009 r. Nr 213, poz. 1651.) wprowadza się następujące zmiany:
 
 - **1)** dodaje się art. 23a i 23b w brzmieniu: „
 
@@ -431,8 +433,8 @@ source: "eli-html"
 
 **Art. 27f.** Kto:
 
-- **1)** w związku z wyborami wójta, burmistrza albo prezydenta miasta, prowadzi kampanię wyborczą bez uprzedniej zgody pełnomocnika wyborczego komitetu wyborczego, a koszt takiego działania wynosi od 500 do 50 000 złotych podlega grzywnie nie mniejszej niż koszt takiego działania,
-- **2)** prowadzi działania, o których mowa w pkt 1, a ich koszt przekracza 50 000 złotych podlega grzywnie nie mniejszej niż koszt takiego działania oraz karze ograniczenia wolności albo pozbawienia wolności do lat 2. ” ;
+- **1)** w związku z wyborami wójta, burmistrza albo prezydenta miasta, prowadzi kampanię wyborczą bez uprzedniej zgody pełnomocnika wyborczego komitetu wyborczego, a koszt takiego działania wynosi od 500 do 50 000 złotych – podlega grzywnie nie mniejszej niż koszt takiego działania,
+- **2)** prowadzi działania, o których mowa w pkt 1, a ich koszt przekracza 50 000 złotych – podlega grzywnie nie mniejszej niż koszt takiego działania oraz karze ograniczenia wolności albo pozbawienia wolności do lat 2. ” ;
 - **3)** w art. 27m: w pkt 6 wyrazy „osób fizycznych” zastępuje się wyrazami „obywateli polskich mających stałe miejsce zamieszkania na terenie Rzeczypospolitej Polskiej”, w pkt 6 na końcu dodaje się przecinek i dodaje się pkt 7 i 8 w brzmieniu: „
     - **a)**
     - **b)**
@@ -448,5 +450,5 @@ source: "eli-html"
 
 2. Do kadencji organów jednostek samorządu terytorialnego, w trakcie której niniejsza ustawa weszła w życie, stosuje się przepisy dotychczasowe.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 czerwca 1997 r. o partiach politycznych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw oraz ustawę z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 153, poz. 1271, z 2003 r. Nr 57, poz. 507 i Nr 130, poz. 1188, z 2004 r. Nr 25, poz. 219, z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162 i Nr 112, poz. 766, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 119, poz. 999, Nr 202, poz. 1547 i Nr 213, poz. 1651. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1802, z 2002 r. Nr 127, poz. 1089, z 2003 r. Nr 57, poz. 507, z 2004 r. Nr 25, poz. 219 i Nr 273, poz. 2703, z 2005 r. Nr 167, poz. 1398 oraz z 2008 r. Nr 171, poz. 1056. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1802, z 2002 r. Nr 127, poz. 1089, z 2003 r. Nr 57, poz. 507, z 2004 r. Nr 25, poz. 219 i Nr 273, poz. 2703, z 2005 r. Nr 167, poz. 1398 oraz z 2008 r. Nr 171, poz. 1056. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320 oraz z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317 i Nr 168, poz. 1323. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1802, z 2002 r. Nr 127, poz. 1089, z 2003 r. Nr 57, poz. 507, z 2004 r. Nr 25, poz. 219 i Nr 273, poz. 2703, z 2005 r. Nr 167, poz. 1398, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 213, poz. 1652. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 25, poz. 219, Nr 102, poz. 1055 i Nr 167, poz. 1760, z 2005 r. Nr 175, poz. 1457, z 2006 r. Nr 17, poz. 128, Nr 34, poz. 242, Nr 146, poz. 1055, Nr 159, poz. 1127 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 48, poz. 327 i Nr 112, poz. 766, z 2008 r. Nr 96, poz. 607 i Nr 180, poz. 1111 oraz z 2009 r. Nr 213, poz. 1651. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1089 i Nr 214, poz. 1806, z 2004 r. Nr 102, poz. 1055, z 2005 r. Nr 175, poz. 1457, z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162 i Nr 48, poz. 327, z 2008 r. Nr 180, poz. 1111 oraz z 2009 r. Nr 213, poz. 1651.
 

@@ -25,15 +25,20 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000725) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/725/text.pdf) |
 
-Treść obwieszczenia Rozdział 1 – Wyniki ponownego głosowania i wynik wyborów Rozdział 2 – Zbiorcze wyniki głosowania
+Treść obwieszczenia
+
+#### Rozdział 1 – Wyniki ponownego głosowania i wynik wyborów
+
+#### Rozdział 2 – Zbiorcze wyniki głosowania
 
 ## Załącznik nr 1 — – Zestawienie zbiorczych wyników ponownego głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej w dniu 24 maja 2015 r.
 
 ## Załącznik nr 2 — – Zestawienie zbiorczych wyników ponownego głosowania na kandydatów na Prezydenta Rzeczypospolitej Polskiej w dniu 24 maja 2015 r.
 
 Treść obwieszczenia
-Na podstawie art. 319 § 3 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.) Państwowa Komisja Wyborcza podaje do publicznej wiadomości wyniki ponownego głosowania i wynik wyborów Prezydenta Rzeczypospolitej Polskiej, przeprowadzonych 10 maja 2015 r. oraz 24 maja 2015 r.
-Rozdział 1 Wyniki ponownego głosowania i wynik wyborów
+Na podstawie art. 319 § 3 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072.) Państwowa Komisja Wyborcza podaje do publicznej wiadomości wyniki ponownego głosowania i wynik wyborów Prezydenta Rzeczypospolitej Polskiej, przeprowadzonych 10 maja 2015 r. oraz 24 maja 2015 r.
+Rozdział 1
+Wyniki ponownego głosowania i wynik wyborów
 1.
 Państwowa Komisja Wyborcza na podstawie protokołów zbiorczych wyników głosowania, otrzymanych od wszystkich okręgowych komisji wyborczych, ustaliła następujące wyniki ponownego głosowania na kandydatów na Prezydenta Rzeczypospolitej Polskiej:
 1)
@@ -41,8 +46,7 @@ głosowanie przeprowadzono w 27 817 obwodach głosowania;
 2)
 liczba wyborców uprawnionych do głosowania wyniosła 30 709 281;
 3)
-liczba wyborców, którym wydano karty do głosowania, wyniosła 16 956 615,
-w tym:
+liczba wyborców, którym wydano karty do głosowania, wyniosła 16 956 615, w tym:
 a)
 liczba wyborców głosujących przez pełnomocnika wyniosła 8 981,
 b)
@@ -71,11 +75,12 @@ DUDA Andrzej Sebastian 8 630 627 głosów, tj. 51,55% liczby głosów ważnych;
 KOMOROWSKI Bronisław Maria 8 112 311 głosów, tj. 48,45% liczby głosów ważnych.
 3.
 Państwowa Komisja Wyborcza stwierdziła, iż w ponownym głosowaniu w dniu 24 maja 2015 r., spośród dwóch kandydatów na Prezydenta Rzeczypospolitej Polskiej więcej głosów otrzymał i – stosownie do art. 127 ust. 6 Konstytucji Rzeczypospolitej Polskiej oraz art. 292 § 4 Kodeksu wyborczego – na Prezydenta Rzeczypospolitej Polskiej został wybrany DUDA Andrzej Sebastian .
-Rozdział 2 Zbiorcze wyniki głosowania
+Rozdział 2
+Zbiorcze wyniki głosowania
 1.
 Zestawienie zbiorczych wyników ponownego głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej stanowi załącznik nr 1 do obwieszczenia.
 2.
-Zestawienie zbiorczych wyników ponownego głosowania na kandydatów na Prezydenta Rzeczypospolitej Polskiej stanowi załącznik nr 2 do obwieszczenia.
+Zestawienie zbiorczych wyników ponownego głosowania na kandydatów na Prezydenta Rzeczypospolitej Polskiej stanowi załącznik nr 2 do obwieszczenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072.
 
 ## Załącznik nr 1 — – Zestawienie zbiorczych wyników ponownego głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej w dniu 24 maja 2015 r.
 

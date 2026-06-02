@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 27 listopada 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
+# Ustawa z dnia 27 listopada 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawę z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego, ustawę z dnia 10 stycznia 2018 r. o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni oraz ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-27 |
 | Data wydania | 2020-12-04 |
-| Wejście w życie | 2020-12-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002157) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2157/text.pdf) |
 
@@ -53,7 +52,7 @@ source: "eli-html"
 - **2)** szkoleń dla pracowników kolejowych z zakresu kierowania ruchem, o których mowa w przepisach wydanych na podstawie art. 6 ust. 4 pkt 1 i 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym,
 - **3)** szkoleń dla pracowników zatrudnionych na stanowiskach bezpośrednio związanych z prowadzeniem i bezpieczeństwem ruchu kolejowego oraz z prowadzeniem określonych rodzajów pojazdów kolejowych, określonych w przepisach wydanych na podstawie art. 22d ust. 3 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym,
 - **4)** szkoleń dla pracowników zatrudnionych na stanowisku zwrotniczego, o którym mowa w art. 22d ust. 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym,
-- **5)** szkoleń dla funkcjonariuszy straży ochrony kolei, określonych w przepisach wydanych na podstawie art. 59 ust. 6 pkt 3 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym a szkolenia i sprawdziany te nie zostały przeprowadzone w tym okresie, dotychczasowe szkolenie albo sprawdzian zachowuje ważność do dnia upływu 180 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później. ” ;
+- **5)** szkoleń dla funkcjonariuszy straży ochrony kolei, określonych w przepisach wydanych na podstawie art. 59 ust. 6 pkt 3 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym – a szkolenia i sprawdziany te nie zostały przeprowadzone w tym okresie, dotychczasowe szkolenie albo sprawdzian zachowuje ważność do dnia upływu 180 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później. ” ;
 - **6)** w art. 15zzzza: uchyla się ust. 1, ust. 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
@@ -85,5 +84,5 @@ source: "eli-html"
 
 **Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 35 ust. 4 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 35 ust. 4 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 31 grudnia 2021 r.
 
-**Art. 7.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawę z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego, ustawę z dnia 10 stycznia 2018 r. o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni oraz ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw.
 

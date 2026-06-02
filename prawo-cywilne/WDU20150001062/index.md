@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-25 |
 | Data wydania | 2015-07-29 |
-| Wejście w życie | 2015-08-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001062) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1062/text.pdf) |
 
@@ -46,7 +45,7 @@ source: "eli-html"
 
 § 3. Na zgodny wniosek stron sąd nie orzeka o utrzymywaniu kontaktów z dzieckiem. ” .
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539 i 978.) wprowadza się następujące zmiany:
 
 - **1)** art. 509 otrzymuje brzmienie: „
 
@@ -68,9 +67,9 @@ source: "eli-html"
 
 - **1)** stosunków na czas trwania postępowania,
 - **2)** sposobów kontaktów z dzieckiem,
-- **3)** sposobu roztoczenia pieczy nad małoletnim dzieckiem w ten sposób, że dziecko będzie mieszkać z każdym z rodziców w powtarzających się okresach sąd, na wniosek uprawnionego, może w postanowieniu o udzieleniu zabezpieczenia zagrozić obowiązanemu nakazaniem zapłaty określonej sumy pieniężnej na rzecz uprawnionego na wypadek naruszenia obowiązków określonych w tym postanowieniu.
+- **3)** sposobu roztoczenia pieczy nad małoletnim dzieckiem w ten sposób, że dziecko będzie mieszkać z każdym z rodziców w powtarzających się okresach – sąd, na wniosek uprawnionego, może w postanowieniu o udzieleniu zabezpieczenia zagrozić obowiązanemu nakazaniem zapłaty określonej sumy pieniężnej na rzecz uprawnionego na wypadek naruszenia obowiązków określonych w tym postanowieniu.
 
 § 2. Przepisy art. 10501 i art. 10511, a jeżeli zabezpieczenie polega na uregulowaniu sposobu kontaktów z dzieckiem albo ustaleniu, że dziecko będzie mieszkać z każdym z rodziców w powtarzających się okresach – przepis art. 5821 § 3, stosuje się odpowiednio. ” .
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539 i 978.
 

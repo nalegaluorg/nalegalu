@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 marca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
+# Ustawa z dnia 9 marca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 17 czerwca 2004 r. o skardze na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i postępowaniu sądowym bez nieuzasadnionej zwłoki, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 10 lipca 2015 r. o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw, ustawę z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, ustawę z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej, ustawę z dnia 28 lutego 2018 r. o kosztach komorniczych, ustawę z dnia 22 marca 2018 r. o komornikach sądowych, ustawę z dnia 4 lipca 2019 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-03-09 |
 | Data wydania | 2023-03-31 |
-| Wejście w życie | 2023-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000614) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/614/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.) wprowadza się następujące zmiany:
+Postępowanie z udziałem konsumentów
+
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535 i 556.) wprowadza się następujące zmiany:
 
 - **1)** w art. 17 pkt 4 otrzymuje brzmienie: „
 - **4)** o prawa majątkowe, w których wartość przedmiotu sporu przewyższa sto tysięcy złotych, oprócz spraw o alimenty, o naruszenie posiadania, o ustanowienie rozdzielności majątkowej między małżonkami oraz spraw rozpoznawanych w elektronicznym postępowaniu upominawczym; ” ;
@@ -163,7 +164,7 @@ source: "eli-html"
 - **1)** możliwości rozwiązania sporu w drodze ugody zawartej przed sądem lub mediatorem i o wpływie zawarcia ugody na koszty postępowania,
 - **2)** możliwości ustanowienia pełnomocnika procesowego oraz o tym, że zastępstwo przez adwokata, radcę prawnego lub rzecznika patentowego nie jest obowiązkowe,
 - **3)** obowiązku złożenia pisma przygotowawczego na zarządzenie przewodniczącego, wymogach co do jego treści i skutkach ich niedochowania,
-- **4)** zwrocie pisma przygotowawczego złożonego bez zarządzenia przewodniczącego chyba że strona jest zastępowana przez adwokata, radcę prawnego, rzecznika patentowego lub Prokuratorię Generalną Rzeczypospolitej Polskiej.
+- **4)** zwrocie pisma przygotowawczego złożonego bez zarządzenia przewodniczącego – chyba że strona jest zastępowana przez adwokata, radcę prawnego, rzecznika patentowego lub Prokuratorię Generalną Rzeczypospolitej Polskiej.
 
 § 2. Pozwanego poucza się także o czynnościach procesowych, które może lub powinien podjąć, jeżeli nie uznaje żądania pozwu w całości lub części, w szczególności o obowiązku złożenia odpowiedzi na pozew i o wymaganiach co do terminu i formy jej wniesienia, a także o możliwości wydania przez sąd wyroku zaocznego na posiedzeniu niejawnym i o warunkach jego wykonalności.
 
@@ -311,8 +312,10 @@ source: "eli-html"
 § 4. Jeżeli przepis szczególny przewiduje, że stronie przysługuje zażalenie na postanowienie sądu, ale nie określa, jaki sąd ma je rozpoznać, zażalenie rozpoznaje sąd drugiej instancji. ” ;
 
 - **49)** w art. 3941 w § 3 wyrazy „art. 397 § 1” zastępuje się wyrazami „art. 397 § 1 i 11”;
-- **50)** w art. 3941a: w § 1: – uchyla się pkt 8, – pkt 9 otrzymuje brzmienie: „ 9) zwrot zaliczki, zwrot kosztów nieopłaconej pomocy prawnej udzielonej z urzędu oraz wynagrodzenie biegłego, mediatora, kuratora ustanowionego dla strony w danej sprawie i należności świadka, a także koszty przyznane w nakazie zapłaty, jeżeli nie wniesiono środka zaskarżenia od nakazu; ” , po § 1 dodaje się § 11 w brzmieniu: „
+- **50)** w art. 3941a: w § 1: – uchyla się pkt 8, pkt 9 otrzymuje brzmienie: „
     - **a)**
+
+- **9)** zwrot zaliczki, zwrot kosztów nieopłaconej pomocy prawnej udzielonej z urzędu oraz wynagrodzenie biegłego, mediatora, kuratora ustanowionego dla strony w danej sprawie i należności świadka, a także koszty przyznane w nakazie zapłaty, jeżeli nie wniesiono środka zaskarżenia od nakazu; ” , po § 1 dodaje się § 11 w brzmieniu: „
     - **b)**
 
 § 11. Sąd, który wydał zaskarżone postanowienie, odrzuca w składzie jednego sędziego zażalenie spóźnione, nieopłacone lub z innych przyczyn niedopuszczalne, jak również zażalenie, którego braków strona nie usunęła w wyznaczonym terminie. ” , w § 3 dodaje się zdanie drugie w brzmieniu: „ Okoliczność, o której mowa w zdaniu pierwszym, nie podlega badaniu przez sąd drugiej instancji. ” ;
@@ -321,10 +324,12 @@ source: "eli-html"
 - **51)** w art. 3942: § 1 otrzymuje brzmienie: „
     - **a)**
 
-§ 1. Zażalenie do innego składu sądu drugiej instancji przysługuje na postanowienie tego sądu o odrzuceniu apelacji, postanowienie o odrzuceniu skargi o wznowienie postępowania i postanowienie o umorzeniu postępowania wywołanego wniesieniem apelacji. ” , w § 11: – pkt 1 otrzymuje brzmienie: „ 1) odmowa zwolnienia od kosztów sądowych lub cofnięcie takiego zwolnienia oraz odmowa ustanowienia adwokata lub radcy prawnego lub ich odwołanie, ” , – po pkt 4 dodaje się pkt 41 w brzmieniu: „ 41) wynagrodzenie biegłego, ” , po § 11 dodaje się § 12 w brzmieniu: „
+§ 1. Zażalenie do innego składu sądu drugiej instancji przysługuje na postanowienie tego sądu o odrzuceniu apelacji, postanowienie o odrzuceniu skargi o wznowienie postępowania i postanowienie o umorzeniu postępowania wywołanego wniesieniem apelacji. ” , w § 11: pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **1)** odmowa zwolnienia od kosztów sądowych lub cofnięcie takiego zwolnienia oraz odmowa ustanowienia adwokata lub radcy prawnego lub ich odwołanie, ” , po pkt 4 dodaje się pkt 41 w brzmieniu: „
+- **41)** wynagrodzenie biegłego, ” , po § 11 dodaje się § 12 w brzmieniu: „
+    - **c)**
 
 § 12. Jeżeli zażalenie, o którym mowa w § 1 i 11, jest spóźnione, nieopłacone lub z innych przyczyn niedopuszczalne albo jego braków strona nie usunęła w wyznaczonym terminie, sąd odrzuca je w składzie jednego sędziego. Na postanowienie przysługuje zażalenie do innego składu sądu drugiej instancji. ” , § 2 otrzymuje brzmienie: „
 
@@ -398,7 +403,7 @@ source: "eli-html"
 - **b)**
 - **65)** w części pierwszej w księdze pierwszej w tytule VII po dziale IIa dodaje się dział IIb w brzmieniu: „
 
-### Dział IIb Postępowanie z udziałem konsumentów
+### Dział IIb
 
 **Art. 45814.**
 
@@ -557,7 +562,7 @@ source: "eli-html"
 
 - **1)** którego przedmiotem są czynności w sprawach wymienionych w art. 759 § 11 pkt 4–6,
 - **2)** wydane w wyniku rozpoznania zarzutów przeciwko planowi podziału sumy uzyskanej z egzekucji z nieruchomości,
-- **3)** wydane na podstawie art. 1037 § 1 rozpoznaje sąd drugiej instancji.
+- **3)** wydane na podstawie art. 1037 § 1 – rozpoznaje sąd drugiej instancji.
 
 § 13. Sąd, o którym mowa w § 11 zdanie pierwsze, może przekazać zażalenie do rozpoznania sądowi drugiej instancji, jeżeli przemawia za tym waga zaskarżonego orzeczenia lub jego precedensowy charakter. Sąd drugiej instancji w razie stwierdzenia braku podstaw do rozpoznania zażalenia zwraca sprawę sądowi właściwemu.
 
@@ -792,8 +797,12 @@ source: "eli-html"
 
 - **136)** w art. 98610 w§ 2 uchyla się zdanie pierwsze;
 - **137)** w art. 10136 w§ 1 dodaje się zdanie trzecie w brzmieniu: „ W obwieszczeniu o licytacji podaje się także informacje, o których mowa w art. 953 § 1 pkt 1, 3, 6 i 7. ” ;
-- **138)** w art. 1025: w § 1: – pkt 2 otrzymuje brzmienie: „ 2) należności alimentacyjne wymagalne; ” , – po pkt 2 dodaje się pkt 21 w brzmieniu: „ 21) należności alimentacyjne przyszłe – w wysokości stanowiącej równowartość minimalnego wynagrodzenia za pracę za okres roku – na każdego wierzyciela prowadzącego egzekucję; ” , – pkt 3 otrzymuje brzmienie: „ 3) należności za pracę za okres 3 miesięcy do wysokości minimalnego wynagrodzenia za pracę, renty z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa albo śmierci, należności zasądzone na rzecz pokrzywdzonego lub osób wykonujących prawa pokrzywdzonego w postępowaniu karnym i koszty zwykłego pogrzebu dłużnika; ” , po § 31 dodaje się § 32 w brzmieniu: „
+- **138)** w art. 1025: w § 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** należności alimentacyjne wymagalne; ” , po pkt 2 dodaje się pkt 21 w brzmieniu: „
+- **21)** należności alimentacyjne przyszłe – w wysokości stanowiącej równowartość minimalnego wynagrodzenia za pracę za okres roku – na każdego wierzyciela prowadzącego egzekucję; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** należności za pracę za okres 3 miesięcy do wysokości minimalnego wynagrodzenia za pracę, renty z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa albo śmierci, należności zasądzone na rzecz pokrzywdzonego lub osób wykonujących prawa pokrzywdzonego w postępowaniu karnym i koszty zwykłego pogrzebu dłużnika; ” , po § 31 dodaje się § 32 w brzmieniu: „
     - **b)**
 
 § 32. Sumy przypadające na poczet należności alimentacyjnych niewymagalnych w dniu sporządzenia planu podziału pozostawia się na rachunku depozytowym Ministra Finansów. Komornik podejmuje zdeponowane środki, jeżeli zaspokojenie bieżących należności alimentacyjnych nie jest możliwe w inny sposób. ” , dodaje się § 7 i 8 w brzmieniu: „
@@ -879,7 +888,7 @@ source: "eli-html"
 
 § 11. Sąd z urzędu odrzuca pozew lub wniosek o wszczęcie postępowania nieprocesowego, jeżeli dotyczy on sporu, który był przedmiotem sprawy umorzonej na podstawie art. 11611 § 2. ” .
 
-**Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556.) wprowadza się następujące zmiany:
 
 - **1)** w art. 110e § 2 otrzymuje brzmienie: „
 
@@ -913,7 +922,7 @@ source: "eli-html"
 
 - **8)** komornikom sądowym w związku z wykonywaniem zadań, o których mowa w art. 3 ust. 3 pkt 1–3, oraz czynności, o których mowa w art. 3 ust. 4 pkt 1a ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2023 r. poz. 590), oraz administracyjnym organom egzekucyjnym w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym; ” .
 
-**Art. 6.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2022 r. poz. 1009, z późn. zm.) w art. 50 ust. 10 otrzymuje brzmienie: „ 10. Dane zgromadzone na kontach, o których mowa w ust. 3, udostępnia się komornikom sądowym, w zakresie niezbędnym do wykonywania zadań, o których mowa w art. 3 ust. 3 pkt 1–3, oraz czynności, o których mowa w art. 3 ust. 4 pkt 1a ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2023 r. poz. 590), odpłatnie, chyba że przepisy odrębne stanowią inaczej. ” .
+**Art. 6.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2022 r. poz. 1009, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1079, 1115, 1265, 1933, 2185, 2476 i 2707 oraz z 2023 r. poz. 326 i 547.) w art. 50 ust. 10 otrzymuje brzmienie: „ 10. Dane zgromadzone na kontach, o których mowa w ust. 3, udostępnia się komornikom sądowym, w zakresie niezbędnym do wykonywania zadań, o których mowa w art. 3 ust. 3 pkt 1–3, oraz czynności, o których mowa w art. 3 ust. 4 pkt 1a ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2023 r. poz. 590), odpłatnie, chyba że przepisy odrębne stanowią inaczej. ” .
 
 **Art. 7.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z 2022 r. poz. 2642 oraz z 2023 r. poz. 289) wprowadza się następujące zmiany:
 
@@ -989,11 +998,11 @@ source: "eli-html"
 
 2. Ponowny wniosek o zwolnienie od kosztów sądowych oparty na tych samych okolicznościach jest niedopuszczalny i pozostawia się go w aktach sprawy bez żadnych dalszych czynności. To samo dotyczy pism związanych z jego wniesieniem. O pozostawieniu wniosku i pism związanych z jego wniesieniem w aktach sprawy zawiadamia się stronę wnoszącą tylko raz – przy złożeniu pierwszego pisma. ” .
 
-**Art. 10.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2022 r. poz. 924, z późn. zm.) w art. 9f w ust. 1 pkt 15 otrzymuje brzmienie: „
+**Art. 10.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2022 r. poz. 924, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1358, 1488, 1933, 2339 i 2640 oraz z 2023 r. poz. 180.) w art. 9f w ust. 1 pkt 15 otrzymuje brzmienie: „
 
 - **15)** na żądanie komornika sądowego w związku z wykonywaniem zadań, o których mowa w art. 3 ust. 3 pkt 1–3, oraz czynności, o których mowa w art. 3 ust. 4 pkt 1a ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2023 r. poz. 590); ” .
 
-**Art. 11.** W ustawie z dnia 10 lipca 2015 r. o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1311, z późn. zm.) w art. 21:
+**Art. 11.** W ustawie z dnia 10 lipca 2015 r. o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1311, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1513, z 2016 r. poz. 178, 394, 615 i 1358 oraz z 2019 r. poz. 1469.) w art. 21:
 
 - **1)** po ust. 7 dodaje się ust. 7a w brzmieniu: „
 
@@ -1075,9 +1084,9 @@ source: "eli-html"
 
 - **1)** w których przed dniem wejścia w życie niniejszej ustawy wydano nakaz zapłaty w postępowaniu upominawczym,
 - **2)** w których przed dniem wejścia w życie niniejszej ustawy stwierdzono podstawy do wydania nakazu zapłaty w postępowaniu nakazowym,
-- **3)** wszczęte przed dniem wejścia w życie niniejszej ustawy rozpoznawane w elektronicznym postępowaniu upominawczym do czasu zakończenia postępowania w danej instancji podlegają rozpoznaniu zgodnie z przepisami części pierwszej księgi pierwszej tytułu VII działu V lub VIII ustawy zmienianej w art. 1, w brzmieniu dotychczasowym. ” .
+- **3)** wszczęte przed dniem wejścia w życie niniejszej ustawy rozpoznawane w elektronicznym postępowaniu upominawczym – do czasu zakończenia postępowania w danej instancji podlegają rozpoznaniu zgodnie z przepisami części pierwszej księgi pierwszej tytułu VII działu V lub VIII ustawy zmienianej w art. 1, w brzmieniu dotychczasowym. ” .
 
-**Art. 17.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 17.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317, 2368 i 2459, z 2022 r. poz. 202, 218, 655, 830, 1301, 1370, 1488, 1561, 1723, 1768, 1783, 2127, 2185, 2640, 2687 i 2705 oraz z 2023 r. poz. 185, 240 i 412.) wprowadza się następujące zmiany:
 
 - **1)** w art. 15zzs1 wust. 1: wprowadzenie do wyliczenia otrzymuje brzmienie: „ W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w ciągu roku od odwołania tego z nich, który obowiązywał jako ostatni, w sprawach rozpoznawanych według przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, zwanej dalej „Kodeksem postępowania cywilnego”: ” , pkt 3 i 4 otrzymują brzmienie: „
     - **a)**
@@ -1195,6 +1204,6 @@ source: "eli-html"
 
 - **1)** art. 7 pkt 1, który wchodzi w życie po upływie 9 miesięcy od dnia ogłoszenia;
 - **2)** art. 1 pkt 138 lit. a tiret trzecie, który wchodzi w życie z dniem 1 października 2023 r.;
-- **3)** art. 1 pkt 144 i 145, art. 7 pkt 2, 3, 5 i 6, art. 14, art. 15, art. 17, art. 18, art. 19 ust. 5–7, art. 23 ust. 2, art. 26 ust. 2, art. 28 oraz art. 29, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+- **3)** art. 1 pkt 144 i 145, art. 7 pkt 2, 3, 5 i 6, art. 14, art. 15, art. 17, art. 18, art. 19 ust. 5–7, art. 23 ust. 2, art. 26 ust. 2, art. 28 oraz art. 29, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 17 czerwca 2004 r. o skardze na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i postępowaniu sądowym bez nieuzasadnionej zwłoki, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 10 lipca 2015 r. o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw, ustawę z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, ustawę z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej, ustawę z dnia 28 lutego 2018 r. o kosztach komorniczych, ustawę z dnia 22 marca 2018 r. o komornikach sądowych, ustawę z dnia 4 lipca 2019 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535 i 556. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1079, 1115, 1265, 1933, 2185, 2476 i 2707 oraz z 2023 r. poz. 326 i 547. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1358, 1488, 1933, 2339 i 2640 oraz z 2023 r. poz. 180. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1513, z 2016 r. poz. 178, 394, 615 i 1358 oraz z 2019 r. poz. 1469. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317, 2368 i 2459, z 2022 r. poz. 202, 218, 655, 830, 1301, 1370, 1488, 1561, 1723, 1768, 1783, 2127, 2185, 2640, 2687 i 2705 oraz z 2023 r. poz. 185, 240 i 412.
 
 

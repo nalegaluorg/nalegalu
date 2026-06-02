@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-02 |
 | Data wydania | 2018-07-10 |
-| Wejście w życie | 2018-07-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001334) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1334/text.pdf) |
 
@@ -59,5 +58,5 @@ wyznaczania żołnierzy zawodowych do utrzymywania bieżących kontaktów;
 4)
 organizowania odpraw w razie konieczności podjęcia wspólnych zadań.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 28 grudnia 2001 r. w sprawie współdziałania Żandarmerii Wojskowej z organami uprawnionymi do wykonywania czynności operacyjno-rozpoznawczych, prowadzenia dochodzeń w sprawach o przestępstwa, a także z organami, którym przysługują uprawnienia oskarżyciela publicznego, oraz z organami uprawnionymi do nakładania grzywien w drodze mandatu karnego (Dz. U. poz. 1842), które utraciło moc z dniem 1 marca 2017 r. w związku z wejściem w życie ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 28 grudnia 2001 r. w sprawie współdziałania Żandarmerii Wojskowej z organami uprawnionymi do wykonywania czynności operacyjno-rozpoznawczych, prowadzenia dochodzeń w sprawach o przestępstwa, a także z organami, którym przysługują uprawnienia oskarżyciela publicznego, oraz z organami uprawnionymi do nakładania grzywien w drodze mandatu karnego (Dz. U. poz. 1842), które utraciło moc z dniem 1 marca 2017 r. w związku z wejściem w życie ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409).
 

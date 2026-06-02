@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 czerwca 2013 r. o zmianie ustawy o nasiennictwie
+# Ustawa z dnia 13 czerwca 2013 r. o zmianie ustawy o nasiennictwie Przepisy niniejszej ustawy wdrażają postanowienia dyrektywy Rady 2008/90/WE z dnia 29 września 2008 r. w sprawie obrotu materiałem rozmnożeniowym roślin sadowniczych oraz roślinami sadowniczymi przeznaczonymi do produkcji owoców (Dz. Urz. UE L 267 z 08.10.2008, str. 8).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-06-13 |
 | Data wydania | 2013-07-31 |
-| Wejście w życie | 2013-08-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000865) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/865/text.pdf) |
 
@@ -30,8 +29,5 @@ source: "eli-html"
 
 **Art. 132.** Odmiany roślin sadowniczych utrzymywane przez dostawców na liście odmian materiału szkółkarskiego CAC w okresie od dnia 1 maja 2004 r. do dnia 30 września 2012 r. mogą być wpisane do krajowego rejestru bez przeprowadzenia badań OWT, na wniosek zainteresowanego podmiotu złożony w terminie do dnia 30 września 2014 r. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-
-- **1)** Przepisy niniejszej ustawy wdrażają postanowienia dyrektywy Rady 2008/90/WE z dnia 29 września 2008 r. w sprawie obrotu materiałem rozmnożeniowym roślin sadowniczych oraz roślinami sadowniczymi przeznaczonymi do produkcji owoców (Dz. Urz. UE L 267 z 08.10.2008, str. 8).
-
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Przepisy niniejszej ustawy wdrażają postanowienia dyrektywy Rady 2008/90/WE z dnia 29 września 2008 r. w sprawie obrotu materiałem rozmnożeniowym roślin sadowniczych oraz roślinami sadowniczymi przeznaczonymi do produkcji owoców (Dz. Urz. UE L 267 z 08.10.2008, str. 8).
 

@@ -22,39 +22,31 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-11 |
 | Data wydania | 2016-10-24 |
-| Wejście w życie | 2016-11-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001748) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1748/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 115 § 9 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 115 § 9 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 1083, z 1999 r. poz. 931, z 2000 r. poz. 701 i 1268, z 2001 r. poz. 1071 i 1194, z 2002 r. poz. 676 i 1679, z 2003 r. poz. 1061, 1380 i 1750, z 2004 r. poz. 889, 2135, 2405, 2426 i 2703, z 2005 r. poz. 1363 i 1479, z 2006 r. poz. 708 i 1648, z 2007 r. poz. 849, z 2008 r. poz. 620 i 1344, z 2009 r. poz. 39, 119, 504, 817, 911, 963, 1475, 1540 i 1589, z 2010 r. poz. 191, 227, 842 i 1228, z 2011 r. poz. 201, 202, 654, 734, 1092, 1280 i 1431, z 2012 r. poz. 908, z 2013 r. poz. 628 i 1247, z 2014 r. poz. 287, 619 i 1707, z 2015 r. poz. 21, 396, 431, 541, 1269 i 1573 oraz z 2016 r. poz. 428 i 437.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 14 czerwca 2012 r. w sprawie udzielania świadczeń zdrowotnych przez podmioty lecznicze dla osób pozbawionych wolności (Dz. U. poz. 738) wprowadza się następujące zmiany:
 1)
 w § 4:
 a)
-ust. 2 i 3 otrzymują brzmienie:
-„
+ust. 2 i 3 otrzymują brzmienie: „
 2.
 W terminie 14 dni od dnia przyjęcia do zakładu karnego wykonuje się profilaktyczne radiologiczne badanie klatki piersiowej.
 3.
-Lekarz podmiotu leczniczego może odstąpić od wykonania profilaktycznego radiologicznego badania klatki piersiowej po przeprowadzeniu badania lekarskiego, jeżeli osoba pozbawiona wolności przedstawi wynik takiego badania wykonanego w okresie 6 miesięcy poprzedzających datę przyjęcia do zakładu karnego lub lekarz podmiotu leczniczego ma dostęp do wyniku takiego badania.
-” ,
+Lekarz podmiotu leczniczego może odstąpić od wykonania profilaktycznego radiologicznego badania klatki piersiowej po przeprowadzeniu badania lekarskiego, jeżeli osoba pozbawiona wolności przedstawi wynik takiego badania wykonanego w okresie 6 miesięcy poprzedzających datę przyjęcia do zakładu karnego lub lekarz podmiotu leczniczego ma dostęp do wyniku takiego badania. ” ,
 b)
-ust. 6 otrzymuje brzmienie:
-„
+ust. 6 otrzymuje brzmienie: „
 6.
-Lekarz podmiotu leczniczego może zlecić przeprowadzenie badań innych niż wymienione w ust. 2, jeżeli jest to uzasadnione stanem zdrowia osoby pozbawionej wolności.
-” ;
+Lekarz podmiotu leczniczego może zlecić przeprowadzenie badań innych niż wymienione w ust. 2, jeżeli jest to uzasadnione stanem zdrowia osoby pozbawionej wolności. ” ;
 2)
-w § 5 ust. 2 otrzymuje brzmienie:
-„
+w § 5 ust. 2 otrzymuje brzmienie: „
 2.
-Od wykonania profilaktycznego radiologicznego badania klatki piersiowej można odstąpić po przeprowadzeniu badania lekarskiego, jeżeli lekarz podmiotu leczniczego ma dostęp do wyniku badania radiologicznego klatki piersiowej wykonanego z innych powodów w okresie ostatnich 24 miesięcy.
-” ;
+Od wykonania profilaktycznego radiologicznego badania klatki piersiowej można odstąpić po przeprowadzeniu badania lekarskiego, jeżeli lekarz podmiotu leczniczego ma dostęp do wyniku badania radiologicznego klatki piersiowej wykonanego z innych powodów w okresie ostatnich 24 miesięcy. ” ;
 3)
-w § 6 ust. 2 otrzymuje brzmienie:
-„
+w § 6 ust. 2 otrzymuje brzmienie: „
 2.
 W ramach badania kontrolnego osoby pozbawionej wolności zwalnianej z zakładu karnego lekarz podmiotu leczniczego, oprócz badań określonych w ust. 1:
 1)
@@ -66,19 +58,15 @@ określa zdolność osoby pozbawionej wolności do samodzielnego powrotu do miej
 4)
 określa zalecenia w sprawie pomocy, jakiej wymaga osoba pozbawiona wolności niezdolna ze względu na stan zdrowia do samodzielnego powrotu do miejsca zameldowania lub miejsca przebywania;
 5)
-określa potrzebę zaopatrzenia w leki, przedmioty ortopedyczne lub środki pomocnicze.
-” ;
+określa potrzebę zaopatrzenia w leki, przedmioty ortopedyczne lub środki pomocnicze. ” ;
 4)
-w § 8 po ust. 3 dodaje się ust. 3a i 3b w brzmieniu:
-„
+w § 8 po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
 3a.
 Odmowa przyjęcia do szpitala następuje wyłącznie ze względów medycznych po przeprowadzeniu badania lekarskiego.
 3b.
-Po odmowie przyjęcia do szpitala, kierujący tym szpitalem lub upoważniony przez niego lekarz podmiotu leczniczego wydaje zalecenia, określające dalszy tryb postępowania z osobą pozbawioną wolności.
-” ;
+Po odmowie przyjęcia do szpitala, kierujący tym szpitalem lub upoważniony przez niego lekarz podmiotu leczniczego wydaje zalecenia, określające dalszy tryb postępowania z osobą pozbawioną wolności. ” ;
 5)
-§ 9 otrzymuje brzmienie:
-„
+§ 9 otrzymuje brzmienie: „
 § 9.
 1.
 Zlecenia lekarskie z zakresu farmakoterapii związane z przygotowaniem i wydaniem dawek leków wykonuje pielęgniarka podmiotu leczniczego.
@@ -107,8 +95,7 @@ na 3 doby po zwolnieniu z zakładu karnego z wyłączeniem leków antyretrowirus
 9.
 Przez 3 doby należy rozumieć 3 doby dni roboczych. W przypadku dni wolnych od pracy, świąt państwowych i kościelnych ilość dawek dobowych należy zwiększyć o liczbę tych dni.
 10.
-Nie zaopatruje się w leki osoby zwolnionej z zakładu karnego w trakcie trwania czynności procesowych, która nie powróciła do zakładu karnego.
-” .
+Nie zaopatruje się w leki osoby zwolnionej z zakładu karnego w trakcie trwania czynności procesowych, która nie powróciła do zakładu karnego. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 1083, z 1999 r. poz. 931, z 2000 r. poz. 701 i 1268, z 2001 r. poz. 1071 i 1194, z 2002 r. poz. 676 i 1679, z 2003 r. poz. 1061, 1380 i 1750, z 2004 r. poz. 889, 2135, 2405, 2426 i 2703, z 2005 r. poz. 1363 i 1479, z 2006 r. poz. 708 i 1648, z 2007 r. poz. 849, z 2008 r. poz. 620 i 1344, z 2009 r. poz. 39, 119, 504, 817, 911, 963, 1475, 1540 i 1589, z 2010 r. poz. 191, 227, 842 i 1228, z 2011 r. poz. 201, 202, 654, 734, 1092, 1280 i 1431, z 2012 r. poz. 908, z 2013 r. poz. 628 i 1247, z 2014 r. poz. 287, 619 i 1707, z 2015 r. poz. 21, 396, 431, 541, 1269 i 1573 oraz z 2016 r. poz. 428 i 437.
 

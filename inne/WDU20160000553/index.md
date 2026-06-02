@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-04-11 |
 | Data wydania | 2016-04-20 |
-| Wejście w życie | 2016-05-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000553) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/553/text.pdf) |
 
@@ -31,18 +30,15 @@ Na podstawie art. 124 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnia
 § 1.
 W rozporządzeniu Ministra Środowiska z dnia 10 listopada 2008 r. w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Gdańsku (Dz. U. poz. 1253) w załączniku wprowadza się następujące zmiany:
 1)
-w § 3 ust. 1–3 otrzymują brzmienie:
-„
+w § 3 ust. 1–3 otrzymują brzmienie: „
 1.
 Regionalny Dyrektor kieruje RDOŚ przy pomocy zastępców Regionalnego Dyrektora, osób kierujących komórkami organizacyjnymi, o których mowa w § 4 ust. 1 pkt 1–8, oraz osoby zajmującej stanowisko, o którym mowa w § 4 ust. 1 pkt 9.
 2.
 Pierwszym zastępcą Regionalnego Dyrektora jest regionalny konserwator przyrody, który sprawuje nadzór nad komórkami organizacyjnymi, o których mowa w § 4 ust. 1 pkt 3–5.
 3.
-Zakresy czynności zastępców Regionalnego Dyrektora, osób kierujących komórkami organizacyjnymi, o których mowa w § 4 ust. 1 pkt 1–8, oraz osoby zajmującej stanowisko, o którym mowa w § 4 ust. 1 pkt 9, ustala Regionalny Dyrektor.
-” ;
+Zakresy czynności zastępców Regionalnego Dyrektora, osób kierujących komórkami organizacyjnymi, o których mowa w § 4 ust. 1 pkt 1–8, oraz osoby zajmującej stanowisko, o którym mowa w § 4 ust. 1 pkt 9, ustala Regionalny Dyrektor. ” ;
 2)
-§ 4 otrzymuje brzmienie:
-„
+§ 4 otrzymuje brzmienie: „
 § 4.
 1.
 W skład RDOŚ wchodzą następujące komórki organizacyjne i stanowisko:
@@ -67,14 +63,11 @@ Pełnomocnik do spraw ochrony informacji niejawnych.
 2.
 Komórki organizacyjne, o których mowa w ust. 1 pkt 1–6, są kierowane przez naczelników.
 3.
-Komórka organizacyjna, o której mowa w ust. 1 pkt 7, jest kierowana przez głównego księgowego, a komórka, o której mowa w ust. 1 pkt 8, przez radcę prawnego.
-” ;
+Komórka organizacyjna, o której mowa w ust. 1 pkt 7, jest kierowana przez głównego księgowego, a komórka, o której mowa w ust. 1 pkt 8, przez radcę prawnego. ” ;
 3)
-§ 7 otrzymuje brzmienie:
-„
+§ 7 otrzymuje brzmienie: „
 § 7.
-Organizację wewnętrzną i szczegółowy zakres zadań komórek organizacyjnych, o których mowa w § 4 ust. 1 pkt 1–8, i stanowiska, o którym mowa w § 4 ust. 1 pkt 9, określa regulamin organizacyjny nadany przez Regionalnego Dyrektora, po zatwierdzeniu przez Generalnego Dyrektora Ochrony Środowiska.
-” .
+Organizację wewnętrzną i szczegółowy zakres zadań komórek organizacyjnych, o których mowa w § 4 ust. 1 pkt 1–8, i stanowiska, o którym mowa w § 4 ust. 1 pkt 9, określa regulamin organizacyjny nadany przez Regionalnego Dyrektora, po zatwierdzeniu przez Generalnego Dyrektora Ochrony Środowiska. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

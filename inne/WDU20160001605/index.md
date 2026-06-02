@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 września 2016 r. o zmianie niektórych ustaw w celu ułatwienia zwalczania chorób zakaźnych zwierząt
+# Ustawa z dnia 23 września 2016 r. o zmianie niektórych ustaw w celu ułatwienia zwalczania chorób zakaźnych zwierząt Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 sierpnia 1997 r. o ochronie zwierząt, ustawę z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, ustawę z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, ustawę z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt, ustawę z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego, ustawę z dnia 21 listopada 2008 r. o służbie cywilnej oraz ustawę z dnia 20 lutego 2015 r. o zmianie ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-23 |
 | Data wydania | 2016-10-03 |
-| Wejście w życie | 2016-10-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001605) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1605/text.pdf) |
 
@@ -66,7 +65,7 @@ source: "eli-html"
 - **1)** szczegółowy zakres informacji zawartych w rejestrze,
 - **2)** sposób prowadzenia rejestru oraz jego wzór,
 - **3)** zakres i tryb przekazywania informacji, o których mowa w ust. 3,
-- **4)** zakres informacji, o których mowa w ust. 3, które umieszcza się na stronie internetowej administrowanej przez Główny Inspektorat Weterynarii mając na względzie zapewnienie sprawnego wykonywania nadzoru nad podmiotami objętymi tym rejestrem. ” ;
+- **4)** zakres informacji, o których mowa w ust. 3, które umieszcza się na stronie internetowej administrowanej przez Główny Inspektorat Weterynarii – mając na względzie zapewnienie sprawnego wykonywania nadzoru nad podmiotami objętymi tym rejestrem. ” ;
 - **3)** w art. 44: w ust. 1 po pkt 12a dodaje się pkt 12b w brzmieniu: „
     - **a)**
 
@@ -74,14 +73,32 @@ source: "eli-html"
     - **b)**
 
 - **7)** nakazać posiadaczowi gospodarstwa podjęcie określonych działań w celu zabezpieczenia gospodarstwa przed przenikaniem czynnika zakaźnego. ” ;
-- **4)** w art. 45: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) ograniczyć przemieszczanie lub obrót albo zakazać przemieszczania lub obrotu zwierzętami niektórych gatunków, zwłokami zwierzęcymi, produktami, surowcami i produktami rolnymi lub paszami oraz innymi przedmiotami, które mogą spowodować szerzenie się choroby zakaźnej zwierząt; ” , – pkt 8 otrzymuje brzmienie: „ 8) nakazać odstrzał sanitarny zwierząt na określonym obszarze, w tym nakazać dzierżawcom lub zarządcom obwodów łowieckich odstrzał sanitarny zwierząt wolno żyjących (dzikich); ” , – po pkt 8 dodaje się pkt 8a-8e w brzmieniu: „ 8a) nakazać dzierżawcom lub zarządcom obwodów łowieckich zgłaszanie przypadków padnięć lub dostarczanie odstrzelonych zwierząt łownych do określonych miejsc; 8b) nakazać zagospodarowanie w określony sposób tusz odstrzelonych zwierząt łownych, zwłok tych zwierząt lub ubocznych produktów pochodzenia zwierzęcego pochodzących od tych zwierząt; 8c) nakazać zarządcom dróg publicznych wykładanie mat dezynfekcyjnych; 8d) nakazać zarządcom przejść granicznych wykonanie określonych działań lub zastosowanie określonego sprzętu, urządzeń i materiałów na przejściach granicznych; 8e) nakazać podjęcie określonych działań w celu zabezpieczenia gospodarstwa przed przenikaniem czynnika zakaźnego; ” , – pkt 9 otrzymuje brzmienie: „ 9) nakazać podmiotom prowadzącym działalność w zakresie produkcji, przetwarzania lub dystrybucji produktów lub pasz zastosowanie określonej technologii; ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **4)** w art. 45: w ust. 1: pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** ograniczyć przemieszczanie lub obrót albo zakazać przemieszczania lub obrotu zwierzętami niektórych gatunków, zwłokami zwierzęcymi, produktami, surowcami i produktami rolnymi lub paszami oraz innymi przedmiotami, które mogą spowodować szerzenie się choroby zakaźnej zwierząt; ” , pkt 8 otrzymuje brzmienie: „
+- **8)** nakazać odstrzał sanitarny zwierząt na określonym obszarze, w tym nakazać dzierżawcom lub zarządcom obwodów łowieckich odstrzał sanitarny zwierząt wolno żyjących (dzikich); ” , po pkt 8 dodaje się pkt 8a-8e w brzmieniu: „
+- **8a)** nakazać dzierżawcom lub zarządcom obwodów łowieckich zgłaszanie przypadków padnięć lub dostarczanie odstrzelonych zwierząt łownych do określonych miejsc;
+- **8b)** nakazać zagospodarowanie w określony sposób tusz odstrzelonych zwierząt łownych, zwłok tych zwierząt lub ubocznych produktów pochodzenia zwierzęcego pochodzących od tych zwierząt;
+- **8c)** nakazać zarządcom dróg publicznych wykładanie mat dezynfekcyjnych;
+- **8d)** nakazać zarządcom przejść granicznych wykonanie określonych działań lub zastosowanie określonego sprzętu, urządzeń i materiałów na przejściach granicznych;
+- **8e)** nakazać podjęcie określonych działań w celu zabezpieczenia gospodarstwa przed przenikaniem czynnika zakaźnego; ” , pkt 9 otrzymuje brzmienie: „
+- **9)** nakazać podmiotom prowadzącym działalność w zakresie produkcji, przetwarzania lub dystrybucji produktów lub pasz zastosowanie określonej technologii; ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Podmiotowi, który poniósł koszty związane z realizacją nakazów, o których mowa w ust. 1 pkt 8a-8d i 9, przysługuje ze środków budżetu państwa zwrot kosztów faktycznie poniesionych w związku z realizacją tych nakazów. ” ;
 
-- **5)** w art. 46: w ust. 3: – pkt 4 otrzymuje brzmienie: „ 4) ogranicza przemieszczanie lub obrót albo zakazuje przemieszczania lub obrotu zwierzętami niektórych gatunków, zwłokami zwierzęcymi, produktami, surowcami i produktami rolnymi lub paszami oraz innymi przedmiotami, które mogą spowodować szerzenie się choroby zakaźnej zwierząt, lub ” , – pkt 8 otrzymuje brzmienie: „ 8) nakazuje odstrzał sanitarny zwierząt na określonym obszarze, w tym nakazuje dzierżawcom lub zarządcom obwodów łowieckich odstrzał sanitarny zwierząt wolno żyjących (dzikich), lub ” , – po pkt 8a dodaje się pkt 8b-8f w brzmieniu: „ 8b) nakazuje dzierżawcom lub zarządcom obwodów łowieckich zgłaszanie przypadków padnięć lub podejrzenia wystąpienia choroby zakaźnej u określonych gatunków zwierząt lub dostarczanie odstrzelonych zwierząt do określonych miejsc, lub 8c) nakazuje zagospodarowanie w określony sposób tusz odstrzelonych zwierząt łownych, zwłok tych zwierząt lub ubocznych produktów pochodzenia zwierzęcego pochodzących od tych zwierząt, lub 8d) nakazuje zarządcom dróg publicznych wykładanie mat dezynfekcyjnych, lub 8e) nakazuje zarządcom przejść granicznych wykonanie określonych działań lub zastosowanie określonego sprzętu, urządzeń i materiałów na przejściach granicznych, lub 8f) nakazuje podjęcie określonych działań w celu zabezpieczenia gospodarstwa przed przenikaniem czynnika zakaźnego, lub ” , – pkt 9 otrzymuje brzmienie: „ 9) nakazuje podmiotom prowadzącym działalność w zakresie produkcji, przetwarzania, dystrybucji produktów lub pasz zastosowanie określonej technologii, lub ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+- **5)** w art. 46: w ust. 3: pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** ogranicza przemieszczanie lub obrót albo zakazuje przemieszczania lub obrotu zwierzętami niektórych gatunków, zwłokami zwierzęcymi, produktami, surowcami i produktami rolnymi lub paszami oraz innymi przedmiotami, które mogą spowodować szerzenie się choroby zakaźnej zwierząt, lub ” , pkt 8 otrzymuje brzmienie: „
+- **8)** nakazuje odstrzał sanitarny zwierząt na określonym obszarze, w tym nakazuje dzierżawcom lub zarządcom obwodów łowieckich odstrzał sanitarny zwierząt wolno żyjących (dzikich), lub ” , po pkt 8a dodaje się pkt 8b-8f w brzmieniu: „
+- **8b)** nakazuje dzierżawcom lub zarządcom obwodów łowieckich zgłaszanie przypadków padnięć lub podejrzenia wystąpienia choroby zakaźnej u określonych gatunków zwierząt lub dostarczanie odstrzelonych zwierząt do określonych miejsc, lub
+- **8c)** nakazuje zagospodarowanie w określony sposób tusz odstrzelonych zwierząt łownych, zwłok tych zwierząt lub ubocznych produktów pochodzenia zwierzęcego pochodzących od tych zwierząt, lub
+- **8d)** nakazuje zarządcom dróg publicznych wykładanie mat dezynfekcyjnych, lub
+- **8e)** nakazuje zarządcom przejść granicznych wykonanie określonych działań lub zastosowanie określonego sprzętu, urządzeń i materiałów na przejściach granicznych, lub
+- **8f)** nakazuje podjęcie określonych działań w celu zabezpieczenia gospodarstwa przed przenikaniem czynnika zakaźnego, lub ” , pkt 9 otrzymuje brzmienie: „
+- **9)** nakazuje podmiotom prowadzącym działalność w zakresie produkcji, przetwarzania, dystrybucji produktów lub pasz zastosowanie określonej technologii, lub ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
     - **b)**
 
 3a. Podmiotowi, który poniósł koszty związane z realizacją nakazów, o których mowa w ust. 3 pkt 8b-8e i 9, przysługuje ze środków budżetu państwa zwrot kosztów faktycznie poniesionych w związku z realizacją tych nakazów. ” ;
@@ -102,7 +119,7 @@ source: "eli-html"
 4. Kwotę ryczałtu ustala i wypłaca:
 
 - **1)** Polskiemu Związkowi Łowieckiemu w przypadkach, o których mowa w ust. 1, albo
-- **2)** dzierżawcy albo zarządcy obwodu łowieckiego, na obszarze którego dokonano odstrzału sanitarnego powiatowy lekarz weterynarii.
+- **2)** dzierżawcy albo zarządcy obwodu łowieckiego, na obszarze którego dokonano odstrzału sanitarnego – powiatowy lekarz weterynarii.
 
 5. Polski Związek Łowiecki albo dzierżawca, albo zarządca obwodu łowieckiego, na obszarze którego dokonano odstrzału sanitarnego, przekazuje kwotę ryczałtu, o której mowa w ust. 3 pkt 1, myśliwym, którzy wykonali odstrzał sanitarny zwierząt.
 
@@ -129,7 +146,7 @@ source: "eli-html"
 
 - **8)** w art. 57 ust. 7 otrzymuje brzmienie: „
 
-7. Minister właściwy do spraw rolnictwa wprowadza program, o którym mowa w ust. 5, po jego zatwierdzeniu pod względem technicznym i zaproponowaniu do współfinansowania przez Komisję Europejską – zgodnie z art. 13 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 652/2014 z dnia 15 maja 2014 r. ustanawiającego przepisy w zakresie zarządzania wydatkami odnoszącymi się do łańcucha żywnościowego, zdrowia zwierząt i dobrostanu zwierząt oraz dotyczącymi zdrowia roślin i materiału przeznaczonego do reprodukcji roślin, zmieniającego dyrektywy Rady 98/56/WE, 2000/29/WE i 2008/90/WE, rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 178/2002, (WE) nr 882/2004 i (WE) nr 396/2005, dyrektywę Parlamentu Europejskiego i Rady 2009/128/WE i rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1107/2009 oraz uchylającego decyzje Rady 66/399/EWG, 76/894/EWG i 2009/470/WE (Dz. Urz. UE L 189 z 27.06.2014, str. 1, z późn. zm.) – w drodze rozporządzenia, na terytorium Rzeczypospolitej Polskiej lub jego części, mając na względzie ochronę zdrowia publicznego, poprawę sytuacji epizootycznej państwa oraz obowiązujące w tym zakresie przepisy Unii Europejskiej. ” ;
+7. Minister właściwy do spraw rolnictwa wprowadza program, o którym mowa w ust. 5, po jego zatwierdzeniu pod względem technicznym i zaproponowaniu do współfinansowania przez Komisję Europejską – zgodnie z art. 13 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 652/2014 z dnia 15 maja 2014 r. ustanawiającego przepisy w zakresie zarządzania wydatkami odnoszącymi się do łańcucha żywnościowego, zdrowia zwierząt i dobrostanu zwierząt oraz dotyczącymi zdrowia roślin i materiału przeznaczonego do reprodukcji roślin, zmieniającego dyrektywy Rady 98/56/WE, 2000/29/WE i 2008/90/WE, rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 178/2002, (WE) nr 882/2004 i (WE) nr 396/2005, dyrektywę Parlamentu Europejskiego i Rady 2009/128/WE i rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1107/2009 oraz uchylającego decyzje Rady 66/399/EWG, 76/894/EWG i 2009/470/WE (Dz. Urz. UE L 189 z 27.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 328 z 12.12.2015, str. 126 i Dz. Urz. UE L 171 z 29.06.2016, str. 66. – w drodze rozporządzenia, na terytorium Rzeczypospolitej Polskiej lub jego części, mając na względzie ochronę zdrowia publicznego, poprawę sytuacji epizootycznej państwa oraz obowiązujące w tym zakresie przepisy Unii Europejskiej. ” ;
 
 - **9)** w art. 57g ust. 2 i 3 otrzymują brzmienie: „
 
@@ -179,7 +196,7 @@ source: "eli-html"
 - **22)** art. 45 ust. 1 pkt 8e i art. 46 ust. 3 pkt 8f, nie podejmuje określonych działań w celu zabezpieczenia gospodarstwa przed przenikaniem czynnika zakaźnego, podlega karze pieniężnej w wysokości od 0,5 do dwukrotności,
 - **23)** art. 45 ust. 1 pkt 9 i art. 46 ust. 3 pkt 9, będąc podmiotem prowadzącym działalność w zakresie produkcji, przetwarzania lub dystrybucji produktów lub pasz, nie stosuje określonej technologii, podlega karze pieniężnej w wysokości od dwukrotności do pięciokrotności,
 - **24)** art. 45 ust. 1 pkt 10 i art. 46 ust. 3 pkt 8a, nie utrzymuje zwierząt, w tym nie karmi ich i nie poi, w określony sposób, podlega karze pieniężnej w wysokości od 0,2 do 0,8,
-- **25)** art. 57e ust. 4: nie zabija utrzymywanych w gospodarstwie zwierząt z gatunków wrażliwych lub nie poddaje tych zwierząt ubojowi, podlega karze pieniężnej w wysokości od 0,5 do dwukrotności, wprowadza do gospodarstwa lub utrzymuje w nim zwierzęta z gatunków wrażliwych przez okres wskazany w programie bioasekuracji, podlega karze pieniężnej w wysokości od 2,5 do 4,5 kwoty przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej za rok poprzedzający, ogłaszanej przez Prezesa Głównego Urzędu Statystycznego.
+- **25)** art. 57e ust. 4: nie zabija utrzymywanych w gospodarstwie zwierząt z gatunków wrażliwych lub nie poddaje tych zwierząt ubojowi, podlega karze pieniężnej w wysokości od 0,5 do dwukrotności, wprowadza do gospodarstwa lub utrzymuje w nim zwierzęta z gatunków wrażliwych przez okres wskazany w programie bioasekuracji, podlega karze pieniężnej w wysokości od 2,5 do 4,5 – kwoty przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej za rok poprzedzający, ogłaszanej przez Prezesa Głównego Urzędu Statystycznego.
     - **a)**
     - **b)**
 
@@ -189,7 +206,7 @@ source: "eli-html"
 - **2)** mającym na celu wykrycie występowania zakażeń czynnikami wywołującymi choroby zakaźne zwierząt lub poszerzenie wiedzy o ryzyku występowania takich chorób,
 - **3)** nadzoru nad chorobami zakaźnymi zwierząt akwakultury mającego na celu osiągnięcie przez terytorium Rzeczypospolitej Polskiej, strefę lub enklawę statusu wolnych od danej choroby zakaźnej,
 - **4)** zwalczania chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych wymienionych w rozporządzeniu nr 2160/2003, w załączniku I,
-- **5)** bioasekuracji mającym na celu zapobieganie szerzeniu się chorób zakaźnych zwierząt podlegających obowiązkowi zwalczania podlega karze pieniężnej w wysokości od 0,2 do 0,8 kwoty przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej za rok poprzedzający, ogłaszanej przez Prezesa Głównego Urzędu Statystycznego.
+- **5)** bioasekuracji mającym na celu zapobieganie szerzeniu się chorób zakaźnych zwierząt podlegających obowiązkowi zwalczania – podlega karze pieniężnej w wysokości od 0,2 do 0,8 kwoty przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej za rok poprzedzający, ogłaszanej przez Prezesa Głównego Urzędu Statystycznego.
 
 3. Ustalając wysokość kar pieniężnych, o których mowa w ust. 1 i 2, powiatowy lekarz weterynarii bierze pod uwagę stopień spowodowanego zagrożenia dla bezpieczeństwa zdrowia publicznego lub zdrowia zwierząt oraz zakres stwierdzonych naruszeń lub ich stopień, a także, odpowiednio, wielkość gospodarstwa, liczbę zwierząt, powierzchnię gospodarstwa lub wielkość produkcji w zakładzie, których dotyczy dane naruszenie. ” ;
 
@@ -215,7 +232,7 @@ source: "eli-html"
 
 - **1)** posiadacza zwierząt – w przypadku zbycia siedziby stada, w której nie przebywają zwierzęta, albo zaprzestania utrzymywania zwierząt,
 - **2)** organów Agencji albo Inspekcji Weterynaryjnej – w przypadku stwierdzenia, w wyniku kontroli, o których mowa w art. 29 ust. 2 pkt 2 lub art. 30 ust. 3, że nie jest prowadzona działalność związana z chowem lub hodowlą zwierząt,
-- **3)** następcy prawnego posiadacza zwierząt – w przypadku śmierci posiadacza zwierząt jednakże nie wcześniej niż po upływie okresów wskazanych w ust. 2 pkt 1 i 5. ” ;
+- **3)** następcy prawnego posiadacza zwierząt – w przypadku śmierci posiadacza zwierząt – jednakże nie wcześniej niż po upływie okresów wskazanych w ust. 2 pkt 1 i 5. ” ;
 - **2)** w art. 9: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -248,7 +265,7 @@ source: "eli-html"
 3a. W przypadku zagrożenia wystąpienia lub wystąpienia choroby zakaźnej zwierząt podlegającej obowiązkowi zwalczania i określenia obszaru zapowietrzonego, zagrożonego lub innego obszaru podlegającego ograniczeniom, ustanowionego zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, w tym zgodnie z przepisami Unii Europejskiej obowiązującymi w tym zakresie, posiadacz świń znajdujących się w siedzibie stada na tym obszarze jest obowiązany zgłosić kierownikowi biura w ciągu 24 godzin:
 
 - **1)** zwiększenie lub zmniejszenie liczebności stada,
-- **2)** ubój zwierzęcia gospodarskiego z podaniem liczby zwierząt, które przybyły lub ubyły ze stada, oraz miejsca pochodzenia lub przeznaczenia zwierzęcia. ” , w ust. 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zgłoszeń, o których mowa w ust. 1, 3, 3a i 6, dokonuje się w formie: ” ;
+- **2)** ubój zwierzęcia gospodarskiego – z podaniem liczby zwierząt, które przybyły lub ubyły ze stada, oraz miejsca pochodzenia lub przeznaczenia zwierzęcia. ” , w ust. 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zgłoszeń, o których mowa w ust. 1, 3, 3a i 6, dokonuje się w formie: ” ;
     - **c)**
 
 - **4)** w art. 17 po ust. 3a dodaje się ust. 3b i 3c w brzmieniu: „
@@ -299,7 +316,7 @@ source: "eli-html"
 3. Posiadacz zwierzęcia gospodarskiego przekazuje liczbę i numery identyfikacyjne zwierząt gospodarskich, ustalone podczas spisu kierownikowi biura:
 
 - **1)** na formularzu udostępnionym przez Agencję albo
-- **2)** w formie elektronicznej: przez umieszczenie danych na informatycznym nośniku danych w sposób określony przez Agencję albo na formularzu umieszczonym na stronie internetowej administrowanej przez Agencję, umożliwiającym wprowadzenie danych do systemu teleinformatycznego Agencji, w którym jest prowadzony rejestr zwierząt gospodarskich oznakowanych w terminie 7 dni od dnia dokonania tego spisu.
+- **2)** w formie elektronicznej: przez umieszczenie danych na informatycznym nośniku danych w sposób określony przez Agencję albo na formularzu umieszczonym na stronie internetowej administrowanej przez Agencję, umożliwiającym wprowadzenie danych do systemu teleinformatycznego Agencji, w którym jest prowadzony rejestr zwierząt gospodarskich oznakowanych – w terminie 7 dni od dnia dokonania tego spisu.
     - **a)**
     - **b)**
 
@@ -312,7 +329,7 @@ source: "eli-html"
 1. Podmiot prowadzący działalność w zakresie:
 
 - **1)** organizowania targów, wystaw, pokazów lub konkursów zwierząt,
-- **2)** obrotu zwierzętami, pośrednictwa w tym obrocie lub skupu zwierząt jest obowiązany do prowadzenia ewidencji odpowiednio zwierząt wprowadzanych na targ, wystawę, pokaz lub konkurs albo zwierząt będących przedmiotem obrotu lub skupu, w formie papierowej lub w formie dokumentu elektronicznego.
+- **2)** obrotu zwierzętami, pośrednictwa w tym obrocie lub skupu zwierząt – jest obowiązany do prowadzenia ewidencji odpowiednio zwierząt wprowadzanych na targ, wystawę, pokaz lub konkurs albo zwierząt będących przedmiotem obrotu lub skupu, w formie papierowej lub w formie dokumentu elektronicznego.
 
 2. Posiadacz zwierząt, które mają być wprowadzone na targ, wystawę, pokaz lub konkurs albo do miejsca gromadzenia zwierząt:
 
@@ -396,7 +413,7 @@ source: "eli-html"
 3. Nie wprowadza się na rynek mięsa i produktów mięsnych, które zostały pozyskane ze zwierząt z gatunków wrażliwych na jedną z chorób zakaźnych zwierząt, wymienioną w przepisach wydanych na podstawie art. 10 ust. 2, poddanych ubojowi w rzeźni w czasie, gdy znajdowały się tam:
 
 - **1)** zwierzęta podejrzane o zakażenie lub zakażone, podejrzane o chorobę zakaźną zwierząt lub chore na tę chorobę,
-- **2)** tusze lub części tusz zwierząt, o których mowa w pkt 1 chyba że takie podejrzenie, zakażenie lub choroba zostały wykluczone.
+- **2)** tusze lub części tusz zwierząt, o których mowa w pkt 1 – chyba że takie podejrzenie, zakażenie lub choroba zostały wykluczone.
 
 4. Produkty rybołówstwa oraz żywe małże wprowadzane na rynek mogą pochodzić z gospodarstwa podlegającego ograniczeniom w zakresie zdrowia zwierząt wydanym na podstawie przepisów Unii Europejskiej wprowadzających środki zwalczania chorób zakaźnych zwierząt ze względu na chorobę zakaźną zwierząt, wymienioną w przepisach wydanych na podstawie art. 10 ust. 2, lub na podstawie przepisów wydanych w trybie takich przepisów Unii Europejskiej, jeżeli nie są rybami i mięczakami wykazującymi kliniczne objawy choroby lub nie pochodzą od lub z takich zwierząt. ” ;
 
@@ -407,12 +424,12 @@ source: "eli-html"
 1. Dopuszcza się produkcję i wprowadzanie na rynek produktów pochodzenia zwierzęcego pochodzących z obszaru podlegającego ograniczeniom w zakresie zdrowia zwierząt wydanym na podstawie przepisów Unii Europejskiej wprowadzających środki zwalczania chorób zakaźnych zwierząt ze względu na chorobę zakaźną zwie rząt wymienioną w przepisach wydanych na podstawie ust. 2, lub na podstawie przepisów wydanych w trybie takich przepisów Unii Europejskiej, które mają zastosowanie do danych zwierząt lub produktów, jeżeli:
 
 - **1)** produkty te nie pochodzą z gospodarstwa, w którym podejrzewa się lub stwierdzono tę chorobę,
-- **2)** przy ich produkcji i wprowadzaniu na rynek zostały spełnione wymagania określone w przepisach wydanych na podstawie ust. 2 o ile przepisy Unii Europejskiej wprowadzające środki zwalczania chorób zakaźnych zwierząt albo przepisy krajowe wdrażające lub wykonujące te przepisy Unii Europejskiej nie stanowią inaczej.
+- **2)** przy ich produkcji i wprowadzaniu na rynek zostały spełnione wymagania określone w przepisach wydanych na podstawie ust. 2 – o ile przepisy Unii Europejskiej wprowadzające środki zwalczania chorób zakaźnych zwierząt albo przepisy krajowe wdrażające lub wykonujące te przepisy Unii Europejskiej nie stanowią inaczej.
 
 2. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
 - **1)** wykaz chorób zakaźnych zwierząt, w związku z którymi wprowadza się ograniczenia w produkcji lub wprowadzaniu na rynek produktów pochodzenia zwierzęcego,
-- **2)** wymagania weterynaryjne dla produktów, o których mowa w ust. 1, w szczególności sposób produkcji i znakowania tych produktów mając na uwadze ochronę zdrowia publicznego, w tym zapobieganie przenoszeniu chorób zakaźnych zwierząt, oraz obowiązujące w tym zakresie przepisy Unii Europejskiej. ” .
+- **2)** wymagania weterynaryjne dla produktów, o których mowa w ust. 1, w szczególności sposób produkcji i znakowania tych produktów – mając na uwadze ochronę zdrowia publicznego, w tym zapobieganie przenoszeniu chorób zakaźnych zwierząt, oraz obowiązujące w tym zakresie przepisy Unii Europejskiej. ” .
 
 **Art. 6.** W ustawie z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2016 r. poz. 1345) wprowadza się następujące zmiany:
 
@@ -450,12 +467,12 @@ source: "eli-html"
 **Art. 9.** Wprzypadku wniosków o przyznanie rekompensaty za nieprzerwane nieutrzymywanie w gospodarstwie zwierząt, o której mowa w art. 57g ust. 1 ustawy zmienianej w art. 3, złożonych przed dniem wejścia w życie niniejszej ustawy:
 
 - **1)** wysokość tej rekompensaty oblicza się w sposób określony w art. 57g ust. 2,
-- **2)** średnią roczną liczbę zwierząt, o której mowa w art. 57g ust. 2 ustawy zmienianej w art. 3, ustala się w sposób określony w art. 57g ust. 3 ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą.
+- **2)** średnią roczną liczbę zwierząt, o której mowa w art. 57g ust. 2 ustawy zmienianej w art. 3, ustala się w sposób określony w art. 57g ust. 3 – ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą.
 
 1. Podmioty prowadzące działalność nadzorowaną w rozumieniu przepisów o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt w zakresie:
 
 - **1)** organizowania targów, wystaw, pokazów lub konkursów zwierząt,
-- **2)** obrotu zwierzętami, z wyjątkiem obrotu prowadzonego w ramach działalności rolniczej w rozumieniu przepisów prawa działalności gospodarczej, pośrednictwa w tym obrocie lub skupu zwierząt wpisane przed dniem wejścia w życie niniejszej ustawy do rejestru prowadzonego przez powiatowego lekarza weterynarii na podstawie art. 11 ustawy zmienianej w art. 3, zgłaszają prowadzenie tej działalności kierownikowi biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa właściwemu ze względu na miejsce prowadzenia tej działalności w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
+- **2)** obrotu zwierzętami, z wyjątkiem obrotu prowadzonego w ramach działalności rolniczej w rozumieniu przepisów prawa działalności gospodarczej, pośrednictwa w tym obrocie lub skupu zwierząt – wpisane przed dniem wejścia w życie niniejszej ustawy do rejestru prowadzonego przez powiatowego lekarza weterynarii na podstawie art. 11 ustawy zmienianej w art. 3, zgłaszają prowadzenie tej działalności kierownikowi biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa właściwemu ze względu na miejsce prowadzenia tej działalności w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 2. Do podmiotów, o których mowa w ust. 1, które nie dokonały zgłoszenia, o którym mowa w ust. 1, albo dokonały zgłoszenia z naruszeniem terminu określonego w ust. 1, stosuje się odpowiednio przepis art. 33 ust. 1 pkt 1 ustawy zmienianej w art. 4 w brzmieniu nadanym niniejszą ustawą.
 
@@ -473,7 +490,7 @@ source: "eli-html"
 
 1. Postępowania dotyczące naboru kandydatów do zatrudnienia na stanowiska pracy, o których mowa w art. 27 ust. 2 ustawy zmienianej w art. 6, wszczęte i niezakończone do dnia wejścia w życie niniejszej ustawy ulegają zakończeniu z tym dniem.
 
-2. Stosunki pracy pracowników zatrudnionych w dniu wejścia w życie niniejszej ustawy na stanowiskach, o których mowa w art. 27 ust. 2 ustawy zmienianej w art. 6, stają się stosunkami pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.).
+2. Stosunki pracy pracowników zatrudnionych w dniu wejścia w życie niniejszej ustawy na stanowiskach, o których mowa w art. 27 ust. 2 ustawy zmienianej w art. 6, stają się stosunkami pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662, z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735 oraz z 2016 r. poz. 868, 910, 960 i 1053.).
 
 **Art. 14.**
 
@@ -483,7 +500,7 @@ source: "eli-html"
 
 - **1)** art. 57 ust. 7 oraz art. 61 ust. 1 ustawy zmienianej w art. 3,
 - **2)** art. 17 ust. 5, art. 22 ust. 6 oraz art. 24 ust. 3 ustawy zmienianej w art. 4,
-- **3)** art. 10 ust. 2 ustawy zmienianej w art. 5 zachowują moc i mogą być zmieniane na podstawie tego przepisu.
+- **3)** art. 10 ust. 2 ustawy zmienianej w art. 5 – zachowują moc i mogą być zmieniane na podstawie tego przepisu.
 
-**Art. 15.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 15.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 sierpnia 1997 r. o ochronie zwierząt, ustawę z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, ustawę z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, ustawę z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt, ustawę z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego, ustawę z dnia 21 listopada 2008 r. o służbie cywilnej oraz ustawę z dnia 20 lutego 2015 r. o zmianie ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 328 z 12.12.2015, str. 126 i Dz. Urz. UE L 171 z 29.06.2016, str. 66. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662, z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735 oraz z 2016 r. poz. 868, 910, 960 i 1053.
 

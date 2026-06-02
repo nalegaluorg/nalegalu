@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Edukacjiz dnia 27 lutego 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu zawodowego oraz egzaminu potwierdzającego kwalifikacje w zawodzie
+# Obwieszczenie Ministra Edukacjiz dnia 27 lutego 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu zawodowego oraz egzaminu potwierdzającego kwalifikacje w zawodzie Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
 
 | Pole | Wartość |
 |---|---|
@@ -26,19 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000552) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/552/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 28 sierpnia 2019 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu zawodowego oraz egzaminu potwierdzającego kwalifikacje w zawodzie § 1. Rozdział 1 – Przepisy ogólne Rozdział 2 – Część pisemna egzaminu zawodowego Rozdział 3 – Część praktyczna egzaminu zawodowego Rozdział 4 – Przepisy wspólne dla części pisemnej i części praktycznej egzaminu zawodowego Rozdział 5 – Egzamin potwierdzający kwalifikacje w zawodzie Rozdział 6 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 28 sierpnia 2019 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu zawodowego oraz egzaminu potwierdzającego kwalifikacje w zawodzie
+§ 1.
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji Narodowej z dnia 28 sierpnia 2019 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu zawodowego oraz egzaminu potwierdzającego kwalifikacje w zawodzie (Dz. U. poz. 1707), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji i Nauki z dnia 27 września 2023 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu zawodowego oraz egzaminu potwierdzającego kwalifikacje w zawodzie (Dz. U. poz. 2058).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 27 września 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu zawodowego oraz egzaminu potwierdzającego kwalifikacje w zawodzie (Dz. U. poz. 2058), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 27 września 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu zawodowego oraz egzaminu potwierdzającego kwalifikacje w zawodzie (Dz. U. poz. 2058), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
-Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 28 sierpnia 2019 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu zawodowego oraz egzaminu potwierdzającego kwalifikacje w zawodzie
-Na podstawie art. 44zzzv ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r. poz. 1234 i 2005) i art. 130 ust. 4 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245, z późn. zm.) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
+Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 28 sierpnia 2019 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu zawodowego oraz egzaminu potwierdzającego kwalifikacje w zawodzieNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
+Na podstawie art. 44zzzv ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r. poz. 1234 i 2005) i art. 130 ust. 4 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2432, z 2019 r. poz. 534, 1287 i 2248, z 2021 r. poz. 4, z 2022 r. poz. 1116 oraz z 2024 r. poz. 123.) zarządza się, co następuje:
 § 1.
 1.
 Rozporządzenie określa szczegółowe warunki i sposób przeprowadzania egzaminu zawodowego, w tym:
@@ -70,6 +68,7 @@ osoby, które nie wchodzą w skład zespołu egzaminacyjnego i nie biorą udzia�
 wysokość opłat pobieranych za egzamin zawodowy przeprowadzany dla uczniów będących młodocianymi pracownikami zatrudnionymi w celu przygotowania zawodowego u pracodawcy niebędącego rzemieślnikiem oraz dla osób dorosłych, o których mowa w art. 44zzzb ust. 3 pkt 5 ustawy o systemie oświaty, oraz możliwość zwalniania osób o niskich dochodach z całości lub części opłat za egzamin zawodowy oraz tryb tego zwalniania.
 2.
 Rozporządzenie określa również szczegółowe warunki i sposób przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie.
+Przepisy ogólne
 § 2.
 Ilekroć w rozdziałach 1–4 jest mowa o:
 1)
@@ -88,7 +87,7 @@ osobie przystępującej do egzaminu eksternistycznego zawodowego – należy prz
 zdającym – należy przez to rozumieć osobę, o której mowa w pkt 2–6;
 8)
 placówce – należy przez to rozumieć placówkę kształcenia ustawicznego, o której mowa w art. 2 pkt 4 ustawy – Prawo oświatowe;
-9)
+9W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Edukacji i Nauki z dnia 27 września 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu zawodowego oraz egzaminu potwierdzającego kwalifikacje w zawodzie (Dz. U. poz. 2058), które weszło w życie z dniem 30 września 2023 r.)
 centrum – należy przez to rozumieć centrum kształcenia zawodowego i branżowe centrum umiejętności, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe;
 10)
 podmiocie prowadzącym kwalifikacyjny kurs zawodowy – należy przez to rozumieć podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe;
@@ -157,8 +156,7 @@ która posiada świadectwo lub inny dokument wydane za granicą i uznane w Rzecz
 3)
 której wykształcenie zasadnicze zawodowe, wykształcenie zasadnicze branżowe, wykształcenie średnie branżowe lub wykształcenie średnie zostało potwierdzone zgodnie z art. 93a ustawy o systemie oświaty,
 4)
-która posiada świadectwo szkolne uzyskane za granicą uznane za równorzędne świadectwu ukończenia odpowiedniej szkoły ponadgimnazjalnej lub szkoły ponadpodstawowej w drodze nostryfikacji, zgodnie z art. 93 ust. 2 ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 31 marca 2015 r.
-składa deklarację dyrektorowi okręgowej komisji egzaminacyjnej właściwej ze względu na miejsce zamieszkania tej osoby, a jeżeli posiada ona miejsce zamieszkania za granicą – dyrektorowi okręgowej komisji egzaminacyjnej właściwej ze względu na ostatnie miejsce jej zamieszkania na terytorium Rzeczypospolitej Polskiej.
+która posiada świadectwo szkolne uzyskane za granicą uznane za równorzędne świadectwu ukończenia odpowiedniej szkoły ponadgimnazjalnej lub szkoły ponadpodstawowej w drodze nostryfikacji, zgodnie z art. 93 ust. 2 ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 31 marca 2015 r. – składa deklarację dyrektorowi okręgowej komisji egzaminacyjnej właściwej ze względu na miejsce zamieszkania tej osoby, a jeżeli posiada ona miejsce zamieszkania za granicą – dyrektorowi okręgowej komisji egzaminacyjnej właściwej ze względu na ostatnie miejsce jej zamieszkania na terytorium Rzeczypospolitej Polskiej.
 15.
 Uczeń, absolwent, osoba, która ukończyła kwalifikacyjny kurs zawodowy, i osoba, o której mowa w ust. 10 i 11, składają deklarację do dnia:
 1)
@@ -190,7 +188,7 @@ przewodniczącemu zespołu egzaminacyjnego – w przypadku ucznia, absolwenta i 
 dyrektorowi okręgowej komisji egzaminacyjnej – w przypadku osoby dorosłej, która ukończyła praktyczną naukę zawodu dorosłych lub przyuczenie do pracy dorosłych, osoby przystępującej do egzaminu eksternistycznego zawodowego oraz osoby, o której mowa w § 6 ust. 8, 11 i 14.
 3.
 Opinię poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, o specyficznych trudnościach w uczeniu się, o której mowa w art. 44zzzf ust. 5 ustawy o systemie oświaty, uczeń lub absolwent składa wraz z deklaracją.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3..
 W przypadku ucznia lub absolwenta szkoły w okręgowym ośrodku wychowawczym, zakładzie poprawczym, zakładzie karnym lub areszcie śledczym opinię o specyficznych trudnościach w uczeniu się, o której mowa w art. 44zzzf ust. 5 ustawy o systemie oświaty, może wydać psycholog zatrudniony odpowiednio w okręgowym ośrodku wychowawczym, zakładzie poprawczym, zakładzie karnym lub areszcie śledczym.
 5.
 Zaświadczenie potwierdzające występowanie danej dysfunkcji, o którym mowa w art. 44zzzh ust. 1 ustawy o systemie oświaty, dołącza się do:
@@ -265,8 +263,7 @@ harmonogramu przeprowadzania egzaminu zawodowego, o którym mowa w art. 9a ust. 
 2)
 szczegółowych sposobów dostosowania warunków i form przeprowadzania egzaminu zawodowego, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie ustawy o systemie oświaty,
 3)
-listy kwalifikacji wyodrębnionych w zawodach określonych w klasyfikacji zawodów szkolnictwa branżowego, z których zadania egzaminacyjne w części praktycznej egzaminu zawodowego są jawne, wraz z podaniem miejsca udostępniania tych zadań do publicznej wiadomości, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret czwarte ustawy o systemie oświaty
-jest ogłaszany do dnia 20 sierpnia roku szkolnego poprzedzającego rok szkolny, w którym jest przeprowadzany egzamin zawodowy.
+listy kwalifikacji wyodrębnionych w zawodach określonych w klasyfikacji zawodów szkolnictwa branżowego, z których zadania egzaminacyjne w części praktycznej egzaminu zawodowego są jawne, wraz z podaniem miejsca udostępniania tych zadań do publicznej wiadomości, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret czwarte ustawy o systemie oświaty – jest ogłaszany do dnia 20 sierpnia roku szkolnego poprzedzającego rok szkolny, w którym jest przeprowadzany egzamin zawodowy.
 2.
 Komunikat w sprawie materiałów i przyborów pomocniczych, z których zdający mogą korzystać na egzaminie zawodowym, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie ustawy o systemie oświaty, jest ogłaszany nie później niż na miesiąc przed pierwszym dniem terminu głównego egzaminu zawodowego, określonym w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy o systemie oświaty.
 § 15.
@@ -292,7 +289,7 @@ delegowani przedstawiciele organu sprawującego nadzór pedagogiczny, organu pro
 2.
 Osoby, o których mowa w ust. 1, nie uczestniczą w przeprowadzaniu egzaminu zawodowego.
 § 19.
-(uchylony).
+(uchylony).Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3.
 § 20.
 1.
 Do części pisemnej egzaminu zawodowego:
@@ -367,7 +364,7 @@ b)
 jest zatrudniony w szkole, placówce lub centrum, w którym jest przeprowadzana część pisemna egzaminu zawodowego; nauczyciel ten pełni funkcję przewodniczącego zespołu;
 2)
 w przypadku zespołu nadzorującego powołanego u pracodawcy – co najmniej dwóch pracowników upoważnionych przez danego pracodawcę lub pracowników upoważnionych przez innych pracodawców, z których co najmniej jeden nie prowadzi ze zdającymi zajęć edukacyjnych objętych danym egzaminem zawodowym; jeden z tych pracowników pełni funkcję przewodniczącego zespołu;
-3)
+3Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3.)
 w przypadku zespołu nadzorującego powołanego w podmiocie prowadzącym kwalifikacyjny kurs zawodowy – co najmniej dwóch pracowników upoważnionych przez dany podmiot prowadzący kwalifikacyjny kurs zawodowy lub pracowników upoważnionych przez inne podmioty prowadzące kwalifikacyjne kursy zawodowe, z których co najmniej jeden nie prowadzi ze zdającymi zajęć edukacyjnych objętych danym egzaminem zawodowym; jeden z tych pracowników pełni funkcję przewodniczącego zespołu; jeżeli podmiotem prowadzącym kwalifikacyjny kurs zawodowy jest szkoła, placówka lub centrum kształcenia zawodowego, skład zespołu nadzorującego ustala się zgodnie z pkt 1.
 3.
 W przypadku braku możliwości powołania w skład zespołu nadzorującego nauczycieli zatrudnionych w szkole, placówce lub centrum, w których jest przeprowadzany egzamin zawodowy, w skład zespołu nadzorującego mogą wchodzić inni nauczyciele, w tym osoby posiadające kwalifikacje wymagane do zajmowania stanowiska nauczyciela niezatrudnione w szkole, placówce lub centrum.
@@ -691,7 +688,7 @@ udział w przeprowadzaniu części praktycznej egzaminu zawodowego jako osoba od
 W skład zespołu nadzorującego przebieg części praktycznej egzaminu zawodowego, której jedynym rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest dokumentacja, wchodzą:
 1)
 nauczyciel lub instruktor praktycznej nauki zawodu zatrudnieni w innej szkole, placówce lub centrum – w przypadku gdy część praktyczna jest przeprowadzana w szkole, placówce lub centrum;
-2)
+2Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.)
 pracownik upoważniony odpowiednio przez danego pracodawcę lub dany podmiot prowadzący kwalifikacyjny kurs zawodowy – w przypadku gdy część praktyczna jest przeprowadzana u pracodawcy lub w podmiocie prowadzącym kwalifikacyjny kurs zawodowy lub w miejscach przez nich wskazanych; jeżeli podmiotem prowadzącym kwalifikacyjny kurs zawodowy jest szkoła, placówka lub centrum kształcenia zawodowego, skład zespołu nadzorującego ustala się zgodnie z pkt 1.
 2.
 Nauczyciel lub instruktor praktycznej nauki zawodu zostają powołani w skład zespołu nadzorującego w porozumieniu z dyrektorem szkoły, placówki lub centrum, w którym są zatrudnieni.
@@ -911,15 +908,16 @@ liczbę załączników, o których mowa w ust. 6.
 Protokół zbiorczy, o którym mowa w ust. 4, sporządza się w dwóch egzemplarzach. Protokół zbiorczy podpisuje przewodniczący zespołu egzaminacyjnego. Jeden egzemplarz protokołu zbiorczego przewodniczący zespołu egzaminacyjnego przesyła niezwłocznie okręgowej komisji egzaminacyjnej.
 6.
 Do protokołu zbiorczego, o którym mowa w ust. 4, dołącza się protokoły z przebiegu części praktycznej egzaminu zawodowego w poszczególnych miejscach przeprowadzania części praktycznej egzaminu zawodowego wraz z załącznikami, o których mowa w ust. 3.
+Przepisy wspólne dla części pisemnej i części praktycznej egzaminu zawodowego
 § 54.
 1.
 W dniu ogłaszania wyników egzaminu zawodowego, określonym w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze podwójne tiret pierwsze ustawy o systemie oświaty, przewodniczący zespołu egzaminacyjnego uzyskuje dostęp w elektronicznym systemie przeprowadzania egzaminu zawodowego do wyników egzaminu zawodowego uzyskanych przez zdających w danej szkole, w danej placówce, w danym centrum, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy.
 2.
 Przewodniczący zespołu egzaminacyjnego informuje zdających o uzyskanych przez nich wynikach.
 § 55.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 3..
 Informację o wynikach egzaminu zawodowego, o której mowa w art. 44zzzo ust. 5 ustawy o systemie oświaty, certyfikat kwalifikacji zawodowej lub dyplom zawodowy okręgowa komisja egzaminacyjna przekazuje dyrektorowi szkoły, placówki lub centrum kształcenia zawodowego lub pracodawcy, któremu uczeń lub absolwent składał deklarację przystąpienia do egzaminu zawodowego z danej kwalifikacji, lub osobie upoważnionej przez tego dyrektora szkoły, placówki lub centrum kształcenia zawodowego lub pracodawcę, w terminie określonym w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy o systemie oświaty.
-2.
+2Ze zmianą wprowadzoną przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 Dyrektor szkoły, placówki lub centrum kształcenia zawodowego lub pracodawca albo upoważniona przez nich osoba przekazuje uczniowi lub absolwentowi informację o wynikach egzaminu zawodowego, o której mowa w art. 44zzzo ust. 5 ustawy o systemie oświaty, certyfikat kwalifikacji zawodowej lub dyplom zawodowy.
 3.
 Informację o wynikach egzaminu zawodowego, o której mowa w art. 44zzzo ust. 5 ustawy o systemie oświaty, certyfikat kwalifikacji zawodowej lub dyplom zawodowy osoba, która ukończyła kwalifikacyjny kurs zawodowy odbiera w siedzibie podmiotu prowadzącego kwalifikacyjny kurs zawodowy, a osoba dorosła, która ukończyła praktyczną naukę zawodu dorosłych lub przyuczenie do pracy dorosłych, osoba przystępująca do egzaminu eksternistycznego zawodowego oraz osoba, która składała deklarację w okręgowej komisji egzaminacyjnej w przypadku likwidacji lub przekształcenia szkoły albo likwidacji podmiotu prowadzącego kwalifikacyjny kurs zawodowy, a także absolwent szkoły, w której zlikwidowano kształcenie w danym zawodzie, dla której dyrektor okręgowej komisji egzaminacyjnej wyznaczył inne miejsce zdawania egzaminu, odbierają we właściwej okręgowej komisji egzaminacyjnej w terminie określonym w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy o systemie oświaty.
@@ -945,6 +943,7 @@ Arkusze egzaminacyjne z części praktycznej egzaminu zawodowego, karty odpowied
 Upoważnienia, o których mowa w art. 44zzzl ust. 1 ustawy o systemie oświaty, oraz wnioski o ich udzielenie lub przedłużenie, o których mowa w § 21 ust. 1 i 2 oraz § 36 ust. 1 i 2, deklaracje oraz protokoły, o których mowa w § 33 ust. 4 i § 53 ust. 4, przechowuje okręgowa komisja egzaminacyjna przez okres 5 lat, licząc od dnia ogłoszenia wyników egzaminu zawodowego, określonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy o systemie oświaty.
 § 58.
 Dyrektor szkoły, placówki lub centrum umożliwia osobom upoważnionym przez dyrektora Centralnej Komisji Egzaminacyjnej lub dyrektora okręgowej komisji egzaminacyjnej przeprowadzenie na terenie szkoły, placówki lub centrum próbnego zastosowania propozycji zadań egzaminacyjnych do przeprowadzenia egzaminu zawodowego.
+Egzamin potwierdzający kwalifikacje w zawodzie
 § 59.
 Ilekroć w niniejszym rozdziale jest mowa o:
 1)
@@ -1022,8 +1021,7 @@ która posiada świadectwo lub inny dokument wydane za granicą i uznane w Rzecz
 3)
 której wykształcenie zasadnicze zawodowe, wykształcenie zasadnicze branżowe, wykształcenie średnie branżowe lub wykształcenie średnie zostało potwierdzone zgodnie z art. 93a ustawy o systemie oświaty,
 4)
-która posiada świadectwo szkolne uzyskane za granicą uznane za równorzędne świadectwu ukończenia odpowiedniej szkoły ponadgimnazjalnej lub szkoły ponadpodstawowej w drodze nostryfikacji, zgodnie z art. 93 ust. 2 ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 31 marca 2015 r.
-składa deklarację dyrektorowi okręgowej komisji egzaminacyjnej właściwej ze względu na miejsce zamieszkania tej osoby, a jeżeli posiada ona miejsce zamieszkania za granicą – dyrektorowi okręgowej komisji egzaminacyjnej właściwej ze względu na ostatnie miejsce jej zamieszkania na terytorium Rzeczypospolitej Polskiej.
+która posiada świadectwo szkolne uzyskane za granicą uznane za równorzędne świadectwu ukończenia odpowiedniej szkoły ponadgimnazjalnej lub szkoły ponadpodstawowej w drodze nostryfikacji, zgodnie z art. 93 ust. 2 ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 31 marca 2015 r. – składa deklarację dyrektorowi okręgowej komisji egzaminacyjnej właściwej ze względu na miejsce zamieszkania tej osoby, a jeżeli posiada ona miejsce zamieszkania za granicą – dyrektorowi okręgowej komisji egzaminacyjnej właściwej ze względu na ostatnie miejsce jej zamieszkania na terytorium Rzeczypospolitej Polskiej.
 15.
 Uczeń, absolwent, osoba, która ukończyła kwalifikacyjny kurs zawodowy, i osoba, o której mowa w ust. 10 i 11, składają deklarację do dnia:
 1)
@@ -1055,7 +1053,7 @@ przewodniczącemu zespołu egzaminacyjnego – w przypadku ucznia, absolwenta i 
 dyrektorowi okręgowej komisji egzaminacyjnej – w przypadku osoby dorosłej, która ukończyła praktyczną naukę zawodu dorosłych lub przyuczenie do pracy dorosłych, osoby przystępującej do egzaminu eksternistycznego potwierdzającego kwalifikacje w zawodzie oraz osoby, o której mowa w § 62 ust. 8, 11 i 14.
 3.
 Opinię poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, o specyficznych trudnościach w uczeniu się, o której mowa w art. 44zzzf ust. 5 ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2019 r., uczeń lub absolwent składa wraz z deklaracją.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3..
 Wprzypadku ucznia lub absolwenta szkoły w okręgowym ośrodku wychowawczym, zakładzie poprawczym, zakładzie karnym lub areszcie śledczym opinię o specyficznych trudnościach w uczeniu się, o której mowa w art. 44zzzf ust. 5 ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2019 r., może wydać psycholog zatrudniony odpowiednio w okręgowym ośrodku wychowawczym, zakładzie poprawczym, zakładzie karnym lub areszcie śledczym.
 5.
 Zaświadczenie potwierdzające występowanie danej dysfunkcji, o którym mowa w art. 44zzzh ust. 1 ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2019 r., dołącza się do:
@@ -1128,8 +1126,7 @@ Komunikat w sprawie:
 1)
 harmonogramu przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2019 r.,
 2)
-szczegółowych sposobów dostosowania warunków i form przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2019 r.
-jest ogłaszany do dnia 20 sierpnia roku szkolnego poprzedzającego rok szkolny, w którym jest przeprowadzany egzamin potwierdzający kwalifikacje w zawodzie.
+szczegółowych sposobów dostosowania warunków i form przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2019 r. – jest ogłaszany do dnia 20 sierpnia roku szkolnego poprzedzającego rok szkolny, w którym jest przeprowadzany egzamin potwierdzający kwalifikacje w zawodzie.
 2.
 Komunikat w sprawie materiałów i przyborów pomocniczych, z których zdający mogą korzystać na egzaminie potwierdzającym kwalifikacje w zawodzie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2019 r., jest ogłaszany nie później niż na miesiąc przed terminem egzaminu potwierdzającego kwalifikacje w zawodzie, określonym w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2019 r.
 § 71.
@@ -1833,6 +1830,7 @@ Arkusze egzaminacyjne z części praktycznej egzaminu potwierdzającego kwalifik
 Upoważnienia, o których mowa w art. 44zzzl ust. 1 ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz wnioski o ich udzielenie lub przedłużenie, o których mowa w § 76 ust. 1 i 2 oraz § 93 ust. 1 i 2, deklaracje oraz protokoły, o których mowa w § 90 ust. 4 i § 110 ust. 4, przechowuje okręgowa komisja egzaminacyjna przez okres 5 lat, licząc od dnia ogłoszenia wyników egzaminu potwierdzającego kwalifikacje w zawodzie, określonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2019 r.
 § 115.
 Dyrektor szkoły, placówki lub centrum umożliwia osobom upoważnionym przez dyrektora Centralnej Komisji Egzaminacyjnej lub dyrektora okręgowej komisji egzaminacyjnej przeprowadzenie na terenie szkoły, placówki lub centrum próbnego zastosowania propozycji zadań egzaminacyjnych do przeprowadzenia egzaminu potwierdzającego kwalifikacje w zawodzie.
+Przepisy przejściowe i końcowe
 § 116.
 Egzamin zawodowy jest przeprowadzany także dla uczniów, absolwentów i osób, o których mowa w art. 131 ust. 2 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw, zgodnie z przepisami rozdziałów 1–4.
 § 117.
@@ -1846,15 +1844,13 @@ harmonogramu przeprowadzania egzaminu zawodowego, o którym mowa w art. 9a ust. 
 2)
 szczegółowych sposobów dostosowania warunków i form przeprowadzania egzaminu zawodowego, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie ustawy o systemie oświaty,
 3)
-listy kwalifikacji wyodrębnionych w zawodach określonych w klasyfikacji zawodów szkolnictwa branżowego, z których zadania egzaminacyjne w części praktycznej egzaminu zawodowego są jawne, wraz z podaniem miejsca udostępniania tych zadań do publicznej wiadomości, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret czwarte ustawy o systemie oświaty
-jest ogłaszany do dnia 12 września 2019 r.
+listy kwalifikacji wyodrębnionych w zawodach określonych w klasyfikacji zawodów szkolnictwa branżowego, z których zadania egzaminacyjne w części praktycznej egzaminu zawodowego są jawne, wraz z podaniem miejsca udostępniania tych zadań do publicznej wiadomości, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret czwarte ustawy o systemie oświaty – jest ogłaszany do dnia 12 września 2019 r.
 § 120.
 Na rok szkolny 2019/2020 komunikat w sprawie:
 1)
 harmonogramu przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2019 r.,
 2)
-szczegółowych sposobów dostosowania warunków i form przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2019 r.
-jest ogłaszany do dnia 12 września 2019 r.
+szczegółowych sposobów dostosowania warunków i form przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2019 r. – jest ogłaszany do dnia 12 września 2019 r.
 § 121.
 Na rok szkolny 2019/2020 informacja o sposobie organizacji i przeprowadzania egzaminu zawodowego, o której mowa w § 15, jest ogłaszana do dnia 12 września 2019 r.
 § 122.
@@ -1868,26 +1864,41 @@ Wnioski o udzielenie upoważnienia do przeprowadzania części pisemnej egzaminu
 § 126.
 Osoba, która ponownie przystępuje do egzaminu potwierdzającego kwalifikacje w zawodzie, i osoba, która ukończyła kwalifikacyjny kurs zawodowy, które nie złożyły deklaracji o przystąpieniu do egzaminu potwierdzającego kwalifikacje w zawodzie do dnia 31 sierpnia 2019 r. w placówce kształcenia praktycznego albo ośrodku dokształcania i doskonalenia zawodowego, składają deklaracje w centrum kształcenia zawodowego.
 § 127.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 85 ust. 4 i § 86 ust. 2–4, które wchodzą w życie z dniem 1 września 2020 r.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2432, z 2019 r. poz. 534, 1287 i 2248, z 2021 r. poz. 4, z 2022 r. poz. 1116 oraz z 2024 r. poz. 123. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Edukacji i Nauki z dnia 27 września 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu zawodowego oraz egzaminu potwierdzającego kwalifikacje w zawodzie (Dz. U. poz. 2058), które weszło w życie z dniem 30 września 2023 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 5) Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 6) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 7) Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3. 8) W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 3. 9) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 3. 10) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3. 11) Rozporządzenie zostało ogłoszone w dniu 6 września 2019 r. 12) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 18 sierpnia 2017 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie (Dz. U. poz. 1663), które utraciło moc z dniem 1 września 2019 r. w związku z wejściem w życie ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 6 września 2019 r., z wyjątkiem § 85 ust. 4 i § 86 ust. 2–4, które wchodzą w życie z dniem 1 września 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 18 sierpnia 2017 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie (Dz. U. poz. 1663), które utraciło moc z dniem 1 września 2019 r. w związku z wejściem w życie ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287). 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2432, z 2019 r. poz. 534, 1287 i 2248, z 2021 r. poz. 4, z 2022 r. poz. 1116 oraz z 2024 r. poz. 123. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Edukacji i Nauki z dnia 27 września 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu zawodowego oraz egzaminu potwierdzającego kwalifikacje w zawodzie (Dz. U. poz. 2058), które weszło w życie z dniem 30 września 2023 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 5) Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 6) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 7) Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3. 8) W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 3. 9) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 3. 10) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3. 11) Rozporządzenie zostało ogłoszone w dniu 6 września 2019 r. 12) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 18 sierpnia 2017 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie (Dz. U. poz. 1663), które utraciło moc z dniem 1 września 2019 r. w związku z wejściem w życie ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Część pisemna egzaminu zawodowego
+#### Rozdział 2 – Część pisemna egzaminu zawodowego
+
+#### Rozdział 3 – Część praktyczna egzaminu zawodowego
+
+#### Rozdział 4 – Przepisy wspólne dla części pisemnej i części praktycznej egzaminu zawodowego
+
+#### Rozdział 5 – Egzamin potwierdzający kwalifikacje w zawodzie
+
+#### Rozdział 6 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+## Część pisemna egzaminu zawodowego
 
 ## Część pisemna egzaminu zawodowego rozpoczyna się o godzinie wskazanej przez przewodniczącego zespołu egzaminacyjnego w elektronicznym systemie przeprowadzania egzaminu zawodowego. Czas trwania części pisemnej egzaminu zawodowego określony w informatorze, o którym mowa w art. 9a ust. 2 pkt 3 ustawy o systemie oświaty, zgodnie z art. 44zzzm ust. 3 ustawy o systemie oświaty, rozpoczyna się z chwilą rozpoczęcia przez zdającego rozwiązywania zadań egzaminacyjnych i jest rejestrowany dla każdego zdającego w indywidualnym stanowisku egzaminacyjnym wspomaganym elektronicznie.
 
-#### Rozdział 3 Część praktyczna egzaminu zawodowego
+#### Rozdział 3
+
+## Część praktyczna egzaminu zawodowego
 
 ## Część praktyczna egzaminu zawodowego rozpoczyna się o godzinie określonej w informacji o sposobie organizacji i przeprowadzania egzaminu zawodowego, o której mowa w art. 9a ust. 2 pkt 10 lit. b ustawy o systemie oświaty. Czas trwania części praktycznej egzaminu zawodowego określony w informatorze, o którym mowa w art. 9a ust. 2 pkt 3 ustawy o systemie oświaty, zgodnie z art. 44zzzm ust. 3 ustawy o systemie oświaty, rozpoczyna się z chwilą zapisania w widocznym miejscu przez przewodniczącego zespołu nadzorującego czasu rozpoczęcia i zakończenia pracy przez zdających.
 
-#### Rozdział 4 Przepisy wspólne dla części pisemnej i części praktycznej egzaminu zawodowego
+#### Rozdział 4
 
-#### Rozdział 5 Egzamin potwierdzający kwalifikacje w zawodzie
+#### Rozdział 5
 
 ## Część pisemna egzaminu potwierdzającego kwalifikacje w zawodzie rozpoczyna się o godzinie określonej w informacji, o której mowa w art. 9a ust. 2 pkt 10 lit. b ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2019 r. Czas trwania części pisemnej egzaminu potwierdzającego kwalifikacje w zawodzie określony w informatorze, o którym mowa w art. 9a ust. 2 pkt 3 ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2019 r., zgodnie z art. 44zzzm ust. 3 ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2019 r., rozpoczyna się z chwilą zapisania w widocznym miejscu przez przewodniczącego zespołu nadzorującego czasu rozpoczęcia pracy przez zdających.
 
 ## Część praktyczna egzaminu potwierdzającego kwalifikacje w zawodzie rozpoczyna się o godzinie określonej w informacji o sposobie organizacji i przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie, o której mowa w art. 9a ust. 2 pkt 10 lit. b ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2019 r. Czas trwania części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie określony w informatorze, o którym mowa w art. 9a ust. 2 pkt 3 ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2019 r., zgodnie z art. 44zzzm ust. 3 ustawy o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2019 r., rozpoczyna się z chwilą zapisania w widocznym miejscu przez przewodniczącego zespołu nadzorującego czasu rozpoczęcia i zakończenia pracy przez zdających.
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6
 

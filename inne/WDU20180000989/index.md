@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-15 |
 | Data wydania | 2018-05-23 |
-| Wejście w życie | 2018-05-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000989) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/989/text.pdf) |
 
 Treść rozporządzenia
-Załącznik – Statut Narodowego Instytutu Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego Rozdział 1 – Postanowienia ogólne Rozdział 2 – Szczegółowy zakres zadań i tryb pracy organów Narodowego Instytutu Rozdział 3 – Organizacja Narodowego Instytutu
+Załącznik – Statut Narodowego Instytutu Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego
 Treść rozporządzenia
 Na podstawie art. 2 ust. 3 ustawy z dnia 15 września 2017 r. o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U. poz. 1909 i 2371) zarządza się, co następuje:
 § 1.
@@ -35,6 +34,7 @@ Narodowemu Instytutowi Wolności – Centrum Rozwoju Społeczeństwa Obywatelski
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Załącznik – Statut Narodowego Instytutu Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego
+Postanowienia ogólne
 § 1.
 Narodowy Instytut Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego, zwany dalej „Narodowym Instytutem”, działa na podstawie ustawy z dnia 15 września 2017 r. o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U. poz. 1909 i 2371), zwanej dalej „ustawą”, oraz niniejszego statutu.
 § 2.
@@ -45,6 +45,7 @@ szczegółowy zakres zadań i tryb pracy organów Narodowego Instytutu;
 organizację Narodowego Instytutu;
 3)
 wartość majątku nieprzekraczającego kwoty 200 000 zł, powyżej którego rozporządzanie nim przez Dyrektora Narodowego Instytutu wymaga zgody Rady Narodowego Instytutu.
+Szczegółowy zakres zadań i tryb pracy organów Narodowego Instytutu
 § 3.
 1.
 Dyrektor Narodowego Instytutu, zwany dalej „Dyrektorem”, kieruje działalnością Narodowego Instytutu, samodzielnie dokonuje czynności prawnych w imieniu Narodowego Instytutu oraz reprezentuje go na zewnątrz.
@@ -221,6 +222,7 @@ Protokół z posiedzenia Rady podpisuje osoba prowadząca posiedzenie Rady oraz 
 Protokół przechowuje się w Narodowym Instytucie.
 4.
 Projekt protokołu jest udostępniany członkom Rady z możliwością wnoszenia uwag do jego treści w terminie 7 dni roboczych od dnia przekazania pocztą elektroniczną.
+Organizacja Narodowego Instytutu
 § 12.
 1.
 W skład Narodowego Instytutu wchodzą:
@@ -251,9 +253,15 @@ Sposób działania Narodowego Instytutu, w tym szczegółową strukturę organiz
 § 14.
 Dyrektor może tworzyć samodzielne stanowiska pracy lub zespoły problemowe o charakterze stałym lub doraźnym, określając nazwę, skład osobowy zespołu, zakres zadań i tryb pracy.
 
-#### Rozdział 1 Postanowienia ogólne
+#### Rozdział 1 – Postanowienia ogólne
 
-#### Rozdział 2 Szczegółowy zakres zadań i tryb pracy organów Narodowego Instytutu
+#### Rozdział 2 – Szczegółowy zakres zadań i tryb pracy organów Narodowego Instytutu
 
-#### Rozdział 3 Organizacja Narodowego Instytutu
+#### Rozdział 3 – Organizacja Narodowego Instytutu
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 13 sierpnia 2020 r. w sprawie tworzenia i działania komitetów w portach lotniczych
+# Rozporządzenie Ministra Infrastrukturyz dnia 13 sierpnia 2020 r. w sprawie tworzenia i działania komitetów w portach lotniczych Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-08-13 |
 | Data wydania | 2020-08-28 |
-| Wejście w życie | 2020-09-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001471) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1471/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Komitet koordynacyjny Rozdział 3 – Komitet przewoźników lotniczych Rozdział 4 – Przepisy dostosowujące i przejściowe oraz przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 67 ust. 6 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2019 r. poz. 1580 i 1495 oraz z 2020 r. poz. 284 i 1378) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie: 1) w zakresie swojej regulacji wdraża dyrektywę Rady 96/67/WE z dnia 15 października 1996 r. w sprawie dostępu do rynku usług obsługi naziemnej w portach lotniczych Wspólnoty (Dz. Urz. WE L 272 z 25.10.1996, str. 36 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 496 oraz Dz. Urz. UE L 284 z 21.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447); 2) służy stosowaniu rozporządzenia Rady (EWG) nr 95/93 z dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty (Dz. Urz. WE L 14 z 22.01.1993, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 3, Dz. Urz. UE L 142 z 31.05.2002, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 6, str. 252, Dz. Urz. UE L 221 z 04.09.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 415, Dz. Urz. UE L 138 z 30.04.2004, str. 50 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 171, Dz. Urz. UE L 167 z 29.06.2009, str. 24 oraz Dz. Urz. UE L 99 z 31.03.2020, str. 1). Na podstawie art. 67 ust. 6 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2019 r. poz. 1580 i 1495 oraz z 2020 r. poz. 284 i 1378) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowy sposób i tryb tworzenia i działania komitetu koordynacyjnego oraz komitetu przewoźników lotniczych.
 § 2.
@@ -38,15 +38,16 @@ bezwzględnej większości głosów – rozumie się przez to więcej niż poło
 2)
 Prezesie Urzędu – rozumie się przez to Prezesa Urzędu Lotnictwa Cywilnego;
 3)
-rozporządzeniu nr 95/93 – rozumie się przez to rozporządzenie Rady (EWG) nr 95/93 z dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty (Dz. Urz. WE L 14 z 22.01.1993, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 3);
+rozporządzeniu nr 95/93 – rozumie się przez to rozporządzenie Rady (EWG) nr 95/93 z dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty (Dz. Urz. WE L 14 z 22.01.1993, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. WE L 142 z 31.05.2002, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 6, str. 252, Dz. Urz. UE L 221 z 04.09.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 415, Dz. Urz. UE L 138 z 30.04.2004, str. 50 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 171, Dz. Urz. UE L 167 z 29.06.2009, str. 24 oraz Dz. Urz. UE L 99 z 31.03.2020, str. 1. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 3);
 4)
 ustawie – rozumie się przez to ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze;
 5)
 użytkowniku portu lotniczego – rozumie się przez to każdą osobę fizyczną lub prawną odpowiedzialną za przewóz pasażerów, poczty lub ładunków drogą lotniczą, do lub z danego portu lotniczego;
 6)
-Worldwide Slot Guidelines- rozumie się przez to dokument określający standardy w zakresie koordynacji i organizacji rozkładów lotów w portach lotniczych wydawany przez Zrzeszenie Międzynarodowego Transportu Lotniczego (IATA), będące organizacją przewoźników lotniczych, powołane dnia 19 kwietnia 1945 r. w Hawanie;
+Worldwide Slot GuidelinesDostępny pod adresem https://www.iata.org/policy/slots/Pages/slot-guidelines.aspx.- rozumie się przez to dokument określający standardy w zakresie koordynacji i organizacji rozkładów lotów w portach lotniczych wydawany przez Zrzeszenie Międzynarodowego Transportu Lotniczego (IATA), będące organizacją przewoźników lotniczych, powołane dnia 19 kwietnia 1945 r. w Hawanie;
 7)
 zwykłej większości głosów – rozumie się przez to więcej głosów „za” niż głosów „przeciw” oddanych podczas głosowania w sposób zgodny z rozporządzeniem lub regulaminem działania komitetu.
+Komitet koordynacyjny
 § 3.
 1.
 Nazwa komitetu koordynacyjnego zawiera nazwę portu lotniczego, w którym tworzy się ten komitet.
@@ -60,8 +61,7 @@ Prezesa Urzędu,
 2)
 podmioty, o których mowa w art. 5 ust. 1 zdaniu trzecim rozporządzenia nr 95/93,
 3)
-koordynatora rozkładów lotów – w przypadku gdy koordynator rozkładów lotów został powołany dla danego portu lotniczego
-o terminie i miejscu posiedzenia założycielskiego, co najmniej 21 dni przed wyznaczonym terminem posiedzenia założycielskiego, w formie pisemnej w postaci papierowej lub za pomocą poczty elektronicznej.
+koordynatora rozkładów lotów – w przypadku gdy koordynator rozkładów lotów został powołany dla danego portu lotniczego – o terminie i miejscu posiedzenia założycielskiego, co najmniej 21 dni przed wyznaczonym terminem posiedzenia założycielskiego, w formie pisemnej w postaci papierowej lub za pomocą poczty elektronicznej.
 2.
 W posiedzeniu założycielskim komitetu koordynacyjnego uczestniczą przedstawiciele członków komitetu koordynacyjnego upoważnieni do ich reprezentacji, którzy najpóźniej 3 dni robocze przed rozpoczęciem posiedzenia założycielskiego składają zarządzającemu lotniskiem wniosek, o którym mowa w § 5 ust. 1, w formie pisemnej w postaci papierowej lub za pomocą poczty elektronicznej. Wniosek złożony za pomocą poczty elektronicznej powinien być złożony również w postaci papierowej, najpóźniej w dniu posiedzenia założycielskiego.
 3.
@@ -168,6 +168,7 @@ Komitet koordynacyjny przyjmuje swój regulamin działania.
 Komitet koordynacyjny w swej działalności uwzględnia wytyczne i zasady zawarte w aktualnej wersji Worldwide Slot Guidelines oraz uwarunkowania lokalne dotyczące funkcjonowania danego portu lotniczego.
 § 12.
 Zarządzający lotniskiem, dla którego utworzono komitet koordynacyjny, zapewnia obsługę organizacyjno-techniczną i lokalową tego komitetu niezbędną do jego działania w zakresie określonym niniejszym rozporządzeniem oraz ponosi uzasadnione koszty tej obsługi.
+Komitet przewoźników lotniczych
 § 13.
 1.
 W przypadku gdy w danym porcie lotniczym powstaje obowiązek utworzenia komitetu przewoźników lotniczych, zarządzający lotniskiem zwołuje bez zbędnej zwłoki posiedzenie założycielskie komitetu przewoźników lotniczych.
@@ -224,6 +225,7 @@ Regulamin działania komitetu przewoźników lotniczych może zawierać odmienne
 Komitet przewoźników lotniczych przyjmuje swój regulamin działania.
 § 19.
 Zarządzający lotniskiem, dla którego utworzono komitet przewoźników lotniczych, zapewnia obsługę organizacyjno-techniczną i lokalową tego komitetu niezbędną do jego działania w zakresie określonym niniejszym rozporządzeniem oraz ponosi uzasadnione koszty tej obsługi.
+Przepisy dostosowujące i przejściowe oraz przepis końcowy
 § 20.
 1.
 Komitety koordynacyjne oraz komitety przewoźników lotniczych, powołane na podstawie przepisów dotychczasowych, stają się odpowiednio komitetami koordynacyjnymi oraz komitetami przewoźników lotniczych w rozumieniu niniejszego rozporządzenia.
@@ -232,14 +234,21 @@ Regulaminy działania komitetów, o których mowa w ust. 1, przyjęte przed dnie
 3.
 Postanowienia regulaminów działania komitetów, o których mowa w ust. 1, przyjętych przed dniem wejścia w życie niniejszego rozporządzenia, sprzeczne z jego przepisami, tracą moc z dniem jego wejścia w życie.
 § 21.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257). 2) Niniejsze rozporządzenie: 1) w zakresie swojej regulacji wdraża dyrektywę Rady 96/67/WE z dnia 15 października 1996 r. w sprawie dostępu do rynku usług obsługi naziemnej w portach lotniczych Wspólnoty (Dz. Urz. WE L 272 z 25.10.1996, str. 36 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 496 oraz Dz. Urz. UE L 284 z 21.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447); 2) służy stosowaniu rozporządzenia Rady (EWG) nr 95/93 z dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty (Dz. Urz. WE L 14 z 22.01.1993, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 3, Dz. Urz. UE L 142 z 31.05.2002, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 6, str. 252, Dz. Urz. UE L 221 z 04.09.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 415, Dz. Urz. UE L 138 z 30.04.2004, str. 50 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 171, Dz. Urz. UE L 167 z 29.06.2009, str. 24 oraz Dz. Urz. UE L 99 z 31.03.2020, str. 1). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. WE L 142 z 31.05.2002, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 6, str. 252, Dz. Urz. UE L 221 z 04.09.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 415, Dz. Urz. UE L 138 z 30.04.2004, str. 50 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 171, Dz. Urz. UE L 167 z 29.06.2009, str. 24 oraz Dz. Urz. UE L 99 z 31.03.2020, str. 1. 4) Dostępny pod adresem https://www.iata.org/policy/slots/Pages/slot-guidelines.aspx. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 30 kwietnia 2004 r. w sprawie tworzenia i działania komitetów oraz współdziałania i konsultacji w porcie lotniczym (Dz. U. poz. 1088), które na podstawie art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 30 kwietnia 2004 r. w sprawie tworzenia i działania komitetów oraz współdziałania i konsultacji w porcie lotniczym (Dz. U. poz. 1088), które na podstawie art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257). 2) Niniejsze rozporządzenie: 1) w zakresie swojej regulacji wdraża dyrektywę Rady 96/67/WE z dnia 15 października 1996 r. w sprawie dostępu do rynku usług obsługi naziemnej w portach lotniczych Wspólnoty (Dz. Urz. WE L 272 z 25.10.1996, str. 36 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 496 oraz Dz. Urz. UE L 284 z 21.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447); 2) służy stosowaniu rozporządzenia Rady (EWG) nr 95/93 z dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty (Dz. Urz. WE L 14 z 22.01.1993, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 3, Dz. Urz. UE L 142 z 31.05.2002, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 6, str. 252, Dz. Urz. UE L 221 z 04.09.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 415, Dz. Urz. UE L 138 z 30.04.2004, str. 50 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 171, Dz. Urz. UE L 167 z 29.06.2009, str. 24 oraz Dz. Urz. UE L 99 z 31.03.2020, str. 1). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. WE L 142 z 31.05.2002, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 6, str. 252, Dz. Urz. UE L 221 z 04.09.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 415, Dz. Urz. UE L 138 z 30.04.2004, str. 50 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 171, Dz. Urz. UE L 167 z 29.06.2009, str. 24 oraz Dz. Urz. UE L 99 z 31.03.2020, str. 1. 4) Dostępny pod adresem https://www.iata.org/policy/slots/Pages/slot-guidelines.aspx. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 30 kwietnia 2004 r. w sprawie tworzenia i działania komitetów oraz współdziałania i konsultacji w porcie lotniczym (Dz. U. poz. 1088), które na podstawie art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Komitet koordynacyjny
+#### Rozdział 2 – Komitet koordynacyjny
 
-#### Rozdział 3 Komitet przewoźników lotniczych
+#### Rozdział 3 – Komitet przewoźników lotniczych
 
-#### Rozdział 4 Przepisy dostosowujące i przejściowe oraz przepis końcowy
+#### Rozdział 4 – Przepisy dostosowujące i przejściowe oraz przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

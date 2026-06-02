@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 lutego 2019 r. o zmianie ustawy – Prawo własności przemysłowej
+# Ustawa z dnia 20 lutego 2019 r. o zmianie ustawy – Prawo własności przemysłowej Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2015/2436 z dnia 16 grudnia 2015 r. mającą na celu zbliżenie ustawodawstw państw członkowskich odnoszących się do znaków towarowych (wersja przekształcona) (Dz. Urz. UE L 336 z 23.12.2015, str. 1 oraz Dz. Urz. UE L 110 z 26.04.2016, str. 5).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-20 |
 | Data wydania | 2019-03-15 |
-| Wejście w życie | 2019-03-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000501) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/501/text.pdf) |
 
@@ -34,8 +33,12 @@ source: "eli-html"
 
 2. Znakiem towarowym, w rozumieniu ust. 1, może być w szczególności wyraz, włącznie z nazwiskiem, rysunek, litera, cyfra, kolor, forma przestrzenna, w tym kształt towaru lub opakowania, a także dźwięk. ” ;
 
-- **2)** w art. 1291: w ust. 1: – pkt 5 otrzymuje brzmienie: „ 5) składa się wyłącznie z kształtu lub innej właściwości towaru, wynikającej z charakteru samego towaru, niezbędnej do uzyskania efektu technicznego lub zwiększającej znacznie wartość towaru; ” , – pkt 8 otrzymuje brzmienie: „ 8) zawiera element o wysokiej wartości symbolicznej, w szczególności o charakterze religijnym, patriotycznym lub kulturowym, którego używanie obrażałoby uczucia religijne, patriotyczne lub tradycję narodową; ” , – pkt 13 otrzymuje brzmienie: „ 13) stanowi lub odtwarza w swoich zasadniczych elementach nazwę odmiany roślin zarejestrowaną z wcześniejszym pierwszeństwem w Rzeczypospolitej Polskiej lub na podstawie przepisów prawa Unii Europejskiej albo wiążącej Rzeczpospolitą Polską umowy międzynarodowej, przewidujących ochronę praw do odmiany roślin, i odnosi się do odmian roślin tego samego gatunku lub gatunków ściśle spokrewnionych. ” , ust. 4 otrzymuje brzmienie: „
+- **2)** w art. 1291: w ust. 1: pkt 5 otrzymuje brzmienie: „
     - **a)**
+
+- **5)** składa się wyłącznie z kształtu lub innej właściwości towaru, wynikającej z charakteru samego towaru, niezbędnej do uzyskania efektu technicznego lub zwiększającej znacznie wartość towaru; ” , pkt 8 otrzymuje brzmienie: „
+- **8)** zawiera element o wysokiej wartości symbolicznej, w szczególności o charakterze religijnym, patriotycznym lub kulturowym, którego używanie obrażałoby uczucia religijne, patriotyczne lub tradycję narodową; ” , pkt 13 otrzymuje brzmienie: „
+- **13)** stanowi lub odtwarza w swoich zasadniczych elementach nazwę odmiany roślin zarejestrowaną z wcześniejszym pierwszeństwem w Rzeczypospolitej Polskiej lub na podstawie przepisów prawa Unii Europejskiej albo wiążącej Rzeczpospolitą Polską umowy międzynarodowej, przewidujących ochronę praw do odmiany roślin, i odnosi się do odmian roślin tego samego gatunku lub gatunków ściśle spokrewnionych. ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Nie udziela się prawa ochronnego na znak towarowy wyłączony z rejestracji na podstawie przepisów prawa krajowego, prawa Unii Europejskiej lub umowy międzynarodowej przewidujących ochronę oznaczenia geograficznego, nazwy pochodzenia, określenia tradycyjnego dla wina lub gwarantowanej tradycyjnej specjalności, w zakresie w nich przewidzianych. ” ;
@@ -49,7 +52,7 @@ source: "eli-html"
 1. Organizacja mająca zdolność do nabywania praw i zaciągania zobowiązań w swoim imieniu powołana do reprezentowania interesów przedsiębiorców i osoba prawna działająca na podstawie przepisów prawa publicznego mogą uzyskać prawo ochronne na wspólny znak towarowy. Wspólny znak towarowy przeznaczony jest do odróżniania towarów w przypadku:
 
 - **1)** organizacji – jej członków,
-- **2)** osoby prawnej działającej na podstawie przepisów prawa publicznego – osób upoważnionych do używania tego znaku na podstawie regulaminu używania znaku od towarów innych przedsiębiorstw. ” , po ust. 1 dodaje się ust. 11 w brzmieniu: „
+- **2)** osoby prawnej działającej na podstawie przepisów prawa publicznego – osób upoważnionych do używania tego znaku na podstawie regulaminu używania znaku – od towarów innych przedsiębiorstw. ” , po ust. 1 dodaje się ust. 11 w brzmieniu: „
     - **b)**
 
 11. Prawo używania wspólnego znaku towarowego przysługuje w przypadku:
@@ -449,5 +452,5 @@ source: "eli-html"
 
 3. W przypadku niezłożenia wniosku, o którym mowa w ust. 1, do prawa ochronnego na wspólny znak towarowy gwarancyjny stosuje się przepisy dotychczasowe.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2015/2436 z dnia 16 grudnia 2015 r. mającą na celu zbliżenie ustawodawstw państw członkowskich odnoszących się do znaków towarowych (wersja przekształcona) (Dz. Urz. UE L 336 z 23.12.2015, str. 1 oraz Dz. Urz. UE L 110 z 26.04.2016, str. 5).
 

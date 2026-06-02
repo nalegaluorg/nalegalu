@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 29 listopada 2022 r. w sprawie egzaminów na licencję i świadectwo maszynisty
+# Rozporządzenie Ministra Infrastrukturyz dnia 29 listopada 2022 r. w sprawie egzaminów na licencję i świadectwo maszynisty Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-29 |
 | Data wydania | 2022-12-09 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002557) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2557/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowy zakres podstawowej wiedzy zawodowej objętej egzaminem na licencję maszynisty Rozdział 3 – Szczegółowy zakres wiedzy i umiejętności objętych egzaminem na świadectwo maszynisty Rozdział 4 – Egzamin na licencję maszynisty Rozdział 5 – Egzamin na świadectwo maszynisty Rozdział 6 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 22bc ust. 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2021 r. poz. 1984 oraz z 2022 r. poz. 727 i 1846) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2007/59/WE Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. w sprawie przyznawania uprawnień maszynistom prowadzącym lokomotywy i pociągi w obrębie systemu kolejowego Wspólnoty (Dz. Urz. UE L 315 z 03.12.2007, str. 51, Dz. Urz. UE L 184 z 25.06.2014, str. 11, Dz. Urz. UE L 146 z 03.06.2016, str. 22 oraz Dz. Urz. UE L 97 z 08.04.2019, str. 1). Na podstawie art. 22bc ust. 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2021 r. poz. 1984 oraz z 2022 r. poz. 727 i 1846) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -39,6 +39,7 @@ sposób, formę i tryb przygotowania oraz przeprowadzania egzaminu na licencję 
 szczegółowy zakres wiedzy i umiejętności, objętych egzaminem dla kandydatów na maszynistów ubiegających się o uzyskanie świadectwa maszynisty, zwanym dalej „egzaminem na świadectwo maszynisty”;
 4)
 sposób, formę i tryb przygotowania oraz przeprowadzania egzaminu na świadectwo maszynisty oraz ponownego egzaminu na świadectwo maszynisty.
+Szczegółowy zakres podstawowej wiedzy zawodowej objętej egzaminem na licencję maszynisty
 § 2.
 1.
 Szczegółowy zakres podstawowej wiedzy zawodowej objętej egzaminem na licencję maszynisty obejmuje zagadnienia dotyczące:
@@ -188,6 +189,7 @@ k)
 sygnałów i wskaźników stosowanych wyłącznie na wyznaczonych liniach kolejowych i stacjach,
 l)
 sygnałów na semaforach świetlnych, tarczach ostrzegawczych i sygnalizatorach powtarzających, stosowanych do odwołania.
+Szczegółowy zakres wiedzy i umiejętności objętych egzaminem na świadectwo maszynisty
 § 3.
 1.
 Szczegółowy zakres wiedzy i umiejętności objętych egzaminem na świadectwo maszynisty obejmuje zagadnienia dotyczące:
@@ -392,6 +394,7 @@ k)
 sygnałów i wskaźników stosowanych wyłącznie na wyznaczonych liniach kolejowych i stacjach,
 l)
 sygnałów na semaforach świetlnych, tarczach ostrzegawczych i sygnalizatorach powtarzających, stosowanych do odwołania.
+Egzamin na licencję maszynisty
 § 4.
 1.
 Kandydat na maszynistę za pośrednictwem systemu teleinformatycznego obsługującego krajowy rejestr maszynistów i prowadzących pojazdy kolejowe, o którym mowa w art. 25x ust. 1 ustawy, zwany dalej „rejestrem”, wybiera termin egzaminu na licencję maszynisty z wykazu terminów sesji egzaminacyjnych opublikowanych na podstawie art. 22ba ust. 5 ustawy.
@@ -491,6 +494,7 @@ podpis egzaminatora przeprowadzającego egzamin na licencję maszynisty.
 Do ponownego egzaminu na licencję maszynisty stosuje się przepisy § 4 ust. 1 oraz § 5–9.
 2.
 Rezerwacja terminu ponownego egzaminu na licencję maszynisty jest dokonywana za pomocą systemu teleinformatycznego obsługującego rejestr i następuje po wybraniu przez kandydata na maszynistę terminu zgodnie z § 4 ust. 1.
+Egzamin na świadectwo maszynisty
 § 11.
 § 12.
 1.
@@ -621,23 +625,35 @@ uzasadnienie negatywnego wyniku egzaminu na świadectwo maszynisty – jeżeli d
 podpisy egzaminatorów przeprowadzających część praktyczną.
 § 25.
 Do ponownego egzaminu na świadectwo maszynisty stosuje się przepisy § 11–24.
+Przepis końcowy
 § 26.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2007/59/WE Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. w sprawie przyznawania uprawnień maszynistom prowadzącym lokomotywy i pociągi w obrębie systemu kolejowego Wspólnoty (Dz. Urz. UE L 315 z 03.12.2007, str. 51, Dz. Urz. UE L 184 z 25.06.2014, str. 11, Dz. Urz. UE L 146 z 03.06.2016, str. 22 oraz Dz. Urz. UE L 97 z 08.04.2019, str. 1). 3) Niniejsze rozporządzenie było w zakresie sposobu, formy oraz trybu przygotowania oraz przeprowadzenia egzaminów dla kandydatów na maszynistów ubiegających się o uzyskanie licencji i świadectwa maszynisty, a także zakresu wiedzy i umiejętności objętych egzaminem niezbędnym dla uzyskania licencji i świadectwa maszynisty poprzedzone rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 10 lutego 2014 r. w sprawie świadectwa maszynisty (Dz. U. poz. 212, z 2015 r. poz. 1410, z 2016 r. poz. 1848, z 2017 r. poz. 2430 oraz z 2019 r. poz. 556) oraz rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 10 lutego 2014 r. w sprawie licencji maszynisty (Dz. U. z 2019 r. poz. 2373), które w zakresie uregulowanym w niniejszym rozporządzeniu tracą moc z dniem 1 stycznia 2023 r. w związku z wejściem życie ustawy z dnia 23 lipca 2021 r. o zmianie ustawy o transporcie kolejowym (Dz. U. poz. 1556).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.Niniejsze rozporządzenie było w zakresie sposobu, formy oraz trybu przygotowania oraz przeprowadzenia egzaminów dla kandydatów na maszynistów ubiegających się o uzyskanie licencji i świadectwa maszynisty, a także zakresu wiedzy i umiejętności objętych egzaminem niezbędnym dla uzyskania licencji i świadectwa maszynisty poprzedzone rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 10 lutego 2014 r. w sprawie świadectwa maszynisty (Dz. U. poz. 212, z 2015 r. poz. 1410, z 2016 r. poz. 1848, z 2017 r. poz. 2430 oraz z 2019 r. poz. 556) oraz rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 10 lutego 2014 r. w sprawie licencji maszynisty (Dz. U. z 2019 r. poz. 2373), które w zakresie uregulowanym w niniejszym rozporządzeniu tracą moc z dniem 1 stycznia 2023 r. w związku z wejściem życie ustawy z dnia 23 lipca 2021 r. o zmianie ustawy o transporcie kolejowym (Dz. U. poz. 1556). 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2007/59/WE Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. w sprawie przyznawania uprawnień maszynistom prowadzącym lokomotywy i pociągi w obrębie systemu kolejowego Wspólnoty (Dz. Urz. UE L 315 z 03.12.2007, str. 51, Dz. Urz. UE L 184 z 25.06.2014, str. 11, Dz. Urz. UE L 146 z 03.06.2016, str. 22 oraz Dz. Urz. UE L 97 z 08.04.2019, str. 1). 3) Niniejsze rozporządzenie było w zakresie sposobu, formy oraz trybu przygotowania oraz przeprowadzenia egzaminów dla kandydatów na maszynistów ubiegających się o uzyskanie licencji i świadectwa maszynisty, a także zakresu wiedzy i umiejętności objętych egzaminem niezbędnym dla uzyskania licencji i świadectwa maszynisty poprzedzone rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 10 lutego 2014 r. w sprawie świadectwa maszynisty (Dz. U. poz. 212, z 2015 r. poz. 1410, z 2016 r. poz. 1848, z 2017 r. poz. 2430 oraz z 2019 r. poz. 556) oraz rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 10 lutego 2014 r. w sprawie licencji maszynisty (Dz. U. z 2019 r. poz. 2373), które w zakresie uregulowanym w niniejszym rozporządzeniu tracą moc z dniem 1 stycznia 2023 r. w związku z wejściem życie ustawy z dnia 23 lipca 2021 r. o zmianie ustawy o transporcie kolejowym (Dz. U. poz. 1556).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowy zakres podstawowej wiedzy zawodowej objętej egzaminem na licencję maszynisty
+#### Rozdział 2 – Szczegółowy zakres podstawowej wiedzy zawodowej objętej egzaminem na licencję maszynisty
 
-#### Rozdział 3 Szczegółowy zakres wiedzy i umiejętności objętych egzaminem na świadectwo maszynisty
+#### Rozdział 3 – Szczegółowy zakres wiedzy i umiejętności objętych egzaminem na świadectwo maszynisty
 
-#### Rozdział 4 Egzamin na licencję maszynisty
+#### Rozdział 4 – Egzamin na licencję maszynisty
 
-#### Rozdział 5 Egzamin na świadectwo maszynisty
+#### Rozdział 5 – Egzamin na świadectwo maszynisty
+
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 
 ## Część teoretyczną egzaminu na świadectwo maszynisty, o której mowa w art. 22bb ust. 6 ustawy, przeprowadza się w terminach i miejscach określonych w powiadomieniach Prezesa UTK, przekazywanych kandydatowi oraz przewoźnikowi kolejowemu lub zarządcy infrastruktury zatrudniającemu kandydata na maszynistę za pośrednictwem systemu teleinformatycznego obsługującego rejestr.
 
 ## Część teoretyczna egzaminu na świadectwo maszynisty przeprowadzana w formie testu, o którym mowa w art. 22bb ust. 6 pkt 1 ustawy, zwana dalej „testem na świadectwo”, obejmuje sprawdzenie wiedzy z zakresu zagadnień, o których mowa w § 3 ust. 1.
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6
 

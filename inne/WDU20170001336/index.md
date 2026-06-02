@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 26 czerwca 2017 r. zmieniające rozporządzenie w sprawie gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 26 czerwca 2017 r. zmieniające rozporządzenie w sprawie gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088 oraz z 2017 r. poz. 1140).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-26 |
 | Data wydania | 2017-07-06 |
-| Wejście w życie | 2017-07-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001336) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1336/text.pdf) |
 
@@ -37,6 +36,5 @@ w § 1 we wprowadzeniu do wyliczenia wyrazy „Zarząd Zasobów Mieszkaniowych M
 3)
 w załączniku nr 2 do rozporządzenia wyrazy „Zarządem Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych (ZZM MSW)” zastępuje się wyrazami „Zarządem Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji (ZZM MSWiA)”.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088 oraz z 2017 r. poz. 1140).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088 oraz z 2017 r. poz. 1140).
 

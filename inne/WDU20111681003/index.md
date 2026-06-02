@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-06-10 |
 | Data wydania | 2011-08-16 |
-| Wejście w życie | 2011-09-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111681003) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1003/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2006 r. Nr 123, poz. 857, z późn. zm.) wprowadza się następujące zmiany:
+Usługi informacji rzecznej (RIS)
+
+**Art. 1.** W ustawie z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2006 r. Nr 123, poz. 857, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 123, poz. 846 i Nr 176, poz. 1238, z 2008 r. Nr 171, poz. 1057, z 2009 r. Nr 98, poz. 818, z 2010 r. Nr 127, poz. 857 i Nr 182, poz. 1228 oraz z 2011 r. Nr 106, poz. 622.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 w ust. 1 po pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 i 13 w brzmieniu: „
 - **12)** usługi informacji rzecznej (RIS) – zharmonizowane usługi informacyjne wspierające zarządzanie ruchem i transportem w żegludze śródlądowej;
@@ -39,7 +40,7 @@ source: "eli-html"
 
 - **3)** rozdział 6a otrzymuje brzmienie: „
 
-#### Rozdział 6a Usługi informacji rzecznej (RIS)
+#### Rozdział 6a
 
 **Art. 47a.**
 
@@ -82,7 +83,7 @@ source: "eli-html"
 - **1)** oznaczenie użytkownika RIS;
 - **2)** informacje o rodzaju urządzenia i oprogramowania, wraz z ich charakterystyką techniczną.
 
-3. Do wniosku, o którym mowa w ust. 1, dołącza się dokumentację techniczną urządzenia i oprogramowania. Za wydanie dokumentu zgodności pobiera się opłatę w wysokości określonej w załączniku do ustawy. Wykorzystywany w ramach RIS Automatyczny System Identyfikacji Statków (AIS) powinien być zgodny z przepisami porozumienia regionalnego dotyczącego usług radiotelefonicznych na śródlądowych drogach wodnych, zawartego w ramach Konstytucji i Konwencji Międzynarodowego Związku Telekomunikacyjnego (Dz. U. z 2003 r. Nr 10, poz. 111). ” ;
+3. Do wniosku, o którym mowa w ust. 1, dołącza się dokumentację techniczną urządzenia i oprogramowania. Za wydanie dokumentu zgodności pobiera się opłatę w wysokości określonej w załączniku do ustawy. Wykorzystywany w ramach RIS Automatyczny System Identyfikacji Statków (AIS) powinien być zgodny z przepisami porozumienia regionalnego dotyczącego usług radiotelefonicznych na śródlądowych drogach wodnychTekst niniejszego porozumienia został opublikowany w Dz. Urz. M.T. z 2007 r. Nr 12, poz. 45., zawartego w ramach Konstytucji i Konwencji Międzynarodowego Związku Telekomunikacyjnego (Dz. U. z 2003 r. Nr 10, poz. 111). ” ;
 
 - **4)** art. 70 otrzymuje brzmienie: „
 
@@ -138,7 +139,7 @@ source: "eli-html"
 
 - **1)** wykorzystaniu innych rozwiązań technologicznych w zakresie funkcjonowania RIS,
 - **2)** racjonalizacji częstotliwości wykonywania zadań związanych z funkcjonowaniem RIS,
-- **3)** obniżeniu kosztów zewnętrznej obsługi serwisowej urządzeń wchodzących w skład RIS przy jednoczesnym zapewnieniu właściwego poziomu bezpieczeństwa żeglugi.
+- **3)** obniżeniu kosztów zewnętrznej obsługi serwisowej urządzeń wchodzących w skład RIS – przy jednoczesnym zapewnieniu właściwego poziomu bezpieczeństwa żeglugi.
 
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, oraz wdrożenia mechanizmów korygujących, o których mowa w ust. 2, jest minister właściwy do spraw transportu.
 
@@ -149,6 +150,6 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-- **2)** art. 3 które wchodzą w życie z dniem 1 stycznia 2013 r.
+- **2)** art. 3 – które wchodzą w życie z dniem 1 stycznia 2013 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 123, poz. 846 i Nr 176, poz. 1238, z 2008 r. Nr 171, poz. 1057, z 2009 r. Nr 98, poz. 818, z 2010 r. Nr 127, poz. 857 i Nr 182, poz. 1228 oraz z 2011 r. Nr 106, poz. 622. 2) Tekst niniejszego porozumienia został opublikowany w Dz. Urz. M.T. z 2007 r. Nr 12, poz. 45.
 
 

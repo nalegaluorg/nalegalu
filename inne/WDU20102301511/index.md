@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 października 2010 r. o zmianie ustawy o paszach oraz ustawy o bezpieczeństwie żywności i żywienia
+# Ustawa z dnia 22 października 2010 r. o zmianie ustawy o paszach oraz ustawy o bezpieczeństwie żywności i żywienia Przepisy niniejszej ustawy wykonują postanowienia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 767/2009 z dnia 13 lipca 2009 r. w sprawie wprowadzania na rynek i stosowania pasz, zmieniającego rozporządzenie (WE) nr 1831/2003 Parlamentu Europejskiego i Rady i uchylającego dyrektywę Rady 79/373/EWG, dyrektywę Komisji 80/511/EWG, dyrektywy Rady 82/471/EWG, 83/228/EWG, 93/74/EWG, 93/113/WE i 96/25/WE oraz decyzję Komisji 2004/217/WE (Dz. Urz. UE L 229 z 01.09.2009, str. 1, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-10-22 |
 | Data wydania | 2010-12-07 |
-| Wejście w życie | 2010-12-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102301511) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1511/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 lipca 2006 r. o paszach (Dz. U. Nr 144, poz. 1045, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 22 lipca 2006 r. o paszach (Dz. U. Nr 144, poz. 1045, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 144, poz. 899, z 2009 r. Nr 18, poz. 97 oraz z 2010 r. Nr 47, poz. 278 i Nr 60, poz. 372.) wprowadza się następujące zmiany:
 
 - **1)** w odnośniku nr 2 do ustawy: w ust. 1 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 – 15 w brzmieniu: „
     - **a)**
@@ -75,7 +74,7 @@ source: "eli-html"
 
 2. Powiatowy lekarz weterynarii, w zakresie zadań określonych w przepisach rozporządzenia nr 882/2004, rozporządzenia nr 183/2005, rozporządzenia nr 999/2001, rozporządzenia nr 767/2009 oraz w przepisach wydanych w trybie tych rozporządzeń, wydaje decyzje administracyjne i wykonuje inne czynności związane z:
 
-- **1)** rejestracją, zawieszaniem, cofaniem rejestracji i dokonywaniem zmian w rejestracji zakładów oraz zatwierdzaniem, zawieszaniem, cofaniem zatwierdzenia, warunkowym zatwierdzaniem i dokonywaniem zmian w zatwierdzaniu zakładów, w tym: prowadzeniem rejestru zakładów, o którym mowa w art. 9 ust. 3, przyjmowaniem oświadczeń, o których mowa w art. 17 ust. 2 rozporządzenia nr 183/2005;
+- **1)** rejestracją, zawieszaniem, cofaniem rejestracji i dokonywaniem zmian w rejestracji zakładów oraz zatwierdzaniem, zawieszaniem, cofaniem zatwierdzenia, warunkowym zatwierdzaniem i dokonywaniem zmian w zatwierdzaniu zakładów, w tym: prowadzeniem rejestru zakładów, o którym mowa w art. 9 ust. 3, przyjmowaniem oświadczeń, o których mowa w art. 17 ust. 2 – rozporządzenia nr 183/2005;
     - **a)**
     - **b)**
 
@@ -106,7 +105,7 @@ source: "eli-html"
 4. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
 - **1)** dopuszczalne zawartości substancji niepożądanych w paszach,
-- **2)** zawartość niektórych substancji niepożądanych w paszy, po stwierdzeniu których podejmuje się działania, o których mowa w ust. 3, oraz rodzaje tych działań w odniesieniu do określonej substancji niepożądanej mając na względzie ochronę zdrowia ludzi i zwierząt oraz ochronę środowiska, a także zapewnienie właściwej jakości produktów pochodzenia zwierzęcego. ” , uchyla się ust. 5;
+- **2)** zawartość niektórych substancji niepożądanych w paszy, po stwierdzeniu których podejmuje się działania, o których mowa w ust. 3, oraz rodzaje tych działań w odniesieniu do określonej substancji niepożądanej – mając na względzie ochronę zdrowia ludzi i zwierząt oraz ochronę środowiska, a także zapewnienie właściwej jakości produktów pochodzenia zwierzęcego. ” , uchyla się ust. 5;
     - **c)**
 
 - **10)** uchyla się art. 23–27;
@@ -174,8 +173,5 @@ source: "eli-html"
 
 **Art. 3.** Przepisy wykonawcze wydane na podstawie art. 11 ust. 5 pkt 1, art. 15 ust. 4 pkt 2 i 3 oraz art. 30 ust. 8 pkt 2 ustawy wymienionej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 11 ust. 5 pkt 1, art. 15 ust. 4 oraz art. 30 ust. 2 tej ustawy, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 16 i art. 2, które wchodzą w życie z dniem 1 stycznia 2011 r.
-
-- **1)** Przepisy niniejszej ustawy wykonują postanowienia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 767/2009 z dnia 13 lipca 2009 r. w sprawie wprowadzania na rynek i stosowania pasz, zmieniającego rozporządzenie (WE) nr 1831/2003 Parlamentu Europejskiego i Rady i uchylającego dyrektywę Rady 79/373/EWG, dyrektywę Komisji 80/511/EWG, dyrektywy Rady 82/471/EWG, 83/228/EWG, 93/74/EWG, 93/113/WE i 96/25/WE oraz decyzję Komisji 2004/217/WE (Dz. Urz. UE L 229 z 01.09.2009, str. 1, z późn. zm.). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 144, poz. 899, z 2009 r. Nr 18, poz. 97 oraz z 2010 r. Nr 47, poz. 278 i Nr 60, poz. 372.
-
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 16 i art. 2, które wchodzą w życie z dniem 1 stycznia 2011 r. 1) Przepisy niniejszej ustawy wykonują postanowienia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 767/2009 z dnia 13 lipca 2009 r. w sprawie wprowadzania na rynek i stosowania pasz, zmieniającego rozporządzenie (WE) nr 1831/2003 Parlamentu Europejskiego i Rady i uchylającego dyrektywę Rady 79/373/EWG, dyrektywę Komisji 80/511/EWG, dyrektywy Rady 82/471/EWG, 83/228/EWG, 93/74/EWG, 93/113/WE i 96/25/WE oraz decyzję Komisji 2004/217/WE (Dz. Urz. UE L 229 z 01.09.2009, str. 1, z późn. zm.). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 144, poz. 899, z 2009 r. Nr 18, poz. 97 oraz z 2010 r. Nr 47, poz. 278 i Nr 60, poz. 372.
 

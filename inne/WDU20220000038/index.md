@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 31 grudnia 2021 r. zmieniające rozporządzenie w sprawie szczegółowych wymogów, jakim powinien odpowiadać lokal apteki
+# Rozporządzenie Ministra Zdrowiaz dnia 31 grudnia 2021 r. zmieniające rozporządzenie w sprawie szczegółowych wymogów, jakim powinien odpowiadać lokal apteki Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-31 |
 | Data wydania | 2022-01-10 |
-| Wejście w życie | 2022-01-11 |
 | Ostatnia zmiana | 2025-09-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000038) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/38/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 98 ust. 5 ustawy z dnia 6 września 2001 r. – Prawo farmaceu
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 30 września 2002 r. w sprawie szczegółowych wymogów, jakim powinien odpowiadać lokal apteki (Dz. U. poz. 1395 oraz z 2021 r. poz. 1035) wprowadza się następujące zmiany:
 1)
-w § 6 ust. 5 otrzymuje brzmienie:
-„
+w § 6 ust. 5 otrzymuje brzmienie: „
 5.
 W przypadku przeprowadzania w aptece ogólnodostępnej szczepienia ochronnego przeciw COVID-19 lub grypie, lub opieki farmaceutycznej, mogą one zostać przeprowadzone w:
 1)
@@ -46,11 +44,9 @@ pomieszczeniu administracyjno-szkoleniowym – pod warunkiem:
 a)
 zachowania rozdziału czasowego poszczególnych funkcji pełnionych przez to pomieszczenie oraz
 b)
-wprowadzenia pisemnej procedury określającej sposób dostępu i korzystania z tego pomieszczenia, który gwarantuje pacjentom bezpieczeństwo oraz poszanowanie intymności i godności, a także niezakłócone wykonywanie czynności w innych pomieszczeniach apteki, w szczególności sporządzanie produktów leczniczych oraz przechowywanie produktów leczniczych lub wyrobów medycznych zgodnie z wymaganiami dotyczącymi jakości i bezpieczeństwa.
-” ;
+wprowadzenia pisemnej procedury określającej sposób dostępu i korzystania z tego pomieszczenia, który gwarantuje pacjentom bezpieczeństwo oraz poszanowanie intymności i godności, a także niezakłócone wykonywanie czynności w innych pomieszczeniach apteki, w szczególności sporządzanie produktów leczniczych oraz przechowywanie produktów leczniczych lub wyrobów medycznych zgodnie z wymaganiami dotyczącymi jakości i bezpieczeństwa. ” ;
 2)
-w § 8 ust. 4 otrzymuje brzmienie:
-„
+w § 8 ust. 4 otrzymuje brzmienie: „
 4.
 W przypadku przeprowadzania w aptece ogólnodostępnej szczepienia ochronnego przeciw COVID-19 lub grypie, lub opieki farmaceutycznej, podstawowe wyposażenie apteki stanowią:
 1)
@@ -84,11 +80,9 @@ miejsce pozwalające na pozostawienie odzieży wierzchniej pacjenta poddającego
 n)
 pojemniki na zużyte igły i strzykawki oraz pojemniki na zakaźne materiały medyczne;
 2)
-w archiwum – zamykana na klucz szafa przeznaczona do przechowywania dokumentacji medycznej pacjentów poddanych szczepieniu ochronnemu lub opiece farmaceutycznej.
-” .
+w archiwum – zamykana na klucz szafa przeznaczona do przechowywania dokumentacji medycznej pacjentów poddanych szczepieniu ochronnemu lub opiece farmaceutycznej. ” .
 § 2.
 Do dnia 1 września 2022 r. szczepienia ochronne przeciw COVID-19 lub grypie mogą być przeprowadzane w aptekach ogólnodostępnych zgodnie z warunkami określonymi w przepisach dotychczasowych.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 

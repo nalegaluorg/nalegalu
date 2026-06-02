@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 9 sierpnia 2017 r. w sprawie warunków organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży niepełnosprawnych, niedostosowanych społecznie i zagrożonych niedostosowaniem społecznym
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 9 sierpnia 2017 r. w sprawie warunków organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży niepełnosprawnych, niedostosowanych społecznie i zagrożonych niedostosowaniem społecznym Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-09 |
 | Data wydania | 2017-08-24 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001578) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1578/text.pdf) |
 
@@ -35,8 +34,7 @@ niepełnosprawnych: niesłyszących, słabosłyszących, niewidomych, słabowidz
 2)
 niedostosowanych społecznie, zwanych dalej „uczniami niedostosowanymi społecznie”,
 3)
-zagrożonych niedostosowaniem społecznym, zwanych dalej „uczniami zagrożonymi niedostosowaniem społecznym”
-wymagających stosowania specjalnej organizacji nauki i metod pracy.
+zagrożonych niedostosowaniem społecznym, zwanych dalej „uczniami zagrożonymi niedostosowaniem społecznym” – wymagających stosowania specjalnej organizacji nauki i metod pracy.
 § 2.
 1.
 Kształcenie, wychowanie i opiekę dla uczniów niepełnosprawnych organizuje się w:
@@ -113,7 +111,7 @@ przygotowanie uczniów do samodzielności w życiu dorosłym.
 1.
 Indywidualny program edukacyjno-terapeutyczny, o którym mowa w art. 127 ust. 3 ustawy, zwany dalej „programem”, określa:
 1)
-zakres i sposób dostosowania odpowiednio programu wychowania przedszkolnego oraz wymagań edukacyjnych, o których mowa w art. 44b ust. 8 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.), do indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych ucznia, w szczególności przez zastosowanie odpowiednich metod i form pracy z uczniem;
+zakres i sposób dostosowania odpowiednio programu wychowania przedszkolnego oraz wymagań edukacyjnych, o których mowa w art. 44b ust. 8 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.), do indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych ucznia, w szczególności przez zastosowanie odpowiednich metod i form pracy z uczniem;
 2)
 zintegrowane działania nauczycieli i specjalistów prowadzących zajęcia z uczniem, a w przypadku ośrodków, o których mowa w § 2 ust. 1 pkt 5–9 – także wychowawców grup wychowawczych prowadzących zajęcia z wychowankiem w tym ośrodku, ukierunkowane na poprawę funkcjonowania ucznia, w tym – w zależności od potrzeb – na komunikowanie się ucznia z otoczeniem z użyciem wspomagających i alternatywnych metod komunikacji (AAC), oraz wzmacnianie jego uczestnictwa w życiu przedszkolnym lub szkolnym, w tym w przypadku:
 a)
@@ -196,8 +194,7 @@ nauczycieli posiadających kwalifikacje z zakresu pedagogiki specjalnej w celu w
 2)
 asystenta nauczyciela lub osoby, o której mowa w art. 15 ust. 2 ustawy, prowadzących zajęcia w klasach I-III szkoły podstawowej, lub asystenta wychowawcy świetlicy, o których mowa w art. 15 ust. 7 ustawy, lub
 3)
-pomoc nauczyciela
-z uwzględnieniem realizacji zaleceń zawartych w orzeczeniu o potrzebie kształcenia specjalnego.
+pomoc nauczyciela – z uwzględnieniem realizacji zaleceń zawartych w orzeczeniu o potrzebie kształcenia specjalnego.
 3.
 W przedszkolach ogólnodostępnych, innych formach wychowania przedszkolnego i szkołach ogólnodostępnych, w których kształceniem specjalnym są objęci uczniowie posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na inne niż wymienione w ust. 2 niepełnosprawności, niedostosowanie społeczne lub zagrożenie niedostosowaniem społecznym, za zgodą organu prowadzącego, można zatrudniać dodatkowo:
 1)
@@ -205,8 +202,7 @@ nauczycieli posiadających kwalifikacje z zakresu pedagogiki specjalnej w celu w
 2)
 asystenta nauczyciela lub osoby, o której mowa w art. 15 ust. 2 ustawy, prowadzących zajęcia w klasach I-III szkoły podstawowej, lub asystenta wychowawcy świetlicy, o których mowa w art. 15 ust. 7 ustawy, lub
 3)
-pomoc nauczyciela
-z uwzględnieniem realizacji zaleceń zawartych w orzeczeniu o potrzebie kształcenia specjalnego.
+pomoc nauczyciela – z uwzględnieniem realizacji zaleceń zawartych w orzeczeniu o potrzebie kształcenia specjalnego.
 4.
 W przedszkolach specjalnych, przedszkolach ogólnodostępnych z oddziałami specjalnymi oraz w klasach I-IV szkół podstawowych specjalnych i szkół podstawowych ogólnodostępnych z oddziałami specjalnymi, dla uczniów:
 1)
@@ -216,8 +212,7 @@ z niepełnosprawnością ruchową, w tym z afazją,
 3)
 z autyzmem, w tym z zespołem Aspergera,
 4)
-z niepełnosprawnościami sprzężonymi
-zatrudnia się dodatkowo pomoc nauczyciela.
+z niepełnosprawnościami sprzężonymi – zatrudnia się dodatkowo pomoc nauczyciela.
 5.
 W przedszkolach i szkołach: specjalnych, integracyjnych, ogólnodostępnych z oddziałami specjalnymi lub integracyjnymi oraz w przypadkach innych niepełnosprawności niż określone w ust. 4, dla uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność, za zgodą organu prowadzącego, można zatrudnić dodatkowo pomoc nauczyciela.
 6.
@@ -245,6 +240,5 @@ Uczniowie z chorobami przewlekłymi, z zaburzeniami psychicznymi, z zaburzeniami
 § 9.
 Indywidualne programy edukacyjno-terapeutyczne opracowane dla uczniów przed dniem wejścia w życie rozporządzenia należy dostosować do wymogów określonych w rozporządzeniu w terminie do dnia 30 września 2017 r.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.
 

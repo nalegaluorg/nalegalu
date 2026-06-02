@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 17 grudnia 2004 r. o zmianie ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz o zmianie niektórych ustaw
+# Ustawa z dnia 17 grudnia 2004 r. o zmianie ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz o zmianie niektórych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny oraz ustawę z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-12-17 |
 | Data wydania | 2004-12-29 |
-| Wejście w życie | 2005-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042812783) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2783/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. Nr 71, poz. 733, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. Nr 71, poz. 733, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 168, poz. 1383, z 2003 r. Nr 113, poz. 1069 oraz z 2004 r. Nr 116, poz. 1203.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w ust. 1: pkt 8 otrzymuje brzmienie: „
     - **a)**
@@ -190,7 +189,7 @@ source: "eli-html"
 
 - **e)**
 
-11. Wypowiedzenie najmu w zasobach towarzystwa budownictwa społecznego może nastąpić także na podstawie art. 30 ust. 5 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. Nr 98, poz. 1070, z późn. zm.).
+11. Wypowiedzenie najmu w zasobach towarzystwa budownictwa społecznego może nastąpić także na podstawie art. 30 ust. 5 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. Nr 98, poz. 1070, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 4, poz. 27, Nr 16, poz. 167 i Nr 154, poz. 1800, z 2002 r. Nr 25, poz. 253, Nr 153, poz. 1271, Nr 216, poz. 1824 i Nr 240, poz. 2058, z 2003 r. Nr 65, poz. 594 oraz z 2004 r. Nr 146, poz. 1546, Nr 213, poz. 2157 i Nr 281, poz. 2783.).
 
 12. Jeżeli lokatorem, któremu właściciel wypowiada stosunek prawny na podstawie ust. 5, jest osoba, której wiek w dniu otrzymania wypowiedzenia przekroczył 75 lat, a która po upływie terminu, o którym mowa w ust. 5, nie będzie posiadała tytułu prawnego do innego lokalu, w którym może zamieszkać, ani nie ma osób, które zobowiązane są wobec niej do świadczeń alimentacyjnych, wypowiedzenie staje się skuteczne dopiero w chwili śmierci lokatora; przepisów art. 691 § 1 i 2 Kodeksu cywilnego nie stosuje się. ” ;
 
@@ -258,14 +257,14 @@ source: "eli-html"
 
 2. Kaucja wpłacona przez najemcę w okresie obowiązywania ustawy, o której mowa w art. 39, podlega zwrotowi w zwaloryzowanej kwocie odpowiadającej przyjętemu przy jej wpłacaniu procentowi wartości odtworzeniowej lokalu obowiązującej w dniu jej zwrotu, w terminie określonym w ust. 1. Zwrócona kwota nie może być jednak niższa od kwoty kaucji wpłaconej przez najemcę. ” .
 
-**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.) art. 6851 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151 oraz z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692 i Nr 172, poz. 1804.) art. 6851 otrzymuje brzmienie: „
 
-**Art. 6851.** Wynajmujący lokal może podwyższyć czynsz, wypowiadając dotychczasową wysokość czynszu najpóźniej na miesiąc naprzód, na koniec miesiąca kalendarzowego. ” . W ustawie z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. Nr 98, poz. 1070, z późn. zm.) w art. 30 ust. 5 otrzymuje brzmienie: „ 5. W razie:
+**Art. 6851.** Wynajmujący lokal może podwyższyć czynsz, wypowiadając dotychczasową wysokość czynszu najpóźniej na miesiąc naprzód, na koniec miesiąca kalendarzowego. ” . W ustawie z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. Nr 98, poz. 1070, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 4, poz. 27, Nr 16, poz. 167 i Nr 154, poz. 1800, z 2002 r. Nr 25, poz. 253, Nr 153, poz. 1271, Nr 216, poz. 1824 i Nr 240, poz. 2058, z 2003 r. Nr 65, poz. 594 oraz z 2004 r. Nr 146, poz. 1546 i Nr 213, poz. 2157.) w art. 30 ust. 5 otrzymuje brzmienie: „ 5. W razie:
 
 - **1)** złożenia przez najemcę w deklaracji oświadczeń niezgodnych z prawdą, towarzystwo wypowiada mu umowę najmu bez zachowania terminu wypowiedzenia; po rozwiązaniu umowy osoba zajmująca lokal bez tytułu prawnego jest obowiązana płacić towarzystwu miesięczne odszkodowanie za korzystanie z lokalu w wysokości 200% czynszu miesięcznego, jaki płaciłaby, gdyby umowa nie została rozwiązana,
 - **2)** gdy najemca nie złoży deklaracji w terminie, o którym mowa w ust. 3, lub wykaże w deklaracji dochody przekraczające wysokość określoną w ust. 1 pkt 2, towarzystwo może wypowiedzieć umowę najmu w części dotyczącej czynszu; w takich przypadkach nie stosuje się art. 28 ust. 2. ” .
 
 **Art. 4.** Przepisów art. 3 ust. 1 oraz art. 14 ust. 7 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do umów o używanie lokali mieszkalnych, zawartych przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 5.** Przepisu art. 6851 ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do umów najmu lokali użytkowych, zawartych przed dniem wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie z dniem 1 stycznia 2005 r.
+**Art. 5.** Przepisu art. 6851 ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do umów najmu lokali użytkowych, zawartych przed dniem wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie z dniem 1 stycznia 2005 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny oraz ustawę z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 168, poz. 1383, z 2003 r. Nr 113, poz. 1069 oraz z 2004 r. Nr 116, poz. 1203. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 4, poz. 27, Nr 16, poz. 167 i Nr 154, poz. 1800, z 2002 r. Nr 25, poz. 253, Nr 153, poz. 1271, Nr 216, poz. 1824 i Nr 240, poz. 2058, z 2003 r. Nr 65, poz. 594 oraz z 2004 r. Nr 146, poz. 1546, Nr 213, poz. 2157 i Nr 281, poz. 2783. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151 oraz z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692 i Nr 172, poz. 1804. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 4, poz. 27, Nr 16, poz. 167 i Nr 154, poz. 1800, z 2002 r. Nr 25, poz. 253, Nr 153, poz. 1271, Nr 216, poz. 1824 i Nr 240, poz. 2058, z 2003 r. Nr 65, poz. 594 oraz z 2004 r. Nr 146, poz. 1546 i Nr 213, poz. 2157.
 

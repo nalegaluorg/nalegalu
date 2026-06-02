@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Infrastrukturyz dnia 2 marca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie lotów próbnych i akrobacyjnych oraz pokazów lotniczych
+# Obwieszczenie Ministra Infrastrukturyz dnia 2 marca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie lotów próbnych i akrobacyjnych oraz pokazów lotniczych Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 
 | Pole | Wartość |
 |---|---|
@@ -26,7 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000786) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/786/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 16 maja 2013 r. w sprawie lotów próbnych i akrobacyjnych oraz pokazów lotniczych Rozdział 1 – Przepisy ogólne Rozdział 2 – Loty próbne Rozdział 3 – Loty akrobacyjne Rozdział 4 – Pokazy lotnicze Rozdział 5 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 16 maja 2013 r. w sprawie lotów próbnych i akrobacyjnych oraz pokazów lotniczych
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Loty próbne
+
+#### Rozdział 3 – Loty akrobacyjne
+
+#### Rozdział 4 – Pokazy lotnicze
+
+#### Rozdział 5 – Przepisy przejściowe i końcowe
 
 ## Załącznik nr 1 — – Minimalne wysokości i warunki lotu nad publicznością balonów załogowych
 
@@ -42,34 +52,30 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 16 maja 2013 r. w sprawie lotów próbnych i akrobacyjnych oraz pokazów lotniczych (Dz. U. z 2017 r. poz. 1488), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury z dnia 11 stycznia 2022 r. zmieniającym rozporządzenie w sprawie lotów próbnych i akrobacyjnych oraz pokazów lotniczych (Dz. U. poz. 107).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 11 stycznia 2022 r. zmieniającego rozporządzenie w sprawie lotów próbnych i akrobacyjnych oraz pokazów lotniczych (Dz. U. poz. 107), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 11 stycznia 2022 r. zmieniającego rozporządzenie w sprawie lotów próbnych i akrobacyjnych oraz pokazów lotniczych (Dz. U. poz. 107), które stanowią: „
 § 2.
 1.
 Do programu pokazu lotniczego:
 1)
 zawartego we wniosku, o którym mowa w art. 123 ust. 1b ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2020 r. poz. 1970 oraz z 2021 r. poz. 784, 847 i 1898), złożonym i nierozpatrzonym przed dniem wejścia w życie niniejszego rozporządzenia,
 2)
-dołączonego do powiadomienia, o którym mowa w art. 123 ust. 1d ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, złożonego przed dniem wejścia w życie niniejszego rozporządzenia
-stosuje się przepisy dotychczasowe.
+dołączonego do powiadomienia, o którym mowa w art. 123 ust. 1d ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, złożonego przed dniem wejścia w życie niniejszego rozporządzenia – stosuje się przepisy dotychczasowe.
 2.
 Do organizatora pokazu lotniczego i dyrektora pokazu lotniczego wyznaczonych dla pokazów lotniczych objętych:
 1)
 wnioskiem, o którym mowa w art. 123 ust. 1b ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, złożonym i nierozpatrzonym przed dniem wejścia w życie niniejszego rozporządzenia,
 2)
-powiadomieniem, o którym mowa w art. 123 ust. 1d ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, złożonym przed dniem wejścia w życie niniejszego rozporządzenia
-stosuje się przepisy dotychczasowe oraz przepisy § 9 ust. 1a i 4, § 45a i § 45b rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+powiadomieniem, o którym mowa w art. 123 ust. 1d ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, złożonym przed dniem wejścia w życie niniejszego rozporządzenia – stosuje się przepisy dotychczasowe oraz przepisy § 9 ust. 1a i 4, § 45a i § 45b rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 3.
 Zgoda na przeprowadzenie pokazu lotniczego, o której mowa w art. 123 ust. 1b ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, wydana na podstawie przepisów dotychczasowych zachowuje ważność.
 4.
 Do wniosku, o którym mowa w § 5 ust. 4 rozporządzenia zmienianego w § 1, złożonego i nierozpatrzonego przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
-Załącznik – Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 16 maja 2013 r. w sprawie lotów próbnych i akrobacyjnych oraz pokazów lotniczych
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
+Załącznik – Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 16 maja 2013 r. w sprawie lotów próbnych i akrobacyjnych oraz pokazów lotniczychObecnie działem administracji rządowej – transport kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 Na podstawie art. 123 ust. 1f ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2020 r. poz. 1970, z 2021 r. poz. 784, 847 i 1898 oraz z 2022 r. poz. 655) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Rozdział 1
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -82,7 +88,7 @@ szczegółowe warunki organizacji i prowadzenia pokazów lotniczych oraz lotów 
 Użyte w rozporządzeniu określenia oznaczają:
 1)
 dowódca zespołu – osobę wyznaczoną spośród pilotów zespołu statków powietrznych odpowiedzialną za przygotowanie zespołu do przeprowadzenia pokazu lotniczego;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury z dnia 11 stycznia 2022 r. zmieniającego rozporządzenie w sprawie lotów próbnych i akrobacyjnych oraz pokazów lotniczych (Dz. U. poz. 107), które weszło w życie z dniem 1 lutego 2022 r.)
 dyrektor pokazu lotniczego – osobę odpowiedzialną za zapewnienie, aby organizacja i wykonanie operacji lotniczych podczas pokazu lotniczego były zgodne z przepisami;
 3)
 impreza masowa – imprezę masową w rozumieniu art. 3 pkt 1 ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2019 r. poz. 2171 oraz z 2021 r. poz. 2490);
@@ -122,13 +128,14 @@ strefa dla publiczności – miejsce wyznaczone w terenie, oznakowane i udostęp
 strefa lotów akrobacyjnych – wyznaczoną przestrzeń powietrzną o określonych granicach poziomych i pionowych, wydzieloną na potrzeby wykonania lotów akrobacyjnych;
 21)
 strefa pokazu lotniczego – wyznaczoną okresowo przestrzeń powietrzną o określonych granicach poziomych i pionowych, wydzieloną na potrzeby wykonania pokazu lotniczego;
-21a)
+21aDodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 teren pokazu lotniczego – wydzielony na potrzeby przeprowadzenia pokazu lotniczego teren o określonych granicach, oznakowany w widoczny sposób, jeżeli ukształtowanie i właściwości terenu na to pozwalają, oraz udostępniony organizatorowi pokazu lotniczego przez właściciela terenu lub zarządzającego terenem w celu przeprowadzenia pokazu lotniczego;
 22)
 ustawa – ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze;
 23)
 wystawa statyczna sprzętu lotniczego – ekspozycję statków powietrznych, w tym biorących udział w pokazie lotniczym, w miejscu wyznaczonym przez organizatora pokazów lotniczych z dostępem dla publiczności.
-Rozdział 2 Loty próbne
+Rozdział 2
+Loty próbne
 § 3.
 Lot próbny nad osiedlem lub innym skupiskiem ludności może być wykonywany, jeżeli są spełnione następujące warunki:
 1)
@@ -138,8 +145,9 @@ po starcie lub przy podejściu do lądowania lub w locie nad lotniskiem nie moż
 3)
 wysokość lotu poza lotniskiem gwarantuje bezpieczne wykonanie przymusowego lądowania poza osiedlem lub innym skupiskiem ludności.
 § 4.
-Lot próbny jest organizowany i prowadzony z uwzględnieniem przepisów wydanych na podstawie art. 33 ust. 2 i 3 lub art. 53c ust. 1 i 2 ustawy albo przepisów rozporządzenia Komisji (UE) nr 748/2012 z dnia 3 sierpnia 2012 r. ustanawiającego przepisy wykonawcze dotyczące certyfikacji statków powietrznych i związanych z nimi wyrobów, części i akcesoriów w zakresie zdatności do lotu i ochrony środowiska oraz dotyczące certyfikacji organizacji projektujących i produkujących (Dz. Urz. UE L 224 z 21.08.2012, str. 1, z późn. zm.), z zastrzeżeniem art. 1 ust. 6 ustawy.
-Rozdział 3 Loty akrobacyjne
+Lot próbny jest organizowany i prowadzony z uwzględnieniem przepisów wydanych na podstawie art. 33 ust. 2 i 3 lub art. 53c ust. 1 i 2 ustawy albo przepisów rozporządzenia Komisji (UE) nr 748/2012 z dnia 3 sierpnia 2012 r. ustanawiającego przepisy wykonawcze dotyczące certyfikacji statków powietrznych i związanych z nimi wyrobów, części i akcesoriów w zakresie zdatności do lotu i ochrony środowiska oraz dotyczące certyfikacji organizacji projektujących i produkujących (Dz. Urz. UE L 224 z 21.08.2012, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 4 z 09.01.2013, str. 36, Dz. Urz. UE L 23 z 28.01.2014, str. 12, Dz. Urz. UE L 167 z 01.07.2015, str. 1, Dz. Urz. UE L 3 z 06.01.2016, str. 3, Dz. Urz. UE L 144 z 03.06.2019, str. 1, Dz. Urz. UE L 146 z 05.06.2019, str. 116, Dz. Urz. UE L 132 z 27.04.2020, str. 1, Dz. Urz. UE L 145 z 28.04.2021, str. 1 oraz Dz. Urz. UE L 236 z 05.07.2021, str. 3., z zastrzeżeniem art. 1 ust. 6 ustawy.
+Rozdział 3
+Loty akrobacyjne
 § 5.
 1.
 Loty akrobacyjne mogą być wykonywane w strefie lotów akrobacyjnych, w strefie pokazu lotniczego albo poza tymi strefami w przypadkach określonych w ust. 8–11.
@@ -171,7 +179,7 @@ typ statku powietrznego używanego podczas lotu akrobacyjnego;
 proponowaną wysokość dolnej granicy lotu akrobacyjnego;
 4)
 proponowany czas, w którym będą wykonywane loty akrobacyjne;
-5)
+5W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 nazwę dokumentu pilota statku powietrznego, z którego wynika uprawnienie do wykonywania lotów akrobacyjnych, z wyłączeniem członków załóg statków powietrznych lotnictwa państwowego;
 5a)
 w przypadku pilotów państw obcych – zgodę właściwego organu państwa ich pochodzenia na wykonywanie lotów akrobacyjnych na wysokości mniejszej niż 300 m (1000 ft), jeżeli została udzielona;
@@ -203,7 +211,7 @@ uzyskaniu zgody służby kontroli ruchu lotniczego w przypadku lotniska kontrolo
 wykonywaniu lotów na wysokości nie mniejszej niż 300 m (1000 ft) nad poziomem lotniska albo uzyskaniu zgody Prezesa Urzędu na wykonywanie lotów na wysokości mniejszej niż 300 m (1000 ft) nad poziomem terenu;
 4)
 pozostawaniu statku powietrznego w zasięgu ciągłej obserwacji osoby wyznaczonej przez zarządzającego lotniskiem lub w zasięgu kontroli radarowej w przypadku lotniska kontrolowanego.
-10.
+10W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Do zgody Prezesa Urzędu, o której mowa w ust. 9 pkt 3, stosuje się odpowiednio przepisy ust. 4–6 i 7a.
 11.
 Przepisy ust. 9 i 10 stosuje się odpowiednio do lądowisk zgłoszonych do ewidencji lądowisk.
@@ -222,7 +230,8 @@ Strefę lotów akrobacyjnych wyznacza:
 zarządzający lotniskiem lub lądowiskiem – w strefie ruchu lotniskowego lub w strefie kontrolowanej lotniska lub lądowiska – po uzgodnieniu z instytucją zapewniającą służby ruchu lotniczego;
 2)
 organizator lotów akrobacyjnych – poza strefą ruchu lotniskowego lub strefą kontrolowaną lotniska lub lądowiska – po powiadomieniu wójta, burmistrza albo prezydenta miasta właściwych ze względu na miejsce usytuowania strefy lotów akrobacyjnych oraz po uzgodnieniu z instytucją zapewniającą służby ruchu lotniczego.
-Rozdział 4 Pokazy lotnicze
+Rozdział 4
+Pokazy lotnicze
 § 7.
 1.
 Pokaz lotniczy, w tym lot treningowy do tego pokazu, odbywa się zgodnie z programem pokazu lotniczego.
@@ -233,12 +242,12 @@ imię i nazwisko albo nazwę oraz adres organizatora pokazu lotniczego;
 2)
 datę i godziny pokazu lotniczego oraz datę i godziny lotów treningowych do tego pokazu;
 3)
-wyznaczone miejsce startu i lądowania oraz mapę terenu, nad którym ma być wykonany pokaz lotniczy i loty treningowe do tego pokazu, zawierającą:
-a)
+wyznaczone miejsce startu i lądowania oraz mapę terenu, nad którym ma być wykonany pokaz lotniczy i loty treningowe do tego pokazu, zawierającą:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2.
+aW brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 wydzieloną na potrzeby pokazu lotniczego przestrzeń powietrzną, która swoim rozmiarem obejmuje strefę pokazu lotniczego oraz teren pokazu lotniczego,
 b)
 granice strefy pokazu lotniczego,
-c)
+cW brzmieniu ustalonym przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2.)
 opis strefy dla publiczności wraz z określeniem bezpiecznej minimalnej odległości linii pokazu lotniczego od strefy dla publiczności oraz bezpiecznej minimalnej odległości między osią drogi startowej a granicą strefy dla publiczności przy starcie i lądowaniu statków powietrznych podczas pokazu lotniczego,
 d)
 miejsce ustawienia sprzętu lotniczego wyznaczonego do pokazu lotniczego,
@@ -286,16 +295,16 @@ Jeżeli pokaz lotniczy odbywa się w strefie kontrolowanej lotniska, dyrektor po
 Określenie danych, o których mowa w ust. 2 pkt 6 lit. a i b, nie jest wymagane w przypadku członków załóg statków powietrznych lotnictwa państwowego.
 § 8.
 1.
-Do programu pokazu lotniczego, o którym mowa w art. 123 ust. 1b ustawy, organizator pokazu lotniczego dołącza:
+Do programu pokazu lotniczego, o którym mowa w art. 123 ust. 1b ustawy, organizator pokazu lotniczego dołącza:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.
 1)
 kopię wniosku o wydanie zezwolenia na przeprowadzenie imprezy masowej;
 2)
 oświadczenie dyrektora pokazu lotniczego, kierownika programu pokazu lotniczego, kierownika lotów oraz kierownika skoków, jeżeli został wyznaczony, wyrażające zgodę na podjęcie przez nich obowiązków w zakresie organizacji i prowadzenia pokazu lotniczego;
 3)
 oświadczenia osób, o których mowa w § 12 ust. 1a, wyrażające zgodę na podjęcie przez nie obowiązków w zakresie organizacji i prowadzenia pokazu lotniczego;
-4)
+4Dodany przez § 1 pkt 4 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 ocenę ryzyka operacji lotniczych objętych programem pokazu lotniczego;
-5)
+5Dodany przez § 1 pkt 4 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 plan reagowania awaryjnego obejmujący plan zarządzania zdarzeniami w trakcie lub po zaistnieniu sytuacji awaryjnej, przygotowany przez organizatora pokazu lotniczego na podstawie przeprowadzonej oceny ryzyka operacji lotniczych objętych programem pokazu lotniczego.
 2.
 Do programu pokazu lotniczego, o którym mowa w art. 123 ust. 1d ustawy, organizator pokazu lotniczego dołącza:
@@ -309,9 +318,9 @@ c)
 dysponenta zespołów ratownictwa medycznego (pogotowia ratunkowego),
 d)
 państwowego inspektora sanitarnego;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 4 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
 ocenę ryzyka operacji lotniczych objętych programem pokazu lotniczego;
-2a)
+2aDodany przez § 1 pkt 4 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 plan reagowania awaryjnego, o którym mowa w ust. 1 pkt 5;
 3)
 oświadczenia osób, o których mowa w ust. 1 pkt 2 i § 12 ust. 1a, wyrażające zgodę na podjęcie przez nie obowiązków w zakresie organizacji i prowadzenia pokazu lotniczego;
@@ -320,13 +329,13 @@ kopię pisma powiadamiającego wójta, burmistrza albo prezydenta miasta właśc
 § 9.
 1.
 Organizator pokazu lotniczego odpowiada za działania związane z organizacją pokazu lotniczego oraz wyznacza dyrektora pokazu lotniczego, posiadającego ważną albo wygasłą licencję albo świadectwo kwalifikacji pilota, licencję kontrolera ruchu lotniczego lub świadectwo kwalifikacji skoczka spadochronowego albo równoważny dokument wydany przez właściwy organ państwa obcego albo posiadającego ważne albo wygasłe uprawnienia nabyte w lotnictwie państwowym.
-1a.
+1aDodany przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Dyrektor pokazu lotniczego jest niezależny od organizatora pokazu lotniczego przy podejmowaniu decyzji mających wpływ na bezpieczną organizację i wykonanie operacji lotniczych podczas pokazu lotniczego.
 2.
 Dyrektor pokazu lotniczego może zmienić kolejność realizacji punktów programu pokazu lotniczego lub odstąpić od ich realizacji.
 3.
 Dyrektor pokazu lotniczego odwołuje poszczególne punkty programu pokazu lotniczego lub cały pokaz lotniczy, jeżeli warunki atmosferyczne albo inne przyczyny mogą zagrozić bezpieczeństwu pokazu lotniczego.
-4.
+4Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Dyrektor pokazu lotniczego może zawiesić lub przerwać pokaz lotniczy w przypadku stwierdzenia podczas pokazu lotniczego zagrożenia bezpieczeństwa zgromadzonej publiczności ze strony statków powietrznych biorących udział w pokazie lotniczym, zagrożenia bezpieczeństwa załóg tych statków powietrznych lub niespełnienia przez organizatora pokazu lotniczego na terenie pokazu lotniczego warunków bezpieczeństwa określonych w programie pokazu lotniczego lub określonych w zgodzie Prezesa Urzędu na przeprowadzenie pokazu lotniczego, wyrażonej w trybie art. 123 ust. 1b ustawy, informując o tym organizatora pokazu lotniczego.
 § 9a.
 1.
@@ -432,7 +441,7 @@ W przypadku pokazu lotniczego przebiegającego w rejonie działań prowadzonych 
 W przypadkach, o których mowa w ust. 1 i 2, organizator pokazu lotniczego w zależności od okoliczności odpowiednio przerywa, zawiesza albo odwołuje pokaz lotniczy.
 4.
 W przypadku pokazu lotniczego organizowanego na lotnisku lub lądowisku, podczas którego w ocenie zarządzającego lotniskiem lub lądowiskiem zachodzi możliwość zaistnienia zagrożenia bezpieczeństwa osób lub statków powietrznych znajdujących się na terenie lotniska lub lądowiska, zarządzający lotniskiem lub lądowiskiem może przerwać, zawiesić lub odwołać pokaz, informując o tym organizatora pokazu lotniczego.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2..
 Prezes Urzędu może:
 1)
 odwołać pokaz lotniczy – w przypadku stwierdzenia przed rozpoczęciem pokazu lotniczego niespełnienia przez organizatora pokazu lotniczego na terenie pokazu lotniczego warunków bezpieczeństwa określonych w programie pokazu lotniczego lub określonych w zgodzie Prezesa Urzędu na przeprowadzenie pokazu lotniczego, wyrażonej w trybie art. 123 ust. 1b ustawy, informując o tym organizatora pokazu lotniczego;
@@ -597,8 +606,7 @@ piloci lotni, motolotni, paralotni i paraplanów posiadający nalot co najmniej 
 3)
 piloci balonów posiadający nalot co najmniej 25 godzin w charakterze dowódcy balonu gazowego lub balonu na ogrzane powietrze, w tym nalot co najmniej 5 godzin w charakterze dowódcy statku powietrznego, na którym wykonują lot podczas pokazu lotniczego,
 4)
-skoczkowie spadochronowi, posiadający świadectwo kwalifikacji skoczka spadochronowego z uprawnieniem klasy wyszkolenia co najmniej C – PJ(C), którzy wykonali minimum 200 skoków, w tym co najmniej 5 skoków na spadochronie, na którym wykonują skok podczas pokazu lotniczego
-o ile zostali dopuszczeni do ich wykonywania przez dyrektora pokazu lotniczego.
+skoczkowie spadochronowi, posiadający świadectwo kwalifikacji skoczka spadochronowego z uprawnieniem klasy wyszkolenia co najmniej C – PJ(C), którzy wykonali minimum 200 skoków, w tym co najmniej 5 skoków na spadochronie, na którym wykonują skok podczas pokazu lotniczego – o ile zostali dopuszczeni do ich wykonywania przez dyrektora pokazu lotniczego.
 2.
 Loty akrobacyjne podczas pokazu lotniczego mogą wykonywać wyłącznie:
 1)
@@ -612,8 +620,7 @@ dokument równoważny licencji lub świadectwu kwalifikacji wydany przez właśc
 2)
 piloci państwowych statków powietrznych posiadający kopię dokumentu potwierdzającego kwalifikacje lub uprawnienia w lotnictwie państwowym,
 3)
-piloci państwowych statków powietrznych z państw obcych posiadający uprawnienie w zakresie wykonywania lotów akrobacyjnych wydane przez właściwy organ państwa obcego
-o ile zostali dopuszczeni do ich wykonywania przez dyrektora pokazu lotniczego.
+piloci państwowych statków powietrznych z państw obcych posiadający uprawnienie w zakresie wykonywania lotów akrobacyjnych wydane przez właściwy organ państwa obcego – o ile zostali dopuszczeni do ich wykonywania przez dyrektora pokazu lotniczego.
 § 31.
 1.
 Dyrektor pokazu lotniczego wyznacza linie pokazu lotniczego z uwzględnieniem rodzajów statków powietrznych i rodzajów lotów wykonywanych w ramach pokazu lotniczego.
@@ -652,7 +659,7 @@ Odległość, o której mowa w ust. 6, zwiększa się co najmniej do 15 m w przy
 8.
 Organizator pokazu lotniczego zapewnia, aby osoby nieupoważnione nie zbliżały się do wyznaczonego miejsca tankowania paliwa lub uzupełniania gazów i płynów technicznych statków powietrznych na odległość mniejszą niż 25 m.
 § 36.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku lotów innych niż akrobacyjne wysokość lotu nad terenem w ramach pokazu lotniczego nie może być mniejsza niż:
 1)
 100 m (300 ft) – podczas lotów kategorii I statków powietrznych i kategorii II statków powietrznych z przechyleniem do 60° i wznoszeniem lub pochyleniem do 45°;
@@ -660,7 +667,7 @@ W przypadku lotów innych niż akrobacyjne wysokość lotu nad terenem w ramach 
 50 m (150 ft) – podczas lotów kategorii III statków powietrznych i śmigłowców z przechyleniem do 60° i wznoszeniem lub pochyleniem do 45°;
 3)
 30 m (100 ft) – podczas lotów motolotni lub paraplanu.
-1a.
+1aDodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Loty, o których mowa w ust. 1, mogą być wykonywane poniżej minimalnych wysokości, jeżeli zostało to ujęte w programie pokazu lotniczego, na którego przeprowadzenie Prezes Urzędu wyraził zgodę, w trybie art. 123 ust. 1b ustawy, z uwzględnieniem specyfiki poszczególnych lotów oraz uprawnień i doświadczenia pilotów.
 2.
 Nie ustala się minimalnej wysokości lotu w przypadku:
@@ -681,13 +688,12 @@ gaszenia pożaru,
 5)
 lądowania w przypadku lotu nad drogą startową,
 6)
-zawodów lotniczych
-wykonuje się wyłącznie w ramach pokazu lotniczego, o którym mowa w art. 123 ust. 1b ustawy. Loty te mogą być wykonywane poniżej minimalnych wysokości, o których mowa w ust. 1, jeżeli zostało to ujęte w programie pokazu lotniczego, na którego przeprowadzenie Prezes Urzędu wyraził zgodę, w trybie art. 123 ust. 1b ustawy, z uwzględnieniem specyfiki poszczególnych lotów oraz uprawnień i doświadczenia pilotów.
+zawodów lotniczych – wykonuje się wyłącznie w ramach pokazu lotniczego, o którym mowa w art. 123 ust. 1b ustawy. Loty te mogą być wykonywane poniżej minimalnych wysokości, o których mowa w ust. 1, jeżeli zostało to ujęte w programie pokazu lotniczego, na którego przeprowadzenie Prezes Urzędu wyraził zgodę, w trybie art. 123 ust. 1b ustawy, z uwzględnieniem specyfiki poszczególnych lotów oraz uprawnień i doświadczenia pilotów.
 4.
 Loty akrobacyjne wykonywane między ustawionymi obiektami oraz loty, o których mowa w ust. 3 pkt 6, wykonuje się po przeprowadzeniu lotu treningowego w strefie pokazu lotniczego.
 5.
 Kierownik lotów informuje personel lotniczy uczestniczący w pokazie lotniczym o ustalonych minimalnych wysokościach lotów.
-6.
+6W brzmieniu ustalonym przez § 1 pkt 7 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Podczas pokazu lotniczego skoków spadochronowych:
 1)
 otwarcie spadochronu przeprowadza się na wysokości nie mniejszej niż 500 m (1650 ft), a w przypadku spadochronu desantowego nieszybującego – na wysokości nie mniejszej niż 300 m (1000 ft); przepisu nie stosuje się do spadochronu towarowego;
@@ -775,9 +781,9 @@ Okres pełnienia czynności lotniczych w czasie trwania pokazów lotniczych obej
 Blokowy czas lotu pokazowego obejmuje czas między rozpoczęciem kołowania statku powietrznego z miejsca postoju w celu wykonania lotu do czasu zatrzymania na wyznaczonym miejscu postoju i zatrzymania wszystkich silników lub śmigieł.
 7.
 Przepisów ust. 1–6 nie stosuje się do załóg statków powietrznych lotnictwa państwowego.
-§ 45a.
+§ 45aDodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2..
 Organizator pokazu lotniczego, w przypadku gdy pokaz lotniczy jest organizowany na lotnisku lub lądowisku, z którego będą wykonywane operacje startu i lądowania statków powietrznych biorących udział w pokazie lotniczym, zapewnia członkom załóg statków powietrznych podczas pokazu lotniczego pomieszczenie o ograniczonym dostępie dla publiczności, które jeśli temperatura na zewnątrz pomieszczenia przekracza 28ºC jest klimatyzowane.
-§ 45b.
+§ 45bDodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2..
 Organizator pokazu lotniczego zapewnia zakończenie prac związanych z koszeniem obszarów trawiastych lotniska lub lądowiska, na którym wyznaczono strefy pokazu lotniczego lub z którego będą wykonywane operacje startu i lądowania statków powietrznych biorących udział w pokazie lotniczym, nie później niż 3 dni przed dniem rozpoczęcia pokazu lotniczego.
 § 46.
 Organizator pokazu lotniczego przeprowadzanego na terenach będących w trwałym zarządzie jednostek organizacyjnych podległych Ministrowi Obrony Narodowej albo ministrowi właściwemu do spraw wewnętrznych lub przez nich nadzorowanych, zapewnia Prezesowi Urzędu prowadzącemu kontrolę pokazu lotniczego dostęp do obszarów oraz elementów infrastruktury związanych z pokazem lotniczym.
@@ -786,12 +792,12 @@ Organizator pokazu lotniczego przeprowadzanego na terenach będących w trwałym
 Podczas pokazów lotniczych loty mogą wykonywać modele latające oraz bezzałogowe statki powietrzne o maksymalnej masie startowej (MTOM) nie większej niż 25 kg, wyłącznie w operacjach w zasięgu wzroku, zgodnie z przepisami wydanymi na podstawie art. 33 ust. 2 i 4 ustawy.
 2.
 Minimalną odległość linii pokazu lotniczego od strefy dla publiczności dla modeli latających oraz bezzałogowych statków powietrznych określa załącznik nr 5 do rozporządzenia.
-Rozdział 5 Przepisy przejściowe i końcowe
+Rozdział 5
+Przepisy przejściowe i końcowe
 § 47.
 Do wniosków o wyrażenie zgody na wykonywanie lotów akrobacyjnych na wysokości mniejszej niż 300 m nad poziomem terenu, złożonych przed dniem wejścia w życie rozporządzenia, nie stosuje się przepisu § 5 ust. 4 w zakresie terminu złożenia wniosku.
 § 48.
-Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia.
-1) Obecnie działem administracji rządowej – transport kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury z dnia 11 stycznia 2022 r. zmieniającego rozporządzenie w sprawie lotów próbnych i akrobacyjnych oraz pokazów lotniczych (Dz. U. poz. 107), które weszło w życie z dniem 1 lutego 2022 r. 3) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 4 z 09.01.2013, str. 36, Dz. Urz. UE L 23 z 28.01.2014, str. 12, Dz. Urz. UE L 167 z 01.07.2015, str. 1, Dz. Urz. UE L 3 z 06.01.2016, str. 3, Dz. Urz. UE L 144 z 03.06.2019, str. 1, Dz. Urz. UE L 146 z 05.06.2019, str. 116, Dz. Urz. UE L 132 z 27.04.2020, str. 1, Dz. Urz. UE L 145 z 28.04.2021, str. 1 oraz Dz. Urz. UE L 236 z 05.07.2021, str. 3. 5) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2. 10) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 11) Dodany przez § 1 pkt 4 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 12) W brzmieniu ustalonym przez § 1 pkt 4 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 13) Dodany przez § 1 pkt 4 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 14) Dodany przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 15) Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 16) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 17) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2. 18) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 pkt 7 lit. c rozporządzenia, o którym mowa w odnośniku 2. 20) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 21) Rozporządzenie zostało ogłoszone w dniu 17 maja 2013 r. 22) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 22 grudnia 2003 r. w sprawie wyjątków od zakazu wykonywania lotów próbnych i akrobacyjnych nad osiedlami i innymi skupiskami ludności (Dz. U. poz. 2304), które zgodnie z art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 1015) utraciło moc z dniem 19 marca 2013 r.
+Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 17 maja 2013 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 22 grudnia 2003 r. w sprawie wyjątków od zakazu wykonywania lotów próbnych i akrobacyjnych nad osiedlami i innymi skupiskami ludności (Dz. U. poz. 2304), które zgodnie z art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 1015) utraciło moc z dniem 19 marca 2013 r. 1) Obecnie działem administracji rządowej – transport kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury z dnia 11 stycznia 2022 r. zmieniającego rozporządzenie w sprawie lotów próbnych i akrobacyjnych oraz pokazów lotniczych (Dz. U. poz. 107), które weszło w życie z dniem 1 lutego 2022 r. 3) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 4 z 09.01.2013, str. 36, Dz. Urz. UE L 23 z 28.01.2014, str. 12, Dz. Urz. UE L 167 z 01.07.2015, str. 1, Dz. Urz. UE L 3 z 06.01.2016, str. 3, Dz. Urz. UE L 144 z 03.06.2019, str. 1, Dz. Urz. UE L 146 z 05.06.2019, str. 116, Dz. Urz. UE L 132 z 27.04.2020, str. 1, Dz. Urz. UE L 145 z 28.04.2021, str. 1 oraz Dz. Urz. UE L 236 z 05.07.2021, str. 3. 5) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2. 10) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 11) Dodany przez § 1 pkt 4 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 12) W brzmieniu ustalonym przez § 1 pkt 4 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 13) Dodany przez § 1 pkt 4 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 14) Dodany przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 15) Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 16) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 17) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2. 18) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 pkt 7 lit. c rozporządzenia, o którym mowa w odnośniku 2. 20) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 21) Rozporządzenie zostało ogłoszone w dniu 17 maja 2013 r. 22) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 22 grudnia 2003 r. w sprawie wyjątków od zakazu wykonywania lotów próbnych i akrobacyjnych nad osiedlami i innymi skupiskami ludności (Dz. U. poz. 2304), które zgodnie z art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 1015) utraciło moc z dniem 19 marca 2013 r.
 
 ## Załącznik nr 1 — – Minimalne wysokości i warunki lotu nad publicznością balonów załogowych
 
@@ -799,7 +805,8 @@ Rodzaj pokazu lotniczego Minimalna wysokość i warunki lotu nad publicznością
 
 ## Załącznik nr 2 — – Minimalne odległości linii pokazu lotniczego od strefy dla publiczności
 
-Minimalna odległość linii pokazu lotniczego od strefy dla publiczności* Kategoria lub typ statku powietrznego Element pokazu lotniczego 230 m kategoria I statków powietrznych kategoria II statków powietrznych oraz śmigłowce lot akrobacyjny 150 m kategoria III statków powietrznych wiatrakowce lot akrobacyjny 150 m ultralekkie statki powietrzne, szybowce, lotnie, motolotnie, paraplany lot akrobacyjny 150 m śmigłowce manewrowanie z uwzględnieniem wpływu ziemi 230 m kategoria I statków powietrznych prezentacja w locie 150 m kategoria II statków powietrznych lub kategoria III statków powietrznych prezentacja w locie 100 m ultralekkie statki powietrzne, szybowce, lotnie, motolotnie, paraplany prezentacja w locie 50 m dla statków powietrznych o masie własnej łącznie z paliwem nieprzekraczających 70 kg manewrowanie przy ziemi 50 m spadochrony skok * W przypadku wykonywania lotów grupowych odległość określona w pierwszej kolumnie dotyczy statku powietrznego znajdującego się najbliżej publiczności.
+Minimalna odległość linii pokazu lotniczego od strefy dla publiczności* Kategoria lub typ statku powietrznego Element pokazu lotniczego 230 m kategoria I statków powietrznych kategoria II statków powietrznych oraz śmigłowce lot akrobacyjny 150 m kategoria III statków powietrznych wiatrakowce lot akrobacyjny 150 m ultralekkie statki powietrzne, szybowce, lotnie, motolotnie, paraplany lot akrobacyjny 150 m śmigłowce manewrowanie z uwzględnieniem wpływu ziemi 230 m kategoria I statków powietrznych prezentacja w locie 150 m kategoria II statków powietrznych lub kategoria III statków powietrznych prezentacja w locie 100 m ultralekkie statki powietrzne, szybowce, lotnie, motolotnie, paraplany prezentacja w locie 50 m dla statków powietrznych o masie własnej łącznie z paliwem nieprzekraczających 70 kg manewrowanie przy ziemi 50 m spadochrony skok
+* W przypadku wykonywania lotów grupowych odległość określona w pierwszej kolumnie dotyczy statku powietrznego znajdującego się najbliżej publiczności.
 
 ## Załącznik nr 3 — – Minimalne odległości między osią drogi startowej a granicą strefy dla publiczności przy starcie i lądowaniu podczas pokazu lotniczego
 
@@ -807,7 +814,8 @@ Minimalna odległość między osią drogi startowej a granicą strefy dla publi
 
 ## Załącznik nr 4 — – Minimalne warunki atmosferyczne dla statków powietrznych biorących udział w pokazie lotniczym
 
-Rodzaj statku powietrznego Rodzaj wykonywanego lotu Minimalne warunki atmosferyczne podstawa chmur (zachmurzenie ≥ 4/8) widzialność (m) (km) Statki powietrzne o masie własnej łącznie z paliwem nieprzekraczające 70 kg, lotnie, motolotnie, paraplany loty podczas pokazu lotniczego pojedyncze statki 150 2,0 formacje 200 3,0 Śmigłowce, wiatrakowce i inne statki powietrzne o prędkości przeciągnięcia poniżej 95 km/h (50 kt) loty podczas pokazu lotniczego z wyłączeniem lotów akrobacyjnych wykonywanych w pionie pojedyncze statki 200 3,0 formacje 200 3,0 loty akrobacyjne wykonywane w pionie pojedyncze statki 300 3,0 formacje 400 5,0 Inne statki powietrzne loty podczas pokazu lotniczego z wyłączeniem lotów akrobacyjnych wykonywanych w pionie pojedyncze statki 300 3,0 formacje 300 5,0 loty akrobacyjne wykonywane w pionie pojedyncze statki 500 5,0 formacje tłokowe i turbośmigłowe 500 5,0 formacje odrzutowe 1000 8,0 Uwaga: Minimalne warunki atmosferyczne dla statków powietrznych biorących udział w pokazie lotniczym mogą być podwyższone dla poszczególnych statków powietrznych, w zależności od ich charakterystyk, w szczególności ich osiągów lotniczo-technicznych zawartych w instrukcjach eksploatacji tych statków powietrznych.
+Rodzaj statku powietrznego Rodzaj wykonywanego lotu Minimalne warunki atmosferyczne podstawa chmur (zachmurzenie ≥ 4/8) widzialność (m) (km) Statki powietrzne o masie własnej łącznie z paliwem nieprzekraczające 70 kg, lotnie, motolotnie, paraplany loty podczas pokazu lotniczego pojedyncze statki 150 2,0 formacje 200 3,0 Śmigłowce, wiatrakowce i inne statki powietrzne o prędkości przeciągnięcia poniżej 95 km/h (50 kt) loty podczas pokazu lotniczego z wyłączeniem lotów akrobacyjnych wykonywanych w pionie pojedyncze statki 200 3,0 formacje 200 3,0 loty akrobacyjne wykonywane w pionie pojedyncze statki 300 3,0 formacje 400 5,0 Inne statki powietrzne loty podczas pokazu lotniczego z wyłączeniem lotów akrobacyjnych wykonywanych w pionie pojedyncze statki 300 3,0 formacje 300 5,0 loty akrobacyjne wykonywane w pionie pojedyncze statki 500 5,0 formacje tłokowe i turbośmigłowe 500 5,0 formacje odrzutowe 1000 8,0
+Uwaga: Minimalne warunki atmosferyczne dla statków powietrznych biorących udział w pokazie lotniczym mogą być podwyższone dla poszczególnych statków powietrznych, w zależności od ich charakterystyk, w szczególności ich osiągów lotniczo-technicznych zawartych w instrukcjach eksploatacji tych statków powietrznych.
 
 ## Załącznik nr 5 — – Minimalna odległość linii pokazu lotniczego od strefy dla publiczności dla modeli latających oraz bezzałogowych statków powietrznych
 

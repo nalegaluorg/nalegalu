@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 23 listopada 2022 r. w sprawie wykroczeń, za które inspektorzy Inspekcji Transportu Drogowego oraz pracownicy Głównego Inspektoratu Transportu Drogowego są uprawnieni do nakładania grzywien w drodze mandatu karnego
+# Rozporządzenie Ministra Infrastrukturyz dnia 23 listopada 2022 r. w sprawie wykroczeń, za które inspektorzy Inspekcji Transportu Drogowego oraz pracownicy Głównego Inspektoratu Transportu Drogowego są uprawnieni do nakładania grzywien w drodze mandatu karnego Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-23 |
 | Data wydania | 2022-11-30 |
-| Wejście w życie | 2022-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002467) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2467/text.pdf) |
 
@@ -80,6 +79,5 @@ podpis (faksymile) oraz pieczęć albo odwzorowanie pieczęci organu wydającego
 § 5.
 Traci moc rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 18 kwietnia 2012 r. w sprawie wykroczeń, za które inspektorzy Inspekcji Transportu Drogowego są uprawnieni do nakładania grzywien w drodze mandatu karnego (Dz. U. poz. 635).
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 grudnia 2022 r.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
+Rozporządzenie wchodzi w życie z dniem 1 grudnia 2022 r. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 

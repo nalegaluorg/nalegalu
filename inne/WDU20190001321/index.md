@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 25 czerwca 2019 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej komorników sądowych
+# Rozporządzenie Ministra Finansówz dnia 25 czerwca 2019 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej komorników sądowych Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-25 |
 | Data wydania | 2019-07-16 |
-| Wejście w życie | 2019-08-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001321) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1321/text.pdf) |
 
@@ -60,6 +59,5 @@ Przepisy rozporządzenia stosuje się do umów ubezpieczenia OC zawartych od dni
 2.
 Umowy ubezpieczenia OC zawarte na podstawie dotychczasowych przepisów obowiązują do końca okresu, na jaki zostały zawarte, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie rozporządzenia.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 24 grudnia 2003 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej komorników sądowych (Dz. U. poz. 2326), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 300 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244 oraz z 2019 r. poz. 55 i 730).
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 24 grudnia 2003 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej komorników sądowych (Dz. U. poz. 2326), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 300 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244 oraz z 2019 r. poz. 55 i 730). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 24 grudnia 2003 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej komorników sądowych (Dz. U. poz. 2326), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 300 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244 oraz z 2019 r. poz. 55 i 730).
 

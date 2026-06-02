@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Funduszy i Polityki Regionalnejz dnia 20 lipca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020
+# Obwieszczenie Ministra Funduszy i Polityki Regionalnejz dnia 20 lipca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020 Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
 
 | Pole | Wartość |
 |---|---|
@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001756) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1756/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 13 lipca 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020 Rozdział 1 – Przepisy ogólne Rozdział 2 – Pomoc finansowa na przeprowadzenie programu inkubacji innowacyjnych przedsiębiorstw typu startup Rozdział 3 – Pomoc dla przedsiębiorców rozpoczynających działalność Rozdział 4 – Regionalna pomoc inwestycyjna Rozdział 4a – Pomoc na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną Rozdział 5 – Pomoc na usługi doradcze na rzecz MŚP Rozdział 6 – Pomoc dla MŚP na wspieranie innowacyjności Rozdział 7 – Pomoc na udział MŚP w targach Rozdział 8 – Pomoc szkoleniowa Rozdział 9 – Pomoc de minimis Rozdział 10 – Tryb udzielania pomocy finansowej Rozdział 11 – Przepis końcowy
+Załącznik – Tekst jednolity rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 13 lipca 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 13 lipca 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020 (Dz. U. z 2020 r. poz. 126), z uwzględnieniem zmian wprowadzonych:
@@ -37,25 +37,21 @@ rozporządzeniem Ministra Funduszy i Polityki Regionalnej z dnia 20 grudnia 2021
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 12 maja 2021 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020 (Dz. U. poz. 958), który stanowi:
-„
+§ 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 12 maja 2021 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020 (Dz. U. poz. 958), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 20 grudnia 2021 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020 (Dz. U. poz. 2425), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 20 grudnia 2021 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020 (Dz. U. poz. 2425), które stanowią: „
 § 2.
 1.
 Do umów o udzielenie pomocy finansowej zawartych przed dniem 1 stycznia 2022 r. stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 2.
 Do umów o udzielenie pomocy finansowej zawieranych od dnia 1 stycznia 2022 r. na podstawie wniosków o udzielenie pomocy finansowej złożonych w konkursach ogłoszonych przed dniem 1 stycznia 2022 r. stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, jednakże maksymalna intensywność regionalnej pomocy inwestycyjnej nie może być wyższa niż określona zgodnie z obowiązującym w dniu ogłoszenia konkursu rozporządzeniem Rady Ministrów z dnia 30 czerwca 2014 r. w sprawie ustalenia mapy pomocy regionalnej na lata 2014–2021 (Dz. U. z 2021 r. poz. 1639).
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-” .
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
-Załącznik – Tekst jednolity rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 13 lipca 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020
-Na podstawie art. 6b ust. 10a ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2020 r. poz. 299 oraz z 2022 r. poz. 807 i 1079) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. ” . 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
+Załącznik – Tekst jednolity rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 13 lipca 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). Zgodnie z art. 9 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Polska Wschodnia 2014–2020.
+Tekst Programu Operacyjnego Polska Wschodnia 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej nr C(2014) 10026 z dnia 16 grudnia 2014 r., przyjmującą niektóre elementy programu operacyjnego „Polska Wschodnia” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia” w Polsce i przyjęty uchwałą Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia Programu Operacyjnego Polska Wschodnia 2014–2020. Na podstawie art. 6b ust. 10a ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2020 r. poz. 299 oraz z 2022 r. poz. 807 i 1079) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości, zwaną dalej „Agencją”, pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia dla następujących działań i poddziałań Programu Operacyjnego Polska Wschodnia 2014–2020:
 1)
@@ -78,16 +74,16 @@ b)
 Pomoc finansowa, o której mowa w § 1, w tym pomoc publiczna i pomoc de minimis , jest udzielana w formie bezzwrotnego wsparcia finansowego, z wyjątkiem pomocy publicznej, o której mowa w rozdziale 4, która jest udzielana w formie bezzwrotnego wsparcia finansowego albo pożyczki.
 § 3.
 1.
-Pomoc publiczna jest udzielana na zasadach określonych w rozporządzeniu Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem nr 651/2014”.
+Pomoc publiczna jest udzielana na zasadach określonych w rozporządzeniu Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39.), zwanym dalej „rozporządzeniem nr 651/2014”.
 2.
-Pomoc de minimis jest udzielana na zasadach określonych w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem nr 1407/2013”.
+Pomoc de minimis jest udzielana na zasadach określonych w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3.), zwanym dalej „rozporządzeniem nr 1407/2013”.
 § 4.
 1.
 Pomoc publiczna nie może być udzielona w przypadkach wskazanych w art. 1 ust. 2, ust. 3 lit. a-d i ust. 5 rozporządzenia nr 651/2014.
 2.
 Pomoc de minimis nie może być udzielona w przypadkach wskazanych w art. 1 ust. 1 rozporządzenia nr 1407/2013.
 3.
-Pomoc finansowa nie może być udzielona w przypadkach, o których mowa w art. 3 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1301/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i przepisów szczególnych dotyczących celu „Inwestycje na rzecz wzrostu i zatrudnienia” oraz w sprawie uchylenia rozporządzenia (WE) nr 1080/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 289, z późn. zm.).
+Pomoc finansowa nie może być udzielona w przypadkach, o których mowa w art. 3 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1301/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i przepisów szczególnych dotyczących celu „Inwestycje na rzecz wzrostu i zatrudnienia” oraz w sprawie uchylenia rozporządzenia (WE) nr 1080/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 289, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 330 z 03.12.2016, str. 12, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5 oraz Dz. Urz. UE L 130 z 24.04.2020, str. 1.).
 4.
 Pomoc finansowa nie może być udzielona na działalność w zakresie:
 1)
@@ -183,11 +179,12 @@ Wartość dopuszczalnej pomocy de minimis udzielanej jednemu przedsiębiorcy ust
 Pomoc de minimis podlega kumulacji z zachowaniem warunków określonych w art. 5 rozporządzenia nr 1407/2013.
 § 11.
 Pomoc publiczna podlega indywidualnej notyfikacji Komisji Europejskiej, jeżeli jej wartość przekroczy progi określone w art. 4 rozporządzenia nr 651/2014.
-§ 12.
+§ 12W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 20 grudnia 2021 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020 (Dz. U. poz. 2425), które weszło w życie z dniem 1 stycznia 2022 r..
 1.
 Pomoc finansowa, o której mowa w rozdziale 2, pomoc de minimis oraz pomoc publiczna są udzielane do dnia 31 grudnia 2023 r.
 2.
 Regionalna pomoc inwestycyjna jest udzielana zgodnie z mapą pomocy regionalnej na lata 2022–2027, określoną w przepisach wydanych na podstawie art. 10 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743 oraz z 2022 r. poz. 807).
+Pomoc finansowa na przeprowadzenie programu inkubacji innowacyjnych przedsiębiorstw typu startup
 § 13.
 1.
 Pomoc finansowa udzielana jest ośrodkom innowacji z przeznaczeniem na przeprowadzenie oceny pomysłów biznesowych i programu inkubacji innowacyjnych przedsiębiorstw typu startup w Polsce Wschodniej.
@@ -209,6 +206,7 @@ indywidualne wsparcie rozwoju innowacyjnych pomysłów biznesowych przedsiębior
 Pomoc finansowa, o której mowa w § 13 ust. 1, może być udzielona na pokrycie do 100% kosztów kwalifikowalnych.
 § 15.
 Wsparcie, o którym mowa w § 13 ust. 3 pkt 3, stanowi pomoc de minimis dla tych przedsiębiorstw.
+Pomoc dla przedsiębiorców rozpoczynających działalność
 § 16.
 Pomoc dla przedsiębiorców rozpoczynających działalność udzielana jest przedsiębiorcom z przeznaczeniem na wdrożenie innowacyjnych pomysłów biznesowych oraz rozwój działalności gospodarczej tych przedsiębiorców, pod warunkiem skorzystania ze wsparcia, o którym mowa w § 13 ust. 3 pkt 3, oraz uzyskania rekomendacji ośrodka innowacji.
 § 17.
@@ -218,6 +216,7 @@ Za przedsiębiorców kwalifikujących się do otrzymania pomocy uznaje się prze
 Pomoc udzielana jest w formie dotacji do wysokości 800 000 euro.
 2.
 Maksymalna intensywność pomocy wynosi 85% kosztów kwalifikowalnych.
+Regionalna pomoc inwestycyjna
 § 19.
 Regionalna pomoc inwestycyjna udzielana jest na inwestycję początkową.
 § 20.
@@ -255,12 +254,13 @@ W przypadku przejęcia aktywów zakładu są uwzględniane wyłącznie koszty za
 4.
 W przypadku pomocy przyznanej na dywersyfikację istniejącego zakładu koszty kwalifikowalne muszą przekroczyć o co najmniej 200% wartość księgową ponownie wykorzystywanych aktywów, odnotowaną w roku obrotowym poprzedzającym rozpoczęcie prac.
 § 22.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6..
 Maksymalną intensywność regionalnej pomocy inwestycyjnej na pokrycie kosztów kwalifikowalnych określa się zgodnie z maksymalną intensywnością pomocy regionalnej dla małych lub średnich przedsiębiorców wskazaną w mapie pomocy regionalnej na lata 2022–2027, określonej w przepisach wydanych na podstawie art. 10 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
 2.
 Maksymalną wielkość regionalnej pomocy inwestycyjnej oblicza się, uwzględniając warunki określone w art. 14 ust. 12–14 rozporządzenia nr 651/2014.
 § 23.
 Przedsiębiorca, zawierając umowę, zobowiązuje się do utrzymania inwestycji na zasadach określonych w art. 14 ust. 5 rozporządzenia nr 651/2014.
+Pomoc na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną
 § 23a.
 Pomoc na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną jest udzielana na inwestycje w zakresie:
 1)
@@ -293,6 +293,7 @@ Wartość kosztów kwalifikowalnych, o których mowa w ust. 1 pkt 1, nie może p
 Wartość dopuszczalnej pomocy ustala się zgodnie z art. 55 ust. 10 rozporządzenia nr 651/2014.
 2.
 W przypadku pomocy nieprzekraczającej równowartości 2 mln euro wartość dopuszczalnej pomocy może zostać ustalona zgodnie z art. 55 ust. 12 rozporządzenia nr 651/2014.
+Pomoc na usługi doradcze na rzecz MŚP
 § 24.
 1.
 Do kosztów kwalifikowalnych w ramach pomocy na usługi doradcze na rzecz MŚP zalicza się koszty usług doradczych świadczonych przez doradców zewnętrznych.
@@ -300,6 +301,7 @@ Do kosztów kwalifikowalnych w ramach pomocy na usługi doradcze na rzecz MŚP z
 Usługi, o których mowa w ust. 1, nie mogą mieć charakteru ciągłego ani okresowego oraz nie mogą być związane z bieżącą działalnością operacyjną MŚP, w szczególności w zakresie doradztwa podatkowego, stałej obsługi prawnej lub reklamy.
 § 25.
 Maksymalna intensywność pomocy wynosi 50% kosztów kwalifikowalnych.
+Pomoc dla MŚP na wspieranie innowacyjności
 § 26.
 Do kosztów kwalifikowalnych w ramach pomocy dla MŚP na wspieranie innowacyjności zalicza się koszty:
 1)
@@ -311,10 +313,12 @@ usług doradczych w zakresie innowacji i usług wsparcia innowacji.
 Maksymalna intensywność pomocy wynosi 50% kosztów kwalifikowalnych.
 2.
 W przypadku usług, o których mowa w § 26 pkt 2, intensywność pomocy może być zwiększona do 85% kosztów kwalifikowalnych, pod warunkiem że całkowita kwota pomocy na te usługi nie przekracza 200 000 euro na przedsiębiorcę w dowolnym trzyletnim okresie.
+Pomoc na udział MŚP w targach
 § 28.
 Do kosztów kwalifikowalnych w ramach pomocy na udział MŚP w targach zalicza się koszty wynajmu, budowy i obsługi stoiska wystawowego podczas uczestnictwa MŚP w danych targach lub danej wystawie.
 § 29.
 Maksymalna intensywność pomocy wynosi 50% kosztów kwalifikowalnych.
+Pomoc szkoleniowa
 § 30.
 Pomoc szkoleniowa nie może być udzielana na szkolenia, których obowiązek przeprowadzenia wynika z przepisów prawa.
 § 31.
@@ -331,8 +335,8 @@ Intensywność pomocy, o której mowa w ust. 1, zwiększa się o:
 1)
 10 punktów procentowych w przypadku pomocy na rzecz średniego przedsiębiorcy i 20 punktów procentowych w przypadku pomocy na rzecz mikroprzedsiębiorcy i małego przedsiębiorcy,
 2)
-10 punktów procentowych w przypadku usług szkoleniowych dla pracowników znajdujących się w szczególnie niekorzystnej sytuacji, o których mowa w art. 2 pkt 4 rozporządzenia nr 651/2014, lub pracowników niepełnosprawnych, o których mowa w art. 2 pkt 3 rozporządzenia nr 651/2014
-przy czym łącznie intensywność pomocy nie może przekroczyć 70% kosztów kwalifikowalnych.
+10 punktów procentowych w przypadku usług szkoleniowych dla pracowników znajdujących się w szczególnie niekorzystnej sytuacji, o których mowa w art. 2 pkt 4 rozporządzenia nr 651/2014, lub pracowników niepełnosprawnych, o których mowa w art. 2 pkt 3 rozporządzenia nr 651/2014 – przy czym łącznie intensywność pomocy nie może przekroczyć 70% kosztów kwalifikowalnych.
+Pomoc de minimis
 § 33.
 Do kosztów kwalifikowalnych w ramach pomocy de minimis zalicza się koszty:
 1)
@@ -352,11 +356,12 @@ nabycia środków trwałych, z wyłączeniem nieruchomości, lub wartości niema
 5)
 usług doradczych dotyczących opracowania nowego modelu biznesowego związanego z internacjonalizacją działalności MŚP;
 6)
-ustanowienia i utrzymania zabezpieczenia w formie, o której mowa w art. 131 ust. 4 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), dla zaliczki wypłaconej na rzecz MŚP;
+ustanowienia i utrzymania zabezpieczenia w formie, o której mowa w art. 131 ust. 4 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5, Dz. Urz. UE L 123 z 10.05.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5, Dz. Urz. UE L 130 z 24.04.2020, str. 1, Dz. Urz. UE L 231 z 17.07.2020, str. 4, Dz. Urz. UE L 356 z 26.10.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 30, Dz. Urz. UE L 109 z 08.04.2022, str. 1 oraz Dz. Urz. UE L 115 z 13.04.2022, str. 38.), dla zaliczki wypłaconej na rzecz MŚP;
 7)
 rezerwacji miejsca wystawowego na targach, opłaty rejestracyjnej za udział w targach oraz wpisu do katalogu targowego.
 § 34.
 Pomoc de minimis może być udzielona na pokrycie do 100% kosztów kwalifikowalnych.
+Tryb udzielania pomocy finansowej
 § 35.
 Agencja udziela pomocy finansowej w trybie konkursowym, o którym mowa w art. 38 ust. 1 pkt 1 ustawy o zasadach realizacji programów, z tym że w ogłoszeniu o konkursie Agencja dodatkowo określa:
 1)
@@ -368,33 +373,56 @@ rodzaje i wysokość kosztów kwalifikowalnych,
 4)
 intensywność pomocy,
 5)
-formę pomocy
-w ramach warunków określonych w rozporządzeniu.
+formę pomocy – w ramach warunków określonych w rozporządzeniu.
+Przepis końcowy
 § 36.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). Zgodnie z art. 9 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Polska Wschodnia 2014–2020. 2) Tekst Programu Operacyjnego Polska Wschodnia 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej nr C(2014) 10026 z dnia 16 grudnia 2014 r., przyjmującą niektóre elementy programu operacyjnego „Polska Wschodnia” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia” w Polsce i przyjęty uchwałą Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia Programu Operacyjnego Polska Wschodnia 2014–2020. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 4) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 330 z 03.12.2016, str. 12, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5 oraz Dz. Urz. UE L 130 z 24.04.2020, str. 1. 6) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 20 grudnia 2021 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020 (Dz. U. poz. 2425), które weszło w życie z dniem 1 stycznia 2022 r. 7) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6. 8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5, Dz. Urz. UE L 123 z 10.05.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5, Dz. Urz. UE L 130 z 24.04.2020, str. 1, Dz. Urz. UE L 231 z 17.07.2020, str. 4, Dz. Urz. UE L 356 z 26.10.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 30, Dz. Urz. UE L 109 z 08.04.2022, str. 1 oraz Dz. Urz. UE L 115 z 13.04.2022, str. 38. 9) Rozporządzenie zostało ogłoszone w dniu 20 lipca 2015 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 20 lipca 2015 r.. 1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). Zgodnie z art. 9 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Polska Wschodnia 2014–2020. 2) Tekst Programu Operacyjnego Polska Wschodnia 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej nr C(2014) 10026 z dnia 16 grudnia 2014 r., przyjmującą niektóre elementy programu operacyjnego „Polska Wschodnia” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia” w Polsce i przyjęty uchwałą Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia Programu Operacyjnego Polska Wschodnia 2014–2020. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 4) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 330 z 03.12.2016, str. 12, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5 oraz Dz. Urz. UE L 130 z 24.04.2020, str. 1. 6) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 20 grudnia 2021 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020 (Dz. U. poz. 2425), które weszło w życie z dniem 1 stycznia 2022 r. 7) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6. 8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5, Dz. Urz. UE L 123 z 10.05.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5, Dz. Urz. UE L 130 z 24.04.2020, str. 1, Dz. Urz. UE L 231 z 17.07.2020, str. 4, Dz. Urz. UE L 356 z 26.10.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 30, Dz. Urz. UE L 109 z 08.04.2022, str. 1 oraz Dz. Urz. UE L 115 z 13.04.2022, str. 38. 9) Rozporządzenie zostało ogłoszone w dniu 20 lipca 2015 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Pomoc finansowa na przeprowadzenie programu inkubacji innowacyjnych przedsiębiorstw typu startup
+#### Rozdział 2 – Pomoc finansowa na przeprowadzenie programu inkubacji innowacyjnych przedsiębiorstw typu startup
 
-#### Rozdział 3 Pomoc dla przedsiębiorców rozpoczynających działalność
+#### Rozdział 3 – Pomoc dla przedsiębiorców rozpoczynających działalność
 
-#### Rozdział 4 Regionalna pomoc inwestycyjna
+#### Rozdział 4 – Regionalna pomoc inwestycyjna
 
-#### Rozdział 4a Pomoc na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną
+#### Rozdział 4a – Pomoc na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną
 
-#### Rozdział 5 Pomoc na usługi doradcze na rzecz MŚP
+#### Rozdział 5 – Pomoc na usługi doradcze na rzecz MŚP
 
-#### Rozdział 6 Pomoc dla MŚP na wspieranie innowacyjności
+#### Rozdział 6 – Pomoc dla MŚP na wspieranie innowacyjności
 
-#### Rozdział 7 Pomoc na udział MŚP w targach
+#### Rozdział 7 – Pomoc na udział MŚP w targach
 
-#### Rozdział 8 Pomoc szkoleniowa
+#### Rozdział 8 – Pomoc szkoleniowa
 
-#### Rozdział 9 Pomoc de minimis
+#### Rozdział 9 – Pomoc de minimis
 
-#### Rozdział 10 Tryb udzielania pomocy finansowej
+#### Rozdział 10 – Tryb udzielania pomocy finansowej
 
-#### Rozdział 11 Przepis końcowy
+#### Rozdział 11 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 4a
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
+
+#### Rozdział 11
 

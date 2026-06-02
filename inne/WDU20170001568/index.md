@@ -22,36 +22,29 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-31 |
 | Data wydania | 2017-08-23 |
-| Wejście w życie | 2017-09-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001568) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1568/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 78a § 7 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2016 r. poz. 2062, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 78a § 7 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2016 r. poz. 2062, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 2103 i 2261 oraz z 2017 r. poz. 38, 60, 803, 1139 i 1452.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 7 maja 2008 r. w sprawie należności przysługujących sędziom delegowanym do pełnienia obowiązków lub funkcji poza granicami państwa (Dz. U. poz. 558 oraz z 2011 r. poz. 649) wprowadza się następujące zmiany:
 1)
 w § 2 w ust. 3 zdanie pierwsze otrzymuje brzmienie: „ Stawkę dodatku zagranicznego ustala się przy zastosowaniu wielokrotności dodatku zagranicznego bazowego od 2,0 do 5,0. ” ;
 2)
-w § 4 ust. 2 otrzymuje brzmienie:
-„
+w § 4 ust. 2 otrzymuje brzmienie: „
 2.
-Koszty przejazdów i dojazdów ustala się na podstawie przepisów wykonawczych wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60 i 962).
-” ;
+Koszty przejazdów i dojazdów ustala się na podstawie przepisów wykonawczych wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60 i 962). ” ;
 3)
 w § 11:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Jeżeli sędzia delegowany zamieszkuje w miejscu delegowania bez członków rodziny, suma podlegających zwrotowi miesięcznych wydatków, o których mowa w ust. 1, nie może przekraczać w pierwszym miesiącu delegacji wysokości 30-krotności, a w pozostałym okresie wysokości 12-krotności limitu na nocleg w hotelu w danym państwie, ustalonego na podstawie przepisów wykonawczych, o których mowa w § 4 ust. 2.
-” ,
+Jeżeli sędzia delegowany zamieszkuje w miejscu delegowania bez członków rodziny, suma podlegających zwrotowi miesięcznych wydatków, o których mowa w ust. 1, nie może przekraczać w pierwszym miesiącu delegacji wysokości 30-krotności, a w pozostałym okresie wysokości 12-krotności limitu na nocleg w hotelu w danym państwie, ustalonego na podstawie przepisów wykonawczych, o których mowa w § 4 ust. 2. ” ,
 b)
-po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
-Jeżeli sędzia delegowany zamieszkuje w miejscu delegowania wspólnie z członkami rodziny, suma podlegających zwrotowi miesięcznych wydatków, o których mowa w ust. 1, nie może przekraczać w pierwszym miesiącu delegacji wysokości 30-krotności, a w pozostałym okresie wysokości 18-krotności limitu na nocleg w hotelu w danym państwie, ustalonego na podstawie przepisów wykonawczych, o których mowa w § 4 ust. 2.
-” .
+Jeżeli sędzia delegowany zamieszkuje w miejscu delegowania wspólnie z członkami rodziny, suma podlegających zwrotowi miesięcznych wydatków, o których mowa w ust. 1, nie może przekraczać w pierwszym miesiącu delegacji wysokości 30-krotności, a w pozostałym okresie wysokości 18-krotności limitu na nocleg w hotelu w danym państwie, ustalonego na podstawie przepisów wykonawczych, o których mowa w § 4 ust. 2. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 2103 i 2261 oraz z 2017 r. poz. 38, 60, 803, 1139 i 1452.
 

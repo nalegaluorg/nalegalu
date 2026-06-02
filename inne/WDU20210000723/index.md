@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 6 kwietnia 2021 r. w sprawie przepisów porządkowych obowiązujących na obszarze kolejowym, w pociągach i innych pojazdach kolejowych oraz w pomieszczeniach przeznaczonych do obsługi podróżnych korzystających z transportu kolejowego na dworcach kolejowych
+# Rozporządzenie Ministra Infrastrukturyz dnia 6 kwietnia 2021 r. w sprawie przepisów porządkowych obowiązujących na obszarze kolejowym, w pociągach i innych pojazdach kolejowych oraz w pomieszczeniach przeznaczonych do obsługi podróżnych korzystających z transportu kolejowego na dworcach kolejowych Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257 oraz z 2020 r. poz. 1722, 1745, 1927 i 2006).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-06 |
 | Data wydania | 2021-04-20 |
-| Wejście w życie | 2021-05-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000723) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/723/text.pdf) |
 
@@ -158,6 +157,5 @@ Podmioty zarządzające dworcami kolejowymi oraz operatorzy stacji pasażerskich
 § 5.
 Traci moc rozporządzenie Ministra Infrastruktury z dnia 23 listopada 2004 r. w sprawie przepisów porządkowych obowiązujących na obszarze kolejowym, w pociągach i innych pojazdach kolejowych (Dz. U. z 2015 r. poz. 50 oraz z 2018 r. poz. 1884).
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257 oraz z 2020 r. poz. 1722, 1745, 1927 i 2006).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257 oraz z 2020 r. poz. 1722, 1745, 1927 i 2006).
 

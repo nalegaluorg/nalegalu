@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 19 lipca 2016 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz niektórych innych ustaw
+# Ustawa z dnia 19 lipca 2016 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się oraz ustawę z dnia 25 września 2015 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-19 |
 | Data wydania | 2016-08-25 |
-| Wejście w życie | 2016-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001336) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1336/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. poz. 721, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. poz. 721, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. poz. 1016, 1243, 1244 i 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645, z 2014 r. poz. 598, 877, 1198, 1457 i 1873, z 2015 r. poz. 218, 493, 1240, 1273, 1359, 1649 i 1886 oraz z 2016 r. poz. 195.) wprowadza się następujące zmiany:
 
 - **1)** w art. 33 po ust. 4a1dodaje się ust. 4a2wbrzmieniu: „ 4a2. Na równi z niezgodnym z ust. 4 przeznaczeniem środków funduszu rehabilitacji traktuje się nieprzekazanie środków na ten fundusz. Przepis ust. 4a stosuje się odpowiednio. ” ;
 - **2)** w art. 42: ust. 2 otrzymuje brzmienie: „
@@ -119,6 +118,6 @@ source: "eli-html"
 **Art. 4.** Ustawa wchodzi w życie z dniem 1 listopada 2016 r., z wyjątkiem:
 
 - **1)** art. 1 pkt 1 i 6 oraz art. 3, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia;
-- **2)** art. 2, który wchodzi w życie z dniem 1 grudnia 2016 r.
+- **2)** art. 2, który wchodzi w życie z dniem 1 grudnia 2016 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się oraz ustawę z dnia 25 września 2015 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. poz. 1016, 1243, 1244 i 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645, z 2014 r. poz. 598, 877, 1198, 1457 i 1873, z 2015 r. poz. 218, 493, 1240, 1273, 1359, 1649 i 1886 oraz z 2016 r. poz. 195.
 
 

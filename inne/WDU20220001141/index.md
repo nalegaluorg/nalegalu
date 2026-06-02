@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 27 maja 2022 r. zmieniające rozporządzenie w sprawie chorób zakaźnych powodujących powstanie obowiązku hospitalizacji
+# Rozporządzenie Ministra Zdrowiaz dnia 27 maja 2022 r. zmieniające rozporządzenie w sprawie chorób zakaźnych powodujących powstanie obowiązku hospitalizacji Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-27 |
 | Data wydania | 2022-05-30 |
-| Wejście w życie | 2022-05-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001141) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1141/text.pdf) |
 
@@ -35,14 +34,11 @@ w § 2 w pkt 2 po lit. h dodaje się lit. ha w brzmieniu: „ ha) ospę małpią
 2)
 w § 5:
 a)
-w ust. 1 po pkt 5 dodaje się pkt 5a w brzmieniu:
-„
+w ust. 1 po pkt 5 dodaje się pkt 5a w brzmieniu: „
 5a)
-ospę małpią;
-” ,
+ospę małpią; ” ,
 b)
 w ust. 2 w pkt 5 po wyrazach „ospy prawdziwej” dodaje się wyrazy „, ospy małpiej”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 

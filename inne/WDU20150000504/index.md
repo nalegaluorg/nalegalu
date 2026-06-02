@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-03-27 |
 | Data wydania | 2015-04-09 |
-| Wejście w życie | 2015-04-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000504) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/504/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Szczegółowy opis granic i obszar wolnego obszaru celnego na terenie Portu Lotniczego im. Fryderyka Chopina w Warszawie
 Treść rozporządzenia
-Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2013 r. poz. 727, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2013 r. poz. 727, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1149, z 2014 r. poz. 768 i 1662 oraz z 2015 r. poz. 211.) zarządza się, co następuje:
 § 1.
-Określa się, w załączniku do rozporządzenia, granice i obszar wolnego obszaru celnego na terenie Portu Lotniczego im. Fryderyka Chopina w Warszawie, ustanowionego rozporządzeniem Rady Ministrów z dnia 26 października 1992 r. w sprawie ustanowienia wolnego obszaru celnego na terenie Międzynarodowego Portu Lotniczego Warszawa-Okęcie (Dz. U. Nr 80, poz. 407, z późn. zm.).
+Określa się, w załączniku do rozporządzenia, granice i obszar wolnego obszaru celnego na terenie Portu Lotniczego im. Fryderyka Chopina w Warszawie, ustanowionego rozporządzeniem Rady Ministrów z dnia 26 października 1992 r. w sprawie ustanowienia wolnego obszaru celnego na terenie Międzynarodowego Portu Lotniczego Warszawa-Okęcie (Dz. U. Nr 80, poz. 407, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1993 r. Nr 95, poz. 432, z 2007 r. Nr 3, poz. 26, z 2010 r. Nr 2, poz. 5, z 2011 r. Nr 94, poz. 554 oraz z 2012 r. poz. 1274.).
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1149, z 2014 r. poz. 768 i 1662 oraz z 2015 r. poz. 211. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1993 r. Nr 95, poz. 432, z 2007 r. Nr 3, poz. 26, z 2010 r. Nr 2, poz. 5, z 2011 r. Nr 94, poz. 554 oraz z 2012 r. poz. 1274.
 Załącznik – Szczegółowy opis granic i obszar wolnego obszaru celnego na terenie Portu Lotniczego im. Fryderyka Chopina w Warszawie
 Wolny obszar celny jest zlokalizowany w budynku Terminalu Pasażerskiego Portu Lotniczego im. Fryderyka Chopina w Warszawie i stanowi strefę zamkniętą odcinkami ścian określonymi w poniższym opisie granicy wolnego obszaru celnego. Z uwagi na usytuowanie wewnątrz budynku, odgraniczenie wolnego obszaru celnego stanowią trwałe elementy budowlane. Opis przebiegu granic wolnego obszaru celnego jest przedstawiony na mapie w skali 1:5000. Dokument zawierający opis przebiegu granic wolnego obszaru celnego wraz z mapą jest przechowywany u zarządzającego wolnym obszarem celnym oraz w postaci kopii we właściwej miejscowo izbie celnej nadzorującej wolny obszar celny oraz w Ministerstwie Finansów. Granicę wolnego obszaru celnego na poziomie -5,6 w Terminalu A stanowią następujące odcinki ścian:
 1)
@@ -107,8 +106,7 @@ przestrzeń o szerokości 3,3 m w pomieszczeniu 0–160;
 35)
 dwa odcinki ściany o długości: 2,5 m i 28,7 m z dwoma otworami drzwiowymi, w pomieszczeniu 0–160;
 36)
-ściana o długości 3,4 m i przegroda o długości 3,2 m z otworem drzwiowym, w pomieszczeniu 0–159.
-Granicę wolnego obszaru celnego na poziomie +/- 0,0 stanowią następujące odcinki ścian:
+ściana o długości 3,4 m i przegroda o długości 3,2 m z otworem drzwiowym, w pomieszczeniu 0–159. Granicę wolnego obszaru celnego na poziomie +/- 0,0 stanowią następujące odcinki ścian:
 1)
 pięć odcinków ściany o długości: 14,2 m z otworem drzwiowym, 47,6 m, 0,9 m, 0,6 m i 8,5 m, w pomieszczeniach: 1–064, 1–065.5, 1–065.2, 1–065.3 i 1–065.4;
 2)
@@ -192,8 +190,7 @@ klatka schodowa 1–297 z otworem drzwiowym;
 41)
 dwa odcinki ściany o długości: 1,8 m i 2,5 m z otworem drzwiowym, w pomieszczeniu 1–302;
 42)
-trzy odcinki ściany, stanowiące obudowę szybu windowego 1–296.
-Granicę wolnego obszaru celnego na poziomie +5,3 w Terminalu A stanowią następujące odcinki ścian:
+trzy odcinki ściany, stanowiące obudowę szybu windowego 1–296. Granicę wolnego obszaru celnego na poziomie +5,3 w Terminalu A stanowią następujące odcinki ścian:
 1)
 ściana o długości 140,2 m, w pomieszczeniach: 2–345, 2–363, 2–364, 2–379 i 2–384;
 2)
@@ -329,8 +326,7 @@ cztery odcinki ściany o długości: 2,2 m, 4,8 m, 0,6 m i 3,2 m, w pomieszczeni
 67)
 dwa odcinki ściany o długości: 1,2 m i 4,1 m, w pomieszczeniu 2.635;
 68)
-ściana o długości 3,4 m z otworem drzwiowym, w pomieszczeniu 2.630.
-Granicę wolnego obszaru celnego na poziomie +9,7 w Terminalu A stanowią następujące odcinki ścian:
+ściana o długości 3,4 m z otworem drzwiowym, w pomieszczeniu 2.630. Granicę wolnego obszaru celnego na poziomie +9,7 w Terminalu A stanowią następujące odcinki ścian:
 1)
 balustrada o długości 4,2 m na kładce 3–090;
 2)
@@ -424,6 +420,5 @@ cztery odcinki balustrady o długości: 62,8 m wzdłuż pomieszczenia 3–068b, 
 46)
 balustrada o długości 3,4 m wzdłuż pomieszczenia 3–068b;
 47)
-ściana o długości 5,7 m z otworem drzwiowym i bramką, w pomieszczeniu 3–068b.
-Łączny obszar wolnego obszaru celnego wynosi 42 774 m2.
+ściana o długości 5,7 m z otworem drzwiowym i bramką, w pomieszczeniu 3–068b. Łączny obszar wolnego obszaru celnego wynosi 42 774 m2.
 

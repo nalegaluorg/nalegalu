@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-06-26 |
 | Data wydania | 2014-06-30 |
-| Wejście w życie | 2014-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000862) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/862/text.pdf) |
 
@@ -63,5 +62,5 @@ Osoby, które wniosły opłatę egzaminacyjną przed dniem wejścia w życie roz
 § 7.
 Wysokość wynagrodzenia egzaminatorów za przeprowadzenie egzaminu na przewodnika górskiego lub egzaminu ze znajomości języka obcego, który został rozpoczęty przed dniem wejścia w życie rozporządzenia, oblicza się na podstawie przepisów dotychczasowych.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sportu i Turystyki z dnia 4 marca 2011 r. w sprawie przewodników turystycznych i pilotów wycieczek (Dz. U. Nr 60, poz. 302), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 49 ust. 3 ustawy z dnia 13 czerwca 2013 r. o zmianie ustaw regulujących wykonywanie niektórych zawodów (Dz. U. poz. 829). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sportu i Turystyki z dnia 4 marca 2011 r. w sprawie przewodników turystycznych i pilotów wycieczek (Dz. U. Nr 60, poz. 302), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 49 ust. 3 ustawy z dnia 13 czerwca 2013 r. o zmianie ustaw regulujących wykonywanie niektórych zawodów (Dz. U. poz. 829).
 

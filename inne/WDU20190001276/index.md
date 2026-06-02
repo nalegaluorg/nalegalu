@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 lipca 2001 r. o utworzeniu Akademii Techniczno-Humanistycznej w Bielsku-Białej (Dz. U. Nr 101, poz. 1088), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 czerwca 2019 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi: „
 
 **Art. 350.** Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem:
 
@@ -47,9 +46,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Akademia jest uczelnią państwową.
 
-**Art. 2.** Podstawowym kierunkiem działalności Akademii jest kształcenie oraz prowadzenie badań naukowych w zakresie nauk humanistycznych, ekonomicznych i technicznych.
-
-**Art. 3.** Nadzór nad Akademią sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki.
+**Art. 2.** Podstawowym kierunkiem działalności Akademii jest kształcenie oraz prowadzenie badań naukowych w zakresie nauk humanistycznych, ekonomicznych i technicznych. Art. 3W brzmieniu ustalonym przez art. 63 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r.. Nadzór nad Akademią sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki.
 
 **Art. 4.**
 
@@ -86,5 +83,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Do dnia 31 grudnia 2001 r. zostaną przeprowadzone wybory do Senatu Akademii oraz wybory dziekanów i rad wydziałów w trybie i na okres ustalony w statucie Akademii.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 20 września 2001 r.. 1) W brzmieniu ustalonym przez art. 63 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r. 2) Ustawa została ogłoszona w dniu 20 września 2001 r.
 

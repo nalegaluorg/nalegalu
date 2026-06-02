@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 6 maja 2005 r. o zmianie ustawy o Państwowej Straży Pożarnej
+# Ustawa z dnia 6 maja 2005 r. o zmianie ustawy o Państwowej Straży Pożarnej Niniejszą ustawą zmienia się ustawę z dnia 31 marca 1965 r. o wyższym szkolnictwie wojskowym i ustawę z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-05-06 |
 | Data wydania | 2005-06-08 |
-| Wejście w życie | 2005-07-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051000836) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/836/text.pdf) |
 
+Wykonywanie zadań poza granicami państwa
 1.
 Strażak może zostać delegowany, za jego pisemną zgodą, do pełnienia służby poza granicą państwa w grupie ratowniczej utworzonej do udziału w:
 1)
@@ -101,8 +101,7 @@ podległości służbowej członków grupy ratowniczej,
 4)
 składu i wewnętrznej struktury grupy ratowniczej,
 5)
-przewozu członków i wyposażenia grupy ratowniczej
-kierując się potrzebą zapewnienia skutecznej realizacji zadań grup ratowniczych poza granicą państwa.
+przewozu członków i wyposażenia grupy ratowniczej – kierując się potrzebą zapewnienia skutecznej realizacji zadań grup ratowniczych poza granicą państwa.
 Wydatki związane z udziałem grup ratowniczych w działaniach ratowniczych, akcji poszukiwawczo-ratowniczej lub akcji humanitarnej, szkoleniu i ćwiczeniach ratowniczych poza granicą państwa są pokrywane z budżetu państwa, w części, której dysponentem jest minister właściwy do spraw wewnętrznych.
 1.
 Przepisy art. 49c ust. 3 i 4 oraz art. 49d-49g stosuje się odpowiednio do strażaków, o których mowa w art. 49b ust. 2.
@@ -111,27 +110,21 @@ Przepisów niniejszego rozdziału nie stosuje się do strażaków:
 1)
 o których mowa w art. 28a ust. 2 oraz w art. 106 ust. 1,
 2)
-wchodzących w skład służby zagranicznej w rozumieniu ustawy z dnia 27 lipca 2001 r. o służbie zagranicznej (Dz. U. Nr 128, poz. 1403 oraz z 2004 r. Nr 273, poz. 2703).
-” ;
+wchodzących w skład służby zagranicznej w rozumieniu ustawy z dnia 27 lipca 2001 r. o służbie zagranicznej (Dz. U. Nr 128, poz. 1403 oraz z 2004 r. Nr 273, poz. 2703). ” ;
 30)
 w art. 51 w ust. 3:
 a)
-po pkt 3 dodaje się pkt 3a w brzmieniu:
-„
+po pkt 3 dodaje się pkt 3a w brzmieniu: „
 3a)
-w Centralnym Muzeum Pożarnictwa – dyrektor muzeum,
-” ,
+w Centralnym Muzeum Pożarnictwa – dyrektor muzeum, ” ,
 b)
-pkt 4 otrzymuje brzmienie:
-„
+pkt 4 otrzymuje brzmienie: „
 4)
-w pozostałych jednostkach organizacyjnych i Wojskowej Ochronie Przeciwpożarowej – komendanci wojewódzcy.
-” ;
+w pozostałych jednostkach organizacyjnych i Wojskowej Ochronie Przeciwpożarowej – komendanci wojewódzcy. ” ;
 31)
-art. 52 otrzymuje brzmienie:
-„
+art. 52 otrzymuje brzmienie: „
 
-**Art. 1.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2002 r. Nr 147, poz. 1230, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2002 r. Nr 147, poz. 1230, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 59, poz. 516 i Nr 166, poz. 1609 oraz z 2004 r. Nr 210, poz. 2135 i Nr 273, poz. 2703.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w ust. 2 po pkt 7 kropkę zastępuje się przecinkiem i dodaje się pkt 8 i 9 w brzmieniu: „
 - **8)** współdziałanie ze strażami pożarnymi i służbami ratowniczymi innych państw oraz ich organizacjami międzynarodowymi na podstawie wiążących Rzeczpospolitą Polską umów międzynarodowych oraz odrębnych przepisów,
@@ -162,8 +155,29 @@ art. 52 otrzymuje brzmienie:
 - **2)** metody utrzymywania sprawności technicznej sprzętu transportowego,
 - **3)** sposoby uznawania sprzętu transportowego za zbędny oraz zagospodarowania tego sprzętu,
 - **4)** sposób rozliczania zużycia paliw. ” ;
-- **4)** w art. 10: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) kierowanie krajowym systemem ratowniczo-gaśniczym, a w szczególności: a) dysponowanie podmiotami krajowego systemu ratowniczo-gaśniczego na obszarze kraju poprzez swoje stanowisko kierowania, b) ustalanie zbiorczego planu sieci podmiotów krajowego systemu ratowniczo-gaśniczego, c) ustalanie planu rozmieszczania na obszarze kraju sprzętu specjalistycznego w ramach krajowego systemu ratowniczo-gaśniczego, d) dysponowanie odwodami operacyjnymi i kierowanie ich siłami, e) dowodzenie działaniami ratowniczymi, których rozmiary lub zasięg przekraczają możliwości sił ratowniczych województwa, f) organizowanie centralnego odwodu operacyjnego oraz przeprowadzanie inspekcji gotowości operacyjnej podmiotów krajowego systemu ratowniczo-gaśniczego, których siły i środki tworzą centralny odwód operacyjny, g) analizowanie działań ratowniczych prowadzonych przez podmioty krajowego systemu ratowniczo-gaśniczego, h) ustalanie sposobu przeprowadzania inspekcji gotowości operacyjnej podmiotów krajowego systemu ratowniczo-gaśniczego. ” , – pkt 5 otrzymuje brzmienie: „ 5) organizowanie kształcenia, szkolenia i doskonalenia zawodowego w jednostkach organizacyjnych Państwowej Straży Pożarnej, ” , – po pkt 5 dodaje się pkt 5a-5c w brzmieniu: „ 5a) uzgadnianie z komendantami szkół Państwowej Straży Pożarnej programów nauczania dla zawodów inżynier pożarnictwa i technik pożarnictwa, 5b) opracowywanie i zatwierdzanie programów szkolenia i doskonalenia zawodowego oraz sprawowanie nadzoru w zakresie dydaktycznym nad ich realizacją, 5c) nadzór nad przestrzeganiem bezpieczeństwa i higieny służby w Państwowej Straży Pożarnej, ” , – pkt 11 otrzymuje brzmienie: „ 11) prowadzenie współpracy międzynarodowej, udział w przygotowywaniu i wykonywaniu umów międzynarodowych w zakresie określonym w ustawach i w tych umowach oraz kierowanie jednostek organizacyjnych Państwowej Straży Pożarnej do akcji ratowniczych i humanitarnych poza granicę państwa, na podstawie wiążących Rzeczpospolitą Polską umów międzynarodowych, ” , – dodaje się pkt 12–16 w brzmieniu: „ 12) wprowadzanie podwyższonej gotowości operacyjnej w Państwowej Straży Pożarnej w sytuacji zwiększonego prawdopodobieństwa katastrofy naturalnej lub awarii technicznej, których skutki mogą zagrozić życiu lub zdrowiu dużej liczby osób, mieniu w wielkich rozmiarach albo środowisku na znacznych obszarach, oraz w przypadku wystąpienia i utrzymywania się wzmożonego zagrożenia pożarowego, 13) organizowanie krajowych oraz międzynarodowych ćwiczeń ratowniczych, 14) ustalanie ramowego regulaminu służby w jednostkach organizacyjnych Państwowej Straży Pożarnej oraz regulaminu musztry i ceremoniału pożarniczego, 15) organizowanie działalności sportowej i ustalanie regulaminów sportowych zawodów pożarniczych oraz innych zawodów dla strażaków, 16) realizowanie zadań, wynikających z innych ustaw. ” , po ust. 4 dodaje się ust. 5 i 6 w brzmieniu: „
+- **4)** w art. 10: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** kierowanie krajowym systemem ratowniczo-gaśniczym, a w szczególności: dysponowanie podmiotami krajowego systemu ratowniczo-gaśniczego na obszarze kraju poprzez swoje stanowisko kierowania, ustalanie zbiorczego planu sieci podmiotów krajowego systemu ratowniczo-gaśniczego, ustalanie planu rozmieszczania na obszarze kraju sprzętu specjalistycznego w ramach krajowego systemu ratowniczo-gaśniczego, dysponowanie odwodami operacyjnymi i kierowanie ich siłami, dowodzenie działaniami ratowniczymi, których rozmiary lub zasięg przekraczają możliwości sił ratowniczych województwa, organizowanie centralnego odwodu operacyjnego oraz przeprowadzanie inspekcji gotowości operacyjnej podmiotów krajowego systemu ratowniczo-gaśniczego, których siły i środki tworzą centralny odwód operacyjny, analizowanie działań ratowniczych prowadzonych przez podmioty krajowego systemu ratowniczo-gaśniczego, ustalanie sposobu przeprowadzania inspekcji gotowości operacyjnej podmiotów krajowego systemu ratowniczo-gaśniczego. ” , pkt 5 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+
+- **5)** organizowanie kształcenia, szkolenia i doskonalenia zawodowego w jednostkach organizacyjnych Państwowej Straży Pożarnej, ” , po pkt 5 dodaje się pkt 5a-5c w brzmieniu: „
+- **5a)** uzgadnianie z komendantami szkół Państwowej Straży Pożarnej programów nauczania dla zawodów inżynier pożarnictwa i technik pożarnictwa,
+- **5b)** opracowywanie i zatwierdzanie programów szkolenia i doskonalenia zawodowego oraz sprawowanie nadzoru w zakresie dydaktycznym nad ich realizacją,
+- **5c)** nadzór nad przestrzeganiem bezpieczeństwa i higieny służby w Państwowej Straży Pożarnej, ” , pkt 11 otrzymuje brzmienie: „
+- **11)** prowadzenie współpracy międzynarodowej, udział w przygotowywaniu i wykonywaniu umów międzynarodowych w zakresie określonym w ustawach i w tych umowach oraz kierowanie jednostek organizacyjnych Państwowej Straży Pożarnej do akcji ratowniczych i humanitarnych poza granicę państwa, na podstawie wiążących Rzeczpospolitą Polską umów międzynarodowych, ” , dodaje się pkt 12–16 w brzmieniu: „
+- **12)** wprowadzanie podwyższonej gotowości operacyjnej w Państwowej Straży Pożarnej w sytuacji zwiększonego prawdopodobieństwa katastrofy naturalnej lub awarii technicznej, których skutki mogą zagrozić życiu lub zdrowiu dużej liczby osób, mieniu w wielkich rozmiarach albo środowisku na znacznych obszarach, oraz w przypadku wystąpienia i utrzymywania się wzmożonego zagrożenia pożarowego,
+- **13)** organizowanie krajowych oraz międzynarodowych ćwiczeń ratowniczych,
+- **14)** ustalanie ramowego regulaminu służby w jednostkach organizacyjnych Państwowej Straży Pożarnej oraz regulaminu musztry i ceremoniału pożarniczego,
+- **15)** organizowanie działalności sportowej i ustalanie regulaminów sportowych zawodów pożarniczych oraz innych zawodów dla strażaków,
+- **16)** realizowanie zadań, wynikających z innych ustaw. ” , po ust. 4 dodaje się ust. 5 i 6 w brzmieniu: „
     - **b)**
 
 5. Komendant Główny Państwowej Straży Pożarnej ustali, w drodze zarządzenia, sposób przeprowadzania inspekcji gotowości operacyjnej podmiotów krajowego systemu ratowniczo-gaśniczego.
@@ -205,7 +219,7 @@ art. 52 otrzymuje brzmienie:
 
 **Art. 13.**
 
-1. Komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej powołuje spośród oficerów Państwowej Straży Pożarnej komendant wojewódzki Państwowej Straży Pożarnej w porozumieniu ze starostą. Przepisu art. 35 ust. 3 pkt 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2001 r. Nr 142, poz. 1592, z późn. zm.) nie stosuje się.
+1. Komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej powołuje spośród oficerów Państwowej Straży Pożarnej komendant wojewódzki Państwowej Straży Pożarnej w porozumieniu ze starostą. Przepisu art. 35 ust. 3 pkt 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2001 r. Nr 142, poz. 1592, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984, Nr 153, poz. 1271, Nr 200, poz. 1688 i Nr 214, poz. 1806, z 2003 r. Nr 162, poz. 1568 oraz z 2004 r. Nr 102, poz. 1055 i Nr 167, poz. 1759.) nie stosuje się.
 
 2. W razie niezajęcia stanowiska lub niezaakceptowania zgłoszonej kandydatury na stanowisko komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej, w terminie 30 dni od dnia jej przedstawienia staroście, przedstawia się niezwłocznie kolejną kandydaturę. W przypadku braku porozumienia w stosunku do tej kandydatury w terminie 14 dni od dnia jej przedstawienia staroście, na stanowisko komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej komendant wojewódzki Państwowej Straży Pożarnej powołuje wskazanego przez wojewodę oficera Państwowej Straży Pożarnej.
 
@@ -263,9 +277,9 @@ art. 52 otrzymuje brzmienie:
 
 **Art. 18.**
 
-1. Organizację i zakres działania jednostki badawczo-rozwojowej Państwowej Straży Pożarnej oraz tryb powoływania i odwoływania dyrektora i jego zastępców reguluje ustawa z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz. U. z 2001 r. Nr 33, poz. 388, z późn. zm.).
+1. Organizację i zakres działania jednostki badawczo-rozwojowej Państwowej Straży Pożarnej oraz tryb powoływania i odwoływania dyrektora i jego zastępców reguluje ustawa z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz. U. z 2001 r. Nr 33, poz. 388, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676, Nr 113, poz. 984, Nr 153, poz. 1271, Nr 200, poz. 1683 i Nr 240, poz. 2052 oraz z 2004 r. Nr 238, poz. 2390.).
 
-2. Organizację i zakres działania oraz tryb powoływania i odwoływania dyrektora Centralnego Muzeum Pożarnictwa regulują ustawa z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2001 r. Nr 13, poz. 123, z późn. zm.) oraz ustawa z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 1997 r. Nr 5, poz. 24, z późn. zm.). ” ;
+2. Organizację i zakres działania oraz tryb powoływania i odwoływania dyrektora Centralnego Muzeum Pożarnictwa regulują ustawa z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2001 r. Nr 13, poz. 123, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 41, poz. 364, z 2003 r. Nr 96, poz. 874, Nr 162, poz. 1568 i Nr 213, poz. 2081 oraz z 2004 r. Nr 11, poz. 96 i Nr 261, poz. 2598.) oraz ustawa z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 1997 r. Nr 5, poz. 24, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 162, poz. 1568 oraz z 2005 r. Nr 64, poz. 565.). ” ;
 
 - **10)** tytuł rozdziału 4 otrzymuje brzmienie: „ Czynności kontrolno-rozpoznawcze ” ;
 - **11)** art. 23 otrzymuje brzmienie: „
@@ -277,7 +291,7 @@ art. 52 otrzymuje brzmienie:
 2. Czynności kontrolno-rozpoznawcze są przeprowadzane na podstawie:
 
 - **1)** rocznego planu czynności kontrolno-rozpoznawczych,
-- **2)** zgłoszenia zakładu o zwiększonym albo dużym ryzyku wystąpienia awarii przemysłowej, o którym mowa w art. 250 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. Nr 62, poz. 627, z późn. zm.),
+- **2)** zgłoszenia zakładu o zwiększonym albo dużym ryzyku wystąpienia awarii przemysłowej, o którym mowa w art. 250 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. Nr 62, poz. 627, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, z 2002 r. Nr 74, poz. 676, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 233, poz. 1957, z 2003 r. Nr 46, poz. 392, Nr 80, poz. 717 i 721, Nr 162, poz. 1568, Nr 175, poz. 1693, Nr 190, poz. 1865 i Nr 217, poz. 2124, z 2004 r. Nr 19, poz. 177, Nr 49, poz. 464, Nr 70, poz. 631, Nr 91, poz. 875, Nr 92, poz. 880, Nr 96, poz. 959, Nr 121, poz. 1263, Nr 273, poz. 2703 i Nr 281, poz. 2784 oraz z 2005 r. Nr 25, poz. 202 i Nr 62, poz. 552.),
 - **3)** zlecenia starosty, o którym mowa w art. 35 ust. 3 pkt 5 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym,
 - **4)** polecenia sądu, prokuratora lub Najwyższej Izby Kontroli,
 - **5)** zgłoszenia obiektu, dla którego przepisy prawa wymagają wydania przez organy Państwowej Straży Pożarnej opinii lub zajęcia przez nie stanowiska w zakresie ochrony przeciwpożarowej,
@@ -367,7 +381,7 @@ art. 52 otrzymuje brzmienie:
 - **3)** w zakresie zabezpieczenia medycznego strażaków podczas akcji ratowniczych, ćwiczeń i szkolenia,
 - **4)** bezpieczeństwa i higieny służby podczas akcji ratowniczych, ćwiczeń i szkolenia. Rozporządzenie powinno ponadto uwzględniać optymalne warunki bezpieczeństwa i higieny służby w stosunku do zadań wykonywanych przez strażaków.
 
-3. W sprawach związanych z bezpieczeństwem i higieną służby, w zakresie nieuregulowanym ustawą i rozporządzeniem, o którym mowa w ust. 2, stosuje się odpowiednio przepisy działu dziesiątego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.).
+3. W sprawach związanych z bezpieczeństwem i higieną służby, w zakresie nieuregulowanym ustawą i rozporządzeniem, o którym mowa w ust. 2, stosuje się odpowiednio przepisy działu dziesiątego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407 oraz z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610 i Nr 86, poz. 732.).
 
 4. Wymagania, o których mowa w rozporządzeniu wydanym na podstawie ust. 2, mają odpowiednie zastosowanie do innych osób biorących udział w akcjach ratowniczych, ćwiczeniach lub szkoleniu. ” ;
 
@@ -441,7 +455,7 @@ art. 52 otrzymuje brzmienie:
 - **8)** grupy strażaków zwolnionych z pełnienia służby w porze nocnej, niedziele, święta,
 - **9)** sposób prowadzenia ewidencji czasu służby. W rozporządzeniu należy ponadto uwzględnić zapewnienie ciągłości służby w Państwowej Straży Pożarnej.
 
-12. Czas służby oraz rozkład czasu służby strażaka pełniącego służbę na stanowisku nauczyciela akademickiego, w zakresie wynikającym z wykonywania obowiązków dydaktycznych i naukowych, określonych w planach studiów i programach nauczania, regulują przepisy ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z późn. zm.). ” ;
+12. Czas służby oraz rozkład czasu służby strażaka pełniącego służbę na stanowisku nauczyciela akademickiego, w zakresie wynikającym z wykonywania obowiązków dydaktycznych i naukowych, określonych w planach studiów i programach nauczania, regulują przepisy ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206, Nr 152, poz. 1598 i Nr 179, poz. 1845 oraz z 2005 r. Nr 10, poz. 71, Nr 23, poz. 187 i Nr 94, poz. 788.). ” ;
 
 - **20)** art. 36 otrzymuje brzmienie: „
 
@@ -481,7 +495,7 @@ art. 52 otrzymuje brzmienie:
 - **3)** ustalenie przydatności do służby, ocenę wywiązywania się z obowiązków służbowych oraz przydatności na zajmowanym stanowisku,
 - **4)** wyłanianie kandydatów do mianowania i powołania na wyższe stanowiska służbowe oraz awansowania na wyższe stopnie służbowe.
 
-2. W przypadku strażaków – nauczycieli i nauczycieli akademickich opiniowanie służbowe dotyczy również wywiązywania się z obowiązków określonych w ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym oraz ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.).
+2. W przypadku strażaków – nauczycieli i nauczycieli akademickich opiniowanie służbowe dotyczy również wywiązywania się z obowiązków określonych w ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym oraz ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781 oraz z 2005 r. Nr 17, poz. 141 i Nr 94, poz. 788.).
 
 3. Opinie służbowe wydają:
 
@@ -590,7 +604,7 @@ art. 52 otrzymuje brzmienie:
 
 - **29)** dodaje się rozdział 5a w brzmieniu: „
 
-#### Rozdział 5a Wykonywanie zadań poza granicami państwa
+#### Rozdział 5a
 
 **Art. 52.**
 
@@ -643,7 +657,7 @@ art. 52 otrzymuje brzmienie:
 
 **Art. 58.**
 
-1. Strażacy mogą się zrzeszać w związkach zawodowych na zasadach określonych w ustawie z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2001 r. Nr 79, poz. 854, z późn. zm.).
+1. Strażacy mogą się zrzeszać w związkach zawodowych na zasadach określonych w ustawie z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2001 r. Nr 79, poz. 854, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1080 i Nr 128, poz. 1405, z 2002 r. Nr 135, poz. 1146 i Nr 240, poz. 2052, z 2003 r. Nr 63, poz. 590 i Nr 213, poz. 2081 oraz z 2004 r. Nr 240, poz. 2407.).
 
 2. Strażak pełniący służbę na stanowisku, dla którego przepisy ustawy przewidują powołanie, nie może pełnić funkcji w związkach zawodowych oraz nie podlega ochronie, o której mowa w art. 32 ustawy z dnia 23 maja 1991 r. o związkach zawodowych. ” ;
 
@@ -668,7 +682,7 @@ art. 52 otrzymuje brzmienie:
 
 7. Strażakowi, któremu nie wydano w naturze przedmiotów umundurowania, przysługuje równoważnik pieniężny.
 
-8. Strażak zwolniony ze służby jest obowiązany zwrócić pobraną nienależną część równoważnika pieniężnego, chyba że zwolnienie nastąpiło z tytułu nabycia prawa do emerytury lub renty na podstawie ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.).
+8. Strażak zwolniony ze służby jest obowiązany zwrócić pobraną nienależną część równoważnika pieniężnego, chyba że zwolnienie nastąpiło z tytułu nabycia prawa do emerytury lub renty na podstawie ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954 oraz z 2005 r. Nr 10, poz. 65 i Nr 90, poz. 757.).
 
 9. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość i warunki przyznawania równoważnika pieniężnego w zamian za umundurowanie, w tym:
 
@@ -943,7 +957,7 @@ art. 52 otrzymuje brzmienie:
 - **10)** zamiany lokalu mieszkalnego,
 - **11)** uzyskania przez strażaka pomocy finansowej.
 
-2. Przez tereny zamknięte rozumie się tereny, o których mowa w art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2000 r. Nr 100, poz. 1086, z późn. zm.).
+2. Przez tereny zamknięte rozumie się tereny, o których mowa w art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2000 r. Nr 100, poz. 1086, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 120, poz. 1268, z 2001 r. Nr 110, poz. 1189, Nr 115, poz. 1229 i Nr 125, poz. 1363, z 2003 r. Nr 162, poz. 1568 i Nr 166, poz. 1612 oraz z 2004 r. Nr 10, poz. 76 i Nr 141, poz. 1492.).
 
 3. Decyzję administracyjną o zwolnieniu kwatery tymczasowej wydaje się w przypadku:
 
@@ -996,7 +1010,7 @@ art. 52 otrzymuje brzmienie:
 
 6. Stosunek najmu ustaje z chwilą uprawomocnienia się decyzji o zwolnieniu przydzielonego lokalu mieszkalnego.
 
-7. W sprawach wynikających z wzajemnych praw i obowiązków najemcy i wynajmującego oraz w innych przypadkach nieuregulowanych w niniejszej ustawie, do najmu lokali, o których mowa w art. 76 ust. 1, mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.) i ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2005 r. Nr 31, poz. 266).
+7. W sprawach wynikających z wzajemnych praw i obowiązków najemcy i wynajmującego oraz w innych przypadkach nieuregulowanych w niniejszej ustawie, do najmu lokali, o których mowa w art. 76 ust. 1, mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783 oraz z 2005 r. Nr 48, poz. 462.) i ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2005 r. Nr 31, poz. 266).
 
 8. Sprawy sporne wynikające ze stosunku najmu lokali mieszkalnych, o których mowa w art. 76 ust. 1, rozstrzygają sądy powszechne. ” ;
 
@@ -1147,7 +1161,7 @@ art. 52 otrzymuje brzmienie:
 
 2. Komendant Główny Państwowej Straży Pożarnej, na wniosek ukaranego, zarządza usunięcie odpisu orzeczenia o ukaraniu z akt osobowych w przypadkach, o których mowa w ust. 1a. ” .
 
-**Art. 2.** W ustawie z dnia 31 marca 1965 r. o wyższym szkolnictwie wojskowym (Dz. U. z 1992 r. Nr 10, poz. 40, z późn. zm.) w art. 27 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Szkoła Główna Służby Pożarniczej nadaje absolwentom tytuły zawodowe magistra inżyniera pożarnictwa, magistra inżyniera, inżyniera pożarnictwa oraz inżyniera. ” .
+**Art. 2.** W ustawie z dnia 31 marca 1965 r. o wyższym szkolnictwie wojskowym (Dz. U. z 1992 r. Nr 10, poz. 40, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 7, poz. 44, z 1997 r. Nr 96, poz. 590, Nr 107, poz. 688, Nr 115, poz. 741 i Nr 121, poz. 770, z 1998 r. Nr 106, poz. 668, z 2002 r. Nr 74, poz. 676 i Nr 141, poz. 1184 oraz z 2003 r. Nr 179, poz. 1750.) w art. 27 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Szkoła Główna Służby Pożarniczej nadaje absolwentom tytuły zawodowe magistra inżyniera pożarnictwa, magistra inżyniera, inżyniera pożarnictwa oraz inżyniera. ” .
 
 **Art. 3.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2002 r. Nr 147, poz. 1229, z 2003 r. Nr 52, poz. 452, z 2004 r. Nr 96, poz. 959 oraz z 2005 r. Nr 100, poz. 835) uchyla się art. 10 i 11.
 
@@ -1155,5 +1169,5 @@ art. 52 otrzymuje brzmienie:
 
 **Art. 5.** Dotychczasowe akty wykonawcze wydane na podstawie upoważnień zmienianych ustawą, o której mowa w ust. 1, zachowują moc do czasu wejścia w życie nowych aktów wykonawczych wydanych na podstawie upoważnień zmienionych niniejszą ustawą.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem 1 lipca 2005 r.
+**Art. 6.** Ustawa wchodzi w życie z dniem 1 lipca 2005 r. 1) Niniejszą ustawą zmienia się ustawę z dnia 31 marca 1965 r. o wyższym szkolnictwie wojskowym i ustawę z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 59, poz. 516 i Nr 166, poz. 1609 oraz z 2004 r. Nr 210, poz. 2135 i Nr 273, poz. 2703. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984, Nr 153, poz. 1271, Nr 200, poz. 1688 i Nr 214, poz. 1806, z 2003 r. Nr 162, poz. 1568 oraz z 2004 r. Nr 102, poz. 1055 i Nr 167, poz. 1759. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676, Nr 113, poz. 984, Nr 153, poz. 1271, Nr 200, poz. 1683 i Nr 240, poz. 2052 oraz z 2004 r. Nr 238, poz. 2390. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 41, poz. 364, z 2003 r. Nr 96, poz. 874, Nr 162, poz. 1568 i Nr 213, poz. 2081 oraz z 2004 r. Nr 11, poz. 96 i Nr 261, poz. 2598. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 162, poz. 1568 oraz z 2005 r. Nr 64, poz. 565. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, z 2002 r. Nr 74, poz. 676, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 233, poz. 1957, z 2003 r. Nr 46, poz. 392, Nr 80, poz. 717 i 721, Nr 162, poz. 1568, Nr 175, poz. 1693, Nr 190, poz. 1865 i Nr 217, poz. 2124, z 2004 r. Nr 19, poz. 177, Nr 49, poz. 464, Nr 70, poz. 631, Nr 91, poz. 875, Nr 92, poz. 880, Nr 96, poz. 959, Nr 121, poz. 1263, Nr 273, poz. 2703 i Nr 281, poz. 2784 oraz z 2005 r. Nr 25, poz. 202 i Nr 62, poz. 552. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407 oraz z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610 i Nr 86, poz. 732. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206, Nr 152, poz. 1598 i Nr 179, poz. 1845 oraz z 2005 r. Nr 10, poz. 71, Nr 23, poz. 187 i Nr 94, poz. 788. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781 oraz z 2005 r. Nr 17, poz. 141 i Nr 94, poz. 788. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1080 i Nr 128, poz. 1405, z 2002 r. Nr 135, poz. 1146 i Nr 240, poz. 2052, z 2003 r. Nr 63, poz. 590 i Nr 213, poz. 2081 oraz z 2004 r. Nr 240, poz. 2407. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954 oraz z 2005 r. Nr 10, poz. 65 i Nr 90, poz. 757. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 120, poz. 1268, z 2001 r. Nr 110, poz. 1189, Nr 115, poz. 1229 i Nr 125, poz. 1363, z 2003 r. Nr 162, poz. 1568 i Nr 166, poz. 1612 oraz z 2004 r. Nr 10, poz. 76 i Nr 141, poz. 1492. 14) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783 oraz z 2005 r. Nr 48, poz. 462. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 7, poz. 44, z 1997 r. Nr 96, poz. 590, Nr 107, poz. 688, Nr 115, poz. 741 i Nr 121, poz. 770, z 1998 r. Nr 106, poz. 668, z 2002 r. Nr 74, poz. 676 i Nr 141, poz. 1184 oraz z 2003 r. Nr 179, poz. 1750.
 

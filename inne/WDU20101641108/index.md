@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 6 sierpnia 2010 r. o zmianie ustawy o Policji oraz niektórych innych ustaw
+# Ustawa z dnia 6 sierpnia 2010 r. o zmianie ustawy o Policji oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 12 października 1990 r. o ochronie granicy państwowej oraz ustawę z dnia 21 maja 1999 r. o broni i amunicji.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-08-06 |
 | Data wydania | 2010-09-07 |
-| Wejście w życie | 2010-09-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101641108) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1108/text.pdf) |
 
+Realizacja wspólnych działań na terytorium państw członkowskich Unii Europejskiej
+Udział Straży Granicznej we wspólnych działaniach koordynowanych przez Europejską Agencję Zarządzania Współpracą Operacyjną na Zewnętrznych Granicach Państw Członkowskich Unii Europejskiej
+Udział Straży Granicznej we współpracy transgranicznej państw członkowskich Unii Europejskiej
 Funkcjonariusze i pracownicy Straży Granicznej mogą zostać delegowani do wykonywania obowiązków służbowych na terytorium innego państwa członkowskiego Unii Europejskiej w celu realizacji zadań:
 1)
 w formie wspólnych patroli i innego rodzaju wspólnych operacji służących ochronie porządku i bezpieczeństwa publicznego oraz zapobieganiu przestępczości, o których mowa w art. 17 ust. 1 decyzji Rady 2008/615/WSiSW z dnia 23 czerwca 2008 r. w sprawie intensyfikacji współpracy transgranicznej, szczególnie w zwalczaniu terroryzmu i przestępczości transgranicznej (Dz. Urz. UE L 210 z 06.08.2008, str. 1), zwanej dalej „decyzją Rady 2008/615/WSiSW”;
@@ -50,10 +52,9 @@ W czasie delegowania, o którym mowa w ust. 1, funkcjonariusze i pracownicy wyko
 3.
 Do funkcjonariuszy delegowanych do wykonywania zadań na terytorium innego państwa członkowskiego Unii Europejskiej przepisy art. 147h i art. 147j ust. 2 stosuje się odpowiednio.
 4.
-Delegowanie pracownika do wykonywania zadań poza siedzibą urzędu, w którym wykonuje on pracę, następuje na podstawie odrębnych przepisów.
-” .
+Delegowanie pracownika do wykonywania zadań poza siedzibą urzędu, w którym wykonuje on pracę, następuje na podstawie odrębnych przepisów. ” .
 
-**Art. 1.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2007 r. Nr 43, poz. 277, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2007 r. Nr 43, poz. 277, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651, z 2009 r. Nr 22, poz. 120, Nr 62, poz. 504, Nr 85, poz. 716, Nr 97, poz. 803, Nr 98, poz. 817, Nr 115, poz. 959, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 195, poz. 1502, Nr 201, poz. 1540, Nr 206, poz. 1589 i Nr 223, poz. 1777 oraz z 2010 r. Nr 34, poz. 190, Nr 96, poz. 620, Nr 98, poz. 626, Nr 125, poz. 842 i Nr 127, poz. 857.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1: w ust. 2 pkt 7 otrzymuje brzmienie: „
     - **a)**
@@ -65,7 +66,7 @@ Delegowanie pracownika do wykonywania zadań poza siedzibą urzędu, w którym w
 
 - **2)** po rozdziale 10a dodaje się rozdział 10b w brzmieniu: „
 
-#### Rozdział 10b Realizacja wspólnych działań na terytorium państw członkowskich Unii Europejskiej
+#### Rozdział 10b
 
 **Art. 145h.** Policjanci i pracownicy Policji są uprawnieni do wykonywania obowiązków służbowych na terytorium innego państwa członkowskiego Unii Europejskiej, w celu realizacji zadań:
 
@@ -75,7 +76,7 @@ Delegowanie pracownika do wykonywania zadań poza siedzibą urzędu, w którym w
 - **1)** Komendant Główny Policji – decyzją, w przypadku, o którym mowa w art. 145h pkt 1;
 - **2)** minister właściwy do spraw wewnętrznych – zarządzeniem, w przypadkach, o których mowa w art. 145h pkt 2 i 3. ” .
 
-**Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2005 r. Nr 234, poz. 1997, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2005 r. Nr 234, poz. 1997, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711 i Nr 170, poz. 1218, z 2007 r. Nr 57, poz. 390 i Nr 82, poz. 558, z 2008 r. Nr 86, poz. 521, Nr 195, poz. 1199, Nr 216, poz. 1367 i Nr 227, poz. 1505, z 2009 r. Nr 22, poz. 120, Nr 85, poz. 716, Nr 98, poz. 817, Nr 157, poz. 1241, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 127, poz. 857.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1: ust. 2b otrzymuje brzmienie: „
     - **a)**
@@ -129,11 +130,11 @@ Delegowanie pracownika do wykonywania zadań poza siedzibą urzędu, w którym w
 
 6. Rozporządzenie, o którym mowa w ust. 5, powinno uzależnić zakres uprawnień delegowanego od charakteru lub rodzaju wykonywanych zadań, czasu trwania delegowania, warunków bytowych i kosztów związanych z delegowaniem oraz zakresu uprawnień i świadczeń przyznanych przez podmiot zagraniczny.
 
-7. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, warunki otrzymywania świadczeń opieki zdrowotnej, o których mowa w art. 42 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.), przez funkcjonariuszy, o których mowa w ust. 2 oraz w art. 147e ust. 1, w związku z urazami nabytymi podczas wykonywania zadań poza granicami państwa oraz sposób i tryb finansowania ponoszonych kosztów, uwzględniając zasady wydatkowania środków publicznych. ” ;
+7. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, warunki otrzymywania świadczeń opieki zdrowotnej, o których mowa w art. 42 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374 oraz z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842 i Nr 127, poz. 857.), przez funkcjonariuszy, o których mowa w ust. 2 oraz w art. 147e ust. 1, w związku z urazami nabytymi podczas wykonywania zadań poza granicami państwa oraz sposób i tryb finansowania ponoszonych kosztów, uwzględniając zasady wydatkowania środków publicznych. ” ;
 
 - **6)** rozdział 14b otrzymuje brzmienie: „
 
-#### Rozdział 14b Udział Straży Granicznej we wspólnych działaniach koordynowanych przez Europejską Agencję Zarządzania Współpracą Operacyjną na Zewnętrznych Granicach Państw Członkowskich Unii Europejskiej
+#### Rozdział 14b
 
 **Art. 147o.**
 
@@ -158,7 +159,7 @@ Delegowanie pracownika do wykonywania zadań poza siedzibą urzędu, w którym w
 
 - **7)** po rozdziale 14b dodaje się rozdział 14c w brzmieniu: „
 
-#### Rozdział 14c Udział Straży Granicznej we współpracy transgranicznej państw członkowskich Unii Europejskiej
+#### Rozdział 14c
 
 **Art. 3.** W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2009 r. Nr 12, poz. 67) wprowadza się następujące zmiany:
 
@@ -172,11 +173,11 @@ Delegowanie pracownika do wykonywania zadań poza siedzibą urzędu, w którym w
 - **2)** wspólnych operacji – wykonuje zadania krajowego punktu kontaktowego właściwego w sprawach komunikacji z Europejską Agencją Zarządzania Współpracą Operacyjną na Zewnętrznych Granicach Państw Członkowskich Unii Europejskiej. ” ;
 - **2)** po art. 17e dodaje się art. 17f w brzmieniu: „ Do funkcjonariuszy straży granicznych państw członkowskich Unii Europejskiej wykonujących na terytorium Rzeczypospolitej Polskiej, za zgodą właściwych organów Rzeczypospolitej Polskiej, zadania określone w przepisach prawa Unii Europejskiej, w zakresie transportowania, przewozu oraz przesyłania broni i amunicji, stosuje się przepisy obowiązujące funkcjonariuszy Straży Granicznej. ” .
 
-**Art. 4.** W ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2004 r. Nr 52, poz. 525, z późn. zm.) w art. 3 pkt 2a otrzymuje brzmienie: „
+**Art. 4.** W ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2004 r. Nr 52, poz. 525, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 195, poz. 1199, z 2009 r. Nr 168, poz. 1323 oraz z 2010 r. Nr 127, poz. 857.) w art. 3 pkt 2a otrzymuje brzmienie: „
 
 - **2a)** broni i amunicji stanowiących uzbrojenie funkcjonariuszy straży granicznych państw członkowskich Unii Europejskiej przebywających na terytorium Rzeczypospolitej Polskiej w związku z wykonywaniem, za zgodą właściwych organów Rzeczypospolitej Polskiej, zadań określonych w przepisach prawa Unii Europejskiej; ” .
 
 **Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 40 ust. 3 i 4 ustawy, o której mowa w art. 2, zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 40 ust. 5 i 7 ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 12 października 1990 r. o ochronie granicy państwowej oraz ustawę z dnia 21 maja 1999 r. o broni i amunicji. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651, z 2009 r. Nr 22, poz. 120, Nr 62, poz. 504, Nr 85, poz. 716, Nr 97, poz. 803, Nr 98, poz. 817, Nr 115, poz. 959, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 195, poz. 1502, Nr 201, poz. 1540, Nr 206, poz. 1589 i Nr 223, poz. 1777 oraz z 2010 r. Nr 34, poz. 190, Nr 96, poz. 620, Nr 98, poz. 626, Nr 125, poz. 842 i Nr 127, poz. 857. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711 i Nr 170, poz. 1218, z 2007 r. Nr 57, poz. 390 i Nr 82, poz. 558, z 2008 r. Nr 86, poz. 521, Nr 195, poz. 1199, Nr 216, poz. 1367 i Nr 227, poz. 1505, z 2009 r. Nr 22, poz. 120, Nr 85, poz. 716, Nr 98, poz. 817, Nr 157, poz. 1241, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 127, poz. 857. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374 oraz z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842 i Nr 127, poz. 857. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 195, poz. 1199, z 2009 r. Nr 168, poz. 1323 oraz z 2010 r. Nr 127, poz. 857.
 

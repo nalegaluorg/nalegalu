@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-07-28 |
 | Data wydania | 2011-09-06 |
-| Wejście w życie | 2011-09-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111851093) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1093/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej (Dz. U. Nr 63, poz. 266, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej (Dz. U. Nr 63, poz. 266, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1991 r. Nr 104, poz. 450, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153, z 1999 r. Nr 49, poz. 483, z 2000 r. Nr 120, poz. 1268 oraz z 2011 r. Nr 61, poz. 315.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -81,7 +80,7 @@ source: "eli-html"
 
 4. Od decyzji dyrektora Szkoły, o których mowa w ust. 1 i 3, służy odwołanie do Prezesa Rady Ministrów.
 
-5. W sprawach egzekucji należności, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2005 r. Nr 229, poz. 1954, z późn. zm.). ” ;
+5. W sprawach egzekucji należności, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2005 r. Nr 229, poz. 1954, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 157, poz. 1119 i Nr 187, poz. 1381, z 2007 r. Nr 89, poz. 589, Nr 115, poz. 794, Nr 176, poz. 1243 i Nr 192, poz. 1378, z 2008 r. Nr 209, poz. 1318, z 2009 r. Nr 3, poz. 11, Nr 39, poz. 308, Nr 131, poz. 1075, Nr 157, poz. 1241 i Nr 201, poz. 1540, z 2010 r. Nr 28, poz. 143, Nr 40, poz. 229, Nr 75, poz. 474, Nr 122, poz. 826, Nr 152, poz. 1018 i Nr 229, poz. 1497 oraz z 2011 r. Nr 85, poz. 458.). ” ;
 
 - **5)** uchyla się art. 8;
 - **6)** po art. 8 dodaje się art. 8a-8f w brzmieniu: „

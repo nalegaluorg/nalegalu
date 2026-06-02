@@ -22,14 +22,26 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-06-09 |
 | Data wydania | 2006-07-14 |
-| Wejście w życie | 2006-09-13 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061260877) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/877/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. Nr 137, poz. 1300) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: w ust. 1: – pkt 1 i 2 otrzymują brzmienie: „ 1) odmiana – oznacza zbiorowość roślin w obrębie botanicznej jednostki systematycznej najniższego znanego stopnia, która niezależnie od tego, czy w pełni odpowiada warunkom przyznania wyłącznego prawa: a) jest określona na podstawie przejawianych właściwości wynikających z określonego genotypu lub kombinacji genotypów, b) jest odróżnialna od każdej innej zbiorowości roślin na podstawie co najmniej jednej z przejawianych właściwości, c) pozostaje niezmieniona po rozmnożeniu; 2) odmiana mieszańcowa – oznacza odmianę, której materiał siewny jest wytwarzany każdorazowo przez krzyżowanie określonych zbiorowości roślin, zgodnie z podanym przez hodowcę tej odmiany sposobem i kolejnością; ” , – w pkt 7 lit. b otrzymuje brzmienie: „ b) jest lub była pracodawcą osoby, o której mowa w lit. a, albo zawarta umowę, w ramach której inna strona tej umowy wyhodowała albo odkryła i wyprowadziła odmianę, albo ” , – pkt 10 otrzymuje brzmienie: „ 10) badanie odmiany – oznacza badanie odrębności, wyrównania i trwałości oraz ocenę odmiany w celu przyznania hodowcy wyłącznego prawa do tej odmiany; ” , – uchyla się pkt 13, – dodaje się pkt 14–16 w brzmieniu: „ 14) przygotowanie do rozmnażania – oznacza czyszczenie, suszenie, kalibrowanie, zaprawianie lub otoczkowanie materiału ze zbioru; 15) przetwórca – oznacza przedsiębiorcę zajmującego się świadczeniem usług w zakresie przygotowania do rozmnażania materiału ze zbioru na materiał siewny; 16) wyłączne prawo – oznacza prawo hodowcy do ochrony wyhodowanej albo odkrytej i wyprowadzonej odmiany, a także do zarobkowego korzystania z niej. ” , dodaje się ust. 3 w brzmieniu: „
+- **1)** w art. 2: w ust. 1: pkt 1 i 2 otrzymują brzmienie: „
     - **a)**
+
+- **1)** odmiana – oznacza zbiorowość roślin w obrębie botanicznej jednostki systematycznej najniższego znanego stopnia, która niezależnie od tego, czy w pełni odpowiada warunkom przyznania wyłącznego prawa: jest określona na podstawie przejawianych właściwości wynikających z określonego genotypu lub kombinacji genotypów, jest odróżnialna od każdej innej zbiorowości roślin na podstawie co najmniej jednej z przejawianych właściwości, pozostaje niezmieniona po rozmnożeniu;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** odmiana mieszańcowa – oznacza odmianę, której materiał siewny jest wytwarzany każdorazowo przez krzyżowanie określonych zbiorowości roślin, zgodnie z podanym przez hodowcę tej odmiany sposobem i kolejnością; ” , w pkt 7 lit. b otrzymuje brzmienie: „ jest lub była pracodawcą osoby, o której mowa w lit. a, albo zawarta umowę, w ramach której inna strona tej umowy wyhodowała albo odkryła i wyprowadziła odmianę, albo ” , pkt 10 otrzymuje brzmienie: „
+    - **b)**
+
+- **10)** badanie odmiany – oznacza badanie odrębności, wyrównania i trwałości oraz ocenę odmiany w celu przyznania hodowcy wyłącznego prawa do tej odmiany; ” , – uchyla się pkt 13, dodaje się pkt 14–16 w brzmieniu: „
+- **14)** przygotowanie do rozmnażania – oznacza czyszczenie, suszenie, kalibrowanie, zaprawianie lub otoczkowanie materiału ze zbioru;
+- **15)** przetwórca – oznacza przedsiębiorcę zajmującego się świadczeniem usług w zakresie przygotowania do rozmnażania materiału ze zbioru na materiał siewny;
+- **16)** wyłączne prawo – oznacza prawo hodowcy do ochrony wyhodowanej albo odkrytej i wyprowadzonej odmiany, a także do zarobkowego korzystania z niej. ” , dodaje się ust. 3 w brzmieniu: „
     - **b)**
 
 3. Osoby, które wspólnie wyhodowały albo odkryty i wyprowadziły odmianę, oraz ich następcy prawni, a także następcy prawni osoby, o której mowa w ust. 1 pkt 7 lit. b, wykonują łącznie uprawnienia hodowcy. ” ;
@@ -55,8 +67,10 @@ source: "eli-html"
 
 3. Do czynności związanych z przyznaniem wyłącznego prawa hodowca mający miejsce zamieszkania albo siedzibę w państwie niebędącym państwem członkowskim lub państwem stowarzyszonym ustanawia pełnomocnika. ” ;
 
-- **6)** w art. 11: w ust. 3: – uchyla się pkt 3, – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) oświadczenie hodowcy, czy zamierza korzystać w Rzeczypospolitej Polskiej z prawa pierwszeństwa, o którym mowa w art. 12 ust. 1. ” , ust. 5 otrzymuje brzmienie: „
+- **6)** w art. 11: w ust. 3: – uchyla się pkt 3, w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
     - **a)**
+
+- **5)** oświadczenie hodowcy, czy zamierza korzystać w Rzeczypospolitej Polskiej z prawa pierwszeństwa, o którym mowa w art. 12 ust. 1. ” , ust. 5 otrzymuje brzmienie: „
     - **b)**
 
 5. Dane, o których mowa w ust. 3 pkt 2, nie mogą być udostępniane bez pisemnej zgody hodowcy. ” ;
@@ -120,7 +134,7 @@ source: "eli-html"
 - **1)** hodowcą a posiadaczem gruntów rolnych albo
 - **2)** hodowcą a organizacją reprezentującą posiadaczy gruntów rolnych, albo
 - **3)** organizacją hodowców a posiadaczem gruntów rolnych, albo
-- **4)** organizacją hodowców a organizacją reprezentującą posiadaczy gruntów rolnych z tym że wysokość opłaty nie powinna przekraczać wysokości opłaty licencyjnej za daną kategorię materiału siewnego, ustalonej przez hodowcę tego materiału.
+- **4)** organizacją hodowców a organizacją reprezentującą posiadaczy gruntów rolnych – z tym że wysokość opłaty nie powinna przekraczać wysokości opłaty licencyjnej za daną kategorię materiału siewnego, ustalonej przez hodowcę tego materiału.
 
 5. Jeżeli umowa, o której mowa w ust. 4, nie została zawarta, to opłata uiszczana na rzecz hodowcy:
 
@@ -202,15 +216,15 @@ source: "eli-html"
 **Art. 37.** Kto:
 
 - **1)** narusza wyłączne prawo do odmiany,
-- **2)** oznacza nazwą odmiany chronionej wyłącznym prawem materiał siewny lub materiał ze zbioru innej lub nieznanej odmiany podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. ” ;
+- **2)** oznacza nazwą odmiany chronionej wyłącznym prawem materiał siewny lub materiał ze zbioru innej lub nieznanej odmiany – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. ” ;
 - **17)** po art. 37 dodaje się art. 37a i 37b w brzmieniu: „ Kto:
 - **1)** uniemożliwia przeprowadzenie kontroli zachowania odmiany,
 - **2)** uniemożliwia wgląd do dokumentów dotyczących zachowania odmiany,
 - **3)** nie dostarcza materiału siewnego odmiany Centralnemu Ośrodkowi do badań OWT albo podmiotowi, któremu przyznano licencję przymusową, albo dostarcza go w ilości niewystarczającej lub po ustalonym terminie,
 - **4)** nie udziela, na wniosek hodowcy, którego odmiana jest chroniona wyłącznym prawem, albo organizacji hodowców, informacji, o których mowa w art. 23 ust. 6 oraz art. 23b ust. 1, lub udziela informacji fałszywych,
-- **5)** uniemożliwia hodowcy albo organizacji hodowców przeprowadzenie kontroli, o której mowa w art. 23c ust. 1 podlega karze grzywny. Orzekanie w sprawach określonych w art. 37a następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia. ” .
+- **5)** uniemożliwia hodowcy albo organizacji hodowców przeprowadzenie kontroli, o której mowa w art. 23c ust. 1 – podlega karze grzywny. Orzekanie w sprawach określonych w art. 37a następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia. ” .
 
-**Art. 2.** W ustawie z dnia 26 czerwca 2003 r. o nasiennictwie (Dz. U. Nr 137, poz. 1299, z późn. zm.) w art. 2 w ust. 1 wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 26 czerwca 2003 r. o nasiennictwie (Dz. U. Nr 137, poz. 1299, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 273, poz. 2703, z 2005 r. Nr 175, poz. 1462 oraz z 2006 r. Nr 92, poz. 639.) w art. 2 w ust. 1 wprowadza się następujące zmiany:
 
 - **1)** pkt 1 otrzymuje brzmienie: „
 - **1)** odmiana – oznacza zbiorowość roślin w obrębie botanicznej jednostki systematycznej najniższego znanego stopnia, która niezależnie od tego, czy w pełni odpowiada warunkom przyznania wyłącznego prawa: jest określona na podstawie przejawianych właściwości wynikających z określonego genotypu lub kombinacji genotypów, jest odróżnialna od każdej innej zbiorowości roślin na podstawie co najmniej jednej z przejawianych właściwości, pozostaje niezmieniona po rozmnożeniu; ” ;
@@ -221,5 +235,5 @@ source: "eli-html"
 - **2)** w pkt 20 lit. b otrzymuje brzmienie: „ jest lub była pracodawcą osoby, o której mowa w lit. a, albo zawarta umowę, w ramach której inna strona tej umowy wyhodowała albo odkryta i wyprowadziła odmianę, albo ” .
     - **b)**
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 60 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 60 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 273, poz. 2703, z 2005 r. Nr 175, poz. 1462 oraz z 2006 r. Nr 92, poz. 639.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-05-24 |
 | Data wydania | 2007-06-21 |
-| Wejście w życie | 2007-07-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071090747) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/747/text.pdf) |
 
@@ -40,7 +39,7 @@ source: "eli-html"
 
 3. Świadczenia rodzinne przysługują osobom, o których mowa w ust. 2, jeżeli zamieszkują na terytorium Rzeczypospolitej Polskiej przez okres zasiłkowy, w którym otrzymują świadczenia rodzinne, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy międzynarodowe o zabezpieczeniu społecznym stanowią inaczej. ” ;
 
-- **2)** w art. 3: w pkt 1 w lit. c: – tiret trzynaste otrzymuje brzmienie: „ – dochody członków rolniczych spółdzielni produkcyjnych z tytułu członkostwa w rolniczej spółdzielni produkcyjnej, pomniejszone o składki na ubezpieczenia społeczne, ” , – tiret piętnaste otrzymuje brzmienie: „ – stypendia określone w przepisach o systemie oświaty, przepisach Prawo o szkolnictwie wyższym oraz w przepisach o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki, a także inne stypendia przyznawane uczniom lub studentom, ” , pkt 7 otrzymuje brzmienie: „
+- **2)** w art. 3: w pkt 1 w lit. c: tiret trzynaste otrzymuje brzmienie: „ – dochody członków rolniczych spółdzielni produkcyjnych z tytułu członkostwa w rolniczej spółdzielni produkcyjnej, pomniejszone o składki na ubezpieczenia społeczne, ” , tiret piętnaste otrzymuje brzmienie: „ – stypendia określone w przepisach o systemie oświaty, przepisach Prawo o szkolnictwie wyższym oraz w przepisach o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki, a także inne stypendia przyznawane uczniom lub studentom, ” , pkt 7 otrzymuje brzmienie: „
     - **a)**
     - **b)**
 
@@ -172,11 +171,11 @@ source: "eli-html"
 
 - **17)** w art. 60 ust. 1 otrzymuje brzmienie: „
 
-1. Osoba otrzymująca świadczenia na podstawie ustawy z dnia 18 lipca 1974 r. o funduszu alimentacyjnym (Dz. U. z 1991 r. Nr 45, poz. 200, z późn. zm.), która ukończyła 50 lat do dnia wejścia w życie ustawy, nabywa na swój wniosek prawo do dodatku z tytułu samotnego wychowywania dziecka do czasu uzyskania prawa do emerytury lub renty albo prawa do zasiłku stałego określonego w przepisach o pomocy społecznej, jeżeli dochód rodziny nie przekracza kwoty, o której mowa w art. 5 ust. 1, i egzekucja ustalonych wyrokiem sądu rodzinnego alimentów jest bezskuteczna. ” .
+1. Osoba otrzymująca świadczenia na podstawie ustawy z dnia 18 lipca 1974 r. o funduszu alimentacyjnym (Dz. U. z 1991 r. Nr 45, poz. 200, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 121, poz. 770, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 90, poz. 1000, z 2001 r. Nr 154, poz. 1791, z 2002 r. Nr 241, poz. 2074 oraz z 2003 r. Nr 83, poz. 759 i Nr 228, poz. 2255.), która ukończyła 50 lat do dnia wejścia w życie ustawy, nabywa na swój wniosek prawo do dodatku z tytułu samotnego wychowywania dziecka do czasu uzyskania prawa do emerytury lub renty albo prawa do zasiłku stałego określonego w przepisach o pomocy społecznej, jeżeli dochód rodziny nie przekracza kwoty, o której mowa w art. 5 ust. 1, i egzekucja ustalonych wyrokiem sądu rodzinnego alimentów jest bezskuteczna. ” .
 
 **Art. 2.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2006 r. Nr 136, poz. 969, Nr 191, poz. 1412, Nr 245, poz. 1775 i Nr 249, poz. 1825) art. 18 otrzymuje brzmienie: „
 
 **Art. 18.** Prezes Głównego Urzędu Statystycznego, na podstawie danych statystycznych, ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, nie później niż do dnia 23 września każdego roku, wysokość przeciętnego dochodu z pracy w indywidualnych gospodarstwach rolnych z 1 ha przeliczeniowego. ” .
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 121, poz. 770, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 90, poz. 1000, z 2001 r. Nr 154, poz. 1791, z 2002 r. Nr 241, poz. 2074 oraz z 2003 r. Nr 83, poz. 759 i Nr 228, poz. 2255.
 

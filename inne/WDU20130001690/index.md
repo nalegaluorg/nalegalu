@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-24 |
 | Data wydania | 2013-12-31 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-11-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001690) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1690/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 20e ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.) zarządza się, co następuje:
+Na podstawie art. 20e ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529 oraz z 2013 r. poz. 628, 675, 1351, 1635 i 1650. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa parametry funkcjonalne Systemu Wspomagania Dowodzenia Policji, sposób jego funkcjonowania w sytuacjach awaryjnych oraz sposób jego utrzymania.
 § 2.
@@ -38,7 +37,7 @@ ustawa o Policji – ustawę z dnia 6 kwietnia 1990 r. o Policji;
 2)
 ustawa o systemie powiadamiania ratunkowego – ustawę z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. poz. 1635);
 3)
-ustawa – Prawo telekomunikacyjne – ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.);
+ustawa – Prawo telekomunikacyjne – ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716, z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 229, poz. 1499 i Nr 238, poz. 1578, z 2011 r. Nr 102, poz. 586 i 587, Nr 134, poz. 779, Nr 153, poz. 903, Nr 171, poz. 1016, Nr 233, poz. 1381 i Nr 234, poz. 1390, z 2012 r. poz. 908, 1203, 1256, 1445 i 1529 oraz z 2013 r. poz. 1635.);
 4)
 centra – centra powiadamiania ratunkowego, o których mowa w ustawie o systemie powiadamiania ratunkowego;
 5)
@@ -70,7 +69,7 @@ zapewnienie stabilnej pracy systemu niezależnie od liczby jednocześnie pracuj�
 11)
 zapewnienie bezpieczeństwa systemu;
 12)
-korzystanie z usług danych przestrzennych, udostępnionych za pośrednictwem systemu, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2010 r. Nr 193, poz. 1287, z późn. zm.), z Głównego Urzędu Geodezji i Kartografii;
+korzystanie z usług danych przestrzennych, udostępnionych za pośrednictwem systemu, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2010 r. Nr 193, poz. 1287, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 805, 829 i 1635.), z Głównego Urzędu Geodezji i Kartografii;
 13)
 wymianę informacji z centrum za pośrednictwem interfejsu komunikacyjnego, o którym mowa w art. 13 ust. 2 ustawy o systemie powiadamiania ratunkowego;
 14)
@@ -128,5 +127,5 @@ usunięcia przyczyn nieprawidłowości;
 3)
 przywrócenia systemu do pełnej funkcjonalności.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529 oraz z 2013 r. poz. 628, 675, 1351, 1635 i 1650. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716, z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 229, poz. 1499 i Nr 238, poz. 1578, z 2011 r. Nr 102, poz. 586 i 587, Nr 134, poz. 779, Nr 153, poz. 903, Nr 171, poz. 1016, Nr 233, poz. 1381 i Nr 234, poz. 1390, z 2012 r. poz. 908, 1203, 1256, 1445 i 1529 oraz z 2013 r. poz. 1635. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 805, 829 i 1635.
 

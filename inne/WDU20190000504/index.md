@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 lutego 2019 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz niektórych innych ustaw
+# Ustawa z dnia 22 lutego 2019 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych oraz ustawę z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-22 |
 | Data wydania | 2019-03-15 |
-| Wejście w życie | 2019-03-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000504) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/504/text.pdf) |
+
+Instrumenty finansowe
 
 **Art. 1.** W ustawie z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2018 r. poz. 627 oraz z 2019 r. poz. 83) wprowadza się następujące zmiany:
 
@@ -39,7 +40,7 @@ source: "eli-html"
 - **6a)** ostateczny odbiorca – ostateczny odbiorca w rozumieniu art. 2 pkt 12 rozporządzenia nr 1303/2013; ” ;
 - **3)** po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „
 
-#### Rozdział 6a Instrumenty finansowe
+#### Rozdział 6a
 
 **Art. 50a.**
 
@@ -53,7 +54,7 @@ source: "eli-html"
 
 5. Agencja:
 
-- **1)** przeprowadza kontrole, o których mowa w art. 9 ust. 1 lit. c rozporządzenia delegowanego Komisji (UE) nr 480/2014 z dnia 3 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1303/2013 ustanawiające wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiające przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego (Dz. Urz. UE L 138 z 13.05.2014, str. 5, z późn. zm.), zwanego dalej „rozporządzeniem nr 480/2014”;
+- **1)** przeprowadza kontrole, o których mowa w art. 9 ust. 1 lit. c rozporządzenia delegowanego Komisji (UE) nr 480/2014 z dnia 3 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1303/2013 ustanawiające wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiające przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego (Dz. Urz. UE L 138 z 13.05.2014, str. 5, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 102 z 21.04.2015, str. 33.), zwanego dalej „rozporządzeniem nr 480/2014”;
 - **2)** pozyskuje, gromadzi, opracowuje i przekazuje instytucji zarządzającej dane i informacje dotyczące wdrażania instrumentów finansowych, niezbędne do monitorowania realizacji i ewaluacji programu.
 
 6. Kontrolom, o którym mowa w art. 9 ust. 1 lit. c rozporządzenia nr 480/2014, oprócz podmiotu, który wdraża instrument finansowy, podlegają instytucje finansowe współpracujące przy wdrażaniu instrumentów finansowych oraz ostateczni odbiorcy. Do tych kontroli stosuje się odpowiednio przepisy art. 47.
@@ -65,7 +66,7 @@ source: "eli-html"
 9. Minister właściwy do spraw rozwoju wsi, w drodze rozporządzenia:
 
 - **1)** określi wzór imiennego upoważnienia do wykonywania czynności kontrolnych w ramach kontroli, o których mowa w art. 9 ust. 1 lit. c rozporządzenia nr 480/2014 i ust. 8,
-- **2)** może określić warunki i tryb przeprowadzania kontroli, o których mowa w art. 9 ust. 1 lit. c rozporządzenia nr 480/2014 i ust. 8 mając na względzie możliwość zweryfikowania tożsamości osoby uprawnionej do wykonywania czynności kontrolnych i zakresu czynności kontrolnych, do którego taka osoba została upoważniona, oraz zapewnienie, aby czynności kontrolne były wykonywane jednolicie na terenie całego kraju. Oprócz elementów określonych w załączniku IV do rozporządzenia nr 1303/2013 umowa o finansowaniu zawiera co najmniej:
+- **2)** może określić warunki i tryb przeprowadzania kontroli, o których mowa w art. 9 ust. 1 lit. c rozporządzenia nr 480/2014 i ust. 8 – mając na względzie możliwość zweryfikowania tożsamości osoby uprawnionej do wykonywania czynności kontrolnych i zakresu czynności kontrolnych, do którego taka osoba została upoważniona, oraz zapewnienie, aby czynności kontrolne były wykonywane jednolicie na terenie całego kraju. Oprócz elementów określonych w załączniku IV do rozporządzenia nr 1303/2013 umowa o finansowaniu zawiera co najmniej:
 - **1)** oznaczenie jej przedmiotu i stron;
 - **2)** określenie warunków i terminów wypłaty środków finansowych;
 - **3)** zobowiązanie podmiotu, który wdraża instrument finansowy, do poddania się kontroli prowadzonej przez instytucję zarządzającą, agencję płatniczą, jednostkę certyfikującą, przedstawicieli Komisji Europejskiej oraz innych instytucji uprawnionych do przeprowadzenia kontroli;
@@ -84,14 +85,14 @@ source: "eli-html"
 
 4. Środki finansowe, odsetki i inne przychody, a także zyski, o których mowa w ust. 1, przekazuje się w celu ponownego wykorzystania zgodnie z art. 45 rozporządzenia nr 1303/2013 na pokrycie kosztów i wydatków związanych z udzielaniem poręczeń i gwarancji, o których mowa w art. 34g ust. 2 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2018 r. poz. 1808 oraz z 2019 r. poz. 492 i 504), na rzecz podmiotów działających w sektorze rolnym, leśnym lub na obszarach wiejskich. Z chwilą przekazania tych środków minister właściwy do spraw rozwoju wsi przestaje być ich dysponentem. ” .
 
-**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2018 r. poz. 1036, z późn. zm.) w art. 17 w ust. 1 po pkt 53a dodaje się pkt 53b w brzmieniu: „
+**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2018 r. poz. 1036, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215, 2243, 2244, 2245, 2429 i 2500 oraz z 2019 r. poz. 37 i 326.) w art. 17 w ust. 1 po pkt 53a dodaje się pkt 53b w brzmieniu: „
 
 - **53b)** przychody podmiotu wdrażającego instrument finansowy, o którym mowa w rozdziale 6a ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2018 r. poz. 627 oraz z 2019 r. poz. 83 i 504), w szczególności odsetki, opłaty gwarancyjne, dywidendy i inne przychody osiągnięte z inwestycji realizowanych przez ten podmiot – w części zwiększającej wkład finansowy z Programu Rozwoju Obszarów Wiejskich; ” .
 
 **Art. 3.** W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2018 r. poz. 1808 oraz z 2019 r. poz. 492) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w ust. 1 pkt 9a otrzymuje brzmienie: „
-- **9a)** mikroprzedsiębiorcy, małym i średnim przedsiębiorcy – należy przez to rozumieć mikroprzedsiębiorcę, małego i średniego przedsiębiorcę spełniającego warunki określone odpowiednio w: załączniku I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), załączniku I do rozporządzenia Komisji (UE) nr 702/2014 z dnia 25 czerwca 2014 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 193 z 01.07.2014, str. 1, z późn. zm.) lub załączniku I do rozporządzenia Komisji (UE) nr 1388/2014 z dnia 16 grudnia 2014 r. uznającego niektóre kategorie pomocy udzielanej przedsiębiorstwom prowadzącym działalność w zakresie produkcji, przetwórstwa i wprowadzania do obrotu produktów rybołówstwa i akwakultury za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 369 z 24.12.2014, str. 37); ” ;
+- **9a)** mikroprzedsiębiorcy, małym i średnim przedsiębiorcy – należy przez to rozumieć mikroprzedsiębiorcę, małego i średniego przedsiębiorcę spełniającego warunki określone odpowiednio w: załączniku I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28., załączniku I do rozporządzenia Komisji (UE) nr 702/2014 z dnia 25 czerwca 2014 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 193 z 01.07.2014, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 156 z 20.06.2017, str. 1. lub załączniku I do rozporządzenia Komisji (UE) nr 1388/2014 z dnia 16 grudnia 2014 r. uznającego niektóre kategorie pomocy udzielanej przedsiębiorstwom prowadzącym działalność w zakresie produkcji, przetwórstwa i wprowadzania do obrotu produktów rybołówstwa i akwakultury za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 369 z 24.12.2014, str. 37); ” ;
     - **a)**
     - **b)**
     - **c)**
@@ -107,7 +108,7 @@ source: "eli-html"
 
 - **1)** pomocy publicznej,
 - **2)** pomocy de minimis ,
-- **3)** pomocy de minimis w rolnictwie lub rybołówstwie uwzględniając konieczność realizacji celów określonych w programach rządowych oraz efektywnego i skutecznego wykorzystania poszczególnych rodzajów pomocy, a także zapewnienia przejrzystości udzielania tej pomocy i jej zgodności z rynkiem wewnętrznym. ” ;
+- **3)** pomocy de minimis w rolnictwie lub rybołówstwie – uwzględniając konieczność realizacji celów określonych w programach rządowych oraz efektywnego i skutecznego wykorzystania poszczególnych rodzajów pomocy, a także zapewnienia przejrzystości udzielania tej pomocy i jej zgodności z rynkiem wewnętrznym. ” ;
 - **3)** art. 34b otrzymuje brzmienie: „
 
 **Art. 34b.** Do poręczenia i gwarancji stosuje się odpowiednio art. 2b ust. 1. ” ;
@@ -130,5 +131,5 @@ source: "eli-html"
 
 **Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 34a ust. 4 ustawy zmienianej w art. 3 zachowują moc i mogą być zmieniane na podstawie tego przepisu.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych oraz ustawę z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 102 z 21.04.2015, str. 33. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215, 2243, 2244, 2245, 2429 i 2500 oraz z 2019 r. poz. 37 i 326. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28. 5) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 156 z 20.06.2017, str. 1.
 

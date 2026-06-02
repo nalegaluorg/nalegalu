@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-13 |
 | Data wydania | 2024-11-18 |
-| Wejście w życie | 2024-11-19 |
 | Ostatnia zmiana | 2025-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001678) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1678/text.pdf) |
 
@@ -33,26 +32,19 @@ W rozporządzeniu Ministra Obrony Narodowej z dnia 20 kwietnia 2022 r. w sprawie
 1)
 w § 1 w ust. 2:
 a)
-pkt 2 otrzymuje brzmienie:
-„
+pkt 2 otrzymuje brzmienie: „
 2)
-punkt styku sieci – fizyczne i logiczne połączenie publicznych sieci telekomunikacyjnych z siecią telekomunikacyjną wojskowego systemu telekomunikacyjnego lub sieci telekomunikacyjnych jednostek organizacyjnych, o których mowa w art. 2 pkt 87 lit. a, b, d, e, g oraz h ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221), z siecią telekomunikacyjną wojskowego systemu telekomunikacyjnego;
-” ,
+punkt styku sieci – fizyczne i logiczne połączenie publicznych sieci telekomunikacyjnych z siecią telekomunikacyjną wojskowego systemu telekomunikacyjnego lub sieci telekomunikacyjnych jednostek organizacyjnych, o których mowa w art. 2 pkt 87 lit. a, b, d, e, g oraz h ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221), z siecią telekomunikacyjną wojskowego systemu telekomunikacyjnego; ” ,
 b)
-pkt 5 otrzymuje brzmienie:
-„
+pkt 5 otrzymuje brzmienie: „
 5)
-ustawa – ustawę z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej;
-” ;
+ustawa – ustawę z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej; ” ;
 2)
-w § 3 pkt 5 otrzymuje brzmienie:
-„
+w § 3 pkt 5 otrzymuje brzmienie: „
 5)
-zapewnieniu współpracy z sieciami telekomunikacyjnymi podmiotów, o których mowa w art. 2 pkt 87 lit. a, b, d, e, g oraz h ustawy, w tym możliwości wykorzystania elementów wojskowego systemu telekomunikacyjnego niezbędnych do realizacji punktów styku sieci.
-” ;
+zapewnieniu współpracy z sieciami telekomunikacyjnymi podmiotów, o których mowa w art. 2 pkt 87 lit. a, b, d, e, g oraz h ustawy, w tym możliwości wykorzystania elementów wojskowego systemu telekomunikacyjnego niezbędnych do realizacji punktów styku sieci. ” ;
 3)
-§ 4 otrzymuje brzmienie:
-„
+§ 4 otrzymuje brzmienie: „
 § 4.
 Działanie wojskowego systemu telekomunikacyjnego zapewnia wykonywanie działalności telekomunikacyjnej w sposób ciągły, w tym również w sytuacji szczególnego zagrożenia, o której mowa w art. 39 ust. 1 ustawy, przez wykorzystywanie sieci telekomunikacyjnych:
 1)
@@ -66,8 +58,7 @@ umów,
 b)
 zasad określonych w planach działań, o których mowa w art. 39 ust. 2 ustawy,
 c)
-decyzji regulatora krajowego, o której mowa w art. 40 ust. 1 ustawy.
-” .
+decyzji regulatora krajowego, o której mowa w art. 40 ust. 1 ustawy. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

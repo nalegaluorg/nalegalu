@@ -31,12 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 stycznia 2000 r. w sprawie powołania Komisji Heraldycznej (Dz. U. z 2018 r. poz. 477), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2021 r. zmieniającym rozporządzenie w sprawie powołania Komisji Heraldycznej (Dz. U. poz. 1846).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2021 r. zmieniającego rozporządzenie w sprawie powołania Komisji Heraldycznej (Dz. U. poz. 1846), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2021 r. zmieniającego rozporządzenie w sprawie powołania Komisji Heraldycznej (Dz. U. poz. 1846), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 stycznia 2000 r. w sprawie powołania Komisji Heraldycznej
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 stycznia 2000 r. w sprawie powołania Komisji HeraldycznejMinister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 Na podstawie art. 2a ust. 1 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2016 r. poz. 38 oraz z 2022 r. poz. 655) zarządza się, co następuje:
 § 1.
 Powołuje się Komisję Heraldyczną, zwaną dalej „komisją”, w składzie:
@@ -60,15 +58,14 @@ Michał Karalus – członek;
 Robert Szydlik – członek;
 10)
 Henryk Seroka – członek;
-11)
+11W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2021 r. zmieniającego rozporządzenie w sprawie powołania Komisji Heraldycznej (Dz. U. poz. 1846), które weszło w życie z dniem 26 października 2021 r.)
 Sławomir Górzyński – członek;
 12)
 Piotr Gołdyn – członek;
-13)
+13W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 Wojciech Fałkowski – członek.
 § 2.
 Siedzibą komisji jest miasto stołeczne Warszawa.
 § 3.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2021 r. zmieniającego rozporządzenie w sprawie powołania Komisji Heraldycznej (Dz. U. poz. 1846), które weszło w życie z dniem 26 października 2021 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Rozporządzenie zostało ogłoszone w dniu 31 stycznia 2000 r.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 31 stycznia 2000 r.. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2021 r. zmieniającego rozporządzenie w sprawie powołania Komisji Heraldycznej (Dz. U. poz. 1846), które weszło w życie z dniem 26 października 2021 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Rozporządzenie zostało ogłoszone w dniu 31 stycznia 2000 r.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-10-16 |
 | Data wydania | 2014-10-21 |
-| Wejście w życie | 2014-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001422) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1422/text.pdf) |
 
@@ -85,5 +84,5 @@ W przypadku zwolnienia, o którym mowa w art. 7b ust. 2 ustawy, ewidencja pomiar
 § 10.
 Ewidencja, o której mowa w § 1–9, może być zastąpiona przez ewidencję prowadzoną na potrzeby inne niż podatek od wydobycia niektórych kopalin, jeżeli zawiera ona wszystkie wymagane dane.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 1 listopada 2014 r., z wyjątkiem § 4–9 oraz § 10 w zakresie dotyczącym ewidencji pomiarów ilości wydobytych gazu ziemnego oraz ropy naftowej, które wchodzą w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 listopada 2014 r., z wyjątkiem § 4–9 oraz § 10 w zakresie dotyczącym ewidencji pomiarów ilości wydobytych gazu ziemnego oraz ropy naftowej, które wchodzą w życie z dniem 1 stycznia 2016 r.Niniejsze rozporządzenie w zakresie dotyczącym miedzi i srebra było poprzedzone rozporządzeniem Ministra Finansów z dnia 10 kwietnia 2012 r. w sprawie zakresu danych ewidencji pomiarów ilości urobku rudy miedzi, zawartości miedzi oraz srebra w tym urobku, ilości wyprodukowanego koncentratu oraz zawartości miedzi oraz srebra w tym koncentracie (Dz. U. poz. 409), które traci moc z dniem 1 listopada 2014 r. w związku z art. 37 pkt 3 lit. f ustawy z dnia 25 lipca 2014 r. o specjalnym podatku węglowodorowym (Dz. U. poz. 1215). 2) Niniejsze rozporządzenie w zakresie dotyczącym miedzi i srebra było poprzedzone rozporządzeniem Ministra Finansów z dnia 10 kwietnia 2012 r. w sprawie zakresu danych ewidencji pomiarów ilości urobku rudy miedzi, zawartości miedzi oraz srebra w tym urobku, ilości wyprodukowanego koncentratu oraz zawartości miedzi oraz srebra w tym koncentracie (Dz. U. poz. 409), które traci moc z dniem 1 listopada 2014 r. w związku z art. 37 pkt 3 lit. f ustawy z dnia 25 lipca 2014 r. o specjalnym podatku węglowodorowym (Dz. U. poz. 1215).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 21 stycznia 2015 r. w sprawie opakowań, do których nie stosuje się wymagań dotyczących zawartości ołowiu, kadmu, rtęci i chromu sześciowartościowego w opakowaniach
+# Rozporządzenie Ministra Środowiskaz dnia 21 stycznia 2015 r. w sprawie opakowań, do których nie stosuje się wymagań dotyczących zawartości ołowiu, kadmu, rtęci i chromu sześciowartościowego w opakowaniach Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 września 2014 r. pod numerem 2014/471/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-01-21 |
 | Data wydania | 2015-01-27 |
-| Wejście w życie | 2015-01-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000137) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/137/text.pdf) |
 
@@ -67,5 +66,5 @@ prowadzi się odpowiedni system ewidencji umożliwiający udokumentowanie spełn
 f)
 zamieszczono na nich w sposób trwały i widoczny informację, że zawartość metali ciężkich w opakowaniu przekracza 100 mg/kg.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 30 grudnia 2002 r. w sprawie zawartości ołowiu, kadmu, rtęci i chromu sześciowartościowego w opakowaniach (Dz. U. Nr 241, poz. 2095, z 2006 r. Nr 183, poz. 1362 oraz z 2009 r. Nr 97, poz. 815), które zgodnie z art. 81 pkt 3 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. poz. 888) utraciło moc z dniem 2 stycznia 2015 r. 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 września 2014 r. pod numerem 2014/471/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 30 grudnia 2002 r. w sprawie zawartości ołowiu, kadmu, rtęci i chromu sześciowartościowego w opakowaniach (Dz. U. Nr 241, poz. 2095, z 2006 r. Nr 183, poz. 1362 oraz z 2009 r. Nr 97, poz. 815), które zgodnie z art. 81 pkt 3 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. poz. 888) utraciło moc z dniem 2 stycznia 2015 r.
 

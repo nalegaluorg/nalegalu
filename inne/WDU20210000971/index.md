@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 25 maja 2021 r. w sprawie obejmowania raportem oceniającym stosowanie przepisów o przeciwdziałaniu wykorzystywaniu sektora finansowego do wyłudzeń skarbowych przypadków jednostkowych
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 25 maja 2021 r. w sprawie obejmowania raportem oceniającym stosowanie przepisów o przeciwdziałaniu wykorzystywaniu sektora finansowego do wyłudzeń skarbowych przypadków jednostkowych Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-25 |
 | Data wydania | 2021-05-28 |
-| Wejście w życie | 2021-06-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000971) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/971/text.pdf) |
 
@@ -38,7 +37,7 @@ Wniosek zawiera:
 1)
 nazwę i adres organizacji pozarządowej;
 2)
-imię i nazwisko lub nazwę (firmę) oraz numer identyfikacji podatkowej podmiotu kwalifikowanego w rozumieniu art. 119zg pkt 4 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.), którego dotyczy wniosek;
+imię i nazwisko lub nazwę (firmę) oraz numer identyfikacji podatkowej podmiotu kwalifikowanego w rozumieniu art. 119zg pkt 4 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72, 694 i 802.), którego dotyczy wniosek;
 3)
 określenie przypadku jednostkowego wraz z uzasadnieniem objęcia raportem oceniającym, o którym mowa w art. 25 ust. 1 ustawy z dnia 24 listopada 2017 r. o zmianie niektórych ustaw w celu przeciwdziałania wykorzystywaniu sektora finansowego do wyłudzeń skarbowych, zwanym dalej „raportem oceniającym”, badania tego przypadku.
 2.
@@ -69,6 +68,5 @@ Niewniesienie zastrzeżeń w terminie, o którym mowa w ust. 2, uznaje się za u
 4.
 W przypadku wniesienia zastrzeżeń przez organizację pozarządową Szef Krajowej Administracji Skarbowej przesyła tej organizacji ostateczne stanowisko w sprawie objęcia raportem oceniającym badania przypadku jednostkowego wraz z uzasadnieniem.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 czerwca 2021 r.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72, 694 i 802.
+Rozporządzenie wchodzi w życie z dniem 1 czerwca 2021 r. 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72, 694 i 802.
 

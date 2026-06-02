@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-25 |
 | Data wydania | 2015-11-02 |
-| Wejście w życie | 2015-11-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001771) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1771/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28, 277, 788 i 875.) wprowadza się następujące zmiany:
 
 - **1)** w art. 37ca w ust. 3 pkt 2 otrzymuje brzmienie: „
 - **2)** odpowiada tak jak sponsor za przechowywanie dokumentów w sposób zapewniający ich stałą dostępność na żądanie: właściwych organów, Narodowego Funduszu Zdrowia – w odniesieniu do badań klinicznych niekomercyjnych. ” ;
@@ -52,5 +51,5 @@ source: "eli-html"
 
 **Art. 2.** Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących finansowania świadczeń opieki zdrowotnej, o których mowa w art. 37k ust. 1a ustawy zmienianej w art. 1, stosuje się przepisy art. 37k ust. 1b ustawy zmienianej w art. 1.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28, 277, 788 i 875.
 

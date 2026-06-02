@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-11-28 |
 | Data wydania | 2003-12-30 |
-| Wejście w życie | 2004-01-14 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032282256) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2256/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052 oraz z 2003 r. Nr 188, poz. 1838.) wprowadza się następujące zmiany:
 
 - **1)** art. 3 otrzymuje brzmienie: „
 
@@ -488,7 +487,7 @@ source: "eli-html"
 6. Prokurator wojskowej jednostki organizacyjnej prokuratury, którego stosunek służbowy został rozwiązany z mocy prawa z powodu ukończenia 60 lat albo został rozwiązany z powodu:
 
 - **1)** uznania orzeczeniem wojskowej komisji lekarskiej za niezdolnego do zawodowej służby wojskowej,
-- **2)** wypowiedzenia stosunku służbowego dokonanego przez organ wojskowy, jeżeli wojskowa jednostka organizacyjna prokuratury, w której pełnił zawodową służbę wojskową, podlega rozformowaniu lub zmniejszył się jej stan etatowy, a brak jest możliwości wyznaczenia go na inne stanowisko służbowe na swój wniosek, złożony przed upływem sześciu miesięcy od dnia rozwiązania stosunku służbowego, jest powoływany przez Prokuratora Generalnego na równorzędne lub odpowiednio niższe stanowisko prokuratora powszechnej jednostki organizacyjnej prokuratury, jeżeli nie ma innych przeszkód prawnych i istnieje taka możliwość. ” ;
+- **2)** wypowiedzenia stosunku służbowego dokonanego przez organ wojskowy, jeżeli wojskowa jednostka organizacyjna prokuratury, w której pełnił zawodową służbę wojskową, podlega rozformowaniu lub zmniejszył się jej stan etatowy, a brak jest możliwości wyznaczenia go na inne stanowisko służbowe – na swój wniosek, złożony przed upływem sześciu miesięcy od dnia rozwiązania stosunku służbowego, jest powoływany przez Prokuratora Generalnego na równorzędne lub odpowiednio niższe stanowisko prokuratora powszechnej jednostki organizacyjnej prokuratury, jeżeli nie ma innych przeszkód prawnych i istnieje taka możliwość. ” ;
 - **12)** art. 64 otrzymuje brzmienie: „
 
 **Art. 64.** Przepisów art. 45 ust. 1–3, art. 46, art. 47, art. 49, art. 50–51a, art. 53, art. 56, art. 58 i art. 59 nie stosuje się do prokuratorów wojskowych jednostek organizacyjnych prokuratury. Urlopu, o którym mowa w art. 52, udziela się, jeżeli prokurator wojskowej jednostki organizacyjnej prokuratury nie uzyskał wcześniej prawa do urlopu dodatkowego, określonego w przepisach o służbie wojskowej żołnierzy zawodowych. ” ;
@@ -575,7 +574,7 @@ source: "eli-html"
 
 2. Dysponentem środków specjalnych jest Minister Sprawiedliwości. Obsługę administracyjną i księgową środków specjalnych zapewnia dysponent. ” .
 
-**Art. 4.** W ustawie z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. Nr 149, poz. 703, z późn. zm.) w art. 42 wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. Nr 149, poz. 703, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 121, poz. 769, z 1998 r. Nr 106, poz. 668 oraz z 2000 r. Nr 48, poz. 554, Nr 60, poz. 702 i Nr 114, poz. 1193.) w art. 42 wprowadza się następujące zmiany:
 
 - **1)** w ust. 5: wyrazy „środek specjalny” zastępuje się wyrazami „środki specjalne”, wyrazy „który przeznacza się na usprawnienie funkcjonowania sądów powszechnych, a w szczególności na koszty ich działalności podstawowej oraz zakupy inwestycyjne.” zastępuje się wyrazami „które przeznacza się na wydatki związane z utrzymaniem centralnej informacji o zastawach rejestrowych, z wyłączeniem wydatków na wynagrodzenia, oraz na usprawnienie funkcjonowania sądów powszechnych, w szczególności na wydatki związane z ich działalnością podstawową i zakupy inwestycyjne.”;
     - **a)**
@@ -587,7 +586,7 @@ source: "eli-html"
 
 7. Dysponentem środków specjalnych jest Minister Sprawiedliwości. Obsługę administracyjną i księgową środków specjalnych zapewnia dysponent. ” .
 
-**Art. 5.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2001 r. Nr 17, poz. 209, z późn. zm.) w art. 4 wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2001 r. Nr 17, poz. 209, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 110, poz. 1189, z 2002 r. Nr 1, poz. 2 i Nr 113, poz. 984 oraz z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 96, poz. 874 i Nr 217, poz. 2125.) w art. 4 wprowadza się następujące zmiany:
 
 - **1)** w ust. 5: wyrazy „środek specjalny” zastępuje się wyrazami „środki specjalne”, wyrazy „który przeznacza się na usprawnienie funkcjonowania sądów powszechnych, a w szczególności na koszty ich działalności podstawowej oraz zakupy inwestycyjne.” zastępuje się wyrazami „które przeznacza się na wydatki związane z utrzymaniem Centralnej Informacji, z wyłączeniem wydatków na wynagrodzenia, oraz na usprawnienie funkcjonowania sądów powszechnych, a w szczególności na wydatki związane z ich działalnością podstawową i zakupy inwestycyjne.”;
     - **a)**
@@ -599,7 +598,7 @@ source: "eli-html"
 
 7. Dysponentem środków specjalnych jest Minister Sprawiedliwości. Obsługę administracyjną i księgową środków specjalnych zapewnia dysponent ” .
 
-**Art. 6.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. Nr 117, poz. 753, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. Nr 117, poz. 753, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 75, poz. 853, z 2001 r. Nr 98, poz. 1070 oraz z 2002 r. Nr 153, poz. 1271 i Nr 240, poz. 2052.) wprowadza się następujące zmiany:
 
 - **1)** w art. 15: § 3 otrzymuje brzmienie: „
     - **a)**
@@ -673,7 +672,7 @@ source: "eli-html"
 
 **Art. 14a.** Podwyższenie wynagrodzeń zasadniczych urzędników i innych pracowników sądów i prokuratury następuje w terminach i na zasadach określonych dla pracowników państwowej sfery budżetowej nieobjętych mnożnikowymi systemami wynagrodzeń. ” .
 
-**Art. 8.** W ustawie z dnia 18 grudnia 1998 r. o służbie cywilnej (Dz. U. z 1999 r. Nr 49, poz. 483, z późn. zm.) w art. 119 ust. 3 otrzymuje brzmienie: „ 3. Do rozpoznania odwołania stosuje się przepisy Kodeksu postępowania cywilnego o apelacji. Od orzeczenia sądu apelacyjnego kasacja nie przysługuje. ” .
+**Art. 8.** W ustawie z dnia 18 grudnia 1998 r. o służbie cywilnej (Dz. U. z 1999 r. Nr 49, poz. 483, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 70, poz. 778 i Nr 110, poz. 1255, z 2001 r. Nr 102, poz. 1116, Nr 111, poz. 1194, Nr 128, poz. 1403 i Nr 154, poz. 1800 oraz z 2002 r. Nr 150, poz. 1237, Nr 153, poz. 1271, Nr 238, poz. 2025 i Nr 240, poz. 2052.) w art. 119 ust. 3 otrzymuje brzmienie: „ 3. Do rozpoznania odwołania stosuje się przepisy Kodeksu postępowania cywilnego o apelacji. Od orzeczenia sądu apelacyjnego kasacja nie przysługuje. ” .
 
 **Art. 9.** W ustawie z dnia 27 lipca 2001 r. o kuratorach sądowych (Dz. U. Nr 98, poz. 1071 i Nr 154, poz. 1787 oraz z 2002 r. Nr 153, poz. 1271 i Nr 213, poz. 1802) w art. 14 wprowadza się następujące zmiany:
 
@@ -701,17 +700,17 @@ source: "eli-html"
 
 - **2)** przepisy art. 14 wchodzą w życie z dniem 1 stycznia 2007 r. ” .
 
-**Art. 11.** W ustawie z dnia 30 sierpnia 2002 r. – Przepisy wprowadzające ustawę – Prawo o ustroju sądów administracyjnych i ustawę – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1271, z późn. zm.) w art. 11 pkt 1 otrzymuje brzmienie: „
+**Art. 11.** W ustawie z dnia 30 sierpnia 2002 r. – Przepisy wprowadzające ustawę – Prawo o ustroju sądów administracyjnych i ustawę – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1271, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2052 oraz z 2003 r. Nr 124, poz. 1153, Nr 171, poz. 1663 i Nr 192, poz. 1873.) w art. 11 pkt 1 otrzymuje brzmienie: „
 
 - **1)** w art. 367 ust. 2 otrzymuje brzmienie: „
 
 2. Od orzeczeń komisji dyscyplinarnej II instancji stronom służy odwołanie do właściwego ze względu na miejsce zamieszkania obwinionego sądu apelacyjnego – sądu pracy i ubezpieczeń społecznych. Do rozpoznania odwołania stosuje się przepisy Kodeksu postępowania cywilnego o apelacji. Od orzeczenia sądu apelacyjnego kasacja nie przysługuje.”; ” . ” .
 
-**Art. 12.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926, z późn. zm.) art. 224a otrzymuje brzmienie: „
+**Art. 12.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387 oraz z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302, Nr 170, poz. 1660 i Nr 228, poz. 2255.) art. 224a otrzymuje brzmienie: „
 
 **Art. 224a.** Wykonanie zaskarżonej decyzji wydanej na podstawie art. 24b lub decyzji utrzymującej w mocy decyzję wydaną na tej podstawie podlega wstrzymaniu z mocy prawa – do czasu rozpatrzenia skargi przez sąd. ” .
 
-**Art. 13.** W ustawie z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. Nr 110, poz. 1255, z późn. zm.) w art. 5 w pkt 1 lit. a otrzymuje brzmienie: „
+**Art. 13.** W ustawie z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. Nr 110, poz. 1255, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 19, poz. 239, z 2001 r. Nr 85, poz. 924, Nr 100, poz. 1080 i Nr 154, poz. 1784 i 1799, z 2002 r. Nr 74, poz. 676, Nr 152, poz. 1267, Nr 213, poz. 1802 i Nr 214, poz. 1805 oraz z 2003 r. Nr 149, poz. 1454, Nr 166, poz. 1609, Nr 179, poz. 1750 i Nr 199, poz. 1939.) w art. 5 w pkt 1 lit. a otrzymuje brzmienie: „
 
 osoby zajmujące kierownicze stanowiska państwowe, członkowie korpusu służby cywilnej, etatowi członkowie samorządowych kolegiów odwoławczych i kolegiów regionalnych izb obrachunkowych, pracownicy Rządowego Centrum Legislacji, eksperci Urzędu Patentowego Rzeczypospolitej Polskiej, asesorzy i aplikanci prokuratorscy, funkcjonariusze Służby Celnej, ” . Przepisy ustaw, o których mowa w art. 1, art. 2 i art. 6 niniejszej ustawy, dotyczące wypadków przy pracy i chorób zawodowych stosuje się do wypadków przy pracy i chorób zawodowych powstałych po dniu 31 grudnia 1998 r., a przed dniem wejścia w życie ustawy, o ile wniosek o jednorazowe odszkodowanie został złożony w okresie 6 miesięcy od dnia wejścia w życie ustawy.
 
@@ -726,6 +725,6 @@ osoby zajmujące kierownicze stanowiska państwowe, członkowie korpusu służby
 **Art. 18.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 33 i art. 2 pkt 10, pkt 20 lit. b oraz art. 12, które wchodzą w życie z dniem 1 stycznia 2004 r.;
-- **2)** art. 10 i art. 13, które wchodzą w życie z dniem ogłoszenia.
+- **2)** art. 10 i art. 13, które wchodzą w życie z dniem ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052 oraz z 2003 r. Nr 188, poz. 1838. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 121, poz. 769, z 1998 r. Nr 106, poz. 668 oraz z 2000 r. Nr 48, poz. 554, Nr 60, poz. 702 i Nr 114, poz. 1193. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 110, poz. 1189, z 2002 r. Nr 1, poz. 2 i Nr 113, poz. 984 oraz z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 96, poz. 874 i Nr 217, poz. 2125. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 75, poz. 853, z 2001 r. Nr 98, poz. 1070 oraz z 2002 r. Nr 153, poz. 1271 i Nr 240, poz. 2052. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 70, poz. 778 i Nr 110, poz. 1255, z 2001 r. Nr 102, poz. 1116, Nr 111, poz. 1194, Nr 128, poz. 1403 i Nr 154, poz. 1800 oraz z 2002 r. Nr 150, poz. 1237, Nr 153, poz. 1271, Nr 238, poz. 2025 i Nr 240, poz. 2052. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2052 oraz z 2003 r. Nr 124, poz. 1153, Nr 171, poz. 1663 i Nr 192, poz. 1873. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387 oraz z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302, Nr 170, poz. 1660 i Nr 228, poz. 2255. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 19, poz. 239, z 2001 r. Nr 85, poz. 924, Nr 100, poz. 1080 i Nr 154, poz. 1784 i 1799, z 2002 r. Nr 74, poz. 676, Nr 152, poz. 1267, Nr 213, poz. 1802 i Nr 214, poz. 1805 oraz z 2003 r. Nr 149, poz. 1454, Nr 166, poz. 1609, Nr 179, poz. 1750 i Nr 199, poz. 1939.
 
 

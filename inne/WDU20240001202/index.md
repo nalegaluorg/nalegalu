@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Infrastrukturyz dnia 26 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich portach i przystaniach
+# Obwieszczenie Ministra Infrastrukturyz dnia 26 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich portach i przystaniach Minister Infrastruktury kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
 
 | Pole | Wartość |
 |---|---|
@@ -40,15 +40,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 21 grudnia 2016 r. w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich portach i przystaniach (Dz. U. z 2017 r. poz. 118), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury z dnia 17 marca 2023 r. zmieniającym rozporządzenie w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich portach i przystaniach (Dz. U. poz. 596).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 17 marca 2023 r. zmieniającego rozporządzenie w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich portach i przystaniach (Dz. U. poz. 596), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 17 marca 2023 r. zmieniającego rozporządzenie w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich portach i przystaniach (Dz. U. poz. 596), które stanowią: „
 § 2.
 Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Infrastruktury kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
-Załącznik – Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 21 grudnia 2016 r. w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich portach i przystaniach
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Infrastruktury kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
+Załącznik – Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 21 grudnia 2016 r. w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich portach i przystaniachNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – gospodarka morska kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
 Na podstawie art. 50a ust. 9 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125) zarządza się, co następuje:
 § 1.
 1.
@@ -78,8 +75,7 @@ statku – należy przez to rozumieć urządzenie pływające używane w środow
 a)
 Międzynarodowej konwencji o zapobieganiu zanieczyszczaniu morza przez statki, 1973, sporządzonej w Londynie dnia 2 listopada 1973 r., zmienionej Protokołem sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 2016 r. poz. 761 i 773),
 b)
-kodeksach, o których mowa w rozdziale VII Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r. (Dz. U. z 2016 r. poz. 869 oraz z 2017 r. poz. 142),
-a także materiały, substancje, przedmioty i towary niewymienione powyżej, zgłoszone lub oznaczone jako niebezpieczne, szkodliwe lub zanieczyszczające w dokumentach przewozowych, na opakowaniach lub w karcie charakterystyki produktu;
+kodeksach, o których mowa w rozdziale VII Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r. (Dz. U. z 2016 r. poz. 869 oraz z 2017 r. poz. 142), – a także materiały, substancje, przedmioty i towary niewymienione powyżej, zgłoszone lub oznaczone jako niebezpieczne, szkodliwe lub zanieczyszczające w dokumentach przewozowych, na opakowaniach lub w karcie charakterystyki produktu;
 5)
 terminalu – należy przez to rozumieć obiekt, obszar lub akwen portu, na którym zachodzą działania statek – ląd, w tym obiekt, obszar lub akwen portu, w którym:
 a)
@@ -93,10 +89,10 @@ akcji ratowniczo-gaśniczej – należy przez to rozumieć ogół działań rato
 § 3.
 1.
 W zakresie nadzoru przeciwpożarowego w portach, o którym mowa w art. 42 ust. 2 pkt 9 ustawy, dyrektorzy urzędów morskich:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury z dnia 17 marca 2023 r. zmieniającego rozporządzenie w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich portach i przystaniach (Dz. U. poz. 596), które weszło w życie z dniem 13 kwietnia 2023 r.)
 przed zatwierdzeniem planu zwalczania zagrożeń i zanieczyszczeń dla wód portowych, o którym mowa w art. 23b ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2023 r. poz. 1072 oraz z 2024 r. poz. 834), weryfikują zawarte w nim informacje w zakresie zgodności z obowiązującymi przepisami dotyczącymi ochrony przeciwpożarowej, bezpieczeństwa morskiego i zapobiegania zanieczyszczaniu morza przez statki oraz szczegółowym zakresem informacji niezbędnych do określenia w planie zwalczania zagrożeń i zanieczyszczeń dla wód portowych określonych w załączniku nr 1 do rozporządzenia;
 2)
-(uchylony);
+(uchylony);Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 3)
 weryfikują informacje zawarte w instrukcji technologicznej, przedkładanej przez podmiot prowadzący w porcie działalność polegającą na transporcie, przeładunku, obróbce, składowaniu lub dystrybucji ładunków niebezpiecznych, w zakresie ich zgodności z obowiązującymi przepisami dotyczącymi ochrony przeciwpożarowej, bezpieczeństwa morskiego i zapobiegania zanieczyszczaniu morza przez statki oraz szczegółowym zakresem informacji niezbędnych do określenia w instrukcji technologicznej określonym w załączniku nr 2 do rozporządzenia;
 4)
@@ -104,8 +100,7 @@ weryfikują informacje zawarte w:
 a)
 cyklicznej instrukcji technologiczno-ruchowej, przedkładanej przez podmiot prowadzący w porcie działalność polegającą na budowie, remontowaniu i naprawach statków i innych obiektów pływających, a także innych środków transportu, urządzeń i instalacji,
 b)
-jednorazowej instrukcji technologiczno-ruchowej, przedkładanej przez podmiot planujący podjęcie w porcie prac remontowych, naprawczych lub innych prac pożarowo niebezpiecznych o określonym zakresie i czasie realizacji
-w zakresie ich zgodności z obowiązującymi przepisami dotyczącymi ochrony przeciwpożarowej, bezpieczeństwa morskiego i zapobiegania zanieczyszczaniu morza przez statki oraz szczegółowym zakresem informacji niezbędnych do określenia w instrukcji technologiczno-ruchowej określonym w załączniku nr 3 do rozporządzenia;
+jednorazowej instrukcji technologiczno-ruchowej, przedkładanej przez podmiot planujący podjęcie w porcie prac remontowych, naprawczych lub innych prac pożarowo niebezpiecznych o określonym zakresie i czasie realizacji – w zakresie ich zgodności z obowiązującymi przepisami dotyczącymi ochrony przeciwpożarowej, bezpieczeństwa morskiego i zapobiegania zanieczyszczaniu morza przez statki oraz szczegółowym zakresem informacji niezbędnych do określenia w instrukcji technologiczno-ruchowej określonym w załączniku nr 3 do rozporządzenia;
 5)
 weryfikują informacje zawarte w instrukcji bezpiecznej obsługi statku przewożącego ładunki niebezpieczne przedkładanej przez podmiot zarządzający terminalem, w zakresie ich zgodności z obowiązującymi przepisami dotyczącymi ochrony przeciwpożarowej, bezpieczeństwa morskiego i zapobiegania zanieczyszczaniu morza przez statki oraz szczegółowym zakresem informacji niezbędnych do określenia w instrukcji bezpiecznej obsługi statku określonym w załączniku nr 4 do rozporządzenia;
 6)
@@ -193,7 +188,7 @@ W ramach współpracy, o której mowa w ust. 1, podmioty wykonujące zadania zwi
 na bieżąco informują dyrektorów urzędów morskich o miejscu prowadzenia działań ratowniczo-gaśniczych oraz rodzaju i skali zagrożenia, w celu umożliwienia odpowiedniego kierowania ruchem statków;
 2)
 w uzasadnionych przypadkach informują dyrektorów urzędów morskich o potrzebie skierowania do akcji ratowniczo-gaśniczej właściwych jednostek, o których mowa w art. 118 ustawy o bezpieczeństwie morskim, których udział jest uzasadniony koniecznością ochrony zdrowia lub życia ludzkiego, środowiska naturalnego lub mienia;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 na polecenie dyrektorów urzędów morskich podejmują działania ratowniczo-gaśnicze na akwenie wód morskich portu oraz realizują zadania z zakresu reagowania na zagrożenia lub zanieczyszczenia morza określone w rozporządzeniu Rady Ministrów z dnia 8 sierpnia 2017 r. w sprawie sposobu organizacji zwalczania zagrożeń i zanieczyszczeń na morzu (Dz. U. z 2022 r. poz. 216).
 4.
 W trakcie akcji ratowniczo-gaśniczych w obrębie polskich obszarów morskich dyrektorzy urzędów morskich współpracują z podmiotami wymienionymi w Planie akcji poszukiwawczych i ratowniczych oraz krajowym planie zwalczania zagrożeń i zanieczyszczeń środowiska morskiego, na zasadach określonych w tych dokumentach.
@@ -215,8 +210,7 @@ szacunkowej wartości szkód materialnych;
 6)
 uwag i wniosków związanych ze zdarzeniem, którego dotyczyły działania ratowniczo-gaśnicze, mogących mieć wpływ na poprawę bezpieczeństwa w porcie.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – gospodarka morska kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury z dnia 17 marca 2023 r. zmieniającego rozporządzenie w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich portach i przystaniach (Dz. U. poz. 596), które weszło w życie z dniem 13 kwietnia 2023 r. 3) Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Rozporządzenie zostało ogłoszone w dniu 18 stycznia 2017 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 18 stycznia 2017 r.. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – gospodarka morska kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury z dnia 17 marca 2023 r. zmieniającego rozporządzenie w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich portach i przystaniach (Dz. U. poz. 596), które weszło w życie z dniem 13 kwietnia 2023 r. 3) Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Rozporządzenie zostało ogłoszone w dniu 18 stycznia 2017 r.
 
 ## Załącznik nr 1 — – Szczegółowy zakres informacji niezbędnych do określenia w planie zwalczania zagrożeń i zanieczyszczeń dla wód portowych
 
@@ -354,7 +348,7 @@ ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2024 r
 10)
 ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, 834 i 1089);
 11)
-ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2018 r. poz. 2037 oraz z 2019 r. poz. 55);
+ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2018 r. poz. 2037 oraz z 2019 r. poz. 55)Ustawa utraciła moc na podstawie art. 174 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743), która weszła w życie z dniem 1 sierpnia 2019 r.;
 12)
 ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2022 r. poz. 2378);
 13)
@@ -372,12 +366,11 @@ rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 20
 19)
 rozporządzeniu Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 9 lipca 2003 r. w sprawie bezpieczeństwa i higieny pracy przy produkcji, transporcie wewnątrzzakładowym oraz obrocie materiałów wybuchowych, w tym wyrobów pirotechnicznych (Dz. U. z 2024 r. poz. 1132);
 20)
-rozporządzeniu Ministra Gospodarki z dnia 27 października 2010 r. w sprawie pomieszczeń magazynowych i obiektów do przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1451);
+rozporządzeniu Ministra Gospodarki z dnia 27 października 2010 r. w sprawie pomieszczeń magazynowych i obiektów do przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1451)Rozporządzenie utraciło moc na podstawie art. 170 pkt 7 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743), która weszła w życie z dniem 1 sierpnia 2019 r.;
 21)
 przepisach wydanych na podstawie art. 48 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125);
 22)
-regulaminach, instrukcjach i zarządzeniach podmiotu zarządzającego obszarem, na którym prowadzona jest działalność objęta instrukcją, wydanych na podstawie przepisów o ochronie przeciwpożarowej.
-6) Ustawa utraciła moc na podstawie art. 174 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743), która weszła w życie z dniem 1 sierpnia 2019 r. 7) Rozporządzenie utraciło moc na podstawie art. 170 pkt 7 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743), która weszła w życie z dniem 1 sierpnia 2019 r.
+regulaminach, instrukcjach i zarządzeniach podmiotu zarządzającego obszarem, na którym prowadzona jest działalność objęta instrukcją, wydanych na podstawie przepisów o ochronie przeciwpożarowej. 6) Ustawa utraciła moc na podstawie art. 174 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743), która weszła w życie z dniem 1 sierpnia 2019 r. 7) Rozporządzenie utraciło moc na podstawie art. 170 pkt 7 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743), która weszła w życie z dniem 1 sierpnia 2019 r.
 
 ## Załącznik nr 3 — – Szczegółowy zakres informacji niezbędnych do określenia w instrukcji technologiczno-ruchowej
 

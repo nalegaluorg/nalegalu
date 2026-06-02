@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 marca 2019 r. o zmianie ustawy – Prawo telekomunikacyjne oraz niektórych innych ustaw
+# Ustawa z dnia 15 marca 2019 r. o zmianie ustawy – Prawo telekomunikacyjne oraz niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw: 1) dyrektywy 2002/20/WE Parlamentu Europejskiego i Rady z dnia 7 marca 2002 r. w sprawie zezwoleń na udostępnienie sieci i usługi łączności elektronicznej (dyrektywa o zezwoleniach) (Dz. Urz. WE L 108 z 24.04.2002, str. 21 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 29, str. 337, Dz. Urz. UE L 337 z 18.12.2009, str. 37 i Dz. Urz. UE L 241 z 10.09.2013, str. 8); 2) dyrektywy 2002/21/WE Parlamentu Europejskiego i Rady z dnia 7 marca 2002 r. w sprawie wspólnych ram regulacyjnych sieci i usług łączności elektronicznej (dyrektywa ramowa) (Dz. Urz. WE L 108 z 24.04.2002, str. 33 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 29, str. 349, Dz. Urz. UE L 171 z 29.06.2007, str. 32, Dz. Urz. UE L 167 z 29.06.2009, str. 12, Dz. Urz. UE L 337 z 18.12.2009, str. 37, Dz. Urz. UE L 94 z 08.04.2011, str. 35 i Dz. Urz. UE L 241 z 10.09.2013, str. 8); 3) dyrektywy Parlamentu Europejskiego i Rady 2014/53/UE z dnia 16 kwietnia 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich dotyczących udostępniania na rynku urządzeń radiowych i uchylającej dyrektywę 1999/5/WE (Dz. Urz. UE L 153 z 22.05.2014, str. 62 i Dz. Urz. UE L 212 z 22.08.2018, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-15 |
 | Data wydania | 2019-04-05 |
-| Wejście w życie | 2019-05-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000643) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/643/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawę z dnia 29 grudnia 1992 r. o radiofonii i telewizji oraz ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej.
 
 **Art. 1.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2018 r. poz. 1954, 2245 i 2354) wprowadza się następujące zmiany:
 
@@ -63,9 +64,10 @@ source: "eli-html"
 - **2)** zamianie zasobów częstotliwości na inne zasoby, chyba że dokonywana jest na podstawie art. 123 ust. 1 pkt 9 lub ust. 2c;
 - **3)** rozszerzeniu obszaru, na którym mogą być wykorzystywane częstotliwości.
 
-2c. Przepisu ust. 2b pkt 3 nie stosuje się do rezerwacji częstotliwości na cele rozpowszechniania programów radiofonicznych w sposób analogowy drogą rozsiewczą naziemną. ” , w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Rezerwacji częstotliwości dokonuje się dla podmiotu, który spełnia wymagania określone ustawą oraz jeżeli częstotliwości: ” , – pkt 1 otrzymuje brzmienie: „ 1) są dostępne, z zastrzeżeniem art. 116 ust. 12 zdanie drugie; ” ;
+2c. Przepisu ust. 2b pkt 3 nie stosuje się do rezerwacji częstotliwości na cele rozpowszechniania programów radiofonicznych w sposób analogowy drogą rozsiewczą naziemną. ” , w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Rezerwacji częstotliwości dokonuje się dla podmiotu, który spełnia wymagania określone ustawą oraz jeżeli częstotliwości: ” , pkt 1 otrzymuje brzmienie: „
 
 - **c)**
+- **1)** są dostępne, z zastrzeżeniem art. 116 ust. 12 zdanie drugie; ” ;
 - **5)** po art. 114 dodaje się art. 1141wbrzmieniu: „
 
 **Art. 1141.**
@@ -367,7 +369,10 @@ source: "eli-html"
 
 **Art. 3.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2018 r. poz. 1044, 1293, 1592, 1669 i 1716 oraz z 2019 r. poz. 622) w załączniku do ustawy w części I wprowadza się następujące zmiany:
 
-- **1)** po ust. 52c dodaje się ust. 52d w brzmieniu: 52d. Decyzja w sprawie rezerwacji częstotliwości 100 zł;
+- **1)** po ust. 52c dodaje się ust. 52d w brzmieniu:
+
+52d. Decyzja w sprawie rezerwacji częstotliwości 100 zł;
+
 - **2)** w ust. 53 w kolumnie „Zwolnienia” pkt 4 otrzymuje brzmienie: „
 - **4)** decyzja wydana przez Prezesa Urzędu Komunikacji Elektronicznej w ramach realizacji jego zadań w zakresie telekomunikacji, z wyłączeniem decyzji w sprawie rezerwacji częstotliwości ” .
 
@@ -432,5 +437,5 @@ source: "eli-html"
 
 6. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 4, jest odpowiednio minister właściwy do spraw informatyzacji albo Prezes Urzędu Komunikacji Elektronicznej.
 
-**Art. 14.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 14.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw: 1) dyrektywy 2002/20/WE Parlamentu Europejskiego i Rady z dnia 7 marca 2002 r. w sprawie zezwoleń na udostępnienie sieci i usługi łączności elektronicznej (dyrektywa o zezwoleniach) (Dz. Urz. WE L 108 z 24.04.2002, str. 21 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 29, str. 337, Dz. Urz. UE L 337 z 18.12.2009, str. 37 i Dz. Urz. UE L 241 z 10.09.2013, str. 8); 2) dyrektywy 2002/21/WE Parlamentu Europejskiego i Rady z dnia 7 marca 2002 r. w sprawie wspólnych ram regulacyjnych sieci i usług łączności elektronicznej (dyrektywa ramowa) (Dz. Urz. WE L 108 z 24.04.2002, str. 33 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 29, str. 349, Dz. Urz. UE L 171 z 29.06.2007, str. 32, Dz. Urz. UE L 167 z 29.06.2009, str. 12, Dz. Urz. UE L 337 z 18.12.2009, str. 37, Dz. Urz. UE L 94 z 08.04.2011, str. 35 i Dz. Urz. UE L 241 z 10.09.2013, str. 8); 3) dyrektywy Parlamentu Europejskiego i Rady 2014/53/UE z dnia 16 kwietnia 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich dotyczących udostępniania na rynku urządzeń radiowych i uchylającej dyrektywę 1999/5/WE (Dz. Urz. UE L 153 z 22.05.2014, str. 62 i Dz. Urz. UE L 212 z 22.08.2018, str. 1). 2) Niniejszą ustawą zmienia się ustawę z dnia 29 grudnia 1992 r. o radiofonii i telewizji oraz ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej.
 

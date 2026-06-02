@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-12-18 |
 | Data wydania | 2004-01-30 |
-| Wejście w życie | 2004-04-16 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040060041) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/41/text.pdf) |
 
@@ -168,8 +167,8 @@ source: "eli-html"
 - **22)** planowania rozwoju portów i przystani morskich, o których mowa w pkt 21;
 - **23)** monitorowania i informowania o ruchu statków;
 - **24)** ewidencji ładunków i pasażerów;
-- **25)** nadzoru nad wprowadzonymi do obrotu wyrobami w zakresie wyposażenia morskiego, o którym mowa w przepisach ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. Nr 166, poz. 1360, z późn. zm.);
-- **26)** zarządu nad morzem terytorialnym i morskimi wodami wewnętrznymi oraz nad gruntami pokrytymi tymi wodami, o którym mowa w przepisach ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. Nr 115, poz. 1229, z późn. zm.). ” ;
+- **25)** nadzoru nad wprowadzonymi do obrotu wyrobami w zakresie wyposażenia morskiego, o którym mowa w przepisach ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. Nr 166, poz. 1360, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 718, Nr 130, poz. 1188 i Nr 170, poz. 1652 i Nr 229, poz. 2275.);
+- **26)** zarządu nad morzem terytorialnym i morskimi wodami wewnętrznymi oraz nad gruntami pokrytymi tymi wodami, o którym mowa w przepisach ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. Nr 115, poz. 1229, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1803, z 2002 r. Nr 113, poz. 984, Nr 130, poz. 1112, Nr 233, poz. 1957 i Nr 238, poz. 2022 oraz z 2003 r. Nr 80, poz. 717, Nr 165, poz. 1592, Nr 190, poz. 1865 i Nr 228, poz. 2259.). ” ;
 - **12)** art. 50 otrzymuje brzmienie: „
 
 **Art. 50.**
@@ -271,7 +270,7 @@ source: "eli-html"
 - **4)** okoliczności przeprowadzania inspekcji rozszerzonej,
 - **5)** kategorie statków podlegających rozszerzonym inspekcjom,
 - **6)** kryteria uzasadniające zatrzymanie statku i wydanie odmowy wejścia statku do portu,
-- **7)** procedury kontroli statków oraz listę dokumentów podlegających kontroli kierując się zaleceniami Memorandum Paryskiego, o którym mowa w art. 12 ust. 6, a także przepisami prawa Unii Europejskiej w tym zakresie. ” ;
+- **7)** procedury kontroli statków oraz listę dokumentów podlegających kontroli – kierując się zaleceniami Memorandum Paryskiego, o którym mowa w art. 12 ust. 6, a także przepisami prawa Unii Europejskiej w tym zakresie. ” ;
 - **3)** w załączniku do ustawy w części III w ust. 1 w pkt 1.4 i 1.5 wyrazy „w żegludze bałtyckiej” zastępuje się wyrazami „w żegludze przybrzeżnej”.
 
 **Art. 4.** W ustawie z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2001 r. Nr 5, poz. 43 i Nr 100, poz. 1085, z 2002 r. Nr 199, poz. 1672 oraz z 2003 r. Nr 211, poz. 2049) wprowadza się następujące zmiany:
@@ -306,5 +305,5 @@ source: "eli-html"
 
 2. Zgoda wydana na podstawie art. 28 ustawy wymienionej w art. 1 niniejszej ustawy staje się odpowiednio pozwoleniem i zachowuje ważność na czas, na który została wydana.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 718, Nr 130, poz. 1188 i Nr 170, poz. 1652 i Nr 229, poz. 2275. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1803, z 2002 r. Nr 113, poz. 984, Nr 130, poz. 1112, Nr 233, poz. 1957 i Nr 238, poz. 2022 oraz z 2003 r. Nr 80, poz. 717, Nr 165, poz. 1592, Nr 190, poz. 1865 i Nr 228, poz. 2259.
 

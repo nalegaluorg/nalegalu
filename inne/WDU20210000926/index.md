@@ -22,51 +22,39 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-19 |
 | Data wydania | 2021-05-20 |
-| Wejście w życie | 2021-05-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000926) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/926/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2019 r. poz. 1505) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779 oraz z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354.) wprowadza się następujące zmiany:
 1)
 w § 6:
 a)
-w ust. 1 w pkt 1 lit. b otrzymuje brzmienie:
-„
+w ust. 1 w pkt 1 lit. b otrzymuje brzmienie: „
 b)
-producentom rolnym na sfinansowanie nabycia udziałów lub akcji spółek, lub udziałów w spółdzielniach, prowadzących działalność w zakresie przetwórstwa produktów rolnych lub przetwórstwa ryb, skorupiaków i mięczaków;
-” ,
+producentom rolnym na sfinansowanie nabycia udziałów lub akcji spółek, lub udziałów w spółdzielniach, prowadzących działalność w zakresie przetwórstwa produktów rolnych lub przetwórstwa ryb, skorupiaków i mięczaków; ” ,
 b)
-w ust. 3 pkt 2 otrzymuje brzmienie:
-„
+w ust. 3 pkt 2 otrzymuje brzmienie: „
 2)
-udziałów lub akcji spółek, lub udziałów w spółdzielniach, prowadzących działalność w zakresie przetwórstwa produktów rolnych lub przetwórstwa ryb, skorupiaków i mięczaków, nabywanych przez producenta rolnego, a ich wysokość nie może wynosić więcej niż 4 mln zł.
-” ,
+udziałów lub akcji spółek, lub udziałów w spółdzielniach, prowadzących działalność w zakresie przetwórstwa produktów rolnych lub przetwórstwa ryb, skorupiaków i mięczaków, nabywanych przez producenta rolnego, a ich wysokość nie może wynosić więcej niż 4 mln zł. ” ,
 c)
-w ust. 6 pkt 1 otrzymuje brzmienie:
-„
+w ust. 6 pkt 1 otrzymuje brzmienie: „
 1)
-kredytobiorcę – w wysokości 0,3 oprocentowania obliczonego w sposób określony w § 3 ust. 11 i 12, jednak nie mniej niż 1%, a w przypadku gdy oprocentowanie obliczone zgodnie ze sposobem określonym w § 3 ust. 11 i 12 wynosi poniżej 1% – w wysokości tego oprocentowania;
-” ;
+kredytobiorcę – w wysokości 0,3 oprocentowania obliczonego w sposób określony w § 3 ust. 11 i 12, jednak nie mniej niż 1%, a w przypadku gdy oprocentowanie obliczone zgodnie ze sposobem określonym w § 3 ust. 11 i 12 wynosi poniżej 1% – w wysokości tego oprocentowania; ” ;
 2)
 w § 13n w ust. 3 w zdaniu pierwszym wyrazy „2016 r.” zastępuje się wyrazami „2018 r.”;
 3)
-w § 13x ust. 10 otrzymuje brzmienie:
-„
+w § 13x ust. 10 otrzymuje brzmienie: „
 10.
-Wniosek o oszacowanie szkód, o którym mowa w ust. 6, producent rolny opatruje podpisem zaufanym.
-” ;
+Wniosek o oszacowanie szkód, o którym mowa w ust. 6, producent rolny opatruje podpisem zaufanym. ” ;
 4)
-w § 13y ust. 7 otrzymuje brzmienie:
-„
+w § 13y ust. 7 otrzymuje brzmienie: „
 7.
-Wniosek, o którym mowa w ust. 4, producent rolny opatruje podpisem zaufanym.
-” ;
+Wniosek, o którym mowa w ust. 4, producent rolny opatruje podpisem zaufanym. ” ;
 5)
-po § 13ze dodaje się § 13zf-13zh w brzmieniu:
-„
+po § 13ze dodaje się § 13zf-13zh w brzmieniu: „
 § 13zf.
 1.
 Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, podmiotom prowadzącym działalność nadzorowaną w zakresie utrzymywania pszczół wpisanym do rejestru, o którym mowa w art. 11 ust. 1 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, zwanym dalej „pszczelarzami”.
@@ -190,8 +178,7 @@ w dniu wystąpienia szkód w uprawach rolnych spowodowanych wystąpieniem w 2020
 2)
 w gospodarstwie rolnym, w którym wystąpiły szkody spowodowane wystąpieniem w 2020 r. suszy, co najmniej 50% powierzchni upraw uprawianych w plonie głównym, z wyłączeniem wieloletnich użytków zielonych, nie było ubezpieczone od ryzyka suszy, gradu, deszczu nawalnego, ujemnych skutków przezimowania, przymrozków wiosennych, powodzi lub huraganu w rozumieniu przepisów o ubezpieczeniach upraw rolnych i zwierząt gospodarskich.
 18.
-Pomoc, o której mowa w ust. 1, jest wypłacana na rachunek producenta rolnego wskazany w systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
-” .
+Pomoc, o której mowa w ust. 1, jest wypłacana na rachunek producenta rolnego wskazany w systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności. ” .
 § 2.
 Do umów o udzielenie pomocy, o której mowa w § 6 ust. 1 rozporządzenia zmienianego w § 1, zawartych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3.
@@ -199,5 +186,5 @@ Do postępowań w sprawach o przyznanie pomocy, o której mowa w § 13n rozporz�
 § 4.
 Do wniosków, o których mowa w § 13x ust. 10 oraz § 13y ust. 6 rozporządzenia zmienianego w § 1, złożonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779 oraz z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354.
 

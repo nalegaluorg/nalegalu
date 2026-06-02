@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-19 |
 | Data wydania | 2013-12-30 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001681) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1681/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 36 ust. 5 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2005 r. Nr 145, poz. 1221, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 36 ust. 5 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2005 r. Nr 145, poz. 1221, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, z 2008 r. Nr 171, poz. 1055 i Nr 180, poz. 1112, z 2009 r. Nr 98, poz. 817, z 2010 r. Nr 47, poz. 278, Nr 182, poz. 1228 i Nr 229, poz. 1496, z 2011 r. Nr 106, poz. 622, Nr 170, poz. 1015 i Nr 171, poz. 1016, z 2012 r. poz. 908 oraz z 2013 r. poz. 628 i 829.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy tryb działań pracowników ochrony, polegających na:
 1)
@@ -128,5 +127,5 @@ numer legitymacji pracownika ochrony fizycznej albo legitymacji kwalifikowanego 
 6)
 informację o udzieleniu pierwszej pomocy i jej zakresie.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 18 listopada 1998 r. w sprawie szczegółowego trybu działań pracowników ochrony, podejmowanych wobec osób znajdujących się w granicach chronionych obiektów i obszarów (Dz. U. Nr 144, poz. 933). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, z 2008 r. Nr 171, poz. 1055 i Nr 180, poz. 1112, z 2009 r. Nr 98, poz. 817, z 2010 r. Nr 47, poz. 278, Nr 182, poz. 1228 i Nr 229, poz. 1496, z 2011 r. Nr 106, poz. 622, Nr 170, poz. 1015 i Nr 171, poz. 1016, z 2012 r. poz. 908 oraz z 2013 r. poz. 628 i 829. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 18 listopada 1998 r. w sprawie szczegółowego trybu działań pracowników ochrony, podejmowanych wobec osób znajdujących się w granicach chronionych obiektów i obszarów (Dz. U. Nr 144, poz. 933).
 

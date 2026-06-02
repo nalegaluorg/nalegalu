@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 29 grudnia 2015 r. o zmianie ustawy o odnawialnych źródłach energii oraz ustawy – Prawo energetyczne
+# Ustawa z dnia 29 grudnia 2015 r. o zmianie ustawy o odnawialnych źródłach energii oraz ustawy – Prawo energetyczne Niniejsza ustawa w zakresie swojej regulacji wdraża: 1) dyrektywę Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającą i w następstwie uchylającą dyrektywę 2001/77/WE oraz 2003/30/WE (Dz. Urz. UE L 140 z 05.06.2009, str. 16, z późn. zm.); 2) dyrektywę Rady 2013/18/UE z dnia 13 maja 2013 r. dostosowującą dyrektywę Parlamentu Europejskiego i Rady 2009/28/WE w sprawie promowania stosowania energii ze źródeł odnawialnych, w związku z przystąpieniem Republiki Chorwacji (Dz. Urz. UE L 158 z 10.06.2013, str. 230).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-29 |
 | Data wydania | 2015-12-31 |
-| Wejście w życie | 2015-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002365) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2365/text.pdf) |
 
@@ -44,7 +43,7 @@ source: "eli-html"
 1. Za pierwsze półrocze 2016 r. odbiorca przemysłowy, przedsiębiorstwo energetyczne, odbiorca końcowy oraz towarowy dom maklerski lub dom maklerski, o których mowa w ust. 2, w zakresie określonym w ust. 7, są obowiązani:
 
 - **1)** uzyskać i przedstawić do umorzenia Prezesowi URE świadectwo pochodzenia lub świadectwo pochodzenia biogazu rolniczego wydane odpowiednio dla energii elektrycznej lub biogazu rolniczego, wytworzonych w instalacjach odnawialnego źródła energii znajdujących się na terytorium Rzeczypospolitej Polskiej lub zlokalizowanych w wyłącznej strefie ekonomicznej lub
-- **2)** uiścić opłatę zastępczą, obliczoną w sposób określony w ust. 6 do dnia 30 czerwca 2017 r.
+- **2)** uiścić opłatę zastępczą, obliczoną w sposób określony w ust. 6 – do dnia 30 czerwca 2017 r.
 
 2. Obowiązek, o którym mowa w ust. 1, wykonują:
 
@@ -80,7 +79,7 @@ source: "eli-html"
 - **1)** sprzedaży energii elektrycznej odbiorcom końcowym niebędącym odbiorcami przemysłowymi, o których mowa w ust. 2 pkt 1, albo
 - **2)** całkowitej ilości energii elektrycznej wynikającej z zakupu energii elektrycznej na własny użytek, na podstawie transakcji zawieranych we własnym imieniu na giełdzie towarowej lub na rynku organizowanym przez podmiot prowadzący na terytorium Rzeczypospolitej Polskiej rynek regulowany, albo
 - **3)** całkowitej ilości energii elektrycznej wynikającej z zakupu energii elektrycznej na podstawie transakcji zawieranych na zlecenie odbiorców końcowych na giełdzie towarowej lub na rynku organizowanym przez podmiot prowadzący na terytorium Rzeczypospolitej Polskiej rynek regulowany, albo
-- **4)** ilości energii elektrycznej zakupionej na własny użytek za pierwsze półrocze roku 2016 wynosi 15%.
+- **4)** ilości energii elektrycznej zakupionej na własny użytek – za pierwsze półrocze roku 2016 wynosi 15%.
 
 8. Do realizacji obowiązku, o którym mowa w ust. 1, przepisy art. 173 niniejszej ustawy oraz art. 9a ust. 7–9 i 15 ustawy zmienianej w art. 179 stosuje się odpowiednio.
 
@@ -95,7 +94,7 @@ source: "eli-html"
 13. Obowiązek, o którym mowa w ust. 12, uznaje się za spełniony, jeżeli oferowane do sprzedaży ciepło, wytworzone w instalacjach odnawialnych źródeł energii, zakupiono w ilości:
 
 - **1)** w jakiej je oferowano lub
-- **2)** równej zapotrzebowaniu odbiorców przedsiębiorstwa energetycznego realizującego ten obowiązek i przyłączonych do sieci ciepłowniczej, do której jest przyłączona instalacja odnawialnego źródła energii, proporcjonalnie do udziału mocy zainstalowanej tej instalacji w całkowitej mocy zamówionej przez odbiorców, z uwzględnieniem charakterystyki odbioru oraz możliwości przesyłania ciepła wytwarzanego w tym źródle pod warunkiem, że koszty zakupu tego ciepła nie spowodują wzrostu cen ciepła lub stawek opłat za ciepło dostarczone odbiorcom w danym roku o więcej niż wartość średniorocznego wskaźnika wzrostu cen towarów i usług konsumpcyjnych ogółem w poprzednim roku kalendarzowym, określonego w komunikacie Prezesa Głównego Urzędu Statystycznego ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+- **2)** równej zapotrzebowaniu odbiorców przedsiębiorstwa energetycznego realizującego ten obowiązek i przyłączonych do sieci ciepłowniczej, do której jest przyłączona instalacja odnawialnego źródła energii, proporcjonalnie do udziału mocy zainstalowanej tej instalacji w całkowitej mocy zamówionej przez odbiorców, z uwzględnieniem charakterystyki odbioru oraz możliwości przesyłania ciepła wytwarzanego w tym źródle – pod warunkiem, że koszty zakupu tego ciepła nie spowodują wzrostu cen ciepła lub stawek opłat za ciepło dostarczone odbiorcom w danym roku o więcej niż wartość średniorocznego wskaźnika wzrostu cen towarów i usług konsumpcyjnych ogółem w poprzednim roku kalendarzowym, określonego w komunikacie Prezesa Głównego Urzędu Statystycznego ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 14. W przypadku gdy więcej niż jedno przedsiębiorstwo energetyczne, o którym mowa w ust. 12, zajmuje się obrotem ciepłem i sprzedaje to ciepło odbiorcom przyłączonym do połączonych i współpracujących ze sobą sieci ciepłowniczych, obowiązek zakupu dotyczy ciepła wytworzonego w przyłączonych do tych sieci instalacjach odnawialnych źródeł energii, proporcjonalnie do udziału mocy zainstalowanej każdej instalacji odnawialnego źródła energii tych przedsiębiorstw w łącznej mocy zamówionej przez odbiorców z uwzględnieniem charakterystyki odbioru oraz możliwości przesyłania ciepła wytwarzanego w tych instalacjach przez wszystkie przedsiębiorstwa energetyczne dostarczające ciepło do odbiorców przyłączonych do tych sieci. ” ;
 
@@ -114,7 +113,7 @@ source: "eli-html"
 
 - **6)** w art. 6 ust. 5, art. 9 ust. 2, art. 10 ust. 5, art. 17 ust. 3 pkt 1, art. 32 ust. 3, art. 35 ust. 4, art. 39 ust. 7, art. 41 ust. 13 i 18, art. 53 ust. 4, art. 60, art. 61, art. 62, art. 69 ust. 1, art. 73 ust. 7, art. 77 ust. 1–4, art. 78 ust. 10, art. 81 ust. 7, art. 110 pkt 1, art. 113, art. 114, art. 119, art. 126 ust. 1 i 3–5, art. 127 ust. 1, 2, 4 i 5, art. 128 ust. 1 pkt 1 i ust. 2, art. 129 ust. 3, art. 131 ust. 1, 2, 4 i 5, art. 132 ust. 1, art. 133, art. 134, art. 152, art. 154 ust. 5 i 6, art. 157 ust. 2, art. 162, art. 164 ust. 3, art. 165 ust. 1 i 4–6, art. 166, art. 167, art. 171, art. 209, art. 211, art. 212 oraz art. 218 użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”.
 
-**Art. 2.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662 oraz z 2015 r. poz. 151, 478, 942, 1618, 1893 i 1960.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9e: po ust. 1a dodaje się ust. 1b i 1c w brzmieniu: „
     - **a)**
@@ -149,5 +148,5 @@ source: "eli-html"
 
 **Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 6 ust. 5, art. 9 ust. 2, art. 10 ust. 5 oraz art. 53 ust. 4 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 6 ust. 5, art. 9 ust. 2, art. 10 ust. 5 oraz art. 53 ust. 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 31 grudnia 2015 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem 31 grudnia 2015 r. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża: 1) dyrektywę Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającą i w następstwie uchylającą dyrektywę 2001/77/WE oraz 2003/30/WE (Dz. Urz. UE L 140 z 05.06.2009, str. 16, z późn. zm.); 2) dyrektywę Rady 2013/18/UE z dnia 13 maja 2013 r. dostosowującą dyrektywę Parlamentu Europejskiego i Rady 2009/28/WE w sprawie promowania stosowania energii ze źródeł odnawialnych, w związku z przystąpieniem Republiki Chorwacji (Dz. Urz. UE L 158 z 10.06.2013, str. 230). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662 oraz z 2015 r. poz. 151, 478, 942, 1618, 1893 i 1960.
 

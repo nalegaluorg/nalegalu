@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-08-06 |
 | Data wydania | 2010-08-25 |
-| Wejście w życie | 2010-09-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101551043) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1043/text.pdf) |
 
@@ -32,7 +31,7 @@ source: "eli-html"
 - **2)** budowa i utrzymywanie ciągów drenażowych, przewodów i urządzeń służących do przesyłania lub dystrybucji płynów, pary, gazów i energii elektrycznej, a także innych obiektów i urządzeń niezbędnych do korzystania z tych przewodów i urządzeń; ” ;
 - **2)** w art. 124 w ust. 1 zdanie pierwsze otrzymuje brzmienie: „ Starosta, wykonujący zadanie z zakresu administracji rządowej, może ograniczyć, w drodze decyzji, sposób korzystania z nieruchomości przez udzielenie zezwolenia na zakładanie i przeprowadzenie na nieruchomości ciągów drenażowych, przewodów i urządzeń służących do przesyłania lub dystrybucji płynów, pary, gazów i energii elektrycznej oraz urządzeń łączności publicznej i sygnalizacji, a także innych podziemnych, naziemnych lub nadziemnych obiektów i urządzeń niezbędnych do korzystania z tych przewodów i urządzeń, jeżeli właściciel lub użytkownik wieczysty nieruchomości nie wyraża na to zgody. ” .
 
-**Art. 2.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. Nr 80, poz. 717, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. Nr 80, poz. 717, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492, z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2006 r. Nr 45, poz. 319 i Nr 225, poz. 1635, z 2007 r. Nr 127, poz. 880, z 2008 r. Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 220, poz. 1413 oraz z 2010 r. Nr 24, poz. 124, Nr 75, poz. 474, Nr 106, poz. 675, Nr 119, poz. 804, Nr 130, poz. 871 i Nr 149, poz. 996.) wprowadza się następujące zmiany:
 
 - **1)** w art. 10 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
@@ -47,5 +46,5 @@ source: "eli-html"
 
 2. Do miejscowych planów zagospodarowania przestrzennego oraz studiów uwarunkowań i kierunków zagospodarowania przestrzennego gminy, w stosunku do których podjęto uchwałę o przystąpieniu do sporządzania lub zmiany planu lub studium, a postępowanie nie zostało zakończone do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492, z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2006 r. Nr 45, poz. 319 i Nr 225, poz. 1635, z 2007 r. Nr 127, poz. 880, z 2008 r. Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 220, poz. 1413 oraz z 2010 r. Nr 24, poz. 124, Nr 75, poz. 474, Nr 106, poz. 675, Nr 119, poz. 804, Nr 130, poz. 871 i Nr 149, poz. 996.
 

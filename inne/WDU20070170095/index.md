@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 12 stycznia 2007 r. o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz niektórych innych ustaw
+# Ustawa z dnia 12 stycznia 2007 r. o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych i ustawę z dnia 23 lipca 2003 r. o przejęciu przez Skarb Państwa zobowiązań Zakładu Ubezpieczeń Społecznych z tytułu nieprzekazanych składek do otwartych funduszy emerytalnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-01-12 |
 | Data wydania | 2007-02-06 |
-| Wejście w życie | 2007-02-21 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070170095) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/95/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2004 r. Nr 159, poz. 1667, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2004 r. Nr 159, poz. 1667, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 143, poz. 1202 i Nr 183, poz. 1538 oraz z 2006 r. Nr 104, poz. 708 i 711 i Nr 157, poz. 1119.) wprowadza się następujące zmiany:
 
 - **1)** w art. 100a: ust. 1a i 1b otrzymują brzmienie: „
     - **a)**
@@ -64,7 +63,7 @@ source: "eli-html"
 
 1. Środki zgromadzone na rachunku członka otwartego funduszu są przekazywane przez ten fundusz, za pośrednictwem Zakładu Ubezpieczeń Społecznych, na dochody budżetu państwa w przypadku, gdy:
 
-- **1)** właściwy organ emerytalny zawiadomi o ustaleniu członkowi otwartego funduszu prawa do emerytury: obliczonej na podstawie art. 15 lub prawa do jej zwiększenia na podstawie art. 14 ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 66, z późn. zm.) lub obliczonej na podstawie art. 15 lub prawa do jej zwiększenia na podstawie art. 14 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.);
+- **1)** właściwy organ emerytalny zawiadomi o ustaleniu członkowi otwartego funduszu prawa do emerytury: obliczonej na podstawie art. 15 lub prawa do jej zwiększenia na podstawie art. 14 ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 66, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65 i Nr 130, poz. 1085 oraz z 2006 r. Nr 104, poz. 708 i 711.) lub obliczonej na podstawie art. 15 lub prawa do jej zwiększenia na podstawie art. 14 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085 oraz z 2006 r. Nr 104, poz. 708 i 711.);
     - **a)**
     - **b)**
 
@@ -85,7 +84,7 @@ source: "eli-html"
 
 1. Na podstawie ogólnego zezwolenia udzielonego przez ministra właściwego do spraw instytucji finansowych w drodze rozporządzenia i na warunkach określonych w tym zezwoleniu, aktywa otwartego funduszu mogą być lokowane poza granicami kraju w papiery wartościowe emitowane przez spółki notowane na podstawowych giełdach rynków kapitałowych państw obcych będących członkami OECD lub innych państw obcych, które zostaną określone w tym zezwoleniu, a także w papiery wartościowe emitowane przez rządy lub banki centralne tych państw oraz tytuły uczestnictwa emitowane przez instytucje wspólnego inwestowania mające siedzibę w tych państwach, jeżeli instytucje te oferują publiczne tytuły uczestnictwa i umarzają je na żądanie uczestnika. ” .
 
-**Art. 2.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, Nr 170, poz. 1218 i Nr 220, poz. 1600) w art. 88 ust. 2a otrzymuje brzmienie: „ 2a. Nauczyciele urodzeni po dniu 31 grudnia 1948 r., a przed dniem 1 stycznia 1969 r., zachowują prawo do emerytury, o której mowa w ust. 1, bez względu na wiek, w ciągu dziewięciu lat od dnia wejścia w życie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.), jeżeli nie przystąpili do otwartego funduszu emerytalnego albo złożyli wniosek o przekazanie środków zgromadzonych na rachunku w otwartym funduszu emerytalnym, za pośrednictwem Zakładu Ubezpieczeń Społecznych, na dochody budżetu państwa. ” .
+**Art. 2.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, Nr 170, poz. 1218 i Nr 220, poz. 1600) w art. 88 ust. 2a otrzymuje brzmienie: „ 2a. Nauczyciele urodzeni po dniu 31 grudnia 1948 r., a przed dniem 1 stycznia 1969 r., zachowują prawo do emerytury, o której mowa w ust. 1, bez względu na wiek, w ciągu dziewięciu lat od dnia wejścia w życie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421 oraz z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534.), jeżeli nie przystąpili do otwartego funduszu emerytalnego albo złożyli wniosek o przekazanie środków zgromadzonych na rachunku w otwartym funduszu emerytalnym, za pośrednictwem Zakładu Ubezpieczeń Społecznych, na dochody budżetu państwa. ” .
 
 **Art. 3.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74) w art. 24:
 
@@ -100,7 +99,7 @@ source: "eli-html"
 - **1)** wyższa od kwoty nienależnie otrzymanej składki, którą otwarty fundusz emerytalny jest zobowiązany zwrócić do Zakładu na podstawie przepisów o organizacji i funkcjonowaniu funduszy emerytalnych – różnica jest finansowana z funduszu emerytalnego, wyodrębnionego w ramach Funduszu Ubezpieczeń Społecznych;
 - **2)** niższa od kwoty nienależnie otrzymanej składki, którą otwarty fundusz emerytalny jest zobowiązany zwrócić do Zakładu na podstawie przepisów o organizacji i funkcjonowaniu funduszy emerytalnych – różnica stanowi przychody funduszu emerytalnego, wyodrębnionego w ramach Funduszu Ubezpieczeń Społecznych. ” .
 
-**Art. 4.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421 oraz z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534.) wprowadza się następujące zmiany:
 
 - **1)** w art. 46 w ust. 1 pkt 1 otrzymuje brzmienie: „
 - **1)** nie przystąpili do otwartego funduszu emerytalnego albo złożyli wniosek o przekazanie środków zgromadzonych na rachunku w otwartym funduszu emerytalnym, za pośrednictwem Zakładu, na dochody budżetu państwa; ” ;
@@ -122,5 +121,5 @@ source: "eli-html"
 
 **Art. 6.** Zasady zwrotu nienależnie opłaconych składek odprowadzonych do otwartych funduszy emerytalnych, określone w art. 100a ustawy, o której mowa w art. 1 w brzmieniu nadanym niniejszą ustawą, stosuje się do składek zwracanych do Zakładu Ubezpieczeń Społecznych od dnia wejścia w życie ustawy, niezależnie od okresu, którego dotyczą.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych i ustawę z dnia 23 lipca 2003 r. o przejęciu przez Skarb Państwa zobowiązań Zakładu Ubezpieczeń Społecznych z tytułu nieprzekazanych składek do otwartych funduszy emerytalnych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 143, poz. 1202 i Nr 183, poz. 1538 oraz z 2006 r. Nr 104, poz. 708 i 711 i Nr 157, poz. 1119. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65 i Nr 130, poz. 1085 oraz z 2006 r. Nr 104, poz. 708 i 711. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085 oraz z 2006 r. Nr 104, poz. 708 i 711. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421 oraz z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421 oraz z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534.
 

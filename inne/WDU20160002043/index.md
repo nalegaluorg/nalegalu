@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-21 |
 | Data wydania | 2016-12-16 |
-| Wejście w życie | 2016-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002043) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2043/text.pdf) |
 
@@ -30,7 +29,7 @@ source: "eli-html"
 
 - **1)** w art. 5b ust. 1 otrzymuje brzmienie: „
 
-1. Rolnik lub domownik, który podlegając ubezpieczeniu w pełnym zakresie z mocy ustawy, został objęty innym ubezpieczeniem społecznym z tytułu wykonywania umowy, o której mowa w art. 6 ust. 1 pkt 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.), lub powołania do rady nadzorczej, podlega nadal temu ubezpieczeniu w okresie wykonywania umowy, o której mowa w art. 6 ust. 1 pkt 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, lub pełnienia funkcji w radzie nadzorczej, pomimo objęcia go z tego tytułu innym ubezpieczeniem społecznym, jeżeli przychód osiągany z tego tytułu w rozliczeniu miesięcznym nie przekracza kwoty równej minimalnemu wynagrodzeniu za pracę, ustalonemu na podstawie odrębnych przepisów. ” ;
+1. Rolnik lub domownik, który podlegając ubezpieczeniu w pełnym zakresie z mocy ustawy, został objęty innym ubezpieczeniem społecznym z tytułu wykonywania umowy, o której mowa w art. 6 ust. 1 pkt 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921 i 1948.), lub powołania do rady nadzorczej, podlega nadal temu ubezpieczeniu w okresie wykonywania umowy, o której mowa w art. 6 ust. 1 pkt 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, lub pełnienia funkcji w radzie nadzorczej, pomimo objęcia go z tego tytułu innym ubezpieczeniem społecznym, jeżeli przychód osiągany z tego tytułu w rozliczeniu miesięcznym nie przekracza kwoty równej minimalnemu wynagrodzeniu za pracę, ustalonemu na podstawie odrębnych przepisów. ” ;
 
 - **2)** w art. 60 ust. 1 otrzymuje brzmienie: „
 
@@ -44,5 +43,5 @@ source: "eli-html"
 
 **Art. 3.** Stosunki pracy pracowników zatrudnionych w dniu wejścia w życie niniejszej ustawy na stanowiskach zastępców kierowników komórek organizacyjnych w centrali, oddziałach regionalnych i placówkach terenowych oraz dyrektorów oddziałów regionalnych i ich zastępców, kierowników placówek terenowych i ich zastępców, o których mowa w art. 60 ust. 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, stają się stosunkami pracy na podstawie powołania w rozumieniu ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666).
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921 i 1948.
 

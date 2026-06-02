@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 11 października 2019 r. zmieniające rozporządzenie w sprawie zakresu znajomości języka polskiego niezbędnej do wykonywania zawodu fizjoterapeuty oraz egzaminu ze znajomości języka polskiego
+# Rozporządzenie Ministra Zdrowiaz dnia 11 października 2019 r. zmieniające rozporządzenie w sprawie zakresu znajomości języka polskiego niezbędnej do wykonywania zawodu fizjoterapeuty oraz egzaminu ze znajomości języka polskiego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-11 |
 | Data wydania | 2019-10-21 |
-| Wejście w życie | 2019-11-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001998) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1998/text.pdf) |
 
@@ -33,6 +32,5 @@ W rozporządzeniu Ministra Zdrowia z dnia 19 czerwca 2017 r. w sprawie zakresu z
 § 2.
 Zaświadczenia o zdaniu egzaminu ze znajomości języka polskiego niezbędnej do wykonywania zawodu fizjoterapeuty wydane przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 czerwca 2024 r. o ochronie sygnalistów
+# Ustawa z dnia 14 czerwca 2024 r. o ochronie sygnalistów Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1937 z dnia 23 października 2019 r. w sprawie ochrony osób zgłaszających naruszenia prawa Unii (Dz. Urz. UE L 305 z 26.11.2019, str. 17, Dz. Urz. UE L 347 z 20.10.2020, str. 1, Dz. Urz. UE L 265 z 12.10.2022, str. 1 oraz Dz. Urz. UE L 150 z 09.06.2023, str. 40).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,33 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-14 |
 | Data wydania | 2024-06-24 |
-| Wejście w życie | 2024-09-25 |
 | Ostatnia zmiana | 2025-08-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000928) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/928/text.pdf) |
 
-#### Rozdział 1 Przepisy ogólne
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich oraz ustawę z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej.
+Przepisy ogólne
+Zakaz działań odwetowych i środki ochrony
+Zgłoszenia wewnętrzne
+Zgłoszenia zewnętrzne
+Ujawnienie publiczne
+Przepisy karne
+Przepisy zmieniające, dostosowujące i przepis końcowy
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Zakaz działań odwetowych i środki ochrony
+
+#### Rozdział 3 – Zgłoszenia wewnętrzne
+
+#### Rozdział 4 – Zgłoszenia zewnętrzne
+
+#### Rozdział 5 – Ujawnienie publiczne
+
+#### Rozdział 6 – Przepisy karne
+
+#### Rozdział 7 – Przepisy zmieniające, dostosowujące i przepis końcowy
+
+#### Rozdział 1
 
 **Art. 1.** Ustawa reguluje:
 
@@ -137,7 +159,7 @@ source: "eli-html"
 
 4. Podmiot prawny albo organ publiczny po otrzymaniu zgłoszenia przetwarza dane osobowe w zakresie niezbędnym do przyjęcia zgłoszenia lub podjęcia ewentualnego działania następczego. Dane osobowe, które nie mają znaczenia dla rozpatrywania zgłoszenia, nie są zbierane, a w razie przypadkowego zebrania są niezwłocznie usuwane. Usunięcie tych danych osobowych następuje w terminie 14 dni od chwili ustalenia, że nie mają one znaczenia dla sprawy.
 
-5. Przepisu art. 14 ust. 2 lit. f rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2016/679”, nie stosuje się, chyba że sygnalista nie spełnia warunków wskazanych w art. 6 albo wyraził wyraźną zgodę na ujawnienie swojej tożsamości.
+5. Przepisu art. 14 ust. 2 lit. f rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35., zwanego dalej „rozporządzeniem 2016/679”, nie stosuje się, chyba że sygnalista nie spełnia warunków wskazanych w art. 6 albo wyraził wyraźną zgodę na ujawnienie swojej tożsamości.
 
 6. Przepisu art. 15 ust. 1 lit. g rozporządzenia 2016/679 w zakresie przekazania informacji o źródle pozyskania danych osobowych nie stosuje się, chyba że sygnalista nie spełnia warunków wskazanych w art. 6 albo wyraził wyraźną zgodę na takie przekazanie.
 
@@ -153,11 +175,11 @@ source: "eli-html"
 
 **Art. 10.**
 
-1. Ustawę stosuje się w zakresie nieuregulowanym w przepisach aktów normatywnych ustanowionych przez instytucje Unii Europejskiej, wymienionych w części II załącznika do dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/1937 z dnia 23 października 2019 r. w sprawie ochrony osób zgłaszających naruszenia prawa Unii (Dz. Urz. UE L 305 z 26.11.2019, str. 17, z późn. zm.), zwanej dalej „dyrektywą 2019/1937”, oraz w przepisach implementujących albo wykonujących te akty.
+1. Ustawę stosuje się w zakresie nieuregulowanym w przepisach aktów normatywnych ustanowionych przez instytucje Unii Europejskiej, wymienionych w części II załącznika do dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/1937 z dnia 23 października 2019 r. w sprawie ochrony osób zgłaszających naruszenia prawa Unii (Dz. Urz. UE L 305 z 26.11.2019, str. 17, z późn. zm.)Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 347 z 20.10.2020, str. 1, Dz. Urz. UE L 265 z 12.10.2022, str. 1 oraz Dz. Urz. UE L 150 z 09.06.2023, str. 40., zwanej dalej „dyrektywą 2019/1937”, oraz w przepisach implementujących albo wykonujących te akty.
 
 2. Ustawa nie wyłącza stosowania przepisów odrębnych przewidujących szczególny tryb zgłaszania naruszeń prawa, w tym rozpatrywanie informacji o naruszeniu prawa zgłoszonych anonimowo.
 
-#### Rozdział 2 Zakaz działań odwetowych i środki ochrony
+#### Rozdział 2
 
 **Art. 11.** Wobec sygnalisty nie mogą być podejmowane działania odwetowe ani próby lub groźby zastosowania takich działań.
 
@@ -228,7 +250,7 @@ source: "eli-html"
 
 **Art. 22.** Przepisy niniejszego rozdziału stosuje się odpowiednio w przypadku, gdy informację o naruszeniu prawa zgłoszono do odpowiednich instytucji, organu lub jednostki organizacyjnej Unii Europejskiej w trybie właściwym do dokonywania takich zgłoszeń.
 
-#### Rozdział 3 Zgłoszenia wewnętrzne
+#### Rozdział 3
 
 **Art. 23.**
 
@@ -350,7 +372,7 @@ source: "eli-html"
 
 5. Dane osobowe oraz pozostałe informacje w rejestrze zgłoszeń wewnętrznych są przechowywane przez okres 3 lat po zakończeniu roku kalendarzowego, w którym zakończono działania następcze, lub po zakończeniu postępowań zainicjowanych tymi działaniami.
 
-#### Rozdział 4 Zgłoszenia zewnętrzne
+#### Rozdział 4
 
 **Art. 30.**
 
@@ -573,7 +595,7 @@ source: "eli-html"
 - **3)** trybie postępowania mającym zastosowanie w przypadku zgłoszenia zewnętrznego, w tym o wymaganym sposobie wyjaśnienia informacji będących przedmiotem zgłoszenia lub przedstawienia dodatkowych informacji;
 - **4)** terminie przekazania informacji zwrotnej oraz rodzaju i zawartości takiej informacji;
 - **5)** zasadach poufności mających zastosowanie do zgłoszeń zewnętrznych;
-- **6)** zasadach przetwarzania danych osobowych, o których mowa w art. 8, a także zasadach przetwarzania danych osobowych oraz informacji podawanych w przypadku zbierania danych od osoby, której dane dotyczą, uregulowanych odpowiednio w art. 5 i art. 13 rozporządzenia 2016/679, art. 13 dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/680 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez właściwe organy do celów zapobiegania przestępczości, prowadzenia postępowań przygotowawczych, wykrywania i ścigania czynów zabronionych i wykonywania kar, w sprawie swobodnego przepływu takich danych oraz uchylającej decyzję ramową Rady 2008/977/WSiSW (Dz. Urz. UE L 119 z 04.05.2016, str. 89, z późn. zm.) albo art. 15 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1725 z dnia 23 października 2018 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez instytucje, organy i jednostki organizacyjne Unii i swobodnego przepływu takich danych oraz uchylenia rozporządzenia (WE) nr 45/2001 i decyzji nr 1247/2002/WE (Dz. Urz. UE L 295 z 21.11.2018, str. 39);
+- **6)** zasadach przetwarzania danych osobowych, o których mowa w art. 8, a także zasadach przetwarzania danych osobowych oraz informacji podawanych w przypadku zbierania danych od osoby, której dane dotyczą, uregulowanych odpowiednio w art. 5 i art. 13 rozporządzenia 2016/679, art. 13 dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/680 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez właściwe organy do celów zapobiegania przestępczości, prowadzenia postępowań przygotowawczych, wykrywania i ścigania czynów zabronionych i wykonywania kar, w sprawie swobodnego przepływu takich danych oraz uchylającej decyzję ramową Rady 2008/977/WSiSW (Dz. Urz. UE L 119 z 04.05.2016, str. 89, z późn. zm.)Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 10. albo art. 15 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1725 z dnia 23 października 2018 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez instytucje, organy i jednostki organizacyjne Unii i swobodnego przepływu takich danych oraz uchylenia rozporządzenia (WE) nr 45/2001 i decyzji nr 1247/2002/WE (Dz. Urz. UE L 295 z 21.11.2018, str. 39);
 - **7)** charakterze działań następczych podejmowanych w związku ze zgłoszeniem zewnętrznym;
 - **8)** środkach ochrony prawnej i procedurach służących ochronie przed działaniami odwetowymi oraz dostępności poufnej porady dla osób rozważających dokonanie zgłoszenia zewnętrznego;
 - **9)** warunkach, na jakich sygnalista jest chroniony przed ponoszeniem odpowiedzialności za naruszenie poufności zgodnie z art. 16;
@@ -593,14 +615,14 @@ source: "eli-html"
 
 **Art. 50.** W zakresie nieuregulowanym w niniejszym rozdziale do postępowania przed organami publicznymi stosuje się odpowiednio przepisy działów VII i VIII ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-#### Rozdział 5 Ujawnienie publiczne
+#### Rozdział 5
 
 **Art. 51.**
 
 1. Sygnalista dokonujący ujawnienia publicznego podlega ochronie, jeżeli dokona:
 
 - **1)** zgłoszenia wewnętrznego, a następnie zgłoszenia zewnętrznego, a podmiot prawny, a następnie organ publiczny w terminie na przekazanie informacji zwrotnej ustalonym w procedurze wewnętrznej, a następnie w terminie na przekazanie informacji zwrotnej ustalonym w procedurze zewnętrznej organu publicznego nie podejmą żadnych odpowiednich działań następczych ani nie przekażą sygnaliście informacji zwrotnej lub
-- **2)** od razu zgłoszenia zewnętrznego, a organ publiczny w terminie na przekazanie informacji zwrotnej ustalonym w swojej procedurze zewnętrznej nie podejmie żadnych odpowiednich działań następczych ani nie przekaże sygnaliście informacji zwrotnej chyba że sygnalista nie podał adresu do kontaktu, na który należy przekazać taką informację.
+- **2)** od razu zgłoszenia zewnętrznego, a organ publiczny w terminie na przekazanie informacji zwrotnej ustalonym w swojej procedurze zewnętrznej nie podejmie żadnych odpowiednich działań następczych ani nie przekaże sygnaliście informacji zwrotnej – chyba że sygnalista nie podał adresu do kontaktu, na który należy przekazać taką informację.
 
 2. Sygnalista dokonujący ujawnienia publicznego podlega ochronie także w przypadku, gdy ma uzasadnione podstawy sądzić, że:
 
@@ -612,7 +634,7 @@ source: "eli-html"
 
 **Art. 53.** Przepisów art. 51 i art. 52 nie stosuje się, jeżeli przekazanie informacji o naruszeniu prawa następuje bezpośrednio do prasy i stosuje się ustawę z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. z 2018 r. poz. 1914).
 
-#### Rozdział 6 Przepisy karne
+#### Rozdział 6
 
 **Art. 54.**
 
@@ -634,7 +656,7 @@ source: "eli-html"
 
 **Art. 59.** Orzekanie w sprawach o czyn określony w art. 58 następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
 
-#### Rozdział 7 Przepisy zmieniające, dostosowujące i przepis końcowy
+#### Rozdział 7
 
 **Art. 60.** W ustawie z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich (Dz. U. z 2023 r. poz. 1058) wprowadza się następujące zmiany:
 
@@ -656,5 +678,5 @@ source: "eli-html"
 
 2. Pierwsze sprawozdanie, o którym mowa w art. 19 ust. 5 ustawy zmienianej w art. 60, Rzecznik Praw Obywatelskich przekazuje Sejmowi i Senatowi po 2 latach od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 64.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 5 ust. 4, art. 25 ust. 1 pkt 8 oraz przepisów rozdziału 4, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 64.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 5 ust. 4, art. 25 ust. 1 pkt 8 oraz przepisów rozdziału 4, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1937 z dnia 23 października 2019 r. w sprawie ochrony osób zgłaszających naruszenia prawa Unii (Dz. Urz. UE L 305 z 26.11.2019, str. 17, Dz. Urz. UE L 347 z 20.10.2020, str. 1, Dz. Urz. UE L 265 z 12.10.2022, str. 1 oraz Dz. Urz. UE L 150 z 09.06.2023, str. 40). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich oraz ustawę z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35. 4) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 347 z 20.10.2020, str. 1, Dz. Urz. UE L 265 z 12.10.2022, str. 1 oraz Dz. Urz. UE L 150 z 09.06.2023, str. 40. 5) Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 10.
 

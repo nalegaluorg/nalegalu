@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 26 października 2017 r. zmieniające rozporządzenie w sprawie szczegółowych warunków uznawania kwalifikacji i uprawnień nabytych w lotnictwie państwowym
+# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 26 października 2017 r. zmieniające rozporządzenie w sprawie szczegółowych warunków uznawania kwalifikacji i uprawnień nabytych w lotnictwie państwowym Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-26 |
 | Data wydania | 2017-11-10 |
-| Wejście w życie | 2017-11-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002080) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2080/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 104 ust. 9 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2017 r. poz. 959 i 1089) zarządza się, co następuje:
+Niniejsze rozporządzenie służy stosowaniu rozporządzenia Komisji (UE) 2015/340 z dnia 20 lutego 2015 r. ustanawiającego wymagania techniczne i procedury administracyjne dotyczące licencji i certyfikatów kontrolerów ruchu lotniczego zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008, zmieniającego rozporządzenie wykonawcze Komisji (UE) nr 923/2012 i uchylającego rozporządzenie Komisji (UE) nr 805/2011 (Dz. Urz. UE L 63 z 06.03.2015, str. 1). Na podstawie art. 104 ust. 9 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2017 r. poz. 959 i 1089) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 16 kwietnia 2015 r. w sprawie szczegółowych warunków uznawania kwalifikacji i uprawnień nabytych w lotnictwie państwowym (Dz. U. poz. 654) rozdział 4 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 16 kwietnia 2015 r. w sprawie szczegółowych warunków uznawania kwalifikacji i uprawnień nabytych w lotnictwie państwowym (Dz. U. poz. 654) rozdział 4 otrzymuje brzmienie: „
+Szczegółowe warunki uznawania kwalifikacji i uprawnień w celu uzyskania licencji praktykanta-kontrolera ruchu lotniczego, świadectwa kwalifikacji informatora służby informacji powietrznej i świadectwa kwalifikacji informatora lotniskowej służby informacji powietrznej
 § 10.
 1.
 Warunkiem ubiegania się o uznanie kwalifikacji i uprawnień w celu uzyskania:
@@ -39,8 +38,7 @@ licencji praktykanta-kontrolera ruchu lotniczego,
 2)
 świadectwa kwalifikacji informatora służby informacji powietrznej (FISO – Flight Information Service Officer), zwanego dalej „informatorem FIS”,
 3)
-świadectwa kwalifikacji informatora lotniskowej służby informacji powietrznej (AFISO – Aerodrome Flight Information Service Officer), zwanego dalej „informatorem AFIS”
-jest posiadanie przez kandydata przez co najmniej 3 lata uprawnień do zapewniania służb ruchu lotniczego w lotnictwie państwowym wydanych przez właściwe jednostki organizacyjne lotnictwa państwowego.
+świadectwa kwalifikacji informatora lotniskowej służby informacji powietrznej (AFISO – Aerodrome Flight Information Service Officer), zwanego dalej „informatorem AFIS” – jest posiadanie przez kandydata przez co najmniej 3 lata uprawnień do zapewniania służb ruchu lotniczego w lotnictwie państwowym wydanych przez właściwe jednostki organizacyjne lotnictwa państwowego.
 2.
 Uznanie kwalifikacji i uprawnień przeprowadza się na wniosek kandydata.
 3.
@@ -56,8 +54,7 @@ Wniosek, o którym mowa w ust. 2, kandydat w celu uzyskania:
 1)
 licencji praktykanta-kontrolera ruchu lotniczego składa bezpośrednio do kierownika organizacji posiadającej certyfikat organizacji szkolącej kontrolerów ruchu lotniczego (ATCO TO – Air Traffic Controller Training Organization),
 2)
-świadectwa kwalifikacji informatora FIS lub świadectwa kwalifikacji informatora AFIS składa bezpośrednio do kierownika organizacji posiadającej certyfikat organizacji szkolącej personel służb informacji powietrznej (FISP TO – Flight Information Service Personnel Training Organization)
-zwanych dalej „organizacją szkoleniową”.
+świadectwa kwalifikacji informatora FIS lub świadectwa kwalifikacji informatora AFIS składa bezpośrednio do kierownika organizacji posiadającej certyfikat organizacji szkolącej personel służb informacji powietrznej (FISP TO – Flight Information Service Personnel Training Organization) – zwanych dalej „organizacją szkoleniową”.
 § 11.
 W celu uznania kwalifikacji i uprawnień kandydat wykazuje się posiadaną wiedzą, umiejętnościami i praktyką przed komisją powołaną przez kierownika organizacji szkoleniowej.
 § 12.
@@ -144,13 +141,11 @@ przedłożyli dokumenty, o których mowa w § 10 ust. 3;
 3)
 zdali egzamin państwowy oraz
 4)
-spełnili wymagania określone odpowiednio w art. 95 ust. 3 pkt 8 lub 9 ustawy do wydania takiego dokumentu.
-” .
+spełnili wymagania określone odpowiednio w art. 95 ust. 3 pkt 8 lub 9 ustawy do wydania takiego dokumentu. ” .
 § 2.
 Do postępowań o uznanie kwalifikacji i uprawnień w celu uzyskania licencji praktykanta-kontrolera ruchu lotniczego, świadectwa kwalifikacji informatora służby informacji powietrznej i świadectwa kwalifikacji informatora lotniskowej służby informacji powietrznej wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Komisji (UE) 2015/340 z dnia 20 lutego 2015 r. ustanawiającego wymagania techniczne i procedury administracyjne dotyczące licencji i certyfikatów kontrolerów ruchu lotniczego zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008, zmieniającego rozporządzenie wykonawcze Komisji (UE) nr 923/2012 i uchylającego rozporządzenie Komisji (UE) nr 805/2011 (Dz. Urz. UE L 63 z 06.03.2015, str. 1).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Komisji (UE) 2015/340 z dnia 20 lutego 2015 r. ustanawiającego wymagania techniczne i procedury administracyjne dotyczące licencji i certyfikatów kontrolerów ruchu lotniczego zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008, zmieniającego rozporządzenie wykonawcze Komisji (UE) nr 923/2012 i uchylającego rozporządzenie Komisji (UE) nr 805/2011 (Dz. Urz. UE L 63 z 06.03.2015, str. 1).
 
-#### Rozdział 4 Szczegółowe warunki uznawania kwalifikacji i uprawnień w celu uzyskania licencji praktykanta-kontrolera ruchu lotniczego, świadectwa kwalifikacji informatora służby informacji powietrznej i świadectwa kwalifikacji informatora lotniskowej służby informacji powietrznej
+#### Rozdział 4
 

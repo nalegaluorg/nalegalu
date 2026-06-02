@@ -22,11 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-07-08 |
 | Data wydania | 2010-08-20 |
-| Wejście w życie | 2010-10-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101521016) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1016/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. Nr 90, poz. 631, z późn. zm.) wprowadza się następujące zmiany:
+Komisja Prawa Autorskiego
+Przepisy ogólne
+Zatwierdzanie tabel wynagrodzeń
+Wskazywanie organizacji właściwej w rozumieniu ustawy
+Rozstrzyganie sporów
+Pozostałe postępowania
+Postępowanie przed sądem
+
+**Art. 1.** W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. Nr 90, poz. 631, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 94, poz. 658 i Nr 121, poz. 843, z 2007 r. Nr 99, poz. 662 i Nr 181, poz. 1293 oraz z 2009 r. Nr 157, poz. 1241.) wprowadza się następujące zmiany:
 
 - **1)** w art. 211 ust. 2 otrzymuje brzmienie: „
 
@@ -75,9 +82,9 @@ source: "eli-html"
 - **8)** rozdział 121 oznacza się jako rozdział 122, a artykuły oznaczone numerami 1101 -1107 oznacza się numerami 11024–11030. Użyte w tym rozdziale wyrazy „art. 1101” i „art. 1103” zastępuje się odpowiednio wyrazami „art. 11024” i „art. 11026”;
 - **9)** po rozdziale 12 dodaje się rozdział 121 w brzmieniu: „
 
-#### Rozdział 121 Komisja Prawa Autorskiego
+#### Rozdział 121
 
-##### Oddział 1 Przepisy ogólne
+##### Oddział 1
 
 **Art. 1101.**
 
@@ -182,7 +189,7 @@ source: "eli-html"
 - **1)** za udział w orzekaniu w sprawach, o których mowa w art. 1101 ust. 2 pkt 1 – w wysokości dwukrotnego przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, włącznie z wypłatami z zysku, w kwartale poprzedzającym złożenie wniosku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”,
 - **2)** za udział w postępowaniu mediacyjnym w sprawach, o których mowa w art. 1101 ust. 2 pkt 2 i 3 – w wysokości przeciętnego wynagrodzenia, o którym mowa w pkt 1,
 - **3)** za udział w orzekaniu w sprawach, o których mowa w art. 1101 ust. 2 pkt 4 – w wysokości przeciętnego wynagrodzenia, o którym mowa w pkt 1,
-- **4)** za udział w orzekaniu w sprawach, o których mowa w art. 1101 ust. 2 pkt 5 i 6 – w wysokości 1/3 przeciętnego wynagrodzenia, o którym mowa w pkt 1 wypłacane po wydaniu orzeczenia kończącego postępowanie przed Komisją lub po przeprowadzeniu postępowania mediacyjnego.
+- **4)** za udział w orzekaniu w sprawach, o których mowa w art. 1101 ust. 2 pkt 5 i 6 – w wysokości 1/3 przeciętnego wynagrodzenia, o którym mowa w pkt 1 – wypłacane po wydaniu orzeczenia kończącego postępowanie przed Komisją lub po przeprowadzeniu postępowania mediacyjnego.
 
 2. Wynagrodzenie, o którym mowa w ust. 1, jest wypłacane z budżetu państwa, z części będącej w dyspozycji ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
 
@@ -193,9 +200,9 @@ source: "eli-html"
 1. Wniosek w sprawie należącej do właściwości Komisji podlega opłacie w wysokości:
 
 - **1)** dziesięciokrotnego przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, włącznie z wypłatami z zysku, w kwartale poprzedzającym złożenie wniosku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” – w sprawach, o których mowa w art. 1101 ust. 2 pkt 1;
-- **2)** trzykrotnego przeciętnego wynagrodzenia, o którym mowa w pkt 1 w sprawach, o których mowa w art. 1101 ust. 2 pkt 2–4;
+- **2)** trzykrotnego przeciętnego wynagrodzenia, o którym mowa w pkt 1 – w sprawach, o których mowa w art. 1101 ust. 2 pkt 2–4;
 - **3)** przeciętnego wynagrodzenia, o którym mowa w pkt 1 – w sprawach o wykładnię orzeczenia Komisji wydanego w składzie trzyosobowym;
-- **4)** jednego i 2/3 przeciętnego wynagrodzenia, o którym mowa w pkt 1 w sprawach o wykładnię orzeczenia Komisji wydanego w składzie pięcioosobowym.
+- **4)** jednego i 2/3 przeciętnego wynagrodzenia, o którym mowa w pkt 1 – w sprawach o wykładnię orzeczenia Komisji wydanego w składzie pięcioosobowym.
 
 2. Opłatę wnosi się wraz z wnioskiem, o którym mowa w ust. 1, na rachunek ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
 
@@ -205,7 +212,7 @@ source: "eli-html"
 
 **Art. 11010.** Obsługę techniczno-organizacyjną Komisji zapewnia urząd obsługujący ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
 
-##### Oddział 2 Zatwierdzanie tabel wynagrodzeń
+##### Oddział 2
 
 **Art. 11011.**
 
@@ -288,7 +295,7 @@ source: "eli-html"
 
 2. Postanowienia umowne określające wynagrodzenie mniej korzystne dla twórców oraz uprawnionych z tytułu praw pokrewnych, niż wynikałoby to z zatwierdzonych tabel wynagrodzeń, są nieważne, a ich miejsce zajmują odpowiednie postanowienia tych tabel.
 
-##### Oddział 3 Wskazywanie organizacji właściwej w rozumieniu ustawy
+##### Oddział 3
 
 **Art. 11017.**
 
@@ -313,7 +320,7 @@ source: "eli-html"
 
 6. Od orzeczenia zespołu orzekającego Komisji wydanego w trybie określonym w ust. 1–4, w terminie 14 dni od dnia jego doręczenia, przysługuje odwołanie do sądu. W postępowaniu toczącym się wskutek wniesienia odwołania stosuje się przepisy Kodeksu postępowania cywilnego o apelacji.
 
-##### Oddział 4 Rozstrzyganie sporów
+##### Oddział 4
 
 **Art. 11018.**
 
@@ -327,7 +334,7 @@ source: "eli-html"
 
 5. Do postępowania w sprawach, o których mowa w ust. 1, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o mediacji.
 
-##### Oddział 5 Pozostałe postępowania
+##### Oddział 5
 
 **Art. 11019.**
 
@@ -337,7 +344,7 @@ source: "eli-html"
 
 3. Sprawy o uzupełnienie, sprostowanie lub wykładnię orzeczenia Komisji rozpatruje zespół orzekający Komisji w takim samym składzie, który wydał orzeczenie w sprawie.
 
-##### Oddział 6 Postępowanie przed sądem
+##### Oddział 6
 
 **Art. 11020.**
 
@@ -367,7 +374,7 @@ source: "eli-html"
 
 1. Opłatę stałą w kwocie 1 000 zł pobiera się od wniosku o zatwierdzenie tabeli wynagrodzeń za korzystanie z utworów i przedmiotów praw pokrewnych.
 
-2. Opłatę stałą w kwocie 100 zł pobiera się od odwołania od orzeczenia zespołu orzekającego Komisji Prawa Autorskiego w sprawie o wskazanie organizacji właściwej w rozumieniu art. 107 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. Nr 90, poz. 631, z późn. zm.). ” .
+2. Opłatę stałą w kwocie 100 zł pobiera się od odwołania od orzeczenia zespołu orzekającego Komisji Prawa Autorskiego w sprawie o wskazanie organizacji właściwej w rozumieniu art. 107 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. Nr 90, poz. 631, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 94, poz. 658 i Nr 121, poz. 843, z 2007 r. Nr 99, poz. 662 i Nr 181, poz. 1293, z 2009 r. Nr 157, poz. 1241 oraz z 2010 r. Nr 152, poz. 1016.). ” .
 
 **Art. 3.**
 
@@ -387,5 +394,5 @@ source: "eli-html"
 
 8. Pierwsze sprawozdania, o których mowa w art. 104 ust. 31 i 32 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, organizacja zbiorowego zarządzania sporządza po zamknięciu pierwszego pełnego roku obrotowego, który nastąpi po wejściu w życie niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 94, poz. 658 i Nr 121, poz. 843, z 2007 r. Nr 99, poz. 662 i Nr 181, poz. 1293 oraz z 2009 r. Nr 157, poz. 1241. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 94, poz. 658 i Nr 121, poz. 843, z 2007 r. Nr 99, poz. 662 i Nr 181, poz. 1293, z 2009 r. Nr 157, poz. 1241 oraz z 2010 r. Nr 152, poz. 1016.
 

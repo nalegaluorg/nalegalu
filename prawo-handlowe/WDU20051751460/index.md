@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-29 |
 | Data wydania | 2005-09-12 |
-| Wejście w życie | 2006-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051751460) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1460/text.pdf) |
 
@@ -70,16 +69,16 @@ source: "eli-html"
 - **1)** okresowych wielkoobszarowych inwentaryzacji stanu lasów,
 - **2)** aktualizacji stanu zasobów leśnych,
 - **3)** prowadzenia banku danych o zasobach leśnych i stanie lasów,
-- **4)** sporządzania planów urządzenia lasu dla lasów będących w zarządzie Lasów Państwowych powierza się przedsiębiorstwu państwowemu pod nazwą Biuro Urządzania Lasu i Geodezji Leśnej.
+- **4)** sporządzania planów urządzenia lasu dla lasów będących w zarządzie Lasów Państwowych – powierza się przedsiębiorstwu państwowemu pod nazwą Biuro Urządzania Lasu i Geodezji Leśnej.
 
-2. Do przedsiębiorstwa państwowego pod nazwą Biuro Urządzania Lasu i Geodezji Leśnej z siedzibą w Warszawie nie stosuje się przepisów ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.). ” ;
+2. Do przedsiębiorstwa państwowego pod nazwą Biuro Urządzania Lasu i Geodezji Leśnej z siedzibą w Warszawie nie stosuje się przepisów ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722 oraz z 2005 r. Nr 167, poz. 1400 i Nr 169, poz. 1418.). ” ;
 
 - **3)** art. 25 otrzymuje brzmienie: „
 
 **Art. 25.** Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:
 
 - **1)** szczegółowe warunki i tryb sporządzania planu urządzenia lasu, uproszczonego planu urządzenia lasu oraz inwentaryzacji stanu lasu, o której mowa w art. 19 ust. 3,
-- **2)** szczegółowe wymagania w sprawie spełnienia warunków udzielania zezwoleń, o których mowa w art. 19a ust. 2, w związku z przedmiotem i zakresem świadczonych usług, a w szczególności wymagania dotyczące doświadczenia podmiotu w wykonywaniu planów urządzenia lasu oraz wielkość potencjału technicznego i kadrowego niezbędnego do należytego i terminowego wykonywania prac urządzeniowych, z uwzględnieniem wykształcenia, stażu pracy i wykonywanych czynności, szczegółowy zakres danych zawartych we wniosku o wydanie zezwolenia, niezbędne dokumenty do wydania zezwolenia oraz wzór wniosku uwzględniając prawidłowość sporządzania dokumentacji urządzeniowej oraz przejrzystość procedury uzyskiwania zezwoleń. ” ;
+- **2)** szczegółowe wymagania w sprawie spełnienia warunków udzielania zezwoleń, o których mowa w art. 19a ust. 2, w związku z przedmiotem i zakresem świadczonych usług, a w szczególności wymagania dotyczące doświadczenia podmiotu w wykonywaniu planów urządzenia lasu oraz wielkość potencjału technicznego i kadrowego niezbędnego do należytego i terminowego wykonywania prac urządzeniowych, z uwzględnieniem wykształcenia, stażu pracy i wykonywanych czynności, szczegółowy zakres danych zawartych we wniosku o wydanie zezwolenia, niezbędne dokumenty do wydania zezwolenia oraz wzór wniosku – uwzględniając prawidłowość sporządzania dokumentacji urządzeniowej oraz przejrzystość procedury uzyskiwania zezwoleń. ” ;
 - **4)** art. 38 otrzymuje brzmienie: „
 
 **Art. 38.**
@@ -129,7 +128,7 @@ source: "eli-html"
 
 6. Przepisy ust. 4–5b stosuje się odpowiednio do osób, które są lub były zatrudnione w szkołach leśnych, zakładowych przychodniach i poradniach lekarskich oraz innych jednostkach organizacyjnych leśnictwa.
 
-7. Najemcy nieposiadający uprawnień, o których mowa w ust. 4, 5 i 6, mogą nabywać przeznaczone do sprzedaży lokale, które zajmują co najmniej od trzech lat, na podstawie umowy najmu, zawartej na czas nieoznaczony, za cenę obniżoną za każdy rok najmu o 3%, nie więcej jednak niż o 45%. Wymogu zajmowania lokalu przez okres co najmniej trzech lat nie stosuje się do najemców będących organizacjami pozarządowymi, które uzyskały status organizacji pożytku publicznego i prowadzą działalność zgodnie z ustawą z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. Nr 96, poz. 873, z późn. zm.).
+7. Najemcy nieposiadający uprawnień, o których mowa w ust. 4, 5 i 6, mogą nabywać przeznaczone do sprzedaży lokale, które zajmują co najmniej od trzech lat, na podstawie umowy najmu, zawartej na czas nieoznaczony, za cenę obniżoną za każdy rok najmu o 3%, nie więcej jednak niż o 45%. Wymogu zajmowania lokalu przez okres co najmniej trzech lat nie stosuje się do najemców będących organizacjami pozarządowymi, które uzyskały status organizacji pożytku publicznego i prowadzą działalność zgodnie z ustawą z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. Nr 96, poz. 873, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 116, poz. 1203 i Nr 210, poz. 2135 oraz z 2005 r. Nr 155, poz. 1298 i Nr 169, poz. 1420.).
 
 8. Wykazy lokali oraz gruntów z budynkami mieszkalnymi w budowie przeznaczonych do sprzedaży sporządzają dyrektorzy regionalnych dyrekcji Lasów Państwowych. Wykazy są przedmiotem opinii związków zawodowych. Sprzedaż może być dokonana po zatwierdzeniu wykazu przez Dyrektora Generalnego i ogłoszeniu wykazu w Biuletynie Informacyjnym Lasów Państwowych oraz w prasie. Ogłoszeniu w prasie nie podlega wykaz lokali zasiedlonych. O przeznaczeniu do sprzedaży lokali oraz o terminie do skorzystania z pierwszeństwa nabycia zawiadamia się najemców, o których mowa w ust. 4–5a, 6 i 7.
 
@@ -188,11 +187,11 @@ source: "eli-html"
 
 5. Nadleśnictwa zasięgają opinii właściwych organów administracji samorządowej w zakresie rocznego planu zalesiania gruntów niestanowiących własności Skarbu Państwa. ” .
 
-**Art. 2.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807, z późn. zm.) w art. 75 w ust. 1 dodaje się pkt 28 w brzmieniu: „
+**Art. 2.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2777 oraz z 2005 r. Nr 33, poz. 289, Nr 94, poz. 788 i Nr 143, poz. 1199.) w art. 75 w ust. 1 dodaje się pkt 28 w brzmieniu: „
 
 - **28)** w art. 19a ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, Nr 157, poz. 1315, Nr 167, poz. 1399 i Nr 175, poz. 1460). ”
 
 **Art. 3.** Dotychczasowe akty wykonawcze wydane na podstawie przepisów ustawy, o której mowa w art. 1, zachowują moc do czasu wydania nowych aktów wykonawczych na podstawie przepisów ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, ale nie dłużej niż przez 6 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2006 r.
+**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2006 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722 oraz z 2005 r. Nr 167, poz. 1400 i Nr 169, poz. 1418. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 116, poz. 1203 i Nr 210, poz. 2135 oraz z 2005 r. Nr 155, poz. 1298 i Nr 169, poz. 1420. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2777 oraz z 2005 r. Nr 33, poz. 289, Nr 94, poz. 788 i Nr 143, poz. 1199.
 

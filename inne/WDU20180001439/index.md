@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001439) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1439/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 3 lutego 1993 r. o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw Rozdział 1 – Przepisy ogólne Rozdział 2 – Bankowe postępowanie ugodowe Rozdział 3 – Publiczna sprzedaż wierzytelności bankowych Rozdział 4 Rozdział 5 – Przekazywanie środków na powiększenie funduszy własnych banków Rozdział 6 – Zmiany w przepisach obowiązujących, przepisy końcowe
+Załącznik – Tekst jednolity ustawy z dnia 3 lutego 1993 r. o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 3 lutego 1993 r. o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw (Dz. U. Nr 18, poz. 82), z uwzględnieniem zmian wprowadzonych:
@@ -43,17 +43,32 @@ ustawą z dnia 11 maja 2001 r. o zmianie ustawy o restrukturyzacji finansowej pr
 6)
 ustawą z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539),
 7)
-ustawą z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 3 lipca 2018 r.
+ustawą z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) oraz zmian wynikających z przepisów ogłoszonych przed dniem 3 lipca 2018 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 55 i art. 56 ustawy z dnia 3 lutego 1993 r. o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw (Dz. U. Nr 18, poz. 82), które stanowią:
-„
+art. 55 i art. 56 ustawy z dnia 3 lutego 1993 r. o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw (Dz. U. Nr 18, poz. 82), które stanowią: „
+Przepisy ogólne
+Bankowe postępowanie ugodowe
 Na wniosek dłużnika, który zaprzestał spłacania długu wobec banku lub nie będzie w stanie spłacać długu w przyszłości – bank, z zastrzeżeniem art. 7, 8 i art. 37, może wszcząć bankowe postępowanie ugodowe w celu doprowadzenia do ugody między dłużnikiem i wierzycielami.
-(uchylony)
-(pominięty)
-(pominięty)
+Publiczna sprzedaż wierzytelności bankowych
+(uchylony)Przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1.
+Przekazywanie środków na powiększenie funduszy własnych banków
+Zmiany w przepisach obowiązujących, przepisy końcowe
+(pominięty)Zamieszczony w obwieszczeniu.
+(pominięty)Zamieszczony w obwieszczeniu.
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Bankowe postępowanie ugodowe
+
+#### Rozdział 3 – Publiczna sprzedaż wierzytelności bankowych
+
+#### Rozdział 4
+
+#### Rozdział 5 – Przekazywanie środków na powiększenie funduszy własnych banków
+
+#### Rozdział 6 – Zmiany w przepisach obowiązujących, przepisy końcowe
 
 **Art. 55.** W ustawie z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 1991 r. Nr 18, poz. 80, Nr 75, poz. 329, Nr 101, poz. 444 i Nr 107, poz. 464) wprowadza się następujące zmiany:
 
@@ -113,7 +128,7 @@ Na wniosek dłużnika, który zaprzestał spłacania długu wobec banku lub nie 
 
 **Art. 5.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. ” ;
 
-- **6)** odnośnika nr 1 oraz art. 131 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539), które stanowią: „
+- **6)** odnośnika nr 1 oraz art. 131 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539), które stanowią: „ 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw:
 - **1)** dyrektywy Parlamentu Europejskiego i Rady 2001/34/WE z dnia 28 maja 2001 r. w sprawie dopuszczenia papierów wartościowych do publicznego obrotu giełdowego oraz informacji dotyczących tych papierów wartościowych, które podlegają publikacji (Dz. Urz. WE L 184 z 06.07.2001, Dz. Urz. WE L 96 z 12.04.2003, Dz. Urz. WE L 345 z 31.12.2003 oraz Dz. Urz. WE L 390 z 31.12.2004);
 - **2)** dyrektywy Parlamentu Europejskiego i Rady 2003/6/WE z dnia 28 stycznia 2003 r. w sprawie wykorzystywania poufnych informacji i manipulacji na rynku (nadużyć na rynku) (Dz. Urz. WE L 96 z 12.04.2003);
 - **3)** dyrektywy Parlamentu Europejskiego i Rady 2003/71/WE z dnia 4 listopada 2003 r. w sprawie prospektu emisyjnego publikowanego w związku z publiczną ofertą lub dopuszczeniem do obrotu papierów wartościowych i zmieniającej dyrektywę 2001/34/WE (Dz. Urz. WE L 345 z 31.12.2003);
@@ -125,13 +140,13 @@ Na wniosek dłużnika, który zaprzestał spłacania długu wobec banku lub nie 
 
 **Art. 61.** Ustawa wchodzi w życie z dniem 1 września 2017 r., z wyjątkiem art. 45, art. 46, art. 49–51, art. 52 ust. 2–5 oraz art. 57 ust. 5 i 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia niniejszej ustawy. ” . Załącznik – Tekst jednolity ustawy z dnia 3 lutego 1993 r. o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa reguluje:
 
 - **1)** bankowe postępowanie ugodowe;
 - **2)** publiczną sprzedaż wierzytelności bankowych;
-- **3)** (uchylony)
+- **3)** (uchylony)Przez art. 1 pkt 1 ustawy z dnia 11 maja 2001 r. o zmianie ustawy o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw, ustawy o narodowych funduszach inwestycyjnych i ich prywatyzacji oraz ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych (Dz. U. poz. 637), która weszła w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, tj. z dniem 1 maja 2004 r.
 - **4)** przekazywanie środków na powiększenie funduszy własnych banków państwowych oraz banków, w których Skarb Państwa posiada więcej niż 50% akcji lub udziałów.
 
 **Art. 2.** Uprawnienia i obowiązki banku określone w rozdziałach 2 i 3 przysługują każdemu bankowi. Uprawnienia i obowiązki banku określone w rozdziałach 2 i 3 przysługują także Agencji Rozwoju Przemysłu Spółka Akcyjna. Ilekroć w ustawie jest mowa o:
@@ -141,32 +156,25 @@ Na wniosek dłużnika, który zaprzestał spłacania długu wobec banku lub nie 
 - **3)** statutach – należy przez to rozumieć statuty spółek akcyjnych oraz umowy i akty założycielskie spółek z ograniczoną odpowiedzialnością;
 - **4)** wartości księgowej netto – należy przez to rozumieć, w przypadku spółki, sumę kapitałów własnych skorygowaną o wynik finansowy, a w przypadku przedsiębiorstwa państwowego, sumę funduszy własnych skorygowaną o wynik finansowy.
 
-#### Rozdział 2 Bankowe postępowanie ugodowe
+#### Rozdział 2
 
 **Art. 6.**
 
 1. Bankowe postępowanie ugodowe może dotyczyć:
 
-- **1)** wyłącznie dłużnika będącego przedsiębiorstwem państwowym, jednoosobową spółką Skarbu Państwa lub spółką, w której akcje będące własnością Skarbu Państwa, przedsiębiorstw państwowych i jednoosobowych spółek Skarbu Państwa stanowią łącznie więcej niż 50%;
-- **2)** Krajowego Ośrodka Wsparcia Rolnictwa, w części obejmującej jego zobowiązania przejęte – stosownie do odrębnych przepisów o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa – po zlikwidowanych państwowych przedsiębiorstwach gospodarki rolnej.
-
-2. Jeżeli dłużnikiem jest Krajowy Ośrodek Wsparcia Rolnictwa, przedmiotem bankowego postępowania ugodowego są wierzytelności wobec poszczególnych, zlikwidowanych i przejętych przez Krajowy Ośrodek Wsparcia Rolnictwa państwowych przedsiębiorstw gospodarki rolnej.
+- **1)** wyłącznie dłużnika będącego przedsiębiorstwem państwowym, jednoosobową spółką Skarbu Państwa lub spółką, w której akcje będące własnością Skarbu Państwa, przedsiębiorstw państwowych i jednoosobowych spółek Skarbu Państwa stanowią łącznie więcej niż 50%; 2Ze zmianami wprowadzonymi przez art. 10 pkt 1 i pkt 1a ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503), która weszła w życie z dniem 1 września 2017 r.) Krajowego Ośrodka Wsparcia Rolnictwa, w części obejmującej jego zobowiązania przejęte – stosownie do odrębnych przepisów o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa – po zlikwidowanych państwowych przedsiębiorstwach gospodarki rolnej. 2Ze zmianami wprowadzonymi przez art. 10 pkt 1 i pkt 2 ustawy, o której mowa w odnośniku 2.. Jeżeli dłużnikiem jest Krajowy Ośrodek Wsparcia Rolnictwa, przedmiotem bankowego postępowania ugodowego są wierzytelności wobec poszczególnych, zlikwidowanych i przejętych przez Krajowy Ośrodek Wsparcia Rolnictwa państwowych przedsiębiorstw gospodarki rolnej.
 
 **Art. 7.**
 
 1. Bank może wszcząć bankowe postępowanie ugodowe indywidualnie lub w imieniu i za zgodą grupy banków, gdy:
 
-- **1)** wierzytelności banku lub grupy banków wobec dłużnika stanowią co najmniej 10% ogólnej kwoty zobowiązań dłużnika, przy czym suma wierzytelności bankowej jest nie mniejsza niż sto tysięcy złotych, lub
-- **2)** wierzytelności banku lub grupy banków stanowią nie mniej niż 20% ogólnej kwoty zobowiązań dłużnika.
-
-2. Jeżeli dłużnikiem jest Krajowy Ośrodek Wsparcia Rolnictwa, wierzytelności, o których mowa w ust. 1, ustala się na podstawie protokołu zdawczo-odbiorczego majątku, wierzytelności i zobowiązań zlikwidowanego państwowego przedsiębiorstwa gospodarki rolnej, sporządzanego przez organ założycielski tego przedsiębiorstwa i Krajowy Ośrodek Wsparcia Rolnictwa.
+- **1)** wierzytelności banku lub grupy banków wobec dłużnika stanowią co najmniej 10% ogólnej kwoty zobowiązań dłużnika, przy czym suma wierzytelności bankowej jest nie mniejsza niż sto tysięcy złotychZ uwzględnieniem przepisów ustawy z dnia 7 lipca 1994 r. o denominacji złotego (Dz. U. poz. 386 oraz z 1995 r. poz. 79), która weszła w życie z dniem 1 stycznia 1995 r., lub
+- **2)** wierzytelności banku lub grupy banków stanowią nie mniej niż 20% ogólnej kwoty zobowiązań dłużnika. 2Ze zmianami wprowadzonymi przez art. 10 pkt 1 i pkt 2 ustawy, o której mowa w odnośniku 2.. Jeżeli dłużnikiem jest Krajowy Ośrodek Wsparcia Rolnictwa, wierzytelności, o których mowa w ust. 1, ustala się na podstawie protokołu zdawczo-odbiorczego majątku, wierzytelności i zobowiązań zlikwidowanego państwowego przedsiębiorstwa gospodarki rolnej, sporządzanego przez organ założycielski tego przedsiębiorstwa i Krajowy Ośrodek Wsparcia Rolnictwa.
 
 3. Przez ogólną kwotę zobowiązań dłużnika, o której mowa w ust. 1, rozumie się, z zastrzeżeniem ust. 4, kwotę wynikającą z pomniejszenia sumy bilansowej bilansu, sporządzonego na koniec kwartału poprzedzającego dzień złożenia wniosku:
 
 - **1)** o kapitały – w przypadku spółki,
-- **2)** o fundusze własne – w przypadku przedsiębiorstwa państwowego skorygowane o wynik finansowy.
-
-4. Przez ogólną kwotę zobowiązań dłużnika, będącego Krajowym Ośrodkiem Wsparcia Rolnictwa, rozumie się kwotę zobowiązań określoną w protokole zdawczo-odbiorczym, o którym mowa w ust. 2.
+- **2)** o fundusze własne – w przypadku przedsiębiorstwa państwowego – skorygowane o wynik finansowy. 4Ze zmianą wprowadzoną przez art. 10 pkt 1 ustawy, o której mowa w odnośniku 2.. Przez ogólną kwotę zobowiązań dłużnika, będącego Krajowym Ośrodkiem Wsparcia Rolnictwa, rozumie się kwotę zobowiązań określoną w protokole zdawczo-odbiorczym, o którym mowa w ust. 2.
 
 **Art. 8.** Bankiem właściwym do wszczęcia bankowego postępowania ugodowego jest:
 
@@ -189,11 +197,7 @@ Na wniosek dłużnika, który zaprzestał spłacania długu wobec banku lub nie 
 2. Przepisy ust. 1 stosuje się odpowiednio, gdy przedmiotem bankowego postępowania ugodowego mają być wierzytelności, o których mowa w art. 6 ust. 2, z tym że:
 
 - **1)** w miejsce wyciągu z rejestru dłużnik dołącza decyzję organu założycielskiego o likwidacji państwowego przedsiębiorstwa gospodarki rolnej;
-- **2)** dane określone w ust. 1 pkt 2 i 4–7 dotyczą zlikwidowanego przedsiębiorstwa.
-
-3. Jeżeli dłużnikiem jest państwowe przedsiębiorstwo gospodarki rolnej, propozycje ugodowe, uwzględniające również program zagospodarowania majątku po przejęciu przez Krajowy Ośrodek Wsparcia Rolnictwa, wymagają zgody Krajowego Ośrodka Wsparcia Rolnictwa.
-
-4. Jeżeli dłużnikiem jest Krajowy Ośrodek Wsparcia Rolnictwa, propozycje ugodowe uwzględniają program zagospodarowania majątku po zlikwidowanym państwowym przedsiębiorstwie gospodarki rolnej.
+- **2)** dane określone w ust. 1 pkt 2 i 4–7 dotyczą zlikwidowanego przedsiębiorstwa. 3Ze zmianami wprowadzonymi przez art. 10 pkt 1 i pkt 2 ustawy, o której mowa w odnośniku 2.. Jeżeli dłużnikiem jest państwowe przedsiębiorstwo gospodarki rolnej, propozycje ugodowe, uwzględniające również program zagospodarowania majątku po przejęciu przez Krajowy Ośrodek Wsparcia Rolnictwa, wymagają zgody Krajowego Ośrodka Wsparcia Rolnictwa. 4Ze zmianą wprowadzoną przez art. 10 pkt 1 ustawy, o której mowa w odnośniku 2.. Jeżeli dłużnikiem jest Krajowy Ośrodek Wsparcia Rolnictwa, propozycje ugodowe uwzględniają program zagospodarowania majątku po zlikwidowanym państwowym przedsiębiorstwie gospodarki rolnej.
 
 **Art. 10.**
 
@@ -211,9 +215,9 @@ Na wniosek dłużnika, który zaprzestał spłacania długu wobec banku lub nie 
 - **1)** z tytułu ubezpieczeń społecznych;
 - **2)** ze stosunku pracy;
 - **3)** z umowy o rentę lub o dożywocie;
-- **4)** zabezpieczonych zastawem, z wyjątkiem zastawów ustanowionych później niż na 30 dni przed złożeniem wniosku o wszczęcie bankowego postępowania ugodowego oraz zastawów ustawowych w rozumieniu ustawy z dnia 19 grudnia 1980 r. o zobowiązaniach podatkowych (Dz. U. poz. 111, z późn. zm.);
+- **4)** zabezpieczonych zastawem, z wyjątkiem zastawów ustanowionych później niż na 30 dni przed złożeniem wniosku o wszczęcie bankowego postępowania ugodowego oraz zastawów ustawowych w rozumieniu ustawy z dnia 19 grudnia 1980 r. o zobowiązaniach podatkowych (Dz. U. poz. 111, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1982 r. poz. 289, z 1984 r. poz. 268, z 1985 r. poz. 50, z 1988 r. poz. 325, z 1989 r. poz. 23, 176, 192 i 443, z 1990 r. poz. 198, z 1991 r. poz. 442 i 475 oraz z 1992 r. poz. 86 i 251.);
 - **5)** zabezpieczonych hipoteką, z wyjątkiem hipotek ustanowionych później niż na 30 dni przed złożeniem wniosku o wszczęcie bankowego postępowania ugodowego oraz hipotek przymusowych i hipotek ustawowych w rozumieniu ustawy z dnia 31 stycznia 1989 r. – Prawo bankowe (Dz. U. z 1992 r. poz. 359 oraz z 1993 r. poz. 29);
-- **6)** powstałych z tytułu pobierania przez dłużnika – zobowiązanego jako płatnik w rozumieniu ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 200, z późn. zm.) – zaliczek na podatek dochodowy.
+- **6)** powstałych z tytułu pobierania przez dłużnika – zobowiązanego jako płatnik w rozumieniu ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 200, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2494 oraz z 2018 r. poz. 106, 138, 317, 398, 650, 685, 858, 912, 1076 i 1162.) – zaliczek na podatek dochodowy.
 
 **Art. 12.**
 
@@ -243,9 +247,8 @@ Na wniosek dłużnika, który zaprzestał spłacania długu wobec banku lub nie 
 
 **Art. 16.**
 
-1. Bankowe postępowanie ugodowe prowadzi do zawarcia ugody bankowej, która obejmuje:
+1. Bankowe postępowanie ugodowe prowadzi do zawarcia ugody bankowej, która obejmuje: 1Ze zmianą wprowadzoną przez art. 10 pkt 1 ustawy, o której mowa w odnośniku 2.) zobowiązanie dłużnika do podjęcia określonych działań zmierzających do naprawy przedsiębiorstwa dłużnika, a w przypadku gdy dłużnikiem jest Krajowy Ośrodek Wsparcia Rolnictwa – do realizacji programu zagospodarowania majątku po zlikwidowanym państwowym przedsiębiorstwie gospodarki rolnej;
 
-- **1)** zobowiązanie dłużnika do podjęcia określonych działań zmierzających do naprawy przedsiębiorstwa dłużnika, a w przypadku gdy dłużnikiem jest Krajowy Ośrodek Wsparcia Rolnictwa – do realizacji programu zagospodarowania majątku po zlikwidowanym państwowym przedsiębiorstwie gospodarki rolnej;
 - **2)** zobowiązanie wierzycieli do podjęcia działań w celu wsparcia realizacji programu naprawczego;
 - **3)** określenie zasad zamiany wierzytelności na akcje, jeżeli ugoda przewiduje taką zamianę;
 - **4)** określenie sposobu pokrywania kosztów ponoszonych w związku z bankowym postępowaniem ugodowym; Skarb Państwa jest zwolniony z obowiązku ponoszenia kosztów;
@@ -280,13 +283,11 @@ Na wniosek dłużnika, który zaprzestał spłacania długu wobec banku lub nie 
 2. Przepisów ust. 1 nie stosuje się, o ile:
 
 - **1)** przekształcenie przedsiębiorstwa w trybie i na zasadach przepisów ustawy o prywatyzacji przedsiębiorstw państwowych lub
-- **2)** likwidacja przedsiębiorstwa w trybie określonym w art. 37 ust. 1 pkt 2 ustawy o prywatyzacji przedsiębiorstw państwowych nie jest warunkiem zawartym w ugodzie.
+- **2)** likwidacja przedsiębiorstwa w trybie określonym w art. 37 ust. 1 pkt 2 ustawy o prywatyzacji przedsiębiorstw państwowych – nie jest warunkiem zawartym w ugodzie.
 
 3. Przepisów ust. 1 nie stosuje się do przedsiębiorstw państwowych, których prywatyzacja wymaga zgody Rady Ministrów na podstawie odrębnych przepisów, chyba że Rada Ministrów wyrazi zgodę na prywatyzację, oraz do państwowych przedsiębiorstw gospodarki rolnej.
 
-4. Z chwilą przekształcenia przez Ministra Przekształceń Własnościowych przedsiębiorstwa państwowego w jednoosobową spółkę Skarbu Państwa lub wniesienia przedsiębiorstwa albo zorganizowanych części mienia przedsiębiorstwa do spółki w trybie art. 37 ust. 1 pkt 2 ustawy o prywatyzacji przedsiębiorstw państwowych – spółka ta staje się stroną w bankowym postępowaniu ugodowym jako dłużnik.
-
-5. Z dniem podjęcia decyzji o likwidacji państwowego przedsiębiorstwa gospodarki rolnej w celu przekazania majątku tego przedsiębiorstwa Krajowemu Ośrodkowi Wsparcia Rolnictwa – stroną w bankowym postępowaniu ugodowym staje się Krajowy Ośrodek Wsparcia Rolnictwa.
+4. Z chwilą przekształcenia przez Ministra Przekształceń Własnościowych przedsiębiorstwa państwowego w jednoosobową spółkę Skarbu Państwa lub wniesienia przedsiębiorstwa albo zorganizowanych części mienia przedsiębiorstwa do spółki w trybie art. 37 ust. 1 pkt 2 ustawy o prywatyzacji przedsiębiorstw państwowych – spółka ta staje się stroną w bankowym postępowaniu ugodowym jako dłużnik. 5Ze zmianami wprowadzonymi przez art. 10 pkt 1 i pkt 2 ustawy, o której mowa w odnośniku 2.. Z dniem podjęcia decyzji o likwidacji państwowego przedsiębiorstwa gospodarki rolnej w celu przekazania majątku tego przedsiębiorstwa Krajowemu Ośrodkowi Wsparcia Rolnictwa – stroną w bankowym postępowaniu ugodowym staje się Krajowy Ośrodek Wsparcia Rolnictwa.
 
 **Art. 18.**
 
@@ -296,9 +297,7 @@ Na wniosek dłużnika, który zaprzestał spłacania długu wobec banku lub nie 
 
 **Art. 19.**
 
-1. Organy podatkowe dokonują zmian w zobowiązaniach podatkowych dłużnika, będących następstwem zawartej ugody bankowej.
-
-2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, tryb postępowania organów podatkowych dokonujących zmian w zobowiązaniach podatkowych dłużnika, wynikających z zawartej ugody bankowej.
+1. Organy podatkowe dokonują zmian w zobowiązaniach podatkowych dłużnika, będących następstwem zawartej ugody bankowej. 2Ze zmianą wprowadzoną przez art. 66 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. poz. 943 oraz z 1998 r. poz. 1122), która weszła w życie z dniem 1 kwietnia 1999 r.. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, tryb postępowania organów podatkowych dokonujących zmian w zobowiązaniach podatkowych dłużnika, wynikających z zawartej ugody bankowej.
 
 **Art. 20.**
 
@@ -312,11 +311,7 @@ Na wniosek dłużnika, który zaprzestał spłacania długu wobec banku lub nie 
 
 5. Ugodę zawieraną na warunkach określonych w art. 17 ust. 1 podpisuje w imieniu Skarbu Państwa Minister Przekształceń Własnościowych lub osoba przez niego upoważniona.
 
-6. Przedstawiciel Ministra Finansów, o którym mowa w ust. 4, może nie podpisać ugody bankowej tylko wtedy, gdy wierzytelności Skarbu Państwa zostały potraktowane w sposób krzywdzący w stosunku do innych wierzytelności, z zastrzeżeniem art. 18 ust. 2.
-
-7. Do zbywania i obciążania akcji należących do Skarbu Państwa, w ramach wykonywania ugody bankowej, nie stosuje się przepisów ustawy o prywatyzacji przedsiębiorstw państwowych, z wyjątkiem przepisów dotyczących nabywania akcji przez pracowników i rolników lub rybaków.
-
-8. Przepis art. 63 ust. 2 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2017 r. poz. 1055 oraz z 2018 r. poz. 702) stosuje się odpowiednio, z tym że uprawnionym pracownikom oraz rolnikom lub rybakom przysługuje prawo do nieodpłatnego nabycia do 15% akcji Skarbu Państwa według stanu z dnia objęcia przez Skarb Państwa, jeżeli do Skarbu Państwa należy jeszcze taka część akcji. Jeżeli do Skarbu Państwa należy mniejsza część akcji, prawo do nieodpłatnego nabycia ogranicza się do tej części.
+6. Przedstawiciel Ministra Finansów, o którym mowa w ust. 4, może nie podpisać ugody bankowej tylko wtedy, gdy wierzytelności Skarbu Państwa zostały potraktowane w sposób krzywdzący w stosunku do innych wierzytelności, z zastrzeżeniem art. 18 ust. 2. 7Ze zmianą wprowadzoną przez art. 72 pkt 1 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji przedsiębiorstw państwowych (Dz. U. poz. 561 i 775), który wszedł w życie z dniem 22 października 1996 r.. Do zbywania i obciążania akcji należących do Skarbu Państwa, w ramach wykonywania ugody bankowej, nie stosuje się przepisów ustawy o prywatyzacji przedsiębiorstw państwowych, z wyjątkiem przepisów dotyczących nabywania akcji przez pracowników i rolników lub rybaków. 8Dodany przez art. 72 pkt 2 ustawy, o której mowa w odnośniku 9; w brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 26 czerwca 1997 r. o zmianie ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych (Dz. U. poz. 603), która weszła w życie z dniem 19 sierpnia 1997 r. z mocą od 8 lipca 1997 r.. Przepis art. 63 ust. 2 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2017 r. poz. 1055 oraz z 2018 r. poz. 702) stosuje się odpowiednio, z tym że uprawnionym pracownikom oraz rolnikom lub rybakom przysługuje prawo do nieodpłatnego nabycia do 15% akcji Skarbu Państwa według stanu z dnia objęcia przez Skarb Państwa, jeżeli do Skarbu Państwa należy jeszcze taka część akcji. Jeżeli do Skarbu Państwa należy mniejsza część akcji, prawo do nieodpłatnego nabycia ogranicza się do tej części.
 
 **Art. 21.**
 
@@ -350,7 +345,7 @@ Na wniosek dłużnika, który zaprzestał spłacania długu wobec banku lub nie 
 
 2. Postanowienie sądu wymaga uzasadnienia.
 
-3. (utracił moc)
+3. (utracił moc)Z dniem 7 maja 1996 r., tj. z dniem ogłoszenia obwieszczenia Prezesa Trybunału Konstytucyjnego z dnia 23 kwietnia 1996 r. o utracie mocy obowiązującej art. 24 ust. 3 i art. 28 w zakresie dotyczącym art. 24 ust. 3 ustawy o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw (Dz. U. poz. 235), wydanego w wykonaniu orzeczenia Trybunału Konstytucyjnego z dnia 27 czerwca 1995 r. sygn. K 4/94.
 
 **Art. 25.**
 
@@ -362,7 +357,7 @@ Na wniosek dłużnika, który zaprzestał spłacania długu wobec banku lub nie 
 
 **Art. 26.**
 
-1. Prawomocna ugoda bankowa stanowi tytuł egzekucyjny w rozumieniu przepisów Kodeksu postępowania cywilnego oraz w rozumieniu ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2017 r. poz. 1201, z późn. zm.), z zastrzeżeniem art. 19.
+1. Prawomocna ugoda bankowa stanowi tytuł egzekucyjny w rozumieniu przepisów Kodeksu postępowania cywilnego oraz w rozumieniu ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2017 r. poz. 1201, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1475, 1954 i 2491 oraz z 2018 r. poz. 138, 398, 1000, 1009 i 1104.), z zastrzeżeniem art. 19.
 
 2. Na żądanie uprawnionego bank wydaje wyciąg z ugody z zapewnieniem o jej prawomocności, pobierając za tę czynność opłatę zgodną z przepisami o opłatach kancelaryjnych w sprawach cywilnych.
 
@@ -373,9 +368,7 @@ Na wniosek dłużnika, który zaprzestał spłacania długu wobec banku lub nie 
 **Art. 27.** Jeżeli dłużnik nie wykonuje wynikających z ugody bankowej zobowiązań, bank, który prowadził postępowanie ugodowe, z własnej inicjatywy lub na wniosek innego wierzyciela, o którym mowa w pkt 2:
 
 - **1)** występuje do sądu rejonowego – sądu gospodarczego, właściwego dla siedziby dłużnika, z wnioskiem o rozwiązanie ugody bankowej lub
-- **2)** zaspokaja wierzyciela pokrzywdzonego niewykonywaniem ugody bankowej przez dłużnika.
-
-**Art. 28.** Do postępowania sądowego dotyczącego rozwiązania ugody bankowej mają zastosowanie przepisy art. 23 ust. 2 oraz art. 24 ust. 2 i 3.
+- **2)** zaspokaja wierzyciela pokrzywdzonego niewykonywaniem ugody bankowej przez dłużnika. Art. 28Utracił moc w zakresie dotyczącym art. 24 ust. 3 z dniem 7 maja 1996 r., tj. z dniem ogłoszenia obwieszczenia Prezesa Trybunału Konstytucyjnego, o którym mowa w odnośniku 11, wydanego w wykonaniu orzeczenia Trybunału Konstytucyjnego z dnia 27 czerwca 1995 r. sygn. K 4/94.. Do postępowania sądowego dotyczącego rozwiązania ugody bankowej mają zastosowanie przepisy art. 23 ust. 2 oraz art. 24 ust. 2 i 3.
 
 **Art. 29.** Sąd oddala wniosek, jeżeli dłużnik wykonuje wynikające z ugody bankowej zobowiązania; w przeciwnym przypadku rozwiązuje ugodę bankową.
 
@@ -390,8 +383,7 @@ Na wniosek dłużnika, który zaprzestał spłacania długu wobec banku lub nie 
 **Art. 32.** W razie rozwiązania ugody bankowej przez sąd:
 
 - **1)** dokonane na podstawie ugody bankowej czynności dłużnika pozostają w mocy, a wypłacone lub wyegzekwowane kwoty nie podlegają zwrotowi;
-- **2)** wierzyciele zachowują prawo do niespłaconej przez dłużnika części wierzytelności istniejącej przed zawarciem ugody bankowej;
-- **3)** bankowe postępowanie ugodowe nie może być ponownie wszczęte wobec tego samego dłużnika, chyba że przedmiotem bankowego postępowania ugodowego mają być wierzytelności wobec innego państwowego przedsiębiorstwa gospodarki rolnej, zlikwidowanego i przejętego przez Krajowy Ośrodek Wsparcia Rolnictwa, niż wobec tego przedsiębiorstwa, którego wierzytelności już objęte zostały ugodą bankową.
+- **2)** wierzyciele zachowują prawo do niespłaconej przez dłużnika części wierzytelności istniejącej przed zawarciem ugody bankowej; 3Ze zmianą wprowadzoną przez art. 10 pkt 2 ustawy, o której mowa w odnośniku 2.) bankowe postępowanie ugodowe nie może być ponownie wszczęte wobec tego samego dłużnika, chyba że przedmiotem bankowego postępowania ugodowego mają być wierzytelności wobec innego państwowego przedsiębiorstwa gospodarki rolnej, zlikwidowanego i przejętego przez Krajowy Ośrodek Wsparcia Rolnictwa, niż wobec tego przedsiębiorstwa, którego wierzytelności już objęte zostały ugodą bankową.
 
 **Art. 33.** Jeżeli dłużnik udzielił niektórym wierzycielom korzyści większych niż przewidziane w ugodzie, każdy wierzyciel w ciągu 2 lat od dnia uprawomocnienia się ugody może w drodze powództwa żądać solidarnie od dłużnika i wierzyciela, który osiągnął nienależną korzyść, uiszczenia sumy, o jaką w ugodzie zmniejszona została wierzytelność żądającego. Wierzyciel, który osiągnął nienależną korzyść, odpowiada tylko do wysokości tej korzyści.
 
@@ -422,7 +414,7 @@ Na wniosek dłużnika, który zaprzestał spłacania długu wobec banku lub nie 
 
 **Art. 37.** Bankowe postępowanie ugodowe nie może być wszczęte po upływie 3 lat od dnia wejścia w życie niniejszej ustawy.
 
-#### Rozdział 3 Publiczna sprzedaż wierzytelności bankowych
+#### Rozdział 3
 
 **Art. 38.** Bank jest uprawniony do publicznej sprzedaży wymagalnych wierzytelności bankowych po cenie rynkowej.
 
@@ -445,14 +437,13 @@ Na wniosek dłużnika, który zaprzestał spłacania długu wobec banku lub nie 
 
 **Art. 41.** Do przelewu wierzytelności, o której mowa w art. 40, stosuje się przepisy Kodeksu cywilnego o zmianie wierzyciela, z następującymi wyjątkami:
 
-- **1)** w żadnym przypadku nie jest wymagana zgoda dłużnika;
-- **2)** przelew nie może być dokonany na rzecz dłużnika lub podmiotu będącego w stosunku do dłużnika podmiotem dominującym lub zależnym w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2018 r. poz. 512 i 685).
+- **1)** w żadnym przypadku nie jest wymagana zgoda dłużnika; 2W brzmieniu ustalonym przez art. 105 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. poz. 1539), która weszła w życie z dniem 24 października 2005 r.) przelew nie może być dokonany na rzecz dłużnika lub podmiotu będącego w stosunku do dłużnika podmiotem dominującym lub zależnym w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2018 r. poz. 512 i 685).
 
 **Art. 42.** Przy publicznej sprzedaży wymagalnych wierzytelności bankowych nie stosuje się przepisów ustawy Prawo bankowe o przestrzeganiu tajemnicy obrotów i stanów rachunków bankowych, w zakresie wierzytelności oferowanych do sprzedaży.
 
 #### Rozdział 4
 
-#### Rozdział 5 Przekazywanie środków na powiększenie funduszy własnych banków
+#### Rozdział 5
 
 **Art. 52.**
 
@@ -465,26 +456,19 @@ Na wniosek dłużnika, który zaprzestał spłacania długu wobec banku lub nie 
 - **3)** utworzył odrębny pion organizacyjny do zarządzania kredytami, o których mowa w pkt 2;
 - **4)** przedstawił plan restrukturyzacji portfela kredytów, o których mowa w pkt 2.
 
-**Art. 53.**
-
-1. Banki, które otrzymają środki w trybie określonym w art. 54, nie mogą udzielać kredytów oraz gwarancji dłużnikom, których kredyty zostały wyodrębnione zgodnie z art. 52 ust. 2 pkt 2, poza przypadkiem, gdy dostarczenie nowych środków wynika z postanowień ugody bankowej albo gdy dłużnikiem jest Krajowy Ośrodek Wsparcia Rolnictwa.
-
-2. Minister Finansów określi, w drodze rozporządzenia, termin, w którym banki, o których mowa w ust. 1, zobowiązane są sprzedać niezaspokojone wierzytelności wobec dłużników, których kredyty były wyodrębnione zgodnie z art. 52 ust. 2 pkt. 2, z zastrzeżeniem ust. 3.
-
-3. Obowiązek określony w ust. 2 nie dotyczy przypadków, w których:
+**Art. 53.** 1Ze zmianą wprowadzoną przez art. 10 pkt 1 ustawy, o której mowa w odnośniku 2.. Banki, które otrzymają środki w trybie określonym w art. 54, nie mogą udzielać kredytów oraz gwarancji dłużnikom, których kredyty zostały wyodrębnione zgodnie z art. 52 ust. 2 pkt 2, poza przypadkiem, gdy dostarczenie nowych środków wynika z postanowień ugody bankowej albo gdy dłużnikiem jest Krajowy Ośrodek Wsparcia Rolnictwa. 2. Minister Finansów określi, w drodze rozporządzenia, termin, w którym banki, o których mowa w ust. 1, zobowiązane są sprzedać niezaspokojone wierzytelności wobec dłużników, których kredyty były wyodrębnione zgodnie z art. 52 ust. 2 pkt. 2, z zastrzeżeniem ust. 3. 3. Obowiązek określony w ust. 2 nie dotyczy przypadków, w których:
 
 - **1)** z dłużnikiem została zawarta ugoda lub układ;
 - **2)** dłużnik został postawiony w stan upadłości;
 - **3)** wobec dłużnika zostało wszczęte postępowanie likwidacyjne w trybie art. 37 ust. 2 ustawy o prywatyzacji przedsiębiorstw państwowych lub art. 18a ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 2017 r. poz. 2152);
-- **4)** dłużnik przez okres nie krótszy niż 3 miesiące w pełni na bieżąco spłaca kredyt;
-- **5)** dłużnikiem jest Krajowy Ośrodek Wsparcia Rolnictwa lub państwowe przedsiębiorstwo gospodarki rolnej.
+- **4)** dłużnik przez okres nie krótszy niż 3 miesiące w pełni na bieżąco spłaca kredyt; 5Ze zmianą wprowadzoną przez art. 10 pkt 1 ustawy, o której mowa w odnośniku 2.) dłużnikiem jest Krajowy Ośrodek Wsparcia Rolnictwa lub państwowe przedsiębiorstwo gospodarki rolnej.
 
 **Art. 54.** Minister Finansów określi, w drodze rozporządzenia:
 
 - **1)** banki, którym zostaną przekazane obligacje skarbowe i środki pieniężne;
 - **2)** podział kwoty, przeznaczonej w ustawie budżetowej na zwiększenie funduszy własnych i rezerw banków, między banki, o których mowa w pkt 1.
 
-#### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy końcowe
+#### Rozdział 6
 
-**Art. 57.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 57.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 4 marca 1993 r.. 1) Przez art. 1 pkt 1 ustawy z dnia 11 maja 2001 r. o zmianie ustawy o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw, ustawy o narodowych funduszach inwestycyjnych i ich prywatyzacji oraz ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych (Dz. U. poz. 637), która weszła w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, tj. z dniem 1 maja 2004 r. 2) Ze zmianami wprowadzonymi przez art. 10 pkt 1 i pkt 1a ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503), która weszła w życie z dniem 1 września 2017 r. 3) Ze zmianami wprowadzonymi przez art. 10 pkt 1 i pkt 2 ustawy, o której mowa w odnośniku 2. 4) Z uwzględnieniem przepisów ustawy z dnia 7 lipca 1994 r. o denominacji złotego (Dz. U. poz. 386 oraz z 1995 r. poz. 79), która weszła w życie z dniem 1 stycznia 1995 r. 5) Ze zmianą wprowadzoną przez art. 10 pkt 1 ustawy, o której mowa w odnośniku 2. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1982 r. poz. 289, z 1984 r. poz. 268, z 1985 r. poz. 50, z 1988 r. poz. 325, z 1989 r. poz. 23, 176, 192 i 443, z 1990 r. poz. 198, z 1991 r. poz. 442 i 475 oraz z 1992 r. poz. 86 i 251. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2494 oraz z 2018 r. poz. 106, 138, 317, 398, 650, 685, 858, 912, 1076 i 1162. 8) Ze zmianą wprowadzoną przez art. 66 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. poz. 943 oraz z 1998 r. poz. 1122), która weszła w życie z dniem 1 kwietnia 1999 r. 9) Ze zmianą wprowadzoną przez art. 72 pkt 1 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji przedsiębiorstw państwowych (Dz. U. poz. 561 i 775), który wszedł w życie z dniem 22 października 1996 r. 10) Dodany przez art. 72 pkt 2 ustawy, o której mowa w odnośniku 9; w brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 26 czerwca 1997 r. o zmianie ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych (Dz. U. poz. 603), która weszła w życie z dniem 19 sierpnia 1997 r. z mocą od 8 lipca 1997 r. 11) Z dniem 7 maja 1996 r., tj. z dniem ogłoszenia obwieszczenia Prezesa Trybunału Konstytucyjnego z dnia 23 kwietnia 1996 r. o utracie mocy obowiązującej art. 24 ust. 3 i art. 28 w zakresie dotyczącym art. 24 ust. 3 ustawy o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw (Dz. U. poz. 235), wydanego w wykonaniu orzeczenia Trybunału Konstytucyjnego z dnia 27 czerwca 1995 r. sygn. K 4/94. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1475, 1954 i 2491 oraz z 2018 r. poz. 138, 398, 1000, 1009 i 1104. 13) Utracił moc w zakresie dotyczącym art. 24 ust. 3 z dniem 7 maja 1996 r., tj. z dniem ogłoszenia obwieszczenia Prezesa Trybunału Konstytucyjnego, o którym mowa w odnośniku 11, wydanego w wykonaniu orzeczenia Trybunału Konstytucyjnego z dnia 27 czerwca 1995 r. sygn. K 4/94. 14) Ze zmianą wprowadzoną przez art. 10 pkt 2 ustawy, o której mowa w odnośniku 2. 15) W brzmieniu ustalonym przez art. 105 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. poz. 1539), która weszła w życie z dniem 24 października 2005 r. 16) Przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1. 17) Zamieszczony w obwieszczeniu. 18) Ustawa została ogłoszona w dniu 4 marca 1993 r.
 

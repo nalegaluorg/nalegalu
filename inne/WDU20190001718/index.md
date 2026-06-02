@@ -26,20 +26,19 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001718) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1718/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Finansów z dnia 7 grudnia 2010 r. w sprawie sposobu prowadzenia gospodarki finansowej jednostek budżetowych i samorządowych zakładów budżetowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Sposób prowadzenia gospodarki finansowej jednostek budżetowych, w tym sposób i tryb sporządzania planów finansowych Rozdział 3 – Sposób dokonywania zmian w planach finansowych jednostek budżetowych oraz zatwierdzania tych zmian Rozdział 4 – Tryb pobierania dochodów i dokonywania wydatków państwowych jednostek budżetowych Rozdział 5 – Sposób prowadzenia gospodarki finansowej państwowych jednostek organizacyjnych działających poza granicami Rzeczypospolitej Polskiej Rozdział 6 – Sposób prowadzenia gospodarki finansowej samorządowych zakładów budżetowych, w tym sposób i tryb sporządzania planów finansowych Rozdział 7 – Sposób ustalania nadwyżki środków obrotowych w samorządowych zakładach budżetowych Rozdział 8 – Przepis końcowy
+Załącznik – Rozporządzenie Ministra Finansów z dnia 7 grudnia 2010 r. w sprawie sposobu prowadzenia gospodarki finansowej jednostek budżetowych i samorządowych zakładów budżetowych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 7 grudnia 2010 r. w sprawie sposobu prowadzenia gospodarki finansowej jednostek budżetowych i samorządowych zakładów budżetowych (Dz. U. z 2015 r. poz. 1542), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 18 lipca 2018 r. zmieniającym rozporządzenie w sprawie sposobu prowadzenia gospodarki finansowej jednostek budżetowych i samorządowych zakładów budżetowych (Dz. U. poz. 1394).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów z dnia 18 lipca 2018 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia gospodarki finansowej jednostek budżetowych i samorządowych zakładów budżetowych (Dz. U. poz. 1394), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów z dnia 18 lipca 2018 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia gospodarki finansowej jednostek budżetowych i samorządowych zakładów budżetowych (Dz. U. poz. 1394), które stanowią: „
 § 2.
 Przepisy § 5 ust. 2 i 2a rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie po raz pierwszy do planowania na rok 2019.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Finansów z dnia 7 grudnia 2010 r. w sprawie sposobu prowadzenia gospodarki finansowej jednostek budżetowych i samorządowych zakładów budżetowych
 Na podstawie art. 17 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, 1622 i 1649) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa sposób prowadzenia gospodarki finansowej jednostek budżetowych i samorządowych zakładów budżetowych, w tym:
 1)
@@ -67,8 +66,7 @@ strukturze dysponenta części budżetowej – rozumie się przez to układ pań
 a)
 klasyfikację części budżetowych oraz określenie ich dysponentów,
 b)
-sposób wykonywania budżetu państwa
-z uwzględnieniem specyfiki działalności jednostek organizacyjnych wymienionych w art. 17 ust. 2 ustawy.
+sposób wykonywania budżetu państwa – z uwzględnieniem specyfiki działalności jednostek organizacyjnych wymienionych w art. 17 ust. 2 ustawy.
 § 3.
 Informatyczny System Obsługi Budżetu Państwa ma zastosowanie do działań określonych w rozdziale 2 i 3, z wyjątkiem działań dotyczących projektów i planów finansowych:
 1)
@@ -77,14 +75,14 @@ budżetu środków europejskich;
 sporządzanych w szczegółowości, o której mowa w § 4 ust. 4 i § 8 ust. 4;
 3)
 sporządzanych w ramach budżetów jednostek samorządu terytorialnego.
+Sposób prowadzenia gospodarki finansowej jednostek budżetowych, w tym sposób i tryb sporządzania planów finansowych
 § 4.
 1.
 Dysponenci części budżetowych przekazują kierownikom podległych państwowych jednostek budżetowych, zgodnie ze strukturą dysponenta części budżetowej, w terminie określonym w art. 143 ust. 1 ustawy, informacje o kwotach dochodów i wydatków budżetowych, w tym wynagrodzeń, wynikających z projektu ustawy budżetowej w szczegółowości:
 1)
 dochody – dział,
 2)
-wydatki – dział, rozdział oraz grupy wydatków określone w art. 124 ust. 1 ustawy
-w celu opracowania projektów planów finansowych.
+wydatki – dział, rozdział oraz grupy wydatków określone w art. 124 ust. 1 ustawy – w celu opracowania projektów planów finansowych.
 2.
 Projekty planów finansowych są sporządzane w szczegółowości część, dział, rozdział i paragraf.
 3.
@@ -96,8 +94,7 @@ Dysponenci części budżetowych przekazują kierownikom podległych państwowyc
 1)
 program finansowany z udziałem środków europejskich,
 2)
-dział
-w celu opracowania projektów planów finansowych dla budżetu środków europejskich.
+dział – w celu opracowania projektów planów finansowych dla budżetu środków europejskich.
 6.
 Projekty planów finansowych państwowych jednostek budżetowych dla budżetu środków europejskich do wydatków z budżetu środków europejskich są sporządzane w szczegółowości: część, program finansowany z udziałem środków europejskich, dział, rozdział oraz paragraf. Przepisy ust. 3 i 4 stosuje się odpowiednio.
 § 5.
@@ -106,9 +103,8 @@ Zarządy jednostek samorządu terytorialnego przekazują kierownikom podległych
 1)
 dochody – w szczegółowości określonej w art. 235 ustawy,
 2)
-wydatki – w szczegółowości określonej w art. 236 ustawy
-w celu opracowania projektów planów finansowych.
-2.
+wydatki – w szczegółowości określonej w art. 236 ustawy – w celu opracowania projektów planów finansowych.
+2W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 18 lipca 2018 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia gospodarki finansowej jednostek budżetowych i samorządowych zakładów budżetowych (Dz. U. poz. 1394), które weszło w życie z dniem 4 sierpnia 2018 r.; ma zastosowanie po raz pierwszy do planowania na rok 2019..
 Projekty planów finansowych są sporządzane:
 1)
 w zakresie dochodów w szczegółowości dział, rozdział, paragraf,
@@ -117,9 +113,8 @@ w zakresie wydatków w szczegółowości:
 a)
 dział, rozdział, paragraf albo
 b)
-dział, rozdział, grupa paragrafów
-określonej w przepisach o klasyfikacji dochodów, wydatków, przychodów i rozchodów oraz środków pochodzących ze źródeł zagranicznych.
-2a.
+dział, rozdział, grupa paragrafów – określonej w przepisach o klasyfikacji dochodów, wydatków, przychodów i rozchodów oraz środków pochodzących ze źródeł zagranicznych.
+2aDodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1; ma zastosowanie po raz pierwszy do planowania na rok 2019..
 Zarząd jednostki samorządu terytorialnego dokonuje wyboru poziomu szczegółowości projektów planów finansowych samorządowych jednostek budżetowych, o której mowa w ust. 2 pkt 2, z tym że szczegółowość ta nie może być mniejsza niż szczegółowość planu wydatków budżetu jednostki samorządu terytorialnego.
 3.
 Projekty planów finansowych, zapewniające zgodność kwot dochodów i wydatków z projektem uchwały budżetowej, są zatwierdzane przez kierowników jednostek i przekazywane zarządowi jednostki samorządu terytorialnego w terminie 30 dni od dnia otrzymania informacji, o których mowa w ust. 1, nie później jednak niż do dnia 22 grudnia roku poprzedzającego rok budżetowy.
@@ -135,8 +130,7 @@ w przypadku gdy zachowana została zgodność z projektem ustawy budżetowej, za
 2)
 w przypadku gdy zachowana została zgodność z projektem uchwały budżetowej, zatwierdzone przez kierownika samorządowej jednostki budżetowej oraz
 3)
-zweryfikowane w trybie i w terminie określonym w § 6
-stanowią podstawę gospodarki finansowej odpowiednio państwowej albo samorządowej jednostki budżetowej w okresie od dnia 1 stycznia roku budżetowego do dnia opracowania planu finansowego na podstawie informacji o kwotach dochodów i wydatków wynikających odpowiednio z ustawy budżetowej albo uchwały budżetowej.
+zweryfikowane w trybie i w terminie określonym w § 6 – stanowią podstawę gospodarki finansowej odpowiednio państwowej albo samorządowej jednostki budżetowej w okresie od dnia 1 stycznia roku budżetowego do dnia opracowania planu finansowego na podstawie informacji o kwotach dochodów i wydatków wynikających odpowiednio z ustawy budżetowej albo uchwały budżetowej.
 § 8.
 1.
 Dysponenci części budżetowych przekazują kierownikom podległych państwowych jednostek budżetowych, zgodnie ze strukturą dysponenta części budżetowej, w terminie określonym w art. 146 ust. 1 ustawy, informacje o kwotach dochodów i wydatków budżetowych, w tym wynagrodzeń, wynikających z ustawy budżetowej w szczegółowości określonej w § 4 ust. 1.
@@ -155,6 +149,7 @@ Projekty planów dochodów, o których mowa w art. 223 ustawy, i wydatków z nic
 Plany dochodów, o których mowa w art. 223 ustawy, ujęte w uchwale budżetowej stanowią prognozę gromadzonych dochodów, a w zakresie wydatków – nieprzekraczalny limit oraz stanowią podstawę gospodarki finansowej.
 3.
 Plany dochodów, o których mowa w art. 223 ustawy, i wydatków z nich finansowanych utworzonych w ciągu roku budżetowego ujmowane są w uchwale budżetowej na najbliższej sesji organu stanowiącego jednostki samorządu terytorialnego, nie później jednak niż w ciągu trzech miesięcy od dnia ich utworzenia.
+Sposób dokonywania zmian w planach finansowych jednostek budżetowych oraz zatwierdzania tych zmian
 § 10.
 1.
 Minister Finansów zawiadamia dysponentów części budżetowych o podjętych przez Radę Ministrów, Prezesa Rady Ministrów lub Ministra Finansów decyzjach wprowadzających zmiany w wydatkach budżetu państwa.
@@ -184,6 +179,7 @@ Dokonywanie zmian w planach finansowych dochodów, o których mowa w art. 223 us
 Kierownicy samorządowych jednostek budżetowych, w terminie 7 dni od dnia dokonania zmiany w planach finansowych, o których mowa w ust. 3, zawiadamiają zarząd o dokonanych zmianach.
 § 13.
 Odprowadzenie środków finansowych, o których mowa w art. 223 ust. 4 ustawy, do budżetu jednostki samorządu terytorialnego jest planowane w dziale i rozdziale właściwym dla rodzaju działalności określonym w przepisach o klasyfikacji dochodów, wydatków, przychodów i rozchodów oraz środków pochodzących ze źródeł zagranicznych.
+Tryb pobierania dochodów i dokonywania wydatków państwowych jednostek budżetowych
 § 14.
 1.
 Państwowe jednostki budżetowe realizujące dochody budżetowe:
@@ -207,7 +203,7 @@ Dochody budżetu państwa realizowane przez państwowe jednostki budżetowe powi
 1.
 Kierownicy państwowych jednostek budżetowych prowadzą ewidencję wydatków – uwzględniając klasyfikację paragrafów wydatków, określoną w przepisach o szczegółowej klasyfikacji dochodów, wydatków, przychodów i rozchodów oraz środków pochodzących ze źródeł zagranicznych – umożliwiającą ustalenie wielkości zaangażowanych środków, wysokości poniesionych wydatków oraz ich zgodności z planem finansowym.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
 3.
 Kierownicy państwowych jednostek budżetowych dokonują wydatków do wysokości kwot ujętych w planie finansowym jednostki, przeznaczonych na dany cel lub zadanie.
 4.
@@ -271,6 +267,7 @@ Oprocentowanie sum depozytowych oraz sum na zlecenie złożonych przez państwow
 Państwowa jednostka budżetowa może zaciągać zobowiązania do sfinansowania w danym roku do wysokości kwot wydatków ujętych w zatwierdzonym planie finansowym, pomniejszonych o wydatki na wynagrodzenia i uposażenia oraz obligatoryjne wpłaty płatnika.
 2.
 Zobowiązania z tytułu umów wieloletnich mogą być zaciągane tylko w wypadku, gdy umowy te uzasadnione są odpowiednimi programami prac i są zawierane zgodnie z terminami wprowadzonymi przepisami o zamówieniach publicznych. Mogą być również zaciągane zobowiązania z tytułu umów, których realizacja w roku następnym jest niezbędna do zapewnienia ciągłości działania jednostki i termin zapłaty upływa w roku następnym.
+Sposób prowadzenia gospodarki finansowej państwowych jednostek organizacyjnych działających poza granicami Rzeczypospolitej Polskiej
 § 24.
 1.
 Planowane dochody i wydatki państwowych jednostek budżetowych działających poza granicami Rzeczypospolitej Polskiej, zwanych dalej „placówkami”, są ustalane oddzielnie dla każdej placówki przez dysponenta części budżetowej.
@@ -348,6 +345,7 @@ W placówkach podstawą dokonania zwrotu nadpłaty jest pisemne polecenie zwrotu
 Zaliczki na koszty leczenia pracowników placówek mogą być udzielane na podstawie odrębnych przepisów.
 § 34.
 Przepisy niniejszego rozdziału mogą być stosowane przez Ministra Obrony Narodowej w odniesieniu do Polskich Przedstawicielstw Wojskowych i Polskich Zespołów Łącznikowych przy organizacjach międzynarodowych oraz międzynarodowych dowództwach wojskowych i w odniesieniu do ataszatów obrony przy Przedstawicielstwach Dyplomatycznych Rzeczypospolitej Polskiej.
+Sposób prowadzenia gospodarki finansowej samorządowych zakładów budżetowych, w tym sposób i tryb sporządzania planów finansowych
 § 35.
 1.
 Samorządowy zakład budżetowy posiada odrębny rachunek bankowy.
@@ -386,6 +384,7 @@ Inne niż wymienione w ust. 1 zmiany planu finansowego mogą być dokonywane tyl
 W przypadku realizowania przez samorządowy zakład budżetowy niższych od zaplanowanych przychodów, realizacja odpowiednio niższych kosztów następuje bez konieczności dokonywania zmian planu finansowego.
 4.
 Nie wymaga dokonywania zmian planu finansowego samorządowego zakładu budżetowego realizacja planu kosztów, polegająca na przeniesieniach pomiędzy paragrafami, przy uwzględnieniu ograniczeń określonych prawem.
+Sposób ustalania nadwyżki środków obrotowych w samorządowych zakładach budżetowych
 § 42.
 Rozliczenia samorządowego zakładu budżetowego z budżetem jednostki samorządu terytorialnego są planowane w dziale i rozdziale właściwym dla przeważającego rodzaju działalności samorządowego zakładu budżetowego określonego w przepisach o klasyfikacji dochodów, wydatków, przychodów i rozchodów oraz środków pochodzących ze źródeł zagranicznych niepodlegających zwrotowi.
 § 43.
@@ -404,22 +403,39 @@ Zarząd jednostki samorządu terytorialnego przekazuje samorządowym zakładom b
 Kierownik samorządowego zakładu budżetowego przekazuje zarządowi jednostki samorządu terytorialnego, w terminie do dnia 31 stycznia następnego roku, rozliczenie wykorzystania dotacji w szczegółowości określonej przez ten zarząd.
 3.
 Zarząd jednostki samorządu terytorialnego, w przypadku stwierdzenia wykorzystania dotacji niezgodnie z przeznaczeniem lub pobrania w nadmiernej wysokości, wydaje decyzję o zwrocie dotacji do budżetu jednostki samorządu terytorialnego wraz z odsetkami, w wysokości i terminie określonych w art. 252 ust. 1 ustawy.
+Przepis końcowy
 § 46.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2011 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2011 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 29 czerwca 2006 r. w sprawie gospodarki finansowej jednostek budżetowych, zakładów budżetowych i gospodarstw pomocniczych oraz trybu postępowania przy przekształcaniu w inną formę organizacyjno-prawną (Dz. U. poz. 783 oraz z 2008 r. poz. 135), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 119 ust. 1 ustawy z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. poz. 1241). 1) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 18 lipca 2018 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia gospodarki finansowej jednostek budżetowych i samorządowych zakładów budżetowych (Dz. U. poz. 1394), które weszło w życie z dniem 4 sierpnia 2018 r.; ma zastosowanie po raz pierwszy do planowania na rok 2019. 2) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1; ma zastosowanie po raz pierwszy do planowania na rok 2019. 3) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 29 czerwca 2006 r. w sprawie gospodarki finansowej jednostek budżetowych, zakładów budżetowych i gospodarstw pomocniczych oraz trybu postępowania przy przekształcaniu w inną formę organizacyjno-prawną (Dz. U. poz. 783 oraz z 2008 r. poz. 135), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 119 ust. 1 ustawy z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. poz. 1241).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Sposób prowadzenia gospodarki finansowej jednostek budżetowych, w tym sposób i tryb sporządzania planów finansowych
+#### Rozdział 2 – Sposób prowadzenia gospodarki finansowej jednostek budżetowych, w tym sposób i tryb sporządzania planów finansowych
 
-#### Rozdział 3 Sposób dokonywania zmian w planach finansowych jednostek budżetowych oraz zatwierdzania tych zmian
+#### Rozdział 3 – Sposób dokonywania zmian w planach finansowych jednostek budżetowych oraz zatwierdzania tych zmian
 
-#### Rozdział 4 Tryb pobierania dochodów i dokonywania wydatków państwowych jednostek budżetowych
+#### Rozdział 4 – Tryb pobierania dochodów i dokonywania wydatków państwowych jednostek budżetowych
 
-#### Rozdział 5 Sposób prowadzenia gospodarki finansowej państwowych jednostek organizacyjnych działających poza granicami Rzeczypospolitej Polskiej
+#### Rozdział 5 – Sposób prowadzenia gospodarki finansowej państwowych jednostek organizacyjnych działających poza granicami Rzeczypospolitej Polskiej
 
-#### Rozdział 6 Sposób prowadzenia gospodarki finansowej samorządowych zakładów budżetowych, w tym sposób i tryb sporządzania planów finansowych
+#### Rozdział 6 – Sposób prowadzenia gospodarki finansowej samorządowych zakładów budżetowych, w tym sposób i tryb sporządzania planów finansowych
 
-#### Rozdział 7 Sposób ustalania nadwyżki środków obrotowych w samorządowych zakładach budżetowych
+#### Rozdział 7 – Sposób ustalania nadwyżki środków obrotowych w samorządowych zakładach budżetowych
 
-#### Rozdział 8 Przepis końcowy
+#### Rozdział 8 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

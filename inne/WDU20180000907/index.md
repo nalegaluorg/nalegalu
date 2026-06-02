@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 marca 2018 r. o zmianie ustawy o publicznym transporcie zbiorowym
+# Ustawa z dnia 22 marca 2018 r. o zmianie ustawy o publicznym transporcie zbiorowym Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/2338 z dnia 14 grudnia 2016 r. zmieniającego rozporządzenie (WE) nr 1370/2007 w odniesieniu do otwarcia rynku krajowych usług kolejowego transportu pasażerskiego (Dz. Urz. UE L 354 z 23.12.2016, str. 22).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-22 |
 | Data wydania | 2018-05-15 |
-| Wejście w życie | 2018-05-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000907) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/907/text.pdf) |
 
@@ -63,8 +62,13 @@ source: "eli-html"
     - **b)**
 
 - **24)** informacje, o których mowa w art. 4 ust. 8 zdanie trzecie rozporządzenia (WE) nr 1370/2007, które operator jest obowiązany przekazywać organizatorowi w celu udzielenia zamówienia w trybach, o których mowa w art. 19 ust. 1 pkt 1 i 2. ” ;
-- **7)** w art. 49: w ust. 1: – we wprowadzeniu do wyliczenia wyrazy „art. 7 ust. 1 pkt 1–4” zastępuje się wyrazami „art. 7 ust. 1 pkt 1–5”, – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4–7 w brzmieniu: „ 4) łączną liczbę przewiezionych pasażerów w publicznym transporcie zbiorowym oraz łączny przebieg na wszystkich liniach komunikacyjnych; 5) liczbę dworców i przystanków na liniach komunikacyjnych, na których jest wykonywany publiczny transport zbiorowy; 6) czas trwania umów o świadczenie usług w zakresie publicznego transportu zbiorowego; 7) kwoty rekompensat, które otrzymali operatorzy. ” , ust. 2 otrzymuje brzmienie: „
+- **7)** w art. 49: w ust. 1: – we wprowadzeniu do wyliczenia wyrazy „art. 7 ust. 1 pkt 1–4” zastępuje się wyrazami „art. 7 ust. 1 pkt 1–5”, w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4–7 w brzmieniu: „
     - **a)**
+
+- **4)** łączną liczbę przewiezionych pasażerów w publicznym transporcie zbiorowym oraz łączny przebieg na wszystkich liniach komunikacyjnych;
+- **5)** liczbę dworców i przystanków na liniach komunikacyjnych, na których jest wykonywany publiczny transport zbiorowy;
+- **6)** czas trwania umów o świadczenie usług w zakresie publicznego transportu zbiorowego;
+- **7)** kwoty rekompensat, które otrzymali operatorzy. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Marszałek województwa, na podstawie otrzymanych informacji, przygotowuje zbiorczą informację dotyczącą publicznego transportu zbiorowego na całym obszarze objętym swoją właściwością, z podziałem na transport autobusowy i kolejowy. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
@@ -79,7 +83,7 @@ source: "eli-html"
 
 **Art. 2.**
 
-1. W okresie od dnia 3 grudnia 2019 r. do dnia 24 grudnia 2023 r. dopuszcza się zawieranie umów o świadczenie usług w zakresie publicznego transportu zbiorowego w transporcie kolejowym w trybie określonym w art. 5 ust. 6 rozporządzenia (WE) nr 1370/2007 Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. dotyczącego usług publicznych w zakresie kolejowego i drogowego transportu pasażerskiego oraz uchylającego rozporządzenia Rady (EWG) nr 1191/69 i (EWG) nr 1107/70 (Dz. Urz. UE L 315 z 03.12.2007, str. 1, z późn. zm.), na zasadach określonych w art. 8 ust. 2 tego rozporządzenia, przy czym umowy o świadczenie usług w zakresie publicznego transportu zbiorowego w transporcie kolejowym obejmujące wojewódzkie przewozy pasażerskie mogą być zawierane w tym trybie nie później niż do dnia 12 grudnia 2020 r. i mogą obowiązywać nie dłużej niż do dnia 14 grudnia 2030 r.
+1. W okresie od dnia 3 grudnia 2019 r. do dnia 24 grudnia 2023 r. dopuszcza się zawieranie umów o świadczenie usług w zakresie publicznego transportu zbiorowego w transporcie kolejowym w trybie określonym w art. 5 ust. 6 rozporządzenia (WE) nr 1370/2007 Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. dotyczącego usług publicznych w zakresie kolejowego i drogowego transportu pasażerskiego oraz uchylającego rozporządzenia Rady (EWG) nr 1191/69 i (EWG) nr 1107/70 (Dz. Urz. UE L 315 z 03.12.2007, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 240 z 16.09.2015, str. 65 oraz Dz. Urz. UE L 354 z 23.12.2016, str. 22.), na zasadach określonych w art. 8 ust. 2 tego rozporządzenia, przy czym umowy o świadczenie usług w zakresie publicznego transportu zbiorowego w transporcie kolejowym obejmujące wojewódzkie przewozy pasażerskie mogą być zawierane w tym trybie nie później niż do dnia 12 grudnia 2020 r. i mogą obowiązywać nie dłużej niż do dnia 14 grudnia 2030 r.
 
 2. Do umów o świadczenie usług w zakresie publicznego transportu zbiorowego w transporcie kolejowym obejmujących wojewódzkie przewozy pasażerskie zawartych do dnia 12 grudnia 2020 r. dopuszcza się również stosowanie przepisów art. 5 ust. 2, 4 i 4a rozporządzenia, o którym mowa w ust. 1.
 
@@ -97,5 +101,5 @@ source: "eli-html"
 
 2. Marszałkowie województw przekażą ministrowi właściwemu do spraw transportu nie później niż do dnia 31 października 2018 r. informacje, o których mowa w art. 49 ust. 1 pkt 6 i 7 ustawy zmienianej w art. 1, dotyczące roku 2017.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3 i 4, które wchodzą w życie z dniem 3 grudnia 2019 r.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3 i 4, które wchodzą w życie z dniem 3 grudnia 2019 r. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/2338 z dnia 14 grudnia 2016 r. zmieniającego rozporządzenie (WE) nr 1370/2007 w odniesieniu do otwarcia rynku krajowych usług kolejowego transportu pasażerskiego (Dz. Urz. UE L 354 z 23.12.2016, str. 22). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 240 z 16.09.2015, str. 65 oraz Dz. Urz. UE L 354 z 23.12.2016, str. 22.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 16 sierpnia 2017 r. w sprawie dotacji celowej na prace konserwatorskie lub restauratorskie przy zabytku wpisanym na Listę Skarbów Dziedzictwa oraz prace konserwatorskie, restauratorskie i roboty budowlane przy zabytku wpisanym do rejestru zabytków
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 16 sierpnia 2017 r. w sprawie dotacji celowej na prace konserwatorskie lub restauratorskie przy zabytku wpisanym na Listę Skarbów Dziedzictwa oraz prace konserwatorskie, restauratorskie i roboty budowlane przy zabytku wpisanym do rejestru zabytków Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-16 |
 | Data wydania | 2017-09-01 |
-| Wejście w życie | 2017-09-02 |
 | Ostatnia zmiana | 2025-10-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001674) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1674/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 80 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 80 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 397, 774 i 1505, z 2016 r. poz. 1330, 1887 i 1948 oraz z 2017 r. poz. 60, 1086 i 1595.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -105,8 +104,7 @@ Termin rozpatrzenia wniosku, o którym mowa w:
 1)
 § 5 ust. 1 pkt 1 lit. a i c oraz pkt 2, wynosi 2 miesiące,
 2)
-§ 5 ust. 1 pkt 1 lit. b, wynosi 3 miesiące
-od dnia upływu terminu na złożenie wniosku.
+§ 5 ust. 1 pkt 1 lit. b, wynosi 3 miesiące – od dnia upływu terminu na złożenie wniosku.
 2.
 W przypadku, o którym mowa w § 5 ust. 3, termin rozpatrzenia wniosku wynosi 1 miesiąc od dnia jego złożenia.
 § 9.
@@ -168,8 +166,7 @@ uwierzytelnione kopie faktur lub rachunków za przeprowadzone prace przy zabytku
 2)
 kosztorys powykonawczy za przeprowadzone prace przy zabytku wpisanym na Listę Skarbów Dziedzictwa albo prace przy zabytku wpisanym do rejestru zabytków wraz z ich obmiarem, podpisany przez wykonawcę prac,
 3)
-powykonawczą dokumentację fotograficzną zabytku, zapisaną na informatycznym nośniku danych wraz z zezwoleniem na nieodpłatne korzystanie przez organ, który udzielił dotacji celowej, z zawartych w niej fotografii w zakresie ich utrwalania, zwielokrotniania i rozpowszechniania, w szczególności techniką drukarską, reprograficzną lub cyfrową
-w terminie 30 dni od określonego w umowie o udzielenie dotacji celowej terminu przeprowadzenia prac przy zabytku wpisanym na Listę Skarbów Dziedzictwa albo prac przy zabytku wpisanym do rejestru zabytków.
+powykonawczą dokumentację fotograficzną zabytku, zapisaną na informatycznym nośniku danych wraz z zezwoleniem na nieodpłatne korzystanie przez organ, który udzielił dotacji celowej, z zawartych w niej fotografii w zakresie ich utrwalania, zwielokrotniania i rozpowszechniania, w szczególności techniką drukarską, reprograficzną lub cyfrową – w terminie 30 dni od określonego w umowie o udzielenie dotacji celowej terminu przeprowadzenia prac przy zabytku wpisanym na Listę Skarbów Dziedzictwa albo prac przy zabytku wpisanym do rejestru zabytków.
 2.
 W przypadku dotacji celowej na prace przy zabytku wpisanym do rejestru udzielonej przez ministra wnioskodawca jest także obowiązany do przekazania ministrowi protokołu odbioru tych prac przez właściwego wojewódzkiego konserwatora zabytków, stwierdzającego ich wykonanie zgodnie z wydanym pozwoleniem.
 3.
@@ -187,6 +184,5 @@ do dnia 31 stycznia roku następnego – o dotacjach celowych udzielonych w okre
 § 15.
 Dotacja celowa stanowiąca pomoc de minimis może być udzielana do dnia 30 czerwca 2021 r.
 § 16.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 397, 774 i 1505, z 2016 r. poz. 1330, 1887 i 1948 oraz z 2017 r. poz. 60, 1086 i 1595. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury z dnia 6 czerwca 2005 r. w sprawie udzielania dotacji celowej na prace konserwatorskie, restauratorskie i roboty budowlane przy zabytku wpisanym do rejestru zabytków (Dz. U. z 2014 r. poz. 399), które utraciło moc z dniem 26 maja 2017 r. zgodnie z art. 3 ustawy z dnia 10 lipca 2015 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o muzeach (Dz. U. z 2016 r. poz. 1330 i 1887).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury z dnia 6 czerwca 2005 r. w sprawie udzielania dotacji celowej na prace konserwatorskie, restauratorskie i roboty budowlane przy zabytku wpisanym do rejestru zabytków (Dz. U. z 2014 r. poz. 399), które utraciło moc z dniem 26 maja 2017 r. zgodnie z art. 3 ustawy z dnia 10 lipca 2015 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o muzeach (Dz. U. z 2016 r. poz. 1330 i 1887). 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 397, 774 i 1505, z 2016 r. poz. 1330, 1887 i 1948 oraz z 2017 r. poz. 60, 1086 i 1595. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury z dnia 6 czerwca 2005 r. w sprawie udzielania dotacji celowej na prace konserwatorskie, restauratorskie i roboty budowlane przy zabytku wpisanym do rejestru zabytków (Dz. U. z 2014 r. poz. 399), które utraciło moc z dniem 26 maja 2017 r. zgodnie z art. 3 ustawy z dnia 10 lipca 2015 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o muzeach (Dz. U. z 2016 r. poz. 1330 i 1887).
 

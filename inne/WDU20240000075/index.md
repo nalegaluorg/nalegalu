@@ -26,27 +26,44 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000075) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/75/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 2 grudnia 2021 r. o wsparciu przygotowania III Igrzysk Europejskich w 2023 roku Rozdział 1 – Przepisy ogólne Rozdział 2 – Finansowanie lub dofinansowanie niektórych kosztów organizacji Igrzysk oraz przygotowania i realizacji przedsięwzięć Rozdział 3 – Zasady tworzenia i działania spółki celowej Rozdział 4 – Umowa o powierzenie organizacji Igrzysk oraz przygotowania i realizacji przedsięwzięć Rozdział 5 – Postępowanie administracyjne dotyczące przygotowania i realizacji przedsięwzięć Rozdział 6 – Zmiany w przepisach, przepisy przejściowe, dostosowujące i przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 2 grudnia 2021 r. o wsparciu przygotowania III Igrzysk Europejskich w 2023 roku
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 2 grudnia 2021 r. o wsparciu przygotowania III Igrzysk Europejskich w 2023 roku (Dz. U. z 2023 r. poz. 851), z uwzględnieniem zmian wprowadzonych ustawą z dnia 14 kwietnia 2023 r. o zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1053) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 stycznia 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 12 ustawy z dnia 14 kwietnia 2023 r. o zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1053), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 12 ustawy z dnia 14 kwietnia 2023 r. o zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1053), który stanowi: „
+Przepisy ogólne
+Finansowanie lub dofinansowanie niektórych kosztów organizacji Igrzysk oraz przygotowania i realizacji przedsięwzięć
+Zasady tworzenia i działania spółki celowej
+Umowa o powierzenie organizacji Igrzysk oraz przygotowania i realizacji przedsięwzięć
+Postępowanie administracyjne dotyczące przygotowania i realizacji przedsięwzięć
+Zmiany w przepisach, przepisy przejściowe, dostosowujące i przepis końcowy
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Finansowanie lub dofinansowanie niektórych kosztów organizacji Igrzysk oraz przygotowania i realizacji przedsięwzięć
+
+#### Rozdział 3 – Zasady tworzenia i działania spółki celowej
+
+#### Rozdział 4 – Umowa o powierzenie organizacji Igrzysk oraz przygotowania i realizacji przedsięwzięć
+
+#### Rozdział 5 – Postępowanie administracyjne dotyczące przygotowania i realizacji przedsięwzięć
+
+#### Rozdział 6 – Zmiany w przepisach, przepisy przejściowe, dostosowujące i przepis końcowy
 
 **Art. 12.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 6, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
 - **2)** art. 1, art. 2 pkt 6 i art. 7, które wchodzą w życie z dniem 1 września 2023 r. ” . Załącznik – Tekst jednolity ustawy z dnia 2 grudnia 2021 r. o wsparciu przygotowania III Igrzysk Europejskich w 2023 roku
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
 1. Ustawa określa zasady wsparcia przygotowania III Igrzysk Europejskich w 2023 roku, zwanych dalej „Igrzyskami”, w tym warunki przygotowania i realizacji:
 
 - **1)** przedsięwzięć w zakresie projektowania, budowy, przebudowy lub remontu stadionów i innych obiektów budowlanych na terytorium Rzeczypospolitej Polskiej niezbędnych do przeprowadzenia Igrzysk,
-- **2)** innych przedsięwzięć niezbędnych do przeprowadzenia Igrzysk zwanych dalej „przedsięwzięciami”.
+- **2)** innych przedsięwzięć niezbędnych do przeprowadzenia Igrzysk – zwanych dalej „przedsięwzięciami”.
 
 2. Ustawa określa również sposób finansowania lub dofinansowania niektórych kosztów organizacji Igrzysk oraz przygotowania i realizacji przedsięwzięć.
 
@@ -60,13 +77,13 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **2)** organ administracji rządowej reprezentujący Skarb Państwa,
 - **3)** spółkę, o której mowa w art. 9 ust. 1 ustawy z dnia 20 grudnia 1996 r. o gospodarce komunalnej (Dz. U. z 2021 r. poz. 679),
 - **4)** państwową osobę prawną,
-- **5)** spółkę, o której mowa w art. 9 zwane dalej „podmiotami realizującymi przedsięwzięcia”.
+- **5)** spółkę, o której mowa w art. 9 – zwane dalej „podmiotami realizującymi przedsięwzięcia”.
 
 2. Przedsięwzięcia mogą być przygotowywane i realizowane jako zadania własne jednostki samorządu terytorialnego albo jako zadania zlecone.
 
 **Art. 3.** Przedsięwzięcia w zakresie przygotowania i realizacji inwestycji dotyczących dróg publicznych są przygotowywane i realizowane zgodnie z ustawą z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2023 r. poz. 162, 1890 i 2029).
 
-**Art. 4.** Przedsięwzięcia, o których mowa w art. 1 ust. 1 pkt 1, są celami publicznymi w rozumieniu ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm.) i inwestycjami celu publicznego w rozumieniu ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, z późn. zm.).
+**Art. 4.** Przedsięwzięcia, o których mowa w art. 1 ust. 1 pkt 1, są celami publicznymi w rozumieniu ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1463, 1506, 1688, 1762, 1906 i 2029.) i inwestycjami celu publicznego w rozumieniu ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1506, 1597, 1688, 1890, 2029 i 2739.).
 
 **Art. 5.**
 
@@ -94,7 +111,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 6.** Rada Ministrów określi, w drodze rozporządzenia, wykaz przedsięwzięć, biorąc pod uwagę konieczność zapewnienia prawidłowego i terminowego przygotowania i przeprowadzenia Igrzysk.
 
-#### Rozdział 2 Finansowanie lub dofinansowanie niektórych kosztów organizacji Igrzysk oraz przygotowania i realizacji przedsięwzięć
+#### Rozdział 2
 
 **Art. 7.**
 
@@ -110,7 +127,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3a. W latach 2022 i 2023 minister właściwy do spraw transportu może udzielić podmiotom określonym w art. 2 ust. 1, wskazanym w programie, o którym mowa w ust. 7, dotacji celowej przeznaczonej na przygotowanie i realizację przedsięwzięć.
 
-4. Wydatków bieżących ponoszonych w latach 2021–2023 przez jednostki samorządu terytorialnego na organizację Igrzysk oraz przygotowanie i realizację przedsięwzięć nie uwzględnia się przy ustalaniu relacji, o której mowa w art. 243 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.).
+4. Wydatków bieżących ponoszonych w latach 2021–2023 przez jednostki samorządu terytorialnego na organizację Igrzysk oraz przygotowanie i realizację przedsięwzięć nie uwzględnia się przy ustalaniu relacji, o której mowa w art. 243 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.).
 
 5. Przy ustalaniu relacji, o której mowa w art. 242 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, w latach 2021–2023 do planowanych wydatków bieżących nie wlicza się wydatków na organizację Igrzysk oraz przygotowanie i realizację przedsięwzięć.
 
@@ -120,7 +137,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 8.** Do dotacji celowych na przygotowanie i realizację przedsięwzięć przez jednostki samorządu terytorialnego nie stosuje się limitu kwoty dotacji, o którym mowa w art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
-#### Rozdział 3 Zasady tworzenia i działania spółki celowej
+#### Rozdział 3
 
 **Art. 9.**
 
@@ -151,9 +168,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 13.**
 
-1. Spółka celowa wykonuje w szczególności zadania inwestora i zadania nadzoru inwestorskiego w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm.), w tym:
+1. Spółka celowa wykonuje w szczególności zadania inwestora i zadania nadzoru inwestorskiego w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762, 1890, 1963 i 2029.), w tym:
 
-- **1)** pozyskuje i przygotowuje dokumentację wymaganą do złożenia wniosku o wydanie decyzji o ustaleniu lokalizacji inwestycji celu publicznego, decyzji o środowiskowych uwarunkowaniach wydawanej zgodnie z ustawą z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, z późn. zm.), decyzji o pozwoleniu na budowę oraz innych decyzji wymaganych odrębnymi przepisami do przygotowania lub realizacji przedsięwzięć;
+- **1)** pozyskuje i przygotowuje dokumentację wymaganą do złożenia wniosku o wydanie decyzji o ustaleniu lokalizacji inwestycji celu publicznego, decyzji o środowiskowych uwarunkowaniach wydawanej zgodnie z ustawą z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1501, 1506, 1688, 1719, 1890, 1906 i 2029.), decyzji o pozwoleniu na budowę oraz innych decyzji wymaganych odrębnymi przepisami do przygotowania lub realizacji przedsięwzięć;
 - **2)** występuje z wnioskami o wydanie decyzji, o których mowa w pkt 1, oraz uczestniczy w odpowiednich postępowaniach;
 - **3)** dysponuje na cele budowlane nieruchomościami w celu przygotowania lub realizacji przedsięwzięć;
 - **4)** zawiera i nadzoruje wykonywanie umów na dostawy, usługi i roboty budowlane niezbędne do przygotowania lub realizacji przedsięwzięć;
@@ -163,7 +180,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 14.** W sprawach nieuregulowanych w ustawie do spółki celowej stosuje się przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18).
 
-#### Rozdział 4 Umowa o powierzenie organizacji Igrzysk oraz przygotowania i realizacji przedsięwzięć
+#### Rozdział 4
 
 **Art. 15.**
 
@@ -220,7 +237,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Przedsiębiorca, któremu wypowiedziano umowę, z którym rozwiązano umowę bez wypowiedzenia albo od umowy z którym odstąpiono, może żądać odszkodowania w zakresie szkody rzeczywiście poniesionej, chyba że umowa stanowi inaczej lub okoliczności stanowiące podstawę do rozwiązania umowy albo odstąpienia od umowy były zawinione przez przedsiębiorcę.
 
-#### Rozdział 5 Postępowanie administracyjne dotyczące przygotowania i realizacji przedsięwzięć
+#### Rozdział 5
 
 **Art. 20.**
 
@@ -341,7 +358,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 27.** Z zastrzeżeniem przepisów niniejszej ustawy w postępowaniach administracyjnych dotyczących przygotowania i realizacji przedsięwzięć stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-#### Rozdział 6 Zmiany w przepisach, przepisy przejściowe, dostosowujące i przepis końcowy
+#### Rozdział 6
 
 **Art. 28.** (pominięty)
 
@@ -363,16 +380,11 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Środki finansowe, o których mowa w ust. 1, zostaną przeznaczone na udzielenie dotacji, o której mowa w ustawie.
 
-**Art. 33.**
-
-1. Maksymalny limit wydatków z budżetu państwa będący skutkiem finansowym ustawy wynosi 1105,2 mln zł, w tym w:
+**Art. 33.** 1W brzmieniu ustalonym przez art. 6 ustawy z dnia 14 kwietnia 2023 r. o zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1053); wszedł w życie z dniem 3 czerwca 2023 r.. Maksymalny limit wydatków z budżetu państwa będący skutkiem finansowym ustawy wynosi 1105,2 mln zł, w tym w:
 
 - **1)** 2022 r. – do kwoty 536,6 mln zł;
 - **2)** 2023 r. – do kwoty 568,6 mln zł;
-- **3)** w latach 2024–2031 – 0 zł.
-
-2. Minister właściwy do spraw kultury fizycznej monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, w:
-
+- **3)** w latach 2024–2031 – 0 zł. 2W brzmieniu ustalonym przez art. 6 ustawy z dnia 14 kwietnia 2023 r. o zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1053); wszedł w życie z dniem 3 czerwca 2023 r.. Minister właściwy do spraw kultury fizycznej monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, w:
 - **1)** 2022 r. – do kwoty 292 mln zł;
 - **2)** 2023 r. – do kwoty 463,2 mln zł.
 
@@ -388,5 +400,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **1)** ust. 2 – minister właściwy do spraw kultury fizycznej;
 - **2)** ust. 2a – minister właściwy do spraw transportu.
 
-**Art. 34.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 34.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszeniaUstawa została ogłoszona w dniu 22 grudnia 2021 r.. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1463, 1506, 1688, 1762, 1906 i 2029. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1506, 1597, 1688, 1890, 2029 i 2739. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762, 1890, 1963 i 2029. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1501, 1506, 1688, 1719, 1890, 1906 i 2029. 6) W brzmieniu ustalonym przez art. 6 ustawy z dnia 14 kwietnia 2023 r. o zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1053); wszedł w życie z dniem 3 czerwca 2023 r. 7) Ustawa została ogłoszona w dniu 22 grudnia 2021 r.
 

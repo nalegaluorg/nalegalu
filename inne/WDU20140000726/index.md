@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-05-27 |
 | Data wydania | 2014-05-30 |
-| Wejście w życie | 2014-05-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000726) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/726/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie krakowskiej specjalnej strefy ekonomicznej (Dz. U. z 2014 r. poz. 714) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 707,7833 ha, położone na terenie miast: Bochnia, Bukowno, Kraków, Krosno, Limanowa, Nowy Sącz, Oświęcim, Sucha Beskidzka i Tarnów oraz gmin: Andrychów, Bochnia, Boguchwała, Chełmek, Chrzanów, Czorsztyn, Dąbrowa Tarnowska, Dobczyce, Gdów, Niepołomice, Nowa Sarzyna, Skawina, Słomniki, Trzebinia, Wolbrom, Zabierzów i Zator.
-” ;
+Strefa obejmuje grunty o powierzchni 707,7833 ha, położone na terenie miast: Bochnia, Bukowno, Kraków, Krosno, Limanowa, Nowy Sącz, Oświęcim, Sucha Beskidzka i Tarnów oraz gmin: Andrychów, Bochnia, Boguchwała, Chełmek, Chrzanów, Czorsztyn, Dąbrowa Tarnowska, Dobczyce, Gdów, Niepołomice, Nowa Sarzyna, Skawina, Słomniki, Trzebinia, Wolbrom, Zabierzów i Zator. ” ;
 2)
 w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU KRAKOWSKIEGO PARKU TECHNOLOGICZNEGO:
 a)

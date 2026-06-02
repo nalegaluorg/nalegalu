@@ -8,10 +8,10 @@ pos: 928
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Wyrok Trybunału Konstytucyjnegoz dnia 23 lipca 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 sierpnia 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-07-23 |
 | Data wydania | 2013-08-13 |
-| Wejście w życie | 2013-08-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000928) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/928/text.pdf) |
 
-Treść wyroku
-Trybunał Konstytucyjny w składzie: Teresa Liszcz – przewodniczący, Maria Gintowt-Jankowicz, Mirosław Granat, Wojciech Hermeliński, Małgorzata Pyziak-Szafnicka – sprawozdawca, protokolant: Krzysztof Zalecki, po rozpoznaniu, z udziałem Sejmu oraz Prokuratora Generalnego, na rozprawie w dniu 23 lipca 2013 r., pytania prawnego Wojewódzkiego Sądu Administracyjnego w Gorzowie Wielkopolskim, czy art. 10 ustawy z dnia 16 września 2011 r. o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw (Dz. U. Nr 244, poz. 1454) w zakresie, w jakim nakazuje stosować w sprawach o nałożenie kary pieniężnej za naruszenie obowiązków lub warunków przewozu drogowego przepisy ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, ze zm.) w brzmieniu nadanym wskazaną ustawą, do spraw wszczętych i niezakończonych decyzją ostateczną przed dniem jej wejścia w życie i tym samym przewidującej wymierzenie kary pieniężnej w wysokości wyższej niż przewidziana w chwili wystąpienia zdarzenia (tempus regit actum) rodzącego odpowiedzialność karnoadministracyjną, jest zgodny z art. 2 i art. 32 ust. 1 Konstytucji, orzeka: Art. 10 ustawy z dnia 16 września 2011 r. o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw (Dz. U. Nr 244, poz. 1454) w zakresie, w jakim – w sprawach o nałożenie kary pieniężnej za naruszenie obowiązków lub warunków przewozu drogowego wszczętych a niezakończonych decyzją ostateczną przed dniem wejścia tej ustawy w życie – nakazuje stosowanie przepisów ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, ze zm.) w brzmieniu nadanym wyżej powołaną ustawą z 16 września 2011 r., przewidujących wyższe kary pieniężne niż kary przewidziane w przepisach obowiązujących w chwili wystąpienia zdarzenia powodującego odpowiedzialność administracyjną, jest niezgodny z art. 2 Konstytucji Rzeczypospolitej Polskiej. Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070, z 2005 r. Nr 169, poz. 1417, z 2009 r. Nr 56, poz. 459 i Nr 178, poz. 1375, z 2010 r. Nr 182, poz. 1228 i Nr 197, poz. 1307 oraz z 2011 r. Nr 112, poz. 654) umorzyć postępowanie w pozostałym zakresie.
+Poz. 928 WYROK TRYBUNAŁU KONSTYTUCYJNEGO z dnia 23 lipca 2013 r.
+sygn. akt P 36/12 Trybunał Konstytucyjny w składzie: Teresa Liszcz – przewodniczący, Maria Gintowt-Jankowicz, Mirosław Granat, Wojciech Hermeliński, Małgorzata Pyziak-Szafnicka – sprawozdawca, po rozpoznaniu, z udziałem Sejmu oraz Prokuratora Generalnego, na rozprawie w dniu 23 lipca 2013 r., pytania prawnego Wojewódzkiego Sądu Administracyjnego w Gorzowie Wielkopolskim, czy art. 10 ustawy z dnia 16 września 2011 r. o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw (Dz. U. Nr 244, poz. 1454) w zakresie, w jakim nakazuje stosować w sprawach o nałożenie kary pieniężnej za naruszenie obowiązków lub warunków przewozu drogowego przepisy ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, ze zm.) w brzmieniu nadanym wskazaną ustawą, do spraw wszczętych i niezakończonych decyzją ostateczną przed dniem jej wejścia w życie i tym samym przewidującej wymierzenie kary pieniężnej w wysokości wyższej niż przewidziana w chwili wystąpienia zdarzenia (tempus regit actum) rodzącego odpowiedzialność karnoadministracyjną, jest zgodny z art. 2 i art. 32 ust. 1 Konstytucji, orzeka:
+Art. 10 ustawy z dnia 16 września 2011 r. o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw (Dz. U.
+Nr 244, poz. 1454) w zakresie, w jakim – w sprawach o nałożenie kary pieniężnej za naruszenie obowiązków lub warunków przewozu drogowego wszczętych a niezakończonych decyzją ostateczną przed dniem wejścia tej ustawy w życie – nakazuje stosowanie przepisów ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, ze zm.) w brzmieniu nadanym wyżej powołaną ustawą z 16 września 2011 r., przewidujących wyższe kary pieniężne niż kary przewidziane w przepisach obowiązujących w chwili wystąpienia zdarzenia powodującego odpowiedzialność administracyjną, jest niezgodny z art. 2 Konstytucji Rzeczypospolitej Polskiej.
+Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070, z 2005 r. Nr 169, poz. 1417, z 2009 r. Nr 56, poz. 459 i Nr 178, poz. 1375, z 2010 r. Nr 182, poz. 1228 i Nr 197, poz. 1307 oraz z 2011 r. Nr 112, poz. 654) umorzyć postępowanie w pozostałym zakresie.
+Teresa Liszcz Maria Gintowt-Jankowicz Mirosław Granat
 

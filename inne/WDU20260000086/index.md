@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000086) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/86/text.pdf) |
 
-1. Na podstawie 16 ust. 1 zdanie pierwsze dnia 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst dnia 22 maja 2009 nauczycielskich świadczeniach kompensacyjnych (Dz. 2025 174), uwzględnieniem zmian wprowadzonych ustawą dnia 25 lipca 2025 zmianie Karta Nauczyciela niektórych innych ustaw (Dz. 1160) zmian wynikających przepisów ogłoszonych przed dniem 20 stycznia 2026
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje 14 19 dnia 25 lipca 2025 zmianie Karta Nauczyciela niektórych innych ustaw (Dz. 1160), które stanowią: „Art. 14. Do okresu 20 lat wykonywania pracy, którym 4 ust. 1 zmienianej 4, wlicza się również okresy wykonywania pracy:
+1. Na podstawie 16 ust. 1 zdanie pierwsze dnia 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst dnia 22 maja 2009 nauczycielskich świadczeniach kompensacyjnych (Dz. U. 2025 174), uwzględnieniem zmian wprowadzonych ustawą dnia 25 lipca 2025 zmianie Karta Nauczyciela niektórych innych ustaw (Dz. U. 1160) zmian wynikających przepisów ogłoszonych przed dniem 20 stycznia 2026
+2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje 14 19 dnia 25 lipca 2025 zmianie Karta Nauczyciela niektórych innych ustaw (Dz. U. 1160), które stanowią: „Art. 14. Do okresu 20 lat wykonywania pracy, którym 4 ust. 1 zmienianej 4, wlicza się również okresy wykonywania pracy:
 1) przed dniem 1 stycznia 2026 jednostkach, których 1 lit. e–k zmienianej 4, brzmieniu nadanym niniejszą ustawą;
 2) przed dniem 1 września 2019 placówkach kształcenia praktycznego ośrodkach dokształcania doskonalenia zawodowego, których 4 zmienianej 6, brzmieniu obowiązującym przed dniem 1 września 2019 r.” „Art. 19. Ustawa wchodzi życie dniem 1 września 2025 r., wyjątkiem:
 1) 5 2, który wchodzi życie dniem następującym po dniu ogłoszenia;
@@ -48,8 +48,8 @@ USTAWA dnia 22 maja 2009 nauczycielskich świadczeniach kompensacyjnych
 
 - **1)** nauczyciel nauczycieli, wychowawców innych pracowników pedagogicznych zatrudnionych w: 350, późn. zm. );
     - **a)** publicznych niepublicznych przedszkolach,
-    - **b)** publicznych niepublicznych szkołach, wyjątkiem niepublicznych szkół nieposiadających uprawnień szkoły publicznej, których 104 ust. 1 dnia 22 listopada 2018 zmianie Prawo oświatowe, systemie oświaty niektórych innych ustaw (Dz. 2245, późn. zm. ), niepublicznych szkół artystycznych nieposiadających uprawnień publicznej szkoły artystycznej,
-    - **c)** publicznych niepublicznych placówkach, których 7 8 dnia 14 grudnia 2016 Prawo oświatowe (Dz. 2025 1043, 1160 1837),
+    - **b)** publicznych niepublicznych szkołach, wyjątkiem niepublicznych szkół nieposiadających uprawnień szkoły publicznej, których 104 ust. 1 dnia 22 listopada 2018 zmianie Prawo oświatowe, systemie oświaty niektórych innych ustaw (Dz. U. 2245, późn. zm. ), niepublicznych szkół artystycznych nieposiadających uprawnień publicznej szkoły artystycznej,
+    - **c)** publicznych niepublicznych placówkach, których 7 8 dnia 14 grudnia 2016 Prawo oświatowe (Dz. U. 2025 1043, 1160 1837),
     - **d)** publicznych niepublicznych poradniach psychologiczno-pedagogicznych, tym poradniach specjalistycznych, których 6 dnia 14 grudnia 2016 Prawo oświatowe,
     - **e)** publicznych niepublicznych placówkach oświatowo-wychowawczych, których 3 dnia 14 grudnia 2016 Prawo oświatowe,
     - **f)** publicznych niepublicznych placówkach kształcenia ustawicznego, centrach kształcenia zawodowego branżowych centrach umiejętności, których 4 dnia 14 grudnia 2016 Prawo oświatowe,
@@ -57,7 +57,7 @@ USTAWA dnia 22 maja 2009 nauczycielskich świadczeniach kompensacyjnych
     - **h)** publicznych niepublicznych placówkach doskonalenia nauczycieli, których 9 dnia 14 grudnia 2016 Prawo oświatowe,
     - **i)** publicznych niepublicznych bibliotekach pedagogicznych, których 10 dnia 14 grudnia 2016 Prawo oświatowe,
     - **j)** publicznych niepublicznych kolegiach pracowników służb społecznych, których 11 dnia 14 grudnia 2016 Prawo oświatowe,
-    - **k)** okręgowych ośrodkach wychowawczych, zakładach poprawczych schroniskach dla nieletnich działających na podstawie dnia 9 czerwca 2022 wspieraniu resocjalizacji nieletnich (Dz. 2024 978, 1228 1872);
+    - **k)** okręgowych ośrodkach wychowawczych, zakładach poprawczych schroniskach dla nieletnich działających na podstawie dnia 9 czerwca 2022 wspieraniu resocjalizacji nieletnich (Dz. U. 2024 978, 1228 1872);
 
 - **3)** uprawniony osobę mającą ustalone prawo do świadczenia.
 
@@ -68,13 +68,13 @@ USTAWA dnia 22 maja 2009 nauczycielskich świadczeniach kompensacyjnych
 1. Świadczenie przysługuje nauczycielom, którzy spełnili łącznie następujące warunki:
 
 - **1)** osiągnęli wiek, którym ust. 3;
-- **2)** mają okres składkowy nieskładkowy rozumieniu dnia 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. 2025 1749 2026 26), zwanej dalej „ustawą emeryturach rentach FUS”, wynoszący 30 lat, tym 20 lat wykonywania pracy jednostkach, których 1, wymiarze co najmniej 1/2 obowiązkowego wymiaru zajęć;
+- **2)** mają okres składkowy nieskładkowy rozumieniu dnia 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 2025 1749 2026 26), zwanej dalej „ustawą emeryturach rentach FUS”, wynoszący 30 lat, tym 20 lat wykonywania pracy jednostkach, których 1, wymiarze co najmniej 1/2 obowiązkowego wymiaru zajęć;
 - **3)** rozwiązali stosunek pracy.
 
 2. Nauczycielom spełniającym warunki określone ust. 1 1 świadczenie przysługuje również przypadku rozwiązania stosunku pracy lub wygaśnięcia stosunku pracy okolicznościach określonych:
 
-- **1)** 20 ust. 1, 5c 7 dnia 26 stycznia 1982 Karta Nauczyciela (Dz. 2024 986, późn. zm. );
-- **2)** 225 ust. 1, 6, 7 10 226 ust. 1 dnia 14 grudnia 2016 Przepisy wprowadzające ustawę Prawo oświatowe (Dz. 2017 60, późn. zm. ).
+- **1)** 20 ust. 1, 5c 7 dnia 26 stycznia 1982 Karta Nauczyciela (Dz. U. 2024 986, późn. zm. );
+- **2)** 225 ust. 1, 6, 7 10 226 ust. 1 dnia 14 grudnia 2016 Przepisy wprowadzające ustawę Prawo oświatowe (Dz. U. 2017 60, późn. zm. ).
 
 3. Nauczyciel ma prawo do świadczenia, jeżeli ukończył:
 
@@ -165,7 +165,7 @@ USTAWA dnia 22 maja 2009 nauczycielskich świadczeniach kompensacyjnych
 
 5. Do ustalenia wysokości świadczeń, których ust. 2, stosuje się zasady przewidziane przepisach emeryturach rentach FUS.
 
-6. W przypadku skorzystania prawa do świadczenia nie przysługuje prawo do rekompensaty, której ustawie dnia 19 grudnia 2008 emeryturach pomostowych (Dz. 2024 1696).
+6. W przypadku skorzystania prawa do świadczenia nie przysługuje prawo do rekompensaty, której ustawie dnia 19 grudnia 2008 emeryturach pomostowych (Dz. U. 2024 1696).
 
 **Art. 18.**
 

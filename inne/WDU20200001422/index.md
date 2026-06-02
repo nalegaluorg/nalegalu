@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 lipca 2020 r. o wsparciu rynku ubezpieczeń należności handlowych w związku z przeciwdziałaniem skutkom gospodarczym COVID-19
+# Ustawa z dnia 16 lipca 2020 r. o wsparciu rynku ubezpieczeń należności handlowych w związku z przeciwdziałaniem skutkom gospodarczym COVID-19 Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 2017 r. o wykonywaniu zadań z zakresu promocji polskiej gospodarki przez Polską Agencję Inwestycji i Handlu Spółka Akcyjna oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-07-16 |
 | Data wydania | 2020-08-20 |
-| Wejście w życie | 2020-08-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001422) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1422/text.pdf) |
 
@@ -32,7 +31,7 @@ source: "eli-html"
 
 2. Przejęcie ryzyka dotyczy należności handlowych:
 
-- **1)** stanowiących kwoty pieniężne należne przedsiębiorcy z tytułu transakcji handlowej od kontrahenta mającego siedzibę lub miejsce sprawowania zarządu w państwie o ryzyku tymczasowo niezbywalnym, o którym mowa w załączniku do komunikatu Komisji do państw członkowskich w sprawie zastosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do krótkoterminowego ubezpieczenia kredytów eksportowych (Dz. Urz. UE C 392 z 19.12.2012, str. 1, z późn. zm.);
+- **1)** stanowiących kwoty pieniężne należne przedsiębiorcy z tytułu transakcji handlowej od kontrahenta mającego siedzibę lub miejsce sprawowania zarządu w państwie o ryzyku tymczasowo niezbywalnym, o którym mowa w załączniku do komunikatu Komisji do państw członkowskich w sprawie zastosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do krótkoterminowego ubezpieczenia kredytów eksportowych (Dz. Urz. UE C 392 z 19.12.2012, str. 1, z późn. zm.Zmiany wymienionego komunikatu zostały ogłoszone w Dz. Urz. UE C 398 z 22.12.2012, str. 6, Dz. Urz. UE C 372 z 19.12.2013, str. 1, Dz. Urz. UE C 28 z 28.01.2015, str. 1, Dz. Urz. UE C 215 z 01.07.2015, str. 1, Dz. Urz. UE C 244 z 05.07.2016, str. 1, Dz. Urz. UE C 206 z 30.06.2017, str. 1, Dz. Urz. UE C 225 z 28.06.2018, str.1, Dz. Urz. UE C 457 z 19.12.2018, str. 9 oraz Dz. Urz UE C 101A z 28.03.2020, str. 1.);
 - **2)** potwierdzonych dokumentem księgowym wystawionym zgodnie z obowiązującymi przepisami prawa lub prawomocnym wyrokiem sądu;
 - **3)** o terminie płatności poniżej 2 lat.
 
@@ -83,7 +82,7 @@ source: "eli-html"
 
 6. Umowa może zostać zawarta z zakładem ubezpieczeń, który:
 
-- **1)** w dniu zawarcia umowy nie znajduje się w trudnej sytuacji, o której mowa w art. 2 pkt 18 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 651/2014”, albo
+- **1)** w dniu zawarcia umowy nie znajduje się w trudnej sytuacji, o której mowa w art. 2 pkt 18 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28., zwanego dalej „rozporządzeniem 651/2014”, albo
 - **2)** w dniu 31 grudnia 2019 r. nie znajdował się w trudnej sytuacji, o której mowa w art. 2 pkt 18 rozporządzenia 651/2014, ale po tym dniu znalazł się w trudnej sytuacji z powodu wystąpienia pandemii COVID-19.
 
 7. Do umowy załącza się oświadczenie o spełnieniu przez zakład ubezpieczeń warunków, o których mowa w ust. 6. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywego oświadczenia.
@@ -127,7 +126,7 @@ source: "eli-html"
 
 - **9)** podejmowanie działań służących zapobieganiu skutkom sytuacji kryzysowych w rozumieniu art. 3 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2019 r. poz. 1398 oraz z 2020 r. poz. 148, 284, 374 i 695) lub łagodzeniu tych skutków, w tym skutków rozprzestrzeniania się zakażeń wirusem SARS-CoV-2, powodującym chorobę zakaźną COVID-19. ” .
 
-**Art. 10.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm.) po art. 15zzzzzzd dodaje się art. 15zzzzzze w brzmieniu: „ Art. 15zzzzzze. Rada Ministrów może upoważnić ministra właściwego do spraw finansów publicznych do zawarcia umowy o przystąpieniu Rzeczypospolitej Polskiej do funduszy, inicjatyw, mechanizmów i programów uruchamianych przez Unię Europejską i jej instytucje, w tym Grupę Europejskiego Banku Inwestycyjnego, mających na celu przeciwdziałanie COVID-19, oraz innych umów związanych z realizacją tej umowy. ” .
+**Art. 10.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 567, 568, 695, 875, 1086 i 1106.) po art. 15zzzzzzd dodaje się art. 15zzzzzze w brzmieniu: „ Art. 15zzzzzze. Rada Ministrów może upoważnić ministra właściwego do spraw finansów publicznych do zawarcia umowy o przystąpieniu Rzeczypospolitej Polskiej do funduszy, inicjatyw, mechanizmów i programów uruchamianych przez Unię Europejską i jej instytucje, w tym Grupę Europejskiego Banku Inwestycyjnego, mających na celu przeciwdziałanie COVID-19, oraz innych umów związanych z realizacją tej umowy. ” .
 
-**Art. 11.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 2017 r. o wykonywaniu zadań z zakresu promocji polskiej gospodarki przez Polską Agencję Inwestycji i Handlu Spółka Akcyjna oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych. 2) Zmiany wymienionego komunikatu zostały ogłoszone w Dz. Urz. UE C 398 z 22.12.2012, str. 6, Dz. Urz. UE C 372 z 19.12.2013, str. 1, Dz. Urz. UE C 28 z 28.01.2015, str. 1, Dz. Urz. UE C 215 z 01.07.2015, str. 1, Dz. Urz. UE C 244 z 05.07.2016, str. 1, Dz. Urz. UE C 206 z 30.06.2017, str. 1, Dz. Urz. UE C 225 z 28.06.2018, str.1, Dz. Urz. UE C 457 z 19.12.2018, str. 9 oraz Dz. Urz UE C 101A z 28.03.2020, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 567, 568, 695, 875, 1086 i 1106.
 

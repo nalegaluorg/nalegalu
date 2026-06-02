@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 kwietnia 2024 r. o zmianie ustawy o pomocy społecznej oraz niektórych innych ustaw
+# Ustawa z dnia 26 kwietnia 2024 r. o zmianie ustawy o pomocy społecznej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 oraz ustawę z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-26 |
 | Data wydania | 2024-05-17 |
-| Wejście w życie | 2024-06-01 |
 | Ostatnia zmiana | 2024-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000743) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/743/text.pdf) |
 
@@ -62,11 +61,11 @@ source: "eli-html"
 
 3. Program, o którym mowa w ust. 1, jest finansowany z dotacji celowej z budżetu państwa.
 
-4. Do udzielania dotacji celowej z budżetu państwa na realizację programu, o którym mowa w ust. 1, nie stosuje się przepisu art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.).
+4. Do udzielania dotacji celowej z budżetu państwa na realizację programu, o którym mowa w ust. 1, nie stosuje się przepisu art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.).
 
 5. Środki z programu, o którym mowa w ust. 1, przeznacza się w całości na zwiększenie wynagrodzeń pracowników oraz pokrycie kosztów składek od tych wynagrodzeń.
 
 6. Dofinansowanie, o którym mowa w ust. 1, nie stanowi podstawy naliczania świadczeń, odszkodowań i innych wypłat, wynikających z odrębnych przepisów, w tym dodatkowego wynagrodzenia rocznego i nagród rocznych. ” .
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 oraz ustawę z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.
 

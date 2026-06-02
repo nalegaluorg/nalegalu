@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o służbie wojskowej żołnierzy zawodowych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o służbie wojskowej żołnierzy zawodowych oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawę z dnia 17 grudnia 1974 r. o uposażeniu żołnierzy niezawodowych, ustawę z dnia 4 września 1997 r. o dyscyplinie wojskowej, ustawę z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 24 sierpnia 2006 r. o służbie cywilnej, ustawę z dnia 24 sierpnia 2006 r. o państwowym zasobie kadrowym i wysokich stanowiskach państwowych i ustawę z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-08-24 |
 | Data wydania | 2007-09-25 |
-| Wejście w życie | 2008-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071761242) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1242/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. Nr 179, poz. 1750, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. Nr 179, poz. 1750, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 116, poz. 1203 i Nr 210, poz. 2135, z 2005 r. Nr 122, poz. 1025, z 2006 r. Nr 104, poz. 711, Nr 191, poz. 1414 i Nr 220, poz. 1600 i 1602 oraz z 2007 r. Nr 107, poz. 732.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 ust. 4 otrzymuje brzmienie: „
 
@@ -42,13 +41,30 @@ source: "eli-html"
     - **c)**
 
 - **2)** dowódca jednostki wojskowej – w przypadkach wymienionych w ust. 2 pkt 1, ust. 3 pkt 1–4 i 7 oraz ust. 4 pkt 3 i 4, a także, po uzgodnieniu z organem właściwym do wyznaczenia żołnierza zawodowego na stanowisko służbowe, w przypadkach wymienionych w ust. 3 pkt 5 oraz w ust. 4 pkt 1 i 2, jak również żołnierzy nadterminowej zasadniczej służby wojskowej i zasadniczej służby wojskowej ubiegających się o powołanie do zawodowej służby wojskowej; ” ;
-- **3)** w art. 6: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) stanowisko służbowe – usytuowanie żołnierza zawodowego w hierarchii służbowej jednostki organizacyjnej, z określonymi dla tego stanowiska: a) nazwą, b) stopniem etatowym, c) grupą uposażenia, d) korpusem osobowym, e) grupą osobową; ” , – uchyla się pkt 7–11, – po pkt 11 dodaje się pkt 11a w brzmieniu: „ 11a) karta opisu stanowiska służbowego – dokument sporządzony dla każdego stanowiska służbowego występującego w dokumencie etatowym jednostki wojskowej (komórki organizacyjnej), zawierający w szczególności informacje dotyczące charakterystyki stanowiska, podstawowych obowiązków i wymaganych kwalifikacji na stanowisku służbowym; ” , – pkt 12 otrzymuje brzmienie: „ 12) kadencja na stanowisku służbowym – okres pełnienia przez żołnierza zawodowego służby na stanowisku służbowym określony w decyzji personalnej wyznaczającej go na to stanowisko; ” , – w pkt 18 kropkę zastępuje się średnikiem i dodaje pkt 19–22 w brzmieniu: „ 19) gestor korpusu osobowego (grupy osobowej) – wyznaczoną przez Ministra Obrony Narodowej osobę, która z racji zajmowanego stanowiska i posiadanych wysokich kwalifikacji w danym korpusie osobowym (grupie osobowej) jest odpowiedzialna za opracowanie i uaktualnianie modelu przebiegu służby żołnierzy zawodowych w korpusie osobowym (grupie osobowej), wpływającą na rozwój służbowy tych żołnierzy przez współuczestniczenie w procesie naboru, doskonalenia zawodowego i opiniowania kart opisu stanowisk służbowych dla nich, a także ich prognoz przebiegu służby; 20) dzieci pozostające na utrzymaniu żołnierza zawodowego – dzieci własne żołnierza zawodowego, dzieci jego małżonka, dzieci przysposobione i dzieci przyjęte na wychowanie, do czasu zawarcia przez nie związku małżeńskiego, które: a) nie przekroczyły osiemnastego roku życia, a w razie uczęszczania do szkoły lub odbywania studiów w szkole wyższej dwudziestego piątego roku życia, albo b) stały się całkowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji przed osiągnięciem wieku określonego w lit. a; 21) przydział mobilizacyjny – imienne wyznaczenie żołnierza zawodowego lub żołnierza pełniącego służbę kandydacką na stanowisko służbowe określone etatem czasu wojennego, zgodnie z wymaganiami kwalifikacyjnymi oraz innymi predyspozycjami określonymi dla tego stanowiska; 22) droga służbowa – wnoszenie wystąpień (wniosków, skarg, próśb, zażaleń i pytań) za pośrednictwem kolejnych przełożonych, aż do właściwego, który sprawę rozpatrzy. ” ; ust. 2 otrzymuje brzmienie: „
+- **3)** w art. 6: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** stanowisko służbowe – usytuowanie żołnierza zawodowego w hierarchii służbowej jednostki organizacyjnej, z określonymi dla tego stanowiska: nazwą, stopniem etatowym, grupą uposażenia, korpusem osobowym, grupą osobową; ” , – uchyla się pkt 7–11, po pkt 11 dodaje się pkt 11a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **11a)** karta opisu stanowiska służbowego – dokument sporządzony dla każdego stanowiska służbowego występującego w dokumencie etatowym jednostki wojskowej (komórki organizacyjnej), zawierający w szczególności informacje dotyczące charakterystyki stanowiska, podstawowych obowiązków i wymaganych kwalifikacji na stanowisku służbowym; ” , pkt 12 otrzymuje brzmienie: „
+- **12)** kadencja na stanowisku służbowym – okres pełnienia przez żołnierza zawodowego służby na stanowisku służbowym określony w decyzji personalnej wyznaczającej go na to stanowisko; ” , w pkt 18 kropkę zastępuje się średnikiem i dodaje pkt 19–22 w brzmieniu: „
+- **19)** gestor korpusu osobowego (grupy osobowej) – wyznaczoną przez Ministra Obrony Narodowej osobę, która z racji zajmowanego stanowiska i posiadanych wysokich kwalifikacji w danym korpusie osobowym (grupie osobowej) jest odpowiedzialna za opracowanie i uaktualnianie modelu przebiegu służby żołnierzy zawodowych w korpusie osobowym (grupie osobowej), wpływającą na rozwój służbowy tych żołnierzy przez współuczestniczenie w procesie naboru, doskonalenia zawodowego i opiniowania kart opisu stanowisk służbowych dla nich, a także ich prognoz przebiegu służby;
+- **20)** dzieci pozostające na utrzymaniu żołnierza zawodowego – dzieci własne żołnierza zawodowego, dzieci jego małżonka, dzieci przysposobione i dzieci przyjęte na wychowanie, do czasu zawarcia przez nie związku małżeńskiego, które: nie przekroczyły osiemnastego roku życia, a w razie uczęszczania do szkoły lub odbywania studiów w szkole wyższej dwudziestego piątego roku życia, albo stały się całkowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji przed osiągnięciem wieku określonego w lit. a;
+    - **a)**
+    - **b)**
+
+- **21)** przydział mobilizacyjny – imienne wyznaczenie żołnierza zawodowego lub żołnierza pełniącego służbę kandydacką na stanowisko służbowe określone etatem czasu wojennego, zgodnie z wymaganiami kwalifikacyjnymi oraz innymi predyspozycjami określonymi dla tego stanowiska;
+- **22)** droga służbowa – wnoszenie wystąpień (wniosków, skarg, próśb, zażaleń i pytań) za pośrednictwem kolejnych przełożonych, aż do właściwego, który sprawę rozpatrzy. ” ; ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Ilekroć w niniejszej ustawie jest mowa o:
 
-- **1)** jednostce wojskowej – należy przez to rozumieć jednostkę wojskową, o której mowa w przepisach ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z późn. zm.), oraz jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane, przedsiębiorstwa państwowe, dla których jest on organem założycielskim, oraz komórki organizacyjne Ministerstwa Obrony Narodowej;
+- **1)** jednostce wojskowej – należy przez to rozumieć jednostkę wojskową, o której mowa w przepisach ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 277, poz. 2742, z 2005 r. Nr 180, poz. 1496, z 2006 r. Nr 104, poz. 708 i 711 i Nr 220, poz. 1600 oraz z 2007 r. Nr 107, poz. 732.), oraz jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane, przedsiębiorstwa państwowe, dla których jest on organem założycielskim, oraz komórki organizacyjne Ministerstwa Obrony Narodowej;
 - **2)** decyzji – należy przez to rozumieć również rozkaz personalny. Decyzje i rozkazy personalne wydaje się w formie indywidualnej lub zbiorowej. W przypadku sporządzenia decyzji lub rozkazu personalnego w formie zbiorowej, wyciąg z tej decyzji lub rozkazu jest z nimi równoznaczny. ” ;
 - **4)** w art. 7 w ust. 1 pkt 1 otrzymuje brzmienie: „
 - **1)** pełniących zawodową służbę wojskową w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, przedsiębiorstwach państwowych, dla których jest on organem założycielskim, oraz komórkach organizacyjnych Ministerstwa Obrony Narodowej – przysługuje odpowiednio dyrektorom (szefom, komendantom, kierownikom, prezesom) tych jednostek i komórek organizacyjnych; ” ;
@@ -112,7 +128,7 @@ source: "eli-html"
 - **11)** w art. 22 w ust. 9 uchyla się pkt 1;
 - **12)** art. 23 otrzymuje brzmienie: „
 
-**Art. 23.** Tryb postępowania i warunki wymagane przy wyznaczaniu żołnierzy zawodowych na stanowiska aplikantów, asesorów i sędziów w sądach wojskowych oraz aplikantów, asesorów i prokuratorów w wojskowych jednostkach organizacyjnych prokuratury i odwoływaniu z tych stanowisk określają przepisy ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych i ustawy z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2002 r. Nr 21, poz. 206, z późn. zm.). ” ;
+**Art. 23.** Tryb postępowania i warunki wymagane przy wyznaczaniu żołnierzy zawodowych na stanowiska aplikantów, asesorów i sędziów w sądach wojskowych oraz aplikantów, asesorów i prokuratorów w wojskowych jednostkach organizacyjnych prokuratury i odwoływaniu z tych stanowisk określają przepisy ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych i ustawy z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2002 r. Nr 21, poz. 206, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 213, poz. 1802, z 2003 r. Nr 228, poz. 2256, z 2005 r. Nr 130, poz. 1085, Nr 167, poz. 1398 i Nr 169, poz. 1410 i 1417, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162, Nr 64, poz. 431, 432 i 433, Nr 73, poz. 484, Nr 85, poz. 571 i Nr 136, poz. 959.). ” ;
 
 - **13)** w art. 24 ust. 2 i 3 otrzymują brzmienie: „
 
@@ -457,7 +473,7 @@ source: "eli-html"
 
 **Art. 65.**
 
-1. Żołnierzowi zawodowemu przysługuje urlop macierzyński na zasadach i w wymiarze określonych w przepisach ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.).
+1. Żołnierzowi zawodowemu przysługuje urlop macierzyński na zasadach i w wymiarze określonych w przepisach ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615 oraz z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589 i Nr 176, poz. 1239.).
 
 2. Żołnierzowi zawodowemu – kobiecie będącej w ciąży lub karmiącej dziecko piersią:
 
@@ -590,8 +606,11 @@ source: "eli-html"
 
 3. W przypadkach, o których mowa w ust. 1 i 2, żołnierza zawodowego skreśla się z ewidencji decyzją dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw kadr wydaną dla celów ewidencyjnych. ” ;
 
-- **49)** w art. 114: w ust. 4: – pkt 2 otrzymuje brzmienie: „ 2) dyrektor departamentu Ministerstwa Obrony Narodowej właściwego do spraw kadr – w odniesieniu do pozostałych żołnierzy zawodowych korpusu oficerów i podoficerów zawodowych; ” , – dodaje się pkt 3 w brzmieniu: „ 3) dowódca jednostki wojskowej – w odniesieniu do żołnierzy zawodowych korpusu szeregowych zawodowych. ” , ust. 5 otrzymuje brzmienie: „
+- **49)** w art. 114: w ust. 4: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** dyrektor departamentu Ministerstwa Obrony Narodowej właściwego do spraw kadr – w odniesieniu do pozostałych żołnierzy zawodowych korpusu oficerów i podoficerów zawodowych; ” , dodaje się pkt 3 w brzmieniu: „
+- **3)** dowódca jednostki wojskowej – w odniesieniu do żołnierzy zawodowych korpusu szeregowych zawodowych. ” , ust. 5 otrzymuje brzmienie: „
     - **b)**
 
 5. Zwolnienie z zawodowej służby wojskowej żołnierza zawodowego wskutek dokonanego wypowiedzenia stosunku służbowego zawodowej służby wojskowej następuje po upływie sześciu miesięcy od dnia złożenia wypowiedzenia przez żołnierza lub doręczenia wypowiedzenia dokonanego przez organ wojskowy, w ostatnim dniu miesiąca. ” ;
@@ -687,8 +706,11 @@ source: "eli-html"
 
 **Art. 132.** Do żołnierzy pełniących służbę kandydacką stosuje się odpowiednio przepisy art. 8, art. 26, 48–51, art. 54–57, art. 59, art. 60b, art. 70 i art. 105–110. ” ;
 
-- **60)** w art. 134: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) wybrania na posła, w tym do Parlamentu Europejskiego, senatora, na kierownicze stanowisko państwowe obsadzane na podstawie wyboru oraz do organów wykonawczych samorządu terytorialnego; ” , – po pkt 8 dodaje się pkt 8a w brzmieniu: „ 8a) skazania prawomocnym wyrokiem na karę ograniczenia wolności; ” , ust. 4 otrzymuje brzmienie: „
+- **60)** w art. 134: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** wybrania na posła, w tym do Parlamentu Europejskiego, senatora, na kierownicze stanowisko państwowe obsadzane na podstawie wyboru oraz do organów wykonawczych samorządu terytorialnego; ” , po pkt 8 dodaje się pkt 8a w brzmieniu: „
+- **8a)** skazania prawomocnym wyrokiem na karę ograniczenia wolności; ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Zwolnienie ze służby kandydackiej następuje decyzją komendanta szkoły wojskowej. ” ;
@@ -774,5 +796,5 @@ source: "eli-html"
 
 **Art. 186.** Dla celów ustalania przeciętnego uposażenia, o którym mowa w art. 71 ust. 2, przyjmuje się również uposażenie żołnierzy odbywających nadterminową zasadniczą służbę wojskową. ” .
 
-**Art. 2.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z późn. zm.) w art. 76 po ust. 13 dodaje się ust. 13a w brzmieniu: „ 13a.
+**Art. 2.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 277, poz. 2742, z 2005 r. Nr 180, poz. 1496, z 2006 r. Nr 104, poz. 708 i 711 i Nr 220, poz. 1600 oraz z 2007 r. Nr 107, poz. 732.) w art. 76 po ust. 13 dodaje się ust. 13a w brzmieniu: „ 13a.
 

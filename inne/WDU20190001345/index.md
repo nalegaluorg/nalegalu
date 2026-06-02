@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-09 |
 | Data wydania | 2019-07-18 |
-| Wejście w życie | 2019-07-19 |
 | Ostatnia zmiana | 2026-02-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001345) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1345/text.pdf) |
 
@@ -54,5 +53,5 @@ Odpisy, zaświadczenia i informacje z rejestru zastawów, o których mowa w § 1
 § 7.
 System teleinformatyczny potwierdza zamieszczenie odpisów, zaświadczeń, informacji z rejestru, orzeczeń oraz pism sądowych pod adresem, o którym mowa w § 2 ust. 2, ze wskazaniem daty zamieszczenia.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 11 grudnia 2008 r. w sprawie warunków organizacyjno-technicznych dotyczących formy wniosków i dokumentów oraz ich składania do sądów prowadzących rejestr zastawów i do centralnej informacji o zastawach rejestrowych drogą elektroniczną, a także orzeczeń, odpisów, zaświadczeń i informacji doręczanych wnioskodawcom tą drogą przez sądy oraz centralną informację (Dz. U. poz. 1535 oraz z 2016 r. poz. 1675), które utraciło moc z dniem 31 grudnia 2018 r. na podstawie art. 53 ustawy z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 398 i 650 oraz z 2019 r. poz. 55 i 1214). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 11 grudnia 2008 r. w sprawie warunków organizacyjno-technicznych dotyczących formy wniosków i dokumentów oraz ich składania do sądów prowadzących rejestr zastawów i do centralnej informacji o zastawach rejestrowych drogą elektroniczną, a także orzeczeń, odpisów, zaświadczeń i informacji doręczanych wnioskodawcom tą drogą przez sądy oraz centralną informację (Dz. U. poz. 1535 oraz z 2016 r. poz. 1675), które utraciło moc z dniem 31 grudnia 2018 r. na podstawie art. 53 ustawy z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 398 i 650 oraz z 2019 r. poz. 55 i 1214).
 

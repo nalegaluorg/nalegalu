@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-10-17 |
 | Data wydania | 2003-11-24 |
-| Wejście w życie | 2004-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031991939) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1939/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz. U. Nr 27, poz. 298, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz. U. Nr 27, poz. 298, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676 i Nr 153, poz. 1271 oraz z 2003 r. Nr 52, poz. 451, Nr 90, poz. 844 i Nr 166, poz. 1609.) wprowadza się następujące zmiany:
 
 - **1)** w art. 20 ust. 3 otrzymuje brzmienie: „
 
@@ -142,8 +141,12 @@ source: "eli-html"
 
 3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki, tryb i terminy zwrotu kosztów, o których mowa w ust. 1, biorąc pod uwagę przede wszystkim sposób dokumentowania poniesionych wydatków na dojazd. ” ;
 
-- **21)** w art. 90: w ust. 2: – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) nagrody uznaniowe, ” , – pkt 4 otrzymuje brzmienie: „ 4) należności za podróże służbowe, ” , – w pkt 6 kropkę zastępuje się przecinkiem i dodaje się pkt 7 w brzmieniu: „ 7) należności w związku z otrzymaniem pierwszego lokalu. ” , uchyla się ust. 5;
+- **21)** w art. 90: w ust. 2: po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **a)**
+
+- **2a)** nagrody uznaniowe, ” , pkt 4 otrzymuje brzmienie: „
+- **4)** należności za podróże służbowe, ” , w pkt 6 kropkę zastępuje się przecinkiem i dodaje się pkt 7 w brzmieniu: „
+- **7)** należności w związku z otrzymaniem pierwszego lokalu. ” , uchyla się ust. 5;
     - **b)**
 
 - **22)** w art. 100 ust. 1 otrzymuje brzmienie: „
@@ -196,17 +199,17 @@ source: "eli-html"
 
 - **3)** o odszkodowanie z tytułu wypadku przy pracy w gospodarstwie rolnym, wypadku w drodze do pracy lub z pracy, wypadku przy pracy lub choroby zawodowej, wypadku lub choroby zawodowej pozostającej w związku z czynną służbą wojskową albo służbą w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Biurze Ochrony Rządu, Służbie Więziennej, Państwowej Straży Pożarnej i Służbie Celnej, ” .
 
-**Art. 3.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 1999 r. Nr 54, poz. 572, z późn. zm.) w art. 5 ust. 1 otrzymuje brzmienie: „ 1. Nie podlega kontroli skarbowej celowość i sposób wykorzystywania środków budżetowych oraz mienia państwowego na cele specjalne w jednostkach organizacyjnych podległych, podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej, w Policji, Państwowej Straży Pożarnej, Straży Granicznej, Biurze Ochrony Rządu oraz w jednostkach organizacyjnych Agencji Bezpieczeństwa Wewnętrznego i Agencji Wywiadu. ” .
+**Art. 3.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 1999 r. Nr 54, poz. 572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 70, poz. 816, Nr 104, poz. 1103 i Nr 116, poz. 1216, z 2001 r. Nr 14, poz. 143, Nr 81, poz. 877 i Nr 110, poz. 1189, z 2002 r. Nr 41, poz. 365, Nr 74, poz. 676, Nr 89, poz. 804, Nr 141, poz. 1178, Nr 153, poz. 1271, Nr 169, poz. 1387 i Nr 216, poz. 1824 oraz z 2003 r. Nr 84, poz. 774, Nr 137, poz. 1302 i Nr 139, poz. 1326.) w art. 5 ust. 1 otrzymuje brzmienie: „ 1. Nie podlega kontroli skarbowej celowość i sposób wykorzystywania środków budżetowych oraz mienia państwowego na cele specjalne w jednostkach organizacyjnych podległych, podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej, w Policji, Państwowej Straży Pożarnej, Straży Granicznej, Biurze Ochrony Rządu oraz w jednostkach organizacyjnych Agencji Bezpieczeństwa Wewnętrznego i Agencji Wywiadu. ” .
 
-**Art. 4.** W ustawie z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz. U. Nr 160, poz. 1080, z późn. zm.) w art. 1 ust. 3 otrzymuje brzmienie: „ 3. Przepisów ustawy nie stosuje się do żołnierzy oraz funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Służby Celnej, Państwowej Straży Pożarnej, Służby Więziennej oraz Biura Ochrony Rządu. ” .
+**Art. 4.** W ustawie z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz. U. Nr 160, poz. 1080, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 155, poz. 1014, z 1999 r. Nr 72, poz. 802 i Nr 110, poz. 1255 oraz z 2002 r. Nr 74, poz. 676.) w art. 1 ust. 3 otrzymuje brzmienie: „ 3. Przepisów ustawy nie stosuje się do żołnierzy oraz funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Służby Celnej, Państwowej Straży Pożarnej, Służby Więziennej oraz Biura Ochrony Rządu. ” .
 
-**Art. 5.** W ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. Nr 53, poz. 549, z późn. zm.) art. 49 otrzymuje brzmienie: „
+**Art. 5.** W ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. Nr 53, poz. 549, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 27, poz. 298, z 2002 r. Nr 74, poz. 676 i Nr 117, poz. 1007 oraz z 2003 r. Nr 52, poz. 451 i Nr 80, poz. 718.) art. 49 otrzymuje brzmienie: „
 
 **Art. 49.** Przepisów rozdziału nie stosuje się do strzelnic Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Służby Więziennej oraz Biura Ochrony Rządu. ” .
 
-**Art. 6.** W ustawie z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. Nr 110, poz. 1255, z późn. zm.) w art. 2 pkt 2 otrzymuje brzmienie: „
+**Art. 6.** W ustawie z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. Nr 110, poz. 1255, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 19, poz. 239, z 2001 r. Nr 85, poz. 924, Nr 100, poz. 1080 i Nr 154, poz. 1784 i 1799, z 2002 r. Nr 74, poz. 676, Nr 152, poz. 1267, Nr 213, poz. 1802 i Nr 214, poz. 1805 oraz z 2003 r. Nr 149, poz. 1454, Nr 166, poz. 1609 i Nr 179, poz. 1750.) w art. 2 pkt 2 otrzymuje brzmienie: „
 
 - **2)** pracownicy – rozumie się osoby zatrudnione w jednostkach, o których mowa w pkt 1, oraz żołnierzy pełniących zawodową służbę wojskową, jako służbę stałą lub kontraktową, żołnierzy pełniących nadterminową zasadniczą służbę wojskową, funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu i Państwowej Straży Pożarnej – z wyjątkiem pełniących służbę kandydacką – oraz funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Więziennej i Służby Celnej, ” .
 
-**Art. 7.** Ustawa wchodzi w życie z dniem 1 stycznia 2004 r.
+**Art. 7.** Ustawa wchodzi w życie z dniem 1 stycznia 2004 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676 i Nr 153, poz. 1271 oraz z 2003 r. Nr 52, poz. 451, Nr 90, poz. 844 i Nr 166, poz. 1609. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 70, poz. 816, Nr 104, poz. 1103 i Nr 116, poz. 1216, z 2001 r. Nr 14, poz. 143, Nr 81, poz. 877 i Nr 110, poz. 1189, z 2002 r. Nr 41, poz. 365, Nr 74, poz. 676, Nr 89, poz. 804, Nr 141, poz. 1178, Nr 153, poz. 1271, Nr 169, poz. 1387 i Nr 216, poz. 1824 oraz z 2003 r. Nr 84, poz. 774, Nr 137, poz. 1302 i Nr 139, poz. 1326. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 155, poz. 1014, z 1999 r. Nr 72, poz. 802 i Nr 110, poz. 1255 oraz z 2002 r. Nr 74, poz. 676. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 27, poz. 298, z 2002 r. Nr 74, poz. 676 i Nr 117, poz. 1007 oraz z 2003 r. Nr 52, poz. 451 i Nr 80, poz. 718. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 19, poz. 239, z 2001 r. Nr 85, poz. 924, Nr 100, poz. 1080 i Nr 154, poz. 1784 i 1799, z 2002 r. Nr 74, poz. 676, Nr 152, poz. 1267, Nr 213, poz. 1802 i Nr 214, poz. 1805 oraz z 2003 r. Nr 149, poz. 1454, Nr 166, poz. 1609 i Nr 179, poz. 1750.
 

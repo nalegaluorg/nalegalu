@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-01-23 |
 | Data wydania | 2009-03-17 |
-| Wejście w życie | 2009-04-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090420337) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/337/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104, z 2006 r. Nr 45, poz. 319, Nr 170, poz. 1217 i Nr 220, poz. 1600 oraz z 2008 r. Nr 227, poz. 1505.) wprowadza się następujące zmiany:
 
 - **1)** w art. 7 ust. 2 otrzymuje brzmienie: „
 
@@ -47,7 +46,7 @@ source: "eli-html"
 - **9)** monitorowanie wydawania przez organy administracji rządowej przepisów wykonawczych do ustaw;
 - **10)** wykonywanie innych zadań określonych w odrębnych przepisach lub wskazanych przez Prezesa Rady Ministrów. ” .
 
-**Art. 2.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2007 r. Nr 65, poz. 437, z późn. zm.) w art. 34 ust. 1 otrzymuje brzmienie: „ 1. Minister jest obowiązany do inicjowania i opracowywania polityki Rady Ministrów w stosunku do działu, którym kieruje, a także przedkładania w tym zakresie inicjatyw, projektów założeń projektów ustaw i projektów aktów normatywnych na posiedzenia Rady Ministrów – na zasadach i w trybie określonych w regulaminie pracy Rady Ministrów. W zakresie działu, którym kieruje, minister wykonuje politykę Rady Ministrów i koordynuje jej wykonywanie przez organy, urzędy i jednostki organizacyjne, które jemu podlegają lub są przez niego nadzorowane. ” .
+**Art. 2.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2007 r. Nr 65, poz. 437, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 107, poz. 732, Nr 120, poz. 818 i Nr 173, poz. 1218 oraz z 2008 r. Nr 63, poz. 394, Nr 199, poz. 1227, Nr 201, poz. 1237, Nr 216, poz. 1370 i Nr 227, poz. 1505.) w art. 34 ust. 1 otrzymuje brzmienie: „ 1. Minister jest obowiązany do inicjowania i opracowywania polityki Rady Ministrów w stosunku do działu, którym kieruje, a także przedkładania w tym zakresie inicjatyw, projektów założeń projektów ustaw i projektów aktów normatywnych na posiedzenia Rady Ministrów – na zasadach i w trybie określonych w regulaminie pracy Rady Ministrów. W zakresie działu, którym kieruje, minister wykonuje politykę Rady Ministrów i koordynuje jej wykonywanie przez organy, urzędy i jednostki organizacyjne, które jemu podlegają lub są przez niego nadzorowane. ” .
 
 **Art. 3.** W ustawie z dnia 7 lipca 2005 r. o działalności lobbingowej w procesie stanowienia prawa (Dz. U. Nr 169, poz. 1414) wprowadza się następujące zmiany:
 
@@ -77,5 +76,5 @@ source: "eli-html"
 - **1)** organowi odpowiedzialnemu za opracowanie projektu założeń projektu ustawy, a jeżeli nie opracowywano projektu założeń projektu ustawy – organowi odpowiedzialnemu za przedłożenie projektu ustawy Radzie Ministrów;
 - **2)** organowi odpowiedzialnemu za opracowanie projektu rozporządzenia. ” . Do projektów ustaw przekazanych do uzgodnień z członkami Rady Ministrów przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104, z 2006 r. Nr 45, poz. 319, Nr 170, poz. 1217 i Nr 220, poz. 1600 oraz z 2008 r. Nr 227, poz. 1505. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 107, poz. 732, Nr 120, poz. 818 i Nr 173, poz. 1218 oraz z 2008 r. Nr 63, poz. 394, Nr 199, poz. 1227, Nr 201, poz. 1237, Nr 216, poz. 1370 i Nr 227, poz. 1505.
 

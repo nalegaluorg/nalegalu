@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 grudnia 2004 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych oraz o zmianie innych ustaw
+# Ustawaz dnia 22 grudnia 2004 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych oraz o zmianie innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 9 września 2000 r. o opłacie skarbowej, ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, ustawę z dnia 11 maja 2001 r. o warunkach zdrowotnych żywności i żywienia, ustawę z dnia 20 grudnia 2002 r. o organizacji niektórych rynków rolnych, ustawę z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego, ustawę z dnia 16 kwietnia 2004 r. o administrowaniu obrotem towarowym z zagranicą oraz ustawę z dnia 16 kwietnia 2004 r. o nadmiernych zapasach produktów rolnych i produktów cukrowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-12-22 |
 | Data wydania | 2005-01-25 |
-| Wejście w życie | 2005-02-09 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050140115) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/115/text.pdf) |
+
+Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2004 r., zamieszczone w niniejszej ustawie, dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
+Wykorzystanie uprawianych na gruntach odłogowanych surowców przeznaczonych do wytworzenia produktów nieżywnościowych
+Kary pieniężne
 
 **Art. 1.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. Nr 42, poz. 386 i Nr 97, poz. 964) wprowadza się następujące zmiany:
 
@@ -54,7 +57,7 @@ source: "eli-html"
 1. Prezes Agencji ustala w drodze decyzji administracyjnej:
 
 - **1)** kwoty nieuiszczonych należności z tytułu opłat cukrowych, w tym opłat sankcyjnych, o których mowa w art. 32 pkt 2 lit. b,
-- **2)** kwoty nienależnie lub nadmiernie pobranych środków: pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej, krajowych przeznaczonych na realizację Wspólnej Polityki Rolnej. ” ;
+- **2)** kwoty nienależnie lub nadmiernie pobranych środków: pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej, krajowych – przeznaczonych na realizację Wspólnej Polityki Rolnej. ” ;
     - **a)**
     - **b)**
 
@@ -106,7 +109,7 @@ source: "eli-html"
 1. W przypadku istnienia obowiązku, wynikającego z przepisów Unii Europejskiej, ustanowienia zabezpieczenia, w formie gwarancji, wykonania zobowiązań wynikających z realizacji mechanizmów Wspólnej Polityki Rolnej gwarantem może być wyłącznie instytucja finansowa upoważniona do gwarantowania długu celnego. ” ;
 
 - **10)** w art. 20 w ust. 1 pkt 2 otrzymuje brzmienie: „
-- **2)** czynności sprawdzające: u osoby fizycznej, osoby prawnej lub w jednostce organizacyjnej nieposiadającej osobowości prawnej, u producenta rolnego w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2004 r. Nr 10, poz. 76) uczestniczących w mechanizmach Wspólnej Polityki Rolnej. ” ;
+- **2)** czynności sprawdzające: u osoby fizycznej, osoby prawnej lub w jednostce organizacyjnej nieposiadającej osobowości prawnej, u producenta rolnego w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2004 r. Nr 10, poz. 76) – uczestniczących w mechanizmach Wspólnej Polityki Rolnej. ” ;
     - **a)**
     - **b)**
 
@@ -120,7 +123,7 @@ source: "eli-html"
 1. W mechanizmach administrowanych przez Agencję, w tym dotyczących Wspólnej Polityki Rolnej, w ramach których Agencja realizuje swoje zadania, mogą uczestniczyć:
 
 - **1)** osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej,
-- **2)** producent rolny w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności zwani dalej „przedsiębiorcami”, wpisani do centralnego rejestru przedsiębiorców, zwanego dalej „rejestrem”. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+- **2)** producent rolny w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności – zwani dalej „przedsiębiorcami”, wpisani do centralnego rejestru przedsiębiorców, zwanego dalej „rejestrem”. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
     - **b)**
 
 5a. Przedsiębiorca, o którym mowa w ust. 1 pkt 1, dołącza do wniosku:
@@ -197,8 +200,13 @@ source: "eli-html"
 
 2. Agencja przekazuje na rachunek Ministerstwa Rolnictwa i Rozwoju Wsi środki pochodzące z pobranych opłat cukrowych, w tym opłat sankcyjnych, w terminie 5 dni od dnia ich wpływu na rachunek Agencji. ” ;
 
-- **21)** w art. 35: w ust. 1: – w pkt 1 lit. c otrzymuje brzmienie: „ c) dopłat i zaliczek na poczet dopłat do skrobi przetwórcom wykorzystującym skrobie do dalszego przerobu na cele niespożywcze; ” , – w pkt 2 lit. a otrzymuje brzmienie: „ a) producentom skrobi ziemniaczanej, w tym również w zakresie autoryzacji punktów skupu, w których producenci skrobi zamierzają dokonywać skupu ziemniaków, ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „ 4) wydaje przetwórcom skrobi wykorzystującym skrobie do dalszego przerobu na cele niespożywcze, na ich wniosek, świadectwa uprawniające do uzyskania dopłat; 5) przyjmuje i dokonuje zwrotu zabezpieczenia wypłaconych zaliczek. ” , ust. 5 otrzymuje brzmienie: „
+- **21)** w art. 35: w ust. 1: w pkt 1 lit. c otrzymuje brzmienie: „ dopłat i zaliczek na poczet dopłat do skrobi przetwórcom wykorzystującym skrobie do dalszego przerobu na cele niespożywcze; ” , w pkt 2 lit. a otrzymuje brzmienie: „ producentom skrobi ziemniaczanej, w tym również w zakresie autoryzacji punktów skupu, w których producenci skrobi zamierzają dokonywać skupu ziemniaków, ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „
     - **a)**
+    - **c)**
+    - **a)**
+
+- **4)** wydaje przetwórcom skrobi wykorzystującym skrobie do dalszego przerobu na cele niespożywcze, na ich wniosek, świadectwa uprawniające do uzyskania dopłat;
+- **5)** przyjmuje i dokonuje zwrotu zabezpieczenia wypłaconych zaliczek. ” , ust. 5 otrzymuje brzmienie: „
     - **b)**
 
 5. Świadectwa, o których mowa w ust. 1 pkt 2, wydaje się na wniosek:
@@ -260,7 +268,7 @@ source: "eli-html"
 - **2)** nazwę i adres zakładu wnioskodawcy. ” ;
 - **26)** po rozdziale 9 dodaje się rozdział 9a w brzmieniu: „
 
-#### Rozdział 9a Wykorzystanie uprawianych na gruntach odłogowanych surowców przeznaczonych do wytworzenia produktów nieżywnościowych
+#### Rozdział 9a
 
 **Art. 40a.**
 
@@ -279,7 +287,7 @@ source: "eli-html"
 2. Wniosek, o którym mowa w ust. 1 pkt 3, składa:
 
 - **1)** zbywca lub przekazujący towar, w przypadku gdy zbywca lub przekazujący prowadzi działalność na terytorium Rzeczypospolitej Polskiej,
-- **2)** nabywca lub przejmujący towar, w przypadku gdy zbywca lub przekazujący nie prowadzi działalności na terytorium Rzeczypospolitej Polskiej na formularzu opracowanym i udostępnionym przez Agencję.
+- **2)** nabywca lub przejmujący towar, w przypadku gdy zbywca lub przekazujący nie prowadzi działalności na terytorium Rzeczypospolitej Polskiej – na formularzu opracowanym i udostępnionym przez Agencję.
 
 3. Wniosek składany przez podmiot, o którym mowa w ust. 2 pkt 1, zawiera w szczególności:
 
@@ -309,7 +317,7 @@ source: "eli-html"
 
 - **11)** podania, załączniki do podań, zaświadczenia i zezwolenia w sprawach z zakresu wykonywania przez Agencję Restrukturyzacji i Modernizacji Rolnictwa oraz Agencję Rynku Rolnego zadań w ramach realizacji Wspólnej Polityki Rolnej oraz innych zadań dotyczących organizacji rynków rolnych, z wyłączeniem zadań w zakresie administrowania obrotem z zagranicą towarami rolno-spożywczymi. ” .
 
-**Art. 3.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2001 r. Nr 5, poz. 44, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2001 r. Nr 5, poz. 44, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1802, z 2002 r. Nr 135, poz. 1145 i Nr 166, poz. 1360, z 2003 r. Nr 208, poz. 2020 i Nr 223, poz. 2220 i 2221, z 2004 r. Nr 42, poz. 386 i Nr 96, poz. 959 oraz z 2005 r. Nr 10, poz. 68.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 pkt 2 i 4 otrzymują brzmienie: „
 - **2)** żywność (środek spożywczy) – każdą substancję lub produkt w rozumieniu art. 2 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. bezpieczeństwa żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności (Dz. Urz. WE L 31 z 01.02.2002),
@@ -355,7 +363,7 @@ source: "eli-html"
 
 4. Protokół sporządza się co najmniej w 2 egzemplarzach. Jeden egzemplarz protokołu pozostawia się osobie, o której mowa w ust. 2. ” .
 
-**Art. 4.** W ustawie z dnia 11 maja 2001 r. o warunkach zdrowotnych żywności i żywienia (Dz. U. Nr 63, poz. 634, z późn. zm.) w odnośniku nr 1 w pkt 74 po wyrazach „dyrektywy 98/28/WE z dnia” dodaje się wyrazy „29 kwietnia 1998 r.”.
+**Art. 4.** W ustawie z dnia 11 maja 2001 r. o warunkach zdrowotnych żywności i żywienia (Dz. U. Nr 63, poz. 634, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 128, poz. 1408, z 2002 r. Nr 135, poz. 1145 i Nr 166, poz. 1362, z 2003 r. Nr 52, poz. 450, Nr 122, poz. 1144, Nr 130, poz. 1187, Nr 199, poz. 1938 i Nr 208, poz. 2020 oraz z 2004 r. Nr 33, poz. 288 i Nr 96, poz. 959.) w odnośniku nr 1 w pkt 74 po wyrazach „dyrektywy 98/28/WE z dnia” dodaje się wyrazy „29 kwietnia 1998 r.”.
 
 **Art. 5.** W ustawie z dnia 20 grudnia 2002 r. o organizacji niektórych rynków rolnych (Dz. U. Nr 240, poz. 2059 oraz z 2004 r. Nr 6, poz. 40 i Nr 96, poz. 959) wprowadza się następujące zmiany:
 
@@ -374,8 +382,12 @@ source: "eli-html"
 
 **Art. 6.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego (Dz. U. Nr 223, poz. 2221, z 2004 r. Nr 42, poz. 386 i Nr 96, poz. 959 oraz z 2005 r. Nr 10, poz. 64) wprowadza się następujące zmiany:
 
-- **1)** w art. 12: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) przyjmuje lub przejmuje zabezpieczenie wniesione przez podmiot przetwarzający na zlecenie jednostki organizacyjnej owoce i warzywa nieprzeznaczone do sprzedaży albo dokonuje zwrotu tego zabezpieczenia; ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) przekazuje na rachunek Agencji Restrukturyzacji przejęte zabezpieczenie, o którym mowa w pkt 2; ” , – w pkt 3 lit. c otrzymuje brzmienie: „ c) na koniec każdego roku handlowego – ilości i sposobie zagospodarowania poszczególnych gatunków owoców i warzyw nieprzeznaczonych do sprzedaży, na podstawie informacji otrzymywanych od organizacji producentów lub ich zrzeszeń ” , dodaje się ust. 9 w brzmieniu: „
+- **1)** w art. 12: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** przyjmuje lub przejmuje zabezpieczenie wniesione przez podmiot przetwarzający na zlecenie jednostki organizacyjnej owoce i warzywa nieprzeznaczone do sprzedaży albo dokonuje zwrotu tego zabezpieczenia; ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** przekazuje na rachunek Agencji Restrukturyzacji przejęte zabezpieczenie, o którym mowa w pkt 2; ” , w pkt 3 lit. c otrzymuje brzmienie: „ na koniec każdego roku handlowego – ilości i sposobie zagospodarowania poszczególnych gatunków owoców i warzyw nieprzeznaczonych do sprzedaży, na podstawie informacji otrzymywanych od organizacji producentów lub ich zrzeszeń ” , dodaje się ust. 9 w brzmieniu: „
+    - **c)**
     - **b)**
 
 9. Jednostki organizacyjne, o których mowa w ust. 1 pkt 1 lit. a oraz b, informują Prezesa Agencji, w terminie do dnia 30 listopada, o zapotrzebowaniu na następny rok kalendarzowy na produkty przetworzone z owoców i warzyw nieprzeznaczonych do sprzedaży. ” ;
@@ -409,7 +421,7 @@ source: "eli-html"
 6. Główny Inspektor przekazuje Prezesowi Głównego Urzędu Statystycznego informacje o:
 
 - **1)** powierzchni uprawy chmielu, w terminie do dnia 28 marca,
-- **2)** wielkości zbiorów chmielu w poszczególnych województwach, w terminie do dnia 30 kwietnia roku następującego po roku zbioru. ” ;
+- **2)** wielkości zbiorów chmielu w poszczególnych województwach, w terminie do dnia 30 kwietnia – roku następującego po roku zbioru. ” ;
 - **7)** w art. 26 w ust. 2 pkt 2 otrzymuje brzmienie: „
 - **2)** urządzeniach technicznych i ich rozmieszczeniu w pomieszczeniach służących do: odbioru i klasyfikacji surowca tytoniowego, jeżeli wnioskodawca zamierza prowadzić odbiór i klasyfikację tego surowca w ramach wykonywanej działalności gospodarczej, wstępnego przetwarzania surowca tytoniowego. ” ;
     - **a)**
@@ -426,7 +438,7 @@ source: "eli-html"
 2a. Prezes Agencji przekazuje Prezesowi Głównego Urzędu Statystycznego informacje o:
 
 - **1)** powierzchni uprawy tytoniu prowadzonej na podstawie umów na uprawę, w terminie do dnia 28 marca,
-- **2)** wielkości dostaw surowca tytoniowego z danego roku zbioru, w terminie do dnia 30 kwietnia roku następującego po roku zbiorów. ” ;
+- **2)** wielkości dostaw surowca tytoniowego z danego roku zbioru, w terminie do dnia 30 kwietnia – roku następującego po roku zbiorów. ” ;
 - **10)** w art. 33a: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -492,7 +504,7 @@ source: "eli-html"
 - **1)** wzór wniosku stosowany w postępowaniu o wydanie decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi,
 - **2)** wykaz dokumentów i informacji, które powinny być dołączone do wniosku,
 - **3)** wzór decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi,
-- **4)** sposób i tryb ewidencjonowania wydanych decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi mając na uwadze zapewnienie skutecznego stosowania przepisów prawa wspólnotowego w tym zakresie, a także maksymalne uproszczenie i ujednolicenie wymogów dotyczących dokumentów i informacji, które są niezbędne w postępowaniu o wydanie decyzji o nadaniu upoważniania w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi, i ich ewidencjonowania.
+- **4)** sposób i tryb ewidencjonowania wydanych decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi – mając na uwadze zapewnienie skutecznego stosowania przepisów prawa wspólnotowego w tym zakresie, a także maksymalne uproszczenie i ujednolicenie wymogów dotyczących dokumentów i informacji, które są niezbędne w postępowaniu o wydanie decyzji o nadaniu upoważniania w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi, i ich ewidencjonowania.
 
 1. Importer lub eksporter wspólnotowy towarów rolno-spożywczych objętych pozwoleniem na przywóz lub wywóz towarów rolno-spożywczych, w ramach decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi, prowadzi dokumentację tych towarów zawierającą:
 
@@ -506,7 +518,7 @@ source: "eli-html"
 - **1)** wzór wniosku stosowany w postępowaniu o udzielenie pozwolenia na przywóz lub wywóz towarów rolno-spożywczych,
 - **2)** wykaz dokumentów, które powinny być dołączone do wniosku,
 - **3)** wykaz dokumentów potwierdzających dokonanie czynności, jakim zostały poddane towary rolno-spożywcze objęte pozwoleniem, oraz termin składania tych dokumentów,
-- **4)** termin ważności pozwolenia na przywóz lub wywóz towarów rolno-spożywczych mając na uwadze zapewnienie skutecznego stosowania przepisów prawa wspólnotowego. Odmowa udzielenia pozwolenia na przywóz lub wywóz towarów rolno-spożywczych następuje, jeżeli wnioskodawca nie spełnia wymogów określonych w przepisach prawa wspólnotowego lub przepisach wydanych na podstawie art. 8g. Prezes Agencji Rynku Rolnego przekazuje Komisji Europejskiej oraz zainteresowanym władzom państw członkowskich informacje dotyczące administrowania obrotem towarami rolno-spożywczymi z krajami trzecimi w zakresie, o którym mowa w przepisach prawa wspólnotowego.
+- **4)** termin ważności pozwolenia na przywóz lub wywóz towarów rolno-spożywczych – mając na uwadze zapewnienie skutecznego stosowania przepisów prawa wspólnotowego. Odmowa udzielenia pozwolenia na przywóz lub wywóz towarów rolno-spożywczych następuje, jeżeli wnioskodawca nie spełnia wymogów określonych w przepisach prawa wspólnotowego lub przepisach wydanych na podstawie art. 8g. Prezes Agencji Rynku Rolnego przekazuje Komisji Europejskiej oraz zainteresowanym władzom państw członkowskich informacje dotyczące administrowania obrotem towarami rolno-spożywczymi z krajami trzecimi w zakresie, o którym mowa w przepisach prawa wspólnotowego.
 
 1. Organy celne przekazują informacje o dokonanym przywozie z krajów trzecich towarów objętych środkami ochronnymi ustanowionymi na podstawie:
 
@@ -539,7 +551,7 @@ source: "eli-html"
 
 - **6)** po dziale III dodaje się dział IIIa w brzmieniu: „
 
-### Dział IIIa Kary pieniężne
+### Dział IIIa
 
 **Art. 39a.**
 
@@ -565,11 +577,11 @@ source: "eli-html"
 - **2)** w przypadku przedsiębiorców, którzy rozpoczęli tę działalność po dniu 1 stycznia 2004 r. – za nadmierne zapasy uznaje się stan zapasów tych produktów na dzień 1 maja 2004 r. ” . Dotychczasowe przepisy wykonawcze wydane na podstawie:
 - **1)** art. 26 i art. 38 ust. 5 ustawy wymienionej w art. 1,
 - **2)** art. 12 pkt 3 ustawy wymienionej w art. 5,
-- **3)** art. 33a ust. 5 ustawy wymienionej w art. 6 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych.
+- **3)** art. 33a ust. 5 ustawy wymienionej w art. 6 – zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych.
 
 **Art. 10.** Przedsiębiorcy określeni w art. 22 ust. 1 pkt 1 ustawy, o której mowa w art. 1, wpisani do rejestru przed dniem wejścia w życie niniejszej ustawy, są obowiązani dostarczyć dokumenty, o których mowa w art. 22 ust. 5a lub 6a, w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 11.** O zapotrzebowaniu na produkty przetworzone z owoców i warzyw nieprzeznaczonych do sprzedaży na rok 2005, podmioty, o których mowa w art. 12 ust. 9 ustawy wymienionej w art. 6, informują Prezesa Agencji Rynku Rolnego do dnia 31 stycznia 2005 r.
 
-**Art. 12.** Traci moc ustawa z dnia 4 lutego 1994 r. o opłacie wyrównawczej od niektórych towarów rolnych i spożywczych przywożonych z zagranicy (Dz. U. Nr 43, poz. 160 oraz z 2000 r. Nr 120, poz. 1268). Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3 pkt 4, który wchodzi w życie z dniem ogłoszenia.
+**Art. 12.** Traci moc ustawa z dnia 4 lutego 1994 r. o opłacie wyrównawczej od niektórych towarów rolnych i spożywczych przywożonych z zagranicy (Dz. U. Nr 43, poz. 160 oraz z 2000 r. Nr 120, poz. 1268). Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3 pkt 4, który wchodzi w życie z dniem ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 9 września 2000 r. o opłacie skarbowej, ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, ustawę z dnia 11 maja 2001 r. o warunkach zdrowotnych żywności i żywienia, ustawę z dnia 20 grudnia 2002 r. o organizacji niektórych rynków rolnych, ustawę z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego, ustawę z dnia 16 kwietnia 2004 r. o administrowaniu obrotem towarowym z zagranicą oraz ustawę z dnia 16 kwietnia 2004 r. o nadmiernych zapasach produktów rolnych i produktów cukrowych. Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2004 r., zamieszczone w niniejszej ustawie, dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1802, z 2002 r. Nr 135, poz. 1145 i Nr 166, poz. 1360, z 2003 r. Nr 208, poz. 2020 i Nr 223, poz. 2220 i 2221, z 2004 r. Nr 42, poz. 386 i Nr 96, poz. 959 oraz z 2005 r. Nr 10, poz. 68. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 128, poz. 1408, z 2002 r. Nr 135, poz. 1145 i Nr 166, poz. 1362, z 2003 r. Nr 52, poz. 450, Nr 122, poz. 1144, Nr 130, poz. 1187, Nr 199, poz. 1938 i Nr 208, poz. 2020 oraz z 2004 r. Nr 33, poz. 288 i Nr 96, poz. 959.
 

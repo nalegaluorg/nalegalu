@@ -22,31 +22,28 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-07-05 |
 | Data wydania | 2002-08-14 |
-| Wejście w życie | 2002-12-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021291102) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1102/text.pdf) |
 
+Zakaz praktyk naruszających zbiorowe interesy konsumentów
+Praktyki naruszające zbiorowe interesy konsumentów
+Decyzje w sprawach praktyk naruszających zbiorowe interesy konsumentów
 1.
 Prezes Urzędu w decyzji o uznaniu praktyki za naruszającą zbiorowe interesy konsumentów nakazuje zaniechanie jej stosowania.
 2.
 W decyzji, o której mowa w ust. 1, Prezes Urzędu może określić środki usunięcia trwających skutków naruszenia zbiorowych interesów konsumentów w celu zapewnienia wykonania nakazu, w szczególności zobowiązać przedsiębiorcę do złożenia jednokrotnego lub wielokrotnego oświadczenia o treści i w formie określonej w decyzji. Może również nakazać publikację decyzji w całości lub w części na koszt przedsiębiorcy.
-Jeżeli nie zachodzą okoliczności określone w art. 23a, Prezes Urzędu wydaje decyzję, w której stwierdza, że dana praktyka nie narusza zbiorowych interesów konsumentów.
-” ;
+Jeżeli nie zachodzą okoliczności określone w art. 23a, Prezes Urzędu wydaje decyzję, w której stwierdza, że dana praktyka nie narusza zbiorowych interesów konsumentów. ” ;
 3)
-w art. 26 pkt 2 otrzymuje brzmienie:
-„
+w art. 26 pkt 2 otrzymuje brzmienie: „
 2)
-wydawanie, w przypadkach określonych ustawą, decyzji w sprawach przeciwdziałania praktykom ograniczającym konkurencję, w sprawach koncentracji lub podziału przedsiębiorców oraz przeciwdziałania praktykom naruszającym zbiorowe interesy konsumentów, a także decyzji w sprawach kar pieniężnych,
-” ;
+wydawanie, w przypadkach określonych ustawą, decyzji w sprawach przeciwdziałania praktykom ograniczającym konkurencję, w sprawach koncentracji lub podziału przedsiębiorców oraz przeciwdziałania praktykom naruszającym zbiorowe interesy konsumentów, a także decyzji w sprawach kar pieniężnych, ” ;
 4)
-w art. 27 ust. 2 otrzymuje brzmienie:
-„
+w art. 27 ust. 2 otrzymuje brzmienie: „
 2.
-Decyzje i postanowienia Prezesa Urzędu, a także orzeczenia Sądu Okręgowego w Warszawie – sądu ochrony konkurencji i konsumentów, zwanego dalej «sądem ochrony konkurencji i konsumentów», oraz Sądu Najwyższego w sprawach dotyczących kasacji od wyroków sądu ochrony konkurencji i konsumentów lub ich sentencje, z pominięciem informacji stanowiących tajemnicę przedsiębiorstwa, jak również innych tajemnic podlegających ochronie na podstawie odrębnych przepisów, mogą być w całości lub w części publikowane w Dzienniku Urzędowym Urzędu Ochrony Konkurencji i Konsumentów.
-” ;
+Decyzje i postanowienia Prezesa Urzędu, a także orzeczenia Sądu Okręgowego w Warszawie – sądu ochrony konkurencji i konsumentów, zwanego dalej «sądem ochrony konkurencji i konsumentów», oraz Sądu Najwyższego w sprawach dotyczących kasacji od wyroków sądu ochrony konkurencji i konsumentów lub ich sentencje, z pominięciem informacji stanowiących tajemnicę przedsiębiorstwa, jak również innych tajemnic podlegających ochronie na podstawie odrębnych przepisów, mogą być w całości lub w części publikowane w Dzienniku Urzędowym Urzędu Ochrony Konkurencji i Konsumentów. ” ;
 5)
-po art. 38 dodaje się art. 38a w brzmieniu:
-„
+po art. 38 dodaje się art. 38a w brzmieniu: „
+Postępowanie w sprawach praktyk naruszających zbiorowe interesy konsumentów
 
 **Art. 1.** W ustawie z dnia 15 grudnia 2000 r. o ochronie konkurencji i konsumentów (Dz. U. Nr 122, poz. 1319 oraz z 2001 r. Nr 110, poz. 1189 i Nr 154, poz. 1800) wprowadza się następujące zmiany:
 
@@ -56,9 +53,9 @@ po art. 38 dodaje się art. 38a w brzmieniu:
 
 - **2)** po dziale III dodaje się dział IIIa w brzmieniu: „
 
-### Dział IIIa Zakaz praktyk naruszających zbiorowe interesy konsumentów
+### Dział IIIa
 
-#### Rozdział 1 Praktyki naruszające zbiorowe interesy konsumentów
+#### Rozdział 1
 
 **Art. 23a.**
 
@@ -66,7 +63,7 @@ po art. 38 dodaje się art. 38a w brzmieniu:
 
 2. Za praktykę naruszającą zbiorowe interesy konsumentów uważa się w szczególności stosowanie postanowień wzorców umów, które zostały wpisane do rejestru postanowień wzorców umowy uznanych za niedozwolone, o którym mowa w art. 47945 Kodeksu postępowania cywilnego, naruszanie obowiązku udzielania konsumentom rzetelnej, prawdziwej i pełnej informacji, nieuczciwą lub wprowadzającą w błąd reklamę i inne czyny nieuczciwej konkurencji godzące w zbiorowe interesy konsumentów. Ochrona zbiorowych interesów konsumentów przewidziana w ustawie nie wyłącza ochrony wynikającej z innych ustaw, w szczególności z przepisów o zwalczaniu nieuczciwej konkurencji. Przepisów ustawy nie stosuje się do spraw o uznanie postanowień wzorca umowy za niedozwolone.
 
-#### Rozdział 2 Decyzje w sprawach praktyk naruszających zbiorowe interesy konsumentów
+#### Rozdział 2
 
 **Art. 38a.**
 
@@ -115,7 +112,7 @@ po art. 38 dodaje się art. 38a w brzmieniu:
 - **12)** w art. 68 po wyrazach „ z zastrzeżeniem art. 93” dodaje się wyrazy „i art. 100g”;
 - **13)** w dziale V po rozdziale 3 dodaje się rozdział 4 w brzmieniu: „
 
-#### Rozdział 4 Postępowanie w sprawach praktyk naruszających zbiorowe interesy konsumentów
+#### Rozdział 4
 
 **Art. 100a.**
 

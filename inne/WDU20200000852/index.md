@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Rozwojuz dnia 29 kwietnia 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie bezpieczeństwa i higieny pracy przy użytkowaniu wózków jezdniowych z napędem silnikowym
+# Obwieszczenie Ministra Rozwojuz dnia 29 kwietnia 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie bezpieczeństwa i higieny pracy przy użytkowaniu wózków jezdniowych z napędem silnikowym Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261).
 
 | Pole | Wartość |
 |---|---|
@@ -31,15 +31,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju i Finansów z dnia 15 grudnia 2017 r. w sprawie bezpieczeństwa i higieny pracy przy użytkowaniu wózków jezdniowych z napędem silnikowym (Dz. U. z 2018 r. poz. 47), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Przedsiębiorczości i Technologii z dnia 8 października 2019 r. zmieniającym rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy użytkowaniu wózków jezdniowych z napędem silnikowym (Dz. U. poz. 1948).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Przedsiębiorczości i Technologii z dnia 8 października 2019 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy użytkowaniu wózków jezdniowych z napędem silnikowym (Dz. U. poz. 1948), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Przedsiębiorczości i Technologii z dnia 8 października 2019 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy użytkowaniu wózków jezdniowych z napędem silnikowym (Dz. U. poz. 1948), które stanowią: „
 § 2.
 Dopuszcza się do obsługi wózków jezdniowych innych niż wózki jezdniowe podnośnikowe z mechanicznym napędem podnoszenia osoby, które zostały dopuszczone do obsługi tych wózków na podstawie dotychczasowych przepisów.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261).
-Załącznik – Rozporządzenie Ministra Rozwoju i Finansów z dnia 15 grudnia 2017 r. w sprawie bezpieczeństwa i higieny pracy przy użytkowaniu wózków jezdniowych z napędem silnikowym
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261).
+Załącznik – Rozporządzenie Ministra Rozwoju i Finansów z dnia 15 grudnia 2017 r. w sprawie bezpieczeństwa i higieny pracy przy użytkowaniu wózków jezdniowych z napędem silnikowymObecnie działem administracji rządowej – gospodarka kieruje Minister Rozwoju, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261).
 Na podstawie art. 23715 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2019 r. poz. 1040, 1043 i 1495) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa wymagania bezpieczeństwa i higieny pracy przy użytkowaniu wózków jezdniowych z napędem silnikowym spalinowym, elektrycznym i spalinowo-elektrycznym, zwanych dalej „wózkami jezdniowymi”, mających zastosowanie w transporcie wewnętrznym.
@@ -59,13 +56,13 @@ Użytkowanie wózków jezdniowych, w tym obsługa, konserwacja, utrzymanie wła�
 2.
 Niedopuszczalne jest dokonywanie w użytkowanych wózkach jezdniowych zmian konstrukcyjnych lub demontażu urządzeń ochronnych i sygnalizacyjnych.
 § 4.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Przedsiębiorczości i Technologii z dnia 8 października 2019 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy użytkowaniu wózków jezdniowych z napędem silnikowym (Dz. U. poz. 1948), które weszło w życie z dniem 15 października 2019 r..
 Do obsługi wózków jezdniowych podnośnikowych z mechanicznym napędem podnoszenia dopuszcza się osobę, która ukończyła 18 lat i posiada:
 1)
 zaświadczenie kwalifikacyjne do obsługi wózków jezdniowych uzyskane na podstawie przepisów w sprawie sposobu i trybu sprawdzania kwalifikacji wymaganych przy obsłudze i konserwacji urządzeń technicznych oraz sposobu i trybu przedłużania okresu ważności zaświadczeń kwalifikacyjnych lub
 2)
 uprawnienia maszynisty ciężkich maszyn budowlanych i drogowych lub książkę operatora maszyn roboczych z wpisem w zakresie obsługi wózków podnośnikowych.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Przedsiębiorczości i Technologii z dnia 8 października 2019 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy użytkowaniu wózków jezdniowych z napędem silnikowym (Dz. U. poz. 1948), które weszło w życie z dniem 15 października 2019 r..
 Do obsługi wózków jezdniowych, innych niż wymienione w ust. 1, dopuszcza się osobę, która ukończyła 18 lat i:
 1)
 posiada zaświadczenie ukończenia odpowiedniego do rodzaju wózka jezdniowego szkolenia, potwierdzającego nabyte umiejętności, w oparciu o programy opracowane lub zatwierdzone:
@@ -182,15 +179,14 @@ używanie wózka jezdniowego do pchania innych pojazdów lub do ciągnięcia wó
 używanie wózka jezdniowego w warunkach niestabilnego lub śliskiego podłoża uniemożliwiającego bezpieczne transportowanie ładunku.
 § 18.
 Imienne zezwolenia, o których mowa w § 4 ust. 1 pkt 2 rozporządzenia Ministra Gospodarki z dnia 10 maja 2002 r. w sprawie bezpieczeństwa i higieny pracy przy użytkowaniu wózków jezdniowych z napędem silnikowym (Dz. U. poz. 650 oraz z 2003 r. poz. 603):
-1)
+1Ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 wystawione do dnia 31 grudnia 2004 r. zachowują ważność nie dłużej niż do dnia 31 grudnia 2023 r.;
-2)
+2Ze zmianą wprowadzoną przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 wystawione do dnia 31 grudnia 2014 r. zachowują ważność nie dłużej niż do dnia 31 grudnia 2026 r.;
-3)
+3Ze zmianą wprowadzoną przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 2.)
 wystawione od dnia 1 stycznia 2015 r. zachowują ważność nie dłużej niż do dnia 31 grudnia 2027 r.
 § 19.
 Traci moc rozporządzenie Ministra Gospodarki z dnia 10 maja 2002 r. w sprawie bezpieczeństwa i higieny pracy przy użytkowaniu wózków jezdniowych z napędem silnikowym (Dz. U. poz. 650 oraz z 2003 r. poz. 603).
 § 20.
-Rozporządzenie wchodzi w życie po upływie 7 miesięcy od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – gospodarka kieruje Minister Rozwoju, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Przedsiębiorczości i Technologii z dnia 8 października 2019 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy użytkowaniu wózków jezdniowych z napędem silnikowym (Dz. U. poz. 1948), które weszło w życie z dniem 15 października 2019 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 9 stycznia 2018 r.
+Rozporządzenie wchodzi w życie po upływie 7 miesięcy od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 9 stycznia 2018 r.. 1) Obecnie działem administracji rządowej – gospodarka kieruje Minister Rozwoju, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Przedsiębiorczości i Technologii z dnia 8 października 2019 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy użytkowaniu wózków jezdniowych z napędem silnikowym (Dz. U. poz. 1948), które weszło w życie z dniem 15 października 2019 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 9 stycznia 2018 r.
 

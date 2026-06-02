@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 lipca 2017 r. o zmianie ustawy o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 oraz niektórych innych ustaw
+# Ustawa z dnia 7 lipca 2017 r. o zmianie ustawy o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym, ustawę z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, ustawę z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej w województwie, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki, ustawę z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020, ustawę z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności i ustawę z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-07 |
 | Data wydania | 2017-08-02 |
-| Wejście w życie | 2017-09-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001475) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1475/text.pdf) |
 
+Pomoc zwrotna
 1.
 Środki finansowe stanowiące pomoc zwrotną, o której mowa w rozporządzeniu ogólnym, po wykonaniu zobowiązań wynikających z umowy o dofinansowanie projektu lub decyzji o dofinansowaniu projektu podlegają zwrotowi na rachunek właściwej instytucji wraz z odsetkami i innymi przychodami oraz zyskami powstałymi na skutek obrotu tymi środkami.
 2.
@@ -67,161 +67,119 @@ W celu ponownego wykorzystania środków finansowych, o których mowa w ust. 1, 
 9.
 Obsługa finansowa rachunku, o którym mowa w ust. 7, jest prowadzona przez Bank Gospodarstwa Krajowego zgodnie z umową zawartą między dysponentem a Bankiem Gospodarstwa Krajowego.
 10.
-Środki finansowe zgromadzone na rachunku, o którym mowa w ust. 7, są uruchamiane przez Bank Gospodarstwa Krajowego na wniosek dysponenta w celu ich ponownego wykorzystania zgodnie z ust. 3.
-” ;
+Środki finansowe zgromadzone na rachunku, o którym mowa w ust. 7, są uruchamiane przez Bank Gospodarstwa Krajowego na wniosek dysponenta w celu ich ponownego wykorzystania zgodnie z ust. 3. ” ;
 15)
-w art. 30 w ust. 8 pkt 4 otrzymuje brzmienie:
-„
+w art. 30 w ust. 8 pkt 4 otrzymuje brzmienie: „
 4)
-wstępną listę projektów wybieranych w trybie pozakonkursowym wraz z informacją na temat sposobu ich wskazania oraz powiązania z innymi projektami, w tym projektami wybieranymi w trybie pozakonkursowym pozytywnie zaopiniowanymi przez właściwą instytucję zarządzającą krajowym programem operacyjnym;
-” ;
+wstępną listę projektów wybieranych w trybie pozakonkursowym wraz z informacją na temat sposobu ich wskazania oraz powiązania z innymi projektami, w tym projektami wybieranymi w trybie pozakonkursowym pozytywnie zaopiniowanymi przez właściwą instytucję zarządzającą krajowym programem operacyjnym; ” ;
 16)
 w art. 33:
 a)
-w ust. 2 we wprowadzeniu do wyliczenia zdanie pierwsze otrzymuje brzmienie: „ Podmiot, o którym mowa w art. 3 ust. 1 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164, z późn. zm.), inicjujący projekt partnerski, dokonuje wyboru partnerów spośród podmiotów innych niż wymienione w art. 3 ust. 1 pkt 1–3a tej ustawy, z zachowaniem zasady przejrzystości i równego traktowania. ” ,
+w ust. 2 we wprowadzeniu do wyliczenia zdanie pierwsze otrzymuje brzmienie: „ Podmiot, o którym mowa w art. 3 ust. 1 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 996, 1020, 1250, 1265, 1579, 1920 i 2260 oraz z 2017 r. poz. 933.), inicjujący projekt partnerski, dokonuje wyboru partnerów spośród podmiotów innych niż wymienione w art. 3 ust. 1 pkt 1–3a tej ustawy, z zachowaniem zasady przejrzystości i równego traktowania. ” ,
 b)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Wybór partnerów jest dokonywany przed złożeniem wniosku o dofinansowanie.
-” ,
+Wybór partnerów jest dokonywany przed złożeniem wniosku o dofinansowanie. ” ,
 c)
-po ust. 3 dodaje się ust. 3a w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a w brzmieniu: „
 3a.
-W przypadkach uzasadnionych koniecznością zapewnienia prawidłowej i terminowej realizacji projektu, za zgodą właściwej instytucji, może nastąpić zmiana partnera. Do zmiany partnera przepis ust. 2 stosuje się odpowiednio.
-” ,
+W przypadkach uzasadnionych koniecznością zapewnienia prawidłowej i terminowej realizacji projektu, za zgodą właściwej instytucji, może nastąpić zmiana partnera. Do zmiany partnera przepis ust. 2 stosuje się odpowiednio. ” ,
 d)
-po ust. 4 dodaje się ust. 4a w brzmieniu:
-„
+po ust. 4 dodaje się ust. 4a w brzmieniu: „
 4a.
-Podmiot, o którym mowa w art. 3 ust. 1 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych, niebędący podmiotem inicjującym projekt partnerski, po przystąpieniu do realizacji projektu partnerskiego podaje do publicznej wiadomości w Biuletynie Informacji Publicznej informację o rozpoczęciu realizacji projektu partnerskiego wraz z uzasadnieniem przyczyn przystąpienia do jego realizacji oraz wskazaniem partnera wiodącego w tym projekcie.
-” ,
+Podmiot, o którym mowa w art. 3 ust. 1 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych, niebędący podmiotem inicjującym projekt partnerski, po przystąpieniu do realizacji projektu partnerskiego podaje do publicznej wiadomości w Biuletynie Informacji Publicznej informację o rozpoczęciu realizacji projektu partnerskiego wraz z uzasadnieniem przyczyn przystąpienia do jego realizacji oraz wskazaniem partnera wiodącego w tym projekcie. ” ,
 e)
 uchyla się ust. 6,
 f)
-ust. 8 otrzymuje brzmienie:
-„
+ust. 8 otrzymuje brzmienie: „
 8.
-Przepisów ust. 1–5 i 7 nie stosuje się do projektu hybrydowego, o którym mowa w art. 34 ust. 1, ani w przypadku, gdy odrębne przepisy przewidują inny sposób określania podmiotów wspólnie realizujących projekt.
-” ;
+Przepisów ust. 1–5 i 7 nie stosuje się do projektu hybrydowego, o którym mowa w art. 34 ust. 1, ani w przypadku, gdy odrębne przepisy przewidują inny sposób określania podmiotów wspólnie realizujących projekt. ” ;
 17)
 w art. 37:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Projekt podlega ocenie pod względem spełnienia kryteriów wyboru projektów.
-” ,
+Projekt podlega ocenie pod względem spełnienia kryteriów wyboru projektów. ” ,
 b)
-po ust. 3 dodaje się ust. 3a w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a w brzmieniu: „
 3a.
 Właściwa instytucja może wymagać złożenia przez wnioskodawcę oświadczeń niezbędnych do:
 1)
 przeprowadzenia wyboru projektów do dofinansowania lub
 2)
-zawarcia umowy o dofinansowanie projektu lub podjęcia decyzji o dofinansowaniu projektu.
-” ,
+zawarcia umowy o dofinansowanie projektu lub podjęcia decyzji o dofinansowaniu projektu. ” ,
 c)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-Oświadczenia są składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, z wyjątkiem oświadczenia, o którym mowa w art. 41 ust. 2 pkt 7c. Oświadczenia zawierają klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywych oświadczeń.”. Klauzula ta zastępuje pouczenie właściwej instytucji o odpowiedzialności karnej za składanie fałszywych zeznań.
-” ,
+Oświadczenia są składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, z wyjątkiem oświadczenia, o którym mowa w art. 41 ust. 2 pkt 7c. Oświadczenia zawierają klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywych oświadczeń.”. Klauzula ta zastępuje pouczenie właściwej instytucji o odpowiedzialności karnej za składanie fałszywych zeznań. ” ,
 d)
-ust. 6 otrzymuje brzmienie:
-„
+ust. 6 otrzymuje brzmienie: „
 6.
-Dokumenty i informacje przedstawiane przez wnioskodawców nie podlegają udostępnieniu przez właściwą instytucję w trybie przepisów ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2016 r. poz. 1764 oraz z 2017 r. poz. 933).
-” ,
+Dokumenty i informacje przedstawiane przez wnioskodawców nie podlegają udostępnieniu przez właściwą instytucję w trybie przepisów ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2016 r. poz. 1764 oraz z 2017 r. poz. 933). ” ,
 e)
-dodaje się ust. 7 w brzmieniu:
-„
+dodaje się ust. 7 w brzmieniu: „
 7.
-Dokumenty i informacje wytworzone lub przygotowane przez właściwe instytucje w związku z oceną dokumentów i informacji przedstawianych przez wnioskodawców nie podlegają, do czasu rozstrzygnięcia konkursu albo zamieszczenia informacji, o której mowa w art. 48 ust. 6, udostępnieniu w trybie przepisów ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej.
-” ;
+Dokumenty i informacje wytworzone lub przygotowane przez właściwe instytucje w związku z oceną dokumentów i informacji przedstawianych przez wnioskodawców nie podlegają, do czasu rozstrzygnięcia konkursu albo zamieszczenia informacji, o której mowa w art. 48 ust. 6, udostępnieniu w trybie przepisów ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej. ” ;
 18)
 w art. 38:
 a)
-w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
-„
+w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 3)
-o którym mowa w art. 39, art. 47, art. 54, art. 60a oraz art. 61 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych.
-” ,
+o którym mowa w art. 39, art. 47, art. 54, art. 60a oraz art. 61 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych. ” ,
 b)
-po ust. 3 dodaje się ust. 3a i 3b w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
 3a.
 W trybie, o którym mowa w art. 39, art. 47, art. 54, art. 60a oraz art. 61 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych, mogą być wybierane wyłącznie projekty realizowane w ramach instrumentów finansowych, o których mowa w art. 28 ust. 1.
 3b.
-Projekty realizowane w ramach instrumentów finansowych, o których mowa w art. 28 ust. 1, mogą być wybierane wyłącznie w trybie, o którym mowa w ust. 1 pkt 2 albo w art. 39, art. 47, art. 54, art. 60a oraz art. 61 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych.
-” ;
+Projekty realizowane w ramach instrumentów finansowych, o których mowa w art. 28 ust. 1, mogą być wybierane wyłącznie w trybie, o którym mowa w ust. 1 pkt 2 albo w art. 39, art. 47, art. 54, art. 60a oraz art. 61 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych. ” ;
 19)
-w art. 39 dodaje się ust. 3 w brzmieniu:
-„
+w art. 39 dodaje się ust. 3 w brzmieniu: „
 3.
-Konkurs może być podzielony na rundy. Runda konkursu obejmuje nabór projektów, ocenę spełniania kryteriów wyboru projektów i rozstrzygnięcie właściwej instytucji w zakresie wyboru projektów do dofinansowania.
-” ;
+Konkurs może być podzielony na rundy. Runda konkursu obejmuje nabór projektów, ocenę spełniania kryteriów wyboru projektów i rozstrzygnięcie właściwej instytucji w zakresie wyboru projektów do dofinansowania. ” ;
 20)
-w art. 40 w ust. 2 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu:
-„
+w art. 40 w ust. 2 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
 7)
-informację, czy konkurs jest podzielony na rundy.
-” ;
+informację, czy konkurs jest podzielony na rundy. ” ;
 21)
 w art. 41 w ust. 2:
 a)
-pkt 3 i 4 otrzymują brzmienie:
-„
+pkt 3 i 4 otrzymują brzmienie: „
 3)
 formę konkursu, w tym wskazuje, czy konkurs jest podzielony na rundy;
 4)
-termin, miejsce i formę składania wniosków o dofinansowanie projektu i sposób uzupełniania w nich braków w zakresie warunków formalnych oraz poprawiania w nich oczywistych omyłek;
-” ,
+termin, miejsce i formę składania wniosków o dofinansowanie projektu i sposób uzupełniania w nich braków w zakresie warunków formalnych oraz poprawiania w nich oczywistych omyłek; ” ,
 b)
-pkt 6 otrzymuje brzmienie:
-„
+pkt 6 otrzymuje brzmienie: „
 6)
-wzór umowy o dofinansowanie projektu lub decyzji o dofinansowaniu projektu;
-” ,
+wzór umowy o dofinansowanie projektu lub decyzji o dofinansowaniu projektu; ” ,
 c)
-po pkt 6 dodaje się pkt 6a w brzmieniu:
-„
+po pkt 6 dodaje się pkt 6a w brzmieniu: „
 6a)
-czynności, które powinny zostać dokonane przed zawarciem umowy o dofinansowanie projektu lub podjęciem decyzji o dofinansowaniu projektu, oraz wymagane dokumenty i terminy ich przedłożenia właściwej instytucji;
-” ,
+czynności, które powinny zostać dokonane przed zawarciem umowy o dofinansowanie projektu lub podjęciem decyzji o dofinansowaniu projektu, oraz wymagane dokumenty i terminy ich przedłożenia właściwej instytucji; ” ,
 d)
-po pkt 7 dodaje się pkt 7a-7c w brzmieniu:
-„
+po pkt 7 dodaje się pkt 7a-7c w brzmieniu: „
 7a)
 zakres, w jakim jest możliwe uzupełnianie lub poprawianie projektu w części dotyczącej spełniania przez projekt kryteriów wyboru projektów w trakcie jego oceny;
 7b)
 formę i sposób komunikacji między wnioskodawcą a właściwą instytucją, w tym wzywania wnioskodawcy do uzupełniania lub poprawiania projektu w trakcie jego oceny w części dotyczącej spełniania przez projekt kryteriów wyboru projektów, a także informację o skutkach niezachowania wskazanej formy komunikacji;
 7c)
-formę złożenia przez wnioskodawcę oświadczenia dotyczącego świadomości skutków niezachowania wskazanej formy komunikacji;
-” ,
+formę złożenia przez wnioskodawcę oświadczenia dotyczącego świadomości skutków niezachowania wskazanej formy komunikacji; ” ,
 e)
-pkt 8 otrzymuje brzmienie:
-„
+pkt 8 otrzymuje brzmienie: „
 8)
-kwotę przeznaczoną na dofinansowanie projektów w konkursie wraz z informacją w zakresie możliwości jej zwiększenia;
-” ,
+kwotę przeznaczoną na dofinansowanie projektów w konkursie wraz z informacją w zakresie możliwości jej zwiększenia; ” ,
 f)
-pkt 10 otrzymuje brzmienie:
-„
+pkt 10 otrzymuje brzmienie: „
 10)
-środki odwoławcze przysługujące wnioskodawcy oraz instytucje właściwe do ich rozpatrzenia;
-” ,
+środki odwoławcze przysługujące wnioskodawcy oraz instytucje właściwe do ich rozpatrzenia; ” ,
 g)
-w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu:
-„
+w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „
 13)
-informację w zakresie możliwości skrócenia terminu składania wniosków o dofinansowanie projektu.
-” ;
+informację w zakresie możliwości skrócenia terminu składania wniosków o dofinansowanie projektu. ” ;
 22)
-art. 43–46 otrzymują brzmienie:
-„
+art. 43–46 otrzymują brzmienie: „
+Eksperci
+Wsparcie zwrotne
 
 **Art. 1.** W ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2017 r. poz. 1460) wprowadza się następujące zmiany:
 
@@ -292,7 +250,7 @@ art. 43–46 otrzymują brzmienie:
 
 1a. Zadania, o których mowa w ust. 1 pkt 2 i 3, w ramach regionalnego programu operacyjnego może wykonywać wojewoda w zakresie i na warunkach określonych w porozumieniu zawartym z ministrem właściwym do spraw rozwoju regionalnego. ” ;
 
-- **10)** w art. 22: w ust. 2 w pkt 2 w lit. c: – tiret pierwsze i drugie otrzymują brzmienie: „ – w ramach jednego programu operacyjnego, – z kilku różnych funduszy polityki spójności lub instrumentów wsparcia Unii Europejskiej lub z tego samego funduszu polityki spójności w ramach co najmniej dwóch programów operacyjnych, dla których instytucja zarządzająca została ustanowiona na terytorium Rzeczypospolitej Polskiej, ” , – dodaje się tiret trzecie w brzmieniu: „ – w ramach programu operacyjnego i Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 lub Programu Operacyjnego „Rybactwo i Morze”; ” , w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Kontrole, o których mowa w ust. 1 pkt 1, mogą także przybrać formę weryfikacji dokumentów w zakresie prawidłowości przeprowadzenia właściwych procedur dotyczących udzielania zamówień publicznych lub udzielania pomocy publicznej. ” , ust. 9 otrzymuje brzmienie: „
+- **10)** w art. 22: w ust. 2 w pkt 2 w lit. c: tiret pierwsze i drugie otrzymują brzmienie: „ – w ramach jednego programu operacyjnego, – z kilku różnych funduszy polityki spójności lub instrumentów wsparcia Unii Europejskiej lub z tego samego funduszu polityki spójności w ramach co najmniej dwóch programów operacyjnych, dla których instytucja zarządzająca została ustanowiona na terytorium Rzeczypospolitej Polskiej, ” , dodaje się tiret trzecie w brzmieniu: „ – w ramach programu operacyjnego i Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 lub Programu Operacyjnego „Rybactwo i Morze”; ” , w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Kontrole, o których mowa w ust. 1 pkt 1, mogą także przybrać formę weryfikacji dokumentów w zakresie prawidłowości przeprowadzenia właściwych procedur dotyczących udzielania zamówień publicznych lub udzielania pomocy publicznej. ” , ust. 9 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **c)**
@@ -345,7 +303,7 @@ art. 43–46 otrzymują brzmienie:
 
 - **14)** po rozdziale 10 dodaje się rozdział 10a w brzmieniu: „
 
-#### Rozdział 10a Pomoc zwrotna
+#### Rozdział 10a
 
 **Art. 43.**
 
@@ -495,10 +453,12 @@ art. 43–46 otrzymują brzmienie:
 - **33)** w art. 56: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Protest jest wnoszony za pośrednictwem instytucji, o której mowa w art. 39 ust. 1, zgodnie z pouczeniem, o którym mowa w art. 45 ust. 5. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Instytucja, o której mowa w art. 39 ust. 1, w terminie 14 dni od dnia otrzymania protestu weryfikuje wyniki dokonanej przez siebie oceny projektu w zakresie kryteriów i zarzutów, o których mowa w art. 54 ust. 2 pkt 4 i 5, i: ” , – pkt 1 otrzymuje brzmienie: „ 1) dokonuje zmiany podjętego rozstrzygnięcia, co skutkuje odpowiednio skierowaniem projektu do właściwego etapu oceny, albo dokonuje aktualizacji listy, o której mowa w art. 46 ust. 3, informując o tym wnioskodawcę, albo ” , w ust. 3 zdanie drugie otrzymuje brzmienie: „ W takim przypadku protest jest wnoszony bezpośrednio do tej instytucji zgodnie z pouczeniem, o którym mowa w art. 45 ust. 5. ” ;
+1. Protest jest wnoszony za pośrednictwem instytucji, o której mowa w art. 39 ust. 1, zgodnie z pouczeniem, o którym mowa w art. 45 ust. 5. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Instytucja, o której mowa w art. 39 ust. 1, w terminie 14 dni od dnia otrzymania protestu weryfikuje wyniki dokonanej przez siebie oceny projektu w zakresie kryteriów i zarzutów, o których mowa w art. 54 ust. 2 pkt 4 i 5, i: ” , pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **1)** dokonuje zmiany podjętego rozstrzygnięcia, co skutkuje odpowiednio skierowaniem projektu do właściwego etapu oceny, albo dokonuje aktualizacji listy, o której mowa w art. 46 ust. 3, informując o tym wnioskodawcę, albo ” , w ust. 3 zdanie drugie otrzymuje brzmienie: „ W takim przypadku protest jest wnoszony bezpośrednio do tej instytucji zgodnie z pouczeniem, o którym mowa w art. 45 ust. 5. ” ;
+    - **c)**
+
 - **34)** w art. 57: zdanie pierwsze otrzymuje brzmienie: „ Właściwa instytucja, o której mowa w art. 55, rozpatruje protest, weryfikując prawidłowość oceny projektu w zakresie kryteriów i zarzutów, o których mowa w art. 54 ust. 2 pkt 4 i 5, w terminie nie dłuższym niż 21 dni, licząc od dnia jego otrzymania. ” , zdanie trzecie otrzymuje brzmienie: „ Termin rozpatrzenia protestu nie może przekroczyć łącznie 45 dni od dnia jego otrzymania. ” ;
     - **a)**
     - **b)**
@@ -525,7 +485,7 @@ art. 43–46 otrzymują brzmienie:
 - **39)** w art. 66 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku gdy na jakimkolwiek etapie postępowania w zakresie procedury odwoławczej zostanie wyczerpana kwota przeznaczona na dofinansowanie projektów w ramach działania, a w przypadku gdy w działaniu występują poddziałania – w ramach poddziałania: ” ;
 - **40)** po rozdziale 15 dodaje się rozdział 15a w brzmieniu: „
 
-#### Rozdział 15a Eksperci
+#### Rozdział 15a
 
 **Art. 68a.**
 
@@ -578,12 +538,12 @@ art. 43–46 otrzymują brzmienie:
 - **4)** ewaluacją. ” ;
 - **42)** w art. 71 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
-2. Dane dotyczące uczestników projektów w rozumieniu załącznika I lub II do rozporządzenia EFS zgromadzone w centralnym systemie teleinformatycznym mogą zostać udostępnione Prezesowi Zakładu Ubezpieczeń Społecznych w związku z realizacją zadań wynikających z art. 50 ust. 3a i 3c ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.). ” .
+2. Dane dotyczące uczestników projektów w rozumieniu załącznika I lub II do rozporządzenia EFS zgromadzone w centralnym systemie teleinformatycznym mogą zostać udostępnione Prezesowi Zakładu Ubezpieczeń Społecznych w związku z realizacją zadań wynikających z art. 50 ust. 3a i 3c ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921, 1948, 2138, 2255 i 2260 oraz z 2017 r. poz. 38, 60, 777, 962, 1027, 1321, 1428 i 1475.). ” .
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.) w art. 831:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933, 1133, 1136 i 1452.) w art. 831:
 
 - **1)** w § 1 pkt 2a otrzymuje brzmienie: „
-- **2a)** środki pochodzące z programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.), wypłacone w formie zaliczki, chyba że wierzytelność egzekwowana powstała w związku z realizacją projektu, na który środki te były przeznaczone; ” ;
+- **2a)** środki pochodzące z programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935 i 1089.), wypłacone w formie zaliczki, chyba że wierzytelność egzekwowana powstała w związku z realizacją projektu, na który środki te były przeznaczone; ” ;
 - **2)** § 2 otrzymuje brzmienie: „
 
 § 2. W przypadkach, o których mowa w § 1 pkt 1–2a i 7, nie podlegają egzekucji również sumy i świadczenia w naturze już wypłacone lub wydane, a w przypadku, o którym mowa w § 1 pkt 2a, nie podlegają egzekucji również środki trwałe oraz wartości niematerialne i prawne powstałe w ramach realizacji projektu, na który były przeznaczone środki pochodzące z programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, przez okres jego realizacji wskazany w umowie o dofinansowanie projektu. ” .
@@ -606,15 +566,15 @@ art. 43–46 otrzymują brzmienie:
 
 1a. W sferze użyteczności publicznej województwo może, w celu realizacji działań z zakresu, o którym mowa w art. 11 ust. 2, utworzyć regionalny fundusz rozwoju w formie spółki z ograniczoną odpowiedzialnością albo spółki akcyjnej. ” .
 
-**Art. 5.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.) w art. 50:
+**Art. 5.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921, 1948, 2138, 2255 i 2260 oraz z 2017 r. poz. 38, 60, 777, 962, 1027, 1321 i 1428.) w art. 50:
 
 - **1)** ust. 3a otrzymuje brzmienie: „
 
-3a. Dane zgromadzone na koncie ubezpieczonego będącego uczestnikiem w rozumieniu załącznika I lub II do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1304/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Społecznego i uchylającego rozporządzenie Rady (WE) nr 1081/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 470, z późn. zm.) , o których mowa w art. 40, i na koncie płatnika składek, o których mowa w art. 45, mogą być udostępniane ministrowi właściwemu do spraw rozwoju regionalnego, ministrowi właściwemu do spraw pracy oraz ministrowi właściwemu do spraw zabezpieczenia społecznego w celu spełnienia wymogów określonych odpowiednio w załączniku I lub II do tego rozporządzenia i w zakresie do tego niezbędnym. ” ;
+3a. Dane zgromadzone na koncie ubezpieczonego będącego uczestnikiem w rozumieniu załącznika I lub II do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1304/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Społecznego i uchylającego rozporządzenie Rady (WE) nr 1081/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 470, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 126 z 21.05.2015, str. 1 oraz Dz. Urz. UE L 330 z 03.12.2016, str. 9.) , o których mowa w art. 40, i na koncie płatnika składek, o których mowa w art. 45, mogą być udostępniane ministrowi właściwemu do spraw rozwoju regionalnego, ministrowi właściwemu do spraw pracy oraz ministrowi właściwemu do spraw zabezpieczenia społecznego w celu spełnienia wymogów określonych odpowiednio w załączniku I lub II do tego rozporządzenia i w zakresie do tego niezbędnym. ” ;
 
 - **2)** po ust. 3b dodaje się ust. 3c w brzmieniu: „
 
-3c. Dane zgromadzone na koncie ubezpieczonego niebędącego uczestnikiem w rozumieniu załącznika I lub II do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1304/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Społecznego i uchylającego rozporządzenie Rady (WE) nr 1081/2006, o których mowa w art. 40, i na koncie płatnika składek, o których mowa w art. 45, mogą być udostępniane ministrowi właściwemu do spraw rozwoju regionalnego w celu spełnienia wymogów określonych w art. 56 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.) w zakresie gromadzonym w centralnym systemie teleinformatycznym, o którym mowa w art. 69 ust. 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2017 r. poz. 1460 i 1475), wraz z informacją o kodzie tytułu zatrudnienia i wysokości składek odprowadzanych z tego tytułu. ” ;
+3c. Dane zgromadzone na koncie ubezpieczonego niebędącego uczestnikiem w rozumieniu załącznika I lub II do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1304/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Społecznego i uchylającego rozporządzenie Rady (WE) nr 1081/2006, o których mowa w art. 40, i na koncie płatnika składek, o których mowa w art. 45, mogą być udostępniane ministrowi właściwemu do spraw rozwoju regionalnego w celu spełnienia wymogów określonych w art. 56 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 259, Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34 oraz Dz. Urz. UE L 129 z 15.05.2017, str. 1.) w zakresie gromadzonym w centralnym systemie teleinformatycznym, o którym mowa w art. 69 ust. 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2017 r. poz. 1460 i 1475), wraz z informacją o kodzie tytułu zatrudnienia i wysokości składek odprowadzanych z tego tytułu. ” ;
 
 - **3)** ust. 9 otrzymuje brzmienie: „
 
@@ -720,14 +680,14 @@ art. 43–46 otrzymują brzmienie:
 - **4)** standardy świadczenia usług rozwojowych przez podmioty wpisane do rejestru, o którym mowa w art. 6 ust. 1 pkt 8,
 - **5)** szczegółowe wymagania w zakresie potencjału technicznego, ekonomicznego oraz kadrowego niezbędnego do należytego świadczenia usług rozwojowych,
 - **6)** szczegółowe wymagania w zakresie przestrzegania zasad etyki zawodowej,
-- **7)** szczegółowe wymagania w zakresie zapewniania należytej jakości świadczenia usług rozwojowych, w tym wymagania dotyczące dokumentów potwierdzających zapewnienie należytej jakości świadczenia tych usług mając na względzie konieczność przedstawienia we wniosku o wpis do rejestru, o którym mowa w art. 6 ust. 1 pkt 8, informacji i dokumentów niezbędnych do weryfikacji spełnienia warunków, o których mowa w ust. 1, oraz danych osobowych, o których mowa w art. 6aa ust. 4 pkt 1 i 4, a także konieczność zapewnienia należytej jakości usług rozwojowych oraz wiarygodności podmiotów wpisanych do rejestru. ” ;
+- **7)** szczegółowe wymagania w zakresie zapewniania należytej jakości świadczenia usług rozwojowych, w tym wymagania dotyczące dokumentów potwierdzających zapewnienie należytej jakości świadczenia tych usług – mając na względzie konieczność przedstawienia we wniosku o wpis do rejestru, o którym mowa w art. 6 ust. 1 pkt 8, informacji i dokumentów niezbędnych do weryfikacji spełnienia warunków, o których mowa w ust. 1, oraz danych osobowych, o których mowa w art. 6aa ust. 4 pkt 1 i 4, a także konieczność zapewnienia należytej jakości usług rozwojowych oraz wiarygodności podmiotów wpisanych do rejestru. ” ;
 - **5)** po art. 6a dodaje się art. 6aa w brzmieniu: „
 
 1. Agencja prowadzi rejestr, o którym mowa w art. 6 ust. 1 pkt 8, w systemie teleinformatycznym.
 
 2. W systemie teleinformatycznym gromadzi się i przetwarza dane zarejestrowane w tym systemie, w szczególności dane dotyczące usług rozwojowych oraz podmiotów świadczących te usługi, dla celów rejestracji podmiotów w systemie teleinformatycznym oraz jego ewaluacji, a także kontroli, monitorowania oraz oceny usług świadczonych przez te podmioty.
 
-3. W przypadku usług rozwojowych w systemie teleinformatycznym są przetwarzane także dane osobowe odbiorców i uczestników tych usług, zgodnie z zakresem danych określonym w załącznikach I i II do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1304/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Społecznego i uchylającego rozporządzenie Rady (WE) nr 1081/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 470, z późn. zm.), a także dane osobowe innych użytkowników systemu teleinformatycznego, które są niezbędne do kontroli, monitorowania i oceny tych usług oraz ewaluacji systemu teleinformatycznego, a także zarządzania, ewaluacji, kontroli, sprawozdawczości i monitorowania wykorzystania i rozliczania środków publicznych przeznaczonych na zakup usług rozwojowych.
+3. W przypadku usług rozwojowych w systemie teleinformatycznym są przetwarzane także dane osobowe odbiorców i uczestników tych usług, zgodnie z zakresem danych określonym w załącznikach I i II do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1304/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Społecznego i uchylającego rozporządzenie Rady (WE) nr 1081/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 470, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 126 z 21.05.2015, str. 1 oraz Dz. Urz. UE L 330 z 03.12.2016, str. 9.), a także dane osobowe innych użytkowników systemu teleinformatycznego, które są niezbędne do kontroli, monitorowania i oceny tych usług oraz ewaluacji systemu teleinformatycznego, a także zarządzania, ewaluacji, kontroli, sprawozdawczości i monitorowania wykorzystania i rozliczania środków publicznych przeznaczonych na zakup usług rozwojowych.
 
 4. Dane osobowe, o których mowa w ust. 2 i 3, z wyłączeniem danych osobowych odbiorców i uczestników usług, obejmują dane:
 
@@ -772,9 +732,9 @@ art. 43–46 otrzymują brzmienie:
 7. Dane:
 
 - **1)** identyfikujące podmiot wpisany do rejestru, o którym mowa w art. 6 ust. 1 pkt 8,
-- **2)** dotyczące usług rozwojowych świadczonych przez podmiot wpisany do rejestru, o którym mowa w art. 6 ust. 1 pkt 8 są jawne i są udostępniane przez Agencję na jej stronie internetowej.
+- **2)** dotyczące usług rozwojowych świadczonych przez podmiot wpisany do rejestru, o którym mowa w art. 6 ust. 1 pkt 8 – są jawne i są udostępniane przez Agencję na jej stronie internetowej.
 
-8. Dane, o których mowa w ust. 2 i 3, z wyłączeniem danych osobowych odbiorców i uczestników usług, mogą być przechowywane w systemie teleinformatycznym przez okres do 10 lat od dnia dokonania ostatniej czynności w tym systemie. ” . W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2016 r. poz. 930, z późn. zm.) wprowadza się następujące zmiany:
+8. Dane, o których mowa w ust. 2 i 3, z wyłączeniem danych osobowych odbiorców i uczestników usług, mogą być przechowywane w systemie teleinformatycznym przez okres do 10 lat od dnia dokonania ostatniej czynności w tym systemie. ” . W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2016 r. poz. 930, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1583, 1948 i 2174 oraz z 2017 r. poz. 38, 60, 624, 777, 1292 i 1428.) wprowadza się następujące zmiany:
 
 - **1)** w art. 134a: dotychczasową treść oznacza się jako ust. 1 i w tym ustępie w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
     - **a)**
@@ -798,8 +758,8 @@ art. 43–46 otrzymują brzmienie:
 
 **Art. 9.** W ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2017 r. poz. 1376) wprowadza się następujące zmiany:
 
-- **1)** po art. 3a dodaje się art. 3b w brzmieniu: „ Minister właściwy do spraw rozwoju regionalnego koordynuje wykorzystanie środków z: 1) instrumentów inżynierii finansowej, o których mowa w rozporządzeniu Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającym przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającym rozporządzenie (WE) nr 1260/1999 (Dz. Urz. UE L 210 z 31.07.2006, str. 25, z późn. zm.) , podlegających ponownemu wykorzystaniu,
-- **2)** instrumentów finansowych oraz środków pomocy zwrotnej, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającym wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającym przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającym rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.) , podlegających ponownemu wykorzystaniu w szczególności przez podejmowanie inicjatyw w zakresie efektywnego gospodarowania tymi środkami, monitorowanie ich wykorzystania oraz ocenę stopnia ich wykorzystania w skali kraju. ” ;
+- **1)** po art. 3a dodaje się art. 3b w brzmieniu: „ Minister właściwy do spraw rozwoju regionalnego koordynuje wykorzystanie środków z: 1) instrumentów inżynierii finansowej, o których mowa w rozporządzeniu Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającym przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającym rozporządzenie (WE) nr 1260/1999 (Dz. Urz. UE L 210 z 31.07.2006, str. 25, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 239 z 01.08.2006, str. 248, Dz. Urz. UE L 411 z 30.12.2006, str. 6, Dz. Urz. UE L 145 z 07.06.2007, str. 38, Dz. Urz. UE L 301 z 12.11.2008, str. 40, Dz. Urz. UE L 348 z 24.12.2008, str. 19, Dz. Urz. UE L 94 z 08.04.2009, str. 10, Dz. Urz. UE L 158 z 24.06.2010, str. 1, Dz. Urz. UE L 337 z 20.12.2011, str. 1, Dz. Urz. UE L 112 z 01.07.2012, str. 21, Dz. Urz. UE L 133 z 23.05.2012, str. 1, Dz. Urz. UE L 347 z 20.12.2013, str. 253 oraz Dz. Urz. UE L 347 z 20.12.2013, str. 256.) , podlegających ponownemu wykorzystaniu,
+- **2)** instrumentów finansowych oraz środków pomocy zwrotnej, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającym wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającym przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającym rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 259, Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34 oraz Dz. Urz. UE L 129 z 15.05.2017, str. 1.) , podlegających ponownemu wykorzystaniu – w szczególności przez podejmowanie inicjatyw w zakresie efektywnego gospodarowania tymi środkami, monitorowanie ich wykorzystania oraz ocenę stopnia ich wykorzystania w skali kraju. ” ;
 - **2)** w art. 5: pkt 4c otrzymuje brzmienie: „
     - **a)**
 
@@ -807,8 +767,12 @@ art. 43–46 otrzymują brzmienie:
     - **b)**
 
 - **12)** wsparcie zwrotne – wsparcie finansowe niestanowiące dotacji, podlegające całkowitemu albo częściowemu zwrotowi, przyznawane w szczególności w formie pożyczek, poręczeń lub gwarancji. ” ;
-- **3)** w art. 14p: w ust. 1: – pkt 3 i 4 otrzymują brzmienie: „ 3) przedsięwzięcia priorytetowe zgodne z celami wynikającymi odpowiednio ze strategii rozwoju, o których mowa w art. 9; 4) warunki realizacji przedsięwzięć priorytetowych, w tym potencjalne źródła ich finansowania; ” , – pkt 6 otrzymuje brzmienie: „ 6) wykaz projektów współfinansowanych w ramach programów służących realizacji umowy partnerstwa w zakresie polityki spójności lub projektów finansowanych ze środków budżetu państwa lub budżetu jednostki samorządu terytorialnego, umożliwiających realizację danego przedsięwzięcia priorytetowego, których identyfikację minister właściwy do spraw rozwoju regionalnego i zarząd województwa uznają za zasadną; ” , ust. 4 otrzymuje brzmienie: „
+- **3)** w art. 14p: w ust. 1: pkt 3 i 4 otrzymują brzmienie: „
     - **a)**
+
+- **3)** przedsięwzięcia priorytetowe zgodne z celami wynikającymi odpowiednio ze strategii rozwoju, o których mowa w art. 9;
+- **4)** warunki realizacji przedsięwzięć priorytetowych, w tym potencjalne źródła ich finansowania; ” , pkt 6 otrzymuje brzmienie: „
+- **6)** wykaz projektów współfinansowanych w ramach programów służących realizacji umowy partnerstwa w zakresie polityki spójności lub projektów finansowanych ze środków budżetu państwa lub budżetu jednostki samorządu terytorialnego, umożliwiających realizację danego przedsięwzięcia priorytetowego, których identyfikację minister właściwy do spraw rozwoju regionalnego i zarząd województwa uznają za zasadną; ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Zmiany kontraktu terytorialnego w zakresie, o którym mowa w ust. 1 pkt 4, 6 i 7–9, oraz dotyczące sposobu i warunków dofinansowania programów służących realizacji umowy partnerstwa w zakresie polityki spójności, opracowywanych przez zarząd województwa, nie wymagają przyjęcia w drodze uchwały Rady Ministrów. ” ;
@@ -834,7 +798,7 @@ art. 43–46 otrzymują brzmienie:
 - **2)** zarząd województwa przekazuje, do dnia 30 lipca każdego roku, sejmikowi województwa. ” ;
 - **6)** po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
 
-#### Rozdział 5a Wsparcie zwrotne
+#### Rozdział 5a
 
 **Art. 37a.**
 
@@ -851,7 +815,7 @@ art. 43–46 otrzymują brzmienie:
 
 **Art. 10.** W ustawie z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej w województwie (Dz. U. z 2015 r. poz. 525 i 1960, z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 935 i 976) w art. 3 po ust. 2a dodaje się ust. 2b w brzmieniu: „ 2b. Wojewoda może uczestniczyć w wykonywaniu zadań, o których mowa w art. 16 ust. 1 pkt 2 i 3 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2017 r. poz. 1460 i 1475), na zasadach określonych w tej ustawie. ” .
 
-**Art. 11.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 11.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935 i 1089.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „
 - **2a)** środki, o których mowa w art. 3b ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2017 r. poz. 1376 i 1475); ” ;
@@ -867,7 +831,7 @@ art. 43–46 otrzymują brzmienie:
 1. Zobowiązanie do zwrotu środków, o których mowa w art. 60 pkt 6, przedawnia się z upływem 5 lat, licząc od dnia:
 
 - **1)** w którym decyzja, o której mowa w art. 189 ust. 3b, albo decyzja, o której mowa w art. 207 ust. 9, stała się ostateczna, albo
-- **2)** wypłaty salda końcowego, o którym mowa w: art. 89 ust. 1 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999 (Dz. Urz. UE L 210 z 31.07.2006, str. 25, z późn. zm.) albo art. 86 ust. 1 rozporządzenia Rady (WE) nr 1198/2006 z dnia 27 lipca 2006 r. w sprawie Europejskiego Funduszu Rybackiego (Dz. Urz. UE L 223 z 15.08.2006, str. 1, z późn. zm.) , albo art. 141 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.) w zależności od tego, który z tych terminów nastąpi później.
+- **2)** wypłaty salda końcowego, o którym mowa w: art. 89 ust. 1 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999 (Dz. Urz. UE L 210 z 31.07.2006, str. 25, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 239 z 01.08.2006, str. 248, Dz. Urz. UE L 411 z 30.12.2006, str. 6, Dz. Urz. UE L 145 z 07.06.2007, str. 38, Dz. Urz. UE L 301 z 12.11.2008, str. 40, Dz. Urz. UE L 348 z 24.12.2008, str. 19, Dz. Urz. UE L 94 z 08.04.2009, str. 10, Dz. Urz. UE L 158 z 24.06.2010, str. 1, Dz. Urz. UE L 337 z 20.12.2011, str. 1, Dz. Urz. UE L 112 z 01.07.2012, str. 21, Dz. Urz. UE L 133 z 23.05.2012, str. 1, Dz. Urz. UE L 347 z 20.12.2013, str. 253 oraz Dz. Urz. UE L 347 z 20.12.2013, str. 256.) albo art. 86 ust. 1 rozporządzenia Rady (WE) nr 1198/2006 z dnia 27 lipca 2006 r. w sprawie Europejskiego Funduszu Rybackiego (Dz. Urz. UE L 223 z 15.08.2006, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 112 z 24.04.2012, str. 6, Dz. Urz. UE L 129 z 16.05.2012, str. 7 oraz Dz. Urz. UE L 103 z 05.04.2014, str. 33.) , albo art. 141 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 259, Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34 oraz Dz. Urz. UE L 129 z 15.05.2017, str. 1.) – w zależności od tego, który z tych terminów nastąpi później.
     - **a)**
     - **b)**
     - **c)**
@@ -975,7 +939,7 @@ art. 43–46 otrzymują brzmienie:
 
 1. Do postępowań w zakresie wyboru projektów do dofinansowania prowadzonych na podstawie ustawy zmienianej w art. 1, rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-2. Do postępowań w zakresie wyboru operacji w rozumieniu art. 2 pkt 9 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.) w zakresie operacji realizowanych na podstawie ustawy zmienianej w art. 14, wszczętych w terminach składania wniosków o udzielenie wsparcia, o którym mowa w art. 35 ust. 1 lit. b tego rozporządzenia, które rozpoczęły bieg przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+2. Do postępowań w zakresie wyboru operacji w rozumieniu art. 2 pkt 9 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 259, Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34 oraz Dz. Urz. UE L 129 z 15.05.2017, str. 1.) w zakresie operacji realizowanych na podstawie ustawy zmienianej w art. 14, wszczętych w terminach składania wniosków o udzielenie wsparcia, o którym mowa w art. 35 ust. 1 lit. b tego rozporządzenia, które rozpoczęły bieg przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
 **Art. 17.** Do komunikatów o adresie strony internetowej oraz portalu, na których zostają zamieszczone szczegółowy opis osi priorytetowych programu operacyjnego oraz jego zmiany, a także termin, od którego szczegółowy opis osi priorytetowych programu operacyjnego oraz jego zmiany są stosowane, o których mowa w art. 8 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, podpisanych odpowiednio przez ministra właściwego do spraw rozwoju regionalnego albo przez marszałka województwa przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
@@ -1010,7 +974,7 @@ art. 43–46 otrzymują brzmienie:
 **Art. 24.** Do egzekucji ze:
 
 - **1)** środków pochodzących z programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy zmienianej w art. 11,
-- **2)** środków trwałych i wartości niematerialnych i prawnych powstałych w ramach realizacji projektu, na który były przeznaczone środki, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy zmienianej w art. 11 wszczętych na podstawie ustaw zmienianych w art. 2 i art. 3 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+- **2)** środków trwałych i wartości niematerialnych i prawnych powstałych w ramach realizacji projektu, na który były przeznaczone środki, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy zmienianej w art. 11 – wszczętych na podstawie ustaw zmienianych w art. 2 i art. 3 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 25.**
 
@@ -1048,6 +1012,6 @@ art. 43–46 otrzymują brzmienie:
 
 - **1)** art. 29, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
 - **2)** art. 7 pkt 1 lit. b i pkt 2 oraz art. 8 pkt 1 i 2, które wchodzą w życie z dniem 1 września 2017 r.;
-- **3)** art. 7 pkt 1 lit. a oraz art. 15, które wchodzą w życie z dniem 1 stycznia 2018 r.
+- **3)** art. 7 pkt 1 lit. a oraz art. 15, które wchodzą w życie z dniem 1 stycznia 2018 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym, ustawę z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, ustawę z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej w województwie, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki, ustawę z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020, ustawę z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności i ustawę z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 996, 1020, 1250, 1265, 1579, 1920 i 2260 oraz z 2017 r. poz. 933. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921, 1948, 2138, 2255 i 2260 oraz z 2017 r. poz. 38, 60, 777, 962, 1027, 1321, 1428 i 1475. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933, 1133, 1136 i 1452. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935 i 1089. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921, 1948, 2138, 2255 i 2260 oraz z 2017 r. poz. 38, 60, 777, 962, 1027, 1321 i 1428. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 126 z 21.05.2015, str. 1 oraz Dz. Urz. UE L 330 z 03.12.2016, str. 9. 8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 259, Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34 oraz Dz. Urz. UE L 129 z 15.05.2017, str. 1. 9) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 126 z 21.05.2015, str. 1 oraz Dz. Urz. UE L 330 z 03.12.2016, str. 9. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1583, 1948 i 2174 oraz z 2017 r. poz. 38, 60, 624, 777, 1292 i 1428. 11) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 239 z 01.08.2006, str. 248, Dz. Urz. UE L 411 z 30.12.2006, str. 6, Dz. Urz. UE L 145 z 07.06.2007, str. 38, Dz. Urz. UE L 301 z 12.11.2008, str. 40, Dz. Urz. UE L 348 z 24.12.2008, str. 19, Dz. Urz. UE L 94 z 08.04.2009, str. 10, Dz. Urz. UE L 158 z 24.06.2010, str. 1, Dz. Urz. UE L 337 z 20.12.2011, str. 1, Dz. Urz. UE L 112 z 01.07.2012, str. 21, Dz. Urz. UE L 133 z 23.05.2012, str. 1, Dz. Urz. UE L 347 z 20.12.2013, str. 253 oraz Dz. Urz. UE L 347 z 20.12.2013, str. 256. 12) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 259, Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34 oraz Dz. Urz. UE L 129 z 15.05.2017, str. 1. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935 i 1089. 14) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 239 z 01.08.2006, str. 248, Dz. Urz. UE L 411 z 30.12.2006, str. 6, Dz. Urz. UE L 145 z 07.06.2007, str. 38, Dz. Urz. UE L 301 z 12.11.2008, str. 40, Dz. Urz. UE L 348 z 24.12.2008, str. 19, Dz. Urz. UE L 94 z 08.04.2009, str. 10, Dz. Urz. UE L 158 z 24.06.2010, str. 1, Dz. Urz. UE L 337 z 20.12.2011, str. 1, Dz. Urz. UE L 112 z 01.07.2012, str. 21, Dz. Urz. UE L 133 z 23.05.2012, str. 1, Dz. Urz. UE L 347 z 20.12.2013, str. 253 oraz Dz. Urz. UE L 347 z 20.12.2013, str. 256. 15) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 112 z 24.04.2012, str. 6, Dz. Urz. UE L 129 z 16.05.2012, str. 7 oraz Dz. Urz. UE L 103 z 05.04.2014, str. 33. 16) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 259, Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34 oraz Dz. Urz. UE L 129 z 15.05.2017, str. 1. 17) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 259, Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34 oraz Dz. Urz. UE L 129 z 15.05.2017, str. 1.
 
 

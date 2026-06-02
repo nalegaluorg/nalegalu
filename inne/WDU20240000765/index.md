@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 8 kwietnia 2008 r. w sprawie szczegółowych zasad i trybu finansowania przygotowania i działania jednostek wojskowych poza granicami państwa (Dz. U. z 2015 r. poz. 84), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Rady Ministrów z dnia 11 stycznia 2016 r. zmieniającym rozporządzenie w sprawie szczegółowych zasad i trybu finansowania przygotowania i działania jednostek wojskowych poza granicami państwa (Dz. U. poz. 81).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 11 stycznia 2016 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu finansowania przygotowania i działania jednostek wojskowych poza granicami państwa (Dz. U. poz. 81), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 11 stycznia 2016 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu finansowania przygotowania i działania jednostek wojskowych poza granicami państwa (Dz. U. poz. 81), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Rady Ministrów z dnia 8 kwietnia 2008 r. w sprawie szczegółowych zasad i trybu finansowania przygotowania i działania jednostek wojskowych poza granicami państwa
 Na podstawie art. 9 ust. 1 pkt 3 ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. z 2023 r. poz. 755) zarządza się, co następuje:
 § 1.
@@ -83,9 +81,9 @@ koszty realizacji zadań w zakresie pomocy humanitarnej;
 6)
 ubezpieczenie następstw nieszczęśliwych wypadków.
 § 5.
-1.
+1Oznaczenie ust. 1 nadane przez § 1 rozporządzenia Rady Ministrów z dnia 11 stycznia 2016 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu finansowania przygotowania i działania jednostek wojskowych poza granicami państwa (Dz. U. poz. 81), które weszło w życie z dniem 3 lutego 2016 r..
 Obsługę finansową i logistyczną jednostek wojskowych przebywających poza granicami państwa w przypadkach, o których mowa w art. 2 pkt 2 ustawy, wykonują jednostki wojskowe, na których zaopatrzeniu jednostki te pozostają.
-2.
+2Dodany przez § 1 rozporządzenia, o którym mowa w odnośniku 1..
 Obsługę finansową wydatków, o których mowa w § 4 ust. 3 pkt 6, wykonuje Dowódca Operacyjny Rodzajów Sił Zbrojnych.
 § 6.
 Na pokrycie wydatków jednostki wojskowej poza granicami państwa bezpośrednio związanych z zaopatrzeniem na rynku lokalnym żołnierzowi lub pracownikowi tej jednostki udziela się zaliczki.
@@ -99,6 +97,5 @@ Tryb dokonywania wydatków, wzory, zasady i terminy sporządzania dokumentów ro
 § 9.
 Traci moc rozporządzenie Rady Ministrów z dnia 27 lipca 1999 r. w sprawie szczegółowych zasad i trybu finansowania przygotowania i działania jednostek wojskowych poza granicami państwa (Dz. U. poz. 732 oraz z 2003 r. poz. 1246).
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Oznaczenie ust. 1 nadane przez § 1 rozporządzenia Rady Ministrów z dnia 11 stycznia 2016 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu finansowania przygotowania i działania jednostek wojskowych poza granicami państwa (Dz. U. poz. 81), które weszło w życie z dniem 3 lutego 2016 r. 2) Dodany przez § 1 rozporządzenia, o którym mowa w odnośniku 1. 3) Rozporządzenie zostało ogłoszone w dniu 15 kwietnia 2008 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 15 kwietnia 2008 r.. 1) Oznaczenie ust. 1 nadane przez § 1 rozporządzenia Rady Ministrów z dnia 11 stycznia 2016 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu finansowania przygotowania i działania jednostek wojskowych poza granicami państwa (Dz. U. poz. 81), które weszło w życie z dniem 3 lutego 2016 r. 2) Dodany przez § 1 rozporządzenia, o którym mowa w odnośniku 1. 3) Rozporządzenie zostało ogłoszone w dniu 15 kwietnia 2008 r.
 

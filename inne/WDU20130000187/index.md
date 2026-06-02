@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-01-29 |
 | Data wydania | 2013-02-11 |
-| Wejście w życie | 2013-02-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000187) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/187/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 140 ust. 7 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 140 ust. 7 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1544 oraz z 2013 r. poz. 134.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa warunki i tryb współpracy Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego, zwanej dalej „Komisją Lotnictwa Państwowego”, z Państwową Komisją Badania Wypadków Lotniczych, zwaną dalej „Komisją”, w zakresie prowadzenia badań zdarzeń lotniczych, o których mowa w art. 140 ust. 6 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, zwanej dalej „ustawą”.
 § 2.
@@ -89,5 +88,5 @@ Nieuwzględnione uwagi załącza się do raportu końcowego w zakresie wskazanym
 4.
 Konsultacje mają zastosowanie do projektów raportów wstępnych, pośrednich oraz oświadczeń tymczasowych, dotyczących badań zdarzeń lotniczych, o których mowa w art. 140 ust. 6 ustawy. Uwagi zgłoszone w ramach tych konsultacji przekazuje się w terminie 5 dni od dnia otrzymania projektu.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministrów Obrony Narodowej i Infrastruktury z dnia 30 grudnia 2004 r. w sprawie współpracy Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego z Państwową Komisją Badania Wypadków Lotniczych (Dz. U. z 2005 r. Nr 4, poz. 22), które utraciło moc z dniem wejścia w życie ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. Nr 170, poz. 1015). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1544 oraz z 2013 r. poz. 134. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministrów Obrony Narodowej i Infrastruktury z dnia 30 grudnia 2004 r. w sprawie współpracy Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego z Państwową Komisją Badania Wypadków Lotniczych (Dz. U. z 2005 r. Nr 4, poz. 22), które utraciło moc z dniem wejścia w życie ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. Nr 170, poz. 1015).
 

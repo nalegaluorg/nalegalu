@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji i Naukiz dnia 22 lipca 2022 r. w sprawie wykazu zajęć prowadzonych bezpośrednio z uczniami lub wychowankami albo na ich rzecz przez nauczycieli poradni psychologiczno-pedagogicznych oraz nauczycieli: pedagogów, pedagogów specjalnych, psychologów, logopedów, terapeutów pedagogicznych i doradców zawodowych
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 22 lipca 2022 r. w sprawie wykazu zajęć prowadzonych bezpośrednio z uczniami lub wychowankami albo na ich rzecz przez nauczycieli poradni psychologiczno-pedagogicznych oraz nauczycieli: pedagogów, pedagogów specjalnych, psychologów, logopedów, terapeutów pedagogicznych i doradców zawodowych Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-22 |
 | Data wydania | 2022-08-01 |
-| Wejście w życie | 2022-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001610) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1610/text.pdf) |
 
@@ -106,6 +105,5 @@ zajęcia oraz specjalne działania opiekuńczo-wychowawcze, o których mowa w pr
 § 4.
 Traci moc rozporządzenie Ministra Edukacji Narodowej z dnia 3 sierpnia 2018 r. w sprawie wykazu zajęć prowadzonych bezpośrednio z uczniami lub wychowankami albo na ich rzecz przez nauczycieli poradni psychologiczno-pedagogicznych oraz nauczycieli: pedagogów, psychologów, logopedów, terapeutów pedagogicznych i doradców zawodowych (Dz. U. z 2020 r. poz. 1552).
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18).
+Rozporządzenie wchodzi w życie z dniem 1 września 2022 r. 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18).
 

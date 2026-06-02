@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-29 |
 | Data wydania | 2017-07-05 |
-| Wejście w życie | 2017-07-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001328) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1328/text.pdf) |
 
@@ -31,16 +30,13 @@ Na podstawie art. 12a ust. 1 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Roln
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 23 lutego 2017 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem nadzwyczajnej pomocy dostosowawczej dla producentów mleka i rolników w innych sektorach hodowlanych (Dz. U. poz. 499) wprowadza się następujące zmiany:
 1)
-w § 2 w ust. 2 pkt 2 i 3 otrzymują brzmienie:
-„
+w § 2 w ust. 2 pkt 2 i 3 otrzymują brzmienie: „
 2)
 pkt 2 – przeznacza się 53 981 188 zł;
 3)
-pkt 4 – przeznacza się 22 000 000 zł.
-” ;
+pkt 4 – przeznacza się 22 000 000 zł. ” ;
 2)
-po § 2 dodaje się § 2a w brzmieniu:
-„
+po § 2 dodaje się § 2a w brzmieniu: „
 § 2a.
 1.
 W przypadku niewykorzystania środków finansowych przeznaczonych na udzielenie pomocy, o której mowa w § 2 ust. 1 pkt 1–3, Agencja udziela pomocy, o której mowa w art. 1 rozporządzenia 2016/1613:
@@ -67,25 +63,19 @@ pkt 2 – przeznacza się kwotę w wysokości 90% niewykorzystanych środków fi
 6.
 Ilekroć w przepisach rozporządzenia jest mowa o siedzibie stada producenta owiec, rozumie się przez to wszystkie siedziby stad tego producenta owiec.
 7.
-Do ceny zakupu jagnięcia, owcy lub jałówki hodowlanej rasy mlecznej, która nie jest wyrażona w złotych, stosuje się przepis § 2 ust. 4.
-” ;
+Do ceny zakupu jagnięcia, owcy lub jałówki hodowlanej rasy mlecznej, która nie jest wyrażona w złotych, stosuje się przepis § 2 ust. 4. ” ;
 3)
 w § 3:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Pomoc, o której mowa w § 2 ust. 1 oraz w § 2a ust. 1 i 2, jest udzielana na wniosek producenta mleka, producenta świń lub producenta owiec, zwany dalej „wnioskiem o udzielenie pomocy”, złożony do dyrektora oddziału terenowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę producenta mleka, producenta świń lub producenta owiec. Za dzień złożenia wniosku o udzielenie pomocy uważa się dzień wpływu tego wniosku do właściwego oddziału terenowego Agencji.
-” ,
+Pomoc, o której mowa w § 2 ust. 1 oraz w § 2a ust. 1 i 2, jest udzielana na wniosek producenta mleka, producenta świń lub producenta owiec, zwany dalej „wnioskiem o udzielenie pomocy”, złożony do dyrektora oddziału terenowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę producenta mleka, producenta świń lub producenta owiec. Za dzień złożenia wniosku o udzielenie pomocy uważa się dzień wpływu tego wniosku do właściwego oddziału terenowego Agencji. ” ,
 b)
-po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-W przypadku pomocy, o której mowa w § 2a ust. 1 i 2, Prezes Agencji podaje do publicznej wiadomości na stronie internetowej administrowanej przez Agencję ogłoszenie o naborze wniosków o udzielenie pomocy, nie później niż 2 dni przed dniem planowanego rozpoczęcia terminu składania tych wniosków. Ogłoszenie zawiera wskazanie dnia rozpoczęcia terminu składania wniosków o udzielenie pomocy, o której mowa w § 2a ust. 1 i 2.
-” ,
+W przypadku pomocy, o której mowa w § 2a ust. 1 i 2, Prezes Agencji podaje do publicznej wiadomości na stronie internetowej administrowanej przez Agencję ogłoszenie o naborze wniosków o udzielenie pomocy, nie później niż 2 dni przed dniem planowanego rozpoczęcia terminu składania tych wniosków. Ogłoszenie zawiera wskazanie dnia rozpoczęcia terminu składania wniosków o udzielenie pomocy, o której mowa w § 2a ust. 1 i 2. ” ,
 c)
-ust. 2–4 otrzymują brzmienie:
-„
+ust. 2–4 otrzymują brzmienie: „
 2.
 Wniosek o udzielenie pomocy, o której mowa:
 1)
@@ -101,37 +91,29 @@ Wniosek o udzielenie pomocy, o której mowa w § 2 ust. 1 pkt 1–3 i w § 2a us
 4.
 Wniosek o udzielenie pomocy zawiera co najmniej:
 1)
-imię i nazwisko albo nazwę oraz adres zamieszkania albo siedzibę producenta mleka, producenta świń lub producenta owiec ubiegającego się o pomoc; 2) numer identyfikacji podatkowej (NIP) lub numer identyfikacyjny powszechnego elektronicznego systemu ewidencji ludności (numer PESEL) producenta mleka, producenta świń lub producenta owiec ubiegającego się o pomoc, a w przypadku gdy producent ten nie posiada obywatelstwa polskiego – numer paszportu lub innego dokumentu stwierdzającego tożsamość tego producenta; 3) numer rejestracyjny, o którym mowa w art. 23 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych, zwanej dalej „ustawą o Agencji”, producenta mleka, producenta świń lub producenta owiec ubiegającego się o pomoc, o ile został nadany; 4) numer siedziby stada producenta mleka, producenta świń lub producenta owiec ubiegającego się o pomoc nadany zgodnie z przepisami ustawy o systemie identyfikacji i rejestracji zwierząt.
-” ;
+imię i nazwisko albo nazwę oraz adres zamieszkania albo siedzibę producenta mleka, producenta świń lub producenta owiec ubiegającego się o pomoc; 2) numer identyfikacji podatkowej (NIP) lub numer identyfikacyjny powszechnego elektronicznego systemu ewidencji ludności (numer PESEL) producenta mleka, producenta świń lub producenta owiec ubiegającego się o pomoc, a w przypadku gdy producent ten nie posiada obywatelstwa polskiego – numer paszportu lub innego dokumentu stwierdzającego tożsamość tego producenta; 3) numer rejestracyjny, o którym mowa w art. 23 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych, zwanej dalej „ustawą o Agencji”, producenta mleka, producenta świń lub producenta owiec ubiegającego się o pomoc, o ile został nadany; 4) numer siedziby stada producenta mleka, producenta świń lub producenta owiec ubiegającego się o pomoc nadany zgodnie z przepisami ustawy o systemie identyfikacji i rejestracji zwierząt. ” ;
 4)
 w § 4:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Pomoc, o której mowa w § 2 ust. 1 pkt 4 oraz w § 2a ust. 1 i 2, jest wypłacana na wniosek o udzielenie pomocy, w drodze decyzji administracyjnej wydawanej przez dyrektora oddziału terenowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę producenta mleka, producenta świń lub producenta owiec ubiegającego się o pomoc.
-” ,
+Pomoc, o której mowa w § 2 ust. 1 pkt 4 oraz w § 2a ust. 1 i 2, jest wypłacana na wniosek o udzielenie pomocy, w drodze decyzji administracyjnej wydawanej przez dyrektora oddziału terenowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę producenta mleka, producenta świń lub producenta owiec ubiegającego się o pomoc. ” ,
 b)
-po ust. 3 dodaje się ust. 3a w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a w brzmieniu: „
 3a.
 Dyrektor oddziału terenowego Agencji właściwy ze względu na miejsce zamieszkania albo siedzibę producenta mleka odmawia, w drodze decyzji administracyjnej, udzielenia pomocy, o której mowa w:
 1)
 § 2a ust. 1 pkt 2 – w przypadku gdy producent mleka złożył wniosek o płatność w zakresie pomocy, o której mowa w § 2 ust. 1 pkt 1;
 2)
-§ 2a ust. 2 – w przypadku gdy producent mleka złożył wniosek o płatność w zakresie pomocy, o której mowa w § 2 ust. 1 pkt 1, lub w zakresie pomocy udzielanej na podstawie rozporządzenia Rady Ministrów z dnia 13 września 2016 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem pomocy na ograniczenie produkcji mleka.
-” ,
+§ 2a ust. 2 – w przypadku gdy producent mleka złożył wniosek o płatność w zakresie pomocy, o której mowa w § 2 ust. 1 pkt 1, lub w zakresie pomocy udzielanej na podstawie rozporządzenia Rady Ministrów z dnia 13 września 2016 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem pomocy na ograniczenie produkcji mleka. ” ,
 c)
-po ust. 7 dodaje się ust. 7a i 7b w brzmieniu:
-„
+po ust. 7 dodaje się ust. 7a i 7b w brzmieniu: „
 7a.
 Producent będący jednocześnie producentem mleka, producentem świń lub producentem owiec może w ramach pomocy, o której mowa w § 2a ust. 1 pkt 1, ubiegać się o refundację kosztów zakupu nie więcej niż do 100 sztuk jagniąt lub owiec.
 7b.
-Zwierzę, do którego producent mleka, producent świń lub producent owiec ubiega się o pomoc, o której mowa w § 2a ust. 1, może zostać objęte tą pomocą tylko raz.
-” ;
+Zwierzę, do którego producent mleka, producent świń lub producent owiec ubiega się o pomoc, o której mowa w § 2a ust. 1, może zostać objęte tą pomocą tylko raz. ” ;
 5)
-po § 21 dodaje się § 21a-21i w brzmieniu:
-„
+po § 21 dodaje się § 21a-21i w brzmieniu: „
 § 21a.
 1.
 Pomoc, o której mowa w § 2a ust. 1 pkt 1, jest udzielana, jeżeli producent mleka, producent świń lub producent owiec:
@@ -330,31 +312,25 @@ Oświadczenie, o którym mowa w ust. 2 pkt 1, składa się w formie pisemnej, w 
 4.
 Do składania oświadczenia w postaci elektronicznej stosuje się przepisy art. 63 § 3a-5 kodeksu postępowania administracyjnego dotyczące podań wnoszonych w formie dokumentu elektronicznego.
 5.
-Jeżeli wniosek o udzielenie pomocy, o której mowa w § 2a ust. 2, nie zawiera informacji, o których mowa w § 3 ust. 4 lub w ust. 1, lub nie dołączono do niego dokumentów lub oświadczenia, o których mowa w ust. 2, wniosek ten pozostawia się bez rozpatrzenia.
-” ;
+Jeżeli wniosek o udzielenie pomocy, o której mowa w § 2a ust. 2, nie zawiera informacji, o których mowa w § 3 ust. 4 lub w ust. 1, lub nie dołączono do niego dokumentów lub oświadczenia, o których mowa w ust. 2, wniosek ten pozostawia się bez rozpatrzenia. ” ;
 6)
-w § 22 dotychczasową treść oznacza się jako ust. 1 i dodaje ust. 2 w brzmieniu:
-„
+w § 22 dotychczasową treść oznacza się jako ust. 1 i dodaje ust. 2 w brzmieniu: „
 2.
-Dyrektorzy oddziałów terenowych Agencji przekazują niezwłocznie Prezesowi Agencji informacje o złożonych wnioskach o udzielenie pomocy, o której mowa w § 2a ust. 1, wraz z podaniem liczby jagniąt, owiec lub jałówek hodowlanych ras mlecznych, do których producenci mleka, producenci świń lub producenci owiec ubiegają się o udzielenie pomocy.
-” ;
+Dyrektorzy oddziałów terenowych Agencji przekazują niezwłocznie Prezesowi Agencji informacje o złożonych wnioskach o udzielenie pomocy, o której mowa w § 2a ust. 1, wraz z podaniem liczby jagniąt, owiec lub jałówek hodowlanych ras mlecznych, do których producenci mleka, producenci świń lub producenci owiec ubiegają się o udzielenie pomocy. ” ;
 7)
-po § 25 dodaje się § 25a-25d w brzmieniu:
-„
+po § 25 dodaje się § 25a-25d w brzmieniu: „
 § 25a.
 W przypadku gdy z rozpatrzonych wniosków o udzielenie pomocy, o której mowa w § 2a ust. 1 pkt 1, wynika, że zapotrzebowanie na pomoc, o której mowa w § 2a ust. 1:
 1)
 pkt 1, jest mniejsze niż kwota pomocy, o której mowa w § 2a ust. 5 pkt 1, oraz
 2)
-pkt 2, jest większe od kwoty pomocy, o której mowa w § 2a ust. 5 pkt 2
-niewykorzystane środki przeznacza się na pomoc, o której mowa w § 2a ust. 1 pkt 2.
+pkt 2, jest większe od kwoty pomocy, o której mowa w § 2a ust. 5 pkt 2 – niewykorzystane środki przeznacza się na pomoc, o której mowa w § 2a ust. 1 pkt 2.
 § 25b.
 W przypadku gdy z rozpatrzonych wniosków o udzielenie pomocy, o której mowa w § 2a ust. 1 pkt 2, wynika, że zapotrzebowanie na pomoc, o której mowa w § 2a ust. 1:
 1)
 pkt 2, jest mniejsze niż kwota pomocy, o której mowa w § 2a ust. 5 pkt 2, oraz
 2)
-pkt 1, jest większe od kwoty pomocy, o której mowa w § 2a ust. 5 pkt 1
-niewykorzystane środki przeznacza się na pomoc, o której mowa w § 2a ust. 1 pkt 1.
+pkt 1, jest większe od kwoty pomocy, o której mowa w § 2a ust. 5 pkt 1 – niewykorzystane środki przeznacza się na pomoc, o której mowa w § 2a ust. 1 pkt 1.
 § 25c.
 1.
 W przypadku gdy z rozpatrzonych wniosków o udzielenie pomocy, o której mowa w § 2a ust. 1 pkt 1, wynika, że zapotrzebowanie na tę pomoc jest większe niż:
@@ -384,87 +360,78 @@ Współczynnik przydziału pomocy, o którym mowa w ust. 1, Prezes Agencji stosu
 4.
 Przy ustalaniu liczby jałówek hodowlanych ras mlecznych, do których może zostać wypłacona pomoc, w pierwszej kolejności redukcji podlega liczba tych zwierząt wskazanych we wniosku o udzielenie pomocy, o którym mowa w § 21f ust. 1, do których przysługuje najniższa kwota pomocy.
 5.
-W przypadku gdy po zastosowaniu współczynnika przydziału pomocy, o którym mowa w ust. 1, liczba jałówek hodowlanych ras mlecznych, do których może zostać wypłacona pomoc, jest mniejsza niż 1, pomoc przysługuje do jednej jałówki hodowlanej rasy mlecznej.
-” ;
+W przypadku gdy po zastosowaniu współczynnika przydziału pomocy, o którym mowa w ust. 1, liczba jałówek hodowlanych ras mlecznych, do których może zostać wypłacona pomoc, jest mniejsza niż 1, pomoc przysługuje do jednej jałówki hodowlanej rasy mlecznej. ” ;
 8)
-po § 26 dodaje się § 26a w brzmieniu:
-„
+po § 26 dodaje się § 26a w brzmieniu: „
 § 26a.
-W przypadku udzielania przez Agencję pomocy, o której mowa w § 2a ust. 2, Prezes Agencji podaje do publicznej wiadomości na stronie internetowej administrowanej przez Agencję informację o wysokości pomocy przysługującej do 1 kg mleka.
-” ;
+W przypadku udzielania przez Agencję pomocy, o której mowa w § 2a ust. 2, Prezes Agencji podaje do publicznej wiadomości na stronie internetowej administrowanej przez Agencję informację o wysokości pomocy przysługującej do 1 kg mleka. ” ;
 9)
 uchyla się § 27;
 10)
-po § 27 dodaje się § 27a w brzmieniu:
-„
+po § 27 dodaje się § 27a w brzmieniu: „
 § 27a.
-W przypadku złożenia wniosków o udzielenie pomocy, o której mowa w § 2a ust. 2, przy braku środków finansowych na tę pomoc, dyrektor oddziału terenowego Agencji właściwy ze względu na miejsce zamieszkania albo siedzibę producenta mleka wydaje decyzję administracyjną w sprawie odmowy udzielenia pomocy.
-” ;
+W przypadku złożenia wniosków o udzielenie pomocy, o której mowa w § 2a ust. 2, przy braku środków finansowych na tę pomoc, dyrektor oddziału terenowego Agencji właściwy ze względu na miejsce zamieszkania albo siedzibę producenta mleka wydaje decyzję administracyjną w sprawie odmowy udzielenia pomocy. ” ;
 11)
 uchyla się § 29;
 12)
-§ 30 otrzymuje brzmienie:
-„
+§ 30 otrzymuje brzmienie: „
 § 30.
-W przypadku gdy łączna wysokość pomocy finansowej wynikająca z rozpatrzonych wniosków o udzielenie pomocy, o której mowa w § 2 ust. 1 pkt 4, jest większa niż suma kwoty środków, o której mowa w § 2 ust. 2 pkt 3, brakujące środki na sfinansowanie tej pomocy pokrywa się z budżetu państwa w kwocie nie wyższej niż kwota środków, o której mowa w art. 2 rozporządzenia 2016/1613.
-” ;
+W przypadku gdy łączna wysokość pomocy finansowej wynikająca z rozpatrzonych wniosków o udzielenie pomocy, o której mowa w § 2 ust. 1 pkt 4, jest większa niż suma kwoty środków, o której mowa w § 2 ust. 2 pkt 3, brakujące środki na sfinansowanie tej pomocy pokrywa się z budżetu państwa w kwocie nie wyższej niż kwota środków, o której mowa w art. 2 rozporządzenia 2016/1613. ” ;
 13)
-§ 31 otrzymuje brzmienie:
-„
+§ 31 otrzymuje brzmienie: „
 § 31.
-Środki finansowe z tytułu pomocy, o której mowa w § 2 ust. 1 oraz w § 2a ust. 1 i 2, wypłaca się w terminie 21 dni od dnia wydania decyzji administracyjnej, o której mowa w § 4 ust. 1 albo 2, nie później niż do dnia 30 września 2017 r., na rachunek bankowy producenta mleka, producenta świń lub producenta owiec wskazany we wniosku o płatność albo wniosku o udzielenie pomocy, zawarty w centralnym rejestrze przedsiębiorców, o którym mowa w art. 22 ust. 1 ustawy o Agencji.
-” ;
+Środki finansowe z tytułu pomocy, o której mowa w § 2 ust. 1 oraz w § 2a ust. 1 i 2, wypłaca się w terminie 21 dni od dnia wydania decyzji administracyjnej, o której mowa w § 4 ust. 1 albo 2, nie później niż do dnia 30 września 2017 r., na rachunek bankowy producenta mleka, producenta świń lub producenta owiec wskazany we wniosku o płatność albo wniosku o udzielenie pomocy, zawarty w centralnym rejestrze przedsiębiorców, o którym mowa w art. 22 ust. 1 ustawy o Agencji. ” ;
 14)
-w § 33 ust. 1 otrzymuje brzmienie:
-„
+w § 33 ust. 1 otrzymuje brzmienie: „
 1.
-Dyrektor oddziału terenowego Agencji przeprowadza kontrole producentów mleka, producentów świń oraz producentów owiec w zakresie spełniania przez tych producentów warunków otrzymania pomocy oraz wywiązywania się przez producentów mleka, producentów świń oraz producentów owiec ze zobowiązań określonych w warunkach udzielenia pomocy.
-” ;
+Dyrektor oddziału terenowego Agencji przeprowadza kontrole producentów mleka, producentów świń oraz producentów owiec w zakresie spełniania przez tych producentów warunków otrzymania pomocy oraz wywiązywania się przez producentów mleka, producentów świń oraz producentów owiec ze zobowiązań określonych w warunkach udzielenia pomocy. ” ;
 15)
 w § 34:
 a)
 w ust. 1:
 – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku niespełnienia przez producenta mleka, producenta świń lub producenta owiec zobowiązania, o którym mowa w: ” ,
-– dodaje się pkt 7 w brzmieniu: „ 7) § 21a ust. 1 pkt 3 lub w § 21d ust. 1 pkt 4 – zwrotowi podlega 2,8% kwoty pomocy wypłaconej do zakupionego jagnięcia, owcy albo jałówki hodowlanej rasy mlecznej za każdy rozpoczęty miesiąc niespełniania tego zobowiązania, za każde jagnię, owcę albo jałówkę hodowlaną rasy mlecznej, odnośnie do których zobowiązanie to nie jest spełniane, licząc od dnia 31 lipca 2017 r., nie więcej jednak niż 100% uzyskanej pomocy. ” ,
+dodaje się pkt 7 w brzmieniu: „
+7)
+§ 21a ust. 1 pkt 3 lub w § 21d ust. 1 pkt 4 – zwrotowi podlega 2,8% kwoty pomocy wypłaconej do zakupionego jagnięcia, owcy albo jałówki hodowlanej rasy mlecznej za każdy rozpoczęty miesiąc niespełniania tego zobowiązania, za każde jagnię, owcę albo jałówkę hodowlaną rasy mlecznej, odnośnie do których zobowiązanie to nie jest spełniane, licząc od dnia 31 lipca 2017 r., nie więcej jednak niż 100% uzyskanej pomocy. ” ,
 b)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Do okresu niespełniania zobowiązań, o których mowa w § 5 ust. 1 pkt 4 lit. a i b albo w § 14 ust. 1 pkt 4 lit. a i b, albo w § 21a ust. 1 pkt 3, albo w § 21d ust. 1 pkt 4, nie wlicza się okresu od dnia padnięcia, poddania ubojowi z konieczności lub sprzedaży zwierzęcia, w przypadkach, o których mowa w § 35 ust. 2 pkt 1 lub 2, do dnia zakupu zwierzęcia w celu spełnienia tych zobowiązań.
-” ;
+Do okresu niespełniania zobowiązań, o których mowa w § 5 ust. 1 pkt 4 lit. a i b albo w § 14 ust. 1 pkt 4 lit. a i b, albo w § 21a ust. 1 pkt 3, albo w § 21d ust. 1 pkt 4, nie wlicza się okresu od dnia padnięcia, poddania ubojowi z konieczności lub sprzedaży zwierzęcia, w przypadkach, o których mowa w § 35 ust. 2 pkt 1 lub 2, do dnia zakupu zwierzęcia w celu spełnienia tych zobowiązań. ” ;
 16)
 w § 35:
 a)
 w ust. 1:
-– pkt 1 otrzymuje brzmienie: „ 1) producenta mleka, którego dotyczy zobowiązanie, o którym mowa w § 5 ust. 1 pkt 4 lit. a lub b albo w § 21a ust. 1 pkt 3, albo w § 21d ust. 1 pkt 4, albo ” ,
-– pkt 2 otrzymuje brzmienie: „ 2) producenta świń, którego dotyczy zobowiązanie, o którym mowa w § 9 ust. 1 pkt 3 lit. b albo w § 14 ust. 1 pkt 4 lit. a lub b, albo w § 21a ust. 1 pkt 3, albo ”
-– dodaje się pkt 3 w brzmieniu: „ 3) producenta owiec, którego dotyczy zobowiązanie, o którym mowa w § 21a ust. 1 pkt 3. ” ,
+pkt 1 otrzymuje brzmienie: „
+1)
+producenta mleka, którego dotyczy zobowiązanie, o którym mowa w § 5 ust. 1 pkt 4 lit. a lub b albo w § 21a ust. 1 pkt 3, albo w § 21d ust. 1 pkt 4, albo ” ,
+pkt 2 otrzymuje brzmienie: „
+2)
+producenta świń, którego dotyczy zobowiązanie, o którym mowa w § 9 ust. 1 pkt 3 lit. b albo w § 14 ust. 1 pkt 4 lit. a lub b, albo w § 21a ust. 1 pkt 3, albo ”
+dodaje się pkt 3 w brzmieniu: „
+3)
+producenta owiec, którego dotyczy zobowiązanie, o którym mowa w § 21a ust. 1 pkt 3. ” ,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
 W przypadku gdy:
 1)
 zwierzę padło albo zostało poddane ubojowi z konieczności, producent mleka, producent świń lub producent owiec, któremu udzielono pomocy, o której mowa w § 2 ust. 1 pkt 1 lub 3 lub w § 2a ust. 1 pkt 1 lub 2, jest obowiązany do zakupu jałówki, buhaja, jagnięcia, owcy lub jałówki hodowlanej rasy mlecznej, w terminie 60 dni odpowiednio od dnia, w którym zwierzę padło albo zostało poddane ubojowi z konieczności, w celu spełnienia zobowiązań, o których mowa w § 5 ust. 1 pkt 4 lit. a i b albo w § 14 ust. 1 pkt 4 lit. a i b, albo w § 21a ust. 1 pkt 3, albo w § 21d ust. 1 pkt 4;
 2)
-lekarz weterynarii stwierdził niepłodność jałówki lub jałówki hodowlanej rasy mlecznej mających nie mniej niż 24 miesiące, do których udzielono pomocy, o której mowa w § 2 ust. 1 pkt 1 albo 3 albo w § 2a ust. 1 pkt 2, producent mleka albo producent świń może sprzedać tę jałówkę lub jałówkę hodowlaną rasy mlecznej, przy czym w celu spełnienia zobowiązań, o których mowa w § 5 ust. 1 pkt 4 lit. a albo w § 14 ust. 1 pkt 4 lit. a, albo w § 21d ust. 1 pkt 4, jest on obowiązany do zakupu nowej jałówki lub jałówki hodowlanej rasy mlecznej, w terminie 60 dni od dnia sprzedaży jałówki lub jałówki hodowlanej rasy mlecznej, u której stwierdzono niepłodność.
-” ,
+lekarz weterynarii stwierdził niepłodność jałówki lub jałówki hodowlanej rasy mlecznej mających nie mniej niż 24 miesiące, do których udzielono pomocy, o której mowa w § 2 ust. 1 pkt 1 albo 3 albo w § 2a ust. 1 pkt 2, producent mleka albo producent świń może sprzedać tę jałówkę lub jałówkę hodowlaną rasy mlecznej, przy czym w celu spełnienia zobowiązań, o których mowa w § 5 ust. 1 pkt 4 lit. a albo w § 14 ust. 1 pkt 4 lit. a, albo w § 21d ust. 1 pkt 4, jest on obowiązany do zakupu nowej jałówki lub jałówki hodowlanej rasy mlecznej, w terminie 60 dni od dnia sprzedaży jałówki lub jałówki hodowlanej rasy mlecznej, u której stwierdzono niepłodność. ” ,
 c)
 w ust. 3:
 – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadkach, o których mowa w ust. 2, producent mleka, producent świń lub producent owiec jest obowiązany do przechowywania do dnia 31 grudnia 2021 r. kopii: ” ,
-– pkt 3 otrzymuje brzmienie: „ 3) zaświadczenia lekarza weterynarii stwierdzającego niepłodność jałówki lub jałówki hodowlanej rasy mlecznej – w przypadku, o którym mowa w ust. 2 pkt 2. ” ,
+pkt 3 otrzymuje brzmienie: „
+3)
+zaświadczenia lekarza weterynarii stwierdzającego niepłodność jałówki lub jałówki hodowlanej rasy mlecznej – w przypadku, o którym mowa w ust. 2 pkt 2. ” ,
 d)
-ust. 4 i 5 otrzymują brzmienie:
-„
+ust. 4 i 5 otrzymują brzmienie: „
 4.
-W przypadku gdy po wypłacie pomocy, o której mowa w § 2 ust. 1 pkt 1–3 oraz w § 2a ust. 1, nastąpi przeniesienie posiadania gospodarstwa producenta mleka, producenta świń lub producenta owiec, o których mowa w § 2 ust. 1 pkt 1–3 oraz w § 2a ust. 1, zobowiązania, o których mowa w § 5 ust. 1 pkt 4, § 9 ust. 1 pkt 3, § 14 ust. 1 pkt 4, § 21a ust. 1 pkt 3 lub § 21d ust. 1 pkt 4, uważa się za spełnione, jeżeli następca prawny każdego z tych producentów złoży oświadczenie, w którym zobowiąże się na piśmie do ich spełnienia. 5. Do oświadczeń, w których następca prawny zobowiąże się do spełnienia zobowiązań, o których mowa w § 5 ust. 1 pkt 4, § 9 ust. 1 pkt 3, § 14 ust. 1 pkt 4, § 21a ust. 1 pkt 3 oraz § 21d ust. 1 pkt 4, stosuje się przepisy § 7 ust. 3 i 4.
-” ;
+W przypadku gdy po wypłacie pomocy, o której mowa w § 2 ust. 1 pkt 1–3 oraz w § 2a ust. 1, nastąpi przeniesienie posiadania gospodarstwa producenta mleka, producenta świń lub producenta owiec, o których mowa w § 2 ust. 1 pkt 1–3 oraz w § 2a ust. 1, zobowiązania, o których mowa w § 5 ust. 1 pkt 4, § 9 ust. 1 pkt 3, § 14 ust. 1 pkt 4, § 21a ust. 1 pkt 3 lub § 21d ust. 1 pkt 4, uważa się za spełnione, jeżeli następca prawny każdego z tych producentów złoży oświadczenie, w którym zobowiąże się na piśmie do ich spełnienia. 5. Do oświadczeń, w których następca prawny zobowiąże się do spełnienia zobowiązań, o których mowa w § 5 ust. 1 pkt 4, § 9 ust. 1 pkt 3, § 14 ust. 1 pkt 4, § 21a ust. 1 pkt 3 oraz § 21d ust. 1 pkt 4, stosuje się przepisy § 7 ust. 3 i 4. ” ;
 17)
-§ 36 otrzymuje brzmienie:
-„
+§ 36 otrzymuje brzmienie: „
 § 36.
-W przypadku niespełnienia przez następcę prawnego, o którym mowa w § 35 ust. 4, zobowiązań określonych w § 5 ust. 1 pkt 4, § 9 ust. 1 pkt 3, § 14 ust. 1 pkt 4, § 21a ust. 1 pkt 3 oraz § 21d ust. 1 pkt 4, do zwrotu pomocy przez następcę prawnego stosuje się przepisy § 34 ust. 1 pkt 1–5 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-” .
+W przypadku niespełnienia przez następcę prawnego, o którym mowa w § 35 ust. 4, zobowiązań określonych w § 5 ust. 1 pkt 4, § 9 ust. 1 pkt 3, § 14 ust. 1 pkt 4, § 21a ust. 1 pkt 3 oraz § 21d ust. 1 pkt 4, do zwrotu pomocy przez następcę prawnego stosuje się przepisy § 34 ust. 1 pkt 1–5 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem. ” .
 § 2.
 Do postępowań w sprawach o udzielenie pomocy wszczętych na podstawie rozporządzenia zmienianego w § 1 i niezakończonych decyzją ostateczną do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.

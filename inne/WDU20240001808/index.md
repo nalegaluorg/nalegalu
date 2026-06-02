@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 4 grudnia 2024 r. w sprawie udzielania pomocy na naprawienie szkód spowodowanych przez powódź, która miała miejsce we wrześniu 2024 r., ze środków instrumentów inżynierii finansowej oraz środków instrumentów finansowych podlegających ponownemu wykorzystaniu
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 4 grudnia 2024 r. w sprawie udzielania pomocy na naprawienie szkód spowodowanych przez powódź, która miała miejsce we wrześniu 2024 r., ze środków instrumentów inżynierii finansowej oraz środków instrumentów finansowych podlegających ponownemu wykorzystaniu Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-04 |
 | Data wydania | 2024-12-09 |
-| Wejście w życie | 2024-12-10 |
 | Ostatnia zmiana | 2024-12-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001808) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1808/text.pdf) |
 
@@ -31,10 +30,9 @@ Na podstawie art. 36a ust. 2 ustawy z dnia 16 września 2011 r. o szczególnych 
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom, ze środków, o których mowa w art. 3b pkt 1 i 2 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r. poz. 324, 862 i 1717), zwanej dalej „ustawą”, pomocy mającej na celu naprawienie szkód spowodowanych przez powódź, która miała miejsce we wrześniu 2024 r. na obszarach, na których wprowadzono stan klęski żywiołowej zgodnie z przepisami wydanymi na podstawie art. 5 ust. 1 i 2 ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. z 2017 r. poz. 1897 oraz z 2024 r. poz. 1717), zwanej dalej „pomocą”, do której mają zastosowanie:
 1)
-przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”, lub
+przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1., zwanego dalej „rozporządzeniem nr 651/2014”, lub
 2)
-przepisy rozporządzenia Komisji (UE) 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 2023/2831 z 15.12.2023), zwanego dalej „rozporządzeniem 2023/2831”
-a także podmioty udzielające tej pomocy.
+przepisy rozporządzenia Komisji (UE) 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 2023/2831 z 15.12.2023), zwanego dalej „rozporządzeniem 2023/2831” – a także podmioty udzielające tej pomocy.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -155,6 +153,5 @@ pkt 1 – jest udzielana do końca okresu dostosowawczego, o którym mowa w art.
 2)
 pkt 2 – jest udzielana do dnia 31 grudnia 2030 r.
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.
 

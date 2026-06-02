@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 18 października 2024 r. o świadczeniu honorowym z tytułu ukończenia 100 lat życia
+# Ustawa z dnia 18 października 2024 r. o świadczeniu honorowym z tytułu ukończenia 100 lat życia Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawę z dnia 26 lipca 2024 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-18 |
 | Data wydania | 2024-11-15 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2026-02-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001674) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1674/text.pdf) |
 
@@ -49,7 +48,7 @@ source: "eli-html"
 
 **Art. 3.**
 
-1. W przypadku gdy osoba posiadająca obywatelstwo polskie, która ukończyła 100 lat życia, nie ma prawa do świadczenia, o którym mowa w art. 2, świadczenie honorowe przysługuje na jej wniosek, jeżeli osoba ta posiada po ukończeniu 16. roku życia centrum interesów osobistych lub gospodarczych (ośrodek interesów życiowych), o którym mowa w art. 3 ust. 1a pkt 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, z późn. zm.), na terytorium Rzeczypospolitej Polskiej przez okres co najmniej 10 lat.
+1. W przypadku gdy osoba posiadająca obywatelstwo polskie, która ukończyła 100 lat życia, nie ma prawa do świadczenia, o którym mowa w art. 2, świadczenie honorowe przysługuje na jej wniosek, jeżeli osoba ta posiada po ukończeniu 16. roku życia centrum interesów osobistych lub gospodarczych (ośrodek interesów życiowych), o którym mowa w art. 3 ust. 1a pkt 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 858, 859, 863, 1572, 1585, 1593, 1615 i 1635.), na terytorium Rzeczypospolitej Polskiej przez okres co najmniej 10 lat.
 
 2. Wniosek, o którym mowa w ust. 1, składa się do Zakładu Ubezpieczeń Społecznych.
 
@@ -156,5 +155,5 @@ source: "eli-html"
 
 **Art. 15.** Osobom, które przed dniem wejścia w życie niniejszej ustawy ukończyły 100 lat życia i na dzień 31 grudnia 2024 r. mają prawo do świadczenia, o którym mowa w art. 2, przyznaje się z urzędu świadczenie honorowe od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 16.** Ustawa wchodzi w życie z dniem 1 stycznia 2025 r.
+**Art. 16.** Ustawa wchodzi w życie z dniem 1 stycznia 2025 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawę z dnia 26 lipca 2024 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 858, 859, 863, 1572, 1585, 1593, 1615 i 1635.
 

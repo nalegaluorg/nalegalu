@@ -8,10 +8,10 @@ pos: 1396
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Rozporządzenie Prezesa Rady Ministrówz dnia 3 grudnia 2012 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu działania Ministra Transportu, Budownictwa i Gospodarki Morskiej
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 grudnia 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-03 |
 | Data wydania | 2012-12-12 |
-| Wejście w życie | 2013-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001396) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1396/text.pdf) |
 
-Treść rozporządzenia
-Na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392) zarządza się, co następuje:
-§ 1.
-W rozporządzeniu Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Transportu, Budownictwa i Gospodarki Morskiej (Dz. U. Nr 248, poz. 1494) w § 1 w ust. 2 pkt 1 otrzymuje brzmienie:
-„
-1)
-budownictwo, lokalne planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo;
-” .
-§ 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
+Poz. 1396 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 3 grudnia 2012 r.
+zmieniające rozporządzenie w sprawie szczegółowego zakresu działania Ministra Transportu, Budownictwa i Gospodarki Morskiej Na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392) zarządza się, co następuje: § 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Transportu, Budownictwa i Gospodarki Morskiej (Dz. U. Nr 248, poz. 1494) w § 1 w ust. 2 pkt 1 otrzymuje brzmienie: „1) budownictwo, lokalne planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo;”.
+§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
+Prezes Rady Ministrów: D. Tusk
 

@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-12 |
 | Data wydania | 2024-07-15 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2024-07-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001044) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1044/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 9 ust. 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 9 ust. 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1693, 1938 i 2760 oraz z 2024 r. poz. 743, 858 i 859.) zarządza się, co następuje:
 § 1.
 Ustala się następujące zweryfikowane kryteria dochodowe, kwoty świadczeń pieniężnych z pomocy społecznej oraz kwotę dochodu z 1 ha przeliczeniowego:
 1)
@@ -51,5 +50,5 @@ kwotę dochodu z 1 ha przeliczeniowego – w wysokości 459 zł.
 § 2.
 Traci moc rozporządzenie Rady Ministrów z dnia 14 lipca 2021 r. w sprawie zweryfikowanych kryteriów dochodowych oraz kwot świadczeń pieniężnych z pomocy społecznej (Dz. U. poz. 1296).
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1693, 1938 i 2760 oraz z 2024 r. poz. 743, 858 i 859.
 

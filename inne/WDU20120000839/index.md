@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-07-10 |
 | Data wydania | 2012-07-23 |
-| Wejście w życie | 2012-07-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000839) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/839/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 8c ust. 8 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 8c ust. 8 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804 oraz z 2011 r. Nr 34, poz. 170, Nr 94, poz. 549, Nr 208, poz. 1241 i Nr 224, poz. 1337.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -99,7 +98,7 @@ Ocena merytoryczna doświadczenia oraz kwalifikacji zawodowych kandydatów, niez
 2.
 Do udziału w drugim etapie naboru dopuszcza się kandydatów spełniających warunki formalne określone w ogłoszeniu o naborze oraz których aplikacje otrzymały nie mniej niż 60% punktów możliwych do uzyskania w trakcie oceny merytorycznej doświadczenia oraz kwalifikacji zawodowych kandydatów, niezbędnych do wykonywania zadań dyrektora parku narodowego.
 3.
-Komisja konkursowa w terminie 7 dni od dnia podjęcia rozstrzygnięcia o dopuszczeniu lub niedopuszczeniu do kolejnego etapu konkursu powiadamia o tym kandydatów listem poleconym za zwrotnym potwierdzeniem odbioru lub pocztą elektroniczną na warunkach określonych w art. 391 § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.), informując jednocześnie o terminie i miejscu przeprowadzenia drugiego etapu naboru.
+Komisja konkursowa w terminie 7 dni od dnia podjęcia rozstrzygnięcia o dopuszczeniu lub niedopuszczeniu do kolejnego etapu konkursu powiadamia o tym kandydatów listem poleconym za zwrotnym potwierdzeniem odbioru lub pocztą elektroniczną na warunkach określonych w art. 391 § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539, z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 254, poz. 1700 oraz z 2011 r. Nr 6, poz. 18, Nr 34, poz. 173, Nr 106, poz. 622 i Nr 186, poz. 1100.), informując jednocześnie o terminie i miejscu przeprowadzenia drugiego etapu naboru.
 § 7.
 1.
 Sprawdzenie wiedzy kandydatów, o której mowa w § 5 ust. 3, odbywa się w formie pisemnego testu wiedzy.
@@ -189,5 +188,5 @@ Komisja konkursowa ulega rozwiązaniu po przekazaniu protokołu końcowego, o kt
 10.
 W przypadku ogłoszenia ponownego naboru na stanowisko dyrektora parku narodowego, jeżeli w przewidzianym terminie nie wpłynęły żadne aplikacje albo jeżeli nie został wybrany kandydat lub żaden z kandydatów nie uzyskał co najmniej 60% punktów możliwych do uzyskania w trakcie naboru, nabór jest przeprowadzany przez komisję konkursową powołaną do przeprowadzenia pierwszego naboru.
 § 16.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804 oraz z 2011 r. Nr 34, poz. 170, Nr 94, poz. 549, Nr 208, poz. 1241 i Nr 224, poz. 1337. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539, z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 254, poz. 1700 oraz z 2011 r. Nr 6, poz. 18, Nr 34, poz. 173, Nr 106, poz. 622 i Nr 186, poz. 1100.
 

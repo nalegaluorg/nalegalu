@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 24 października 2017 r. w sprawie sposobu ustalania nadwyżki środków finansowych Agencji Mienia Wojskowego (Dz. U. poz. 2032), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Obrony Narodowej z dnia 12 sierpnia 2019 r. zmieniającym rozporządzenie w sprawie sposobu ustalania nadwyżki środków finansowych Agencji Mienia Wojskowego (Dz. U. poz. 1705).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 12 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie sposobu ustalania nadwyżki środków finansowych Agencji Mienia Wojskowego (Dz. U. poz. 1705), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 12 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie sposobu ustalania nadwyżki środków finansowych Agencji Mienia Wojskowego (Dz. U. poz. 1705), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 24 października 2017 r. w sprawie sposobu ustalania nadwyżki środków finansowych Agencji Mienia Wojskowego
 Na podstawie art. 22 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, 1622, 1649 i 2020) zarządza się, co następuje:
 § 1.
@@ -57,11 +55,11 @@ kaucji gwarancyjnych i zabezpieczeń należytego wykonania umów;
 przedpłat dokonanych przez kontrahentów Agencji, które znajdują się na rachunkach bankowych Agencji na koniec danego roku budżetowego, w tym przedpłat dokonywanych na rzecz Agencji w ramach realizacji zadań z obszaru obronności i bezpieczeństwa państwa;
 5)
 nadpłat i wpłat omyłkowych dokonanych przez kontrahentów Agencji;
-6)
-środków zgromadzonych na rachunku VAT, o którym mowa w art. 62a ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, z późn. zm.).
+6Dodany przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 12 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie sposobu ustalania nadwyżki środków finansowych Agencji Mienia Wojskowego (Dz. U. poz. 1705), które weszło w życie z dniem 21 września 2019 r.)
+środków zgromadzonych na rachunku VAT, o którym mowa w art. 62a ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074, 1358, 1495, 1501, 1520, 1622, 1649, 1667, 1696, 1751, 2020 i 2070.).
 4.
 Przy ustalaniu nadwyżki środków finansowych środki podlegające rozliczeniu pomniejsza się o ustalone na koniec roku budżetowego:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.)
 zobowiązania podatkowe, z wyłączeniem zobowiązań podatkowych, które będą sfinansowane ze środków określonych w ust. 3 pkt 6;
 2)
 zobowiązania z tytułu odpisów na Fundusz Modernizacji Sił Zbrojnych i Fundusz Modernizacji Bezpieczeństwa Publicznego;
@@ -72,5 +70,5 @@ zobowiązania wymagalne z terminem płatności do dnia 31 marca roku następnego
 § 3.
 Rozporządzenie ma zastosowanie po raz pierwszy do ustalania nadwyżki środków finansowych Agencji za 2016 r.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 2 listopada 2017 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 10 grudnia 2012 r. w sprawie sposobu ustalania nadwyżki środków finansowych Wojskowej Agencji Mieszkaniowej (Dz. U. poz. 1432), które na podstawie art. 136 ust. 5 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2017 r. poz. 1456) utraciło moc z dniem 2 października 2016 r. 1) Dodany przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 12 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie sposobu ustalania nadwyżki środków finansowych Agencji Mienia Wojskowego (Dz. U. poz. 1705), które weszło w życie z dniem 21 września 2019 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074, 1358, 1495, 1501, 1520, 1622, 1649, 1667, 1696, 1751, 2020 i 2070. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 4) Rozporządzenie zostało ogłoszone w dniu 2 listopada 2017 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 10 grudnia 2012 r. w sprawie sposobu ustalania nadwyżki środków finansowych Wojskowej Agencji Mieszkaniowej (Dz. U. poz. 1432), które na podstawie art. 136 ust. 5 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2017 r. poz. 1456) utraciło moc z dniem 2 października 2016 r.
 

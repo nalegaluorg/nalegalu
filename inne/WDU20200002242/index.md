@@ -37,18 +37,14 @@ rozporządzeniem Ministra Zdrowia z dnia 27 listopada 2018 r. zmieniającym rozp
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Zdrowia z dnia 26 kwietnia 2010 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu i sposobu działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego (Dz. U. poz. 552), który stanowi:
-„
+§ 2 rozporządzenia Ministra Zdrowia z dnia 26 kwietnia 2010 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu i sposobu działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego (Dz. U. poz. 552), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Zdrowia z dnia 27 listopada 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu i sposobu działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego (Dz. U. poz. 2281), który stanowi:
-„
+§ 2 rozporządzenia Ministra Zdrowia z dnia 27 listopada 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu i sposobu działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego (Dz. U. poz. 2281), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 13 stycznia 2006 r. w sprawie szczegółowego trybu i sposobu działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 13 stycznia 2006 r. w sprawie szczegółowego trybu i sposobu działania Rzecznika Praw Pacjenta Szpitala PsychiatrycznegoMinister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 Na podstawie art. 10b ust. 6 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2020 r. poz. 685) zarządza się, co następuje:
 § 1.
 1.
@@ -63,7 +59,7 @@ pomoc w sporządzeniu i złożeniu skargi do kierownika szpitala psychiatryczneg
 udzielanie pomocy pacjentowi wypisanemu ze szpitala psychiatrycznego, jeśli skarga została złożona w trakcie pobytu pacjenta w szpitalu psychiatrycznym, a procedura rozpatrywania skargi nie została zakończona.
 2.
 Rzecznik przed rozpoczęciem postępowania wyjaśniającego w związku z ustną lub pisemną skargą informuje pacjenta o zakresie swoich kompetencji.
-§ 2.
+§ 2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 27 listopada 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu i sposobu działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego (Dz. U. poz. 2281), które weszło w życie z dniem 22 grudnia 2018 r..
 Rzecznik wykonuje czynności, o których mowa w § 1, w oddziałach psychiatrycznych w szpitalach ogólnych, klinikach psychiatrycznych, sanatoriach dla osób z zaburzeniami psychicznymi i innych zakładach leczniczych sprawujących całodobową opiekę psychiatryczną lub odwykową, przy czym swoim działaniem obejmuje obszar terytorialny nie większy niż trzy sąsiadujące ze sobą województwa, w zależności od rozmieszczenia tych zakładów.
 § 3.
 Rzecznik, z własnej inicjatywy, dokonuje oceny przestrzegania praw pacjentów, w szczególności w odniesieniu do pacjentów:
@@ -92,14 +88,13 @@ indywidualną, odnoszącą się do skarg lub pytań poszczególnych pacjentów;
 zbiorczą, dotyczącą poszczególnych rodzajów skarg lub pytań.
 3.
 Przechowywanie i ochrona dokumentacji odbywa się zgodnie z przepisami o dokumentacji medycznej.
-§ 6.
+§ 6W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 26 kwietnia 2010 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu i sposobu działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego (Dz. U. poz. 552), które weszło w życie z dniem 2 czerwca 2010 r..
 Rzecznik przedstawia Rzecznikowi Praw Pacjenta okresowe informacje dotyczące przestrzegania praw pacjenta oraz działań podejmowanych w tym zakresie, nie rzadziej niż 2 razy w roku, a także w przypadku zażądania informacji przez Rzecznika Praw Pacjenta.
 § 7.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Rzecznik umieszcza na tablicach informacyjnych w oddziałach psychiatrycznych w szpitalach ogólnych, klinikach psychiatrycznych, sanatoriach dla osób z zaburzeniami psychicznymi i innych zakładach leczniczych sprawujących całodobową opiekę psychiatryczną lub odwykową informację o możliwości korzystania z pomocy Rzecznika przez pacjenta, jego przedstawiciela ustawowego, opiekuna prawnego lub osobę sprawującą faktyczną opiekę nad pacjentem.
 2.
 Na tablicach informacyjnych umieszcza się dni, godziny i miejsca przyjęć Rzecznika.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 27 listopada 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu i sposobu działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego (Dz. U. poz. 2281), które weszło w życie z dniem 22 grudnia 2018 r. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 26 kwietnia 2010 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu i sposobu działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego (Dz. U. poz. 552), które weszło w życie z dniem 2 czerwca 2010 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Rozporządzenie zostało ogłoszone w dniu 31 stycznia 2006 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 31 stycznia 2006 r.. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 27 listopada 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu i sposobu działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego (Dz. U. poz. 2281), które weszło w życie z dniem 22 grudnia 2018 r. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 26 kwietnia 2010 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu i sposobu działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego (Dz. U. poz. 552), które weszło w życie z dniem 2 czerwca 2010 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Rozporządzenie zostało ogłoszone w dniu 31 stycznia 2006 r.
 

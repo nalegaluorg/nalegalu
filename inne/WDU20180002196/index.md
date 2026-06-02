@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-22 |
 | Data wydania | 2018-11-23 |
-| Wejście w życie | 2018-11-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002196) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2196/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 5 § 3 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2017 r. poz. 2291, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 5 § 3 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2017 r. poz. 2291, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 398, 723, 1496, 1629, 1669 i 2193.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 28 czerwca 2004 r. w sprawie maksymalnych stawek taksy notarialnej (Dz. U. z 2018 r. poz. 272) po § 10a dodaje się § 10b w brzmieniu:
-„
+W rozporządzeniu Ministra Sprawiedliwości z dnia 28 czerwca 2004 r. w sprawie maksymalnych stawek taksy notarialnej (Dz. U. z 2018 r. poz. 272) po § 10a dodaje się § 10b w brzmieniu: „
 § 10b.
 1.
 Za sporządzenie aktu powołania zarządcy sukcesyjnego lub aktu odwołania zarządcy sukcesyjnego maksymalna stawka wynosi 50 zł.
@@ -39,8 +37,7 @@ Za sporządzenie oświadczenia o zgodzie na powołanie zarządcy sukcesyjnego, o
 3.
 Za sporządzenie protokołu powołania zarządcy sukcesyjnego lub protokołu odwołania zarządcy sukcesyjnego maksymalna stawka wynosi 100 zł.
 4.
-Za sporządzenie protokołu rezygnacji zarządcy sukcesyjnego maksymalna stawka wynosi 50 zł.
-” .
+Za sporządzenie protokołu rezygnacji zarządcy sukcesyjnego maksymalna stawka wynosi 50 zł. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 25 listopada 2018 r.
+Rozporządzenie wchodzi w życie z dniem 25 listopada 2018 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 398, 723, 1496, 1629, 1669 i 2193.
 

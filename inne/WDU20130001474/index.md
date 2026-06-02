@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-08 |
 | Data wydania | 2013-12-09 |
-| Wejście w życie | 2014-03-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001474) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1474/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407, z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110, z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 204, poz. 1195 oraz z 2012 r. poz. 473 i 908.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1: ust. 2 otrzymuje brzmienie: „
     - **a)**
@@ -37,7 +36,7 @@ source: "eli-html"
 
 3. Przepisów ustawy w zakresie przekazywania informacji publicznej do centralnego repozytorium oraz jej udostępniania w tym repozytorium nie stosuje się do:
 
-- **1)** centralnej bazy danych ksiąg wieczystych, o której mowa w art. 363 ust. 1 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm.),
+- **1)** centralnej bazy danych ksiąg wieczystych, o której mowa w art. 363 ust. 1 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 830, 941 i 1289.),
 - **2)** Krajowego Rejestru Karnego, o którym mowa w art. 1 ustawy z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2012 r. poz. 654 i 1514),
 - **3)** Krajowego Rejestru Sądowego, o którym mowa w art. 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2013 r. poz. 1203) oraz elektronicznego katalogu dokumentów spółek, o którym mowa w art. 4 ust. 2 pkt 1 tej ustawy,
 - **4)** rejestru zastawów, o którym mowa w art. 36 ust. 1 ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. z 2009 r. Nr 67, poz. 569, Nr 69, poz. 595 i Nr 215, poz. 1663). ” ;
@@ -107,5 +106,5 @@ source: "eli-html"
 
 6. Rada Ministrów określi, w drodze rozporządzenia, sposób weryfikacji, o której mowa w ust. 4, sposób przetwarzania i udostępniania w centralnym repozytorium zasobów informacyjnych i metadanych, o których mowa w art. 9a ust. 2, oraz standardy techniczne prowadzenia centralnego repozytorium, minimalny zestaw elementów metadanych, o których mowa w art. 9a ust. 2, uwzględniając zasadę neutralności technologicznej, konieczność zapewnienia przeszukiwalności, dostępności informacji jak najszerszej grupie użytkowników, możliwość zastosowania automatyzacji procesów oraz potrzebę zapewnienia ich użyteczności i efektywności. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407, z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110, z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 204, poz. 1195 oraz z 2012 r. poz. 473 i 908. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 830, 941 i 1289.
 

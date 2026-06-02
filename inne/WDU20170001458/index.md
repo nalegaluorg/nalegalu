@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-07 |
 | Data wydania | 2017-07-31 |
-| Wejście w życie | 2017-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001458) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1458/text.pdf) |
 
@@ -40,7 +39,7 @@ source: "eli-html"
 
 - **1)** wydanie,
 - **2)** zmianę danych stanowiących podstawę wydania,
-- **3)** zmianę terminu ważności pozwolenia, o którym mowa w art. 33a ust. 1, podmiot odpowiedzialny w rozumieniu art. 2 pkt 24 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne składa do Prezesa Urzędu.
+- **3)** zmianę terminu ważności – pozwolenia, o którym mowa w art. 33a ust. 1, podmiot odpowiedzialny w rozumieniu art. 2 pkt 24 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne składa do Prezesa Urzędu.
 
 2. Do wniosku i pozwolenia, o których mowa w ust. 1, przepisy art. 10, art. 18, art. 23 ust. 1, art. 29 ust. 1, art. 30 ust. 1, art. 31 ust. 1, art. 33 ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne oraz przepisy art. 36 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne dotyczące pozwoleń, o których mowa w art. 20 tej ustawy, stosuje się odpowiednio.
 

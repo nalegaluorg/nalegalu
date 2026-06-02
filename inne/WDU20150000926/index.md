@@ -37,23 +37,19 @@ rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 11 grudnia 2014 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 i § 3 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 17 czerwca 2014 r. zmieniającego rozporządzenie w sprawie określenia rodzajów zadań powiatu, które mogą być finansowane ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych (Dz. U. poz. 808), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 17 czerwca 2014 r. zmieniającego rozporządzenie w sprawie określenia rodzajów zadań powiatu, które mogą być finansowane ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych (Dz. U. poz. 808), które stanowią: „
 § 2.
 Wnioski o dofinansowanie zadań ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, złożone i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia, rozpatruje się na podstawie przepisów rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 11 grudnia 2014 r. zmieniającego rozporządzenie w sprawie określenia rodzajów zadań powiatu, które mogą być finansowane ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych (Dz. U. poz. 1835), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 11 grudnia 2014 r. zmieniającego rozporządzenie w sprawie określenia rodzajów zadań powiatu, które mogą być finansowane ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych (Dz. U. poz. 1835), które stanowią: „
 § 2.
 Do umów o dofinansowanie zaopatrzenia w sprzęt rehabilitacyjny oraz umów o dofinansowanie likwidacji barier architektonicznych, w komunikowaniu się i technicznych, zawartych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
-” .
-Załącznik – Tekst jednolity rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 25 czerwca 2002 r. w sprawie określenia rodzajów zadań powiatów, które mogą być finansowane ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych
-Na podstawie art. 35a ust. 4 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. ” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 25 czerwca 2002 r. w sprawie określenia rodzajów zadań powiatów, które mogą być finansowane ze środków Państwowego Funduszu Rehabilitacji Osób NiepełnosprawnychMinister Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Pracy i Polityki Społecznej (Dz. U. poz. 1260).
+Na podstawie art. 35a ust. 4 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645, z 2014 r. poz. 598, 877, 1198, 1457 i 1873 oraz z 2015 r. poz. 218 i 493.) zarządza się, co następuje:
 § 1.
 1.
 Rozporządzenie określa:
@@ -204,7 +200,7 @@ zaświadczenia o pomocy de minimis otrzymanej w okresie obejmującym bieżący r
 b)
 informacje o każdej pomocy innej niż de minimis , jaką otrzymał w odniesieniu do tych samych kosztów kwalifikujących się do objęcia pomocą oraz na dany projekt inwestycyjny, z którym jest związana pomoc de minimis ,
 c)
-(uchylona);
+(uchylona);Przez § 1 pkt 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 17 czerwca 2014 r. zmieniającego rozporządzenie w sprawie określenia rodzajów zadań powiatu, które mogą być finansowane ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych (Dz. U. poz. 808), które weszło w życie z dniem 19 czerwca 2014 r.
 2)
 pracodawcą prowadzącym zakład pracy chronionej – do wniosku dołącza się:
 a)
@@ -213,7 +209,7 @@ b)
 informację o wysokości oraz sposobie wykorzystania środków zakładowego funduszu rehabilitacji osób niepełnosprawnych za okres trzech miesięcy przed dniem złożenia wniosku,
 c)
 informację, o której mowa w pkt 1.
-7.
+7W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3..
 W przypadku podmiotów, o których mowa w ust. 6 pkt 1, dofinansowanie jest udzielane jako pomoc de minimis zgodnie z warunkami określonymi w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1).
 8.
 Pomoc, o której mowa w ust. 7, nie może być udzielona, jeżeli podmiot otrzymał pomoc inną niż de minimis w odniesieniu do tych samych kosztów kwalifikujących się do objęcia pomocą lub tego samego projektu inwestycyjnego, a łączna kwota pomocy spowodowałaby przekroczenie dopuszczalnej intensywności pomocy.
@@ -230,7 +226,7 @@ Osoba niepełnosprawna może złożyć wniosek o dofinansowanie ze środków Fun
 Właściwa jednostka organizacyjna samorządu terytorialnego w terminie 10 dni od dnia złożenia wniosku informuje podmiot, który złożył wniosek, o występujących we wniosku uchybieniach, które powinny zostać usunięte w terminie 30 dni. Nieusunięcie ich w wyznaczonym terminie powoduje pozostawienie wniosku bez rozpatrzenia.
 3a.
 Właściwa jednostka organizacyjna samorządu terytorialnego rozpatruje wniosek w terminie 30 dni od dnia złożenia kompletnego wniosku. Wniosek o dofinansowanie usług tłumacza języka migowego lub tłumacza-przewodnika rozpatrywany jest niezwłocznie, nie dłużej jednak niż w terminie 7 dni od dnia złożenia kompletnego wniosku.
-3b.
+3bW brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 11 grudnia 2014 r. zmieniającego rozporządzenie w sprawie określenia rodzajów zadań powiatu, które mogą być finansowane ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych (Dz. U. poz. 1835), które weszło w życie z dniem 1 stycznia 2015 r..
 Właściwa jednostka organizacyjna samorządu terytorialnego informuje wnioskodawcę o sposobie rozpatrzenia wniosku w terminie 7 dni od dnia rozpatrzenia kompletnego wniosku.
 4.
 W przypadku gdy właściwa jednostka organizacyjna samorządu terytorialnego poweźmie wątpliwość odnośnie do podanych we wniosku o dofinansowanie danych, w szczególności co do wysokości dochodów i liczby osób pozostających we wspólnym gospodarstwie domowym, mających wpływ na przyznanie dofinansowania, wzywa wnioskodawcę do złożenia w wyznaczonym terminie, nie dłuższym niż 14 dni, licząc od dnia otrzymania wezwania, wyjaśnień w sprawie lub dostarczenia niezbędnych dokumentów.
@@ -245,7 +241,7 @@ zobowiązanie jednostki samorządu terytorialnego do przekazania dofinansowania,
 Wysokość dofinansowania organizacji sportu, kultury, rekreacji i turystyki osób niepełnosprawnych wynosi do 60% kosztów przedsięwzięcia.
 2.
 Wysokość dofinansowania zaopatrzenia:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 5.)
 w sprzęt rehabilitacyjny wynosi do 80% kosztów tego sprzętu, nie więcej jednak niż do wysokości pięciokrotnego przeciętnego wynagrodzenia;
 2)
 w przedmioty ortopedyczne i środki pomocnicze wynosi:
@@ -255,7 +251,7 @@ b)
 do 150% sumy kwoty limitu, o którym mowa w lit. a, wyznaczonego przez ministra właściwego do spraw zdrowia oraz wymaganego udziału własnego osoby niepełnosprawnej w zakupie tych przedmiotów i środków, jeżeli cena zakupu jest wyższa niż ustalony limit.
 3.
 W przypadku osób przebywających w jednostkach organizacyjnych pomocy społecznej wysokość dofinansowania zaopatrzenia w przedmioty ortopedyczne i środki pomocnicze oblicza się przez odjęcie od uzyskanej sumy kwoty, o której mowa w ust. 2 pkt 2 lit. b, opłaty ryczałtowej i częściowej odpłatności do wysokości limitu ceny pokrywanej przez jednostkę organizacyjną pomocy społecznej.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 5..
 Wysokość dofinansowania likwidacji barier architektonicznych, w komunikowaniu się i technicznych wynosi do 95% kosztów przedsięwzięcia, nie więcej jednak niż do wysokości piętnastokrotnego przeciętnego wynagrodzenia.
 5.
 Wysokość dofinansowania szkolenia i przekwalifikowania osób niepełnosprawnych wynosi 100% kosztów szkolenia i przekwalifikowania osoby niepełnosprawnej w placówkach szkolących, nie więcej jednak niż do wysokości dziesięciokrotnego przeciętnego wynagrodzenia.
@@ -295,6 +291,5 @@ Przyznanie osobie niepełnosprawnej dofinansowania ze środków Funduszu na zaop
 § 15.
 (pominięty).
 § 16.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem § 14 ust. 4, który wchodzi w życie z dniem 1 stycznia 2003 r.
-1) Minister Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Pracy i Polityki Społecznej (Dz. U. poz. 1260). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645, z 2014 r. poz. 598, 877, 1198, 1457 i 1873 oraz z 2015 r. poz. 218 i 493. 3) Przez § 1 pkt 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 17 czerwca 2014 r. zmieniającego rozporządzenie w sprawie określenia rodzajów zadań powiatu, które mogą być finansowane ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych (Dz. U. poz. 808), które weszło w życie z dniem 19 czerwca 2014 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 11 grudnia 2014 r. zmieniającego rozporządzenie w sprawie określenia rodzajów zadań powiatu, które mogą być finansowane ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych (Dz. U. poz. 1835), które weszło w życie z dniem 1 stycznia 2015 r. 6) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 5. 7) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 5. 8) Rozporządzenie zostało ogłoszone w dniu 1 lipca 2002 r.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 1 lipca 2002 r., z wyjątkiem § 14 ust. 4, który wchodzi w życie z dniem 1 stycznia 2003 r. 1) Minister Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Pracy i Polityki Społecznej (Dz. U. poz. 1260). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645, z 2014 r. poz. 598, 877, 1198, 1457 i 1873 oraz z 2015 r. poz. 218 i 493. 3) Przez § 1 pkt 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 17 czerwca 2014 r. zmieniającego rozporządzenie w sprawie określenia rodzajów zadań powiatu, które mogą być finansowane ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych (Dz. U. poz. 808), które weszło w życie z dniem 19 czerwca 2014 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 11 grudnia 2014 r. zmieniającego rozporządzenie w sprawie określenia rodzajów zadań powiatu, które mogą być finansowane ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych (Dz. U. poz. 1835), które weszło w życie z dniem 1 stycznia 2015 r. 6) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 5. 7) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 5. 8) Rozporządzenie zostało ogłoszone w dniu 1 lipca 2002 r.
 

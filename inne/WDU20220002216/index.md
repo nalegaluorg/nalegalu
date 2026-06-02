@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 26 października 2022 r. w sprawie Krajowego Komitetu Rozwoju Ekonomii Społecznej
+# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 26 października 2022 r. w sprawie Krajowego Komitetu Rozwoju Ekonomii Społecznej Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-26 |
 | Data wydania | 2022-10-28 |
-| Wejście w życie | 2022-10-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002216) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2216/text.pdf) |
 
@@ -175,6 +174,5 @@ Do zgłaszania kandydatów na członków Krajowego Komitetu pierwszej kadencji s
 2.
 Ogłoszenie o wszczęciu procedury powołania członków Krajowego Komitetu pierwszej kadencji ukaże się w terminie 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 § 16.
-Rozporządzenie wchodzi w życie z dniem 30 października 2022 r.
-1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416).
+Rozporządzenie wchodzi w życie z dniem 30 października 2022 r. 1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416).
 

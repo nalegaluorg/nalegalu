@@ -31,13 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 czerwca 2002 r. w sprawie dokumentów, które uniemożliwiają ustalenie danych identyfikujących funkcjonariusza Straży Granicznej (Dz. U. z 2014 r. poz. 484), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 19 stycznia 2018 r. zmieniającym rozporządzenie w sprawie dokumentów, które uniemożliwiają ustalenie danych identyfikujących funkcjonariusza Straży Granicznej (Dz. U. poz. 207).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 stycznia 2018 r. zmieniającego rozporządzenie w sprawie dokumentów, które uniemożliwiają ustalenie danych identyfikujących funkcjonariusza Straży Granicznej (Dz. U. poz. 207), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 stycznia 2018 r. zmieniającego rozporządzenie w sprawie dokumentów, które uniemożliwiają ustalenie danych identyfikujących funkcjonariusza Straży Granicznej (Dz. U. poz. 207), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r.
-” .
-Załącznik – Tekst jednolity rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 czerwca 2002 r. w sprawie dokumentów, które uniemożliwiają ustalenie danych identyfikujących funkcjonariusza Straży Granicznej
-Na podstawie art. 9c ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365, z późn. zm.) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r. ” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 czerwca 2002 r. w sprawie dokumentów, które uniemożliwiają ustalenie danych identyfikujących funkcjonariusza Straży GranicznejMinister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
+Na podstawie art. 9c ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 650, 730 i 894.) zarządza się, co następuje:
 § 1.
 1.
 Rozporządzenie określa:
@@ -53,7 +51,7 @@ Użyte w rozporządzeniu określenia oznaczają:
 dokumenty – dokumenty, które uniemożliwiają ustalenie danych identyfikujących funkcjonariusza Straży Granicznej przy wykonywaniu czynności operacyjno-rozpoznawczych oraz środków, którymi posługuje się przy wykonywaniu zadań służbowych;
 2)
 funkcjonariusz – funkcjonariusza Straży Granicznej;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 stycznia 2018 r. zmieniającego rozporządzenie w sprawie dokumentów, które uniemożliwiają ustalenie danych identyfikujących funkcjonariusza Straży Granicznej (Dz. U. poz. 207), które weszło w życie z dniem 27 stycznia 2018 r.)
 komórka wydająca dokumenty – jednostkę organizacyjną Straży Granicznej lub komórkę organizacyjną Komendy Głównej Straży Granicznej, wyznaczoną przez Komendanta Głównego Straży Granicznej do wydawania dokumentów;
 4)
 użytkownik – funkcjonariusza uprawnionego do posłużenia się dokumentem.
@@ -64,7 +62,7 @@ Funkcjonariuszowi, w celu zapewnienia ochrony form i metod realizacji zadań, in
 Dokumenty wydaje Komendant Główny Straży Granicznej.
 2.
 Komendant Główny Straży Granicznej może upoważnić swojego zastępcę do wydawania dokumentów w jego imieniu.
-§ 4.
+§ 4W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3..
 Wniosek o wydanie dokumentów, w formie pisemnej, składają za pośrednictwem kierownika komórki wydającej dokumenty:
 1)
 Komendant Biura Spraw Wewnętrznych Straży Granicznej,
@@ -73,8 +71,7 @@ kierownicy komórek organizacyjnych Komendy Głównej Straży Granicznej,
 3)
 komendanci oddziałów Straży Granicznej,
 4)
-komendanci ośrodków Straży Granicznej
-zwani dalej „wnioskodawcami”.
+komendanci ośrodków Straży Granicznej – zwani dalej „wnioskodawcami”.
 § 5.
 Wniosek o wydanie dokumentu zawiera:
 1)
@@ -183,6 +180,5 @@ informację o skreśleniu dokumentu z ewidencji w przypadku jego utraty lub znis
 § 14.
 Przepisy rozporządzenia stosuje się od dnia 16 czerwca 2002 r.
 § 15.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 650, 730 i 894. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 stycznia 2018 r. zmieniającego rozporządzenie w sprawie dokumentów, które uniemożliwiają ustalenie danych identyfikujących funkcjonariusza Straży Granicznej (Dz. U. poz. 207), które weszło w życie z dniem 27 stycznia 2018 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 5) Rozporządzenie zostało ogłoszone w dniu 5 lipca 2002 r.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 5 lipca 2002 r.. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 650, 730 i 894. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 stycznia 2018 r. zmieniającego rozporządzenie w sprawie dokumentów, które uniemożliwiają ustalenie danych identyfikujących funkcjonariusza Straży Granicznej (Dz. U. poz. 207), które weszło w życie z dniem 27 stycznia 2018 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 5) Rozporządzenie zostało ogłoszone w dniu 5 lipca 2002 r.
 

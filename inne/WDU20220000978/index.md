@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-02 |
 | Data wydania | 2022-05-10 |
-| Wejście w życie | 2022-05-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000978) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/978/text.pdf) |
 
@@ -39,8 +38,7 @@ a)
 b)
 żołnierza zawodowego zwolnionego z zawodowej służby wojskowej,
 c)
-małżonka oraz dzieci pozostające na utrzymaniu żołnierza zawodowego, który zaginął lub poniósł śmierć w związku z wykonywaniem zadań służbowych albo zmarł w okresie 3 lat po zwolnieniu z zawodowej służby wojskowej w następstwie wypadku lub choroby pozostających w związku z wykonywaniem zadań służbowych
-zwanych dalej „uprawnionymi”;
+małżonka oraz dzieci pozostające na utrzymaniu żołnierza zawodowego, który zaginął lub poniósł śmierć w związku z wykonywaniem zadań służbowych albo zmarł w okresie 3 lat po zwolnieniu z zawodowej służby wojskowej w następstwie wypadku lub choroby pozostających w związku z wykonywaniem zadań służbowych – zwanych dalej „uprawnionymi”;
 3)
 tryb dokonywania zwrotu kosztów przekwalifikowania zawodowego i praktyk zawodowych, przejazdów z miejsca zamieszkania do ośrodka szkolenia, w którym następuje przekwalifikowanie zawodowe, lub do miejsca odbywania praktyki zawodowej i z powrotem, zakwaterowania w okresie przekwalifikowania zawodowego lub odbywania praktyki zawodowej;
 4)
@@ -167,8 +165,7 @@ Koszty, o których mowa w art. 236 ust. 8 pkt 2 i 3 ustawy, pokrywa:
 1)
 dowódca jednostki wojskowej – uprawnionemu, o którym mowa w § 1 pkt 2 lit. a,
 2)
-dyrektor WBE – uprawnionym, o których mowa w § 1 pkt 2 lit. b i c
-na podstawie złożonego oświadczenia o faktycznie poniesionych kosztach potwierdzonych oryginałami dowodów wpłaty, rachunków i biletów wg limitów określonych w art. 236 ust. 9 pkt 2 i 3 ustawy.
+dyrektor WBE – uprawnionym, o których mowa w § 1 pkt 2 lit. b i c – na podstawie złożonego oświadczenia o faktycznie poniesionych kosztach potwierdzonych oryginałami dowodów wpłaty, rachunków i biletów wg limitów określonych w art. 236 ust. 9 pkt 2 i 3 ustawy.
 § 8.
 1.
 Organem właściwym do wydawania decyzji w sprawach przekwalifikowania zawodowego, przejazdów i zakwaterowania jest dyrektor WBE właściwy ze względu na miejsce zamieszkania uprawnionego.
@@ -224,5 +221,5 @@ Kierownik komórki organizacyjnej właściwej do spraw socjalnych, dyrektor COAZ
 2.
 Dowódcy jednostek wojskowych współpracują przy realizacji pomocy, o której mowa w art. 236 ust. 1 i 3 ustawy, i organizują z właściwym terytorialnie dyrektorem COAZ lub kierownikiem OAZ co najmniej raz w roku, w ramach prowadzonych szkoleń uzupełniających i doskonalących dla żołnierzy zawodowych, zajęcia na temat pomocy, o której mowa w art. 236 ust. 1 i 3 ustawy.
 § 15.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 19 listopada 2014 r. w sprawie pomocy w zakresie doradztwa zawodowego, przekwalifikowania, pośrednictwa pracy i odbywania praktyk zawodowych (Dz. U. poz. 1622), które zgodnie z art. 822 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 19 listopada 2014 r. w sprawie pomocy w zakresie doradztwa zawodowego, przekwalifikowania, pośrednictwa pracy i odbywania praktyk zawodowych (Dz. U. poz. 1622), które zgodnie z art. 822 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

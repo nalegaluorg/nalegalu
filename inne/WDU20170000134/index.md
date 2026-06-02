@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 11 stycznia 2017 r. zmieniające rozporządzenie w sprawie bezpieczeństwa i higieny pracy podczas eksploatacji maszyn i innych urządzeń technicznych do robót ziemnych, budowlanych i drogowych
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 11 stycznia 2017 r. zmieniające rozporządzenie w sprawie bezpieczeństwa i higieny pracy podczas eksploatacji maszyn i innych urządzeń technicznych do robót ziemnych, budowlanych i drogowych Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-01-11 |
 | Data wydania | 2017-01-20 |
-| Wejście w życie | 2017-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000134) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/134/text.pdf) |
 
@@ -75,13 +74,25 @@ walce drogowe klasy III są równoważne ze świadectwem oraz wpisem do książk
 20)
 piły mechaniczne do ścinki drzew klasy III są równoważne ze świadectwem oraz wpisem do książki operatora na pilarki mechaniczne do ścinki drzew klasy III,
 21)
-rusztowania budowlano-montażowe metalowe bez klasy są równoważne ze świadectwem oraz wpisem do książki operatora na rusztowania budowlano-montażowe metalowe – montaż i demontaż bez klasy
-określone w załączniku nr 1 do rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+rusztowania budowlano-montażowe metalowe bez klasy są równoważne ze świadectwem oraz wpisem do książki operatora na rusztowania budowlano-montażowe metalowe – montaż i demontaż bez klasy – określone w załączniku nr 1 do rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
 Do postępowań prowadzonych w celu uzyskania uprawnień do obsługi maszyn roboczych, o których mowa w załączniku nr 1 do rozporządzenia, o którym mowa w § 1, w brzmieniu dotychczasowym, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2017 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2017 r. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 Załącznik – Maszyny i urządzenia techniczne stosowane przy robotach ziemnych, budowlanych i drogowych, do obsługi których wymagane jest odbycie szkolenia i uzyskanie pozytywnego wyniku ze sprawdzianu
-Grupa I. Maszyny do robót ziemnych Lp. Nazwa maszyny lub urządzenia Jednostkacharakteryzującamaszynę luburządzenie Klasa określona w świadectwie III II I 1 2 3 4 5 6 1 Koparki jednonaczyniowe masa całkowita tony do 25 – wszystkie 2 Koparkoładowarki1) – wszystkie – – 3 Koparkospycharki – wszystkie – – 4 Koparki wielonaczyniowe2),3) – – – wszystkie 5 Koparki wielonaczyniowe łańcuchowe do rowów – wszystkie – – 6 Spycharki moc silnika kW do 110 – wszystkie 7 Równiarki – – – wszystkie 8 Zgarniarki – – – wszystkie 9 Ładowarki jednonaczyniowe4) masa całkowita tony do 20 – wszystkie 10 Pogłębiarki jednoczerpakowe pływające – – wszystkie – 11 Pogłębiarki wieloczerpakowe pływające – – wszystkie – 12 Pogłębiarki ssące śródlądowe – wszystkie – – 13 Palownice – – wszystkie – 14 Kafary5) – bez klasy 15 Urządzenia wibracyjne do pogrążania i wyrywania5) – wszystkie – – 16 Wiertnice do kotwi5) – bez klasy 17 Wiertnice dla technologii bezwykopowych5) 0 rury mm do 800 wszystkie – 1) Kwalifikacje operatora, który uzyskał uprawnienia w tej specjalności, upoważniają go do obsługi koparki jednonaczyniowej do 4 ton masy całkowitej, ładowarki jednonaczyniowej do 8 ton masy całkowitej oraz koparkospycharki. 2) Z wyłączeniem koparek wielonaczyniowych o wydajności powyżej 500 m3/h. 3) Kwalifikacje operatora, który uzyskał uprawnienia w tej specjalności, upoważniają go do obsługi koparki wielonaczyniowej łańcuchowej do rowów. 4) Kwalifikacje operatora, który uzyskał uprawnienia w tej specjalności klasy III lub I, upoważniają go do obsługi spycharki klasy III. 5) Z wyłączeniem narzędzi ręcznych. Grupa II. Maszyny do robót drogowych Lp. Nazwa maszyny lub urządzenia Jednostkacharakteryzującamaszynę luburządzenie Klasa określona w świadectwie III II I 1 2 3 4 5 6 1 Zespoły maszyn do produkcji mieszanek mineralno-asfaltowych – – – wszystkie 2 Maszyny do rozkładania mieszanek mineralno-asfaltowych – – wszystkie – 3 Repavery i remixery – bez klasy 4 Remontery nawierzchni dróg – wszystkie – – 5 Frezarki do nawierzchni dróg samojezdne – – – wszystkie 6 Przecinarki do nawierzchni dróg o napędzie spalinowym – wszystkie – – 7 Zespoły maszyn do produkcji mieszanek betonowych – – wszystkie – 8 Maszyny do rozkładania mieszanek betonowych – – wszystkie – 9 Maszyny do stabilizacji gruntów – wszystkie – – 10 Walce drogowe1) – – wszystkie – 11 Pilarki mechaniczne do ścinki drzew2) – wszystkie – – 1) Nie dotyczy walców doczepnych. 2) Kwalifikacje operatora, który uzyskał uprawnienia w tej specjalności na podstawie rozporządzenia Ministra Środowiska z dnia 24 sierpnia 2006 r. w sprawie bezpieczeństwa i higieny pracy przy wykonywaniu niektórych prac z zakresu gospodarki leśnej (Dz. U. poz. 1141), upoważniają do obsługi tego urządzenia. Grupa III. Maszyny różne i inne urządzenia techniczne Lp. Nazwa maszyny lub urządzenia Jednostkacharakteryzującamaszynę luburządzenie Klasa określona w świadectwie III II I 1 2 3 4 5 6 1 Wielozadaniowe nośniki osprzętów – bez klasy 2 Pompy do mieszanki betonowej – wszystkie – – 3 Podajniki do betonu – wszystkie – – 4 Rusztowania budowlano-montażowe metalowe – montaż i demontaż – bez klasy
+Grupa I. Maszyny do robót ziemnych
+Lp. Nazwa maszyny lub urządzenia Jednostka
+charakteryzująca
+maszynę lub
+urządzenie Klasa określona w świadectwie III II I 1 2 3 4 5 6 1 Koparki jednonaczyniowe masa całkowita tony do 25 – wszystkie 2 Koparkoładowarki1) – wszystkie – – 3 Koparkospycharki – wszystkie – – 4 Koparki wielonaczyniowe2),3) – – – wszystkie 5 Koparki wielonaczyniowe łańcuchowe do rowów – wszystkie – – 6 Spycharki moc silnika kW do 110 – wszystkie 7 Równiarki – – – wszystkie 8 Zgarniarki – – – wszystkie 9 Ładowarki jednonaczyniowe4) masa całkowita tony do 20 – wszystkie 10 Pogłębiarki jednoczerpakowe pływające – – wszystkie – 11 Pogłębiarki wieloczerpakowe pływające – – wszystkie – 12 Pogłębiarki ssące śródlądowe – wszystkie – – 13 Palownice – – wszystkie – 14 Kafary5) – bez klasy 15 Urządzenia wibracyjne do pogrążania i wyrywania5) – wszystkie – – 16 Wiertnice do kotwi5) – bez klasy 17 Wiertnice dla technologii bezwykopowych5) 0 rury mm do 800 wszystkie –
+1) Kwalifikacje operatora, który uzyskał uprawnienia w tej specjalności, upoważniają go do obsługi koparki jednonaczyniowej do 4 ton masy całkowitej, ładowarki jednonaczyniowej do 8 ton masy całkowitej oraz koparkospycharki. 2) Z wyłączeniem koparek wielonaczyniowych o wydajności powyżej 500 m3/h. 3) Kwalifikacje operatora, który uzyskał uprawnienia w tej specjalności, upoważniają go do obsługi koparki wielonaczyniowej łańcuchowej do rowów. 4) Kwalifikacje operatora, który uzyskał uprawnienia w tej specjalności klasy III lub I, upoważniają go do obsługi spycharki klasy III. 5) Z wyłączeniem narzędzi ręcznych. Grupa II. Maszyny do robót drogowych
+Lp. Nazwa maszyny lub urządzenia Jednostka
+charakteryzująca
+maszynę lub
+urządzenie Klasa określona w świadectwie III II I 1 2 3 4 5 6 1 Zespoły maszyn do produkcji mieszanek mineralno-asfaltowych – – – wszystkie 2 Maszyny do rozkładania mieszanek mineralno-asfaltowych – – wszystkie – 3 Repavery i remixery – bez klasy 4 Remontery nawierzchni dróg – wszystkie – – 5 Frezarki do nawierzchni dróg samojezdne – – – wszystkie 6 Przecinarki do nawierzchni dróg o napędzie spalinowym – wszystkie – – 7 Zespoły maszyn do produkcji mieszanek betonowych – – wszystkie – 8 Maszyny do rozkładania mieszanek betonowych – – wszystkie – 9 Maszyny do stabilizacji gruntów – wszystkie – – 10 Walce drogowe1) – – wszystkie – 11 Pilarki mechaniczne do ścinki drzew2) – wszystkie – –
+1) Nie dotyczy walców doczepnych. 2) Kwalifikacje operatora, który uzyskał uprawnienia w tej specjalności na podstawie rozporządzenia Ministra Środowiska z dnia 24 sierpnia 2006 r. w sprawie bezpieczeństwa i higieny pracy przy wykonywaniu niektórych prac z zakresu gospodarki leśnej (Dz. U. poz. 1141), upoważniają do obsługi tego urządzenia. Grupa III. Maszyny różne i inne urządzenia techniczne
+Lp. Nazwa maszyny lub urządzenia Jednostka
+charakteryzująca
+maszynę lub
+urządzenie Klasa określona w świadectwie III II I 1 2 3 4 5 6 1 Wielozadaniowe nośniki osprzętów – bez klasy 2 Pompy do mieszanki betonowej – wszystkie – – 3 Podajniki do betonu – wszystkie – – 4 Rusztowania budowlano-montażowe metalowe – montaż i demontaż – bez klasy
 

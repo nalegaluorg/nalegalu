@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 4 listopada 2022 r. zmieniające rozporządzenie w sprawie specjalizacji w zawodzie pracownik socjalny
+# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 4 listopada 2022 r. zmieniające rozporządzenie w sprawie specjalizacji w zawodzie pracownik socjalny Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416).
 
 | Pole | Wartość |
 |---|---|
@@ -22,73 +22,55 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-04 |
 | Data wydania | 2022-11-18 |
-| Wejście w życie | 2022-12-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002358) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2358/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 118a ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 118a ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2270 oraz z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967, 2127 i 2140.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 17 kwietnia 2012 r. w sprawie specjalizacji w zawodzie pracownik socjalny (Dz. U. poz. 486) wprowadza się następujące zmiany:
 1)
 w § 2:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Komisja składa się z nie mniej niż 4 i nie więcej niż 10 członków.
-” ,
+Komisja składa się z nie mniej niż 4 i nie więcej niż 10 członków. ” ,
 b)
-ust. 8 otrzymuje brzmienie:
-„
+ust. 8 otrzymuje brzmienie: „
 8.
-Odwołanie przewodniczącego i członków Komisji może nastąpić w przypadku ich śmierci, na podstawie ich pisemnej rezygnacji albo w drodze odwołania ich z funkcji przez ministra właściwego do spraw zabezpieczenia społecznego, jeżeli nie wywiązywali się z zadań określonych w art. 117 ust. 3 ustawy lub jeżeli niewłaściwie je wykonywali.
-” ,
+Odwołanie przewodniczącego i członków Komisji może nastąpić w przypadku ich śmierci, na podstawie ich pisemnej rezygnacji albo w drodze odwołania ich z funkcji przez ministra właściwego do spraw zabezpieczenia społecznego, jeżeli nie wywiązywali się z zadań określonych w art. 117 ust. 3 ustawy lub jeżeli niewłaściwie je wykonywali. ” ,
 c)
-dodaje się ust. 9 w brzmieniu:
-„
+dodaje się ust. 9 w brzmieniu: „
 9.
-W razie konieczności uzupełnienia składu Komisji w przypadkach określonych w ust. 8 minister właściwy do spraw zabezpieczenia społecznego może powołać nowych członków Komisji zgodnie z ust. 4 i 5 na czas pozostały do końca okresu, o którym mowa w ust. 3.
-” ;
+W razie konieczności uzupełnienia składu Komisji w przypadkach określonych w ust. 8 minister właściwy do spraw zabezpieczenia społecznego może powołać nowych członków Komisji zgodnie z ust. 4 i 5 na czas pozostały do końca okresu, o którym mowa w ust. 3. ” ;
 2)
-w § 3 dodaje się ust. 7 i 8 w brzmieniu:
-„
+w § 3 dodaje się ust. 7 i 8 w brzmieniu: „
 7.
 Udział w posiedzeniu Komisji lub podejmowanie rozstrzygnięć i przyjmowanie wniosków może odbywać się zdalnie, z wykorzystaniem środków bezpośredniego porozumiewania się na odległość.
 8.
-Środki, o których mowa w ust. 7, powinny umożliwiać osobom wchodzącym w skład Komisji, przebywającym w miejscu innym niż miejsce posiedzenia, wypowiadanie się w toku obrad oraz głosowanie.
-” ;
+Środki, o których mowa w ust. 7, powinny umożliwiać osobom wchodzącym w skład Komisji, przebywającym w miejscu innym niż miejsce posiedzenia, wypowiadanie się w toku obrad oraz głosowanie. ” ;
 3)
 w § 4:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Regionalna komisja składa się z nie mniej niż 4 i nie więcej niż 5 członków.
-” ,
+Regionalna komisja składa się z nie mniej niż 4 i nie więcej niż 5 członków. ” ,
 b)
-ust. 6 otrzymuje brzmienie:
-„
+ust. 6 otrzymuje brzmienie: „
 6.
-Odwołanie przewodniczącego i członków regionalnej komisji może nastąpić w przypadku ich śmierci, na podstawie ich pisemnej rezygnacji albo w drodze odwołania ich z funkcji przez Komisję na wniosek marszałka danego województwa lub w przypadku gdy nie wywiązywali się z zadań określonych w art. 118 ust. 2 ustawy lub jeśli niewłaściwie je wykonywali.
-” ,
+Odwołanie przewodniczącego i członków regionalnej komisji może nastąpić w przypadku ich śmierci, na podstawie ich pisemnej rezygnacji albo w drodze odwołania ich z funkcji przez Komisję na wniosek marszałka danego województwa lub w przypadku gdy nie wywiązywali się z zadań określonych w art. 118 ust. 2 ustawy lub jeśli niewłaściwie je wykonywali. ” ,
 c)
-dodaje się ust. 7 w brzmieniu:
-„
+dodaje się ust. 7 w brzmieniu: „
 7.
-W razie konieczności uzupełnienia składu regionalnej komisji w przypadkach określonych w ust. 6 Komisja na wniosek marszałka danego województwa powołuje nowych członków regionalnej komisji na czas pozostały do końca okresu, o którym mowa w ust. 3.
-” ;
+W razie konieczności uzupełnienia składu regionalnej komisji w przypadkach określonych w ust. 6 Komisja na wniosek marszałka danego województwa powołuje nowych członków regionalnej komisji na czas pozostały do końca okresu, o którym mowa w ust. 3. ” ;
 4)
-w § 5 dodaje się ust. 7 i 8 w brzmieniu:
-„
+w § 5 dodaje się ust. 7 i 8 w brzmieniu: „
 7.
 Udział w posiedzeniu regionalnej komisji lub podejmowanie rozstrzygnięć i przyjmowanie wniosków może odbywać się zdalnie, z wykorzystaniem środków bezpośredniego porozumiewania się na odległość.
 8.
-Środki, o których mowa w ust. 7, powinny umożliwiać osobom wchodzącym w skład regionalnej komisji, przebywającym w miejscu innym niż miejsce posiedzenia, wypowiadanie się w toku obrad oraz głosowanie.
-” ;
+Środki, o których mowa w ust. 7, powinny umożliwiać osobom wchodzącym w skład regionalnej komisji, przebywającym w miejscu innym niż miejsce posiedzenia, wypowiadanie się w toku obrad oraz głosowanie. ” ;
 5)
-§ 6 otrzymuje brzmienie:
-„
+§ 6 otrzymuje brzmienie: „
 § 6.
 1.
 Minimum programowe dla I stopnia specjalizacji w zawodzie pracownik socjalny obejmuje następujące moduły oraz liczbę godzin przeznaczonych na ich realizację:
@@ -145,19 +127,15 @@ warsztat współpracy w zespole zadaniowym – 10 godzin;
 2)
 w zakresie przygotowania specjalistycznego, dostosowanego merytorycznie do specjalności obowiązujących dla II stopnia specjalizacji w zawodzie pracownik socjalny, o których mowa w § 7:
 a)
-interdyscyplinarna charakterystyka problemu – 40 godzin, b) diagnoza problemów społecznych i potencjału lokalnego w pracy socjalnej, w tym współpraca z podmiotami ekonomii społecznej – 20 godzin, c) metody i narzędzia pracy socjalnej – 20 godzin, d) hospitacje instytucji działających w obszarze specjalności, o których mowa w § 7 – 20 godzin, e) realizacja usług społecznych – 10 godzin, f) narzędzia wspierające pracowników socjalnych i dostarczanie e-usług – 10 godzin.
-” ;
+interdyscyplinarna charakterystyka problemu – 40 godzin, b) diagnoza problemów społecznych i potencjału lokalnego w pracy socjalnej, w tym współpraca z podmiotami ekonomii społecznej – 20 godzin, c) metody i narzędzia pracy socjalnej – 20 godzin, d) hospitacje instytucji działających w obszarze specjalności, o których mowa w § 7 – 20 godzin, e) realizacja usług społecznych – 10 godzin, f) narzędzia wspierające pracowników socjalnych i dostarczanie e-usług – 10 godzin. ” ;
 6)
 w § 7 w ust. 1:
 a)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
-praca socjalna z osobami z niepełnosprawnością i ich rodzinami;
-” ,
+praca socjalna z osobami z niepełnosprawnością i ich rodzinami; ” ,
 b)
-w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11–14 w brzmieniu:
-„
+w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11–14 w brzmieniu: „
 11)
 praca socjalna z osobami opuszczającymi zakłady karne i areszty śledcze;
 12)
@@ -165,8 +143,7 @@ animator społeczności lokalnych;
 13)
 asystentura i mediacja socjalna;
 14)
-organizator usług społecznych.
-” ;
+organizator usług społecznych. ” ;
 7)
 w § 8 w ust. 1 w pkt 1 wyrazy „ustawy z dnia 18 marca 2008 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. Nr 63, poz. 394)” zastępuje się wyrazami „ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2021 r. poz. 1646 oraz z 2022 r. poz. 1616)”;
 8)
@@ -174,23 +151,19 @@ w § 9:
 a)
 w ust. 1 w pkt 1 wyrazy „ustawy z dnia 18 marca 2008 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej” zastępuje się wyrazami „ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej”,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
 Wymóg posiadania specjalizacji, o której mowa w ust. 1 pkt 2, nie dotyczy osób, które ukończyły:
 1)
 studia, o których mowa w art. 116 ust. 1 pkt 2 ustawy, lub
 2)
-studia wyższe na jednym z kierunków, o których mowa w art. 116 ust. 1 pkt 3 ustawy, o specjalności przygotowującej do zawodu pracownika socjalnego, o której mowa w art. 116 ust. 1 pkt 3 i ust. 1a ustawy.
-” ;
+studia wyższe na jednym z kierunków, o których mowa w art. 116 ust. 1 pkt 3 ustawy, o specjalności przygotowującej do zawodu pracownika socjalnego, o której mowa w art. 116 ust. 1 pkt 3 i ust. 1a ustawy. ” ;
 9)
 w § 14 w ust. 3 wyrazy „12 godzin” zastępuje się wyrazami „20 godzin”;
 10)
-w § 22 w ust. 1 pkt 9 otrzymuje brzmienie:
-„
+w § 22 w ust. 1 pkt 9 otrzymuje brzmienie: „
 9)
-informować ministra właściwego do spraw zabezpieczenia społecznego o rozpoczęciu szkolenia, jego harmonogramie i sposobie prowadzenia w terminie 14 dni od dnia rozpoczęcia szkolenia oraz o każdej zmianie w tym zakresie w terminie 14 dni od dnia wprowadzenia zmiany.
-” .
+informować ministra właściwego do spraw zabezpieczenia społecznego o rozpoczęciu szkolenia, jego harmonogramie i sposobie prowadzenia w terminie 14 dni od dnia rozpoczęcia szkolenia oraz o każdej zmianie w tym zakresie w terminie 14 dni od dnia wprowadzenia zmiany. ” .
 § 2.
 Szkolenia w zakresie I lub II stopnia specjalizacji w zawodzie pracownik socjalny rozpoczęte i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia mogą być kontynuowane, na podstawie zgody na prowadzenie szkolenia udzielonej podmiotowi prowadzącemu szkolenie przed dniem wejścia w życie niniejszego rozporządzenia do czasu jego zakończenia, jednak przez okres nie dłuższy niż 9 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 § 3.
@@ -208,6 +181,5 @@ Pracownicy socjalni, którzy ukończyli szkolenie w zakresie I lub II stopnia sp
 § 5.
 Przewodniczący oraz członkowie Centralnej Komisji Egzaminacyjnej do spraw stopni specjalizacji zawodowej pracowników socjalnych oraz przewodniczący i członkowie regionalnych komisji egzaminacyjnych do spraw stopni specjalizacji zawodowej pracowników socjalnych – pełniący swoje funkcje w dniu wejścia w życie niniejszego rozporządzenia pełnią je do czasu powołania nowych składów, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2270 oraz z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967, 2127 i 2140.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2270 oraz z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967, 2127 i 2140.
 

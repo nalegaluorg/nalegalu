@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 lipca 2022 r. o zmianie ustawy o Centrum Polsko-Rosyjskiego Dialogu i Porozumienia oraz niektórych innych ustaw
+# Ustawa z dnia 7 lipca 2022 r. o zmianie ustawy o Centrum Polsko-Rosyjskiego Dialogu i Porozumienia oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów oraz ustawę z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-07 |
 | Data wydania | 2022-07-19 |
-| Wejście w życie | 2022-07-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001512) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1512/text.pdf) |
 
@@ -66,7 +65,7 @@ source: "eli-html"
 **Art. 23a.** Pracownikami Centrum są pracownicy naukowi posiadający co najmniej stopień naukowy doktora lub uznany dorobek naukowy w dziedzinie związanej z zakresem działalności Centrum oraz pracownicy niebędący pracownikami naukowymi. Pracownik naukowy jest obowiązany do prowadzenia badań naukowych oraz uczestniczenia w pracach organizacyjnych związanych z prowadzonymi badaniami naukowymi, a także stałego podnoszenia swoich kompetencji zawodowych. Wykonywanie obowiązków pracownika naukowego stanowi:
 
 - **1)** działalność twórczą o indywidualnym charakterze, o której mowa w art. 1 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2021 r. poz. 1062 oraz z 2022 r. poz. 655);
-- **2)** działalność, o której mowa w art. 22 ust. 9b pkt 8 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.). Pracownikom naukowym Centrum przysługuje urlop wypoczynkowy w wymiarze 36 dni w danym roku kalendarzowym. W sprawach dotyczących stosunku pracy pracowników Centrum, nieuregulowanych w ustawie, stosuje się przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy. ” ;
+- **2)** działalność, o której mowa w art. 22 ust. 9b pkt 8 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655, 830, 872, 1079, 1265, 1301, 1358 i 1459.). Pracownikom naukowym Centrum przysługuje urlop wypoczynkowy w wymiarze 36 dni w danym roku kalendarzowym. W sprawach dotyczących stosunku pracy pracowników Centrum, nieuregulowanych w ustawie, stosuje się przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy. ” ;
 - **12)** uchyla się art. 24;
 - **13)** po art. 24 dodaje się art. 24a w brzmieniu: „
 
@@ -80,7 +79,7 @@ source: "eli-html"
 - **2)** osoby uprawnione do ubiegania się o przyznanie stypendium,
 - **3)** maksymalną wysokość stypendium, o którą można się ubiegać,
 - **4)** tryb przeprowadzania naboru wniosków o przyznanie stypendium,
-- **5)** kryteria oceny wniosków o przyznanie stypendium uwzględniając znaczenie osiągnięć i inicjatyw dla dialogu i porozumienia w stosunkach Polaków z narodami Europy Wschodniej, w szczególności z Ukraińcami, Białorusinami, Gruzinami, Mołdawianami i Rosjanami, a także z innymi narodami Federacji Rosyjskiej.
+- **5)** kryteria oceny wniosków o przyznanie stypendium – uwzględniając znaczenie osiągnięć i inicjatyw dla dialogu i porozumienia w stosunkach Polaków z narodami Europy Wschodniej, w szczególności z Ukraińcami, Białorusinami, Gruzinami, Mołdawianami i Rosjanami, a także z innymi narodami Federacji Rosyjskiej.
 
 3. Wysokość stypendium nie może być niższa niż jednokrotność i wyższa niż dwunastokrotność przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzednim, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” zgodnie z art. 5 ust. 7 ustawy z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych.
 
@@ -100,7 +99,7 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2022 r. poz. 1452) w art. 7 w ust. 2 w pkt 5b kropkę zastępuje się średnikiem i dodaje się pkt 5c w brzmieniu: „
 
-- **5c)** Centrum Dialogu im. Juliusza Mieroszewskiego, z wyjątkiem przedmiotów opodatkowania zajętych na działalność gospodarczą. ” . W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.) w art. 21 w ust. 1 po pkt 39e dodaje się pkt 39ea w brzmieniu: „ 39ea) stypendia otrzymywane w ramach programów stypendialnych Centrum Dialogu im. Juliusza Mieroszewskiego; ” .
+- **5c)** Centrum Dialogu im. Juliusza Mieroszewskiego, z wyjątkiem przedmiotów opodatkowania zajętych na działalność gospodarczą. ” . W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655, 830, 872, 1079, 1265, 1301, 1358 i 1459.) w art. 21 w ust. 1 po pkt 39e dodaje się pkt 39ea w brzmieniu: „ 39ea) stypendia otrzymywane w ramach programów stypendialnych Centrum Dialogu im. Juliusza Mieroszewskiego; ” .
 
 **Art. 4.** W ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2021 r. poz. 1633 oraz z 2022 r. poz. 1459) w art. 4 w pkt 57 wyrazy „dyrektor Centrum Polsko-Rosyjskiego Dialogu i Porozumienia” zastępuje się wyrazami „dyrektor Centrum Dialogu im. Juliusza Mieroszewskiego”.
 
@@ -142,5 +141,5 @@ source: "eli-html"
 
 **Art. 14.** Znosi się Międzynarodową Radę Centrum Polsko-Rosyjskiego Dialogu i Porozumienia.
 
-**Art. 15.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+**Art. 15.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów oraz ustawę z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655, 830, 872, 1079, 1265, 1301, 1358 i 1459. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655, 830, 872, 1079, 1265, 1301, 1358 i 1459.
 

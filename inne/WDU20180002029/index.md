@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 11 października 2018 r. w sprawie akredytacji placówek doskonalenia nauczycieli
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 11 października 2018 r. w sprawie akredytacji placówek doskonalenia nauczycieli Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-11 |
 | Data wydania | 2018-10-23 |
-| Wejście w życie | 2018-11-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002029) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2029/text.pdf) |
 
@@ -286,6 +285,5 @@ Kurator oświaty prowadzi i udostępnia wykaz placówek doskonalenia posiadając
 § 16.
 W terminie do dnia 31 sierpnia 2019 r. akredytację lub wstępną akredytację może uzyskać również niepubliczna placówka doskonalenia nauczycieli niespełniająca warunku, o którym mowa w § 3 pkt 6 lit. c.
 § 17.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej i Sportu z dnia 20 grudnia 2003 r. w sprawie akredytacji placówek doskonalenia nauczycieli (Dz. U. poz. 2248, z 2014 r. poz. 840 oraz z 2016 r. poz. 484), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej i Sportu z dnia 20 grudnia 2003 r. w sprawie akredytacji placówek doskonalenia nauczycieli (Dz. U. poz. 2248, z 2014 r. poz. 840 oraz z 2016 r. poz. 484), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203). 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej i Sportu z dnia 20 grudnia 2003 r. w sprawie akredytacji placówek doskonalenia nauczycieli (Dz. U. poz. 2248, z 2014 r. poz. 840 oraz z 2016 r. poz. 484), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-20 |
 | Data wydania | 2022-04-25 |
-| Wejście w życie | 2022-05-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000886) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/886/text.pdf) |
 
@@ -51,5 +50,5 @@ Umowę zawierają: podmiot, o którym mowa w art. 46 ust. 2 i 3 ustawy, oraz dow
 3.
 Potrzeby, o których mowa w ust. 1, zgłasza się do Dowódcy Generalnego Rodzajów Sił Zbrojnych.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 7 września 2015 r. w sprawie trybu składania i rozpatrywania wniosków oraz zawierania umów o świadczenie specjalistycznych usług wojskowych (Dz. U. poz. 1428), które zgodnie z art. 821 ust. 3 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 7 września 2015 r. w sprawie trybu składania i rozpatrywania wniosków oraz zawierania umów o świadczenie specjalistycznych usług wojskowych (Dz. U. poz. 1428), które zgodnie z art. 821 ust. 3 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

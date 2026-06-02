@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-07 |
 | Data wydania | 2022-04-27 |
-| Wejście w życie | 2022-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000904) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/904/text.pdf) |
 
@@ -207,8 +206,12 @@ source: "eli-html"
 
 - **f)**
 - **g)**
-- **20)** w art. 40: w ust. 2: – pkt 4 otrzymuje brzmienie: „ 4) podjęcia przez pracodawcę jednostronnej decyzji o rozwiązaniu umowy zakładowej pod warunkiem zachowania co najmniej 6-miesięcznego okresu wypowiedzenia; ” , – w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 i 7 w brzmieniu: „ 6) niezatrudniania przez pracodawcę przez okres co najmniej 6 miesięcy pracowników ani osób wymienionych w art. 5 ust. 4; 7) nieprzystąpienia do programu osoby uprawnionej przez okres co najmniej 12 miesięcy od dnia jego utworzenia. ” , ust. 3 otrzymuje brzmienie: „
+- **20)** w art. 40: w ust. 2: pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** podjęcia przez pracodawcę jednostronnej decyzji o rozwiązaniu umowy zakładowej pod warunkiem zachowania co najmniej 6-miesięcznego okresu wypowiedzenia; ” , w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 i 7 w brzmieniu: „
+- **6)** niezatrudniania przez pracodawcę przez okres co najmniej 6 miesięcy pracowników ani osób wymienionych w art. 5 ust. 4;
+- **7)** nieprzystąpienia do programu osoby uprawnionej przez okres co najmniej 12 miesięcy od dnia jego utworzenia. ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Likwidacja programu nie może nastąpić w przypadku określonym w art. 40 ust. 2 pkt 6, jeżeli w programie prowadzonym przez podmioty, o których mowa w art. 5 ust. 4, uczestniczą osoby wymienione w art. 5 ust. 4. ” ;

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 18 września 2018 r. w sprawie lokowania środków Funduszu Rezerwy Demograficznej
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 18 września 2018 r. w sprawie lokowania środków Funduszu Rezerwy Demograficznej Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-18 |
 | Data wydania | 2018-10-08 |
-| Wejście w życie | 2018-10-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001920) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1920/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Obowiązkowe istotne elementy umowy o zarządzanie środkami Funduszu Rezerwy Demograficznej
 Treść rozporządzenia
-Na podstawie art. 65 ust. 3 i 3a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 65 ust. 3 i 3a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544, 1577, 1613, 1629 i 1669.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -54,7 +53,7 @@ Dopuszczalne proporcje udziału poszczególnych lokat środków FRD nie mogą pr
 4)
 80% – w dłużne papiery wartościowe gwarantowane przez Skarb Państwa, z wyłączeniem instrumentów, o których mowa w pkt 2;
 5)
-30% – w akcje zdematerializowane, zgodnie z przepisami ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2017 r. poz. 1768, z późn. zm.);
+30% – w akcje zdematerializowane, zgodnie z przepisami ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2017 r. poz. 1768, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2486 i 2491 oraz z 2018 r. poz. 106, 138, 650, 685, 723, 771 i 1669.);
 6)
 20% – w obligacje zdematerializowane, zgodnie z przepisami ustawy, o której mowa w pkt 5, z wyłączeniem obligacji, dla których proporcje udziału zostały określone w pkt 1–4;
 7)
@@ -99,8 +98,7 @@ Banki, w których mogą być dokonywane depozyty bankowe określone w ust. 1 pkt
 3.
 Łączna suma lokat, o których mowa w ust. 1 pkt 1, w depozyty bankowe i w bankowe papiery wartościowe jednego banku nie może przekroczyć 10% wartości środków FRD.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 23 października 2018 r.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544, 1577, 1613, 1629 i 1669. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2486 i 2491 oraz z 2018 r. poz. 106, 138, 650, 685, 723, 771 i 1669. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 29 stycznia 2014 r. w sprawie lokowania środków Funduszu Rezerwy Demograficznej (Dz. U. poz. 152), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 1 pkt 4 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o systemie ubezpieczeń społecznych (Dz. U. poz. 1613).
+Rozporządzenie wchodzi w życie z dniem 23 października 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 29 stycznia 2014 r. w sprawie lokowania środków Funduszu Rezerwy Demograficznej (Dz. U. poz. 152), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 1 pkt 4 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o systemie ubezpieczeń społecznych (Dz. U. poz. 1613). 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544, 1577, 1613, 1629 i 1669. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2486 i 2491 oraz z 2018 r. poz. 106, 138, 650, 685, 723, 771 i 1669. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 29 stycznia 2014 r. w sprawie lokowania środków Funduszu Rezerwy Demograficznej (Dz. U. poz. 152), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 1 pkt 4 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o systemie ubezpieczeń społecznych (Dz. U. poz. 1613).
 Załącznik – Obowiązkowe istotne elementy umowy o zarządzanie środkami Funduszu Rezerwy Demograficznej
 1.
 Oznaczenie stron i osób reprezentujących Fundusz Rezerwy Demograficznej, zwany dalej „FRD”, oraz uprawniony podmiot zewnętrzny.
@@ -111,7 +109,7 @@ Definicje podstawowych terminów użytych w umowie.
 4.
 Obowiązki i prawa uprawnionego podmiotu zewnętrznego, z uwzględnieniem zasady, zgodnie z którą podstawowym obowiązkiem i prawem uprawnionego podmiotu zewnętrznego jest samodzielne zarządzanie środkami, zgodnie z treścią umowy o zarządzanie, w tym w szczególności:
 1)
-przestrzeganie ograniczeń lokowania środków FRD wynikających z ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778, z późn. zm.);
+przestrzeganie ograniczeń lokowania środków FRD wynikających z ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544, 1577, 1613, 1629 i 1669.);
 2)
 stosowanie przy zarządzaniu środkami FRD procedur wynikających z przepisów o finansach publicznych oraz z przepisów o zamówieniach publicznych.
 5.
@@ -139,5 +137,5 @@ przepisy, które będą obowiązywały w zakresie nieuregulowanym postanowieniam
 4)
 klauzulę arbitrażową dotyczącą rozstrzygania sporów między stronami umowy.
 13.
-Podpisy stron umowy oraz liczba sporządzonych egzemplarzy umowy.
+Podpisy stron umowy oraz liczba sporządzonych egzemplarzy umowy. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544, 1577, 1613, 1629 i 1669.
 

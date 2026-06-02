@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-01 |
 | Data wydania | 2005-07-26 |
-| Wejście w życie | 2005-08-10 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051381154) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1154/text.pdf) |
 

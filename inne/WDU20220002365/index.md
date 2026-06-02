@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 3 listopada 2022 r. zmieniające rozporządzenie w sprawie grzybów dopuszczonych do obrotu lub produkcji przetworów grzybowych, środków spożywczych zawierających grzyby oraz uprawnień klasyfikatora grzybów i grzyboznawcy
+# Rozporządzenie Ministra Zdrowiaz dnia 3 listopada 2022 r. zmieniające rozporządzenie w sprawie grzybów dopuszczonych do obrotu lub produkcji przetworów grzybowych, środków spożywczych zawierających grzyby oraz uprawnień klasyfikatora grzybów i grzyboznawcy Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-03 |
 | Data wydania | 2022-11-18 |
-| Wejście w życie | 2022-12-03 |
 | Ostatnia zmiana | 2026-03-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002365) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2365/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wykaz grzybów dopuszczonych do obrotu lub produkcji przetworów grzybowych oraz środków spożywczych zawierających grzyby
 Treść rozporządzenia
-Na podstawie art. 44 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2022 r. poz. 2132) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 16 grudnia 2021 r. pod numerem 2021/863/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 44 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2022 r. poz. 2132) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 17 maja 2011 r. w sprawie grzybów dopuszczonych do obrotu lub produkcji przetworów grzybowych, środków spożywczych zawierających grzyby oraz uprawnień klasyfikatora grzybów i grzyboznawcy (Dz. U. z 2020 r. poz. 1048 i 2215) wprowadza się następujące zmiany:
 1)
@@ -38,17 +37,24 @@ załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załącznik
 w załączniku nr 2 do rozporządzenia:
 a)
 w części „A. Półprodukty”:
-– w ust. 4 pkt 1 otrzymuje brzmienie: „ 1) do ich sporządzenia użyto jednego z gatunków grzybów świeżych wymienionych w pkt 5, 8, 11, 15–17, 21 i 22, 24–36, 38, 42, 44, 46, 48, 50–52, 57 i 58, 61–63, 65 oraz 67 i 68 załącznika nr 1 do rozporządzenia; ” ,
-– w ust. 5 pkt 1 otrzymuje brzmienie: „ 1) do ich sporządzenia użyto jednego z gatunków grzybów świeżych wymienionych w pkt 5, 8, 10 i 11, 14–17, 19 i 20, 24–36, 38, 42, 44, 50–52, 57 i 58, 64 i 65 oraz 67 i 68 załącznika nr 1 do rozporządzenia; ” ,
+w ust. 4 pkt 1 otrzymuje brzmienie: „
+1)
+do ich sporządzenia użyto jednego z gatunków grzybów świeżych wymienionych w pkt 5, 8, 11, 15–17, 21 i 22, 24–36, 38, 42, 44, 46, 48, 50–52, 57 i 58, 61–63, 65 oraz 67 i 68 załącznika nr 1 do rozporządzenia; ” ,
+w ust. 5 pkt 1 otrzymuje brzmienie: „
+1)
+do ich sporządzenia użyto jednego z gatunków grzybów świeżych wymienionych w pkt 5, 8, 10 i 11, 14–17, 19 i 20, 24–36, 38, 42, 44, 50–52, 57 i 58, 64 i 65 oraz 67 i 68 załącznika nr 1 do rozporządzenia; ” ,
 b)
 w części „B. Produkty”:
-– w ust. 4 w pkt 1 lit. a otrzymuje brzmienie: „ a) został sporządzony przy użyciu jednego z gatunków grzybów świeżych wymienionych w pkt 5, 8, 11, 14–17, 24–36, 44, 46, 50–52 oraz 57 i 58 załącznika nr 1 do rozporządzenia, ” ,
-– w ust. 10 pkt 1 otrzymuje brzmienie: „ 1) do jej sporządzenia użyto kilku gatunków grzybów suszonych wymienionych w pkt 5, 8, 10 i 11, 14–17, 19 i 20, 24–36, 38, 42, 44, 50–52, 57 i 58, 64 i 65 oraz 67 i 68 załącznika nr 1 do rozporządzenia; ” .
+w ust. 4 w pkt 1 lit. a otrzymuje brzmienie: „
+a)
+został sporządzony przy użyciu jednego z gatunków grzybów świeżych wymienionych w pkt 5, 8, 11, 14–17, 24–36, 44, 46, 50–52 oraz 57 i 58 załącznika nr 1 do rozporządzenia, ” ,
+w ust. 10 pkt 1 otrzymuje brzmienie: „
+1)
+do jej sporządzenia użyto kilku gatunków grzybów suszonych wymienionych w pkt 5, 8, 10 i 11, 14–17, 19 i 20, 24–36, 38, 42, 44, 50–52, 57 i 58, 64 i 65 oraz 67 i 68 załącznika nr 1 do rozporządzenia; ” .
 § 2.
 Grzyby wymienione w pkt 11, 34, 44 i 47 załącznika nr 1 do rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, pozyskiwane w sposób inny niż z uprawy lub spoza terytorium Rzeczypospolitej Polskiej, oraz przetwory grzybowe i środki spożywcze zawierające takie grzyby, mogą pozostawać w obrocie na terytorium Rzeczypospolitej Polskiej do dnia 31 marca 2023 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 16 grudnia 2021 r. pod numerem 2021/863/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 16 grudnia 2021 r. pod numerem 2021/863/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 Załącznik – Wykaz grzybów dopuszczonych do obrotu lub produkcji przetworów grzybowych oraz środków spożywczych zawierających grzyby
 1)
 boczniak cytrynowy – Pleurotus citrinopileatus (Singer) ;
@@ -193,6 +199,5 @@ zimówka aksamitnotrzonowa – Flammulina velutipes (Curtis) Singer ;
 71)
 żagwica listkowata – Grifola frondosa (Dicks.) Gray , pochodząca wyłącznie z uprawy lub spoza terytorium Rzeczypospolitej Polskiej;
 72)
-żółciak siarkowy – Laetiporus sulphureus (Bull.) Murrill.
-* Pozyskanie grzybów tego gatunku z dzikich populacji spoza terytorium Rzeczypospolitej Polskiej wymaga uzyskania zezwolenia, o którym mowa w przepisach wydanych na podstawie art. 50 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916, 1726 i 2185).
+żółciak siarkowy – Laetiporus sulphureus (Bull.) Murrill. * Pozyskanie grzybów tego gatunku z dzikich populacji spoza terytorium Rzeczypospolitej Polskiej wymaga uzyskania zezwolenia, o którym mowa w przepisach wydanych na podstawie art. 50 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916, 1726 i 2185).
 

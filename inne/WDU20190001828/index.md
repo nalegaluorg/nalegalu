@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 4 września 2019 r. w sprawie wymagań dotyczących niektórych owoców pochodzących z państw trzecich w celu zapobieżenia rozprzestrzenianiu się niektórych organizmów szkodliwych
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 4 września 2019 r. w sprawie wymagań dotyczących niektórych owoców pochodzących z państw trzecich w celu zapobieżenia rozprzestrzenianiu się niektórych organizmów szkodliwych Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-04 |
 | Data wydania | 2019-09-25 |
-| Wejście w życie | 2019-10-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001828) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1828/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 10 ust. 1 pkt 4 oraz art. 20 ust. 1 pkt 6 i ust. 2 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2019 r. poz. 972) zarządza się, co następuje:
+Niniejsze rozporządzenie wykonuje decyzję wykonawczą Komisji (UE) 2017/2374 z dnia 15 grudnia 2017 r. określającą warunki przemieszczania, przechowywania i przetwarzania niektórych owoców i ich hybryd, pochodzących z państw trzecich w celu zapobieżenia wprowadzaniu do Unii niektórych organizmów szkodliwych (Dz. Urz. UE L 337 z 19.12.2017, str. 60). Na podstawie art. 10 ust. 1 pkt 4 oraz art. 20 ust. 1 pkt 6 i ust. 2 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2019 r. poz. 972) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -86,6 +85,5 @@ prowadzi się dokumentację pozwalającą na ustalenie pochodzenia każdej parti
 2)
 przechowuje się owoce cytrusowe w sposób zapobiegający rozprzestrzenianiu się organizmów Phyllosticta citricarpa (McAlpine) Van der Aa., Xanthomonas citri pv. citri oraz Xanthomonas citri pv. aurantifolii .
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250). 2) Niniejsze rozporządzenie wykonuje decyzję wykonawczą Komisji (UE) 2017/2374 z dnia 15 grudnia 2017 r. określającą warunki przemieszczania, przechowywania i przetwarzania niektórych owoców i ich hybryd, pochodzących z państw trzecich w celu zapobieżenia wprowadzaniu do Unii niektórych organizmów szkodliwych (Dz. Urz. UE L 337 z 19.12.2017, str. 60).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250). 2) Niniejsze rozporządzenie wykonuje decyzję wykonawczą Komisji (UE) 2017/2374 z dnia 15 grudnia 2017 r. określającą warunki przemieszczania, przechowywania i przetwarzania niektórych owoców i ich hybryd, pochodzących z państw trzecich w celu zapobieżenia wprowadzaniu do Unii niektórych organizmów szkodliwych (Dz. Urz. UE L 337 z 19.12.2017, str. 60).
 

@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-02-21 |
 | Data wydania | 2012-03-06 |
-| Wejście w życie | 2012-03-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000242) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/242/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 23 ust. 3 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 23 ust. 3 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 85, poz. 459, Nr 112, poz. 654, Nr 153, poz. 903 i Nr 160, poz. 963.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Krajowej Rady Radiofonii i Telewizji z dnia 24 kwietnia 2003 r. w sprawie trybu postępowania w związku z przedstawianiem w programach publicznej radiofonii i telewizji stanowisk partii politycznych, związków zawodowych i związków pracodawców w węzłowych sprawach publicznych (Dz. U. Nr 75, poz. 679 oraz z 2009 r. Nr 222, poz. 1774) w § 3 ust. 4–6 otrzymują brzmienie:
-„
+W rozporządzeniu Krajowej Rady Radiofonii i Telewizji z dnia 24 kwietnia 2003 r. w sprawie trybu postępowania w związku z przedstawianiem w programach publicznej radiofonii i telewizji stanowisk partii politycznych, związków zawodowych i związków pracodawców w węzłowych sprawach publicznych (Dz. U. Nr 75, poz. 679 oraz z 2009 r. Nr 222, poz. 1774) w § 3 ust. 4–6 otrzymują brzmienie: „
 4.
 Czas rozpowszechniania audycji, o których mowa w ust. 2 i 3, wynosi dla:
 1)
@@ -52,8 +50,7 @@ audycji telewizyjnych przedstawiających stanowiska związków zawodowych i zwi�
 5.
 Audycja telewizyjna przedstawiająca stanowiska partii politycznych, związków zawodowych i związków pracodawców będzie rozpowszechniana w godzinach 800–2300.
 6.
-Audycja radiowa przedstawiająca stanowiska partii politycznych, związków zawodowych i związków pracodawców będzie rozpowszechniana w godzinach 600–2200.
-” .
+Audycja radiowa przedstawiająca stanowiska partii politycznych, związków zawodowych i związków pracodawców będzie rozpowszechniana w godzinach 600–2200. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 85, poz. 459, Nr 112, poz. 654, Nr 153, poz. 903 i Nr 160, poz. 963.
 

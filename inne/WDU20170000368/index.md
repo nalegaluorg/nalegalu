@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 21 lutego 2017 r. w sprawie określenia waluty i wysokości ryczałtu przysługującego funkcjonariuszowi Służby Celno-Skarbowej wykonującemu stałe zadania służbowe poza terytorium Rzeczypospolitej Polskiej
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 21 lutego 2017 r. w sprawie określenia waluty i wysokości ryczałtu przysługującego funkcjonariuszowi Służby Celno-Skarbowej wykonującemu stałe zadania służbowe poza terytorium Rzeczypospolitej Polskiej Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-21 |
 | Data wydania | 2017-02-27 |
-| Wejście w życie | 2017-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000368) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/368/text.pdf) |
 
@@ -56,6 +55,5 @@ W przypadku wielokrotnego przekraczania granicy Rzeczypospolitej Polskiej w cią
 3.
 Jeżeli czas pobytu poza terytorium RP trwa nieprzerwanie w dwóch następujących po sobie dniach, pobyt ten traktuje się jako pobyt poza terytorium RP w ciągu doby.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 6 listopada 2009 r. w sprawie określenia waluty i wysokości ryczałtu przysługującego funkcjonariuszowi celnemu wykonującemu stałe zadania służbowe poza terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 1532), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255).
+Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 6 listopada 2009 r. w sprawie określenia waluty i wysokości ryczałtu przysługującego funkcjonariuszowi celnemu wykonującemu stałe zadania służbowe poza terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 1532), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 6 listopada 2009 r. w sprawie określenia waluty i wysokości ryczałtu przysługującego funkcjonariuszowi celnemu wykonującemu stałe zadania służbowe poza terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 1532), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255).
 

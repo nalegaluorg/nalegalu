@@ -50,7 +50,7 @@ w sprawie Centralnej Ewidencji Badań Klinicznych w zakresie badanych produktów
 1) z urzędu, na podstawie decyzji Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych;
 2) na wniosek sponsora lub badacza, w terminie 7 dni od dnia złożenia go Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych.
 2. Zmiany w Ewidencji, o których mowa w ust. 1 pkt 2, obejmują wyłącznie zmiany:
-1) niemające wpływu na przebieg badania klinicznego weterynaryjnego lub zmiany, których natychmiastowe wprowadzenie jest konieczne, aby wyeliminować ryzyko zagrażające zwierzętom lub osobom uczestniczącym w badaniu klinicz nym weterynaryjnym lub środowisku albo
+1) niemające wpływu na przebieg badania klinicznego weterynaryjnego lub zmiany, których natychmiastowe wprowadzenie jest konieczne, aby wyeliminować ryzyko zagrażające zwierzętom lub osobom uczestniczącym w badaniu klinicznym weterynaryjnym lub środowisku albo
 2) dotyczące danych, o których mowa w § 3 ust. 2 pkt 6 i 7.
 § 5. 1. Wpisów do Ewidencji dokonuje się pod kolejnym numerem.
 2. Jeżeli dane, o których mowa w § 3 ust. 2, nie mogą być ze względu na swoją objętość ujęte w Ewidencji, stanowią one załącznik do Ewidencji. W Ewidencji sporządza się adnotację o dołączeniu załącznika.

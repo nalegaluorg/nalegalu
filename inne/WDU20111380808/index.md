@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 kwietnia 2011 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw
+# Ustawa z dnia 28 kwietnia 2011 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawę z dnia 19 grudnia 2008 r. o emeryturach pomostowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-04-28 |
 | Data wydania | 2011-07-05 |
-| Wejście w życie | 2011-07-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111380808) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/808/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2009 r. Nr 205, poz. 1585, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2009 r. Nr 205, poz. 1585, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 218, poz. 1690, z 2010 r. Nr 105, poz. 668, Nr 182, poz. 1228, Nr 225, poz. 1474, Nr 254, poz. 1700 i Nr 257, poz. 1725 oraz z 2011 r. Nr 45, poz. 235 i Nr 75, poz. 398.) wprowadza się następujące zmiany:
 
 - **1)** w art. 24: ust. 4 otrzymuje brzmienie: „
     - **a)**
@@ -70,7 +69,7 @@ source: "eli-html"
 
 - **2)** uchyla się art. 23a.
 
-**Art. 3.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) w art. 94 uchyla się ust. 2.
+**Art. 3.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696.) w art. 94 uchyla się ust. 2.
 
 **Art. 4.** W ustawie z dnia 19 grudnia 2008 r. o emeryturach pomostowych (Dz. U. Nr 237, poz. 1656 oraz z 2011 r. Nr 75, poz. 398) wprowadza się następujące zmiany:
 
@@ -102,5 +101,5 @@ source: "eli-html"
 
 **Art. 6.** Umowy o realizację świadczeń zdrowotnych z zakresu stomatologii i szczepień ochronnych zawarte na podstawie przepisów wydanych na podstawie art. 23a ust. 2 ustawy, o której mowa w art. 2, między Zakładem Ubezpieczeń Społecznych a placówkami medycznymi wybranymi w drodze konkursu ofert zachowują ważność do upływu terminu, na który zostały zawarte.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawę z dnia 19 grudnia 2008 r. o emeryturach pomostowych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 218, poz. 1690, z 2010 r. Nr 105, poz. 668, Nr 182, poz. 1228, Nr 225, poz. 1474, Nr 254, poz. 1700 i Nr 257, poz. 1725 oraz z 2011 r. Nr 45, poz. 235 i Nr 75, poz. 398. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696.
 

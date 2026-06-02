@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Naukiz dnia 12 września 2024 r. w sprawie danych przetwarzanych w Zintegrowanym Systemie Informacji o Szkolnictwie Wyższym i Nauce POL-on
+# Rozporządzenie Ministra Naukiz dnia 12 września 2024 r. w sprawie danych przetwarzanych w Zintegrowanym Systemie Informacji o Szkolnictwie Wyższym i Nauce POL-on Minister Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Nauki (Dz. U. poz. 2716).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-12 |
 | Data wydania | 2024-09-24 |
-| Wejście w życie | 2024-09-25 |
 | Ostatnia zmiana | 2025-10-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001403) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1403/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 353 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 353 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -174,8 +173,7 @@ liczbę dni, w których pracownik w danym roku:
 a)
 przebywał na urlopie bezpłatnym, urlopie macierzyńskim, urlopie na warunkach urlopu macierzyńskiego, urlopie ojcowskim, urlopie wychowawczym, urlopie rodzicielskim lub urlopie dla poratowania zdrowia,
 b)
-pobierał zasiłek chorobowy lub świadczenie rehabilitacyjne
-według stanu na dzień 31 grudnia.
+pobierał zasiłek chorobowy lub świadczenie rehabilitacyjne – według stanu na dzień 31 grudnia.
 6.
 W zakresie danych, o których mowa w art. 343 ust. 1 pkt 17 ustawy, w wykazie pracowników zamieszcza się następujące informacje:
 1)
@@ -771,7 +769,11 @@ imion i nazwisk osób, które prowadziły działalność naukową objętą każd
 f)
 informacji, czy dany opis wpływu został zgłoszony jako:
 – wymagany, w związku z liczbą osób ustaloną zgodnie z przepisami wydanymi na podstawie art. 267 ust. 2 pkt 1 ustawy w okresie objętym ewaluacją,
-– dodatkowy, w związku z: – – prowadzeniem działalności naukowej w ramach dyscypliny należącej do dziedziny nauk humanistycznych, dziedziny nauk społecznych albo dziedziny nauk teologicznych, związany z wybitnymi monografiami naukowymi, słownikami biograficznymi, słownikami bibliograficznymi lub bazami danych, szczególnie istotnymi dla rozwoju danej dziedziny, – – prowadzeniem działalności naukowej w ramach dziedziny nauk inżynieryjno-technicznych, związany z projektami architektonicznymi, urbanistycznymi lub planami zagospodarowania przestrzennego, – – utworzeniem innego podmiotu w celu komercjalizacji wyników badań naukowych lub prac rozwojowych lub know-how związanego z tymi wynikami, zwanej dalej „komercjalizacją”, związany z działalnością utworzonego podmiotu, wraz z podaniem nazwy tego podmiotu – przy czym należy wskazać kolejność uwzględniania w ewaluacji,
+dodatkowy, w związku z:
+– – prowadzeniem działalności naukowej w ramach dyscypliny należącej do dziedziny nauk humanistycznych, dziedziny nauk społecznych albo dziedziny nauk teologicznych, związany z wybitnymi monografiami naukowymi, słownikami biograficznymi, słownikami bibliograficznymi lub bazami danych, szczególnie istotnymi dla rozwoju danej dziedziny,
+– – prowadzeniem działalności naukowej w ramach dziedziny nauk inżynieryjno-technicznych, związany z projektami architektonicznymi, urbanistycznymi lub planami zagospodarowania przestrzennego,
+– – utworzeniem innego podmiotu w celu komercjalizacji wyników badań naukowych lub prac rozwojowych lub know-how związanego z tymi wynikami, zwanej dalej „komercjalizacją”, związany z działalnością utworzonego podmiotu, wraz z podaniem nazwy tego podmiotu
+– przy czym należy wskazać kolejność uwzględniania w ewaluacji,
 g)
 informacji o efektach działalności naukowej mających znaczenie dla kreowania wpływu, w tym:
 – charakterystyki głównych wniosków z badań naukowych lub prac rozwojowych albo efektów działalności naukowej w zakresie twórczości artystycznej (maksymalnie 2500 znaków ze spacjami dla każdej wersji językowej),
@@ -900,8 +902,7 @@ dane techniczne i rok produkcji:
 a)
 aparatury naukowo-badawczej,
 b)
-infrastruktury informatycznej
-o wartości przekraczającej 500 000 zł;
+infrastruktury informatycznej – o wartości przekraczającej 500 000 zł;
 10)
 dane osoby wskazanej przez kierownika podmiotu do kontaktu w sprawach związanych z użytkowaniem infrastruktury sfinansowanej w ramach inwestycji, w tym aparatury naukowo-badawczej lub infrastruktury informatycznej, o wartości przekraczającej 500 000 zł:
 a)
@@ -1107,8 +1108,7 @@ Do wykazu pracowników dane, o których mowa w art. 343 ust. 1:
 1)
 pkt 10 ustawy, wprowadzają rektor, dyrektor instytutu PAN, dyrektor instytutu badawczego, dyrektor instytutu międzynarodowego i osoba kierująca innym podmiotem prowadzącym głównie działalność naukową w sposób samodzielny i ciągły posiadającym siedzibę na terytorium Rzeczypospolitej Polskiej,
 2)
-pkt 11, 12 i 16 ustawy, wprowadzają rektor, rektor uczelni prowadzonej przez kościół lub inny związek wyznaniowy otrzymującej subwencje, dotacje i inne środki z budżetu państwa, dyrektor instytutu PAN, dyrektor instytutu badawczego, dyrektor instytutu międzynarodowego, prezes PAU i osoba kierująca innym podmiotem prowadzącym głównie działalność naukową w sposób samodzielny i ciągły posiadającym siedzibę na terytorium Rzeczypospolitej Polskiej
-w terminie 30 dni od dnia zatrudnienia pracownika.
+pkt 11, 12 i 16 ustawy, wprowadzają rektor, rektor uczelni prowadzonej przez kościół lub inny związek wyznaniowy otrzymującej subwencje, dotacje i inne środki z budżetu państwa, dyrektor instytutu PAN, dyrektor instytutu badawczego, dyrektor instytutu międzynarodowego, prezes PAU i osoba kierująca innym podmiotem prowadzącym głównie działalność naukową w sposób samodzielny i ciągły posiadającym siedzibę na terytorium Rzeczypospolitej Polskiej – w terminie 30 dni od dnia zatrudnienia pracownika.
 3.
 Podmiot, o którym mowa w ust. 1, w terminie do dnia 31 grudnia roku następującego po roku zaistnienia zmiany wprowadza do wykazu pracowników dane, o których mowa w art. 343 ust. 1 pkt 21 ustawy. W przypadku osiągnięć naukowych lub artystycznych uzyskanych w roku poprzedzającym rok przeprowadzenia ewaluacji dane dotyczące tych osiągnięć wprowadza się w terminie do dnia 15 stycznia roku, w którym ewaluacja jest przeprowadzana.
 4.
@@ -1164,8 +1164,7 @@ w sprawie stwierdzenia nieważności decyzji o nadaniu stopnia doktora,
 e)
 uchylająca decyzję o nadaniu stopnia doktora i rozstrzygająca sprawę co do istoty,
 f)
-o skreśleniu doktoranta z listy doktorantów
-stała się prawomocna.
+o skreśleniu doktoranta z listy doktorantów – stała się prawomocna.
 2.
 Dane w wykazie osób ubiegających się o stopień doktora przechowuje się przez okres 20 lat, liczony od roku następującego po roku, w którym nastąpiło oznaczenie tych danych jako archiwalne. Po upływie tego okresu podmiot, o którym mowa w ust. 1, niezwłocznie usuwa dane archiwalne z wykazu osób ubiegających się o stopień doktora.
 3.
@@ -1329,11 +1328,9 @@ Rektor:
 1)
 zaktualizuje dane, o których mowa w § 5 ust. 4 pkt 3 lit. d,
 2)
-wprowadzi dane, o których mowa w § 5 ust. 2 pkt 11 lit. c tiret pierwsze, drugie i trzecie oraz pkt 19 lit. b
-w terminie 90 dni od dnia wejścia w życie rozporządzenia.
+wprowadzi dane, o których mowa w § 5 ust. 2 pkt 11 lit. c tiret pierwsze, drugie i trzecie oraz pkt 19 lit. b – w terminie 90 dni od dnia wejścia w życie rozporządzenia.
 § 19.
 Do wniosków o założenie konta w Systemie POL-on złożonych przez podmioty, o których mowa w § 7 ust. 1 pkt 9, i nierozpatrzonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 20.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Nauki (Dz. U. poz. 2716). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 6 marca 2019 r. w sprawie danych przetwarzanych w Zintegrowanym Systemie Informacji o Szkolnictwie Wyższym i Nauce POL-on (Dz. U. z 2022 r. poz. 700), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 38 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1672 oraz z 2024 r. poz. 123).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 6 marca 2019 r. w sprawie danych przetwarzanych w Zintegrowanym Systemie Informacji o Szkolnictwie Wyższym i Nauce POL-on (Dz. U. z 2022 r. poz. 700), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 38 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1672 oraz z 2024 r. poz. 123). 1) Minister Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Nauki (Dz. U. poz. 2716). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 6 marca 2019 r. w sprawie danych przetwarzanych w Zintegrowanym Systemie Informacji o Szkolnictwie Wyższym i Nauce POL-on (Dz. U. z 2022 r. poz. 700), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 38 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1672 oraz z 2024 r. poz. 123).
 

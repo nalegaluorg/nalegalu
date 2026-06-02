@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-09 |
 | Data wydania | 2018-11-30 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002246) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2246/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244 i 2245.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5a po pkt 18 dodaje się pkt 18a-18c w brzmieniu: „
 - **18a)** ustawie o wspieraniu termomodernizacji i remontów – oznacza to ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów (Dz. U. z 2018 r. poz. 966);
@@ -36,7 +35,7 @@ source: "eli-html"
 - **3)** w art. 21 w ust. 1: po pkt 129 dodaje się pkt 129a w brzmieniu: „
     - **a)**
 
-- **129a)** świadczenia, w szczególności dotacje oraz kwoty umorzonych pożyczek, otrzymane ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej lub wojewódzkich funduszy ochrony środowiska i gospodarki wodnej, na przygotowanie dokumentacji oraz realizację przedsięwzięcia: w budynku mieszkalnym jednorodzinnym lub w budynku mieszkalnym jednorodzinnym nowo budowanym, który nie został przekazany lub zgłoszony do użytkowania, pod warunkiem że zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. – Prawo budowlane uzyskano zgodę na rozpoczęcie budowy budynku mieszkalnego jednorodzinnego w ramach programów mających na celu poprawę efektywności energetycznej i zmniejszenie emisji pyłów i innych zanieczyszczeń do atmosfery; ” , w pkt 133 wyrazy „ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów (Dz. U. z 2018 r. poz. 966)” zastępuje się wyrazami „ustawy o wspieraniu termomodernizacji i remontów”;
+- **129a)** świadczenia, w szczególności dotacje oraz kwoty umorzonych pożyczek, otrzymane ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej lub wojewódzkich funduszy ochrony środowiska i gospodarki wodnej, na przygotowanie dokumentacji oraz realizację przedsięwzięcia: w budynku mieszkalnym jednorodzinnym lub w budynku mieszkalnym jednorodzinnym nowo budowanym, który nie został przekazany lub zgłoszony do użytkowania, pod warunkiem że zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. – Prawo budowlane uzyskano zgodę na rozpoczęcie budowy budynku mieszkalnego jednorodzinnego – w ramach programów mających na celu poprawę efektywności energetycznej i zmniejszenie emisji pyłów i innych zanieczyszczeń do atmosfery; ” , w pkt 133 wyrazy „ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów (Dz. U. z 2018 r. poz. 966)” zastępuje się wyrazami „ustawy o wspieraniu termomodernizacji i remontów”;
     - **a)**
     - **b)**
     - **b)**
@@ -68,7 +67,7 @@ source: "eli-html"
 
 10. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w porozumieniu z ministrem właściwym do spraw środowiska, ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz rodzajów materiałów budowlanych, urządzeń i usług związanych z realizacją przedsięwzięć termomodernizacyjnych, o których mowa w ust. 1, mając na uwadze zapewnienie poprawy efektywności energetycznej przedsięwzięć termomodernizacyjnych oraz ich wpływ na poprawę jakości powietrza. ” .
 
-**Art. 2.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2017 r. poz. 2157, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2017 r. poz. 2157, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2175 oraz z 2018 r. poz. 650, 1291, 1629, 2126, 2159 i 2244.) wprowadza się następujące zmiany:
 
 - **1)** w art. 11 ust. 1 i 2 otrzymują brzmienie: „
 
@@ -90,5 +89,5 @@ source: "eli-html"
 
 **Art. 4.** Przepisy ustaw zmienianych w art. 1 i art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się do dochodów (przychodów) uzyskanych od dnia 1 stycznia 2019 r.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244 i 2245. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2175 oraz z 2018 r. poz. 650, 1291, 1629, 2126, 2159 i 2244.
 

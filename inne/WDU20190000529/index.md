@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracji Oraz Ministra Sprawiedliwościz dnia 14 marca 2019 r. w sprawie poruszania się po drogach pojazdów nienormatywnych Policji, Inspekcji Transportu Drogowego, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Więziennej, Krajowej Administracji Skarbowej wykorzystywanych przez Służbę Celno-Skarbową oraz jednostek ochrony przeciwpożarowej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracji Oraz Ministra Sprawiedliwościz dnia 14 marca 2019 r. w sprawie poruszania się po drogach pojazdów nienormatywnych Policji, Inspekcji Transportu Drogowego, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Więziennej, Krajowej Administracji Skarbowej wykorzystywanych przez Służbę Celno-Skarbową oraz jednostek ochrony przeciwpożarowej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-14 |
 | Data wydania | 2019-03-20 |
-| Wejście w życie | 2019-03-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000529) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/529/text.pdf) |
 
@@ -124,9 +123,7 @@ plany przejazdu pojazdu nienormatywnego opracowane na podstawie § 3 ust. 1,
 2)
 uzgodnienia w zakresie planowanego terminu i trasy przejazdu pojazdu nienormatywnego, o których mowa w § 4,
 3)
-zgłoszenia, o których mowa w § 5 ust. 1
-rozporządzenia Ministra Spraw Wewnętrznych i Administracji oraz Ministra Sprawiedliwości z dnia 1 marca 2017 r. w sprawie warunków poruszania się po drogach pojazdów nienormatywnych Policji, Inspekcji Transportu Drogowego, Biura Ochrony Rządu, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Więziennej, Krajowej Administracji Skarbowej wykorzystywanych przez Służbę Celno-Skarbową oraz jednostek ochrony przeciwpożarowej (Dz. U. poz. 449).
+zgłoszenia, o których mowa w § 5 ust. 1 – rozporządzenia Ministra Spraw Wewnętrznych i Administracji oraz Ministra Sprawiedliwości z dnia 1 marca 2017 r. w sprawie warunków poruszania się po drogach pojazdów nienormatywnych Policji, Inspekcji Transportu Drogowego, Biura Ochrony Rządu, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Więziennej, Krajowej Administracji Skarbowej wykorzystywanych przez Służbę Celno-Skarbową oraz jednostek ochrony przeciwpożarowej (Dz. U. poz. 449).
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji oraz Ministra Sprawiedliwości z dnia 1 marca 2017 r. w sprawie warunków poruszania się po drogach pojazdów nienormatywnych Policji, Inspekcji Transportu Drogowego, Biura Ochrony Rządu, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Więziennej, Krajowej Administracji Skarbowej wykorzystywanych przez Służbę Celno-Skarbową oraz jednostek ochrony przeciwpożarowej (Dz. U. poz. 449).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji oraz Ministra Sprawiedliwości z dnia 1 marca 2017 r. w sprawie warunków poruszania się po drogach pojazdów nienormatywnych Policji, Inspekcji Transportu Drogowego, Biura Ochrony Rządu, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Więziennej, Krajowej Administracji Skarbowej wykorzystywanych przez Służbę Celno-Skarbową oraz jednostek ochrony przeciwpożarowej (Dz. U. poz. 449). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji oraz Ministra Sprawiedliwości z dnia 1 marca 2017 r. w sprawie warunków poruszania się po drogach pojazdów nienormatywnych Policji, Inspekcji Transportu Drogowego, Biura Ochrony Rządu, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Więziennej, Krajowej Administracji Skarbowej wykorzystywanych przez Służbę Celno-Skarbową oraz jednostek ochrony przeciwpożarowej (Dz. U. poz. 449).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 29 marca 2007 r. o zmianie ustawy – Prawo o adwokaturze i niektórych innych ustaw
+# Ustawa z dnia 29 marca 2007 r. o zmianie ustawy – Prawo o adwokaturze i niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 lipca 1982 r. o radcach prawnych i ustawę z dnia 14 lutego 1991 r. – Prawo o notariacie.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-03-29 |
 | Data wydania | 2007-05-09 |
-| Wejście w życie | 2007-06-09 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070800540) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/540/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2002 r. Nr 123, poz. 1058, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2002 r. Nr 123, poz. 1058, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1069 i Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 52, z 2004 r. Nr 34, poz. 303, Nr 62, poz. 577 i Nr 202, poz. 2067, z 2005 r. Nr 163, poz. 1361, Nr 169, poz. 1417 i Nr 264, poz. 2205, z 2006 r. Nr 75, poz. 529 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
@@ -142,7 +141,7 @@ source: "eli-html"
 
 - **1)** sądy,
 - **2)** prokuratury,
-- **3)** właściwe ze względu na charakter prowadzonych przez danego adwokata spraw organy administracji rządowej i samorządu terytorialnego w okręgu izby adwokackiej, w której adwokat albo aplikant adwokacki jest wpisany na listę, a w sprawie adwokata wykonującego zawód radcy prawnego – radę okręgowej izby radców prawnych.
+- **3)** właściwe ze względu na charakter prowadzonych przez danego adwokata spraw organy administracji rządowej i samorządu terytorialnego – w okręgu izby adwokackiej, w której adwokat albo aplikant adwokacki jest wpisany na listę, a w sprawie adwokata wykonującego zawód radcy prawnego – radę okręgowej izby radców prawnych.
 
 4. Usunięcie wzmianki o ukaraniu dyscyplinarnym następuje z urzędu po upływie:
 
@@ -156,7 +155,7 @@ source: "eli-html"
 - **23)** uchyla się art. 95m;
 - **24)** po art. 95m dodaje się art. 95n w brzmieniu: „ W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy Kodeksu postępowania karnego. ” .
 
-**Art. 2.** W ustawie z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2002 r. Nr 123, poz. 1059, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2002 r. Nr 123, poz. 1059, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1069 i Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152, z 2004 r. Nr 34, poz. 303, Nr 62, poz. 577 i Nr 202, poz. 2067, z 2005 r. Nr 163, poz. 1361, Nr 169, poz. 1417 i Nr 264, poz. 2205, z 2006 r. Nr 104, poz. 708 i 711, Nr 206, poz. 1522 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 ust. 3 otrzymuje brzmienie: „
 
@@ -266,7 +265,7 @@ source: "eli-html"
 - **1)** sądy,
 - **2)** prokuratury,
 - **3)** pracodawców oraz inne podmioty, na rzecz których dany radca prawny świadczy pomoc prawną,
-- **4)** właściwe ze względu na charakter prowadzonych przez danego radcę prawnego spraw organy administracji rządowej i samorządu terytorialnego w okręgu okręgowej izby radców prawnych, w której radca prawny albo aplikant radcowski jest wpisany na listę, a w sprawie radcy prawnego wykonującego zawód adwokata – okręgową radę adwokacką.
+- **4)** właściwe ze względu na charakter prowadzonych przez danego radcę prawnego spraw organy administracji rządowej i samorządu terytorialnego – w okręgu okręgowej izby radców prawnych, w której radca prawny albo aplikant radcowski jest wpisany na listę, a w sprawie radcy prawnego wykonującego zawód adwokata – okręgową radę adwokacką.
 
 5. Usunięcie wzmianki o ukaraniu dyscyplinarnym następuje z urzędu po upływie:
 
@@ -282,7 +281,7 @@ source: "eli-html"
 
 **Art. 741.** W sprawach nieuregulowanych do postępowania dyscyplinarnego stosuje się odpowiednio przepisy Kodeksu postępowania karnego. ” .
 
-**Art. 3.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2002 r. Nr 42, poz. 369, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2002 r. Nr 42, poz. 369, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 49, poz. 408, Nr 124, poz. 1152 i Nr 217, poz. 2142, z 2004 r. Nr 62, poz. 577, Nr 147, poz. 1547, Nr 173, poz. 1808 i Nr 202, poz. 2067, z 2005 r. Nr 163, poz. 1361, Nr 167, poz. 1398, Nr 169, poz. 1417 i Nr 264, poz. 2205, z 2006 r. Nr 218, poz. 1592 i Nr 225, poz. 1635 oraz z 2007 r. Nr 25, poz. 162.) wprowadza się następujące zmiany:
 
 - **1)** w art. 16: w § 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **a)**
@@ -310,5 +309,5 @@ source: "eli-html"
 
 **Art. 4.** Postępowanie dyscyplinarne wszczęte przed dniem wejścia w życie ustawy toczy się do końca postępowania w danej instancji według przepisów dotychczasowych.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 lipca 1982 r. o radcach prawnych i ustawę z dnia 14 lutego 1991 r. – Prawo o notariacie. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1069 i Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 52, z 2004 r. Nr 34, poz. 303, Nr 62, poz. 577 i Nr 202, poz. 2067, z 2005 r. Nr 163, poz. 1361, Nr 169, poz. 1417 i Nr 264, poz. 2205, z 2006 r. Nr 75, poz. 529 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1069 i Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152, z 2004 r. Nr 34, poz. 303, Nr 62, poz. 577 i Nr 202, poz. 2067, z 2005 r. Nr 163, poz. 1361, Nr 169, poz. 1417 i Nr 264, poz. 2205, z 2006 r. Nr 104, poz. 708 i 711, Nr 206, poz. 1522 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 49, poz. 408, Nr 124, poz. 1152 i Nr 217, poz. 2142, z 2004 r. Nr 62, poz. 577, Nr 147, poz. 1547, Nr 173, poz. 1808 i Nr 202, poz. 2067, z 2005 r. Nr 163, poz. 1361, Nr 167, poz. 1398, Nr 169, poz. 1417 i Nr 264, poz. 2205, z 2006 r. Nr 218, poz. 1592 i Nr 225, poz. 1635 oraz z 2007 r. Nr 25, poz. 162.
 

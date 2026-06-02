@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-09-20 |
 | Data wydania | 2012-10-02 |
-| Wejście w życie | 2012-10-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001089) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1089/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Szczegółowy opis granic i obszar składu wolnocłowego na terenie Portu Lotniczego Łódź im. Władysława Reymonta
 Treść rozporządzenia
-Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. Nr 68, poz. 622, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. Nr 68, poz. 622, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2008 r. Nr 209, poz. 1320 i Nr 215, poz. 1355, z 2009 r. Nr 168, poz. 1323, z 2010 r. Nr 106, poz. 673, z 2011 r. Nr 106, poz. 622 i Nr 254, poz. 1529 oraz z 2012 r. poz. 908.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 30 października 2008 r. w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Łódź im. Władysława Reymonta (Dz. U. Nr 207, poz. 1300) załącznik otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2008 r. Nr 209, poz. 1320 i Nr 215, poz. 1355, z 2009 r. Nr 168, poz. 1323, z 2010 r. Nr 106, poz. 673, z 2011 r. Nr 106, poz. 622 i Nr 254, poz. 1529 oraz z 2012 r. poz. 908.
 Załącznik – Szczegółowy opis granic i obszar składu wolnocłowego na terenie Portu Lotniczego Łódź im. Władysława Reymonta
 Skład wolnocłowy jest usytuowany na parterze i na pierwszym piętrze Terminalu Pasażerskiego. Z uwagi na usytuowanie składu wolnocłowego wewnątrz budynku, ograniczenie składu stanowią trwałe elementy konstrukcyjne budynku z wyłączeniem przestrzeni wyznaczonej przez linię punktów kontroli bezpieczeństwa wewnątrz pomieszczenia ODL 0.05. Opis przebiegu granic składu wolnocłowego jest przedstawiony na mapie w skali 1:500. Dokument zawierający opis przebiegu granic składu wolnocłowego wraz z mapą jest przechowywany u zarządzającego składem wolnocłowym, a jego kopie w izbie celnej, kierowanej przez właściwego miejscowo dyrektora izby celnej nadzorującego skład wolnocłowy, a także w urzędzie obsługującym ministra właściwego do spraw finansów publicznych. Granicę obszaru składu wolnocłowego na parterze Terminalu Pasażerskiego stanowią następujące odcinki ścian:
 1)
@@ -89,8 +88,7 @@ trzy odcinki ściany o długości: 6,35 m, 4,15 m i 1,8 m, wzdłuż pomieszczeni
 26)
 ściana o długości 2,99 m, wzdłuż pomieszczenia ROD 0.05;
 27)
-ściana o długości 66,78 m, z czternastoma otworami drzwiowymi, wzdłuż pomieszczeń: ROD 0.05, ODL 0.011, ODL 0.09, H 0.02, ROD 0.04, PLL 0.01 i PLL 0.02, oddzielająca skład wolnocłowy od płyty postojowej dla samolotów.
-Granicę obszaru składu wolnocłowego na pierwszym piętrze Terminalu Pasażerskiego stanowią następujące odcinki ścian:
+ściana o długości 66,78 m, z czternastoma otworami drzwiowymi, wzdłuż pomieszczeń: ROD 0.05, ODL 0.011, ODL 0.09, H 0.02, ROD 0.04, PLL 0.01 i PLL 0.02, oddzielająca skład wolnocłowy od płyty postojowej dla samolotów. Granicę obszaru składu wolnocłowego na pierwszym piętrze Terminalu Pasażerskiego stanowią następujące odcinki ścian:
 1)
 ściana o długości 35,19 m, oddzielająca skład wolnocłowy od przestrzeni nad wjazdem do sortowni bagażu;
 2)
@@ -108,6 +106,5 @@ dwa odcinki ściany o długości 10,23 m i 1,11 m, wzdłuż pomieszczenia U 1.13
 8)
 ściana o długości 29,23 m, z jednym otworem drzwiowym, wzdłuż pomieszczeń: U 1.12, P 1.09 i U 1.10, oddzielająca skład wolnocłowy od korytarza na taras widokowy;
 9)
-ściana o długości 32,15 m, wzdłuż pomieszczeń: U 1.10, U 1.10A i U 1.11.
-Obszar składu wolnocłowego Obszar składu wolnocłowego wynosi 2704,08 m2.
+ściana o długości 32,15 m, wzdłuż pomieszczeń: U 1.10, U 1.10A i U 1.11. Obszar składu wolnocłowego Obszar składu wolnocłowego wynosi 2704,08 m2.
 

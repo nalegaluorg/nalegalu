@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 30 listopada 2022 r. zmieniające rozporządzenie w sprawie wymagań dla zabawek
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 30 listopada 2022 r. zmieniające rozporządzenie w sprawie wymagań dla zabawek Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-30 |
 | Data wydania | 2022-12-02 |
-| Wejście w życie | 2022-12-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002489) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2489/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 12 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Komisji (UE) 2021/903 z dnia 3 czerwca 2021 r. zmieniającą dyrektywę Parlamentu Europejskiego i Rady 2009/48/WE w odniesieniu do określonych stężeń granicznych aniliny w niektórych zabawkach (Dz. Urz. UE L 197 z 04.06.2021, str. 110). Na podstawie art. 12 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Rozwoju i Finansów z dnia 20 października 2016 r. w sprawie wymagań dla zabawek (Dz. U. z 2019 r. poz. 1816, z 2021 r. poz. 848 i 849 oraz z 2022 r. poz. 1403) wprowadza się następujące zmiany:
 1)
@@ -35,6 +34,5 @@ odnośnik nr 2 otrzymuje brzmienie: „ 2) Niniejsze rozporządzenie w zakresie 
 2)
 odnośnik nr 3 otrzymuje brzmienie: „ 3) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 64 z 03.03.2012, str. 7, Dz. Urz. UE L 195 z 18.07.2013, str. 16, Dz. Urz. UE L 355 z 31.12.2013, str. 92, Dz. Urz. UE L 182 z 21.06.2014, str. 49, Dz. Urz. UE L 183 z 24.06.2014, str. 49, Dz. Urz. UE L 192 z 01.07.2014, str. 49, Dz. Urz. UE L 306 z 24.11.2015, str. 17, 20 i 23, Dz. Urz. UE L 110 z 27.04.2017, str. 6, Dz. Urz. UE L 115 z 04.05.2017, str. 47, Dz. Urz. UE L 138 z 25.05.2017, str. 128, Dz. Urz. UE L 122 z 17.05.2018, str. 29, Dz. Urz. UE L 298 z 19.11.2019, str. 5, Dz. Urz. UE L 299 z 20.11.2019, str. 51, Dz. Urz. UE L 423 z 15.12.2020, str. 53 i 58 oraz Dz. Urz. UE L 197 z 04.06.2021, str. 110. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 5 grudnia 2022 r.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Komisji (UE) 2021/903 z dnia 3 czerwca 2021 r. zmieniającą dyrektywę Parlamentu Europejskiego i Rady 2009/48/WE w odniesieniu do określonych stężeń granicznych aniliny w niektórych zabawkach (Dz. Urz. UE L 197 z 04.06.2021, str. 110).
+Rozporządzenie wchodzi w życie z dniem 5 grudnia 2022 r. 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Komisji (UE) 2021/903 z dnia 3 czerwca 2021 r. zmieniającą dyrektywę Parlamentu Europejskiego i Rady 2009/48/WE w odniesieniu do określonych stężeń granicznych aniliny w niektórych zabawkach (Dz. Urz. UE L 197 z 04.06.2021, str. 110).
 

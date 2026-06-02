@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 21 października 2015 r. w sprawie niepowtarzalnego oznakowania i monitorowania komórek rozrodczych i zarodków
+# Rozporządzenie Ministra Zdrowiaz dnia 21 października 2015 r. w sprawie niepowtarzalnego oznakowania i monitorowania komórek rozrodczych i zarodków Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia:
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-21 |
 | Data wydania | 2015-10-30 |
-| Wejście w życie | 2015-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001747) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1747/text.pdf) |
 
@@ -239,5 +238,8 @@ opisuje działania, które powinny być podjęte w celu zapobieżenia wystąpien
 4.
 Osoba odpowiedzialna za jakość w ośrodku medycznie wspomaganej prokreacji oraz osoba odpowiedzialna za jakość w banku komórek rozrodczych i zarodków sporządza raport z postępowania wyjaśniającego, który przedkłada odpowiednio kierownikowi ośrodka medycznie wspomaganej prokreacji albo kierownikowi banku komórek rozrodczych i zarodków, a następnie przekazuje go ministrowi właściwemu do spraw zdrowia drogą elektroniczną na adres poczty elektronicznej, o którym mowa w ust. 1.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 1 listopada 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 listopada 2015 r. 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia:
+1) dyrektywy 2004/23/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 102 z 07.04.2004, str. 48, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 291, z późn. zm.);
+2) dyrektywy Komisji 2006/17/WE z dnia 8 lutego 2006 r. wprowadzającej w życie dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w odniesieniu do niektórych wymagań technicznych dotyczących dawstwa, pobierania i badania tkanek i komórek ludzkich (Dz. Urz. UE L 38 z 09.02.2006, str. 40, z późn. zm.);
+3) dyrektywy Komisji 2006/86/WE z dnia 24 października 2006 r. wykonującej dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w zakresie wymagań dotyczących możliwości śledzenia, powiadamiania o poważnych i niepożądanych reakcjach i zdarzeniach oraz niektórych wymagań technicznych dotyczących kodowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 294 z 25.10.2006, str. 32, z późn. zm.).
 

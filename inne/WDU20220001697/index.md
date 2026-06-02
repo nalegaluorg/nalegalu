@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001697) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1697/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 5 marca 2004 r. w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Okresy przechowywania akt spraw karnych Rozdział 3 – Okresy przechowywania akt spraw o wykroczenia Rozdział 4 – Okresy przechowywania akt spraw cywilnych i gospodarczych Rozdział 5 – Okresy przechowywania akt spraw rozpoznawanych w sądach rodzinnych Rozdział 6 – Okresy przechowywania akt spraw z zakresu prawa pracy i ubezpieczeń społecznych Rozdział 7 – Okresy przechowywania ksiąg i urządzeń ewidencyjnych w sprawach sądowych Rozdział 8 – Warunki i tryb przechowywania, niszczenia oraz przekazywania archiwom państwowym akt spraw sądowych Rozdział 9 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 5 marca 2004 r. w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 5 marca 2004 r. w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia (Dz. U. z 2021 r. poz. 309), z uwzględnieniem zmian wprowadzonych:
@@ -37,19 +37,16 @@ rozporządzeniem Ministra Sprawiedliwości z dnia 27 lipca 2021 r. zmieniającym
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 30 czerwca 2021 r. zmieniającego rozporządzenie w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia (Dz. U. poz. 1197), który stanowi:
-„
+§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 30 czerwca 2021 r. zmieniającego rozporządzenie w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia (Dz. U. poz. 1197), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 3 lipca 2021 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 3 lipca 2021 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 27 lipca 2021 r. zmieniającego rozporządzenie w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia (Dz. U. poz. 1380), który stanowi:
-„
+§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 27 lipca 2021 r. zmieniającego rozporządzenie w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia (Dz. U. poz. 1380), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 5 marca 2004 r. w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia
 Na podstawie art. 53 § 4 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072, z 2021 r. poz. 1080 i 1236 oraz z 2022 r. poz. 655 i 1259) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa warunki i zakres przechowywania akt w sądzie przez okres niezbędny ze względu na rodzaj i charakter spraw, terminy przedawnienia, interesy osób biorących udział w postępowaniu i znaczenie materiałów zawartych w aktach jako źródła informacji oraz warunki i tryb przechowywania i przekazywania akt archiwom państwowym, a także warunki i tryb niszczenia akt po upływie okresu ich przechowywania.
 § 2.
@@ -60,6 +57,7 @@ Akta kategorii A po upływie okresu przechowywania w sądzie przekazuje się do 
 Akta kategorii B po upływie okresu przechowywania w sądzie podlegają zniszczeniu.
 § 5.
 Przepisy dotyczące warunków i trybu przechowywania oraz niszczenia akt stosuje się odpowiednio do ksiąg i urządzeń ewidencyjnych spraw sądowych.
+Okresy przechowywania akt spraw karnych
 § 6.
 1.
 Do kategorii A zalicza się akta spraw:
@@ -74,7 +72,7 @@ w których wymierzono karę dożywotniego pozbawienia wolności lub karę 25 lat
 5)
 o odszkodowanie za niesłuszne skazanie lub aresztowanie;
 6)
-o zgodności oświadczeń w postępowaniu lustracyjnym na podstawie przepisów ustawy z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944–1990 osób pełniących funkcje publiczne (Dz. U. z 1999 r. poz. 428, z późn. zm.);
+o zgodności oświadczeń w postępowaniu lustracyjnym na podstawie przepisów ustawy z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944–1990 osób pełniących funkcje publiczne (Dz. U. z 1999 r. poz. 428, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. poz. 618, 681 i 701, z 2000 r. poz. 488 i 600, z 2002 r. poz. 128, 676, 765, 1271 i 1434, z 2003 r. poz. 390 i 921, z 2004 r. poz. 219, z 2005 r. poz. 1365 oraz z 2006 r. poz. 708, 711, 1218 i 1592.);
 7)
 w których sąd przekazał zagadnienie prawne do rozstrzygnięcia Sądowi Najwyższemu;
 8)
@@ -98,6 +96,7 @@ Ustala się następujące okresy przechowywania akt:
 3 lata – dla akt spraw niewymienionych w pkt 1–4.
 2.
 Akta nie mogą być przekazane do zniszczenia przed ustaniem karalności przestępstwa, o które toczyło się postępowanie.
+Okresy przechowywania akt spraw o wykroczenia
 § 9.
 1.
 Do kategorii A zalicza się akta spraw o wykroczenia:
@@ -117,6 +116,7 @@ Ustala się następujące okresy przechowywania akt spraw o wykroczenia:
 5 lat – dla spraw o wykroczenia, w których orzeczono karę aresztu lub środka karnego w postaci zakazu prowadzenia pojazdów lub innego zakazu przewidzianego w przepisach szczególnych;
 3)
 3 lata – dla akt spraw niewymienionych w pkt 1 i 2.
+Okresy przechowywania akt spraw cywilnych i gospodarczych
 § 12.
 1.
 Do kategorii A zalicza się akta spraw:
@@ -137,7 +137,7 @@ Do kategorii A zalicza się rejestry podmiotów wpisanych do:
 1)
 rejestru przedsiębiorców;
 2)
-rejestru stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz publicznych zakładów opieki zdrowotnej .
+rejestru stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz publicznych zakładów opieki zdrowotnej Obecnie zakładów leczniczych podmiotu leczniczego, na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r..
 3.
 Akta niewymienione w ust. 1 i 2 zalicza się do kategorii B.
 4.
@@ -185,6 +185,7 @@ Akta spraw z zakresu postępowania o wpis do rejestru zastawów i do rejestru d�
 Przez okres 5 lat przechowuje się dokumenty z pomocniczego zbioru dokumentów, o którym mowa w § 12 ust. 4, z zastrzeżeniem § 29 ust. 2.
 § 15.
 Okresy wymienione w § 14 ust. 1–3 dotyczą także akt spraw rozstrzygniętych przez sądy polubowne, które przechowywane są w sądach.
+Okresy przechowywania akt spraw rozpoznawanych w sądach rodzinnych
 § 16.
 1.
 Do kategorii A zalicza się akta spraw:
@@ -217,6 +218,7 @@ z zakresu opieki i kurateli;
 z zakresu czynności przekraczających zwykły zarząd majątkiem osoby podlegającej władzy rodzicielskiej.
 3.
 Przez okres 10 lat przechowuje się akta spraw rozpoznawanych w sądach rodzinnych, niewymienionych w ust. 1 i 2.
+Okresy przechowywania akt spraw z zakresu prawa pracy i ubezpieczeń społecznych
 § 19.
 1.
 Do kategorii A zalicza się akta spraw:
@@ -233,6 +235,7 @@ Do kategorii A zalicza się z każdego sądu, poza aktami wymienionymi w § 19 u
 Przez okres 30 lat przechowuje się akta spraw dotyczących emerytur i rent.
 2.
 Przez okres 10 lat przechowuje się akta spraw niewymienionych w ust. 1.
+Okresy przechowywania ksiąg i urządzeń ewidencyjnych w sprawach sądowych
 § 22.
 1.
 Do kategorii A zalicza się repertoria, wykazy akt przekazanych do archiwum i skorowidze akt sądowych.
@@ -249,6 +252,7 @@ Przez okres 5 lat przechowuje się kontrolki.
 Przez okres 3 lat przechowuje się urządzenia ewidencyjne niewymienione w ust. 1.
 § 23a.
 Przepisy § 22 i 23 stosuje się do repertoriów i innych urządzeń ewidencyjnych prowadzonych jako odrębny dokument elektroniczny lub raport wygenerowany z systemu teleinformatycznego, zwanych dalej „elektronicznymi repertoriami lub innymi urządzeniami ewidencyjnymi”.
+Warunki i tryb przechowywania, niszczenia oraz przekazywania archiwom państwowym akt spraw sądowych
 § 24.
 Akta zakończonych spraw sądowych przechowuje się w archiwach zakładowych przez okresy wymienione w rozporządzeniu, stosując właściwe zabezpieczenia przed dostępem osób postronnych, a także spełniając wymogi bezpieczeństwa przed utratą i zniszczeniem.
 § 24a.
@@ -284,7 +288,7 @@ język – kod języka naturalnego zgodnie z normą ISO-639–2 lub inne określ
 opis – streszczenie, spis treści lub krótki opis treści elektronicznego repertorium lub innego urządzenia ewidencyjnego;
 13)
 uprawnienia – wskazanie podmiotu uprawnionego do dysponowania elektronicznym repertorium lub innym urządzeniem ewidencyjnym.
-§ 24b.
+§ 24bW brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 27 lipca 2021 r. zmieniającego rozporządzenie w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia (Dz. U. poz. 1380), które weszło w życie z dniem 30 lipca 2021 r..
 System teleinformatyczny obsługujący postępowanie sądowe spełnia funkcję archiwum zakładowego w odniesieniu do akt spraw prowadzonych w tym systemie oraz tytułów wykonawczych obejmujących orzeczenia wydane w postępowaniach prowadzonych w tym systemie.
 § 24c.
 1.
@@ -333,6 +337,7 @@ Jeżeli sporządzono protokół posiedzenia jawnego za pomocą urządzenia rejes
 Do zniszczenia zapisu obrazu przepisy § 27 stosuje się odpowiednio.
 5.
 Jeżeli akta sprawy zaliczono do kategorii A, przepisów ust. 3 i 4 nie stosuje się.
+Przepisy przejściowe i końcowe
 § 30.
 Akta spraw zakończonych przed dniem wejścia w życie rozporządzenia kwalifikuje się według przepisów dotychczasowych, chyba że przepisy rozporządzenia stanowią inaczej.
 § 31.
@@ -341,26 +346,44 @@ Akta spraw o rozwód zakończonych do dnia 18 czerwca 1989 r. zaliczonych do kat
 Akta zakończonych do dnia 18 grudnia 1975 r. spraw: ze stosunków rodzinnych z wyłączeniem spraw o rozwód; spadkowych i o własność nieruchomości i prawa rzeczowe ograniczone na nieruchomościach, niezaliczone do kategorii A na podstawie przepisów obowiązujących po tym dniu, zostają zaliczone do kategorii A i przechowuje się je przez okres 50 lat.
 § 33.
 Zachowane akta spraw o wykroczenia rozpoznawane przez kolegia do spraw wykroczeń z lat 1990–1998 oraz akta spraw o wykroczenia zakończonych po dniu 17 października 2002 r. przechowuje się i przekazuje archiwom państwowym zgodnie z przepisami rozdziału 3.
-§ 33a.
+§ 33aW brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 30 czerwca 2021 r. zmieniającego rozporządzenie w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia (Dz. U. poz. 1197), które weszło w życie z dniem 3 lipca 2021 r..
 Okresy przechowywania w sądzie akt spraw zakończonych prawomocnie po dniu 17 października 1997 r., niezaliczonych do kategorii A, których końcowy termin przechowywania upływa przed dniem 3 kwietnia 2024 r., innych niż akta spraw o wykroczenia i wykroczenia skarbowe, ulegają wydłużeniu do dnia 3 lipca 2024 r.
 § 34.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 22 marca 2004 r.. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. poz. 618, 681 i 701, z 2000 r. poz. 488 i 600, z 2002 r. poz. 128, 676, 765, 1271 i 1434, z 2003 r. poz. 390 i 921, z 2004 r. poz. 219, z 2005 r. poz. 1365 oraz z 2006 r. poz. 708, 711, 1218 i 1592. 2) Obecnie zakładów leczniczych podmiotu leczniczego, na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 27 lipca 2021 r. zmieniającego rozporządzenie w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia (Dz. U. poz. 1380), które weszło w życie z dniem 30 lipca 2021 r. 4) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 30 czerwca 2021 r. zmieniającego rozporządzenie w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia (Dz. U. poz. 1197), które weszło w życie z dniem 3 lipca 2021 r. 5) Rozporządzenie zostało ogłoszone w dniu 22 marca 2004 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Okresy przechowywania akt spraw karnych
+#### Rozdział 2 – Okresy przechowywania akt spraw karnych
 
-#### Rozdział 3 Okresy przechowywania akt spraw o wykroczenia
+#### Rozdział 3 – Okresy przechowywania akt spraw o wykroczenia
 
-#### Rozdział 4 Okresy przechowywania akt spraw cywilnych i gospodarczych
+#### Rozdział 4 – Okresy przechowywania akt spraw cywilnych i gospodarczych
 
-#### Rozdział 5 Okresy przechowywania akt spraw rozpoznawanych w sądach rodzinnych
+#### Rozdział 5 – Okresy przechowywania akt spraw rozpoznawanych w sądach rodzinnych
 
-#### Rozdział 6 Okresy przechowywania akt spraw z zakresu prawa pracy i ubezpieczeń społecznych
+#### Rozdział 6 – Okresy przechowywania akt spraw z zakresu prawa pracy i ubezpieczeń społecznych
 
-#### Rozdział 7 Okresy przechowywania ksiąg i urządzeń ewidencyjnych w sprawach sądowych
+#### Rozdział 7 – Okresy przechowywania ksiąg i urządzeń ewidencyjnych w sprawach sądowych
 
-#### Rozdział 8 Warunki i tryb przechowywania, niszczenia oraz przekazywania archiwom państwowym akt spraw sądowych
+#### Rozdział 8 – Warunki i tryb przechowywania, niszczenia oraz przekazywania archiwom państwowym akt spraw sądowych
 
-#### Rozdział 9 Przepisy przejściowe i końcowe
+#### Rozdział 9 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
 

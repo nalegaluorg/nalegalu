@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 1 czerwca 2012 r. w sprawie dodatkowych wymagań, jakie powinno spełniać krajowe laboratorium referencyjne przeprowadzające badania w kierunku pryszczycy
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 1 czerwca 2012 r. w sprawie dodatkowych wymagań, jakie powinno spełniać krajowe laboratorium referencyjne przeprowadzające badania w kierunku pryszczycy Przepisy niniejszego rozporządzenia wdrażają niektóre postanowienia dyrektywy Rady 2003/85/WE z dnia 29 września 2003 r. w sprawie wspólnotowych środków zwalczania pryszczycy, uchylającej dyrektywę 85/511/EWG i decyzje 89/531/EWG i 91/665/EWG oraz zmieniającej dyrektywę 92/46/EWG (Dz. Urz. UE L 306 z 22.11.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 41, str. 5).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-06-01 |
 | Data wydania | 2012-06-12 |
-| Wejście w życie | 2012-06-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000649) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/649/text.pdf) |
 
@@ -91,6 +90,5 @@ z laboratoriami urzędowymi, wskazanymi przez Głównego Lekarza Weterynarii, w 
 16)
 prowadzić i przechowywać dokumentację potwierdzającą zgodność stosowanych metod przeprowadzania badań laboratoryjnych z wymaganiami określonymi przez Światową Organizację Zdrowia Zwierząt lub w przepisach Unii Europejskiej oraz udostępniać ją na żądanie Komisji Europejskiej.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-2) Przepisy niniejszego rozporządzenia wdrażają niektóre postanowienia dyrektywy Rady 2003/85/WE z dnia 29 września 2003 r. w sprawie wspólnotowych środków zwalczania pryszczycy, uchylającej dyrektywę 85/511/EWG i decyzje 89/531/EWG i 91/665/EWG oraz zmieniającej dyrektywę 92/46/EWG (Dz. Urz. UE L 306 z 22.11.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 41, str. 5). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 19 października 2006 r. w sprawie wymagań, jakie powinno spełniać krajowe laboratorium referencyjne przeprowadzające badania w kierunku pryszczycy (Dz. U. Nr 198, poz. 1460), które utraciło moc z dniem 29 kwietnia 2012 r. na podstawie art. 7 ust. 1 ustawy z dnia 19 lutego 2010 r. o zmianie ustawy o Inspekcji Weterynaryjnej oraz o zmianie niektórych innych ustaw (Dz. U. Nr 60, poz. 372).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 19 października 2006 r. w sprawie wymagań, jakie powinno spełniać krajowe laboratorium referencyjne przeprowadzające badania w kierunku pryszczycy (Dz. U. Nr 198, poz. 1460), które utraciło moc z dniem 29 kwietnia 2012 r. na podstawie art. 7 ust. 1 ustawy z dnia 19 lutego 2010 r. o zmianie ustawy o Inspekcji Weterynaryjnej oraz o zmianie niektórych innych ustaw (Dz. U. Nr 60, poz. 372). 2) Przepisy niniejszego rozporządzenia wdrażają niektóre postanowienia dyrektywy Rady 2003/85/WE z dnia 29 września 2003 r. w sprawie wspólnotowych środków zwalczania pryszczycy, uchylającej dyrektywę 85/511/EWG i decyzje 89/531/EWG i 91/665/EWG oraz zmieniającej dyrektywę 92/46/EWG (Dz. Urz. UE L 306 z 22.11.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 41, str. 5). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 19 października 2006 r. w sprawie wymagań, jakie powinno spełniać krajowe laboratorium referencyjne przeprowadzające badania w kierunku pryszczycy (Dz. U. Nr 198, poz. 1460), które utraciło moc z dniem 29 kwietnia 2012 r. na podstawie art. 7 ust. 1 ustawy z dnia 19 lutego 2010 r. o zmianie ustawy o Inspekcji Weterynaryjnej oraz o zmianie niektórych innych ustaw (Dz. U. Nr 60, poz. 372).
 

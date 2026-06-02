@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 5 listopada 2024 r. w sprawie satelitarnej usługi publicznej o regulowanym dostępie
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 5 listopada 2024 r. w sprawie satelitarnej usługi publicznej o regulowanym dostępie Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-05 |
 | Data wydania | 2024-11-07 |
-| Wejście w życie | 2024-11-10 |
 | Ostatnia zmiana | 2024-11-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001627) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1627/text.pdf) |
 
@@ -185,6 +184,5 @@ pełnomocnictwo do reprezentacji wnioskodawcy – jeżeli wniosek, o którym mow
 § 10.
 Dokumenty w języku obcym powinny być złożone wraz z tłumaczeniem na język polski poświadczonym przez tłumacza przysięgłego.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 10 listopada 2024 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
+Rozporządzenie wchodzi w życie z dniem 10 listopada 2024 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
 

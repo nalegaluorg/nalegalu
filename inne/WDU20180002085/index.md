@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 26 października 2018 r. w sprawie szczegółowych zasad ustalania czynszu dzierżawnego oraz udziału dzierżawców obwodów łowieckich w kosztach ochrony lasu przed zwierzyną
+# Rozporządzenie Ministra Środowiskaz dnia 26 października 2018 r. w sprawie szczegółowych zasad ustalania czynszu dzierżawnego oraz udziału dzierżawców obwodów łowieckich w kosztach ochrony lasu przed zwierzyną Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-26 |
 | Data wydania | 2018-10-31 |
-| Wejście w życie | 2018-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002085) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2085/text.pdf) |
 
@@ -63,9 +62,7 @@ Do ustalenia wysokości:
 1)
 czynszu dzierżawnego dotyczącego łowieckiego roku gospodarczego, który rozpoczął się 1 kwietnia 2018 r.,
 2)
-udziału dzierżawców obwodów łowieckich w kosztach ochrony lasu przed zwierzyną dotyczącego łowieckiego roku gospodarczego, który zakończył się 31 marca 2018 r.
-stosuje się przepisy niniejszego rozporządzenia.
+udziału dzierżawców obwodów łowieckich w kosztach ochrony lasu przed zwierzyną dotyczącego łowieckiego roku gospodarczego, który zakończył się 31 marca 2018 r. – stosuje się przepisy niniejszego rozporządzenia.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 4 grudnia 2002 r. w sprawie zasad kategoryzacji obwodów łowieckich, szczegółowych zasad ustalania czynszu dzierżawnego oraz udziału dzierżawców obwodów łowieckich w kosztach ochrony lasu przed zwierzyną (Dz. U. poz. 1791 oraz z 2006 r. poz. 420), które utraciło moc z dniem 1 kwietnia 2018 r. w związku z wejściem w życie ustawy z dnia 22 marca 2018 r. o zmianie ustawy – Prawo łowieckie oraz niektórych innych ustaw (Dz. U. poz. 651).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 4 grudnia 2002 r. w sprawie zasad kategoryzacji obwodów łowieckich, szczegółowych zasad ustalania czynszu dzierżawnego oraz udziału dzierżawców obwodów łowieckich w kosztach ochrony lasu przed zwierzyną (Dz. U. poz. 1791 oraz z 2006 r. poz. 420), które utraciło moc z dniem 1 kwietnia 2018 r. w związku z wejściem w życie ustawy z dnia 22 marca 2018 r. o zmianie ustawy – Prawo łowieckie oraz niektórych innych ustaw (Dz. U. poz. 651). 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 4 grudnia 2002 r. w sprawie zasad kategoryzacji obwodów łowieckich, szczegółowych zasad ustalania czynszu dzierżawnego oraz udziału dzierżawców obwodów łowieckich w kosztach ochrony lasu przed zwierzyną (Dz. U. poz. 1791 oraz z 2006 r. poz. 420), które utraciło moc z dniem 1 kwietnia 2018 r. w związku z wejściem w życie ustawy z dnia 22 marca 2018 r. o zmianie ustawy – Prawo łowieckie oraz niektórych innych ustaw (Dz. U. poz. 651).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 1 grudnia 2022 r. o zmianie ustawy o Funduszu Medycznym oraz niektórych innych ustaw
+# Ustawa z dnia 1 grudnia 2022 r. o zmianie ustawy o Funduszu Medycznym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-01 |
 | Data wydania | 2022-12-19 |
-| Wejście w życie | 2022-12-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002674) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2674/text.pdf) |
 
@@ -162,5 +161,5 @@ source: "eli-html"
 
 7a. W przypadku gdy dane kliniczne niezbędne do opracowania raportu, o którym mowa w ust. 7, są niewystarczające, okres refundacji technologii lekowej o wysokim poziomie innowacyjności ulega wydłużeniu o kolejne 2 lata, a Agencja publikuje raport nie później niż w terminie 180 dni przed wygaśnięciem przedłużonej decyzji, w oparciu o dostępne dane kliniczne. Przedłużenie okresu refundacji minister właściwy do spraw zdrowia potwierdza w decyzji wydanej z urzędu. ” .
 
-**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych.
 

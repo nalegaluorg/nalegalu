@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-05-06 |
 | Data wydania | 2005-06-08 |
-| Wejście w życie | 2005-06-23 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051000835) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/835/text.pdf) |
 
@@ -84,11 +83,11 @@ source: "eli-html"
 
 - **6)** art. 27a otrzymuje brzmienie: „
 
-**Art. 27a.** Strażakowi jednostki ochrony przeciwpożarowej, o której mowa w art. 15 pkt 1a-5 i 8, o ile nie jest strażakiem Państwowej Straży Pożarnej, oraz żołnierzowi pełniącemu służbę w tej jednostce przysługuje prawo do odzieży specjalnej i ekwipunku osobistego, na zasadach określonych dla strażaków Państwowej Straży Pożarnej w ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2002 r. Nr 147, poz. 1230, z późn. zm.). ” ;
+**Art. 27a.** Strażakowi jednostki ochrony przeciwpożarowej, o której mowa w art. 15 pkt 1a-5 i 8, o ile nie jest strażakiem Państwowej Straży Pożarnej, oraz żołnierzowi pełniącemu służbę w tej jednostce przysługuje prawo do odzieży specjalnej i ekwipunku osobistego, na zasadach określonych dla strażaków Państwowej Straży Pożarnej w ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2002 r. Nr 147, poz. 1230, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 59, poz. 516 i Nr 166, poz. 1609 oraz z 2004 r. Nr 210, poz. 2135 i Nr 273, poz. 2703.). ” ;
 
 - **7)** w art. 28 ust. 2 otrzymuje brzmienie: „
 
-2. Ekwiwalent, o którym mowa w ust. 1, jest wypłacany z budżetu gminy do wysokości 1/175 przeciętnego wynagrodzenia ogłoszonego, przed dniem naliczenia ekwiwalentu, przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.), za każdą godzinę udziału w działaniu ratowniczym lub szkoleniu pożarniczym. ” .
+2. Ekwiwalent, o którym mowa w ust. 1, jest wypłacany z budżetu gminy do wysokości 1/175 przeciętnego wynagrodzenia ogłoszonego, przed dniem naliczenia ekwiwalentu, przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355 oraz z 2005 r. Nr 41, poz. 401.), za każdą godzinę udziału w działaniu ratowniczym lub szkoleniu pożarniczym. ” .
 
 **Art. 2.**
 
@@ -102,5 +101,5 @@ source: "eli-html"
 
 **Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 4 ustawy, o której mowa w art. 1, zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 16a ust. 6 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 59, poz. 516 i Nr 166, poz. 1609 oraz z 2004 r. Nr 210, poz. 2135 i Nr 273, poz. 2703. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355 oraz z 2005 r. Nr 41, poz. 401.
 

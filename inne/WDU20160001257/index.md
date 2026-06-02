@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 lipca 2016 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw
+# Ustawa z dnia 7 lipca 2016 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych oraz ustawę z dnia 8 listopada 2013 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-07 |
 | Data wydania | 2016-08-16 |
-| Wejście w życie | 2016-08-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001257) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1257/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2015 r. poz. 1297, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2015 r. poz. 1297, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1741, 1753, 1777 i 1893 oraz z 2016 r. poz. 542 i 1250.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9o dodaje się ust. 11–14 w brzmieniu: „
 
@@ -96,7 +95,7 @@ source: "eli-html"
 
 2. Zgody na odstępstwo, o którym mowa w ust. 1, udziela starosta w drodze postanowienia, po uzgodnieniu właściwego zarządcy, mając na uwadze bezpieczeństwo ruchu kolejowego. ” .
 
-**Art. 2.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.) w art. 5 ust. 4 otrzymuje brzmienie: „ 4. Rada Ministrów może określić, w drodze rozporządzenia, środki publiczne niezaliczane do środków, o których mowa w ust. 3 pkt 5c i 6, oraz termin, w którym środki te powinny być wydatkowane, uwzględniając źródło ich pochodzenia, przeznaczenie oraz beneficjentów tych środków. ” .
+**Art. 2.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877, z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854, 1890 i 2150 oraz z 2016 r. poz. 195.) w art. 5 ust. 4 otrzymuje brzmienie: „ 4. Rada Ministrów może określić, w drodze rozporządzenia, środki publiczne niezaliczane do środków, o których mowa w ust. 3 pkt 5c i 6, oraz termin, w którym środki te powinny być wydatkowane, uwzględniając źródło ich pochodzenia, przeznaczenie oraz beneficjentów tych środków. ” .
 
 **Art. 3.** W ustawie z dnia 8 listopada 2013 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1646 oraz z 2014 r. poz. 911) uchyla się art. 12.
 
@@ -114,5 +113,5 @@ source: "eli-html"
 
 2. Do postępowań, o których mowa w ust. 1, na wniosek uprawnionego podmiotu, stosuje się przepisy art. 9q ust. 7, art. 9s ust. 3b i 8 oraz art. 9y ust. 7–8 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych oraz ustawę z dnia 8 listopada 2013 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1741, 1753, 1777 i 1893 oraz z 2016 r. poz. 542 i 1250. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877, z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854, 1890 i 2150 oraz z 2016 r. poz. 195.
 

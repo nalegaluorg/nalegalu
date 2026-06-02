@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 27 lutego 2017 r. w sprawie wykazu przedmiotów, które w razie orzeczenia ich przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego (Dz. U. poz. 428), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Sprawiedliwości z dnia 13 sierpnia 2018 r. zmieniającym rozporządzenie w sprawie wykazu przedmiotów, które w razie orzeczenia ich przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego (Dz. U. poz. 1646).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 13 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie wykazu przedmiotów, które w razie orzeczenia ich przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego (Dz. U. poz. 1646), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 13 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie wykazu przedmiotów, które w razie orzeczenia ich przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego (Dz. U. poz. 1646), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 27 lutego 2017 r. w sprawie wykazu przedmiotów, które w razie orzeczenia ich przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego
 Na podstawie art. 194 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2018 r. poz. 652, 1010 i 1387) zarządza się, co następuje:
 § 1.
@@ -58,12 +56,12 @@ przerobione, podrobione lub utracone stemple kontrolerskie Straży Granicznej or
 przerobione lub podrobione krajowe i zagraniczne znaki pieniężne – Centrali Narodowego Banku Polskiego;
 9)
 inne niż wymienione w pkt 1–4, które mogą mieć znaczenie dla badań naukowych z zakresu kryminalistyki – szkołom wyższym prowadzącym badania naukowe z zakresu kryminalistyki albo Centralnemu Laboratorium Kryminalistycznemu Policji;
-10)
+10W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 13 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie wykazu przedmiotów, które w razie orzeczenia ich przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego (Dz. U. poz. 1646), które weszło w życie z dniem 11 września 2018 r.)
 inne niż wymienione w pkt 1–4 oraz 9, które mogą mieć znaczenie podczas wykonywania ustawowych zadań związanych ze zwalczaniem przestępczości przez służby śledcze lub podczas szkolenia tych służb – Komendzie Głównej Policji lub odpowiednim jednostkom organizacyjnym innych organów, którym przysługują uprawnienia Policji w zakresie prowadzenia postępowania przygotowawczego.
 § 2.
 Przy przekazywaniu przedmiotów, o których mowa w § 1, stosuje się odpowiednio przepisy regulujące przekazywanie naczelnikowi urzędu skarbowego przedmiotów objętych prawomocnym orzeczeniem o ich przepadku.
 § 3.
 Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 8 września 2003 r. w sprawie wykazu przedmiotów, które w razie orzeczenia ich przepadku przekazuje się bezpośrednio innym organom niż właściwy urząd skarbowy (Dz. U. poz. 1635 oraz z 2016 r. poz. 1214).
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
+Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. 1) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 13 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie wykazu przedmiotów, które w razie orzeczenia ich przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego (Dz. U. poz. 1646), które weszło w życie z dniem 11 września 2018 r.
 

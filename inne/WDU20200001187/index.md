@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-30 |
 | Data wydania | 2020-07-03 |
-| Wejście w życie | 2020-07-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001187) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1187/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 3 ustawy z dnia 20 grudnia 1996 r. o Polskim Instytucie Spraw 
 § 1.
 W rozporządzeniu Prezesa Rady Ministrów z dnia 1 grudnia 2016 r. w sprawie nadania statutu Polskiemu Instytutowi Spraw Międzynarodowych (Dz. U. poz. 1975) w załączniku wprowadza się następujące zmiany:
 1)
-§ 2 otrzymuje brzmienie:
-„
+§ 2 otrzymuje brzmienie: „
 § 2.
 Dyrektor Instytutu działa przy pomocy:
 1)
@@ -44,32 +42,25 @@ kierowników komórek organizacyjnych;
 4)
 dyrektorów oddziałów zamiejscowych, będących komórkami organizacyjnymi Instytutu;
 5)
-pracowników zajmujących samodzielne stanowiska.
-” ;
+pracowników zajmujących samodzielne stanowiska. ” ;
 2)
 w § 3:
 a)
-w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu:
-„
+w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „
 1a)
-komórka organizacyjna – oddział zamiejscowy – Biuro Instytutu w Brukseli (Królestwo Belgii);
-” ,
+komórka organizacyjna – oddział zamiejscowy – Biuro Instytutu w Brukseli (Królestwo Belgii); ” ,
 b)
-dodaje się ust. 3 w brzmieniu:
-„
+dodaje się ust. 3 w brzmieniu: „
 3.
-Dyrektor oddziału zamiejscowego – Biura Instytutu w Brukseli (Królestwo Belgii) oraz pracownicy Instytutu zajmujący samodzielne stanowiska podlegają bezpośrednio Dyrektorowi Instytutu.
-” ;
+Dyrektor oddziału zamiejscowego – Biura Instytutu w Brukseli (Królestwo Belgii) oraz pracownicy Instytutu zajmujący samodzielne stanowiska podlegają bezpośrednio Dyrektorowi Instytutu. ” ;
 3)
 w § 4:
 a)
 w ust. 3 w pkt 3 wyrazy „zamiejscowego oddziału Instytutu” zastępuje się wyrazami „oddziału zamiejscowego, o którym mowa w § 3 ust. 1 pkt 1a”,
 b)
-ust. 8 otrzymuje brzmienie:
-„
+ust. 8 otrzymuje brzmienie: „
 8.
-W posiedzeniu Rady może wziąć udział, na zaproszenie przewodniczącego Rady, zastępca Dyrektora Instytutu, główny księgowy, kierownik komórki organizacyjnej, dyrektor oddziału zamiejscowego, o którym mowa w § 3 ust. 1 pkt 1a, oraz inne osoby, których wiedza i doświadczenie mogą być wykorzystane w realizacji zadań Rady.
-” .
+W posiedzeniu Rady może wziąć udział, na zaproszenie przewodniczącego Rady, zastępca Dyrektora Instytutu, główny księgowy, kierownik komórki organizacyjnej, dyrektor oddziału zamiejscowego, o którym mowa w § 3 ust. 1 pkt 1a, oraz inne osoby, których wiedza i doświadczenie mogą być wykorzystane w realizacji zadań Rady. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

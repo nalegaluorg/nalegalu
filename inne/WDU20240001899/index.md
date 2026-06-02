@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 18 grudnia 2024 r. zmieniające rozporządzenie w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług
+# Rozporządzenie Ministra Finansówz dnia 18 grudnia 2024 r. zmieniające rozporządzenie w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług Minister Finansów kieruje działem administracji rządowej ‒ finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-18 |
 | Data wydania | 2024-12-20 |
-| Wejście w życie | 2024-12-21 |
 | Ostatnia zmiana | 2024-12-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001899) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1899/text.pdf) |
 
@@ -36,6 +35,5 @@ Maksymalną kwotę zwrotu podatku określoną w § 6a ust. 6 rozporządzenia zmi
 2.
 W przypadku gdy nabycia towarów, o których mowa w § 6a ust. 1 pkt 1 rozporządzenia zmienianego w § 1, są dokonywane w okresie 12 następujących po sobie miesięcy na przełomie lat 2023 i 2024, maksymalną kwotę zwrotu podatku oblicza się proporcjonalnie do wartości towarów nabytych w poszczególnych latach, z uwzględnieniem maksymalnej kwoty zwrotu podatku obowiązującej w tych latach.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej ‒ finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej ‒ finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 

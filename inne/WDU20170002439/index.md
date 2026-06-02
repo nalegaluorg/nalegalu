@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 listopada 2017 r. o zmianie ustawy o ochronie zdrowia psychicznego oraz niektórych innych ustaw
+# Ustawa z dnia 24 listopada 2017 r. o zmianie ustawy o ochronie zdrowia psychicznego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych oraz ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-24 |
 | Data wydania | 2017-12-27 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002439) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2439/text.pdf) |
 
@@ -160,7 +159,7 @@ source: "eli-html"
 
 - **1)** sposób dokumentowania zastosowania przymusu bezpośredniego oraz sposób dokonywania oceny zasadności jego zastosowania,
 - **2)** sposób przeprowadzania oceny stanu fizycznego osoby z zaburzeniami psychicznymi unieruchomionej lub izolowanej,
-- **3)** rodzaje i wzory dokumentów stosowanych przy wykonywaniu czynności, o których mowa w pkt 1 i 2 uwzględniając potrzebę ochrony praw i godności osoby, wobec której jest stosowany przymus bezpośredni, oraz skutecznej oceny zasadności stosowania tego przymusu. ” ;
+- **3)** rodzaje i wzory dokumentów stosowanych przy wykonywaniu czynności, o których mowa w pkt 1 i 2 – uwzględniając potrzebę ochrony praw i godności osoby, wobec której jest stosowany przymus bezpośredni, oraz skutecznej oceny zasadności stosowania tego przymusu. ” ;
 - **8)** po art. 30a dodaje się art. 30b w brzmieniu: „
 
 **Art. 30b.**
@@ -169,7 +168,7 @@ source: "eli-html"
 
 - **1)** bez zgody,
 - **2)** bez zgody, jeżeli zgoda na pobyt została następnie wyrażona,
-- **3)** niezdolnych do wyrażenia zgody lub stanowiska odnośnie przyjęcia do szpitala psychiatrycznego zwany dalej „rejestrem”.
+- **3)** niezdolnych do wyrażenia zgody lub stanowiska odnośnie przyjęcia do szpitala psychiatrycznego – zwany dalej „rejestrem”.
 
 2. W przypadku oddziału psychiatrycznego funkcjonującego w szpitalu psychiatrycznym dysponującym więcej niż jednym oddziałem psychiatrycznym rejestr jest prowadzony wspólnie dla wszystkich tych oddziałów.
 
@@ -532,7 +531,7 @@ source: "eli-html"
 
 - **1)** art. 18 ust. 11 oraz art. 49 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 18f oraz art. 49 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą,
 - **2)** art. 22 ust. 3 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 22 ust. 3 ustawy zmienianej w art. 2,
-- **3)** art. 47 ust. 2 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 47 ust. 2 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą jednak nie dłużej niż do dnia 31 grudnia 2018 r.
+- **3)** art. 47 ust. 2 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 47 ust. 2 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą – jednak nie dłużej niż do dnia 31 grudnia 2018 r.
 
 **Art. 11.**
 
@@ -553,5 +552,5 @@ source: "eli-html"
 
 3. Organem właściwym do monitorowania wykorzystania limitów wydatków, o których mowa w ust. 1, oraz wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest Minister Sprawiedliwości.
 
-**Art. 12.** Ustawa wchodzi w życie z dniem 1 stycznia 2018 r.
+**Art. 12.** Ustawa wchodzi w życie z dniem 1 stycznia 2018 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych oraz ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii.
 

@@ -22,30 +22,25 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-10-03 |
 | Data wydania | 2013-11-15 |
-| Wejście w życie | 2014-02-14 |
 | Ostatnia zmiana | 2026-02-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001325) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1325/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 7 ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 7 ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448 oraz z 2013 r. poz. 700 i 991.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 179, poz. 1104, z 2010 r. Nr 65, poz. 412, z 2011 r. Nr 89, poz. 509 i Nr 124, poz. 705 oraz z 2013 r. poz. 890.) wprowadza się następujące zmiany:
 1)
-w § 58 ust. 4 otrzymuje brzmienie:
-„
+w § 58 ust. 4 otrzymuje brzmienie: „
 4.
-Znak D-44 „strefa płatnego parkowania” oznacza wjazd do strefy, w której za postój pojazdu samochodowego jest pobierana opłata. Znak D-45 „koniec strefy płatnego parkowania” oznacza wyjazd ze strefy płatnego parkowania.
-” ;
+Znak D-44 „strefa płatnego parkowania” oznacza wjazd do strefy, w której za postój pojazdu samochodowego jest pobierana opłata. Znak D-45 „koniec strefy płatnego parkowania” oznacza wyjazd ze strefy płatnego parkowania. ” ;
 2)
-w załączniku do rozporządzenia w części „ZNAKI DROGOWE PIONOWE” w grupie „Znaki informacyjne” pkt 59 i 60 otrzymują brzmienie:
-„
+w załączniku do rozporządzenia w części „ZNAKI DROGOWE PIONOWE” w grupie „Znaki informacyjne” pkt 59 i 60 otrzymują brzmienie: „
 59)
 D-44 „strefa płatnego parkowania”,
 60)
-D-45 „koniec strefy płatnego parkowania”,
-” .
+D-45 „koniec strefy płatnego parkowania”, ” .
 § 2.
 Znaki D-44 „strefa parkowania” i D-45 „koniec strefy parkowania” stosowane w organizacji ruchu na drogach przed dniem wejścia w życie rozporządzenia uznaje się za równoważne odpowiednio znakom D-44 „strefa płatnego parkowania” i D-45 „koniec strefy płatnego parkowania”.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 90 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 90 dni od dnia ogłoszenia. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448 oraz z 2013 r. poz. 700 i 991. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 179, poz. 1104, z 2010 r. Nr 65, poz. 412, z 2011 r. Nr 89, poz. 509 i Nr 124, poz. 705 oraz z 2013 r. poz. 890.
 

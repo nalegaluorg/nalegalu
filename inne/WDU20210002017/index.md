@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 20 października 2021 r. w sprawie trybu, sposobu i warunków wykonywania zadań przez Państwową Inspekcję Sanitarną na terenie obiektów Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego oraz w stosunku do funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego
+# Rozporządzenie Ministra Zdrowiaz dnia 20 października 2021 r. w sprawie trybu, sposobu i warunków wykonywania zadań przez Państwową Inspekcję Sanitarną na terenie obiektów Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego oraz w stosunku do funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-20 |
 | Data wydania | 2021-11-08 |
-| Wejście w życie | 2021-11-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002017) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2017/text.pdf) |
 
@@ -105,6 +104,5 @@ Kierujący jednostką kontrolowaną lub upoważniony przez niego pracownik lub f
 4.
 Właściwy państwowy inspektor sanitarny informuje w formie pisemnej kierującego jednostką kontrolowaną o uwzględnieniu zastrzeżeń w całości lub w części albo o ich nieuwzględnieniu, ze wskazaniem przyczyn nieuwzględnienia zastrzeżeń.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 6 maja 2013 r. w sprawie wykonywania zadań przez Państwową Inspekcję Sanitarną Ministerstwa Spraw Wewnętrznych i Administracji na terenie obiektów Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego oraz w stosunku do funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego (Dz. U. poz. 577 oraz z 2018 r. poz. 148), które utraciło moc z dniem 31 maja 2021 r. na podstawie art. 19 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o Państwowej Inspekcji Sanitarnej oraz niektórych innych ustaw (Dz. U. poz. 322 i 374).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 6 maja 2013 r. w sprawie wykonywania zadań przez Państwową Inspekcję Sanitarną Ministerstwa Spraw Wewnętrznych i Administracji na terenie obiektów Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego oraz w stosunku do funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego (Dz. U. poz. 577 oraz z 2018 r. poz. 148), które utraciło moc z dniem 31 maja 2021 r. na podstawie art. 19 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o Państwowej Inspekcji Sanitarnej oraz niektórych innych ustaw (Dz. U. poz. 322 i 374). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 6 maja 2013 r. w sprawie wykonywania zadań przez Państwową Inspekcję Sanitarną Ministerstwa Spraw Wewnętrznych i Administracji na terenie obiektów Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego oraz w stosunku do funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego (Dz. U. poz. 577 oraz z 2018 r. poz. 148), które utraciło moc z dniem 31 maja 2021 r. na podstawie art. 19 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o Państwowej Inspekcji Sanitarnej oraz niektórych innych ustaw (Dz. U. poz. 322 i 374).
 

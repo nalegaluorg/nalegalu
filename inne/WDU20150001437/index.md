@@ -40,29 +40,24 @@ rozporządzeniem Ministra Środowiska z dnia 19 marca 2015 r. zmieniającym rozp
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Środowiska z dnia 24 marca 2011 r. zmieniającego rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Katowicach (Dz. U. Nr 77, poz. 425), który stanowi:
-„
+§ 2 rozporządzenia Ministra Środowiska z dnia 24 marca 2011 r. zmieniającego rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Katowicach (Dz. U. Nr 77, poz. 425), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 4 miesięcy od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 4 miesięcy od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Środowiska z dnia 19 marca 2015 r. zmieniającego rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Katowicach (Dz. U. poz. 501), który stanowi:
-„
+§ 2 rozporządzenia Ministra Środowiska z dnia 19 marca 2015 r. zmieniającego rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Katowicach (Dz. U. poz. 501), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Środowiska z dnia 10 listopada 2008 r. w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Katowicach
-Na podstawie art. 124 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Środowiska z dnia 10 listopada 2008 r. w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w KatowicachMinister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1267).
+Na podstawie art. 124 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200, 277, 774, 1045, 1211, 1223, 1265 i 1434.) zarządza się, co następuje:
 § 1.
 Regionalnej Dyrekcji Ochrony Środowiska w Katowicach nadaje się statut, stanowiący załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 15 listopada 2008 r.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1267). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200, 277, 774, 1045, 1211, 1223, 1265 i 1434.
+Rozporządzenie wchodzi w życie z dniem 15 listopada 2008 r. 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1267). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200, 277, 774, 1045, 1211, 1223, 1265 i 1434.
 
 ## Załącznik nr 1 — – Statut Regionalnej Dyrekcji Ochrony Środowiska w Katowicach
 
 § 1.
-Regionalna Dyrekcja Ochrony Środowiska w Katowicach, zwana dalej „RDOŚ”, działa na podstawie ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.), zwanej dalej „ustawą”, oraz niniejszego statutu.
+Regionalna Dyrekcja Ochrony Środowiska w Katowicach, zwana dalej „RDOŚ”, działa na podstawie ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200, 277, 774, 1045, 1211, 1223, 1265 i 1434.), zwanej dalej „ustawą”, oraz niniejszego statutu.
 § 2.
 1.
 RDOŚ jest urzędem administracji rządowej, obsługującym Regionalnego Dyrektora Ochrony Środowiska w Katowicach, zwanego dalej „Regionalnym Dyrektorem”.
@@ -71,18 +66,18 @@ RDOŚ jest państwową jednostką budżetową, działającą na obszarze wojewó
 3.
 Siedzibą RDOŚ są Katowice.
 § 3.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Środowiska z dnia 19 marca 2015 r. zmieniającego rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Katowicach (Dz. U. poz. 501), które weszło w życie z dniem 24 kwietnia 2015 r..
 Regionalny Dyrektor kieruje RDOŚ przy pomocy zastępców Regionalnego Dyrektora, naczelników komórek organizacyjnych oraz osób zajmujących stanowiska, o których mowa w § 4 ust. 1.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Środowiska z dnia 19 marca 2015 r. zmieniającego rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Katowicach (Dz. U. poz. 501), które weszło w życie z dniem 24 kwietnia 2015 r..
 Pierwszym zastępcą Regionalnego Dyrektora jest regionalny konserwator przyrody, który sprawuje nadzór nad komórkami organizacyjnymi, o których mowa w § 4 ust. 1 pkt 2 i 3.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Środowiska z dnia 19 marca 2015 r. zmieniającego rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Katowicach (Dz. U. poz. 501), które weszło w życie z dniem 24 kwietnia 2015 r..
 Zakresy czynności zastępców Regionalnego Dyrektora, naczelników komórek organizacyjnych oraz osób zajmujących stanowiska, o których mowa w § 4 ust. 1, ustala Regionalny Dyrektor.
 4.
 W przypadku nieobecności lub czasowej niezdolności do wykonywania obowiązków przez Regionalnego Dyrektora jego funkcje sprawuje zastępca Regionalnego Dyrektora wyznaczony przez Generalnego Dyrektora Ochrony Środowiska.
 5.
 Regionalny Dyrektor może udzielać pełnomocnictw do dokonywania określonych czynności cywilnoprawnych lub faktycznych lub rodzajów czynności w zakresie jego właściwości.
 § 4.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4..
 W skład RDOŚ wchodzą następujące komórki organizacyjne i stanowiska:
 1)
 Wydział Ocen Oddziaływania na Środowisko;
@@ -103,7 +98,7 @@ Komórki organizacyjne kierowane są przez naczelników.
 § 5.
 Przy Regionalnym Dyrektorze działają:
 1)
-Regionalna Rada Ochrony Przyrody – realizując zadania określone w ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.);
+Regionalna Rada Ochrony Przyrody – realizując zadania określone w ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842, z 2014 r. poz. 805, 850, 926, 1002, 1101 i 1863 oraz z 2015 r. poz. 222, 774 i 1045.);
 2)
 Regionalna Komisja do spraw Ocen Oddziaływania na Środowisko – realizując zadania określone w ustawie.
 § 6.
@@ -111,5 +106,5 @@ Regionalny Dyrektor może powoływać zespoły opiniodawczo-doradcze o charakter
 § 7.
 Organizację wewnętrzną i szczegółowy zakres zadań komórek organizacyjnych RDOŚ, o których mowa w § 4 ust. 1, określa regulamin organizacyjny nadany przez Regionalnego Dyrektora, po zatwierdzeniu przez Generalnego Dyrektora Ochrony Środowiska.
 § 8.
-Spory kompetencyjne pomiędzy regionalnymi dyrektorami ochrony środowiska rozstrzyga Generalny Dyrektor Ochrony Środowiska.
+Spory kompetencyjne pomiędzy regionalnymi dyrektorami ochrony środowiska rozstrzyga Generalny Dyrektor Ochrony Środowiska. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200, 277, 774, 1045, 1211, 1223, 1265 i 1434. 4) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Środowiska z dnia 19 marca 2015 r. zmieniającego rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Katowicach (Dz. U. poz. 501), które weszło w życie z dniem 24 kwietnia 2015 r. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842, z 2014 r. poz. 805, 850, 926, 1002, 1101 i 1863 oraz z 2015 r. poz. 222, 774 i 1045.
 

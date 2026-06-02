@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 18 października 2018 r. w sprawie zmiany obszaru wolnego obszaru celnego na terenie Portu Lotniczego im. Fryderyka Chopina w Warszawie
+# Rozporządzenie Ministra Finansówz dnia 18 października 2018 r. w sprawie zmiany obszaru wolnego obszaru celnego na terenie Portu Lotniczego im. Fryderyka Chopina w Warszawie Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-18 |
 | Data wydania | 2018-10-25 |
-| Wejście w życie | 2018-11-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002045) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2045/text.pdf) |
 
@@ -31,10 +30,9 @@ Załącznik – Szczegółowy opis granic i obszar wolnego obszaru celnego na te
 Treść rozporządzenia
 Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2018 r. poz. 167, 1544, 1669 i 1697) zarządza się, co następuje:
 § 1.
-Określa się, w załączniku do rozporządzenia, granice i obszar wolnego obszaru celnego na terenie Portu Lotniczego im. Fryderyka Chopina w Warszawie, ustanowionego rozporządzeniem Rady Ministrów z dnia 26 października 1992 r. w sprawie ustanowienia wolnego obszaru celnego na terenie Międzynarodowego Portu Lotniczego Warszawa-Okęcie (Dz. U. poz. 407, z późn. zm.).
+Określa się, w załączniku do rozporządzenia, granice i obszar wolnego obszaru celnego na terenie Portu Lotniczego im. Fryderyka Chopina w Warszawie, ustanowionego rozporządzeniem Rady Ministrów z dnia 26 października 1992 r. w sprawie ustanowienia wolnego obszaru celnego na terenie Międzynarodowego Portu Lotniczego Warszawa-Okęcie (Dz. U. poz. 407, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1993 r. poz. 432, z 2007 r. poz. 26, z 2010 r. poz. 5, z 2011 r. poz. 554, z 2012 r. poz. 1274 oraz z 2015 r. poz. 504.).
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1993 r. poz. 432, z 2007 r. poz. 26, z 2010 r. poz. 5, z 2011 r. poz. 554, z 2012 r. poz. 1274 oraz z 2015 r. poz. 504.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1993 r. poz. 432, z 2007 r. poz. 26, z 2010 r. poz. 5, z 2011 r. poz. 554, z 2012 r. poz. 1274 oraz z 2015 r. poz. 504.
 Załącznik – Szczegółowy opis granic i obszar wolnego obszaru celnego na terenie Portu Lotniczego im. Fryderyka Chopina w Warszawie
 Wolny obszar celny jest zlokalizowany w budynku Terminalu Pasażerskiego Portu Lotniczego im. Fryderyka Chopina w Warszawie i stanowi strefę zamkniętą odcinkami ścian określonymi w poniższym opisie granicy wolnego obszaru celnego. Z uwagi na usytuowanie wewnątrz budynku, odgraniczenie wolnego obszaru celnego stanowią trwałe elementy budowlane. Opis przebiegu granic wolnego obszaru celnego jest przedstawiony na mapie w skali 1:5000. Dokument zawierający opis przebiegu granic wolnego obszaru celnego wraz z mapą jest przechowywany u zarządzającego wolnym obszarem celnym oraz w postaci kopii we właściwej miejscowo izbie administracji skarbowej nadzorującej wolny obszar celny oraz w Ministerstwie Finansów. Granicę wolnego obszaru celnego na poziomie 0 w Terminalu A stanowią następujące odcinki ścian:
 1)
@@ -112,8 +110,7 @@ przestrzeń o szerokości 3,3 m w pomieszczeniu 0.160;
 37)
 dwa odcinki ściany o długości 2,5 m i 28,7 m z dwoma otworami drzwiowymi w pomieszczeniu 0.160;
 38)
-ściana o długości 3,4 m i przegroda o długości 3,2 m z otworem drzwiowym, w pomieszczeniu 0.159.
-Granicę wolnego obszaru celnego na poziomie 100 stanowią następujące odcinki ścian:
+ściana o długości 3,4 m i przegroda o długości 3,2 m z otworem drzwiowym, w pomieszczeniu 0.159. Granicę wolnego obszaru celnego na poziomie 100 stanowią następujące odcinki ścian:
 1)
 pięć odcinków ściany o długości: 14,2 m z otworem drzwiowym, 47,6 m, 0,9 m, 0,6 m i 8,5 m, w pomieszczeniach: 1.064, 1.065.5, 1.065.2, 1.065.3, 1.065.4C, 1.065.4D i 1.065.4A;
 2)
@@ -221,8 +218,7 @@ klatka schodowa 1.859;
 53)
 ściana o długości 27,7 m w pomieszczeniach 1.831.1 z dwoma otworami drzwiowymi i 1.470;
 54)
-ściana o długości 28,4 m w pomieszczeniach: 1.470 z otworem drzwiowym, 1.469 z otworem drzwiowym, 1.468 z otworem drzwiowym, 1.423 z otworem drzwiowym i 1.422 z otworem drzwiowym.
-Granicę wolnego obszaru celnego na poziomie 200 w Terminalu A stanowią następujące odcinki ścian:
+ściana o długości 28,4 m w pomieszczeniach: 1.470 z otworem drzwiowym, 1.469 z otworem drzwiowym, 1.468 z otworem drzwiowym, 1.423 z otworem drzwiowym i 1.422 z otworem drzwiowym. Granicę wolnego obszaru celnego na poziomie 200 w Terminalu A stanowią następujące odcinki ścian:
 1)
 ściana o długości 140,2 m w pomieszczeniach: 2.345, 2.379, 2.363A, 2.364G i 2.384;
 2)
@@ -358,8 +354,7 @@ cztery odcinki ściany o długości: 2,2 m, 4,8 m, 0,6 m i 3,2 m, w pomieszczeni
 67)
 dwa odcinki ściany o długości 1,2 m i 4,1 m w pomieszczeniu 2.635;
 68)
-ściana o długości 3,4 m z otworem drzwiowym w pomieszczeniu 2.630.
-Granicę wolnego obszaru celnego na poziomie 300 w Terminalu A stanowią następujące odcinki ścian:
+ściana o długości 3,4 m z otworem drzwiowym w pomieszczeniu 2.630. Granicę wolnego obszaru celnego na poziomie 300 w Terminalu A stanowią następujące odcinki ścian:
 1)
 balustrada o długości 4,2 m na kładce 3.090;
 2)
@@ -461,6 +456,5 @@ cztery odcinki balustrady o długości: 55,6 m wzdłuż pomieszczenia 3.068.2, 1
 50)
 balustrada o długości 62 m wzdłuż pomieszczenia 3.068.1;
 51)
-ściana o długości 5,7 m z otworem drzwiowym w pomieszczeniu 3.068.1.
-Łączny obszar wolnego obszaru celnego wynosi 43 892 m2.
+ściana o długości 5,7 m z otworem drzwiowym w pomieszczeniu 3.068.1. Łączny obszar wolnego obszaru celnego wynosi 43 892 m2.
 

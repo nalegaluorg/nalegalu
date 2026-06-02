@@ -37,18 +37,14 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 18 czerwca 2020 r. zmie
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 25 maja 2005 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad organizacji Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych (Dz. U. poz. 829), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 25 maja 2005 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad organizacji Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych (Dz. U. poz. 829), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 czerwca 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad organizacji Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych (Dz. U. poz. 1112), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 czerwca 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad organizacji Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych (Dz. U. poz. 1112), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 września 2002 r. w sprawie szczegółowych zasad organizacji Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 września 2002 r. w sprawie szczegółowych zasad organizacji Inspekcji Jakości Handlowej Artykułów Rolno-SpożywczychMinister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
 Na podstawie art. 17 ust. 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2021 r. poz. 630) zarządza się, co następuje:
 § 1.
 W skład Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, zwanej dalej „Inspekcją”, wchodzą:
@@ -56,9 +52,9 @@ W skład Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, zwanej dal
 Główny Inspektorat Jakości Handlowej Artykułów Rolno-Spożywczych;
 2)
 wojewódzkie inspektoraty jakości handlowej artykułów rolno-spożywczych, zwane dalej „wojewódzkimi inspektoratami”.
-§ 2.
+§ 2W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 czerwca 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad organizacji Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych (Dz. U. poz. 1112), które weszło w życie z dniem 11 lipca 2020 r..
 Wojewódzkim inspektoratem kieruje wojewódzki inspektor jakości handlowej artykułów rolno-spożywczych przy pomocy zastępcy wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych oraz kierowników i zastępców kierowników komórek organizacyjnych wymienionych w § 3.
-§ 3.
+§ 3W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 czerwca 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad organizacji Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych (Dz. U. poz. 1112), które weszło w życie z dniem 11 lipca 2020 r..
 1.
 W skład wojewódzkiego inspektoratu wchodzą następujące komórki organizacyjne:
 1)
@@ -96,6 +92,5 @@ Oddziałem lub wydziałem wojewódzkiego inspektoratu kieruje kierownik tej kom�
 5.
 Sekcjami, o których mowa w ust. 2, kierują kierownik wydziału, zastępca kierownika wydziału albo główny specjalista.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2003 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 czerwca 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad organizacji Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych (Dz. U. poz. 1112), które weszło w życie z dniem 11 lipca 2020 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2003 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 czerwca 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad organizacji Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych (Dz. U. poz. 1112), które weszło w życie z dniem 11 lipca 2020 r.
 

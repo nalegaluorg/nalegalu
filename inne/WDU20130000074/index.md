@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-28 |
 | Data wydania | 2013-01-17 |
-| Wejście w życie | 2013-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000074) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/74/text.pdf) |
 
@@ -43,5 +42,5 @@ w poprzednim roku kalendarzowym wprowadzili do obrotu świeże owoce lub warzywa
 2)
 zostali objęci kontrolą zgodności z normami handlowymi dla świeżych owoców i warzyw.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 27 czerwca 2005 r. w sprawie przypadków zwolnienia handlowców z obowiązku przekazywania informacji wojewódzkiemu inspektorowi jakości handlowej artykułów rolno-spożywczych oraz kryteriów wpisu do bazy danych o handlowcach (Dz. U. Nr 129, poz. 1083), które utraciło moc z dniem wejścia w życie ustawy z dnia 22 października 2010 r. o zmianie ustawy o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego oraz niektórych innych ustaw (Dz. U. Nr 228, poz. 1486). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 27 czerwca 2005 r. w sprawie przypadków zwolnienia handlowców z obowiązku przekazywania informacji wojewódzkiemu inspektorowi jakości handlowej artykułów rolno-spożywczych oraz kryteriów wpisu do bazy danych o handlowcach (Dz. U. Nr 129, poz. 1083), które utraciło moc z dniem wejścia w życie ustawy z dnia 22 października 2010 r. o zmianie ustawy o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego oraz niektórych innych ustaw (Dz. U. Nr 228, poz. 1486).
 

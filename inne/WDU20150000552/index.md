@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-03-05 |
 | Data wydania | 2015-04-21 |
-| Wejście w życie | 2015-05-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000552) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/552/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 1440, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 1440, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1717 i 1734 oraz z 2014 r. poz. 496, 567, 683, 684 i 1682.) wprowadza się następujące zmiany:
 
 - **1)** w art. 26: ust. 5 otrzymuje brzmienie: „
     - **a)**
@@ -81,5 +80,5 @@ source: "eli-html"
 
 2. Decyzję w sprawie ponownego ustalenia wysokości emerytury, z uwzględnieniem przeliczonego kapitału początkowego, organ rentowy wydaje w ciągu 60 dni od dnia wyjaśnienia ostatniej okoliczności niezbędnej do wydania decyzji.
 
-**Art. 4.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1717 i 1734 oraz z 2014 r. poz. 496, 567, 683, 684 i 1682.
 

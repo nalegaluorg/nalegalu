@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 14 lutego 2024 r. zmieniające rozporządzenie w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania
+# Rozporządzenie Ministra Zdrowiaz dnia 14 lutego 2024 r. zmieniające rozporządzenie w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-14 |
 | Data wydania | 2024-02-26 |
-| Wejście w życie | 2024-03-12 |
 | Ostatnia zmiana | 2024-05-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000252) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/252/text.pdf) |
 
@@ -36,37 +35,32 @@ a)
 w ust. 3 uchyla się pkt 9,
 b)
 w ust. 4:
-– po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) karta segregacji medycznej – w przypadku, o którym mowa w § 20a ust. 3; ” ,
-– po pkt 8 dodaje się pkt 8a w brzmieniu: „ 8a) karta medyczna lotniczego zespołu ratownictwa medycznego; ” ;
+po pkt 5 dodaje się pkt 5a w brzmieniu: „
+5a)
+karta segregacji medycznej – w przypadku, o którym mowa w § 20a ust. 3; ” ,
+po pkt 8 dodaje się pkt 8a w brzmieniu: „
+8a)
+karta medyczna lotniczego zespołu ratownictwa medycznego; ” ;
 2)
-w § 12 w ust. 1 w pkt 2 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu:
-„
+w § 12 w ust. 1 w pkt 2 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „
 d)
-karty segregacji medycznej – w przypadku, o którym mowa w § 20a ust. 3;
-” ;
+karty segregacji medycznej – w przypadku, o którym mowa w § 20a ust. 3; ” ;
 3)
-w § 12a w ust. 1 w pkt 2 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu:
-„
+w § 12a w ust. 1 w pkt 2 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „
 d)
-karty segregacji medycznej – w przypadku, o którym mowa w § 20a ust. 3;
-” ;
+karty segregacji medycznej – w przypadku, o którym mowa w § 20a ust. 3; ” ;
 4)
-w § 16 dodaje się ust. 5 w brzmieniu:
-„
+w § 16 dodaje się ust. 5 w brzmieniu: „
 5.
-Historia choroby pacjenta, który w wyniku segregacji medycznej przeprowadzonej w szpitalnym oddziale ratunkowym został skierowany do miejsca udzielania świadczeń z zakresu podstawowej opieki zdrowotnej, zawiera informacje o skierowaniu pacjenta do miejsca udzielania tych świadczeń oraz dane, o których mowa w § 10 pkt 1–3 oraz § 20a ust. 2 pkt 2 i 5, ze wskazaniem priorytetu nadanego pacjentowi w wyniku segregacji medycznej, o którym mowa w § 20a ust. 2 pkt 4.
-” ;
+Historia choroby pacjenta, który w wyniku segregacji medycznej przeprowadzonej w szpitalnym oddziale ratunkowym został skierowany do miejsca udzielania świadczeń z zakresu podstawowej opieki zdrowotnej, zawiera informacje o skierowaniu pacjenta do miejsca udzielania tych świadczeń oraz dane, o których mowa w § 10 pkt 1–3 oraz § 20a ust. 2 pkt 2 i 5, ze wskazaniem priorytetu nadanego pacjentowi w wyniku segregacji medycznej, o którym mowa w § 20a ust. 2 pkt 4. ” ;
 5)
 w § 20a:
 a)
-w ust. 2 pkt 2 otrzymuje brzmienie:
-„
+w ust. 2 pkt 2 otrzymuje brzmienie: „
 2)
-informacje dotyczące rejestracji pacjenta do szpitala: numer wykazu głównego przyjęć i wypisów oraz numer wykazu chorych oddziału;
-” ,
+informacje dotyczące rejestracji pacjenta do szpitala: numer wykazu głównego przyjęć i wypisów oraz numer wykazu chorych oddziału; ” ,
 b)
-dodaje się ust. 3 w brzmieniu:
-„
+dodaje się ust. 3 w brzmieniu: „
 3.
 W przypadku skierowania pacjenta, który w wyniku segregacji medycznej przeprowadzonej w szpitalnym oddziale ratunkowym został przydzielony do kategorii pilności oznaczonej kolorem zielonym lub niebieskim, do miejsca udzielania świadczeń z zakresu podstawowej opieki zdrowotnej, zgodnie z przepisami wydanymi na podstawie art. 34 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym:
 1)
@@ -74,17 +68,13 @@ datę wypisu stanowi data i godzina zakończenia segregacji medycznej;
 2)
 kartę segregacji medycznej podpisuje osoba przeprowadzająca segregację medyczną;
 3)
-kartę segregacji medycznej wydaje się osobom, o których mowa w art. 26 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.
-” ;
+kartę segregacji medycznej wydaje się osobom, o których mowa w art. 26 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta. ” ;
 6)
-w § 21 dodaje się ust. 7 w brzmieniu:
-„
+w § 21 dodaje się ust. 7 w brzmieniu: „
 7.
-Karty informacyjnej z leczenia szpitalnego w przypadku, o którym mowa w § 20a ust. 3, nie wydaje się.
-” ;
+Karty informacyjnej z leczenia szpitalnego w przypadku, o którym mowa w § 20a ust. 3, nie wydaje się. ” ;
 7)
-§ 25 otrzymuje brzmienie:
-„
+§ 25 otrzymuje brzmienie: „
 § 25.
 1.
 Wykaz chorych oddziału, opatrzony numerem wykazu, zawiera:
@@ -115,11 +105,9 @@ adnotację o skierowaniu pacjenta do miejsca udzielania świadczeń z zakresu po
 13)
 oznaczenie osoby przeprowadzającej segregację medyczną w szpitalnym oddziale ratunkowym, zgodnie z § 10 pkt 3 lit. a, kierującej pacjenta do miejsca udzielania świadczeń z zakresu podstawowej opieki zdrowotnej.
 2.
-W przypadku pacjenta, który w wyniku przeprowadzonej segregacji medycznej został skierowany do miejsca udzielania świadczeń z zakresu podstawowej opieki zdrowotnej, przepisów ust. 1 pkt 5–11 nie stosuje się.
-” ;
+W przypadku pacjenta, który w wyniku przeprowadzonej segregacji medycznej został skierowany do miejsca udzielania świadczeń z zakresu podstawowej opieki zdrowotnej, przepisów ust. 1 pkt 5–11 nie stosuje się. ” ;
 8)
-§ 44 i § 45 otrzymują brzmienie:
-„
+§ 44 i § 45 otrzymują brzmienie: „
 § 44.
 1.
 Dysponent zespołów ratownictwa medycznego sporządza i prowadzi dokumentację indywidualną w formie:
@@ -140,16 +128,27 @@ W przypadku, o którym mowa w ust. 3, dokumentacja medyczna w postaci papierowej
 6.
 Po dokonaniu digitalizacji, o której mowa w ust. 5, dysponent zespołów ratownictwa medycznego niszczy dokumentację medyczną w postaci papierowej, w sposób uniemożliwiający identyfikację pacjenta.
 § 45.
-Karta zlecenia wylotu lotniczego zespołu ratownictwa medycznego zawiera dane określone w przepisach wydanych na podstawie art. 24h ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym.
-” ;
+Karta zlecenia wylotu lotniczego zespołu ratownictwa medycznego zawiera dane określone w przepisach wydanych na podstawie art. 24h ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym. ” ;
 9)
 w § 46:
 a)
 w ust. 1:
-– w pkt 4: – – po lit. a dodaje się lit. aa w brzmieniu: „ aa) potwierdzenia przyjęcia zlecenia wyjazdu lub wylotu przez zespół ratownictwa medycznego, ” , – – po lit. e dodaje się lit. ea w brzmieniu: „ ea) odmowy przyjęcia pacjenta przez podmiot leczniczy od zespołu ratownictwa medycznego, ” , – pkt 6 otrzymuje brzmienie: „ 6) oświadczenie pacjenta lub jego przedstawiciela ustawowego o rezygnacji z udzielania mu pomocy medycznej lub z przewozu do szpitala, wraz z podaniem daty oraz godziny, minuty i sekundy odmowy w systemie 24-godzinnym; ” , – po pkt 7 dodaje się pkt 7a w brzmieniu: „ 7a) nazwę i adres podmiotu leczniczego, do którego zespół ratownictwa medycznego przekazał pacjenta lub który odmówił przyjęcia pacjenta, ze wskazaniem imienia, nazwiska i tytułu zawodowego osoby, która podjęła decyzję o przyjęciu lub odmowie przyjęcia pacjenta; ” , – pkt 10 otrzymuje brzmienie: „ 10) informację o wystawieniu i wydaniu karty medycznych czynności ratunkowych lub karty medycznej lotniczego zespołu ratownictwa medycznego, ze wskazaniem imienia (imion) i nazwiska osoby, której ta karta została wydana; ” ,
+w pkt 4:
+– po lit. a dodaje się lit. aa w brzmieniu: „
+aa)
+potwierdzenia przyjęcia zlecenia wyjazdu lub wylotu przez zespół ratownictwa medycznego, ” ,
+– – po lit. e dodaje się lit. ea w brzmieniu: „ ea) odmowy przyjęcia pacjenta przez podmiot leczniczy od zespołu ratownictwa medycznego, ” ,
+pkt 6 otrzymuje brzmienie: „
+6)
+oświadczenie pacjenta lub jego przedstawiciela ustawowego o rezygnacji z udzielania mu pomocy medycznej lub z przewozu do szpitala, wraz z podaniem daty oraz godziny, minuty i sekundy odmowy w systemie 24-godzinnym; ” ,
+po pkt 7 dodaje się pkt 7a w brzmieniu: „
+7a)
+nazwę i adres podmiotu leczniczego, do którego zespół ratownictwa medycznego przekazał pacjenta lub który odmówił przyjęcia pacjenta, ze wskazaniem imienia, nazwiska i tytułu zawodowego osoby, która podjęła decyzję o przyjęciu lub odmowie przyjęcia pacjenta; ” ,
+pkt 10 otrzymuje brzmienie: „
+10)
+informację o wystawieniu i wydaniu karty medycznych czynności ratunkowych lub karty medycznej lotniczego zespołu ratownictwa medycznego, ze wskazaniem imienia (imion) i nazwiska osoby, której ta karta została wydana; ” ,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
 Kartę medycznych czynności ratunkowych lub kartę medyczną lotniczego zespołu ratownictwa medycznego wydaje się:
 1)
@@ -157,14 +156,11 @@ pacjentowi lub jego przedstawicielowi ustawowemu – w przypadku pozostawienia p
 2)
 innemu zespołowi ratownictwa medycznego – w przypadku przekazania pacjenta temu zespołowi;
 3)
-podmiotowi leczniczemu – w przypadku przewiezienia pacjenta do tego podmiotu.
-” ;
+podmiotowi leczniczemu – w przypadku przewiezienia pacjenta do tego podmiotu. ” ;
 10)
-w § 50 w ust. 3 pkt 4 otrzymuje brzmienie:
-„
+w § 50 w ust. 3 pkt 4 otrzymuje brzmienie: „
 4)
-rodzaj transportu – jeżeli dotyczy;
-” ;
+rodzaj transportu – jeżeli dotyczy; ” ;
 11)
 w § 50a w ust. 5 w pkt 4:
 a)
@@ -176,18 +172,13 @@ w lit. d przed wyrazem „poradach” dodaje się wyraz „planowanych”,
 d)
 w lit. e przed wyrazem „konsultacjach” dodaje się wyraz „planowanych”;
 12)
-w § 69 po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+w § 69 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Dokumentacja medyczna, o której mowa w § 2 ust. 3 pkt 10–12, jest przechowywana w SWD PRM.
-” ;
+Dokumentacja medyczna, o której mowa w § 2 ust. 3 pkt 10–12, jest przechowywana w SWD PRM. ” ;
 13)
-w § 70 po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+w § 70 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
-Wydruk dokumentacji medycznej z SWD PRM nie wymaga potwierdzenia, o którym mowa w ust. 2.
-” .
+Wydruk dokumentacji medycznej z SWD PRM nie wymaga potwierdzenia, o którym mowa w ust. 2. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

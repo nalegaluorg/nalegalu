@@ -22,26 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-03 |
 | Data wydania | 2012-12-11 |
-| Wejście w życie | 2012-12-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001386) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1386/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 95 § 5 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 95 § 5 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651, z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 182, poz. 1228, Nr 197, poz. 1307 i Nr 225, poz. 1466, z 2011 r. Nr 217, poz. 1280, Nr 240, poz. 1431 i Nr 244, poz. 1454 oraz z 2012 r. poz. 1101.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Prezesa Rady Ministrów z dnia 17 października 2002 r. w sprawie nadania funkcjonariuszom organów Państwowej Inspekcji Sanitarnej uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. Nr 174, poz. 1426, z późn. zm.) w § 2:
+W rozporządzeniu Prezesa Rady Ministrów z dnia 17 października 2002 r. w sprawie nadania funkcjonariuszom organów Państwowej Inspekcji Sanitarnej uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. Nr 174, poz. 1426, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 58, poz. 353 oraz z 2010 r. Nr 114, poz. 766 i Nr 259, poz. 1766.) w § 2:
 1)
-pkt 2 otrzymuje brzmienie:
-„
+pkt 2 otrzymuje brzmienie: „
 2)
-art. 35, art. 41–49 i art. 52–63 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. Nr 63, poz. 322 oraz z 2012 r. poz. 908);
-” ;
+art. 35, art. 41–49 i art. 52–63 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. Nr 63, poz. 322 oraz z 2012 r. poz. 908); ” ;
 2)
-dodaje się pkt 9 w brzmieniu:
-„
+dodaje się pkt 9 w brzmieniu: „
 9)
-art. 193 pkt 5 i 6 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145 i 951).
-” .
+art. 193 pkt 5 i 6 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145 i 951). ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651, z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 182, poz. 1228, Nr 197, poz. 1307 i Nr 225, poz. 1466, z 2011 r. Nr 217, poz. 1280, Nr 240, poz. 1431 i Nr 244, poz. 1454 oraz z 2012 r. poz. 1101. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 58, poz. 353 oraz z 2010 r. Nr 114, poz. 766 i Nr 259, poz. 1766.
 

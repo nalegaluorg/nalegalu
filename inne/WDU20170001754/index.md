@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 8 września 2017 r. w sprawie warunków i trybu zmian programu operacyjnego wprowadzanych w trakcie jego realizacji
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 8 września 2017 r. w sprawie warunków i trybu zmian programu operacyjnego wprowadzanych w trakcie jego realizacji Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-08 |
 | Data wydania | 2017-09-18 |
-| Wejście w życie | 2017-09-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001754) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1754/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 19 ust. 2 pkt 1 i 2 ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2016 r. poz. 58 oraz z 2017 r. poz. 624 i 1503) zarządza się, co następuje:
+Niniejsze rozporządzenie służy stosowaniu rozporządzenia delegowanego Komisji (UE) 2017/891 z dnia 13 marca 2017 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do sektora owoców i warzyw oraz sektora przetworzonych owoców i warzyw, uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do kar, które mają być stosowane w tych sektorach, a także zmieniającego rozporządzenie wykonawcze Komisji (UE) nr 543/2011 (Dz. Urz. UE L 138 z 25.05.2017, str. 4). Na podstawie art. 19 ust. 2 pkt 1 i 2 ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2016 r. poz. 58 oraz z 2017 r. poz. 624 i 1503) zarządza się, co następuje:
 § 1.
 1.
 Zmiany programu operacyjnego wprowadzane w trakcie jego realizacji i dokonywane w danym roku jego realizacji nie wymagają zatwierdzenia przez dyrektora oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, chyba że dotyczą:
@@ -67,6 +66,5 @@ W2017 r. wniosek o zatwierdzenie zmian programu operacyjnego dokonywanych w kole
 § 5.
 Do postępowań w sprawie zatwierdzenia zmian programu operacyjnego wprowadzanych w trakcie jego realizacji, wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia, stosuje się przepisy niniejszego rozporządzenia.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia delegowanego Komisji (UE) 2017/891 z dnia 13 marca 2017 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do sektora owoców i warzyw oraz sektora przetworzonych owoców i warzyw, uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do kar, które mają być stosowane w tych sektorach, a także zmieniającego rozporządzenie wykonawcze Komisji (UE) nr 543/2011 (Dz. Urz. UE L 138 z 25.05.2017, str. 4). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 25 lutego 2016 r. w sprawie warunków i trybu zmian programu operacyjnego wprowadzanych w trakcie jego realizacji (Dz. U. poz. 303), które na podstawie art. 60 ust. 1 pkt 2 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 25 lutego 2016 r. w sprawie warunków i trybu zmian programu operacyjnego wprowadzanych w trakcie jego realizacji (Dz. U. poz. 303), które na podstawie art. 60 ust. 1 pkt 2 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia delegowanego Komisji (UE) 2017/891 z dnia 13 marca 2017 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do sektora owoców i warzyw oraz sektora przetworzonych owoców i warzyw, uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do kar, które mają być stosowane w tych sektorach, a także zmieniającego rozporządzenie wykonawcze Komisji (UE) nr 543/2011 (Dz. Urz. UE L 138 z 25.05.2017, str. 4). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 25 lutego 2016 r. w sprawie warunków i trybu zmian programu operacyjnego wprowadzanych w trakcie jego realizacji (Dz. U. poz. 303), które na podstawie art. 60 ust. 1 pkt 2 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

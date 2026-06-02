@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 17 czerwca 2021 r. zmieniające rozporządzenie w sprawie zakresu obowiązków oraz podstaw, zakresu i trybu udzielania zwolnień od zajęć służbowych funkcjonariuszom Straży Granicznej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 17 czerwca 2021 r. zmieniające rozporządzenie w sprawie zakresu obowiązków oraz podstaw, zakresu i trybu udzielania zwolnień od zajęć służbowych funkcjonariuszom Straży Granicznej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-17 |
 | Data wydania | 2021-07-01 |
-| Wejście w życie | 2021-07-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001189) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1189/text.pdf) |
 
@@ -33,14 +32,11 @@ W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca
 1)
 w § 14:
 a)
-po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Funkcjonariuszowi odbywającemu aplikację legislacyjną przysługuje zwolnienie od zajęć służbowych w celu przygotowania się i przystąpienia do egzaminu kończącego aplikację legislacyjną w wymiarze 14 dni roboczych.
-” ,
+Funkcjonariuszowi odbywającemu aplikację legislacyjną przysługuje zwolnienie od zajęć służbowych w celu przygotowania się i przystąpienia do egzaminu kończącego aplikację legislacyjną w wymiarze 14 dni roboczych. ” ,
 b)
-ust. 2–4 otrzymują brzmienie:
-„
+ust. 2–4 otrzymują brzmienie: „
 2.
 Funkcjonariuszowi podnoszącemu kwalifikacje zawodowe i wykształcenie ogólne poza jednostkami organizacyjnymi Straży Granicznej – na podstawie skierowania przełożonego właściwego w sprawach osobowych na studia pierwszego stopnia, studia drugiego stopnia, jednolite studia magisterskie albo studia podyplomowe – przysługują zwolnienia od zajęć służbowych na:
 1)
@@ -82,14 +78,11 @@ Funkcjonariuszowi podnoszącemu kwalifikacje zawodowe poprzez przygotowanie rozp
 1)
 28 dni roboczych w całym okresie przygotowywania rozprawy doktorskiej;
 2)
-7 dni roboczych na przeprowadzenie obrony rozprawy doktorskiej.
-” ,
+7 dni roboczych na przeprowadzenie obrony rozprawy doktorskiej. ” ,
 c)
-dodaje się ust. 5 w brzmieniu:
-„
+dodaje się ust. 5 w brzmieniu: „
 5.
-Funkcjonariuszowi ubiegającemu się o nadanie stopnia doktora habilitowanego, w przypadku przeprowadzania kolokwium habilitacyjnego w toku postępowania w sprawie nadania stopnia doktora habilitowanego, przysługuje, na jego wniosek, zwolnienie od zajęć służbowych w celu przygotowania się i przystąpienia do kolokwium habilitacyjnego w wymiarze nie większym niż 28 dni roboczych.
-” ;
+Funkcjonariuszowi ubiegającemu się o nadanie stopnia doktora habilitowanego, w przypadku przeprowadzania kolokwium habilitacyjnego w toku postępowania w sprawie nadania stopnia doktora habilitowanego, przysługuje, na jego wniosek, zwolnienie od zajęć służbowych w celu przygotowania się i przystąpienia do kolokwium habilitacyjnego w wymiarze nie większym niż 28 dni roboczych. ” ;
 2)
 w § 14a:
 a)
@@ -101,6 +94,5 @@ w § 16 w ust. 1 wyrazy „ust. 1 i 3” zastępuje się wyrazami „ust. 1, 1a 
 § 2.
 Do przysługującego zwolnienia od zajęć służbowych na udział w obowiązkowych zajęciach przewidzianych programem studiów, o którym mowa w § 14 ust. 2 pkt 1 rozporządzenia zmienianego w § 1, na podstawie skierowania przełożonego właściwego w sprawach osobowych wydanego przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-05-22 |
 | Data wydania | 2003-06-13 |
-| Wejście w życie | 2003-06-28 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031040962) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/962/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 5 stycznia 1995 r. o dopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 13, poz. 60, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 5 stycznia 1995 r. o dopłatach do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 13, poz. 60, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1995 r. Nr 83, poz. 418, z 1996 r. Nr 152, poz. 719, z 1997 r. Nr 80, poz. 504, Nr 107, poz. 690, Nr 121, poz. 770 i Nr 158, poz. 1044, z 1999 r. Nr 27, poz. 243, Nr 63, poz. 702 i Nr 70, poz. 778, z 2000 r. Nr 122, poz. 1315 oraz z 2001 r. Nr 72, poz. 744 i 746.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 ust. 3 otrzymuje brzmienie: „
 
@@ -34,8 +33,11 @@ source: "eli-html"
 
 - **2)** w art. 5 pkt 4 otrzymuje brzmienie: „
 - **4)** do dnia 31 grudnia 2007 r. w przypadku kredytów na cele, o których mowa w art. 3 ust. 1 pkt 4 ” ;
-- **3)** w art. 6: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) 1,25 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na cele rolnicze, ” , – pkt 4 otrzymuje brzmienie: „ 4) 1,3 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na finansowanie zadań związanych z restrukturyzacją przedsiębiorstw przemysłu lekkiego. ” , ust. 8 otrzymuje brzmienie: „
+- **3)** w art. 6: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** 1,25 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na cele rolnicze, ” , pkt 4 otrzymuje brzmienie: „
+- **4)** 1,3 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na finansowanie zadań związanych z restrukturyzacją przedsiębiorstw przemysłu lekkiego. ” , ust. 8 otrzymuje brzmienie: „
     - **b)**
 
 8. Dopłaty ze środków budżetu państwa do oprocentowania kredytów na cele, o których mowa w art. 3 ust. 1 pkt 4, przysługują w wysokości oprocentowania naliczonego według stopy równej stopie redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski, powiększonego o marżę banku. ” ;
@@ -53,5 +55,5 @@ source: "eli-html"
 
 2. W odniesieniu do kredytów, o których mowa w art. 3 ust. 1 pkt 4 ustawy wymienionej w art. 1, zastosowanie dopłat zgodnie z warunkami wynikającymi z niniejszej ustawy następuje w przypadku zmiany umowy kredytowej.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1995 r. Nr 83, poz. 418, z 1996 r. Nr 152, poz. 719, z 1997 r. Nr 80, poz. 504, Nr 107, poz. 690, Nr 121, poz. 770 i Nr 158, poz. 1044, z 1999 r. Nr 27, poz. 243, Nr 63, poz. 702 i Nr 70, poz. 778, z 2000 r. Nr 122, poz. 1315 oraz z 2001 r. Nr 72, poz. 744 i 746.
 

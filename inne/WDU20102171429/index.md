@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-10-08 |
 | Data wydania | 2010-11-19 |
-| Wejście w życie | 2010-12-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102171429) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1429/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2009 r. Nr 146, poz. 1188, z późn. zm.) w art. 95c pkt 1 otrzymuje brzmienie: „
+**Art. 1.** W ustawie z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2009 r. Nr 146, poz. 1188, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 166, poz. 1317, Nr 210, poz. 1628 i Nr 216, poz. 1676 oraz z 2010 r. Nr 7, poz. 45, Nr 47, poz. 278 i Nr 200, poz. 1326.) w art. 95c pkt 1 otrzymuje brzmienie: „
 
 - **1)** dochodzenie; ” .
 
@@ -38,5 +37,5 @@ source: "eli-html"
 
 1a. Minister Sprawiedliwości może polecić wszczęcie dochodzenia przeciwko radcy prawnemu lub aplikantowi radcowskiemu. ” .
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 166, poz. 1317, Nr 210, poz. 1628 i Nr 216, poz. 1676 oraz z 2010 r. Nr 7, poz. 45, Nr 47, poz. 278 i Nr 200, poz. 1326.
 

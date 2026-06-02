@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 12 sierpnia 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wymianę słupów nośnych impregnowanych kreozotem na plantacjach chmielu w ramach Krajowego Planu Odbudowy i Zwiększania Odporności
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 12 sierpnia 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wymianę słupów nośnych impregnowanych kreozotem na plantacjach chmielu w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-12 |
 | Data wydania | 2022-08-18 |
-| Wejście w życie | 2022-08-19 |
 | Ostatnia zmiana | 2026-02-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001729) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1729/text.pdf) |
 
@@ -33,7 +32,7 @@ Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania 
 § 2.
 Wsparcia udziela się na wymianę słupów nośnych impregnowanych kreozotem na plantacjach chmielu na konstrukcje wolne od kreozotu, w tym na demontaż słupów nośnych impregnowanych kreozotem, nabycie i transport nowych elementów konstrukcyjnych wolnych od kreozotu oraz montaż na tej samej powierzchni nowych słupów kompozytowych lub betonowych wolnych od kreozotu, na powierzchni nie większej niż 5 ha.
 § 3.
-Wsparcie może być udzielone osobie fizycznej, osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej, która posiada status mikro-, małego lub średniego przedsiębiorstwa w rozumieniu przepisów rozporządzenia Komisji (UE) nr 702/2014 z dnia 25 czerwca 2014 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 193 z 01.07.2014, str. 1, z późn. zm.), jeżeli:
+Wsparcie może być udzielone osobie fizycznej, osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej, która posiada status mikro-, małego lub średniego przedsiębiorstwa w rozumieniu przepisów rozporządzenia Komisji (UE) nr 702/2014 z dnia 25 czerwca 2014 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 193 z 01.07.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 48 z 20.02.2019, str. 1 oraz Dz. Urz. UE L 414 z 09.12.2020, str. 15., jeżeli:
 1)
 wykonuje działalność w zakresie produkcji chmielu na terytorium Rzeczypospolitej Polskiej;
 2)
@@ -113,6 +112,5 @@ W przypadku złożenia przez wnioskodawcę w ramach naboru więcej niż jednego 
 § 13.
 Zabezpieczeniem należytego wykonania przez ostatecznego odbiorcę wsparcia zobowiązań określonych w umowie o objęciu przedsięwzięcia wsparciem jest weksel niezupełny (in blanco) wraz z deklaracją wekslową sporządzoną na formularzu udostępnionym przez Agencję.
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 48 z 20.02.2019, str. 1 oraz Dz. Urz. UE L 414 z 09.12.2020, str. 15.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 48 z 20.02.2019, str. 1 oraz Dz. Urz. UE L 414 z 09.12.2020, str. 15.
 

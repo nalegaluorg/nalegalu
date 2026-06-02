@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-05-22 |
 | Data wydania | 2009-06-23 |
-| Wejście w życie | 2009-07-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090970804) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/804/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. Nr 162, poz. 1568, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. Nr 162, poz. 1568, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390, z 2006 r. Nr 50, poz. 362 i Nr 126, poz. 875, z 2007 r. Nr 192, poz. 1394 oraz z 2009 r. Nr 31, poz. 206.) wprowadza się następujące zmiany:
 
 - **1)** w art. 31: po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
@@ -34,7 +33,7 @@ source: "eli-html"
 1a. Osoba fizyczna lub jednostka organizacyjna, która zamierza realizować:
 
 - **1)** roboty budowlane przy zabytku nieruchomym wpisanym do rejestru lub objętym ochroną konserwatorską na podstawie ustaleń miejscowego planu zagospodarowania przestrzennego lub znajdującym się w ewidencji wojewódzkiego konserwatora zabytków albo
-- **2)** roboty ziemne lub dokonać zmiany charakteru dotychczasowej działalności na terenie, na którym znajdują się zabytki archeologiczne, co doprowadzić może do przekształcenia lub zniszczenia zabytku archeologicznego jest obowiązana, z zastrzeżeniem art. 82a ust. 1, pokryć koszty badań archeologicznych oraz ich dokumentacji, jeżeli przeprowadzenie tych badań jest niezbędne w celu ochrony tych zabytków. ” , ust. 2 otrzymuje brzmienie: „
+- **2)** roboty ziemne lub dokonać zmiany charakteru dotychczasowej działalności na terenie, na którym znajdują się zabytki archeologiczne, co doprowadzić może do przekształcenia lub zniszczenia zabytku archeologicznego – jest obowiązana, z zastrzeżeniem art. 82a ust. 1, pokryć koszty badań archeologicznych oraz ich dokumentacji, jeżeli przeprowadzenie tych badań jest niezbędne w celu ochrony tych zabytków. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Zakres i rodzaj niezbędnych badań archeologicznych, o których mowa w ust. 1a, ustala wojewódzki konserwator zabytków w drodze decyzji, wyłącznie w takim zakresie, w jakim roboty budowlane albo roboty ziemne lub zmiana charakteru dotychczasowej działalności na terenie, na którym znajdują się zabytki archeologiczne, zniszczą lub uszkodzą zabytek archeologiczny. ” ;
@@ -61,5 +60,5 @@ source: "eli-html"
 
 8. Dotacja, o której mowa w ust. 1, podlega zwrotowi wraz z odsetkami określonymi jak dla zaległości podatkowych w przypadku, gdy osoba fizyczna lub jednostka organizacyjna, o których mowa w ust. 1, nie rozliczy dotacji w terminie 5 lat od dnia przekazania dotacji lub gdy dokumentacja badań archeologicznych nie zostanie przekazana wojewódzkiemu konserwatorowi zabytków w terminie 3 lat od dnia wydania pozwolenia na przeprowadzenie badań archeologicznych. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, mając na względzie konieczność zapewnienia zgodności udzielonej pomocy z zasadami wydatkowania środków publicznych, określi, w drodze rozporządzenia, warunki i tryb udzielania oraz rozliczania dotacji, o której mowa w art. 82a ust. 1 i 2, w tym tryb postępowania z wnioskami o udzielenie dotacji, sposób jej rozliczania oraz rodzaj dokumentów niezbędnych do rozpatrzenia wniosku i rozliczenia dotacji. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390, z 2006 r. Nr 50, poz. 362 i Nr 126, poz. 875, z 2007 r. Nr 192, poz. 1394 oraz z 2009 r. Nr 31, poz. 206.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 30 czerwca 2020 r. w sprawie przedłużenia niektórych terminów związanych z przekazywaniem informacji o schematach podatkowych i wymianą informacji podatkowych z innymi państwami
+# Rozporządzenie Ministra Finansówz dnia 30 czerwca 2020 r. w sprawie przedłużenia niektórych terminów związanych z przekazywaniem informacji o schematach podatkowych i wymianą informacji podatkowych z innymi państwami Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-30 |
 | Data wydania | 2020-06-30 |
-| Wejście w życie | 2020-06-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001162) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1162/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 31y ust. 3 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm.) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2020/876 z dnia 24 czerwca 2020 r. zmieniającą dyrektywę 2011/16/UE w celu uwzględnienia pilnej potrzeby odroczenia niektórych terminów przekazywania i wymiany informacji w dziedzinie opodatkowania z powodu pandemii COVID-19 (Dz. Urz. UE L 204 z 26.06.2020, str. 46). Na podstawie art. 31y ust. 3 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 567, 568, 695, 875, 1086 i 1106.) zarządza się, co następuje:
 § 1.
 Ilekroć w niniejszym rozporządzeniu jest mowa o:
 1)
 korzystającym – rozumie się przez to korzystającego w rozumieniu art. 86a § 1 pkt 3 Ordynacji podatkowej;
 2)
-Ordynacji podatkowej – rozumie się przez to ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.);
+Ordynacji podatkowej – rozumie się przez to ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285, 568, 695, 1065, 1086 i 1106.);
 3)
 promotorze – rozumie się przez to promotora w rozumieniu art. 86a § 1 pkt 8 Ordynacji podatkowej;
 4)
@@ -89,6 +88,5 @@ Do terminów przedłużonych na podstawie § 3 przepisów § 4 pkt 2 i § 5 nie 
 2.
 Do terminów, które upłynęły przed dniem wejścia w życie niniejszego rozporządzenia, przepisów § 4 i § 5 nie stosuje się.
 § 7.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2020/876 z dnia 24 czerwca 2020 r. zmieniającą dyrektywę 2011/16/UE w celu uwzględnienia pilnej potrzeby odroczenia niektórych terminów przekazywania i wymiany informacji w dziedzinie opodatkowania z powodu pandemii COVID-19 (Dz. Urz. UE L 204 z 26.06.2020, str. 46). 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 567, 568, 695, 875, 1086 i 1106. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285, 568, 695, 1065, 1086 i 1106.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2020/876 z dnia 24 czerwca 2020 r. zmieniającą dyrektywę 2011/16/UE w celu uwzględnienia pilnej potrzeby odroczenia niektórych terminów przekazywania i wymiany informacji w dziedzinie opodatkowania z powodu pandemii COVID-19 (Dz. Urz. UE L 204 z 26.06.2020, str. 46). 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 567, 568, 695, 875, 1086 i 1106. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285, 568, 695, 1065, 1086 i 1106.
 

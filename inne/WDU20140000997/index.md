@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-07-23 |
 | Data wydania | 2014-07-29 |
-| Wejście w życie | 2014-08-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000997) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/997/text.pdf) |
 
@@ -69,5 +68,5 @@ organ rentowy Zakładu właściwy ze względu na miejsce zamieszkania;
 3)
 stowarzyszenie kombatanckie, które pośredniczyło w złożeniu wniosku.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Socjalnej z dnia 15 lipca 1991 r. w sprawie trybu postępowania przy przyznawaniu dodatku kombatanckiego oraz emerytur lub rent, w drodze wyjątku, kombatantom i innym osobom uprawnionym (Dz. U. Nr 65, poz. 283), które na podstawie art. 13 ustawy z dnia 14 marca 2014 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego oraz niektórych innych ustaw (Dz. U. poz. 496) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Socjalnej z dnia 15 lipca 1991 r. w sprawie trybu postępowania przy przyznawaniu dodatku kombatanckiego oraz emerytur lub rent, w drodze wyjątku, kombatantom i innym osobom uprawnionym (Dz. U. Nr 65, poz. 283), które na podstawie art. 13 ustawy z dnia 14 marca 2014 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego oraz niektórych innych ustaw (Dz. U. poz. 496) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

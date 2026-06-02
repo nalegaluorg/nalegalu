@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 5 października 2016 r. w sprawie krajowej infrastruktury zaufania
+# Rozporządzenie Ministra Cyfryzacjiz dnia 5 października 2016 r. w sprawie krajowej infrastruktury zaufania Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-05 |
 | Data wydania | 2016-10-06 |
-| Wejście w życie | 2016-10-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001632) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1632/text.pdf) |
 
@@ -107,6 +106,5 @@ Zapewnienie przez narodowe centrum certyfikacji usługi Online Certificate Statu
 § 9.
 Prowadzenie zaufanej listy odbywa się zgodnie z wymaganiami określonymi w decyzji wykonawczej Komisji (UE) 2015/1505 z dnia 8 września 2015 r. ustanawiającej specyfikacje techniczne i formaty dotyczące zaufanych list zgodnie z art. 22 ust. 5 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 26).
 § 10.
-Rozporządzenie wchodzi w życie z dniem 7 października 2016 r.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
+Rozporządzenie wchodzi w życie z dniem 7 października 2016 r. 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
 

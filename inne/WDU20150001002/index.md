@@ -34,14 +34,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 14 marca 2008 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy technicznej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2013 r. poz. 1237), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 8 maja 2014 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy technicznej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 661).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 maja 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy technicznej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 661), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 maja 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy technicznej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 661), które stanowią: „
 § 2.
 Do postępowań w sprawach przyznawania i wypłaty pomocy technicznej wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 10 lit. a, który wchodzi w życie z dniem 1 stycznia 2015 r.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 marca 2008 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy technicznej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 10 lit. a, który wchodzi w życie z dniem 1 stycznia 2015 r. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 marca 2008 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy technicznej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1261).
 Na podstawie art. 29 ust. 1 pkt 3 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2013 r. poz. 173 oraz z 2015 r. poz. 349) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb przyznawania oraz wypłaty pomocy technicznej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007 -2013, zwanego dalej „Programem”, w tym:
@@ -52,7 +50,7 @@ szczegółowe wymagania, jakim powinny odpowiadać wnioski o przyznanie pomocy t
 3)
 szczegółowe wymagania, jakim powinna odpowiadać umowa, na podstawie której jest przyznawana pomoc techniczna, zwana dalej „umową”;
 4)
-kategorie siły wyższej i wyjątkowe okoliczności, inne niż wymienione w przepisach rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 368 z 23.12.2006, str. 15, z późn. zm.), zwanego dalej „ rozporządzeniem nr 1974/2006 ”, w przypadku wystąpienia których nie jest wymagany zwrot pomocy technicznej.
+kategorie siły wyższej i wyjątkowe okoliczności, inne niż wymienione w przepisach rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 368 z 23.12.2006, str. 15, z późn. zm.)Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1); rozporządzenie stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.) przed dniem 1 stycznia 2014 r., zwanego dalej „ rozporządzeniem nr 1974/2006 ”, w przypadku wystąpienia których nie jest wymagany zwrot pomocy technicznej.
 § 2.
 1.
 Pomoc techniczną przyznaje się:
@@ -63,7 +61,7 @@ na operację:
 a)
 spełniającą wymagania określone w Programie oraz zapewniającą osiągnięcie celów pomocy technicznej,
 b)
-zgodną z priorytetami pomocy technicznej określonymi przez komitet monitorujący, o którym mowa w art. 77 rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.), zwanego dalej „ rozporządzeniem nr 1698/2005 ”,
+zgodną z priorytetami pomocy technicznej określonymi przez komitet monitorujący, o którym mowa w art. 77 rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.)Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r., zwanego dalej „ rozporządzeniem nr 1698/2005 ”,
 c)
 mającą pozytywny wpływ na stan wdrożenia Programu lub działań dotyczących poprzedniego lub następnego okresu programowania;
 3)
@@ -74,31 +72,29 @@ mającą pozytywny wpływ na stan wdrożenia Programu lub działań dotyczących
 1.
 Pomoc techniczną przyznaje się w formie refundacji, która wynosi do 100% kosztów:
 1)
-związanych z realizacją zadań określonych w art.66 ust. 2 i 3 rozporządzenia nr 1698/2005 ,
+związanych z realizacją zadań określonych w art.66 ust. 2 i 3 rozporządzenia nr 1698/2005 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r.,
 2)
 określonych w załączniku do rozporządzenia,
 3)
-poniesionych od dnia 1 stycznia 2007 r.
-zwanych dalej „kosztami kwalifikowalnymi”.
-2.
+poniesionych od dnia 1 stycznia 2007 r. – zwanych dalej „kosztami kwalifikowalnymi”.
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 maja 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy technicznej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 661), które weszło w życie z dniem 6 czerwca 2014 r..
 W przypadku przyznania pomocy technicznej do kosztów kwalifikowalnych zalicza się również koszty poniesione przed dniem zawarcia umowy, lecz nie wcześniej niż od dnia określonego w ust. 1 pkt 3.
 3.
 W przypadku gdy zdarzenie powodujące poniesienie kosztów kwalifikowalnych:
 1)
 nie zostało uwzględnione w oddzielnym systemie rachunkowości albo
 2)
-do jego identyfikacji nie wykorzystano odpowiedniego kodu rachunkowego
-o których mowa w art.75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005 , koszty te podlegają refundacji w wysokości określonej w ust. 1 pomniejszonej o 10%.
+do jego identyfikacji nie wykorzystano odpowiedniego kodu rachunkowego – o których mowa w art.75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r., koszty te podlegają refundacji w wysokości określonej w ust. 1 pomniejszonej o 10%.
 4.
-Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego, o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005 , odbywa się w ramach prowadzonych ksiąg rachunkowych albo przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu opracowanym i udostępnionym przez Agencję Restrukturyzacji i Modernizacji Rolnictwa, zwaną dalej „Agencją”, gdy na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych.
+Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego, o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r., odbywa się w ramach prowadzonych ksiąg rachunkowych albo przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu opracowanym i udostępnionym przez Agencję Restrukturyzacji i Modernizacji Rolnictwa, zwaną dalej „Agencją”, gdy na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych.
 § 4.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4..
 Wniosek o przyznanie pomocy technicznej składa się na formularzu opracowanym i udostępnionym przez Agencję bezpośrednio w Centrali Agencji albo przesyłką poleconą nadaną w polskiej placówce pocztowej operatora wyznaczonego, za potwierdzeniem odbioru.
 2.
 Agencja wydaje osobie składającej wniosek o przyznanie pomocy technicznej bezpośrednio w Centrali Agencji potwierdzenie jego złożenia, zawierające datę i godzinę jego wpływu, opatrzone pieczęcią Agencji i podpisane przez osobę przyjmującą wniosek.
 3.
 Jeżeli wnioskodawcą jest Agencja, wniosek o przyznanie pomocy technicznej jest przekazywany ministrowi właściwemu do spraw rozwoju wsi, zwanemu dalej „Ministrem”.
-§ 4a.
+§ 4aDodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4..
 Termin składania wniosków o przyznanie pomocy technicznej upływa z dniem 15 sierpnia 2014 r.
 § 5.
 1.
@@ -132,12 +128,12 @@ wersję elektroniczną tego wniosku sporządzoną w formacie umożliwiającym ed
 Jeżeli wniosek o przyznanie pomocy technicznej nie został wypełniony poprawnie lub nie dołączono do niego wymaganych dokumentów, Agencja wzywa wnioskodawcę, w formie pisemnej, do usunięcia braków w terminie 21 dni od dnia doręczenia wezwania.
 2.
 Przepisu ust. 1 nie stosuje się, jeżeli zachodzą niebudzące wątpliwości przesłanki nieprzyznania pomocy technicznej.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 4..
 Jeżeli wnioskodawca, pomimo wezwania, nie usunął braków w wyznaczonym terminie, Agencja wzywa ponownie wnioskodawcę, w formie pisemnej, do usunięcia braków w terminie 16 dni od dnia doręczenia ponownego wezwania.
 4.
 Jeżeli wnioskodawca pomimo ponownego wezwania nie usunął wszystkich braków w wyznaczonym terminie, Agencja nie przyznaje pomocy technicznej i informuje wnioskodawcę, w formie pisemnej, o odmowie jej przyznania z podaniem przyczyn odmowy.
 5.
-(uchylony).
+(uchylony).Przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 4.
 6.
 Złożony wniosek o przyznanie pomocy nie może być zmieniany przez wnioskodawcę, z wyłączeniem:
 1)
@@ -150,11 +146,11 @@ Pomoc techniczna przysługuje według kolejności złożenia wniosków o przyzna
 2.
 Wniosek o przyznanie pomocy technicznej rozpatruje się w terminie 70 dni od dnia jego złożenia.
 3.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4.
 § 8.
 1.
 W przypadku pozytywnego rozpatrzenia wniosku o przyznanie pomocy technicznej Agencja niezwłocznie przesyła wnioskodawcy zawiadomienie o wysokości przyznanej pomocy.
-1a.
+1aW brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 4..
 Agencja, w terminie nie dłuższym niż 21 dni od wysłania zawiadomienia, o którym mowa w ust. 1, przesyła wnioskodawcy projekt umowy i wzywa go, w formie pisemnej, do zawarcia umowy, wyznaczając jednocześnie termin zawarcia tej umowy, który nie może być dłuższy niż 16 dni od dnia doręczenia wezwania.
 2.
 Umowę zawiera się w Centrali Agencji.
@@ -166,10 +162,10 @@ W wezwaniu, o którym mowa w ust. 1a, wyznacza się również termin odesłania 
 Jeżeli w wyznaczonym terminie wnioskodawca nie zawarł umowy albo nie odesłał Agencji podpisanego projektu umowy, Agencja nie przyznaje pomocy technicznej i informuje wnioskodawcę, w formie pisemnej, o odmowie jej przyznania z podaniem przyczyn odmowy, chyba że wnioskodawca zawrze umowę albo odeśle Agencji podpisany projekt umowy w innym terminie, który:
 1)
 został uzgodniony z Agencją przed upływem wyznaczonego terminu;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 4.)
 nie może być dłuższy niż 14 dni od dnia, w którym upłynął uprzednio wyznaczony termin.
 § 8a.
-(uchylony).
+(uchylony).Przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 4.
 § 9.
 1.
 W razie uchybienia terminu wykonania przez wnioskodawcę określonych czynności w toku postępowania w sprawie przyznania pomocy technicznej Agencja, na prośbę wnioskodawcy, przywraca termin wykonania tych czynności, jeżeli wnioskodawca:
@@ -222,7 +218,7 @@ udokumentował zrealizowanie operacji lub jej etapu, w tym poniesienie kosztów 
 (uchylony).
 2.
 Płatność obejmuje koszty kwalifikowalne do wysokości określonej w umowie.
-§ 13a.
+§ 13aDodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 4..
 Termin składania wniosków o płatność upływa z dniem 15 sierpnia 2015 r.
 § 14.
 1.
@@ -246,7 +242,7 @@ Do potwierdzenia złożenia wniosku o płatność stosuje się odpowiednio przep
 § 15.
 1.
 Jeżeli wniosek o płatność nie został wypełniony poprawnie lub nie dołączono do niego wymaganych dokumentów, Agencja wzywa beneficjenta, w formie pisemnej, do usunięcia braków w terminie 21 dni od dnia doręczenia wezwania.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 4..
 Jeżeli beneficjent, pomimo wezwania, nie usunął braków w wyznaczonym terminie, Agencja wzywa ponownie beneficjenta, w formie pisemnej, do usunięcia braków w terminie 16 dni od dnia doręczenia ponownego wezwania.
 3.
 Jeżeli beneficjent pomimo ponownego wezwania nie usunął wszystkich braków, Agencja rozpatruje wniosek o płatność w takim zakresie, w jakim został on wypełniony, oraz na podstawie dołączonych i poprawnie sporządzonych dokumentów.
@@ -254,22 +250,22 @@ Jeżeli beneficjent pomimo ponownego wezwania nie usunął wszystkich braków, A
 (uchylony).
 § 16.
 1.
-Agencja przeprowadza kontrole administracyjne i kontrole na miejscu w sposób określony odpowiednio w art. 1–3 , art. 4 ust. 2–9, art. 5, art. 24 ust. 1, 3. 5 i 6. art. 25, art. 26 ust. 1–3. art. 27 oraz art. 30 rozporządzenia Komisji (UE) nr 65/2011 z dnia 27 stycznia 2011 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1698/2005 w odniesieniu do wprowadzenia procedur kontroli oraz do zasady wzajemnej zgodności w zakresie środków wsparcia rozwoju obszarów wiejskich (Dz. Urz. UE L 25 z 28.01.2011, str. 8, z późn. zm.).
+Agencja przeprowadza kontrole administracyjne i kontrole na miejscu w sposób określony odpowiednio w art. 1–3 , art. 4 ust. 2–9, art. 5, art. 24 ust. 1, 3. 5 i 6. art. 25, art. 26 ust. 1–3. art. 27 oraz art. 30 rozporządzenia Komisji (UE) nr 65/2011 z dnia 27 stycznia 2011 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1698/2005 w odniesieniu do wprowadzenia procedur kontroli oraz do zasady wzajemnej zgodności w zakresie środków wsparcia rozwoju obszarów wiejskich (Dz. Urz. UE L 25 z 28.01.2011, str. 8, z późn. zm.)Utraciło moc z dniem 1 stycznia 2015 r. na podstawie art. 43 rozporządzenia delegowanego Komisji (UE) nr 640/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli oraz warunków odmowy lub wycofania płatności oraz do kar administracyjnych mających zastosowanie do płatności bezpośrednich, wsparcia rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 181 z 20.06.2014, str. 48); rozporządzenie stosuje się nadal w stosunku do wniosków o płatności bezpośrednie złożonych w odniesieniu do okresów premiowych rozpoczynających się przed dniem 1 stycznia 2015 r., wniosków o płatność złożonych w odniesieniu do roku 2014 oraz systemu kontroli i kar administracyjnych w odniesieniu do obowiązków rolników w zakresie zasady wzajemnej zgodności zgodnie z art. 85t i 103z rozporządzenia Rady (WE) nr 1234/2007 z dnia 22 października 2007 r. ustanawiającego wspólną organizację rynków rolnych oraz przepisy szczegółowe dotyczące niektórych produktów rolnych („rozporządzenie o jednolitej wspólnej organizacji rynku”) (Dz. Urz. UE L 299 z 16.11.2007, str. 1, z późn. zm.)..
 2.
 Do przeprowadzania kontroli administracyjnych stosuje się także odpowiednio przepisy art. 24 ust. 2 rozporządzenia wymienionego w ust. 1, z tym że weryfikacja zgodności operacji z przepisami dotyczącymi zamówień publicznych jest prowadzona podczas kontroli na miejscu.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 10 lit. a rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r..
 Agencja dokonuje wypłaty pomocy technicznej po pozytywnym rozpatrzeniu wniosku o płatność w terminie 3 miesięcy od dnia złożenia tego wniosku, lecz nie później niż do dnia 31 grudnia 2015 r.
-3a.
+3aDodany przez § 1 pkt 10 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 W przypadku wniosków złożonych po dniu 31 maja 2015 r. Agencja dokonuje wypłaty pomocy technicznej po pozytywnym rozpatrzeniu wniosku w terminie do dnia 31 grudnia 2015 r.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 10 lit. c rozporządzenia, o którym mowa w odnośniku 4..
 Do trybu rozpatrywania wniosku o płatność stosuje się odpowiednio przepisy § 9 i 11.
 § 17.
 1.
 Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku postępowania w sprawie przyznania pomocy technicznej i wypłaty środków finansowych z tytułu tej pomocy dokonuje się zgodnie z przepisami Kodeksu cywilnego dotyczącymi terminów.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 4..
 Termin uważa się za zachowany, jeżeli przed jego upływem nadano pismo w polskiej placówce pocztowej operatora wyznaczonego.
 § 18.
-Kategoriami siły wyższej i wyjątkowymi okolicznościami, w przypadku wystąpienia których nie jest wymagany zwrot pomocy technicznej, innymi niż wymienione w przepisach rozporządzenia nr 1974/2006  są:
+Kategoriami siły wyższej i wyjątkowymi okolicznościami, w przypadku wystąpienia których nie jest wymagany zwrot pomocy technicznej, innymi niż wymienione w przepisach rozporządzenia nr 1974/2006 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1); rozporządzenie stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.) przed dniem 1 stycznia 2014 r. są:
 1)
 katastrofa naturalna powodująca trwałe uszkodzenie nieruchomości lub obiektów będących przedmiotem operacji;
 2)
@@ -286,8 +282,7 @@ Agencja udostępni formularz wniosku o przyznanie pomocy technicznej, o którym 
 4.
 Po wykorzystaniu limitu określonego na pomoc techniczną w Programie, Prezes Agencji podaje do publicznej wiadomości, na stronie internetowej Agencji, informację o zamknięciu naboru wniosków.
 § 20.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1261). 2) Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1); rozporządzenie stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.) przed dniem 1 stycznia 2014 r. 3) Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r. 4) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 maja 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy technicznej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 661), które weszło w życie z dniem 6 czerwca 2014 r. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 6) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4. 7) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 4. 8) Przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 4. 9) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4. 10) W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 4. 11) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 4. 12) Przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 4. 13) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 4. 14) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 4. 15) Utraciło moc z dniem 1 stycznia 2015 r. na podstawie art. 43 rozporządzenia delegowanego Komisji (UE) nr 640/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli oraz warunków odmowy lub wycofania płatności oraz do kar administracyjnych mających zastosowanie do płatności bezpośrednich, wsparcia rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 181 z 20.06.2014, str. 48); rozporządzenie stosuje się nadal w stosunku do wniosków o płatności bezpośrednie złożonych w odniesieniu do okresów premiowych rozpoczynających się przed dniem 1 stycznia 2015 r., wniosków o płatność złożonych w odniesieniu do roku 2014 oraz systemu kontroli i kar administracyjnych w odniesieniu do obowiązków rolników w zakresie zasady wzajemnej zgodności zgodnie z art. 85t i 103z rozporządzenia Rady (WE) nr 1234/2007 z dnia 22 października 2007 r. ustanawiającego wspólną organizację rynków rolnych oraz przepisy szczegółowe dotyczące niektórych produktów rolnych („rozporządzenie o jednolitej wspólnej organizacji rynku”) (Dz. Urz. UE L 299 z 16.11.2007, str. 1, z późn. zm.). 16) W brzmieniu ustalonym przez § 1 pkt 10 lit. a rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r. 17) Dodany przez § 1 pkt 10 lit. b rozporządzenia, o którym mowa w odnośniku 4. 18) W brzmieniu ustalonym przez § 1 pkt 10 lit. c rozporządzenia, o którym mowa w odnośniku 4. 19) W brzmieniu ustalonym przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 4. 20) Rozporządzenie zostało ogłoszone w dniu 31 marca 2008 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 31 marca 2008 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1261). 2) Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1); rozporządzenie stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.) przed dniem 1 stycznia 2014 r. 3) Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r. 4) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 maja 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy technicznej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 661), które weszło w życie z dniem 6 czerwca 2014 r. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 6) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4. 7) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 4. 8) Przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 4. 9) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4. 10) W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 4. 11) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 4. 12) Przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 4. 13) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 4. 14) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 4. 15) Utraciło moc z dniem 1 stycznia 2015 r. na podstawie art. 43 rozporządzenia delegowanego Komisji (UE) nr 640/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli oraz warunków odmowy lub wycofania płatności oraz do kar administracyjnych mających zastosowanie do płatności bezpośrednich, wsparcia rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 181 z 20.06.2014, str. 48); rozporządzenie stosuje się nadal w stosunku do wniosków o płatności bezpośrednie złożonych w odniesieniu do okresów premiowych rozpoczynających się przed dniem 1 stycznia 2015 r., wniosków o płatność złożonych w odniesieniu do roku 2014 oraz systemu kontroli i kar administracyjnych w odniesieniu do obowiązków rolników w zakresie zasady wzajemnej zgodności zgodnie z art. 85t i 103z rozporządzenia Rady (WE) nr 1234/2007 z dnia 22 października 2007 r. ustanawiającego wspólną organizację rynków rolnych oraz przepisy szczegółowe dotyczące niektórych produktów rolnych („rozporządzenie o jednolitej wspólnej organizacji rynku”) (Dz. Urz. UE L 299 z 16.11.2007, str. 1, z późn. zm.). 16) W brzmieniu ustalonym przez § 1 pkt 10 lit. a rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r. 17) Dodany przez § 1 pkt 10 lit. b rozporządzenia, o którym mowa w odnośniku 4. 18) W brzmieniu ustalonym przez § 1 pkt 10 lit. c rozporządzenia, o którym mowa w odnośniku 4. 19) W brzmieniu ustalonym przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 4. 20) Rozporządzenie zostało ogłoszone w dniu 31 marca 2008 r.
 
 ## Załącznik nr 1 — – Koszty podlegające refundacji w ramach pomocy technicznej
 
@@ -339,8 +334,7 @@ najem i utrzymanie pomieszczeń dla osób biorących udział w przygotowaniu, za
 c)
 koszty eksploatacyjne związane z przygotowaniem, zarządzaniem, wdrażaniem, monitorowaniem, kontrolą i oceną Programu,
 d)
-koszty rozmów telefonicznych osób biorących udział w przygotowaniu, zarządzaniu, wdrażaniu, monitorowaniu, kontroli i ocenie Programu.
-Schemat II: Działania informacyjne i promocyjne:
+koszty rozmów telefonicznych osób biorących udział w przygotowaniu, zarządzaniu, wdrażaniu, monitorowaniu, kontroli i ocenie Programu. Schemat II: Działania informacyjne i promocyjne:
 1)
 organizacja i obsługa konferencji, spotkań informacyjno-promocyjnych, seminariów dla potencjalnych beneficjentów Programu, w tym najem sal, najem lub zakup sprzętu, wyposażenia i materiałów niezbędnych do realizacji operacji, dojazd, wyżywienie i zakwaterowanie, wynagrodzenie brutto wykładowców, tłumaczenia, opracowanie i dystrybucja materiałów szkoleniowych;
 2)
@@ -368,8 +362,7 @@ analiza i ocena realizacji działań informacyjno-promocyjnych;
 13)
 przygotowanie i przeprowadzenie postępowania o udzielenie zamówienia publicznego;
 14)
-inne koszty związane z działaniami informacyjnymi lub promocyjnymi.
-Schemat III: Stworzenie i utrzymanie krajowej sieci obszarów wiejskich (KSOW):
+inne koszty związane z działaniami informacyjnymi lub promocyjnymi. Schemat III: Stworzenie i utrzymanie krajowej sieci obszarów wiejskich (KSOW):
 1)
 stworzenie i utrzymanie struktury KSOW – koszty bieżące, w szczególności: koszty osobowe, zakup wyposażenia i materiałów, zakup sprzętu komputerowego i oprogramowania, organizacja i udział w spotkaniach dotyczących KSOW oraz Europejskiej Sieci na rzecz Rozwoju Obszarów Wiejskich, utworzenie i utrzymanie portalu internetowego;
 2)

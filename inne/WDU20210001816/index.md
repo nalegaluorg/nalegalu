@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 15 września 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych
+# Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 15 września 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -39,26 +39,19 @@ rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 27 m
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Finansów z dnia 14 lipca 2020 r. zmieniającego rozporządzenie w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych (Dz. U. poz. 1243), który stanowi:
-„
+§ 2 rozporządzenia Ministra Finansów z dnia 14 lipca 2020 r. zmieniającego rozporządzenie w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych (Dz. U. poz. 1243), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Finansów z dnia 17 września 2020 r. zmieniającego rozporządzenie w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych (Dz. U. poz. 1606), który stanowi:
-„
+§ 2 rozporządzenia Ministra Finansów z dnia 17 września 2020 r. zmieniającego rozporządzenie w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych (Dz. U. poz. 1606), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 3)
-§ 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 27 maja 2021 r. zmieniającego rozporządzenie w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych (Dz. U. poz. 975), który stanowi:
-„
+§ 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 27 maja 2021 r. zmieniającego rozporządzenie w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych (Dz. U. poz. 975), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
-Załącznik – Rozporządzenie Ministra Finansów z dnia 7 kwietnia 2020 r. w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych
-Na podstawie art. 15zzg ust. 1 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Załącznik – Rozporządzenie Ministra Finansów z dnia 7 kwietnia 2020 r. w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnychObecnie działem administracji rządowej – instytucje finansowe kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Na podstawie art. 15zzg ust. 1 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180, 694, 981, 1023, 1090, 1162, 1163, 1192, 1510, 1535 i 1777.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa inne terminy sporządzenia, rozpatrzenia, zatwierdzenia, ujawniania i przedstawiania sprawozdań, a także przekazania lub dostarczania danych, informacji, sprawozdań, raportów, wyników przeprowadzonej weryfikacji, zaliczek, rozpatrywania reklamacji oraz wykonywania innych obowiązków lub czynności, o których mowa w:
 1)
@@ -90,7 +83,7 @@ rozporządzeniu Ministra Finansów z dnia 23 kwietnia 2004 r. w sprawie sposobu,
 14)
 rozporządzeniu Ministra Finansów z dnia 22 maja 2013 r. w sprawie prospektu informacyjnego funduszu inwestycyjnego otwartego i specjalistycznego funduszu inwestycyjnego otwartego oraz wyliczania wskaźnika zysku do ryzyka tych funduszy (Dz. U. z 2018 r. poz. 2202);
 15)
-rozporządzeniu Prezesa Rady Ministrów z dnia 28 października 2014 r. w sprawie wpłat na pokrycie kosztów nadzoru nad instytucjami pieniądza elektronicznego, w zakresie działalności związanej z wydawaniem pieniądza elektronicznego, oraz opłat za niektóre czynności Komisji Nadzoru Finansowego (Dz. U. poz. 1523);
+rozporządzeniu Prezesa Rady Ministrów z dnia 28 października 2014 r. w sprawie wpłat na pokrycie kosztów nadzoru nad instytucjami pieniądza elektronicznego, w zakresie działalności związanej z wydawaniem pieniądza elektronicznego, oraz opłat za niektóre czynności Komisji Nadzoru Finansowego (Dz. U. poz. 1523)Rozporządzenie utraciło moc na podstawie § 13 rozporządzenia Prezesa Rady Ministrów z dnia 23 kwietnia 2020 r. w sprawie wpłat na pokrycie kosztów nadzoru nad instytucjami pieniądza elektronicznego, w zakresie działalności związanej z wydawaniem pieniądza elektronicznego, oraz opłat za niektóre czynności Komisji Nadzoru Finansowego (Dz. U. poz. 770), które weszło w życie z dniem 29 kwietnia 2020 r.;
 16)
 rozporządzeniu Ministra Finansów z dnia 29 kwietnia 2016 r. w sprawie dodatkowych sprawozdań finansowych i statystycznych zakładów ubezpieczeń i zakładów reasekuracji (Dz. U. z 2018 r. poz. 392 oraz z 2019 r. poz. 1187);
 17)
@@ -99,7 +92,7 @@ rozporządzeniu Ministra Rozwoju i Finansów z dnia 25 stycznia 2017 r. w sprawi
 rozporządzeniu Ministra Rozwoju i Finansów z dnia 8 maja 2017 r. w sprawie danych i informacji przekazywanych przez podmioty prowadzące depozyt papierów wartościowych, system rejestracji instrumentów finansowych niebędących papierami wartościowymi oraz system rozrachunku (Dz. U. poz. 948);
 19)
 rozporządzeniu Ministra Rozwoju i Finansów z dnia 28 czerwca 2017 r. w sprawie okresowych sprawozdań oraz bieżących informacji dotyczących działalności i sytuacji finansowej towarzystw funduszy inwestycyjnych i funduszy inwestycyjnych dostarczanych przez te podmioty Komisji Nadzoru Finansowego (Dz. U. poz. 1285);
-19a)
+19aDodany przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 14 lipca 2020 r. zmieniającego rozporządzenie w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych (Dz. U. poz. 1243), które weszło w życie z dniem 16 lipca 2020 r.)
 rozporządzeniu Ministra Rozwoju i Finansów z dnia 21 września 2017 r. w sprawie sposobu, szczegółowego zakresu i terminów przekazywania do Narodowego Banku Polskiego danych niezbędnych do ustalania polityki pieniężnej, okresowych ocen sytuacji pieniężnej państwa oraz analiz ryzyka systemowego (Dz. U. z 2020 r. poz. 229);
 20)
 rozporządzeniu Ministra Finansów z dnia 29 marca 2018 r. w sprawie informacji bieżących i okresowych przekazywanych przez emitentów papierów wartościowych oraz warunków uznawania za równoważne informacji wymaganych przepisami prawa państwa niebędącego państwem członkowskim (Dz. U. poz. 757);
@@ -109,11 +102,11 @@ rozporządzeniu Ministra Finansów z dnia 6 lutego 2019 r. w sprawie sprawozdani
 rozporządzeniu Ministra Finansów z dnia 22 lutego 2019 r. w sprawie zakresu, trybu i formy oraz terminów przekazywania Komisji Nadzoru Finansowego informacji przez firmy inwestycyjne, banki, o których mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, i banki powiernicze (Dz. U. poz. 531);
 23)
 rozporządzeniu Ministra Finansów z dnia 9 lipca 2019 r. w sprawie szczegółowego zakresu, trybu i terminów przekazywania Bankowemu Funduszowi Gwarancyjnemu informacji innych niż przekazywane do Narodowego Banku Polskiego i do Komisji Nadzoru Finansowego, niezbędnych do wykonywania zadań Bankowego Funduszu Gwarancyjnego (Dz. U. poz. 1299);
-23a)
+23aDodany przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 17 września 2020 r. zmieniającego rozporządzenie w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych (Dz. U. poz. 1606), które weszło w życie z dniem 18 września 2020 r.)
 rozporządzeniu Ministra Finansów z dnia 17 grudnia 2019 r. w sprawie opłat na pokrycie kosztów nadzoru nad rynkiem kapitałowym (Dz. U. poz. 2486);
 24)
-rozporządzeniu Ministra Finansów z dnia 19 marca 2020 r. w sprawie szczególnych zasad rachunkowości oraz sprawozdań z działalności Ubezpieczeniowego Funduszu Gwarancyjnego (Dz. U. poz. 541);
-25)
+rozporządzeniu Ministra Finansów z dnia 19 marca 2020 r. w sprawie szczególnych zasad rachunkowości oraz sprawozdań z działalności Ubezpieczeniowego Funduszu Gwarancyjnego (Dz. U. poz. 541)Rozporządzenie utraciło moc na podstawie art. 8 ustawy z dnia 17 września 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 1639), która weszła w życie z dniem 1 października 2020 r.;
+25Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 5.)
 rozporządzeniu Prezesa Rady Ministrów z dnia 23 kwietnia 2020 r. w sprawie wpłat na pokrycie kosztów nadzoru nad instytucjami płatniczymi oraz opłat za niektóre czynności Komisji Nadzoru Finansowego (Dz. U. poz. 767).
 § 2.
 Terminy określone w art. 119 ust. 1 i 2 oraz art. 140 ust. 1 i 2 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych w zakresie sprawozdań rocznych z działalności Ubezpieczeniowego Funduszu Gwarancyjnego oraz Polskiego Biura Ubezpieczycieli Komunikacyjnych za rok 2019 r. przedłuża się o 2 miesiące.
@@ -152,8 +145,7 @@ zawartości przekazywanych informacji (S.01.01), informacji podstawowych – inf
 b)
 szczegółowego wykazu aktywów (S.06.02), przedsiębiorstw zbiorowego inwestowania – metody opartej na ocenie ze względu na pierwotne ryzyko (S.06.03), rezerw techniczno-ubezpieczeniowych dla ubezpieczeń na życie i ubezpieczeń zdrowotnych o charakterze ubezpieczeń na życie (S.12.01) i rezerw techniczno-ubezpieczeniowych dla ubezpieczeń innych niż ubezpieczenia na życie (S.17.01), które nie zostały przekazane w ramach formularzy sprawozdawczych zawierających dane ilościowe za IV kwartał 2019 r. z uwagi na zastosowane zwolnienia,
 2)
-w zakresie sprawozdania o wypłacalności i kondycji finansowej odnośnie do formularzy dotyczących bilansu (S.02.01), wpływu środków dotyczących gwarancji długoterminowych (S.22.01), środków własnych (S.23.01) i wyliczenia kapitałowego wymogu wypłacalności (S.25.01)
-ten termin przedłuża się o 2 tygodnie.
+w zakresie sprawozdania o wypłacalności i kondycji finansowej odnośnie do formularzy dotyczących bilansu (S.02.01), wpływu środków dotyczących gwarancji długoterminowych (S.22.01), środków własnych (S.23.01) i wyliczenia kapitałowego wymogu wypłacalności (S.25.01) – ten termin przedłuża się o 2 tygodnie.
 4.
 Termin określony w art. 335 ust. 8 ustawy, o której mowa w ust. 1, w zakresie danych i informacji za I kwartał 2020 r. przedłuża się o tydzień, z wyłączeniem formularza sprawozdawczego dotyczącego instrumentów pochodnych – transakcji (S.08.02), w przypadku którego ten termin przedłuża się o 4 tygodnie.
 5.
@@ -161,8 +153,7 @@ Termin określony w art. 410 ust. 5 ustawy, o której mowa w ust. 1, w zakresie 
 1)
 rocznych formularzy sprawozdawczych zawierających dane ilościowe dotyczących zawartości przekazywanych informacji (S.01.01), informacji podstawowych – informacji ogólnych (S.01.02), bilansu (S.02.01), wpływu środków dotyczących gwarancji długoterminowych (S.22.01), środków własnych (S.23.01), wyliczenia kapitałowego wymogu wypłacalności (S.25.01 – S.25.03), wykazu podmiotów objętych zakresem nadzoru nad grupą (S.32.01),
 2)
-sprawozdania o wypłacalności i kondycji finansowej odnośnie do formularzy dotyczących bilansu (S.02.01), wpływu środków dotyczących gwarancji długoterminowych (S.22.01), środków własnych (S.23.01) i wyliczenia kapitałowego wymogu wypłacalności (S.25.01)
-ten termin przedłuża się o 2 tygodnie.
+sprawozdania o wypłacalności i kondycji finansowej odnośnie do formularzy dotyczących bilansu (S.02.01), wpływu środków dotyczących gwarancji długoterminowych (S.22.01), środków własnych (S.23.01) i wyliczenia kapitałowego wymogu wypłacalności (S.25.01) – ten termin przedłuża się o 2 tygodnie.
 6.
 Termin określony w art. 410 ust. 6 ustawy, o której mowa w ust. 1, w zakresie informacji za I kwartał 2020 r. przedłuża się o tydzień, z wyłączeniem formularza sprawozdawczego dotyczącego instrumentów pochodnych – transakcji (S.08.02), w przypadku którego ten termin przedłuża się o 4 tygodnie.
 7.
@@ -189,7 +180,7 @@ Termin określony w art. 313 ust. 3 ustawy, o której mowa w ust. 1, przedłuża
 Termin określony w art. 313 ust. 4 ustawy, o której mowa w ust. 1, przedłuża się do dnia 30 września 2020 r.
 § 12.
 Termin określony w art. 52 ust. 2 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych w zakresie kwartalnej informacji za I kwartał 2020 r. przedłuża się o 2 miesiące.
-§ 12a.
+§ 12aDodany przez § 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 27 maja 2021 r. zmieniającego rozporządzenie w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych (Dz. U. poz. 975), które weszło w życie z dniem 29 maja 2021 r..
 Termin określony w art. 39 ust. 1 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217 oraz z 2020 r. poz. 288 i 695), w zakresie dostosowania prowadzonej przez towarzystwo funduszy inwestycyjnych działalności do przepisu art. 42b ust. 1 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, przedłuża się do dnia 30 września 2021 r.
 § 13.
 Termin określony w § 3 rozporządzenia Ministra Finansów z dnia 28 listopada 2003 r. w sprawie sprawozdania z działalności Polskiego Biura Ubezpieczycieli Komunikacyjnych za rok 2019 r. przedłuża się do dnia 15 września 2020 r.
@@ -198,7 +189,7 @@ Termin określony w § 8 rozporządzenia Ministra Finansów z dnia 23 kwietnia 2
 § 15.
 Termin określony w § 22 ust. 1 rozporządzenia Ministra Finansów z dnia 22 maja 2013 r. w sprawie prospektu informacyjnego funduszu inwestycyjnego otwartego i specjalistycznego funduszu inwestycyjnego otwartego oraz wyliczania wskaźnika zysku do ryzyka tych funduszy w zakresie sporządzenia w 2020 r. tekstu jednolitego prospektu przedłuża się o 2 miesiące.
 § 16.
-Terminy wpłat zaliczek określone w § 3 ust. 2 oraz § 4 ust. 1 rozporządzenia Prezesa Rady Ministrów z dnia 28 października 2014 r. w sprawie wpłat na pokrycie kosztów nadzoru nad instytucjami pieniądza elektronicznego, w zakresie działalności związanej z wydawaniem pieniądza elektronicznego, oraz opłat za niektóre czynności Komisji Nadzoru Finansowegoprzypadające na miesiąc kwiecień 2020 r. przedłuża się do dnia 31 maja 2020 r.
+Terminy wpłat zaliczek określone w § 3 ust. 2 oraz § 4 ust. 1 rozporządzenia Prezesa Rady Ministrów z dnia 28 października 2014 r. w sprawie wpłat na pokrycie kosztów nadzoru nad instytucjami pieniądza elektronicznego, w zakresie działalności związanej z wydawaniem pieniądza elektronicznego, oraz opłat za niektóre czynności Komisji Nadzoru FinansowegoRozporządzenie utraciło moc na podstawie § 13 rozporządzenia Prezesa Rady Ministrów z dnia 23 kwietnia 2020 r. w sprawie wpłat na pokrycie kosztów nadzoru nad instytucjami pieniądza elektronicznego, w zakresie działalności związanej z wydawaniem pieniądza elektronicznego, oraz opłat za niektóre czynności Komisji Nadzoru Finansowego (Dz. U. poz. 770), które weszło w życie z dniem 29 kwietnia 2020 r.przypadające na miesiąc kwiecień 2020 r. przedłuża się do dnia 31 maja 2020 r.
 § 17.
 1.
 Terminy określone w § 31 ust. 2 i § 32 ust. 2 rozporządzenia Ministra Finansów z dnia 29 kwietnia 2016 r. w sprawie dodatkowych sprawozdań finansowych i statystycznych zakładów ubezpieczeń i zakładów reasekuracji w zakresie sprawozdań za I kwartał 2020 r. przedłuża się o 7 dni kalendarzowych.
@@ -210,7 +201,7 @@ Terminy określone w § 12 ust. 5 pkt 2–4 statutu Bankowego Funduszu Gwarancyj
 Terminy określone w § 2 ust. 3, § 3 ust. 4 pkt 1 oraz § 4 ust. 4 pkt 1 i pkt 2 lit. b rozporządzenia Ministra Rozwoju i Finansów z dnia 8 maja 2017 r. w sprawie danych i informacji przekazywanych przez podmioty prowadzące depozyt papierów wartościowych, system rejestracji instrumentów finansowych niebędących papierami wartościowymi oraz system rozrachunku, w zakresie danych przekazywanych za I kwartał 2020 r. przedłuża się do dnia 31 maja 2020 r.
 § 20.
 Termin określony w § 20 ust. 8 rozporządzenia Ministra Rozwoju i Finansów z dnia 28 czerwca 2017 r. w sprawie okresowych sprawozdań oraz bieżących informacji dotyczących działalności i sytuacji finansowej towarzystw funduszy inwestycyjnych i funduszy inwestycyjnych dostarczanych przez te podmioty Komisji Nadzoru Finansowego, w zakresie rocznego sprawozdania finansowego funduszu oraz rocznego połączonego sprawozdania finansowego funduszu z wydzielonymi subfunduszami, z dołączonymi rocznymi jednostkowymi sprawozdaniami finansowymi subfunduszy oraz z oświadczeniami depozytariusza i sprawozdaniami z badania, za rok obrotowy kończący się po dniu 30 grudnia 2019 r., jednak nie później niż w dniu 30 kwietnia 2020 r., przedłuża się o 2 miesiące.
-§ 20a.
+§ 20aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4..
 Termin określony w § 29 ust. 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 21 września 2017 r. w sprawie sposobu, szczegółowego zakresu i terminów przekazywania do Narodowego Banku Polskiego danych niezbędnych do ustalania polityki pieniężnej, okresowych ocen sytuacji pieniężnej państwa oraz analiz ryzyka systemowego w zakresie raportu sprawozdawczego zawierającego dane zagregowane, o których mowa w § 29 ust. 1 tego rozporządzenia, za rok 2019, przedłuża się do dnia 30 września 2020 r.
 § 21.
 1.
@@ -243,13 +234,12 @@ Terminy określone w § 12 pkt 1 lit. b i d oraz § 19 pkt 1 lit. b i d rozporz�
 Terminy określone w § 12 pkt 2 i 3 oraz § 19 pkt 2 i 3 rozporządzenia, o którym mowa w ust. 1, wynoszą 45 dni od dnia zatwierdzenia rocznych sprawozdań finansowych za rok obrotowy 2019 r. przez walne zgromadzenia i upływają nie później niż w dniu 30 września 2020 r.
 7.
 Terminy określone w § 24 i § 26 rozporządzenia, o którym mowa w ust. 1, na przekazanie informacji Bankowemu Funduszowi Gwarancyjnemu, do dnia 30 września 2020 r., wynoszą 10 dni roboczych.
-§ 24a.
+§ 24aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5..
 Termin określony w § 22 ust. 1 rozporządzenia Ministra Finansów z dnia 17 grudnia 2019 r. w sprawie opłat na pokrycie kosztów nadzoru nad rynkiem kapitałowym, w zakresie opłaty rocznej, należnej za rok 2020, przedłuża się do dnia 30 listopada 2020 r.
 § 25.
-Termin określony w § 33 ust. 2 rozporządzenia Ministra Finansów z dnia 19 marca 2020 r. w sprawie szczególnych zasad rachunkowości oraz sprawozdań z działalności Ubezpieczeniowego Funduszu Gwarancyjnego, w zakresie sprawozdania z działalności Ubezpieczeniowego Funduszu Gwarancyjnego przekazywanego za I kwartał 2020 r. przedłuża się do dnia 31 lipca 2020 r.
-§ 25a.
+Termin określony w § 33 ust. 2 rozporządzenia Ministra Finansów z dnia 19 marca 2020 r. w sprawie szczególnych zasad rachunkowości oraz sprawozdań z działalności Ubezpieczeniowego Funduszu GwarancyjnegoRozporządzenie utraciło moc na podstawie art. 8 ustawy z dnia 17 września 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 1639), która weszła w życie z dniem 1 października 2020 r., w zakresie sprawozdania z działalności Ubezpieczeniowego Funduszu Gwarancyjnego przekazywanego za I kwartał 2020 r. przedłuża się do dnia 31 lipca 2020 r.
+§ 25aDodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 5..
 Należną od krajowej instytucji płatniczej wpłatę na pokrycie kosztów nadzoru nad instytucjami płatniczymi, o której mowa w rozporządzeniu Prezesa Rady Ministrów z dnia 23 kwietnia 2020 r. w sprawie wpłat na pokrycie kosztów nadzoru nad instytucjami płatniczymi oraz opłat za niektóre czynności Komisji Nadzoru Finansowego, za rok 2019 wnosi się do dnia 30 listopada 2020 r.
 § 26.
-Rozporządzenie wchodzi w życie z dniem 7 kwietnia 2020 r.
-1) Obecnie działem administracji rządowej – instytucje finansowe kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180, 694, 981, 1023, 1090, 1162, 1163, 1192, 1510, 1535 i 1777. 3) Rozporządzenie utraciło moc na podstawie § 13 rozporządzenia Prezesa Rady Ministrów z dnia 23 kwietnia 2020 r. w sprawie wpłat na pokrycie kosztów nadzoru nad instytucjami pieniądza elektronicznego, w zakresie działalności związanej z wydawaniem pieniądza elektronicznego, oraz opłat za niektóre czynności Komisji Nadzoru Finansowego (Dz. U. poz. 770), które weszło w życie z dniem 29 kwietnia 2020 r. 4) Dodany przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 14 lipca 2020 r. zmieniającego rozporządzenie w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych (Dz. U. poz. 1243), które weszło w życie z dniem 16 lipca 2020 r. 5) Dodany przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 17 września 2020 r. zmieniającego rozporządzenie w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych (Dz. U. poz. 1606), które weszło w życie z dniem 18 września 2020 r. 6) Rozporządzenie utraciło moc na podstawie art. 8 ustawy z dnia 17 września 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 1639), która weszła w życie z dniem 1 października 2020 r. 7) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 5. 8) Dodany przez § 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 27 maja 2021 r. zmieniającego rozporządzenie w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych (Dz. U. poz. 975), które weszło w życie z dniem 29 maja 2021 r. 9) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 10) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5. 11) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 5.
+Rozporządzenie wchodzi w życie z dniem 7 kwietnia 2020 r. 1) Obecnie działem administracji rządowej – instytucje finansowe kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180, 694, 981, 1023, 1090, 1162, 1163, 1192, 1510, 1535 i 1777. 3) Rozporządzenie utraciło moc na podstawie § 13 rozporządzenia Prezesa Rady Ministrów z dnia 23 kwietnia 2020 r. w sprawie wpłat na pokrycie kosztów nadzoru nad instytucjami pieniądza elektronicznego, w zakresie działalności związanej z wydawaniem pieniądza elektronicznego, oraz opłat za niektóre czynności Komisji Nadzoru Finansowego (Dz. U. poz. 770), które weszło w życie z dniem 29 kwietnia 2020 r. 4) Dodany przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 14 lipca 2020 r. zmieniającego rozporządzenie w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych (Dz. U. poz. 1243), które weszło w życie z dniem 16 lipca 2020 r. 5) Dodany przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 17 września 2020 r. zmieniającego rozporządzenie w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych (Dz. U. poz. 1606), które weszło w życie z dniem 18 września 2020 r. 6) Rozporządzenie utraciło moc na podstawie art. 8 ustawy z dnia 17 września 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 1639), która weszła w życie z dniem 1 października 2020 r. 7) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 5. 8) Dodany przez § 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 27 maja 2021 r. zmieniającego rozporządzenie w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych (Dz. U. poz. 975), które weszło w życie z dniem 29 maja 2021 r. 9) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 10) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5. 11) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 5.
 

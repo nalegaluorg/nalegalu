@@ -22,14 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-01-11 |
 | Data wydania | 2001-02-02 |
-| Wejście w życie | 2001-02-17 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010080064) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/64/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. Nr 137, poz. 887, Nr 162, poz. 1118 i 1126, z 1999 r. Nr 26, poz. 228, Nr 60, poz. 636, Nr 72, poz. 802, Nr 78, poz. 875i Nr 110, poz. 1256oraz z 2000 r. Nr 9, poz. 118, Nr 95, poz. 1041, Nr 104, poz. 1104i Nr 119, poz. 1249) wprowadza się następujące zmiany:
 
-- **1)** w art. 4: w pkt 2: – w lit. a) na końcu dodaje się wyrazy „w tym z tytułu przebywania na urlopie wychowawczym albo pobierania zasiłku macierzyńskiego, z wyłączeniem osób, którym zasiłek wychowawczy lub macierzyński wypłaca Zakład,” – w lit. c) na końcu dodaje się wyrazy „lub podlegają ubezpieczeniom społecznym z tytułu pobierania zasiłku macierzyńskiego, jeżeli zasiłek wypłaca ten podmiot,” – lit. m) otrzymuje brzmienie: „ m) Zakład – w stosunku do osób podlegających ubezpieczeniom społecznym z tytułu przebywania na urlopie wychowawczym pobierających zasiłek wychowawczy lub z tytułu pobierania zasiłku macierzyńskiego albo zasiłku w wysokości zasiłku macierzyńskiego, jeżeli zasiłki te wypłaca Zakład, ” – po lit. r) dodaje się lit. s) w brzmieniu: „ s) jednostka organizacyjna właściwa w sprawach zatrudnienia i przeciwdziałania bezrobociu – w stosunku do osób, których świadczenia pracownicze finansowane są ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych, jeżeli świadczenia te wypłacane są bezpośrednio przez tę jednostkę, ” w pkt 13 na końcu dodaje się przecinek oraz pkt 14–16 w brzmieniu: „
+- **1)** w art. 4: w pkt 2: – w lit. a) na końcu dodaje się wyrazy „w tym z tytułu przebywania na urlopie wychowawczym albo pobierania zasiłku macierzyńskiego, z wyłączeniem osób, którym zasiłek wychowawczy lub macierzyński wypłaca Zakład,” – w lit. c) na końcu dodaje się wyrazy „lub podlegają ubezpieczeniom społecznym z tytułu pobierania zasiłku macierzyńskiego, jeżeli zasiłek wypłaca ten podmiot,” lit. m) otrzymuje brzmienie: „ Zakład – w stosunku do osób podlegających ubezpieczeniom społecznym z tytułu przebywania na urlopie wychowawczym pobierających zasiłek wychowawczy lub z tytułu pobierania zasiłku macierzyńskiego albo zasiłku w wysokości zasiłku macierzyńskiego, jeżeli zasiłki te wypłaca Zakład, ” po lit. r) dodaje się lit. s) w brzmieniu: „ jednostka organizacyjna właściwa w sprawach zatrudnienia i przeciwdziałania bezrobociu – w stosunku do osób, których świadczenia pracownicze finansowane są ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych, jeżeli świadczenia te wypłacane są bezpośrednio przez tę jednostkę, ” w pkt 13 na końcu dodaje się przecinek oraz pkt 14–16 w brzmieniu: „
     - **a)**
+    - **m)**
+    - **s)**
     - **b)**
 
 - **14)** numer NUSP – numer ubezpieczenia społecznego płatnika nadany przez Zakład,

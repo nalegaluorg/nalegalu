@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 21 grudnia 2018 r. w sprawie dokumentacji cen transferowych w zakresie podatku dochodowego od osób prawnych
+# Rozporządzenie Ministra Finansówz dnia 21 grudnia 2018 r. w sprawie dokumentacji cen transferowych w zakresie podatku dochodowego od osób prawnych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-21 |
 | Data wydania | 2018-12-29 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002479) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2479/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 11q ust. 4 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2018 r. poz. 1036, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 11q ust. 4 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2018 r. poz. 1036, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215, 2243, 2244, 2245 i 2429.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy zakres elementów lokalnej dokumentacji cen transferowych i grupowej dokumentacji cen transferowych.
 § 2.
@@ -138,6 +137,5 @@ roczne skonsolidowane sprawozdanie grupy kapitałowej,
 b)
 wykaz i zwięzły opis zawartych przez podmioty powiązane grupy kapitałowej jednostronnych uprzednich porozumień cenowych lub innych interpretacji podatkowych dotyczących przypisania dochodu pomiędzy państwami.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215, 2243, 2244, 2245 i 2429. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 12 września 2017 r. w sprawie informacji zawartych w dokumentacji podatkowej w zakresie podatku dochodowego od osób prawnych (Dz. U. poz. 1753), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 23 października 2018 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy – Ordynacja podatkowa oraz niektórych innych ustaw (Dz. U. poz. 2193).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 12 września 2017 r. w sprawie informacji zawartych w dokumentacji podatkowej w zakresie podatku dochodowego od osób prawnych (Dz. U. poz. 1753), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 23 października 2018 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy – Ordynacja podatkowa oraz niektórych innych ustaw (Dz. U. poz. 2193). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215, 2243, 2244, 2245 i 2429. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 12 września 2017 r. w sprawie informacji zawartych w dokumentacji podatkowej w zakresie podatku dochodowego od osób prawnych (Dz. U. poz. 1753), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 23 października 2018 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy – Ordynacja podatkowa oraz niektórych innych ustaw (Dz. U. poz. 2193).
 

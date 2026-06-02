@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-07-05 |
 | Data wydania | 2007-08-14 |
-| Wejście w życie | 2007-09-14 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071471029) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1029/text.pdf) |
 
@@ -36,7 +35,7 @@ source: "eli-html"
 
 2. Minister właściwy do spraw Skarbu Państwa w przypadku dokonania komercjalizacji przedsiębiorstwa państwowego Zakład Narodowy imienia Ossolińskich – Wydawnictwo przekaże nieodpłatnie Zakładowi wszystkie akcje lub udziały jakie Skarb Państwa obejmie w spółce powstałej w wyniku komercjalizacji tego przedsiębiorstwa państwowego.
 
-3. W spółce, o której mowa w ust. 2, uprawnieni pracownicy, w rozumieniu ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.), zachowują prawo do nieodpłatnego nabycia akcji lub udziałów. Przepisy działu IV rozdziału 2 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji stosuje się odpowiednio, a kompetencje przypisane w tym zakresie ministrowi właściwemu do spraw Skarbu Państwa należą do Dyrektora Zakładu. ” ;
+3. W spółce, o której mowa w ust. 2, uprawnieni pracownicy, w rozumieniu ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722, z 2005 r. Nr 167, poz. 1400, Nr 169, poz. 1418, Nr 178, poz. 1479 i Nr 184, poz. 1539 oraz z 2006 r. Nr 107, poz. 721 i Nr 208, poz. 1532.), zachowują prawo do nieodpłatnego nabycia akcji lub udziałów. Przepisy działu IV rozdziału 2 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji stosuje się odpowiednio, a kompetencje przypisane w tym zakresie ministrowi właściwemu do spraw Skarbu Państwa należą do Dyrektora Zakładu. ” ;
 
 - **2)** w art. 11: w ust. 1 dodaje się pkt 4 w brzmieniu: „
     - **a)**
@@ -50,5 +49,5 @@ source: "eli-html"
 
 1. Prawo używania znaku historycznego, o którym mowa w art. 3, jako znaku instytucji służy Zakładowi oraz jako znaku historycznego i towarowego spółce, o której mowa w art. 6 ust. 2. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722, z 2005 r. Nr 167, poz. 1400, Nr 169, poz. 1418, Nr 178, poz. 1479 i Nr 184, poz. 1539 oraz z 2006 r. Nr 107, poz. 721 i Nr 208, poz. 1532.
 

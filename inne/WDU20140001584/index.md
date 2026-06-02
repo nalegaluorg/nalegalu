@@ -35,13 +35,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 26 lutego 2009 r. w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Poznań-Ławica (Dz. U. z 2013 r. poz. 1083), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów z dnia 15 października 2013 r. zmieniającym rozporządzenie w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Poznań-Ławica (Dz. U. poz. 1230).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 15 października 2013 r. zmieniającego rozporządzenie w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Poznań-Ławica (Dz. U. poz. 1230), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 15 października 2013 r. zmieniającego rozporządzenie w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Poznań-Ławica (Dz. U. poz. 1230), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 
-## Załącznik nr 1 — – Tekst jednolity rozporządzenia Ministra Finansów z dnia 26 lutego 2009 r. w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Poznań-Ławica
+## Załącznik nr 1 — – Tekst jednolity rozporządzenia Ministra Finansów z dnia 26 lutego 2009 r. w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Poznań-ŁawicaMinister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1256).
 
 Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2013 r. poz. 727 1149 oraz z 2014 r. poz. 768) zarządza się, co następuje:
 § 1.
@@ -52,10 +50,9 @@ Szczegółowy opis granic i obszar składu wolnocłowego określa załącznik do
 § 2.
 Zarządzającym składem wolnocłowym na terenie Portu Lotniczego Poznań-Ławica ustanawia się Port Lotniczy Poznań-Ławica Spółka z ograniczoną odpowiedzialnością z siedzibą w Poznaniu.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1256). 2) Rozporządzenie zostało ogłoszone w dniu 6 kwietnia 2009 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 6 kwietnia 2009 r.. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1256). 2) Rozporządzenie zostało ogłoszone w dniu 6 kwietnia 2009 r.
 
-## Załącznik nr 2 — – Szczegółowy opis granic i obszar składu wolnocłowego na terenie portu lotniczego Poznań-Ławica
+## Załącznik nr 2 — – Szczegółowy opis granic i obszar składu wolnocłowego na terenie portu lotniczego Poznań-ŁawicaW brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów z dnia 15 października 2013 r. zmieniającego rozporządzenie w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Poznań-Ławica (Dz. U. poz. 1230), które weszło w życie z dniem 6 listopada 2013 r.
 
 Skład wolnocłowy jest zlokalizowany w Terminalu Pasażerskim Portu Lotniczego Poznań-Ławica, w części dostępnej dla pasażerów po odprawie biletowo-bagażowej i kontroli bezpieczeństwa. Skład wolnocłowy stanowi strefę zamkniętą odcinkami ścian określonymi w poniższym opisie granicy składu wolnocłowego. Z uwagi na usytuowanie składu wolnocłowego wewnątrz budynku odgraniczenie składu wolnocłowego stanowią trwałe elementy budowlane. Opis przebiegu granic składu wolnocłowego jest przedstawiony na mapie w skali 1:500. Dokument zawierający opis przebiegu granic składu wolnocłowego wraz z mapą jest przechowywany u zarządzającego składem wolnocłowym oraz w postaci kopii we właściwej miejscowo izbie celnej nadzorującej skład wolnocłowy oraz w Ministerstwie Finansów. Granicę składu wolnocłowego stanowią następujące odcinki ścian:
 1)
@@ -93,6 +90,5 @@ dwa odcinki ściany o długości: 4,25 m z jednym otworem drzwiowym i 17,85 m od
 17)
 dwa odcinki ściany o długości: 6 m i 10 m od strony pomieszczeń służbowych;
 18)
-ściana o długości 26,87 m od strony korytarza.
-Obszar składu wolnocłowego wynosi 6297,85 m2.
+ściana o długości 26,87 m od strony korytarza. Obszar składu wolnocłowego wynosi 6297,85 m2. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów z dnia 15 października 2013 r. zmieniającego rozporządzenie w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Poznań-Ławica (Dz. U. poz. 1230), które weszło w życie z dniem 6 listopada 2013 r.
 

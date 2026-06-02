@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-07-18 |
 | Data wydania | 2002-09-06 |
-| Wejście w życie | 2002-09-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021431196) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1196/text.pdf) |
 
@@ -37,7 +36,7 @@ source: "eli-html"
 3. Przedsiębiorcy, o których mowa w ust. 1, nieposiadający zezwolenia na prowadzenie działalności w zakresie odzysku wydanego na podstawie ustawy o odpadach lub ustawy o utrzymaniu czystości i porządku w gminach, mogą prowadzić dotychczasową działalność w tym zakresie do czasu uzyskania zezwoleń:
 
 - **1)** na sprowadzanie odpadów z zagranicy oraz
-- **2)** na prowadzenie działalności w zakresie odzysku, wydanych na podstawie ustawy o odpadach lub ustawy o utrzymaniu czystości i porządku w gminach nie dłużej niż przez okres 3 miesięcy od dnia wejścia w życie niniejszej zmiany ustawy. ”
+- **2)** na prowadzenie działalności w zakresie odzysku, wydanych na podstawie ustawy o odpadach lub ustawy o utrzymaniu czystości i porządku w gminach – nie dłużej niż przez okres 3 miesięcy od dnia wejścia w życie niniejszej zmiany ustawy. ”
 
 **Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

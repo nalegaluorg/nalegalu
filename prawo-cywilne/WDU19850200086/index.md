@@ -22,9 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1985-04-18 |
 | Data wydania | 1985-05-04 |
-| Wejście w życie | 1985-07-01 |
 | Ostatnia zmiana | 2024-09-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19850200086) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1985/86/text.pdf) |
+
+Postępowanie w sprawach z zakresu prawa pracy i ubezpieczeń społecznych
+Przepisy ogólne
+Postępowanie w sprawach z zakresu prawa pracy
+Postępowanie w sprawach z zakresu ubezpieczeń społecznych
+Sprawy z zakresu przepisów o przedsiębiorstwach państwowych i o samorządzie załogi przedsiębiorstwa państwowego
 
 **Art. 1.** W Kodeksie postępowania cywilnego wprowadza się następujące zmiany:
 
@@ -94,9 +99,9 @@ source: "eli-html"
 
 - **19)** dział III tytułu VII księgi pierwszej części pierwszej otrzymuje brzmienie: „
 
-### Dział III Postępowanie w sprawach z zakresu prawa pracy i ubezpieczeń społecznych
+### Dział III
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 459.** Przepisy niniejszego rozdziału stosuje się w sprawach z zakresu prawa pracy, a także w sprawach z zakresu ubezpieczeń społecznych.
 
@@ -201,7 +206,7 @@ source: "eli-html"
 
 - **1)** oddziały Zakładu Ubezpieczeń Społecznych i Biuro Rent Zagranicznych tego Zakładu,
 - **2)** kolejowe jednostki organizacyjne,
-- **3)** wojskowe organy emerytalne oraz organy emerytalne resortów spraw wewnętrznych i sprawiedliwości, a także inne organy wojskowe i organy resortów spraw wewnętrznych i sprawiedliwości właściwe do wydawania decyzji w sprawach, o których mowa w § 2.
+- **3)** wojskowe organy emerytalne oraz organy emerytalne resortów spraw wewnętrznych i sprawiedliwości, a także inne organy wojskowe i organy resortów spraw wewnętrznych i sprawiedliwości – właściwe do wydawania decyzji w sprawach, o których mowa w § 2.
 
 § 5. Przez użyte w niniejszym dziale określenie
 
@@ -215,7 +220,7 @@ source: "eli-html"
     - **c)**
     - **d)**
 
-#### Rozdział 2 Postępowanie w sprawach z zakresu prawa pracy
+#### Rozdział 2
 
 **Art. 477.** W postępowaniu wszczętym z powództwa pracownika wezwania do udziału w sprawie, o którym mowa w art. 194 § 1 i 3, sąd może dokonać również z urzędu.
 
@@ -255,7 +260,7 @@ source: "eli-html"
 
 **Art. 4777.** Przepisów art. 464, 467, 468, 470–473 i 4773–4775 nie stosuje się w sprawach, w których pracownik jest stroną pozwaną.
 
-#### Rozdział 3 Postępowanie w sprawach z zakresu ubezpieczeń społecznych
+#### Rozdział 3
 
 **Art. 4778.**
 
@@ -319,7 +324,7 @@ source: "eli-html"
 - **26)** w art. 655 w § 1 wyrazy „właściwego organu administracji finansowej pierwszej instancji” zastępuje się wyrazami „właściwego urzędu skarbowego”;
 - **27)** w tytule II księgi drugiej części pierwszej po dziale IV dodaje się dział IVa w brzmieniu: „
 
-### Dział IVa Sprawy z zakresu przepisów o przedsiębiorstwach państwowych i o samorządzie załogi przedsiębiorstwa państwowego
+### Dział IVa
 
 **Art. 6911.**
 
@@ -375,8 +380,11 @@ source: "eli-html"
 § 1. Sąd rozpoznaje wniosek po wezwaniu i wysłuchaniu stron, jeżeli się stawią. ” ;
 
 - **35)** w art. 954 w pkt 2 wyrazy „wydziałowi finansowemu prezydium powiatowej (miejskiej, dzielnicowej) rady narodowej” zastępuje się wyrazami „terenowemu organowi administracji państwowej stopnia podstawowego i urzędowi skarbowemu”;
-- **36)** w art. 1025: w § 1: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) należności alimentacyjne; ” , – pkt 2 otrzymuje brzmienie: „ 2) należności za pracę oraz renty z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci, jak również koszty ostatniej choroby i zwykłego pogrzebu dłużnika; ” , w § 3 wyraz „czwartej” zastępuje się wyrazem „szóstej”, a wyraz „siódmej” zastępuje się wyrazem „ósmej”;
+- **36)** w art. 1025: w § 1: po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
+
+- **1a)** należności alimentacyjne; ” , pkt 2 otrzymuje brzmienie: „
+- **2)** należności za pracę oraz renty z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci, jak również koszty ostatniej choroby i zwykłego pogrzebu dłużnika; ” , w § 3 wyraz „czwartej” zastępuje się wyrazem „szóstej”, a wyraz „siódmej” zastępuje się wyrazem „ósmej”;
     - **b)**
 
 - **37)** w art. 1052 wyrazy „tysiąc pięćset złotych” zastępuje się wyrazami „sześć tysięcy złotych”, wyrazy „pięćdziesięciu tysięcy złotych” zastępuje się wyrazami „dwustu tysięcy złotych”;
@@ -397,7 +405,7 @@ source: "eli-html"
 - **3)** przeciwko Skarbowi Państwa o naprawienie szkody wyrządzonej przez funkcjonariuszy władzy i administracji państwowej przy wykonywaniu powierzonych im czynności,
 - **4)** o prawa majątkowe, w których właściwość sądu wojewódzkiego zależna jest od wartości przedmiotu sporu, mimo że wartość ta nie przewyższa 500 tysięcy złotych,
 - **5)** o rozstrzygnięcie sporu między radą pracowniczą a dyrektorem przedsiębiorstwa albo między tymi organami a organem założycielskim lub sprawującym nadzór nad przedsiębiorstwem,
-- **6)** o rozstrzygnięcie sporu między radą zrzeszenia przedsiębiorstw lub dyrektorem tego zrzeszenia a organem sprawującym nadzór nad zrzeszeniem podlegają rozpoznaniu przez ten sąd, jeżeli był on właściwy w chwili wniesienia sprawy.
+- **6)** o rozstrzygnięcie sporu między radą zrzeszenia przedsiębiorstw lub dyrektorem tego zrzeszenia a organem sprawującym nadzór nad zrzeszeniem – podlegają rozpoznaniu przez ten sąd, jeżeli był on właściwy w chwili wniesienia sprawy.
 
 § 2. Jednakże sprawy, w których wyroki sądów wojewódzkich zostaną w całości uchylone przez Sąd Najwyższy po dniu wejścia w życie niniejszej ustawy, będą przekazane właściwym sądom rejonowym.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 7 sierpnia 2019 r. rozporządzenie w sprawie badań lekarskich i psychologicznych osób występujących o wydanie pozwolenia na broń lub zgłaszających do rejestru broń pneumatyczną oraz posiadających pozwolenie na broń lub zarejestrowaną broń pneumatyczną
+# Rozporządzenie Ministra Zdrowiaz dnia 7 sierpnia 2019 r. rozporządzenie w sprawie badań lekarskich i psychologicznych osób występujących o wydanie pozwolenia na broń lub zgłaszających do rejestru broń pneumatyczną oraz posiadających pozwolenie na broń lub zarejestrowaną broń pneumatyczną Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-07 |
 | Data wydania | 2019-08-20 |
-| Wejście w życie | 2019-08-21 |
 | Ostatnia zmiana | 2024-06-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001562) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1562/text.pdf) |
 
@@ -120,37 +119,60 @@ Karty badania lekarskiego sporządzone przed dniem wejścia w życie niniejszego
 2.
 Orzeczenia lekarskie i psychologiczne wydane przed dniem wejścia w życie niniejszego rozporządzenia i zgodne z wymaganiami określonymi w rozporządzeniu Ministra Zdrowia z dnia 17 grudnia 2015 r. w sprawie badań lekarskich i psychologicznych osób występujących o wydanie pozwolenia na broń lub zgłaszających do rejestru broń pneumatyczną oraz posiadających pozwolenie na broń lub zarejestrowaną broń pneumatyczną uznaje się za wydane zgodnie z wymaganiami niniejszego rozporządzenia i mogą być wykorzystywane.
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 17 grudnia 2015 r. w sprawie badań lekarskich i psychologicznych osób występujących o wydanie pozwolenia na broń lub zgłaszających do rejestru broń pneumatyczną oraz posiadających pozwolenie na broń lub zarejestrowaną broń pneumatyczną (Dz. U. poz. 2210), które utraciło moc z dniem 1 lipca 2019 r. zgodnie z art. 51 ustawy z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym (Dz. U. poz. 2244).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 17 grudnia 2015 r. w sprawie badań lekarskich i psychologicznych osób występujących o wydanie pozwolenia na broń lub zgłaszających do rejestru broń pneumatyczną oraz posiadających pozwolenie na broń lub zarejestrowaną broń pneumatyczną (Dz. U. poz. 2210), które utraciło moc z dniem 1 lipca 2019 r. zgodnie z art. 51 ustawy z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym (Dz. U. poz. 2244). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 17 grudnia 2015 r. w sprawie badań lekarskich i psychologicznych osób występujących o wydanie pozwolenia na broń lub zgłaszających do rejestru broń pneumatyczną oraz posiadających pozwolenie na broń lub zarejestrowaną broń pneumatyczną (Dz. U. poz. 2210), które utraciło moc z dniem 1 lipca 2019 r. zgodnie z art. 51 ustawy z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym (Dz. U. poz. 2244).
 
 ## Załącznik nr 1 — – Sposób oceny stanu narządu wzroku
 
-Lp. Zakres oceny Opis oceny 1 Ostrość Oka lepiej widzącego – nie mniej niż 0,8Oka gorzej widzącego – nie mniej niż 0,5 2 Korekcja Bez ograniczeń: okularowa, soczewkami kontaktowymi, wewnątrzgałkowymi, pod warunkiem dobrej tolerancji i adaptacji do korekcji; dopuszczalna korekcja w granicach: ±8,0 D 3 Rozpoznawanie barwy Prawidłowe rozpoznawanie barwy czerwonej, zielonej i żółtej 4 Pole widzenia Prawidłowe (ocena za pomocą perymetru) 5 Widzenie obuoczne Prawidłowe 6 Widzenie zmierzchowe Prawidłowe
+Lp. Zakres oceny Opis oceny 1 Ostrość Oka lepiej widzącego – nie mniej niż 0,8
+Oka gorzej widzącego – nie mniej niż 0,5 2 Korekcja Bez ograniczeń: okularowa, soczewkami kontaktowymi, wewnątrzgałkowymi, pod warunkiem dobrej tolerancji i adaptacji do korekcji; dopuszczalna korekcja w granicach: ±8,0 D 3 Rozpoznawanie barwy Prawidłowe rozpoznawanie barwy czerwonej, zielonej i żółtej 4 Pole widzenia Prawidłowe (ocena za pomocą perymetru) 5 Widzenie obuoczne Prawidłowe 6 Widzenie zmierzchowe Prawidłowe
 
 ## Załącznik nr 2 — – Karta badania lekarskiego (wzór)
 
-...Nazwa (firma) i adres podmiotu, w którym przeprowadzane jest badanie lekarskie... KARTA BADANIA LEKARSKIEGO Zgodnie z art. 15f ust. 4 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2019 r. poz. 284 i 1214) wyniki badań specjalistycznych i pomocniczych oraz kopia orzeczenia lekarskiego stanowią załączniki do karty badania lekarskiego. Data badania dzień miesiąc rok
+...Nazwa (firma) i adres podmiotu, w którym przeprowadzane jest badanie lekarskie... KARTA BADANIA LEKARSKIEGO Zgodnie z art. 15f ust. 4 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2019 r. poz. 284 i 1214) wyniki badań specjalistycznych i pomocniczych oraz kopia orzeczenia lekarskiego stanowią załączniki do karty badania lekarskiego.
+Data badania dzień miesiąc rok
 I.
-DANE IDENTYFIKACYJNE OSOBY BADANEJ Imię i nazwisko Data urodzenia dzień miesiąc rok Numer PESEL(albo nazwa i numer dokumentu potwierdzającego tożsamość) Płeć M*) K*) Miejsce zamieszkania(kod pocztowy, miejscowość, ulica, numer domu, numer lokalu)
+DANE IDENTYFIKACYJNE OSOBY BADANEJ
+Imię i nazwisko Data urodzenia dzień miesiąc rok Numer PESEL
+(albo nazwa i numer dokumentu potwierdzającego tożsamość) Płeć M*) K*) Miejsce zamieszkania
+(kod pocztowy, miejscowość, ulica, numer domu, numer lokalu)
 II.
-OSOBA BADANA PODLEGA BADANIU LEKARSKIEMU Z TYTUŁU: *) 1) ubiegania się o pozwolenie na broń/ zgłoszenia do rejestru broni pneumatycznej 2) obowiązku przedstawienia właściwemu organowi Policji aktualnego orzeczenia lekarskiego na podstawie art. 15 ust. 4 ustawy z dnia 21 maja 1999 r. o broni i amunicji 3) zobowiązania przez właściwy organ Policji do poddania się badaniom lekarskim i przedstawienia wydanego orzeczenia na podstawie art. 15 ust. 5 ustawy z dnia 21 maja 1999 r. o broni i amunicji 4) wniesienia odwołania od orzeczenia lekarskiego w trybie, o którym mowa w art. 15h ustawy z dnia 21 maja 1999 r. o broni i amunicji
+OSOBA BADANA PODLEGA BADANIU LEKARSKIEMU Z TYTUŁU: *)
+1) ubiegania się o pozwolenie na broń/ zgłoszenia do rejestru broni pneumatycznej 2) obowiązku przedstawienia właściwemu organowi Policji aktualnego orzeczenia lekarskiego na podstawie art. 15 ust. 4 ustawy z dnia 21 maja 1999 r. o broni i amunicji 3) zobowiązania przez właściwy organ Policji do poddania się badaniom lekarskim i przedstawienia wydanego orzeczenia na podstawie art. 15 ust. 5 ustawy z dnia 21 maja 1999 r. o broni i amunicji 4) wniesienia odwołania od orzeczenia lekarskiego w trybie, o którym mowa w art. 15h ustawy z dnia 21 maja 1999 r. o broni i amunicji
 III.
 BADANIE OGÓLNE STANU ZDROWIA
 A.
-Badanie podmiotowe (wywiad lekarski) Lp. Zakres wywiadu **) TAK NIE Jeżeli TAK, to opisać 1 Dolegliwości zgłaszane spontanicznie 2 Urazy czaszki 3 Urazy kończyn górnych, kończyn dolnych, kręgosłupa 4 Incydenty nagłej utraty świadomości 5 Zaburzenia dotyczące wzroku (w tym zaburzenia widzenia o zmierzchu) 6 Zaburzenia dotyczące słuchu 7 Choroby układu nerwowego (w tym padaczka) 8 Choroby psychiczne 9 Choroby układu ruchu 10 Choroby układu krążenia 11 Cukrzyca 12 Choroby układu oddechowego 13 Choroby układu pokarmowego 14 Choroby endokrynologiczne 15 Choroby układu moczowego 16 Przebyte hospitalizacje (w tym zabiegi operacyjne) 17 Przyjmowane leki: 1) obecnie 2) w ciągu ostatnich pięciu lat 18 Inne problemy zdrowotne: 1) palenie papierosów od kiedy pali? ile sztuk na dobę? 2) spożywanie alkoholu (częstość, ilość, rodzaj alkoholu, od jak dawna, czy nadużywa alkoholu) 3) przyjmowanie środków odurzających lub substancji psychotropowych 19 Leczenie w poradni specjalistycznej w jakiej? od kiedy? 20 Czy jest rencistą? z jakiego powodu? ...(data)... ...(podpis osoby badanej)...
+Badanie podmiotowe (wywiad lekarski)
+Lp. Zakres wywiadu **) TAK NIE Jeżeli TAK, to opisać 1 Dolegliwości zgłaszane spontanicznie 2 Urazy czaszki 3 Urazy kończyn górnych, kończyn dolnych, kręgosłupa 4 Incydenty nagłej utraty świadomości 5 Zaburzenia dotyczące wzroku (w tym zaburzenia widzenia o zmierzchu) 6 Zaburzenia dotyczące słuchu 7 Choroby układu nerwowego (w tym padaczka) 8 Choroby psychiczne 9 Choroby układu ruchu 10 Choroby układu krążenia 11 Cukrzyca 12 Choroby układu oddechowego 13 Choroby układu pokarmowego 14 Choroby endokrynologiczne 15 Choroby układu moczowego 16 Przebyte hospitalizacje (w tym zabiegi operacyjne) 17 Przyjmowane leki: 1) obecnie 2) w ciągu ostatnich pięciu lat 18 Inne problemy zdrowotne: 1) palenie papierosów od kiedy pali? ile sztuk na dobę? 2) spożywanie alkoholu (częstość, ilość, rodzaj alkoholu, od jak dawna, czy nadużywa alkoholu) 3) przyjmowanie środków odurzających lub substancji psychotropowych 19 Leczenie w poradni specjalistycznej w jakiej? od kiedy? 20 Czy jest rencistą? z jakiego powodu?
+...(data)... ...(podpis osoby badanej)...
 B.
-Badanie przedmiotowe Wzrost ... cm Ciężar ciała ... kg Lp. Narząd (układ) Norma ***) Opis patologii 1 Budowa ciała 2 Skóra: blizny, tatuaże 3 Kształt i reakcje źrenic 4 Asymetria twarzy, zbaczanie języka 5 Tarczyca 6 Układ oddechowy: 1) odgłos opukowy 2) szmer oddechowy 3) liczba oddechów.../ min 7 Układ krążenia: 1) miarowość 2) tony serca: szmery 3) tętno na tętnicach obwodowych 4) tętno.../min 5) RR (w spocz.) ... mmHg 8 Brzuch: 1) bolesność, opory patologiczne 2) przepukliny 3) wątroba, nerki
+Badanie przedmiotowe Wzrost ... cm Ciężar ciała ... kg
+Lp. Narząd (układ) Norma ***) Opis patologii 1 Budowa ciała 2 Skóra: blizny, tatuaże 3 Kształt i reakcje źrenic 4 Asymetria twarzy, zbaczanie języka 5 Tarczyca 6 Układ oddechowy: 1) odgłos opukowy 2) szmer oddechowy 3) liczba oddechów.../ min 7 Układ krążenia: 1) miarowość 2) tony serca: szmery 3) tętno na tętnicach obwodowych 4) tętno.../min 5) RR (w spocz.) ... mmHg 8 Brzuch: 1) bolesność, opory patologiczne 2) przepukliny 3) wątroba, nerki
 C.
-Badanie układu ruchu: Lp. Rodzaj badania Norma ***) Opis patologii 1 Badanie sprawności kończyn górnych: 1) siła mięśniowa 2) chwytność rąk 3) ograniczenie ruchomości stawów: a) palców i nadgarstków b) łokciowych c) barkowych 2 Badanie sprawności kończyn dolnych: 1) ograniczenie ruchomości stawów: a) stopy i skokowego b) kolanowego c) biodrowego 3 Ruchomość kręgosłupa: 1) odcinka szyjnego 2) odcinka lędźwiowego 4 Badanie chodu 5 Anomalie wrodzone lub pourazowe
+Badanie układu ruchu:
+Lp. Rodzaj badania Norma ***) Opis patologii 1 Badanie sprawności kończyn górnych: 1) siła mięśniowa 2) chwytność rąk 3) ograniczenie ruchomości stawów: a) palców i nadgarstków b) łokciowych c) barkowych 2 Badanie sprawności kończyn dolnych: 1) ograniczenie ruchomości stawów: a) stopy i skokowego b) kolanowego c) biodrowego 3 Ruchomość kręgosłupa: 1) odcinka szyjnego 2) odcinka lędźwiowego 4 Badanie chodu 5 Anomalie wrodzone lub pourazowe
 D.
-Badanie układu nerwowego: Lp. Rodzaj badania Norma ***) Opis patologii 1 Ruchomość gałek ocznych 2 Objawy móżdżkowe – koordynacja ruchowa 3 Niedowłady, porażenia kkg 4 Niedowłady, porażenia kkd 5 Zaniki mięśniowe
+Badanie układu nerwowego:
+Lp. Rodzaj badania Norma ***) Opis patologii 1 Ruchomość gałek ocznych 2 Objawy móżdżkowe – koordynacja ruchowa 3 Niedowłady, porażenia kkg 4 Niedowłady, porażenia kkd 5 Zaniki mięśniowe
 E.
-Badanie narządu słuchu i równowagi Wywiad chorobowy Lp. Przebyte choroby **) TAK NIE Jeżeli TAK, to opisać 1 Zawroty głowy / zaburzenia równowagi / przebyte zapalenie błędnika / choroba Meniere'a 2 Przebyte urazy głowy:1) z utratą przytomności2) bez utraty przytomności3) złamania kości czaszki 3 Choroby narządu słuchu:1) zapalenie uszu2) przebyte operacje uszu3) upośledzenie słuchu4) ubytek słuchu jednostronny5) ubytek słuchu obustronny6) posługiwanie się aparatem słuchowym jakie? kiedy? Badanie akumetryczne słuchu mowa potoczna**) UP UL szept**) UP UL 6 m 6 m 3 m 3 m 2m 2m <2m <2m Badanie narządu równowagi Oczopląs samoistny:**) Próby statyczne:**) prawidłowa nieprawidłowa Obecny Romberg Nieobecny Romberg „uczulony „ Próba Flecka
+Badanie narządu słuchu i równowagi Wywiad chorobowy
+Lp. Przebyte choroby **) TAK NIE Jeżeli TAK, to opisać 1 Zawroty głowy / zaburzenia równowagi / przebyte zapalenie błędnika / choroba Meniere'a 2 Przebyte urazy głowy:
+1) z utratą przytomności
+2) bez utraty przytomności
+3) złamania kości czaszki 3 Choroby narządu słuchu:
+1) zapalenie uszu
+2) przebyte operacje uszu
+3) upośledzenie słuchu
+4) ubytek słuchu jednostronny
+5) ubytek słuchu obustronny
+6) posługiwanie się aparatem słuchowym jakie? kiedy?
+Badanie akumetryczne słuchu
+mowa potoczna**) UP UL szept**) UP UL 6 m 6 m 3 m 3 m 2m 2m <2m <2m
+Badanie narządu równowagi
+Oczopląs samoistny:**) Próby statyczne:**) prawidłowa nieprawidłowa Obecny Romberg Nieobecny Romberg „uczulony „ Próba Flecka
 F.
 Zlecone badania specjalistyczne lub pomocnicze: ... ... ... ...
 G.
-Rozpoznanie i wnioski: ... ... ... ... ...(data)... ...(podpis i oznaczenie lekarza upoważnionego****))...
-Objaśnienia: *) Niepotrzebne skreślić. **) Postawić znak „X” w odpowiedniej rubryce. ***) Postawić znak „X” w przypadku prawidłowego wyniku badania. ****) Oznaczenie lekarza upoważnionego obejmuje imię lub imiona i nazwisko lekarza, numer wpisu do rejestru lekarzy upoważnionych prowadzonego przez komendanta wojewódzkiego Policji oraz numer prawa wykonywania zawodu oraz może być naniesione w formie pieczątki, naklejki albo nadruku.
+Rozpoznanie i wnioski: ... ... ... ... ...(data)... ...(podpis i oznaczenie lekarza upoważnionego****))... Objaśnienia: *) Niepotrzebne skreślić. **) Postawić znak „X” w odpowiedniej rubryce. ***) Postawić znak „X” w przypadku prawidłowego wyniku badania. ****) Oznaczenie lekarza upoważnionego obejmuje imię lub imiona i nazwisko lekarza, numer wpisu do rejestru lekarzy upoważnionych prowadzonego przez komendanta wojewódzkiego Policji oraz numer prawa wykonywania zawodu oraz może być naniesione w formie pieczątki, naklejki albo nadruku.
 
 ## Załącznik nr 3 — – Orzeczenie lekarskie (wzór)
 
@@ -158,8 +180,7 @@ Objaśnienia: *) Niepotrzebne skreślić. **) Postawić znak „X” w odpowiedn
 1)
 nie należy do osób wymienionych w art. 15 ust. 1 pkt 2 i 4 ustawy z dnia 21 maja 1999 r. o broni i amunicji i może dysponować bronią*);
 2)
-należy do osób wymienionych w art. 15 ust. 1 pkt 2 i 4 ustawy z dnia 21 maja 1999 r. o broni i amunicji i nie może dysponować bronią*).
-...(miejscowość, data)... ...(podpis i oznaczenie lekarza upoważnionego****))... Pouczenie:
+należy do osób wymienionych w art. 15 ust. 1 pkt 2 i 4 ustawy z dnia 21 maja 1999 r. o broni i amunicji i nie może dysponować bronią*). ...(miejscowość, data)... ...(podpis i oznaczenie lekarza upoważnionego****))... Pouczenie:
 1.
 Wnoszenie odwołania:***)
 1)
@@ -181,8 +202,7 @@ badanie w trybie odwołania przeprowadza się w terminie 30 dni od dnia otrzyman
 6)
 koszty badania lekarskiego ponosi odwołujący się.
 2.
-Orzeczenie lekarskie wydane w trybie odwołania jest ostateczne.
-Objaśnienia: *) Niepotrzebne skreślić. **) W przypadku osoby, której nie nadano numeru PESEL – nazwa i numer dokumentu stwierdzającego tożsamość. ***) Skreślić w przypadku orzeczenia lekarskiego wydanego w trybie odwoławczym. ****) Oznaczenie lekarza upoważnionego obejmuje imię lub imiona i nazwisko lekarza, numer wpisu do rejestru lekarzy upoważnionych prowadzonego przez komendanta wojewódzkiego Policji oraz numer prawa wykonywania zawodu oraz może być naniesione w formie pieczątki, naklejki albo nadruku.
+Orzeczenie lekarskie wydane w trybie odwołania jest ostateczne. Objaśnienia: *) Niepotrzebne skreślić. **) W przypadku osoby, której nie nadano numeru PESEL – nazwa i numer dokumentu stwierdzającego tożsamość. ***) Skreślić w przypadku orzeczenia lekarskiego wydanego w trybie odwoławczym. ****) Oznaczenie lekarza upoważnionego obejmuje imię lub imiona i nazwisko lekarza, numer wpisu do rejestru lekarzy upoważnionych prowadzonego przez komendanta wojewódzkiego Policji oraz numer prawa wykonywania zawodu oraz może być naniesione w formie pieczątki, naklejki albo nadruku.
 
 ## Załącznik nr 4 — – Orzeczenie psychologiczne (wzór)
 
@@ -190,8 +210,7 @@ Objaśnienia: *) Niepotrzebne skreślić. **) W przypadku osoby, której nie nad
 1)
 nie należy do osób wymienionych w art. 15 ust. 1 pkt 2 i 4 ustawy z dnia 21 maja 1999 r. o broni i amunicji i może dysponować bronią*);
 2)
-należy do osób wymienionych w art. 15 ust. 1 pkt 2 i 4 ustawy z dnia 21 maja 1999 r. o broni i amunicji i nie może dysponować bronią*).
-...(miejscowość, data)... ...(podpis i oznaczenie psychologa upoważnionego****))... Pouczenie:
+należy do osób wymienionych w art. 15 ust. 1 pkt 2 i 4 ustawy z dnia 21 maja 1999 r. o broni i amunicji i nie może dysponować bronią*). ...(miejscowość, data)... ...(podpis i oznaczenie psychologa upoważnionego****))... Pouczenie:
 1.
 Wnoszenie odwołania:***)
 1)
@@ -213,8 +232,7 @@ badanie w trybie odwołania przeprowadza się w terminie 30 dni od dnia otrzyman
 6)
 koszty badania psychologicznego ponosi odwołujący się.
 2.
-Orzeczenie psychologiczne wydane w trybie odwołania jest ostateczne.
-Objaśnienia: *) Niepotrzebne skreślić. **) W przypadku osoby, której nie nadano numeru PESEL – nazwa i numer dokumentu stwierdzającego tożsamość. ***) Skreślić w przypadku orzeczenia psychologicznego wydanego w trybie odwoławczym. ****) Oznaczenie psychologa upoważnionego w formie pieczęci albo nadruku obejmuje imię lub imiona i nazwisko psychologa, numer wpisu do rejestru psychologów upoważnionych prowadzonego przez komendanta wojewódzkiego Policji.
+Orzeczenie psychologiczne wydane w trybie odwołania jest ostateczne. Objaśnienia: *) Niepotrzebne skreślić. **) W przypadku osoby, której nie nadano numeru PESEL – nazwa i numer dokumentu stwierdzającego tożsamość. ***) Skreślić w przypadku orzeczenia psychologicznego wydanego w trybie odwoławczym. ****) Oznaczenie psychologa upoważnionego w formie pieczęci albo nadruku obejmuje imię lub imiona i nazwisko psychologa, numer wpisu do rejestru psychologów upoważnionych prowadzonego przez komendanta wojewódzkiego Policji.
 
 ## Załącznik nr 5 — – Zaświadczenie o wpisie do rejestru lekarzy upoważnionych (wzór)
 

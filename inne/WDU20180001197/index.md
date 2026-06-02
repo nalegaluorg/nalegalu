@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 14 czerwca 2018 r. w sprawie Krajowego Rejestru Nowotworów
+# Rozporządzenie Ministra Zdrowiaz dnia 14 czerwca 2018 r. w sprawie Krajowego Rejestru Nowotworów Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-14 |
 | Data wydania | 2018-06-21 |
-| Wejście w życie | 2018-06-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001197) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1197/text.pdf) |
 
@@ -89,8 +88,7 @@ przy pierwszym rozpoznaniu lub podejrzeniu nowotworu,
 2)
 przy wizytach kontrolnych, podczas których zostały stwierdzone istotne zmiany mające związek z diagnozą lub leczeniem, lub postępem choroby,
 3)
-na podstawie aktu zgonu
-są przekazywane do rejestru w postaci papierowej lub elektronicznej.
+na podstawie aktu zgonu – są przekazywane do rejestru w postaci papierowej lub elektronicznej.
 2.
 Dane do rejestru w postaci elektronicznej są przekazywane niezwłocznie po ich uzyskaniu.
 3.
@@ -168,6 +166,5 @@ identyfikator pracownika medycznego wprowadzającego dane do rejestru, o którym
 § 6.
 Dane przekazane do Centrum Onkologii – Instytutu im. Marii Skłodowskiej-Curie w Warszawie w okresie od dnia 1 stycznia 2018 r. do dnia wejścia w życie niniejszego rozporządzenia zgodnie z wymaganiami określonymi w rozporządzeniu Ministra Zdrowia z dnia 24 sierpnia 2016 r. w sprawie Krajowego Rejestru Nowotworów (Dz. U. poz. 1362) uważa się za przekazane w sposób zgodny z wymaganiami niniejszego rozporządzenia.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 24 sierpnia 2016 r. w sprawie Krajowego Rejestru Nowotworów (Dz. U. poz. 1362), które utraciło moc z dniem 1 stycznia 2018 r. zgodnie z art. 7 ustawy z dnia 20 lipca 2017 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw (Dz. U. poz. 1524).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 24 sierpnia 2016 r. w sprawie Krajowego Rejestru Nowotworów (Dz. U. poz. 1362), które utraciło moc z dniem 1 stycznia 2018 r. zgodnie z art. 7 ustawy z dnia 20 lipca 2017 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw (Dz. U. poz. 1524). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 24 sierpnia 2016 r. w sprawie Krajowego Rejestru Nowotworów (Dz. U. poz. 1362), które utraciło moc z dniem 1 stycznia 2018 r. zgodnie z art. 7 ustawy z dnia 20 lipca 2017 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw (Dz. U. poz. 1524).
 

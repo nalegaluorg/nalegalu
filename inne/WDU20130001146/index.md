@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 25 września 2013 r. w sprawie metody obliczania kwoty, o której mowa w art. 132m ust. 2 pkt 2 lit. b ustawy o usługach płatniczych
+# Rozporządzenie Ministra Finansówz dnia 25 września 2013 r. w sprawie metody obliczania kwoty, o której mowa w art. 132m ust. 2 pkt 2 lit. b ustawy o usługach płatniczych Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/110/WE z dnia 16 września 2009 r. w sprawie podejmowania i prowadzenia działalności przez instytucje pieniądza elektronicznego oraz nadzoru ostrożnościowego nad ich działalnością, zmieniającą dyrektywy 2005/60/WE i 2006/48/WE oraz uchylającą dyrektywę 2000/46/WE (Dz. Urz. UE L 267 z 10.10.2009, str. 7).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-09-25 |
 | Data wydania | 2013-09-27 |
-| Wejście w życie | 2013-10-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001146) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1146/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 132m ust. 7 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. Nr 199, poz. 1175, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 132m ust. 7 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. Nr 199, poz. 1175, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 291, poz. 1707, z 2012 r. poz. 1166 oraz z 2013 r. poz. 1036.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa metodę obliczania kwoty, o której mowa w art. 132m ust. 2 pkt 2 lit. b ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, zwanej dalej „ustawą”.
 § 2.
@@ -41,16 +40,14 @@ Kwotę, o której mowa w art. 132m ust. 2 pkt 2 lit. b ustawy, oblicza się jako
 4)
 0,5% części wielkości płatności w przedziale powyżej 100 mln euro do 250 mln euro,
 5)
-0,25% części wielkości płatności powyżej 250 mln euro
-przy czym wielkość płatności stanowi jedną dwunastą całkowitej wartości transakcji płatniczych, wykonanych w ciągu ostatniego roku obrotowego przez krajową instytucję pieniądza elektronicznego, niezwiązanych z wydanym pieniądzem elektronicznym.
+0,25% części wielkości płatności powyżej 250 mln euro – przy czym wielkość płatności stanowi jedną dwunastą całkowitej wartości transakcji płatniczych, wykonanych w ciągu ostatniego roku obrotowego przez krajową instytucję pieniądza elektronicznego, niezwiązanych z wydanym pieniądzem elektronicznym.
 § 3.
 1.
 W przypadku gdy krajowa instytucja pieniądza elektronicznego, na podstawie posiadanego zezwolenia na świadczenie usług płatniczych, może świadczyć wyłącznie:
 1)
 usługę, o której mowa w art. 3 ust. 1 pkt 6 ustawy, albo
 2)
-usługę, o której mowa w art. 3 ust. 1 pkt 7 ustawy
-kwotę obliczoną w sposób określony w § 2 mnoży się przez współczynnik korygujący k.
+usługę, o której mowa w art. 3 ust. 1 pkt 7 ustawy – kwotę obliczoną w sposób określony w § 2 mnoży się przez współczynnik korygujący k.
 2.
 Współczynnik korygujący k wynosi:
 1)
@@ -60,5 +57,5 @@ Współczynnik korygujący k wynosi:
 § 4.
 Na potrzeby obliczenia kwoty, o której mowa w § 2, wartość transakcji płatniczych wykonanych w walucie innej niż euro oblicza się z zastosowaniem kursów średnich ogłaszanych przez Narodowy Bank Polski, obowiązujących w ostatnim dniu roku obrotowego.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/110/WE z dnia 16 września 2009 r. w sprawie podejmowania i prowadzenia działalności przez instytucje pieniądza elektronicznego oraz nadzoru ostrożnościowego nad ich działalnością, zmieniającą dyrektywy 2005/60/WE i 2006/48/WE oraz uchylającą dyrektywę 2000/46/WE (Dz. Urz. UE L 267 z 10.10.2009, str. 7). 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 291, poz. 1707, z 2012 r. poz. 1166 oraz z 2013 r. poz. 1036.
 

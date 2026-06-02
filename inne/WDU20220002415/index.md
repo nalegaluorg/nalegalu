@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-21 |
 | Data wydania | 2022-11-23 |
-| Wejście w życie | 2022-12-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002415) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2415/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Sposób przetwarzania i udostępniania informacji sektora publicznego i metadanych Rozdział 3 – Tworzenie profilu dostawcy i założenie konta użytkownika portalu Rozdział 4 – Zestaw elementów metadanych Rozdział 5 – Standardy techniczne prowadzenia portalu oraz sposób weryfikacji informacji sektora publicznego i zestawu elementów metadanych Rozdział 6 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 34 ust. 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641 oraz z 2022 r. poz. 1700) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -55,6 +55,7 @@ profil dostawcy – informacje opisujące dostawcę;
 ustawa – ustawę z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego;
 7)
 użytkownik portalu – każdą osobę korzystającą z portalu.
+Sposób przetwarzania i udostępniania informacji sektora publicznego i metadanych
 § 3.
 ISP lub metadane w portalu są przetwarzane w sposób polegający na ich przechowywaniu, weryfikowaniu, aktualizowaniu, przekształcaniu ich struktury, udostępnianiu, pobieraniu, przeszukiwaniu, wykorzystywaniu, rozpowszechnianiu, usuwaniu lub innego rodzaju działaniach na ISP służących ich udostępnianiu.
 § 4.
@@ -68,6 +69,7 @@ adresu URL, w ramach którego udostępniono ISP, lub
 pliku lub adresu URL, lub metadanych na podstawie art. 32 ust. 3 pkt 2 ustawy, z zastosowaniem automatyzacji procesów.
 2.
 Jeżeli możliwości techniczne przechowywania ISP w portalu nie pozwalają na udostępnienie ISP w sposób wybrany przez dostawcę, wskazuje on inny sposób udostępniania tych informacji spośród określonych w ust. 1.
+Tworzenie profilu dostawcy i założenie konta użytkownika portalu
 § 5.
 1.
 Przy zakładaniu konta użytkownika portalu:
@@ -91,6 +93,7 @@ Administrator portalu, tworząc profil dostawcy, nadaje wskazanemu przez dostawc
 Do profilu dostawcy może być dodane więcej niż jedno konto użytkownika portalu.
 6.
 Na wniosek dostawcy przekazany z wykorzystaniem środków komunikacji elektronicznej administrator portalu dokonuje zmiany użytkownika portalu, o którym mowa w ust. 4.
+Zestaw elementów metadanych
 § 6.
 1.
 Zestaw elementów metadanych, o których mowa w art. 32 ust. 3 ustawy, wprowadzany przez dostawcę, dla zbioru danych składa się z:
@@ -170,6 +173,7 @@ częstotliwości importu – określenia częstotliwości pobierania metadanych,
 źródła – adresu URL, w ramach którego udostępniono ISP.
 2.
 Oprogramowanie portalu dodaje inne niż określone w ust. 1 dostępne elementy metadanych, o których mowa odpowiednio w § 6 lub § 7, z innego powszechnie dostępnego systemu teleinformatycznego.
+Standardy techniczne prowadzenia portalu oraz sposób weryfikacji informacji sektora publicznego i zestawu elementów metadanych
 § 9.
 Portal zapewnia:
 1)
@@ -198,18 +202,31 @@ Portal monitoruje dostępność ISP pod wskazanym adresem URL.
 Portal jest dostępny całodobowo, z wyjątkiem przerw serwisowych wynikających z ewentualnych awarii lub potrzeby dokonywania zmian.
 2.
 O przerwach serwisowych w świadczeniu usług dostępu do portalu administrator portalu informuje w portalu, a w przypadku braku takiej możliwości – na stronie internetowej www.gov.pl.
+Przepis końcowy
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 12 marca 2014 r. w sprawie Centralnego Repozytorium Informacji Publicznej (Dz. U. poz. 361, z 2017 r. poz. 492 oraz z 2020 r. poz. 646), które na podstawie art. 60 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641 oraz z 2022 r. poz. 1700) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 12 marca 2014 r. w sprawie Centralnego Repozytorium Informacji Publicznej (Dz. U. poz. 361, z 2017 r. poz. 492 oraz z 2020 r. poz. 646), które na podstawie art. 60 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641 oraz z 2022 r. poz. 1700) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Sposób przetwarzania i udostępniania informacji sektora publicznego i metadanych
+#### Rozdział 2 – Sposób przetwarzania i udostępniania informacji sektora publicznego i metadanych
 
-#### Rozdział 3 Tworzenie profilu dostawcy i założenie konta użytkownika portalu
+#### Rozdział 3 – Tworzenie profilu dostawcy i założenie konta użytkownika portalu
 
-#### Rozdział 4 Zestaw elementów metadanych
+#### Rozdział 4 – Zestaw elementów metadanych
 
-#### Rozdział 5 Standardy techniczne prowadzenia portalu oraz sposób weryfikacji informacji sektora publicznego i zestawu elementów metadanych
+#### Rozdział 5 – Standardy techniczne prowadzenia portalu oraz sposób weryfikacji informacji sektora publicznego i zestawu elementów metadanych
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

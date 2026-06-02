@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 9 grudnia 2022 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 9 grudnia 2022 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-09 |
 | Data wydania | 2022-12-19 |
-| Wejście w życie | 2022-12-20 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002664) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2664/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 23 października 2015 
 1)
 w § 4:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
 w ramach której koszty kwalifikowalne inwestycji, o której mowa w § 3 ust. 1 pkt 1:
 a)
@@ -42,20 +40,15 @@ lit. a tiret pierwsze, z wyłączeniem inwestycji polegających na budowie nowyc
 – zbiorników do przechowywania nawozów naturalnych płynnych,
 – płyt do gromadzenia i przechowywania nawozów naturalnych stałych,
 b)
-lit. a tiret drugie i lit. b
-nie są finansowane z udziałem innych środków publicznych;
-” ,
+lit. a tiret drugie i lit. b – nie są finansowane z udziałem innych środków publicznych; ” ,
 b)
-po pkt 1 dodaje się pkt 1a w brzmieniu:
-„
+po pkt 1 dodaje się pkt 1a w brzmieniu: „
 1a)
-w ramach której realizacja inwestycji, o której mowa w § 3 ust. 1 pkt 1 lit. a tiret pierwsze, polegającej na budowie nowych zbiorników, o których mowa w pkt 1 lit. a tiret pierwsze, lub płyt, o których mowa w pkt 1 lit. a tiret drugie, nie jest finansowana z udziałem innych środków publicznych;
-” ,
+w ramach której realizacja inwestycji, o której mowa w § 3 ust. 1 pkt 1 lit. a tiret pierwsze, polegającej na budowie nowych zbiorników, o których mowa w pkt 1 lit. a tiret pierwsze, lub płyt, o których mowa w pkt 1 lit. a tiret drugie, nie jest finansowana z udziałem innych środków publicznych; ” ,
 c)
 w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ która będzie realizowana bez podziału na etapy, a wykonanie zakresu rzeczowego zgodnie z zestawieniem rzeczowo-finansowym operacji oraz złożenie wniosku o płatność końcową wypłacaną po zrealizowaniu całej operacji nastąpi w terminie 24 miesięcy od dnia: ” ;
 2)
-po § 4 dodaje się § 4a w brzmieniu:
-„
+po § 4 dodaje się § 4a w brzmieniu: „
 § 4a.
 Pomoc przyznaje się w formie:
 1)
@@ -65,13 +58,11 @@ lit. a tiret pierwsze, z wyłączeniem inwestycji polegających na budowie nowyc
 b)
 lit. a tiret drugie i lit. b, lub
 2)
-standardowych stawek jednostkowych – w przypadku inwestycji, o której mowa w § 3 ust. 1 pkt 1 lit. a tiret pierwsze, polegającej na budowie nowych zbiorników, o których mowa w § 4 pkt 1 lit. a tiret pierwsze, lub płyt, o których mowa w § 4 pkt 1 lit. a tiret drugie.
-” ;
+standardowych stawek jednostkowych – w przypadku inwestycji, o której mowa w § 3 ust. 1 pkt 1 lit. a tiret pierwsze, polegającej na budowie nowych zbiorników, o których mowa w § 4 pkt 1 lit. a tiret pierwsze, lub płyt, o których mowa w § 4 pkt 1 lit. a tiret drugie. ” ;
 3)
 w § 5:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
 Do kosztów kwalifikowalnych zalicza się koszty:
 1)
@@ -79,8 +70,7 @@ przebudowy lub zakupu:
 a)
 zbiorników do przechowywania nawozów naturalnych płynnych,
 b)
-płyt do gromadzenia i przechowywania nawozów naturalnych stałych
-wraz z zakupem instalacji technicznej lub wyposażenia,
+płyt do gromadzenia i przechowywania nawozów naturalnych stałych – wraz z zakupem instalacji technicznej lub wyposażenia,
 2)
 budowy, przebudowy lub zakupu zbiorników lub płyt do przechowywania kiszonek wraz z zakupem instalacji technicznej lub wyposażenia,
 3)
@@ -98,29 +88,23 @@ węże wleczone,
 d)
 wleczone płozowe,
 e)
-szczelinowe tarczowe
-wraz z zakupem instalacji technicznej,
+szczelinowe tarczowe – wraz z zakupem instalacji technicznej,
 6)
 zakupu wozów asenizacyjnych z aplikatorami nawozów naturalnych w postaci płynnej typów określonych w pkt 5,
 7)
-ogólne, o których mowa w art. 45 ust. 2 lit. c rozporządzenia nr 1305/2013, zwane dalej „kosztami ogólnymi”
-które są uzasadnione wielkością prowadzonej w gospodarstwie produkcji, adekwatne do panujących w nim warunków gospodarowania, niezbędne do osiągnięcia celu operacji oraz racjonalne.
-” ,
+ogólne, o których mowa w art. 45 ust. 2 lit. c rozporządzenia nr 1305/2013, zwane dalej „kosztami ogólnymi” – które są uzasadnione wielkością prowadzonej w gospodarstwie produkcji, adekwatne do panujących w nim warunków gospodarowania, niezbędne do osiągnięcia celu operacji oraz racjonalne. ” ,
 b)
 w ust. 2 we wprowadzeniu do wyliczenia i w ust. 5a skreśla się wyraz „budowy,”,
 c)
 w ust. 5 wyrazy „ust. 1 pkt 1, 1a, 3 i 4” zastępuje się wyrazami „ust. 1 pkt 1–3 oraz 5 i 6”,
 d)
-ust. 5aa otrzymuje brzmienie:
-„
+ust. 5aa otrzymuje brzmienie: „
 5aa.
-Koszt zakupu instalacji technicznej lub wyposażenia, o których mowa w ust. 1 pkt 3, jest kosztem kwalifikowalnym, jeżeli są spełnione określone w programie działań wymagania dotyczące warunków przechowywania nawozów naturalnych płynnych wyprodukowanych w gospodarstwie albo jeżeli realizowana operacja obejmuje również realizację inwestycji, która zapewni dostosowanie gospodarstwa do określonych w programie działań wymagań dotyczących warunków przechowywania nawozów naturalnych płynnych wyprodukowanych w gospodarstwie.
-” ,
+Koszt zakupu instalacji technicznej lub wyposażenia, o których mowa w ust. 1 pkt 3, jest kosztem kwalifikowalnym, jeżeli są spełnione określone w programie działań wymagania dotyczące warunków przechowywania nawozów naturalnych płynnych wyprodukowanych w gospodarstwie albo jeżeli realizowana operacja obejmuje również realizację inwestycji, która zapewni dostosowanie gospodarstwa do określonych w programie działań wymagań dotyczących warunków przechowywania nawozów naturalnych płynnych wyprodukowanych w gospodarstwie. ” ,
 e)
 w ust. 5b we wprowadzeniu do wyliczenia wyrazy „ust. 1 pkt 1” zastępuje się wyrazami „ust. 1 pkt 1 i 2”;
 4)
-po § 5 dodaje się § 5a w brzmieniu:
-„
+po § 5 dodaje się § 5a w brzmieniu: „
 § 5a.
 1.
 Pomoc w formie standardowych stawek jednostkowych przyznaje się odpowiednio w wysokości 60% – w przypadku operacji realizowanej przez młodego rolnika albo 50% – w przypadku operacji realizowanej przez rolnika niebędącego młodym rolnikiem, kwoty stanowiącej sumę:
@@ -169,8 +153,7 @@ powyżej 500 m3 do 1000 m3 – wynosi 275 zł,
 c)
 powyżej 1000 m3 – wynosi 165 zł.
 3.
-Do przyznawania pomocy, o której mowa w ust. 1, stosuje się przepisy § 5 ust. 2–5b.
-” ;
+Do przyznawania pomocy, o której mowa w ust. 1, stosuje się przepisy § 5 ust. 2–5b. ” ;
 5)
 w § 6 w ust. 1 liczbę „100” zastępuje się liczbą „150”;
 6)
@@ -180,11 +163,9 @@ w § 9 w ust. 5, w § 23 w ust. 1 w zdaniu drugim i w ust. 1d wyrazy „w placó
 8)
 w § 10 w ust. 2:
 a)
-pkt 7 otrzymuje brzmienie:
-„
+pkt 7 otrzymuje brzmienie: „
 7)
-kosztorys inwestorski – w przypadku gdy operacja obejmuje inwestycję polegającą na budowie lub przebudowie zbiorników lub płyt do przechowywania kiszonek lub przebudowie płyt lub zbiorników do przechowywania nawozów naturalnych;
-” ,
+kosztorys inwestorski – w przypadku gdy operacja obejmuje inwestycję polegającą na budowie lub przebudowie zbiorników lub płyt do przechowywania kiszonek lub przebudowie płyt lub zbiorników do przechowywania nawozów naturalnych; ” ,
 b)
 w pkt 12a skreśla się wyrazy „kosztorysu inwestorskiego załączonego do”,
 c)
@@ -192,33 +173,33 @@ uchyla się pkt 16;
 9)
 w § 13 w ust. 2 w pkt 2 skreśla się wyraz „kwalifikowalnych”;
 10)
-w § 20 w ust. 1 pkt 3 otrzymuje brzmienie:
-„
+w § 20 w ust. 1 pkt 3 otrzymuje brzmienie: „
 3)
-niefinansowania kosztów kwalifikowalnych operacji, o których mowa w § 5 ust. 1, z udziałem innych środków publicznych albo niefinansowania inwestycji, o której mowa w § 3 ust. 1 pkt 1 lit. a tiret pierwsze, polegającej na budowie nowych zbiorników, o których mowa w § 4 pkt 1 lit. a tiret pierwsze, lub płyt, o których mowa w § 4 pkt 1 lit. a tiret drugie, z udziałem innych środków publicznych;
-” ;
+niefinansowania kosztów kwalifikowalnych operacji, o których mowa w § 5 ust. 1, z udziałem innych środków publicznych albo niefinansowania inwestycji, o której mowa w § 3 ust. 1 pkt 1 lit. a tiret pierwsze, polegającej na budowie nowych zbiorników, o których mowa w § 4 pkt 1 lit. a tiret pierwsze, lub płyt, o których mowa w § 4 pkt 1 lit. a tiret drugie, z udziałem innych środków publicznych; ” ;
 11)
 w § 22:
 a)
 w ust. 1:
 – w pkt 1 skreśla się wyrazy „, w tym poniósł związane z tym koszty”,
-– pkt 3 otrzymuje brzmienie: „ 3) udokumentował zrealizowanie operacji, a w przypadku inwestycji, o których mowa w § 3 ust. 1 pkt 1: a) lit. a tiret pierwsze, z wyłączeniem inwestycji polegających na budowie nowych zbiorników, o których mowa w § 4 pkt 1 lit. a tiret pierwsze, lub płyt, o których mowa w § 4 pkt 1 lit. a tiret drugie, b) lit. a tiret drugie i lit. b – również poniesienie kosztów kwalifikowalnych z tym związanych ” ,
+pkt 3 otrzymuje brzmienie: „
+3)
+udokumentował zrealizowanie operacji, a w przypadku inwestycji, o których mowa w § 3 ust. 1 pkt 1:
+a)
+lit. a tiret pierwsze, z wyłączeniem inwestycji polegających na budowie nowych zbiorników, o których mowa w § 4 pkt 1 lit. a tiret pierwsze, lub płyt, o których mowa w § 4 pkt 1 lit. a tiret drugie,
 b)
-dodaje się ust. 3 w brzmieniu:
-„
+lit. a tiret drugie i lit. b – również poniesienie kosztów kwalifikowalnych z tym związanych ” ,
+b)
+dodaje się ust. 3 w brzmieniu: „
 3.
 Pomoc udzielana w formie standardowych stawek jednostkowych jest wypłacana, jeżeli:
 1)
 realizacja operacji w zakresie budowy nowych zbiorników, o których mowa w § 4 pkt 1 lit. a tiret pierwsze, lub płyt, o których mowa w § 4 pkt 1 lit. a tiret drugie, została rozpoczęta nie wcześniej niż w dniu, w którym złożono wniosek o przyznanie pomocy;
 2)
-środki finansowe wydatkowane na budowę nowych zbiorników, o których mowa w § 4 pkt 1 lit. a tiret pierwsze, lub płyt, o których mowa w § 4 pkt 1 lit. a tiret drugie, zostały uwzględnione w oddzielnym systemie rachunkowości albo gdy do ich identyfikacji wykorzystano odpowiedni kod rachunkowy, o których mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia nr 1305/2013.
-” ;
+środki finansowe wydatkowane na budowę nowych zbiorników, o których mowa w § 4 pkt 1 lit. a tiret pierwsze, lub płyt, o których mowa w § 4 pkt 1 lit. a tiret drugie, zostały uwzględnione w oddzielnym systemie rachunkowości albo gdy do ich identyfikacji wykorzystano odpowiedni kod rachunkowy, o których mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia nr 1305/2013. ” ;
 12)
-po § 31b dodaje się § 31c w brzmieniu:
-„
+po § 31b dodaje się § 31c w brzmieniu: „
 § 31c.
-Przy rozpatrywaniu wniosków o przyznanie pomocy, które w 2023 r. zostały złożone w ramach naboru tych wniosków rozpoczętego przed dniem 30 maja 2023 r., przy ustalaniu liczby zwierząt w gospodarstwie w przeliczeniu na DJP bierze się pod uwagę stan średnioroczny zwierząt w gospodarstwie w 2022 r., a w odniesieniu do podmiotów, które weszły w posiadanie gospodarstwa lub rozpoczęły produkcję zwierzęcą w swoim gospodarstwie w 2022 r. albo w 2023 r. – planowany stan średnioroczny zwierząt w tym gospodarstwie w okresie kolejnych 12 miesięcy, począwszy od dnia rozpoczęcia prowadzenia w nim produkcji zwierzęcej.
-” .
+Przy rozpatrywaniu wniosków o przyznanie pomocy, które w 2023 r. zostały złożone w ramach naboru tych wniosków rozpoczętego przed dniem 30 maja 2023 r., przy ustalaniu liczby zwierząt w gospodarstwie w przeliczeniu na DJP bierze się pod uwagę stan średnioroczny zwierząt w gospodarstwie w 2022 r., a w odniesieniu do podmiotów, które weszły w posiadanie gospodarstwa lub rozpoczęły produkcję zwierzęcą w swoim gospodarstwie w 2022 r. albo w 2023 r. – planowany stan średnioroczny zwierząt w tym gospodarstwie w okresie kolejnych 12 miesięcy, począwszy od dnia rozpoczęcia prowadzenia w nim produkcji zwierzęcej. ” .
 § 2.
 1.
 Do przyznawania pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, zwanej dalej „pomocą”, w sprawach objętych postępowaniami wszczętymi i niezakończonymi zawarciem umowy o przyznaniu pomocy przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, z wyjątkiem:
@@ -244,6 +225,5 @@ W przypadku niezłożenia wniosku, o którym mowa w ust. 1, albo złożenia tego
 4.
 W przypadku gdy beneficjent złożył wniosek o płatność końcową przed dniem wejścia w życie niniejszego rozporządzenia i złożył wniosek, o którym mowa w ust. 1, termin rozpatrzenia wniosku o płatność końcową, o którym mowa w § 24 ust. 1 rozporządzenia zmienianego w § 1, wydłuża się o czas niezbędny do rozpatrzenia wniosku, o którym mowa w ust. 1.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 

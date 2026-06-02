@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 października 2014 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw
+# Ustawa z dnia 23 października 2014 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, ustawę z dnia 27 czerwca 2003 r. o rencie socjalnej oraz ustawę z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-10-23 |
 | Data wydania | 2014-12-01 |
-| Wejście w życie | 2015-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001682) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1682/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 1440, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 1440, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1717 i 1734 oraz z 2014 r. poz. 496, 567, 683 i 684.) wprowadza się następujące zmiany:
 
 - **1)** w art. 77 ust. 2 otrzymuje brzmienie: „
 
@@ -49,7 +48,7 @@ source: "eli-html"
 
 2. Kwota najniższej emerytury, z zastrzeżeniem art. 24a ust. 6, art. 54, art. 54a ust. 2 i art. 87, oraz renty rodzinnej wynosi 880,45 zł miesięcznie. ” .
 
-**Art. 2.** W ustawie z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2010 r. Nr 101, poz. 648, z późn. zm.) art. 11 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2010 r. Nr 101, poz. 648, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 113, poz. 745, z 2011 r. Nr 112, poz. 654 oraz z 2012 r. poz. 118.) art. 11 otrzymuje brzmienie: „
 
 **Art. 11.**
 
@@ -59,7 +58,7 @@ source: "eli-html"
 
 3. Podwyższenia podstawy wymiaru renty inwalidzkiej dokonuje się z urzędu, a w przypadku gdy prawo do świadczenia zostało zawieszone – na wniosek osoby zainteresowanej albo przy wznowieniu wypłaty świadczenia. ” .
 
-**Art. 3.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2013 r. poz. 1403, z późn. zm.) w art. 35:
+**Art. 3.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2013 r. poz. 1403, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1623 i 1650 oraz z 2014 r. poz. 684.) w art. 35:
 
 - **1)** w ust. 1 pkt 3 otrzymuje brzmienie: „
 - **3)** członka rodziny osoby, o której mowa w pkt 1 lub 2; ” ;
@@ -121,18 +120,18 @@ source: "eli-html"
 
 1. Waloryzacji, o której mowa w art. 6, podlegają:
 
-- **1)** świadczenia, o których mowa w art. 2 pkt 1 lit. a i b ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2010 r. Nr 101, poz. 648, z późn. zm.);
-- **2)** świadczenia z ubezpieczenia emerytalno-rentowego, o których mowa w art. 18 pkt 1–4 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2013 r. poz. 1403, z późn. zm.);
+- **1)** świadczenia, o których mowa w art. 2 pkt 1 lit. a i b ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2010 r. Nr 101, poz. 648, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 113, poz. 745, z 2011 r. Nr 112, poz. 654 oraz z 2012 r. poz. 118.);
+- **2)** świadczenia z ubezpieczenia emerytalno-rentowego, o których mowa w art. 18 pkt 1–4 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2013 r. poz. 1403, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1623 i 1650 oraz z 2014 r. poz. 684.);
 - **3)** świadczenia, o których mowa w art. 12 i art. 16 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2014 r. poz. 1206);
-- **4)** świadczenia, o których mowa w art. 2 pkt 1 lit. a-c ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2013 r. poz. 666, z późn. zm.);
-- **5)** świadczenia, o których mowa w art. 2 pkt 1 lit. a-c ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2013 r. poz. 667, z późn. zm.);
-- **6)** emerytury i renty, o których mowa w art. 3 pkt 1–3 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 1440, z późn. zm.);
-- **7)** świadczenia, o których mowa w art. 6 ust. 1 pkt 6–8 oraz art. 49, art. 50 i art. 52 ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2009 r. Nr 167, poz. 1322, z późn. zm.);
+- **4)** świadczenia, o których mowa w art. 2 pkt 1 lit. a-c ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2013 r. poz. 666, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 1355, 1623 i 1717 oraz z 2014 r. poz. 502, 542 i 696.);
+- **5)** świadczenia, o których mowa w art. 2 pkt 1 lit. a-c ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2013 r. poz. 667, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 1623 i 1717 oraz z 2014 r. poz. 502 i 696.);
+- **6)** emerytury i renty, o których mowa w art. 3 pkt 1–3 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 1440, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1717 i 1734 oraz z 2014 r. poz. 496, 567, 683 i 684.);
+- **7)** świadczenia, o których mowa w art. 6 ust. 1 pkt 6–8 oraz art. 49, art. 50 i art. 52 ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2009 r. Nr 167, poz. 1322, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 257, poz. 1725, z 2011 r. Nr 45, poz. 235, Nr 122, poz. 696 i Nr 138, poz. 808 oraz z 2012 r. poz. 637.);
 - **8)** renty, o których mowa w art. 3 ust. 1 pkt 1 oraz ust. 3 i 4 ustawy z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach (Dz. U. z 2013 r. poz. 737);
 - **9)** świadczenia przedemerytalne i zasiłki przedemerytalne, o których mowa w ustawie z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych (Dz. U. z 2013 r. poz. 170 oraz z 2014 r. poz. 598);
 - **10)** świadczenie, o którym mowa w art. 2 ust. 1 ustawy z dnia 16 listopada 2006 r. o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych (Dz. U. Nr 249, poz. 1824, z 2010 r. Nr 225, poz. 1465 oraz z 2011 r. Nr 122, poz. 696);
 - **11)** okresowe emerytury kapitałowe, o których mowa w art. 7 ust. 1 ustawy z dnia 21 listopada 2008 r. o emeryturach kapitałowych (Dz. U. z 2014 r. poz. 1097);
-- **12)** emerytury, o których mowa w art. 1 ust. 1 pkt 1 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych (Dz. U. Nr 237, poz. 1656, z późn. zm.);
+- **12)** emerytury, o których mowa w art. 1 ust. 1 pkt 1 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych (Dz. U. Nr 237, poz. 1656, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 75, poz. 398, Nr 138, poz. 808 i Nr 171, poz. 1016 oraz z 2012 r. poz. 637.);
 - **13)** świadczenie, o którym mowa w art. 5 ust. 1 ustawy z dnia 22 maja 2009 r. o nauczycielskich świadczeniach kompensacyjnych (Dz. U. Nr 97, poz. 800, z 2011 r. Nr 75, poz. 398 oraz z 2012 r. poz. 637).
 
 2. Waloryzacji od dnia 1 marca 2015 r., polegającej na pomnożeniu ich kwoty przez wskaźnik waloryzacji ustalony zgodnie z art. 89 ustawy, o której mowa w art. 1, podlegają:
@@ -166,7 +165,7 @@ source: "eli-html"
 - **2)** art. 15 ust. 6 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego;
 - **3)** art. 2 ust. 3 ustawy z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych;
 - **4)** art. 3 ust. 3 ustawy z dnia 31 maja 1996 r. o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich;
-- **5)** art. 94 ust. 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. W 2015 r. do Funduszu Ubezpieczeń Społecznych, Funduszu Emerytur Pomostowych i Funduszu Emerytalno-Rentowego Kasy Rolniczego Ubezpieczenia Społecznego nie stosuje się przepisu art. 29 ust. 10 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.).
+- **5)** art. 94 ust. 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. W 2015 r. do Funduszu Ubezpieczeń Społecznych, Funduszu Emerytur Pomostowych i Funduszu Emerytalno-Rentowego Kasy Rolniczego Ubezpieczenia Społecznego nie stosuje się przepisu art. 29 ust. 10 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379, 911, 1146 i 1626.).
 
-**Art. 12.** Ustawa wchodzi w życie z dniem 1 marca 2015 r. z wyjątkiem art. 10, który wchodzi w życie z dniem ogłoszenia.
+**Art. 12.** Ustawa wchodzi w życie z dniem 1 marca 2015 r. z wyjątkiem art. 10, który wchodzi w życie z dniem ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, ustawę z dnia 27 czerwca 2003 r. o rencie socjalnej oraz ustawę z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1717 i 1734 oraz z 2014 r. poz. 496, 567, 683 i 684. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 113, poz. 745, z 2011 r. Nr 112, poz. 654 oraz z 2012 r. poz. 118. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1623 i 1650 oraz z 2014 r. poz. 684. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 113, poz. 745, z 2011 r. Nr 112, poz. 654 oraz z 2012 r. poz. 118. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1623 i 1650 oraz z 2014 r. poz. 684. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 1355, 1623 i 1717 oraz z 2014 r. poz. 502, 542 i 696. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 1623 i 1717 oraz z 2014 r. poz. 502 i 696. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1717 i 1734 oraz z 2014 r. poz. 496, 567, 683 i 684. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 257, poz. 1725, z 2011 r. Nr 45, poz. 235, Nr 122, poz. 696 i Nr 138, poz. 808 oraz z 2012 r. poz. 637. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 75, poz. 398, Nr 138, poz. 808 i Nr 171, poz. 1016 oraz z 2012 r. poz. 637. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379, 911, 1146 i 1626.
 

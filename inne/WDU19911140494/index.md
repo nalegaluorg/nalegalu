@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1991-10-25 |
 | Data wydania | 1991-12-12 |
-| Wejście w życie | 1992-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911140494) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/494/text.pdf) |
 
@@ -32,8 +31,10 @@ source: "eli-html"
 
 3. Rady gmin są uprawnione do obniżenia cen skupu określonych w ust. 2, przyjmowanych jako podstawa obliczania podatku rolnego na obszarze gminy. ” ;
 
-- **2)** w art. 12: w ust. 1: – w pkt 1 wyrazy „klasy VI i VIz” zastępuje się wyrazami „klasy V, VI i VIz”, – dodaje się pkt 7 w brzmieniu: „ 7) użytki rolne, na których zaprzestano produkcji rolnej – na okres nie dłuższy niż 3 lata. ” , dodaje się ust. 7 w brzmieniu: „
+- **2)** w art. 12: w ust. 1: – w pkt 1 wyrazy „klasy VI i VIz” zastępuje się wyrazami „klasy V, VI i VIz”, dodaje się pkt 7 w brzmieniu: „
     - **a)**
+
+- **7)** użytki rolne, na których zaprzestano produkcji rolnej – na okres nie dłuższy niż 3 lata. ” , dodaje się ust. 7 w brzmieniu: „
     - **b)**
 
 7. Rady gmin określają w drodze uchwały tryb i szczegółowe warunki zwolnienia, o którym mowa w ust. 1 pkt 7. ” .

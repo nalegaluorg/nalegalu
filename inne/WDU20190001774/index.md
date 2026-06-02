@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 9 września 2019 r. w sprawie egzaminów eksternistycznych z zakresu szkół artystycznych
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 9 września 2019 r. w sprawie egzaminów eksternistycznych z zakresu szkół artystycznych Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-09 |
 | Data wydania | 2019-09-18 |
-| Wejście w życie | 2019-09-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001774) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1774/text.pdf) |
 
@@ -321,6 +320,5 @@ Informację, o której mowa w § 4 ust. 2, dotyczącą egzaminów eksternistyczn
 § 35.
 Traci moc rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 30 lipca 2015 r. w sprawie egzaminów eksternistycznych z zakresu szkół artystycznych (Dz. U. poz. 1330 oraz z 2018 r. poz. 2318).
 § 36.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 

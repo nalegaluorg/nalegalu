@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-01 |
 | Data wydania | 2022-07-15 |
-| Wejście w życie | 2022-07-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001498) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1498/text.pdf) |
 
@@ -33,11 +32,9 @@ W rozporządzeniu Rady Ministrów z dnia 5 października 2017 r. w sprawie wyzna
 1)
 w § 1 we wprowadzeniu do wyliczenia wyrazy „wojewodę podlaskiego oraz wojewodę lubelskiego” zastępuje się wyrazami „wojewodów dolnośląskiego, kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, mazowieckiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego, wielkopolskiego oraz zachodniopomorskiego”;
 2)
-§ 2 otrzymuje brzmienie:
-„
+§ 2 otrzymuje brzmienie: „
 § 2.
-Z właściwości wojewodów wymienionych w § 1 w sprawach, o których mowa w § 1, mogą skorzystać obywatele Ukrainy, Republiki Białorusi oraz Federacji Rosyjskiej albo osoby posiadające w tych państwach status bezpaństwowca.
-” .
+Z właściwości wojewodów wymienionych w § 1 w sprawach, o których mowa w § 1, mogą skorzystać obywatele Ukrainy, Republiki Białorusi oraz Federacji Rosyjskiej albo osoby posiadające w tych państwach status bezpaństwowca. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 25 kwietnia 2024 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na przedsięwzięcia związane z gospodarką o obiegu zamkniętym w ramach Krajowego Planu Odbudowy i Zwiększania Odporności
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 25 kwietnia 2024 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na przedsięwzięcia związane z gospodarką o obiegu zamkniętym w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 2721).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-25 |
 | Data wydania | 2024-05-06 |
-| Wejście w życie | 2024-05-21 |
 | Ostatnia zmiana | 2024-05-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000692) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/692/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Regionalna pomoc inwestycyjna Rozdział 3 – Pomoc na usługi doradcze na rzecz MŚP Rozdział 4 – Pomoc dla MŚP na wspieranie innowacyjności Rozdział 5 – Pomoc inwestycyjna na ochronę środowiska, w tym obniżenie emisyjności Rozdział 6 – Pomoc inwestycyjna na środki wspierające efektywność energetyczną inną niż w budynkach Rozdział 7 – Pomoc inwestycyjna na efektywne gospodarowanie zasobami i wspieranie przechodzenia na gospodarkę o obiegu zamkniętym Rozdział 8 – Pomoc de minimis Rozdział 9 – Tryb udzielania pomocy finansowej Rozdział 10 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 6b ust. 10c ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2024 r. poz. 419) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na realizację przedsięwzięć w ramach inwestycji A2.2.1 „Inwestycje we wdrażanie technologii i innowacji środowiskowych, w tym związanych z gospodarką o obiegu zamkniętym” wskazanej w komponencie A „Odporność i konkurencyjność gospodarki” w ramach Krajowego Planu Odbudowy i Zwiększania Odporności, zwanej dalej „pomocą finansową”.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
-efektywności energetycznej – należy przez to rozumieć efektywność energetyczną w rozumieniu art. 2 pkt 103 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem Komisji nr 651/2014”;
+efektywności energetycznej – należy przez to rozumieć efektywność energetyczną w rozumieniu art. 2 pkt 103 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1., zwanego dalej „rozporządzeniem Komisji nr 651/2014”;
 2)
 efektywnym gospodarowaniu zasobami – należy przez to rozumieć efektywne gospodarowanie zasobami w rozumieniu art. 2 pkt 128a rozporządzenia Komisji nr 651/2014;
 3)
@@ -53,8 +53,7 @@ zwiększenie efektywności energetycznej,
 3)
 zmniejszenie ilości wytwarzanych odpadów,
 4)
-redukcję emisji gazów cieplarnianych z procesów produkcyjnych i operacyjnych
-w formie bezzwrotnego wsparcia finansowego.
+redukcję emisji gazów cieplarnianych z procesów produkcyjnych i operacyjnych – w formie bezzwrotnego wsparcia finansowego.
 2.
 Pomoc finansowa może być udzielona MŚP, który prowadzi działalność gospodarczą na terytorium Rzeczypospolitej Polskiej potwierdzoną wpisem do odpowiedniego rejestru albo ewidencji.
 3.
@@ -109,6 +108,7 @@ na realizację przedsięwzięcia i niezbędne do osiągnięcia jego celów.
 Przedsięwzięcie objęte pomocą, o której mowa w § 3 ust. 3 pkt 1 lit. d, musi być utrzymane na danym obszarze przez co najmniej trzy lata od dnia zakończenia jego realizacji. Nie wyklucza to wymiany w tym okresie przestarzałych lub zepsutych instalacji lub sprzętów, pod warunkiem że przedsięwzięcie zostanie utrzymane na danym obszarze przez minimalny okres.
 § 11.
 Pomoc finansowa jest udzielana do dnia 31 sierpnia 2026 r.
+Regionalna pomoc inwestycyjna
 § 12.
 Regionalna pomoc inwestycyjna jest udzielana na inwestycję początkową w rozumieniu art. 2 pkt 49 lit. a rozporządzenia Komisji nr 651/2014, jeżeli zostały spełnione warunki określone w art. 14 ust. 5, ust. 7 zdanie drugie i ust. 16 rozporządzenia Komisji nr 651/2014.
 § 13.
@@ -137,6 +137,7 @@ Maksymalną intensywność regionalnej pomocy inwestycyjnej na pokrycie kosztów
 W przypadku MŚP za koszty kwalifikowalne uznaje się 100 % kosztów wartości niematerialnych i prawnych.
 3.
 Maksymalną intensywność regionalnej pomocy inwestycyjnej oblicza się, uwzględniając warunki określone w art. 14 ust. 12–14 rozporządzenia Komisji nr 651/2014.
+Pomoc na usługi doradcze na rzecz MŚP
 § 15.
 1.
 Pomoc na usługi doradcze na rzecz MŚP jest udzielana, jeżeli zostały spełnione warunki określone w art. 18 ust. 4 rozporządzenia Komisji nr 651/2014.
@@ -144,6 +145,7 @@ Pomoc na usługi doradcze na rzecz MŚP jest udzielana, jeżeli zostały spełni
 Kosztami kwalifikowalnymi w ramach pomocy na usługi doradcze na rzecz MŚP są koszty usług doradczych świadczonych przez doradców zewnętrznych.
 § 16.
 Intensywność pomocy na usługi doradcze na rzecz MŚP nie przekracza 50 % kosztów kwalifikowalnych.
+Pomoc dla MŚP na wspieranie innowacyjności
 § 17.
 Kosztami kwalifikowalnymi w ramach pomocy dla MŚP na wspieranie innowacyjności są koszty:
 1)
@@ -157,6 +159,7 @@ usług wsparcia innowacji w zakresie znakowania, testowania lub certyfikacji.
 Intensywność pomocy dla MŚP na wspieranie innowacyjności nie przekracza 50 % kosztów kwalifikowalnych.
 2.
 W przypadku usług, o których mowa w § 17 pkt 2 i 3, intensywność pomocy zwiększa się na zasadach określonych w art. 28 ust. 4 rozporządzenia Komisji nr 651/2014.
+Pomoc inwestycyjna na ochronę środowiska, w tym obniżenie emisyjności
 § 19.
 1.
 Pomoc inwestycyjna na ochronę środowiska, w tym obniżenie emisyjności, jest udzielana na warunkach określonych w art. 36 ust. 1a zdanie trzecie, ust. 1b, ust. 2–2b i ust. 3 zdanie drugie rozporządzenia Komisji nr 651/2014.
@@ -183,6 +186,7 @@ b)
 województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego i zachodniopomorskiego oraz regionu mazowieckiego regionalnego obejmującego podregiony: ciechanowski, ostrołęcki, płocki, radomski, siedlecki i żyrardowski – o 15 punktów procentowych.
 § 22.
 Koszty kwalifikowalne, o których mowa w § 20, można określić również zgodnie z art. 36 ust. 11 zdanie pierwsze rozporządzenia Komisji nr 651/2014. W takim przypadku kosztami kwalifikowalnymi są koszty inwestycji bezpośrednio związane z osiągnięciem wyższego poziomu ochrony środowiska, a mające zastosowanie poziomy intensywności pomocy określone w § 21 zmniejsza się o 50 %.
+Pomoc inwestycyjna na środki wspierające efektywność energetyczną inną niż w budynkach
 § 23.
 1.
 Pomoc inwestycyjna na środki wspierające efektywność energetyczną inną niż w budynkach jest udzielana na realizację inwestycji umożliwiającej osiągnięcie wyższego poziomu tej efektywności w prowadzonej przez MŚP działalności gospodarczej, w tym na realizację inwestycji, o których mowa w art. 38 ust. 2 zdanie drugie rozporządzenia Komisji nr 651/2014.
@@ -201,6 +205,7 @@ mikroprzedsiębiorcy i małego przedsiębiorcy – 50 % kosztów kwalifikowalnyc
 Intensywność pomocy, o której mowa w ust. 1, zwiększa się na zasadach określonych w § 21 ust. 2 pkt 2.
 § 26.
 Koszty kwalifikowalne, o których mowa w § 24, można określić również zgodnie z art. 38 ust. 8 zdanie pierwsze rozporządzenia Komisji nr 651/2014. W takim przypadku kosztami kwalifikowalnymi są całkowite koszty inwestycji bezpośrednio związane z osiągnięciem wyższego poziomu ochrony środowiska, a mające zastosowanie poziomy intensywności pomocy określone w § 25 zmniejsza się o 50 %.
+Pomoc inwestycyjna na efektywne gospodarowanie zasobami i wspieranie przechodzenia na gospodarkę o obiegu zamkniętym
 § 27.
 1.
 Pomoc inwestycyjna na efektywne gospodarowanie zasobami i wspieranie przechodzenia na gospodarkę o obiegu zamkniętym jest udzielana na warunkach określonych w art. 47 ust. 2, 4 i 5 oraz ust. 10 zdanie drugie rozporządzenia Komisji nr 651/2014.
@@ -217,6 +222,7 @@ Intensywność pomocy inwestycyjnej na efektywne gospodarowanie zasobami i wspie
 mikroprzedsiębiorcy i małego przedsiębiorcy – 60 % kosztów kwalifikowalnych.
 2.
 Intensywność pomocy, o której mowa w ust. 1, zwiększa się na zasadach określonych w § 21 ust. 2 pkt 2.
+Pomoc de minimis
 § 30.
 1.
 Kosztami kwalifikowalnymi objętymi pomocą de minimis są koszty:
@@ -232,29 +238,50 @@ subskrypcji rozumianej jako odpłatny dostęp do oprogramowania, usługi lub pro
 promocji przedsięwzięcia lub rozwiązań, których przedsięwzięcie dotyczy – w wysokości nieprzekraczającej 2 % całkowitych kosztów kwalifikowalnych przedsięwzięcia.
 2.
 Intensywność pomocy de minimis nie może przekroczyć 85 % kosztów kwalifikowalnych, o których mowa w ust. 1.
+Tryb udzielania pomocy finansowej
 § 31.
 Polska Agencja Rozwoju Przedsiębiorczości udziela pomocy finansowej zgodnie z art. 14lza-14lzf ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
+Przepis końcowy
 § 32.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 2721). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 2721). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Regionalna pomoc inwestycyjna
+#### Rozdział 2 – Regionalna pomoc inwestycyjna
 
-#### Rozdział 3 Pomoc na usługi doradcze na rzecz MŚP
+#### Rozdział 3 – Pomoc na usługi doradcze na rzecz MŚP
 
-#### Rozdział 4 Pomoc dla MŚP na wspieranie innowacyjności
+#### Rozdział 4 – Pomoc dla MŚP na wspieranie innowacyjności
 
-#### Rozdział 5 Pomoc inwestycyjna na ochronę środowiska, w tym obniżenie emisyjności
+#### Rozdział 5 – Pomoc inwestycyjna na ochronę środowiska, w tym obniżenie emisyjności
 
-#### Rozdział 6 Pomoc inwestycyjna na środki wspierające efektywność energetyczną inną niż w budynkach
+#### Rozdział 6 – Pomoc inwestycyjna na środki wspierające efektywność energetyczną inną niż w budynkach
 
-#### Rozdział 7 Pomoc inwestycyjna na efektywne gospodarowanie zasobami i wspieranie przechodzenia na gospodarkę o obiegu zamkniętym
+#### Rozdział 7 – Pomoc inwestycyjna na efektywne gospodarowanie zasobami i wspieranie przechodzenia na gospodarkę o obiegu zamkniętym
 
-#### Rozdział 8 Pomoc de minimis
+#### Rozdział 8 – Pomoc de minimis
 
-#### Rozdział 9 Tryb udzielania pomocy finansowej
+#### Rozdział 9 – Tryb udzielania pomocy finansowej
 
-#### Rozdział 10 Przepis końcowy
+#### Rozdział 10 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
 

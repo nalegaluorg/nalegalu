@@ -23,7 +23,6 @@ source: "isap-pdf"
 | Status | akt posiada tekst jednolity |
 | W mocy | tak |
 | Data ogłoszenia | 1920-03-24 |
-| Wejście w życie | 1920-04-20 |
 | Ostatnia zmiana | 2026-03-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19200310178) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1920/178/text.pdf) |
 
@@ -130,6 +129,10 @@ source: "isap-pdf"
 
 **Art. 3f.** Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia:
 
+- **1)** rodzaje dokumentów, o których mowa art. 1a ust. 4,
+- **2)** szczegółowe informacje dotyczące okoliczności wskazanych we wniosku,
+- **3)** wzory oświadczeń składanych przez cudzoziemców związku z prowadzonym przez ministra właściwego do spraw wewnętrznych postępowaniem sprawie wydania zezwolenia oraz wykazów dołączanych do tych oświadczeń – uwzględniając zróżnicowany zakres informacji i dokumentów składanych przez cudzoziemców, o których mowa art. 1 ust. 2.
+
 **Art. 4.** Minister właściwy do spraw wewnętrznych przedstawia Sejmowi corocznie, terminie do dnia 31 marca, szczegółowe sprawozdanie z realizacji ustawy, a szczególności o liczbie udzielonych zezwoleń, rodzaju i obszarze oraz terytorialnym rozmieszczeniu nieruchomości, których one dotyczą, a także liczbie decyzji odmawiających udzielenia zezwolenia.
 
 **Art. 5.** Bez przedstawienia zezwolenia Ministra Spraw Wewnętrznych , a przypadku ustanowienia zezwoleniu specjalnych warunków – także dowodu z dokumentu urzędowego o ich spełnieniu, nie można dokonywać czynności prawnych oraz wpisów prawa własności i prawa użytkowania wieczystego.
@@ -155,6 +158,35 @@ source: "isap-pdf"
 5. Przepisów ustawy nie stosuje się do funduszu inwestycyjnego zamkniętego oraz specjalistycznego funduszu inwestycyjnego otwartego stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego rozumieniu przepisów ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2016 r. poz. 1896, z późn. zm. ).
 
 **Art. 7a.** (uchylony)
+
+- **1)** nabycie samodzielnego lokalu mieszkalnego rozumieniu ustawy z dnia 24 czerwca 1994 r. o własności lokali;
+- **1a)** nabycie samodzielnego lokalu użytkowego o przeznaczeniu garażowym lub udziału takim lokalu, jeżeli jest to związane z zaspokojeniem potrzeb mieszkaniowych nabywcy lub właściciela nieruchomości lub samodzielnego lokalu mieszkalnego;
+- **2)** nabycie nieruchomości przez cudzoziemca zamieszkującego Rzeczypospolitej Polskiej co najmniej 5 lat od udzielenia mu zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej;
+- **3)** nabycie przez cudzoziemca będącego małżonkiem obywatela polskiego i zamieszkującego Rzeczypospolitej Polskiej co najmniej 2 lata od udzielenia mu zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej nieruchomości, które wyniku nabycia stanowić będą wspólność ustawową małżonków;
+- **4)** nabycie przez cudzoziemca nieruchomości, jeżeli dniu nabycia jest uprawniony do dziedziczenia ustawowego rozumieniu prawa polskiego po zbywcy nieruchomości, a zbywca nieruchomości jest jej właścicielem lub wieczystym użytkownikiem co najmniej 5 lat;
+- **5)** nabycie przez podmiot, o którym mowa art. 1 ust. 2 pkt 4, na jego cele statutowe, nieruchomości niezabudowanych, których łączna powierzchnia całym kraju nie przekracza 0,4 ha na obszarze miast;
+- **6)** nabycie nieruchomości przez cudzoziemca, będącego bankiem i jednocześnie wierzycielem hipotecznym, trybie przejęcia nieruchomości na własność wyniku bezskutecznej licytacji postępowaniu egzekucyjnym;
+- **7)** nabycie lub objęcie przez bank będący osobą prawną określoną art. 1 ust. 2 pkt 4 akcji lub udziałów spółce, o której mowa art. 3e, związku z dochodzeniem przez ten bank roszczeń wynikających z dokonanych czynności bankowych.
+
+2. Nie jest wymagane uzyskanie zezwolenia przez cudzoziemców, będących obywatelami lub przedsiębiorcami państw – stron umowy o Europejskim Obszarze Gospodarczym albo Konfederacji Szwajcarskiej, z wyjątkiem nabycia: Rzeczypospolitej Polskiej do Unii Europejskiej;
+
+- **2)** drugiego domu, przez okres 5 lat od dnia przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej.
+
+2a. Nie jest wymagane uzyskanie zezwolenia przez cudzoziemców, będących obywatelami państw – stron umowy o Europejskim Obszarze Gospodarczym albo Konfederacji Szwajcarskiej okresach określonych ust. 2, przypadku:
+
+- **1)** nabycia nieruchomości rolnych położonych:
+    - **a)** województwach: dolnośląskim, kujawsko-pomorskim, lubuskim, opolskim, pomorskim, warmińsko-mazurskim, wielkopolskim, zachodniopomorskim – po upływie 7 lat od dnia zawarcia umowy dzierżawy z datą pewną, jeżeli przez ten okres osobiście prowadzili na tej nieruchomości działalność rolniczą oraz legalnie zamieszkiwali na terytorium Rzeczypospolitej Polskiej,
+    - **b)** województwach: lubelskim, łódzkim, małopolskim, mazowieckim, podkarpackim, podlaskim, śląskim, świętokrzyskim – po upływie 3 lat od dnia zawarcia umowy dzierżawy z datą pewną, jeżeli przez ten okres osobiście prowadzili na tej nieruchomości działalność rolniczą oraz legalnie zamieszkiwali na terytorium Rzeczypospolitej Polskiej;
+
+- **2)** nabycia drugiego domu:
+    - **a)** jeżeli nabywca legalnie, nieprzerwanie zamieszkuje co najmniej 4 lata na terytorium Rzeczypospolitej Polskiej lub
+    - **b)** celu wykonywania działalności gospodarczej polegającej na świadczeniu usług turystycznych, przy czym zwolnienie to nie obejmuje obywateli Konfederacji Szwajcarskiej.
+
+2b. Obywatele państw – stron umowy o Europejskim Obszarze Gospodarczym albo Konfederacji Szwajcarskiej, będący dniu uzyskania przez Rzeczpospolitą Polską członkostwa Unii Europejskiej udziałowcami lub akcjonariuszami spółek handlowych z siedzibą na terytorium Rzeczypospolitej Polskiej, mogą do okresów dzierżawy, o których mowa ust. 2a pkt 1, zaliczyć okres dzierżawy nieruchomości rolnej przez spółkę, jeżeli przez ten okres, będąc udziałowcami lub akcjonariuszami spółki, osobiście prowadzili na tej nieruchomości działalność rolniczą oraz legalnie zamieszkiwali na terytorium Rzeczypospolitej Polskiej. położonych strefie nadgranicznej oraz gruntów rolnych o powierzchni przekraczającej 1 ha.
+
+4. Minister właściwy do spraw wewnętrznych prowadzi rejestr nieruchomości, udziałów i akcji, nabytych lub objętych przez cudzoziemców bez zezwolenia przypadkach określonych ust. 1, 2 i 2a, oraz rejestr nieruchomości, udziałów i akcji nabytych lub objętych przez cudzoziemców na podstawie wymaganych zezwoleń, o których mowa art. 1 ust. 1 oraz art. 3e ust. 1 i 2.
+
+5. Rada Ministrów określi, drodze rozporządzenia, tryb postępowania i szczegółowe zasady prowadzenia rejestrów, o których mowa ust. 4.
 
 **Art. 8a.**
 

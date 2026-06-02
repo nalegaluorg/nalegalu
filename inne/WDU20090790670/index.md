@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 maja 2009 r. o zmianie ustawy o czasie pracy kierowców
+# Ustawa z dnia 7 maja 2009 r. o zmianie ustawy o czasie pracy kierowców Niniejsza ustawa w zakresie swojej regulacji wdraża postanowienia dyrektywy 2002/15/WE Parlamentu Europejskiego i Rady z dnia 11 marca 2002 r. w sprawie organizacji czasu pracy osób wykonujących czynności w trasie w zakresie transportu drogowego (Dz. Urz. UE L 80 z 23.03.2002, str. 35; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 4, str. 224).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-05-07 |
 | Data wydania | 2009-05-28 |
-| Wejście w życie | 2009-06-28 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090790670) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/670/text.pdf) |
 
@@ -49,5 +48,5 @@ source: "eli-html"
 - **1)** udostępnia kierowcy na jego wniosek;
 - **2)** przechowuje przez okres 3 lat po zakończeniu okresu nią objętego. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża postanowienia dyrektywy 2002/15/WE Parlamentu Europejskiego i Rady z dnia 11 marca 2002 r. w sprawie organizacji czasu pracy osób wykonujących czynności w trasie w zakresie transportu drogowego (Dz. Urz. UE L 80 z 23.03.2002, str. 35; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 4, str. 224).
 

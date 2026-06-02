@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 września 2015 r. o zmianie niektórych ustaw w związku ze wspieraniem polubownych metod rozwiązywania sporów
+# Ustawa z dnia 10 września 2015 r. o zmianie niektórych ustaw w związku ze wspieraniem polubownych metod rozwiązywania sporów Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 8 lipca 2005 r. o Prokuratorii Generalnej Skarbu Państwa, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych oraz ustawę z dnia 9 kwietnia 2015 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-10 |
 | Data wydania | 2015-10-13 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001595) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1595/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) wprowadza się następujące zmiany:
+Stali mediatorzy
+
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567 i 1587.) wprowadza się następujące zmiany:
 
 - **1)** art. 10 otrzymuje brzmienie: „
 
@@ -70,7 +71,7 @@ source: "eli-html"
 § 3. Jeżeli w przypadkach, o których mowa w § 2 pkt 1–3, strona wytoczy powództwo o roszczenie, które było objęte wnioskiem o przeprowadzenie mediacji, w terminie trzech miesięcy od dnia:
 
 - **1)** w którym mediator lub druga strona złożyli oświadczenie powodujące, że mediacja nie została wszczęta albo
-- **2)** następnego po upływie tygodnia od dnia doręczenia wniosku o przeprowadzenie mediacji, gdy mediator lub druga strona nie złożyli oświadczenia, o którym mowa w pkt 1 w odniesieniu do tego roszczenia zostają zachowane skutki przewidziane dla wszczęcia mediacji. ” ;
+- **2)** następnego po upływie tygodnia od dnia doręczenia wniosku o przeprowadzenie mediacji, gdy mediator lub druga strona nie złożyli oświadczenia, o którym mowa w pkt 1 – w odniesieniu do tego roszczenia zostają zachowane skutki przewidziane dla wszczęcia mediacji. ” ;
 - **10)** art. 1838 i art. 1839 otrzymują brzmienie: „
 
 **Art. 1838.**
@@ -163,7 +164,7 @@ source: "eli-html"
 
 § 3. Od prawomocnego postanowienia sądu w przedmiocie uznania albo stwierdzenia wykonalności wyroku sądu polubownego wydanego za granicą lub ugody zawartej przed sądem polubownym za granicą przysługuje skarga kasacyjna. Można także żądać wznowienia postępowania zakończonego prawomocnym postanowieniem w przedmiocie uznania albo stwierdzenia wykonalności oraz stwierdzenia niezgodności z prawem prawomocnego postanowienia wydanego w tym przedmiocie. ” .
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863 oraz z 2015 r. poz. 73, 211, 251, 478, 693, 699, 860, 933, 978, 1197, 1217, 1259, 1296, 1321, 1322, 1333 i 1569.) wprowadza się następujące zmiany:
 
 - **1)** w art. 14: w ust. 1c wprowadzenie do wyliczenia otrzymuje brzmienie: „ Za datę powstania przychodu, o którym mowa w ust. 1, uważa się, z zastrzeżeniem ust. 1e, 1h-1j i 1n-1p, dzień wydania rzeczy, zbycia prawa majątkowego lub wykonania usługi, albo częściowego wykonania usługi, nie później niż dzień: ” , po ust. 1l dodaje się ust. 1m-1p w brzmieniu: „
     - **a)**
@@ -187,7 +188,7 @@ source: "eli-html"
 
 7f. Jeżeli korekta, o której mowa w ust. 7c, następuje po likwidacji pozarolniczej działalności gospodarczej, likwidacji działów specjalnych produkcji rolnej albo zmianie formy opodatkowania na zryczałtowaną formę opodatkowania określoną w ustawie o zryczałtowanym podatku dochodowym albo ustawie z dnia 24 sierpnia 2006 r. o podatku tonażowym, lub zmianie zasad ustalania dochodu w odniesieniu do działów specjalnych produkcji rolnej, zmniejszenia lub zwiększenia kosztów uzyskania przychodów dokonuje się w ostatnim okresie rozliczeniowym przed likwidacją pozarolniczej działalności gospodarczej lub działów specjalnych produkcji rolnej, zmianą formy opodatkowania lub zmianą zasad ustalania dochodu w odniesieniu do działów specjalnych produkcji rolnej. ” .
 
-**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662 oraz z 2015 r. poz. 73, 211, 933, 978, 1166, 1197, 1259, 1296 i 1348.) wprowadza się następujące zmiany:
 
 - **1)** w art. 12: w ust. 3a wprowadzenie do wyliczenia otrzymuje brzmienie: „ Za datę powstania przychodu, o którym mowa w ust. 3, uważa się, z zastrzeżeniem ust. 3c-3g oraz 3j-3m, dzień wydania rzeczy, zbycia prawa majątkowego lub wykonania usługi, albo częściowego wykonania usługi, nie później niż dzień: ” , po ust. 3i dodaje się ust. 3j-3m w brzmieniu: „
     - **a)**
@@ -211,7 +212,7 @@ source: "eli-html"
 
 4l. Jeżeli korekta, o której mowa w ust. 4i, następuje po zmianie formy opodatkowania na zryczałtowaną formę opodatkowania określoną w ustawie z dnia 24 sierpnia 2006 r. o podatku tonażowym, zmniejszenia lub zwiększenia kosztów uzyskania przychodów dokonuje się w ostatnim okresie rozliczeniowym przed zmianą formy opodatkowania. ” .
 
-**Art. 4.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324, z 2001 r. Nr 74, poz. 784, Nr 88, poz. 961, Nr 125, poz. 1363 i 1369 i Nr 134, poz. 1509, z 2002 r. Nr 141, poz. 1183, Nr 169, poz. 1384, Nr 172, poz. 1412 i Nr 200, poz. 1679, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 135, poz. 1268, Nr 137, poz. 1302 i Nr 202, poz. 1958, z 2004 r. Nr 210, poz. 2135 i Nr 263, poz. 2619, z 2005 r. Nr 143, poz. 1199, Nr 164, poz. 1366 i Nr 169, poz. 1420, z 2006 r. Nr 183, poz. 1353 i Nr 217, poz. 1588, z 2008 r. Nr 141, poz. 888, Nr 143, poz. 894 i Nr 209, poz. 1316, z 2009 r. Nr 157, poz. 1241 i Nr 201, poz. 1541, z 2010 r. Nr 3, poz. 13, Nr 28, poz. 146, Nr 75, poz. 473, Nr 219, poz. 1442 i Nr 226, poz. 1478, z 2011 r. Nr 106, poz. 622 i Nr 131, poz. 764, z 2012 r. poz. 1529 i 1540, z 2014 r. poz. 223, 1328 i 1563 oraz z 2015 r. poz. 211, 699, 978 i 1333.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -226,7 +227,7 @@ source: "eli-html"
 
 1a. Podatnicy będący przedsiębiorcami żeglugowymi w rozumieniu ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym prowadzący działalność opodatkowaną podatkiem tonażowym oraz inną działalność opodatkowaną ryczałtem od przychodów ewidencjonowanych są obowiązani w ewidencji wyodrębnić przychody podlegające opodatkowaniu podatkiem tonażowym i ryczałtem od przychodów ewidencjonowanych. ” .
 
-**Art. 5.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311 i 1418.) wprowadza się następujące zmiany:
 
 - **1)** po art. 16 dodaje się art. 16a w brzmieniu: „
 
@@ -241,11 +242,11 @@ source: "eli-html"
 - **2)** tytuł działu IV otrzymuje brzmienie: „Referendarze sądowi, kuratorzy sądowi, pracownicy sądów, stali mediatorzy, ławnicy oraz organy pomocnicze sądów”;
 - **3)** w dziale IV po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „
 
-#### Rozdział 6a Stali mediatorzy
+#### Rozdział 6a
 
 **Art. 157a.** Stałym mediatorem może być osoba fizyczna, która:
 
-- **1)** spełnia warunki określone w art. 1832 § 1 i 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.);
+- **1)** spełnia warunki określone w art. 1832 § 1 i 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587 i 1595.);
 - **2)** ma wiedzę i umiejętności w zakresie prowadzenia mediacji;
 - **3)** ukończyła 26 lat;
 - **4)** zna język polski;
@@ -291,13 +292,13 @@ source: "eli-html"
 
 - **1)** każdej zmianie imienia lub nazwiska oraz danych lub informacji, o których mowa w § 2 pkt 2–4 oraz § 3,
 - **2)** okolicznościach, o których mowa w art. 157c § 1 pkt 3 i 4,
-- **3)** umieszczeniu na liście, o której mowa w § 4 w terminie 14 dni od dnia zaistnienia zdarzenia powodującego obowiązek zawiadomienia. Prezes sądu okręgowego udostępnia sądom oraz innym podmiotom w siedzibie sądu oraz zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej sądu aktualną listę stałych mediatorów. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób prowadzenia listy stałych mediatorów, tryb wpisywania i skreślania z listy, zamieszczania na liście i aktualizacji danych i informacji, sposób potwierdzania spełnienia warunków wpisywania na listę, wzór formularza wniosku o wpis na listę stałych mediatorów, a także rodzaje dokumentów załączanych do wniosku, uwzględniając potrzebę zapewnienia wiarygodnej i aktualnej informacji o stałych mediatorach, jednolitości wniosków i sprawnego przebiegu procedury wpisu na listę stałych mediatorów. ” .
+- **3)** umieszczeniu na liście, o której mowa w § 4 – w terminie 14 dni od dnia zaistnienia zdarzenia powodującego obowiązek zawiadomienia. Prezes sądu okręgowego udostępnia sądom oraz innym podmiotom w siedzibie sądu oraz zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej sądu aktualną listę stałych mediatorów. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób prowadzenia listy stałych mediatorów, tryb wpisywania i skreślania z listy, zamieszczania na liście i aktualizacji danych i informacji, sposób potwierdzania spełnienia warunków wpisywania na listę, wzór formularza wniosku o wpis na listę stałych mediatorów, a także rodzaje dokumentów załączanych do wniosku, uwzględniając potrzebę zapewnienia wiarygodnej i aktualnej informacji o stałych mediatorach, jednolitości wniosków i sprawnego przebiegu procedury wpisu na listę stałych mediatorów. ” .
 
-**Art. 6.** W ustawie z dnia 8 lipca 2005 r. o Prokuratorii Generalnej Skarbu Państwa (Dz. U. z 2013 r. poz. 1150, z późn. zm.) w art. 8 w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+**Art. 6.** W ustawie z dnia 8 lipca 2005 r. o Prokuratorii Generalnej Skarbu Państwa (Dz. U. z 2013 r. poz. 1150, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1247 oraz z 2015 r. poz. 1064, 1224 i 1311.) w art. 8 w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
 
 - **4)** w sprawach o uchylenie wyroku sądu polubownego oraz uznanie albo stwierdzenie wykonalności wyroku sądu polubownego lub ugody przed nim zawartej. ” .
 
-**Art. 7.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4, 238, 539, 957, 978, 1045, 1137, 1348, 1418 i 1587.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 w ust. 1 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „
 - **11)** koszty mediacji prowadzonej na skutek skierowania przez sąd. ” ;
@@ -346,5 +347,5 @@ source: "eli-html"
 
 **Art. 12.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 981 § 4 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 981§ 4 tej ustawy, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 13.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem art. 8, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 13.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem art. 8, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 8 lipca 2005 r. o Prokuratorii Generalnej Skarbu Państwa, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych oraz ustawę z dnia 9 kwietnia 2015 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567 i 1587. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863 oraz z 2015 r. poz. 73, 211, 251, 478, 693, 699, 860, 933, 978, 1197, 1217, 1259, 1296, 1321, 1322, 1333 i 1569. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662 oraz z 2015 r. poz. 73, 211, 933, 978, 1166, 1197, 1259, 1296 i 1348. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324, z 2001 r. Nr 74, poz. 784, Nr 88, poz. 961, Nr 125, poz. 1363 i 1369 i Nr 134, poz. 1509, z 2002 r. Nr 141, poz. 1183, Nr 169, poz. 1384, Nr 172, poz. 1412 i Nr 200, poz. 1679, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 135, poz. 1268, Nr 137, poz. 1302 i Nr 202, poz. 1958, z 2004 r. Nr 210, poz. 2135 i Nr 263, poz. 2619, z 2005 r. Nr 143, poz. 1199, Nr 164, poz. 1366 i Nr 169, poz. 1420, z 2006 r. Nr 183, poz. 1353 i Nr 217, poz. 1588, z 2008 r. Nr 141, poz. 888, Nr 143, poz. 894 i Nr 209, poz. 1316, z 2009 r. Nr 157, poz. 1241 i Nr 201, poz. 1541, z 2010 r. Nr 3, poz. 13, Nr 28, poz. 146, Nr 75, poz. 473, Nr 219, poz. 1442 i Nr 226, poz. 1478, z 2011 r. Nr 106, poz. 622 i Nr 131, poz. 764, z 2012 r. poz. 1529 i 1540, z 2014 r. poz. 223, 1328 i 1563 oraz z 2015 r. poz. 211, 699, 978 i 1333. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311 i 1418. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587 i 1595. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1247 oraz z 2015 r. poz. 1064, 1224 i 1311. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4, 238, 539, 957, 978, 1045, 1137, 1348, 1418 i 1587.
 

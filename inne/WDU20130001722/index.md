@@ -22,23 +22,24 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-20 |
 | Data wydania | 2013-12-31 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2025-06-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001722) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1722/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Zwolnienia od podatku oraz szczegółowe warunki stosowania tych zwolnień Rozdział 3 – Przepisy przejściowe i przepis końcowy
+Treść rozporządzenia
 Załącznik – Towary będące przedmiotem importu, przeznaczone na zaopatrzenie barów, mes i kantyn kwatery oraz barów, mes i kantyn Centrum Szkolenia Sił Połączonych w Bydgoszczy zlokalizowanych na jego terenie
 Treść rozporządzenia
-Na podstawie art. 82 ust. 3 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 82 ust. 3 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530 oraz z 2013 r. poz. 35, 1027 i 1608.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa inne niż określone w art. 43–81 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, zwanej dalej „ustawą”, zwolnienia od podatku od towarów i usług, zwanego dalej „podatkiem”, oraz szczegółowe warunki stosowania tych zwolnień.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o podmiotach, rozumie się przez to osoby prawne, jednostki organizacyjne niemające osobowości prawnej oraz osoby fizyczne.
+Zwolnienia od podatku oraz szczegółowe warunki stosowania tych zwolnień
 § 3.
 1.
 Zwalnia się od podatku:
 1)
-dostawę towarów, z wyłączeniem towarów wymienionych w załączniku nr 1 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2011 r. Nr 108, poz. 626, z późn. zm.), dokonywaną przez organizację pożytku publicznego, o której mowa w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm.), zwaną dalej „organizacją pożytku publicznego”, jeżeli towary te zostały nabyte przez tę organizację pożytku publicznego:
+dostawę towarów, z wyłączeniem towarów wymienionych w załączniku nr 1 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2011 r. Nr 108, poz. 626, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 120, poz. 690, Nr 171, poz. 1016, Nr 205, poz. 1208, Nr 232, poz. 1378 i Nr 291, poz. 1707, z 2012 r. poz. 1342 i 1456 oraz z 2013 r. poz. 939, 1231 i 1645.), dokonywaną przez organizację pożytku publicznego, o której mowa w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378.), zwaną dalej „organizacją pożytku publicznego”, jeżeli towary te zostały nabyte przez tę organizację pożytku publicznego:
 a)
 w drodze darowizny otrzymanej w związku z prowadzoną zbiórką publiczną, o której mowa w ustawie z dnia 15 marca 1933 r. o zbiórkach publicznych (Dz. U. z 2013 r. poz. 732), zwaną dalej „zbiórką publiczną”,
 b)
@@ -52,8 +53,7 @@ import towarów objętych:
 a)
 procedurą tranzytu, składu celnego, przetwarzania pod kontrolą celną, w rozumieniu przepisów celnych,
 b)
-procedurą dopuszczenia do obrotu uprzednio wywiezionych w ramach procedury uszlachetniania biernego, jeżeli proces uszlachetniania ma na celu naprawę towarów, a naprawa dokonywana jest nieodpłatnie w wykonaniu umowy gwarancyjnej
-pod warunkiem że na podstawie przepisów celnych nie powstał obowiązek uiszczenia cła;
+procedurą dopuszczenia do obrotu uprzednio wywiezionych w ramach procedury uszlachetniania biernego, jeżeli proces uszlachetniania ma na celu naprawę towarów, a naprawa dokonywana jest nieodpłatnie w wykonaniu umowy gwarancyjnej – pod warunkiem że na podstawie przepisów celnych nie powstał obowiązek uiszczenia cła;
 5)
 import paliwa, zwolnionego od cła na podstawie przepisów celnych, przewożonego w standardowym zbiorniku środka transportu przeznaczonego do działalności gospodarczej, o którym mowa w art. 77 ust. 2 pkt 2 ustawy, w ilości nieprzekraczającej 600 litrów;
 6)
@@ -65,18 +65,17 @@ jednostkami budżetowymi,
 b)
 samorządowymi zakładami budżetowymi,
 c)
-jednostkami budżetowymi i samorządowymi zakładami budżetowymi
-z wyjątkiem usług wymienionych w poz. 140–153, 174 i 175 załącznika nr 3 do ustawy oraz usług komunikacji miejskiej;
+jednostkami budżetowymi i samorządowymi zakładami budżetowymi – z wyjątkiem usług wymienionych w poz. 140–153, 174 i 175 załącznika nr 3 do ustawy oraz usług komunikacji miejskiej;
 8)
-usługi obozów, kolonii lub usługi o podobnym charakterze, organizowane przez szkoły i inne jednostki objęte ustawą z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.), świadczone wyłącznie na rzecz dzieci i młodzieży z tych szkół i jednostek;
+usługi obozów, kolonii lub usługi o podobnym charakterze, organizowane przez szkoły i inne jednostki objęte ustawą z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979 oraz z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650.), świadczone wyłącznie na rzecz dzieci i młodzieży z tych szkół i jednostek;
 9)
 czynności wykonywane na rzecz osób niebędących członkami spółdzielni, którym przysługują spółdzielcze własnościowe prawa do lokali mieszkalnych, za które są pobierane opłaty zgodnie z art. 4 ust. 1, 2, 4 i 5 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2013 r. poz. 1222);
 10)
 czynności związane z utrzymaniem lokali mieszkalnych, wykorzystywanych wyłącznie na cele mieszkaniowe, za które pobierane są opłaty, wykonywane przez wspólnotę mieszkaniową na rzecz właścicieli tych lokali, tworzących w określonej nieruchomości tę wspólnotę;
 11)
-czynności wykonywane przez wspólnotę mieszkaniową lub właścicieli lokali mieszkalnych tworzących w określonej nieruchomości wspólnotę mieszkaniową, na rzecz osób używających na podstawie innego tytułu prawnego niż prawo własności lokale należące do właścicieli tworzących tę wspólnotę mieszkaniową, za które pobierane są opłaty niezależne od właściciela w rozumieniu ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2005 r. Nr 31, poz. 266, z późn. zm.) lub opłaty pośrednie w rozumieniu ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2010 r. Nr 206, poz. 1367, z późn. zm.), jeżeli lokale te są wykorzystywane wyłącznie na cele mieszkaniowe;
+czynności wykonywane przez wspólnotę mieszkaniową lub właścicieli lokali mieszkalnych tworzących w określonej nieruchomości wspólnotę mieszkaniową, na rzecz osób używających na podstawie innego tytułu prawnego niż prawo własności lokale należące do właścicieli tworzących tę wspólnotę mieszkaniową, za które pobierane są opłaty niezależne od właściciela w rozumieniu ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2005 r. Nr 31, poz. 266, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 69, poz. 626, z 2006 r. Nr 86, poz. 602, Nr 167, poz. 1193 i Nr 249, poz. 1833, z 2007 r. Nr 128, poz. 902 i Nr 173, poz. 1218, z 2010 r. Nr 3, poz. 13, z 2011 r. Nr 224, poz. 1342, z 2012 r. poz. 951 oraz z 2013 r. poz. 1304.) lub opłaty pośrednie w rozumieniu ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2010 r. Nr 206, poz. 1367, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 22, poz. 114 i Nr 185, poz. 1092 oraz z 2012 r. poz. 908.), jeżeli lokale te są wykorzystywane wyłącznie na cele mieszkaniowe;
 12)
-usługi o podwyższonej opłacie, o których mowa w ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.), świadczone w celu zebrania środków pieniężnych w trakcie zbiórki publicznej organizowanej przez organizację pożytku publicznego, z wyjątkiem usług przedpłaconych;
+usługi o podwyższonej opłacie, o których mowa w ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716, z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 229, poz. 1499 i Nr 238, poz. 1578, z 2011 r. Nr 102, poz. 586 i 587, Nr 134, poz. 779, Nr 153, poz. 903, Nr 171, poz. 1016, Nr 233, poz. 1381 i Nr 234, poz. 1390, z 2012 r. poz. 908, 1203, 1256, 1445 i 1529 oraz z 2013 r. poz. 1635.), świadczone w celu zebrania środków pieniężnych w trakcie zbiórki publicznej organizowanej przez organizację pożytku publicznego, z wyjątkiem usług przedpłaconych;
 13)
 usługi w zakresie kształcenia, inne niż wymienione w art. 43 ust. 1 pkt 26 ustawy, świadczone przez uczelnie, jednostki naukowe Polskiej Akademii Nauk oraz instytuty badawcze oraz świadczenie usług i dostawę towarów ściśle z tymi usługami związane;
 14)
@@ -96,7 +95,7 @@ podmioty, o których mowa w zdaniu wstępnym, nie naruszają przepisów o zbiór
 18)
 usługi w zakresie opieki medycznej, służące profilaktyce, zachowaniu, ratowaniu, przywracaniu i poprawie zdrowia, oraz dostawę towarów i świadczenie usług ściśle z tymi usługami związane, wykonywane przez uczelnie medyczne;
 19)
-usługi turnusów rehabilitacyjnych w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.) świadczone na zasadach określonych w tej ustawie oraz dostawę towarów i świadczenie usług ściśle z tymi usługami związane, wykonywane przez podmioty inne niż wymienione w art. 43 ust. 1 pkt 18 ustawy;
+usługi turnusów rehabilitacyjnych w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456 oraz z 2013 r. poz. 73, 675, 791, 1446 i 1645.) świadczone na zasadach określonych w tej ustawie oraz dostawę towarów i świadczenie usług ściśle z tymi usługami związane, wykonywane przez podmioty inne niż wymienione w art. 43 ust. 1 pkt 18 ustawy;
 20)
 dostawę samochodów osobowych i innych pojazdów samochodowych przez podatników, którym przy nabyciu tych samochodów i pojazdów przysługiwało prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego w wysokości 50%lub 60% kwoty podatku:
 a)
@@ -106,8 +105,7 @@ wynikającej z dokumentu celnego, z uwzględnieniem kwot wynikających z decyzji
 c)
 należnego z tytułu wewnątrzwspólnotowego nabycia towarów, lub
 d)
-należnego od dostawy towarów, dla której podatnikiem jest nabywca
-nie więcej jednak niż odpowiednio 5 000 zł lub 6 000 zł.
+należnego od dostawy towarów, dla której podatnikiem jest nabywca – nie więcej jednak niż odpowiednio 5 000 zł lub 6 000 zł.
 2.
 Zwolnienie, o którym mowa w ust. 1 pkt 1, stosuje się, pod warunkiem że:
 1)
@@ -265,6 +263,7 @@ towary przeznaczone są do odprzedaży w składzie celnym podatnikowi, o którym
 towary znajdują się pod dozorem celnym i zostały ujęte w ewidencji towarowej, prowadzonej zgodnie z odrębnymi przepisami;
 3)
 podatnik złoży najpóźniej w terminie określonym do złożenia deklaracji podatkowej składanej za okres, w którym powstał obowiązek podatkowy od wewnątrzwspólnotowego nabycia towarów, do których ma zastosowanie ust. 1, informację o skorzystaniu ze zwolnienia od podatku; informacja powinna określać wartość towarów objętych tym zwolnieniem.
+Przepisy przejściowe i przepis końcowy
 § 7.
 1.
 Zwalnia się od podatku import rzeczy osobistego użytku, o których mowa w art. 46 pkt 3 ustawy, w przypadku gdy rzeczy te zostały przywiezione z terytorium Wspólnoty przed rozszerzeniem w rozumieniu art. 170 ust. 1 pkt 1 ustawy, lub z terytorium nowych państw członkowskich w rozumieniu art. 170 ust. 1 pkt 2 ustawy, na terytorium kraju przed dniem 1 maja 2004 r. i w dniu 1 maja 2004 r. pozostawały w dalszym ciągu na terytorium kraju objęte procedurą odprawy czasowej z całkowitym zwolnieniem od należności celnych przywozowych, która to procedura kończy się dopuszczeniem do obrotu tych rzeczy na terytorium kraju.
@@ -337,16 +336,21 @@ Za środki bezzwrotnej pomocy zagranicznej, o których mowa w ust. 1 pkt 1 i 2, 
 1)
 umów zawartych z Rządem Rzeczypospolitej Polskiej,
 2)
-jednostronnych deklaracji rządów i organizacji międzynarodowych udzielających pomocy
-z wyłączeniem środków pochodzących z budżetu Unii Europejskiej oraz przypadków, kiedy umowa nie wyłącza możliwości opłacania podatku ze środków finansowych bezzwrotnej pomocy zagranicznej.
+jednostronnych deklaracji rządów i organizacji międzynarodowych udzielających pomocy – z wyłączeniem środków pochodzących z budżetu Unii Europejskiej oraz przypadków, kiedy umowa nie wyłącza możliwości opłacania podatku ze środków finansowych bezzwrotnej pomocy zagranicznej.
 § 13.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 4 kwietnia 2011 r. w sprawie wykonania niektórych przepisów ustawy o podatku od towarów i usług (Dz. U. z 2013 r. poz. 247 i 362), które w zakresie dotyczącym zwolnień od podatku oraz warunków stosowania tych zwolnień traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 13 ustawy z dnia 7 grudnia 2012 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. z 2013 r. poz. 35, 1027 i 1608). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530 oraz z 2013 r. poz. 35, 1027 i 1608. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 120, poz. 690, Nr 171, poz. 1016, Nr 205, poz. 1208, Nr 232, poz. 1378 i Nr 291, poz. 1707, z 2012 r. poz. 1342 i 1456 oraz z 2013 r. poz. 939, 1231 i 1645. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979 oraz z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 69, poz. 626, z 2006 r. Nr 86, poz. 602, Nr 167, poz. 1193 i Nr 249, poz. 1833, z 2007 r. Nr 128, poz. 902 i Nr 173, poz. 1218, z 2010 r. Nr 3, poz. 13, z 2011 r. Nr 224, poz. 1342, z 2012 r. poz. 951 oraz z 2013 r. poz. 1304. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 22, poz. 114 i Nr 185, poz. 1092 oraz z 2012 r. poz. 908. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716, z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 229, poz. 1499 i Nr 238, poz. 1578, z 2011 r. Nr 102, poz. 586 i 587, Nr 134, poz. 779, Nr 153, poz. 903, Nr 171, poz. 1016, Nr 233, poz. 1381 i Nr 234, poz. 1390, z 2012 r. poz. 908, 1203, 1256, 1445 i 1529 oraz z 2013 r. poz. 1635. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456 oraz z 2013 r. poz. 73, 675, 791, 1446 i 1645. 10) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 4 kwietnia 2011 r. w sprawie wykonania niektórych przepisów ustawy o podatku od towarów i usług (Dz. U. z 2013 r. poz. 247 i 362), które w zakresie dotyczącym zwolnień od podatku oraz warunków stosowania tych zwolnień traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 13 ustawy z dnia 7 grudnia 2012 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. z 2013 r. poz. 35, 1027 i 1608).
 Załącznik – Towary będące przedmiotem importu, przeznaczone na zaopatrzenie barów, mes i kantyn kwatery oraz barów, mes i kantyn Centrum Szkolenia Sił Połączonych w Bydgoszczy zlokalizowanych na jego terenie
 Lp. Rodzaj Kod CN Ilość 1 2 3 4 1 Piwo otrzymywane ze słodu 2203 00 35 000 litrów miesięcznie 2 Wina i wyroby winiarskie: 1) wino ze świeżych winogron włącznie z winami wzmocnionymi ex 2204 2) wermut i pozostałe wina ze świeżych winogron aromatyzowane roślinami lub substancjami aromatycznymi 2205 25 000 litrów miesięcznie 3) pozostałe napoje fermentowane (np. cydr (cidr), perry i miód pitny) ex 2206 00 3 Wyroby spirytusowe: 1) alkohol etylowy nieskażony o objętościowej mocy alkoholu 80% obj. lub większej 2207 10 00 2) alkohol etylowy nieskażony o objętościowej mocy alkoholu mniejszej niż 80% obj.; wódki, likiery i pozostałe napoje spirytusowe 2208 10 000 litrów miesięcznie 4 Wyroby tytoniowe: 1) cygara, nawet z obciętymi końcami, cygaretki i papierosy, z tytoniu lub namiastek tytoniu 2402 600 000 sztuk miesięcznie 2) tytoń do palenia, nawet zawierający namiastki tytoniu w każdej proporcji 2403 11 00, 2403 19 200 kg miesięcznie 5 Pozostałe towary w ilościach zapewniających bieżącą działalność barów, mes i kantyn, prowadzonych przez Kwaterę lub Centrum Szkolenia Sił Połączonych w Bydgoszczy, zlokalizowanych na jego terenie
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Zwolnienia od podatku oraz szczegółowe warunki stosowania tych zwolnień
+#### Rozdział 2 – Zwolnienia od podatku oraz szczegółowe warunki stosowania tych zwolnień
 
-#### Rozdział 3 Przepisy przejściowe i przepis końcowy
+#### Rozdział 3 – Przepisy przejściowe i przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 

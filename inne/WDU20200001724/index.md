@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 24 września 2020 r. w sprawie dopuszczania instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym
+# Rozporządzenie Ministra Finansówz dnia 24 września 2020 r. w sprawie dopuszczania instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-24 |
 | Data wydania | 2020-10-07 |
-| Wejście w życie | 2020-10-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001724) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1724/text.pdf) |
 
@@ -183,6 +182,5 @@ Zmianę danych zawartych w warunkach obrotu spółka prowadząca rynek regulowan
 § 19.
 Do wniosków o zatwierdzenie warunków obrotu złożonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 20.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 11 października 2005 r. w sprawie dopuszczania instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym (Dz. U. poz. 1699), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 45 pkt 2 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217 oraz z 2020 r. poz. 288 i 695).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 11 października 2005 r. w sprawie dopuszczania instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym (Dz. U. poz. 1699), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 45 pkt 2 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217 oraz z 2020 r. poz. 288 i 695). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 11 października 2005 r. w sprawie dopuszczania instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym (Dz. U. poz. 1699), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 45 pkt 2 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217 oraz z 2020 r. poz. 288 i 695).
 

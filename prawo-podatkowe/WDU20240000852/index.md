@@ -22,16 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-09 |
 | Data wydania | 2024-06-10 |
-| Wejście w życie | 2024-07-01 |
 | Ostatnia zmiana | 2024-06-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000852) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/852/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 16 czerwca 2023 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1598) wprowadza się następujące zmiany:
 
-- **1)** w art. 1: w pkt 34: – w art. 145l: – – ust. 1 otrzymuje brzmienie: „ 1. W okresie od dnia 1 lutego 2026 r. do dnia 31 lipca 2026 r. podatnicy obowiązani do wystawiania faktur ustrukturyzowanych dokonujący czynności dokumentowanych fakturami, o których mowa w art. 106e ust. 5 pkt 3, w tym paragonami fiskalnymi uznanymi za faktury, mogą wystawiać faktury elektroniczne lub faktury w postaci papierowej. ” , – – w ust. 2 wyrazy „od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r.” zastępuje się wyrazami „od dnia 1 lutego 2026 r. do dnia 31 lipca 2026 r.”, – w art. 145m wyrazy „od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r.” zastępuje się wyrazami „od dnia 1 lutego 2026 r. do dnia 31 lipca 2026 r.”, uchyla się pkt 35;
+- **1)** w art. 1: w pkt 34: w art. 145l: – ust. 1 otrzymuje brzmienie: „
     - **a)**
-    - **b)**
 
+1. W okresie od dnia 1 lutego 2026 r. do dnia 31 lipca 2026 r. podatnicy obowiązani do wystawiania faktur ustrukturyzowanych dokonujący czynności dokumentowanych fakturami, o których mowa w art. 106e ust. 5 pkt 3, w tym paragonami fiskalnymi uznanymi za faktury, mogą wystawiać faktury elektroniczne lub faktury w postaci papierowej. ” , – – w ust. 2 wyrazy „od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r.” zastępuje się wyrazami „od dnia 1 lutego 2026 r. do dnia 31 lipca 2026 r.”, – w art. 145m wyrazy „od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r.” zastępuje się wyrazami „od dnia 1 lutego 2026 r. do dnia 31 lipca 2026 r.”, uchyla się pkt 35;
+
+- **b)**
 - **2)** w art. 13 wyrazy „po dniu 30 czerwca 2024 r.” zastępuje się wyrazami „po dniu 31 stycznia 2026 r.”;
 - **3)** w art. 17 wyrazy „od dnia 1 stycznia 2025 r.” zastępuje się wyrazami „od dnia 1 sierpnia 2026 r.”;
 - **4)** użyte w art. 18 w ust. 2, w art. 19 w ust. 2 oraz w art. 20 w ust. 2 wyrazy „od dnia wejścia w życie niniejszej ustawy.” zastępuje się wyrazami „od dnia 1 lipca 2024 r.”;

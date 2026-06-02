@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-01-15 |
 | Data wydania | 2024-01-25 |
-| Wejście w życie | 2024-01-26 |
 | Ostatnia zmiana | 2026-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000091) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/91/text.pdf) |
 
@@ -48,8 +47,7 @@ Organom prowadzącym:
 1)
 publiczne szkoły podstawowe, o których mowa w art. 2 pkt 2 lit. a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672, 1718 i 2005),
 2)
-publiczne szkoły artystyczne realizujące kształcenie ogólne w zakresie szkoły podstawowej
-zwane dalej „szkołami”, może być udzielone wsparcie finansowe ze środków budżetu państwa, zwane dalej „wsparciem finansowym”.
+publiczne szkoły artystyczne realizujące kształcenie ogólne w zakresie szkoły podstawowej – zwane dalej „szkołami”, może być udzielone wsparcie finansowe ze środków budżetu państwa, zwane dalej „wsparciem finansowym”.
 2.
 Wsparcie finansowe jest udzielane na realizację zadania obejmującego:
 1)
@@ -135,7 +133,7 @@ pkt 4 – 25 000 zł.
 2.
 Wydatki ponoszone z dotacji, o której mowa w § 3 ust. 2, w ramach realizacji zadania, o którym mowa w § 2 ust. 2, objętego wsparciem finansowym, stanowią wydatki bieżące organów prowadzących, o których mowa w § 3 ust. 1 pkt 1–3.
 3.
-Wsparcie finansowe nie może być wykorzystane na pokrycie wydatków, o których mowa w ust. 2, dofinansowanych ze środków europejskich w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.).
+Wsparcie finansowe nie może być wykorzystane na pokrycie wydatków, o których mowa w ust. 2, dofinansowanych ze środków europejskich w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.).
 4.
 Do wydatków ponoszonych w ramach wkładu własnego, o którym mowa w § 3 ust. 3, w ramach realizacji zadania, o którym mowa w § 2 ust. 2, objętego wsparciem finansowym, zalicza się wydatki majątkowe organów prowadzących, o których mowa w § 3 ust. 1 pkt 1–3.
 § 5.
@@ -571,7 +569,7 @@ Formularz sprawozdania, o którym mowa w ust. 1, jest publikowany na stronach in
 § 18.
 Dla celów bieżącego monitoringu realizacji zadań w ramach modułu 3 Programu, na żądanie ministra właściwego do spraw oświaty i wychowania, szkoły, organy prowadzące szkoły i wojewodowie są obowiązani do udzielania informacji i wypełniania drogą elektroniczną ankiet dotyczących realizacji zadań w ramach modułu 3 Programu.
 § 19.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.
 Załącznik – Maksymalne kwoty środków budżetu państwa na realizację zadań w ramach modułu 3 programu przypadające na poszczególne województwa
 Województwo Rok 2024 Rok 2025 Rok 2026 Rok 2027 Rok 2028 Ogółem lata 2024–2028 Środki na realizację zadań w ramach modułu 3 Programu (zł) w tym środki na obsługę realizacji zadań w ramach modułu 3 Programu (zł) Środki na realizację zadań w ramach modułu 3 Programu (zł) w tym środki na obsługę realizacji zadań w ramach modułu 3 Programu (zł) Środki na realizację zadań w ramach modułu 3 Programu (zł) w tym środki na obsługę realizacji zadań w ramach modułu 3 Programu (zł) Środki na realizację zadań w ramach modułu 3 Programu (zł) w tym środki na obsługę realizacji zadań w ramach modułu 3 Programu (zł) Środki na realizację zadań w ramach modułu 3 Programu (zł) w tym środki na obsługę realizacji zadań w ramach modułu 3 Programu (zł) Środki na realizację zadań w ramach modułu 3 Programu (zł) w tym środki na obsługę realizacji zadań w ramach modułu 3 Programu (zł) Dolnośląskie 2 561 497 20 492 2 603 139 20 825 2 603 139 20 825 2 603 139 20 825 2 603 139 20 825 12 974 055 103 792 Kujawsko-pomorskie 2 073 165 16 585 2 106 869 16 855 2 106 869 16 855 2 106 869 16 855 2 106 869 16 855 10 500 640 84 005 Lubelskie 2 452 661 19 621 2 492 534 19 940 2 492 534 19 940 2 492 534 19 940 2 492 534 19 940 12 422 796 99 382 Lubuskie 1 020 049 8 160 1 036 631 8 293 1 036 631 8 293 1 036 631 8 293 1 036 631 8 293 5 166 574 41 333 Łódzkie 2 465 225 19 722 2 505 303 20 042 2 505 303 20 042 2 505 303 20 043 2 505 303 20 042 12 486 436 99 891 Małopolskie 3 935 075 31 481 3 999 048 31 993 3 999 047 31 992 3 999 047 31 992 3 999 048 31 993 19 931 264 159 450 Mazowieckie 5 372 718 42 982 5 460 062 43 680 5 460 062 43 680 5 460 063 43 680 5 460 062 43 680 27 212 966 217 704 Opolskie 1 034 392 8 275 1 051 208 8 410 1 051 209 8 410 1 051 208 8 410 1 051 208 8 410 5 239 225 41 914 Podkarpackie 2 684 864 21 478 2 728 512 21 828 2 728 512 21 828 2 728 512 21 828 2 728 512 21 828 13 598 910 108 791 Podlaskie 1 142 944 9 144 1 161 525 9 293 1 161 525 9 292 1 161 525 9 293 1 161 525 9 293 5 789 045 46 312 Pomorskie 2 305 370 18 443 2 342 848 18 743 2 342 848 18 743 2 342 848 18 743 2 342 848 18 743 11 676 761 93 414 Śląskie 4 128 410 33 027 4 195 525 33 564 4 195 525 33 565 4 195 525 33 564 4 195 525 33 564 20910511 167 284 Świętokrzyskie 1 389 864 11 119 1 412 459 11 300 1 412 459 11 300 1 412 459 11 300 1 412 459 11 300 7 039 702 56318 Warmińsko-mazurskie 1 502 384 12 019 1 526 808 12 214 1 526 808 12215 1 526 808 12 214 1 526 808 12 214 7 609 615 60 877 Wielkopolskie 3 731 707 29 854 3 792 373 30 339 3 792 373 30 339 3 792 373 30 339 3 792 373 30 339 18 901 201 151 210 Zachodniopomorskie 1 559 799 12 478 1 585 156 12 681 1 585 156 12 681 1 585 156 12 681 1 585 156 12 681 7 900 423 63 203 Razem 39 360 124 314 880 40 000 000 320 000 40 000 000 320 000 40 000 000 320 000 40 000 000 320 000 199 360 124 1594 880
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-09-19 |
 | Data wydania | 2013-10-04 |
-| Wejście w życie | 2013-10-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1179/text.pdf) |
 
@@ -35,5 +34,6 @@ Ustala się listę gatunków roślin warzywnych i sadowniczych o dużym znaczeni
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Załącznik – Lista gatunków roślin warzywnych i sadowniczych o dużym znaczeniu gospodarczym, dla których przeprowadza się badania wartości gospodarczej odmiany (badania WGO)
-I. ROŚLINY WARZYWNE Lp. Nazwa polska Nazwa botaniczna 1 Bób Viciafaba L. (partim) 2 Burak ćwikłowy Beta vulgaris L. 3 Cebula Allium cepa L. – grupa Cepa 4 Dynia zwyczajna Cucurbita pepo L. 5 Fasola zwykła karłowa Phaseolus vulgaris L. 6 Groch siewny łuskowy – o nasionach pomarszczonych i o nasionach gładkich Pisum sativum L. (partim) 7 Kalafior Brassica oleracea L. 8 Kapusta głowiasta biała Brassica oleracea L. 9 Kapusta głowiasta czerwona Brassica oleracea L. 10 Marchew jadalna Daucus carota L. 11 Ogórek – sałatkowy i konserwowy Cucumis sativus L. 12 Papryka Capsicum annuum L. 13 Pietruszka Petroselinum crispum (Mill.) Nyman ex A.W. Hill 14 Pomidor Solarium lycopersicum L. 15 Por Allium porrum L. 16 Rzodkiewka Raphanus sativus L. 17 Sałata Lactuca sativa L. 18 Seler korzeniowy Apium graveolens L. II. ROŚLINY SADOWNICZE Lp. Nazwa polska Nazwa botaniczna 1 Czereśnia* Prunus avium (L.) L. 2 Grusza* Pyrus communis L. 3 Jabłoń domowa* Malus domestica Borkh. 4 Malina właściwa Rubus idaeus L. 5 Porzeczka czarna Ribes nigrum L. 6 Śliwa domowa* Prunus domestica L. 7 Truskawka Fragaria xananassa Duch. 8 Wiśnia* Prunus cerasus L. * Odmiany owocujące.
+I. ROŚLINY WARZYWNE Lp. Nazwa polska Nazwa botaniczna 1 Bób Viciafaba L. (partim) 2 Burak ćwikłowy Beta vulgaris L. 3 Cebula Allium cepa L. – grupa Cepa 4 Dynia zwyczajna Cucurbita pepo L. 5 Fasola zwykła karłowa Phaseolus vulgaris L. 6 Groch siewny łuskowy – o nasionach pomarszczonych i o nasionach gładkich Pisum sativum L. (partim) 7 Kalafior Brassica oleracea L. 8 Kapusta głowiasta biała Brassica oleracea L. 9 Kapusta głowiasta czerwona Brassica oleracea L. 10 Marchew jadalna Daucus carota L. 11 Ogórek – sałatkowy i konserwowy Cucumis sativus L. 12 Papryka Capsicum annuum L. 13 Pietruszka Petroselinum crispum (Mill.) Nyman ex A.W. Hill 14 Pomidor Solarium lycopersicum L. 15 Por Allium porrum L. 16 Rzodkiewka Raphanus sativus L. 17 Sałata Lactuca sativa L. 18 Seler korzeniowy Apium graveolens L. II. ROŚLINY SADOWNICZE Lp. Nazwa polska Nazwa botaniczna 1 Czereśnia* Prunus avium (L.) L. 2 Grusza* Pyrus communis L. 3 Jabłoń domowa* Malus domestica Borkh. 4 Malina właściwa Rubus idaeus L. 5 Porzeczka czarna Ribes nigrum L. 6 Śliwa domowa* Prunus domestica L. 7 Truskawka Fragaria xananassa Duch. 8 Wiśnia* Prunus cerasus L.
+* Odmiany owocujące.
 

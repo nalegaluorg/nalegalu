@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-08-03 |
 | Data wydania | 2012-08-23 |
-| Wejście w życie | 2012-09-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000954) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/954/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 90 ust. 4 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 90 ust. 4 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 202, poz. 1551, Nr 219, poz. 1706 i Nr 221, poz. 1738, z 2010 r. Nr 28, poz. 146, Nr 40, poz. 229, Nr 81, poz. 527, Nr 125, poz. 842 i Nr 217, poz. 1427, z 2011 r. Nr 81, poz. 440, Nr 106, poz. 622 i Nr 149, poz. 887 oraz z 2012 r. poz. 579.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -178,5 +177,5 @@ Do spraw wszczętych i niezakończonych przed dniem wejścia w życie rozporząd
 § 12.
 Traci moc rozporządzenie Ministra Polityki Społecznej z dnia 23 grudnia 2004 r. w sprawie udzielania pomocy na usamodzielnienie, kontynuowanie nauki oraz zagospodarowanie (Dz. U. z 2005 r. Nr 6, poz. 45 oraz z 2007 r. Nr 208, poz. 1507).
 § 13.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 202, poz. 1551, Nr 219, poz. 1706 i Nr 221, poz. 1738, z 2010 r. Nr 28, poz. 146, Nr 40, poz. 229, Nr 81, poz. 527, Nr 125, poz. 842 i Nr 217, poz. 1427, z 2011 r. Nr 81, poz. 440, Nr 106, poz. 622 i Nr 149, poz. 887 oraz z 2012 r. poz. 579.
 

@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-18 |
 | Data wydania | 2015-12-29 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002280) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2280/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Wizytacja Rozdział 3 – Kontrola i inne czynności nadzorcze Rozdział 4 – Dokumentowanie czynności nadzorczych Rozdział 5 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 4 ust. 5 ustawy z dnia 5 sierpnia 2015 r. o opiniodawczych zespołach sądowych specjalistów (Dz. U. poz. 1418) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa tryb i sposób sprawowania przez Ministra Sprawiedliwości nadzoru nad opiniodawczymi zespołami sądowych specjalistów.
 § 2.
@@ -39,6 +39,7 @@ ustawa – ustawę z dnia 5 sierpnia 2015 r. o opiniodawczych zespołach sądowy
 wizytator – osobę pracującą w urzędzie zapewniającym obsługę Ministra Sprawiedliwości, zajmującą się czynnościami związanymi z nadzorem Ministra Sprawiedliwości nad opiniodawczymi zespołami sądowych specjalistów;
 3)
 zespół – opiniodawczy zespół sądowych specjalistów.
+Wizytacja
 § 3.
 1.
 Wizytacje przeprowadza się nie rzadziej niż raz na cztery lata, zgodnie z rocznym planem wizytacji.
@@ -223,6 +224,7 @@ Wystąpienie powizytacyjne podpisuje Minister Sprawiedliwości i przekazuje kier
 Od wystąpienia powizytacyjnego nie przysługują środki odwoławcze.
 § 26.
 Kierownik zespołu, w terminie 14 dni, informuje Ministra Sprawiedliwości o sposobie wykonania wniosków lub zaleceń, a także o podjętych działaniach lub przyczynach ich niepodjęcia.
+Kontrola i inne czynności nadzorcze
 § 27.
 1.
 W przypadkach uzasadnionych charakterem sprawy lub pilnością podjęcia czynności nadzorczych Minister Sprawiedliwości przeprowadza w zespole kontrolę.
@@ -248,6 +250,7 @@ Minister Sprawiedliwości może żądać od zespołów przesłania informacji lu
 Termin na przesłanie odpowiedzi nie może być krótszy niż 7 dni, chyba że jest to uzasadnione szczególnymi okolicznościami.
 3.
 W przypadku nieobecności kierownika zespołu uprawnienie do przesłania odpowiedzi ma osoba go zastępująca.
+Dokumentowanie czynności nadzorczych
 § 31.
 1.
 Dla czynności nadzorczych prowadzi się akta nadzorcze.
@@ -267,16 +270,27 @@ protokoły z przeprowadzenia dowodów;
 wystąpienie powizytacyjne i jego projekt oraz zgłoszone zastrzeżenia i dokumenty związane z ich rozpatrzeniem albo sprawozdanie z kontroli oraz stanowisko do sprawozdania.
 3.
 Kierownik zespołu na każdym etapie prowadzonej wizytacji albo kontroli ma prawo wglądu do akt nadzorczych, z zachowaniem przepisów o tajemnicy prawnie chronionej.
+Przepis końcowy
 § 32.
 Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Wizytacja
+#### Rozdział 2 – Wizytacja
 
-#### Rozdział 3 Kontrola i inne czynności nadzorcze
+#### Rozdział 3 – Kontrola i inne czynności nadzorcze
 
-#### Rozdział 4 Dokumentowanie czynności nadzorczych
+#### Rozdział 4 – Dokumentowanie czynności nadzorczych
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

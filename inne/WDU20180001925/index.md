@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-13 |
 | Data wydania | 2018-10-08 |
-| Wejście w życie | 2018-10-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001925) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1925/text.pdf) |
 
@@ -34,7 +33,7 @@ source: "eli-html"
 
 1. Wystawiający zaświadczenie lekarskie, mający utworzony profil informacyjny, o którym mowa w art. 55a ust. 1, może udzielić upoważnienia do wystawiania zaświadczeń lekarskich, w jego imieniu i na podstawie danych dotyczących orzeczonej czasowej niezdolności do pracy zawartych w sporządzonej przez niego dokumentacji medycznej, o której mowa w art. 55 ust. 4 pkt 2, zwanego dalej „upoważnieniem do wystawiania zaświadczeń lekarskich”, osobie wykonującej:
 
-- **1)** zawód medyczny w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2018 r. poz. 160, z późn. zm.);
+- **1)** zawód medyczny w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2018 r. poz. 160, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 138, 650, 1128, 1375, 1532, 1629, 1669 i 1693.);
 - **2)** czynności pomocnicze przy udzielaniu świadczeń zdrowotnych, o których mowa w art. 24 ust. 2 pkt 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2017 r. poz. 1318 i 1524 oraz z 2018 r. poz. 1115 i 1515).
 
 2. Upoważnienie do wystawiania zaświadczeń lekarskich może być udzielone na okres nie dłuższy niż 12 miesięcy, przy czym po upływie tego okresu można udzielać kolejnych upoważnień na okresy nie dłuższe niż 12 miesięcy. Upoważnienie do wystawiania zaświadczeń lekarskich może być w każdym czasie cofnięte przez wystawiającego zaświadczenie lekarskie.
@@ -50,7 +49,7 @@ source: "eli-html"
 5. Udzielenie upoważnienia do wystawiania zaświadczeń lekarskich następuje przez jego wytworzenie w Rejestrze Asystentów Medycznych przez:
 
 - **1)** osobę, której ma być udzielone upoważnienie do wystawiania zaświadczeń lekarskich, lub
-- **2)** podmiot wykonujący działalność leczniczą za pomocą konta, o którym mowa w ust. 3, oraz jego podpisanie przez wystawiającego zaświadczenie lekarskie kwalifikowanym podpisem elektronicznym albo podpisem zaufanym albo z wykorzystaniem sposobu potwierdzenia pochodzenia i integralności danych w postaci elektronicznej dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych.
+- **2)** podmiot wykonujący działalność leczniczą – za pomocą konta, o którym mowa w ust. 3, oraz jego podpisanie przez wystawiającego zaświadczenie lekarskie kwalifikowanym podpisem elektronicznym albo podpisem zaufanym albo z wykorzystaniem sposobu potwierdzenia pochodzenia i integralności danych w postaci elektronicznej dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych.
 
 6. Od dnia udzielenia upoważnienia do wystawiania zaświadczeń lekarskich do dnia jego cofnięcia albo wygaśnięcia wystawiający zaświadczenie lekarskie ponosi odpowiedzialność wynikającą z przepisów ustawy za skutki nieprawidłowego wystawienia zaświadczenia lekarskiego przez osobę upoważnioną, o której mowa w ust. 1.
 
@@ -96,7 +95,7 @@ source: "eli-html"
 1. W przypadku stwierdzenia nieprawidłowości w wystawianiu zaświadczeń lekarskich, w szczególności gdy zaświadczenie lekarskie zostało wystawione:
 
 - **1)** bez przeprowadzenia bezpośredniego badania ubezpieczonego,
-- **2)** bez udokumentowania rozpoznania stanowiącego podstawę orzeczonej czasowej niezdolności do pracy Zakład Ubezpieczeń Społecznych może, w formie decyzji, cofnąć upoważnienie, o którym mowa w art. 54 ust. 1, na okres nieprzekraczający 12 miesięcy od dnia, w którym decyzja stała się ostateczna.
+- **2)** bez udokumentowania rozpoznania stanowiącego podstawę orzeczonej czasowej niezdolności do pracy – Zakład Ubezpieczeń Społecznych może, w formie decyzji, cofnąć upoważnienie, o którym mowa w art. 54 ust. 1, na okres nieprzekraczający 12 miesięcy od dnia, w którym decyzja stała się ostateczna.
 
 2. W przypadku powtarzającego się naruszania zasad określonych w art. 55 ust. 1–3, art. 55a ust. 6, 7 i 9 oraz art. 57 Zakład Ubezpieczeń Społecznych może, w drodze decyzji, cofnąć upoważnienie, o którym mowa w art. 54 ust. 1, na okres nieprzekraczający 3 miesięcy od dnia, w którym decyzja stała się ostateczna. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
@@ -152,5 +151,5 @@ source: "eli-html"
 
 **Art. 6.** Tworzy się Rejestr Asystentów Medycznych.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 138, 650, 1128, 1375, 1532, 1629, 1669 i 1693.
 

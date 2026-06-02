@@ -22,9 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-05-27 |
 | Data wydania | 2011-07-15 |
-| Wejście w życie | 2011-07-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111470881) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/881/text.pdf) |
+
+Przekazywanie informacji o wyborach wyborcom niepełnosprawnym
+Głosowanie korespondencyjne przez wyborców niepełnosprawnych
 
 **Art. 1.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588 i Nr 134, poz. 777) wprowadza się następujące zmiany:
 
@@ -40,7 +42,7 @@ source: "eli-html"
 
 § 3. Do zmian siedzib obwodowych komisji wyborczych przepisy art. 12 § 11–13 stosuje się odpowiednio.
 
-§ 4. Propozycje zmian siedzib obwodowych komisji wyborczych, w tym siedzib znajdujących się w lokalach, o których mowa w art. 16 § 1 pkt 3, zainteresowani mogą przedkładać wójtowi na piśmie na co najmniej 55 dni przed dniem wyborów. Przedłożone propozycje zmian siedzib obwodowych komisji wyborczych wójt niezwłocznie umieszcza w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.). ” ;
+§ 4. Propozycje zmian siedzib obwodowych komisji wyborczych, w tym siedzib znajdujących się w lokalach, o których mowa w art. 16 § 1 pkt 3, zainteresowani mogą przedkładać wójtowi na piśmie na co najmniej 55 dni przed dniem wyborów. Przedłożone propozycje zmian siedzib obwodowych komisji wyborczych wójt niezwłocznie umieszcza w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407, z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110 oraz z 2010 r. Nr 182, poz. 1228.). ” ;
 
 - **3)** w art. 16 § 2 otrzymuje brzmienie: „
 
@@ -48,7 +50,7 @@ source: "eli-html"
 
 - **4)** w dziale I po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
 
-#### Rozdział 5a Przekazywanie informacji o wyborach wyborcom niepełnosprawnym
+#### Rozdział 5a
 
 **Art. 37a.**
 
@@ -104,7 +106,7 @@ source: "eli-html"
 
 - **9)** w dziale I po rozdziale 7 dodaje się rozdział 7a w brzmieniu: „
 
-#### Rozdział 7a Głosowanie korespondencyjne przez wyborców niepełnosprawnych
+#### Rozdział 7a
 
 **Art. 61a.**
 
@@ -130,7 +132,7 @@ source: "eli-html"
 
 § 2. Pakiet wyborczy, o którym mowa w § 1, jest doręczany do wyborcy przez upoważnionego pracownika urzędu gminy, z zastrzeżeniem § 3.
 
-§ 3. Urząd gminy może przesłać wyborcy pakiet wyborczy za pośrednictwem operatora publicznego w rozumieniu ustawy z dnia 12 czerwca 2003 r. – Prawo pocztowe (Dz. U. z 2008 r. Nr 189, poz. 1159, z późn. zm.). Do przesyłki pakietu wyborczego w zakresie nieuregulowanym stosuje się przepisy ustawy z dnia 12 czerwca 2003 r. – Prawo pocztowe dotyczące przesyłki poleconej.
+§ 3. Urząd gminy może przesłać wyborcy pakiet wyborczy za pośrednictwem operatora publicznego w rozumieniu ustawy z dnia 12 czerwca 2003 r. – Prawo pocztowe (Dz. U. z 2008 r. Nr 189, poz. 1159, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 18, poz. 97 i Nr 168, poz. 1323 oraz z 2010 r. Nr 47, poz. 278 i Nr 182, poz. 1228.). Do przesyłki pakietu wyborczego w zakresie nieuregulowanym stosuje się przepisy ustawy z dnia 12 czerwca 2003 r. – Prawo pocztowe dotyczące przesyłki poleconej.
 
 § 4. Pakiet wyborczy, o którym mowa w § 1, doręcza się wyłącznie do rąk własnych wyborcy niepełnosprawnego, po okazaniu dokumentu potwierdzającego tożsamość i pisemnym pokwitowaniu odbioru.
 
@@ -172,13 +174,13 @@ source: "eli-html"
 § 5. Koperty zwrotne:
 
 - **1)** doręczone do obwodowej komisji wyborczej po zakończeniu głosowania,
-- **2)** niedoręczone do obwodowej komisji wyborczej do zakończenia głosowania przekazywane są właściwemu dyrektorowi delegatury Krajowego Biura Wyborczego.
+- **2)** niedoręczone do obwodowej komisji wyborczej do zakończenia głosowania – przekazywane są właściwemu dyrektorowi delegatury Krajowego Biura Wyborczego.
 
 § 6. Minister właściwy do spraw łączności po zasięgnięciu opinii ministra właściwego do spraw administracji publicznej oraz Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia:
 
 - **1)** tryb doręczania kopert zwrotnych do obwodowych komisji wyborczych,
 - **2)** tryb przekazywania pakietów wyborczych właściwemu dyrektorowi delegatury Krajowego Biura Wyborczego, w sytuacji, o której mowa w art. 61f § 7 zdanie drugie,
-- **3)** tryb przekazywania właściwemu dyrektorowi delegatury Krajowego Biura Wyborczego kopert zwrotnych niedoręczonych do obwodowej komisji wyborczej do zakończenia głosowania mając na względzie zapewnienie poszanowania zasad przeprowadzania wyborów oraz zapewnienie bezpieczeństwa tych przesyłek.
+- **3)** tryb przekazywania właściwemu dyrektorowi delegatury Krajowego Biura Wyborczego kopert zwrotnych niedoręczonych do obwodowej komisji wyborczej do zakończenia głosowania – mając na względzie zapewnienie poszanowania zasad przeprowadzania wyborów oraz zapewnienie bezpieczeństwa tych przesyłek.
 
 § 1. Zadania polegające na przyjmowaniu, przemieszczaniu i doręczaniu przesyłek pakietów wyborczych oraz przesyłek kopert zwrotnych wykonuje operator publiczny w rozumieniu ustawy z dnia 12 czerwca 2003 r. – Prawo pocztowe.
 
@@ -189,7 +191,7 @@ source: "eli-html"
 - **1)** sposób postępowania z kopertami zwrotnymi doręczonymi do obwodowej komisji wyborczej do zakończenia głosowania,
 - **2)** sposób postępowania z kopertami zwrotnymi doręczonymi do obwodowej komisji wyborczej po zakończeniu głosowania,
 - **3)** sposób postępowania z kopertami zwrotnymi zawierającymi niezaklejone koperty na kartę do głosowania,
-- **4)** sposób postępowania z pakietami wyborczymi nieodebranymi przez wyborcę niepełnosprawnego mając na względzie zapewnienie poszanowania zasad przeprowadzania wyborów oraz konieczność zabezpieczenia pakietów wyborczych, a w szczególności kopert zwrotnych i kart do głosowania. ” ;
+- **4)** sposób postępowania z pakietami wyborczymi nieodebranymi przez wyborcę niepełnosprawnego – mając na względzie zapewnienie poszanowania zasad przeprowadzania wyborów oraz konieczność zabezpieczenia pakietów wyborczych, a w szczególności kopert zwrotnych i kart do głosowania. ” ;
 - **10)** po art. 71 dodaje się art. 71a w brzmieniu: „
 
 **Art. 71a.**
@@ -224,7 +226,7 @@ source: "eli-html"
 
 - **1)** art. 5 otrzymuje brzmienie: „
 
-**Art. 5.** W ustawie z dnia 15 września 2000 r. o referendum lokalnym (Dz. U. Nr 88, poz. 985, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 15 września 2000 r. o referendum lokalnym (Dz. U. Nr 88, poz. 985, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 113, poz. 984 i Nr 153, poz. 1271, z 2004 r. Nr 102, poz. 1055, z 2005 r. Nr 175, poz. 1457, z 2007 r. Nr 112, poz. 766 oraz z 2011 r. Nr 21, poz. 113 i Nr 134, poz. 777.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 ust. 2 otrzymuje brzmienie: „
 
@@ -241,5 +243,5 @@ source: "eli-html"
 
 **Art. 15a.** Do dnia 31 grudnia 2014 r. co najmniej 1/5 lokali obwodowych komisji wyborczych na terenie każdej gminy powinna być dostosowana do potrzeb wyborców niepełnosprawnych. ” .
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407, z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110 oraz z 2010 r. Nr 182, poz. 1228. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 18, poz. 97 i Nr 168, poz. 1323 oraz z 2010 r. Nr 47, poz. 278 i Nr 182, poz. 1228. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 113, poz. 984 i Nr 153, poz. 1271, z 2004 r. Nr 102, poz. 1055, z 2005 r. Nr 175, poz. 1457, z 2007 r. Nr 112, poz. 766 oraz z 2011 r. Nr 21, poz. 113 i Nr 134, poz. 777.
 

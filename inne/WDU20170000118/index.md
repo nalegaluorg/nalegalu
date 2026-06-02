@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 21 grudnia 2016 r. w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich portach i przystaniach
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 21 grudnia 2016 r. w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich portach i przystaniach Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-21 |
 | Data wydania | 2017-01-18 |
-| Wejście w życie | 2017-02-02 |
 | Ostatnia zmiana | 2024-08-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000118) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/118/text.pdf) |
 
@@ -66,8 +65,7 @@ statku – należy przez to rozumieć urządzenie pływające używane w środow
 a)
 Międzynarodowej konwencji o zapobieganiu zanieczyszczaniu morza przez statki, 1973, sporządzonej w Londynie dnia 2 listopada 1973 r., zmienionej Protokołem sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 2016 r. poz. 761 i 773),
 b)
-kodeksach, o których mowa w rozdziale VII Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r. (Dz. U. z 2016 r. poz. 869),
-a także materiały, substancje, przedmioty i towary niewymienione powyżej, zgłoszone lub oznaczone jako niebezpieczne, szkodliwe lub zanieczyszczające w dokumentach przewozowych, na opakowaniach lub w karcie charakterystyki produktu;
+kodeksach, o których mowa w rozdziale VII Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r. (Dz. U. z 2016 r. poz. 869), – a także materiały, substancje, przedmioty i towary niewymienione powyżej, zgłoszone lub oznaczone jako niebezpieczne, szkodliwe lub zanieczyszczające w dokumentach przewozowych, na opakowaniach lub w karcie charakterystyki produktu;
 5)
 terminalu – należy przez to rozumieć obiekt, obszar lub akwen portu, na którym zachodzą działania statek – ląd, w tym obiekt, obszar lub akwen portu, w którym:
 a)
@@ -92,8 +90,7 @@ weryfikują informacje zawarte w:
 a)
 cyklicznej instrukcji technologiczno-ruchowej, przedkładanej przez podmiot prowadzący w porcie działalność polegającą na budowie, remontowaniu i naprawach statków i innych obiektów pływających, a także innych środków transportu, urządzeń i instalacji,
 b)
-jednorazowej instrukcji technologiczno-ruchowej, przedkładanej przez podmiot planujący podjęcie w porcie prac remontowych, naprawczych lub innych prac pożarowo niebezpiecznych o określonym zakresie i czasie realizacji
-w zakresie ich zgodności z obowiązującymi przepisami dotyczącymi ochrony przeciwpożarowej, bezpieczeństwa morskiego i zapobiegania zanieczyszczaniu morza przez statki oraz szczegółowym zakresem informacji niezbędnych do określenia w instrukcji technologiczno-ruchowej określonym w załączniku nr 3 do rozporządzenia;
+jednorazowej instrukcji technologiczno-ruchowej, przedkładanej przez podmiot planujący podjęcie w porcie prac remontowych, naprawczych lub innych prac pożarowo niebezpiecznych o określonym zakresie i czasie realizacji – w zakresie ich zgodności z obowiązującymi przepisami dotyczącymi ochrony przeciwpożarowej, bezpieczeństwa morskiego i zapobiegania zanieczyszczaniu morza przez statki oraz szczegółowym zakresem informacji niezbędnych do określenia w instrukcji technologiczno-ruchowej określonym w załączniku nr 3 do rozporządzenia;
 5)
 weryfikują informacje zawarte w instrukcji bezpiecznej obsługi statku przewożącego ładunki niebezpieczne przedkładanej przez podmiot zarządzający terminalem, w zakresie ich zgodności z obowiązującymi przepisami dotyczącymi ochrony przeciwpożarowej, bezpieczeństwa morskiego i zapobiegania zanieczyszczaniu morza przez statki oraz szczegółowym zakresem informacji niezbędnych do określenia w instrukcji bezpiecznej obsługi statku określonym w załączniku nr 4 do rozporządzenia;
 6)
@@ -203,8 +200,7 @@ szacunkowej wartości szkód materialnych;
 6)
 uwag i wniosków związanych ze zdarzeniem, którego dotyczyły działania ratowniczo-gaśnicze, mogących mieć wpływ na poprawę bezpieczeństwa w porcie.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 
 ## Załącznik nr 1 — – Szczegółowy zakres informacji niezbędnych do określenia w planie zwalczania zagrożeń i zanieczyszczeń dla wód portowych
 

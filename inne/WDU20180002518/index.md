@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-09 |
 | Data wydania | 2018-12-31 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002518) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2518/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2018 r. poz. 1351 i 1356) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–7 w brzmieniu: „
-- **5)** modernizacji – należy przez to rozumieć zespół czynności niebędących wytworzeniem nowego urządzenia technicznego, zmieniających cechy urządzenia technicznego, w szczególności jego: konstrukcję lub zastosowane w nim materiały, lub parametry techniczne, lub automatykę zabezpieczającą lub jej podzespoły bez istotnych zmian jego charakterystyki lub przeznaczenia i niepowodujących wzrostu zagrożenia związanego z jego eksploatacją;
+- **5)** modernizacji – należy przez to rozumieć zespół czynności niebędących wytworzeniem nowego urządzenia technicznego, zmieniających cechy urządzenia technicznego, w szczególności jego: konstrukcję lub zastosowane w nim materiały, lub parametry techniczne, lub automatykę zabezpieczającą lub jej podzespoły – bez istotnych zmian jego charakterystyki lub przeznaczenia i niepowodujących wzrostu zagrożenia związanego z jego eksploatacją;
     - **a)**
     - **b)**
     - **c)**
@@ -153,7 +152,7 @@ source: "eli-html"
 - **4)** okresy ważności zaświadczeń kwalifikacyjnych,
 - **5)** wzór wniosku o sprawdzenie kwalifikacji wymaganych przy obsłudze i konserwacji urządzeń technicznych,
 - **6)** wzór wniosku o przedłużenie okresu ważności zaświadczenia kwalifikacyjnego,
-- **7)** wzór zaświadczenia kwalifikacyjnego wymaganego przy obsłudze i konserwacji urządzeń technicznych uwzględniając zakres zaświadczenia kwalifikacyjnego, rodzaje urządzeń technicznych i stopień zagrożenia związanego z ich eksploatacją. ” ;
+- **7)** wzór zaświadczenia kwalifikacyjnego wymaganego przy obsłudze i konserwacji urządzeń technicznych – uwzględniając zakres zaświadczenia kwalifikacyjnego, rodzaje urządzeń technicznych i stopień zagrożenia związanego z ich eksploatacją. ” ;
 - **11)** art. 26 otrzymuje brzmienie: „
 
 **Art. 26.** Przedsiębiorca, u którego są wykonywane czynności dozoru technicznego, jest obowiązany:

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 27 lipca 2017 r. zmieniające rozporządzenie w sprawie nadania osobowości prawnej Towarzystwu Pomocy dla Bezdomnych im. Brata Alberta z siedzibą w Krakowie
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 27 lipca 2017 r. zmieniające rozporządzenie w sprawie nadania osobowości prawnej Towarzystwu Pomocy dla Bezdomnych im. Brata Alberta z siedzibą w Krakowie Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – wyznania religijne oraz mniejszości narodowe i etniczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088 oraz z 2017 r. poz. 1140).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-27 |
 | Data wydania | 2017-08-08 |
-| Wejście w życie | 2017-08-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001513) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1513/text.pdf) |
 
@@ -33,18 +32,13 @@ W rozporządzeniu Ministra-Szefa Urzędu Rady Ministrów z dnia 22 listopada 199
 1)
 tytuł otrzymuje brzmienie: „ w sprawie nadania osobowości prawnej Towarzystwu Pomocy dla Bezdomnych im. św. Brata Alberta ” ;
 2)
-§ 1 otrzymuje brzmienie:
-„
+§ 1 otrzymuje brzmienie: „
 § 1.
-Nadaje się osobowość prawną organizacji kościelnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Towarzystwo Pomocy dla Bezdomnych im. św. Brata Alberta, erygowanej przez Arcybiskupa Metropolitę Krakowskiego.
-” ;
+Nadaje się osobowość prawną organizacji kościelnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Towarzystwo Pomocy dla Bezdomnych im. św. Brata Alberta, erygowanej przez Arcybiskupa Metropolitę Krakowskiego. ” ;
 3)
-po § 1 dodaje się § 1a w brzmieniu:
-„
+po § 1 dodaje się § 1a w brzmieniu: „
 § 1a.
-Siedzibą Towarzystwa Pomocy dla Bezdomnych im. św. Brata Alberta jest Kraków.
-” .
+Siedzibą Towarzystwa Pomocy dla Bezdomnych im. św. Brata Alberta jest Kraków. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – wyznania religijne oraz mniejszości narodowe i etniczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088 oraz z 2017 r. poz. 1140).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – wyznania religijne oraz mniejszości narodowe i etniczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088 oraz z 2017 r. poz. 1140).
 

@@ -26,19 +26,36 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000506) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/506/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 20 lipca 2018 r. o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania Rozdział 1 – Przepisy ogólne Rozdział 2 – Dopłaty do czynszu Rozdział 3 – Zasady przyznawania dopłat Rozdział 4 – Zasady wypłacania dopłat Rozdział 5 – Zmiany w przepisach obowiązujących Rozdział 6 – Przepisy przejściowe i przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 20 lipca 2018 r. o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 lipca 2018 r. o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania (Dz. U. z 2023 r. poz. 1351), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 26 maja 2023 r. o zmianie ustawy o samorządzie gminnym, ustawy o społecznych formach rozwoju mieszkalnictwa, ustawy o gospodarce nieruchomościami, ustawy o podatku od czynności cywilnoprawnych oraz niektórych innych ustaw (Dz. U. poz. 1463) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 marca 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 17 ustawy z dnia 26 maja 2023 r. o zmianie ustawy o samorządzie gminnym, ustawy o społecznych formach rozwoju mieszkalnictwa, ustawy o gospodarce nieruchomościami, ustawy o podatku od czynności cywilnoprawnych oraz niektórych innych ustaw (Dz. U. poz. 1463), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 17 ustawy z dnia 26 maja 2023 r. o zmianie ustawy o samorządzie gminnym, ustawy o społecznych formach rozwoju mieszkalnictwa, ustawy o gospodarce nieruchomościami, ustawy o podatku od czynności cywilnoprawnych oraz niektórych innych ustaw (Dz. U. poz. 1463), który stanowi: „
+Przepisy ogólne
+Dopłaty do czynszu
+Zasady przyznawania dopłat
+Zasady wypłacania dopłat
+Zmiany w przepisach obowiązujących
 Art. 25–29.
 (pominięte)
+Przepisy przejściowe i przepis końcowy
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Dopłaty do czynszu
+
+#### Rozdział 3 – Zasady przyznawania dopłat
+
+#### Rozdział 4 – Zasady wypłacania dopłat
+
+#### Rozdział 5 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 6 – Przepisy przejściowe i przepis końcowy
 
 **Art. 17.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 8 pkt 9 lit. b, który wchodzi w życie z dniem następującym po dniu ogłoszenia oraz z wyjątkiem art. 4 pkt 1–3 i art. 8 pkt 1–6, pkt 7 lit. a tiret pierwsze i drugie, pkt 8 i 9 lit. a oraz pkt 10–19, które wchodzą w życie z dniem 1 stycznia 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 20 lipca 2018 r. o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa zasady stosowania dopłat pokrywających część czynszu za najem mieszkania.
 
@@ -75,7 +92,7 @@ Art. 25–29.
 - **16)** uzyskanie dochodu – uzyskanie dochodu w rozumieniu ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych;
 - **17)** zdolność czynszowa – zdolność najemcy do terminowego uiszczania świadczeń pieniężnych wynikających z umowy najmu mieszkania, ustaloną w oparciu o warunki, o których mowa w art. 7 ust. 1 pkt 2.
 
-#### Rozdział 2 Dopłaty do czynszu
+#### Rozdział 2
 
 **Art. 3.** Dopłaty do czynszu, zwane dalej „dopłatami”, przysługują najemcy będącemu stroną umowy najmu mieszkania albo podnajmu mieszkania.
 
@@ -83,7 +100,7 @@ Art. 25–29.
 
 1. Dopłaty mogą zostać udzielone, jeżeli najemca:
 
-- **1)** jest osobą fizyczną posiadającą obywatelstwo polskie i zamieszkującą na terytorium Rzeczypospolitej Polskiej albo cudzoziemcem: posiadającym prawo pobytu lub prawo stałego pobytu na terytorium Rzeczypospolitej Polskiej i będącym: – obywatelem innego państwa członkowskiego Unii Europejskiej, – obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, – obywatelem Konfederacji Szwajcarskiej, – członkiem rodziny w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2021 r. poz. 1697 oraz z 2023 r. poz. 547) obywatela, o którym mowa w tiret pierwszym, drugim lub trzecim, przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na pobyt czasowy udzielonego w związku z okolicznościami, o których mowa w art. 127 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 i 547), posiadającym kartę pobytu z adnotacją „dostęp do rynku pracy”, z wyłączeniem obywateli państw trzecich, którzy uzyskali zezwolenie na pracę na terytorium państwa członkowskiego na okres nieprzekraczający 6 miesięcy, obywateli państw trzecich przyjętych w celu podjęcia studiów lub pracy sezonowej oraz obywateli państw trzecich, którzy mają prawo do wykonywania pracy na podstawie wizy, przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie: – zezwolenia na pobyt czasowy, o którym mowa w art. 139a ust. 1 lub art. 139o ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub – dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającego jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 3, z późn. zm.), z adnotacją „ICT”, wydanego przez inne państwo członkowskie Unii Europejskiej, i gdy celem jego pobytu na terytorium Rzeczypospolitej Polskiej jest wykonywanie pracy w charakterze pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż w ramach przeniesienia wewnątrz przedsiębiorstwa, o którym mowa w art. 3 pkt 13b ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, przez okres nieprzekraczający 90 dni w okresie 180 dni;
+- **1)** jest osobą fizyczną posiadającą obywatelstwo polskie i zamieszkującą na terytorium Rzeczypospolitej Polskiej albo cudzoziemcem: posiadającym prawo pobytu lub prawo stałego pobytu na terytorium Rzeczypospolitej Polskiej i będącym: – obywatelem innego państwa członkowskiego Unii Europejskiej, – obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, – obywatelem Konfederacji Szwajcarskiej, – członkiem rodziny w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2021 r. poz. 1697 oraz z 2023 r. poz. 547) obywatela, o którym mowa w tiret pierwszym, drugim lub trzecim, przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na pobyt czasowy udzielonego w związku z okolicznościami, o których mowa w art. 127 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 i 547), posiadającym kartę pobytu z adnotacją „dostęp do rynku pracy”, z wyłączeniem obywateli państw trzecich, którzy uzyskali zezwolenie na pracę na terytorium państwa członkowskiego na okres nieprzekraczający 6 miesięcy, obywateli państw trzecich przyjętych w celu podjęcia studiów lub pracy sezonowej oraz obywateli państw trzecich, którzy mają prawo do wykonywania pracy na podstawie wizy, przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie: – zezwolenia na pobyt czasowy, o którym mowa w art. 139a ust. 1 lub art. 139o ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub – dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającego jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2008, str. 1 oraz Dz. Urz. UE L 286 z 01.11.2017, str. 9. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 3, z późn. zm.), z adnotacją „ICT”, wydanego przez inne państwo członkowskie Unii Europejskiej, i gdy celem jego pobytu na terytorium Rzeczypospolitej Polskiej jest wykonywanie pracy w charakterze pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż w ramach przeniesienia wewnątrz przedsiębiorstwa, o którym mowa w art. 3 pkt 13b ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, przez okres nieprzekraczający 90 dni w okresie 180 dni;
     - **a)**
     - **b)**
     - **c)**
@@ -107,7 +124,7 @@ Art. 25–29.
 3. W przypadku najemcy, który w dniu złożenia wniosku o dopłaty jest najemcą lokalu mieszkalnego, o którym mowa w ust. 1 pkt 2 lit. d lub e, z wyjątkiem mieszkania, w związku z najmem którego ubiega się o dopłaty, lub któremu w dniu złożenia wniosku o dopłaty przysługuje spółdzielcze lokatorskie prawo do lokalu, którego przedmiotem jest lokal mieszkalny lub dom jednorodzinny, warunkiem udzielenia dopłat jest zobowiązanie się najemcy do:
 
 - **1)** rozwiązania umowy najmu i opróżnienia lokalu mieszkalnego lub
-- **2)** zrzeczenia się spółdzielczego lokatorskiego prawa do lokalu, którego przedmiotem jest lokal mieszkalny lub dom jednorodzinny, na rzecz spółdzielni mieszkaniowej i opróżnienia tego lokalu lub domu i poinformowania organu właściwego o dokonaniu czynności, o których mowa w pkt 1 lub 2, najpóźniej do końca trzeciego miesiąca uzyskiwania dopłat na podstawie tego wniosku.
+- **2)** zrzeczenia się spółdzielczego lokatorskiego prawa do lokalu, którego przedmiotem jest lokal mieszkalny lub dom jednorodzinny, na rzecz spółdzielni mieszkaniowej i opróżnienia tego lokalu lub domu – i poinformowania organu właściwego o dokonaniu czynności, o których mowa w pkt 1 lub 2, najpóźniej do końca trzeciego miesiąca uzyskiwania dopłat na podstawie tego wniosku.
 
 4. W przypadku niepoinformowania organu właściwego o dokonaniu czynności, o których mowa w ust. 3 pkt 1 lub 2, w terminie określonym w tym ustępie wypłata dopłat podlega wstrzymaniu.
 
@@ -128,7 +145,7 @@ Art. 25–29.
 1. Dopłaty mogą zostać udzielone, jeżeli średni miesięczny dochód gospodarstwa domowego nie przekracza:
 
 - **1)** w przypadku gospodarstw domowych jednoosobowych – 100 %,
-- **2)** w przypadku pozostałych gospodarstw domowych – 100 % zwiększonego o dodatkowe 40 punktów procentowych na każdą kolejną osobę w gospodarstwie domowym przeciętnego wynagrodzenia w gospodarce narodowej ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672).
+- **2)** w przypadku pozostałych gospodarstw domowych – 100 % zwiększonego o dodatkowe 40 punktów procentowych na każdą kolejną osobę w gospodarstwie domowym – przeciętnego wynagrodzenia w gospodarce narodowej ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672).
 
 2. Przy obliczaniu średniego miesięcznego dochodu gospodarstwa domowego, o którym mowa w ust. 1, uwzględnia się dochód gospodarstwa domowego osiągnięty w roku kalendarzowym:
 
@@ -142,7 +159,7 @@ Art. 25–29.
 5. W przypadku gdy osoba wchodząca w skład gospodarstwa domowego uzyskała dochód w roku kalendarzowym:
 
 - **1)** po upływie którego najemca składa wniosek o dopłaty – w przypadku, o którym mowa w ust. 2 pkt 1,
-- **2)** złożenia wniosku średni miesięczny dochód tej osoby, uwzględniany przy obliczaniu średniego miesięcznego dochodu gospodarstwa domowego, o którym mowa w ust. 1, powiększa się o kwotę uzyskanego dochodu za miesiąc następujący po miesiącu, w którym nastąpiło uzyskanie dochodu, o ile dochód ten jest uzyskiwany również w miesiącu złożenia wniosku o dopłaty.
+- **2)** złożenia wniosku – średni miesięczny dochód tej osoby, uwzględniany przy obliczaniu średniego miesięcznego dochodu gospodarstwa domowego, o którym mowa w ust. 1, powiększa się o kwotę uzyskanego dochodu za miesiąc następujący po miesiącu, w którym nastąpiło uzyskanie dochodu, o ile dochód ten jest uzyskiwany również w miesiącu złożenia wniosku o dopłaty.
 
 6. W przypadku ustalania dochodu z działalności podlegającej opodatkowaniu na podstawie przepisów ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2022 r. poz. 2540 oraz z 2023 r. poz. 1059 i 1414) przyjmuje się dochód miesięczny w wysokości 1/12 dochodu ogłaszanego corocznie, w drodze obwieszczenia ministra właściwego do spraw rodziny, o którym mowa w art. 5 ust. 7a ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych.
 
@@ -157,7 +174,7 @@ Art. 25–29.
 
 2. Przez dzień zakończenia inwestycji mieszkaniowej, o którym mowa w ust. 1 pkt 2, rozumie się:
 
-- **1)** dzień, w którym można przystąpić do użytkowania budynku mieszkalnego, którego dotyczyła inwestycja mieszkaniowa – w przypadku inwestycji mieszkaniowej, z którą jest związany obowiązek zawiadomienia, o którym mowa w art. 54 ust. 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm.), lub obowiązek uzyskania decyzji o pozwoleniu na użytkowanie, o którym mowa w art. 55 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
+- **1)** dzień, w którym można przystąpić do użytkowania budynku mieszkalnego, którego dotyczyła inwestycja mieszkaniowa – w przypadku inwestycji mieszkaniowej, z którą jest związany obowiązek zawiadomienia, o którym mowa w art. 54 ust. 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762, 1890, 1963 i 2029.), lub obowiązek uzyskania decyzji o pozwoleniu na użytkowanie, o którym mowa w art. 55 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
 - **2)** dzień zakończenia robót budowlanych określony w protokole odbioru końcowego, o którym mowa w art. 3 pkt 13 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane – w pozostałych przypadkach.
 
 **Art. 7.**
@@ -212,9 +229,7 @@ Art. 25–29.
 
 1. Dopłaty mogą być stosowane w okresie nie dłuższym niż 20 lat, licząc od miesiąca, w którym została zakończona inwestycja mieszkaniowa.
 
-1a. W przypadku lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych wniesionych jako wkład niepieniężny do spółki zgodnie z art. 12 ust. 1 ustawy „lokal za grunt” okres, o którym mowa w ust. 1, liczy się od miesiąca, w którym została zawarta umowa, o której mowa w art. 12 ust. 3 ustawy „lokal za grunt”.
-
-1b. W przypadku lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych wynajmowanych przez SAN okres, o którym mowa w ust. 1, liczy się od miesiąca, w którym została zawarta:
+1a. W przypadku lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych wniesionych jako wkład niepieniężny do spółki zgodnie z art. 12 ust. 1 ustawy „lokal za grunt” okres, o którym mowa w ust. 1, liczy się od miesiąca, w którym została zawarta umowa, o której mowa w art. 12 ust. 3 ustawy „lokal za grunt”. 1bW brzmieniu ustalonym przez art. 10 ustawy z dnia 26 maja 2023 r. o zmianie ustawy o samorządzie gminnym, ustawy o społecznych formach rozwoju mieszkalnictwa, ustawy o gospodarce nieruchomościami, ustawy o podatku od czynności cywilnoprawnych oraz niektórych innych ustaw (Dz. U. poz. 1463), która weszła w życie z dniem 31 sierpnia 2023 r.. W przypadku lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych wynajmowanych przez SAN okres, o którym mowa w ust. 1, liczy się od miesiąca, w którym została zawarta:
 
 - **1)** pierwsza umowa dzierżawy pomiędzy właścicielem lokalu mieszkalnego lub budynku mieszkalnego jednorodzinnego a SAN – w przypadku, o którym mowa w art. 22a ust. 1 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa;
 - **2)** pierwsza umowa najmu lokalu mieszkalnego lub budynku mieszkalnego jednorodzinnego, którego właścicielem jest SAN – w przypadku, o którym mowa w art. 22a ust. 1a ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa.
@@ -225,7 +240,7 @@ Art. 25–29.
 
 - **1)** wydania decyzji w sprawie pozbawienia prawa do dopłat, o której mowa w art. 16 ust. 9 pkt 1,
 - **2)** rozwiązania lub wygaśnięcia umowy najmu mieszkania albo podnajmu mieszkania w okresie stosowania dopłat, w tym z powodu zamiany mieszkania na inne i zawarcia nowej umowy najmu mieszkania albo podnajmu mieszkania,
-- **3)** krótszego niż 15 lat okresu stosowania dopłat z uwagi na warunek, o którym mowa w ust. 1–1b, w tym w przypadku kolejnego najemcy mieszkania przysługuje prawo ponownego ubiegania się o dopłaty, z zastrzeżeniem, że łączny okres stosowania dopłat nie może przekroczyć 15 lat.
+- **3)** krótszego niż 15 lat okresu stosowania dopłat z uwagi na warunek, o którym mowa w ust. 1–1b, w tym w przypadku kolejnego najemcy mieszkania – przysługuje prawo ponownego ubiegania się o dopłaty, z zastrzeżeniem, że łączny okres stosowania dopłat nie może przekroczyć 15 lat.
 
 4. W przypadku gdy w skład gospodarstwa domowego najemcy wchodzi osoba, która w przeszłości była najemcą innego mieszkania, w związku z najmem którego były stosowane dopłaty, okres, o którym mowa w ust. 2, pomniejsza się o liczbę miesięcy stosowania tych dopłat.
 
@@ -239,7 +254,7 @@ Art. 25–29.
 
 4. W przypadku, o którym mowa w art. 16 ust. 9 pkt 2 lit. b, miesięczną wysokość dopłaty, o której mowa w ust. 1, pomniejsza się o kwotę odpowiadającą różnicy pomiędzy średnim miesięcznym dochodem gospodarstwa domowego branym pod uwagę przy weryfikacji, o której mowa w art. 16 ust. 1, a limitem ustalonym dla gospodarstwa domowego najemcy na zasadach określonych w art. 5 ust. 1.
 
-#### Rozdział 3 Zasady przyznawania dopłat
+#### Rozdział 3
 
 **Art. 11.**
 
@@ -394,7 +409,7 @@ Art. 25–29.
 1. Nie wcześniej niż w terminie 2 miesięcy, jednak nie później niż w terminie miesiąca przed rozpoczęciem każdych kolejnych 12 miesięcy, w jakich dopłaty będą stosowane, najemca uzyskujący dopłaty składa organowi właściwemu oświadczenia o:
 
 - **1)** liczbie osób wchodzących w skład gospodarstwa domowego,
-- **2)** wysokości dochodów tego gospodarstwa, z wyodrębnieniem dochodów poszczególnych osób wchodzących w skład gospodarstwa oraz informacją o wysokości dochodów utraconych lub uzyskanych przez te osoby i miesiącu ich utraty lub uzyskania, za rok kalendarzowy: poprzedzający rok, po upływie którego najemca składa oświadczenie – w przypadku oświadczeń składanych w okresie od 1 stycznia do 31 lipca danego roku, po upływie którego najemca składa oświadczenie – w przypadku oświadczeń składanych w okresie od 1 sierpnia do 31 grudnia danego roku w celu dokonania przez organ właściwy weryfikacji spełniania przez gospodarstwo domowe warunku, o którym mowa w art. 5 ust. 1.
+- **2)** wysokości dochodów tego gospodarstwa, z wyodrębnieniem dochodów poszczególnych osób wchodzących w skład gospodarstwa oraz informacją o wysokości dochodów utraconych lub uzyskanych przez te osoby i miesiącu ich utraty lub uzyskania, za rok kalendarzowy: poprzedzający rok, po upływie którego najemca składa oświadczenie – w przypadku oświadczeń składanych w okresie od 1 stycznia do 31 lipca danego roku, po upływie którego najemca składa oświadczenie – w przypadku oświadczeń składanych w okresie od 1 sierpnia do 31 grudnia danego roku – w celu dokonania przez organ właściwy weryfikacji spełniania przez gospodarstwo domowe warunku, o którym mowa w art. 5 ust. 1.
     - **a)**
     - **b)**
 
@@ -452,7 +467,7 @@ Art. 25–29.
 
 2. W przypadku, o którym mowa w ust. 1, okres, o którym mowa w art. 9 ust. 2, pomniejsza się o liczbę miesięcy, w jakich dopłaty były stosowane wobec zmarłego najemcy.
 
-#### Rozdział 4 Zasady wypłacania dopłat
+#### Rozdział 4
 
 **Art. 19.**
 
@@ -503,9 +518,9 @@ Art. 25–29.
 - **1)** wynajmującego lokale mieszkalne lub budynki mieszkalne jednorodzinne wniesione jako wkład niepieniężny do spółki zgodnie z art. 12 ust. 1 ustawy „lokal za grunt”;
 - **2)** SAN.
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących
+#### Rozdział 5
 
-#### Rozdział 6 Przepisy przejściowe i przepis końcowy
+#### Rozdział 6
 
 **Art. 30.**
 
@@ -513,7 +528,7 @@ Art. 25–29.
 
 - **1)** 200 mln zł – dla 2019 r.,
 - **2)** kwoty z roku poprzedzającego powiększonej o dodatkowe 200 mln zł – dla każdego roku w latach 2020–2023,
-- **3)** 350 mln zł – dla każdego roku od 2024 r. pomniejszonej, odpowiednio w każdym roku, o łączną wartość przypadających na dany rok wstępnych kwot zapotrzebowania na środki zabezpieczające stosowanie dopłat, dotyczących zawartych przez Bank umów w sprawie stosowania dopłat.
+- **3)** 350 mln zł – dla każdego roku od 2024 r. – pomniejszonej, odpowiednio w każdym roku, o łączną wartość przypadających na dany rok wstępnych kwot zapotrzebowania na środki zabezpieczające stosowanie dopłat, dotyczących zawartych przez Bank umów w sprawie stosowania dopłat.
 
 2. Jeżeli wstępne kwoty zapotrzebowania na środki zabezpieczające stosowanie dopłat dotyczące zawartej umowy w sprawie stosowania dopłat będą różne od kwot dopłat wypłacanych w kolejnych latach z Funduszu Dopłat w związku z tą umową na podstawie wniosków, o których mowa w art. 19 ust. 1, Bank, ustalając aktualne limity kwalifikacji zgodnie z ust. 1, uwzględnia kwoty zapotrzebowania na środki zabezpieczające stosowanie dopłat w wysokościach ustalonych w oparciu o wypłacane dopłaty.
 
@@ -584,5 +599,5 @@ Art. 25–29.
 
 **Art. 34.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w terminie do dnia 31 marca 2025 r., przedstawi Radzie Ministrów informację o realizacji celów inwestycyjnych i społecznych ustawy wraz z oceną realizacji i rekomendacjami w zakresie kontynuacji rozwiązań określonych w ustawie.
 
-**Art. 35.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 7, art. 8, art. 11–13 i art. 31, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 35.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 7, art. 8, art. 11–13 i art. 31, które wchodzą w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 10 sierpnia 2018 r.. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2008, str. 1 oraz Dz. Urz. UE L 286 z 01.11.2017, str. 9. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762, 1890, 1963 i 2029. 3) W brzmieniu ustalonym przez art. 10 ustawy z dnia 26 maja 2023 r. o zmianie ustawy o samorządzie gminnym, ustawy o społecznych formach rozwoju mieszkalnictwa, ustawy o gospodarce nieruchomościami, ustawy o podatku od czynności cywilnoprawnych oraz niektórych innych ustaw (Dz. U. poz. 1463), która weszła w życie z dniem 31 sierpnia 2023 r. 4) Ustawa została ogłoszona w dniu 10 sierpnia 2018 r.
 

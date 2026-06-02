@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 8 marca 2024 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty płatności ekologicznych w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 8 marca 2024 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty płatności ekologicznych w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-08 |
 | Data wydania | 2024-03-12 |
-| Wejście w życie | 2024-03-15 |
 | Ostatnia zmiana | 2025-01-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000346) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/346/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 71 ust. 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategiczny
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 7 grudnia 2023 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty płatności ekologicznych w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. z 2024 r. poz. 33) w § 1:
 1)
-w pkt 1 lit. b otrzymuje brzmienie:
-„
+w pkt 1 lit. b otrzymuje brzmienie: „
 b)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
 W ramach realizacji zobowiązania ekologicznego, o którym mowa w § 3 ust. 2:
 1)
@@ -53,24 +50,25 @@ dokonywać zmiany uprawianych roślin lub miejsca ich uprawy w przypadku uprawy 
 b)
 w przypadku uprawy roślin wymienionych w części IV i VI tabeli załącznika nr 4 do rozporządzenia rozpocząć uprawę roślin wymienionych w części I-III, V i VII tabeli załącznika nr 4 do rozporządzenia na całej powierzchni użytków rolnych, na których dotychczas były uprawiane rośliny wymienione w części IV i VI tabeli załącznika nr 4 do rozporządzenia, lub na części tej powierzchni,
 c)
-w przypadku trwałych użytków zielonych rozpocząć uprawę roślin wymienionych w załączniku nr 4 do rozporządzenia na całej powierzchni użytków rolnych, które dotychczas były trwałymi użytkami zielonymi, lub na części tej powierzchni
-pod warunkiem że mimo dokonania tych zmian są spełnione warunki przyznania płatności ekologicznych z tytułu realizacji tego zobowiązania ekologicznego.”,
-” ;
-” ;
+w przypadku trwałych użytków zielonych rozpocząć uprawę roślin wymienionych w załączniku nr 4 do rozporządzenia na całej powierzchni użytków rolnych, które dotychczas były trwałymi użytkami zielonymi, lub na części tej powierzchni – pod warunkiem że mimo dokonania tych zmian są spełnione warunki przyznania płatności ekologicznych z tytułu realizacji tego zobowiązania ekologicznego.”, ” ; ” ;
 2)
 w pkt 3:
 a)
-lit. a otrzymuje brzmienie:
-„
+lit. a otrzymuje brzmienie: „
 a)
-w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku zmiany w planie działalności ekologicznej wynikającej z podjęcia nowego zobowiązania ekologicznego lub zastąpienia zobowiązania ekologicznego, o którym mowa w § 4 ust. 7 i 8, lub rozpoczęcia uprawy roślin, o którym mowa w § 6 ust. 2 pkt 1 lit. b i ust. 4 pkt 1 lit. b i pkt 2, rolnik składa do kierownika biura powiatowego Agencji do dnia 31 lipca roku, w którym nastąpiła ta zmiana, kopie stron tego planu, na których:”, ” ,
-” ,
+w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku zmiany w planie działalności ekologicznej wynikającej z podjęcia nowego zobowiązania ekologicznego lub zastąpienia zobowiązania ekologicznego, o którym mowa w § 4 ust. 7 i 8, lub rozpoczęcia uprawy roślin, o którym mowa w § 6 ust. 2 pkt 1 lit. b i ust. 4 pkt 1 lit. b i pkt 2, rolnik składa do kierownika biura powiatowego Agencji do dnia 31 lipca roku, w którym nastąpiła ta zmiana, kopie stron tego planu, na których:”, ” , ” ,
 b)
-w lit. b tiret pierwsze otrzymuje brzmienie:
-„
-– w pkt 1 lit. a i b otrzymują brzmienie: „ a) pakietów wymienionych w § 3 ust. 1 pkt 4–6, w tym w przypadkach określonych w § 6: – ust. 2 pkt 1 lit. b, – ust. 4 pkt 1 lit. b, jeżeli rośliny dotychczas uprawiane w ramach pakietów wymienionych w § 3 ust. 1 pkt 4 lub 6 zostały zastąpione na wszystkich gruntach, na których były uprawiane, lub na części tych gruntów roślinami uprawianymi w ramach pakietu wymienionego w § 3 ust. 1 pkt 5, – ust. 4 pkt 2, jeżeli rośliny dotychczas uprawiane w ramach pakietu wymienionego w § 3 ust. 1 pkt 8 zostały zastąpione na wszystkich gruntach, na których były uprawiane, lub na części tych gruntów roślinami uprawianymi w ramach pakietów wymienionych w § 3 ust. 1 pkt 4–6, – ust. 4 pkt 3 lit. c, jeżeli została rozpoczęta uprawa roślin wymienionych w części IV-VI tabeli załącznika nr 4 do rozporządzenia na całej powierzchni użytków rolnych, które dotychczas były trwałymi użytkami zielonymi, lub na części tej powierzchni, lub b) pakietu wymienionego w § 3 ust. 1 pkt 9 – na gruntach, na których są uprawiane rośliny wymienione w części IV-VI tabeli załącznika nr 4 do rozporządzenia, w tym w przypadkach określonych w § 6 ust. 2 pkt 2 lit. b i ust. 4 pkt 3 lit. b, jeżeli dotychczas uprawiane rośliny wymienione w części IV i VI tabeli załącznika nr 4 do rozporządzenia zostały zastąpione na wszystkich gruntach, na których były uprawiane, lub na części tych gruntów roślinami wymienionymi w części V tabeli załącznika nr 4 do rozporządzenia, lub”, ” .
+w lit. b tiret pierwsze otrzymuje brzmienie: „
+w pkt 1 lit. a i b otrzymują brzmienie: „
+a)
+pakietów wymienionych w § 3 ust. 1 pkt 4–6, w tym w przypadkach określonych w § 6:
+– ust. 2 pkt 1 lit. b,
+– ust. 4 pkt 1 lit. b, jeżeli rośliny dotychczas uprawiane w ramach pakietów wymienionych w § 3 ust. 1 pkt 4 lub 6 zostały zastąpione na wszystkich gruntach, na których były uprawiane, lub na części tych gruntów roślinami uprawianymi w ramach pakietu wymienionego w § 3 ust. 1 pkt 5,
+– ust. 4 pkt 2, jeżeli rośliny dotychczas uprawiane w ramach pakietu wymienionego w § 3 ust. 1 pkt 8 zostały zastąpione na wszystkich gruntach, na których były uprawiane, lub na części tych gruntów roślinami uprawianymi w ramach pakietów wymienionych w § 3 ust. 1 pkt 4–6,
+– ust. 4 pkt 3 lit. c, jeżeli została rozpoczęta uprawa roślin wymienionych w części IV-VI tabeli załącznika nr 4 do rozporządzenia na całej powierzchni użytków rolnych, które dotychczas były trwałymi użytkami zielonymi, lub na części tej powierzchni, lub
+b)
+pakietu wymienionego w § 3 ust. 1 pkt 9 – na gruntach, na których są uprawiane rośliny wymienione w części IV-VI tabeli załącznika nr 4 do rozporządzenia, w tym w przypadkach określonych w § 6 ust. 2 pkt 2 lit. b i ust. 4 pkt 3 lit. b, jeżeli dotychczas uprawiane rośliny wymienione w części IV i VI tabeli załącznika nr 4 do rozporządzenia zostały zastąpione na wszystkich gruntach, na których były uprawiane, lub na części tych gruntów roślinami wymienionymi w części V tabeli załącznika nr 4 do rozporządzenia, lub”, ” .
 ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 15 marca 2024 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
+Rozporządzenie wchodzi w życie z dniem 15 marca 2024 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 

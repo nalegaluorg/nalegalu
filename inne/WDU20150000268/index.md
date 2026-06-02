@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000268) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/268/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Rozwoju Regionalnego z dnia 21 marca 2013 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie tworzenia i rozwoju gospodarki elektronicznej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom lub małym przedsiębiorcom wsparcia na działalność gospodarczą w dziedzinie gospodarki elektronicznej w ramach działania 8.1. Wspieranie działalności gospodarczej w dziedzinie gospodarki elektronicznej Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Rozdział 3 – Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom, małym przedsiębiorcom lub średnim przedsiębiorcom wsparcia na wdrażanie elektronicznego biznesu typu B2B w ramach działania 8.2. Wspieranie wdrażania elektronicznego biznesu typu B2B Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Rozdział 4 – Tryb udzielania wsparcia na tworzenie i rozwój gospodarki elektronicznej Rozdział 5 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Rozwoju Regionalnego z dnia 21 marca 2013 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie tworzenia i rozwoju gospodarki elektronicznej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju Regionalnego z dnia 21 marca 2013 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie tworzenia i rozwoju gospodarki elektronicznej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 (Dz. U. poz. 412), z uwzględnieniem zmian wprowadzonych:
@@ -37,16 +37,13 @@ rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 18 czerwca 2014 r. zmi
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 16 grudnia 2013 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie tworzenia i rozwoju gospodarki elektronicznej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 (Dz. U. poz. 1649), które stanowią: „ 2) Tekst Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 został zaakceptowany decyzją Komisji Europejskiej nr K(2007) 4562 z dnia 1 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce oraz zmieniony decyzją Komisji Europejskiej nr K(2011) 9788 z dnia 22 grudnia 2011 r. zmieniającą decyzję K(2007) 4562 w sprawie przyjęcia programu operacyjnego w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji dla Polski i przyjęty uchwałą Rady Ministrów z dnia 30 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013. ”
-„
+odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 16 grudnia 2013 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie tworzenia i rozwoju gospodarki elektronicznej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 (Dz. U. poz. 1649), które stanowią: „ 2) Tekst Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 został zaakceptowany decyzją Komisji Europejskiej nr K(2007) 4562 z dnia 1 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce oraz zmieniony decyzją Komisji Europejskiej nr K(2011) 9788 z dnia 22 grudnia 2011 r. zmieniającą decyzję K(2007) 4562 w sprawie przyjęcia programu operacyjnego w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji dla Polski i przyjęty uchwałą Rady Ministrów z dnia 30 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013. ” „
 § 2.
 Do upływu terminów określonych w § 19 rozporządzenia wymienionego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem pomoc finansowa może być udzielana na podstawie wniosków złożonych przed dniem wejścia z życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 18 czerwca 2014 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie tworzenia i rozwoju gospodarki elektronicznej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 (Dz. U. poz. 828), które stanowią: „ 2) Tekst Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 został zaakceptowany decyzją Komisji Europejskiej nr K(2007) 4562 z dnia 1 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce, zmieniony decyzją Komisji Europejskiej nr K(2011) 9788 z dnia 22 grudnia 2011 r. oraz decyzją Komisji Europejskiej nr C(2013) 9008 z dnia 9 grudnia 2013 r. zmieniającą decyzję K(2007) 4562 w sprawie przyjęcia programu operacyjnego w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji dla Polski i przyjęty uchwałą Rady Ministrów z dnia 30 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013. ”
-„
+odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 18 czerwca 2014 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie tworzenia i rozwoju gospodarki elektronicznej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 (Dz. U. poz. 828), które stanowią: „ 2) Tekst Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 został zaakceptowany decyzją Komisji Europejskiej nr K(2007) 4562 z dnia 1 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce, zmieniony decyzją Komisji Europejskiej nr K(2011) 9788 z dnia 22 grudnia 2011 r. oraz decyzją Komisji Europejskiej nr C(2013) 9008 z dnia 9 grudnia 2013 r. zmieniającą decyzję K(2007) 4562 w sprawie przyjęcia programu operacyjnego w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji dla Polski i przyjęty uchwałą Rady Ministrów z dnia 30 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013. ” „
 § 2.
 1.
 Do umów o udzielenie wsparcia, zawieranych po dniu wejścia w życie niniejszego rozporządzenia, na podstawie wniosków o udzielenie wsparcia złożonych przed dniem wejścia w życie niniejszego rozporządzenia w zakresie pomocy de minimis stosuje się przepisy rozporządzenia w brzmieniu nadanym niniejszym rozporządzeniem.
@@ -57,10 +54,10 @@ Do umów o udzielenie wsparcia zawartych przed dniem wejścia w życie niniejsze
 4.
 Do pomocy de minimis udzielanej uczestnikom sieci kontrahentów od dnia wejścia w życie niniejszego rozporządzenia przez koordynatora sieci kontrahentów, z którym Polska Agencja Rozwoju Przedsiębiorczości zawarła umowę o udzielenie wsparcia przed tym dniem, stosuje się przepisy rozporządzenia w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2014 r.
-” .
-Załącznik – Rozporządzenie Ministra Rozwoju Regionalnego z dnia 21 marca 2013 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie tworzenia i rozwoju gospodarki elektronicznej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
-Na podstawie art. 6b ust. 10 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2014 r. poz. 1804) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2014 r. ” .
+Załącznik – Rozporządzenie Ministra Rozwoju Regionalnego z dnia 21 marca 2013 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie tworzenia i rozwoju gospodarki elektronicznej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013Zgodnie z art. 25 pkt 1 w związku z art. 18 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2014 r. poz. 1649) minister właściwy do spraw rozwoju regionalnego jest Instytucją Zarządzającą Programem Operacyjnym Innowacyjna Gospodarka, 2007–2013. Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Infrastruktury i Rozwoju, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Rozwoju (Dz. U. poz. 1257).
+Tekst Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 został zaakceptowany decyzją Komisji Europejskiej nr K(2007) 4562 z dnia 1 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce oraz zmieniony decyzją Komisji Europejskiej nr K(2011) 9788 z dnia 22 grudnia 2011 r. i przyjęty uchwałą Rady Ministrów z dnia 30 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013. Na podstawie art. 6b ust. 10 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2014 r. poz. 1804) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości, zwaną dalej „Agencją”, pomocy finansowej w ramach następujących działań ósmej osi priorytetowej Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013:
@@ -108,14 +105,13 @@ dla mikroprzedsiębiorcy, małego przedsiębiorcy lub średniego przedsiębiorcy
 b)
 dla mikroprzedsiębiorcy, małego przedsiębiorcy lub średniego przedsiębiorcy określone w § 13,
 c)
-dla mikroprzedsiębiorców, małych przedsiębiorców lub średnich przedsiębiorców wchodzących w skład sieci kontrahentów określone w § 14
-stanowi pomoc de minimis i jest udzielane zgodnie z warunkami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1).
+dla mikroprzedsiębiorców, małych przedsiębiorców lub średnich przedsiębiorców wchodzących w skład sieci kontrahentów określone w § 14 – stanowi pomoc de minimis i jest udzielane zgodnie z warunkami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1).Część wspólna w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 18 czerwca 2014 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie tworzenia i rozwoju gospodarki elektronicznej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 (Dz. U. poz. 828), które weszło w życie z dniem 1 lipca 2014 r.
 2.
-Wsparcie w ramach działania 8.2. Wspieranie wdrażania elektronicznego biznesu typu B2B, w zakresie inwestycji, o których mowa w § 12, stanowi pomoc publiczną i jest udzielane zgodnie z warunkami określonymi w przepisach rozdziału I, art. 13 w rozdziale II oraz rozdziału IIIrozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólnego rozporządzenia w sprawie wyłączeń blokowych) (Dz. Urz. UE L 214 z 09.08.2008, str. 3), zwanego dalej „rozporządzeniem Komisji”.
+Wsparcie w ramach działania 8.2. Wspieranie wdrażania elektronicznego biznesu typu B2B, w zakresie inwestycji, o których mowa w § 12, stanowi pomoc publiczną i jest udzielane zgodnie z warunkami określonymi w przepisach rozdziału I, art. 13 w rozdziale II oraz rozdziału IIIrozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólnego rozporządzenia w sprawie wyłączeń blokowych) (Dz. Urz. UE L 214 z 09.08.2008, str. 3)Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r., zwanego dalej „rozporządzeniem Komisji”.
 3.
-Wsparcie w ramach działania 8.2. Wspieranie wdrażania elektronicznego biznesu typu B2B, w zakresie szkoleń, o których mowa w § 12, stanowi pomoc publiczną i jest udzielane zgodnie z warunkami określonymi w przepisach rozdziału I, sekcji 8 rozdziału II oraz rozdziału III rozporządzenia Komisji .
+Wsparcie w ramach działania 8.2. Wspieranie wdrażania elektronicznego biznesu typu B2B, w zakresie szkoleń, o których mowa w § 12, stanowi pomoc publiczną i jest udzielane zgodnie z warunkami określonymi w przepisach rozdziału I, sekcji 8 rozdziału II oraz rozdziału III rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r..
 4.
-Wsparcie w ramach działania 8.2. Wspieranie wdrażania elektronicznego biznesu typu B2B, w zakresie doradztwa, o którym mowa w § 12, stanowi pomoc publiczną i jest udzielane zgodnie z warunkami określonymi w przepisach rozdziału I, art. 26 w rozdziale II oraz rozdziału III rozporządzenia Komisji .
+Wsparcie w ramach działania 8.2. Wspieranie wdrażania elektronicznego biznesu typu B2B, w zakresie doradztwa, o którym mowa w § 12, stanowi pomoc publiczną i jest udzielane zgodnie z warunkami określonymi w przepisach rozdziału I, art. 26 w rozdziale II oraz rozdziału III rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r..
 § 3.
 1.
 Ilekroć w rozporządzeniu jest mowa o:
@@ -153,17 +149,17 @@ leasingu – należy przez to rozumieć leasing w rozumieniu Międzynarodowych S
 6)
 inwestycji – należy przez to rozumieć inwestycję w środki trwałe lub wartości niematerialne i prawne związaną z tworzeniem nowego przedsiębiorstwa, rozbudową istniejącego przedsiębiorstwa, dywersyfikacją produkcji przedsiębiorstwa przez wprowadzenie nowych dodatkowych produktów lub z zasadniczą zmianą dotyczącą procesu produkcyjnego oraz procesu organizacyjnego w istniejącym przedsiębiorstwie;
 7)
-pracowniku znajdującym się w szczególnie niekorzystnej sytuacji – należy przez to rozumieć pracownika, o którym mowa w art. 2 pkt 18 rozporządzenia Komisji ;
+pracowniku znajdującym się w szczególnie niekorzystnej sytuacji – należy przez to rozumieć pracownika, o którym mowa w art. 2 pkt 18 rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r.;
 8)
-pracowniku niepełnosprawnym – należy przez to rozumieć pracownika, o którym mowa w art. 2 pkt 20 rozporządzenia Komisji ;
+pracowniku niepełnosprawnym – należy przez to rozumieć pracownika, o którym mowa w art. 2 pkt 20 rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r.;
 9)
 produkcie cyfrowym – należy przez to rozumieć oprogramowanie lub dokumenty elektroniczne stanowiące przedmiot działalności gospodarczej lub publicznej;
 10)
 systemach teleinformatycznych – należy przez to rozumieć systemy teleinformatyczne, o których mowa w art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2014 r. poz. 1114);
 11)
-szkoleniu specjalistycznym – należy przez to rozumieć szkolenie, o którym mowa w art. 38 pkt 1 rozporządzenia Komisji ;
+szkoleniu specjalistycznym – należy przez to rozumieć szkolenie, o którym mowa w art. 38 pkt 1 rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r.;
 12)
-środkach trwałych – należy przez to rozumieć środki trwałe, o których mowa w art. 3 ust. 1 pkt 15 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.);
+środkach trwałych – należy przez to rozumieć środki trwałe, o których mowa w art. 3 ust. 1 pkt 15 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4.);
 13)
 usłudze hostingu – należy przez to rozumieć udostępnianie klientowi zasobów sprzętu teleinformatycznego za pomocą sieci Internet;
 14)
@@ -172,6 +168,7 @@ wartościach niematerialnych i prawnych – należy przez to rozumieć wartości
 wydatkach kwalifikujących się do objęcia wsparciem – należy przez to rozumieć wydatki określone w rozporządzeniu, faktycznie poniesione i udokumentowane, bezpośrednio związane z projektem i niezbędne do jego realizacji, pomniejszone o naliczony podatek od towarów i usług, z wyjątkiem sytuacji, gdy zgodnie z odrębnymi przepisami podmiotom, o których mowa w § 4 ust. 2, § 9 ust. 2 oraz § 14, nie przysługuje prawo do jego zwrotu lub odliczenia od należnego podatku od towarów i usług.
 2.
 Wydatki kwalifikujące się do objęcia wsparciem poniesione w walucie obcej przelicza się na walutę polską po kursie sprzedaży zastosowanym przez bank dokonujący płatności w dniu jej dokonania.
+Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom lub małym przedsiębiorcom wsparcia na działalność gospodarczą w dziedzinie gospodarki elektronicznej w ramach działania 8.1. Wspieranie działalności gospodarczej w dziedzinie gospodarki elektronicznej Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 § 4.
 1.
 Agencja może udzielić wsparcia na działalność gospodarczą w dziedzinie gospodarki elektronicznej z przeznaczeniem na realizację projektu polegającego na świadczeniu co najmniej jednej e-usługi, przy czym projekt ten może obejmować wytworzenie produktów cyfrowych koniecznych do świadczenia e-usługi.
@@ -205,7 +202,7 @@ Wymóg utrzymania trwałości projektu nie wpływa na możliwość wprowadzania 
 § 5.
 1.
 Wsparcie, o którym mowa w § 4 ust. 1, nie może być udzielone na działalność gospodarczą:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3.)
 prowadzoną w sektorze rybołówstwa i akwakultury w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającego rozporządzenie Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającego rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1);
 2)
 związaną z produkcją podstawową produktów rolnych wymienionych w załączniku I do Traktatu o funkcjonowaniu Unii Europejskiej, z wyjątkiem produktów rybołówstwa;
@@ -225,9 +222,9 @@ przedsiębiorcy prowadzącemu działalność gospodarczą w zakresie towarowego 
 na projekty mające na celu świadczenie usług poczty elektronicznej, usług hostingowych oraz usług związanych z rejestracją i utrzymaniem domen internetowych;
 3)
 na projekty polegające na obrocie handlowym produktami.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 Wsparcie, o którym mowa w § 4 ust. 1, może być udzielone jednemu mikroprzedsiębiorcy lub małemu przedsiębiorcy, pod warunkiem że łącznie z inną pomocą de minimis, otrzymaną w bieżącym roku podatkowym oraz w ciągu 2 poprzednich lat podatkowych z różnych źródeł i w różnych formach, nie przekroczy kwoty 200 000 euro, a w przypadku jednego przedsiębiorcy prowadzącego działalność gospodarczą w sektorze transportu drogowego towarów – 100 000 euro.
-4.
+4Dodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 3..
 Do celów ustalenia dopuszczalnego pułapu pomocy de minimis , o której mowa w ust. 3, przez jednego przedsiębiorcę rozumie się jedno przedsiębiorstwo, o którym mowa w art. 2 ust. 2 rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis.
 § 6.
 1.
@@ -276,10 +273,10 @@ W przypadku mikroprzedsiębiorcy lub małego przedsiębiorcy, który spełnia ł
 1)
 jest osobą fizyczną i w roku złożenia wniosku o udzielenie wsparcia ma nie więcej niż 27 lat,
 2)
-ubiega się o wsparcie w kwocie nieprzekraczającej 80 000 zł
-wielkość wsparcia, o którym mowa w § 4 ust. 1, może wynosić do 85% wydatków kwalifikujących się do objęcia wsparciem. W przypadku wspólników spółki cywilnej kryterium wieku, o którym mowa w pkt 1, powinno być spełnione przez każdego wspólnika.
+ubiega się o wsparcie w kwocie nieprzekraczającej 80 000 zł – wielkość wsparcia, o którym mowa w § 4 ust. 1, może wynosić do 85% wydatków kwalifikujących się do objęcia wsparciem. W przypadku wspólników spółki cywilnej kryterium wieku, o którym mowa w pkt 1, powinno być spełnione przez każdego wspólnika.
 4.
 Mikroprzedsiębiorca lub mały przedsiębiorca otrzymujący wsparcie, o którym mowa w § 4 ust. 1, jest zobowiązany do zapewnienia finansowania projektu w części nieobjętej wsparciem.
+Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom, małym przedsiębiorcom lub średnim przedsiębiorcom wsparcia na wdrażanie elektronicznego biznesu typu B2B w ramach działania 8.2. Wspieranie wdrażania elektronicznego biznesu typu B2B Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 § 9.
 1.
 Agencja może udzielić wsparcia z przeznaczeniem na realizację projektów o charakterze technicznym, informatycznym i organizacyjnym, które prowadzą do wdrożenia rozwiązania elektronicznego biznesu typu B2B.
@@ -368,9 +365,9 @@ Agencja może udzielić mikroprzedsiębiorcy, małemu przedsiębiorcy lub średn
 1.
 Wsparcie, o którym mowa w § 9 ust. 1, w części dotyczącej wydatków na inwestycje, szkolenia lub doradztwo, nie może być udzielone na działalność:
 1)
-związaną z produkcją podstawową produktów rolnych, o których mowa w art. 2 pkt 22 rozporządzenia Komisji ;
+związaną z produkcją podstawową produktów rolnych, o których mowa w art. 2 pkt 22 rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r.;
 2)
-związaną z przetwarzaniem i wprowadzaniem do obrotu produktów rolnych, o których mowa w art. 2 pkt 22 rozporządzenia Komisji , w przypadkach gdy:
+związaną z przetwarzaniem i wprowadzaniem do obrotu produktów rolnych, o których mowa w art. 2 pkt 22 rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r., w przypadkach gdy:
 a)
 wysokość pomocy byłaby ustalana na podstawie ceny lub ilości produktów rolnych nabytych od producentów surowców lub wprowadzonych na rynek przez przedsiębiorstwa objęte pomocą lub
 b)
@@ -378,33 +375,33 @@ przyznanie pomocy byłoby uzależnione od faktu jej przekazania w części lub w
 3)
 prowadzoną w sektorach rybołówstwa i akwakultury w rozumieniu rozporządzenia Rady, o którym mowa w § 5 ust. 1 pkt 1;
 4)
-prowadzoną w sektorach hutnictwa żelaza i stali oraz włókien syntetycznych w rozumieniu przepisów Unii Europejskiej dotyczących pomocy publicznej;
+prowadzoną w sektorach hutnictwa żelaza i stali oraz włókien syntetycznych w rozumieniu przepisów Unii Europejskiej dotyczących pomocy publicznejZakres sektora hutnictwa żelaza i stali został określony w załączniku I do Wytycznych w sprawie krajowej pomocy regionalnej na lata 2007–2013 (Dz. Urz. UE C 54 z 04.03.2006, str. 13), natomiast zakres sektora włókien syntetycznych w załączniku II do tych Wytycznych. Okres obowiązywania Wytycznych w sprawie krajowej pomocy regionalnej na lata 2007–2013 został przedłużony do dnia 30 czerwca 2014 r. zgodnie z Wytycznymi w sprawie krajowej pomocy regionalnej na lata 2014–2020 (tekst mający znaczenie dla EOG) (Dz. Urz. UE C 209 z 23.07.2013, str. 1).;
 5)
 prowadzoną w sektorze węglowym w rozumieniu decyzji Rady, o której mowa w § 5 ust. 1 pkt 4;
 6)
 prowadzoną w sektorze budownictwa okrętowego.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3..
 Do wsparcia, o którym mowa w § 9 ust. 1, w części dotyczącej wydatków związanych z modernizacją środków trwałych, zakupem ekspertyz, analiz przygotowawczych lub usług doradczych związanych z przygotowaniem realizacji projektu, promocją wdrożonych rozwiązań, w tym informacją o udziale finansowym środków budżetu Unii Europejskiej w realizowanym projekcie, obsługą instrumentów zabezpieczających realizację umowy o udzielenie wsparcia oraz na pokrycie kosztów związanych z otwarciem i prowadzeniem przez beneficjenta odrębnego rachunku bankowego lub subkonta na rachunku bankowym przeznaczonych do obsługi projektu lub płatności zaliczkowych, stosuje się § 5 ust. 1, ust. 2 pkt 1 oraz ust. 3 i 4.
 3.
 Wsparcie, o którym mowa w § 9 ust. 1, w części dotyczącej wydatków związanych z modernizacją środków trwałych, zakupem ekspertyz, analiz przygotowawczych lub usług doradczych związanych z przygotowaniem realizacji projektu, promocją wdrożonych rozwiązań, w tym informacją o udziale finansowym środków budżetu Unii Europejskiej w realizowanym projekcie, obsługą instrumentów zabezpieczających realizację umowy o udzielenie wsparcia oraz na pokrycie kosztów związanych z otwarciem i prowadzeniem przez beneficjenta odrębnego rachunku bankowego lub subkonta na rachunku bankowym przeznaczonych do obsługi projektu lub płatności zaliczkowych, jest udzielane do wysokości 85% wydatków kwalifikujących się do objęcia wsparciem poniesionych w tym zakresie.
 4.
-Wsparcie, o którym mowa w § 9 ust. 1, w części dotyczącej wydatków na inwestycje podlega indywidualnej notyfikacji Komisji Europejskiej w przypadkach określonych w art. 6 ust. 2 rozporządzenia Komisji.
+Wsparcie, o którym mowa w § 9 ust. 1, w części dotyczącej wydatków na inwestycje podlega indywidualnej notyfikacji Komisji Europejskiej w przypadkach określonych w art. 6 ust. 2 rozporządzenia KomisjiUchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r..
 5.
-Wsparcie, o którym mowa w § 9 ust. 1, w części dotyczącej wydatków na szkolenia podlega indywidualnej notyfikacji Komisji Europejskiej w przypadkach określonych w art. 6 ust. 1 lit. g rozporządzenia Komisji.
+Wsparcie, o którym mowa w § 9 ust. 1, w części dotyczącej wydatków na szkolenia podlega indywidualnej notyfikacji Komisji Europejskiej w przypadkach określonych w art. 6 ust. 1 lit. g rozporządzenia KomisjiUchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r..
 6.
-Wsparcie, o którym mowa w § 9 ust. 1, w części dotyczącej wydatków na doradztwo podlega indywidualnej notyfikacji Komisji Europejskiej w przypadkach określonych w art. 6 ust. 1 lit. c rozporządzenia Komisji.
+Wsparcie, o którym mowa w § 9 ust. 1, w części dotyczącej wydatków na doradztwo podlega indywidualnej notyfikacji Komisji Europejskiej w przypadkach określonych w art. 6 ust. 1 lit. c rozporządzenia KomisjiUchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r..
 7.
 Wsparcie, o którym mowa w § 9 ust. 1, udzielane mikroprzedsiębiorcy, małemu przedsiębiorcy lub średniemu przedsiębiorcy w odniesieniu do tych samych wydatków kwalifikujących się do objęcia wsparciem, podlega sumowaniu z każdą inną pomocą, w tym pomocą de minimis , bez względu na jej formę i źródło pochodzenia, i nie może przekroczyć maksymalnej intensywności wsparcia określonej dla danego przeznaczenia pomocy w przepisach Unii Europejskiej.
 8.
 Wydatki kwalifikujące się do objęcia wsparciem, o których mowa w § 10 ust. 2:
 1)
-pkt 1–4 i 6–7, będą finansowane zgodnie z warunkami określonymi w przepisach rozdziału I, art. 13 w rozdziale II oraz rozdziału III rozporządzenia Komisji;
+pkt 1–4 i 6–7, będą finansowane zgodnie z warunkami określonymi w przepisach rozdziału I, art. 13 w rozdziale II oraz rozdziału III rozporządzenia KomisjiUchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r.;
 2)
 pkt 5 i 9–12 będą finansowane zgodnie z warunkami określonymi w przepisach rozporządzenia Komisji, o którym mowa w § 2 ust. 1;
 3)
-pkt 8, będą finansowane zgodnie z warunkami określonymi w przepisach rozdziału I, art. 26 w rozdziale II oraz rozdziału III rozporządzenia Komisji;
+pkt 8, będą finansowane zgodnie z warunkami określonymi w przepisach rozdziału I, art. 26 w rozdziale II oraz rozdziału III rozporządzenia KomisjiUchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r.;
 4)
-pkt 13, będą finansowane zgodnie z warunkami określonymi w przepisach rozdziału I, sekcji 8 rozdziału II oraz rozdziału III rozporządzenia Komisji.
+pkt 13, będą finansowane zgodnie z warunkami określonymi w przepisach rozdziału I, sekcji 8 rozdziału II oraz rozdziału III rozporządzenia KomisjiUchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r..
 9.
 Intensywność wsparcia w części dotyczącej wydatków na inwestycje, z zastrzeżeniem ust. 10, nie może przekroczyć:
 1)
@@ -430,15 +427,15 @@ Intensywność wsparcia, o której mowa w ust. 13, zwiększa się o:
 15.
 Intensywność wsparcia w części dotyczącej wydatków na doradztwo nie może przekroczyć 50% wydatków kwalifikujących się do objęcia wsparciem.
 16.
-W przypadku gdy projekt, o którym mowa w § 9 ust. 1, stanowi element innego projektu spełniającego warunki określone w art. 2 pkt 12 rozporządzenia Komisji, maksymalną wartość wsparcia udzielanego na realizację projektu inwestycyjnego ustala się zgodnie ze wzorem określonym w § 4 ust. 1 rozporządzenia Rady Ministrów z dnia 13 października 2006 r. w sprawie ustalenia mapy pomocy regionalnej (Dz. U. Nr 190, poz. 1402 oraz z 2013 r. poz. 1540).
+W przypadku gdy projekt, o którym mowa w § 9 ust. 1, stanowi element innego projektu spełniającego warunki określone w art. 2 pkt 12 rozporządzenia KomisjiUchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r., maksymalną wartość wsparcia udzielanego na realizację projektu inwestycyjnego ustala się zgodnie ze wzorem określonym w § 4 ust. 1 rozporządzenia Rady Ministrów z dnia 13 października 2006 r. w sprawie ustalenia mapy pomocy regionalnej (Dz. U. Nr 190, poz. 1402 oraz z 2013 r. poz. 1540)Rozporządzenie Rady Ministrów z dnia 13 października 2006 r. w sprawie ustalenia mapy pomocy regionalnej (Dz. U. Nr 190, poz. 1402 oraz z 2013 r. poz. 1540) zgodnie z § 9 obowiązywało do dnia 30 czerwca 2014 r..
 17.
 Kwota wsparcia na projekt, o którym mowa w § 9 ust. 1, nie może być niższa niż 20 000 zł.
 § 13.
 1.
 Wsparcie, o którym mowa w § 9 ust. 1, może być udzielane w formie pomocy de minimis , do wysokości 70% wydatków kwalifikujących się do objęcia wsparciem, o których mowa w § 10.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3..
 Do wsparcia, o którym mowa w ust. 1, stosuje się § 5 ust. 1, ust. 2 pkt 1 i ust. 4.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3..
 Wsparcie, o którym mowa w ust. 1, może być udzielone jednemu mikroprzedsiębiorcy, małemu przedsiębiorcy lub średniemu przedsiębiorcy, pod warunkiem że łącznie z inną pomocą de minimis, otrzymaną w bieżącym roku podatkowym oraz w ciągu 2 poprzednich lat podatkowych z różnych źródeł i w różnych formach, nie przekroczy kwoty 200 000 euro, a w przypadku jednego przedsiębiorcy prowadzącego działalność gospodarczą w sektorze transportu drogowego towarów – 100 000 euro.
 4.
 Wsparcie, o którym mowa w ust. 1, udzielane mikroprzedsiębiorcy, małemu przedsiębiorcy lub średniemu przedsiębiorcy w odniesieniu do tych samych wydatków kwalifikujących się do objęcia wsparciem, podlega sumowaniu z każdą inną pomocą, w tym pomocą de minimis , bez względu na jej formę i źródło pochodzenia, i nie może przekroczyć maksymalnej intensywności wsparcia, określonej dla danego przeznaczenia pomocy w przepisach Unii Europejskiej.
@@ -509,9 +506,9 @@ Kwota wsparcia, o którym mowa w ust. 1, nie może być niższa niż 20 000 zł 
 Wsparcie, o którym mowa w ust. 1, może być udzielane w formie pomocy de minimis, do wysokości 70% wydatków kwalifikujących się do objęcia wsparciem.
 11.
 Pomoc de minimis udzielana uczestnikom sieci kontrahentów zmniejsza wartość pomocy de minimis udzielonej koordynatorowi sieci kontrahentów.
-12.
+12W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3..
 Do wsparcia, o którym mowa w ust. 1, stosuje się § 5 ust. 1, ust. 2 pkt 1 i ust. 4.
-13.
+13W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3..
 Wsparcie, o którym mowa w ust. 1, może być udzielone jednemu mikroprzedsiębiorcy, małemu przedsiębiorcy lub średniemu przedsiębiorcy, pod warunkiem że łącznie z inną pomocą de minimis , otrzymaną w bieżącym roku podatkowym oraz w ciągu 2 poprzednich lat podatkowych z różnych źródeł i w różnych formach, nie przekroczy kwoty 200 000 euro, a w przypadku jednego przedsiębiorcy prowadzącego działalność gospodarczą w sektorze transportu drogowego towarów – 100 000 euro.
 14.
 Wsparcie, o którym mowa w ust. 1, udzielane mikroprzedsiębiorcy, małemu przedsiębiorcy lub średniemu przedsiębiorcy w odniesieniu do tych samych wydatków kwalifikujących się do objęcia wsparciem, podlega sumowaniu z każdą inną pomocą, w tym pomocą de minimis , bez względu na jej formę i źródło pochodzenia, i nie może przekroczyć maksymalnej intensywności wsparcia, określonej dla danego przeznaczenia pomocy w przepisach Unii Europejskiej.
@@ -523,6 +520,7 @@ Zaświadczenie o pomocy de minimis udzielanej uczestnikom sieci kontrahentów wy
 Mikroprzedsiębiorca, mały przedsiębiorca lub średni przedsiębiorca otrzymujący wsparcie, o którym mowa w § 9 ust. 1, zapewnia finansowanie projektu w części nieobjętej wsparciem ze środków własnych pochodzących z innych źródeł niż pomoc publiczna.
 § 16.
 Całkowita wartość projektu nie może przekroczyć 50 000 000 euro na dzień udzielania wsparcia.
+Tryb udzielania wsparcia na tworzenie i rozwój gospodarki elektronicznej
 § 17.
 1.
 Agencja, w celu wyłonienia projektów do wsparcia, ogłasza na swojej stronie internetowej konkurs, o którym mowa w art. 28 ust. 1 pkt 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2014 r. poz. 1649).
@@ -560,11 +558,12 @@ Agencja udziela wsparcia na podstawie oceny dokonanej zgodnie z obowiązującymi
 Agencja ogłasza na swojej stronie internetowej listę projektów wyłonionych do wsparcia oraz pisemnie informuje każdego z wnioskodawców o wynikach rozpatrzenia jego wniosku.
 § 18.
 Do postępowania w sprawie udzielenia wsparcia stosuje się art. 29 ust. 4, art. 30–30g oraz art. 37 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
-§ 19.
+§ 19W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 16 grudnia 2013 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie tworzenia i rozwoju gospodarki elektronicznej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 (Dz. U. poz. 1649), które weszło w życie z dniem 28 grudnia 2013 r..
 1.
-Pomoc finansowa może być udzielana do końca okresu dostosowawczego, o którym mowa w art. 44 ust. 3 zdanie pierwsze w związku z art. 45 rozporządzenia Komisji , z wyłączeniem regionalnej pomocy inwestycyjnej. Regionalna pomoc inwestycyjna może być udzielana do dnia określonego w art. 44 ust. 3 zdanie drugie rozporządzenia Komisji .
-2.
+Pomoc finansowa może być udzielana do końca okresu dostosowawczego, o którym mowa w art. 44 ust. 3 zdanie pierwsze w związku z art. 45 rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r., z wyłączeniem regionalnej pomocy inwestycyjnej. Regionalna pomoc inwestycyjna może być udzielana do dnia określonego w art. 44 ust. 3 zdanie drugie rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r..
+2W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3..
 Pomoc de minimis może być udzielana do dnia 31 grudnia 2015 r.
+Przepisy przejściowe i końcowe
 § 20.
 1.
 Do umów o udzielenie wsparcia zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
@@ -573,16 +572,25 @@ Do wniosków o udzielenie wsparcia złożonych w ramach konkursów ogłoszonych 
 § 21.
 Traci moc rozporządzenie Ministra Rozwoju Regionalnego z dnia 13 sierpnia 2008 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie tworzenia i rozwoju gospodarki elektronicznej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 (Dz. U. Nr 153, poz. 956, z 2009 r. Nr 21, poz. 115, z 2010 r. Nr 105, poz. 666 oraz z 2012 r. poz. 350).
 § 21.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Zgodnie z art. 25 pkt 1 w związku z art. 18 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2014 r. poz. 1649) minister właściwy do spraw rozwoju regionalnego jest Instytucją Zarządzającą Programem Operacyjnym Innowacyjna Gospodarka, 2007–2013. Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Infrastruktury i Rozwoju, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Rozwoju (Dz. U. poz. 1257). 2) Tekst Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 został zaakceptowany decyzją Komisji Europejskiej nr K(2007) 4562 z dnia 1 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce oraz zmieniony decyzją Komisji Europejskiej nr K(2011) 9788 z dnia 22 grudnia 2011 r. i przyjęty uchwałą Rady Ministrów z dnia 30 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013. 3) Część wspólna w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 18 czerwca 2014 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie tworzenia i rozwoju gospodarki elektronicznej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 (Dz. U. poz. 828), które weszło w życie z dniem 1 lipca 2014 r. 4) Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4. 6) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 7) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 8) Dodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 3. 9) Zakres sektora hutnictwa żelaza i stali został określony w załączniku I do Wytycznych w sprawie krajowej pomocy regionalnej na lata 2007–2013 (Dz. Urz. UE C 54 z 04.03.2006, str. 13), natomiast zakres sektora włókien syntetycznych w załączniku II do tych Wytycznych. Okres obowiązywania Wytycznych w sprawie krajowej pomocy regionalnej na lata 2007–2013 został przedłużony do dnia 30 czerwca 2014 r. zgodnie z Wytycznymi w sprawie krajowej pomocy regionalnej na lata 2014–2020 (tekst mający znaczenie dla EOG) (Dz. Urz. UE C 209 z 23.07.2013, str. 1). 10) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 11) Rozporządzenie Rady Ministrów z dnia 13 października 2006 r. w sprawie ustalenia mapy pomocy regionalnej (Dz. U. Nr 190, poz. 1402 oraz z 2013 r. poz. 1540) zgodnie z § 9 obowiązywało do dnia 30 czerwca 2014 r. 12) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 13) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3. 14) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 16 grudnia 2013 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie tworzenia i rozwoju gospodarki elektronicznej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 (Dz. U. poz. 1649), które weszło w życie z dniem 28 grudnia 2013 r. 15) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3. 16) Rozporządzenie zostało ogłoszone w dniu 29 marca 2013 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 29 marca 2013 r.. 1) Zgodnie z art. 25 pkt 1 w związku z art. 18 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2014 r. poz. 1649) minister właściwy do spraw rozwoju regionalnego jest Instytucją Zarządzającą Programem Operacyjnym Innowacyjna Gospodarka, 2007–2013. Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Infrastruktury i Rozwoju, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Rozwoju (Dz. U. poz. 1257). 2) Tekst Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 został zaakceptowany decyzją Komisji Europejskiej nr K(2007) 4562 z dnia 1 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce oraz zmieniony decyzją Komisji Europejskiej nr K(2011) 9788 z dnia 22 grudnia 2011 r. i przyjęty uchwałą Rady Ministrów z dnia 30 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013. 3) Część wspólna w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 18 czerwca 2014 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie tworzenia i rozwoju gospodarki elektronicznej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 (Dz. U. poz. 828), które weszło w życie z dniem 1 lipca 2014 r. 4) Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4. 6) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 7) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 8) Dodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 3. 9) Zakres sektora hutnictwa żelaza i stali został określony w załączniku I do Wytycznych w sprawie krajowej pomocy regionalnej na lata 2007–2013 (Dz. Urz. UE C 54 z 04.03.2006, str. 13), natomiast zakres sektora włókien syntetycznych w załączniku II do tych Wytycznych. Okres obowiązywania Wytycznych w sprawie krajowej pomocy regionalnej na lata 2007–2013 został przedłużony do dnia 30 czerwca 2014 r. zgodnie z Wytycznymi w sprawie krajowej pomocy regionalnej na lata 2014–2020 (tekst mający znaczenie dla EOG) (Dz. Urz. UE C 209 z 23.07.2013, str. 1). 10) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 11) Rozporządzenie Rady Ministrów z dnia 13 października 2006 r. w sprawie ustalenia mapy pomocy regionalnej (Dz. U. Nr 190, poz. 1402 oraz z 2013 r. poz. 1540) zgodnie z § 9 obowiązywało do dnia 30 czerwca 2014 r. 12) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 13) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3. 14) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 16 grudnia 2013 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie tworzenia i rozwoju gospodarki elektronicznej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 (Dz. U. poz. 1649), które weszło w życie z dniem 28 grudnia 2013 r. 15) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3. 16) Rozporządzenie zostało ogłoszone w dniu 29 marca 2013 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom lub małym przedsiębiorcom wsparcia na działalność gospodarczą w dziedzinie gospodarki elektronicznej w ramach działania 8.1. Wspieranie działalności gospodarczej w dziedzinie gospodarki elektronicznej Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
+#### Rozdział 2 – Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom lub małym przedsiębiorcom wsparcia na działalność gospodarczą w dziedzinie gospodarki elektronicznej w ramach działania 8.1. Wspieranie działalności gospodarczej w dziedzinie gospodarki elektronicznej Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 
-#### Rozdział 3 Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom, małym przedsiębiorcom lub średnim przedsiębiorcom wsparcia na wdrażanie elektronicznego biznesu typu B2B w ramach działania 8.2. Wspieranie wdrażania elektronicznego biznesu typu B2B Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
+#### Rozdział 3 – Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom, małym przedsiębiorcom lub średnim przedsiębiorcom wsparcia na wdrażanie elektronicznego biznesu typu B2B w ramach działania 8.2. Wspieranie wdrażania elektronicznego biznesu typu B2B Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 
-#### Rozdział 4 Tryb udzielania wsparcia na tworzenie i rozwój gospodarki elektronicznej
+#### Rozdział 4 – Tryb udzielania wsparcia na tworzenie i rozwój gospodarki elektronicznej
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-23 |
 | Data wydania | 2018-01-25 |
-| Wejście w życie | 2018-01-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000226) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/226/text.pdf) |
 
@@ -31,17 +30,13 @@ Na podstawie art. 36 § 4 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokurat
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 13 lutego 2017 r. w sprawie sposobu realizacji czynności prokuratora w ramach kontroli nad czynnościami operacyjno-rozpoznawczymi (Dz. U. poz. 292 i 360) w § 1:
 1)
-po pkt 1 dodaje się pkt 1a w brzmieniu:
-„
+po pkt 1 dodaje się pkt 1a w brzmieniu: „
 1a)
-art. 11n i 11o ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm.);
-” ;
+art. 11n i 11o ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 443 i 943, z 1998 r. poz. 860, z 2006 r. poz. 1592, z 2007 r. poz. 162, z 2010 r. poz. 1228, z 2012 r. poz. 908 oraz z 2018 r. poz. 106 i 138.); ” ;
 2)
-dodaje się pkt 8 w brzmieniu:
-„
+dodaje się pkt 8 w brzmieniu: „
 8)
-art. 42–54 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138).
-” .
+art. 42–54 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138). ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r., z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem 1 lutego 2018 r.
+Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r., z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem 1 lutego 2018 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 443 i 943, z 1998 r. poz. 860, z 2006 r. poz. 1592, z 2007 r. poz. 162, z 2010 r. poz. 1228, z 2012 r. poz. 908 oraz z 2018 r. poz. 106 i 138.
 

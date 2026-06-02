@@ -25,9 +25,10 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002144) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2144/text.pdf) |
 
-Treść obwieszczenia Rozdział 1 – Dane zbiorcze Rozdział 2 – Wyniki wyborów
+Treść obwieszczenia
 Treść obwieszczenia
 Na podstawie art. 477 § 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2018 r. poz. 754, 1000 i 1349) Państwowa Komisja Wyborcza podaje do publicznej wiadomości, na podstawie danych zawartych w obwieszczeniach komisarzy wyborczych, zbiorcze wyniki ponownego głosowania w wyborach wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonego w dniu 4 listopada 2018 r.
+Dane zbiorcze
 1.
 W ponownym głosowaniu wybierano łącznie 649 wójtów, burmistrzów i prezydentów miast spośród 1296 kandydatów, w tym w 2 gminach i miastach, w których zarejestrowano tylko jednego kandydata.
 2.
@@ -46,6 +47,7 @@ postawienia znaku „X” obok nazwiska dwóch kandydatów albo postawienia znak
 niepostawienia znaku „X” obok nazwiska żadnego kandydata albo niepostawienia znaku „X” ani za ani przeciw wyborowi kandydata oddano 15 931, to jest 47,26% ogólnej liczby głosów nieważnych,
 3)
 postawienia znaku „X” wyłącznie obok nazwiska skreślonego kandydata oddano 0, to jest 0,00% ogólnej liczby głosów nieważnych.
+Wyniki wyborów
 1.
 W ponownym głosowaniu wybierano łącznie 649 wójtów, burmistrzów i prezydentów miast, z czego:
 1)
@@ -69,7 +71,11 @@ Wybrano łącznie 649 wójtów, burmistrzów i prezydentów miast, z czego:
 2)
 136 wójtów, burmistrzów i prezydentów miast w gminach powyżej 20 tys. mieszkańców.
 
-#### Rozdział 1 Dane zbiorcze
+#### Rozdział 1 – Dane zbiorcze
 
-#### Rozdział 2 Wyniki wyborów
+#### Rozdział 2 – Wyniki wyborów
+
+#### Rozdział 1
+
+#### Rozdział 2
 

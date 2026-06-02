@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-08 |
 | Data wydania | 2016-12-16 |
-| Wejście w życie | 2016-12-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002053) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2053/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Zgłoszenie znaku towarowego Rozdział 3 – Rozpatrywanie zgłoszenia znaku towarowego Rozdział 4 – Postępowanie w sprawie uznawania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowych znaków towarowych Rozdział 5 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 152 ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2013 r. poz. 1410 oraz z 2015 r. poz. 1266, 1505 i 1615) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -57,6 +57,7 @@ Przepisy rozporządzenia stosuje się odpowiednio do:
 wspólnych znaków towarowych, o których mowa w art. 136 ust. 1 ustawy;
 2)
 wspólnych znaków towarowych gwarancyjnych, o których mowa w art. 137 ust. 1 ustawy.
+Zgłoszenie znaku towarowego
 § 4.
 Zgłoszenia znaku towarowego, o którym mowa w art. 138 ustawy, dokonuje się w formie podania. W przypadku zgłoszenia znaku towarowego dźwiękowego, nagranie dźwięku, o którym mowa w art. 141 ust. 2 ustawy, dołącza się w dwóch egzemplarzach.
 § 5.
@@ -175,6 +176,7 @@ Jeżeli dowód pierwszeństwa, o którym mowa w art. 139 ustawy, został sporzą
 Urząd Patentowy może wezwać do złożenia tłumaczenia na język polski każdego dokumentu sporządzonego w języku innym niż polski, z zastrzeżeniem ust. 2.
 4.
 Dokumenty sporządzone za granicą muszą odpowiadać przepisom prawa obowiązującego w państwie ich sporządzenia lub postanowieniom umów międzynarodowych.
+Rozpatrywanie zgłoszenia znaku towarowego
 § 11.
 1.
 Po otrzymaniu zgłoszenia znaku towarowego Urząd Patentowy niezwłocznie dokonuje czynności, o których mowa w art. 41 ust. 1 ustawy.
@@ -288,6 +290,7 @@ imię i nazwisko oraz miejsce zamieszkania albo nazwę oraz siedzibę uprawnione
 określenie znaku towarowego ze wskazaniem kolorów i symboli klasyfikacji elementów graficznych, przyjętej na podstawie Porozumienia wiedeńskiego, a w razie potrzeby – rodzaju znaku;
 6)
 wskazanie towarów przyporządkowanych do odpowiednich klas towarowych.
+Postępowanie w sprawie uznawania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowych znaków towarowych
 § 22.
 Urząd Patentowy dokonuje ogłoszenia w „Biuletynie Urzędu Patentowego” o wyznaczeniu międzynarodowego znaku towarowego, zgodnie z art. 1526 ust.1 i 2 ustawy, zamieszczając w nim następujące dane:
 1)
@@ -310,16 +313,27 @@ numer rejestracji międzynarodowej znaku towarowego, wobec której wniesiono spr
 nazwisko i imię albo nazwę wnoszącego sprzeciw.
 § 24.
 Po uznaniu na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego znaku towarowego Urząd Patentowy dokonuje ogłoszenia w „Wiadomościach Urzędu Patentowego”, w którym wskazuje informacje, o których mowa w § 22, datę ogłoszenia w „Biuletynie Urzędu Patentowego” o wyznaczeniu na terytorium Rzeczypospolitej Polskiej międzynarodowego znaku towarowego oraz datę uznania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego znaku towarowego.
+Przepis końcowy
 § 25.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 8 lipca 2002 r. w sprawie dokonywania i rozpatrywania zgłoszeń znaków towarowych (Dz. U. poz. 998, z 2005 r. poz. 911 oraz z 2014 r. poz. 466), które utraciło moc z dniem 15 kwietnia 2016 r. w związku z wejściem w życie ustawy z dnia 11 września 2015 r. o zmianie ustawy – Prawo własności przemysłowej (Dz. U. poz. 1615). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 8 lipca 2002 r. w sprawie dokonywania i rozpatrywania zgłoszeń znaków towarowych (Dz. U. poz. 998, z 2005 r. poz. 911 oraz z 2014 r. poz. 466), które utraciło moc z dniem 15 kwietnia 2016 r. w związku z wejściem w życie ustawy z dnia 11 września 2015 r. o zmianie ustawy – Prawo własności przemysłowej (Dz. U. poz. 1615).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Zgłoszenie znaku towarowego
+#### Rozdział 2 – Zgłoszenie znaku towarowego
 
-#### Rozdział 3 Rozpatrywanie zgłoszenia znaku towarowego
+#### Rozdział 3 – Rozpatrywanie zgłoszenia znaku towarowego
 
-#### Rozdział 4 Postępowanie w sprawie uznawania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowych znaków towarowych
+#### Rozdział 4 – Postępowanie w sprawie uznawania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowych znaków towarowych
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

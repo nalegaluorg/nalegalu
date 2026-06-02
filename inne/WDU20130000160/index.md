@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-01-15 |
 | Data wydania | 2013-01-31 |
-| Wejście w życie | 2013-02-15 |
 | Ostatnia zmiana | 2025-10-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000160) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/160/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wykaz zakażeń i chorób zakaźnych objętych współdziałaniem organów
 Treść rozporządzenia
-Na podstawie art. 24 ust. 6 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. Nr 234, poz. 1570, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 24 ust. 6 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. Nr 234, poz. 1570, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 76, poz. 641, z 2010 r. Nr 107, poz. 679 i Nr 257, poz. 1723 oraz z 2012 r. poz. 892.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -96,8 +95,7 @@ zespołu hemolityczno-mocznicowego i innych postaci zakażenia werotoksycznymi p
 i)
 grypy ptaków u ludzi,
 2)
-stwierdzeniu w materiale biologicznym pobranym od człowieka obecności biologicznych czynników chorobotwórczych wywołujących zakażenia i choroby zakaźne, o których mowa w pkt 1
-właściwy państwowy inspektor sanitarny informuje o tym niezwłocznie, nie później jednak niż w ciągu 24 godzin od chwili powzięcia tej informacji, właściwego powiatowego lekarza weterynarii.
+stwierdzeniu w materiale biologicznym pobranym od człowieka obecności biologicznych czynników chorobotwórczych wywołujących zakażenia i choroby zakaźne, o których mowa w pkt 1 – właściwy państwowy inspektor sanitarny informuje o tym niezwłocznie, nie później jednak niż w ciągu 24 godzin od chwili powzięcia tej informacji, właściwego powiatowego lekarza weterynarii.
 § 5.
 W przypadku otrzymania zgłoszenia podejrzenia lub rozpoznania u co najmniej dwóch osób zachorowania lub zgonu z powodu:
 1)
@@ -107,8 +105,7 @@ listeriozy,
 3)
 kampylobakteriozy,
 4)
-włośnicy
-jeżeli zachodzi podejrzenie, że wspólnym źródłem zakażenia osób chorych na tę chorobę lub zmarłych z jej powodu są zwierzęta lub produkty pochodzenia zwierzęcego, właściwy państwowy inspektor sanitarny informuje o tym niezwłocznie, nie później jednak niż w ciągu 24 godzin od chwili powzięcia tej informacji, właściwego powiatowego lekarza weterynarii.
+włośnicy – jeżeli zachodzi podejrzenie, że wspólnym źródłem zakażenia osób chorych na tę chorobę lub zmarłych z jej powodu są zwierzęta lub produkty pochodzenia zwierzęcego, właściwy państwowy inspektor sanitarny informuje o tym niezwłocznie, nie później jednak niż w ciągu 24 godzin od chwili powzięcia tej informacji, właściwego powiatowego lekarza weterynarii.
 § 6.
 W przypadku stwierdzenia:
 1)
@@ -136,8 +133,7 @@ gorączki Q,
 k)
 chlamydiozy ptaków,
 2)
-w próbkach do badań pobranych od zwierząt obecności biologicznych czynników chorobotwórczych wywołujących choroby, o których mowa w pkt 1
-powiatowy lekarz weterynarii informuje o tym niezwłocznie, nie później jednak niż w ciągu 24 godzin od chwili powzięcia tej informacji, właściwego państwowego powiatowego inspektora sanitarnego.
+w próbkach do badań pobranych od zwierząt obecności biologicznych czynników chorobotwórczych wywołujących choroby, o których mowa w pkt 1 – powiatowy lekarz weterynarii informuje o tym niezwłocznie, nie później jednak niż w ciągu 24 godzin od chwili powzięcia tej informacji, właściwego państwowego powiatowego inspektora sanitarnego.
 § 7.
 W przypadku stwierdzenia u zwierząt gospodarskich lub w produktach pochodzenia zwierzęcego biologicznego czynnika chorobotwórczego, który może wywoływać zakażenia i choroby zakaźne u ludzi, w tym kampylobakteriozy, salmonellozy u drobiu, bydła i świń, listeriozy lub toksoplazmozy, powiatowy lekarz weterynarii informuje o tym niezwłocznie, nie później jednak niż w ciągu 24 godzin od chwili powzięcia tej informacji, właściwego państwowego powiatowego inspektora sanitarnego.
 § 8.
@@ -162,7 +158,7 @@ W przypadku przekazania sił i środków, o których mowa w ust. 1, następuje o
 § 11.
 Organy w ramach współdziałania, o którym mowa w § 2 ust. 1 pkt 2 lit. b, wykonują w swoich laboratoriach badania mikrobiologiczne, serologiczne, molekularne i inne w kierunku wykrywania biologicznych czynników chorobotwórczych wywołujących zakażenia i choroby zakaźne, o których mowa w załączniku do rozporządzenia.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 7 kwietnia 2006 r. w sprawie współdziałania między organami Państwowej Inspekcji Sanitarnej, Inspekcji Weterynaryjnej oraz Inspekcji Ochrony Środowiska w zakresie zwalczania chorób zakaźnych (Dz. U. Nr 73, poz. 516), które utraciło moc z dniem 2 stycznia 2012 r. na podstawie art. 68 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. Nr 234, poz. 1570, z 2009 r. Nr 76, poz. 641, z 2010 r. Nr 107, poz. 679 i Nr 257, poz. 1723 oraz z 2012 r. poz. 892). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 76, poz. 641, z 2010 r. Nr 107, poz. 679 i Nr 257, poz. 1723 oraz z 2012 r. poz. 892. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 7 kwietnia 2006 r. w sprawie współdziałania między organami Państwowej Inspekcji Sanitarnej, Inspekcji Weterynaryjnej oraz Inspekcji Ochrony Środowiska w zakresie zwalczania chorób zakaźnych (Dz. U. Nr 73, poz. 516), które utraciło moc z dniem 2 stycznia 2012 r. na podstawie art. 68 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. Nr 234, poz. 1570, z 2009 r. Nr 76, poz. 641, z 2010 r. Nr 107, poz. 679 i Nr 257, poz. 1723 oraz z 2012 r. poz. 892).
 Załącznik – Wykaz zakażeń i chorób zakaźnych objętych współdziałaniem organów
 Lp. Zakażenia i choroby zakaźne występujące u ludzi u zwierząt 1 bruceloza bruceloza u bydła, kóz, owiec i świń 2 chlamydioza chlamydioza ptaków 3 encefalopatia gąbczasta przenośne gąbczaste encefalopatie przeżuwaczy (TSE) 4 gorączka Q gorączka Q 5 gruźlica gruźlica bydła 6 kampylobakterioza kampylobakterioza 7 listerioza listerioza 8 mykoplazmoza mykoplazmoza drobiu 9 pryszczyca pryszczyca 10 grypa ptaków u ludzi grypa ptaków 11 salmoneloza salmonellozy u drobiu, bydła i świń 12 toksoplazmoza toksoplazmoza 13 tularemia tularemia 14 wąglik wąglik 15 włośnica włośnica 16 wścieklizna wścieklizna 17 zespół hemolityczno-mocznicowy i inne postaci zakażenia werotoksycznymi pałeczkami Escherichia coli (STEC/VTEC) zakażenia pałeczkami Escherichia coli (szczepy werocytotoksyczne)
 

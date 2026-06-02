@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-10 |
 | Data wydania | 2013-12-18 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001584) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1584/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 36 ust. 12 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2010 r. Nr 10, poz. 65, ze zm.) zarządza się, co następuje:
+Na podstawie art. 36 ust. 12 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2010 r. Nr 10, poz. 65, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 216, poz. 1676, z 2010 r. Nr 47, poz. 278, Nr 200, poz. 1326 i Nr 217, poz. 1429, z 2011 r. Nr 106, poz. 622 i Nr 142, poz. 830 oraz z 2013 r. poz. 829 i 1247.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -93,5 +92,5 @@ Jeżeli przeciętne wynagrodzenie, o którym mowa w ust. 1, jest niższe od prze
 § 8.
 W latach 2013 i 2014 podstawą ustalenia wynagrodzenia przewodniczącego i członków zespołu jest przeciętne wynagrodzenie w drugim kwartale 2010 r. ogłoszone w sposób wskazany w § 7 ust. 1 pkt 1.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 29 kwietnia 2009 r. w sprawie zespołu do przygotowania zestawu pytań testowych oraz zadań na egzamin radcowski oraz wykazu tytułów aktów prawnych (Dz. U. z 2013 r. poz. 1115), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 49 ust. 2 ustawy z dnia 13 czerwca 2013 r. o zmianie ustaw regulujących wykonywanie niektórych zawodów (Dz. U. poz. 829). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 216, poz. 1676, z 2010 r. Nr 47, poz. 278, Nr 200, poz. 1326 i Nr 217, poz. 1429, z 2011 r. Nr 106, poz. 622 i Nr 142, poz. 830 oraz z 2013 r. poz. 829 i 1247. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 29 kwietnia 2009 r. w sprawie zespołu do przygotowania zestawu pytań testowych oraz zadań na egzamin radcowski oraz wykazu tytułów aktów prawnych (Dz. U. z 2013 r. poz. 1115), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 49 ust. 2 ustawy z dnia 13 czerwca 2013 r. o zmianie ustaw regulujących wykonywanie niektórych zawodów (Dz. U. poz. 829).
 

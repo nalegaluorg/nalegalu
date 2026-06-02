@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-07-29 |
 | Data wydania | 2014-07-31 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001023) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1023/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 4 ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2013 r. poz. 594, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 4 ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2013 r. poz. 594, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 645 i 1318 oraz z 2014 r. poz. 379.) zarządza się, co następuje:
 § 1.
 Z dniem 1 stycznia 2015 r. w województwie lubuskim łączy się miasto na prawach powiatu Zielona Góra z gminą Zielona Góra w powiecie zielonogórskim.
 § 2.
@@ -65,5 +64,5 @@ w powiecie poznańskim, w gminie Murowana Goślina – miasta Murowana Goślina 
 § 6.
 Z dniem 1 stycznia 2015 r. w województwie lubelskim, w powiecie lubelskim zmienia się siedzibę władz gminy Głusk z Lublina na Dominów.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 645 i 1318 oraz z 2014 r. poz. 379.
 

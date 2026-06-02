@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-15 |
 | Data wydania | 2017-10-19 |
-| Wejście w życie | 2017-11-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001941) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1941/text.pdf) |
 
@@ -31,7 +30,7 @@ source: "eli-html"
 § 1. Kto:
 
 - **1)** chcąc wywołać niepotrzebną czynność, fałszywą informacją lub w inny sposób wprowadza w błąd instytucję użyteczności publicznej albo organ ochrony bezpieczeństwa, porządku publicznego lub zdrowia,
-- **2)** umyślnie, bez uzasadnionej przyczyny, blokuje telefoniczny numer alarmowy, utrudniając prawidłowe funkcjonowanie centrum powiadamiania ratunkowego podlega karze aresztu, ograniczenia wolności albo grzywny do 1500 zł. ” .
+- **2)** umyślnie, bez uzasadnionej przyczyny, blokuje telefoniczny numer alarmowy, utrudniając prawidłowe funkcjonowanie centrum powiadamiania ratunkowego – podlega karze aresztu, ograniczenia wolności albo grzywny do 1500 zł. ” .
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

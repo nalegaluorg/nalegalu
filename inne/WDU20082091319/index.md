@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy o podatku od czynności cywilnoprawnych
+# Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy o podatku od czynności cywilnoprawnych Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2008/7/WE z dnia 12 lutego 2008 r. dotyczącej podatków pośrednich od gromadzenia kapitału (Dz. Urz. UE L 46 z 21.02.2008, str. 11).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-11-07 |
 | Data wydania | 2008-12-28 |
-| Wejście w życie | 2009-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082091319) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1319/text.pdf) |
 
@@ -44,7 +43,7 @@ source: "eli-html"
 - **1)** przy spółce osobowej – wniesienie lub podwyższenie wkładu, którego wartość powoduje zwiększenie majątku spółki albo podwyższenie kapitału zakładowego, pożyczkę udzieloną spółce przez wspólnika, dopłaty oraz oddanie przez wspólnika spółce rzeczy lub praw majątkowych do nieodpłatnego używania;
 - **2)** przy spółce kapitałowej – podwyższenie kapitału zakładowego z wkładów lub ze środków spółki oraz dopłaty;
 - **3)** przekształcenie lub łączenie spółek, jeżeli ich wynikiem jest zwiększenie majątku spółki osobowej lub podwyższenie kapitału zakładowego;
-- **4)** przeniesienie na terytorium Rzeczypospolitej Polskiej z terytorium państwa niebędącego państwem członkowskim: rzeczywistego ośrodka zarządzania spółki kapitałowej, jeżeli jej siedziba nie znajduje się na terytorium państwa członkowskiego, siedziby spółki kapitałowej, jeżeli jej rzeczywisty ośrodek zarządzania nie znajduje się na terytorium państwa członkowskiego także wtedy, gdy czynność ta nie powoduje podwyższenia kapitału zakładowego. ” , w ust. 5 w pkt 2 lit. b otrzymuje brzmienie: „ siedziba tej spółki – jeżeli jej rzeczywisty ośrodek zarządzania nie znajduje się na terytorium innego państwa członkowskiego. ” ;
+- **4)** przeniesienie na terytorium Rzeczypospolitej Polskiej z terytorium państwa niebędącego państwem członkowskim: rzeczywistego ośrodka zarządzania spółki kapitałowej, jeżeli jej siedziba nie znajduje się na terytorium państwa członkowskiego, siedziby spółki kapitałowej, jeżeli jej rzeczywisty ośrodek zarządzania nie znajduje się na terytorium państwa członkowskiego – także wtedy, gdy czynność ta nie powoduje podwyższenia kapitału zakładowego. ” , w ust. 5 w pkt 2 lit. b otrzymuje brzmienie: „ siedziba tej spółki – jeżeli jej rzeczywisty ośrodek zarządzania nie znajduje się na terytorium innego państwa członkowskiego. ” ;
     - **a)**
     - **b)**
     - **d)**
@@ -63,12 +62,18 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-- **4)** w art. 6: w ust. 1 w pkt 8: – lit. a i b otrzymują brzmienie: „ a) przy zawarciu umowy – wartość wkładów do spółki osobowej albo wartość kapitału zakładowego, b) przy wniesieniu lub podwyższeniu wkładów do spółki osobowej albo podwyższeniu kapitału zakładowego – wartość wkładów powiększających majątek spółki osobowej albo wartość, o którą podwyższono kapitał zakładowy, ” , – lit. d otrzymuje brzmienie: „ d) przy pożyczce udzielonej spółce przez wspólnika – kwota lub wartość pożyczki, ” , – lit. f otrzymuje brzmienie: „ f) przy przekształceniu lub łączeniu spółek – wartość wkładów do spółki osobowej powstałej w wyniku przekształcenia albo wartość kapitału zakładowego spółki kapitałowej powstałej w wyniku przekształcenia lub połączenia, ” , w ust. 9 w pkt 3 średnik zastępuje się kropką i uchyla pkt 4–6;
+- **4)** w art. 6: w ust. 1 w pkt 8: lit. a i b otrzymują brzmienie: „ przy zawarciu umowy – wartość wkładów do spółki osobowej albo wartość kapitału zakładowego, przy wniesieniu lub podwyższeniu wkładów do spółki osobowej albo podwyższeniu kapitału zakładowego – wartość wkładów powiększających majątek spółki osobowej albo wartość, o którą podwyższono kapitał zakładowy, ” , lit. d otrzymuje brzmienie: „ przy pożyczce udzielonej spółce przez wspólnika – kwota lub wartość pożyczki, ” , lit. f otrzymuje brzmienie: „ przy przekształceniu lub łączeniu spółek – wartość wkładów do spółki osobowej powstałej w wyniku przekształcenia albo wartość kapitału zakładowego spółki kapitałowej powstałej w wyniku przekształcenia lub połączenia, ” , w ust. 9 w pkt 3 średnik zastępuje się kropką i uchyla pkt 4–6;
+    - **a)**
     - **a)**
     - **b)**
+    - **d)**
+    - **f)**
+    - **b)**
 
-- **5)** w art. 9: w pkt 10: – lit. d otrzymuje brzmienie: „ d) na podstawie umowy zawartej między innymi podmiotami niż osoby, o których mowa w lit. b i c, do łącznej wysokości nieprzekraczającej kwoty 5 000 zł od jednego podmiotu i 25 000 zł od wielu podmiotów – w okresach 3 kolejnych lat kalendarzowych, począwszy od dnia 1 stycznia 2009 r., ” , – średnik na końcu zastępuje się przecinkiem i dodaje się lit. i w brzmieniu: „ i) przez wspólnika (akcjonariusza) spółce kapitałowej; ” , pkt 11 otrzymuje brzmienie: „
+- **5)** w art. 9: w pkt 10: lit. d otrzymuje brzmienie: „ na podstawie umowy zawartej między innymi podmiotami niż osoby, o których mowa w lit. b i c, do łącznej wysokości nieprzekraczającej kwoty 5 000 zł od jednego podmiotu i 25 000 zł od wielu podmiotów – w okresach 3 kolejnych lat kalendarzowych, począwszy od dnia 1 stycznia 2009 r., ” , średnik na końcu zastępuje się przecinkiem i dodaje się lit. i w brzmieniu: „ przez wspólnika (akcjonariusza) spółce kapitałowej; ” , pkt 11 otrzymuje brzmienie: „
     - **a)**
+    - **d)**
+    - **i)**
     - **b)**
 
 - **11)** umowy spółki i ich zmiany: związane z przekształceniem lub łączeniem spółek w części wkładów do spółki albo kapitału zakładowego, których wartość była uprzednio opodatkowana podatkiem od czynności cywilnoprawnych lub podatkiem od wkładów kapitałowych do spółek kapitałowych na terytorium państwa członkowskiego innego niż Rzeczpospolita Polska albo od których zgodnie z prawem państwa członkowskiego podatek nie był naliczany, związane z podwyższeniem kapitału zakładowego pokrytego z niezwróconych wspólnikom lub akcjonariuszom dopłat albo z niezwróconej pożyczki udzielonej spółce kapitałowej przez wspólnika lub akcjonariusza, które były uprzednio opodatkowane podatkiem od czynności cywilnoprawnych lub podatkiem od wkładów kapitałowych do spółek kapitałowych na terytorium państwa członkowskiego innego niż Rzeczpospolita Polska, związane z podwyższeniem kapitału zakładowego w części dotyczącej wartości, o którą obniżono kapitał zakładowy w następstwie strat poniesionych przez spółkę kapitałową, pod warunkiem że podwyższenie kapitału zakładowego następuje w okresie 4 lat po jego obniżeniu, jeżeli przedmiotem działalności spółki kapitałowej jest świadczenie usług użyteczności publicznej w zakresie transportu publicznego, zarządzania portami i przystaniami morskimi, zaopatrzenia ludności w wodę, gaz, energię elektryczną, energię cieplną lub zbiorowego odprowadzania ścieków i w wyniku zawarcia umowy spółki Skarb Państwa lub jednostka samorządu terytorialnego obejmuje co najmniej połowę udziałów lub akcji w tej spółce albo w chwili zmiany umowy spółki Skarb Państwa lub jednostka samorządu terytorialnego posiada już co najmniej połowę udziałów lub akcji w tej spółce; ” ;
@@ -94,5 +99,5 @@ source: "eli-html"
 - **1)** pożyczki udzielonej tej spółce przez wspólników lub akcjonariuszy od dnia 1 stycznia 2007 r. do dnia 31 grudnia 2008 r.;
 - **2)** dopłat wniesionych przez wspólników lub akcjonariuszy od dnia 1 maja 2004 r.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2008/7/WE z dnia 12 lutego 2008 r. dotyczącej podatków pośrednich od gromadzenia kapitału (Dz. Urz. UE L 46 z 21.02.2008, str. 11).
 

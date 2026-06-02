@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 18 sierpnia 2017 r. w sprawie szczegółowych zasad i warunków udzielania i cofania zezwolenia na założenie przez osobę prawną lub osobę fizyczną szkoły lub placówki publicznej
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 18 sierpnia 2017 r. w sprawie szczegółowych zasad i warunków udzielania i cofania zezwolenia na założenie przez osobę prawną lub osobę fizyczną szkoły lub placówki publicznej Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-18 |
 | Data wydania | 2017-08-30 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001625) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1625/text.pdf) |
 
@@ -157,6 +156,5 @@ Założyciele uzupełniają wnioski, o których mowa w ust. 1, uwzględniając z
 § 9.
 Przepisy niniejszego rozporządzenia stosuje się w przypadku cofania zezwoleń na założenie szkół lub placówek publicznych udzielonych na podstawie dotychczasowych przepisów, z wyjątkiem cofania zezwoleń na założenie dotychczasowego trzyletniego liceum ogólnokształcącego lub czteroletniego technikum udzielonych zgodnie z przepisami wydanymi na podstawie art. 366 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej i Sportu z dnia 4 marca 2004 r. w sprawie szczegółowych zasad i warunków udzielania i cofania zezwolenia na założenie szkoły lub placówki publicznej przez osobę prawną lub osobę fizyczną (Dz. U. poz. 438 oraz z 2011 r. poz. 1343), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej i Sportu z dnia 4 marca 2004 r. w sprawie szczegółowych zasad i warunków udzielania i cofania zezwolenia na założenie szkoły lub placówki publicznej przez osobę prawną lub osobę fizyczną (Dz. U. poz. 438 oraz z 2011 r. poz. 1343), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949). 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej i Sportu z dnia 4 marca 2004 r. w sprawie szczegółowych zasad i warunków udzielania i cofania zezwolenia na założenie szkoły lub placówki publicznej przez osobę prawną lub osobę fizyczną (Dz. U. poz. 438 oraz z 2011 r. poz. 1343), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
 

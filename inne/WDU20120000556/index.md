@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 27 grudnia 2011 r. w sprawie oceny okresowej bezpieczeństwa jądrowego obiektu jądrowego
+# Rozporządzenie Rady Ministrówz dnia 27 grudnia 2011 r. w sprawie oceny okresowej bezpieczeństwa jądrowego obiektu jądrowego Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2009/71/Euratom z dnia 25 czerwca 2009 r. ustanawiającej wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 172 z 02.07.2009, str. 18, i 260 z 03.10.2009, str. 40).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-12-27 |
 | Data wydania | 2012-05-21 |
-| Wejście w życie | 2012-06-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000556) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/556/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 37e ust. 11 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2012 r. poz. 264) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 13 stycznia 2012 r., pod numerem 2012/0027/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). Na podstawie art. 37e ust. 11 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2012 r. poz. 264) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa zakres oceny okresowej bezpieczeństwa jądrowego obiektu jądrowego, zwanej dalej „oceną okresową”, oraz zakres raportu z oceny okresowej.
 § 2.
@@ -81,5 +80,5 @@ podsumowanie analiz, o których mowa w pkt 1, pozwalające na ogólną ocenę be
 3)
 program niezbędnych modernizacji i działań naprawczych mających na celu podniesienie poziomu bezpieczeństwa jądrowego w toku dalszej eksploatacji obiektu jądrowego.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2009/71/Euratom z dnia 25 czerwca 2009 r. ustanawiającej wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 172 z 02.07.2009, str. 18, i 260 z 03.10.2009, str. 40). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 13 stycznia 2012 r., pod numerem 2012/0027/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).
 

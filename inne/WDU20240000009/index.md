@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Edukacji i Naukiz dnia 23 listopada 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie podstawowych warunków niezbędnych do realizacji przez szkoły i nauczycieli zadań dydaktycznych, wychowawczych i opiekuńczych oraz programów nauczania
+# Obwieszczenie Ministra Edukacji i Naukiz dnia 23 listopada 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie podstawowych warunków niezbędnych do realizacji przez szkoły i nauczycieli zadań dydaktycznych, wychowawczych i opiekuńczych oraz programów nauczania Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842).
 
 | Pole | Wartość |
 |---|---|
@@ -32,31 +32,27 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji Narodowej z dnia 17 grudnia 2010 r. w sprawie podstawowych warunków niezbędnych do realizacji przez szkoły i nauczycieli zadań dydaktycznych, wychowawczych i opiekuńczych oraz programów nauczania (Dz. U. z 2011 r. poz. 23), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji i Nauki z dnia 28 grudnia 2022 r. zmieniającym rozporządzenie w sprawie podstawowych warunków niezbędnych do realizacji przez szkoły i nauczycieli zadań dydaktycznych, wychowawczych i opiekuńczych oraz programów nauczania (Dz. U. poz. 2811).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–4 rozporządzenia Ministra Edukacji i Nauki z dnia 28 grudnia 2022 r. zmieniającego rozporządzenie w sprawie podstawowych warunków niezbędnych do realizacji przez szkoły i nauczycieli zadań dydaktycznych, wychowawczych i opiekuńczych oraz programów nauczania (Dz. U. poz. 2811), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–4 rozporządzenia Ministra Edukacji i Nauki z dnia 28 grudnia 2022 r. zmieniającego rozporządzenie w sprawie podstawowych warunków niezbędnych do realizacji przez szkoły i nauczycieli zadań dydaktycznych, wychowawczych i opiekuńczych oraz programów nauczania (Dz. U. poz. 2811), które stanowią: „
 § 2.
 Minimalne wymagania dla sprzętu komputerowego określone w załączniku do rozporządzenia zmienianego w § 1 niniejszego rozporządzenia stosuje się do sprzętu komputerowego, w tym komputerów stacjonarnych, laptopów i tabletów, w który szkoły podstawowe i ponadpodstawowe prowadzące kształcenie w formie dziennej są wyposażane po dniu 31 sierpnia 2023 r.
 § 3.
 Minimalnych wymagań dla sprzętu komputerowego określonych w załączniku do rozporządzenia zmienianego w § 1 niniejszego rozporządzenia nie stosuje się do sprzętu komputerowego, na zakup którego jest udzielane wsparcie finansowe realizowane na podstawie Rządowego programu rozwijania szkolnej infrastruktury oraz kompetencji uczniów i nauczycieli w zakresie technologii informacyjno-komunikacyjnych na lata 2020–2024 – „Aktywna tablica”, ustanowionego uchwałą nr 151/2020 Rady Ministrów z dnia 23 października 2020 r., zmienioną uchwałą nr 109/2021 Rady Ministrów z dnia 20 sierpnia 2021 r.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842).
-Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 17 grudnia 2010 r. w sprawie podstawowych warunków niezbędnych do realizacji przez szkoły i nauczycieli zadań dydaktycznych, wychowawczych i opiekuńczych oraz programów nauczania
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842).
+Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 17 grudnia 2010 r. w sprawie podstawowych warunków niezbędnych do realizacji przez szkoły i nauczycieli zadań dydaktycznych, wychowawczych i opiekuńczych oraz programów nauczaniaObecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842).
 Na podstawie art. 29 ust. 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2023 r. poz. 984, 1234, 1586, 1672 i 2005) zarządza się, co następuje:
 § 1.
 Obiekt szkolny powinien:
 1)
 posiadać pomieszczenia do realizacji zadań dydaktycznych, wychowawczych i opiekuńczych, które spełniają wymagania dla pomieszczeń przeznaczonych na stały pobyt ludzi,
 2)
-spełniać warunki techniczne i lokalizacyjne
-określone w przepisach rozporządzenia Ministra Infrastruktury z dnia 12 kwietnia 2002 r. w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie (Dz. U. z 2022 r. poz. 1225 oraz z 2023 r. poz. 2442).
+spełniać warunki techniczne i lokalizacyjne – określone w przepisach rozporządzenia Ministra Infrastruktury z dnia 12 kwietnia 2002 r. w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie (Dz. U. z 2022 r. poz. 1225 oraz z 2023 r. poz. 2442).
 § 2.
 1.
 Szkoły powinny być wyposażone w pomoce dydaktyczne i sprzęt umożliwiające realizację zadań dydaktycznych, wychowawczych i opiekuńczych.
-1a.
+1aDodany przez § 1 pkt 1 rozporządzenia Ministra Edukacji i Nauki z dnia 28 grudnia 2022 r. zmieniającego rozporządzenie w sprawie podstawowych warunków niezbędnych do realizacji przez szkoły i nauczycieli zadań dydaktycznych, wychowawczych i opiekuńczych oraz programów nauczania (Dz. U. poz. 2811), które weszło w życie z dniem 29 grudnia 2022 r..
 Szkoły podstawowe i ponadpodstawowe prowadzące kształcenie w formie dziennej powinny być wyposażone w sprzęt komputerowy, w tym komputery stacjonarne, laptopy lub tablety, umożliwiający wykorzystanie technologii cyfrowych przy realizacji zadań dydaktycznych, wychowawczych i opiekuńczych oraz spełniający minimalne wymagania określone w załączniku do rozporządzenia.
-1b.
+1bDodany przez § 1 pkt 1 rozporządzenia Ministra Edukacji i Nauki z dnia 28 grudnia 2022 r. zmieniającego rozporządzenie w sprawie podstawowych warunków niezbędnych do realizacji przez szkoły i nauczycieli zadań dydaktycznych, wychowawczych i opiekuńczych oraz programów nauczania (Dz. U. poz. 2811), które weszło w życie z dniem 29 grudnia 2022 r..
 Minimalnych wymagań, o których mowa w ust. 1a, nie stosuje się do sprzętu komputerowego, w tym komputerów stacjonarnych, laptopów i tabletów:
 1)
 przeznaczonego dla uczniów klas I-III szkoły podstawowej;
@@ -80,9 +76,8 @@ czasopisma metodyczne związane z nauczanymi przedmiotami i prowadzonymi zajęci
 2.
 Decyzję o zakupie do zbiorów biblioteki szkolnej podręczników i czasopism metodycznych podejmuje dyrektor szkoły, uwzględniając zapotrzebowanie zgłoszone przez nauczycieli.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842). 2) Dodany przez § 1 pkt 1 rozporządzenia Ministra Edukacji i Nauki z dnia 28 grudnia 2022 r. zmieniającego rozporządzenie w sprawie podstawowych warunków niezbędnych do realizacji przez szkoły i nauczycieli zadań dydaktycznych, wychowawczych i opiekuńczych oraz programów nauczania (Dz. U. poz. 2811), które weszło w życie z dniem 29 grudnia 2022 r. 3) Rozporządzenie zostało ogłoszone w dniu 10 stycznia 2011 r. 4) Niniejsze rozporządzenie było poprzedzone zarządzeniem Ministra Oświaty i Wychowania z dnia 30 lipca 1982 r. w sprawie określenia podstawowych warunków do realizacji przez szkoły i nauczycieli zadań dydaktycznych, wychowawczych i opiekuńczych (Dz. Urz. MOiW poz. 93 oraz Dz. Urz. MEN z 1991 r. poz. 9).
-Załącznik – Minimalne wymagania dla sprzętu komputerowego
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 10 stycznia 2011 r..Niniejsze rozporządzenie było poprzedzone zarządzeniem Ministra Oświaty i Wychowania z dnia 30 lipca 1982 r. w sprawie określenia podstawowych warunków do realizacji przez szkoły i nauczycieli zadań dydaktycznych, wychowawczych i opiekuńczych (Dz. Urz. MOiW poz. 93 oraz Dz. Urz. MEN z 1991 r. poz. 9). 1) Obecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842). 2) Dodany przez § 1 pkt 1 rozporządzenia Ministra Edukacji i Nauki z dnia 28 grudnia 2022 r. zmieniającego rozporządzenie w sprawie podstawowych warunków niezbędnych do realizacji przez szkoły i nauczycieli zadań dydaktycznych, wychowawczych i opiekuńczych oraz programów nauczania (Dz. U. poz. 2811), które weszło w życie z dniem 29 grudnia 2022 r. 3) Rozporządzenie zostało ogłoszone w dniu 10 stycznia 2011 r. 4) Niniejsze rozporządzenie było poprzedzone zarządzeniem Ministra Oświaty i Wychowania z dnia 30 lipca 1982 r. w sprawie określenia podstawowych warunków do realizacji przez szkoły i nauczycieli zadań dydaktycznych, wychowawczych i opiekuńczych (Dz. Urz. MOiW poz. 93 oraz Dz. Urz. MEN z 1991 r. poz. 9).
+Załącznik – Minimalne wymagania dla sprzętu komputerowegoDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
 I.
 Sprzęt komputerowy dla ucznia
 I.1.
@@ -102,8 +97,7 @@ Bluetooth – co najmniej wersja 5;
 7)
 mikrofonu;
 8)
-kamery.
-Jednostka centralna powinna spełniać następujące wymagania techniczne:
+kamery. Jednostka centralna powinna spełniać następujące wymagania techniczne:
 1)
 wydajność w teście CrossMark – co najmniej 1100 punktów;
 2)
@@ -113,8 +107,7 @@ pamięć masowa (dysk SSD) – co najmniej 256GB;
 4)
 złącza komunikacyjne – co najmniej 2 (w tym złącze umożliwiające podłączenie wideo);
 5)
-zasilacz sieciowy przystosowany do polskiego systemu energetycznego.
-Monitor ekranowy powinien spełniać następujące wymagania techniczne:
+zasilacz sieciowy przystosowany do polskiego systemu energetycznego. Monitor ekranowy powinien spełniać następujące wymagania techniczne:
 1)
 kolorowy wyświetlacz;
 2)
@@ -122,8 +115,7 @@ przekątna – co najmniej 18 cali;
 3)
 rozdzielczość – co najmniej FHD;
 4)
-wbudowane głośniki stereo.
-Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
+wbudowane głośniki stereo. Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
 1)
 64-bitowy system operacyjny posiadający polską wersję językową;
 2)
@@ -143,24 +135,21 @@ narzędzia do programowania;
 9)
 edytor wideo;
 10)
-edytor dźwięku.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców. Producent komputera stacjonarnego (zestawu) powinien posiadać:
+edytor dźwięku. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców. Producent komputera stacjonarnego (zestawu) powinien posiadać:
 1)
 certyfikat ISO 9001 systemu zarządzania jakością;
 2)
-certyfikat ISO 14001 zarządzania środowiskiem.
+certyfikat ISO 14001 zarządzania środowiskiem. 5) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. Komputer stacjonarny (zestaw) powinien posiadać:
 1)
 certyfikat EPEAT;
 2)
-certyfikat CE.
-Komputer stacjonarny (zestaw) powinien być objęły co najmniej 36-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. Czas reakcji na zgłoszenie awarii lub usterki nie powinien być dłuższy niż jeden dzień roboczy. Naprawa powinna być zrealizowana w ciągu 5 dni roboczych od dnia zgłoszenia. W przypadku braku możliwości naprawy w tym terminie powinno być zapewnione urządzenie zastępcze o równoważnych parametrach. W przypadku naprawy realizowanej poza miejscem użytkowania komputera stacjonarnego (zestawu), wszelkie koszty związane z dostarczeniem komputera stacjonarnego (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
+certyfikat CE. Komputer stacjonarny (zestaw) powinien być objęły co najmniej 36-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. Czas reakcji na zgłoszenie awarii lub usterki nie powinien być dłuższy niż jeden dzień roboczy. Naprawa powinna być zrealizowana w ciągu 5 dni roboczych od dnia zgłoszenia. W przypadku braku możliwości naprawy w tym terminie powinno być zapewnione urządzenie zastępcze o równoważnych parametrach. W przypadku naprawy realizowanej poza miejscem użytkowania komputera stacjonarnego (zestawu), wszelkie koszty związane z dostarczeniem komputera stacjonarnego (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
 I.2.
 Laptop Laptop (zestaw) powinien składać się z:
 1)
 laptopa;
 2)
-myszy komputerowej lub zewnętrznego gładzika.
-Laptop powinien spełniać następujące wymagania techniczne:
+myszy komputerowej lub zewnętrznego gładzika. Laptop powinien spełniać następujące wymagania techniczne:
 1)
 wydajność w teście CrossMark – co najmniej 1000 punktów;
 2)
@@ -198,8 +187,7 @@ wbudowane głośniki stereo;
 13)
 waga laptopa wraz z baterią nie powinna przekraczać 2,5 kg;
 14)
-wbudowane mechanizmy bezpieczeństwa dostępu do danych.
-Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
+wbudowane mechanizmy bezpieczeństwa dostępu do danych. Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
 1)
 64-bitowy system operacyjny posiadający polską wersję językową;
 2)
@@ -219,25 +207,21 @@ narzędzia do programowania;
 9)
 edytor wideo;
 10)
-edytor dźwięku.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców. Producent laptopa (zestawu) powinien posiadać:
+edytor dźwięku. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców. Producent laptopa (zestawu) powinien posiadać:
 1)
 certyfikat ISO 9001 systemu zarządzania jakością;
 2)
-certyfikat ISO 14001 zarządzania środowiskiem.
-Laptop (zestaw) powinien posiadać:
+certyfikat ISO 14001 zarządzania środowiskiem. Laptop (zestaw) powinien posiadać:
 1)
 certyfikat EPEAT;
 2)
-certyfikat CE.
-Laptop (zestaw) powinien być objęły co najmniej 36-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. Czas reakcji na zgłoszenie awarii lub usterki nie powinien być dłuższy niż jeden dzień roboczy. Naprawa powinna być zrealizowana w ciągu 5 dni roboczych od dnia zgłoszenia. W przypadku braku możliwości naprawy w tym terminie powinno być zapewnione urządzenie zastępcze o równoważnych parametrach. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa (zestawu), wszelkie koszty związane z dostarczeniem laptopa (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
+certyfikat CE. Laptop (zestaw) powinien być objęły co najmniej 36-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. Czas reakcji na zgłoszenie awarii lub usterki nie powinien być dłuższy niż jeden dzień roboczy. Naprawa powinna być zrealizowana w ciągu 5 dni roboczych od dnia zgłoszenia. W przypadku braku możliwości naprawy w tym terminie powinno być zapewnione urządzenie zastępcze o równoważnych parametrach. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa (zestawu), wszelkie koszty związane z dostarczeniem laptopa (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
 I.3.
 Laptop przeglądarkowy Laptop przeglądarkowy (zestaw) powinien składać się z:
 1)
 laptopa przeglądarkowego;
 2)
-myszy komputerowej lub zewnętrznego gładzika.
-Laptop przeglądarkowy powinien spełniać następujące wymagania techniczne:
+myszy komputerowej lub zewnętrznego gładzika. Laptop przeglądarkowy powinien spełniać następujące wymagania techniczne:
 1)
 wydajność w teście:
 a)
@@ -281,8 +265,7 @@ wbudowane głośniki stereo;
 14)
 waga laptopa przeglądarkowego wraz z baterią nie powinna przekraczać 2 kg;
 15)
-wbudowane mechanizmy bezpieczeństwa dostępu do danych.
-Oprogramowanie zainstalowane na pamięci masowej, zainstalowane na pamięci wirtualnej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
+wbudowane mechanizmy bezpieczeństwa dostępu do danych. Oprogramowanie zainstalowane na pamięci masowej, zainstalowane na pamięci wirtualnej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
 1)
 64-bitowy system operacyjny posiadający polską wersję językową wraz z niezbędnymi licencjami umożliwiającymi pełne wykorzystanie funkcjonalności systemu operacyjnego;
 2)
@@ -302,18 +285,15 @@ narzędzia do programowania;
 9)
 edytor wideo;
 10)
-edytor dźwięku.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców. Producent laptopa przeglądarkowego (zestawu) powinien posiadać:
+edytor dźwięku. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców. Producent laptopa przeglądarkowego (zestawu) powinien posiadać:
 1)
 certyfikat ISO 9001 systemu zarządzania jakością;
 2)
-certyfikat ISO 14001 zarządzania środowiskiem.
-Laptop przeglądarkowy (zestaw) powinien posiadać:
+certyfikat ISO 14001 zarządzania środowiskiem. Laptop przeglądarkowy (zestaw) powinien posiadać:
 1)
 certyfikat EPEAT;
 2)
-certyfikat CE.
-Laptop przeglądarkowy (zestaw) powinien być objęły co najmniej 36-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. Czas reakcji na zgłoszenie awarii lub usterki nie powinien być dłuższy niż jeden dzień roboczy. Naprawa powinna być zrealizowana w ciągu 5 dni roboczych od dnia zgłoszenia. W przypadku braku możliwości naprawy w tym terminie powinno być zapewnione urządzenie zastępcze o równoważnych parametrach. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa przeglądarkowego (zestawu), wszelkie koszty związane z dostarczeniem laptopa przeglądarkowego (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
+certyfikat CE. Laptop przeglądarkowy (zestaw) powinien być objęły co najmniej 36-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. Czas reakcji na zgłoszenie awarii lub usterki nie powinien być dłuższy niż jeden dzień roboczy. Naprawa powinna być zrealizowana w ciągu 5 dni roboczych od dnia zgłoszenia. W przypadku braku możliwości naprawy w tym terminie powinno być zapewnione urządzenie zastępcze o równoważnych parametrach. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa przeglądarkowego (zestawu), wszelkie koszty związane z dostarczeniem laptopa przeglądarkowego (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
 I.4.
 Tablet Tablet powinien spełniać następujące wymagania techniczne:
 1)
@@ -353,8 +333,7 @@ wbudowane głośniki stereo;
 11)
 waga tableta wraz z baterią (bez dodatkowych akcesoriów) nie powinna przekraczać 1kg;
 12)
-wbudowane mechanizmy bezpieczeństwa wspierane przez zainstalowany system operacyjny.
-Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
+wbudowane mechanizmy bezpieczeństwa wspierane przez zainstalowany system operacyjny. Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
 1)
 64-bitowy system operacyjny posiadający polską wersję językową;
 2)
@@ -374,13 +353,11 @@ narzędzia do programowania;
 9)
 edytor wideo;
 10)
-edytor dźwięku.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców. Producent tableta powinien posiadać:
+edytor dźwięku. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców. Producent tableta powinien posiadać:
 1)
 certyfikat ISO 9001 systemu zarządzania jakością;
 2)
-certyfikat ISO 14001 zarządzania środowiskiem.
-Tablet powinien być objęły co najmniej 36-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. Czas reakcji na zgłoszenie awarii lub usterki nie powinien być dłuższy niż jeden dzień roboczy. Naprawa powinna być zrealizowana w ciągu 5 dni roboczych od dnia zgłoszenia. W przypadku braku możliwości naprawy w tym terminie powinno być zapewnione urządzenie zastępcze o równoważnych parametrach. W przypadku naprawy realizowanej poza miejscem użytkowania tableta, wszelkie koszty związane z dostarczeniem tableta do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach. II. Sprzęt komputerowy dla nauczyciela
+certyfikat ISO 14001 zarządzania środowiskiem. Tablet powinien być objęły co najmniej 36-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. Czas reakcji na zgłoszenie awarii lub usterki nie powinien być dłuższy niż jeden dzień roboczy. Naprawa powinna być zrealizowana w ciągu 5 dni roboczych od dnia zgłoszenia. W przypadku braku możliwości naprawy w tym terminie powinno być zapewnione urządzenie zastępcze o równoważnych parametrach. W przypadku naprawy realizowanej poza miejscem użytkowania tableta, wszelkie koszty związane z dostarczeniem tableta do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach. II. Sprzęt komputerowy dla nauczyciela
 II.1.
 Komputer stacjonarny Komputer stacjonarny (zestaw) powinien składać się z:
 1)
@@ -398,8 +375,7 @@ Bluetooth – co najmniej wersja 5;
 7)
 mikrofonu;
 8)
-kamery.
-Jednostka centralna powinna spełniać następujące wymagania techniczne:
+kamery. Jednostka centralna powinna spełniać następujące wymagania techniczne:
 1)
 wydajność w teście CrossMark – co najmniej 1300 punktów;
 2)
@@ -409,8 +385,7 @@ pamięć masowa (dysk SSD) – co najmniej 512GB;
 4)
 złącza komunikacyjne – co najmniej 2 (w tym złącze umożliwiające podłączenie wideo);
 5)
-zasilacz sieciowy przystosowany do polskiego systemu energetycznego.
-Monitor ekranowy powinien spełniać następujące wymagania techniczne:
+zasilacz sieciowy przystosowany do polskiego systemu energetycznego. Monitor ekranowy powinien spełniać następujące wymagania techniczne:
 1)
 kolorowy wyświetlacz;
 2)
@@ -418,8 +393,7 @@ przekątna – co najmniej 20 cali;
 3)
 rozdzielczość – co najmniej FHD;
 4)
-wbudowane głośniki stereo.
-Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
+wbudowane głośniki stereo. Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
 1)
 64-bitowy system operacyjny posiadający polską wersję językową;
 2)
@@ -439,25 +413,21 @@ narzędzia do programowania;
 9)
 edytor wideo;
 10)
-edytor dźwięku.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców. Producent komputera stacjonarnego (zestawu) powinien posiadać:
+edytor dźwięku. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców. Producent komputera stacjonarnego (zestawu) powinien posiadać:
 1)
 certyfikat ISO 9001 systemu zarządzania jakością;
 2)
-certyfikat ISO 14001 zarządzania środowiskiem.
-Komputer stacjonarny (zestaw) powinien posiadać:
+certyfikat ISO 14001 zarządzania środowiskiem. Komputer stacjonarny (zestaw) powinien posiadać:
 1)
 certyfikat EPEAT;
 2)
-certyfikat CE.
-Komputer stacjonarny (zestaw) powinien być objęty co najmniej 36-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. Czas reakcji na zgłoszenie awarii lub usterki nie powinien być dłuższy niż jeden dzień roboczy. Naprawa powinna być zrealizowana w ciągu 5 dni roboczych od dnia zgłoszenia. W przypadku braku możliwości naprawy w tym terminie powinno być zapewnione urządzenie zastępcze o równoważnych parametrach. W przypadku naprawy realizowanej poza miejscem użytkowania komputera stacjonarnego (zestawu), wszelkie koszty związane z dostarczeniem komputera stacjonarnego (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
+certyfikat CE. Komputer stacjonarny (zestaw) powinien być objęty co najmniej 36-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. Czas reakcji na zgłoszenie awarii lub usterki nie powinien być dłuższy niż jeden dzień roboczy. Naprawa powinna być zrealizowana w ciągu 5 dni roboczych od dnia zgłoszenia. W przypadku braku możliwości naprawy w tym terminie powinno być zapewnione urządzenie zastępcze o równoważnych parametrach. W przypadku naprawy realizowanej poza miejscem użytkowania komputera stacjonarnego (zestawu), wszelkie koszty związane z dostarczeniem komputera stacjonarnego (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
 II.2.
 Laptop Laptop (zestaw) powinien składać się z:
 1)
 laptopa;
 2)
-myszy komputerowej lub zewnętrznego gładzika.
-Laptop powinien spełniać następujące wymagania techniczne:
+myszy komputerowej lub zewnętrznego gładzika. Laptop powinien spełniać następujące wymagania techniczne:
 1)
 wydajność w teście CrossMark – co najmniej 1200 punktów;
 2)
@@ -495,8 +465,7 @@ wbudowane głośniki stereo;
 13)
 waga laptopa wraz z baterią nie powinna przekraczać 2,5 kg;
 14)
-wbudowane mechanizmy bezpieczeństwa dostępu do danych.
-Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
+wbudowane mechanizmy bezpieczeństwa dostępu do danych. Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
 1)
 64-bitowy system operacyjny posiadający polską wersję językową;
 2)
@@ -516,25 +485,21 @@ narzędzia do programowania;
 9)
 edytor wideo;
 10)
-edytor dźwięku.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców. Producent laptopa (zestawu) powinien posiadać:
+edytor dźwięku. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców. Producent laptopa (zestawu) powinien posiadać:
 1)
 certyfikat ISO 9001 systemu zarządzania jakością;
 2)
-certyfikat ISO 14001 zarządzania środowiskiem.
-Laptop (zestaw) powinien posiadać:
+certyfikat ISO 14001 zarządzania środowiskiem. Laptop (zestaw) powinien posiadać:
 1)
 certyfikat EPEAT;
 2)
-certyfikat CE.
-Laptop (zestaw) powinien być objęty co najmniej 36-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. Czas reakcji na zgłoszenie awarii lub usterki nie powinien być dłuższy niż jeden dzień roboczy. Naprawa powinna być zrealizowana w ciągu 5 dni roboczych od dnia zgłoszenia. W przypadku braku możliwości naprawy w tym terminie powinno być zapewnione urządzenie zastępcze o równoważnych parametrach. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa (zestawu), wszelkie koszty związane z dostarczeniem laptopa (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
+certyfikat CE. Laptop (zestaw) powinien być objęty co najmniej 36-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. Czas reakcji na zgłoszenie awarii lub usterki nie powinien być dłuższy niż jeden dzień roboczy. Naprawa powinna być zrealizowana w ciągu 5 dni roboczych od dnia zgłoszenia. W przypadku braku możliwości naprawy w tym terminie powinno być zapewnione urządzenie zastępcze o równoważnych parametrach. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa (zestawu), wszelkie koszty związane z dostarczeniem laptopa (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
 II.3.
 Laptop przeglądarkowy Laptop przeglądarkowy (zestaw) powinien składać się z:
 1)
 laptopa przeglądarkowego;
 2)
-myszy komputerowej lub zewnętrznego gładzika.
-Laptop przeglądarkowy powinien spełniać następujące wymagania techniczne:
+myszy komputerowej lub zewnętrznego gładzika. Laptop przeglądarkowy powinien spełniać następujące wymagania techniczne:
 1)
 wydajność w teście:
 a)
@@ -578,8 +543,7 @@ wbudowane głośniki stereo;
 14)
 waga laptopa przeglądarkowego wraz z baterią nie powinna przekraczać 2 kg;
 15)
-wbudowane mechanizmy bezpieczeństwa dostępu do danych.
-Oprogramowanie zainstalowane na pamięci masowej, zainstalowane na pamięci wirtualnej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
+wbudowane mechanizmy bezpieczeństwa dostępu do danych. Oprogramowanie zainstalowane na pamięci masowej, zainstalowane na pamięci wirtualnej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
 1)
 64-bitowy system operacyjny posiadający polską wersję językową wraz z niezbędnymi licencjami umożliwiającymi pełne wykorzystanie funkcjonalności systemu operacyjnego;
 2)
@@ -599,18 +563,15 @@ narzędzia do programowania;
 9)
 edytor wideo;
 10)
-edytor dźwięku.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców. Producent laptopa przeglądarkowego (zestawu) powinien posiadać:
+edytor dźwięku. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców. Producent laptopa przeglądarkowego (zestawu) powinien posiadać:
 1)
 certyfikat ISO 9001 systemu zarządzania jakością;
 2)
-certyfikat ISO 14001 zarządzania środowiskiem.
-Laptop przeglądarkowy (zestaw) powinien posiadać:
+certyfikat ISO 14001 zarządzania środowiskiem. Laptop przeglądarkowy (zestaw) powinien posiadać:
 1)
 certyfikat EPEAT;
 2)
-certyfikat CE.
-Laptop przeglądarkowy (zestaw) powinien być objęły co najmniej 36-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. Czas reakcji na zgłoszenie awarii lub usterki nie powinien być dłuższy niż jeden dzień roboczy. Naprawa powinna być zrealizowana w ciągu 5 dni roboczych od dnia zgłoszenia. W przypadku braku możliwości naprawy w tym terminie powinno być zapewnione urządzenie zastępcze o równoważnych parametrach. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa przeglądarkowego (zestawu), wszelkie koszty związane z dostarczeniem laptopa przeglądarkowego (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
+certyfikat CE. Laptop przeglądarkowy (zestaw) powinien być objęły co najmniej 36-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. Czas reakcji na zgłoszenie awarii lub usterki nie powinien być dłuższy niż jeden dzień roboczy. Naprawa powinna być zrealizowana w ciągu 5 dni roboczych od dnia zgłoszenia. W przypadku braku możliwości naprawy w tym terminie powinno być zapewnione urządzenie zastępcze o równoważnych parametrach. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa przeglądarkowego (zestawu), wszelkie koszty związane z dostarczeniem laptopa przeglądarkowego (zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
 II.4.
 Tablet Tablet powinien spełniać następujące wymagania techniczne:
 1)
@@ -650,8 +611,7 @@ wbudowane głośniki stereo;
 11)
 waga tableta wraz z baterią (bez dodatkowych akcesoriów) nie powinna przekraczać 1kg;
 12)
-wbudowane mechanizmy bezpieczeństwa wspierane przez zainstalowany system operacyjny.
-Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
+wbudowane mechanizmy bezpieczeństwa wspierane przez zainstalowany system operacyjny. Oprogramowanie zainstalowane na pamięci masowej lub udostępnione do nieodpłatnego pobrania przy rozpoczęciu użytkowania:
 1)
 64-bitowy system operacyjny posiadający polską wersję językową;
 2)
@@ -671,11 +631,9 @@ narzędzia do programowania;
 9)
 edytor wideo;
 10)
-edytor dźwięku.
-Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców. Producent tableta powinien posiadać:
+edytor dźwięku. Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców. Producent tableta powinien posiadać:
 1)
 certyfikat ISO 9001 systemu zarządzania jakością;
 2)
-certyfikat ISO 14001 zarządzania środowiskiem.
-Tablet powinien być objęły co najmniej 36-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. Czas reakcji na zgłoszenie awarii lub usterki nie powinien być dłuższy niż jeden dzień roboczy. Naprawa powinna być zrealizowana w ciągu 5 dni roboczych od dnia zgłoszenia. W przypadku braku możliwości naprawy w tym terminie powinno być zapewnione urządzenie zastępcze o równoważnych parametrach. W przypadku naprawy realizowanej poza miejscem użytkowania tableta, wszelkie koszty związane z dostarczeniem tableta do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
+certyfikat ISO 14001 zarządzania środowiskiem. Tablet powinien być objęły co najmniej 36-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. Czas reakcji na zgłoszenie awarii lub usterki nie powinien być dłuższy niż jeden dzień roboczy. Naprawa powinna być zrealizowana w ciągu 5 dni roboczych od dnia zgłoszenia. W przypadku braku możliwości naprawy w tym terminie powinno być zapewnione urządzenie zastępcze o równoważnych parametrach. W przypadku naprawy realizowanej poza miejscem użytkowania tableta, wszelkie koszty związane z dostarczeniem tableta do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach. 5) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
 

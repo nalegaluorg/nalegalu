@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 29 marca 2024 r. zmieniające rozporządzenie w sprawie nadania statutu Centralnemu Ośrodkowi Badania Odmian Roślin Uprawnych
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 29 marca 2024 r. zmieniające rozporządzenie w sprawie nadania statutu Centralnemu Ośrodkowi Badania Odmian Roślin Uprawnych Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-29 |
 | Data wydania | 2024-04-02 |
-| Wejście w życie | 2024-07-01 |
 | Ostatnia zmiana | 2025-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000490) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/490/text.pdf) |
 
@@ -33,28 +32,21 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 grudnia 2010 r. w s
 1)
 w § 1:
 a)
-po pkt 5 dodaje się pkt 5a w brzmieniu:
-„
+po pkt 5 dodaje się pkt 5a w brzmieniu: „
 5a)
-Nowych Liniach, województwo zachodniopomorskie,
-” ,
+Nowych Liniach, województwo zachodniopomorskie, ” ,
 b)
 uchyla się pkt 12;
 2)
 w § 2 w ust. 1:
 a)
-pkt 8 otrzymuje brzmienie:
-„
+pkt 8 otrzymuje brzmienie: „
 8)
-Biuro Planowania Badań i Współpracy;
-” ,
+Biuro Planowania Badań i Współpracy; ” ,
 b)
-w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu:
-„
+w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „
 11)
-Zakład – Laboratorium Chemiczno-Technologiczne.
-” .
+Zakład – Laboratorium Chemiczno-Technologiczne. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2024 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2024 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 31 sierpnia 2011 r. o zmianie ustawy o europejskich radach zakładowych
+# Ustawa z dnia 31 sierpnia 2011 r. o zmianie ustawy o europejskich radach zakładowych Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2009/38/WE z dnia 6 maja 2009 r. w sprawie ustanowienia europejskiej rady zakładowej lub trybu informowania pracowników i konsultowania się z nimi w przedsiębiorstwach lub w grupach przedsiębiorstw o zasięgu wspólnotowym (Dz. Urz. UE L 122 z 16.05.2009, str. 28).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-31 |
 | Data wydania | 2011-10-07 |
-| Wejście w życie | 2011-10-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112131265) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1265/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych (Dz. U. Nr 62, poz. 556, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych (Dz. U. Nr 62, poz. 556, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 62, poz. 551, z 2006 r. Nr 149, poz. 1077 oraz z 2007 r. Nr 176, poz. 1238.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -111,8 +110,12 @@ source: "eli-html"
 
 4. Członkowie specjalnego zespołu negocjacyjnego mają prawo do udziału w szkoleniach koniecznych do wykonywania ich funkcji w środowisku międzynarodowym, z zachowaniem prawa do wynagrodzenia obliczonego zgodnie z zasadami dotyczącymi zwolnienia od pracy przysługującego członkowi zarządu zakładowej organizacji związkowej. ” ;
 
-- **10)** w art. 19: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) skład europejskiej rady zakładowej odzwierciedlający, w miarę możliwości, zrównoważoną reprezentację pracowników pod względem działalności zawodowej, kategorii pracowników i płci, oraz liczbę członków, podział mandatów oraz czas trwania kadencji rady, ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) warunki powiązania informowania i prowadzenia konsultacji między europejską radą zakładową a przedstawicielami pracowników na szczeblu krajowym, których przepisy krajowe uprawniają do informowania i konsultacji, ” , – pkt 6 otrzymuje brzmienie: „ 6) okres obowiązywania porozumienia i procedurę jego zmiany, przypadki, w których należy to porozumienie zmienić, a także warunki, zgodnie z którymi porozumienie może zostać zmienione lub wypowiedziane, w szczególności z uwzględnieniem przypadków, gdy dochodzi do zmian w strukturze przedsiębiorstwa lub grupy przedsiębiorstw o zasięgu wspólnotowym. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+- **10)** w art. 19: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** skład europejskiej rady zakładowej odzwierciedlający, w miarę możliwości, zrównoważoną reprezentację pracowników pod względem działalności zawodowej, kategorii pracowników i płci, oraz liczbę członków, podział mandatów oraz czas trwania kadencji rady, ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** warunki powiązania informowania i prowadzenia konsultacji między europejską radą zakładową a przedstawicielami pracowników na szczeblu krajowym, których przepisy krajowe uprawniają do informowania i konsultacji, ” , pkt 6 otrzymuje brzmienie: „
+- **6)** okres obowiązywania porozumienia i procedurę jego zmiany, przypadki, w których należy to porozumienie zmienić, a także warunki, zgodnie z którymi porozumienie może zostać zmienione lub wypowiedziane, w szczególności z uwzględnieniem przypadków, gdy dochodzi do zmian w strukturze przedsiębiorstwa lub grupy przedsiębiorstw o zasięgu wspólnotowym. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
     - **b)**
 
 1a. Strony porozumienia mogą określić w porozumieniu skład, tryb powoływania, zadania oraz zasady działania prezydium utworzonego w ramach europejskiej rady zakładowej.
@@ -198,5 +201,5 @@ source: "eli-html"
 
 **Art. 4.** Europejska rada zakładowa powołana przed dniem wejścia w życie ustawy działa do końca kadencji.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2009/38/WE z dnia 6 maja 2009 r. w sprawie ustanowienia europejskiej rady zakładowej lub trybu informowania pracowników i konsultowania się z nimi w przedsiębiorstwach lub w grupach przedsiębiorstw o zasięgu wspólnotowym (Dz. Urz. UE L 122 z 16.05.2009, str. 28). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 62, poz. 551, z 2006 r. Nr 149, poz. 1077 oraz z 2007 r. Nr 176, poz. 1238.
 

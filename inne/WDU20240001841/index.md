@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-21 |
 | Data wydania | 2024-12-12 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2026-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001841) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1841/text.pdf) |
 
@@ -60,7 +59,7 @@ source: "eli-html"
 **Art. 13.** Minister właściwy do spraw informatyzacji tworzy adres do doręczeń elektronicznych powiązany z publiczną usługą rejestrowanego doręczenia elektronicznego na wniosek podmiotu niepublicznego skierowany do tego ministra, a w przypadku podmiotów niepublicznych:
 
 - **1)** wpisanych do Krajowego Rejestru Sądowego albo do Centralnej Ewidencji i Informacji o Działalności Gospodarczej,
-- **2)** będących osobami fizycznymi także odpowiednio w trybie, o którym mowa w art. 11 pkt 2. ” ;
+- **2)** będących osobami fizycznymi – także odpowiednio w trybie, o którym mowa w art. 11 pkt 2. ” ;
 - **5)** w art. 14 dodaje się ust. 4 w brzmieniu: „
 
 4. Minister właściwy do spraw informatyzacji udostępnia usługę sieciową umożliwiającą przekazanie przez operatora wyznaczonego danych, o których mowa w ust. 1 i 2, za pomocą bezpośredniej wymiany danych między systemem teleinformatycznym operatora wyznaczonego a bazą adresów elektronicznych. ” ;
@@ -88,7 +87,7 @@ source: "eli-html"
 
 2. W przypadku świadczenia dodatkowych usług, o których mowa w ust. 1, w zakresie wymiany korespondencji między osobami fizycznymi lub podmiotami niebędącymi podmiotami publicznymi operator wyznaczony przekazuje informacje o korzystaniu z tych usług ministrowi właściwemu do spraw informatyzacji za pośrednictwem systemu teleinformatycznego. ” ;
 
-- **12)** w art. 60 w ust. 1: w pkt 1: – w lit. b dodaje się tiret dziesiąte w brzmieniu: „ – informacji o korzystaniu z dodatkowych usług, o których mowa w art. 53 ust. 1, w zakresie wymiany korespondencji pomiędzy podmiotami niepublicznymi, ” , – w lit. c w tiret dziesiątym średnik zastępuje się przecinkiem i dodaje się tiret jedenaste w brzmieniu: „ – informacji o korzystaniu z dodatkowych usług, o których mowa w art. 53 ust. 1, w zakresie wymiany korespondencji pomiędzy podmiotami niepublicznymi; ” , w pkt 2 w lit. i kropkę zastępuje się przecinkiem i dodaje się lit. j w brzmieniu: „ informacji o korzystaniu z dodatkowych usług, o których mowa w art. 53 ust. 1, w zakresie wymiany korespondencji pomiędzy podmiotami niepublicznymi. ” ;
+- **12)** w art. 60 w ust. 1: w pkt 1: w lit. b dodaje się tiret dziesiąte w brzmieniu: „ – informacji o korzystaniu z dodatkowych usług, o których mowa w art. 53 ust. 1, w zakresie wymiany korespondencji pomiędzy podmiotami niepublicznymi, ” , w lit. c w tiret dziesiątym średnik zastępuje się przecinkiem i dodaje się tiret jedenaste w brzmieniu: „ – informacji o korzystaniu z dodatkowych usług, o których mowa w art. 53 ust. 1, w zakresie wymiany korespondencji pomiędzy podmiotami niepublicznymi; ” , w pkt 2 w lit. i kropkę zastępuje się przecinkiem i dodaje się lit. j w brzmieniu: „ informacji o korzystaniu z dodatkowych usług, o których mowa w art. 53 ust. 1, w zakresie wymiany korespondencji pomiędzy podmiotami niepublicznymi. ” ;
     - **a)**
     - **b)**
     - **j)**
@@ -103,7 +102,7 @@ source: "eli-html"
 3. Doręczenie korespondencji nadanej przez podmiot publiczny posiadający elektroniczną skrzynkę podawczą w ePUAP do osoby fizycznej lub podmiotu niebędącego podmiotem publicznym, o których mowa w ust. 2, nieposiadających adresu do doręczeń elektronicznych, jeżeli:
 
 - **1)** korespondencja ta stanowi odpowiedź na podanie albo wniosek złożone w ramach usługi udostępnionej w ePUAP, albo
-- **2)** ta osoba fizyczna lub ten podmiot wystąpiły do organu administracji publicznej o doręczenie korespondencji na konto w ePUAP jest równoważne w skutkach prawnych z doręczeniem przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego do dnia 31 grudnia 2025 r. ” , dodaje się ust. 5 i 6 w brzmieniu: „
+- **2)** ta osoba fizyczna lub ten podmiot wystąpiły do organu administracji publicznej o doręczenie korespondencji na konto w ePUAP – jest równoważne w skutkach prawnych z doręczeniem przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego do dnia 31 grudnia 2025 r. ” , dodaje się ust. 5 i 6 w brzmieniu: „
     - **b)**
 
 5. Do dnia 31 grudnia 2025 r. przepisów art. 4 i art. 5 nie stosuje się w przypadku gdy korespondencja nie może być doręczona na adres do doręczeń elektronicznych albo z wykorzystaniem publicznej usługi hybrydowej ze względu na przesłanki organizacyjne. Istnienie przesłanek organizacyjnych ocenia nadawca.

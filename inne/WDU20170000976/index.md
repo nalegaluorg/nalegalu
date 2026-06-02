@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-23 |
 | Data wydania | 2017-05-18 |
-| Wejście w życie | 2017-06-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000976) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/976/text.pdf) |
 
@@ -172,7 +171,7 @@ source: "eli-html"
 
 **Art. 15a.**
 
-1. Środki finansowe pozyskane na finansowanie zadań, o których mowa w art. 16 ust. 1 pkt 2, z wyjątkiem środków wskazanych w art. 5 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.), są gromadzone na wyodrębnionym rachunku prowadzonym w Banku Gospodarstwa Krajowego.
+1. Środki finansowe pozyskane na finansowanie zadań, o których mowa w art. 16 ust. 1 pkt 2, z wyjątkiem środków wskazanych w art. 5 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933 i 935.), są gromadzone na wyodrębnionym rachunku prowadzonym w Banku Gospodarstwa Krajowego.
 
 2. Środki finansowe, o których mowa w ust. 1, nie stanowią dochodów budżetu państwa. ” ;
 
@@ -253,8 +252,13 @@ source: "eli-html"
 
 3. Okręgowe urzędy miar mogą po uzgodnieniu z Prezesem współpracować z krajowymi i zagranicznymi organizacjami, instytucjami oraz uczelniami prowadzącymi działania w zakresie miar. ” ;
 
-- **20)** w art. 21: w ust. 1: – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) czasowe wycofanie z użytkowania, w drodze decyzji, przyrządów pomiarowych, których legalizacja utraciła ważność zgodnie z art. 8n ust. 4; ” , – pkt 5 otrzymuje brzmienie: „ 5) wycofanie, w drodze decyzji: a) z obrotu lub użytkowania – przyrządów pomiarowych niespełniających wymagań, b) z użytkowania – przyrządów pomiarowych w przypadku, gdy w okresie, na który została wydana decyzja, o której mowa w pkt 4a, nie zostanie poświadczone dowodem legalizacji, że przyrząd pomiarowy spełnia wymagania. ” , dodaje się ust. 5–7 w brzmieniu: „
+- **20)** w art. 21: w ust. 1: po pkt 4 dodaje się pkt 4a w brzmieniu: „
     - **a)**
+
+- **4a)** czasowe wycofanie z użytkowania, w drodze decyzji, przyrządów pomiarowych, których legalizacja utraciła ważność zgodnie z art. 8n ust. 4; ” , pkt 5 otrzymuje brzmienie: „
+- **5)** wycofanie, w drodze decyzji: z obrotu lub użytkowania – przyrządów pomiarowych niespełniających wymagań, z użytkowania – przyrządów pomiarowych w przypadku, gdy w okresie, na który została wydana decyzja, o której mowa w pkt 4a, nie zostanie poświadczone dowodem legalizacji, że przyrząd pomiarowy spełnia wymagania. ” , dodaje się ust. 5–7 w brzmieniu: „
+    - **a)**
+    - **b)**
     - **b)**
 
 5. Decyzja, o której mowa w ust. 1 pkt 4a, jest wydawana na okres 3 miesięcy i podlega natychmiastowemu wykonaniu. Na uzasadniony wniosek strony okres ten może być przedłużany na kolejne okresy 3 miesięczne.
@@ -263,8 +267,11 @@ source: "eli-html"
 
 7. Decyzja, o której mowa w ust. 1 pkt 4a, wygasa przed upływem okresu, na który została wydana, z dniem poświadczenia dowodem legalizacji, że przyrząd pomiarowy spełnia wymagania. ” ;
 
-- **21)** w art. 22j: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) dowody legalizacji poświadczające dokonanie legalizacji pierwotnej lub legalizacji ponownej zostały wydane przez podmioty nieposiadające upoważnień, zostały zniszczone lub uszkodzone albo brak jest dowodów legalizacji przyrządu pomiarowego, ” , – dodaje się pkt 4 w brzmieniu: „ 4) legalizacja utraciła ważność zgodnie z art. 8n ust. 4 ” , ust. 4 otrzymuje brzmienie: „
+- **21)** w art. 22j: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** dowody legalizacji poświadczające dokonanie legalizacji pierwotnej lub legalizacji ponownej zostały wydane przez podmioty nieposiadające upoważnień, zostały zniszczone lub uszkodzone albo brak jest dowodów legalizacji przyrządu pomiarowego, ” , dodaje się pkt 4 w brzmieniu: „
+- **4)** legalizacja utraciła ważność zgodnie z art. 8n ust. 4 ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Zabezpieczenia, o którym mowa w ust. 3, dokonuje się na czas niezbędny do:
@@ -347,6 +354,6 @@ source: "eli-html"
 **Art. 12.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 9 i 11, pkt 12 lit. c i d, pkt 13 i 14, pkt 17 lit. b i pkt 19, art. 2–4 oraz art. 5 ust. 1, 2 i 4, które wchodzą w życie z dniem 1 stycznia 2018 r.;
-- **2)** art. 1 pkt 6 lit. c i d oraz pkt 8, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia.
+- **2)** art. 1 pkt 6 lit. c i d oraz pkt 8, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933 i 935.
 
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-04-15 |
 | Data wydania | 2011-06-21 |
-| Wejście w życie | 2011-06-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111290734) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/734/text.pdf) |
 
@@ -91,7 +90,7 @@ source: "eli-html"
 - **3)** warunki i tryb udzielania dotacji z Funduszu podmiotom, w tym w szczególności tryb przeprowadzania konkursu ofert, kryteria oceny oferty i tryb zawierania umów na realizację powierzonych zadań,
 - **4)** szczegółowe zadania, na które przeznaczane są środki Funduszu,
 - **5)** sposób wykorzystywania i rozliczania środków Funduszu, w tym wzór i terminy składania przez podmioty kwartalnych informacji,
-- **6)** szczegółowe zasady gospodarki finansowej Funduszu uwzględniając potrzebę prowadzenia odrębnej gospodarki finansowej w zakresie realizacji zadań dotyczących pomocy osobom pokrzywdzonym przestępstwem oraz pomocy postpenitencjarnej, a także potrzebę skutecznego i racjonalnego wykorzystania środków Funduszu oraz osiągnięcia celów, dla których Fundusz został utworzony.”; ” ; ” ;
+- **6)** szczegółowe zasady gospodarki finansowej Funduszu – uwzględniając potrzebę prowadzenia odrębnej gospodarki finansowej w zakresie realizacji zadań dotyczących pomocy osobom pokrzywdzonym przestępstwem oraz pomocy postpenitencjarnej, a także potrzebę skutecznego i racjonalnego wykorzystania środków Funduszu oraz osiągnięcia celów, dla których Fundusz został utworzony.”; ” ; ” ;
 - **2)** art. 5 otrzymuje brzmienie: „
 
 **Art. 5.** Instytucje, stowarzyszenia, fundacje lub organizacje społeczne, na rzecz których orzeczono środki finansowe z tytułu nawiązki lub świadczenia pieniężnego, są obowiązane przekazać Ministrowi Sprawiedliwości, w terminie 60 dni od dnia wejścia w życie niniejszej ustawy, sprawozdanie dotyczące wykorzystania tych środków za okres nierozliczony na dotychczasowych zasadach, zawierające informację o wysokości otrzymanych środków oraz ich rozliczenie ze wskazaniem celów, na które zostały wydane. ” ;

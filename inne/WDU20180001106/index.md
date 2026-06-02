@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 29 maja 2018 r. zmieniające rozporządzenie w sprawie sposobu przesyłania deklaracji i podań oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone
+# Rozporządzenie Ministra Finansówz dnia 29 maja 2018 r. zmieniające rozporządzenie w sprawie sposobu przesyłania deklaracji i podań oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,33 +22,27 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-29 |
 | Data wydania | 2018-06-08 |
-| Wejście w życie | 2018-06-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001106) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1106/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 3b § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 3b § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039 i 1075.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Rozwoju i Finansów z dnia 19 września 2017 r. w sprawie sposobu przesyłania deklaracji i podań oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone (Dz. U. poz. 1802) wprowadza się następujące zmiany:
 1)
-w § 2 ust. 2 otrzymuje brzmienie:
-„
+w § 2 ust. 2 otrzymuje brzmienie: „
 2.
-Wniosek o zastosowanie opodatkowania w formie karty podatkowej (PIT-16) oraz zgłoszenie rejestracyjne w zakresie podatku od towarów i usług (VAT-R) mogą być przesyłane również przez Centralną Ewidencję i Informację o Działalności Gospodarczej.
-” ;
+Wniosek o zastosowanie opodatkowania w formie karty podatkowej (PIT-16) oraz zgłoszenie rejestracyjne w zakresie podatku od towarów i usług (VAT-R) mogą być przesyłane również przez Centralną Ewidencję i Informację o Działalności Gospodarczej. ” ;
 2)
-w § 4 pkt 4 otrzymuje brzmienie:
-„
+w § 4 pkt 4 otrzymuje brzmienie: „
 4)
 podpisem potwierdzonym profilem zaufanym ePUAP, jeżeli są przesyłane przez:
 a)
 portal podatkowy albo
 b)
-Centralną Ewidencję i Informację o Działalności Gospodarczej, albo
-” ;
+Centralną Ewidencję i Informację o Działalności Gospodarczej, albo ” ;
 3)
-§ 10 otrzymuje brzmienie:
-„
+§ 10 otrzymuje brzmienie: „
 § 10.
 Podpisem elektronicznym, o którym mowa w § 4 pkt 4, mogą być opatrywane, przesyłane przez:
 1)
@@ -66,9 +60,7 @@ Centralną Ewidencję i Informację o Działalności Gospodarczej:
 a)
 wniosek o zastosowanie opodatkowania w formie karty podatkowej (PIT-16),
 b)
-zgłoszenie rejestracyjne w zakresie podatku od towarów i usług (VAT-R).
-” .
+zgłoszenie rejestracyjne w zakresie podatku od towarów i usług (VAT-R). ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039 i 1075.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039 i 1075.
 

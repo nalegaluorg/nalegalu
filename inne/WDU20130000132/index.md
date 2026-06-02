@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-01-16 |
 | Data wydania | 2013-01-28 |
-| Wejście w życie | 2013-02-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000132) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/132/text.pdf) |
 
@@ -35,11 +34,11 @@ Użyte w rozporządzeniu określenia oznaczają:
 1)
 Konwencja SOLAS – Międzynarodową konwencję o bezpieczeństwie życia na morzu, 1974, sporządzoną w Londynie dnia 1 listopada 1974 r. (Dz. U. z 1984 r. Nr 61, poz. 318 i 319, z 1986 r. Nr 35, poz. 177 oraz z 2005 r. Nr 120, poz. 1016) wraz z Protokołem z 1978 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1984 r. Nr 61, poz. 320 i 321) oraz z Protokołem z 1988 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 11 listopada 1988 r. (Dz. U. z 2008 r. Nr 191, poz. 1173 i 1174);
 2)
-Kodeks IMSBC – Międzynarodowy morski kodeks bezpiecznego przewozu stałych ładunków masowych, o którym mowa w rozdziale VI prawidle 1 ust. 2 Konwencji SOLAS;
+Kodeks IMSBC – Międzynarodowy morski kodeks bezpiecznego przewozu stałych ładunków masowych, o którym mowa w rozdziale VI prawidle 1 ust. 2 Konwencji SOLASRezolucja IMO MSC. 268(85) Międzynarodowy morski kodeks bezpiecznego przewozu stałych ładunków masowych (Kodeks IMSBC) (Dz. Urz. MTBiGM z 2012 r. poz. 71).;
 3)
-Kodeks BLU – Kodeks bezpiecznego załadunku i rozładunku masowców, o którym mowa w rozdziale VI prawidle 7 ust. 3 Konwencji SOLAS;
+Kodeks BLU – Kodeks bezpiecznego załadunku i rozładunku masowców, o którym mowa w rozdziale VI prawidle 7 ust. 3 Konwencji SOLASRezolucja IMO A.862(20) Kodeks bezpiecznego załadunku i rozładunku masowców (Kodeks BLU) (Dz. Urz. MTBiGM z 2012 r. poz. 71).;
 4)
-Kodeks przewozu ziarna – Międzynarodowy Kodeks bezpiecznego przewozu ziarna luzem, o którym mowa w rozdziale VI prawidle 8 ust. 1 Konwencji SOLAS;
+Kodeks przewozu ziarna – Międzynarodowy Kodeks bezpiecznego przewozu ziarna luzem, o którym mowa w rozdziale VI prawidle 8 ust. 1 Konwencji SOLASRezolucja IMO MSC.23(59) Międzynarodowy Kodeks bezpiecznego przewozu ziarna luzem (Dz. Urz. MTBiGM z 2012 r. poz. 71).;
 5)
 ładunku masowym, koncentracie, granicznej wilgotności transportowej, ładunkach łatwo przesypujących się, kącie usypu, trymowaniu – należy przez to rozumieć ładunek masowy, koncentrat, graniczną wilgotność transportową, ładunki łatwo przesypujące się, kąt usypu, trymowanie w rozumieniu Kodeksu IMSBC;
 6)
@@ -128,6 +127,5 @@ Certyfikatu uprawnienia do przewozu ziarna – w przypadku gdy przewożą ładun
 2.
 Certyfikaty, o których mowa w ust. 1, wydaje się z uwzględnieniem przepisów w sprawie inspekcji i audytów oraz certyfikatów statku morskiego.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-2) Rezolucja IMO MSC. 268(85) Międzynarodowy morski kodeks bezpiecznego przewozu stałych ładunków masowych (Kodeks IMSBC) (Dz. Urz. MTBiGM z 2012 r. poz. 71). 3) Rezolucja IMO A.862(20) Kodeks bezpiecznego załadunku i rozładunku masowców (Kodeks BLU) (Dz. Urz. MTBiGM z 2012 r. poz. 71). 4) Rezolucja IMO MSC.23(59) Międzynarodowy Kodeks bezpiecznego przewozu ziarna luzem (Dz. Urz. MTBiGM z 2012 r. poz. 71).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Rezolucja IMO MSC. 268(85) Międzynarodowy morski kodeks bezpiecznego przewozu stałych ładunków masowych (Kodeks IMSBC) (Dz. Urz. MTBiGM z 2012 r. poz. 71). 3) Rezolucja IMO A.862(20) Kodeks bezpiecznego załadunku i rozładunku masowców (Kodeks BLU) (Dz. Urz. MTBiGM z 2012 r. poz. 71). 4) Rezolucja IMO MSC.23(59) Międzynarodowy Kodeks bezpiecznego przewozu ziarna luzem (Dz. Urz. MTBiGM z 2012 r. poz. 71).
 

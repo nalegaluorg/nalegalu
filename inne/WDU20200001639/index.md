@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 17 września 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
+# Ustawa z dnia 17 września 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 19 sierpnia 2011 r. o usługach płatniczych oraz ustawę z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-17 |
 | Data wydania | 2020-09-23 |
-| Wejście w życie | 2020-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001639) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1639/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 567, 568, 695, 875, 1086, 1106, 1422, 1423, 1478 i 1493.) wprowadza się następujące zmiany:
 
 - **1)** po art. 15gg dodaje się art. 15gh w brzmieniu: „ Art. 15gh. Wnioski o przyznanie świadczeń na dofinansowanie wynagrodzeń pracowników, o których mowa w art. 15g i art. 15gg, mogą być składane najpóźniej w terminie 30 dni od dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii. ” ;
 - **2)** w art. 15k ust. 4 otrzymuje brzmienie: „
@@ -148,7 +147,7 @@ source: "eli-html"
 29. W przypadku:
 
 - **1)** ujawnienia w wyniku przeprowadzonych czynności sprawdzających, że wypłata, o której mowa w ust. 1, stanowi kwotę nienależnie pobraną,
-- **2)** niedokonywania zwrotu wypłat, o których mowa w art. 15ka ust. 1, na Turystyczny Fundusz Zwrotów Ubezpieczeniowy Fundusz Gwarancyjny występuje do ministra właściwego do spraw turystyki z wnioskiem o wydanie decyzji o zwrocie kwoty nienależnie pobranej.
+- **2)** niedokonywania zwrotu wypłat, o których mowa w art. 15ka ust. 1, na Turystyczny Fundusz Zwrotów – Ubezpieczeniowy Fundusz Gwarancyjny występuje do ministra właściwego do spraw turystyki z wnioskiem o wydanie decyzji o zwrocie kwoty nienależnie pobranej.
 
 30. W przypadku, o którym mowa w ust. 29 pkt 2, Ubezpieczeniowy Fundusz Gwarancyjny, przed wystąpieniem do ministra właściwego do spraw turystyki z wnioskiem o wydanie decyzji o zwrocie kwoty nienależnie pobranej, wzywa organizatora turystyki do zwrotu środków wraz z ustawowymi odsetkami w wysokości określonej w wezwaniu, w terminie 14 dni od dnia doręczenia wezwania.
 
@@ -254,7 +253,7 @@ source: "eli-html"
 9. Organizatorzy turystyki dokonując wpłat składek na Fundusz Pomocowy w należnej wysokości bez wezwania:
 
 - **1)** obliczają kwotę należną z tytułu składki na Fundusz Pomocowy za okres jednego miesiąca i przekazują tę kwotę oraz
-- **2)** przekazują do Ubezpieczeniowego Funduszu Gwarancyjnego, za pośrednictwem systemu teleinformatycznego tego Funduszu, informacje o wysokości należnej składki w terminie do 21. dnia miesiąca następującego po miesiącu, za który jest należna składka.
+- **2)** przekazują do Ubezpieczeniowego Funduszu Gwarancyjnego, za pośrednictwem systemu teleinformatycznego tego Funduszu, informacje o wysokości należnej składki – w terminie do 21. dnia miesiąca następującego po miesiącu, za który jest należna składka.
 
 10. W przypadku niewykonania obowiązków, o których mowa w ust. 9, Ubezpieczeniowy Fundusz Gwarancyjny wzywa, za pośrednictwem systemu teleinformatycznego tego Funduszu, organizatora turystyki do realizacji tych obowiązków w terminie nie dłuższym niż 14 dni. Po bezskutecznym upływie tego terminu Ubezpieczeniowy Fundusz Gwarancyjny jest uprawniony do dochodzenia należnych składek wraz z odsetkami. Wezwanie jest wysyłane do wiadomości właściwego marszałka województwa.
 
@@ -308,7 +307,7 @@ source: "eli-html"
 - **4a)** oświadczenie o rodzaju przeważającej działalności, o której mowa w art. 15zq ust. 7, oraz o wykonywaniu tej działalności w 2019 r. przez okres nie dłuższy niż 9 miesięcy; ” , w ust. 5 zdanie pierwsze otrzymuje brzmienie: „ Oświadczenia, o których mowa w ust. 3 pkt 4 i 4a oraz ust. 4, osoba uprawniona, zleceniodawca lub zamawiający składa pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. ” ;
     - **b)**
 
-- **7)** po art. 15zs dodaje się art. 15zs1wbrzmieniu: „
+- **7)** po art. 15zs dodaje się art. 15zs1wbrzmieniu: „ Art. 15zs11. Osobie, o której mowa w art. 15zq ust. 1 pkt 1, prowadzącej, na dzień złożenia wniosku, o którym mowa w ust. 2, pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodem 49.39.Z, 77.39.Z, 90.01.Z, 90.02.Z, 93.29.A, 93.29.B, 93.29.Z, która skorzystała ze świadczenia postojowego w trybie art. 15zs lub art. 15zua, przysługuje prawo do dodatkowego świadczenia postojowego, jeżeli przychód z tej działalności uzyskany w miesiącu kalendarzowym poprzedzającym miesiąc złożenia wniosku, o którym mowa w ust. 2, był niższy co najmniej o 75% w stosunku do przychodu uzyskanego w tym samym miesiącu kalendarzowym w 2019 r.
 
 2. Ustalenie prawa do dodatkowego świadczenia postojowego, o którym mowa w ust. 1, następuje na wniosek osoby prowadzącej pozarolniczą działalność gospodarczą, zawierający dane, o których mowa w art. 15zs ust. 3 pkt 1 lit. a, c i e, pkt 2, 5 i 6, oraz oświadczenie o rodzaju przeważającej działalności, o której mowa w ust. 1, oraz oświadczenie potwierdzające, że jej przychód z działalności uzyskany w miesiącu kalendarzowym poprzedzającym miesiąc złożenia wniosku był niższy co najmniej o 75% w stosunku do przychodu uzyskanego w tym samym miesiącu kalendarzowym w 2019 r., złożone pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. W oświadczeniu jest zawarta klauzula następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
@@ -367,7 +366,7 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2019 r. poz. 2357 oraz z 2020 r. poz. 284, 288, 321 i 1086) w art. 105 w ust. 1 w pkt 2 po lit. zb dodaje się lit. zc w brzmieniu: „
 
-Ubezpieczeniowemu Funduszowi Gwarancyjnemu w zakresie niezbędnym do wykonywania przez ten Fundusz zadań związanych z dokonywaniem wypłat z Turystycznego Funduszu Zwrotów lub Turystycznego Funduszu Pomocowego, o których mowa odpowiednio w art. 15ka i art. 15kc ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm.); ” .
+Ubezpieczeniowemu Funduszowi Gwarancyjnemu w zakresie niezbędnym do wykonywania przez ten Fundusz zadań związanych z dokonywaniem wypłat z Turystycznego Funduszu Zwrotów lub Turystycznego Funduszu Pomocowego, o których mowa odpowiednio w art. 15ka i art. 15kc ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 567, 568, 695, 875, 1086, 1106, 1422, 1423, 1478, 1493 i 1639.); ” .
 
 - **zc)**
 
@@ -375,11 +374,11 @@ Ubezpieczeniowemu Funduszowi Gwarancyjnemu w zakresie niezbędnym do wykonywania
 
 **Art. 4.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2019 r. poz. 2412 oraz z 2020 r. poz. 288 i 321) w art. 9f w ust. 1 w pkt 27 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 28 w brzmieniu: „
 
-- **28)** na żądanie Ubezpieczeniowego Funduszu Gwarancyjnego w zakresie niezbędnym do wykonywania przez ten Fundusz zadań związanych z dokonywaniem wypłat z Turystycznego Funduszu Zwrotów lub Turystycznego Funduszu Pomocowego, o których mowa odpowiednio w art. 15ka i art. 15kc ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm.). ” .
+- **28)** na żądanie Ubezpieczeniowego Funduszu Gwarancyjnego w zakresie niezbędnym do wykonywania przez ten Fundusz zadań związanych z dokonywaniem wypłat z Turystycznego Funduszu Zwrotów lub Turystycznego Funduszu Pomocowego, o których mowa odpowiednio w art. 15ka i art. 15kc ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 567, 568, 695, 875, 1086, 1106, 1422, 1423, 1478, 1493 i 1639.). ” .
 
 **Art. 5.** W ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2020 r. poz. 794) w art. 12 w ust. 1 po pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
 
-- **7)** Ubezpieczeniowemu Funduszowi Gwarancyjnemu w zakresie niezbędnym do wykonywania przez ten Fundusz zadań związanych z dokonywaniem wypłat z Turystycznego Funduszu Zwrotów lub Turystycznego Funduszu Pomocowego, o których mowa odpowiednio w art. 15ka i art. 15kc ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm.). ” .
+- **7)** Ubezpieczeniowemu Funduszowi Gwarancyjnemu w zakresie niezbędnym do wykonywania przez ten Fundusz zadań związanych z dokonywaniem wypłat z Turystycznego Funduszu Zwrotów lub Turystycznego Funduszu Pomocowego, o których mowa odpowiednio w art. 15ka i art. 15kc ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 567, 568, 695, 875, 1086, 1106, 1422, 1423, 1478, 1493 i 1639.). ” .
 
 **Art. 6.** W ustawie z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym (Dz. U. poz. 1262 i 1493) w art. 23 ust. 2 otrzymuje brzmienie: „ 2. W przypadku gdy osobie uprawnionej nie ustalono prawa do świadczenia w formie bonu lub dodatkowego świadczenia w formie bonu w sposób, o którym mowa w ust. 1, w przypadku określonym w art. 18 ust. 2 i 3, POT, na wniosek osoby uprawnionej, ustala prawo do świadczenia w formie bonu lub dodatkowego świadczenia w formie bonu w drodze decyzji administracyjnej. ” .
 
@@ -399,6 +398,6 @@ Ubezpieczeniowemu Funduszowi Gwarancyjnemu w zakresie niezbędnym do wykonywania
 
 - **1)** art. 1 pkt 1, pkt 3 w zakresie dodawanych przepisów art. 15kc ust. 1–4 oraz ust. 13, 20 i 21 i pkt 14, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 - **2)** art. 1 pkt 3 w zakresie dodawanych przepisów art. 15kc ust. 5–12, ust. 14–19 i ust. 22, które wchodzą w życie z dniem 1 stycznia 2021 r.;
-- **3)** art. 1 pkt 4–7 i pkt 10–13, które wchodzą w życie po upływie 21 dni od dnia ogłoszenia.
+- **3)** art. 1 pkt 4–7 i pkt 10–13, które wchodzą w życie po upływie 21 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 19 sierpnia 2011 r. o usługach płatniczych oraz ustawę z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 567, 568, 695, 875, 1086, 1106, 1422, 1423, 1478 i 1493. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 567, 568, 695, 875, 1086, 1106, 1422, 1423, 1478, 1493 i 1639. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 567, 568, 695, 875, 1086, 1106, 1422, 1423, 1478, 1493 i 1639. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 567, 568, 695, 875, 1086, 1106, 1422, 1423, 1478, 1493 i 1639.
 
 

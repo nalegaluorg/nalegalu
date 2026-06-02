@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 14 czerwca 2012 r. w sprawie udzielania świadczeń zdrowotnych przez podmioty lecznicze dla osób pozbawionych wolności (Dz. U. z 2017 r. poz. 2131), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Sprawiedliwości z dnia 20 września 2019 r. zmieniającym rozporządzenie w sprawie udzielania świadczeń zdrowotnych przez podmioty lecznicze dla osób pozbawionych wolności (Dz. U. poz. 1868).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 20 września 2019 r. zmieniającego rozporządzenie w sprawie udzielania świadczeń zdrowotnych przez podmioty lecznicze dla osób pozbawionych wolności (Dz. U. poz. 1868), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 20 września 2019 r. zmieniającego rozporządzenie w sprawie udzielania świadczeń zdrowotnych przez podmioty lecznicze dla osób pozbawionych wolności (Dz. U. poz. 1868), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 14 czerwca 2012 r. w sprawie udzielania świadczeń zdrowotnych przez podmioty lecznicze dla osób pozbawionych wolności
 Na podstawie art. 115 § 9 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2024 r. poz. 706) zarządza się, co następuje:
 § 1.
@@ -79,8 +77,7 @@ konieczności przeprowadzenia specjalistycznych badań lekarskich, leczenia lub 
 3)
 konieczności przeprowadzenia badań diagnostycznych z powodu braku specjalistycznego sprzętu medycznego,
 4)
-konieczności zapewnienia świadczeń zdrowotnych podczas korzystania przez osobę pozbawioną wolności z przepustki lub czasowego zezwolenia na opuszczenie zakładu karnego lub aresztu śledczego, zwanych dalej „zakładem karnym”
-świadczenia te są udzielane przez pozawięzienne podmioty lecznicze.
+konieczności zapewnienia świadczeń zdrowotnych podczas korzystania przez osobę pozbawioną wolności z przepustki lub czasowego zezwolenia na opuszczenie zakładu karnego lub aresztu śledczego, zwanych dalej „zakładem karnym” – świadczenia te są udzielane przez pozawięzienne podmioty lecznicze.
 3.
 O konieczności udzielenia świadczenia zdrowotnego przez pozawięzienne podmioty lecznicze w przypadkach, o których mowa w ust. 2 pkt 1–3, decyduje kierownik podmiotu leczniczego lub lekarz podmiotu leczniczego, lub lekarz dentysta podmiotu leczniczego właściwego dla miejsca osadzenia osoby pozbawionej wolności, wobec której mają być udzielane te świadczenia zdrowotne.
 4.
@@ -100,7 +97,7 @@ Lekarz podmiotu leczniczego może odstąpić od wykonania profilaktycznego radio
 Lekarz podmiotu leczniczego odstępuje od wykonania profilaktycznego radiologicznego badania klatki piersiowej po przeprowadzeniu badania lekarskiego, w przypadku podejrzenia lub stwierdzenia ciąży.
 5.
 Fakt odstąpienia od profilaktycznego radiologicznego badania klatki piersiowej lekarz podmiotu leczniczego odnotowuje w książce zdrowia, podając przyczynę odstąpienia od badania.
-6.
+6W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 20 września 2019 r. zmieniającego rozporządzenie w sprawie udzielania świadczeń zdrowotnych przez podmioty lecznicze dla osób pozbawionych wolności (Dz. U. poz. 1868), które weszło w życie z dniem 17 października 2019 r..
 Lekarz podmiotu leczniczego może zlecić przeprowadzenie badań innych niż wymienione w ust. 2, w tym badania ginekologicznego, jeżeli jest to uzasadnione stanem zdrowia osoby pozbawionej wolności.
 § 5.
 1.
@@ -287,5 +284,5 @@ W przypadku gdy osoba pozbawiona wolności odmawia przeprowadzenia badania lekar
 § 17.
 W przypadku gdy osoba pozbawiona wolności jest objęta ubezpieczeniem wypadkowym lub chorobowym na podstawie przepisów o systemie ubezpieczeń społecznych, zaświadczenie lekarskie o czasowej niezdolności tej osoby do pracy z powodu choroby lub pobytu w szpitalu wydaje lekarz podmiotu leczniczego lub lekarz dentysta podmiotu leczniczego upoważniony przez Zakład Ubezpieczeń Społecznych do wystawiania zaświadczeń lekarskich.
 § 18.
-Rozporządzenie wchodzi w życie z dniem 2 lipca 2012 r.
+Rozporządzenie wchodzi w życie z dniem 2 lipca 2012 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 23 grudnia 2010 r. w sprawie udzielania świadczeń zdrowotnych osobom pozbawionym wolności przez zakłady opieki zdrowotnej dla osób pozbawionych wolności (Dz. U. z 2011 r. poz. 2), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 219 ust. 1 pkt 9 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. poz. 654). 1) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 20 września 2019 r. zmieniającego rozporządzenie w sprawie udzielania świadczeń zdrowotnych przez podmioty lecznicze dla osób pozbawionych wolności (Dz. U. poz. 1868), które weszło w życie z dniem 17 października 2019 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 23 grudnia 2010 r. w sprawie udzielania świadczeń zdrowotnych osobom pozbawionym wolności przez zakłady opieki zdrowotnej dla osób pozbawionych wolności (Dz. U. z 2011 r. poz. 2), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 219 ust. 1 pkt 9 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. poz. 654).
 

@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-09-19 |
 | Data wydania | 2014-09-24 |
-| Wejście w życie | 2014-10-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001282) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1282/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Płatne urlopy dodatkowe Rozdział 3 – Płatny urlop okolicznościowy Rozdział 4 – Urlop zdrowotny i bezpłatny Rozdział 5 – Przepisy przejściowe i końcowe
 Treść rozporządzenia
-Na podstawie art. 86 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 86 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529, z 2013 r. poz. 628, 675, 1351, 1635 i 1650 oraz z 2014 r. poz. 24, 486, 502, 538, 616, 1055 i 1199. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -53,10 +53,9 @@ Policjantowi, który:
 1)
 przed przyjęciem do służby w Policji wykorzystał urlop wypoczynkowy za dany rok kalendarzowy w wymiarze proporcjonalnym do okresu przepracowanego u dotychczasowego pracodawcy albo otrzymał w takim wymiarze ekwiwalent pieniężny za niewykorzystany urlop,
 2)
-podejmuje służbę w Policji w roku kalendarzowym innym niż rok, w którym ustał jego poprzedni stosunek służbowy lub stosunek pracy
-przysługuje urlop wypoczynkowy w roku przyjęcia do służby w Policji w wymiarze proporcjonalnym do okresu służby w Policji w danym roku.
+podejmuje służbę w Policji w roku kalendarzowym innym niż rok, w którym ustał jego poprzedni stosunek służbowy lub stosunek pracy – przysługuje urlop wypoczynkowy w roku przyjęcia do służby w Policji w wymiarze proporcjonalnym do okresu służby w Policji w danym roku.
 3.
-Przy ustalaniu wymiaru urlopu, o którym mowa w ust. 2, stosuje się odpowiednio przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.), przy czym wymiar tego urlopu liczony łącznie z wymiarem urlopu proporcjonalnie wykorzystanego za dany rok kalendarzowy u dotychczasowego pracodawcy nie może przekroczyć 26 dni roboczych.
+Przy ustalaniu wymiaru urlopu, o którym mowa w ust. 2, stosuje się odpowiednio przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700, z 2011 r. Nr 36, poz. 181, Nr 63, poz. 322, Nr 80, poz. 432, Nr 144, poz. 855, Nr 149, poz. 887 i Nr 232, poz. 1378, z 2012 r. poz. 908 i 1110, z 2013 r. poz. 2, 675, 896 i 1028 oraz z 2014 r. poz. 208.), przy czym wymiar tego urlopu liczony łącznie z wymiarem urlopu proporcjonalnie wykorzystanego za dany rok kalendarzowy u dotychczasowego pracodawcy nie może przekroczyć 26 dni roboczych.
 4.
 W przypadkach, o których mowa w ust. 1 i 2, urlopu wypoczynkowego udziela się nie wcześniej niż po upływie trzech miesięcy służby w Policji.
 § 4.
@@ -109,6 +108,7 @@ Wymiar urlopów wypoczynkowego i dodatkowego przysługujących w danym roku kale
 Na wniosek policjanta urlop wypoczynkowy może być podzielony na części, z tym że co najmniej jedna część urlopu powinna obejmować nie mniej niż 14 kolejnych dni kalendarzowych.
 § 9.
 Policjantowi skierowanemu do szkoły lub na przeszkolenie albo na studia w kraju lub za granicą urlopu wypoczynkowego za dany rok kalendarzowy należy udzielić przed rozpoczęciem szkolenia lub nauki, jeżeli czas ich trwania uniemożliwiłby udzielenie urlopu zgodnie z przepisami art. 83 ust. 4 ustawy.
+Płatne urlopy dodatkowe
 § 10.
 1.
 Wymiar corocznego płatnego urlopu dodatkowego dla policjantów, którzy osiągnęli określony staż służby, wynosi:
@@ -141,8 +141,7 @@ Wymiar corocznego płatnego urlopu dodatkowego dla policjantów, którzy pełni�
 a)
 w pomieszczeniach pozbawionych stałego naturalnego oświetlenia lub celowo przyciemnionych, w których ze względów technologicznych lub ze względu na rodzaj wykonywanej służby stosowane jest wyłącznie sztuczne oświetlenie,
 b)
-w pomieszczeniach zlokalizowanych poniżej poziomu otaczającego terenu
-zgodnie z przepisami w sprawie ogólnych przepisów bezpieczeństwa i higieny pracy,
+w pomieszczeniach zlokalizowanych poniżej poziomu otaczającego terenu – zgodnie z przepisami w sprawie ogólnych przepisów bezpieczeństwa i higieny pracy,
 c)
 w warunkach nadmiernego obciążenia wysiłkiem fizycznym wymagającym wydatku energetycznego o wartości co najmniej 2000 kcal dla mężczyzn i 1200 kcal dla kobiet,
 d)
@@ -216,6 +215,7 @@ Policjantowi, który wykorzystał urlop dodatkowy przysługujący za dany rok ka
 Urlopy dodatkowe określone w § 10 i 11 mogą być dzielone na dwie części z wyjątkiem urlopów dodatkowych, których wymiar wynosi 5 dni.
 § 18.
 Do udzielania policjantom urlopów dodatkowych stosuje się odpowiednio przepisy § 4–6 i § 9.
+Płatny urlop okolicznościowy
 § 19.
 Policjantowi można udzielić płatnego urlopu okolicznościowego z tytułu:
 1)
@@ -286,6 +286,7 @@ Kierownikowi jednostki organizacyjnej Policji urlopu okolicznościowego udziela 
 Kierownik jednostki organizacyjnej Policji może zastrzec uprawnienie, o którym mowa w ust. 1, wyłącznie dla siebie lub wskazanych kierowników komórek organizacyjnych.
 5.
 Udzielenie urlopów, o których mowa w § 20, § 21 ust. 3 i 4 oraz § 23 ust. 1, wymaga uzyskania zgody przełożonego właściwego w sprawach osobowych, z wyłączeniem przypadku, o którym mowa w ust. 2.
+Urlop zdrowotny i bezpłatny
 § 26.
 1.
 Policjantowi w służbie stałej można udzielić płatnego urlopu zdrowotnego w celu przeprowadzenia zaleconego leczenia w wymiarze nieprzekraczającym jednorazowo 6 miesięcy. Łączny wymiar urlopu w okresie całej służby nie może przekroczyć 18 miesięcy.
@@ -300,8 +301,7 @@ Policjantowi, który wyjeżdża wspólnie z małżonkiem:
 1)
 oddelegowanym do pełnienia zadań służbowych poza Policją za granicą albo
 2)
-przeniesionym do wykonywania obowiązków służbowych w placówce zagranicznej Rzeczypospolitej Polskiej, w rozumieniu przepisów o służbie zagranicznej
-udziela się urlopu bezpłatnego na czas oddelegowania małżonka lub wykonywania przez niego obowiązków służbowych w placówce zagranicznej.
+przeniesionym do wykonywania obowiązków służbowych w placówce zagranicznej Rzeczypospolitej Polskiej, w rozumieniu przepisów o służbie zagranicznej – udziela się urlopu bezpłatnego na czas oddelegowania małżonka lub wykonywania przez niego obowiązków służbowych w placówce zagranicznej.
 § 29.
 Przełożony właściwy w sprawach osobowych, który udzielił urlopu bezpłatnego, może ze względu na ważny interes służby odwołać policjanta z tego urlopu w każdym czasie po uprzednim pisemnym zawiadomieniu na co najmniej 30 dni przed przewidywanym terminem podjęcia służby.
 § 30.
@@ -311,22 +311,33 @@ Urlop bezpłatny trwający nie dłużej niż jeden miesiąc nie ogranicza uprawn
 W razie korzystania przez policjanta z urlopu bezpłatnego dłuższego niż jeden miesiąc urlopy wypoczynkowy i dodatkowy ulegają skróceniu o 1/12 za każdy miesiąc urlopu bezpłatnego, nie więcej jednak niż za 12 miesięcy. Jeżeli urlopy za ten rok zostały już wykorzystane, skróceniu ulegają urlopy za najbliższy rok kalendarzowy, w którym urlopy te przysługują.
 3.
 Wymiar urlopów wypoczynkowego i dodatkowego przysługujących w danym roku kalendarzowym w przypadku, o którym mowa w ust. 2, zaokrągla się do pełnych dni w górę.
+Przepisy przejściowe i końcowe
 § 31.
 Przepisy § 7 stosuje się do części okresu zawieszenia w czynnościach służbowych oraz tymczasowego aresztowania przypadającej po dniu wejścia w życie niniejszego rozporządzenia.
 § 32.
 Do policjantów, którzy rozpoczęli podnoszenie kwalifikacji zawodowych lub wykształcenia ogólnego przed dniem wejścia w życie rozporządzenia, stosuje się przepisy dotychczasowe.
 § 33.
-Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2002 r. w sprawie urlopów policjantów (Dz. U. Nr 81, poz. 740, z późn. zm.).
+Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2002 r. w sprawie urlopów policjantów (Dz. U. Nr 81, poz. 740, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2004 r. Nr 50, poz. 492, z 2005 r. Nr 126, poz. 1059 oraz z 2009 r. Nr 172, poz. 1340.).
 § 34.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 2 pkt 2 w odniesieniu do Centralnego Biura Śledczego Policji oraz § 2 pkt 3 w odniesieniu do Komendanta Centralnego Biura Śledczego Policji, które wchodzą w życie z dniem 9 października 2014 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 2 pkt 2 w odniesieniu do Centralnego Biura Śledczego Policji oraz § 2 pkt 3 w odniesieniu do Komendanta Centralnego Biura Śledczego Policji, które wchodzą w życie z dniem 9 października 2014 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529, z 2013 r. poz. 628, 675, 1351, 1635 i 1650 oraz z 2014 r. poz. 24, 486, 502, 538, 616, 1055 i 1199. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700, z 2011 r. Nr 36, poz. 181, Nr 63, poz. 322, Nr 80, poz. 432, Nr 144, poz. 855, Nr 149, poz. 887 i Nr 232, poz. 1378, z 2012 r. poz. 908 i 1110, z 2013 r. poz. 2, 675, 896 i 1028 oraz z 2014 r. poz. 208. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2004 r. Nr 50, poz. 492, z 2005 r. Nr 126, poz. 1059 oraz z 2009 r. Nr 172, poz. 1340.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Płatne urlopy dodatkowe
+#### Rozdział 2 – Płatne urlopy dodatkowe
 
-#### Rozdział 3 Płatny urlop okolicznościowy
+#### Rozdział 3 – Płatny urlop okolicznościowy
 
-#### Rozdział 4 Urlop zdrowotny i bezpłatny
+#### Rozdział 4 – Urlop zdrowotny i bezpłatny
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

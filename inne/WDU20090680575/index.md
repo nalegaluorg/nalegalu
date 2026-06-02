@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-04-03 |
 | Data wydania | 2009-05-06 |
-| Wejście w życie | 2009-05-21 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090680575) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/575/text.pdf) |
 
@@ -73,7 +72,7 @@ source: "eli-html"
 - **6)** w art. 13: w ust. 1 pkt 2 otrzymuje brzmienie: „
     - **a)**
 
-- **2)** koordynowanie i kontrola przedsięwzięć Euro 2012 oraz innych przygotowań do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012. ” , w ust. 2 zdanie wstępne otrzymuje brzmienie: „ Przedmiotem działalności spółek celowych, o których mowa w ust. 1 pkt 1, jest w szczególności zastępcze wykonywanie zadań inwestora i zadań nadzoru inwestorskiego w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.), a ponadto: ” , dodaje się ust. 3–5 w brzmieniu: „
+- **2)** koordynowanie i kontrola przedsięwzięć Euro 2012 oraz innych przygotowań do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012. ” , w ust. 2 zdanie wstępne otrzymuje brzmienie: „ Przedmiotem działalności spółek celowych, o których mowa w ust. 1 pkt 1, jest w szczególności zastępcze wykonywanie zadań inwestora i zadań nadzoru inwestorskiego w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 31, poz. 206.), a ponadto: ” , dodaje się ust. 3–5 w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -142,5 +141,5 @@ source: "eli-html"
 
 **Art. 2.** Członek rady nadzorczej spółki celowej utworzonej przez miasto wymienione w art. 7 ust. 6 ustawy zmienianej w art. 1, zgłoszony przez marszałka województwa, pełni swoją funkcję do dnia powołania w skład rady nadzorczej osoby zgłoszonej przez zarząd województwa.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 31, poz. 206.
 

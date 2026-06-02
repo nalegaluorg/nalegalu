@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 lipca 2016 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o notariacie oraz ustawy o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
+# Ustawa z dnia 22 lipca 2016 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o notariacie oraz ustawy o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 650/2012 z dnia 4 lipca 2012 r. w sprawie jurysdykcji, prawa właściwego, uznawania i wykonywania orzeczeń, przyjmowania i wykonywania dokumentów urzędowych dotyczących dziedziczenia oraz w sprawie ustanowienia europejskiego poświadczenia spadkowego (Dz. Urz. UE L 201 z 27.07.2012, str. 107, Dz. Urz. UE L 344 z 14.12.2012, str. 3 i Dz. Urz. UE L 60 z 02.03.2013, str. 140).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-22 |
 | Data wydania | 2016-08-29 |
-| Wejście w życie | 2016-09-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001358) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1358/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) w części czwartej w księdze drugiej w tytule VIIa po art. 11426dodaje się art. 11427wbrzmieniu: „
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924, z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587, 1595, 1634, 1635, 1830 i 1854 oraz z 2016 r. poz. 195, 437, 868, 996 i 1177.) w części czwartej w księdze drugiej w tytule VIIa po art. 11426dodaje się art. 11427wbrzmieniu: „
 
 **Art. 11427.** Postanowienie o wydaniu, sprostowaniu, zmianie lub uchyleniu europejskiego poświadczenia spadkowego albo o zawieszeniu jego skutków oraz postanowienie o zmianie albo uchyleniu tych postanowień sąd niezwłocznie wpisuje, za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 95i § 1 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie, do Rejestru Spadkowego. ” .
 
-**Art. 2.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2014 r. poz. 164, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2014 r. poz. 164, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 993 i 1585 oraz z 2015 r. poz. 218, 978, 1137, 1224 i 1311.) wprowadza się następujące zmiany:
 
 - **1)** w art. 92 § 8–10 otrzymują brzmienie: „
 
@@ -72,7 +71,7 @@ pkt 60 otrzymuje brzmienie: „
 - **b)**
 - **60)** po art. 679 dodaje się art. 6791iart. 6792wbrzmieniu: „
 
-**Art. 6791.** Prawomocne postanowienie o stwierdzeniu nabycia spadku, prawomocne postanowienie uchylające lub zmieniające postanowienie o stwierdzeniu nabycia spadku sąd niezwłocznie wpisuje, za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 95i § 1 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2014 r. poz. 164, z późn. zm.), do Rejestru Spadkowego.
+**Art. 6791.** Prawomocne postanowienie o stwierdzeniu nabycia spadku, prawomocne postanowienie uchylające lub zmieniające postanowienie o stwierdzeniu nabycia spadku sąd niezwłocznie wpisuje, za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 95i § 1 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2014 r. poz. 164, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 993 i 1585, z 2015 r. poz. 218, 978, 1137, 1224 i 1311 oraz z 2016 r. poz. 1358.), do Rejestru Spadkowego.
 
 **Art. 6792.** Sąd niezwłocznie zawiadamia Krajową Radę Notarialną o wydaniu prawomocnego postanowienia uchylającego zarejestrowany akt poświadczenia dziedziczenia. Do zawiadomienia dołącza się odpis postanowienia.”; ” ; ” ;
 
@@ -101,7 +100,7 @@ pkt 60 otrzymuje brzmienie: „
 
 § 4. W przypadku wpisów dokonywanych przez notariusza opłatę, o której mowa w § 3, notariusz pobiera od stron czynności notarialnej podlegającej wpisowi do Rejestru Spadkowego. Notariusz uzależnia dokonanie czynności od uprzedniego uiszczenia należnej opłaty.
 
-§ 5. W przypadku wpisów dokonywanych przez sąd opłatę, o której mowa w § 3, uiszcza wnioskodawca wraz z wniesieniem pisma wszczynającego postępowanie o wydanie orzeczenia podlegającego wpisowi do Rejestru Spadkowego. Do pisma, wraz z którym nie wniesiono opłaty, stosuje się odpowiednio przepis art. 130 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.). Do opłaty stosuje się przepisy ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2016 r. poz. 623) dotyczące wydatków, z wyłączeniem art. 83 tej ustawy.
+§ 5. W przypadku wpisów dokonywanych przez sąd opłatę, o której mowa w § 3, uiszcza wnioskodawca wraz z wniesieniem pisma wszczynającego postępowanie o wydanie orzeczenia podlegającego wpisowi do Rejestru Spadkowego. Do pisma, wraz z którym nie wniesiono opłaty, stosuje się odpowiednio przepis art. 130 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924, z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587, 1595, 1634, 1635, 1830 i 1854 oraz z 2016 r. poz. 195, 437, 868, 996, 1177 i 1358.). Do opłaty stosuje się przepisy ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2016 r. poz. 623) dotyczące wydatków, z wyłączeniem art. 83 tej ustawy.
 
 § 6. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Notarialnej, określi, w drodze rozporządzenia, sposób uiszczania i wysokość opłat za wpisy dokonywane w Rejestrze Spadkowym przez notariusza albo sąd, mając na względzie wysokość kosztów administracyjnych prowadzenia Rejestru Spadkowego oraz jego niedochodowy charakter i niezbędny rozwój.”; ” ; ” ;
 
@@ -119,5 +118,5 @@ pkt 60 otrzymuje brzmienie: „
 
 **Art. 4.** Przepis art. 11427 ustawy zmienianej w art. 1 stosuje się do postępowań wszczętych po wejściu w życie niniejszej ustawy.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 8 września 2016 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem 8 września 2016 r. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 650/2012 z dnia 4 lipca 2012 r. w sprawie jurysdykcji, prawa właściwego, uznawania i wykonywania orzeczeń, przyjmowania i wykonywania dokumentów urzędowych dotyczących dziedziczenia oraz w sprawie ustanowienia europejskiego poświadczenia spadkowego (Dz. Urz. UE L 201 z 27.07.2012, str. 107, Dz. Urz. UE L 344 z 14.12.2012, str. 3 i Dz. Urz. UE L 60 z 02.03.2013, str. 140). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924, z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587, 1595, 1634, 1635, 1830 i 1854 oraz z 2016 r. poz. 195, 437, 868, 996 i 1177. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 993 i 1585 oraz z 2015 r. poz. 218, 978, 1137, 1224 i 1311. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 993 i 1585, z 2015 r. poz. 218, 978, 1137, 1224 i 1311 oraz z 2016 r. poz. 1358. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924, z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587, 1595, 1634, 1635, 1830 i 1854 oraz z 2016 r. poz. 195, 437, 868, 996, 1177 i 1358.
 

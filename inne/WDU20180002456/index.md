@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-14 |
 | Data wydania | 2018-12-28 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002456) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2456/text.pdf) |
 
@@ -35,8 +34,7 @@ Rozporządzenie określa sposób podziału:
 2)
 środków finansowych, o których mowa w art. 365 pkt 2 lit. a-d ustawy, oraz
 3)
-środków finansowych na zadania, o których mowa w art. 459 pkt 3 ustawy
-dla uczelni nadzorowanych przez Ministra Sprawiedliwości.
+środków finansowych na zadania, o których mowa w art. 459 pkt 3 ustawy – dla uczelni nadzorowanych przez Ministra Sprawiedliwości.
 § 2.
 Środki finansowe, o których mowa w § 1, przeznacza się w całości na zadania realizowane przez Wyższą Szkołę Kryminologii i Penitencjarystyki w Warszawie.
 § 3.

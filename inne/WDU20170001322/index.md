@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 29 czerwca 2017 r. w sprawie dopuszczalnych form realizacji obowiązkowych zajęć wychowania fizycznego
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 29 czerwca 2017 r. w sprawie dopuszczalnych form realizacji obowiązkowych zajęć wychowania fizycznego Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-29 |
 | Data wydania | 2017-07-05 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001322) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1322/text.pdf) |
 
@@ -63,6 +62,5 @@ Propozycje zajęć, o których mowa w ust. 1, po uzgodnieniu z organem prowadzą
 3.
 Uczniowie, z wyłączeniem uczniów pełnoletnich, dokonują wyboru zajęć za zgodą rodziców.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 

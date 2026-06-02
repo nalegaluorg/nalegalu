@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-01 |
 | Data wydania | 2017-09-07 |
-| Wejście w życie | 2017-09-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001706) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1706/text.pdf) |
 
@@ -73,5 +72,5 @@ Właściwi kierownicy podmiotów używających środków przewozu osób zarządz
 3.
 W nieoznakowanych środkach przewozu osób dopuszcza się używanie wyrobów tytoniowych wyłącznie za wyraźną zgodą wszystkich znajdujących się w nich osób.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 8 września 2017 r.
+Rozporządzenie wchodzi w życie z dniem 8 września 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 20 czerwca 2011 r. w sprawie szczegółowych warunków używania wyrobów tytoniowych na terenie obiektów podlegających Ministrowi Sprawiedliwości oraz w środkach przewozu osób (Dz. U. poz. 795), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 10 ustawy z dnia 22 lipca 2016 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. poz. 1331). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 20 czerwca 2011 r. w sprawie szczegółowych warunków używania wyrobów tytoniowych na terenie obiektów podlegających Ministrowi Sprawiedliwości oraz w środkach przewozu osób (Dz. U. poz. 795), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 10 ustawy z dnia 22 lipca 2016 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. poz. 1331).
 

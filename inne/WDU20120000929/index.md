@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-07-30 |
 | Data wydania | 2012-08-14 |
-| Wejście w życie | 2012-08-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000929) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/929/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Szczegółowy opis granic i obszar składu wolnocłowego na terenie Portu Lotniczego Poznań-Ławica
 Treść rozporządzenia
-Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. Nr 68, poz. 622, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. Nr 68, poz. 622, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2008 r. Nr 209, poz. 1320 i Nr 215, poz. 1355, z 2009 r. Nr 168, poz. 1323, z 2010 r. Nr 106, poz. 673, z 2011 r. Nr 106, poz. 622 i Nr 254, poz. 1529 oraz z 2012 r. poz. 908.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 26 lutego 2009 r. w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Poznań-Ławica (Dz. U. Nr 55, poz. 454) załącznik otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2008 r. Nr 209, poz. 1320 i Nr 215, poz. 1355, z 2009 r. Nr 168, poz. 1323, z 2010 r. Nr 106, poz. 673, z 2011 r. Nr 106, poz. 622 i Nr 254, poz. 1529 oraz z 2012 r. poz. 908.
 Załącznik – Szczegółowy opis granic i obszar składu wolnocłowego na terenie Portu Lotniczego Poznań-Ławica
 Skład wolnocłowy jest zlokalizowany w Terminalu Pasażerskim Portu Lotniczego Poznań-Ławica i stanowi strefę zamkniętą odcinkami ścian określonymi w poniższym opisie granicy składu wolnocłowego. Z uwagi na usytuowanie składu wolnocłowego wewnątrz budynku, odgraniczenie składu wolnocłowego stanowią trwałe elementy budowlane. Opis przebiegu granic składu wolnocłowego jest przedstawiony na mapie w skali 1:500. Dokument zawierający opis przebiegu granic składu wolnocłowego wraz z mapą jest przechowywany u zarządzającego składem wolnocłowym oraz w postaci kopii we właściwej miejscowo izbie celnej nadzorującej skład wolnocłowy oraz w Ministerstwie Finansów. Granicę składu wolnocłowego stanowią następujące odcinki ścian:
 1)
@@ -91,6 +90,5 @@ dwa odcinki ściany o długości: 4,5 m, z jednym otworem drzwiowym, i 3,5 m, st
 27)
 ściana o długości 3,6 m, stanowiąca wschodnią ścianę klatki schodowej;
 28)
-dwa odcinki ściany o długości: 2,5 m, z jednym otworem drzwiowym, i 2,8 m, stanowiące zachodnią ścianę składu wolnocłowego.
-Łączna powierzchnia składu wolnocłowego wynosi 1631,8 m2.
+dwa odcinki ściany o długości: 2,5 m, z jednym otworem drzwiowym, i 2,8 m, stanowiące zachodnią ścianę składu wolnocłowego. Łączna powierzchnia składu wolnocłowego wynosi 1631,8 m2.
 

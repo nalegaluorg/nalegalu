@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-06 |
 | Data wydania | 2018-12-12 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002320) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2320/text.pdf) |
 
+Polskie Laboratorium Antydopingowe
+Gospodarka finansowa Laboratorium
 1.
 Przychodami Laboratorium są następujące dotacje z budżetu państwa:
 1)
@@ -98,6 +99,7 @@ Wyboru firmy audytorskiej do badania rocznego sprawozdania finansowego Laborator
 Dyrektor Laboratorium przedstawia ministrowi właściwemu do spraw kultury fizycznej zaopiniowane przez Radę Laboratorium roczne sprawozdanie finansowe Laboratorium wraz z opinią Rady Laboratorium i sprawozdaniem z badania w rozumieniu art. 2 pkt 31 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym.
 4.
 Roczne sprawozdanie finansowe Laboratorium zatwierdza minister właściwy do spraw kultury fizycznej.
+Działalność Laboratorium
 1.
 Laboratorium w zakresie, w jakim prowadzi analizy antydopingowe próbek fizjologicznych zawodników, stosuje standardy międzynarodowe Światowej Agencji Antydopingowej.
 2.
@@ -115,17 +117,16 @@ korzystania z infrastruktury badawczej należącej do:
 a)
 Laboratorium przez uczelnie lub instytuty badawcze,
 b)
-uczelni lub instytutów badawczych przez Laboratorium
-do prowadzenia wspólnie badań naukowych i prac rozwojowych.
+uczelni lub instytutów badawczych przez Laboratorium – do prowadzenia wspólnie badań naukowych i prac rozwojowych.
 2.
 W ramach umów, o których mowa w ust. 1, podstawowe jednostki organizacyjne uczelni albo uczelnie bezwydziałowe lub instytuty badawcze mogą:
 1)
 wykorzystywać w procesie dydaktycznym,
 2)
-zaliczać do osiągnięć naukowych jednostki branych pod uwagę przy przyznawaniu kategorii naukowej
-wyniki badań naukowych i prac rozwojowych prowadzonych przez pracowników Laboratorium, w przypadkach, o których mowa w ust. 1 pkt 1–3, w ramach ich stosunku pracy w Laboratorium, oraz publikacje naukowe prezentujące te wyniki.
+zaliczać do osiągnięć naukowych jednostki branych pod uwagę przy przyznawaniu kategorii naukowej – wyniki badań naukowych i prac rozwojowych prowadzonych przez pracowników Laboratorium, w przypadkach, o których mowa w ust. 1 pkt 1–3, w ramach ich stosunku pracy w Laboratorium, oraz publikacje naukowe prezentujące te wyniki.
 3.
 Umowy, o których mowa w ust. 1, mogą określać także sposób i warunki wykorzystania przez podstawowe jednostki organizacyjne uczelni albo uczelnie bezwydziałowe lub instytuty badawcze wyników badań naukowych i prac rozwojowych prowadzonych przez pracowników Laboratorium w ramach ich stosunku pracy w Laboratorium oraz publikacji naukowych prezentujących te wyniki do innych celów niż wymienione w ust. 2.
+Jednostka do spraw Zarządzania Paszportem Zawodnika (APMU)
 1.
 Przy Laboratorium może działać, w sposób niezależny i bezstronny, zgodnie ze standardami międzynarodowymi Światowej Agencji Antydopingowej, Jednostka do spraw Zarządzania Paszportem Zawodnika, zwana dalej „Jednostką”.
 2.
@@ -143,11 +144,9 @@ Pracami jednostek, o których mowa w ust. 4, kierują kierownicy, a udział w ni
 6.
 Kierowników i ekspertów jednostek, o których mowa w ust. 5, wyznacza Dyrektor Laboratorium.
 7.
-Obsługę Jednostki, także w zakresie finansowym, zapewnia Laboratorium.
-” ;
+Obsługę Jednostki, także w zakresie finansowym, zapewnia Laboratorium. ” ;
 17)
-art. 57 otrzymuje brzmienie:
-„
+art. 57 otrzymuje brzmienie: „
 
 **Art. 1.** W ustawie z dnia 21 kwietnia 2017 r. o zwalczaniu dopingu w sporcie (Dz. U. poz. 1051 oraz z 2018 r. poz. 2245) wprowadza się następujące zmiany:
 
@@ -214,7 +213,7 @@ art. 57 otrzymuje brzmienie:
 - **15)** uchyla się art. 46;
 - **16)** po rozdziale 6 dodaje się rozdziały 6a-6d w brzmieniu: „
 
-#### Rozdział 6a Polskie Laboratorium Antydopingowe
+#### Rozdział 6a
 
 **Art. 47a.**
 
@@ -286,7 +285,7 @@ art. 57 otrzymuje brzmienie:
 - **4)** działania niezgodnego z prawem lub zasadami rzetelności lub gospodarności;
 - **5)** niezatwierdzenia rocznego sprawozdania finansowego Laboratorium lub jego nieprzedstawienia w terminie.
 
-1. Dyrektora Laboratorium powołuje i odwołuje minister właściwy do spraw kultury fizycznej, po zasięgnięciu opinii Rady Laboratorium. 2. Kadencja Dyrektora Laboratorium trwa 5 lat. 3. Powołanie, o którym mowa w ust. 1, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.). 4. Kandydatów na stanowisko Dyrektora Laboratorium wyłania się w drodze otwartego i konkurencyjnego naboru przeprowadzonego przez ministra właściwego do spraw kultury fizycznej. 5. W razie śmierci lub odwołania Dyrektora Laboratorium, do czasu powołania jego następcy, funkcję Dyrektora Laboratorium pełni zastępca Dyrektora Laboratorium wskazany przez ministra właściwego do spraw kultury fizycznej.
+1. Dyrektora Laboratorium powołuje i odwołuje minister właściwy do spraw kultury fizycznej, po zasięgnięciu opinii Rady Laboratorium. 2. Kadencja Dyrektora Laboratorium trwa 5 lat. 3. Powołanie, o którym mowa w ust. 1, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244 i 2245.). 4. Kandydatów na stanowisko Dyrektora Laboratorium wyłania się w drodze otwartego i konkurencyjnego naboru przeprowadzonego przez ministra właściwego do spraw kultury fizycznej. 5. W razie śmierci lub odwołania Dyrektora Laboratorium, do czasu powołania jego następcy, funkcję Dyrektora Laboratorium pełni zastępca Dyrektora Laboratorium wskazany przez ministra właściwego do spraw kultury fizycznej.
 
 1. Informację o naborze na stanowisko Dyrektora Laboratorium ogłasza się przez umieszczenie w miejscu powszechnie dostępnym w siedzibie urzędu obsługującego ministra właściwego do spraw kultury fizycznej oraz na jego stronie podmiotowej Biuletynu Informacji Publicznej ogłoszenia o naborze, które zawiera:
 
@@ -337,7 +336,7 @@ art. 57 otrzymuje brzmienie:
 
 - **1)** przedstawiciel ministra właściwego do spraw nauki,
 - **2)** przedstawiciel ministra właściwego do spraw zdrowia,
-- **3)** trzy osoby posiadające doświadczenie zawodowe w zakresie nauk farmaceutycznych, medycznych, biologicznych, chemicznych lub pokrewnych dające rękojmię prawidłowego wykonywania zadań Rady Laboratorium.
+- **3)** trzy osoby posiadające doświadczenie zawodowe w zakresie nauk farmaceutycznych, medycznych, biologicznych, chemicznych lub pokrewnych – dające rękojmię prawidłowego wykonywania zadań Rady Laboratorium.
 
 3. Członkiem Rady Laboratorium nie może być osoba skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe, niemająca pełnej zdolności do czynności prawnych lub karana dyscyplinarnie za doping w sporcie.
 
@@ -384,11 +383,11 @@ art. 57 otrzymuje brzmienie:
 
 3. W przypadku gdy okoliczność, o której mowa w ust. 1, dotyczy Przewodniczącego Rady Laboratorium, zawiadamia on o podstawie wyłączenia swojego zastępcę. Członkowie Rady Laboratorium otrzymują zwrot kosztów związanych z podróżą na zasadach określonych w przepisach wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
-#### Rozdział 6b Gospodarka finansowa Laboratorium
+#### Rozdział 6b
 
-#### Rozdział 6c Działalność Laboratorium
+#### Rozdział 6c
 
-#### Rozdział 6d Jednostka do spraw Zarządzania Paszportem Zawodnika (APMU)
+#### Rozdział 6d
 
 **Art. 57.**
 
@@ -435,7 +434,7 @@ art. 57 otrzymuje brzmienie:
 
 1. Kierownik Zakładu Badań Antydopingowych Instytutu Sportu – Państwowego Instytutu Badawczego pełni funkcję Dyrektora Polskiego Laboratorium Antydopingowego do czasu wyłonienia Dyrektora Polskiego Laboratorium Antydopingowego w drodze pierwszego konkursu, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-2. Pracownicy Zakładu Badań Antydopingowych Instytutu Sportu – Państwowego Instytutu Badawczego stają się pracownikami Polskiego Laboratorium Antydopingowego. Przepisy art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.) stosuje się odpowiednio.
+2. Pracownicy Zakładu Badań Antydopingowych Instytutu Sportu – Państwowego Instytutu Badawczego stają się pracownikami Polskiego Laboratorium Antydopingowego. Przepisy art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244 i 2245.) stosuje się odpowiednio.
 
 **Art. 7.**
 
@@ -455,5 +454,5 @@ art. 57 otrzymuje brzmienie:
 
 **Art. 10.** W roku 2019 upoważnia się ministra właściwego do spraw kultury fizycznej do przeniesienia wydatków do wysokości 3900 tys. zł na dotację podmiotową dla Polskiej Agencji Antydopingowej.
 
-**Art. 11.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 5 ust. 4 oraz art. 9, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 5 ust. 4 oraz art. 9, które wchodzą w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244 i 2245. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244 i 2245.
 

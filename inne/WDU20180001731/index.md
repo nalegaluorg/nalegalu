@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 29 sierpnia 2018 r. w sprawie warunków i trybu współpracy z ministrem właściwym do spraw rozwoju wsi oraz z audytorem wewnętrznym agencji płatniczej w ramach nadzoru nad agencją płatniczą w zakresie spełniania kryteriów akredytacyjnych
+# Rozporządzenie Ministra Finansówz dnia 29 sierpnia 2018 r. w sprawie warunków i trybu współpracy z ministrem właściwym do spraw rozwoju wsi oraz z audytorem wewnętrznym agencji płatniczej w ramach nadzoru nad agencją płatniczą w zakresie spełniania kryteriów akredytacyjnych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-21 |
 | Data wydania | 2018-09-06 |
-| Wejście w życie | 2018-09-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001731) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1731/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 6 ust. 2 ustawy z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej (Dz. U. z 2018 r. poz. 221) zarządza się, co następuje:
 § 1.
-Rozporządzenie określa warunki i tryb współpracy ministra właściwego do spraw finansów publicznych, zwanego dalej „ministrem”, z ministrem właściwym do spraw rozwoju wsi oraz z audytorem wewnętrznym agencji płatniczej, zwanym dalej „audytorem”, w ramach sprawowania stałego nadzoru nad agencją płatniczą, o którym mowa w art. 2 rozporządzenia Komisji (WE) nr 885/2006 z dnia 21 czerwca 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1290/2005 w zakresie akredytacji agencji płatniczych i innych jednostek, jak również rozliczenia rachunków EFGR i EFRROW (Dz. Urz. UE L 171 z 23.06.2006, str. 90, z późn. zm.).
+Rozporządzenie określa warunki i tryb współpracy ministra właściwego do spraw finansów publicznych, zwanego dalej „ministrem”, z ministrem właściwym do spraw rozwoju wsi oraz z audytorem wewnętrznym agencji płatniczej, zwanym dalej „audytorem”, w ramach sprawowania stałego nadzoru nad agencją płatniczą, o którym mowa w art. 2 rozporządzenia Komisji (WE) nr 885/2006 z dnia 21 czerwca 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1290/2005 w zakresie akredytacji agencji płatniczych i innych jednostek, jak również rozliczenia rachunków EFGR i EFRROW (Dz. Urz. UE L 171 z 23.06.2006, str. 90, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 279 z 23.10.2007, str. 10, Dz. Urz. UE L 279 z 22.10.2008, str. 13 oraz Dz. Urz. UE L 118 z 03.05.2012, str. 4.).
 § 2.
 Współpraca, o której mowa w § 1, polega na przedkładaniu ministrowi:
 1)
@@ -71,6 +70,5 @@ Do informacji opracowywanych na podstawie wyników postępowań kontrolnych prze
 § 7.
 Traci moc rozporządzenie Ministra Finansów z dnia 13 grudnia 2006 r. w sprawie warunków i trybu współpracy ministra właściwego do spraw finansów publicznych z jednostką koordynującą oraz audytorem wewnętrznym agencji płatniczej (Dz. U. poz. 1730).
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 279 z 23.10.2007, str. 10, Dz. Urz. UE L 279 z 22.10.2008, str. 13 oraz Dz. Urz. UE L 118 z 03.05.2012, str. 4.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 279 z 23.10.2007, str. 10, Dz. Urz. UE L 279 z 22.10.2008, str. 13 oraz Dz. Urz. UE L 118 z 03.05.2012, str. 4.
 

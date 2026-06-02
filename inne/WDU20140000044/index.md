@@ -22,29 +22,24 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-01-02 |
 | Data wydania | 2014-01-10 |
-| Wejście w życie | 2014-01-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000044) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/44/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 114 ust. 4 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 114 ust. 4 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371, z 2012 r. poz. 627, 664, 769 i 951 oraz z 2013 r. poz. 628, 675, 829, 1351 i 1650.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 12 sierpnia 2008 r. w sprawie wysokości funduszu na nagrody roczne, nagrody uznaniowe i zapomogi dla funkcjonariuszy Straży Granicznej (Dz. U. Nr 148, poz. 941, z 2009 r. Nr 219, poz. 1716 oraz z 2013 r. poz. 822) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Fundusz na nagrody roczne, nagrody uznaniowe i zapomogi dla funkcjonariuszy tworzy się w oddziałach Straży Granicznej, Centralnym Ośrodku Szkolenia Straży Granicznej, Ośrodku Szkoleń Specjalistycznych Straży Granicznej, ośrodkach Straży Granicznej i Komendzie Głównej Straży Granicznej.
-” ;
+Fundusz na nagrody roczne, nagrody uznaniowe i zapomogi dla funkcjonariuszy tworzy się w oddziałach Straży Granicznej, Centralnym Ośrodku Szkolenia Straży Granicznej, Ośrodku Szkoleń Specjalistycznych Straży Granicznej, ośrodkach Straży Granicznej i Komendzie Głównej Straży Granicznej. ” ;
 2)
-§ 2 otrzymuje brzmienie:
-„
+§ 2 otrzymuje brzmienie: „
 § 2.
 1.
 Wysokość środków finansowych przeznaczonych na nagrody uznaniowe i zapomogi ujmuje się w ramach planu wydatków na pozostałe należności funkcjonariuszy będących w dyspozycji odpowiednio Komendanta Głównego Straży Granicznej, komendantów oddziałów Straży Granicznej, Komendanta Centralnego Ośrodka Szkolenia Straży Granicznej, Komendanta Ośrodka Szkoleń Specjalistycznych Straży Granicznej i komendantów ośrodków Straży Granicznej.
 2.
-Środki finansowe przeznaczone na nagrody uznaniowe i zapomogi na dany rok kalendarzowy ustala się w oddziałach Straży Granicznej, Centralnym Ośrodku Szkolenia Straży Granicznej, Ośrodku Szkoleń Specjalistycznych Straży Granicznej, ośrodkach Straży Granicznej i w Komendzie Głównej Straży Granicznej w wysokości 2,70 % podstawy wymiaru, z tym że środki finansowe w wysokości 0,70 % podstawy wymiaru pozostają w dyspozycji Komendanta Głównego Straży Granicznej.
-” .
+Środki finansowe przeznaczone na nagrody uznaniowe i zapomogi na dany rok kalendarzowy ustala się w oddziałach Straży Granicznej, Centralnym Ośrodku Szkolenia Straży Granicznej, Ośrodku Szkoleń Specjalistycznych Straży Granicznej, ośrodkach Straży Granicznej i w Komendzie Głównej Straży Granicznej w wysokości 2,70 % podstawy wymiaru, z tym że środki finansowe w wysokości 0,70 % podstawy wymiaru pozostają w dyspozycji Komendanta Głównego Straży Granicznej. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371, z 2012 r. poz. 627, 664, 769 i 951 oraz z 2013 r. poz. 628, 675, 829, 1351 i 1650.
 

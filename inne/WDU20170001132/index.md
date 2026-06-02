@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 21 kwietnia 2017 r. o roszczeniach o naprawienie szkody wyrządzonej przez naruszenie prawa konkurencji
+# Ustawa z dnia 21 kwietnia 2017 r. o roszczeniach o naprawienie szkody wyrządzonej przez naruszenie prawa konkurencji Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/104/UE z dnia 26 listopada 2014 r. w sprawie niektórych przepisów regulujących dochodzenie roszczeń odszkodowawczych z tytułu naruszenia prawa konkurencji państw członkowskich i Unii Europejskiej, objęte przepisami prawa krajowego (Dz. Urz. UE L 349 z 05.12.2014, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,27 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-21 |
 | Data wydania | 2017-06-12 |
-| Wejście w życie | 2017-06-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001132) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1132/text.pdf) |
 
-#### Rozdział 1 Przepisy ogólne
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji oraz ustawę z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów.
+Przepisy ogólne
+Zasady odpowiedzialności za szkodę wyrządzoną przez naruszenie prawa konkurencji
+Zasady dochodzenia roszczeń o naprawienie szkody wyrządzonej przez naruszenie prawa konkurencji w postępowaniu cywilnym
+Zmiany w przepisach
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Zasady odpowiedzialności za szkodę wyrządzoną przez naruszenie prawa konkurencji
+
+#### Rozdział 3 – Zasady dochodzenia roszczeń o naprawienie szkody wyrządzonej przez naruszenie prawa konkurencji w postępowaniu cywilnym
+
+#### Rozdział 4 – Zmiany w przepisach
+
+#### Rozdział 5 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa zasady odpowiedzialności za szkodę wyrządzoną przez naruszenie prawa konkurencji oraz zasady dochodzenia roszczeń o naprawienie szkody wyrządzonej przez naruszenie prawa konkurencji w postępowaniu cywilnym.
 
@@ -50,7 +66,7 @@ source: "eli-html"
 - **16)** dostawca pośredni – osobę fizyczną lub prawną, od której dostawca bezpośredni lub kolejny dostawca nabył produkty lub usługi, których dotyczy naruszenie prawa konkurencji, lub produkty lub usługi będące pochodnymi takich produktów lub usług, lub zawierające takie produkty lub usługi;
 - **17)** mały lub średni przedsiębiorca – małego lub średniego przedsiębiorcę w rozumieniu zalecenia Komisji 2003/361/WE z dnia 6 maja 2003 r. dotyczącego definicji przedsiębiorstw mikro, małych i średnich (Dz. Urz. UE L 124 z 20.05.2003, str. 36).
 
-#### Rozdział 2 Zasady odpowiedzialności za szkodę wyrządzoną przez naruszenie prawa konkurencji
+#### Rozdział 2
 
 **Art. 3.** Sprawca naruszenia jest obowiązany do naprawienia szkody wyrządzonej komukolwiek przez naruszenie prawa konkurencji, chyba że nie ponosi winy.
 
@@ -65,7 +81,7 @@ source: "eli-html"
 1. Mały lub średni przedsiębiorca ponosi odpowiedzialność solidarną wyłącznie wobec swoich nabywców bezpośrednich lub nabywców pośrednich lub dostawców bezpośrednich lub dostawców pośrednich, jeżeli:
 
 - **1)** jego udział w rynku właściwym jest niższy niż 5% przez cały okres trwania naruszenia prawa konkurencji oraz
-- **2)** poniesienie przez niego odpowiedzialności solidarnej bez ograniczeń wynikających z niniejszego przepisu stanowiłoby nieodwracalne zagrożenie dla ekonomicznej opłacalności jego działalności i skutkowałoby całkowitą utratą wartości jego przedsiębiorstwa chyba że mały lub średni przedsiębiorca pełnił kierowniczą rolę w naruszeniu prawa konkurencji lub nakłonił innych przedsiębiorców do udziału w tym naruszeniu lub uprzednio organ ochrony konkurencji lub sąd stwierdził naruszenie przez niego prawa konkurencji.
+- **2)** poniesienie przez niego odpowiedzialności solidarnej bez ograniczeń wynikających z niniejszego przepisu stanowiłoby nieodwracalne zagrożenie dla ekonomicznej opłacalności jego działalności i skutkowałoby całkowitą utratą wartości jego przedsiębiorstwa – chyba że mały lub średni przedsiębiorca pełnił kierowniczą rolę w naruszeniu prawa konkurencji lub nakłonił innych przedsiębiorców do udziału w tym naruszeniu lub uprzednio organ ochrony konkurencji lub sąd stwierdził naruszenie przez niego prawa konkurencji.
 
 2. Podmiot zwolniony z kary ponosi odpowiedzialność solidarną wobec swoich nabywców bezpośrednich lub nabywców pośrednich lub dostawców bezpośrednich lub dostawców pośrednich, a wobec pozostałych poszkodowanych tylko wówczas, gdy uzyskanie pełnego odszkodowania od innych sprawców naruszenia nie jest możliwe.
 
@@ -88,13 +104,13 @@ source: "eli-html"
 2. Bieg przedawnienia ulega zawieszeniu z chwilą wszczęcia przez:
 
 - **1)** Prezesa Urzędu Ochrony Konkurencji i Konsumentów postępowania wyjaśniającego lub antymonopolowego lub
-- **2)** Komisję Europejską lub organ ochrony konkurencji innego państwa członkowskiego Unii Europejskiej postępowania w sprawie naruszenia prawa konkurencji którego przedmiotem jest naruszenie prawa konkurencji będące podstawą roszczenia o naprawienie szkody.
+- **2)** Komisję Europejską lub organ ochrony konkurencji innego państwa członkowskiego Unii Europejskiej postępowania w sprawie naruszenia prawa konkurencji – którego przedmiotem jest naruszenie prawa konkurencji będące podstawą roszczenia o naprawienie szkody.
 
 3. Zawieszenie biegu przedawnienia w przypadkach, o których mowa w ust. 2, ustaje po upływie roku od dnia uprawomocnienia się orzeczenia stwierdzającego naruszenie prawa konkurencji lub zakończenia postępowania w inny sposób.
 
 **Art. 10.** Wzakresie nieuregulowanym w niniejszym rozdziale do odpowiedzialności za szkodę wyrządzoną przez naruszenie prawa konkurencji stosuje się przepisy Kodeksu cywilnego o czynach niedozwolonych.
 
-#### Rozdział 3 Zasady dochodzenia roszczeń o naprawienie szkody wyrządzonej przez naruszenie prawa konkurencji w postępowaniu cywilnym
+#### Rozdział 3
 
 **Art. 11.** Sprawy o naprawienie szkody wyrządzonej przez naruszenie prawa konkurencji należą do właściwości sądów okręgowych.
 
@@ -197,7 +213,7 @@ source: "eli-html"
 
 - **1)** w złej wierze złożyła wniosek o wyjawienie środka dowodowego lub
 - **2)** naruszyła ograniczenia dotyczące prawa wglądu, zapoznawania się lub korzystania z dowodu, ustanowione przez sąd zgodnie z art. 23, lub
-- **3)** wykorzystała dowód w innym celu niż na potrzeby toczącego się postępowania sąd pominie dowód uzyskany na podstawie postanowienia nakazującego wyjawienie środka dowodowego wydanego na wniosek tej strony.
+- **3)** wykorzystała dowód w innym celu niż na potrzeby toczącego się postępowania – sąd pominie dowód uzyskany na podstawie postanowienia nakazującego wyjawienie środka dowodowego wydanego na wniosek tej strony.
 
 2. Strona, która dopuściła się zachowania, o którym mowa w ust. 1, podlega także karze grzywny w kwocie do dwudziestu tysięcy złotych.
 
@@ -215,15 +231,15 @@ source: "eli-html"
 
 2. Na wniosek sądu Prezes Urzędu Ochrony Konkurencji i Konsumentów lub organ ochrony konkurencji innego państwa członkowskiego Unii Europejskiej może udzielić sądowi pomocy przy ustalaniu wysokości szkody, jeżeli pozwalają na to zebrany przez niego materiał dowodowy i posiadane informacje.
 
-**Art. 32.** W zakresie nieuregulowanym w niniejszym rozdziale do postępowania o naprawienie szkody wyrządzonej przez naruszenie prawa konkurencji stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.).
+**Art. 32.** W zakresie nieuregulowanym w niniejszym rozdziale do postępowania o naprawienie szkody wyrządzonej przez naruszenie prawa konkurencji stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768 i 933.).
 
-#### Rozdział 4 Zmiany w przepisach
+#### Rozdział 4
 
 **Art. 33.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2017 r. poz. 459 i 933) w art. 4421§ 1 otrzymuje brzmienie: „
 
 § 1. Roszczenie o naprawienie szkody wyrządzonej czynem niedozwolonym ulega przedawnieniu z upływem lat trzech od dnia, w którym poszkodowany dowiedział się albo przy zachowaniu należytej staranności mógł się dowiedzieć o szkodzie i o osobie obowiązanej do jej naprawienia. Jednakże termin ten nie może być dłuższy niż dziesięć lat od dnia, w którym nastąpiło zdarzenie wywołujące szkodę. ” .
 
-**Art. 34.** W ustawie z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 34.** W ustawie z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. poz. 959, 1693 i 1804, z 2005 r. poz. 68, z 2007 r. poz. 1206, z 2009 r. poz. 1540 oraz z 2017 r. poz. 933.) wprowadza się następujące zmiany:
 
 - **1)** w art. 18 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
@@ -245,7 +261,7 @@ source: "eli-html"
 
 13. Zakazu wykorzystania informacji i dowodów, o których mowa w ust. 12, nie stosuje się do postępowania cywilnego o naprawienie szkody wyrządzonej przez naruszenie prawa konkurencji w rozumieniu ustawy z dnia 21 kwietnia 2017 r. o roszczeniach o naprawienie szkody wyrządzonej przez naruszenie prawa konkurencji – w zakresie, w jakim przepisy wymienionej ustawy zezwalają na ich wykorzystanie jako dowodu. ” .
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5
 
 **Art. 36.**
 
@@ -276,5 +292,5 @@ source: "eli-html"
 
 3. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy limitu wydatków określonego w ust. 1 stosuje się mechanizm korygujący polegający na racjonalizacji częstotliwości podejmowania przez Prezesa Urzędu Ochrony Konkurencji i Konsumentów tych czynności w zakresie postępowań o naprawienie szkody wyrządzonej przez naruszenie prawa konkurencji, których podjęcie jest pozostawione ocenie Prezesa Urzędu Ochrony Konkurencji i Konsumentów.
 
-**Art. 40.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 40.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/104/UE z dnia 26 listopada 2014 r. w sprawie niektórych przepisów regulujących dochodzenie roszczeń odszkodowawczych z tytułu naruszenia prawa konkurencji państw członkowskich i Unii Europejskiej, objęte przepisami prawa krajowego (Dz. Urz. UE L 349 z 05.12.2014, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji oraz ustawę z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768 i 933. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. poz. 959, 1693 i 1804, z 2005 r. poz. 68, z 2007 r. poz. 1206, z 2009 r. poz. 1540 oraz z 2017 r. poz. 933.
 

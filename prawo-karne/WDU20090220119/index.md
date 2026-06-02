@@ -22,13 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-12-19 |
 | Data wydania | 2009-02-11 |
-| Wejście w życie | 2009-03-14 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090220119) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/119/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.) w części szczególnej po rozdziale XV dodaje się rozdział XVa w brzmieniu: „
+Umieszczanie tymczasowo aresztowanych i skazanych odbywających karę pozbawienia wolności w wydzielonych pomieszczeniach lub pomieszczeniach dla osób zatrzymanych
 
-#### Rozdział XVa Umieszczanie tymczasowo aresztowanych i skazanych odbywających karę pozbawienia wolności w wydzielonych pomieszczeniach lub pomieszczeniach dla osób zatrzymanych
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849, z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344 oraz z 2009 r. Nr 8, poz. 39.) w części szczególnej po rozdziale XV dodaje się rozdział XVa w brzmieniu: „
+
+#### Rozdział XVa
 
 **Art. 223b.**
 
@@ -52,5 +53,5 @@ source: "eli-html"
 
 § 2. Minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej i Ministrem Sprawiedliwości, określi, w drodze rozporządzenia, wykaz pomieszczeń, o których mowa w art. 223b § 1, w których mogą być odrębnie umieszczeni tymczasowo aresztowani i skazani, oraz warunki, którym muszą one odpowiadać, uwzględniając potrzebę zapewnienia warunków porównywalnych z określonymi dla aresztów śledczych i zakładów karnych przy wykonywaniu tymczasowego aresztowania i kary pozbawienia wolności. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849, z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344 oraz z 2009 r. Nr 8, poz. 39.
 

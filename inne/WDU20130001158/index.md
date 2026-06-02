@@ -22,14 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-08-30 |
 | Data wydania | 2013-10-01 |
-| Wejście w życie | 2013-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001158) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1158/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2009 r. Nr 189, poz. 1471, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2009 r. Nr 189, poz. 1471, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 200, poz. 1322 oraz z 2013 r. poz. 628.) wprowadza się następujące zmiany:
 
-- **1)** w art. 4: w ust. 1: – w pkt 1 lit. b otrzymuje brzmienie: „ b) właściciel albo posiadacz gruntów pod wodami stojącymi lub gruntów pod wodami, do których stosuje się odpowiednio art. 5 ust. 4 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm.), zwanej dalej „ustawą – Prawo wodne”, ” , – pkt 2 otrzymuje brzmienie: „ 2) w obwodzie rybackim uprawniony jest organ administracji publicznej wykonujący uprawnienia właściciela wody w zakresie rybactwa śródlądowego albo osoba władająca obwodem rybackim na podstawie umowy zawartej z właściwym organem administracji publicznej na podstawie art. 13 ust. 3 albo umowy, o której mowa w art. 217 ust. 6 ustawy – Prawo wodne ” , ust. 3 i 4 otrzymują brzmienie: „
+- **1)** w art. 4: w ust. 1: w pkt 1 lit. b otrzymuje brzmienie: „ właściciel albo posiadacz gruntów pod wodami stojącymi lub gruntów pod wodami, do których stosuje się odpowiednio art. 5 ust. 4 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513 oraz z 2013 r. poz. 21 i 165.), zwanej dalej „ustawą – Prawo wodne”, ” , pkt 2 otrzymuje brzmienie: „
     - **a)**
+    - **b)**
+
+- **2)** w obwodzie rybackim uprawniony jest organ administracji publicznej wykonujący uprawnienia właściciela wody w zakresie rybactwa śródlądowego albo osoba władająca obwodem rybackim na podstawie umowy zawartej z właściwym organem administracji publicznej na podstawie art. 13 ust. 3 albo umowy, o której mowa w art. 217 ust. 6 ustawy – Prawo wodne ” , ust. 3 i 4 otrzymują brzmienie: „
     - **b)**
 
 3. Uprawnionemu do rybactwa na podstawie umowy, o której mowa w ust. 1 pkt 2, przysługuje prawo pierwszeństwa w zawarciu umowy na dalszy okres.
@@ -65,5 +67,5 @@ source: "eli-html"
 
 **Art. 2.** W przypadku umów, których okres trwania kończy się w terminie nieprzekraczającym 6 miesięcy od dnia wejścia w życie niniejszej ustawy, uprawniony do rybactwa na podstawie umowy, o której mowa w art. 4 ust. 1 pkt 2 ustawy zmienianej w art. 1, może skorzystać z prawa, o którym mowa w art. 4 ust. 3 tej ustawy, w terminie nie dłuższym niż 60 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 200, poz. 1322 oraz z 2013 r. poz. 628. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513 oraz z 2013 r. poz. 21 i 165.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 8 czerwca 2017 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem nadzwyczajnych środków wspierania rynku wieprzowiny w Polsce
+# Rozporządzenie Rady Ministrówz dnia 8 czerwca 2017 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem nadzwyczajnych środków wspierania rynku wieprzowiny w Polsce Niniejsze rozporządzenie służy stosowaniu rozporządzenia wykonawczego Komisji (UE) 2017/647 z dnia 5 kwietnia 2017 r. przyjmującego nadzwyczajne środki wspierania rynku wieprzowiny w Polsce w odniesieniu do niektórych loch i innych świń poddanych ubojowi w okresie od dnia 1 sierpnia do dnia 30 listopada 2016 r. (Dz. Urz. UE L 92 z 06.04.2017, str. 41).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-08 |
 | Data wydania | 2017-06-19 |
-| Wejście w życie | 2017-06-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001166) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1166/text.pdf) |
 
@@ -70,7 +69,7 @@ prowadzenia miejsc gromadzenia zwierząt, o której mowa w art. 1 pkt 1 lit. e u
 4)
 prowadzenia rzeźni, lub
 5)
-prowadzenia zakładu przetwórczego w rozumieniu pkt 58 załącznika I do rozporządzenia Komisji (UE) nr 142/2011 z dnia 25 lutego 2011 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, oraz w sprawie wykonania dyrektywy Rady 97/78/WE w odniesieniu do niektórych próbek i przedmiotów zwolnionych z kontroli weterynaryjnych na granicach w myśl tej dyrektywy (Dz. Urz. UE L 54 z 26.02.2011, str. 1, z późn. zm.), lub
+prowadzenia zakładu przetwórczego w rozumieniu pkt 58 załącznika I do rozporządzenia Komisji (UE) nr 142/2011 z dnia 25 lutego 2011 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, oraz w sprawie wykonania dyrektywy Rady 97/78/WE w odniesieniu do niektórych próbek i przedmiotów zwolnionych z kontroli weterynaryjnych na granicach w myśl tej dyrektywy (Dz. Urz. UE L 54 z 26.02.2011, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 198 z 30.07.2011, str. 3, Dz. Urz. UE L 314 z 14.11.2012, str. 5, Dz. Urz. UE L z 326 z 24.11.2012, str. 3, Dz. Urz. UE L 98 z 06.04.2013, str. 1, Dz. Urz. UE L 164 z 18.06.2013, str. 11, Dz. Urz. UE L 201 z 26.07.2013, str. 31, Dz. Urz. UE L 57 z 27.02.2014, str. 21, Dz. Urz. UE L 138 z 13.05.2014, str. 52, Dz. Urz. UE L 165 z 04.06.2014, str. 33, Dz. Urz. UE L 3 z 07.01.2015, str. 10, Dz. Urz. UE L 28 z 02.02.2017, str. 1 i Dz. Urz. UE L 119 z 09.05.2017, str. 1.), lub
 6)
 prowadzenia spalarni w rozumieniu pkt 56 załącznika I do rozporządzenia wymienionego w pkt 5.
 8.
@@ -111,8 +110,7 @@ informację o świniach objętych kodem CN 0103 92 19 oraz o lochach objętych k
 a)
 wadze żywej lub
 b)
-masie poubojowej ciepłej, z podziałem na poszczególne klasy według klasyfikacji poubojowej
-sporządzaną przez rzeźnię lub wystawcę faktury;
+masie poubojowej ciepłej, z podziałem na poszczególne klasy według klasyfikacji poubojowej – sporządzaną przez rzeźnię lub wystawcę faktury;
 4)
 oświadczenie producenta świń, że do świń, do których ubiega się o pomoc:
 a)
@@ -184,5 +182,5 @@ Dyrektor oddziału terenowego Agencji wymierza, w drodze decyzji administracyjne
 2.
 Egzekucja kar, o których mowa w ust. 1, następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 § 13.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsze rozporządzenie służy stosowaniu rozporządzenia wykonawczego Komisji (UE) 2017/647 z dnia 5 kwietnia 2017 r. przyjmującego nadzwyczajne środki wspierania rynku wieprzowiny w Polsce w odniesieniu do niektórych loch i innych świń poddanych ubojowi w okresie od dnia 1 sierpnia do dnia 30 listopada 2016 r. (Dz. Urz. UE L 92 z 06.04.2017, str. 41). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 198 z 30.07.2011, str. 3, Dz. Urz. UE L 314 z 14.11.2012, str. 5, Dz. Urz. UE L z 326 z 24.11.2012, str. 3, Dz. Urz. UE L 98 z 06.04.2013, str. 1, Dz. Urz. UE L 164 z 18.06.2013, str. 11, Dz. Urz. UE L 201 z 26.07.2013, str. 31, Dz. Urz. UE L 57 z 27.02.2014, str. 21, Dz. Urz. UE L 138 z 13.05.2014, str. 52, Dz. Urz. UE L 165 z 04.06.2014, str. 33, Dz. Urz. UE L 3 z 07.01.2015, str. 10, Dz. Urz. UE L 28 z 02.02.2017, str. 1 i Dz. Urz. UE L 119 z 09.05.2017, str. 1.
 

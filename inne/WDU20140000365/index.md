@@ -22,27 +22,23 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-03-05 |
 | Data wydania | 2014-03-21 |
-| Wejście w życie | 2014-04-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000365) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/365/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 83 ust. 2 pkt 1 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2010 r. Nr 136, poz. 914, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 83 ust. 2 pkt 1 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2010 r. Nr 136, poz. 914, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 230, poz. 1511 oraz z 2011 r. Nr 106, poz. 622, Nr 122, poz. 696 i Nr 171, poz. 1016.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 24 września 2007 r. w sprawie wykazu przejść granicznych właściwych dla przeprowadzania granicznej kontroli sanitarnej (Dz. U. Nr 196, poz. 1423) wprowadza się następujące zmiany:
 1)
-§ 1 otrzymuje brzmienie:
-„
+§ 1 otrzymuje brzmienie: „
 § 1.
-Ustala się wykaz przejść granicznych, przez które środki spożywcze oraz materiały lub wyroby przeznaczone do kontaktu z żywnością, podlegające granicznej kontroli sanitarnej, mogą być wprowadzane na terytorium Unii Europejskiej, stanowiący załącznik do rozporządzenia.
-” ;
+Ustala się wykaz przejść granicznych, przez które środki spożywcze oraz materiały lub wyroby przeznaczone do kontaktu z żywnością, podlegające granicznej kontroli sanitarnej, mogą być wprowadzane na terytorium Unii Europejskiej, stanowiący załącznik do rozporządzenia. ” ;
 2)
 w załączniku do rozporządzenia:
 a)
 tytuł otrzymuje brzmienie: „ Wykaz przejść granicznych, przez które środki spożywcze oraz materiały lub wyroby przeznaczone do kontaktu z żywnością, podlegające granicznej kontroli sanitarnej, mogą być wprowadzane na terytorium Unii Europejskiej ” ,
 b)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
 Północno-wschodni i wschodni odcinek granicy państwowej:
 1)
@@ -80,12 +76,15 @@ Korczowa – Krakowiec (drogowe),
 e)
 Medyka – Szeginie (drogowe),
 f)
-Przemyśl – Mościska (kolejowe).
-” ;
+Przemyśl – Mościska (kolejowe). ” ;
 c)
 w ust. 2:
-– pkt 1 otrzymuje brzmienie: „ 1) Gdańsk-Port; ” ,
-– dodaje się pkt 6 w brzmieniu: „ 6) Elbląg. ” .
+pkt 1 otrzymuje brzmienie: „
+1)
+Gdańsk-Port; ” ,
+dodaje się pkt 6 w brzmieniu: „
+6)
+Elbląg. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 230, poz. 1511 oraz z 2011 r. Nr 106, poz. 622, Nr 122, poz. 696 i Nr 171, poz. 1016.
 

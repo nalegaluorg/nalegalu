@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 22 lutego 2019 r. w sprawie oceniania, klasyfikowania i promowania uczniów i słuchaczy w szkołach publicznych
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 22 lutego 2019 r. w sprawie oceniania, klasyfikowania i promowania uczniów i słuchaczy w szkołach publicznych Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-22 |
 | Data wydania | 2019-02-26 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2025-06-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000373) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/373/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Ocenianie, klasyfikowanie i promowanie uczniów w szkołach publicznych dla dzieci i młodzieży Rozdział 3 – Ocenianie, klasyfikowanie i promowanie słuchaczy w publicznych szkołach dla dorosłych, branżowych szkołach II stopnia i szkołach policealnych Rozdział 4 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 44zb ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2018 r. poz. 1457, 1560, 1669 i 2245) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe warunki i sposób oceniania, klasyfikowania i promowania uczniów w szkołach publicznych dla dzieci i młodzieży oraz słuchaczy w szkołach publicznych dla dorosłych, branżowych szkołach II stopnia i szkołach policealnych, o których mowa w art. 18 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, 1000, 1290, 1669 i 2245), zwanej dalej „ustawą – Prawo oświatowe”.
+Ocenianie, klasyfikowanie i promowanie uczniów w szkołach publicznych dla dzieci i młodzieży
 § 2.
 Wymagania edukacyjne, o których mowa w art. 44b ust. 8 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty, zwanej dalej „ustawą o systemie oświaty”, dostosowuje się do indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych ucznia:
 1)
@@ -313,6 +314,7 @@ Uczniowi będącemu młodocianym pracownikiem, który uczęszczał na turnus dok
 Uczniowi będącemu młodocianym pracownikiem do średniej ocen, o której mowa w ust. 1, wlicza się także końcową ocenę klasyfikacyjną uzyskaną z zajęć praktycznych.
 5.
 Uczeń, o którym mowa w art. 37 ust. 4 ustawy – Prawo oświatowe, kończy szkołę podstawową, branżową szkołę I stopnia, liceum ogólnokształcące i technikum z wyróżnieniem, jeżeli w wyniku klasyfikacji końcowej uzyskał z obowiązkowych zajęć edukacyjnych średnią końcowych ocen klasyfikacyjnych co najmniej 4,75.
+Ocenianie, klasyfikowanie i promowanie słuchaczy w publicznych szkołach dla dorosłych, branżowych szkołach II stopnia i szkołach policealnych
 § 20.
 Do słuchaczy szkół dla dorosłych, branżowych szkół II stopnia i szkół policealnych stosuje się odpowiednio przepisy § 12 i § 13.
 § 21.
@@ -385,8 +387,7 @@ W przypadku zwolnienia słuchacza w całości lub w części z obowiązku odbyci
 1)
 „zwolniony w całości z praktycznej nauki zawodu” albo „zwolniona w całości z praktycznej nauki zawodu”,
 2)
-„zwolniony w części z praktycznej nauki zawodu” albo „zwolniona w części z praktycznej nauki zawodu”
-oraz podstawę prawną zwolnienia.
+„zwolniony w części z praktycznej nauki zawodu” albo „zwolniona w części z praktycznej nauki zawodu” – oraz podstawę prawną zwolnienia.
 6.
 W przypadku zwolnienia słuchacza z obowiązku realizacji zajęć edukacyjnych podstawy przedsiębiorczości w dokumentacji przebiegu nauczania zamiast oceny klasyfikacyjnej wpisuje się „zwolniony” albo „zwolniona” oraz rodzaj świadectwa będącego podstawą zwolnienia i datę jego wydania.
 § 26.
@@ -532,22 +533,29 @@ nie uczęszczał na poszczególne obowiązkowe zajęcia edukacyjne przewidziane 
 2)
 nie otrzymał z obowiązkowych zajęć edukacyjnych, o których mowa w pkt 1, ocen uznanych za pozytywne w ramach wewnątrzszkolnego oceniania, albo
 3)
-nie przystąpił do egzaminu semestralnego
-w dokumentacji przebiegu nauczania zamiast oceny klasyfikacyjnej wpisuje się „nieklasyfikowany” albo „nieklasyfikowana”.
+nie przystąpił do egzaminu semestralnego – w dokumentacji przebiegu nauczania zamiast oceny klasyfikacyjnej wpisuje się „nieklasyfikowany” albo „nieklasyfikowana”.
 § 37.
 1.
 Dyrektor szkoły dla dorosłych, branżowej szkoły II stopnia i szkoły policealnej może zwolnić słuchacza powtarzającego semestr na podstawie art. 44z ust. 3–5 oraz art. 44za ust. 2 i 4 ustawy o systemie oświaty z realizacji obowiązkowych zajęć edukacyjnych, z których uzyskał poprzednio pozytywną semestralną ocenę klasyfikacyjną.
 2.
 W przypadku zwolnienia, o którym mowa w ust. 1, w dokumentacji przebiegu nauczania zamiast oceny klasyfikacyjnej wpisuje się „zwolniony” albo „zwolniona” oraz podstawę prawną zwolnienia.
+Przepis końcowy
 § 38.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Ocenianie, klasyfikowanie i promowanie uczniów w szkołach publicznych dla dzieci i młodzieży
+#### Rozdział 2 – Ocenianie, klasyfikowanie i promowanie uczniów w szkołach publicznych dla dzieci i młodzieży
 
-#### Rozdział 3 Ocenianie, klasyfikowanie i promowanie słuchaczy w publicznych szkołach dla dorosłych, branżowych szkołach II stopnia i szkołach policealnych
+#### Rozdział 3 – Ocenianie, klasyfikowanie i promowanie słuchaczy w publicznych szkołach dla dorosłych, branżowych szkołach II stopnia i szkołach policealnych
 
-#### Rozdział 4 Przepis końcowy
+#### Rozdział 4 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

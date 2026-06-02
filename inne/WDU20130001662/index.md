@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-16 |
 | Data wydania | 2013-12-30 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001662) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1662/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 98 ust. 1 pkt 3 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 98 ust. 1 pkt 3 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530 oraz z 2013 r. poz. 35, 1027 i 1608.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -63,5 +62,5 @@ na piśmie;
 2)
 faksem z żądaniem wydania takiego potwierdzenia na piśmie.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 7 kwietnia 2004 r. w sprawie potwierdzania zidentyfikowania określonego podmiotu na potrzeby transakcji wewnątrzwspólnotowych na terytorium państwa członkowskiego innym niż terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 58, poz. 559 oraz z 2008 r. Nr 211, poz. 1332), które traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530 oraz z 2013 r. poz. 35, 1027 i 1608. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 7 kwietnia 2004 r. w sprawie potwierdzania zidentyfikowania określonego podmiotu na potrzeby transakcji wewnątrzwspólnotowych na terytorium państwa członkowskiego innym niż terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 58, poz. 559 oraz z 2008 r. Nr 211, poz. 1332), które traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

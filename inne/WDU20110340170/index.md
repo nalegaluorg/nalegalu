@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-12-17 |
 | Data wydania | 2011-02-16 |
-| Wejście w życie | 2011-03-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110340170) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/170/text.pdf) |
 
@@ -36,7 +35,7 @@ source: "eli-html"
 
 3. Przedsiębiorca, na rzecz którego ustanowiono służebność przesyłu, jest obowiązany do usuwania drzew, krzewów lub gałęzi zagrażających funkcjonowaniu urządzeń, o których mowa w art. 49 § 1 Kodeksu cywilnego. ” .
 
-**Art. 2.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664 oraz z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804.) wprowadza się następujące zmiany:
 
 - **1)** w art. 83: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -65,5 +64,5 @@ source: "eli-html"
 
 **Art. 3.** Do spraw wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy tej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664 oraz z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804.
 

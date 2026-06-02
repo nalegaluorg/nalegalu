@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-17 |
 | Data wydania | 2015-12-29 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002221) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2221/text.pdf) |
 
@@ -40,5 +39,5 @@ Wynagrodzenie zastępcy przewodniczącego Komisji Egzaminacyjnej stanowi 120% wy
 § 4.
 Wysokość wynagrodzenia przewodniczącego i członka zespołu do przygotowania pytań i zadań problemowych na egzamin za opracowanie 5 pytań wchodzących w skład testu lub opracowanie zadania problemowego wynosi 687,64 zł, z zastrzeżeniem art. 5 ust. 3 ustawy z dnia 15 czerwca 2007 r. o licencji doradcy restrukturyzacyjnego.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 17 grudnia 2014 r. w sprawie określenia wysokości wynagrodzenia członków Komisji Egzaminacyjnej powołanej do przeprowadzenia egzaminu dla osób ubiegających się o licencję syndyka oraz zespołu do przygotowania pytań i zadań problemowych na egzamin (Dz. U. poz. 1928), które traci moc z dniem 1 stycznia 2016 r. na podstawie art. 456 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978, 1259, 1513, 1830 i 1844). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 17 grudnia 2014 r. w sprawie określenia wysokości wynagrodzenia członków Komisji Egzaminacyjnej powołanej do przeprowadzenia egzaminu dla osób ubiegających się o licencję syndyka oraz zespołu do przygotowania pytań i zadań problemowych na egzamin (Dz. U. poz. 1928), które traci moc z dniem 1 stycznia 2016 r. na podstawie art. 456 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978, 1259, 1513, 1830 i 1844).
 

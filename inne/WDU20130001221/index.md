@@ -42,18 +42,15 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 5 czerwca 2012 r. zmien
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2–4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 22 lutego 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 3 – Środki służące wspólnemu interesowi, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. Nr 48, poz. 250), które stanowią:
-„
+§ 2–4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 22 lutego 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 3 – Środki służące wspólnemu interesowi, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. Nr 48, poz. 250), które stanowią: „
 § 2.
 Do postępowań w sprawie przyznania pomocy finansowej na realizację środków objętych osią priorytetową 3 – Środki służące wspólnemu interesowi, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013”, wszczętych przed dniem wejścia w życie niniejszego rozporządzenia i niezakończonych zawarciem umowy, na podstawie której jest przyznawana pomoc, stosuje się przepisy w brzmieniu dotychczasowym, z wyjątkiem § 61 rozporządzenia wymienionego w § 1, który stosuje się w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
 W przypadku wystąpienia, przed dniem wejścia w życie niniejszego rozporządzenia, zdarzenia prawnego, w wyniku którego zaistniało następstwo prawne, albo w razie zbycia całości lub części przedsiębiorstwa, całości lub części gospodarstwa rolnego wnioskodawcy przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych, następca prawny wnioskodawcy albo nabywca przedsiębiorstwa lub jego części albo gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych lub jego części, składa wniosek o dofinansowanie w terminie 14 dni od dnia wejścia w życie niniejszego rozporządzenia.
 § 4.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 5 czerwca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 3 – Środki służące wspólnemu interesowi, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 658), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 5 czerwca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 3 – Środki służące wspólnemu interesowi, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 658), które stanowią: „
 § 2.
 1.
 Pomoc na realizację operacji w ramach środka działania wspólne w zakresie działalności uznanych organizacji producentów może zostać przyznana również na operacje, które zostały zrealizowane w całości przed dniem 30 września 2009 r. lub których realizacja rozpoczęła się przed tym dniem, nie wcześniej jednak niż w dniu 1 stycznia 2007 r., zgodnie z warunkami i trybem określonymi w rozporządzeniu wymienionym w § 1, z tym że:
@@ -66,14 +63,12 @@ umowa o dofinansowanie zawiera oświadczenia beneficjenta o:
 a)
 osiągnięciu celu operacji lub zobowiązanie do jego osiągnięcia oraz zobowiązanie do zachowania tego celu,
 b)
-niefinansowaniu realizacji operacji z udziałem innych środków publicznych i zobowiązanie do nieubiegania się o takie finansowanie
-przez 5 lat od dnia dokonania przez Agencję płatności końcowej.
+niefinansowaniu realizacji operacji z udziałem innych środków publicznych i zobowiązanie do nieubiegania się o takie finansowanie – przez 5 lat od dnia dokonania przez Agencję płatności końcowej.
 2.
 W przypadku, o którym mowa w ust. 1, wnioski o dofinansowanie składa się w terminie i na zasadach określonych przez Prezesa Agencji w ogłoszeniu, o którym mowa w § 49a rozporządzenia wymienionego w § 1.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Tekst jednolity rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 25 września 2009 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 3 – Środki służące wspólnemu interesowi, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013”
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 25 września 2009 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 3 – Środki służące wspólnemu interesowi, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013”Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486).
 Na podstawie art. 19 ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego (Dz. U. Nr 72, poz. 619 i Nr 157, poz. 1241) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb przyznawania, wypłaty oraz zwracania pomocy finansowej na realizację środków objętych osią priorytetową 3 – Środki służące wspólnemu interesowi, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013”, zwanym dalej „programem operacyjnym”, obejmującą następujące środki:
@@ -156,12 +151,12 @@ Pomoc, o której mowa w § 4–6, przyznaje się w formie zwrotu poniesionych ko
 Pomoc na realizację operacji w ramach środka działania wspólne przyznaje się:
 1)
 organizacjom producentów i ich związkom;
-2)
-stowarzyszeniom, fundacjom, organizacjom pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm.) oraz innym organizacjom społecznym i zawodowym, realizującym statutowe zadania w zakresie rybołówstwa morskiego lub rybactwa śródlądowego;
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 22 lutego 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 3 – Środki służące wspólnemu interesowi, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. Nr 48, poz. 250), które weszło w życie z dniem 7 marca 2011 r.)
+stowarzyszeniom, fundacjom, organizacjom pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378.) oraz innym organizacjom społecznym i zawodowym, realizującym statutowe zadania w zakresie rybołówstwa morskiego lub rybactwa śródlądowego;
 3)
 właścicielom lub armatorom statków rybackich;
 4)
-uprawnionym do rybactwa w rozumieniu ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2009 r. Nr 189, poz. 1471, z późn. zm.);
+uprawnionym do rybactwa w rozumieniu ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2009 r. Nr 189, poz. 1471, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 200, poz. 1322 oraz z 2013 r. poz. 628 i 1158.);
 5)
 podmiotom zajmującym się obrotem i przetwórstwem produktów rybnych;
 6)
@@ -412,8 +407,7 @@ zmianę warunków technicznych, technologicznych, sanitarnych, wymagań weteryna
 a)
 poprawę jakości zdrowotnej produktów rybnych pochodzących z połowów w wodach morskich,
 b)
-wdrożenie dobrej praktyki higienicznej (GHP)
-o których mowa w przepisach o bezpieczeństwie żywności i żywienia.
+wdrożenie dobrej praktyki higienicznej (GHP) – o których mowa w przepisach o bezpieczeństwie żywności i żywienia.
 § 24.
 Pomoc na realizację operacji w ramach środka inwestycje w portach rybackich, miejscach wyładunku i przystaniach w zakresie ograniczenia zanieczyszczania środowiska morskiego obejmuje w szczególności:
 1)
@@ -423,7 +417,7 @@ działania mające na celu zmniejszenie ilości organizmów morskich wyrzucanych
 3)
 wprowadzenie technik lub technologii zapewniających odbiór odpadów ze statków rybackich przez urządzenia znajdujące się w porcie oraz przekazywanie tych odpadów do odzysku lub unieszkodliwienia;
 4)
-działania mające na celu usunięcie i unieszkodliwienie odpadów niebezpiecznych w rozumieniu art. 3 ust. 2 ustawy z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2010 r. Nr 185, poz. 1243, z późn. zm.).
+działania mające na celu usunięcie i unieszkodliwienie odpadów niebezpiecznych w rozumieniu art. 3 ust. 2 ustawy z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2010 r. Nr 185, poz. 1243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 203, poz. 1351, z 2011 r. Nr 106, poz. 622, Nr 117, poz. 678, Nr 138, poz. 809, Nr 152, poz. 897 i Nr 171, poz. 1016 oraz z 2012 r. poz. 951 i 1513.)Ustawa utraciła moc na podstawie art. 252 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21), która weszła w życie z dniem 23 stycznia 2013 r..
 § 25.
 1.
 Pomoc na realizację operacji w ramach środka inwestycje w portach rybackich, miejscach wyładunku i przystaniach przyznaje się:
@@ -433,7 +427,7 @@ a)
 jednostkom samorządu terytorialnego, państwowym lub samorządowym osobom prawnym oraz państwowym lub samorządowym jednostkom organizacyjnym nieposiadającym osobowości prawnej,
 b)
 organizacjom producentów i ich związkom,
-c)
+cW brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 innym niż wymienione w lit. b zarejestrowanym organizacjom reprezentującym producentów produktów rybnych;
 2)
 podmiotom zarządzającym portem lub przystanią w rozumieniu ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2010 r. Nr 33, poz. 179).
@@ -509,7 +503,7 @@ Pomoc na realizację operacji w ramach środka rozwój nowych rynków i kampanie
 jednostkom samorządu terytorialnego, państwowym lub samorządowym osobom prawnym oraz państwowym lub samorządowym jednostkom organizacyjnym nieposiadającym osobowości prawnej;
 2)
 urzędowi obsługującemu ministra właściwego do spraw rybołówstwa;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.)
 stowarzyszeniom, fundacjom, organizacjom pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie oraz innym organizacjom społecznym i zawodowym, realizującym statutowe zadania w zakresie rybołówstwa morskiego lub rybactwa śródlądowego;
 4)
 jednostkom badawczo-rozwojowym realizującym statutowe zadania w zakresie rybołówstwa morskiego lub rybactwa śródlądowego;
@@ -521,13 +515,13 @@ szkołom wyższym kształcącym w zakresie rybołówstwa morskiego lub rybactwa 
 podmiotom wykonującym działalność w zakresie chowu, hodowli, połowu, wprowadzaniu na rynek, obrotu i przetwarzania produktów rybnych oraz podmiotom prowadzącym działalność okołorybacką;
 8)
 organizacjom producentów i ich związkom.
-§ 31.
+§ 31W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Pomoc na realizację operacji w ramach środka rozwój nowych rynków i kampanie promocyjne przyznaje się w formie zwrotu poniesionych kosztów kwalifikowalnych w wysokości do 100% tych kosztów, z wyłączeniem podmiotów, o których mowa w § 30 pkt 7, którym pomoc przyznaje się w wysokości do 60% tych kosztów.
 2.
 Pomoc na realizację operacji w ramach środka rozwój nowych rynków i kampanie promocyjne w zakresie opracowania i przeprowadzenia kampanii promocyjnych produktów rybnych, o których mowa w § 26 pkt 1, przyznaje się do wysokości:
 1)
-50 000 zł na operację o zasięgu lokalnym, obejmującym obszar mniejszy niż obszar województwa, z wyłączeniem siedziby wojewody tego województwa, określonej w przepisach ustawy z dnia 24 lipca 1998 r. o wprowadzeniu zasadniczego trójstopniowego podziału terytorialnego państwa (Dz. U. Nr 96, poz. 603, z późn. zm.), zwanej dalej „siedzibą wojewody”;
+50 000 zł na operację o zasięgu lokalnym, obejmującym obszar mniejszy niż obszar województwa, z wyłączeniem siedziby wojewody tego województwa, określonej w przepisach ustawy z dnia 24 lipca 1998 r. o wprowadzeniu zasadniczego trójstopniowego podziału terytorialnego państwa (Dz. U. Nr 96, poz. 603, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 104, poz. 656, z 1999 r. Nr 101, poz. 1182 oraz z 2001 r. Nr 45, poz. 497.), zwanej dalej „siedzibą wojewody”;
 2)
 100 000 zł na operację o zasięgu województwa, obejmującym obszar co najmniej siedziby wojewody tego województwa;
 3)
@@ -626,7 +620,7 @@ jednostkom badawczo-rozwojowym realizującym statutowe zadania w zakresie ryboł
 Polskiej Akademii Nauk lub jej placówkom prowadzącym badania w zakresie rybołówstwa morskiego lub rybactwa śródlądowego;
 5)
 organizacjom producentów i ich związkom;
-6)
+6W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.)
 stowarzyszeniom, fundacjom, organizacjom pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie oraz innym organizacjom społecznym i zawodowym, realizującym statutowe zadania w zakresie rybołówstwa morskiego lub rybactwa śródlądowego;
 7)
 podmiotom wykonującym działalność w zakresie połowu ryb w wodach morskich i śródlądowych wodach powierzchniowych, chowu, hodowli, wprowadzania na rynek, obrotu, przetwarzania produktów rybnych oraz produkcji lub naprawy narzędzi połowowych;
@@ -660,7 +654,7 @@ muzeom.
 § 39.
 Pomoc na realizację operacji w ramach środka modyfikacja w celu zmiany przeznaczenia statków rybackich przyznaje się w formie zwrotu poniesionych kosztów kwalifikowalnych w wysokości do 100% tych kosztów.
 § 40.
-1.
+1Oznaczenie ust. 1 nadane przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2..
 Pomoc w zakresie środków, o których mowa w § 1, w przypadku realizacji operacji o charakterze inwestycyjnym jest przyznawana, jeżeli operacja:
 1)
 przyczyni się do powstania trwałych korzyści gospodarczych;
@@ -670,12 +664,12 @@ będzie zrealizowana z zapewnieniem należytych gwarancji technicznych;
 ma zapewnioną gospodarczą trwałość;
 4)
 nie wpłynie negatywnie na środowisko oraz ochronę żywych zasobów wód.
-2.
+2Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2..
 Do operacji o charakterze inwestycyjnym nie zalicza się operacji realizowanych w ramach środków, o których mowa w § 1 pkt 4 oraz § 6 pkt 1 i 3–11.
 § 41.
 1.
 Powstanie trwałych korzyści gospodarczych stwierdza się na podstawie informacji zawartych w szczegółowym opisie operacji zawartym we wniosku o dofinansowanie.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2..
 Trwałe korzyści gospodarcze powstaną, gdy proponowany przez wnioskodawcę sposób finansowania i realizacji operacji nie spowoduje utraty płynności finansowej tego wnioskodawcy w okresie 3 lat, licząc od roku, w którym wniosek o dofinansowanie został zaakceptowany.
 § 42.
 Zapewnienie należytych gwarancji technicznych operacji stwierdza się na podstawie:
@@ -696,9 +690,9 @@ W przypadku braku pozwoleń albo zgłoszenia, o których mowa w § 42, stwierdze
 § 46.
 1.
 Do kosztów kwalifikowalnych operacji zalicza się koszty faktycznie poniesione przez beneficjenta z tytułu realizacji tej operacji, w tym także podatek od towarów i usług (VAT) na zasadach określonych w art. 55 ust. 5 rozporządzenia nr 1198/2006, od dnia przyznania pomocy.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku przyznania pomocy, do kosztów kwalifikowalnych zalicza się również koszty kwalifikowalne poniesione przez wnioskodawcę przed dniem przyznania pomocy, lecz nie wcześniej niż w dniu złożenia wniosku o dofinansowanie, a w przypadku kosztów ogólnych – jeżeli zostały poniesione nie wcześniej niż w dniu wejścia w życie rozporządzenia.
-3.
+3Dodany przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 5 czerwca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 3 – Środki służące wspólnemu interesowi, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 658), które weszło w życie z dniem 14 czerwca 2012 r..
 W przypadku przyznania pomocy na realizację operacji, o których mowa w § 2 pkt 1, do kosztów kwalifikowalnych zalicza się również koszty kwalifikowalne poniesione przez wnioskodawcę przed dniem złożenia wniosku o dofinansowanie, lecz nie wcześniej niż w dniu 30 września 2009 r.
 § 47.
 Do kosztów kwalifikowalnych operacji nie zalicza się kosztów:
@@ -736,21 +730,20 @@ c)
 które zostały naliczone i wykazane niezgodnie ze sposobem określonym w umowie o dofinansowanie;
 7)
 zakupu infrastruktury wykorzystywanej w procesie kształcenia, w tym budynków, sprzętu pływającego lub gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych, w wysokości powyżej 10% kosztów kwalifikowalnych danej operacji;
-8)
+8Dodany przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2.)
 budowy, rozbudowy, przebudowy lub remontu pomieszczeń administracyjnych, w tym biurowych, stanowiących integralną część obiektów podstawowych, powyżej 10% wartości kosztów kwalifikowalnych danej operacji;
-9)
+9Dodany przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2.)
 związanych z umową leasingu, w której brak jest postanowień przenoszących na beneficjenta własność rzeczy będących przedmiotem leasingu;
-10)
+10Dodany przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2.)
 odsetek, opłat ubezpieczeniowych, marży finansującego, kosztów ogólnych związanych z umową leasingu, w tym również podatku od towarów i usług (VAT);
-11)
+11Dodany przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2.)
 nakładu rzeczowego wniesionego w formie:
 a)
 gruntu, budynku lub budowli, lub
 b)
-prawa do dysponowania rzeczami, o których mowa w lit. a
-powyżej 10% wartości kosztów kwalifikowalnych danej operacji.
+prawa do dysponowania rzeczami, o których mowa w lit. a – powyżej 10% wartości kosztów kwalifikowalnych danej operacji.
 § 48.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2..
 Do kosztów kwalifikowalnych zalicza się tylko te nakłady rzeczowe faktycznie wniesione przez beneficjenta, które miały bezpośredni związek z realizacją operacji w ramach środków, o których mowa w § 1, a w przypadku budynku lub budowli wniesionych przez beneficjenta, jeżeli ten budynek lub budowla zmieniły swoje przeznaczenie w związku z realizacją operacji.
 2.
 Wartość nakładów rzeczowych zaliczanych do kosztów kwalifikowalnych ustala się:
@@ -769,7 +762,7 @@ Do umowy, faktury lub innego równoważnego dokumentu, o których mowa w ust. 1,
 odbioru przedmiotu zamówienia podpisany przez obydwie strony umowy lub sprzedawcę i nabywcę – w przypadku faktury lub rachunku;
 2)
 dokonania zapłaty przez beneficjenta.
-§ 49a.
+§ 49aDodany przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, najpóźniej 14 dni przed rozpoczęciem terminu składania wniosków o dofinansowanie, podaje do publicznej wiadomości, na stronie internetowej administrowanej przez Agencję oraz co najmniej w jednym dzienniku o zasięgu ogólnokrajowym, informację o możliwości składania wniosków o dofinansowanie.
 2.
@@ -777,7 +770,7 @@ Prezes Agencji określa w informacji, o której mowa w ust. 1, dzień rozpoczęc
 3.
 Prezes Agencji może określić w informacji, o której mowa w ust. 1, że przez pierwsze 14 dni od dnia rozpoczęcia składania wniosków, o których mowa w ust. 2, mogą być składane wyłącznie wnioski o dofinansowanie na realizację operacji we wskazanym przez Prezesa Agencji zakresie, w ramach środków, o których mowa w § 1.
 § 50.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2..
 Przyznanie pomocy w ramach środków, o których mowa w § 1, następuje na podstawie umowy o dofinansowanie zawartej z Agencją.
 2.
 Wniosek o dofinansowanie w przypadku środków, o których mowa w § 1, zawiera w szczególności:
@@ -785,7 +778,7 @@ Wniosek o dofinansowanie w przypadku środków, o których mowa w § 1, zawiera 
 imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres wnioskodawcy;
 2)
 imię i nazwisko oraz miejsce zamieszkania i adres osoby upoważnionej do reprezentowania wnioskodawcy – jeżeli pełnomocnictwo zostało udzielone;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 16.)
 numer identyfikacji podatkowej (NIP) wnioskodawcy – jeżeli wnioskodawca taki numer posiada;
 4)
 informację o formie prawnej wnioskodawcy;
@@ -825,7 +818,7 @@ Jeżeli wnioskodawca pomimo wezwania, o którym mowa w ust. 2, nie usunął brak
 Jeżeli wnioskodawca pomimo ponownego wezwania, o którym mowa w ust. 3, do usunięcia braków lub złożenia wyjaśnień nie dokonał ich w terminie, Agencja nie przyznaje pomocy; przepisy art. 14 ust. 4 i 5 ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego, zwanej dalej „ustawą”, stosuje się odpowiednio.
 5.
 W przypadku wystąpienia we wniosku o dofinansowanie oczywistych omyłek pisarskich lub rachunkowych, Agencja może dokonać ich poprawy, informując jednocześnie wnioskodawcę o wprowadzonych zmianach.
-6.
+6Dodany przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 2..
 Jeżeli wniosek o dofinansowanie został złożony w terminie innym niż określony w § 49a ust. 2 albo 3, Agencja nie przyznaje pomocy; przepisy art. 14 ust. 4 i 5 ustawy stosuje się odpowiednio.
 § 53.
 1.
@@ -852,7 +845,7 @@ W przypadku nieprzyznania pomocy na podstawie ust. 2, przepisy art. 14 ust. 4 i 
 Pomoc w ramach środka, o którym mowa w § 1 pkt 4, może być również przyznana bez konieczności składania wniosku o dofinansowanie podmiotowi wyłonionemu w konkursie ofert, o którym mowa w art. 11 ustawy.
 2.
 W przypadku, o którym mowa w ust. 1, instytucja zarządzająca zawiera z podmiotem wyłonionym w konkursie ofert umowę o dofinansowanie spełniającą wymagania określone w § 56, niezwłocznie po rozstrzygnięciu tego konkursu, jednak nie później niż w terminie 21 dni od dnia jego rozstrzygnięcia.
-§ 56.
+§ 56W brzmieniu ustalonym przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Umowa o dofinansowanie, poza postanowieniami określonymi w art. 15 ustawy:
 1)
@@ -885,7 +878,7 @@ Zabezpieczeniem należytego wykonania przez beneficjenta zobowiązań określony
 1)
 weksel niezupełny (in blanco) wraz z deklaracją wekslową sporządzoną na formularzu udostępnionym przez Agencję;
 2)
-(uchylony).
+(uchylony).Przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 2.
 2.
 Weksel wraz z deklaracją wekslową, o którym mowa w ust. 1 pkt 1, są:
 1)
@@ -925,9 +918,9 @@ nie wypłaca pomocy, jeżeli wniosek o płatność nie może zostać rozpatrzony
 Do rozpatrywania wniosku o płatność przepis § 50 ust. 4 stosuje się odpowiednio.
 § 59.
 Pomoc w ramach środków, o których mowa w § 1, jest przyznawana do wyczerpania środków finansowych, zgodnie z kolejnością złożenia prawidłowo wypełnionego i udokumentowanego wniosku o dofinansowanie.
-§ 59a.
+§ 59aDodany przez § 1 pkt 16 rozporządzenia, o którym mowa w odnośniku 2..
 Jeżeli Prezes Agencji określi w informacji, o której mowa w § 49a ust. 1, termin składania wniosków o dofinansowanie, o którym mowa w § 49a ust. 3, pomoc przysługuje w pierwszej kolejności wnioskodawcom ubiegającym się o dofinansowanie na realizację operacji we wskazanym przez Prezesa Agencji zakresie.
-§ 60.
+§ 60W brzmieniu ustalonym przez § 1 pkt 17 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Pomoc podlega zwrotowi w całości, jeżeli beneficjent:
 1)
@@ -936,7 +929,7 @@ nie wypełnił zobowiązań, o których mowa w § 56 ust. 1 pkt 2 lit. a lub d;
 zaprzestał realizacji operacji.
 2.
 Pomoc podlega zwrotowi w całości albo części, jeżeli beneficjent naruszył przepisy o zamówieniach publicznych w sposób, który miał albo mógłby mieć wpływ na wynik postępowania.
-§ 61.
+§ 61W brzmieniu ustalonym przez § 1 pkt 17 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 W przypadku operacji realizowanych w ramach środków, o których mowa w § 1, następca prawny wnioskodawcy albo nabywca przedsiębiorstwa lub jego części albo gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych lub jego części, zwany dalej „następcą prawnym wnioskodawcy”, może wstąpić do toczącego się postępowania na miejsce wnioskodawcy, jeżeli:
 1)
@@ -955,36 +948,35 @@ W przypadku złożenia przez następcę prawnego wnioskodawcy wniosku o dofinans
 Do wniosku o dofinansowanie następcy prawnego wnioskodawcy i trybu jego rozpatrywania stosuje się odpowiednio przepisy § 50 ust. 2 pkt 1–5, 8 i 9 oraz ust. 3 i 4, a także § 51 ust. 2–5 oraz § 52–54.
 § 62.
 1.
-W przypadku operacji realizowanych w ramach środków, o których mowa w § 1, następcy prawnemu beneficjenta albo nabywcy przedsiębiorstwa lub jego części albo gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych lub jego części, zwanemu dalej „następcą prawnym beneficjenta”, może być przyznana pomoc na operację, którą realizował beneficjent, jeżeli:
+W przypadku operacji realizowanych w ramach środków, o których mowa w § 1, następcy prawnemu beneficjenta albo nabywcy przedsiębiorstwa lub jego części albo gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych lub jego części, zwanemu dalej „następcą prawnym beneficjenta”, może być przyznana pomoc na operację, którą realizował beneficjent, jeżeli:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 18 lit. a rozporządzenia, o którym mowa w odnośniku 2.
 1)
 są spełnione warunki określone w art. 18 ust. 2 ustawy;
 2)
 na następcę prawnego beneficjenta przeszły prawa i obowiązki nabyte w ramach realizacji tej operacji oraz inne prawa i obowiązki beneficjenta niezbędne do jej zrealizowania.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 18 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Wniosek o dofinansowanie następcy prawnego beneficjenta składa się w oddziale regionalnym Agencji, w którym został złożony wniosek o dofinansowanie przez beneficjenta, w terminie 2 miesięcy od dnia wystąpienia zdarzenia prawnego, w wyniku którego zaistniało następstwo prawne.
 3.
 Do wniosku następca prawny beneficjenta dołącza dokument potwierdzający fakt zaistnienia następstwa prawnego, a w przypadku następstwa prawnego będącego wynikiem śmierci beneficjenta – kopię prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku albo kopię zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza.
 4.
 W przypadku następstwa prawnego będącego wynikiem śmierci beneficjenta, jeżeli nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku, spadkobierca dołącza do wniosku następcy prawnego beneficjenta zaświadczenie sądu o zarejestrowaniu wniosku o stwierdzenie nabycia spadku albo kopię wniosku o stwierdzenie nabycia spadku:
 1)
-potwierdzoną za zgodność z oryginałem przez sąd
-albo
+potwierdzoną za zgodność z oryginałem przez sąd albo
 2)
 potwierdzoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika Agencji, wraz z potwierdzeniem nadania tego wniosku w polskiej placówce pocztowej operatora publicznego albo kopią tego potwierdzenia poświadczoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika Agencji.
 5.
 W przypadku, o którym mowa w ust. 4, spadkobierca przekazuje Agencji prawomocne postanowienie sądu o stwierdzeniu nabycia spadku w terminie 14 dni od dnia uprawomocnienia się tego postanowienia.
 6.
 Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca, spadkobierca, który złożył wniosek o dofinansowanie, dołącza do tego wniosku oświadczenia pozostałych spadkobierców, że wyrażają zgodę na przyznanie pomocy temu spadkobiercy.
-7.
+7W brzmieniu ustalonym przez § 1 pkt 18 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku złożenia przez następcę prawnego beneficjenta wniosku o dofinansowanie po upływie terminu, o którym mowa w ust. 2, Agencja nie przyznaje pomocy; przepisy art. 14 ust. 4 i 5 ustawy stosuje się odpowiednio.
-8.
+8W brzmieniu ustalonym przez § 1 pkt 18 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Wniosek o dofinansowanie następcy prawnego beneficjenta rozpatruje się w terminie miesiąca od dnia jego złożenia.
-9.
+9W brzmieniu ustalonym przez § 1 pkt 18 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku nierozpatrzenia wniosku następcy prawnego beneficjenta o dofinansowanie w terminie, o którym mowa w ust. 8, Agencja zawiadamia wnioskodawcę o przyczynach zwłoki, wskazując nowy termin rozpatrzenia wniosku, nie dłuższy niż miesiąc.
-10.
+10W brzmieniu ustalonym przez § 1 pkt 18 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Do wniosku o dofinansowanie następcy prawnego beneficjenta i trybu jego rozpatrywania stosuje się odpowiednio przepisy § 50 ust. 2 pkt 1–5, pkt 8 i 9 oraz ust. 3 i 4, a także § 51 ust. 2–5, § 52, § 53 ust. 3 i 4 oraz § 54.
 11.
-(uchylony).
+(uchylony).Przez § 1 pkt 18 lit. d rozporządzenia, o którym mowa w odnośniku 2.
 § 63.
 1.
 W ramach środków, o których mowa w § 1, pomoc może zostać przyznana również na operacje, które zostały zrealizowane w całości przed dniem wejścia w życie rozporządzenia lub których realizacja rozpoczęła się przed tym dniem, nie wcześniej jednak niż w dniu 1 stycznia 2007 r., zgodnie z warunkami i w trybie określonym w rozporządzeniu, z tym że:
@@ -997,21 +989,19 @@ umowa o dofinansowanie zawiera oświadczenia beneficjenta o:
 a)
 osiągnięciu celu operacji lub zobowiązanie do jego osiągnięcia oraz zobowiązanie do zachowania tego celu,
 b)
-niefinansowaniu realizacji operacji z udziałem innych środków publicznych i zobowiązanie do nieubiegania się o takie finansowanie
-przez 5 lat od dnia dokonania przez Agencję płatności końcowej.
+niefinansowaniu realizacji operacji z udziałem innych środków publicznych i zobowiązanie do nieubiegania się o takie finansowanie – przez 5 lat od dnia dokonania przez Agencję płatności końcowej.
 2.
 W przypadku, o którym mowa w ust. 1, wnioski o dofinansowanie składa się do dnia 30 czerwca 2010 r.
 § 64.
-(uchylony).
+(uchylony).Przez § 1 pkt 19 rozporządzenia, o którym mowa w odnośniku 2.
 § 65.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 22 lutego 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 3 – Środki służące wspólnemu interesowi, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. Nr 48, poz. 250), które weszło w życie z dniem 7 marca 2011 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 200, poz. 1322 oraz z 2013 r. poz. 628 i 1158. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 203, poz. 1351, z 2011 r. Nr 106, poz. 622, Nr 117, poz. 678, Nr 138, poz. 809, Nr 152, poz. 897 i Nr 171, poz. 1016 oraz z 2012 r. poz. 951 i 1513. 6) Ustawa utraciła moc na podstawie art. 252 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21), która weszła w życie z dniem 23 stycznia 2013 r. 7) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 104, poz. 656, z 1999 r. Nr 101, poz. 1182 oraz z 2001 r. Nr 45, poz. 497. 11) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 12) Oznaczenie ust. 1 nadane przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 13) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 14) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 15) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 16) Dodany przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 5 czerwca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 3 – Środki służące wspólnemu interesowi, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 658), które weszło w życie z dniem 14 czerwca 2012 r. 17) Dodany przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 18) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. 19) Dodany przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. 20) W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2. 21) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 16. 22) Dodany przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 2. 23) W brzmieniu ustalonym przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 2. 24) Przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 2. 25) Dodany przez § 1 pkt 16 rozporządzenia, o którym mowa w odnośniku 2. 26) W brzmieniu ustalonym przez § 1 pkt 17 rozporządzenia, o którym mowa w odnośniku 2. 27) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 18 lit. a rozporządzenia, o którym mowa w odnośniku 2. 28) W brzmieniu ustalonym przez § 1 pkt 18 lit. b rozporządzenia, o którym mowa w odnośniku 2. 29) W brzmieniu ustalonym przez § 1 pkt 18 lit. c rozporządzenia, o którym mowa w odnośniku 2. 30) Przez § 1 pkt 18 lit. d rozporządzenia, o którym mowa w odnośniku 2. 31) Przez § 1 pkt 19 rozporządzenia, o którym mowa w odnośniku 2. 32) Rozporządzenie zostało ogłoszone w dniu 30 września 2009 r.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 30 września 2009 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 22 lutego 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 3 – Środki służące wspólnemu interesowi, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. Nr 48, poz. 250), które weszło w życie z dniem 7 marca 2011 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 200, poz. 1322 oraz z 2013 r. poz. 628 i 1158. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 203, poz. 1351, z 2011 r. Nr 106, poz. 622, Nr 117, poz. 678, Nr 138, poz. 809, Nr 152, poz. 897 i Nr 171, poz. 1016 oraz z 2012 r. poz. 951 i 1513. 6) Ustawa utraciła moc na podstawie art. 252 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21), która weszła w życie z dniem 23 stycznia 2013 r. 7) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 104, poz. 656, z 1999 r. Nr 101, poz. 1182 oraz z 2001 r. Nr 45, poz. 497. 11) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 12) Oznaczenie ust. 1 nadane przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 13) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 14) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 15) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 16) Dodany przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 5 czerwca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 3 – Środki służące wspólnemu interesowi, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 658), które weszło w życie z dniem 14 czerwca 2012 r. 17) Dodany przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 18) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. 19) Dodany przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. 20) W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2. 21) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 16. 22) Dodany przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 2. 23) W brzmieniu ustalonym przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 2. 24) Przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 2. 25) Dodany przez § 1 pkt 16 rozporządzenia, o którym mowa w odnośniku 2. 26) W brzmieniu ustalonym przez § 1 pkt 17 rozporządzenia, o którym mowa w odnośniku 2. 27) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 18 lit. a rozporządzenia, o którym mowa w odnośniku 2. 28) W brzmieniu ustalonym przez § 1 pkt 18 lit. b rozporządzenia, o którym mowa w odnośniku 2. 29) W brzmieniu ustalonym przez § 1 pkt 18 lit. c rozporządzenia, o którym mowa w odnośniku 2. 30) Przez § 1 pkt 18 lit. d rozporządzenia, o którym mowa w odnośniku 2. 31) Przez § 1 pkt 19 rozporządzenia, o którym mowa w odnośniku 2. 32) Rozporządzenie zostało ogłoszone w dniu 30 września 2009 r.
 
 ## Załącznik nr 1 — – Załączniki, które dołącza się do wniosku o dofinansowanie
 
 1.
 W przypadku środka – działania wspólne:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 16.)
 aktualny odpis z Krajowego Rejestru Sądowego, jeżeli ubiegający się o dofinansowanie podlega obowiązkowi wpisu do tego rejestru;
 2)
 kopia dokumentu tożsamości – w przypadku gdy ubiegający się o dofinansowanie jest osobą fizyczną;
@@ -1039,7 +1029,7 @@ studium wykonalności projektu dla danej operacji – w przypadku braku pozwolen
 dokumenty potwierdzające planowane koszty operacji, w tym kosztorys inwestorski albo otrzymane przez ubiegającego się o dofinansowanie oferty związane z realizacją operacji – w przypadku gdy wymaga tego specyfika operacji.
 2.
 W przypadku środka ochrona i rozwój fauny i flory wodnej:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 16.)
 aktualny odpis z Krajowego Rejestru Sądowego, jeżeli ubiegający się o dofinansowanie podlega obowiązkowi wpisu do tego rejestru;
 2)
 kopia dokumentu tożsamości – w przypadku gdy ubiegający się o dofinansowanie jest osobą fizyczną;
@@ -1056,7 +1046,7 @@ pozwolenie wodnoprawne na szczególne korzystanie z wód, o którym mowa w przep
 8)
 opinia, o której mowa w § 16 ust. 1;
 9)
-decyzja powiatowego lekarza weterynarii, o której mowa w art. 5 ust. 1 pkt 1 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2008 r. Nr 213, poz. 1342, z późn. zm.), albo decyzja, o której mowa w art. 5 ust. 9 tej ustawy, albo zaświadczenie powiatowego lekarza weterynarii, że ubiegający się o dofinansowanie dokonał zgłoszenia, o którym mowa w art. 5 ust. 1 pkt 2 tej ustawy – w przypadku gdy wymaga tego specyfika operacji;
+decyzja powiatowego lekarza weterynarii, o której mowa w art. 5 ust. 1 pkt 1 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2008 r. Nr 213, poz. 1342, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 47, poz. 278, Nr 60, poz. 372 i Nr 78, poz. 513.), albo decyzja, o której mowa w art. 5 ust. 9 tej ustawy, albo zaświadczenie powiatowego lekarza weterynarii, że ubiegający się o dofinansowanie dokonał zgłoszenia, o którym mowa w art. 5 ust. 1 pkt 2 tej ustawy – w przypadku gdy wymaga tego specyfika operacji;
 10)
 kosztorys inwestorski – w przypadku gdy ubiegający się o dofinansowanie zalicza do kosztów kwalifikowalnych wniesione nakłady rzeczowe;
 11)
@@ -1069,7 +1059,7 @@ dokumenty potwierdzające planowane koszty operacji, w tym kosztorys inwestorski
 studium wykonalności projektu dla danej operacji – w przypadku braku pozwolenia budowlanego albo zgłoszenia, o których mowa w przepisach prawa budowlanego lub pozwolenia wodnoprawnego, o którym mowa w przepisach prawa wodnego.
 3.
 W przypadku środka inwestycje w portach rybackich, miejscach wyładunku i przystaniach:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 16.)
 aktualny odpis z Krajowego Rejestru Sądowego, jeżeli ubiegający się o dofinansowanie podlega obowiązkowi wpisu do tego rejestru;
 2)
 kopia dokumentu tożsamości – w przypadku gdy ubiegający się o dofinansowanie jest osobą fizyczną;
@@ -1099,7 +1089,7 @@ opinia dyrektora urzędu morskiego o prawidłowości planowanych rozwiązań –
 studium wykonalności projektu dla danej operacji – w przypadku braku pozwolenia budowlanego albo zgłoszenia, o których mowa w przepisach prawa budowlanego lub pozwolenia wodnoprawnego, o którym mowa w przepisach prawa wodnego.
 4.
 W przypadku środka rozwój nowych rynków i kampanie promocyjne:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 16.)
 aktualny odpis z Krajowego Rejestru Sądowego, jeżeli ubiegający się o dofinansowanie podlega obowiązkowi wpisu do tego rejestru;
 2)
 kopia dokumentu tożsamości – w przypadku gdy ubiegający się o dofinansowanie jest osobą fizyczną;
@@ -1119,7 +1109,7 @@ kosztorys inwestorski – w przypadku gdy ubiegający się o dofinansowanie zali
 dokumenty potwierdzające planowane koszty operacji, w tym kosztorys inwestorski albo otrzymane przez ubiegającego się o dofinansowanie oferty związane z realizacją operacji – w przypadku gdy wymaga tego specyfika operacji.
 5.
 W przypadku środka projekty pilotażowe:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 16.)
 aktualny odpis z Krajowego Rejestru Sądowego, jeżeli ubiegający się o dofinansowanie podlega obowiązkowi wpisu do tego rejestru;
 2)
 kopia dokumentu tożsamości – w przypadku gdy ubiegający się o dofinansowanie jest osobą fizyczną;
@@ -1143,7 +1133,7 @@ operat szacunkowy, sporządzony zgodnie z przepisami o gospodarce nieruchomości
 analiza naukowa projektu pilotażowego z podaniem specyfikacji kosztów realizacji projektu pilotażowego oraz wskazaniem źródeł jego finansowania wraz z opinią instytutu naukowo-badawczego, o której mowa w § 34 ust. 2.
 6.
 W przypadku środka modyfikacja w celu zmiany przeznaczenia statków rybackich:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 16.)
 aktualny odpis z Krajowego Rejestru Sądowego, jeżeli ubiegający się o dofinansowanie podlega obowiązkowi wpisu do tego rejestru;
 2)
 kopia dokumentu potwierdzającego prawo własności statku rybackiego;
@@ -1153,8 +1143,8 @@ szczegółowy opis projektu operacji, z podaniem specyfikacji kosztów jej reali
 pełnomocnictwo – w przypadku gdy zostało udzielone;
 5)
 oświadczenie wszystkich współwłaścicieli statku rybackiego, z podpisami notarialnie poświadczonymi, wyznaczające jednego ze współwłaścicieli do występowania w ich imieniu – w przypadku gdy statek rybacki jest przedmiotem współwłasności;
-6)
-kopia karty bezpieczeństwa statku rybackiego.
+6W brzmieniu ustalonym przez § 1 pkt 20 rozporządzenia, o którym mowa w odnośniku 2.)
+kopia karty bezpieczeństwa statku rybackiego. 33) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 16. 34) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 47, poz. 278, Nr 60, poz. 372 i Nr 78, poz. 513. 35) W brzmieniu ustalonym przez § 1 pkt 20 rozporządzenia, o którym mowa w odnośniku 2.
 
 ## Załącznik nr 2 — – Załączniki, które dołącza się do wniosku o płatność
 
@@ -1234,6 +1224,6 @@ kosztorys powykonawczy – w przypadku gdy beneficjent zaliczył do kosztów kwa
 poświadczone za zgodność z oryginałem przez upoważnionego pracownika Agencji Restrukturyzacji i Modernizacji Rolnictwa kopie dokumentów potwierdzających odbiór lub wykonanie prac;
 4)
 pisemne oświadczenie beneficjenta, że dokonał odpisów amortyzacyjnych środków trwałych;
-5)
-kopia dokumentu potwierdzającego wykreślenie statku rybackiego z rejestru statków rybackich.
+5Dodany przez § 1 pkt 21 rozporządzenia, o którym mowa w odnośniku 2.)
+kopia dokumentu potwierdzającego wykreślenie statku rybackiego z rejestru statków rybackich. 36) Dodany przez § 1 pkt 21 rozporządzenia, o którym mowa w odnośniku 2.
 

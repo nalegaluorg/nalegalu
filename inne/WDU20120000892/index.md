@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-07-13 |
 | Data wydania | 2012-08-03 |
-| Wejście w życie | 2012-09-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000892) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/892/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. Nr 234, poz. 1570, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. Nr 234, poz. 1570, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 76, poz. 641 oraz z 2010 r. Nr 107, poz. 679 i Nr 257, poz. 1723.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2: pkt 3 otrzymuje brzmienie: „
     - **a)**
@@ -115,15 +114,17 @@ source: "eli-html"
 3. Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Obrony Narodowej, ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia:
 
 - **1)** wykaz zakażeń i chorób zakaźnych, o których mowa w ust. 2,
-- **2)** sposób udostępniania danych, o których mowa w ust. 2, oraz okres ich przechowywania uwzględniając konieczność zapewnienia skutecznego nadzoru epidemiologicznego oraz zapobiegania i zwalczania zakażeń i chorób zakaźnych. ” ;
+- **2)** sposób udostępniania danych, o których mowa w ust. 2, oraz okres ich przechowywania – uwzględniając konieczność zapewnienia skutecznego nadzoru epidemiologicznego oraz zapobiegania i zwalczania zakażeń i chorób zakaźnych. ” ;
 - **15)** w art. 26 ust. 1 otrzymuje brzmienie: „
 
 1. Lekarz, felczer, pielęgniarka lub położna, którzy podejrzewają lub rozpoznają zakażenie lub chorobę zakaźną, są obowiązani pouczyć zakażonego lub chorego na chorobę zakaźną lub osobę sprawującą prawną pieczę nad zakażoną lub chorą na chorobę zakaźną osobą małoletnią lub bezradną albo jej opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta o:
 
 - **1)** środkach służących zapobieganiu przeniesienia zakażenia na inne osoby;
 - **2)** obowiązkach, o których mowa w art. 5 ust. 1 pkt 3 i pkt 4 lit. a oraz art. 6 ust. 1 pkt 1, 2, 4 i 5. ” ;
-- **16)** w art. 27: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Lekarz lub felczer, który podejrzewa lub rozpoznaje zakażenie, chorobę zakaźną lub zgon z powodu zakażenia lub choroby zakaźnej, określone na podstawie ust. 9 pkt 1, jest obowiązany do niezwłocznego, nie później jednak niż w ciągu 24 godzin od chwili powzięcia podejrzenia lub rozpoznania zakażenia, choroby zakaźnej lub zgonu z powodu zakażenia lub choroby zakaźnej, zgłoszenia tego faktu: ” , – pkt 1 otrzymuje brzmienie: „ 1) państwowemu powiatowemu inspektorowi sanitarnemu lub państwowemu granicznemu inspektorowi sanitarnemu właściwemu dla miejsca rozpoznania zakażenia lub choroby zakaźnej lub zgonu z powodu zakażenia lub choroby zakaźnej lub ” , uchyla się ust. 3 i 5–7, ust. 8 otrzymuje brzmienie: „
+- **16)** w art. 27: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Lekarz lub felczer, który podejrzewa lub rozpoznaje zakażenie, chorobę zakaźną lub zgon z powodu zakażenia lub choroby zakaźnej, określone na podstawie ust. 9 pkt 1, jest obowiązany do niezwłocznego, nie później jednak niż w ciągu 24 godzin od chwili powzięcia podejrzenia lub rozpoznania zakażenia, choroby zakaźnej lub zgonu z powodu zakażenia lub choroby zakaźnej, zgłoszenia tego faktu: ” , pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** państwowemu powiatowemu inspektorowi sanitarnemu lub państwowemu granicznemu inspektorowi sanitarnemu właściwemu dla miejsca rozpoznania zakażenia lub choroby zakaźnej lub zgonu z powodu zakażenia lub choroby zakaźnej lub ” , uchyla się ust. 3 i 5–7, ust. 8 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -132,16 +133,17 @@ source: "eli-html"
 - **1)** dowódca statku powietrznego za pośrednictwem instytucji zapewniających służby ruchu lotniczego,
 - **2)** kapitan statku morskiego osobiście lub za pośrednictwem Morskiej Służby Poszukiwania i Ratownictwa, agenta statku lub kapitanatu portu,
 - **3)** kierujący środkiem transportu drogowego,
-- **4)** pilot wycieczki lub przewodnik turystyczny jest obowiązany do niezwłocznego zgłoszenia tego faktu, dostępnymi środkami łączności, państwowemu powiatowemu inspektorowi sanitarnemu lub państwowemu granicznemu inspektorowi sanitarnemu właściwemu dla planowanego miejsca przekroczenia granicy państwowej albo portu lotniczego lub morskiego, a jeżeli podejrzenie zachorowania na chorobę szczególnie niebezpieczną i wysoce zakaźną lub zgonu z powodu takiej choroby powzięto po przekroczeniu granicy państwowej – państwowemu powiatowemu inspektorowi sanitarnemu lub państwowemu granicznemu inspektorowi sanitarnemu właściwemu dla miejsca powzięcia podejrzenia zachorowania na taką chorobę lub zgonu z jej powodu. ” , w ust. 9: – uchyla się pkt 5, – w pkt 6 na końcu skreśla się przecinek i uchyla pkt 7;
+- **4)** pilot wycieczki lub przewodnik turystyczny – jest obowiązany do niezwłocznego zgłoszenia tego faktu, dostępnymi środkami łączności, państwowemu powiatowemu inspektorowi sanitarnemu lub państwowemu granicznemu inspektorowi sanitarnemu właściwemu dla planowanego miejsca przekroczenia granicy państwowej albo portu lotniczego lub morskiego, a jeżeli podejrzenie zachorowania na chorobę szczególnie niebezpieczną i wysoce zakaźną lub zgonu z powodu takiej choroby powzięto po przekroczeniu granicy państwowej – państwowemu powiatowemu inspektorowi sanitarnemu lub państwowemu granicznemu inspektorowi sanitarnemu właściwemu dla miejsca powzięcia podejrzenia zachorowania na taką chorobę lub zgonu z jej powodu. ” , w ust. 9: – uchyla się pkt 5, – w pkt 6 na końcu skreśla się przecinek i uchyla pkt 7;
     - **d)**
 
 - **17)** w art. 28 pkt 3 otrzymuje brzmienie: „
 - **3)** poucza osobę chorą lub osobę sprawującą prawną pieczę nad chorą osobą małoletnią lub bezradną albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, osoby najbliższe oraz osoby, o których mowa w art. 17 ust. 1a, o obowiązkach wynikających z art. 5 ust. 1; ” ;
-- **18)** w art. 29: w ust. 1 uchyla się pkt 2, uchyla się ust. 2 i 4–6, w ust. 7: – pkt 1 otrzymuje brzmienie: „ 1) biologiczne czynniki chorobotwórcze podlegające zgłoszeniu oraz okoliczności i sposób dokonywania zgłoszenia, o których mowa w ust. 1, ” , – w pkt 4 na końcu skreśla się przecinek i uchyla pkt 5 i 6;
+- **18)** w art. 29: w ust. 1 uchyla się pkt 2, uchyla się ust. 2 i 4–6, w ust. 7: pkt 1 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **c)**
 
+- **1)** biologiczne czynniki chorobotwórcze podlegające zgłoszeniu oraz okoliczności i sposób dokonywania zgłoszenia, o których mowa w ust. 1, ” , – w pkt 4 na końcu skreśla się przecinek i uchyla pkt 5 i 6;
 - **19)** po art. 29 dodaje się art. 29a w brzmieniu: „
 
 **Art. 29a.**
@@ -165,7 +167,7 @@ source: "eli-html"
 - **1)** zakażenia lub choroby zakaźne objęte nadzorem sentinel,
 - **2)** sposób prowadzenia nadzoru sentinel,
 - **3)** jednostki podziału terytorialnego kraju, w których jest prowadzony nadzór sentinel,
-- **4)** zadania realizowane przez podmioty uczestniczące w nadzorze sentinel mając na względzie cele nadzoru sentinel oraz zapewnienie reprezentatywności zbieranych w nim danych. ” ;
+- **4)** zadania realizowane przez podmioty uczestniczące w nadzorze sentinel – mając na względzie cele nadzoru sentinel oraz zapewnienie reprezentatywności zbieranych w nim danych. ” ;
 - **20)** art. 32 otrzymuje brzmienie: „
 
 **Art. 32.**
@@ -184,7 +186,7 @@ source: "eli-html"
 
 - **1)** osobach zakażonych lub podejrzanych o zakażenie, chorych lub podejrzanych o chorobę zakaźną, osobach zmarłych z powodu choroby zakaźnej lub osobach, wobec których istnieje takie podejrzenie,
 - **2)** osobach, które mogły mieć styczność z osobami, o których mowa w pkt 1,
-- **3)** posiadaczach zwierząt, które mogły stanowić źródło narażenia na zakażenie lub chorobę zakaźną od każdego, kto takie dane posiada, lub jednostek administracji publicznej, które dane takie mogą ustalić.
+- **3)** posiadaczach zwierząt, które mogły stanowić źródło narażenia na zakażenie lub chorobę zakaźną – od każdego, kto takie dane posiada, lub jednostek administracji publicznej, które dane takie mogą ustalić.
 
 2. Dane osób, o których mowa w ust. 1, obejmują:
 
@@ -323,7 +325,7 @@ source: "eli-html"
 
 - **1)** na terenie urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz jednostek organizacyjnych podległych i nadzorowanych przez tego ministra,
 - **2)** na terenie podmiotów leczniczych tworzonych przez ministra właściwego do spraw wewnętrznych,
-- **3)** w stosunku do pracowników jednostek, o których mowa w pkt 1, oraz funkcjonariuszy Policji, Państwowej Straży Pożarnej, Straży Granicznej i Biura Ochrony Rządu uwzględniając specyfikę zadań wykonywanych przez Państwową Inspekcję Sanitarną Ministerstwa Spraw Wewnętrznych i potrzebę zapewnienia sprawnego działania tej Inspekcji.
+- **3)** w stosunku do pracowników jednostek, o których mowa w pkt 1, oraz funkcjonariuszy Policji, Państwowej Straży Pożarnej, Straży Granicznej i Biura Ochrony Rządu – uwzględniając specyfikę zadań wykonywanych przez Państwową Inspekcję Sanitarną Ministerstwa Spraw Wewnętrznych i potrzebę zapewnienia sprawnego działania tej Inspekcji.
 
 3. Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Szefów Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego, określi, w drodze rozporządzenia, organizację oraz zasady i tryb wykonywania zadań przez Państwową Inspekcję Sanitarną Ministerstwa Spraw Wewnętrznych na terenie obiektów Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego oraz w stosunku do funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego, uwzględniając specyfikę zadań wykonywanych przez Państwową Inspekcję Sanitarną Ministerstwa Spraw Wewnętrznych i potrzebę zapewnienia sprawnego działania tej Inspekcji. ” .
 
@@ -335,5 +337,5 @@ source: "eli-html"
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 20 ust. 2 i 3 ustawy zmienianej w art. 2, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 20 ust. 2 i 3 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 76, poz. 641 oraz z 2010 r. Nr 107, poz. 679 i Nr 257, poz. 1723.
 

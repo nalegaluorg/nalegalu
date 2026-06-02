@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 21 kwietnia 2017 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie dla działań w zakresie kształcenia zawodowego i nabywania umiejętności” oraz poddziałania „Wsparcie dla projektów demonstracyjnych i działań informacyjnych” w ramach działania „Transfer wiedzy i działalność informacyjna” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 21 kwietnia 2017 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie dla działań w zakresie kształcenia zawodowego i nabywania umiejętności” oraz poddziałania „Wsparcie dla projektów demonstracyjnych i działań informacyjnych” w ramach działania „Transfer wiedzy i działalność informacyjna” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-21 |
 | Data wydania | 2017-05-11 |
-| Wejście w życie | 2017-05-12 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000929) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/929/text.pdf) |
 
@@ -207,7 +206,7 @@ Koszty pośrednie, o których mowa w ust. 1 pkt 2, mogą być objęte pomocą w 
 2)
 10% sumy bezpośrednich kosztów kwalifikowalnych, o których mowa w ust. 1 pkt 1 – w przypadku operacji o wartości kosztów kwalifikowalnych powyżej 2 mln złotych.
 3.
-W przypadku gdy wysokość bezpośrednich kosztów kwalifikowalnych w zakresie danego zadania ujętego w zestawieniu rzeczowo-finansowym operacji, określonych w ust. 1 pkt 1, przekracza wartość rynkową tych kosztów ustaloną w wyniku oceny ich racjonalności, o której mowa w art. 48 ust. 2 lit. e rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.) , przy ustalaniu wysokości pomocy uwzględnia się wartość rynkową tych kosztów.
+W przypadku gdy wysokość bezpośrednich kosztów kwalifikowalnych w zakresie danego zadania ujętego w zestawieniu rzeczowo-finansowym operacji, określonych w ust. 1 pkt 1, przekracza wartość rynkową tych kosztów ustaloną w wyniku oceny ich racjonalności, o której mowa w art. 48 ust. 2 lit. e rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1 i Dz. Urz. UE L 225 z 19.08.2016, str. 50.) , przy ustalaniu wysokości pomocy uwzględnia się wartość rynkową tych kosztów.
 § 7.
 1.
 Pomoc jest przyznawana w formie:
@@ -216,7 +215,7 @@ refundacji kosztów, o których mowa w § 6 ust. 1 pkt 1, będących kosztami kw
 2)
 ryczałtu – w przypadku kosztów, o których mowa w § 6 ust. 1 pkt 2.
 2.
-Do kosztów kwalifikowalnych zalicza się także podatek od towarów i usług (VAT) na zasadach określonych w art. 69 ust. 3 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.).
+Do kosztów kwalifikowalnych zalicza się także podatek od towarów i usług (VAT) na zasadach określonych w art. 69 ust. 3 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79 i Dz. Urz. UE L 338 z 13.12.2016, str. 34.).
 3.
 Do kosztów kwalifikowalnych nie zalicza się kosztów poniesionych w związku z udziałem wykładowcy będącego członkiem kadry dydaktycznej dla danej operacji, jako ostatecznego odbiorcy w poszczególnym szkoleniu albo demonstracji, realizowanych w ramach tej operacji.
 § 8.
@@ -322,8 +321,7 @@ wniosek o przyznanie pomocy nie został złożony w terminie, o którym mowa w �
 2)
 we wniosku o przyznanie pomocy nie wskazano adresu podmiotu ubiegającego się o przyznanie pomocy i adresu tego nie można ustalić na podstawie posiadanych danych, lub
 3)
-podmiot ubiegający się o przyznanie pomocy pisemnie poinformował o rezygnacji z ubiegania się o pomoc
-wniosek pozostawia się bez rozpatrzenia.
+podmiot ubiegający się o przyznanie pomocy pisemnie poinformował o rezygnacji z ubiegania się o pomoc – wniosek pozostawia się bez rozpatrzenia.
 2.
 Jeżeli wniosek o przyznanie pomocy nie spełnia wymagań innych niż określone w ust. 1 lub został wypełniony nieprawidłowo, Agencja wzywa podmiot ubiegający się o przyznanie pomocy, w formie pisemnej, do usunięcia braków w terminie 14 dni od dnia doręczenia wezwania, chyba że zachodzą niebudzące wątpliwości przesłanki nieprzyznania pomocy.
 3.
@@ -338,7 +336,9 @@ Agencja dokonuje oceny wniosków o przyznanie pomocy, rozpatrzonych zgodnie z tr
 1)
 doświadczenie wykładowców określone liczbą prowadzonych działań transferu wiedzy w okresie ostatnich 5 lat liczonych od dnia ogłoszenia o konkursie, gdzie:
 a)
-każdemu z wykładowców spełniającemu warunek określony w § 3 ust. 5 pkt 3 przyznaje się punkty z dokładnością do dwóch miejsc po przecinku, w zależności od liczby przeprowadzonych przez niego w tym okresie działań z zakresu zbliżonego do tematyki konkursu, zgodnie z poniższą tabelą: Liczba działań transferu wiedzy przeprowadzonych przez poszczególnego wykładowcę: Liczba przyznanych punktów dla poszczególnego wykładowcy obliczanych według wzoru: 7 0,2 x 42/n 8 0,4 x 42/n 9 0,6 x 42/n 10 0,8 x 42/n 11 i więcej 1 x 42/n przy czym n oznacza liczbę zgłoszonych wykładowców spełniających warunek określony w § 3 ust. 5 pkt 3,
+każdemu z wykładowców spełniającemu warunek określony w § 3 ust. 5 pkt 3 przyznaje się punkty z dokładnością do dwóch miejsc po przecinku, w zależności od liczby przeprowadzonych przez niego w tym okresie działań z zakresu zbliżonego do tematyki konkursu, zgodnie z poniższą tabelą:
+Liczba działań transferu wiedzy przeprowadzonych przez poszczególnego wykładowcę: Liczba przyznanych punktów dla poszczególnego wykładowcy obliczanych według wzoru: 7 0,2 x 42/n 8 0,4 x 42/n 9 0,6 x 42/n 10 0,8 x 42/n 11 i więcej 1 x 42/n
+przy czym n oznacza liczbę zgłoszonych wykładowców spełniających warunek określony w § 3 ust. 5 pkt 3,
 b)
 punkty przyznawane poszczególnym wykładowcom zgodnie z lit. a są sumowane,
 c)
@@ -421,9 +421,9 @@ przechowywania dokumentów związanych z przyznaną pomocą w trakcie realizacji
 6)
 informowania Agencji o okolicznościach mogących mieć wpływ na wykonanie umowy w trakcie realizacji operacji oraz przez okres 5 lat od dnia otrzymania płatności końcowej;
 7)
-przestrzegania obowiązków beneficjenta, o których mowa w załączniku III do rozporządzenia wykonawczego Komisji (UE) nr 808/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 227 z 31.07.2014, str. 18, z późn. zm.);
+przestrzegania obowiązków beneficjenta, o których mowa w załączniku III do rozporządzenia wykonawczego Komisji (UE) nr 808/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 227 z 31.07.2014, str. 18, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33 i Dz. Urz. UE L 308 z 16.11.2016, str. 5.);
 8)
-uwzględnienia wszystkich transakcji związanych z operacją w oddzielnym systemie rachunkowości albo korzystania do ich identyfikacji z odpowiedniego kodu rachunkowego, o których mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.);
+uwzględnienia wszystkich transakcji związanych z operacją w oddzielnym systemie rachunkowości albo korzystania do ich identyfikacji z odpowiedniego kodu rachunkowego, o których mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1 i Dz. Urz. UE L 28 z 04.02.2016, str. 8.);
 9)
 warunków i sposobu pozyskiwania od beneficjenta danych, które jest on obowiązany udostępnić na podstawie przepisów prawa.
 2.
@@ -570,6 +570,5 @@ Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku p
 2.
 Termin uważa się za zachowany, jeżeli przed jego upływem pismo zostało nadane przesyłką rejestrowaną w placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe albo złożone w polskim urzędzie konsularnym, z wyłączeniem czynności złożenia wniosku o przyznanie pomocy oraz czynności złożenia wniosku o płatność.
 § 23.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1 i Dz. Urz. UE L 225 z 19.08.2016, str. 50. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79 i Dz. Urz. UE L 338 z 13.12.2016, str. 34. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33 i Dz. Urz. UE L 308 z 16.11.2016, str. 5. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1 i Dz. Urz. UE L 28 z 04.02.2016, str. 8.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1 i Dz. Urz. UE L 225 z 19.08.2016, str. 50. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79 i Dz. Urz. UE L 338 z 13.12.2016, str. 34. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33 i Dz. Urz. UE L 308 z 16.11.2016, str. 5. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1 i Dz. Urz. UE L 28 z 04.02.2016, str. 8.
 

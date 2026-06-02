@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 czerwca 2010 r. o zmianie ustawy – Prawo bankowe, ustawy o działalności ubezpieczeniowej, ustawy o funduszach inwestycyjnych, ustawy o obrocie instrumentami finansowymi oraz ustawy o nadzorze nad rynkiem finansowym
+# Ustawaz dnia 25 czerwca 2010 r. o zmianie ustawy – Prawo bankowe, ustawy o działalności ubezpieczeniowej, ustawy o funduszach inwestycyjnych, ustawy o obrocie instrumentami finansowymi oraz ustawy o nadzorze nad rynkiem finansowym Niniejsza ustawa w zakresie swojej regulacji dokonuje wdrożenia:
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-06-25 |
 | Data wydania | 2010-07-14 |
-| Wejście w życie | 2010-08-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101260853) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/853/text.pdf) |
 
+dyrektywy 2007/44/WE Parlamentu Europejskiego i Rady z dnia 5 września 2007 r. zmieniającej dyrektywę Rady 92/49/EWG oraz dyrektywy 2002/83/WE, 2004/39/WE, 2005/68/WE i 2006/48/WE w zakresie zasad proceduralnych i kryteriów oceny stosowanych w ramach oceny ostrożnościowej przypadków nabycia lub zwiększenia udziałów w podmiotach sektora finansowego(Dz. Urz. UE L 247 z 21.09.2007, str. 1);
 2)
 dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 2005 r. w sprawie transgranicznego łączenia się spółek kapitałowych (Dz. Urz. UE L 310 z 25.11.2005, str. 1).
 
-**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119, Nr 190, poz. 1401 i Nr 245, poz. 1775, z 2007 r. Nr 42, poz. 272 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056, Nr 192, poz. 1179, Nr 209, poz. 1315 i Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 65, poz. 545, Nr 71, poz. 609, Nr 127, poz. 1045, Nr 131, poz. 1075, Nr 144, poz. 1176, Nr 165, poz. 1316, Nr 166, poz. 1317, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 40, poz. 226 i Nr 81, poz. 530.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 w ust. 1 po pkt 29 dodaje się pkt 29a w brzmieniu: „
 - **29a)** spółka zarządzająca – spółkę zarządzającą, o której mowa w art. 2 pkt 10 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych, ” ;
@@ -74,7 +74,7 @@ dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 200
 3. W przypadku gdy podmiot składający zawiadomienie jest:
 
 - **1)** zakładem ubezpieczeń, zakładem reasekuracji, instytucją kredytową, firmą inwestycyjną lub spółką zarządzającą, które uzyskały zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego, lub
-- **2)** podmiotem dominującym lub podmiotem pozostającym w podobnym stosunku do zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej lub spółki zarządzającej, które uzyskały zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego zawiadomienie zawiera odpowiednią informację w tym zakresie, wskazującą w szczególności nazwę i siedzibę zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej lub spółki zarządzającej, o których mowa w pkt 2; jeżeli nie zachodzą okoliczności wymienione w pkt 1 i 2, zawiadomienie zawiera stosowne oświadczenie w tym zakresie.
+- **2)** podmiotem dominującym lub podmiotem pozostającym w podobnym stosunku do zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej lub spółki zarządzającej, które uzyskały zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego – zawiadomienie zawiera odpowiednią informację w tym zakresie, wskazującą w szczególności nazwę i siedzibę zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej lub spółki zarządzającej, o których mowa w pkt 2; jeżeli nie zachodzą okoliczności wymienione w pkt 1 i 2, zawiadomienie zawiera stosowne oświadczenie w tym zakresie.
 
 1. Podmiot, składający zawiadomienie, o którym mowa w art. 25 ust. 1, przedstawia wraz z zawiadomieniem informacje dotyczące:
 
@@ -111,7 +111,7 @@ dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 200
 5. Komisja Nadzoru Finansowego może, przed upływem 50. dnia roboczego terminu na doręczenie decyzji w przedmiocie sprzeciwu, pisemnie wezwać podmiot składający zawiadomienie do przekazania dodatkowych niezbędnych informacji lub dokumentów w terminie 20 dni roboczych od dnia otrzymania wezwania, a w przypadku gdy:
 
 - **1)** miejsce zamieszkania lub siedziba podmiotu składającego zawiadomienie znajduje się w państwie niebędącym państwem członkowskim lub nadzór nad nim sprawują władze nadzorcze państwa niebędącego państwem członkowskim lub
-- **2)** podmiot składający zawiadomienie nie jest podmiotem podlegającym nadzorowi ubezpieczeniowemu, nadzorowi nad rynkiem kapitałowym lub nadzorowi bankowemu sprawowanemu przez władze nadzorcze państwa członkowskiego w wyznaczonym terminie, nie krótszym niż 20 i nie dłuższym niż 30 dni roboczych od dnia otrzymania wezwania, wskazując zakres żądanych informacji lub dokumentów.
+- **2)** podmiot składający zawiadomienie nie jest podmiotem podlegającym nadzorowi ubezpieczeniowemu, nadzorowi nad rynkiem kapitałowym lub nadzorowi bankowemu sprawowanemu przez władze nadzorcze państwa członkowskiego – w wyznaczonym terminie, nie krótszym niż 20 i nie dłuższym niż 30 dni roboczych od dnia otrzymania wezwania, wskazując zakres żądanych informacji lub dokumentów.
 
 6. W przypadku wezwania, o którym mowa w ust. 5, następuje zawieszenie biegu terminu na doręczenie decyzji w przedmiocie sprzeciwu, od dnia wysłania wezwania do dnia otrzymania informacji lub dokumentów, nie dłużej jednak niż do upływu terminu na przekazanie informacji lub dokumentów.
 
@@ -150,14 +150,14 @@ dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 200
 - **1)** z naruszeniem przepisu art. 25 ust. 1 albo
 - **2)** pomimo zgłoszenia przez Komisję Nadzoru Finansowego sprzeciwu, o którym mowa w art. 25h ust. 1, albo
 - **3)** przed upływem terminu uprawniającego Komisję Nadzoru Finansowego do zgłoszenia sprzeciwu, o którym mowa w art. 25h ust. 1, albo
-- **4)** po wyznaczonym przez Komisję Nadzoru Finansowego terminie na nabycie albo objęcie akcji lub praw z akcji, o którym mowa w art. 25h ust. 5 z akcji tych nie może być wykonywane prawo głosu, z zastrzeżeniem art. 25m.
+- **4)** po wyznaczonym przez Komisję Nadzoru Finansowego terminie na nabycie albo objęcie akcji lub praw z akcji, o którym mowa w art. 25h ust. 5 – z akcji tych nie może być wykonywane prawo głosu, z zastrzeżeniem art. 25m.
 
 2. W przypadku wykonywania uprawnień podmiotu dominującego banku krajowego:
 
 - **1)** z naruszeniem przepisu art. 25 ust. 1 albo
 - **2)** w przypadku zgłoszenia przez Komisję Nadzoru Finansowego sprzeciwu, o którym mowa w art. 25h ust. 1, albo
 - **3)** przed upływem terminu uprawniającego Komisję Nadzoru Finansowego do zgłoszenia sprzeciwu, o którym mowa w art. 25h ust. 1, albo
-- **4)** uzyskanych po upływie terminu, o którym mowa w art. 25h ust. 5 członkowie zarządu banku krajowego powołani przez podmiot dominujący lub będący członkami zarządu, prokurentami lub osobami pełniącymi kierownicze funkcje w podmiocie dominującym nie mogą uczestniczyć w czynnościach z zakresu reprezentacji banku krajowego; w przypadku gdy nie można ustalić, którzy członkowie zarządu zostali powołani przez podmiot dominujący, powołanie zarządu jest bezskuteczne od dnia uzyskania przez ten podmiot uprawnień podmiotu dominującego banku krajowego, z zastrzeżeniem art. 25m.
+- **4)** uzyskanych po upływie terminu, o którym mowa w art. 25h ust. 5 – członkowie zarządu banku krajowego powołani przez podmiot dominujący lub będący członkami zarządu, prokurentami lub osobami pełniącymi kierownicze funkcje w podmiocie dominującym nie mogą uczestniczyć w czynnościach z zakresu reprezentacji banku krajowego; w przypadku gdy nie można ustalić, którzy członkowie zarządu zostali powołani przez podmiot dominujący, powołanie zarządu jest bezskuteczne od dnia uzyskania przez ten podmiot uprawnień podmiotu dominującego banku krajowego, z zastrzeżeniem art. 25m.
 
 3. Uchwały walnego zgromadzenia banku krajowego podjęte z naruszeniem przepisu ust. 1 są nieważne, chyba że spełniają wymogi kworum oraz większości głosów oddanych bez uwzględnienia głosów nieważnych. W przypadkach, o których mowa w ust. 1, prawo wytoczenia powództwa o stwierdzenie nieważności uchwały walnego zgromadzenia przysługuje również Komisji Nadzoru Finansowego. Przepis art. 425 Kodeksu spółek handlowych stosuje się odpowiednio.
 
@@ -182,7 +182,7 @@ dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 200
 7. Przepisy ust. 1–6 stosuje się odpowiednio w przypadku, o którym mowa w art. 25 ust. 7, do podmiotów będących stronami porozumienia, o którym mowa w tym przepisie. Podmiot, który bezpośrednio lub pośrednio nabył albo objął akcje lub prawa z akcji banku krajowego, jeżeli stanowią one wraz z akcjami nabytymi albo objętymi wcześniej pakiet zapewniający osiągnięcie lub przekroczenie progu 5%, 10%, 20%, 25%, jednej trzeciej, 50%, 66% i 75% ogólnej liczby głosów na walnym zgromadzeniu, albo stał się podmiotem dominującym banku krajowego, jest każdorazowo obowiązany niezwłocznie powiadomić o tym ten bank. Bank przesyła Komisji Nadzoru Finansowego powiadomienie w terminie 14 dni od daty jego otrzymania. W przypadku gdy statut banku krajowego przewiduje uprzywilejowanie lub ograniczenie akcji co do prawa głosu, powiadomienie powinno również dotyczyć udziału w kapitale zakładowym w wysokości odpowiadającej wielkościom określonym w zdaniu pierwszym i odpowiadającej mu liczbie głosów bez przywilejów i ograniczeń. Przepisy art. 25 ust. 2–7 stosuje się odpowiednio. Podmiot, który zamierza bezpośrednio lub pośrednio zbyć pakiet akcji banku krajowego:
 
 - **1)** uprawniający do wykonywania ponad 10% ogólnej liczby głosów na walnym zgromadzeniu,
-- **2)** w wyniku zbycia którego pozostały w jego posiadaniu pakiet akcji będzie uprawniał do wykonywania mniej niż 10%, 20%, jednej trzeciej i 50% ogólnej liczby głosów na walnym zgromadzeniu jest obowiązany powiadomić o swoim zamiarze Komisję Nadzoru Finansowego. W przypadku gdy statut banku krajowego przewiduje uprzywilejowanie lub ograniczenie akcji co do prawa głosu, powiadomienie powinno również dotyczyć udziału w kapitale zakładowym w wysokości odpowiadającej wielkościom określonym w zdaniu pierwszym i odpowiadającej mu liczbie głosów bez przywilejów i ograniczeń; przepisy art. 25 ust. 2–7 stosuje się odpowiednio. Obowiązek, o którym mowa w art. 25o i 25p, stosuje się odpowiednio w przypadku nabycia i zbycia obligacji zamiennych na akcje banku krajowego, kwitów depozytowych, jak również innych papierów wartościowych, z których wynika prawo lub obowiązek nabycia akcji banku krajowego. Przepisy art. 25–25r stosuje się odpowiednio do banków spółdzielczych będących spółdzielniami osób prawnych, których statut przewiduje, inną niż określona w art. 36 § 3 zdanie pierwsze ustawy – Prawo spółdzielcze, zasadę ustalania liczby głosów przysługujących członkom. ” ;
+- **2)** w wyniku zbycia którego pozostały w jego posiadaniu pakiet akcji będzie uprawniał do wykonywania mniej niż 10%, 20%, jednej trzeciej i 50% ogólnej liczby głosów na walnym zgromadzeniu – jest obowiązany powiadomić o swoim zamiarze Komisję Nadzoru Finansowego. W przypadku gdy statut banku krajowego przewiduje uprzywilejowanie lub ograniczenie akcji co do prawa głosu, powiadomienie powinno również dotyczyć udziału w kapitale zakładowym w wysokości odpowiadającej wielkościom określonym w zdaniu pierwszym i odpowiadającej mu liczbie głosów bez przywilejów i ograniczeń; przepisy art. 25 ust. 2–7 stosuje się odpowiednio. Obowiązek, o którym mowa w art. 25o i 25p, stosuje się odpowiednio w przypadku nabycia i zbycia obligacji zamiennych na akcje banku krajowego, kwitów depozytowych, jak również innych papierów wartościowych, z których wynika prawo lub obowiązek nabycia akcji banku krajowego. Przepisy art. 25–25r stosuje się odpowiednio do banków spółdzielczych będących spółdzielniami osób prawnych, których statut przewiduje, inną niż określona w art. 36 § 3 zdanie pierwsze ustawy – Prawo spółdzielcze, zasadę ustalania liczby głosów przysługujących członkom. ” ;
 - **5)** uchyla się art. 26–26c;
 - **6)** art. 124 otrzymuje brzmienie: „
 
@@ -237,7 +237,7 @@ dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 200
 3. W przypadku gdy podmiot składający zawiadomienie jest:
 
 - **1)** zakładem ubezpieczeń, zakładem reasekuracji, instytucją kredytową, zagraniczną firmą inwestycyjną w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi lub spółką zarządzającą w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych, które uzyskały zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego Unii Europejskiej lub
-- **2)** podmiotem dominującym lub podmiotem pozostającym w podobnym stosunku do zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej lub spółki zarządzającej, które uzyskały zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego Unii Europejskiej zawiadomienie zawiera odpowiednią informację w tym zakresie, wskazującą w szczególności nazwę i siedzibę zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej lub spółki zarządzającej, o których mowa w pkt 2; jeżeli nie zachodzą okoliczności wymienione w pkt 1 i 2, zawiadomienie zawiera stosowne oświadczenie w tym zakresie.
+- **2)** podmiotem dominującym lub podmiotem pozostającym w podobnym stosunku do zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej lub spółki zarządzającej, które uzyskały zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego Unii Europejskiej – zawiadomienie zawiera odpowiednią informację w tym zakresie, wskazującą w szczególności nazwę i siedzibę zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej lub spółki zarządzającej, o których mowa w pkt 2; jeżeli nie zachodzą okoliczności wymienione w pkt 1 i 2, zawiadomienie zawiera stosowne oświadczenie w tym zakresie.
 
 1. Podmiot składający zawiadomienie, o którym mowa w art. 35 ust. 1, przedstawia wraz z zawiadomieniem informacje dotyczące:
 
@@ -274,7 +274,7 @@ dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 200
 5. Organ nadzoru może, przed upływem 50. dnia roboczego terminu na doręczenie decyzji w przedmiocie sprzeciwu, pisemnie wezwać podmiot składający zawiadomienie do przekazania dodatkowych niezbędnych informacji lub dokumentów w terminie 20 dni roboczych od dnia otrzymania wezwania, a w przypadku gdy:
 
 - **1)** miejsce zamieszkania lub siedziba podmiotu składającego zawiadomienie znajduje się w państwie niebędącym państwem członkowskim Unii Europejskiej lub nadzór nad nim sprawują władze nadzorcze państwa niebędącego państwem członkowskim Unii Europejskiej lub
-- **2)** podmiot składający zawiadomienie nie jest podmiotem podlegającym nadzorowi ubezpieczeniowemu, nadzorowi nad rynkiem kapitałowym lub nadzorowi bankowemu sprawowanemu przez władze nadzorcze państwa członkowskiego Unii Europejskiej w wyznaczonym terminie, nie krótszym niż 20 i nie dłuższym niż 30 dni roboczych od dnia otrzymania wezwania, wskazując zakres żądanych informacji lub dokumentów.
+- **2)** podmiot składający zawiadomienie nie jest podmiotem podlegającym nadzorowi ubezpieczeniowemu, nadzorowi nad rynkiem kapitałowym lub nadzorowi bankowemu sprawowanemu przez władze nadzorcze państwa członkowskiego Unii Europejskiej – w wyznaczonym terminie, nie krótszym niż 20 i nie dłuższym niż 30 dni roboczych od dnia otrzymania wezwania, wskazując zakres żądanych informacji lub dokumentów.
 
 6. W przypadku wezwania, o którym mowa w ust. 5, następuje zawieszenie biegu terminu na doręczenie decyzji w przedmiocie sprzeciwu, od dnia wysłania wezwania do dnia otrzymania informacji lub dokumentów, nie dłużej jednak niż do upływu terminu na przekazanie informacji lub dokumentów.
 
@@ -313,14 +313,14 @@ dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 200
 - **1)** z naruszeniem przepisu art. 35 ust. 1 albo
 - **2)** pomimo zgłoszenia przez organ nadzoru sprzeciwu, o którym mowa w art. 35h ust. 1, albo
 - **3)** przed upływem terminu uprawniającego organ nadzoru do zgłoszenia sprzeciwu, o którym mowa w art. 35h ust. 1, albo
-- **4)** po wyznaczonym przez organ nadzoru terminie na nabycie albo objęcie akcji lub praw z akcji, o którym mowa w art. 35h ust. 5 z akcji tych nie może być wykonywane prawo głosu, z zastrzeżeniem art. 35m.
+- **4)** po wyznaczonym przez organ nadzoru terminie na nabycie albo objęcie akcji lub praw z akcji, o którym mowa w art. 35h ust. 5 – z akcji tych nie może być wykonywane prawo głosu, z zastrzeżeniem art. 35m.
 
 2. W przypadku wykonywania uprawnień podmiotu dominującego krajowego zakładu ubezpieczeń:
 
 - **1)** z naruszeniem przepisu art. 35 ust. 1 albo
 - **2)** w przypadku zgłoszenia przez organ nadzoru sprzeciwu, o którym mowa w art. 35h ust. 1, albo
 - **3)** przed upływem terminu uprawniającego organ nadzoru do zgłoszenia sprzeciwu, o którym mowa w art. 35h ust. 1, albo
-- **4)** uzyskanych po upływie terminu, o którym mowa w art. 35h ust. 5 członkowie zarządu krajowego zakładu ubezpieczeń powołani przez podmiot dominujący lub będący członkami zarządu, prokurentami lub osobami pełniącymi kierownicze funkcje w podmiocie dominującym nie mogą uczestniczyć w czynnościach z zakresu reprezentacji krajowego zakładu ubezpieczeń; w przypadku gdy nie można ustalić, którzy członkowie zarządu zostali powołani przez podmiot dominujący, powołanie zarządu jest bezskuteczne od dnia uzyskania przez ten podmiot uprawnień podmiotu dominującego krajowego zakładu ubezpieczeń, z zastrzeżeniem art. 35m.
+- **4)** uzyskanych po upływie terminu, o którym mowa w art. 35h ust. 5 – członkowie zarządu krajowego zakładu ubezpieczeń powołani przez podmiot dominujący lub będący członkami zarządu, prokurentami lub osobami pełniącymi kierownicze funkcje w podmiocie dominującym nie mogą uczestniczyć w czynnościach z zakresu reprezentacji krajowego zakładu ubezpieczeń; w przypadku gdy nie można ustalić, którzy członkowie zarządu zostali powołani przez podmiot dominujący, powołanie zarządu jest bezskuteczne od dnia uzyskania przez ten podmiot uprawnień podmiotu dominującego krajowego zakładu ubezpieczeń, z zastrzeżeniem art. 35m.
 
 3. Uchwały walnego zgromadzenia krajowego zakładu ubezpieczeń podjęte z naruszeniem przepisu ust. 1 są nieważne, chyba że spełniają wymogi kworum oraz większości głosów bez uwzględnienia głosów nieważnych. W przypadkach, o których mowa w ust. 1, prawo wytoczenia powództwa o stwierdzenie nieważności uchwały walnego zgromadzenia przysługuje również organowi nadzoru. Przepis art. 425 Kodeksu spółek handlowych stosuje się odpowiednio.
 
@@ -372,7 +372,7 @@ dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 200
 - **7)** uchyla się art. 223i-223m;
 - **8)** art. 223t otrzymuje brzmienie: „ Do nabywania i zbywania udziałów towarzystwa reasekuracji wzajemnej stosuje się odpowiednio przepisy art. 35–36. ” .
 
-**Art. 3.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 81, poz. 530 i Nr 106, poz. 670.) wprowadza się następujące zmiany:
 
 - **1)** art. 54 otrzymuje brzmienie: „
 
@@ -413,7 +413,7 @@ dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 200
 3. W przypadku gdy podmiot składający zawiadomienie jest:
 
 - **1)** zagranicznym zakładem ubezpieczeń lub zagranicznym zakładem reasekuracji w rozumieniu ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. z 2010 r. Nr 11, poz. 66, Nr 81, poz. 530 i Nr 126, poz. 853), instytucją kredytową, zagraniczną firmą inwestycyjną w rozumieniu ustawy o obrocie instrumentami finansowymi lub spółką zarządzającą, które uzyskały zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego lub
-- **2)** podmiotem dominującym lub podmiotem pozostającym w podobnym stosunku do zakładu ubezpieczeń lub zakładu reasekuracji w rozumieniu ustawy o działalności ubezpieczeniowej, instytucji kredytowej, zagranicznej firmy inwestycyjnej w rozumieniu ustawy o obrocie instrumentami finansowymi lub spółki zarządzającej, które uzyskały zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego zawiadomienie zawiera odpowiednią informację w tym zakresie, wskazującą w szczególności nazwę i siedzibę zagranicznego zakładu ubezpieczeń, zagranicznego zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej lub spółki zarządzającej, o których mowa w pkt 2; jeżeli nie zachodzą okoliczności wymienione w pkt 1 i 2, zawiadomienie zawiera stosowne oświadczenie w tym zakresie.
+- **2)** podmiotem dominującym lub podmiotem pozostającym w podobnym stosunku do zakładu ubezpieczeń lub zakładu reasekuracji w rozumieniu ustawy o działalności ubezpieczeniowej, instytucji kredytowej, zagranicznej firmy inwestycyjnej w rozumieniu ustawy o obrocie instrumentami finansowymi lub spółki zarządzającej, które uzyskały zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego – zawiadomienie zawiera odpowiednią informację w tym zakresie, wskazującą w szczególności nazwę i siedzibę zagranicznego zakładu ubezpieczeń, zagranicznego zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej lub spółki zarządzającej, o których mowa w pkt 2; jeżeli nie zachodzą okoliczności wymienione w pkt 1 i 2, zawiadomienie zawiera stosowne oświadczenie w tym zakresie.
 
 1. Podmiot składający zawiadomienie, o którym mowa w art. 54 ust. 1, przedstawia wraz z zawiadomieniem informacje dotyczące:
 
@@ -450,7 +450,7 @@ dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 200
 5. Komisja może, przed upływem 50. dnia roboczego terminu na doręczenie decyzji w przedmiocie sprzeciwu, pisemnie wezwać podmiot składający zawiadomienie do przekazania dodatkowych niezbędnych informacji lub dokumentów w terminie 20 dni roboczych od dnia otrzymania wezwania, a w przypadku gdy:
 
 - **1)** miejsce zamieszkania lub siedziba podmiotu składającego zawiadomienie znajduje się w państwie niebędącym państwem członkowskim lub nadzór nad nim sprawują władze nadzorcze państwa niebędącego państwem członkowskim lub
-- **2)** podmiot składający zawiadomienie nie jest podmiotem podlegającym nadzorowi ubezpieczeniowemu, nadzorowi nad rynkiem kapitałowym lub nadzorowi bankowemu sprawowanemu przez władze nadzorcze państwa członkowskiego w wyznaczonym terminie, nie krótszym niż 20 i nie dłuższym niż 30 dni roboczych od dnia otrzymania wezwania, wskazując zakres żądanych informacji lub dokumentów.
+- **2)** podmiot składający zawiadomienie nie jest podmiotem podlegającym nadzorowi ubezpieczeniowemu, nadzorowi nad rynkiem kapitałowym lub nadzorowi bankowemu sprawowanemu przez władze nadzorcze państwa członkowskiego – w wyznaczonym terminie, nie krótszym niż 20 i nie dłuższym niż 30 dni roboczych od dnia otrzymania wezwania, wskazując zakres żądanych informacji lub dokumentów.
 
 6. W przypadku wezwania, o którym mowa w ust. 5, następuje zawieszenie biegu terminu na doręczenie decyzji w przedmiocie sprzeciwu, od dnia wysłania wezwania do dnia otrzymania informacji lub dokumentów, nie dłużej jednak niż do upływu terminu na przekazanie informacji lub dokumentów.
 
@@ -489,14 +489,14 @@ dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 200
 - **1)** z naruszeniem przepisu art. 54 ust. 1 albo
 - **2)** pomimo zgłoszenia przez Komisję sprzeciwu, o którym mowa w art. 54h ust. 1, albo
 - **3)** przed upływem terminu uprawniającego Komisję do zgłoszenia sprzeciwu, o którym mowa w art. 54h ust. 1, albo
-- **4)** po wyznaczonym przez Komisję terminie na nabycie albo objęcie akcji lub praw z akcji, o którym mowa w art. 54h ust. 5 z akcji tych nie może być wykonywane prawo głosu, z zastrzeżeniem art. 54m.
+- **4)** po wyznaczonym przez Komisję terminie na nabycie albo objęcie akcji lub praw z akcji, o którym mowa w art. 54h ust. 5 – z akcji tych nie może być wykonywane prawo głosu, z zastrzeżeniem art. 54m.
 
 2. W przypadku wykonywania uprawnień podmiotu dominującego towarzystwa:
 
 - **1)** z naruszeniem przepisu art. 54 ust. 1 albo
 - **2)** w przypadku zgłoszenia przez Komisję sprzeciwu, o którym mowa w art. 54h ust. 1, albo
 - **3)** przed upływem terminu uprawniającego Komisję do zgłoszenia sprzeciwu, o którym mowa w art. 54h ust. 1, albo
-- **4)** uzyskanych po upływie terminu, o którym mowa w art. 54h ust. 5 członkowie zarządu towarzystwa powołani przez podmiot dominujący lub będący członkami zarządu, prokurentami lub osobami pełniącymi kierownicze funkcje w podmiocie dominującym nie mogą uczestniczyć w czynnościach z zakresu reprezentacji towarzystwa; w przypadku gdy nie można ustalić, którzy członkowie zarządu zostali powołani przez podmiot dominujący, powołanie zarządu jest bezskuteczne od dnia uzyskania przez ten podmiot uprawnień podmiotu dominującego towarzystwa, z zastrzeżeniem art. 54m.
+- **4)** uzyskanych po upływie terminu, o którym mowa w art. 54h ust. 5 – członkowie zarządu towarzystwa powołani przez podmiot dominujący lub będący członkami zarządu, prokurentami lub osobami pełniącymi kierownicze funkcje w podmiocie dominującym nie mogą uczestniczyć w czynnościach z zakresu reprezentacji towarzystwa; w przypadku gdy nie można ustalić, którzy członkowie zarządu zostali powołani przez podmiot dominujący, powołanie zarządu jest bezskuteczne od dnia uzyskania przez ten podmiot uprawnień podmiotu dominującego towarzystwa, z zastrzeżeniem art. 54m.
 
 3. Uchwały walnego zgromadzenia towarzystwa podjęte z naruszeniem przepisu ust. 1 są nieważne, chyba że spełniają wymogi kworum oraz większości głosów bez uwzględnienia głosów nieważnych. W przypadkach, o których mowa w ust. 1, prawo wytoczenia powództwa o stwierdzenie nieważności uchwały walnego zgromadzenia przysługuje również Komisji. Przepis art. 425 Kodeksu spółek handlowych stosuje się odpowiednio.
 
@@ -557,7 +557,7 @@ dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 200
 - **1)** nabywa albo obejmuje akcje lub prawa z akcji lub staje się podmiotem dominującym towarzystwa przed upływem terminu do zgłoszenia sprzeciwu lub przed wydaniem przez organ nadzoru decyzji o stwierdzeniu braku podstaw do zgłoszenia sprzeciwu, o którym mowa w art. 54h ust. 1;
 - **2)** nabywa albo obejmuje akcje lub prawa z akcji lub uzyskuje uprawnienia podmiotu dominującego towarzystwa po wyznaczonym przez Komisję terminie, o którym mowa w art. 54i ust. 1. ” .
 
-**Art. 4.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. Nr 183, poz. 1538, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. Nr 183, poz. 1538, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i Nr 157, poz. 1119, z 2008 r. Nr 171, poz. 1056, z 2009 r. Nr 13, poz. 69, Nr 42, poz. 341, Nr 77, poz. 649, Nr 78, poz. 659, Nr 165, poz. 1316, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 201, poz. 1540 i Nr 223, poz. 1776 oraz z 2010 r. Nr 44, poz. 252 i Nr 81, poz. 530.) wprowadza się następujące zmiany:
 
 - **1)** art. 106 otrzymuje brzmienie: „
 
@@ -598,7 +598,7 @@ dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 200
 3. W przypadku gdy podmiot składający zawiadomienie jest:
 
 - **1)** zakładem ubezpieczeń, zakładem reasekuracji, instytucją kredytową w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, zagraniczną firmą inwestycyjną lub spółką zarządzającą, które uzyskały zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego lub
-- **2)** podmiotem dominującym lub podmiotem pozostającym w podobnym stosunku do zagranicznego zakładu ubezpieczeń, zagranicznego zakładu reasekuracji, instytucji kredytowej w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, zagranicznej firmy inwestycyjnej lub spółki zarządzającej, które uzyskały zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego zawiadomienie zawiera odpowiednią informację w tym zakresie, wskazującą w szczególności nazwę i siedzibę zagranicznego zakładu ubezpieczeń, zagranicznego zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej lub spółki zarządzającej, o których mowa w pkt 2; jeżeli nie zachodzą okoliczności wymienione w pkt 1 i 2, zawiadomienie zawiera stosowne oświadczenie w tym zakresie.
+- **2)** podmiotem dominującym lub podmiotem pozostającym w podobnym stosunku do zagranicznego zakładu ubezpieczeń, zagranicznego zakładu reasekuracji, instytucji kredytowej w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, zagranicznej firmy inwestycyjnej lub spółki zarządzającej, które uzyskały zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego – zawiadomienie zawiera odpowiednią informację w tym zakresie, wskazującą w szczególności nazwę i siedzibę zagranicznego zakładu ubezpieczeń, zagranicznego zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej lub spółki zarządzającej, o których mowa w pkt 2; jeżeli nie zachodzą okoliczności wymienione w pkt 1 i 2, zawiadomienie zawiera stosowne oświadczenie w tym zakresie.
 
 1. Podmiot składający zawiadomienie, o którym mowa w art. 106 ust. 1, przedstawia wraz z zawiadomieniem informacje dotyczące:
 
@@ -635,7 +635,7 @@ dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 200
 5. Komisja może, przed upływem 50. dnia roboczego terminu na doręczenie decyzji w przedmiocie sprzeciwu, pisemnie wezwać podmiot składający zawiadomienie do przekazania dodatkowych niezbędnych informacji lub dokumentów w terminie 20 dni roboczych od dnia otrzymania wezwania, a w przypadku gdy:
 
 - **1)** miejsce zamieszkania lub siedziba podmiotu składającego zawiadomienie znajduje się w państwie niebędącym państwem członkowskim lub nadzór nad nim sprawują władze nadzorcze państwa niebędącego państwem członkowskim lub
-- **2)** podmiot składający zawiadomienie nie jest podmiotem podlegającym nadzorowi ubezpieczeniowemu, nadzorowi nad rynkiem kapitałowym lub nadzorowi bankowemu sprawowanemu przez władze nadzorcze państwa członkowskiego w wyznaczonym terminie, nie krótszym niż 20 i nie dłuższym niż 30 dni roboczych od dnia otrzymania wezwania, wskazując zakres żądanych informacji lub dokumentów.
+- **2)** podmiot składający zawiadomienie nie jest podmiotem podlegającym nadzorowi ubezpieczeniowemu, nadzorowi nad rynkiem kapitałowym lub nadzorowi bankowemu sprawowanemu przez władze nadzorcze państwa członkowskiego – w wyznaczonym terminie, nie krótszym niż 20 i nie dłuższym niż 30 dni roboczych od dnia otrzymania wezwania, wskazując zakres żądanych informacji lub dokumentów.
 
 6. W przypadku wezwania, o którym mowa w ust. 5, następuje zawieszenie biegu terminu na doręczenie decyzji w przedmiocie sprzeciwu, od dnia wysłania wezwania do dnia otrzymania informacji lub dokumentów, nie dłużej jednak niż do upływu terminu na przekazanie informacji lub dokumentów.
 
@@ -674,14 +674,14 @@ dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 200
 - **1)** z naruszeniem przepisu art. 106 ust. 1 albo
 - **2)** pomimo zgłoszenia przez Komisję sprzeciwu, o którym mowa w art. 106h ust. 1, albo
 - **3)** przed upływem terminu uprawniającego Komisję do zgłoszenia sprzeciwu, o którym mowa w art. 106h ust. 1, albo
-- **4)** po wyznaczonym przez Komisję terminie na nabycie albo objęcie akcji lub praw z akcji, o którym mowa w art. 106h ust. 5 z akcji tych nie może być wykonywane prawo głosu, z zastrzeżeniem art. 106m.
+- **4)** po wyznaczonym przez Komisję terminie na nabycie albo objęcie akcji lub praw z akcji, o którym mowa w art. 106h ust. 5 – z akcji tych nie może być wykonywane prawo głosu, z zastrzeżeniem art. 106m.
 
 2. W przypadku wykonywania uprawnień podmiotu dominującego domu maklerskiego:
 
 - **1)** z naruszeniem przepisu art. 106 ust. 1 albo
 - **2)** w przypadku zgłoszenia przez Komisję sprzeciwu, o którym mowa w art. 106h ust. 1, albo
 - **3)** przed upływem terminu uprawniającego Komisję do zgłoszenia sprzeciwu, o którym mowa w art. 106h ust. 1, albo
-- **4)** uzyskanych po upływie terminu, o którym mowa w art. 106h ust. 5 członkowie zarządu domu maklerskiego powołani przez podmiot dominujący lub będący członkami zarządu, prokurentami lub osobami pełniącymi kierownicze funkcje w podmiocie dominującym nie mogą uczestniczyć w czynnościach z zakresu reprezentacji domu maklerskiego; w przypadku gdy nie można ustalić, którzy członkowie zarządu zostali powołani przez podmiot dominujący, powołanie zarządu jest bezskuteczne od dnia uzyskania przez ten podmiot uprawnień podmiotu dominującego domu maklerskiego, z zastrzeżeniem art. 106m.
+- **4)** uzyskanych po upływie terminu, o którym mowa w art. 106h ust. 5 – członkowie zarządu domu maklerskiego powołani przez podmiot dominujący lub będący członkami zarządu, prokurentami lub osobami pełniącymi kierownicze funkcje w podmiocie dominującym nie mogą uczestniczyć w czynnościach z zakresu reprezentacji domu maklerskiego; w przypadku gdy nie można ustalić, którzy członkowie zarządu zostali powołani przez podmiot dominujący, powołanie zarządu jest bezskuteczne od dnia uzyskania przez ten podmiot uprawnień podmiotu dominującego domu maklerskiego, z zastrzeżeniem art. 106m.
 
 3. Uchwały walnego zgromadzenia domu maklerskiego podjęte z naruszeniem przepisu ust. 1 są nieważne, chyba że spełniają wymogi kworum oraz większości głosów bez uwzględnienia głosów nieważnych. W przypadkach, o których mowa w ust. 1, prawo wytoczenia powództwa o stwierdzenie nieważności uchwały walnego zgromadzenia przysługuje również Komisji. Przepis art. 425 Kodeksu spółek handlowych stosuje się odpowiednio.
 
@@ -736,19 +736,25 @@ dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 200
 
 2. Komisja może, w drodze decyzji, nałożyć karę, o której mowa w ust. 1, również na osobę, która nabywa lub obejmuje akcje pomimo zgłoszenia sprzeciwu, o którym mowa w art. 24 ust. 3, art. 47 ust. 3 lub art. 106h, lub dopuszcza się tego czynu, działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej. ” .
 
-**Art. 5.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. Nr 157, poz. 1119, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. Nr 157, poz. 1119, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 42, poz. 272 i Nr 49, poz. 328, z 2008 r. Nr 209, poz. 1317, Nr 228, poz. 1507 i Nr 231, poz. 1546 oraz z 2009 r. Nr 42, poz. 341, Nr 77, poz. 649 i Nr 165, poz. 1316.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w ust. 2 po pkt 5 dodaje się pkt 5a w brzmieniu: „
 - **5a)** nadzór nad agencjami ratingowymi w zakresie przewidzianym przepisami rozporządzenia Parlamentu Europejskiego i Rady nr 1060/2009 z dnia 16 września 2009 r. w sprawie agencji ratingowych (Dz. Urz. WE L 302 z 17.11.2009, str. 1) ” ;
 - **2)** w art. 11 po ust. 5 dodaje się ust. 5a w brzmieniu: „
 
-5a. Do spraw z zakresu właściwości Komisji nie stosuje się przepisów art. 6 ust. 3, art. 11 ust. 3–9 oraz rozdziału 2a ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.) ” ;
+5a. Do spraw z zakresu właściwości Komisji nie stosuje się przepisów art. 6 ust. 3, art. 11 ust. 3–9 oraz rozdziału 2a ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280, z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888, Nr 171, poz. 1056 i Nr 216, poz. 1367, z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 47, poz. 278 i Nr 107, poz. 679.) ” ;
 
-- **3)** w art. 12 w ust. 2: w pkt 1: – lit. e otrzymuje brzmienie: „ e) wydawania decyzji, o których mowa w art. 25h ustawy – Prawo bankowe, ” , – uchyla się lit. f-h, – lit. i otrzymuje brzmienie: „ i) wydawania zakazu, o którym mowa w art. 25l ust. 1 i 2 oraz art. 25n ust. 1 ustawy – Prawo bankowe, ” , – po lit. i dodaje się lit. ia w brzmieniu: „ ia) wydawania nakazu, o którym mowa w art. 25l ust. 5 oraz art. 25n ust. 4 ustawy – Prawo bankowe, ” , – lit. n otrzymuje brzmienie: „ n) wydawania zezwolenia, o którym mowa w art. 124 ustawy – Prawo bankowe, ” ; w pkt 3 lit. e otrzymuje brzmienie: „ wydawania decyzji, o których mowa w art. 35h, 35l, 35m oraz art. 35o ustawy o działalności ubezpieczeniowej, ” ; w pkt 4: – lit. h otrzymuje brzmienie: „ h) wydawania decyzji, o których mowa w art. 54h, 54l, 54m oraz art. 56 ustawy o funduszach inwestycyjnych, ” , – lit. w otrzymuje brzmienie: „ w) wydawania decyzji, o których mowa w art. 106h, 106l, 106m oraz art. 108 ustawy o obrocie instrumentami finansowymi, ” ;
+- **3)** w art. 12 w ust. 2: w pkt 1: lit. e otrzymuje brzmienie: „ wydawania decyzji, o których mowa w art. 25h ustawy – Prawo bankowe, ” , – uchyla się lit. f-h, lit. i otrzymuje brzmienie: „ wydawania zakazu, o którym mowa w art. 25l ust. 1 i 2 oraz art. 25n ust. 1 ustawy – Prawo bankowe, ” , po lit. i dodaje się lit. ia w brzmieniu: „ wydawania nakazu, o którym mowa w art. 25l ust. 5 oraz art. 25n ust. 4 ustawy – Prawo bankowe, ” , lit. n otrzymuje brzmienie: „ wydawania zezwolenia, o którym mowa w art. 124 ustawy – Prawo bankowe, ” ; w pkt 3 lit. e otrzymuje brzmienie: „ wydawania decyzji, o których mowa w art. 35h, 35l, 35m oraz art. 35o ustawy o działalności ubezpieczeniowej, ” ; w pkt 4: lit. h otrzymuje brzmienie: „ wydawania decyzji, o których mowa w art. 54h, 54l, 54m oraz art. 56 ustawy o funduszach inwestycyjnych, ” , lit. w otrzymuje brzmienie: „ wydawania decyzji, o których mowa w art. 106h, 106l, 106m oraz art. 108 ustawy o obrocie instrumentami finansowymi, ” ;
     - **a)**
+    - **e)**
+    - **i)**
+    - **ia)**
+    - **n)**
     - **b)**
     - **e)**
     - **c)**
+    - **h)**
+    - **w)**
 
 - **4)** art. 19 otrzymuje brzmienie: „
 
@@ -767,7 +773,7 @@ dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 200
 - **1)** art. 25 i 26a ustawy wymienionej w art. 1, w brzmieniu dotychczasowym,
 - **2)** art. 35 i 36 ustawy wymienionej w art. 2, w brzmieniu dotychczasowym,
 - **3)** art. 54, 56 i 57 ustawy wymienionej w art. 3, w brzmieniu dotychczasowym,
-- **4)** art. 106 i 107 ustawy wymienionej w art. 4, w brzmieniu dotychczasowym i niezakończonych do dnia wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+- **4)** art. 106 i 107 ustawy wymienionej w art. 4, w brzmieniu dotychczasowym – i niezakończonych do dnia wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 2. Postępowania, o których mowa w ust. 1, umarza się, w przypadku gdy na podstawie przepisów ustaw wymienionych w art. 1–4 w brzmieniu nadanym niniejszą ustawą nie jest wymagane zawiadomienie Komisji Nadzoru Finansowego.
 
@@ -779,10 +785,9 @@ dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 200
 
 **Art. 8.** Komisja Nadzoru Finansowego może, w drodze decyzji, zakazać wykonywania prawa głosu z akcji banku krajowego na podstawie przepisów ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, w przypadku gdy osoba, która nabyła lub objęła akcje banku nie dochowała zobowiązań dotyczących funkcjonowania banku złożonych Komisji Nadzoru Finansowego w trakcie postępowania w przedmiocie zezwolenia, o którym mowa w art. 25 ust. 1–3 i 8 ustawy wymienionej w art. 1, w brzmieniu dotychczasowym.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji dokonuje wdrożenia:
 
-- **1)** Niniejsza ustawa w zakresie swojej regulacji dokonuje wdrożenia:
 - **1)** dyrektywy 2007/44/WE Parlamentu Europejskiego i Rady z dnia 5 września 2007 r. zmieniającej dyrektywę Rady 92/49/EWG oraz dyrektywy 2002/83/WE, 2004/39/WE, 2005/68/WE i 2006/48/WE w zakresie zasad proceduralnych i kryteriów oceny stosowanych w ramach oceny ostrożnościowej przypadków nabycia lub zwiększenia udziałów w podmiotach sektora finansowego (Dz. Urz. UE L 247 z 21.09.2007, str. 1);
-- **2)** dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 2005 r. w sprawie transgranicznego łączenia się spółek kapitałowych (Dz. Urz. UE L 310 z 25.11.2005, str. 1).
+- **2)** dyrektywy 2005/56/WE Parlamentu Europejskiego i Rady z dnia 26 października 2005 r. w sprawie transgranicznego łączenia się spółek kapitałowych (Dz. Urz. UE L 310 z 25.11.2005, str. 1). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119, Nr 190, poz. 1401 i Nr 245, poz. 1775, z 2007 r. Nr 42, poz. 272 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056, Nr 192, poz. 1179, Nr 209, poz. 1315 i Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 65, poz. 545, Nr 71, poz. 609, Nr 127, poz. 1045, Nr 131, poz. 1075, Nr 144, poz. 1176, Nr 165, poz. 1316, Nr 166, poz. 1317, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 40, poz. 226 i Nr 81, poz. 530. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 81, poz. 530 i Nr 106, poz. 670. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i Nr 157, poz. 1119, z 2008 r. Nr 171, poz. 1056, z 2009 r. Nr 13, poz. 69, Nr 42, poz. 341, Nr 77, poz. 649, Nr 78, poz. 659, Nr 165, poz. 1316, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 201, poz. 1540 i Nr 223, poz. 1776 oraz z 2010 r. Nr 44, poz. 252 i Nr 81, poz. 530. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 42, poz. 272 i Nr 49, poz. 328, z 2008 r. Nr 209, poz. 1317, Nr 228, poz. 1507 i Nr 231, poz. 1546 oraz z 2009 r. Nr 42, poz. 341, Nr 77, poz. 649 i Nr 165, poz. 1316. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280, z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888, Nr 171, poz. 1056 i Nr 216, poz. 1367, z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 47, poz. 278 i Nr 107, poz. 679.
 
 

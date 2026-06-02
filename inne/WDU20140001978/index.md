@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-19 |
 | Data wydania | 2014-12-31 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001978) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1978/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 6e ustawy z dnia 7 lipca 1994 r. o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych (Dz. U. z 2001 r. Nr 59, poz. 609, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 6e ustawy z dnia 7 lipca 1994 r. o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych (Dz. U. z 2001 r. Nr 59, poz. 609, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 143, poz. 1204, z 2009 r. Nr 161, poz. 1277 i Nr 215, poz. 1662 oraz z 2014 r. poz. 1662.) zarządza się, co następuje:
 § 1.
 Maksymalny procentowy udział składników pochodzenia zagranicznego w przychodzie netto z realizacji kontraktu eksportowego, uwzględniając rodzaj eksportowanych produktów i usług lub okres kredytu, ustala się:
 1)
@@ -58,5 +57,5 @@ dokumentów umożliwiających ustalenie pochodzenia produktu lub usługi.
 2.
 W przypadku gdy przedsiębiorca nie ponosi kosztów wytworzenia lub ceny nabycia, o których mowa w art. 6c ust. 1 ustawy, składa oświadczenie w tym zakresie.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 6 sierpnia 2001 r. w sprawie maksymalnego procentowego udziału składników pochodzenia zagranicznego w eksportowanym w ramach kontraktu eksportowego produkcie finalnym, umożliwiającego uznanie tego produktu za krajowy (Dz. U. Nr 101, poz. 1097), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, w związku z wejściem w życie ustawy z dnia 7 listopada 2014 r. o ułatwieniu wykonywania działalności gospodarczej (Dz. U. poz. 1662). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 143, poz. 1204, z 2009 r. Nr 161, poz. 1277 i Nr 215, poz. 1662 oraz z 2014 r. poz. 1662. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 6 sierpnia 2001 r. w sprawie maksymalnego procentowego udziału składników pochodzenia zagranicznego w eksportowanym w ramach kontraktu eksportowego produkcie finalnym, umożliwiającego uznanie tego produktu za krajowy (Dz. U. Nr 101, poz. 1097), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, w związku z wejściem w życie ustawy z dnia 7 listopada 2014 r. o ułatwieniu wykonywania działalności gospodarczej (Dz. U. poz. 1662).
 

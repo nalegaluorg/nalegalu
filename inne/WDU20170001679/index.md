@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 1 sierpnia 2017 r. w sprawie szczegółowych warunków i trybu przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 6. Wspieranie wdrażania Zintegrowanej Polityki Morskiej, zawartego w Programie Operacyjnym „Rybactwo i Morze”
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 1 sierpnia 2017 r. w sprawie szczegółowych warunków i trybu przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 6. Wspieranie wdrażania Zintegrowanej Polityki Morskiej, zawartego w Programie Operacyjnym „Rybactwo i Morze” Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działami administracji rządowej – gospodarka morska i rybołówstwo, na podstawie § 1 ust. 2 pkt 1 i 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-01 |
 | Data wydania | 2017-09-01 |
-| Wejście w życie | 2017-09-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001679) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1679/text.pdf) |
 
@@ -56,7 +55,7 @@ działania i przypadki, w których następcy prawnemu beneficjenta może być pr
 1.
 Pomoc finansową na realizację operacji w ramach Priorytetu 6. Wspieranie wdrażania Zintegrowanej Polityki Morskiej, zawartego w programie, zwaną dalej „pomocą”, przyznaje się na realizację operacji w ramach następujących działań:
 1)
-Zintegrowany Nadzór Morski, o którym mowa w art. 80 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 508/2014”;
+Zintegrowany Nadzór Morski, o którym mowa w art. 80 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43, Dz. Urz. UE L 169 z 28.06.2016, str. 18 i Dz. Urz. UE L 88 z 31.03.2017, str. 22., zwanego dalej „rozporządzeniem nr 508/2014”;
 2)
 promowanie ochrony środowiska morskiego i zrównoważonej eksploatacji zasobów morskich i przybrzeżnych, o którym mowa w art. 80 ust. 1 lit. b rozporządzenia nr 508/2014, zwane dalej „promowaniem ochrony środowiska morskiego i zrównoważonej eksploatacji zasobów”;
 3)
@@ -82,7 +81,7 @@ która znajduje się na liście wniosków o dofinansowanie, a wnioskowana dla te
 3.
 Pomoc przyznaje się w formie zwrotu poniesionych kosztów kwalifikowalnych w wysokości 100% tych kosztów.
 § 3.
-Operacje, o których mowa w § 2 ust. 1, nie kwalifikują się do dofinansowania w przypadku, o którym mowa w art. 65 ust. 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), zwanego dalej „rozporządzeniem nr 1303/2013”.
+Operacje, o których mowa w § 2 ust. 1, nie kwalifikują się do dofinansowania w przypadku, o którym mowa w art. 65 ust. 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1 i Dz. Urz. UE L 176 z 07.07.2017, str. 1., zwanego dalej „rozporządzeniem nr 1303/2013”.
 § 4.
 1.
 Do kosztów kwalifikowalnych operacji, o których mowa w § 2 ust. 1, zalicza się koszty realizacji tych operacji faktycznie poniesione od dnia złożenia wniosku o dofinansowanie, w tym także podatek od towarów i usług (VAT) w przypadku określonym w art. 69 ust. 3 lit. c rozporządzenia nr 1303/2013.
@@ -112,7 +111,7 @@ rat kapitałowych związanych z umową leasingu, która zawiera postanowienia pr
 działań informacyjno-promocyjnych związanych z realizacją operacji.
 § 6.
 1.
-Pomoc na realizację operacji w ramach działania Zintegrowany Nadzór Morski, o którym mowa w art. 80 ust. 1 lit. a rozporządzenia nr 508/2014, zwanego dalej „Zintegrowanym Nadzorem Morskim”, przyznaje się państwowym osobom prawnym lub państwowym jednostkom organizacyjnym nieposiadającym osobowości prawnej, szkołom wyższym oraz jednostkom naukowym w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2016 r. poz. 2045, z późn. zm.).
+Pomoc na realizację operacji w ramach działania Zintegrowany Nadzór Morski, o którym mowa w art. 80 ust. 1 lit. a rozporządzenia nr 508/2014, zwanego dalej „Zintegrowanym Nadzorem Morskim”, przyznaje się państwowym osobom prawnym lub państwowym jednostkom organizacyjnym nieposiadającym osobowości prawnej, szkołom wyższym oraz jednostkom naukowym w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2016 r. poz. 2045, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933 i 2260 oraz z 2017 r. poz. 859, 1475, 1530 i 1556.).
 2.
 Pomoc w ramach działania Zintegrowany Nadzór Morski przyznaje się na:
 1)
@@ -132,7 +131,7 @@ wykaz podmiotów realizujących operację oraz opis ich doświadczenia w zakresi
 3)
 opis planowanej operacji, zawierający w szczególności uzasadnienie celowości operacji;
 4)
-zakres zgodności operacji z zasadami zdefiniowanymi w komunikacie Komisji do Parlamentu Europejskiego i Rady „Poprawa orientacji sytuacyjnej dzięki wzmocnionej współpracy między organami nadzoru morskiego: kolejne kroki w ramach wspólnego mechanizmu wymiany informacji dla obszaru morskiego UE” z dnia 8 lipca 2014 r. [COM(2014) 451 final];
+zakres zgodności operacji z zasadami zdefiniowanymi w komunikacie Komisji do Parlamentu Europejskiego i Rady „Poprawa orientacji sytuacyjnej dzięki wzmocnionej współpracy między organami nadzoru morskiego: kolejne kroki w ramach wspólnego mechanizmu wymiany informacji dla obszaru morskiego UE” z dnia 8 lipca 2014 r. [COM(2014) 451 final]Tekst wymienionego komunikatu jest dostępny na stronie internetowej pod adresem http://eur-lex.europa.eu/legal-content/PL/ALL/?uri=CELEX%3A52014DC0451.;
 5)
 okres realizacji operacji wraz z przewidywanymi skutkami tej operacji;
 6)
@@ -156,8 +155,7 @@ transportu lub zakwaterowania uczestników szkoleń, seminariów, konferencji i 
 c)
 zakupu materiałów konferencyjnych oraz usług cateringowych na potrzeby organizacji szkoleń, seminariów, konferencji i wizyt studyjnych,
 d)
-przygotowania ekspertyz, opracowań i opinii
-z zakresu integracji systemów nadzoru morskiego;
+przygotowania ekspertyz, opracowań i opinii – z zakresu integracji systemów nadzoru morskiego;
 2)
 w zakresie opracowania i wdrożenia rozwiązań służących integracji systemów nadzoru morskiego, w tym projektów testowych – koszty:
 a)
@@ -176,9 +174,9 @@ stowarzyszeniom, fundacjom, organizacjom pożytku publicznego w rozumieniu ustaw
 3)
 jednostkom naukowym realizującym statutowe zadania objęte działem administracji rządowej gospodarka morska, w zakresie transportu morskiego, żeglugi morskiej, obszarów morskich, portów i przystani morskich, przemysłu stoczniowego lub ochrony środowiska morskiego;
 4)
-szkołom wyższym oraz jednostkom międzyuczelnianym lub jednostkom wspólnym powstałym na podstawie porozumienia, o którym mowa w art. 31a ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842, z późn. zm.);
+szkołom wyższym oraz jednostkom międzyuczelnianym lub jednostkom wspólnym powstałym na podstawie porozumienia, o którym mowa w art. 31a ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933, 2169 i 2260 oraz z 2017 r. poz. 60, 777, 858, 859, 1321, 1428 i 1530.);
 5)
-podmiotom realizującym zadania w zakresie parków narodowych, parków krajobrazowych lub obszarów NATURA 2000 zgodnie z ustawą z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2016 r. poz. 2134, z późn. zm.).
+podmiotom realizującym zadania w zakresie parków narodowych, parków krajobrazowych lub obszarów NATURA 2000 zgodnie z ustawą z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2016 r. poz. 2134, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2249 i 2260 oraz z 2017 r. poz. 60, 132, 1074, 1566 i 1595.).
 2.
 Warunkiem przyznania pomocy podmiotom, o których mowa w ust. 1 pkt 2, jest prowadzenie przez te podmioty działalności statutowej w zakresie określonym w tym przepisie przez okres co najmniej 2 lat przed dniem złożenia wniosku o dofinansowanie.
 3.
@@ -445,8 +443,7 @@ Operacja może być realizowana w nie więcej niż czterech etapach, przy czym w
 1)
 36 miesięcy od dnia zawarcia umowy o dofinansowanie – w przypadku operacji realizowanych w kilku etapach,
 2)
-24 miesięcy od dnia zawarcia umowy o dofinansowanie – w przypadku operacji realizowanych w jednym etapie
-lecz nie później niż do dnia 31 marca 2023 r.
+24 miesięcy od dnia zawarcia umowy o dofinansowanie – w przypadku operacji realizowanych w jednym etapie – lecz nie później niż do dnia 31 marca 2023 r.
 5.
 W przypadku gdy operacja jest realizowana w etapach, złożenie pierwszego wniosku o płatność pośrednią następuje nie później niż w terminie 24 miesięcy od dnia zawarcia umowy o dofinansowanie.
 6.
@@ -471,15 +468,14 @@ nie wypłaca pomocy, jeżeli wniosek o płatność nie może zostać rozpatrzony
 6.
 Do wniosku o płatność przepis § 16 ust. 3 stosuje się odpowiednio.
 § 30.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działami administracji rządowej – gospodarka morska i rybołówstwo, na podstawie § 1 ust. 2 pkt 1 i 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43, Dz. Urz. UE L 169 z 28.06.2016, str. 18 i Dz. Urz. UE L 88 z 31.03.2017, str. 22. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1 i Dz. Urz. UE L 176 z 07.07.2017, str. 1. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933 i 2260 oraz z 2017 r. poz. 859, 1475, 1530 i 1556. 5) Tekst wymienionego komunikatu jest dostępny na stronie internetowej pod adresem http://eur-lex.europa.eu/legal-content/PL/ALL/?uri=CELEX%3A52014DC0451. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933, 2169 i 2260 oraz z 2017 r. poz. 60, 777, 858, 859, 1321, 1428 i 1530. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2249 i 2260 oraz z 2017 r. poz. 60, 132, 1074, 1566 i 1595.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działami administracji rządowej – gospodarka morska i rybołówstwo, na podstawie § 1 ust. 2 pkt 1 i 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43, Dz. Urz. UE L 169 z 28.06.2016, str. 18 i Dz. Urz. UE L 88 z 31.03.2017, str. 22. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1 i Dz. Urz. UE L 176 z 07.07.2017, str. 1. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933 i 2260 oraz z 2017 r. poz. 859, 1475, 1530 i 1556. 5) Tekst wymienionego komunikatu jest dostępny na stronie internetowej pod adresem http://eur-lex.europa.eu/legal-content/PL/ALL/?uri=CELEX%3A52014DC0451. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933, 2169 i 2260 oraz z 2017 r. poz. 60, 777, 858, 859, 1321, 1428 i 1530. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2249 i 2260 oraz z 2017 r. poz. 60, 132, 1074, 1566 i 1595.
 
 ## Załącznik nr 1 — – Kryteria wyboru operacji
 
 1.
 Działanie Zintegrowany Nadzór Morski:
 1)
-operacja dotyczy integracji systemów nadzoru lub monitoringu morskiego służących realizacji zadań zdefiniowanych w komunikacie Komisji do Parlamentu Europejskiego i Rady „Poprawa orientacji sytuacyjnej dzięki wzmocnionej współpracy między organami nadzoru morskiego: kolejne kroki w ramach wspólnego mechanizmu wymiany informacji dla obszaru morskiego UE” z dnia 8 lipca 2014 r. [COM(2014) 451 final] (obrony, realizacji polityki celnej, kontroli granicznej, ogólnego egzekwowania prawa, kontroli rybołówstwa, ochrony środowiska morskiego/reagowania na zanieczyszczenia oraz bezpieczeństwa i ochrony na morzu) – 5 pkt;
+operacja dotyczy integracji systemów nadzoru lub monitoringu morskiego służących realizacji zadań zdefiniowanych w komunikacie Komisji do Parlamentu Europejskiego i Rady „Poprawa orientacji sytuacyjnej dzięki wzmocnionej współpracy między organami nadzoru morskiego: kolejne kroki w ramach wspólnego mechanizmu wymiany informacji dla obszaru morskiego UE” z dnia 8 lipca 2014 r. [COM(2014) 451 final]Tekst wymienionego komunikatu jest dostępny na stronie internetowej pod adresem http://eur-lex.europa.eu/legal-content/ PL/ALL/?uri=CELEX%3A52014DC0451. (obrony, realizacji polityki celnej, kontroli granicznej, ogólnego egzekwowania prawa, kontroli rybołówstwa, ochrony środowiska morskiego/reagowania na zanieczyszczenia oraz bezpieczeństwa i ochrony na morzu) – 5 pkt;
 2)
 operacja obejmuje współpracę dwóch lub więcej różnych użytkowników systemów nadzoru morskiego wymienionych w kryterium 1 – 3 pkt;
 3)
@@ -495,7 +491,7 @@ ochronę środowiska morskiego – 3 pkt,
 c)
 zrównoważoną eksploatację zasobów morskich i przybrzeżnych – 2 pkt;
 2)
-operacja służy opracowaniu planów ochrony dla obszarów NATURA 2000 położonych na obszarach morskich w zakresie, o którym mowa w art. 29 ust. 8 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2016 r. poz. 2134, z późn. zm.) – 5 pkt;
+operacja służy opracowaniu planów ochrony dla obszarów NATURA 2000 położonych na obszarach morskich w zakresie, o którym mowa w art. 29 ust. 8 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2016 r. poz. 2134, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2249 i 2260 oraz z 2017 r. poz. 60, 132, 1074, 1566 i 1595.) – 5 pkt;
 3)
 operacja jest działaniem ochronnym wynikającym z planów ochrony dla obszarów NATURA 2000 położonych na obszarach morskich w zakresie, o którym mowa w art. 29 ust. 8 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody – 2 pkt;
 4)
@@ -527,7 +523,7 @@ ochronę środowiska morskiego – 3 pkt,
 c)
 zrównoważoną eksploatację zasobów morskich i przybrzeżnych – 2 pkt;
 3)
-dodatkowo przyznaje się 2 pkt, jeżeli operacja jest skierowana do dzieci lub młodzieży.
+dodatkowo przyznaje się 2 pkt, jeżeli operacja jest skierowana do dzieci lub młodzieży. 1) Tekst wymienionego komunikatu jest dostępny na stronie internetowej pod adresem http://eur-lex.europa.eu/legal-content/ PL/ALL/?uri=CELEX%3A52014DC0451. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2249 i 2260 oraz z 2017 r. poz. 60, 132, 1074, 1566 i 1595.
 
 ## Załącznik nr 2 — – Załączniki do wniosku o dofinansowanie
 

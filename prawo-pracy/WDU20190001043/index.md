@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 maja 2019 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw
+# Ustawa z dnia 16 maja 2019 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 16 września 1982 r. o pracownikach urzędów państwowych oraz ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-16 |
 | Data wydania | 2019-06-06 |
-| Wejście w życie | 2019-09-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001043) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1043/text.pdf) |
+
+Sprawy z zakresu prawa pracy
 
 **Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2019 r. poz. 1040) wprowadza się następujące zmiany:
 
@@ -87,7 +88,7 @@ source: "eli-html"
 
 **Art. 292.** Po upływie terminu przedawnienia roszczenia ze stosunku pracy ten, przeciwko komu przysługuje roszczenie, może uchylić się od jego zaspokojenia, chyba że zrzeka się korzystania z zarzutu przedawnienia. Zrzeczenie się zarzutu przedawnienia dokonane przed upływem terminu przedawnienia jest nieważne. ” .
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693, 2385 i 2432 oraz z 2019 r. poz. 55 i 60.) wprowadza się następujące zmiany:
 
 - **1)** po art. 4771 dodaje się art. 4771a i art. 4771b w brzmieniu: „
 
@@ -101,7 +102,7 @@ source: "eli-html"
 
 - **2)** po art. 6919 dodaje się dział IVb w brzmieniu: „
 
-### Dział IVb Sprawy z zakresu prawa pracy
+### Dział IVb
 
 **Art. 69110.**
 
@@ -142,5 +143,5 @@ source: "eli-html"
 
 **Art. 5.** Do terminów określonych w art. 97 § 21 ustawy, o której mowa w art. 1, które rozpoczęły bieg i nie upłynęły do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 3, który wchodzi w życie po upływie miesiąca od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 3, który wchodzi w życie po upływie miesiąca od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 16 września 1982 r. o pracownikach urzędów państwowych oraz ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693, 2385 i 2432 oraz z 2019 r. poz. 55 i 60.
 

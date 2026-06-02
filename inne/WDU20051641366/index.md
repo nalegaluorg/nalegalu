@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, ustawę z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach, ustawę z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawę z dnia 22 kwietnia 2005 r. o postępowaniu wobec dłużników alimentacyjnych oraz zaliczce alimentacyjnej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-28 |
 | Data wydania | 2005-08-30 |
-| Wejście w życie | 2005-11-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051641366) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1366/text.pdf) |
 
+Agencje zatrudnienia
+Wspieranie pracy zarobkowej w gospodarstwie domowym
 1.
 Osoba prowadząca gospodarstwo domowe informuje powiatowy urząd pracy właściwy ze względu na miejsce położenia tego gospodarstwa o możliwości podjęcia przez bezrobotnego pracy zarobkowej w jej gospodarstwie domowym oraz o swoich wymaganiach warunkujących powierzenie takiej osobie pracy zarobkowej w gospodarstwie domowym. Przepis art. 36 ust. 5 zdanie drugie stosuje się odpowiednio.
 2.
@@ -37,10 +38,9 @@ Osobą prowadzącą gospodarstwo domowe jest osoba:
 1)
 wspólnie z innymi osobami zamieszkująca i gospodarująca w takim gospodarstwie,
 2)
-jednoosobowo prowadząca gospodarstwo domowe
-która podjęła czynności określone w ust. 1 w celu powierzenia bezrobotnemu pracy zarobkowej w swoim gospodarstwie domowym lub jest stroną umowy, którą zawarła w tym celu z bezrobotnym.
+jednoosobowo prowadząca gospodarstwo domowe – która podjęła czynności określone w ust. 1 w celu powierzenia bezrobotnemu pracy zarobkowej w swoim gospodarstwie domowym lub jest stroną umowy, którą zawarła w tym celu z bezrobotnym.
 1.
-Podstawą wykonywania pracy zarobkowej w gospodarstwie domowym przez bezrobotnego jest umowa o świadczenie usług, do której zgodnie z przepisami ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.) stosuje się przepisy dotyczące zlecenia, zwana dalej „umową aktywizacyjną”. Umowę aktywizacyjną zawiera się w formie pisemnej.
+Podstawą wykonywania pracy zarobkowej w gospodarstwie domowym przez bezrobotnego jest umowa o świadczenie usług, do której zgodnie z przepisami ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783 oraz z 2005 r. Nr 48, poz. 462 i Nr 157, poz. 1316.) stosuje się przepisy dotyczące zlecenia, zwana dalej „umową aktywizacyjną”. Umowę aktywizacyjną zawiera się w formie pisemnej.
 2.
 Nie jest dopuszczalne:
 1)
@@ -56,11 +56,10 @@ Powiatowy urząd pracy prowadzi rejestr umów aktywizacyjnych zawartych z bezrob
 6.
 Powiatowy urząd pracy wydaje osobie prowadzącej gospodarstwo domowe, która zawarła umowę aktywizacyjną, zaświadczenie potwierdzające zarejestrowanie tej umowy w celu udokumentowania uprawnień do odliczenia od podatku dochodowego od osób fizycznych, o którym mowa w:
 1)
-art. 27e ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm.);
+art. 27e ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058, z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 65, poz. 595, Nr 84, poz. 774, Nr 90, poz. 844, Nr 96, poz. 874, Nr 122, poz. 1143, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 166, poz. 1608, Nr 202, poz. 1956, Nr 222, poz. 2201, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 99, poz. 1001, Nr 109, poz. 1163, Nr 116, poz. 1203, 1205 i 1207, Nr 120, poz. 1252, Nr 123, poz. 1291, Nr 162, poz. 1691, Nr 210, poz. 2135, Nr 263, poz. 2619 i Nr 281, poz. 2779 i 2781 oraz z 2005 r. Nr 25, poz. 202, Nr 30, poz. 262, Nr 85, poz. 725, Nr 86, poz. 732, Nr 90, poz. 757, Nr 102, poz. 852, Nr 143, poz. 1199 i 1202, Nr 155, poz. 1298 i Nr 164, poz. 1365 i 1366.);
 2)
-art. 14b ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.).
-Powiatowy urząd pracy udostępnia wzór umowy aktywizacyjnej osobom prowadzącym gospodarstwo domowe oraz bezrobotnym, którzy wyrazili gotowość podjęcia pracy zarobkowej w gospodarstwie domowym.
-” ;
+art. 14b ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324, z 2001 r. Nr 74, poz. 784, Nr 88, poz. 961, Nr 125, poz. 1363 i 1369 i Nr 134, poz. 1509, z 2002 r. Nr 141, poz. 1183, Nr 169, poz. 1384, Nr 172, poz. 1412 i Nr 200, poz. 1679, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 135, poz. 1268, Nr 137, poz. 1302 i Nr 202, poz. 1958, z 2004 r. Nr 210, poz. 2135 i Nr 263, poz. 2619 oraz z 2005 r. Nr 143, poz. 1199 i Nr 164, poz. 1366.).
+Powiatowy urząd pracy udostępnia wzór umowy aktywizacyjnej osobom prowadzącym gospodarstwo domowe oraz bezrobotnym, którzy wyrazili gotowość podjęcia pracy zarobkowej w gospodarstwie domowym. ” ;
 36)
 w art. 66:
 a)
@@ -68,77 +67,86 @@ uchyla się ust. 4,
 b)
 w ust. 5 uchyla się pkt 2;
 37)
-w art. 69 ust. 4 otrzymuje brzmienie:
-„
+w art. 69 ust. 4 otrzymuje brzmienie: „
 4.
-Minister właściwy do spraw pracy określi, w drodze rozporządzenia, szczegółowe warunki refundacji kosztów szkoleń oraz wynagrodzeń i składek na ubezpieczenia społeczne, o których mowa w ust. 1 i 2, mając na uwadze prawidłowość wydatkowania środków, a także konieczność zapewnienia zgodności udzielania pomocy publicznej z warunkami dopuszczalności pomocy na szkolenia w przypadku refundacji kosztów szkoleń, o których mowa w ust. 1 i ust. 2 pkt 1, i zasadami udzielania pomocy de minimis w przypadku refundacji wynagrodzeń i składek na ubezpieczenia społeczne, o których mowa w ust. 2 pkt 2.
-” ;
+Minister właściwy do spraw pracy określi, w drodze rozporządzenia, szczegółowe warunki refundacji kosztów szkoleń oraz wynagrodzeń i składek na ubezpieczenia społeczne, o których mowa w ust. 1 i 2, mając na uwadze prawidłowość wydatkowania środków, a także konieczność zapewnienia zgodności udzielania pomocy publicznej z warunkami dopuszczalności pomocy na szkolenia w przypadku refundacji kosztów szkoleń, o których mowa w ust. 1 i ust. 2 pkt 1, i zasadami udzielania pomocy de minimis w przypadku refundacji wynagrodzeń i składek na ubezpieczenia społeczne, o których mowa w ust. 2 pkt 2. ” ;
 38)
-w art. 70 ust. 7 otrzymuje brzmienie:
-„
+w art. 70 ust. 7 otrzymuje brzmienie: „
 7.
-W okresie korzystania ze świadczenia szkoleniowego zwolnionemu pracownikowi przysługuje pomoc w zakresie poradnictwa zawodowego udzielana przez właściwy dla zwolnionego pracownika powiatowy urząd pracy. Pracownik ten może być skierowany na jednorazowe szkolenie organizowane i finansowane przez powiatowy urząd pracy, na zasadach określonych w ustawie.
-” ;
+W okresie korzystania ze świadczenia szkoleniowego zwolnionemu pracownikowi przysługuje pomoc w zakresie poradnictwa zawodowego udzielana przez właściwy dla zwolnionego pracownika powiatowy urząd pracy. Pracownik ten może być skierowany na jednorazowe szkolenie organizowane i finansowane przez powiatowy urząd pracy, na zasadach określonych w ustawie. ” ;
 39)
 w art. 71:
 a)
 w ust. 1 w pkt 2:
-– lit. a otrzymuje brzmienie: „ a) był zatrudniony i osiągał wynagrodzenie w kwocie co najmniej minimalnego wynagrodzenia za pracę, od którego istnieje obowiązek opłacania składki na Fundusz Pracy, z zastrzeżeniem art. 105; w okresie tym nie uwzględnia się okresów urlopów bezpłatnych trwających łącznie dłużej niż 30 dni, ” ,
-– lit. i otrzymuje brzmienie: „ i) był zatrudniony, pełnił służbę lub wykonywał inną pracę zarobkową i osiągał wynagrodzenie lub dochód, od którego istnieje obowiązek opłacania składki na Fundusz Pracy. ” ,
+lit. a otrzymuje brzmienie: „
+a)
+był zatrudniony i osiągał wynagrodzenie w kwocie co najmniej minimalnego wynagrodzenia za pracę, od którego istnieje obowiązek opłacania składki na Fundusz Pracy, z zastrzeżeniem art. 105; w okresie tym nie uwzględnia się okresów urlopów bezpłatnych trwających łącznie dłużej niż 30 dni, ” ,
+lit. i otrzymuje brzmienie: „
+i)
+był zatrudniony, pełnił służbę lub wykonywał inną pracę zarobkową i osiągał wynagrodzenie lub dochód, od którego istnieje obowiązek opłacania składki na Fundusz Pracy. ” ,
 b)
 w ust. 2:
-– pkt 1 otrzymuje brzmienie: „ 1) zasadniczej służby wojskowej, nadterminowej zasadniczej służby wojskowej, przeszkolenia wojskowego absolwentów szkół wyższych, służby wojskowej pełnionej w charakterze kandydata na żołnierza zawodowego, ćwiczeń wojskowych, okresowej służby wojskowej oraz zasadniczej służby w obronie cywilnej i służby zastępczej, a także służby w charakterze funkcjonariusza, o którym mowa w ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.); ” ,
-– pkt 3 otrzymuje brzmienie: „ 3) pobierania renty z tytułu niezdolności do pracy lub służby, o której mowa w pkt 1, renty szkoleniowej oraz przypadające po ustaniu zatrudnienia, wykonywania innej pracy zarobkowej albo zaprzestaniu prowadzenia pozarolniczej działalności okresy pobierania zasiłku chorobowego, macierzyńskiego lub świadczenia rehabilitacyjnego, jeżeli podstawę wymiaru tych zasiłków i świadczenia stanowiła kwota wynosząca co najmniej minimalne wynagrodzenie za pracę, po odliczeniu kwoty składek na ubezpieczenia społeczne należne od pracownika; ” ;
+pkt 1 otrzymuje brzmienie: „
+1)
+zasadniczej służby wojskowej, nadterminowej zasadniczej służby wojskowej, przeszkolenia wojskowego absolwentów szkół wyższych, służby wojskowej pełnionej w charakterze kandydata na żołnierza zawodowego, ćwiczeń wojskowych, okresowej służby wojskowej oraz zasadniczej służby w obronie cywilnej i służby zastępczej, a także służby w charakterze funkcjonariusza, o którym mowa w ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954 oraz z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085.); ” ,
+pkt 3 otrzymuje brzmienie: „
+3)
+pobierania renty z tytułu niezdolności do pracy lub służby, o której mowa w pkt 1, renty szkoleniowej oraz przypadające po ustaniu zatrudnienia, wykonywania innej pracy zarobkowej albo zaprzestaniu prowadzenia pozarolniczej działalności okresy pobierania zasiłku chorobowego, macierzyńskiego lub świadczenia rehabilitacyjnego, jeżeli podstawę wymiaru tych zasiłków i świadczenia stanowiła kwota wynosząca co najmniej minimalne wynagrodzenie za pracę, po odliczeniu kwoty składek na ubezpieczenia społeczne należne od pracownika; ” ;
 40)
 w art. 72:
 a)
-po ust. 5 dodaje się ust. 5a w brzmieniu:
-„
+po ust. 5 dodaje się ust. 5a w brzmieniu: „
 5a.
 Do okresu uprawniającego do zasiłku, od którego zależy wysokość i okres pobierania zasiłku, zalicza się również:
 a)
 okresy zatrudnienia lub innej pracy zarobkowej przebyte przed dniem 1 stycznia 1997 r., jeżeli podstawę wymiaru składki na ubezpieczenia społeczne lub zaopatrzenie emerytalne i Fundusz Pracy stanowiła kwota wynosząca co najmniej połowę wówczas obowiązującego najniższego wynagrodzenia za pracę pracowników, określonego na podstawie odrębnych przepisów; okres prowadzenia działalności pozarolniczej przed dniem 1 stycznia 1997 r. podlega zaliczeniu, pod warunkiem opłacania składek na ubezpieczenia społeczne i Fundusz Pracy z tego tytułu, o ile podstawę wymiaru tych składek stanowiła kwota wynosząca co najmniej połowę wówczas obowiązującego najniższego wynagrodzenia za pracę,
 b)
-okresy zatrudnienia lub innej pracy zarobkowej przebyte przed dniem 1 maja 2004 r. za granicą u pracodawcy zagranicznego w państwie wymienionym w art. 1 ust. 3 pkt 2 lit. a i b, za które były opłacane składki na Fundusz Pracy.
-” ,
+okresy zatrudnienia lub innej pracy zarobkowej przebyte przed dniem 1 maja 2004 r. za granicą u pracodawcy zagranicznego w państwie wymienionym w art. 1 ust. 3 pkt 2 lit. a i b, za które były opłacane składki na Fundusz Pracy. ” ,
 b)
-ust. 6 otrzymuje brzmienie:
-„
+ust. 6 otrzymuje brzmienie: „
 6.
-Zasiłki podlegają waloryzacji z dniem 1 czerwca o średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem w poprzednim roku. Nie dokonuje się waloryzacji zasiłków, w przypadku gdy średnioroczny poziom cen towarów i usług konsumpcyjnych ogółem nie zmienił się lub uległ zmniejszeniu.
-” ,
+Zasiłki podlegają waloryzacji z dniem 1 czerwca o średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem w poprzednim roku. Nie dokonuje się waloryzacji zasiłków, w przypadku gdy średnioroczny poziom cen towarów i usług konsumpcyjnych ogółem nie zmienił się lub uległ zmniejszeniu. ” ,
 c)
-ust. 9 otrzymuje brzmienie:
-„
+ust. 9 otrzymuje brzmienie: „
 9.
-Średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem, o którym mowa w ust. 6, ustala się na podstawie komunikatów Prezesa Głównego Urzędu Statystycznego, ogłaszanych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 94 ust. 1 pkt 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
-” ;
+Średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem, o którym mowa w ust. 6, ustala się na podstawie komunikatów Prezesa Głównego Urzędu Statystycznego, ogłaszanych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 94 ust. 1 pkt 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. ” ;
 41)
 w art. 73:
 a)
-po ust. 2 dodaje się ust. 2a i 2b w brzmieniu:
-„
+po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
 2a.
 W przypadku zmiany przez bezrobotnego pobierającego zasiłek miejsca zamieszkania skutkującej zmianą właściwości powiatowego urzędu pracy bezrobotny jest obowiązany powiadomić o tym fakcie urząd pracy, w którym jest zarejestrowany, oraz stawić się w powiatowym urzędzie pracy właściwym dla nowego miejsca zamieszkania w terminie 14 dni od dnia zmiany miejsca zameldowania.
 2b.
-W przypadku gdy wskutek zmiany miejsca zamieszkania bezrobotny z prawem do zasiłku na okres 6 miesięcy zostaje objęty właściwością powiatowego urzędu pracy, w którym okres pobierania zasiłku wynosi 12 miesięcy, bezrobotnemu nie przysługuje prawo do wydłużenia okresu pobierania zasiłku do 12 miesięcy.
-” ,
+W przypadku gdy wskutek zmiany miejsca zamieszkania bezrobotny z prawem do zasiłku na okres 6 miesięcy zostaje objęty właściwością powiatowego urzędu pracy, w którym okres pobierania zasiłku wynosi 12 miesięcy, bezrobotnemu nie przysługuje prawo do wydłużenia okresu pobierania zasiłku do 12 miesięcy. ” ,
 b)
-ust. 4 i 5 otrzymują brzmienie:
-„
+ust. 4 i 5 otrzymują brzmienie: „
 4.
 Okres pobierania zasiłku, o którym mowa w ust. 1 i 3, ulega skróceniu o okres zatrudnienia w ramach prac interwencyjnych, robót publicznych oraz o okres odbywania stażu lub przygotowania zawodowego w miejscu pracy przypadających na okres, w którym przysługiwałby zasiłek, oraz o okresy nieprzysługiwania zasiłku, o których mowa w art. 75 ust. 1–3.
 5.
-Bezrobotny, który utracił status bezrobotnego na okres krótszy niż 365 dni z powodu podjęcia zatrudnienia, innej pracy zarobkowej, pozarolniczej działalności lub uzyskiwania przychodu w wysokości przekraczającej połowę minimalnego wynagrodzenia za pracę miesięcznie i zarejestrował się w powiatowym urzędzie pracy jako bezrobotny w okresie 14 dni od dnia ustania zatrudnienia, zaprzestania wykonywania innej pracy zarobkowej, prowadzenia pozarolniczej działalności lub osiągania przychodu przekraczającego połowę minimalnego wynagrodzenia za pracę miesięcznie, posiada prawo do zasiłku na czas skrócony o okres pobierania zasiłku przed utratą statusu bezrobotnego oraz o okresy, o których mowa w ust. 4.
-” ;
+Bezrobotny, który utracił status bezrobotnego na okres krótszy niż 365 dni z powodu podjęcia zatrudnienia, innej pracy zarobkowej, pozarolniczej działalności lub uzyskiwania przychodu w wysokości przekraczającej połowę minimalnego wynagrodzenia za pracę miesięcznie i zarejestrował się w powiatowym urzędzie pracy jako bezrobotny w okresie 14 dni od dnia ustania zatrudnienia, zaprzestania wykonywania innej pracy zarobkowej, prowadzenia pozarolniczej działalności lub osiągania przychodu przekraczającego połowę minimalnego wynagrodzenia za pracę miesięcznie, posiada prawo do zasiłku na czas skrócony o okres pobierania zasiłku przed utratą statusu bezrobotnego oraz o okresy, o których mowa w ust. 4. ” ;
 42)
-po art. 73 dodaje się art. 73a w brzmieniu:
-„
+po art. 73 dodaje się art. 73a w brzmieniu: „
 
 **Art. 1.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. Nr 99, poz. 1001 i Nr 273, poz. 2703 oraz z 2005 r. nr 64, poz. 565 i Nr 94, poz. 788) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: w ust. 1: – w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ bezrobotnym – oznacza to osobę, o której mowa w art. 1 ust. 3 pkt 1 i 2 lit. a-e i g, lub cudzoziemca – członka rodziny obywatela polskiego, niezatrudnioną i niewykonującą innej pracy zarobkowej, zdolną i gotową do podjęcia zatrudnienia w pełnym wymiarze czasu pracy obowiązującym w danym zawodzie lub służbie albo innej pracy zarobkowej, albo jeżeli jest osobą niepełnosprawną, zdolną i gotową do podjęcia zatrudnienia co najmniej w połowie tego wymiaru czasu pracy, nieuczącą się w szkole, z wyjątkiem uczącej się w szkole dla dorosłych lub przystępującej do egzaminu eksternistycznego z zakresu tej szkoły lub w szkole wyższej w systemie wieczorowym, zaocznym lub eksternistycznym, zarejestrowaną we właściwym dla miejsca zameldowania stałego lub czasowego powiatowym urzędzie pracy oraz poszukującą zatrudnienia lub innej pracy zarobkowej, jeżeli: ” , – pkt 3–6 otrzymują brzmienie: „ 3) bezrobotnym do 25 roku życia – oznacza to bezrobotnego, który do dnia zastosowania wobec niego usług lub instrumentów rynku pracy nie ukończył 25 roku życia; 4) bezrobotnym powyżej 50 roku życia – oznacza to bezrobotnego, który w dniu zastosowania wobec niego usług lub instrumentów rynku pracy ukończył co najmniej 50 rok życia; 5) bezrobotnym długotrwale – oznacza to bezrobotnego pozostającego w rejestrze powiatowego urzędu pracy łącznie przez okres ponad 12 miesięcy w okresie ostatnich 2 lat, z wyłączeniem okresów odbywania stażu i przygotowania zawodowego w miejscu pracy; 6) bezrobotnym bez kwalifikacji zawodowych – oznacza to bezrobotnego nieposiadającego kwalifikacji do wykonywania jakiegokolwiek zawodu poświadczonych dyplomem, świadectwem, zaświadczeniem instytucji szkoleniowej lub innym dokumentem uprawniającym do wykonywania zawodu; ” , – w pkt 8 lit. b otrzymuje brzmienie: „ b) zstępnego, obywatela polskiego lub cudzoziemca, w wieku do 21 lat lub pozostającego na jego utrzymaniu; ” , – po pkt 10 dodaje się pkt 10a w brzmieniu: „ 10a) indywidualnym planie działania – oznacza to plan działań obejmujący podstawowe usługi rynku pracy wspierane instrumentami rynku pracy w celu zatrudnienia bezrobotnego lub poszukującego pracy; ” , – uchyla się pkt 15, – pkt 22 otrzymuje brzmienie: „ 22) poszukującym pracy – oznacza to osobę niezatrudnioną, o której mowa w art. 1 ust. 3 pkt 1 i 2, lub cudzoziemca, członka rodziny obywatela polskiego lub cudzoziemca członka rodziny obywatela, o którym mowa w art. 1 ust. 3 pkt 2 lit. a i b, poszukującą zatrudnienia lub innej pracy zarobkowej oraz osobę zatrudnioną zgłaszającą zamiar i gotowość podjęcia innej pracy zarobkowej lub zatrudnienia w wyższym wymiarze czasu pracy, dodatkowego albo innego zatrudnienia lub innej pracy zarobkowej, zarejestrowaną w powiatowym urzędzie pracy; ” , – po pkt 23 dodaje się pkt 23a w brzmieniu: „ 23a) pracach społecznie użytecznych – oznacza to prace wykonywane przez bezrobotnych bez prawa do zasiłku na skutek skierowania przez starostę, organizowane przez gminę w jednostkach organizacyjnych pomocy społecznej, organizacjach lub instytucjach statutowo zajmujących się pomocą charytatywną lub na rzecz społeczności lokalnej; ” , – pkt 24 i 25 otrzymują brzmienie: „ 24) przychodach – oznacza to przychody z tytułu innego niż zatrudnienie, inna praca zarobkowa, zasiłek lub inne świadczenie wypłacane z Funduszu Pracy, podlegające opodatkowaniu na podstawie przepisów o podatku dochodowym od osób fizycznych; 25) pracodawcy – oznacza to jednostkę organizacyjną, chociażby nie posiadała osobowości prawnej, a także osobę fizyczną, jeżeli zatrudniają one co najmniej jednego pracownika; ” , – pkt 28 otrzymuje brzmienie: „ 28) przeciętnym wynagrodzeniu – oznacza to przeciętne wynagrodzenie w poprzednim kwartale, od pierwszego dnia następnego miesiąca po ogłoszeniu przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.); ” , – pkt 32 otrzymuje brzmienie: „ 32) robotach publicznych – oznacza to zatrudnienie bezrobotnego, w okresie nie dłuższym niż 12 miesięcy, mające na celu reintegrację zawodową i społeczną, w rozumieniu przepisów o zatrudnieniu socjalnym, przy wykonywaniu prac organizowanych przez gminy, organizacje pozarządowe statutowo zajmujące się problematyką: ochrony środowiska, kultury, oświaty, sportu i turystyki, opieki zdrowotnej, bezrobocia oraz pomocy społecznej, a także spółki wodne i ich związki, jeżeli prace te są finansowane lub dofinansowane ze środków samorządu terytorialnego, budżetu państwa, funduszy celowych, organizacji pozarządowych, spółek wodnych i ich związków; ” , – pkt 37 otrzymuje brzmienie: „ 37) szkoleniu – oznacza to pozaszkolne zajęcia mające na celu uzyskanie, uzupełnienie lub doskonalenie umiejętności i kwalifikacji zawodowych lub ogólnych, potrzebnych do wykonywania pracy, w tym umiejętności poszukiwania zatrudnienia; ” , – pkt 40 otrzymuje brzmienie: „ 40) wykonywaniu pracy przez cudzoziemca – oznacza to zatrudnienie, wykonywanie innej pracy zarobkowej lub pełnienie funkcji w zarządach osób prawnych, które uzyskały wpis do rejestru przedsiębiorców na podstawie przepisów o Krajowym Rejestrze Sądowym lub są spółkami kapitałowymi w organizacji; ” , ust. 3 otrzymuje brzmienie: „
+- **1)** w art. 2: w ust. 1: – w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ bezrobotnym – oznacza to osobę, o której mowa w art. 1 ust. 3 pkt 1 i 2 lit. a-e i g, lub cudzoziemca – członka rodziny obywatela polskiego, niezatrudnioną i niewykonującą innej pracy zarobkowej, zdolną i gotową do podjęcia zatrudnienia w pełnym wymiarze czasu pracy obowiązującym w danym zawodzie lub służbie albo innej pracy zarobkowej, albo jeżeli jest osobą niepełnosprawną, zdolną i gotową do podjęcia zatrudnienia co najmniej w połowie tego wymiaru czasu pracy, nieuczącą się w szkole, z wyjątkiem uczącej się w szkole dla dorosłych lub przystępującej do egzaminu eksternistycznego z zakresu tej szkoły lub w szkole wyższej w systemie wieczorowym, zaocznym lub eksternistycznym, zarejestrowaną we właściwym dla miejsca zameldowania stałego lub czasowego powiatowym urzędzie pracy oraz poszukującą zatrudnienia lub innej pracy zarobkowej, jeżeli: ” , pkt 3–6 otrzymują brzmienie: „
     - **a)**
+
+- **3)** bezrobotnym do 25 roku życia – oznacza to bezrobotnego, który do dnia zastosowania wobec niego usług lub instrumentów rynku pracy nie ukończył 25 roku życia;
+- **4)** bezrobotnym powyżej 50 roku życia – oznacza to bezrobotnego, który w dniu zastosowania wobec niego usług lub instrumentów rynku pracy ukończył co najmniej 50 rok życia;
+- **5)** bezrobotnym długotrwale – oznacza to bezrobotnego pozostającego w rejestrze powiatowego urzędu pracy łącznie przez okres ponad 12 miesięcy w okresie ostatnich 2 lat, z wyłączeniem okresów odbywania stażu i przygotowania zawodowego w miejscu pracy;
+- **6)** bezrobotnym bez kwalifikacji zawodowych – oznacza to bezrobotnego nieposiadającego kwalifikacji do wykonywania jakiegokolwiek zawodu poświadczonych dyplomem, świadectwem, zaświadczeniem instytucji szkoleniowej lub innym dokumentem uprawniającym do wykonywania zawodu; ” , w pkt 8 lit. b otrzymuje brzmienie: „ zstępnego, obywatela polskiego lub cudzoziemca, w wieku do 21 lat lub pozostającego na jego utrzymaniu; ” , po pkt 10 dodaje się pkt 10a w brzmieniu: „
+    - **b)**
+
+- **10a)** indywidualnym planie działania – oznacza to plan działań obejmujący podstawowe usługi rynku pracy wspierane instrumentami rynku pracy w celu zatrudnienia bezrobotnego lub poszukującego pracy; ” , – uchyla się pkt 15, pkt 22 otrzymuje brzmienie: „
+- **22)** poszukującym pracy – oznacza to osobę niezatrudnioną, o której mowa w art. 1 ust. 3 pkt 1 i 2, lub cudzoziemca, członka rodziny obywatela polskiego lub cudzoziemca członka rodziny obywatela, o którym mowa w art. 1 ust. 3 pkt 2 lit. a i b, poszukującą zatrudnienia lub innej pracy zarobkowej oraz osobę zatrudnioną zgłaszającą zamiar i gotowość podjęcia innej pracy zarobkowej lub zatrudnienia w wyższym wymiarze czasu pracy, dodatkowego albo innego zatrudnienia lub innej pracy zarobkowej, zarejestrowaną w powiatowym urzędzie pracy; ” , po pkt 23 dodaje się pkt 23a w brzmieniu: „
+- **23a)** pracach społecznie użytecznych – oznacza to prace wykonywane przez bezrobotnych bez prawa do zasiłku na skutek skierowania przez starostę, organizowane przez gminę w jednostkach organizacyjnych pomocy społecznej, organizacjach lub instytucjach statutowo zajmujących się pomocą charytatywną lub na rzecz społeczności lokalnej; ” , pkt 24 i 25 otrzymują brzmienie: „
+- **24)** przychodach – oznacza to przychody z tytułu innego niż zatrudnienie, inna praca zarobkowa, zasiłek lub inne świadczenie wypłacane z Funduszu Pracy, podlegające opodatkowaniu na podstawie przepisów o podatku dochodowym od osób fizycznych;
+- **25)** pracodawcy – oznacza to jednostkę organizacyjną, chociażby nie posiadała osobowości prawnej, a także osobę fizyczną, jeżeli zatrudniają one co najmniej jednego pracownika; ” , pkt 28 otrzymuje brzmienie: „
+- **28)** przeciętnym wynagrodzeniu – oznacza to przeciętne wynagrodzenie w poprzednim kwartale, od pierwszego dnia następnego miesiąca po ogłoszeniu przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355.); ” , pkt 32 otrzymuje brzmienie: „
+- **32)** robotach publicznych – oznacza to zatrudnienie bezrobotnego, w okresie nie dłuższym niż 12 miesięcy, mające na celu reintegrację zawodową i społeczną, w rozumieniu przepisów o zatrudnieniu socjalnym, przy wykonywaniu prac organizowanych przez gminy, organizacje pozarządowe statutowo zajmujące się problematyką: ochrony środowiska, kultury, oświaty, sportu i turystyki, opieki zdrowotnej, bezrobocia oraz pomocy społecznej, a także spółki wodne i ich związki, jeżeli prace te są finansowane lub dofinansowane ze środków samorządu terytorialnego, budżetu państwa, funduszy celowych, organizacji pozarządowych, spółek wodnych i ich związków; ” , pkt 37 otrzymuje brzmienie: „
+- **37)** szkoleniu – oznacza to pozaszkolne zajęcia mające na celu uzyskanie, uzupełnienie lub doskonalenie umiejętności i kwalifikacji zawodowych lub ogólnych, potrzebnych do wykonywania pracy, w tym umiejętności poszukiwania zatrudnienia; ” , pkt 40 otrzymuje brzmienie: „
+- **40)** wykonywaniu pracy przez cudzoziemca – oznacza to zatrudnienie, wykonywanie innej pracy zarobkowej lub pełnienie funkcji w zarządach osób prawnych, które uzyskały wpis do rejestru przedsiębiorców na podstawie przepisów o Krajowym Rejestrze Sądowym lub są spółkami kapitałowymi w organizacji; ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Badania lekarskie mające na celu stwierdzenie zdolności bezrobotnego do wykonywania pracy, odbywania stażu, przygotowania zawodowego w miejscu pracy, wykonywania prac społecznie użytecznych lub wykonywania pracy na podstawie umowy aktywizacyjnej, o której mowa w art. 61c ust. 1, przeprowadzają, na wniosek powiatowego urzędu pracy, lekarze ubezpieczenia zdrowotnego w rozumieniu przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. Koszty tych badań są finansowane z Funduszu Pracy. ” ;
@@ -154,8 +162,12 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 **Art. 5.** Minister właściwy do spraw pracy pełni funkcję koordynatora publicznych służb zatrudnienia. ” ;
 
 - **4)** uchyla się art. 7;
-- **5)** w art. 8: w ust. 1: – pkt 11 otrzymuje brzmienie: „ 11) organizowanie i koordynowanie oraz świadczenie usług poradnictwa zawodowego i informacji zawodowej, a także ich rozwijanie na terenie województwa; ” , – pkt 15 otrzymuje brzmienie: „ 15) określanie, po zasięgnięciu opinii wojewódzkiej rady zatrudnienia, na podstawie klasyfikacji zawodów i specjalności, o której mowa w art. 4 ust. 1 pkt 7 lit. b, wykazu zawodów, w których za przygotowanie zawodowe młodocianych pracowników może być dokonywana refundacja, o której mowa w art. 12 ust. 6; wykaz zawodów podlega ogłoszeniu w wojewódzkim dzienniku urzędowym; ” , – w pkt 16 kropkę zastępuje się średnikiem i dodaje pkt 17 w brzmieniu: „ 17) prowadzenie rejestru agencji zatrudnienia oraz wydawanie certyfikatów wstępnych i certyfikatów o dokonaniu wpisu do rejestru agencji zatrudnienia. ” , ust. 2 otrzymuje brzmienie: „
+- **5)** w art. 8: w ust. 1: pkt 11 otrzymuje brzmienie: „
     - **a)**
+
+- **11)** organizowanie i koordynowanie oraz świadczenie usług poradnictwa zawodowego i informacji zawodowej, a także ich rozwijanie na terenie województwa; ” , pkt 15 otrzymuje brzmienie: „
+- **15)** określanie, po zasięgnięciu opinii wojewódzkiej rady zatrudnienia, na podstawie klasyfikacji zawodów i specjalności, o której mowa w art. 4 ust. 1 pkt 7 lit. b, wykazu zawodów, w których za przygotowanie zawodowe młodocianych pracowników może być dokonywana refundacja, o której mowa w art. 12 ust. 6; wykaz zawodów podlega ogłoszeniu w wojewódzkim dzienniku urzędowym; ” , w pkt 16 kropkę zastępuje się średnikiem i dodaje pkt 17 w brzmieniu: „
+- **17)** prowadzenie rejestru agencji zatrudnienia oraz wydawanie certyfikatów wstępnych i certyfikatów o dokonaniu wpisu do rejestru agencji zatrudnienia. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. W postępowaniu administracyjnym w sprawach, o których mowa w ust. 1 pkt 8 lit. b i c, organem wyższego stopnia jest minister właściwy do spraw zabezpieczenia społecznego. ” , uchyla się ust. 4, ust. 6 otrzymuje brzmienie: „
@@ -179,8 +191,12 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 
 8a. Utworzenie i likwidacja centrum informacji i planowania kariery zawodowej wymaga zgody ministra właściwego do spraw pracy. ” ;
 
-- **6)** w art. 9: w ust. 1: – w pkt 14: – lit. b otrzymuje brzmienie: „ b) przyznaniu, odmowie przyznania, wstrzymaniu lub wznowieniu wypłaty oraz utracie lub pozbawieniu prawa do zasiłku, dodatku szkoleniowego, stypendium i innych finansowanych z Funduszu Pracy świadczeń niewynikających z zawartych umów, ” , – lit. d otrzymuje brzmienie: „ d) odroczeniu terminu spłaty, rozłożeniu na raty lub umorzeniu części albo całości nienależnie pobranego świadczenia udzielonego z Funduszu Pracy oraz należności z tytułu zwrotu refundacji lub przyznanych jednorazowo środków, o których mowa w art. 46; ” , – w pkt 18 kropkę zastępuje się średnikiem i dodaje pkt 19 w brzmieniu: „ 19) opracowywanie i realizowanie indywidualnych planów działania. ” , po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „
+- **6)** w art. 9: w ust. 1: w pkt 14: lit. b otrzymuje brzmienie: „ przyznaniu, odmowie przyznania, wstrzymaniu lub wznowieniu wypłaty oraz utracie lub pozbawieniu prawa do zasiłku, dodatku szkoleniowego, stypendium i innych finansowanych z Funduszu Pracy świadczeń niewynikających z zawartych umów, ” , lit. d otrzymuje brzmienie: „ odroczeniu terminu spłaty, rozłożeniu na raty lub umorzeniu części albo całości nienależnie pobranego świadczenia udzielonego z Funduszu Pracy oraz należności z tytułu zwrotu refundacji lub przyznanych jednorazowo środków, o których mowa w art. 46; ” , w pkt 18 kropkę zastępuje się średnikiem i dodaje pkt 19 w brzmieniu: „
     - **a)**
+    - **b)**
+    - **d)**
+
+- **19)** opracowywanie i realizowanie indywidualnych planów działania. ” , po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „
     - **b)**
 
 2a. Minister właściwy do spraw pracy przekaże samorządom powiatowym w 2006 r. oraz w 2007 r. z Funduszu Pracy 7% kwoty środków (limitu) Funduszu Pracy ustalonej na rok poprzedni na realizację programów na rzecz promocji zatrudnienia, łagodzenia skutków bezrobocia i aktywizacji zawodowej, o której mowa w art. 109 ust. 2, z wyłączeniem kwot przyznanych ze środków będących w dyspozycji samorządu województwa oraz z rezerwy dysponenta Funduszu Pracy, z przeznaczeniem na finansowanie kosztów wynagrodzenia i składek na ubezpieczenia społeczne pracowników powiatowego urzędu pracy.
@@ -217,7 +233,7 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 - **9)** uchyla się art. 15;
 - **10)** rozdział 6 otrzymuje brzmienie: „
 
-#### Rozdział 6 Agencje zatrudnienia
+#### Rozdział 6
 
 **Art. 18.**
 
@@ -227,7 +243,7 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 - **2)** pośrednictwa do pracy za granicą u pracodawców zagranicznych obywateli polskich,
 - **3)** doradztwa personalnego,
 - **4)** poradnictwa zawodowego,
-- **5)** pracy tymczasowej jest działalnością regulowaną w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807, z późn. zm.), zwanej dalej „ustawą o swobodzie działalności gospodarczej”, i wymaga wpisu do rejestru podmiotów prowadzących agencje zatrudnienia, zwanego dalej „rejestrem”.
+- **5)** pracy tymczasowej – jest działalnością regulowaną w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2777 oraz z 2005 r. Nr 33, poz. 289, Nr 94, poz. 788 i Nr 143, poz. 1199.), zwanej dalej „ustawą o swobodzie działalności gospodarczej”, i wymaga wpisu do rejestru podmiotów prowadzących agencje zatrudnienia, zwanego dalej „rejestrem”.
 
 2. Działalność, o której mowa w ust. 1 pkt 1–4, może być wykonywana także przez jednostki samorządu terytorialnego, szkoły wyższe, stowarzyszenia, fundacje, organizacje społeczne i zawodowe oraz inne organizacje, których statutowym celem jest świadczenie tych usług, pod warunkiem uzyskania wpisu do rejestru.
 
@@ -247,7 +263,7 @@ po art. 73 dodaje się art. 73a w brzmieniu:
     - **a)**
     - **b)**
 
-- **2)** oświadczenie, że świadczone na terytorium Rzeczypospolitej Polskiej usługi w zakresie pośrednictwa pracy, doradztwa personalnego, poradnictwa zawodowego lub pracy tymczasowej są zgodne z: posiadanymi uprawnieniami, wykonywaną działalnością w państwie swojej siedziby, przepisami prawa państwa pochodzenia zawierające elementy, o których mowa w art. 19 ust. 4;
+- **2)** oświadczenie, że świadczone na terytorium Rzeczypospolitej Polskiej usługi w zakresie pośrednictwa pracy, doradztwa personalnego, poradnictwa zawodowego lub pracy tymczasowej są zgodne z: posiadanymi uprawnieniami, wykonywaną działalnością w państwie swojej siedziby, przepisami prawa państwa pochodzenia – zawierające elementy, o których mowa w art. 19 ust. 4;
     - **a)**
     - **b)**
     - **c)**
@@ -318,7 +334,7 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 
 - **1)** oświadczenie następującej treści: „ Oświadczam, że:
 - **1)** dane zawarte we wniosku o wpis do rejestru są kompletne i zgodne z prawdą;
-- **2)** znane mi są i spełniam warunki wykonywania działalności agencji zatrudnienia odpowiednio w zakresie: pośrednictwa pracy na terytorium Rzeczypospolitej Polskiej, pośrednictwa do pracy za granicą u pracodawców zagranicznych obywateli polskich, doradztwa personalnego, poradnictwa zawodowego, pracy tymczasowej określone w ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. ” ;
+- **2)** znane mi są i spełniam warunki wykonywania działalności agencji zatrudnienia odpowiednio w zakresie: pośrednictwa pracy na terytorium Rzeczypospolitej Polskiej, pośrednictwa do pracy za granicą u pracodawców zagranicznych obywateli polskich, doradztwa personalnego, poradnictwa zawodowego, pracy tymczasowej – określone w ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. ” ;
     - **a)**
     - **b)**
     - **c)**
@@ -414,7 +430,7 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 - **13)** w art. 23: w ust. 1 pkt 1 otrzymuje brzmienie: „
     - **a)**
 
-- **1)** wszystkich organizacji związkowych i organizacji pracodawców reprezentatywnych w rozumieniu ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm.); ” , w ust. 2 uchyla się pkt 4, po ust. 4 dodaje się ust. 4a w brzmieniu: „
+- **1)** wszystkich organizacji związkowych i organizacji pracodawców reprezentatywnych w rozumieniu ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1793 i 1800, z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056 oraz z 2004 r. Nr 240, poz. 2407.); ” , w ust. 2 uchyla się pkt 4, po ust. 4 dodaje się ust. 4a w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -630,7 +646,7 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 
 - **1)** szczegółowe warunki i tryb dokonywania refundacji, o której mowa w ust. 1 pkt 1,
 - **2)** szczegółowe warunki i tryb przyznawania bezrobotnemu jednorazowo środków na podjęcie działalności gospodarczej, o których mowa w ust. 1 pkt 2,
-- **3)** formy zabezpieczenia zwrotu otrzymanej refundacji lub środków na podjęcie działalności gospodarczej w przypadku niedotrzymania warunków umowy dotyczącej ich przyznania mając na względzie zwiększenie mobilności bezrobotnych i poszukujących pracy oraz racjonalne gospodarowanie środkami Funduszu Pracy, a także konieczność zapewnienia zgodności udzielania pomocy publicznej dla podmiotów prowadzących działalność gospodarczą z warunkami dopuszczalności pomocy na zatrudnienie w przypadku refundacji kosztów wyposażenia i doposażenia stanowiska pracy dla skierowanego bezrobotnego i zasadami udzielania pomocy de minimis w przypadku pomocy przyznawanej bezrobotnemu w postaci jednorazowej wypłaty środków na rozpoczęcie działalności gospodarczej lub refundacji kosztów pomocy prawnej, konsultacji i doradztwa dotyczących podjęcia takiej działalności. ” ;
+- **3)** formy zabezpieczenia zwrotu otrzymanej refundacji lub środków na podjęcie działalności gospodarczej w przypadku niedotrzymania warunków umowy dotyczącej ich przyznania – mając na względzie zwiększenie mobilności bezrobotnych i poszukujących pracy oraz racjonalne gospodarowanie środkami Funduszu Pracy, a także konieczność zapewnienia zgodności udzielania pomocy publicznej dla podmiotów prowadzących działalność gospodarczą z warunkami dopuszczalności pomocy na zatrudnienie w przypadku refundacji kosztów wyposażenia i doposażenia stanowiska pracy dla skierowanego bezrobotnego i zasadami udzielania pomocy de minimis w przypadku pomocy przyznawanej bezrobotnemu w postaci jednorazowej wypłaty środków na rozpoczęcie działalności gospodarczej lub refundacji kosztów pomocy prawnej, konsultacji i doradztwa dotyczących podjęcia takiej działalności. ” ;
 - **27)** w art. 48 po ust. 3 dodaje się ust. 4 w brzmieniu: „
 
 4. Dodatek aktywizacyjny nie przysługuje w przypadku:
@@ -684,7 +700,7 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 
 - **35)** po rozdziale 11 dodaje się rozdział 11 a w brzmieniu: „
 
-#### Rozdział 11a Wspieranie pracy zarobkowej w gospodarstwie domowym
+#### Rozdział 11a
 
 **Art. 73a.**
 
@@ -711,8 +727,11 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 
 - **1)** w każdym miesiącu – w przypadku bezrobotnych z prawem do zasiłku;
 - **2)** w terminie 7 dni od dnia uzyskania przychodów – w przypadku bezrobotnych bez prawa do zasiłku. W razie niedokonania tych czynności zasiłek lub inne świadczenia z tytułu bezrobocia przysługują od dnia złożenia oświadczenia i innych wymaganych dokumentów. ” ;
-- **44)** w art. 76: w ust. 2: – pkt 3 otrzymuje brzmienie: „ 3) zasiłek, dodatek szkoleniowy, stypendium lub inne świadczenie pieniężne finansowane z Funduszu Pracy wypłacone osobie za okres, za który nabyła prawo do emerytury, świadczenia przedemerytalnego, renty z tytułu niezdolności do pracy, renty szkoleniowej, renty rodzinnej, renty socjalnej, zasiłku chorobowego lub świadczenia rehabilitacyjnego, jeżeli organ rentowy, który przyznał świadczenie, nie dokonał jego pomniejszenia na zasadach określonych w art. 78; ” , – w pkt 6 kropkę zastępuje się średnikiem i dodaje pkt 7 w brzmieniu: „ 7) świadczenie przedemerytalne wypłacone w kwocie zaliczkowej, jeżeli organ rentowy odmówił wydania decyzji ustalającej wysokość emerytury w celu ustalenia wysokości świadczenia przedemerytalnego. ” , ust. 7 otrzymuje brzmienie: „
+- **44)** w art. 76: w ust. 2: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** zasiłek, dodatek szkoleniowy, stypendium lub inne świadczenie pieniężne finansowane z Funduszu Pracy wypłacone osobie za okres, za który nabyła prawo do emerytury, świadczenia przedemerytalnego, renty z tytułu niezdolności do pracy, renty szkoleniowej, renty rodzinnej, renty socjalnej, zasiłku chorobowego lub świadczenia rehabilitacyjnego, jeżeli organ rentowy, który przyznał świadczenie, nie dokonał jego pomniejszenia na zasadach określonych w art. 78; ” , w pkt 6 kropkę zastępuje się średnikiem i dodaje pkt 7 w brzmieniu: „
+- **7)** świadczenie przedemerytalne wypłacone w kwocie zaliczkowej, jeżeli organ rentowy odmówił wydania decyzji ustalającej wysokość emerytury w celu ustalenia wysokości świadczenia przedemerytalnego. ” , ust. 7 otrzymuje brzmienie: „
     - **b)**
 
 7. Starosta może odroczyć termin płatności lub rozłożyć na raty nienależnie pobrane świadczenie, zwrot refundacji oraz jednorazowo przyznanych środków w przypadkach, o których mowa w art. 46 ust. 2 i 3, albo po zasięgnięciu opinii powiatowej rady zatrudnienia umorzyć te należności w całości albo w części, jeżeli wystąpiła jedna z przesłanek:
@@ -762,7 +781,7 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 - **5b)** zstępny obywatela polskiego lub cudzoziemca – małżonka obywatela polskiego, o którym mowa w pkt 5a, niebędący obywatelem państwa, o którym mowa w art. 1 ust. 3 pkt 2 lit. a i b, jeżeli posiada zezwolenie na zamieszkanie na czas oznaczony na terytorium Rzeczypospolitej Polskiej; ” , pkt 6 otrzymuje brzmienie: „
     - **c)**
 
-- **6)** członkowie rodziny cudzoziemca, o którym mowa w pkt 1–4: będący małżonkiem tego cudzoziemca posiadającym zezwolenie na zamieszkanie na czas oznaczony na terytorium Rzeczypospolitej Polskiej udzielone w związku z zawarciem związku małżeńskiego, posiadający zezwolenie na zamieszkanie na czas oznaczony na terytorium Rzeczypospolitej Polskiej udzielone na podstawie art. 53 ust. 1 pkt 7 lub 14 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. Nr 128, poz. 1175, z późn. zm.) lub będący zstępnymi cudzoziemca posiadającego zgodę na pobyt tolerowany na terytorium Rzeczypospolitej Polskiej, jeżeli uzyskali zezwolenie na zamieszkanie na czas oznaczony na terytorium Rzeczypospolitej Polskiej, lub będący zstępnymi cudzoziemca korzystającego z ochrony czasowej na terytorium Rzeczypospolitej Polskiej, jeżeli uzyskali zezwolenie na zamieszkanie na czas oznaczony na terytorium Rzeczypospolitej Polskiej; ” ;
+- **6)** członkowie rodziny cudzoziemca, o którym mowa w pkt 1–4: będący małżonkiem tego cudzoziemca posiadającym zezwolenie na zamieszkanie na czas oznaczony na terytorium Rzeczypospolitej Polskiej udzielone w związku z zawarciem związku małżeńskiego, posiadający zezwolenie na zamieszkanie na czas oznaczony na terytorium Rzeczypospolitej Polskiej udzielone na podstawie art. 53 ust. 1 pkt 7 lub 14 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. Nr 128, poz. 1175, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 179, poz. 1842 oraz z 2005 r. Nr 90, poz. 757, Nr 94, poz. 788, Nr 132, poz. 1105 i Nr 163, poz. 1362.) lub będący zstępnymi cudzoziemca posiadającego zgodę na pobyt tolerowany na terytorium Rzeczypospolitej Polskiej, jeżeli uzyskali zezwolenie na zamieszkanie na czas oznaczony na terytorium Rzeczypospolitej Polskiej, lub będący zstępnymi cudzoziemca korzystającego z ochrony czasowej na terytorium Rzeczypospolitej Polskiej, jeżeli uzyskali zezwolenie na zamieszkanie na czas oznaczony na terytorium Rzeczypospolitej Polskiej; ” ;
     - **a)**
     - **b)**
 
@@ -785,11 +804,13 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 - **4)** wykonywała zadania w zakresie pośrednictwa pracy przez okres co najmniej 12 miesięcy w publicznych służbach zatrudnienia; ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
-3. Osoba niespełniająca warunku, o którym mowa w ust. 2 pkt 4, może wykonywać czynności na stanowisku pośrednika pracy – stażysty pod nadzorem pośrednika pracy. ” , w ust. 4 uchyla się pkt 2, w ust. 5: – pkt 1 otrzymuje brzmienie: „ 1) posiada tytuł zawodowy magistra lub inny równorzędny; ” , – pkt 3 otrzymuje brzmienie: „ 3) ukończyła studia podyplomowe w zakresie pośrednictwa pracy. ” , po ust. 5 dodaje się ust. 6 w brzmieniu: „
+3. Osoba niespełniająca warunku, o którym mowa w ust. 2 pkt 4, może wykonywać czynności na stanowisku pośrednika pracy – stażysty pod nadzorem pośrednika pracy. ” , w ust. 4 uchyla się pkt 2, w ust. 5: pkt 1 otrzymuje brzmienie: „
 
 - **c)**
 - **d)**
-- **e)**
+- **1)** posiada tytuł zawodowy magistra lub inny równorzędny; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** ukończyła studia podyplomowe w zakresie pośrednictwa pracy. ” , po ust. 5 dodaje się ust. 6 w brzmieniu: „
+    - **e)**
 
 6. Pośrednik pracy, o którym mowa w ust. 1 pkt 2–4, jest obowiązany doskonalić kwalifikacje zawodowe. ” ;
 
@@ -829,16 +850,26 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 - **1)** licencja zawodowa doradcy zawodowego;
 - **2)** licencja zawodowa doradcy zawodowego I stopnia;
 - **3)** licencja zawodowa doradcy zawodowego II stopnia. ” ;
-- **57)** w art. 96: w ust. 2: – pkt 3 otrzymuje brzmienie: „ 3) posiada tytuł zawodowy magistra lub inny równorzędny; ” , – uchyla się pkt 5, w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Samodzielnym specjalistą do spraw rozwoju zawodowego może zostać osoba spełniająca łącznie warunki, o których mowa w ust. 2 pkt 1 i 2, która: ” , – pkt 1 otrzymuje brzmienie: „ 1) posiada tytuł zawodowy magistra lub inny równorzędny; ” , – pkt 3 otrzymuje brzmienie: „ 3) ukończyła studia podyplomowe z zakresu rozwoju zasobów ludzkich potwierdzone odpowiednimi dokumentami. ” , ust. 4 otrzymuje brzmienie: „
+- **57)** w art. 96: w ust. 2: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** posiada tytuł zawodowy magistra lub inny równorzędny; ” , – uchyla się pkt 5, w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Samodzielnym specjalistą do spraw rozwoju zawodowego może zostać osoba spełniająca łącznie warunki, o których mowa w ust. 2 pkt 1 i 2, która: ” , pkt 1 otrzymuje brzmienie: „
     - **b)**
+
+- **1)** posiada tytuł zawodowy magistra lub inny równorzędny; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** ukończyła studia podyplomowe z zakresu rozwoju zasobów ludzkich potwierdzone odpowiednimi dokumentami. ” , ust. 4 otrzymuje brzmienie: „
     - **c)**
 
 4. Specjalista do spraw rozwoju zawodowego, o którym mowa w ust. 2 i 3, jest obowiązany doskonalić kwalifikacje zawodowe. ” ;
 
-- **58)** w art. 97: w ust. 2: – pkt 3 otrzymuje brzmienie: „ 3) posiada tytuł zawodowy magistra lub inny równorzędny; ” , – uchyla się pkt 5, w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) posiada tytuł zawodowy magistra lub inny równorzędny; ” , – pkt 3 otrzymuje brzmienie: „ 3) ukończyła studia podyplomowe z zakresu programów i projektów rynku pracy potwierdzone odpowiednimi dokumentami. ” , ust. 4 otrzymuje brzmienie: „
+- **58)** w art. 97: w ust. 2: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** posiada tytuł zawodowy magistra lub inny równorzędny; ” , – uchyla się pkt 5, w ust. 3: pkt 1 otrzymuje brzmienie: „
     - **b)**
+
+- **1)** posiada tytuł zawodowy magistra lub inny równorzędny; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** ukończyła studia podyplomowe z zakresu programów i projektów rynku pracy potwierdzone odpowiednimi dokumentami. ” , ust. 4 otrzymuje brzmienie: „
     - **c)**
 
 4. Specjalista, o którym mowa w ust. 2 i 3, jest obowiązany doskonalić kwalifikacje zawodowe. ” ;
@@ -912,7 +943,7 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 
 - **66)** po art. 106 dodaje się art. 106a w brzmieniu: „
 
-**Art. 106a.** Środki Funduszu Pracy mogą być przeznaczane na prefinansowanie, w rozumieniu art. 4 ust. 2 pkt 5 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. Nr 15, poz. 148, z późn. zm.), działań z zakresu udziału publicznych służb zatrudnienia w sieci EURES. ” ;
+**Art. 106a.** Środki Funduszu Pracy mogą być przeznaczane na prefinansowanie, w rozumieniu art. 4 ust. 2 pkt 5 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. Nr 15, poz. 148, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851, z 2004 r. Nr 19, poz. 177, Nr 93, poz. 890, Nr 121, poz. 1264, Nr 123, poz. 1291, Nr 210, poz. 2135 i Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114 i Nr 64, poz. 565.), działań z zakresu udziału publicznych służb zatrudnienia w sieci EURES. ” ;
 
 - **67)** w art. 108 w ust. 1: uchyla się pkt 3, pkt 4 otrzymuje brzmienie: „
     - **a)**
@@ -1061,16 +1092,16 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 2. Przepis ust. 1 stosuje się odpowiednio w przypadku ponownego obliczenia przez organ rentowy wysokości emerytury dla celów ustalenia wysokości świadczenia przedemerytalnego wskutek:
 
 - **1)** doliczenia dotychczas nieuwzględnionego okresu uprawniającego do emerytury, przebytego przed nabyciem prawa do świadczenia przedemerytalnego,
-- **2)** ponownego ustalenia podstawy wymiaru w myśl art. 111 ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych lub doliczenia dotychczas nieuwzględnionego dochodu – przychodu stanowiącego podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe lub na ubezpieczenie społeczne na podstawie przepisów prawa polskiego za okres, który wskazano do ustalenia podstawy wymiaru emerytury z tym, że wysokość emerytury oblicza się przy zastosowaniu kwoty bazowej ostatnio przyjętej do obliczenia wysokości tej emerytury.
+- **2)** ponownego ustalenia podstawy wymiaru w myśl art. 111 ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych lub doliczenia dotychczas nieuwzględnionego dochodu – przychodu stanowiącego podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe lub na ubezpieczenie społeczne na podstawie przepisów prawa polskiego za okres, który wskazano do ustalenia podstawy wymiaru emerytury – z tym, że wysokość emerytury oblicza się przy zastosowaniu kwoty bazowej ostatnio przyjętej do obliczenia wysokości tej emerytury.
 
 3. W przypadku ujawnienia okoliczności, o których mowa w ust. 1, dochodzenia zwrotu nienależnie pobranych świadczeń przedemerytalnych za okres przypadający przed dniem przejęcia przez Zakład Ubezpieczeń Społecznych wypłaty tych świadczeń dokonują powiatowe urzędy pracy według zasad określonych w przepisach o zatrudnieniu i przeciwdziałaniu bezrobociu.
 
 4. Przepisy ust. 1 i 3 stosuje się odpowiednio do zasiłków przedemerytalnych. ” .
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058, z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 65, poz. 595, Nr 84, poz. 774, Nr 90, poz. 844, Nr 96, poz. 874, Nr 122, poz. 1143, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 166, poz. 1608, Nr 202, poz. 1956, Nr 222, poz. 2201, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 29, poz. 257, Nr 93, poz. 894, Nr 99, poz. 1001, Nr 109, poz. 1163, Nr 116, poz. 1203, 1205 i 1207, Nr 120, poz. 1252, Nr 123, poz. 1291, Nr 162, poz. 1691, Nr 210, poz. 2135, Nr 263, poz. 2619 i Nr 281, poz. 2779 i 2781 oraz z 2005 r. Nr 25, poz. 202, Nr 30, poz. 262, Nr 85, poz. 725, Nr 86, poz. 732, Nr 90, poz. 757, Nr 102, poz. 852, Nr 143, poz. 1199 i 1202, Nr 155, poz. 1298 i Nr 164, poz. 1365.) wprowadza się następujące zmiany:
 
 - **1)** w art. 21 w ust. 1 po pkt 120 dodaje się pkt 121 w brzmieniu: „
-- **121)** jednorazowe środki przyznane bezrobotnemu na podjęcie działalności, o których mowa w art. 46 ust. 1 pkt 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. Nr 99, poz. 1001, z późn. zm.). ” ;
+- **121)** jednorazowe środki przyznane bezrobotnemu na podjęcie działalności, o których mowa w art. 46 ust. 1 pkt 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. Nr 99, poz. 1001, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 64, poz. 565, Nr 94, poz. 788 i Nr 164, poz. 1366.). ” ;
 - **2)** po art. 27d dodaje się art. 27e w brzmieniu: „
 
 1. Osobie prowadzącej gospodarstwo domowe, która zgodnie z przepisami o promocji zatrudnienia i instytucjach rynku pracy zawarta umowę aktywizacyjną z osobą bezrobotną w celu wykonywania pracy zarobkowej w gospodarstwie domowym i poniosła z tego tytułu wydatki z własnych środków na opłacenie składek na ubezpieczenia społeczne, przysługuje odliczenie od podatku obliczonego zgodnie z art. 27, na zasadach określonych w ust. 2–5, po każdym okresie 12 miesięcy nieprzerwanego trwania tej umowy.
@@ -1110,7 +1141,7 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 - **4)** w art. 45 w ust. 3a dodaje się pkt 4 w brzmieniu: „
 - **4)** odliczonych wydatków, o których mowa w art. 27e. ” .
 
-**Art. 3.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. Nr 123, poz. 776, z późn. zm.) art. 11 otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. Nr 123, poz. 776, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1082, z 1998 r. Nr 99, poz. 628, Nr 106, poz. 668, Nr 137, poz. 887, Nr 156, poz. 1019 i Nr 162, poz. 1118 i 1126, z 1999 r. Nr 49, poz. 486, Nr 90, poz. 1001, Nr 95, poz. 1101 i Nr 111, poz. 1280, z 2000 r. Nr 48, poz. 550 i Nr 119, poz. 1249, z 2001 r. Nr 39, poz. 459, Nr 100, poz. 1080, Nr 125, poz. 1368, Nr 129, poz. 1444 i Nr 154, poz. 1792 i 1800, z 2002 r. Nr 169, poz. 1387, Nr 200, poz. 1679 i 1683 i Nr 241, poz. 2074, z 2003 r. Nr 7, poz. 79, Nr 90, poz. 844, Nr 223, poz. 2217 i Nr 228, poz. 2262, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001 i Nr 240, poz. 2407 oraz z 2005 r. Nr 44, poz. 422, Nr 132, poz. 1110 i Nr 163, poz. 1362.) art. 11 otrzymuje brzmienie: „
 
 **Art. 11.**
 
@@ -1126,7 +1157,7 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 - **1)** bezrobotne – ze środków Funduszu Pracy,
 - **2)** poszukujące pracy niepozostające w zatrudnieniu – ze środków Funduszu. ” .
 
-**Art. 4.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. Nr 137, poz. 887, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. Nr 137, poz. 887, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 162, poz. 1118 i 1126, z 1999 r. Nr 26, poz. 228, Nr 60, poz. 636, Nr 72, poz. 802, Nr 78, poz. 875 i Nr 110, poz. 1256, z 2000 r. Nr 9, poz. 118, Nr 95, poz. 1041, Nr 104, poz. 1104 i Nr 119, poz. 1249, z 2001 r. Nr 8, poz. 64, Nr 27, poz. 298, Nr 39, poz. 459, Nr 72, poz. 748, Nr 100, poz. 1080, Nr 110, poz. 1189, Nr 111, poz. 1194, Nr 130, poz. 1452 i Nr 154, poz. 1792, z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365, Nr 74, poz. 676, Nr 155, poz. 1287, Nr 169, poz. 1387, Nr 199, poz. 1673, Nr 200, poz. 1679 i Nr 241, poz. 2074, z 2003 r. Nr 56, poz. 498, Nr 65, poz. 595, Nr 135, poz. 1268, Nr 149, poz. 1450, Nr 166, poz. 1609, Nr 170, poz. 1651, Nr 190, poz. 1864, Nr 210, poz. 2037, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 19, poz. 177, Nr 64, poz. 593, Nr 99, poz. 1001, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808, Nr 187, poz. 1925 i Nr 210, poz. 2135 oraz z 2005 r. Nr 64, poz. 565, Nr 86, poz. 732, Nr 132, poz. 1110, Nr 143, poz. 1199 i 1202, Nr 150, poz. 1248 i Nr 163, poz. 1362.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 w pkt 2 po lit. z dodaje się lit. za w brzmieniu: „ inne niż powiatowe urzędy pracy podmioty kierujące – w stosunku do osób pobierających stypendium w okresie stażu lub przygotowania zawodowego – którymi są: – jednostki samorządu terytorialnego i ich jednostki organizacyjne – z wyjątkiem wojewódzkich i powiatowych urzędów pracy, – Ochotnicze Hufce Pracy, – agencje zatrudnienia, – instytucje szkoleniowe, – instytucje dialogu społecznego, – instytucje partnerstwa lokalnego, – organizacje pozarządowe działające na rzecz rozwoju zasobów ludzkich i przeciwdziałania bezrobociu, – jednostki naukowe, – organizacje pracodawców, – związki zawodowe, – ośrodki doradztwa rolniczego, – ośrodki poradnictwa zawodowego i psychologicznego, – korzystające z publicznych środków wspólnotowych i publicznych środków krajowych na podstawie umowy o dofinansowanie projektu albo decyzji, o których mowa w przepisach ustawy z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. Nr 116, poz. 1206 oraz z 2005 r. Nr 90, poz. 759), ” ;
     - **za)**
@@ -1152,7 +1183,7 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 - **8)** osób, o których mowa w art. 6 ust. 1 pkt 9a – stanowi kwota stypendium. ” ;
 - **7)** w art. 36 ust. 2 otrzymuje brzmienie: „
 
-2. Obowiązek zgłoszenia do ubezpieczeń społecznych osób określonych w art. 6 ust. 1 pkt 1–4, 6–9a, 11, 12, 18a-21, ust. 2 i ust. 2a, duchownych będących członkami zakonów lub klasztorów oraz osób współpracujących, o których mowa w art. 8 ust. 11, należy do płatnika składek. ” . W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.) wprowadza się następujące zmiany:
+2. Obowiązek zgłoszenia do ubezpieczeń społecznych osób określonych w art. 6 ust. 1 pkt 1–4, 6–9a, 11, 12, 18a-21, ust. 2 i ust. 2a, duchownych będących członkami zakonów lub klasztorów oraz osób współpracujących, o których mowa w art. 8 ust. 11, należy do płatnika składek. ” . W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324, z 2001 r. Nr 74, poz. 784, Nr 88, poz. 961, Nr 125, poz. 1363 i 1369 i Nr 134, poz. 1509, z 2002 r. Nr 141, poz. 1183, Nr 169, poz. 1384, Nr 172, poz. 1412 i Nr 200, poz. 1679, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 135, poz. 1268, Nr 137, poz. 1302 i Nr 202, poz. 1958, z 2004 r. Nr 210, poz. 2135 i Nr 263, poz. 2619 oraz z 2005 r. Nr 143, poz. 1199.) wprowadza się następujące zmiany:
 
 - **1)** dodaje się art. 14b w brzmieniu: „
 
@@ -1165,7 +1196,7 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 - **2)** w art. 21 w ust. 2a dodaje się pkt 4 w brzmieniu: „
 - **4)** otrzymania zwrotu uprzednio odliczonych wydatków, o których mowa w art. 27e ustawy o podatku dochodowym. ” .
 
-**Art. 6.** W ustawie z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. Nr 199, poz. 1673, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. Nr 199, poz. 1673, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 241, poz. 2074, z 2003 r. Nr 83, poz. 760 i Nr 223, poz. 2217 oraz z 2004 r. Nr 99, poz. 1001, Nr 121, poz. 1264, Nr 187, poz. 1925 i Nr 210, poz. 2135.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 w ust. 3 pkt 4 otrzymuje brzmienie: „
 - **4)** odbywania szkolenia, stażu lub przygotowania zawodowego w miejscu pracy przez osobę pobierającą stypendium w okresie odbywania tego szkolenia, stażu lub przygotowania zawodowego w miejscu pracy na podstawie skierowania wydanego przez powiatowy urząd pracy lub przez inny podmiot kierujący; ” ;
@@ -1174,9 +1205,9 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 - **3)** w art. 9 w ust. 4 pkt 3 otrzymuje brzmienie: „
 - **3)** kwota otrzymanego za ten miesiąc stypendium – dla ubezpieczonych będących osobami pobierającymi stypendium w okresie odbywania szkolenia, stażu lub przygotowania zawodowego w miejscu pracy, na które zostały skierowane przez powiatowy urząd pracy lub inny podmiot kierujący; ” .
 
-**Art. 7.** W ustawie z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach (Dz. U. Nr 199, poz. 1674, z późn. zm.) w art. 2 w ust. 1 dodaje się pkt 14 w brzmieniu: „
+**Art. 7.** W ustawie z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach (Dz. U. Nr 199, poz. 1674, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 83, poz. 760, Nr 96, poz. 874 i Nr 122, poz. 1143 oraz z 2004 r. Nr 121, poz. 1264 i Nr 210, poz. 2135.) w art. 2 w ust. 1 dodaje się pkt 14 w brzmieniu: „
 
-- **14)** przy wykonywaniu przez bezrobotnego prac społecznie użytecznych, o których mowa w art. 73a ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. Nr 99, poz. 1001, z późn. zm.). ” .
+- **14)** przy wykonywaniu przez bezrobotnego prac społecznie użytecznych, o których mowa w art. 73a ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. Nr 99, poz. 1001, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 64, poz. 565, Nr 94, poz. 788 i Nr 164, poz. 1366.). ” .
 
 **Art. 8.** W ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. Nr 122, poz. 1143 oraz z 2004 r. Nr 69, poz. 624 i Nr 99, poz. 1001) wprowadza się następujące zmiany:
 
@@ -1184,7 +1215,7 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 - **5)** długotrwale bezrobotnych w rozumieniu przepisów o promocji zatrudnienia i instytucjach rynku pracy, ” ;
 - **2)** w art. 16 ust. 5 otrzymuje brzmienie: „
 
-5. Refundacja, o której mowa w ust. 2, jest finansowana ze środków Funduszu Pracy na zasadach określonych dla robót publicznych, o których mowa w przepisach o promocji zatrudnienia i instytucjach rynku pracy. ” . W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. Nr 64, poz. 593, z późn. zm.) wprowadza się następujące zmiany:
+5. Refundacja, o której mowa w ust. 2, jest finansowana ze środków Funduszu Pracy na zasadach określonych dla robót publicznych, o których mowa w przepisach o promocji zatrudnienia i instytucjach rynku pracy. ” . W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. Nr 64, poz. 593, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 99, poz. 1001 i Nr 273, poz. 2703 oraz z 2005 r. Nr 64, poz. 565 i Nr 94, poz. 788.) wprowadza się następujące zmiany:
 
 - **1)** w art. 8: ust. 4 otrzymuje brzmienie: „
     - **a)**
@@ -1218,7 +1249,7 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 
 1. W celu określenia sposobu współdziałania w rozwiązywaniu problemów osoby lub rodziny znajdującej się w trudnej sytuacji życiowej pracownik socjalny ośrodka pomocy społecznej może zawrzeć kontrakt socjalny z tą osobą lub rodziną. ” .
 
-**Art. 10.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 10.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 94, poz. 788, Nr 132, poz. 1110, Nr 138, poz. 1154 i Nr 157, poz. 1314.) wprowadza się następujące zmiany:
 
 - **1)** w art. 66: w ust. 1 po pkt 24 dodaje się pkt 24a w brzmieniu: „
     - **a)**
@@ -1245,7 +1276,7 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 - **9)** organizacja pracodawców,
 - **10)** związek zawodowy,
 - **11)** ośrodek doradztwa rolniczego,
-- **12)** ośrodek poradnictwa zawodowego i psychologicznego korzystający z publicznych środków wspólnotowych i publicznych środków krajowych na podstawie umowy o dofinansowanie projektu albo decyzji, o których mowa w przepisach ustawy z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. Nr 116, poz. 1206 oraz z 2005 r. Nr 90, poz. 759). ” ;
+- **12)** ośrodek poradnictwa zawodowego i psychologicznego – korzystający z publicznych środków wspólnotowych i publicznych środków krajowych na podstawie umowy o dofinansowanie projektu albo decyzji, o których mowa w przepisach ustawy z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. Nr 116, poz. 1206 oraz z 2005 r. Nr 90, poz. 759). ” ;
 - **4)** w art. 81 w ust. 8 po pkt 5 dodaje się pkt 5a w brzmieniu: „
 - **5a)** osób, o których mowa w art. 66 ust. 1 pkt 24a, jest kwota odpowiadająca wysokości pobieranego stypendium; ” ;
 - **5)** w art. 85 po ust. 6 dodaje się ust. 6a w brzmieniu: „
@@ -1273,8 +1304,10 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 - **6)** po art. 10 dodaje się art. 10a w brzmieniu: „ Organ właściwy wierzyciela może bez zgody strony zmienić lub uchylić ostateczną decyzję administracyjną, na mocy której strona nabyła prawo do zaliczki, jeżeli uległa zmianie sytuacja rodzinna lub dochodowa rodziny mająca wpływ na prawo do zaliczki albo osoba nienależnie pobrała zaliczkę. ” ;
 - **7)** w art. 11 w ust. 1 uchyla się pkt 1;
 - **8)** w art. 14 uchyla się ust. 2;
-- **9)** w art. 27: w pkt 2 w lit. j: – w pkt 23 lit. d otrzymuje brzmienie: „ d) utratą emerytury, renty, renty rodzinnej lub renty socjalnej, ” , – w pkt 24 lit. d otrzymuje brzmienie: „ d) uzyskaniem emerytury, renty, renty rodzinnej lub renty socjalnej, ” , w pkt 8: – w lit. a, w ust. 1 uchyla się pkt 3, – uchyla się lit. b, pkt 14 otrzymuje brzmienie: „
+- **9)** w art. 27: w pkt 2 w lit. j: w pkt 23 lit. d otrzymuje brzmienie: „ utratą emerytury, renty, renty rodzinnej lub renty socjalnej, ” , w pkt 24 lit. d otrzymuje brzmienie: „ uzyskaniem emerytury, renty, renty rodzinnej lub renty socjalnej, ” , w pkt 8: – w lit. a, w ust. 1 uchyla się pkt 3, – uchyla się lit. b, pkt 14 otrzymuje brzmienie: „
     - **a)**
+    - **d)**
+    - **d)**
     - **b)**
     - **c)**
 
@@ -1316,6 +1349,6 @@ po art. 73 dodaje się art. 73a w brzmieniu:
 - **2)** art. 1 pkt 13 lit. a, który wchodzi w życie z dniem 30 czerwca 2006 r.;
 - **3)** art. 2 pkt 1, który wchodzi w życie z dniem ogłoszenia i ma zastosowanie do dochodów uzyskanych od dnia 1 stycznia 2005 r.;
 - **4)** art. 11 pkt 1–3 i 5–9, które wchodzą w życie z dniem 1 września 2005 r.;
-- **5)** art. 11 pkt 4 i 10, które wchodzą w życie z dniem ogłoszenia.
+- **5)** art. 11 pkt 4 i 10, które wchodzą w życie z dniem ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, ustawę z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach, ustawę z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawę z dnia 22 kwietnia 2005 r. o postępowaniu wobec dłużników alimentacyjnych oraz zaliczce alimentacyjnej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2777 oraz z 2005 r. Nr 33, poz. 289, Nr 94, poz. 788 i Nr 143, poz. 1199. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1793 i 1800, z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056 oraz z 2004 r. Nr 240, poz. 2407. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783 oraz z 2005 r. Nr 48, poz. 462 i Nr 157, poz. 1316. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058, z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 65, poz. 595, Nr 84, poz. 774, Nr 90, poz. 844, Nr 96, poz. 874, Nr 122, poz. 1143, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 166, poz. 1608, Nr 202, poz. 1956, Nr 222, poz. 2201, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 99, poz. 1001, Nr 109, poz. 1163, Nr 116, poz. 1203, 1205 i 1207, Nr 120, poz. 1252, Nr 123, poz. 1291, Nr 162, poz. 1691, Nr 210, poz. 2135, Nr 263, poz. 2619 i Nr 281, poz. 2779 i 2781 oraz z 2005 r. Nr 25, poz. 202, Nr 30, poz. 262, Nr 85, poz. 725, Nr 86, poz. 732, Nr 90, poz. 757, Nr 102, poz. 852, Nr 143, poz. 1199 i 1202, Nr 155, poz. 1298 i Nr 164, poz. 1365 i 1366. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324, z 2001 r. Nr 74, poz. 784, Nr 88, poz. 961, Nr 125, poz. 1363 i 1369 i Nr 134, poz. 1509, z 2002 r. Nr 141, poz. 1183, Nr 169, poz. 1384, Nr 172, poz. 1412 i Nr 200, poz. 1679, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 135, poz. 1268, Nr 137, poz. 1302 i Nr 202, poz. 1958, z 2004 r. Nr 210, poz. 2135 i Nr 263, poz. 2619 oraz z 2005 r. Nr 143, poz. 1199 i Nr 164, poz. 1366. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954 oraz z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 179, poz. 1842 oraz z 2005 r. Nr 90, poz. 757, Nr 94, poz. 788, Nr 132, poz. 1105 i Nr 163, poz. 1362. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851, z 2004 r. Nr 19, poz. 177, Nr 93, poz. 890, Nr 121, poz. 1264, Nr 123, poz. 1291, Nr 210, poz. 2135 i Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114 i Nr 64, poz. 565. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058, z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 65, poz. 595, Nr 84, poz. 774, Nr 90, poz. 844, Nr 96, poz. 874, Nr 122, poz. 1143, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 166, poz. 1608, Nr 202, poz. 1956, Nr 222, poz. 2201, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 29, poz. 257, Nr 93, poz. 894, Nr 99, poz. 1001, Nr 109, poz. 1163, Nr 116, poz. 1203, 1205 i 1207, Nr 120, poz. 1252, Nr 123, poz. 1291, Nr 162, poz. 1691, Nr 210, poz. 2135, Nr 263, poz. 2619 i Nr 281, poz. 2779 i 2781 oraz z 2005 r. Nr 25, poz. 202, Nr 30, poz. 262, Nr 85, poz. 725, Nr 86, poz. 732, Nr 90, poz. 757, Nr 102, poz. 852, Nr 143, poz. 1199 i 1202, Nr 155, poz. 1298 i Nr 164, poz. 1365. 12) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 64, poz. 565, Nr 94, poz. 788 i Nr 164, poz. 1366. 13) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1082, z 1998 r. Nr 99, poz. 628, Nr 106, poz. 668, Nr 137, poz. 887, Nr 156, poz. 1019 i Nr 162, poz. 1118 i 1126, z 1999 r. Nr 49, poz. 486, Nr 90, poz. 1001, Nr 95, poz. 1101 i Nr 111, poz. 1280, z 2000 r. Nr 48, poz. 550 i Nr 119, poz. 1249, z 2001 r. Nr 39, poz. 459, Nr 100, poz. 1080, Nr 125, poz. 1368, Nr 129, poz. 1444 i Nr 154, poz. 1792 i 1800, z 2002 r. Nr 169, poz. 1387, Nr 200, poz. 1679 i 1683 i Nr 241, poz. 2074, z 2003 r. Nr 7, poz. 79, Nr 90, poz. 844, Nr 223, poz. 2217 i Nr 228, poz. 2262, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001 i Nr 240, poz. 2407 oraz z 2005 r. Nr 44, poz. 422, Nr 132, poz. 1110 i Nr 163, poz. 1362. 14) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 162, poz. 1118 i 1126, z 1999 r. Nr 26, poz. 228, Nr 60, poz. 636, Nr 72, poz. 802, Nr 78, poz. 875 i Nr 110, poz. 1256, z 2000 r. Nr 9, poz. 118, Nr 95, poz. 1041, Nr 104, poz. 1104 i Nr 119, poz. 1249, z 2001 r. Nr 8, poz. 64, Nr 27, poz. 298, Nr 39, poz. 459, Nr 72, poz. 748, Nr 100, poz. 1080, Nr 110, poz. 1189, Nr 111, poz. 1194, Nr 130, poz. 1452 i Nr 154, poz. 1792, z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365, Nr 74, poz. 676, Nr 155, poz. 1287, Nr 169, poz. 1387, Nr 199, poz. 1673, Nr 200, poz. 1679 i Nr 241, poz. 2074, z 2003 r. Nr 56, poz. 498, Nr 65, poz. 595, Nr 135, poz. 1268, Nr 149, poz. 1450, Nr 166, poz. 1609, Nr 170, poz. 1651, Nr 190, poz. 1864, Nr 210, poz. 2037, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 19, poz. 177, Nr 64, poz. 593, Nr 99, poz. 1001, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808, Nr 187, poz. 1925 i Nr 210, poz. 2135 oraz z 2005 r. Nr 64, poz. 565, Nr 86, poz. 732, Nr 132, poz. 1110, Nr 143, poz. 1199 i 1202, Nr 150, poz. 1248 i Nr 163, poz. 1362. 15) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324, z 2001 r. Nr 74, poz. 784, Nr 88, poz. 961, Nr 125, poz. 1363 i 1369 i Nr 134, poz. 1509, z 2002 r. Nr 141, poz. 1183, Nr 169, poz. 1384, Nr 172, poz. 1412 i Nr 200, poz. 1679, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 135, poz. 1268, Nr 137, poz. 1302 i Nr 202, poz. 1958, z 2004 r. Nr 210, poz. 2135 i Nr 263, poz. 2619 oraz z 2005 r. Nr 143, poz. 1199. 16) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 241, poz. 2074, z 2003 r. Nr 83, poz. 760 i Nr 223, poz. 2217 oraz z 2004 r. Nr 99, poz. 1001, Nr 121, poz. 1264, Nr 187, poz. 1925 i Nr 210, poz. 2135. 17) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 83, poz. 760, Nr 96, poz. 874 i Nr 122, poz. 1143 oraz z 2004 r. Nr 121, poz. 1264 i Nr 210, poz. 2135. 18) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 64, poz. 565, Nr 94, poz. 788 i Nr 164, poz. 1366. 19) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 99, poz. 1001 i Nr 273, poz. 2703 oraz z 2005 r. Nr 64, poz. 565 i Nr 94, poz. 788. 20) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 94, poz. 788, Nr 132, poz. 1110, Nr 138, poz. 1154 i Nr 157, poz. 1314.
 
 

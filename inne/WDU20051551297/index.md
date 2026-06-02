@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz ustawy o transporcie drogowym
+# Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz ustawy o transporcie drogowym Niniejsza ustawa dokonuje, w zakresie swojej regulacji, wdrożenia dyrektywy Parlamentu Europejskiego i Rady 1999/62/WE z dnia 17 czerwca 1999 r. w sprawie pobierania opłat za użytkowanie niektórych typów infrastruktury przez pojazdy ciężarowe (Dz. Urz. WE L 187 z 20.07.1999, str. 42). Dane dotyczące ogłoszenia aktu prawa Unii Europejskiej zamieszczone w niniejszej ustawie dotyczą ogłoszenia tego aktu w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-28 |
 | Data wydania | 2005-08-17 |
-| Wejście w życie | 2005-09-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051551297) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1297/text.pdf) |
 
@@ -79,5 +78,5 @@ source: "eli-html"
 
 **Art. 3.** Stawka opłaty, o której mowa w art. 37a ust. 7 ustawy zmienianej w art. 1, nie może być wyższa niż stawka opłaty dla danej kategorii pojazdu, określonej w rozporządzeniu wydanym na podstawie art. 37d ust. 2 ustawy zmienianej w art. 1, stosowanej w dniu wejścia w życie niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje, w zakresie swojej regulacji, wdrożenia dyrektywy Parlamentu Europejskiego i Rady 1999/62/WE z dnia 17 czerwca 1999 r. w sprawie pobierania opłat za użytkowanie niektórych typów infrastruktury przez pojazdy ciężarowe (Dz. Urz. WE L 187 z 20.07.1999, str. 42). Dane dotyczące ogłoszenia aktu prawa Unii Europejskiej zamieszczone w niniejszej ustawie dotyczą ogłoszenia tego aktu w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
 

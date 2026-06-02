@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-05-11 |
 | Data wydania | 2012-06-14 |
-| Wejście w życie | 2012-06-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000661) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/661/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 192, poz. 1381, z 2008 r. Nr 218, poz. 1391, Nr 227, poz. 1505 i Nr 234, poz. 1574, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 86, poz. 720 i Nr 98, poz. 817, z 2010 r. Nr 43, poz. 246, Nr 164, poz. 1107, Nr 225, poz. 1466, Nr 247, poz. 1652 i Nr 249, poz. 1656 oraz z 2011 r. Nr 5, poz. 13, Nr 30, poz. 151, Nr 48, poz. 247, Nr 92, poz. 530, Nr 106, poz. 622, Nr 134, poz. 780, Nr 159, poz. 945, Nr 168, poz. 1005, Nr 227, poz. 1367 i Nr 244, poz. 1454.) wprowadza się następujące zmiany:
 
 - **1)** w art. 18 ust. 4b i 5 otrzymują brzmienie: „
 
 4b. Dopuszcza się przewóz okazjonalny:
 
 - **1)** pojazdami zabytkowymi,
-- **2)** samochodami osobowymi: prowadzonymi przez przedsiębiorcę świadczącego usługi przewozowe albo zatrudnionego przez niego kierowcę, na podstawie umowy zawartej w formie pisemnej w lokalu przedsiębiorstwa, po ustaleniu opłaty ryczałtowej za przewóz przed rozpoczęciem tego przewozu; zapłata za przewóz regulowana jest na rzecz przedsiębiorcy w formie bezgotówkowej; dopuszcza się wniesienie opłat gotówką w lokalu przedsiębiorstwa niespełniającymi kryterium konstrukcyjnego określonego w ust. 4a i będącymi wyłączną własnością przedsiębiorcy lub stanowiącymi przedmiot leasingu tego przedsiębiorcy.
+- **2)** samochodami osobowymi: prowadzonymi przez przedsiębiorcę świadczącego usługi przewozowe albo zatrudnionego przez niego kierowcę, na podstawie umowy zawartej w formie pisemnej w lokalu przedsiębiorstwa, po ustaleniu opłaty ryczałtowej za przewóz przed rozpoczęciem tego przewozu; zapłata za przewóz regulowana jest na rzecz przedsiębiorcy w formie bezgotówkowej; dopuszcza się wniesienie opłat gotówką w lokalu przedsiębiorstwa – niespełniającymi kryterium konstrukcyjnego określonego w ust. 4a i będącymi wyłączną własnością przedsiębiorcy lub stanowiącymi przedmiot leasingu tego przedsiębiorcy.
     - **a)**
     - **b)**
     - **c)**
@@ -58,5 +57,5 @@ source: "eli-html"
 - **5)** w art. 87 w ust. 1 w pkt 2 w lit. f średnik zastępuje się przecinkiem i dodaje lit. g w brzmieniu: „ przy wykonywaniu przewozów okazjonalnych, o których mowa w art. 18 w ust. 4b w pkt 2, kopię umowy na realizowany przewóz; ” .
     - **g)**
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 192, poz. 1381, z 2008 r. Nr 218, poz. 1391, Nr 227, poz. 1505 i Nr 234, poz. 1574, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 86, poz. 720 i Nr 98, poz. 817, z 2010 r. Nr 43, poz. 246, Nr 164, poz. 1107, Nr 225, poz. 1466, Nr 247, poz. 1652 i Nr 249, poz. 1656 oraz z 2011 r. Nr 5, poz. 13, Nr 30, poz. 151, Nr 48, poz. 247, Nr 92, poz. 530, Nr 106, poz. 622, Nr 134, poz. 780, Nr 159, poz. 945, Nr 168, poz. 1005, Nr 227, poz. 1367 i Nr 244, poz. 1454.
 

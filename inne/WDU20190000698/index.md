@@ -22,15 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-15 |
 | Data wydania | 2019-04-15 |
-| Wejście w życie | 2019-04-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000698) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/698/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2018 r. poz. 2068) wprowadza się następujące zmiany:
 
-- **1)** w art. 13hb: uchyla się ust. 1a i 1b, w ust. 1c: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Główny Inspektor Transportu Drogowego w związku z poborem opłaty elektronicznej oraz kontrolą prawidłowości jej uiszczenia może zlecić wyłącznie: ” , – w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 i 7 w brzmieniu: „ 6) obsługę użytkowników elektronicznego systemu poboru opłaty elektronicznej, w tym w zakresie udostępniania urządzeń, o których mowa w art. 13i ust. 3, oraz wnoszenia opłaty elektronicznej; 7) usługi doradcze, bankowe, płatnicze i ubezpieczeniowe. ” , uchyla się ust. 1d i 1e, ust. 1f otrzymuje brzmienie: „
+- **1)** w art. 13hb: uchyla się ust. 1a i 1b, w ust. 1c: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Główny Inspektor Transportu Drogowego w związku z poborem opłaty elektronicznej oraz kontrolą prawidłowości jej uiszczenia może zlecić wyłącznie: ” , w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 i 7 w brzmieniu: „
     - **a)**
     - **b)**
+
+- **6)** obsługę użytkowników elektronicznego systemu poboru opłaty elektronicznej, w tym w zakresie udostępniania urządzeń, o których mowa w art. 13i ust. 3, oraz wnoszenia opłaty elektronicznej;
+- **7)** usługi doradcze, bankowe, płatnicze i ubezpieczeniowe. ” , uchyla się ust. 1d i 1e, ust. 1f otrzymuje brzmienie: „
     - **c)**
     - **d)**
 

@@ -25,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001408) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1408/text.pdf) |
 
-Lp. Nazwa polska Nazwa naukowa ** Diplocystaceae
+Ministra Środowiska z dnia ………........... 2014 r. (poz. …) Załącznik nr 1 GATUNKI GRZYBÓW OBJĘTE OCHRONĄ ŚCISŁĄ Lp. Nazwa polska Nazwa naukowa ** Diplocystaceae
 1. promieniak wilgociomierz Astraeus hygrometricus ** Physalacriaceae
 2. opieńka torfowiskowa (1) Armillaria ectypa
 3. żyłkowiec różowawy (1) Rhodotus palmatus ** Sarcosomataceae
@@ -257,7 +257,7 @@ Lp. Nazwa polska Nazwa naukowa ** Diplocystaceae
 229. żełuczka Delisa Xanthoparmelia delisei
 230. żełuczka drobna Xanthoparmelia pulla
 231. żełuczka Mougeota Xanthoparmelia mougeotii
-232. żyłecznik zwisający Alectoria sarmentosa Lp. Nazwa polska Nazwa naukowa borowikowate Boletaceae
+232. żyłecznik zwisający Alectoria sarmentosa Załącznik nr 2 GATUNKI GRZYBÓW OBJĘTE OCHRONĄ CZĘŚCIOWĄ Lp. Nazwa polska Nazwa naukowa borowikowate Boletaceae
 1. podgrzybek tęgoskórowy Xerocomus parasiticus
 2. poroblaszek żółtoczerwony Phylloporus pelletieri
 3. szyszkowiec łuskowaty Strobilomyces strobilaceus dzwonkówkowate Entolomataceae
@@ -347,7 +347,7 @@ Lp. Nazwa polska Nazwa naukowa ** Diplocystaceae
 87. włostka brązowa Bryoria fuscescens
 88. złotlinka jaskrawa Vulpicida pinastri
 89. żełuczka zmienna Xanthoparmelia stenophylla
-90. żółtlica chropowata Flavoparmelia caperata Lp. Nazwa polska Nazwa naukowa Sposoby pozyskiwania lakownicowate Ganodermataceae
+90. żółtlica chropowata Flavoparmelia caperata Załącznik nr 3 GATUNKI GRZYBÓW OBJĘTE OCHRONĄ CZĘŚCIOWĄ, KTÓRE MOGĄ BYĆ POZYSKIWANE, ORAZ SPOSOBY ICH POZYSKIWANIA Lp. Nazwa polska Nazwa naukowa Sposoby pozyskiwania lakownicowate Ganodermataceae
 1. lakownica żółtawa Ganoderma lucidum ręczny zbiór owocników, bez naruszania drewna, na którym one wyrastają pniarkowate Fomitopsidaceae
 2. żagwica listkowata Grifola frondosa ręczny zbiór owocników szczeciniakowate Hymenochaetaceae
 3. błyskoporek podkorowy Inonotus obliquus odcięcie narzędziem o ostrej (włóknouszek ukośny) krawędzi narośli na drzewie z błyskoporkiem podkorowym (forma anamorficzna), należy ograniczyć uszkodzenie drzewa smardzowate Morchellaceae
@@ -357,7 +357,7 @@ Lp. Nazwa polska Nazwa naukowa ** Diplocystaceae
 7. smardz stożkowaty Morchella conica ręczny zbiór owocników
 8. smardz wyniosły Morchella elata ręczny zbiór owocników żagwiowate Polyporaceae
 9. żagiew wielogłowa Polyporus umbellatus ręczny zbiór owocników
-10. płucnica islandzka Cetraria islandica ręczny zbiór plech Lp. Nazwa polska Nazwa naukowa Wielkość strefy ochrony
+10. płucnica islandzka Cetraria islandica ręczny zbiór plech Załącznik nr 4 GATUNKI GRZYBÓW WYMAGAJĄCE USTALENIA STREF OCHRONY ICH OSTOI I STANOWISK ORAZ WIELKOŚĆ STREF OCHRONY Lp. Nazwa polska Nazwa naukowa Wielkość strefy ochrony
 1. granicznik płucnik Lobaria pulmonaria stanowisko wraz z ostoją
 2. granicznik tarczownicowy Lobaria scrobiculata o promieniu do 50 m
 3. granicznik tarczowy Lobaria amplissima od stanowiska

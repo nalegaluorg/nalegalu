@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 4 grudnia 2015 r. w sprawie minimalnej funkcjonalności oraz warunków organizacyjno-technicznych funkcjonowania systemu teleinformatycznego, w którym Krajowa Rada Notarialna prowadzi listę notariuszy oraz zastępców notarialnych (Dz. U. poz. 2132), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Sprawiedliwości z dnia 25 marca 2016 r. zmieniającym rozporządzenie w sprawie minimalnej funkcjonalności oraz warunków organizacyjno-technicznych funkcjonowania systemu teleinformatycznego, w którym Krajowa Rada Notarialna prowadzi listę notariuszy oraz zastępców notarialnych (Dz. U. poz. 409).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 25 marca 2016 r. zmieniającego rozporządzenie w sprawie minimalnej funkcjonalności oraz warunków organizacyjno-technicznych funkcjonowania systemu teleinformatycznego, w którym Krajowa Rada Notarialna prowadzi listę notariuszy oraz zastępców notarialnych (Dz. U. poz. 409), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 25 marca 2016 r. zmieniającego rozporządzenie w sprawie minimalnej funkcjonalności oraz warunków organizacyjno-technicznych funkcjonowania systemu teleinformatycznego, w którym Krajowa Rada Notarialna prowadzi listę notariuszy oraz zastępców notarialnych (Dz. U. poz. 409), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 4 grudnia 2015 r. w sprawie minimalnej funkcjonalności oraz warunków organizacyjno-technicznych funkcjonowania systemu teleinformatycznego, w którym Krajowa Rada Notarialna prowadzi listę notariuszy oraz zastępców notarialnych
 Na podstawie art. 41a § 4 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2016 r. poz. 1796, 1948, 2175 i 2261) zarządza się, co następuje:
 § 1.
@@ -47,6 +45,6 @@ System teleinformatyczny, w którym prowadzona jest lista notariuszy oraz zastę
 Realizując minimalną funkcjonalność, o której mowa w ust. 1, system umożliwia automatyczne obsłużenie zapytania pochodzącego z systemu teleinformatycznego obsługującego postępowanie wieczystoksięgowe wszczynane na wniosek składany za pośrednictwem tego systemu.
 § 3.
 System zapewnia odnotowanie każdej zmiany dotyczącej osoby, której dane przechowywane są w systemie.
-§ 4.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.
+§ 4W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 25 marca 2016 r. zmieniającego rozporządzenie w sprawie minimalnej funkcjonalności oraz warunków organizacyjno-technicznych funkcjonowania systemu teleinformatycznego, w którym Krajowa Rada Notarialna prowadzi listę notariuszy oraz zastępców notarialnych (Dz. U. poz. 409), które weszło w życie z dniem 1 kwietnia 2016 r..
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r. 1) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 25 marca 2016 r. zmieniającego rozporządzenie w sprawie minimalnej funkcjonalności oraz warunków organizacyjno-technicznych funkcjonowania systemu teleinformatycznego, w którym Krajowa Rada Notarialna prowadzi listę notariuszy oraz zastępców notarialnych (Dz. U. poz. 409), które weszło w życie z dniem 1 kwietnia 2016 r.
 

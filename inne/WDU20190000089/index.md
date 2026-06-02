@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 2 stycznia 2019 r. w sprawie szczegółowego zakresu współpracy międzynarodowej w zakresie świadczenia usług
+# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 2 stycznia 2019 r. w sprawie szczegółowego zakresu współpracy międzynarodowej w zakresie świadczenia usług Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-01-02 |
 | Data wydania | 2019-01-16 |
-| Wejście w życie | 2019-01-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000089) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/89/text.pdf) |
 
@@ -93,6 +92,5 @@ współpracuje z Komisją Europejską oraz organami koordynującymi współprac�
 § 10.
 Wnioski o udzielenie informacji dotyczących usługodawców i świadczonych przez nich usług oraz o przeprowadzenie kontroli działalności usługodawców powinny być uzasadnione poprzez wskazanie przyczyn i celu wystąpienia z takim wnioskiem.
 § 11.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 23 grudnia 2010 r. w sprawie szczegółowego zakresu współpracy międzynarodowej w zakresie świadczenia usług (Dz. U. z 2011 r. poz. 33), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 235 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 23 grudnia 2010 r. w sprawie szczegółowego zakresu współpracy międzynarodowej w zakresie świadczenia usług (Dz. U. z 2011 r. poz. 33), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 235 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650). 1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 23 grudnia 2010 r. w sprawie szczegółowego zakresu współpracy międzynarodowej w zakresie świadczenia usług (Dz. U. z 2011 r. poz. 33), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 235 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 27 września 2017 r. w sprawie szczegółowych warunków uzyskiwania dofinansowania realizacji zadań z zakresu kultury, trybu składania wniosków oraz przekazywania środków z Funduszu Promocji Kultury
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 27 września 2017 r. w sprawie szczegółowych warunków uzyskiwania dofinansowania realizacji zadań z zakresu kultury, trybu składania wniosków oraz przekazywania środków z Funduszu Promocji Kultury Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-27 |
 | Data wydania | 2017-09-29 |
-| Wejście w życie | 2017-10-01 |
 | Ostatnia zmiana | 2025-11-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001808) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1808/text.pdf) |
 
@@ -85,7 +84,7 @@ inne źródła finansowania działania.
 Do wniosku, o którym mowa w ust. 1, dołącza się dokumenty wymagane w ogłoszeniu o naborze wniosków.
 § 6.
 1.
-Przed przekazaniem środków Funduszu na dofinansowanie działań określonych we wniosku, o którym mowa w § 5, minister zawiera z wnioskodawcą umowę o udzieleniu dotacji celowej zgodnie z wymogami określonymi w art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.).
+Przed przekazaniem środków Funduszu na dofinansowanie działań określonych we wniosku, o którym mowa w § 5, minister zawiera z wnioskodawcą umowę o udzieleniu dotacji celowej zgodnie z wymogami określonymi w art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089, 1475, 1529 i 1537.).
 2.
 Umowa, o której mowa w ust. 1, określa także obowiązki wnioskodawcy dotyczące zakresu informowania o dofinansowaniu zadania ze środków Funduszu.
 § 7.
@@ -94,7 +93,7 @@ Przekazywanie środków Funduszu na dofinansowanie działań określonych we wni
 Wterminie do dnia 31 grudnia każdego roku minister publikuje w Biuletynie Informacji Publicznej na stronie podmiotowej ministra wykaz działań dofinansowanych ze środków Funduszu.
 § 9.
 1.
-W przypadku wnioskodawców będących przedsiębiorstwami, w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, z późn. zm.), zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”, dofinasowanie działań objętych wnioskiem, o którym mowa w § 5, jest udzielane jako pomoc publiczna zgodnie z art. 53 rozporządzenia Komisji (UE) nr 651/2014, z zastrzeżeniem §10.
+W przypadku wnioskodawców będących przedsiębiorstwami, w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10 oraz Dz. Urz. UE L 156 z 20.06.2017, str. 1., zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”, dofinasowanie działań objętych wnioskiem, o którym mowa w § 5, jest udzielane jako pomoc publiczna zgodnie z art. 53 rozporządzenia Komisji (UE) nr 651/2014, z zastrzeżeniem §10.
 2.
 Pomoc publiczna, o której mowa w ust. 1, nie może przekraczać progów wskazanych w art. 4 ust. 1 lit. z rozporządzenia Komisji (UE) nr 651/2014.
 3.
@@ -174,7 +173,7 @@ informacje o sytuacji materialnej osoby, której wniosek dotyczy, wraz ze wskaza
 5)
 oświadczenie osoby, której wniosek dotyczy, o dochodach uzyskanych w okresie ostatnich dwunastu miesięcy.
 8.
-Do wniosku dołącza się dokumenty potwierdzające zaistnienie okoliczności, o których mowa w ust. 7 pkt 3 i 4, oraz okoliczności uprawniających do zwolnienia przyznanej pomocy socjalnej z podatku dochodowego, o którym mowa w art. 21 ust. 1 pkt 26 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.).
+Do wniosku dołącza się dokumenty potwierdzające zaistnienie okoliczności, o których mowa w ust. 7 pkt 3 i 4, oraz okoliczności uprawniających do zwolnienia przyznanej pomocy socjalnej z podatku dochodowego, o którym mowa w art. 21 ust. 1 pkt 26 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089, 1428, 1448 i 1530.).
 9.
 Środki Funduszu udzielone na pomoc socjalną przekazuje się na wskazany rachunek bankowy osoby, której przyznano pomoc socjalną, lub w inny uzgodniony z tą osobą sposób.
 § 12.
@@ -205,6 +204,5 @@ Do wniosków o udzielenie dofinansowania złożonych przed dniem wejścia w życ
 § 14.
 Dofinansowanie stanowiące pomoc de minimis może być udzielane do dnia 30 czerwca 2021 r.
 § 15.
-Rozporządzenie wchodzi w życie z dniem 1 października 2017 r.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089, 1475, 1529 i 1537. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10 oraz Dz. Urz. UE L 156 z 20.06.2017, str. 1. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089, 1428, 1448 i 1530. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 30 czerwca 2010 r. w sprawie szczegółowych warunków uzyskiwania dofinansowania realizacji zadań z zakresu kultury, trybu składania wniosków oraz przekazywania środków z Funduszu Promocji Kultury (Dz. U. poz. 797 oraz z 2016 r. poz. 2156), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 11 ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o grach hazardowych oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 88).
+Rozporządzenie wchodzi w życie z dniem 1 października 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 30 czerwca 2010 r. w sprawie szczegółowych warunków uzyskiwania dofinansowania realizacji zadań z zakresu kultury, trybu składania wniosków oraz przekazywania środków z Funduszu Promocji Kultury (Dz. U. poz. 797 oraz z 2016 r. poz. 2156), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 11 ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o grach hazardowych oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 88). 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089, 1475, 1529 i 1537. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10 oraz Dz. Urz. UE L 156 z 20.06.2017, str. 1. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089, 1428, 1448 i 1530. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 30 czerwca 2010 r. w sprawie szczegółowych warunków uzyskiwania dofinansowania realizacji zadań z zakresu kultury, trybu składania wniosków oraz przekazywania środków z Funduszu Promocji Kultury (Dz. U. poz. 797 oraz z 2016 r. poz. 2156), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 11 ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o grach hazardowych oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 88).
 

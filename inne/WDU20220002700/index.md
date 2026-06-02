@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 13 grudnia 2022 r. w sprawie kategorii oraz kryteriów kwalifikowania ekspozycji niezamierzonych i narażeń przypadkowych, działań, które należy podjąć w jednostce ochrony zdrowia po ich wystąpieniu, a także zakresu informacji objętych Centralnym Rejestrem Ekspozycji Niezamierzonych i Narażeń Przypadkowych
+# Rozporządzenie Ministra Zdrowiaz dnia 13 grudnia 2022 r. w sprawie kategorii oraz kryteriów kwalifikowania ekspozycji niezamierzonych i narażeń przypadkowych, działań, które należy podjąć w jednostce ochrony zdrowia po ich wystąpieniu, a także zakresu informacji objętych Centralnym Rejestrem Ekspozycji Niezamierzonych i Narażeń Przypadkowych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-13 |
 | Data wydania | 2022-12-21 |
-| Wejście w życie | 2023-01-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002700) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2700/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 33m ust. 12 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2021 r. poz. 1941 oraz z 2022 r. poz. 974) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiającą podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywy 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, str. 1, Dz. Urz. UE L 72 z 17.03.2016, str. 69, Dz. Urz. UE L 152 z 11.06.2019, str. 128 oraz Dz. Urz. UE L 324 z 13.12.2019, str. 80). Na podstawie art. 33m ust. 12 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2021 r. poz. 1941 oraz z 2022 r. poz. 974) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -152,8 +151,7 @@ wykonanie badania diagnostycznego lub zabiegu w obszarze jamy brzusznej lub
 2)
 podanie produktu radiofarmaceutycznego w celu diagnostycznym lub leczniczym, lub
 3)
-wykonanie radioterapii
-u kobiety w ciąży, jeżeli stan ciąży został ustalony już po przeprowadzeniu procedury, a wartość dawki dla zarodka lub płodu przekracza 20 mSv.
+wykonanie radioterapii – u kobiety w ciąży, jeżeli stan ciąży został ustalony już po przeprowadzeniu procedury, a wartość dawki dla zarodka lub płodu przekracza 20 mSv.
 2.
 W przypadku gdy wykonanie badania diagnostycznego lub zabiegu było bezpośrednio związane z ratowaniem życia kobiety w ciąży poddawanej temu badaniu diagnostycznemu lub zabiegowi, przepisu ust. 1 pkt 1 nie stosuje się.
 § 9.
@@ -248,6 +246,5 @@ nazwę jednostki ochrony zdrowia, w której doszło do zdarzenia.
 § 15.
 W sprawach wypadków związanych ze stosowaniem promieniowania jonizującego w radioterapii oraz w leczeniu za pomocą produktów radiofarmaceutycznych, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiającą podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywy 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, str. 1, Dz. Urz. UE L 72 z 17.03.2016, str. 69, Dz. Urz. UE L 152 z 11.06.2019, str. 128 oraz Dz. Urz. UE L 324 z 13.12.2019, str. 80). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 18 lutego 2011 r. w sprawie warunków bezpiecznego stosowania promieniowania jonizującego dla wszystkich rodzajów ekspozycji medycznej (Dz. U. z 2017 r. poz. 884), które utraciło moc z dniem 24 września 2022 r. zgodnie z art. 37 ust. 2 pkt 2 ustawy z dnia 13 czerwca 2019 r. o zmianie ustawy – Prawo atomowe oraz ustawy o ochronie przeciwpożarowej (Dz. U. poz. 1593 oraz z 2020 r. poz. 284).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 18 lutego 2011 r. w sprawie warunków bezpiecznego stosowania promieniowania jonizującego dla wszystkich rodzajów ekspozycji medycznej (Dz. U. z 2017 r. poz. 884), które utraciło moc z dniem 24 września 2022 r. zgodnie z art. 37 ust. 2 pkt 2 ustawy z dnia 13 czerwca 2019 r. o zmianie ustawy – Prawo atomowe oraz ustawy o ochronie przeciwpożarowej (Dz. U. poz. 1593 oraz z 2020 r. poz. 284). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiającą podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywy 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, str. 1, Dz. Urz. UE L 72 z 17.03.2016, str. 69, Dz. Urz. UE L 152 z 11.06.2019, str. 128 oraz Dz. Urz. UE L 324 z 13.12.2019, str. 80). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 18 lutego 2011 r. w sprawie warunków bezpiecznego stosowania promieniowania jonizującego dla wszystkich rodzajów ekspozycji medycznej (Dz. U. z 2017 r. poz. 884), które utraciło moc z dniem 24 września 2022 r. zgodnie z art. 37 ust. 2 pkt 2 ustawy z dnia 13 czerwca 2019 r. o zmianie ustawy – Prawo atomowe oraz ustawy o ochronie przeciwpożarowej (Dz. U. poz. 1593 oraz z 2020 r. poz. 284).
 

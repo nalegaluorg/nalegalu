@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-03-04 |
 | Data wydania | 2004-04-20 |
-| Wejście w życie | 2004-05-05 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040690624) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/624/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2001 r. Nr 57, poz. 603, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2001 r. Nr 57, poz. 603, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, Nr 122, poz. 1323 i Nr 154, poz. 1793 i 1800, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676 i Nr 155, poz. 1287 oraz z 2003 r. Nr 6, poz. 64, Nr 49, poz. 408, Nr 64, poz. 592, Nr 80, poz. 721 i Nr 122, poz. 1143.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 ust. 2 otrzymuje brzmienie: „
 
@@ -38,7 +37,7 @@ source: "eli-html"
 
 5a. Kwoty stanowiące różnicę między środkami uzyskanymi z gospodarowania mieniem Zasobu w danym roku obrotowym z tytułów, o których mowa w art. 20c ust. 1 pkt 1, a środkami wydatkowanymi na realizację zadań, o których mowa w art. 20 ust. 4 i 5, podlegają przekazaniu przez Agencję do budżetu państwa, w terminie do dnia 30 czerwca roku następnego.
 
-5b. Do zobowiązań Agencji, o których mowa w ust. 5a, stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926, z późn. zm.). ” , ust. 6 otrzymuje brzmienie: „
+5b. Do zobowiązań Agencji, o których mowa w ust. 5a, stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302, Nr 170, poz. 1660 i Nr 228, poz. 2255 i 2256 oraz z 2004 r. Nr 29, poz. 257 i Nr 64, poz. 593.). ” , ust. 6 otrzymuje brzmienie: „
 
 - **b)**
 
@@ -74,11 +73,11 @@ source: "eli-html"
 
 5. Agencji przysługuje prawo odkupu nieruchomości na rzecz Skarbu Państwa w okresie 5 lat, licząc od dnia jej nabycia od Agencji, z wyjątkiem nieruchomości położonych w granicach specjalnych stref ekonomicznych; prawo odkupu powinno być ujawnione w księdze wieczystej prowadzonej dla danej nieruchomości. ” .
 
-**Art. 2.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 1996 r. Nr 67, poz. 329, z późn. zm.) po art. 91 dodaje się art. 91a w brzmieniu: „
+**Art. 2.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 1996 r. Nr 67, poz. 329, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153 i Nr 141, poz. 943, z 1998 r. Nr 117, poz. 759 i Nr 162, poz. 1126, z 2000 r. Nr 12, poz. 136, Nr 19, poz. 239, Nr 48, poz. 550, Nr 104, poz. 1104, Nr 120, poz. 1268 i Nr 122, poz. 1320, z 2001 r. Nr 111, poz. 1194 i Nr 144, poz. 1615, z 2002 r. Nr 41, poz. 362, Nr 113, poz. 984, Nr 141, poz. 1185 i Nr 200, poz. 1683 oraz z 2003 r. Nr 6, poz. 65, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 203, poz. 1966.) po art. 91 dodaje się art. 91a w brzmieniu: „
 
 **Art. 91a.** W ramach programu, o którym mowa w art. 91 ust. 3, przyznawane i wypłacane są stypendia dzieciom byłych pracowników państwowych przedsiębiorstw gospodarki rolnej, uczącym się w szkołach ponadgimnazjalnych lub kształcącym się w szkołach wyższych, a także finansowane jest dożywianie tych dzieci w przedszkolach, szkołach podstawowych, gimnazjach i szkołach ponadgimnazjalnych. ” .
 
-**Art. 3.** W ustawie z dnia 14 grudnia 1994 r. o zatrudnieniu i przeciwdziałaniu bezrobociu (Dz. U. z 2003 r. Nr 58, poz. 514, z późn. zm.) w art. 37o:
+**Art. 3.** W ustawie z dnia 14 grudnia 1994 r. o zatrudnieniu i przeciwdziałaniu bezrobociu (Dz. U. z 2003 r. Nr 58, poz. 514, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 90, poz. 844, Nr 122, poz. 1143, Nr 128, poz. 1176, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 142, poz. 1380, Nr 166, poz. 1608, Nr 203, poz. 1966, Nr 210, poz. 2036 i 2037, Nr 223, poz. 2217 i Nr 228, poz. 2255 oraz z 2004 r. Nr 64, poz. 593.) w art. 37o:
 
 - **1)** ust. 2 otrzymuje brzmienie: „
 
@@ -106,5 +105,5 @@ source: "eli-html"
 
 **Art. 9.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 20 ust. 6 ustawy wymienionej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie tego artykułu, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 3 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2, który wchodzi w życie z dniem 1 stycznia 2005 r.
+**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2, który wchodzi w życie z dniem 1 stycznia 2005 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, Nr 122, poz. 1323 i Nr 154, poz. 1793 i 1800, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676 i Nr 155, poz. 1287 oraz z 2003 r. Nr 6, poz. 64, Nr 49, poz. 408, Nr 64, poz. 592, Nr 80, poz. 721 i Nr 122, poz. 1143. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302, Nr 170, poz. 1660 i Nr 228, poz. 2255 i 2256 oraz z 2004 r. Nr 29, poz. 257 i Nr 64, poz. 593. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153 i Nr 141, poz. 943, z 1998 r. Nr 117, poz. 759 i Nr 162, poz. 1126, z 2000 r. Nr 12, poz. 136, Nr 19, poz. 239, Nr 48, poz. 550, Nr 104, poz. 1104, Nr 120, poz. 1268 i Nr 122, poz. 1320, z 2001 r. Nr 111, poz. 1194 i Nr 144, poz. 1615, z 2002 r. Nr 41, poz. 362, Nr 113, poz. 984, Nr 141, poz. 1185 i Nr 200, poz. 1683 oraz z 2003 r. Nr 6, poz. 65, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 203, poz. 1966. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 90, poz. 844, Nr 122, poz. 1143, Nr 128, poz. 1176, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 142, poz. 1380, Nr 166, poz. 1608, Nr 203, poz. 1966, Nr 210, poz. 2036 i 2037, Nr 223, poz. 2217 i Nr 228, poz. 2255 oraz z 2004 r. Nr 64, poz. 593.
 

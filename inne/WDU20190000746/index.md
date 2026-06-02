@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 12 kwietnia 2019 r. w sprawie wysokości opłat za czynności organów administracji miar związane z tachografami
+# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 12 kwietnia 2019 r. w sprawie wysokości opłat za czynności organów administracji miar związane z tachografami Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-12 |
 | Data wydania | 2019-04-25 |
-| Wejście w życie | 2019-04-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000746) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/746/text.pdf) |
 
@@ -51,8 +50,7 @@ Ustala się stawkę godzinową za czas pracy pracownika administracji miar, stan
 1)
 wydanie świadectwa funkcjonalności i odmowę wydania świadectwa funkcjonalności,
 2)
-umorzenie postępowania w sprawach dotyczących wydania świadectwa homologacji typu, świadectwa funkcjonalności tachografu lub świadectwa funkcjonalności elementów składowych tachografu
-w wysokości 220 zł za każdą rozpoczętą godzinę pracy.
+umorzenie postępowania w sprawach dotyczących wydania świadectwa homologacji typu, świadectwa funkcjonalności tachografu lub świadectwa funkcjonalności elementów składowych tachografu – w wysokości 220 zł za każdą rozpoczętą godzinę pracy.
 § 3.
 Wysokość opłaty za wydanie świadectwa homologacji typu, zmianę świadectwa homologacji typu i odmowę wydania świadectwa homologacji typu wynosi 1000 zł.
 § 4.
@@ -93,6 +91,5 @@ Wysokość opłaty za przystąpienie do egzaminu z zakresu sprawdzania i przegl�
 § 8.
 Wysokość opłaty za wydanie certyfikatu, o którym mowa w art. 35 ust. 1 ustawy z dnia 5 lipca 2018 r. o tachografach, wynosi 2000 zł.
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93). 2) Zakres spraw uregulowany niniejszym rozporządzeniem był poprzednio uregulowany w: 1) rozporządzeniu Ministra Finansów z dnia 9 stycznia 2006 r. w sprawie opłat za czynności organów administracji miar wykonywane w ramach systemu tachografów cyfrowych (Dz. U. poz. 46), które utraciło moc z dniem 31 grudnia 2018 r. zgodnie z art. 73 pkt 2 ustawy z dnia 5 lipca 2018 r. o tachografach (Dz. U. poz. 1480); 2) rozporządzeniu Ministra Finansów z dnia 14 czerwca 2013 r. w sprawie opłat za czynności urzędowe wykonywane przez organy administracji miar i podległe im urzędy (Dz. U. poz. 808), które w zakresie wysokości opłat za udzielenie zezwolenia i zmianę zezwolenia na wykonywanie instalacji lub napraw oraz sprawdzania przyrządów pomiarowych traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 70 ust. 2 ustawy z dnia 5 lipca 2018 r. o tachografach.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Zakres spraw uregulowany niniejszym rozporządzeniem był poprzednio uregulowany w: 1) rozporządzeniu Ministra Finansów z dnia 9 stycznia 2006 r. w sprawie opłat za czynności organów administracji miar wykonywane w ramach systemu tachografów cyfrowych (Dz. U. poz. 46), które utraciło moc z dniem 31 grudnia 2018 r. zgodnie z art. 73 pkt 2 ustawy z dnia 5 lipca 2018 r. o tachografach (Dz. U. poz. 1480); 2) rozporządzeniu Ministra Finansów z dnia 14 czerwca 2013 r. w sprawie opłat za czynności urzędowe wykonywane przez organy administracji miar i podległe im urzędy (Dz. U. poz. 808), które w zakresie wysokości opłat za udzielenie zezwolenia i zmianę zezwolenia na wykonywanie instalacji lub napraw oraz sprawdzania przyrządów pomiarowych traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 70 ust. 2 ustawy z dnia 5 lipca 2018 r. o tachografach. 1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93). 2) Zakres spraw uregulowany niniejszym rozporządzeniem był poprzednio uregulowany w: 1) rozporządzeniu Ministra Finansów z dnia 9 stycznia 2006 r. w sprawie opłat za czynności organów administracji miar wykonywane w ramach systemu tachografów cyfrowych (Dz. U. poz. 46), które utraciło moc z dniem 31 grudnia 2018 r. zgodnie z art. 73 pkt 2 ustawy z dnia 5 lipca 2018 r. o tachografach (Dz. U. poz. 1480); 2) rozporządzeniu Ministra Finansów z dnia 14 czerwca 2013 r. w sprawie opłat za czynności urzędowe wykonywane przez organy administracji miar i podległe im urzędy (Dz. U. poz. 808), które w zakresie wysokości opłat za udzielenie zezwolenia i zmianę zezwolenia na wykonywanie instalacji lub napraw oraz sprawdzania przyrządów pomiarowych traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 70 ust. 2 ustawy z dnia 5 lipca 2018 r. o tachografach.
 

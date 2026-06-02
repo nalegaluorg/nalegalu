@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 21 listopada 2008 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 21 listopada 2008 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawę z dnia 29 czerwca 2007 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-11-21 |
 | Data wydania | 2008-12-22 |
-| Wejście w życie | 2009-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082251486) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1486/text.pdf) |
 
@@ -53,7 +52,7 @@ source: "eli-html"
 - **8)** uchyla się art. 131a;
 - **9)** uchyla się art. 136a.
 
-**Art. 2.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492, Nr 273, poz. 2703 i Nr 281, poz. 2778, z 2005 r. Nr 167, poz. 1396, z 2006 r. Nr 157, poz. 1119 oraz z 2007 r. Nr 49, poz. 328, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 133, poz. 922.) wprowadza się następujące zmiany:
 
 - **1)** uchyla się art. 43a;
 - **2)** uchyla się art. 119a.
@@ -68,5 +67,5 @@ source: "eli-html"
 
 2. Do dnia 14 lutego 2009 r. Narodowy Fundusz Zdrowia dokona rozliczenia świadczeń opieki zdrowotnej udzielonych na skutek zdarzeń zaistniałych w związku z ruchem pojazdów mechanicznych przed dniem wejścia w życie niniejszej ustawy i zgłoszonych przez świadczeniodawcę do dnia 31 stycznia 2009 r. Koszty tych świadczeń są pokrywane ze środków pochodzących z opłaty ryczałtowej, o której mowa w art. 4 niniejszej ustawy oraz art. 43a i 119a ustawy, o której mowa w art. 2, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r.
+**Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r. 1) Niniejszą ustawą zmienia się ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawę z dnia 29 czerwca 2007 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492, Nr 273, poz. 2703 i Nr 281, poz. 2778, z 2005 r. Nr 167, poz. 1396, z 2006 r. Nr 157, poz. 1119 oraz z 2007 r. Nr 49, poz. 328, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 133, poz. 922.
 

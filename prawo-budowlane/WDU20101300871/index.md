@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-06-25 |
 | Data wydania | 2010-07-20 |
-| Wejście w życie | 2010-10-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101300871) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/871/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. Nr 80, poz. 717, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. Nr 80, poz. 717, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492, z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2006 r. Nr 45, poz. 319 i Nr 225, poz. 1635, z 2007 r. Nr 127, poz. 880, z 2008 r. Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 220, poz. 1413 oraz z 2010 r. Nr 24, poz. 124, Nr 75, poz. 474, Nr 106, poz. 675 i Nr 119, poz. 804.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 dodaje się ust. 4 w brzmieniu: „
 
@@ -64,9 +63,15 @@ source: "eli-html"
 - **4)** w art. 15: w ust. 2 pkt 6 otrzymuje brzmienie: „
     - **a)**
 
-- **6)** zasady kształtowania zabudowy oraz wskaźniki zagospodarowania terenu, maksymalną i minimalną intensywność zabudowy jako wskaźnik powierzchni całkowitej zabudowy w odniesieniu do powierzchni działki budowlanej, minimalny udział procentowy powierzchni biologicznie czynnej w odniesieniu do powierzchni działki budowlanej, maksymalną wysokość zabudowy, minimalną liczbę miejsc do parkowania i sposób ich realizacji oraz linie zabudowy i gabaryty obiektów; ” , w ust. 3: – po pkt 4 dodaje się pkt 4a i 4b w brzmieniu: „ 4a) granice terenów rozmieszczenia inwestycji celu publicznego o znaczeniu lokalnym; 4b) granice terenów inwestycji celu publicznego o znaczeniu ponadlokalnym, umieszczonych w planie zagospodarowania przestrzennego województwa lub w ostatecznych decyzjach o lokalizacji drogi krajowej, wojewódzkiej lub powiatowej, linii kolejowej o znaczeniu państwowym, lotniska użytku publicznego, inwestycji w zakresie terminalu lub przedsięwzięcia Euro 2012; ” , – dodaje się pkt 7–10 w brzmieniu: „ 7) granice terenów zamkniętych, i granice stref ochronnych terenów zamkniętych; 8) sposób usytuowania obiektów budowlanych w stosunku do dróg i innych terenów publicznie dostępnych oraz do granic przyległych nieruchomości, kolorystykę obiektów budowlanych oraz pokrycie dachów; 9) zasady i warunki sytuowania obiektów małej architektury, tablic i urządzeń reklamowych oraz ogrodzeń, ich gabaryty, standardy jakościowe oraz rodzaje materiałów budowlanych, z jakich mogą być wykonane; 10) minimalną powierzchnię nowo wydzielonych działek budowlanych. ” ;
+- **6)** zasady kształtowania zabudowy oraz wskaźniki zagospodarowania terenu, maksymalną i minimalną intensywność zabudowy jako wskaźnik powierzchni całkowitej zabudowy w odniesieniu do powierzchni działki budowlanej, minimalny udział procentowy powierzchni biologicznie czynnej w odniesieniu do powierzchni działki budowlanej, maksymalną wysokość zabudowy, minimalną liczbę miejsc do parkowania i sposób ich realizacji oraz linie zabudowy i gabaryty obiektów; ” , w ust. 3: po pkt 4 dodaje się pkt 4a i 4b w brzmieniu: „
     - **b)**
 
+- **4a)** granice terenów rozmieszczenia inwestycji celu publicznego o znaczeniu lokalnym;
+- **4b)** granice terenów inwestycji celu publicznego o znaczeniu ponadlokalnym, umieszczonych w planie zagospodarowania przestrzennego województwa lub w ostatecznych decyzjach o lokalizacji drogi krajowej, wojewódzkiej lub powiatowej, linii kolejowej o znaczeniu państwowym, lotniska użytku publicznego, inwestycji w zakresie terminalu lub przedsięwzięcia Euro 2012; ” , dodaje się pkt 7–10 w brzmieniu: „
+- **7)** granice terenów zamkniętych, i granice stref ochronnych terenów zamkniętych;
+- **8)** sposób usytuowania obiektów budowlanych w stosunku do dróg i innych terenów publicznie dostępnych oraz do granic przyległych nieruchomości, kolorystykę obiektów budowlanych oraz pokrycie dachów;
+- **9)** zasady i warunki sytuowania obiektów małej architektury, tablic i urządzeń reklamowych oraz ogrodzeń, ich gabaryty, standardy jakościowe oraz rodzaje materiałów budowlanych, z jakich mogą być wykonane;
+- **10)** minimalną powierzchnię nowo wydzielonych działek budowlanych. ” ;
 - **5)** w art. 17: skreśla się pkt 3, pkt 4 otrzymuje brzmienie: „
     - **a)**
     - **b)**
@@ -125,14 +130,14 @@ source: "eli-html"
 
 - **12)** w art. 62 w ust. 1 zdanie pierwsze otrzymuje brzmienie: „ Postępowanie administracyjne w sprawie ustalenia warunków zabudowy można zawiesić na czas nie dłuższy niż 9 miesięcy od dnia złożenia wniosku o ustalenie warunków zabudowy. ” .
 
-**Art. 2.** W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2006 r. Nr 122, poz. 851, z późn. zm.) w art. 3 wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2006 r. Nr 122, poz. 851, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 143, poz. 1032, Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 220, poz. 1600, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 20, poz. 106, Nr 92, poz. 753 i Nr 157, poz. 1241 oraz z 2010 r. Nr 21, poz. 105 i Nr 81, poz. 529.) w art. 3 wprowadza się następujące zmiany:
 
 - **1)** pkt 1 otrzymuje brzmienie: „
 - **1)** opiniowanie projektów planów zagospodarowania przestrzennego województwa, miejscowych planów zagospodarowania przestrzennego, studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy; ” ;
 - **2)** po pkt 1 dodaje się pkt 1a w brzmieniu: „
 - **1a)** uzgadnianie warunków zabudowy i zagospodarowania terenu pod względem wymagań higienicznych i zdrowotnych; ” .
 
-**Art. 3.** W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. Nr 162, poz. 1568, z późn. zm.) art. 20 otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. Nr 162, poz. 1568, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390, z 2006 r. Nr 50, poz. 362 i Nr 126, poz. 875, z 2007 r. Nr 192, poz. 1394, z 2009 r. Nr 31, poz. 206 i Nr 97, poz. 804 oraz z 2010 r. Nr 75, poz. 474.) art. 20 otrzymuje brzmienie: „
 
 **Art. 20.** Projekty i zmiany planu zagospodarowania przestrzennego województwa oraz miejscowego planu zagospodarowania przestrzennego podlegają uzgodnieniu z wojewódzkim konserwatorem zabytków w zakresie kształtowania zabudowy i zagospodarowania terenu. ” .
 
@@ -142,5 +147,5 @@ source: "eli-html"
 
 2. Do miejscowych planów zagospodarowania przestrzennego oraz studiów uwarunkowań i kierunków zagospodarowania przestrzennego gminy, w stosunku do których podjęto uchwałę o przystąpieniu do sporządzania lub zmiany planu lub studium, a postępowanie nie zostało zakończone do dnia wejścia w życie ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492, z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2006 r. Nr 45, poz. 319 i Nr 225, poz. 1635, z 2007 r. Nr 127, poz. 880, z 2008 r. Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 220, poz. 1413 oraz z 2010 r. Nr 24, poz. 124, Nr 75, poz. 474, Nr 106, poz. 675 i Nr 119, poz. 804. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 143, poz. 1032, Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 220, poz. 1600, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 20, poz. 106, Nr 92, poz. 753 i Nr 157, poz. 1241 oraz z 2010 r. Nr 21, poz. 105 i Nr 81, poz. 529. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390, z 2006 r. Nr 50, poz. 362 i Nr 126, poz. 875, z 2007 r. Nr 192, poz. 1394, z 2009 r. Nr 31, poz. 206 i Nr 97, poz. 804 oraz z 2010 r. Nr 75, poz. 474.
 

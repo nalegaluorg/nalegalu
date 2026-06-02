@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-06-12 |
 | Data wydania | 2008-07-31 |
-| Wejście w życie | 2009-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081380863) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/863/text.pdf) |
 

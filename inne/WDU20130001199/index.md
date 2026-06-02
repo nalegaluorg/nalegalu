@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-09-13 |
 | Data wydania | 2013-10-10 |
-| Wejście w życie | 2013-10-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001199) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1199/text.pdf) |
 
@@ -30,15 +29,15 @@ source: "eli-html"
 
 - **1)** w art. 34 ust. 1 otrzymuje brzmienie: „
 
-1. W roku 2013 ze środków Krajowego Funduszu Drogowego, o którym mowa w art. 39 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm.), mogą być finansowane remonty i przebudowy dróg krajowych realizowane przez Generalnego Dyrektora Dróg Krajowych i Autostrad, do łącznej wysokości 165 mln zł. ” ;
+1. W roku 2013 ze środków Krajowego Funduszu Drogowego, o którym mowa w art. 39 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 oraz z 2013 r. poz. 433 i 843.), mogą być finansowane remonty i przebudowy dróg krajowych realizowane przez Generalnego Dyrektora Dróg Krajowych i Autostrad, do łącznej wysokości 165 mln zł. ” ;
 
 - **2)** po art. 37 dodaje się art. 37a-37e w brzmieniu: „
 
 **Art. 37a.**
 
-1. W roku 2013 nie stosuje się przepisu art. 7 ust. 1 ustawy z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2009 r. Nr 67, poz. 570, z późn. zm.).
+1. W roku 2013 nie stosuje się przepisu art. 7 ust. 1 ustawy z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2009 r. Nr 67, poz. 570, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 81, poz. 439 oraz z 2013 r. poz. 496.).
 
-2. W roku 2013 na finansowanie potrzeb obronnych Rzeczypospolitej Polskiej przeznacza się z budżetu państwa kwotę w wysokości 28 252 277 tys. zł. W roku 2013 nie stosuje się przepisu art. 94b ust. 3 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.).
+2. W roku 2013 na finansowanie potrzeb obronnych Rzeczypospolitej Polskiej przeznacza się z budżetu państwa kwotę w wysokości 28 252 277 tys. zł. W roku 2013 nie stosuje się przepisu art. 94b ust. 3 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544 oraz z 2013 r. poz. 675, 829 i 1005.).
 
 1. W roku 2013 nie stosuje się przepisu art. 5 ustawy z dnia 16 grudnia 2005 r. o finansowaniu infrastruktury transportu lądowego (Dz. U. Nr 267, poz. 2251, z 2007 r. Nr 23, poz. 136 oraz z 2009 r. Nr 19, poz. 100).
 
@@ -52,5 +51,5 @@ source: "eli-html"
 
 2. Minister właściwy do spraw oświaty i wychowania oraz wojewodowie występują do ministra właściwego do spraw finansów publicznych o podział rezerwy celowej, o której mowa w ust. 1, nie później niż do dnia 15 listopada 2013 r. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 oraz z 2013 r. poz. 433 i 843. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 81, poz. 439 oraz z 2013 r. poz. 496. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544 oraz z 2013 r. poz. 675, 829 i 1005.
 

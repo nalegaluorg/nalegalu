@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 28 grudnia 2018 r. w sprawie sposobu przesyłania informacji o schemacie podatkowym za pomocą środków komunikacji elektronicznej
+# Rozporządzenie Ministra Finansówz dnia 28 grudnia 2018 r. w sprawie sposobu przesyłania informacji o schemacie podatkowym za pomocą środków komunikacji elektronicznej Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-28 |
 | Data wydania | 2018-12-31 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002534) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2534/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 86n § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 86n § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629, 1693, 2126, 2193, 2244 i 2354.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób przesyłania za pomocą środków komunikacji elektronicznej informacji, o których mowa w art. 86b § 1 i 6, art. 86c § 1 i 2, art. 86d § 3, 4 i 5, art. 86f § 4 oraz art. 86j § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, zwanych dalej „informacjami”.
 § 2.
@@ -44,6 +43,5 @@ zapewnia integralność przekazanych informacji zgodnie z przepisami ustawy z dn
 2)
 zawiera datę i godzinę przekazania informacji i stanowi dowód doręczenia dokumentu.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629, 1693, 2126, 2193, 2244 i 2354.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629, 1693, 2126, 2193, 2244 i 2354.
 

@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-01-22 |
 | Data wydania | 2016-02-03 |
-| Wejście w życie | 2016-02-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000141) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/141/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 12a ust. 1 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2012 r. poz. 633, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 12a ust. 1 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2012 r. poz. 633, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1512, z 2014 r. poz. 1146, z 2015 r. poz. 1419 i 1893 oraz z 2016 r. poz. 50.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa zadania Agencji Rynku Rolnego, zwanej dalej „Agencją”, związane z ustanowieniem tymczasowej nadzwyczajnej pomocy dla rolników w sektorach hodowlanych określonej w rozporządzeniu delegowanym Komisji (UE) 2015/1853 z dnia 15 października 2015 r. ustanawiającym tymczasową nadzwyczajną pomoc dla rolników w sektorach hodowlanych (Dz. Urz. UE L 271 z 16.10.2015, str. 25), zwanym dalej „rozporządzeniem 2015/1853”, oraz sposób i tryb realizacji tych zadań.
 § 2.
@@ -48,7 +47,7 @@ w dniu złożenia wniosku o udzielenie wsparcia posiada co najmniej 3 krowy typu
 2.
 Przy ustalaniu ilości mleka, o którym mowa w ust. 1 pkt 1, uwzględnia się:
 1)
-ilość mleka wprowadzonego do obrotu przez producenta mleka w roku kwotowym 2014/2015 po przeliczeniu na mleko o referencyjnej zawartości tłuszczu – w przypadku producenta posiadającego w dniu 31 marca 2015 r. kwotę indywidualną dla dostaw, o której mowa w art. 10 ust. 1 pkt 1 ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2013 r. poz. 50, z późn. zm.) (w brzmieniu z dnia 28 sierpnia 2010 r., Dz. U. z 2010 r. Nr 148, poz. 990), zwanej dalej „ustawą o organizacji rynku mleka”;
+ilość mleka wprowadzonego do obrotu przez producenta mleka w roku kwotowym 2014/2015 po przeliczeniu na mleko o referencyjnej zawartości tłuszczu – w przypadku producenta posiadającego w dniu 31 marca 2015 r. kwotę indywidualną dla dostaw, o której mowa w art. 10 ust. 1 pkt 1 ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2013 r. poz. 50, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1272 oraz z 2015 r. poz. 165, 1419 i 1893.) (w brzmieniu z dnia 28 sierpnia 2010 r., Dz. U. z 2010 r. Nr 148, poz. 990), zwanej dalej „ustawą o organizacji rynku mleka”;
 2)
 ilość mleka oraz ilość przetworów mlecznych wprowadzonych do obrotu przez producenta mleka w roku kwotowym 2014/2015 po przeliczeniu na ilość mleka z zastosowaniem współczynników równoważności określonych w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 14 kwietnia 2005 r. w sprawie określenia współczynników równoważności oraz zakresu zawartości tłuszczu w śmietance (Dz. U. Nr 68, poz. 604) – w przypadku producenta posiadającego w dniu 31 marca 2015 r. kwotę indywidualną dla sprzedaży bezpośredniej, o której mowa w art. 11 ust. 1 ustawy o organizacji rynku mleka.
 3.
@@ -69,8 +68,7 @@ sumy kilogramów mleka wprowadzonego do obrotu w roku kwotowym 2014/2015 przez p
 a)
 ubiegającego się o wsparcie – w przypadku gdy o wsparcie ubiega się producent mleka spełniający warunki określone w § 4 ust. 1 lub
 b)
-którego gospodarstwo zostało objęte w posiadanie przez producenta mleka ubiegającego się o wsparcie – w przypadku, o którym mowa w § 4 ust. 3 albo 4
-nie większej jednak niż 300 000 kg, oraz
+którego gospodarstwo zostało objęte w posiadanie przez producenta mleka ubiegającego się o wsparcie – w przypadku, o którym mowa w § 4 ust. 3 albo 4 – nie większej jednak niż 300 000 kg, oraz
 2)
 ilorazu:
 a)
@@ -116,8 +114,7 @@ ilorazu:
 a)
 sumy równowartości w złotych 50% wysokości środków finansowych przewidzianych dla Rzeczypospolitej Polskiej w załączniku do rozporządzenia 2015/1853 oraz kwoty 61 437 055,49 zł, pomniejszonej o 0,1% wysokości tej sumy, oraz
 b)
-sumy liczby świń, do których przysługuje wsparcie, zgodnie z pkt 1, wszystkim producentom świń ubiegającym się o wsparcie, powiększonej o sumę liczby świń o numerze identyfikacyjnym, który jest numerem siedziby stada producenta świń, który sprzedał te świnie, do których przysługuje wsparcie, zgodnie z pkt 1, wszystkim producentom świń ubiegającym się o wsparcie
-nie większego niż 35 zł.
+sumy liczby świń, do których przysługuje wsparcie, zgodnie z pkt 1, wszystkim producentom świń ubiegającym się o wsparcie, powiększonej o sumę liczby świń o numerze identyfikacyjnym, który jest numerem siedziby stada producenta świń, który sprzedał te świnie, do których przysługuje wsparcie, zgodnie z pkt 1, wszystkim producentom świń ubiegającym się o wsparcie – nie większego niż 35 zł.
 2.
 Wysokość wsparcia, o którym mowa w § 3 pkt 2, ustaloną na podstawie ust. 1, przysługującego do świń o numerze identyfikacyjnym, który jest numerem siedziby stada producenta świń:
 1)
@@ -127,8 +124,7 @@ którego gospodarstwo zostało objęte w posiadanie:
 a)
 w wyniku dziedziczenia lub w wyniku zapisu windykacyjnego przez producenta świń ubiegającego się o wsparcie albo
 b)
-na podstawie umowy darowizny przez producenta świń ubiegającego się o wsparcie, który jest małżonkiem, zstępnym albo wstępnym darczyńcy
-zwiększa się o 100%, przy czym wysokość wsparcia przysługującego do tych świń nie może być większa niż 70 zł do jednej świni.
+na podstawie umowy darowizny przez producenta świń ubiegającego się o wsparcie, który jest małżonkiem, zstępnym albo wstępnym darczyńcy – zwiększa się o 100%, przy czym wysokość wsparcia przysługującego do tych świń nie może być większa niż 70 zł do jednej świni.
 3.
 Przy ustalaniu liczby świń, o których mowa w ust. 1, nie uwzględnia się świń, które producent świń ubiegający się o wsparcie, o którym mowa w § 3 pkt 2, sprzedał w ramach działalności w zakresie:
 1)
@@ -155,8 +151,7 @@ numer siedziby stada producenta:
 a)
 mleka albo
 b)
-świń
-nadany na podstawie ustawy z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2015 r. poz. 1172 i 1893);
+świń – nadany na podstawie ustawy z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2015 r. poz. 1172 i 1893);
 3)
 numer rejestracyjny, o którym mowa w art. 23 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych, nadany producentowi mleka, którego gospodarstwo zostało objęte w posiadanie przez producenta mleka ubiegającego się o wsparcie – w przypadkach, o których mowa w § 4 ust. 3 i 4;
 4)
@@ -192,5 +187,5 @@ Prezes Agencji podaje do publicznej wiadomości, na stronie internetowej adminis
 § 11.
 Środki finansowe z tytułu wsparcia Agencja wypłaca w terminie określonym w art. 1 ust. 1 rozporządzenia 2015/1853 na rachunek bankowy producenta mleka albo producenta świń zawarty w centralnym rejestrze przedsiębiorców, o którym mowa w art. 22 ust. 1 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1512, z 2014 r. poz. 1146, z 2015 r. poz. 1419 i 1893 oraz z 2016 r. poz. 50. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1272 oraz z 2015 r. poz. 165, 1419 i 1893.
 

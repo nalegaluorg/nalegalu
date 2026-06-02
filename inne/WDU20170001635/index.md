@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 24 sierpnia 2017 r. w sprawie organizowania wczesnego wspomagania rozwoju dzieci
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 24 sierpnia 2017 r. w sprawie organizowania wczesnego wspomagania rozwoju dzieci Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-24 |
 | Data wydania | 2017-08-30 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001635) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1635/text.pdf) |
 
@@ -118,6 +117,5 @@ identyfikowanie i eliminowanie barier i ograniczeń w środowisku utrudniającyc
 § 9.
 Podmioty, o których mowa w art. 127 ust. 5 ustawy, w których przed dniem wejścia w życie rozporządzenia został utworzony zespół, dostosują swoją działalność do warunków określonych w rozporządzeniu w terminie do dnia 30 października 2017 r.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 11 października 2013 r. w sprawie organizowania wczesnego wspomagania rozwoju dzieci (Dz. U. poz. 1257), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 11 października 2013 r. w sprawie organizowania wczesnego wspomagania rozwoju dzieci (Dz. U. poz. 1257), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949). 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 11 października 2013 r. w sprawie organizowania wczesnego wspomagania rozwoju dzieci (Dz. U. poz. 1257), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
 

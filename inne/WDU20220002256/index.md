@@ -31,14 +31,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 10 grudnia 2015 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Scalanie gruntów” w ramach poddziałania „Wsparcie na inwestycje związane z rozwojem, modernizacją i dostosowywaniem rolnictwa i leśnictwa” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2020 r. poz. 898), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2021 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Scalanie gruntów” w ramach poddziałania „Wsparcie na inwestycje związane z rozwojem, modernizacją i dostosowywaniem rolnictwa i leśnictwa” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1843).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Scalanie gruntów” w ramach poddziałania „Wsparcie na inwestycje związane z rozwojem, modernizacją i dostosowywaniem rolnictwa i leśnictwa” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1843), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Scalanie gruntów” w ramach poddziałania „Wsparcie na inwestycje związane z rozwojem, modernizacją i dostosowywaniem rolnictwa i leśnictwa” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1843), które stanowią: „
 § 2.
 Do przyznawania i wypłaty pomocy finansowej na operacje typu „Scalanie gruntów” w ramach poddziałania „Wsparcie na inwestycje związane z rozwojem, modernizacją i dostosowywaniem rolnictwa i leśnictwa” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014‒2020, w sprawach objętych postępowaniami wszczętymi i niezakończonymi przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 grudnia 2015 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Scalanie gruntów” w ramach poddziałania „Wsparcie na inwestycje związane z rozwojem, modernizacją i dostosowywaniem rolnictwa i leśnictwa” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 grudnia 2015 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Scalanie gruntów” w ramach poddziałania „Wsparcie na inwestycje związane z rozwojem, modernizacją i dostosowywaniem rolnictwa i leśnictwa” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2022 r. poz. 1234 i 1270) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb przyznawania oraz wypłaty pomocy finansowej na operacje typu „Scalanie gruntów” w ramach poddziałania „Wsparcie na inwestycje związane z rozwojem, modernizacją i dostosowywaniem rolnictwa i leśnictwa” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, zwanej dalej „pomocą”, w tym:
@@ -74,7 +72,7 @@ usytuowanie gruntów:
 – przeznaczonych na cele inne niż rolne w miejscowym planie zagospodarowania przestrzennego, a w przypadku braku takiego planu – w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy;
 5)
 wydano dla niej decyzję o środowiskowych uwarunkowaniach;
-6)
+6Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Scalanie gruntów” w ramach poddziałania „Wsparcie na inwestycje związane z rozwojem, modernizacją i dostosowywaniem rolnictwa i leśnictwa” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1843), które weszło w życie z dniem 26 października 2021 r.)
 będzie realizowana bez podziału na etapy albo etapami, a wykonanie zakresu rzeczowego, zgodnie z zestawieniem rzeczowo-finansowym operacji, w tym poniesienie przez beneficjenta kosztów kwalifikowalnych operacji oraz złożenie wniosku o płatność końcową nastąpi nie później niż do dnia 30 czerwca 2025 r.;
 7)
 jej realizacja nie jest możliwa bez udziału środków publicznych.
@@ -89,8 +87,7 @@ pracami scaleniowymi,
 b)
 zagospodarowaniem poscaleniowym,
 3)
-podatku od towarów i usług (VAT), zgodnie z art. 69 ust. 3 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), zwanego dalej „rozporządzeniem nr 1303/2013”
-które są uzasadnione zakresem operacji, niezbędne do osiągnięcia jej celu oraz racjonalne.
+podatku od towarów i usług (VAT), zgodnie z art. 69 ust. 3 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), zwanego dalej „rozporządzeniem nr 1303/2013” – które są uzasadnione zakresem operacji, niezbędne do osiągnięcia jej celu oraz racjonalne.
 § 6.
 1.
 Pomoc jest przyznawana w wysokości 100% kosztów kwalifikowalnych, z tym że nie wyższej niż równowartość:
@@ -246,7 +243,7 @@ zapewnienia wszczęcia, w terminie 12 miesięcy od dnia podpisania umowy, postę
 9)
 zapewnienia realizacji operacji w części wynikającej z kryteriów, o których mowa w § 11 ust. 1 pkt 3 i 4 – w przypadku gdy operacji przyznano punkty według tych kryteriów.
 § 16.
-(uchylony).
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
 § 17.
 1.
 Środki finansowe z tytułu pomocy są wypłacane na warunkach określonych w umowie.
@@ -267,7 +264,7 @@ od dnia, w którym został złożony wniosek o przyznanie pomocy, a w przypadku 
 b)
 zgodnie z przepisami:
 – o zamówieniach publicznych – w przypadku gdy te przepisy mają zastosowanie,
-– (uchylone),
+– (uchylone),Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.
 c)
 w formie rozliczenia bezgotówkowego;
 2)
@@ -316,6 +313,5 @@ uwzględnione w oddzielnym systemie rachunkowości albo gdy do ich identyfikacji
 2.
 Do przyznawania i wypłaty środków finansowych z tytułu kosztów ogólnych, o których mowa w ust. 1, przepisu § 17 ust. 3 nie stosuje się.
 § 24.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Scalanie gruntów” w ramach poddziałania „Wsparcie na inwestycje związane z rozwojem, modernizacją i dostosowywaniem rolnictwa i leśnictwa” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1843), które weszło w życie z dniem 26 października 2021 r. 3) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) Rozporządzenie zostało ogłoszone w dniu 23 grudnia 2015 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 23 grudnia 2015 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Scalanie gruntów” w ramach poddziałania „Wsparcie na inwestycje związane z rozwojem, modernizacją i dostosowywaniem rolnictwa i leśnictwa” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1843), które weszło w życie z dniem 26 października 2021 r. 3) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) Rozporządzenie zostało ogłoszone w dniu 23 grudnia 2015 r.
 

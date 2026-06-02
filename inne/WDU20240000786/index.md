@@ -40,13 +40,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 28 czerwca 2019 r. w sprawie określenia stanowisk urzędniczych, zasad wynagradzania oraz wymaganych kwalifikacji zawodowych pracowników Biura Krajowej Rady Radiofonii i Telewizji (Dz. U. poz. 1234), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 22 listopada 2023 r. zmieniającym rozporządzenie w sprawie określenia stanowisk urzędniczych, zasad wynagradzania oraz wymaganych kwalifikacji zawodowych pracowników Biura Krajowej Rady Radiofonii i Telewizji (Dz. U. poz. 2613).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 22 listopada 2023 r. zmieniającego rozporządzenie w sprawie określenia stanowisk urzędniczych, zasad wynagradzania oraz wymaganych kwalifikacji zawodowych pracowników Biura Krajowej Rady Radiofonii i Telewizji (Dz. U. poz. 2613), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 22 listopada 2023 r. zmieniającego rozporządzenie w sprawie określenia stanowisk urzędniczych, zasad wynagradzania oraz wymaganych kwalifikacji zawodowych pracowników Biura Krajowej Rady Radiofonii i Telewizji (Dz. U. poz. 2613), które stanowią: „
 § 2.
 Do miesięcznych dodatków aplikacyjnych, przysługujących w ramach aplikacji administracyjnej rozpoczętej przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. ” .
 Załącznik – Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 28 czerwca 2019 r. w sprawie określenia stanowisk urzędniczych, zasad wynagradzania oraz wymaganych kwalifikacji zawodowych pracowników Biura Krajowej Rady Radiofonii i Telewizji
 Na podstawie art. 48 ust. 1 pkt 4 w związku z art. 2 pkt 1, art. 21 ust. 3, art. 22 ust. 2, art. 23 ust. 2, art. 24 ust. 2 i art. 471 ust. 3 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917) zarządza się, co następuje:
 § 1.
@@ -106,10 +104,10 @@ Pracownikowi Biura zatrudnionemu na stanowisku kierowniczym, samodzielnym albo d
 § 9.
 Przewodniczący, w ramach posiadanych środków na wynagrodzenia, może przyznać pracownikowi Biura zatrudnionemu na stanowisku urzędnika państwowego dodatek specjalny w wysokości do 50 % wynagrodzenia zasadniczego. Przyznanie i wysokość dodatku specjalnego uzależnione są od charakteru, złożoności i efektów pracy.
 § 10.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 22 listopada 2023 r. zmieniającego rozporządzenie w sprawie określenia stanowisk urzędniczych, zasad wynagradzania oraz wymaganych kwalifikacji zawodowych pracowników Biura Krajowej Rady Radiofonii i Telewizji (Dz. U. poz. 2613), które weszło w życie z dniem 1 stycznia 2024 r..
 Pracownikowi Biura będącemu kierownikiem aplikacji administracyjnej przysługuje, przez okres pełnienia tej funkcji, miesięczny dodatek aplikacyjny w wysokości 1080 zł.
 2.
-Opiekunowi aplikanta przysługuje, przez okres od dnia powierzenia funkcji opiekuna aplikanta do dnia egzaminu końcowego aplikanta, miesięczny dodatek aplikacyjny w wysokości 720 zł. W przypadku pełnienia funkcji opiekuna aplikanta dla więcej niż jednego aplikanta, opiekunowi aplikanta przysługuje wielokrotność dodatku, o którym mowa w zdaniu pierwszym.
+Opiekunowi aplikanta przysługuje, przez okres od dnia powierzenia funkcji opiekuna aplikanta do dnia egzaminu końcowego aplikanta, miesięczny dodatek aplikacyjny w wysokości 720 zł.Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1. W przypadku pełnienia funkcji opiekuna aplikanta dla więcej niż jednego aplikanta, opiekunowi aplikanta przysługuje wielokrotność dodatku, o którym mowa w zdaniu pierwszym.
 3.
 Opiekunowi aplikanta, zastępującemu kierownika aplikacji administracyjnej przez okres co najmniej 30 dni, przysługuje za ten okres dodatek aplikacyjny w wysokości określonej w ust. 1. Kierownikowi aplikacji administracyjnej za ten okres dodatek aplikacyjny nie przysługuje.
 § 11.
@@ -170,25 +168,30 @@ Tworzy się fundusz premiowy dla pracowników zatrudnionych na stanowiskach obs�
 2.
 Wysokość funduszu premiowego, o którym mowa w ust. 1, oraz zasady i warunki przyznawania premii określa Przewodniczący.
 § 16.
-Rozporządzenie wchodzi w życie z dniem 7 lipca 2019 r.
+Rozporządzenie wchodzi w życie z dniem 7 lipca 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 23 grudnia 2002 r. w sprawie zasad wynagradzania oraz wymogów kwalifikacyjnych pracowników Biura Krajowej Rady Radiofonii i Telewizji (Dz. U. poz. 2075), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 3 ustawy z dnia 16 maja 2019 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1043). 1) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 22 listopada 2023 r. zmieniającego rozporządzenie w sprawie określenia stanowisk urzędniczych, zasad wynagradzania oraz wymaganych kwalifikacji zawodowych pracowników Biura Krajowej Rady Radiofonii i Telewizji (Dz. U. poz. 2613), które weszło w życie z dniem 1 stycznia 2024 r. 2) Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 23 grudnia 2002 r. w sprawie zasad wynagradzania oraz wymogów kwalifikacyjnych pracowników Biura Krajowej Rady Radiofonii i Telewizji (Dz. U. poz. 2075), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 3 ustawy z dnia 16 maja 2019 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1043).
 
 ## Załącznik nr 1 — – Wykaz stanowisk, wymagań kwalifikacyjnych, kategorii zaszeregowania oraz dodatku funkcyjnego pracowników biura zatrudnionych na stanowiskach urzędników państwowych
 
-4) Lp. Stanowisko Wymagania kwalifikacyjne Kategoria zaszeregowania Stawka dodatku funkcyjnego do wykształcenie liczba lat pracy (w tym na stanowisku kierowniczym) 1 Dyrektor Biura wyższe magisterskie 8(5) XV-XVI 10 2 wicedyrektor Biura, dyrektor departamentu wyższe magisterskie 7(4) XIV-XV 9 3 wicedyrektor departamentu wyższe magisterskie 7(3) XIII-XIV 8 główny księgowy według odrębnych przepisów 4 główny specjalista do spraw legislacji wyższe prawnicze oraz ukończona aplikacja legislacyjna lub ukończone studia podyplomowe z zakresu legislacji 7 XI-XIII 6 ekspert wyższe magisterskie inspektor ochrony danych pełnomocnik do spraw ochrony informacji niejawnych audytor wewnętrzny według odrębnych przepisów radca prawny według odrębnych przepisów – 5 doradca Przewodniczącego Krajowej Rady Radiofonii i Telewizji, doradca członka Krajowej Rady Radiofonii i Telewizji wyższe magisterskie 7 XI-XIII 6 6 naczelnik wydziału wyższe magisterskie 6(3) XI-XII 7 7 główny specjalista wyższe 6 X-XII – główny specjalista do spraw bezpieczeństwa i higieny pracy według odrębnych przepisów 8 asystent członka Krajowej Rady Radiofonii i Telewizji wyższe 5 IX-XI – średnie 7 9 aspirant wyższe 5 VIII-X – średnie 7 10 starszy specjalista wyższe 4 VII-IX – starszy specjalista do spraw bezpieczeństwa i higieny pracy według odrębnych przepisów 11 specjalista wyższe 3 VI-VIII – specjalista do spraw bezpieczeństwa i higieny pracy według odrębnych przepisów 12 starszy inspektor, starszy archiwista wyższe 2 V-VII – średnie 4 13 inspektor, archiwista wyższe 1 IV-VI – średnie 2 14 referent prawny wyższe prawnicze – III-V – 15 starszy referent wyższe – II-IV – średnie 1 16 referent średnie – I-III – 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
+4)
+Lp. Stanowisko Wymagania kwalifikacyjne Kategoria zaszeregowania Stawka dodatku funkcyjnego do wykształcenie liczba lat pracy (w tym na stanowisku kierowniczym) 1 Dyrektor Biura wyższe magisterskie 8(5) XV-XVI 10 2 wicedyrektor Biura, dyrektor departamentu wyższe magisterskie 7(4) XIV-XV 9 3 wicedyrektor departamentu wyższe magisterskie 7(3) XIII-XIV 8 główny księgowy według odrębnych przepisów 4 główny specjalista do spraw legislacji wyższe prawnicze oraz ukończona aplikacja legislacyjna lub ukończone studia podyplomowe z zakresu legislacji 7 XI-XIII 6 ekspert wyższe magisterskie inspektor ochrony danych pełnomocnik do spraw ochrony informacji niejawnych audytor wewnętrzny według odrębnych przepisów radca prawny według odrębnych przepisów – 5 doradca Przewodniczącego Krajowej Rady Radiofonii i Telewizji, doradca członka Krajowej Rady Radiofonii i Telewizji wyższe magisterskie 7 XI-XIII 6 6 naczelnik wydziału wyższe magisterskie 6(3) XI-XII 7 7 główny specjalista wyższe 6 X-XII – główny specjalista do spraw bezpieczeństwa i higieny pracy według odrębnych przepisów 8 asystent członka Krajowej Rady Radiofonii i Telewizji wyższe 5 IX-XI – średnie 7 9 aspirant wyższe 5 VIII-X – średnie 7 10 starszy specjalista wyższe 4 VII-IX – starszy specjalista do spraw bezpieczeństwa i higieny pracy według odrębnych przepisów 11 specjalista wyższe 3 VI-VIII – specjalista do spraw bezpieczeństwa i higieny pracy według odrębnych przepisów 12 starszy inspektor, starszy archiwista wyższe 2 V-VII – średnie 4 13 inspektor, archiwista wyższe 1 IV-VI – średnie 2 14 referent prawny wyższe prawnicze – III-V – 15 starszy referent wyższe – II-IV – średnie 1 16 referent średnie – I-III –
 
 ## Załącznik nr 2 — – Tabela stanowisk, wymagań kwalifikacyjnych oraz kategorii zaszeregowania pracowników biura zatrudnionych na stanowiskach obsługi
 
-4) Lp. Stanowisko Wymagania kwalifikacyjne Kategoria zaszeregowania wykształcenie liczba lat pracy 1 kierowca, kierowca zaopatrzeniowiec zawodowe i prawo jazdy kategorii B 2 IV-VI 2 pracownik gospodarczy podstawowe – II-IV 3 sprzątaczka podstawowe – I-III
+4)
+Lp. Stanowisko Wymagania kwalifikacyjne Kategoria zaszeregowania wykształcenie liczba lat pracy 1 kierowca, kierowca zaopatrzeniowiec zawodowe i prawo jazdy kategorii B 2 IV-VI 2 pracownik gospodarczy podstawowe – II-IV 3 sprzątaczka podstawowe – I-III
 
 ## Załącznik nr 3 — – Tabela miesięcznych stawek wynagrodzenia zasadniczego
 
 4)
 A.
-Dla pracowników Biura zatrudnionych na stanowiskach urzędników państwowych Kategoria zaszeregowania Kwota w złotych I 3 600–4 300 II 3 650–4 600 III 3 700–5 000 IV 3 750–5 600 V 3 850–6 000 VI 3 900–6 200 VII 4 000–6 500 VIII 4 100–7 000 IX 4 200–7 500 X 4 350–8 000 XI 4 600–8 500 XII 5 000–9 500 XIII 5 500–10 000 XIV 7 000–11 000 XV 8 000–12 000 XVI 9 000–14 000
+Dla pracowników Biura zatrudnionych na stanowiskach urzędników państwowych
+Kategoria zaszeregowania Kwota w złotych I 3 600–4 300 II 3 650–4 600 III 3 700–5 000 IV 3 750–5 600 V 3 850–6 000 VI 3 900–6 200 VII 4 000–6 500 VIII 4 100–7 000 IX 4 200–7 500 X 4 350–8 000 XI 4 600–8 500 XII 5 000–9 500 XIII 5 500–10 000 XIV 7 000–11 000 XV 8 000–12 000 XVI 9 000–14 000
 B.
-Dla pracowników Biura zatrudnionych na stanowiskach obsługi Kategoria zaszeregowania Kwota w złotych I 3 600–4 000 II 3 700–4 300 III 3 900–4 600 IV 4 100–4 900 V 4 300–5 500 VI 4 500–5 800
+Dla pracowników Biura zatrudnionych na stanowiskach obsługi
+Kategoria zaszeregowania Kwota w złotych I 3 600–4 000 II 3 700–4 300 III 3 900–4 600 IV 4 100–4 900 V 4 300–5 500 VI 4 500–5 800
 
 ## Załącznik nr 4 — – Tabela stawek dodatku funkcyjnego
 
-Stawka Procent najniższego wynagrodzenia* 1 do 20 % 2 do 30 % 3 do 40 % 4 do 50 % 5 do 60 % 6 do 70 % 7 do 85 % 8 do 100 % 9 do 125 % 10 do 150 % * Najniższe wynagrodzenie oznacza najniższe wynagrodzenie zasadnicze w pierwszej kategorii zaszeregowania, określone w załączniku nr 3 do rozporządzenia w Tabeli miesięcznych stawek wynagrodzenia zasadniczego w lit. A.
+Stawka Procent najniższego wynagrodzenia* 1 do 20 % 2 do 30 % 3 do 40 % 4 do 50 % 5 do 60 % 6 do 70 % 7 do 85 % 8 do 100 % 9 do 125 % 10 do 150 %
+* Najniższe wynagrodzenie oznacza najniższe wynagrodzenie zasadnicze w pierwszej kategorii zaszeregowania, określone w załączniku nr 3 do rozporządzenia w Tabeli miesięcznych stawek wynagrodzenia zasadniczego w lit. A.
 

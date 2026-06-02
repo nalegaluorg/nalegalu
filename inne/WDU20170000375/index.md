@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 22 lutego 2017 r. w sprawie stawek opłat oraz sposobu ich obliczania
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 22 lutego 2017 r. w sprawie stawek opłat oraz sposobu ich obliczania Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-22 |
 | Data wydania | 2017-02-27 |
-| Wejście w życie | 2017-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000375) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/375/text.pdf) |
 
@@ -50,6 +49,5 @@ Za przechowywanie towarów unijnych w depozycie lub magazynie czasowego składow
 § 3.
 Ustala się stawkę opłaty za czynności podejmowane w wyniku wykonywania, na wniosek osoby zainteresowanej, czynności przewidzianych w przepisach prawa celnego w miejscu innym niż urząd celno-skarbowy lub poza czasem pracy urzędu celno-skarbowego w wysokości 30 zł za każdą rozpoczętą godzinę pracy funkcjonariusza Służby Celno-Skarbowej, w tym za czas niezbędny na dojazd oraz za opóźnienia i przerwy w ich wykonywaniu, niezawinione przez funkcjonariusza Służby Celno-Skarbowej.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 18 października 2012 r. w sprawie stawek opłat pobieranych przez organy celne oraz sposobu ich obliczania (Dz. U. poz. 1145 oraz z 2016 r. poz. 626), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, w związku z wejściem w życie ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255).
+Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 18 października 2012 r. w sprawie stawek opłat pobieranych przez organy celne oraz sposobu ich obliczania (Dz. U. poz. 1145 oraz z 2016 r. poz. 626), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, w związku z wejściem w życie ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 18 października 2012 r. w sprawie stawek opłat pobieranych przez organy celne oraz sposobu ich obliczania (Dz. U. poz. 1145 oraz z 2016 r. poz. 626), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, w związku z wejściem w życie ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255).
 

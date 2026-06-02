@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-10-04 |
 | Data wydania | 2012-10-12 |
-| Wejście w życie | 2012-10-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001123) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1123/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 22a ust. 2 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2005 r. Nr 145, poz. 1221, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 22a ust. 2 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2005 r. Nr 145, poz. 1221, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, z 2008 r. Nr 171, poz. 1055 i Nr 180, poz. 1112, z 2009 r. Nr 98, poz. 817, z 2010 r. Nr 47, poz. 278, Nr 182, poz. 1228 i Nr 229, poz. 1496, z 2011 r. Nr 106, poz. 622, Nr 170, poz. 1015 i Nr 171, poz. 1016 oraz z 2012 r. poz. 908.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy zakres obowiązkowego ubezpieczenia odpowiedzialności cywilnej przedsiębiorcy ubiegającego się o zawarcie umowy na prowadzenie działalności w zakresie, o którym mowa w art. 22a ust. 1 pkt 13 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, za szkody powstałe w związku z prowadzeniem tej działalności, zwanego dalej „ubezpieczeniem OC”, termin powstania obowiązku ubezpieczenia OC oraz minimalną sumę gwarancyjną tego ubezpieczenia.
 § 2.
@@ -63,5 +62,5 @@ Jeżeli przedsiębiorca prowadzi działalność gospodarczą w zakresie ochrony 
 4.
 Kwoty, o których mowa w ust. 1, ustalane są przy zastosowaniu średniego kursu SDR ogłoszonego przez Narodowy Bank Polski po raz pierwszy w roku, w którym umowa ubezpieczenia OC jest zawierana.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, z 2008 r. Nr 171, poz. 1055 i Nr 180, poz. 1112, z 2009 r. Nr 98, poz. 817, z 2010 r. Nr 47, poz. 278, Nr 182, poz. 1228 i Nr 229, poz. 1496, z 2011 r. Nr 106, poz. 622, Nr 170, poz. 1015 i Nr 171, poz. 1016 oraz z 2012 r. poz. 908.
 

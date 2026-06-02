@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. z 2020 r. poz. 1297), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 lutego 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 63, art. 64 i art. 71 ustawy z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 63, art. 64 i art. 71 ustawy z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429), które stanowią: „
 
 **Art. 63.**
 
@@ -80,18 +79,18 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 1. Osoba wymagająca opieki:
 
 - **1)** na którą przyznano na podstawie przepisów dotychczasowych prawo do świadczenia pielęgnacyjnego albo specjalnego zasiłku opiekuńczego, o których mowa w ustawie zmienianej w art. 43, albo prawo do zasiłku dla opiekuna, o którym mowa w ustawie zmienianej w art. 51,
-- **2)** na którą przyznano prawo do świadczenia pielęgnacyjnego na podstawie przepisów ustawy zmienianej w art. 43 w brzmieniu nadanym niniejszą ustawą może otrzymać świadczenie wspierające od dnia 1 stycznia 2024 r., także w przypadku, gdy w decyzji ustalającej poziom potrzeby wsparcia, potrzebę tę określono na poziomie od 70 do 89 punktów w skali potrzeby wsparcia, o której mowa w art. 4b ust. 1 ustawy zmienianej w art. 39, o ile spełnia warunki uprawniające do tego świadczenia, z uwzględnieniem art. 9 ust. 2 i art. 26.
+- **2)** na którą przyznano prawo do świadczenia pielęgnacyjnego na podstawie przepisów ustawy zmienianej w art. 43 w brzmieniu nadanym niniejszą ustawą – może otrzymać świadczenie wspierające od dnia 1 stycznia 2024 r., także w przypadku, gdy w decyzji ustalającej poziom potrzeby wsparcia, potrzebę tę określono na poziomie od 70 do 89 punktów w skali potrzeby wsparcia, o której mowa w art. 4b ust. 1 ustawy zmienianej w art. 39, o ile spełnia warunki uprawniające do tego świadczenia, z uwzględnieniem art. 9 ust. 2 i art. 26.
 
 2. W przypadku, o którym mowa w ust. 1, wysokość świadczenia wspierającego ustala się zgodnie z przepisami art. 4 ust. 1 pkt 3–6. ” „
 
 **Art. 71.** Ustawa wchodzi w życie z dniem 1 stycznia 2024 r., z wyjątkiem:
 
-- **1)** art. 4 ust. 1: pkt 3 – w zakresie osób, którym w decyzji ustalającej poziom potrzeby wsparcia potrzebę tę określono na poziomie 85 i 86 punktów w skali potrzeby wsparcia, o której mowa w art. 4b ust. 1 ustawy zmienianej w art. 39, pkt 4, pkt 5 – w zakresie osób, którym w decyzji ustalającej poziom potrzeby wsparcia potrzebę tę określono na poziomie 78 i 79 punktów w skali potrzeby wsparcia, o której mowa w art. 4b ust. 1 ustawy zmienianej w art. 39 które wchodzą w życie z dniem 1 stycznia 2025 r.;
+- **1)** art. 4 ust. 1: pkt 3 – w zakresie osób, którym w decyzji ustalającej poziom potrzeby wsparcia potrzebę tę określono na poziomie 85 i 86 punktów w skali potrzeby wsparcia, o której mowa w art. 4b ust. 1 ustawy zmienianej w art. 39, pkt 4, pkt 5 – w zakresie osób, którym w decyzji ustalającej poziom potrzeby wsparcia potrzebę tę określono na poziomie 78 i 79 punktów w skali potrzeby wsparcia, o której mowa w art. 4b ust. 1 ustawy zmienianej w art. 39 – które wchodzą w życie z dniem 1 stycznia 2025 r.;
     - **a)**
     - **b)**
     - **c)**
 
-- **2)** art. 4 ust. 1: pkt 5 – w zakresie osób, którym w decyzji ustalającej poziom potrzeby wsparcia potrzebę tę określono na poziomie 75–77 punktów w skali potrzeby wsparcia, o której mowa w art. 4b ust. 1 ustawy zmienianej w art. 39, pkt 6 które wchodzą w życie z dniem 1 stycznia 2026 r.;
+- **2)** art. 4 ust. 1: pkt 5 – w zakresie osób, którym w decyzji ustalającej poziom potrzeby wsparcia potrzebę tę określono na poziomie 75–77 punktów w skali potrzeby wsparcia, o której mowa w art. 4b ust. 1 ustawy zmienianej w art. 39, pkt 6 – które wchodzą w życie z dniem 1 stycznia 2026 r.;
     - **a)**
     - **b)**
 
@@ -137,7 +136,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Zaprzestanie prowadzenia gospodarstwa rolnego lub zaprzestanie wykonywania pracy w gospodarstwie rolnym, o których mowa w ust. 1, potwierdza się stosownym oświadczeniem złożonym pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
-**Art. 4.** Zasiłek dla opiekuna przysługuje w wysokości 520 zł miesięcznie.
+**Art. 4.** Zasiłek dla opiekuna przysługuje w wysokości 520Wysokość zasiłku jest ustalana na podstawie art. 10 niniejszej ustawy. zł miesięcznie.
 
 **Art. 5.**
 
@@ -173,25 +172,16 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Zadania określone w niniejszej ustawie są realizowane za pomocą systemów teleinformatycznych stosowanych w urzędach administracji publicznej realizujących zadania w zakresie świadczeń rodzinnych określonych w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych. Minister właściwy do spraw rodziny określi, w drodze rozporządzenia, sposób sporządzania sprawozdań rzeczowo-finansowych z realizacji zadań określonych w ustawie oraz terminy i sposób ich przekazywania, uwzględniając potrzebę zapewnienia skutecznej realizacji zadań określonych w ustawie.
 
-**Art. 10.**
-
-1. W sprawach nieuregulowanych w ustawie stosuje się odpowiednio obowiązujące do dnia 31 grudnia 2023 r. przepisy ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych dotyczące świadczeń pielęgnacyjnych.
-
-2. Wysokość zasiłku dla opiekuna podlega weryfikacji, o której mowa w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, na zasadach określonych w rozdziale 4 tej ustawy.
-
-3. W przypadku gdy Rada Dialogu Społecznego nie uzgodni w terminie, o którym mowa w art. 19 ust. 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych wysokości zasiłku dla opiekuna, Rada Ministrów ustala jego wysokość w drodze rozporządzenia. Art. 11–22. (pominięte)
+**Art. 10.** 1W brzmieniu ustalonym przez art. 51 ustawy z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429), która weszła w życie z dniem 1 stycznia 2024 r.. W sprawach nieuregulowanych w ustawie stosuje się odpowiednio obowiązujące do dnia 31 grudnia 2023 r. przepisy ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych dotyczące świadczeń pielęgnacyjnych. 2. Wysokość zasiłku dla opiekuna podlega weryfikacji, o której mowa w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, na zasadach określonych w rozdziale 4 tej ustawy. 3. W przypadku gdy Rada Dialogu Społecznego nie uzgodni w terminie, o którym mowa w art. 19 ust. 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych wysokości zasiłku dla opiekuna, Rada Ministrów ustala jego wysokość w drodze rozporządzenia. Art. 11–22. (pominięte)
 
 **Art. 23.** Osoba pobierająca zasiłek dla opiekuna podlega obowiązkowi ubezpieczenia zdrowotnego na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146), nie wcześniej jednak niż od dnia wejścia w życie ustawy.
 
 **Art. 24.** Wobec osób mających ustalone prawo do zasiłku dla opiekuna w okresie od dnia 1 lipca 2013 r. do dnia poprzedzającego dzień wejścia w życie ustawy, za który mają ustalone prawo do zasiłku dla opiekuna oraz w ciągu 30 dni po upływie tego okresu, którym w tym okresie zostały udzielone świadczenia opieki zdrowotnej finansowane ze środków publicznych, mimo braku prawa do tych świadczeń z powodu wygaśnięcia z mocy prawa decyzji o przyznaniu im prawa do świadczenia pielęgnacyjnego na podstawie art. 11 ust. 3 ustawy z dnia 7 grudnia 2012 r. o zmianie ustawy o świadczeniach rodzinnych oraz niektórych innych ustaw, dyrektor oddziału wojewódzkiego Narodowego Funduszu Zdrowia:
 
 - **1)** nie wszczyna postępowania w sprawie o ustalenie obowiązku poniesienia kosztów tych świadczeń, a postępowanie wszczęte umarza;
-- **2)** umarza w całości spłatę należności ustalonej w decyzji wydanej na podstawie art. 50 ust. 18 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, stosując odpowiednio art. 58 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.).
+- **2)** umarza w całości spłatę należności ustalonej w decyzji wydanej na podstawie art. 50 ust. 18 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, stosując odpowiednio art. 58 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.).
 
-**Art. 25.** W przypadku, gdy o specjalny zasiłek opiekuńczy, o którym mowa w art. 16a ustawy zmienianej w art. 17, ubiegają się osoby, którym w okresie od dnia 31 grudnia 2012 r. do dnia 30 czerwca 2013 r. wygasły decyzje przyznające prawo do świadczenia pielęgnacyjnego, wydane na podstawie przepisów obowiązujących przed dniem 1 stycznia 2013 r., z powodu upływu terminu ważności orzeczenia o niepełnosprawności lub orzeczenia o znacznym stopniu niepełnosprawności, prawo do specjalnego zasiłku opiekuńczego przysługuje tym osobom w okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2014 r., na warunkach dotyczących specjalnego zasiłku opiekuńczego określonych w ustawie zmienianej w art. 17, również jeżeli osoby te nie podejmują zatrudnienia lub innej pracy zarobkowej.
+**Art. 25.** W przypadku, gdy o specjalny zasiłek opiekuńczy, o którym mowa w art. 16a ustawy zmienianej w art. 17Artykuł 17 zawiera zmiany do ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych., ubiegają się osoby, którym w okresie od dnia 31 grudnia 2012 r. do dnia 30 czerwca 2013 r. wygasły decyzje przyznające prawo do świadczenia pielęgnacyjnego, wydane na podstawie przepisów obowiązujących przed dniem 1 stycznia 2013 r., z powodu upływu terminu ważności orzeczenia o niepełnosprawności lub orzeczenia o znacznym stopniu niepełnosprawności, prawo do specjalnego zasiłku opiekuńczego przysługuje tym osobom w okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2014 r., na warunkach dotyczących specjalnego zasiłku opiekuńczego określonych w ustawie zmienianej w art. 17Artykuł 17 zawiera zmiany do ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych., również jeżeli osoby te nie podejmują zatrudnienia lub innej pracy zarobkowej.
 
-**Art. 26.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 17 pkt 2 lit. a, w zakresie art. 16a ust. 1 pkt 1, który wchodzi w życie z dniem 1 stycznia 2015 r.
-
-- **1)** Wysokość zasiłku jest ustalana na podstawie art. 10 niniejszej ustawy. 2) W brzmieniu ustalonym przez art. 51 ustawy z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429), która weszła w życie z dniem 1 stycznia 2024 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872. 4) Artykuł 17 zawiera zmiany do ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych. 5) Ustawa została ogłoszona w dniu 30 kwietnia 2014 r.
-
+**Art. 26.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 30 kwietnia 2014 r., z wyjątkiem art. 17 pkt 2 lit. a, w zakresie art. 16a ust. 1 pkt 1, który wchodzi w życie z dniem 1 stycznia 2015 r. 1) Wysokość zasiłku jest ustalana na podstawie art. 10 niniejszej ustawy. 2) W brzmieniu ustalonym przez art. 51 ustawy z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429), która weszła w życie z dniem 1 stycznia 2024 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872. 4) Artykuł 17 zawiera zmiany do ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych. 5) Ustawa została ogłoszona w dniu 30 kwietnia 2014 r.
 

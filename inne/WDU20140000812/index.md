@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarkiz dnia 25 kwietnia 2014 r. w sprawie szczegółowych wymagań dotyczących prowadzenia ruchu zakładów górniczych wydobywających kopaliny otworami wiertniczymi
+# Rozporządzenie Ministra Gospodarkiz dnia 25 kwietnia 2014 r. w sprawie szczegółowych wymagań dotyczących prowadzenia ruchu zakładów górniczych wydobywających kopaliny otworami wiertniczymi Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 92/91/EWG z dnia 3 listopada 1992 r. dotyczącej minimalnych wymagań mających na celu poprawę warunków bezpieczeństwa i ochrony zdrowia pracowników w zakładach górniczych wydobywających kopaliny otworami wiertniczymi (jedenasta szczegółowa dyrektywa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 348 z 28.11.1992, str. 9, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 118).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-25 |
 | Data wydania | 2014-06-23 |
-| Wejście w życie | 2014-07-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000812) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/812/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Bezpieczeństwo i higiena pracy oraz bezpieczeństwo pożarowe Rozdział 3 – Wykonywanie otworów wiertniczych Rozdział 4 – Maszyny i urządzenia zakładu górniczego otworowego Rozdział 5 – Zagrożenie pożarowe i zagrożenie wybuchem Rozdział 6 – Ochrona środowiska Rozdział 7 – Badania geofizyczne w otworach wiertniczych lub odwiertach Rozdział 8 – Gospodarka złożami kopalin w procesie ich wydobywania, geologia i miernictwo górnicze Rozdział 9 – Bezpieczeństwo wydobywania i podziemnego bezzbiornikowego magazynowania węglowodorów lub podziemnego składowania odpadów w górotworze Rozdział 10 – Bezpieczeństwo i gospodarka złożem w procesie wydobywania siarki Rozdział 11 – Bezpieczeństwo i gospodarka złożem w procesie wydobywania soli Rozdział 12 – Bezpieczeństwo i gospodarka złożem w procesie wydobywania wód leczniczych, wód termalnych i solanek Rozdział 13 – Bezpieczeństwo i gospodarka złożem w procesie wydobywania kopalin w granicach obszarów morskich Rzeczypospolitej Polskiej Rozdział 14 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Załącznik – Dokument bezpieczeństwa
 Treść rozporządzenia
-Na podstawie art. 120 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2014 r. poz. 613 i 587) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 16 września 2013 r. pod numerem 2013/0526/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasady dotyczące usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337). Na podstawie art. 120 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2014 r. poz. 613 i 587) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe wymagania dotyczące prowadzenia ruchu zakładów górniczych wydobywających kopaliny otworami wiertniczymi, zwanych dalej „zakładami górniczymi otworowymi”, w zakresie:
 1)
@@ -56,7 +56,7 @@ celu urabiania kopaliny.
 § 4.
 Ilekroć w rozporządzeniu jest mowa o pracach szczególnie niebezpiecznych, należy przez to rozumieć prace:
 1)
-określone w przepisach wydanych na podstawie art. 23715 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.);
+określone w przepisach wydanych na podstawie art. 23715 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700, z 2011 r. Nr 36, poz. 181, Nr 63, poz. 322, Nr 80, poz. 432, Nr 144, poz. 855, Nr 149, poz. 887 i Nr 232, poz. 1378, z 2012 r. poz. 908 i 1110, z 2013 r. poz. 2, 675, 896 i 1028 oraz z 2014 r. poz. 208.);
 2)
 związane z:
 a)
@@ -67,6 +67,7 @@ c)
 przeprowadzaniem prób szczelności i wytrzymałości rurociągów, w przypadku gdy używa się do tych prób gazu palnego;
 3)
 uznane jako szczególnie niebezpieczne przez kierownika ruchu zakładu górniczego otworowego.
+Bezpieczeństwo i higiena pracy oraz bezpieczeństwo pożarowe
 § 5.
 Przedsiębiorca sporządza, uzupełnia i aktualizuje dokumentację dotyczącą prowadzenia ruchu zakładu górniczego otworowego oraz, w sposób ciągły, przeprowadza analizy i badania niezbędne dla bezpiecznego prowadzenia tego ruchu, w tym dla oceny i dokumentowania ryzyka zawodowego oraz stosowania niezbędnych rozwiązań zmniejszających to ryzyko.
 § 6.
@@ -183,7 +184,7 @@ Urządzenia przeciwpożarowe oraz gaśnice przenośne i przewoźne, zwane dalej 
 1)
 oznakowuje się w sposób umożliwiający ich identyfikację;
 2)
-poddaje się przeglądom technicznym oraz czynnościom konserwacyjnym zgodnie z wymogami określonymi w przepisach wydanych na podstawie art. 13 ust. 1 i 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380, z późn. zm.).
+poddaje się przeglądom technicznym oraz czynnościom konserwacyjnym zgodnie z wymogami określonymi w przepisach wydanych na podstawie art. 13 ust. 1 i 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 353, z 2012 r. poz. 908 oraz z 2013 r. poz. 1635.).
 4.
 Daty przeprowadzonych przeglądów oraz czynności, o których mowa w ust. 3 pkt 2, wpisuje się, w sposób czytelny, na gaśnicach.
 § 17.
@@ -383,6 +384,7 @@ należyte ogrzewanie obiektów, pomieszczeń i urządzeń tego zakładu;
 usuwanie nagromadzeń śniegu i lodu oraz nawisów lodowych i śnieżnych na obiektach, urządzeniach i drogach, likwidację gołoledzi na drogach i przejściach, usuwanie wód pochodzących z topniejącego śniegu lub gwałtownej odwilży;
 5)
 dostosowanie maszyn, urządzeń i rozwiązań technologicznych do pracy w warunkach zimowych.
+Wykonywanie otworów wiertniczych
 § 38.
 1.
 Przy wykonywaniu otworu wiertniczego prowadzi się dokumentację robót wiertniczych.
@@ -647,7 +649,8 @@ Wylot otworu wiertniczego oraz przestrzeń wewnętrzną przewodu wiertniczego po
 1.
 Ciśnienie robocze poszczególnych elementów przeciwerupcyjnego wyposażenia wylotu otworu przewidzianego na dany interwał otworu wiertniczego jest większe od maksymalnego spodziewanego ciśnienia głowicowego w tym interwale.
 2.
-Wielkość największego ciśnienia głowicowego dla danego poziomu zbiornikowego ustala się według wzoru: Pmax = A·H·q [MPa], gdzie poszczególne symbole oznaczają: Pmax – największe spodziewane ciśnienie głowicowe poziomu zbiornikowego [MPa], H – głębokość zalegania złoża (poziomu zbiornikowego) [m], q – gradient ciśnienia złożowego rozpatrywanego poziomu [MPa/m], A – współczynnik korekcyjny określony w poniższej tabeli: Głębokość zalegania H [m] Współczynnik korekcyjny A do 2500 1,0 powyżej 2500 do 3000 0,85–0,75 powyżej 3000 0,75–0,5
+Wielkość największego ciśnienia głowicowego dla danego poziomu zbiornikowego ustala się według wzoru: Pmax = A·H·q [MPa], gdzie poszczególne symbole oznaczają: Pmax – największe spodziewane ciśnienie głowicowe poziomu zbiornikowego [MPa], H – głębokość zalegania złoża (poziomu zbiornikowego) [m], q – gradient ciśnienia złożowego rozpatrywanego poziomu [MPa/m], A – współczynnik korekcyjny określony w poniższej tabeli:
+Głębokość zalegania H [m] Współczynnik korekcyjny A do 2500 1,0 powyżej 2500 do 3000 0,85–0,75 powyżej 3000 0,75–0,5
 3.
 Przepisu ust. 1 nie stosuje się do układu sterowniczego.
 4.
@@ -686,7 +689,9 @@ zawierającego płyn złożowy z siarkowodorem ustala się minimalne odległośc
 2.
 Podczas ustalania kategorii zagrożenia siarkowodorowego w przypadku wiercenia kierunkowego uwzględnia się długość otworu wiertniczego udostępniającego złoże.
 § 80.
-W rejonach o znanej wydajności i koncentracji siarkowodoru promień strefy skażenia oraz odległości otworu wiertniczego od obiektów określa się na podstawie poniższych kryteriów: Kategoria zagrożenia Promień strefy przewidywanego skażenia H2S [m] Minimalna odległość [m] otworu wiertniczego od: pojedynczego domu mieszkalnego budynków zamieszkanych przez: nie więcej niż 30 osób (łącznie) więcej niż 30 osób 1 2 3 4 5 I powyżej 3500 100 500 1500 II od 3500 do 1000 100 500 500 III poniżej 1000 do 500 100 100 100 IV poniżej 500 do 150 100 100 100
+W rejonach o znanej wydajności i koncentracji siarkowodoru promień strefy skażenia oraz odległości otworu wiertniczego od obiektów określa się na podstawie poniższych kryteriów:
+Kategoria zagrożenia Promień strefy przewidywanego skażenia H2S [m]
+Minimalna odległość [m] otworu wiertniczego od: pojedynczego domu mieszkalnego budynków zamieszkanych przez: nie więcej niż 30 osób (łącznie) więcej niż 30 osób 1 2 3 4 5 I powyżej 3500 100 500 1500 II od 3500 do 1000 100 500 500 III poniżej 1000 do 500 100 100 100 IV poniżej 500 do 150 100 100 100
 § 81.
 1.
 Przy zaliczaniu do określonej klasy zagrożenia erupcyjnego i określonej kategorii zagrożenia siarkowodorowego uwzględnia się:
@@ -862,6 +867,7 @@ Materiały użyte do likwidacji otworu wiertniczego lub odwiertu oraz sposób ic
 Sprzęt i narzędzia pozostawione w otworze wiertniczym lub odwiercie wyszczególnia się w protokole likwidacji otworu wiertniczego lub odwiertu.
 § 103.
 Przedsiębiorca prowadzący lub zlecający roboty wiertnicze w celu rozpoznania lub eksploatacji złóż węglowodorów, po zakończeniu robót wiertniczych i likwidacji otworów wiertniczych lub odwiertów, zapewnia wykonanie ich geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz zgłasza je do właściwego ośrodka dokumentacji geodezyjnej i kartograficznej oraz do właściwych organów samorządu terytorialnego.
+Maszyny i urządzenia zakładu górniczego otworowego
 § 104.
 1.
 Zezwolenie na oddanie do ruchu maszyn i urządzeń wydaje kierownik ruchu zakładu górniczego otworowego na podstawie protokołu odbioru technicznego.
@@ -1144,6 +1150,7 @@ W przypadku awarii i samoczynnego wyłączenia urządzenia elektroenergetycznego
 Wieże wiertnicze, maszty, wiaty maszynowe wiertnic oraz drogi ewakuacyjne wyposaża się w oświetlenie awaryjne.
 2.
 Rodzaj oświetlenia awaryjnego ustala kierownik ruchu zakładu odpowiednio do występujących zagrożeń.
+Zagrożenie pożarowe i zagrożenie wybuchem
 § 149.
 1.
 Przy wykonywaniu robót wiertniczych i prowadzeniu eksploatacji otworami wiertniczymi wymagane jest posiadanie:
@@ -1268,6 +1275,7 @@ Materiały pędne, oleje i smary magazynuje się poza obszarem zabudowy urządze
 Przepisu ust. 1 nie stosuje się do zbiorników roboczych i technologicznych.
 § 164.
 Rury wydmuchowe silników spalinowych wyprowadza się na zewnątrz zabudowy i wyposaża w urządzenia przeciwdziałające przenoszeniu się iskier.
+Ochrona środowiska
 § 165.
 Kierownik ruchu zakładu górniczego otworowego podejmuje działania mające na celu zmniejszenie negatywnego wpływu działalności zakładu górniczego otworowego na środowisko.
 § 166.
@@ -1350,9 +1358,10 @@ technologię i środki techniczne służące zapobieganiu powstawania pożarów 
 10)
 harmonogram realizacji robót rekultywacyjnych.
 § 177.
-Wypełnianie wyrobisk górniczych i innych terenów w granicach zakładu górniczego otworowego, wykonywane w ramach rekultywacji, prowadzi się z wykorzystaniem odpadów określonych w przepisach działu II rozdziału 10 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.).
+Wypełnianie wyrobisk górniczych i innych terenów w granicach zakładu górniczego otworowego, wykonywane w ramach rekultywacji, prowadzi się z wykorzystaniem odpadów określonych w przepisach działu II rozdziału 10 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238 oraz z 2014 r. poz. 695.).
 § 178.
 Ciecze poreakcyjne po wykonaniu w otworze wiertniczym lub otworze wiertniczym eksploatacyjnym zabiegu specjalnego z użyciem substancji niebezpiecznych odprowadza się w sposób niepowodujący szkodliwego oddziaływania na środowisko.
+Badania geofizyczne w otworach wiertniczych lub odwiertach
 § 179.
 Badania geofizyczne w otworach wiertniczych lub odwiertach wykonuje się zgodnie z instrukcją badań geofizycznych, opracowaną przez wykonawcę tych badań i zaakceptowaną przez kierownika ruchu zakładu górniczego otworowego, w zakresie przewidzianym w projekcie robót geologicznych lub wiercenia.
 § 180.
@@ -1364,6 +1373,7 @@ Podczas wykonywania badań geofizycznych jest niedopuszczalne prowadzenie innych
 Opróbowania w otworach wiertniczych lub w odwiertach z użyciem próbników złoża lub skał wykonuje się na podstawie instrukcji badań próbnikowych, opracowanej przez wykonawcę badań i zaakceptowanej przez kierownika ruchu zakładu górniczego otworowego.
 § 182.
 W przypadku zagrożenia erupcyjnego przed przystąpieniem do wykonywania w otworze wiertniczym lub odwiercie badań geofizycznych lub innych prac, wylot tego otworu lub odwiertu należy wyposażyć w zabezpieczenie umożliwiające bezpieczne wykonanie tych badań i prac.
+Gospodarka złożami kopalin w procesie ich wydobywania, geologia i miernictwo górnicze
 § 183.
 Wydobywanie ropy naftowej lub gazu ziemnego ze złoża poprzedza się badaniami warunków geologiczno-złożowych oraz parametrów złoża i płynu złożowego.
 § 184.
@@ -1374,7 +1384,7 @@ Niedopuszczalne jest nieregulowane samoczynne wydobywanie ropy naftowej, gazu zi
 1.
 Gaz ziemny wydobywany z otworów wiertniczych podczas opróbowania oraz podczas eksploatacji złóż ropy naftowej się wykorzystuje.
 2.
-Jeżeli nie ma warunków wykorzystania gazu ziemnego, dopuszcza się jego spalanie z zachowaniem wymagań określonych w przepisach działu II tytułu II ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.).
+Jeżeli nie ma warunków wykorzystania gazu ziemnego, dopuszcza się jego spalanie z zachowaniem wymagań określonych w przepisach działu II tytułu II ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47 i 457.).
 § 187.
 Jeżeli w wydobywanym gazie ziemnym występują ciekłe węglowodory, pobiera się próbki mieszaniny węglowodorów i wykonuje badania fizykochemiczne w celu dokonania klasyfikacji złoża.
 § 188.
@@ -1429,6 +1439,7 @@ Dokumentację mierniczo-geologiczną przechowuje się w zakładzie górniczym ot
 Za zgodą kierownika ruchu zakładu górniczego otworowego dokumentacja mierniczo-geologiczna może być przechowywana poza zakładem górniczym otworowym w sposób, o którym mowa w ust. 1, oraz pod warunkiem poinformowania o tym właściwego organu nadzoru górniczego.
 3.
 Dokumentację mierniczo-geologiczną sporządzoną z zastosowaniem technik informatycznych zabezpiecza się dodatkowo poprzez wykonanie trwałych kopii zapasowych.
+Bezpieczeństwo wydobywania i podziemnego bezzbiornikowego magazynowania węglowodorów lub podziemnego składowania odpadów w górotworze
 § 190.
 Sposób dowiercania otworów wiertniczych zapewnia szczelną izolację poziomów nad i pod złożem oraz odizolowanie złoża od innych warstw przepuszczalnych, a także zapobiega uszkodzeniu strefy przyotworowej.
 § 191.
@@ -1573,8 +1584,7 @@ Na podstawie dokumentacji, o której mowa w § 38 ust. 2 pkt 1 lit. a i pkt 2, o
 1)
 stałą programu eksploatacji, określającą w szczególności charakterystykę złoża i opis eksploatacji złoża,
 2)
-zmienną programu eksploatacji, określającą parametry pracy poszczególnych odwiertów, którymi odbywa się eksploatacja złoża
-zatwierdzony przez kierownika ruchu zakładu górniczego otworowego.
+zmienną programu eksploatacji, określającą parametry pracy poszczególnych odwiertów, którymi odbywa się eksploatacja złoża – zatwierdzony przez kierownika ruchu zakładu górniczego otworowego.
 2.
 Częstotliwość pomiarów w odwiertach ustala kierownik ruchu zakładu górniczego otworowego na podstawie opinii geologa górniczego.
 3.
@@ -1888,6 +1898,7 @@ Przepisu ust. 1 nie stosuje się do magazynów w kawernach solnych.
 Geometrię komory magazynowej utworzonej w złożu soli kamiennej oraz stan techniczny wgłębnego wyposażenia komory okresowo kontroluje się w sposób i z częstotliwością ustaloną przez kierownika ruchu zakładu górniczego otworowego.
 § 260.
 Przepisy § 249–259 stosuje się odpowiednio do podziemnego składowania odpadów w górotworze.
+Bezpieczeństwo i gospodarka złożem w procesie wydobywania siarki
 § 261.
 1.
 Eksploatację złoża siarki prowadzi się w sposób określony w projekcie eksploatacji zatwierdzonym przez kierownika ruchu zakładu górniczego otworowego.
@@ -1919,8 +1930,7 @@ siarki,
 2)
 cieczy technologicznej,
 3)
-wód złożowych
-skutecznie izoluje się przed możliwością poparzenia ludzi.
+wód złożowych – skutecznie izoluje się przed możliwością poparzenia ludzi.
 2.
 Rurociągi eksploatowane w ruchu zakładu górniczego otworowego w miejscach krzyżowania się z drogami kopalnianymi zabezpiecza się przed uszkodzeniem.
 § 266.
@@ -2041,7 +2051,7 @@ Wszystkie otwory wiertnicze obserwacyjne, studnie i źródła naturalne objęte 
 2.
 Sposób, zakres i częstotliwość przeprowadzania obserwacji, pomiarów i badań oraz sposób ich ewidencjonowania określa kierownik ruchu zakładu górniczego otworowego.
 § 289.
-Urządzenia ciśnieniowe, służące do oczyszczania siarki, mogą być dopuszczone do użytkowania po spełnieniu wymagań określonych w ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2010 r. Nr 138, poz. 935, z późn. zm.) i w ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym.
+Urządzenia ciśnieniowe, służące do oczyszczania siarki, mogą być dopuszczone do użytkowania po spełnieniu wymagań określonych w ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2010 r. Nr 138, poz. 935, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 586 i Nr 227, poz. 1367, z 2012 r. poz. 1529 oraz z 2013 r. poz. 898.) i w ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym.
 § 290.
 Przy pracach związanych z oczyszczaniem siarki, jej rozlewaniem i zestalaniem na składowiskach zachowuje się szczególne środki ostrożności, w celu uniknięcia poparzenia płynną siarką.
 § 291.
@@ -2056,6 +2066,7 @@ W przypadku stosowania przenośnika taśmowego lub ciągu przenośników taśmow
 Sterownie eksploatacyjne wyposaża się w aparaturę do utylizacji siarkowodoru.
 2.
 Kierownik ruchu zakładu górniczego otworowego określa zasady nadzoru nad sprawnością aparatury, o której mowa w ust. 1, oraz nad monitoringiem utylizacji siarkowodoru.
+Bezpieczeństwo i gospodarka złożem w procesie wydobywania soli
 § 294.
 Projekt techniczny wydobywania soli określa w szczególności:
 1)
@@ -2283,6 +2294,7 @@ prowadzi się obserwacje hydrogeologiczne na obszarze pola eksploatacyjnego i s�
 likwiduje się osiadania o charakterze nieciągłym, występujące na obszarze pola eksploatacyjnego, oraz wypełnia większe osiadania o charakterze ciągłym.
 § 328.
 Wyrobiska zakładu górniczego otworowego wydobywającego sól odwiertami uznaje się za zlikwidowane, gdy zanikną samowypływy solanki wywołane zaciskaniem komór poeksploatacyjnych oraz nastąpi ustabilizowanie powierzchni pola eksploatacyjnego.
+Bezpieczeństwo i gospodarka złożem w procesie wydobywania wód leczniczych, wód termalnych i solanek
 § 329.
 Przepisy § 294–297 stosuje się odpowiednio do prac przygotowawczych związanych z wydobywaniem wód leczniczych, wód termalnych i solanek, zwanych dalej w niniejszym rozdziale „wodami”.
 § 330.
@@ -2496,6 +2508,7 @@ W przypadku magazynowania wód leczniczych nagazowanych, w konstrukcji zbiornik�
 Zbiorniki zaopatruje się w urządzenia do pomiaru poziomu płynu, ciśnienia i poboru próbek.
 6.
 Zbiorniki na wodę leczniczą zawierającą gaz palny uziemia się i zabezpiecza przed wyładowaniami atmosferycznymi.
+Bezpieczeństwo i gospodarka złożem w procesie wydobywania kopalin w granicach obszarów morskich Rzeczypospolitej Polskiej
 § 367.
 1.
 Użyte w niniejszym rozdziale określenia oznaczają:
@@ -2648,7 +2661,7 @@ Budowę lub posadowienie morskiej jednostki prowadzi się zgodnie z dokumentacj�
 Budowę lub posadowienie morskiej jednostki prowadzi się w taki sposób, aby rurociągi podmorskie, kable i inne instalacje morskie znajdujące się w pobliżu nie zostały uszkodzone.
 § 381.
 1.
-Posadowienie, kotwiczenie, holowanie lub przemieszczanie morskiej jednostki prowadzi się pod nadzorem osób posiadających wymagane kwalifikacje morskie zgodnie z przepisami art. 61–67 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z późn. zm.) oraz przepisami wydanymi na podstawie art. 68 tej ustawy.
+Posadowienie, kotwiczenie, holowanie lub przemieszczanie morskiej jednostki prowadzi się pod nadzorem osób posiadających wymagane kwalifikacje morskie zgodnie z przepisami art. 61–67 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1068, z 2013 r. poz. 852 oraz z 2014 r. poz. 609.) oraz przepisami wydanymi na podstawie art. 68 tej ustawy.
 2.
 Podczas czynności, o których mowa w ust. 1, na morskiej jednostce mogą znajdować się tylko osoby niezbędne do wykonywania tych czynności.
 § 382.
@@ -2771,7 +2784,7 @@ Morską jednostkę wyposaża się w dostateczną liczbę odpowiednio wyposażony
 Pomieszczenia, o których mowa w ust. 1, są odpowiednio wentylowane, ogrzewane, oświetlane oraz utrzymywane w stanie zapewniającym ich bezpieczne i higieniczne użytkowanie.
 § 396.
 1.
-Pomieszczenia na morskiej jednostce, przeznaczone do przygotowania i spożywania posiłków, a także służące do przechowywania i składowania produktów żywnościowych, powinny spełniać wymagania określone w ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2010 r. Nr 136, poz. 914, z późn. zm.).
+Pomieszczenia na morskiej jednostce, przeznaczone do przygotowania i spożywania posiłków, a także służące do przechowywania i składowania produktów żywnościowych, powinny spełniać wymagania określone w ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2010 r. Nr 136, poz. 914, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 230, poz. 1511 oraz z 2011 r. Nr 106, poz. 622, Nr 122, poz. 696 i Nr 171, poz. 1016.).
 2.
 Członkom załogi zapewnia się całodzienne wyżywienie.
 3.
@@ -2880,7 +2893,7 @@ Przy wejściach do pomieszczeń morskiej jednostki umieszcza się tablice inform
 W miejscach, gdzie może powstać niebezpieczeństwo dla przechodzących, stosuje się odpowiednie zabezpieczenia, sygnały i tablice ostrzegawcze.
 § 409.
 1.
-Prace podwodne przeprowadzane z morskiej jednostki wykonuje się zgodnie z przepisami rozdziałów 2 i 3 ustawy z dnia 17 października 2003 r. o wykonywaniu prac podwodnych (Dz. U. Nr 199, poz. 1936, z późn. zm.).
+Prace podwodne przeprowadzane z morskiej jednostki wykonuje się zgodnie z przepisami rozdziałów 2 i 3 ustawy z dnia 17 października 2003 r. o wykonywaniu prac podwodnych (Dz. U. Nr 199, poz. 1936, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 155, poz. 1298, z 2007 r. Nr 64, poz. 428, z 2008 r. Nr 180, poz. 1112 oraz z 2011 r. Nr 63, poz. 322.).
 2.
 Dla wykonywania prac podwodnych morską jednostkę wyposaża się w odpowiednie urządzenia techniczne i zapewnia opiekę medyczną, gwarantującą bezpieczeństwo członkom załogi.
 § 410.
@@ -3224,10 +3237,11 @@ Stosowane płuczki i płyny wiertnicze spełniają wymagania określone w przepi
 Użycie płuczki na bazie oleju może być dopuszczone przez kierownika ruchu zakładu w szczególnych warunkach geologicznych lub ze względów bezpieczeństwa.
 3.
 Frakcje drobnoziarniste zwiercin oddzielone od płuczki na wirówkach oraz wszelkie inne substancje i materiały szkodliwe dla środowiska morskiego, wytwarzane lub używane w otworowym górnictwie morskim, przekazuje się na ląd do zagospodarowania.
+Przepisy przejściowe i końcowe
 § 465.
 Dokumenty związane z prowadzeniem ruchu zakładu górniczego otworowego, sporządzone na podstawie rozporządzenia Ministra Gospodarki z dnia 28 czerwca 2002 r. w sprawie bezpieczeństwa i higieny pracy, prowadzenia ruchu oraz specjalistycznego zabezpieczenia przeciwpożarowego w zakładach górniczych wydobywających kopaliny otworami wiertniczymi (Dz. U. Nr 109, poz. 961, z 2004 r. Nr 24, poz. 213 oraz z 2007 r. Nr 106, poz. 726), zachowują ważność do czasu sporządzenia nowych dokumentów, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 § 466.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Zakres spraw uregulowany niniejszym rozporządzeniem był poprzednio uregulowany w rozporządzeniu Ministra Gospodarki z dnia 28 czerwca 2002 r. w sprawie bezpieczeństwa i higieny pracy, prowadzenia ruchu oraz specjalistycznego zabezpieczenia przeciwpożarowego w zakładach górniczych wydobywających kopaliny otworami wiertniczymi (Dz. U. Nr 109, poz. 961, z 2004 r. Nr 24, poz. 213 oraz z 2007 r. Nr 106, poz. 726), które w tym zakresie traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 224 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2014 r. poz. 613 i 587). 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 92/91/EWG z dnia 3 listopada 1992 r. dotyczącej minimalnych wymagań mających na celu poprawę warunków bezpieczeństwa i ochrony zdrowia pracowników w zakładach górniczych wydobywających kopaliny otworami wiertniczymi (jedenasta szczegółowa dyrektywa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 348 z 28.11.1992, str. 9, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 118). 3) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 16 września 2013 r. pod numerem 2013/0526/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasady dotyczące usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337). 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700, z 2011 r. Nr 36, poz. 181, Nr 63, poz. 322, Nr 80, poz. 432, Nr 144, poz. 855, Nr 149, poz. 887 i Nr 232, poz. 1378, z 2012 r. poz. 908 i 1110, z 2013 r. poz. 2, 675, 896 i 1028 oraz z 2014 r. poz. 208. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 353, z 2012 r. poz. 908 oraz z 2013 r. poz. 1635. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238 oraz z 2014 r. poz. 695. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47 i 457. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 586 i Nr 227, poz. 1367, z 2012 r. poz. 1529 oraz z 2013 r. poz. 898. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1068, z 2013 r. poz. 852 oraz z 2014 r. poz. 609. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 230, poz. 1511 oraz z 2011 r. Nr 106, poz. 622, Nr 122, poz. 696 i Nr 171, poz. 1016. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 155, poz. 1298, z 2007 r. Nr 64, poz. 428, z 2008 r. Nr 180, poz. 1112 oraz z 2011 r. Nr 63, poz. 322. 12) Zakres spraw uregulowany niniejszym rozporządzeniem był poprzednio uregulowany w rozporządzeniu Ministra Gospodarki z dnia 28 czerwca 2002 r. w sprawie bezpieczeństwa i higieny pracy, prowadzenia ruchu oraz specjalistycznego zabezpieczenia przeciwpożarowego w zakładach górniczych wydobywających kopaliny otworami wiertniczymi (Dz. U. Nr 109, poz. 961, z 2004 r. Nr 24, poz. 213 oraz z 2007 r. Nr 106, poz. 726), które w tym zakresie traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 224 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2014 r. poz. 613 i 587).
 Załącznik – Dokument bezpieczeństwa
 1.
 Dokument bezpieczeństwa stanowi zbiór wewnętrznych regulacji oraz dokumentów, umożliwiających ocenę i dokumentowanie ryzyka zawodowego oraz stosowania niezbędnych środków profilaktycznych zmniejszających to ryzyko w zakładzie górniczym otworowym.
@@ -3294,31 +3308,59 @@ organizacji ratownictwa i pierwszej pomocy medycznej,
 c)
 zapewnienia łączności, systemów ostrzegawczych i alarmowych.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Bezpieczeństwo i higiena pracy oraz bezpieczeństwo pożarowe
+#### Rozdział 2 – Bezpieczeństwo i higiena pracy oraz bezpieczeństwo pożarowe
 
-#### Rozdział 3 Wykonywanie otworów wiertniczych
+#### Rozdział 3 – Wykonywanie otworów wiertniczych
 
-#### Rozdział 4 Maszyny i urządzenia zakładu górniczego otworowego
+#### Rozdział 4 – Maszyny i urządzenia zakładu górniczego otworowego
 
-#### Rozdział 5 Zagrożenie pożarowe i zagrożenie wybuchem
+#### Rozdział 5 – Zagrożenie pożarowe i zagrożenie wybuchem
 
-#### Rozdział 6 Ochrona środowiska
+#### Rozdział 6 – Ochrona środowiska
 
-#### Rozdział 7 Badania geofizyczne w otworach wiertniczych lub odwiertach
+#### Rozdział 7 – Badania geofizyczne w otworach wiertniczych lub odwiertach
 
-#### Rozdział 8 Gospodarka złożami kopalin w procesie ich wydobywania, geologia i miernictwo górnicze
+#### Rozdział 8 – Gospodarka złożami kopalin w procesie ich wydobywania, geologia i miernictwo górnicze
 
-#### Rozdział 9 Bezpieczeństwo wydobywania i podziemnego bezzbiornikowego magazynowania węglowodorów lub podziemnego składowania odpadów w górotworze
+#### Rozdział 9 – Bezpieczeństwo wydobywania i podziemnego bezzbiornikowego magazynowania węglowodorów lub podziemnego składowania odpadów w górotworze
 
-#### Rozdział 10 Bezpieczeństwo i gospodarka złożem w procesie wydobywania siarki
+#### Rozdział 10 – Bezpieczeństwo i gospodarka złożem w procesie wydobywania siarki
 
-#### Rozdział 11 Bezpieczeństwo i gospodarka złożem w procesie wydobywania soli
+#### Rozdział 11 – Bezpieczeństwo i gospodarka złożem w procesie wydobywania soli
 
-#### Rozdział 12 Bezpieczeństwo i gospodarka złożem w procesie wydobywania wód leczniczych, wód termalnych i solanek
+#### Rozdział 12 – Bezpieczeństwo i gospodarka złożem w procesie wydobywania wód leczniczych, wód termalnych i solanek
 
-#### Rozdział 13 Bezpieczeństwo i gospodarka złożem w procesie wydobywania kopalin w granicach obszarów morskich Rzeczypospolitej Polskiej
+#### Rozdział 13 – Bezpieczeństwo i gospodarka złożem w procesie wydobywania kopalin w granicach obszarów morskich Rzeczypospolitej Polskiej
 
-#### Rozdział 14 Przepisy przejściowe i końcowe
+#### Rozdział 14 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
+
+#### Rozdział 11
+
+#### Rozdział 12
+
+#### Rozdział 13
+
+#### Rozdział 14
 

@@ -22,16 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2000-10-13 |
 | Data wydania | 2000-11-09 |
-| Wejście w życie | 2001-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000951041) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1041/text.pdf) |
 
-” ;
 13)
 w dziale IV tytuł rozdziału 5 otrzymuje brzmienie: „ Zasady ustalania części drogowej subwencji ogólnej dla powiatów i województw oraz dotacji celowej na finansowanie dróg publicznych w granicach miasta stołecznego Warszawy ” ;
 14)
-art. 36 otrzymuje brzmienie:
-„
+art. 36 otrzymuje brzmienie: „
+Zasady przekazywania dotacji celowej na finansowanie dróg publicznych w granicach miasta stołecznego Warszawy
 
 **Art. 1.** W ustawie z dnia 26 listopada 1998 r. o dochodach jednostek samorządu terytorialnego w latach 1999 i 2000 (Dz. U. Nr 150, poz. 983i Nr 162, poz. 1119) wprowadza się następujące zmiany:
 
@@ -94,7 +92,7 @@ art. 36 otrzymuje brzmienie:
 
 **Art. 35.**
 
-## Część oświatową subwencji ogólnej, po odliczeniu kwoty rezerwy, o której mowa w art. 34 ust. 2, rozdziela się między poszczególne gminy, powiaty i województwa według zasad ustalonych, w drodze rozporządzenia, przez ministra właściwego do spraw oświaty i wychowania, po zasięgnięciu opinii reprezentacji jednostek samorządu terytorialnego, z uwzględnieniem typów i rodzajów szkół prowadzonych przez jednostki samorządu terytorialnego, stopni awansu zawodowego nauczycieli oraz liczby uczniów w tych szkołach.
+## Część oświatową subwencji ogólnej, po odliczeniu kwoty rezerwy, o której mowa w art. 34 ust. 2, rozdziela się między poszczególne gminy, powiaty i województwa według zasad ustalonych, w drodze rozporządzenia, przez ministra właściwego do spraw oświaty i wychowania, po zasięgnięciu opinii reprezentacji jednostek samorządu terytorialnego, z uwzględnieniem typów i rodzajów szkół prowadzonych przez jednostki samorządu terytorialnego, stopni awansu zawodowego nauczycieli oraz liczby uczniów w tych szkołach. ” ;
 
 **Art. 36.**
 
@@ -169,7 +167,7 @@ art. 36 otrzymuje brzmienie:
 
 - **21)** w dziale VII po rozdziale 5 dodaje się rozdział 6 w brzmieniu: „
 
-#### Rozdział 6 Zasady przekazywania dotacji celowej na finansowanie dróg publicznych w granicach miasta stołecznego Warszawy
+#### Rozdział 6
 
 **Art. 56a.** Dotację celową, o której mowa w art. 36 ust. 4, właściwy wojewoda przekazuje w dwunastu równych ratach miesięcznych, w terminie do 25 dnia każdego miesiąca. ” ;
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-28 |
 | Data wydania | 2019-07-02 |
-| Wejście w życie | 2019-07-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001224) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1224/text.pdf) |
 
@@ -40,5 +39,5 @@ Przewodniczący może ustalić dniem wolnym od pracy dla pracowników Biura dzie
 2.
 O ustaleniu dnia wolnego od pracy oraz wyznaczeniu soboty dniem pracy Przewodniczący informuje pracowników oraz interesantów Biura z co najmniej 14-dniowym wyprzedzeniem, w sposób przyjęty w Biurze.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 7 lipca 2019 r.
+Rozporządzenie wchodzi w życie z dniem 7 lipca 2019 r.Niniejsze rozporządzenie było poprzedzone zarządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 10 maja 1995 r. w sprawie rozkładu czasu pracy w tygodniu oraz jego wymiaru w poszczególnych dniach tygodnia pracowników Biura Krajowej Rady Radiofonii i Telewizji (M. P. poz. 287), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 3 ustawy z dnia 16 maja 2019 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1043). 1) Niniejsze rozporządzenie było poprzedzone zarządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 10 maja 1995 r. w sprawie rozkładu czasu pracy w tygodniu oraz jego wymiaru w poszczególnych dniach tygodnia pracowników Biura Krajowej Rady Radiofonii i Telewizji (M. P. poz. 287), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 3 ustawy z dnia 16 maja 2019 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1043).
 

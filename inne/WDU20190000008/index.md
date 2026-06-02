@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-06 |
 | Data wydania | 2019-01-03 |
-| Wejście w życie | 2019-01-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000008) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/8/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2017 r. poz. 2186, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2017 r. poz. 2186, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000, 1349, 1669, 1735 i 2270.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4: po pkt 17 dodaje się pkt 17a w brzmieniu: „
     - **a)**
@@ -57,5 +56,5 @@ source: "eli-html"
 
 5. Pozbawienie funkcji publicznej osoby, o której mowa w ust. 4, następuje z mocy prawa z dniem, w którym upłynął termin do złożenia oświadczenia, o którym mowa w ust. 1. Właściwy wojewoda stwierdza fakt pozbawienia funkcji publicznej oraz niezwłocznie zawiadamia o tym osobę, której to dotyczy.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000, 1349, 1669, 1735 i 2270.
 

@@ -31,12 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 23 czerwca 2010 r. w sprawie warunków dokonywania zabezpieczeń finansowych w grach hazardowych (Dz. U. poz. 770), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 25 sierpnia 2015 r. zmieniającym rozporządzenie w sprawie warunków dokonywania zabezpieczeń finansowych w grach hazardowych (Dz. U. poz. 1288).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 25 sierpnia 2015 r. zmieniającego rozporządzenie w sprawie warunków dokonywania zabezpieczeń finansowych w grach hazardowych (Dz. U. poz. 1288), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 25 sierpnia 2015 r. zmieniającego rozporządzenie w sprawie warunków dokonywania zabezpieczeń finansowych w grach hazardowych (Dz. U. poz. 1288), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 3 września 2015 r.
-” .
-Załącznik – Rozporządzenie Ministra Finansów z dnia 23 czerwca 2010 r. w sprawie warunków dokonywania zabezpieczeń finansowych w grach hazardowych
+Rozporządzenie wchodzi w życie z dniem 3 września 2015 r. ” .
+Załącznik – Rozporządzenie Ministra Finansów z dnia 23 czerwca 2010 r. w sprawie warunków dokonywania zabezpieczeń finansowych w grach hazardowychMinister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900).
 Na podstawie art. 67 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2016 r. poz. 471) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki dokonywania zabezpieczeń finansowych składanych przez podmioty, które prowadzą działalność w zakresie urządzania gier hazardowych.
@@ -48,9 +46,9 @@ w art. 63 ust. 3 pkt 1 ustawy – jest złożenie, za pisemnym potwierdzeniem pr
 2)
 w art. 63 ust. 3 pkt 2 ustawy – jest wpłata depozytu pieniężnego na rachunek bankowy (rachunek pomocniczy) wskazany przez organ udzielający koncesji lub zezwolenia oraz przedłożenie dowodu wpłaty;
 3)
-(uchylony).
+(uchylony).Przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 25 sierpnia 2015 r. zmieniającego rozporządzenie w sprawie warunków dokonywania zabezpieczeń finansowych w grach hazardowych (Dz. U. poz. 1288), które weszło w życie z dniem 3 września 2015 r.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
 § 3.
 Potwierdzenie, o którym mowa w § 2 ust. 1 pkt 1, zawiera:
 1)
@@ -72,6 +70,5 @@ numery i daty wydania koncesji lub zezwoleń, z tytułu uzyskania których skła
 9)
 datę wydania potwierdzenia i podpis osoby upoważnionej do wystawienia potwierdzenia przyjęcia zabezpieczenia finansowego.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2010 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 25 sierpnia 2015 r. zmieniającego rozporządzenie w sprawie warunków dokonywania zabezpieczeń finansowych w grach hazardowych (Dz. U. poz. 1288), które weszło w życie z dniem 3 września 2015 r. 3) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 3 czerwca 2003 r. w sprawie wykonania niektórych przepisów ustawy o grach i zakładach wzajemnych (Dz. U. poz. 948 i 2133, z 2004 r. poz. 2691, z 2005 r. poz. 2233, z 2006 r. poz. 1801, z 2007 r. poz. 1827, z 2008 r. poz. 1123 i 1592 oraz z 2009 r. poz. 1027 i 1414), które na podstawie art. 143 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. poz. 1540) w części dotyczącej szczegółowych warunków dokonywania zabezpieczeń finansowych utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2010 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 3 czerwca 2003 r. w sprawie wykonania niektórych przepisów ustawy o grach i zakładach wzajemnych (Dz. U. poz. 948 i 2133, z 2004 r. poz. 2691, z 2005 r. poz. 2233, z 2006 r. poz. 1801, z 2007 r. poz. 1827, z 2008 r. poz. 1123 i 1592 oraz z 2009 r. poz. 1027 i 1414), które na podstawie art. 143 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. poz. 1540) w części dotyczącej szczegółowych warunków dokonywania zabezpieczeń finansowych utraciło moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 25 sierpnia 2015 r. zmieniającego rozporządzenie w sprawie warunków dokonywania zabezpieczeń finansowych w grach hazardowych (Dz. U. poz. 1288), które weszło w życie z dniem 3 września 2015 r. 3) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 3 czerwca 2003 r. w sprawie wykonania niektórych przepisów ustawy o grach i zakładach wzajemnych (Dz. U. poz. 948 i 2133, z 2004 r. poz. 2691, z 2005 r. poz. 2233, z 2006 r. poz. 1801, z 2007 r. poz. 1827, z 2008 r. poz. 1123 i 1592 oraz z 2009 r. poz. 1027 i 1414), które na podstawie art. 143 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. poz. 1540) w części dotyczącej szczegółowych warunków dokonywania zabezpieczeń finansowych utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
 

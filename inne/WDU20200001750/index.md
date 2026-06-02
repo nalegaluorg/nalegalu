@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 8 października 2020 r. zmieniające rozporządzenie w sprawie standardu organizacyjnego opieki w izolatoriach
+# Rozporządzenie Ministra Zdrowiaz dnia 8 października 2020 r. zmieniające rozporządzenie w sprawie standardu organizacyjnego opieki w izolatoriach Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-10-08 |
 | Data wydania | 2020-10-09 |
-| Wejście w życie | 2020-10-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001750) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1750/text.pdf) |
 
@@ -37,18 +36,13 @@ wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do objęcia opieką w izolat
 b)
 uchyla się pkt 1;
 2)
-w części III „Warunki sprawowania opieki w izolatorium” w ust. 2 w pkt 2 kropkę zastępuje się przecinkiem i dodaje się pkt 3 w brzmieniu:
-„
+w części III „Warunki sprawowania opieki w izolatorium” w ust. 2 w pkt 2 kropkę zastępuje się przecinkiem i dodaje się pkt 3 w brzmieniu: „
 3)
-zapewnienie osobom, o których mowa w części II pkt 2–4, warunków, o których mowa w części III ust. 1 pkt 1 i 1a, nie jest możliwe.
-” ;
+zapewnienie osobom, o których mowa w części II pkt 2–4, warunków, o których mowa w części III ust. 1 pkt 1 i 1a, nie jest możliwe. ” ;
 3)
-w części IV „Standard opieki medycznej” w ust. 1 pkt 1 otrzymuje brzmienie:
-„
+w części IV „Standard opieki medycznej” w ust. 1 pkt 1 otrzymuje brzmienie: „
 1)
-wizyta pielęgniarska – nie rzadziej niż raz na dobę; dopuszcza się wykonanie wizyty za pośrednictwem systemów teleinformatycznych lub systemów łączności;
-” .
+wizyta pielęgniarska – nie rzadziej niż raz na dobę; dopuszcza się wykonanie wizyty za pośrednictwem systemów teleinformatycznych lub systemów łączności; ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 

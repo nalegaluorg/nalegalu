@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2000-05-26 |
 | Data wydania | 2000-06-14 |
-| Wejście w życie | 2000-06-14 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000480555) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/555/text.pdf) |
 
@@ -130,8 +129,15 @@ source: "eli-html"
 
 2. Gmina realizuje zadania, o których mowa w ust. 1, zgodnie z założeniami polityki energetycznej państwa, miejscowymi planami zagospodarowania przestrzennego albo ustaleniami zawartymi w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy. ” ;
 
-- **10)** w art. 23: w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) zatwierdzanie i kontrolowanie taryf paliw gazowych, energii elektrycznej i ciepła pod względem zgodności z zasadami określonymi w art. 45 i 46, w tym: a) analizowanie i weryfikowanie kosztów przyjmowanych przez przedsiębiorstwa energetyczne jako uzasadnione do kalkulacji cen i stawek opłat w taryfach, b) ustalanie współczynników korekcyjnych określających projektowaną poprawę efektywności funkcjonowania przedsiębiorstwa energetycznego oraz zmianę warunków prowadzenia przez to przedsiębiorstwo danego rodzaju działalności gospodarczej, c) ustalanie okresu obowiązywania współczynnika korekcyjnego, o którym mowa w lit. b), ” – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) zatwierdzanie i kontrolowanie cen węgla brunatnego na zasadach określonych w art. 48, w zakresie, o którym mowa w pkt 2, ” w ust. 3 po wyrazach „o których mowa w ust. 2 pkt 1 i 3,” dodaje się wyrazy „z wyjątkiem spraw, o których mowa w art. 32 ust. 1 pkt 4,”;
+- **10)** w art. 23: w ust. 2: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** zatwierdzanie i kontrolowanie taryf paliw gazowych, energii elektrycznej i ciepła pod względem zgodności z zasadami określonymi w art. 45 i 46, w tym: analizowanie i weryfikowanie kosztów przyjmowanych przez przedsiębiorstwa energetyczne jako uzasadnione do kalkulacji cen i stawek opłat w taryfach, ustalanie współczynników korekcyjnych określających projektowaną poprawę efektywności funkcjonowania przedsiębiorstwa energetycznego oraz zmianę warunków prowadzenia przez to przedsiębiorstwo danego rodzaju działalności gospodarczej, ustalanie okresu obowiązywania współczynnika korekcyjnego, o którym mowa w lit. b), ” po pkt 2 dodaje się pkt 2a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2a)** zatwierdzanie i kontrolowanie cen węgla brunatnego na zasadach określonych w art. 48, w zakresie, o którym mowa w pkt 2, ” w ust. 3 po wyrazach „o których mowa w ust. 2 pkt 1 i 3,” dodaje się wyrazy „z wyjątkiem spraw, o których mowa w art. 32 ust. 1 pkt 4,”;
     - **b)**
 
 - **11)** w art. 28 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
@@ -233,8 +239,11 @@ source: "eli-html"
 - **3)** niewywiązywania się z obowiązków członka komisji,
 - **4)** utraty kwalifikacji umożliwiających powołanie w skład komisji. ” ;
 - **23)** skreśla się art. 55;
-- **24)** w art. 56: w ust. 1: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) nie przestrzega obowiązku zakupu energii elektrycznej, nałożonego przepisami wydanymi na podstawie art. 9 ust. 3, ” – pkt 5 otrzymuje brzmienie: „ 5) stosuje ceny i taryfy, nie przestrzegając obowiązku ich przedstawienia Prezesowi URE do zatwierdzenia, o którym mowa w art. 47, ” w ust. 3 użyte dwukrotnie wyrazy „podmiotu gospodarczego” zastępuje się wyrazem „przedsiębiorcy”, w ust. 5 wyrazy „kierownika podmiotu gospodarczego” zastępuje się wyrazami „kierownika przedsiębiorstwa energetycznego”.
+- **24)** w art. 56: w ust. 1: po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
+
+- **1a)** nie przestrzega obowiązku zakupu energii elektrycznej, nałożonego przepisami wydanymi na podstawie art. 9 ust. 3, ” pkt 5 otrzymuje brzmienie: „
+- **5)** stosuje ceny i taryfy, nie przestrzegając obowiązku ich przedstawienia Prezesowi URE do zatwierdzenia, o którym mowa w art. 47, ” w ust. 3 użyte dwukrotnie wyrazy „podmiotu gospodarczego” zastępuje się wyrazem „przedsiębiorcy”, w ust. 5 wyrazy „kierownika podmiotu gospodarczego” zastępuje się wyrazami „kierownika przedsiębiorstwa energetycznego”.
     - **b)**
     - **c)**
 

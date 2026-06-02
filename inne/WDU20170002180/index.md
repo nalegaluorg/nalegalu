@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 27 października 2017 r. o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw
+# Ustawa z dnia 27 października 2017 r. o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych i ustawę z dnia 20 lipca 2017 r. – Prawo wodne.
 
 | Pole | Wartość |
 |---|---|
@@ -22,17 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-27 |
 | Data wydania | 2017-11-27 |
-| Wejście w życie | 2017-12-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002180) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2180/text.pdf) |
 
+Organ regulacyjny
+Rozstrzyganie sporów pomiędzy przedsiębiorstwami wodociągowo-kanalizacyjnymi a odbiorcami usług
 1.
 W sprawach spornych dotyczących:
 1)
 odmowy zawarcia umowy o zaopatrzenie w wodę lub odprowadzanie ścieków przez przedsiębiorstwo wodociągowo-kanalizacyjne,
 2)
-odcięcia dostawy wody lub zamknięcia przyłącza kanalizacyjnego, lub odmowy przyłączenia do sieci nieruchomości osobie ubiegającej się o przyłączenie nieruchomości do sieci
-na wniosek strony rozstrzyga organ regulacyjny w drodze decyzji.
+odcięcia dostawy wody lub zamknięcia przyłącza kanalizacyjnego, lub odmowy przyłączenia do sieci nieruchomości osobie ubiegającej się o przyłączenie nieruchomości do sieci – na wniosek strony rozstrzyga organ regulacyjny w drodze decyzji.
 2.
 Rozstrzygnięcie organu regulacyjnego, o którym mowa w ust. 1, może polegać na nakazaniu przedsiębiorstwu wodociągowo-kanalizacyjnemu:
 1)
@@ -48,13 +48,12 @@ Na wniosek jednej ze stron organ regulacyjny może określić, w drodze postanow
 1.
 Od decyzji, o której mowa w art. 27e ust. 1, służy odwołanie do Sądu Okręgowego w Warszawie – sądu ochrony konkurencji i konsumentów w terminie 14 dni od dnia doręczenia decyzji.
 2.
-Postępowanie w sprawie odwołania od decyzji, o której mowa w art. 27e ust. 1, toczy się na podstawie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.) o postępowaniu w sprawach z zakresu regulacji rynku wodno-kanalizacyjnego.
+Postępowanie w sprawie odwołania od decyzji, o której mowa w art. 27e ust. 1, toczy się na podstawie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933, 1133, 1136, 1452, 1475, 1596, 1727, 1883 i 2180.) o postępowaniu w sprawach z zakresu regulacji rynku wodno-kanalizacyjnego.
 3.
-Do postanowień, o których mowa w art. 27e ust. 3, przepisy ust. 1 i 2 stosuje się odpowiednio, z tym że zażalenie wnosi się w terminie 7 dni od dnia doręczenia postanowienia.
-” ;
+Do postanowień, o których mowa w art. 27e ust. 3, przepisy ust. 1 i 2 stosuje się odpowiednio, z tym że zażalenie wnosi się w terminie 7 dni od dnia doręczenia postanowienia. ” ;
 11)
-art. 29 otrzymuje brzmienie:
-„
+art. 29 otrzymuje brzmienie: „
+Postępowanie w sprawach z zakresu regulacji rynku wodno-kanalizacyjnego
 
 **Art. 1.** W ustawie z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2017 r. poz. 328 i 1566) wprowadza się następujące zmiany:
 
@@ -221,7 +220,7 @@ art. 29 otrzymuje brzmienie:
 
 - **10)** po rozdziale 5 dodaje się rozdziały 5a i 5b w brzmieniu: „
 
-#### Rozdział 5a Organ regulacyjny
+#### Rozdział 5a
 
 **Art. 27a.**
 
@@ -255,7 +254,7 @@ art. 29 otrzymuje brzmienie:
 
 2. Organem wyższego stopnia w sprawach decyzji wydawanych na podstawie przepisów ustawy w stosunku do organu regulacyjnego jest Prezes Państwowego Gospodarstwa Wodnego Wody Polskie, z wyłączeniem decyzji, o której mowa w art. 27e ust. 1. Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, właściwość miejscową dyrektorów regionalnych zarządów gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie w sprawach z zakresu zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków, kierując się koniecznością zapewnienia skuteczności wykonywania zadań określonych w przepisach ustawy.
 
-#### Rozdział 5b Rozstrzyganie sporów pomiędzy przedsiębiorstwami wodociągowo-kanalizacyjnymi a odbiorcami usług
+#### Rozdział 5b
 
 **Art. 29.**
 
@@ -289,9 +288,9 @@ art. 29 otrzymuje brzmienie:
 
 12. Organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego w sprawach decyzji, o których mowa w ust. 4, jest Prezes Państwowego Gospodarstwa Wodnego Wody Polskie. ” .
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.) w części pierwszej w księdze pierwszej w tytule VII dodaje się dział IVf w brzmieniu: „
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933, 1133, 1136, 1452, 1475, 1596, 1727 i 1883.) w części pierwszej w księdze pierwszej w tytule VII dodaje się dział IVf w brzmieniu: „
 
-### Dział IVf Postępowanie w sprawach z zakresu regulacji rynku wodno-kanalizacyjnego
+### Dział IVf
 
 **Art. 47979.** Sąd Okręgowy w Warszawie – sąd ochrony konkurencji i konsumentów jest właściwy w sprawach:
 
@@ -416,5 +415,5 @@ art. 29 otrzymuje brzmienie:
 
 **Art. 13.** Do dnia 31 grudnia 2017 r. wpływy z opłaty, o której mowa w art. 24d ust. 1 ustawy zmienianej w art. 1, stanowią dochód budżetu państwa.
 
-**Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 8 w zakresie art. 24c ust. 1 pkt 1 lit. b, który wchodzi w życie z dniem 1 stycznia 2018 r.
+**Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 8 w zakresie art. 24c ust. 1 pkt 1 lit. b, który wchodzi w życie z dniem 1 stycznia 2018 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych i ustawę z dnia 20 lipca 2017 r. – Prawo wodne. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933, 1133, 1136, 1452, 1475, 1596, 1727, 1883 i 2180. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933, 1133, 1136, 1452, 1475, 1596, 1727 i 1883.
 

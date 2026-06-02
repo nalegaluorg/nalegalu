@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 27 października 2022 r. w sprawie podstawowych warunków prowadzenia apteki
+# Rozporządzenie Ministra Zdrowiaz dnia 27 października 2022 r. w sprawie podstawowych warunków prowadzenia apteki Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-27 |
 | Data wydania | 2022-11-18 |
-| Wejście w życie | 2022-12-03 |
 | Ostatnia zmiana | 2025-11-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002363) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2363/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 95 ust. 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 25 maja 2022 r. pod numerem 2022/370/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 95 ust. 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -54,15 +53,14 @@ W aptece zapewnia się:
 1)
 w pomieszczeniach, w których sporządza się leki recepturowe i apteczne oraz produkty lecznicze homeopatyczne, oraz w pomieszczeniach, które służą do przechowywania produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego, surowców farmaceutycznych i wyrobów medycznych, wyposażenie do całodobowego monitorowania temperatury i wilgotności,
 2)
-w urządzeniach chłodniczych, które służą do przechowywania produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego, surowców farmaceutycznych i wyrobów medycznych, wyposażenie do monitorowania temperatury
-mające świadectwo wzorcowania wydane przez akredytowane laboratorium wzorcujące oraz system umożliwiający odpowiednio zapis temperatury lub wilgotności oraz powiadamianie o przekroczeniach w zakresie parametrów temperatury lub wilgotności.
+w urządzeniach chłodniczych, które służą do przechowywania produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego, surowców farmaceutycznych i wyrobów medycznych, wyposażenie do monitorowania temperatury – mające świadectwo wzorcowania wydane przez akredytowane laboratorium wzorcujące oraz system umożliwiający odpowiednio zapis temperatury lub wilgotności oraz powiadamianie o przekroczeniach w zakresie parametrów temperatury lub wilgotności.
 3.
 Do sporządzania leków recepturowych, leków aptecznych i produktów leczniczych homeopatycznych stosuje się urządzenia oraz wyposażenie, o których mowa w ust. 2, podlegające okresowym przeglądom, konserwacji i kalibracji zgodnie z wymaganiami określonymi przez producenta lub w Farmakopei Polskiej lub Farmakopei Europejskiej, lub innych farmakopeach uznawanych w państwach członkowskich Unii Europejskiej oraz na podstawie analizy ryzyka.
 § 3.
 1.
 Pomieszczenia, w których są sporządzane leki recepturowe, leki apteczne oraz produkty lecznicze homeopatyczne, a także są przechowywane produkty lecznicze, środki spożywcze specjalnego przeznaczenia żywieniowego, surowce farmaceutyczne i wyroby medyczne, utrzymuje się w czystości i wyposaża się tak, aby eliminować nadmierne działanie promieni słonecznych, oraz wyposaża się w urządzenia zapewniające spełnienie szczególnych warunków przechowywania określonych w Charakterystyce Produktu Leczniczego, w tym w zakresie temperatury i wilgotności powietrza.
 2.
-Produkty lecznicze zawierające środki odurzające grup I-N i II-N i substancje psychotropowe grupy II-P oraz surowce farmaceutyczne będące takimi środkami lub substancjami przechowuje się zgodnie z przepisami wydanymi na podstawie art. 41 ust. 5 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050, z późn. zm.).
+Produkty lecznicze zawierające środki odurzające grup I-N i II-N i substancje psychotropowe grupy II-P oraz surowce farmaceutyczne będące takimi środkami lub substancjami przechowuje się zgodnie z przepisami wydanymi na podstawie art. 41 ust. 5 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2469 oraz z 2022 r. poz. 763, 764, 1700, 1812 i 1855.).
 3.
 Substancje bardzo silnie działające określone w wykazie A Farmakopei Polskiej, produkty lecznicze zawierające te substancje, z wyłączeniem kategorii produktów leczniczych wydawanych bez recepty (OTC), oraz produkty lecznicze zawierające prekursory kategorii 1 przechowuje się w szafkach lub szufladach zamykanych na klucz, w celu zabezpieczenia ich przed kradzieżą, podmianą i zniszczeniem.
 § 4.
@@ -359,7 +357,7 @@ warunki, w jakich odbywał się transport;
 2)
 sprawdzenie wizualnie, czy dostarczony produkt leczniczy, surowiec farmaceutyczny lub wyrób medyczny nie budzą zastrzeżeń co do jakości;
 3)
-sprawdzenie, czy opakowanie spełnia wymagania rozporządzenia delegowanego Komisji (UE) 2016/161 z dnia 2 października 2015 r. uzupełniającego dyrektywę 2001/83/WE Parlamentu Europejskiego i Rady przez określenie szczegółowych zasad dotyczących zabezpieczeń umieszczanych na opakowaniach produktów leczniczych stosowanych u ludzi (Dz. Urz. UE L 32 z 09.02.2016, str. 1, z późn. zm.), a w przypadku wyrobu medycznego, czy spełnia wymagania określone w przepisach dotyczących wyrobów medycznych.
+sprawdzenie, czy opakowanie spełnia wymagania rozporządzenia delegowanego Komisji (UE) 2016/161 z dnia 2 października 2015 r. uzupełniającego dyrektywę 2001/83/WE Parlamentu Europejskiego i Rady przez określenie szczegółowych zasad dotyczących zabezpieczeń umieszczanych na opakowaniach produktów leczniczych stosowanych u ludzi (Dz. Urz. UE L 32 z 09.02.2016, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 91 z 17.03.2021, str. 1, Dz. Urz. UE L 332 z 21.09.2021, str. 1 oraz Dz. Urz. UE L 55 z 28.02.2022, str. 33., a w przypadku wyrobu medycznego, czy spełnia wymagania określone w przepisach dotyczących wyrobów medycznych.
 2.
 Kontrola, o której mowa w ust. 1, obejmuje ponadto ocenę, czy produkty lecznicze zawierające środki odurzające, substancje psychotropowe, cytostatyki, wonne produkty zielarskie, materiały łatwo palne, żrące lub cuchnące są odpowiednio zabezpieczone, oznakowane i nie stykają się z pozostałymi produktami leczniczymi, środkami spożywczymi specjalnego przeznaczenia żywieniowego, surowcami farmaceutycznymi i wyrobami medycznymi.
 § 14.
@@ -391,6 +389,5 @@ Przedsiębiorcy, samodzielne publiczne zakłady opieki zdrowotnej, jednostki bud
 § 17.
 Traci moc rozporządzenie Ministra Zdrowia z dnia 18 października 2002 r. w sprawie podstawowych warunków prowadzenia apteki (Dz. U. poz. 1565 oraz z 2019 r. poz. 2096).
 § 18.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 25 maja 2022 r. pod numerem 2022/370/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2469 oraz z 2022 r. poz. 763, 764, 1700, 1812 i 1855. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 91 z 17.03.2021, str. 1, Dz. Urz. UE L 332 z 21.09.2021, str. 1 oraz Dz. Urz. UE L 55 z 28.02.2022, str. 33.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 25 maja 2022 r. pod numerem 2022/370/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2469 oraz z 2022 r. poz. 763, 764, 1700, 1812 i 1855. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 91 z 17.03.2021, str. 1, Dz. Urz. UE L 332 z 21.09.2021, str. 1 oraz Dz. Urz. UE L 55 z 28.02.2022, str. 33.
 

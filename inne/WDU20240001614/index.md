@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 30 października 2024 r. zmieniające rozporządzenie w sprawie udzielania pomocy de minimis lub pomocy publicznej na przedsięwzięcia realizowane w ramach inwestycji B2.2.2 „Instalacje OZE realizowane przez społeczności energetyczne” objętej wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 30 października 2024 r. zmieniające rozporządzenie w sprawie udzielania pomocy de minimis lub pomocy publicznej na przedsięwzięcia realizowane w ramach inwestycji B2.2.2 „Instalacje OZE realizowane przez społeczności energetyczne” objętej wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-30 |
 | Data wydania | 2024-11-04 |
-| Wejście w życie | 2024-11-05 |
 | Ostatnia zmiana | 2024-11-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001614) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1614/text.pdf) |
 
@@ -39,6 +38,5 @@ w § 15 wyrazy „minister właściwy do spraw gospodarki” zastępuje się wyr
 § 2.
 Wnioski, o których mowa w § 17 rozporządzenia zmienianego w § 1, złożone i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia podlegają rozpatrzeniu.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustaw regulujących warunki dostępu do wykonywania niektórych zawodów
+# Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustaw regulujących warunki dostępu do wykonywania niektórych zawodów Niniejszą ustawą zmienia się: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej, ustawę z dnia 21 listopada 1996 r. o muzeach, ustawę z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, ustawę z dnia 21 maja 1999 r. o broni i amunicji, ustawę z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej, ustawę z dnia 26 października 2000 r. o giełdach towarowych, ustawę z dnia 29 listopada 2000 r. – Prawo atomowe, ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, ustawę z dnia 11 kwietnia 2001 r. o rzecznikach patentowych, ustawę z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, ustawę z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, ustawę z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze oraz ustawę z dnia 27 września 2013 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-05 |
 | Data wydania | 2015-09-30 |
-| Wejście w życie | 2015-11-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001505) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1505/text.pdf) |
 
@@ -45,8 +44,7 @@ wystawa czasowa będzie organizowana przez:
 a)
 instytucję kultury w rozumieniu ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej lub
 b)
-muzeum niebędące instytucją kultury, wpisane do wykazu, o którym mowa w art. 5b ust. 1
-zwane dalej „organizatorem wystawy”.
+muzeum niebędące instytucją kultury, wpisane do wykazu, o którym mowa w art. 5b ust. 1 – zwane dalej „organizatorem wystawy”.
 2.
 Ochrona prawna rzeczy ruchomej obejmuje okres nie dłuższy niż 12 miesięcy od dnia jej wwiezienia na terytorium Rzeczypospolitej Polskiej.
 3.
@@ -82,7 +80,7 @@ Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po upływ
 7.
 Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego udostępnia na stronie podmiotowej w Biuletynie Informacji Publicznej informację o objęciu rzeczy ruchomej ochroną prawną albo informację o nieobjęciu rzeczy ruchomej ochroną prawną.
 8.
-W sprawach o objęcie rzeczy ruchomej ochroną prawną nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.).
+W sprawach o objęcie rzeczy ruchomej ochroną prawną nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 183 i 1195 oraz z 2015 r. poz. 211, 702 i 1274.).
 9.
 Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, wzór wniosku oraz dokumenty dołączane do wniosku, uwzględniając umożliwienie skutecznej identyfikacji rzeczy ruchomej, w tym konieczność podania imienia i nazwiska autora tej rzeczy, a także konieczność podania nazwy, siedziby i adresu organizatora wystawy oraz imienia, nazwiska i adresu lub nazwy, siedziby i adresu właściciela lub posiadacza rzeczy ruchomej, oraz umożliwienie dokonania oceny spełnienia warunków określonych w art. 31a ust. 1.
 1.
@@ -109,17 +107,15 @@ informację o ustaniu ochrony prawnej rzeczy ruchomej z przyczyn określonych w 
 3.
 W Biuletynie Informacji Publicznej udostępnia się informacje określone w ust. 2 pkt 1 i 3–6.
 4.
-Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, wzór karty ewidencyjnej, uwzględniając zakres danych objętych ewidencją, w tym potrzebę umożliwienia skutecznej identyfikacji rzeczy ruchomej objętej ochroną prawną.
-” ;
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, wzór karty ewidencyjnej, uwzględniając zakres danych objętych ewidencją, w tym potrzebę umożliwienia skutecznej identyfikacji rzeczy ruchomej objętej ochroną prawną. ” ;
 2)
-art. 32 otrzymuje brzmienie:
-„
+art. 32 otrzymuje brzmienie: „
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) w art. 871 § 1 otrzymuje brzmienie: „
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418 i 1419.) w art. 871 § 1 otrzymuje brzmienie: „
 
 § 1. W postępowaniu przed Sądem Najwyższym obowiązuje zastępstwo stron przez adwokatów lub radców prawnych, a w sprawach własności przemysłowej także przez rzeczników patentowych. Zastępstwo to dotyczy także czynności procesowych związanych z postępowaniem przed Sądem Najwyższym, podejmowanych przed sądem niższej instancji. ” .
 
-**Art. 2.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 353, z 2012 r. poz. 908, z 2013 r. poz. 1635 oraz z 2015 r. poz. 867.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 ust. 2a i 2b otrzymują brzmienie: „
 
@@ -134,7 +130,7 @@ art. 32 otrzymuje brzmienie:
 1. Uprawnienia inspektora ochrony przeciwpożarowej nabywa na okres 5 lat osoba, która ukończyła:
 
 - **1)** szkolenie inspektorów ochrony przeciwpożarowej albo
-- **2)** szkolenie aktualizujące inspektorów ochrony przeciwpożarowej zwane dalej „szkoleniami”.
+- **2)** szkolenie aktualizujące inspektorów ochrony przeciwpożarowej – zwane dalej „szkoleniami”.
 
 2. Ukończenie szkoleń stwierdzają odpowiednio zaświadczenie o ukończeniu szkolenia inspektorów ochrony przeciwpożarowej albo zaświadczenie o ukończeniu szkolenia aktualizującego inspektorów ochrony przeciwpożarowej.
 
@@ -150,15 +146,15 @@ art. 32 otrzymuje brzmienie:
 
 8. Za szkolenia pobiera się opłatę.
 
-9. Opłata za szkolenie wynosi do 50% kwoty przeciętnego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym szkolenie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2015 r. poz. 748, z późn. zm.).
+9. Opłata za szkolenie wynosi do 50% kwoty przeciętnego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym szkolenie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2015 r. poz. 748, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1302 i 1311.).
 
 10. Informację o wysokości opłaty za szkolenie podmioty, o których mowa w ust. 5, zamieszczają na swojej stronie internetowej.
 
 11. Opłata za szkolenie stanowi:
 
-- **1)** w przypadku ośrodków szkolenia Państwowej Straży Pożarnej – przychód funduszu wojewódzkiego, o którym mowa w art. 19g pkt 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.);
-- **2)** w przypadku Szkoły Głównej Służby Pożarniczej – przychód, o którym mowa w art. 98 ust. 1 pkt 3 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.);
-- **3)** w przypadku szkół Państwowej Straży Pożarnej prowadzonych przez ministra właściwego do spraw wewnętrznych – przychód, o którym mowa w art. 11a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.);
+- **1)** w przypadku ośrodków szkolenia Państwowej Straży Pożarnej – przychód funduszu wojewódzkiego, o którym mowa w art. 19g pkt 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351, z 2014 r. poz. 502, 616 i 1822 oraz z 2015 r. poz. 881, 1045, 1066, 1098, 1217, 1268, 1434 i 1505.);
+- **2)** w przypadku Szkoły Głównej Służby Pożarniczej – przychód, o którym mowa w art. 98 ust. 1 pkt 3 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650, z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198 oraz z 2015 r. poz. 357, 860, 1187, 1240 i 1268.);
+- **3)** w przypadku szkół Państwowej Straży Pożarnej prowadzonych przez ministra właściwego do spraw wewnętrznych – przychód, o którym mowa w art. 11a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269 i 1358.);
 - **4)** w przypadku pozostałych szkół Państwowej Straży Pożarnej – przychód funduszu szkoły Państwowej Straży Pożarnej, o którym mowa w art. 19g pkt 3 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej;
 - **5)** w przypadku instytutów badawczych Państwowej Straży Pożarnej – przychód, o którym mowa w art. 18 ust. 7 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2015 r. poz. 1095).
 
@@ -170,7 +166,7 @@ art. 32 otrzymuje brzmienie:
     - **a)**
     - **b)**
 
-- **4)** sposób i tryb wnoszenia opłaty za szkolenie kierując się rodzajem zadań przewidzianych dla osób wykonujących czynności z zakresu ochrony przeciwpożarowej, o których mowa w art. 4 ust. 1, potrzebą zachowania standardów merytorycznych i dydaktycznych szkoleń oraz zapewnienia jednolitości programów szkoleń w zakresie ochrony przeciwpożarowej oraz wydawanych zaświadczeń, a także sprawności organizacji rekrutacji na szkolenia. ” ;
+- **4)** sposób i tryb wnoszenia opłaty za szkolenie – kierując się rodzajem zadań przewidzianych dla osób wykonujących czynności z zakresu ochrony przeciwpożarowej, o których mowa w art. 4 ust. 1, potrzebą zachowania standardów merytorycznych i dydaktycznych szkoleń oraz zapewnienia jednolitości programów szkoleń w zakresie ochrony przeciwpożarowej oraz wydawanych zaświadczeń, a także sprawności organizacji rekrutacji na szkolenia. ” ;
 - **3)** w art. 6: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
@@ -179,7 +175,7 @@ art. 32 otrzymuje brzmienie:
 - **b)**
 - **c)**
 
-6. Inwestor jest obowiązany zawiadomić komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej właściwego dla miejsca lokalizacji inwestycji o zakończeniu budowy obiektu budowlanego istotnego ze względu na konieczność zapewnienia ochrony życia, zdrowia, mienia lub środowiska przed pożarem, klęską żywiołową lub innym miejscowym zagrożeniem i o zamiarze przystąpienia do jego użytkowania, w celu zajęcia przez tego komendanta stanowiska, o którym mowa w art. 56 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.).
+6. Inwestor jest obowiązany zawiadomić komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej właściwego dla miejsca lokalizacji inwestycji o zakończeniu budowy obiektu budowlanego istotnego ze względu na konieczność zapewnienia ochrony życia, zdrowia, mienia lub środowiska przed pożarem, klęską żywiołową lub innym miejscowym zagrożeniem i o zamiarze przystąpienia do jego użytkowania, w celu zajęcia przez tego komendanta stanowiska, o którym mowa w art. 56 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151, 200, 443, 528, 774, 1165 i 1265.).
 
 7. Komendant powiatowy (miejski) Państwowej Straży Pożarnej przy zajmowaniu stanowiska niezwłocznie zawiadamia właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej i właściwy organ administracji architektoniczno-budowlanej oraz organ nadzoru budowlanego o zastrzeżeniach do rozwiązań zawartych w projekcie budowlanym uzgodnionym pod względem zgodności z wymaganiami ochrony przeciwpożarowej przez rzeczoznawcę do spraw zabezpieczeń przeciwpożarowych, zwanego dalej „rzeczoznawcą”. ” ;
 
@@ -232,7 +228,7 @@ art. 32 otrzymuje brzmienie:
 - **2)** podstawowe dane dotyczące warunków ochrony przeciwpożarowej obiektu budowlanego, które powinny stanowić podstawę uzgodnienia,
 - **3)** szczegółowy sposób dokonywania uzgodnień projektu budowlanego,
 - **4)** wzór pieczęci potwierdzającej uzgodnienie projektu budowlanego obiektu budowlanego,
-- **5)** sposób i zakres zawiadomienia o uzgodnieniu projektu budowlanego biorąc pod uwagę przeznaczenie i parametry techniczne obiektów budowlanych, w tym dotyczące warunków ochrony przeciwpożarowej, efektywność procesu uzgadniania projektów budowlanych obiektów budowlanych i zawiadamiania o tym uzgodnieniu oraz że pieczęć musi identyfikować rzeczoznawcę dokonującego uzgodnienia. ” ;
+- **5)** sposób i zakres zawiadomienia o uzgodnieniu projektu budowlanego – biorąc pod uwagę przeznaczenie i parametry techniczne obiektów budowlanych, w tym dotyczące warunków ochrony przeciwpożarowej, efektywność procesu uzgadniania projektów budowlanych obiektów budowlanych i zawiadamiania o tym uzgodnieniu oraz że pieczęć musi identyfikować rzeczoznawcę dokonującego uzgodnienia. ” ;
 - **5)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
 #### Rozdział 2a
@@ -363,7 +359,7 @@ art. 32 otrzymuje brzmienie:
 - **2)** opublikowanie jako autor lub współautor książki, artykułu lub tłumaczenia,
 - **3)** udział w kongresach, zjazdach, konferencjach lub sympozjach naukowych lub technicznych,
 - **4)** udział w warsztatach szkoleniowych i innych formach szkoleń,
-- **5)** udział w internetowych programach edukacyjnych w zakresie wiedzy i umiejętności dotyczących ochrony przeciwpożarowej.
+- **5)** udział w internetowych programach edukacyjnych – w zakresie wiedzy i umiejętności dotyczących ochrony przeciwpożarowej.
 
 2. Samodzielne podnoszenie kwalifikacji zawodowych rzeczoznawca potwierdza uzyskaniem pozytywnego wyniku ze sprawdzianu.
 
@@ -409,12 +405,12 @@ art. 32 otrzymuje brzmienie:
 
 - **1)** wzór zawiadomienia, którym rzeczoznawca informuje Komendanta Głównego Państwowej Straży Pożarnej o szkoleniach dla rzeczoznawców, w których brał udział,
 - **2)** wzór zaświadczenia o ukończeniu szkolenia dla rzeczoznawców,
-- **3)** sposób i tryb wnoszenia opłaty za szkolenie dla rzeczoznawców kierując się zapewnieniem właściwego sposobu dokumentowania odbycia szkolenia przez rzeczoznawcę, a także sprawności organizacji rekrutacji na szkolenia. Rzeczoznawcy, który nie przystąpił do sprawdzianu w wymaganym terminie albo uzyskał negatywny wynik ze sprawdzianu, Komendant Główny Państwowej Straży Pożarnej zawiesza prawo do wykonywania zawodu rzeczoznawcy, w drodze postanowienia. Na postanowienie o zawieszeniu prawa do wykonywania zawodu rzeczoznawcy nie przysługuje wniosek o ponowne rozpatrzenie sprawy. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+- **3)** sposób i tryb wnoszenia opłaty za szkolenie dla rzeczoznawców – kierując się zapewnieniem właściwego sposobu dokumentowania odbycia szkolenia przez rzeczoznawcę, a także sprawności organizacji rekrutacji na szkolenia. Rzeczoznawcy, który nie przystąpił do sprawdzianu w wymaganym terminie albo uzyskał negatywny wynik ze sprawdzianu, Komendant Główny Państwowej Straży Pożarnej zawiesza prawo do wykonywania zawodu rzeczoznawcy, w drodze postanowienia. Na postanowienie o zawieszeniu prawa do wykonywania zawodu rzeczoznawcy nie przysługuje wniosek o ponowne rozpatrzenie sprawy. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 - **1)** organizację pracy komisji egzaminacyjnej,
 - **2)** sposób przeprowadzania egzaminu na rzeczoznawcę oraz sprawdzianu dla rzeczoznawców oraz sposób ustalania wyniku z egzaminu lub sprawdzianu,
 - **3)** sposób i tryb wnoszenia oraz zwrotu opłaty za przeprowadzenie egzaminu na rzeczoznawcę,
 - **4)** wzór kwestionariusza osobowego,
-- **5)** wzór aktu powołania do wykonywania zawodu rzeczoznawcy mając na względzie zapewnienie przejrzystego procesu oceny przygotowania zawodowego kandydata na rzeczoznawcę oraz uwzględniając konieczność zapewnienia sprawnego przebiegu egzaminu i sprawdzianu.
+- **5)** wzór aktu powołania do wykonywania zawodu rzeczoznawcy – mając na względzie zapewnienie przejrzystego procesu oceny przygotowania zawodowego kandydata na rzeczoznawcę oraz uwzględniając konieczność zapewnienia sprawnego przebiegu egzaminu i sprawdzianu.
 
 1. Rzeczoznawca podlega obowiązkowemu ubezpieczeniu odpowiedzialności cywilnej za szkody wyrządzone w związku z:
 
@@ -475,7 +471,7 @@ art. 32 otrzymuje brzmienie:
 - **2)** skierować rzeczoznawcę na egzamin, o którym mowa w art. 11b ust. 2, w celu powtórnej oceny przygotowania zawodowego do wykonywania zawodu rzeczoznawcy;
 - **3)** cofnąć rzeczoznawcy prawo do wykonywania zawodu.
 
-2. W przypadku, o którym mowa w ust. 1 pkt 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.).
+2. W przypadku, o którym mowa w ust. 1 pkt 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 183 i 1195 oraz z 2015 r. poz. 211, 702 i 1274.).
 
 3. Komendant Główny Państwowej Straży Pożarnej kieruje rzeczoznawcę na egzamin w drodze decyzji administracyjnej. Rzeczoznawcy skierowanemu na egzamin zawiesza się prawo do wykonywania zawodu rzeczoznawcy.
 
@@ -523,7 +519,7 @@ art. 32 otrzymuje brzmienie:
 - **2)** rodzaje szkoleń równorzędnych ze szkoleniem w zawodzie strażak,
 - **3)** zakres oraz formy realizacji szkolenia w zawodzie strażak,
 - **4)** zakres programowy szkolenia w zawodzie strażak oraz tryb ustalania programu tego szkolenia,
-- **5)** tryb wydawania oraz wzór świadectwa o ukończeniu szkolenia w zawodzie strażak kierując się rodzajem zadań wykonywanych przez jednostki ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a-5 i 8, koniecznością współdziałania w ramach krajowego systemu ratowniczo-gaśniczego, potrzebą zachowania standardów merytorycznych i dydaktycznych szkoleń oraz zapewnienia jednolitości programów szkoleń w zakresie ochrony przeciwpożarowej oraz wydawanych świadectw. ” ;
+- **5)** tryb wydawania oraz wzór świadectwa o ukończeniu szkolenia w zawodzie strażak – kierując się rodzajem zadań wykonywanych przez jednostki ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a-5 i 8, koniecznością współdziałania w ramach krajowego systemu ratowniczo-gaśniczego, potrzebą zachowania standardów merytorycznych i dydaktycznych szkoleń oraz zapewnienia jednolitości programów szkoleń w zakresie ochrony przeciwpożarowej oraz wydawanych świadectw. ” ;
 - **7)** w art. 22 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
 1a. Uprawnionymi do kierowania działaniem ratowniczym są:
@@ -532,7 +528,7 @@ art. 32 otrzymuje brzmienie:
 - **2)** na poziomie taktycznym – osoby wymienione w pkt 1, strażacy Państwowej Straży Pożarnej posiadający kwalifikacje do zajmowania stanowisk aspiranckich oraz strażacy jednostek ochrony przeciwpożarowej posiadający kwalifikacje zawodowe co najmniej technik pożarnictwa;
 - **3)** na poziomie interwencyjnym – osoby wymienione w pkt 1 i 2, strażacy Państwowej Straży Pożarnej posiadający kwalifikacje do zajmowania stanowisk podoficerskich, strażacy jednostek ochrony przeciwpożarowej posiadający kwalifikacje do wykonywania zawodu strażak oraz członkowie ochotniczej straży pożarnej, którzy ukończyli szkolenie przygotowujące do dowodzenia lub posiadają kwalifikacje do wykonywania zawodu strażak. ” .
 
-**Art. 3.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351, z 2014 r. poz. 502, 616 i 1822 oraz z 2015 r. poz. 881, 1045, 1066, 1098, 1217, 1268 i 1434.) wprowadza się następujące zmiany:
 
 - **1)** w art. 10 w ust. 1: pkt 5a otrzymuje brzmienie: „
     - **a)**
@@ -590,7 +586,7 @@ art. 32 otrzymuje brzmienie:
 
 - **1)** rodzaj stanowisk służbowych oficerskich, aspiranckich, podoficerskich i szeregowych,
 - **2)** staż służby lub pracy wymagane do zajmowania poszczególnych stanowisk służbowych,
-- **3)** wykształcenie wymagane do zajmowania niektórych stanowisk służbowych biorąc pod uwagę charakter zadań wykonywanych przez strażaków na poszczególnych stanowiskach służbowych, kwalifikacje wymagane na tych stanowiskach oraz potrzebę zapewnienia niezbędnego poziomu doświadczenia zawodowego.
+- **3)** wykształcenie wymagane do zajmowania niektórych stanowisk służbowych – biorąc pod uwagę charakter zadań wykonywanych przez strażaków na poszczególnych stanowiskach służbowych, kwalifikacje wymagane na tych stanowiskach oraz potrzebę zapewnienia niezbędnego poziomu doświadczenia zawodowego.
 
 14. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb kierowania na przeszkolenia zawodowe, o których mowa w ust. 11, uwzględniając potrzeby i organizację służby w Państwowej Straży Pożarnej. ” ;
 
@@ -650,14 +646,14 @@ art. 32 otrzymuje brzmienie:
 
 - **4)** po art. 29 dodaje się art. 29a w brzmieniu: „ Nie ujawnia się:
 - **1)** wysokości wynagrodzenia podmiotu świadczącego usługi lub realizującego dostawy z zakresu działalności artystycznej lub twórczej,
-- **2)** danych osobowych podmiotu świadczącego usługi lub realizującego dostawy z zakresu działalności kulturalnej, związanych z posiadanymi prawami wyłącznymi jeżeli do tych usług lub dostaw nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2013 r. poz. 907, z późn. zm.), a podmiot ten zastrzegł, że powyższe informacje nie mogą być udostępniane. ” ;
+- **2)** danych osobowych podmiotu świadczącego usługi lub realizującego dostawy z zakresu działalności kulturalnej, związanych z posiadanymi prawami wyłącznymi – jeżeli do tych usług lub dostaw nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2013 r. poz. 907, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984, 1047 i 1473, z 2014 r. poz. 423, 768, 811, 915, 1146 i 1232 oraz z 2015 r. poz. 349, 478 i 605.), a podmiot ten zastrzegł, że powyższe informacje nie mogą być udostępniane. ” ;
 - **5)** w art. 31a ust. 1–3 otrzymują brzmienie: „
 
-1. Pracownik artystyczny może otrzymywać dodatkowe wynagrodzenie, w szczególności za udział w określonej roli w przedstawieniu lub koncercie, za reżyserię, scenografię, choreografię lub kierownictwo muzyczne przedstawienia lub współtworzenie utworu audiowizualnego w rozumieniu przepisu art. 69 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. Nr 90, poz. 631, z późn. zm.).
+1. Pracownik artystyczny może otrzymywać dodatkowe wynagrodzenie, w szczególności za udział w określonej roli w przedstawieniu lub koncercie, za reżyserię, scenografię, choreografię lub kierownictwo muzyczne przedstawienia lub współtworzenie utworu audiowizualnego w rozumieniu przepisu art. 69 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. Nr 90, poz. 631, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 94, poz. 658 i Nr 121, poz. 843, z 2007 r. Nr 99, poz. 662 i Nr 181, poz. 1293, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 152, poz. 1016 oraz z 2015 r. poz. 932 i 994.).
 
 2. Pracownikowi artystycznemu, który używa w pracy, za zgodą pracodawcy, własnego instrumentu lub własnych akcesoriów do instrumentu, ubioru scenicznego, rekwizytu lub narzędzi, przysługuje ekwiwalent pieniężny za ich używanie.
 
-3. Do pracowników zatrudnionych na stanowisku dyrektora lub zastępcy dyrektora instytucji kultury, wykonujących zadania określone w ust. 1, nie stosuje się przepisów art. 5 ust. 1 i 4 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2013 r. poz. 254, z późn. zm.). ” ;
+3. Do pracowników zatrudnionych na stanowisku dyrektora lub zastępcy dyrektora instytucji kultury, wykonujących zadania określone w ust. 1, nie stosuje się przepisów art. 5 ust. 1 i 4 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2013 r. poz. 254, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1645, z 2014 r. poz. 1877 oraz z 2015 r. poz. 1322.). ” ;
 
 - **6)** art. 31d otrzymuje brzmienie: „
 
@@ -670,7 +666,7 @@ art. 32 otrzymuje brzmienie:
 - **3)** wysokości dodatku specjalnego i jego wypłacania,
 - **4)** prawa do ekwiwalentu pieniężnego i jego wysokości,
 - **5)** prawa do nagrody jubileuszowej i jej wypłacania,
-- **6)** prawa do jednorazowej odprawy pieniężnej przysługującej w związku z przejściem na emeryturę lub rentę z tytułu niezdolności do pracy oraz jej wypłacania mając na uwadze charakter pracy wykonywanej przez pracowników instytucji kultury, warunki w jakich jest ona wykonywana, zakres, złożoność zadań oraz odpowiedzialność tych pracowników, możliwość pozostawania przez pracowników równocześnie w więcej niż jednym stosunku pracy, określenie wysokości dodatku w odniesieniu do wysokości wynagrodzenia zasadniczego, określenie terminu wypłacania dodatku, nagrody oraz odprawy, koszty ponoszone przez pracownika związane z zakupem lub utrzymaniem w należytym stanie rzeczy, o których mowa w art. 31a ust. 2.
+- **6)** prawa do jednorazowej odprawy pieniężnej przysługującej w związku z przejściem na emeryturę lub rentę z tytułu niezdolności do pracy oraz jej wypłacania – mając na uwadze charakter pracy wykonywanej przez pracowników instytucji kultury, warunki w jakich jest ona wykonywana, zakres, złożoność zadań oraz odpowiedzialność tych pracowników, możliwość pozostawania przez pracowników równocześnie w więcej niż jednym stosunku pracy, określenie wysokości dodatku w odniesieniu do wysokości wynagrodzenia zasadniczego, określenie terminu wypłacania dodatku, nagrody oraz odprawy, koszty ponoszone przez pracownika związane z zakupem lub utrzymaniem w należytym stanie rzeczy, o których mowa w art. 31a ust. 2.
 
 2. W przypadku gdy w instytucji kultury nie jest zawarty układ zbiorowy pracy, warunki wynagradzania za pracę oraz stanowiska pracy w tej instytucji określa jej dyrektor w regulaminie wynagradzania.
 
@@ -689,7 +685,7 @@ art. 32 otrzymuje brzmienie:
 - **1)** gromadzeniem i naukowym opracowywaniem zbiorów,
 - **2)** urządzaniem wystaw i udostępnianiem zbiorów do celów edukacyjnych i naukowych,
 - **3)** organizowaniem badań i ekspedycji naukowych, w tym archeologicznych,
-- **4)** prowadzeniem działalności edukacyjnej, artystycznej, upowszechniającej kulturę lub wydawniczej tworzą zawodową grupę muzealników.
+- **4)** prowadzeniem działalności edukacyjnej, artystycznej, upowszechniającej kulturę lub wydawniczej – tworzą zawodową grupę muzealników.
 
 2. Pracowników, którzy tworzą zawodową grupę muzealników, zatrudnia się na stanowiskach kustosza dyplomowanego, kustosza, adiunkta i asystenta.
 
@@ -807,7 +803,7 @@ art. 32 otrzymuje brzmienie:
 5. Komisja kwalifikacyjna działa na podstawie uchwalonego przez siebie regulaminu, zatwierdzonego przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego. ” . W ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2014 r. poz. 1099) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 pkt 7 otrzymuje brzmienie: „
-- **7)** specjalistyczne uzbrojone formacje ochronne – wewnętrzne służby ochrony oraz przedsiębiorców, którzy uzyskali koncesje na prowadzenie działalności gospodarczej w zakresie usług ochrony osób i mienia, posiadających broń na podstawie pozwolenia na broń na okaziciela, o którym mowa w art. 29 ust. 1 pkt 1 i 2 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2012 r. poz. 576, z późn. zm.), zwanej dalej „ustawą o broni i amunicji”; ” ;
+- **7)** specjalistyczne uzbrojone formacje ochronne – wewnętrzne służby ochrony oraz przedsiębiorców, którzy uzyskali koncesje na prowadzenie działalności gospodarczej w zakresie usług ochrony osób i mienia, posiadających broń na podstawie pozwolenia na broń na okaziciela, o którym mowa w art. 29 ust. 1 pkt 1 i 2 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2012 r. poz. 576, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 829, z 2014 r. poz. 295 oraz z 2015 r. poz. 1505.), zwanej dalej „ustawą o broni i amunicji”; ” ;
 - **2)** art. 16 otrzymuje brzmienie: „
 
 1. Organem koncesyjnym, właściwym do udzielenia, odmowy udzielenia, zmiany, ograniczenia zakresu działalności gospodarczej lub formy usług oraz cofania koncesji na działalność gospodarczą w zakresie usług ochrony osób i mienia jest minister właściwy do spraw wewnętrznych.
@@ -832,9 +828,10 @@ art. 32 otrzymuje brzmienie:
 - **6)** w art. 33a: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Do przeprowadzania badań psychologicznych osób ubiegających się o wpis na listę kwalifikowanych pracowników ochrony fizycznej lub posiadających taki wpis oraz wydawania orzeczeń psychologicznych, o których mowa w art. 26 ust. 3 pkt 7, jest uprawniony psycholog upoważniony, o którym mowa w art. 15c ust. 1 ustawy o broni i amunicji. Do kontroli wykonywania i dokumentowania badań psychologicznych oraz wydawanych orzeczeń psychologicznych stosuje się przepisy art. 15i oraz art. 15j ustawy o broni i amunicji. ” , w ust. 4: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) jednostki o wyższym poziomie referencyjnym, o których mowa w art. 34 ust. 3 pkt 1; ” , – część wspólna otrzymuje brzmienie: „ – uwzględniając potrzebę zapewnienia, aby wyniki badań odzwierciedlały stan zdrowia osób poddających się badaniu, potencjał wykonawczy jednostki referencyjnej, w szczególności liczbę i kwalifikacje personelu medycznego, wyposażenie w sprzęt i aparaturę medyczną oraz możliwości diagnostyczno-terapeutyczne w określonej dziedzinie medycyny, oraz aby stawki opłat, o których mowa w pkt 2, odpowiadały kosztom przeprowadzonych badań. ” ;
+1. Do przeprowadzania badań psychologicznych osób ubiegających się o wpis na listę kwalifikowanych pracowników ochrony fizycznej lub posiadających taki wpis oraz wydawania orzeczeń psychologicznych, o których mowa w art. 26 ust. 3 pkt 7, jest uprawniony psycholog upoważniony, o którym mowa w art. 15c ust. 1 ustawy o broni i amunicji. Do kontroli wykonywania i dokumentowania badań psychologicznych oraz wydawanych orzeczeń psychologicznych stosuje się przepisy art. 15i oraz art. 15j ustawy o broni i amunicji. ” , w ust. 4: po pkt 1 dodaje się pkt 1a w brzmieniu: „
 
 - **b)**
+- **1a)** jednostki o wyższym poziomie referencyjnym, o których mowa w art. 34 ust. 3 pkt 1; ” , część wspólna otrzymuje brzmienie: „ – uwzględniając potrzebę zapewnienia, aby wyniki badań odzwierciedlały stan zdrowia osób poddających się badaniu, potencjał wykonawczy jednostki referencyjnej, w szczególności liczbę i kwalifikacje personelu medycznego, wyposażenie w sprzęt i aparaturę medyczną oraz możliwości diagnostyczno-terapeutyczne w określonej dziedzinie medycyny, oraz aby stawki opłat, o których mowa w pkt 2, odpowiadały kosztom przeprowadzonych badań. ” ;
 - **7)** w art. 34 w ust. 3 pkt 1 otrzymuje brzmienie: „
 - **1)** wojewódzkie ośrodki medycyny pracy, a w przypadku gdy odwołanie dotyczy orzeczenia lekarskiego wydanego w wojewódzkim ośrodku medycyny pracy – jednostka o wyższym poziomie referencyjnym; ” ;
 - **8)** w art. 38b: ust. 1 otrzymuje brzmienie: „
@@ -877,14 +874,14 @@ art. 32 otrzymuje brzmienie:
 - **1)** co najmniej pięcioletni staż pracy w zawodzie,
 - **2)** specjalizację w dziedzinie: chorób wewnętrznych, medycyny ogólnej, medycyny rodzinnej, medycyny pracy, medycyny przemysłowej, medycyny transportu, medycyny lotniczej, medycyny kolejowej, medycyny morskiej i tropikalnej lub medycyny sportowej,
 - **3)** dodatkowe kwalifikacje z zakresu przeprowadzania badań lekarskich osób ubiegających się,
-- **4)** wpis do rejestru lekarzy upoważnionych zwany „lekarzem upoważnionym”.
+- **4)** wpis do rejestru lekarzy upoważnionych – zwany „lekarzem upoważnionym”.
 
 2. Komendant wojewódzki Policji prowadzi i aktualizuje rejestr lekarzy upoważnionych, który zawiera:
 
 - **1)** imię lub imiona, nazwisko lekarza upoważnionego,
 - **2)** datę wpisu do rejestru i numer tego wpisu,
 - **3)** numer prawa wykonywania zawodu,
-- **4)** adres miejsca wykonywania badań lekarskich, opcjonalnie adres poczty elektronicznej lub numer telefonu oraz wystawia zaświadczenie o wpisie do rejestru.
+- **4)** adres miejsca wykonywania badań lekarskich, opcjonalnie adres poczty elektronicznej lub numer telefonu – oraz wystawia zaświadczenie o wpisie do rejestru.
 
 3. Dodatkowe kwalifikacje, o których mowa w ust. 1 pkt 3, lekarz uzyskuje po ukończeniu z wynikiem pozytywnym szkolenia z zakresu przeprowadzania badań lekarskich i wydawania orzeczeń lekarskich osobom ubiegającym się.
 
@@ -893,13 +890,13 @@ art. 32 otrzymuje brzmienie:
 - **1)** dyplom magistra psychologii lub dyplom magistra filozofii chrześcijańskiej ze specjalizacją filozoficzno-psychologiczną uzyskany na Katolickim Uniwersytecie Lubelskim do dnia 1 października 1981 r. lub dyplom magistra filozofii chrześcijańskiej w zakresie psychologii uzyskany w Akademii Teologii Katolickiej do dnia 31 grudnia 1992 r.,
 - **2)** co najmniej pięcioletni staż pracy w zawodzie, przy czym co najmniej 3 lata w ostatnim pięcioleciu był zatrudniony na stanowisku psychologa,
 - **3)** dodatkowe kwalifikacje z zakresu przeprowadzania badań psychologicznych osób ubiegających się,
-- **4)** wpis do rejestru psychologów upoważnionych zwany „psychologiem upoważnionym”.
+- **4)** wpis do rejestru psychologów upoważnionych – zwany „psychologiem upoważnionym”.
 
 2. Komendant wojewódzki Policji prowadzi i aktualizuje rejestr psychologów upoważnionych zawierający:
 
 - **1)** imię lub imiona, nazwisko psychologa upoważnionego,
 - **2)** datę wpisu do rejestru i numer tego wpisu,
-- **3)** adres miejsca wykonywania badań psychologicznych, opcjonalnie adres poczty elektronicznej lub numer telefonu oraz wystawia zaświadczenia o wpisie do rejestru.
+- **3)** adres miejsca wykonywania badań psychologicznych, opcjonalnie adres poczty elektronicznej lub numer telefonu – oraz wystawia zaświadczenia o wpisie do rejestru.
 
 3. Dodatkowe kwalifikacje, o których mowa w ust. 1 pkt 3, psycholog uzyskuje po ukończeniu z wynikiem pozytywnym szkolenia z zakresu przeprowadzania badań psychologicznych i wydawania orzeczeń psychologicznych osobom ubiegającym się. Programy szkoleń zatwierdza minister właściwy do spraw wewnętrznych.
 
@@ -907,7 +904,7 @@ art. 32 otrzymuje brzmienie:
 
 - **1)** zawieszenia prawa wykonywania zawodu,
 - **2)** ograniczenia w wykonywaniu określonych czynności medycznych,
-- **3)** utraty prawa wykonywania zawodu określonych w ustawie z dnia 5 grudnia 1996 r. o zawodzie lekarza i lekarza dentysty (Dz. U. z 2015 r. poz. 464).
+- **3)** utraty prawa wykonywania zawodu – określonych w ustawie z dnia 5 grudnia 1996 r. o zawodzie lekarza i lekarza dentysty (Dz. U. z 2015 r. poz. 464).
 
 2. Psycholog upoważniony traci uprawnienia do wydawania orzeczeń psychologicznych w przypadku:
 
@@ -918,7 +915,7 @@ art. 32 otrzymuje brzmienie:
 
 1. Badania lekarskie i psychologiczne prowadzi się na koszt osoby ubiegającej się.
 
-2. Maksymalna opłata za badanie lekarskie lub maksymalna opłata za badanie psychologiczne wynoszą odpowiednio 15% kwoty przeciętnego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym przeprowadzenie badania, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2015 r. poz. 748, z późn. zm.).
+2. Maksymalna opłata za badanie lekarskie lub maksymalna opłata za badanie psychologiczne wynoszą odpowiednio 15% kwoty przeciętnego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym przeprowadzenie badania, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2015 r. poz. 748, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1302 i 1311.).
 
 1. Lekarz upoważniony wydaje orzeczenie lekarskie na podstawie wyników badań, o których mowa w art. 15a ust. 2.
 
@@ -1009,7 +1006,7 @@ art. 32 otrzymuje brzmienie:
 - **1)** zakres i formę prowadzenia szkoleń pozwalających na uzyskanie dodatkowych kwalifikacji, o których mowa w art. 15b ust. 1 pkt 3 i art. 15c ust. 1 pkt 3;
 - **2)** jednostki uprawnione do prowadzenia szkoleń, o których mowa w pkt 1;
 - **3)** sposób oceny stanu narządu wzroku;
-- **4)** wzory: orzeczenia lekarskiego, o którym mowa w art. 15f ust. 1 i art. 15h ust. 7, karty badania lekarskiego, o której mowa w art. 15f ust. 3, orzeczenia psychologicznego, o którym mowa w art. 15g ust. 1 i art. 15h ust. 7, zaświadczenia o wpisie do rejestru lekarzy upoważnionych i zaświadczenia o wpisie do rejestru psychologów upoważnionych, pieczęci używanych przez lekarza upoważnionego lub psychologa upoważnionego mając na względzie właściwe przygotowanie lekarzy upoważnionych i psychologów upoważnionych, sprawny obieg dokumentacji oraz jednolitość stosowanych wzorów. ” ;
+- **4)** wzory: orzeczenia lekarskiego, o którym mowa w art. 15f ust. 1 i art. 15h ust. 7, karty badania lekarskiego, o której mowa w art. 15f ust. 3, orzeczenia psychologicznego, o którym mowa w art. 15g ust. 1 i art. 15h ust. 7, zaświadczenia o wpisie do rejestru lekarzy upoważnionych i zaświadczenia o wpisie do rejestru psychologów upoważnionych, pieczęci używanych przez lekarza upoważnionego lub psychologa upoważnionego – mając na względzie właściwe przygotowanie lekarzy upoważnionych i psychologów upoważnionych, sprawny obieg dokumentacji oraz jednolitość stosowanych wzorów. ” ;
     - **a)**
     - **b)**
     - **c)**
@@ -1024,7 +1021,7 @@ art. 32 otrzymuje brzmienie:
 
 - **1)** ust. 1 otrzymuje brzmienie: „
 
-1. Pełnomocnikiem strony w postępowaniu przed Urzędem Patentowym w sprawach związanych z dokonywaniem i rozpatrywaniem zgłoszeń oraz utrzymywaniem ochrony wynalazków, produktów leczniczych oraz produktów ochrony roślin, wzorów użytkowych, wzorów przemysłowych, oznaczeń geograficznych i topografii układów scalonych może być rzecznik patentowy lub osoba świadcząca usługi transgraniczne w rozumieniu ustawy z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. 2011 r. Nr 155, poz. 925, z późn. zm.), zwanej dalej „ustawą o rzecznikach patentowych”. ” ;
+1. Pełnomocnikiem strony w postępowaniu przed Urzędem Patentowym w sprawach związanych z dokonywaniem i rozpatrywaniem zgłoszeń oraz utrzymywaniem ochrony wynalazków, produktów leczniczych oraz produktów ochrony roślin, wzorów użytkowych, wzorów przemysłowych, oznaczeń geograficznych i topografii układów scalonych może być rzecznik patentowy lub osoba świadcząca usługi transgraniczne w rozumieniu ustawy z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. 2011 r. Nr 155, poz. 925, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1650, z 2014 r. poz. 993 i 1004 oraz z 2015 r. poz. 694, 1224, 1311 i 1505.), zwanej dalej „ustawą o rzecznikach patentowych”. ” ;
 
 - **2)** po ust. 1 dodaje się ust. 11 w brzmieniu: „
 
@@ -1034,7 +1031,7 @@ art. 32 otrzymuje brzmienie:
 
 3. Osoby niemające miejsca zamieszkania lub siedziby na obszarze Rzeczypospolitej Polskiej w sprawach, o których mowa w ust. 1 i 11, mogą działać za pośrednictwem odpowiednio rzecznika patentowego, adwokata lub radcy prawnego. Obowiązek ten nie dotyczy osób mających miejsce zamieszkania lub siedzibę na obszarze Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej. ” .
 
-**Art. 9.** W ustawie z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2014 r. poz. 197, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 9.** W ustawie z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2014 r. poz. 197, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 478, 1223 i 1260.) wprowadza się następujące zmiany:
 
 - **1)** art. 1 otrzymuje brzmienie: „ Ustawa reguluje funkcjonowanie giełd towarowych i obrót towarami giełdowymi, w tym również zasady tworzenia, ustrój organizacyjny i działalność giełd towarowych, giełdowych izb rozrachunkowych, działalność towarowych domów maklerskich oraz nadzór nad tymi instytucjami. ” ;
 - **2)** w art. 2 pkt 13 otrzymuje brzmienie: „
@@ -1074,7 +1071,7 @@ art. 32 otrzymuje brzmienie:
 - **9)** uchyla się rozdział 6;
 - **10)** w art. 38b ust. 6 otrzymuje brzmienie: „
 
-6. Do umowy o prowadzenie rachunku pieniężnego, o którym mowa w ust. 2, stosuje się odpowiednio przepisy art. 725, art. 727, art. 728 § 3 oraz art. 729–733 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.), z zastrzeżeniem art. 38g ust. 5 i 6. ” ;
+6. Do umowy o prowadzenie rachunku pieniężnego, o którym mowa w ust. 2, stosuje się odpowiednio przepisy art. 725, art. 727, art. 728 § 3 oraz art. 729–733 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4, 397, 539, 1137, 1311, 1357 i 1433.), z zastrzeżeniem art. 38g ust. 5 i 6. ” ;
 
 - **11)** po art. 38f dodaje się art. 38g w brzmieniu: „
 
@@ -1097,9 +1094,14 @@ art. 32 otrzymuje brzmienie:
 - **12)** w art. 39: w ust. 1 pkt 9 otrzymuje brzmienie: „
     - **a)**
 
-- **9)** oświadczenia osób, które będą kierować działalnością maklerską, o niekaralności za przestępstwa lub wykroczenia określone w art. 41a ust. 1 pkt 4; ” , w ust. 2: – po pkt 3 dodaje się pkt 3a-3c w brzmieniu: „ 3a) regulamin nadzoru zgodności działalności z prawem; 3b) regulamin ochrony przepływu informacji stanowiących tajemnicę zawodową oraz procedury wewnętrzne zapobiegające wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł; 3c) regulamin zarządzania konfliktami interesów; ” , – pkt 4 otrzymuje brzmienie: „ 4) listę osób, które będą zatrudnione do wykonywania czynności, o których mowa w art. 38 ust. 2 i art. 38e, zawierającą imiona i nazwiska, daty i miejsca urodzenia, miejsca zamieszkania i numery PESEL tych osób, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość; ” , – dodaje się pkt 7 w brzmieniu: „ 7) regulacje wewnętrzne, o których mowa w art. 41a ust. 3. ” ;
+- **9)** oświadczenia osób, które będą kierować działalnością maklerską, o niekaralności za przestępstwa lub wykroczenia określone w art. 41a ust. 1 pkt 4; ” , w ust. 2: po pkt 3 dodaje się pkt 3a-3c w brzmieniu: „
     - **b)**
 
+- **3a)** regulamin nadzoru zgodności działalności z prawem;
+- **3b)** regulamin ochrony przepływu informacji stanowiących tajemnicę zawodową oraz procedury wewnętrzne zapobiegające wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł;
+- **3c)** regulamin zarządzania konfliktami interesów; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** listę osób, które będą zatrudnione do wykonywania czynności, o których mowa w art. 38 ust. 2 i art. 38e, zawierającą imiona i nazwiska, daty i miejsca urodzenia, miejsca zamieszkania i numery PESEL tych osób, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość; ” , dodaje się pkt 7 w brzmieniu: „
+- **7)** regulacje wewnętrzne, o których mowa w art. 41a ust. 3. ” ;
 - **13)** w art. 40 w ust. 3 pkt 2 otrzymuje brzmienie: „
 - **2)** wskazanie czynności, na wykonywanie których jest udzielone zezwolenie; ” ;
 - **14)** art. 41a otrzymuje brzmienie: „
@@ -1125,8 +1127,11 @@ art. 32 otrzymuje brzmienie:
 1. Podmioty, o których mowa w art. 9 ust. 3 pkt 4, mogą zawierać na giełdzie, we własnym imieniu, transakcje, których przedmiotem są towary giełdowe będące określonymi rodzajami energii lub paliwami gazowymi, limitami wielkości produkcji i emisji zanieczyszczeń, prawami majątkowymi, o których mowa w art. 2 pkt 2 lit. d i f, lub niebędącymi instrumentami finansowymi prawami majątkowymi, których cena zależy bezpośrednio lub pośrednio od ceny lub wartości danego rodzaju energii lub paliw gazowych, lub praw majątkowych, o których mowa w art. 2 pkt 2 lit. d i f, pod warunkiem:
 
 - **1)** zawarcia z towarowym domem maklerskim lub domem maklerskim, będącymi członkami giełdowej izby rozrachunkowej, umowy o rozliczanie transakcji albo
-- **2)** uzyskania zezwolenia Komisji na prowadzenie rachunków lub rejestrów tych towarów giełdowych. ” , w ust. 5: – pkt 2 otrzymuje brzmienie: „ 2) oświadczenia osób, które będą kierować działalnością maklerską w zakresie prowadzenia rachunków lub rejestrów towarów giełdowych, o nieuznaniu prawomocnym orzeczeniem za winne przestępstw lub wykroczeń określonych w art. 41a ust. 1 pkt 4; ” , – pkt 6 otrzymuje brzmienie: „ 6) listę osób reprezentujących podmiot w transakcjach giełdowych zawierającą imiona i nazwiska, daty i miejsca urodzenia, miejsca zamieszkania i numery PESEL tych osób, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość; ” , ust. 9 otrzymuje brzmienie: „
+- **2)** uzyskania zezwolenia Komisji na prowadzenie rachunków lub rejestrów tych towarów giełdowych. ” , w ust. 5: pkt 2 otrzymuje brzmienie: „
     - **b)**
+
+- **2)** oświadczenia osób, które będą kierować działalnością maklerską w zakresie prowadzenia rachunków lub rejestrów towarów giełdowych, o nieuznaniu prawomocnym orzeczeniem za winne przestępstw lub wykroczeń określonych w art. 41a ust. 1 pkt 4; ” , pkt 6 otrzymuje brzmienie: „
+- **6)** listę osób reprezentujących podmiot w transakcjach giełdowych zawierającą imiona i nazwiska, daty i miejsca urodzenia, miejsca zamieszkania i numery PESEL tych osób, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość; ” , ust. 9 otrzymuje brzmienie: „
     - **c)**
 
 9. W stosunku do podmiotów, o których mowa w art. 9 ust. 3 pkt 4, posiadających zezwolenie, o którym mowa w ust. 1 pkt 2, stosuje się odpowiednio przepisy art. 40 ust. 3 pkt 1, 2 i 4, art. 41a, art. 42, art. 44 i art. 46 pkt 1. ” ;
@@ -1138,7 +1143,7 @@ art. 32 otrzymuje brzmienie:
 1. Ogłoszenie upadłości, otwarcie postępowania restrukturyzacyjnego, wszczęcie postępowania egzekucyjnego lub zabezpieczającego lub wydanie innego orzeczenia lub decyzji o likwidacji, zawieszeniu lub ograniczeniu prowadzenia działalności:
 
 - **1)** członka giełdowej izby rozrachunkowej prowadzonej przez Krajowy Depozyt lub spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, lub
-- **2)** członka innej giełdowej izby rozrachunkowej skutkujących zawieszeniem lub ograniczeniem dokonywania przez niego spłaty zadłużenia albo ograniczających jego zdolność swobodnego rozporządzania mieniem, nie wywołuje skutków prawnych wobec środków znajdujących się na rachunku lub w rejestrze towarów giełdowych, rachunku pieniężnym lub rachunku bankowym tego członka, służącym do realizacji jego zobowiązań wynikających z rozliczeń transakcji w Krajowym Depozycie, spółce, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, albo giełdowej izbie rozrachunkowej, w zakresie, w jakim środki te są potrzebne do realizacji tych zobowiązań, chociażby postępowanie zostało wszczęte albo inne orzeczenie lub decyzja zostały wydane przed ich zrealizowaniem.
+- **2)** członka innej giełdowej izby rozrachunkowej – skutkujących zawieszeniem lub ograniczeniem dokonywania przez niego spłaty zadłużenia albo ograniczających jego zdolność swobodnego rozporządzania mieniem, nie wywołuje skutków prawnych wobec środków znajdujących się na rachunku lub w rejestrze towarów giełdowych, rachunku pieniężnym lub rachunku bankowym tego członka, służącym do realizacji jego zobowiązań wynikających z rozliczeń transakcji w Krajowym Depozycie, spółce, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, albo giełdowej izbie rozrachunkowej, w zakresie, w jakim środki te są potrzebne do realizacji tych zobowiązań, chociażby postępowanie zostało wszczęte albo inne orzeczenie lub decyzja zostały wydane przed ich zrealizowaniem.
 
 2. W celu doprowadzenia do wykonania zobowiązań określonych w ust. 1 Krajowy Depozyt, spółka, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, lub giełdowa izba rozrachunkowa są uprawnione do dysponowania środkami członka izby, o których mowa w ust. 1.
 
@@ -1181,7 +1186,7 @@ art. 32 otrzymuje brzmienie:
 - **2)** typy uprawnień inspektora ochrony radiologicznej oraz rodzaje działalności, do których nadzorowania uprawniają, i szczegółowe warunki nadawania tych uprawnień,
 - **3)** tryb nadawania przez Prezesa Agencji uprawnień inspektora ochrony radiologicznej oraz uprawnień dla osób, które mogą być zatrudnione na stanowisku określonym w art. 12 ust. 1,
 - **4)** tryb pracy komisji egzaminacyjnej i składów egzaminacyjnych komisji egzaminacyjnej, sposób i tryb przygotowania i przeprowadzania egzaminów, sposób wnoszenia opłaty za egzamin, jej wysokość oraz wysokość wynagrodzenia członków komisji egzaminacyjnej,
-- **5)** wymagane zakresy szkoleń i formy organizowania szkoleń, warunki, jakie muszą spełniać jednostki przeprowadzające szkolenie, a także tryb uzyskiwania wpisu do rejestru, o którym mowa w art. 7 ust. 11, oraz do rejestru, o którym mowa w art. 12a ust. 3 w celu zapewnienia przestrzegania wymagań bezpieczeństwa jądrowego i ochrony radiologicznej w jednostce organizacyjnej, a także zapewnienia wysokiego poziomu wiedzy i umiejętności osób, które nabędą uprawnienia, wysokiego poziomu prowadzonych szkoleń oraz przeprowadzenia egzaminu w sposób pozwalający na efektywną weryfikację wiedzy i umiejętności osób ubiegających się o nadanie uprawnień, a także mając na względzie, iż wysokość opłaty za egzamin nie może przekraczać 15% kwoty przeciętnego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym złożenie wniosku o dopuszczenie do egzaminu, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. ” ;
+- **5)** wymagane zakresy szkoleń i formy organizowania szkoleń, warunki, jakie muszą spełniać jednostki przeprowadzające szkolenie, a także tryb uzyskiwania wpisu do rejestru, o którym mowa w art. 7 ust. 11, oraz do rejestru, o którym mowa w art. 12a ust. 3 – w celu zapewnienia przestrzegania wymagań bezpieczeństwa jądrowego i ochrony radiologicznej w jednostce organizacyjnej, a także zapewnienia wysokiego poziomu wiedzy i umiejętności osób, które nabędą uprawnienia, wysokiego poziomu prowadzonych szkoleń oraz przeprowadzenia egzaminu w sposób pozwalający na efektywną weryfikację wiedzy i umiejętności osób ubiegających się o nadanie uprawnień, a także mając na względzie, iż wysokość opłaty za egzamin nie może przekraczać 15% kwoty przeciętnego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym złożenie wniosku o dopuszczenie do egzaminu, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. ” ;
 - **3)** w art. 12f pkt 3 otrzymuje brzmienie: „
 - **3)** stwierdzenia wykonywania obowiązków na stanowisku mającym istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej albo czynności objętych uprawnieniem w sposób zagrażający bezpieczeństwu jądrowemu lub ochronie radiologicznej. ” . W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678) wprowadza się następujące zmiany:
 - **1)** w art. 2 pkt 5 otrzymuje brzmienie: „
@@ -1254,7 +1259,7 @@ art. 32 otrzymuje brzmienie:
     - **a)**
     - **b)**
 
-- **4)** pobierać próbki lub ustalać klasy jakości handlowej określonych artykułów rolno-spożywczych mogą również osoby, wobec których decyzja o uznaniu kwalifikacji, wydana na podstawie przepisów o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, stała się ostateczna wpisane do rejestru rzeczoznawców, zwane dalej „rzeczoznawcami”.
+- **4)** pobierać próbki lub ustalać klasy jakości handlowej określonych artykułów rolno-spożywczych mogą również osoby, wobec których decyzja o uznaniu kwalifikacji, wydana na podstawie przepisów o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, stała się ostateczna – wpisane do rejestru rzeczoznawców, zwane dalej „rzeczoznawcami”.
 
 2a. Egzamin, o którym mowa w ust. 2 pkt 2, jest zdawany co 3 lata. ” , po ust. 2a dodaje się ust. 2b-2f w brzmieniu: „
 
@@ -1267,7 +1272,7 @@ art. 32 otrzymuje brzmienie:
 
 2c. O wydaniu upoważnienia do prowadzenia szkoleń w zakresie, o którym mowa w ust. 2 pkt 3, rozstrzyga Główny Inspektor, w drodze decyzji, na wniosek podmiotu ubiegającego się o to upoważnienie.
 
-2d. Wniosek o wydanie upoważnienia do prowadzenia szkoleń, poza elementami podania określonymi w art. 63 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.), zawiera:
+2d. Wniosek o wydanie upoważnienia do prowadzenia szkoleń, poza elementami podania określonymi w art. 63 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 183 i 1195 oraz z 2015 r. poz. 211, 702 i 1274.), zawiera:
 
 - **1)** program szkolenia;
 - **2)** imiona i nazwiska osób mających prowadzić szkolenia oraz wskazanie posiadanych przez nie kwalifikacji do prowadzenia takich szkoleń.
@@ -1282,7 +1287,7 @@ art. 32 otrzymuje brzmienie:
 
 1. Udział w egzaminach, o których mowa w art. 35 ust. 2 pkt 1 i 2, oraz w szkoleniu, o którym mowa w art. 35 ust. 2 pkt 3 lit. a, podlega opłacie, która wynosi w przypadku:
 
-- **1)** egzaminów – 5% przeciętnego wynagrodzenia w gospodarce narodowej ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2015 r. poz. 748, z późn. zm.), zwanego dalej „przeciętnym wynagrodzeniem”, za rok poprzedzający rok przeprowadzenia egzaminu;
+- **1)** egzaminów – 5% przeciętnego wynagrodzenia w gospodarce narodowej ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2015 r. poz. 748, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1302 i 1311.), zwanego dalej „przeciętnym wynagrodzeniem”, za rok poprzedzający rok przeprowadzenia egzaminu;
 - **2)** szkolenia – 1% przeciętnego wynagrodzenia za rok poprzedzający rok przeprowadzenia szkolenia – za godzinę szkolenia.
 
 2. Opłaty, o których mowa w ust. 1, stanowią dochód budżetu państwa i są wpłacane na rachunek:
@@ -1293,7 +1298,7 @@ art. 32 otrzymuje brzmienie:
 3. W przypadku gdy szkolenie, o którym mowa w art. 35 ust. 2 pkt 3 lit. a, przeprowadza podmiot upoważniony przez Głównego Inspektora, opłaty za udział w szkoleniu, o których mowa w ust. 1, stanowią przychód tego podmiotu. Za przeprowadzenie egzaminów, o których mowa w art. 35 ust. 2 pkt 1 i 2:
 
 - **1)** przewodniczący komisji kwalifikacyjnej otrzymuje wynagrodzenie w wysokości 1% przeciętnego wynagrodzenia za rok poprzedzający rok przeprowadzenia egzaminu,
-- **2)** członkowie komisji kwalifikacyjnej otrzymują wynagrodzenie w wysokości 0,5% przeciętnego wynagrodzenia za rok poprzedzający rok przeprowadzenia egzaminu od jednej osoby egzaminowanej. ” ;
+- **2)** członkowie komisji kwalifikacyjnej otrzymują wynagrodzenie w wysokości 0,5% przeciętnego wynagrodzenia za rok poprzedzający rok przeprowadzenia egzaminu – od jednej osoby egzaminowanej. ” ;
 - **11)** art. 37 otrzymuje brzmienie: „
 
 **Art. 37.**
@@ -1314,7 +1319,7 @@ art. 32 otrzymuje brzmienie:
 - **12)** art. 38 otrzymuje brzmienie: „ Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia:
 - **1)** sposób przeprowadzania egzaminów, o których mowa w art. 22 ust. 2 pkt 2 oraz art. 35 ust. 2 pkt 1 i 2, oraz sposób powoływania i skład komisji kwalifikacyjnej,
 - **2)** szczegółowy tryb ubiegania się o udzielenie upoważnienia oraz szczegółowe wymagania do uzyskania przez podmiot upoważnienia do prowadzenia szkoleń w zakresie, o którym mowa w art. 35 ust. 2 pkt 3 lit. a,
-- **3)** wzory zaświadczeń o wpisie do rejestru rzeczoznawców, pieczęci imiennej wydawanej rzeczoznawcom i protokołów z przeprowadzonych przez rzeczoznawcę czynności mając na względzie zapewnienie rzetelnej i obiektywnej kontroli artykułów rolno-spożywczych. ” ;
+- **3)** wzory zaświadczeń o wpisie do rejestru rzeczoznawców, pieczęci imiennej wydawanej rzeczoznawcom i protokołów z przeprowadzonych przez rzeczoznawcę czynności – mając na względzie zapewnienie rzetelnej i obiektywnej kontroli artykułów rolno-spożywczych. ” ;
 - **13)** w art. 39 ust. 1 otrzymuje brzmienie: „
 
 1. Przedsiębiorcy, u których organy Inspekcji przeprowadziły kontrolę, w tym kontrolę graniczną lub kontrolę przeprowadzaną na podstawie przepisów odrębnych, są obowiązani wnieść opłaty za czynności przeprowadzone w ramach kontroli, jeżeli w wyniku tej kontroli stwierdzono, że artykuły rolno-spożywcze nie odpowiadają wymaganiom w zakresie jakości handlowej wynikającym z przepisów o jakości handlowej lub wymaganiom dodatkowym zadeklarowanym przez producenta. ” ;
@@ -1358,7 +1363,7 @@ art. 32 otrzymuje brzmienie:
 
 7. Kary pieniężne stanowią dochód budżetu państwa i są wpłacane na rachunek bankowy odpowiednio Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych, wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych albo wojewódzkiego inspektoratu Inspekcji Handlowej. ” .
 
-**Art. 12.** W ustawie z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. z 2011 r. Nr 155, poz. 925, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 12.** W ustawie z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. z 2011 r. Nr 155, poz. 925, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1650, z 2014 r. poz. 993 i 1004 oraz z 2015 r. poz. 694, 1224 i 1311.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w ust. 1 w pkt 3 lit. b otrzymuje brzmienie: „ obywateli państw trzecich, jeżeli przysługuje im prawo podjęcia zatrudnienia lub samozatrudnienia na terytorium Rzeczypospolitej Polskiej, ” ;
     - **b)**
@@ -1393,7 +1398,7 @@ art. 32 otrzymuje brzmienie:
 
 4b. Od wniosku o wpis na listę rzeczników patentowych albo o zmianę wpisu pobiera się opłatę, która stanowi dochód budżetu państwa.
 
-4c. Wysokość opłaty od wniosku o wpis na listę rzeczników patentowych nie może przekroczyć 3% kwoty przeciętnego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym rok, w którym złożono wniosek o wpis, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2015 r. poz. 748, z późn. zm.), zwanego dalej „przeciętnym wynagrodzeniem”, oraz 1,5% kwoty przeciętnego wynagrodzenia od wniosku o zmianę wpisu. ” ;
+4c. Wysokość opłaty od wniosku o wpis na listę rzeczników patentowych nie może przekroczyć 3% kwoty przeciętnego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym rok, w którym złożono wniosek o wpis, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2015 r. poz. 748, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1302 i 1311.), zwanego dalej „przeciętnym wynagrodzeniem”, oraz 1,5% kwoty przeciętnego wynagrodzenia od wniosku o zmianę wpisu. ” ;
 
 - **3)** w art. 19d dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 

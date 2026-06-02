@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-27 |
 | Data wydania | 2024-02-29 |
-| Wejście w życie | 2024-03-01 |
 | Ostatnia zmiana | 2025-08-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000279) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/279/text.pdf) |
 

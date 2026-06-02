@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 6 września 2018 r. zmieniające rozporządzenie w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości
+# Rozporządzenie Ministra Finansówz dnia 6 września 2018 r. zmieniające rozporządzenie w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-06 |
 | Data wydania | 2018-09-12 |
-| Wejście w życie | 2018-09-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001765) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1765/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Finansów z dnia 28 listopada 2001 r. w sprawie zakre
 1)
 w § 3:
 a)
-ust. 3 i 4 otrzymują brzmienie:
-„
+ust. 3 i 4 otrzymują brzmienie: „
 3.
 W skład Komitetu wchodzi 18 członków powołanych przez ministra właściwego do spraw finansów publicznych:
 1)
@@ -52,52 +50,39 @@ przedstawiciel Prezesa Narodowego Banku Polskiego;
 7)
 3 przedstawicieli Polskiej Izby Biegłych Rewidentów, będących biegłymi rewidentami wykonującymi zawód.
 4.
-Kandydaci na członków Komitetu są zgłaszani przez podmioty wskazane w ust. 3, nie później niż 60 dni przed upływem kadencji Komitetu.
-” ,
+Kandydaci na członków Komitetu są zgłaszani przez podmioty wskazane w ust. 3, nie później niż 60 dni przed upływem kadencji Komitetu. ” ,
 b)
 uchyla się ust. 5,
 c)
-ust. 6 otrzymuje brzmienie:
-„
+ust. 6 otrzymuje brzmienie: „
 6.
-Minister właściwy do spraw finansów publicznych określa wysokość wynagrodzenia członków Komitetu oraz sekretarza Komitetu za udział w posiedzeniach, które nie może przekroczyć 1,5-krotności minimalnego wynagrodzenia pracowników za pracę, obowiązującego w dniu powołania Komitetu.
-” ;
+Minister właściwy do spraw finansów publicznych określa wysokość wynagrodzenia członków Komitetu oraz sekretarza Komitetu za udział w posiedzeniach, które nie może przekroczyć 1,5-krotności minimalnego wynagrodzenia pracowników za pracę, obowiązującego w dniu powołania Komitetu. ” ;
 2)
 w § 4:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Kadencja Komitetu trwa 3 lata.
-” ,
+Kadencja Komitetu trwa 3 lata. ” ,
 b)
-w ust. 2 pkt 3 i 4 otrzymują brzmienie:
-„
+w ust. 2 pkt 3 i 4 otrzymują brzmienie: „
 3)
 rozwiązania stosunku pracy – w przypadku członków, o których mowa w § 3 ust. 3 pkt 1, powołanych w skład Komitetu jako pracownicy Ministerstwa Finansów;
 4)
-zaprzestania wykonywania zawodu biegłego rewidenta – w przypadku członków Komitetu, o których mowa w § 3 ust. 3 pkt 7.
-” ,
+zaprzestania wykonywania zawodu biegłego rewidenta – w przypadku członków Komitetu, o których mowa w § 3 ust. 3 pkt 7. ” ,
 c)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-W przypadkach, o których mowa w ust. 2 i 2a, minister właściwy do spraw finansów publicznych powołuje na nowego członka Komitetu kandydata zgłoszonego przez właściwy podmiot wskazany w § 3 ust. 3. Kandydat na nowego członka Komitetu jest zgłaszany w terminie 30 dni od dnia odwołania członka Komitetu albo wygaśnięcia członkostwa w Komitecie.
-” ;
+W przypadkach, o których mowa w ust. 2 i 2a, minister właściwy do spraw finansów publicznych powołuje na nowego członka Komitetu kandydata zgłoszonego przez właściwy podmiot wskazany w § 3 ust. 3. Kandydat na nowego członka Komitetu jest zgłaszany w terminie 30 dni od dnia odwołania członka Komitetu albo wygaśnięcia członkostwa w Komitecie. ” ;
 3)
 w § 5:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Przewodniczącego Komitetu, zwanego dalej „Przewodniczącym”, i zastępcę Przewodniczącego wyznacza minister właściwy do spraw finansów publicznych spośród członków, o których mowa w § 3 ust. 3 pkt 1.
-” ,
+Przewodniczącego Komitetu, zwanego dalej „Przewodniczącym”, i zastępcę Przewodniczącego wyznacza minister właściwy do spraw finansów publicznych spośród członków, o których mowa w § 3 ust. 3 pkt 1. ” ,
 b)
-po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
-Zastępca Przewodniczącego wykonuje zadania, o których mowa w ust. 2, w czasie nieobecności Przewodniczącego.
-” .
+Zastępca Przewodniczącego wykonuje zadania, o których mowa w ust. 2, w czasie nieobecności Przewodniczącego. ” .
 § 2.
 1.
 Do czasu powołania Komitetu Standardów Rachunkowości, zwanego dalej „Komitetem”, na podstawie przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, działa Komitet oraz sekretarz Komitetu, powołani na podstawie przepisów dotychczasowych.
@@ -111,6 +96,5 @@ Minister właściwy do spraw finansów publicznych powołuje Komitet oraz sekret
 2.
 Zgłoszenia kandydatów na członków Komitetu, o których mowa w § 3 ust. 3 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, dokonuje się w terminie 30 dni od dnia wejścia w życie niniejszego rozporządzenia.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 

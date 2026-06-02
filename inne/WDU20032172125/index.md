@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-11-14 |
 | Data wydania | 2003-12-18 |
-| Wejście w życie | 2004-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032172125) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2125/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. Nr 101, poz. 1178, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. Nr 101, poz. 1178, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 86, poz. 958 i Nr 114, poz. 1193, z 2001 r. Nr 49, poz. 509, Nr 67, poz. 679, Nr 102, poz. 1115 i Nr 147, poz. 1643, z 2002 r. Nr 1, poz. 2, Nr 115, poz. 995 i Nr 130, poz. 1112 oraz z 2003 r. Nr 86, poz. 789 i Nr 128, poz. 1176.) wprowadza się następujące zmiany:
 
 - **1)** art. 7 otrzymuje brzmienie: „
 
@@ -90,7 +89,7 @@ source: "eli-html"
 - **2)** numer w rejestrze przedsiębiorców lub ewidencji działalności gospodarczej, ” ;
 - **5)** uchyla się art. 88a-88e.
 
-**Art. 2.** W ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. Nr 88, poz. 439, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. Nr 88, poz. 439, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 769, z 1998 r. Nr 99, poz. 632 i Nr 106, poz. 668 oraz z 2001 r. Nr 100, poz. 1080.) wprowadza się następujące zmiany:
 
 - **1)** w art. 42: ust. 4 otrzymuje brzmienie: „
     - **a)**
@@ -105,7 +104,7 @@ source: "eli-html"
 
 1. Urzędy statystyczne wydają wpisanym do rejestru podmiotów osobom prawnym, jednostkom organizacyjnym niemającym osobowości prawnej oraz osobom fizycznym prowadzącym działalność gospodarczą zaświadczenia o nadanym im i ich jednostkom lokalnym numerze identyfikacyjnym wraz z zakodowanymi cechami i opisem tych cech niezwłocznie, nie później niż w ciągu 7 dni od daty otrzymania wniosku. ” .
 
-**Art. 3.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. Nr 142, poz. 702, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. Nr 142, poz. 702, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 88, poz. 554, z 1998 r. Nr 162, poz. 1118, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 116, poz. 1216 i Nr 119, poz. 1249, z 2001 r. Nr 110, poz. 1189, z 2002 r. Nr 74, poz. 676 i Nr 126, poz. 1067 oraz z 2003 r. Nr 130, poz. 1188 i Nr 137, poz. 1302.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 ust. 4b otrzymuje brzmienie: „
 
@@ -146,7 +145,7 @@ source: "eli-html"
 
 **Art. 9a.** W stosunku do podmiotów wpisanych do dotychczasowych rejestrów, które nie zostały wpisane do Krajowego Rejestru Sądowego, stosowanie trybu określonego w art. 24 ustawy, o której mowa w art. 1, nie jest obowiązkowe, jeżeli faktycznie zaprzestały działalności. ” ;
 
-- **8)** w art. 11 uchyla się ust. 2. W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2001 r. Nr 17, poz. 209, z późn. zm.) wprowadza się następujące zmiany:
+- **8)** w art. 11 uchyla się ust. 2. W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2001 r. Nr 17, poz. 209, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 110, poz. 1189, z 2002 r. Nr 1, poz. 2 i Nr 113, poz. 984 oraz z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535 i Nr 96, poz. 874.) wprowadza się następujące zmiany:
 - **1)** w art. 2 w ust. 2 pkt 2 otrzymuje brzmienie: „
 - **2)** urzędowych formularzy wniosków wymaganych ustawą umożliwiających rejestrację spółek jawnych, ” ;
 - **2)** w art. 13 uchyla się ust. 2;
@@ -166,8 +165,10 @@ source: "eli-html"
 **Art. 20a.** Wniosek o wpis sąd rejestrowy rozpoznaje nie później niż w terminie 14 dni od daty jego złożenia. Jeżeli rozpoznanie wniosku wymaga wezwania do usunięcia przeszkody do dokonania wpisu, wniosek powinien być rozpoznany w ciągu 7 dni od usunięcia przeszkody przez wnioskodawcę, co nie uchybia terminom określonym w przepisach szczególnych. Jeżeli rozpoznanie wniosku wymaga wysłuchania uczestników postępowania albo przeprowadzenia rozprawy, należy rozpoznać go nie później niż w ciągu miesiąca. ” ;
 
 - **6)** w art. 36 uchyla się pkt 1;
-- **7)** w art. 38: w pkt 1: – lit. a otrzymuje brzmienie: „ a) nazwę lub firmę, pod którą działa, ” , – lit. c otrzymuje brzmienie: „ c) jego siedzibę i adres, ” , uchyla się pkt 2.
+- **7)** w art. 38: w pkt 1: lit. a otrzymuje brzmienie: „ nazwę lub firmę, pod którą działa, ” , lit. c otrzymuje brzmienie: „ jego siedzibę i adres, ” , uchyla się pkt 2.
     - **a)**
+    - **a)**
+    - **c)**
     - **b)**
 
 **Art. 6.** W ustawie z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, poz. 1450, z 2002 r. Nr 153, poz. 1271 oraz z 2003 r. Nr 124, poz. 1152) wprowadza się następujące zmiany:
@@ -185,5 +186,5 @@ source: "eli-html"
 
 2. Z dniem wszczęcia postępowania naprawczego przedsiębiorca wpisany do Krajowego Rejestru Sądowego składa wniosek o wpis informacji o wszczęciu postępowania naprawczego. ” .
 
-**Art. 8.** Przedsiębiorcy wpisani do ewidencji działalności gospodarczej uzupełnią, w terminie 12 miesięcy od dnia wejścia w życie ustawy, pod rygorem odmowy wydania zaświadczenia o wpisie przez organ ewidencyjny, brakujące dane, o których mowa w art. 7b ust. 2 ustawy, o której mowa w art. 1. Ustawa wchodzi w życie z dniem 1 stycznia 2004 r.
+**Art. 8.** Przedsiębiorcy wpisani do ewidencji działalności gospodarczej uzupełnią, w terminie 12 miesięcy od dnia wejścia w życie ustawy, pod rygorem odmowy wydania zaświadczenia o wpisie przez organ ewidencyjny, brakujące dane, o których mowa w art. 7b ust. 2 ustawy, o której mowa w art. 1. Ustawa wchodzi w życie z dniem 1 stycznia 2004 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 86, poz. 958 i Nr 114, poz. 1193, z 2001 r. Nr 49, poz. 509, Nr 67, poz. 679, Nr 102, poz. 1115 i Nr 147, poz. 1643, z 2002 r. Nr 1, poz. 2, Nr 115, poz. 995 i Nr 130, poz. 1112 oraz z 2003 r. Nr 86, poz. 789 i Nr 128, poz. 1176. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 769, z 1998 r. Nr 99, poz. 632 i Nr 106, poz. 668 oraz z 2001 r. Nr 100, poz. 1080. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 88, poz. 554, z 1998 r. Nr 162, poz. 1118, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 116, poz. 1216 i Nr 119, poz. 1249, z 2001 r. Nr 110, poz. 1189, z 2002 r. Nr 74, poz. 676 i Nr 126, poz. 1067 oraz z 2003 r. Nr 130, poz. 1188 i Nr 137, poz. 1302. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 110, poz. 1189, z 2002 r. Nr 1, poz. 2 i Nr 113, poz. 984 oraz z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535 i Nr 96, poz. 874.
 

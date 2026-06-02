@@ -22,14 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-08-29 |
 | Data wydania | 2003-09-30 |
-| Wejście w życie | 2003-10-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031701652) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1652/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. Nr 166, poz. 1360 oraz z 2003 r. Nr 80, poz. 718 i Nr 130, poz. 1188) wprowadza się następujące zmiany:
 
-- **1)** w art. 1: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) zasady funkcjonowania systemu oceny zgodności z zasadniczymi i szczegółowymi wymaganiami dotyczącymi wyrobów; ” , – pkt 5 otrzymuje brzmienie: „ 5) zasady działania systemu kontroli wyrobów wprowadzonych do obrotu. ” , dodaje się ust. 3 w brzmieniu: „
+- **1)** w art. 1: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** zasady funkcjonowania systemu oceny zgodności z zasadniczymi i szczegółowymi wymaganiami dotyczącymi wyrobów; ” , pkt 5 otrzymuje brzmienie: „
+- **5)** zasady działania systemu kontroli wyrobów wprowadzonych do obrotu. ” , dodaje się ust. 3 w brzmieniu: „
     - **b)**
 
 3. Zasady dopuszczania do obrotu i stosowania w budownictwie wyrobów budowlanych określają odrębne przepisy. ” ;
@@ -151,7 +153,7 @@ source: "eli-html"
 - **2)** badaniami na potrzeby oceny zgodności wyrobów,
 - **3)** certyfikacją,
 - **4)** sprawdzaniem zgodności wyrobów z wymaganiami, dokonywane przez notyfikowane jednostki kontrolujące,
-- **5)** akredytacją jednostek certyfikujących, jednostek kontrolujących i laboratoriów pobiera się opłaty. ” ;
+- **5)** akredytacją jednostek certyfikujących, jednostek kontrolujących i laboratoriów – pobiera się opłaty. ” ;
 - **18)** tytuł rozdziału 6 otrzymuje brzmienie: „ System kontroli wyrobów wprowadzonych do obrotu ” ;
 - **19)** art. 38 i 39 otrzymują brzmienie: „
 
@@ -232,7 +234,7 @@ source: "eli-html"
 3. Rada Ministrów określi, w drodze rozporządzenia:
 
 - **1)** sposób przepływu informacji pomiędzy Prezesem UOKiK, organami wyspecjalizowanymi oraz organami celnymi,
-- **2)** wzory formularzy stosowanych przy gromadzeniu informacji dotyczących funkcjonowania systemu mając na względzie potrzebę monitorowania systemu. ” ;
+- **2)** wzory formularzy stosowanych przy gromadzeniu informacji dotyczących funkcjonowania systemu – mając na względzie potrzebę monitorowania systemu. ” ;
 - **21)** art. 40 otrzymuje brzmienie: „
 
 **Art. 40.**
@@ -411,7 +413,7 @@ source: "eli-html"
 
 - **1)** postępowania organów celnych przy zatrzymywaniu wyrobów;
 - **2)** postępowania organów wyspecjalizowanych w zakresie wydawania opinii na wniosek organów celnych o spełnianiu przez zatrzymany wyrób zasadniczych wymagań;
-- **3)** informowania przez organy celne Prezesa UOKiK o działaniach podejmowanych w odniesieniu do wyrobów niezgodnych z zasadniczymi wymaganiami oraz zakres przekazywanych informacji mając na uwadze w szczególności konieczność niezwłocznego przekazywania przez organy wyspecjalizowane opinii o wyrobie organom celnym oraz realizacji zadań wykonywanych przez Prezesa UOKiK w zakresie prowadzenia rejestru.
+- **3)** informowania przez organy celne Prezesa UOKiK o działaniach podejmowanych w odniesieniu do wyrobów niezgodnych z zasadniczymi wymaganiami oraz zakres przekazywanych informacji – mając na uwadze w szczególności konieczność niezwłocznego przekazywania przez organy wyspecjalizowane opinii o wyrobie organom celnym oraz realizacji zadań wykonywanych przez Prezesa UOKiK w zakresie prowadzenia rejestru.
 
 **Art. 44.** Prezes UOKiK niezwłocznie informuje Komisję Europejską o decyzjach, o których mowa w art. 41c ust. 3 pkt 1–3 oraz ust. 5.
 
@@ -447,7 +449,7 @@ source: "eli-html"
 
 **Art. 6.** W ustawie z dnia 15 grudnia 2000 r. o ochronie konkurencji i konsumentów (Dz. U. z 2003 r. Nr 86, poz. 804) w art. 26 pkt 14a otrzymuje brzmienie: „
 
-- **14a)** monitorowanie systemu kontroli wyrobów wprowadzonych do obrotu w zakresie ich zgodności z zasadniczymi wymaganiami, zgodnie z ustawą z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. Nr 166, poz. 1360 oraz z 2003 r. Nr 80, poz. 718, Nr 130, poz. 1188 i Nr 170, poz. 1652), ” . W ustawie z dnia 21 lipca 2000 r. – Prawo telekomunikacyjne (Dz. U. Nr 73, poz. 852, z późn. zm.) wprowadza się następujące zmiany:
+- **14a)** monitorowanie systemu kontroli wyrobów wprowadzonych do obrotu w zakresie ich zgodności z zasadniczymi wymaganiami, zgodnie z ustawą z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. Nr 166, poz. 1360 oraz z 2003 r. Nr 80, poz. 718, Nr 130, poz. 1188 i Nr 170, poz. 1652), ” . W ustawie z dnia 21 lipca 2000 r. – Prawo telekomunikacyjne (Dz. U. Nr 73, poz. 852, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 122, poz. 1321 i Nr 154, poz. 1800 i 1802, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676 i Nr 166, poz. 1360 oraz z 2003 r. Nr 50, poz. 424, Nr 113, poz. 1070 i Nr 130, poz. 1188.) wprowadza się następujące zmiany:
 - **1)** w art. 1 w ust. 2 pkt 2 i 3 otrzymują brzmienie: „
 - **2)** wymagania, jakim musi odpowiadać aparatura w zakresie kompatybilności elektromagnetycznej,
 - **3)** zasady kontroli wprowadzonej do obrotu aparatury, w tym urządzeń telekomunikacyjnych. ” ;
@@ -459,7 +461,7 @@ source: "eli-html"
 - **2)** zabezpieczenia przed nieuprawnionym używaniem urządzeń,
 - **3)** umożliwienia dostępu do urządzeń lub sieci służbom ustawowo powołanym do niesienia pomocy,
 - **4)** przystosowania do używania przez osoby niepełnosprawne,
-- **5)** zdolności do współpracy z innymi urządzeniami telekomunikacyjnymi używanymi w sieci telekomunikacyjnej lub do niej dołączonymi, w szczególności niepowodowania uszkodzeń sieci telekomunikacyjnej lub zakłócania jej funkcjonowania które, niezależnie od wymagań wymienionych w ust. 1, powinny być spełniane przez urządzenia, oraz określić termin, do którego mogą być używane urządzenia niespełniające wymagań ustalonych w rozporządzeniu, wprowadzone do obrotu przed dniem wejścia w życie rozporządzenia, mając na uwadze prawidłowość funkcjonowania sieci telekomunikacyjnych. ” ;
+- **5)** zdolności do współpracy z innymi urządzeniami telekomunikacyjnymi używanymi w sieci telekomunikacyjnej lub do niej dołączonymi, w szczególności niepowodowania uszkodzeń sieci telekomunikacyjnej lub zakłócania jej funkcjonowania – które, niezależnie od wymagań wymienionych w ust. 1, powinny być spełniane przez urządzenia, oraz określić termin, do którego mogą być używane urządzenia niespełniające wymagań ustalonych w rozporządzeniu, wprowadzone do obrotu przed dniem wejścia w życie rozporządzenia, mając na uwadze prawidłowość funkcjonowania sieci telekomunikacyjnych. ” ;
 - **3)** w art. 90 ust. 1 otrzymuje brzmienie: „
 
 1. Podmiot wprowadzający do obrotu urządzenie telekomunikacyjne jest obowiązany udzielić Prezesowi URTiP, na jego żądanie, wyjaśnień dotyczących przeznaczenia urządzenia telekomunikacyjnego oraz jego właściwości technicznych i eksploatacyjnych, a także wskazać zakres zastosowania, z zastrzeżeniem ust. 1a. ” ;
@@ -484,7 +486,7 @@ source: "eli-html"
 
 - **1)** czasowe wstrzymanie używania aparatury wywołującej zakłócenia,
 - **2)** zmianę sposobu używania aparatury,
-- **3)** zastosowanie środków technicznych prowadzących do eliminacji zakłócenia, na koszt podmiotu, któremu wydano decyzję a także postanowić o czasowym zajęciu aparatury, w celu przeprowadzenia badań niezbędnych do ustalenia przyczyn zakłóceń. Decyzja podlega natychmiastowemu wykonaniu. ” ;
+- **3)** zastosowanie środków technicznych prowadzących do eliminacji zakłócenia, na koszt podmiotu, któremu wydano decyzję – a także postanowić o czasowym zajęciu aparatury, w celu przeprowadzenia badań niezbędnych do ustalenia przyczyn zakłóceń. Decyzja podlega natychmiastowemu wykonaniu. ” ;
 - **8)** w art. 124 w ust. 1 pkt 14a, 15, 16 i 16a otrzymują brzmienie: „
 - **14a)** wprowadza do obrotu urządzenia telekomunikacyjne bez przekazania Prezesowi URTiP informacji w trybie i zakresie, o którym mowa w art. 90 ust. 1,
 - **15)** wprowadza do obrotu urządzenia telekomunikacyjne podlegające obowiązkowej ocenie zgodności z zasadniczymi wymaganiami, nieposiadające wymaganego dokumentu lub znaku potwierdzającego spełnianie zasadniczych wymagań albo oznakowane w sposób niewłaściwy lub fałszywie,
@@ -510,5 +512,5 @@ source: "eli-html"
     - **d)**
     - **e)**
 
-**Art. 11.** Przepisy wykonawcze wydane przed dniem wejścia w życie niniejszej ustawy na podstawie upoważnień zmienionych tą ustawą zachowują moc do czasu wejścia w życie przepisów wykonawczych na podstawie upoważnień w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 grudnia 2005 r. Przepis art. 2a ustawy wymienionej w art. 8 stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 7, który wchodzi w życie z dniem 1 października 2003 r.
+**Art. 11.** Przepisy wykonawcze wydane przed dniem wejścia w życie niniejszej ustawy na podstawie upoważnień zmienionych tą ustawą zachowują moc do czasu wejścia w życie przepisów wykonawczych na podstawie upoważnień w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 grudnia 2005 r. Przepis art. 2a ustawy wymienionej w art. 8 stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 7, który wchodzi w życie z dniem 1 października 2003 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 122, poz. 1321 i Nr 154, poz. 1800 i 1802, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676 i Nr 166, poz. 1360 oraz z 2003 r. Nr 50, poz. 424, Nr 113, poz. 1070 i Nr 130, poz. 1188.
 

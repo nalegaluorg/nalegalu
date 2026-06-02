@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 21 stycznia 2021 r. o zmianie ustawy – Kodeks postępowania administracyjnego oraz niektórych innych ustaw
+# Ustawa z dnia 21 stycznia 2021 r. o zmianie ustawy – Kodeks postępowania administracyjnego oraz niektórych innych ustaw Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym, ustawę z dnia 6 lipca 2001 r. o przetwarzaniu informacji kryminalnych, ustawę z dnia 15 stycznia 2015 r. o obligacjach, ustawę z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw, ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, ustawę z dnia 19 lipca 2019 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw, ustawę z dnia 30 sierpnia 2019 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw oraz ustawę z dnia 13 lutego 2020 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-01-21 |
 | Data wydania | 2021-01-28 |
-| Wejście w życie | 2021-02-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000187) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/187/text.pdf) |
 
@@ -55,7 +54,7 @@ source: "eli-html"
 **Art. 21a.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
 
 - **1)** sposób zakładania konta użytkownika i konta instytucjonalnego oraz sposób i tryb udzielania informacji o osobach i informacji o podmiotach zbiorowych, udzielanych na zapytanie lub wniosek za pośrednictwem systemu teleinformatycznego,
-- **2)** sposób i tryb udzielania informacji o osobach i informacji o podmiotach zbiorowych, udzielanych na żądanie za pośrednictwem systemu teleinformatycznego, w tym dane, jakie należy wskazać w żądaniu udzielenia informacji o osobie lub podmiocie zbiorowym, a także zakres informacji o osobie lub podmiocie zbiorowym udzielonej w ten sposób mając na uwadze konieczność zapewnienia sprawnego udzielania informacji oraz zabezpieczenia przed uzyskaniem danych z Rejestru przez osoby nieuprawnione. ” .
+- **2)** sposób i tryb udzielania informacji o osobach i informacji o podmiotach zbiorowych, udzielanych na żądanie za pośrednictwem systemu teleinformatycznego, w tym dane, jakie należy wskazać w żądaniu udzielenia informacji o osobie lub podmiocie zbiorowym, a także zakres informacji o osobie lub podmiocie zbiorowym udzielonej w ten sposób – mając na uwadze konieczność zapewnienia sprawnego udzielania informacji oraz zabezpieczenia przed uzyskaniem danych z Rejestru przez osoby nieuprawnione. ” .
 
 **Art. 3.** W ustawie z dnia 6 lipca 2001 r. o przetwarzaniu informacji kryminalnych (Dz. U. z 2019 r. poz. 2126) w art. 20 w ust. 1 pkt 14 otrzymuje brzmienie: „
 
@@ -63,7 +62,7 @@ source: "eli-html"
 
 **Art. 4.** W ustawie z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2020 r. poz. 1208) w art. 19 ust. 3 otrzymuje brzmienie: „ 3. Uchwała o emisji obligacji zamiennych i akcji przyznawanych w zamian za te obligacje podlega zgłoszeniu do sądu rejestrowego. Jeżeli emitentem jest spółka, która podlega obowiązkowi wpisu do Krajowego Rejestru Sądowego, wzmianka o uchwale wskazująca maksymalną wysokość podwyższenia kapitału zakładowego również podlega wpisowi do tego rejestru. Data przydziału i wydania obligacji nie może być wcześniejsza niż data wpisu. ” .
 
-**Art. 5.** W ustawie z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 398, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 398, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, z 2019 r. poz. 55, 1214 i 2355 oraz z 2020 r. poz. 288 i 1747.) wprowadza się następujące zmiany:
 
 - **1)** w art. 38 w ust. 3 wyrazy „28 lutego 2021 r.” zastępuje się wyrazami „30 czerwca 2021 r.”;
 - **2)** w art. 41 w ust. 1 wyrazy „28 lutego 2021 r.” zastępuje się wyrazami „30 czerwca 2021 r.”;
@@ -97,6 +96,6 @@ source: "eli-html"
 
 - **1)** art. 4, art. 5 pkt 4 oraz art. 6–9, które wchodzą w życie z dniem 1 marca 2021 r.;
 - **2)** art. 5 pkt 1 i 2, które wchodzą w życie z dniem 28 lutego 2021 r.;
-- **3)** art. 5 pkt 3, który wchodzi w życie z dniem 1 lipca 2021 r.
+- **3)** art. 5 pkt 3, który wchodzi w życie z dniem 1 lipca 2021 r. 1) Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym, ustawę z dnia 6 lipca 2001 r. o przetwarzaniu informacji kryminalnych, ustawę z dnia 15 stycznia 2015 r. o obligacjach, ustawę z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw, ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, ustawę z dnia 19 lipca 2019 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw, ustawę z dnia 30 sierpnia 2019 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw oraz ustawę z dnia 13 lutego 2020 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, z 2019 r. poz. 55, 1214 i 2355 oraz z 2020 r. poz. 288 i 1747.
 
 

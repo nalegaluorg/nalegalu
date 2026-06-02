@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej oraz niektórych innych ustaw
+# Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej oraz niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2014/89/UE z dnia 23 lipca 2014 r. ustanawiającej ramy planowania przestrzennego obszarów morskich (Dz. Urz. UE L 257 z 28.08.2014, str. 135).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-05 |
 | Data wydania | 2015-10-19 |
-| Wejście w życie | 2015-11-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001642) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1642/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 17 listopada 1994 r. o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 20 grudnia 1996 r. o portach i przystaniach morskich, ustawę z dnia 18 lipca 2001 r. – Prawo wodne, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej, ustawę z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych oraz ustawę z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim.
+Strefa przyległa
+Państwowa Morska Służba Hydrograficzna
 
 **Art. 1.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2013 r. poz. 934 i 1014) wprowadza się następujące zmiany:
 
@@ -39,7 +42,7 @@ source: "eli-html"
 - **1)** morskie wody wewnętrzne,
 - **2)** morze terytorialne,
 - **3)** strefa przyległa,
-- **4)** wyłączna strefa ekonomiczna zwane dalej „polskimi obszarami morskimi”. ” ;
+- **4)** wyłączna strefa ekonomiczna – zwane dalej „polskimi obszarami morskimi”. ” ;
 - **3)** w art. 3: po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
 
@@ -50,7 +53,7 @@ source: "eli-html"
 2. Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw gospodarki morskiej, w drodze rozporządzenia:
 
 - **1)** ustanawia strefy, o których mowa w ust. 1 pkt 1, określając granicę każdej ze stref, zgodnie z państwowym systemem odniesień przestrzennych,
-- **2)** określa sposób rozpowszechniania informacji o terminach zamykania stref oraz warunki i tryb czasowego umożliwienia przejścia przez strefę zamkniętą dla żeglugi i rybołówstwa mając na względzie konieczność zapewnienia obronności i bezpieczeństwa państwa oraz bezpieczeństwa żeglugi, ochrony życia i mienia na morzu. ” ;
+- **2)** określa sposób rozpowszechniania informacji o terminach zamykania stref oraz warunki i tryb czasowego umożliwienia przejścia przez strefę zamkniętą dla żeglugi i rybołówstwa – mając na względzie konieczność zapewnienia obronności i bezpieczeństwa państwa oraz bezpieczeństwa żeglugi, ochrony życia i mienia na morzu. ” ;
 - **4)** w art. 4: pkt 2 otrzymuje brzmienie: „
     - **a)**
 
@@ -73,7 +76,7 @@ source: "eli-html"
 
 - **6)** w dziale II po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Strefa przyległa
+#### Rozdział 2a
 
 **Art. 13a.**
 
@@ -157,7 +160,7 @@ source: "eli-html"
 6. Jeżeli w okresie:
 
 - **1)** 10 lat od dnia, w którym decyzja o pozwoleniu, o którym mowa w ust. 1, stała się ostateczna, nie zostanie rozpoczęte układanie kabli lub rurociągów albo
-- **2)** 15 lat od dnia, w którym decyzja o pozwoleniu, o którym mowa w ust. 1, stała się ostateczna, nie zostanie podjęte wykorzystywanie kabli lub rurociągów zgodnie z warunkami określonymi w tym pozwoleniu organ, który wydał pozwolenie, o którym mowa w ust. 1, stwierdza, w drodze decyzji, wygaśnięcie tego pozwolenia.
+- **2)** 15 lat od dnia, w którym decyzja o pozwoleniu, o którym mowa w ust. 1, stała się ostateczna, nie zostanie podjęte wykorzystywanie kabli lub rurociągów zgodnie z warunkami określonymi w tym pozwoleniu – organ, który wydał pozwolenie, o którym mowa w ust. 1, stwierdza, w drodze decyzji, wygaśnięcie tego pozwolenia.
 
 7. Organ, który wydał pozwolenie, o którym mowa w ust. 1, w drodze decyzji stwierdza dla całości lub, w przypadku przedsięwzięcia realizowanego etapami, dla części obszaru objętego pozwoleniem, jego wygaśnięcie, jeżeli układanie i utrzymywanie kabli lub rurociągów jest niezgodne z warunkami określonymi w pozwoleniu i jednocześnie nakłada karę pieniężną, o której mowa w art. 55 ust. 2. Przepisy art. 23 ust. 6e i 6f stosuje się odpowiednio.
 
@@ -190,7 +193,7 @@ source: "eli-html"
 
 - **d)**
 
-4. Prawa wynikające z pozwoleń, o których mowa w art. 23 ust. 1 i art. 26 ust. 1, lub uzgodnienia, o którym mowa w art. 27 ust. 1, mogą być przenoszone na inne podmioty na podstawie przepisów ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm.), za zgodą podmiotu, któremu udzielono pozwolenia albo uzgodnienia, jeżeli podmiot, na rzecz którego ma zostać przeniesione pozwolenie lub uzgodnienie, przyjmuje wszystkie warunki zawarte w tym pozwoleniu lub uzgodnieniu oraz jeżeli nie wystąpią zagrożenia, o których mowa w art. 23 ust. 3.
+4. Prawa wynikające z pozwoleń, o których mowa w art. 23 ust. 1 i art. 26 ust. 1, lub uzgodnienia, o którym mowa w art. 27 ust. 1, mogą być przenoszone na inne podmioty na podstawie przepisów ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 265 i 1161 oraz z 2015 r. poz. 4, 978 i 1333.), za zgodą podmiotu, któremu udzielono pozwolenia albo uzgodnienia, jeżeli podmiot, na rzecz którego ma zostać przeniesione pozwolenie lub uzgodnienie, przyjmuje wszystkie warunki zawarte w tym pozwoleniu lub uzgodnieniu oraz jeżeli nie wystąpią zagrożenia, o których mowa w art. 23 ust. 3.
 
 5. Prawa wynikające z pozwoleń wydanych w trybie, o którym mowa art. 27k ust. 1 pkt 1, mogą być przenoszone na inne podmioty, jeżeli podmiot, na rzecz którego ma zostać przeniesione pozwolenie, spełnia kryteria, o których mowa w art. 27g, w stopniu nie mniejszym niż podmiot, który został wyłoniony w postępowaniu rozstrzygającym i uzyskał pozwolenie.
 
@@ -280,7 +283,7 @@ source: "eli-html"
 4. Minister właściwy do spraw gospodarki morskiej oraz minister właściwy do spraw rozwoju regionalnego w porozumieniu z ministrem właściwym do spraw rybołówstwa oraz ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, wymagany zakres planów, w części tekstowej i graficznej, sporządzanej również w formie baz danych, określając w szczególności wymogi dotyczące materiałów planistycznych, rodzaju opracowań kartograficznych, skali opracowań kartograficznych, stosowanych oznaczeń, nazewnictwa, standardów oraz sposobu dokumentowania prac planistycznych, mając na względzie czytelność i przejrzystość planów oraz wytyczne przyjęte przez Komisję Ochrony Środowiska Morskiego Morza Bałtyckiego oraz organy Unii Europejskiej w zakresie planowania przestrzennego obszarów morskich. ” ;
 
 - **23)** po art. 37b dodaje się art. 37c-37k w brzmieniu: „ Organy administracji morskiej mogą prowadzić analizy i studia oraz opracowują koncepcje i programy, w celu opracowania planu, a także współpracują z samorządami województw i gmin nadmorskich w celu zapewnienia spójności tego planu ze studiami uwarunkowań i kierunków zagospodarowania przestrzennego gmin, miejscowymi planami zagospodarowania przestrzennego i planami zagospodarowania przestrzennego województw. Plan może zawierać ustalenia wiążące samorządy województw oraz gminy, w obszarze których występują morskie wody wewnętrzne, lub gminy sąsiadujące z obszarem planu poprzez linię brzegową lub odpowiadające tej linii granice obszarów morskich, przy sporządzaniu odpowiednio planów zagospodarowania przestrzennego województw, studiów uwarunkowań i kierunków zagospodarowania przestrzennego gmin oraz miejscowych planów zagospodarowania przestrzennego w zakresie:
-- **1)** rozmieszczenia inwestycji celu publicznego o znaczeniu krajowym określonych w średniookresowej strategii rozwoju kraju i innych strategiach rozwoju, koncepcji przestrzennego zagospodarowania kraju oraz programach określających zadania rządowe, o których mowa w art. 48 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2015 r. poz. 199, z późn. zm.);
+- **1)** rozmieszczenia inwestycji celu publicznego o znaczeniu krajowym określonych w średniookresowej strategii rozwoju kraju i innych strategiach rozwoju, koncepcji przestrzennego zagospodarowania kraju oraz programach określających zadania rządowe, o których mowa w art. 48 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2015 r. poz. 199, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 443, 774, 1265 i 1434.);
 - **2)** obszarów chronionych, w tym obszarów przestrzeni chronionej;
 - **3)** sposobu korzystania z obszarów morskich, w tym ograniczeń i dopuszczeń.
 
@@ -293,7 +296,7 @@ source: "eli-html"
 - **2)** zawiadamia na piśmie o przystąpieniu do sporządzania projektu planu instytucje i organy właściwe do uzgadniania i opiniowania projektu planu;
 - **3)** rozpatruje uwagi i wnioski, o których mowa w pkt 1 lit. b, rozstrzyga o sposobie ich uwzględnienia w projekcie planu i sporządza wykaz uwag i wniosków złożonych do projektu planu, w którym umieszcza uwagi i wnioski, wraz ze złożonym opisem przedsięwzięcia, o którym mowa w art. 37f ust. 3, a także ogólne uzasadnienie dotyczące sposobu uwzględnienia wniosków do projektu planu;
 - **4)** wykłada wykaz, o którym mowa w pkt 3, do publicznego wglądu i udostępnia w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego dyrektora, do dnia zakończenia wyłożenia projektu planu, o którym mowa w pkt 10, oraz podaje informacje o tym do publicznej wiadomości, wskazując miejsce jego wyłożenia;
-- **5)** występuje do właściwych organów o uzgodnienie zakresu i stopnia szczegółowości informacji wymaganych w prognozie oddziaływania na środowisko, o którym mowa w art. 53 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.);
+- **5)** występuje do właściwych organów o uzgodnienie zakresu i stopnia szczegółowości informacji wymaganych w prognozie oddziaływania na środowisko, o którym mowa w art. 53 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200, 277, 774, 1045, 1211, 1223, 1265, 1434 i 1590.);
 - **6)** sporządza projekt planu, uwzględniający w szczególności alternatywne rozmieszczenie wybranych przedsięwzięć wraz z uzasadnieniem ich rozmieszczenia, i prognozę oddziaływania na środowisko dla tego projektu;
 - **7)** występuje o opinie o projekcie planu do: wojewódzkiego konserwatora zabytków – właściwego w zakresie obszarów objętych ochroną konserwatorską oraz obszarów proponowanych do objęcia taką ochroną, dyrektora regionalnego zarządu gospodarki wodnej, w zakresie: – wpływu na obszary szczególnego zagrożenia powodzią z wyłączeniem pasa technicznego, – dostosowania ustaleń projektu planu do wymagań wynikających z warunków korzystania z wód regionu wodnego oraz, o ile zostały sporządzone, warunków korzystania z wód zlewni, – zgodności z planami gospodarowania wodami na obszarach dorzeczy, ministra właściwego do spraw zdrowia – w zakresie zagospodarowania stref ochronnych uzdrowisk i obszarów ochrony uzdrowiskowej, właściwego organu nadzoru górniczego – w zakresie terenów górniczych i ich zagospodarowania, organów właściwych w zakresie strategicznej oceny oddziaływania na środowisko zgodnie z ustawą z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, załączając prognozę oddziaływania na środowisko, Prezesa Krajowego Zarządu Gospodarki Wodnej – w zakresie zgodności z krajowym programem ochrony wód morskich oraz w zakresie celów środowiskowych dla wód morskich, ustanowionych zgodnie z przepisami ustawy z dnia 18 lipca 2001 r. – Prawo wodne;
     - **a)**
@@ -361,7 +364,7 @@ source: "eli-html"
 
 - **24)** w dziale III po rozdziale 1 dodaje się rozdział 1a w brzmieniu: „
 
-#### Rozdział 1a Państwowa Morska Służba Hydrograficzna
+#### Rozdział 1a
 
 **Art. 41a.**
 
@@ -422,7 +425,7 @@ source: "eli-html"
 - **2)** szczegółowe wymagania kwalifikacyjne do wykonywania pomiarów hydrograficznych, w tym sposób ustalania okresu praktyki, o której mowa w ust. 4 pkt 3,
 - **3)** ramowe programy szkoleń dla hydrografów morskich,
 - **4)** tryb uzyskiwania i wzory dyplomów hydrografa morskiego, o których mowa w ust. 2,
-- **5)** tryb weryfikacji oraz uznawania instytucji, organizacji i ośrodków szkolenia prowadzących szkolenia hydrografów kategorii A lub B oraz warunki cofnięcia uznania tych podmiotów i ubiegania się o ponowne uznanie biorąc pod uwagę wytyczne Międzynarodowej Organizacji Hydrograficznej oraz potrzebę zapewnienia bezpieczeństwa żeglugi. ” ;
+- **5)** tryb weryfikacji oraz uznawania instytucji, organizacji i ośrodków szkolenia prowadzących szkolenia hydrografów kategorii A lub B oraz warunki cofnięcia uznania tych podmiotów i ubiegania się o ponowne uznanie – biorąc pod uwagę wytyczne Międzynarodowej Organizacji Hydrograficznej oraz potrzebę zapewnienia bezpieczeństwa żeglugi. ” ;
 - **25)** w art. 42 w ust. 2: pkt 10 otrzymuje brzmienie: „
     - **a)**
 
@@ -445,11 +448,11 @@ source: "eli-html"
 
 - **29)** kwalifikacji członków załóg statków morskich i pilotów morskich;
 - **30)** nadzoru nad obszarami Natura 2000 wyznaczonymi na polskich obszarach morskich i sporządzania projektów planów ochrony tych obszarów w trybie przepisów ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody;
-- **31)** opiniowania i uzgadniania: dokumentów dotyczących obszarów morskich w ramach postępowania w sprawie strategicznej oceny oddziaływania na środowisko, realizacji przedsięwzięć dotyczących obszarów morskich w ramach postępowania w sprawie oceny oddziaływania przedsięwzięcia na środowisko oraz na obszar Natura 2000 o których mowa w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko;
+- **31)** opiniowania i uzgadniania: dokumentów dotyczących obszarów morskich w ramach postępowania w sprawie strategicznej oceny oddziaływania na środowisko, realizacji przedsięwzięć dotyczących obszarów morskich w ramach postępowania w sprawie oceny oddziaływania przedsięwzięcia na środowisko oraz na obszar Natura 2000 – o których mowa w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko;
     - **a)**
     - **b)**
 
-- **32)** ochrony i opieki nad zabytkami znajdującymi się w polskich obszarach morskich w zakresie przewidzianym w ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446, z późn. zm.). ” ;
+- **32)** ochrony i opieki nad zabytkami znajdującymi się w polskich obszarach morskich w zakresie przewidzianym w ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 397, 774 i 1505.). ” ;
 - **26)** w art. 44 ust. 1 otrzymuje brzmienie: „
 
 1. Organy administracji morskiej działają na terytorium Rzeczypospolitej Polskiej oraz w wyłącznej strefie ekonomicznej, chyba że przepis szczególny stanowi inaczej. ” ;
@@ -513,7 +516,7 @@ source: "eli-html"
 - **2)** szczegółowy sposób sprawowania nadzoru przeciwpożarowego, w tym tryb przeprowadzania inspekcji i kontroli, o których mowa w ust. 2, oraz szczegółowy zakres informacji zawartych w protokole, o którym mowa w ust. 7,
 - **3)** warunki współpracy organów administracji morskiej z podmiotami, które uczestniczą w działaniach ratowniczo-gaśniczych w obrębie polskich obszarów morskich oraz portów i przystani morskich,
 - **4)** szczegółowy zakres informacji niezbędnych do określenia w planach zwalczania zagrożeń i zanieczyszczeń wód portowych oraz instrukcjach technologicznych i technologiczno-ruchowych oraz instrukcjach bezpiecznej obsługi statku,
-- **5)** szczegółowy zakres informacji, o których mowa w ust. 8 pkt 4 mając na względzie znaczenie portu dla gospodarki narodowej oraz konieczność zapewnienia właściwego poziomu ochrony przeciwpożarowej w polskich obszarach morskich oraz morskich portach i przystaniach. ” ;
+- **5)** szczegółowy zakres informacji, o których mowa w ust. 8 pkt 4 – mając na względzie znaczenie portu dla gospodarki narodowej oraz konieczność zapewnienia właściwego poziomu ochrony przeciwpożarowej w polskich obszarach morskich oraz morskich portach i przystaniach. ” ;
 - **30)** w art. 51 w ust. 1: po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
 
@@ -555,7 +558,7 @@ source: "eli-html"
 - **5)** bez zgody kapitana portu spłukuje nadbudówki i pokłady statku,
 - **6)** przewozi pasażerów statkiem, którego dokument bezpieczeństwa takiego przewozu nie przewiduje,
 - **7)** uprawiając żeglugę statkiem przekracza dopuszczalną prędkość określoną obowiązującymi przepisami,
-- **8)** cumuje do znaku nawigacyjnego podlega karze grzywny. Kto na obszarze portu morskiego lub przystani morskiej, a także kotwicowisk położonych poza obszarem portów oraz torów wodnych łączących te kotwicowiska z wodami portowymi:
+- **8)** cumuje do znaku nawigacyjnego – podlega karze grzywny. Kto na obszarze portu morskiego lub przystani morskiej, a także kotwicowisk położonych poza obszarem portów oraz torów wodnych łączących te kotwicowiska z wodami portowymi:
 - **1)** kąpie się lub bez zezwolenia nurkuje,
 - **2)** zanieczyszcza lub zaśmieca teren,
 - **3)** zacumował jednostkę burta w burtę bez zgody kapitana portu,
@@ -567,19 +570,19 @@ source: "eli-html"
 - **9)** nie oświetla statku zacumowanego do nabrzeża od zachodu do wschodu słońca lub od wschodu do zachodu słońca podczas ograniczonej widzialności,
 - **10)** nie używa tarcz przeciw szczurom na linach cumowniczych statku zacumowanego do nabrzeża,
 - **11)** nie zacumował lub nieprawidłowo zacumował statek do urządzeń cumowniczych,
-- **12)** nie zapewnia bezpiecznego połączenia statku z lądem podlega karze grzywny. Kto na obszarze pasa technicznego:
+- **12)** nie zapewnia bezpiecznego połączenia statku z lądem – podlega karze grzywny. Kto na obszarze pasa technicznego:
 - **1)** zaśmieca lub zanieczyszcza teren,
 - **2)** rozpala ognisko na plaży,
 - **3)** używa pojazdu silnikowego, zaprzęgowego lub motoroweru,
-- **4)** jako osoba nieupoważniona przebywa na terenach (ogrodzonych lub oznakowanych) objętych pracami hydrotechnicznymi lub pomiarowymi, zagrożonych erozją, pożarem i innymi zdarzeniami, w szczególności skażeniami, zanieczyszczeniami lub obecnością niebezpiecznych przedmiotów podlega karze grzywny.
+- **4)** jako osoba nieupoważniona przebywa na terenach (ogrodzonych lub oznakowanych) objętych pracami hydrotechnicznymi lub pomiarowymi, zagrożonych erozją, pożarem i innymi zdarzeniami, w szczególności skażeniami, zanieczyszczeniami lub obecnością niebezpiecznych przedmiotów – podlega karze grzywny.
 
-1. Orzekanie w sprawach o czyny, określone w art. 60a-60c, następuje w trybie przewidzianym w przepisach ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.).
+1. Orzekanie w sprawach o czyny, określone w art. 60a-60c, następuje w trybie przewidzianym w przepisach ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247, z 2014 r. poz. 486, 579, 786 i 969 oraz z 2015 r. poz. 21, 396, 841, 1186, 1269 i 1549.).
 
 2. Pracownicy terenowego organu administracji morskiej mają prawo do nakładania grzywien w drodze mandatu karnego. ” ;
 
 - **36)** użyte w art. 23 w ust. 5, w art. 27a w ust. 1 w pkt 1, w art. 27c w ust. 2 w pkt 2, w art. 45 w ust. 1 wyrazy „współrzędnych geograficznych” zastępuje się wyrazami „współrzędnych geocentrycznych geodezyjnych”.
 
-**Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2014 r. poz. 1402, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2014 r. poz. 1402, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822 oraz z 2015 r. poz. 529, 1045, 1066, 1217, 1268, 1322, 1336 i 1607.) wprowadza się następujące zmiany:
 
 - **1)** w art. 14 dodaje się ust. 4 w brzmieniu: „
 
@@ -598,7 +601,7 @@ source: "eli-html"
 
 3. Pościg rozpoczęty na polskich morskich wodach wewnętrznych albo na polskim morzu terytorialnym może być kontynuowany poza granicą morza terytorialnego, a rozpoczęty w polskiej strefie przyległej lub w polskiej wyłącznej strefie ekonomicznej może być kontynuowany poza granicą tych stref, pod warunkiem że nie został przerwany. Ciągłość pościgu powinna być zachowana niezależnie od tego, czy jest on prowadzony przez jednostki pływające, czy we współdziałaniu tych jednostek ze statkami powietrznymi. ” .
 
-**Art. 3.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151, 200, 443, 528, 774, 1165, 1265 i 1549.) wprowadza się następujące zmiany:
 
 - **1)** w art. 32 w ust. 4 pkt 1a otrzymuje brzmienie: „
 - **1a)** złożył wniosek w tej sprawie w okresie ważności pozwoleń, o których mowa w art. 23 ust. 1 i art. 26 ust. 1, oraz decyzji, o której mowa w art. 27 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2013 r. poz. 934 i 1014 oraz z 2015 r. poz. 1642), jeżeli są one wymagane; ” ;
@@ -625,7 +628,7 @@ source: "eli-html"
 - **2)** w art. 9 w ust. 1 pkt 10 otrzymuje brzmienie: „
 - **10)** powodzi – rozumie się przez to czasowe pokrycie przez wodę terenu, który w normalnych warunkach nie jest pokryty wodą, w szczególności wywołane przez wezbranie wody w ciekach naturalnych, zbiornikach wodnych, kanałach oraz od strony morza, z wyłączeniem pokrycia przez wodę terenu wywołanego przez wezbranie wody w systemach kanalizacyjnych; ” .
 
-**Art. 7.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200, 277, 774, 1045, 1211, 1223, 1265, 1434 i 1590.) wprowadza się następujące zmiany:
 
 - **1)** w art. 54 dodaje się ust. 4 w brzmieniu: „
 
@@ -649,7 +652,7 @@ source: "eli-html"
 
 2. W przypadku gdy planowana realizacja danego dokumentu obejmuje obszar dwóch województw lub obszar morski wzdłuż linii brzegu morskiego dwóch województw, organem właściwym w sprawach opiniowania i uzgadniania w ramach strategicznych ocen oddziaływania na środowisko jest państwowy wojewódzki inspektor sanitarny, na którego obszarze właściwości znajduje się większa część terenu lub obszaru morskiego, na którym ma być realizowany ten dokument. Opiniowanie i uzgadnianie następuje w porozumieniu z zainteresowanym państwowym wojewódzkim inspektorem sanitarnym. ” .
 
-**Art. 8.** W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2015 r. poz. 990, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2015 r. poz. 990, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1045, 1217, 1268, 1269 i 1479.) wprowadza się następujące zmiany:
 
 - **1)** w art. 36 w ust. 2 pkt 1 otrzymuje brzmienie: „
 - **1)** na drogach publicznych lub drogach wewnętrznych, na morskich wodach wewnętrznych, morzu terytorialnym, strefie przyległej lub wodach śródlądowych oraz w miejscach innych niż określone w ust. 1, w przypadku kontroli, o której mowa w art. 30 ust. 2 i art. 30 ust. 3 pkt 2 i 7, ” ;
@@ -664,7 +667,7 @@ source: "eli-html"
 
 - **1)** obszarze wodnym – rozumie się przez to wody śródlądowe w rozumieniu art. 5 ust. 2 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2015 r. poz. 469, 1590 i 1642) oraz wody przybrzeżne w rozumieniu art. 5 ust. 5b tej ustawy, w pasie nieprzekraczającym jednej mili morskiej od linii brzegu, a także kąpielisko, miejsce wykorzystywane do kąpieli, pływalnię oraz inne obiekty dysponujące nieckami basenowymi o łącznej powierzchni powyżej 100 m2 i głębokości ponad 0,4 m w najgłębszym miejscu lub głębokości powyżej 1,2 m; ” .
 
-**Art. 10.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2015 r. poz. 611, z późn. zm.) w art. 86 uchyla się ust. 7.
+**Art. 10.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2015 r. poz. 611, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1320, 1336 i 1569.) w art. 86 uchyla się ust. 7.
 
 **Art. 11.** Rozpoczęte przez dyrektora urzędu morskiego, przed dniem wejścia w życie niniejszej ustawy, prace nad projektami planów zagospodarowania przestrzennego morskich wód wewnętrznych, morza terytorialnego i wyłącznej strefy ekonomicznej, mogą być kontynuowane i nie wymagają powtórzenia.
 
@@ -678,5 +681,5 @@ source: "eli-html"
 
 4. Do wszczętych i niezakończonych decyzją ostateczną postępowań w sprawie o wydanie pozwolenia, o którym mowa w art. 23 ust. 1b pkt 2 lit. b ustawy zmienianej w art. 1 w brzmieniu dotychczasowym dotyczących przedsięwzięć niewymagających pozwolenia na budowę, stosuje się przepisy dotychczasowe. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 3 ust. 2 i art. 37b ust. 4 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 3 ust. 2 i art. 37b ust. 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 14.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 14.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2014/89/UE z dnia 23 lipca 2014 r. ustanawiającej ramy planowania przestrzennego obszarów morskich (Dz. Urz. UE L 257 z 28.08.2014, str. 135). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 17 listopada 1994 r. o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 20 grudnia 1996 r. o portach i przystaniach morskich, ustawę z dnia 18 lipca 2001 r. – Prawo wodne, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej, ustawę z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych oraz ustawę z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 265 i 1161 oraz z 2015 r. poz. 4, 978 i 1333. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 443, 774, 1265 i 1434. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200, 277, 774, 1045, 1211, 1223, 1265, 1434 i 1590. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 397, 774 i 1505. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247, z 2014 r. poz. 486, 579, 786 i 969 oraz z 2015 r. poz. 21, 396, 841, 1186, 1269 i 1549. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822 oraz z 2015 r. poz. 529, 1045, 1066, 1217, 1268, 1322, 1336 i 1607. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151, 200, 443, 528, 774, 1165, 1265 i 1549. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200, 277, 774, 1045, 1211, 1223, 1265, 1434 i 1590. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1045, 1217, 1268, 1269 i 1479. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1320, 1336 i 1569.
 

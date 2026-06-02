@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-03-19 |
 | Data wydania | 2004-04-30 |
-| Wejście w życie | 2004-04-30 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040910867) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/867/text.pdf) |
 
@@ -32,7 +31,7 @@ source: "eli-html"
 
 - **1)** zakup rzeczowych środków obrotowych do produkcji rolniczej,
 - **2)** zakup rzeczowych środków obrotowych do produkcji żywności metodami ekologicznymi i przystosowanie gospodarstw rolnych do tej produkcji,
-- **3)** postęp biologiczny w rolnictwie mogą być stosowane za okres nie dłuższy niż 24 miesiące od dnia otrzymania kredytu. ” .
+- **3)** postęp biologiczny w rolnictwie – mogą być stosowane za okres nie dłuższy niż 24 miesiące od dnia otrzymania kredytu. ” .
 
 **Art. 2.** Ustawa wchodzi w życie z dniem 30 kwietnia 2004 r.
 

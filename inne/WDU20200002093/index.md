@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 24 listopada 2020 r. zmieniające rozporządzenie w sprawie programu pilotażowego dotyczącego leczenia ostrej fazy udaru niedokrwiennego za pomocą przezcewnikowej trombektomii mechanicznej naczyń domózgowych lub wewnątrzczaszkowych
+# Rozporządzenie Ministra Zdrowiaz dnia 24 listopada 2020 r. zmieniające rozporządzenie w sprawie programu pilotażowego dotyczącego leczenia ostrej fazy udaru niedokrwiennego za pomocą przezcewnikowej trombektomii mechanicznej naczyń domózgowych lub wewnątrzczaszkowych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-24 |
 | Data wydania | 2020-11-26 |
-| Wejście w życie | 2020-11-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002093) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2093/text.pdf) |
 
@@ -33,14 +32,11 @@ Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach 
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 11 października 2018 r. w sprawie programu pilotażowego dotyczącego leczenia ostrej fazy udaru niedokrwiennego za pomocą przezcewnikowej trombektomii mechanicznej naczyń domózgowych lub wewnątrzczaszkowych (Dz. U. poz. 1985 oraz z 2019 r. poz. 1236) wprowadza się następujące zmiany:
 1)
-§ 4 otrzymuje brzmienie:
-„
+§ 4 otrzymuje brzmienie: „
 § 4.
-Świadczenia opieki zdrowotnej w ramach pilotażu mogą być udzielane od dnia 1 grudnia 2018 r. do dnia 31 grudnia 2022 r.
-” ;
+Świadczenia opieki zdrowotnej w ramach pilotażu mogą być udzielane od dnia 1 grudnia 2018 r. do dnia 31 grudnia 2022 r. ” ;
 2)
-w § 11 ust. 1 otrzymuje brzmienie:
-„
+w § 11 ust. 1 otrzymuje brzmienie: „
 1.
 Fundusz dokonuje pomiaru wskaźników realizacji pilotażu oraz sporządza raport zawierający ich ocenę, uwzględniając także ocenę kosztów oraz efektów realizacji pilotażu dla: każdego z realizatorów odrębnie, w porównaniu do innych realizatorów oraz w odniesieniu do wszystkich realizatorów za okresy:
 1)
@@ -56,13 +52,11 @@ od dnia 1 czerwca 2021 r. do dnia 30 listopada 2021 r.;
 6)
 od dnia 1 grudnia 2021 r. do dnia 31 maja 2022 r.;
 7)
-od dnia 1 czerwca 2022 r. do dnia 31 grudnia 2022 r.
-” ;
+od dnia 1 czerwca 2022 r. do dnia 31 grudnia 2022 r. ” ;
 3)
 załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 Załącznik – Wykaz realizatorów programu pilotażowego dotyczącego leczenia ostrej fazy udaru niedokrwiennego za pomocą przezcewnikowej trombektomii mechanicznej naczyń domózgowych lub wewnątrzczaszkowych
 1)
 Górnośląskie Centrum Medyczne im. prof. Leszka Gieca Śląskiego Uniwersytetu Medycznego w Katowicach;

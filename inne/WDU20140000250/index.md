@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-01-14 |
 | Data wydania | 2014-02-27 |
-| Wejście w życie | 2014-03-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000250) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/250/text.pdf) |
 
@@ -37,8 +36,7 @@ sposób prowadzenia,
 3)
 sposób dokumentowania,
 4)
-sposób nagradzania uczestników
-zajęć rehabilitacji społecznej organizowanych w domach pomocy społecznej dla osób z zaburzeniami psychicznymi, o których mowa w art. 56 pkt 3–5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm.), zwanych dalej „zajęciami”.
+sposób nagradzania uczestników – zajęć rehabilitacji społecznej organizowanych w domach pomocy społecznej dla osób z zaburzeniami psychicznymi, o których mowa w art. 56 pkt 3–5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 509 i 1650. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2012 r. poz. 1544 i 1548.), zwanych dalej „zajęciami”.
 § 2.
 Zajęcia mają na celu:
 1)
@@ -137,5 +135,5 @@ Dyrektor domu zatwierdza wniosek o przyznanie nagrody rzeczowej i określa jej w
 5.
 Wybór i zakup nagrody rzeczowej jest dokonywany w uzgodnieniu z osobą nagradzaną.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia i Opieki Społecznej z dnia 3 listopada 1995 r. w sprawie zasad organizowania i zakresu rehabilitacji leczniczej w domach pomocy społecznej (Dz. U. Nr 132, poz. 653), które utraciło moc z dniem 12 lutego 2013 r. na podstawie art. 3 pkt 1 ustawy z dnia 3 grudnia 2010 r. o zmianie ustawy o ochronie zdrowia psychicznego (Dz. U. z 2011 r. Nr 6, poz. 19). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 509 i 1650. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2012 r. poz. 1544 i 1548. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia i Opieki Społecznej z dnia 3 listopada 1995 r. w sprawie zasad organizowania i zakresu rehabilitacji leczniczej w domach pomocy społecznej (Dz. U. Nr 132, poz. 653), które utraciło moc z dniem 12 lutego 2013 r. na podstawie art. 3 pkt 1 ustawy z dnia 3 grudnia 2010 r. o zmianie ustawy o ochronie zdrowia psychicznego (Dz. U. z 2011 r. Nr 6, poz. 19).
 

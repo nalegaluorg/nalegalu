@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 29 sierpnia 2018 r. w sprawie współpracy z ministrem właściwym do spraw rozwoju wsi oraz z audytorem wewnętrznym agencji płatniczej w ramach sprawowania stałego nadzoru nad agencją płatniczą w zakresie spełniania kryteriów akredytacyjnych
+# Rozporządzenie Ministra Finansówz dnia 29 sierpnia 2018 r. w sprawie współpracy z ministrem właściwym do spraw rozwoju wsi oraz z audytorem wewnętrznym agencji płatniczej w ramach sprawowania stałego nadzoru nad agencją płatniczą w zakresie spełniania kryteriów akredytacyjnych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,20 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-08-29 |
 | Data wydania | 2018-09-06 |
-| Wejście w życie | 2018-09-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001725) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1725/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 5 ust. 2 ustawy z dnia 27 maja 2015 r. o finansowaniu wspólnej polityki rolnej (Dz. U. z 2018 r. poz. 719) zarządza się, co następuje:
 § 1.
-Rozporządzenie określa warunki i tryb współpracy ministra właściwego do spraw finansów publicznych, zwanego dalej „ministrem”, z ministrem właściwym do spraw rozwoju wsi oraz z audytorem wewnętrznym agencji płatniczej, zwanym dalej „audytorem”, w ramach sprawowania stałego nadzoru nad agencją płatniczą, o którym mowa w art. 2 rozporządzenia wykonawczego Komisji (UE) nr 908/2014 z dnia 6 sierpnia 2014 r. ustanawiającego zasady dotyczące stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, przepisów dotyczących kontroli, zabezpieczeń i przejrzystości (Dz. Urz. UE L 255 z 28.08.2014, str. 59, z późn. zm.).
+Rozporządzenie określa warunki i tryb współpracy ministra właściwego do spraw finansów publicznych, zwanego dalej „ministrem”, z ministrem właściwym do spraw rozwoju wsi oraz z audytorem wewnętrznym agencji płatniczej, zwanym dalej „audytorem”, w ramach sprawowania stałego nadzoru nad agencją płatniczą, o którym mowa w art. 2 rozporządzenia wykonawczego Komisji (UE) nr 908/2014 z dnia 6 sierpnia 2014 r. ustanawiającego zasady dotyczące stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, przepisów dotyczących kontroli, zabezpieczeń i przejrzystości (Dz. Urz. UE L 255 z 28.08.2014, str. 59, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 97 z 14.04.2015, str. 5, Dz. Urz. UE L 122 z 19.05.2015, str. 1, Dz. Urz. UE L 316 z 02.12.2015, str. 2, Dz. Urz. UE L 273 z 08.10.2016, str. 31, Dz. Urz. UE L 115 z 04.05.2017, str. 43 oraz Dz. Urz. UE L 10 z 13.01.2018, str. 9.).
 § 2.
 Współpraca, o której mowa w § 1, polega na przedkładaniu ministrowi:
 1)
 opracowanej przez audytora:
 a)
-kwartalnej informacji dotyczącej stanu spełniania przez agencję płatniczą kryteriów akredytacyjnych określonych w załączniku I do rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro (Dz. Urz. UE L 255 z 28.08.2014, str. 18, z późn. zm.), zwanych dalej „kryteriami akredytacyjnymi” – nie później niż do 15 dnia miesiąca następującego po zakończeniu każdego kwartału,
+kwartalnej informacji dotyczącej stanu spełniania przez agencję płatniczą kryteriów akredytacyjnych określonych w załączniku I do rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro (Dz. Urz. UE L 255 z 28.08.2014, str. 18, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7 oraz Dz. Urz. UE L 5 z 10.01.2017, str. 11.), zwanych dalej „kryteriami akredytacyjnymi” – nie później niż do 15 dnia miesiąca następującego po zakończeniu każdego kwartału,
 b)
 informacji o stwierdzonych uchybieniach mogących utrudniać realizację przez agencję płatniczą zadań, które mają wpływ na spełnianie przez tę agencję kryteriów akredytacyjnych – niezwłocznie po ich stwierdzeniu przez audytora, jednak nie później niż w ciągu 7 dni,
 c)
@@ -69,6 +68,5 @@ Niezgłoszenie zastrzeżeń w terminach, o których mowa w ust. 1 lub 3, jest r�
 § 6.
 Traci moc rozporządzenie Ministra Finansów z dnia 19 grudnia 2015 r. w sprawie współpracy z jednostką koordynującą oraz z audytorem wewnętrznym agencji płatniczej w ramach sprawowania stałego nadzoru nad agencją płatniczą w zakresie spełniania kryteriów akredytacyjnych (Dz. U. poz. 2311).
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 97 z 14.04.2015, str. 5, Dz. Urz. UE L 122 z 19.05.2015, str. 1, Dz. Urz. UE L 316 z 02.12.2015, str. 2, Dz. Urz. UE L 273 z 08.10.2016, str. 31, Dz. Urz. UE L 115 z 04.05.2017, str. 43 oraz Dz. Urz. UE L 10 z 13.01.2018, str. 9. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7 oraz Dz. Urz. UE L 5 z 10.01.2017, str. 11.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 97 z 14.04.2015, str. 5, Dz. Urz. UE L 122 z 19.05.2015, str. 1, Dz. Urz. UE L 316 z 02.12.2015, str. 2, Dz. Urz. UE L 273 z 08.10.2016, str. 31, Dz. Urz. UE L 115 z 04.05.2017, str. 43 oraz Dz. Urz. UE L 10 z 13.01.2018, str. 9. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7 oraz Dz. Urz. UE L 5 z 10.01.2017, str. 11.
 

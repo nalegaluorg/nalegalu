@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-24 |
 | Data wydania | 2015-10-09 |
-| Wejście w życie | 2015-10-24 |
 | Ostatnia zmiana | 2025-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001570) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1570/text.pdf) |
 
@@ -91,7 +90,7 @@ jest obywatelem państwa członkowskiego Unii Europejskiej,
 b)
 jest pełnoletnia,
 c)
-ma miejsce zamieszkania na obszarze wiejskim objętym LSR – w przypadku gdy osoba fizyczna nie wykonuje działalności gospodarczej, do której stosuje się przepisy ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.),
+ma miejsce zamieszkania na obszarze wiejskim objętym LSR – w przypadku gdy osoba fizyczna nie wykonuje działalności gospodarczej, do której stosuje się przepisy ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268 i 1272.),
 d)
 miejsce oznaczone adresem, pod którym wykonuje działalność gospodarczą, wpisanym do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, znajduje się na obszarze wiejskim objętym LSR – w przypadku gdy osoba fizyczna wykonuje działalność gospodarczą, do której stosuje się przepisy ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, albo
 2)
@@ -165,8 +164,7 @@ podmiot ubiegający się o jej przyznanie:
 a)
 nie podlega ubezpieczeniu społecznemu rolników z mocy ustawy i w pełnym zakresie, chyba że podejmuje działalność gospodarczą sklasyfikowaną w przepisach rozporządzenia Rady Ministrów z dnia 24 grudnia 2007 r. w sprawie Polskiej Klasyfikacji Działalności (PKD) (Dz. U. Nr 251, poz. 1885 oraz z 2009 r. Nr 59, poz. 489) jako produkcja artykułów spożywczych lub produkcja napojów,
 b)
-w okresie 2 lat poprzedzających dzień złożenia wniosku o przyznanie tej pomocy nie wykonywał działalności gospodarczej, do której stosuje się przepisy ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, w szczególności nie był wpisany do Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym
-i nie została mu dotychczas przyznana pomoc na operację w tym zakresie;
+w okresie 2 lat poprzedzających dzień złożenia wniosku o przyznanie tej pomocy nie wykonywał działalności gospodarczej, do której stosuje się przepisy ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, w szczególności nie był wpisany do Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym – i nie została mu dotychczas przyznana pomoc na operację w tym zakresie;
 2)
 operacja zakłada:
 a)
@@ -311,8 +309,7 @@ zakupu rzeczy innych niż wymienione w pkt 5 i 6, w tym materiałów,
 8)
 wynagrodzenia i innych świadczeń, o których mowa w Kodeksie pracy, związanych z pracą pracowników beneficjenta, a także inne koszty ponoszone przez beneficjenta na podstawie odrębnych przepisów w związku z zatrudnieniem tych pracowników – w przypadku operacji w zakresie określonym w § 2 ust. 1 pkt 2 lit. b i pkt 3,
 9)
-podatku od towarów i usług (VAT), zgodnie z art. 69 ust. 3 lit. c rozporządzenia nr 1303/2013
-które są uzasadnione zakresem operacji, niezbędne do osiągnięcia jej celu oraz racjonalne.
+podatku od towarów i usług (VAT), zgodnie z art. 69 ust. 3 lit. c rozporządzenia nr 1303/2013 – które są uzasadnione zakresem operacji, niezbędne do osiągnięcia jej celu oraz racjonalne.
 2.
 Do kosztów kwalifikowalnych zalicza się także wartość wkładu rzeczowego, o którym mowa w art. 69 ust. 1 rozporządzenia nr 1303/2013.
 3.
@@ -451,7 +448,7 @@ dokonywania zmian w umowie.
 2.
 W przypadku projektu grantowego przepisu ust. 1 pkt 5 nie stosuje się, a umowa zawiera ponadto zobowiązanie LGD do:
 1)
-wykonania czynności określonych w art. 36 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, z późn. zm.);
+wykonania czynności określonych w art. 36 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 378, 1130 i 1240.);
 2)
 przedłożenia zarządowi województwa dokumentów potwierdzających przeprowadzenie wyboru grantobiorców w ramach realizowanego projektu grantowego niezwłocznie po dokonaniu tego wyboru.
 3.
@@ -614,5 +611,5 @@ uwzględnione w oddzielnym systemie rachunkowości albo do ich identyfikacji wyk
 2.
 Do przyznawania i wypłaty środków finansowych z tytułu kosztów ogólnych, o których mowa w ust. 1, przepisu § 29 ust. 3 nie stosuje się.
 § 39.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268 i 1272. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 378, 1130 i 1240.
 

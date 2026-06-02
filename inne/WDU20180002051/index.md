@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-24 |
 | Data wydania | 2018-10-26 |
-| Wejście w życie | 2018-10-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002051) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2051/text.pdf) |
 
@@ -81,5 +80,5 @@ W przypadku stwierdzenia wykorzystania dotacji niezgodnie z przeznaczeniem, pobr
 § 10.
 Dysponent Funduszu sporządza sprawozdania z wykonania planu finansowego Funduszu w trybie i terminach określonych w przepisach wydanych na podstawie art. 41 ust. 2 i 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 29 października 2018 r.
+Rozporządzenie wchodzi w życie z dniem 29 października 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rodziny, Pracy i Polityki Społecznej z dnia 30 grudnia 2015 r. w sprawie gospodarki finansowej Funduszu Wspierania Organizacji Pożytku Publicznego (Dz. U. poz. 2363), które na podstawie art. 47 ustawy z dnia 15 września 2017 r. o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U. z 2018 r. poz. 1813) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rodziny, Pracy i Polityki Społecznej z dnia 30 grudnia 2015 r. w sprawie gospodarki finansowej Funduszu Wspierania Organizacji Pożytku Publicznego (Dz. U. poz. 2363), które na podstawie art. 47 ustawy z dnia 15 września 2017 r. o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U. z 2018 r. poz. 1813) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

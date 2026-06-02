@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-23 |
 | Data wydania | 2019-12-30 |
-| Wejście w życie | 2020-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002535) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2535/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Finansów z dnia 20 grudnia 2010 r. w sprawie rodzaj�
 1)
 w § 3 w ust. 1:
 a)
-w pkt 1 lit. a otrzymuje brzmienie:
-„
+w pkt 1 lit. a otrzymuje brzmienie: „
 a)
 dochodów budżetu państwa z tytułu:
 – podatków: dochodowego od osób prawnych, dochodowego od osób fizycznych, od towarów i usług oraz innych podatkowych i niepodatkowych dochodów budżetu państwa,
@@ -45,35 +43,27 @@ dochodów budżetu państwa z tytułu:
 – pozostałych dochodów,
 ” ,
 b)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
 rachunki bieżące urzędów obsługujących organy podatkowe, dla gromadzenia dochodów budżetu państwa, z wyodrębnieniem rachunków dla:
 a)
 wpływów z tytułu podatków: dochodowego od osób prawnych, dochodowego od osób fizycznych, od towarów i usług oraz innych podatkowych i niepodatkowych dochodów budżetu państwa,
 b)
-wpływów z tytułu podatku akcyzowego, podatku od gier, podatku od wydobycia niektórych kopalin oraz podatku od towarów i usług od wewnątrzwspólnotowego nabycia towarów, o których mowa w art. 103 ust. 5aa ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm.),
+wpływów z tytułu podatku akcyzowego, podatku od gier, podatku od wydobycia niektórych kopalin oraz podatku od towarów i usług od wewnątrzwspólnotowego nabycia towarów, o których mowa w art. 103 ust. 5aa ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495, 1520, 1751, 1818, 2166 i 2200.),
 c)
-pozostałych dochodów;
-” ;
+pozostałych dochodów; ” ;
 2)
-w § 11 w ust. 2 pkt 4 otrzymuje brzmienie:
-„
+w § 11 w ust. 2 pkt 4 otrzymuje brzmienie: „
 4)
-przekazywania środków z tytułu potrąceń dochodów i innych wpłat, ustalonych na podstawie odrębnych przepisów;
-” ;
+przekazywania środków z tytułu potrąceń dochodów i innych wpłat, ustalonych na podstawie odrębnych przepisów; ” ;
 3)
-w § 16b dodaje się ust. 3 w brzmieniu:
-„
+w § 16b dodaje się ust. 3 w brzmieniu: „
 3.
-Zwroty nadpłat środków dotyczących przychodów z prywatyzacji są dokonywane z rachunku, o którym mowa w ust. 1. W przypadku gdy na tym rachunku brakuje środków finansowych, zwrotu nadpłaconych przychodów dokonuje się w trybie określonym w § 5 rozporządzenia wydanego na podstawie art. 198 ustawy o finansach publicznych.
-” ;
+Zwroty nadpłat środków dotyczących przychodów z prywatyzacji są dokonywane z rachunku, o którym mowa w ust. 1. W przypadku gdy na tym rachunku brakuje środków finansowych, zwrotu nadpłaconych przychodów dokonuje się w trybie określonym w § 5 rozporządzenia wydanego na podstawie art. 198 ustawy o finansach publicznych. ” ;
 4)
-w § 18 w ust. 1 pkt 1 otrzymuje brzmienie:
-„
+w § 18 w ust. 1 pkt 1 otrzymuje brzmienie: „
 1)
-sporządza codzienną informację z wykonania budżetu państwa, wykazując zbiorcze salda rachunków, o których mowa w § 3 ust. 1 pkt 1–3 oraz pkt 5 lit. a, b i e;
-” .
+sporządza codzienną informację z wykonania budżetu państwa, wykazując zbiorcze salda rachunków, o których mowa w § 3 ust. 1 pkt 1–3 oraz pkt 5 lit. a, b i e; ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495, 1520, 1751, 1818, 2166 i 2200.
 

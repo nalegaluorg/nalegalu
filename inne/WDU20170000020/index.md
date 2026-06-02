@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 20 grudnia 2016 r. zmieniające rozporządzenie w sprawie opłaty za postępowanie kwalifikacyjne oraz wysokości wynagrodzenia członków Państwowej Komisji Kwalifikacyjnej
+# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 20 grudnia 2016 r. zmieniające rozporządzenie w sprawie opłaty za postępowanie kwalifikacyjne oraz wysokości wynagrodzenia członków Państwowej Komisji Kwalifikacyjnej Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-20 |
 | Data wydania | 2017-01-04 |
-| Wejście w życie | 2017-01-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000020) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/20/text.pdf) |
 
@@ -33,12 +32,9 @@ W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 11 marca 2014 r. w sp
 1)
 uchyla się pkt 4;
 2)
-pkt 5 otrzymuje brzmienie:
-„
+pkt 5 otrzymuje brzmienie: „
 5)
-ministerstwo – urząd obsługujący ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;
-” .
+ministerstwo – urząd obsługujący ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa; ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
 

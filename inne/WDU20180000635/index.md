@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 22 marca 2018 r. zmieniające rozporządzenie w sprawie zwolnień z obowiązku prowadzenia ewidencji przy zastosowaniu kas rejestrujących
+# Rozporządzenie Ministra Finansówz dnia 22 marca 2018 r. zmieniające rozporządzenie w sprawie zwolnień z obowiązku prowadzenia ewidencji przy zastosowaniu kas rejestrujących Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-22 |
 | Data wydania | 2018-03-29 |
-| Wejście w życie | 2018-03-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000635) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/635/text.pdf) |
 
@@ -45,8 +44,8 @@ w ust. 1:
 b)
 w ust. 3 wyrazy „lit. k‒m” zastępuje się wyrazami „lit. k lub l”;
 3)
-w załączniku do rozporządzenia poz. 25 otrzymuje brzmienie: Lp. GARNIZON WSPÓŁCZYNNIK ŚWIADCZENIA 1 2 3 25 64–66 Usługi finansowe i ubezpieczeniowe
+w załączniku do rozporządzenia poz. 25 otrzymuje brzmienie:
+Lp. GARNIZON WSPÓŁCZYNNIK ŚWIADCZENIA 1 2 3 25 64–66 Usługi finansowe i ubezpieczeniowe
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 27 grudnia 2024 r. w sprawie sposobu ustalania nadwyżki środków finansowych Rządowej Agencji Rezerw Strategicznych
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 27 grudnia 2024 r. w sprawie sposobu ustalania nadwyżki środków finansowych Rządowej Agencji Rezerw Strategicznych Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-27 |
 | Data wydania | 2024-12-30 |
-| Wejście w życie | 2024-12-31 |
 | Ostatnia zmiana | 2024-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001967) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1967/text.pdf) |
 
@@ -87,6 +86,5 @@ Przez zobowiązania, o których mowa w ust. 1 pkt 3–5, rozumie się takie zobo
 § 3.
 Traci moc rozporządzenie Ministra Gospodarki z dnia 14 października 2015 r. w sprawie sposobu ustalania nadwyżki środków finansowych Agencji Rezerw Materiałowych (Dz. U. poz. 1738).
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
 

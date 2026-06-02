@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwojuz dnia 20 lipca 2020 r. zmieniające rozporządzenie w sprawie nadania statutu Polskiej Organizacji Turystycznej
+# Rozporządzenie Ministra Rozwojuz dnia 20 lipca 2020 r. zmieniające rozporządzenie w sprawie nadania statutu Polskiej Organizacji Turystycznej Minister Rozwoju kieruje działem administracji rządowej – turystyka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-07-20 |
 | Data wydania | 2020-07-22 |
-| Wejście w życie | 2020-07-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001281) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1281/text.pdf) |
 
@@ -31,19 +30,14 @@ Na podstawie art. 12 ustawy z dnia 25 czerwca 1999 r. o Polskiej Organizacji Tur
 § 1.
 W rozporządzeniu Ministra Gospodarki z dnia 28 kwietnia 2006 r. w sprawie nadania statutu Polskiej Organizacji Turystycznej (Dz. U. z 2019 r. poz. 903) w załączniku w § 14 wprowadza się następujące zmiany:
 1)
-w ust. 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu:
-„
+w ust. 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
 9)
-” ;
 2)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Departamentami, biurami i Oddziałem zamiejscowym kierują dyrektorzy.
-” .
+Departamentami, biurami i Oddziałem zamiejscowym kierują dyrektorzy. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju kieruje działem administracji rządowej – turystyka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju kieruje działem administracji rządowej – turystyka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261).
 
-##### Oddział zamiejscowy do spraw obsługi i promocji Polskiego Bonu Turystycznego.
+##### Oddział zamiejscowy do spraw obsługi i promocji Polskiego Bonu Turystycznego. ” ;
 

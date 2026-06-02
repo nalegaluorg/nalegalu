@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-08-24 |
 | Data wydania | 2018-09-05 |
-| Wejście w życie | 2018-09-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001719) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1719/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 30 ust. 1 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2018 r. poz. 1516 i 1669) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Obrony Narodowej z dnia 17 kwietnia 2013 r. w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 535) w § 7 ust. 3 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Obrony Narodowej z dnia 17 kwietnia 2013 r. w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 535) w § 7 ust. 3 otrzymuje brzmienie: „
 3.
-Funkcjonariusz przyjęty do służby w SWW i posiadający co najmniej stopień wojskowy kaprala (mata), stopień sierżanta Policji, stopień kaprala (mata) Straży Granicznej, stopień kaprala Służby Ochrony Państwa, stopień sekcyjnego Państwowej Straży Pożarnej, stopień kaprala Służby Więziennej, stopień kaprala Agencji Bezpieczeństwa Wewnętrznego, stopień kaprala Agencji Wywiadu lub stopień kaprala Służby Kontrwywiadu Wojskowego może zostać zwolniony z obowiązku odbycia szkolenia. Przepis § 6 ust. 1 stosuje się odpowiednio.
-” .
+Funkcjonariusz przyjęty do służby w SWW i posiadający co najmniej stopień wojskowy kaprala (mata), stopień sierżanta Policji, stopień kaprala (mata) Straży Granicznej, stopień kaprala Służby Ochrony Państwa, stopień sekcyjnego Państwowej Straży Pożarnej, stopień kaprala Służby Więziennej, stopień kaprala Agencji Bezpieczeństwa Wewnętrznego, stopień kaprala Agencji Wywiadu lub stopień kaprala Służby Kontrwywiadu Wojskowego może zostać zwolniony z obowiązku odbycia szkolenia. Przepis § 6 ust. 1 stosuje się odpowiednio. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

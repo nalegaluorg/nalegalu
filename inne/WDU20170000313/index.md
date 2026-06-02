@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 15 lutego 2017 r. w sprawie pozasądowego postępowania przed Rzecznikiem Finansowym
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 15 lutego 2017 r. w sprawie pozasądowego postępowania przed Rzecznikiem Finansowym Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-15 |
 | Data wydania | 2017-02-21 |
-| Wejście w życie | 2017-02-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000313) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/313/text.pdf) |
 
@@ -158,6 +157,5 @@ W opinii nie uwzględnia się propozycji rozwiązania sporu przedstawianych prze
 § 15.
 W razie wycofania wniosku przez klienta w trakcie postępowania lub w przypadku gdy przeprowadzenie postępowania stało się z innych przyczyn niemożliwe, Rzecznik kończy postępowanie, o czym niezwłocznie zawiadamia strony.
 § 16.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 stycznia 2016 r. w sprawie pozasądowego postępowania przed Rzecznikiem Finansowym (Dz. U. poz. 92), które utraciło moc z dniem 10 stycznia 2017 r. w związku z wejściem w życie ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich (Dz. U. poz. 1823).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 stycznia 2016 r. w sprawie pozasądowego postępowania przed Rzecznikiem Finansowym (Dz. U. poz. 92), które utraciło moc z dniem 10 stycznia 2017 r. w związku z wejściem w życie ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich (Dz. U. poz. 1823). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 stycznia 2016 r. w sprawie pozasądowego postępowania przed Rzecznikiem Finansowym (Dz. U. poz. 92), które utraciło moc z dniem 10 stycznia 2017 r. w związku z wejściem w życie ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich (Dz. U. poz. 1823).
 

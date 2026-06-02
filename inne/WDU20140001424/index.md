@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-10-03 |
 | Data wydania | 2014-10-21 |
-| Wejście w życie | 2014-10-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001424) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1424/text.pdf) |
 
@@ -39,5 +38,5 @@ w przypadku powiadamiania podmiotu prowadzącego system płatności lub system r
 § 2.
 Przekazanie powiadomienia w sposób, o którym mowa w § 1, uznaje się za skuteczne z chwilą uzyskania potwierdzenia jego odbioru oraz treści przekazanych informacji.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 29 lipca 2003 r. w sprawie określenia sposobów powiadamiania Narodowego Banku Polskiego, Komisji Papierów Wartościowych i Giełd oraz podmiotów prowadzących system płatności lub system rozrachunku papierów wartościowych (Dz. U. Nr 141, poz. 1356), które utraciło moc z dniem 8 kwietnia 2014 r., zgodnie z art. 36 ust. 2 ustawy z dnia 12 lipca 2013 r. o zmianie ustawy o usługach płatniczych oraz niektórych innych ustaw (Dz. U. poz. 1036). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 29 lipca 2003 r. w sprawie określenia sposobów powiadamiania Narodowego Banku Polskiego, Komisji Papierów Wartościowych i Giełd oraz podmiotów prowadzących system płatności lub system rozrachunku papierów wartościowych (Dz. U. Nr 141, poz. 1356), które utraciło moc z dniem 8 kwietnia 2014 r., zgodnie z art. 36 ust. 2 ustawy z dnia 12 lipca 2013 r. o zmianie ustawy o usługach płatniczych oraz niektórych innych ustaw (Dz. U. poz. 1036).
 

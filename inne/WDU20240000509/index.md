@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 22 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie nadania statutu Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej
+# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 22 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie nadania statutu Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 | Pole | Wartość |
 |---|---|
@@ -32,27 +32,22 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Środowiska z dnia 7 grudnia 2010 r. w sprawie nadania statutu Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej (Dz. U. poz. 1609), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Klimatu z dnia 14 maja 2020 r. zmieniającym rozporządzenie w sprawie nadania statutu Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej (Dz. U. poz. 890).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu z dnia 14 maja 2020 r. zmieniającego rozporządzenie w sprawie nadania statutu Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej (Dz. U. poz. 890), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu z dnia 14 maja 2020 r. zmieniającego rozporządzenie w sprawie nadania statutu Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej (Dz. U. poz. 890), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
-Załącznik – Rozporządzenie Ministra Środowiska z dnia 7 grudnia 2010 r. w sprawie nadania statutu Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
+Załącznik – Rozporządzenie Ministra Środowiska z dnia 7 grudnia 2010 r. w sprawie nadania statutu Narodowemu Funduszowi Ochrony Środowiska i Gospodarki WodnejNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 Na podstawie art. 400o ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54) zarządza się, co następuje:
 § 1.
 Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej nadaje się statut, stanowiący załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2011 r.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 21 czerwca 2002 r. w sprawie nadania statutu Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej (Dz. U. poz. 865), które na podstawie art. 21 ust. 2 ustawy z dnia 20 listopada 2009 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1664) utraciło moc z dniem 31 grudnia 2010 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2011 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 21 czerwca 2002 r. w sprawie nadania statutu Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej (Dz. U. poz. 865), które na podstawie art. 21 ust. 2 ustawy z dnia 20 listopada 2009 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1664) utraciło moc z dniem 31 grudnia 2010 r. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 21 czerwca 2002 r. w sprawie nadania statutu Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej (Dz. U. poz. 865), które na podstawie art. 21 ust. 2 ustawy z dnia 20 listopada 2009 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1664) utraciło moc z dniem 31 grudnia 2010 r.
 Załącznik – Statut Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej
 Postanowienia ogólne
 § 1.
 1.
 Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej, zwany dalej „Narodowym Funduszem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54), zwanej dalej „ustawą”, oraz niniejszego statutu.
 2.
-Siedzibą Narodowego Funduszu jest miasto stołeczne Warszawa.
-Organizacja wewnętrzna Narodowego Funduszu
+Siedzibą Narodowego Funduszu jest miasto stołeczne Warszawa. Organizacja wewnętrzna Narodowego Funduszu
 § 2.
 1.
 Zarząd Narodowego Funduszu, zwany dalej „Zarządem”, nadzoruje realizację zadań wykonywanych przez podległe komórki organizacyjne Biura Narodowego Funduszu.
@@ -75,8 +70,7 @@ Samodzielne stanowisko pracy może być jednoosobowe albo wieloosobowe.
 6.
 Nazwę, skład oraz szczegółowy zakres zadań komórek organizacyjnych określa Zarząd w regulaminie organizacyjnym Biura Narodowego Funduszu.
 7.
-Zasady zastępowania Prezesa Zarządu i zastępców Prezesa Zarządu określa Zarząd w regulaminie pracy Zarządu.
-Tryb działania organów Narodowego Funduszu
+Zasady zastępowania Prezesa Zarządu i zastępców Prezesa Zarządu określa Zarząd w regulaminie pracy Zarządu. Tryb działania organów Narodowego Funduszu
 § 3.
 1.
 Organy Narodowego Funduszu działają, podejmując uchwały na posiedzeniach albo w trybie pisemnym, albo z wykorzystaniem środków bezpośredniego porozumiewania się na odległość pozwalających na identyfikację osób biorących udział w głosowaniu.
@@ -89,7 +83,7 @@ Z posiedzeń organów Narodowego Funduszu oraz z podejmowania uchwał w trybie p
 5.
 Protokół powinien odzwierciedlać przebieg czynności podejmowanych w trakcie posiedzenia lub głosowania w trybach, o których mowa w § 4 ust. 1. Jeżeli czynności protokołowane utrwala się za pomocą urządzenia rejestrującego obraz lub dźwięk, protokół można ograniczyć do zapisu istotnych wypowiedzi osób biorących w nich udział. Elektroniczny nośnik zapisu obrazu lub dźwięku, a także pisemny zapis dźwięku stają się załącznikami do protokołu. Do protokołu mogą być dołączone dokumenty stanowiące podstawę podjętych uchwał. Protokoły, wraz z załącznikami, przechowuje się w Biurze Narodowego Funduszu.
 § 4.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Klimatu z dnia 14 maja 2020 r. zmieniającego rozporządzenie w sprawie nadania statutu Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej (Dz. U. poz. 890), które weszło w życie z dniem 20 maja 2020 r..
 Podejmowanie uchwał w trybie pisemnym albo z wykorzystaniem środków bezpośredniego porozumiewania się na odległość może być zarządzone, jeżeli jest konieczne pilne podjęcie uchwały przed najbliższym wyznaczonym terminem posiedzenia organu, lub odbycie posiedzenia zgodnie z § 8 ust. 1 lub § 14 ust. 1 jest niemożliwe albo znacząco utrudnione, w szczególności ze względu na ogłoszony na obszarze Rzeczypospolitej Polskiej stan zagrożenia epidemicznego lub stan epidemii, lub ze względu na wprowadzony na tym obszarze stan nadzwyczajny.
 2.
 Przepisu ust. 1 nie stosuje się do podejmowania uchwał w głosowaniu tajnym.
@@ -99,14 +93,13 @@ Członek organu Narodowego Funduszu zgłasza do protokołu i informuje pozostał
 2.
 Konflikt interesów zachodzi w sytuacji, w której skutki podejmowanej uchwały dotyczą pośrednio lub bezpośrednio interesu majątkowego lub osobistego członka organu.
 3.
-Głosu członka organu Narodowego Funduszu powstrzymującego się od głosowania nie wlicza się do kworum.
-Rada Nadzorcza
+Głosu członka organu Narodowego Funduszu powstrzymującego się od głosowania nie wlicza się do kworum. Rada Nadzorcza
 § 6.
 Rada Nadzorcza Narodowego Funduszu, zwana dalej „Radą”, może ze swego grona wyłaniać komisje, określając ich zadania, polegające w szczególności na pisemnym sporządzeniu opinii lub opracowaniu stanowiska w konkretnych sprawach. Termin i formę realizacji zadania określa Rada Nadzorcza w uchwale o wyłonieniu komisji.
 § 7.
 W przypadku nieobecności Przewodniczącego Rady Nadzorczej, zwanego dalej „Przewodniczącym”, lub czasowej niemożności sprawowania przez niego funkcji jego kompetencje wykonuje wiceprzewodniczący.
 § 8.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3..
 Posiedzenia Rady odbywają się co najmniej raz w miesiącu, chyba że odbycie posiedzenia jest niemożliwe albo znacząco utrudnione, w szczególności ze względu na ogłoszony na obszarze Rzeczypospolitej Polskiej stan zagrożenia epidemicznego lub stan epidemii, lub ze względu na wprowadzony na tym obszarze stan nadzwyczajny.
 2.
 Posiedzenia Rady zwołuje Przewodniczący z własnej inicjatywy, na pisemny wniosek 3 członków Rady albo na pisemny wniosek Zarządu.
@@ -121,7 +114,7 @@ W przypadkach, o których mowa w ust. 4, projekty uchwał, wraz z zawiadomieniem
 7.
 Członek Rady wykonuje swoje funkcje osobiście.
 8.
-Członek Rady za zgodą Przewodniczącego może brać udział w podejmowaniu uchwał na posiedzeniach, oddając swój głos na piśmie za pośrednictwem innego członka Rady lub za pośrednictwem operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467). Głosy oddane w sposób określony w zdaniu pierwszym doręcza się Przewodniczącemu przed rozpoczęciem posiedzenia; głosy doręczone po terminie, o którym mowa w zdaniu drugim, uważa się za nieoddane, a głosu członka Rady, którego nie doręczono w terminie, nie wlicza się do kworum.
+Członek Rady za zgodą Przewodniczącego może brać udział w podejmowaniu uchwał na posiedzeniach, oddając swój głos na piśmie za pośrednictwem innego członka Rady lub za pośrednictwem operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467).Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. Głosy oddane w sposób określony w zdaniu pierwszym doręcza się Przewodniczącemu przed rozpoczęciem posiedzenia; głosy doręczone po terminie, o którym mowa w zdaniu drugim, uważa się za nieoddane, a głosu członka Rady, którego nie doręczono w terminie, nie wlicza się do kworum.
 9.
 Oddanie głosu w sposób, o którym mowa w ust. 8, nie dotyczy spraw wprowadzonych do porządku obrad na posiedzeniu, spraw, o których mowa w § 11 ust. 2, oraz głosowań tajnych, o których mowa w § 11 ust. 3, a także uchwał, które, w wyniku głosowań, uległy zmianie na posiedzeniu Rady, z wyłączeniem zmian dotyczących oczywistych błędów rachunkowych i pisarskich.
 10.
@@ -147,7 +140,7 @@ Przepis ust. 1 stosuje się odpowiednio do podejmowania uchwał z wykorzystaniem
 § 11.
 1.
 Uchwały Rady są podejmowane bezwzględną większością głosów w głosowaniu jawnym, z zastrzeżeniem ust. 2 i 3, z udziałem co najmniej 6 członków Rady; uchwałę podpisuje Przewodniczący, z zastrzeżeniem § 7.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3..
 Uchwały Rady w sprawie wniosków do ministra właściwego do spraw klimatu o powołanie lub odwołanie członków Zarządu są podejmowane w głosowaniu tajnym.
 3.
 Na wniosek członka Rady Przewodniczący może zarządzić głosowanie tajne albo imienne, a także zarządzić poufność obrad, ustalając jednocześnie zakres poufności.
@@ -163,19 +156,18 @@ W przypadku zmian w projekcie uchwały, głosowaniu jest poddawana każda propoz
 Zmiana treści dokumentów zatwierdzanych przez Radę na podstawie art. 400h ust. 1 pkt 2–4 i ust. 2 pkt 8 i 9 ustawy może nastąpić po wyrażeniu zgody na daną zmianę przez Zarząd.
 9.
 Jeżeli wynik głosowania lub ustalenia podjętej na posiedzeniu uchwały budzą wątpliwości, na wniosek członka Rady możliwa jest reasumpcja głosowania na tym samym posiedzeniu; o dopuszczalności reasumpcji głosowania rozstrzyga Rada.
-§ 12.
+§ 12W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3..
 1.
 Przewodniczący przedkłada ministrowi właściwemu do spraw klimatu uchwałę Rady, wraz z dokumentami stanowiącymi podstawę jej podjęcia, a w przypadku uchwał podejmowanych z inicjatywy Rady – również wraz z uzasadnieniem uchwały, a także przedkłada listę członków Rady, którzy uczestniczyli w głosowaniu, z zaznaczeniem trybu oddania głosu.
 2.
-W przypadku zgłoszenia do uchwały zdania odrębnego, o którym mowa w § 11 ust. 4 i 5, Przewodniczący informuje o tym ministra właściwego do spraw klimatu, przedkładając uchwałę. Minister właściwy do spraw klimatu może zażądać od Przewodniczącego kopii pisemnego uzasadnienia zdania odrębnego lub kopii protokołu zawierającego uzasadnienie zdania odrębnego.
-Zarząd
+W przypadku zgłoszenia do uchwały zdania odrębnego, o którym mowa w § 11 ust. 4 i 5, Przewodniczący informuje o tym ministra właściwego do spraw klimatu, przedkładając uchwałę. Minister właściwy do spraw klimatu może zażądać od Przewodniczącego kopii pisemnego uzasadnienia zdania odrębnego lub kopii protokołu zawierającego uzasadnienie zdania odrębnego. Zarząd
 § 13.
 1.
 Członek Zarządu wykonuje swoje funkcje osobiście.
 2.
 Zarząd realizuje zadania, o których mowa w ustawie, oraz prowadzi bieżącą działalność Narodowego Funduszu.
 § 14.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3..
 Posiedzenia Zarządu są zwoływane przez Prezesa Zarządu z własnej inicjatywy albo na pisemny wniosek co najmniej połowy członków Zarządu, nie rzadziej niż 2 razy w miesiącu, chyba że odbycie posiedzenia jest niemożliwe albo znacząco utrudnione, w szczególności ze względu na ogłoszony na obszarze Rzeczypospolitej Polskiej stan zagrożenia epidemicznego lub stan epidemii, lub ze względu na wprowadzony na tym obszarze stan nadzwyczajny. W przypadku nieobecności Prezesa Zarządu posiedzenie zwołuje zastępujący go członek Zarządu.
 2.
 Zawiadomienia o terminie i miejscu posiedzenia Zarządu, wraz z porządkiem obrad, projektami uchwał, dokumentami stanowiącymi podstawę do ich podjęcia i innymi materiałami, są doręczane członkom Zarządu co najmniej na 3 dni przed terminem posiedzenia.
@@ -203,14 +195,12 @@ Członek Zarządu głosujący na posiedzeniu przeciwko podjęciu uchwały może 
 6.
 Członek Zarządu nie bierze udziału w głosowaniu w sprawach jego dotyczących.
 § 16.
-Do prac Zarządu ustalenia przepisów § 8 ust. 4 i 6, § 9 ust. 4 oraz § 11 ust. 4–6 i 9 stosuje się odpowiednio.
-Udzielanie pełnomocnictw
+Do prac Zarządu ustalenia przepisów § 8 ust. 4 i 6, § 9 ust. 4 oraz § 11 ust. 4–6 i 9 stosuje się odpowiednio. Udzielanie pełnomocnictw
 § 17.
 1.
 Pełnomocnictwa są udzielane przez Prezesa Zarządu w formie pisemnej.
 2.
-Zarząd może udzielić pełnomocnictwa do wykonywania czynności niedotyczących spraw majątkowych Narodowego Funduszu.
-Przepis przejściowy
+Zarząd może udzielić pełnomocnictwa do wykonywania czynności niedotyczących spraw majątkowych Narodowego Funduszu. Przepis przejściowy
 § 18.
-Uchwały Rady podjęte przed dniem wejścia w życie niniejszego statutu nie wymagają uzasadnienia.
+Uchwały Rady podjęte przed dniem wejścia w życie niniejszego statutu nie wymagają uzasadnienia. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Klimatu z dnia 14 maja 2020 r. zmieniającego rozporządzenie w sprawie nadania statutu Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej (Dz. U. poz. 890), które weszło w życie z dniem 20 maja 2020 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 5) Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 7) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 8) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 

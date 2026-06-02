@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 18 maja 2016 r. w sprawie egzaminów na maklera papierów wartościowych i doradcę inwestycyjnego oraz sprawdzianu umiejętności
+# Rozporządzenie Ministra Finansówz dnia 18 maja 2016 r. w sprawie egzaminów na maklera papierów wartościowych i doradcę inwestycyjnego oraz sprawdzianu umiejętności Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-05-18 |
 | Data wydania | 2016-05-25 |
-| Wejście w życie | 2016-05-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000707) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/707/text.pdf) |
 
@@ -33,7 +32,7 @@ Treść rozporządzenia
 ## Załącznik nr 2 — – Regulamin przeprowadzania sprawdzianu umiejętności
 
 Treść rozporządzenia
-Na podstawie art. 128 ust. 11 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2014 r. poz. 94, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 128 ust. 11 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2014 r. poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 586, z 2015 r. poz. 73, 978, 1045, 1223, 1260, 1348, 1505, 1513, 1634, 1844 i 1890 oraz z 2016 r. poz. 65 i 615.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -194,11 +193,9 @@ Do wniosków, o których mowa w:
 1)
 § 3 ust. 1 rozporządzenia Ministra Finansów z dnia 27 października 2009 r. w sprawie egzaminów na maklera papierów wartościowych, doradcę inwestycyjnego i agenta firmy inwestycyjnej oraz sprawdzianu umiejętności (Dz. U. poz. 1452),
 2)
-regulaminach, o których mowa w § 4 rozporządzenia wymienionego w pkt 1
-złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
+regulaminach, o których mowa w § 4 rozporządzenia wymienionego w pkt 1 – złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 586, z 2015 r. poz. 73, 978, 1045, 1223, 1260, 1348, 1505, 1513, 1634, 1844 i 1890 oraz z 2016 r. poz. 65 i 615. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 października 2009 r. w sprawie egzaminów na maklera papierów wartościowych, doradcę inwestycyjnego i agenta firmy inwestycyjnej oraz sprawdzianu umiejętności (Dz. U. poz. 1452), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 37 ust. 1 ustawy z dnia 5 sierpnia 2015 r. o zmianie ustaw regulujących warunki dostępu do wykonywania niektórych zawodów (Dz. U. poz. 1505).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 października 2009 r. w sprawie egzaminów na maklera papierów wartościowych, doradcę inwestycyjnego i agenta firmy inwestycyjnej oraz sprawdzianu umiejętności (Dz. U. poz. 1452), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 37 ust. 1 ustawy z dnia 5 sierpnia 2015 r. o zmianie ustaw regulujących warunki dostępu do wykonywania niektórych zawodów (Dz. U. poz. 1505). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 586, z 2015 r. poz. 73, 978, 1045, 1223, 1260, 1348, 1505, 1513, 1634, 1844 i 1890 oraz z 2016 r. poz. 65 i 615. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 października 2009 r. w sprawie egzaminów na maklera papierów wartościowych, doradcę inwestycyjnego i agenta firmy inwestycyjnej oraz sprawdzianu umiejętności (Dz. U. poz. 1452), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 37 ust. 1 ustawy z dnia 5 sierpnia 2015 r. o zmianie ustaw regulujących warunki dostępu do wykonywania niektórych zawodów (Dz. U. poz. 1505).
 
 ## Załącznik nr 1 — – Regulamin przeprowadzania egzaminu na maklera papierów wartościowych i doradcę inwestycyjnego
 

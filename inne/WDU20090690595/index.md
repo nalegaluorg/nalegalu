@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 2 kwietnia 2009 r. o zmianie ustawy o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych oraz niektórych innych ustaw
+# Ustawa z dnia 2 kwietnia 2009 r. o zmianie ustawy o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych, ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy oraz ustawę z dnia 13 lipca 2006 r. o dokumentach paszportowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-04-02 |
 | Data wydania | 2009-05-07 |
-| Wejście w życie | 2009-05-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090690595) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/595/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 lipca 2001 r. o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych (Dz. U. z 2006 r. Nr 216, poz. 1585, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 lipca 2001 r. o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych (Dz. U. z 2006 r. Nr 216, poz. 1585, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 220, poz. 1600, z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170 oraz z 2008 r. Nr 157, poz. 976.) wprowadza się następujące zmiany:
 
 - **1)** w art. 15 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
@@ -42,7 +41,7 @@ source: "eli-html"
 - **3)** w art. 20 w ust. 1: pkt 1 i 2 otrzymują brzmienie: „
     - **a)**
 
-- **1)** organy administracji rządowej lub organy samorządu terytorialnego właściwe w sprawach ewidencji ludności, Powszechnego Elektronicznego Systemu Ewidencji Ludności, ewidencji paszportowych, ewidencji wydanych i unieważnionych dowodów osobistych, ewidencji wojskowej, o której mowa w art. 49 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z późn. zm.), centralnej ewidencji pojazdów, centralnej ewidencji kierowców, rejestracji pojazdów, rejestru cywilnych statków powietrznych, rejestru administracyjnego polskich statków żeglugi śródlądowej, polskiego rejestru jachtów, polskiego rejestru okrętowego, nadzoru geodezyjnego i kartograficznego, administracji geodezyjnej i kartograficznej, ewidencji gruntów i budynków, rejestracji stanu cywilnego, publicznej służby zatrudnienia lub pomocy społecznej,
+- **1)** organy administracji rządowej lub organy samorządu terytorialnego właściwe w sprawach ewidencji ludności, Powszechnego Elektronicznego Systemu Ewidencji Ludności, ewidencji paszportowych, ewidencji wydanych i unieważnionych dowodów osobistych, ewidencji wojskowej, o której mowa w art. 49 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 277, poz. 2742, z 2005 r. Nr 180, poz. 1496, z 2006 r. Nr 104, poz. 708 i 711 i Nr 220, poz. 1600, z 2007 r. Nr 107, poz. 732 i Nr 176, poz. 1242, z 2008 r. Nr 171, poz. 1056, Nr 180, poz. 1109, Nr 206, poz. 1288, Nr 208, poz. 1308 i Nr 223, poz. 1458 oraz z 2009 r. Nr 22, poz. 120.), centralnej ewidencji pojazdów, centralnej ewidencji kierowców, rejestracji pojazdów, rejestru cywilnych statków powietrznych, rejestru administracyjnego polskich statków żeglugi śródlądowej, polskiego rejestru jachtów, polskiego rejestru okrętowego, nadzoru geodezyjnego i kartograficznego, administracji geodezyjnej i kartograficznej, ewidencji gruntów i budynków, rejestracji stanu cywilnego, publicznej służby zatrudnienia lub pomocy społecznej,
 - **2)** sądy prowadzące Krajowy Rejestr Sądowy, księgi wieczyste i rejestr zastawów, ” , po pkt 5 dodaje się pkt 5a w brzmieniu: „
     - **b)**
 
@@ -116,19 +115,19 @@ source: "eli-html"
 
 **Art. 30.** Szef Centrum nie przekazuje informacji kryminalnych, jeżeli ich przekazanie mogłoby spowodować identyfikację osób udzielających pomocy przy wykonywaniu czynności operacyjno-rozpoznawczych prowadzonych przez upoważnione do tego podmioty uprawnione. ” .
 
-**Art. 2.** W ustawie z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.) w art. 44h w ust. 1 pkt 2 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056, Nr 195, poz. 1198 i Nr 220, poz. 1414 oraz z 2009 r. Nr 22, poz. 120 i Nr 39, poz. 306.) w art. 44h w ust. 1 pkt 2 otrzymuje brzmienie: „
 
 - **2)** Policji, Straży Granicznej, Służbie Więziennej, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Służbie Celnej, Żandarmerii Wojskowej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Biuru Ochrony Rządu, Centralnemu Biuru Antykorupcyjnemu, Szefowi Krajowego Centrum Informacji Kryminalnych i strażom gminnym (miejskim); ” .
 
-**Art. 3.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2008 r. Nr 50, poz. 291, z późn. zm.) w art. 59 dodaje się ust. 16 w brzmieniu: „ 16. Prezes Kasy współpracuje z Szefem Krajowego Centrum Informacji Kryminalnych w zakresie niezbędnym do realizacji jego zadań ustawowych. ” .
+**Art. 3.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2008 r. Nr 50, poz. 291, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 67, poz. 411, Nr 70, poz. 416, Nr 180, poz. 1112, Nr 227, poz. 1505, Nr 228, poz. 1507 i Nr 237, poz. 1654 i 1656.) w art. 59 dodaje się ust. 16 w brzmieniu: „ 16. Prezes Kasy współpracuje z Szefem Krajowego Centrum Informacji Kryminalnych w zakresie niezbędnym do realizacji jego zadań ustawowych. ” .
 
-**Art. 4.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z późn. zm.) art. 48a otrzymuje brzmienie: „
+**Art. 4.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 157, poz. 1315, Nr 167, poz. 1399 i Nr 175, poz. 1460 i 1462, z 2006 r. Nr 227, poz. 1658 i Nr 245, poz. 1775, z 2007 r. Nr 59, poz. 405, Nr 64, poz. 427 i Nr 181, poz. 1286, z 2008 r. Nr 163, poz. 1011 i Nr 199, poz. 1227 oraz z 2009 r. Nr 18, poz. 97 i Nr 42, poz. 340.) art. 48a otrzymuje brzmienie: „
 
 **Art. 48a.** Dyrektor Generalny Lasów Państwowych, dyrektorzy regionalnych dyrekcji Lasów Państwowych, nadleśniczowie oraz Główny Inspektor Straży Leśnej współpracują z Szefem Krajowego Centrum Informacji Kryminalnych w zakresie niezbędnym do realizacji jego zadań ustawowych. ” .
 
 **Art. 5.** W ustawie z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. z 2009 r. Nr 67, poz. 569) w art. 36 dodaje się ust. 5 w brzmieniu: „ 5. Sądy współpracują z Szefem Krajowego Centrum Informacji Kryminalnych w zakresie niezbędnym do realizacji jego zadań ustawowych. ” .
 
-**Art. 6.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.) w art. 6 dodaje się ust. 9 w brzmieniu: „ 9. Publiczne służby zatrudnienia współpracują z Szefem Krajowego Centrum Informacji Kryminalnych w zakresie niezbędnym do realizacji jego zadań ustawowych. ” .
+**Art. 6.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33.) w art. 6 dodaje się ust. 9 w brzmieniu: „ 9. Publiczne służby zatrudnienia współpracują z Szefem Krajowego Centrum Informacji Kryminalnych w zakresie niezbędnym do realizacji jego zadań ustawowych. ” .
 
 **Art. 7.** W ustawie z dnia 13 lipca 2006 r. o dokumentach paszportowych (Dz. U. Nr 143, poz. 1027 oraz z 2008 r. Nr 32, poz. 192) w art. 52 w ust. 2 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 i 13 w brzmieniu: „
 
@@ -137,5 +136,5 @@ source: "eli-html"
 
 **Art. 8.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 28 ust. 5 ustawy, o której mowa w art. 1, zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 28 ust. 7 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 8 w części dotyczącej art. 29 ust. 2, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 8 w części dotyczącej art. 29 ust. 2, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych, ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy oraz ustawę z dnia 13 lipca 2006 r. o dokumentach paszportowych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 220, poz. 1600, z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170 oraz z 2008 r. Nr 157, poz. 976. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 277, poz. 2742, z 2005 r. Nr 180, poz. 1496, z 2006 r. Nr 104, poz. 708 i 711 i Nr 220, poz. 1600, z 2007 r. Nr 107, poz. 732 i Nr 176, poz. 1242, z 2008 r. Nr 171, poz. 1056, Nr 180, poz. 1109, Nr 206, poz. 1288, Nr 208, poz. 1308 i Nr 223, poz. 1458 oraz z 2009 r. Nr 22, poz. 120. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056, Nr 195, poz. 1198 i Nr 220, poz. 1414 oraz z 2009 r. Nr 22, poz. 120 i Nr 39, poz. 306. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 67, poz. 411, Nr 70, poz. 416, Nr 180, poz. 1112, Nr 227, poz. 1505, Nr 228, poz. 1507 i Nr 237, poz. 1654 i 1656. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 157, poz. 1315, Nr 167, poz. 1399 i Nr 175, poz. 1460 i 1462, z 2006 r. Nr 227, poz. 1658 i Nr 245, poz. 1775, z 2007 r. Nr 59, poz. 405, Nr 64, poz. 427 i Nr 181, poz. 1286, z 2008 r. Nr 163, poz. 1011 i Nr 199, poz. 1227 oraz z 2009 r. Nr 18, poz. 97 i Nr 42, poz. 340. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33.
 

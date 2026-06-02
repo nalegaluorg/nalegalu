@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-06-06 |
 | Data wydania | 2002-08-28 |
-| Wejście w życie | 2002-09-28 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021351141) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1141/text.pdf) |
+
+Nadzór nad przestrzeganiem przepisów o ochronie zwierząt
 
 **Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. Nr 111, poz. 724, z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 715, z 2000 r. Nr 12, poz. 136 oraz z 2001 r. Nr 3, poz. 21 i Nr 111, poz. 1194) wprowadza się następujące zmiany:
 
@@ -171,8 +172,18 @@ source: "eli-html"
 - **2)** przemawiają za tym względy sanitarne. ” ;
 - **17)** po art. 22 dodaje się art. 22a w brzmieniu: „ Pozyskiwanie zwierząt wolno żyjących (dzikich) w celu tworzenia kolekcji spreparowanych zwłok tych zwierząt wymaga zgody wojewody właściwego ze względu na miejsce tworzenia takiej kolekcji. ” ;
 - **18)** skreśla się art. 23;
-- **19)** w art. 24: w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) transportu zwierząt: a) w okresie okołoporodowym, który odpowiada 10% czasu trwania ciąży danego gatunku przed porodem i 48 godzinom po porodzie, b) młodych do czasu zagojenia pępowiny albo oddzielonych od matek i niezdolnych do przyjmowania stałych pokarmów, ” – w pkt 2 kropkę zastępuje się przecinkiem i dodaje się pkt 3 i 4 w brzmieniu: „ 3) transportu zwierząt jednokopytnych wielopoziomowymi środkami transportu przeznaczonymi do przewozu zwierząt oraz transportu grup koni, których kopyta są podkute, 4) transportu zwierząt chorych oraz rannych lub niesprawnych ruchowo, z wyjątkiem transportu zwierząt: a) do leczenia, b) do uboju sanitarnego, c) przeznaczonych do doświadczeń. ” , po ust. 4 dodaje się ust. 4a-4g w brzmieniu: „
+- **19)** w art. 24: w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** transportu zwierząt: w okresie okołoporodowym, który odpowiada 10% czasu trwania ciąży danego gatunku przed porodem i 48 godzinom po porodzie, młodych do czasu zagojenia pępowiny albo oddzielonych od matek i niezdolnych do przyjmowania stałych pokarmów, ” w pkt 2 kropkę zastępuje się przecinkiem i dodaje się pkt 3 i 4 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **3)** transportu zwierząt jednokopytnych wielopoziomowymi środkami transportu przeznaczonymi do przewozu zwierząt oraz transportu grup koni, których kopyta są podkute,
+- **4)** transportu zwierząt chorych oraz rannych lub niesprawnych ruchowo, z wyjątkiem transportu zwierząt: do leczenia, do uboju sanitarnego, przeznaczonych do doświadczeń. ” , po ust. 4 dodaje się ust. 4a-4g w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
     - **b)**
 
 4a. Wykonywanie zarobkowego transportu drogowego zwierząt może odbywać się wyłącznie przy użyciu środków transportu dopuszczonych do tego celu.
@@ -305,7 +316,7 @@ source: "eli-html"
 
 - **28)** dodaje się rozdział 10a w brzmieniu: „
 
-#### Rozdział 10a Nadzór nad przestrzeganiem przepisów o ochronie zwierząt
+#### Rozdział 10a
 
 **Art. 34a.**
 
@@ -396,14 +407,14 @@ source: "eli-html"
 **Art. 4.** Postępowanie wszczęte przed dniem wejścia w życie ustawy dotyczące wydania zezwolenia na:
 
 - **1)** utrzymywanie psa rasy uznanej za agresywną,
-- **2)** hodowlę zwierząt laboratoryjnych toczy się na podstawie dotychczasowych przepisów.
+- **2)** hodowlę zwierząt laboratoryjnych – toczy się na podstawie dotychczasowych przepisów.
 
 **Art. 5.** Inspekcja Weterynaryjna wykonuje nadzór w zakresie:
 
 - **1)** utrzymywania zwierząt wykorzystywanych do doświadczeń i testów oraz przeprowadzania tych doświadczeń i testów,
 - **2)** utrzymywania i wykorzystywania zwierząt do celów rozrywkowych, widowiskowych, filmowych, sportowych i specjalnych,
 - **3)** tresury zwierząt dla celów widowiskowo-rozrywkowych i obronnych,
-- **4)** utrzymywania zwierząt w ogrodach zoologicznych oraz hodowlach zwierząt zarejestrowanych zgodnie z odrębnymi przepisami od dnia 1 stycznia 2003 r.
+- **4)** utrzymywania zwierząt w ogrodach zoologicznych oraz hodowlach zwierząt zarejestrowanych zgodnie z odrębnymi przepisami – od dnia 1 stycznia 2003 r.
 
 **Art. 6.** Do czasu wydania przepisów wykonawczych przewidzianych w ustawie, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy, zachowują moc dotychczasowe przepisy wykonawcze, jeżeli nie są z nią sprzeczne.
 

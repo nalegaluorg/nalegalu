@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001318) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1318/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu Rozdział 1 – Przepisy ogólne Rozdział 2 – Rynki owoców i warzyw Rozdział 3 – Rynek chmielu Rozdział 4 Rozdział 5 Rozdział 5a Rozdział 6 – Przepisy karne i kary pieniężne Rozdział 7 – Zmiany w przepisach obowiązujących Rozdział 8 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2022 r. poz. 2101), z uwzględnieniem zmian wprowadzonych:
@@ -35,13 +35,13 @@ ustawą z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Ro
 2)
 ustawą z dnia 9 marca 2023 r. o zmianie ustawy o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. poz. 533),
 3)
-ustawą z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 24 maja 2023 r.
+ustawą z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588) oraz zmian wynikających z przepisów ogłoszonych przed dniem 24 maja 2023 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), który stanowi:
-„
+art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), który stanowi: „
+Przepisy ogólne
+Rynki owoców i warzyw
 1.
 W zakresie określonym przepisami Unii Europejskiej, jeżeli ustawa nie stanowi inaczej, zadania i kompetencje właściwego organu państwa członkowskiego wykonuje dyrektor oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, w tym dokonuje powiadomień, przekazuje informacje oraz wydaje decyzje w sprawach:
 1)
@@ -118,13 +118,35 @@ Minister właściwy do spraw rynków rolnych może określić, w drodze rozporz�
 W przypadku stwierdzenia spełniania warunków określonych w art. 164 rozporządzenia nr 1308/2013 oraz w przepisach wydanych na podstawie ust. 2, minister właściwy do spraw rynków rolnych wprowadza, w drodze rozporządzenia, porozumienia, decyzje lub praktyki uzgodnione w ramach uznanej organizacji producentów lub ich zrzeszenia, podając zakres stosowania tych porozumień, decyzji lub praktyk oraz okres, przez jaki mają być stosowane te porozumienia, decyzje lub praktyki, a także obszar gospodarczy, na którym mają być one stosowane, mając na względzie zapewnienie prawidłowego funkcjonowania rynku owoców i warzyw oraz niezakłócania konkurencji na tym rynku, a także biorąc pod uwagę cele, jakich mogą dotyczyć te porozumienia, decyzje lub praktyki.
 Minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informacje, o których mowa w art. 164 ust. 6 rozporządzenia nr 1308/2013.
 (uchylony)
+Rynek chmielu
 (uchylony)
 (uchylony)
 (uchylony)
+Przepisy karne i kary pieniężne
+Zmiany w przepisach obowiązujących
 Art. 41–43.
 (pominięte)
+Przepisy przejściowe i końcowe
 Art. 44–54.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Rynki owoców i warzyw
+
+#### Rozdział 3 – Rynek chmielu
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 5a
+
+#### Rozdział 6 – Przepisy karne i kary pieniężne
+
+#### Rozdział 7 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 8 – Przepisy przejściowe i końcowe
 
 **Art. 169.** Ustawa wchodzi w życie z dniem 15 marca 2023 r., z wyjątkiem:
 
@@ -144,7 +166,7 @@ Art. 44–54.
 
 **Art. 82.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -156,15 +178,13 @@ Art. 44–54.
     - **c)**
     - **d)**
 
-- **2)** (uchylony)
-
-1a. Przepisy ustawy nie mają zastosowania do programów operacyjnych innych niż objęte przepisami art. 5 ust. 4 i ust. 6 akapit pierwszy lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2117 z dnia 2 grudnia 2021 r. zmieniającego rozporządzenia (UE) nr 1308/2013 ustanawiające wspólną organizację rynków produktów rolnych, (UE) nr 1151/2012 w sprawie systemów jakości produktów rolnych i środków spożywczych, (UE) nr 251/2014 w sprawie definicji, opisu, prezentacji, etykietowania i ochrony oznaczeń geograficznych aromatyzowanych produktów sektora wina i (UE) nr 228/2013 ustanawiające szczególne środki w dziedzinie rolnictwa na rzecz regionów najbardziej oddalonych w Unii Europejskiej (Dz. Urz. UE L 435 z 06.12.2021, str. 262).
+- **2)** (uchylony) 1aDodany przez art. 1 pkt 1 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. poz. 533), która weszła w życie z dniem 21 kwietnia 2023 r.. Przepisy ustawy nie mają zastosowania do programów operacyjnych innych niż objęte przepisami art. 5 ust. 4 i ust. 6 akapit pierwszy lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2117 z dnia 2 grudnia 2021 r. zmieniającego rozporządzenia (UE) nr 1308/2013 ustanawiające wspólną organizację rynków produktów rolnych, (UE) nr 1151/2012 w sprawie systemów jakości produktów rolnych i środków spożywczych, (UE) nr 251/2014 w sprawie definicji, opisu, prezentacji, etykietowania i ochrony oznaczeń geograficznych aromatyzowanych produktów sektora wina i (UE) nr 228/2013 ustanawiające szczególne środki w dziedzinie rolnictwa na rzecz regionów najbardziej oddalonych w Unii Europejskiej (Dz. Urz. UE L 435 z 06.12.2021, str. 262).
 
 2. Do organizacji rynków, o których mowa w ust. 1, nie stosuje się przepisów o ochronie konkurencji.
 
 3. Minister właściwy do spraw rynków rolnych ogłosi, w drodze obwieszczenia, wykaz przepisów Unii Europejskiej, o których mowa w ust. 1 pkt 1. (uchylony) Do postępowania w sprawach indywidualnych rozstrzyganych w drodze decyzji administracyjnych stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że ustawa albo przepisy wymienione w art. 1 ust. 1 pkt 1 stanowią inaczej.
 
-#### Rozdział 2 Rynki owoców i warzyw
+#### Rozdział 2
 
 **Art. 5.**
 
@@ -193,17 +213,14 @@ Art. 44–54.
 - **2)** wykaz organizacji producentów tworzących zrzeszenie;
 - **3)** nazwę grupy lub grup produktów określonych w przepisach wydanych na podstawie art. 8 ust. 1 pkt 2, ze względu na które wnioskuje się o uznanie;
 - **4)** informacje o liczbie członków organizacji producentów oraz wartości produktów wytworzonych przez członków organizacji producentów i sprzedanych w okresie odniesienia wskazanym w przepisach wydanych na podstawie art. 8 ust. 1 pkt 2;
-- **5)** numer wnioskodawcy w Krajowym Rejestrze Sądowym;
-- **6)** numer identyfikacyjny nadany wnioskodawcy w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
+- **5)** numer wnioskodawcy w Krajowym Rejestrze Sądowym; 6Dodany przez art. 127 pkt 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), która weszła w życie z dniem 15 marca 2023 r.) numer identyfikacyjny nadany wnioskodawcy w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
 
 2. Do wniosku dołącza się:
 
 - **1)** statut albo umowę organizacji producentów;
 - **2)** umowę o utworzeniu zrzeszenia organizacji producentów określającą przedmiot i zakres jego działania;
 - **3)** kopię decyzji o uznaniu organizacji producentów tworzących zrzeszenie.
-- **4)** (uchylony)
-
-3. Wniosek można składać za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+- **4)** (uchylony) 3Dodany przez art. 127 pkt 2 ustawy, o której mowa w odnośniku 2; wejdzie w życie z dniem 1 stycznia 2024 r.. Wniosek można składać za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
 **Art. 7.**
 
@@ -240,7 +257,7 @@ Art. 44–54.
 - **3)** warunki i wymagania, jakie powinny spełniać plany dochodzenia do uznania,
 - **4)** warunki, zgodnie z którymi organizacja producentów może zlecać zrzeszeniom organizacji producentów lub innym jednostkom organizacyjnym realizację zadań, o których mowa w przepisach Unii Europejskiej,
 - **5)** warunki wypowiedzenia członkostwa w organizacji producentów oraz okres, w którym występujący z organizacji producentów nie będzie mógł przystąpić do wstępnie uznanej grupy producentów w zakresie grupy produktów, w odniesieniu do której dana organizacja producentów została uznana,
-- **6)** maksymalną część produkcji lub produktów kwalifikującą się do sprzedaży przez członków organizacji producentów, po uzyskaniu zgody organizacji producentów, bezpośrednio w ich gospodarstwach lub poza nimi, konsumentom na ich własne potrzeby mając na uwadze prawidłowe funkcjonowanie wstępnie uznanych grup producentów, organizacji producentów i zrzeszeń organizacji producentów oraz wykorzystanie pomocy finansowej i możliwość nadzorowania wydatkowania środków finansowych.
+- **6)** maksymalną część produkcji lub produktów kwalifikującą się do sprzedaży przez członków organizacji producentów, po uzyskaniu zgody organizacji producentów, bezpośrednio w ich gospodarstwach lub poza nimi, konsumentom na ich własne potrzeby – mając na uwadze prawidłowe funkcjonowanie wstępnie uznanych grup producentów, organizacji producentów i zrzeszeń organizacji producentów oraz wykorzystanie pomocy finansowej i możliwość nadzorowania wydatkowania środków finansowych.
 
 1a. Program operacyjny, o którym mowa w rozporządzeniu nr 1308/2013, zawiera co najmniej dwa działania w zakresie ochrony środowiska, o których mowa w ramach krajowych na rzecz działań w zakresie ochrony środowiska dla programów operacyjnych organizacji producentów w sektorze owoców i warzyw, zwanych dalej „ramami krajowymi”, albo co najmniej 10% wydatków poniesionych w ramach tego programu przeznacza się na działania w zakresie ochrony środowiska.
 
@@ -331,28 +348,17 @@ Art. 44–54.
 
 - **2)** zatwierdzenia częściowego programu operacyjnego zrzeszeniu organizacji producentów;
 - **3)** przyznania organizacji producentów albo zrzeszeniu organizacji producentów pomocy finansowej na dofinansowanie funduszu operacyjnego;
-- **4)** corocznego rozliczania środków finansowych, o których mowa w pkt 3;
-- **5)** wymierzania kar administracyjnych, o których mowa w tytule II rozdziału V sekcji 3 rozporządzenia delegowanego Komisji (UE) 2017/891 z dnia 13 marca 2017 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do sektora owoców i warzyw oraz sektora przetworzonych owoców i warzyw, uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do kar, które mają być stosowane w tych sektorach, a także zmieniającego rozporządzenie wykonawcze Komisji (UE) nr 543/2011 (Dz. Urz. UE L 138 z 25.05.2017, str. 4, z późn. zm.), zwanego dalej „rozporządzeniem nr 2017/891”;
-- **6)** (uchylony)
-- **7)** (uchylony)
-- **8)** wyłączenia organizacji producentów lub zrzeszenia organizacji producentów ze wsparcia w ramach programu operacyjnego w kolejnym roku.
-
-1a. W decyzjach, o których mowa w ust. 1 pkt 1 lit. a i pkt 2, wydanych po terminie określonym w art. 7 ust. 2 akapit drugi rozporządzenia wykonawczego Komisji (UE) 2017/892 z dnia 13 marca 2017 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do sektora owoców i warzyw oraz sektora przetworzonych owoców i warzyw (Dz. Urz. UE L 138 z 25.05.2017, str. 1, z późn. zm.) , zwanego dalej „rozporządzeniem nr 2017/892”, rozstrzyga się również o odroczeniu programu operacyjnego.
-
-2. W decyzjach, o których mowa w ust. 1 pkt 3 i 4, określa się kwotę:
-
+- **4)** corocznego rozliczania środków finansowych, o których mowa w pkt 3; 5W brzmieniu ustalonym przez art. 1 pkt 2 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 1.) wymierzania kar administracyjnych, o których mowa w tytule II rozdziału V sekcji 3 rozporządzenia delegowanego Komisji (UE) 2017/891 z dnia 13 marca 2017 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do sektora owoców i warzyw oraz sektora przetworzonych owoców i warzyw, uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do kar, które mają być stosowane w tych sektorach, a także zmieniającego rozporządzenie wykonawcze Komisji (UE) nr 543/2011 (Dz. Urz. UE L 138 z 25.05.2017, str. 4, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 17.08.2018, str. 1, Dz. Urz. UE L 179 z 03.07.2019, str. 27, Dz. Urz. UE L 176 z 05.06.2020, str. 1, Dz. Urz. UE L 205 z 29.06.2020, str. 1, Dz. Urz. UE L 135 z 21.04.2021, str. 4, Dz. Urz. UE L 453 z 17.12.2021, str. 3, Dz. Urz. UE L 281 z 31.10.2022, str. 18 oraz Dz. Urz. UE L 326 z 21.12.2022, str. 6., zwanego dalej „rozporządzeniem nr 2017/891”;
+- **6)** (uchylony)Przez art. 1 pkt 2 lit. a tiret drugie ustawy, o której mowa w odnośniku 1.
+- **7)** (uchylony)Przez art. 1 pkt 2 lit. a tiret drugie ustawy, o której mowa w odnośniku 1.
+- **8)** wyłączenia organizacji producentów lub zrzeszenia organizacji producentów ze wsparcia w ramach programu operacyjnego w kolejnym roku. 1aDodany przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 1.. W decyzjach, o których mowa w ust. 1 pkt 1 lit. a i pkt 2, wydanych po terminie określonym w art. 7 ust. 2 akapit drugi rozporządzenia wykonawczego Komisji (UE) 2017/892 z dnia 13 marca 2017 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do sektora owoców i warzyw oraz sektora przetworzonych owoców i warzyw (Dz. Urz. UE L 138 z 25.05.2017, str. 1, z późn. zm.) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 17.08.2018, str. 9 oraz Dz. Urz. UE L 259 z 06.10.2022, str. 187., zwanego dalej „rozporządzeniem nr 2017/892”, rozstrzyga się również o odroczeniu programu operacyjnego. 2W brzmieniu ustalonym przez art. 1 pkt 2 lit. c ustawy, o której mowa w odnośniku 1.. W decyzjach, o których mowa w ust. 1 pkt 3 i 4, określa się kwotę:
 - **1)** zmniejszenia pomocy finansowej – w przypadkach określonych w: ust. 16 lub art. 61 ust. 3 i 6 rozporządzenia nr 2017/891;
     - **a)**
     - **b)**
 
-- **2)** zwiększenia pomocy finansowej – w przypadku określonym w art. 34 ust. 3 rozporządzenia nr 1308/2013.
-
-2a. Wsparcie, o którym mowa w art. 45 ust. 1 rozporządzenia nr 2017/891, objęte pomocą finansową, o której mowa w ust. 1 pkt 3, ustala się jako kwotę równą cenie zakupu produktu objętego tym wsparciem od producenta, przy czym nie przekracza ono w przypadku produktów:
-
+- **2)** zwiększenia pomocy finansowej – w przypadku określonym w art. 34 ust. 3 rozporządzenia nr 1308/2013. 2aDodany przez art. 1 pkt 2 lit. d ustawy, o której mowa w odnośniku 1.. Wsparcie, o którym mowa w art. 45 ust. 1 rozporządzenia nr 2017/891, objęte pomocą finansową, o której mowa w ust. 1 pkt 3, ustala się jako kwotę równą cenie zakupu produktu objętego tym wsparciem od producenta, przy czym nie przekracza ono w przypadku produktów:
 - **1)** wymienionych w załączniku IV do rozporządzenia nr 2017/891 maksymalnych kwot wsparcia określonych w tym załączniku;
-- **2)** niewymienionych w załączniku IV do rozporządzenia nr 2017/891 maksymalnej wysokości rekompensat określonych w przepisach wydanych na podstawie art. 19 ust. 2 pkt 16.
-
-3. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę organizacji producentów albo zrzeszenia organizacji producentów oblicza, na wniosek tej organizacji albo tego zrzeszenia, roczny pułap pomocy finansowej, o której mowa w ust. 1 pkt 3, w sposób określony w art. 23 ust. 3 zdanie pierwsze rozporządzenia nr 2017/891, z uwzględnieniem okresu referencyjnego stosowanego przy określeniu wartości owoców i warzyw sprzedanych, określonego w przepisach wydanych na podstawie art. 19 ust. 2 pkt 4.
+- **2)** niewymienionych w załączniku IV do rozporządzenia nr 2017/891 maksymalnej wysokości rekompensat określonych w przepisach wydanych na podstawie art. 19 ust. 2 pkt 16. 3W brzmieniu ustalonym przez art. 1 pkt 2 lit. e ustawy, o której mowa w odnośniku 1.. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę organizacji producentów albo zrzeszenia organizacji producentów oblicza, na wniosek tej organizacji albo tego zrzeszenia, roczny pułap pomocy finansowej, o której mowa w ust. 1 pkt 3, w sposób określony w art. 23 ust. 3 zdanie pierwsze rozporządzenia nr 2017/891, z uwzględnieniem okresu referencyjnego stosowanego przy określeniu wartości owoców i warzyw sprzedanych, określonego w przepisach wydanych na podstawie art. 19 ust. 2 pkt 4.
 
 4. Pomoc, o której mowa w ust. 1 pkt 3, może być wypłacana w częściach.
 
@@ -360,13 +366,9 @@ Art. 44–54.
 
 - **1)** 30 kwietnia – za pierwszy kwartał roku;
 - **2)** 31 lipca – za drugi kwartał roku;
-- **3)** 31 października – za trzeci kwartał roku.
+- **3)** 31 października – za trzeci kwartał roku. 6W brzmieniu ustalonym przez art. 1 pkt 2 lit. f ustawy, o której mowa w odnośniku 1.. Dyrektor oddziału regionalnego Agencji monitoruje sposób wdrażania przez organizacje producentów i ich zrzeszenia strategii krajowej w programach operacyjnych.
 
-6. Dyrektor oddziału regionalnego Agencji monitoruje sposób wdrażania przez organizacje producentów i ich zrzeszenia strategii krajowej w programach operacyjnych.
-
-7. Odwołanie od decyzji, o których mowa w ust. 1 pkt 1–4, nie wstrzymuje ich wykonania.
-
-8. Do egzekucji należności wynikających z decyzji, o których mowa w ust. 1 pkt 5, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
+7. Odwołanie od decyzji, o których mowa w ust. 1 pkt 1–4, nie wstrzymuje ich wykonania. 8W brzmieniu ustalonym przez art. 1 pkt 2 lit. g ustawy, o której mowa w odnośniku 1.. Do egzekucji należności wynikających z decyzji, o których mowa w ust. 1 pkt 5, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
 
 9. Wnioski o wydanie decyzji, o których mowa w ust. 1 pkt 1–4, zawierają:
 
@@ -391,29 +393,26 @@ Art. 44–54.
 
 14. Organizacje producentów i zrzeszenia organizacji producentów prowadzą rachunkowość w sposób umożliwiający:
 
-- **1)** identyfikację każdego wydatku i przychodu związanego z funduszem operacyjnym w ramach poszczególnych działań określonych w programie operacyjnym;
-- **2)** identyfikację w systemie księgowym sprzedaży przez organizację producentów i zrzeszenie organizacji producentów produktów pochodzących od członków oraz podmiotów niebędących członkami, z grupy produktów, ze względu na którą dana organizacja producentów albo zrzeszenie organizacji producentów zostały uznane.
+- **1)** identyfikację każdego wydatku i przychodu związanego z funduszem operacyjnym w ramach poszczególnych działań określonych w programie operacyjnym; 2W brzmieniu ustalonym przez art. 1 pkt 2 lit. h ustawy, o której mowa w odnośniku 1.) identyfikację w systemie księgowym sprzedaży przez organizację producentów i zrzeszenie organizacji producentów produktów pochodzących od członków oraz podmiotów niebędących członkami, z grupy produktów, ze względu na którą dana organizacja producentów albo zrzeszenie organizacji producentów zostały uznane.
 
 15. Wydatki na działania ujęte w programie operacyjnym mogą zostać zwiększone nie więcej niż o 20% bez konieczności wcześniejszego ich zatwierdzania, jeżeli:
 
 - **1)** nastąpi jednoczesne obniżenie wydatków na inne działania;
-- **2)** nie zostanie przekroczona zatwierdzona wysokość funduszu operacyjnego.
-
-16. Jeżeli w roku realizacji programu operacyjnego organizacja producentów albo zrzeszenie organizacji producentów wykorzystuje środki funduszu operacyjnego niezgodnie z art. 32 ust. 2 rozporządzenia nr 1308/2013, kwotę pomocy finansowej za ten rok zmniejsza się o wysokość środków z funduszu operacyjnego, wykorzystanych niezgodnie z art. 32 ust. 2 rozporządzenia nr 1308/2013, maksymalnie do wartości 5% kwoty pomocy finansowej przyznanej na ten rok.
+- **2)** nie zostanie przekroczona zatwierdzona wysokość funduszu operacyjnego. 16Dodany przez art. 1 pkt 2 lit. i ustawy, o której mowa w odnośniku 1.. Jeżeli w roku realizacji programu operacyjnego organizacja producentów albo zrzeszenie organizacji producentów wykorzystuje środki funduszu operacyjnego niezgodnie z art. 32 ust. 2 rozporządzenia nr 1308/2013, kwotę pomocy finansowej za ten rok zmniejsza się o wysokość środków z funduszu operacyjnego, wykorzystanych niezgodnie z art. 32 ust. 2 rozporządzenia nr 1308/2013, maksymalnie do wartości 5% kwoty pomocy finansowej przyznanej na ten rok.
 
 1. Prezes Agencji oblicza, w sposób określony w art. 8a ust. 2 akapit drugi rozporządzenia nr 2017/892, odsetek produkcji owoców i warzyw, o którym mowa w tym przepisie, sprzedanej przez organizacje producentów oraz udostępnia informację o tym odsetku na stronie internetowej Agencji w terminie do dnia 30 listopada każdego roku.
 
 2. Odsetek produkcji owoców i warzyw, o którym mowa w art. 8a ust. 2 akapit drugi rozporządzenia nr 2017/892, sprzedanej przez organizacje producentów jest wykorzystywany na potrzeby:
 
 - **1)** zatwierdzania funduszy operacyjnych oraz programów operacyjnych organizacji producentów i zrzeszeniu organizacji producentów,
-- **2)** obliczania wartości pomocy finansowej w odniesieniu do funduszu operacyjnego zatwierdzonego na rok następujący po roku udostępnienia na stronie internetowej Agencji informacji o odsetku produkcji owoców i warzyw.
+- **2)** obliczania wartości pomocy finansowej w odniesieniu do funduszu operacyjnego zatwierdzonego – na rok następujący po roku udostępnienia na stronie internetowej Agencji informacji o odsetku produkcji owoców i warzyw.
 
 3. W obliczeniu, o którym mowa w ust. 1, wykorzystuje się dane dostępne w terminie sporządzania tego obliczenia zawarte w rocznym sprawozdaniu, o którym mowa w art. 54 lit. b rozporządzenia nr 2017/891, oraz dane dostępne w terminie sporządzania tego obliczenia dotyczące towarowej produkcji owoców, warzyw, grzybów oraz ziół na terytorium Rzeczypospolitej Polskiej udostępniane na podstawie przepisów ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2023 r. poz. 773). Jeżeli inwestycja nabyta w ramach realizacji programu operacyjnego jest wykorzystywana niezgodnie z przeznaczeniem określonym w art. 31 ust. 5 akapit pierwszy lit. a rozporządzenia nr 2017/891:
 
 - **1)** w okresie, o którym mowa w art. 31 ust. 5 akapit pierwszy lit. b rozporządzenia nr 2017/891,
-- **2)** w innym okresie – w przypadku gdy w strategii krajowej został określony taki okres na podstawie art. 31 ust. 5 akapit drugi rozporządzenia nr 2017/891 organizacja producentów albo zrzeszenie organizacji producentów zwraca kwotę pomocy finansowej przyznanej na inwestycję wraz z odsetkami naliczanymi zgodnie z art. 67 ust. 1 akapit drugi rozporządzenia nr 2017/891 w wysokości proporcjonalnej do okresu, w którym inwestycja nabyta w ramach realizacji programu operacyjnego była wykorzystywana niezgodnie z przeznaczeniem określonym w art. 31 ust. 5 akapit pierwszy lit. a rozporządzenia nr 2017/891. Jeżeli, w przypadku inwestycji, dla których okres realizacji zobowiązań nie upłynął, organizacja producentów lub jej członek albo zrzeszenie organizacji producentów uniemożliwia dyrektorowi oddziału regionalnego Agencji przeprowadzenie kontroli wykorzystywania inwestycji zgodnie z przeznaczeniem opisanym w zatwierdzonym programie operacyjnym:
+- **2)** w innym okresie – w przypadku gdy w strategii krajowej został określony taki okres na podstawie art. 31 ust. 5 akapit drugi rozporządzenia nr 2017/891 – organizacja producentów albo zrzeszenie organizacji producentów zwraca kwotę pomocy finansowej przyznanej na inwestycję wraz z odsetkami naliczanymi zgodnie z art. 67 ust. 1 akapit drugi rozporządzenia nr 2017/891 w wysokości proporcjonalnej do okresu, w którym inwestycja nabyta w ramach realizacji programu operacyjnego była wykorzystywana niezgodnie z przeznaczeniem określonym w art. 31 ust. 5 akapit pierwszy lit. a rozporządzenia nr 2017/891. Jeżeli, w przypadku inwestycji, dla których okres realizacji zobowiązań nie upłynął, organizacja producentów lub jej członek albo zrzeszenie organizacji producentów uniemożliwia dyrektorowi oddziału regionalnego Agencji przeprowadzenie kontroli wykorzystywania inwestycji zgodnie z przeznaczeniem opisanym w zatwierdzonym programie operacyjnym:
 - **1)** w okresie, o którym mowa w art. 31 ust. 5 akapit pierwszy lit. b rozporządzenia nr 2017/891,
-- **2)** w innym okresie – w przypadku gdy w strategii krajowej został określony taki okres na podstawie art. 31 ust. 5 akapit drugi rozporządzenia nr 2017/891 organizacja producentów albo zrzeszenie organizacji producentów zwraca 100% otrzymanej pomocy finansowej na te inwestycje wraz z odsetkami naliczanymi zgodnie z art. 67 ust. 1 akapit drugi rozporządzenia nr 2017/891. Kwotę pomocy podlegającą zwrotowi, o której mowa w art. 9c i art. 9d, ustala w drodze decyzji dyrektor oddziału regionalnego Agencji.
+- **2)** w innym okresie – w przypadku gdy w strategii krajowej został określony taki okres na podstawie art. 31 ust. 5 akapit drugi rozporządzenia nr 2017/891 – organizacja producentów albo zrzeszenie organizacji producentów zwraca 100% otrzymanej pomocy finansowej na te inwestycje wraz z odsetkami naliczanymi zgodnie z art. 67 ust. 1 akapit drugi rozporządzenia nr 2017/891. Kwotę pomocy podlegającą zwrotowi, o której mowa w art. 9c i art. 9d, ustala w drodze decyzji dyrektor oddziału regionalnego Agencji.
 
 **Art. 10.** W zakresie określonym przepisami Unii Europejskiej Prezes Agencji:
 
@@ -474,28 +473,23 @@ Art. 44–54.
 - **3)** (uchylony)
 - **4)** (uchylony)
 - **5)** (uchylony)
-- **6)** przeprowadza kontrole w zakresie: spełnienia przez jednostki organizacyjne lub osoby fizyczne, o których mowa w pkt 1 lit. a i b, warunków uznania, sposobu zagospodarowania przez jednostki organizacyjne lub osoby fizyczne, o których mowa w pkt 1 lit. a oraz b, owoców i warzyw nieprzeznaczonych do sprzedaży, realizacji przez organizacje producentów i ich zrzeszenia wycofywania z rynku produktów zgodnie z tytułem II rozdziału III sekcją 5 rozporządzenia nr 2017/891.
+- **6)** przeprowadza kontrole w zakresie: spełnienia przez jednostki organizacyjne lub osoby fizyczne, o których mowa w pkt 1 lit. a i b, warunków uznania, bW brzmieniu ustalonym przez art. 1 pkt 4 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 1.) sposobu zagospodarowania przez jednostki organizacyjne lub osoby fizyczne, o których mowa w pkt 1 lit. a oraz b, owoców i warzyw nieprzeznaczonych do sprzedaży, cDodana przez art. 1 pkt 4 lit. a tiret drugie ustawy, o której mowa w odnośniku 1.) realizacji przez organizacje producentów i ich zrzeszenia wycofywania z rynku produktów zgodnie z tytułem II rozdziału III sekcją 5 rozporządzenia nr 2017/891.
     - **a)**
-    - **b)**
-    - **c)**
 
 2. Wniosek o wydanie decyzji, o których mowa w ust. 1 pkt 1 lit. a i b, zawiera:
 
 - **1)** nazwę, określenie siedziby i adres jednostki organizacyjnej albo imię i nazwisko oraz adres i miejsce zamieszkania osoby fizycznej;
 - **2)** liczbę zwierząt, dla których jednostki organizacyjne lub osoby fizyczne uprawnione do otrzymania od organizacji producentów i ich zrzeszeń bezpłatnie owoców i warzyw nieprzeznaczonych do sprzedaży będą je przekazywały na paszę;
-- **3)** liczbę osób, którym jednostki organizacyjne uznane za organizacje charytatywne uprawnione do dystrybucji otrzymanych od organizacji producentów i ich zrzeszeń bezpłatnie owoców i warzyw nieprzeznaczonych do sprzedaży będą je przekazywały na cele konsumpcyjne.
-
-2a. Wniosek o wydanie decyzji, o których mowa w ust. 1 pkt 1 lit. a oraz b, składa się na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji.
+- **3)** liczbę osób, którym jednostki organizacyjne uznane za organizacje charytatywne uprawnione do dystrybucji otrzymanych od organizacji producentów i ich zrzeszeń bezpłatnie owoców i warzyw nieprzeznaczonych do sprzedaży będą je przekazywały na cele konsumpcyjne. 2aDodany przez art. 1 pkt 4 lit. b ustawy, o której mowa w odnośniku 1.. Wniosek o wydanie decyzji, o których mowa w ust. 1 pkt 1 lit. a oraz b, składa się na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji.
 
 3. Do wniosku dołącza się:
 
 - **1)** dokumenty wskazujące organy i osoby uprawnione do reprezentowania wnioskodawcy;
 - **2)** statut albo umowę o utworzeniu jednostki organizacyjnej;
 - **3)** zgodę osób zarządzających jednostką organizacyjną lub osoby fizycznej na przeprowadzenie kontroli w zakresie określonym przepisami Unii Europejskiej;
-- **4)** zobowiązanie do: przestrzegania przepisów Unii Europejskiej o nieprzeznaczeniu owoców i warzyw do sprzedaży, prowadzenia odrębnych rejestrów zapasów owoców i warzyw oraz odrębnej rachunkowości dotyczącej działań związanych z zagospodarowaniem owoców i warzyw nieprzeznaczonych do sprzedaży, przekazywania Prezesowi Agencji świadectwa przyjęcia owoców i warzyw nieprzeznaczonych do sprzedaży, (uchylona)
+- **4)** zobowiązanie do: przestrzegania przepisów Unii Europejskiej o nieprzeznaczeniu owoców i warzyw do sprzedaży, prowadzenia odrębnych rejestrów zapasów owoców i warzyw oraz odrębnej rachunkowości dotyczącej działań związanych z zagospodarowaniem owoców i warzyw nieprzeznaczonych do sprzedaży, cW brzmieniu ustalonym przez art. 1 pkt 4 lit. c ustawy, o której mowa w odnośniku 1.) przekazywania Prezesowi Agencji świadectwa przyjęcia owoców i warzyw nieprzeznaczonych do sprzedaży, (uchylona)
     - **a)**
     - **b)**
-    - **c)**
     - **d)**
 
 4. Od decyzji, o której mowa w ust. 1 pkt 1, przysługuje odwołanie do ministra właściwego do spraw rynków rolnych.
@@ -520,8 +514,7 @@ Art. 44–54.
 1. Organizacja producentów albo zrzeszenie organizacji producentów przekazuje dyrektorowi oddziału regionalnego Agencji:
 
 - **1)** informacje o ilości nieprzeznaczonych do sprzedaży owoców i warzyw w poprzednich miesiącach roku handlowego, z podziałem na ich gatunki – w terminie 5 dni roboczych od końca miesiąca, w którym nie przeznaczono owoców i warzyw do sprzedaży;
-- **2)** informacje o zakresie swojej działalności, na formularzu opracowanym przez Agencję, udostępnionym na stronie internetowej Agencji;
-- **3)** informacje o każdej zmianie składu członkowskiego organizacji producentów albo zrzeszenia organizacji producentów – w terminie 14 dni od dnia dokonania zmiany;
+- **2)** informacje o zakresie swojej działalności, na formularzu opracowanym przez Agencję, udostępnionym na stronie internetowej Agencji; 3W brzmieniu ustalonym przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 1.) informacje o każdej zmianie składu członkowskiego organizacji producentów albo zrzeszenia organizacji producentów – w terminie 14 dni od dnia dokonania zmiany;
 - **4)** informacje o zmianach programu operacyjnego wprowadzonych w danym roku jego realizacji, które nie wymagają zatwierdzenia;
 - **5)** corocznie informacje o wartości produktów sprzedanych, jeżeli organizacja producentów nie złożyła wniosku o zatwierdzenie programu operacyjnego;
 - **6)** informacje o szacunkowych kwotach wkładu Unii Europejskiej oraz wkładów członków organizacji lub samej organizacji do funduszu operacyjnego – do dnia 15 września danego roku.
@@ -595,8 +588,7 @@ Art. 44–54.
 
 5. Organizacja producentów albo zrzeszenie organizacji producentów:
 
-- **1)** powiadamia Prezesa Agencji o zamiarze nieprzeznaczenia do sprzedaży owoców i warzyw oraz o planowanym sposobie ich zagospodarowania;
-- **2)** przekazuje Prezesowi Agencji kopię protokołu kontroli owoców i warzyw nieprzeznaczonych do sprzedaży, sporządzonego przez wojewódzkiego inspektora.
+- **1)** powiadamia Prezesa Agencji o zamiarze nieprzeznaczenia do sprzedaży owoców i warzyw oraz o planowanym sposobie ich zagospodarowania; 2W brzmieniu ustalonym przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 1.) przekazuje Prezesowi Agencji kopię protokołu kontroli owoców i warzyw nieprzeznaczonych do sprzedaży, sporządzonego przez wojewódzkiego inspektora.
 - **3)** (uchylony)
 
 6. (uchylony)
@@ -692,7 +684,7 @@ Art. 44–54.
 - **2)** kryteria wpisu do bazy danych, o której mowa w art. 15 ust. 7 pkt 2, mając na względzie obowiązujące w tym zakresie przepisy Unii Europejskiej.
 - **3)** (uchylony) (uchylony) (uchylony) (uchylony)
 
-#### Rozdział 3 Rynek chmielu
+#### Rozdział 3
 
 **Art. 20.**
 
@@ -762,7 +754,7 @@ Art. 44–54.
 
 #### Rozdział 5a
 
-#### Rozdział 6 Przepisy karne i kary pieniężne
+#### Rozdział 6
 
 **Art. 40.**
 
@@ -782,7 +774,7 @@ Art. 44–54.
 - **3)** (uchylony)
 - **4)** będąc producentem chmielu nienależącym do grupy albo uznanej organizacji producentów chmielu, albo będąc upoważnionym do reprezentowania grupy albo uznanej organizacji producentów chmielu, przekazuje wojewódzkiemu inspektorowi właściwemu ze względu na miejsce położenia uprawy chmielu nieprawdziwe dane, o których mowa w art. 5 ust. 1 lit. a, b, e oraz g rozporządzenia nr 1557/2006, lub nie przekazuje tych danych lub przekazuje je po terminie,
 - **5)** będąc producentem chmielu, przekazuje wojewódzkiemu inspektorowi właściwemu ze względu na miejsce położenia uprawy chmielu nieprawdziwe dane w deklaracji, o której mowa w art. 3 ust. 1 rozporządzenia nr 1850/2006, dołączanej do chmielu zgłoszonego do certyfikacji,
-- **6)** będąc podmiotem gospodarczym prowadzącym zakład przetwórstwa chmielu, wbrew obowiązkowi określonemu w art. 23 ust. 2, nie przekazuje informacji, o których mowa w art. 5 ust. 1 lit. f rozporządzenia nr 1557/2006 podlega karze grzywny.
+- **6)** będąc podmiotem gospodarczym prowadzącym zakład przetwórstwa chmielu, wbrew obowiązkowi określonemu w art. 23 ust. 2, nie przekazuje informacji, o których mowa w art. 5 ust. 1 lit. f rozporządzenia nr 1557/2006 – podlega karze grzywny.
 
 4a. (uchylony)
 
@@ -794,7 +786,7 @@ Art. 44–54.
 - **4)** (uchylony)
 - **4a)** (uchylony)
 - **5)** (uchylony)
-- **6)** (uchylony) podlega karze grzywny.
+- **6)** (uchylony) – podlega karze grzywny.
 
 5. Orzekanie w sprawach, o których mowa w ust. 1, 4 i 4b, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
@@ -829,19 +821,19 @@ Art. 44–54.
 
 13. Kary pieniężne są wpłacane na rachunek bankowy wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych.
 
-14. W zakresie nieuregulowanym w niniejszej ustawie oraz w Kodeksie postępowania administracyjnego do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.), z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi albo wojewódzkiemu inspektorowi właściwemu ze względu na miejsce przeprowadzenia kontroli. Jeżeli naruszenie, o którym mowa w art. 40a ust. 1 pkt 3 lub ust. 3, wyczerpuje jednocześnie znamiona naruszenia, o którym mowa w art. 56 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588), lub art. 24 ust. 1 pkt 4, 5 lub 6 lub ust. 2 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej (Dz. U. poz. 1370 oraz z 2023 r. poz. 412 i 588), karę pieniężną nakłada się na podstawie przepisów niniejszej ustawy.
+14. W zakresie nieuregulowanym w niniejszej ustawie oraz w Kodeksie postępowania administracyjnego do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556 i 614.), z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi albo wojewódzkiemu inspektorowi właściwemu ze względu na miejsce przeprowadzenia kontroli. Jeżeli naruszenie, o którym mowa w art. 40a ust. 1 pkt 3 lub ust. 3, wyczerpuje jednocześnie znamiona naruszenia, o którym mowa w art. 56 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588), lub art. 24 ust. 1 pkt 4, 5 lub 6 lub ust. 2 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej (Dz. U. poz. 1370 oraz z 2023 r. poz. 412 i 588), karę pieniężną nakłada się na podstawie przepisów niniejszej ustawy.
 
-#### Rozdział 7 Zmiany w przepisach obowiązujących
+#### Rozdział 7
 
-#### Rozdział 8 Przepisy przejściowe i końcowe
+#### Rozdział 8
 
-**Art. 55.** Decyzje wydane na podstawie art. 11 ust. 1, art. 47 i art. 48 ustawy, o której mowa w art. 41, tracą moc z dniem 1 stycznia 2004 r.
+**Art. 55.** Decyzje wydane na podstawie art. 11 ust. 1, art. 47 i art. 48 ustawy, o której mowa w art. 41Artykuł 41 zawiera zmiany do ustawy z dnia 29 listopada 2000 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego., tracą moc z dniem 1 stycznia 2004 r.
 
 **Art. 56.**
 
 1. Ilekroć w przepisach odrębnych jest mowa o grupie producentów owoców i warzyw lub związku grup producentów owoców i warzyw, należy przez to rozumieć odpowiednio organizację producentów owoców i warzyw lub zrzeszenie organizacji producentów owoców i warzyw.
 
-2. Wstępnie uznane lub uznane grupy producentów owoców i warzyw wpisane do rejestru na podstawie ustawy, o której mowa w art. 41, uważa się za wstępnie uznane grupy producentów owoców i warzyw lub organizacje producentów owoców i warzyw, o których mowa w art. 2 ust. 1 pkt 1 i 3 niniejszej ustawy.
+2. Wstępnie uznane lub uznane grupy producentów owoców i warzyw wpisane do rejestru na podstawie ustawy, o której mowa w art. 41Artykuł 41 zawiera zmiany do ustawy z dnia 29 listopada 2000 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego., uważa się za wstępnie uznane grupy producentów owoców i warzyw lub organizacje producentów owoców i warzyw, o których mowa w art. 2 ust. 1 pkt 1 i 3 niniejszej ustawy.
 
 **Art. 57.**
 
@@ -849,5 +841,5 @@ Art. 44–54.
 
 2. Decyzje wydane na podstawie art. 44 ust. 1 ustawy, o której mowa w ust. 1, w brzmieniu obowiązującym od dnia 1 stycznia 2004 r., zachowują moc.
 
-**Art. 58.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, z wyjątkiem art. 41 i art. 43–56, które wchodzą w życie z dniem 1 stycznia 2004 r.
+**Art. 58.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii EuropejskiejRzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej z dniem 1 maja 2004 r., z wyjątkiem art. 41 i art. 43–56, które wchodzą w życie z dniem 1 stycznia 2004 r. 1) Dodany przez art. 1 pkt 1 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. poz. 533), która weszła w życie z dniem 21 kwietnia 2023 r. 2) Dodany przez art. 127 pkt 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), która weszła w życie z dniem 15 marca 2023 r. 3) Dodany przez art. 127 pkt 2 ustawy, o której mowa w odnośniku 2; wejdzie w życie z dniem 1 stycznia 2024 r. 4) W brzmieniu ustalonym przez art. 1 pkt 2 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 1. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 17.08.2018, str. 1, Dz. Urz. UE L 179 z 03.07.2019, str. 27, Dz. Urz. UE L 176 z 05.06.2020, str. 1, Dz. Urz. UE L 205 z 29.06.2020, str. 1, Dz. Urz. UE L 135 z 21.04.2021, str. 4, Dz. Urz. UE L 453 z 17.12.2021, str. 3, Dz. Urz. UE L 281 z 31.10.2022, str. 18 oraz Dz. Urz. UE L 326 z 21.12.2022, str. 6. 6) Przez art. 1 pkt 2 lit. a tiret drugie ustawy, o której mowa w odnośniku 1. 7) Dodany przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 1. 8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 17.08.2018, str. 9 oraz Dz. Urz. UE L 259 z 06.10.2022, str. 187. 9) W brzmieniu ustalonym przez art. 1 pkt 2 lit. c ustawy, o której mowa w odnośniku 1. 10) Dodany przez art. 1 pkt 2 lit. d ustawy, o której mowa w odnośniku 1. 11) W brzmieniu ustalonym przez art. 1 pkt 2 lit. e ustawy, o której mowa w odnośniku 1. 12) W brzmieniu ustalonym przez art. 1 pkt 2 lit. f ustawy, o której mowa w odnośniku 1. 13) W brzmieniu ustalonym przez art. 1 pkt 2 lit. g ustawy, o której mowa w odnośniku 1. 14) W brzmieniu ustalonym przez art. 1 pkt 2 lit. h ustawy, o której mowa w odnośniku 1. 15) Dodany przez art. 1 pkt 2 lit. i ustawy, o której mowa w odnośniku 1. 16) Dodany przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 1. 17) W brzmieniu ustalonym przez art. 1 pkt 4 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 1. 18) Dodana przez art. 1 pkt 4 lit. a tiret drugie ustawy, o której mowa w odnośniku 1. 19) Dodany przez art. 1 pkt 4 lit. b ustawy, o której mowa w odnośniku 1. 20) W brzmieniu ustalonym przez art. 1 pkt 4 lit. c ustawy, o której mowa w odnośniku 1. 21) W brzmieniu ustalonym przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 1. 22) W brzmieniu ustalonym przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 1. 23) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556 i 614. 24) W brzmieniu ustalonym przez art. 62 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588), która weszła w życie z dniem 28 kwietnia 2023 r. 25) Artykuł 41 zawiera zmiany do ustawy z dnia 29 listopada 2000 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego. 26) Rzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej z dniem 1 maja 2004 r.
 

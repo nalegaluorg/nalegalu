@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000164) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/164/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej Rozdział 1 – Przepisy ogólne Rozdział 2 – Restrukturyzacja finansowa Rozdział 3 – Postępowanie restrukturyzacyjne Rozdział 4 – Zasady udzielania pomocy publicznej zakładom Rozdział 4a – Zasady udzielania pożyczki dla zakładów objętych i nieobjętych restrukturyzacją finansową Rozdział 5 – Zmiany w przepisach obowiązujących Rozdział 6 – Przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 78, poz. 684), z uwzględnieniem zmian wprowadzonych:
@@ -49,13 +49,16 @@ ustawą z dnia 25 września 2015 r. o zmianie ustawy – Prawo bankowe oraz niek
 9)
 ustawą z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 oraz z 2017 r. poz. 379 i 1926),
 10)
-ustawą z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 listopada 2017 r.
+ustawą z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 listopada 2017 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 42 i art. 43 ustawy z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 78, poz. 684), które stanowią:
-„
+art. 42 i art. 43 ustawy z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 78, poz. 684), które stanowią: „
+Przepisy ogólne
+Restrukturyzacja finansowa
+Postępowanie restrukturyzacyjne
+Zasady udzielania pomocy publicznej zakładom
+Zasady udzielania pożyczki dla zakładów objętych i nieobjętych restrukturyzacją finansową
 1.
 Skarb Państwa udziela pożyczki zakładowi, o którym mowa w art. 2 ust. 1, który do dnia 15 listopada 2008 r. złoży wniosek o pożyczkę, jeżeli zakład ten, w dniu złożenia wniosku, spełnia łącznie następujące warunki:
 1)
@@ -68,7 +71,7 @@ ustanowił zabezpieczenia na rzecz Skarbu Państwa na wypadek roszczeń wynikaj�
 Pożyczka, o której mowa w ust. 1, jest udzielana w kwocie nie wyższej niż kwota wyliczona według wzoru: Kp = Z2007 × 1/4 M × 12, gdzie poszczególne symbole oznaczają: Kp – kwotę pożyczki w złotych, Z2007 – przeciętne roczne zatrudnienie w zakładzie w 2007 r., 1/4 M – 1/4 minimalnego wynagrodzenia za pracę na dzień 1 stycznia 2008 r. ustalonego przez Radę Ministrów na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę, 12 – liczbę miesięcy w roku.
 Środki uzyskane w wyniku udzielenia pożyczki, o której mowa w art. 41a, przeznacza się wyłącznie na następujące cele:
 1)
-na spłatę należności głównych z tytułu zobowiązań zakładów wobec pracowników powstałych w związku z indywidualnymi roszczeniami pracowników wynikającymi z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw;
+na spłatę należności głównych z tytułu zobowiązań zakładów wobec pracowników powstałych w związku z indywidualnymi roszczeniami pracowników wynikającymi z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustawUchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r.;
 2)
 spłatę należności głównych i odsetek za zwłokę z tytułu zobowiązań publicznoprawnych, także nieobjętych postępowaniem restrukturyzacyjnym, o których mowa w art. 7;
 3)
@@ -93,10 +96,26 @@ rodzaje zabezpieczeń, o których mowa w art. 41a ust. 1 pkt 3.
 Niespłacenie przez zakład dwóch kolejnych rat należności głównej lub dwóch kolejnych rat odsetkowych lub wykorzystanie środków z pożyczki w sposób niezgodny z art. 41b może skutkować postawieniem pożyczki w stan natychmiastowej wymagalności.
 6.
 Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 35 ust. 6, 7, 11–13 i 16.
-(pominięty)
-(pominięty)
+Zmiany w przepisach obowiązujących
+(pominięty)Zamieszczony w obwieszczeniu.
+(pominięty)Zamieszczony w obwieszczeniu.
+Przepis końcowy
 
-**Art. 42.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm.a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759, Nr 202, poz. 1957, Nr 217, poz. 2124 i Nr 223, poz. 2218, z 2004 r. Nr 6, poz. 39, Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 121, poz. 1262, Nr 123, poz. 1291, Nr 146, poz. 1546, Nr 171, poz. 1800, Nr 210, poz. 2135 i Nr 254, poz. 2533 oraz z 2005 r. Nr 25, poz. 202 i Nr 57, poz. 491.) wprowadza się następujące zmiany:
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Restrukturyzacja finansowa
+
+#### Rozdział 3 – Postępowanie restrukturyzacyjne
+
+#### Rozdział 4 – Zasady udzielania pomocy publicznej zakładom
+
+#### Rozdział 4a – Zasady udzielania pożyczki dla zakładów objętych i nieobjętych restrukturyzacją finansową
+
+#### Rozdział 5 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 6 – Przepis końcowy
+
+**Art. 42.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm.a)Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759, Nr 202, poz. 1957, Nr 217, poz. 2124 i Nr 223, poz. 2218, z 2004 r. Nr 6, poz. 39, Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 121, poz. 1262, Nr 123, poz. 1291, Nr 146, poz. 1546, Nr 171, poz. 1800, Nr 210, poz. 2135 i Nr 254, poz. 2533 oraz z 2005 r. Nr 25, poz. 202 i Nr 57, poz. 491.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4a w pkt 5 dodaje się lit. f w brzmieniu: „ z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 78, poz. 684), ” ;
     - **f)**
@@ -143,7 +162,7 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 
 9. Wynagrodzenie, o którym mowa w ust. 8, przysługuje w wysokości 3% wyegzekwowanej kwoty; nie może ono być jednak niższe od rzeczywistych kosztów niezbędnych działań windykacyjnych. Wynagrodzenie jest potrącane z wyegzekwowanej kwoty, a sposób jego ustalania określa umowa.
 
-10. Przy podejmowaniu działań, o których mowa w ust. 8, Bank Gospodarstwa Krajowego ma prawo, bez uzyskania pisemnego oświadczenia o poddaniu się egzekucji, wystawić bankowy tytuł egzekucyjny stosownie do art. 96–98 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.b) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276 oraz z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808.). Przepisy art. 42c i 42d stosuje się odpowiednio, jeżeli jednostka samorządu terytorialnego będąca podmiotem, który utworzył zakład, przejęła zobowiązania tego zakładu i w celu uzyskania środków finansowych na pokrycie tych zobowiązań wyemitowała obligacje.”. ” ; ” ;
+10. Przy podejmowaniu działań, o których mowa w ust. 8, Bank Gospodarstwa Krajowego ma prawo, bez uzyskania pisemnego oświadczenia o poddaniu się egzekucji, wystawić bankowy tytuł egzekucyjny stosownie do art. 96–98 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.b)Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276 oraz z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808.). Przepisy art. 42c i 42d stosuje się odpowiednio, jeżeli jednostka samorządu terytorialnego będąca podmiotem, który utworzył zakład, przejęła zobowiązania tego zakładu i w celu uzyskania środków finansowych na pokrycie tych zobowiązań wyemitowała obligacje.”. ” ; ” ;
 
 - **2)** art. 2 ustawy z dnia 9 czerwca 2006 r. o zmianie ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 137, poz. 971), który stanowi: „
 
@@ -198,10 +217,9 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 - **1)** art. 14 pkt 19 i pkt 32 w zakresie uchylenia art. 69a ust. 3 i 4, które wchodzą w życie z dniem 1 stycznia 2019 r.;
 - **2)** art. 97–99, art. 100 ust. 2, art. 114 ust. 2 i art. 116, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 - **3)** art. 19 pkt 32, który wchodzi w życie z dniem 1 stycznia 2018 r.;
-- **4)** art. 95, który wchodzi w życie z dniem 31 grudnia 2016 r. ” . Załącznik – Tekst jednolity ustawy z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej
-    - **a)** Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759, Nr 202, poz. 1957, Nr 217, poz. 2124 i Nr 223, poz. 2218, z 2004 r. Nr 6, poz. 39, Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 121, poz. 1262, Nr 123, poz. 1291, Nr 146, poz. 1546, Nr 171, poz. 1800, Nr 210, poz. 2135 i Nr 254, poz. 2533 oraz z 2005 r. Nr 25, poz. 202 i Nr 57, poz. 491. b) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276 oraz z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808.
+- **4)** art. 95, który wchodzi w życie z dniem 31 grudnia 2016 r. ” . a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759, Nr 202, poz. 1957, Nr 217, poz. 2124 i Nr 223, poz. 2218, z 2004 r. Nr 6, poz. 39, Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 121, poz. 1262, Nr 123, poz. 1291, Nr 146, poz. 1546, Nr 171, poz. 1800, Nr 210, poz. 2135 i Nr 254, poz. 2533 oraz z 2005 r. Nr 25, poz. 202 i Nr 57, poz. 491. b) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276 oraz z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808. Załącznik – Tekst jednolity ustawy z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa:
 
@@ -211,8 +229,8 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 
 1. Restrukturyzacją finansową mogą być objęte:
 
-- **1)** publiczne zakłady opieki zdrowotnej w rozumieniu art. 8 ust. 2 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. poz. 89, z późn. zm.) prowadzone w formie samodzielnych publicznych zakładów opieki zdrowotnej,
-- **2)** jednostki badawczo-rozwojowe realizujące zadania określone w art. 1 ust. 2 pkt 1 ustawy wymienionej w pkt 1 zatrudniające na dzień 1 stycznia 2001 r. powyżej 50 osób, zwane dalej „zakładami”.
+- **1)** publiczne zakłady opieki zdrowotnej w rozumieniu art. 8 ust. 2 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. poz. 89, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. poz. 849, 1172, 1240 i 1290, z 2008 r. poz. 1056 i 1570, z 2009 r. poz. 100, 641, 817, 1241 i 1707, z 2010 r. poz. 620, 679 i 1507 oraz z 2011 r. poz. 235.)Utraciła moc z dniem 1 lipca 2011 r. na podstawie art. 220 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. poz. 654), która weszła w życie z dniem 1 lipca 2011 r. prowadzone w formie samodzielnych publicznych zakładów opieki zdrowotnej,
+- **2)** jednostki badawczo-rozwojoweObecnie instytuty badawcze, na podstawie art. 49 ust. 1 ustawy z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620 i 1036 oraz z 2012 r. poz. 756), która weszła w życie z dniem 1 października 2010 r. realizujące zadania określone w art. 1 ust. 2 pkt 1 ustawy wymienionej w pkt 1 – zatrudniające na dzień 1 stycznia 2001 r. powyżej 50 osób, zwane dalej „zakładami”.
 
 2. Zakład może być objęty restrukturyzacją finansową na podstawie przepisów ustawy tylko jeden raz.
 
@@ -220,20 +238,20 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 
 4. W przypadku, o którym mowa w ust. 3, restrukturyzacji podlegają wyłącznie zobowiązania samodzielnego publicznego zakładu opieki zdrowotnej powstałego w wyniku połączenia w zakresie zobowiązań tego samodzielnego publicznego zakładu opieki zdrowotnej, który spośród zakładów podlegających połączeniu spełniał warunek, o którym mowa w ust. 1. Ilekroć w ustawie jest mowa o:
 
-- **1)** podmiocie, który utworzył zakład – należy przez to rozumieć podmioty: wymienione w art. 8 ust. 1 pkt 1–3a ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, sprawujące nadzór nad jednostkami badawczo-rozwojowymi w rozumieniu ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz. U. z 2008 r. poz. 993 oraz z 2009 r. poz. 1323);
+- **1)** podmiocie, który utworzył zakład – należy przez to rozumieć podmioty: wymienione w art. 8 ust. 1 pkt 1–3a ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnejUtraciła moc z dniem 1 lipca 2011 r. na podstawie art. 220 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. poz. 654), która weszła w życie z dniem 1 lipca 2011 r., sprawujące nadzór nad jednostkami badawczo-rozwojowymiObecnie instytuty badawcze, na podstawie art. 49 ust. 1 ustawy z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620 i 1036 oraz z 2012 r. poz. 756), która weszła w życie z dniem 1 października 2010 r. w rozumieniu ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz. U. z 2008 r. poz. 993 oraz z 2009 r. poz. 1323)Utraciła moc z dniem 1 października 2010 r. na podstawie art. 8 ustawy, o której mowa w odnośniku 3.;
     - **a)**
     - **b)**
 
-- **2)** kierowniku zakładu – należy przez to rozumieć również dyrektora jednostki badawczo-rozwojowej, o której mowa w pkt 1 lit. b;
+- **2)** kierowniku zakładu – należy przez to rozumieć również dyrektora jednostki badawczo-rozwojowejObecnie instytuty badawcze, na podstawie art. 49 ust. 1 ustawy z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620 i 1036 oraz z 2012 r. poz. 756), która weszła w życie z dniem 1 października 2010 r., o której mowa w pkt 1 lit. b;
 - **3)** pożyczce – należy przez to rozumieć pożyczkę udzieloną przez Skarb Państwa ze środków przewidzianych w ustawie budżetowej na zasadach określonych w tej ustawie.
 
-#### Rozdział 2 Restrukturyzacja finansowa
+#### Rozdział 2
 
 **Art. 4.** Restrukturyzacja finansowa zakładów obejmuje znane na dzień 31 grudnia 2004 r.:
 
 - **1)** zobowiązania publicznoprawne,
 - **2)** zobowiązania cywilnoprawne,
-- **3)** indywidualne roszczenia pracowników wynikające z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. z 1995 r. poz. 2, z późn. zm.) powstałe w okresie od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2004 r.
+- **3)** indywidualne roszczenia pracowników wynikające z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. z 1995 r. poz. 2, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1995 r. poz. 221, z 1997 r. poz. 770, z 1998 r. poz. 1112, z 2001 r. poz. 45 i 1080, z 2003 r. poz. 63 oraz z 2004 r. poz. 226 i 2407.)Uchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r. – powstałe w okresie od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2004 r.
 
 **Art. 5.**
 
@@ -243,12 +261,12 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 - **2)** rozłożeniu na raty spłaty zobowiązań z tytułu składek wymienionych w art. 7;
 - **3)** zawarciu przez zakład ugody restrukturyzacyjnej z wierzycielami wierzytelności cywilnoprawnych.
 
-2. Restrukturyzacja finansowa zakładów może obejmować także zawarcie przez zakład ugód z pracownikami w zakresie roszczeń wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw.
+2. Restrukturyzacja finansowa zakładów może obejmować także zawarcie przez zakład ugód z pracownikami w zakresie roszczeń wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustawUchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r..
 
 3. Postępowanie restrukturyzacyjne prowadzone w stosunku do zakładów na podstawie:
 
 - **1)** ustawy z dnia 30 sierpnia 2002 r. o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców (Dz. U. z 2017 r. poz. 2042),
-- **2)** ustawy z dnia 30 października 2002 r. o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy (Dz. U. poz. 1800, z późn. zm.) podlega z mocy prawa umorzeniu w zakresie należności wymienionych w art. 6 ust. 1.
+- **2)** ustawy z dnia 30 października 2002 r. o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy (Dz. U. poz. 1800, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 844 i 2271, z 2004 r. poz. 1291, z 2006 r. poz. 1121, z 2009 r. poz. 1664 i 1707 oraz z 2016 r. poz. 1948 i 2260.) – podlega z mocy prawa umorzeniu w zakresie należności wymienionych w art. 6 ust. 1.
 
 **Art. 6.**
 
@@ -257,7 +275,7 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 - **1)** z tytułu podatków wobec budżetu państwa oraz należności celnych;
 - **2)** z tytułu składek na ubezpieczenia społeczne w części finansowanej przez płatnika oraz na Fundusz Pracy, z wyjątkiem składek na ubezpieczenie emerytalne;
 - **3)** wobec Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych;
-- **4)** z tytułu: opłat za gospodarcze korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska (Dz. U. z 1994 r. poz. 196, z późn. zm.), opłat za korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519, z późn. zm.), opłat za szczególne korzystanie z wód w rozumieniu przepisów ustawy z dnia 24 października 1974 r. – Prawo wodne (Dz. U. poz. 230, z późn. zm.) stanowiących przychody Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, wojewódzkich funduszy ochrony środowiska i gospodarki wodnej oraz dochody budżetów powiatów i budżetów gmin, niezależnie od tego, na rachunek bankowy którego organu administracji publicznej opłaty te powinny być wpłacone przez zakład, z zastrzeżeniem art. 9;
+- **4)** z tytułu: opłat za gospodarcze korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska (Dz. U. z 1994 r. poz. 196, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1995 r. poz. 446, z 1996 r. poz. 496 i 622, z 1997 r. poz. 296, 592, 770 i 885, z 1998 r. poz. 668, z 1999 r. poz. 1178, z 2000 r. poz. 136, 550, 718 i 1157 oraz z 2001 r. poz. 452, 497, 634, 764, 811, 907 i 1085.)Utraciła moc z dniem 1 października 2001 r. na podstawie art. 2 pkt 1 ustawy z dnia 27 lipca 2001 r. o wprowadzeniu ustawy – Prawo ochrony środowiska, ustawy o odpadach oraz o zmianie niektórych ustaw (Dz. U. poz. 1085), która weszła w życie z dniem 1 października 2001 r., z wyjątkiem art. 37a, który utracił moc z dniem 26 października 2001 r., na podstawie art. 73 ustawy z dnia 22 czerwca 2001 r. o organizmach genetycznie zmodyfikowanych (Dz. U. poz. 811)., opłat za korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 785, 898, 1089, 1529, 1566, 1888, 1999 i 2056.), opłat za szczególne korzystanie z wód w rozumieniu przepisów ustawy z dnia 24 października 1974 r. – Prawo wodne (Dz. U. poz. 230, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1980 r. poz. 6, z 1983 r. poz. 201, z 1989 r. poz. 139 i 192, z 1990 r. poz. 198 i 222, z 1991 r. poz. 131 i 335, z 1993 r. poz. 183, z 1994 r. poz. 96, z 1995 r. poz. 243, z 1996 r. poz. 496, z 1997 r. poz. 299, 554 i 885, z 1998 r. poz. 668, z 2000 r. poz. 136, 991, 1157 i 1268 oraz z 2001 r. poz. 43, 747, 1085 i 1368.)Utraciła moc z dniem 1 stycznia 2002 r. na podstawie art. 219 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. poz. 1229), która weszła w życie z dniem 1 stycznia 2002 r. – stanowiących przychody Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, wojewódzkich funduszy ochrony środowiska i gospodarki wodnej oraz dochody budżetów powiatów i budżetów gmin, niezależnie od tego, na rachunek bankowy którego organu administracji publicznej opłaty te powinny być wpłacone przez zakład, z zastrzeżeniem art. 9;Część wspólna kończąca wyliczenie w brzmieniu ustalonym przez art. 13 pkt 1 ustawy z dnia 20 listopada 2009 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1664), która weszła w życie z dniem 1 stycznia 2010 r.
     - **a)**
     - **b)**
     - **c)**
@@ -271,7 +289,7 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 - **1)** nie posiada zaległości z tytułu zobowiązań, o których mowa w art. 7;
 - **2)** nie posiada zaległości z tytułu zobowiązań publicznoprawnych powstałych przed dniem 1 stycznia 1999 r. oraz po dniu 31 grudnia 2004 r., z zastrzeżeniem ust. 3;
 - **3)** zrealizował ugodę zawartą z wierzycielami wierzytelności cywilnoprawnych w zakresie określonym w art. 13 ust. 1 oraz dokonał spłaty wierzytelności, o których mowa w art. 13 ust. 2, o ile jest prowadzone postępowanie w sprawie restrukturyzacji zobowiązań cywilnoprawnych;
-- **4)** zaspokoił roszczenia pracowników wynikające z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw lub wykonał ugody, o których mowa w art. 17 ust. 1, w zakresie określonym w art. 17 ust. 2 pkt 1.
+- **4)** zaspokoił roszczenia pracowników wynikające z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustawUchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r. lub wykonał ugody, o których mowa w art. 17 ust. 1, w zakresie określonym w art. 17 ust. 2 pkt 1.
 
 3. Warunek o nieposiadaniu zaległości z tytułu zobowiązań publicznoprawnych uznaje się za spełniony, jeżeli zobowiązania te wraz z odsetkami za zwłokę, nieobjęte postępowaniem restrukturyzacyjnym, zostaną przed dniem wydania decyzji o zakończeniu restrukturyzacji rozłożone na raty albo terminy ich zapłaty zostaną odroczone na zasadach określonych w odrębnych przepisach dotyczących tych zobowiązań.
 
@@ -291,19 +309,13 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 - **2)** opłaty prolongacyjne ustalone w związku z decyzjami, o których mowa w pkt 1;
 - **3)** koszty egzekucyjne dotyczące zobowiązań z tytułów wymienionych w art. 6 ust. 1.
 
-2. Restrukturyzacji finansowej nie podlegają zobowiązania zakładów z tytułu:
+2. Restrukturyzacji finansowej nie podlegają zobowiązania zakładów z tytułu: 1W brzmieniu ustalonym przez art. 94 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948), która weszła w życie z dniem 1 marca 2017 r.) zaległości podatkowych i celnych określonych w decyzji właściwego organu podatkowego lub organu celnego,
 
-- **1)** zaległości podatkowych i celnych określonych w decyzji właściwego organu podatkowego lub organu celnego,
 - **2)** składek na ubezpieczenia społeczne i składek na Fundusz Pracy,
-- **3)** wpłat do Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych,
-- **4)** opłat i kar dla Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, wojewódzkich funduszy ochrony środowiska i gospodarki wodnej, budżetów powiatów i budżetów gmin;
-- **5)** opłat za użytkowanie wieczyste gruntów Skarbu Państwa określone w wyniku postępowania kontrolnego, jeżeli zaległości te określone zostały w związku z dokonywaniem czynności prawnych mających na celu obejście przepisów podatkowych, o należnościach celnych, o ubezpieczeniach społecznych lub przepisów dotyczących wymiaru i poboru tych należności.
+- **3)** wpłat do Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, 4W brzmieniu ustalonym przez art. 13 pkt 2 ustawy, o której mowa w odnośniku 13.) opłat i kar dla Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, wojewódzkich funduszy ochrony środowiska i gospodarki wodnej, budżetów powiatów i budżetów gmin;
+- **5)** opłat za użytkowanie wieczyste gruntów Skarbu Państwa – określone w wyniku postępowania kontrolnego, jeżeli zaległości te określone zostały w związku z dokonywaniem czynności prawnych mających na celu obejście przepisów podatkowych, o należnościach celnych, o ubezpieczeniach społecznych lub przepisów dotyczących wymiaru i poboru tych należności.
 
-**Art. 9.**
-
-1. Przepisy dotyczące umorzenia zobowiązań publicznoprawnych stosuje się odpowiednio do należności z tytułu zobowiązań podatkowych stanowiących dochody budżetów jednostek samorządu terytorialnego oraz zobowiązań publicznoprawnych, o których mowa w art. 6 ust. 1 pkt 4 i 5, w części dotyczącej przychodów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej oraz dochodów budżetów powiatów i budżetów gmin, jeżeli organ stanowiący właściwej jednostki samorządu terytorialnego podejmie uchwałę o restrukturyzacji tych należności.
-
-2. Umorzenie należności jednostek samorządu terytorialnego z tytułu zobowiązań, o których mowa w ust. 1, nie uprawnia tych jednostek do rekompensaty ubytku ich dochodów z tego tytułu przez budżet państwa.
+**Art. 9.** 1W brzmieniu ustalonym przez art. 13 pkt 3 ustawy, o której mowa w odnośniku 13.. Przepisy dotyczące umorzenia zobowiązań publicznoprawnych stosuje się odpowiednio do należności z tytułu zobowiązań podatkowych stanowiących dochody budżetów jednostek samorządu terytorialnego oraz zobowiązań publicznoprawnych, o których mowa w art. 6 ust. 1 pkt 4 i 5, w części dotyczącej przychodów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej oraz dochodów budżetów powiatów i budżetów gmin, jeżeli organ stanowiący właściwej jednostki samorządu terytorialnego podejmie uchwałę o restrukturyzacji tych należności. 2. Umorzenie należności jednostek samorządu terytorialnego z tytułu zobowiązań, o których mowa w ust. 1, nie uprawnia tych jednostek do rekompensaty ubytku ich dochodów z tego tytułu przez budżet państwa.
 
 **Art. 10.**
 
@@ -367,18 +379,18 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 
 **Art. 17.**
 
-1. Restrukturyzacja indywidualnych roszczeń pracowników zakładu wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw polega na zawarciu przez zakład ugody z pracownikiem.
+1. Restrukturyzacja indywidualnych roszczeń pracowników zakładu wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustawUchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r. polega na zawarciu przez zakład ugody z pracownikiem.
 
 2. Przedmiotem ugody, o której mowa w ust. 1, może być:
 
 - **1)** rozłożenie zobowiązań zakładu wobec pracownika na raty wraz z określeniem harmonogramu ich spłaty;
 - **2)** odstąpienie od naliczania odsetek od zobowiązań, o których mowa w pkt 1.
 
-3. W przypadku gdy indywidualne roszczenia pracowników wynikające z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw podlegają spłacie, spłaty tej dokonuje się do dnia wydania decyzji o zakończeniu restrukturyzacji.
+3. W przypadku gdy indywidualne roszczenia pracowników wynikające z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustawUchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r. podlegają spłacie, spłaty tej dokonuje się do dnia wydania decyzji o zakończeniu restrukturyzacji.
 
 4. Przepisów art. 12, 13, 14 ust. 2–4, art. 15 i 16 nie stosuje się do ugód zawartych przez zakład z pracownikami.
 
-#### Rozdział 3 Postępowanie restrukturyzacyjne
+#### Rozdział 3
 
 **Art. 18.**
 
@@ -422,7 +434,7 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 
 - **1)** nazwę zakładu, jego siedzibę i adres;
 - **2)** okoliczności, które uzasadniają złożenie wniosku oraz ich uprawdopodobnienie;
-- **3)** liczbę osób, według stanu na dzień 1 stycznia 2001 r., na dzień złożenia wniosku oraz na dzień 31 grudnia 2004 r.: zatrudnionych w zakładzie, do których ma zastosowanie art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw.
+- **3)** liczbę osób, według stanu na dzień 1 stycznia 2001 r., na dzień złożenia wniosku oraz na dzień 31 grudnia 2004 r.: zatrudnionych w zakładzie, do których ma zastosowanie art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustawUchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r..
     - **a)**
     - **b)**
 
@@ -435,12 +447,12 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 - **5)** spis wierzycieli wierzytelności cywilnoprawnych z podaniem wysokości wierzytelności każdego z nich w podziale na kwotę wierzytelności głównej i odsetki, według stanu bieżącego oraz na dzień 31 grudnia 2004 r., a także listę zabezpieczeń tych wierzytelności;
 - **6)** wykaz zobowiązań pozabilansowych z podaniem wysokości każdego z nich według stanu bieżącego oraz na dzień 31 grudnia 2004 r.;
 - **7)** kopie tytułów egzekucyjnych lub wykonawczych wystawionych wobec zakładu;
-- **8)** informację o stanie realizacji zobowiązań z tytułu roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw;
+- **8)** informację o stanie realizacji zobowiązań z tytułu roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustawUchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r.;
 - **9)** kopię ewidencji środków trwałych oraz wartości niematerialnych i prawnych wraz z informacją o ustanowionych na nich obciążeniach;
 - **10)** projekt programu restrukturyzacyjnego pozytywnie zaopiniowany przez podmiot, który utworzył zakład, z zastrzeżeniem art. 22 ust. 3;
 - **11)** opinię podmiotu, który utworzył zakład, o której mowa w pkt 10;
 - **12)** projekt ugody restrukturyzacyjnej z wierzycielami wierzytelności cywilnoprawnych;
-- **13)** projekty ugód dotyczących indywidualnych roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw;
+- **13)** projekty ugód dotyczących indywidualnych roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustawUchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r.;
 - **14)** wykaz toczących się postępowań sądowych i administracyjnych oraz postępowań restrukturyzacyjnych prowadzonych na podstawie odrębnych ustaw.
 
 **Art. 22.**
@@ -463,15 +475,7 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 
 6. Jeżeli w danym zakładzie nie działa zakładowa organizacja związkowa, uprawnienia tej organizacji w zakresie wynikającym z ust. 4 i 5 przysługują przedstawicielom pracowników wyłonionym w trybie przyjętym w danym zakładzie.
 
-**Art. 23.**
-
-1. Organ restrukturyzacyjny – w przypadku zakładu, dla którego podmiotem, który go utworzył, jest minister, centralny organ administracji rządowej albo wojewoda – niezwłocznie przekazuje projekt programu do zaopiniowania ministrowi właściwemu do spraw gospodarki.
-
-2. Minister właściwy do spraw gospodarki jest obowiązany przedłożyć organowi restrukturyzacyjnemu opinię, w terminie 21 dni od dnia otrzymania projektu programu. Nieprzedłożenie opinii w tym terminie jest równoznaczne z wydaniem opinii pozytywnej.
-
-3. W przypadku gdy projekt programu przewiduje emisję obligacji lub udzielenie poręczenia przez Bank Gospodarstwa Krajowego, zwany dalej „BGK”, spłaty odsetek od obligacji, organ restrukturyzacyjny przekazuje projekt programu do zaopiniowania BGK.
-
-4. BGK wydaje opinię w terminie 30 dni od dnia otrzymania projektu programu na podstawie:
+**Art. 23.** 1W brzmieniu ustalonym przez art. 52 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260), która weszła w życie z dniem 1 stycznia 2017 r.. Organ restrukturyzacyjny – w przypadku zakładu, dla którego podmiotem, który go utworzył, jest minister, centralny organ administracji rządowej albo wojewoda – niezwłocznie przekazuje projekt programu do zaopiniowania ministrowi właściwemu do spraw gospodarki. 2W brzmieniu ustalonym przez art. 52 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260), która weszła w życie z dniem 1 stycznia 2017 r.. Minister właściwy do spraw gospodarki jest obowiązany przedłożyć organowi restrukturyzacyjnemu opinię, w terminie 21 dni od dnia otrzymania projektu programu. Nieprzedłożenie opinii w tym terminie jest równoznaczne z wydaniem opinii pozytywnej. 3. W przypadku gdy projekt programu przewiduje emisję obligacji lub udzielenie poręczenia przez Bank Gospodarstwa Krajowego, zwany dalej „BGK”, spłaty odsetek od obligacji, organ restrukturyzacyjny przekazuje projekt programu do zaopiniowania BGK. 4. BGK wydaje opinię w terminie 30 dni od dnia otrzymania projektu programu na podstawie:
 
 - **1)** dokumentów wymienionych w art. 21, przekazanych przez organ restrukturyzacyjny;
 - **2)** opinii, o której mowa w ust. 2, przekazanej niezwłocznie po jej otrzymaniu przez organ restrukturyzacyjny albo informacji organu restrukturyzacyjnego o uzgodnieniu projektu programu w trybie określonym w ust. 2.
@@ -484,13 +488,13 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 
 1. Od dnia wszczęcia postępowania restrukturyzacyjnego do dnia wydania decyzji o umorzeniu albo o zakończeniu postępowania restrukturyzacyjnego wstrzymuje się wykonanie decyzji, wydanych na podstawie odrębnych przepisów, podjętych przed dniem wszczęcia postępowania restrukturyzacyjnego w zakresie należności objętych tym postępowaniem.
 
-2. W okresie, o którym mowa w ust. 1, wszczęte postępowania egzekucyjne, w zakresie należności objętych postępowaniem restrukturyzacyjnym, podlegają zawieszeniu, z wyjątkiem postępowań egzekucyjnych prowadzonych w celu zaspokojenia indywidualnych roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw.
+2. W okresie, o którym mowa w ust. 1, wszczęte postępowania egzekucyjne, w zakresie należności objętych postępowaniem restrukturyzacyjnym, podlegają zawieszeniu, z wyjątkiem postępowań egzekucyjnych prowadzonych w celu zaspokojenia indywidualnych roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustawUchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r..
 
 1. W terminie do 3 miesięcy od dnia wydania postanowienia o wszczęciu postępowania restrukturyzacyjnego zakład:
 
 - **1)** uzgadnia projekt programu z wierzycielami wierzytelności publicznoprawnych;
 - **2)** zawiera ugodę restrukturyzacyjną z wierzycielami wierzytelności cywilnoprawnych;
-- **3)** zawiera ugody dotyczące indywidualnych roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw.
+- **3)** zawiera ugody dotyczące indywidualnych roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustawUchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r..
 
 2. Zawarcie ugody restrukturyzacyjnej z wierzycielami wierzytelności cywilnoprawnych w zakresie określonym w art. 13 ust. 1 pkt 4 wymaga zgody odpowiednio podmiotu, który utworzył zakład, albo ministra właściwego do spraw zdrowia, w terminie określonym w ust. 1.
 
@@ -499,7 +503,7 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 1. Zakład przekazuje organowi restrukturyzacyjnemu w terminie 7 dni od upływu terminu, o którym mowa w art. 25 ust. 1:
 
 - **1)** kopię ugody restrukturyzacyjnej, o której mowa w art. 25 ust. 1 pkt 2;
-- **2)** informację o zawartych ugodach dotyczących indywidualnych roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw;
+- **2)** informację o zawartych ugodach dotyczących indywidualnych roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustawUchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r.;
 - **3)** informację o wynikach uzgodnień z wierzycielami wierzytelności publicznoprawnych.
 
 2. W informacji, o której mowa w ust. 1 pkt 2, określa się:
@@ -571,24 +575,20 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 
 2. Do informacji, o której mowa w ust. 1, dołącza się sprawozdanie z przebiegu postępowania restrukturyzacyjnego.
 
-**Art. 32.** Rada Ministrów przedkłada Sejmowi, nie rzadziej niż raz na 6 miesięcy, informację z przebiegu restrukturyzacji do chwili jej zakończenia.
-
-**Art. 33.** Organ restrukturyzacyjny, co najmniej raz na 6 miesięcy, ogłasza w:
+**Art. 32.** Rada Ministrów przedkłada Sejmowi, nie rzadziej niż raz na 6 miesięcy, informację z przebiegu restrukturyzacji do chwili jej zakończenia. Art. 33W brzmieniu ustalonym przez art. 18 ustawy z dnia 16 września 2011 r. o redukcji niektórych obowiązków obywateli i przedsiębiorców (Dz. U. poz. 1378), który wszedł w życie z dniem 1 stycznia 2013 r.. Organ restrukturyzacyjny, co najmniej raz na 6 miesięcy, ogłasza w:
 
 - **1)** dzienniku urzędowym ministra właściwego do spraw zdrowia – w przypadku gdy organem restrukturyzacyjnym jest minister właściwy do spraw zdrowia,
-- **2)** wojewódzkim dzienniku urzędowym – w przypadku gdy organem restrukturyzacyjnym jest wojewoda listę zakładów, w stosunku do których wydał decyzję o zakończeniu postępowania restrukturyzacyjnego.
+- **2)** wojewódzkim dzienniku urzędowym – w przypadku gdy organem restrukturyzacyjnym jest wojewoda – listę zakładów, w stosunku do których wydał decyzję o zakończeniu postępowania restrukturyzacyjnego.
 
-#### Rozdział 4 Zasady udzielania pomocy publicznej zakładom
+#### Rozdział 4
 
 **Art. 34.**
 
 1. W celu uzyskania środków finansowych na restrukturyzację finansową zakład może:
 
-- **1)** emitować obligacje;
-- **2)** zaciągnąć pożyczkę, o której mowa w art. 35 i 35a;
+- **1)** emitować obligacje; 2W brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 4 września 2008 r. o zmianie ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. poz. 1181), która weszła w życie z dniem 28 października 2008 r.) zaciągnąć pożyczkę, o której mowa w art. 35 i 35a;
 - **3)** zaciągać kredyty bankowe;
-- **4)** występować do jednostki samorządu terytorialnego o udzielenie poręczenia spłaty należności głównej od wyemitowanych przez ten zakład obligacji;
-- **5)** występować do BGK o udzielanie poręczenia zapłaty odsetek od obligacji.
+- **4)** występować do jednostki samorządu terytorialnego o udzielenie poręczenia spłaty należności głównej od wyemitowanych przez ten zakład obligacji; 5W brzmieniu ustalonym przez art. 13 ustawy z dnia 2 kwietnia 2009 r. o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, ustawy o Banku Gospodarstwa Krajowego oraz niektórych innych ustaw (Dz. U. poz. 545), która weszła w życie z dniem 15 maja 2009 r.) występować do BGK o udzielanie poręczenia zapłaty odsetek od obligacji.
 
 2. Skarb Państwa reprezentowany przez ministra właściwego do spraw finansów publicznych udziela BGK poręczenia zapłaty odsetek od obligacji objętych poręczeniem, o którym mowa w ust. 1 pkt 5.
 
@@ -607,19 +607,19 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 
 2. Przepis ust. 1 nie dotyczy podmiotów, o których mowa w art. 2 ust. 1 pkt 2.
 
-3. (uchylony)
+3. (uchylony)Przez art. 1 pkt 1 lit. a ustawy z dnia 9 czerwca 2006 r. o zmianie ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. poz. 971), która weszła w życie z dniem 1 sierpnia 2006 r.
 
 4. Pożyczka jest udzielana:
 
 - **1)** na wniosek zakładu złożony w terminie do miesiąca od dnia wydania postanowienia o wszczęciu postępowania restrukturyzacyjnego;
-- **2)** w kwocie nie wyższej niż suma należności głównych z tytułu zobowiązań, które zakład posiadał lub posiada wobec pracowników, wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw;
-- **3)** wyłącznie na zaspokojenie następujących zobowiązań: w pierwszej kolejności – zaspokojenie należności głównych z tytułu roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw, spłatę należności z tytułu zobowiązań publicznoprawnych, o których mowa w art. 7, z wyłączeniem odsetek za zwłokę oraz kwot, o których mowa w art. 6 ust. 1 pkt 7, spłatę należności z tytułu zobowiązań cywilnoprawnych objętych ugodą restrukturyzacyjną w zakresie określonym w art. 13 ust. 1 pkt 2 i 3, z wyłączeniem odsetek za zwłokę oraz kwot, o których mowa w art. 6 ust. 1 pkt 7, pokrycie kosztów opłaty prowizyjnej za podejmowane przez BGK czynności, o których mowa w art. 36 ust. 1.
+- **2)** w kwocie nie wyższej niż suma należności głównych z tytułu zobowiązań, które zakład posiadał lub posiada wobec pracowników, wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustawUchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r.;
+- **3)** wyłącznie na zaspokojenie następujących zobowiązań: w pierwszej kolejności – zaspokojenie należności głównych z tytułu roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustawUchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r., spłatę należności z tytułu zobowiązań publicznoprawnych, o których mowa w art. 7, z wyłączeniem odsetek za zwłokę oraz kwot, o których mowa w art. 6 ust. 1 pkt 7, spłatę należności z tytułu zobowiązań cywilnoprawnych objętych ugodą restrukturyzacyjną w zakresie określonym w art. 13 ust. 1 pkt 2 i 3, z wyłączeniem odsetek za zwłokę oraz kwot, o których mowa w art. 6 ust. 1 pkt 7, pokrycie kosztów opłaty prowizyjnej za podejmowane przez BGK czynności, o których mowa w art. 36 ust. 1.
     - **a)**
     - **b)**
     - **c)**
     - **d)**
 
-5. Przez należność główną, o której mowa w ust. 4 pkt 2 i 3 lit. a oraz ust. 8 pkt 2, rozumie się należność wyliczoną według wzoru: Kp = Z2001 × 203 × 12) + (Z2002 × 313,24 × 12) gdzie poszczególne symbole oznaczają: Kp – kwotę pożyczki w złotych, Z2001 – przeciętne roczne zatrudnienie w zakładzie w 2001 r., Z2002 – przeciętne roczne zatrudnienie w zakładzie w 2002 r., 203 – przyrost przeciętnego miesięcznego wynagrodzenia w kwocie 203 zł, o którym mowa w art. 4a ust. 1 ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw, w 2001 r., 313,24 – przyrost przeciętnego miesięcznego wynagrodzenia w kwocie stanowiącej sumę kwot 203 zł i 110,24 zł, o którym mowa w art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw, w 2002 r., 12 – liczbę miesięcy w roku.
+5. Przez należność główną, o której mowa w ust. 4 pkt 2 i 3 lit. a oraz ust. 8 pkt 2, rozumie się należność wyliczoną według wzoru: Kp = Z2001 × 203 × 12) + (Z2002 × 313,24 × 12) gdzie poszczególne symbole oznaczają: Kp – kwotę pożyczki w złotych, Z2001 – przeciętne roczne zatrudnienie w zakładzie w 2001 r., Z2002 – przeciętne roczne zatrudnienie w zakładzie w 2002 r., 203 – przyrost przeciętnego miesięcznego wynagrodzenia w kwocie 203 zł, o którym mowa w art. 4a ust. 1 ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustawUchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r., w 2001 r., 313,24 – przyrost przeciętnego miesięcznego wynagrodzenia w kwocie stanowiącej sumę kwot 203 zł i 110,24 zł, o którym mowa w art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustawUchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r., w 2002 r., 12 – liczbę miesięcy w roku.
 
 6. Skarb Państwa zawiera z zakładem umowę o pożyczkę w okresie miesiąca od dnia złożenia przez zakład kompletnego wniosku o pożyczkę.
 
@@ -628,44 +628,20 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 8. Środki z pożyczki są wypłacane zakładowi w trzech ratach, przy czym:
 
 - **1)** pierwsza rata, której wysokość wynosi 50% kwoty pożyczki, jest wypłacana nie później niż w okresie miesiąca od dnia podpisania umowy o pożyczkę;
-- **2)** druga rata, której wysokość wynosi 25% kwoty pożyczki, jest wypłacana nie później niż w okresie 3 miesięcy od dnia podpisania umowy o pożyczkę, pod warunkiem że zakład przeznaczył pierwszą ratę pożyczki na zaspokojenie należności głównych z tytułu roszczeń pracowników, wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw, albo udokumentował, że zaspokoił roszczenia pracowników wynikające z tej ustawy;
+- **2)** druga rata, której wysokość wynosi 25% kwoty pożyczki, jest wypłacana nie później niż w okresie 3 miesięcy od dnia podpisania umowy o pożyczkę, pod warunkiem że zakład przeznaczył pierwszą ratę pożyczki na zaspokojenie należności głównych z tytułu roszczeń pracowników, wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustawUchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r., albo udokumentował, że zaspokoił roszczenia pracowników wynikające z tej ustawy;
 - **3)** trzecia rata, której wysokość wynosi 25% kwoty pożyczki, jest wypłacana po uzyskaniu prawomocnej decyzji o warunkach restrukturyzacji.
 
-9. Należność główna z tytułu pożyczki zostanie spłacona nie później niż w okresie 10 lat od dnia podpisania umowy o pożyczkę.
-
-10. Samodzielnemu publicznemu zakładowi opieki zdrowotnej, w stosunku do którego wydano decyzję o zakończeniu postępowania restrukturyzacyjnego, który w okresie do 5 lat od dnia wydania ostatecznej decyzji o warunkach restrukturyzacji spłaci 30% należności głównej z tytułu pożyczki wraz z odsetkami za ten okres, umarza się pozostałą część pożyczki.
-
-10a. Samodzielnemu publicznemu zakładowi opieki zdrowotnej, w stosunku do którego wydano ostateczną decyzję o zakończeniu postępowania restrukturyzacyjnego, który w okresie do 5 lat od dnia wydania ostatecznej decyzji o warunkach restrukturyzacji spłaci 30% należności głównej z tytułu pożyczki i z tytułu zwiększenia kwoty pożyczki, o którym mowa w art. 35b ust. 3 lub art. 35ba ust. 3 wraz z odsetkami za ten okres, umarza się pozostałą część pożyczki i środków uzyskanych z tytułu jej zwiększenia.
-
-10b. Samodzielnemu publicznemu zakładowi opieki zdrowotnej, który spełnia łącznie następujące warunki:
+9. Należność główna z tytułu pożyczki zostanie spłacona nie później niż w okresie 10 lat od dnia podpisania umowy o pożyczkę. 10W brzmieniu ustalonym przez art. 1 pkt 1 lit. b ustawy, o której mowa w odnośniku 21.. Samodzielnemu publicznemu zakładowi opieki zdrowotnej, w stosunku do którego wydano decyzję o zakończeniu postępowania restrukturyzacyjnego, który w okresie do 5 lat od dnia wydania ostatecznej decyzji o warunkach restrukturyzacji spłaci 30% należności głównej z tytułu pożyczki wraz z odsetkami za ten okres, umarza się pozostałą część pożyczki. 10aDodany przez art. 1 pkt 1 lit. c ustawy, o której mowa w odnośniku 21; w brzmieniu ustalonym przez art. 1 pkt 1 lit. a ustawy z dnia 24 sierpnia 2007 r. o zmianie ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. poz. 1104), która weszła w życie z dniem 1 września 2007 r.. Samodzielnemu publicznemu zakładowi opieki zdrowotnej, w stosunku do którego wydano ostateczną decyzję o zakończeniu postępowania restrukturyzacyjnego, który w okresie do 5 lat od dnia wydania ostatecznej decyzji o warunkach restrukturyzacji spłaci 30% należności głównej z tytułu pożyczki i z tytułu zwiększenia kwoty pożyczki, o którym mowa w art. 35b ust. 3 lub art. 35ba ust. 3 wraz z odsetkami za ten okres, umarza się pozostałą część pożyczki i środków uzyskanych z tytułu jej zwiększenia. 10bDodany przez art. 1 pkt 1 lit. c ustawy, o której mowa w odnośniku 21.. Samodzielnemu publicznemu zakładowi opieki zdrowotnej, który spełnia łącznie następujące warunki:
 
 - **1)** posiada ostateczną decyzję o warunkach restrukturyzacji;
 - **2)** który do dnia umorzenia dokona spłaty odsetek należnych za ten okres;
 - **3)** któremu przysługuje roszczenie wobec Narodowego Funduszu Zdrowia, Skarbu Państwa lub innej jednostki sektora finansów publicznych z tytułu zobowiązań tego zakładu wobec pracowników wynikających z ustawy wymienionej w art. 4 pkt 3;
-- **4)** który zrzeknie się roszczeń, o których mowa w pkt 3 umarza się odpowiednio pozostałą cześć pożyczki albo pozostałą część pożyczki i środków uzyskanych z tytułu zwiększenia, o którym mowa w art. 35b ust. 3.
-
-10c. Umorzenie, o którym mowa w ust. 10b, następuje:
-
+- **4)** który zrzeknie się roszczeń, o których mowa w pkt 3 – umarza się odpowiednio pozostałą cześć pożyczki albo pozostałą część pożyczki i środków uzyskanych z tytułu zwiększenia, o którym mowa w art. 35b ust. 3. 10cDodany przez art. 1 pkt 1 lit. c ustawy, o której mowa w odnośniku 21.. Umorzenie, o którym mowa w ust. 10b, następuje:
 - **1)** w wysokości pozostałej do spłaty kwoty pożyczki albo kwoty pożyczki i środków uzyskanych z tytułu zwiększenia, o którym mowa w art. 35b ust. 3, jeżeli kwota pożyczki albo kwota pożyczki i środków uzyskanych z jej zwiększenia była mniejsza lub równa kwocie roszczeń z tytułu zobowiązań zakładu wobec pracowników wynikających z ustawy wymienionej w art. 4 pkt 3, albo
-- **2)** w wysokości zrzeczonego się roszczenia, jeżeli kwota pozostałej do spłaty pożyczki albo kwota pozostałej do spłaty pożyczki i środków uzyskanych z tytułu zwiększenia, o którym mowa w art. 35b ust. 3, była większa od kwoty roszczeń z tytułu zobowiązań zakładu wobec pracowników wynikających z ustawy wymienionej w art. 4 pkt 3.
-
-10d. Zrzeczenie, o którym mowa w ust. 10b pkt 4, następuje w formie umowy, która zawiera w szczególności:
-
+- **2)** w wysokości zrzeczonego się roszczenia, jeżeli kwota pozostałej do spłaty pożyczki albo kwota pozostałej do spłaty pożyczki i środków uzyskanych z tytułu zwiększenia, o którym mowa w art. 35b ust. 3, była większa od kwoty roszczeń z tytułu zobowiązań zakładu wobec pracowników wynikających z ustawy wymienionej w art. 4 pkt 3. 10dDodany przez art. 1 pkt 1 lit. c ustawy, o której mowa w odnośniku 21.. Zrzeczenie, o którym mowa w ust. 10b pkt 4, następuje w formie umowy, która zawiera w szczególności:
 - **1)** określenie stron;
 - **2)** wysokość roszczeń samodzielnego publicznego zakładu opieki zdrowotnej wobec Narodowego Funduszu Zdrowia, Skarbu Państwa lub innej jednostki sektora finansów publicznych z tytułu zobowiązań wobec pracowników wynikających z ustawy wymienionej w art. 4 pkt 3;
-- **3)** oświadczenie o zrzeczeniu się roszczeń w wysokości określonej w pkt 2.
-
-10e. Kopię umowy, o której mowa w ust. 10d, samodzielny publiczny zakład opieki zdrowotnej niezwłocznie przekazuje BGK.
-
-10f. Samodzielny publiczny zakład opieki zdrowotnej może skorzystać z umorzenia określonego w ust. 10 albo ust. 10a, albo ust. 10b.
-
-10g. Umowa, o której mowa w ust. 10d, jest zawierana nie później niż do dnia 30 listopada 2007 r.
-
-10h. Przepisy ust. 10b-10g stosuje się do samodzielnego publicznego zakładu opieki zdrowotnej, który do dnia 1 września 2007 r. nie zrzekł się roszczeń w sposób określony w ust. 10d i uzyskał zwiększenie pożyczki, o którym mowa w art. 35ba ust. 3.
-
-10i. Przepisy ust. 10b i 10c stosuje się także do samodzielnego publicznego zakładu opieki zdrowotnej, który do dnia 30 listopada 2007 r. zrzekł się przed sądem roszczeń, o których mowa w ust. 10b pkt 3.
-
-10j. Samodzielny publiczny zakład opieki zdrowotnej przekazuje do BGK kopię dokumentów potwierdzających prawomocne zrzeczenie się roszczeń, o których mowa w ust. 10b pkt 3, w sposób określony w ust. 10i.
+- **3)** oświadczenie o zrzeczeniu się roszczeń w wysokości określonej w pkt 2. 10eDodany przez art. 1 pkt 1 lit. c ustawy, o której mowa w odnośniku 21.. Kopię umowy, o której mowa w ust. 10d, samodzielny publiczny zakład opieki zdrowotnej niezwłocznie przekazuje BGK. 10fDodany przez art. 1 pkt 1 lit. c ustawy, o której mowa w odnośniku 21.. Samodzielny publiczny zakład opieki zdrowotnej może skorzystać z umorzenia określonego w ust. 10 albo ust. 10a, albo ust. 10b. 10gDodany przez art. 1 pkt 1 lit. c ustawy, o której mowa w odnośniku 21; w brzmieniu ustalonym przez art. 1 pkt 1 lit. b ustawy wymienionej jako druga w odnośniku 23; wszedł w życie z dniem 31 sierpnia 2007 r.. Umowa, o której mowa w ust. 10d, jest zawierana nie później niż do dnia 30 listopada 2007 r. 10hDodany przez art. 1 pkt 1 lit. c ustawy wymienionej jako druga w odnośniku 23.. Przepisy ust. 10b-10g stosuje się do samodzielnego publicznego zakładu opieki zdrowotnej, który do dnia 1 września 2007 r. nie zrzekł się roszczeń w sposób określony w ust. 10d i uzyskał zwiększenie pożyczki, o którym mowa w art. 35ba ust. 3. 10iDodany przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 19.. Przepisy ust. 10b i 10c stosuje się także do samodzielnego publicznego zakładu opieki zdrowotnej, który do dnia 30 listopada 2007 r. zrzekł się przed sądem roszczeń, o których mowa w ust. 10b pkt 3. 10jDodany przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 19.. Samodzielny publiczny zakład opieki zdrowotnej przekazuje do BGK kopię dokumentów potwierdzających prawomocne zrzeczenie się roszczeń, o których mowa w ust. 10b pkt 3, w sposób określony w ust. 10i.
 
 11. Przedterminowa spłata należności głównej z tytułu pożyczki jest wolna od dodatkowych opłat.
 
@@ -678,9 +654,7 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 - **1)** terminy i warunki wypłat środków z pożyczki;
 - **2)** terminy i sposób spłaty należności głównej z tytułu pożyczki oraz terminy i sposób spłaty odsetek od tej pożyczki;
 - **3)** numery rachunków bankowych, na które zakład będzie dokonywał spłat należności głównej z tytułu pożyczki i odsetek od tej pożyczki oraz wynagrodzenia dla BGK za nadzorowanie wykonania umowy o pożyczkę;
-- **4)** rodzaje zabezpieczeń, o których mowa w ust. 1 pkt 3.
-
-15. Niespłacenie przez zakład dwóch kolejnych rat należności głównej lub dwóch kolejnych rat odsetkowych lub wykorzystanie środków z pożyczki lub zwiększenia pożyczki w sposób niezgodny z ust. 4 pkt 3, art. 35b ust. 5 lub art. 35ba ust. 5 może skutkować postawieniem pożyczki w stan natychmiastowej wymagalności.
+- **4)** rodzaje zabezpieczeń, o których mowa w ust. 1 pkt 3. 15W brzmieniu ustalonym przez art. 1 pkt 1 lit. d ustawy wymienionej jako druga w odnośniku 23.. Niespłacenie przez zakład dwóch kolejnych rat należności głównej lub dwóch kolejnych rat odsetkowych lub wykorzystanie środków z pożyczki lub zwiększenia pożyczki w sposób niezgodny z ust. 4 pkt 3, art. 35b ust. 5 lub art. 35ba ust. 5 może skutkować postawieniem pożyczki w stan natychmiastowej wymagalności.
 
 16. Środki pochodzące z pożyczki nie podlegają egzekucji.
 
@@ -782,36 +756,22 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 - **1)** termin i warunki wypłat środków z tytułu zwiększenia kwoty pożyczki, o którym mowa w ust. 3;
 - **2)** terminy i sposób spłaty należności głównej z tytułu zwiększenia kwoty pożyczki, o którym mowa w ust. 3, oraz terminy i sposób spłaty odsetek od tej kwoty;
 - **3)** numery rachunków bankowych, na które zakład będzie dokonywał spłat należności głównej z tytułu zwiększenia kwoty pożyczki, o którym mowa w ust. 3, i odsetek od tej kwoty oraz wynagrodzenia dla BGK za nadzorowanie wykonania umowy o zmianie umowy o pożyczkę;
-- **4)** rodzaje zabezpieczeń, o których mowa w ust. 1 pkt 4.
+- **4)** rodzaje zabezpieczeń, o których mowa w ust. 1 pkt 4. 8W brzmieniu ustalonym przez art. 1 pkt 3 lit. a ustawy, o której mowa w odnośniku 19.. Zakładowi, który uzyskał umorzenie określone w art. 35 ust. 10 albo w ust. 10a albo w ust. 10b oraz spłaci 30% należności głównej z tytułu zwiększenia pożyczki, o którym mowa w ust. 3, wraz z odsetkami, w okresie do 5 lat od dnia wydania decyzji o warunkach restrukturyzacji umarza się pozostałą część środków uzyskanych z tytułu tego zwiększenia.
 
-8. Zakładowi, który uzyskał umorzenie określone w art. 35 ust. 10 albo w ust. 10a albo w ust. 10b oraz spłaci 30% należności głównej z tytułu zwiększenia pożyczki, o którym mowa w ust. 3, wraz z odsetkami, w okresie do 5 lat od dnia wydania decyzji o warunkach restrukturyzacji umarza się pozostałą część środków uzyskanych z tytułu tego zwiększenia.
-
-9. Do zwiększenia kwoty pożyczki, o którym mowa w ust. 3, stosuje się odpowiednio przepisy art. 35 ust. 6, 7, 11–13 i 16.
-
-10. Zakładowi, który uzyskał umorzenie określone w art. 35 ust. 10b, i uzyskał zwiększenie pożyczki, o którym mowa w art. 35ba ust. 3, umarza się pozostałą część środków uzyskanych z tytułu tego zwiększenia stanowiącą równowartość roszczenia, o którym mowa w art. 35 ust. 10b pkt 3, którego zakład się zrzekł, pomniejszonego o kwotę uzyskanego umorzenia określonego w art. 35 ust. 10b, pod warunkiem dokonania spłaty odsetek należnych za ten okres. Łączna kwota pożyczek z budżetu państwa, o których mowa w art. 35, art. 35a i art. 41a, oraz zwiększenia kwoty pożyczki, o którym mowa w art. 35b ust. 3 i art. 35ba ust. 3, jest ustalana w ustawie budżetowej i nie może przekroczyć kwoty 2,2 mld zł.
+9. Do zwiększenia kwoty pożyczki, o którym mowa w ust. 3, stosuje się odpowiednio przepisy art. 35 ust. 6, 7, 11–13 i 16. 10Dodany przez art. 1 pkt 3 lit. b ustawy, o której mowa w odnośniku 19.. Zakładowi, który uzyskał umorzenie określone w art. 35 ust. 10b, i uzyskał zwiększenie pożyczki, o którym mowa w art. 35ba ust. 3, umarza się pozostałą część środków uzyskanych z tytułu tego zwiększenia stanowiącą równowartość roszczenia, o którym mowa w art. 35 ust. 10b pkt 3, którego zakład się zrzekł, pomniejszonego o kwotę uzyskanego umorzenia określonego w art. 35 ust. 10b, pod warunkiem dokonania spłaty odsetek należnych za ten okres. Łączna kwota pożyczek z budżetu państwa, o których mowa w art. 35, art. 35a i art. 41a, oraz zwiększenia kwoty pożyczki, o którym mowa w art. 35b ust. 3 i art. 35ba ust. 3, jest ustalana w ustawie budżetowej i nie może przekroczyć kwoty 2,2 mld zł.
 
 **Art. 36.**
 
 1. Czynności związane z udzieleniem pożyczki podejmuje w imieniu Skarbu Państwa BGK, w tym w szczególności:
 
 - **1)** przyjmuje wniosek zakładu o udzielenie pożyczki i dokonuje jego analizy pod względem formalnoprawnym;
-- **2)** podpisuje umowę o pożyczkę z zakładem, który spełnia łącznie warunki określone w art. 35 ust. 1;
-- **3)** podpisuje umowę o pożyczkę z zakładem, który spełnia łącznie warunki określone w art. 35a ust. 1;
-- **3a)** podpisuje umowę o pożyczkę z zakładem, który spełnia łącznie warunki określone w art. 41a ust. 1;
-- **4)** podpisuje umowę o zmianie umowy o pożyczkę z zakładem, który spełnia łącznie warunki określone w art. 35b ust. 1;
-- **5)** podpisuje umowę o zmianie umowy o pożyczkę z zakładem, który spełnia łącznie warunki określone w art. 35ba ust. 1.
+- **2)** podpisuje umowę o pożyczkę z zakładem, który spełnia łącznie warunki określone w art. 35 ust. 1; 3Dodany przez art. 1 pkt 3 lit. a ustawy, o której mowa w odnośniku 21.) podpisuje umowę o pożyczkę z zakładem, który spełnia łącznie warunki określone w art. 35a ust. 1; 3aDodany przez art. 1 pkt 5 lit. a ustawy, o której mowa w odnośniku 19.) podpisuje umowę o pożyczkę z zakładem, który spełnia łącznie warunki określone w art. 41a ust. 1; 4Dodany przez art. 1 pkt 3 lit. a ustawy, o której mowa w odnośniku 21.) podpisuje umowę o zmianie umowy o pożyczkę z zakładem, który spełnia łącznie warunki określone w art. 35b ust. 1; 5Dodany przez art. 1 pkt 4 lit. a ustawy wymienionej jako druga w odnośniku 23.) podpisuje umowę o zmianie umowy o pożyczkę z zakładem, który spełnia łącznie warunki określone w art. 35ba ust. 1.
 
-2. Opłata prowizyjna dla BGK za podejmowanie czynności, o których mowa w ust. 1, jest potrącana z pierwszej raty pożyczki.
+2. Opłata prowizyjna dla BGK za podejmowanie czynności, o których mowa w ust. 1, jest potrącana z pierwszej raty pożyczki. 3W brzmieniu ustalonym przez art. 1 pkt 4 lit. b ustawy wymienionej jako druga w odnośniku 23.. BGK podejmuje także, w imieniu Skarbu Państwa, za wynagrodzeniem płatnym przez zakład, czynności związane z nadzorowaniem wykonywania przez zakład umowy o pożyczkę, w tym w szczególności: 1W brzmieniu ustalonym przez art. 1 pkt 5 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 19.) nadzoruje zgodność wykorzystania środków z pożyczki z art. 35 ust. 4 pkt 3, art. 35a ust. 4 albo art. 41b;
 
-3. BGK podejmuje także, w imieniu Skarbu Państwa, za wynagrodzeniem płatnym przez zakład, czynności związane z nadzorowaniem wykonywania przez zakład umowy o pożyczkę, w tym w szczególności:
-
-- **1)** nadzoruje zgodność wykorzystania środków z pożyczki z art. 35 ust. 4 pkt 3, art. 35a ust. 4 albo art. 41b;
-- **2)** nadzoruje zgodność wykorzystania środków z tytułu zwiększenia kwoty pożyczki, o którym mowa w: art. 35b ust. 3, z art. 35b ust. 5, art. 35ba ust. 3, z art. 35ba ust. 5;
+- **2)** nadzoruje zgodność wykorzystania środków z tytułu zwiększenia kwoty pożyczki, o którym mowa w: art. 35b ust. 3, z art. 35b ust. 5, art. 35ba ust. 3, z art. 35ba ust. 5; 3W brzmieniu ustalonym przez art. 1 pkt 5 lit. b tiret drugie ustawy, o której mowa w odnośniku 19.) stawia, za zgodą ministra właściwego do spraw finansów publicznych, pożyczkę w stan natychmiastowej wymagalności, w przypadku, o którym mowa w art. 35 ust. 15, art. 35a ust. 8 albo art. 41c ust. 5; 4W brzmieniu ustalonym przez art. 1 pkt 5 lit. b tiret drugie ustawy, o której mowa w odnośniku 19.) dokonuje oceny spełnienia przez zakład warunków umorzenia, o którym mowa w art. 35 ust. 10 albo ust. 10a, albo ust. 10b oraz 10i, albo art. 35a ust. 6 lub art. 35ba ust. 8 oraz 10 albo art. 41c ust. 2, oraz przekazuje ją do wiadomości ministrowi właściwemu do spraw finansów publicznych.
     - **a)**
     - **b)**
-
-- **3)** stawia, za zgodą ministra właściwego do spraw finansów publicznych, pożyczkę w stan natychmiastowej wymagalności, w przypadku, o którym mowa w art. 35 ust. 15, art. 35a ust. 8 albo art. 41c ust. 5;
-- **4)** dokonuje oceny spełnienia przez zakład warunków umorzenia, o którym mowa w art. 35 ust. 10 albo ust. 10a, albo ust. 10b oraz 10i, albo art. 35a ust. 6 lub art. 35ba ust. 8 oraz 10 albo art. 41c ust. 2, oraz przekazuje ją do wiadomości ministrowi właściwemu do spraw finansów publicznych.
 
 4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
@@ -822,7 +782,7 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 
 6. Wynagrodzenie, o którym mowa w ust. 5, przysługuje w wysokości 3% wyegzekwowanej kwoty; nie może ono być jednak niższe od rzeczywistych kosztów uzasadnionych działań windykacyjnych. Wynagrodzenie jest potrącane z wyegzekwowanej kwoty.
 
-7. (uchylony)
+7. (uchylony)Przez art. 6 ustawy z dnia 25 września 2015 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1854), która weszła w życie z dniem 27 listopada 2015 r.
 
 8. Szczegółowe warunki podejmowania przez BGK czynności, o których mowa w ust. 1, 3 i 5, oraz sposobu ustalania wynagrodzenia, o którym mowa w ust. 5, i zwrotu kosztów uzasadnionych działań windykacyjnych, o których mowa w ust. 6, określi umowa zawarta z ministrem właściwym do spraw finansów publicznych.
 
@@ -832,15 +792,13 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 
 2. Organizację i obsługę emisji obligacji prowadzi BGK.
 
-3. Koszty organizacji i obsługi emisji obligacji ponosi emitent.
-
-4. Do emisji obligacji nie stosuje się przepisów art. 17 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne oraz art. 74 ust. 5 i art. 78 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. poz. 238 oraz z 2017 r. poz. 1089 i 1199).
+3. Koszty organizacji i obsługi emisji obligacji ponosi emitent. 4W brzmieniu ustalonym przez art. 106 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. poz. 238), która weszła w życie z dniem 1 lipca 2015 r.. Do emisji obligacji nie stosuje się przepisów art. 17 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne oraz art. 74 ust. 5 i art. 78 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. poz. 238 oraz z 2017 r. poz. 1089 i 1199).
 
 **Art. 38.**
 
 1. Środki pochodzące z emisji obligacji mogą być przeznaczone wyłącznie na:
 
-- **1)** w pierwszej kolejności – zaspokojenie roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw;
+- **1)** w pierwszej kolejności – zaspokojenie roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustawUchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r.;
 - **2)** spłatę zobowiązań publicznoprawnych, o których mowa w art. 7;
 - **3)** spłatę zobowiązań cywilnoprawnych objętych ugodą restrukturyzacyjną w zakresie określonym w art. 13 ust. 1 pkt 2 i 3;
 - **4)** pokrycie kosztów emisji obligacji oraz pokrycie kosztów opłaty prowizyjnej, o której mowa w art. 42c ust. 4 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, z wyjątkiem kosztów wykupu obligacji oraz płatności z tytułu odsetek od obligacji.
@@ -875,22 +833,24 @@ Do pożyczki, o której mowa w art. 41a, stosuje się odpowiednio przepisy art. 
 - **2)** informację o wysokości nakładów poniesionych w latach 1999–2004 i planowanych do poniesienia w 2005 r. na działania, o których mowa w art. 40 ust. 1, z uwzględnieniem art. 40 ust. 7;
 - **3)** propozycję wysokości dotacji, opis jej przeznaczenia w ramach działań, o których mowa w art. 40 ust. 1, wraz z zamierzonymi efektami ekonomicznymi i organizacyjnymi oraz uzasadnieniem;
 - **4)** liczbę osób zatrudnionych w zakładzie;
-- **5)** liczbę osób, do których stosuje się przepisy art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw.
+- **5)** liczbę osób, do których stosuje się przepisy art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustawUchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r..
 
 2. Do wniosku, o którym mowa w art. 40 ust. 3, dołącza się:
 
 - **1)** sprawozdania finansowe w rozumieniu przepisów o rachunkowości za lata obrotowe, począwszy od 1999 r. do 2004 r.;
 - **2)** sprawozdania z działalności zakładu za lata obrotowe 2002–2004;
-- **3)** informację o stanie realizacji zobowiązań z tytułu roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw;
+- **3)** informację o stanie realizacji zobowiązań z tytułu roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustawUchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r.;
 - **4)** kopię ewidencji środków trwałych oraz wartości niematerialnych i prawnych wraz z informacją o ustanowionych na nich obciążeniach;
 - **5)** oświadczenie zakładu o nieposiadaniu niespłaconych zobowiązań wymagalnych na dzień 31 grudnia 2004 r.;
 - **6)** oświadczenie zakładu o zmniejszeniu nakładów, o których mowa w art. 40 ust. 7, o przyznane dotacje na ich sfinansowanie.
 
-#### Rozdział 4a Zasady udzielania pożyczki dla zakładów objętych i nieobjętych restrukturyzacją finansową
+#### Rozdział 4a
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących
+#### Rozdział dodany przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 19.
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 5
 
-**Art. 44.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+#### Rozdział 6
+
+**Art. 44.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 6 maja 2005 r.. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. poz. 849, 1172, 1240 i 1290, z 2008 r. poz. 1056 i 1570, z 2009 r. poz. 100, 641, 817, 1241 i 1707, z 2010 r. poz. 620, 679 i 1507 oraz z 2011 r. poz. 235. 2) Utraciła moc z dniem 1 lipca 2011 r. na podstawie art. 220 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. poz. 654), która weszła w życie z dniem 1 lipca 2011 r. 3) Obecnie instytuty badawcze, na podstawie art. 49 ust. 1 ustawy z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620 i 1036 oraz z 2012 r. poz. 756), która weszła w życie z dniem 1 października 2010 r. 4) Utraciła moc z dniem 1 października 2010 r. na podstawie art. 8 ustawy, o której mowa w odnośniku 3. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1995 r. poz. 221, z 1997 r. poz. 770, z 1998 r. poz. 1112, z 2001 r. poz. 45 i 1080, z 2003 r. poz. 63 oraz z 2004 r. poz. 226 i 2407. 6) Uchylona przez art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 844 i 2271, z 2004 r. poz. 1291, z 2006 r. poz. 1121, z 2009 r. poz. 1664 i 1707 oraz z 2016 r. poz. 1948 i 2260. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1995 r. poz. 446, z 1996 r. poz. 496 i 622, z 1997 r. poz. 296, 592, 770 i 885, z 1998 r. poz. 668, z 1999 r. poz. 1178, z 2000 r. poz. 136, 550, 718 i 1157 oraz z 2001 r. poz. 452, 497, 634, 764, 811, 907 i 1085. 9) Utraciła moc z dniem 1 października 2001 r. na podstawie art. 2 pkt 1 ustawy z dnia 27 lipca 2001 r. o wprowadzeniu ustawy – Prawo ochrony środowiska, ustawy o odpadach oraz o zmianie niektórych ustaw (Dz. U. poz. 1085), która weszła w życie z dniem 1 października 2001 r., z wyjątkiem art. 37a, który utracił moc z dniem 26 października 2001 r., na podstawie art. 73 ustawy z dnia 22 czerwca 2001 r. o organizmach genetycznie zmodyfikowanych (Dz. U. poz. 811). 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 785, 898, 1089, 1529, 1566, 1888, 1999 i 2056. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1980 r. poz. 6, z 1983 r. poz. 201, z 1989 r. poz. 139 i 192, z 1990 r. poz. 198 i 222, z 1991 r. poz. 131 i 335, z 1993 r. poz. 183, z 1994 r. poz. 96, z 1995 r. poz. 243, z 1996 r. poz. 496, z 1997 r. poz. 299, 554 i 885, z 1998 r. poz. 668, z 2000 r. poz. 136, 991, 1157 i 1268 oraz z 2001 r. poz. 43, 747, 1085 i 1368. 12) Utraciła moc z dniem 1 stycznia 2002 r. na podstawie art. 219 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. poz. 1229), która weszła w życie z dniem 1 stycznia 2002 r. 13) Część wspólna kończąca wyliczenie w brzmieniu ustalonym przez art. 13 pkt 1 ustawy z dnia 20 listopada 2009 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1664), która weszła w życie z dniem 1 stycznia 2010 r. 14) W brzmieniu ustalonym przez art. 94 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948), która weszła w życie z dniem 1 marca 2017 r. 15) W brzmieniu ustalonym przez art. 13 pkt 2 ustawy, o której mowa w odnośniku 13. 16) W brzmieniu ustalonym przez art. 13 pkt 3 ustawy, o której mowa w odnośniku 13. 17) W brzmieniu ustalonym przez art. 52 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260), która weszła w życie z dniem 1 stycznia 2017 r. 18) W brzmieniu ustalonym przez art. 18 ustawy z dnia 16 września 2011 r. o redukcji niektórych obowiązków obywateli i przedsiębiorców (Dz. U. poz. 1378), który wszedł w życie z dniem 1 stycznia 2013 r. 19) W brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 4 września 2008 r. o zmianie ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. poz. 1181), która weszła w życie z dniem 28 października 2008 r. 20) W brzmieniu ustalonym przez art. 13 ustawy z dnia 2 kwietnia 2009 r. o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, ustawy o Banku Gospodarstwa Krajowego oraz niektórych innych ustaw (Dz. U. poz. 545), która weszła w życie z dniem 15 maja 2009 r. 21) Przez art. 1 pkt 1 lit. a ustawy z dnia 9 czerwca 2006 r. o zmianie ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. poz. 971), która weszła w życie z dniem 1 sierpnia 2006 r. 22) W brzmieniu ustalonym przez art. 1 pkt 1 lit. b ustawy, o której mowa w odnośniku 21. 23) Dodany przez art. 1 pkt 1 lit. c ustawy, o której mowa w odnośniku 21; w brzmieniu ustalonym przez art. 1 pkt 1 lit. a ustawy z dnia 24 sierpnia 2007 r. o zmianie ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. poz. 1104), która weszła w życie z dniem 1 września 2007 r. 24) Dodany przez art. 1 pkt 1 lit. c ustawy, o której mowa w odnośniku 21. 25) Dodany przez art. 1 pkt 1 lit. c ustawy, o której mowa w odnośniku 21; w brzmieniu ustalonym przez art. 1 pkt 1 lit. b ustawy wymienionej jako druga w odnośniku 23; wszedł w życie z dniem 31 sierpnia 2007 r. 26) Dodany przez art. 1 pkt 1 lit. c ustawy wymienionej jako druga w odnośniku 23. 27) Dodany przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 19. 28) W brzmieniu ustalonym przez art. 1 pkt 1 lit. d ustawy wymienionej jako druga w odnośniku 23. 29) Dodany przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 21. 30) Dodany przez art. 1 pkt 2 ustawy wymienionej jako druga w odnośniku 23. 31) W brzmieniu ustalonym przez art. 1 pkt 3 lit. a ustawy, o której mowa w odnośniku 19. 32) Dodany przez art. 1 pkt 3 lit. b ustawy, o której mowa w odnośniku 19. 33) Dodany przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 21; w brzmieniu ustalonym przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 19. 34) Dodany przez art. 1 pkt 3 lit. a ustawy, o której mowa w odnośniku 21. 35) Dodany przez art. 1 pkt 5 lit. a ustawy, o której mowa w odnośniku 19. 36) Dodany przez art. 1 pkt 4 lit. a ustawy wymienionej jako druga w odnośniku 23. 37) W brzmieniu ustalonym przez art. 1 pkt 4 lit. b ustawy wymienionej jako druga w odnośniku 23. 38) W brzmieniu ustalonym przez art. 1 pkt 5 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 19. 39) W brzmieniu ustalonym przez art. 1 pkt 5 lit. b tiret drugie ustawy, o której mowa w odnośniku 19. 40) Przez art. 6 ustawy z dnia 25 września 2015 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1854), która weszła w życie z dniem 27 listopada 2015 r. 41) W brzmieniu ustalonym przez art. 106 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. poz. 238), która weszła w życie z dniem 1 lipca 2015 r. 42) Rozdział dodany przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 19. 43) Zamieszczony w obwieszczeniu. 44) Ustawa została ogłoszona w dniu 6 maja 2005 r.
 

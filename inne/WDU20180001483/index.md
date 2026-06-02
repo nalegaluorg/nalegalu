@@ -22,17 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-31 |
 | Data wydania | 2018-08-03 |
-| Wejście w życie | 2018-08-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001483) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1483/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2017 r. poz. 2137) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147 oraz z 2018 r. poz. 303 i 1428.) wprowadza się następujące zmiany:
 1)
-po § 13q dodaje się § 13r i § 13s w brzmieniu:
-„
+po § 13q dodaje się § 13r i § 13s w brzmieniu: „
 § 13r.
 1.
 W 2018 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu:
@@ -83,15 +81,13 @@ Termin składania wniosków, o których mowa w ust. 4, oraz wysokość stawki po
 a)
 produkcji rolnej – w przypadku, o którym mowa w ust. 2 pkt 1 lit. a,
 b)
-produkcji roślinnej – w przypadku, o którym mowa w ust. 2 pkt 1 lit. b
-obliczonego zgodnie z art. 25 ust. 6 rozporządzenia nr 702/2014;
+produkcji roślinnej – w przypadku, o którym mowa w ust. 2 pkt 1 lit. b – obliczonego zgodnie z art. 25 ust. 6 rozporządzenia nr 702/2014;
 2)
 90% kwoty obniżenia dochodu z:
 a)
 produkcji rolnej – w przypadku, o którym mowa w ust. 2 pkt 1 lit. a,
 b)
-produkcji roślinnej – w przypadku, o którym mowa w ust. 2 pkt 1 lit. b
-obliczonego zgodnie z art. 25 ust. 6 rozporządzenia nr 702/2014 – dla gospodarstw rolnych położonych na obszarach z ograniczeniami naturalnymi lub innymi szczególnymi ograniczeniami określonymi w przepisach o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich.
+produkcji roślinnej – w przypadku, o którym mowa w ust. 2 pkt 1 lit. b – obliczonego zgodnie z art. 25 ust. 6 rozporządzenia nr 702/2014 – dla gospodarstw rolnych położonych na obszarach z ograniczeniami naturalnymi lub innymi szczególnymi ograniczeniami określonymi w przepisach o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich.
 10.
 W przypadku gdy łączna wysokość pomocy udzielanej zgodnie z przepisami, o których mowa w ust. 2 pkt 1, oraz pomocy otrzymanej na podstawie odrębnych przepisów, wraz z odszkodowaniem z zakładu ubezpieczeń, przekraczałaby kwotę, o której mowa w ust. 9, pomocy udziela się w wysokości stanowiącej różnicę między kwotą obliczoną zgodnie z ust. 9 a wysokością pomocy otrzymanej na podstawie odrębnych przepisów i otrzymanych odszkodowań.
 11.
@@ -130,17 +126,16 @@ Wysokość pomocy, o której mowa w ust. 1, ustala się jako iloczyn powierzchni
 7.
 Stawka pomocy, o której mowa w ust. 6, wynosi 300 zł na 1 ha powierzchni gruntów pod stawami zarybionymi.
 8.
-Termin składania wniosków, o których mowa w ust. 3, minister właściwy do spraw rolnictwa ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu najpóźniej 14 dni przed rozpoczęciem terminu składania wniosków o przyznanie pomocy.
-” ;
+Termin składania wniosków, o których mowa w ust. 3, minister właściwy do spraw rolnictwa ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu najpóźniej 14 dni przed rozpoczęciem terminu składania wniosków o przyznanie pomocy. ” ;
 2)
 w § 15:
 a)
-w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku zawieszenia przez bank, na wniosek kredytobiorcy, spłaty rat kapitału kredytu bankowego w ramach umów kredytu bankowego zawartych do dnia 30 kwietnia 2007 r. na warunkach i zgodnie z przepisami rozporządzenia Rady Ministrów z dnia 30 stycznia 1996 r. w sprawie szczegółowych kierunków działań Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz sposobów ich realizacji (Dz. U. poz. 82, z późn. zm.), w związku z wprowadzeniem ograniczeń handlowych lub w związku z zakazem utrzymywania w gospodarstwie świń lub ich wprowadzenia do gospodarstwa, wydanym w związku z wystąpieniem afrykańskiego pomoru świń na podstawie art. 44 ust. 1 pkt 9, art. 45 ust. 1 pkt 3a, art. 46 ust. 3 pkt 3a, art. 47 ust. 1 lub art. 48b ust. 1 pkt 2 lub ust. 3 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2017 r. poz. 1855 oraz z 2018 r. poz. 50 i 650): ” ,
+w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku zawieszenia przez bank, na wniosek kredytobiorcy, spłaty rat kapitału kredytu bankowego w ramach umów kredytu bankowego zawartych do dnia 30 kwietnia 2007 r. na warunkach i zgodnie z przepisami rozporządzenia Rady Ministrów z dnia 30 stycznia 1996 r. w sprawie szczegółowych kierunków działań Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz sposobów ich realizacji (Dz. U. poz. 82, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1996 r. poz. 295 i 596, z 1997 r. poz. 204 i 972, z 1999 r. poz. 183, z 2000 r. poz. 500, 532, 655 i 961, z 2001 r. poz. 466, 765, 896, 949, 975 i 1548, z 2002 r. poz. 203, 427, 429, 1242 i 1939, z 2003 r. poz. 1539 i 1980 oraz z 2004 r. poz. 935 i 1642.), w związku z wprowadzeniem ograniczeń handlowych lub w związku z zakazem utrzymywania w gospodarstwie świń lub ich wprowadzenia do gospodarstwa, wydanym w związku z wystąpieniem afrykańskiego pomoru świń na podstawie art. 44 ust. 1 pkt 9, art. 45 ust. 1 pkt 3a, art. 46 ust. 3 pkt 3a, art. 47 ust. 1 lub art. 48b ust. 1 pkt 2 lub ust. 3 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2017 r. poz. 1855 oraz z 2018 r. poz. 50 i 650): ” ,
 b)
 w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku zawieszenia przez bank, na wniosek kredytobiorcy, spłaty rat kapitału kredytu bankowego, w związku z wprowadzeniem ograniczeń handlowych lub w związku z zakazem utrzymywania w gospodarstwie świń lub ich wprowadzenia do gospodarstwa, wydanym w związku z wystąpieniem afrykańskiego pomoru świń na podstawie art. 44 ust. 1 pkt 9, art. 45 ust. 1 pkt 3a, art. 46 ust. 3 pkt 3a, art. 47 ust. 1 lub art. 48b ust. 1 pkt 2 lub ust. 3 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, w ramach umów kredytu bankowego zawartych: ” .
 § 2.
 1.
-W przypadku zawieszenia przez bank, na wniosek kredytobiorcy, spłaty rat kapitału kredytu bankowego w ramach umów kredytu bankowego zawartych do dnia 30 kwietnia 2007 r. na warunkach i zgodnie z przepisami rozporządzenia Rady Ministrów z dnia 30 stycznia 1996 r. w sprawie szczegółowych kierunków działań Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz sposobów ich realizacji (Dz. U. poz. 82, z późn. zm.) w związku z wystąpieniem w 2018 r. suszy lub powodzi – spłata oprocentowania kredytu bankowego za kredytobiorcę jest dokonywana przez Agencję przez okres nie dłuższy niż 2 lata, licząc od dnia zawieszenia przez bank spłaty rat kapitału kredytu bankowego.
+W przypadku zawieszenia przez bank, na wniosek kredytobiorcy, spłaty rat kapitału kredytu bankowego w ramach umów kredytu bankowego zawartych do dnia 30 kwietnia 2007 r. na warunkach i zgodnie z przepisami rozporządzenia Rady Ministrów z dnia 30 stycznia 1996 r. w sprawie szczegółowych kierunków działań Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz sposobów ich realizacji (Dz. U. poz. 82, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1996 r. poz. 295 i 596, z 1997 r. poz. 204 i 972, z 1999 r. poz. 183, z 2000 r. poz. 500, 532, 655 i 961, z 2001 r. poz. 466, 765, 896, 949, 975 i 1548, z 2002 r. poz. 203, 427, 429, 1242 i 1939, z 2003 r. poz. 1539 i 1980 oraz z 2004 r. poz. 935 i 1642.) w związku z wystąpieniem w 2018 r. suszy lub powodzi – spłata oprocentowania kredytu bankowego za kredytobiorcę jest dokonywana przez Agencję przez okres nie dłuższy niż 2 lata, licząc od dnia zawieszenia przez bank spłaty rat kapitału kredytu bankowego.
 2.
 Po zakończeniu okresu zawieszenia przez bank spłaty rat kapitału kredytu bankowego, o których mowa w ust. 1, kredytobiorca zwraca zapłacone przez Agencję oprocentowanie na warunkach ustalonych w umowie kredytu bankowego.
 3.
@@ -148,14 +143,13 @@ W przypadku zawieszenia przez bank, na wniosek kredytobiorcy, spłaty rat kapita
 1)
 od dnia 1 maja 2007 r. do dnia 25 lutego 2009 r. na warunkach i zgodnie z przepisami rozporządzenia Rady Ministrów z dnia 26 kwietnia 2007 r. w sprawie szczegółowego zakresu i kierunków działań Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz sposobów ich realizacji (Dz. U. poz. 514 i 1868 oraz z 2008 r. poz. 42 i 680),
 2)
-od dnia 26 lutego 2009 r. do dnia 31 grudnia 2014 r. na warunkach i zgodnie z przepisami rozporządzenia Rady Ministrów z dnia 22 stycznia 2009 r. w sprawie realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 121, z późn. zm.),
+od dnia 26 lutego 2009 r. do dnia 31 grudnia 2014 r. na warunkach i zgodnie z przepisami rozporządzenia Rady Ministrów z dnia 22 stycznia 2009 r. w sprawie realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 121, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. poz. 645 i 793, z 2010 r. poz. 27, 681, 682 i 1374, z 2012 r. poz. 408 i 988, z 2013 r. poz. 998 oraz z 2014 r. poz. 527, 1333, 1536, 1630 i 1904.),
 3)
-od dnia 14 lutego 2015 r. do dnia 1 czerwca 2018 r. na warunkach i zgodnie z przepisami rozporządzenia Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.)
-spłata oprocentowania kredytu bankowego za kredytobiorcę jest dokonywana przez Agencję przez okres nie dłuższy niż 2 lata, licząc od dnia zawieszenia przez bank spłaty rat kapitału kredytu bankowego.
+od dnia 14 lutego 2015 r. do dnia 1 czerwca 2018 r. na warunkach i zgodnie z przepisami rozporządzenia Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147 oraz z 2018 r. poz. 303 i 1428.) – spłata oprocentowania kredytu bankowego za kredytobiorcę jest dokonywana przez Agencję przez okres nie dłuższy niż 2 lata, licząc od dnia zawieszenia przez bank spłaty rat kapitału kredytu bankowego.
 4.
 W przypadku zawieszenia przez bank, na wniosek kredytobiorcy, spłaty rat kapitału kredytu bankowego, w związku z zakazem utrzymywania w gospodarstwie świń lub ich wprowadzenia do gospodarstwa, wydanym w związku z wystąpieniem afrykańskiego pomoru świń na podstawie art. 44 ust. 1 pkt 9, art. 45 ust. 1 pkt 3a, art. 46 ust. 3 pkt 3a, art. 47 ust. 1 lub art. 48b ust. 1 pkt 2 lub ust. 3 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2017 r. poz. 1855 oraz z 2018 r. poz. 50 i 650), w ramach umów kredytu bankowego zawartych od dnia 14 lutego 2015 r. na warunkach i zgodnie z przepisami rozporządzenia Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa – spłata oprocentowania kredytu bankowego za kredytobiorcę jest dokonywana przez Agencję przez okres nie dłuższy niż 2 lata, licząc od dnia zawieszenia przez bank spłaty rat kapitału kredytu bankowego.
 5.
 Oprocentowanie zapłacone przez Agencję za kredytobiorcę, w okresach zawieszenia przez bank spłaty rat kapitału kredytu bankowego, o których mowa w ust. 3 i 4, pomniejsza kwotę dopłat ustaloną w umowie kredytu bankowego.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147 oraz z 2018 r. poz. 303 i 1428. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1996 r. poz. 295 i 596, z 1997 r. poz. 204 i 972, z 1999 r. poz. 183, z 2000 r. poz. 500, 532, 655 i 961, z 2001 r. poz. 466, 765, 896, 949, 975 i 1548, z 2002 r. poz. 203, 427, 429, 1242 i 1939, z 2003 r. poz. 1539 i 1980 oraz z 2004 r. poz. 935 i 1642. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1996 r. poz. 295 i 596, z 1997 r. poz. 204 i 972, z 1999 r. poz. 183, z 2000 r. poz. 500, 532, 655 i 961, z 2001 r. poz. 466, 765, 896, 949, 975 i 1548, z 2002 r. poz. 203, 427, 429, 1242 i 1939, z 2003 r. poz. 1539 i 1980 oraz z 2004 r. poz. 935 i 1642. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. poz. 645 i 793, z 2010 r. poz. 27, 681, 682 i 1374, z 2012 r. poz. 408 i 988, z 2013 r. poz. 998 oraz z 2014 r. poz. 527, 1333, 1536, 1630 i 1904. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147 oraz z 2018 r. poz. 303 i 1428.
 

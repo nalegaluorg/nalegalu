@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 29 sierpnia 2014 r. o zmianie ustawy o bateriach i akumulatorach oraz niektórych innych ustaw
+# Ustawa z dnia 29 sierpnia 2014 r. o zmianie ustawy o bateriach i akumulatorach oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji uzupełnia wdrożenie postanowień dyrektywy 2006/66/WE Parlamentu Europejskiego i Rady z dnia 6 września 2006 r. w sprawie baterii i akumulatorów oraz uchylającej dyrektywę 91/157/EWG (Dz. Urz. UE L 266 z 26.09.2006, str. 1, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-08-29 |
 | Data wydania | 2014-10-03 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001322) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1322/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. Nr 79, poz. 666, z późn. zm.) wprowadza się następujące zmiany:
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, ustawę z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym oraz ustawę z dnia 14 grudnia 2012 r. o odpadach.
+
+**Art. 1.** W ustawie z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. Nr 79, poz. 666, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 152, poz. 897, Nr 171, poz. 1016 i Nr 178, poz. 1060 oraz z 2013 r. poz. 21.) wprowadza się następujące zmiany:
 
 - **1)** po art. 4 dodaje się art. 4a w brzmieniu: „
 
@@ -39,7 +40,7 @@ source: "eli-html"
 
 2. Zwolnienie, o którym mowa w ust. 1, ma zastosowanie, jeżeli:
 
-- **1)** przedsiębiorca, o którym mowa w ust. 1, złoży marszałkowi województwa, w terminie do dnia 15 marca każdego roku: zaświadczenie lub oświadczenie o pomocy de minimis w zakresie, o którym mowa w art. 37 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.), informacje, których zakres został określony w przepisach wydanych na podstawie art. 37 ust. 2a ustawy, o której mowa w lit. a, a w przypadku przedsiębiorców, do których nie stosuje się przepisów o rachunkowości, także inne dokumenty pozwalające ocenić sytuację finansową przedsiębiorcy za okres 3 ostatnich lat obrotowych;
+- **1)** przedsiębiorca, o którym mowa w ust. 1, złoży marszałkowi województwa, w terminie do dnia 15 marca każdego roku: zaświadczenie lub oświadczenie o pomocy de minimis w zakresie, o którym mowa w art. 37 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.), informacje, których zakres został określony w przepisach wydanych na podstawie art. 37 ust. 2a ustawy, o której mowa w lit. a, a w przypadku przedsiębiorców, do których nie stosuje się przepisów o rachunkowości, także inne dokumenty pozwalające ocenić sytuację finansową przedsiębiorcy za okres 3 ostatnich lat obrotowych;
     - **a)**
     - **b)**
 
@@ -150,7 +151,7 @@ source: "eli-html"
 
 9. Podmiot pośredniczący, realizując obowiązek, o którym mowa w ust. 1, na podstawie umów zawartych z więcej niż jednym wprowadzającym baterie lub akumulatory, może prowadzić wspólną publiczną kampanię edukacyjną dla wszystkich wprowadzających baterie lub akumulatory, pod warunkiem że środki przeznaczone na tę kampanię są co najmniej równe sumie środków, które wprowadzający baterie lub akumulatory są obowiązani przeznaczyć na publiczne kampanie edukacyjne.
 
-10. Do opłaty, o której mowa w ust. 4 pkt 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.), z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa. ” ;
+10. Do opłaty, o której mowa w ust. 4 pkt 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289 oraz z 2014 r. poz. 183, 567, 915, 1171 i 1215.), z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa. ” ;
 
 - **13)** w art. 53: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -233,7 +234,7 @@ source: "eli-html"
 4. Łączna masa zużytych baterii i zużytych akumulatorów wskazana w zaświadczeniach, o których mowa w ust. 1, nie może być większa od masy zużytych baterii i zużytych akumulatorów zebranych przez zbierającego zużyte baterie lub zużyte akumulatory. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:
 
 - **1)** wzór ewidencji zaświadczeń, o której mowa w art. 59 ust. 1, sposób jej prowadzenia oraz jej zakres,
-- **2)** wzór zaświadczenia, o którym mowa w art. 59a ust. 1 kierując się potrzebą ujednolicenia ewidencji i treści zaświadczeń oraz ułatwienia prowadzenia ewidencji. ” ;
+- **2)** wzór zaświadczenia, o którym mowa w art. 59a ust. 1 – kierując się potrzebą ujednolicenia ewidencji i treści zaświadczeń oraz ułatwienia prowadzenia ewidencji. ” ;
 - **20)** w art. 63: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
@@ -248,9 +249,11 @@ source: "eli-html"
 7. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, szczegółowe wymagania dotyczące:
 
 - **1)** procesu przetwarzania zużytych baterii samochodowych kwasowo-ołowiowych, zużytych akumulatorów samochodowych kwasowo-ołowiowych, zużytych baterii przemysłowych kwasowo-ołowiowych lub zużytych akumulatorów przemysłowych kwasowo-ołowiowych,
-- **2)** instalacji prowadzących recykling ołowiu i jego związków lub recykling tworzyw sztucznych biorąc pod uwagę rozwój techniczny i naukowy oraz najlepsze dostępne techniki, a także kierując się potrzebą zapewnienia bezpiecznego dla środowiska i zdrowia ludzi przetwarzania i recyklingu zużytych baterii i zużytych akumulatorów. ” ;
-- **21)** w art. 64: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Prowadzący zakład przetwarzania zużytych baterii lub zużytych akumulatorów, w zależności od rodzaju prowadzonego przetwarzania i recyklingu, jest obowiązany do prowadzenia ewidencji zaświadczeń, o których mowa w art. 64a ust. 1, oraz ewidencji obejmującej informacje o: ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje pkt 4 w brzmieniu: „ 4) osiągniętych poziomach wydajności recyklingu. ” , ust. 6 otrzymuje brzmienie: „
+- **2)** instalacji prowadzących recykling ołowiu i jego związków lub recykling tworzyw sztucznych – biorąc pod uwagę rozwój techniczny i naukowy oraz najlepsze dostępne techniki, a także kierując się potrzebą zapewnienia bezpiecznego dla środowiska i zdrowia ludzi przetwarzania i recyklingu zużytych baterii i zużytych akumulatorów. ” ;
+- **21)** w art. 64: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Prowadzący zakład przetwarzania zużytych baterii lub zużytych akumulatorów, w zależności od rodzaju prowadzonego przetwarzania i recyklingu, jest obowiązany do prowadzenia ewidencji zaświadczeń, o których mowa w art. 64a ust. 1, oraz ewidencji obejmującej informacje o: ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje pkt 4 w brzmieniu: „
     - **a)**
+
+- **4)** osiągniętych poziomach wydajności recyklingu. ” , ust. 6 otrzymuje brzmienie: „
     - **b)**
 
 6. Prowadzący zakład przetwarzania zużytych baterii lub zużytych akumulatorów jest obowiązany do przechowywania ewidencji, o których mowa w ust. 1, oraz zaświadczeń, o których mowa w art. 64a ust. 1, przez okres 5 lat, licząc od końca roku kalendarzowego, którego dotyczą. ” ;
@@ -291,7 +294,7 @@ source: "eli-html"
 4. Łączna masa przetworzonych zużytych baterii lub zużytych akumulatorów wskazana w zaświadczeniach, o których mowa w ust. 1, nie może przekraczać rocznych mocy przerobowych zakładu przetwarzania zużytych baterii lub zużytych akumulatorów określonych w decyzjach związanych z gospodarką odpadami. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:
 
 - **1)** wzór ewidencji zaświadczeń, o której mowa w art. 64 ust. 1, sposób jej prowadzenia oraz jej zakres,
-- **2)** wzór zaświadczenia, o którym mowa w art. 64a ust. 1 kierując się potrzebą ujednolicenia ewidencji i treści zaświadczeń oraz ułatwienia prowadzenia ewidencji. ” ;
+- **2)** wzór zaświadczenia, o którym mowa w art. 64a ust. 1 – kierując się potrzebą ujednolicenia ewidencji i treści zaświadczeń oraz ułatwienia prowadzenia ewidencji. ” ;
 - **23)** art. 65 otrzymuje brzmienie: „
 
 **Art. 65.**
@@ -363,7 +366,7 @@ source: "eli-html"
 
 4. W sprawach dotyczących kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują wojewódzkiemu inspektorowi ochrony środowiska. ” .
 
-**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47, 457, 822, 1101 i 1146.) wprowadza się następujące zmiany:
 
 - **1)** w art. 400a w ust. 1: pkt 8a otrzymuje brzmienie: „
     - **a)**
@@ -388,13 +391,13 @@ source: "eli-html"
 
 - **1)** w art. 21 ust. 2 otrzymuje brzmienie: „
 
-2. Przedsiębiorca prowadzący stację demontażu jest obowiązany do przekazania zużytych baterii samochodowych kwasowo-ołowiowych i zużytych akumulatorów samochodowych kwasowo-ołowiowych zbierającemu zużyte baterie lub zużyte akumulatory lub prowadzącemu zakład przetwarzania zużytych baterii lub zużytych akumulatorów, który spełnia wymagania, o których mowa w art. 15 ust. 1 pkt 1 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. Nr 79, poz. 666, z późn. zm.) i w przepisach wydanych na podstawie art. 63 ust. 7 tej ustawy. ” ;
+2. Przedsiębiorca prowadzący stację demontażu jest obowiązany do przekazania zużytych baterii samochodowych kwasowo-ołowiowych i zużytych akumulatorów samochodowych kwasowo-ołowiowych zbierającemu zużyte baterie lub zużyte akumulatory lub prowadzącemu zakład przetwarzania zużytych baterii lub zużytych akumulatorów, który spełnia wymagania, o których mowa w art. 15 ust. 1 pkt 1 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. Nr 79, poz. 666, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 152, poz. 897, Nr 171, poz. 1016 i Nr 178, poz. 1060, z 2013 r. poz. 21 oraz z 2014 r. poz. 1322.) i w przepisach wydanych na podstawie art. 63 ust. 7 tej ustawy. ” ;
 
 - **2)** art. 48a otrzymuje brzmienie: „
 
 **Art. 48a.** Kto, wbrew przepisowi art. 21 ust. 2, nie przekazuje zużytych baterii samochodowych kwasowo-ołowiowych i zużytych akumulatorów samochodowych kwasowo-ołowiowych zbierającemu zużyte baterie lub zużyte akumulatory lub prowadzącemu zakład przetwarzania zużytych baterii lub zużytych akumulatorów, podlega karze grzywny. ” . W ustawie z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2013 r. poz. 1155) w art. 58 ust. 1 otrzymuje brzmienie: „ 1. Przedmiotem działania organizacji odzysku sprzętu elektrycznego i elektronicznego jest działalność związana z organizowaniem, zarządzaniem lub prowadzeniem przedsięwzięć związanych ze zbieraniem, przetwarzaniem, recyklingiem i innymi niż recykling procesami odzysku oraz unieszkodliwianiem zużytego sprzętu, w tym publiczne kampanie edukacyjne. ” .
 
-**Art. 5.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238 oraz z 2014 r. poz. 695 i 1101.) wprowadza się następujące zmiany:
 
 - **1)** w art. 50 w ust. 1 w pkt 4 w lit. b średnik zastępuje się przecinkiem i dodaje lit. c w brzmieniu: „ podmiotów pośredniczących; ” ;
     - **c)**
@@ -412,9 +415,11 @@ source: "eli-html"
 
 3. Przepisy art. 53 ust. 1 i 3–4 stosuje się odpowiednio. ” ;
 
-- **5)** w art. 73 w ust. 2: wprowadzenie do wyliczenia otrzymuje brzmienie: „ Sprawozdanie, o którym mowa w ust. 1, zawiera w szczególności: ” , w pkt 6: – lit. a otrzymuje brzmienie: „ a) informacje o rodzaju i masie wprowadzonych do obrotu baterii i akumulatorów, ” , – lit. c otrzymuje brzmienie: „ c) informacje o wysokości środków przeznaczonych na publiczne kampanie edukacyjne oraz o sposobie wykorzystania tych środków, ” , – w lit. d w tiret drugim kropkę zastępuje się przecinkiem i dodaje tiret trzecie w brzmieniu: „ – wykaz punktów zbierania zużytych baterii przenośnych lub zużytych akumulatorów przenośnych prowadzonych przez zbierającego zużyte baterie lub zużyte akumulatory, z którym wprowadzający baterie lub akumulatory zawarł umowę, o której mowa w art. 32 ust. 1 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach, oraz wykaz miejsc odbioru, z których zbierający zużyte baterie lub zużyte akumulatory odbiera zużyte baterie przenośne lub zużyte akumulatory przenośne. ” ;
+- **5)** w art. 73 w ust. 2: wprowadzenie do wyliczenia otrzymuje brzmienie: „ Sprawozdanie, o którym mowa w ust. 1, zawiera w szczególności: ” , w pkt 6: lit. a otrzymuje brzmienie: „ informacje o rodzaju i masie wprowadzonych do obrotu baterii i akumulatorów, ” , lit. c otrzymuje brzmienie: „ informacje o wysokości środków przeznaczonych na publiczne kampanie edukacyjne oraz o sposobie wykorzystania tych środków, ” , w lit. d w tiret drugim kropkę zastępuje się przecinkiem i dodaje tiret trzecie w brzmieniu: „ – wykaz punktów zbierania zużytych baterii przenośnych lub zużytych akumulatorów przenośnych prowadzonych przez zbierającego zużyte baterie lub zużyte akumulatory, z którym wprowadzający baterie lub akumulatory zawarł umowę, o której mowa w art. 32 ust. 1 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach, oraz wykaz miejsc odbioru, z których zbierający zużyte baterie lub zużyte akumulatory odbiera zużyte baterie przenośne lub zużyte akumulatory przenośne. ” ;
     - **a)**
     - **b)**
+    - **a)**
+    - **c)**
 
 - **6)** w art. 75 w ust. 2: wprowadzenie do wyliczenia otrzymuje brzmienie: „ Roczne sprawozdanie, o którym mowa w ust. 1, zawiera w szczególności: ” , pkt 9 otrzymuje brzmienie: „
     - **a)**
@@ -476,7 +481,7 @@ source: "eli-html"
 
 **Art. 15.** Do czasu utworzenia rejestru, o którym mowa w art. 49 ust. 1 ustawy zmienianej w art. 5, przedsiębiorca zagraniczny, będący wprowadzającym baterie lub akumulatory w rozumieniu ustawy zmienianej w art. 1, składa wniosek o wpis do rejestru wprowadzających baterie lub akumulatory oraz prowadzących zakłady przetwarzania zużytych baterii lub zużytych akumulatorów:
 
-- **1)** za pośrednictwem osoby upoważnionej do jego reprezentowania, zgodnie z art. 87 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, z późn. zm.), do marszałka województwa właściwego ze względu na siedzibę oddziału – jeżeli ustanowił oddział na terytorium Rzeczypospolitej Polskiej;
+- **1)** za pośrednictwem osoby upoważnionej do jego reprezentowania, zgodnie z art. 87 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650 oraz z 2014 r. poz. 822, 1133 i 1138.), do marszałka województwa właściwego ze względu na siedzibę oddziału – jeżeli ustanowił oddział na terytorium Rzeczypospolitej Polskiej;
 - **2)** za pośrednictwem podmiotu pośredniczącego, z którym zawarł umowę, o której mowa w art. 28 ust. 4 ustawy zmienianej w art. 1, do marszałka województwa właściwego ze względu na siedzibę podmiotu pośredniczącego – jeżeli nie ustanowił oddziału na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 16.**
@@ -490,7 +495,7 @@ source: "eli-html"
 1. Do czasu utworzenia Bazy danych o produktach i opakowaniach oraz o gospodarce odpadami, o której mowa w ustawie zmienianej w art. 5, marszałek województwa jest obowiązany do sporządzenia i przedłożenia Głównemu Inspektorowi Ochrony Środowiska zbiorczego sprawozdania ze sprawozdań i wykazów, o których mowa w:
 
 - **1)** art. 34 ust. 2, art. 35, art. 36 ust. 4, art. 37 ust. 6, art. 41 ust. 3, art. 59 ust. 3 i art. 64 ust. 5 ustawy zmienianej w art. 1 w brzmieniu obowiązującym przed dniem wejścia w życie ustawy zmienianej w art. 5,
-- **2)** art. 56 ust. 2 ustawy zmienianej w art. 1 w terminie do dnia 15 kwietnia roku, w którym te sprawozdania zostały przekazane.
+- **2)** art. 56 ust. 2 ustawy zmienianej w art. 1 – w terminie do dnia 15 kwietnia roku, w którym te sprawozdania zostały przekazane.
 
 2. Minister właściwy do spraw środowiska może określić, w drodze rozporządzenia, wzór zbiorczego sprawozdania, o którym mowa w ust. 1, oraz sposób jego przekazywania, kierując się potrzebą ujednolicenia sprawozdań.
 
@@ -501,6 +506,6 @@ source: "eli-html"
 **Art. 20.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r., z wyjątkiem:
 
 - **1)** art. 1 pkt 3 lit. a, który wchodzi w życie z dniem 2 października 2015 r.;
-- **2)** art. 1 pkt 3 lit. b, pkt 20 lit. a oraz pkt 36 w zakresie art. 99c, które wchodzą w życie z dniem 1 stycznia 2017 r.
+- **2)** art. 1 pkt 3 lit. b, pkt 20 lit. a oraz pkt 36 w zakresie art. 99c, które wchodzą w życie z dniem 1 stycznia 2017 r. 1) Niniejsza ustawa w zakresie swojej regulacji uzupełnia wdrożenie postanowień dyrektywy 2006/66/WE Parlamentu Europejskiego i Rady z dnia 6 września 2006 r. w sprawie baterii i akumulatorów oraz uchylającej dyrektywę 91/157/EWG (Dz. Urz. UE L 266 z 26.09.2006, str. 1, z późn. zm.). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, ustawę z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym oraz ustawę z dnia 14 grudnia 2012 r. o odpadach. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 152, poz. 897, Nr 171, poz. 1016 i Nr 178, poz. 1060 oraz z 2013 r. poz. 21. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289 oraz z 2014 r. poz. 183, 567, 915, 1171 i 1215. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47, 457, 822, 1101 i 1146. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 152, poz. 897, Nr 171, poz. 1016 i Nr 178, poz. 1060, z 2013 r. poz. 21 oraz z 2014 r. poz. 1322. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238 oraz z 2014 r. poz. 695 i 1101. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650 oraz z 2014 r. poz. 822, 1133 i 1138.
 
 

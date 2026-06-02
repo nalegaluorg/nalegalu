@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 27 sierpnia 2019 r. w sprawie rodzajów inwestycji i działań, które wymagają uzyskania oceny wodnoprawnej
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 27 sierpnia 2019 r. w sprawie rodzajów inwestycji i działań, które wymagają uzyskania oceny wodnoprawnej Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-27 |
 | Data wydania | 2019-09-13 |
-| Wejście w życie | 2019-09-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001752) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1752/text.pdf) |
 
@@ -62,7 +61,11 @@ b)
 kanałów,
 c)
 budowli piętrzących:
-– o wysokości piętrzenia nie mniejszej niż 0,3 m na: – – ciekach naturalnych, dla których celem środowiskowym jest zapewnienie ciągłości morfologicznej, lub – – obszarach objętych formami ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–5, 8 i 9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2018 r. poz. 1614, 2244 i 2340 oraz z 2019 r. poz. 1696), lub w otulinach form ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–3 tej ustawy, przeznaczonych do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie, – jeżeli piętrzenie dotyczy cieków naturalnych, na których nie istnieją budowle piętrzące, lub – o wysokości piętrzenia nie mniejszej niż 1 m,
+o wysokości piętrzenia nie mniejszej niż 0,3 m na:
+– – ciekach naturalnych, dla których celem środowiskowym jest zapewnienie ciągłości morfologicznej, lub
+– – obszarach objętych formami ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–5, 8 i 9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2018 r. poz. 1614, 2244 i 2340 oraz z 2019 r. poz. 1696), lub w otulinach form ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–3 tej ustawy, przeznaczonych do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie,
+– jeżeli piętrzenie dotyczy cieków naturalnych, na których nie istnieją budowle piętrzące, lub
+– o wysokości piętrzenia nie mniejszej niż 1 m,
 d)
 urządzeń do przerzutów wód lub sztucznego zasilania wód podziemnych w celu zwiększenia zasobów wodnych innych cieków naturalnych, kanałów, jezior oraz innych zbiorników wodnych,
 e)
@@ -80,8 +83,7 @@ w zakresie zmiany ukształtowania terenu na gruntach przylegających do wód maj
 a)
 podwyższeniu terenu na gruntach przylegających do wód co najmniej o 1 m albo
 b)
-obniżeniu terenu na gruntach przylegających do wód co najmniej o 2 m
-z wyjątkiem działań wykonywanych na podstawie decyzji w sprawach rekultywacji i zagospodarowania, o której mowa w art. 22 ust. 1 ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2017 r. poz. 1161), w przypadku gdy rekultywacja ma na celu przywrócenie ukształtowania rzeźby terenu istniejącego przed wystąpieniem degradacji gruntów;
+obniżeniu terenu na gruntach przylegających do wód co najmniej o 2 m – z wyjątkiem działań wykonywanych na podstawie decyzji w sprawach rekultywacji i zagospodarowania, o której mowa w art. 22 ust. 1 ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2017 r. poz. 1161), w przypadku gdy rekultywacja ma na celu przywrócenie ukształtowania rzeźby terenu istniejącego przed wystąpieniem degradacji gruntów;
 9)
 w zakresie robót i obiektów budowlanych mających wpływ na zmniejszenie naturalnej retencji terenowej – wykonanie na nieruchomości o powierzchni powyżej 3500 m2robót lub obiektów budowlanych trwale związanych z gruntem, mających wpływ na zmniejszenie naturalnej retencji terenowej przez wyłączenie z powierzchni biologicznie czynnej więcej niż 70% powierzchni nieruchomości położonej na obszarze nieujętym w system kanalizacji otwartej lub zamkniętej, zlokalizowanym na obszarach zasilania w strefie ochronnej ujęcia wód powierzchniowych lub wód podziemnych przeznaczonego do poboru wody na potrzeby zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi;
 10)
@@ -89,6 +91,5 @@ w zakresie działań, o których mowa w art. 227 ust. 3 ustawy z dnia 20 lipca 2
 § 2.
 Ocena wodnoprawna inwestycji i działań, o których mowa w § 1 ust. 2, jest wymagana do wniosku o wydanie pozwolenia wodnoprawnego złożonego po dniu wejścia w życie rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
 

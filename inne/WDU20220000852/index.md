@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 7 kwietnia 2022 r. w sprawie podmiotów uprawnionych do zakupu produktów leczniczych w hurtowniach farmaceutycznych
+# Rozporządzenie Ministra Zdrowiaz dnia 7 kwietnia 2022 r. w sprawie podmiotów uprawnionych do zakupu produktów leczniczych w hurtowniach farmaceutycznych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-07 |
 | Data wydania | 2022-04-20 |
-| Wejście w życie | 2022-05-21 |
 | Ostatnia zmiana | 2024-11-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000852) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/852/text.pdf) |
 
@@ -75,8 +74,7 @@ utworzonym przez Polską Akademię Nauk instytutem naukowym lub pomocniczą jedn
 d)
 inną niż wskazane w lit. a-c jednostką prowadzącą w sposób ciągły badania naukowe lub prace rozwojowe,
 e)
-szkołą policealną
-w zakresie produktów leczniczych, które podmiot ten musi posiadać lub wykorzystywać zgodnie z zakresem swojej działalności, a konieczność ta znajduje odzwierciedlenie w statucie tego podmiotu;
+szkołą policealną – w zakresie produktów leczniczych, które podmiot ten musi posiadać lub wykorzystywać zgodnie z zakresem swojej działalności, a konieczność ta znajduje odzwierciedlenie w statucie tego podmiotu;
 12)
 organizator prac podwodnych w rozumieniu art. 2 pkt 12 ustawy z dnia 17 października 2003 r. o wykonywaniu prac podwodnych (Dz. U. z 2021 r. poz. 612) oraz inny podmiot, którego zakres działalności wymaga posiadania lub wykorzystywania tlenu medycznego – w zakresie produktów leczniczych będących tlenem medycznym, które podmiot ten musi posiadać lub wykorzystywać zgodnie z zakresem swojej działalności;
 13)
@@ -92,6 +90,5 @@ osoba fizyczna – w zakresie zakupu produktu leczniczego będącego tlenem medy
 § 2.
 Traci moc rozporządzenie Ministra Zdrowia z dnia 12 grudnia 2002 r. w sprawie podmiotów uprawnionych do zakupu produktów leczniczych w hurtowni farmaceutycznej (Dz. U. poz. 1831).
 § 3.
-Rozporządzenie wchodzi w życie po upływie miesiąca od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
+Rozporządzenie wchodzi w życie po upływie miesiąca od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 

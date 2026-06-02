@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 17 grudnia 2020 r. w sprawie materiałów budowlanych, w przypadku których oznacza się stężenie promieniotwórcze izotopów promieniotwórczych potasu K-40, radu Ra-226 i toru Th-232, wymagań dotyczących dokonywania tych oznaczeń oraz wartości wskaźnika stężenia promieniotwórczego, o której przekroczeniu informuje się właściwe organy
+# Rozporządzenie Rady Ministrówz dnia 17 grudnia 2020 r. w sprawie materiałów budowlanych, w przypadku których oznacza się stężenie promieniotwórcze izotopów promieniotwórczych potasu K-40, radu Ra-226 i toru Th-232, wymagań dotyczących dokonywania tych oznaczeń oraz wartości wskaźnika stężenia promieniotwórczego, o której przekroczeniu informuje się właściwe organy Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiającą podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywę 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, Dz. Urz. UE L 72 z 17.03.2016, str. 69, Dz. Urz. UE L 152 z 11.06.2019, str. 128 oraz Dz. Urz. UE L 324 z 13.12.2019, str. 80).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-17 |
 | Data wydania | 2021-01-07 |
-| Wejście w życie | 2021-02-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000033) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/33/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Materiały budowlane, w przypadku których oznacza się stężenie promieniotwórcze izotopów promieniotwórczych potasu K-40, Radu RA-226 i Toru TH-232
 Treść rozporządzenia
-Na podstawie art. 6b ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2019 r. poz. 1792 oraz z 2020 r. poz. 284 i 322) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 4 września 2020 r., pod numerem 2020/0550/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 6b ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2019 r. poz. 1792 oraz z 2020 r. poz. 284 i 322) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -68,7 +67,7 @@ Wartość wskaźnika, o którym mowa w § 4, większa niż 1 oznacza możliwoś�
 § 7.
 Do oznaczania stężenia promieniotwórczego naturalnych izotopów promieniotwórczych w materiałach budowlanych wyprodukowanych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 2 stycznia 2007 r. w sprawie wymagań dotyczących zawartości naturalnych izotopów promieniotwórczych potasu K-40, radu Ra-226 i toru Th-228 w surowcach i materiałach stosowanych w budynkach przeznaczonych na pobyt ludzi i inwentarza żywego, a także w odpadach przemysłowych stosowanych w budownictwie, oraz kontroli zawartości tych izotopów (Dz. U. poz. 29), które zgodnie z art. 37 ust. 1 pkt 1 ustawy z dnia 13 czerwca 2019 r. o zmianie ustawy – Prawo atomowe oraz ustawy o ochronie przeciwpożarowej (Dz. U. poz. 1593 oraz z 2020 r. poz. 284) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiającą podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywę 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, Dz. Urz. UE L 72 z 17.03.2016, str. 69, Dz. Urz. UE L 152 z 11.06.2019, str. 128 oraz Dz. Urz. UE L 324 z 13.12.2019, str. 80). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 4 września 2020 r., pod numerem 2020/0550/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 2 stycznia 2007 r. w sprawie wymagań dotyczących zawartości naturalnych izotopów promieniotwórczych potasu K-40, radu Ra-226 i toru Th-228 w surowcach i materiałach stosowanych w budynkach przeznaczonych na pobyt ludzi i inwentarza żywego, a także w odpadach przemysłowych stosowanych w budownictwie, oraz kontroli zawartości tych izotopów (Dz. U. poz. 29), które zgodnie z art. 37 ust. 1 pkt 1 ustawy z dnia 13 czerwca 2019 r. o zmianie ustawy – Prawo atomowe oraz ustawy o ochronie przeciwpożarowej (Dz. U. poz. 1593 oraz z 2020 r. poz. 284) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 Załącznik – Materiały budowlane, w przypadku których oznacza się stężenie promieniotwórcze izotopów promieniotwórczych potasu K-40, Radu RA-226 i Toru TH-232
 1.
 Materiały budowlane zawierające naturalnie występujący materiał promieniotwórczy:

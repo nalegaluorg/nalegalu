@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-04-27 |
 | Data wydania | 2001-06-13 |
-| Wejście w życie | 2001-06-28 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010600610) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/610/text.pdf) |
 
@@ -161,9 +160,11 @@ source: "eli-html"
 
 - **1)** równowartości 125 euro, ustalonej przy zastosowaniu kursu kupna walut obcych, ogłaszanego przez Narodowy Bank Polski, z dnia wydania zezwolenia, za każdy rok objęty zezwoleniem na sprzedaż napojów zawierających do 4,5% alkoholu oraz piwa,
 - **2)** równowartości 125 euro, ustalonej przy zastosowaniu kursu kupna walut obcych, ogłaszanego przez Narodowy Bank Polski, z dnia wydania zezwolenia, za każdy rok objęty zezwoleniem na sprzedaż napojów zawierających powyżej 4,5% do 18% alkoholu (z wyjątkiem piwa),
-- **3)** równowartości 500 euro, ustalonej przy zastosowaniu kursu kupna walut obcych, ogłaszanego przez Narodowy Bank Polski, z dnia wydania zezwolenia, za każdy rok objęty zezwoleniem na sprzedaż napojów zawierających powyżej 18% alkoholu. ” , w ust. 3: – w pkt 1 wyraz „ECU” zastępuje się wyrazem „euro”, – w pkt 2 wyraz „ECU” zastępuje się wyrazem „euro”, – dodaje się pkt 3 i 4 w brzmieniu: „ 3) o 300% w przypadku punktów sprzedaży, których wartość sprzedaży wyrobów alkoholowych w roku poprzednim przekroczyła równowartość 60 000 euro, ustaloną przy zastosowaniu kursu kupna walut obcych, ogłaszanego przez Narodowy Bank Polski, z dnia 31 grudnia tego roku, 4) o 500% w przypadku punktów sprzedaży, których wartość sprzedaży wyrobów alkoholowych w roku poprzednim przekroczyła równowartość 100 000 euro, ustaloną przy zastosowaniu kursu kupna walut obcych, ogłaszanego przez Narodowy Bank Polski, z dnia 31 grudnia tego roku. ” ;
+- **3)** równowartości 500 euro, ustalonej przy zastosowaniu kursu kupna walut obcych, ogłaszanego przez Narodowy Bank Polski, z dnia wydania zezwolenia, za każdy rok objęty zezwoleniem na sprzedaż napojów zawierających powyżej 18% alkoholu. ” , w ust. 3: – w pkt 1 wyraz „ECU” zastępuje się wyrazem „euro”, – w pkt 2 wyraz „ECU” zastępuje się wyrazem „euro”, dodaje się pkt 3 i 4 w brzmieniu: „
     - **b)**
 
+- **3)** o 300% w przypadku punktów sprzedaży, których wartość sprzedaży wyrobów alkoholowych w roku poprzednim przekroczyła równowartość 60 000 euro, ustaloną przy zastosowaniu kursu kupna walut obcych, ogłaszanego przez Narodowy Bank Polski, z dnia 31 grudnia tego roku,
+- **4)** o 500% w przypadku punktów sprzedaży, których wartość sprzedaży wyrobów alkoholowych w roku poprzednim przekroczyła równowartość 100 000 euro, ustaloną przy zastosowaniu kursu kupna walut obcych, ogłaszanego przez Narodowy Bank Polski, z dnia 31 grudnia tego roku. ” ;
 - **12)** w art. 12: w ust. 1 na końcu zdania dodaje się wyrazy „jak i w miejscu sprzedaży”, w ust. 3 po wyrazach „poza miejscem sprzedaży” dodaje się wyrazy „jak i w miejscu sprzedaży”;
     - **a)**
     - **b)**

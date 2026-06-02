@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-08-05 |
 | Data wydania | 2010-09-10 |
-| Wejście w życie | 2010-09-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101671130) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1130/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 66, z późn. zm.) w art. 15:
+**Art. 1.** W ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 66, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 559, z 2008 r. Nr 208, poz. 1308, z 2009 r. Nr 24, poz. 145, Nr 79, poz. 669, Nr 95, poz. 785 i Nr 161, poz. 1278 oraz z 2010 r. Nr 27, poz. 141, Nr 36, poz. 204 i Nr 113, poz. 745.) w art. 15:
 
 - **1)** uchyla się ust. 6;
 - **2)** po ust. 6 dodaje się ust. 6a w brzmieniu: „
@@ -48,9 +47,9 @@ source: "eli-html"
 **Art. 2.** Żołnierzom zawodowym:
 
 - **1)** którym do dnia wejścia w życie niniejszej ustawy przysługiwało prawo podwyższenia emerytury wojskowej i
-- **2)** którzy pełnili zawodową służbę wojskową w dniu wejścia w życie niniejszej ustawy emeryturę wojskową, za okres zawodowej służby wojskowej pełnionej do dnia wejścia w życie niniejszej ustawy, podwyższa się na dotychczasowych zasadach, o ile nowe zasady nie są korzystniejsze.
+- **2)** którzy pełnili zawodową służbę wojskową w dniu wejścia w życie niniejszej ustawy – emeryturę wojskową, za okres zawodowej służby wojskowej pełnionej do dnia wejścia w życie niniejszej ustawy, podwyższa się na dotychczasowych zasadach, o ile nowe zasady nie są korzystniejsze.
 
 **Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 15 ust. 6 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 15 ust. 6a ustawy, o której mowa w ust. 1, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 559, z 2008 r. Nr 208, poz. 1308, z 2009 r. Nr 24, poz. 145, Nr 79, poz. 669, Nr 95, poz. 785 i Nr 161, poz. 1278 oraz z 2010 r. Nr 27, poz. 141, Nr 36, poz. 204 i Nr 113, poz. 745.
 

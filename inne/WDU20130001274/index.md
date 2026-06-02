@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 22 października 2013 r. w sprawie przykładowego wykazu wyrobów, które uznaje się albo nie uznaje się za opakowanie
+# Rozporządzenie Ministra Środowiskaz dnia 22 października 2013 r. w sprawie przykładowego wykazu wyrobów, które uznaje się albo nie uznaje się za opakowanie Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia postanowień dyrektywy Komisji 2013/2/UE z dnia 7 lutego 2013 r. zmieniającej załącznik I do dyrektywy 94/62/WE Parlamentu Europejskiego i Rady w sprawie opakowań i odpadów opakowaniowych (Dz. Urz. UE L 37 z 08.02.2013, str. 10).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-10-22 |
 | Data wydania | 2013-10-31 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001274) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1274/text.pdf) |
 
@@ -35,7 +34,7 @@ Rozporządzenie określa przykładowy wykaz wyrobów, w tym części składowych
 § 2.
 Wykaz, o którym mowa w § 1, jest określony w załączniku do rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r. 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia postanowień dyrektywy Komisji 2013/2/UE z dnia 7 lutego 2013 r. zmieniającej załącznik I do dyrektywy 94/62/WE Parlamentu Europejskiego i Rady w sprawie opakowań i odpadów opakowaniowych (Dz. Urz. UE L 37 z 08.02.2013, str. 10).
 Załącznik – Przykładowy wykaz wyrobów, w tym części składowych opakowań oraz złączonych z wyrobem elementów pomocniczych, które uznaje się albo nie uznaje się za opakowanie
 1.
 Wyroby stanowiące integralną część produktu oraz niezbędne do przechowywania, utrzymywania lub zabezpieczania produktu przez cały cykl i okres funkcjonowania:

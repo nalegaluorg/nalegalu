@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Sportu i Turystykiz dnia 11 maja 2018 r. w sprawie kwartalnej informacji o stanie i wykorzystaniu środków Turystycznego Funduszu Gwarancyjnego składanej przez Ubezpieczeniowy Fundusz Gwarancyjny
+# Rozporządzenie Ministra Sportu i Turystykiz dnia 11 maja 2018 r. w sprawie kwartalnej informacji o stanie i wykorzystaniu środków Turystycznego Funduszu Gwarancyjnego składanej przez Ubezpieczeniowy Fundusz Gwarancyjny Minister Sportu i Turystyki kieruje działem administracji rządowej – turystyka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2318).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-11 |
 | Data wydania | 2018-05-28 |
-| Wejście w życie | 2018-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001019) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1019/text.pdf) |
 
@@ -61,8 +60,7 @@ pokrycie kosztów kontynuacji imprezy turystycznej lub kosztów powrotu do kraju
 b)
 zwrot wpłat wniesionych tytułem zapłaty za imprezę turystyczną lub każdą opłaconą usługę przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych, w przypadku gdy z przyczyn dotyczących organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych, lub osób, które działają w ich imieniu, impreza turystyczna lub którakolwiek opłacona usługa przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych nie została lub nie zostanie zrealizowana,
 c)
-zwrot części wpłat wniesionych tytułem zapłaty za imprezę turystyczną odpowiadającą części imprezy turystycznej, lub za każdą usługę opłaconą przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych, odpowiadającą części usługi, która nie została lub nie zostanie zrealizowana z przyczyn dotyczących organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych, lub osób, które działają w ich imieniu
-wraz ze wskazaniem wysokości środków, o których wypłatę wystąpili poszczególni marszałkowie województw;
+zwrot części wpłat wniesionych tytułem zapłaty za imprezę turystyczną odpowiadającą części imprezy turystycznej, lub za każdą usługę opłaconą przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych, odpowiadającą części usługi, która nie została lub nie zostanie zrealizowana z przyczyn dotyczących organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych, lub osób, które działają w ich imieniu – wraz ze wskazaniem wysokości środków, o których wypłatę wystąpili poszczególni marszałkowie województw;
 5)
 informacje o wysokości kwoty do wypłaty, wynikającej ze zgłoszeń podróżnych, którzy nie otrzymali całości pokrycia kosztów i zwrotu wpłat, przekazanych przez podmioty udzielające zabezpieczeń finansowych, która nie została zaspokojona na ostatni dzień kwartału;
 6)
@@ -84,8 +82,7 @@ informacje o stanie rozrachunków:
 a)
 należności wewnętrznych,
 b)
-zobowiązań wewnętrznych
-na ostatni dzień kwartału pomiędzy Turystycznym Funduszem Gwarancyjnym a Ubezpieczeniowym Funduszem Gwarancyjnym;
+zobowiązań wewnętrznych – na ostatni dzień kwartału pomiędzy Turystycznym Funduszem Gwarancyjnym a Ubezpieczeniowym Funduszem Gwarancyjnym;
 10)
 informacje o wysokości zaległych, nieodprowadzonych w terminie składek na Turystyczny Fundusz Gwarancyjny, na ostatni dzień kwartału, wraz z informacją, których przedsiębiorców turystycznych dotyczą i ile wynoszą zaległości, zgodnie z deklaracjami, o których mowa w art. 7 ust. 1 pkt 4 ustawy;
 11)
@@ -117,6 +114,5 @@ informacje o przekazywanych przez poszczególnych marszałków województw koszt
 § 3.
 Kwartalna informacja o stanie i wykorzystaniu środków Turystycznego Funduszu Gwarancyjnego za II kwartał 2018 r., która powinna być przekazana przez Ubezpieczeniowy Fundusz Gwarancyjny ministrowi właściwemu do spraw turystyki oraz ministrowi właściwemu do spraw instytucji finansowych w terminie 30 dni od ostatniego dnia tego kwartału, jest przekazywana zgodnie z rozporządzeniem Ministra Sportu i Turystyki z dnia 21 listopada 2016 r. w sprawie zakresu kwartalnej informacji o wykorzystaniu środków Turystycznego Funduszu Gwarancyjnego składanej przez Ubezpieczeniowy Fundusz Gwarancyjny (Dz. U. poz. 1893).
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2018 r.
-1) Minister Sportu i Turystyki kieruje działem administracji rządowej – turystyka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2318). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sportu i Turystyki z dnia 21 listopada 2016 r. w sprawie zakresu kwartalnej informacji o wykorzystaniu środków Turystycznego Funduszu Gwarancyjnego składanej przez Ubezpieczeniowy Fundusz Gwarancyjny (Dz. U. poz. 1893), które traci moc z dniem wejścia w życie ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. poz. 2361 oraz z 2018 r. poz. 650).
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sportu i Turystyki z dnia 21 listopada 2016 r. w sprawie zakresu kwartalnej informacji o wykorzystaniu środków Turystycznego Funduszu Gwarancyjnego składanej przez Ubezpieczeniowy Fundusz Gwarancyjny (Dz. U. poz. 1893), które traci moc z dniem wejścia w życie ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. poz. 2361 oraz z 2018 r. poz. 650). 1) Minister Sportu i Turystyki kieruje działem administracji rządowej – turystyka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2318). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sportu i Turystyki z dnia 21 listopada 2016 r. w sprawie zakresu kwartalnej informacji o wykorzystaniu środków Turystycznego Funduszu Gwarancyjnego składanej przez Ubezpieczeniowy Fundusz Gwarancyjny (Dz. U. poz. 1893), które traci moc z dniem wejścia w życie ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. poz. 2361 oraz z 2018 r. poz. 650).
 

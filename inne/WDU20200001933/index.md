@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju, Pracy i Technologiiz dnia 20 października 2020 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej niezwiązanej z programami operacyjnymi
+# Rozporządzenie Ministra Rozwoju, Pracy i Technologiiz dnia 20 października 2020 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej niezwiązanej z programami operacyjnymi Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-10-20 |
 | Data wydania | 2020-11-03 |
-| Wejście w życie | 2020-11-18 |
 | Ostatnia zmiana | 2025-09-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001933) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1933/text.pdf) |
 
@@ -45,11 +44,11 @@ podmiotom działającym na rzecz zatrudnienia, rozwoju kapitału ludzkiego lub p
 osobom zamierzającym podjąć działalność gospodarczą.
 § 2.
 1.
-Pomoc finansowa udzielana przedsiębiorcom na podstawie § 14, § 17, § 18, § 23 i § 25, wsparcie uzyskane przez przedsiębiorcę na pokrycie wydatków określonych w § 7 ust. 2 pkt 5 i 6 i § 9 ust. 2 pkt 2–4, z zastrzeżeniem § 3 ust. 2 i 4, wsparcie uzyskane przez przedsiębiorcę na podstawie § 11 ust. 1 oraz wsparcie uzyskane przez podmiot na podstawie § 12 ust. 1 i § 13 ust. 1, jeżeli ten podmiot prowadzi działalność gospodarczą, stanowi pomoc de minimis , która jest udzielana zgodnie z przepisami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem Komisji (UE) nr 1407/2013”.
+Pomoc finansowa udzielana przedsiębiorcom na podstawie § 14, § 17, § 18, § 23 i § 25, wsparcie uzyskane przez przedsiębiorcę na pokrycie wydatków określonych w § 7 ust. 2 pkt 5 i 6 i § 9 ust. 2 pkt 2–4, z zastrzeżeniem § 3 ust. 2 i 4, wsparcie uzyskane przez przedsiębiorcę na podstawie § 11 ust. 1 oraz wsparcie uzyskane przez podmiot na podstawie § 12 ust. 1 i § 13 ust. 1, jeżeli ten podmiot prowadzi działalność gospodarczą, stanowi pomoc de minimis , która jest udzielana zgodnie z przepisami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3., zwanego dalej „rozporządzeniem Komisji (UE) nr 1407/2013”.
 2.
 Rozporządzenia nie stosuje się do pomocy de minimis :
 1)
-udzielanej w sektorze rybołówstwa i akwakultury, objętych rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającym rozporządzenia Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającym rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1, z późn. zm.);
+udzielanej w sektorze rybołówstwa i akwakultury, objętych rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającym rozporządzenia Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającym rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 86, Dz. Urz. UE L 133 z 29.05.2015, str. 1 oraz Dz. Urz. UE L 130 z 24.04.2020, str. 11.;
 2)
 udzielanej na działalność w zakresie produkcji podstawowej produktów rolnych wymienionych w załączniku I do Traktatu o funkcjonowaniu Unii Europejskiej;
 3)
@@ -72,7 +71,7 @@ Pomoc jest udzielana z zachowaniem warunków określonych w art. 5 rozporządzen
 Wielkość pomocy de minimis , o której mowa w ust. 1, udzielanej w formie pożyczek, wyrażana jest za pomocą ekwiwalentu dotacji brutto, przy zastosowaniu przepisu art. 4 ust. 3 rozporządzenia Komisji (UE) nr 1407/2013.
 § 3.
 1.
-Pomoc finansowa udzielana przedsiębiorcom na podstawie § 5 na pokrycie wydatków określonych w § 7 ust. 2 pkt 1–4 i 7–12 oraz w § 9 ust. 2 pkt 1 i 5–9, stanowi pomoc publiczną i jest udzielana zgodnie z przepisami rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”.
+Pomoc finansowa udzielana przedsiębiorcom na podstawie § 5 na pokrycie wydatków określonych w § 7 ust. 2 pkt 1–4 i 7–12 oraz w § 9 ust. 2 pkt 1 i 5–9, stanowi pomoc publiczną i jest udzielana zgodnie z przepisami rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 215 z 07.07.2020, str. 3., zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”.
 2.
 Jeżeli wsparcie uzyskane przez przedsiębiorcę na pokrycie wydatków określonych w § 9 ust. 2 pkt 2 w ramach pomocy de minimis spowodowałoby przekroczenie dopuszczalnej wielkości tej pomocy, wsparcie to stanowi pomoc publiczną na usługi doradcze na rzecz małych i średnich przedsiębiorstw, zwanych dalej „MŚP”, o której mowa w § 5 ust. 1 pkt 2, lub pomoc publiczną na projekty badawczo-rozwojowe, o której mowa w § 5 ust. 1 pkt 3, z zachowaniem warunków określonych odpowiednio w art. 18 lub art. 25 rozporządzenia Komisji (UE) nr 651/2014.
 3.
@@ -274,8 +273,7 @@ który jest kobietą prowadzącą działalność gospodarczą albo
 2)
 w którym kobieta jest wspólnikiem uprawnionym do reprezentowania spółki, albo
 3)
-w którym kobieta jest wspólnikiem i członkiem organu zarządzającego albo akcjonariuszem i członkiem organu zarządzającego
-zwanego dalej „wsparciem NMF dla kobiet”.
+w którym kobieta jest wspólnikiem i członkiem organu zarządzającego albo akcjonariuszem i członkiem organu zarządzającego – zwanego dalej „wsparciem NMF dla kobiet”.
 2.
 Projekt może być realizowany w partnerstwie z podmiotem prawa norweskiego, który prowadzi działalność na terytorium Królestwa Norwegii potwierdzoną wpisem do odpowiedniego rejestru lub innym dokumentem wystawionym przez właściwy organ administracji Królestwa Norwegii, związanym z wnioskodawcą umową partnerstwa, która określa w szczególności zakres zadań i odpowiedzialność stron. Do wyboru partnera stosuje się zasady i procedury określone w umowie w sprawie programu, o której mowa w § 6 ust. 1.
 3.
@@ -521,7 +519,7 @@ Wsparcie dla startupów jest udzielane w formie finansowania kosztów usług dor
 Agencja może udzielić mikroprzedsiębiorcy, małemu lub średniemu przedsiębiorcy prowadzącemu działalność gospodarczą na terytorium Rzeczypospolitej Polskiej potwierdzoną wpisem do odpowiedniego rejestru pomocy finansowej w formie finansowania kosztów usług doradczych lub szkoleniowych świadczonych bezpłatnie lub za cenę niższą niż cena rynkowa przez Agencję lub wykonawców wybranych przez Agencję w trybie określonym w przepisach o zamówieniach publicznych.
 § 19.
 1.
-Agencja może udzielić osobie prawnej, mającej siedzibę na terytorium Rzeczypospolitej Polskiej, będącej członkiem Europejskiej Sieci Przedsiębiorczości, o której mowa w art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1287/2013 z dnia 11 grudnia 2013 r. ustanawiającego program na rzecz konkurencyjności przedsiębiorstw oraz na rzecz małych i średnich przedsiębiorstw (COSME) (2014–2020) i uchylającego decyzję nr 1639/2006/WE (Dz. Urz. UE L 347 z 20.12.2013, str. 33, z późn. zm.), pomocy finansowej w formie bezzwrotnego wsparcia na pokrycie kosztów związanych ze świadczeniem usług Europejskiej Sieci Przedsiębiorczości określonych w programach Unii Europejskiej na rzecz mikroprzedsiębiorców, małych lub średnich przedsiębiorców.
+Agencja może udzielić osobie prawnej, mającej siedzibę na terytorium Rzeczypospolitej Polskiej, będącej członkiem Europejskiej Sieci Przedsiębiorczości, o której mowa w art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1287/2013 z dnia 11 grudnia 2013 r. ustanawiającego program na rzecz konkurencyjności przedsiębiorstw oraz na rzecz małych i średnich przedsiębiorstw (COSME) (2014–2020) i uchylającego decyzję nr 1639/2006/WE (Dz. Urz. UE L 347 z 20.12.2013, str. 33, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 71 z 16.03.2016, str. 323.), pomocy finansowej w formie bezzwrotnego wsparcia na pokrycie kosztów związanych ze świadczeniem usług Europejskiej Sieci Przedsiębiorczości określonych w programach Unii Europejskiej na rzecz mikroprzedsiębiorców, małych lub średnich przedsiębiorców.
 2.
 Wsparcie związane ze świadczeniem usług, o których mowa w ust. 1, jest udzielane z przeznaczeniem na pokrycie wydatków określonych w umowie o udzielenie wsparcia, w części nieobjętej finansowaniem z budżetu Unii Europejskiej.
 3.
@@ -536,11 +534,11 @@ Agencja może udzielić osobie prawnej, wskazanej w umowie o dotację celową za
 1)
 rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1287/2013 z dnia 11 grudnia 2013 r. ustanawiającym program na rzecz konkurencyjności przedsiębiorstw oraz na rzecz małych i średnich przedsiębiorstw (COSME) (2014–2020) i uchylającym decyzję nr 1639/2006/WE;
 2)
-rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1291/2013 z dnia 11 grudnia 2013 r. ustanawiającym „Horyzont 2020” – program ramowy w zakresie badań naukowych i innowacji (2014–2020) oraz uchylającym decyzję nr 1982/2006/WE (Dz. Urz. UE L 347 z 20.12.2013, str. 104, z późn. zm.);
+rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1291/2013 z dnia 11 grudnia 2013 r. ustanawiającym „Horyzont 2020” – program ramowy w zakresie badań naukowych i innowacji (2014–2020) oraz uchylającym decyzję nr 1982/2006/WE (Dz. Urz. UE L 347 z 20.12.2013, str. 104, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 169 z 01.07.2015, str. 1.;
 3)
-rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1295/2013 z dnia 11 grudnia 2013 r. ustanawiającym program „Kreatywna Europa” (2014–2020) i uchylającym decyzje nr 1718/2006/WE, nr 1855/2006/WE i nr 1041/2009/WE (Dz. Urz. UE L 347 z 20.12.2013, str. 221, z późn. zm.);
+rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1295/2013 z dnia 11 grudnia 2013 r. ustanawiającym program „Kreatywna Europa” (2014–2020) i uchylającym decyzje nr 1718/2006/WE, nr 1855/2006/WE i nr 1041/2009/WE (Dz. Urz. UE L 347 z 20.12.2013, str. 221, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 189 z 27.06.2014, str. 260 oraz Dz. Urz. UE L 103 z 23.04.2018, str. 1.;
 4)
-rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1296/2013 z dnia 11 grudnia 2013 r. w sprawie programu Unii Europejskiej na rzecz zatrudnienia i innowacji społecznych („EaSI”) i zmieniającym decyzję nr 283/2010/UE ustanawiającą Europejski instrument mikrofinansowy na rzecz zatrudnienia i włączenia społecznego Progress (Dz. Urz. UE L 347 z 20.12.2013, str. 238, z późn. zm.).
+rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1296/2013 z dnia 11 grudnia 2013 r. w sprawie programu Unii Europejskiej na rzecz zatrudnienia i innowacji społecznych („EaSI”) i zmieniającym decyzję nr 283/2010/UE ustanawiającą Europejski instrument mikrofinansowy na rzecz zatrudnienia i włączenia społecznego Progress (Dz. Urz. UE L 347 z 20.12.2013, str. 238, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 107 z 22.04.2016, str. 1 oraz Dz. Urz. UE L 193 z 30.07.2018, str. 1..
 2.
 Kwota wsparcia nie może przekroczyć kwoty wydatków, o których mowa w ust. 1, faktycznie poniesionych przez osobę prawną, o której mowa w ust. 1.
 3.
@@ -559,11 +557,9 @@ wspólnikiem spółki jawnej albo partnerskiej lub
 b)
 komplementariuszem spółki komandytowej albo komandytowo-akcyjnej, lub
 c)
-wspólnikiem albo akcjonariuszem i jednocześnie członkiem zarządu spółki kapitałowej, wpisanej do rejestru przedsiębiorców Krajowego Rejestru Sądowego
-będącej mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, albo
+wspólnikiem albo akcjonariuszem i jednocześnie członkiem zarządu spółki kapitałowej, wpisanej do rejestru przedsiębiorców Krajowego Rejestru Sądowego – będącej mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, albo
 3)
-zamierza podjąć działalność gospodarczą
-zwanej dalej „młodym przedsiębiorcą”.
+zamierza podjąć działalność gospodarczą – zwanej dalej „młodym przedsiębiorcą”.
 3.
 Warunkiem udzielenia wsparcia w ramach Erasmusa jest złożenie przez młodego przedsiębiorcę wniosku o udzielenie wsparcia przed upływem trzech lat od dnia rozpoczęcia przez niego działalności gospodarczej lub od dnia rozpoczęcia działalności gospodarczej przez spółkę, o której mowa w ust. 2 pkt 2.
 4.
@@ -765,6 +761,5 @@ Do wniosków o udzielenie pomocy finansowej złożonych w ramach postępowań og
 3.
 Do umów zawartych i zawieranych na podstawie wniosków o udzielenie wsparcia NMF i wsparcia NMF dla kobiet złożonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 § 28.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 86, Dz. Urz. UE L 133 z 29.05.2015, str. 1 oraz Dz. Urz. UE L 130 z 24.04.2020, str. 11. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 215 z 07.07.2020, str. 3. 5) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 71 z 16.03.2016, str. 323. 6) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 169 z 01.07.2015, str. 1. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 189 z 27.06.2014, str. 260 oraz Dz. Urz. UE L 103 z 23.04.2018, str. 1. 8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 107 z 22.04.2016, str. 1 oraz Dz. Urz. UE L 193 z 30.07.2018, str. 1. 9) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 2 grudnia 2006 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej niezwiązanej z programami operacyjnymi (Dz. U. z 2018 r. poz. 315 oraz z 2019 r. poz. 2113), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 3 ustawy z dnia 4 kwietnia 2019 r. o zmianie ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. poz. 836).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 2 grudnia 2006 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej niezwiązanej z programami operacyjnymi (Dz. U. z 2018 r. poz. 315 oraz z 2019 r. poz. 2113), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 3 ustawy z dnia 4 kwietnia 2019 r. o zmianie ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. poz. 836). 1) Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 86, Dz. Urz. UE L 133 z 29.05.2015, str. 1 oraz Dz. Urz. UE L 130 z 24.04.2020, str. 11. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 215 z 07.07.2020, str. 3. 5) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 71 z 16.03.2016, str. 323. 6) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 169 z 01.07.2015, str. 1. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 189 z 27.06.2014, str. 260 oraz Dz. Urz. UE L 103 z 23.04.2018, str. 1. 8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 107 z 22.04.2016, str. 1 oraz Dz. Urz. UE L 193 z 30.07.2018, str. 1. 9) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 2 grudnia 2006 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej niezwiązanej z programami operacyjnymi (Dz. U. z 2018 r. poz. 315 oraz z 2019 r. poz. 2113), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 3 ustawy z dnia 4 kwietnia 2019 r. o zmianie ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. poz. 836).
 

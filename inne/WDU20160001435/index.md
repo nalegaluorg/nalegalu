@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 6 września 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze”
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 6 września 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze” Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-06 |
 | Data wydania | 2016-09-09 |
-| Wejście w życie | 2016-09-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001435) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1435/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 24 ust. 1 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. poz. 1358 oraz z 2016 r. poz. 1203) zarządza się, co następuje:
 § 1.
-Rozporządzenie określa szczegółowe warunki i tryb przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze, o którym mowa w art. 62 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.) , zwanego dalej „rozporządzeniem nr 508/2014”, i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, o których mowa w art. 62 ust. 1 lit. b i d rozporządzenia nr 508/2014, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze”, zwanym dalej „programem”, oraz wysokość stawek tej pomocy, w tym:
+Rozporządzenie określa szczegółowe warunki i tryb przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze, o którym mowa w art. 62 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43 oraz Dz. Urz. UE L 169 z 28.06.2016, str. 18.) , zwanego dalej „rozporządzeniem nr 508/2014”, i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, o których mowa w art. 62 ust. 1 lit. b i d rozporządzenia nr 508/2014, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze”, zwanym dalej „programem”, oraz wysokość stawek tej pomocy, w tym:
 1)
 szczegółowe wymagania, jakim powinny odpowiadać wnioski o dofinansowanie i wnioski o płatność, oraz tryb składania tych wniosków;
 2)
@@ -55,7 +54,7 @@ powierzenie społecznościom rybackim ważniejszej roli w rozwoju lokalnym oraz 
 § 3.
 Pomoc finansową przyznaje się na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, która:
 1)
-jest zgodna ze strategią rozwoju lokalnego kierowanego przez społeczność, o której mowa w art. 2 pkt 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.) , zwaną dalej „LSR”;
+jest zgodna ze strategią rozwoju lokalnego kierowanego przez społeczność, o której mowa w art. 2 pkt 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1 oraz Dz. Urz. UE L 200 z 26.07.2016, str. 140.) , zwaną dalej „LSR”;
 2)
 została wybrana przez lokalną grupę działania, o której mowa w art. 32 ust. 2 lit. b rozporządzenia wymienionego w pkt 1, zwaną dalej „LGD”;
 3)
@@ -693,6 +692,5 @@ Do warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realiz
 § 68.
 Wniosek o dofinansowanie operacji w ramach działania „Koszty bieżące i aktywizacja”, o którym mowa w art. 62 ust. 1 lit. d rozporządzenia nr 508/2014, na pierwszy rok realizacji LSR LGD składa w terminie 60 dni od dnia wejścia w życie rozporządzenia.
 § 69.
-Rozporządzenie wchodzi w życie z dniem 9 września 2016 r.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43 oraz Dz. Urz. UE L 169 z 28.06.2016, str. 18. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1 oraz Dz. Urz. UE L 200 z 26.07.2016, str. 140.
+Rozporządzenie wchodzi w życie z dniem 9 września 2016 r. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43 oraz Dz. Urz. UE L 169 z 28.06.2016, str. 18. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1 oraz Dz. Urz. UE L 200 z 26.07.2016, str. 140.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Zagranicznychz dnia 18 grudnia 2024 r. w sprawie wykazu miejsc o klimacie szczególnie szkodliwym dla zdrowia przebywających w nich na placówkach zagranicznych członków służby zagranicznej
+# Rozporządzenie Ministra Spraw Zagranicznychz dnia 18 grudnia 2024 r. w sprawie wykazu miejsc o klimacie szczególnie szkodliwym dla zdrowia przebywających w nich na placówkach zagranicznych członków służby zagranicznej Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 2713).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-18 |
 | Data wydania | 2024-12-20 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2024-12-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001903) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1903/text.pdf) |
 
@@ -36,8 +35,7 @@ Ustala się wykaz miejsc o klimacie szczególnie szkodliwym dla zdrowia przebywa
 2.
 Wykaz jest określony w załączniku do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
-1) Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 2713). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Zagranicznych z dnia 25 kwietnia 2002 r. w sprawie wykazu miejsc o klimacie szczególnie szkodliwym dla zdrowia przebywających w nich na placówkach zagranicznych członków służby zagranicznej (Dz. U. z 2016 r. poz. 331 oraz z 2018 r. poz. 1065), które traci moc z dniem 1 stycznia 2025 r. zgodnie z art. 87 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2024 r. poz. 1691 i 1840).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Zagranicznych z dnia 25 kwietnia 2002 r. w sprawie wykazu miejsc o klimacie szczególnie szkodliwym dla zdrowia przebywających w nich na placówkach zagranicznych członków służby zagranicznej (Dz. U. z 2016 r. poz. 331 oraz z 2018 r. poz. 1065), które traci moc z dniem 1 stycznia 2025 r. zgodnie z art. 87 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2024 r. poz. 1691 i 1840). 1) Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 2713). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Zagranicznych z dnia 25 kwietnia 2002 r. w sprawie wykazu miejsc o klimacie szczególnie szkodliwym dla zdrowia przebywających w nich na placówkach zagranicznych członków służby zagranicznej (Dz. U. z 2016 r. poz. 331 oraz z 2018 r. poz. 1065), które traci moc z dniem 1 stycznia 2025 r. zgodnie z art. 87 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2024 r. poz. 1691 i 1840).
 Załącznik – Wykaz miejsc o klimacie szczególnie szkodliwym dla zdrowia przebywających w nich na placówkach zagranicznych członków służby zagranicznej
 I.
 Miejsca położone na terytorium:

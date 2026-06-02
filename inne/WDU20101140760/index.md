@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-05-21 |
 | Data wydania | 2010-06-29 |
-| Wejście w życie | 2010-12-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101140760) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/760/text.pdf) |
 
@@ -53,7 +52,7 @@ source: "eli-html"
 4. Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy zakres informacji o przeprowadzonych kontrolach wyrobów budowlanych i wydanych postanowieniach, decyzjach i opiniach, przekazywanej przez wojewódzkich inspektorów nadzoru budowlanego Głównemu Inspektorowi Nadzoru Budowlanego,
-- **2)** sposób i termin przekazywania tych informacji mając na uwadze potrzebę monitorowania systemu kontroli wyrobów budowlanych wprowadzonych do obrotu. ” ;
+- **2)** sposób i termin przekazywania tych informacji – mając na uwadze potrzebę monitorowania systemu kontroli wyrobów budowlanych wprowadzonych do obrotu. ” ;
 - **4)** po art. 14 dodaje się art. 14a w brzmieniu: „
 
 **Art. 14a.** Organy administracji publicznej w zakresie swojej właściwości są obowiązane do współdziałania z organami nadzoru budowlanego w sprawach kontroli wyrobów budowlanych. ” ;
@@ -211,16 +210,16 @@ source: "eli-html"
 - **1)** wprowadza do obrotu wyrób budowlany nienadający się do stosowania przy wykonywaniu robót budowlanych,
 - **2)** umieszcza oznakowanie CE albo znak budowlany na wyrobie budowlanym, który nie spełnia wymagań określonych w niniejszej ustawie,
 - **3)** umieszcza na wyrobie budowlanym znak podobny do oznakowania CE albo znaku budowlanego, mogący wprowadzić w błąd użytkownika, konsumenta lub sprzedawcę tego wyrobu,
-- **4)** umieszcza znak budowlany na wyrobie, niebędącym wyrobem budowlanym podlega grzywnie. ” ;
+- **4)** umieszcza znak budowlany na wyrobie, niebędącym wyrobem budowlanym – podlega grzywnie. ” ;
 - **19)** art. 36 otrzymuje brzmienie: „
 
 **Art. 36.** Orzekanie w sprawach określonych w art. 35 następuje na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia. ” .
 
-**Art. 2.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258, z 2006 r. Nr 170, poz. 1217, Nr 235, poz. 1700 i Nr 249, poz. 1832 i 1834, z 2007 r. Nr 21, poz. 124 i Nr 192, poz. 1381, z 2008 r. Nr 157, poz. 976 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 oraz z 2010 r. Nr 107, poz. 679.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 ust. 3 otrzymuje brzmienie: „
 
-3. Przepisów art. 7, art. 13 ust. 1 i 2, art. 40b-40k, art. 41–41c, art. 42, art. 45–47b nie stosuje się do wyrobów budowlanych w rozumieniu ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych (Dz. U. Nr 92, poz. 881, z 2009 r. Nr 18, poz. 97 oraz z 2010 r. Nr 114, poz. 760). Ilekroć w przepisach ustawy jest mowa o zasadniczych wymaganiach, w przypadku wyrobów budowlanych należy przez to rozumieć wymagania podstawowe, o których mowa w art. 5 ust. 1 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.). ” ;
+3. Przepisów art. 7, art. 13 ust. 1 i 2, art. 40b-40k, art. 41–41c, art. 42, art. 45–47b nie stosuje się do wyrobów budowlanych w rozumieniu ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych (Dz. U. Nr 92, poz. 881, z 2009 r. Nr 18, poz. 97 oraz z 2010 r. Nr 114, poz. 760). Ilekroć w przepisach ustawy jest mowa o zasadniczych wymaganiach, w przypadku wyrobów budowlanych należy przez to rozumieć wymagania podstawowe, o których mowa w art. 5 ust. 1 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 160, poz. 1276 i Nr 161, poz. 1279 oraz z 2010 r. Nr 75, poz. 474 i Nr 106, poz. 675.). ” ;
 
 - **2)** w art. 39a w ust. 3 pkt 2 otrzymuje brzmienie: „
 - **2)** w art. 30 ust. 1 pkt 2 i 3 i ust. 2, art. 31 ust. 1 pkt 2 i 3 i ust. 2, w art. 31a ust. 3 oraz w art. 32 pkt 2 i 3 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych; ” ;
@@ -236,5 +235,5 @@ source: "eli-html"
 
 **Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 15 ust. 7 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 15 ust. 7 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258, z 2006 r. Nr 170, poz. 1217, Nr 235, poz. 1700 i Nr 249, poz. 1832 i 1834, z 2007 r. Nr 21, poz. 124 i Nr 192, poz. 1381, z 2008 r. Nr 157, poz. 976 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 oraz z 2010 r. Nr 107, poz. 679. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 160, poz. 1276 i Nr 161, poz. 1279 oraz z 2010 r. Nr 75, poz. 474 i Nr 106, poz. 675.
 

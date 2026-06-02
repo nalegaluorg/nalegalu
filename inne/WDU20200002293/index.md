@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 17 grudnia 2020 r. zmieniające rozporządzenie w sprawie udzielania pomocy na realizację inwestycji służących podniesieniu poziomu ochrony środowiska w ramach regionalnych programów operacyjnych na lata 2014–2020
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 17 grudnia 2020 r. zmieniające rozporządzenie w sprawie udzielania pomocy na realizację inwestycji służących podniesieniu poziomu ochrony środowiska w ramach regionalnych programów operacyjnych na lata 2014–2020 Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-17 |
 | Data wydania | 2020-12-18 |
-| Wejście w życie | 2020-12-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002293) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2293/text.pdf) |
 
@@ -35,6 +34,5 @@ w § 10 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do dnia 31 
 2)
 w § 11 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do dnia 31 grudnia 2021 r. maksymalną intensywność pomocy, o której mowa w § 1 pkt 2, zwiększa się o: ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 

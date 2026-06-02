@@ -22,39 +22,31 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-03-05 |
 | Data wydania | 2013-03-07 |
-| Wejście w życie | 2013-03-22 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000322) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/322/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. z 2013 r. poz. 173) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 193, poz. 1397, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 193, poz. 1397, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2007 r. Nr 205, poz. 1492, z 2008 r. Nr 47, poz. 279 i Nr 173, poz. 1076, z 2009 r. Nr 48, poz. 389 oraz z 2010 r. Nr 207, poz. 1372.) wprowadza się następujące zmiany:
 1)
-w § 1 pkt 2 otrzymuje brzmienie:
-„
+w § 1 pkt 2 otrzymuje brzmienie: „
 2)
-szczegółowe wymagania, jakim powinny odpowiadać wnioski o przyznanie pomocy;
-” ;
+szczegółowe wymagania, jakim powinny odpowiadać wnioski o przyznanie pomocy; ” ;
 2)
-w § 2 w ust. 1 pkt 4 otrzymuje brzmienie:
-„
+w § 2 w ust. 1 pkt 4 otrzymuje brzmienie: „
 4)
 jest pełnoletnia i nie osiągnęła wieku emerytalnego; za osiągnięcie wieku emerytalnego uważa się:
 a)
-ukończenie wieku, o którym mowa w art. 27 ust. 2 albo 3 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227, z późn. zm.) – w przypadku osób urodzonych przed dniem 1 stycznia 1949 r.,
+ukończenie wieku, o którym mowa w art. 27 ust. 2 albo 3 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726, z 2011 r. Nr 75, poz. 398, Nr 149, poz. 887, Nr 168, poz. 1001, Nr 187, poz. 1112 i Nr 205, poz. 1203, z 2012 r. poz. 118, 251, 637, 664, 1285 i 1548 oraz z 2013 r. poz. 240.) – w przypadku osób urodzonych przed dniem 1 stycznia 1949 r.,
 b)
-ukończenie wieku, o którym mowa w art. 24 ust. 1a albo 1b ustawy, o której mowa w lit. a – w przypadku osób urodzonych po dniu 31 grudnia 1948 r.;
-” ;
+ukończenie wieku, o którym mowa w art. 24 ust. 1a albo 1b ustawy, o której mowa w lit. a – w przypadku osób urodzonych po dniu 31 grudnia 1948 r.; ” ;
 3)
-w § 9 w ust. 1 w pkt 3 lit. a otrzymuje brzmienie:
-„
+w § 9 w ust. 1 w pkt 3 lit. a otrzymuje brzmienie: „
 a)
-koszty zakupu materiału rozmnożeniowego lub nasadzeniowego przeznaczonego do założenia sadu lub plantacji, których okres użytkowania jest dłuższy niż 5 lat; w przypadku gatunków roślin uprawnych wymienionych w wykazie gatunków roślin, których odmiany podlegają rejestracji oraz których materiał siewny może być wytwarzany, oceniany i kontrolowany, ogłoszonym w obwieszczeniu, o którym mowa w art. 1 ust. 3 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512), kosztem kwalifikowalnym jest zakup materiału rozmnożeniowego lub nasadzeniowego kategorii kwalifikowany, z tym że jeżeli do krajowego rejestru nie wpisano żadnej odmiany gatunku rośliny uprawnej, który jest wymieniony w tym wykazie, kosztem kwalifikowalnym może być zakup materiału szkółkarskiego CAC,
-” ;
+koszty zakupu materiału rozmnożeniowego lub nasadzeniowego przeznaczonego do założenia sadu lub plantacji, których okres użytkowania jest dłuższy niż 5 lat; w przypadku gatunków roślin uprawnych wymienionych w wykazie gatunków roślin, których odmiany podlegają rejestracji oraz których materiał siewny może być wytwarzany, oceniany i kontrolowany, ogłoszonym w obwieszczeniu, o którym mowa w art. 1 ust. 3 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512), kosztem kwalifikowalnym jest zakup materiału rozmnożeniowego lub nasadzeniowego kategorii kwalifikowany, z tym że jeżeli do krajowego rejestru nie wpisano żadnej odmiany gatunku rośliny uprawnej, który jest wymieniony w tym wykazie, kosztem kwalifikowalnym może być zakup materiału szkółkarskiego CAC, ” ;
 4)
-w § 13 ust. 2–4 otrzymują brzmienie:
-„
+w § 13 ust. 2–4 otrzymują brzmienie: „
 2.
 Do wniosku o przyznanie pomocy dołącza się:
 1)
@@ -90,7 +82,7 @@ opis zadań wymienionych w zestawieniu rzeczowo-finasowym operacji, sporządzony
 16)
 kopię promesy umowy leasingu dotyczącej planowanego zakupu rzeczy wraz z harmonogramem spłat rat leasingowych z wyszczególnieniem części kapitałowej i części odsetkowej – w przypadku gdy operacja obejmuje inwestycje polegające na nabyciu rzeczy będących przedmiotem leasingu;
 17)
-kopię dokumentu albo kopie dokumentów potwierdzających posiadanie samoistne lub zależne gospodarstwa, w którym będzie realizowana operacja, przy czym w przypadku posiadania samoistnego nieruchomości, dla której księga wieczysta jest prowadzona w systemie informatycznym, o którym mowa w art. 251 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2001 r. Nr 124, poz. 1361, z późn. zm.), jest wystarczające podanie numeru księgi wieczystej;
+kopię dokumentu albo kopie dokumentów potwierdzających posiadanie samoistne lub zależne gospodarstwa, w którym będzie realizowana operacja, przy czym w przypadku posiadania samoistnego nieruchomości, dla której księga wieczysta jest prowadzona w systemie informatycznym, o którym mowa w art. 251 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2001 r. Nr 124, poz. 1361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 125, poz. 1368, z 2002 r. Nr 169, poz. 1387, z 2003 r. Nr 42, poz. 363, z 2004 r. Nr 172, poz. 1804, z 2008 r. Nr 116, poz. 731, z 2009 r. Nr 131, poz. 1075, z 2011 r. Nr 230, poz. 1370 oraz z 2012 r. poz. 827.), jest wystarczające podanie numeru księgi wieczystej;
 18)
 oświadczenie właściciela albo współwłaściciela gospodarstwa albo jego części o wyrażeniu zgody na realizację operacji, sporządzone na formularzu opracowanym i udostępnionym przez Agencję – w przypadku gdy operacja będzie realizowana w gospodarstwie niestanowiącym własności wnioskodawcy albo stanowiącym współwłasność wnioskodawcy i nie dotyczy wyłącznie nabycia rzeczy ruchomych, które nie wymagają instalacji;
 19)
@@ -120,43 +112,34 @@ inne dokumenty potwierdzające spełnienie warunków do przyznania pomocy.
 3.
 Kopie dokumentów załącza się w formie kopii potwierdzonych za zgodność z oryginałem przez pracownika Agencji lub podmiot, który wydał dokument, lub notariusza, z tym że kopie, o których mowa w ust. 2 pkt 5, 25 i 26, mogą być potwierdzone przez wnioskodawcę.
 4.
-Agencja udostępnia formularz wniosku o przyznanie pomocy oraz formularze załączników nie później niż w dniu podania do publicznej wiadomości informacji, o której mowa w § 10 ust. 1.
-” ;
+Agencja udostępnia formularz wniosku o przyznanie pomocy oraz formularze załączników nie później niż w dniu podania do publicznej wiadomości informacji, o której mowa w § 10 ust. 1. ” ;
 5)
 w § 14:
 a)
 w ust. 1 zdanie pierwsze otrzymuje brzmienie: „ Jeżeli wniosek o przyznanie pomocy nie zawiera numeru identyfikacyjnego wnioskodawcy, o którym mowa w przepisach o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, albo nie dołączono do niego wniosku o wpis do tej ewidencji albo jego kopii, lub wniosek o przyznanie pomocy nie został złożony w terminie, o którym mowa w § 10 ust. 2, lub w danym okresie składania wniosków jeden wnioskodawca złożył więcej niż jeden wniosek, Agencja nie przyznaje pomocy. ” ,
 b)
-ust. 1a otrzymuje brzmienie:
-„
+ust. 1a otrzymuje brzmienie: „
 1a.
-Przepisu ust. 1 nie stosuje się w odniesieniu do numeru identyfikacyjnego wnioskodawcy, o którym mowa w przepisach o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, jeżeli numer ten można ustalić w tej ewidencji.
-” ;
+Przepisu ust. 1 nie stosuje się w odniesieniu do numeru identyfikacyjnego wnioskodawcy, o którym mowa w przepisach o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, jeżeli numer ten można ustalić w tej ewidencji. ” ;
 6)
-§ 17 otrzymuje brzmienie:
-„
+§ 17 otrzymuje brzmienie: „
 § 17.
-Agencja, na uzasadnioną prośbę wnioskodawcy, może wyrazić zgodę na przedłużenie terminu wykonania przez wnioskodawcę określonej czynności w toku postępowania w sprawie przyznania pomocy, przy czym przedłużenie terminów wykonania przez wnioskodawcę określonych czynności nie może przekroczyć łącznie 30 dni.
-” ;
+Agencja, na uzasadnioną prośbę wnioskodawcy, może wyrazić zgodę na przedłużenie terminu wykonania przez wnioskodawcę określonej czynności w toku postępowania w sprawie przyznania pomocy, przy czym przedłużenie terminów wykonania przez wnioskodawcę określonych czynności nie może przekroczyć łącznie 30 dni. ” ;
 7)
-w § 21 ust. 4 otrzymuje brzmienie:
-„
+w § 21 ust. 4 otrzymuje brzmienie: „
 4.
 Umowa zawiera również:
 1)
 postanowienia dotyczące warunków i sposobu pozyskiwania przez Agencję od beneficjenta danych, o których mowa w art. 7 ust. 4 pkt 1 ustawy;
 2)
-wykaz dokumentów, które należy dołączyć do wniosku o płatność.
-” ;
+wykaz dokumentów, które należy dołączyć do wniosku o płatność. ” ;
 8)
-po § 23 dodaje się § 23a w brzmieniu:
-„
+po § 23 dodaje się § 23a w brzmieniu: „
 § 23a.
 1.
 Agencja, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na zakończenie realizacji operacji lub złożenie wniosku o płatność ostateczną po upływie terminów określonych w § 7 ust. 4 pkt 3 albo ust. 5 pkt 1 lit. d, w terminie późniejszym, nie dłuższym niż 6 miesięcy od upływu tych terminów, ale nie później niż do dnia 30 czerwca 2015 r.
 2.
-Zgoda, o której mowa w ust. 1, może zostać wyrażona również po upływie terminu zakończenia realizacji operacji lub złożenia wniosku o płatność ostateczną.
-” ;
+Zgoda, o której mowa w ust. 1, może zostać wyrażona również po upływie terminu zakończenia realizacji operacji lub złożenia wniosku o płatność ostateczną. ” ;
 9)
 w § 24 uchyla się pkt 2;
 10)
@@ -164,55 +147,41 @@ w § 25 uchyla się ust. 3;
 11)
 w § 27:
 a)
-po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Agencja, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na przedłużenie terminu wykonania przez beneficjenta określonej czynności w toku postępowania w sprawie wypłaty pomocy, przy czym przedłużenie terminów wykonania przez beneficjenta określonych czynności nie może przekroczyć łącznie 6 miesięcy.
-” ,
+Agencja, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na przedłużenie terminu wykonania przez beneficjenta określonej czynności w toku postępowania w sprawie wypłaty pomocy, przy czym przedłużenie terminów wykonania przez beneficjenta określonych czynności nie może przekroczyć łącznie 6 miesięcy. ” ,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Do trybu rozpatrywania wniosku o płatność stosuje się przepisy § 18 i § 19.
-” ;
+Do trybu rozpatrywania wniosku o płatność stosuje się przepisy § 18 i § 19. ” ;
 12)
 w § 28:
 a)
-ust. 6 otrzymuje brzmienie:
-„
+ust. 6 otrzymuje brzmienie: „
 6.
-Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca, spadkobierca, który złożył wniosek następcy, dołącza do tego wniosku oświadczenia pozostałych spadkobierców, że wyrażają zgodę na przyznanie pomocy temu spadkobiercy.
-” ,
+Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca, spadkobierca, który złożył wniosek następcy, dołącza do tego wniosku oświadczenia pozostałych spadkobierców, że wyrażają zgodę na przyznanie pomocy temu spadkobiercy. ” ,
 b)
-ust. 10 otrzymuje brzmienie:
-„
+ust. 10 otrzymuje brzmienie: „
 10.
-Do wniosku następcy i trybu jego rozpatrywania stosuje się przepisy § 13 ust. 1 pkt 1–3, 6 i 7, ust. 2 i 3, § 14 ust. 2–6 oraz § 16–19.
-” ;
+Do wniosku następcy i trybu jego rozpatrywania stosuje się przepisy § 13 ust. 1 pkt 1–3, 6 i 7, ust. 2 i 3, § 14 ust. 2–6 oraz § 16–19. ” ;
 13)
-w § 30 ust. 6 otrzymuje brzmienie:
-„
+w § 30 ust. 6 otrzymuje brzmienie: „
 6.
-Do wniosku nabywcy i trybu jego rozpatrywania stosuje się przepisy § 13 ust. 1 pkt 1–3, 6 i 7, ust. 2 i 3, § 14 ust. 2–6 oraz § 16–19.
-” ;
+Do wniosku nabywcy i trybu jego rozpatrywania stosuje się przepisy § 13 ust. 1 pkt 1–3, 6 i 7, ust. 2 i 3, § 14 ust. 2–6 oraz § 16–19. ” ;
 14)
-w § 31 ust. 4 otrzymuje brzmienie:
-„
+w § 31 ust. 4 otrzymuje brzmienie: „
 4.
-Do umowy, o której mowa w ust. 3, w tym do warunków kontynuacji realizowanej operacji, stosuje się przepisy § 6, § 7 oraz § 21–23.
-” ;
+Do umowy, o której mowa w ust. 3, w tym do warunków kontynuacji realizowanej operacji, stosuje się przepisy § 6, § 7 oraz § 21–23. ” ;
 15)
 użyte w § 12 ust. 1, § 15 ust. 2, § 28 ust. 4 pkt 2 i § 33 ust. 2 wyrazy „operatora publicznego” zastępuje się wyrazami „operatora wyznaczonego”;
 16)
-w załączniku do rozporządzenia w ust. 6 pkt 2 otrzymuje brzmienie:
-„
+w załączniku do rozporządzenia w ust. 6 pkt 2 otrzymuje brzmienie: „
 2)
-średniego – jest świadectwo lub dyplom ukończenia szkoły lub dyplom potwierdzający kwalifikacje zawodowe, w zawodzie wymienionym w ust. 2 albo – w przypadku gdy na świadectwie ukończenia szkoły brak jest informacji o zawodzie – świadectwo ukończenia szkoły wraz z zaświadczeniem, o którym mowa w § 3 ust. 7 rozporządzenia Ministra Edukacji Narodowej z dnia 28 maja 2010 r. w sprawie świadectw, dyplomów państwowych i innych druków szkolnych (Dz. U. Nr 97, poz. 624 oraz z 2012 r. poz. 205), potwierdzającym, że absolwent kształcił się w zawodzie wymienionym w ust. 2.
-” .
+średniego – jest świadectwo lub dyplom ukończenia szkoły lub dyplom potwierdzający kwalifikacje zawodowe, w zawodzie wymienionym w ust. 2 albo – w przypadku gdy na świadectwie ukończenia szkoły brak jest informacji o zawodzie – świadectwo ukończenia szkoły wraz z zaświadczeniem, o którym mowa w § 3 ust. 7 rozporządzenia Ministra Edukacji Narodowej z dnia 28 maja 2010 r. w sprawie świadectw, dyplomów państwowych i innych druków szkolnych (Dz. U. Nr 97, poz. 624 oraz z 2012 r. poz. 205), potwierdzającym, że absolwent kształcił się w zawodzie wymienionym w ust. 2. ” .
 § 2.
 Do postępowań w sprawach przyznawania pomocy finansowej w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe, z wyjątkiem ust. 6 pkt 2 załącznika do rozporządzenia wymienionego w § 1, który stosuje się w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
 W przypadku gdy przed dniem wejścia w życie niniejszego rozporządzenia terminy określone w § 7 ust. 4 pkt 3 albo ust. 5 pkt 1 lit. d rozporządzenia wymienionego w § 1 upłynęły, Agencja Restrukturyzacji i Modernizacji Rolnictwa, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na zakończenie realizacji operacji lub złożenie wniosku o płatność ostateczną po upływie tych terminów, w terminie późniejszym, nie dłuższym niż 6 miesięcy od upływu tych terminów, ale nie później niż do dnia 30 czerwca 2015 r., nawet gdy realizacja tej operacji została zakończona lub został złożony wniosek o płatność ostateczną.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2007 r. Nr 205, poz. 1492, z 2008 r. Nr 47, poz. 279 i Nr 173, poz. 1076, z 2009 r. Nr 48, poz. 389 oraz z 2010 r. Nr 207, poz. 1372. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726, z 2011 r. Nr 75, poz. 398, Nr 149, poz. 887, Nr 168, poz. 1001, Nr 187, poz. 1112 i Nr 205, poz. 1203, z 2012 r. poz. 118, 251, 637, 664, 1285 i 1548 oraz z 2013 r. poz. 240. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 125, poz. 1368, z 2002 r. Nr 169, poz. 1387, z 2003 r. Nr 42, poz. 363, z 2004 r. Nr 172, poz. 1804, z 2008 r. Nr 116, poz. 731, z 2009 r. Nr 131, poz. 1075, z 2011 r. Nr 230, poz. 1370 oraz z 2012 r. poz. 827.
 

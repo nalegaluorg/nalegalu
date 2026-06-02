@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 12 września 2019 r. w sprawie powierzenia zarządzającym specjalnymi strefami ekonomicznymi wykonywania kontroli realizacji warunków zezwoleń na prowadzenie działalności gospodarczej na terenie danej strefy
+# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 12 września 2019 r. w sprawie powierzenia zarządzającym specjalnymi strefami ekonomicznymi wykonywania kontroli realizacji warunków zezwoleń na prowadzenie działalności gospodarczej na terenie danej strefy Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-12 |
 | Data wydania | 2019-09-19 |
-| Wejście w życie | 2019-09-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001785) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1785/text.pdf) |
 
@@ -57,8 +56,7 @@ Tarnobrzeską Specjalną Strefą Ekonomiczną EURO-PARK WISŁOSAN,
 13)
 Wałbrzyską Specjalną Strefą Ekonomiczną INVEST-PARK,
 14)
-Warmińsko-Mazurską Specjalną Strefą Ekonomiczną
-wykonywanie, w imieniu ministra właściwego do spraw gospodarki, kontroli realizacji warunków udzielonych przez siebie zezwoleń na prowadzenie działalności gospodarczej na terenie danej strefy.
+Warmińsko-Mazurską Specjalną Strefą Ekonomiczną – wykonywanie, w imieniu ministra właściwego do spraw gospodarki, kontroli realizacji warunków udzielonych przez siebie zezwoleń na prowadzenie działalności gospodarczej na terenie danej strefy.
 § 2.
 Zarządzający specjalnymi strefami ekonomicznymi przekazują ministrowi właściwemu do spraw gospodarki kwartalną informację o funkcjonowaniu strefy.
 § 3.
@@ -92,6 +90,5 @@ rozporządzenie Ministra Gospodarki z dnia 2 lipca 2009 r. w sprawie powierzenia
 14)
 rozporządzenie Ministra Gospodarki z dnia 2 lipca 2009 r. w sprawie powierzenia Warmińsko-Mazurskiej Specjalnej Strefie Ekonomicznej S.A. udzielania zezwoleń na prowadzenie działalności gospodarczej na terenie Warmińsko-Mazurskiej Specjalnej Strefy Ekonomicznej oraz wykonywania kontroli realizacji warunków zezwolenia (Dz. U. poz. 933).
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 

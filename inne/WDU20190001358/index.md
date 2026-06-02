@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy o wsparciu kredytobiorców znajdujących się w trudnej sytuacji finansowej, którzy zaciągnęli kredyt mieszkaniowy oraz niektórych innych ustaw
+# Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy o wsparciu kredytobiorców znajdujących się w trudnej sytuacji finansowej, którzy zaciągnęli kredyt mieszkaniowy oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych oraz ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-04 |
 | Data wydania | 2019-07-22 |
-| Wejście w życie | 2020-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001358) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1358/text.pdf) |
 
@@ -44,11 +43,11 @@ source: "eli-html"
 
 1. Użyte w ustawie określenia oznaczają:
 
-- **1)** dochód – dochód w rozumieniu przepisów ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm.);
+- **1)** dochód – dochód w rozumieniu przepisów ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271, 730 i 752.);
 - **2)** dom jednorodzinny – budynek mieszkalny jednorodzinny w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2019 r. poz. 1186 i 1309), w którym znajduje się nie więcej niż jeden lokal mieszkalny;
 - **3)** gospodarstwo domowe – gospodarstwo prowadzone przez kredytobiorcę ubiegającego się o wsparcie lub pożyczkę na spłatę zadłużenia, samodzielnie zajmującego lokal mieszkalny lub dom jednorodzinny, albo gospodarstwo prowadzone przez kredytobiorcę wspólnie z innymi osobami stale z nim zamieszkującymi i gospodarującymi, które swoje prawa do zamieszkiwania w lokalu mieszkalnym lub domu jednorodzinnym wywodzą z prawa kredytobiorcy;
 - **4)** kredytobiorca – osobę lub osoby, pozostające w gospodarstwie domowym, zobowiązane do spłaty kredytu mieszkaniowego;
-- **5)** kredytodawca – bank krajowy, oddział instytucji kredytowej, oddział banku zagranicznego, o których mowa w art. 4 ust. 1 pkt 1, 18 i 20 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, z późn. zm.), albo spółdzielczą kasę oszczędnościowo-kredytową, które udzieliły kredytu mieszkaniowego;
+- **5)** kredytodawca – bank krajowy, oddział instytucji kredytowej, oddział banku zagranicznego, o których mowa w art. 4 ust. 1 pkt 1, 18 i 20 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875 i 1074.), albo spółdzielczą kasę oszczędnościowo-kredytową, które udzieliły kredytu mieszkaniowego;
 - **6)** lokal mieszkalny – samodzielny lokal mieszkalny w rozumieniu przepisu art. 2 ust. 2 zdanie pierwsze ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2019 r. poz. 737 i 1309) znajdujący się w budynku, w skład którego wchodzą co najmniej dwa takie lokale;
 - **7)** wskaźnik RdD – stosunek wydatków kredytobiorcy związanych z obsługą miesięcznej raty kapitałowej i odsetkowej kredytu mieszkaniowego do miesięcznego dochodu gospodarstwa domowego kredytobiorcy.
 
@@ -133,10 +132,16 @@ source: "eli-html"
 - **5)** w art. 6: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. W celu uzyskania wsparcia, promesy lub pożyczki na spłatę zadłużenia kredytobiorca składa do kredytodawcy wniosek. ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) podaje imię i nazwisko, adres miejsca zamieszkania, numer PESEL, o ile został nadany, numer dowodu osobistego albo rodzaj i numer innego dokumentu potwierdzającego tożsamość oraz numer identyfikacyjny umowy kredytowej; ” , – w pkt 2: – – lit. a otrzymuje brzmienie: „ a) istnieniu okoliczności stanowiących podstawę przyznania wsparcia lub udzielenia pożyczki na spłatę zadłużenia, w tym wskazuje, która z przesłanek, o których mowa w art. 3 ust. 1, stanowi podstawę do ubiegania się o wsparcie lub pożyczkę na spłatę zadłużenia, ” , – – lit. c i d otrzymują brzmienie: „ c) wartości wskaźnika RdD za miesiąc poprzedzający miesiąc złożenia wniosku – w przypadku gdy kredytobiorca ubiega się o wsparcie lub pożyczkę na spłatę zadłużenia na podstawie art. 3 ust. 1 pkt 2, d) dochodzie gospodarstwa domowego i liczbie członków gospodarstwa domowego kredytobiorcy – w przypadku gdy kredytobiorca ubiega się o wsparcie lub pożyczkę na spłatę zadłużenia na podstawie art. 3 ust. 1 pkt 3; ” , – dodaje się pkt 3 w brzmieniu: „ 3) w przypadku ubiegania się o przyznanie pożyczki na spłatę zadłużenia – podaje informacje dotyczące sprzedaży kredytowanej nieruchomości i składa, pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia, oświadczenie, że nabywcą tej nieruchomości nie jest członek rodziny w rozumieniu przepisu art. 5 pkt 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.), osoba pozostająca we wspólnym gospodarstwie domowym ani osoba będąca z nim w bliskim stosunku w rozumieniu przepisu art. 527 § 3 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2019 r. poz. 1145) oraz załącza do wniosku dokumenty dotyczące sprzedaży kredytowanej nieruchomości. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+1. W celu uzyskania wsparcia, promesy lub pożyczki na spłatę zadłużenia kredytobiorca składa do kredytodawcy wniosek. ” , w ust. 2: pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **1)** podaje imię i nazwisko, adres miejsca zamieszkania, numer PESEL, o ile został nadany, numer dowodu osobistego albo rodzaj i numer innego dokumentu potwierdzającego tożsamość oraz numer identyfikacyjny umowy kredytowej; ” , w pkt 2: – lit. a otrzymuje brzmienie: „ istnieniu okoliczności stanowiących podstawę przyznania wsparcia lub udzielenia pożyczki na spłatę zadłużenia, w tym wskazuje, która z przesłanek, o których mowa w art. 3 ust. 1, stanowi podstawę do ubiegania się o wsparcie lub pożyczkę na spłatę zadłużenia, ” , – lit. c i d otrzymują brzmienie: „ wartości wskaźnika RdD za miesiąc poprzedzający miesiąc złożenia wniosku – w przypadku gdy kredytobiorca ubiega się o wsparcie lub pożyczkę na spłatę zadłużenia na podstawie art. 3 ust. 1 pkt 2, dochodzie gospodarstwa domowego i liczbie członków gospodarstwa domowego kredytobiorcy – w przypadku gdy kredytobiorca ubiega się o wsparcie lub pożyczkę na spłatę zadłużenia na podstawie art. 3 ust. 1 pkt 3; ” , dodaje się pkt 3 w brzmieniu: „
+    - **a)**
+    - **c)**
+    - **d)**
+
+- **3)** w przypadku ubiegania się o przyznanie pożyczki na spłatę zadłużenia – podaje informacje dotyczące sprzedaży kredytowanej nieruchomości i składa, pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia, oświadczenie, że nabywcą tej nieruchomości nie jest członek rodziny w rozumieniu przepisu art. 5 pkt 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399, 447, 730, 752 i 1078.), osoba pozostająca we wspólnym gospodarstwie domowym ani osoba będąca z nim w bliskim stosunku w rozumieniu przepisu art. 527 § 3 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2019 r. poz. 1145) oraz załącza do wniosku dokumenty dotyczące sprzedaży kredytowanej nieruchomości. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **c)**
 
 2a. W przypadku ubiegania się o udzielenie promesy do wniosku, o którym mowa w ust. 1, załącza się przedwstępną umowę sprzedaży kredytowanej nieruchomości. ” , ust. 3 otrzymuje brzmienie: „
 
@@ -167,10 +172,15 @@ source: "eli-html"
 
 - **c)**
 
-3. Umowa, o której mowa w ust. 1, zawierana jest w terminie 14 dni od dnia, w którym wniosek został pozytywnie zweryfikowany. ” , w ust. 5: – pkt 2–4 otrzymują brzmienie: „ 2) wysokość rat oraz okres udzielonego wsparcia lub wysokość pożyczki na spłatę zadłużenia; 3) zasady i terminy przekazywania rat udzielonego wsparcia lub zasady wypłaty pożyczki na spłatę zadłużenia; 4) numer rachunku wskazanego przez kredytodawcę jako rachunek przeznaczony do przekazywania wsparcia lub pożyczki na spłatę zadłużenia; ” , – pkt 6 i 7 otrzymują brzmienie: „ 6) zasady i terminy spłat poszczególnych rat udzielonego wsparcia lub pożyczki na spłatę zadłużenia; 7) zakres uprawnień Banku Gospodarstwa Krajowego związanych z kontrolą spłaty wsparcia lub pożyczki na spłatę zadłużenia; ” , ust. 6 otrzymuje brzmienie: „
+3. Umowa, o której mowa w ust. 1, zawierana jest w terminie 14 dni od dnia, w którym wniosek został pozytywnie zweryfikowany. ” , w ust. 5: pkt 2–4 otrzymują brzmienie: „
 
 - **d)**
-- **e)**
+- **2)** wysokość rat oraz okres udzielonego wsparcia lub wysokość pożyczki na spłatę zadłużenia;
+- **3)** zasady i terminy przekazywania rat udzielonego wsparcia lub zasady wypłaty pożyczki na spłatę zadłużenia;
+- **4)** numer rachunku wskazanego przez kredytodawcę jako rachunek przeznaczony do przekazywania wsparcia lub pożyczki na spłatę zadłużenia; ” , pkt 6 i 7 otrzymują brzmienie: „
+- **6)** zasady i terminy spłat poszczególnych rat udzielonego wsparcia lub pożyczki na spłatę zadłużenia;
+- **7)** zakres uprawnień Banku Gospodarstwa Krajowego związanych z kontrolą spłaty wsparcia lub pożyczki na spłatę zadłużenia; ” , ust. 6 otrzymuje brzmienie: „
+    - **e)**
 
 6. W umowie, o której mowa w ust. 1, zamieszcza się również pouczenie o utracie uprawnień do otrzymywania wsparcia lub pożyczki na spłatę zadłużenia w przypadkach, o których mowa w art. 12 ust. 1. ” ;
 
@@ -284,7 +294,7 @@ source: "eli-html"
 
 2. Minister właściwy do spraw instytucji finansowych dochodzi roszczeń dotyczących wpłat wnoszonych na podstawie art. 16a ust. 1.
 
-3. Należności z tytułu wpłat, o których mowa w art. 16a ust. 1, podlegają egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2018 r. poz. 1314, z późn. zm.).
+3. Należności z tytułu wpłat, o których mowa w art. 16a ust. 1, podlegają egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2018 r. poz. 1314, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1356, 1499, 1629, 2192, 2193 i 2432 oraz z 2019 r. poz. 730.).
 
 4. Rada Funduszu, po wyrażeniu zgody przez ministra właściwego do spraw instytucji finansowych, może zawiesić czasowo wnoszenie wpłat na Fundusz, w przypadku gdy środki Funduszu pozwalają na realizację wsparcia lub pożyczki na spłatę zadłużenia bez wnoszenia wpłat.
 
@@ -350,20 +360,20 @@ source: "eli-html"
 
 - **1)** liczby wniosków, o których mowa w art. 6 ust. 1,
 - **2)** przesłanek, na jakich oparte zostały wnioski, o których mowa w art. 6 ust. 1,
-- **3)** liczby odrzuconych wniosków, o których mowa w art. 6 ust. 1, wraz ze wskazaniem przesłanek ich odrzucenia w terminie 30 dni od dnia zakończenia półrocza.
+- **3)** liczby odrzuconych wniosków, o których mowa w art. 6 ust. 1, wraz ze wskazaniem przesłanek ich odrzucenia – w terminie 30 dni od dnia zakończenia półrocza.
 
 2. Rada Funduszu przekazuje ministrowi właściwemu do spraw instytucji finansowych półroczną informację o funkcjonowaniu Funduszu, sporządzoną w szczególności na podstawie danych, o których mowa w ust. 1.
 
 3. Informacja, o której mowa w ust. 2, jest przekazywana w terminie 30 dni od dnia upływu terminu, o którym mowa w ust. 1.
 
-4. Minister właściwy do spraw instytucji finansowych przedstawia sejmowej komisji właściwej do spraw instytucji finansowych roczną informację dotyczącą funkcjonowania Funduszu oraz działań Rady Funduszu, będących realizacją ustawy, w terminie do końca pierwszego kwartału roku następnego. ” . W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.) w art. 21 w ust. 1 pkt 143 otrzymuje brzmienie: „
+4. Minister właściwy do spraw instytucji finansowych przedstawia sejmowej komisji właściwej do spraw instytucji finansowych roczną informację dotyczącą funkcjonowania Funduszu oraz działań Rady Funduszu, będących realizacją ustawy, w terminie do końca pierwszego kwartału roku następnego. ” . W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246, 2429 i 2529 oraz z 2019 r. poz. 29, 271, 303, 752 i 1018.) w art. 21 w ust. 1 pkt 143 otrzymuje brzmienie: „
 
 - **143)** dochody kredytobiorców z tytułu: umorzonych należności otrzymanych na podstawie ustawy z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej (Dz. U. poz. 1925, z 2018 r. poz. 2243 oraz z 2019 r. poz. 1358), niepodlegających zwrotowi kwot pokrywanych ze środków kredytodawcy za okres dodatkowej weryfikacji, o których mowa w art. 8a ust. 7 ustawy, o której mowa w lit. a; ” . W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2019 r. poz. 865, 1018 i 1309) w art. 16 w ust. 1 w pkt 75 kropkę zastępuje się średnikiem i dodaje się pkt 76 i 77 w brzmieniu: „
     - **a)**
     - **b)**
 
 - **76)** wpłat na Fundusz Wsparcia Kredytobiorców, o których mowa w art. 16a ust. 1 ustawy z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej (Dz. U. poz. 1925, z 2018 r. poz. 2243 oraz z 2019 r. poz. 1358);
-- **77)** kwot, o których mowa w art. 8a ust. 7 ustawy z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej. ” . W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, z późn. zm.) w art. 10a w ust. 4 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
+- **77)** kwot, o których mowa w art. 8a ust. 7 ustawy z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej. ” . W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875 i 1074.) w art. 10a w ust. 4 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
 - **9)** udzielenie Radzie Funduszu Wsparcia Kredytobiorców informacji, o której mowa w art. 16a ust. 5 ustawy z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej (Dz. U. poz. 1925, z 2018 r. poz. 2243 oraz z 2019 r. poz. 1358). ” .
 
 1. Do wsparcia, o którym mowa w art. 1 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, udzielonego przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
@@ -375,5 +385,5 @@ source: "eli-html"
 - **1)** nie większej niż pozostała do spłaty, na dzień złożenia wniosku, kwota zobowiązania z tytułu kredytu mieszkaniowego zaciągniętego na zakup sprzedanej nieruchomości – w przypadku gdy, na dzień złożenia wniosku, pozostała do spłaty kwota zobowiązania z tytułu kredytu mieszkaniowego zaciągniętego na zakup sprzedanej nieruchomości nie przekracza 72 000 zł, albo
 - **2)** 72 000 zł – w przypadku gdy, na dzień złożenia wniosku, pozostała do spłaty kwota zobowiązania z tytułu kredytu mieszkaniowego zaciągniętego na zakup sprzedanej nieruchomości przekracza 72 000 zł.
 
-**Art. 7.** Kredytodawcy dostosują umowy zawarte z Bankiem Gospodarstwa Krajowego na podstawie art. 7 ustawy zmienianej w art. 1 do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy, nie później jednak niż do dnia 31 grudnia 2019 r. Ustawa wchodzi w życie z dniem 1 stycznia 2020 r., z wyjątkiem art. 7, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 7.** Kredytodawcy dostosują umowy zawarte z Bankiem Gospodarstwa Krajowego na podstawie art. 7 ustawy zmienianej w art. 1 do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy, nie później jednak niż do dnia 31 grudnia 2019 r. Ustawa wchodzi w życie z dniem 1 stycznia 2020 r., z wyjątkiem art. 7, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych oraz ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271, 730 i 752. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875 i 1074. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399, 447, 730, 752 i 1078. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1356, 1499, 1629, 2192, 2193 i 2432 oraz z 2019 r. poz. 730. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246, 2429 i 2529 oraz z 2019 r. poz. 29, 271, 303, 752 i 1018. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875 i 1074.
 

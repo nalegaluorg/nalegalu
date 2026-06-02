@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 23 grudnia 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 23 grudnia 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-23 |
 | Data wydania | 2017-01-04 |
-| Wejście w życie | 2017-01-05 |
 | Ostatnia zmiana | 2025-10-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000025) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/25/text.pdf) |
 
@@ -48,7 +47,7 @@ szczegółowe wymagania, jakim powinna odpowiadać umowa o przyznaniu pomocy, zw
 Działanie, o którym mowa w § 1, jest wdrażane na terytorium Rzeczypospolitej Polskiej.
 § 3.
 1.
-Pomoc przyznaje się grupie operacyjnej EPI, o której mowa w art. 56 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm. ), zwanego dalej „rozporządzeniem nr 1305/2013”, jeżeli ta grupa, zwana dalej „grupą operacyjną”:
+Pomoc przyznaje się grupie operacyjnej EPI, o której mowa w art. 56 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm. Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8 i Dz. Urz. UE L 130 z 19.05.2016, str. 1.), zwanego dalej „rozporządzeniem nr 1305/2013”, jeżeli ta grupa, zwana dalej „grupą operacyjną”:
 1)
 składa się z co najmniej dwóch różnych podmiotów należących do następujących różnych kategorii: a) rolnicy, b) właściciele lasów, c) jednostki naukowe w rozumieniu art. 2 pkt 9 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2016 r. poz. 2045, 1933 i 2260) oraz uczelnie w rozumieniu art. 2 ust. 1 pkt 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842, 1933, 2169 i 2260), d) przedsiębiorcy, e) podmioty świadczące usługi doradcze;
 2)
@@ -132,8 +131,7 @@ bieżące, o których mowa w art. 61 ust. 1 rozporządzenia nr 1305/2013, związ
 5)
 badań, o których mowa w art. 61 ust. 2 rozporządzenia nr 1305/2013, obejmujących wyłącznie badania stosowane w rozumieniu art. 2 pkt 3 lit. b ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki lub prace rozwojowe w rozumieniu art. 2 pkt 4 tej ustawy, zwanych dalej „badaniami”,
 6)
-podatku od towarów i usług (VAT), który jest kwalifikowalny zgodnie z art. 69 ust. 3 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.)
-które są uzasadnione zakresem operacji, niezbędne do osiągnięcia jej celu oraz racjonalne.
+podatku od towarów i usług (VAT), który jest kwalifikowalny zgodnie z art. 69 ust. 3 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 259 z 27.09.2016, str. 79 i Dz. Urz. UE L 338 z 13.12.2016, str. 34.) – które są uzasadnione zakresem operacji, niezbędne do osiągnięcia jej celu oraz racjonalne.
 2.
 Koszty wartości niematerialnych i prawnych, o których mowa w ust. 1 pkt 2 lit. c, są kwalifikowalne w części:
 1)
@@ -226,7 +224,7 @@ koszty bieżące i związane z nimi koszty, o których mowa w § 5 ust. 1 pkt 6,
 2)
 koszty ogólne i związane z nimi koszty, o których mowa w § 5 ust. 1 pkt 6, uwzględnia się w wysokości nieprzekraczającej łącznie 20% sumy pozostałych kosztów kwalifikowalnych.
 4.
-W przypadku gdy wysokość kosztów kwalifikowalnych w zakresie danego zadania ujętego w zestawieniu rzeczowo-finansowym operacji przekracza wartość rynkową tych kosztów ustaloną w wyniku oceny ich racjonalności, o której mowa w art. 48 ust. 2 lit. e rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.) , przy ustalaniu wysokości pomocy uwzględnia się wartość rynkową tych kosztów.
+W przypadku gdy wysokość kosztów kwalifikowalnych w zakresie danego zadania ujętego w zestawieniu rzeczowo-finansowym operacji przekracza wartość rynkową tych kosztów ustaloną w wyniku oceny ich racjonalności, o której mowa w art. 48 ust. 2 lit. e rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1 i Dz. Urz. UE L 225 z 19.08.2016, str. 50.) , przy ustalaniu wysokości pomocy uwzględnia się wartość rynkową tych kosztów.
 § 7.
 1.
 Prezes Agencji Rynku Rolnego, zwanej dalej „Agencją”, podaje do publicznej wiadomości, na stronie internetowej administrowanej przez Agencję, co najmniej w jednym dzienniku o zasięgu krajowym oraz w siedzibie biura Agencji, zwanego dalej „Centralą Agencji”, i oddziałów terenowych Agencji ogłoszenie o naborze wniosków o przyznanie pomocy, nie później niż 30 dni przed dniem planowanego rozpoczęcia terminu składania tych wniosków.
@@ -308,8 +306,7 @@ sposób podejmowania decyzji wewnątrz grupy operacyjnej,
 f)
 zasady podziału praw nabytych w trakcie realizacji operacji i do dnia upływu 5 lat od dnia otrzymania płatności końcowej między podmioty wchodzące w skład grupy operacyjnej,
 g)
-zasady reprezentowania podmiotów wchodzących w skład grupy operacyjnej
-w przypadku gdy o pomoc ubiegają się podmioty wchodzące w skład grupy operacyjnej nieposiadającej zdolności prawnej;
+zasady reprezentowania podmiotów wchodzących w skład grupy operacyjnej – w przypadku gdy o pomoc ubiegają się podmioty wchodzące w skład grupy operacyjnej nieposiadającej zdolności prawnej;
 3)
 opis planowanej operacji sporządzony według wzoru opracowanego przez agencję płatniczą i udostępnionego przez Agencję, zawierający co najmniej:
 a)
@@ -331,8 +328,7 @@ kopię dokumentu potwierdzającego posiadanie samoistne lub zależne nieruchomo�
 a)
 podmiot wchodzący w skład grupy operacyjnej nieposiadającej zdolności prawnej – w przypadku gdy o pomoc ubiegają się podmioty wchodzące w skład grupy operacyjnej nieposiadającej zdolności prawnej,
 b)
-grupę operacyjną posiadającą zdolność prawną lub podmiot wchodzący w skład tej grupy – w przypadku gdy o pomoc ubiega się grupa operacyjna posiadająca zdolność prawną
-przy czym w przypadku posiadania samoistnego nieruchomości, dla której księga wieczysta jest prowadzona w systemie teleinformatycznym, o którym mowa w art. 251 ust. 1 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2016 r. poz. 790, 996, 1159, 1948, 2175 i 2261), wystarczające jest podanie numeru księgi wieczystej;
+grupę operacyjną posiadającą zdolność prawną lub podmiot wchodzący w skład tej grupy – w przypadku gdy o pomoc ubiega się grupa operacyjna posiadająca zdolność prawną – przy czym w przypadku posiadania samoistnego nieruchomości, dla której księga wieczysta jest prowadzona w systemie teleinformatycznym, o którym mowa w art. 251 ust. 1 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2016 r. poz. 790, 996, 1159, 1948, 2175 i 2261), wystarczające jest podanie numeru księgi wieczystej;
 6)
 odpis aktu notarialnego nabycia nieruchomości, na której będzie realizowana inwestycja w ramach operacji – w przypadku gdy tytuł prawny podmiotu ubiegającego się o przyznanie pomocy do tej nieruchomości nie został ujawniony w księdze wieczystej;
 7)
@@ -348,7 +344,7 @@ kopię wniosku o wpis do centralnego rejestru przedsiębiorców, o którym mowa 
 10)
 kopię wniosku o nadanie numeru identyfikacyjnego, o którym mowa w art. 12 ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, albo oryginał tego wniosku, jeżeli jest składany łącznie z wnioskiem o przyznanie pomocy – w przypadku gdy grupa operacyjna posiadająca zdolność prawną ubiegająca się o przyznanie pomocy nie posiada takiego numeru albo podmiot wchodzący w skład grupy operacyjnej nieposiadającej zdolności prawnej reprezentujący pozostałe podmioty wchodzące w jej skład nie posiada takiego numeru;
 11)
-oświadczenia przedsiębiorców wchodzących w skład grupy operacyjnej, którzy działają jako przedsiębiorcy prowadzący mikro-, małe lub średnie przedsiębiorstwo, w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.) , zwanego dalej „rozporządzeniem nr 651/2014”, o tym że prowadzą takie przedsiębiorstwo, sporządzone na formularzu udostępnionym przez Agencję;
+oświadczenia przedsiębiorców wchodzących w skład grupy operacyjnej, którzy działają jako przedsiębiorcy prowadzący mikro-, małe lub średnie przedsiębiorstwo, w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28 i Dz. Urz. UE L 149 z 07.06.2016, str. 10.) , zwanego dalej „rozporządzeniem nr 651/2014”, o tym że prowadzą takie przedsiębiorstwo, sporządzone na formularzu udostępnionym przez Agencję;
 12)
 kopię dokumentacji dotyczącej ewidencji środków trwałych oraz wartości niematerialnych i prawnych – w przypadku podmiotów ubiegających się o przyznanie pomocy, zobowiązanych do prowadzenia tej ewidencji zgodnie z przepisami o podatku dochodowym od osób prawnych lub przepisami o rachunkowości;
 13)
@@ -381,8 +377,7 @@ Jeżeli:
 1)
 wniosek o przyznanie pomocy nie został złożony w terminie, o którym mowa w § 7 ust. 2, lub
 2)
-we wniosku o przyznanie pomocy nie wskazano adresu podmiotu ubiegającego się o przyznanie pomocy i adresu tego nie można ustalić na podstawie posiadanych danych
-wniosek pozostawia się bez rozpatrzenia.
+we wniosku o przyznanie pomocy nie wskazano adresu podmiotu ubiegającego się o przyznanie pomocy i adresu tego nie można ustalić na podstawie posiadanych danych – wniosek pozostawia się bez rozpatrzenia.
 2.
 W przypadku złożenia wniosku o przyznanie pomocy przesyłką rejestrowaną, w terminie, o którym mowa w § 7 ust. 2, który wpłynął do Agencji po upływie 30 dni od dnia upływu tego terminu, wniosek pozostawia się bez rozpatrzenia.
 3.
@@ -526,7 +521,7 @@ przedłożenia Agencji, wraz z wnioskiem o pierwszą płatność pośrednią, in
 9)
 przedłożenia Agencji, wraz z wnioskiem o płatność końcową, sprawozdania z realizacji operacji, zawierającego co najmniej elementy wymienione w załączniku nr 2 do rozporządzenia, oraz upowszechnienia informacji zawartych w tym sprawozdaniu, na stronie internetowej, o której mowa w § 4 ust. 2 pkt 5, oraz za pośrednictwem Sieci na rzecz innowacji w rolnictwie i na obszarach wiejskich, z wyłączeniem upowszechnienia informacji wymienionych w ust. 2–4 załącznika nr 2 do rozporządzenia;
 10)
-przestrzegania obowiązków beneficjenta wynikających z załącznika III do rozporządzenia wykonawczego Komisji (UE) nr 808/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 227 z 31.07.2014, str. 18, z późn. zm.) ;
+przestrzegania obowiązków beneficjenta wynikających z załącznika III do rozporządzenia wykonawczego Komisji (UE) nr 808/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 227 z 31.07.2014, str. 18, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33 i Dz. Urz. UE L 308 z 16.11.2016, str. 5.) ;
 11)
 uwzględnienia wszystkich transakcji związanych z operacją w oddzielnym systemie rachunkowości albo w ramach odpowiedniego kodu rachunkowego, o których mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia nr 1305/2013;
 12)
@@ -616,8 +611,7 @@ uwzględnione w oddzielnym systemie rachunkowości albo do ich identyfikacji wyk
 2.
 Do kosztów ogólnych poniesionych przed dniem wejścia w życie niniejszego rozporządzenia przepisu § 18 ust. 2 nie stosuje się.
 § 24.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8 i Dz. Urz. UE L 130 z 19.05.2016, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 259 z 27.09.2016, str. 79 i Dz. Urz. UE L 338 z 13.12.2016, str. 34. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1 i Dz. Urz. UE L 225 z 19.08.2016, str. 50. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28 i Dz. Urz. UE L 149 z 07.06.2016, str. 10. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33 i Dz. Urz. UE L 308 z 16.11.2016, str. 5.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8 i Dz. Urz. UE L 130 z 19.05.2016, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 259 z 27.09.2016, str. 79 i Dz. Urz. UE L 338 z 13.12.2016, str. 34. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1 i Dz. Urz. UE L 225 z 19.08.2016, str. 50. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28 i Dz. Urz. UE L 149 z 07.06.2016, str. 10. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33 i Dz. Urz. UE L 308 z 16.11.2016, str. 5.
 
 ## Załącznik nr 1 — – Elementy, jakie powinna zawierać informacja na temat realizowanej operacji
 
@@ -638,13 +632,13 @@ Okres realizacji operacji (data rozpoczęcia i zakończenia realizacji operacji)
 8.
 Całkowity budżet operacji.
 9.
-Wskazanie obszaru na poziomie NUTS 3 określonego w załączniku I do rozporządzenia (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE. L 154 z 21.06.2003, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196), na którym realizowane będą główne zadania w ramach operacji.
+Wskazanie obszaru na poziomie NUTS 3 określonego w załączniku I do rozporządzenia (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE. L 154 z 21.06.2003, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1 i Dz. Urz. UE L 322 z 29.11.2016, str. 1.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196), na którym realizowane będą główne zadania w ramach operacji.
 10.
 Krótkie podsumowanie operacji, zawierające opis celów i głównych zadań do zrealizowania oraz wskazanie oczekiwanych rezultatów (1000–1500 znaków).
 11.
 Główne korzyści, jakie będą wynikać z zastosowania poszczególnych lub wszystkich przewidywanych rezultatów operacji dla ich adresata (prosty opis, bez stosowania terminologii naukowej).
 12.
-Adres strony internetowej dotyczącej operacji.
+Adres strony internetowej dotyczącej operacji. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1 i Dz. Urz. UE L 322 z 29.11.2016, str. 1.
 
 ## Załącznik nr 2 — – Elementy, jakie powinno zawierać sprawozdanie z realizacji operacji
 
@@ -665,7 +659,7 @@ Okres realizacji operacji (data rozpoczęcia i zakończenia realizacji operacji)
 8.
 Całkowity budżet operacji.
 9.
-Wskazanie obszaru na poziomie NUTS 3 określonego w załączniku I do rozporządzenia (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE. L 154 z 21.06.2003, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196), na którym realizowane były główne zadania w ramach operacji.
+Wskazanie obszaru na poziomie NUTS 3 określonego w załączniku I do rozporządzenia (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE. L 154 z 21.06.2003, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1 i Dz. Urz. UE L 322 z 29.11.2016, str. 1.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196), na którym realizowane były główne zadania w ramach operacji.
 10.
 Krótkie podsumowanie operacji, zawierające opis celów i głównych zadań, które zostały zrealizowane, oraz wskazanie uzyskanych w ich wyniku rezultatów (1000–1500 znaków).
 11.
@@ -673,5 +667,5 @@ Główne korzyści wynikające z zastosowania poszczególnych lub wszystkich rez
 12.
 Wskazanie miejsca, w którym zostały udostępnione materiały audiowizualne dotyczące operacji, o ile zostały udostępnione.
 13.
-Adres strony internetowej dotyczącej operacji.
+Adres strony internetowej dotyczącej operacji. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1 i Dz. Urz. UE L 322 z 29.11.2016, str. 1.
 

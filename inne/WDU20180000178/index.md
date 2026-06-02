@@ -31,16 +31,14 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 24 listopada 2005 r. w sprawie szczegółowego trybu i sposobu przeprowadzania kontroli podmiotów otrzymujących dofinansowanie z Polskiego Instytutu Sztuki Filmowej (Dz. U. poz. 2044), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 29 listopada 2016 r. zmieniającym rozporządzenie w sprawie szczegółowego trybu i sposobu przeprowadzania kontroli podmiotów otrzymujących dofinansowanie z Polskiego Instytutu Sztuki Filmowej (Dz. U. poz. 1971).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 29 listopada 2016 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu i sposobu przeprowadzania kontroli podmiotów otrzymujących dofinansowanie z Polskiego Instytutu Sztuki Filmowej (Dz. U. poz. 1971), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 29 listopada 2016 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu i sposobu przeprowadzania kontroli podmiotów otrzymujących dofinansowanie z Polskiego Instytutu Sztuki Filmowej (Dz. U. poz. 1971), które stanowią: „
 § 2.
 Do kontroli, o których mowa w art. 23 ust. 4 ustawy z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2016 r. poz. 438), wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, przy czym kontrole mogą być dokonywane od dnia udzielenia dofinansowania do dnia, w którym upływają 72 miesiące od zakończenia przedsięwzięcia, lub, w przypadku przedsięwzięcia dofinansowanego w formie dotacji, od upływu okresu rozliczenia dotacji określonego w umowie o dofinansowanie przedsięwzięcia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 24 listopada 2005 r. w sprawie szczegółowego trybu i sposobu przeprowadzania kontroli podmiotów otrzymujących dofinansowanie z Polskiego Instytutu Sztuki Filmowej
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 24 listopada 2005 r. w sprawie szczegółowego trybu i sposobu przeprowadzania kontroli podmiotów otrzymujących dofinansowanie z Polskiego Instytutu Sztuki FilmowejMinister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 Na podstawie art. 26 ust. 2 ustawy z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2016 r. poz. 438 oraz z 2017 r. poz. 961) zarządza się, co następuje:
-§ 1.
+§ 1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 29 listopada 2016 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu i sposobu przeprowadzania kontroli podmiotów otrzymujących dofinansowanie z Polskiego Instytutu Sztuki Filmowej (Dz. U. poz. 1971), które weszło w życie z dniem 22 grudnia 2016 r..
 1.
 Kontrola, o której mowa w art. 23 ust. 4 ustawy z dnia 30 czerwca 2005 r. o kinematografii, zwana dalej „kontrolą”, jest prowadzona w siedzibie podmiotu, któremu Polski Instytut Sztuki Filmowej, zwany dalej „Instytutem”, udzielił dofinansowania. Kontroli podlega dokumentacja dofinansowanego przedsięwzięcia.
 2.
@@ -50,7 +48,7 @@ W przypadku gdy kontrola jest przeprowadzana przez dwie lub więcej osób, któr
 § 2.
 1.
 Zakres danej kontroli może obejmować całość realizowanego przedsięwzięcia, jak i jego poszczególne elementy.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Kontroli dokonuje się od dnia udzielenia dofinansowania do dnia, w którym upływają 72 miesiące od zakończenia przedsięwzięcia, lub, w przypadku przedsięwzięcia dofinansowanego w formie dotacji, od upływu okresu rozliczenia dotacji określonego w umowie o dofinansowanie przedsięwzięcia.
 § 3.
 O zakresie i terminie kontroli informuje się podmiot kontrolowany.
@@ -58,7 +56,7 @@ O zakresie i terminie kontroli informuje się podmiot kontrolowany.
 W ramach kontroli podmiot kontrolowany:
 1)
 zapewnia warunki i środki techniczne niezbędne do sprawnego przeprowadzenia kontroli;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.)
 przedstawia na żądanie kontrolującego dokumenty i inne nośniki informacji, mające znaczenie dla oceny prawidłowości wykorzystania dofinansowania przedsięwzięcia, w szczególności:
 a)
 umowy o dzieło i rachunki do tych umów wraz z potwierdzeniami ich zapłaty,
@@ -68,7 +66,7 @@ c)
 wykaz prac wykonanych zgodnie z harmonogramem przed rozpoczęciem kontroli wraz z wykazem rachunków i faktur oraz z wyliczeniem dotychczas wykorzystanej kwoty dotacji – w przypadku gdy produkcja filmu nie jest zakończona,
 d)
 pisemną informację dotyczącą promocji filmu oraz informację o wpływach lub ich braku z eksploatacji filmu – w przypadku gdy produkcja filmu jest zakończona;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.)
 udziela ustnych lub pisemnych informacji dotyczących wykonania objętego dofinansowaniem przedsięwzięcia.
 § 5.
 1.
@@ -113,7 +111,7 @@ W terminie 7 dni od otrzymania nowego protokołu podmiot kontrolowany podpisuje 
 Na podstawie protokołu kontroli Dyrektor sporządza wystąpienie pokontrolne, w którym formułuje uwagi, wnioski i zalecenia pokontrolne i które niezwłocznie przekazuje podmiotowi kontrolowanemu.
 2.
 Podmiot kontrolowany składa wyjaśnienia odnośnie do uwag, wniosków i zaleceń pokontrolnych w terminie 7 dni od ich otrzymania.
-§ 7a.
+§ 7aDodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Instytut może przeprowadzać kontrolę w swojej siedzibie, w szczególności w celu:
 1)
@@ -151,6 +149,5 @@ W przypadku ujawnienia w toku kontroli, o której mowa w ust. 1, okoliczności w
 8.
 Podmiot kontrolowany w terminie 7 dni roboczych od dnia otrzymania wystąpienia ma prawo przedstawić do niego stanowisko. Przedstawienie przez podmiot kontrolowany stanowiska nie wstrzymuje realizacji ustaleń kontroli.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 29 listopada 2016 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu i sposobu przeprowadzania kontroli podmiotów otrzymujących dofinansowanie z Polskiego Instytutu Sztuki Filmowej (Dz. U. poz. 1971), które weszło w życie z dniem 22 grudnia 2016 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 12 grudnia 2005 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Rozporządzenie zostało ogłoszone w dniu 12 grudnia 2005 r. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 29 listopada 2016 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu i sposobu przeprowadzania kontroli podmiotów otrzymujących dofinansowanie z Polskiego Instytutu Sztuki Filmowej (Dz. U. poz. 1971), które weszło w życie z dniem 22 grudnia 2016 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 12 grudnia 2005 r.
 

@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1998-07-18 |
 | Data wydania | 1998-09-09 |
-| Wejście w życie | 1999-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981170756) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/756/text.pdf) |
 
+Przetwarzanie i ochrona danych
 1.
 Kasy Chorych są uprawnione do uzyskiwania i przetwarzania danych osobowych osób ubezpieczonych w celu:
 1)
@@ -75,13 +75,11 @@ Apteki są zobowiązane udostępniać na żądanie Kasom Chorych do wglądu rece
 2.
 Szpitale oraz pozostali świadczeniodawcy działający w ramach umów z Kasami Chorych zobowiązani są do gromadzenia i przekazywania Kasom Chorych danych, które określa Rada Krajowego Związku Kas Chorych.
 Jeżeli ubezpieczony przenosi się do innej Kasy Chorych, dotychczas ubezpieczająca go Kasa Chorych zobowiązana jest przekazać Kasie Chorych aktualnie go ubezpieczającej wszelkie dane niezbędne do kontynuacji ubezpieczenia.
-Kasa Chorych na żądanie ubezpieczonego informuje go o udzielonych mu świadczeniach oraz ich kosztach.
-” ;
+Kasa Chorych na żądanie ubezpieczonego informuje go o udzielonych mu świadczeniach oraz ich kosztach. ” ;
 117)
 tytuł rozdziału 8 otrzymuje brzmienie: „ Uprawnienia kontrolne Zakładu Ubezpieczeń Społecznych i Kasy Rolniczego Ubezpieczenia Społecznego w zakresie realizacji zadań ubezpieczenia zdrowotnego ” ;
 118)
-art. 142 otrzymuje brzmienie:
-„
+art. 142 otrzymuje brzmienie: „
 
 **Art. 1.** W ustawie z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. Nr 28, poz. 153 i Nr 75, poz. 468) wprowadza się następujące zmiany:
 
@@ -1181,7 +1179,7 @@ art. 142 otrzymuje brzmienie:
 
 - **116)** po art. 141 dodaje się rozdział 7a w brzmieniu: „
 
-#### Rozdział 7a Przetwarzanie i ochrona danych
+#### Rozdział 7a
 
 **Art. 142.**
 
@@ -1427,11 +1425,12 @@ art. 142 otrzymuje brzmienie:
 
 **Art. 7.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 1998 r. Nr 7, poz. 25 i Nr 106, poz. 668) wprowadza się następujące zmiany:
 
-- **1)** w art. 78: w ust. 1 w pkt 5 dodaje się lit. c) w brzmieniu: „ rolników, którzy nie podlegają ubezpieczeniu społecznemu, a podlegają ubezpieczeniu zdrowotnemu, ” w ust. 2: – w pkt 3 skreśla się wyrazy „obejmującej również wydatki, o których mowa w ust. 1 pkt 5.”, – dodaje się pkt 4 w brzmieniu: „ 4) z dotacji budżetu państwa przeznaczonej na składki na ubezpieczenie zdrowotne osób, o których mowa w ust. 1 pkt 5. ” ;
+- **1)** w art. 78: w ust. 1 w pkt 5 dodaje się lit. c) w brzmieniu: „ rolników, którzy nie podlegają ubezpieczeniu społecznemu, a podlegają ubezpieczeniu zdrowotnemu, ” w ust. 2: – w pkt 3 skreśla się wyrazy „obejmującej również wydatki, o których mowa w ust. 1 pkt 5.”, dodaje się pkt 4 w brzmieniu: „
     - **a)**
     - **c)**
     - **b)**
 
+- **4)** z dotacji budżetu państwa przeznaczonej na składki na ubezpieczenie zdrowotne osób, o których mowa w ust. 1 pkt 5. ” ;
 - **2)** w art. 79 w ust. 2 kropkę zastępuje się przecinkiem oraz dodaje się wyrazy „oraz refundacji przez Kasy Chorych kosztów związanych z realizacją ubezpieczenia zdrowotnego.” W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 1993 r. Nr 90, poz. 416 i Nr 134, poz. 646, z 1994 r. Nr 43, poz. 163, Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 126, poz. 626, z 1995 r. Nr 5, poz. 25 i Nr 133, poz. 654, z 1996 r. Nr 25, poz. 113, Nr 87, poz. 395, Nr 137, poz. 638, Nr 147, poz. 686 i Nr 156, poz. 776, z 1997 r. Nr 28, poz. 153, Nr 30, poz. 164, Nr 71, poz. 449, Nr 85, poz. 538, Nr 96, poz. 592, Nr 121, poz. 770, Nr 123, poz. 776, Nr 137, poz. 926, Nr 139, poz. 932–934 i Nr 141, poz. 943 i 945 oraz z 1998 r. Nr 66, poz. 430, Nr 74, poz. 471 i Nr 108, poz. 685) wprowadza się następujące zmiany:
 - **1)** art. 27b otrzymuje brzmienie: „
 

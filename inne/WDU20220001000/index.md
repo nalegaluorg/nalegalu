@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-04 |
 | Data wydania | 2022-05-12 |
-| Wejście w życie | 2022-05-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001000) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1000/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2019 r. poz. 1505 oraz z 2022 r. poz. 24, 88 i 646) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) w § 13zo w ust. 3 i 4 liczbę „16” zastępuje się liczbą „31”.
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354, z 2021 r. poz. 926, 1311, 1387, 1528, 1698 i 2087 oraz z 2022 r. poz. 45 i 642.) w § 13zo w ust. 3 i 4 liczbę „16” zastępuje się liczbą „31”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354, z 2021 r. poz. 926, 1311, 1387, 1528, 1698 i 2087 oraz z 2022 r. poz. 45 i 642.
 

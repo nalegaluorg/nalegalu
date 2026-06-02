@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-08-23 |
 | Data wydania | 2007-09-14 |
-| Wejście w życie | 2007-09-14 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071651169) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1169/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm.) po art. 19 dodaje się art. 19a w brzmieniu: „
+**Art. 1.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759, Nr 202, poz. 1957, Nr 217, poz. 2124 i Nr 223, poz. 2218, z 2004 r. Nr 6, poz. 39, Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 121, poz. 1262, Nr 123, poz. 1291, Nr 146, poz. 1546, Nr 171, poz. 1800, Nr 210, poz. 2135 i Nr 254, poz. 2533, z 2005 r. Nr 25, poz. 202, Nr 57, poz. 491, Nr 78, poz. 684, Nr 143, poz. 1199, Nr 155, poz. 1298, Nr 169, poz. 1419 i 1420, Nr 179, poz. 1484, Nr 180, poz. 1495 i Nr 183, poz. 1538 oraz z 2006 r. Nr 94, poz. 651, Nr 107, poz. 723, Nr 136, poz. 970, Nr 157, poz. 1119, Nr 183, poz. 1353, Nr 217, poz. 1589 i Nr 251, poz. 1847.) po art. 19 dodaje się art. 19a w brzmieniu: „
 
 **Art. 19a.**
 
@@ -62,5 +61,5 @@ source: "eli-html"
 
 **Art. 4.** Przepisy ustawy stosuje się od dnia ogłoszenia pozytywnej decyzji Komisji Europejskiej o zgodności pomocy publicznej przewidzianej w niniejszej ustawie ze wspólnym rynkiem.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem ogłoszenia i ma zastosowanie także do osiągniętych dochodów za rok podatkowy rozpoczynający się w 2007 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem ogłoszenia i ma zastosowanie także do osiągniętych dochodów za rok podatkowy rozpoczynający się w 2007 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759, Nr 202, poz. 1957, Nr 217, poz. 2124 i Nr 223, poz. 2218, z 2004 r. Nr 6, poz. 39, Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 121, poz. 1262, Nr 123, poz. 1291, Nr 146, poz. 1546, Nr 171, poz. 1800, Nr 210, poz. 2135 i Nr 254, poz. 2533, z 2005 r. Nr 25, poz. 202, Nr 57, poz. 491, Nr 78, poz. 684, Nr 143, poz. 1199, Nr 155, poz. 1298, Nr 169, poz. 1419 i 1420, Nr 179, poz. 1484, Nr 180, poz. 1495 i Nr 183, poz. 1538 oraz z 2006 r. Nr 94, poz. 651, Nr 107, poz. 723, Nr 136, poz. 970, Nr 157, poz. 1119, Nr 183, poz. 1353, Nr 217, poz. 1589 i Nr 251, poz. 1847.
 

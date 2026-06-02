@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-18 |
 | Data wydania | 2018-07-30 |
-| Wejście w życie | 2018-07-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001452) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1452/text.pdf) |
 
@@ -37,8 +36,7 @@ udostępniania przesyłek pocztowych w celu kontroli treści korespondencji lub 
 3)
 udostępniania zatrzymanej przez operatora przesyłki pocztowej w przypadku podejrzenia, że stanowi przedmiot przestępstwa, do oględzin przez uprawnione podmioty,
 4)
-dopuszczenia do dalszego przewozu przesyłki pocztowej zawierającej przedmioty przestępstwa w stanie nienaruszonym lub po ich usunięciu albo zastąpieniu w całości lub w części
-zgodnie z zasadami i trybem określonymi w przepisach odrębnych.
+dopuszczenia do dalszego przewozu przesyłki pocztowej zawierającej przedmioty przestępstwa w stanie nienaruszonym lub po ich usunięciu albo zastąpieniu w całości lub w części – zgodnie z zasadami i trybem określonymi w przepisach odrębnych.
 § 2.
 Operator pocztowy, w zakresie, o którym mowa w § 1, zapewnia nieodpłatnie uprawnionym podmiotom oraz prokuraturze i sądom techniczne i organizacyjne możliwości wykonywania ich zadań przez:
 1)

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 25 listopada 2020 r. w sprawie wymagań, jakie powinny spełniać podmioty upoważnione do stosowania oznaczeń na drewnianym materiale opakowaniowym, drewnie lub innych przedmiotach
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 25 listopada 2020 r. w sprawie wymagań, jakie powinny spełniać podmioty upoważnione do stosowania oznaczeń na drewnianym materiale opakowaniowym, drewnie lub innych przedmiotach Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928).
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-25 |
 | Data wydania | 2020-12-11 |
-| Wejście w życie | 2020-12-26 |
 | Ostatnia zmiana | 2025-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002217) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2217/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 30 ustawy z dnia 13 lutego 2020 r. o ochronie roślin przed agrofagami (Dz. U. poz. 424 i 695) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 15 lipca 2020 r. pod numerem 2020/454/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1, z późn. zm.). Na podstawie art. 30 ustawy z dnia 13 lutego 2020 r. o ochronie roślin przed agrofagami (Dz. U. poz. 424 i 695) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
-wymagania dotyczące wiedzy, o której mowa w art. 98 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/2031 z dnia 26 października 2016 r. w sprawie środków ochronnych przeciwko agrofagom roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 228/2013, (UE) nr 652/2014 i (UE) nr 1143/2014 oraz uchylającego dyrektywy Rady 69/464/EWG, 74/647/EWG, 93/85/EWG, 98/57/WE, 2000/29/WE, 2006/91/WE i 2007/33/WE (Dz. Urz. UE L 317 z 23.11.2016, str. 4, z późn. zm.), zwanego dalej „rozporządzeniem 2016/2031”;
+wymagania dotyczące wiedzy, o której mowa w art. 98 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/2031 z dnia 26 października 2016 r. w sprawie środków ochronnych przeciwko agrofagom roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 228/2013, (UE) nr 652/2014 i (UE) nr 1143/2014 oraz uchylającego dyrektywy Rady 69/464/EWG, 74/647/EWG, 93/85/EWG, 98/57/WE, 2000/29/WE, 2006/91/WE i 2007/33/WE (Dz. Urz. UE L 317 z 23.11.2016, str. 4, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 95 z 07.04.2017, str. 1 i Dz. Urz. UE L 91 z 29.03.2019, str. 77., zwanego dalej „rozporządzeniem 2016/2031”;
 2)
 wymagania organizacyjno-techniczne dotyczące zakładów i sprzętu, o których mowa w art. 98 ust. 1 lit. b rozporządzenia 2016/2031;
 3)
@@ -155,6 +154,5 @@ Podmiot upoważniony do stosowania oznaczenia, o którym mowa w art. 96 ust. 1 r
 § 11.
 Do dnia 30 listopada 2021 r. wymagań określonych w § 2 nie stosuje się do podmiotów, które zostały upoważnione do stosowania oznaczenia, o którym mowa w art. 96 ust. 1 rozporządzenia 2016/2031, przed dniem wejścia w życie niniejszego rozporządzenia.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 15 lipca 2020 r. pod numerem 2020/454/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1, z późn. zm.). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 95 z 07.04.2017, str. 1 i Dz. Urz. UE L 91 z 29.03.2019, str. 77.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 15 lipca 2020 r. pod numerem 2020/454/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1, z późn. zm.). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 95 z 07.04.2017, str. 1 i Dz. Urz. UE L 91 z 29.03.2019, str. 77.
 

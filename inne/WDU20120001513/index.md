@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 listopada 2012 r. o zmianie ustawy o odpadach wydobywczych oraz niektórych innych ustaw
+# Ustawa z dnia 16 listopada 2012 r. o zmianie ustawy o odpadach wydobywczych oraz niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia postanowień dyrektywy 2006/21/WE Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. w sprawie gospodarowania odpadami pochodzącymi z przemysłu wydobywczego oraz zmieniającej dyrektywę 2004/35/WE (Dz. Urz. UE L 102 z 11.04.2006, str. 15, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-11-16 |
 | Data wydania | 2012-12-29 |
-| Wejście w życie | 2013-01-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001513) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1513/text.pdf) |
 
@@ -53,7 +52,7 @@ source: "eli-html"
 - **11)** rekultywacja terenu – zagospodarowanie terenu, w tym oczyszczanie gruntu, na który miał wpływ obiekt unieszkodliwiania odpadów wydobywczych, w taki sposób, aby przywrócić go do właściwego stanu użytkowego i przyrodniczego, ze szczególnym uwzględnieniem jakości gleby, dzikiej fauny i flory, siedlisk naturalnych, systemów słodkiej wody oraz krajobrazu; ” , pkt 14 otrzymuje brzmienie: „
     - **d)**
 
-- **14)** zainteresowana społeczność – osoby fizyczne, osoby prawne lub jednostki organizacyjne nieposiadające osobowości prawnej, które są lub mogą być dotknięte skutkami wydania zezwolenia lub mają interes w procesie jego wydania lub w procesie ustalania procedur związanych z zapobieganiem poważnym wypadkom w obiektach unieszkodliwiania odpadów wydobywczych kategorii A, a także organizacja ekologiczna, o której mowa w art. 3 ust. 1 pkt 10 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm.); ” , dodaje się pkt 15 w brzmieniu: „
+- **14)** zainteresowana społeczność – osoby fizyczne, osoby prawne lub jednostki organizacyjne nieposiadające osobowości prawnej, które są lub mogą być dotknięte skutkami wydania zezwolenia lub mają interes w procesie jego wydania lub w procesie ustalania procedur związanych z zapobieganiem poważnym wypadkom w obiektach unieszkodliwiania odpadów wydobywczych kategorii A, a także organizacja ekologiczna, o której mowa w art. 3 ust. 1 pkt 10 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 42, poz. 340, Nr 84, poz. 700 i Nr 157, poz. 1241, z 2010 r. Nr 28, poz. 145, Nr 106, poz. 675, Nr 119, poz. 804, Nr 143, poz. 963 i Nr 182, poz. 1228, z 2011 r. Nr 32, poz. 159, Nr 122, poz. 695, Nr 132, poz. 766, Nr 135, poz. 789, Nr 152, poz. 897, Nr 163, poz. 981, Nr 170, poz. 1015 i Nr 178, poz. 1060 oraz z 2012 r. poz. 460, 472, 908 i 951.); ” , dodaje się pkt 15 w brzmieniu: „
     - **e)**
 
 - **15)** przemieszczanie – gospodarowanie masami ziemnymi i skalnymi związane z wydobywaniem kopalin ze złóż w obrębie wyrobiska górniczego w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze. ” ;
@@ -74,14 +73,23 @@ source: "eli-html"
 
 5. Po upływie okresów, o których mowa w ust. 2–4, posiadacz odpadów wydobywczych jest obowiązany poddać odpady wydobywcze odzyskowi lub unieszkodliwieniu, w tym składowaniu w obiekcie unieszkodliwiania odpadów wydobywczych, w którym można składować poszczególne rodzaje odpadów wydobywczych, o których mowa w ust. 2–4. ” ;
 
-- **8)** w art. 8 w ust. 2: w pkt 1: – lit. a otrzymuje brzmienie: „ a) racjonalne gospodarowanie odpadami wydobywczymi w fazie projektowania działalności wydobywczej, przy wyborze metody wydobywania kopalin ze złóż i ich przeróbki oraz w fazie działalności wydobywczej, ” , – lit. c otrzymuje brzmienie: „ c) umieszczenie odpadów wydobywczych z powrotem w wyrobiskach górniczych, w zakresie, w jakim jest to technicznie możliwe do wykonania i uzasadnione ze względów ochrony środowiska oraz ekonomicznie, jak również zgodne z przepisami o ochronie środowiska, przepisami o odpadach i przepisami prawa geologicznego i górniczego, ” , pkt 2 otrzymuje brzmienie: „
+- **8)** w art. 8 w ust. 2: w pkt 1: lit. a otrzymuje brzmienie: „ racjonalne gospodarowanie odpadami wydobywczymi w fazie projektowania działalności wydobywczej, przy wyborze metody wydobywania kopalin ze złóż i ich przeróbki oraz w fazie działalności wydobywczej, ” , lit. c otrzymuje brzmienie: „ umieszczenie odpadów wydobywczych z powrotem w wyrobiskach górniczych, w zakresie, w jakim jest to technicznie możliwe do wykonania i uzasadnione ze względów ochrony środowiska oraz ekonomicznie, jak również zgodne z przepisami o ochronie środowiska, przepisami o odpadach i przepisami prawa geologicznego i górniczego, ” , pkt 2 otrzymuje brzmienie: „
     - **a)**
+    - **a)**
+    - **c)**
     - **b)**
 
 - **2)** zapewnienie w pierwszej kolejności odzysku odpadów wydobywczych, jeżeli jest to uzasadnione ze względów ochrony środowiska, a także technologicznych i ekonomicznych oraz zgodne z przepisami o ochronie środowiska; ” ;
-- **9)** w art. 9: w ust. 1: – pkt 6 otrzymuje brzmienie: „ 6) określenie łącznej ilości poszczególnych rodzajów odpadów wydobywczych przewidzianych do wytworzenia w trakcie prowadzenia działalności objętej programem gospodarowania odpadami wydobywczymi, w tym w ciągu roku; ” , – pkt 12 otrzymuje brzmienie: „ 12) zakres i sposób monitoringu obiektów unieszkodliwiania odpadów wydobywczych, zgodnie z przepisami wydanymi na podstawie art. 27 ust. 6, w szczególności określenie listy substancji i parametrów wskaźnikowych przewidzianych do badania w zależności od rodzaju i właściwości składowanych odpadów wydobywczych; ” , – pkt 15 otrzymuje brzmienie: „ 15) wyniki badań wód powierzchniowych, wód podziemnych i gleby, na które może wywierać wpływ obiekt unieszkodliwiania odpadów wydobywczych, w szczególności w zakresie ustalenia poziomu naturalnych stężeń substancji na danym terenie. ” , w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Charakterystyka odpadów wydobywczych, o której mowa w ust. 1 pkt 5, obejmuje informacje dotyczące działań poszukiwawczych, wydobywczych i przeróbczych, złóż przeznaczonych do eksploatacji, typu i właściwości odpadów wydobywczych oraz postępowania z nimi, w szczególności: ” , – pkt 1 otrzymuje brzmienie: „ 1) opis właściwości fizycznych i chemicznych odpadów wydobywczych, ze szczególnym uwzględnieniem ich stabilności w warunkach atmosferycznych oraz rodzaju kopaliny; ” , – pkt 3 otrzymuje brzmienie: „ 3) opis substancji chemicznych, które będą stosowane w procesie przeróbki, ze szczególnym uwzględnieniem ich stabilności; ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+- **9)** w art. 9: w ust. 1: pkt 6 otrzymuje brzmienie: „
     - **a)**
+
+- **6)** określenie łącznej ilości poszczególnych rodzajów odpadów wydobywczych przewidzianych do wytworzenia w trakcie prowadzenia działalności objętej programem gospodarowania odpadami wydobywczymi, w tym w ciągu roku; ” , pkt 12 otrzymuje brzmienie: „
+- **12)** zakres i sposób monitoringu obiektów unieszkodliwiania odpadów wydobywczych, zgodnie z przepisami wydanymi na podstawie art. 27 ust. 6, w szczególności określenie listy substancji i parametrów wskaźnikowych przewidzianych do badania w zależności od rodzaju i właściwości składowanych odpadów wydobywczych; ” , pkt 15 otrzymuje brzmienie: „
+- **15)** wyniki badań wód powierzchniowych, wód podziemnych i gleby, na które może wywierać wpływ obiekt unieszkodliwiania odpadów wydobywczych, w szczególności w zakresie ustalenia poziomu naturalnych stężeń substancji na danym terenie. ” , w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Charakterystyka odpadów wydobywczych, o której mowa w ust. 1 pkt 5, obejmuje informacje dotyczące działań poszukiwawczych, wydobywczych i przeróbczych, złóż przeznaczonych do eksploatacji, typu i właściwości odpadów wydobywczych oraz postępowania z nimi, w szczególności: ” , pkt 1 otrzymuje brzmienie: „
     - **b)**
+
+- **1)** opis właściwości fizycznych i chemicznych odpadów wydobywczych, ze szczególnym uwzględnieniem ich stabilności w warunkach atmosferycznych oraz rodzaju kopaliny; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** opis substancji chemicznych, które będą stosowane w procesie przeróbki, ze szczególnym uwzględnieniem ich stabilności; ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
     - **c)**
 
 4a. Posiadacz odpadów wydobywczych sporządza charakterystykę odpadów wydobywczych na podstawie informacji zgromadzonych i zweryfikowanych w sposób określony w przepisach wydanych na podstawie ust. 5. ” , ust. 5 otrzymuje brzmienie: „
@@ -99,10 +107,15 @@ source: "eli-html"
 
 2a. Wniosek, o którym mowa w ust. 2, może zawierać proponowany czas, na jaki ma być wydana decyzja, o której mowa w ust. 1.
 
-2b. W przypadku, o którym mowa w ust. 2a, właściwy organ wydaje decyzję na czas określony, o ile jest to uzasadnione rodzajem prowadzonej działalności związanej z gospodarowaniem odpadami wydobywczymi. ” , w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Decyzja zatwierdzająca program gospodarowania odpadami wydobywczymi, odpowiednio do zakresu działalności gospodarczej objętej programem, zawiera: ” , – pkt 1 otrzymuje brzmienie: „ 1) imię i nazwisko oraz adres zamieszkania lub nazwę i adres siedziby posiadacza odpadów wydobywczych; ” , – pkt 4 otrzymuje brzmienie: „ 4) określenie łącznej ilości poszczególnych rodzajów odpadów wydobywczych przewidzianych do wytworzenia w trakcie prowadzenia działalności objętej programem gospodarowania odpadami wydobywczymi, w tym w ciągu roku; ” , – pkt 10 otrzymuje brzmienie: „ 10) zakres i sposób monitoringu obiektów unieszkodliwiania odpadów wydobywczych, zgodnie z przepisami wydanymi na podstawie art. 27 ust. 6, w szczególności określenie listy substancji i parametrów wskaźnikowych przewidzianych do badania w zależności od rodzaju i właściwości składowanych odpadów wydobywczych; ” , – pkt 13 otrzymuje brzmienie: „ 13) wyniki badań wód powierzchniowych, wód podziemnych i gleby, na które może wywierać wpływ obiekt unieszkodliwiania odpadów wydobywczych, w szczególności w zakresie ustalenia poziomu naturalnych stężeń substancji na danym terenie; ” , – pkt 15 otrzymuje brzmienie: „ 15) czas, na jaki została wydana decyzja – w przypadku, o którym mowa w ust. 2a. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+2b. W przypadku, o którym mowa w ust. 2a, właściwy organ wydaje decyzję na czas określony, o ile jest to uzasadnione rodzajem prowadzonej działalności związanej z gospodarowaniem odpadami wydobywczymi. ” , w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Decyzja zatwierdzająca program gospodarowania odpadami wydobywczymi, odpowiednio do zakresu działalności gospodarczej objętej programem, zawiera: ” , pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **1)** imię i nazwisko oraz adres zamieszkania lub nazwę i adres siedziby posiadacza odpadów wydobywczych; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** określenie łącznej ilości poszczególnych rodzajów odpadów wydobywczych przewidzianych do wytworzenia w trakcie prowadzenia działalności objętej programem gospodarowania odpadami wydobywczymi, w tym w ciągu roku; ” , pkt 10 otrzymuje brzmienie: „
+- **10)** zakres i sposób monitoringu obiektów unieszkodliwiania odpadów wydobywczych, zgodnie z przepisami wydanymi na podstawie art. 27 ust. 6, w szczególności określenie listy substancji i parametrów wskaźnikowych przewidzianych do badania w zależności od rodzaju i właściwości składowanych odpadów wydobywczych; ” , pkt 13 otrzymuje brzmienie: „
+- **13)** wyniki badań wód powierzchniowych, wód podziemnych i gleby, na które może wywierać wpływ obiekt unieszkodliwiania odpadów wydobywczych, w szczególności w zakresie ustalenia poziomu naturalnych stężeń substancji na danym terenie; ” , pkt 15 otrzymuje brzmienie: „
+- **15)** czas, na jaki została wydana decyzja – w przypadku, o którym mowa w ust. 2a. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+    - **c)**
 
 3a. Decyzja zatwierdzająca program gospodarowania odpadami wydobywczymi może określać:
 
@@ -178,7 +191,7 @@ source: "eli-html"
 
 - **1)** w formie pisemnej;
 - **2)** ustnie do protokołu;
-- **3)** za pomocą środków komunikacji elektronicznej bez konieczności opatrywania ich bezpiecznym podpisem elektronicznym, w rozumieniu ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, poz. 1450, z późn. zm.).
+- **3)** za pomocą środków komunikacji elektronicznej bez konieczności opatrywania ich bezpiecznym podpisem elektronicznym, w rozumieniu ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. Nr 130, poz. 1450, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 64, poz. 565, z 2006 r. Nr 145, poz. 1050, z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 40, poz. 230 i Nr 182, poz. 1228 oraz z 2011 r. Nr 106, poz. 622.).
 
 4. Uwagi lub wnioski złożone po upływie terminu, o którym mowa w ust. 1 pkt 4, pozostawia się bez rozpatrzenia.
 
@@ -330,7 +343,7 @@ source: "eli-html"
 - **29)** w załączniku nr 2 do ustawy pkt 1 otrzymuje brzmienie: „
 - **1)** imię i nazwisko oraz adres zamieszkania lub nazwę i adres siedziby posiadacza odpadów prowadzącego obiekt unieszkodliwiania odpadów wydobywczych oraz adres obiektu unieszkodliwiania odpadów wydobywczych; ” .
 
-**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657, z 2011 r. Nr 32, poz. 159, Nr 63, poz. 322, Nr 94, poz. 551, Nr 99, poz. 569, Nr 122, poz. 695, Nr 152, poz. 897, Nr 178, poz. 1060 i Nr 224, poz. 1341 oraz z 2012 r. poz. 460, 951 i 1342.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 w pkt 38 lit. d otrzymuje brzmienie: „ wody odciekowe ze składowisk odpadów oraz obiektów unieszkodliwiania odpadów wydobywczych, w których są składowane odpady wydobywcze niebezpieczne oraz odpady wydobywcze inne niż niebezpieczne i obojętne, miejsc magazynowania odpadów, wykorzystane solanki, wody lecznicze i termalne, ” ;
     - **d)**
@@ -343,16 +356,16 @@ source: "eli-html"
     - **a)**
 
 - **1)** pozwolenia na wytwarzanie odpadów dla odpadów innych niż wydobywcze wytworzonych w miejscu poszukiwania, rozpoznawania i wydobywania kopalin ze złóż oraz ich magazynowania i przeróbki,
-- **2)** pozwolenia zintegrowanego dla odpadów, o których mowa w pkt 1 jest organ właściwy do wydania decyzji zatwierdzającej program gospodarowania odpadami wydobywczymi, o której mowa w art. 11 ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. Nr 138, poz. 865, z późn. zm.). ” , ust. 4 otrzymuje brzmienie: „
+- **2)** pozwolenia zintegrowanego dla odpadów, o których mowa w pkt 1 – jest organ właściwy do wydania decyzji zatwierdzającej program gospodarowania odpadami wydobywczymi, o której mowa w art. 11 ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. Nr 138, poz. 865, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 145, z 2011 r. Nr 163, poz. 981 oraz z 2012 r. poz. 1513.). ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Zadania samorządu województwa, o których mowa w ust. 2a i 2aa, art. 91 ust. 1, 3, 3a i 5, art. 92 ust. 1, art. 94 ust. 2, art. 95 ust. 1, art. 96, art. 119 ust. 2, art. 135 ust. 2, art. 162 ust. 3, 6 i 7, art. 426 ust. 2 i 5, art. 428 ust. 1, art. 430 ust. 2, art. 434, art. 435 ust. 3, 5 i 6, art. 437 ust. 1, 2, 4 i 8 oraz art. 441 ust. 1, 2 i 4, są zadaniami z zakresu administracji rządowej. ” .
 
-**Art. 3.** W ustawie z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2010 r. Nr 185, poz. 1243, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2010 r. Nr 185, poz. 1243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 203, poz. 1351, z 2011 r. Nr 106, poz. 622, Nr 117, poz. 678, Nr 138, poz. 809, Nr 152, poz. 897 i Nr 171, poz. 1016 oraz z 2012 r. poz. 951.) wprowadza się następujące zmiany:
 
 - **1)** w art. 19 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
-2a. Organem właściwym do wydania decyzji zatwierdzającej program gospodarki odpadami niebezpiecznymi dla odpadów innych niż wydobywcze wytworzonych w miejscu poszukiwania, rozpoznawania i wydobywania kopalin ze złóż oraz ich magazynowania i przeróbki jest organ właściwy do wydania decyzji zatwierdzającej program gospodarowania odpadami wydobywczymi, o której mowa w art. 11 ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. Nr 138, poz. 865, z późn. zm.). ” ;
+2a. Organem właściwym do wydania decyzji zatwierdzającej program gospodarki odpadami niebezpiecznymi dla odpadów innych niż wydobywcze wytworzonych w miejscu poszukiwania, rozpoznawania i wydobywania kopalin ze złóż oraz ich magazynowania i przeróbki jest organ właściwy do wydania decyzji zatwierdzającej program gospodarowania odpadami wydobywczymi, o której mowa w art. 11 ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. Nr 138, poz. 865, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 145, z 2011 r. Nr 163, poz. 981 oraz z 2012 r. poz. 1513.). ” ;
 
 - **2)** w art. 24 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
@@ -365,7 +378,7 @@ source: "eli-html"
 - **1)** zezwolenie właściwego organu na zbieranie, odzysk, unieszkodliwianie odpadów lub
 - **2)** koncesję na składowanie odpadów w górotworze, w tym w podziemnych wyrobiskach górniczych, lub
 - **3)** decyzję, o której mowa w art. 31 lub w art. 32, lub jest wpisany do rejestru, o którym mowa w art. 33 ust. 5, lub
-- **4)** decyzję, o której mowa w art. 11 ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych odpowiedzialność za gospodarowanie odpadami przenosi się na tego następnego posiadacza odpadów. ” ;
+- **4)** decyzję, o której mowa w art. 11 ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych – odpowiedzialność za gospodarowanie odpadami przenosi się na tego następnego posiadacza odpadów. ” ;
 - **4)** w rozdziale 7 przed art. 50 dodaje się art. 49b w brzmieniu: „
 
 **Art. 49b.** Odpady składuje się:
@@ -374,7 +387,7 @@ source: "eli-html"
 - **2)** na podziemnym składowisku odpadów, w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;
 - **3)** w obiekcie unieszkodliwiania odpadów wydobywczych, w rozumieniu ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych. ” .
 
-**Art. 4.** W ustawie z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2006 r. Nr 123, poz. 858, z późn. zm.) w art. 2 w pkt 8 lit. d otrzymuje brzmienie: „
+**Art. 4.** W ustawie z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2006 r. Nr 123, poz. 858, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 147, poz. 1033, z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 47, poz. 278 i Nr 238, poz. 1578 oraz z 2012 r. poz. 951.) w art. 2 w pkt 8 lit. d otrzymuje brzmienie: „
 
 wody odciekowe ze składowisk odpadów oraz obiektów unieszkodliwiania odpadów wydobywczych, w których są składowane odpady wydobywcze niebezpieczne oraz odpady wydobywcze inne niż niebezpieczne i obojętne, miejsc magazynowania odpadów, wykorzystane solanki, wody lecznicze i termalne, ” .
 
@@ -386,9 +399,9 @@ wody odciekowe ze składowisk odpadów oraz obiektów unieszkodliwiania odpadów
 
 - **d)**
 
-**Art. 6.** W ustawie z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. Nr 75, poz. 493, z późn. zm.) w art. 3 w ust. 1 pkt 7 otrzymuje brzmienie: „
+**Art. 6.** W ustawie z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. Nr 75, poz. 493, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 138, poz. 865 i Nr 199, poz. 1227 oraz z 2011 r. Nr 63, poz. 322, Nr 152, poz. 897, Nr 227, poz. 1367 i Nr 228, poz. 1368.) w art. 3 w ust. 1 pkt 7 otrzymuje brzmienie: „
 
-- **7)** z zakresu ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. Nr 138, poz. 865, z późn. zm.) – gospodarowanie odpadami wydobywczymi na podstawie decyzji zatwierdzającej program gospodarowania odpadami wydobywczymi. ” .
+- **7)** z zakresu ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. Nr 138, poz. 865, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 145, z 2011 r. Nr 163, poz. 981 oraz z 2012 r. poz. 1513.) – gospodarowanie odpadami wydobywczymi na podstawie decyzji zatwierdzającej program gospodarowania odpadami wydobywczymi. ” .
 
 **Art. 7.** Posiadacze odpadów dostosują prowadzoną przez siebie działalność do przepisów ustawy w terminie 3 miesięcy od dnia jej wejścia w życie.
 
@@ -414,5 +427,5 @@ wody odciekowe ze składowisk odpadów oraz obiektów unieszkodliwiania odpadów
 
 **Art. 11.** Kopie decyzji, o których mowa w art. 41 ust. 2 ustawy zmienianej w art. 1, wydanych przed dniem wejścia w życie ustawy, regionalni dyrektorzy ochrony środowiska oraz starostowie przekażą właściwemu marszałkowi województwa w terminie 2 miesięcy od dnia wejścia w życie niniejszej ustawy. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 3 ust. 2, art. 6 ust. 2 i art. 27 ust. 6 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 3 ust. 2, art. 6 ust. 2 i art. 27 ust. 6 ustawy zmienianej w art. 1.
 
-**Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia postanowień dyrektywy 2006/21/WE Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. w sprawie gospodarowania odpadami pochodzącymi z przemysłu wydobywczego oraz zmieniającej dyrektywę 2004/35/WE (Dz. Urz. UE L 102 z 11.04.2006, str. 15, z późn. zm.). 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 42, poz. 340, Nr 84, poz. 700 i Nr 157, poz. 1241, z 2010 r. Nr 28, poz. 145, Nr 106, poz. 675, Nr 119, poz. 804, Nr 143, poz. 963 i Nr 182, poz. 1228, z 2011 r. Nr 32, poz. 159, Nr 122, poz. 695, Nr 132, poz. 766, Nr 135, poz. 789, Nr 152, poz. 897, Nr 163, poz. 981, Nr 170, poz. 1015 i Nr 178, poz. 1060 oraz z 2012 r. poz. 460, 472, 908 i 951. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 64, poz. 565, z 2006 r. Nr 145, poz. 1050, z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 40, poz. 230 i Nr 182, poz. 1228 oraz z 2011 r. Nr 106, poz. 622. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657, z 2011 r. Nr 32, poz. 159, Nr 63, poz. 322, Nr 94, poz. 551, Nr 99, poz. 569, Nr 122, poz. 695, Nr 152, poz. 897, Nr 178, poz. 1060 i Nr 224, poz. 1341 oraz z 2012 r. poz. 460, 951 i 1342. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 145, z 2011 r. Nr 163, poz. 981 oraz z 2012 r. poz. 1513. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 203, poz. 1351, z 2011 r. Nr 106, poz. 622, Nr 117, poz. 678, Nr 138, poz. 809, Nr 152, poz. 897 i Nr 171, poz. 1016 oraz z 2012 r. poz. 951. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 145, z 2011 r. Nr 163, poz. 981 oraz z 2012 r. poz. 1513. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 147, poz. 1033, z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 47, poz. 278 i Nr 238, poz. 1578 oraz z 2012 r. poz. 951. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 138, poz. 865 i Nr 199, poz. 1227 oraz z 2011 r. Nr 63, poz. 322, Nr 152, poz. 897, Nr 227, poz. 1367 i Nr 228, poz. 1368. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 145, z 2011 r. Nr 163, poz. 981 oraz z 2012 r. poz. 1513.
 

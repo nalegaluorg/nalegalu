@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 10 maja 2021 r. w sprawie sposobu selektywnego zbierania wybranych frakcji odpadów
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 10 maja 2021 r. w sprawie sposobu selektywnego zbierania wybranych frakcji odpadów Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-10 |
 | Data wydania | 2021-05-17 |
-| Wejście w życie | 2021-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000906) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/906/text.pdf) |
 
@@ -60,6 +59,5 @@ Frakcje odpadów, o których mowa w § 1, zbiera się w pojemnikach lub workach,
 § 4.
 W terminie do dnia 1 lipca 2022 r. pojemniki oraz worki niespełniające wymagań, o których mowa w § 2, zastępuje się pojemnikami lub workami spełniającymi te wymagania.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 29 grudnia 2016 r. w sprawie szczegółowego sposobu selektywnego zbierania wybranych frakcji odpadów (Dz. U. z 2019 r. poz. 2028), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 24 ust. 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw (Dz. U. poz. 1579 oraz z 2020 r. poz. 568, 695, 875 i 2361).
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 29 grudnia 2016 r. w sprawie szczegółowego sposobu selektywnego zbierania wybranych frakcji odpadów (Dz. U. z 2019 r. poz. 2028), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 24 ust. 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw (Dz. U. poz. 1579 oraz z 2020 r. poz. 568, 695, 875 i 2361). 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 29 grudnia 2016 r. w sprawie szczegółowego sposobu selektywnego zbierania wybranych frakcji odpadów (Dz. U. z 2019 r. poz. 2028), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 24 ust. 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw (Dz. U. poz. 1579 oraz z 2020 r. poz. 568, 695, 875 i 2361).
 

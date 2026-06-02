@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-03-30 |
 | Data wydania | 2020-04-15 |
-| Wejście w życie | 2020-04-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000672) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/672/text.pdf) |
 
@@ -186,7 +185,7 @@ W obiektach polowej służby zdrowia zapewnia się oświetlenie elektryczne.
 § 24.
 Obiekty polowej służby zdrowia są wyposażone w rezerwowe źródło zaopatrzenia w energię elektryczną, jakim jest agregat prądotwórczy z funkcją autostartu, który zapewnia co najmniej 30% potrzeb mocy szczytowej, oraz urządzenie, które zapewnia bezprzerwowe podtrzymanie zasilania.
 § 25.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 4 marca 2016 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia, urządzenia i obiekty podmiotów leczniczych będących jednostkami budżetowymi i jednostkami wojskowymi, dla których podmiotem tworzącym jest Minister Obrony Narodowej (Dz. U. poz. 364), które na podstawie art. 35 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2020 r. poz. 172) utraciło moc z dniem 2 grudnia 2019 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 4 marca 2016 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia, urządzenia i obiekty podmiotów leczniczych będących jednostkami budżetowymi i jednostkami wojskowymi, dla których podmiotem tworzącym jest Minister Obrony Narodowej (Dz. U. poz. 364), które na podstawie art. 35 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2020 r. poz. 172) utraciło moc z dniem 2 grudnia 2019 r.
 Załącznik – Szczegółowe wymagania, jakim powinny odpowiadać pomieszczenia i urządzenia ambulatorium oraz ambulatorium z izbą chorych
 1.
 W ambulatorium, w którym nie są wykonywane zabiegi z naruszeniem ciągłości tkanek, urządza się co najmniej jeden gabinet do przyjmowania pacjentów.

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 26 lipca 2018 r. zmieniające rozporządzenie w sprawie warunków organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży niepełnosprawnych, niedostosowanych społecznie i zagrożonych niedostosowaniem społecznym
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 26 lipca 2018 r. zmieniające rozporządzenie w sprawie warunków organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży niepełnosprawnych, niedostosowanych społecznie i zagrożonych niedostosowaniem społecznym Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-26 |
 | Data wydania | 2018-08-06 |
-| Wejście w życie | 2018-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001485) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1485/text.pdf) |
 
@@ -33,17 +32,13 @@ W rozporządzeniu Ministra Edukacji Narodowej z dnia 9 sierpnia 2017 r. w sprawi
 1)
 w § 6:
 a)
-w ust. 8 pkt 1 otrzymuje brzmienie:
-„
+w ust. 8 pkt 1 otrzymuje brzmienie: „
 1)
-na wniosek dyrektora przedszkola, szkoły lub ośrodka, o których mowa w § 2 ust. 1 pkt 1, 2 i 4–9, a w przypadku innej formy wychowania przedszkolnego prowadzonej przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną – na wniosek osoby kierującej inną formą wychowania przedszkolnego – przedstawiciel poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, lub pomoc nauczyciela, o której mowa w § 7 ust. 2 pkt 3, ust. 3 pkt 3 oraz w ust. 4 i 5;
-” ,
+na wniosek dyrektora przedszkola, szkoły lub ośrodka, o których mowa w § 2 ust. 1 pkt 1, 2 i 4–9, a w przypadku innej formy wychowania przedszkolnego prowadzonej przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną – na wniosek osoby kierującej inną formą wychowania przedszkolnego – przedstawiciel poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, lub pomoc nauczyciela, o której mowa w § 7 ust. 2 pkt 3, ust. 3 pkt 3 oraz w ust. 4 i 5; ” ,
 b)
-w ust. 10 pkt 2 otrzymuje brzmienie:
-„
+w ust. 10 pkt 2 otrzymuje brzmienie: „
 2)
-w zależności od potrzeb, zakres i charakter wsparcia ze strony nauczycieli, specjalistów lub pomocy nauczyciela, o których mowa w § 7 ust. 1–5;
-” ;
+w zależności od potrzeb, zakres i charakter wsparcia ze strony nauczycieli, specjalistów lub pomocy nauczyciela, o których mowa w § 7 ust. 1–5; ” ;
 2)
 w § 7:
 a)
@@ -53,6 +48,5 @@ w ust. 3 uchyla się pkt 2.
 § 2.
 Do osób zatrudnionych w dniu 1 września 2018 r. na stanowisku asystenta nauczyciela, asystenta osoby, o której mowa w art. 15 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, lub asystenta wychowawcy świetlicy, które po tym dniu są nadal zatrudnione na tym stanowisku zgodnie z art. 143 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. poz. 2203), stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 września 2018 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
+Rozporządzenie wchodzi w życie z dniem 1 września 2018 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 

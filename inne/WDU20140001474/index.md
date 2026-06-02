@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-10-17 |
 | Data wydania | 2014-10-29 |
-| Wejście w życie | 2014-11-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001474) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1474/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 8a ust. 2 pkt 2 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2011 r. Nr 212, poz. 1263, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 8a ust. 2 pkt 2 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2011 r. Nr 212, poz. 1263, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 460 i 892 oraz z 2013 r. poz. 2.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -67,5 +66,5 @@ organizowanie specjalistycznych szkoleń w zakresie gromadzenia i przetwarzania 
 5)
 administrowanie i utrzymywanie centralnych baz danych tych systemów, z wyłączeniem systemu, o którym mowa w § 2 pkt 8.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 13 sierpnia 2010 r. w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. Nr 162, poz. 1095), które utraciło moc z dniem 4 marca 2014 r. na podstawie art. 4 ust. 1 ustawy z dnia 13 lipca 2012 r. o zmianie ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz ustawy o Państwowej Inspekcji Sanitarnej (Dz. U. poz. 892). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 460 i 892 oraz z 2013 r. poz. 2. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 13 sierpnia 2010 r. w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. Nr 162, poz. 1095), które utraciło moc z dniem 4 marca 2014 r. na podstawie art. 4 ust. 1 ustawy z dnia 13 lipca 2012 r. o zmianie ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz ustawy o Państwowej Inspekcji Sanitarnej (Dz. U. poz. 892).
 

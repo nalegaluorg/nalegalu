@@ -8,10 +8,10 @@ pos: 747
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 kwietnia 2022 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 23 marca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa
 
 | Pole | Wartość |
 |---|---|
@@ -25,16 +25,38 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000747) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/747/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 marca 2022 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. z 2018 r. poz. 114), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 1 października 2021 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego (Dz. U. poz. 2052) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 marca 2022 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 15 ustawy z dnia 1 października 2021 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego (Dz. U.
-poz. 2052), który stanowi: „Art. 15. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: E. Witek
-USTAWA z dnia 17 listopada 2006 r.
-o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. z 2018 r. poz. 114), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 1 października 2021 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego (Dz. U. poz. 2052) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 marca 2022 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 15 ustawy z dnia 1 października 2021 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego (Dz. U. poz. 2052), który stanowi: „
+Przepisy ogólne
+Zasady przeprowadzania oceny zgodności wyrobów
+Akredytacja jednostek organizacyjnych właściwych w zakresie oceny zgodności wyrobów nabywanych na potrzeby obronności i bezpieczeństwa państwa oraz tryb udzielania akredytacji OiB
+Nadzór nad funkcjonowaniem systemu oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa
+Opłaty
+Zmiany w przepisach obowiązujących
+Przepisy przejściowe i końcowe
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Zasady przeprowadzania oceny zgodności wyrobów
+
+#### Rozdział 3 – Akredytacja jednostek organizacyjnych właściwych w zakresie oceny zgodności wyrobów nabywanych na potrzeby obronności i bezpieczeństwa państwa oraz tryb udzielania akredytacji OiB
+
+#### Rozdział 4 – Nadzór nad funkcjonowaniem systemu oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa
+
+#### Rozdział 5 – Opłaty
+
+#### Rozdział 6 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 7 – Przepisy przejściowe i końcowe
+
+**Art. 15.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwaNiniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 27 stycznia 2006 r., pod numerem 2006/043/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).
+
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa:
 
@@ -55,8 +77,7 @@ o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i be
 - **1)** wyrobów, o których mowa w art. 7 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2021 r. poz. 869 i 2490);
 - **2)** wyrobów, o których mowa w art. 50 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742);
 - **3)** wyrobów podlegających dozorowi technicznemu, w zakresie ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2021 r. poz. 272 i 2269);
-- **4)** wyrobów posiadających oznakowanie CE, w zakresie objętym przepisami ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2021 r. poz. 1344);
-- **5)** wyrobów posiadających oznakowanie Π, w zakresie objętym przepisami ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2021 r. poz. 756 oraz z 2022 r. poz. 209);
+- **4)** wyrobów posiadających oznakowanie CE, w zakresie objętym przepisami ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2021 r. poz. 1344); 5W brzmieniu ustalonym przez art. 11 ustawy z dnia 1 października 2021 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego (Dz. U. poz. 2052), która weszła w życie z dniem 30 listopada 2021 r.) wyrobów posiadających oznakowanie Π, w zakresie objętym przepisami ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2021 r. poz. 756 oraz z 2022 r. poz. 209);
 - **6)** podsystemów i składników, o których mowa w ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2021 r. poz. 1984);
 - **7)** wyrobów budowlanych, o których mowa w art. 2 pkt 1 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych (Dz. U. z 2021 r. poz. 1213);
 - **8)** wyposażenia morskiego, o którym mowa w ustawie z dnia 2 grudnia 2016 r. o wyposażeniu morskim (Dz. U. z 2019 r. poz. 955);
@@ -64,22 +85,22 @@ o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i be
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
-- **1)** akredytacji w zakresie obronności i bezpieczeństwa (akredytacji OiB) należy przez to rozumieć uznanie przez Ministra Obrony Narodowej kompetencji jednostki organizacyjnej do prowadzenia działalności związanej z oceną zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa z wymaganiami określonymi w specyfikacji technicznej;
-- **2)** certyfikacji należy przez to rozumieć działanie jednostki certyfikującej wykazujące, że wyrób lub proces jego wytworzenia jest zgodny z wymaganiami zawartymi w specyfikacji technicznej;
-- **3)** certyfikacie zgodności wyrobu należy przez to rozumieć dokument wydany przez jednostkę certyfikującą potwierdzający, że wyrób jest zgodny ze specyfikacją techniczną;
-- **4)** deklaracji zgodności w zakresie obronności i bezpieczeństwa (deklaracji zgodności OiB) należy przez to rozumieć oświadczenie dostawcy stwierdzające, na jego wyłączną odpowiedzialność, że wyrób jest zgodny ze specyfikacją techniczną;
-- **5)** dokumentacji technicznej należy przez to rozumieć dokumenty zawierające dane niezbędne do wyprodukowania wyrobu lub wykonania prac, określające jednoznacznie wyrób, jego części składowe i warunki techniczne, jakie ma spełniać, oraz umożliwiające dokładną identyfikację wyrobu;
-- **6)** dostawcy należy przez to rozumieć osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, realizującą dostawy wyrobów na rzecz komórek lub jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych lub na rzecz organów, komórek lub jednostek podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych, w tym producenta, dystrybutora lub importera;
-- **7)** jednostce badawczej należy przez to rozumieć jednostkę organizacyjną posiadającą akredytację OiB, dokonującą oceny zgodności wyrobu w ramach badań oraz pomiarów mających stwierdzić zgodność wyrobu ze specyfikacją techniczną;
-- **8)** jednostce certyfikującej należy przez to rozumieć niezależną jednostkę organizacyjną posiadającą akredytację OiB, dokonującą certyfikacji;
-- **9)** monitorowaniu i ocenie procesów i wyrobów wytwarzanych przez dostawcę należy przez to rozumieć stosowanie technik nadzorowania jakości do zamawianych wyrobów przez organ sprawujący nadzór nad czynnościami związanymi z wyrobem w formie: oceny systemu zarządzania jakością dostawcy (tj. dokonaniu przeglądu dokumentacji systemu zarządzania jakością dostawcy, realizowanych procesów oraz monitorowania ich przebiegu podczas realizacji umowy na dostawę wyrobu), przeglądu i obserwacji przebiegu procesów realizowanych przez dostawcę, uczestniczenie w procesach weryfikacji, kontroli i badaniach wyrobów wykonywanych przez dostawcę;
-- **10)** ocenie zgodności należy przez to rozumieć działanie dostawcy oraz jednostki badawczej lub jednostki certyfikującej mające na celu określenie, czy wyrób spełnia wymagania określone w specyfikacjach technicznych;
-- **11)** organie sprawującym nadzór nad czynnościami związanymi z wyrobem należy przez to rozumieć organ wskazany przez Ministra Obrony Narodowej i ministra właściwego do spraw wewnętrznych, każdego w zakresie swojej właściwości, dokonujący nadzoru czynności związanych z wyrobem wprowadzanym do użytku;
-- **12)** organie nadzorującym jednostki badawcze i jednostki certyfikujące należy przez to rozumieć Ministra Obrony Narodowej albo wskazane przez niego organy sprawujące nadzór nad akredytowanymi jednostkami badawczymi i jednostkami certyfikującymi w zakresie prowadzenia oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa;
-- **12a)** pilnej potrzebie operacyjnej należy przez to rozumieć potrzebę niezwłocznego pozyskania nowego wyrobu lub modernizacji wyrobu, wynikającą z konieczności użycia Sił Zbrojnych Rzeczypospolitej Polskiej lub służb podległych ministrowi właściwemu do spraw wewnętrznych, której przy zachowaniu należytej staranności nie można było przewidzieć na etapie planowania ich użycia;
-- **13)** specyfikacji technicznej należy przez to rozumieć dokumenty określające cechy, jakie powinien posiadać wyrób w zakresie wymagań technicznych, jakości, bezpieczeństwa użytkowania, w tym w odniesieniu do nazewnictwa, symboli, badań i metodologii badań, znakowania oraz oznaczania wyrobu;
-- **14)** wprowadzeniu wyrobu do użytku należy przez to rozumieć przekazanie wyrobu odbiorcy przez dostawcę;
-- **15)** wyrobie należy przez to rozumieć wyrób przeznaczony na potrzeby obronności i bezpieczeństwa państwa, zaprojektowany zgodnie z wymaganiami określonymi w specyfikacji technicznej i wykonany na podstawie dokumentacji technicznej, bez względu na stopień jego przetworzenia.
+- **1)** akredytacji w zakresie obronności i bezpieczeństwa (akredytacji OiB) – należy przez to rozumieć uznanie przez Ministra Obrony Narodowej kompetencji jednostki organizacyjnej do prowadzenia działalności związanej z oceną zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa z wymaganiami określonymi w specyfikacji technicznej;
+- **2)** certyfikacji – należy przez to rozumieć działanie jednostki certyfikującej wykazujące, że wyrób lub proces jego wytworzenia jest zgodny z wymaganiami zawartymi w specyfikacji technicznej;
+- **3)** certyfikacie zgodności wyrobu – należy przez to rozumieć dokument wydany przez jednostkę certyfikującą potwierdzający, że wyrób jest zgodny ze specyfikacją techniczną;
+- **4)** deklaracji zgodności w zakresie obronności i bezpieczeństwa (deklaracji zgodności OiB) – należy przez to rozumieć oświadczenie dostawcy stwierdzające, na jego wyłączną odpowiedzialność, że wyrób jest zgodny ze specyfikacją techniczną;
+- **5)** dokumentacji technicznej – należy przez to rozumieć dokumenty zawierające dane niezbędne do wyprodukowania wyrobu lub wykonania prac, określające jednoznacznie wyrób, jego części składowe i warunki techniczne, jakie ma spełniać, oraz umożliwiające dokładną identyfikację wyrobu;
+- **6)** dostawcy – należy przez to rozumieć osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, realizującą dostawy wyrobów na rzecz komórek lub jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych lub na rzecz organów, komórek lub jednostek podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych, w tym producenta, dystrybutora lub importera;
+- **7)** jednostce badawczej – należy przez to rozumieć jednostkę organizacyjną posiadającą akredytację OiB, dokonującą oceny zgodności wyrobu w ramach badań oraz pomiarów mających stwierdzić zgodność wyrobu ze specyfikacją techniczną;
+- **8)** jednostce certyfikującej – należy przez to rozumieć niezależną jednostkę organizacyjną posiadającą akredytację OiB, dokonującą certyfikacji;
+- **9)** monitorowaniu i ocenie procesów i wyrobów wytwarzanych przez dostawcę – należy przez to rozumieć stosowanie technik nadzorowania jakości do zamawianych wyrobów przez organ sprawujący nadzór nad czynnościami związanymi z wyrobem w formie: oceny systemu zarządzania jakością dostawcy (tj. dokonaniu przeglądu dokumentacji systemu zarządzania jakością dostawcy, realizowanych procesów oraz monitorowania ich przebiegu podczas realizacji umowy na dostawę wyrobu), przeglądu i obserwacji przebiegu procesów realizowanych przez dostawcę, uczestniczenie w procesach weryfikacji, kontroli i badaniach wyrobów wykonywanych przez dostawcę;
+- **10)** ocenie zgodności – należy przez to rozumieć działanie dostawcy oraz jednostki badawczej lub jednostki certyfikującej mające na celu określenie, czy wyrób spełnia wymagania określone w specyfikacjach technicznych;
+- **11)** organie sprawującym nadzór nad czynnościami związanymi z wyrobem – należy przez to rozumieć organ wskazany przez Ministra Obrony Narodowej i ministra właściwego do spraw wewnętrznych, każdego w zakresie swojej właściwości, dokonujący nadzoru czynności związanych z wyrobem wprowadzanym do użytku;
+- **12)** organie nadzorującym jednostki badawcze i jednostki certyfikujące – należy przez to rozumieć Ministra Obrony Narodowej albo wskazane przez niego organy sprawujące nadzór nad akredytowanymi jednostkami badawczymi i jednostkami certyfikującymi w zakresie prowadzenia oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa;
+- **12a)** pilnej potrzebie operacyjnej – należy przez to rozumieć potrzebę niezwłocznego pozyskania nowego wyrobu lub modernizacji wyrobu, wynikającą z konieczności użycia Sił Zbrojnych Rzeczypospolitej Polskiej lub służb podległych ministrowi właściwemu do spraw wewnętrznych, której przy zachowaniu należytej staranności nie można było przewidzieć na etapie planowania ich użycia;
+- **13)** specyfikacji technicznej – należy przez to rozumieć dokumenty określające cechy, jakie powinien posiadać wyrób w zakresie wymagań technicznych, jakości, bezpieczeństwa użytkowania, w tym w odniesieniu do nazewnictwa, symboli, badań i metodologii badań, znakowania oraz oznaczania wyrobu;
+- **14)** wprowadzeniu wyrobu do użytku – należy przez to rozumieć przekazanie wyrobu odbiorcy przez dostawcę;
+- **15)** wyrobie – należy przez to rozumieć wyrób przeznaczony na potrzeby obronności i bezpieczeństwa państwa, zaprojektowany zgodnie z wymaganiami określonymi w specyfikacji technicznej i wykonany na podstawie dokumentacji technicznej, bez względu na stopień jego przetworzenia.
 
 **Art. 4.**
 
@@ -91,7 +112,7 @@ o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i be
 
 2. W procesie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa uczestniczą dostawcy, jednostki badawcze i jednostki certyfikujące.
 
-#### Rozdział 2 Zasady przeprowadzania oceny zgodności wyrobów
+#### Rozdział 2
 
 **Art. 5.**
 
@@ -197,7 +218,7 @@ o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i be
 - **3)** instrukcję obsługi przeznaczoną dla użytkownika wyrobu oraz instrukcję bezpieczeństwa użytkowania;
 - **4)** wyniki badań wyrobu dla potwierdzenia zgodności wyrobu z wymaganiami określonymi w specyfikacji technicznej;
 - **5)** informacje dotyczące systemu zapewnienia jakości wyrobu;
-- **6)** w przypadku wyrobu seryjnego informacje dotyczące systemu zarządzania jakością dostawcy zgodnego z właściwymi normami międzynarodowymi lub wymaganiami Organizacji Traktatu Północnoatlantyckiego.
+- **6)** w przypadku wyrobu seryjnego – informacje dotyczące systemu zarządzania jakością dostawcy zgodnego z właściwymi normami międzynarodowymi lub wymaganiami Organizacji Traktatu Północnoatlantyckiego.
 
 4. Jeżeli dokumenty, o których mowa w ust. 3, sporządzono w języku obcym, jednostka certyfikująca może żądać, w zakresie niezbędnym do przeprowadzenia oceny zgodności, tłumaczenia tych dokumentów na język polski.
 
@@ -263,7 +284,7 @@ o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i be
 
 **Art. 13.** Dostawca jest obowiązany przechowywać dokumentację wykorzystaną do oceny zgodności wyrobu oraz dokumentację określającą wyniki dokonanej oceny zgodności wyrobu przez okres 10 lat od dnia zakończenia produkcji tego wyrobu.
 
-#### Rozdział 3 Akredytacja jednostek organizacyjnych właściwych w zakresie oceny zgodności wyrobów nabywanych na potrzeby obronności i bezpieczeństwa państwa oraz tryb udzielania akredytacji OiB
+#### Rozdział 3
 
 **Art. 14.**
 
@@ -276,8 +297,6 @@ o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i be
 - **5)** przestrzega przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych.
 
 2. Spełnienie wymogu, o którym mowa w ust. 1 pkt 5, ocenia Agencja Bezpieczeństwa Wewnętrznego lub Służba Kontrwywiadu Wojskowego, zgodnie z właściwością wskazaną w przepisach o ochronie informacji niejawnych, przez wystawienie opinii w tej sprawie.
-
-**Art. 15.**
 
 1. Akredytacji OiB udziela Minister Obrony Narodowej na wniosek jednostki organizacyjnej spełniającej wymagania określone w art. 14 ust. 1.
 
@@ -319,9 +338,9 @@ o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i be
 
 - **1)** szczegółowe wymagania, jakie powinny spełniać jednostki organizacyjne prowadzące ocenę zgodności,
 - **2)** wzór certyfikatu akredytacji OiB,
-- **3)** szczegółowy sposób i tryb postępowania w zakresie udzielania akredytacji OiB jednostkom organizacyjnym biorąc pod uwagę wymagania określone w Polskich Normach.
+- **3)** szczegółowy sposób i tryb postępowania w zakresie udzielania akredytacji OiB jednostkom organizacyjnym – biorąc pod uwagę wymagania określone w Polskich Normach.
 
-#### Rozdział 4 Nadzór nad funkcjonowaniem systemu oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa
+#### Rozdział 4
 
 **Art. 17.**
 
@@ -357,21 +376,19 @@ o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i be
 **Art. 21.** Minister Obrony Narodowej, minister właściwy do spraw wewnętrznych, każdy w zakresie swojej właściwości, określą, w drodze rozporządzeń:
 
 - **1)** organy prowadzące w ich imieniu nadzór nad wyrobem,
-- **2)** szczegółowy sposób sprawowania nadzoru nad czynnościami związanymi z wyrobem wprowadzanym do użytku w komórkach i jednostkach organizacyjnych sobie podległych lub przez siebie nadzorowanych uwzględniając cechy i parametry techniczne wyrobów oraz ich znaczenie dla obronności i bezpieczeństwa państwa, a także specyfikę zadań tych komórek i jednostek organizacyjnych.
+- **2)** szczegółowy sposób sprawowania nadzoru nad czynnościami związanymi z wyrobem wprowadzanym do użytku w komórkach i jednostkach organizacyjnych sobie podległych lub przez siebie nadzorowanych – uwzględniając cechy i parametry techniczne wyrobów oraz ich znaczenie dla obronności i bezpieczeństwa państwa, a także specyfikę zadań tych komórek i jednostek organizacyjnych.
 
 **Art. 22.** Organ nadzorujący jednostki badawcze i certyfikujące, w zakresie dokonywania przez te jednostki oceny zgodności wyrobów:
 
 - **1)** przeprowadza badanie funkcjonowania jednostek badawczych i jednostek certyfikujących, w zakresie spełniania przez te jednostki wymagań, o których mowa w art. 14 ust. 1;
-- **2)** dokonuje oceny prowadzenia przez jednostki badawcze i jednostki certyfikujące procesów oceny zgodności wyrobów, na podstawie analizy:
-    - **a)** zgodności ich systemów zarządzania jakością z wymaganiami określonymi w Polskich Normach, dotyczącymi zakresu działania tych jednostek,
-    - **b)** sposobu posługiwania się przez nie certyfikatem akredytacji OiB,
-    - **c)** przeprowadzonych przez te jednostki procesów oceny zgodności,
-    - **d)** kwalifikacji i uprawnień personelu tych jednostek,
-    - **e)** ich wyposażenia umożliwiającego właściwe wykonanie zadań administracyjnych i technicznych związanych z oceną zgodności;
+- **2)** dokonuje oceny prowadzenia przez jednostki badawcze i jednostki certyfikujące procesów oceny zgodności wyrobów, na podstawie analizy: zgodności ich systemów zarządzania jakością z wymaganiami określonymi w Polskich Normach, dotyczącymi zakresu działania tych jednostek, sposobu posługiwania się przez nie certyfikatem akredytacji OiB, przeprowadzonych przez te jednostki procesów oceny zgodności, kwalifikacji i uprawnień personelu tych jednostek, ich wyposażenia umożliwiającego właściwe wykonanie zadań administracyjnych i technicznych związanych z oceną zgodności;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
-- **3)** prowadzi szkolenia i akcje informacyjne dla personelu jednostek badawczych i jednostek certyfikujących z zakresu oceny zgodności wyrobów przeznaczonych na cele obronności i bezpieczeństwa państwa.
-
-**Art. 22a.** Nadzór nad jednostkami badawczymi i jednostkami certyfikującymi posiadającymi akredytację OiB, w zakresie przeprowadzania oceny zgodności wyrobów przeznaczonych na potrzeby obronności lub bezpieczeństwa państwa, sprawuje Minister Obrony Narodowej.
+- **3)** prowadzi szkolenia i akcje informacyjne dla personelu jednostek badawczych i jednostek certyfikujących z zakresu oceny zgodności wyrobów przeznaczonych na cele obronności i bezpieczeństwa państwa. Nadzór nad jednostkami badawczymi i jednostkami certyfikującymi posiadającymi akredytację OiB, w zakresie przeprowadzania oceny zgodności wyrobów przeznaczonych na potrzeby obronności lub bezpieczeństwa państwa, sprawuje Minister Obrony Narodowej.
 
 **Art. 23.** W przypadku posiadania przez jednostkę badawczą lub jednostkę certyfikującą akredytacji Polskiego Centrum Akredytacji, organ nadzorujący jednostki badawcze i jednostki certyfikujące może odstąpić od podjęcia w stosunku do tych jednostek czynności, o których mowa w art. 22 pkt 1 i 2, a działania związane z prowadzeniem nadzoru nad ich działalnością ograniczyć do sprawdzenia:
 
@@ -387,7 +404,7 @@ o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i be
 3. W przypadku:
 
 - **1)** zaistnienia zmian znacząco wpływających na działalność jednostki badawczej lub jednostki certyfikującej, dotyczących w szczególności ich struktury własności, składu personelu oraz, w przypadku jednostki badawczej, wyposażenia,
-- **2)** powzięcia przez organ nadzorujący jednostki badawcze i jednostki certyfikujące informacji wskazujących, że jednostka badawcza lub jednostka certyfikująca nie spełnia wymagań określonych w art. 14 ust. 1 czynności wskazane w art. 22 pkt 1 i 2 wykonuje się w stosunku do tych jednostek niezwłocznie.
+- **2)** powzięcia przez organ nadzorujący jednostki badawcze i jednostki certyfikujące informacji wskazujących, że jednostka badawcza lub jednostka certyfikująca nie spełnia wymagań określonych w art. 14 ust. 1 – czynności wskazane w art. 22 pkt 1 i 2 wykonuje się w stosunku do tych jednostek niezwłocznie.
 
 **Art. 25.**
 
@@ -398,14 +415,14 @@ o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i be
 
 2. Minister Obrony Narodowej określi, w drodze rozporządzenia, sposób i tryb sprawowania nadzoru nad jednostkami badawczymi i jednostkami certyfikującymi, organ sprawujący w jego imieniu nadzór nad działalnością jednostek badawczych i jednostek certyfikujących oraz zadania tego organu, mając na uwadze zasady nadzoru nad funkcjonowaniem systemu oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa.
 
-#### Rozdział 5 Opłaty
+#### Rozdział 5
 
 **Art. 26.**
 
 1. Za czynności związane z:
 
 - **1)** badaniami na potrzeby oceny zgodności wyrobów,
-- **2)** certyfikacją jednostka badawcza lub jednostka certyfikująca pobiera opłaty.
+- **2)** certyfikacją – jednostka badawcza lub jednostka certyfikująca pobiera opłaty.
 
 2. Opłaty uiszcza dostawca.
 
@@ -423,7 +440,7 @@ o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i be
 
 5. Minister Obrony Narodowej określi, w drodze rozporządzenia, sposób ustalania opłat pobieranych przez jednostkę badawczą lub certyfikującą, z uwzględnieniem okoliczności, że stawki opłat powinny zapewnić pokrycie kosztów przeprowadzenia badań lub certyfikacji.
 
-#### Rozdział 6 Zmiany w przepisach obowiązujących
+#### Rozdział 6
 
 **Art. 27.** (pominięty)
 
@@ -431,11 +448,11 @@ o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i be
 
 **Art. 29.** (pominięty)
 
-#### Rozdział 7 Przepisy przejściowe i końcowe
+#### Rozdział 7
 
 **Art. 30.** Certyfikaty zgodności oraz inne dokumenty potwierdzające przeprowadzenie oceny zgodności wydane przed dniem wejścia w życie ustawy zachowują moc do dnia, w którym upływa ich termin ważności, jednak nie dłużej niż do dnia 31 grudnia 2007 r.
 
 **Art. 31.** Ustawy nie stosuje się do części zamiennych do wyrobów, które zostały wprowadzone do użytku przed dniem wejścia w życie ustawy.
 
-**Art. 32.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r., z wyjątkiem rozdziału 3, którego przepisy wchodzą w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 32.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r., z wyjątkiem rozdziału 3, którego przepisy wchodzą w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 19 grudnia 2006 r.. 1) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 27 stycznia 2006 r., pod numerem 2006/043/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). 2) W brzmieniu ustalonym przez art. 11 ustawy z dnia 1 października 2021 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego (Dz. U. poz. 2052), która weszła w życie z dniem 30 listopada 2021 r. 3) Ustawa została ogłoszona w dniu 19 grudnia 2006 r.
 

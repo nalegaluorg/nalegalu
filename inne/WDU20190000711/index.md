@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-15 |
 | Data wydania | 2019-04-17 |
-| Wejście w życie | 2019-04-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000711) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/711/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399 i 447.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa wykaz świadczeń opieki zdrowotnej, dla których skierowania są wystawiane w postaci elektronicznej w Systemie Informacji Medycznej, o którym mowa w art. 5 ust. 1 pkt 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2019 r. poz. 408).
 § 2.
@@ -49,5 +48,5 @@ tomografii komputerowej finansowane ze środków publicznych oraz ze środków i
 3)
 leczenie szpitalne w szpitalu, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, o którym mowa w art. 58 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399 i 447.
 

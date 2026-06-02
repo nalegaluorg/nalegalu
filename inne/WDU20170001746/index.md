@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 8 września 2017 r. w sprawie szczegółowych zasad gospodarki finansowej Zasobu Własności Rolnej Skarbu Państwa
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 8 września 2017 r. w sprawie szczegółowych zasad gospodarki finansowej Zasobu Własności Rolnej Skarbu Państwa Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-08 |
 | Data wydania | 2017-09-15 |
-| Wejście w życie | 2017-09-16 |
 | Ostatnia zmiana | 2026-03-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001746) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1746/text.pdf) |
 
@@ -112,6 +111,5 @@ iloczynu 70% powierzchni gruntów sprzedanych w przetargach w danym roku obrotow
 2.
 Do ustalania średniej ceny sprzedaży jednego hektara gruntu Zasobu z jego częściami składowymi przyjmowanej do obliczenia wysokości zobowiązania, o którym mowa w ust. 1, stosuje się przepisy § 6 ust. 2 i 3.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 23 marca 2017 r. w sprawie szczegółowych zasad gospodarki finansowej Agencji Nieruchomości Rolnych oraz gospodarki finansowej Zasobu Własności Rolnej Skarbu Państwa (Dz. U. poz. 714), które zgodnie z art. 60 ust. 1 pkt 1 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 23 marca 2017 r. w sprawie szczegółowych zasad gospodarki finansowej Agencji Nieruchomości Rolnych oraz gospodarki finansowej Zasobu Własności Rolnej Skarbu Państwa (Dz. U. poz. 714), które zgodnie z art. 60 ust. 1 pkt 1 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 23 marca 2017 r. w sprawie szczegółowych zasad gospodarki finansowej Agencji Nieruchomości Rolnych oraz gospodarki finansowej Zasobu Własności Rolnej Skarbu Państwa (Dz. U. poz. 714), które zgodnie z art. 60 ust. 1 pkt 1 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

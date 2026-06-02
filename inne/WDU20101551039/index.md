@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 lipca 2010 r. o zmianie ustawy o materiałach wybuchowych przeznaczonych do użytku cywilnego oraz ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
+# Ustawa z dnia 22 lipca 2010 r. o zmianie ustawy o materiałach wybuchowych przeznaczonych do użytku cywilnego oraz ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2007/23/WE z dnia 23 maja 2007 r. w sprawie wprowadzania do obrotu wyrobów pirotechnicznych (Dz. Urz. UE L 154 z 14.06.2007, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-07-22 |
 | Data wydania | 2010-08-25 |
-| Wejście w życie | 2010-09-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101551039) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1039/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. Nr 117, poz. 1007, z późn. zm.) wprowadza się następujące zmiany:
+Zasadnicze wymagania dla wprowadzanych do obrotu wyrobów pirotechnicznych oraz procedury oceny zgodności tych wyrobów
+
+**Art. 1.** W ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. Nr 117, poz. 1007, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 238, poz. 2019, z 2004 r. Nr 222, poz. 2249, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 214, poz. 1347 oraz z 2009 r. Nr 125, poz. 1036 i Nr 168, poz. 1323.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 po pkt 5 dodaje się pkt 5a w brzmieniu: „
 - **5a)** zasadnicze wymagania dla wprowadzanych do obrotu wyrobów pirotechnicznych oraz procedury oceny zgodności, ” ;
@@ -47,7 +48,7 @@ source: "eli-html"
 
 - **6)** po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
 
-#### Rozdział 5a Zasadnicze wymagania dla wprowadzanych do obrotu wyrobów pirotechnicznych oraz procedury oceny zgodności tych wyrobów
+#### Rozdział 5a
 
 **Art. 62a.** Ilekroć w niniejszym rozdziale jest mowa o:
 
@@ -98,7 +99,7 @@ source: "eli-html"
 - **1)** wojewódzcy inspektorzy Inspekcji Handlowej – w zakresie wyrobów pirotechnicznych klas 1–4,
 - **2)** inspektorzy pracy – w zakresie wyrobów pirotechnicznych klas T1, T2, P1 i P2.
 
-3. Kontrolę bezpieczeństwa przewozu drogowego wyrobów pirotechnicznych przeprowadza się na zasadach określonych w ustawie z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych (Dz. U. Nr 199, poz. 1671, z późn. zm.).
+3. Kontrolę bezpieczeństwa przewozu drogowego wyrobów pirotechnicznych przeprowadza się na zasadach określonych w ustawie z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych (Dz. U. Nr 199, poz. 1671, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808, z 2005 r. Nr 90, poz. 757 i Nr 141, poz. 1184, z 2006 r. Nr 249, poz. 1834 oraz z 2007 r. Nr 176, poz. 1238 i Nr 192, poz. 1381.).
 
 4. Kontrolę bezpieczeństwa przewozu koleją wyrobów pirotechnicznych przeprowadza się na zasadach określonych w ustawie z dnia 31 marca 2004 r. o przewozie koleją towarów niebezpiecznych (Dz. U. Nr 97, poz. 962, z 2005 r. Nr 141, poz. 1184, z 2006 r. Nr 249, poz. 1834 oraz z 2007 r. Nr 176, poz. 1238).
 
@@ -369,11 +370,11 @@ source: "eli-html"
 - **2)** zapisy dotyczące systemu zapewniania jakości w dziedzinie badań i rozwoju, takie jak: wyniki analiz, obliczeń i badań,
 - **3)** zapisy dotyczące systemu pełnego zapewniania jakości w dziedzinie produkcji, takie jak: sprawozdania z kontroli jakości, dane uzyskane podczas badań, dane dotyczące wzorcowania, a także protokoły dotyczące kwalifikacji lub uprawnień pracowników przeprowadzających badania i testy. W sprawach nieuregulowanych przepisami niniejszego rozdziału stosuje się przepisy ustawy z dnia 30 sierpnia o systemie oceny zgodności. ” .
 
-**Art. 2.** W ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. Nr 67, poz. 679, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. Nr 67, poz. 679, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676 i Nr 117, poz. 1007, z 2003 r. Nr 210, poz. 2036, z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1203, Nr 173, poz. 1808 i Nr 222, poz. 2249, z 2005 r. Nr 94, poz. 788 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 235, poz. 1700, z 2008 r. Nr 180, poz. 1112 i Nr 214, poz. 1347, z 2009 r. Nr 18, poz. 97 i Nr 125, poz. 1036 oraz z 2010 r. Nr 47, poz. 278.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6 ust. 2 otrzymuje brzmienie: „
 
-2. Nie jest wymagane uzyskanie koncesji na obrót wyrobami pirotechnicznymi, o których mowa w art. 62c ust. 1 pkt 1 lit. a-c, pkt 2 lit. a oraz pkt 3 lit. a ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. Nr 117, poz. 1007, z późn. zm.). ” ;
+2. Nie jest wymagane uzyskanie koncesji na obrót wyrobami pirotechnicznymi, o których mowa w art. 62c ust. 1 pkt 1 lit. a-c, pkt 2 lit. a oraz pkt 3 lit. a ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. Nr 117, poz. 1007, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 238, poz. 2019, z 2004 r. Nr 222, poz. 2249, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 214, poz. 1347, z 2009 r. Nr 125, poz. 1036 i Nr 168, poz. 1323 oraz z 2010 r. Nr 155, poz. 1039.). ” ;
 
 - **2)** w art. 7 ust. 2 i 3 otrzymują brzmienie: „
 
@@ -395,5 +396,5 @@ source: "eli-html"
 
 3. Do dnia 4 lipca 2013 r. za wyroby pirotechniczne klas 4, P2 i T2 uznaje się wyroby na nabywanie, przechowywanie lub używanie których jest wymagane pozwolenie, o którym mowa w art. 9 ust. 1 ustawy wymienionej w art. 1, oraz na obrót którymi jest wymagana koncesja, o której mowa w art. 6 ust. 1 ustawy wymienionej w art. 2.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2007/23/WE z dnia 23 maja 2007 r. w sprawie wprowadzania do obrotu wyrobów pirotechnicznych (Dz. Urz. UE L 154 z 14.06.2007, str. 1). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 238, poz. 2019, z 2004 r. Nr 222, poz. 2249, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 214, poz. 1347 oraz z 2009 r. Nr 125, poz. 1036 i Nr 168, poz. 1323. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808, z 2005 r. Nr 90, poz. 757 i Nr 141, poz. 1184, z 2006 r. Nr 249, poz. 1834 oraz z 2007 r. Nr 176, poz. 1238 i Nr 192, poz. 1381. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676 i Nr 117, poz. 1007, z 2003 r. Nr 210, poz. 2036, z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1203, Nr 173, poz. 1808 i Nr 222, poz. 2249, z 2005 r. Nr 94, poz. 788 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 235, poz. 1700, z 2008 r. Nr 180, poz. 1112 i Nr 214, poz. 1347, z 2009 r. Nr 18, poz. 97 i Nr 125, poz. 1036 oraz z 2010 r. Nr 47, poz. 278. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 238, poz. 2019, z 2004 r. Nr 222, poz. 2249, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 214, poz. 1347, z 2009 r. Nr 125, poz. 1036 i Nr 168, poz. 1323 oraz z 2010 r. Nr 155, poz. 1039.
 

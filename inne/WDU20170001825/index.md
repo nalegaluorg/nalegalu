@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 22 września 2017 r. w sprawie zmian do zatwierdzonych planów dochodzenia do uznania wstępnie uznanej grupy producentów owoców i warzyw za organizację producentów owoców i warzyw, które nie wymagają wydania decyzji w sprawie zmian do zatwierdzonych planów
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 22 września 2017 r. w sprawie zmian do zatwierdzonych planów dochodzenia do uznania wstępnie uznanej grupy producentów owoców i warzyw za organizację producentów owoców i warzyw, które nie wymagają wydania decyzji w sprawie zmian do zatwierdzonych planów Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-22 |
 | Data wydania | 2017-10-03 |
-| Wejście w życie | 2017-10-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001825) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1825/text.pdf) |
 
@@ -49,6 +48,5 @@ struktury lub źródeł finansowania inwestycji lub działań zatwierdzonych w p
 § 3.
 Informację o dokonaniu zmiany, o której mowa w § 2, wstępnie uznana grupa producentów owoców i warzyw przekazuje, w formie pisemnej, dyrektorowi oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa, właściwemu ze względu na siedzibę tej grupy, w terminie 14 dni od dnia dokonania zmiany.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 10 grudnia 2015 r. w sprawie zmian do zatwierdzonych planów dochodzenia do uznania wstępnie uznanej grupy producentów owoców i warzyw za organizację producentów owoców i warzyw, które nie wymagają wydania decyzji w sprawie zmian do zatwierdzonych planów (Dz. U. poz. 2151), które traci moc na podstawie art. 60 ust. 1 pkt 2 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 10 grudnia 2015 r. w sprawie zmian do zatwierdzonych planów dochodzenia do uznania wstępnie uznanej grupy producentów owoców i warzyw za organizację producentów owoców i warzyw, które nie wymagają wydania decyzji w sprawie zmian do zatwierdzonych planów (Dz. U. poz. 2151), które traci moc na podstawie art. 60 ust. 1 pkt 2 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 10 grudnia 2015 r. w sprawie zmian do zatwierdzonych planów dochodzenia do uznania wstępnie uznanej grupy producentów owoców i warzyw za organizację producentów owoców i warzyw, które nie wymagają wydania decyzji w sprawie zmian do zatwierdzonych planów (Dz. U. poz. 2151), które traci moc na podstawie art. 60 ust. 1 pkt 2 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) z dniem wejścia w życie niniejszego rozporządzenia.
 

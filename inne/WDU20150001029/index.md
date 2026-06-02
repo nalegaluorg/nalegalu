@@ -31,12 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 czerwca 2002 r. w sprawie warunków pokrywania kosztów pogrzebu funkcjonariusza Straży Granicznej ze środków właściwego organu Straży Granicznej oraz określenia członków rodziny, na których przysługuje zasiłek pogrzebowy (Dz. U. Nr 86, poz. 791), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Spraw Wewnętrznych z dnia 6 sierpnia 2013 r. zmieniającym rozporządzenie w sprawie warunków pokrywania kosztów pogrzebu funkcjonariusza Straży Granicznej ze środków właściwego organu Straży Granicznej oraz określenia członków rodziny, na których przysługuje zasiłek pogrzebowy (Dz. U. poz. 1040).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 6 sierpnia 2013 r. zmieniającego rozporządzenie w sprawie warunków pokrywania kosztów pogrzebu funkcjonariusza Straży Granicznej ze środków właściwego organu Straży Granicznej oraz określenia członków rodziny, na których przysługuje zasiłek pogrzebowy (Dz. U. poz. 1040), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 6 sierpnia 2013 r. zmieniającego rozporządzenie w sprawie warunków pokrywania kosztów pogrzebu funkcjonariusza Straży Granicznej ze środków właściwego organu Straży Granicznej oraz określenia członków rodziny, na których przysługuje zasiłek pogrzebowy (Dz. U. poz. 1040), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 czerwca 2002 r. w sprawie warunków pokrywania kosztów pogrzebu funkcjonariusza Straży Granicznej ze środków właściwego organu Straży Granicznej oraz określenia członków rodziny, na których przysługuje zasiłek pogrzebowy
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 czerwca 2002 r. w sprawie warunków pokrywania kosztów pogrzebu funkcjonariusza Straży Granicznej ze środków właściwego organu Straży Granicznej oraz określenia członków rodziny, na których przysługuje zasiłek pogrzebowyObecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych (Dz. U. poz. 1265).
 Na podstawie art. 124 ust. 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2014 r. poz. 1402 i 1822 oraz z 2015 r. poz. 529) zarządza się, co następuje:
 § 1.
 1.
@@ -92,7 +90,7 @@ rodziców funkcjonariusza oraz jego małżonka, a także ich ojczyma, macochy or
 Zasiłek pogrzebowy lub jego wyrównanie w razie śmierci członka rodziny funkcjonariusza wypłaca się na pisemny wniosek osoby, która poniosła koszty pogrzebu.
 2.
 Dokumentami wymaganymi do wypłaty zasiłku pogrzebowego w przypadku, gdy koszty pogrzebu ponosi funkcjonariusz, są:
-1)
+1W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 6 sierpnia 2013 r. zmieniającego rozporządzenie w sprawie warunków pokrywania kosztów pogrzebu funkcjonariusza Straży Granicznej ze środków właściwego organu Straży Granicznej oraz określenia członków rodziny, na których przysługuje zasiłek pogrzebowy (Dz. U. poz. 1040), które weszło w życie z dniem 24 września 2013 r.)
 wyciąg z aktu zgonu (do wglądu), a w przypadku pogrzebu dziecka martwo urodzonego – oświadczenie, że dziecko urodziło się martwe;
 2)
 oświadczenie, że w związku ze śmiercią członka rodziny, o którym mowa w § 8 pkt 2–4, nie przysługuje zasiłek pogrzebowy na podstawie przepisów o ubezpieczeniu społecznym lub innych przepisów szczególnych, a w przypadku śmierci małżonka, że zasiłek pogrzebowy nie został i nie zostanie pobrany z innego tytułu;
@@ -117,6 +115,5 @@ Jako dowód poniesionych przez funkcjonariusza kosztów pogrzebu członka rodzin
 § 10.
 Przepisy rozporządzenia w zakresie pokrywania kosztów pogrzebu, wypłaty zasiłku pogrzebowego i jego wyrównania stosuje się od dnia 16 czerwca 2002 r.
 § 11.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Obecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych (Dz. U. poz. 1265). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 6 sierpnia 2013 r. zmieniającego rozporządzenie w sprawie warunków pokrywania kosztów pogrzebu funkcjonariusza Straży Granicznej ze środków właściwego organu Straży Granicznej oraz określenia członków rodziny, na których przysługuje zasiłek pogrzebowy (Dz. U. poz. 1040), które weszło w życie z dniem 24 września 2013 r. 3) Rozporządzenie zostało ogłoszone w dniu 26 czerwca 2002 r.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 26 czerwca 2002 r.. 1) Obecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych (Dz. U. poz. 1265). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 6 sierpnia 2013 r. zmieniającego rozporządzenie w sprawie warunków pokrywania kosztów pogrzebu funkcjonariusza Straży Granicznej ze środków właściwego organu Straży Granicznej oraz określenia członków rodziny, na których przysługuje zasiłek pogrzebowy (Dz. U. poz. 1040), które weszło w życie z dniem 24 września 2013 r. 3) Rozporządzenie zostało ogłoszone w dniu 26 czerwca 2002 r.
 

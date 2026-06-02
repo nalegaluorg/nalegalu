@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-23 |
 | Data wydania | 2022-08-29 |
-| Wejście w życie | 2022-09-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001814) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1814/text.pdf) |
 
@@ -64,5 +63,5 @@ Wypłaty zapomogi dokonuje się w formie bezgotówkowej na rachunek bankowy (kon
 2.
 Zapomoga może być wypłacona bezpośrednio w kasie (punkcie kasowym) jednostki wojskowej lub Wojskowego Centrum Rekrutacji.
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 28 stycznia 2011 r. w sprawie warunków i trybu przyznawania nagród i zapomóg żołnierzom niezawodowym (Dz. U. z 2016 r. poz. 1656 oraz z 2021 r. poz. 967), które zgodnie z art. 822 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655, 974 i 1725) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 28 stycznia 2011 r. w sprawie warunków i trybu przyznawania nagród i zapomóg żołnierzom niezawodowym (Dz. U. z 2016 r. poz. 1656 oraz z 2021 r. poz. 967), które zgodnie z art. 822 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655, 974 i 1725) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

@@ -22,14 +22,23 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-03-12 |
 | Data wydania | 2004-04-21 |
-| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040700632) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/632/text.pdf) |
 
-Treść ustawy Art. 1. Art. 2. Art. 3. Art. 4. Art. 5. Art. 6.
-Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (efektywnej)
+Stosowanie promieniowania jonizującego w celach medycznych
+Materiały i technologie jądrowe
 
-**Art. 1.** W ustawie z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2001 r. Nr 3, poz. 18, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.**
+
+**Art. 2.**
+
+**Art. 3.**
+
+**Art. 4.**
+
+**Art. 5.**
+
+**Art. 6.** Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (efektywnej) W ustawie z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2001 r. Nr 3, poz. 18, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1085 i Nr 154, poz. 1800, z 2002 r. Nr 74, poz. 676 i Nr 135, poz. 1145 oraz z 2003 r. Nr 80, poz. 717 i Nr 124, poz. 1152.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1: w ust. 1 w pkt 4 kropkę na końcu zastępuje się przecinkiem i dodaje się pkt 5 w brzmieniu: „
     - **a)**
@@ -43,10 +52,7 @@ Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (e
 
 5. Ustawa określa również szczególne zasady ochrony osób przed zagrożeniami wynikającymi ze stosowania promieniowania jonizującego w celach medycznych. ” ;
 
-- **2)** art. 3 otrzymuje brzmienie: „
-
-**Art. 3.** W rozumieniu niniejszej ustawy użyte określenia oznaczają:
-
+- **2)** art. 3 otrzymuje brzmienie: „ W rozumieniu niniejszej ustawy użyte określenia oznaczają:
 - **1)** audyt kliniczny – systematyczną kontrolę lub przegląd medycznych procedur radiologicznych, mające na celu polepszenie jakości udzielanych pacjentowi świadczeń zdrowotnych poprzez usystematyzowaną analizę, w ramach której praktyka, procedury i wyniki radiologiczne są porównywane z uznanymi standardami oraz, w razie konieczności, modyfikację dotychczasowego postępowania lub wprowadzenie nowych standardów,
 - **2)** bezpieczeństwo jądrowe – stan osiągany przez całokształt przedsięwzięć organizacyjnych i technicznych podejmowanych w celu zapobiegania powstaniu niekontrolowanej samopodtrzymującej się reakcji rozszczepienia jądrowego związanej z działalnością z materiałami jądrowymi oraz ograniczania jej skutków,
 - **3)** dawka graniczna – wartość dawki promieniowania jonizującego, wyrażoną jako dawka skuteczna lub równoważna, dla określonych osób, pochodzącą od kontrolowanej działalności zawodowej, której, poza przypadkami przewidzianymi w ustawie, nie wolno przekroczyć,
@@ -110,8 +116,6 @@ Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (e
 - **57)** źródło promieniowania jonizującego – źródło promieniotwórcze, urządzenie zawierające takie źródło, urządzenie wytwarzające promieniowanie jonizujące lub urządzenie emitujące substancje promieniotwórcze. ” ;
 - **3)** art. 4 i 5 otrzymują brzmienie: „
 
-**Art. 4.**
-
 1. Wykonywanie działalności związanej z narażeniem, polegającej na:
 
 - **1)** wytwarzaniu, przetwarzaniu, przechowywaniu, składowaniu, transporcie lub stosowaniu materiałów jądrowych, źródeł i odpadów promieniotwórczych oraz wypalonego paliwa jądrowego i obrocie nimi, a także na wzbogacaniu izotopowym,
@@ -121,11 +125,9 @@ Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (e
 - **5)** uruchamianiu i stosowaniu urządzeń wytwarzających promieniowanie jonizujące,
 - **6)** uruchamianiu pracowni, w których mają być stosowane źródła promieniowania jonizującego, w tym pracowni rentgenowskich,
 - **7)** zamierzonym dodawaniu substancji promieniotwórczych w procesie produkcyjnym wyrobów powszechnego użytku i wyrobów medycznych, obrocie tymi wyrobami oraz przywozie na terytorium Rzeczypospolitej Polskiej i wywozie z tego terytorium wyrobów powszechnego użytku i wyrobów medycznych, do których dodano substancje promieniotwórcze,
-- **8)** zamierzonym podawaniu substancji promieniotwórczych ludziom i zwierzętom w celu medycznej lub weterynaryjnej diagnostyki, leczenia lub badań naukowych wymaga zezwolenia albo zgłoszenia w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej, z zastrzeżeniem art. 6 pkt 1.
+- **8)** zamierzonym podawaniu substancji promieniotwórczych ludziom i zwierzętom w celu medycznej lub weterynaryjnej diagnostyki, leczenia lub badań naukowych – wymaga zezwolenia albo zgłoszenia w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej, z zastrzeżeniem art. 6 pkt 1.
 
 2. Działalność polegająca na dodawaniu substancji promieniotwórczych do żywności, zabawek, osobistych ozdób lub kosmetyków oraz przywozie na terytorium Rzeczypospolitej Polskiej i wywozie z tego terytorium takich wyrobów jest zabroniona.
-
-**Art. 5.**
 
 1. Wniosek o wydanie zezwolenia na wykonywanie działalności, o której mowa w art. 4 ust. 1, zawiera:
 
@@ -175,10 +177,12 @@ Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (e
 
 - **b)**
 
-3a. Wymaganie, o którym mowa w ust. 3, nie dotyczy jednostki organizacyjnej wykonującej działalność z aparatami rentgenowskimi do celów weterynaryjnych pracującymi w systemie zdjęciowym oraz jednostki organizacyjnej wykonującej działalność z urządzeniami rentgenowskimi przeznaczonymi do kontroli osób, przesyłek i bagażu. ” , w ust. 5: – pkt 3 otrzymuje brzmienie: „ 3) zdała egzamin z zakresu szkolenia określonego w przepisach wydanych na podstawie art. 12 ust. 2 lub 3, ” , – w pkt 4 kropkę na końcu zastępuje się przecinkiem i dodaje się pkt 5 w brzmieniu: „ 5) posiada staż pracy w warunkach narażenia na promieniowanie jonizujące, określony w przepisach wydanych na podstawie art. 12 ust. 2 lub 3. ” , po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: „
+3a. Wymaganie, o którym mowa w ust. 3, nie dotyczy jednostki organizacyjnej wykonującej działalność z aparatami rentgenowskimi do celów weterynaryjnych pracującymi w systemie zdjęciowym oraz jednostki organizacyjnej wykonującej działalność z urządzeniami rentgenowskimi przeznaczonymi do kontroli osób, przesyłek i bagażu. ” , w ust. 5: pkt 3 otrzymuje brzmienie: „
 
 - **c)**
-- **d)**
+- **3)** zdała egzamin z zakresu szkolenia określonego w przepisach wydanych na podstawie art. 12 ust. 2 lub 3, ” , w pkt 4 kropkę na końcu zastępuje się przecinkiem i dodaje się pkt 5 w brzmieniu: „
+- **5)** posiada staż pracy w warunkach narażenia na promieniowanie jonizujące, określony w przepisach wydanych na podstawie art. 12 ust. 2 lub 3. ” , po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: „
+    - **d)**
 
 6a. Szkolenie osób ubiegających się o uprawnienia inspektora ochrony radiologicznej, z wyjątkiem uprawnień inspektora ochrony radiologicznej w pracowniach rentgenowskich stosujących aparaty rentgenowskie do celów diagnostyki medycznej, radiologii zabiegowej, radioterapii powierzchniowej i radioterapii schorzeń nienowotworowych prowadzą jednostki, które zostały wpisane do rejestru Prezesa Agencji.
 
@@ -252,13 +256,13 @@ Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (e
 - **1)** rodzaje stanowisk, o których mowa w ust. 1,
 - **2)** szczegółowe warunki i tryb nadawania przez Prezesa Agencji uprawnień inspektora ochrony radiologicznej oraz uprawnień dla osób, które mogą być zatrudnione na stanowiskach określonych w ust. 1, sposób powoływania komisji egzaminacyjnej, tryb jej pracy, sposób przeprowadzenia egzaminu, wzór zaświadczenia o uzyskaniu uprawnienia, tryb wnoszenia opłaty za egzamin, jej wysokość oraz wynagrodzenie członków komisji egzaminacyjnej,
 - **3)** wymagany zakres szkolenia, warunki, jakie muszą spełniać jednostki przeprowadzające szkolenie, program i formy organizowania szkoleń, a także tryb uzyskiwania wpisu do rejestru, o którym mowa w art. 7 ust. 6a, oraz do rejestru, o którym mowa w ust. 1c,
-- **4)** ramowy zakres obowiązków i uprawnień inspektora ochrony radiologicznej, któremu uprawnienia nadaje Prezes Agencji mając na celu zapewnienie przestrzegania wymagań bezpieczeństwa jądrowego i ochrony radiologicznej w jednostce organizacyjnej, a także sprawowania w sposób odpowiedni wewnętrznego nadzoru nad przestrzeganiem tych wymagań.
+- **4)** ramowy zakres obowiązków i uprawnień inspektora ochrony radiologicznej, któremu uprawnienia nadaje Prezes Agencji – mając na celu zapewnienie przestrzegania wymagań bezpieczeństwa jądrowego i ochrony radiologicznej w jednostce organizacyjnej, a także sprawowania w sposób odpowiedni wewnętrznego nadzoru nad przestrzeganiem tych wymagań.
 
 3. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** szczegółowe warunki i tryb nadawania przez Głównego Inspektora Sanitarnego uprawnień inspektora ochrony radiologicznej w pracowniach stosujących aparaty rentgenowskie do celów diagnostyki medycznej, radiologii zabiegowej, radioterapii powierzchniowej i radioterapii schorzeń nienowotworowych, uwzględniając sposób powoływania komisji egzaminacyjnej, tryb jej pracy, sposób przeprowadzenia egzaminu, wzór zaświadczenia o uzyskaniu uprawnienia, tryb wnoszenia opłaty za egzamin, jej wysokość oraz wynagrodzenie członków komisji egzaminacyjnej,
 - **2)** wymagany zakres szkolenia, warunki, jakie muszą spełniać jednostki przeprowadzające szkolenie, uwzględniając program i formy przeprowadzania szkoleń, a także tryb uzyskiwania wpisu do rejestru, o którym mowa w art. 7 ust. 6b,
-- **3)** ramowy zakres obowiązków i uprawnień inspektora ochrony radiologicznej, któremu uprawnienia nadaje Główny Inspektor Sanitarny mając na celu zapewnienie przestrzegania wymagań ochrony radiologicznej w jednostce organizacyjnej. ” ;
+- **3)** ramowy zakres obowiązków i uprawnień inspektora ochrony radiologicznej, któremu uprawnienia nadaje Główny Inspektor Sanitarny – mając na celu zapewnienie przestrzegania wymagań ochrony radiologicznej w jednostce organizacyjnej. ” ;
 - **12)** w art. 14 ust. 2 otrzymuje brzmienie: „
 
 2. Dawek granicznych nie stosuje się do osób poddawanych działaniu promieniowania jonizującego w celach medycznych, o których mowa w art. 33a ust. 1. ” ;
@@ -306,7 +310,7 @@ Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (e
 
 - **1)** zapobieżenie poważnej utracie zdrowia,
 - **2)** uniknięcie dużego napromieniowania znacznej liczby osób,
-- **3)** zapobieżenie katastrofie na większą skalę należy dołożyć wszelkich starań, żeby osoba uczestnicząca w takich działaniach nie otrzymała dawki skutecznej przekraczającej 100 mSv.
+- **3)** zapobieżenie katastrofie na większą skalę – należy dołożyć wszelkich starań, żeby osoba uczestnicząca w takich działaniach nie otrzymała dawki skutecznej przekraczającej 100 mSv.
 
 3. Osoba uczestnicząca w ratowaniu życia ludzkiego może otrzymać dawkę skuteczną przekraczającą 100 mSv, jednakże należy dołożyć wszelkich starań, żeby nie otrzymała dawki skutecznej przekraczającej 500 mSv. ” ;
 
@@ -334,7 +338,7 @@ Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (e
 4. Rada Ministrów może określić, w drodze rozporządzenia:
 
 - **1)** inne niż wymienione w ust. 3 rodzaje działalności zawodowej związanej z występowaniem promieniowania naturalnego prowadzącego do wzrostu narażenia pracowników lub ludności istotnego z punktu widzenia ochrony radiologicznej,
-- **2)** sposoby dokonywania oceny narażenia powstałego w związku z wykonywaniem działalności, o której mowa w ust. 1, tryb postępowania mającego na celu zmniejszenie tego narażenia oraz inne działania mające na celu ochronę radiologiczną narażonych pracowników i ludności uwzględniając zalecenia Unii Europejskiej, przepisy wydane na podstawie art. 25 pkt 1, specyfikę wykonywanej działalności zawodowej i specyfikę pracy osoby narażonej. ” ;
+- **2)** sposoby dokonywania oceny narażenia powstałego w związku z wykonywaniem działalności, o której mowa w ust. 1, tryb postępowania mającego na celu zmniejszenie tego narażenia oraz inne działania mające na celu ochronę radiologiczną narażonych pracowników i ludności – uwzględniając zalecenia Unii Europejskiej, przepisy wydane na podstawie art. 25 pkt 1, specyfikę wykonywanej działalności zawodowej i specyfikę pracy osoby narażonej. ” ;
 - **21)** po art. 23 dodaje się art. 23a w brzmieniu: „
 
 **Art. 23a.** Jeżeli w następstwie działalności wykonywanej w przeszłości, w szczególności polegającej na wydobyciu i przerobie rud uranu oraz na gromadzeniu osadów promieniotwórczych wód kopalnianych, utrzymuje się skażenie promieniotwórcze środowiska istotne z punktu widzenia bezpieczeństwa jądrowego i ochrony radiologicznej, użytkownik terenu, na którym utrzymuje się to skażenie, wyznacza granice tego terenu, prowadzi na nim pomiary kontrolne narażenia, a jeżeli jest to uzasadnione, także reguluje dostęp do tego terenu oraz wykorzystanie ziemi i położonych na nim budynków. ” ;
@@ -381,7 +385,7 @@ Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (e
 
 - **27)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Stosowanie promieniowania jonizującego w celach medycznych
+#### Rozdział 3a
 
 **Art. 33a.**
 
@@ -447,7 +451,7 @@ Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (e
 - **6)** szczegółowe wymagania dotyczące badań przesiewowych i eksperymentów medycznych wynikające ze specyfiki wykonywania ekspozycji w celach medycznych,
 - **7)** szczegółowe zasady zapobiegania nieszczęśliwym wypadkom radiologicznym w radioterapii, medycynie nuklearnej, radiologii zabiegowej i rentgenodiagnostyce oraz sposoby i tryb postępowania po ich wystąpieniu,
 - **8)** ograniczniki dawek dla osób, o których mowa w art. 33a ust. 1 pkt 3 i 5,
-- **9)** zasady wykonywania kontroli fizycznych parametrów urządzeń radiologicznych oraz klinicznych audytów wewnętrznych i zewnętrznych nad przestrzeganiem wymogów ochrony radiologicznej pacjenta mając na celu zapewnienie wysokiej jakości świadczonych usług medycznych i uwzględniając standardy obowiązujące w Unii Europejskiej.
+- **9)** zasady wykonywania kontroli fizycznych parametrów urządzeń radiologicznych oraz klinicznych audytów wewnętrznych i zewnętrznych nad przestrzeganiem wymogów ochrony radiologicznej pacjenta – mając na celu zapewnienie wysokiej jakości świadczonych usług medycznych i uwzględniając standardy obowiązujące w Unii Europejskiej.
 
 1. Prowadzenie działalności związanej z narażeniem na promieniowanie jonizujące w celach medycznych, polegającej na udzielaniu świadczeń zdrowotnych z zakresu radioterapii onkologicznej, w tym leczenia chorób nowotworowych przy użyciu produktów radiofarmaceutycznych, wymaga zgody ministra właściwego do spraw zdrowia.
 
@@ -578,7 +582,7 @@ Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (e
 
 - **31)** rozdział 5 otrzymuje brzmienie: „
 
-#### Rozdział 5 Materiały i technologie jądrowe
+#### Rozdział 5
 
 **Art. 40.** W rozumieniu niniejszego rozdziału użyte określenia oznaczają:
 
@@ -660,7 +664,7 @@ Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (e
 
 **Art. 42.** Rada Ministrów określi, w drodze rozporządzenia:
 
-- **1)** szczegółowe obowiązki dotyczące zabezpieczeń materiałów jądrowych, w tym obowiązki: kierowników jednostek prowadzących działalność na terenach obiektów, użytkowników gruntów i zabudowań w miejscach poza terenami obiektów, przewoźników materiałów jądrowych i pośredników zajmujących się obrotem materiałami jądrowymi, kierowników składowisk odpadów promieniotwórczych, kierowników jednostek podejmujących lub prowadzących działalność badawczo-rozwojową związaną z jądrowym cyklem paliwowym, w dziedzinie technologii jądrowych, kierowników jednostek prowadzących działalność w zakresie wytwarzania lub wykorzystania urządzeń, części urządzeń i materiałów związanych z technologiami jądrowymi, kierowników jednostek wykorzystujących materiały jądrowe do celów nie jądrowych uwzględniając konieczność wykonania zobowiązań międzynarodowych Rzeczypospolitej Polskiej zawartych w Układzie, Porozumieniu, Protokole dodatkowym i Traktacie Euratom,
+- **1)** szczegółowe obowiązki dotyczące zabezpieczeń materiałów jądrowych, w tym obowiązki: kierowników jednostek prowadzących działalność na terenach obiektów, użytkowników gruntów i zabudowań w miejscach poza terenami obiektów, przewoźników materiałów jądrowych i pośredników zajmujących się obrotem materiałami jądrowymi, kierowników składowisk odpadów promieniotwórczych, kierowników jednostek podejmujących lub prowadzących działalność badawczo-rozwojową związaną z jądrowym cyklem paliwowym, w dziedzinie technologii jądrowych, kierowników jednostek prowadzących działalność w zakresie wytwarzania lub wykorzystania urządzeń, części urządzeń i materiałów związanych z technologiami jądrowymi, kierowników jednostek wykorzystujących materiały jądrowe do celów nie jądrowych – uwzględniając konieczność wykonania zobowiązań międzynarodowych Rzeczypospolitej Polskiej zawartych w Układzie, Porozumieniu, Protokole dodatkowym i Traktacie Euratom,
     - **a)**
     - **b)**
     - **c)**
@@ -715,10 +719,12 @@ Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (e
 
 - **b)**
 
-1a. Odpadami promieniotwórczymi w rozumieniu niniejszego artykułu są materiały, w których substancje promieniotwórcze przekraczają wartości aktywności całkowitej i stężenia promieniotwórczego, określone w rozporządzeniu wydanym na podstawie art. 6 pkt 1. ” , w ust. 2 i 3 wyrazy „ten obszar” zastępuje się wyrazami „to terytorium”, w ust. 4: – pkt 2 otrzymuje brzmienie: „ 2) przesłanki udzielania przez Prezesa Agencji zgody na przywóz na terytorium Rzeczypospolitej Polskiej, wywóz z terytorium Rzeczypospolitej Polskiej i tranzyt przez to terytorium odpadów promieniotwórczych, sposób postępowania w sprawie ubiegania się o zgodę oraz wzór dokumentu związanego z tym postępowaniem, uwzględniając rozwiązania przyjęte w Unii Europejskiej, ” , – dodaje się pkt 3 w brzmieniu: „ 3) przesłanki udzielania przez Prezesa Agencji zgody na przywóz na terytorium Rzeczypospolitej Polskiej, wywóz z terytorium Rzeczypospolitej Polskiej i tranzyt przez to terytorium wypalonego paliwa jądrowego, sposób postępowania w sprawie ubiegania się o zgodę oraz wzór dokumentu związanego z tym postępowaniem, mając na względzie konieczność zapewnienia bezpiecznego postępowania z wypalonym paliwem jądrowym. ” ;
+1a. Odpadami promieniotwórczymi w rozumieniu niniejszego artykułu są materiały, w których substancje promieniotwórcze przekraczają wartości aktywności całkowitej i stężenia promieniotwórczego, określone w rozporządzeniu wydanym na podstawie art. 6 pkt 1. ” , w ust. 2 i 3 wyrazy „ten obszar” zastępuje się wyrazami „to terytorium”, w ust. 4: pkt 2 otrzymuje brzmienie: „
 
 - **c)**
 - **d)**
+- **2)** przesłanki udzielania przez Prezesa Agencji zgody na przywóz na terytorium Rzeczypospolitej Polskiej, wywóz z terytorium Rzeczypospolitej Polskiej i tranzyt przez to terytorium odpadów promieniotwórczych, sposób postępowania w sprawie ubiegania się o zgodę oraz wzór dokumentu związanego z tym postępowaniem, uwzględniając rozwiązania przyjęte w Unii Europejskiej, ” , dodaje się pkt 3 w brzmieniu: „
+- **3)** przesłanki udzielania przez Prezesa Agencji zgody na przywóz na terytorium Rzeczypospolitej Polskiej, wywóz z terytorium Rzeczypospolitej Polskiej i tranzyt przez to terytorium wypalonego paliwa jądrowego, sposób postępowania w sprawie ubiegania się o zgodę oraz wzór dokumentu związanego z tym postępowaniem, mając na względzie konieczność zapewnienia bezpiecznego postępowania z wypalonym paliwem jądrowym. ” ;
 - **40)** w art. 63: w ust. 2 pkt 2 otrzymuje brzmienie: „
     - **a)**
 
@@ -813,7 +819,7 @@ Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (e
 
 4. W aktach prawnych, o których mowa w ust. 1 i 2, określa się przyczyny, datę wprowadzenia oraz obszar i przewidywany czas obowiązywania działań interwencyjnych, a także rodzaj niezbędnych działań interwencyjnych.
 
-5. W sprawach publikacji aktów prawnych, o których mowa w ust. 1 i 2, stosuje się przepisy ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. Nr 5, poz. 24, z późn. zm.).
+5. W sprawach publikacji aktów prawnych, o których mowa w ust. 1 i 2, stosuje się przepisy ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. Nr 5, poz. 24, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 34, poz. 187, z 1990 r. Nr 29, poz. 173, z 1991 r. Nr 100, poz. 442, z 1996 r. Nr 114, poz. 542, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 90, poz. 999, z 2001 r. Nr 112, poz. 1198 oraz z 2002 r. Nr 153, poz. 1271.).
 
 6. Odwołanie działań interwencyjnych, o których mowa w art. 90, na całym obszarze ich obowiązywania lub na części tego obszaru następuje w trybie przewidzianym dla ich ogłoszenia.
 
@@ -867,7 +873,7 @@ Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (e
 
 - **1)** prowadzenia kontroli, o której mowa w ust. 1,
 - **2)** wydawania decyzji o niedopuszczeniu do obrotu lub o zakazie wywozu do państw niebędących członkami Unii Europejskiej żywności i środków żywienia zwierząt, o których mowa w ust. 2,
-- **3)** informowania Komisji Europejskiej w sprawach, o których mowa w ust. 3 kierując się koniecznością zapewnienia wykonania przepisów obowiązujących w Unii Europejskiej dotyczących maksymalnych dozwolonych poziomów skażeń radioaktywnych żywności i środków żywienia zwierząt po awarii jądrowej w Czarnobylu, jak i po przyszłym zdarzeniu radiacyjnym. ” ;
+- **3)** informowania Komisji Europejskiej w sprawach, o których mowa w ust. 3 – kierując się koniecznością zapewnienia wykonania przepisów obowiązujących w Unii Europejskiej dotyczących maksymalnych dozwolonych poziomów skażeń radioaktywnych żywności i środków żywienia zwierząt po awarii jądrowej w Czarnobylu, jak i po przyszłym zdarzeniu radiacyjnym. ” ;
 - **54)** uchyla się art. 98;
 - **55)** art. 99 otrzymuje brzmienie: „
 
@@ -878,7 +884,7 @@ Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (e
     - **c)**
     - **b)**
 
-- **5)** szkoda jądrowa: szkodę na osobie, szkodę w mieniu, szkodę w środowisku jako dobru wspólnym – koszty zastosowanych środków mających na celu przywrócenie stanu środowiska naturalnego, jako dobra wspólnego, sprzed jego naruszenia, chyba że naruszenie jest nieznaczne w zakresie, w jakim szkoda powstała lub wynika z promieniowania jonizującego emitowanego przez jakiekolwiek źródło promieniowania wewnątrz urządzenia jądrowego lub emitowanego przez paliwo jądrowe, materiały promieniotwórcze, odpady lub materiał jądrowy, pochodzące z urządzenia jądrowego, powstałe w nim lub wprowadzone do niego, jeżeli wynikają one z właściwości promieniotwórczych tej substancji lub z połączenia właściwości promieniotwórczych z trującymi, wybuchowymi lub innymi niebezpiecznymi właściwościami takiej substancji, ” , pkt 7 i 8 otrzymują brzmienie: „
+- **5)** szkoda jądrowa: szkodę na osobie, szkodę w mieniu, szkodę w środowisku jako dobru wspólnym – koszty zastosowanych środków mających na celu przywrócenie stanu środowiska naturalnego, jako dobra wspólnego, sprzed jego naruszenia, chyba że naruszenie jest nieznaczne – w zakresie, w jakim szkoda powstała lub wynika z promieniowania jonizującego emitowanego przez jakiekolwiek źródło promieniowania wewnątrz urządzenia jądrowego lub emitowanego przez paliwo jądrowe, materiały promieniotwórcze, odpady lub materiał jądrowy, pochodzące z urządzenia jądrowego, powstałe w nim lub wprowadzone do niego, jeżeli wynikają one z właściwości promieniotwórczych tej substancji lub z połączenia właściwości promieniotwórczych z trującymi, wybuchowymi lub innymi niebezpiecznymi właściwościami takiej substancji, ” , pkt 7 i 8 otrzymują brzmienie: „
     - **a)**
     - **b)**
     - **c)**
@@ -947,7 +953,7 @@ Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (e
 - **3)** nie dopełnia obowiązków w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej przy pracy z materiałami jądrowymi, źródłami promieniowania jonizującego, odpadami promieniotwórczymi i wypalonym paliwem jądrowym lub przy ich przygotowaniu do transportu i składowaniu,
 - **4)** utracił lub pozostawił bez właściwego zabezpieczenia powierzony mu materiał jądrowy, źródło promieniowania jonizującego albo odpady promieniotwórcze lub wypalone paliwo jądrowe,
 - **5)** nie dopełnia obowiązku kontroli dozymetrycznej lub prowadzenia ewidencji materiałów jądrowych, źródeł promieniowania jonizującego, odpadów promieniotwórczych i wypalonego paliwa jądrowego,
-- **6)** uniemożliwia lub utrudnia przeprowadzenie czynności kontrolnych w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej albo nie udziela informacji lub udziela informacji nieprawdziwej albo zataja prawdę w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej wymierza się karę pieniężną w wysokości nieprzekraczającej pięciokrotności kwoty przeciętnego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym popełnienie czynu, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a) ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353 i Nr 64, poz. 593).
+- **6)** uniemożliwia lub utrudnia przeprowadzenie czynności kontrolnych w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej albo nie udziela informacji lub udziela informacji nieprawdziwej albo zataja prawdę w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej – wymierza się karę pieniężną w wysokości nieprzekraczającej pięciokrotności kwoty przeciętnego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym popełnienie czynu, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a) ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353 i Nr 64, poz. 593).
 
 2. Pracownikowi zatrudnionemu w obiekcie jądrowym, który nie zawiadamia kierownika jednostki organizacyjnej lub organu dozoru jądrowego o zdarzeniu lub stanie mogącym sprowadzić zagrożenie dla bezpieczeństwa jądrowego i ochrony radiologicznej, wymierza się karę pieniężną w wysokości nieprzekraczającej dwukrotności przeciętnego wynagrodzenia, o którym mowa w ust. 1. ” ;
 
@@ -957,10 +963,7 @@ Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (e
 
 **Art. 127.** Kto nie stosuje się do zakazu wypasu zwierząt na skażonym terenie lub zakazu żywienia zwierząt skażonymi środkami żywienia zwierząt i pojenia skażoną wodą – podlega karze aresztu lub grzywny. ” ;
 
-- **68)** użyte w ustawie w różnych przypadkach wyrazy „polski obszar celny” zastępuje się użytymi w odpowiednich przypadkach wyrazami „terytorium Rzeczypospolitej Polskiej”.
-
-**Art. 2.** W ustawie z dnia 9 września 2000 r. o opłacie skarbowej (Dz. U. Nr 86, poz. 960, z późn. zm.) w załączniku do ustawy w części IV w poz. 37 wprowadza się następujące zmiany:
-
+- **68)** użyte w ustawie w różnych przypadkach wyrazy „polski obszar celny” zastępuje się użytymi w odpowiednich przypadkach wyrazami „terytorium Rzeczypospolitej Polskiej”. W ustawie z dnia 9 września 2000 r. o opłacie skarbowej (Dz. U. Nr 86, poz. 960, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 5, poz. 43, Nr 60, poz. 610, Nr 76, poz. 811, Nr 87, poz. 954, Nr 100, poz. 1085 i Nr 129, poz. 1441, z 2002 r. Nr 71, poz. 655, Nr 135, poz. 1143, Nr 141, poz. 1178 i 1180 i Nr 216, poz. 1824, z 2003 r. Nr 7, poz. 78, Nr 96, poz. 874, Nr 124, poz. 1154, Nr 128, poz. 1176, Nr 170, poz. 1651 i Nr 190, poz. 1864 oraz z 2004 r. Nr 49, poz. 466, Nr 54, poz. 535 i Nr 62, poz. 574.) w załączniku do ustawy w części IV w poz. 37 wprowadza się następujące zmiany:
 - **1)** pkt 3 otrzymuje brzmienie: 1 2 3 4 3) „na uruchamianie pracowni, w których mają być stosowane źródła promieniowania jonizującego, w tym pracowni rentgenowskich 200 zł”
 - **2)** pkt 7 otrzymuje brzmienie: 1 2 3 4 7) „na wytwarzanie, przetwarzanie materiałów jądrowych, źródeł i odpadów promieniotwórczych, wypalonego paliwa jądrowego, wzbogacanie izotopowe oraz na produkowanie urządzeń zawierających źródła promieniotwórcze, jak również na zamierzone dodawanie substancji promieniotwórczych w procesie produkcyjnym wyrobów powszechnego użytku i wyrobów medycznych, na obrót tymi wyrobami oraz na przywóz na terytorium Rzeczypospolitej Polskiej i wywóz z tego terytorium wyrobów powszechnego użytku, wyrobów medycznych, do których dodano substancje promieniotwórcze 1 000 zł”
 
@@ -971,7 +974,6 @@ Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (e
 
 2. Zezwolenia na uruchamianie i stosowanie aparatów rentgenowskich o energii promieniowania do 300 keV w celach medycznych wydane na podstawie dotychczasowych przepisów stają się odpowiednio zezwoleniami na uruchamianie i stosowanie aparatów rentgenowskich do celów diagnostyki medycznej, radiologii zabiegowej, radioterapii powierzchniowej i radioterapii schorzeń nienowotworowych w rozumieniu niniejszej ustawy.
 
-3. Uprawnienia inspektora ochrony radiologicznej w pracowniach rentgenowskich stosujących aparaty rentgenowskie o energii promieniowania do 300 keV w celach medycznych nadane na podstawie dotychczasowych przepisów stają się uprawnieniami inspektora ochrony radiologicznej w pracowniach stosujących aparaty rentgenowskie do celów diagnostyki medycznej, radiologii zabiegowej, radioterapii powierzchniowej i radioterapii schorzeń nienowotworowych w rozumieniu niniejszej ustawy. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 12 ust. 2 i 3, art. 15 ust. 3, art. 25 pkt 1, art. 46, art. 63 ust. 3 i art. 121 ust. 3 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 12 ust. 2 i 3, art. 25 pkt 1, art. 33c ust. 9, art. 33d ust. 5, art. 33e ust. 6, art. 33g ust. 15, art. 46, art. 63 ust. 3 i art. 121 ust. 3 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy. Ogłoszenie tekstu jednolitego ustawy – Prawo atomowe nastąpi w terminie 3 miesięcy od dnia ogłoszenia ustawy.
+3. Uprawnienia inspektora ochrony radiologicznej w pracowniach rentgenowskich stosujących aparaty rentgenowskie o energii promieniowania do 300 keV w celach medycznych nadane na podstawie dotychczasowych przepisów stają się uprawnieniami inspektora ochrony radiologicznej w pracowniach stosujących aparaty rentgenowskie do celów diagnostyki medycznej, radiologii zabiegowej, radioterapii powierzchniowej i radioterapii schorzeń nienowotworowych w rozumieniu niniejszej ustawy. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 12 ust. 2 i 3, art. 15 ust. 3, art. 25 pkt 1, art. 46, art. 63 ust. 3 i art. 121 ust. 3 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 12 ust. 2 i 3, art. 25 pkt 1, art. 33c ust. 9, art. 33d ust. 5, art. 33e ust. 6, art. 33g ust. 15, art. 46, art. 63 ust. 3 i art. 121 ust. 3 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy. Ogłoszenie tekstu jednolitego ustawy – Prawo atomowe nastąpi w terminie 3 miesięcy od dnia ogłoszenia ustawy. Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, z wyjątkiem art. 1: – pkt 26 i 36, które wchodzą w życie z dniem 1 stycznia 2005 r., – pkt 61 i 62, które wchodzą w życie z dniem 1 stycznia 2006 r. Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (efektywnej) Dawka pochłonięta D: energia promieniowania jonizującego przekazana materii w elemencie objętości podzielona przez masę tego elementu, wyrażona wzorem: \( D = d\bar \varepsilon /dm \) gdzie dε – oznacza średnią wartość energii przekazanej, dm – oznacza masę materii zawartej w elemencie objętości. Dawka pochłonięta oznacza dawkę uśrednioną w tkance lub narządzie. Legalną jednostką miary dawki pochłoniętej jest grej o oznaczeniu „Gy”. Dawka równoważna HT: dawka pochłonięta w tkance lub narządzie T, ważona dla rodzaju i energii promieniowania jonizującego R, wyrażona wzorem: \( H_T = \sum\limits_R {w_R D_{T,R} } \) gdzie DT,R – oznacza dawkę pochłoniętą od promieniowania jonizującego R, uśrednioną w tkance lub narządzie T, wR – oznacza czynnik wagowy promieniowania. Legalną jednostką miary dawki równoważnej jest siwert o oznaczeniu „Sv”. Dawka skuteczna (efektywna) E: suma ważonych dawek równoważnych od zewnętrznego i wewnętrznego napromienienia tkanek i narządów, wyrażona wzorem: \( E = \sum\limits_T {w_T H_T = \sum\limits_T {w_T \sum\limits_R {w_R D_{T,R} } } } \) gdzie DT,R – oznacza dawkę pochłoniętą od promieniowa jonizującego R, uśrednioną w tkance lub narządzie T, wR – oznacza czynnik wagowy promieniowania jonizującego R, wT – oznacza czynnik wagowy tkanki lub narządu T.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, z wyjątkiem art. 1: – pkt 26 i 36, które wchodzą w życie z dniem 1 stycznia 2005 r., – pkt 61 i 62, które wchodzą w życie z dniem 1 stycznia 2006 r. Załącznik – Określenia: dawki pochłoniętej, równoważnej i skutecznej (efektywnej) Dawka pochłonięta D: energia promieniowania jonizującego przekazana materii w elemencie objętości podzielona przez masę tego elementu, wyrażona wzorem: \( D = d\bar \varepsilon /dm \) gdzie dε – oznacza średnią wartość energii przekazanej, dm – oznacza masę materii zawartej w elemencie objętości. Dawka pochłonięta oznacza dawkę uśrednioną w tkance lub narządzie. Legalną jednostką miary dawki pochłoniętej jest grej o oznaczeniu „Gy”. Dawka równoważna HT: dawka pochłonięta w tkance lub narządzie T, ważona dla rodzaju i energii promieniowania jonizującego R, wyrażona wzorem: \( H_T = \sum\limits_R {w_R D_{T,R} } \) gdzie DT,R – oznacza dawkę pochłoniętą od promieniowania jonizującego R, uśrednioną w tkance lub narządzie T, wR – oznacza czynnik wagowy promieniowania. Legalną jednostką miary dawki równoważnej jest siwert o oznaczeniu „Sv”. Dawka skuteczna (efektywna) E: suma ważonych dawek równoważnych od zewnętrznego i wewnętrznego napromienienia tkanek i narządów, wyrażona wzorem: \( E = \sum\limits_T {w_T H_T = \sum\limits_T {w_T \sum\limits_R {w_R D_{T,R} } } } \) gdzie DT,R – oznacza dawkę pochłoniętą od promieniowa jonizującego R, uśrednioną w tkance lub narządzie T, wR – oznacza czynnik wagowy promieniowania jonizującego R, wT – oznacza czynnik wagowy tkanki lub narządu T.
 

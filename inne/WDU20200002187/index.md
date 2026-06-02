@@ -26,27 +26,49 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002187) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2187/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie Rozdział 1 – Przepisy ogólne Rozdział 2 – Działania zapobiegawcze i naprawcze Rozdział 3 – Koszty przeprowadzenia działań zapobiegawczych i naprawczych Rozdział 4 – Zgłaszanie bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku oraz zakończenia działań zapobiegawczych lub naprawczych Rozdział 5 – Postępowanie w przypadku bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku o charakterze transgranicznym Rozdział 6 – Przepisy karne Rozdział 7 – Zmiany w przepisach obowiązujących Rozdział 8 – Przepisy przejściowe, dostosowujące i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. z 2019 r. poz. 1862), z uwzględnieniem zmian wprowadzonych:
 1)
 ustawą z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284),
 2)
-ustawą z dnia 28 maja 2020 r. o zmianie ustawy o substancjach chemicznych i ich mieszaninach oraz niektórych innych ustaw (Dz. U. poz. 1337)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 listopada 2020 r.
+ustawą z dnia 28 maja 2020 r. o zmianie ustawy o substancjach chemicznych i ich mieszaninach oraz niektórych innych ustaw (Dz. U. poz. 1337) oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 listopada 2020 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 98, art. 101 i art. 114 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), które stanowią:
-„
+art. 98, art. 101 i art. 114 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), które stanowią: „
+Przepisy ogólne
+Działania zapobiegawcze i naprawcze
+Koszty przeprowadzenia działań zapobiegawczych i naprawczych
+Zgłaszanie bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku oraz zakończenia działań zapobiegawczych lub naprawczych
+Postępowanie w przypadku bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku o charakterze transgranicznym
 W przypadku stwierdzenia, że zgłoszone przez organ ochrony środowiska bezpośrednie zagrożenie szkodą w środowisku lub szkoda w środowisku mogą mieć skutki na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, Generalny Dyrektor Ochrony Środowiska niezwłocznie zawiadamia o tym właściwy organ państwa, na którego terytorium skutki te mogą wystąpić.
 W przypadku stwierdzenia, że zgłoszone przez organ ochrony środowiska bezpośrednie zagrożenie szkodą w środowisku lub szkoda w środowisku mogą mieć skutki na obszarach morskich innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, Generalny Dyrektor Ochrony Środowiska niezwłocznie zawiadamia o tym właściwy organ państwa, na którego obszarach morskich skutki te mogą wystąpić.
 Generalny Dyrektor Ochrony Środowiska po uzyskaniu informacji o bezpośrednim zagrożeniu szkodą w środowisku lub o szkodzie w środowisku, które zostały spowodowane na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, a których skutki mogą oddziaływać na terytorium Rzeczypospolitej Polskiej, niezwłocznie zawiadamia o tym właściwy organ ochrony środowiska.
 Generalny Dyrektor Ochrony Środowiska po uzyskaniu informacji o bezpośrednim zagrożeniu szkodą w środowisku lub o szkodzie w środowisku, które zostały spowodowane na obszarach morskich innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, a których skutki mogą oddziaływać na obszarach morskich Rzeczypospolitej Polskiej, niezwłocznie zawiadamia o tym właściwy organ ochrony środowiska.
 Przepisów art. 26b-26ca nie stosuje się do poważnych awarii przemysłowych w rozumieniu ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
+Przepisy karne
+Zmiany w przepisach obowiązujących
 Art. 30–34.
 (pominięte)
+Przepisy przejściowe, dostosowujące i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Działania zapobiegawcze i naprawcze
+
+#### Rozdział 3 – Koszty przeprowadzenia działań zapobiegawczych i naprawczych
+
+#### Rozdział 4 – Zgłaszanie bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku oraz zakończenia działań zapobiegawczych lub naprawczych
+
+#### Rozdział 5 – Postępowanie w przypadku bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku o charakterze transgranicznym
+
+#### Rozdział 6 – Przepisy karne
+
+#### Rozdział 7 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 8 – Przepisy przejściowe, dostosowujące i końcowe
 
 **Art. 98.**
 
@@ -66,9 +88,9 @@ Art. 30–34.
 
 - **2)** art. 15 ustawy z dnia 28 maja 2020 r. o zmianie ustawy o substancjach chemicznych i ich mieszaninach oraz niektórych innych ustaw (Dz. U. poz. 1337), który stanowi: „
 
-**Art. 15.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie
+**Art. 15.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawieNiniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2004/35/WE Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie odpowiedzialności za środowisko w odniesieniu do zapobiegania i zaradzania szkodom wyrządzonym środowisku naturalnemu (Dz. Urz. UE L 143/56 z 30.04.2004, str. 56; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 357).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa zasady odpowiedzialności za zapobieganie szkodom w środowisku i naprawę szkód w środowisku.
 
@@ -111,8 +133,7 @@ Art. 30–34.
 
 2. Do działalności stwarzającej ryzyko szkody w środowisku zalicza się również:
 
-- **1)** produkcję, wykorzystanie, przechowywanie, przetwarzanie, składowanie, uwalnianie do środowiska oraz transport: substancji stwarzających zagrożenie i mieszanin stwarzających zagrożenie w rozumieniu przepisów o substancjach chemicznych i ich mieszaninach, środków ochrony roślin w rozumieniu ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2019 r. poz. 1900 oraz z 2020 r. poz. 284 i 425), produktów biobójczych;
-    - **a)**
+- **1)** produkcję, wykorzystanie, przechowywanie, przetwarzanie, składowanie, uwalnianie do środowiska oraz transport: aW brzmieniu ustalonym przez art. 8 ustawy z dnia 28 maja 2020 r. o zmianie ustawy o substancjach chemicznych i ich mieszaninach oraz niektórych innych ustaw (Dz. U. poz. 1337), która weszła w życie z dniem 19 sierpnia 2020 r.) substancji stwarzających zagrożenie i mieszanin stwarzających zagrożenie w rozumieniu przepisów o substancjach chemicznych i ich mieszaninach, środków ochrony roślin w rozumieniu ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2019 r. poz. 1900 oraz z 2020 r. poz. 284 i 425), produktów biobójczych;
     - **b)**
     - **c)**
 
@@ -166,7 +187,7 @@ Art. 30–34.
 - **9b)** remediacji – rozumie się przez to remediację w rozumieniu art. 3 pkt 31b ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
 - **10)** stanie początkowym – rozumie się przez to stan i funkcje środowiska oraz poszczególnych elementów przyrodniczych przed wystąpieniem szkody w środowisku, oszacowane na podstawie dostępnych informacji; w przypadku szkody w środowisku w powierzchni ziemi rozumie się przez to w szczególności stan określony w raporcie początkowym, o którym mowa w ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska albo, jeżeli nie ma dostępnych informacji na temat stanu początkowego lub w raporcie początkowym stwierdzono przekroczenie dopuszczalnych zawartości substancji powodujących ryzyko – stan zgodny z dopuszczalnymi zawartościami substancji powodujących ryzyko;
 - **10a)** substancji powodującej ryzyko – rozumie się przez to substancję w rozumieniu art. 3 pkt 37a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
-- **11)** szkodzie w środowisku – rozumie się przez to negatywną, mierzalną zmianę stanu lub funkcji elementów przyrodniczych, ocenioną w stosunku do stanu początkowego, która została spowodowana bezpośrednio lub pośrednio przez działalność prowadzoną przez podmiot korzystający ze środowiska: w gatunkach chronionych lub chronionych siedliskach przyrodniczych, mającą znaczący negatywny wpływ na osiągnięcie lub utrzymanie właściwego stanu ochrony tych gatunków lub siedlisk przyrodniczych, z tym że szkoda w gatunkach chronionych lub chronionych siedliskach przyrodniczych nie obejmuje uprzednio zidentyfikowanego negatywnego wpływu, wynikającego z działania podmiotu korzystającego ze środowiska zgodnie z: – decyzją, o której mowa w art. 34 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody lub – decyzją, o której mowa w art. 56 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, lub – zatwierdzonym planem urządzenia lasu, dla którego przeprowadzono strategiczną ocenę oddziaływania na środowisko, o której mowa w art. 46 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2020 r. poz. 283, 284, 322, 471 i 1378), lub – decyzją o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, lub – postanowieniami, o których mowa w art. 90 ust. 1 i art. 98 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, w wodach, mającą znaczący negatywny wpływ na potencjał ekologiczny, stan ekologiczny, chemiczny lub ilościowy wód lub stan środowiska wód morskich w obszarach morskich, o których mowa w art. 2 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2019 r. poz. 2169 oraz z 2020 r. poz. 284 i 1378), z wyjątkiem przypadków, o których mowa w art. 38j ustawy z dnia 18 lipca 2001 r. – Prawo wodne, w powierzchni ziemi, przez co rozumie się zanieczyszczenie gleby lub ziemi, w tym w szczególności zanieczyszczenie mogące stanowić zagrożenie dla zdrowia ludzi;
+- **11)** szkodzie w środowisku – rozumie się przez to negatywną, mierzalną zmianę stanu lub funkcji elementów przyrodniczych, ocenioną w stosunku do stanu początkowego, która została spowodowana bezpośrednio lub pośrednio przez działalność prowadzoną przez podmiot korzystający ze środowiska: w gatunkach chronionych lub chronionych siedliskach przyrodniczych, mającą znaczący negatywny wpływ na osiągnięcie lub utrzymanie właściwego stanu ochrony tych gatunków lub siedlisk przyrodniczych, z tym że szkoda w gatunkach chronionych lub chronionych siedliskach przyrodniczych nie obejmuje uprzednio zidentyfikowanego negatywnego wpływu, wynikającego z działania podmiotu korzystającego ze środowiska zgodnie z: – decyzją, o której mowa w art. 34 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody lub – decyzją, o której mowa w art. 56 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, lub – zatwierdzonym planem urządzenia lasu, dla którego przeprowadzono strategiczną ocenę oddziaływania na środowisko, o której mowa w art. 46 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2020 r. poz. 283, 284, 322, 471 i 1378), lub – decyzją o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, lub – postanowieniami, o których mowa w art. 90 ust. 1 i art. 98 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, w wodach, mającą znaczący negatywny wpływ na potencjał ekologiczny, stan ekologiczny, chemiczny lub ilościowy wód lub stan środowiska wód morskich w obszarach morskich, o których mowa w art. 2 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2019 r. poz. 2169 oraz z 2020 r. poz. 284 i 1378), z wyjątkiem przypadków, o których mowa w art. 38j ustawy z dnia 18 lipca 2001 r. – Prawo wodneUtraciła moc z dniem 1 stycznia 2018 r. na podstawie art. 573 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566), która weszła w życie z dniem 1 stycznia 2018 r., w powierzchni ziemi, przez co rozumie się zanieczyszczenie gleby lub ziemi, w tym w szczególności zanieczyszczenie mogące stanowić zagrożenie dla zdrowia ludzi;
     - **a)**
     - **b)**
     - **c)**
@@ -189,7 +210,7 @@ Art. 30–34.
 
 **Art. 8.** W przypadku wystąpienia bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, spowodowanych przez działalność stwarzającą ryzyko szkody w środowisku, o której mowa w art. 3 ust. 1 pkt 5, organem ochrony środowiska właściwym w sprawach odpowiedzialności za zapobieganie szkodom w środowisku i naprawę szkód w środowisku jest minister właściwy do spraw środowiska.
 
-#### Rozdział 2 Działania zapobiegawcze i naprawcze
+#### Rozdział 2
 
 **Art. 9.**
 
@@ -198,9 +219,7 @@ Art. 30–34.
 2. W przypadku wystąpienia szkody w środowisku podmiot korzystający ze środowiska jest obowiązany do:
 
 - **1)** podjęcia działań w celu ograniczenia szkody w środowisku, zapobieżenia kolejnym szkodom i negatywnym skutkom dla zdrowia ludzi lub dalszemu osłabieniu funkcji elementów przyrodniczych, w tym natychmiastowego opanowania, powstrzymania, usunięcia lub ograniczenia w inny sposób zanieczyszczenia lub innych szkodliwych czynników;
-- **2)** podjęcia działań naprawczych.
-
-**Art. 10.** Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw środowiska, kierując się potrzebą zapewnienia odpowiedniego poziomu ochrony środowiska, określi, w drodze rozporządzenia, kryteria oceny, czy w danym przypadku wystąpiła szkoda w środowisku.
+- **2)** podjęcia działań naprawczych. Art. 10Ze zmianą wprowadzoną przez art. 49 pkt 1 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r.. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw środowiska, kierując się potrzebą zapewnienia odpowiedniego poziomu ochrony środowiska, określi, w drodze rozporządzenia, kryteria oceny, czy w danym przypadku wystąpiła szkoda w środowisku.
 
 **Art. 11.**
 
@@ -288,7 +307,7 @@ Art. 30–34.
 
 7. Przepisów ust. 1–6 nie stosuje się w przypadku prowadzenia działań ratowniczych.
 
-**Art. 14.** Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw środowiska, uwzględniając wpływ podejmowanych działań na zdrowie i bezpieczeństwo ludzi, potrzebę minimalizacji kosztów tych działań, możliwość osiągnięcia celów naprawy i przeciwdziałanie przyszłym szkodom w środowisku lub pogłębianiu istniejących szkód w środowisku oraz wpływ działań naprawczych na stan elementów przyrodniczych lub ich funkcje, określi w drodze rozporządzenia:
+**Art. 14.** Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw środowiska, uwzględniając wpływ podejmowanych działań na zdrowie i bezpieczeństwo ludzi, potrzebę minimalizacji kosztów tych działań, możliwość osiągnięcia celów naprawy i przeciwdziałanie przyszłym szkodom w środowisku lub pogłębianiu istniejących szkód w środowisku oraz wpływ działań naprawczych na stan elementów przyrodniczych lub ich funkcje, określi w drodze rozporządzenia:Ze zmianą wprowadzoną przez art. 49 pkt 1 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r.
 
 - **1)** rodzaje działań naprawczych oraz warunki i sposoby ich prowadzenia dla szkód w środowisku w gatunkach chronionych lub chronionych siedliskach przyrodniczych lub wodach;
 - **2)** warunki i sposoby przeprowadzania remediacji – dla szkód w środowisku w powierzchni ziemi.
@@ -416,7 +435,7 @@ Art. 30–34.
 
 9. W przypadkach, o których mowa w ust. 7 i 8, władający powierzchnią ziemi jest obowiązany umożliwić prowadzenie badań, pomiarów lub monitoringu na terenie będącym w jego władaniu. W przypadku wydawania decyzji, o których mowa w art. 13 ust. 3, art. 15 ust. 1, art. 17 ust. 2, art. 17a i art. 20 ust. 1 oraz postanowień, o których mowa w art. 24 ust. 5 i 7, jeżeli liczba stron postępowania przekracza 20 stosuje się przepis art. 49 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-#### Rozdział 3 Koszty przeprowadzenia działań zapobiegawczych i naprawczych
+#### Rozdział 3
 
 **Art. 21.** Koszty przeprowadzenia działań zapobiegawczych lub naprawczych oznaczają uzasadnione koszty związane z koniecznością zapewnienia właściwego i efektywnego przeprowadzenia tych działań, w tym koszty:
 
@@ -462,7 +481,7 @@ Art. 30–34.
 
 5. Do należności z tytułu obowiązku uiszczenia kosztów działań zapobiegawczych lub naprawczych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325 i 1423), z tym że uprawnienia organów podatkowych przysługują organowi ochrony środowiska.
 
-#### Rozdział 4 Zgłaszanie bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku oraz zakończenia działań zapobiegawczych lub naprawczych
+#### Rozdział 4
 
 **Art. 24.**
 
@@ -532,20 +551,16 @@ Art. 30–34.
 
 4. Generalny Dyrektor Ochrony Środowiska może dokonywać zmian w rejestrze, jeżeli stwierdzi niezgodność zawartych w nim danych z posiadanymi informacjami, w szczególności wynikającymi z prowadzonych postępowań administracyjnych i sądowo-administracyjnych w zakresie bezpośrednich zagrożeń szkodą w środowisku oraz szkód w środowisku.
 
-5. Bezpośredni dostęp do wszystkich danych zawartych w rejestrze posiadają, za pośrednictwem systemu teleinformatycznego, organy ochrony środowiska oraz organy Inspekcji Ochrony Środowiska.
+5. Bezpośredni dostęp do wszystkich danych zawartych w rejestrze posiadają, za pośrednictwem systemu teleinformatycznego, organy ochrony środowiska oraz organy Inspekcji Ochrony Środowiska. 6Ze zmianą wprowadzoną przez art. 49 pkt 2 ustawy, o której mowa w odnośniku 4.. Generalny Dyrektor Ochrony Środowiska przygotowuje i przekazuje ministrowi właściwemu do spraw klimatu oraz ministrowi właściwemu do spraw środowiska, w terminie do końca lutego każdego roku, zbiorczą informację na temat zawartości rejestru, o którym mowa w ust. 1, za rok poprzedni. 7Ze zmianą wprowadzoną przez art. 49 pkt 1 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r.. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw środowiska, biorąc pod uwagę zakres informacji wymagany do sporządzenia raportów dla Komisji Europejskiej dotyczących doświadczeń nabytych podczas stosowania przepisów w zakresie odpowiedzialności za zapobieganie szkodom w środowisku i naprawę szkód w środowisku, użyteczność i zapewnienie sprawnego funkcjonowania rejestru oraz potrzebę zapewnienia dostępu do informacji o środowisku, określi, w drodze rozporządzenia, szczegółowy zakres informacji, które są gromadzone w rejestrze.
 
-6. Generalny Dyrektor Ochrony Środowiska przygotowuje i przekazuje ministrowi właściwemu do spraw klimatu oraz ministrowi właściwemu do spraw środowiska, w terminie do końca lutego każdego roku, zbiorczą informację na temat zawartości rejestru, o którym mowa w ust. 1, za rok poprzedni.
+#### Rozdział 5
 
-7. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw środowiska, biorąc pod uwagę zakres informacji wymagany do sporządzenia raportów dla Komisji Europejskiej dotyczących doświadczeń nabytych podczas stosowania przepisów w zakresie odpowiedzialności za zapobieganie szkodom w środowisku i naprawę szkód w środowisku, użyteczność i zapewnienie sprawnego funkcjonowania rejestru oraz potrzebę zapewnienia dostępu do informacji o środowisku, określi, w drodze rozporządzenia, szczegółowy zakres informacji, które są gromadzone w rejestrze.
-
-#### Rozdział 5 Postępowanie w przypadku bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku o charakterze transgranicznym
-
-**Art. 27.** Po uzyskaniu informacji o wystąpieniu bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, które zostały spowodowane przez podmiot korzystający ze środowiska działający na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, organ ochrony środowiska może, za pośrednictwem ministra właściwego do spraw klimatu, wystąpić do tego państwa z wnioskiem o:
+**Art. 27.** Po uzyskaniu informacji o wystąpieniu bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, które zostały spowodowane przez podmiot korzystający ze środowiska działający na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, organ ochrony środowiska może, za pośrednictwem ministra właściwego do spraw klimatu, wystąpić do tego państwa z wnioskiem o:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 49 pkt 3 ustawy, o której mowa w odnośniku 4.
 
 - **1)** podjęcie działań zapobiegawczych lub naprawczych;
 - **2)** zwrot poniesionych kosztów przeprowadzonych działań zapobiegawczych lub naprawczych.
 
-#### Rozdział 6 Przepisy karne
+#### Rozdział 6
 
 **Art. 28.**
 
@@ -563,11 +578,11 @@ Art. 30–34.
 
 4. Karze, o której mowa w ust. 1, podlega, kto nie prowadzi badań, pomiarów lub monitoringu, będąc do tego obowiązany decyzją wydaną na podstawie art. 20 ust. 1 lub nie zapewnia wykonania badań i pomiarów zgodnie z art. 20 ust. 4, lub nie przechowuje wyników badań w wymaganym okresie wbrew art. 20 ust. 2. Orzekanie w sprawach o czyny określone w art. 28 i art. 29 następuje na podstawie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2020 r. poz. 729, 956 i 1423).
 
-#### Rozdział 7 Zmiany w przepisach obowiązujących
+#### Rozdział 7
 
-#### Rozdział 8 Przepisy przejściowe, dostosowujące i końcowe
+#### Rozdział 8
 
 **Art. 35.** (uchylony) Art. 36–38. (pominięte)
 
-**Art. 39.** Ustawa wchodzi w życie z dniem 30 kwietnia 2007 r.
+**Art. 39.** Ustawa wchodzi w życie z dniem 30 kwietnia 2007 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2004/35/WE Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie odpowiedzialności za środowisko w odniesieniu do zapobiegania i zaradzania szkodom wyrządzonym środowisku naturalnemu (Dz. Urz. UE L 143/56 z 30.04.2004, str. 56; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 357). 2) W brzmieniu ustalonym przez art. 8 ustawy z dnia 28 maja 2020 r. o zmianie ustawy o substancjach chemicznych i ich mieszaninach oraz niektórych innych ustaw (Dz. U. poz. 1337), która weszła w życie z dniem 19 sierpnia 2020 r. 3) Utraciła moc z dniem 1 stycznia 2018 r. na podstawie art. 573 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566), która weszła w życie z dniem 1 stycznia 2018 r. 4) Ze zmianą wprowadzoną przez art. 49 pkt 1 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r. 5) Ze zmianą wprowadzoną przez art. 49 pkt 2 ustawy, o której mowa w odnośniku 4. 6) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 49 pkt 3 ustawy, o której mowa w odnośniku 4.
 

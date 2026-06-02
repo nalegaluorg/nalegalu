@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 4 kwietnia 2019 r. o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw
+# Ustawa z dnia 4 kwietnia 2019 r. o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 9 października 2015 r. o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA oraz ustawę z dnia 5 lipca 2018 r. o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-04 |
 | Data wydania | 2019-04-15 |
-| Wejście w życie | 2019-04-30 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000694) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/694/text.pdf) |
 
@@ -42,13 +41,28 @@ source: "eli-html"
 4. Upoważnieni przedstawiciele właściwego organu państwa członkowskiego obecni w toku postępowania w sprawie udzielenia informacji podatkowych, postępowania podatkowego lub w toku czynności kontrolnych mogą w ramach zawartego porozumienia:
 
 - **1)** zadawać pytania świadkowi oraz stronie w ramach przeprowadzanego dowodu z zeznań świadka lub przesłuchania strony,
-- **2)** przeglądać i utrwalać dokumenty i inne dowody związane ze sprawą w zakresie, w jakim służy to wymianie informacji podatkowych. ” ;
+- **2)** przeglądać i utrwalać dokumenty i inne dowody związane ze sprawą – w zakresie, w jakim służy to wymianie informacji podatkowych. ” ;
 - **3)** w art. 23 ust. 1 otrzymuje brzmienie: „
 
 1. W sprawach nieuregulowanych w art. 8–14 stosuje się odpowiednio przepisy działu IV rozdziałów 1, 2 i 5, rozdziału 6, z wyłączeniem art. 156 § 2 i 3, rozdziałów 8, 9, 11 i 14 oraz art. 143 ustawy – Ordynacja podatkowa. ” ;
 
-- **4)** w art. 24: w ust. 1: – w pkt 1 w lit. h na końcu dodaje się przecinek i dodaje się lit. i oraz j w brzmieniu: „ i) udział w prawach przysługujących osobie współuprawnionej z papieru wartościowego, umowy swapu, umowy ubezpieczenia lub umowy renty, j) rzeczywiste prawo własnościowe w truście ” , – pkt 22 i 23 otrzymują brzmienie: „ 22) osobie z państwa trzeciego – rozumie się przez to osobę fizyczną lub podmiot będące rezydentem państwa trzeciego na podstawie przepisów prawa podatkowego tego państwa trzeciego, lub masę spadkową po osobie zmarłej, która była rezydentem państwa trzeciego; podmiot niemający rezydencji do celów podatkowych, z wyłączeniem trustu będącego pasywnym NFE, traktuje się jako rezydenta państwa, w którym znajduje się miejsce faktycznego zarządu tego podmiotu; 23) osobie z państwa uczestniczącego – rozumie się przez to osobę fizyczną lub podmiot będące rezydentem państwa uczestniczącego na podstawie przepisów prawa podatkowego tego państwa uczestniczącego, lub masę spadkową po osobie zmarłej, która była rezydentem państwa uczestniczącego; podmiot niemający rezydencji do celów podatkowych, z wyłączeniem trustu będącego pasywnym NFE, traktuje się jako rezydenta państwa, w którym znajduje się miejsce faktycznego zarządu tego podmiotu; ” , – w pkt 25 lit. b otrzymuje brzmienie: „ b) inne niż Stany Zjednoczone Ameryki państwo lub terytorium, z którym Rzeczpospolita Polska zawarła porozumienie stanowiące podstawę automatycznej wymiany informacji o rachunkach raportowanych, ” , – pkt 28 otrzymuje brzmienie: „ 28) podmiocie – rozumie się przez to osobę prawną, jednostkę organizacyjną nieposiadającą osobowości prawnej lub trust, a także umowę, w szczególności spółki cywilnej, na podstawie której strony, które ją zawarły, zamierzają wspólnie realizować określone w niej cele lub zadania; ” , – w pkt 31: – – lit. c otrzymuje brzmienie: „ c) podmioty będące w całości własnością danego państwa lub jednostek wymienionych w lit. b, ” , – – w lit. e tiret pierwsze otrzymuje brzmienie: „ – podmiot ten jest w całości własnością innego podmiotu rządowego i jest kontrolowany bezpośrednio lub za pośrednictwem podmiotu kontrolowanego przez inny podmiot rządowy, ” , – w pkt 38 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ d) w przypadku trustu będącego instytucją finansową – udział w kapitale rozumiany jako udział posiadany przez osobę traktowaną jako założyciel lub beneficjent trustu lub inną osobę fizyczną sprawującą ostateczną lub faktyczną kontrolę nad trustem; osoba raportowana będzie traktowana jako beneficjent trustu, jeżeli taka osoba raportowana posiada prawo do otrzymywania bezpośrednio lub pośrednio, w tym za pośrednictwem pełnomocnika, obowiązkowej wypłaty z trustu lub może otrzymywać, bezpośrednio lub pośrednio, wypłaty uznaniowe z trustu; ” , – po pkt 45 dodaje się pkt 45a w brzmieniu: „ 45a) truście (trust) – rozumie się przez to trust w rozumieniu art. 2 ust. 2 pkt 24 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu; ” , – pkt 46 otrzymuje brzmienie: „ 46) umowie renty – rozumie się przez to: a) umowę, zgodnie z którą jedna ze stron zobowiązuje się względem drugiej do wypłacania świadczeń pieniężnych w danym okresie, ustalonym w całości lub w części poprzez odniesienie do średniego dalszego trwania życia co najmniej jednej osoby fizycznej, lub b) umowę, którą uznaje się za umowę renty zgodnie z przepisami prawa lub praktyką państwa lub terytorium, w których umowa została zawarta, na mocy której strona tej umowy zobowiązuje się do wypłacania świadczeń pieniężnych przez określoną liczbę lat; ” , ust. 5 otrzymuje brzmienie: „
+- **4)** w art. 24: w ust. 1: w pkt 1 w lit. h na końcu dodaje się przecinek i dodaje się lit. i oraz j w brzmieniu: „ udział w prawach przysługujących osobie współuprawnionej z papieru wartościowego, umowy swapu, umowy ubezpieczenia lub umowy renty, rzeczywiste prawo własnościowe w truście ” , pkt 22 i 23 otrzymują brzmienie: „
     - **a)**
+    - **i)**
+    - **j)**
+
+- **22)** osobie z państwa trzeciego – rozumie się przez to osobę fizyczną lub podmiot będące rezydentem państwa trzeciego na podstawie przepisów prawa podatkowego tego państwa trzeciego, lub masę spadkową po osobie zmarłej, która była rezydentem państwa trzeciego; podmiot niemający rezydencji do celów podatkowych, z wyłączeniem trustu będącego pasywnym NFE, traktuje się jako rezydenta państwa, w którym znajduje się miejsce faktycznego zarządu tego podmiotu;
+- **23)** osobie z państwa uczestniczącego – rozumie się przez to osobę fizyczną lub podmiot będące rezydentem państwa uczestniczącego na podstawie przepisów prawa podatkowego tego państwa uczestniczącego, lub masę spadkową po osobie zmarłej, która była rezydentem państwa uczestniczącego; podmiot niemający rezydencji do celów podatkowych, z wyłączeniem trustu będącego pasywnym NFE, traktuje się jako rezydenta państwa, w którym znajduje się miejsce faktycznego zarządu tego podmiotu; ” , w pkt 25 lit. b otrzymuje brzmienie: „ inne niż Stany Zjednoczone Ameryki państwo lub terytorium, z którym Rzeczpospolita Polska zawarła porozumienie stanowiące podstawę automatycznej wymiany informacji o rachunkach raportowanych, ” , pkt 28 otrzymuje brzmienie: „
+    - **b)**
+
+- **28)** podmiocie – rozumie się przez to osobę prawną, jednostkę organizacyjną nieposiadającą osobowości prawnej lub trust, a także umowę, w szczególności spółki cywilnej, na podstawie której strony, które ją zawarły, zamierzają wspólnie realizować określone w niej cele lub zadania; ” , w pkt 31: – lit. c otrzymuje brzmienie: „ podmioty będące w całości własnością danego państwa lub jednostek wymienionych w lit. b, ” , – w lit. e tiret pierwsze otrzymuje brzmienie: „ – podmiot ten jest w całości własnością innego podmiotu rządowego i jest kontrolowany bezpośrednio lub za pośrednictwem podmiotu kontrolowanego przez inny podmiot rządowy, ” , w pkt 38 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ w przypadku trustu będącego instytucją finansową – udział w kapitale rozumiany jako udział posiadany przez osobę traktowaną jako założyciel lub beneficjent trustu lub inną osobę fizyczną sprawującą ostateczną lub faktyczną kontrolę nad trustem; osoba raportowana będzie traktowana jako beneficjent trustu, jeżeli taka osoba raportowana posiada prawo do otrzymywania bezpośrednio lub pośrednio, w tym za pośrednictwem pełnomocnika, obowiązkowej wypłaty z trustu lub może otrzymywać, bezpośrednio lub pośrednio, wypłaty uznaniowe z trustu; ” , po pkt 45 dodaje się pkt 45a w brzmieniu: „
+    - **c)**
+    - **d)**
+
+- **45a)** truście (trust) – rozumie się przez to trust w rozumieniu art. 2 ust. 2 pkt 24 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu; ” , pkt 46 otrzymuje brzmienie: „
+- **46)** umowie renty – rozumie się przez to: umowę, zgodnie z którą jedna ze stron zobowiązuje się względem drugiej do wypłacania świadczeń pieniężnych w danym okresie, ustalonym w całości lub w części poprzez odniesienie do średniego dalszego trwania życia co najmniej jednej osoby fizycznej, lub umowę, którą uznaje się za umowę renty zgodnie z przepisami prawa lub praktyką państwa lub terytorium, w których umowa została zawarta, na mocy której strona tej umowy zobowiązuje się do wypłacania świadczeń pieniężnych przez określoną liczbę lat; ” , ust. 5 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
     - **b)**
 
 5. Minister właściwy do spraw finansów publicznych zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra listę państw uczestniczących, o których mowa w ust. 1 pkt 25 lit. b i c, i dokonuje jej bieżącej aktualizacji. ” ;
@@ -86,7 +100,7 @@ source: "eli-html"
 5. Minister właściwy do spraw finansów publicznych corocznie, w terminie do dnia 31 marca, ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” listę:
 
 - **1)** państw uczestniczących, o których mowa w art. 24 ust. 1 pkt 25 lit. b i c,
-- **2)** państw i terytoriów, które podjęły działania w celu zawarcia porozumienia, o którym mowa w art. 24 ust. 1 pkt 25 lit. b lub c objętych obowiązkiem raportowania za rok kalendarzowy poprzedzający rok ogłoszenia tej listy, uwzględniając konieczność wykonania obowiązku, o którym mowa w art. 73. ” ;
+- **2)** państw i terytoriów, które podjęły działania w celu zawarcia porozumienia, o którym mowa w art. 24 ust. 1 pkt 25 lit. b lub c – objętych obowiązkiem raportowania za rok kalendarzowy poprzedzający rok ogłoszenia tej listy, uwzględniając konieczność wykonania obowiązku, o którym mowa w art. 73. ” ;
 - **8)** w art. 36 ust. 1 otrzymuje brzmienie: „
 
 1. Raportująca instytucja finansowa przekazuje Szefowi Krajowej Administracji Skarbowej informację o rachunkach nieudokumentowanych za okres roku kalendarzowego, zwaną dalej „informacją o rachunkach nieudokumentowanych”, w terminie do dnia 30 czerwca roku następnego:
@@ -183,9 +197,9 @@ source: "eli-html"
 1. Jednostka wchodząca w skład grupy podmiotów w rozumieniu art. 82 ust. 1 pkt 5, która nie dopełnia obowiązku:
 
 - **1)** przekazania informacji o grupie podmiotów, o którym mowa w art. 83 ust. 1, art. 84 lub art. 85,
-- **2)** powiadomienia, o którym mowa w art. 86 ust. 1 lub przekazuje taką informację lub takie powiadomienie niepełne lub niezgodne z posiadanymi danymi, podlega karze pieniężnej. ” .
+- **2)** powiadomienia, o którym mowa w art. 86 ust. 1 – lub przekazuje taką informację lub takie powiadomienie niepełne lub niezgodne z posiadanymi danymi, podlega karze pieniężnej. ” .
 
-**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499,) wprowadza się następujące zmiany:
 
 - **1)** w art. 14b po § 3 dodaje się § 3a i 3b w brzmieniu: „
 
@@ -196,7 +210,7 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-- **2)** mające skutki transgraniczne składający wniosek o wydanie interpretacji indywidualnej jest obowiązany również do wskazania odpowiednio państwa lub terytorium miejsca zamieszkania tej osoby fizycznej, danych identyfikujących tę osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, w tym państwa lub terytorium ich siedziby, zarządu lub położenia tego zagranicznego zakładu, lub państwa lub terytorium, w których te skutki transgraniczne wystąpiły lub mogą wystąpić.
+- **2)** mające skutki transgraniczne – składający wniosek o wydanie interpretacji indywidualnej jest obowiązany również do wskazania odpowiednio państwa lub terytorium miejsca zamieszkania tej osoby fizycznej, danych identyfikujących tę osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, w tym państwa lub terytorium ich siedziby, zarządu lub położenia tego zagranicznego zakładu, lub państwa lub terytorium, w których te skutki transgraniczne wystąpiły lub mogą wystąpić.
 
 § 3b. Obowiązek, o którym mowa w § 3a, nie obejmuje wniosków o wydanie interpretacji indywidualnej:
 
@@ -257,7 +271,7 @@ source: "eli-html"
 1. W przypadku prowadzenia na dzień wejścia w życie niniejszej ustawy nowego rachunku w rozumieniu art. 24 ust. 1 pkt 15 ustawy zmienianej w art. 1, otwartego w okresie od dnia 1 stycznia 2016 r. do dnia 30 kwietnia 2017 r., raportująca instytucja finansowa w rozumieniu art. 24 ust. 1 pkt 44 ustawy zmienianej w art. 1 jest obowiązana wystąpić, w terminie do dnia 16 września 2019 r., do posiadacza rachunku w rozumieniu art. 24 ust. 1 pkt 33 ustawy zmienianej w art. 1, z żądaniem złożenia oświadczenia o rezydencji podatkowej, o którym mowa w art. 43 ustawy zmienianej w art. 1:
 
 - **1)** w brzmieniu dotychczasowym – w przypadku oświadczeń składanych przed dniem 1 września 2019 r.,
-- **2)** w brzmieniu nadanym niniejszą ustawą – w przypadku oświadczeń składanych po dniu 31 sierpnia 2019 r. zawierającego dane aktualne na dzień otwarcia tego rachunku.
+- **2)** w brzmieniu nadanym niniejszą ustawą – w przypadku oświadczeń składanych po dniu 31 sierpnia 2019 r. – zawierającego dane aktualne na dzień otwarcia tego rachunku.
 
 2. W przypadku nieuzyskania oświadczenia o rezydencji podatkowej na podstawie ust. 1 raportująca instytucja finansowa w rozumieniu art. 24 ust. 1 pkt 44 ustawy zmienianej w art. 1 w celu uzyskania tego oświadczenia kontynuuje rzeczywiste działania zmierzające do nawiązania kontaktu z posiadaczem rachunku w rozumieniu art. 24 ust. 1 pkt 33 ustawy zmienianej w art. 1, w formie pisemnej, telefonicznie, osobiście lub za pomocą środków komunikacji elektronicznej.
 
@@ -290,7 +304,7 @@ source: "eli-html"
 3. Do przekazywania informacji, o których mowa w ust. 1:
 
 - **1)** pkt 1 – przepisy art. 34, art. 99 ust. 2 i 3 oraz art. 99a ust. 1 i 3 ustawy zmienianej w art. 1,
-- **2)** pkt 2 – przepis art. 36 ust. 2 ustawy zmienianej w art. 1 stosuje się odpowiednio.
+- **2)** pkt 2 – przepis art. 36 ust. 2 ustawy zmienianej w art. 1 – stosuje się odpowiednio.
 
 **Art. 9.**
 
@@ -316,6 +330,6 @@ source: "eli-html"
 
 - **1)** art. 10 ust. 2, który wchodzi w życie z dniem ogłoszenia;
 - **2)** art. 5, który wchodzi w życie z dniem 1 maja 2019 r.;
-- **3)** art. 1 pkt 9 i art. 4 pkt 2, które wchodzą w życie z dniem 1 września 2019 r.
+- **3)** art. 1 pkt 9 i art. 4 pkt 2, które wchodzą w życie z dniem 1 września 2019 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 9 października 2015 r. o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA oraz ustawę z dnia 5 lipca 2018 r. o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499,
 
 

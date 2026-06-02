@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 kwietnia 2023 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
+# Ustawa z dnia 14 kwietnia 2023 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw Niniejsza ustawa wdraża dyrektywę Rady (UE) 2020/284 z dnia 18 lutego 2020 r. zmieniającą dyrektywę 2006/112/WE w odniesieniu do wprowadzenia pewnych wymogów dla dostawców usług płatniczych (Dz. Urz. UE L 62 z 02.03.2020, str. 7).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-04-14 |
 | Data wydania | 2023-05-24 |
-| Wejście w życie | 2024-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000996) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/996/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm.) w dziale XI po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych oraz ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
+Ogólne obowiązki dostawców usług płatniczych
 
-#### Rozdział 2a Ogólne obowiązki dostawców usług płatniczych
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 974, 1137, 1301, 1488, 1561, 2180 i 2707 oraz z 2023 r. poz. 535 i 556.) w dziale XI po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
+
+#### Rozdział 2a
 
 **Art. 110a.** Ilekroć w niniejszym rozdziale jest mowa o:
 
@@ -70,7 +72,7 @@ source: "eli-html"
 - **4)** IBAN, a jeżeli IBAN nie jest dostępny – inny identyfikator, który jednoznacznie identyfikuje odbiorcę płatności oraz podaje jego lokalizację;
 - **5)** w przypadku gdy odbiorca płatności otrzymuje środki pieniężne nie mając rachunku płatniczego – BIC lub inny kod identyfikacyjny, który jednoznacznie identyfikuje dostawcę usług płatniczych działającego w imieniu odbiorcy płatności oraz podaje jego lokalizację;
 - **6)** adres odbiorcy płatności, jeżeli jest dostępny, zgodnie z danymi posiadanymi przez dostawcę usług płatniczych;
-- **7)** następujące dane dotyczące płatności transgranicznych oraz zwrotów płatności zidentyfikowanych jako odnoszące się do płatności transgranicznych: datę i godzinę dokonania płatności lub zwrotu płatności, kwotę i walutę płatności lub zwrotu płatności, odpowiednio państwo członkowskie pochodzenia płatności otrzymanej przez odbiorcę płatności albo otrzymanej w imieniu odbiorcy płatności albo państwo członkowskie przeznaczenia zwrotu płatności oraz informacje wykorzystane odpowiednio do określenia miejsca pochodzenia, przeznaczenia albo zwrotu płatności, zgodnie z art. 110b ust. 3, informacje inne niż wymienione w lit. a-c, które jednoznacznie identyfikują płatność, w przypadku gdy płatność jest inicjowana w punkcie handlowo-usługowym akceptanta – informację o fizycznej obecności płatnika przy inicjowaniu tej płatności. Dostawcy usług płatniczych przechowują ewidencję, o której mowa w art. 110b ust. 1, w postaci elektronicznej, przez okres 3 lat od zakończenia roku podatkowego, w którym nastąpiła płatność. Ewidencja, o której mowa w art. 110b ust. 1, jest udostępniana przez dostawcę usług płatniczych na zasadach określonych w art. 24b ust. 1 rozporządzenia Rady (UE) nr 904/2010 z dnia 7 października 2010 r. w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 268 z 12.10.2010, str. 1, z późn. zm.):
+- **7)** następujące dane dotyczące płatności transgranicznych oraz zwrotów płatności zidentyfikowanych jako odnoszące się do płatności transgranicznych: datę i godzinę dokonania płatności lub zwrotu płatności, kwotę i walutę płatności lub zwrotu płatności, odpowiednio państwo członkowskie pochodzenia płatności otrzymanej przez odbiorcę płatności albo otrzymanej w imieniu odbiorcy płatności albo państwo członkowskie przeznaczenia zwrotu płatności oraz informacje wykorzystane odpowiednio do określenia miejsca pochodzenia, przeznaczenia albo zwrotu płatności, zgodnie z art. 110b ust. 3, informacje inne niż wymienione w lit. a-c, które jednoznacznie identyfikują płatność, w przypadku gdy płatność jest inicjowana w punkcie handlowo-usługowym akceptanta – informację o fizycznej obecności płatnika przy inicjowaniu tej płatności. Dostawcy usług płatniczych przechowują ewidencję, o której mowa w art. 110b ust. 1, w postaci elektronicznej, przez okres 3 lat od zakończenia roku podatkowego, w którym nastąpiła płatność. Ewidencja, o której mowa w art. 110b ust. 1, jest udostępniana przez dostawcę usług płatniczych na zasadach określonych w art. 24b ust. 1 rozporządzenia Rady (UE) nr 904/2010 z dnia 7 października 2010 r. w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 268 z 12.10.2010, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 348 z 29.12.2017, str. 1, Dz. Urz. UE L 259 z 16.10.2018, str. 1, Dz. Urz. UE L 311 z 07.12.2018, str. 1 oraz Dz. Urz. UE L 62 z 02.03.2020, str. 1 i 13.:
     - **a)**
     - **b)**
     - **c)**
@@ -84,7 +86,7 @@ source: "eli-html"
 
 - **1k)** Szefowi Krajowej Administracji Skarbowej w zakresie niezbędnym do wykonywania obowiązku, o którym mowa w art. 110e pkt 2 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług; ” .
 
-**Art. 3.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2022 r. poz. 924, z późn. zm.) w art. 9f w ust. 1 po pkt 5c dodaje się pkt 5ca w brzmieniu: „ 5ca) Szefowi Krajowej Administracji Skarbowej w zakresie niezbędnym do wykonywania obowiązku, o którym mowa w art. 110e pkt 2 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm.); ” .
+**Art. 3.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2022 r. poz. 924, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1358, 1488, 1933, 2339 i 2640 oraz z 2023 r. poz. 180 i 614.) w art. 9f w ust. 1 po pkt 5c dodaje się pkt 5ca w brzmieniu: „ 5ca) Szefowi Krajowej Administracji Skarbowej w zakresie niezbędnym do wykonywania obowiązku, o którym mowa w art. 110e pkt 2 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 974, 1137, 1301, 1488, 1561, 2180 i 2707 oraz z 2023 r. poz. 535, 556 i 996.); ” .
 
 **Art. 4.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, 556, 588, 641, 658 i 760) wprowadza się następujące zmiany:
 
@@ -95,5 +97,5 @@ source: "eli-html"
 
 2. W przypadku danych, o których mowa w art. 35 ust. 3 pkt 1 lit. g, okres przetwarzania danych osobowych wynosi 5 lat, licząc od końca roku kalendarzowego, w którym dane te zostały przekazane. ” .
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2024 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2024 r. 1) Niniejsza ustawa wdraża dyrektywę Rady (UE) 2020/284 z dnia 18 lutego 2020 r. zmieniającą dyrektywę 2006/112/WE w odniesieniu do wprowadzenia pewnych wymogów dla dostawców usług płatniczych (Dz. Urz. UE L 62 z 02.03.2020, str. 7). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych oraz ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 974, 1137, 1301, 1488, 1561, 2180 i 2707 oraz z 2023 r. poz. 535 i 556. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 348 z 29.12.2017, str. 1, Dz. Urz. UE L 259 z 16.10.2018, str. 1, Dz. Urz. UE L 311 z 07.12.2018, str. 1 oraz Dz. Urz. UE L 62 z 02.03.2020, str. 1 i 13. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1358, 1488, 1933, 2339 i 2640 oraz z 2023 r. poz. 180 i 614. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 974, 1137, 1301, 1488, 1561, 2180 i 2707 oraz z 2023 r. poz. 535, 556 i 996.
 

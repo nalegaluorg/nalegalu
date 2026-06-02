@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-07-27 |
 | Data wydania | 2002-09-09 |
-| Wejście w życie | 2002-09-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021441208) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1208/text.pdf) |
 

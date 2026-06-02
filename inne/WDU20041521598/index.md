@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 maja 2004 r. o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych, ustawy o pożyczkach i kredytach studenckich oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 28 maja 2004 r. o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych, ustawy o pożyczkach i kredytach studenckich oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lutego 2003 r. o utworzeniu Akademii Obrony Narodowej, ustawę z dnia 27 lutego 2003 r. o utworzeniu Akademii Marynarki Wojennej im. Bohaterów Westerplatte, ustawę z dnia 27 lutego 2003 r. o utworzeniu Wojskowej Akademii Technicznej im. Jarosława Dąbrowskiego.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-05-28 |
 | Data wydania | 2004-07-02 |
-| Wejście w życie | 2004-07-17 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041521598) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1598/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959 i Nr 116, poz. 1206.) wprowadza się następujące zmiany:
 
 - **1)** w art. 24: ust. 3 otrzymuje brzmienie: „
     - **a)**
@@ -137,7 +136,7 @@ source: "eli-html"
 
 3. O przyznanie stypendiów, o których mowa w ust. 1 i 2, student może ubiegać się nie wcześniej niż po zaliczeniu pierwszego roku studiów.
 
-4. Student może otrzymywać stypendium za wyniki w sporcie, o którym mowa w art. 152 ust. 1 pkt 2, albo stypendium ministra za wybitne osiągnięcia sportowe, o którym mowa w art. 152 ust. 1 pkt 4, albo stypendium przyznawane na podstawie art. 22 ust. 3 ustawy z dnia 18 stycznia 1996 r. o kulturze fizycznej (Dz. U. z 2001 r. Nr 81, poz. 889, z późn. zm.).
+4. Student może otrzymywać stypendium za wyniki w sporcie, o którym mowa w art. 152 ust. 1 pkt 2, albo stypendium ministra za wybitne osiągnięcia sportowe, o którym mowa w art. 152 ust. 1 pkt 4, albo stypendium przyznawane na podstawie art. 22 ust. 3 ustawy z dnia 18 stycznia 1996 r. o kulturze fizycznej (Dz. U. z 2001 r. Nr 81, poz. 889, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1115, z 2002 r. Nr 4, poz. 31, Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 130, poz. 1112 i Nr 207, poz. 1752, z 2003 r. Nr 203, poz. 1966 oraz z 2004 r. Nr 96, poz. 959.).
 
 1. Zapomoga może być przyznana studentowi, który z przyczyn losowych znalazł się przejściowo w trudnej sytuacji materialnej.
 
@@ -172,7 +171,7 @@ source: "eli-html"
 
 2. Przepis ust. 1 zdanie pierwsze stosuje się także do decyzji podjętych przez komisję stypendialną i odwoławczą komisję stypendialną, o których mowa w art. 152a ust. 3 i art. 152b ust. 3. ” .
 
-**Art. 2.** W ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz. U. Nr 96, poz. 590, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz. U. Nr 96, poz. 590, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924 i Nr 111, poz. 1194, z 2002 r. Nr 4, poz. 33 i Nr 150, poz. 1239, z 2003 r. Nr 65, poz. 595, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959 i Nr 116, poz. 1206.) wprowadza się następujące zmiany:
 
 - **1)** po art. 23 dodaje się art. 23a i 23b w brzmieniu: „
 
@@ -278,7 +277,7 @@ source: "eli-html"
 
 2. Do stypendiów ministra, o których mowa w art. 75 ust. 1 pkt 3 i 4, stosuje się odpowiednio przepisy ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym oraz przepisy wykonawcze wydane na podstawie art. 152i tej ustawy.
 
-3. Student może otrzymywać stypendium za wyniki w sporcie, o którym mowa w art. 75 ust. 1 pkt 2, albo stypendium ministra za wybitne osiągnięcia sportowe, o którym mowa w art. 75 ust. 1 pkt 4, albo stypendium przyznawane na podstawie art. 22 ust. 3 ustawy z dnia 18 stycznia 1996 r. o kulturze fizycznej (Dz. U. z 2001 r. Nr 81, poz. 889, z późn. zm.). ” ;
+3. Student może otrzymywać stypendium za wyniki w sporcie, o którym mowa w art. 75 ust. 1 pkt 2, albo stypendium ministra za wybitne osiągnięcia sportowe, o którym mowa w art. 75 ust. 1 pkt 4, albo stypendium przyznawane na podstawie art. 22 ust. 3 ustawy z dnia 18 stycznia 1996 r. o kulturze fizycznej (Dz. U. z 2001 r. Nr 81, poz. 889, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1115, z 2002 r. Nr 4, poz. 31, Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 130, poz. 1112 i Nr 207, poz. 1752, z 2003 r. Nr 203, poz. 1966 oraz z 2004 r. Nr 96, poz. 959.). ” ;
 
 - **6)** art. 85 otrzymuje brzmienie: „
 
@@ -294,10 +293,10 @@ source: "eli-html"
 
 1. Prawo do otrzymania pożyczek i kredytów, zwanych dalej „pożyczkami studenckimi” i „kredytami studenckimi”, na zasadach określonych w ustawie, mają:
 
-- **1)** studenci szkół wyższych, o których mowa w ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z późn. zm.) oraz ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz. U. Nr 96, poz. 590, z późn. zm.),
+- **1)** studenci szkół wyższych, o których mowa w ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598.) oraz ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz. U. Nr 96, poz. 590, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924 i Nr 111, poz. 1194, z 2002 r. Nr 4, poz. 33 i Nr 150, poz. 1239, z 2003 r. Nr 65, poz. 595, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598.),
 - **2)** słuchacze i studenci Akademii Obrony Narodowej, Wojskowej Akademii Technicznej im. Jarosława Dąbrowskiego, Akademii Marynarki Wojennej im. Bohaterów Westerplatte, będący osobami cywilnymi,
 - **3)** słuchacze Szkoły Głównej Służby Pożarniczej będący osobami cywilnymi,
-- **4)** uczestnicy studiów doktoranckich, o których mowa w ustawie z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. Nr 65, poz. 595) zwani dalej „studentami”. ” ;
+- **4)** uczestnicy studiów doktoranckich, o których mowa w ustawie z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. Nr 65, poz. 595) – zwani dalej „studentami”. ” ;
 - **2)** w art. 6 ust. 2 otrzymuje brzmienie: „
 
 2. Pierwszeństwo w otrzymaniu pożyczki studenckiej lub kredytu studenckiego mają studenci o niskich dochodach na osobę w rodzinie. ” ;
@@ -325,15 +324,20 @@ source: "eli-html"
 
 - **6)** w art. 11 w ust. 2 po pkt 3 dodaje się pkt 3a w brzmieniu: „
 - **3a)** kierownik jednostki organizacyjnej prowadzącej studia doktoranckie, o której mowa w ustawie z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki, innej niż jednostka organizacyjna szkoły wyższej, powołany spośród kandydatów zgłoszonych przez kierowników jednostek organizacyjnych prowadzących studia doktoranckie, innych niż jednostki organizacyjne szkoły wyższej, ” ;
-- **7)** w art. 15: w ust. 1 uchyla się pkt 5, w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) okres, na jaki może być udzielony kredyt studencki lub pożyczka studencka, nie dłuższy niż 6 lat, a w przypadku studentów studiów doktoranckich nie dłuższy niż łącznie 10 lat, ” , – pkt 3 otrzymuje brzmienie: „ 3) rozpoczęcie spłaty kredytu studenckiego lub pożyczki studenckiej nie później niż 2 lata od daty ukończenia studiów, ” , – dodaje się pkt 7 i 8 w brzmieniu: „ 7) warunki i tryb zawieszania spłaty pożyczki studenckiej i kredytu studenckiego, 8) wzory zaświadczeń szkół wyższych, a w przypadku studiów doktoranckich szkół wyższych lub innych jednostek organizacyjnych prowadzących studia doktoranckie, potwierdzające, że osoba ubiegająca się o pożyczkę studencką lub kredyt studencki jest studentem. ” .
+- **7)** w art. 15: w ust. 1 uchyla się pkt 5, w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+
+- **1)** okres, na jaki może być udzielony kredyt studencki lub pożyczka studencka, nie dłuższy niż 6 lat, a w przypadku studentów studiów doktoranckich nie dłuższy niż łącznie 10 lat, ” , pkt 3 otrzymuje brzmienie: „
+- **3)** rozpoczęcie spłaty kredytu studenckiego lub pożyczki studenckiej nie później niż 2 lata od daty ukończenia studiów, ” , dodaje się pkt 7 i 8 w brzmieniu: „
+- **7)** warunki i tryb zawieszania spłaty pożyczki studenckiej i kredytu studenckiego,
+- **8)** wzory zaświadczeń szkół wyższych, a w przypadku studiów doktoranckich szkół wyższych lub innych jednostek organizacyjnych prowadzących studia doktoranckie, potwierdzające, że osoba ubiegająca się o pożyczkę studencką lub kredyt studencki jest studentem. ” .
 
 **Art. 4.** W ustawie z dnia 27 lutego 2003 r. o utworzeniu Akademii Obrony Narodowej (Dz. U. Nr 56, poz. 496) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 ust. 2 otrzymuje brzmienie: „
 
-2. Tworzenie i prowadzenie kierunków studiów dotyczących innych nauk niż wojskowe oraz przyznawanie pomocy materialnej dla osób cywilnych kształcących się w Akademii odbywa się na zasadach i w trybie określonych w ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z późn. zm.). ” ;
+2. Tworzenie i prowadzenie kierunków studiów dotyczących innych nauk niż wojskowe oraz przyznawanie pomocy materialnej dla osób cywilnych kształcących się w Akademii odbywa się na zasadach i w trybie określonych w ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598.). ” ;
 
 - **2)** w art. 3 dodaje się ust. 4 w brzmieniu: „
 
@@ -343,7 +347,7 @@ source: "eli-html"
 
 - **1)** w art. 2 ust. 2 otrzymuje brzmienie: „
 
-2. Tworzenie i prowadzenie kierunków studiów dotyczących innych nauk niż wojskowe oraz przyznawanie pomocy materialnej dla osób cywilnych kształcących się w Akademii odbywa się na zasadach i w trybie określonych w ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z późn. zm.). ” ;
+2. Tworzenie i prowadzenie kierunków studiów dotyczących innych nauk niż wojskowe oraz przyznawanie pomocy materialnej dla osób cywilnych kształcących się w Akademii odbywa się na zasadach i w trybie określonych w ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598.). ” ;
 
 - **2)** w art. 3 dodaje się ust. 5 w brzmieniu: „
 
@@ -353,7 +357,7 @@ source: "eli-html"
 
 - **1)** w art. 2 ust. 2 otrzymuje brzmienie: „
 
-2. Tworzenie i prowadzenie kierunków studiów dotyczących innych nauk niż wojskowe oraz przyznawanie pomocy materialnej dla osób cywilnych kształcących się w Akademii odbywa się na zasadach i w trybie określonych w ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z późn. zm.). ” ;
+2. Tworzenie i prowadzenie kierunków studiów dotyczących innych nauk niż wojskowe oraz przyznawanie pomocy materialnej dla osób cywilnych kształcących się w Akademii odbywa się na zasadach i w trybie określonych w ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598.). ” ;
 
 - **2)** w art. 3 dodaje się ust. 4 w brzmieniu: „
 
@@ -365,7 +369,7 @@ source: "eli-html"
 
 - **1)** uczelni, o których mowa w ustawie wymienionej w art. 1, mogą otrzymywać świadczenia pomocy materialnej, o których mowa w ustawie wymienionej w art. 1,
 - **2)** uczelni, o których mowa w ustawie wymienionej w art. 2, mogą otrzymywać świadczenia pomocy materialnej, o których mowa w ustawie wymienionej w art. 2,
-- **3)** uczelni, o których mowa w ustawach wymienionych w art. 4–6, będący osobami cywilnymi mogą otrzymywać świadczenia pomocy materialnej, o których mowa w ustawie wymienionej w art. 1 z zastrzeżeniem ust. 2.
+- **3)** uczelni, o których mowa w ustawach wymienionych w art. 4–6, będący osobami cywilnymi mogą otrzymywać świadczenia pomocy materialnej, o których mowa w ustawie wymienionej w art. 1 – z zastrzeżeniem ust. 2.
 
 2. Świadczenia pomocy materialnej przyznawane na podstawie ust. 1 nie obejmują dopłat do zakwaterowania, dopłat do posiłków oraz stypendium ministra za osiągnięcia w nauce.
 
@@ -415,6 +419,6 @@ source: "eli-html"
 **Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 1 lit. b oraz pkt 2–4, pkt 5, w zakresie dotyczącym art. 152 ust. 1 pkt 1–3 i 5, oraz pkt 6 i 7 oraz art. 2 pkt 1–3, pkt 4, w zakresie dotyczącym art. 75 ust. 1 pkt 1–3 i 5, oraz pkt 5 i 6, które wchodzą w życie z dniem 1 października 2004 r.;
-- **2)** art. 1 pkt 5, w zakresie dotyczącym art. 152 ust. 1 pkt 4, oraz art. 2 pkt 4, w zakresie dotyczącym art. 75 ust. 1 pkt 4, które wchodzą w życie z dniem 1 stycznia 2005 r.
+- **2)** art. 1 pkt 5, w zakresie dotyczącym art. 152 ust. 1 pkt 4, oraz art. 2 pkt 4, w zakresie dotyczącym art. 75 ust. 1 pkt 4, które wchodzą w życie z dniem 1 stycznia 2005 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lutego 2003 r. o utworzeniu Akademii Obrony Narodowej, ustawę z dnia 27 lutego 2003 r. o utworzeniu Akademii Marynarki Wojennej im. Bohaterów Westerplatte, ustawę z dnia 27 lutego 2003 r. o utworzeniu Wojskowej Akademii Technicznej im. Jarosława Dąbrowskiego. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959 i Nr 116, poz. 1206. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1115, z 2002 r. Nr 4, poz. 31, Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 130, poz. 1112 i Nr 207, poz. 1752, z 2003 r. Nr 203, poz. 1966 oraz z 2004 r. Nr 96, poz. 959. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924 i Nr 111, poz. 1194, z 2002 r. Nr 4, poz. 33 i Nr 150, poz. 1239, z 2003 r. Nr 65, poz. 595, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959 i Nr 116, poz. 1206. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1115, z 2002 r. Nr 4, poz. 31, Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 130, poz. 1112 i Nr 207, poz. 1752, z 2003 r. Nr 203, poz. 1966 oraz z 2004 r. Nr 96, poz. 959. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924 i Nr 111, poz. 1194, z 2002 r. Nr 4, poz. 33 i Nr 150, poz. 1239, z 2003 r. Nr 65, poz. 595, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598.
 
 

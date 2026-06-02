@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 19 lipca 2021 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej
+# Rozporządzenie Ministra Zdrowiaz dnia 19 lipca 2021 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-07-19 |
 | Data wydania | 2021-07-20 |
-| Wejście w życie | 2021-07-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001327) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1327/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Zdrowia z dnia 4 września 2020 r. zmieniającym rozp
 1)
 w § 2a w ust. 1–2a wyrazy „30 czerwca” zastępuje się wyrazami „30 września”;
 2)
-po § 3b dodaje się § 3c w brzmieniu:
-„
+po § 3b dodaje się § 3c w brzmieniu: „
 § 3c.
 1.
 Dyrektor oddziału wojewódzkiego Narodowego Funduszu Zdrowia zalicza kwotę należności wynikającą z przedstawionej do rozliczenia większej liczby jednostek rozliczeniowych w danym okresie sprawozdawczym niż określona w planie rzeczowo-finansowym na ten okres na poczet rozliczenia środków wynikających z wypłaty świadczeniodawcy należności ustalonej na podstawie:
@@ -45,9 +43,7 @@ Dyrektor oddziału wojewódzkiego Narodowego Funduszu Zdrowia zalicza kwotę nal
 3)
 § 2a ust. 1, 2 lub 2a lub § 3, lub § 3a ust. 1 i 4, lub § 3b rozporządzenia.
 2.
-Zaliczenie, o którym mowa w ust. 1, może nastąpić do końca danego okresu rozliczeniowego.
-” .
+Zaliczenie, o którym mowa w ust. 1, może nastąpić do końca danego okresu rozliczeniowego. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 

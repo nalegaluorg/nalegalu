@@ -26,18 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001148) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1148/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity rozporządzenia Ministra Finansów z dnia 30 sierpnia 2013 r. w sprawie warunków emitowania bonów skarbowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Uczestnicy przetargów Rozdział 3 – Przetargi bonów Rozdział 4 – Przetarg sprzedaży Rozdział 5 Rozdział 5a – Sprzedaż dodatkowa Rozdział 6 – Rozrachunek przetargu sprzedaży i sprzedaży dodatkowej Rozdział 7 – Przetarg odkupu bonów Rozdział 8 – Wykup bonów
+Załącznik – Tekst jednolity rozporządzenia Ministra Finansów z dnia 30 sierpnia 2013 r. w sprawie warunków emitowania bonów skarbowych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 30 sierpnia 2013 r. w sprawie warunków emitowania bonów skarbowych (Dz. U. poz. 1088), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 22 maja 2019 r. zmieniającym rozporządzenie w sprawie warunków emitowania bonów skarbowych (Dz. U. poz. 1002).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 22 maja 2019 r. zmieniającego rozporządzenie w sprawie warunków emitowania bonów skarbowych (Dz. U. poz. 1002), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 22 maja 2019 r. zmieniającego rozporządzenie w sprawie warunków emitowania bonów skarbowych (Dz. U. poz. 1002), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 czerwca 2019 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 czerwca 2019 r. ” .
 Załącznik – Tekst jednolity rozporządzenia Ministra Finansów z dnia 30 sierpnia 2013 r. w sprawie warunków emitowania bonów skarbowych
-Na podstawie art. 97 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 97 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568 i 695.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa warunki emitowania bonów skarbowych, zwanych dalej „bonami”, w szczególności:
 1)
@@ -68,12 +67,12 @@ cenie przetargowej – rozumie się przez to cenę za wartość nominalną jedne
 minimalnej cenie sprzedaży – rozumie się przez to cenę przetargową ustaloną przez Ministra Finansów dla danego przetargu sprzedaży, stanowiącą najniższą przyjętą cenę przetargową bonów o danym terminie wykupu;
 7)
 ofercie niekonkurencyjnej – rozumie się przez to niezawierającą ceny przetargowej ofertę zakupu lub sprzedaży bonów o danym terminie wykupu;
-8)
+8W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 22 maja 2019 r. zmieniającego rozporządzenie w sprawie warunków emitowania bonów skarbowych (Dz. U. poz. 1002), które weszło w życie z dniem 1 czerwca 2019 r.)
 Rejestrze – rozumie się przez to prowadzony przez agenta emisji system rejestracji bonów skarbowych, w którym agent emisji dokonuje rejestracji stanu i zmian stanu posiadania bonów;
-9)
+9Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 DSPW – rozumie się przez to banki, instytucje kredytowe lub instytucje finansowe, a także ich oddziały, w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2019 r. poz. 2357 oraz z 2020 r. poz. 284, 288, 321 i 1086), z którymi Minister Finansów zawarł umowę w sprawie pełnienia funkcji Dealera Skarbowych Papierów Wartościowych.
 § 3.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Bony są nabywane i zbywane w drodze przetargu z dyskontem, z zastrzeżeniem ust. 2 i § 28a ust. 1.
 2.
 W celu zarządzania długiem Skarbu Państwa Minister Finansów może zawierać umowy z podmiotami, o których mowa w § 6 ust. 1, przyznające prawo zakupu lub przedstawienia do odkupu bonów poza przetargiem.
@@ -104,18 +103,19 @@ Bony mogą być nabywane przez osoby fizyczne, osoby prawne lub spółki nieposi
 Bony mogą być przedmiotem obrotu między podmiotami, o których mowa w ust. 1, przy zachowaniu warunków wynikających z przepisów regulujących obrót dewizowy, a także obrót instrumentami finansowymi oraz nadzór nad rynkiem kapitałowym.
 § 7.
 Listy emisyjne i komunikaty są publikowane na stronach internetowych Ministerstwa Finansów lub w innych środkach masowego przekazu o zasięgu ogólnopolskim.
+Uczestnicy przetargów
 § 8.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 W przetargach mogą brać udział:
 1)
 DSPW,
 2)
-banki państwowe w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, nieposiadające statusu DSPW
-zwani dalej „uczestnikami przetargu”.
+banki państwowe w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, nieposiadające statusu DSPW – zwani dalej „uczestnikami przetargu”.
 2.
 Szczegółowe warunki uczestnictwa w przetargach podmiotów, o których mowa w ust. 1 pkt 2, zostaną określone w umowie zawartej z Ministrem Finansów.
 § 9.
 Uczestnicy przetargu nabywają bony we własnym imieniu i na własny rachunek. Obowiązek zapłacenia ceny zakupu bonów ciąży na uczestniku przetargu.
+Przetargi bonów
 § 10.
 1.
 Przetargi bonów są organizowane przez agenta emisji.
@@ -142,6 +142,7 @@ Nie przydziela się ułamkowych części bonów.
 Wartość nominalna oferty przedstawionej przez uczestnika przetargu nie może być mniejsza od określonej w komunikacie.
 2.
 Oferty nabycia bonów złożone niezgodnie z warunkiem określonym w ust. 1 lub błędne pod względem rachunkowym, a także złożone po upływie terminu określonego w komunikacie zostają odrzucone.
+Przetarg sprzedaży
 § 14.
 Bony są oferowane na przetargach w terminach określonych w liście emisyjnym.
 § 15.
@@ -245,11 +246,12 @@ minimalną cenę sprzedaży i odpowiadającą jej rentowność, z dokładności�
 najwyższą cenę przetargową zgłoszoną przez uczestnika przetargu i odpowiadającą jej rentowność, z dokładnością do trzech miejsc po przecinku;
 12)
 stopę redukcji ofert zawierających minimalną cenę sprzedaży, z dokładnością do dwóch miejsc po przecinku, z wyszczególnieniem ofert niekonkurencyjnych, jeżeli były dopuszczone;
-13)
+13Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.)
 godziny, w jakich można składać oferty w ramach sprzedaży dodatkowej.
 2.
 W przypadku sprzedaży bonów na przetargu jednej ceny komunikat, o którym mowa w ust. 1, nie zawiera danych, o których mowa w ust. 1 pkt 10 i 11.
-(uchylony)
+(uchylony)Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
+Sprzedaż dodatkowa
 § 28a.
 1.
 DSPW, którzy nabyli bony na przetargu sprzedaży, mogą nabywać dodatkowe bony poza przetargiem sprzedaży (sprzedaż dodatkowa) na zasadach określonych w niniejszym rozdziale.
@@ -307,11 +309,12 @@ termin wykupu i kod ISIN bonów;
 cenę, o której mowa w § 28b;
 6)
 wartość nominalną sprzedanych bonów.
+Rozrachunek przetargu sprzedaży i sprzedaży dodatkowej
 § 29.
 1.
 Uczestnicy przetargu sprzedaży, których oferty zakupu zostały przyjęte, są obowiązani zapłacić za bony nabyte na przetargu kwotę wynikającą z odpowiedniej ceny przetargowej i liczby sprzedanych bonów (cena zakupu).
 2.
-Zapłata ceny zakupu następuje przez obciążenie rachunku, o którym mowa w § 18 pkt 5, a w przypadku sprzedaży dodatkowej – rachunku, o którym mowa w § 28d ust. 2 pkt 5. Termin zapłaty za bony nabyte na przetargu jest podawany w komunikacie.
+Zapłata ceny zakupu następuje przez obciążenie rachunku, o którym mowa w § 18 pkt 5, a w przypadku sprzedaży dodatkowej – rachunku, o którym mowa w § 28d ust. 2 pkt 5.Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. Termin zapłaty za bony nabyte na przetargu jest podawany w komunikacie.
 § 30.
 1.
 W przypadku nieuiszczenia w dniu zapłaty ceny zakupu będą naliczane odsetki.
@@ -324,10 +327,11 @@ Nie można dokonać częściowego rozrachunku pojedynczej transakcji.
 Jeżeli cena zakupu, powiększona o narosłe odsetki w wysokości, o której mowa w § 30 ust. 2, nie zostanie zapłacona najpóźniej piątego dnia roboczego po dniu rozrachunku przetargu, uważa się, że odstąpiono od nabycia bonów, a uczestnik przetargu zobowiązany jest do zapłaty odstępnego.
 2.
 Wysokość odstępnego, o którym mowa w ust. 1, obliczona będzie jako iloczyn dwukrotności oprocentowania kredytu lombardowego ustalanego przez Narodowy Bank Polski, kwoty nierozrachowanej pojedynczej transakcji oraz 5/365.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2..
 Odstępne jest pobierane z rachunku, o którym mowa w § 18 pkt 5, a w przypadku sprzedaży dodatkowej z rachunku, o którym mowa w § 28d ust. 2 pkt 5 – w następnym dniu roboczym po dniu, o którym mowa w ust. 1.
-§ 32.
+§ 32W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku sprzedaży dodatkowej przepisy § 29–31 stosuje się odpowiednio.
+Przetarg odkupu bonów
 § 33.
 1.
 Minister Finansów może odkupować bony przed upływem terminu, na jaki zostały wyemitowane.
@@ -424,6 +428,7 @@ Jeżeli uczestnik przetargu nie dostarczy odpowiedniej liczby bonów oraz nie ui
 Wysokość odstępnego, o którym mowa w ust. 6, obliczona będzie jako iloczyn dwukrotności oprocentowania kredytu lombardowego ustalanego przez Narodowy Bank Polski, ceny przetargowej, liczby bonów oferowanych do odkupu w danej transakcji odkupu oraz 5/365.
 8.
 Odstępne jest pobierane z rachunku, o którym mowa w § 36 ust. 1 pkt 7, w następnym dniu roboczym po dniu, o którym mowa w ust. 6.
+Wykup bonów
 § 40.
 1.
 Bieg terminu wykupu bonów, o których mowa w § 4 ust. 2 pkt 1, rozpoczyna się od określonego w komunikacie dnia zapłaty za te bony.
@@ -445,23 +450,45 @@ Do sprzedaży i odkupu bonów, które zostaną wyemitowane na podstawie listów 
 § 44.
 Traci moc rozporządzenie Ministra Finansów z dnia 20 grudnia 2010 r. w sprawie warunków emitowania bonów skarbowych (Dz. U. poz. 1679).
 § 45.
-Rozporządzenie wchodzi w życie z dniem 1 października 2013 r.
+Rozporządzenie wchodzi w życie z dniem 1 października 2013 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568 i 695. 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 22 maja 2019 r. zmieniającego rozporządzenie w sprawie warunków emitowania bonów skarbowych (Dz. U. poz. 1002), które weszło w życie z dniem 1 czerwca 2019 r. 3) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 6) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 7) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 8) Rozdział dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 9) Tytuł rozdziału w brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 10) Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 12) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Uczestnicy przetargów
+#### Rozdział 2 – Uczestnicy przetargów
 
-#### Rozdział 3 Przetargi bonów
+#### Rozdział 3 – Przetargi bonów
 
-#### Rozdział 4 Przetarg sprzedaży
+#### Rozdział 4 – Przetarg sprzedaży
 
 #### Rozdział 5
 
-#### Rozdział 5a Sprzedaż dodatkowa
+#### Rozdział 5a – Sprzedaż dodatkowa
 
-#### Rozdział 6 Rozrachunek przetargu sprzedaży i sprzedaży dodatkowej
+#### Rozdział 6 – Rozrachunek przetargu sprzedaży i sprzedaży dodatkowej
 
-#### Rozdział 7 Przetarg odkupu bonów
+#### Rozdział 7 – Przetarg odkupu bonów
 
-#### Rozdział 8 Wykup bonów
+#### Rozdział 8 – Wykup bonów
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 5a
+
+#### Rozdział dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2.
+
+#### Rozdział 6
+
+## Tytuł rozdziału w brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2.
+
+#### Rozdział 7
+
+#### Rozdział 8
 

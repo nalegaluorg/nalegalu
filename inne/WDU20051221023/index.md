@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-06-03 |
 | Data wydania | 2005-07-07 |
-| Wejście w życie | 2005-07-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051221023) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1023/text.pdf) |
 
@@ -168,7 +167,7 @@ source: "eli-html"
 - **13)** w art. 16 wyrazy „art. 11 ust. 1,” zastępuje się wyrazami „art. 11a ust. 1, art. 11e ust. 1, art. 11g ust. 1,”;
 - **14)** dodaje się art. 16a w brzmieniu: „
 
-**Art. 16a.** Komisja może zezwolić przedstawicielom prasy, w rozumieniu przepisów ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. Nr 5, poz. 24, z późn. zm.), na dokonywanie za pomocą aparatury utrwalenia obrazu lub dźwięku z posiedzenia komisji, gdy przemawia za tym interes publiczny; dokonywanie tych czynności nie będzie utrudniać przebiegu posiedzenia, a ważny interes osoby wezwanej nie sprzeciwia się temu. ” ;
+**Art. 16a.** Komisja może zezwolić przedstawicielom prasy, w rozumieniu przepisów ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. Nr 5, poz. 24, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 34, poz. 187, z 1990 r. Nr 29, poz. 173, z 1991 r. Nr 100, poz. 442, z 1996 r. Nr 114, poz. 542, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 90, poz. 999, z 2001 r. Nr 112, poz. 1198, z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 111, poz. 1181 oraz z 2005 r. Nr 39, poz. 377.), na dokonywanie za pomocą aparatury utrwalenia obrazu lub dźwięku z posiedzenia komisji, gdy przemawia za tym interes publiczny; dokonywanie tych czynności nie będzie utrudniać przebiegu posiedzenia, a ważny interes osoby wezwanej nie sprzeciwia się temu. ” ;
 
 - **15)** w art. 17 ust. 1 otrzymuje brzmienie: „
 
@@ -204,5 +203,5 @@ source: "eli-html"
 
 **Art. 2.** Do postępowań prowadzonych przez komisje śledcze, rozpoczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy niniejszej ustawy, z tym że czynności dokonane zgodnie z przepisami dotychczasowymi zachowują swoją ważność.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 34, poz. 187, z 1990 r. Nr 29, poz. 173, z 1991 r. Nr 100, poz. 442, z 1996 r. Nr 114, poz. 542, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 90, poz. 999, z 2001 r. Nr 112, poz. 1198, z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 111, poz. 1181 oraz z 2005 r. Nr 39, poz. 377.
 

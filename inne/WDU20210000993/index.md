@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Zagranicznychz dnia 28 maja 2021 r. w sprawie państw, w których cudzoziemcy mogą składać wnioski o wydanie wizy przez ministra właściwego do spraw zagranicznych
+# Rozporządzenie Ministra Spraw Zagranicznychz dnia 28 maja 2021 r. w sprawie państw, w których cudzoziemcy mogą składać wnioski o wydanie wizy przez ministra właściwego do spraw zagranicznych Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 1469).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-28 |
 | Data wydania | 2021-05-31 |
-| Wejście w życie | 2021-06-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000993) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/993/text.pdf) |
 
@@ -35,8 +34,7 @@ Rozporządzenie określa państwa, w których cudzoziemcy mogą składać wniosk
 § 2.
 Państwa, o których mowa w § 1, są określone w załączniku do rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 1469).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 1469).
 Załącznik – Państwa, w których cudzoziemcy mogą składać wnioski o wydanie wizy przez ministra właściwego do spraw zagranicznych
 1.
 Republika Białorusi.

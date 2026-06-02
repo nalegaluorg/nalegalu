@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 26 kwietnia 2024 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w zakresie programu „Fundusze Europejskie dla Nowoczesnej Gospodarki 2021−2027”
+# Rozporządzenie Ministra Finansówz dnia 26 kwietnia 2024 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w zakresie programu „Fundusze Europejskie dla Nowoczesnej Gospodarki 2021−2027” Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-26 |
 | Data wydania | 2024-04-30 |
-| Wejście w życie | 2024-05-01 |
 | Ostatnia zmiana | 2024-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000672) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/672/text.pdf) |
 
@@ -36,11 +35,11 @@ Do pomocy de minimis udzielanej na podstawie niniejszego rozporządzenia nie sto
 § 2.
 Ilekroć w rozporządzeniu jest mowa o przedsiębiorcy, należy przez to rozumieć:
 1)
-mikroprzedsiębiorcę, małego lub średniego przedsiębiorcę w rozumieniu art. 2 pkt 2 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.);
+mikroprzedsiębiorcę, małego lub średniego przedsiębiorcę w rozumieniu art. 2 pkt 2 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.);
 2)
 małą spółkę o średniej kapitalizacji w rozumieniu art. 2 pkt 103e rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu;
 3)
-spółkę o średniej kapitalizacji w rozumieniu art. 2 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/1017 z dnia 25 czerwca 2015 r. w sprawie Europejskiego Funduszu na rzecz Inwestycji Strategicznych, Europejskiego Centrum Doradztwa Inwestycyjnego i Europejskiego Portalu Projektów Inwestycyjnych oraz zmieniającego rozporządzenia (UE) nr 1291/2013 i (UE) nr 1316/2013 – Europejski Fundusz na rzecz Inwestycji Strategicznych (Dz. Urz. UE L 169 z 01.07.2015, str. 1, z późn. zm.).
+spółkę o średniej kapitalizacji w rozumieniu art. 2 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/1017 z dnia 25 czerwca 2015 r. w sprawie Europejskiego Funduszu na rzecz Inwestycji Strategicznych, Europejskiego Centrum Doradztwa Inwestycyjnego i Europejskiego Portalu Projektów Inwestycyjnych oraz zmieniającego rozporządzenia (UE) nr 1291/2013 i (UE) nr 1316/2013 – Europejski Fundusz na rzecz Inwestycji Strategicznych (Dz. Urz. UE L 169 z 01.07.2015, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 345 z 27.12.2017, str. 34 oraz Dz. Urz. UE L 107 z 26.03.2021, str. 30.).
 § 3.
 1.
 Pomoc de minimis jest udzielana przedsiębiorcy w formie gwarancji spłaty kredytu przeznaczonego na finansowanie:
@@ -51,8 +50,7 @@ inwestycji służących transformacji cyfrowej,
 3)
 inwestycji w celu zwiększenia efektywności energetycznej przedsiębiorstwa,
 4)
-bieżącej działalności gospodarczej innowacyjnego przedsiębiorstwa
-udzielanej przez BGK zgodnie z przepisami rozporządzenia Komisji (UE) 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 2023/2831 z 15.12.2023), zwanego dalej „rozporządzeniem Komisji”.
+bieżącej działalności gospodarczej innowacyjnego przedsiębiorstwa – udzielanej przez BGK zgodnie z przepisami rozporządzenia Komisji (UE) 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 2023/2831 z 15.12.2023), zwanego dalej „rozporządzeniem Komisji”.
 2.
 Pomoc de minimis nie może być udzielona w przypadkach wskazanych w art. 1 ust. 1 rozporządzenia Komisji.
 § 4.
@@ -92,6 +90,5 @@ Gwarancja może być udzielana do końca sześciomiesięcznego okresu następuj�
 § 12.
 Traci moc rozporządzenie Ministra Finansów z dnia 25 września 2023 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w zakresie programu „Fundusze Europejskie dla Nowoczesnej Gospodarki 2021–2027” (Dz. U. poz. 2050).
 § 13.
-Rozporządzenie wchodzi w życie z dniem 1 maja 2024 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 345 z 27.12.2017, str. 34 oraz Dz. Urz. UE L 107 z 26.03.2021, str. 30.
+Rozporządzenie wchodzi w życie z dniem 1 maja 2024 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 345 z 27.12.2017, str. 34 oraz Dz. Urz. UE L 107 z 26.03.2021, str. 30.
 

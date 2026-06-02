@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 3 stycznia 2020 r. zmieniające rozporządzenie w sprawie badań lekarskich i psychologicznych osób występujących o wydanie pozwolenia na broń lub zgłaszających do rejestru broń pneumatyczną oraz posiadających pozwolenie na broń lub zarejestrowaną broń pneumatyczną
+# Rozporządzenie Ministra Zdrowiaz dnia 3 stycznia 2020 r. zmieniające rozporządzenie w sprawie badań lekarskich i psychologicznych osób występujących o wydanie pozwolenia na broń lub zgłaszających do rejestru broń pneumatyczną oraz posiadających pozwolenie na broń lub zarejestrowaną broń pneumatyczną Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-03 |
 | Data wydania | 2020-01-13 |
-| Wejście w życie | 2020-01-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000045) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/45/text.pdf) |
 
@@ -40,6 +39,5 @@ rozpoczęte i niezakończone przed dniem 21 sierpnia 2019 r. – są prowadzone 
 2.
 Zaświadczenia o wpisie do rejestru lekarzy upoważnionych oraz zaświadczenia o wpisie do rejestru psychologów upoważnionych, o których mowa odpowiednio w art. 15b ust. 2 i art. 15c ust. 2 ustawy z dnia 21 maja 1999 r. o broni i amunicji, wydane przed dniem 21 sierpnia 2019 r., zachowują ważność.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 

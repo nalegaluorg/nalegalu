@@ -22,25 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-28 |
 | Data wydania | 2017-08-30 |
-| Wejście w życie | 2017-08-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001640) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1640/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2016 r. poz. 1512 i 2048 oraz z 2017 r. poz. 624 i 1503) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912 oraz z 2017 r. poz. 166 i 1479.) wprowadza się następujące zmiany:
 1)
-w § 2 w ust. 1 pkt 6 otrzymuje brzmienie:
-„
+w § 2 w ust. 1 pkt 6 otrzymuje brzmienie: „
 6)
-realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa, rozwoju wsi, rynków rolnych i przetwórstwa produktów rolnych lub ze Wspólnej Polityki Rolnej lub w zakresie objętym działem administracji rządowej – rybołówstwo.
-” ;
+realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa, rozwoju wsi, rynków rolnych i przetwórstwa produktów rolnych lub ze Wspólnej Polityki Rolnej lub w zakresie objętym działem administracji rządowej – rybołówstwo. ” ;
 2)
 w § 13l w ust. 10 w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ zapowietrzonym lub zagrożonym w związku z wystąpieniem afrykańskiego pomoru świń, ustanowionym zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt: ” ;
 3)
-po § 13l dodaje się § 13m w brzmieniu:
-„
+po § 13l dodaje się § 13m w brzmieniu: „
 § 13m.
 1.
 W 2017 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa, rozwoju wsi, rynków rolnych i przetwórstwa produktów rolnych, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu:
@@ -113,8 +109,7 @@ W przypadku gdy łączna wysokość pomocy, o której mowa w ust. 1, z wyłącze
 12.
 Pomoc, o której mowa w ust. 1, z wyłączeniem pomocy udzielanej producentowi rolnemu w związku ze szkodami w lasach spowodowanymi wystąpieniem w sierpniu 2017 r. huraganu, deszczu nawalnego lub gradu, nie przysługuje, jeżeli łączna kwota pomocy otrzymanej na podstawie odrębnych przepisów oraz otrzymanych odszkodowań przekracza kwotę, o której mowa w § 5 ust. 11.
 13.
-Pomoc, o której mowa w ust. 1, w przypadku szkód spowodowanych wystąpieniem w sierpniu 2017 r. huraganu, deszczu nawalnego lub gradu w uprawach rolnych pomniejsza się o 50%, jeżeli w 2017 r. co najmniej 50% powierzchni upraw rolnych w gospodarstwie rolnym lub dziale specjalnym produkcji rolnej, z wyłączeniem łąk i pastwisk, nie było ubezpieczonych co najmniej od jednego z ryzyk, o których mowa w § 2 ust. 1 pkt 3.
-” .
+Pomoc, o której mowa w ust. 1, w przypadku szkód spowodowanych wystąpieniem w sierpniu 2017 r. huraganu, deszczu nawalnego lub gradu w uprawach rolnych pomniejsza się o 50%, jeżeli w 2017 r. co najmniej 50% powierzchni upraw rolnych w gospodarstwie rolnym lub dziale specjalnym produkcji rolnej, z wyłączeniem łąk i pastwisk, nie było ubezpieczonych co najmniej od jednego z ryzyk, o których mowa w § 2 ust. 1 pkt 3. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912 oraz z 2017 r. poz. 166 i 1479.
 

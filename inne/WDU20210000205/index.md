@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 26 stycznia 2021 r. w sprawie warunków stosowania niektórych zwolnień od podatku akcyzowego
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 26 stycznia 2021 r. w sprawie warunków stosowania niektórych zwolnień od podatku akcyzowego Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-01-26 |
 | Data wydania | 2021-01-29 |
-| Wejście w życie | 2021-02-01 |
 | Ostatnia zmiana | 2026-05-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000205) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/205/text.pdf) |
 
@@ -46,8 +45,7 @@ sprzedaży na terytorium kraju przez pośredniczący podmiot węglowy finalnemu 
 2)
 nabycia wewnątrzwspólnotowego przez finalnego nabywcę węglowego korzystającego ze zwolnienia, o którym mowa w art. 31a ust. 1 ustawy,
 3)
-importu przez finalnego nabywcę węglowego korzystającego ze zwolnienia, o którym mowa w art. 31a ust. 1 ustawy
-wyrobów węglowych w ilości nieprzekraczającej 200 kg jednorazowo, dla zastosowania zwolnienia od akcyzy nie muszą być spełnione warunki, o których mowa w art. 31a ust. 3 ustawy.
+importu przez finalnego nabywcę węglowego korzystającego ze zwolnienia, o którym mowa w art. 31a ust. 1 ustawy – wyrobów węglowych w ilości nieprzekraczającej 200 kg jednorazowo, dla zastosowania zwolnienia od akcyzy nie muszą być spełnione warunki, o których mowa w art. 31a ust. 3 ustawy.
 § 4.
 1.
 Zwolnienie, o którym mowa w art. 32 ust. 1 pkt 2 ustawy, w przypadku olejów opałowych i olejów napędowych, podlegających znakowaniu i barwieniu na podstawie art. 90 ust. 1 pkt 1 i 3 ustawy, ma zastosowanie pod warunkiem ich prawidłowego oznaczenia i zabarwienia, zgodnie z przepisami wydanymi na podstawie art. 90 ust. 3 ustawy, z wyjątkiem wyrobów określonych w art. 90 ust. 1a ustawy.
@@ -66,6 +64,5 @@ W przypadku zwolnienia, o którym mowa w art. 32 ust. 1 pkt 3 ustawy, nie muszą
 § 6.
 Do dnia odwołania stanu epidemii, ogłoszonego na obszarze Rzeczypospolitej Polskiej w związku z wirusem SARS-CoV-2 na podstawie art. 46 ust. 2 i 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845, 2112 i 2401 oraz z 2021 r. poz. 159), w przypadku sprzedaży na terytorium kraju przez pośredniczący podmiot węglowy finalnemu nabywcy węglowemu korzystającemu ze zwolnienia, o którym mowa w art. 31a ust. 1 ustawy, wyrobów węglowych w ilości przekraczającej 200 kg, a nieprzekraczającej 2000 kg jednorazowo, dla zastosowania zwolnienia od akcyzy nie musi być spełniony warunek, o którym mowa w art. 31a ust. 3 pkt 1 lit. a ustawy, w zakresie dotyczącym uzyskania od finalnego nabywcy węglowego oświadczenia, że odebrane przez niego wyroby węglowe są przeznaczone do celów uprawniających do zwolnienia od akcyzy.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 lutego 2021 r.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 12 grudnia 2018 r. w sprawie warunków stosowania niektórych zwolnień od podatku akcyzowego (Dz. U. poz. 2379 oraz z 2020 r. poz. 2248), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 10 grudnia 2020 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. z 2021 r. poz. 72).
+Rozporządzenie wchodzi w życie z dniem 1 lutego 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 12 grudnia 2018 r. w sprawie warunków stosowania niektórych zwolnień od podatku akcyzowego (Dz. U. poz. 2379 oraz z 2020 r. poz. 2248), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 10 grudnia 2020 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. z 2021 r. poz. 72). 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 12 grudnia 2018 r. w sprawie warunków stosowania niektórych zwolnień od podatku akcyzowego (Dz. U. poz. 2379 oraz z 2020 r. poz. 2248), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 10 grudnia 2020 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. z 2021 r. poz. 72).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
+# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych, ustawę z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych, ustawę z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury, ustawę z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa, ustawę z dnia 28 stycznia 2016 r. – Prawo o prokuraturze, ustawę z dnia 11 maja 2017 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury, ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw, ustawę z dnia 8 grudnia 2017 r. o Sądzie Najwyższym oraz ustawę z dnia 22 marca 2018 r. o komornikach sądowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-07-26 |
-| Wejście w życie | 2018-08-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001443) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1443/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, z późn. zm.) wprowadza się następujące zmiany:
+Aplikacje sędziowska i prokuratorska prowadzone w formie aplikacji uzupełniających
+
+**Art. 1.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 3, 5, 106, 138, 771, 848, 1000 i 1045.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w § 1a: wprowadzenie do wyliczenia otrzymuje brzmienie: „ W sądach rejonowych zadania z zakresu wymiaru sprawiedliwości wykonują także asesorzy sądowi, z wyłączeniem: ” , pkt 3 otrzymuje brzmienie: „
     - **a)**
@@ -321,7 +322,7 @@ source: "eli-html"
 
 - **5)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Aplikacje sędziowska i prokuratorska prowadzone w formie aplikacji uzupełniających
+#### Rozdział 3a
 
 **Art. 37a.**
 
@@ -539,11 +540,14 @@ source: "eli-html"
 
 **Art. 9.** W ustawie z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771) wprowadza się następujące zmiany:
 
-- **1)** w art. 269: w pkt 1: – w lit. a polecenie nowelizacyjne otrzymuje brzmienie: „ w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu:” oraz oznaczenie „5)” zastępuje się oznaczeniem „7) ” , – lit. b otrzymuje brzmienie: „ b) dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „ § 2. Rozpoznawanie spraw, o których mowa w § 1 pkt 7, należących do właściwości sądu rejonowego, w którym nie utworzono wydziału do tych spraw, Minister Sprawiedliwości przekazuje innemu sądowi rejonowemu, w trybie określonym w art. 20.”, ” , ” , w pkt 2 w lit. b wyrazy „art. 12 § 1a pkt 5” zastępuje się wyrazami „art. 12 § 1 pkt 7”, w pkt 3 wyrazy „art. 12 § 1a pkt 5” zastępuje się wyrazami „art. 12 § 1 pkt 7”;
+- **1)** w art. 269: w pkt 1: – w lit. a polecenie nowelizacyjne otrzymuje brzmienie: „ w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu:” oraz oznaczenie „5)” zastępuje się oznaczeniem „7) ” , lit. b otrzymuje brzmienie: „ dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „
     - **a)**
     - **b)**
-    - **c)**
 
+§ 2. Rozpoznawanie spraw, o których mowa w § 1 pkt 7, należących do właściwości sądu rejonowego, w którym nie utworzono wydziału do tych spraw, Minister Sprawiedliwości przekazuje innemu sądowi rejonowemu, w trybie określonym w art. 20.”, ” , ” , w pkt 2 w lit. b wyrazy „art. 12 § 1a pkt 5” zastępuje się wyrazami „art. 12 § 1 pkt 7”, w pkt 3 wyrazy „art. 12 § 1a pkt 5” zastępuje się wyrazami „art. 12 § 1 pkt 7”;
+
+- **b)**
+- **c)**
 - **2)** w art. 297 wyrazy „art. 12 § 1a pkt 5” zastępuje się wyrazami „art. 12 § 1 pkt 7”;
 - **3)** art. 306 otrzymuje brzmienie: „
 
@@ -593,6 +597,6 @@ source: "eli-html"
 **Art. 24.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 5, art. 8 i art. 22, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 9, który wchodzi w życie z dniem 1 stycznia 2019 r.
+- **2)** art. 9, który wchodzi w życie z dniem 1 stycznia 2019 r. 1) Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych, ustawę z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych, ustawę z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury, ustawę z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa, ustawę z dnia 28 stycznia 2016 r. – Prawo o prokuraturze, ustawę z dnia 11 maja 2017 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury, ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw, ustawę z dnia 8 grudnia 2017 r. o Sądzie Najwyższym oraz ustawę z dnia 22 marca 2018 r. o komornikach sądowych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 3, 5, 106, 138, 771, 848, 1000 i 1045.
 
 

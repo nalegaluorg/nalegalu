@@ -26,13 +26,16 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001354) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1354/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 18 stycznia 2001 r. o wyścigach konnych Rozdział 1 – Przepisy ogólne Rozdział 2 – Polski Klub Wyścigów Konnych Rozdział 3 – Organizowanie wyścigów konnych Rozdział 3a – Warunki i tryb udzielania pozwoleń i licencji Rozdział 4 – Odpowiedzialność dyscyplinarna Rozdział 5 – Przepisy karne Rozdział 6 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 18 stycznia 2001 r. o wyścigach konnych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 stycznia 2001 r. o wyścigach konnych (Dz. U. z 2017 r. poz. 194), z uwzględnieniem zmian wprowadzonych ustawą z dnia 31 lipca 2019 r. o zmianie niektórych ustaw w celu ograniczenia obciążeń regulacyjnych (Dz. U. poz. 1495 oraz z 2020 r. poz. 568 i 875) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 lipca 2020 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 86 ustawy z dnia 31 lipca 2019 r. o zmianie niektórych ustaw w celu ograniczenia obciążeń regulacyjnych (Dz. U. poz. 1495 oraz z 2020 r. poz. 568 i 875), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 86 ustawy z dnia 31 lipca 2019 r. o zmianie niektórych ustaw w celu ograniczenia obciążeń regulacyjnych (Dz. U. poz. 1495 oraz z 2020 r. poz. 568 i 875), który stanowi: „
+Przepisy ogólne
+Polski Klub Wyścigów Konnych
+Organizowanie wyścigów konnych
+Warunki i tryb udzielania pozwoleń i licencji
 1.
 Pozwolenie na kierowanie stajnią wyścigową w danym roku kalendarzowym może być udzielone osobie, która:
 1)
@@ -49,9 +52,9 @@ zaświadczenie albo oświadczenie wnioskodawcy o spełnieniu warunków, o który
 Minister właściwy do spraw rolnictwa określi wzór wniosku, o którym mowa w ust. 2, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 3.
 Prezes udziela albo odmawia udzielenia pozwolenia na kierowanie stajnią wyścigową w drodze decyzji.
-3a.
+3aDodany przez art. 24 pkt 2 ustawy, o której mowa w odnośniku 1..
 Do postępowania w sprawie udzielenia pozwolenia na kierowanie stajnią wyścigową stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
-3b.
+3bDodany przez art. 24 pkt 2 ustawy, o której mowa w odnośniku 1..
 Do postępowania w sprawie udzielenia pozwolenia na kierowanie stajnią wyścigową nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 4.
 Od decyzji, o której mowa w ust. 3, przysługuje odwołanie do ministra właściwego do spraw rolnictwa.
@@ -97,9 +100,9 @@ odpowiedni staż pracy lub okres wykonywania czynności związanych z obsługą 
 Minister właściwy do spraw rolnictwa określi wzór wniosku, o którym mowa w ust. 4, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 6.
 Prezes udziela albo odmawia udzielenia licencji na trenowanie koni w drodze decyzji.
-6a.
+6aDodany przez art. 24 pkt 3 ustawy, o której mowa w odnośniku 1..
 Do postępowania w sprawie udzielenia licencji na trenowanie koni stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
-6b.
+6bDodany przez art. 24 pkt 3 ustawy, o której mowa w odnośniku 1..
 Do postępowania w sprawie udzielenia licencji na trenowanie koni nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 7.
 Od decyzji, o której mowa w ust. 6, przysługuje odwołanie do ministra właściwego do spraw rolnictwa.
@@ -133,9 +136,9 @@ Do wniosku dołącza się kopię dokumentu potwierdzającego posiadane wykształ
 Minister właściwy do spraw rolnictwa określi wzór wniosku, o którym mowa w ust. 3, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 5.
 Prezes udziela albo odmawia udzielenia licencji na dosiadanie (powożenie) koni w drodze decyzji.
-5a.
+5aDodany przez art. 24 pkt 4 ustawy, o której mowa w odnośniku 1..
 Do postępowania w sprawie udzielenia licencji na dosiadanie (powożenie) koni stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
-5b.
+5bDodany przez art. 24 pkt 4 ustawy, o której mowa w odnośniku 1..
 Do postępowania w sprawie udzielenia licencji na dosiadanie (powożenie) nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 6.
 Od decyzji, o której mowa w ust. 5, przysługuje odwołanie do ministra właściwego do spraw rolnictwa.
@@ -183,13 +186,30 @@ Do wniosku dołącza się kopię dokumentu potwierdzającego posiadane wykształ
 Minister właściwy do spraw rolnictwa określi wzór wniosku, o którym mowa w ust. 5, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 7.
 Prezes udziela albo odmawia udzielenia licencji na pełnienie funkcji sędziego wyścigowego w drodze decyzji.
-7a.
+7aDodany przez art. 24 pkt 5 ustawy, o której mowa w odnośniku 1..
 Do postępowania w sprawie udzielenia licencji na pełnienie funkcji sędziego wyścigowego stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
-7b.
+7bDodany przez art. 24 pkt 5 ustawy, o której mowa w odnośniku 1..
 Do postępowania w sprawie udzielenia licencji na pełnienie funkcji sędziego wyścigowego nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 8.
 Od decyzji, o której mowa w ust. 7, przysługuje odwołanie do ministra właściwego do spraw rolnictwa.
 Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wysokość opłat na rzecz Klubu za udzielenie pozwolenia na kierowanie stajnią wyścigową i licencji na trenowanie koni oraz dosiadanie (powożenie) koni, a także pełnienie funkcji sędziego wyścigowego, różnicując je w zależności od przedmiotu licencji, oraz za rejestrację barw wyścigowych i zgłoszenie konia do wyścigów.
+Odpowiedzialność dyscyplinarna
+Przepisy karne
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Polski Klub Wyścigów Konnych
+
+#### Rozdział 3 – Organizowanie wyścigów konnych
+
+#### Rozdział 3a – Warunki i tryb udzielania pozwoleń i licencji
+
+#### Rozdział 4 – Odpowiedzialność dyscyplinarna
+
+#### Rozdział 5 – Przepisy karne
+
+#### Rozdział 6 – Przepisy przejściowe i końcowe
 
 **Art. 86.** Ustawa wchodzi w życie z dniem 1 stycznia 2020 r., z wyjątkiem:
 
@@ -200,7 +220,7 @@ Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wysok
 - **5)** art. 1 pkt 1–3, art. 55 oraz art. 70, które wchodzą w życie z dniem 1 stycznia 2021 r.
 - **6)** art. 33 pkt 2 i 4, które wchodzą w życie z dniem 1 lipca 2020 r.;
 - **7)** art. 62 pkt 6 lit. a tiret trzecie, lit. b i e i pkt 7 oraz art. 73 ust. 1–8, które wchodzą w życie z dniem 1 października 2020 r.;
-- **8)** art. 14: pkt 1: – lit. a i lit. b w zakresie uchylonego art. 4ba ust. 6, – lit. c w zakresie dodanego art. 4ba ust. 9, pkt 4: – lit. a i lit. b w zakresie uchylonego art. 43d ust. 2, – lit. c w zakresie dodanego art. 43d ust. 6, pkt 5, pkt 6 w zakresie dodanego art. 43f ust. 1–3 i 5 które wchodzą w życie z dniem 1 lipca 2023 r.;
+- **8)** art. 14: pkt 1: – lit. a i lit. b w zakresie uchylonego art. 4ba ust. 6, – lit. c w zakresie dodanego art. 4ba ust. 9, pkt 4: – lit. a i lit. b w zakresie uchylonego art. 43d ust. 2, – lit. c w zakresie dodanego art. 43d ust. 6, pkt 5, pkt 6 w zakresie dodanego art. 43f ust. 1–3 i 5 – które wchodzą w życie z dniem 1 lipca 2023 r.;
     - **a)**
     - **b)**
     - **c)**
@@ -208,7 +228,7 @@ Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wysok
 
 - **9)** art. 63 pkt 1 lit. b i pkt 2 oraz art. 68, które wchodzą w życie z dniem wystąpienia Zjednoczonego Królestwa z Unii Europejskiej bez zawarcia umowy, o której mowa w art. 50 ust. 2 zdanie drugie Traktatu o Unii Europejskiej (Dz. U. z 2004 r. poz. 864). ” . Załącznik – Tekst jednolity ustawy z dnia 18 stycznia 2001 r. o wyścigach konnych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa reguluje zasady organizowania wyścigów konnych na terytorium Rzeczypospolitej Polskiej oraz działalność Polskiego Klubu Wyścigów Konnych.
 
@@ -229,7 +249,7 @@ Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wysok
 - **13)** przewinienie dyscyplinarne – czyn naruszający postanowienia regulaminu wyścigów konnych;
 - **14)** protest – zastrzeżenie w sprawie nieprzestrzegania postanowień regulaminu wyścigów konnych dotyczących gonitwy, wniesione przez osobę uprawnioną w czasie i trybie określonych w tym regulaminie.
 
-#### Rozdział 2 Polski Klub Wyścigów Konnych
+#### Rozdział 2
 
 **Art. 3.**
 
@@ -423,7 +443,7 @@ Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wysok
 
 3. Minister właściwy do spraw rolnictwa przyjmuje albo odrzuca sprawozdanie, o którym mowa w ust. 1, mając na względzie właściwą realizację przez Klub zadań określonych w ustawie.
 
-#### Rozdział 3 Organizowanie wyścigów konnych
+#### Rozdział 3
 
 **Art. 16.**
 
@@ -481,17 +501,13 @@ Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wysok
 
 1. Gonitwy przeprowadzane są według planu rocznego, zatwierdzanego przez Prezesa na podstawie wniosków organizatorów wyścigów konnych.
 
-2. Przeprowadzenie dodatkowych gonitw wymaga zgody Prezesa.
-
-3. Do postępowania w sprawie wyrażenia zgody na przeprowadzenie dodatkowej gonitwy stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256 i 695).
-
-4. Do postępowania w sprawie wyrażenia zgody na przeprowadzenie dodatkowej gonitwy nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+2. Przeprowadzenie dodatkowych gonitw wymaga zgody Prezesa. 3Dodany przez art. 24 pkt 1 ustawy z dnia 31 lipca 2019 r. o zmianie niektórych ustaw w celu ograniczenia obciążeń regulacyjnych (Dz. U. poz. 1495 oraz z 2020 r. poz. 568 i 875), która weszła w życie z dniem 1 stycznia 2020 r.. Do postępowania w sprawie wyrażenia zgody na przeprowadzenie dodatkowej gonitwy stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256 i 695). 4Dodany przez art. 24 pkt 1 ustawy z dnia 31 lipca 2019 r. o zmianie niektórych ustaw w celu ograniczenia obciążeń regulacyjnych (Dz. U. poz. 1495 oraz z 2020 r. poz. 568 i 875), która weszła w życie z dniem 1 stycznia 2020 r.. Do postępowania w sprawie wyrażenia zgody na przeprowadzenie dodatkowej gonitwy nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 21.** W gonitwie mogą brać udział wyłącznie konie, które zostały zgłoszone zgodnie z warunkami określonymi w regulaminie wyścigów konnych. (uchylony)
 
-#### Rozdział 3a Warunki i tryb udzielania pozwoleń i licencji
+#### Rozdział 3a
 
-#### Rozdział 4 Odpowiedzialność dyscyplinarna
+#### Rozdział 4
 
 **Art. 22.** Kary dyscyplinarne mogą być orzekane w stosunku do osób wykonujących funkcje związane z wyścigami konnymi, które popełniły czyny stanowiące przewinienia dyscyplinarne określone w regulaminie wyścigów konnych.
 
@@ -547,7 +563,7 @@ Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wysok
 
 4. W postępowaniu odwoławczym przed sądem rejonowym stosuje się przepisy Kodeksu postępowania karnego.
 
-#### Rozdział 5 Przepisy karne
+#### Rozdział 5
 
 **Art. 28.**
 
@@ -555,7 +571,7 @@ Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wysok
 
 2. Postępowanie w sprawach, o których mowa w ust. 1, toczy się według przepisów o postępowaniu w sprawach o wykroczenia.
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6
 
 **Art. 29.**
 
@@ -571,5 +587,5 @@ Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wysok
 
 2. Do czasu wejścia w życie regulaminu wyścigów konnych, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie ustawy, zachowują moc prawidła wyścigowe wyścigów konnych.
 
-**Art. 32.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 32.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 14 lutego 2001 r.. 1) Dodany przez art. 24 pkt 1 ustawy z dnia 31 lipca 2019 r. o zmianie niektórych ustaw w celu ograniczenia obciążeń regulacyjnych (Dz. U. poz. 1495 oraz z 2020 r. poz. 568 i 875), która weszła w życie z dniem 1 stycznia 2020 r. 2) Dodany przez art. 24 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Dodany przez art. 24 pkt 3 ustawy, o której mowa w odnośniku 1. 4) Dodany przez art. 24 pkt 4 ustawy, o której mowa w odnośniku 1. 5) Dodany przez art. 24 pkt 5 ustawy, o której mowa w odnośniku 1. 6) Ustawa została ogłoszona w dniu 14 lutego 2001 r.
 

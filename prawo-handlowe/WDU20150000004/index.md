@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 listopada 2014 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw
+# Ustawa z dnia 28 listopada 2014 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw Niniejszą ustawą zmienia się: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym oraz ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-28 |
 | Data wydania | 2015-01-05 |
-| Wejście w życie | 2015-01-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000004) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/4/text.pdf) |
 
@@ -204,7 +203,7 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121 i 827) uchyla się art. 1099.
 
-**Art. 3.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161,1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6943: § 3 otrzymuje brzmienie: „
     - **a)**
@@ -221,7 +220,7 @@ source: "eli-html"
 
 § 2. Dokumenty, o których mowa w § 1, składane drogą elektroniczną, powinny być opatrzone bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu albo podpisem potwierdzonym profilem zaufanym Platformy Usług Administracji Publicznej (ePUAP). ” .
 
-**Art. 4.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613 oraz z 2014 r. poz. 768 i 1100.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
@@ -231,7 +230,7 @@ source: "eli-html"
 
 **Art. 70a.** Kierownik jednostki będącej spółką jawną osób fizycznych lub spółką partnerską, której przychody netto ze sprzedaży towarów, produktów i operacji finansowych za poprzedni rok obrotowy wyniosły mniej niż równowartość w walucie polskiej 1 200 000 euro i która nie stosuje zasad rachunkowości określonych ustawą na podstawie art. 2 ust. 2, składa w sądzie rejestrowym prowadzącym Krajowy Rejestr Sądowy, w terminie 6 miesięcy od dnia kończącego rok obrotowy, oświadczenie o braku obowiązku sporządzenia i złożenia rocznego sprawozdania finansowego. ” .
 
-**Art. 5.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2013 r. poz. 1203, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2013 r. poz. 1203, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1161, 1306 i 1924.) wprowadza się następujące zmiany:
 
 - **1)** uchyla się art. 11;
 - **2)** w art. 19: ust. 2 otrzymuje brzmienie: „
@@ -272,7 +271,7 @@ source: "eli-html"
 - **7)** wzmiankę o braku obowiązku sporządzenia i złożenia sprawozdania finansowego;
 - **8)** informację o dniu kończącym rok obrotowy. ” .
 
-**Art. 6.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2.) wprowadza się następujące zmiany:
 
 - **1)** w art. 52 dotychczasową treść oznacza się jako ust. 1 i dodaje ust. 2 w brzmieniu: „
 
@@ -302,5 +301,5 @@ source: "eli-html"
 
 **Art. 11.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 1571 § 5 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 1571 § 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 marca 2016 r.
 
-**Art. 12.** Ustawa wchodzi w życie z dniem 15 stycznia 2015 r., z wyjątkiem art. 1 pkt 2, 3 w zakresie dodawanego art. 231 § 4, pkt 5, 8, 11 w zakresie dodawanego art. 1061 § 4, pkt 13, 16, 17, 18 w zakresie dodawanego w art. 208 § 11 i pkt 20–24 oraz art. 6 pkt 2, które wchodzą w życie z dniem 1 kwietnia 2016 r.
+**Art. 12.** Ustawa wchodzi w życie z dniem 15 stycznia 2015 r., z wyjątkiem art. 1 pkt 2, 3 w zakresie dodawanego art. 231 § 4, pkt 5, 8, 11 w zakresie dodawanego art. 1061 § 4, pkt 13, 16, 17, 18 w zakresie dodawanego w art. 208 § 11 i pkt 20–24 oraz art. 6 pkt 2, które wchodzą w życie z dniem 1 kwietnia 2016 r. 1) Niniejszą ustawą zmienia się: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym oraz ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161,1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613 oraz z 2014 r. poz. 768 i 1100. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1161, 1306 i 1924. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2.
 

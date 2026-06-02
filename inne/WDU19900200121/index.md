@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1990-03-22 |
 | Data wydania | 1990-03-31 |
-| Wejście w życie | 1990-03-31 |
 | Ostatnia zmiana | 2026-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900200121) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/121/text.pdf) |
 

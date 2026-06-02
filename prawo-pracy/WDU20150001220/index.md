@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 czerwca 2015 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw
+# Ustawa z dnia 25 czerwca 2015 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawę z dnia 16 września 1982 r. o pracownikach urzędów państwowych, ustawę z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, ustawę z dnia 27 lipca 2001 r. o służbie zagranicznej, ustawę z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników, ustawę z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym, ustawę z dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych, ustawę z dnia 28 listopada 2003 r. o służbie zastępczej, ustawę z dnia 21 listopada 2008 r. o służbie cywilnej, ustawę z dnia 21 listopada 2008 r. o pracownikach samorządowych oraz ustawę z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-25 |
 | Data wydania | 2015-08-21 |
-| Wejście w życie | 2016-02-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001220) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1220/text.pdf) |
 
@@ -54,7 +53,7 @@ source: "eli-html"
 - **1)** w celu zastępstwa pracownika w czasie jego usprawiedliwionej nieobecności w pracy,
 - **2)** w celu wykonywania pracy o charakterze dorywczym lub sezonowym,
 - **3)** w celu wykonywania pracy przez okres kadencji,
-- **4)** w przypadku gdy pracodawca wskaże obiektywne przyczyny leżące po jego stronie jeżeli ich zawarcie w danym przypadku służy zaspokojeniu rzeczywistego okresowego zapotrzebowania i jest niezbędne w tym zakresie w świetle wszystkich okoliczności zawarcia umowy.
+- **4)** w przypadku gdy pracodawca wskaże obiektywne przyczyny leżące po jego stronie – jeżeli ich zawarcie w danym przypadku służy zaspokojeniu rzeczywistego okresowego zapotrzebowania i jest niezbędne w tym zakresie w świetle wszystkich okoliczności zawarcia umowy.
 
 § 5. Pracodawca zawiadamia właściwego okręgowego inspektora pracy, w formie pisemnej lub elektronicznej, o zawarciu umowy o pracę, o której mowa w § 4 pkt 4, wraz ze wskazaniem przyczyn zawarcia takiej umowy, w terminie 5 dni roboczych od dnia jej zawarcia. ” ;
 
@@ -134,17 +133,17 @@ source: "eli-html"
 **Art. 3.** W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2013 r. poz. 269 oraz z 2014 r. poz. 1199) w art. 471 ust. 1 otrzymuje brzmienie: „ 1. Zatrudnienie:
 
 - **1)** pracownika w gabinecie politycznym Prezesa Rady Ministrów, wiceprezesa Rady Ministrów, ministra oraz innego członka Rady Ministrów,
-- **2)** doradców lub pełniących funkcje doradców osób zajmujących kierownicze stanowiska państwowe inne niż wymienione w pkt 1 następuje na podstawie umowy o pracę zawartej na czas pełnienia funkcji przez osobę zajmującą kierownicze stanowisko państwowe. Do umów o pracę zawartych z tymi osobami nie stosuje się art. 251 Kodeksu pracy. Wcześniejsze rozwiązanie umowy o pracę może być dokonane za wypowiedzeniem. ” .
+- **2)** doradców lub pełniących funkcje doradców osób zajmujących kierownicze stanowiska państwowe inne niż wymienione w pkt 1 – następuje na podstawie umowy o pracę zawartej na czas pełnienia funkcji przez osobę zajmującą kierownicze stanowisko państwowe. Do umów o pracę zawartych z tymi osobami nie stosuje się art. 251 Kodeksu pracy. Wcześniejsze rozwiązanie umowy o pracę może być dokonane za wypowiedzeniem. ” .
 
 **Art. 4.** W ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2014 r. poz. 159 oraz z 2015 r. poz. 1066 i 1217) w art. 30 ust. 4 otrzymuje brzmienie: „ 4. Ubezpieczonej będącej pracownicą zatrudnioną na podstawie umowy o pracę na czas określony, z którą umowa o pracę na podstawie art. 177 § 3 Kodeksu pracy została przedłużona do dnia porodu – przysługuje prawo do zasiłku macierzyńskiego po ustaniu ubezpieczenia. ” .
 
-**Art. 5.** W ustawie z dnia 27 lipca 2001 r. o służbie zagranicznej (Dz. U. Nr 128, poz. 1403, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 27 lipca 2001 r. o służbie zagranicznej (Dz. U. Nr 128, poz. 1403, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2006 r. Nr 170, poz. 1217 i 1218 i Nr 220, poz. 1600, z 2008 r. Nr 227, poz. 1505 oraz z 2009 r. Nr 161, poz. 1277.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 pkt 6 otrzymuje brzmienie: „
 - **6)** członkach rodziny – oznacza to małżonka, dzieci własne, dzieci małżonka, przysposobione oraz inne dzieci wzięte na utrzymanie i wychowanie w ramach rodzin zastępczych, w wieku do 18 lat bądź będące w wieku określonym odrębnymi przepisami dotyczącymi zasiłków rodzinnych i pielęgnacyjnych, a także osoby niepełnosprawne wymagające stałej opieki członka służby zagranicznej. ” ;
 - **2)** art. 28c otrzymuje brzmienie: „
 
-**Art. 28c.** W przypadku umów o pracę zawieranych na czas określony w celu wykonywania zadań w placówce zagranicznej art. 251ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.) nie stosuje się. Jednakże umowa zawarta w tym celu, w tym z osobą podejmującą po raz pierwszy pracę w służbie cywilnej, może być zawarta na czas nieprzekraczający 6 lat. Ponowne zawarcie takiej umowy jest możliwe po upływie co najmniej 6 miesięcy od dnia rozwiązania lub wygaśnięcia poprzedniej umowy o pracę zawartej w celu wykonywania zadań w placówce zagranicznej. ” .
+**Art. 28c.** W przypadku umów o pracę zawieranych na czas określony w celu wykonywania zadań w placówce zagranicznej art. 251ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662 oraz z 2015 r. poz. 1066 i 1220.) nie stosuje się. Jednakże umowa zawarta w tym celu, w tym z osobą podejmującą po raz pierwszy pracę w służbie cywilnej, może być zawarta na czas nieprzekraczający 6 lat. Ponowne zawarcie takiej umowy jest możliwe po upływie co najmniej 6 miesięcy od dnia rozwiązania lub wygaśnięcia poprzedniej umowy o pracę zawartej w celu wykonywania zadań w placówce zagranicznej. ” .
 
 **Art. 6.** W ustawie z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. z 2015 r. poz. 192) wprowadza się następujące zmiany:
 
@@ -157,7 +156,7 @@ source: "eli-html"
 
 - **1)** działania mające na celu pomoc w znalezieniu pracy na czas określony, w pełnym lub niepełnym wymiarze czasu pracy u pracodawców, wykonywania usług na podstawie umów cywilnoprawnych oraz przygotowanie do podjęcia zatrudnienia lub podjęcia działalności w formie spółdzielni socjalnej; ” .
 
-**Art. 8.** W ustawie z dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych (Dz. U. Nr 166, poz. 1608, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych (Dz. U. Nr 166, poz. 1608, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2007 r. Nr 89, poz. 589 oraz z 2009 r. Nr 6, poz. 33 i Nr 221, poz. 1737.) wprowadza się następujące zmiany:
 
 - **1)** art. 7 otrzymuje brzmienie: „ Agencja pracy tymczasowej zatrudnia pracowników tymczasowych na podstawie umowy o pracę na czas określony. ” ;
 - **2)** w art. 13: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Umowa o pracę zawarta między agencją pracy tymczasowej a pracownikiem tymczasowym powinna określać strony umowy i datę zawarcia umowy oraz wskazywać pracodawcę użytkownika i ustalony okres wykonywania na jego rzecz pracy tymczasowej, a także warunki zatrudnienia pracownika tymczasowego w okresie wykonywania pracy na rzecz pracodawcy użytkownika, w szczególności:”, w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „W umowie o pracę strony mogą przewidzieć możliwość wcześniejszego rozwiązania tej umowy przez każdą ze stron:”, ust. 4 otrzymuje brzmienie: „
@@ -215,5 +214,5 @@ source: "eli-html"
 
 **Art. 17.** Do postępowań dotyczących odwołania od wypowiedzenia umowy o pracę, rozwiązania umowy o pracę bez wypowiedzenia oraz wygaśnięcia umowy o pracę stosuje się przepisy dotychczasowe, jeżeli umowy te zostały wypowiedziane, rozwiązane bez wypowiedzenia albo wygasły przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 18.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 12, który wchodzi w życie z dniem 30 sierpnia 2015 r.
+**Art. 18.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 12, który wchodzi w życie z dniem 30 sierpnia 2015 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawę z dnia 16 września 1982 r. o pracownikach urzędów państwowych, ustawę z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, ustawę z dnia 27 lipca 2001 r. o służbie zagranicznej, ustawę z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników, ustawę z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym, ustawę z dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych, ustawę z dnia 28 listopada 2003 r. o służbie zastępczej, ustawę z dnia 21 listopada 2008 r. o służbie cywilnej, ustawę z dnia 21 listopada 2008 r. o pracownikach samorządowych oraz ustawę z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2006 r. Nr 170, poz. 1217 i 1218 i Nr 220, poz. 1600, z 2008 r. Nr 227, poz. 1505 oraz z 2009 r. Nr 161, poz. 1277. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662 oraz z 2015 r. poz. 1066 i 1220. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2007 r. Nr 89, poz. 589 oraz z 2009 r. Nr 6, poz. 33 i Nr 221, poz. 1737.
 

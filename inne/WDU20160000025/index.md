@@ -8,10 +8,10 @@ pos: 25
 act_type: Ustawa
 status: akt objęty tekstem jednolitym
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 30 grudnia 2015 r. o zmianie ustawy o radiofonii i telewizji
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 stycznia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,39 +22,33 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-30 |
 | Data wydania | 2016-01-07 |
-| Wejście w życie | 2016-01-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000025) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/25/text.pdf) |
+
+Poz. 25
+USTAWA z dnia 30 grudnia 2015 r.
+o zmianie ustawy o radiofonii i telewizji
 
 **Art. 1.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2015 r. poz. 1531, 978 i 1830) wprowadza się następujące zmiany:
 
 - **1)** w art. 6 w ust. 2 uchyla się pkt 11;
-- **2)** w art. 27: uchyla się ust. 2, ust. 3 i 4 otrzymują brzmienie: „
-    - **a)**
-    - **b)**
+- **2)** w art. 27:
+    - **a)** uchyla się ust. 2,
+    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Członków zarządu, w tym prezesa zarządu, powołuje i odwołuje minister właściwy do spraw Skarbu Państwa.
 
-3. Członków zarządu, w tym prezesa zarządu, powołuje i odwołuje minister właściwy do spraw Skarbu Państwa.
+4. Członków zarządu powołuje się spośród osób posiadających kompetencje w dziedzinie radiofonii i telewizji oraz nieskazanych prawomocnym wyrokiem za przestępstwo umyślne ścigane z oskarżenia publicznego lub przestępstwo skarbowe.”,
 
-4. Członków zarządu powołuje się spośród osób posiadających kompetencje w dziedzinie radiofonii i telewizji oraz nieskazanych prawomocnym wyrokiem za przestępstwo umyślne ścigane z oskarżenia publicznego lub przestępstwo skarbowe. ” , uchyla się ust. 5 i 6;
+- **c)** uchyla się ust. 5 i 6;
+- **3)** w art. 28:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Rada nadzorcza spółki liczy trzech członków.”,
+    - **b)** uchyla się ust. 1a–1d,
+    - **c)** po ust. 1d dodaje się ust. 1e i 1f w brzmieniu: „1e. Członków rady nadzorczej powołuje i odwołuje minister właściwy do spraw Skarbu Państwa.
 
-- **c)**
-- **3)** w art. 28: ust. 1 otrzymuje brzmienie: „
-    - **a)**
+1f. Członków rady nadzorczej powołuje się spośród osób, które złożyły egzamin, o którym mowa w art. 12 ust. 2 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2015 r. poz. 747 i 978).”,
 
-1. Rada nadzorcza spółki liczy trzech członków. ” , uchyla się ust. 1a-1d, po ust. 1d dodaje się ust. 1e i 1f w brzmieniu: „
-
-- **b)**
-- **c)**
-
-1e. Członków rady nadzorczej powołuje i odwołuje minister właściwy do spraw Skarbu Państwa.
-
-1f. Członków rady nadzorczej powołuje się spośród osób, które złożyły egzamin, o którym mowa w art. 12 ust. 2 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2015 r. poz. 747 i 978). ” , uchyla się ust. 5;
-
-- **d)**
+- **d)** uchyla się ust. 5;
 - **4)** w art. 29 uchyla się ust. 3;
-- **5)** w art. 30 ust. 3 otrzymuje brzmienie: „
-
-3. Terenowym oddziałem spółki kieruje dyrektor powoływany przez zarząd spółki. ” .
+- **5)** w art. 30 ust. 3 otrzymuje brzmienie: „3. Terenowym oddziałem spółki kieruje dyrektor powoływany przez zarząd spółki.”.
 
 **Art. 2.**
 

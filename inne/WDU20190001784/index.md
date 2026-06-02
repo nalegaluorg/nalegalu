@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 16 września 2019 r. w sprawie przedłużenia okresu ważności znaków akcyzy naniesionych na opakowania jednostkowe wyrobów spirytusowych
+# Rozporządzenie Ministra Finansówz dnia 16 września 2019 r. w sprawie przedłużenia okresu ważności znaków akcyzy naniesionych na opakowania jednostkowe wyrobów spirytusowych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-16 |
 | Data wydania | 2019-09-19 |
-| Wejście w życie | 2019-09-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001784) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1784/text.pdf) |
 
@@ -33,9 +32,7 @@ Przedłuża się do dnia 31 grudnia 2020 r. okres ważności znaków akcyzy nani
 1)
 poz. III i VII w załączniku nr 1,
 2)
-poz. III w załączniku nr 2
-do rozporządzenia Ministra Finansów z dnia 23 grudnia 2015 r. w sprawie oznaczania wyrobów akcyzowych znakami akcyzy (Dz. U. z 2018 r. poz. 428 i 1178 oraz z 2019 r. poz. 225), w brzmieniu obowiązującym przed dniem 4 lipca 2018 r.
+poz. III w załączniku nr 2 – do rozporządzenia Ministra Finansów z dnia 23 grudnia 2015 r. w sprawie oznaczania wyrobów akcyzowych znakami akcyzy (Dz. U. z 2018 r. poz. 428 i 1178 oraz z 2019 r. poz. 225), w brzmieniu obowiązującym przed dniem 4 lipca 2018 r.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 

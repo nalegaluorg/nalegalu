@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 28 września 2020 r. w sprawie trybu postępowania oraz sposobu dokumentowania przez funkcjonariusza Straży Granicznej kosztów poniesionych na ochronę prawną, a także podmiotów właściwych w sprawie zwrotu tych kosztów
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 28 września 2020 r. w sprawie trybu postępowania oraz sposobu dokumentowania przez funkcjonariusza Straży Granicznej kosztów poniesionych na ochronę prawną, a także podmiotów właściwych w sprawie zwrotu tych kosztów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-28 |
 | Data wydania | 2020-09-29 |
-| Wejście w życie | 2020-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001671) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1671/text.pdf) |
 
@@ -47,6 +46,5 @@ Na wniosek funkcjonariusza oryginały dokumentów, o których mowa w ust. 1, mog
 § 4.
 Zwrotu kosztów ochrony prawnej, o których mowa w art. 71a ust. 2 i art. 71b ust. 3 ustawy, dokonuje jednostka organizacyjna Straży Granicznej właściwa w sprawach wypłaty uposażenia funkcjonariusza, a w przypadku funkcjonariusza oddelegowanego do wykonywania zadań służbowych poza Straż Graniczną – jednostka organizacyjna Straży Granicznej właściwa w sprawie wypłaty uposażenia przed oddelegowaniem funkcjonariusza, w terminie 30 dni od dnia wpływu wniosku, o którym mowa w § 2 ust. 1, do kierownika tej jednostki.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 października 2020 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie z dniem 1 października 2020 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

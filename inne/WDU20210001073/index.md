@@ -26,13 +26,16 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001073) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1073/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Zakładanie i funkcjonowanie ROD Rozdział 3 – Likwidacja ROD Rozdział 4 – Działkowcy Rozdział 5 – Organizacje działkowców Rozdział 6 – Zmiany w przepisach obowiązujących Rozdział 7 – Przepisy przejściowe, dostosowujące i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2017 r. poz. 2176), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 13 lutego 2020 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw (Dz. U. poz. 471) oraz zmian wynikających z przepisów ogłoszonych przed dniem 21 maja 2021 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 27, art. 36 i art. 39 ustawy z dnia 13 lutego 2020 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw (Dz. U. poz. 471), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 27, art. 36 i art. 39 ustawy z dnia 13 lutego 2020 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw (Dz. U. poz. 471), które stanowią: „
+Przepisy ogólne
+Zakładanie i funkcjonowanie ROD
+Likwidacja ROD
+Działkowcy
 1.
 Ustanowienie prawa do działki następuje na podstawie umowy dzierżawy działkowej.
 2.
@@ -41,15 +44,32 @@ Umowa, o której mowa w ust. 1, zawierana jest pomiędzy stowarzyszeniem ogrodow
 Przy ustanowieniu prawa do działki uwzględnia się w szczególności ustawowe funkcje ROD i działki, a także miejsce zamieszkania osoby ubiegającej się o działkę.
 4.
 Na zasadach określonych w statucie, stowarzyszenie ogrodowe może oddać działkę w bezpłatne używanie instytucjom prowadzącym działalność społeczną, oświatową, kulturalną, wychowawczą, rehabilitacyjną, dobroczynną lub opieki społecznej.
+Organizacje działkowców
+Zmiany w przepisach obowiązujących
 Art. 53–64.
 (pominięte)
+Przepisy przejściowe, dostosowujące i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Zakładanie i funkcjonowanie ROD
+
+#### Rozdział 3 – Likwidacja ROD
+
+#### Rozdział 4 – Działkowcy
+
+#### Rozdział 5 – Organizacje działkowców
+
+#### Rozdział 6 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 7 – Przepisy przejściowe, dostosowujące i końcowe
 
 **Art. 27.**
 
 1. Do zamierzeń budowlanych realizowanych w oparciu o projekt budowlany sporządzony na podstawie przepisów dotychczasowych:
 
 - **1)** w przypadkach, o których mowa w art. 25 i art. 26,
-- **2)** dla których przed dniem wejścia w życie niniejszej ustawy wydano ostateczną decyzję o pozwoleniu na budowę albo dokonano skutecznego zgłoszenia przepisy ustaw zmienianych w art. 1–4, art. 6 oraz art. 8–24 stosuje się w brzmieniu dotychczasowym.
+- **2)** dla których przed dniem wejścia w życie niniejszej ustawy wydano ostateczną decyzję o pozwoleniu na budowę albo dokonano skutecznego zgłoszenia – przepisy ustaw zmienianych w art. 1–4, art. 6 oraz art. 8–24 stosuje się w brzmieniu dotychczasowym.
 
 2. Jeżeli projekt budowlany, o którym mowa w ust. 1, wymaga uzgodnienia na podstawie przepisów ustaw zmienianych w art. 2 oraz w art. 3, uzgodnień tych należy dokonać na podstawie przepisów tych ustaw w brzmieniu dotychczasowym. ” „
 
@@ -57,7 +77,7 @@ Art. 53–64.
 
 **Art. 39.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 5 pkt 2 lit. b w zakresie art. 7 ust. 8g2 i 8g5, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych Doceniając pozytywną rolę ogrodnictwa działkowego, będącego dziedziną życia społecznego, przyczyniającą się do zaspakajania socjalnych, wypoczynkowych i rekreacyjnych potrzeb społeczeństwa, a zwłaszcza rodzin z dziećmi, emerytów, rencistów i niepełnosprawnych, poprzez kształtowanie warunków dla prowadzenia aktywnego i zdrowego trybu życia oraz ochrony środowiska i przyrody, uznaje się za konieczne zapewnienie dalszego istnienia i rozwoju rodzinnych ogrodów działkowych, jako stałych elementów infrastruktury gmin, które powinny być uwzględniane w procesie ich rozwoju dla dobra obecnego i przyszłych pokoleń.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa reguluje zasady zakładania, funkcjonowania i likwidacji rodzinnych ogrodów działkowych, prawa i obowiązki działkowców, zasady ich zrzeszania się oraz zadania organizacji działkowców.
 
@@ -100,7 +120,7 @@ Art. 53–64.
 
 2. Jednostki samorządu terytorialnego mogą otrzymywać dotacje celowe z budżetu państwa na realizację celu określonego w ust. 1.
 
-#### Rozdział 2 Zakładanie i funkcjonowanie ROD
+#### Rozdział 2
 
 **Art. 7.** ROD zakładane są na gruntach stanowiących własność Skarbu Państwa, jednostek samorządu terytorialnego oraz stowarzyszeń ogrodowych.
 
@@ -152,7 +172,7 @@ Art. 53–64.
 - **1)** aktualny na dzień złożenia wniosku wypis z ewidencji działek, o której mowa w art. 51;
 - **2)** oświadczenie działkowca o powierzchni zabudowy altany działkowej znajdującej się na jego działce, zawierające również wskazanie powierzchni tarasów, werand lub ganków.
 
-3. Za wydanie zaświadczenia, o którym mowa w ust. 1, nie pobiera się opłaty skarbowej. Uproszczonego postępowania legalizacyjnego, o którym mowa w art. 49f ust. 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2020 r. poz. 1333, z późn. zm.), nie stosuje się do obiektów budowlanych, o których mowa w art. 3 pkt 1 tej ustawy, zlokalizowanych na terenie działki.
+3. Za wydanie zaświadczenia, o którym mowa w ust. 1, nie pobiera się opłaty skarbowej. Uproszczonego postępowania legalizacyjnego, o którym mowa w art. 49f ust. 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2020 r. poz. 1333, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2127 i 2320 oraz z 2021 r. poz. 11, 234, 282 i 784.), nie stosuje się do obiektów budowlanych, o których mowa w art. 3 pkt 1 tej ustawy, zlokalizowanych na terenie działki.
 
 **Art. 14.**
 
@@ -193,7 +213,7 @@ Art. 53–64.
 
 3. Przepisy ustawy nie ograniczają uprawnień jednostek samorządu terytorialnego do wspierania ROD na podstawie przepisów odrębnych.
 
-#### Rozdział 3 Likwidacja ROD
+#### Rozdział 3
 
 **Art. 18.**
 
@@ -257,7 +277,7 @@ Art. 53–64.
 
 **Art. 25.**
 
-1. W przypadku likwidacji ROD lub jego części w związku z realizacją roszczenia osoby trzeciej, nie stosuje się przepisu art. 21, jeżeli Skarb Państwa lub jednostka samorządu terytorialnego występowały jako właściciel nieruchomości w dniu nabycia do tej nieruchomości tytułu prawnego przez stowarzyszenie ogrodowe lub w dniu, w którym ROD stał się ogrodem stałym w rozumieniu ustawy z dnia 6 maja 1981 r. o pracowniczych ogrodach działkowych (Dz. U. z 1996 r. poz. 390, z późn. zm.).
+1. W przypadku likwidacji ROD lub jego części w związku z realizacją roszczenia osoby trzeciej, nie stosuje się przepisu art. 21, jeżeli Skarb Państwa lub jednostka samorządu terytorialnego występowały jako właściciel nieruchomości w dniu nabycia do tej nieruchomości tytułu prawnego przez stowarzyszenie ogrodowe lub w dniu, w którym ROD stał się ogrodem stałym w rozumieniu ustawy z dnia 6 maja 1981 r. o pracowniczych ogrodach działkowych (Dz. U. z 1996 r. poz. 390, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 943, z 1998 r. poz. 668, z 1999 r. poz. 965, z 2000 r. poz. 581, z 2002 r. poz. 253, 984 i 1683, z 2003 r. poz. 1039, z 2005 r. poz. 1419 oraz z 2014 r. poz. 40.).
 
 2. W przypadku likwidacji ROD, o której mowa w ust. 1, przepis art. 22 ust. 1 stosuje się odpowiednio. Obowiązanym do wypłaty odszkodowań jest podmiot, który występował jako właściciel nieruchomości w dniu, o którym mowa w ust. 1. Ustalenie odszkodowań następuje w drodze decyzji.
 
@@ -282,7 +302,7 @@ Art. 53–64.
 
 6. Przepisy ust. 1–5 stosuje się w przypadku, gdy do nieruchomości zajmowanej przez ROD lub jego część objętą likwidacją stowarzyszeniu ogrodowemu przysługuje tytuł prawny lub jest ona zajmowana przez ROD, który stał się ogrodem stałym w rozumieniu przepisów ustawy z dnia 6 maja 1981 r. o pracowniczych ogrodach działkowych.
 
-#### Rozdział 4 Działkowcy
+#### Rozdział 4
 
 **Art. 28.**
 
@@ -405,7 +425,7 @@ Art. 53–64.
 
 **Art. 44.** Statut stowarzyszenia może określać tryb postępowania pojednawczego przed komisją rozjemczą stowarzyszenia ogrodowego. Postępowanie pojednawcze może być wszczęte na wniosek działkowca lub stowarzyszenia ogrodowego. Wszczęcie postępowania pojednawczego nie może być warunkiem dochodzenia roszczeń przed sądem powszechnym.
 
-#### Rozdział 5 Organizacje działkowców
+#### Rozdział 5
 
 **Art. 45.**
 
@@ -461,9 +481,9 @@ Art. 53–64.
 
 3. Szczegółowe zadania związków stowarzyszeń ogrodowych oraz sposób ich realizacji określają statuty tych związków.
 
-#### Rozdział 6 Zmiany w przepisach obowiązujących
+#### Rozdział 6
 
-#### Rozdział 7 Przepisy przejściowe, dostosowujące i końcowe
+#### Rozdział 7
 
 **Art. 65.**
 
@@ -586,5 +606,5 @@ Art. 53–64.
 
 **Art. 79.** Traci moc ustawa z dnia 8 lipca 2005 r. o rodzinnych ogrodach działkowych (Dz. U. poz. 1419, z 2006 r. poz. 1600, z 2008 r. poz. 1237 i 1475 oraz z 2012 r. poz. 837).
 
-**Art. 80.** Ustawa wchodzi w życie z dniem 19 stycznia 2014 r.
+**Art. 80.** Ustawa wchodzi w życie z dniem 19 stycznia 2014 r. 1) Dodany przez art. 20 ustawy z dnia 13 lutego 2020 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw (Dz. U. poz. 471), która weszła w życie z dniem 19 września 2020 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2127 i 2320 oraz z 2021 r. poz. 11, 234, 282 i 784. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 943, z 1998 r. poz. 668, z 1999 r. poz. 965, z 2000 r. poz. 581, z 2002 r. poz. 253, 984 i 1683, z 2003 r. poz. 1039, z 2005 r. poz. 1419 oraz z 2014 r. poz. 40.
 

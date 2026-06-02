@@ -8,10 +8,10 @@ pos: 1887
 act_type: Rozporządzenie
 status: akt objęty tekstem jednolitym
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 1 września 2023 r. zmieniające rozporządzenie w sprawie okresowego opiniowania funkcjonariuszy Straży Granicznej
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 września 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,29 +22,38 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-09-01 |
 | Data wydania | 2023-09-15 |
-| Wejście w życie | 2023-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001887) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1887/text.pdf) |
 
-Treść rozporządzenia
-Załącznik – Opinia służbowa (wzór)
-Treść rozporządzenia
-Na podstawie art. 39 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723 i 1860) zarządza się, co następuje:
-§ 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 czerwca 2002 r. w sprawie okresowego opiniowania funkcjonariuszy Straży Granicznej (Dz. U. z 2022 r. poz. 1224) wprowadza się następujące zmiany:
-1)
-w § 3 w ust. 1 w pkt 7 po wyrazach „Komendanta Głównego Straży Granicznej,” dodaje się wyrazy „Rektora-Komendanta Wyższej Szkoły Straży Granicznej,”;
-2)
-w § 8:
-a)
-w ust. 1a po wyrazach „Komendant Główny Straży Granicznej,” dodaje się wyrazy „Rektor-Komendant Wyższej Szkoły Straży Granicznej,”,
-b)
-w ust. 1b w części wspólnej po wyrazach „Komendant Główny Straży Granicznej,” dodaje się wyrazy „Rektor-Komendant Wyższej Szkoły Straży Granicznej,”;
-3)
-załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2.
-Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
-Załącznik – Opinia służbowa (wzór)
-patrz oryginał
+11888877 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 1 września 2023 r.
+zmieniające rozporządzenie w sprawie okresowego opiniowania funkcjonariuszy Straży Granicznej Na podstawie art. 39 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723 i 1860) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 czerwca 2002 r. w sprawie okresowego opiniowania funkcjonariuszy Straży Granicznej (Dz. U. z 2022 r. poz. 1224) wprowadza się następujące zmiany:
+1) w § 3 w ust. 1 w pkt 7 po wyrazach „Komendanta Głównego Straży Granicznej,” dodaje się wyrazy „Rektora-Komendanta Wyższej Szkoły Straży Granicznej,”;
+2) w § 8:
+a) w ust. 1a po wyrazach „Komendant Główny Straży Granicznej,” dodaje się wyrazy „Rektor-Komendant Wyższej Szkoły Straży Granicznej,”,
+b) w ust. 1b w części wspólnej po wyrazach „Komendant Główny Straży Granicznej,” dodaje się wyrazy „Rektor-Komendant Wyższej Szkoły Straży Granicznej,”;
+3) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.
+Minister Spraw Wewnętrznych i Administracji: M. Kamiński Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra i Administracji z dnia 1 września 2023 r. (Dz. U. poz. …….) WZÓR ....................................................................................................... ......................................................................................
+OPINIA SŁUŻBOWA za okres od do I. DANE PERSONALNE OPINIOWANEGO nr PESEL nazwa zajmowanego stanowiska służbowego jednostka (komórka organizacyjna) stopień etatowy data mianowania na stanowisko rodzaj służby i data jej rozpoczęcia (stała, przygotowawcza) okoliczności sporządzenia opinii (powołać właściwy przepis rozporządzenia) II. OPIS SŁUŻBY podstawowe obowiązki według ważności określone w zakresie obowiązków i uprawnień lub w regulaminie szkolenia lub studiów szczególne osiągnięcia w okresie podlegającym ocenie szkolenia lub studia odbyte w okresie podlegającym ocenie WZÓR III. OCENA PRZYGOTOWANIA ZAWODOWEGO, SPOSOBU WYKONYWANIA ZADAŃ SŁUŻBOWYCH, WYNIKÓW OSIĄGANYCH PODCZAS SZKOLENIA LUB STUDIÓW Skala ocen: 1 negatywna, 2 nie spełnia wymagań, niezbędna jest poprawa, 3 na poziomie przeciętnym, 4 spełnia wymagania, 5 powyżej wymagań, 6 wybitny Ocena przygotowania zawodowego opis Wykształcenie, kwalifikacje zawodowe, uprawnienia specjalistyczne, posiadane umiejętności: Ocena sposobu wykonywania zadań służbowych opis Terminowość: Jakość: Efektywność: Fachowość: Samodzielność: Umiejętność określania ważności realizacji zadań służbowych: Inicjatywa przy wykonywaniu zadań służbowych: Współpraca z innymi osobami (współpraca zespołowa) przy wykonywaniu zadań służbowych: Zastępstwo innego funkcjonariusza w zakresie odpowiedzialności służbowej wynikającej z zakresu uprawnień i obowiązków: Ocena sposobu wykonywania zadań służbowych przez funkcjonariuszy zajmujących stanowiska kierownicze w Straży Granicznej opis Umiejętność organizacji pracy, kierowania i nadzoru: Umiejętność motywowania podległych funkcjonariuszy: Ocena w skali od 1do 6 → Przy dokonywaniu oceny przebiegu szkolenia lub studiów należy uwzględnić osiągnięte Ocena wyników osiąganych wyniki (stopień uzyskanej wiedzy teoretycznej i praktycznej), odpowiedzialność podczas szkolenia lub studiów i zdyscyplinowanie, zachowanie w sytuacjach konfliktowych i zachowanie ukierunkowane na współpracę zespołową.
+opis Ocena w skali od 1do 6 → Ocena końcowa przygotowania zawodowego i sposobu wykonywania zadań służbowych albo przygotowania zawodowego i wyników osiągniętych podczas szkolenia lub studiów → IV. OCENA UZDOLNIEŃ MAJĄCYCH WPŁYW NA SPOSÓB WYKONYWANIA ZADAŃ SŁUŻBOWYCH Skala ocen uzdolnień: A szczególnie mocno występujące, B mocno występujące, C normalne, D słabo występujące Ocena uzdolnień dotyczy wszystkich funkcjonariuszy* Planowanie i organizowanie pracy zdolność do samodzielnego uszeregowania zadań w kolejności ich ważności.
+Ocena w skali od A do D → Wyrażanie myśli w mowie i piśmie zdolność do sporządzania pism zawierających w swojej treści jasno przedstawiony problem (poprawna stylistyka) oraz umiejętność chronologicznego przedstawiania swoich myśli ściśle i na temat.
+Ocena w skali od A do D → Ambicje i aspiracje zawodowe dążenie do osiągania coraz lepszych rezultatów w działalności służbowej (nauce), mistrzostwa w zawodzie. Perspektywiczne samookreślenie się w kierunku systematycznego dążenia do osiągania satysfakcji służbowej na drodze kolejnych awansów.
+Ocena w skali od A do D → Praca w zespole i współdziałanie zdolność do działania w zespole, przejawianie postawy sprzyjającej kształtowaniu dobrej atmosfery pracy.
+Ocena w skali od A do D → Opanowanie zdolność świadomego kontrolowania reakcji emocjonalnych oraz odruchów (fizycznych, intelektualnych) we wszystkich warunkach.
+Ocena w skali od A do D → Dyspozycyjność i dyscyplina zdolność podejmowania działań służbowych w różnych porach doby, umiejętność dostosowania życia prywatnego do potrzeb służby, świadomość potrzeby podporządkowania się rozkazom, poleceniom i regulaminom.
+Ocena w skali od A do D → Spostrzegawczość dostrzeganie zmian w zachowaniu ludzi i wykorzystanie tej umiejętności podczas działań służbowych.
+Ocena w skali od A do D → Samokształcenie zdolność przyswajania sobie nowych wiadomości z dziedziny wiedzy wykorzystywanej przy wykonywaniu zadań, odpowiednio do postępu nauki i techniki wyrabianie nawyku w tym zakresie.
+Ocena w skali od A do D → Ocena uzdolnień dotyczy funkcjonariuszy zajmujących stanowiska kierownicze w Straży Granicznej* Zdolności organizacyjne zdolność dostrzegania, podejmowania i rozwiązywania problemów w sposób metodyczny i racjonalny, właściwego koordynowania sił i środków zgodnie z założonym celem.
+Ocena w skali od A do D → Kierowanie ludźmi zdolność skutecznego kierowania podwładnymi, w tym stosowania bodźców mobilizujących do wykonywania zadań (nagrody, kary) oraz do rozwoju zawodowego podwładnych (kursy, szkoły), uzyskiwania autorytetu wśród podwładnych.
+Ocena w skali od A do D → Wykorzystanie środków zdolność optymalnego wykorzystania posiadanych środków rzeczowych i finansowych przy wykonywaniu zadań służbowych.
+Ocena w skali od A do D → Trafność i szybkość podejmowania decyzji zdolność dokonywania prawidłowej oceny sytuacji i trafność wyboru jak najlepszego rozwiązania problemu (wykonania zadania) z uwzględnieniem przyszłych zdarzeń mogących mieć wpływ na proces decyzyjny.
+Ocena w skali od A do D → Odporność na presję zdolność do formułowania niezależnych ocen przy realizacji zadań służbowych bez względu na oddziaływanie innych osób.
+Ocena w skali od A do D → * W przypadku gdy opiniujący nie jest w stanie dokonać oceny danego uzdolnienia z powodu braku danych, w rubryce ocena w skali od A do D należy wpisać symbol „X”.
+V. WNIOSKI I PROPOZYCJE DOTYCZĄCE DALSZEGO PRZEBIEGU SŁUŻBY OPINIOWANEGO Wnioski powinny określać stopień przydatności opiniowanego do dalszej służby, w tym do zajmowania stanowiska służbowego w danym pionie (kierowniczym, operacyjnym itp.).
+Przy formułowaniu wniosków należy odnieść się do postępów w ostatnim okresie, szczególnych osiągnięć (niepowodzeń) opiniowanego w służbie, określić działania, które opiniowany ma podjąć w celu poprawy wyników oraz dokonać analizy posiadanych przez opiniowanego ocenionych uzdolnień w korelacji z oceną wykonywanych zadań lub przebiegu szkolenia lub studiów i sprawności fizycznej, umiejętności w strzelaniu z broni służbowej.
+Przy formułowaniu propozycji można wpisać: - zaliczyć do rezerwy kadrowej na stanowiska kierownicze, - mianować na wyższe stanowisko służbowe, - mianować na inne równorzędne stanowisko służbowe (zgodnie z predyspozycjami, nabytymi kwalifikacjami), - pozostawić na zajmowanym stanowisku służbowym, mianować na niższe stanowisko służbowe, - zwolnić ze służby (wpisując podstawę prawną zwolnienia), - skierować na kurs doskonalenia zawodowego (do szkoły), - mianować na wyższy stopień służbowy, - nie mianować na wyższy stopień służbowy w najbliższym terminie mianowana, - podwyższyć uposażenie itp.
+wpis VI. STANOWISKO OPINIOWANEGO CO DO TREŚCI OPINII SŁUŻBOWEJ Po dokonaniu oceny i określeniu wniosków (propozycji) i po rozmowie z opiniowanym, kwestionariusz opinii służbowej podlega przekazaniu opiniowanemu w celu zajęcia stanowiska dotyczącego treści opinii służbowej.
+....................................................................................................................
+Oświadczam, iż zapoznałem się z niniejszą opinią służbową i zostałem pouczony o prawie wniesienia na piśmie odwołania od opinii służbowej do wyższego przełożonego za pośrednictwem przełożonego, który ją sporządził, w terminie 14 dni od dnia zapoznania się z opinią służbową.
+............................................................... ...................................................................................................................
 

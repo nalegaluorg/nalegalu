@@ -22,38 +22,29 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-04-30 |
 | Data wydania | 2013-05-22 |
-| Wejście w życie | 2013-06-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000588) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/588/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 15 ust. 3 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. Nr 104, poz. 710, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 15 ust. 3 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. Nr 104, poz. 710, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 114, poz. 957, z 2010 r. Nr 113, poz. 745, Nr 182, poz. 1228, Nr 230, poz. 1510 i Nr 238, poz. 1578 oraz z 2011 r. Nr 117, poz. 677.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Obrony Narodowej z dnia 29 września 2006 r. w sprawie oddelegowania funkcjonariusza Służby Kontrwywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Kontrwywiadu Wojskowego (Dz. U. Nr 182, poz. 1345 oraz z 2010 r. Nr 24, poz. 123) wprowadza się następujące zmiany:
 1)
-w § 2 pkt 4 otrzymuje brzmienie:
-„
+w § 2 pkt 4 otrzymuje brzmienie: „
 4)
-rodzaj poświadczenia bezpieczeństwa upoważniającego oddelegowanego funkcjonariusza SKW do dostępu do informacji niejawnych i okres jego ważności.
-” ;
+rodzaj poświadczenia bezpieczeństwa upoważniającego oddelegowanego funkcjonariusza SKW do dostępu do informacji niejawnych i okres jego ważności. ” ;
 2)
-w § 10 ust. 1 otrzymuje brzmienie:
-„
+w § 10 ust. 1 otrzymuje brzmienie: „
 1.
-Oddelegowany funkcjonariusz SKW zachowuje w okresie oddelegowania uprawnienia i świadczenia, które przysługują na podstawie obowiązujących przepisów funkcjonariuszom SKW, z uwzględnieniem zmian zaistniałych w okresie oddelegowania, o ile korzystanie z tych uprawnień i świadczeń nie spowoduje zagrożenia ujawnienia informacji niejawnych.
-” ;
+Oddelegowany funkcjonariusz SKW zachowuje w okresie oddelegowania uprawnienia i świadczenia, które przysługują na podstawie obowiązujących przepisów funkcjonariuszom SKW, z uwzględnieniem zmian zaistniałych w okresie oddelegowania, o ile korzystanie z tych uprawnień i świadczeń nie spowoduje zagrożenia ujawnienia informacji niejawnych. ” ;
 3)
-w § 13 ust. 1 otrzymuje brzmienie:
-„
+w § 13 ust. 1 otrzymuje brzmienie: „
 1.
-Oddelegowany funkcjonariusz SKW może być bez jego zgody odwołany z oddelegowania w każdym czasie przez Szefa SKW, ze względu na potrzeby SKW albo w razie zagrożenia ujawnienia informacji niejawnych.
-” ;
+Oddelegowany funkcjonariusz SKW może być bez jego zgody odwołany z oddelegowania w każdym czasie przez Szefa SKW, ze względu na potrzeby SKW albo w razie zagrożenia ujawnienia informacji niejawnych. ” ;
 4)
-§ 14 otrzymuje brzmienie:
-„
+§ 14 otrzymuje brzmienie: „
 § 14.
-W zakresie szczególnych uprawnień i obowiązków funkcjonariusza SKW pełniącego służbę poza granicami państwa stosuje się odpowiednio przepisy wydane na podstawie art. 24 ust. 8 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2010 r. Nr 90, poz. 593, z późn. zm.).
-” .
+W zakresie szczególnych uprawnień i obowiązków funkcjonariusza SKW pełniącego służbę poza granicami państwa stosuje się odpowiednio przepisy wydane na podstawie art. 24 ust. 8 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2010 r. Nr 90, poz. 593, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 22, poz. 114, Nr 112, poz. 654, Nr 122, poz. 696, Nr 171, poz. 1016 i Nr 236, poz. 1396.). ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 114, poz. 957, z 2010 r. Nr 113, poz. 745, Nr 182, poz. 1228, Nr 230, poz. 1510 i Nr 238, poz. 1578 oraz z 2011 r. Nr 117, poz. 677. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 22, poz. 114, Nr 112, poz. 654, Nr 122, poz. 696, Nr 171, poz. 1016 i Nr 236, poz. 1396.
 

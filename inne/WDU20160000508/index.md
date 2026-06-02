@@ -22,13 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-04-07 |
 | Data wydania | 2016-04-14 |
-| Wejście w życie | 2016-04-15 |
 | Ostatnia zmiana | 2025-06-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000508) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/508/text.pdf) |
 
-Treść rozporządzenia Dział I – Przepisy wstępne Rozdział 1 – Przepisy ogólne Rozdział 2 – Nazwy, tablice i pieczęcie urzędowe prokuratur Dział II – Organizacja prokuratury Rozdział 1 – Wewnętrzna struktura organizacyjna powszechnych jednostek organizacyjnych prokuratury Rozdział 2 – Organizacja pracy i sposób kierowania pracą Rozdział 3 – Organizacja pracy organów kolegialnych Rozdział 4 – Dysponenci środków budżetowych Dział III – Postępowanie przygotowawcze Rozdział 1 – Przepisy ogólne Rozdział 2 – Wszczęcie śledztwa i dochodzenia Rozdział 3 – Przebieg postępowania przygotowawczego Rozdział 4 – Postępowanie dowodowe Rozdział 5 – Środki przymusu Rozdział 6 – Zawieszenie postępowania Rozdział 7 – Zakończenie postępowania przygotowawczego Rozdział 8 – Nadzór procesowy prokuratora nad postępowaniem przygotowawczym Rozdział 9 – Terminy i zażalenia Rozdział 10 – Podjęcie na nowo i wznowienie umorzonego postępowania oraz uchylenie lub zmiana prawomocnego postanowienia o umorzeniu postępowania Rozdział 11 – Postępowanie w sprawach z oskarżenia prywatnego Dział IV – Współpraca międzynarodowa w sprawach karnych Rozdział 1 – Pomoc prawna Rozdział 2 – Przejęcie i przekazanie ścigania karnego Rozdział 3 – Ekstradycja Rozdział 4 – Postępowanie w stosunku do cudzoziemców i osób korzystających z immunitetów Rozdział 5 – Współpraca w ramach Unii Europejskiej Rozdział 6 – Dostęp do danych Systemu Informacyjnego Schengen (SIS) oraz Wizowego Systemu Informacyjnego (VIS) Dział V – Udział prokuratora w postępowaniu sądowym w sprawach karnych Rozdział 1 – Przepisy wstępne Rozdział 2 – Udział prokuratora w postępowaniu przed sądem pierwszej instancji Rozdział 3 – Środki odwoławcze Rozdział 4 – Udział prokuratora w postępowaniu przed sądem odwoławczym Rozdział 5 – Zaskarżanie prawomocnych orzeczeń Dział VI – Udział prokuratora w postępowaniu wykonawczym Dział VII – Postępowanie o ułaskawienie Dział VIII – Udział prokuratora w postępowaniu w sprawach o wykroczenia Dział IX – Czynności prokuratora w sprawach odpowiedzialności podmiotów zbiorowych Dział X – Postępowanie w sprawie skargi na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym Dział XI – Sposób realizacji zadań związanych z udziałem prokuratora w sprawach cywilnych, rodzinnych, opiekuńczych oraz ze stosunku pracy i z zakresu ubezpieczeń społecznych Dział XII – Udział prokuratora w postępowaniu administracyjnym i w postępowaniu przed sądami administracyjnymi Dział XIII – Tryb działań podejmowanych przez prokuratora w celu zapobieżenia naruszeniom prawa Dział XIV – Skargi i wnioski Dział XV – Przepisy szczególne dotyczące prokuratorów do spraw wojskowych Rozdział 1 – Działalność prokuratorów w przypadku użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa Rozdział 2 – Udział prokuratora w postępowaniu dyscyplinarnym względem żołnierzy Rozdział 3 – Udział prokuratora w postępowaniu w sprawach o wykroczenia Dział XVI – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 36 § 1 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. poz. 177) zarządza się, co następuje:
+Przepisy wstępne
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -72,6 +73,7 @@ Zadania związane ze współpracą powszechnej jednostki organizacyjnej prokurat
 Prokurator kierujący jednostką może powierzyć prokuratorowi wykonującemu czynności w tej jednostce pełnienie funkcji rzecznika prasowego. W prokuraturze rejonowej funkcję rzecznika prasowego pełni prokurator rejonowy. W uzasadnionych przypadkach prokurator okręgowy może powierzyć pełnienie funkcji rzecznika prasowego w prokuraturze rejonowej innemu prokuratorowi.
 3.
 Zadania rzecznika prasowego określone w art. 39 § 2 ustawy mogą być realizowane w szczególności poprzez konferencje prasowe, udział w programach telewizyjnych i radiowych lub informacje prasowe. Realizacja tych zadań powinna prowadzić do budowania pozytywnego wizerunku prokuratury.
+Nazwy, tablice i pieczęcie urzędowe prokuratur
 § 4.
 1.
 Nazwę prokuratury regionalnej, okręgowej i rejonowej ustala się zgodnie z nazwą miejscowości stanowiącej jej siedzibę.
@@ -86,9 +88,12 @@ Wewnątrz budynku umieszcza się tablicę informacyjną, wskazującą pełne naz
 W budynkach prokuratury powinien być zapewniony, w miarę możliwości, dostęp do pomieszczeń użytkowych w sposób umożliwiający korzystanie z nich osobom mającym ograniczone możliwości poruszania się oraz osobom z różnymi rodzajami niepełnosprawności.
 § 6.
 1.
-Prokuratura Krajowa, prokuratury regionalne, okręgowe i rejonowe używają pieczęci urzędowych z nazwą jednostki i wizerunkiem orła określonym w ustawie z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2005 r. poz. 2000, z późn. zm.).
+Prokuratura Krajowa, prokuratury regionalne, okręgowe i rejonowe używają pieczęci urzędowych z nazwą jednostki i wizerunkiem orła określonym w ustawie z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2005 r. poz. 2000, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. poz. 1600, z 2009 r. poz. 1323, z 2010 r. poz. 96, z 2012 r. poz. 490 oraz z 2015 r. poz. 1045 i 1890.).
 2.
 Odpowiedzialność za prawidłowość posługiwania się pieczęciami wskazanymi w ust. 1 i za ich właściwe przechowywanie spoczywa na kierownikach sekretariatów danej jednostki.
+Organizacja prokuratury
+Wewnętrzna struktura organizacyjna powszechnych jednostek organizacyjnych prokuratury
+Przepisy ogólne
 § 7.
 1.
 Prokuratorzy wykonują samodzielnie zlecone im czynności na stanowiskach pracy lub samodzielnych stanowiskach pracy, których zakres ustala się rzeczowo lub terytorialnie.
@@ -96,6 +101,7 @@ Prokuratorzy wykonują samodzielnie zlecone im czynności na stanowiskach pracy 
 Łączenie stanowisk pracy w komórki organizacyjne jest wskazane wtedy, gdy liczba wpływających spraw przekracza możliwości sprawowania bezpośredniego nadzoru nad poszczególnymi stanowiskami pracy przez kierownika jednostki i jego zastępcę.
 § 8.
 Prokurator Generalny określi, w drodze zarządzenia, szczegółowe zadania i zakres nadzoru nad komórkami organizacyjnymi Prokuratury Krajowej wykonywanego przez Prokuratora Krajowego i pozostałych zastępców Prokuratora Generalnego.
+Struktura organizacyjna i zadania realizowane w Prokuraturze Krajowej
 § 9.
 W skład Prokuratury Krajowej wchodzą następujące komórki organizacyjne:
 1)
@@ -225,7 +231,7 @@ opiniowanie projektów aktów normatywnych, przedstawianych Prokuratorowi Genera
 9)
 pozyskiwanie i obsługa funduszy europejskich w Prokuraturze Krajowej, z wyłączeniem projektów, o których mowa w § 19 pkt 17.
 § 13.
-W Prokuraturze Krajowej kierowanie wszelkimi pracami mającymi na celu realizację praw i obowiązków dysponenta głównego w trybie i na zasadach określonych w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.), zwanej dalej „ustawą o finansach publicznych”, a w szczególności:
+W Prokuraturze Krajowej kierowanie wszelkimi pracami mającymi na celu realizację praw i obowiązków dysponenta głównego w trybie i na zasadach określonych w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877, z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854, 1890 i 2150 oraz z 2016 r. poz. 195.), zwanej dalej „ustawą o finansach publicznych”, a w szczególności:
 1)
 planowanie i wykonywanie części budżetu państwa odpowiadającej prokuraturze oraz sporządzanie sprawozdań i informacji z wykonania zadań budżetowych,
 2)
@@ -241,8 +247,7 @@ sporządzanie wniosków o rezerwy celowe, rezerwę ogólną i zapewnienie dofina
 7)
 planowanie budżetu funduszy pomocowych w części i kontrola wydatków w tym zakresie,
 8)
-dokonywanie oceny skutków projektowanych regulacji prawnych dla części budżetu państwa odpowiadającej prokuraturze
-należy do podstawowych zadań Głównego Księgowego Budżetu Prokuratury.
+dokonywanie oceny skutków projektowanych regulacji prawnych dla części budżetu państwa odpowiadającej prokuraturze – należy do podstawowych zadań Głównego Księgowego Budżetu Prokuratury.
 § 14.
 W Prokuraturze Krajowej wykonywanie zadań w zakresie audytu wewnętrznego, zgodnie z przepisami ustawy o finansach publicznych, należy do audytora wewnętrznego, który podlega bezpośrednio Prokuratorowi Krajowemu.
 § 15.
@@ -347,7 +352,7 @@ okresowa kontrola ewidencji, materiałów i obiegu dokumentów niejawnych;
 7)
 zapewnienie ochrony fizycznej obiektów Prokuratury Krajowej, w tym kontrola ruchu osobowego w tych obiektach;
 8)
-zapewnienie prawidłowej realizacji zadań Prokuratora Generalnego w zakresie obronności państwa określonych w przepisach ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 827, z późn. zm.) i innych ustaw oraz wydanych na ich podstawie aktów wykonawczych;
+zapewnienie prawidłowej realizacji zadań Prokuratora Generalnego w zakresie obronności państwa określonych w przepisach ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 827, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1220, 1224, 1830, 2183 i 2281 oraz z 2016 r. poz. 178.) i innych ustaw oraz wydanych na ich podstawie aktów wykonawczych;
 9)
 realizowanie przedsięwzięć z zakresu zarządzania kryzysowego i współpracy cywilno-wojskowej w Prokuraturze Krajowej oraz koordynowanie tej działalności w podległych jednostkach;
 10)
@@ -403,7 +408,7 @@ z wykorzystaniem Internetu oraz zaawansowanych technologii i systemów komputero
 c)
 łapownictwa w organach władzy ustawodawczej, organach administracji rządowej, samorządowej, organach ścigania i kontroli,
 d)
-o charakterze terrorystycznym, o którym mowa w art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. poz. 553, z późn. zm.), zwanej dalej „k.k.”,
+o charakterze terrorystycznym, o którym mowa w art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. poz. 553, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 840, z 1999 r. poz. 729 i 931, z 2000 r. poz. 548, 1027 i 1216, z 2001 r. poz. 1071, z 2003 r. poz. 1061, 1142, 1750, 1935 i 2255, z 2004 r. poz. 219, 626, 889 i 2426, z 2005 r. poz. 732, 757, 1109, 1363, 1479 i 1493, z 2006 r. poz. 1409, 1592 i 1648, z 2007 r. poz. 589, 850, 859 i 1378, z 2008 r. poz. 560, 782, 1056, 1080 i 1344, z 2009 r. poz. 504, 533, 1317, 1323, 1474, 1540 i 1589, z 2010 r. poz. 46, 227, 229, 625, 626, 842, 857, 1018, 1021, 1228, 1474 i 1602, z 2011 r. poz. 78, 130, 202, 245, 381, 549, 678, 767, 964, 1135, 1280, 1381 i 1431, z 2012 r. poz. 611, z 2013 r. poz. 849, 905, 1036 i 1247, z 2014 r. poz. 538, z 2015 r. poz. 396, 541, 1549, 1707 i 1855 oraz z 2016 r. poz. 189, 428 i 437.), zwanej dalej „k.k.”,
 e)
 inne, które ze względu na charakter i wagę sprawy, na podstawie polecenia Prokuratora Generalnego lub Prokuratora Krajowego, zostały przekazane do prowadzenia przez Departament;
 2)
@@ -419,7 +424,7 @@ współpraca międzynarodowa w zakresie opracowywania strategii zwalczania międ
 7)
 sprawowanie zwierzchniego nadzoru służbowego w sprawach wskazanych przez Zastępcę Prokuratora Generalnego do Spraw Przestępczości Zorganizowanej i Korupcji oraz wykonywanie czynności związanych z realizacją nadzoru instancyjnego sprawowanego przez Prokuratora Generalnego w postępowaniu przygotowawczym;
 8)
-przygotowywanie projektów decyzji w zakresie uprawnienia Prokuratora Generalnego, o którym mowa w art. 328 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. poz. 555, z późn. zm.), zwanej dalej „k.p.k.”, w zakresie właściwości Departamentu;
+przygotowywanie projektów decyzji w zakresie uprawnienia Prokuratora Generalnego, o którym mowa w art. 328 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. poz. 555, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. poz. 931, z 2000 r. poz. 580, 717, 852 i 1027, z 2001 r. poz. 1071 i 1149, z 2002 r. poz. 676, z 2003 r. poz. 155, 1061 i 1188, z 2004 r. poz. 514, 626, 889, 2405 i 2641, z 2005 r. poz. 70, 461, 680, 821, 1181, 1203, 1363, 1416 i 1479, z 2006 r. poz. 118, 467, 659, 708, 711, 1009, 1013, 1192, 1647 i 1648, z 2007 r. poz. 116, 432, 539, 589, 664, 766, 849 i 903, z 2008 r. poz. 162, 648, 686, 802, 1133, 1308, 1344, 1485, 1571 i 1651, z 2009 r. poz. 39, 104, 171, 585, 716, 1051, 1178, 1323, 1375, 1474 i 1589, z 2010 r. poz. 46, 626, 669, 826, 842, 1228 i 1307, z 2011 r. poz. 245, 246, 273, 654, 678, 829, 1135, 1280, 1430, 1431, 1438 i 1645, z 2012 r. poz. 886, 1091, 1101, 1327, 1426, 1447 i 1529, z 2013 r. poz. 480, 765, 849, 1247, 1262, 1282 i 1650, z 2014 r. poz. 85, 384, 694, 1375 i 1556, z 2015 r. poz. 21, 290, 396, 1185, 1186, 1334, 1788, 1855 i 2281 oraz z 2016 r. poz. 178 i 437.), zwanej dalej „k.p.k.”, w zakresie właściwości Departamentu;
 9)
 kształtowanie praktyki ścigania na podstawie prowadzonych analiz i badań w zakresie właściwości Departamentu;
 10)
@@ -471,9 +476,9 @@ Do zadań Departamentu Postępowania Sądowego należy w szczególności:
 1)
 opracowywanie projektów kasacji Prokuratora Generalnego od orzeczeń sądów powszechnych w sprawach karnych i nieletnich oraz skarg na wyroki sądów odwoławczych rozpoznawanych na podstawie przepisów k.p.k.;
 2)
-opracowywanie projektów skarg kasacyjnych Prokuratora Generalnego i skarg Prokuratora Generalnego o stwierdzenie niezgodności z prawem prawomocnych orzeczeń sądów powszechnych w sprawach rozpoznawanych na podstawie ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.), zwanej dalej „k.p.c.”;
+opracowywanie projektów skarg kasacyjnych Prokuratora Generalnego i skarg Prokuratora Generalnego o stwierdzenie niezgodności z prawem prawomocnych orzeczeń sądów powszechnych w sprawach rozpoznawanych na podstawie ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924, z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587, 1595, 1634, 1635, 1830 i 1854 oraz z 2016 r. poz. 195 i 437.), zwanej dalej „k.p.c.”;
 3)
-opracowywanie projektów skarg Prokuratora Generalnego o stwierdzenie niezgodności z prawem prawomocnych orzeczeń sądów administracyjnych na podstawie ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2012 r. poz. 270, z późn. zm.);
+opracowywanie projektów skarg Prokuratora Generalnego o stwierdzenie niezgodności z prawem prawomocnych orzeczeń sądów administracyjnych na podstawie ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2012 r. poz. 270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101 i 1529, z 2014 r. poz. 183 i 543, z 2015 r. poz. 658, 1191, 1224, 1269 i 1311 oraz z 2016 r. poz. 394.);
 4)
 udział w posiedzeniach Sądu Najwyższego w składach zwykłych i powiększonych, dotyczących zagadnień prawnych w sprawach karnych i cywilnych oraz w posiedzeniach Naczelnego Sądu Administracyjnego rozpoznającego zagadnienie prawne;
 5)
@@ -570,6 +575,7 @@ koordynowanie działalności prokuratury i innych organów państwowych w zakres
 monitorowanie spraw, w których strona wniosła skargę na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora bez nieuzasadnionej zwłoki w zakresie właściwości Wydziału.
 § 26.
 Szczegółowy podział na komórki organizacyjne w Prokuraturze Krajowej wraz ze wskazaniem zadań określa Prokurator Krajowy.
+Struktura organizacyjna i zadania realizowane w prokuraturze regionalnej, prokuraturze okręgowej i prokuraturze rejonowej
 § 27.
 1.
 W skład prokuratury regionalnej mogą wchodzić w szczególności następujące komórki organizacyjne:
@@ -753,6 +759,8 @@ planowanie i realizacja kontroli przestrzegania prawa i profilaktyki w zakresie 
 nadzór nad czynnościami wyjaśniającymi w postępowaniu w sprawach o wykroczenia w zakresie osób podlegających orzecznictwu sądów wojskowych.
 2.
 W prokuraturze rejonowej, w której utworzono dział do spraw wojskowych, prokurator kierujący tym działem jest zastępcą prokuratora rejonowego do spraw wojskowych.
+Organizacja pracy i sposób kierowania pracą
+Organizacja pracy
 § 38.
 Prokurator, wykonując samodzielnie czynności określone w ustawach, jest odpowiedzialny za prawidłowość i terminowość tych czynności, a zwłaszcza za treść i formę postanowień, zarządzeń i innych pism procesowych oraz rzetelność ustnych sprawozdań i ścisłość informacji.
 § 39.
@@ -894,6 +902,7 @@ W pozostałych jednostkach interesantów przyjmują odpowiednio prokurator regio
 Godziny przyjęć interesantów ustala kierownik jednostki, przy czym co najmniej raz w tygodniu przyjęcia odbywają się w ustalonym dniu po godzinach urzędowania.
 4.
 Czas przyjęć interesantów przez pracowników prokuratury nie może być krótszy niż połowa czasu urzędowania jednostki.
+Kierowanie pracą prokuratur
 § 56.
 1.
 Prokuratorzy pełniący funkcje kierownicze zapewniają prawidłową i sprawną realizację zadań służbowych w powierzonych im jednostkach i komórkach organizacyjnych prokuratury oraz właściwą organizację pracy, a w szczególności:
@@ -971,11 +980,12 @@ Przełożeni i zwierzchnicy służbowi, niezależnie od sprawowania funkcji kier
 Prokuratorzy powołani do pełnienia funkcji wizytatora, rzecznika prasowego, rzecznika dyscyplinarnego, kierownika szkolenia wykonują także inne zlecone im zadania, niewchodzące w zakres pełnionej funkcji, w szczególności te, o których mowa w art. 3 § 1 pkt 1 ustawy.
 § 62.
 1.
-Pojazdy służbowe mogą być używane jako pojazdy uprzywilejowane w rozumieniu art. 53 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) jedynie w związku z koniecznością zapewnienia prokuratorowi niezwłocznego udziału w czynnościach służbowych niezbędnych dla prawidłowej realizacji zadań prokuratora.
+Pojazdy służbowe mogą być używane jako pojazdy uprzywilejowane w rozumieniu art. 53 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970, z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1830, 1844, 1893, 2183 i 2281 oraz z 2016 r. poz. 266 i 352.) jedynie w związku z koniecznością zapewnienia prokuratorowi niezwłocznego udziału w czynnościach służbowych niezbędnych dla prawidłowej realizacji zadań prokuratora.
 2.
 Prokurator Krajowy określi, w drodze zarządzenia, szczegółowy sposób używania pojazdów służbowych jako pojazdów uprzywilejowanych.
 § 63.
 Sposób zdeponowania broni palnej i amunicji, o którym mowa w art. 40 § 3 ustawy, określi, w drodze zarządzenia, kierownik jednostki.
+Formy i tryb sprawowania nadzoru służbowego
 § 64.
 1.
 Prokuratorzy, niezależnie od obowiązków określonych w art. 3 § 1 pkt 1 ustawy, sprawują nadzór służbowy nad czynnościami podległych prokuratorów.
@@ -1049,6 +1059,7 @@ opracowywaniu i wdrażaniu do praktyki prokuratorskiej metodyki prowadzenia post
 Przepisy niniejszego oddziału stosuje się odpowiednio do sprawowania nadzoru służbowego spraw z zakresu działalności pozakarnej prokuratury.
 § 76.
 Funkcje nadzorcze są realizowane także poprzez wizytacje i lustracje.
+Wizytacja i lustracja
 § 77.
 1.
 Wizytację i lustrację przeprowadza się stosownie do potrzeb, w szczególności gdy pojawią się sygnały o istotnych nieprawidłowościach w działalności danej jednostki. Wizytację należy przeprowadzać nie rzadziej niż co 5 lat.
@@ -1187,6 +1198,7 @@ Sprawozdanie z lustracji, w terminie 14 dni od dnia jej zakończenia, przesyła 
 Po rozpatrzeniu zgłoszonych uwag zarządzający lustrację bez zbędnej zwłoki zatwierdza zalecenia polustracyjne, które przekazuje się kierownikowi kontrolowanej jednostki, zakreślając termin ich wykonania.
 § 88.
 Przepisy niniejszego oddziału nie mają zastosowania do doraźnych lustracji toczących się lub zakończonych postępowań przygotowawczych i sprawdzających, dokonywanych na polecenie Prokuratora Generalnego, Prokuratora Krajowego lub pozostałych zastępców Prokuratora Generalnego. Z dokonanych w toku tych lustracji ustaleń sporządza się sprawozdanie, które przedstawia się organowi polecającemu badanie w terminie zakreślonym przez ten organ.
+Sprawy osobowe
 § 89.
 Prokurator rejonowy przedstawia prokuratorowi okręgowemu pisemne wnioski w sprawach ze stosunku pracy podległych prokuratorów i pracowników.
 § 90.
@@ -1246,6 +1258,7 @@ Przepisy ust. 1 i 2 nie dotyczą opinii wydawanych o aplikantach i asesorach pro
 Opinia może być udostępniona do wglądu tylko pracownikowi, którego dotyczy, jego zwierzchnikom i przełożonym oraz osobom prowadzącym postępowanie służbowe lub dyscyplinarne wobec danego pracownika.
 § 97.
 Prokurator Krajowy określi, w drodze zarządzenia, sposób udostępniania oświadczeń majątkowych, o których mowa w art. 104 ustawy.
+Organizacja pracy organów kolegialnych
 § 98.
 1.
 Krajowa Rada Prokuratorów działa na posiedzeniach plenarnych, którym przewodniczy Prokurator Generalny.
@@ -1269,6 +1282,7 @@ Uchwały zapadają zwykłą większością głosów członków Krajowej Rady Pro
 Z przebiegu posiedzenia Krajowej Rady Prokuratorów, zebrania prokuratorów Prokuratury Krajowej, zgromadzenia prokuratorów oraz kolegium prokuratury regionalnej i kolegium prokuratury okręgowej sporządza się protokół, który powinien zawierać streszczenie dyskusji oraz treść powziętych uchwał.
 4.
 Protokół podpisują odpowiednio: przewodniczący posiedzenia Krajowej Rady Prokuratorów i Sekretarz Rady, Prokurator Krajowy, prokurator regionalny albo okręgowy i protokolant.
+Dysponenci środków budżetowych
 § 102.
 1.
 Środkami z części budżetu państwa odpowiadającej prokuraturze w zakresie pobierania dochodów i dokonywania wydatków dysponują – stosownie do zakresu swoich kompetencji – dysponenci poszczególnych stopni.
@@ -1364,6 +1378,8 @@ organizowanie właściwego przepływu informacji w zakresie realizacji zadań fi
 podejmowanie działań organizacyjnych na rzecz optymalizacji wydatków związanych z funkcjonowaniem – odpowiednio Prokuratury Krajowej, prokuratury regionalnej lub prokuratury okręgowej i prokuratur rejonowych na obszarze działania danej prokuratury okręgowej;
 8)
 prowadzenie działalności inwestycyjnej odpowiednio – Prokuratury Krajowej, prokuratury regionalnej lub prokuratury okręgowej i prokuratur rejonowych na obszarze działania danej prokuratury okręgowej.
+Postępowanie przygotowawcze
+Przepisy ogólne
 § 106.
 Śledztwo lub dochodzenie wszczęte w sprawie prowadzi się w stosunku do wszystkich czynów ujawnionych w jego toku.
 § 107.
@@ -1444,6 +1460,7 @@ Jeżeli wniosek o wyłączenie został oparty na tych samych podstawach faktyczn
 O wyłączeniu prowadzącego postępowanie przygotowawcze lub oskarżyciela publicznego innego niż prokurator orzeka prokurator nadzorujący to postępowanie.
 § 118.
 Zarządzenie prokuratora w prowadzonym lub nadzorowanym przez niego postępowaniu przygotowawczym może być wydane ustnie, jeżeli nie przysługuje na nie zażalenie. O wydaniu takiego zarządzenia prokurator sporządza w aktach podręcznych adnotację.
+Wszczęcie śledztwa i dochodzenia
 § 119.
 1.
 Prokurator – niezależnie od właściwości miejscowej i rzeczowej – przyjmuje ustne zawiadomienie o przestępstwie w sprawach, o których mowa w art. 309 pkt 2 i 3 k.p.k. W pozostałych sprawach prokurator przyjmuje zawiadomienie o przestępstwie osobiście, jeżeli osoba zgłaszająca wyrazi taką wolę, lub poucza tę osobę o możliwości złożenia ustnego zawiadomienia o przestępstwie do innego organu uprawnionego do prowadzenia postępowania przygotowawczego lub złożenia w prokuraturze zawiadomienia o przestępstwie w formie pisemnej.
@@ -1479,6 +1496,8 @@ W przypadku zaistnienia podstaw do umorzenia postępowania przygotowawczego wyda
 W postanowieniu o wszczęciu śledztwa lub dochodzenia określa się czyn przez zwięzłe wskazanie okoliczności faktycznych należących do znamion przestępstwa, czasu i miejsca jego popełnienia oraz osoby pokrzywdzonej.
 2.
 Wskazanie sprawcy w opisie czynu określonego w postanowieniu, o którym mowa w ust. 1, może nastąpić jedynie wówczas, gdy jest to niezbędne dla jego poprawnego określenia i zachodzą warunki do bezzwłocznego sporządzenia postanowienia o przedstawieniu zarzutów.
+Przebieg postępowania przygotowawczego
+Śledztwo
 § 125.
 Forma śledztwa obowiązuje w stosunku do wszystkich czynów ujawnionych w czasie jego trwania, objętych jednym postępowaniem ze względu na łączność podmiotową, przedmiotową lub podmiotowo-przedmiotową; dotyczy to również spraw poszczególnych osób lub o poszczególne czyny wyłączonych do odrębnego postępowania, z zastrzeżeniem § 109 ust. 3.
 § 126.
@@ -1523,16 +1542,19 @@ Z wnioskiem, o którym mowa w ust. 3, występuje prokurator, który prowadzi lub
 Kolejne wnioski złożone w tej samej sprawie powinny odnosić się do aktualnych ustaleń i zamierzeń prowadzącego śledztwo. Okoliczności faktyczne i prawne sformułowane w poprzednich wnioskach mogą być powtórzone wyłącznie w sytuacji, gdy dotychczas przeprowadzone czynności procesowe nie wyjaśniły dostatecznie tych okoliczności.
 § 131.
 Prokuratorem prowadzącym śledztwo, w rozumieniu art. 310 § 2 k.p.k., jest prokurator, który po wszczęciu śledztwa prowadzi je osobiście bądź powierzył jego przeprowadzenie Policji albo innemu uprawnionemu organowi w określonym zakresie lub zlecił dokonanie poszczególnych czynności śledztwa, zaś prokuratorem nadzorującym śledztwo jest prokurator, który po wszczęciu śledztwa powierzył jego przeprowadzenie w całości Policji albo innemu uprawnionemu organowi.
+Dochodzenie
 § 132.
 Dochodzenia nie prowadzi się, jeżeli zarzucony podejrzanemu czyn wyczerpuje znamiona określone w dwóch lub więcej przepisach ustawy karnej, pozostających w zbiegu kumulatywnym, z których chociażby co do jednego wyłączona jest możliwość prowadzenia dochodzenia.
 § 133.
 Wniosek o przedłużenie okresu dochodzenia składa się prokuratorowi nadzorującemu dochodzenie nie później niż na 5 dni przed upływem terminu zakończenia dochodzenia.
 § 134.
 Wydanie postanowienia o umorzeniu dochodzenia i wpisaniu sprawy do rejestru przestępstw jest dopuszczalne w każdej sprawie.
+Zamieszczanie w aktach sprawy danych dotyczących miejsca zamieszkania i pracy pokrzywdzonego i świadka
 § 135.
 Okoliczności, o których mowa w art. 148a § 4 pkt 1 k.p.k., powinny wynikać z niebudzących wątpliwości materiałów zgromadzonych w sprawie.
 § 136.
 Przesłanka, o której mowa w art. 148a § 4 pkt 3 k.p.k., może zaistnieć w szczególności wtedy, gdy postępowanie nie dotyczy czynów z użyciem przemocy lub groźby karalnej.
+Przedstawienie, uzupełnienie i zmiana zarzutów
 § 137.
 1.
 Wydanie postanowienia o przedstawieniu zarzutów obejmuje jego sporządzenie, niezwłoczne ogłoszenie i przesłuchanie podejrzanego.
@@ -1560,6 +1582,7 @@ Postanowienie o zmianie zarzutów dotyczy czynu, który był objęty uprzednio w
 Postanowienie określone w ust. 1 wydaje się, jeżeli zachodzi potrzeba istotnej zmiany opisu czynu lub też zarzucony czyn należy zakwalifikować z surowszego przepisu albo z przepisu o takim samym zagrożeniu ustawowym lub z łagodniejszego przepisu, gdy ma to znaczenie dla obrony podejrzanego.
 § 142.
 W przypadku gdy okaże się, że podejrzany nie popełnił czynu objętego uprzednio wydanym postanowieniem o przedstawieniu, zmianie lub uzupełnieniu zarzutów lub że postępowanie karne o ten czyn nie może toczyć się z innych przyczyn wyłączających ściganie, postępowanie przygotowawcze w tej części umarza się.
+Udostępnianie akt sprawy
 § 143.
 1.
 W postępowaniu przygotowawczym uwzględnienie i odmowa uwzględnienia wniosku o udostępnienie akt, sporządzenie z nich odpisów i kopii oraz odpłatne wydanie uwierzytelnionych odpisów lub kopii następuje w formie zarządzenia. Odmowa uwzględnienia wniosku wymaga pisemnego uzasadnienia.
@@ -1581,6 +1604,8 @@ W przypadku żądania sporządzenia z akt odpisów lub kopii, podstawę uwzględ
 Prokurator przed wystąpieniem do sądu z wnioskiem o zastosowanie tymczasowego aresztowania, w przypadku wystąpienia przesłanek, o których mowa w art. 250 § 2b k.p.k., wydaje zarządzenie określające, które dowody z zeznań świadków, mające stanowić podstawę zastosowania tymczasowego aresztowania, nie zostaną udostępnione oskarżonemu i jego obrońcy. Zarządzenie dołącza się do akt podręcznych.
 2.
 Niezwłocznie po wydaniu zarządzenia, o którym mowa w ust. 1, dowody z zeznań świadków wymienione w zarządzeniu umieszcza się w wyodrębnionym zbiorze dokumentów, o którym mowa w art. 250 § 2b k.p.k.
+Postępowanie dowodowe
+Przesłuchanie osoby
 § 149.
 1.
 Przed przesłuchaniem sprawdza się tożsamość osoby wezwanej na podstawie dowodu osobistego lub innego dokumentu stwierdzającego jej tożsamość. Sprawdzenie tożsamości lub brak dowodu tożsamości osoby wezwanej należy odnotować w protokole.
@@ -1599,6 +1624,7 @@ Kopię doręczonego na piśmie i podpisanego przez pokrzywdzonego, świadka lub 
 Podejrzanego poucza się w miarę potrzeby także o uprawnieniach i obowiązkach innych niż wymienione w art. 300 § 1 k.p.k. O zakresie udzielonych podejrzanemu pouczeń zamieszcza się stosowną wzmiankę w początkowej części protokołu przesłuchania.
 3.
 Odmowę zgody na złożenie przez podejrzanego wyjaśnień na piśmie, wraz z podaniem jej powodów, odnotowuje się w protokole przesłuchania.
+Biegli
 § 154.
 Prokurator powołuje biegłego niezwłocznie po zebraniu materiału dowodowego potrzebnego do wydania opinii. Materiał powinien być zebrany w sposób umożliwiający wydanie opinii w wyznaczonym terminie.
 § 155.
@@ -1623,6 +1649,7 @@ Przed wystąpieniem z wnioskiem o orzeczenie obserwacji prokurator sprawdza, czy
 Dokumenty urzędowe i prywatne, o których mowa w art. 393 § 3 k.p.k., sporządzone przez osoby posiadające wiedzę specjalną, mogą stanowić podstawę do odstąpienia od powołania biegłego w zakresie objętym ich treścią, jeżeli kompletność i rzetelność tych dokumentów nie budzi wątpliwości.
 2.
 Przepisu ust. 1 nie stosuje się do opinii o stanie zdrowia psychicznego podejrzanego.
+Zatrzymanie rzeczy. Przeszukanie. Dowody rzeczowe
 § 159.
 Zatrzymaniu w drodze dobrowolnego wydania lub odebrania albo po uprzednim przeszukaniu podlegają rzeczy mogące stanowić dowód w sprawie, które:
 1)
@@ -1658,6 +1685,7 @@ przekazania sądowi aktu oskarżenia, wniosku o wydanie wyroku skazującego, wni
 Prokurator, po ustaleniu lub w wyniku okresowej kontroli co do tego, czy dowody rzeczowe stanowią przedmioty ulegające szybkiemu zniszczeniu lub takie, których przechowywanie byłoby połączone z niewspółmiernymi kosztami lub nadmiernymi trudnościami albo powodowałoby znaczne obniżenie wartości rzeczy, postanawia o sprzedaży tych przedmiotów w trybie art. 232 § 1 k.p.k.
 § 164.
 W sprawie, w której dokonano pobrania lub utrwalenia materiału, o którym mowa w art. 192a § 1 k.p.k., prokurator po wykorzystaniu go wydaje niezwłocznie zarządzenie o usunięciu z akt sprawy i zniszczeniu pobranego lub utrwalonego materiału, zbędnego dla postępowania. Z czynności tych sporządza się protokół, który załącza się do akt sprawy.
+Zebranie danych o podejrzanym
 § 165.
 1.
 Dane o podejrzanym, o których mowa w art. 213 § 1–2a k.p.k., należy ustalić niezwłocznie po wydaniu w stosunku do niego postanowienia o przedstawieniu zarzutów albo po postawieniu mu zarzutu bez wydania takiego postanowienia w związku z przystąpieniem do przesłuchania w charakterze podejrzanego. W przypadku rozstrzygania kwestii zastosowania środka zapobiegawczego ustalenie danych, o których mowa w art. 213 § 1 k.p.k., powinno nastąpić przed podjęciem decyzji w tym przedmiocie.
@@ -1665,6 +1693,7 @@ Dane o podejrzanym, o których mowa w art. 213 § 1–2a k.p.k., należy ustali�
 Jeżeli dane o karalności podejrzanego oraz informacje dotyczące jego stosunków majątkowych i źródeł dochodu pochodzą sprzed 6 miesięcy, należy zażądać ich ponownie.
 § 166.
 Jeżeli podejrzanym jest nieletni albo jeżeli karalność czynu zależy od wieku pokrzywdzonego, do akt sprawy załącza się wyciąg z dowodu osobistego, paszportu lub z aktu urodzenia podejrzanego lub pokrzywdzonego.
+Udział stron, ich obrońców i pełnomocników
 § 167.
 1.
 Prokurator rozpatruje niezwłocznie wnioski stron, ich obrońców i pełnomocników o przeprowadzenie określonych dowodów i dopuszczenie ich do udziału w czynnościach.
@@ -1679,6 +1708,7 @@ Jeżeli z okoliczności sprawy wynika, że podejrzany nie jest w stanie ponieś�
 Po stwierdzeniu okoliczności uzasadniających wyznaczenie obrońcy z urzędu w myśl art. 79 § 1 i 2 k.p.k. prokurator niezwłocznie występuje z odpowiednim wnioskiem do prezesa właściwego sądu.
 3.
 W razie wydania przez biegłych opinii, o której mowa w art. 79 § 4 k.p.k., prokurator występuje do prezesa sądu o cofnięcie wyznaczenia obrońcy, chyba że zachodzą inne okoliczności przemawiające za tym, aby podejrzany miał obrońcę wyznaczonego z urzędu.
+Udział prokuratora w czynnościach dowodowych
 § 169.
 W sprawach o zabójstwo, katastrofę komunikacyjną i budowlaną oraz wypadek przy pracy ze skutkiem śmiertelnym, a także w innych poważniejszych sprawach, których skutkiem jest śmierć człowieka, prokurator osobiście kieruje oględzinami miejsca zdarzenia oraz w razie potrzeby dokonuje odtworzenia jego przebiegu.
 § 170.
@@ -1726,6 +1756,8 @@ Jeżeli wymaga tego dobro postępowania przygotowawczego, prokurator, drogą sł
 Przesłuchanie dokonywane osobiście przez prokuratora, w miarę możliwości, odbywa się w siedzibie jednostki. Przy przesłuchaniu tym nie może być obecny funkcjonariusz organu, który prowadzi postępowanie przygotowawcze, chyba że zachodzi niebezpieczeństwo autoagresji lub ucieczki podejrzanego, a także konieczność zapewnienia bezpieczeństwa prokuratorowi.
 2.
 Obecność przy przesłuchaniu funkcjonariusza, o którym mowa w ust. 1, jest dopuszczalna również wtedy, gdy przemawia za tym wzgląd na dobro postępowania przygotowawczego, chyba że mogłoby to spowodować ograniczenie lub wyłączenie swobody wypowiedzi osoby przesłuchiwanej lub sprzeciwia się temu inny ważny interes prawny osoby przesłuchiwanej.
+Środki przymusu
+Zatrzymanie
 § 177.
 Czas zatrzymania liczy się od chwili faktycznego pozbawienia wolności zatrzymanego.
 § 178.
@@ -1740,6 +1772,7 @@ proporcjonalność czasu zatrzymania do potrzeb postępowania;
 przestrzeganie uprawnień zatrzymanego;
 5)
 prawidłowość udokumentowania zatrzymania i związanych z nim czynności w aktach głównych sprawy.
+Środki zapobiegawcze
 § 179.
 Wniosek Policji lub innego organu o zastosowanie środka zapobiegawczego powinien mieć formę pisemną i zawierać w uzasadnieniu przytoczenie okoliczności faktycznych i prawnych wskazujących na konieczność jego zastosowania.
 § 180.
@@ -1812,7 +1845,7 @@ podpis prokuratora.
 3.
 Oryginał zarządzenia o zgodzie na widzenie doręcza się osobie odwiedzającej, natomiast jego kopię pozostawia w aktach podręcznych.
 4.
-Cenzurowania korespondencji podejrzanych tymczasowo aresztowanych innej niż wymieniona w art. 8 § 3, art. 102 pkt 11 i art. 103 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm.) dokonuje prokurator, który prowadzi bądź nadzoruje postępowanie. Ocenzurowana korespondencja podlega oznakowaniu pieczęcią o treści: „Ocenzurowano, data... podpis... ”. Pieczęć przystawia się na korespondencji.
+Cenzurowania korespondencji podejrzanych tymczasowo aresztowanych innej niż wymieniona w art. 8 § 3, art. 102 pkt 11 i art. 103 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 1083, z 1999 r. poz. 931, z 2000 r. poz. 701 i 1268, z 2001 r. poz. 1071 i 1194, z 2002 r. poz. 676 i 1679, z 2003 r. poz. 1061, 1380 i 1750, z 2004 r. poz. 889, 2135, 2405, 2426 i 2703, z 2005 r. poz. 1363 i 1479, z 2006 r. poz. 708 i 1648, z 2007 r. poz. 849, z 2008 r. poz. 620 i 1344, z 2009 r. poz. 39, 119, 504, 817, 911, 963, 1475, 1540 i 1589, z 2010 r. poz. 191, 227, 842 i 1228, z 2011 r. poz. 201, 202, 654, 734, 1092, 1280 i 1431, z 2012 r. poz. 908, z 2013 r. poz. 628 i 1247, z 2014 r. poz. 287, 619 i 1707, z 2015 r. poz. 21, 396, 431, 541, 1269 i 1573 oraz z 2016 r. poz. 428 i 437.) dokonuje prokurator, który prowadzi bądź nadzoruje postępowanie. Ocenzurowana korespondencja podlega oznakowaniu pieczęcią o treści: „Ocenzurowano, data... podpis... ”. Pieczęć przystawia się na korespondencji.
 5.
 Jeżeli korespondencja tymczasowo aresztowanego zawiera wiadomości mogące utrudnić postępowanie przygotowawcze, prokurator zarządza załączenie jej do akt sprawy, o czym zawiadamia nadawcę; nie dotyczy to korespondencji, którą można doręczyć adresatowi po usunięciu z niej takich wiadomości.
 6.
@@ -1862,6 +1895,7 @@ Odpis postanowienia, o którym mowa w ust. 1, przesyła się Komendzie Głównej
 Odpisy postanowień o uchyleniu środka zapobiegawczego, o którym mowa w ust. 1, bądź jego zmianie przesyła się organom wymienionym w ust. 1 i 5.
 § 198.
 W przypadku zastosowania środka zapobiegawczego określonego w art. 276 k.p.k. odpis postanowienia o zawieszeniu podejrzanego w czynnościach służbowych lub w wykonywaniu zawodu albo zawierającego nakaz powstrzymania się od określonej działalności doręcza się pracodawcy lub właściwemu organowi samorządu zawodowego albo instytucji, a odpis postanowienia o nakazaniu powstrzymania się od prowadzenia określonego rodzaju pojazdów Komendzie Głównej Policji.
+List gończy
 § 199.
 1.
 Przed wydaniem postanowienia o poszukiwaniu podejrzanego listem gończym prokurator występuje do sądu z wnioskiem o zastosowanie tymczasowego aresztowania.
@@ -1879,6 +1913,7 @@ W sytuacji, o której mowa w art. 279 § 4 k.p.k., decyzję, do którego z sąd�
 Jeżeli ustały przyczyny poszukiwania podejrzanego listem gończym, należy niezwłocznie odwołać poszukiwanie i zawiadomić o tym właściwą jednostkę Policji.
 2.
 W przypadku uchylenia tymczasowego aresztowania należy także uchylić postanowienie o poszukiwaniu listem gończym oraz odwołać list gończy.
+Zabezpieczenie majątkowe
 § 202.
 W sprawach, o których mowa w art. 291 k.p.k., należy już w początkowym stadium postępowania przygotowawczego zbierać informacje o stanie majątkowym osoby podejrzanej oraz o rzeczach i prawach majątkowych podlegających zabezpieczeniu, a będących we władaniu innych osób.
 § 203.
@@ -1906,6 +1941,7 @@ Przepis § 163 stosuje się odpowiednio do przedmiotu zabezpieczenia majątkoweg
 O uchyleniu postanowienia o zabezpieczeniu zawiadamia się podejrzanego, osobę, której mienie zostało oddane na przechowanie, oraz organ egzekucyjny, któremu postanowienie przesłano do wykonania.
 § 210.
 Nadesłany przez organ egzekucyjny protokół dokonanego zajęcia mienia składa się do akt postępowania przygotowawczego, a jego kopię – do akt podręcznych. Jeżeli akta sprawy znajdują się już w sądzie, protokół należy przesłać sądowi w celu dołączenia do właściwych akt.
+Zawieszenie postępowania
 § 211.
 1.
 Jeżeli do czasu zakończenia śledztwa lub dochodzenia prowadzonego przeciwko kilku podejrzanym, wobec jednego z nich zachodzi przeszkoda uzasadniająca zawieszenie postępowania, przed sporządzeniem aktu oskarżenia, wniosku o wydanie wyroku skazującego, wniosku o warunkowe umorzenie postępowania lub wniosku przewidzianego w art. 324 § 1 k.p.k. należy wyłączyć sprawę tego podejrzanego do odrębnego postępowania, chyba że wyłączenie ograniczyłoby w sposób znaczny możliwość wyjaśnienia okoliczności sprawy.
@@ -1932,6 +1968,8 @@ W czasie zawieszenia postępowania przygotowawczego należy okresowo, nie rzadzi
 Po ustaniu przyczyn zawieszenia postępowania prokurator niezwłocznie wydaje postanowienie o jego podjęciu.
 2.
 Jeżeli ustały przyczyny, które spowodowały zarządzenie poszukiwania, należy je niezwłocznie odwołać i zawiadomić o tym właściwy organ.
+Zakończenie postępowania przygotowawczego
+Zamknięcie postępowania przygotowawczego
 § 216.
 Czynności przewidziane w art. 321 § 1 k.p.k. przeprowadza się, gdy istnieją podstawy do sporządzenia i wniesienia do sądu aktu oskarżenia, wniosku o wydanie wyroku skazującego lub wniosku o warunkowe umorzenie postępowania bądź skierowania sprawy do sądu z wnioskiem o umorzenie postępowania i zastosowanie środków zabezpieczających.
 § 217.
@@ -1941,6 +1979,7 @@ Dopuszczalne jest równoczesne zaznajomienie z materiałami postępowania więce
 Postanowienia o zamknięciu postępowania nie wydaje się przed rozpoznaniem zgłoszonych wniosków o jego uzupełnienie.
 2.
 Niezależnie od liczby podejrzanych wydaje się jedno postanowienie o zamknięciu postępowania.
+Umorzenie postępowania przygotowawczego
 § 219.
 Umarzając postępowanie przygotowawcze na podstawie art. 322 k.p.k., jako przyczynę umorzenia można wskazać także:
 1)
@@ -1963,6 +2002,7 @@ W uzasadnieniu postanowienia o umorzeniu należy wymienić osoby, przeciwko któ
 Po wydaniu lub zatwierdzeniu postanowienia o umorzeniu śledztwa albo dochodzenia prokurator niezwłocznie podejmuje decyzję o uchyleniu zastosowanych środków zapobiegawczych oraz w przedmiocie dowodów rzeczowych, z zastrzeżeniem art. 325e § 2 zdanie drugie k.p.k.
 § 223.
 Jeżeli w wyniku śledztwa lub dochodzenia prowadzonego przeciwko więcej niż jednemu podejrzanemu zachodzą podstawy do wystąpienia z wnioskiem o wydanie wyroku skazującego, warunkowego umorzenia postępowania lub umorzenia postępowania przygotowawczego i orzeczenia środka zabezpieczającego w stosunku do jednego lub niektórych z nich, a co do innych należy sporządzić akt oskarżenia, prokurator wyłącza postanowieniem sprawę w odpowiedniej części do odrębnego prowadzenia.
+Akt oskarżenia
 § 224.
 1.
 Prokurator, stosując art. 331 k.p.k., jest obowiązany do podjęcia, w terminach wskazanych w tym przepisie, właściwych decyzji procesowych co do wszystkich podejrzanych i zarzuconych im czynów.
@@ -2012,6 +2052,7 @@ Przekazanie tymczasowo aresztowanego do dyspozycji sądu następuje równocześn
 W przypadku zastosowania w postępowaniu przygotowawczym poręczenia lub dozoru Policji, o przesłaniu do sądu aktu oskarżenia należy zawiadomić poręczającego lub jednostkę organizacyjną Policji sprawującą dozór nad podejrzanym.
 § 231.
 Przepisy niniejszego oddziału stosuje się odpowiednio do wniosku o warunkowe umorzenie postępowania, wniosku o wydanie wyroku skazującego oraz wniosku o umorzenie postępowania przygotowawczego i orzeczenie środka zabezpieczającego.
+Konsensualne zakończenie postępowania
 § 232.
 Zgodę na warunki skazania podejrzany wyraża w protokole przesłuchania podejrzanego lub w protokole końcowego zaznajomienia go z materiałami postępowania albo w odrębnym piśmie.
 § 233.
@@ -2023,6 +2064,7 @@ Pouczenie o treści art. 447 § 5 k.p.k. podejrzany potwierdza własnoręcznym p
 Niewyrażenie sprzeciwu wobec wniosku oskarżonego, o którym mowa w art. 338a k.p.k. oraz w art. 387 k.p.k., jest możliwe jedynie wtedy, gdy nie zaprzecza on popełnieniu zarzuconego mu czynu, okoliczności popełnienia przestępstwa i wina oskarżonego nie budzą wątpliwości, a proponowany wymiar kary lub innych środków jest zgodny z ustawowymi dyrektywami ich wymiaru.
 § 235.
 Wyrażenie zgody lub niewyrażenie sprzeciwu wobec wniosku oskarżonego o zamieszczenie w wyroku rozstrzygnięcia o zwolnieniu w całości lub w części z kosztów sądowych może nastąpić wyłącznie w przypadku zaistnienia okoliczności określonych w art. 624 § 1 k.p.k.
+Nadzór procesowy prokuratora nad postępowaniem przygotowawczym
 § 236.
 Nadzór prokuratora nad postępowaniem przygotowawczym dotyczy również czynności procesowych dokonywanych na podstawie art. 308 § 1 k.p.k.
 § 237.
@@ -2093,6 +2135,7 @@ Spostrzeżenia i uwagi dotyczące sposobu prowadzenia postępowania przygotowawc
 Przepisy niniejszego rozdziału stosuje się odpowiednio do nadzoru prokuratora nad postępowaniem przygotowawczym prowadzonym przez inne uprawnione organy.
 § 248.
 Prokurator rejonowy lub prokurator przez niego wyznaczony co najmniej raz w roku dokonuje kontroli dochodzeń prowadzonych przez inne organy posiadające uprawnienia oskarżycieli publicznych i w razie potrzeby udziela im niezbędnych wskazań.
+Terminy i zażalenia
 § 249.
 Do okresu postępowania przygotowawczego nie wlicza się czasu, jaki upływa:
 1)
@@ -2120,6 +2163,7 @@ Po otrzymaniu zażalenia na postanowienie w przedmiocie środka zapobiegawczego 
 Uznając, że nie ma podstaw do uwzględnienia zażalenia na postanowienie zamykające drogę do wydania wyroku, prokurator jest obowiązany przedstawić je niezwłocznie właściwemu sądowi wraz z aktami sprawy i wnioskiem zawierającym jego stanowisko co do zasadności zażalenia.
 2.
 Przed dokonaniem czynności, o których mowa w ust. 1, prokurator może osobiście przedsięwziąć lub zlecić Policji albo innemu uprawnionemu organowi sprawdzenie nowych istotnych faktów i dowodów, na które powołuje się wnoszący zażalenie.
+Podjęcie na nowo i wznowienie umorzonego postępowania oraz uchylenie lub zmiana prawomocnego postanowienia o umorzeniu postępowania
 § 253.
 1.
 Postanowienie o podjęciu na nowo umorzonego śledztwa lub dochodzenia należy wydać niezwłocznie po ujawnieniu okoliczności wskazujących, że umorzenie postępowania było niezasadne.
@@ -2143,12 +2187,16 @@ Pismo kwestionujące zasadność prawomocnego postanowienia o umorzeniu postępo
 Jeżeli pismo zawiera wniosek o wydanie postanowienia przewidzianego w art. 328 k.p.k. lub potrzeba taka wyłoni się w toku badania sprawy, pismo wraz z aktami i stosownym wnioskiem prokuratora regionalnego przekazuje się Prokuratorowi Krajowemu. Pismo informujące o braku podstaw do wydania postanowienia na podstawie art. 328 k.p.k. podpisuje dyrektor lub zastępca dyrektora właściwego departamentu Prokuratury Krajowej.
 5.
 Pismo z wnioskiem, o którym mowa w ust. 4, naczelnik wydziału zamiejscowego przekazuje Dyrektorowi Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej.
+Postępowanie w sprawach z oskarżenia prywatnego
 § 257.
 Jeżeli zawiadomienie o przestępstwie ściganym z oskarżenia prywatnego nie daje podstaw do wszczęcia postępowania z urzędu, prokurator wydaje postanowienie o odmowie wszczęcia postępowania. Pokrzywdzonego poucza się o prawie do złożenia aktu oskarżenia, ze wzmianką, że w przypadku wniesienia przez niego prywatnego aktu oskarżenia materiały sprawy zostaną na jego żądanie przesłane sądowi.
 § 258.
 Jeżeli dowody zebrane w toku postępowania przygotowawczego nie potwierdzają oceny, o której mowa w art. 60 § 1 k.p.k., prokurator wydaje postanowienie o umorzeniu postępowania z uwagi na brak interesu społecznego w kontynuowaniu ścigania z urzędu. Przepis § 257 zdanie drugie stosuje się odpowiednio.
 § 259.
 Jeżeli w toku postępowania przygotowawczego wszczętego o przestępstwo ścigane z oskarżenia publicznego okaże się, że czyn będący przedmiotem postępowania jest przestępstwem ściganym z oskarżenia prywatnego, a interes społeczny nie wymaga ścigania z urzędu, prokurator wydaje postanowienie o umorzeniu postępowania z uwagi na brak interesu społecznego w objęciu ścigania z urzędu. W uzasadnieniu postanowienia należy wykazać brak w czynie znamion przestępstwa ściganego z oskarżenia publicznego oraz brak interesu społecznego w ściganiu sprawcy z urzędu. Przepis § 257 zdanie drugie stosuje się odpowiednio.
+Współpraca międzynarodowa w sprawach karnych
+Pomoc prawna
+Występowanie o zagraniczną pomoc prawną
 § 260.
 1.
 Wniosek o udzielenie pomocy prawnej w sprawie karnej sporządza się w języku polskim. Wniosek podpisuje Dyrektor Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej, naczelnik Wydziału Spraw Wewnętrznych Prokuratury Krajowej, naczelnik właściwego wydziału zamiejscowego, prokurator regionalny lub okręgowy oraz opatruje się pieczęcią urzędową prokuratury.
@@ -2196,6 +2244,7 @@ Wniosek, o którym mowa w ust. 1, powinien określać przesłanki uzasadniające
 Tryb określony w § 269 ust. 1 stosuje się także w przypadku delegowania prokuratora do zespołu, o którym mowa w art. 589d § 1 k.p.k., chyba że wniosek o delegowanie właściwy organ państwa współpracującego skieruje bezpośrednio do Prokuratora Generalnego lub Prokuratora Krajowego.
 2.
 W przypadku wystąpienia okoliczności, o których mowa w art. 589e § 1 k.p.k., prokurator uczestniczący w pracach zespołu przedstawia niezwłocznie prokuratorowi przełożonemu informację na piśmie.
+Wykonywanie wniosków o udzielenie pomocy prawnej
 § 271.
 1.
 Czynności w ramach pomocy prawnej przeprowadza prokurator Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej, prokurator Wydziału Spraw Wewnętrznych Prokuratury Krajowej, prokurator właściwego wydziału zamiejscowego, prokurator właściwej prokuratury regionalnej lub prokurator właściwej prokuratury okręgowej.
@@ -2209,6 +2258,7 @@ Jeżeli otrzymany wniosek zawiera prośbę o dokonanie czynności poza właściw
 W przypadku otrzymania wniosku niezawierającego informacji umożliwiających jego wykonanie należy zwrócić się do strony wzywającej o jego uzupełnienie lub wyjaśnienia w tym zakresie.
 § 275.
 Wniosek organu państwa obcego o dopuszczenie do udziału w czynnościach jego przedstawiciela rozpoznaje Dyrektor Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej, naczelnik Wydziału Spraw Wewnętrznych Prokuratury Krajowej, naczelnik właściwego wydziału zamiejscowego, prokurator regionalny lub prokurator okręgowy właściwy dla miejsca dokonania tych czynności.
+Przejęcie i przekazanie ścigania karnego
 § 276.
 Po zakończeniu postępowania przejętego przez polskie organy wymiaru sprawiedliwości na podstawie wniosku skierowanego przez państwo obce, odpis prawomocnej decyzji należy przesłać zagranicznemu organowi sądowemu za pośrednictwem Prokuratury Krajowej lub bezpośrednio, gdy taki tryb porozumiewania się wynika z umowy międzynarodowej lub porozumienia.
 § 277.
@@ -2244,7 +2294,9 @@ Wraz z osobą tymczasowo aresztowaną przekazuje się organowi państwa obcego d
 2.
 O ile postanowiono o przekazaniu dowodów rzeczowych organowi państwa obcego w przypadkach innych niż określone w ust. 1, prokurator zwraca się do organu państwa obcego o wskazanie czasu, miejsca i sposobu ich przekazania.
 § 281.
-Jeżeli podejrzany nie posiada dokumentu uprawniającego do przekroczenia granicy państwa, prokurator, przed przekazaniem dyrektorowi aresztu śledczego nakazu, o którym mowa w § 279, zwraca się o wydanie stosownego dokumentu do urzędu konsularnego lub przedstawicielstwa dyplomatycznego w Rzeczypospolitej Polskiej państwa, którego obywatelem jest tymczasowo aresztowany, a jeżeli nie jest to możliwe, występuje o wydanie dokumentu, o którym mowa w art. 268 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650, z późn. zm.).
+Jeżeli podejrzany nie posiada dokumentu uprawniającego do przekroczenia granicy państwa, prokurator, przed przekazaniem dyrektorowi aresztu śledczego nakazu, o którym mowa w § 279, zwraca się o wydanie stosownego dokumentu do urzędu konsularnego lub przedstawicielstwa dyplomatycznego w Rzeczypospolitej Polskiej państwa, którego obywatelem jest tymczasowo aresztowany, a jeżeli nie jest to możliwe, występuje o wydanie dokumentu, o którym mowa w art. 268 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 463 i 1004, z 2015 r. poz. 1274, 1607 i 1767 oraz z 2016 r. poz. 65.).
+Ekstradycja
+Wystąpienie z wnioskiem do państwa obcego o wydanie osoby ściganej
 § 282.
 1.
 Wniosek o wydanie osoby ściganej powinien zawierać w szczególności:
@@ -2272,6 +2324,7 @@ w miarę możliwości fotografię lub inne materiały identyfikacyjne osoby ści
 Wniosek o wydanie osoby ściganej naczelnik właściwego wydziału zamiejscowego, prokurator regionalny lub prokurator okręgowy przesyła w dwóch egzemplarzach wraz z załącznikami do Prokuratury Krajowej w celu nadania mu dalszego biegu.
 § 284.
 Prokurator, który wnioskował o wydanie, zawiadamia areszt śledczy, w którym osadzono osobę wydaną, jakie postępowanie było podstawą wydania, a także że osoba wydana nie może być bez zgody państwa wydającego ścigana, skazana ani pozbawiona wolności w celu wykonania kary pozbawienia wolności za inne przestępstwo popełnione przed dniem wydania niż to, w związku z którym nastąpiło wydanie.
+Wydanie osoby ściganej na wniosek państwa obcego
 § 285.
 1.
 Czynności zastrzeżone dla prokuratora są wykonywane przez prokuratora właściwej prokuratury okręgowej. W toku tych czynności należy przede wszystkim ustalić, czy zachodzą warunki do wydania osoby ściganej.
@@ -2288,6 +2341,7 @@ Prokurator bierze udział w posiedzeniu sądu dotyczącym wydania opinii w przed
 Przy występowaniu do sądu z wnioskiem o zastosowanie tymczasowego aresztowania na wniosek organu państwa obcego obowiązują ogólne przepisy o dopuszczalności stosowania środków zapobiegawczych.
 2.
 Zawiadamiając Prokuraturę Krajową o zastosowaniu przez sąd tymczasowego aresztowania, należy podać datę zatrzymania.
+Postępowanie w stosunku do cudzoziemców i osób korzystających z immunitetów
 § 289.
 Poza przypadkami określonymi w art. 586 § 1 i art. 613 § 1 k.p.k. oraz gdy nie nastąpiło pouczenie o treści art. 138 k.p.k., doręczenie pisma stronie i osobie składającej poręczenie majątkowe, a przebywającej na terytorium państwa, z którym Rzeczpospolita Polska zawarła umowę o obrocie prawnym, odbywa się w trybie przewidzianym w tej umowie; osobie przebywającej na terytorium państwa, z którym Rzeczypospolita Polska nie zawarła umowy o obrocie prawnym, doręcza się pismo wraz z tłumaczeniem za pośrednictwem operatora pocztowego za zwrotnym pokwitowaniem odbioru.
 § 290.
@@ -2304,6 +2358,8 @@ Naczelnik właściwego wydziału zamiejscowego, prokurator regionalny lub prokur
 Na naczelniku właściwego wydziału zamiejscowego, prokuratorze regionalnym lub prokuratorze okręgowym spoczywa obowiązek powiadamiania Prokuratury Krajowej o decyzjach procesowych wydawanych w sprawach, o których mowa w ust. 1.
 3.
 Odpis decyzji kończącej postępowanie karne doręcza osobie korzystającej z immunitetu dyplomatycznego lub konsularnego właściwa w sprawach protokołu dyplomatycznego komórka organizacyjna urzędu obsługującego ministra właściwego do spraw zagranicznych na wniosek Prokuratury Krajowej.
+Współpraca w ramach Unii Europejskiej
+Przekazywanie osób ściganych na podstawie europejskiego nakazu aresztowania iposzukiwania międzynarodowe
 § 292.
 1.
 W sytuacji określonej w art. 607a k.p.k. wniosek o wydanie europejskiego nakazu aresztowania, zwanego dalej „nakazem”, kieruje do sądu okręgowego Dyrektor Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej, naczelnik Wydziału Spraw Wewnętrznych Prokuratury Krajowej, naczelnik właściwego miejscowo wydziału zamiejscowego, prokurator regionalny lub prokurator okręgowy.
@@ -2330,6 +2386,7 @@ Po dokonaniu czynności, o których mowa w art. 607k § 2–4 k.p.k., prokurator
 Udział prokuratora w czynnościach sądu okręgowego związanych z wydaniem i wykonaniem europejskiego nakazu aresztowania jest obowiązkowy, gdy sąd działa na wniosek prokuratora.
 § 295.
 Prokuraturę Krajową należy informować o niedotrzymaniu terminów wydania postanowienia w przedmiocie przekazania osoby ściganej, określonych w art. 607m k.p.k., oraz o wystąpieniu przeszkód w jej przekazaniu, o których mowa w art. 607n § 2 k.p.k.
+Obrót prawny związany z wykonywaniem orzeczeń
 § 296.
 O wykonanie postanowienia o zatrzymaniu dowodów lub mającego na celu zabezpieczenie mienia, postanowienia o zastosowaniu środka zapobiegawczego określonego w art. 272, art. 275, art. 275a lub art. 276 k.p.k. albo europejskiego nakazu ochrony występuje Dyrektor Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej, naczelnik Wydziału Spraw Wewnętrznych Prokuratury Krajowej, naczelnik właściwego miejscowo wydziału zamiejscowego, prokurator regionalny lub prokurator okręgowy.
 § 297.
@@ -2356,6 +2413,7 @@ Wykonaniu orzeczenia, o którym mowa w ust. 1, nie sprzeciwia się nieposiadanie
 Po ustaleniu, że osoba objęta europejskim nakazem ochrony przebywa na terytorium Rzeczypospolitej Polskiej albo zamierza tu zamieszkać lub przebywać i że nie zachodzą przesłanki do odmowy wykonania nakazu, prokurator wydaje postanowienie w przedmiocie wykonania tego nakazu.
 § 305.
 Wykonanie europejskiego nakazu ochrony nie jest uzależnione od przebywania na terytorium Rzeczypospolitej Polskiej osoby, na którą nałożono objęte tym nakazem obowiązki określone w art. 611wd § 1 k.p.k.
+Zapobieganie konfliktom jurysdykcyjnym
 § 306.
 Wystąpienie, o którym mowa w art. 592a § 1 k.p.k., zawiera:
 1)
@@ -2392,6 +2450,7 @@ Wystąpienie oraz odpowiedź na wystąpienie może nastąpić przy użyciu urzą
 W przypadku prowadzenia konsultacji przez kilka jednostek prokuratury w związku z tym samym wystąpieniem właściwego sądu lub innego organu państwa członkowskiego Unii Europejskiej lub zbiegiem wystąpień odnośnie do postępowania karnego co do tego samego czynu tej samej osoby, nadzór nad przebiegiem konsultacji sprawuje Prokurator Krajowy.
 2.
 Konsultacje, o których mowa w art. 592c § 1 k.p.k., przeprowadza się w języku uzgodnionym między prokuratorem a właściwym sądem lub innym organem państwa członkowskiego Unii Europejskiej.
+Dostęp do danych Systemu Informacyjnego Schengen (SIS) oraz Wizowego Systemu Informacyjnego (VIS)
 § 310.
 Prokurator Krajowy, naczelnik wydziału zamiejscowego, prokurator regionalny oraz prokurator okręgowy zapewniają całodobowy kontakt z Biurem SIRENE poprzez zorganizowanie systemu dyżurów pełnionych przez prokuratorów kierowanej przez siebie jednostki.
 § 311.
@@ -2418,6 +2477,8 @@ W przypadku stwierdzenia, że dane osoby biorącej udział w postępowaniu lub d
 W przypadku braku bezpośredniego dostępu do danych SIS spowodowanego przyczynami niezależnymi od prokuratury wprowadzenia danych SIS dokonują Prokuratura Krajowa, wydziały zamiejscowe, prokuratury regionalne i prokuratury okręgowe za pośrednictwem centralnego organu technicznego Krajowego Systemu Informatycznego przy użyciu karty wpisu, o której mowa w art. 22 ust. 1 ustawy o SIS oraz VIS.
 § 317.
 W przypadku zaistnienia potrzeby uzyskania wglądu do danych Wizowego Systemu Informacyjnego, z zastrzeżeniem wynikającym z art. 7 ust. 1 pkt 1–3 ustawy o SIS oraz VIS, Prokurator Krajowy, naczelnik wydziału zamiejscowego, prokurator regionalny lub prokurator okręgowy zwraca się w tej sprawie do Komendanta Głównego Policji jako centralnego punktu dostępu do Krajowego Systemu Informatycznego, o którym mowa w art. 7 ust. 2 pkt 1 ustawy o SIS oraz VIS.
+Udział prokuratora w postępowaniu sądowym w sprawach karnych
+Przepisy wstępne
 § 318.
 W postępowaniu przed sądem prokurator sprawuje funkcję oskarżyciela publicznego oraz podejmuje czynności zmierzające do prawidłowego i jednolitego stosowania prawa, chyba że ustawa stanowi inaczej. W tym celu:
 1)
@@ -2428,6 +2489,7 @@ składa wnioski co do wymiaru kary i innych rozstrzygnięć;
 zaskarża orzeczenia i zarządzenia, które uznaje za niesłuszne.
 § 319.
 Prokurator, w toku postępowania sądowego, dąży do realizacji celów postępowania karnego określonych w art. 2 § 1 k.p.k. oraz współdziała z sądem w przeprowadzeniu procesu rzetelnego, sprawnego i z poszanowaniem godności uczestników postępowania.
+Udział prokuratora w postępowaniu przed sądem pierwszej instancji
 § 320.
 1.
 Prokurator uczestniczy w posiedzeniach sądu, gdy ustawa tak stanowi oraz gdy sąd rozpoznający wniosek prokuratora albo rozstrzygający zażalenie na jego decyzję lub prokurator uzna to za zasadne, w szczególności gdy wymaga tego dobro postępowania.
@@ -2451,6 +2513,7 @@ Z przebiegu i wyników rozprawy (posiedzenia) prokurator składa niezwłocznie s
 Przełożony, niezależnie od oceny prokuratora, może złożyć wniosek o sporządzenie na piśmie uzasadnienia orzeczenia.
 3.
 W przypadku określonym w ust. 2 po uzyskaniu sporządzonego na piśmie uzasadnienia orzeczenia przełożony może wyznaczyć innego prokuratora niż uczestniczący w rozprawie do dokonania oceny zasadności orzeczenia. Ocenę taką poprzedza zapoznanie się z aktami danej sprawy. W razie stwierdzenia braku podstaw do zaskarżenia orzeczenia prokurator przedstawia swoją ocenę na piśmie.
+Środki odwoławcze
 § 326.
 1.
 Środek odwoławczy od orzeczenia sądu pierwszej instancji sporządza i przesyła do sądu prokurator, który skierował akt oskarżenia lub brał udział w postępowaniu przed sądem; jeżeli to niemożliwe, środek odwoławczy sporządza i przesyła do sądu prokurator wyznaczony przez przełożonego.
@@ -2461,6 +2524,7 @@ Przepis ust. 1 stosuje się odpowiednio do wniosku o przywrócenie terminu do wn
 Przy powoływaniu się na dowód należy w uzasadnieniu środka odwoławczego wskazać numer karty akt sprawy.
 2.
 Jeżeli w środku odwoławczym powołuje się dowody objęte wnioskiem o sprostowanie protokołu rozprawy, a w kwestii tej nie nastąpiło jeszcze rozstrzygnięcie, treść dowodów można także podać w brzmieniu określonym we wniosku o sprostowanie protokołu rozprawy.
+Udział prokuratora w postępowaniu przed sądem odwoławczym
 § 328.
 1.
 Do udziału w postępowaniu przed sądem odwoławczym wyznacza się prokuratora, o którym mowa w § 321 ust. 1.
@@ -2483,6 +2547,7 @@ W razie potrzeby, wynikającej z charakteru sprawy lub wagi rozstrzyganych probl
 We wniosku należy omówić uchybienia postępowania sądowego wymagające zwrócenia na nie uwagi sądowi niższej instancji.
 § 332.
 Przepisy § 325 stosuje się odpowiednio.
+Zaskarżanie prawomocnych orzeczeń
 § 333.
 1.
 W razie stwierdzenia w orzeczeniu sądu odwoławczego, innym niż uchylające wyrok sądu pierwszej instancji i przekazujące sprawę do ponownego rozpoznania, uchybień wymienionych w art. 439 k.p.k. lub innego rażącego naruszenia prawa, o którym mowa w art. 523 k.p.k., wniosek o doręczenie orzeczenia z uzasadnieniem kieruje do sądu odwoławczego odpowiednio prokurator Prokuratury Krajowej, naczelnik właściwego wydziału zamiejscowego albo właściwego wydziału prokuratury regionalnej, prokuratury okręgowej lub prokurator rejonowy.
@@ -2512,6 +2577,7 @@ W razie wystąpienia z wnioskiem o wznowienie postępowania sądowego z urzędu 
 W razie uznania wystąpienia za niezasadne, pozostawia się je bez biegu i powiadamia o tym zainteresowanego, podając motywy odmowy.
 3.
 Do udziału prokuratora w postępowaniu kasacyjnym dotyczącym wznowienia postępowania stosuje się odpowiednio przepisy rozdziału 4.
+Udział prokuratora w postępowaniu wykonawczym
 § 336.
 1.
 W przypadku ujawnienia okoliczności dających podstawę do odwołania odroczenia, przerwy w wykonaniu kary pozbawienia wolności lub warunkowego zwolnienia albo do podjęcia zawieszonego postępowania wykonawczego prokurator bezzwłocznie występuje do sądu ze stosownym wnioskiem.
@@ -2530,12 +2596,12 @@ zarządzenia wykonania kary pozbawienia wolności warunkowo zawieszonej oraz odw
 5)
 udzielenia zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego oraz uchylenia takiego zezwolenia,
 6)
-warunkowego zwolnienia
-jeżeli jest to uzasadnione wagą sprawy lub innymi okolicznościami.
+warunkowego zwolnienia – jeżeli jest to uzasadnione wagą sprawy lub innymi okolicznościami.
 § 338.
 Prokurator powinien rozważyć potrzebę wzięcia udziału w posiedzeniu sądu również w innych sprawach, zwłaszcza zawiłych lub poruszających opinię publiczną.
 § 339.
 Biorąc udział w posiedzeniu sądu, prokurator ustosunkowuje się do rozpatrywanych wniosków i kwestii z nimi związanych, a następnie ocenia zasadność orzeczenia sądu oraz potrzebę jego zaskarżenia, jeżeli uznaje je za wadliwe lub niesłuszne.
+Postępowanie o ułaskawienie
 § 340.
 1.
 Jeżeli z treści otrzymanego pisma wynika, że zawiera ono prośbę o ułaskawienie, prokurator przesyła je do właściwego sądu pierwszej instancji.
@@ -2566,6 +2632,7 @@ Niedopuszczalne jest składanie przez prokuratora na posiedzeniu wniosku o pozos
 Uznając potrzebę wszczęcia postępowania o ułaskawienie z urzędu, prokurator przedstawia prokuratorowi nadrzędnemu umotywowany wniosek wraz z aktami sprawy i odpowiednimi dokumentami.
 2.
 W przypadku przewidzianym w art. 568 k.p.k. prokurator występuje równocześnie z wnioskiem o wstrzymanie przez Prokuratora Generalnego wykonania kary lub zarządzenia przerwy w jej wykonaniu.
+Udział prokuratora w postępowaniu w sprawach o wykroczenia
 § 342.
 1.
 Prokurator podejmuje czynności w postępowaniu w sprawach o wykroczenia w razie powzięcia wiarygodnej wiadomości o naruszeniu prawa w toku tego postępowania, a może je podjąć, gdy ze względu na społeczny wydźwięk albo charakter sprawy uzna, że jest to celowe.
@@ -2584,7 +2651,7 @@ zabezpieczenia i dopuszczenia dowodów,
 b)
 zarządzenia i przeprowadzenia przeszukania, zatwierdzenia przeszukania przeprowadzonego bez jego polecenia, w wypadkach niecierpiących zwłoki, a także w przedmiocie zatrzymanych w toku tych czynności przedmiotów;
 3)
-stosuje środki przymusu, o których mowa w art. 49 i art. 50 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.), w toku prowadzonych przez niego czynności wyjaśniających;
+stosuje środki przymusu, o których mowa w art. 49 i art. 50 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247, z 2014 r. poz. 486, 579, 786 i 969, z 2015 r. poz. 21, 396, 841, 1186, 1269, 1549, 1707 i 1855 oraz z 2016 r. poz. 178 i 437.), w toku prowadzonych przez niego czynności wyjaśniających;
 4)
 sporządza osobiście wnioski o ukaranie i kieruje je do właściwego sądu;
 5)
@@ -2593,6 +2660,7 @@ uczestniczy w postępowaniu sądu rozpoznającego wniosek o ukaranie, gdy tak za
 wnosi środki odwoławcze od orzeczeń sądowych;
 7)
 kieruje, z zachowaniem drogi służbowej, wnioski w przedmiocie wniesienia nadzwyczajnych środków zaskarżenia; wniosek o wznowienie postępowania jest kierowany do właściwego miejscowo prokuratora okręgowego, w przypadku zaś kasacji – jej projekt jest kierowany do Prokuratora Krajowego.
+Czynności prokuratora w sprawach odpowiedzialności podmiotów zbiorowych
 § 344.
 W sprawach przeciwko podejrzanym o czyny zabronione określone w art. 16 ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2015 r. poz. 1212, 1844 i 1855 oraz z 2016 r. poz. 437), zwanej dalej „ustawą o odpowiedzialności podmiotów zbiorowych”, powiadomienia, o którym mowa w art. 21 ust. 4 tej ustawy, dokonuje na piśmie prokurator, jeżeli prowadzi lub nadzoruje postępowanie przygotowawcze lub wnosi akt oskarżenia, wniosek o wydanie wyroku skazującego albo składa wniosek o warunkowe umorzenie postępowania. Kopię powiadomienia i dowód jego doręczenia podmiotowi zbiorowemu dołącza się do akt postępowania.
 § 345.
@@ -2615,6 +2683,7 @@ W rozprawie bierze udział prokurator, który złożył wniosek o pociągnięcie
 Przepisu ust. 1 nie stosuje się, gdy względy organizacyjne przemawiają za udziałem w rozprawie prokuratora równorzędnej jednostki, na której obszarze właściwości mieści się siedziba sądu właściwego do rozpoznania sprawy. W takim przypadku akta podręczne sprawy przekazuje się kierownikowi właściwej równorzędnej jednostki z odpowiednim wnioskiem.
 3.
 Środki odwoławcze wnosi do sądu prokurator, który uczestniczył w rozprawie.
+Postępowanie w sprawie skargi na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym
 § 350.
 1.
 Prokurator, do którego wniesiono skargę w trybie ustawy z dnia 17 czerwca 2004 r. o skardze na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i postępowaniu sądowym bez nieuzasadnionej zwłoki (Dz. U. poz. 1843, z 2009 r. poz. 498 oraz z 2016 r. poz. 178), zwaną dalej „skargą”, po stwierdzeniu swojej właściwości oraz zbadaniu wymogów formalnych skargi przekazuje ją niezwłocznie wraz z aktami głównymi postępowania przygotowawczego sądowi właściwemu do rozpoznania skargi z wnioskiem zawierającym stanowisko co do zasadności skargi.
@@ -2624,6 +2693,7 @@ Przed przekazaniem akt prokurator zapewnia możliwość dalszego prowadzenia pos
 O wniesieniu skargi prokurator zawiadamia niezwłocznie kierownika nadrzędnej jednostki, przedstawiając mu równocześnie pisemne stanowisko w przedmiocie zasadności skargi.
 § 352.
 Prokurator przełożony, któremu sąd doręczył odpis skargi w trybie art. 10 ust. 2a ustawy, o której mowa w § 350 ust. 1, zapewnia udział w postępowaniu przed sądem wyznaczonego prokuratora.
+Sposób realizacji zadań związanych z udziałem prokuratora w sprawach cywilnych, rodzinnych, opiekuńczych oraz ze stosunku pracy i z zakresu ubezpieczeń społecznych
 § 353.
 1.
 Czynności prokuratora przewidziane w k.p.c. oraz w innych ustawach nie mogą naruszać zasady swobody kształtowania stosunku cywilnoprawnego, chyba że treść lub cel tego stosunku sprzeciwia się jego naturze, ustawie lub zasadom współżycia społecznego.
@@ -2730,7 +2800,8 @@ Prokurator okręgowy sporządza i wnosi skargi wymienione w ust. 1 tylko w spraw
 3.
 W razie stwierdzenia, że do wniesienia skargi jest uprawniony wyłącznie Prokurator Generalny, akta sprawy lub inne materiały przedstawia się niezwłocznie Prokuratorowi Generalnemu z odpowiednim wnioskiem.
 4.
-Przepis ust. 3 stosuje się odpowiednio w razie potrzeby wystąpienia Prokuratora Generalnego do Sądu Najwyższego z wnioskiem o unieważnienie prawomocnego orzeczenia na podstawie art. 64 ustawy z dnia 23 listopada 2002 r. o Sądzie Najwyższym (Dz. U. z 2013 r. poz. 499, z późn. zm.).
+Przepis ust. 3 stosuje się odpowiednio w razie potrzeby wystąpienia Prokuratora Generalnego do Sądu Najwyższego z wnioskiem o unieważnienie prawomocnego orzeczenia na podstawie art. 64 ustawy z dnia 23 listopada 2002 r. o Sądzie Najwyższym (Dz. U. z 2013 r. poz. 499, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 504, 1031 i 1081, z 2015 r. poz. 1066, 1167, 1240, 1348 i 1893 oraz z 2016 r. poz. 178.).
+Udział prokuratora w postępowaniu administracyjnym i w postępowaniu przed sądami administracyjnymi
 § 367.
 1.
 Prokurator inicjuje postępowanie administracyjne i postępowanie przed sądem administracyjnym oraz bierze udział w tych postępowaniach, jeżeli wymaga tego ochrona praworządności, a w szczególności gdy naruszenie prawa lub bezczynność organu narusza interes Rzeczypospolitej Polskiej lub interes społeczny.
@@ -2790,6 +2861,7 @@ Czynności dowodowe, o których mowa w art. 69 ustawy, przeprowadza się tylko w
 Przepisy niniejszego działu stosuje się odpowiednio do innych postępowań prowadzonych z zastosowaniem przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, jeżeli przepisy szczególne nie stanowią inaczej.
 § 375.
 Przewidzianej w ustawach szczególnych zgody na dokonanie czynności kontrolnych prokurator udziela albo odmawia udzielenia zgody w formie postanowienia.
+Tryb działań podejmowanych przez prokuratora w celu zapobieżenia naruszeniom prawa
 § 376.
 Środki zapobiegające naruszeniom prawa, w tym popełnianiu przestępstw, prokurator podejmuje bezpośrednio po ustaleniu okoliczności uzasadniających ich stosowanie, niezależnie od stopnia zaawansowania postępowania przygotowawczego.
 § 377.
@@ -2837,6 +2909,7 @@ na prośbę właściwych dowódców lub z własnej inicjatywy może złożyć in
 może skierować na prośbę innych niż wymienieni w pkt 1 dowódców jednostek wojskowych oraz kierującego komórką organizacyjną Ministerstwa Obrony Narodowej właściwą w sprawach dyscypliny wojskowej informacje o stanie zagrożenia przestępczością i innymi naruszeniami prawa z odpowiednimi informacjami;
 3)
 podejmuje działania zmierzające do tworzenia prawnych i organizacyjnych warunków przeciwdziałania naruszeniom prawa.
+Skargi i wnioski
 § 380.
 1.
 Skargi i wnioski przyjmują pracownicy biura podawczego lub innej komórki organizacyjnej wskazanej przez kierownika jednostki.
@@ -2863,6 +2936,8 @@ Jeżeli rozpatrzenie skargi lub wniosku wymaga uprzedniego zbadania i wyjaśnien
 W jednostkach prowadzony jest wykaz skarg i wniosków; w wykazie zamieszcza się w szczególności informacje o dacie wpływu skargi lub wniosku oraz dacie zawiadomienia skarżącego lub wnioskodawcy o wyniku ich rozpatrzenia. Wykaz może być prowadzony w postaci elektronicznej.
 § 387.
 Skarga lub wniosek ponownie wniesione w sprawach już wyjaśnionych, niezawierające nowych okoliczności, pozostawiane są bez biegu. O pozostawieniu skargi lub wniosku bez biegu oraz o przyczynie tej decyzji zawiadamia się wnoszącego, informując, że kolejna skarga lub wniosek niezawierające nowych okoliczności zostaną pozostawione bez biegu.
+Przepisy szczególne dotyczące prokuratorów do spraw wojskowych
+Działalność prokuratorów w przypadku użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa
 § 388.
 Prokurator Generalny, na wniosek Ministra Obrony Narodowej przekazany za pośrednictwem Zastępcy Prokuratora Generalnego do Spraw Wojskowych, może skierować prokuratora do spraw wojskowych, będącego żołnierzem zawodowym, do służby w jednostce wojskowej poza granicami państwa (w Polskim Kontyngencie Wojskowym) w przypadku użycia lub pobytu Sił Zbrojnych poza granicami państwa, mając na uwadze jego umiejętności zawodowe i wojskowe.
 § 389.
@@ -2889,6 +2964,7 @@ Wykonując obowiązki służbowe, prokurator powinien uwzględniać potrzeby obs
 Prokurator sam ma obowiązek wykonywania i zlecania innym organom czynności, w tym procesowych, z uwzględnieniem międzynarodowego prawa konfliktów zbrojnych, a w szczególności zasad prawa humanitarnego dotyczącego konfliktów zbrojnych i ich ofiar.
 3.
 Prowadząc czynności procesowe w ramach postępowania karnego, w tym stosując środki przymusu, prokurator wykonuje je zgodnie z prawem polskim. Uwzględnienie przepisów obowiązujących na terenie misji oraz potrzeb wynikających z panującej sytuacji wojskowej jest dopuszczalne, o ile nie stoi w sprzeczności z prawem polskim.
+Udział prokuratora w postępowaniu dyscyplinarnym względem żołnierzy
 § 393.
 W razie zaistnienia sytuacji określonej w art. 50 ust. 1 pkt 3 ustawy z dnia 9 października 2009 r. o dyscyplinie wojskowej (Dz. U. poz. 1474, z 2012 r. poz. 1529, z 2015 r. poz. 1830 oraz z 2016 r. poz. 178) prokurator do spraw wojskowych w prokuraturze rejonowej wszczyna postępowanie dyscyplinarne, a wszczęte wcześniej przejmuje do własnego prowadzenia.
 § 394.
@@ -2901,6 +2977,7 @@ odstąpić od prowadzenia postępowania wyjaśniającego;
 skierować do sądu wojskowego wniosek o ukaranie dyscyplinarne albo o wydanie orzeczenia, o którym mowa w art. 61 pkt 1–3 ustawy z dnia 9 października 2009 r. o dyscyplinie wojskowej.
 § 395.
 Wszczęcie albo przejęcie postępowania dyscyplinarnego do prowadzenia przez prokuratora oraz odstąpienie od prowadzenia postępowania wyjaśniającego wymagają wydania postanowienia.
+Udział prokuratora w postępowaniu w sprawach o wykroczenia
 § 396.
 1.
 Prokurator podejmuje czynności w postępowaniu w sprawach o wykroczenia, w razie powzięcia wiarygodnej wiadomości o naruszeniu prawa w toku tego postępowania lub gdy ze względu na społeczny wydźwięk albo charakter sprawy uzna, że jego udział jest wskazany.
@@ -2926,170 +3003,265 @@ uczestniczy w postępowaniu sądu rozpoznającego wniosek o ukaranie, gdy tak za
 wnosi środki odwoławcze od orzeczeń sądowych;
 7)
 kieruje, z zachowaniem drogi służbowej, wnioski w przedmiocie wniesienia nadzwyczajnych środków zaskarżenia; wniosek o wznowienie postępowania jest kierowany do właściwego miejscowo zastępcy prokuratora okręgowego do spraw wojskowych, w przypadku zaś kasacji – jej projekt jest kierowany do Zastępcy Prokuratora Generalnego do Spraw Wojskowych.
+Przepisy przejściowe i końcowe
 § 398.
 Jeżeli na podstawie przepisów dotychczasowych odpis postanowienia o tymczasowym aresztowaniu i poszukiwaniu listem gończym wraz z nakazem przyjęcia został przesłany Komendzie Głównej Straży Granicznej, o odwołaniu poszukiwań zawiadamia się Komendę Główną Straży Granicznej.
 § 399.
-Rozporządzenie wchodzi w życie z dniem 15 kwietnia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 15 kwietnia 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 11 września 2014 r. – Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury (Dz. U. poz. 1218 i 1962 oraz z 2015 r. poz. 923), które traci moc na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178) z dniem wejścia w życie niniejszego rozporządzenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. poz. 1600, z 2009 r. poz. 1323, z 2010 r. poz. 96, z 2012 r. poz. 490 oraz z 2015 r. poz. 1045 i 1890. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877, z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854, 1890 i 2150 oraz z 2016 r. poz. 195. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1220, 1224, 1830, 2183 i 2281 oraz z 2016 r. poz. 178. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 840, z 1999 r. poz. 729 i 931, z 2000 r. poz. 548, 1027 i 1216, z 2001 r. poz. 1071, z 2003 r. poz. 1061, 1142, 1750, 1935 i 2255, z 2004 r. poz. 219, 626, 889 i 2426, z 2005 r. poz. 732, 757, 1109, 1363, 1479 i 1493, z 2006 r. poz. 1409, 1592 i 1648, z 2007 r. poz. 589, 850, 859 i 1378, z 2008 r. poz. 560, 782, 1056, 1080 i 1344, z 2009 r. poz. 504, 533, 1317, 1323, 1474, 1540 i 1589, z 2010 r. poz. 46, 227, 229, 625, 626, 842, 857, 1018, 1021, 1228, 1474 i 1602, z 2011 r. poz. 78, 130, 202, 245, 381, 549, 678, 767, 964, 1135, 1280, 1381 i 1431, z 2012 r. poz. 611, z 2013 r. poz. 849, 905, 1036 i 1247, z 2014 r. poz. 538, z 2015 r. poz. 396, 541, 1549, 1707 i 1855 oraz z 2016 r. poz. 189, 428 i 437. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. poz. 931, z 2000 r. poz. 580, 717, 852 i 1027, z 2001 r. poz. 1071 i 1149, z 2002 r. poz. 676, z 2003 r. poz. 155, 1061 i 1188, z 2004 r. poz. 514, 626, 889, 2405 i 2641, z 2005 r. poz. 70, 461, 680, 821, 1181, 1203, 1363, 1416 i 1479, z 2006 r. poz. 118, 467, 659, 708, 711, 1009, 1013, 1192, 1647 i 1648, z 2007 r. poz. 116, 432, 539, 589, 664, 766, 849 i 903, z 2008 r. poz. 162, 648, 686, 802, 1133, 1308, 1344, 1485, 1571 i 1651, z 2009 r. poz. 39, 104, 171, 585, 716, 1051, 1178, 1323, 1375, 1474 i 1589, z 2010 r. poz. 46, 626, 669, 826, 842, 1228 i 1307, z 2011 r. poz. 245, 246, 273, 654, 678, 829, 1135, 1280, 1430, 1431, 1438 i 1645, z 2012 r. poz. 886, 1091, 1101, 1327, 1426, 1447 i 1529, z 2013 r. poz. 480, 765, 849, 1247, 1262, 1282 i 1650, z 2014 r. poz. 85, 384, 694, 1375 i 1556, z 2015 r. poz. 21, 290, 396, 1185, 1186, 1334, 1788, 1855 i 2281 oraz z 2016 r. poz. 178 i 437. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924, z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587, 1595, 1634, 1635, 1830 i 1854 oraz z 2016 r. poz. 195 i 437. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101 i 1529, z 2014 r. poz. 183 i 543, z 2015 r. poz. 658, 1191, 1224, 1269 i 1311 oraz z 2016 r. poz. 394. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970, z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1830, 1844, 1893, 2183 i 2281 oraz z 2016 r. poz. 266 i 352. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 1083, z 1999 r. poz. 931, z 2000 r. poz. 701 i 1268, z 2001 r. poz. 1071 i 1194, z 2002 r. poz. 676 i 1679, z 2003 r. poz. 1061, 1380 i 1750, z 2004 r. poz. 889, 2135, 2405, 2426 i 2703, z 2005 r. poz. 1363 i 1479, z 2006 r. poz. 708 i 1648, z 2007 r. poz. 849, z 2008 r. poz. 620 i 1344, z 2009 r. poz. 39, 119, 504, 817, 911, 963, 1475, 1540 i 1589, z 2010 r. poz. 191, 227, 842 i 1228, z 2011 r. poz. 201, 202, 654, 734, 1092, 1280 i 1431, z 2012 r. poz. 908, z 2013 r. poz. 628 i 1247, z 2014 r. poz. 287, 619 i 1707, z 2015 r. poz. 21, 396, 431, 541, 1269 i 1573 oraz z 2016 r. poz. 428 i 437. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 463 i 1004, z 2015 r. poz. 1274, 1607 i 1767 oraz z 2016 r. poz. 65. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247, z 2014 r. poz. 486, 579, 786 i 969, z 2015 r. poz. 21, 396, 841, 1186, 1269, 1549, 1707 i 1855 oraz z 2016 r. poz. 178 i 437. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 504, 1031 i 1081, z 2015 r. poz. 1066, 1167, 1240, 1348 i 1893 oraz z 2016 r. poz. 178. 13) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 11 września 2014 r. – Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury (Dz. U. poz. 1218 i 1962 oraz z 2015 r. poz. 923), które traci moc na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178) z dniem wejścia w życie niniejszego rozporządzenia.
 
-### Dział I Przepisy wstępne
+### Dział I – Przepisy wstępne
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Nazwy, tablice i pieczęcie urzędowe prokuratur
+#### Rozdział 2 – Nazwy, tablice i pieczęcie urzędowe prokuratur
 
-### Dział II Organizacja prokuratury
+### Dział II – Organizacja prokuratury
 
-#### Rozdział 1 Wewnętrzna struktura organizacyjna powszechnych jednostek organizacyjnych prokuratury
+#### Rozdział 1 – Wewnętrzna struktura organizacyjna powszechnych jednostek organizacyjnych prokuratury
 
-##### Oddział 1 Przepisy ogólne
+#### Rozdział 2 – Organizacja pracy i sposób kierowania pracą
 
-##### Oddział 2 Struktura organizacyjna i zadania realizowane w Prokuraturze Krajowej
+#### Rozdział 3 – Organizacja pracy organów kolegialnych
 
-##### Oddział 3 Struktura organizacyjna i zadania realizowane w prokuraturze regionalnej, prokuraturze okręgowej i prokuraturze rejonowej
+#### Rozdział 4 – Dysponenci środków budżetowych
 
-#### Rozdział 2 Organizacja pracy i sposób kierowania pracą
+### Dział III – Postępowanie przygotowawcze
 
-##### Oddział 1 Organizacja pracy
+#### Rozdział 1 – Przepisy ogólne
 
-##### Oddział 2 Kierowanie pracą prokuratur
+#### Rozdział 2 – Wszczęcie śledztwa i dochodzenia
 
-##### Oddział 3 Formy i tryb sprawowania nadzoru służbowego
+#### Rozdział 3 – Przebieg postępowania przygotowawczego
 
-##### Oddział 4 Wizytacja i lustracja
+#### Rozdział 4 – Postępowanie dowodowe
 
-##### Oddział 5 Sprawy osobowe
+#### Rozdział 5 – Środki przymusu
 
-#### Rozdział 3 Organizacja pracy organów kolegialnych
+#### Rozdział 6 – Zawieszenie postępowania
 
-#### Rozdział 4 Dysponenci środków budżetowych
+#### Rozdział 7 – Zakończenie postępowania przygotowawczego
 
-### Dział III Postępowanie przygotowawcze
+#### Rozdział 8 – Nadzór procesowy prokuratora nad postępowaniem przygotowawczym
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 9 – Terminy i zażalenia
 
-#### Rozdział 2 Wszczęcie śledztwa i dochodzenia
+#### Rozdział 10 – Podjęcie na nowo i wznowienie umorzonego postępowania oraz uchylenie lub zmiana prawomocnego postanowienia o umorzeniu postępowania
 
-#### Rozdział 3 Przebieg postępowania przygotowawczego
+#### Rozdział 11 – Postępowanie w sprawach z oskarżenia prywatnego
 
-##### Oddział 1 Śledztwo
+### Dział IV – Współpraca międzynarodowa w sprawach karnych
 
-##### Oddział 2 Dochodzenie
+#### Rozdział 1 – Pomoc prawna
 
-##### Oddział 3 Zamieszczanie w aktach sprawy danych dotyczących miejsca zamieszkania i pracy pokrzywdzonego i świadka
+#### Rozdział 2 – Przejęcie i przekazanie ścigania karnego
 
-##### Oddział 4 Przedstawienie, uzupełnienie i zmiana zarzutów
+#### Rozdział 3 – Ekstradycja
 
-##### Oddział 5 Udostępnianie akt sprawy
+#### Rozdział 4 – Postępowanie w stosunku do cudzoziemców i osób korzystających z immunitetów
 
-#### Rozdział 4 Postępowanie dowodowe
+#### Rozdział 5 – Współpraca w ramach Unii Europejskiej
 
-##### Oddział 1 Przesłuchanie osoby
+#### Rozdział 6 – Dostęp do danych Systemu Informacyjnego Schengen (SIS) oraz Wizowego Systemu Informacyjnego (VIS)
 
-##### Oddział 2 Biegli
+### Dział V – Udział prokuratora w postępowaniu sądowym w sprawach karnych
 
-##### Oddział 3 Zatrzymanie rzeczy. Przeszukanie. Dowody rzeczowe
+#### Rozdział 1 – Przepisy wstępne
 
-##### Oddział 4 Zebranie danych o podejrzanym
+#### Rozdział 2 – Udział prokuratora w postępowaniu przed sądem pierwszej instancji
 
-##### Oddział 5 Udział stron, ich obrońców i pełnomocników
+#### Rozdział 3 – Środki odwoławcze
 
-##### Oddział 6 Udział prokuratora w czynnościach dowodowych
+#### Rozdział 4 – Udział prokuratora w postępowaniu przed sądem odwoławczym
 
-#### Rozdział 5 Środki przymusu
+#### Rozdział 5 – Zaskarżanie prawomocnych orzeczeń
 
-##### Oddział 1 Zatrzymanie
+### Dział VI – Udział prokuratora w postępowaniu wykonawczym
 
-##### Oddział 2 Środki zapobiegawcze
+### Dział VII – Postępowanie o ułaskawienie
 
-##### Oddział 3 List gończy
+### Dział VIII – Udział prokuratora w postępowaniu w sprawach o wykroczenia
 
-##### Oddział 4 Zabezpieczenie majątkowe
+### Dział IX – Czynności prokuratora w sprawach odpowiedzialności podmiotów zbiorowych
 
-#### Rozdział 6 Zawieszenie postępowania
+### Dział X – Postępowanie w sprawie skargi na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym
 
-#### Rozdział 7 Zakończenie postępowania przygotowawczego
+### Dział XI – Sposób realizacji zadań związanych z udziałem prokuratora w sprawach cywilnych, rodzinnych, opiekuńczych oraz ze stosunku pracy i z zakresu ubezpieczeń społecznych
 
-##### Oddział 1 Zamknięcie postępowania przygotowawczego
+### Dział XII – Udział prokuratora w postępowaniu administracyjnym i w postępowaniu przed sądami administracyjnymi
 
-##### Oddział 2 Umorzenie postępowania przygotowawczego
+### Dział XIII – Tryb działań podejmowanych przez prokuratora w celu zapobieżenia naruszeniom prawa
 
-##### Oddział 3 Akt oskarżenia
+### Dział XIV – Skargi i wnioski
 
-##### Oddział 4 Konsensualne zakończenie postępowania
+### Dział XV – Przepisy szczególne dotyczące prokuratorów do spraw wojskowych
 
-#### Rozdział 8 Nadzór procesowy prokuratora nad postępowaniem przygotowawczym
+#### Rozdział 1 – Działalność prokuratorów w przypadku użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa
 
-#### Rozdział 9 Terminy i zażalenia
+#### Rozdział 2 – Udział prokuratora w postępowaniu dyscyplinarnym względem żołnierzy
 
-#### Rozdział 10 Podjęcie na nowo i wznowienie umorzonego postępowania oraz uchylenie lub zmiana prawomocnego postanowienia o umorzeniu postępowania
+#### Rozdział 3 – Udział prokuratora w postępowaniu w sprawach o wykroczenia
 
-#### Rozdział 11 Postępowanie w sprawach z oskarżenia prywatnego
+### Dział XVI – Przepisy przejściowe i końcowe
 
-### Dział IV Współpraca międzynarodowa w sprawach karnych
+### Dział I
 
-#### Rozdział 1 Pomoc prawna
+#### Rozdział 1
 
-##### Oddział 1 Występowanie o zagraniczną pomoc prawną
+#### Rozdział 2
 
-##### Oddział 2 Wykonywanie wniosków o udzielenie pomocy prawnej
+### Dział II
 
-#### Rozdział 2 Przejęcie i przekazanie ścigania karnego
+#### Rozdział 1
 
-#### Rozdział 3 Ekstradycja
+##### Oddział 1
 
-##### Oddział 1 Wystąpienie z wnioskiem do państwa obcego o wydanie osoby ściganej
+##### Oddział 2
 
-##### Oddział 2 Wydanie osoby ściganej na wniosek państwa obcego
+##### Oddział 3
 
-#### Rozdział 4 Postępowanie w stosunku do cudzoziemców i osób korzystających z immunitetów
+#### Rozdział 2
 
-#### Rozdział 5 Współpraca w ramach Unii Europejskiej
+##### Oddział 1
 
-##### Oddział 1 Przekazywanie osób ściganych na podstawie europejskiego nakazu aresztowania iposzukiwania międzynarodowe
+##### Oddział 2
 
-##### Oddział 2 Obrót prawny związany z wykonywaniem orzeczeń
+##### Oddział 3
 
-##### Oddział 3 Zapobieganie konfliktom jurysdykcyjnym
+##### Oddział 4
 
-#### Rozdział 6 Dostęp do danych Systemu Informacyjnego Schengen (SIS) oraz Wizowego Systemu Informacyjnego (VIS)
+##### Oddział 5
 
-### Dział V Udział prokuratora w postępowaniu sądowym w sprawach karnych
+#### Rozdział 3
 
-#### Rozdział 1 Przepisy wstępne
+#### Rozdział 4
 
-#### Rozdział 2 Udział prokuratora w postępowaniu przed sądem pierwszej instancji
+### Dział III
 
-#### Rozdział 3 Środki odwoławcze
+#### Rozdział 1
 
-#### Rozdział 4 Udział prokuratora w postępowaniu przed sądem odwoławczym
+#### Rozdział 2
 
-#### Rozdział 5 Zaskarżanie prawomocnych orzeczeń
+#### Rozdział 3
 
-### Dział VI Udział prokuratora w postępowaniu wykonawczym
+##### Oddział 1
 
-### Dział VII Postępowanie o ułaskawienie
+##### Oddział 2
 
-### Dział VIII Udział prokuratora w postępowaniu w sprawach o wykroczenia
+##### Oddział 3
 
-### Dział IX Czynności prokuratora w sprawach odpowiedzialności podmiotów zbiorowych
+##### Oddział 4
 
-### Dział X Postępowanie w sprawie skargi na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym
+##### Oddział 5
 
-### Dział XI Sposób realizacji zadań związanych z udziałem prokuratora w sprawach cywilnych, rodzinnych, opiekuńczych oraz ze stosunku pracy i z zakresu ubezpieczeń społecznych
+#### Rozdział 4
 
-### Dział XII Udział prokuratora w postępowaniu administracyjnym i w postępowaniu przed sądami administracyjnymi
+##### Oddział 1
 
-### Dział XIII Tryb działań podejmowanych przez prokuratora w celu zapobieżenia naruszeniom prawa
+##### Oddział 2
 
-### Dział XIV Skargi i wnioski
+##### Oddział 3
 
-### Dział XV Przepisy szczególne dotyczące prokuratorów do spraw wojskowych
+##### Oddział 4
 
-#### Rozdział 1 Działalność prokuratorów w przypadku użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa
+##### Oddział 5
 
-#### Rozdział 2 Udział prokuratora w postępowaniu dyscyplinarnym względem żołnierzy
+##### Oddział 6
 
-#### Rozdział 3 Udział prokuratora w postępowaniu w sprawach o wykroczenia
+#### Rozdział 5
 
-### Dział XVI Przepisy przejściowe i końcowe
+##### Oddział 1
+
+##### Oddział 2
+
+##### Oddział 3
+
+##### Oddział 4
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+##### Oddział 1
+
+##### Oddział 2
+
+##### Oddział 3
+
+##### Oddział 4
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
+
+#### Rozdział 11
+
+### Dział IV
+
+#### Rozdział 1
+
+##### Oddział 1
+
+##### Oddział 2
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+##### Oddział 1
+
+##### Oddział 2
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+##### Oddział 1
+
+##### Oddział 2
+
+##### Oddział 3
+
+#### Rozdział 6
+
+### Dział V
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+### Dział VI
+
+### Dział VII
+
+### Dział VIII
+
+### Dział IX
+
+### Dział X
+
+### Dział XI
+
+### Dział XII
+
+### Dział XIII
+
+### Dział XIV
+
+### Dział XV
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+### Dział XVI
 

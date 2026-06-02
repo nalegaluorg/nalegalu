@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 8 sierpnia 2016 r. zmieniające rozporządzenie w sprawie wyłączenia zastosowania niektórych przepisów ustawy – Prawo lotnicze do niektórych rodzajów statków powietrznych oraz określenia warunków i wymagań dotyczących używania tych statków
+# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 8 sierpnia 2016 r. zmieniające rozporządzenie w sprawie wyłączenia zastosowania niektórych przepisów ustawy – Prawo lotnicze do niektórych rodzajów statków powietrznych oraz określenia warunków i wymagań dotyczących używania tych statków Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
 
 | Pole | Wartość |
 |---|---|
@@ -22,57 +22,61 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-08-08 |
 | Data wydania | 2016-08-23 |
-| Wejście w życie | 2016-09-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001317) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1317/text.pdf) |
 
 Treść rozporządzenia
 
-## Załącznik nr 1 — – Bezzałogowe statki powietrzne o masie startowej nie większej niż 150 kg, używane wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS w celach rekreacyjnych lub sportowych Rozdział 1 – Zastosowanie Rozdział 2 – Określenia Rozdział 3 – Odpowiedzialność Rozdział 4 – Zasady wykonywania lotów
+## Załącznik nr 1 — – Bezzałogowe statki powietrzne o masie startowej nie większej niż 150 kg, używane wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS w celach rekreacyjnych lub sportowych
 
-## Załącznik nr 2 — – Bezzałogowe statki powietrzne o masie startowej nie większej niż 150 kg używane wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS w celach innych niż rekreacyjne lub sportowe Rozdział 1 – Zastosowanie Rozdział 2 – Określenia Rozdział 3 – Odpowiedzialność Rozdział 4 – Zasady wykonywania lotów Rozdział 5 – Zasady eksploatacji bezzałogowych statków powietrznych
+Rozdział 1 – Zastosowanie
+Rozdział 2 – Określenia
+Rozdział 3 – Odpowiedzialność
+Rozdział 4 – Zasady wykonywania lotów
 
+## Załącznik nr 2 — – Bezzałogowe statki powietrzne o masie startowej nie większej niż 150 kg używane wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS w celach innych niż rekreacyjne lub sportowe
+
+Rozdział 1 – Zastosowanie
+Rozdział 2 – Określenia
+Rozdział 3 – Odpowiedzialność
+Rozdział 4 – Zasady wykonywania lotów
+Rozdział 5 – Zasady eksploatacji bezzałogowych statków powietrznych
 Treść rozporządzenia
 Na podstawie art. 33 ust. 2 i 4 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2016 r. poz. 605 i 904) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 26 marca 2013 r. w sprawie wyłączenia zastosowania niektórych przepisów ustawy – Prawo lotnicze do niektórych rodzajów statków powietrznych oraz określenia warunków i wymagań dotyczących używania tych statków (Dz. U. poz. 440 oraz z 2014 r. poz. 1288) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Przepisów rozporządzenia nie stosuje się do państwowych statków powietrznych innych niż bezzałogowe statki powietrzne o masie statku powietrznego gotowego do lotu (masie startowej) nie większej niż 150 kg, używanych wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS, z zastrzeżeniem art. 1 ust. 6 ustawy.
-” ;
+Przepisów rozporządzenia nie stosuje się do państwowych statków powietrznych innych niż bezzałogowe statki powietrzne o masie statku powietrznego gotowego do lotu (masie startowej) nie większej niż 150 kg, używanych wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS, z zastrzeżeniem art. 1 ust. 6 ustawy. ” ;
 2)
 w § 2:
 a)
 w ust. 1 w pkt 1:
-– lit. d otrzymuje brzmienie: „ d) bezzałogowych statków powietrznych o masie startowej nie większej niż 150 kg, używanych wyłącznie w celach rekreacyjnych lub sportowych, ” ,
-– lit. f otrzymuje brzmienie: „ f) bezzałogowych statków powietrznych o masie startowej nie większej niż 25 kg używanych w celach innych niż rekreacyjne lub sportowe; ” ,
+lit. d otrzymuje brzmienie: „
+d)
+bezzałogowych statków powietrznych o masie startowej nie większej niż 150 kg, używanych wyłącznie w celach rekreacyjnych lub sportowych, ” ,
+lit. f otrzymuje brzmienie: „
+f)
+bezzałogowych statków powietrznych o masie startowej nie większej niż 25 kg używanych w celach innych niż rekreacyjne lub sportowe; ” ,
 b)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
 Wyłącza się zastosowanie do:
 1)
 statków powietrznych, o których mowa w ust. 1 pkt 1, przepisów wydanych na podstawie art. 119 ust. 2, 4 i 5 ustawy w zakresie obowiązków związanych z wykonywaniem lotów w strefie nadgranicznej;
 2)
-statków powietrznych, o których mowa w ust. 1 pkt 1 lit. d i f, używanych wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS, przepisów wydanych na podstawie art. 119 ust. 4 pkt 1 ustawy, z uwzględnieniem przepisów określonych w załącznikach nr 6 i 6a do rozporządzenia.
-” ,
+statków powietrznych, o których mowa w ust. 1 pkt 1 lit. d i f, używanych wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS, przepisów wydanych na podstawie art. 119 ust. 4 pkt 1 ustawy, z uwzględnieniem przepisów określonych w załącznikach nr 6 i 6a do rozporządzenia. ” ,
 c)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
-Wyłącza się zastosowanie do bezzałogowych statków powietrznych o masie startowej nie większej niż 150 kg, używanych wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS, przepisów art. 126 ust. 2–5 ustawy, z uwzględnieniem przepisów określonych w załącznikach nr 6 i 6a do rozporządzenia.
-” ,
+Wyłącza się zastosowanie do bezzałogowych statków powietrznych o masie startowej nie większej niż 150 kg, używanych wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS, przepisów art. 126 ust. 2–5 ustawy, z uwzględnieniem przepisów określonych w załącznikach nr 6 i 6a do rozporządzenia. ” ,
 d)
-ust. 9 otrzymuje brzmienie:
-„
+ust. 9 otrzymuje brzmienie: „
 9.
-Wyłącza się z obowiązku powiadamiania Prezesa Urzędu Lotnictwa Cywilnego, o którym mowa w art. 123 ust. 1d ustawy, statki powietrzne, o których mowa w ust. 1 pkt 1 lit. a, b, d oraz f, pod warunkiem że w pokazach lotniczych uczestniczą wyłącznie te statki.
-” ,
+Wyłącza się z obowiązku powiadamiania Prezesa Urzędu Lotnictwa Cywilnego, o którym mowa w art. 123 ust. 1d ustawy, statki powietrzne, o których mowa w ust. 1 pkt 1 lit. a, b, d oraz f, pod warunkiem że w pokazach lotniczych uczestniczą wyłącznie te statki. ” ,
 e)
-dodaje się ust. 10 i 11 w brzmieniu:
-„
+dodaje się ust. 10 i 11 w brzmieniu: „
 10.
 Wyłącza się zastosowanie przepisów art. 94 ust. 1 ustawy do:
 1)
@@ -80,22 +84,17 @@ bezzałogowych statków powietrznych, o których mowa w ust. 1 pkt 1 lit. f, na 
 2)
 osób biorących udział w zajęciach dydaktycznych z wykorzystaniem statków powietrznych, o których mowa w ust. 1 pkt 1 lit. f, prowadzonych przez uczelnie, jeżeli loty realizowane w ramach tych zajęć nie są lotami polegającymi na świadczeniu usług lotniczych i są wykonywane zgodnie z przepisami określonymi w załączniku nr 6 do rozporządzenia.
 11.
-Wyłącza się zastosowanie do bezzałogowych statków powietrznych o masie startowej większej niż 25 kg i nie większej niż 150 kg, używanych w celach innych niż rekreacyjne lub sportowe, przepisów art. 53a ust. 2 pkt 1 ustawy.
-” ;
+Wyłącza się zastosowanie do bezzałogowych statków powietrznych o masie startowej większej niż 25 kg i nie większej niż 150 kg, używanych w celach innych niż rekreacyjne lub sportowe, przepisów art. 53a ust. 2 pkt 1 ustawy. ” ;
 3)
 w § 4 w ust. 1:
 a)
-pkt 6 otrzymuje brzmienie:
-„
+pkt 6 otrzymuje brzmienie: „
 6)
-bezzałogowych statków powietrznych o masie startowej nie większej niż 150 kg, używanych wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS w celach rekreacyjnych lub sportowych – w załączniku nr 6 do rozporządzenia;
-” ,
+bezzałogowych statków powietrznych o masie startowej nie większej niż 150 kg, używanych wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS w celach rekreacyjnych lub sportowych – w załączniku nr 6 do rozporządzenia; ” ,
 b)
-dodaje się pkt 7 w brzmieniu:
-„
+dodaje się pkt 7 w brzmieniu: „
 7)
-bezzałogowych statków powietrznych o masie startowej nie większej niż 150 kg używanych wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS w celach innych niż rekreacyjne lub sportowe – w załączniku nr 6a do rozporządzenia.
-” ;
+bezzałogowych statków powietrznych o masie startowej nie większej niż 150 kg używanych wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS w celach innych niż rekreacyjne lub sportowe – w załączniku nr 6a do rozporządzenia. ” ;
 4)
 załącznik nr 6 otrzymuje brzmienie określone w załączniku nr 1 do rozporządzenia;
 5)
@@ -105,26 +104,24 @@ w załączniku nr 7:
 a)
 pkt 1.1 otrzymuje brzmienie:
 1.1.
-Załącznik określa wymagania dotyczące ubezpieczenia odpowiedzialności cywilnej osób eksploatujących: lotnie, paralotnie, którymi jest możliwy start pieszy, spadochrony oraz bezzałogowe statki powietrzne o masie startowej do 20 kg, zwanych dalej „osobami eksploatującymi”, za szkody wyrządzone w związku z ruchem tych statków, zwanego dalej „ubezpieczeniem OC”, w szczególności zakres ubezpieczenia OC, termin powstania obowiązku zawarcia umowy ubezpieczenia OC oraz minimalną sumę gwarancyjną tego ubezpieczenia.
-” ,
+Załącznik określa wymagania dotyczące ubezpieczenia odpowiedzialności cywilnej osób eksploatujących: lotnie, paralotnie, którymi jest możliwy start pieszy, spadochrony oraz bezzałogowe statki powietrzne o masie startowej do 20 kg, zwanych dalej „osobami eksploatującymi”, za szkody wyrządzone w związku z ruchem tych statków, zwanego dalej „ubezpieczeniem OC”, w szczególności zakres ubezpieczenia OC, termin powstania obowiązku zawarcia umowy ubezpieczenia OC oraz minimalną sumę gwarancyjną tego ubezpieczenia. ” ,
 b)
-pkt 9 otrzymuje brzmienie:
-„
+pkt 9 otrzymuje brzmienie: „
 9.
-Minimalna suma gwarancyjna ubezpieczenia OC, o którym mowa w pkt 6.1, osób eksploatujących bezzałogowe statki powietrzne o masie startowej od 5 do 20 kg, w zakresie szkód wyrządzonych osobom trzecim w odniesieniu do jednego zdarzenia, którego skutki są objęte umową ubezpieczenia OC, wynosi równowartość w złotych kwoty 3 000 SDR.
-” .
+Minimalna suma gwarancyjna ubezpieczenia OC, o którym mowa w pkt 6.1, osób eksploatujących bezzałogowe statki powietrzne o masie startowej od 5 do 20 kg, w zakresie szkód wyrządzonych osobom trzecim w odniesieniu do jednego zdarzenia, którego skutki są objęte umową ubezpieczenia OC, wynosi równowartość w złotych kwoty 3 000 SDR. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
 
 ## Załącznik nr 1 — – Bezzałogowe statki powietrzne o masie startowej nie większej niż 150 kg, używane wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS w celach rekreacyjnych lub sportowych
 
-Rozdział 1 Zastosowanie
+Rozdział 1
+Zastosowanie
 1.1.
 Przepisy załącznika stosuje się do bezzałogowych statków powietrznych o masie startowej nie większej niż 150 kg, używanych wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS w celach rekreacyjnych lub sportowych, zwanych dalej „modelami latającymi”.
 1.2.
 Na uzasadniony wniosek, w szczególności w przypadkach wykonywania lotów pokazowych lub rekordowych, Prezes Urzędu Lotnictwa Cywilnego może zwolnić zainteresowany podmiot od obowiązku spełnienia niektórych wymagań załącznika, z zachowaniem wymogów bezpieczeństwa.
-Rozdział 2 Określenia
+Rozdział 2
+Określenia
 2.
 Użyte w załączniku określenia oznaczają:
 1)
@@ -157,7 +154,8 @@ strefa R – (Restricted Area) – strefę o ograniczonym ruchu lotniczym;
 szczególna ostrożność – ostrożność polegającą na zwiększeniu uwagi, dostosowaniu zachowania operatora lub zabezpieczenia i przystosowania miejsca startu i lądowania modelu latającego lub terenu, nad którym lot się odbywa, do warunków i sytuacji zmieniających się podczas wykonywania lotu, w stopniu umożliwiającym bezpieczne wykonanie lotu;
 15)
 operacje w zasięgu widoczności wzrokowej VLOS – (Visual Line of Sight Operation) – operacje, w których operator lub obserwator modelu latającego utrzymują bezpośredni kontakt wzrokowy z modelem latającym.
-Rozdział 3 Odpowiedzialność
+Rozdział 3
+Odpowiedzialność
 3.
 Operator:
 1)
@@ -182,7 +180,8 @@ używa modelu latającego oraz urządzeń sterujących zgodnie z zaleceniami i o
 przed lotem dokonuje kontroli stanu technicznego modelu latającego;
 7)
 wykonuje loty jedynie modelem latającym, który jest sprawny technicznie.
-Rozdział 4 Zasady wykonywania lotów
+Rozdział 4
+Zasady wykonywania lotów
 4.1.
 Modelami latającymi wykonuje się jedynie operacje w zasięgu widoczności wzrokowej VLOS z zachowaniem następujących warunków:
 1)
@@ -230,12 +229,14 @@ obszarami, obiektami i urządzeniami, o których mowa w art. 5 ust. 1 i 2 ustawy
 
 ## Załącznik nr 2 — – Bezzałogowe statki powietrzne o masie startowej nie większej niż 150 kg używane wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS w celach innych niż rekreacyjne lub sportowe
 
-Rozdział 1 Zastosowanie
+Rozdział 1
+Zastosowanie
 1.1.
 Przepisy załącznika stosuje się do bezzałogowych statków powietrznych o masie startowej nie większej niż 150 kg, używanych wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS w celach innych niż rekreacyjne lub sportowe, zwanych dalej „bezzałogowymi statkami powietrznymi”.
 1.2.
 Na uzasadniony wniosek, w szczególności w przypadkach wykonywania lotów pokazowych, rekordowych, eksperymentalnych lub doświadczalnych, Prezes Urzędu Lotnictwa Cywilnego może zwolnić zainteresowany podmiot z obowiązku spełnienia niektórych wymagań załącznika, z zachowaniem wymogów bezpieczeństwa.
-Rozdział 2 Określenia
+Rozdział 2
+Określenia
 2.
 Użyte w załączniku określenia oznaczają:
 1)
@@ -270,7 +271,8 @@ strefa R – (Restricted Area) – strefę o ograniczonym ruchu lotniczym;
 szczególna ostrożność – ostrożność polegającą na zwiększeniu uwagi, dostosowaniu zachowania operatora lub zabezpieczenia i przystosowania miejsca startu i lądowania bezzałogowego statku powietrznego lub terenu, nad którym lot się odbywa, do warunków i sytuacji zmieniających się podczas wykonywania lotu, w stopniu umożliwiającym bezpieczne wykonanie lotu;
 16)
 operacje w zasięgu widoczności wzrokowej VLOS – (Visual Line of Sight Operation) – operacje, w których operator lub obserwator bezzałogowego statku powietrznego utrzymują bezpośredni kontakt wzrokowy z bezzałogowym statkiem powietrznym.
-Rozdział 3 Odpowiedzialność
+Rozdział 3
+Odpowiedzialność
 3.
 Operator:
 1)
@@ -295,7 +297,8 @@ używa bezzałogowego statku powietrznego oraz urządzeń sterujących zgodnie z
 przed lotem dokonuje kontroli stanu technicznego bezzałogowego statku powietrznego;
 7)
 wykonuje loty bezzałogowym statkiem powietrznym, który jest sprawny technicznie.
-Rozdział 4 Zasady wykonywania lotów
+Rozdział 4
+Zasady wykonywania lotów
 4.1.
 Bezzałogowymi statkami powietrznymi wykonuje się jedynie operacje w zasięgu widoczności wzrokowej VLOS z zachowaniem następujących warunków:
 1)
@@ -327,8 +330,7 @@ terenami zamkniętymi, o których mowa w art. 2 pkt 9 ustawy z dnia 17 maja 1989
 b)
 obiektami jądrowymi, o których mowa w art. 3 pkt 17 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2014 r. poz. 1512, z 2015 r. poz. 1505 i 1893 oraz z 2016 r. poz. 266),
 c)
-obszarami, obiektami i urządzeniami, o których mowa w art. 5 ust. 1 i 2 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2014 r. poz. 1099, z 2015 r. poz. 1505 oraz z 2016 r. poz. 65 i 904)
-mogą być realizowane jedynie za zgodą lub na potrzeby zarządzającego danym terenem, obiektem, obszarem lub urządzeniem.
+obszarami, obiektami i urządzeniami, o których mowa w art. 5 ust. 1 i 2 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2014 r. poz. 1099, z 2015 r. poz. 1505 oraz z 2016 r. poz. 65 i 904) – mogą być realizowane jedynie za zgodą lub na potrzeby zarządzającego danym terenem, obiektem, obszarem lub urządzeniem.
 4.2.
 Postępowanie w sytuacjach niebezpiecznych podczas wykonywania lotów jest określone w zalecanej metodyce postępowania w sytuacjach niebezpiecznych, będącej częścią programu szkolenia.
 4.3.
@@ -341,7 +343,8 @@ Warunków, o których mowa w pkt 4.1 ppkt 5 i 6, nie stosuje się w przypadku wy
 Warunków, o których mowa w pkt 4.1 ppkt 1 i 2, nie stosuje się w przypadku wykonywania lotów bezzałogowymi statkami powietrznymi na uwięzi nie dłuższej niż 100 m.
 4.7.
 Warunków, o których mowa w pkt 4.1 ppkt 7 w odniesieniu do strefy D, ppkt 8, 9, 11 i 12, nie stosuje się w przypadku wykonywania lotów związanych z zapewnieniem bezpieczeństwa publicznego, z bezpieczeństwem i obronnością państwa, ochroną granicy państwowej, ochroną bezpieczeństwa wewnętrznego państwa lub poszukiwaniem i ratownictwem.
-Rozdział 5 Zasady eksploatacji bezzałogowych statków powietrznych
+Rozdział 5
+Zasady eksploatacji bezzałogowych statków powietrznych
 5.1.
 Warunkiem eksploatacji bezzałogowych statków powietrznych jest:
 1)

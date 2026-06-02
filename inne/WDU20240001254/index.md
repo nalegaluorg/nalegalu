@@ -22,9 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-26 |
 | Data wydania | 2024-08-19 |
-| Wejście w życie | 2024-09-20 |
 | Ostatnia zmiana | 2024-09-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001254) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1254/text.pdf) |
+
+Dostawcy usług udostępniania treści online
+Postanowienia wspólne dotyczące korzystania z utworów niedostępnych w handlu
+Korzystanie z utworów niedostępnych w handlu na podstawie umowy licencji niewyłącznej zawartej z reprezentatywną organizacją zbiorowego zarządzania
+Dozwolony użytek utworów niedostępnych w handlu
+Prawo do publikacji prasowych w ramach świadczenia usług drogą elektroniczną
 
 **Art. 1.** W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2022 r. poz. 2509 oraz z 2024 r. poz. 1222) wprowadza się następujące zmiany:
 
@@ -58,7 +63,7 @@ source: "eli-html"
 
 - **1)** zawartych w audycjach radiowych,
 - **2)** zawartych w audycjach telewizyjnych o charakterze informacyjnym, publicystycznym lub będących jej własnymi produkcjami w całości przez nią finansowanymi,
-- **3)** stanowiących materiały dodatkowe w stosunku do audycji, o których mowa w pkt 1 i 2 w ramach świadczenia dodatkowej usługi online, jak również zwielokrotnianie tych utworów, niezbędne w celu świadczenia dodatkowej usługi online, umożliwienia dostępu do niej lub korzystania z niej w odniesieniu do audycji, o których mowa w pkt 1 i 2, i materiałów dodatkowych, o których mowa w pkt 3, uznaje się, do celów wykonywania praw autorskich dotyczących tych czynności, za mające miejsce wyłącznie w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, w którym organizacja radiowa lub telewizyjna posiada swoje główne przedsiębiorstwo.
+- **3)** stanowiących materiały dodatkowe w stosunku do audycji, o których mowa w pkt 1 i 2 – w ramach świadczenia dodatkowej usługi online, jak również zwielokrotnianie tych utworów, niezbędne w celu świadczenia dodatkowej usługi online, umożliwienia dostępu do niej lub korzystania z niej w odniesieniu do audycji, o których mowa w pkt 1 i 2, i materiałów dodatkowych, o których mowa w pkt 3, uznaje się, do celów wykonywania praw autorskich dotyczących tych czynności, za mające miejsce wyłącznie w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, w którym organizacja radiowa lub telewizyjna posiada swoje główne przedsiębiorstwo.
 
 2. Przepisu ust. 1 nie stosuje się do nadawania audycji telewizyjnych z wydarzeń sportowych oraz zawartych w tych nadaniach utworów.
 
@@ -83,7 +88,7 @@ source: "eli-html"
 
 - **1)** praw, z których organizacja radiowa lub telewizyjna korzysta w odniesieniu do jej własnych transmisji, niezależnie od tego, czy dane prawa należą do tej organizacji, czy też zostały na nią przeniesione przez innego uprawnionego;
 - **2)** reemitowania utworów pierwotnie nadawanych wyłącznie w systemie teleinformatycznym w rozumieniu art. 2 pkt 3 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną;
-- **3)** reemitowania utworów za pośrednictwem usługi dostępu do internetu, o której mowa w art. 2 akapit 2 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/2120 z dnia 25 listopada 2015 r. ustanawiającego środki dotyczące dostępu do otwartego internetu oraz zmieniającego dyrektywę 2002/22/WE w sprawie usługi powszechnej i związanych z sieciami i usługami łączności elektronicznej praw użytkowników, a także rozporządzenie (UE) nr 531/2012 w sprawie roamingu w publicznych sieciach łączności ruchomej wewnątrz Unii (Dz. Urz. UE L 310 z 26.11.2015, str. 1, z późn. zm.), chyba że jest ono dokonywane w sposób umożliwiający dostęp do nich wyłącznie upoważnionym użytkownikom.
+- **3)** reemitowania utworów za pośrednictwem usługi dostępu do internetu, o której mowa w art. 2 akapit 2 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/2120 z dnia 25 listopada 2015 r. ustanawiającego środki dotyczące dostępu do otwartego internetu oraz zmieniającego dyrektywę 2002/22/WE w sprawie usługi powszechnej i związanych z sieciami i usługami łączności elektronicznej praw użytkowników, a także rozporządzenie (UE) nr 531/2012 w sprawie roamingu w publicznych sieciach łączności ruchomej wewnątrz Unii (Dz. Urz. UE L 310 z 26.11.2015, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2016, str. 14 oraz Dz. Urz. UE L 321 z 17.12.2018, str. 1., chyba że jest ono dokonywane w sposób umożliwiający dostęp do nich wyłącznie upoważnionym użytkownikom.
 
 3. Do sporów związanych z zawarciem umowy w zakresie praw, o których mowa w ust. 2 pkt 1, lub jej warunkami przepis art. 85 ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi stosuje się odpowiednio.
 
@@ -95,7 +100,7 @@ source: "eli-html"
 
 - **7)** w rozdziale 3 po oddziale 2 dodaje się oddział 21w brzmieniu: „
 
-##### Oddział 21 Dostawcy usług udostępniania treści online
+##### Oddział 21
 
 **Art. 221.**
 
@@ -182,13 +187,13 @@ source: "eli-html"
 
 - **1)** użyczać, w zakresie swoich zadań statutowych, egzemplarze utworów rozpowszechnionych,
 - **2)** zwielokrotniać utwory znajdujące się na stałe we własnych zbiorach, niezależnie od formatu lub nośnika, w celu uzupełnienia, zachowania lub ochrony tych zbiorów,
-- **3)** udostępniać zbiory dla celów badawczych lub poznawczych za pośrednictwem końcówek systemu informatycznego (terminali) znajdujących się na terenie tych jednostek jeżeli czynności te nie są dokonywane w celu osiągnięcia bezpośredniej lub pośredniej korzyści majątkowej. ” ;
+- **3)** udostępniać zbiory dla celów badawczych lub poznawczych za pośrednictwem końcówek systemu informatycznego (terminali) znajdujących się na terenie tych jednostek – jeżeli czynności te nie są dokonywane w celu osiągnięcia bezpośredniej lub pośredniej korzyści majątkowej. ” ;
 - **11)** w art. 331 w ust. 2 wyrazy „oddziale 3a” zastępuje się wyrazami „oddziale 31”;
 - **12)** w rozdziale 3: oddział 3a oznacza się jako oddział 31, oddział 6 otrzymuje brzmienie: „
     - **a)**
     - **b)**
 
-##### Oddział 6 Postanowienia wspólne dotyczące korzystania z utworów niedostępnych w handlu
+##### Oddział 6
 
 **Art. 3510.** Utworami niedostępnymi w handlu są utwory, w odniesieniu do których, w wyniku działań przeprowadzonych w dobrej wierze i z należytą starannością, stwierdzono, że nie są one dostępne publicznie za pośrednictwem kanałów dystrybucji właściwych dla danego rodzaju utworów. Przy określaniu dostępności utworu nie uwzględnia się dostępności jego opracowań oraz bierze się każdorazowo pod uwagę to, że wiedzę o kanałach dystrybucji i dacie rozpowszechnienia danego utworu może posiadać uprawniony.
 
@@ -206,7 +211,7 @@ source: "eli-html"
 
 - **1)** utworów audiowizualnych, których producenci mają siedzibę albo miejsce stałego pobytu w państwie innym niż państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym,
 - **2)** utworów innych niż utwory audiowizualne, opublikowanych po raz pierwszy albo – w przypadku braku publikacji – nadanych po raz pierwszy w państwie, o którym mowa w pkt 1,
-- **3)** utworów, do których autorskie prawa majątkowe przysługują obywatelom państwa, o którym mowa w pkt 1, jeżeli mimo podjęcia działań, o których mowa w art. 3510, nie można było ustalić tego państwa zgodnie z pkt 1 i 2 chyba że istnieje organizacja zbiorowego zarządzania reprezentatywna w odniesieniu do utworów, pól eksploatacji oraz kategorii uprawnionych tego państwa.
+- **3)** utworów, do których autorskie prawa majątkowe przysługują obywatelom państwa, o którym mowa w pkt 1, jeżeli mimo podjęcia działań, o których mowa w art. 3510, nie można było ustalić tego państwa zgodnie z pkt 1 i 2 – chyba że istnieje organizacja zbiorowego zarządzania reprezentatywna w odniesieniu do utworów, pól eksploatacji oraz kategorii uprawnionych tego państwa.
 
 **Art. 3515.** Korzystanie, o którym mowa w art. 3519 i art. 3522 ust. 1, jest dozwolone, jeżeli nie odbywa się w celu osiągnięcia bezpośredniej lub pośredniej korzyści majątkowej. Instytucje dziedzictwa kulturowego mogą uzyskiwać przychody z takiego korzystania, o ile zostaną one przeznaczone na pokrycie bezpośrednich kosztów digitalizacji, rozpowszechniania utworów uznanych za niedostępne w handlu lub kosztów uzyskania licencji na korzystanie z tych utworów.
 
@@ -249,7 +254,7 @@ source: "eli-html"
 
 - **c)**
 
-##### Oddział 61 Korzystanie z utworów niedostępnych w handlu na podstawie umowy licencji niewyłącznej zawartej z reprezentatywną organizacją zbiorowego zarządzania
+##### Oddział 61
 
 **Art. 3519.** Na zasadach określonych w niniejszym oddziale i oddziale 6 instytucje dziedzictwa kulturowego mogą korzystać z utworów niedostępnych w handlu, znajdujących się na stałe w ich zbiorach, na podstawie umowy licencji niewyłącznej, o której mowa w art. 67 ust. 2, zawartej z reprezentatywną organizacją zbiorowego zarządzania, o której mowa w art. 5 ust. 2a ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi.
 
@@ -272,7 +277,7 @@ source: "eli-html"
 
 2. Umowa licencji niewyłącznej, o której mowa w art. 3519, może obejmować terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
 
-##### Oddział 62 Dozwolony użytek utworów niedostępnych w handlu
+##### Oddział 62
 
 **Art. 3522.**
 
@@ -371,7 +376,7 @@ source: "eli-html"
 
 2. Jeżeli mediator wskazany przez strony wyrazi zgodę na mediację, uzgadnia on ze stronami warunki, zasady i harmonogram mediacji.
 
-3. W zakresie nieuregulowanym w ust. 1 i 2 do mediacji stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.) o mediacji.
+3. W zakresie nieuregulowanym w ust. 1 i 2 do mediacji stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858, 859, 863, 1222 i 1237.) o mediacji.
 
 4. Obsługę techniczno-organizacyjną mediacji zapewnia urząd obsługujący ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego nie dłużej niż przez 3 miesiące od dnia wyrażenia przez mediatora zgody na mediację. ” ;
 
@@ -389,7 +394,7 @@ source: "eli-html"
 
 - **26)** w rozdziale 11 po oddziale 31dodaje się oddział 32w brzmieniu: „
 
-##### Oddział 32 Prawo do publikacji prasowych w ramach świadczenia usług drogą elektroniczną
+##### Oddział 32
 
 **Art. 997.**
 
@@ -424,7 +429,7 @@ source: "eli-html"
 1. Wydawca ma prawo do:
 
 - **1)** otrzymywania od usługodawcy aktualnej informacji,
-- **2)** wglądu w niezbędnym zakresie do dokumentacji usługodawcy mającej istotne znaczenie dla określenia wysokości wynagrodzenia należnego wydawcy z tytułu korzystania z prawa, o którym mowa w art. 997 ust. 2.
+- **2)** wglądu w niezbędnym zakresie do dokumentacji usługodawcy – mającej istotne znaczenie dla określenia wysokości wynagrodzenia należnego wydawcy z tytułu korzystania z prawa, o którym mowa w art. 997 ust. 2.
 
 2. Informacje i dane uzyskane przez wydawcę na podstawie ust. 1 są przetwarzane wyłącznie w celu określenia wysokości należnego mu wynagrodzenia.
 
@@ -539,7 +544,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-1a. W przypadku instytucji oświatowych oraz podmiotów, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.), korzystanie, o którym mowa w ust. 1 pkt 2, odbywa się na odpowiedzialność tych instytucji lub podmiotów, na ich terenie lub w innym miejscu, lub za pośrednictwem bezpiecznego środowiska elektronicznego dostępnego, dzięki zastosowaniu procedur uwierzytelniających, tylko dla osób uczących się i nauczających lub prowadzących działalność naukową w danej instytucji lub danym podmiocie.
+1a. W przypadku instytucji oświatowych oraz podmiotów, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089.), korzystanie, o którym mowa w ust. 1 pkt 2, odbywa się na odpowiedzialność tych instytucji lub podmiotów, na ich terenie lub w innym miejscu, lub za pośrednictwem bezpiecznego środowiska elektronicznego dostępnego, dzięki zastosowaniu procedur uwierzytelniających, tylko dla osób uczących się i nauczających lub prowadzących działalność naukową w danej instytucji lub danym podmiocie.
 
 1b. Uznaje się, że korzystanie z baz danych w charakterze ilustracji w celach dydaktycznych, za pośrednictwem bezpiecznego środowiska elektronicznego, w sposób określony w ust. 1a, odbywa się w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, w którym dana instytucja oświatowa lub dany podmiot mają siedzibę. ” ;
 
@@ -590,6 +595,6 @@ source: "eli-html"
 
 1. Do obowiązujących w dniu wejścia w życie niniejszej ustawy zgód uprawnionego na rozpowszechnianie utworów lub przedmiotów praw pokrewnych nadawanych w procesie technicznym wprowadzenia bezpośredniego przepisy art. 6 ust. 1 pkt 4 i 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się od dnia 7 czerwca 2025 r., jeżeli wygasają po tej dacie.
 
-2. Do obowiązujących w dniu wejścia w życie niniejszej ustawy umów o przeniesienie autorskich praw majątkowych lub umów o korzystanie z utworu określony w art. 471 ustawy zmienianej w art. 1 obowiązek informacyjny stosuje się w zakresie korzystania z utworu lub artystycznego wykonania mającego miejsce od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 1 pkt 24, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+2. Do obowiązujących w dniu wejścia w życie niniejszej ustawy umów o przeniesienie autorskich praw majątkowych lub umów o korzystanie z utworu określony w art. 471 ustawy zmienianej w art. 1 obowiązek informacyjny stosuje się w zakresie korzystania z utworu lub artystycznego wykonania mającego miejsce od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 1 pkt 24, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2016, str. 14 oraz Dz. Urz. UE L 321 z 17.12.2018, str. 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858, 859, 863, 1222 i 1237. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089.
 
 

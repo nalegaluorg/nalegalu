@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 kwietnia 2021 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw
+# Ustawa z dnia 20 kwietnia 2021 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/541/UE z dnia 15 marca 2017 r. w sprawie zwalczania terroryzmu i zastępującą decyzję ramową Rady 2002/475/WSiSW oraz zmieniającą decyzję Rady 2005/671/WSiSW (Dz. Urz. UE L 88 z 31.03.2017, str. 6).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-20 |
 | Data wydania | 2021-06-07 |
-| Wejście w życie | 2021-06-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001023) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1023/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.
 
 **Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2020 r. poz. 1444 i 1517) wprowadza się następujące zmiany:
 
@@ -46,7 +47,7 @@ source: "eli-html"
 § 1. Kto:
 
 - **1)** organizuje lub przeprowadza zbiórkę ofiar na uiszczenie grzywny orzeczonej za przestępstwo, przestępstwo skarbowe, wykroczenie lub wykroczenie skarbowe, świadczenia pieniężnego, przepadku przedmiotów stanowiących kwotę pieniężną, równowartości przepadku przedmiotów lub przedsiębiorstwa, przepadku korzyści majątkowej stanowiącej kwotę pieniężną, równowartości przepadku korzyści majątkowej, odszkodowania, zadośćuczynienia, nawiązki, podlegającej zwrotowi korzyści majątkowej stanowiącej kwotę pieniężną albo równowartości podlegającej zwrotowi korzyści majątkowej lub na poręczenie majątkowe lub zabezpieczenie majątkowe,
-- **2)** nie będąc osobą najbliższą dla skazanego lub ukaranego uiszcza za niego grzywnę, świadczenie pieniężne, kwotę pieniężną stanowiącą przedmiot przepadku, równowartość przepadku przedmiotów lub przedsiębiorstwa, kwotę pieniężną stanowiącą przedmiot przepadku korzyści majątkowej, równowartość przepadku korzyści majątkowej, nawiązkę, podlegającą zwrotowi korzyść majątkową stanowiącą kwotę pieniężną albo równowartość podlegającej zwrotowi korzyści majątkowej lub uiszcza odszkodowanie lub zadośćuczynienie lub ofiarowuje mu albo osobie dla niego najbliższej pieniądze na ten cel podlega karze aresztu albo grzywny. ” ;
+- **2)** nie będąc osobą najbliższą dla skazanego lub ukaranego uiszcza za niego grzywnę, świadczenie pieniężne, kwotę pieniężną stanowiącą przedmiot przepadku, równowartość przepadku przedmiotów lub przedsiębiorstwa, kwotę pieniężną stanowiącą przedmiot przepadku korzyści majątkowej, równowartość przepadku korzyści majątkowej, nawiązkę, podlegającą zwrotowi korzyść majątkową stanowiącą kwotę pieniężną albo równowartość podlegającej zwrotowi korzyści majątkowej lub uiszcza odszkodowanie lub zadośćuczynienie lub ofiarowuje mu albo osobie dla niego najbliższej pieniądze na ten cel – podlega karze aresztu albo grzywny. ” ;
 - **2)** § 3 otrzymuje brzmienie: „
 
 § 3. Przepadkowi podlegają:
@@ -147,7 +148,7 @@ source: "eli-html"
 
 **Art. 610a.** Minister Sprawiedliwości może zawrzeć z odpowiednim organem państwa obcego porozumienie przewidujące podział kwot lub przedmiotów uzyskanych z wykonania orzeczenia skazującego na grzywnę lub z orzeczenia przepadku, o których mowa w art. 609 § 2 oraz art. 610 § 4 i 5. ” .
 
-**Art. 4.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180, 694 i 981.) wprowadza się następujące zmiany:
 
 - **1)** po art. 14f dodaje się art. 14fa w brzmieniu: „ Art. 14fa.
 
@@ -167,5 +168,5 @@ source: "eli-html"
 
 **Art. 7.** Do czynów popełnionych przed dniem wejścia w życie niniejszej ustawy oraz kar orzeczonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy o przedawnieniu w brzmieniu nadanym tą ustawą, chyba że termin przedawnienia już upłynął.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/541/UE z dnia 15 marca 2017 r. w sprawie zwalczania terroryzmu i zastępującą decyzję ramową Rady 2002/475/WSiSW oraz zmieniającą decyzję Rady 2005/671/WSiSW (Dz. Urz. UE L 88 z 31.03.2017, str. 6). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180, 694 i 981.
 

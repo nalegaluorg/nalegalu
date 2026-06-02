@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 lutego 2011 r. o zmianie ustawy o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa
+# Ustawa z dnia 25 lutego 2011 r. o zmianie ustawy o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa Ustawa została notyfikowana Komisji Europejskiej w dniu 5 stycznia 2010 r., pod numerem 2010/3/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-02-25 |
 | Data wydania | 2011-05-06 |
-| Wejście w życie | 2011-06-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110920528) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/528/text.pdf) |
 
@@ -60,10 +59,12 @@ source: "eli-html"
 - **6)** w art. 8: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. W toku badań, o których mowa w art. 6 ust. 1 pkt 2, jednostka badawcza przeprowadza czynności w celu potwierdzenia zgodności wyrobu ze specyfikacją techniczną. ” , w ust. 6: – pkt 2 otrzymuje brzmienie: „ 2) dokumentację techniczną wyrobu w zakresie niezbędnym do wykonywania badań; ” , – pkt 4 otrzymuje brzmienie: „ 4) egzemplarze wyrobu podlegające badaniu. ” , ust. 9 otrzymuje brzmienie: „
+1. W toku badań, o których mowa w art. 6 ust. 1 pkt 2, jednostka badawcza przeprowadza czynności w celu potwierdzenia zgodności wyrobu ze specyfikacją techniczną. ” , w ust. 6: pkt 2 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **2)** dokumentację techniczną wyrobu w zakresie niezbędnym do wykonywania badań; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** egzemplarze wyrobu podlegające badaniu. ” , ust. 9 otrzymuje brzmienie: „
+    - **c)**
 
 9. Dla wyrobów wykonywanych w cyklu pracy rozwojowej i wdrożeniowej badania, o których mowa w ust. 1, podejmuje się po zatwierdzeniu dokumentacji technicznej do produkcji seryjnej przez Ministra Obrony Narodowej lub organ wskazany przez Ministra Obrony Narodowej. ” ;
 
@@ -138,7 +139,7 @@ source: "eli-html"
 
 - **1)** szczegółowe wymagania, jakie powinny spełniać jednostki organizacyjne prowadzące ocenę zgodności,
 - **2)** wzór certyfikatu akredytacji OiB,
-- **3)** szczegółowy sposób i tryb postępowania w zakresie udzielania akredytacji OiB jednostkom organizacyjnym biorąc pod uwagę wymagania określone w Polskich Normach. ” ;
+- **3)** szczegółowy sposób i tryb postępowania w zakresie udzielania akredytacji OiB jednostkom organizacyjnym – biorąc pod uwagę wymagania określone w Polskich Normach. ” ;
 - **13)** po art. 22 dodaje się art. 22a w brzmieniu: „
 
 **Art. 22a.** Nadzór nad jednostkami badawczymi i jednostkami certyfikującymi posiadającymi akredytację OiB, w zakresie przeprowadzania oceny zgodności wyrobów przeznaczonych na potrzeby obronności lub bezpieczeństwa państwa, sprawuje Minister Obrony Narodowej. ” ;
@@ -170,8 +171,5 @@ source: "eli-html"
 
 **Art. 5.** Przepisy wykonawcze wydane na podstawie art. 10 ust. 1 i art. 26 ust. 5 oraz przepisy wykonawcze wydane przez Ministra Obrony Narodowej na podstawie art. 16 ust. 2 i art. 25 ust. 2 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 ust. 1, art. 16 ust. 2, art. 25 ust. 2 i art. 26 ust. 5 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 18 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-
-- **1)** Ustawa została notyfikowana Komisji Europejskiej w dniu 5 stycznia 2010 r., pod numerem 2010/3/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).
-
+**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Ustawa została notyfikowana Komisji Europejskiej w dniu 5 stycznia 2010 r., pod numerem 2010/3/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).
 

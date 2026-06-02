@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 4 grudnia 2012 r. w sprawie Narodowego Systemu Monitorowania Ruchu Statków i Przekazywania Informacji
+# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 4 grudnia 2012 r. w sprawie Narodowego Systemu Monitorowania Ruchu Statków i Przekazywania Informacji Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Unii Europejskiej:
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-04 |
 | Data wydania | 2012-12-14 |
-| Wejście w życie | 2012-12-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001412) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1412/text.pdf) |
 
+dyrektywy Parlamentu Europejskiego i Rady 2002/59/WE z dnia 27 czerwca 2002 r. ustanawiającej wspólnotowy system monitorowania i informacji o ruchu statków i uchylającej dyrektywę 93/75/WE(Dz. Urz. UE L 208 z 05.08.2002, str. 10; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 12);
 Treść rozporządzenia
 2)
 dyrektywy Parlamentu Europejskiego i Rady 2009/17/WE z dnia 23 kwietnia 2009 r. zmieniającej dyrektywę 2002/59/WE ustanawiającą wspólnotowy system monitorowania i informacji o ruchu statków (Dz. Urz. UE L 131 z 28.05.2009, str. 101);
@@ -63,7 +63,7 @@ krajowy użytkownik SafeSeaNet – podmiot uprawniony do otrzymywania lub dostar
 6)
 państwo członkowskie – państwo członkowskie Unii Europejskiej oraz państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym;
 7)
-dokument IFCD (Interface and Functionalities Control Document) – opracowany przez Komisję Europejską we współpracy z państwami członkowskimi dokument dotyczący interfejsu i kontroli funkcjonalności, określający szczegółowe wymogi w zakresie funkcjonowania, standardów technicznych i procedur działania krajowych systemów SafeSeaNet i centralnego systemu SafeSeaNet;
+dokument IFCD (Interface and Functionalities Control Document)Dokument, o którym mowa w § 2 pkt 7, jest dostępny pod poniższym adresem: http://www.umgdy.gov.pl/jednostka/irm w zakładce Narodowy SafeSeaNet. – opracowany przez Komisję Europejską we współpracy z państwami członkowskimi dokument dotyczący interfejsu i kontroli funkcjonalności, określający szczegółowe wymogi w zakresie funkcjonowania, standardów technicznych i procedur działania krajowych systemów SafeSeaNet i centralnego systemu SafeSeaNet;
 8)
 alert – sygnał o zagrożeniu bądź naruszeniu ochrony statku, o którym mowa w art. 3 ust. 1 pkt 11 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich (Dz. U. Nr 171, poz. 1055).
 § 3.
@@ -138,7 +138,7 @@ Prawa dostępu do systemu kontrolno-informacyjnego dla portów polskich (PHICS) 
 3.
 Prawa dostępu do podsystemów przekazywania informacji Narodowego Systemu SafeSeaNet udziela się na wniosek złożony do dyrektora właściwego urzędu morskiego.
 4.
-Wzory wniosków, o których mowa w ust. 3, znajdują się na stronie internetowej Urzędu Morskiego w Gdyni.
+Wzory wniosków, o których mowa w ust. 3, znajdują się na stronie internetowej Urzędu Morskiego w GdyniWzory wniosków, o których mowa w § 5 ust. 4, są dostępne pod poniższym adresem: http://www.umgdy.gov.pl/jednostka/irm w zakładce Narodowy SafeSeaNet..
 5.
 Koordynator SafeSeaNet może upoważnić administratorów podsystemów przekazywania informacji Narodowego Systemu SafeSeaNet do udzielania praw dostępu do tych podsystemów.
 § 6.
@@ -148,7 +148,7 @@ zapewnienie całodobowej, działającej przez 7 dni w tygodniu Służby VTS, odp
 2)
 zapewnienie całodobowego obiegu i przekazywania informacji za pomocą Narodowego Systemu SafeSeaNet oraz nadzoru i podejmowania działań korygujących mających na celu zapewnienie przekazywania prawidłowych informacji do centralnego systemu SafeSeaNet;
 3)
-ustanowienie regulaminu i szczegółowych procedur działania Służby VTS, z uwzględnieniem wytycznych Międzynarodowej Organizacji Morskiej (IMO) i Międzynarodowego Stowarzyszenia Służb Oznakowania Nawigacyjnego (IALA);
+ustanowienie regulaminu i szczegółowych procedur działania Służby VTS, z uwzględnieniem wytycznych Międzynarodowej Organizacji Morskiej (IMO) i Międzynarodowego Stowarzyszenia Służb Oznakowania Nawigacyjnego (IALA)Dokumenty, o których mowa w § 6 pkt 3, są dostępne pod poniższym adresem: http://www.umgdy.gov.pl/jednostka/irm w zakładce Narodowy SafeSeaNet.;
 4)
 utrzymanie w działaniu ciągłym i zapewnienie wymaganej dostępności elementów podsystemu monitorowania ruchu statków, o których mowa w § 3 ust. 2 pkt 1;
 5)
@@ -173,7 +173,7 @@ prowadzi nadzór nad przestrzeganiem przez statki przepisów ruchu na wyznaczony
 3)
 rozpowszechnia drogą radiową informacje nawigacyjne i hydrologiczno-meteorologiczne zgodnie z wytycznymi Międzynarodowej Organizacji Morskiej (IMO);
 4)
-świadczy serwis asysty morskiej zgodnie z wytycznymi Międzynarodowej Organizacji Morskiej;
+świadczy serwis asysty morskiej zgodnie z wytycznymi Międzynarodowej Organizacji MorskiejWytyczne, o których mowa w § 9 pkt 4, Rezolucja IMO Nr A.950(23) Serwis asysty morskiej z dnia 5 grudnia 2003 r. zostały podane do publicznej wiadomości w obwieszczeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 29 grudnia 2011 r. w sprawie podania do publicznej wiadomości niektórych przepisów Międzynarodowej Organizacji Morskiej (IMO) dotyczących bezpieczeństwa morskiego (Dz. Urz. MTBiGM Nr 2, poz. 9).;
 5)
 utrzymuje łączność z kapitanem, armatorem statku lub właścicielem przewożonych przez statek towarów niebezpiecznych, o którym mowa w art. 88 ustawy lub w art. 27 pkt 1 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2012 r. poz. 1244);
 6)
@@ -208,8 +208,7 @@ Armator, kapitan lub przedstawiciel kapitana statku zmierzającego do portu pols
 1)
 art. 87 ustawy,
 2)
-art. 43 ust. 1 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich
-za pomocą systemu kontrolno-informacyjnego dla portów polskich (PHICS).
+art. 43 ust. 1 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich – za pomocą systemu kontrolno-informacyjnego dla portów polskich (PHICS).
 4.
 Armator statku przewożącego ładunki niebezpieczne lub zanieczyszczające przekazuje informacje, zgodnie z art. 10a ust. 1 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki, za pomocą systemu kontrolno-informacyjnego dla portów polskich (PHICS).
 5.
@@ -246,9 +245,7 @@ W celu regularnego sprawdzania funkcjonowania wszystkich podsystemów Narodowego
 § 12.
 Podmioty, o których mowa w § 5 ust. 1 i 2, którym przed dniem wejścia w życie rozporządzenia udzielono prawa dostępu do Narodowego Systemu SafeSeaNet, zachowują to prawo.
 § 13.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-2)
-Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Unii Europejskiej:
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 5 listopada 2010 r. w sprawie Narodowego Systemu Monitorowania Ruchu Statków i Przekazywania Informacji (Dz. U. Nr 213, poz. 1398), które zgodnie z art. 149 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368 oraz z 2012 r. poz. 1068) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Unii Europejskiej:
 1)
 dyrektywy Parlamentu Europejskiego i Rady 2002/59/WE z dnia 27 czerwca 2002 r. ustanawiającej wspólnotowy system monitorowania i informacji o ruchu statków i uchylającej dyrektywę 93/75/WE (Dz. Urz. UE L 208 z 05.08.2002, str. 10; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 12);
 2)
@@ -258,6 +255,5 @@ dyrektywy Komisji 2011/15/UE z dnia 23 lutego 2011 r. zmieniającej dyrektywę 2
 4)
 dyrektywy Parlamentu Europejskiego i Rady 2009/16/WE z dnia 23 kwietnia 2009 r. w sprawie kontroli przeprowadzanej przez państwo portu (Dz. Urz. UE L 131 z 28.05.2009, str. 57);
 5)
-dyrektywy Parlamentu Europejskiego i Rady 2010/65/UE z dnia 20 października 2010 r. w sprawie formalności sprawozdawczych dla statków wchodzących do portów lub wychodzących z portów państw członkowskich i uchylającej dyrektywę 2002/6/WE (Dz. Urz. UE L 283 z 29.10.2010, str. 1).
-3) Dokument, o którym mowa w § 2 pkt 7, jest dostępny pod poniższym adresem: http://www.umgdy.gov.pl/jednostka/irm w zakładce Narodowy SafeSeaNet. 4) Wzory wniosków, o których mowa w § 5 ust. 4, są dostępne pod poniższym adresem: http://www.umgdy.gov.pl/jednostka/irm w zakładce Narodowy SafeSeaNet. 5) Dokumenty, o których mowa w § 6 pkt 3, są dostępne pod poniższym adresem: http://www.umgdy.gov.pl/jednostka/irm w zakładce Narodowy SafeSeaNet. 6) Wytyczne, o których mowa w § 9 pkt 4, Rezolucja IMO Nr A.950(23) Serwis asysty morskiej z dnia 5 grudnia 2003 r. zostały podane do publicznej wiadomości w obwieszczeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 29 grudnia 2011 r. w sprawie podania do publicznej wiadomości niektórych przepisów Międzynarodowej Organizacji Morskiej (IMO) dotyczących bezpieczeństwa morskiego (Dz. Urz. MTBiGM Nr 2, poz. 9). 7) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 5 listopada 2010 r. w sprawie Narodowego Systemu Monitorowania Ruchu Statków i Przekazywania Informacji (Dz. U. Nr 213, poz. 1398), które zgodnie z art. 149 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368 oraz z 2012 r. poz. 1068) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+dyrektywy Parlamentu Europejskiego i Rady 2010/65/UE z dnia 20 października 2010 r. w sprawie formalności sprawozdawczych dla statków wchodzących do portów lub wychodzących z portów państw członkowskich i uchylającej dyrektywę 2002/6/WE (Dz. Urz. UE L 283 z 29.10.2010, str. 1). 3) Dokument, o którym mowa w § 2 pkt 7, jest dostępny pod poniższym adresem: http://www.umgdy.gov.pl/jednostka/irm w zakładce Narodowy SafeSeaNet. 4) Wzory wniosków, o których mowa w § 5 ust. 4, są dostępne pod poniższym adresem: http://www.umgdy.gov.pl/jednostka/irm w zakładce Narodowy SafeSeaNet. 5) Dokumenty, o których mowa w § 6 pkt 3, są dostępne pod poniższym adresem: http://www.umgdy.gov.pl/jednostka/irm w zakładce Narodowy SafeSeaNet. 6) Wytyczne, o których mowa w § 9 pkt 4, Rezolucja IMO Nr A.950(23) Serwis asysty morskiej z dnia 5 grudnia 2003 r. zostały podane do publicznej wiadomości w obwieszczeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 29 grudnia 2011 r. w sprawie podania do publicznej wiadomości niektórych przepisów Międzynarodowej Organizacji Morskiej (IMO) dotyczących bezpieczeństwa morskiego (Dz. Urz. MTBiGM Nr 2, poz. 9). 7) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 5 listopada 2010 r. w sprawie Narodowego Systemu Monitorowania Ruchu Statków i Przekazywania Informacji (Dz. U. Nr 213, poz. 1398), które zgodnie z art. 149 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368 oraz z 2012 r. poz. 1068) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

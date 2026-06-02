@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-27 |
 | Data wydania | 2017-12-29 |
-| Wejście w życie | 2017-12-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002488) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2488/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Dowody Rozdział 3 – Protokół kontroli i wystąpienie pokontrolne Rozdział 4 – Przepisy przejściowe i przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 13 ust. 8 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2017 r. poz. 2117 i 2361) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa tryb wykonywania kontroli przez Prezesa Urzędu Transportu Kolejowego, zwanego dalej „Prezesem UTK”, w ramach wykonywanego nadzoru.
 § 2.
@@ -67,6 +67,7 @@ Pisemne wyjaśnienia oraz protokół, o których mowa w ust. 1 pkt 2 i ust. 3, p
 Z przyjęcia ustnego oświadczenia, o którym mowa w ust. 2, kontrolujący sporządza protokół, który podpisują kontrolujący i osoba składająca oświadczenie.
 7.
 Kontrolujący nie może odmówić przyjęcia oświadczenia, o którym mowa w ust. 2, jeżeli ma ono związek z przedmiotem kontroli.
+Dowody
 § 5.
 Kontrolujący dokonuje ustaleń stanu faktycznego na podstawie zebranych w trakcie kontroli dowodów.
 § 6.
@@ -85,6 +86,7 @@ Biegłym może być osoba posiadająca wykształcenie i kwalifikacje odpowiednie
 Biegłym nie może być osoba, w stosunku do której istnieją okoliczności mogące wpłynąć na jej bezstronność, w szczególności gdy kontrola dotyczy zatrudniającej tę osobę jednostki albo zadań, których ta osoba jest wykonawcą.
 § 8.
 Kontrolujący może dokonywać oględzin i wykonywać pomiary i badania.
+Protokół kontroli i wystąpienie pokontrolne
 § 9.
 1.
 Wyniki przeprowadzonej kontroli kontrolujący, a w przypadku kontroli przeprowadzonej przez zespół kontrolujący – kierujący zespołem kontrolującym, przedstawia w protokole kontroli.
@@ -151,19 +153,28 @@ Kierownik jednostki kontrolowanej lub osoba przez niego upoważniona, którym pr
 Prezes UTK w terminie 14 dni od dnia otrzymania zastrzeżeń, o których mowa w ust. 1, przedstawia stanowisko zgłaszającemu zastrzeżenia w postaci papierowej albo elektronicznej.
 § 13.
 Kierownik jednostki kontrolowanej lub osoba przez niego upoważniona, którym przekazano wystąpienie pokontrolne, w terminie określonym w wystąpieniu, a w przypadku zgłoszonych zastrzeżeń, o których mowa w § 12 ust. 1, w terminie 14 dni od otrzymania stanowiska Prezesa UTK, chyba że termin określony w wystąpieniu jest dłuższy, informują Prezesa UTK o podjętych działaniach związanych z realizacją uwag i wniosków w postaci papierowej albo elektronicznej.
+Przepisy przejściowe i przepis końcowy
 § 14.
 1.
 Do kontroli wykonywanych przez Prezesa Urzędu Transportu Kolejowego wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 2.
 Do czynności pokontrolnych przeprowadzanych po zakończeniu kontroli, o których mowa w ust. 1, stosuje się przepisy dotychczasowe.
 § 15.
-Rozporządzenie wchodzi w życie z dniem 30 grudnia 2017 r.
+Rozporządzenie wchodzi w życie z dniem 30 grudnia 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu z dnia 12 marca 2007 r. w sprawie trybu wykonywania kontroli przez Prezesa Urzędu Transportu Kolejowego (Dz. U. poz. 388 oraz z 2010 r. poz. 114), które zgodnie z art. 18 ustawy z dnia 16 listopada 2016 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw (Dz. U. poz. 1923) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu z dnia 12 marca 2007 r. w sprawie trybu wykonywania kontroli przez Prezesa Urzędu Transportu Kolejowego (Dz. U. poz. 388 oraz z 2010 r. poz. 114), które zgodnie z art. 18 ustawy z dnia 16 listopada 2016 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw (Dz. U. poz. 1923) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Dowody
+#### Rozdział 2 – Dowody
 
-#### Rozdział 3 Protokół kontroli i wystąpienie pokontrolne
+#### Rozdział 3 – Protokół kontroli i wystąpienie pokontrolne
 
-#### Rozdział 4 Przepisy przejściowe i przepis końcowy
+#### Rozdział 4 – Przepisy przejściowe i przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

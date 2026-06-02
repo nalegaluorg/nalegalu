@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych (Dz. U. z 2020 r. poz. 619), z uwzględnieniem zmian wprowadzonych ustawą z dnia 30 marca 2021 r. o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz niektórych innych ustaw (Dz. U. poz. 794) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 września 2021 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 16 ustawy z dnia 30 marca 2021 r. o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz niektórych innych ustaw (Dz. U. poz. 794), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 16 ustawy z dnia 30 marca 2021 r. o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz niektórych innych ustaw (Dz. U. poz. 794), który stanowi: „
 
 **Art. 16.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 11–15, które wchodzą w życie z dniem 1 czerwca 2021 r. ” . Załącznik – Tekst jednolity ustawy z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych Uznając, że przymusowe zatrudnianie żołnierzy zastępczej służby wojskowej w kopalniach węgla, kamieniołomach, zakładach wydobywania rud uranu i batalionach budowlanych stanowiło szczególny rodzaj represji z przyczyn politycznych, uchwala się, co następuje:
 
@@ -42,7 +41,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 - **1)** zastępczej służby wojskowej, którzy w latach 1949–1959 byli przymusowo zatrudniani w kopalniach węgla, kamieniołomach oraz w zakładach pozyskiwania i wzbogacania rud uranowych,
 - **2)** z poboru w 1949 r., którzy byli wcieleni do ponadkontyngentowych brygad „Służby Polsce” i przymusowo zatrudniani w kopalniach węgla i kamieniołomach,
-- **3)** przymusowo zatrudnianym w batalionach budowlanych w latach 1949–1959 przysługuje, z zastrzeżeniem ust. 2, świadczenie pieniężne.
+- **3)** przymusowo zatrudnianym w batalionach budowlanych w latach 1949–1959 – przysługuje, z zastrzeżeniem ust. 2, świadczenie pieniężne.
 
 2. Świadczenie pieniężne i uprawnienia przewidziane ustawą nie przysługują żołnierzom Korpusu Bezpieczeństwa Wewnętrznego i Wojsk Ochrony Pogranicza odkomenderowanym w 1956 r. do kopalń węgla bez selekcjonowania politycznego określonego kategorią zastępczej służby wojskowej oraz żołnierzom, którzy w ramach werbunku ochotniczego zawarli umowę o pracę w górnictwie węglowym.
 
@@ -52,7 +51,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 2.**
 
-1. Świadczenie pieniężne wynosi 222,01 zł .
+1. Świadczenie pieniężne wynosi 222,01 zł Aktualną kwotę świadczenia ogłasza, w formie komunikatu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, Prezes Zakładu Ubezpieczeń Społecznych, na podstawie art. 2 ust. 3 niniejszej ustawy, z tym że kwotę świadczenia aktualną od 1 marca 2021 r. ogłosił Prezes Zakładu Ubezpieczeń Społecznych w komunikacie z dnia 26 lutego 2021 r. (M. P. poz. 222), wydanym na podstawie art. 11 ust. 1 ustawy z dnia 21 stycznia 2021 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (Dz. U. poz. 353)..
 
 2. Kwota świadczenia pieniężnego ulega podwyższeniu przy zastosowaniu wskaźnika waloryzacji emerytur i rent od miesiąca, w którym jest przeprowadzana waloryzacja, z uwzględnieniem ust. 4.
 
@@ -86,7 +85,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 4. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, organy emerytalno-rentowe właściwe do przyznawania i wypłacania świadczenia pieniężnego, dodatku kompensacyjnego oraz ryczałtu energetycznego, a także tryb przyznawania i wypłacania tych świadczeń osobom:
 
 - **1)** niemającym ustalonego prawa do emerytury lub renty,
-- **2)** pobierającym świadczenie o charakterze rentowym z instytucji zagranicznych mając na względzie sprawną wypłatę świadczeń.
+- **2)** pobierającym świadczenie o charakterze rentowym z instytucji zagranicznych – mając na względzie sprawną wypłatę świadczeń.
 
 **Art. 4.** Świadczenie pieniężne, dodatek kompensacyjny, ryczałt energetyczny i jednorazowe odszkodowanie oraz koszty ich obsługi finansowane są ze środków budżetu państwa.
 
@@ -122,34 +121,23 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Osobom, o których mowa w art. 1 ust. 1, znajdującym się w trudnej sytuacji materialnej, zdrowotnej oraz w związku z zaistnieniem zdarzeń losowych, może być przyznana pomoc pieniężna – jednorazowa lub okresowa.
 
-2. Pomoc pieniężna jednorazowa może być przyznana w szczególności na:
+2. Pomoc pieniężna jednorazowa może być przyznana w szczególności na: 1W brzmieniu ustalonym przez art. 5 pkt 1 ustawy z dnia 30 marca 2021 r. o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz niektórych innych ustaw (Dz. U. poz. 794), która weszła w życie z dniem 30 maja 2021 r.) pokrycie – w części lub całości – kosztów zakupu wyrobów medycznych;
 
-- **1)** pokrycie – w części lub całości – kosztów zakupu wyrobów medycznych;
 - **2)** dostosowanie pomieszczeń mieszkalnych do rodzaju niepełnosprawności.
 
 3. Pomoc pieniężna okresowa może być przyznana w szczególności na:
 
 - **1)** zaspokojenie potrzeb bytowych i ochronę zdrowia w przypadku długotrwałej choroby powodującej wzrost kosztów utrzymania, zakupu leków, środków opatrunkowych oraz dojazdów do zakładów leczniczych na zabiegi medyczne i rehabilitacyjne;
-- **2)** opłacenie pomocy pielęgnacyjnej niezbędnej z uwagi na wiek oraz stan zdrowia.
-
-4. Pomoc pieniężna jednorazowa może być przyznana, jeżeli:
-
+- **2)** opłacenie pomocy pielęgnacyjnej niezbędnej z uwagi na wiek oraz stan zdrowia. 4W brzmieniu ustalonym przez art. 5 pkt 2 ustawy, o której mowa w odnośniku 2.. Pomoc pieniężna jednorazowa może być przyznana, jeżeli:
 - **1)** dochód osoby samotnie gospodarującej nie przekracza kwoty odpowiadającej 290% najniższej emerytury, ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291, 353, 794 i 1621), zwanej dalej „najniższą emeryturą”;
 - **2)** dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 220% najniższej emerytury;
-- **3)** dochód osoby samotnie gospodarującej lub dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 350% najniższej emerytury, w przypadku gdy wnioskodawca pobiera rentę inwalidy wojskowego albo jest osobą całkowicie niezdolną do pracy oraz do samodzielnej egzystencji.
-
-5. Pomoc pieniężna okresowa może być przyznana, jeżeli:
-
+- **3)** dochód osoby samotnie gospodarującej lub dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 350% najniższej emerytury, w przypadku gdy wnioskodawca pobiera rentę inwalidy wojskowego albo jest osobą całkowicie niezdolną do pracy oraz do samodzielnej egzystencji. 5W brzmieniu ustalonym przez art. 5 pkt 2 ustawy, o której mowa w odnośniku 2.. Pomoc pieniężna okresowa może być przyznana, jeżeli:
 - **1)** dochód osoby samotnie gospodarującej nie przekracza kwoty odpowiadającej 220% najniższej emerytury;
-- **2)** dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 150% najniższej emerytury.
-
-6. Pomoc pieniężna jednorazowa jest przyznawana do wysokości 150% najniższej emerytury, przy czym pomoc przeznaczona na pokrycie kosztów zakupu wyrobów medycznych jest przyznawana do wysokości 350% najniższej emerytury, a na dostosowanie pomieszczeń mieszkalnych do rodzaju niepełnosprawności jest przyznawana do wysokości 450% najniższej emerytury.
+- **2)** dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 150% najniższej emerytury. 6W brzmieniu ustalonym przez art. 5 pkt 2 ustawy, o której mowa w odnośniku 2.. Pomoc pieniężna jednorazowa jest przyznawana do wysokości 150% najniższej emerytury, przy czym pomoc przeznaczona na pokrycie kosztów zakupu wyrobów medycznych jest przyznawana do wysokości 350% najniższej emerytury, a na dostosowanie pomieszczeń mieszkalnych do rodzaju niepełnosprawności jest przyznawana do wysokości 450% najniższej emerytury.
 
 7. Pomoc pieniężna okresowa jest przyznawana do wysokości 100% najniższej emerytury miesięcznie.
 
-8. Pomoc pieniężna okresowa jest przyznawana na okres do 6 miesięcy i nie częściej niż raz na 12 miesięcy.
-
-9. Pomoc pieniężna jednorazowa jest przyznawana nie częściej niż 2 razy w roku kalendarzowym.
+8. Pomoc pieniężna okresowa jest przyznawana na okres do 6 miesięcy i nie częściej niż raz na 12 miesięcy. 9W brzmieniu ustalonym przez art. 5 pkt 3 ustawy, o której mowa w odnośniku 2.. Pomoc pieniężna jednorazowa jest przyznawana nie częściej niż 2 razy w roku kalendarzowym.
 
 10. Pomoc pieniężna jest przyznawana na wniosek osoby uprawnionej w drodze decyzji administracyjnej wydawanej przez Szefa Urzędu do Spraw Kombatantów i Osób Represjonowanych.
 
@@ -173,8 +161,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 8.** W sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-
-- **1)** Aktualną kwotę świadczenia ogłasza, w formie komunikatu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, Prezes Zakładu Ubezpieczeń Społecznych, na podstawie art. 2 ust. 3 niniejszej ustawy, z tym że kwotę świadczenia aktualną od 1 marca 2021 r. ogłosił Prezes Zakładu Ubezpieczeń Społecznych w komunikacie z dnia 26 lutego 2021 r. (M. P. poz. 222), wydanym na podstawie art. 11 ust. 1 ustawy z dnia 21 stycznia 2021 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (Dz. U. poz. 353). 2) W brzmieniu ustalonym przez art. 5 pkt 1 ustawy z dnia 30 marca 2021 r. o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz niektórych innych ustaw (Dz. U. poz. 794), która weszła w życie z dniem 30 maja 2021 r. 3) W brzmieniu ustalonym przez art. 5 pkt 2 ustawy, o której mowa w odnośniku 2. 4) W brzmieniu ustalonym przez art. 5 pkt 3 ustawy, o której mowa w odnośniku 2. 5) Ustawa została ogłoszona w dniu 20 października 1994 r.
-
+**Art. 9.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 20 października 1994 r.. 1) Aktualną kwotę świadczenia ogłasza, w formie komunikatu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, Prezes Zakładu Ubezpieczeń Społecznych, na podstawie art. 2 ust. 3 niniejszej ustawy, z tym że kwotę świadczenia aktualną od 1 marca 2021 r. ogłosił Prezes Zakładu Ubezpieczeń Społecznych w komunikacie z dnia 26 lutego 2021 r. (M. P. poz. 222), wydanym na podstawie art. 11 ust. 1 ustawy z dnia 21 stycznia 2021 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (Dz. U. poz. 353). 2) W brzmieniu ustalonym przez art. 5 pkt 1 ustawy z dnia 30 marca 2021 r. o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz niektórych innych ustaw (Dz. U. poz. 794), która weszła w życie z dniem 30 maja 2021 r. 3) W brzmieniu ustalonym przez art. 5 pkt 2 ustawy, o której mowa w odnośniku 2. 4) W brzmieniu ustalonym przez art. 5 pkt 3 ustawy, o której mowa w odnośniku 2. 5) Ustawa została ogłoszona w dniu 20 października 1994 r.
 

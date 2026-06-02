@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
+# Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji dokonuje częściowego wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającej i w następstwie uchylającej dyrektywy 2001/77/WE oraz 2003/30/WE (Dz. Urz. UE L 140 z 05.06.2009, str. 16, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-01-15 |
 | Data wydania | 2015-01-28 |
-| Wejście w życie | 2015-02-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000151) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/151/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 15 kwietnia 2011 r. o efektywności energetycznej oraz ustawę z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków.
 
 **Art. 1.** W ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2014 r. poz. 1643) wprowadza się następujące zmiany:
 
@@ -48,7 +49,7 @@ source: "eli-html"
 
 - **1)** zakres informacji, jakie powinien zawierać wniosek o wydanie certyfikatu jakości złożony przez wnioskodawcę, oraz dokumenty, jakie należy do niego dołączyć,
 - **2)** zakres danych zawartych w certyfikacie jakości,
-- **3)** tryb wydawania certyfikatów jakości przez akredytowane jednostki certyfikujące, o których mowa w ust. 1 uwzględniając obowiązujące wymagania normalizacyjne i normatywne do przeprowadzania badań i orzekania w sprawach jakości, a także konieczność sprawnego rozpatrywania wniosków. ” ;
+- **3)** tryb wydawania certyfikatów jakości przez akredytowane jednostki certyfikujące, o których mowa w ust. 1 – uwzględniając obowiązujące wymagania normalizacyjne i normatywne do przeprowadzania badań i orzekania w sprawach jakości, a także konieczność sprawnego rozpatrywania wniosków. ” ;
 - **4)** art. 28a otrzymuje brzmienie: „
 
 **Art. 28a.**
@@ -78,7 +79,7 @@ source: "eli-html"
 1. Biokomponenty spełniają kryterium ochrony terenów o wysokiej wartości bioróżnorodności, jeżeli biomasa wykorzystywana do ich wytwarzania nie pochodzi z terenów, które w okresie od 1 do 31 stycznia 2008 r. lub po tym okresie, posiadały następujący status, niezależnie od tego, czy posiadają go nadal:
 
 - **1)** lasów pierwotnych i innych zalesionych gruntów, czyli lasów i innych zalesionych gruntów z gatunkami rodzimymi, gdzie nie istnieją wyraźnie widoczne ślady działalności człowieka, a procesy ekologiczne nie zostały w istotny sposób zaburzone;
-- **2)** obszarów wyznaczonych: na cele ochrony przyrody, o których mowa w ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.), 926, 1002, 1101 i 1863. do ochrony rzadkich, zagrożonych lub poważnie zagrożonych ekosystemów lub gatunków, które zostały uznane za takie na podstawie umów międzynarodowych lub wykazów sporządzonych przez organizacje międzyrządowe lub Międzynarodową Unię Ochrony Przyrody pod warunkiem uznania ich przez Komisję Europejską zgodnie z art. 18 ust. 4 akapit drugi dyrektywy 2009/28/WE;
+- **2)** obszarów wyznaczonych: na cele ochrony przyrody, o których mowa w ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850,), 926, 1002, 1101 i 1863. do ochrony rzadkich, zagrożonych lub poważnie zagrożonych ekosystemów lub gatunków, które zostały uznane za takie na podstawie umów międzynarodowych lub wykazów sporządzonych przez organizacje międzyrządowe lub Międzynarodową Unię Ochrony Przyrody pod warunkiem uznania ich przez Komisję Europejską zgodnie z art. 18 ust. 4 akapit drugi dyrektywy 2009/28/WE;
     - **a)**
     - **b)**
 
@@ -98,7 +99,7 @@ source: "eli-html"
 
 3. Przepisów ust. 2 nie stosuje się, jeżeli w czasie pozyskiwania biomasy teren posiadał ten sam status co w okresie od 1 do 31 stycznia 2008 r. Biokomponenty spełniają kryterium ochrony torfowisk, jeżeli biomasa wykorzystywana do ich wytwarzania nie pochodzi z terenów, które w okresie od 1 do 31 stycznia 2008 r. były torfowiskami, chyba że przy uprawie i zbiorach biomasy nie stosowano melioracji uprzednio niemeliorowanych gleb. Biokomponenty spełniają kryterium zrównoważonej gospodarki rolnej, jeżeli uprawa biomasy wykorzystywanej do ich wytwarzania, w ramach działalności rolniczej, prowadzona była zgodnie z:
 
-- **1)** wymogami w obszarze: „Środowisko, zmiana klimatu, utrzymanie gruntów w dobrej kulturze rolnej” – wymogi podstawowe w zakresie zarządzania SMR 1, SMR 2 i SMR 3, „Zdrowie publiczne, zdrowie zwierząt i zdrowie roślin” – wymóg podstawowy w zakresie zarządzania SMR 10 określonymi w załączniku II do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.), zwanego dalej „rozporządzeniem nr 1306/2013”, oraz
+- **1)** wymogami w obszarze: „Środowisko, zmiana klimatu, utrzymanie gruntów w dobrej kulturze rolnej” – wymogi podstawowe w zakresie zarządzania SMR 1, SMR 2 i SMR 3, „Zdrowie publiczne, zdrowie zwierząt i zdrowie roślin” – wymóg podstawowy w zakresie zarządzania SMR 10 – określonymi w załączniku II do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.), zwanego dalej „rozporządzeniem nr 1306/2013”, oraz
     - **a)**
     - **b)**
 
@@ -118,7 +119,7 @@ source: "eli-html"
 
 3. Weryfikacja spełnienia wymogów i minimalnych norm, o których mowa w art. 28bd, jest prowadzona przez Agencję Restrukturyzacji i Modernizacji Rolnictwa w ramach przyznawania płatności bezpośrednich na podstawie przepisów o płatnościach w ramach systemów wsparcia bezpośredniego. ” .
 
-**Art. 2.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238 oraz z 2014 r. poz. 457, 490,) wprowadza się następujące zmiany:
 
 - **1)** w odnośniku nr 1: uchyla się pkt 5, w pkt 6 kropkę zastępuje się średnikiem i dodaje pkt 7 w brzmieniu: „
     - **a)**
@@ -168,7 +169,7 @@ source: "eli-html"
 - **1a)** krajowy cel w zakresie udziału energii ze źródeł odnawialnych w transporcie; ” ;
 - **6)** w art. 20b ust. 1 otrzymuje brzmienie: „
 
-1. Minister właściwy do spraw gospodarki monitoruje realizację celów krajowych wskazanych w art. 20a ust. 2 pkt 1 i 1a, w szczególności na podstawie danych przekazanych przez Prezesa Urzędu Regulacji Energetyki oraz wyników badań statystycznych prowadzonych zgodnie z programem badań statystycznych statystyki publicznej w rozumieniu art. 2 pkt 7 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm.). ” ;
+1. Minister właściwy do spraw gospodarki monitoruje realizację celów krajowych wskazanych w art. 20a ust. 2 pkt 1 i 1a, w szczególności na podstawie danych przekazanych przez Prezesa Urzędu Regulacji Energetyki oraz wyników badań statystycznych prowadzonych zgodnie z programem badań statystycznych statystyki publicznej w rozumieniu art. 2 pkt 7 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 2 oraz z 2014 r. poz. 1161 i 1662.). ” ;
 
 - **7)** po art. 20g dodaje się art. 20ga-20gc w brzmieniu: „ Art. 20ga.
 
@@ -201,7 +202,7 @@ source: "eli-html"
 5. Minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia:
 
 - **1)** wymagania dotyczące dokumentacji technicznej, o której mowa w ust. 1, oraz stosowania etykiet i charakterystyk technicznych, o których mowa w ust. 2 pkt 1,
-- **2)** wzory etykiet, o których mowa w ust. 2 pkt 1 uwzględniając konieczność zapewnienia efektywnego użytkowania urządzeń poprzez powszechny dostęp do informacji o efektywności energetycznej tych urządzeń. ” , dodaje się ust. 6 w brzmieniu: „
+- **2)** wzory etykiet, o których mowa w ust. 2 pkt 1 – uwzględniając konieczność zapewnienia efektywnego użytkowania urządzeń poprzez powszechny dostęp do informacji o efektywności energetycznej tych urządzeń. ” , dodaje się ust. 6 w brzmieniu: „
     - **e)**
 
 6. Minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia, wymagania dotyczące oznaczenia ekologicznego, o którym mowa w ust. 2 pkt 2, uwzględniając konieczność zapewnienia efektywnego użytkowania urządzeń poprzez powszechny dostęp do informacji o tych urządzeniach. ” ;
@@ -218,7 +219,7 @@ source: "eli-html"
 
 2. Przy ocenie sprawności przemiany energetycznej oraz stosunku mocy wejściowej do mocy wyjściowej instalacji, o których mowa w ust. 1, zastosowanie mają w szczególności procedury obowiązujące w prawie Unii Europejskiej lub prawie międzynarodowym. ” .
 
-**Art. 3.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122.) wprowadza się następujące zmiany:
 
 - **1)** w odnośniku nr 1 w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 w brzmieniu: „
 - **15)** częściowo dyrektywy Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającej i w następstwie uchylającej dyrektywy 2001/77/WE oraz 2003/30/WE (Dz. Urz. UE L 140 z 05.06.2009, str. 16, z późn. zm.). ” ;
@@ -232,13 +233,13 @@ source: "eli-html"
 
 14. Przy ocenie sprawności przemiany energetycznej oraz stosunku mocy wejściowej do mocy wyjściowej instalacji, o których mowa w ust. 13, zastosowanie mają w szczególności procedury obowiązujące w prawie Unii Europejskiej lub prawie międzynarodowym. ” .
 
-**Art. 4.** W ustawie z dnia 15 kwietnia 2011 r. o efektywności energetycznej (Dz. U. Nr 94, poz. 551, z późn. zm.) w odnośniku nr 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+**Art. 4.** W ustawie z dnia 15 kwietnia 2011 r. o efektywności energetycznej (Dz. U. Nr 94, poz. 551, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, 1203 i 1397.) w odnośniku nr 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 
 - **3)** częściowo dyrektywy Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającej i w następstwie uchylającej dyrektywy 2001/77/WE oraz 2003/30/WE (Dz. Urz. UE L 140 z 05.06.2009, str. 16, z późn. zm.). ” .
 
 **Art. 5.** W ustawie z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. poz. 1200) wprowadza się następujące zmiany:
 
-- **1)** odnośnik nr 1 otrzymuje brzmienie: „
+- **1)** odnośnik nr 1 otrzymuje brzmienie: „ 1) Niniejsza ustawa wdraża postanowienia następujących dyrektyw Unii Europejskiej:
 - **1)** częściowo dyrektywy Parlamentu Europejskiego i Rady 2010/31/UE z dnia 19 maja 2010 r. w sprawie charakterystyki energetycznej budynków (Dz. Urz. UE L 153 z 18.06.2010, str. 13);
 - **2)** częściowo dyrektywy Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającej i w następstwie uchylającej dyrektywy 2001/77/WE oraz 2003/30/WE (Dz. Urz. UE L 140 z 05.06.2009, str. 16, z późn. zm.). ” ;
 - **2)** w art. 43 w pkt 1 w odnośniku nr 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
@@ -246,5 +247,5 @@ source: "eli-html"
 
 **Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 22 ust. 5 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 22 ust. 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji dokonuje częściowego wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającej i w następstwie uchylającej dyrektywy 2001/77/WE oraz 2003/30/WE (Dz. Urz. UE L 140 z 05.06.2009, str. 16, z późn. zm.). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 15 kwietnia 2011 r. o efektywności energetycznej oraz ustawę z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850, 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238 oraz z 2014 r. poz. 457, 490, 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 2 oraz z 2014 r. poz. 1161 i 1662. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, 1203 i 1397.
 

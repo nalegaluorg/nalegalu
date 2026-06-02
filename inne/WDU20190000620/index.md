@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-15 |
 | Data wydania | 2019-04-02 |
-| Wejście w życie | 2020-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000620) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/620/text.pdf) |
 
@@ -35,7 +34,7 @@ source: "eli-html"
 - **1)** wygaśnięcia tych umów,
 - **2)** przeniesienia portfela kredytów wynikających z tych umów na rzecz banku krajowego, oddziału banku zagranicznego lub instytucji kredytowej, uprawnionych do wykonywania działalności polegającej na udzielaniu kredytów na terytorium Rzeczypospolitej Polskiej,
 - **3)** uzyskania zezwolenia na wykonywanie działalności na terytorium Rzeczypospolitej Polskiej w formie oddziału banku zagranicznego,
-- **4)** utworzenia banku krajowego w formie spółki akcyjnej z odpowiednim stosowaniem przepisów art. 42a-42e ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, 2243 i 2354 oraz z 2019 r. poz. 326) nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie ustawy.
+- **4)** utworzenia banku krajowego w formie spółki akcyjnej z odpowiednim stosowaniem przepisów art. 42a-42e ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, 2243 i 2354 oraz z 2019 r. poz. 326) – nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie ustawy.
 
 2. W przypadku, o którym mowa w ust. 1, bank zagraniczny nie może:
 
@@ -50,10 +49,10 @@ source: "eli-html"
 
 **Art. 4.**
 
-1. Dostawca prowadzący przed dniem wejścia w życie ustawy działalność jako unijna instytucja płatnicza, unijna instytucja pieniądza elektronicznego lub dostawca, o którym mowa w art. 96 ust. 2 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2017 r. poz. 2003, z późn. zm.), z siedzibą na terytorium Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej lub Gibraltaru, wykonujący w dniu wejścia w życie ustawy na terytorium Rzeczypospolitej Polskiej usługi płatnicze lub działalność w zakresie wydawania pieniądza elektronicznego i jego wykupu, przez oddział, w ramach działalności transgranicznej lub za pośrednictwem agenta, zgodnie z art. 96 lub art. 132y ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, może prowadzić na terytorium Rzeczypospolitej Polskiej działalność w ramach obowiązującego przed dniem wejścia w życie ustawy zezwolenia wydanego przez właściwe organy nadzorcze lub wpisu do rejestru dokonanego przez te organy i w zakresie niezbędnym odpowiednio do wykonywania pojedynczych transakcji płatniczych, wykonywania umów ramowych lub umów o wydanie pieniądza elektronicznego, o których mowa w ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych, zawartych przed dniem wejścia w życie ustawy i obowiązujących na dzień jej wejścia w życie, do dnia:
+1. Dostawca prowadzący przed dniem wejścia w życie ustawy działalność jako unijna instytucja płatnicza, unijna instytucja pieniądza elektronicznego lub dostawca, o którym mowa w art. 96 ust. 2 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2017 r. poz. 2003, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 650, 723, 864, 1000, 1075, 1629 i 2243.), z siedzibą na terytorium Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej lub Gibraltaru, wykonujący w dniu wejścia w życie ustawy na terytorium Rzeczypospolitej Polskiej usługi płatnicze lub działalność w zakresie wydawania pieniądza elektronicznego i jego wykupu, przez oddział, w ramach działalności transgranicznej lub za pośrednictwem agenta, zgodnie z art. 96 lub art. 132y ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, może prowadzić na terytorium Rzeczypospolitej Polskiej działalność w ramach obowiązującego przed dniem wejścia w życie ustawy zezwolenia wydanego przez właściwe organy nadzorcze lub wpisu do rejestru dokonanego przez te organy i w zakresie niezbędnym odpowiednio do wykonywania pojedynczych transakcji płatniczych, wykonywania umów ramowych lub umów o wydanie pieniądza elektronicznego, o których mowa w ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych, zawartych przed dniem wejścia w życie ustawy i obowiązujących na dzień jej wejścia w życie, do dnia:
 
 - **1)** wygaśnięcia tych umów,
-- **2)** uzyskania zezwolenia lub wpisu do właściwego rejestru uprawniających odpowiednio do świadczenia usług płatniczych lub wydawania i wykupu pieniądza elektronicznego na terytorium Rzeczypospolitej Polskiej nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie ustawy.
+- **2)** uzyskania zezwolenia lub wpisu do właściwego rejestru uprawniających odpowiednio do świadczenia usług płatniczych lub wydawania i wykupu pieniądza elektronicznego na terytorium Rzeczypospolitej Polskiej – nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie ustawy.
 
 2. Użyte w niniejszym artykule określenia: „unijna instytucja płatnicza”, „unijna instytucja pieniądza elektronicznego”, „właściwe organy nadzorcze”, „pieniądz elektroniczny”, „oddział” i „agent” mają znaczenie nadane im w ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych.
 
@@ -69,13 +68,13 @@ source: "eli-html"
 
 - **1)** wygaśnięcia tych umów,
 - **2)** przeniesienia portfela ubezpieczeń na rzecz krajowego zakładu ubezpieczeń lub zakładu ubezpieczeń mającego siedzibę w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej mogącego wykonywać działalność ubezpieczeniową na terytorium Rzeczypospolitej Polskiej,
-- **3)** uzyskania zezwolenia na wykonywanie działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej i przeniesienia portfela ubezpieczeń nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie ustawy.
+- **3)** uzyskania zezwolenia na wykonywanie działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej i przeniesienia portfela ubezpieczeń – nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie ustawy.
 
 2. Do wykonywania umów ubezpieczenia, o których mowa w dziale II załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, zawartych na terytorium Rzeczypospolitej Polskiej przed dniem wejścia w życie ustawy przez zakład ubezpieczeń z siedzibą w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej lub Gibraltarze, stosuje się odpowiednio przepisy dotyczące wykonywania działalności ubezpieczeniowej przez zagraniczny zakład ubezpieczeń z innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, do dnia:
 
 - **1)** wygaśnięcia tych umów,
 - **2)** przeniesienia portfela ubezpieczeń na rzecz krajowego zakładu ubezpieczeń lub zakładu ubezpieczeń mającego siedzibę w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej mogącego wykonywać działalność ubezpieczeniową na terytorium Rzeczypospolitej Polskiej,
-- **3)** uzyskania zezwolenia na wykonywanie działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej i przeniesienia portfela ubezpieczeń nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie ustawy.
+- **3)** uzyskania zezwolenia na wykonywanie działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej i przeniesienia portfela ubezpieczeń – nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie ustawy.
 
 3. W przypadkach, o których mowa w ust. 1 i 2, zakład ubezpieczeń nie może:
 
@@ -96,7 +95,7 @@ source: "eli-html"
 1. Podmiot będący przed dniem wejścia w życie ustawy zagraniczną firmą inwestycyjną w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2018 r. poz. 2286, 2243 i 2244) mającą siedzibę, centralę lub miejsce zamieszkania na terytorium Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej lub Gibraltaru, może kontynuować wykonywanie zawartych przed dniem wejścia w życie ustawy umów w zakresie czynności stanowiących działalność maklerską, o których mowa w art. 117 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, do dnia:
 
 - **1)** wygaśnięcia tych umów,
-- **2)** uzyskania zezwolenia, o którym mowa w art. 115 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie ustawy.
+- **2)** uzyskania zezwolenia, o którym mowa w art. 115 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi – nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie ustawy.
 
 2. W przypadku, o którym mowa w ust. 1, podmiot, o którym mowa w ust. 1, nie może:
 
@@ -131,5 +130,5 @@ source: "eli-html"
 
 **Art. 12.** Minister właściwy do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej ogłosi, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, dzień wystąpienia Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej bez zawarcia umowy, o której mowa w art. 50 ust. 2 zdanie drugie Traktatu o Unii Europejskiej.
 
-**Art. 13.** Ustawa wchodzi w życie z dniem wystąpienia Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej bez zawarcia umowy, o której mowa w art. 50 ust. 2 zdanie drugie Traktatu o Unii Europejskiej.
+**Art. 13.** Ustawa wchodzi w życie z dniem wystąpienia Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej bez zawarcia umowy, o której mowa w art. 50 ust. 2 zdanie drugie Traktatu o Unii Europejskiej. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 650, 723, 864, 1000, 1075, 1629 i 2243.
 

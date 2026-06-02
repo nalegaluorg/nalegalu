@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1989-05-17 |
 | Data wydania | 1989-05-26 |
-| Wejście w życie | 1989-07-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890300162) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1989/162/text.pdf) |
 
@@ -44,7 +43,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** emeryta lub rencisty, o którym mowa w art. 11 ust. 1 prawo do osobnej kwatery stałej nabywają wspólnie zamieszkali w kwaterze z żołnierzem, emerytem lub rencistą, w dniu jego śmierci, członkowie rodziny uprawnieni do wojskowej renty rodzinnej; prawo to przysługuje im przez czas posiadania uprawnień do tej renty. ” ;
+- **2)** emeryta lub rencisty, o którym mowa w art. 11 ust. 1 – prawo do osobnej kwatery stałej nabywają wspólnie zamieszkali w kwaterze z żołnierzem, emerytem lub rencistą, w dniu jego śmierci, członkowie rodziny uprawnieni do wojskowej renty rodzinnej; prawo to przysługuje im przez czas posiadania uprawnień do tej renty. ” ;
 - **4)** art. 15 otrzymuje brzmienie: „
 
 **Art. 15.**
@@ -128,7 +127,7 @@ source: "eli-html"
 3. Skorzystanie przez żołnierza z pomocy finansowej z funduszu mieszkaniowego nie pozbawia go prawa do przydzielenia osobnej kwatery stałej w razie:
 
 - **1)** zamiany lokalu mieszkalnego, uzyskanego przy pomocy finansowej z funduszu mieszkaniowego, z osobą zajmującą osobną kwaterę stałą albo
-- **2)** zajmowania spółdzielczego lokalu mieszkalnego o powierzchni mniejszej od przysługującej jeżeli zwróci udzieloną mu pomoc finansową, z tym że w wypadku pomocy przyznanej w celu uzyskania spółdzielczego lokalu mieszkalnego – z uwzględnieniem wysokości przysługującej mu należności lub równowartości z tytułu wygaśnięcia prawa do tego lokalu
+- **2)** zajmowania spółdzielczego lokalu mieszkalnego o powierzchni mniejszej od przysługującej – jeżeli zwróci udzieloną mu pomoc finansową, z tym że w wypadku pomocy przyznanej w celu uzyskania spółdzielczego lokalu mieszkalnego – z uwzględnieniem wysokości przysługującej mu należności lub równowartości z tytułu wygaśnięcia prawa do tego lokalu
 
 4. Żołnierzowi zawodowemu przeniesionemu służbowo do innej miejscowości, jeżeli on lub jego małżonek posiada spółdzielczy lokal mieszkalny, dom jednorodzinny, dom mieszkalno-pensjonatowy lub lokal mieszkalny stanowiący odrębną nieruchomość – przydziela się osobną kwaterę stałą tylko na czas pełnienia służby w tej miejscowości. Kwaterę można przydzielić na stałe, jeżeli żołnierz zwróci udzieloną mu pomoc finansową, według zasad określonych w ust. 3.
 
@@ -169,8 +168,15 @@ source: "eli-html"
 
 3. Kto opróżnia zajmowaną kwaterą bez uprzedzenia o tym wojskowego organu kwaterunkowego, podlega karze grzywny. ” ;
 
-- **20)** w art. 52: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) normy powierzchni mieszkalnej przysługującej osobie uprawnionej, szczegółowe zasady uwzględniania członków rodziny oraz okoliczności, w których przy ustalaniu tej powierzchni może być uwzględniona osoba zatrudniona w gospodarstwie domowym, ” – pkt 5 otrzymuje brzmienie: „ 5) sposób administrowania osobnymi kwaterami stałymi, szczegółowe zasady i tryb przydzielania, zwalniania i zamiany tych kwater oraz wykonywania ich remontu i konserwacji, ” , – po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) szczegółowe zasady i tryb przekwaterowywania osób, o których mowa w art. 17a, ” – dodaje się pkt 10–12 w brzmieniu: „ 10) koszty przekwaterowania ponoszone przez organy wojskowe oraz tryb ich pokrywania, 11) warunki i tryb oddawania w najem mieszkań zakładowych pracownikom jednostek organizacyjnych podległych Ministrowi Obrony Narodowej oraz zwalniania tych mieszkań, 12) wysokość i tryb przyznawania ekwiwalentu pieniężnego przy zamianie osobnej kwatery stałej na mniejszą. ” , w ust. 3 pkt 2 otrzymuje brzmienie: „
+- **20)** w art. 52: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** normy powierzchni mieszkalnej przysługującej osobie uprawnionej, szczegółowe zasady uwzględniania członków rodziny oraz okoliczności, w których przy ustalaniu tej powierzchni może być uwzględniona osoba zatrudniona w gospodarstwie domowym, ” pkt 5 otrzymuje brzmienie: „
+- **5)** sposób administrowania osobnymi kwaterami stałymi, szczegółowe zasady i tryb przydzielania, zwalniania i zamiany tych kwater oraz wykonywania ich remontu i konserwacji, ” , po pkt 5 dodaje się pkt 5a w brzmieniu: „
+- **5a)** szczegółowe zasady i tryb przekwaterowywania osób, o których mowa w art. 17a, ” dodaje się pkt 10–12 w brzmieniu: „
+- **10)** koszty przekwaterowania ponoszone przez organy wojskowe oraz tryb ich pokrywania,
+- **11)** warunki i tryb oddawania w najem mieszkań zakładowych pracownikom jednostek organizacyjnych podległych Ministrowi Obrony Narodowej oraz zwalniania tych mieszkań,
+- **12)** wysokość i tryb przyznawania ekwiwalentu pieniężnego przy zamianie osobnej kwatery stałej na mniejszą. ” , w ust. 3 pkt 2 otrzymuje brzmienie: „
     - **b)**
 
 - **2)** z Ministrami Finansów oraz Gospodarki Przestrzennej i Budownictwa – szczegółowe zasady, wysokość i terminy uiszczania opłat, o których mowa w art. 22 ust. 1 pkt 1 i 2, ” ;

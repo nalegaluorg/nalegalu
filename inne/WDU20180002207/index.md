@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-06 |
 | Data wydania | 2018-11-27 |
-| Wejście w życie | 2018-11-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002207) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2207/text.pdf) |
 
@@ -36,7 +35,7 @@ Określa się zakres danych i dokumentów niezbędnych do przeprowadzenia postę
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Załącznik – Zakres danych i dokumentów niezbędnych do przeprowadzenia postępowania w celu dokonania oceny korporacyjnej
 1.
-Dane identyfikujące podmiot odpowiedzialny za system identyfikacji elektronicznej oraz podmiot wydający środki identyfikacji elektronicznej w tym systemie, w przypadku gdy czynność ta nie jest wykonywana przez podmiot odpowiedzialny za system identyfikacji elektronicznej:
+Dane identyfikujące podmiot odpowiedzialny za system identyfikacji elektronicznej oraz podmiot wydający środki identyfikacji elektronicznejW przypadku większej liczby podmiotów wydających środki identyfikacji elektronicznej w ramach systemu identyfikacji elektronicznej należy podać dane każdego z tych podmiotów. w tym systemie, w przypadku gdy czynność ta nie jest wykonywana przez podmiot odpowiedzialny za system identyfikacji elektronicznej:
 1)
 imię i nazwisko lub firma (pełna i skrócona nazwa);
 2)
@@ -46,9 +45,9 @@ numer identyfikacji podatkowej (NIP) lub jego odpowiednik;
 4)
 forma prawna;
 5)
-numer w Krajowym Rejestrze Sądowym, a w przypadku, gdy podmiot nie posiada numeru w Krajowym Rejestrze Sądowym, wskazanie organu, któremu działalność podmiotu została zgłoszona, lub właściwego rejestru oraz numer i data wpisu do rejestru;
+numer w Krajowym Rejestrze Sądowym, a w przypadku, gdy podmiot nie posiada numeru w Krajowym Rejestrze Sądowym, wskazanie organu, któremu działalność podmiotu została zgłoszona, lub właściwego rejestru oraz numer i data wpisu do rejestruNależy podać, jeżeli dotyczy wymienionego podmiotu.;
 6)
-przyczyna, dla której podmiot nie podlega wpisowi do rejestru;
+przyczyna, dla której podmiot nie podlega wpisowi do rejestruNależy podać, jeżeli dotyczy wymienionego podmiotu.;
 7)
 data rozpoczęcia działalności gospodarczej.
 2.
@@ -60,15 +59,15 @@ liczba oraz rodzaje akcji/udziałów i innych form współwłasności w kapitale
 3)
 wartość nominalna akcji/udziałów i innych form współwłasności;
 4)
-dane właściwe ze względu na formę prawną podmiotu dotyczące wspólników, właścicieli, udziałowców, spółdzielców lub innych osób (podmiotów) uczestniczących w strukturze właścicielskiej podmiotu:
+dane właściwe ze względu na formę prawną podmiotu dotyczące wspólników, właścicieli, udziałowców, spółdzielców lub innych osób (podmiotów) uczestniczących w strukturze właścicielskiej podmiotuDotyczy również akcjonariuszy spółek akcyjnych i komandytowo-akcyjnych dysponujących co najmniej 5% głosów wraz z innymi podmiotami tej samej grupy kapitałowej.:
 a)
-firma (pełna i skrócona nazwa) oraz imię i nazwisko właściciela,
+firma (pełna i skrócona nazwa) oraz imię i nazwiskoDotyczy osób fizycznych. właściciela,
 b)
 adres siedziby i miejsca wykonywania działalności,
 c)
 data rozpoczęcia działalności gospodarczej (w tym data wpisu do rejestru, data rozpoczęcia prowadzenia działalności),
 d)
-organ rejestrowy/obywatelstwo,
+organ rejestrowy/obywatelstwoNależy podać, jeżeli dotyczy wymienionego podmiotu.,
 e)
 forma prawna,
 f)
@@ -78,13 +77,13 @@ podmiot zarządzający;
 5)
 dane dotyczące podmiotu dominującego w grupie kapitałowej, w której skład wchodzi podmiot:
 a)
-firma (pełna i skrócona nazwa) oraz imię i nazwisko właściciela,
+firma (pełna i skrócona nazwa) oraz imię i nazwiskoDotyczy osób fizycznych. właściciela,
 b)
 adres siedziby i miejsca wykonywania działalności,
 c)
 data rozpoczęcia działalności gospodarczej (w tym data wpisu do rejestru, data rozpoczęcia prowadzenia działalności),
 d)
-organ rejestrowy/obywatelstwo,
+organ rejestrowy/obywatelstwoNależy podać, jeżeli dotyczy wymienionego podmiotu.,
 e)
 forma prawna,
 f)
@@ -150,7 +149,7 @@ NIP oddziału (lub jego odpowiednik),
 c)
 REGON oddziału (lub jego odpowiednik).
 5.
-Dane osób zarządzających działalnością podmiotu odpowiedzialnego za system identyfikacji elektronicznej oraz podmiotu wydającego środki identyfikacji elektronicznej w tym systemie, w przypadku gdy czynność ta nie jest wykonywana przez podmiot odpowiedzialny za system identyfikacji elektronicznej:
+Dane osób zarządzających działalnością podmiotu odpowiedzialnego za system identyfikacji elektronicznej oraz podmiotu wydającego środki identyfikacji elektronicznej w tym systemie, w przypadku gdy czynność ta nie jest wykonywana przez podmiot odpowiedzialny za system identyfikacji elektronicznejPrzez osoby zarządzające działalnością podmiotu rozumie się podmiot będący osobą fizyczną, kierującego lub współkierującego przedsiębiorstwem podmiotu, jego zastępcę, pełnomocnika ogólnego, prokurenta, głównego księgowego, osoby wchodzące w skład organów zarządzających i nadzorczych podmiotu, osobę prowadzącą jego sprawy pod innym tytułem, a także pełnomocnika reprezentującego podmiot w procedurze kwalifikacyjnej oraz pełnomocnika substytucyjnego względem pełnomocnika ogólnego i reprezentującego podmiot w procedurze kwalifikacyjnej.:
 1)
 dane dotyczące obywateli polskich oraz cudzoziemców posiadających numer PESEL:
 a)
@@ -196,7 +195,7 @@ podstawa prawna skazania,
 d)
 data skazania.
 6.
-Dokumenty składane przez podmiot odpowiedzialny za system identyfikacji elektronicznej oraz podmiot wydający środki identyfikacji elektronicznej w tym systemie, w przypadku gdy czynność ta nie jest wykonywana przez podmiot odpowiedzialny za system identyfikacji elektronicznej:
+Dokumenty składane przez podmiot odpowiedzialny za system identyfikacji elektronicznej oraz podmiot wydający środki identyfikacji elektronicznej w tym systemie, w przypadku gdy czynność ta nie jest wykonywana przez podmiot odpowiedzialny za system identyfikacji elektronicznejNależy podać, jeżeli dotyczy wymienionego podmiotu.:
 1)
 aktualny, zgodnie z przepisami kraju pochodzenia, wypis z rejestru właściwego ze względu na formę prawną podmiotu;
 2)
@@ -222,6 +221,5 @@ kopia, potwierdzona za zgodność z oryginałem, ostatnich trzech jednostkowych 
 12)
 informacja podmiotu o zgłoszonych w ciągu ostatnich trzech lat wnioskach o ogłoszenie jego upadłości, toczących się względem niego na dzień złożenia wniosku postępowań upadłościowych lub naprawczych oraz oświadczenie podmiotu o nieznajdowaniu się w stanie likwidacji;
 13)
-aktualna informacja z Krajowego Rejestru Karnego lub rejestru o podobnym charakterze w kraju pochodzenia podmiotu o podmiocie będącym osobą fizyczną, kierującym lub współkierującym przedsiębiorstwem podmiotu, jego zastępcy, pełnomocniku ogólnym, prokurencie, głównym księgowym, osobie wchodzącej w skład organów zarządzających i nadzorczych podmiotu, osobie prowadzącej jego sprawy pod innym tytułem, a także pełnomocniku reprezentującym podmiot w procedurze kwalifikacyjnej oraz pełnomocniku substytucyjnym względem pełnomocnika ogólnego i reprezentującego podmiot w procedurze kwalifikacyjnej, oraz o podmiocie zbiorowym, o ile podmiot składający wniosek jest takim podmiotem.
-1) W przypadku większej liczby podmiotów wydających środki identyfikacji elektronicznej w ramach systemu identyfikacji elektronicznej należy podać dane każdego z tych podmiotów. 2) Należy podać, jeżeli dotyczy wymienionego podmiotu. 3) Należy podać, jeżeli dotyczy wymienionego podmiotu. 4) Dotyczy również akcjonariuszy spółek akcyjnych i komandytowo-akcyjnych dysponujących co najmniej 5% głosów wraz z innymi podmiotami tej samej grupy kapitałowej. 5) Dotyczy osób fizycznych. 6) Należy podać, jeżeli dotyczy wymienionego podmiotu. 7) Dotyczy osób fizycznych. 8) Należy podać, jeżeli dotyczy wymienionego podmiotu. 9) Przez osoby zarządzające działalnością podmiotu rozumie się podmiot będący osobą fizyczną, kierującego lub współkierującego przedsiębiorstwem podmiotu, jego zastępcę, pełnomocnika ogólnego, prokurenta, głównego księgowego, osoby wchodzące w skład organów zarządzających i nadzorczych podmiotu, osobę prowadzącą jego sprawy pod innym tytułem, a także pełnomocnika reprezentującego podmiot w procedurze kwalifikacyjnej oraz pełnomocnika substytucyjnego względem pełnomocnika ogólnego i reprezentującego podmiot w procedurze kwalifikacyjnej. 10) Należy podać, jeżeli dotyczy wymienionego podmiotu.
+aktualna informacja z Krajowego Rejestru Karnego lub rejestru o podobnym charakterze w kraju pochodzenia podmiotu o podmiocie będącym osobą fizyczną, kierującym lub współkierującym przedsiębiorstwem podmiotu, jego zastępcy, pełnomocniku ogólnym, prokurencie, głównym księgowym, osobie wchodzącej w skład organów zarządzających i nadzorczych podmiotu, osobie prowadzącej jego sprawy pod innym tytułem, a także pełnomocniku reprezentującym podmiot w procedurze kwalifikacyjnej oraz pełnomocniku substytucyjnym względem pełnomocnika ogólnego i reprezentującego podmiot w procedurze kwalifikacyjnej, oraz o podmiocie zbiorowym, o ile podmiot składający wniosek jest takim podmiotem. 1) W przypadku większej liczby podmiotów wydających środki identyfikacji elektronicznej w ramach systemu identyfikacji elektronicznej należy podać dane każdego z tych podmiotów. 2) Należy podać, jeżeli dotyczy wymienionego podmiotu. 3) Należy podać, jeżeli dotyczy wymienionego podmiotu. 4) Dotyczy również akcjonariuszy spółek akcyjnych i komandytowo-akcyjnych dysponujących co najmniej 5% głosów wraz z innymi podmiotami tej samej grupy kapitałowej. 5) Dotyczy osób fizycznych. 6) Należy podać, jeżeli dotyczy wymienionego podmiotu. 7) Dotyczy osób fizycznych. 8) Należy podać, jeżeli dotyczy wymienionego podmiotu. 9) Przez osoby zarządzające działalnością podmiotu rozumie się podmiot będący osobą fizyczną, kierującego lub współkierującego przedsiębiorstwem podmiotu, jego zastępcę, pełnomocnika ogólnego, prokurenta, głównego księgowego, osoby wchodzące w skład organów zarządzających i nadzorczych podmiotu, osobę prowadzącą jego sprawy pod innym tytułem, a także pełnomocnika reprezentującego podmiot w procedurze kwalifikacyjnej oraz pełnomocnika substytucyjnego względem pełnomocnika ogólnego i reprezentującego podmiot w procedurze kwalifikacyjnej. 10) Należy podać, jeżeli dotyczy wymienionego podmiotu.
 

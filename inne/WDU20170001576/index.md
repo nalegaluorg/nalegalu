@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-16 |
 | Data wydania | 2017-08-24 |
-| Wejście w życie | 2017-08-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001576) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1576/text.pdf) |
 
@@ -73,8 +72,7 @@ Zawiadomienie o posiedzeniu rady wraz z porządkiem obrad rady oraz projektami u
 1)
 za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2017 r. poz. 1481) na wskazany przez członka rady adres albo
 2)
-w formie dokumentu elektronicznego z wykorzystaniem środków komunikacji elektronicznej na wskazany przez członka rady adres elektroniczny
-nie później niż 14 dni przed planowanym terminem posiedzenia rady.
+w formie dokumentu elektronicznego z wykorzystaniem środków komunikacji elektronicznej na wskazany przez członka rady adres elektroniczny – nie później niż 14 dni przed planowanym terminem posiedzenia rady.
 2.
 W szczególnie uzasadnionych przypadkach projekty uchwał lub inne materiały mogą być doręczone bezpośrednio przed posiedzeniem rady.
 § 7.

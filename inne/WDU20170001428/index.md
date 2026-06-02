@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 lipca 2017 r. o zmianie niektórych ustaw związanych z systemami wsparcia rodzin
+# Ustawa z dnia 7 lipca 2017 r. o zmianie niektórych ustaw związanych z systemami wsparcia rodzin Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym, ustawę z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, ustawę z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3, ustawę z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów, ustawę z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny, ustawę z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci oraz ustawę z dnia 23 marca 2017 r. o zmianie niektórych ustaw w związku z zadaniami organów administracji publicznej w zakresie niektórych rejestrów publicznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-07 |
 | Data wydania | 2017-07-26 |
-| Wejście w życie | 2017-08-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001428) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1428/text.pdf) |
 
@@ -30,7 +29,7 @@ source: "eli-html"
 
 - **2a)** żłobki i kluby dziecięce oraz prowadzące je podmioty, w zakresie nieruchomości zajętych na prowadzenie żłobka lub klubu dziecięcego; ” .
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.) w art. 21 w ust. 1:
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859 i 1089.) w art. 21 w ust. 1:
 
 - **1)** pkt 121 otrzymuje brzmienie: „
 - **121)** jednorazowe środki przyznane na podjęcie działalności, o których mowa w art. 46 ust. 1 pkt 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy; ” ;
@@ -61,12 +60,13 @@ source: "eli-html"
 - **2)** w § 4 pkt 3 otrzymuje brzmienie: „
 - **3)** wójtom, burmistrzom, prezydentom miast lub wojewodom w zakresie prowadzonych postępowań o przyznanie świadczeń rodzinnych, zasiłków dla opiekunów, świadczeń pieniężnych wypłacanych w przypadku bezskuteczności egzekucji alimentów lub świadczenia wychowawczego. ” .
 
-**Art. 5.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.) w art. 50 w ust. 18 część wspólna otrzymuje brzmienie: „ – w celu umożliwienia ośrodkom pomocy społecznej, organom właściwym i wojewodom weryfikacji prawa do świadczeń z pomocy społecznej, świadczeń rodzinnych, świadczeń z funduszu alimentacyjnego oraz świadczeń wychowawczych, a także w celu monitorowania przez ministra właściwego do spraw rodziny, ministra właściwego do spraw zabezpieczenia społecznego oraz wojewodę realizacji świadczeń z pomocy społecznej, świadczeń rodzinnych, świadczeń z funduszu alimentacyjnego oraz świadczeń wychowawczych przez ośrodki pomocy społecznej, organy właściwe oraz wojewodów. ” .
+**Art. 5.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921, 1948, 2138, 2255 i 2260 oraz z 2017 r. poz. 38, 60, 777, 962, 1027 i 1321.) w art. 50 w ust. 18 część wspólna otrzymuje brzmienie: „ – w celu umożliwienia ośrodkom pomocy społecznej, organom właściwym i wojewodom weryfikacji prawa do świadczeń z pomocy społecznej, świadczeń rodzinnych, świadczeń z funduszu alimentacyjnego oraz świadczeń wychowawczych, a także w celu monitorowania przez ministra właściwego do spraw rodziny, ministra właściwego do spraw zabezpieczenia społecznego oraz wojewodę realizacji świadczeń z pomocy społecznej, świadczeń rodzinnych, świadczeń z funduszu alimentacyjnego oraz świadczeń wychowawczych przez ośrodki pomocy społecznej, organy właściwe oraz wojewodów. ” .
 
 **Art. 6.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2016 r. poz. 1518 i 1579 oraz z 2017 r. poz. 60, 624, 777 i 1321) wprowadza się następujące zmiany:
 
-- **1)** w art. 3: w pkt 1: – lit. b otrzymuje brzmienie: „ b) dochód z działalności podlegającej opodatkowaniu na podstawie przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ” , – w lit. c w tiret trzydziestym drugim średnik zastępuje się przecinkiem i dodaje się tiret trzydzieste trzecie w brzmieniu: „ – stypendia dla bezrobotnych finansowane ze środków Unii Europejskiej; ” , pkt 2a i 3 otrzymują brzmienie: „
+- **1)** w art. 3: w pkt 1: lit. b otrzymuje brzmienie: „ dochód z działalności podlegającej opodatkowaniu na podstawie przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ” , w lit. c w tiret trzydziestym drugim średnik zastępuje się przecinkiem i dodaje się tiret trzydzieste trzecie w brzmieniu: „ – stypendia dla bezrobotnych finansowane ze środków Unii Europejskiej; ” , pkt 2a i 3 otrzymują brzmienie: „
     - **a)**
+    - **b)**
     - **b)**
 
 - **2a)** dochodzie członka rodziny – oznacza to przeciętny miesięczny dochód członka rodziny osiągnięty w roku kalendarzowym poprzedzającym okres zasiłkowy, z zastrzeżeniem art. 5 ust. 4–4c;
@@ -117,8 +117,10 @@ source: "eli-html"
 6. Zarejestrowanie w powiatowym urzędzie pracy jako osoba poszukująca pracy lub posiadanie statusu bezrobotnego nie ma wpływu na uprawnienie do świadczenia pielęgnacyjnego. ” ;
 
 - **9)** w art. 19 uchyla się ust. 3;
-- **10)** w art. 21: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do zadań wojewody w zakresie świadczeń rodzinnych należy: ” , – pkt 1 otrzymuje brzmienie: „ 1) pełnienie funkcji instytucji właściwej w związku z udziałem Rzeczypospolitej Polskiej w koordynacji systemów zabezpieczenia społecznego w przypadku przemieszczania się osób w granicach Unii Europejskiej, Europejskiego Obszaru Gospodarczego i Konfederacji Szwajcarskiej; ” , ust. 2 otrzymuje brzmienie: „
+- **10)** w art. 21: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do zadań wojewody w zakresie świadczeń rodzinnych należy: ” , pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** pełnienie funkcji instytucji właściwej w związku z udziałem Rzeczypospolitej Polskiej w koordynacji systemów zabezpieczenia społecznego w przypadku przemieszczania się osób w granicach Unii Europejskiej, Europejskiego Obszaru Gospodarczego i Konfederacji Szwajcarskiej; ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Wojewoda właściwy ze względu na miejsce zamieszkania osoby ubiegającej się o świadczenia rodzinne może, w formie pisemnej, upoważnić pracownika urzędu wojewódzkiego do załatwiania w jego imieniu spraw dotyczących realizacji świadczeń rodzinnych w ramach koordynacji systemów zabezpieczenia społecznego i wydawania w tych sprawach decyzji. ” ;
@@ -143,7 +145,7 @@ source: "eli-html"
     - **c)**
 
 - **1)** zaświadczenia lub oświadczenia dokumentujące wysokość innych dochodów niż dochody podlegające opodatkowaniu podatkiem dochodowym od osób fizycznych na zasadach określonych w art. 27, art. 30b, art. 30c, art. 30e i art. 30f ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, dotyczące każdego członka rodziny;
-- **2)** zaświadczenie naczelnika urzędu skarbowego, dotyczące członków rodziny rozliczających się na podstawie przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, zawierające informacje odpowiednio o: formie opłacanego podatku, wysokości przychodu, stawce podatku, wysokości opłaconego podatku w roku kalendarzowym poprzedzającym okres zasiłkowy; ” , w ust. 4c pkt 2 otrzymuje brzmienie: „
+- **2)** zaświadczenie naczelnika urzędu skarbowego, dotyczące członków rodziny rozliczających się na podstawie przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, zawierające informacje odpowiednio o: formie opłacanego podatku, wysokości przychodu, stawce podatku, wysokości opłaconego podatku – w roku kalendarzowym poprzedzającym okres zasiłkowy; ” , w ust. 4c pkt 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **c)**
@@ -156,7 +158,7 @@ source: "eli-html"
 5. Minister właściwy do spraw rodziny określi, w drodze rozporządzenia, sposób i tryb postępowania w sprawach o przyznanie świadczeń rodzinnych oraz szczegółowy zakres informacji, jakie mają być zawarte:
 
 - **1)** we wniosku o ustalenie prawa do świadczeń rodzinnych,
-- **2)** w oświadczeniach niezbędnych do ustalenia prawa do świadczeń rodzinnych, w tym oświadczeniach o dochodach członków rodziny oraz zaświadczeniu, o którym mowa w ust. 4 pkt 2 kierując się koniecznością zapewnienia prawidłowego przebiegu postępowania w sprawach o przyznanie świadczeń rodzinnych oraz dokumentacji niezbędnej do sprawnej realizacji, również drogą elektroniczną, zadań w zakresie świadczeń rodzinnych. ” , po ust. 5c dodaje się ust. 5d w brzmieniu: „
+- **2)** w oświadczeniach niezbędnych do ustalenia prawa do świadczeń rodzinnych, w tym oświadczeniach o dochodach członków rodziny oraz zaświadczeniu, o którym mowa w ust. 4 pkt 2 – kierując się koniecznością zapewnienia prawidłowego przebiegu postępowania w sprawach o przyznanie świadczeń rodzinnych oraz dokumentacji niezbędnej do sprawnej realizacji, również drogą elektroniczną, zadań w zakresie świadczeń rodzinnych. ” , po ust. 5c dodaje się ust. 5d w brzmieniu: „
     - **f)**
 
 5d. Minister właściwy do spraw rodziny może określić oraz zamieścić na swojej stronie Biuletynu Informacji Publicznej wzory:
@@ -243,10 +245,10 @@ source: "eli-html"
 - **21)** użyte w art. 21 ust. 3, art. 23 ust. 4aa, 4b, 9, ust. 10 pkt 1 i 5, art. 23a ust. 1, 2, 3, 4, 6, 7, 9 i 10, art. 23b ust. 1 i 3–6, art. 25 ust. 3, art. 28 ust. 1 i art. 32 ust. 1 w różnym przypadku wyrazy „marszałek województwa” zastępuje się użytym w odpowiednim przypadku wyrazem „wojewoda”;
 - **22)** użyte w art. 21 ust. 4 i art. 23 ust. 8 w różnej liczbie i różnym przypadku wyrazy „samorząd województwa” zastępuje się użytym w odpowiedniej liczbie i odpowiednim przypadku wyrazem „wojewoda”.
 
-**Art. 7.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2016 r. poz. 930, z późn. zm.) w art. 23a w ust. 3:
+**Art. 7.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2016 r. poz. 930, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1583, 1948 i 2174 oraz z 2017 r. poz. 38, 60, 624, 777 i 1292.) w art. 23a w ust. 3:
 
 - **1)** pkt 3 otrzymuje brzmienie: „
-- **3)** organ właściwy, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2016 r. poz. 1518, z późn. zm.), i wojewoda – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia rodzinne, osób pobierających świadczenia rodzinne oraz członków ich rodzin; ” ;
+- **3)** organ właściwy, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2016 r. poz. 1518, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1579 oraz z 2017 r. poz. 60, 624, 777, 1321 i 1428.), i wojewoda – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia rodzinne, osób pobierających świadczenia rodzinne oraz członków ich rodzin; ” ;
 - **2)** pkt 5 otrzymuje brzmienie: „
 - **5)** organ właściwy, o którym mowa w art. 2 pkt 11 ustawy z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci, i wojewoda – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie wychowawcze, osób pobierających świadczenie wychowawcze oraz członków ich rodzin. ” .
 
@@ -264,9 +266,9 @@ source: "eli-html"
 
 3. Umowa określa w szczególności wysokość środków oraz tryb ich przekazywania na realizację zadań, o których mowa w ust. 1, a także sposób rozliczenia otrzymanych środków. ” .
 
-**Art. 9.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.) w art. 188 w ust. 5e:
+**Art. 9.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844, 858, 1089, 1139, 1200, 1292, 1321 i 1386.) w art. 188 w ust. 5e:
 
-- **1)** w pkt 1: lit. a otrzymuje brzmienie: „ organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2016 r. poz. 1518, z późn. zm.), i wojewodzie w celu weryfikacji prawa do świadczeń rodzinnych osób ubiegających się o te świadczenia lub osób je pobierających oraz członków ich rodzin, ” , lit. c otrzymuje brzmienie: „ organowi właściwemu, o którym mowa w art. 2 pkt 11 ustawy z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. poz. 195 i 1579 oraz z 2017 r. poz. 60, 245, 624 i 777), i wojewodzie w celu weryfikacji prawa do świadczeń wychowawczych osób ubiegających się o te świadczenia lub osób je pobierających oraz członków ich rodzin; ” ;
+- **1)** w pkt 1: lit. a otrzymuje brzmienie: „ organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2016 r. poz. 1518, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1579 oraz z 2017 r. poz. 60, 624, 777, 1321 i 1428.), i wojewodzie w celu weryfikacji prawa do świadczeń rodzinnych osób ubiegających się o te świadczenia lub osób je pobierających oraz członków ich rodzin, ” , lit. c otrzymuje brzmienie: „ organowi właściwemu, o którym mowa w art. 2 pkt 11 ustawy z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. poz. 195 i 1579 oraz z 2017 r. poz. 60, 245, 624 i 777), i wojewodzie w celu weryfikacji prawa do świadczeń wychowawczych osób ubiegających się o te świadczenia lub osób je pobierających oraz członków ich rodzin; ” ;
     - **a)**
     - **a)**
     - **b)**
@@ -275,11 +277,11 @@ source: "eli-html"
 - **2)** w pkt 2 lit. a otrzymuje brzmienie: „ umożliwienia organom właściwym i wojewodom weryfikacji prawa do świadczeń, o których mowa w pkt 1, ” .
     - **a)**
 
-**Art. 10.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 10.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933, 2169 i 2260 oraz z 2017 r. poz. 60, 777, 858, 859 i 1321.) wprowadza się następujące zmiany:
 
 - **1)** w art. 170c ust. 5 otrzymuje brzmienie: „
 
-5. Dostęp do danych zawartych w wykazie dotyczących imienia, nazwiska, numeru PESEL, a w przypadku jego braku – numeru dokumentu potwierdzającego tożsamość, daty rozpoczęcia studiów, daty ukończenia studiów albo daty skreślenia z listy studentów, nazwy uczelni oraz jednostki organizacyjnej prowadzącej kształcenie przysługuje ministrowi właściwemu do spraw rodziny w celu umożliwienia organom właściwym i wojewodom weryfikacji prawa do świadczeń rodzinnych, o których mowa w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2016 r. poz. 1518, z późn. zm.), świadczeń z funduszu alimentacyjnego, o których mowa w ustawie z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2017 r. poz. 489, 624, 777 i 952), oraz wójtom, burmistrzom i prezydentom miast weryfikacji prawa do Karty Dużej Rodziny, a także w celu monitorowania przez ministra właściwego do spraw rodziny sposobu realizacji świadczeń rodzinnych oraz świadczeń z funduszu alimentacyjnego przez organy właściwe lub wojewodów. ” ;
+5. Dostęp do danych zawartych w wykazie dotyczących imienia, nazwiska, numeru PESEL, a w przypadku jego braku – numeru dokumentu potwierdzającego tożsamość, daty rozpoczęcia studiów, daty ukończenia studiów albo daty skreślenia z listy studentów, nazwy uczelni oraz jednostki organizacyjnej prowadzącej kształcenie przysługuje ministrowi właściwemu do spraw rodziny w celu umożliwienia organom właściwym i wojewodom weryfikacji prawa do świadczeń rodzinnych, o których mowa w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2016 r. poz. 1518, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1579 oraz z 2017 r. poz. 60, 624, 777, 1321 i 1428.), świadczeń z funduszu alimentacyjnego, o których mowa w ustawie z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2017 r. poz. 489, 624, 777 i 952), oraz wójtom, burmistrzom i prezydentom miast weryfikacji prawa do Karty Dużej Rodziny, a także w celu monitorowania przez ministra właściwego do spraw rodziny sposobu realizacji świadczeń rodzinnych oraz świadczeń z funduszu alimentacyjnego przez organy właściwe lub wojewodów. ” ;
 
 - **2)** w art. 201a ust. 5 otrzymuje brzmienie: „
 
@@ -320,14 +322,17 @@ source: "eli-html"
 - **1)** dane dotyczące członków rodziny, w tym: imię, nazwisko, datę urodzenia, adres miejsca zamieszkania, stan cywilny, obywatelstwo, płeć, numer PESEL, a w przypadku gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość oraz, o ile wnioskodawca posiada – adres poczty elektronicznej i numer telefonu; ” , w ust. 4 pkt 1 i 2 otrzymują brzmienie: „
     - **c)**
 
-- **1)** zaświadczenia lub oświadczenia dokumentujące wysokość innych dochodów niż dochody podlegające opodatkowaniu podatkiem dochodowym od osób fizycznych na zasadach określonych w art. 27, art. 30b, art. 30c, art. 30e i art. 30f ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.), dotyczące każdego członka rodziny;
-- **2)** zaświadczenie naczelnika urzędu skarbowego, dotyczące członków rodziny rozliczających się na podstawie przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, zawierające informacje odpowiednio o: formie opłacanego podatku, wysokości przychodu, stawce podatku, wysokości opłaconego podatku w roku kalendarzowym poprzedzającym okres świadczeniowy; ” , ust. 8aa i 8ab otrzymują brzmienie: „ 8aa. Minister właściwy do spraw rodziny oraz wojewoda monitorują realizację świadczeń z funduszu alimentacyjnego przez organy właściwe. 8ab. Minister właściwy do spraw rodziny monitoruje realizację świadczeń z funduszu alimentacyjnego przez pozyskiwanie informacji niezbędnych do ustalenia prawa do świadczeń z funduszu alimentacyjnego, o którym mowa w art. 15a ust. 6, oraz przekazywanie tych informacji organom właściwym. ” , w ust. 8c: – pkt 1 otrzymuje brzmienie: „ 1) organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, i wojewodzie – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia rodzinne, osób pobierających świadczenia rodzinne oraz członków ich rodzin; ” , – pkt 5 otrzymuje brzmienie „ 5) organowi właściwemu, o którym mowa w art. 2 pkt 11 ustawy z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. poz. 195 i 1579 oraz z 2017 r. poz. 60, 245, 624 i 777), i wojewodzie – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie wychowawcze, osób pobierających świadczenie wychowawcze oraz członków ich rodzin. ” , po ust. 8c dodaje się ust. 8ca i 8cb w brzmieniu: „ 8ca. Organy właściwe, z zastosowaniem oprogramowania, o którym mowa w ust. 8, przekazują do rejestru centralnego, o którym mowa w ust. 8a, również adres poczty elektronicznej wskazany we wniosku o ustalenie prawa do świadczeń z funduszu alimentacyjnego. 8cb. Minister właściwy do spraw rodziny może przetwarzać dane w zakresie adresu poczty elektronicznej wskazanego we wniosku o ustalenie prawa do świadczeń z funduszu alimentacyjnego w celu przekazywania informacji związanych z uprawnieniami dla rodzin. Przepisy ust. 8d i 8f stosuje się odpowiednio. ” , ust. 9 otrzymuje brzmienie: „
+- **1)** zaświadczenia lub oświadczenia dokumentujące wysokość innych dochodów niż dochody podlegające opodatkowaniu podatkiem dochodowym od osób fizycznych na zasadach określonych w art. 27, art. 30b, art. 30c, art. 30e i art. 30f ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089 i 1428.), dotyczące każdego członka rodziny;
+- **2)** zaświadczenie naczelnika urzędu skarbowego, dotyczące członków rodziny rozliczających się na podstawie przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, zawierające informacje odpowiednio o: formie opłacanego podatku, wysokości przychodu, stawce podatku, wysokości opłaconego podatku – w roku kalendarzowym poprzedzającym okres świadczeniowy; ” , ust. 8aa i 8ab otrzymują brzmienie: „ 8aa. Minister właściwy do spraw rodziny oraz wojewoda monitorują realizację świadczeń z funduszu alimentacyjnego przez organy właściwe. 8ab. Minister właściwy do spraw rodziny monitoruje realizację świadczeń z funduszu alimentacyjnego przez pozyskiwanie informacji niezbędnych do ustalenia prawa do świadczeń z funduszu alimentacyjnego, o którym mowa w art. 15a ust. 6, oraz przekazywanie tych informacji organom właściwym. ” , w ust. 8c: pkt 1 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **c)**
     - **d)**
     - **d)**
     - **e)**
+
+- **1)** organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, i wojewodzie – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia rodzinne, osób pobierających świadczenia rodzinne oraz członków ich rodzin; ” , pkt 5 otrzymuje brzmienie „
+- **5)** organowi właściwemu, o którym mowa w art. 2 pkt 11 ustawy z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. poz. 195 i 1579 oraz z 2017 r. poz. 60, 245, 624 i 777), i wojewodzie – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie wychowawcze, osób pobierających świadczenie wychowawcze oraz członków ich rodzin. ” , po ust. 8c dodaje się ust. 8ca i 8cb w brzmieniu: „ 8ca. Organy właściwe, z zastosowaniem oprogramowania, o którym mowa w ust. 8, przekazują do rejestru centralnego, o którym mowa w ust. 8a, również adres poczty elektronicznej wskazany we wniosku o ustalenie prawa do świadczeń z funduszu alimentacyjnego. 8cb. Minister właściwy do spraw rodziny może przetwarzać dane w zakresie adresu poczty elektronicznej wskazanego we wniosku o ustalenie prawa do świadczeń z funduszu alimentacyjnego w celu przekazywania informacji związanych z uprawnieniami dla rodzin. Przepisy ust. 8d i 8f stosuje się odpowiednio. ” , ust. 9 otrzymuje brzmienie: „
     - **f)**
     - **g)**
 
@@ -335,7 +340,7 @@ source: "eli-html"
 
 - **1)** we wniosku o ustalenie prawa do świadczeń z funduszu alimentacyjnego,
 - **2)** w oświadczeniach niezbędnych do ustalenia prawa do świadczeń z funduszu alimentacyjnego, w tym oświadczeniach o dochodach członków rodziny, oświadczeniach, o których mowa w ust. 4 pkt 3 lit. a, oraz zaświadczeniu, o którym mowa w ust. 4 pkt 2,
-- **3)** w zaświadczeniu organu prowadzącego postępowanie egzekucyjne o bezskuteczności egzekucji zawierającym informację o stanie egzekucji, przyczynach jej bezskuteczności oraz o działaniach podejmowanych w celu wyegzekwowania zasądzonych świadczeń alimentacyjnych kierując się koniecznością zapewnienia prawidłowego przebiegu postępowania w sprawach świadczeń z funduszu alimentacyjnego oraz dokumentacji niezbędnej do sprawnej realizacji, również drogą elektroniczną, zadań w zakresie świadczeń z funduszu alimentacyjnego. ” , po ust. 9 dodaje się ust. 9a w brzmieniu: „
+- **3)** w zaświadczeniu organu prowadzącego postępowanie egzekucyjne o bezskuteczności egzekucji zawierającym informację o stanie egzekucji, przyczynach jej bezskuteczności oraz o działaniach podejmowanych w celu wyegzekwowania zasądzonych świadczeń alimentacyjnych – kierując się koniecznością zapewnienia prawidłowego przebiegu postępowania w sprawach świadczeń z funduszu alimentacyjnego oraz dokumentacji niezbędnej do sprawnej realizacji, również drogą elektroniczną, zadań w zakresie świadczeń z funduszu alimentacyjnego. ” , po ust. 9 dodaje się ust. 9a w brzmieniu: „
     - **h)**
 
 9a. Minister właściwy do spraw rodziny może określić oraz zamieścić na swojej stronie Biuletynu Informacji Publicznej wzory:
@@ -554,8 +559,16 @@ source: "eli-html"
 
 5. Adres będącego osobą fizyczną podmiotu prowadzącego żłobek lub klub dziecięcy nie podlega ujawnieniu na stronach podmiotowych gminy prowadzącej rejestr i ministra właściwego do spraw rodziny, jeżeli jest inny niż adres prowadzenia przez tę osobę żłobka lub klubu dziecięcego. ” ;
 
-- **17)** w art. 28: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wójt, burmistrz lub prezydent miasta dokonuje wpisu do rejestru na podstawie wniosku o wpis do rejestru, złożonego przez podmiot zamierzający prowadzić żłobek lub klub dziecięcy. Wniosek zawiera: ” , – pkt 3 otrzymuje brzmienie: „ 3) decyzję potwierdzającą spełnienie wymagań przeciwpożarowych, o której mowa w art. 25 ust. 2; ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) odpowiednio decyzję potwierdzającą spełnienie wymagań sanitarno-lokalowych, o której mowa w art. 25 ust. 2a pkt 1, lub opinię, o której mowa w art. 25 ust. 2a pkt 2; ” , – pkt 4 otrzymuje brzmienie: „ 4) w przypadku osoby fizycznej zaświadczenie o niekaralności za przestępstwo popełnione umyślnie; ” , – w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7–10 w brzmieniu: „ 7) informację o godzinach pracy żłobka lub klubu dziecięcego; 8) adres poczty elektronicznej i numer telefonu żłobka lub klubu dziecięcego; 9) informację, czy żłobek lub klub dziecięcy jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki; 10) wysokość opłat w żłobku lub klubie dziecięcym. ” , w ust. 4 dodaje się zdanie drugie w brzmieniu: „ Przedstawienie tych dokumentów nie jest wymagane, w przypadku gdy wójt, burmistrz lub prezydent miasta może bezpłatnie uzyskać dostęp do danych wynikających z tych dokumentów, dane te są mu znane z urzędu lub możliwe do ustalenia na podstawie danych, którymi rozporządza. ” , dodaje się ust. 5 w brzmieniu: „
+- **17)** w art. 28: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wójt, burmistrz lub prezydent miasta dokonuje wpisu do rejestru na podstawie wniosku o wpis do rejestru, złożonego przez podmiot zamierzający prowadzić żłobek lub klub dziecięcy. Wniosek zawiera: ” , pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** decyzję potwierdzającą spełnienie wymagań przeciwpożarowych, o której mowa w art. 25 ust. 2; ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** odpowiednio decyzję potwierdzającą spełnienie wymagań sanitarno-lokalowych, o której mowa w art. 25 ust. 2a pkt 1, lub opinię, o której mowa w art. 25 ust. 2a pkt 2; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** w przypadku osoby fizycznej zaświadczenie o niekaralności za przestępstwo popełnione umyślnie; ” , w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7–10 w brzmieniu: „
+- **7)** informację o godzinach pracy żłobka lub klubu dziecięcego;
+- **8)** adres poczty elektronicznej i numer telefonu żłobka lub klubu dziecięcego;
+- **9)** informację, czy żłobek lub klub dziecięcy jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki;
+- **10)** wysokość opłat w żłobku lub klubie dziecięcym. ” , w ust. 4 dodaje się zdanie drugie w brzmieniu: „ Przedstawienie tych dokumentów nie jest wymagane, w przypadku gdy wójt, burmistrz lub prezydent miasta może bezpłatnie uzyskać dostęp do danych wynikających z tych dokumentów, dane te są mu znane z urzędu lub możliwe do ustalenia na podstawie danych, którymi rozporządza. ” , dodaje się ust. 5 w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -605,15 +618,19 @@ source: "eli-html"
 - **2)** zatrudniana przez podmioty, o których mowa w art. 8 ust. 1, na podstawie umowy o pracę albo umowy o świadczenie usług, do której zgodnie z przepisami Kodeksu cywilnego stosuje się przepisy dotyczące zlecenia. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
-1a. Pełnienie funkcji dziennego opiekuna wymaga zgłoszenia do prowadzonego przez wójta, burmistrza lub prezydenta miasta wykazu osób, o których mowa w ust. 1 pkt 1, oraz podmiotów, o których mowa w art. 8 ust. 1, zatrudniających dziennych opiekunów, zwanego dalej „wykazem”. ” , w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Umowa o świadczenie usług, o której mowa w ust. 1, określa w szczególności: ” , – po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) warunki czasowego niesprawowania opieki, w szczególności związanego z wypoczynkiem dziennego opiekuna; ” ;
+1a. Pełnienie funkcji dziennego opiekuna wymaga zgłoszenia do prowadzonego przez wójta, burmistrza lub prezydenta miasta wykazu osób, o których mowa w ust. 1 pkt 1, oraz podmiotów, o których mowa w art. 8 ust. 1, zatrudniających dziennych opiekunów, zwanego dalej „wykazem”. ” , w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Umowa o świadczenie usług, o której mowa w ust. 1, określa w szczególności: ” , po pkt 5 dodaje się pkt 5a w brzmieniu: „
 
 - **c)**
+- **5a)** warunki czasowego niesprawowania opieki, w szczególności związanego z wypoczynkiem dziennego opiekuna; ” ;
 - **24)** w art. 38 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
 1a. Dzienny opiekun może, za zgodą wszystkich rodziców, sprawować opiekę nad maksymalnie ośmiorgiem dzieci, a w przypadku gdy w grupie znajduje się dziecko, które nie ukończyło pierwszego roku życia, jest niepełnosprawne lub wymaga szczególnej opieki, maksymalnie nad pięciorgiem dzieci – jeżeli co najmniej jedno z rodziców będzie sprawowało opiekę nad dziećmi razem z dziennym opiekunem. ” ;
 
-- **25)** w art. 39: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) nie figuruje w bazie danych Rejestru Sprawców Przestępstw na Tle Seksualnym z dostępem ograniczonym lub nie została skazana prawomocnym wyrokiem za inne przestępstwo umyślne; ” , – w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „ 7) odbyła nie wcześniej niż 2 lata przed rozpoczęciem pełnienia funkcji dziennego opiekuna szkolenie z udzielania dziecku pierwszej pomocy. ” , ust. 2 otrzymuje brzmienie: „
+- **25)** w art. 39: w ust. 1: pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** nie figuruje w bazie danych Rejestru Sprawców Przestępstw na Tle Seksualnym z dostępem ograniczonym lub nie została skazana prawomocnym wyrokiem za inne przestępstwo umyślne; ” , w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
+- **7)** odbyła nie wcześniej niż 2 lata przed rozpoczęciem pełnienia funkcji dziennego opiekuna szkolenie z udzielania dziecku pierwszej pomocy. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Do odbycia szkolenia, o którym mowa w ust. 1 pkt 6, nie jest zobowiązana osoba, która pracowała z dziećmi w wieku do lat 3 przez okres co najmniej 12 miesięcy bezpośrednio przed rozpoczęciem pełnienia funkcji dziennego opiekuna. ” , po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „
@@ -645,7 +662,7 @@ source: "eli-html"
 
 - **27)** w art. 41 ust. 3 otrzymuje brzmienie: „
 
-3. W przypadku gdy dziennego opiekuna zatrudniają podmioty, o których mowa w art. 8 ust. 1 pkt 1, umowa, o której mowa w ust. 2, zawierana jest na zasadach określonych w ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164, z późn. zm.). ” ;
+3. W przypadku gdy dziennego opiekuna zatrudniają podmioty, o których mowa w art. 8 ust. 1 pkt 1, umowa, o której mowa w ust. 2, zawierana jest na zasadach określonych w ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 996, 1020, 1250, 1265, 1579, 1920 i 2260 oraz z 2017 r. poz. 933.). ” ;
 
 - **28)** w art. 42 dodaje się ust. 3 w brzmieniu: „
 
@@ -733,7 +750,7 @@ source: "eli-html"
 
 - **1)** nieprawidłowościach w organizacji i funkcjonowaniu żłobka, klubu dziecięcego lub sprawowanej opieki przez dziennego opiekuna,
 - **2)** nieprawidłowościach w zakresie zgodności danych zawartych odpowiednio w rejestrze lub wykazie ze stanem faktycznym,
-- **3)** niewywiązywaniu się z obowiązku sporządzania i przekazywania sprawozdań, o których mowa w art. 64 wójt, burmistrz lub prezydent miasta prowadzi czynności nadzorcze także poza planem nadzoru, o którym mowa w ust. 1. ” ;
+- **3)** niewywiązywaniu się z obowiązku sporządzania i przekazywania sprawozdań, o których mowa w art. 64 – wójt, burmistrz lub prezydent miasta prowadzi czynności nadzorcze także poza planem nadzoru, o którym mowa w ust. 1. ” ;
 - **37)** w art. 56 w ust. 2 pkt 3 otrzymuje brzmienie: „
 - **3)** dostępu do dokumentacji pracowniczej osób zatrudnionych w nadzorowanych żłobkach lub klubach dziecięcych lub zatrudnionych przez podmiot zatrudniający dziennego opiekuna. ” ;
 - **38)** w art. 57: ust. 1–3 otrzymują brzmienie: „
@@ -743,7 +760,7 @@ source: "eli-html"
 
 - **1)** podmiot prowadzący żłobek lub klub dziecięcy albo dzienny opiekun nie spełnia standardów dotyczących sprawowanej opieki,
 - **2)** podmiot prowadzący żłobek, klub dziecięcy, podmiot zatrudniający dziennego opiekuna lub osoba, o której mowa w art. 36 ust. 1 pkt 1, nie dopełniają obowiązku w zakresie zapewnienia zgodności danych zawartych odpowiednio w rejestrze lub wykazie ze stanem faktycznym,
-- **3)** podmiot prowadzący żłobek, klub dziecięcy, podmiot zatrudniający dziennego opiekuna lub osoba, o której mowa w art. 36 ust. 1 pkt 1, nie wywiązują się z obowiązku sporządzania i przekazywania sprawozdań, o których mowa w art. 64 organ sprawujący nadzór zobowiązuje go do usunięcia stwierdzonych nieprawidłowości w wyznaczonym terminie.
+- **3)** podmiot prowadzący żłobek, klub dziecięcy, podmiot zatrudniający dziennego opiekuna lub osoba, o której mowa w art. 36 ust. 1 pkt 1, nie wywiązują się z obowiązku sporządzania i przekazywania sprawozdań, o których mowa w art. 64 – organ sprawujący nadzór zobowiązuje go do usunięcia stwierdzonych nieprawidłowości w wyznaczonym terminie.
 
 2. Podmiot prowadzący żłobek, klub dziecięcy, podmiot zatrudniający dziennego opiekuna, osoba, o której mowa w art. 36 ust. 1 pkt 1, albo dzienny opiekun mają prawo zgłoszenia umotywowanych zastrzeżeń do ustaleń organu sprawującego nadzór, w terminie 7 dni od dnia otrzymania informacji o stwierdzonych nieprawidłowościach.
 
@@ -779,8 +796,12 @@ source: "eli-html"
 3. W uchwale, o której mowa w ust. 2, może zostać określone, że dotacja, o której mowa w ust. 1, może zostać przyznana również na dzieci zamieszkałe na terenie innej gminy niż gmina przyznająca dotację. ” ;
 
 - **41)** po art. 60 dodaje się art. 60a w brzmieniu: „ Gminy, powiaty i województwa mogą zawierać porozumienia w sprawie zasad finansowania opieki zapewnianej w żłobku, klubie dziecięcym lub przez dziennego opiekuna dzieciom z terenu danej gminy, powiatu lub województwa. ” ;
-- **42)** w art. 62: w ust. 2: – pkt 3 otrzymuje brzmienie: „ 3) minimalny okres funkcjonowania instytucji lub miejsc opieki dofinansowanych z dotacji budżetu państwa lub środków Funduszu Pracy; ” , – dodaje się pkt 4 i 5 w brzmieniu: „ 4) brak instytucji lub miejsc opieki w danej gminie; 5) wywiązywanie się przez podmiot ze zobowiązań, o których mowa odpowiednio w art. 35 ust. 1 lub art. 47a. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **42)** w art. 62: w ust. 2: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** minimalny okres funkcjonowania instytucji lub miejsc opieki dofinansowanych z dotacji budżetu państwa lub środków Funduszu Pracy; ” , dodaje się pkt 4 i 5 w brzmieniu: „
+- **4)** brak instytucji lub miejsc opieki w danej gminie;
+- **5)** wywiązywanie się przez podmiot ze zobowiązań, o których mowa odpowiednio w art. 35 ust. 1 lub art. 47a. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. W przypadku gdy na realizację programów, o których mowa w ust. 1, minister właściwy do spraw pracy przekazał środki z Funduszu Pracy, poza kryteriami, o których mowa w ust. 2, jako kryterium wyboru podmiotów korzystających z programów, o których mowa w ust. 1, uwzględnia się sytuację na lokalnym rynku pracy. ” , ust. 3–6 otrzymują brzmienie: „
@@ -805,7 +826,7 @@ source: "eli-html"
 - **8)** warunki i sposób zmiany oraz rozwiązania umowy, w tym zasady zwrotu dotacji lub środków z Funduszu Pracy w przypadku skrócenia okresu funkcjonowania instytucji lub miejsc opieki, o którym mowa w ust. 2 pkt 3, dofinansowanych z dotacji lub środków z Funduszu Pracy. ” , dodaje się ust. 7 w brzmieniu: „
     - **d)**
 
-7. Do środków z Funduszu Pracy stosuje się odpowiednio art. 57 i art. 169 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.), z tym że organem właściwym do umarzania, odraczania terminów lub rozkładania na raty spłat należności Funduszu Pracy, a także wydania decyzji o zwrocie w związku z wykorzystaniem środków niezgodnie z przeznaczeniem albo pobrania ich nienależnie lub w nadmiernej wysokości, jest wojewoda. ” ;
+7. Do środków z Funduszu Pracy stosuje się odpowiednio art. 57 i art. 169 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935 i 1089.), z tym że organem właściwym do umarzania, odraczania terminów lub rozkładania na raty spłat należności Funduszu Pracy, a także wydania decyzji o zwrocie w związku z wykorzystaniem środków niezgodnie z przeznaczeniem albo pobrania ich nienależnie lub w nadmiernej wysokości, jest wojewoda. ” ;
 
 - **43)** po art. 62 dodaje się art. 62a w brzmieniu: „
 
@@ -831,7 +852,7 @@ source: "eli-html"
 2. Sprawozdania, o których mowa w ust. 1, z zakresu opieki nad dziećmi w wieku do lat 3:
 
 - **1)** organizowanej przez gminę – gmina przekazuje wojewodzie,
-- **2)** organizowanej przez podmioty inne niż gmina – podmioty te przekazują gminie, a gmina przekazuje zbiorcze sprawozdanie wojewodzie w postaci elektronicznej, za pomocą systemu teleinformatycznego, o którym mowa w art. 62a.
+- **2)** organizowanej przez podmioty inne niż gmina – podmioty te przekazują gminie, a gmina przekazuje zbiorcze sprawozdanie wojewodzie – w postaci elektronicznej, za pomocą systemu teleinformatycznego, o którym mowa w art. 62a.
 
 3. Wojewoda sporządza zbiorcze sprawozdanie z zakresu opieki nad dziećmi w wieku do lat 3 i przekazuje je, w postaci elektronicznej, za pomocą systemu teleinformatycznego, o którym mowa w art. 62a, ministrowi właściwemu do spraw rodziny.
 
@@ -900,7 +921,7 @@ source: "eli-html"
 2b. Prawo do posiadania Karty przysługuje odpowiednio dziecku:
 
 - **1)** w wieku do ukończenia 18. roku życia;
-- **2)** w wieku do ukończenia 25. roku życia – w przypadku gdy dziecko uczy się w: szkole – do dnia 30 września następującego po końcu roku szkolnego, szkole wyższej – do dnia 30 września roku w którym jest planowane ukończenie nauki zgodnie z oświadczeniem, o którym mowa w art. 10 ust. 4 pkt 4. ” ;
+- **2)** w wieku do ukończenia 25. roku życia – w przypadku gdy dziecko uczy się w: szkole – do dnia 30 września następującego po końcu roku szkolnego, szkole wyższej – do dnia 30 września roku – w którym jest planowane ukończenie nauki zgodnie z oświadczeniem, o którym mowa w art. 10 ust. 4 pkt 4. ” ;
     - **a)**
     - **b)**
 
@@ -978,7 +999,7 @@ source: "eli-html"
 
 - **1)** mających wpływ na prawo do posiadania Karty lub
 - **2)** danych zawartych w Karcie, lub
-- **3)** adresu poczty elektronicznej lub numeru telefonu – jeżeli obowiązek ich podania wynika z niniejszej ustawy członek rodziny wielodzietnej jest obowiązany do niezwłocznego powiadomienia o tym wójta, który przyznał Kartę.
+- **3)** adresu poczty elektronicznej lub numeru telefonu – jeżeli obowiązek ich podania wynika z niniejszej ustawy – członek rodziny wielodzietnej jest obowiązany do niezwłocznego powiadomienia o tym wójta, który przyznał Kartę.
 
 2. W przypadku zmiany miejsca zamieszkania skutkującej zmianą gminy członek rodziny wielodzietnej jest obowiązany do niezwłocznego powiadomienia o tym wójta, który przyznał Kartę, chyba że członek rodziny wielodzietnej złożył wniosek o przyznanie nowej Karty w związku ze zmianą miejsca zamieszkania.
 
@@ -988,8 +1009,11 @@ source: "eli-html"
 
 - **10)** w art. 18 w ust. 1 pkt 1 otrzymuje brzmienie: „
 - **1)** produkcję blankietów kart tradycyjnych, personalizację blankietów kart tradycyjnych, dystrybucję Kart oraz system teleinformatyczny umożliwiający obsługę funkcjonalności związanych z kartami elektronicznymi, w szczególności zapewniający funkcjonalność pozwalającą na potwierdzenie uprawnień członków rodzin wielodzietnych oraz zapewniający usługi ułatwiające korzystanie z uprawnień przyznanych na podstawie Karty; ” ;
-- **11)** w art. 21: w ust. 1: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) imiona i nazwiska rodowe rodziców dziecka; ” , – pkt 15 otrzymuje brzmienie: „ 15) numer telefonu i adres poczty elektronicznej członka rodziny wielodzietnej – o ile je posiada lub o ile obowiązek ich podania wynika z niniejszej ustawy. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **11)** w art. 21: w ust. 1: po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
+
+- **1a)** imiona i nazwiska rodowe rodziców dziecka; ” , pkt 15 otrzymuje brzmienie: „
+- **15)** numer telefonu i adres poczty elektronicznej członka rodziny wielodzietnej – o ile je posiada lub o ile obowiązek ich podania wynika z niniejszej ustawy. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Minister właściwy do spraw rodziny może przetwarzać również dane, o których mowa w ust. 1:
@@ -1003,7 +1027,7 @@ source: "eli-html"
 - **12)** art. 22 otrzymuje brzmienie: „ Minister właściwy do spraw rodziny określi, w drodze rozporządzenia, sposób unieważnienia Karty, szczegółowy zakres informacji, jakie mają być zawarte we wniosku o przyznanie Karty lub wydanie jej duplikatu, oraz wzory:
 - **1)** Karty,
 - **2)** znaku „Tu honorujemy Kartę Dużej Rodziny”,
-- **3)** logo rodziny wielodzietnej uwzględniając konieczność odpowiedniego zabezpieczenia Karty oraz ujednolicenia procedur w sprawach o przyznanie Karty, a także mając na uwadze konieczność zapewnienia szerokiej rozpoznawalności logo rodziny wielodzietnej i znaku „Tu honorujemy Kartę Dużej Rodziny”. ” ;
+- **3)** logo rodziny wielodzietnej – uwzględniając konieczność odpowiedniego zabezpieczenia Karty oraz ujednolicenia procedur w sprawach o przyznanie Karty, a także mając na uwadze konieczność zapewnienia szerokiej rozpoznawalności logo rodziny wielodzietnej i znaku „Tu honorujemy Kartę Dużej Rodziny”. ” ;
 - **13)** w art. 24 w ust. 2 pkt 1 otrzymuje brzmienie: „
 - **1)** potencjał podmiotu do przyznania uprawnień członkom rodzin wielodzietnych w odniesieniu do uwarunkowań branży, w której działa ten podmiot; ” ;
 - **14)** po art. 26 dodaje się art. 26a w brzmieniu: „
@@ -1021,7 +1045,7 @@ source: "eli-html"
 
 - **1)** wydanie duplikatu Karty,
 - **2)** udostępnienie karty elektronicznej – w przypadku gdy członkowi rodziny wielodzietnej, na jego wniosek, wydana już została wyłącznie karta tradycyjna,
-- **3)** wydanie karty tradycyjnej – w przypadku gdy członkowi rodziny wielodzietnej, na jego wniosek, udostępniona już została karta elektroniczna wynosi 1,34 zł. ” , uchyla się ust. 7;
+- **3)** wydanie karty tradycyjnej – w przypadku gdy członkowi rodziny wielodzietnej, na jego wniosek, udostępniona już została karta elektroniczna – wynosi 1,34 zł. ” , uchyla się ust. 7;
     - **b)**
 
 - **16)** w art. 36: ust. 1–4 otrzymują brzmienie: „
@@ -1171,8 +1195,8 @@ source: "eli-html"
 - **1)** osoby występującej o przyznanie świadczenia wychowawczego, w tym: imię, nazwisko, datę urodzenia, adres miejsca zamieszkania, stan cywilny, obywatelstwo, płeć, numer PESEL, a w przypadku gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość oraz, o ile je posiada – adres poczty elektronicznej i numer telefonu; ” , w ust. 4 pkt 1 i 2 otrzymują brzmienie: „
     - **c)**
 
-- **1)** zaświadczenia lub oświadczenia dokumentujące wysokość innych dochodów niż dochody podlegające opodatkowaniu podatkiem dochodowym od osób fizycznych na zasadach określonych w art. 27, art. 30b, art. 30c, art. 30e i art. 30f ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.) dotyczące każdego członka rodziny;
-- **2)** zaświadczenie naczelnika urzędu skarbowego, dotyczące członków rodziny rozliczających się na podstawie przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, zawierające informacje odpowiednio o: formie opłacanego podatku, wysokości przychodu, stawce podatku, wysokości opłaconego podatku w roku kalendarzowym poprzedzającym okres, na jaki ustalane jest prawo do świadczenia wychowawczego; ” , ust. 22 otrzymuje brzmienie: „
+- **1)** zaświadczenia lub oświadczenia dokumentujące wysokość innych dochodów niż dochody podlegające opodatkowaniu podatkiem dochodowym od osób fizycznych na zasadach określonych w art. 27, art. 30b, art. 30c, art. 30e i art. 30f ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089 i 1428.) dotyczące każdego członka rodziny;
+- **2)** zaświadczenie naczelnika urzędu skarbowego, dotyczące członków rodziny rozliczających się na podstawie przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, zawierające informacje odpowiednio o: formie opłacanego podatku, wysokości przychodu, stawce podatku, wysokości opłaconego podatku – w roku kalendarzowym poprzedzającym okres, na jaki ustalane jest prawo do świadczenia wychowawczego; ” , ust. 22 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **c)**
@@ -1182,7 +1206,7 @@ source: "eli-html"
 22. Minister właściwy do spraw rodziny określi, w drodze rozporządzenia, sposób i tryb postępowania w sprawach o przyznanie świadczenia wychowawczego oraz szczegółowy zakres informacji, jakie mają być zawarte:
 
 - **1)** we wniosku o ustalenie prawa do świadczenia wychowawczego,
-- **2)** w oświadczeniach niezbędnych do ustalenia prawa do świadczenia wychowawczego, w tym oświadczeniach o dochodach członków rodziny oraz zaświadczeniu, o którym mowa w ust. 4 pkt 2 kierując się koniecznością zapewnienia prawidłowego przebiegu postępowania w sprawach o przyznanie świadczenia wychowawczego oraz przekazywania dokumentacji niezbędnej do sprawnej realizacji, w tym drogą elektroniczną, zadań w zakresie świadczenia wychowawczego. ” , dodaje się ust. 23 w brzmieniu: „
+- **2)** w oświadczeniach niezbędnych do ustalenia prawa do świadczenia wychowawczego, w tym oświadczeniach o dochodach członków rodziny oraz zaświadczeniu, o którym mowa w ust. 4 pkt 2 – kierując się koniecznością zapewnienia prawidłowego przebiegu postępowania w sprawach o przyznanie świadczenia wychowawczego oraz przekazywania dokumentacji niezbędnej do sprawnej realizacji, w tym drogą elektroniczną, zadań w zakresie świadczenia wychowawczego. ” , dodaje się ust. 23 w brzmieniu: „
     - **e)**
 
 23. Minister właściwy do spraw rodziny może określić oraz zamieścić na swojej stronie Biuletynu Informacji Publicznej wzory:
@@ -1192,7 +1216,7 @@ source: "eli-html"
 - **8)** w art. 14: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Organy administracji publicznej realizują niniejszą ustawę przy pomocy systemów teleinformatycznych stanowiących integralne części systemów teleinformatycznych stosowanych do realizacji świadczeń rodzinnych określonych w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2016 r. poz. 1518, z późn. zm.). ” , po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „
+1. Organy administracji publicznej realizują niniejszą ustawę przy pomocy systemów teleinformatycznych stanowiących integralne części systemów teleinformatycznych stosowanych do realizacji świadczeń rodzinnych określonych w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2016 r. poz. 1518, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1579 oraz z 2017 r. poz. 60, 624, 777, 1321 i 1428.). ” , po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „
 
 - **b)**
 
@@ -1297,7 +1321,7 @@ source: "eli-html"
 
 - **1)** art. 26 ust. 2a ustawy zmienianej w art. 6,
 - **2)** art. 20 ust. 3 ustawy zmienianej w art. 11,
-- **3)** art. 21 ust. 3 ustawy zmienianej w art. 15 w brzmieniu nadanym niniejszą ustawą, stosuje się począwszy od dnia 1 lipca 2018 r.
+- **3)** art. 21 ust. 3 ustawy zmienianej w art. 15 – w brzmieniu nadanym niniejszą ustawą, stosuje się począwszy od dnia 1 lipca 2018 r.
 
 **Art. 21.**
 
@@ -1377,7 +1401,7 @@ source: "eli-html"
 
 - **1)** za pomocą którego wojewoda będzie realizował ustawy zmieniane w art. 6 i art. 15, w brzmieniu nadanym niniejszą ustawą,
 - **2)** o którym mowa w art. 62a ustawy zmienianej w art. 12, w brzmieniu nadanym niniejszą ustawą,
-- **3)** umożliwiającego obsługę funkcjonalności związanych z kartami elektronicznymi w rozumieniu art. 2 pkt 2 ustawy zmienianej w art. 14, w brzmieniu nadanym niniejszą ustawą przekazuje środki finansowe z rezerwy celowej zaplanowanej w ustawie budżetowej na rok 2017 w załączniku nr 2, w części 83 – Rezerwy celowe, w pozycji 34.
+- **3)** umożliwiającego obsługę funkcjonalności związanych z kartami elektronicznymi w rozumieniu art. 2 pkt 2 ustawy zmienianej w art. 14, w brzmieniu nadanym niniejszą ustawą – przekazuje środki finansowe z rezerwy celowej zaplanowanej w ustawie budżetowej na rok 2017 w załączniku nr 2, w części 83 – Rezerwy celowe, w pozycji 34.
 
 2. W roku 2017 wojewoda w celu wdrożenia zadań wynikających z niniejszej ustawy może wykorzystać środki finansowe zaplanowane w jego budżecie na realizację świadczeń rodzinnych.
 
@@ -1430,11 +1454,11 @@ source: "eli-html"
 - **1)** art. 23 ust. 5 ustawy zmienianej w art. 6 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 23 ust. 5 ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą,
 - **2)** art. 15 ust. 9 ustawy zmienianej w art. 11 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 15 ust. 9 ustawy zmienianej w art. 11, w brzmieniu nadanym niniejszą ustawą,
 - **3)** art. 22 ustawy zmienianej w art. 14 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 22 ustawy zmienianej w art. 14, w brzmieniu nadanym niniejszą ustawą,
-- **4)** art. 13 ust. 22 ustawy zmienianej w art. 15 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 13 ust. 22 ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
+- **4)** art. 13 ust. 22 ustawy zmienianej w art. 15 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 13 ust. 22 ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą – jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 41.** Ustawa wchodzi w życie z dniem 1 sierpnia 2017 r., z wyjątkiem:
 
 - **1)** art. 1, art. 2 pkt 2, art. 3–5, art. 6 pkt 10, 11, 12 lit. d, g i lit. h w zakresie dodawanego w art. 23 ust. 10a, pkt 13, pkt 20 lit. a i b, pkt 21 i 22, art. 7–10, art. 11 pkt 3 lit. e, art. 12 pkt 1–42 i 44–46, art. 13 pkt 2 lit. a-c, art. 14 pkt 1, 3, pkt 4 w zakresie zmienianego w art. 6 ust. 2, pkt 5 lit. a, pkt 7–10, pkt 13, 14 i pkt 15 lit. a w zakresie zmienianego w art. 29 ust. 5 i 6 i lit. b, art. 15 pkt 5, 6, 8 lit. b w zakresie dodawanego w art. 14 ust. 4b, pkt 9, 10, 17, 18 lit. a, b i c w zakresie zmienianego w art. 30 ust. 2, pkt 19 i 20 oraz art. 16, które wchodzą w życie z dniem 1 stycznia 2018 r.;
-- **2)** art. 14 pkt 2 i pkt 4 w zakresie zmienianego w art. 6 ust. 3, pkt 5 lit. b, pkt 6 i pkt 15 lit. a w zakresie zmienianego w art. 29 ust. 4, które wchodzą w życie z dniem 1 stycznia 2019 r.
+- **2)** art. 14 pkt 2 i pkt 4 w zakresie zmienianego w art. 6 ust. 3, pkt 5 lit. b, pkt 6 i pkt 15 lit. a w zakresie zmienianego w art. 29 ust. 4, które wchodzą w życie z dniem 1 stycznia 2019 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym, ustawę z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, ustawę z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3, ustawę z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów, ustawę z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny, ustawę z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci oraz ustawę z dnia 23 marca 2017 r. o zmianie niektórych ustaw w związku z zadaniami organów administracji publicznej w zakresie niektórych rejestrów publicznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859 i 1089. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921, 1948, 2138, 2255 i 2260 oraz z 2017 r. poz. 38, 60, 777, 962, 1027 i 1321. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1583, 1948 i 2174 oraz z 2017 r. poz. 38, 60, 624, 777 i 1292. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1579 oraz z 2017 r. poz. 60, 624, 777, 1321 i 1428. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844, 858, 1089, 1139, 1200, 1292, 1321 i 1386. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1579 oraz z 2017 r. poz. 60, 624, 777, 1321 i 1428. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933, 2169 i 2260 oraz z 2017 r. poz. 60, 777, 858, 859 i 1321. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1579 oraz z 2017 r. poz. 60, 624, 777, 1321 i 1428. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089 i 1428. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 996, 1020, 1250, 1265, 1579, 1920 i 2260 oraz z 2017 r. poz. 933. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935 i 1089. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089 i 1428. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1579 oraz z 2017 r. poz. 60, 624, 777, 1321 i 1428.
 
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy o organizmach genetycznie zmodyfikowanych oraz niektórych innych ustaw
+# Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy o organizmach genetycznie zmodyfikowanych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej, ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary, ustawę z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie, ustawę z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy oraz ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-01-15 |
 | Data wydania | 2015-02-27 |
-| Wejście w życie | 2015-03-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000277) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/277/text.pdf) |
 
+Niniejsza ustawa: 1) wykonuje postanowienia: a) rozporządzenia (WE) nr 1946/2003 Parlamentu Europejskiego i Rady z dnia 15 lipca 2003 r. w sprawie transgranicznego przemieszczania organizmów genetycznie zmodyfikowanych (Dz. Urz. UE L 287 z 05.11.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 650), b) rozporządzenia (WE) nr 1830/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. dotyczącego możliwości śledzenia i etykietowania organizmów zmodyfikowanych genetycznie oraz możliwości śledzenia żywności i produktów paszowych wyprodukowanych z organizmów zmodyfikowanych genetycznie i zmieniającego dyrektywę 2001/18/WE (Dz. Urz. UE L 268 z 18.10.2003, str. 24, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 455), c) rozporządzenia Komisji (WE) nr 1981/2006 z dnia 22 grudnia 2006 r. ustalającego szczegółowe zasady wykonania przepisów art. 32 rozporządzenia (WE) nr 1829/2003 Parlamentu Europejskiego i Rady w odniesieniu do wspólnotowego laboratorium referencyjnego dla organizmów zmodyfikowanych genetycznie (Dz. Urz. UE L 368 z 23.12.2006, str. 99, z późn. zm.); 2) uzupełnia wdrażanie postanowień: a) dyrektywy Parlamentu Europejskiego i Rady 2001/18/WE z dnia 12 marca 2001 r. w sprawie zamierzonego uwalniania do środowiska organizmów zmodyfikowanych genetycznie i uchylającej dyrektywę Rady 90/220/EWG (Dz. Urz. WE L 106 z 17.04.2001, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 77), b) dyrektywy Parlamentu Europejskiego i Rady 2009/41/WE z dnia 6 maja 2009 r. w sprawie ograniczonego stosowania mikroorganizmów zmodyfikowanych genetycznie (Dz. Urz. UE L 125 z 21.05.2009, str. 75).
+Zamknięte użycie GMM
 1.
 W zależności od stopnia zagrożenia dla zdrowia ludzi i dla środowiska wyróżnia się cztery kategorie zamkniętego użycia GMM:
 1)
@@ -139,8 +140,7 @@ Ponowienie zamkniętego użycia GMM zaliczonych do I kategorii dokonywane przez 
 1.
 Wniosek o wydanie zgody na zamknięte użycie GMM zaliczonych do II kategorii zawiera:
 1)
-imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę wnioskodawcy, a w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu
-i miejsca zamieszkania tej osoby – adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę wnioskodawcy, a w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 2)
 opis prac z wykorzystaniem GMM, z uwzględnieniem:
 a)
@@ -269,8 +269,7 @@ wniosku o wydanie zezwolenia na prowadzenie zakładu inżynierii genetycznej, w 
 2)
 zgłoszenia prowadzenia zamkniętego użycia GMM zaliczonych do I lub II kategorii,
 3)
-wniosku o wydanie zgody na zamknięte użycie GMM zaliczonych do II, III i IV kategorii
-mając na względzie ujednolicenie formy składanych zgłoszeń oraz wniosków.
+wniosku o wydanie zgody na zamknięte użycie GMM zaliczonych do II, III i IV kategorii – mając na względzie ujednolicenie formy składanych zgłoszeń oraz wniosków.
 1.
 Przed wniesieniem wniosku o wydanie zgody na zamknięte użycie GMM zaliczonych do III lub IV kategorii, podmiot, który zamierza prowadzić takie działania, przygotowuje plan postępowania na wypadek awarii.
 2.
@@ -346,8 +345,7 @@ Minister właściwy do spraw środowiska, w drodze decyzji, uruchamia środki po
 1)
 w przypadku wystąpienia awarii,
 2)
-na wniosek podmiotów, którym przysługują roszczenia z tytułu wyrządzonej szkody, stwierdzone prawomocnym wyrokiem sądu albo wynikające z ugody zawartej przez strony
-chyba że dokonujący zamkniętego użycia GMM zaliczonych do III lub IV kategorii pokrył z własnych środków koszty usunięcia skutków awarii lub zaspokoił roszczenia z tytułu wyrządzonej szkody.
+na wniosek podmiotów, którym przysługują roszczenia z tytułu wyrządzonej szkody, stwierdzone prawomocnym wyrokiem sądu albo wynikające z ugody zawartej przez strony – chyba że dokonujący zamkniętego użycia GMM zaliczonych do III lub IV kategorii pokrył z własnych środków koszty usunięcia skutków awarii lub zaspokoił roszczenia z tytułu wyrządzonej szkody.
 7.
 Minister właściwy do spraw środowiska, po wydaniu decyzji o cofnięciu zgody na zamknięte użycie GMM zaliczonych do III lub IV kategorii lub po stwierdzeniu jej wygaśnięcia, zwalnia ustanowione zabezpieczenie.
 Dokonujący zamkniętego użycia GMM jest obowiązany do:
@@ -452,22 +450,19 @@ w decyzjach o cofnięciu zgody na zamknięte użycie GMM zaliczonych do II, III 
 5)
 w decyzjach nakazujących zaprzestanie prowadzenia działań zamkniętego użycia GMM albo ich zawieszenie do czasu usunięcia wskazanych uchybień,
 6)
-w opiniach, o których mowa w art. 13 ust. 1 pkt 1, dotyczących wniosków o wydanie zgody na zamknięte użycie GMM
-oraz ich aktualizacje.
+w opiniach, o których mowa w art. 13 ust. 1 pkt 1, dotyczących wniosków o wydanie zgody na zamknięte użycie GMM – oraz ich aktualizacje.
 4.
 Rejestr Zamkniętego Użycia Mikroorganizmów Genetycznie Zmodyfikowanych udostępnia się na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw środowiska.
 5.
 Dane zawarte w Rejestrze Zamkniętego Użycia Mikroorganizmów Genetycznie Zmodyfikowanych są jawne, z wyjątkiem informacji wyłączonych z udostępnienia zgodnie z art. 14a ust. 4 i ust. 7 pkt 2.
 6.
-Wgląd do Rejestru Zamkniętego Użycia Mikroorganizmów Genetycznie Zmodyfikowanych jest bezpłatny. Za sporządzanie odpisów i wyciągów jest pobierana opłata w wysokości 50 gr za stronę, która stanowi dochód budżetu państwa.
-” ;
+Wgląd do Rejestru Zamkniętego Użycia Mikroorganizmów Genetycznie Zmodyfikowanych jest bezpłatny. Za sporządzanie odpisów i wyciągów jest pobierana opłata w wysokości 50 gr za stronę, która stanowi dochód budżetu państwa. ” ;
 19)
 uchyla się art. 16;
 20)
 w art. 17:
 a)
-ust. 1–3 otrzymują brzmienie:
-„
+ust. 1–3 otrzymują brzmienie: „
 1.
 W zależności od stopnia zagrożenia dla zdrowia ludzi lub dla środowiska wyróżnia się dwie kategorie zamkniętego użycia GMO:
 1)
@@ -477,13 +472,11 @@ kategoria II – działania powodujące niewielkie zagrożenia.
 2.
 Zaliczenia zamkniętego użycia GMO do jednej z kategorii dokonuje wnioskodawca, na podstawie oceny zagrożenia oraz z uwzględnieniem klasyfikacji organizmów, które są wykorzystywane podczas zamkniętego użycia GMO, określonej w rozporządzeniu wydanym na podstawie art. 6a.
 3.
-Dokonujący zamkniętego użycia GMO jest obowiązany stosować rodzaje środków bezpieczeństwa przewidziane dla poszczególnych kategorii zamkniętego użycia GMO.
-” ,
+Dokonujący zamkniętego użycia GMO jest obowiązany stosować rodzaje środków bezpieczeństwa przewidziane dla poszczególnych kategorii zamkniętego użycia GMO. ” ,
 b)
 uchyla się ust. 4–8,
 c)
-ust. 9 otrzymuje brzmienie:
-„
+ust. 9 otrzymuje brzmienie: „
 9.
 Do I kategorii zamkniętego użycia GMO mogą zostać zaliczone jedynie te działania, w których:
 1)
@@ -491,20 +484,18 @@ istnieje znikome prawdopodobieństwo, że biorca lub organizm macierzysty wywoł
 2)
 wektor i insert są tego rodzaju, że nie spowodują przeniesienia fenotypu, który mógłby wywołać choroby u ludzi, zwierząt lub roślin albo który mógłby wywołać szkodliwe skutki dla środowiska;
 3)
-istnieje znikome prawdopodobieństwo, że GMO wywoła choroby u ludzi, zwierząt lub roślin albo szkodliwe skutki dla środowiska.
-” ,
+istnieje znikome prawdopodobieństwo, że GMO wywoła choroby u ludzi, zwierząt lub roślin albo szkodliwe skutki dla środowiska. ” ,
 d)
 uchyla się ust. 10–13;
 21)
 uchyla się art. 18–20;
 22)
-art. 21 otrzymuje brzmienie:
-„
+art. 21 otrzymuje brzmienie: „
 
 **Art. 1.** W ustawie z dnia 22 czerwca 2001 r. o organizmach genetycznie zmodyfikowanych (Dz. U. z 2007 r. Nr 36, poz. 233 oraz z 2009 r. Nr 18, poz. 97) wprowadza się następujące zmiany:
 
 - **1)** tytuł ustawy otrzymuje brzmienie: „ o mikroorganizmach i organizmach genetycznie zmodyfikowanych ” ;
-- **2)** odnośnik nr 1 do ustawy otrzymuje brzmienie: „ Przepisy niniejszej ustawy w zakresie swojej regulacji:
+- **2)** odnośnik nr 1 do ustawy otrzymuje brzmienie: „ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej, ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary, ustawę z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie, ustawę z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy oraz ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko. Przepisy niniejszej ustawy w zakresie swojej regulacji:
 - **1)** wykonują postanowienia: rozporządzenia (WE) nr 1946/2003 Parlamentu Europejskiego i Rady z dnia 15 lipca 2003 r. w sprawie transgranicznego przemieszczania organizmów genetycznie zmodyfikowanych (Dz. Urz. UE L 287 z 05.11.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 650), rozporządzenia (WE) nr 1829/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. w sprawie genetycznie zmodyfikowanej żywności i paszy (Dz. Urz. UE L 268 z 18.10.2003, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 432), rozporządzenia (WE) nr 1830/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. dotyczącego możliwości śledzenia i etykietowania organizmów zmodyfikowanych genetycznie oraz możliwości śledzenia żywności i produktów paszowych wyprodukowanych z organizmów zmodyfikowanych genetycznie i zmieniającego dyrektywę 2001/18/WE (Dz. Urz. UE L 268 z 18.10.2003, str. 24, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 455), rozporządzenia Komisji (WE) nr 65/2004 z dnia 14 stycznia 2004 r. ustanawiającego system ustanawiania oraz przypisywania niepowtarzalnych identyfikatorów organizmom zmodyfikowanym genetycznie (Dz. Urz. UE L 10 z 16.01.2004, str. 5; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 33, str. 11), rozporządzenia Komisji (WE) nr 1981/2006 z dnia 22 grudnia 2006 r. ustalającego szczegółowe zasady wykonania przepisów art. 32 rozporządzenia (WE) nr 1829/2003 Parlamentu Europejskiego i Rady w odniesieniu do wspólnotowego laboratorium referencyjnego dla organizmów zmodyfikowanych genetycznie (Dz. Urz. UE L 368 z 23.12.2006, str. 99, z późn. zm.);
     - **a)**
     - **b)**
@@ -659,7 +650,7 @@ art. 21 otrzymuje brzmienie:
 
 - **1)** we wnioskach o wydanie zezwolenia na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMM lub zamknięte użycie GMO,
 - **2)** w zezwoleniach na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMM lub zamknięte użycie GMO,
-- **3)** w decyzjach o cofnięciu zezwolenia na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMM lub zamknięte użycie GMO, i w decyzjach zmieniających te zezwolenia oraz ich aktualizacje.
+- **3)** w decyzjach o cofnięciu zezwolenia na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMM lub zamknięte użycie GMO, i w decyzjach zmieniających te zezwolenia – oraz ich aktualizacje.
 
 4. Rejestr Zakładów Inżynierii Genetycznej udostępnia się na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw środowiska.
 
@@ -673,7 +664,7 @@ art. 21 otrzymuje brzmienie:
 
 **Art. 9.** Minister właściwy do spraw środowiska jest właściwy w sprawach, o których mowa w rozporządzeniu (WE) nr 1946/2003 Parlamentu Europejskiego i Rady z dnia 15 lipca 2003 r. w sprawie transgranicznego przemieszczania organizmów genetycznie zmodyfikowanych (Dz. Urz. UE L 287 z 05.11.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 650), zwanym dalej „rozporządzeniem nr 1946/2003”, z wyłączeniem spraw, w których jest właściwy:
 
-- **1)** Główny Inspektor Sanitarny – na podstawie art. 93 ust. 1 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2010 r. Nr 136, poz. 914, z późn. zm.);
+- **1)** Główny Inspektor Sanitarny – na podstawie art. 93 ust. 1 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2010 r. Nr 136, poz. 914, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 230, poz. 1511, z 2011 r. Nr 106, poz. 622, Nr 122, poz. 696 i Nr 171, poz. 1016, z 2014 r. poz. 1662 i 1722 oraz z 2015 r. poz. 35.);
 - **2)** Główny Lekarz Weterynarii – na podstawie art. 9 ustawy z dnia 22 lipca 2006 r. o paszach (Dz. U. z 2014 r. poz. 398).
 
 **Art. 10.** Minister właściwy do spraw środowiska jest właściwy w sprawach:
@@ -748,15 +739,17 @@ art. 21 otrzymuje brzmienie:
 
 6. Członkom Komisji, o których mowa w ust. 2, biorącym udział w posiedzeniach odbywających się poza miejscowością ich zamieszkania, przysługują diety i zwrot kosztów podróży i noclegów na zasadach określonych w przepisach dotyczących wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej, z tytułu podróży służbowej na obszarze kraju, wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502 i 1662). ” ;
 
-- **12)** w art. 13: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) opiniowanie projektów aktów prawnych dotyczących GMM lub GMO oraz bezpieczeństwa biologicznego. ” , – uchyla się pkt 4, ust. 2 otrzymuje brzmienie: „
+- **12)** w art. 13: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** opiniowanie projektów aktów prawnych dotyczących GMM lub GMO oraz bezpieczeństwa biologicznego. ” , – uchyla się pkt 4, ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Szczegółowy sposób funkcjonowania Komisji, jej strukturę organizacyjną oraz tryb jej pracy określa wewnętrzny regulamin nadawany przez ministra właściwego do spraw środowiska w drodze zarządzenia. ” ;
 
 - **13)** art. 14 otrzymuje brzmienie: „
 
-**Art. 14.** Postępowania o wydanie zgody na zamknięte użycie GMM, zamknięte użycie GMO lub zamierzone uwolnienie GMO do środowiska oraz zezwolenia na prowadzenie zakładu inżynierii genetycznej lub wprowadzenie do obrotu produktu GMO, prowadzi się przy zapewnieniu udziału społeczeństwa w trybie i na zasadach określonych ustawą z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.). ” ;
+**Art. 14.** Postępowania o wydanie zgody na zamknięte użycie GMM, zamknięte użycie GMO lub zamierzone uwolnienie GMO do środowiska oraz zezwolenia na prowadzenie zakładu inżynierii genetycznej lub wprowadzenie do obrotu produktu GMO, prowadzi się przy zapewnieniu udziału społeczeństwa w trybie i na zasadach określonych ustawą z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200.). ” ;
 
 - **14)** art. 14a otrzymuje brzmienie: „
 
@@ -832,7 +825,7 @@ art. 21 otrzymuje brzmienie:
 
 - **18)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Zamknięte użycie GMM
+#### Rozdział 2a
 
 **Art. 21.**
 
@@ -861,7 +854,7 @@ art. 21 otrzymuje brzmienie:
 **Art. 22.** Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw nauki, ministrem właściwym do spraw rolnictwa oraz ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, wzór wniosku o wydanie:
 
 - **1)** zezwolenia na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMO,
-- **2)** zgody na zamknięte użycie GMO mając na względzie ujednolicenie formy składanych wniosków.
+- **2)** zgody na zamknięte użycie GMO – mając na względzie ujednolicenie formy składanych wniosków.
 
 **Art. 23.**
 
@@ -926,7 +919,7 @@ art. 21 otrzymuje brzmienie:
 - **1)** we wnioskach o wydanie zgody na zamknięte użycie GMO,
 - **2)** w zgodach na zamknięte użycie GMO,
 - **3)** w decyzjach o cofnięciu zgody na zamknięte użycie GMO i decyzjach zmieniających te zgody,
-- **4)** w opiniach, o których mowa w art. 13 ust. 1 pkt 1, dotyczących wniosków o wydanie zgody na zamknięte użycie GMO oraz ich aktualizacje.
+- **4)** w opiniach, o których mowa w art. 13 ust. 1 pkt 1, dotyczących wniosków o wydanie zgody na zamknięte użycie GMO – oraz ich aktualizacje.
 
 4. Rejestr Zamkniętego Użycia Organizmów Genetycznie Zmodyfikowanych udostępnia się na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw środowiska.
 
@@ -1042,24 +1035,24 @@ art. 21 otrzymuje brzmienie:
 **Art. 64.** Kto, wbrew obowiązkowi określonemu:
 
 - **1)** w art. 6 ust. 7 lub 8, nie dokonuje aktualizacji oceny zagrożenia lub zastosowanych środków bezpieczeństwa albo nie przekazuje tych aktualizacji ministrowi właściwemu do spraw środowiska,
-- **2)** w art. 15q ust. 3 pkt 2 lub 3, nie dokonuje aktualizacji planu postępowania na wypadek awarii lub nie przekazuje tej aktualizacji ministrowi właściwemu do spraw środowiska podlega karze pozbawienia wolności do lat 3.
+- **2)** w art. 15q ust. 3 pkt 2 lub 3, nie dokonuje aktualizacji planu postępowania na wypadek awarii lub nie przekazuje tej aktualizacji ministrowi właściwemu do spraw środowiska – podlega karze pozbawienia wolności do lat 3.
 
 **Art. 65.** Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew obowiązkowi określonemu:
 
 - **1)** w art. 15s pkt 1 lub w art. 35 pkt 1, nie przechowuje i nie udostępnia oceny zagrożenia,
 - **2)** w art. 15s pkt 3 lit. a lub w art. 32 pkt 1, nie informuje zgodnie z tymi przepisami o każdej zmianie warunków zamkniętego użycia GMM lub zamkniętego użycia GMO, która może mieć wpływ na zwiększenie zagrożenia dla zdrowia ludzi lub dla środowiska,
 - **3)** w art. 15s pkt 6 lub art. 35 pkt 2, nie prowadzi ewidencji i dokumentacji dokonywania zamkniętego użycia GMM lub zamkniętego użycia GMO lub nie przechowuje tej ewidencji lub dokumentacji przez czas wymagany w tych przepisach,
-- **4)** w art. 47 ust. 1, nie oznakowuje produktów GMO w sposób określony w art. 47 ust. 2 podlega karze grzywny. ” ;
+- **4)** w art. 47 ust. 1, nie oznakowuje produktów GMO w sposób określony w art. 47 ust. 2 – podlega karze grzywny. ” ;
 - **49)** po art. 65 dodaje się art. 65a-65g w brzmieniu: „ Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew obowiązkowi określonemu w art. 4 rozporządzenia nr 1946/2003, nie dokonuje zgłoszenia GMO przeznaczonego do zamierzonego uwolnienia do środowiska lub dokonuje tego zgłoszenia niezgodnie z tym przepisem, podlega karze grzywny. Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew obowiązkowi określonemu w art. 6 rozporządzenia nr 1946/2003, przez 5 lat nie przechowuje dokumentacji zgłoszenia GMO przeznaczonego do zamierzonego uwolnienia do środowiska, o którym mowa w art. 4 rozporządzenia nr 1946/2003, lub nie przechowuje potwierdzenia dokonania tego zgłoszenia lub decyzji, o której mowa w art. 6 rozporządzenia nr 1946/2003, albo nie przekazuje ich kopii ministrowi właściwemu do spraw środowiska i Komisji Europejskiej, podlega karze grzywny. Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew obowiązkowi określonemu w art. 12 ust. 1 rozporządzenia nr 1946/2003, nie podaje w dokumentacji towarzyszącej GMO informacji określonych w art. 12 ust. 1–4 rozporządzenia nr 1946/2003, nie przekazuje ich importerowi otrzymującemu GMO lub dokonuje tego z naruszeniem wymagań określonych w tych przepisach, podlega karze grzywny. Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew obowiązkowi określonemu w art. 13 rozporządzenia nr 1946/2003, nie powiadamia o tranzycie GMO zgodnie z tym przepisem, podlega karze grzywny. Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew obowiązkowi określonemu w art. 4 ust. 1, 2 i 4 rozporządzenia (WE) nr 1830/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. dotyczącego możliwości śledzenia i etykietowania organizmów zmodyfikowanych genetycznie oraz możliwości śledzenia żywności i produktów paszowych wyprodukowanych z organizmów zmodyfikowanych genetycznie i zmieniającego dyrektywę 2001/18/WE (Dz. Urz. UE L 268 z 18.10.2003, str. 24, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 455), nie przekazuje informacji o wprowadzonym do obrotu GMO przeznaczonym do przetwarzania niebędącym żywnością lub paszą zgodnie z art. 4 ust. 1 i 2 tego rozporządzenia lub nie przechowuje tych informacji zgodnie z art. 4 ust. 4 tego rozporządzenia, podlega karze grzywny.
 
 1. Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, bez wymaganego zezwolenia na prowadzenie zakładu inżynierii genetycznej, o którym mowa w art. 15a ust. 2, w którym jest prowadzone zamknięte użycie GMM zaliczonych do I lub II kategorii, lub zamknięte użycie GMO, zgłoszenia zamkniętego użycia GMM zaliczonych do I kategorii, o którym mowa w art. 15e pkt 1, zgłoszenia zamkniętego użycia GMM zaliczonych do II kategorii, o którym mowa w art. 15l ust. 1, zgody na zamknięte użycie GMM, o której mowa w art. 15e pkt 2, zaliczonych do II kategorii, lub zgody na zamknięte użycie GMO, o której mowa w art. 21 ust. 1, albo nie spełniając warunków określonych w tych zezwoleniach, zgłoszeniach albo zgodach, dokonuje zamkniętego użycia GMM zaliczonych do I lub II kategorii albo zamkniętego użycia GMO, podlega karze grzywny.
 
 2. Tej samej karze podlega, kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew sprzeciwowi, o którym mowa w art. 15f ust. 5, dokonuje zamkniętego użycia GMM zaliczonych do I kategorii.
 
-3. Tej samej karze podlega, kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew decyzji nakazującej zaprzestanie prowadzenia działań zamkniętego użycia GMM albo zawieszenie prowadzenia tych działań, o której mowa w art. 15m ust. 1 pkt 3, dokonuje zamkniętego użycia GMM. W sprawach o czyny, o których mowa w art. 65–65f, orzekanie następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.). ” ;
+3. Tej samej karze podlega, kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew decyzji nakazującej zaprzestanie prowadzenia działań zamkniętego użycia GMM albo zawieszenie prowadzenia tych działań, o której mowa w art. 15m ust. 1 pkt 3, dokonuje zamkniętego użycia GMM. W sprawach o czyny, o których mowa w art. 65–65f, orzekanie następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247, z 2014 r. poz. 486, 579, 786 i 969 oraz z 2015 r. poz. 21.). ” ;
 
 - **50)** użyte w art. 36 ust. 2 pkt 1, art. 38 ust. 2, art. 41 ust. 1, art. 43 ust. 1 pkt 1, art. 44a ust. 2, art. 45, art. 46 oraz art. 57 ust. 1 w różnych przypadkach wyrazy „użytkownik GMO” zastępuje się użytym w odpowiednim przypadku wyrazem „użytkownik”;
-- **51)** użyty w art. 12 ust. 7, art. 13 ust. 1 pkt 2, art. 36a, art. 38, art. 39a ust. 1 i 3, art. 40 ust. 1, art. 44a ust. 2 i 4, art. 45 ust. 2, ust. 3 pkt 3 i ust. 4, art. 48 ust. 1 i art. 50 ust. 1 w różnych przypadkach wyraz „minister” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw środowiska”. W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2011 r. Nr 212, poz. 1263, z późn. zm.) wprowadza się następujące zmiany:
+- **51)** użyty w art. 12 ust. 7, art. 13 ust. 1 pkt 2, art. 36a, art. 38, art. 39a ust. 1 i 3, art. 40 ust. 1, art. 44a ust. 2 i 4, art. 45 ust. 2, ust. 3 pkt 3 i ust. 4, art. 48 ust. 1 i art. 50 ust. 1 w różnych przypadkach wyraz „minister” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw środowiska”. W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2011 r. Nr 212, poz. 1263, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 460 i 892 oraz z 2013 r. poz. 2.) wprowadza się następujące zmiany:
 - **1)** w art. 4 ust. 2 otrzymuje brzmienie: „
 
 2. Do zakresu działania Państwowej Inspekcji Sanitarnej w dziedzinie bieżącego nadzoru sanitarnego należy również:
@@ -1073,19 +1066,19 @@ art. 21 otrzymuje brzmienie:
 - **3)** organem właściwym w zakresie warunków dotyczących higieny pracy w zakładach inżynierii genetycznej. ” ;
 - **3)** w art. 36 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
-2a. Za czynności związane ze sprawdzeniem danych podanych we wniosku o wydanie zezwolenia na prowadzenie zakładu inżynierii genetycznej, wniosku o wydanie zgody na zamknięte użycie mikroorganizmów genetycznie zmodyfikowanych i wniosku o wydanie zgody na zamknięte użycie organizmów genetycznie zmodyfikowanych w zakresie warunków dotyczących higieny pracy, przeprowadzane na podstawie ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych, pobiera się opłaty w wysokości określonej w ust. 1, nawet jeżeli czynności związane ze sprawdzaniem tych danych nie wykazały naruszenia wymagań higienicznych i zdrowotnych. ” . W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2013 r. poz. 686 i 888 oraz z 2014 r. poz. 1101) w art. 2 w ust. 1 w pkt 1 lit. h otrzymuje brzmienie: „ przestrzegania przepisów ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2007 r. Nr 36, poz. 233, z 2009 r. Nr 18, poz. 97 oraz z 2015 r. poz. 277), w zakresie wymagań określonych w zezwoleniach na prowadzenie zakładu inżynierii genetycznej albo w zgodach na zamierzone uwolnienie organizmów genetycznie zmodyfikowanych do środowiska w zakresie postępowania z odpadami, w tym powstającymi podczas zamkniętego użycia organizmów genetycznie zmodyfikowanych oraz po zakończeniu zamierzonego uwolnienia organizmów genetycznie zmodyfikowanych do środowiska, ” . W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2013 r. poz. 743, z późn. zm.) w art. 28 w ust. 1 pkt 10 otrzymuje brzmienie: „
+2a. Za czynności związane ze sprawdzeniem danych podanych we wniosku o wydanie zezwolenia na prowadzenie zakładu inżynierii genetycznej, wniosku o wydanie zgody na zamknięte użycie mikroorganizmów genetycznie zmodyfikowanych i wniosku o wydanie zgody na zamknięte użycie organizmów genetycznie zmodyfikowanych w zakresie warunków dotyczących higieny pracy, przeprowadzane na podstawie ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych, pobiera się opłaty w wysokości określonej w ust. 1, nawet jeżeli czynności związane ze sprawdzaniem tych danych nie wykazały naruszenia wymagań higienicznych i zdrowotnych. ” . W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2013 r. poz. 686 i 888 oraz z 2014 r. poz. 1101) w art. 2 w ust. 1 w pkt 1 lit. h otrzymuje brzmienie: „ przestrzegania przepisów ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2007 r. Nr 36, poz. 233, z 2009 r. Nr 18, poz. 97 oraz z 2015 r. poz. 277), w zakresie wymagań określonych w zezwoleniach na prowadzenie zakładu inżynierii genetycznej albo w zgodach na zamierzone uwolnienie organizmów genetycznie zmodyfikowanych do środowiska w zakresie postępowania z odpadami, w tym powstającymi podczas zamkniętego użycia organizmów genetycznie zmodyfikowanych oraz po zakończeniu zamierzonego uwolnienia organizmów genetycznie zmodyfikowanych do środowiska, ” . W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2013 r. poz. 743, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 oraz z 2014 r. poz. 496, 829, 915, 932 i 1533.) w art. 28 w ust. 1 pkt 10 otrzymuje brzmienie: „
 
 - **h)**
 - **10)** mikroorganizmów genetycznie zmodyfikowanych oraz organizmów genetycznie zmodyfikowanych, z wyjątkiem spraw związanych z wydawaniem zezwoleń na wprowadzenie do obrotu żywności i środków farmaceutycznych oraz spraw organizmów genetycznie zmodyfikowanych przeznaczonych do użytku paszowego i pasz genetycznie zmodyfikowanych w zakresie niektórych zadań lub czynności określonych właściwymi przepisami. ” . W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2014 r. poz. 148 i 1101) w art. 3 w ust. 1 po pkt 2d dodaje się pkt 2e i 2f w brzmieniu: „
 - **2e)** kontrola znakowania wprowadzonych do obrotu produktów GMO w rozumieniu ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2007 r. Nr 36, poz. 233, z 2009 r. Nr 18, poz. 97 oraz z 2015 r. poz. 277), przeznaczonych dla konsumentów, w tym pobieranie próbek i badanie próbek tych produktów w celu identyfikacji w tych produktach organizmów genetycznie zmodyfikowanych;
-- **2f)** kontrola znakowania genetycznie zmodyfikowanej żywności w zakresie wymagań określonych w rozporządzeniu (WE) nr 1829/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. w sprawie genetycznie zmodyfikowanej żywności i paszy (Dz. Urz. UE L 268 z 18.10.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 432) oraz rozporządzeniu (WE) nr 1830/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. dotyczącym możliwości śledzenia i etykietowania organizmów zmodyfikowanych genetycznie oraz możliwości śledzenia żywności i produktów paszowych wyprodukowanych z organizmów zmodyfikowanych genetycznie i zmieniającym dyrektywę 2001/18/WE (Dz. Urz. UE L 268 z 18.10.2003, str. 24, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 455), w obrocie detalicznym, w tym pobieranie i badanie próbek żywności w celu identyfikacji w niej organizmów genetycznie zmodyfikowanych; ” . W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.) wprowadza się następujące zmiany:
+- **2f)** kontrola znakowania genetycznie zmodyfikowanej żywności w zakresie wymagań określonych w rozporządzeniu (WE) nr 1829/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. w sprawie genetycznie zmodyfikowanej żywności i paszy (Dz. Urz. UE L 268 z 18.10.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 432) oraz rozporządzeniu (WE) nr 1830/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. dotyczącym możliwości śledzenia i etykietowania organizmów zmodyfikowanych genetycznie oraz możliwości śledzenia żywności i produktów paszowych wyprodukowanych z organizmów zmodyfikowanych genetycznie i zmieniającym dyrektywę 2001/18/WE (Dz. Urz. UE L 268 z 18.10.2003, str. 24, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 455), w obrocie detalicznym, w tym pobieranie i badanie próbek żywności w celu identyfikacji w niej organizmów genetycznie zmodyfikowanych; ” . W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122 i 151.) wprowadza się następujące zmiany:
 - **1)** w art. 127 w ust. 2 pkt 8 otrzymuje brzmienie: „
 - **8)** nadzorowanie zamierzonego uwolnienia GMO do środowiska i wprowadzenia do obrotu w rozumieniu przepisów ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2007 r. Nr 36, poz. 233, z 2009 r. Nr 18, poz. 97 oraz z 2015 r. poz. 277). ” ;
 - **2)** art. 165 otrzymuje brzmienie: „
 
 **Art. 165.** Szczegółowe zasady postępowania z substancjami chemicznymi, zasady zamierzonego uwalniania GMO do środowiska oraz zasady ich wprowadzania do obrotu określają przepisy odrębne. ” .
 
-**Art. 7.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.) po art. 14 dodaje się art. 14a w brzmieniu: „ 1. W przypadku produktu leczniczego składającego się z organizmu genetycznie zmodyfikowanego w rozumieniu przepisów ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2007 r. Nr 36, poz. 233, z 2009 r. Nr 18, poz. 97 oraz z 2015 r. poz. 277) lub zawierającego taki organizm, podmiot odpowiedzialny do wniosku, o którym mowa w art. 10, dołącza również raport oceny ryzyka związanego ze stosowaniem produktu leczniczego zawierającego lub składającego się z organizmu genetycznie zmodyfikowanego. 2. Raport zawiera:
+**Art. 7.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28.) po art. 14 dodaje się art. 14a w brzmieniu: „ 1. W przypadku produktu leczniczego składającego się z organizmu genetycznie zmodyfikowanego w rozumieniu przepisów ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2007 r. Nr 36, poz. 233, z 2009 r. Nr 18, poz. 97 oraz z 2015 r. poz. 277) lub zawierającego taki organizm, podmiot odpowiedzialny do wniosku, o którym mowa w art. 10, dołącza również raport oceny ryzyka związanego ze stosowaniem produktu leczniczego zawierającego lub składającego się z organizmu genetycznie zmodyfikowanego. 2. Raport zawiera:
 
 - **1)** opis produktu leczniczego;
 - **2)** kopię zgody ministra właściwego do spraw środowiska lub kopię zezwolenia wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego w sprawie zamierzonego uwolnienia organizmu genetycznie zmodyfikowanego do środowiska;
@@ -1105,23 +1098,23 @@ art. 21 otrzymuje brzmienie:
 
 **Art. 8.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2014 r. poz. 1417 oraz z 2015 r. poz. 28) w art. 16 w ust. 1 w pkt 8 lit. d otrzymuje brzmienie: „
 
-art. 58–61 i art. 64 ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2007 r. Nr 36, poz. 233, z 2009 r. Nr 18, poz. 97 oraz z 2015 r. poz. 277), ” . W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, z późn. zm.) w art. 75 w ust. 1 pkt 15 otrzymuje brzmienie: „
+art. 58–61 i art. 64 ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2007 r. Nr 36, poz. 233, z 2009 r. Nr 18, poz. 97 oraz z 2015 r. poz. 277), ” . W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650, z 2014 r. poz. 822, 1133, 1138, 1146 i 1885 oraz z 2015 r. poz. 222 i 266.) w art. 75 w ust. 1 pkt 15 otrzymuje brzmienie: „
 
 - **d)**
-- **15)** ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2007 r. Nr 36, poz. 233, z 2009 r. Nr 18, poz. 97 oraz z 2015 r. poz. 277), w zakresie prowadzenia zakładu inżynierii genetycznej; ” . W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2014 r. poz. 1628, z późn. zm.) w załączniku do ustawy w części III ust. 36 otrzymuje brzmienie: 1 2 3 4 36. Zgody i zezwolenia wydawane na podstawie przepisów o mikroorganizmach i organizmach genetycznie zmodyfikowanych: zgoda i zezwolenie wydawane jednostkom naukowym, o których mowa w art. 2 pkt 9 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. Nr 96, poz. 615, z późn. zm.) 1) zgoda na zamknięte użycie mikroorganizmów genetycznie zmodyfikowanych 3466 zł 2) zgoda na zamknięte użycie organizmów genetycznie zmodyfikowanych 3466 zł 3) zgoda na zamierzone uwolnienie organizmów genetycznie zmodyfikowanych do środowiska 3466 zł 4) zezwolenie na wprowadzenie produktu GMO do obrotu 3466 zł 5) zezwolenie na prowadzenie zakładu inżynierii genetycznej 3 466 zł W ustawie z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. z 2014 r. poz. 1789) w art. 3 w ust. 1 pkt 5 otrzymuje brzmienie: „
+- **15)** ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2007 r. Nr 36, poz. 233, z 2009 r. Nr 18, poz. 97 oraz z 2015 r. poz. 277), w zakresie prowadzenia zakładu inżynierii genetycznej; ” . W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2014 r. poz. 1628, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1741 i 1863 oraz z 2015 r. poz. 222.) w załączniku do ustawy w części III ust. 36 otrzymuje brzmienie: 1 2 3 4 36. Zgody i zezwolenia wydawane na podstawie przepisów o mikroorganizmach i organizmach genetycznie zmodyfikowanych: zgoda i zezwolenie wydawane jednostkom naukowym, o których mowa w art. 2 pkt 9 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. Nr 96, poz. 615, z późn. zm.) 1) zgoda na zamknięte użycie mikroorganizmów genetycznie zmodyfikowanych 3466 zł 2) zgoda na zamknięte użycie organizmów genetycznie zmodyfikowanych 3466 zł 3) zgoda na zamierzone uwolnienie organizmów genetycznie zmodyfikowanych do środowiska 3466 zł 4) zezwolenie na wprowadzenie produktu GMO do obrotu 3466 zł 5) zezwolenie na prowadzenie zakładu inżynierii genetycznej 3 466 zł W ustawie z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. z 2014 r. poz. 1789) w art. 3 w ust. 1 pkt 5 otrzymuje brzmienie: „
 - **5)** z zakresu ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2007 r. Nr 36, poz. 233, z 2009 r. Nr 18, poz. 97 oraz z 2015 r. poz. 277): zamknięte użycie mikroorganizmów genetycznie zmodyfikowanych, zamknięte użycie organizmów genetycznie zmodyfikowanych, zamierzone uwolnienie organizmów genetycznie zmodyfikowanych do środowiska, wprowadzanie do obrotu; ” .
     - **a)**
     - **b)**
     - **c)**
     - **d)**
 
-**Art. 12.** W ustawie z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2012 r. poz. 404, z późn. zm.) w art. 10 w ust. 1 pkt 9 otrzymuje brzmienie: „
+**Art. 12.** W ustawie z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2012 r. poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 769 i 1544 oraz z 2014 r. poz. 598 i 768.) w art. 10 w ust. 1 pkt 9 otrzymuje brzmienie: „
 
 - **9)** kontrola: przestrzegania wymagań bezpieczeństwa i higieny pracy, o których mowa w ustawie z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2007 r. Nr 36, poz. 233, z 2009 r. Nr 18, poz. 97 oraz z 2015 r. poz. 277) oraz określonych w zezwoleniach na prowadzenie zakładów inżynierii genetycznej i w zgodach na zamknięte użycie mikroorganizmów genetycznie zmodyfikowanych oraz w zgodach na zamknięte użycie organizmów genetycznie zmodyfikowanych, w tym w zakresie: – oznakowania zakładu inżynierii genetycznej lub jego części, – środków bezpieczeństwa związanych z daną kategorią zamkniętego użycia, – urządzeń używanych podczas zamkniętego użycia w odniesieniu do danej kategorii zamkniętego użycia określonej w zezwoleniu na prowadzenie zakładu inżynierii genetycznej oraz w zgodzie na zamknięte użycie, prowadzonej dokumentacji dotyczącej zamkniętego użycia mikroorganizmów genetycznie zmodyfikowanych lub organizmów genetycznie zmodyfikowanych przeprowadzanego w zakładzie inżynierii genetycznej, jeżeli dokumentacja ta zawiera informacje mające związek z bezpieczeństwem i higieną pracy; ” .
     - **a)**
     - **b)**
 
-**Art. 13.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 13.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200.) wprowadza się następujące zmiany:
 
 - **1)** w art. 21 w ust. 2 pkt 30 otrzymuje brzmienie: „
 - **30)** o rejestrach, o których mowa w art. 6b, art. 15v, art. 34, art. 40 i art. 50 ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2007 r. Nr 36, poz. 233, z 2009 r. Nr 18, poz. 97 oraz z 2015 r. poz. 277); ” ;
@@ -1152,5 +1145,5 @@ art. 58–61 i art. 64 ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i org
 
 3. Minister właściwy do spraw środowiska nada wewnętrzny regulamin Komisji do spraw Mikroorganizmów i Organizmów Genetycznie Zmodyfikowanych, o której mowa w art. 12 ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 18.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 18.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej, ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary, ustawę z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie, ustawę z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy oraz ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko. 2) Niniejsza ustawa: 1) wykonuje postanowienia: a) rozporządzenia (WE) nr 1946/2003 Parlamentu Europejskiego i Rady z dnia 15 lipca 2003 r. w sprawie transgranicznego przemieszczania organizmów genetycznie zmodyfikowanych (Dz. Urz. UE L 287 z 05.11.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 650), b) rozporządzenia (WE) nr 1830/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. dotyczącego możliwości śledzenia i etykietowania organizmów zmodyfikowanych genetycznie oraz możliwości śledzenia żywności i produktów paszowych wyprodukowanych z organizmów zmodyfikowanych genetycznie i zmieniającego dyrektywę 2001/18/WE (Dz. Urz. UE L 268 z 18.10.2003, str. 24, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 455), c) rozporządzenia Komisji (WE) nr 1981/2006 z dnia 22 grudnia 2006 r. ustalającego szczegółowe zasady wykonania przepisów art. 32 rozporządzenia (WE) nr 1829/2003 Parlamentu Europejskiego i Rady w odniesieniu do wspólnotowego laboratorium referencyjnego dla organizmów zmodyfikowanych genetycznie (Dz. Urz. UE L 368 z 23.12.2006, str. 99, z późn. zm.); 2) uzupełnia wdrażanie postanowień: a) dyrektywy Parlamentu Europejskiego i Rady 2001/18/WE z dnia 12 marca 2001 r. w sprawie zamierzonego uwalniania do środowiska organizmów zmodyfikowanych genetycznie i uchylającej dyrektywę Rady 90/220/EWG (Dz. Urz. WE L 106 z 17.04.2001, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 77), b) dyrektywy Parlamentu Europejskiego i Rady 2009/41/WE z dnia 6 maja 2009 r. w sprawie ograniczonego stosowania mikroorganizmów zmodyfikowanych genetycznie (Dz. Urz. UE L 125 z 21.05.2009, str. 75). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 230, poz. 1511, z 2011 r. Nr 106, poz. 622, Nr 122, poz. 696 i Nr 171, poz. 1016, z 2014 r. poz. 1662 i 1722 oraz z 2015 r. poz. 35. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247, z 2014 r. poz. 486, 579, 786 i 969 oraz z 2015 r. poz. 21. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 460 i 892 oraz z 2013 r. poz. 2. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 oraz z 2014 r. poz. 496, 829, 915, 932 i 1533. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122 i 151. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650, z 2014 r. poz. 822, 1133, 1138, 1146 i 1885 oraz z 2015 r. poz. 222 i 266. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1741 i 1863 oraz z 2015 r. poz. 222. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 769 i 1544 oraz z 2014 r. poz. 598 i 768. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Przewodniczącego Krajowej Rady Radiofonii i Telewizjiz dnia 22 listopada 2013 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Krajowej Rady Radiofonii i Telewizji w sprawie sposobu prowadzenia w programach radiowych i telewizyjnych działalności reklamowej i telesprzedaży
+# Obwieszczenie Przewodniczącego Krajowej Rady Radiofonii i Telewizjiz dnia 22 listopada 2013 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Krajowej Rady Radiofonii i Telewizji w sprawie sposobu prowadzenia w programach radiowych i telewizyjnych działalności reklamowej i telesprzedaży W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6.
 
 | Pole | Wartość |
 |---|---|
@@ -38,19 +38,15 @@ rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 18 grudnia 2012 r. 
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 6 marca 2012 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia w programach radiowych i telewizyjnych działalności reklamowej i telesprzedaży (Dz. U. poz. 295), który stanowi:
-„
+§ 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 6 marca 2012 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia w programach radiowych i telewizyjnych działalności reklamowej i telesprzedaży (Dz. U. poz. 295), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 18 grudnia 2012 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia w programach radiowych i telewizyjnych działalności reklamowej i telesprzedaży (Dz. U. z 2013 r. poz. 48), który stanowi:
-„
+§ 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 18 grudnia 2012 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia w programach radiowych i telewizyjnych działalności reklamowej i telesprzedaży (Dz. U. z 2013 r. poz. 48), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Tekst jednolity rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 30 czerwca 2011 r. w sprawie sposobu prowadzenia w programach radiowych i telewizyjnych działalności reklamowej i telesprzedaży
-Na podstawie art. 16 ust. 7 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 16 ust. 7 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 85, poz. 459, Nr 112, poz. 654, Nr 153, poz. 903 i Nr 160, poz. 963 oraz z 2012 r. poz. 1209 i 1315.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -86,9 +82,9 @@ Reklama lub telesprzedaż na podzielonym ekranie powinny być w wyraźny sposób
 Przekazy, o których mowa w ust. 1, oznacza się zgodnie z zasadami określonymi w § 3 ust. 2–4.
 3.
 Podczas emisji przekazu, o którym mowa w ust. 1, część ekranu zajmowana przez reklamę lub telesprzedaż nie może zajmować więcej niż 25% powierzchni ekranu.
-§ 5.
+§ 5W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 6 marca 2012 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia w programach radiowych i telewizyjnych działalności reklamowej i telesprzedaży (Dz. U. poz. 295), które weszło w życie z dniem 4 kwietnia 2012 r..
 1.
-W przypadku rozpowszechniania w programie telewizyjnym przekazu handlowego dotyczącego loterii audioteksowych, o których mowa w art. 2 ust. 1 pkt 11 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. Nr 201, poz. 1540, z późn. zm.), oraz przekazu handlowego dotyczącego publicznie dostępnej usługi telekomunikacyjnej obejmującej usługę telekomunikacyjną z dodatkowym świadczeniem, o której mowa w art. 64 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.):
+W przypadku rozpowszechniania w programie telewizyjnym przekazu handlowego dotyczącego loterii audioteksowych, o których mowa w art. 2 ust. 1 pkt 11 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. Nr 201, poz. 1540, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 857, z 2011 r. Nr 106, poz. 622 i Nr 134, poz. 779 oraz z 2013 r. poz. 1036.), oraz przekazu handlowego dotyczącego publicznie dostępnej usługi telekomunikacyjnej obejmującej usługę telekomunikacyjną z dodatkowym świadczeniem, o której mowa w art. 64 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716, z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 229, poz. 1499 i Nr 238, poz. 1578, z 2011 r. Nr 102, poz. 586 i 587, Nr 134, poz. 779, Nr 153, poz. 903, Nr 171, poz. 1016, Nr 233, poz. 1381 i Nr 234, poz. 1390, z 2012 r. poz. 908, 1203, 1256, 1445 i 1529 oraz z 2013 r. poz. 1635.):
 1)
 napis informujący o cenie za jednostkę rozliczeniową usługi albo cenie za połączenie, w przypadku usługi taryfikowanej za całe połączenie, ze wskazaniem ceny brutto oraz o nazwie podmiotu realizującego dodatkowe świadczenie umieszcza się każdorazowo podczas całego czasu rozpowszechniania informacji zawierającej numer usługi;
 2)
@@ -104,7 +100,7 @@ rodzaju i koloru wypełnienia liter.
 2.
 W przypadku rozpowszechniania w programie radiowym przekazów handlowych, o których mowa w ust. 1, komunikat informujący o cenie za jednostkę rozliczeniową usługi albo cenie za połączenie, w przypadku usługi taryfikowanej za całe połączenie, ze wskazaniem ceny brutto oraz o nazwie podmiotu realizującego dodatkowe świadczenie, czytany przez lektora, umieszcza się bezpośrednio przed lub po komunikacie zawierającym numer telefonu.
 § 6.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Ogłoszenia nadawców telewizyjnych, o których mowa w art. 16 ust. 4 pkt 1 i 2 ustawy, powinny być wyodrębnione od innych części programu oraz przekazów handlowych i oznaczone w sposób wizualny komunikatem „ogłoszenie nadawcy”.
 2.
 Ogłoszenia nadawców radiowych, o których mowa w art. 16 ust. 4 pkt 1 i 2 ustawy, powinny być oznaczone dźwiękowo w sposób niebudzący wątpliwości, że pochodzą od nadawcy, oraz wyodrębnione od innych części programu i przekazów handlowych.
@@ -118,7 +114,7 @@ Nadawca, nadając reklamy lub telesprzedaż, w programie powinien uwzględnić c
 W reklamach, z wyłączeniem autopromocji, zakazane jest wykorzystywanie głosu lub wizerunku osób, które prowadziły audycje informacyjne, publicystyczne lub audycje dla dzieci w programach radiowych lub telewizyjnych w okresie krótszym niż 3 miesiące przed nadaniem reklamy.
 § 9.
 Nadawca nie może udostępnić więcej niż 35% czasu wykorzystywanego na reklamy i telesprzedaż w okresie jednego roku na reklamę i telesprzedaż produktów i usług jednego przedsiębiorcy lub ugrupowania gospodarczego.
-§ 10.
+§ 10W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 18 grudnia 2012 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia w programach radiowych i telewizyjnych działalności reklamowej i telesprzedaży (Dz. U. z 2013 r. poz. 48), które weszło w życie z dniem 26 stycznia 2013 r..
 1.
 Poziom głośności reklam i telesprzedaży emitowanych w trakcie audycji lub bezpośrednio po niej nie może przekroczyć poziomu głośności tej audycji.
 2.
@@ -147,7 +143,7 @@ Nadawca przechowuje ewidencję, o której mowa w ust. 1, przez okres 1 roku od z
 § 12.
 Traci moc rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 3 czerwca 2004 r. w sprawie sposobu prowadzenia działalności reklamowej i telesprzedaży w programach radiowych i telewizyjnych (Dz. U. Nr 148, poz. 1565 oraz z 2010 r. Nr 3, poz. 20).
 § 13.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 22 lipca 2011 r.. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 85, poz. 459, Nr 112, poz. 654, Nr 153, poz. 903 i Nr 160, poz. 963 oraz z 2012 r. poz. 1209 i 1315. 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 6 marca 2012 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia w programach radiowych i telewizyjnych działalności reklamowej i telesprzedaży (Dz. U. poz. 295), które weszło w życie z dniem 4 kwietnia 2012 r. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 857, z 2011 r. Nr 106, poz. 622 i Nr 134, poz. 779 oraz z 2013 r. poz. 1036. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716, z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 229, poz. 1499 i Nr 238, poz. 1578, z 2011 r. Nr 102, poz. 586 i 587, Nr 134, poz. 779, Nr 153, poz. 903, Nr 171, poz. 1016, Nr 233, poz. 1381 i Nr 234, poz. 1390, z 2012 r. poz. 908, 1203, 1256, 1445 i 1529 oraz z 2013 r. poz. 1635. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 18 grudnia 2012 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia w programach radiowych i telewizyjnych działalności reklamowej i telesprzedaży (Dz. U. z 2013 r. poz. 48), które weszło w życie z dniem 26 stycznia 2013 r. 7) Rozporządzenie zostało ogłoszone w dniu 22 lipca 2011 r.
 Załącznik do rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 30 czerwca 2011 r.
 W celu ujednolicenia warunków nadawania w zakresie głośności emitowanych reklam i telesprzedaży nadawcy są obowiązani do emitowania reklam i telesprzedaży w taki sposób, aby wynik pomiaru głośności przeprowadzonego z zachowaniem procedury pomiarowej i warunków technicznych opracowanych przez Krajową Radę Radiofonii i Telewizji na podstawie zaleceń ITU: ITU-R BS. 1770–3, ITU-R BS. 1771–1 oraz EBU: R 128, EBU-TECH 3341 spełniał obowiązki określone w § 10 rozporządzenia.
 1.
@@ -191,5 +187,14 @@ w celu weryfikacji wypełniania obowiązków określonych w § 10 rozporządzeni
 5)
 zmierzone poziomy głośności audycji wyprodukowanej przed emisją i audycji emitowanej w czasie rzeczywistym bądź z wykorzystaniem pętli opóźniającej oraz poziom głośności reklam i telesprzedaży porównuje się.
 3.
-Sygnały testowe do kalibracji systemu pomiarowego Nadawca obowiązany jest emitować sygnał zgodny z opisanymi w poniższej tabeli sygnałami testowymi, przeznaczonymi do kalibracji systemu pomiarowego wraz z oczekiwaną wartością uśrednionego poziomu głośności (I) w jednostkach LU i LUFS. Lp. Sygnał testowy Oczekiwany wynik oraz akceptowane tolerancje 1 Sygnał 1 kHz, stereo, -23,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -23,0 ±0,1 LUFSI = 0,0 ±0,1 LU 2 Sygnał 1 kHz, stereo, -33,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -33,0 ±0,1 LUFSI = -10,0 ±0,1 LU 3 Sygnały 1 kHz, stereo, -36,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 10 s; -23,0 dBFS, czas trwania 60 s; -36,0 dBFS, czas trwania 10 s I = -23,0 ±0,1 LUFSI = 0,0 ±0,1 LU 4 Sygnały 1 kHz, stereo, -75,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 10 s; -36,0 dBFS, czas trwania 10 s; -23,0 dBFS, czas trwania 60 s; -36,0 dBFS, czas trwania 10 s; -75,0 dBFS, czas trwania 10 s I = -23,0 ±0,1 LUFSI = 0,0 ±0,1 LU 5 Sygnały 1 kHz, stereo, -26,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s; -20,0 dBFS, czas trwania 20 s; -26,0 dBFS, czas trwania 20 s I = -23,0 ±0,1 LUFSI = 0,0 ±0,1 LU 6 Sygnał 1 kHz, stereo, -20,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -20,0 ±0,1 LUFSI = 3,0 ±0,1 LU 7 Sygnał 1 kHz, stereo, -26,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -26,0 ±0,1 LUFSI = -3,0 ±0,1 LU 8 Sygnał 1 kHz, stereo, -40,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -40,0 ±0,1 LUFSI = -17,0 ±0,1 LU
+Sygnały testowe do kalibracji systemu pomiarowego Nadawca obowiązany jest emitować sygnał zgodny z opisanymi w poniższej tabeli sygnałami testowymi, przeznaczonymi do kalibracji systemu pomiarowego wraz z oczekiwaną wartością uśrednionego poziomu głośności (I) w jednostkach LU i LUFS.
+Lp. Sygnał testowy Oczekiwany wynik oraz akceptowane tolerancje 1 Sygnał 1 kHz, stereo, -23,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -23,0 ±0,1 LUFS
+I = 0,0 ±0,1 LU 2 Sygnał 1 kHz, stereo, -33,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -33,0 ±0,1 LUFS
+I = -10,0 ±0,1 LU 3 Sygnały 1 kHz, stereo, -36,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 10 s; -23,0 dBFS, czas trwania 60 s; -36,0 dBFS, czas trwania 10 s I = -23,0 ±0,1 LUFS
+I = 0,0 ±0,1 LU 4 Sygnały 1 kHz, stereo, -75,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 10 s; -36,0 dBFS, czas trwania 10 s; -23,0 dBFS, czas trwania 60 s; -36,0 dBFS, czas trwania 10 s; -75,0 dBFS, czas trwania 10 s I = -23,0 ±0,1 LUFS
+I = 0,0 ±0,1 LU 5 Sygnały 1 kHz, stereo, -26,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s; -20,0 dBFS, czas trwania 20 s; -26,0 dBFS, czas trwania 20 s I = -23,0 ±0,1 LUFS
+I = 0,0 ±0,1 LU 6 Sygnał 1 kHz, stereo, -20,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -20,0 ±0,1 LUFS
+I = 3,0 ±0,1 LU 7 Sygnał 1 kHz, stereo, -26,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -26,0 ±0,1 LUFS
+I = -3,0 ±0,1 LU 8 Sygnał 1 kHz, stereo, -40,0 dBFS (poziom szczytowy każdego z kanałów, sygnał w tej samej fazie jednocześnie w obu kanałach), czas trwania 20 s I = -40,0 ±0,1 LUFS
+I = -17,0 ±0,1 LU
 

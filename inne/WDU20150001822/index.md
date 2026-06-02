@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-23 |
 | Data wydania | 2015-11-06 |
-| Wejście w życie | 2015-11-21 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001822) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1822/text.pdf) |
 
@@ -55,8 +54,7 @@ Załatwianie spraw związanych z przyznawaniem pomocy, w tym dokonywanie czynno�
 1)
 pracowników urzędu marszałkowskiego albo
 2)
-wojewódzką samorządową jednostkę organizacyjną, zwaną dalej „samorządową jednostką”
-upoważnionych przez zarząd województwa.
+wojewódzką samorządową jednostkę organizacyjną, zwaną dalej „samorządową jednostką” – upoważnionych przez zarząd województwa.
 3.
 W przypadku udzielenia upoważnienia, o którym mowa w ust. 2, samorządowej jednostce, zarząd województwa podaje informację o udzieleniu takiego upoważnienia na stronie internetowej urzędu marszałkowskiego i na stronie internetowej samorządowej jednostki.
 § 5.
@@ -66,8 +64,7 @@ Wniosek o przyznanie pomocy składa się w:
 1)
 urzędzie marszałkowskim albo
 2)
-samorządowej jednostce
-samorządu województwa, z którym jest zawarta umowa ramowa.
+samorządowej jednostce – samorządu województwa, z którym jest zawarta umowa ramowa.
 § 7.
 Wniosek o przyznanie pomocy zawiera w szczególności:
 1)
@@ -187,8 +184,7 @@ Wniosek o płatność składa się w:
 1)
 urzędzie marszałkowskim albo
 2)
-samorządowej jednostce
-samorządu województwa, z którym jest zawarta umowa.
+samorządowej jednostce – samorządu województwa, z którym jest zawarta umowa.
 2.
 Do wniosku o płatność dołącza się dokumenty niezbędne do wypłaty środków finansowych z tytułu pomocy, potwierdzające spełnienie warunków wypłaty pomocy, których wykaz zawiera formularz wniosku o płatność.
 3.

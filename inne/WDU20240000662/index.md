@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 29 kwietnia 2024 r. w sprawie programu pilotażowego w zakresie usług farmaceuty dotyczących zdrowia reprodukcyjnego
+# Rozporządzenie Ministra Zdrowiaz dnia 29 kwietnia 2024 r. w sprawie programu pilotażowego w zakresie usług farmaceuty dotyczących zdrowia reprodukcyjnego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-29 |
 | Data wydania | 2024-04-29 |
-| Wejście w życie | 2024-05-01 |
 | Ostatnia zmiana | 2024-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000662) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/662/text.pdf) |
 
@@ -45,8 +44,7 @@ Celem programu pilotażowego jest:
 1)
 poprawa stanu dostępności pacjentów do nowoczesnych metod antykoncepcji awaryjnej,
 2)
-zapewnienie w aptece usług w zakresie zdrowia reprodukcyjnego pacjenta
-wraz z oceną efektywności związanych z tym działań, w szczególności wobec pacjentów między 15. a 18. rokiem życia.
+zapewnienie w aptece usług w zakresie zdrowia reprodukcyjnego pacjenta – wraz z oceną efektywności związanych z tym działań, w szczególności wobec pacjentów między 15. a 18. rokiem życia.
 § 4.
 1.
 Pogram pilotażowy obejmuje etapy:
@@ -203,8 +201,7 @@ zmiana liczby i odsetka przypadków, w których recepty na produkt leczniczy by�
 a)
 art. 42 ust. 1 lub 2 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2023 r. poz. 1516, 1617, 1831 i 1972),
 b)
-niniejszego rozporządzenia
-w porównaniu z okresem 1 roku poprzedzającego realizację programu pilotażowego;
+niniejszego rozporządzenia – w porównaniu z okresem 1 roku poprzedzającego realizację programu pilotażowego;
 8)
 liczba i odsetek przypadków, w których informacje, o których mowa w § 11 ust. 2, objęły oceny wyższe niż 3;
 9)
@@ -216,6 +213,5 @@ Fundusz przekazuje raport zawierający informacje, o których mowa w § 4 ust. 2
 § 15.
 Podmiotem obowiązanym do wdrożenia, finansowania, monitorowania i ewaluacji programu pilotażowego jest Fundusz.
 § 16.
-Rozporządzenie wchodzi w życie z dniem 1 maja 2024 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie z dniem 1 maja 2024 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

@@ -26,15 +26,35 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001512) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1512/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny Rozdział 1 – Przepisy ogólne Rozdział 2 – Prawo do posiadania Karty Rozdział 3 – Postępowanie w sprawie przyznania Karty Rozdział 4 – Przyznanie uprawnień przysługujących na podstawie Karty Rozdział 5 – Zasady finansowania zadań wynikających z ustawy Rozdział 6 – Zmiany w przepisach obowiązujących Rozdział 7 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny (Dz. U. z 2023 r. poz. 2424), z uwzględnieniem zmian wprowadzonych ustawą z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 października 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 88 ustawy z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 88 ustawy z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858), który stanowi: „
+Przepisy ogólne
+Prawo do posiadania Karty
+Postępowanie w sprawie przyznania Karty
+Przyznanie uprawnień przysługujących na podstawie Karty
+Zasady finansowania zadań wynikających z ustawy
+Zmiany w przepisach obowiązujących
 Art. 31–35.
 (pominięte)
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Prawo do posiadania Karty
+
+#### Rozdział 3 – Postępowanie w sprawie przyznania Karty
+
+#### Rozdział 4 – Przyznanie uprawnień przysługujących na podstawie Karty
+
+#### Rozdział 5 – Zasady finansowania zadań wynikających z ustawy
+
+#### Rozdział 6 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 7 – Przepisy przejściowe i końcowe
 
 **Art. 88.** Ustawa wchodzi w życie z dniem 1 października 2024 r., z wyjątkiem:
 
@@ -43,7 +63,7 @@ Art. 31–35.
 - **3)** art. 68 pkt 7 lit. a tiret pierwsze, pkt 8, pkt 9, pkt 10 lit. a tiret pierwsze i pkt 11, art. 76 i art. 77, które wchodzą w życie z dniem 1 czerwca 2025 r.;
 - **4)** art. 68 pkt 4, pkt 15 lit. b, pkt 16 lit. b, pkt 17 lit. a i pkt 18 lit. d oraz art. 83, które wchodzą w życie z dniem 1 stycznia 2026 r. ” . Załącznik – Tekst jednolity ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -54,13 +74,13 @@ Art. 31–35.
 **Art. 2.** Karta jest środkiem identyfikującym członka rodziny wielodzietnej, poświadczającym prawo członka rodziny wielodzietnej do uprawnień ustalonych w trybie określonym w niniejszej ustawie lub przyznanych na podstawie przepisów odrębnych:
 
 - **1)** wydawanym w formie dokumentu z tworzywa sztucznego, zwanym dalej „kartą tradycyjną”, lub
-- **2)** realizowanym przy użyciu: oprogramowania dedykowanego dla urządzeń mobilnych, zawierającego usługi ułatwiające korzystanie z przyznanych uprawnień, udostępnionego przez ministra właściwego do spraw rodziny lub wskazanego w informacji zamieszczonej w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw rodziny lub aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275), zwanej dalej „aplikacją mObywatel”, na podstawie porozumienia między ministrem właściwym do spraw rodziny a ministrem właściwym do spraw informatyzacji zwanym dalej „kartą elektroniczną”.
+- **2)** realizowanym przy użyciu: oprogramowania dedykowanego dla urządzeń mobilnych, zawierającego usługi ułatwiające korzystanie z przyznanych uprawnień, udostępnionego przez ministra właściwego do spraw rodziny lub wskazanego w informacji zamieszczonej w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw rodziny lub aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275), zwanej dalej „aplikacją mObywatel”, na podstawie porozumienia między ministrem właściwym do spraw rodziny a ministrem właściwym do spraw informatyzacji – zwanym dalej „kartą elektroniczną”.
     - **a)**
     - **b)**
 
 **Art. 3.** Ilekroć w ustawie jest mowa o wójcie, należy przez to rozumieć także burmistrza oraz prezydenta miasta.
 
-#### Rozdział 2 Prawo do posiadania Karty
+#### Rozdział 2
 
 **Art. 4.**
 
@@ -77,7 +97,7 @@ Art. 31–35.
 2b. Prawo do posiadania Karty przysługuje odpowiednio dziecku:
 
 - **1)** w wieku do ukończenia 18. roku życia;
-- **2)** w wieku do ukończenia 25. roku życia – w przypadku gdy dziecko uczy się w: szkole – do dnia 30 września następującego po końcu roku szkolnego, szkole wyższej – do dnia 30 września roku w którym jest planowane ukończenie nauki zgodnie z oświadczeniem, o którym mowa w art. 10 ust. 4 pkt 4;
+- **2)** w wieku do ukończenia 25. roku życia – w przypadku gdy dziecko uczy się w: szkole – do dnia 30 września następującego po końcu roku szkolnego, szkole wyższej – do dnia 30 września roku – w którym jest planowane ukończenie nauki zgodnie z oświadczeniem, o którym mowa w art. 10 ust. 4 pkt 4;
     - **a)**
     - **b)**
 
@@ -111,7 +131,7 @@ Art. 31–35.
 
 **Art. 8.** W przypadku zbiegu praw do posiadania Karty członkowi rodziny wielodzietnej przyznaje się jedną Kartę.
 
-#### Rozdział 3 Postępowanie w sprawie przyznania Karty
+#### Rozdział 3
 
 **Art. 9.**
 
@@ -176,7 +196,7 @@ Art. 31–35.
 9. Wójt ustalający prawo do Karty jest obowiązany do samodzielnego uzyskania lub weryfikacji:
 
 - **1)** drogą elektroniczną, za pośrednictwem ministra właściwego do spraw rodziny, lub drogą pisemną, z rejestrów publicznych, w tym z rejestru PESEL, o którym mowa w przepisach o ewidencji ludności,
-- **2)** drogą elektroniczną, za pośrednictwem ministra właściwego do spraw rodziny z systemu informacji oświatowej, o którym mowa w przepisach o systemie informacji oświatowej odpowiednio informacji, o których mowa w art. 21 ust. 1 pkt 1, 2, 5, 7, 8, 8a, 10 i 11. Przedstawienie dokumentu potwierdzającego prawo do zamieszkania na terytorium Rzeczypospolitej Polskiej nie jest wymagane w przypadku, gdy wójt może bezpłatnie uzyskać dostęp do danych potwierdzających to prawo, dane te są mu znane z urzędu lub możliwe do ustalenia na podstawie danych, którymi rozporządza.
+- **2)** drogą elektroniczną, za pośrednictwem ministra właściwego do spraw rodziny z systemu informacji oświatowej, o którym mowa w przepisach o systemie informacji oświatowej – odpowiednio informacji, o których mowa w art. 21 ust. 1 pkt 1, 2, 5, 7, 8, 8a, 10 i 11. Przedstawienie dokumentu potwierdzającego prawo do zamieszkania na terytorium Rzeczypospolitej Polskiej nie jest wymagane w przypadku, gdy wójt może bezpłatnie uzyskać dostęp do danych potwierdzających to prawo, dane te są mu znane z urzędu lub możliwe do ustalenia na podstawie danych, którymi rozporządza.
 
 9a. Wniosek i dokumenty, o których mowa w ust. 4 i 5, mogą być składane drogą elektroniczną wyłącznie za pomocą systemu teleinformatycznego utworzonego przez ministra właściwego do spraw rodziny. Uwierzytelnianie użytkowników w tym systemie wymaga użycia profilu zaufanego, profilu osobistego, innego środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 422 i 1222), adekwatnie do poziomu bezpieczeństwa środka identyfikacji elektronicznej wymaganego dla usług świadczonych w tym systemie, danych weryfikowanych za pomocą kwalifikowanego certyfikatu podpisu elektronicznego, jeżeli te dane pozwalają na identyfikację i uwierzytelnienie wymagane w celu realizacji usługi online, albo innych technologii, jeżeli zostaną udostępnione w tym systemie.
 
@@ -234,7 +254,7 @@ Art. 31–35.
 
 1a. W przypadku gdy członkowi rodziny wielodzietnej, na jego wniosek, została już udostępniona karta elektroniczna i następnie członek rodziny wielodzietnej wnioskuje o wydanie karty tradycyjnej, wydanie Karty podlega opłacie w wysokości 10,00 zł.
 
-2. Wydanie duplikatu Karty podlega opłacie w wysokości 10,00 zł.
+2. Wydanie duplikatu Karty podlega opłacie w wysokości 10,00 złAktualną kwotę ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, minister właściwy do spraw rodziny, zgodnie z art. 30 ust. 3 niniejszej ustawy..
 
 3. Jeżeli zachodzą szczególnie uzasadnione okoliczności, w szczególności dotyczące sytuacji materialnej lub zdrowotnej rodziny wielodzietnej, wójt może, na umotywowany wniosek, zwolnić członka rodziny wielodzietnej z ponoszenia opłaty, o której mowa w ust. 1a lub 2.
 
@@ -255,7 +275,7 @@ Art. 31–35.
 
 - **1)** mających wpływ na prawo do posiadania Karty lub
 - **2)** danych zawartych w Karcie
-- **3)** (uchylony) członek rodziny wielodzietnej jest obowiązany do niezwłocznego powiadomienia o tym wójta, który przyznał Kartę.
+- **3)** (uchylony) – członek rodziny wielodzietnej jest obowiązany do niezwłocznego powiadomienia o tym wójta, który przyznał Kartę.
 
 2. W przypadku zmiany miejsca zamieszkania skutkującej zmianą gminy członek rodziny wielodzietnej jest obowiązany do niezwłocznego powiadomienia o tym wójta, który przyznał Kartę, chyba że członek rodziny wielodzietnej złożył wniosek o przyznanie nowej Karty w związku ze zmianą miejsca zamieszkania.
 
@@ -348,9 +368,9 @@ Art. 31–35.
 
 - **1)** Karty,
 - **2)** znaku „Tu honorujemy Kartę Dużej Rodziny”,
-- **3)** logo rodziny wielodzietnej uwzględniając konieczność odpowiedniego zabezpieczenia Karty oraz ujednolicenia procedur w sprawach o przyznanie Karty, a także mając na uwadze konieczność zapewnienia szerokiej rozpoznawalności logo rodziny wielodzietnej i znaku „Tu honorujemy Kartę Dużej Rodziny”.
+- **3)** logo rodziny wielodzietnej – uwzględniając konieczność odpowiedniego zabezpieczenia Karty oraz ujednolicenia procedur w sprawach o przyznanie Karty, a także mając na uwadze konieczność zapewnienia szerokiej rozpoznawalności logo rodziny wielodzietnej i znaku „Tu honorujemy Kartę Dużej Rodziny”.
 
-#### Rozdział 4 Przyznanie uprawnień przysługujących na podstawie Karty
+#### Rozdział 4
 
 **Art. 23.**
 
@@ -411,7 +431,7 @@ Art. 31–35.
 
 **Art. 28.** W przypadku gdy w gminie, powiecie lub województwie jest wprowadzony samorządowy program przyznający uprawnienia członkom rodzin wielodzietnych, gmina, powiat lub województwo może wykorzystać Kartę jako dokument potwierdzający uprawnienie do korzystania z wprowadzonych odpowiednio w gminie, powiecie lub województwie uprawnień dla członków rodzin wielodzietnych. Informacje o przyznanych przez jednostki samorządu terytorialnego uprawnieniach dla członków rodzin wielodzietnych jednostki te przekazują, za pomocą systemu teleinformatycznego, o którym mowa w art. 18 ust. 1 pkt 2, ministrowi właściwemu do spraw rodziny.
 
-#### Rozdział 5 Zasady finansowania zadań wynikających z ustawy
+#### Rozdział 5
 
 **Art. 29.**
 
@@ -421,11 +441,11 @@ Art. 31–35.
 
 3. Podziału dotacji celowej z budżetu państwa na poszczególne gminy dokonują wojewodowie.
 
-4. Koszt realizacji ustawy przez gminę za obsługę zadań gminy związanych z przyznawaniem Karty wynosi 17,00 zł  za jedną rodzinę wielodzietną w gminie.
+4. Koszt realizacji ustawy przez gminę za obsługę zadań gminy związanych z przyznawaniem Karty wynosi 17,00 zł Aktualną kwotę ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, minister właściwy do spraw rodziny, zgodnie z art. 30 ust. 3 niniejszej ustawy. za jedną rodzinę wielodzietną w gminie.
 
-5. W przypadku gdy po przyznaniu Kart członkom rodziny wielodzietnej zmieniła się liczba członków rodziny wielodzietnej skutkująca koniecznością przyznania kolejnej Karty lub w przypadku przyznania nowej Karty członkowi rodziny wielodzietnej, który był już posiadaczem Karty, lub w przypadku stwierdzenia utraty prawa do posiadania Karty, koszt realizacji ustawy przez gminę wynosi 4,00 zł  za przyznanie Karty.
+5. W przypadku gdy po przyznaniu Kart członkom rodziny wielodzietnej zmieniła się liczba członków rodziny wielodzietnej skutkująca koniecznością przyznania kolejnej Karty lub w przypadku przyznania nowej Karty członkowi rodziny wielodzietnej, który był już posiadaczem Karty, lub w przypadku stwierdzenia utraty prawa do posiadania Karty, koszt realizacji ustawy przez gminę wynosi 4,00 zł Aktualną kwotę ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, minister właściwy do spraw rodziny, zgodnie z art. 30 ust. 3 niniejszej ustawy. za przyznanie Karty.
 
-6. Koszt realizacji ustawy przez gminę za wydanie duplikatu Karty oraz wydanie karty tradycyjnej – w przypadku gdy członkowi rodziny wielodzietnej, na jego wniosek, została już udostępniona karta elektroniczna, wynosi 2,00 zł .
+6. Koszt realizacji ustawy przez gminę za wydanie duplikatu Karty oraz wydanie karty tradycyjnej – w przypadku gdy członkowi rodziny wielodzietnej, na jego wniosek, została już udostępniona karta elektroniczna, wynosi 2,00 zł Aktualną kwotę ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, minister właściwy do spraw rodziny, zgodnie z art. 30 ust. 3 niniejszej ustawy..
 
 7. (uchylony)
 
@@ -447,9 +467,9 @@ Art. 31–35.
 
 4. Pierwszą waloryzację przeprowadza się 1 marca 2016 r.
 
-#### Rozdział 6 Zmiany w przepisach obowiązujących
+#### Rozdział 6
 
-#### Rozdział 7 Przepisy przejściowe i końcowe
+#### Rozdział 7
 
 **Art. 36.**
 
@@ -502,15 +522,13 @@ Art. 31–35.
     - **c)**
     - **d)**
 
-- **9)** w 2025 r. – 204,5 mln zł, w tym: 15 mln zł na realizację ustawy przez gminy, 33,50 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, 145 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, 11 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
+- **9)** w 2025 r. – 204,5 mln zł, w tym: 15 mln zł na realizację ustawy przez gminy, bZe zmianą wprowadzoną przez art. 71 ustawy z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858), która weszła w życie z dniem 1 października 2024 r.) 33,50 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, 145 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, 11 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
     - **a)**
-    - **b)**
     - **c)**
     - **d)**
 
-- **10)** w 2026 r. – 215,5 mln zł, w tym: 15 mln zł na realizację ustawy przez gminy, 33,50 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, 155 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, 12 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
+- **10)** w 2026 r. – 215,5 mln zł, w tym: 15 mln zł na realizację ustawy przez gminy, bZe zmianą wprowadzoną przez art. 71 ustawy z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858), która weszła w życie z dniem 1 października 2024 r.) 33,50 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, 155 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, 12 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
     - **a)**
-    - **b)**
     - **c)**
     - **d)**
 
@@ -552,8 +570,5 @@ Art. 31–35.
 
 **Art. 41.** Umowa zawarta z podmiotem odpowiedzialnym za produkcję blankietów Karty Dużej Rodziny, o których mowa w przepisach wydanych na podstawie art. 24 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, personalizację blankietów Kart Dużej Rodziny, dystrybucję Kart Dużej Rodziny oraz zapewnienie systemu teleinformatycznego, za pomocą którego są wykonywane czynności związane z realizacją rządowego programu dla rodzin wielodzietnych, o którym mowa w przepisach wydanych na podstawie art. 24 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, zachowuje ważność do czasu jej wygaśnięcia lub rozwiązania.
 
-**Art. 42.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r. z wyjątkiem art. 35, który wchodzi w życie z dniem 2 stycznia 2015 r.
-
-- **1)** Aktualną kwotę ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, minister właściwy do spraw rodziny, zgodnie z art. 30 ust. 3 niniejszej ustawy. 2) Ze zmianą wprowadzoną przez art. 71 ustawy z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858), która weszła w życie z dniem 1 października 2024 r.
-
+**Art. 42.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r. z wyjątkiem art. 35, który wchodzi w życie z dniem 2 stycznia 2015 r. 1) Aktualną kwotę ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, minister właściwy do spraw rodziny, zgodnie z art. 30 ust. 3 niniejszej ustawy. 2) Ze zmianą wprowadzoną przez art. 71 ustawy z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858), która weszła w życie z dniem 1 października 2024 r.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-06-14 |
 | Data wydania | 2012-07-06 |
-| Wejście w życie | 2012-07-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000770) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/770/text.pdf) |
 
@@ -105,14 +104,17 @@ Ocenę łączną egzaminu kończącego studia zawodowe określa się łącznym s
 8.
 Z przebiegu egzaminu kończącego studia zawodowe wyznaczony przez przewodniczącego komisji egzaminacyjnej członek komisji egzaminacyjnej sporządza protokół, który podpisują przewodniczący i członkowie komisji egzaminacyjnej; protokół zawiera w szczególności wynik egzaminu kończącego studia zawodowe.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 11 maja 2004 r. w sprawie szczegółowych warunków prowadzenia studiów zawodowych na kierunku pielęgniarstwo lub położnictwo przeznaczonych dla pielęgniarek i położnych posiadających świadectwo dojrzałości i będących absolwentami liceów medycznych oraz medycznych szkół zawodowych kształcących w zawodzie pielęgniarki i położnej (Dz. U. Nr 110, poz. 1170 oraz z 2010 r. Nr 65, poz. 420), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 102 ust. 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039 i Nr 291, poz. 1707). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 11 maja 2004 r. w sprawie szczegółowych warunków prowadzenia studiów zawodowych na kierunku pielęgniarstwo lub położnictwo przeznaczonych dla pielęgniarek i położnych posiadających świadectwo dojrzałości i będących absolwentami liceów medycznych oraz medycznych szkół zawodowych kształcących w zawodzie pielęgniarki i położnej (Dz. U. Nr 110, poz. 1170 oraz z 2010 r. Nr 65, poz. 420), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 102 ust. 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039 i Nr 291, poz. 1707).
 Załącznik – Wymagania dotyczące treści kształcenia dla pielęgniarek absolwentów pięcioletnich liceów medycznych
 1.
-Grupy treści kształcenia i liczba godzin zajęć zorganizowanych Lp. Grupa treści kształcenia Liczba godzin 1 2 3 1 Grupa treści podstawowych 135 2 Grupa treści kierunkowych 1015 Razem 1150
+Grupy treści kształcenia i liczba godzin zajęć zorganizowanych
+Lp. Grupa treści kształcenia Liczba godzin 1 2 3 1 Grupa treści podstawowych 135 2 Grupa treści kierunkowych 1015 Razem 1150
 2.
 Składniki treści kształcenia w grupach i liczba godzin zajęć zorganizowanych
 2.1.
-Grupa treści podstawowych – 135 godzin Lp. Treści kształcenia w zakresie: Liczba godzin 1 2 3 1 Elementów anatomii z fizjologią 20 2 Biochemii i biofizyki 10 3 Farmakologii 10 4 Radiologii 10 5 Mikrobiologii i parazytologii 10 6 Zdrowia publicznego 10 7 Badań fizykalnych 25 8 Prawa 15 9 Pedagogiki 15 10 Psychologii 10
+Grupa treści podstawowych – 135 godzin
+Lp. Treści kształcenia w zakresie: Liczba godzin 1 2 3 1 Elementów anatomii z fizjologią 20 2 Biochemii i biofizyki 10 3 Farmakologii 10 4 Radiologii 10 5 Mikrobiologii i parazytologii 10 6 Zdrowia publicznego 10 7 Badań fizykalnych 25 8 Prawa 15 9 Pedagogiki 15 10 Psychologii 10
 2.2.
-Grupa treści kierunkowych – 1015 godzin Lp. Treści kształcenia w zakresie: Liczba godzin kształcenia teoretycznego Liczba godzin kształcenia praktycznego 265 750 1 2 3 4 1 Podstaw pielęgniarstwa 15 – 2 Filozofii i etyki zawodu 15 – 3 Promocji zdrowia 10 25 4 Podstawowej opieki zdrowotnej 20 85 5 Interny i pielęgniarstwa internistycznego 20 80 6 Neurologii i pielęgniarstwa neurologicznego 15 85 7 Pediatrii i pielęgniarstwa pediatrycznego 20 85 8 Chirurgii i pielęgniarstwa chirurgicznego 20 80 9 Rehabilitacji i pielęgnowania niepełnosprawnych 15 85 10 Geriatrii i pielęgniarstwa geriatrycznego 20 85 11 Psychiatrii i pielęgniarstwa psychiatrycznego 10 45 12 Anestezjologii i pielęgniarstwa w zagrożeniu życia 20 50 13 Ratownictwa medycznego 10 – 14 Opieki paliatywnej 15 45 15 Dietetyki 10 – 16 Badań w pielęgniarstwie 20 – 17 Przedmiotu do wyboru: promocji zdrowia psychicznego, zakażeń szpitalnych, języka migowego 10 –
+Grupa treści kierunkowych – 1015 godzin
+Lp. Treści kształcenia w zakresie: Liczba godzin kształcenia teoretycznego Liczba godzin kształcenia praktycznego 265 750 1 2 3 4 1 Podstaw pielęgniarstwa 15 – 2 Filozofii i etyki zawodu 15 – 3 Promocji zdrowia 10 25 4 Podstawowej opieki zdrowotnej 20 85 5 Interny i pielęgniarstwa internistycznego 20 80 6 Neurologii i pielęgniarstwa neurologicznego 15 85 7 Pediatrii i pielęgniarstwa pediatrycznego 20 85 8 Chirurgii i pielęgniarstwa chirurgicznego 20 80 9 Rehabilitacji i pielęgnowania niepełnosprawnych 15 85 10 Geriatrii i pielęgniarstwa geriatrycznego 20 85 11 Psychiatrii i pielęgniarstwa psychiatrycznego 10 45 12 Anestezjologii i pielęgniarstwa w zagrożeniu życia 20 50 13 Ratownictwa medycznego 10 – 14 Opieki paliatywnej 15 45 15 Dietetyki 10 – 16 Badań w pielęgniarstwie 20 – 17 Przedmiotu do wyboru: promocji zdrowia psychicznego, zakażeń szpitalnych, języka migowego 10 –
 

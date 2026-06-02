@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 17 kwietnia 2013 r. w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 535), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Obrony Narodowej z dnia 24 sierpnia 2018 r. zmieniającym rozporządzenie w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1719).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 24 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1719), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 24 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1719), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 17 kwietnia 2013 r. w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Służby Wywiadu Wojskowego
 Na podstawie art. 30 ust. 1 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2018 r. poz. 1516 i 1669) zarządza się, co następuje:
 § 1.
@@ -51,8 +49,7 @@ specjalistyczne,
 5)
 doskonalenia zawodowego,
 6)
-języków obcych
-zwanych dalej „szkoleniami”.
+języków obcych – zwanych dalej „szkoleniami”.
 § 2.
 1.
 Szkolenia organizuje i prowadzi Centrum Kształcenia SWW, zwane dalej „CK SWW”.
@@ -119,7 +116,7 @@ Funkcjonariusz na czas trwania zajęć szkoleniowych jest zwolniony z wykonywani
 Szkolenie na pierwszy stopień podoficerski jest obowiązkowym szkoleniem podstawowym dla funkcjonariusza przyjętego do służby w SWW.
 2.
 Funkcjonariusz jest kierowany na szkolenie niezwłocznie po przyjęciu do służby w SWW.
-3.
+3W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 24 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1719), które weszło w życie z dniem 20 września 2018 r..
 Funkcjonariusz przyjęty do służby w SWW i posiadający co najmniej stopień wojskowy kaprala (mata), stopień sierżanta Policji, stopień kaprala (mata) Straży Granicznej, stopień kaprala Służby Ochrony Państwa, stopień sekcyjnego Państwowej Straży Pożarnej, stopień kaprala Służby Więziennej, stopień kaprala Agencji Bezpieczeństwa Wewnętrznego, stopień kaprala Agencji Wywiadu lub stopień kaprala Służby Kontrwywiadu Wojskowego może zostać zwolniony z obowiązku odbycia szkolenia. Przepis § 6 ust. 1 stosuje się odpowiednio.
 § 8.
 Tematyka szkolenia na pierwszy stopień podoficerski obejmuje w szczególności:
@@ -224,7 +221,7 @@ W ocenie słuchacza uwzględnia się również opinię osób, o których mowa w 
 3.
 Po zakończeniu szkoleń, o których mowa w § 1 pkt 1–3, CK SWW lub inna jednostka organizacyjna przesyła ocenę do jednostki organizacyjnej właściwej w sprawach kadrowych za pośrednictwem kierownika jednostki organizacyjnej, w której słuchacz pełni służbę.
 4.
-Ocenę uwzględnia się w opinii służbowej sporządzanej w trybie i na zasadach określonych w rozporządzeniu Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie wzoru formularza opinii służbowej oraz opiniowania służbowego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1251).
+Ocenę uwzględnia się w opinii służbowej sporządzanej w trybie i na zasadach określonych w rozporządzeniu Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie wzoru formularza opinii służbowej oraz opiniowania służbowego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1251)Utraciło moc na podstawie § 19 rozporządzenia Ministra Obrony Narodowej z dnia 10 lutego 2017 r. w sprawie opiniowania służbowego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 507), które weszło w życie z dniem 25 marca 2017 r..
 § 19.
 Postępy słuchacza w nauce sprawdza się przez dokonywanie ocen bieżących i okresowych.
 § 20.
@@ -340,5 +337,5 @@ ocenę z egzaminu końcowego.
 § 30.
 Traci moc rozporządzenie Ministra Obrony Narodowej z dnia 28 września 2006 r. w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1343).
 § 31.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 8 maja 2013 r.. 1) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 24 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1719), które weszło w życie z dniem 20 września 2018 r. 2) Utraciło moc na podstawie § 19 rozporządzenia Ministra Obrony Narodowej z dnia 10 lutego 2017 r. w sprawie opiniowania służbowego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 507), które weszło w życie z dniem 25 marca 2017 r. 3) Rozporządzenie zostało ogłoszone w dniu 8 maja 2013 r.
 

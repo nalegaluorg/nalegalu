@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-08-07 |
-| Wejście w życie | 2018-08-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001495) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1495/text.pdf) |
 
@@ -82,9 +81,12 @@ source: "eli-html"
 1. Na dofinansowanie organizacji Konferencji COP24 oraz wykonywania zadań związanych z pełnieniem przez Rzeczpospolitą Polską funkcji Prezydencji Konferencji Stron NFOŚiGW przeznacza środki w łącznej wysokości do 252 000 000 zł, z czego:
 
 - **1)** do 225 894 948 zł – w 2018 r.;
-- **2)** do 26 105 052 zł – w 2019 r. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Ze środków, o których mowa w ust. 1, finansuje się ekwiwalent, o którym mowa w art. 29b ust. 1, oraz wykonywanie zadań wymienionych w art. 8 ust. 1, art. 9 ust. 1 w części wykonywanej przez ministra właściwego do spraw środowiska, art. 12 ust. 1, art. 15 i art. 23, w tym: ” , w ust. 5: – pkt 5 otrzymuje brzmienie: „ 5) ministrem właściwym do spraw wewnętrznych – na wykonanie zadań, o których mowa w art. 15, oraz wypłacenie ekwiwalentu, o którym mowa w art. 29b ust. 1, ” , – po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) Ministrem Obrony Narodowej – na wypłatę ekwiwalentu dla żołnierzy Żandarmerii Wojskowej, o którym mowa w art. 29b ust. 1, ” , – część wspólna otrzymuje brzmienie: „ – na wyodrębniony rachunek bankowy, otwarty dla wykonania i rozliczenia tych zadań albo ich części lub rozliczenia ekwiwalentu, o którym mowa w art. 29b ust. 1. ” , ust. 7 otrzymuje brzmienie: „
+- **2)** do 26 105 052 zł – w 2019 r. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Ze środków, o których mowa w ust. 1, finansuje się ekwiwalent, o którym mowa w art. 29b ust. 1, oraz wykonywanie zadań wymienionych w art. 8 ust. 1, art. 9 ust. 1 w części wykonywanej przez ministra właściwego do spraw środowiska, art. 12 ust. 1, art. 15 i art. 23, w tym: ” , w ust. 5: pkt 5 otrzymuje brzmienie: „
     - **b)**
     - **c)**
+
+- **5)** ministrem właściwym do spraw wewnętrznych – na wykonanie zadań, o których mowa w art. 15, oraz wypłacenie ekwiwalentu, o którym mowa w art. 29b ust. 1, ” , po pkt 5 dodaje się pkt 5a w brzmieniu: „
+- **5a)** Ministrem Obrony Narodowej – na wypłatę ekwiwalentu dla żołnierzy Żandarmerii Wojskowej, o którym mowa w art. 29b ust. 1, ” , część wspólna otrzymuje brzmienie: „ – na wyodrębniony rachunek bankowy, otwarty dla wykonania i rozliczenia tych zadań albo ich części lub rozliczenia ekwiwalentu, o którym mowa w art. 29b ust. 1. ” , ust. 7 otrzymuje brzmienie: „
     - **d)**
 
 7. Środki na rachunku bankowym, o którym mowa w ust. 5, wraz z odsetkami są przeznaczane wyłącznie na wykonanie danego zadania albo jego części lub wypłacenie ekwiwalentu, o którym mowa w art. 29b ust. 1. ” ;
@@ -96,7 +98,7 @@ source: "eli-html"
 - **1)** Policji nie stosuje się przepisu art. 33 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji;
 - **2)** Państwowej Straży Pożarnej nie stosuje się przepisów art. 10 ust. 1 pkt 12, art. 12 ust. 5 pkt 8, art. 13 ust. 6 pkt 17 i art. 35 ust. 10 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2018 r. poz. 1313);
 - **3)** Służby Ochrony Państwa nie stosuje się przepisu art. 81 ust. 4 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650 i 730);
-- **4)** Straży Granicznej nie stosuje się przepisu art. 37 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365, z późn. zm.);
+- **4)** Straży Granicznej nie stosuje się przepisu art. 37 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 650, 730 i 894.);
 - **5)** Żandarmerii Wojskowej nie stosuje się przepisu art. 60 ust. 2 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2018 r. poz. 173 i 138).
 
 5. Stawkę godzinową ekwiwalentu za każdą rozpoczętą godzinę służby, o której mowa w ust. 1, ustala się w wysokości 1/172 przeciętnego uposażenia odpowiednio funkcjonariuszy Policji, Państwowej Straży Pożarnej, Służby Ochrony Państwa, Straży Granicznej oraz żołnierzy Żandarmerii Wojskowej, określonego według przepisów odrębnych dotyczących tych funkcjonariuszy albo żołnierzy jako wielokrotność kwoty bazowej.
@@ -108,7 +110,7 @@ source: "eli-html"
 **Art. 30.** Rada Ministrów określi, w drodze rozporządzenia, podział środków, o których mowa w art. 29 ust. 1, między podmioty:
 
 - **1)** wykonujące w całości lub w części zadania określone w art. 29 ust. 2,
-- **2)** wypłacające ekwiwalent kierując się potrzebą zapewnienia finansowania wykonywanych zadań w sposób umożliwiający ich prawidłowe wykonanie oraz racjonalnością wydatków. ” ;
+- **2)** wypłacające ekwiwalent – kierując się potrzebą zapewnienia finansowania wykonywanych zadań w sposób umożliwiający ich prawidłowe wykonanie oraz racjonalnością wydatków. ” ;
 - **9)** po art. 35 dodaje się art. 35a i art. 35b w brzmieniu: „
 
 **Art. 35a.**
@@ -119,5 +121,5 @@ source: "eli-html"
 
 **Art. 2.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 30 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 30 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 3 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 650, 730 i 894.
 

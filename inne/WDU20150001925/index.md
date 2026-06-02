@@ -24,7 +24,6 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-09 |
 | Data wydania | 2015-11-20 |
-| Wejście w życie | 2016-02-19 |
 | Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001925) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1925/text.pdf) |
 
@@ -85,6 +84,10 @@ source: "isap-pdf"
 5. Wsparcie nie może być przyznane za okres, w którym co najmniej jednemu z kredytobiorców przysługuje świadczenie z tytułu utraty pracy wynikające z zawartej umowy ubezpieczenia spłaty kredytu, gwarantującej wypłatę świadczenia na wypadek utraty pracy.
 
 **Art. 4.** Wsparcie lub pożyczka na spłatę zadłużenia nie mogą być przyznane, jeżeli kredytobiorca w chwili złożenia wniosku, o którym mowa w art. 6 ust. 1:
+
+- **1)** jest właścicielem innego lokalu mieszkalnego lub domu jednorodzinnego lub był nim w okresie 6 miesięcy przed złożeniem wniosku;
+- **2)** posiada inne spółdzielcze prawo do lokalu mieszkalnego lub domu jednorodzinnego w spółdzielni mieszkaniowej lub posiadał takie prawo w okresie 6 miesięcy przed złożeniem wniosku;
+- **3)** posiada inne roszczenie o przeniesienie na niego prawa własności lokalu mieszkalnego, domu jednorodzinnego, spółdzielczego prawa do lokalu mieszkalnego lub domu jednorodzinnego w spółdzielni mieszkaniowej lub posiadał takie roszczenie w okresie 6 miesięcy przed złożeniem wniosku.
 
 **Art. 5.**
 

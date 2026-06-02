@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-04-13 |
 | Data wydania | 2012-05-23 |
-| Wejście w życie | 2012-05-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000574) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/574/text.pdf) |
 
@@ -75,7 +74,7 @@ source: "eli-html"
 
 - **8)** w art. 40 ust. 1 otrzymuje brzmienie: „
 
-1. W sprawach nieuregulowanych w ustawie do opłat stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.), z wyłączeniem przepisów dotyczących umarzania należności, odraczania płatności oraz rozkładania płatności na raty, z zastrzeżeniem art. 15 ust. 2 rozporządzenia, o którym mowa w pkt 1 załącznika. ” ;
+1. W sprawach nieuregulowanych w ustawie do opłat stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 57, poz. 355, Nr 127, poz. 858, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 197, poz. 1306, z 2011 r. Nr 34, poz. 173, Nr 75, poz. 398, Nr 106, poz. 622, Nr 134, poz. 781, Nr 171, poz. 1016, Nr 186, poz. 1100, Nr 199, poz. 1175, Nr 232, poz. 1378, Nr 234, poz. 1391 i Nr 291, poz. 1707 oraz z 2012 r. poz. 362.), z wyłączeniem przepisów dotyczących umarzania należności, odraczania płatności oraz rozkładania płatności na raty, z zastrzeżeniem art. 15 ust. 2 rozporządzenia, o którym mowa w pkt 1 załącznika. ” ;
 
 - **9)** art. 41 otrzymuje brzmienie: „
 
@@ -102,5 +101,5 @@ source: "eli-html"
 
 6. Do należności, o których mowa w ust. 5, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 57, poz. 355, Nr 127, poz. 858, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 197, poz. 1306, z 2011 r. Nr 34, poz. 173, Nr 75, poz. 398, Nr 106, poz. 622, Nr 134, poz. 781, Nr 171, poz. 1016, Nr 186, poz. 1100, Nr 199, poz. 1175, Nr 232, poz. 1378, Nr 234, poz. 1391 i Nr 291, poz. 1707 oraz z 2012 r. poz. 362.
 

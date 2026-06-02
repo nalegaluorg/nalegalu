@@ -22,21 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-19 |
 | Data wydania | 2020-11-20 |
-| Wejście w życie | 2020-11-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002058) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2058/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2019 r. poz. 1505) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779 oraz z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728 i 1932.) wprowadza się następujące zmiany:
 1)
 uchyla się § 13o;
 2)
 w § 13z w ust. 2 po wyrazie „złożony” dodaje się wyrazy „do dnia 30 listopada”;
 3)
-po § 13za dodaje się § 13zb i § 13zc w brzmieniu:
-„
+po § 13za dodaje się § 13zb i § 13zc w brzmieniu: „
 § 13zb.
 1.
 W 2020 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi świń:
@@ -49,8 +47,7 @@ który utrzymuje lub utrzymywał świnie w siedzibie stada, położonej na teryt
 a)
 wymienionym w części II lub III załącznika do decyzji wykonawczej Komisji 2014/709/UE z dnia 9 października 2014 r. w sprawie środków kontroli w zakresie zdrowia zwierząt w odniesieniu do afrykańskiego pomoru świń w niektórych państwach członkowskich i uchylającej decyzję wykonawczą 2014/178/UE lub
 b)
-zapowietrzonym lub zagrożonym w związku z wystąpieniem afrykańskiego pomoru świń, ustanowionym zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt
-zwanemu dalej „producentem świń”.
+zapowietrzonym lub zagrożonym w związku z wystąpieniem afrykańskiego pomoru świń, ustanowionym zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt – zwanemu dalej „producentem świń”.
 2.
 Pomoc, o której mowa w ust. 1, jest udzielana na warunkach określonych w art. 26 rozporządzenia nr 702/2014.
 3.
@@ -126,10 +123,9 @@ Pomoc, o której mowa w ust. 1, jest wypłacana na rachunek producenta świń ws
 18.
 Jeżeli gospodarstwo, w którym znajduje się siedziba stada, jest przedmiotem współposiadania, pomoc, o której mowa w ust. 1, jest udzielana temu ze współposiadaczy, co do którego pozostali współposiadacze wyrazili pisemną zgodę.
 § 13zc.
-W 2020 r. komisja, o której mowa w § 5 ust. 5, składa protokół oszacowania szkód wojewodzie właściwemu ze względu na miejsce powstania tych szkód w przypadku, o którym mowa w § 5 ust. 7 pkt 3 lit. c, nie później niż do dnia 31 grudnia.
-” .
+W 2020 r. komisja, o której mowa w § 5 ust. 5, składa protokół oszacowania szkód wojewodzie właściwemu ze względu na miejsce powstania tych szkód w przypadku, o którym mowa w § 5 ust. 7 pkt 3 lit. c, nie później niż do dnia 31 grudnia. ” .
 § 2.
 Do postępowań w sprawach o przyznanie pomocy, o której mowa w § 13o rozporządzenia zmienianego w § 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia wydaniem decyzji, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 3 w zakresie dodawanego § 13zc, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 16 listopada 2020 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 3 w zakresie dodawanego § 13zc, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 16 listopada 2020 r. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779 oraz z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728 i 1932.
 

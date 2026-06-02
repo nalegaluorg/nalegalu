@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-14 |
 | Data wydania | 2020-12-16 |
-| Wejście w życie | 2020-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002257) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2257/text.pdf) |
 
@@ -58,8 +57,7 @@ Zapomogę przekazuje:
 1)
 jednostka organizacyjna ABW właściwa w sprawach finansowych na rachunek bankowy wskazany przez weterana-funkcjonariusza ABW i weterana poszkodowanego-funkcjonariusza ABW w formie pisemnej w postaci papierowej albo elektronicznej,
 2)
-jednostka organizacyjna AW właściwa w sprawach finansowych w formie gotówkowej lub bezgotówkowej stosownie do dyspozycji udzielonej przez weterana-funkcjonariusza AW i weterana poszkodowanego-funkcjonariusza AW
-w terminie 7 dni od dnia pozytywnego rozpatrzenia wniosku o przyznanie zapomogi.
+jednostka organizacyjna AW właściwa w sprawach finansowych w formie gotówkowej lub bezgotówkowej stosownie do dyspozycji udzielonej przez weterana-funkcjonariusza AW i weterana poszkodowanego-funkcjonariusza AW – w terminie 7 dni od dnia pozytywnego rozpatrzenia wniosku o przyznanie zapomogi.
 § 5.
 Fundusz na zapomogi tworzy się w:
 1)
@@ -67,5 +65,5 @@ ABW z uwzględnieniem liczby weteranów-funkcjonariuszy ABW i weteranów poszkod
 2)
 AW z uwzględnieniem liczby weteranów-funkcjonariuszy AW i weteranów poszkodowanych-funkcjonariuszy AW.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 26 października 2012 r. w sprawie przyznawania zapomogi weteranowi-funkcjonariuszowi albo weteranowi poszkodowanemu-funkcjonariuszowi Agencji Bezpieczeństwa Wewnętrznego na pobyt w Domu Weterana (Dz. U. poz. 1192), które na podstawie art. 19 ust. 1 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) utraciło moc z dniem 11 października 2020 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 26 października 2012 r. w sprawie przyznawania zapomogi weteranowi-funkcjonariuszowi albo weteranowi poszkodowanemu-funkcjonariuszowi Agencji Bezpieczeństwa Wewnętrznego na pobyt w Domu Weterana (Dz. U. poz. 1192), które na podstawie art. 19 ust. 1 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) utraciło moc z dniem 11 października 2020 r.
 

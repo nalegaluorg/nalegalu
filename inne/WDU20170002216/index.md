@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-27 |
 | Data wydania | 2017-11-30 |
-| Wejście w życie | 2017-12-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002216) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2216/text.pdf) |
 
+Zasady monitorowania uprawy tytoniu oraz produkcji i zbytu surowca tytoniowego, a także nadzoru nad uprawą tytoniu oraz produkcją i zbytem surowca tytoniowego
 Art. 40ha.
 Warunkiem prowadzenia przez producenta rolnego, w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, produkującego surowiec tytoniowy, zwanego dalej „producentem surowca tytoniowego”, działalności w zakresie uprawy tytoniu, produkcji lub zbytu surowca tytoniowego jest wpis do rejestru producentów surowca tytoniowego, prowadzonego przez dyrektora oddziału terenowego Krajowego Ośrodka właściwego ze względu na miejsce zamieszkania i adres albo siedzibę i adres producenta rolnego, który zamierza uprawiać tytoń, produkować lub zbywać surowiec tytoniowy.
 1.
@@ -187,26 +187,24 @@ W przypadku gdy stwierdzona w wyniku wykonywania czynności kontrolnych powierzc
 4.
 Zniszczenie uprawy tytoniu w przypadkach, o których mowa w ust. 1 i 3, odbywa się przez zaoranie, przekopanie gruntu albo w inny sposób, który zapewni skuteczne zniszczenie tej uprawy.
 5.
-Z czynności zniszczenia uprawy tytoniu osoba upoważniona przez Dyrektora Generalnego Krajowego Ośrodka do wykonywania czynności kontrolnych sporządza protokół. Do protokołu zniszczenia uprawy tytoniu w przypadkach, o których mowa w ust. 1 i 3, przepisy art. 40hd ust. 5–14 stosuje się odpowiednio.
-” ;
+Z czynności zniszczenia uprawy tytoniu osoba upoważniona przez Dyrektora Generalnego Krajowego Ośrodka do wykonywania czynności kontrolnych sporządza protokół. Do protokołu zniszczenia uprawy tytoniu w przypadkach, o których mowa w ust. 1 i 3, przepisy art. 40hd ust. 5–14 stosuje się odpowiednio. ” ;
 3)
-po rozdziale 9c dodaje się rozdział 9d w brzmieniu:
-„
+po rozdziale 9c dodaje się rozdział 9d w brzmieniu: „
+Przepisy karne
 1.
 Kto, będąc producentem surowca tytoniowego, nie przekazuje informacji, o których mowa w art. 40hc ust. 1, albo przekazuje te informacje po upływie terminu lub przekazuje informacje niepełne lub niezgodne ze stanem faktycznym, podlega karze grzywny.
 2.
 Nie podlega karze kto, będąc producentem surowca tytoniowego, w przekazanej informacji, o której mowa w art. 40hc ust. 1 pkt 1 i pkt 7 lit. a, podał powierzchnię uprawy poszczególnych grup odmian tytoniu, która różni się nie więcej niż o 5% od rzeczywistej powierzchni upraw ustalonej w wyniku kontroli.
 3.
 Nie podlega karze ten, w odniesieniu do którego wydano decyzję o zniszczeniu uprawy tytoniu i dokonano tego zniszczenia w przypadku, o którym mowa w art. 40hi ust. 3.
-Orzekanie w sprawach, o których mowa w art. 40k, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2016 r. poz. 1713, z późn. zm.).
-” .
+Orzekanie w sprawach, o których mowa w art. 40k, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2016 r. poz. 1713, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 oraz z 2017 r. poz. 708, 962, 966, 1477 i 1543.). ” .
 
 **Art. 1.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2017 r. poz. 43, 60 i 937) wprowadza się następujące zmiany:
 
 - **1)** w art. 9b: w ust. 1 pkt 2 otrzymuje brzmienie: „
     - **a)**
 
-- **2)** sprzedaż suszu tytoniowego innemu podmiotowi niż podmiot prowadzący skład podatkowy, który zużywa susz tytoniowy do produkcji wyrobów tytoniowych, lub pośredniczący podmiot tytoniowy, z wyłączeniem sprzedaży przez podmiot prowadzący skład podatkowy, grupę producentów suszu tytoniowego utworzoną na podstawie ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. poz. 983, z późn. zm.), zwaną dalej „grupą producentów”, oraz pośredniczący podmiot tytoniowy, którzy jednocześnie z tą sprzedażą dokonują dostawy wewnątrzwspólnotowej lub eksportu suszu tytoniowego; ” , w ust. 2a wprowadzenie do wyliczenia otrzymuje brzmienie: „ Sprzedaż suszu tytoniowego grupie producentów oraz nabycie lub posiadanie suszu tytoniowego przez grupę producentów nie podlega opodatkowaniu akcyzą pod warunkiem: ” , dodaje się ust. 6 w brzmieniu: „
+- **2)** sprzedaż suszu tytoniowego innemu podmiotowi niż podmiot prowadzący skład podatkowy, który zużywa susz tytoniowy do produkcji wyrobów tytoniowych, lub pośredniczący podmiot tytoniowy, z wyłączeniem sprzedaży przez podmiot prowadzący skład podatkowy, grupę producentów suszu tytoniowego utworzoną na podstawie ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. poz. 983, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 2273, z 2004 r. poz. 1694, z 2005 r. poz. 1462, z 2006 r. poz. 1847, z 2008 r. poz. 634, z 2015 r. poz. 1888 oraz z 2017 r. poz. 624.), zwaną dalej „grupą producentów”, oraz pośredniczący podmiot tytoniowy, którzy jednocześnie z tą sprzedażą dokonują dostawy wewnątrzwspólnotowej lub eksportu suszu tytoniowego; ” , w ust. 2a wprowadzenie do wyliczenia otrzymuje brzmienie: „ Sprzedaż suszu tytoniowego grupie producentów oraz nabycie lub posiadanie suszu tytoniowego przez grupę producentów nie podlega opodatkowaniu akcyzą pod warunkiem: ” , dodaje się ust. 6 w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -242,7 +240,7 @@ Orzekanie w sprawach, o których mowa w art. 40k, następuje w trybie przepisów
 
 5. Jeżeli wartość nieruchomości deklarowana przez podmiot obowiązany do złożenia zabezpieczenia akcyzowego nie odpowiada, według oceny organu podatkowego, wartości rynkowej, organ podatkowy wzywa podmiot do wskazania przyczyn uzasadniających podanie wartości nieruchomości w deklarowanej wysokości.
 
-6. W przypadku nieudzielenia odpowiedzi lub niewskazania przyczyn, które uzasadniają przyjęcie wartości nieruchomości w deklarowanej wysokości, przyjmuje się wartość nieruchomości określoną w opinii sporządzonej w formie operatu szacunkowego przez rzeczoznawcę majątkowego, o którym mowa w ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 r. poz. 2147, z późn. zm.).
+6. W przypadku nieudzielenia odpowiedzi lub niewskazania przyczyn, które uzasadniają przyjęcie wartości nieruchomości w deklarowanej wysokości, przyjmuje się wartość nieruchomości określoną w opinii sporządzonej w formie operatu szacunkowego przez rzeczoznawcę majątkowego, o którym mowa w ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 r. poz. 2147, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2260 oraz z 2017 r. poz. 624, 820, 1509, 1529, 1566 i 1595.).
 
 7. Jeżeli wartość nieruchomości określona przez powołanego przez organ podatkowy biegłego rzeczoznawcę majątkowego w opinii, o której mowa w ust. 6, różni się więcej niż o 33% od wartości rynkowej nieruchomości deklarowanej przez podmiot obowiązany do złożenia zabezpieczenia akcyzowego, koszty wydania opinii ponosi ten podmiot.
 
@@ -266,8 +264,13 @@ Orzekanie w sprawach, o których mowa w art. 40k, następuje w trybie przepisów
 - **8)** w art. 138g: w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
     - **a)**
 
-- **4)** podmiot prowadzący skład podatkowy, który magazynuje susz tytoniowy nieopodatkowany akcyzą poza składem podatkowym. ” , w ust. 2: – w pkt 1 w lit. h średnik zastępuje się przecinkiem i dodaje się lit. i oraz j w brzmieniu: „ i) przemieszczanego ze składu podatkowego podmiotu, o którym mowa w ust. 1 pkt 4, j) przemieszczanego do składu podatkowego podmiotu, o którym mowa w ust. 1 pkt 4; ” , – pkt 3 otrzymuje brzmienie: „ 3) ustalenie ilości i sposobu przetwarzania suszu tytoniowego; ” , – dodaje się pkt 4 w brzmieniu: „ 4) ustalenie miejsca i adresu magazynowania suszu tytoniowego przez podmiot, o którym mowa w ust. 1 pkt 4. ” .
+- **4)** podmiot prowadzący skład podatkowy, który magazynuje susz tytoniowy nieopodatkowany akcyzą poza składem podatkowym. ” , w ust. 2: w pkt 1 w lit. h średnik zastępuje się przecinkiem i dodaje się lit. i oraz j w brzmieniu: „ przemieszczanego ze składu podatkowego podmiotu, o którym mowa w ust. 1 pkt 4, przemieszczanego do składu podatkowego podmiotu, o którym mowa w ust. 1 pkt 4; ” , pkt 3 otrzymuje brzmienie: „
     - **b)**
+    - **i)**
+    - **j)**
+
+- **3)** ustalenie ilości i sposobu przetwarzania suszu tytoniowego; ” , dodaje się pkt 4 w brzmieniu: „
+- **4)** ustalenie miejsca i adresu magazynowania suszu tytoniowego przez podmiot, o którym mowa w ust. 1 pkt 4. ” .
 
 **Art. 2.** W ustawie z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2017 r. poz. 1006 i 1503) wprowadza się następujące zmiany:
 
@@ -275,9 +278,9 @@ Orzekanie w sprawach, o których mowa w art. 40k, następuje w trybie przepisów
 - **6)** zasady monitorowania uprawy tytoniu oraz produkcji i zbytu wysuszonych liści tytoniu, zwanych dalej „surowcem tytoniowym”, a także nadzoru nad uprawą tytoniu oraz produkcją i zbytem surowca tytoniowego. ” ;
 - **2)** po rozdziale 9b dodaje się rozdział 9ba w brzmieniu: „
 
-#### Rozdział 9ba Zasady monitorowania uprawy tytoniu oraz produkcji i zbytu surowca tytoniowego, a także nadzoru nad uprawą tytoniu oraz produkcją i zbytem surowca tytoniowego
+#### Rozdział 9ba
 
-#### Rozdział 9d Przepisy karne
+#### Rozdział 9d
 
 **Art. 3.** Do podmiotów, które zgodnie z art. 9b ustawy zmienianej w art. 1 zawarły przed dniem wejścia w życie niniejszej ustawy umowy na sprzedaż suszu tytoniowego z jednoczesnym dokonaniem dostawy wewnątrzwspólnotowej lub eksportu, stosuje się przepisy dotychczasowe.
 
@@ -295,5 +298,5 @@ Orzekanie w sprawach, o których mowa w art. 40k, następuje w trybie przepisów
 
 **Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 138s ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 138s ustawy zmienianej w art. 1, nie dłużej jednak niż do dnia 31 marca 2018 r.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4–7, który wchodzi w życie z dniem 1 czerwca 2018 r.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4–7, który wchodzi w życie z dniem 1 czerwca 2018 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 2273, z 2004 r. poz. 1694, z 2005 r. poz. 1462, z 2006 r. poz. 1847, z 2008 r. poz. 634, z 2015 r. poz. 1888 oraz z 2017 r. poz. 624. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2260 oraz z 2017 r. poz. 624, 820, 1509, 1529, 1566 i 1595. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 oraz z 2017 r. poz. 708, 962, 966, 1477 i 1543.
 

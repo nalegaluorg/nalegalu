@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 września 2007 r. o zmianie ustawy o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości oraz niektórych innych ustaw
+# Ustawa z dnia 7 września 2007 r. o zmianie ustawy o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 lutego 1991 r. – Prawo o notariacie oraz ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-09-07 |
 | Data wydania | 2007-10-18 |
-| Wejście w życie | 2008-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071911371) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1371/text.pdf) |
 
@@ -48,7 +47,7 @@ source: "eli-html"
 
 1. Osoba, na rzecz której zostało przekształcone prawo użytkowania wieczystego w prawo własności nieruchomości, jest obowiązana do uiszczenia dotychczasowemu właścicielowi opłaty z tytułu tego przekształcenia, z zastrzeżeniem art. 5.
 
-2. W decyzji, o której mowa w art. 3 ust. 1, właściwy organ ustala opłatę z tytułu przekształcenia prawa użytkowania wieczystego w prawo własności. Do ustalenia tej opłaty stosuje się odpowiednio przepisy art. 67 ust. 1 i art. 69 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.).
+2. W decyzji, o której mowa w art. 3 ust. 1, właściwy organ ustala opłatę z tytułu przekształcenia prawa użytkowania wieczystego w prawo własności. Do ustalenia tej opłaty stosuje się odpowiednio przepisy art. 67 ust. 1 i art. 69 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601 oraz z 2007 r. Nr 173, poz. 1218.).
 
 3. Opłatę, o której mowa w ust. 1, rozkłada się, na wniosek użytkownika wieczystego, na raty, na czas nie krótszy niż 10 lat i nie dłuższy niż 20 lat, chyba że wnioskodawca wystąpi o okres krótszy niż 10 lat.
 
@@ -90,12 +89,12 @@ source: "eli-html"
 
 **Art. 5.** Przekształcenie prawa użytkowania wieczystego w prawo własności nieruchomości na rzecz użytkowników wieczystych, o których mowa w art. 1 ust. 1a, albo ich następców prawnych, następuje nieodpłatnie. ” .
 
-**Art. 2.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2002 r. Nr 42, poz. 369, z późn. zm.) w art. 92 dodaje się § 6 w brzmieniu: „
+**Art. 2.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2002 r. Nr 42, poz. 369, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 49, poz. 408, Nr 124, poz. 1152 i Nr 217, poz. 2142, z 2004 r. Nr 62, poz. 577, Nr 147, poz. 1547, Nr 173, poz. 1808 i Nr 202, poz. 2067, z 2005 r. Nr 163, poz. 1361, Nr 167, poz. 1398, Nr 169, poz. 1417 i Nr 264, poz. 2205, z 2006 r. Nr 218, poz. 1592 i Nr 225, poz. 1635 oraz z 2007 r. Nr 25, poz. 162, Nr 80, poz. 540, Nr 85, poz. 571 i Nr 181, poz. 1287.) w art. 92 dodaje się § 6 w brzmieniu: „
 
 § 6. Jeżeli akt notarialny w swej treści zawiera przeniesienie własności nieruchomości dokonane przez osobę, na rzecz której zostało przekształcone prawo użytkowania wieczystego w prawo własności nieruchomości na podstawie art. 1 ust. 1, 2 albo ust. 3 ustawy z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości (Dz. U. Nr 175, poz. 1459 oraz z 2007 r. Nr 191, poz. 1371), przed upływem 5 lat, licząc od dnia przekształcenia, notariusz, który sporządził ten akt, jest obowiązany przesłać z urzędu jego wypis organowi, który wydał decyzję o przekształceniu. ” .
 
-**Art. 3.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. Nr 167, poz. 1398, z późn. zm.) w art. 95 w ust. 1 w pkt 5 kropkę zastępuje się przecinkiem i dodaje się pkt 6 w brzmieniu: „
+**Art. 3.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. Nr 167, poz. 1398, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 126, poz. 876 oraz z 2007 r. Nr 21, poz. 123, Nr 82, poz. 560, Nr 123, poz. 849 i Nr 125, poz. 873.) w art. 95 w ust. 1 w pkt 5 kropkę zastępuje się przecinkiem i dodaje się pkt 6 w brzmieniu: „
 
-- **6)** o wpis w księdze wieczystej prawa własności uzyskanego na podstawie przekształcenia, o którym mowa w art. 1 ust. 1a ustawy z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości (Dz. U. Nr 175, poz. 1459 oraz z 2007 r. Nr 191, poz. 1371). ” . Do postępowań wszczętych na podstawie ustawy, o której mowa w art. 1, i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy w brzmieniu nadanym niniejszą ustawą. Ustawa wchodzi w życie z dniem 1 stycznia 2008 r.
+- **6)** o wpis w księdze wieczystej prawa własności uzyskanego na podstawie przekształcenia, o którym mowa w art. 1 ust. 1a ustawy z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości (Dz. U. Nr 175, poz. 1459 oraz z 2007 r. Nr 191, poz. 1371). ” . Do postępowań wszczętych na podstawie ustawy, o której mowa w art. 1, i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy w brzmieniu nadanym niniejszą ustawą. Ustawa wchodzi w życie z dniem 1 stycznia 2008 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 lutego 1991 r. – Prawo o notariacie oraz ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601 oraz z 2007 r. Nr 173, poz. 1218. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 49, poz. 408, Nr 124, poz. 1152 i Nr 217, poz. 2142, z 2004 r. Nr 62, poz. 577, Nr 147, poz. 1547, Nr 173, poz. 1808 i Nr 202, poz. 2067, z 2005 r. Nr 163, poz. 1361, Nr 167, poz. 1398, Nr 169, poz. 1417 i Nr 264, poz. 2205, z 2006 r. Nr 218, poz. 1592 i Nr 225, poz. 1635 oraz z 2007 r. Nr 25, poz. 162, Nr 80, poz. 540, Nr 85, poz. 571 i Nr 181, poz. 1287. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 126, poz. 876 oraz z 2007 r. Nr 21, poz. 123, Nr 82, poz. 560, Nr 123, poz. 849 i Nr 125, poz. 873.
 
 

@@ -22,16 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-04-26 |
 | Data wydania | 2013-05-21 |
-| Wejście w życie | 2013-06-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000584) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/584/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Tabele miesięcznych stawek wynagrodzenia zasadniczego
 Treść rozporządzenia
-Na podstawie art. 773 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 773 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700, z 2011 r. Nr 36, poz. 181, Nr 63, poz. 322, Nr 80, poz. 432, Nr 144, poz. 855, Nr 149, poz. 887 i Nr 232, poz. 1378, z 2012 r. poz. 908 i 1110 oraz z 2013 r. poz. 2.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 30 kwietnia 2008 r. w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w niektórych jednostkach państwowej sfery budżetowej (Dz. U. Nr 82, poz. 495, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 30 kwietnia 2008 r. w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w niektórych jednostkach państwowej sfery budżetowej (Dz. U. Nr 82, poz. 495, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 43, poz. 348, z 2010 r. Nr 16, poz. 85 oraz z 2011 r. Nr 140, poz. 823.) wprowadza się następujące zmiany:
 1)
 tytuł rozporządzenia otrzymuje brzmienie: „ w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w niektórych państwowych jednostkach budżetowych ” ;
 2)
@@ -39,11 +38,9 @@ w § 1 w ust. 1 uchyla się pkt 2;
 3)
 w § 9:
 a)
-po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
-W razie równoczesnego pozostawania w więcej niż jednym stosunku pracy do okresu pracy uprawniającego do dodatku za wysługę lat wlicza się jeden z tych okresów.
-” ,
+W razie równoczesnego pozostawania w więcej niż jednym stosunku pracy do okresu pracy uprawniającego do dodatku za wysługę lat wlicza się jeden z tych okresów. ” ,
 b)
 uchyla się ust. 3;
 4)
@@ -53,18 +50,45 @@ w załączniku nr 3 do rozporządzenia:
 a)
 uchyla się tabelę III,
 b)
-w tabeli IV część II otrzymuje brzmienie: 1 2 3 4 5 6 II. Pracownicy administracji i obsługi 1 Główny specjalista XV-XVIII – wyższe 7 2 Starszy specjalista XIII-XVI – wyższe 5 3 Specjalista XI-XIV – średnie 5 4 Starszy: księgowy, operator obsługi i naprawy urządzeń technicznych (audiowizualnych i komputerowych) X-XIII – średnie 4 5 Księgowy, starszy referent, operator obsługi i naprawy urządzeń technicznych (audiowizualnych i komputerowych) IX-XI – średnie 2 6 Kierowca VII-VIII – według odrębnych przepisów 7 Referent, kasjer, magazynier, sekretarka VI-VIII – średnie 4 8 Pomocnik biblioteczny V-VII – zawodowe –
+w tabeli IV część II otrzymuje brzmienie:
+1 2 3 4 5 6 II. Pracownicy administracji i obsługi 1 Główny specjalista XV-XVIII – wyższe 7 2 Starszy specjalista XIII-XVI – wyższe 5 3 Specjalista XI-XIV – średnie 5 4 Starszy: księgowy, operator obsługi i naprawy urządzeń technicznych (audiowizualnych i komputerowych) X-XIII – średnie 4 5 Księgowy,
+starszy referent,
+operator obsługi i naprawy urządzeń technicznych (audiowizualnych i komputerowych) IX-XI – średnie 2 6 Kierowca VII-VIII – według odrębnych przepisów 7 Referent,
+kasjer,
+magazynier,
+sekretarka VI-VIII – średnie 4 8 Pomocnik biblioteczny V-VII – zawodowe –
 c)
-po tabeli Vc dodaje się tabele Vd i Ve w brzmieniu:
-„
+po tabeli Vc dodaje się tabele Vd i Ve w brzmieniu: „
 Vd.
-Pracowników zatrudnionych w Centrum Projektów Informatycznych Lp. Stanowisko Kategoria zaszeregowania Stawka dodatku funkcyjnego do Wymagane kwalifikacje wykształcenie liczbalat pracy 1 2 3 4 5 6 1 Kierownik projektu, główny architekt systemu, zastępca kierownika projektu XV-XIX 9 wyższe 5 kierownik zespołu administracyjnego projektu, kierownik zespołu 8 2 Kierownik wydziału XV-XVIII 8 wyższe 5 3 Architekt systemu XIV-XVIII 7 wyższe 5 projektant: 6 wyższe 3 – baz i hurtowni danych systemu, – architektury technicznej systemu 4 Główny specjalista XIV-XVII 8 wyższe 5 radca prawny według odrębnych przepisów 5 Zastępca kierownika wydziału XIV-XVI 6 wyższe 3 6 Kierownik działu XIII-XIV 5 wyższe 3 7 Starszy specjalista XIII-XIV – wyższe 3 8 Specjalista XII-XIII – wyższe 2 programista średnie – 9 Specjalista ds. bezpieczeństwa i higieny pracy X-XIII – według odrębnych przepisów 10 Kierownik magazynu X-XII 3 średnie 4 zasadnicze 7 starszy inspektor ds. bezpieczeństwa i higieny pracy – według odrębnych przepisów 11 Starszy inspektor IX-XI – wyższe 1 średnie 4 12 Starszy księgowy IX-X – średnie 4 inspektor 2 13 Księgowy, starszy referent VIII-IX – średnie 2 kasjer – 14 Referent VII-VIII – średnie –
+Pracowników zatrudnionych w Centrum Projektów Informatycznych
+Lp. Stanowisko Kategoria zaszeregowania Stawka dodatku funkcyjnego do Wymagane kwalifikacje wykształcenie liczba
+lat pracy 1 2 3 4 5 6 1 Kierownik projektu,
+główny architekt systemu,
+zastępca kierownika projektu XV-XIX 9 wyższe 5 kierownik zespołu administracyjnego projektu,
+kierownik zespołu 8 2 Kierownik wydziału XV-XVIII 8 wyższe 5 3 Architekt systemu XIV-XVIII 7 wyższe 5 projektant: 6 wyższe 3 – baz i hurtowni danych systemu, – architektury technicznej systemu 4 Główny specjalista XIV-XVII 8 wyższe 5 radca prawny według odrębnych przepisów 5 Zastępca kierownika wydziału XIV-XVI 6 wyższe 3 6 Kierownik działu XIII-XIV 5 wyższe 3 7 Starszy specjalista XIII-XIV – wyższe 3 8 Specjalista XII-XIII – wyższe 2 programista średnie – 9 Specjalista ds. bezpieczeństwa i higieny pracy X-XIII – według odrębnych przepisów 10 Kierownik magazynu X-XII 3 średnie 4 zasadnicze 7 starszy inspektor ds. bezpieczeństwa i higieny pracy – według odrębnych przepisów 11 Starszy inspektor IX-XI – wyższe 1 średnie 4 12 Starszy księgowy IX-X – średnie 4 inspektor 2 13 Księgowy,
+starszy referent VIII-IX – średnie 2 kasjer – 14 Referent VII-VIII – średnie –
 Ve.
-Pracowników zatrudnionych w Centrum Przetwarzania Danych Ministerstwa Finansów Lp. Stanowisko Kategoria zaszeregowania Stawka dodatku funkcyjnego do Wymagane kwalifikacje wykształcenie liczbalat pracy 1 2 3 4 5 6 1 Kierownik: wydziału, oddziału, obiektu XIII-XV 10 wyższe 5 2 Kierownik: biura, zespołu, sekcji, projektu XII-XIV 8 wyższe 4 3 Główny: specjalista, architekt IX-XIV 6 wyższe 5 radca prawny według odrębnych przepisów 4 Zastępca głównego księgowego X-XIII 6 wyższe 3 średnie 6 5 Pełnomocnik ds. ochrony informacji niejawnych, audytor IX-XIII 6 według odrębnych przepisów 6 Administrator, architekt IX-XIII – wyższe 3 7 Główny energetyk, inspektor bezpieczeństwa teleinformatycznego VIII-XII 5 wyższe 3 8 Starszy: specjalista, informatyk, programista, analityk, projektant VII-XII – wyższe 3 9 Specjalista, informatyk, programista, analityk, projektant VI-XI – wyższe 1 średnie 3 10 Kierownik: kancelarii materiałów niejawnych, kancelarii tajnej, archiwum V-VIII 2 wyższe 1 średnie 2 11 Energetyk V-VIII – wyższe 1 średnie 2 12 Starszy: inspektor, technik, archiwista IV-VII – średnie 2 13 Inspektor, młodszy administrator, technik III-VI – średnie – 14 Referent, sekretarka, archiwista, magazynier II-IV – średnie – 15 Konserwator, sprzątaczka, pracownik gospodarczy I-III – zawodowelub podstawowe – kierowca według odrębnych przepisów”
+Pracowników zatrudnionych w Centrum Przetwarzania Danych Ministerstwa Finansów
+Lp. Stanowisko Kategoria zaszeregowania Stawka dodatku funkcyjnego do Wymagane kwalifikacje wykształcenie liczba
+lat pracy 1 2 3 4 5 6 1 Kierownik: wydziału, oddziału, obiektu XIII-XV 10 wyższe 5 2 Kierownik: biura, zespołu, sekcji, projektu XII-XIV 8 wyższe 4 3 Główny: specjalista, architekt IX-XIV 6 wyższe 5 radca prawny według odrębnych przepisów 4 Zastępca głównego księgowego X-XIII 6 wyższe 3 średnie 6 5 Pełnomocnik ds. ochrony informacji niejawnych, audytor IX-XIII 6 według odrębnych przepisów 6 Administrator,
+architekt IX-XIII – wyższe 3 7 Główny energetyk,
+inspektor bezpieczeństwa teleinformatycznego VIII-XII 5 wyższe 3 8 Starszy: specjalista, informatyk, programista, analityk, projektant VII-XII – wyższe 3 9 Specjalista,
+informatyk,
+programista,
+analityk,
+projektant VI-XI – wyższe 1 średnie 3 10 Kierownik: kancelarii materiałów niejawnych, kancelarii tajnej, archiwum V-VIII 2 wyższe 1 średnie 2 11 Energetyk V-VIII – wyższe 1 średnie 2 12 Starszy: inspektor, technik, archiwista IV-VII – średnie 2 13 Inspektor,
+młodszy administrator,
+technik III-VI – średnie – 14 Referent,
+sekretarka,
+archiwista,
+magazynier II-IV – średnie – 15 Konserwator,
+sprzątaczka,
+pracownik gospodarczy I-III – zawodowe
+lub podstawowe – kierowca według odrębnych przepisów”
 § 2.
 Miesięczne stawki wynagrodzenia zasadniczego określone w załączniku do niniejszego rozporządzenia w tabelach I, II i VII mają zastosowanie do wynagrodzeń należnych od dnia 1 stycznia 2013 r.
 § 3.
-Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
+Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700, z 2011 r. Nr 36, poz. 181, Nr 63, poz. 322, Nr 80, poz. 432, Nr 144, poz. 855, Nr 149, poz. 887 i Nr 232, poz. 1378, z 2012 r. poz. 908 i 1110 oraz z 2013 r. poz. 2. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 43, poz. 348, z 2010 r. Nr 16, poz. 85 oraz z 2011 r. Nr 140, poz. 823.
 Załącznik – Tabele miesięcznych stawek wynagrodzenia zasadniczego
 I. Dla pracowników OHP
 Kategoria zaszeregowania Kwota w złotych 1 2 I 1 150–1 600 II 1 170–1 700 III 1 210–1 800 IV 1 250–1 900 V 1 300–2 000 VI 1 350–2 100 VII 1 400–2 200 VIII 1 450–2 300 IX 1 500–2 400 X 1 550–2 500 XI 1 650–2 700 XII 1 750–2 900 XIII 1 850–3 100 XIV 1 950–3 300 XV 2 050–3 500 XVI 2 150–3 700 XVII 2 250–3 900 XVIII 2 350–4 100 XIX 2 450–4 400 XX 2 600–4 900 XXI 3 100–5 400

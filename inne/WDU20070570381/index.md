@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-03-07 |
 | Data wydania | 2007-04-02 |
-| Wejście w życie | 2007-04-17 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070570381) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/381/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701 oraz z 2007 r. Nr 52, poz. 343.) wprowadza się następujące zmiany:
 
 - **1)** w art. 19 dodaje się ust. 4 i 5 w brzmieniu: „
 
@@ -67,5 +66,5 @@ source: "eli-html"
 
 **Art. 2.** Przepisy wykonawcze wydane na podstawie art. 76 ust. 3 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701 oraz z 2007 r. Nr 52, poz. 343.
 

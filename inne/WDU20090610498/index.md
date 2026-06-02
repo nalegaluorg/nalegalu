@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-02-20 |
 | Data wydania | 2009-04-16 |
-| Wejście w życie | 2009-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090610498) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/498/text.pdf) |
 
@@ -88,11 +87,11 @@ source: "eli-html"
 - **10)** w art. 13: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Odpis orzeczenia uwzględniającego skargę dotyczącą przewlekłości postępowania sądowego sąd doręcza prezesowi właściwego sądu. Prezes sądu, któremu doręczono orzeczenie, jest obowiązany do podjęcia czynności nadzoru przewidzianych w ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.). ” , dodaje się ust. 3 w brzmieniu: „
+1. Odpis orzeczenia uwzględniającego skargę dotyczącą przewlekłości postępowania sądowego sąd doręcza prezesowi właściwego sądu. Prezes sądu, któremu doręczono orzeczenie, jest obowiązany do podjęcia czynności nadzoru przewidzianych w ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698, z 2008 r. Nr 223, poz. 1457, Nr 228, poz. 1507 i Nr 234, poz. 1571 oraz z 2009 r. Nr 1, poz. 4, Nr 9, poz. 57, Nr 26, poz. 156 i 157 i Nr 56, poz. 459.). ” , dodaje się ust. 3 w brzmieniu: „
 
 - **b)**
 
-3. Odpis orzeczenia uwzględniającego skargę dotyczącą przewlekłości postępowania przygotowawczego sąd doręcza prokuratorowi przełożonemu nad prokuratorem prowadzącym lub nadzorującym postępowanie przygotowawcze. Prokurator, któremu doręczono odpis orzeczenia, jest obowiązany do podjęcia czynności nadzoru przewidzianych w przepisach ustawy z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2008 r. Nr 7, poz. 39, z późn. zm.). ” ;
+3. Odpis orzeczenia uwzględniającego skargę dotyczącą przewlekłości postępowania przygotowawczego sąd doręcza prokuratorowi przełożonemu nad prokuratorem prowadzącym lub nadzorującym postępowanie przygotowawcze. Prokurator, któremu doręczono odpis orzeczenia, jest obowiązany do podjęcia czynności nadzoru przewidzianych w przepisach ustawy z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2008 r. Nr 7, poz. 39, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 1, poz. 4, Nr 26, poz. 156 i 157 i Nr 56, poz. 459.). ” ;
 
 - **11)** art. 14 otrzymuje brzmienie: „
 
@@ -104,11 +103,11 @@ source: "eli-html"
 
 **Art. 2.**
 
-1. W okresie 6 miesięcy od dnia wejścia w życie niniejszej ustawy osoby, które przed tym dniem złożyły skargę do Europejskiego Trybunału Praw Człowieka, zwanego dalej „Trybunałem”, zarzucając naruszenie w postępowaniu przygotowawczym prawa do rozpoznania sprawy w rozsądnym terminie, o którym mowa w art. 6 ust. 1 Konwencji o ochronie praw człowieka i podstawowych wolności (Dz. U. z 1993 r. Nr 61, poz. 284, z późn. zm.), mogą wnieść skargę o stwierdzenie przewlekłości postępowania na podstawie przepisów niniejszej ustawy, jeżeli skarga do Trybunału została wniesiona w toku postępowania przygotowawczego, którego ona dotyczy, i o ile Trybunał nie wydał postanowienia w przedmiocie dopuszczalności skargi.
+1. W okresie 6 miesięcy od dnia wejścia w życie niniejszej ustawy osoby, które przed tym dniem złożyły skargę do Europejskiego Trybunału Praw Człowieka, zwanego dalej „Trybunałem”, zarzucając naruszenie w postępowaniu przygotowawczym prawa do rozpoznania sprawy w rozsądnym terminie, o którym mowa w art. 6 ust. 1 Konwencji o ochronie praw człowieka i podstawowych wolności (Dz. U. z 1993 r. Nr 61, poz. 284, z późn. zm.Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 1995 r. Nr 36, poz. 175, 176 i 177, z 1998 r. Nr 147, poz. 962, z 2001 r. Nr 23, poz. 266 oraz z 2003 r. Nr 42, poz. 364.), mogą wnieść skargę o stwierdzenie przewlekłości postępowania na podstawie przepisów niniejszej ustawy, jeżeli skarga do Trybunału została wniesiona w toku postępowania przygotowawczego, którego ona dotyczy, i o ile Trybunał nie wydał postanowienia w przedmiocie dopuszczalności skargi.
 
 2. Skarga wniesiona w trybie ust. 1 powinna wskazywać datę wniesienia skargi do Trybunału.
 
 3. Właściwy sąd niezwłocznie zawiadamia ministra właściwego do spraw zagranicznych o skargach wniesionych w trybie, o którym mowa w ust. 1.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698, z 2008 r. Nr 223, poz. 1457, Nr 228, poz. 1507 i Nr 234, poz. 1571 oraz z 2009 r. Nr 1, poz. 4, Nr 9, poz. 57, Nr 26, poz. 156 i 157 i Nr 56, poz. 459. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 1, poz. 4, Nr 26, poz. 156 i 157 i Nr 56, poz. 459. 3) Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 1995 r. Nr 36, poz. 175, 176 i 177, z 1998 r. Nr 147, poz. 962, z 2001 r. Nr 23, poz. 266 oraz z 2003 r. Nr 42, poz. 364.
 

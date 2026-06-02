@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 5 czerwca 2014 r. zmieniające rozporządzenie w sprawie warunków technicznych, jakim powinny odpowiadać budowle kolejowe i ich usytuowanie
+# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 5 czerwca 2014 r. zmieniające rozporządzenie w sprawie warunków technicznych, jakim powinny odpowiadać budowle kolejowe i ich usytuowanie Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 3 lutego 2014 r. pod numerem 2014/0059/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,33 +22,27 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-06-05 |
 | Data wydania | 2014-06-30 |
-| Wejście w życie | 2014-07-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000867) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/867/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768 i 822.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Transportu i Gospodarki Morskiej z dnia 10 września 1998 r. w sprawie warunków technicznych, jakim powinny odpowiadać budowle kolejowe i ich usytuowanie (Dz. U. Nr 151, poz. 987) wprowadza się następujące zmiany:
 1)
-w § 3 pkt 9 otrzymuje brzmienie:
-„
+w § 3 pkt 9 otrzymuje brzmienie: „
 9)
-skrajni budowli – rozumie się przez to wolną przestrzeń określoną linią wyznaczającą minimalne odległości pomiędzy pojazdem kolejowym a obiektami i urządzeniami infrastruktury kolejowej, niezbędne dla zapewnienia bezpiecznego i bezkolizyjnego prowadzenia ruchu pojazdów kolejowych,
-” ;
+skrajni budowli – rozumie się przez to wolną przestrzeń określoną linią wyznaczającą minimalne odległości pomiędzy pojazdem kolejowym a obiektami i urządzeniami infrastruktury kolejowej, niezbędne dla zapewnienia bezpiecznego i bezkolizyjnego prowadzenia ruchu pojazdów kolejowych, ” ;
 2)
-w § 7 ust. 1 otrzymuje brzmienie:
-„
+w § 7 ust. 1 otrzymuje brzmienie: „
 1.
-Granica przyległego pasa gruntu, w rozumieniu przepisów o transporcie kolejowym, w uzgodnieniu z właściwym zarządcą infrastruktury kolejowej, powinna być oznaczona w terenie stałymi punktami zwanymi granicznikami i powinna znajdować się w odległości niezakłócającej działania urządzeń związanych z prowadzeniem ruchu kolejowego, a także niepowodującej zagrożenia bezpieczeństwa ruchu kolejowego.
-” ;
+Granica przyległego pasa gruntu, w rozumieniu przepisów o transporcie kolejowym, w uzgodnieniu z właściwym zarządcą infrastruktury kolejowej, powinna być oznaczona w terenie stałymi punktami zwanymi granicznikami i powinna znajdować się w odległości niezakłócającej działania urządzeń związanych z prowadzeniem ruchu kolejowego, a także niepowodującej zagrożenia bezpieczeństwa ruchu kolejowego. ” ;
 3)
 w § 12 uchyla się ust. 2;
 4)
 w § 13 w ust. 2 w tabeli 3.1 skreśla się kolumnę 6 „Dopuszczalne naciski osi P [kN]”;
 5)
-po § 14 dodaje się § 14a i 14b w brzmieniu:
-„
+po § 14 dodaje się § 14a i 14b w brzmieniu: „
 § 14a.
 Przy sprawdzaniu wytrzymałości budowli kolejowych stosuje się modele obciążeń eksploatacyjnych zgodnie z normą PN-EN 15528 Kolejnictwo – Klasyfikacja linii w odniesieniu do oddziaływań pomiędzy obciążeniami granicznymi pojazdów szynowych a infrastrukturą.
 § 14b.
@@ -56,20 +50,21 @@ Modele obciążeń projektowych stosuje się zgodnie z normą PN-EN 1991 Eurokod
 1)
 linie kolejowe magistralne (kat. 0) i pierwszorzędne (kat. 1): α=1,21,
 2)
-linie kolejowe drugorzędne: α=1,10.
-” ;
+linie kolejowe drugorzędne: α=1,10. ” ;
 6)
 w §15:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-W celu określenia wymagań w zakresie dostosowania konstrukcji do parametrów eksploatacyjnych nawierzchni tory kolejowe dzieli się na klasy techniczne, przy czym należy uwzględnić parametry linii kolejowych, o których mowa w § 13 i § 14a, oraz obciążenie toru przewozami i analizy niezawodności, dostępności i podatności utrzymaniowej w rozumieniu normy PN-EN 50126 Zastosowania kolejowe – Specyfikacja niezawodności, dostępności, podatności utrzymaniowej i bezpieczeństwa.
-” ,
+W celu określenia wymagań w zakresie dostosowania konstrukcji do parametrów eksploatacyjnych nawierzchni tory kolejowe dzieli się na klasy techniczne, przy czym należy uwzględnić parametry linii kolejowych, o których mowa w § 13 i § 14a, oraz obciążenie toru przewozami i analizy niezawodności, dostępności i podatności utrzymaniowej w rozumieniu normy PN-EN 50126 Zastosowania kolejowe – Specyfikacja niezawodności, dostępności, podatności utrzymaniowej i bezpieczeństwa. ” ,
 b)
 uchyla się ust. 2–4,
 c)
-w ust. 5 tabela 3.2 „Warunki klasyfikacji torów kolejowych” otrzymuje brzmienie: Klasy techniczne torów Parametry eksploatacyjne Uwagi dopuszczalnaprędkość pociągóww km/h obciążenie przewozami w Tg/rok 1 2 3 4 0 200 nienormowane O zaklasyfikowaniu toru do danej klasy decyduje jeden z parametrów określonych w kolumnach obok, przy czym wyboru parametru należy dokonywać z uwzględnieniem analiz niezawodności, dostępności i podatności utrzymaniowej w rozumieniu normyPN-EN 50126 Zastosowania kolejowe – Specyfikacja niezawodności, dostępności, podatności utrzymaniowej i bezpieczeństwa oraz parametrów linii kolejowych, o których mowa w § 13 i § 14a 1 120 powyżej 25 140 160 2 80 16–25 100 16–25 3 70 9–15 80 9–15 4 60 4–8 70 4–8 5 30 0–3 40 0–3
+w ust. 5 tabela 3.2 „Warunki klasyfikacji torów kolejowych” otrzymuje brzmienie:
+Klasy techniczne torów Parametry eksploatacyjne Uwagi dopuszczalna
+prędkość pociągów
+w km/h obciążenie przewozami w Tg/rok 1 2 3 4 0 200 nienormowane O zaklasyfikowaniu toru do danej klasy decyduje jeden z parametrów określonych w kolumnach obok, przy czym wyboru parametru należy dokonywać z uwzględnieniem analiz niezawodności, dostępności i podatności utrzymaniowej w rozumieniu normy
+PN-EN 50126 Zastosowania kolejowe – Specyfikacja niezawodności, dostępności, podatności utrzymaniowej i bezpieczeństwa oraz parametrów linii kolejowych, o których mowa w § 13 i § 14a 1 120 powyżej 25 140 160 2 80 16–25 100 16–25 3 70 9–15 80 9–15 4 60 4–8 70 4–8 5 30 0–3 40 0–3
 d)
 uchyla się ust. 6;
 7)
@@ -81,16 +76,13 @@ w §21:
 a)
 w ust. 3 uchyla się pkt 3,
 b)
-po ust. 3 dodaje się ust. 3a i 3b w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
 3a.
 W łukach o promieniu nie mniejszym niż 190 m w torach głównych dodatkowych i bocznych oraz w łukach o promieniu nie mniejszym niż 250 m w torach szlakowych i głównych zasadniczych odstępuje się od wymagań, o których mowa w ust. 3 pkt 1 i 4, i stosuje się tor bezstykowy w przypadku wymuszenia naprężeń w tokach szynowych odpowiadających temperaturze przytwierdzenia (23±3)şC i jednoczesnego zastosowania rozwiązań zwiększających stateczność toru bezstykowego lub niezawodność użytkowania.
 3b.
-W przypadku nawierzchni bezpodsypkowej stosuje się wyłącznie tor bezstykowy niezależnie od promienia łuku i dopuszcza się zmniejszenie poszerzenia toru, o którym mowa w § 23 ust. 2.
-” ,
+W przypadku nawierzchni bezpodsypkowej stosuje się wyłącznie tor bezstykowy niezależnie od promienia łuku i dopuszcza się zmniejszenie poszerzenia toru, o którym mowa w § 23 ust. 2. ” ,
 c)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
 Nawierzchnię torów i rozjazdów bezstykowych stanowią:
 1)
@@ -100,13 +92,11 @@ przytwierdzenia sprężyste lub pośrednie,
 3)
 podkłady i podrozjazdnice,
 4)
-podsypka tłuczniowa ze skał naturalnych o szerokości korony pryzmy za czołami podkładów nie mniejszej niż 0,40 m.
-” ;
+podsypka tłuczniowa ze skał naturalnych o szerokości korony pryzmy za czołami podkładów nie mniejszej niż 0,40 m. ” ;
 10)
 w § 24:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
 Przy układaniu rozjazdów powinno się przestrzegać następujących warunków:
 1)
@@ -130,38 +120,29 @@ w połączeniach torów rozjazdami prędkość przyrostu przyspieszenia niezrów
 6)
 występującą różnicę szerokości toru na łuku i w początku rozjazdu powinno się wyrównać w torze przyległym do rozjazdu,
 7)
-w bocznych torach stacyjnych możliwe jest układanie rozjazdów z poszerzeniem w styku przediglicowym za końcem rozjazdu poprzedzającego, z tym że przejście od zwiększonej szerokości do normalnej wykonuje się na końcu rozjazdu poprzedzającego.
-” ,
+w bocznych torach stacyjnych możliwe jest układanie rozjazdów z poszerzeniem w styku przediglicowym za końcem rozjazdu poprzedzającego, z tym że przejście od zwiększonej szerokości do normalnej wykonuje się na końcu rozjazdu poprzedzającego. ” ,
 b)
 uchyla się ust. 7 i 8;
 11)
-w § 25 dodaje się ust. 3 w brzmieniu:
-„
+w § 25 dodaje się ust. 3 w brzmieniu: „
 3.
-W przypadku łuków o długości części kołowej nie większej niż 50 m w torze klasycznym lub w przypadku zastosowania toru bezstykowego dopuszcza się stosowanie prowadnic wyłącznie na łukach o promieniu mniejszym niż 190 m.
-” ;
+W przypadku łuków o długości części kołowej nie większej niż 50 m w torze klasycznym lub w przypadku zastosowania toru bezstykowego dopuszcza się stosowanie prowadnic wyłącznie na łukach o promieniu mniejszym niż 190 m. ” ;
 12)
-w § 27 ust. 2 otrzymuje brzmienie:
-„
+w § 27 ust. 2 otrzymuje brzmienie: „
 2.
-Tory niezelektryfikowane powinny być odizolowane od torów zelektryfikowanych w sposób określony w normie PN-EN 50162 Ochrona przed korozją powodowaną przez prądy błądzące z układów prądu stałego.
-” ;
+Tory niezelektryfikowane powinny być odizolowane od torów zelektryfikowanych w sposób określony w normie PN-EN 50162 Ochrona przed korozją powodowaną przez prądy błądzące z układów prądu stałego. ” ;
 13)
-w § 28 dodaje się ust. 6 w brzmieniu:
-„
+w § 28 dodaje się ust. 6 w brzmieniu: „
 6.
-W odniesieniu do kozłów oporowych, o których mowa w ust. 2 pkt 3, wymagania określone w ust. 4 i 5 nie mają zastosowania.
-” ;
+W odniesieniu do kozłów oporowych, o których mowa w ust. 2 pkt 3, wymagania określone w ust. 4 i 5 nie mają zastosowania. ” ;
 14)
 w dziale III tytuł rozdziału 5 otrzymuje brzmienie: „Rozstaw torów”;
 15)
 w § 30:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Rozstaw torów linii kolejowej dwutorowej powinien wynosić nie mniej niż 4 m. W przypadku zaistnienia trudnych warunków terenowych w uzgodnieniu z zarządcą infrastruktury kolejowej dopuszcza się wyjątkowo zastosowanie rozstawu torów nie mniejszego niż 3,50 m.
-” ,
+Rozstaw torów linii kolejowej dwutorowej powinien wynosić nie mniej niż 4 m. W przypadku zaistnienia trudnych warunków terenowych w uzgodnieniu z zarządcą infrastruktury kolejowej dopuszcza się wyjątkowo zastosowanie rozstawu torów nie mniejszego niż 3,50 m. ” ,
 b)
 uchyla się ust. 3–10 i skreśla się tabelę 3.7;
 16)
@@ -169,21 +150,17 @@ w § 31:
 a)
 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Układ geometryczny toru kolejowego określony jest: ” ,
 b)
-po ust. 1 dodaje się ust. la i 1b w brzmieniu:
-„
-la. W przypadku budowli kolejowych podlegających ocenie zgodności z wymaganiami zasadniczymi dla interoperacyjności systemu kolei przy projektowaniu układu geometrycznego torów i połączeń torów w płaszczyźnie poziomej i pionowej powinno się stosować zasady obliczeń i dopuszczalne wartości parametrów określone w normie PN-EN 13803 Kolejnictwo – Tor – Parametry projektowania toru w planie – Tor o szerokości 1435 mm i większej, przy czym:
+po ust. 1 dodaje się ust. la i 1b w brzmieniu: „ la. W przypadku budowli kolejowych podlegających ocenie zgodności z wymaganiami zasadniczymi dla interoperacyjności systemu kolei przy projektowaniu układu geometrycznego torów i połączeń torów w płaszczyźnie poziomej i pionowej powinno się stosować zasady obliczeń i dopuszczalne wartości parametrów określone w normie PN-EN 13803 Kolejnictwo – Tor – Parametry projektowania toru w planie – Tor o szerokości 1435 mm i większej, przy czym:
 1)
 w odniesieniu do układu geometrycznego w płaszczyźnie poziomej powinno się stosować metodę zmiany niedomiaru przechyłki oraz nagłej zmiany niedomiaru przechyłki,
 2)
 szczegółowe wartości należy uzgodnić z zarządcą infrastruktury kolejowej.
 1b.
-W przypadku budowli kolejowych, które nie są objęte oceną zgodności z wymaganiami zasadniczymi dla interoperacyjności systemu kolei, przy projektowaniu układu geometrycznego torów i połączeń torów w płaszczyźnie poziomej i pionowej stosuje się zasady obliczeń i dopuszczalnych wartości parametrów określonych w § 32–38.
-” ,
+W przypadku budowli kolejowych, które nie są objęte oceną zgodności z wymaganiami zasadniczymi dla interoperacyjności systemu kolei, przy projektowaniu układu geometrycznego torów i połączeń torów w płaszczyźnie poziomej i pionowej stosuje się zasady obliczeń i dopuszczalnych wartości parametrów określonych w § 32–38. ” ,
 c)
 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przy projektowaniu konstrukcji układu geometrycznego toru kolejowego metodą bazy sztywnej należy przyjmować model ruchu punktu materialnego poruszającego się po trajektorii ustalonej osią toru, określony następującymi parametrami: ” ,
 d)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
 Wartość przechyłki (h) minimalnej dla toru w łuku wynosi 20 mm, a wartość przechyłki maksymalnej wynosi 150 mm, przy czym:
 1)
@@ -191,58 +168,56 @@ w łukach poziomych o promieniu mniejszym niż 300 m wartość przechyłki h w m
 2)
 w rozjazdach maksymalna wartość przechyłki nie powinna przekraczać 100 mm,
 3)
-przy peronach maksymalna wartość przechyłki nie powinna przekraczać 110 mm.
-” ;
+przy peronach maksymalna wartość przechyłki nie powinna przekraczać 110 mm. ” ;
 17)
 w § 33:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-W celu zrównoważenia przyspieszenia odśrodkowego powinno się stosować na części kołowej łuku przechyłkę, której wartość h powinna spełniać nierówność: \( {{11,8 \bullet V_{\max }^2 } \over R} – {s \over g} \bullet a_{dop} \le h \le {{11,8 \bullet V_t^2 } \over R} + {s \over g} \bullet a_t \) aaaVmax-maksymalna prędkość pojazdów kolejowych bez systemu kompensacji przyspieszeń odśrodkowych w km/h, R- promień łuku w m, s- rozstaw osi szyn w torze w mm, Vt- uśredniona prędkość najwolniejszych, kursujących regularnie pojazdów kolejowych w km/h, g- przyspieszenie ziemskie = 9,81 w m/s2, adop- dopuszczalna wartość niezrównoważonego przyspieszenia odśrodkowego określona w tabeli 3.9 w m/s2, at- dopuszczalna wartość niezrównoważonego przyspieszenia dośrodkowego określona w tabeli 3.10 w m/s2, h- wartość przechyłki w mm.
-” ,
+W celu zrównoważenia przyspieszenia odśrodkowego powinno się stosować na części kołowej łuku przechyłkę, której wartość h powinna spełniać nierówność: \( {{11,8 \bullet V_{\max }^2 } \over R} – {s \over g} \bullet a_{dop} \le h \le {{11,8 \bullet V_t^2 } \over R} + {s \over g} \bullet a_t \) aaaVmax-maksymalna prędkość pojazdów kolejowych bez systemu kompensacji przyspieszeń odśrodkowych w km/h, R- promień łuku w m, s- rozstaw osi szyn w torze w mm, Vt- uśredniona prędkość najwolniejszych, kursujących regularnie pojazdów kolejowych w km/h, g- przyspieszenie ziemskie = 9,81 w m/s2, adop- dopuszczalna wartość niezrównoważonego przyspieszenia odśrodkowego określona w tabeli 3.9 w m/s2, at- dopuszczalna wartość niezrównoważonego przyspieszenia dośrodkowego określona w tabeli 3.10 w m/s2, h- wartość przechyłki w mm. ” ,
 b)
-w ust. 2 tabele 3.9 i 3.10 otrzymują brzmienie:
-„
-Tabela 3.9 Dopuszczalne wartości niezrównoważonego przyspieszenia odśrodkowego a dop
-Rodzaj układu torowego/ruchu adopw m/s2 1 2 ruch pasażerski 0,85 ruch towarowy 0,72 tory boczne (v ≤ 40 km/h) 0,65 łuki o promieniach 200 m < R ≤ 250 m 0,65 łuki o promieniach R ≤ 200 m 0,45 tory zwrotne rozjazdów zwyczajnych ze stałą krzyżownicą 0,72 dla ν ≤160 km/h 0,58 dla 160 <v≤200 km/h tory zwrotne rozjazdów zwyczajnych z ruchomą krzyżownicą 0,85 dla ν ≤ 200 km/h rozjazdy łukowe ze stałą krzyżownicą w toku zewnętrznym 0,72 dla ν ≤ 160 km/h 0,58 dla 160 <v≤ 200 km/h rozjazdy łukowe ze stałą krzyżownicą w toku wewnętrznym 0,72 dla ν ≤ 200 km/h rozjazdy łukowe z krzyżownicą ruchomą w toku zewnętrznym lub wewnętrznym 0,85 dla ν ≤ 200 km/h skrzyżowania torów, rozjazdy krzyżowe 0,65 dla ν ≤ 100 km/h przyrządy wyrównawcze 0,65 dla ν ≤ 160 km/h 0,52 dla 160 <v≤ 200 km/h 1) Dopuszcza się stosowanie wartości przyspieszenia odśrodkowego adop= 1,00 w przypadku ruchu pasażerskiego wykonywanego taborem spełniającym wymagania Technicznej Specyfikacji Interoperacyjności odnoszącej się do podsystemu „Tabor – lokomotywy i tabor pasażerski” na liniach kolejowych, dla których zarządca infrastruktury opracował plan utrzymania, w rozumieniu Technicznej Specyfikacji Interoperacyjności podsystemu „Infrastruktura”, uwzględniający tę wartość.
-Tabela 3.10 Dopuszczalne wartości niezrównoważonego przyspieszenia dośrodkowego a t
+w ust. 2 tabele 3.9 i 3.10 otrzymują brzmienie: „
+Tabela 3.9
+Dopuszczalne wartości niezrównoważonego przyspieszenia odśrodkowego a dop
+Rodzaj układu torowego/ruchu adopw m/s2
+1 2 ruch pasażerski 0,85Minister Infrastruktury i Rozwoju kieruje działem administracji rządowej – budownictwo, lokalne planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 listopada 2013 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Rozwoju (Dz. U. poz. 1391). ruch towarowy 0,72 tory boczne (v ≤ 40 km/h) 0,65 łuki o promieniach 200 m < R ≤ 250 m 0,65 łuki o promieniach R ≤ 200 m 0,45 tory zwrotne rozjazdów zwyczajnych ze stałą krzyżownicą 0,72 dla ν ≤160 km/h 0,58 dla 160 <v≤200 km/h tory zwrotne rozjazdów zwyczajnych z ruchomą krzyżownicą 0,85 dla ν ≤ 200 km/h rozjazdy łukowe ze stałą krzyżownicą w toku zewnętrznym 0,72 dla ν ≤ 160 km/h 0,58 dla 160 <v≤ 200 km/h rozjazdy łukowe ze stałą krzyżownicą w toku wewnętrznym 0,72 dla ν ≤ 200 km/h rozjazdy łukowe z krzyżownicą ruchomą w toku zewnętrznym lub wewnętrznym 0,85 dla ν ≤ 200 km/h skrzyżowania torów, rozjazdy krzyżowe 0,65 dla ν ≤ 100 km/h przyrządy wyrównawcze 0,65 dla ν ≤ 160 km/h 0,52 dla 160 <v≤ 200 km/h 1) Dopuszcza się stosowanie wartości przyspieszenia odśrodkowego adop= 1,00 w przypadku ruchu pasażerskiego wykonywanego taborem spełniającym wymagania Technicznej Specyfikacji Interoperacyjności odnoszącej się do podsystemu „Tabor – lokomotywy i tabor pasażerski” na liniach kolejowych, dla których zarządca infrastruktury opracował plan utrzymania, w rozumieniu Technicznej Specyfikacji Interoperacyjności podsystemu „Infrastruktura”, uwzględniający tę wartość.
+Tabela 3.10
+Dopuszczalne wartości niezrównoważonego przyspieszenia dośrodkowego a t
 Obciążenie przewozami w Tg/rok atw m/s2 1 2 0≤T<5 0,72 5≤T<10 0,62 10≤T<15 0,52 15≤T<20 0,42 T≥20 0,32”
 18)
 w § 34:
 a)
-ust. 6 otrzymuje brzmienie:
-„
+ust. 6 otrzymuje brzmienie: „
 6.
-Wartości pochylenia rampy przechyłkowej nie powinny przekraczać 2 mm/m.
-” ,
+Wartości pochylenia rampy przechyłkowej nie powinny przekraczać 2 mm/m. ” ,
 b)
-ust. 9 otrzymuje brzmienie:
-„
+ust. 9 otrzymuje brzmienie: „
 9.
 Długość prostoliniowej rampy przechyłkowej powinna być tak dobrana, aby prędkość podnoszenia koła na rampie określona według wzoru: \( f = {{v \cdot h} \over {3,6 \cdot l}} \) gdzie: f – prędkość podnoszenia koła na rampie w mm/s, ν – prędkość jazdy pociągów w km/h, h – wartość przechyłki w łuku lub różnica przechyłek w łukach, pomiędzy którymi wykonuje się rampę przechyłkową w mm, l – długość rampy przechyłkowej w m
-– nie przekraczała dopuszczalnych wartości określonych w tabeli 3.12. Tabela 3.12 Dopuszczalna prędkość podnoszenia koła taboru na prostoliniowych rampach przechyłkowych Wartość f w mm/s 1 2 zasadnicza 28 dopuszczalna 50”
+nie przekraczała dopuszczalnych wartości określonych w tabeli 3.12.
+Tabela 3.12
+Dopuszczalna prędkość podnoszenia koła taboru na prostoliniowych rampach przechyłkowych
+Wartość f w mm/s 1 2 zasadnicza 28 dopuszczalna 50”
 19)
 w § 35:
 a)
-w ust. 4 tabela 3.14 otrzymuje brzmienie:
-„
-Tabela 3.14 Dopuszczalna prędkość przyrostu przyspieszenia niezrównoważonego Ψ dop
+w ust. 4 tabela 3.14 otrzymuje brzmienie: „
+Tabela 3.14
+Dopuszczalna prędkość przyrostu przyspieszenia niezrównoważonego Ψ dop
 Rodzaj układu torowego Ψdop m/s3 1 2 Tory główne zasadnicze i szlakowe – trudne warunki terenowe 0,5 Tory główne zasadnicze i szlakowe – dogodne warunki terenowe 0,3 Tory główne dodatkowe, boczne, rozjazdy i połączenia torowe 1,0”
 b)
-ust. 7 otrzymuje brzmienie:
-„
+ust. 7 otrzymuje brzmienie: „
 7.
-Połączenia łuków kołowych bez krzywych przejściowych, z przechyłką lub bez przechyłki, w tym połączenia torów rozjazdami, z wstawką prostą lub bez wstawki między łukami odwrotnymi, są możliwe pod warunkiem, że prędkość przyrostu przyspieszenia niezrównoważonego Ψ nie przekracza wartości dopuszczalnych określonych w tabeli 3.14, przy czym parametr ten należy obliczać zgodnie z następującym wzorem: \( \Psi = {{V \cdot (a_1 + a_2 )} \over {3,6 \cdot (b + w)}} \) w którym: Ψ – prędkość przyrostu przyspieszenia niezrównoważonego w m/s3, V – maksymalna prędkość pojazdów kolejowych w km/h, a1 a2 – niezrównoważone przyspieszenia dla prędkości maksymalnej w łukach torów oraz łukach rozjazdów w m/s2 z uwzględnieniem kierunku ich działania; wartości bezwzględne tych przyspieszeń sumuje się w przypadku łuków o odwrotnych kierunkach i odejmuje w przypadku łuków tego samego kierunku, w – długość odcinka prostego pomiędzy łukami w m, b- baza sztywna przyjmowana do obliczeń 20 m.
-” ;
+Połączenia łuków kołowych bez krzywych przejściowych, z przechyłką lub bez przechyłki, w tym połączenia torów rozjazdami, z wstawką prostą lub bez wstawki między łukami odwrotnymi, są możliwe pod warunkiem, że prędkość przyrostu przyspieszenia niezrównoważonego Ψ nie przekracza wartości dopuszczalnych określonych w tabeli 3.14, przy czym parametr ten należy obliczać zgodnie z następującym wzorem: \( \Psi = {{V \cdot (a_1 + a_2 )} \over {3,6 \cdot (b + w)}} \) w którym: Ψ – prędkość przyrostu przyspieszenia niezrównoważonego w m/s3, V – maksymalna prędkość pojazdów kolejowych w km/h, a1 a2 – niezrównoważone przyspieszenia dla prędkości maksymalnej w łukach torów oraz łukach rozjazdów w m/s2 z uwzględnieniem kierunku ich działania; wartości bezwzględne tych przyspieszeń sumuje się w przypadku łuków o odwrotnych kierunkach i odejmuje w przypadku łuków tego samego kierunku, w – długość odcinka prostego pomiędzy łukami w m, b- baza sztywna przyjmowana do obliczeń 20 m. ” ;
 20)
-w § 36 w ust. 1 tabela 3.15 otrzymuje brzmienie:
-„
-Tabela 3.15 Najmniejsza długość odcinka prostego pomiędzy łukami w m
-Tory Warunki terenowe normalne trudne 1 2 3 główne i szlakowe Vmax/2,5 Vmax/3,0 1) pozostałe 10 10 gdzie:Vmax – maksymalna prędkość pojazdów kolejowych w km/h1) nie mniej niż 20 m”
+w § 36 w ust. 1 tabela 3.15 otrzymuje brzmienie: „
+Tabela 3.15
+Najmniejsza długość odcinka prostego pomiędzy łukami w m
+Tory Warunki terenowe normalne trudne 1 2 3 główne i szlakowe Vmax/2,5 Vmax/3,0 1) pozostałe 10 10 gdzie:
+Vmax – maksymalna prędkość pojazdów kolejowych w km/h
+1) nie mniej niż 20 m”
 21)
-§ 37 otrzymuje brzmienie:
-„
+§ 37 otrzymuje brzmienie: „
 § 37.
 Na liniach kolejowych powinno się stosować następujące wartości maksymalne pochylenia podłużnego:
 1)
@@ -252,33 +227,25 @@ w torach linii przeznaczonych dla ruchu pasażerskiego – 25%,
 3)
 w torach przeznaczonych do postoju pojazdów kolejowych odłączonych od czynnego pojazdu trakcyjnego – 2,5%o,
 4)
-w torach linii przebudowywanych – nie większe niż występujące przed przebudową albo zgodne z wymaganiami określonymi w pkt 1–3.
-” ;
+w torach linii przebudowywanych – nie większe niż występujące przed przebudową albo zgodne z wymaganiami określonymi w pkt 1–3. ” ;
 22)
 w § 38:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-W trudnych warunkach terenowych odległość między załomami profilu podłużnego może być zmniejszona do 1/3 długości najdłuższego pociągu.
-” ,
+W trudnych warunkach terenowych odległość między załomami profilu podłużnego może być zmniejszona do 1/3 długości najdłuższego pociągu. ” ,
 b)
-po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
-W strefie połączeń torowych dopuszcza się stosowanie odległości między załomami profilu podłużnego mniejszych niż 1/3 długości najdłuższego pociągu.
-” ,
+W strefie połączeń torowych dopuszcza się stosowanie odległości między załomami profilu podłużnego mniejszych niż 1/3 długości najdłuższego pociągu. ” ,
 c)
 uchyla się ust. 3 i 4,
 d)
-po ust. 10 dodaje się ust. l0a w brzmieniu:
-„
-l0a. W przypadku gdy z uwagi na uwarunkowania geometryczne toru kolejowego lub warunki terenowe nie jest możliwe spełnienie wymagań, o których mowa w ust. 10, długość łuku wyokrąglającego powinna być nie mniejsza niż długość rampy przechyłkowej, przy jednoczesnym spełnieniu następujących wymagań:
+po ust. 10 dodaje się ust. l0a w brzmieniu: „ l0a. W przypadku gdy z uwagi na uwarunkowania geometryczne toru kolejowego lub warunki terenowe nie jest możliwe spełnienie wymagań, o których mowa w ust. 10, długość łuku wyokrąglającego powinna być nie mniejsza niż długość rampy przechyłkowej, przy jednoczesnym spełnieniu następujących wymagań:
 1)
 promień łuku pionowego nie powinien być mniejszy niż 5000 m,
 2)
-pochylenie rampy przechyłkowej powinno spełniać warunek: \( {h \over l} \le {1 \over {500}} \) w którym: h – wartość przechyłki w mm, l – długość rampy przechyłkowej w mm.
-” ;
+pochylenie rampy przechyłkowej powinno spełniać warunek: \( {h \over l} \le {1 \over {500}} \) w którym: h – wartość przechyłki w mm, l – długość rampy przechyłkowej w mm. ” ;
 23)
 w § 42 uchyla się ust. 9;
 24)
@@ -288,92 +255,69 @@ w § 45 uchyla się ust. 2–4;
 26)
 w § 49:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Konstrukcja nawierzchni kolejowej na obiektach inżynieryjnych bez naziomu powinna posiadać niezależne od ustroju konstrukcyjnego obiektu podpory toków szynowych.
-” ,
+Konstrukcja nawierzchni kolejowej na obiektach inżynieryjnych bez naziomu powinna posiadać niezależne od ustroju konstrukcyjnego obiektu podpory toków szynowych. ” ,
 b)
 uchyla się ust. 2 i 3,
 c)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-Podtorze i nawierzchnia w sąsiedztwie przyczółków powinna posiadać wzmocnioną konstrukcję uniemożliwiającą zróżnicowane osiadania wywołane różnicą ustrojów konstrukcyjnych oraz sprężystości podłoża.
-” ;
+Podtorze i nawierzchnia w sąsiedztwie przyczółków powinna posiadać wzmocnioną konstrukcję uniemożliwiającą zróżnicowane osiadania wywołane różnicą ustrojów konstrukcyjnych oraz sprężystości podłoża. ” ;
 27)
-w § 50 ust. 2 otrzymuje brzmienie:
-„
+w § 50 ust. 2 otrzymuje brzmienie: „
 2.
-Światło wiaduktów kolejowych nad drogami publicznymi powinno odpowiadać wymaganiom skrajni drogi odpowiedniej dla danej klasy drogi, a w przypadku przebudowy wiaduktu nie może być ono mniejsze niż przed przebudową.
-” ;
+Światło wiaduktów kolejowych nad drogami publicznymi powinno odpowiadać wymaganiom skrajni drogi odpowiedniej dla danej klasy drogi, a w przypadku przebudowy wiaduktu nie może być ono mniejsze niż przed przebudową. ” ;
 28)
-w § 55 ust. 7 otrzymuje brzmienie:
-„
+w § 55 ust. 7 otrzymuje brzmienie: „
 7.
-Konstrukcje wsporcze sieci jezdnej mogą być wykorzystane do podwieszenia wyizolowanych przewodów linii optotelekomunikacyjnych oraz elektroenergetycznych średniego napięcia zasilających obiekty i urządzenia służące do prowadzenia ruchu pociągów.
-” ;
+Konstrukcje wsporcze sieci jezdnej mogą być wykorzystane do podwieszenia wyizolowanych przewodów linii optotelekomunikacyjnych oraz elektroenergetycznych średniego napięcia zasilających obiekty i urządzenia służące do prowadzenia ruchu pociągów. ” ;
 29)
 w § 57 uchyla się ust. 4;
 30)
-w § 89 ust. 1 otrzymuje brzmienie:
-„
+w § 89 ust. 1 otrzymuje brzmienie: „
 1.
-W łukach o promieniu 4000 m i mniejszym zewnętrzny tok szynowy powinien być podniesiony w stosunku do toku wewnętrznego o wartość przechyłki (h) wyliczonej ze wzoru: \( {{12,5 \cdot V_{\max }^2 } \over R} – {s \over g} \cdot a_{dop} \le h \le {{12,5 \cdot V_t^2 } \over R} + {s \over g} \cdot a_t \) gdzie: aaaVmax – maksymalna prędkość pojazdów kolejowych bez systemu kompensacji przyspieszeń odśrodkowych w km/h, R – promień łuku w m, s- rozstaw osi szyn w torze w mm, Vt- uśredniona prędkość najwolniej szych, kursujących regularnie pojazdów kolejowych w km/h, g- przyspieszenie ziemskie = 9,81 w m/s2, adop- dopuszczalna wartość niezrównoważonego przyspieszenia odśrodkowego wynosząca 0,7 w m/s2, at- dopuszczalna wartość niezrównoważonego przyspieszenia dośrodkowego określona w tabeli 3.10 w m/s2, h- wartość przechyłki w mm.
-” ;
+W łukach o promieniu 4000 m i mniejszym zewnętrzny tok szynowy powinien być podniesiony w stosunku do toku wewnętrznego o wartość przechyłki (h) wyliczonej ze wzoru: \( {{12,5 \cdot V_{\max }^2 } \over R} – {s \over g} \cdot a_{dop} \le h \le {{12,5 \cdot V_t^2 } \over R} + {s \over g} \cdot a_t \) gdzie: aaaVmax – maksymalna prędkość pojazdów kolejowych bez systemu kompensacji przyspieszeń odśrodkowych w km/h, R – promień łuku w m, s- rozstaw osi szyn w torze w mm, Vt- uśredniona prędkość najwolniej szych, kursujących regularnie pojazdów kolejowych w km/h, g- przyspieszenie ziemskie = 9,81 w m/s2, adop- dopuszczalna wartość niezrównoważonego przyspieszenia odśrodkowego wynosząca 0,7 w m/s2, at- dopuszczalna wartość niezrównoważonego przyspieszenia dośrodkowego określona w tabeli 3.10 w m/s2, h- wartość przechyłki w mm. ” ;
 31)
-w § 96 ust. 1 otrzymuje brzmienie:
-„
+w § 96 ust. 1 otrzymuje brzmienie: „
 1.
-Rozjazdy układane w torach głównych zasadniczych i głównych dodatkowych powinny posiadać skosy nie większe niż 1:9.
-” ;
+Rozjazdy układane w torach głównych zasadniczych i głównych dodatkowych powinny posiadać skosy nie większe niż 1:9. ” ;
 32)
 w § 98:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
 Obiekty do obsługi osób projektuje się, buduje lub przebudowuje przy zachowaniu wymagań technicznych specyfikacji interoperacyjności systemu kolei, w tym:
 1)
 decyzji Komisji 2008/164/WE z dnia 21 grudnia 2007 r. dotyczącej technicznej specyfikacji interoperacyjności w zakresie aspektu „Osoby o ograniczonej możliwości poruszania się” transeuropejskiego systemu kolei konwencjonalnych i transeuropejskiego systemu kolei dużych prędkości (Dz. Urz. UE L 64 z 07.03.2008, str. 72, z późn. zm.),
 2)
-decyzji Komisji 2008/163/WE z dnia 20 grudnia 2007 r. dotyczącej technicznej specyfikacji interoperacyjności w zakresie aspektu „Bezpieczeństwo w tunelach kolejowych” transeuropejskiego systemu kolei konwencjonalnych i transeuropejskiego systemu kolei dużych prędkości (Dz. Urz. UE L 64 z 07.03.2008, str. 1, z późn. zm.).
-” ,
+decyzji Komisji 2008/163/WE z dnia 20 grudnia 2007 r. dotyczącej technicznej specyfikacji interoperacyjności w zakresie aspektu „Bezpieczeństwo w tunelach kolejowych” transeuropejskiego systemu kolei konwencjonalnych i transeuropejskiego systemu kolei dużych prędkości (Dz. Urz. UE L 64 z 07.03.2008, str. 1, z późn. zm.). ” ,
 b)
 uchyla się ust. 2,
 c)
-w ust. 3 pkt 4 otrzymuje brzmienie:
-„
+w ust. 3 pkt 4 otrzymuje brzmienie: „
 4)
-możliwość obsługi osób o ograniczonej możliwości poruszania się;
-” ,
+możliwość obsługi osób o ograniczonej możliwości poruszania się; ” ,
 d)
 uchyla się ust. 5 i 6;
 e)
-ust. 7 i 8 otrzymują brzmienie:
-„
+ust. 7 i 8 otrzymują brzmienie: „
 7.
 Odległość krawędzi peronu od osi toru powinna być projektowana przy zachowaniu wymagań skrajni budowli.
 8.
-Wysokość peronu powinna wynosić 0,76 m albo 0,55 m nad główkę szyny w zależności od typu pojazdu kolejowego zatrzymującego się przy peronie.
-” ,
+Wysokość peronu powinna wynosić 0,76 m albo 0,55 m nad główkę szyny w zależności od typu pojazdu kolejowego zatrzymującego się przy peronie. ” ,
 f)
-po ust. 8 dodaje się ust. 8a w brzmieniu:
-„
+po ust. 8 dodaje się ust. 8a w brzmieniu: „
 8a.
-W przypadku peronów o wysokości 0,76 m projektowaną odległość krawędzi peronu od osi toru X należy obliczać zgodnie z poniższym wzorem, uwzględniającym wpływ łuków i przechyłek, przy czym wynik należy zaokrąglać w górę do 5 mm: \( X = X_{GSZ} + S + \Delta b_D \) w którym: XGSZ – graniczna skrajnia zabudowy bez wpływu łuków i przechyłek w m, będąca sumą granicznej skrajni budowli oraz poszerzeń usprawniających eksploatację i utrzymanie, S – poszerzenie skrajni zabudowy z uwagi na projektowane łuki w płaszczyźnie poziomej w m, określane według następującego wzoru: \( l = {v \over {10}} \) gdzie: R oznacza promień łuku poziomego w m, ∆bD – wpływ przechyłki w m określany według następującego wzoru: \( \Delta b_D = {{h_q \cdot D} \over {\sqrt {1,5^2 – D^2 } }} \) w którym: hq – wysokość peronu w m, D – przechyłka projektowana w m.
-” ,
+W przypadku peronów o wysokości 0,76 m projektowaną odległość krawędzi peronu od osi toru X należy obliczać zgodnie z poniższym wzorem, uwzględniającym wpływ łuków i przechyłek, przy czym wynik należy zaokrąglać w górę do 5 mm: \( X = X_{GSZ} + S + \Delta b_D \) w którym: XGSZ – graniczna skrajnia zabudowy bez wpływu łuków i przechyłek w m, będąca sumą granicznej skrajni budowli oraz poszerzeń usprawniających eksploatację i utrzymanie, S – poszerzenie skrajni zabudowy z uwagi na projektowane łuki w płaszczyźnie poziomej w m, określane według następującego wzoru: \( l = {v \over {10}} \) gdzie: R oznacza promień łuku poziomego w m, ∆bD – wpływ przechyłki w m określany według następującego wzoru: \( \Delta b_D = {{h_q \cdot D} \over {\sqrt {1,5^2 – D^2 } }} \) w którym: hq – wysokość peronu w m, D – przechyłka projektowana w m. ” ,
 g)
 w ust. 9 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Długość peronu w zależności od długości pociągów zatrzymujących się przy peronie powinna wynosić nie mniej niż: ” ,
 h)
-po ust. 9 dodaje się ust. 9a w brzmieniu:
-„
+po ust. 9 dodaje się ust. 9a w brzmieniu: „
 9a.
-W przypadku peronów przeznaczonych wyłącznie do obsługi pociągów ruchu regionalnego dopuszcza się stosowanie peronów o długości nie mniejszej niż 85 m.
-” ,
+W przypadku peronów przeznaczonych wyłącznie do obsługi pociągów ruchu regionalnego dopuszcza się stosowanie peronów o długości nie mniejszej niż 85 m. ” ,
 i)
-ust. 10 otrzymuje brzmienie:
-„
+ust. 10 otrzymuje brzmienie: „
 10.
 Przy ustalaniu szerokości peronu powinno się uwzględniać szerokość:
 1)
@@ -381,20 +325,15 @@ strefy zagrożenia przy każdej krawędzi peronu,
 2)
 trasy wolnej od przeszkód o stałej szerokości,
 3)
-powierzchni użytkowej, która powinna posiadać wymiary dostosowane do projektowanego zagospodarowania peronu i szacunkowej ilości podróżnych.
-” ,
+powierzchni użytkowej, która powinna posiadać wymiary dostosowane do projektowanego zagospodarowania peronu i szacunkowej ilości podróżnych. ” ,
 j)
-po ust. 10 dodaje się ust. l0a w brzmieniu:
-„
-l0a. Szerokość peronu, o której mowa w ust. 10, nie może być mniejsza niż:
+po ust. 10 dodaje się ust. l0a w brzmieniu: „ l0a. Szerokość peronu, o której mowa w ust. 10, nie może być mniejsza niż:
 1)
 2,5 m w przypadku peronów jednokrawędziowych,
 2)
-3,3 m w przypadku peronów dwukrawędziowych.
-” ,
+3,3 m w przypadku peronów dwukrawędziowych. ” ,
 k)
-ust. 11 i 12 otrzymują brzmienie:
-„
+ust. 11 i 12 otrzymują brzmienie: „
 11.
 Strefę zagrożenia w rozumieniu decyzji, o której mowa w ust. 1 pkt 1, wyznacza się w formie przyległego do krawędzi peronu pasa o stałej szerokości zapewniającej dostęp do pociągu, która powinna wynosić nie mniej niż:
 1)
@@ -408,11 +347,9 @@ Strefę zagrożenia oznacza się:
 1)
 ostrzegawczym pasem dotykowym o stałej szerokości nie mniejszej niż 0,40 m i nie większej niż 0,60 m,
 2)
-ostrzegawczą linią wizualną o stałej szerokości nie mniejszej niż 0,10 m i nie większej niż 0,20 m w kolorze żółtym lub innym kontrastującym z kolorem posadzki – umiejscowioną na powierzchni strefy zagrożenia przy jej granicy z ostrzegawczym pasem dotykowym.
-” ,
+ostrzegawczą linią wizualną o stałej szerokości nie mniejszej niż 0,10 m i nie większej niż 0,20 m w kolorze żółtym lub innym kontrastującym z kolorem posadzki – umiejscowioną na powierzchni strefy zagrożenia przy jej granicy z ostrzegawczym pasem dotykowym. ” ,
 l)
-po ust. 12 dodaje się ust. 12a-12c w brzmieniu:
-„
+po ust. 12 dodaje się ust. 12a-12c w brzmieniu: „
 12a.
 Ostrzegawczy pas dotykowy powinien posiadać formę jednakowych znaków wypukłych o następujących parametrach:
 1)
@@ -426,13 +363,11 @@ znaki powinny być rozmieszczone w układzie siatki prostokątnej o wymiarach bo
 12b.
 Ostrzegawczym pasem dotykowym oznacza się także miejsca, w których w ciągu komunikacyjnym występują bariery architektoniczne lub inne przeszkody, w szczególności schody oraz granice obszaru dostępnego dla pasażerów.
 12c.
-Ostrzegawczą linią wizualną o szerokości nie mniejszej niż 0,05 m oznacza się również krawędzie pierwszego stopnia schodów w górę i pierwszego stopnia schodów w dół, na powierzchni poziomej i pionowej tych stopni.
-” ,
+Ostrzegawczą linią wizualną o szerokości nie mniejszej niż 0,05 m oznacza się również krawędzie pierwszego stopnia schodów w górę i pierwszego stopnia schodów w dół, na powierzchni poziomej i pionowej tych stopni. ” ,
 m)
 uchyla się ust. 13–16,
 n)
-po ust. 17 dodaje się ust. 17a i 17b w brzmieniu:
-„
+po ust. 17 dodaje się ust. 17a i 17b w brzmieniu: „
 17a.
 Szerokość trasy wolnej od przeszkód na peronie nie może wynosić mniej niż 1,60 m, z wyjątkiem:
 1)
@@ -444,14 +379,11 @@ Na trasie wolnej od przeszkód na peronie dopuszcza się usytuowanie:
 1)
 podpór wiat i innych słupów o długości nieprzekraczającej 1 m w rozstawie nie mniejszym niż 2,4 m pod warunkiem, że ich odległość od strefy zagrożenia wynosi 0,80 m lub więcej,
 2)
-konstrukcji stałych o długości nieprzekraczającej 10 m pod warunkiem, że ich odległość od strefy zagrożenia wynosi 1,2 m lub więcej, a odległość od krawędzi peronu wynosi 2 m lub więcej.
-” ,
+konstrukcji stałych o długości nieprzekraczającej 10 m pod warunkiem, że ich odległość od strefy zagrożenia wynosi 1,2 m lub więcej, a odległość od krawędzi peronu wynosi 2 m lub więcej. ” ,
 o)
-ust. 18 otrzymuje brzmienie:
-„
+ust. 18 otrzymuje brzmienie: „
 18.
-Nawierzchnia peronów powinna mieć właściwości przeciwpoślizgowe również w warunkach zawilgocenia oraz powinna być ułożona ze spadkiem poprzecznym 1–3 %; wartość spadku w strefie zagrożenia nie powinna przekraczać 1%.
-” ,
+Nawierzchnia peronów powinna mieć właściwości przeciwpoślizgowe również w warunkach zawilgocenia oraz powinna być ułożona ze spadkiem poprzecznym 1–3 %; wartość spadku w strefie zagrożenia nie powinna przekraczać 1%. ” ,
 p)
 w ust. 20 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Na stacjach i przystankach osobowych powinno się budować wiaty zapewniające osobom przebywającym na peronie osłonę przed opadami atmosferycznymi, w dostosowaniu do istniejących lub przewidywanych lokalizacji przejść dla pieszych, stanowiących dojście do peronu lub poczekalni peronowych, przy czym: ” ,
 q)
@@ -461,19 +393,15 @@ w §126:
 a)
 uchyla się ust. 3,
 b)
-po ust. 3 dodaje się ust. 3a w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a w brzmieniu: „
 3a.
-Przy torach wydzielonych dla SKM dopuszczalne jest stosowanie wartości nominalnej wysokości peronów wynoszącej 0,96 m nad główkę szyny.
-” ;
+Przy torach wydzielonych dla SKM dopuszczalne jest stosowanie wartości nominalnej wysokości peronów wynoszącej 0,96 m nad główkę szyny. ” ;
 34)
 w § 130 uchyla się ust. 3;
 35)
-w § 131 ust. 2 otrzymuje brzmienie:
-„
+w § 131 ust. 2 otrzymuje brzmienie: „
 2.
-Do kolei niekonwencjonalnych zalicza się w szczególności koleje jednoszynowe, koleje na poduszkach powietrznych lub magnetycznych.
-” ;
+Do kolei niekonwencjonalnych zalicza się w szczególności koleje jednoszynowe, koleje na poduszkach powietrznych lub magnetycznych. ” ;
 36)
 w dziale VIII uchyla się rozdział 2;
 37)
@@ -492,5 +420,5 @@ Obiekty do obsługi osób, o których mowa w § 98 rozporządzenia, o którym mo
 § 3.
 Na stacjach i przystankach osobowych wybudowanych przed dniem wejścia w życie niniejszego rozporządzenia, na których znajdują się naprzeciwległe perony niskie o wysokości 0,30 m, do czasu ich likwidacji lub ich przebudowy, w celu uniemożliwienia przechodzenia przez tory w miejscach do tego nieprzystosowanych, na międzytorzu na długości peronów należy umieścić bariery ochronne o wysokości co najmniej 0,90 m, jeżeli nie będą one naruszały wymagań skrajni budowli.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 3 lutego 2014 r. pod numerem 2014/0059/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768 i 822. 1) Minister Infrastruktury i Rozwoju kieruje działem administracji rządowej – budownictwo, lokalne planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 listopada 2013 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Rozwoju (Dz. U. poz. 1391).
 

@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-01-02 |
 | Data wydania | 2013-01-09 |
-| Wejście w życie | 2013-01-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000028) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/28/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618 oraz z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092) zarządza się, co następuje:
 § 1.
-Centralny Ośrodek Badawczo-Rozwojowy Opakowań z siedzibą w Warszawie, numer identyfikacyjny REGON 000018572, numer identyfikacji podatkowej NIP 525–000–87–78 z dniem 1 stycznia 2013 r. otrzymuje nazwę COBRO – Instytut Badawczy Opakowań.
+Centralny Ośrodek Badawczo-Rozwojowy Opakowań z siedzibą w Warszawie, numer identyfikacyjny REGON 000018572, numer identyfikacji podatkowej NIP 525–000–87–78Centralny Ośrodek Badawczo-Rozwojowy Opakowań został utworzony zarządzeniem nr 45 Przewodniczącego Państwowej Rady Gospodarki Materiałowej z dnia 6 października 1973 r. w sprawie utworzenia Centralnego Ośrodka Badawczo-Rozwojowego Opakowań, zmienionym zarządzeniem nr 17/Org/94 Ministra Przemysłu i Handlu z dnia 8 marca 1994 r. w sprawie dostosowania organizacji jednostki badawczo-rozwojowej pod nazwą: Centralny Ośrodek Badawczo-Rozwojowy Opakowań w Warszawie do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych. z dniem 1 stycznia 2013 r. otrzymuje nazwę COBRO – Instytut Badawczy Opakowań.
 § 2.
 Nadzór nad COBRO – Instytutem Badawczym Opakowań, zwanym dalej „Instytutem”, sprawuje minister właściwy do spraw gospodarki.
 § 3.
@@ -66,6 +65,5 @@ upowszechnianie wyników prowadzonych badań, między innymi przez prowadzenie d
 4)
 świadczenie usług badawczych, technologicznych, pomiarowych oraz opracowywanie opinii i ekspertyz w zakresie prowadzonych badań naukowych i prac rozwojowych.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2013 r.
-1) Centralny Ośrodek Badawczo-Rozwojowy Opakowań został utworzony zarządzeniem nr 45 Przewodniczącego Państwowej Rady Gospodarki Materiałowej z dnia 6 października 1973 r. w sprawie utworzenia Centralnego Ośrodka Badawczo-Rozwojowego Opakowań, zmienionym zarządzeniem nr 17/Org/94 Ministra Przemysłu i Handlu z dnia 8 marca 1994 r. w sprawie dostosowania organizacji jednostki badawczo-rozwojowej pod nazwą: Centralny Ośrodek Badawczo-Rozwojowy Opakowań w Warszawie do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2013 r. 1) Centralny Ośrodek Badawczo-Rozwojowy Opakowań został utworzony zarządzeniem nr 45 Przewodniczącego Państwowej Rady Gospodarki Materiałowej z dnia 6 października 1973 r. w sprawie utworzenia Centralnego Ośrodka Badawczo-Rozwojowego Opakowań, zmienionym zarządzeniem nr 17/Org/94 Ministra Przemysłu i Handlu z dnia 8 marca 1994 r. w sprawie dostosowania organizacji jednostki badawczo-rozwojowej pod nazwą: Centralny Ośrodek Badawczo-Rozwojowy Opakowań w Warszawie do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych.
 

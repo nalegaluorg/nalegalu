@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 21 sierpnia 2018 r. w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych, czynności dystrybucyjnych zakładu ubezpieczeń oraz czynności dystrybucyjnych zakładu reasekuracji
+# Rozporządzenie Ministra Finansówz dnia 21 sierpnia 2018 r. w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych, czynności dystrybucyjnych zakładu ubezpieczeń oraz czynności dystrybucyjnych zakładu reasekuracji Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-08-21 |
 | Data wydania | 2018-09-10 |
-| Wejście w życie | 2018-10-01 |
 | Ostatnia zmiana | 2024-08-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001746) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1746/text.pdf) |
 
@@ -184,7 +183,7 @@ ustawa z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z
 e)
 ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. poz. 1000 i 1669),
 f)
-rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.),
+rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2.,
 g)
 ustawa z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 723, 1075 i 1499);
 2)
@@ -487,6 +486,5 @@ Zakład ubezpieczeń albo zakład reasekuracji rozpatruje odwołanie w terminie 
 § 15.
 Do przeprowadzenia egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych oraz osób, o których mowa w art. 9 ust. 1a ustawy z dnia 22 maja 2003 r. o pośrednictwie ubezpieczeniowym (Dz. U. z 2016 r. poz. 2077, z 2017 r. poz. 60 i 2486 oraz z 2018 r. poz. 650 i 1629), które nie wykonują osobiście czynności agencyjnych i którego termin został ustalony przed dniem wejścia w życie rozporządzenia, stosuje się przepisy dotychczasowe.
 § 16.
-Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 października 2014 r. w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych (Dz. U. poz. 1485), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. poz. 2486 oraz z 2018 r. poz. 378, 650 i 1629).
+Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 października 2014 r. w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych (Dz. U. poz. 1485), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. poz. 2486 oraz z 2018 r. poz. 378, 650 i 1629). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 października 2014 r. w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych (Dz. U. poz. 1485), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. poz. 2486 oraz z 2018 r. poz. 378, 650 i 1629).
 

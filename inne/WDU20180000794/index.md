@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 24 kwietnia 2018 r. w sprawie badań psychofizjologicznych w Służbie Ochrony Państwa
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 24 kwietnia 2018 r. w sprawie badań psychofizjologicznych w Służbie Ochrony Państwa Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-04-24 |
 | Data wydania | 2018-04-26 |
-| Wejście w życie | 2018-04-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000794) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/794/text.pdf) |
 
@@ -47,8 +46,7 @@ w przypadku badań osób, o których mowa w art. 72 ust. 1 pkt 2 ustawy:
 a)
 prawdziwości danych przekazywanych przez kandydata w toku postępowania kwalifikacyjnego,
 b)
-wcześniejszych zachowań kandydata mających znaczenie dla oceny, czy spełnia on wymóg posiadania nieposzlakowanej opinii
-przez rejestrowanie, z wykorzystaniem poligrafu, specyficznych zmian reakcji psychofizjologicznych u osoby poddawanej badaniu psychofizjologicznemu, występujących w związku z pytaniami testowymi zadawanymi podczas badania.
+wcześniejszych zachowań kandydata mających znaczenie dla oceny, czy spełnia on wymóg posiadania nieposzlakowanej opinii – przez rejestrowanie, z wykorzystaniem poligrafu, specyficznych zmian reakcji psychofizjologicznych u osoby poddawanej badaniu psychofizjologicznemu, występujących w związku z pytaniami testowymi zadawanymi podczas badania.
 § 3.
 1.
 Badanie psychofizjologiczne przeprowadza się w pomieszczeniu zapewniającym prawidłowy i zgodny z metodyką przebieg badania z wykorzystaniem poligrafu, w szczególności pozwalającym na zminimalizowanie możliwości wystąpienia zakłóceń przebiegu badania bodźcami zewnętrznymi wpływającymi na reakcje psychofizjologiczne osoby, o której mowa w art. 72 ust. 1 ustawy, zwanej dalej „osobą poddawaną badaniu”.
@@ -206,6 +204,5 @@ Dokumentacja wskazana w ust. 1 pkt 7 i 8 dotycząca kandydata ubiegającego się
 7.
 Dokumentacja wskazana w ust. 1 pkt 7 i 8 dotycząca osób, o których mowa w art. 72 ust. 1 pkt 1 lit. b i pkt 2 ustawy, z którymi Komendant Służby Ochrony Państwa nie nawiązał stosunku służbowego, podlega protokolarnemu zniszczeniu przez kierownika komórki organizacyjnej właściwej w sprawach przeprowadzania badań psychofizjologicznych po uzyskaniu informacji od kierownika komórki organizacyjnej właściwej w sprawach osobowych o zakończeniu postępowania kwalifikacyjnego.
 § 13.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 

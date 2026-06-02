@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-08 |
 | Data wydania | 2005-09-01 |
-| Wejście w życie | 2006-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051671396) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1396/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492, Nr 273, poz. 2703 i Nr 281, poz. 2778.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w ust. 1 po pkt 14 dodaje się pkt 14a w brzmieniu: „
 - **14a)** wprowadzenie pojazdu do ruchu – wprowadzenie pojazdu na drogę rozumianą zgodnie z art. 2 pkt 1 ustawy – Prawo o ruchu drogowym; ” ;
@@ -270,7 +269,7 @@ source: "eli-html"
 
 4. Minister właściwy do spraw instytucji finansowych ogłasza statut Biura i jego zmiany w Dzienniku Urzędowym Ministra Finansów. ” .
 
-**Art. 2.** W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959 oraz z 2005 r. Nr 83, poz. 719 i Nr 143, poz. 1204.) wprowadza się następujące zmiany:
 
 - **1)** art. 15 otrzymuje brzmienie: „
 
@@ -289,5 +288,5 @@ uchyla się ust. 1; w ust. 2 w zdaniu wstępnym skreśla się wyraz „również
 
 **Art. 5.** Ubezpieczeniowy Fundusz Gwarancyjny oraz Polskie Biuro Ubezpieczycieli Komunikacyjnych są zobowiązane dostosować swoje statuty do przepisów ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie 12 miesięcy od dnia jej wejścia w życie.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 2006 r., z wyjątkiem art. 1 pkt 21, 23 i 24, które wchodzą w życie z dniem 26 marca 2006 r.
+**Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 2006 r., z wyjątkiem art. 1 pkt 21, 23 i 24, które wchodzą w życie z dniem 26 marca 2006 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492, Nr 273, poz. 2703 i Nr 281, poz. 2778. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959 oraz z 2005 r. Nr 83, poz. 719 i Nr 143, poz. 1204.
 

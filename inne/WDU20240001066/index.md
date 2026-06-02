@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 12 lipca 2024 r. w sprawie nadania statutu Głównemu Urzędowi Nadzoru Budowlanego
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 12 lipca 2024 r. w sprawie nadania statutu Głównemu Urzędowi Nadzoru Budowlanego Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-12 |
 | Data wydania | 2024-07-18 |
-| Wejście w życie | 2024-08-01 |
 | Ostatnia zmiana | 2024-07-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001066) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1066/text.pdf) |
 
@@ -35,8 +34,7 @@ Głównemu Urzędowi Nadzoru Budowlanego nadaje się statut, stanowiący załąc
 § 2.
 Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 19 marca 1999 r. w sprawie nadania statutu Głównemu Urzędowi Nadzoru Budowlanego (Dz. U. z 2023 r. poz. 2313).
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2024 r.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739).
+Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2024 r. 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739).
 Załącznik – Statut Głównego Urzędu Nadzoru Budowlanego
 § 1.
 1.

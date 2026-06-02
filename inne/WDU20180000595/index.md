@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 8 marca 2018 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Scalanie gruntów” w ramach poddziałania „Wsparcie na inwestycje związane z rozwojem, modernizacją i dostosowywaniem rolnictwa i leśnictwa” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 8 marca 2018 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Scalanie gruntów” w ramach poddziałania „Wsparcie na inwestycje związane z rozwojem, modernizacją i dostosowywaniem rolnictwa i leśnictwa” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-08 |
 | Data wydania | 2018-03-22 |
-| Wejście w życie | 2018-04-06 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000595) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/595/text.pdf) |
 
@@ -37,11 +36,9 @@ w § 9 w ust. 3 uchyla się pkt 1;
 3)
 w § 10:
 a)
-po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
-Jeżeli podmiot ubiegający się o przyznanie pomocy pomimo wezwania, o którym mowa w ust. 2, nie usunął w terminie wszystkich braków, właściwy organ samorządu województwa wzywa go ponownie, w formie pisemnej, do usunięcia pozostałych braków w terminie 14 dni od dnia doręczenia wezwania.
-” ,
+Jeżeli podmiot ubiegający się o przyznanie pomocy pomimo wezwania, o którym mowa w ust. 2, nie usunął w terminie wszystkich braków, właściwy organ samorządu województwa wzywa go ponownie, w formie pisemnej, do usunięcia pozostałych braków w terminie 14 dni od dnia doręczenia wezwania. ” ,
 b)
 w ust. 3 wyrazy „ust. 2” zastępuje się wyrazami „ust. 2a”,
 c)
@@ -51,14 +48,11 @@ w § 15 uchyla się pkt 4;
 5)
 w § 17:
 a)
-w ust. 2 pkt 1 otrzymuje brzmienie:
-„
+w ust. 2 pkt 1 otrzymuje brzmienie: „
 1)
-zrealizował operację lub jej etap zgodnie z warunkami określonymi w rozporządzeniu, w innych przepisach dotyczących inwestycji objętych operacją oraz w umowie, w tym poniósł związane z tym koszty, nie później niż do dnia złożenia wniosku o płatność, a w przypadku gdy został wezwany do usunięcia braków w tym wniosku zgodnie z § 19 ust. 1 lub 2, nie później niż w terminie 14 dni od dnia doręczenia wezwania;
-” ,
+zrealizował operację lub jej etap zgodnie z warunkami określonymi w rozporządzeniu, w innych przepisach dotyczących inwestycji objętych operacją oraz w umowie, w tym poniósł związane z tym koszty, nie później niż do dnia złożenia wniosku o płatność, a w przypadku gdy został wezwany do usunięcia braków w tym wniosku zgodnie z § 19 ust. 1 lub 2, nie później niż w terminie 14 dni od dnia doręczenia wezwania; ” ,
 b)
-w ust. 3 w pkt 1 lit. b otrzymuje brzmienie:
-„
+w ust. 3 w pkt 1 lit. b otrzymuje brzmienie: „
 b)
 zgodnie z przepisami:
 – o zamówieniach publicznych – w przypadku gdy te przepisy mają zastosowanie,
@@ -69,6 +63,5 @@ Do postępowań w sprawach o przyznanie pomocy finansowej na operacje typu „Sc
 § 3.
 Do refundacji kosztów kwalifikowalnych objętych umowami o przyznaniu pomocy zawartymi przed dniem 18 stycznia 2017 r. przepis § 17 ust. 3 pkt 1 lit. b rozporządzenia zmienianego w § 1 stosuje się w brzmieniu dotychczasowym.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325).
 

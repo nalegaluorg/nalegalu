@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 1 kwietnia 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach
+# Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 1 kwietnia 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -39,32 +39,23 @@ rozporządzeniem Ministra Finansów z dnia 17 grudnia 2015 r. zmieniającym rozp
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 15 rozporządzenia Ministra Finansów z dnia 22 sierpnia 2005 r. w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. poz. 1373), który stanowi:
-„
+§ 15 rozporządzenia Ministra Finansów z dnia 22 sierpnia 2005 r. w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. poz. 1373), który stanowi: „
 § 15.
-Do dnia 31 grudnia 2005 r. zaokrąglanie podstaw opodatkowania, kwot podatków, odsetek za zwłokę, oprocentowania nadpłat, wynagrodzeń przysługujących płatnikom lub inkasentom oraz opłaty prolongacyjnej następuje na zasadach określonych w rozporządzeniu Ministra Finansów z dnia 24 grudnia 2002 r. w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, dokonywania zaokrągleń oraz zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. Nr 240, poz. 2063).
-” ;
+Do dnia 31 grudnia 2005 r. zaokrąglanie podstaw opodatkowania, kwot podatków, odsetek za zwłokę, oprocentowania nadpłat, wynagrodzeń przysługujących płatnikom lub inkasentom oraz opłaty prolongacyjnej następuje na zasadach określonych w rozporządzeniu Ministra Finansów z dnia 24 grudnia 2002 r. w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, dokonywania zaokrągleń oraz zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. Nr 240, poz. 2063). ” ;
 2)
-§ 2 rozporządzenia Ministra Finansów z dnia 19 grudnia 2008 r. zmieniającego rozporządzenie w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. poz. 1633), który stanowi:
-„
+§ 2 rozporządzenia Ministra Finansów z dnia 19 grudnia 2008 r. zmieniającego rozporządzenie w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. poz. 1633), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2009 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2009 r. ” ;
 3)
-§ 2 rozporządzenia Ministra Finansów z dnia 9 lutego 2011 r. zmieniającego rozporządzenie w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. poz. 204), który stanowi:
-„
+§ 2 rozporządzenia Ministra Finansów z dnia 9 lutego 2011 r. zmieniającego rozporządzenie w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. poz. 204), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 4)
-§ 2 rozporządzenia Ministra Finansów z dnia 17 grudnia 2015 r. zmieniającego rozporządzenie w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. poz. 2233), który stanowi:
-„
+§ 2 rozporządzenia Ministra Finansów z dnia 17 grudnia 2015 r. zmieniającego rozporządzenie w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. poz. 2233), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
-” .
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
-Załącznik – Rozporządzenie Ministra Finansów z dnia 22 sierpnia 2005 r. w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach
-Na podstawie art. 58 oraz art. 87 § 5 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r. ” . 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Załącznik – Rozporządzenie Ministra Finansów z dnia 22 sierpnia 2005 r. w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkachObecnie działem administracji rządowej – finanse publiczne kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Na podstawie art. 58 oraz art. 87 § 5 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72 i 694.) zarządza się, co następuje:
 § 1.
 1.
 Rozporządzenie określa:
@@ -79,17 +70,17 @@ Ilekroć w rozporządzeniu jest mowa o ustawie, rozumie się przez to ustawę z 
 Odsetki za zwłokę są naliczane według wzoru: \( {{Kz \times L \times O} \over {365}} = On = Opz \) gdzie poszczególne symbole i liczby oznaczają: Kz – kwotę zaległości, L – liczbę dni zwłoki, O – stawkę odsetek za zwłokę w stosunku rocznym, 365 – liczbę dni w roku, On – kwotę odsetek, Opz – kwotę odsetek po zaokrągleniu.
 2.
 W przypadku zaległości podatkowej istniejącej w okresach, w których obowiązywały różne stawki odsetek za zwłokę od zaległości podatkowych, odsetki są naliczane, według wzoru określonego w ust. 1, odrębnie za każdy z tych okresów. Zaokrągleniu podlega suma odsetek za poszczególne okresy.
-§ 2a.
+§ 2aDodany przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 19 grudnia 2008 r. zmieniającego rozporządzenie w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. poz. 1633), które weszło w życie z dniem 1 stycznia 2009 r..
 1.
 Odsetki za zwłokę z zastosowaniem obniżonej stawki odsetek za zwłokę są naliczane według wzoru: \( {{Kz \times L \times O_1 } \over {365}} = On = Opz \) gdzie poszczególne symbole i liczby oznaczają: Kz – kwotę zaległości, L – liczbę dni zwłoki, O1- obniżoną stawkę odsetek za zwłokę w stosunku rocznym, 365 – liczbę dni w roku, On – kwotę odsetek, Opz – kwotę odsetek po zaokrągleniu.
 2.
 W przypadku zaległości podatkowej istniejącej w okresach, w których obowiązywały różne obniżone stawki odsetek za zwłokę od zaległości podatkowych, odsetki są naliczane, według wzoru określonego w ust. 1, odrębnie za każdy z tych okresów. Zaokrągleniu podlega suma odsetek za poszczególne okresy.
-§ 2b.
+§ 2bDodany przez § 1 rozporządzenia Ministra Finansów z dnia 17 grudnia 2015 r. zmieniającego rozporządzenie w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. poz. 2233), które weszło w życie z dniem 1 stycznia 2016 r..
 1.
 Odsetki za zwłokę z zastosowaniem podwyższonej stawki odsetek za zwłokę są naliczane według wzoru: \( {{Kz \times L \times O_2 } \over {365}} = On = Opz \) gdzie poszczególne symbole i liczby oznaczają: Kz – kwotę zaległości, L – liczbę dni zwłoki, O2- podwyższoną stawkę odsetek za zwłokę w stosunku rocznym, 365 – liczbę dni w roku, On – kwotę odsetek, Opz – kwotę odsetek po zaokrągleniu.
 2.
 W przypadku zaległości podatkowej istniejącej w okresach, w których obowiązywały różne podwyższone stawki odsetek za zwłokę od zaległości podatkowych, odsetki są naliczane, według wzoru określonego w ust. 1, odrębnie za każdy z tych okresów. Zaokrągleniu podlega suma odsetek za poszczególne okresy.
-§ 3.
+§ 3W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3..
 Opłata prolongacyjna jest naliczana według wzoru: \( {{Kz \times L \times S } \over {365}} = OP = OPpz \) gdzie poszczególne symbole i liczby oznaczają: K – kwotę odroczonego lub rozłożonego na raty podatku, odroczonej lub rozłożonej na raty zaległości podatkowej, L – liczbę dni, na które odroczono termin płatności podatku lub zapłatę zaległości podatkowej bądź rozłożono na raty zapłatę podatku lub zaległości podatkowej, S – stawkę opłaty prolongacyjnej, 365 – liczbę dni w roku, OP – kwotę opłaty prolongacyjnej, OPpz – kwotę opłaty prolongacyjnej po zaokrągleniu.
 § 4.
 1.
@@ -163,13 +154,13 @@ imiona i nazwiska (nazwę albo firmę) oraz adresy sprzedawcy i kupującego bąd
 2)
 datę wystawienia i numer kolejny rachunku;
 3)
-(uchylony);
+(uchylony);Przez § 1 rozporządzenia Ministra Finansów z dnia 9 lutego 2011 r. zmieniającego rozporządzenie w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. poz. 204), które weszło w życie z dniem 11 marca 2011 r.
 4)
 określenie rodzaju i ilości towarów lub wykonanych usług oraz ich ceny jednostkowe;
 5)
 ogólną sumę należności wyrażoną liczbowo i słownie;
 6)
-(uchylony).
+(uchylony).Przez § 1 rozporządzenia Ministra Finansów z dnia 9 lutego 2011 r. zmieniającego rozporządzenie w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. poz. 204), które weszło w życie z dniem 11 marca 2011 r.
 2.
 W przypadku gdy oryginał rachunku uległ zniszczeniu albo zaginął, ponownie wystawiony rachunek zawiera również wyraz „DUPLIKAT” oraz datę jego ponownego wystawienia.
 3.
@@ -179,6 +170,5 @@ Przepisów ust. 1 i 2 nie stosuje się do faktur wystawianych przez podatników 
 § 16.
 Traci moc rozporządzenie Ministra Finansów z dnia 24 grudnia 2002 r. w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, dokonywania zaokrągleń oraz zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. poz. 2063).
 § 17.
-Rozporządzenie wchodzi w życie z dniem 1 września 2005 r.
-1) Obecnie działem administracji rządowej – finanse publiczne kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72 i 694. 3) Dodany przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 19 grudnia 2008 r. zmieniającego rozporządzenie w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. poz. 1633), które weszło w życie z dniem 1 stycznia 2009 r. 4) Dodany przez § 1 rozporządzenia Ministra Finansów z dnia 17 grudnia 2015 r. zmieniającego rozporządzenie w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. poz. 2233), które weszło w życie z dniem 1 stycznia 2016 r. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) Przez § 1 rozporządzenia Ministra Finansów z dnia 9 lutego 2011 r. zmieniającego rozporządzenie w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. poz. 204), które weszło w życie z dniem 11 marca 2011 r.
+Rozporządzenie wchodzi w życie z dniem 1 września 2005 r. 1) Obecnie działem administracji rządowej – finanse publiczne kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72 i 694. 3) Dodany przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 19 grudnia 2008 r. zmieniającego rozporządzenie w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. poz. 1633), które weszło w życie z dniem 1 stycznia 2009 r. 4) Dodany przez § 1 rozporządzenia Ministra Finansów z dnia 17 grudnia 2015 r. zmieniającego rozporządzenie w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. poz. 2233), które weszło w życie z dniem 1 stycznia 2016 r. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) Przez § 1 rozporządzenia Ministra Finansów z dnia 9 lutego 2011 r. zmieniającego rozporządzenie w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. poz. 204), które weszło w życie z dniem 11 marca 2011 r.
 

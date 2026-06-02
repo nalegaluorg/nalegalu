@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 kwietnia 2022 r. o zmianie ustawy o służbie zagranicznej oraz niektórych innych ustaw
+# Ustawa z dnia 28 kwietnia 2022 r. o zmianie ustawy o służbie zagranicznej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-28 |
 | Data wydania | 2022-06-20 |
-| Wejście w życie | 2022-07-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001283) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1283/text.pdf) |
 
@@ -37,7 +36,7 @@ source: "eli-html"
 
 - **1)** będącym organem bezpieczeństwa innego państwa albo prowadzonym, podległym, kontrolowanym lub nadzorowanym przez taki organ,
 - **2)** wchodzącym w skład sił zbrojnych innego państwa albo im podległym, przez nie nadzorowanym lub kontrolowanym,
-- **3)** stanowiącym część resortu właściwego do spraw zagranicznych lub wewnętrznych innego państwa albo temu resortowi podległym lub przez niego kontrolowanym lub nadzorowanym może być zatrudniona w służbie zagranicznej po złożeniu wniosku i uzyskaniu zgody Szefa Służby Zagranicznej.
+- **3)** stanowiącym część resortu właściwego do spraw zagranicznych lub wewnętrznych innego państwa albo temu resortowi podległym lub przez niego kontrolowanym lub nadzorowanym – może być zatrudniona w służbie zagranicznej po złożeniu wniosku i uzyskaniu zgody Szefa Służby Zagranicznej.
 
 2. Przepisu ust. 1 nie stosuje się do osób, które kształciły się wyłącznie w:
 
@@ -84,17 +83,17 @@ source: "eli-html"
 - **5)** prokurator kierujący powszechną jednostką organizacyjną prokuratury,
 - **6)** dyrektor Archiwum Akt Nowych oraz innego archiwum państwowego,
 - **7)** Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu, Szef Służby Kontrwywiadu Wojskowego oraz Szef Służby Wywiadu Wojskowego,
-- **8)** inne instytucje przekazują do archiwum Instytutu Pamięci dokumenty nieprzekazane. ” ;
+- **8)** inne instytucje – przekazują do archiwum Instytutu Pamięci dokumenty nieprzekazane. ” ;
 - **3)** po art. 26 dodaje się art. 26a i art. 26b w brzmieniu: „
 
 **Art. 26a.** Do archiwum Instytutu Pamięci przekazuje się dokumenty wytworzone w toku postępowań prowadzonych przez sądy na podstawie ustawy z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego, niezależnie od czasu ich wytworzenia, z chwilą prawomocnego zakończenia postępowania w danej sprawie. 1. Do archiwum Instytutu Pamięci przekazuje się dokumenty:
 
 - **1)** wytworzone w toku postępowań prowadzonych przez sądy w sprawach innych niż określone w art. 26 i art. 26a dotyczące funkcjonariuszy państwa komunistycznego albo osób działających na ich zlecenie oskarżonych o zbrodnie komunistyczne popełnione od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r.,
-- **2)** zawierające informacje o obsadzie personalnej, strukturach lub działalności organów bezpieczeństwa państwa i ich funkcjonariuszy w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. niezależnie od czasu ich wytworzenia.
+- **2)** zawierające informacje o obsadzie personalnej, strukturach lub działalności organów bezpieczeństwa państwa i ich funkcjonariuszy w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. – niezależnie od czasu ich wytworzenia.
 
 2. Dokumenty przekazuje się z chwilą prawomocnego zakończenia postępowania w danej sprawie. ” .
 
-**Art. 3.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.) po art. 34b dodaje się art. 34c w brzmieniu: „
+**Art. 3.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583, 655 i 1079.) po art. 34b dodaje się art. 34c w brzmieniu: „
 
 **Art. 34c.** Przepisów art. 34a i art. 34b nie stosuje się do umów zawartych przez placówki zagraniczne w rozumieniu art. 7 pkt 7 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2022 r. poz. 1076 i 1283). ” .
 
@@ -110,6 +109,6 @@ source: "eli-html"
 **Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 5 oraz art. 4, które wchodzą w życie z dniem 1 stycznia 2023 r.;
-- **2)** art. 3, który wchodzi w życie z dniem 1 lipca 2022 r.
+- **2)** art. 3, który wchodzi w życie z dniem 1 lipca 2022 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583, 655 i 1079.
 
 

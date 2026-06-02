@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 9 grudnia 2020 r. zmieniające rozporządzenie w sprawie określenia wykazu świadczeń opieki zdrowotnej wymagających ustalenia odrębnego sposobu finansowania
+# Rozporządzenie Ministra Zdrowiaz dnia 9 grudnia 2020 r. zmieniające rozporządzenie w sprawie określenia wykazu świadczeń opieki zdrowotnej wymagających ustalenia odrębnego sposobu finansowania Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-09 |
 | Data wydania | 2020-12-11 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002214) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2214/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Zdrowia z dnia 19 czerwca 2017 r. w sprawie określen
 1)
 uchyla się pkt 27, 29 i 31;
 2)
-pkt 33 otrzymuje brzmienie:
-„
+pkt 33 otrzymuje brzmienie: „
 33)
 świadczenia ambulatoryjnej opieki specjalistycznej w zakresie:
 a)
@@ -44,15 +42,11 @@ porada specjalistyczna – kardiologia,
 c)
 porada specjalistyczna – neurologia,
 d)
-porada specjalistyczna – ortopedia i traumatologia narządu ruchu;
-” ;
+porada specjalistyczna – ortopedia i traumatologia narządu ruchu; ” ;
 3)
-w pkt 34 kropkę zastępuje się średnikiem i dodaje się pkt 35 w brzmieniu:
-„
+w pkt 34 kropkę zastępuje się średnikiem i dodaje się pkt 35 w brzmieniu: „
 35)
-inne niż wymienione w pkt 1–34 świadczenia opieki zdrowotnej udzielane świadczeniobiorcom do ukończenia 18. roku życia.
-” .
+inne niż wymienione w pkt 1–34 świadczenia opieki zdrowotnej udzielane świadczeniobiorcom do ukończenia 18. roku życia. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 

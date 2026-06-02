@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-22 |
 | Data wydania | 2019-05-29 |
-| Wejście w życie | 2019-06-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001002) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1002/text.pdf) |
 
@@ -33,45 +32,34 @@ W rozporządzeniu Ministra Finansów z dnia 30 sierpnia 2013 r. w sprawie warunk
 1)
 w § 2:
 a)
-pkt 8 otrzymuje brzmienie:
-„
+pkt 8 otrzymuje brzmienie: „
 8)
-Rejestrze – rozumie się przez to prowadzony przez agenta emisji system rejestracji bonów skarbowych, w którym agent emisji dokonuje rejestracji stanu i zmian stanu posiadania bonów;
-” ,
+Rejestrze – rozumie się przez to prowadzony przez agenta emisji system rejestracji bonów skarbowych, w którym agent emisji dokonuje rejestracji stanu i zmian stanu posiadania bonów; ” ,
 b)
-dodaje się pkt 9 w brzmieniu:
-„
+dodaje się pkt 9 w brzmieniu: „
 9)
-DSPW – rozumie się przez to banki, instytucje kredytowe lub instytucje finansowe, a także ich oddziały, w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, 2243 i 2354 oraz z 2019 r. poz. 326, 730 i 875), z którymi Minister Finansów zawarł umowę w sprawie pełnienia funkcji Dealera Skarbowych Papierów Wartościowych.
-” ;
+DSPW – rozumie się przez to banki, instytucje kredytowe lub instytucje finansowe, a także ich oddziały, w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, 2243 i 2354 oraz z 2019 r. poz. 326, 730 i 875), z którymi Minister Finansów zawarł umowę w sprawie pełnienia funkcji Dealera Skarbowych Papierów Wartościowych. ” ;
 2)
-w § 3 ust. 1 otrzymuje brzmienie:
-„
+w § 3 ust. 1 otrzymuje brzmienie: „
 1.
-Bony są nabywane i zbywane w drodze przetargu z dyskontem, z zastrzeżeniem ust. 2 i § 28a ust. 1.
-” ;
+Bony są nabywane i zbywane w drodze przetargu z dyskontem, z zastrzeżeniem ust. 2 i § 28a ust. 1. ” ;
 3)
-w § 8 ust. 1 otrzymuje brzmienie:
-„
+w § 8 ust. 1 otrzymuje brzmienie: „
 1.
 W przetargach mogą brać udział:
 1)
 DSPW,
 2)
-banki państwowe w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, nieposiadające statusu DSPW
-zwani dalej „uczestnikami przetargu”.
-” ;
+banki państwowe w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, nieposiadające statusu DSPW – zwani dalej „uczestnikami przetargu”. ” ;
 4)
-w § 20 w ust. 1 w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu:
-„
+w § 20 w ust. 1 w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „
 13)
-godziny, w jakich można składać oferty w ramach sprzedaży dodatkowej.
-” ;
+godziny, w jakich można składać oferty w ramach sprzedaży dodatkowej. ” ;
 5)
 uchyla się rozdział 5;
 6)
-po rozdziale 5 dodaje się rozdział 5a w brzmieniu:
-„
+po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
+Sprzedaż dodatkowa
 § 28a.
 1.
 DSPW, którzy nabyli bony na przetargu sprzedaży, mogą nabywać dodatkowe bony poza przetargiem sprzedaży (sprzedaż dodatkowa) na zasadach określonych w niniejszym rozdziale.
@@ -128,26 +116,21 @@ termin wykupu i kod ISIN bonów;
 5)
 cenę, o której mowa w § 28b;
 6)
-wartość nominalną sprzedanych bonów.
-” ;
+wartość nominalną sprzedanych bonów. ” ;
 7)
 tytuł rozdziału 6 otrzymuje brzmienie: „ Rozrachunek przetargu sprzedaży i sprzedaży dodatkowej ” ;
 8)
 w § 29 w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Zapłata ceny zakupu następuje przez obciążenie rachunku, o którym mowa w § 18 pkt 5, a w przypadku sprzedaży dodatkowej – rachunku, o którym mowa w § 28d ust. 2 pkt 5. ” ;
 9)
-w § 31 ust. 3 otrzymuje brzmienie:
-„
+w § 31 ust. 3 otrzymuje brzmienie: „
 3.
-Odstępne jest pobierane z rachunku, o którym mowa w § 18 pkt 5, a w przypadku sprzedaży dodatkowej z rachunku, o którym mowa w § 28d ust. 2 pkt 5 – w następnym dniu roboczym po dniu, o którym mowa w ust. 1.
-” ;
+Odstępne jest pobierane z rachunku, o którym mowa w § 18 pkt 5, a w przypadku sprzedaży dodatkowej z rachunku, o którym mowa w § 28d ust. 2 pkt 5 – w następnym dniu roboczym po dniu, o którym mowa w ust. 1. ” ;
 10)
-§ 32 otrzymuje brzmienie:
-„
+§ 32 otrzymuje brzmienie: „
 § 32.
-W przypadku sprzedaży dodatkowej przepisy § 29–31 stosuje się odpowiednio.
-” .
+W przypadku sprzedaży dodatkowej przepisy § 29–31 stosuje się odpowiednio. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 1 czerwca 2019 r.
 
-#### Rozdział 5a Sprzedaż dodatkowa
+#### Rozdział 5a
 

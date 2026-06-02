@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-30 |
 | Data wydania | 2014-01-03 |
-| Wejście w życie | 2014-01-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000014) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/14/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 116 ust. 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 116 ust. 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371, z 2012 r. poz. 627, 664, 769 i 951 oraz z 2013 r. poz. 628, 675, 829, 1351 i 1650.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 27 maja 2002 r. w sprawie warunków otrzymywania przez funkcjonariuszy Straży Granicznej dodatkowego wynagrodzenia za wykonywanie zadań zleconych wykraczających poza obowiązki służbowe (Dz. U. Nr 74, poz. 685, z 2011 r. Nr 210, poz. 1259 oraz z 2012 r. poz. 1273) w § 5c pkt 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 27 maja 2002 r. w sprawie warunków otrzymywania przez funkcjonariuszy Straży Granicznej dodatkowego wynagrodzenia za wykonywanie zadań zleconych wykraczających poza obowiązki służbowe (Dz. U. Nr 74, poz. 685, z 2011 r. Nr 210, poz. 1259 oraz z 2012 r. poz. 1273) w § 5c pkt 2 otrzymuje brzmienie: „
 2)
-dla funkcjonariuszy pełniących służbę w oddziałach Straży Granicznej, ośrodkach szkolenia Straży Granicznej i ośrodkach Straży Granicznej – kierownik jednostki organizacyjnej Straży Granicznej lub upoważniona przez niego osoba.
-” .
+dla funkcjonariuszy pełniących służbę w oddziałach Straży Granicznej, ośrodkach szkolenia Straży Granicznej i ośrodkach Straży Granicznej – kierownik jednostki organizacyjnej Straży Granicznej lub upoważniona przez niego osoba. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371, z 2012 r. poz. 627, 664, 769 i 951 oraz z 2013 r. poz. 628, 675, 829, 1351 i 1650.
 

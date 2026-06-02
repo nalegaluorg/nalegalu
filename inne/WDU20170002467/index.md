@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-22 |
 | Data wydania | 2017-12-29 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002467) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2467/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 118 § 2 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2016 r. poz. 1713, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 118 § 2 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2016 r. poz. 1713, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 oraz z 2017 r. poz. 708, 962, 966, 1477, 1543, 2400 i 2405.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -47,5 +46,5 @@ Wysokość zryczałtowanych wydatków w sprawach o wykroczenia za postępowanie 
 § 5.
 Opłata sądowa od wniosku o wznowienie postępowania w sprawach o wykroczenia wynosi 100 złotych.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 10 października 2001 r. w sprawie wysokości zryczałtowanych wydatków postępowania oraz wysokości opłaty za wniesienie wniosku o wznowienie postępowania w sprawach o wykroczenia (Dz. U. poz. 1269), które traci moc z dniem wejścia w życie ustawy z dnia 9 listopada 2017 r. o zmianie ustawy – Kodeks postępowania w sprawach o wykroczenia oraz niektórych innych ustaw (Dz. U. poz. 2400). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 oraz z 2017 r. poz. 708, 962, 966, 1477, 1543, 2400 i 2405. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 10 października 2001 r. w sprawie wysokości zryczałtowanych wydatków postępowania oraz wysokości opłaty za wniesienie wniosku o wznowienie postępowania w sprawach o wykroczenia (Dz. U. poz. 1269), które traci moc z dniem wejścia w życie ustawy z dnia 9 listopada 2017 r. o zmianie ustawy – Kodeks postępowania w sprawach o wykroczenia oraz niektórych innych ustaw (Dz. U. poz. 2400).
 

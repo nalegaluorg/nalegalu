@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 25 września 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie otrzymywania wyżywienia przez policjantów
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 25 września 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie otrzymywania wyżywienia przez policjantów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 28 września 2020 r. w sprawie otrzymywania wyżywienia przez policjantów (Dz. U. poz. 1674), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 9 lutego 2023 r. zmieniającym rozporządzenie w sprawie otrzymywania wyżywienia przez policjantów (Dz. U. poz. 306).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 9 lutego 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez policjantów (Dz. U. poz. 306), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 9 lutego 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez policjantów (Dz. U. poz. 306), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 września 2020 r. w sprawie otrzymywania wyżywienia przez policjantów
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 września 2020 r. w sprawie otrzymywania wyżywienia przez policjantówNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
 Na podstawie art. 72 ust. 10 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145, 1006, 1089, 1222, 1248 i 1473) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -89,7 +86,7 @@ białko – 10–15 %;
 tłuszcze – poniżej 30 %;
 3)
 węglowodany – 50–65 %.
-§ 4.
+§ 4W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 9 lutego 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez policjantów (Dz. U. poz. 306), które weszło w życie z dniem 3 marca 2023 r..
 Wartości pieniężne norm wyżywienia wynoszą dla:
 1)
 normy SZ – 25 zł;
@@ -167,7 +164,7 @@ Uzupełnienie normy DU o kwotę 2 zł przysługuje:
 w dniach pełnienia służby przez policjanta służby kontrterrorystycznej, z wyjątkiem policjanta zajmującego stanowisko, na którym wykonuje prace administracyjno-biurowe, lub
 2)
 w dniach wykonywania przez policjanta służby kontrterrorystycznej zadań szkoleniowych lub bojowych na akwenach morskich – jako uzupełnienie do normy SZ.
-§ 13.
+§ 13W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Wysokość świadczenia pieniężnego w zamian za wyżywienie wynosi:
 1)
@@ -188,7 +185,7 @@ za normę SZ uzupełnioną o 4 zł – 29 zł;
 za normę DU uzupełnioną o 2 zł – 9 zł.
 2.
 Policjantom pełniącym w okresie od dnia 1 listopada do dnia 31 marca służbę na wolnym powietrzu przez co najmniej 4 godziny dziennie przysługuje świadczenie pieniężne w zamian za wyżywienie w kwocie 15 zł.
-§ 14.
+§ 14W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Świadczenie pieniężne podwyższa się o:
 1)
 25 zł – w przypadku, o którym mowa w art. 72 ust. 7 pkt 1 i 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, zwanej dalej „ustawą”;
@@ -200,6 +197,5 @@ Policjantom pełniącym w okresie od dnia 1 listopada do dnia 31 marca służbę
 2.
 Wypłata świadczenia pieniężnego w zamian za wyżywienie następuje raz w miesiącu z dołu w terminie do ostatniego dnia miesiąca następującego po miesiącu, w którym zaistniała podstawa faktyczna do wypłaty świadczenia.
 § 16.
-Rozporządzenie wchodzi w życie z dniem 1 października 2020 r.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 9 lutego 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez policjantów (Dz. U. poz. 306), które weszło w życie z dniem 3 marca 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 12 września 2002 r. w sprawie przypadków otrzymywania przez policjanta wyżywienia oraz norm tego wyżywienia (Dz. U. poz. 1366 oraz z 2019 r. poz. 615 i 2516) oraz rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 12 września 2002 r. w sprawie przypadków otrzymywania przez policjanta równoważnika pieniężnego w zamian za wyżywienie oraz wysokości tego równoważnika (Dz. U. poz. 1367, z 2005 r. poz. 1293, z 2006 r. poz. 1104, z 2009 r. poz. 351 oraz z 2019 r. poz. 2562), które utraciły moc z dniem wejścia w życie ustawy z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610).
+Rozporządzenie wchodzi w życie z dniem 1 października 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 12 września 2002 r. w sprawie przypadków otrzymywania przez policjanta wyżywienia oraz norm tego wyżywienia (Dz. U. poz. 1366 oraz z 2019 r. poz. 615 i 2516) oraz rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 12 września 2002 r. w sprawie przypadków otrzymywania przez policjanta równoważnika pieniężnego w zamian za wyżywienie oraz wysokości tego równoważnika (Dz. U. poz. 1367, z 2005 r. poz. 1293, z 2006 r. poz. 1104, z 2009 r. poz. 351 oraz z 2019 r. poz. 2562), które utraciły moc z dniem wejścia w życie ustawy z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610). 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 9 lutego 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez policjantów (Dz. U. poz. 306), które weszło w życie z dniem 3 marca 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 12 września 2002 r. w sprawie przypadków otrzymywania przez policjanta wyżywienia oraz norm tego wyżywienia (Dz. U. poz. 1366 oraz z 2019 r. poz. 615 i 2516) oraz rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 12 września 2002 r. w sprawie przypadków otrzymywania przez policjanta równoważnika pieniężnego w zamian za wyżywienie oraz wysokości tego równoważnika (Dz. U. poz. 1367, z 2005 r. poz. 1293, z 2006 r. poz. 1104, z 2009 r. poz. 351 oraz z 2019 r. poz. 2562), które utraciły moc z dniem wejścia w życie ustawy z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610).
 

@@ -37,17 +37,13 @@ rozporządzeniem Rady Ministrów z dnia 24 grudnia 2014 r. zmieniającym rozporz
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Rady Ministrów z dnia 12 grudnia 2012 r. zmieniającego rozporządzenie w sprawie opłat za udostępnienie danych z Rejestru Dowodów Osobistych i dokumentacji związanej z dowodami osobistymi (Dz. U. poz. 1463), który stanowi:
-„
+§ 2 rozporządzenia Rady Ministrów z dnia 12 grudnia 2012 r. zmieniającego rozporządzenie w sprawie opłat za udostępnienie danych z Rejestru Dowodów Osobistych i dokumentacji związanej z dowodami osobistymi (Dz. U. poz. 1463), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Rady Ministrów z dnia 24 grudnia 2014 r. zmieniającego rozporządzenie w sprawie opłat za udostępnienie danych z Rejestru Dowodów Osobistych i dokumentacji związanej z dowodami osobistymi (Dz. U. poz. 1984), który stanowi:
-„
+§ 2 rozporządzenia Rady Ministrów z dnia 24 grudnia 2014 r. zmieniającego rozporządzenie w sprawie opłat za udostępnienie danych z Rejestru Dowodów Osobistych i dokumentacji związanej z dowodami osobistymi (Dz. U. poz. 1984), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 31 grudnia 2014 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2014 r. ” .
 Załącznik – Rozporządzenie Rady Ministrów z dnia 21 listopada 2011 r. w sprawie opłat za udostępnienie danych z Rejestru Dowodów Osobistych i dokumentacji związanej z dowodami osobistymi
 Na podstawie art. 77 ust. 1 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. poz. 1131, z 2011 r. poz. 768, z 2012 r. poz. 1407, z 2014 r. poz. 1741 i 1888 oraz z 2015 r. poz. 2281) zarządza się, co następuje:
 § 1.
@@ -86,6 +82,6 @@ Dowód wniesienia opłaty, o której mowa w:
 § 2 pkt 2 – przekazuje się w terminie 14 dni od dnia otrzymania wezwania, o którym mowa w § 4 ust. 2, do ministra właściwego do spraw wewnętrznych.
 2.
 Dowód wniesienia opłaty może mieć postać wydruku lub potwierdzającego dokonanie operacji bankowej pliku, generowanego elektronicznie z systemu bankowego.
-§ 7.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2015 r.
+§ 7W brzmieniu ustalonym przez § 1 rozporządzenia Rady Ministrów z dnia 24 grudnia 2014 r. zmieniającego rozporządzenie w sprawie opłat za udostępnienie danych z Rejestru Dowodów Osobistych i dokumentacji związanej z dowodami osobistymi (Dz. U. poz. 1984), które weszło w życie z dniem 31 grudnia 2014 r..
+Rozporządzenie wchodzi w życie z dniem 1 marca 2015 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 19 listopada 2008 r. w sprawie wysokości opłat za udostępnienie danych ze zbiorów meldunkowych, ewidencji wydanych i unieważnionych dowodów osobistych, zbioru PESEL, ogólnokrajowej ewidencji wydanych i unieważnionych dowodów osobistych oraz sposobu wnoszenia tych opłat (Dz. U. poz. 1298). 1) W brzmieniu ustalonym przez § 1 rozporządzenia Rady Ministrów z dnia 24 grudnia 2014 r. zmieniającego rozporządzenie w sprawie opłat za udostępnienie danych z Rejestru Dowodów Osobistych i dokumentacji związanej z dowodami osobistymi (Dz. U. poz. 1984), które weszło w życie z dniem 31 grudnia 2014 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 19 listopada 2008 r. w sprawie wysokości opłat za udostępnienie danych ze zbiorów meldunkowych, ewidencji wydanych i unieważnionych dowodów osobistych, zbioru PESEL, ogólnokrajowej ewidencji wydanych i unieważnionych dowodów osobistych oraz sposobu wnoszenia tych opłat (Dz. U. poz. 1298).
 

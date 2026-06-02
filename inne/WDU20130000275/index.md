@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-02-20 |
 | Data wydania | 2013-02-28 |
-| Wejście w życie | 2013-03-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000275) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/275/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 175a ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 175a ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1544 oraz z 2013 r. poz. 134.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe wymagania w zakresie dokumentów oraz informacji, jakie jest obowiązany przedstawić przedsiębiorca ubiegający się o zezwolenie na prowadzenie działalności gospodarczej w zakresie zarządzania lotniskiem użytku publicznego.
 § 2.
@@ -107,5 +106,5 @@ Dokumenty, o których mowa w § 2, sporządzone w języku obcym dołącza się w
 § 4.
 Traci moc rozporządzenie Ministra Infrastruktury z dnia 4 sierpnia 2005 r. w sprawie dokumentów oraz informacji, jakie jest obowiązany przedstawić przedsiębiorca ubiegający się o zezwolenie na zarządzanie lotniskiem użytku publicznego (Dz. U. Nr 182, poz. 1535).
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1544 oraz z 2013 r. poz. 134.
 

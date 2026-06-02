@@ -31,13 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 18 czerwca 2014 r. w sprawie opłat za wydanie informacji z Krajowego Rejestru Karnego (Dz. U. poz. 861), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Sprawiedliwości z dnia 18 marca 2016 r. zmieniającym rozporządzenie w sprawie opłat za wydanie informacji z Krajowego Rejestru Karnego (Dz. U. poz. 390 i 947).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Sprawiedliwości z dnia 18 marca 2016 r. zmieniającego rozporządzenie w sprawie opłat za wydanie informacji z Krajowego Rejestru Karnego (Dz. U. poz. 390 i 947), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Sprawiedliwości z dnia 18 marca 2016 r. zmieniającego rozporządzenie w sprawie opłat za wydanie informacji z Krajowego Rejestru Karnego (Dz. U. poz. 390 i 947), które stanowią: „
 § 2.
 Do sposobu wnoszenia opłat w formie znaków opłaty sądowej wydanych na podstawie wzoru określonego w § 14 ust. 1–3 rozporządzenia Ministra Sprawiedliwości z dnia 31 stycznia 2006 r. w sprawie sposobu uiszczania opłat sądowych w sprawach cywilnych (Dz. U. poz. 199, z 2008 r. poz. 517, z 2009 r. poz. 1747, z 2011 r. poz. 1775 oraz z 2015 r. poz. 66) stosuje się przepisy § 5 rozporządzenia, zmienianego w § 1, w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 18 czerwca 2014 r. w sprawie opłat za wydanie informacji z Krajowego Rejestru Karnego
 Na podstawie art. 24 ust. 3 ustawy z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2024 r. poz. 276) zarządza się, co następuje:
 § 1.
@@ -66,7 +64,7 @@ Wysokość opłaty za wydanie informacji o osobie albo o podmiocie zbiorowym z R
 Opłatę za wydanie informacji o osobie lub o podmiocie zbiorowym z Rejestru, zwaną dalej „opłatą”, wnosi się w formie znaków opłaty sądowej, gotówką w kasie Ministerstwa Sprawiedliwości lub sądu albo na wskazany rachunek bankowy Ministerstwa Sprawiedliwości.
 2.
 Numer rachunku bankowego, o którym mowa w ust. 1, Ministerstwo Sprawiedliwości udostępnia i aktualizuje w Biuletynie Informacji Publicznej na swojej stronie podmiotowej.
-§ 5.
+§ 5W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 18 marca 2016 r. zmieniającego rozporządzenie w sprawie opłat za wydanie informacji z Krajowego Rejestru Karnego (Dz. U. poz. 390 i 947), które weszło w życie z dniem 1 stycznia 2017 r..
 1.
 Wnoszący opłatę w formie znaków opłaty sądowej dołącza do wniosku lub zapytania albo przedstawia pracownikowi przyjmującemu wniosek lub zapytanie znak opłaty sądowej wygenerowany w systemie teleinformatycznym Ministerstwa Sprawiedliwości obsługującym znaki opłaty sądowej.
 2.
@@ -108,5 +106,5 @@ Jeżeli zwrot opłaty w sposób określony w ust. 2 jest utrudniony albo niemoż
 § 10.
 Osobom, które wniosły opłatę przed dniem wejścia w życie niniejszego rozporządzenia, a informację z Rejestru uzyskały po dniu wejścia w życie tego rozporządzenia, zwraca się różnicę pomiędzy opłatą wniesioną a opłatą, o której mowa w § 3 ust. 1.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 14 sierpnia 2003 r. w sprawie określenia wysokości opłaty za wydanie informacji z Krajowego Rejestru Karnego (Dz. U. poz. 1468), które utraciło moc na podstawie art. 1 pkt 15 ustawy z dnia 7 grudnia 2012 r. o zmianie ustawy o Krajowym Rejestrze Karnym oraz niektórych innych ustaw (Dz. U. poz. 1514 oraz z 2013 r. poz. 1621) z dniem 1 lipca 2014 r. 1) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 18 marca 2016 r. zmieniającego rozporządzenie w sprawie opłat za wydanie informacji z Krajowego Rejestru Karnego (Dz. U. poz. 390 i 947), które weszło w życie z dniem 1 stycznia 2017 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 14 sierpnia 2003 r. w sprawie określenia wysokości opłaty za wydanie informacji z Krajowego Rejestru Karnego (Dz. U. poz. 1468), które utraciło moc na podstawie art. 1 pkt 15 ustawy z dnia 7 grudnia 2012 r. o zmianie ustawy o Krajowym Rejestrze Karnym oraz niektórych innych ustaw (Dz. U. poz. 1514 oraz z 2013 r. poz. 1621) z dniem 1 lipca 2014 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 kwietnia 2023 r. o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej oraz niektórych innych ustaw
+# Ustawa z dnia 14 kwietnia 2023 r. o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej oraz niektórych innych ustaw Niniejszą ustawą zmienia się: ustawę z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, ustawę z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą, ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ustawę z dnia 29 października 2021 r. o budowie zabezpieczenia granicy państwowej, ustawę z dnia 17 grudnia 2021 r. o zmianie niektórych ustaw w związku z powołaniem Centralnego Biura Zwalczania Cyberprzestępczości oraz ustawę z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-04-14 |
 | Data wydania | 2023-06-12 |
-| Wejście w życie | 2023-08-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001088) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1088/text.pdf) |
 
@@ -32,7 +31,7 @@ source: "eli-html"
 
 2. Wyższej Szkole Policji w Szczytnie nadaje się nazwę „Akademia Policji w Szczytnie”.
 
-**Art. 2.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240, 289, 347, 535 i 641.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4: w ust. 3 pkt 1 otrzymuje brzmienie: „
     - **a)**
@@ -81,7 +80,7 @@ source: "eli-html"
 
 8. Warunkiem uzyskania przez policjanta kwalifikacji zawodowych niezbędnych do mianowania go lub powołania go na stanowisko służbowe jest ukończenie przez niego:
 
-- **1)** szkolenia zawodowego: podstawowego – w przypadku kwalifikacji, o których mowa w ust. 2 pkt 1, podoficerskiego – w przypadku kwalifikacji, o których mowa w ust. 2 pkt 2, aspiranckiego – w przypadku kwalifikacji, o których mowa w ust. 2 pkt 3, oficerskiego – w przypadku kwalifikacji, o których mowa w ust. 2 pkt 4 i zdanie egzaminu końcowego;
+- **1)** szkolenia zawodowego: podstawowego – w przypadku kwalifikacji, o których mowa w ust. 2 pkt 1, podoficerskiego – w przypadku kwalifikacji, o których mowa w ust. 2 pkt 2, aspiranckiego – w przypadku kwalifikacji, o których mowa w ust. 2 pkt 3, oficerskiego – w przypadku kwalifikacji, o których mowa w ust. 2 pkt 4 – i zdanie egzaminu końcowego;
     - **a)**
     - **b)**
     - **c)**
@@ -195,7 +194,7 @@ source: "eli-html"
 - **5)** sposób dokumentowania oraz jednostki organizacyjne Policji właściwe do organizowania szkolenia, o którym mowa w art. 30 ust. 2a,
 - **6)** formy, organizację, sposób odbywania i dokumentowania doskonalenia zawodowego oraz sposób oceniania policjanta w trakcie jego trwania,
 - **7)** sposób sprawowania nadzoru nad realizacją szkoleń, o których mowa w art. 34 ust. 8 pkt 1 i art. 30 ust. 2a, oraz doskonalenia zawodowego,
-- **8)** wzory świadectwa ukończenia szkolenia zawodowego, świadectwa ukończenia szkolenia zawodowego z wyróżnieniem, świadectwa zdania egzaminu końcowego, świadectwa zdania egzaminu końcowego z wyróżnieniem, świadectwa ukończenia szkolenia dla policjantów w służbie kandydackiej oraz świadectwa ukończenia doskonalenia zawodowego centralnego mając na uwadze zapewnienie właściwego przygotowania policjantów do wykonywania zadań służbowych oraz konieczność zapewnienia właściwej realizacji oraz prawidłowego dokumentowania szkoleń, o których mowa w art. 34 ust. 8 pkt 1 oraz w art. 30 ust. 2a, i doskonalenia zawodowego oraz przebiegu egzaminów końcowych. ” ;
+- **8)** wzory świadectwa ukończenia szkolenia zawodowego, świadectwa ukończenia szkolenia zawodowego z wyróżnieniem, świadectwa zdania egzaminu końcowego, świadectwa zdania egzaminu końcowego z wyróżnieniem, świadectwa ukończenia szkolenia dla policjantów w służbie kandydackiej oraz świadectwa ukończenia doskonalenia zawodowego centralnego – mając na uwadze zapewnienie właściwego przygotowania policjantów do wykonywania zadań służbowych oraz konieczność zapewnienia właściwej realizacji oraz prawidłowego dokumentowania szkoleń, o których mowa w art. 34 ust. 8 pkt 1 oraz w art. 30 ust. 2a, i doskonalenia zawodowego oraz przebiegu egzaminów końcowych. ” ;
 - **17)** w art. 39a w ust. 1: w pkt 2 lit. c otrzymuje brzmienie: „ Komendanta-Rektora Akademii Policji w Szczytnie i jego zastępcy, ” , pkt 7 otrzymuje brzmienie: „
     - **a)**
     - **c)**
@@ -556,7 +555,7 @@ source: "eli-html"
 
 - **4)** funkcjonariuszy Straży Granicznej w służbie stałej skierowanych na te studia przez właściwego przełożonego, o którym mowa w art. 36 ust. 1 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080 i 1088). ” .
 
-**Art. 10.** W ustawie z dnia 29 października 2021 r. o budowie zabezpieczenia granicy państwowej (Dz. U. poz. 1992 oraz z 2023 r. poz. 185) w art. 9 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. W przypadku realizacji inwestycji z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm.), stosuje się procedury określone w umowach międzynarodowych, deklaracjach dawcy lub innych procedurach obowiązujących przy ich wykorzystaniu, w szczególności ustawę z dnia 11 września 2019 r. – Prawo zamówień publicznych. ” .
+**Art. 10.** W ustawie z dnia 29 października 2021 r. o budowie zabezpieczenia granicy państwowej (Dz. U. poz. 1992 oraz z 2023 r. poz. 185) w art. 9 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. W przypadku realizacji inwestycji z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414 oraz z 2023 r. poz. 412, 497, 658, 803 i 1059.), stosuje się procedury określone w umowach międzynarodowych, deklaracjach dawcy lub innych procedurach obowiązujących przy ich wykorzystaniu, w szczególności ustawę z dnia 11 września 2019 r. – Prawo zamówień publicznych. ” .
 
 **Art. 11.** W ustawie z dnia 17 grudnia 2021 r. o zmianie niektórych ustaw w związku z powołaniem Centralnego Biura Zwalczania Cyberprzestępczości (Dz. U. poz. 2447 oraz z 2022 r. poz. 2666) w art. 17 ust. 5 otrzymuje brzmienie: „ 5. Komendant Centralnego Biura Zwalczania Cyberprzestępczości, za zgodą Komendanta Głównego Policji, w okresie do 2 lat od dnia wejścia w życie niniejszej ustawy może powierzyć komendantom wojewódzkim Policji, Komendantowi Stołecznemu Policji, Komendantowi-Rektorowi Akademii Policji w Szczytnie albo komendantom szkół policyjnych, przeprowadzenie poszczególnych etapów postępowania kwalifikacyjnego w stosunku do kandydatów do służby w Policji, o których mowa w art. 25 ust. 2, 5, 12, 13 i 14 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, ubiegających się o przyjęcie do służby w Centralnym Biurze Zwalczania Cyberprzestępczości, z wyłączeniem sprawdzenia wiedzy i umiejętności z zakresu informatyki, funkcjonowania systemów informatycznych, systemów teleinformatycznych, sieci teleinformatycznych oraz znajomości języka obcego obejmującej te dziedziny. ” .
 
@@ -733,6 +732,6 @@ source: "eli-html"
 
 - **1)** art. 2 pkt 21 i 22, które wchodzą w życie z dniem 1 stycznia 2024 r.;
 - **2)** art. 3, art. 7, art. 8 pkt 3 i 4, art. 9, art. 13 ust. 2 i art. 16–26, które wchodzą w życie z dniem 1 października 2023 r.;
-- **3)** art. 10, art. 12 i art. 28, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+- **3)** art. 10, art. 12 i art. 28, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się: ustawę z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, ustawę z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą, ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ustawę z dnia 29 października 2021 r. o budowie zabezpieczenia granicy państwowej, ustawę z dnia 17 grudnia 2021 r. o zmianie niektórych ustaw w związku z powołaniem Centralnego Biura Zwalczania Cyberprzestępczości oraz ustawę z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240, 289, 347, 535 i 641. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414 oraz z 2023 r. poz. 412, 497, 658, 803 i 1059.
 
 

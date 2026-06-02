@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1995-06-29 |
 | Data wydania | 1995-08-03 |
-| Wejście w życie | 1996-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950890443) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/443/text.pdf) |
 
@@ -39,8 +38,10 @@ source: "eli-html"
 § 3. W jednoosobowym składzie sądu sędzia ma prawa i obowiązki przewodniczącego. ” ;
 
 - **5)** użyty w art. 20 w § 1 i w art. 71 wyraz „rewizyjnej” zastępuje się wyrazem „odwoławczej”;
-- **6)** w art. 30: w § 1: – w pkt 7 kropkę zastępuje się przecinkiem, – po pkt 7 dodaje się pkt 8 w brzmieniu: „ 8) brał udział w wydaniu postanowienia o zastosowaniu tymczasowego aresztowania w toku postępowania przygotowawczego. ” , w § 3 wyrazy „rewizji nadzwyczajnej” i „rewizji” zastępuje się wyrazem „kasacji”;
+- **6)** w art. 30: w § 1: – w pkt 7 kropkę zastępuje się przecinkiem, po pkt 7 dodaje się pkt 8 w brzmieniu: „
     - **a)**
+
+- **8)** brał udział w wydaniu postanowienia o zastosowaniu tymczasowego aresztowania w toku postępowania przygotowawczego. ” , w § 3 wyrazy „rewizji nadzwyczajnej” i „rewizji” zastępuje się wyrazem „kasacji”;
     - **b)**
 
 - **7)** w art. 41 w § 2 wyrazy „pokrył szkodę wyrządzoną” zastępuje się wyrazami „jest obowiązany do pokrycia szkody wyrządzonej”;

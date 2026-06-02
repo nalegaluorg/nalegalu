@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 listopada 2014 r. o ułatwieniu wykonywania działalności gospodarczej
+# Ustawa z dnia 7 listopada 2014 r. o ułatwieniu wykonywania działalności gospodarczej Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 30 maja 1989 r. o izbach gospodarczych, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 7 lipca 1994 r. o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych, ustawę z dnia 29 czerwca 1995 r. o statystyce publicznej, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, ustawę z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 6 września 2001 r. o dostępie do informacji publicznej, ustawę z dnia 18 września 2001 r. o podpisie elektronicznym, ustawę z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego, ustawę z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, ustawę z dnia 27 sierpnia 2003 r. o weterynaryjnej kontroli granicznej, ustawę z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów, ustawę z dnia 18 grudnia 2003 r. o ochronie roślin, ustawę z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku suszu paszowego oraz rynków lnu i konopi uprawianych na włókno, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 19 marca 2004 r. – Prawo celne, ustawę z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym, ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia, ustawę z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej, ustawę z dnia 20 maja 2010 r. o wyrobach medycznych, ustawę z dnia 12 maja 2011 r. o kredycie konsumenckim, ustawę z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze oraz ustawę z dnia 14 marca 2014 r. o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-07 |
 | Data wydania | 2014-11-27 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001662) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1662/text.pdf) |
 
+Wiążąca informacja akcyzowa
 1.
 WIA jest decyzją wydawaną na potrzeby opodatkowania wyrobu akcyzowego albo samochodu osobowego akcyzą, organizacji obrotu wyrobami akcyzowymi lub oznaczania znakami akcyzy tych wyrobów, która określa:
 1)
@@ -67,7 +67,7 @@ Na wezwanie organu podatkowego wnioskodawca jest obowiązany do uiszczenia, w te
 5.
 Kwota opłaty, o której mowa w ust. 1, i termin jej uiszczenia są określane przez organ podatkowy w drodze postanowienia, na które przysługuje zażalenie.
 6.
-Kwota opłaty, o której mowa w ust. 1, powinna odpowiadać rzeczywistym wydatkom poniesionym z tytułu przeprowadzonych badań lub analiz. W przypadku gdy badania lub analizy są przeprowadzane przez laboratoria celne kwota opłaty, o której mowa w ust. 1, powinna odpowiadać ryczałtowym stawkom opłat określonym w przepisach wydanych na podstawie art. 92 ust. 4 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2013 r. poz. 727, z późn. zm.), jeżeli stawki te zostały określone w tych przepisach.
+Kwota opłaty, o której mowa w ust. 1, powinna odpowiadać rzeczywistym wydatkom poniesionym z tytułu przeprowadzonych badań lub analiz. W przypadku gdy badania lub analizy są przeprowadzane przez laboratoria celne kwota opłaty, o której mowa w ust. 1, powinna odpowiadać ryczałtowym stawkom opłat określonym w przepisach wydanych na podstawie art. 92 ust. 4 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2013 r. poz. 727, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1149 oraz z 2014 r. poz. 768 i 1662.), jeżeli stawki te zostały określone w tych przepisach.
 7.
 W przypadku gdy kwota zaliczki uiszczonej na pokrycie opłaty, o której mowa w ust. 1, jest wyższa niż kwota opłaty określona w postanowieniu wydanym na podstawie ust. 5, a także w przypadku gdy opłata jest nienależna, zwrot kwoty nienależnej następuje nie później niż w terminie 3 miesięcy od dnia zakończenia postępowania w sprawie WIA.
 Organ podatkowy wydaje WIA bez zbędnej zwłoki, jednak nie później niż w terminie 3 miesięcy od dnia otrzymania wniosku o wydanie WIA. Do tego terminu nie wlicza się terminów i okresów, o których mowa w art. 139 § 4 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
@@ -83,93 +83,67 @@ o której mowa w art. 7d ust. 1 pkt 1, dotyczy wyrobu akcyzowego albo samochodu 
 3)
 dotyczy informacji o rodzaju wyrobu akcyzowego, dla którego podmiot, na rzecz którego ma być wydana WIA, posiada w tym zakresie interpretację indywidualną w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 Organ podatkowy w celu wykonywania zadań w zakresie wydawania WIA może przetwarzać dane zawarte we wniosku o wydanie WIA, z zachowaniem przepisów o ochronie danych osobowych oraz tajemnic ustawowo chronionych.
-WIA wraz z wnioskiem o jej wydanie, po usunięciu danych identyfikujących wnioskodawcę i inne podmioty wskazane w treści wniosku o wydanie WIA oraz danych objętych tajemnicą przedsiębiorcy, są zamieszczane w Biuletynie Informacji Publicznej organu podatkowego właściwego w zakresie WIA.
-” ;
+WIA wraz z wnioskiem o jej wydanie, po usunięciu danych identyfikujących wnioskodawcę i inne podmioty wskazane w treści wniosku o wydanie WIA oraz danych objętych tajemnicą przedsiębiorcy, są zamieszczane w Biuletynie Informacji Publicznej organu podatkowego właściwego w zakresie WIA. ” ;
 4)
 w art. 14:
 a)
-po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Organem podatkowym właściwym w zakresie WIA jest dyrektor izby celnej.
-” ,
+Organem podatkowym właściwym w zakresie WIA jest dyrektor izby celnej. ” ,
 b)
-dodaje się ust. 12 w brzmieniu:
-„
+dodaje się ust. 12 w brzmieniu: „
 12.
-Minister właściwy do spraw finansów publicznych wyznaczy, w drodze rozporządzenia, dyrektora lub dyrektorów izb celnych właściwych do prowadzenia spraw, o których mowa w ust. 1a, oraz dyrektora izby celnej właściwego do prowadzenia tych spraw jako organ odwoławczy, uwzględniając potrzebę sprawnego wykonywania zadań oraz zapewnienia jednolitości postępowania.
-” ;
+Minister właściwy do spraw finansów publicznych wyznaczy, w drodze rozporządzenia, dyrektora lub dyrektorów izb celnych właściwych do prowadzenia spraw, o których mowa w ust. 1a, oraz dyrektora izby celnej właściwego do prowadzenia tych spraw jako organ odwoławczy, uwzględniając potrzebę sprawnego wykonywania zadań oraz zapewnienia jednolitości postępowania. ” ;
 5)
-w art. 32 ust. 7 otrzymuje brzmienie:
-„
+w art. 32 ust. 7 otrzymuje brzmienie: „
 7.
-Ewidencja, o której mowa w ust. 5 pkt 3, może być prowadzona w postaci papierowej lub elektronicznej.
-” ;
+Ewidencja, o której mowa w ust. 5 pkt 3, może być prowadzona w postaci papierowej lub elektronicznej. ” ;
 6)
-w art. 41 ust. 11 otrzymuje brzmienie:
-„
+w art. 41 ust. 11 otrzymuje brzmienie: „
 11.
-Ewidencja, o której mowa w ust. 10, może być prowadzona w postaci papierowej lub elektronicznej.
-” ;
+Ewidencja, o której mowa w ust. 10, może być prowadzona w postaci papierowej lub elektronicznej. ” ;
 7)
 w art. 47 uchyla się ust. 5;
 8)
-w art. 53 ust. 6 otrzymuje brzmienie:
-„
+w art. 53 ust. 6 otrzymuje brzmienie: „
 6.
-Ewidencja, o której mowa w ust. 5, może być prowadzona w postaci papierowej lub elektronicznej.
-” ;
+Ewidencja, o której mowa w ust. 5, może być prowadzona w postaci papierowej lub elektronicznej. ” ;
 9)
-w art. 59 ust. 4 otrzymuje brzmienie:
-„
+w art. 59 ust. 4 otrzymuje brzmienie: „
 4.
-Ewidencja, o której mowa w ust. 2, może być prowadzona w postaci papierowej lub elektronicznej.
-” ;
+Ewidencja, o której mowa w ust. 2, może być prowadzona w postaci papierowej lub elektronicznej. ” ;
 10)
-w art. 62c ust. 3 otrzymuje brzmienie:
-„
+w art. 62c ust. 3 otrzymuje brzmienie: „
 3.
-Ewidencja, o której mowa w ust. 2 pkt 2, może być prowadzona w postaci papierowej lub elektronicznej.
-” ;
+Ewidencja, o której mowa w ust. 2 pkt 2, może być prowadzona w postaci papierowej lub elektronicznej. ” ;
 11)
-w art. 77 ust. 1 otrzymuje brzmienie:
-„
+w art. 77 ust. 1 otrzymuje brzmienie: „
 1.
-Dostawa wewnątrzwspólnotowa lub nabycie wewnątrzwspólnotowe, na potrzeby wykonywanej działalności gospodarczej na terytorium kraju, wyrobów akcyzowych, od których została zapłacona akcyza, są dokonywane na podstawie uproszczonego dokumentu towarzyszącego.
-” ;
+Dostawa wewnątrzwspólnotowa lub nabycie wewnątrzwspólnotowe, na potrzeby wykonywanej działalności gospodarczej na terytorium kraju, wyrobów akcyzowych, od których została zapłacona akcyza, są dokonywane na podstawie uproszczonego dokumentu towarzyszącego. ” ;
 12)
-w art. 78 ust. 5 otrzymuje brzmienie:
-„
+w art. 78 ust. 5 otrzymuje brzmienie: „
 5.
-Ewidencja, o której mowa w ust. 1 pkt 4, może być prowadzona w postaci papierowej lub elektronicznej.
-” ;
+Ewidencja, o której mowa w ust. 1 pkt 4, może być prowadzona w postaci papierowej lub elektronicznej. ” ;
 13)
-w art. 80 ust. 3 otrzymuje brzmienie:
-„
+w art. 80 ust. 3 otrzymuje brzmienie: „
 3.
-Ewidencja, o której mowa w ust. 2 pkt 3, może być prowadzona w postaci papierowej lub elektronicznej.
-” ;
+Ewidencja, o której mowa w ust. 2 pkt 3, może być prowadzona w postaci papierowej lub elektronicznej. ” ;
 14)
-w art. 82 w ust. 3 pkt 2 otrzymuje brzmienie:
-„
+w art. 82 w ust. 3 pkt 2 otrzymuje brzmienie: „
 2)
-potwierdzenie otrzymania wyrobów akcyzowych przez odbiorcę z państwa członkowskiego Unii Europejskiej na uproszczonym dokumencie towarzyszącym lub na kopii dokumentu handlowego, o którym mowa w art. 77 ust. 2;
-” ;
+potwierdzenie otrzymania wyrobów akcyzowych przez odbiorcę z państwa członkowskiego Unii Europejskiej na uproszczonym dokumencie towarzyszącym lub na kopii dokumentu handlowego, o którym mowa w art. 77 ust. 2; ” ;
 15)
 w art. 89:
 a)
-ust. 8a otrzymuje brzmienie:
-„
+ust. 8a otrzymuje brzmienie: „
 8a.
 Oświadczenie, o którym mowa w ust. 5, może być zastąpione oświadczeniem złożonym w okresowej umowie zawartej między sprzedawcą a nabywcą wyrobów akcyzowych określonych w ust. 1 pkt 9, 10 i 15 lit. a, które wywiera skutek jedynie w stosunku do nabywanych wyrobów akcyzowych w ilości wynikającej z tej umowy, zawierającym dane określone w ust. 6 lub 8, pod warunkiem:
 1)
 przekazania kopii tej umowy właściwemu dla sprzedawcy naczelnikowi urzędu celnego przed dokonaniem pierwszej sprzedaży tych wyrobów;
 2)
-potwierdzenia każdej sprzedaży tych wyrobów fakturą.
-” ,
+potwierdzenia każdej sprzedaży tych wyrobów fakturą. ” ,
 b)
-ust. 15 i 16 otrzymują brzmienie:
-„
+ust. 15 i 16 otrzymują brzmienie: „
 15.
 Miesięczne zestawienie oświadczeń powinno zawierać:
 1)
@@ -187,56 +161,39 @@ w przypadku oświadczeń, o których mowa w:
 2)
 w przypadku importera, o którym mowa w ust. 13 – dane, o których mowa w pkt 1 lit. a-c.
 16.
-W przypadku gdy warunki, o których mowa w ust. 5–12, nie zostały spełnione i w wyniku postępowania podatkowego, postępowania kontrolnego albo kontroli podatkowej ustalono, że wyroby, o których mowa w ust. 1 pkt 9, 10 i 15 lit. a, nie zostały użyte do celów opałowych lub gdy nie ustalono nabywcy tych wyrobów, stosuje się stawkę akcyzy określoną w ust. 4 pkt 1.
-” ;
+W przypadku gdy warunki, o których mowa w ust. 5–12, nie zostały spełnione i w wyniku postępowania podatkowego, postępowania kontrolnego albo kontroli podatkowej ustalono, że wyroby, o których mowa w ust. 1 pkt 9, 10 i 15 lit. a, nie zostały użyte do celów opałowych lub gdy nie ustalono nabywcy tych wyrobów, stosuje się stawkę akcyzy określoną w ust. 4 pkt 1. ” ;
 16)
-w art. 91 ust. 5 otrzymuje brzmienie:
-„
+w art. 91 ust. 5 otrzymuje brzmienie: „
 5.
-Ewidencja, o której mowa w ust. 1 i 2, może być prowadzona w postaci papierowej lub elektronicznej.
-” ;
+Ewidencja, o której mowa w ust. 1 i 2, może być prowadzona w postaci papierowej lub elektronicznej. ” ;
 17)
-w art. 91a ust. 3 otrzymuje brzmienie:
-„
+w art. 91a ust. 3 otrzymuje brzmienie: „
 3.
-Ewidencja, o której mowa w ust. 1 i 2, może być prowadzona w postaci papierowej lub elektronicznej.
-” ;
+Ewidencja, o której mowa w ust. 1 i 2, może być prowadzona w postaci papierowej lub elektronicznej. ” ;
 18)
-w art. 91b ust. 3 otrzymuje brzmienie:
-„
+w art. 91b ust. 3 otrzymuje brzmienie: „
 3.
-Ewidencja, o której mowa w ust. 1 i 2, może być prowadzona w postaci papierowej lub elektronicznej.
-” ;
+Ewidencja, o której mowa w ust. 1 i 2, może być prowadzona w postaci papierowej lub elektronicznej. ” ;
 19)
-w art. 107 ust. 1 otrzymuje brzmienie:
-„
+w art. 107 ust. 1 otrzymuje brzmienie: „
 1.
-Podmiot, który nabył prawo rozporządzania jak właściciel samochodem osobowym niezarejestrowanym na terytorium kraju zgodnie z przepisami o ruchu drogowym w momencie dokonywania jego dostawy wewnątrzwspólnotowej albo eksportu, od którego akcyza została zapłacona na terytorium kraju, ma prawo do zwrotu akcyzy na wniosek, złożony właściwemu naczelnikowi urzędu celnego w terminie roku od dnia dokonania dostawy wewnątrzwspólnotowej tego samochodu osobowego albo jego eksportu.
-” ;
+Podmiot, który nabył prawo rozporządzania jak właściciel samochodem osobowym niezarejestrowanym na terytorium kraju zgodnie z przepisami o ruchu drogowym w momencie dokonywania jego dostawy wewnątrzwspólnotowej albo eksportu, od którego akcyza została zapłacona na terytorium kraju, ma prawo do zwrotu akcyzy na wniosek, złożony właściwemu naczelnikowi urzędu celnego w terminie roku od dnia dokonania dostawy wewnątrzwspólnotowej tego samochodu osobowego albo jego eksportu. ” ;
 20)
-w art. 116 po ust. 1a dodaje się ust. 1b w brzmieniu:
-„
+w art. 116 po ust. 1a dodaje się ust. 1b w brzmieniu: „
 1b.
-Producent wina będący rolnikiem wyrabiającym mniej niż 100 hektolitrów wina w ciągu roku gospodarczego w rozumieniu ustawy z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina wyłącznie z winogron pochodzących z upraw własnych, który nie złożył zgłoszenia rejestracyjnego, o którym mowa w art. 16 ust. 1, przed wprowadzeniem wyrobów akcyzowych do obrotu, ma obowiązek oznaczania tych wyrobów podatkowymi znakami akcyzy.
-” ;
+Producent wina będący rolnikiem wyrabiającym mniej niż 100 hektolitrów wina w ciągu roku gospodarczego w rozumieniu ustawy z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina wyłącznie z winogron pochodzących z upraw własnych, który nie złożył zgłoszenia rejestracyjnego, o którym mowa w art. 16 ust. 1, przed wprowadzeniem wyrobów akcyzowych do obrotu, ma obowiązek oznaczania tych wyrobów podatkowymi znakami akcyzy. ” ;
 21)
-w art. 118 ust. 7 otrzymuje brzmienie:
-„
+w art. 118 ust. 7 otrzymuje brzmienie: „
 7.
-Ewidencja, o której mowa w ust. 4, może być prowadzona w postaci papierowej lub elektronicznej.
-” ;
+Ewidencja, o której mowa w ust. 4, może być prowadzona w postaci papierowej lub elektronicznej. ” ;
 22)
-w art. 125 po ust. 1b dodaje się ust. 1c w brzmieniu:
-„
+w art. 125 po ust. 1b dodaje się ust. 1c w brzmieniu: „
 1c.
-Podatkowe znaki akcyzy otrzymuje również producent wina, o którym mowa w art. 116 ust. 1b.
-” ;
+Podatkowe znaki akcyzy otrzymuje również producent wina, o którym mowa w art. 116 ust. 1b. ” ;
 23)
-w art. 131 ust. 2 otrzymuje brzmienie:
-„
+w art. 131 ust. 2 otrzymuje brzmienie: „
 2.
-Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej lub elektronicznej.
-” .
+Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej lub elektronicznej. ” .
 
 **Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502) w art. 229:
 
@@ -271,11 +228,11 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 - **2)** tryb wydawania i przechowywania orzeczeń lekarskich do celów przewidzianych w niniejszej ustawie i w przepisach wydanych na jej podstawie,
 - **3)** zakres informacji objętych skierowaniem na badania lekarskie i orzeczeniem lekarskim, a także wzory tych dokumentów,
 - **4)** zakres profilaktycznej opieki zdrowotnej, o której mowa w § 6 zdanie drugie,
-- **5)** dodatkowe wymagania kwalifikacyjne, jakie powinni spełniać lekarze przeprowadzający badania, o których mowa w § 1, 2 i 5, oraz sprawujący profilaktyczną opiekę zdrowotną, o której mowa w § 6 zdanie drugie uwzględniając konieczność zapewnienia prawidłowego przebiegu i kompleksowości badań lekarskich, o których mowa w § 1, 2 i 5, profilaktycznej opieki zdrowotnej, o której mowa w § 6 zdanie drugie, a także informacji umożliwiających porównanie warunków pracy u pracodawcy oraz ochrony danych osobowych osób poddanych badaniom. ” .
+- **5)** dodatkowe wymagania kwalifikacyjne, jakie powinni spełniać lekarze przeprowadzający badania, o których mowa w § 1, 2 i 5, oraz sprawujący profilaktyczną opiekę zdrowotną, o której mowa w § 6 zdanie drugie – uwzględniając konieczność zapewnienia prawidłowego przebiegu i kompleksowości badań lekarskich, o których mowa w § 1, 2 i 5, profilaktycznej opieki zdrowotnej, o której mowa w § 6 zdanie drugie, a także informacji umożliwiających porównanie warunków pracy u pracodawcy oraz ochrony danych osobowych osób poddanych badaniom. ” .
 
 **Art. 2.** W ustawie z dnia 30 maja 1989 r. o izbach gospodarczych (Dz. U. z 2009 r. Nr 84, poz. 710) w art. 12 dodaje się ust. 5 w brzmieniu: „ 5. Krajowa Izba Gospodarcza poprzez Polską Izbę Handlu Zagranicznego może wystawiać uniwersalne świadectwa pochodzenia towaru, o których mowa w art. 48 rozporządzenia Komisji (EWG) nr 2454/93 z dnia 2 lipca 1993 r. ustanawiającego przepisy w celu wykonania rozporządzenia Rady (EWG) nr 2913/92 ustanawiającego Wspólnotowy Kodeks Celny (Dz. Urz. UE L 253 z 11.10.1993, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 2, t. 6, str. 3, z późn. zm.). ” .
 
-**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717 oraz z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563 i 1644.) wprowadza się następujące zmiany:
 
 - **1)** w art. 11 ust. 2 otrzymuje brzmienie: „
 
@@ -306,13 +263,16 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 
 3a. Przepisu ust. 3 pkt 1 nie stosuje się do przychodów, o których mowa w ust. 1j. ” ;
 
-- **4)** w art. 21: w ust. 1: – po pkt 14 dodaje się pkt 14a w brzmieniu: „ 14a) wartość świadczenia otrzymanego przez pracownika z tytułu organizowanego przez pracodawcę dowozu pracowników autobusem w rozumieniu art. 2 pkt 41 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.); ” , – po pkt 117 dodaje się pkt 117a w brzmieniu: „ 117a) wartość nieodpłatnego świadczenia z tytułu pomocy prawnej udzielonej osobie uprawnionej i pobierającej świadczenie z pomocy społecznej lub zasiłek rodzinny, przyznane w formie decyzji administracyjnej na zasadach określonych odpowiednio w przepisach o pomocy społecznej oraz w przepisach o świadczeniach rodzinnych; ” , dodaje się ust. 34 w brzmieniu: „
+- **4)** w art. 21: w ust. 1: po pkt 14 dodaje się pkt 14a w brzmieniu: „
     - **a)**
+
+- **14a)** wartość świadczenia otrzymanego przez pracownika z tytułu organizowanego przez pracodawcę dowozu pracowników autobusem w rozumieniu art. 2 pkt 41 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312, 486, 529, 768, 822 i 970.); ” , po pkt 117 dodaje się pkt 117a w brzmieniu: „
+- **117a)** wartość nieodpłatnego świadczenia z tytułu pomocy prawnej udzielonej osobie uprawnionej i pobierającej świadczenie z pomocy społecznej lub zasiłek rodzinny, przyznane w formie decyzji administracyjnej na zasadach określonych odpowiednio w przepisach o pomocy społecznej oraz w przepisach o świadczeniach rodzinnych; ” , dodaje się ust. 34 w brzmieniu: „
     - **b)**
 
 34. Osoba, o której mowa w ust. 1 pkt 117a, jest obowiązana złożyć świadczeniodawcy pisemne oświadczenie o uprawnieniu i pobieraniu świadczenia z pomocy społecznej lub zasiłku rodzinnego, na zasadach określonych odpowiednio w przepisach o pomocy społecznej oraz w przepisach o świadczeniach rodzinnych, podając imię i nazwisko, adres zamieszkania, numer PESEL oraz numer decyzji, na podstawie której osoba ta pobiera świadczenie z pomocy społecznej lub zasiłek rodzinny. ” .
 
-**Art. 4.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.) w art. 12:
+**Art. 4.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457 i 1563.) w art. 12:
 
 - **1)** w ust. 3a wprowadzenie do wyliczenia otrzymuje brzmienie: „ Za datę powstania przychodu, o którym mowa w ust. 3, uważa się, z zastrzeżeniem ust. 3c-3g, dzień wydania rzeczy, zbycia prawa majątkowego lub wykonania usługi, albo częściowego wykonania usługi, nie później niż dzień: ” ;
 - **2)** po ust. 3f dodaje się ust. 3g-3i w brzmieniu: „
@@ -327,7 +287,7 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 
 4h. Przepisu ust. 4 pkt 1 nie stosuje się do przychodów, o których mowa w ust. 3g. ” .
 
-**Art. 5.** W ustawie z dnia 7 lipca 1994 r. o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych (Dz. U. z 2001 r. Nr 59, poz. 609, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 7 lipca 1994 r. o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych (Dz. U. z 2001 r. Nr 59, poz. 609, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 143, poz. 1204 oraz z 2009 r. Nr 161, poz. 1277 i Nr 215, poz. 1662.) wprowadza się następujące zmiany:
 
 - **1)** po art. 6 dodaje się art. 6a-6e w brzmieniu: „
 
@@ -343,7 +303,7 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 
 3. Pochodzenie produktu lub usługi może być wykazane przez udowodnienie minimalnego procentowego udziału składników pochodzenia krajowego, liczonego jako różnica 100% i wyrażonego w procentach maksymalnego udziału składników pochodzenia zagranicznego, o którym mowa w przepisach wydanych na podstawie art. 6e. Minimalny procentowy udział składników pochodzenia krajowego może być wykazany przez udowodnienie pochodzenia krajowego jedynie wybranych składników.
 
-1. Składnikami pochodzenia zagranicznego produktu lub usługi są koszty wytworzenia lub cena nabycia w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.) poniesione przez przedsiębiorcę w związku z realizacją kontraktu eksportowego na rzecz:
+1. Składnikami pochodzenia zagranicznego produktu lub usługi są koszty wytworzenia lub cena nabycia w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613 oraz z 2014 r. poz. 768 i 1100.) poniesione przez przedsiębiorcę w związku z realizacją kontraktu eksportowego na rzecz:
 
 - **1)** dostawców i usługodawców, będących osobami prawnymi lub jednostkami nieposiadającymi osobowości prawnej, mającymi siedzibę poza terytorium Rzeczypospolitej Polskiej,
 - **2)** pracowników, dostawców i usługodawców, będących osobami fizycznymi nieposiadającymi miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej,
@@ -352,7 +312,7 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 2. Składnikami pochodzenia krajowego produktu lub usługi są:
 
 - **1)** inne niż wymienione w ust. 1 koszty wytworzenia lub cena nabycia w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości,
-- **2)** koszty zakupu surowców lub półfabrykatów, które nie są wydobywane ani wytwarzane na terytorium Rzeczypospolitej Polskiej lub których odpowiedniki wydobywane lub wytwarzane na terytorium Rzeczypospolitej Polskiej nie posiadają parametrów określonych w kontrakcie eksportowym poniesione przez przedsiębiorcę w związku z realizacją kontraktu eksportowego.
+- **2)** koszty zakupu surowców lub półfabrykatów, które nie są wydobywane ani wytwarzane na terytorium Rzeczypospolitej Polskiej lub których odpowiedniki wydobywane lub wytwarzane na terytorium Rzeczypospolitej Polskiej nie posiadają parametrów określonych w kontrakcie eksportowym – poniesione przez przedsiębiorcę w związku z realizacją kontraktu eksportowego.
 
 3. Składnikiem pochodzenia krajowego jest również marża na realizację kontraktu eksportowego wyliczona jako różnica przychodu netto z realizacji kontraktu eksportowego oraz ogółu kosztów wytworzenia produktu lub usługi poniesionych w związku z realizacją kontraktu eksportowego.
 
@@ -368,12 +328,13 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 
 **Art. 30a.** Mikroprzedsiębiorca w rozumieniu art. 2 ust. 3 załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1) za rok kalendarzowy, w którym uzyskał wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym, podlega obowiązkowi przekazywania informacji i danych statystycznych, o których mowa w art. 30 pkt 3, jeżeli obowiązek ich przekazywania wynika z umów i zobowiązań międzynarodowych lub przepisów prawa Unii Europejskiej. ” .
 
-**Art. 7.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.) w art. 38a ust. 4 otrzymuje brzmienie: „ 4. W gwarancjach, o których mowa w ust. 3 pkt 1, gwarant zobowiązuje się na piśmie do zapłacenia, bezwarunkowo i nieodwołalnie, na każde wezwanie Prezesa URE działającego z urzędu lub na wniosek właściwego organu zabezpieczonej kwoty należności wraz z odsetkami za zwłokę, jeżeli jej zapłacenie stanie się wymagalne. ” .
+**Art. 7.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238 oraz z 2014 r. poz. 457, 490, 900, 942 i 1101.) w art. 38a ust. 4 otrzymuje brzmienie: „ 4. W gwarancjach, o których mowa w ust. 3 pkt 1, gwarant zobowiązuje się na piśmie do zapłacenia, bezwarunkowo i nieodwołalnie, na każde wezwanie Prezesa URE działającego z urzędu lub na wniosek właściwego organu zabezpieczonej kwoty należności wraz z odsetkami za zwłokę, jeżeli jej zapłacenie stanie się wymagalne. ” .
 
 **Art. 8.** W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2012 r. poz. 657, z 2013 r. poz. 198 oraz z 2014 r. poz. 84) wprowadza się następujące zmiany:
 
-- **1)** w art. 2 w ust. 1: w pkt 3: – uchyla się lit. b-d, – lit. e otrzymuje brzmienie: „ e) fundacje, w których fundatorami są osoby prawne, o których mowa w lit. a; ” , pkt 5 otrzymuje brzmienie: „
+- **1)** w art. 2 w ust. 1: w pkt 3: – uchyla się lit. b-d, lit. e otrzymuje brzmienie: „ fundacje, w których fundatorami są osoby prawne, o których mowa w lit. a; ” , pkt 5 otrzymuje brzmienie: „
     - **a)**
+    - **e)**
     - **b)**
 
 - **5)** rezydencie – należy przez to rozumieć rezydenta w rozumieniu przepisów ustawy z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. z 2012 r. poz. 826 oraz z 2013 r. poz. 1036); ” , pkt 9a otrzymuje brzmienie: „
@@ -384,7 +345,7 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 
 - **2)** w art. 34d ust. 3 otrzymuje brzmienie: „
 
-3. Do przekazania akcji (udziałów), o którym mowa w ust. 2, nie stosuje się przepisów ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2013 r. poz. 216, z późn. zm.) dotyczących trybu zbywania akcji i udziałów Skarbu Państwa. ” .
+3. Do przekazania akcji (udziałów), o którym mowa w ust. 2, nie stosuje się przepisów ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2013 r. poz. 216, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1643 oraz z 2014 r. poz. 598 i 612.) dotyczących trybu zbywania akcji i udziałów Skarbu Państwa. ” .
 
 **Art. 9.** W ustawie z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2014 r. poz. 1182) wprowadza się następujące zmiany:
 
@@ -435,7 +396,7 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 9. Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia:
 
 - **1)** tryb i sposób realizacji zadań, o których mowa w ust. 2 pkt 1 lit. a i b,
-- **2)** sposób prowadzenia rejestru zbiorów danych, o którym mowa w ust. 2 pkt 2 uwzględniając konieczność zapewnienia prawidłowości realizacji zadań administratora bezpieczeństwa informacji oraz niezależności i organizacyjnej odrębności w wykonywaniu przez niego zadań. W przypadku niepowołania administratora bezpieczeństwa informacji zadania określone w art. 36a ust. 2 pkt 1, z wyłączeniem obowiązku sporządzania sprawozdania, o którym mowa w art. 36a ust. 2 pkt 1 lit. a, wykonuje administrator danych. Sprawozdanie, o którym mowa w art. 36a ust. 2 pkt 1 lit. a, powinno zawierać:
+- **2)** sposób prowadzenia rejestru zbiorów danych, o którym mowa w ust. 2 pkt 2 – uwzględniając konieczność zapewnienia prawidłowości realizacji zadań administratora bezpieczeństwa informacji oraz niezależności i organizacyjnej odrębności w wykonywaniu przez niego zadań. W przypadku niepowołania administratora bezpieczeństwa informacji zadania określone w art. 36a ust. 2 pkt 1, z wyłączeniem obowiązku sporządzania sprawozdania, o którym mowa w art. 36a ust. 2 pkt 1 lit. a, wykonuje administrator danych. Sprawozdanie, o którym mowa w art. 36a ust. 2 pkt 1 lit. a, powinno zawierać:
 - **1)** oznaczenie administratora danych i adres jego siedziby lub miejsca zamieszkania;
 - **2)** imię i nazwisko administratora bezpieczeństwa informacji;
 - **3)** wykaz czynności podjętych przez administratora bezpieczeństwa informacji w toku sprawdzenia oraz imiona, nazwiska i stanowiska osób biorących udział w tych czynnościach;
@@ -519,7 +480,7 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 
 5. Generalny Inspektor, wydając decyzję, o której mowa w ust. 3, uwzględnia wyniki przeprowadzonych konsultacji, o których mowa w ust. 4, a jeżeli wiążące reguły korporacyjne były przedmiotem rozstrzygnięcia organu ochrony danych osobowych innego państwa należącego do Europejskiego Obszaru Gospodarczego – może uwzględnić to rozstrzygnięcie. ” .
 
-**Art. 10.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r. poz. 1442, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 10.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r. poz. 1442, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1623, 1650 i 1717 oraz z 2014 r. poz. 567, 598, 1146 i 1161.) wprowadza się następujące zmiany:
 
 - **1)** w art. 41: uchyla się ust. 7, ust. 9 otrzymuje brzmienie: „
     - **a)**
@@ -541,9 +502,9 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 
 - **3)** w art. 98 w ust. 1 uchyla się pkt 6a.
 
-**Art. 11.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2014 r. poz. 669 i 1146) w art. 10 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Organ Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych przeprowadzający kontrolę graniczną jakości handlowej w portach morskich współpracuje z organami celnymi w zakresie tej kontroli, w szczególności informuje naczelnika urzędu celnego właściwego dla portu morskiego o terminie, w tym o godzinie, i miejscu planowanej kontroli. Organ Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych przeprowadza kontrolę graniczną jakości handlowej w portach morskich w sposób pozwalający na zachowanie terminów, o których mowa w art. 20a ust. 2–5 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2013 r. poz. 1404, z późn. zm.). ” .
+**Art. 11.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2014 r. poz. 669 i 1146) w art. 10 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Organ Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych przeprowadzający kontrolę graniczną jakości handlowej w portach morskich współpracuje z organami celnymi w zakresie tej kontroli, w szczególności informuje naczelnika urzędu celnego właściwego dla portu morskiego o terminie, w tym o godzinie, i miejscu planowanej kontroli. Organ Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych przeprowadza kontrolę graniczną jakości handlowej w portach morskich w sposób pozwalający na zachowanie terminów, o których mowa w art. 20a ust. 2–5 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2013 r. poz. 1404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 1055, 1215, 1395 i 1662.). ” .
 
-**Art. 12.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 12.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47, 457, 822, 1101, 1146 i 1322.) wprowadza się następujące zmiany:
 
 - **1)** w art. 400h: w ust. 1 w pkt 7 w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
     - **a)**
@@ -559,7 +520,7 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 
 6. Dopuszczalna wysokość poręczeń za zobowiązania podmiotu lub grupy podmiotów nie może przekroczyć 20% wartości funduszu własnego odpowiednio Narodowego Funduszu albo wojewódzkiego funduszu. ” ;
 
-- **2)** w art. 411: w ust. 1 w pkt 2 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ dopłaty do rat lub innych opłat ustalanych w umowach leasingu w rozumieniu przepisów art. 23a pkt 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) i art. 17a pkt 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.); ” , po ust. 3a dodaje się ust. 3b w brzmieniu: „
+- **2)** w art. 411: w ust. 1 w pkt 2 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ dopłaty do rat lub innych opłat ustalanych w umowach leasingu w rozumieniu przepisów art. 23a pkt 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717 oraz z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644 i 1662.) i art. 17a pkt 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662.); ” , po ust. 3a dodaje się ust. 3b w brzmieniu: „
     - **a)**
     - **e)**
     - **b)**
@@ -572,7 +533,7 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 
 - **1)** spłaty kredytów lub pożyczek,
 - **2)** spłaty odsetek od kredytów lub pożyczek,
-- **3)** zwrotu przyznanych środków pod warunkiem przeznaczenia tych kredytów, pożyczek lub środków na cele z zakresu ochrony środowiska lub gospodarki wodnej oraz ustanowienia zabezpieczeń odpowiednio na rzecz Narodowego Funduszu albo wojewódzkich funduszy na wypadek roszczeń wynikających z tytułu wykonania obowiązków poręczycieli. ” , po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „
+- **3)** zwrotu przyznanych środków – pod warunkiem przeznaczenia tych kredytów, pożyczek lub środków na cele z zakresu ochrony środowiska lub gospodarki wodnej oraz ustanowienia zabezpieczeń odpowiednio na rzecz Narodowego Funduszu albo wojewódzkich funduszy na wypadek roszczeń wynikających z tytułu wykonania obowiązków poręczycieli. ” , po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „
     - **d)**
 
 5a. Poręczenia są terminowe i udzielane do kwoty określonej w umowie.
@@ -626,7 +587,7 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 
 1. Kwalifikowany podmiot świadczący usługi certyfikacyjne jest obowiązany zawiadamiać niezwłocznie, nie później niż w terminie 14 dni od zmiany stanu faktycznego lub prawnego, ministra właściwego do spraw gospodarki o zmianie danych zawartych we wniosku, o którym mowa w art. 24 ust. 2. ” .
 
-**Art. 15.** W ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2012 r. poz. 1329, z późn. zm.) w art. 10 dodaje się ust. 5 w brzmieniu: „ 5. Jeżeli roboty strzałowe w ruchu zakładu górniczego albo zakładu będą wykonywane przez przedsiębiorcę, o którym mowa w ust. 2 pkt 2, uzyskanie pozwolenia przez:
+**Art. 15.** W ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2012 r. poz. 1329, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 775 i 1238 oraz z 2014 r. poz. 295.) w art. 10 dodaje się ust. 5 w brzmieniu: „ 5. Jeżeli roboty strzałowe w ruchu zakładu górniczego albo zakładu będą wykonywane przez przedsiębiorcę, o którym mowa w ust. 2 pkt 2, uzyskanie pozwolenia przez:
 
 - **1)** przedsiębiorcę, o którym mowa w ust. 2 pkt 1 – wyłącza obowiązek uzyskania pozwolenia w zakresie tych samych materiałów wybuchowych przeznaczonych do użytku cywilnego przez przedsiębiorcę, o którym mowa w ust. 2 pkt 2;
 - **2)** tego przedsiębiorcę – wyłącza obowiązek uzyskania pozwolenia w zakresie tych samych materiałów wybuchowych przeznaczonych do użytku cywilnego przez przedsiębiorcę, o którym mowa w ust. 2 pkt 1. ” .
@@ -638,9 +599,9 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 
 9a. Szczegółowe zasady współpracy między organami celnymi a organami wyspecjalizowanymi mogą zostać określone w drodze porozumienia. ” .
 
-**Art. 17.** W ustawie z dnia 27 sierpnia 2003 r. o weterynaryjnej kontroli granicznej (Dz. U. z 2014 r. poz. 424) po art. 4 dodaje się art. 4a w brzmieniu: „ Graniczny lekarz weterynarii przeprowadzający weterynaryjną kontrolę graniczną w portach morskich współpracuje z organami celnymi w zakresie tej kontroli, w szczególności informuje naczelnika urzędu celnego właściwego dla portu morskiego o terminie, w tym o godzinie, i miejscu planowanej kontroli. Graniczny lekarz weterynarii przeprowadza weterynaryjną kontrolę graniczną w portach morskich w sposób pozwalający na zachowanie terminów, o których mowa w art. 20a ust. 2–5 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2013 r. poz. 1404, z późn. zm.). ” .
+**Art. 17.** W ustawie z dnia 27 sierpnia 2003 r. o weterynaryjnej kontroli granicznej (Dz. U. z 2014 r. poz. 424) po art. 4 dodaje się art. 4a w brzmieniu: „ Graniczny lekarz weterynarii przeprowadzający weterynaryjną kontrolę graniczną w portach morskich współpracuje z organami celnymi w zakresie tej kontroli, w szczególności informuje naczelnika urzędu celnego właściwego dla portu morskiego o terminie, w tym o godzinie, i miejscu planowanej kontroli. Graniczny lekarz weterynarii przeprowadza weterynaryjną kontrolę graniczną w portach morskich w sposób pozwalający na zachowanie terminów, o których mowa w art. 20a ust. 2–5 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2013 r. poz. 1404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 1055, 1215, 1395 i 1662.). ” .
 
-**Art. 18.** W ustawie z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów (Dz. U. Nr 229, poz. 2275, z późn. zm.) w art. 33:
+**Art. 18.** W ustawie z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów (Dz. U. Nr 229, poz. 2275, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 35, poz. 215, z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 18, poz. 97 i Nr 20, poz. 106 oraz z 2011 r. Nr 63, poz. 322 i Nr 102, poz. 586.) w art. 33:
 
 - **1)** uchyla się ust. 4;
 - **2)** po ust. 4 dodaje się ust. 4a w brzmieniu: „
@@ -701,10 +662,11 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 - **1)** jeżeli podmiot nie spełnia wymagań określonych w ust. 15a lub
 - **2)** w przypadku, o którym mowa w ust. 15d pkt 1 i 2.
 
-15f. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, rośliny, produkty roślinne lub przedmioty, dla których paszporty roślin nie mogą być wydawane przez podmioty upoważnione do ich wydawania na podstawie ust. 15, mając na uwadze stwarzane przez nie szczególne zagrożenie rozprzestrzenienia się organizmów kwarantannowych. ” , w ust. 16: – pkt 2 otrzymuje brzmienie: „ 2) rośliny, produkty roślinne lub przedmioty, dla których paszporty roślin mogą być wydawane przez upoważniony podmiot. ” , – uchyla się pkt 3, ust. 18 otrzymuje brzmienie: „
+15f. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, rośliny, produkty roślinne lub przedmioty, dla których paszporty roślin nie mogą być wydawane przez podmioty upoważnione do ich wydawania na podstawie ust. 15, mając na uwadze stwarzane przez nie szczególne zagrożenie rozprzestrzenienia się organizmów kwarantannowych. ” , w ust. 16: pkt 2 otrzymuje brzmienie: „
 
 - **h)**
-- **i)**
+- **2)** rośliny, produkty roślinne lub przedmioty, dla których paszporty roślin mogą być wydawane przez upoważniony podmiot. ” , – uchyla się pkt 3, ust. 18 otrzymuje brzmienie: „
+    - **i)**
 
 18. Upoważnienie, o którym mowa w ust. 15, cofa się, w drodze decyzji, jeżeli upoważniony podmiot:
 
@@ -745,7 +707,7 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 
 3a. Niezwłocznie po otrzymaniu informacji, o której mowa w ust. 3, dotyczącej wprowadzania roślin, produktów roślinnych lub przedmiotów, o których mowa w art. 22 ust. 1 pkt 2 i 3, przez przejście graniczne niebędące punktem wwozu wojewódzki inspektor właściwy ze względu na miejsce ich wprowadzania na terytorium Rzeczypospolitej Polskiej przeprowadza graniczną kontrolę fitosanitarną. Przepisy art. 25 ust. 2, art. 26 ust. 1 i 2 oraz art. 27 ust. 3, ust. 4 pkt 1 i ust. 6 stosuje się odpowiednio.
 
-3b. W przypadku przeprowadzania granicznej kontroli fitosanitarnej w portach morskich wojewódzki inspektor informuje naczelnika urzędu celnego właściwego dla portu morskiego o terminie, w tym o godzinie, i miejscu planowanej kontroli. Wojewódzki inspektor przeprowadza graniczną kontrolę fitosanitarną w portach morskich w sposób pozwalający na zachowanie terminów, o których mowa w art. 20a ust. 2–5 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2013 r. poz. 1404, z późn. zm.). ” ;
+3b. W przypadku przeprowadzania granicznej kontroli fitosanitarnej w portach morskich wojewódzki inspektor informuje naczelnika urzędu celnego właściwego dla portu morskiego o terminie, w tym o godzinie, i miejscu planowanej kontroli. Wojewódzki inspektor przeprowadza graniczną kontrolę fitosanitarną w portach morskich w sposób pozwalający na zachowanie terminów, o których mowa w art. 20a ust. 2–5 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2013 r. poz. 1404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 1055, 1215, 1395 i 1662.). ” ;
 
 - **6)** w art. 24 ust. 2 otrzymuje brzmienie: „
 
@@ -775,14 +737,14 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 
 3. Handlowiec, który prowadzi działalność gospodarczą, do informacji, o której mowa w ust. 1 pkt 1, dołącza informację o numerze w Krajowym Rejestrze Sądowym, a w przypadku osób fizycznych prowadzących działalność gospodarczą – informację o numerze identyfikacji podatkowej NIP. ” .
 
-**Art. 21.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 21.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35, 1027 i 1608 oraz z 2014 r. poz. 312 i 1171.) wprowadza się następujące zmiany:
 
 - **1)** w art. 33a dodaje się ust. 12 w brzmieniu: „
 
 12. Podatnik, o którym mowa w art. 17 ust. 1 pkt 1 i 2, posiadający status upoważnionego podmiotu gospodarczego w rozumieniu art. 5a rozporządzenia Rady (EWG) nr 2913/92 z dnia 12 października 1992 r. ustanawiającego Wspólnotowy Kodeks Celny:
 
 - **1)** działający we własnym imieniu i na własną rzecz lub
-- **2)** w imieniu i na rzecz którego jest składane zgłoszenie celne przez przedstawiciela bezpośredniego w rozumieniu przepisów celnych może rozliczyć kwotę podatku należnego z tytułu importu towarów w deklaracji podatkowej składanej za okres, w którym powstał obowiązek podatkowy z tytułu importu tych towarów. Przepisy ust. 2–4, 6, 7 oraz 9–11 stosuje się odpowiednio. ” ;
+- **2)** w imieniu i na rzecz którego jest składane zgłoszenie celne przez przedstawiciela bezpośredniego w rozumieniu przepisów celnych – może rozliczyć kwotę podatku należnego z tytułu importu towarów w deklaracji podatkowej składanej za okres, w którym powstał obowiązek podatkowy z tytułu importu tych towarów. Przepisy ust. 2–4, 6, 7 oraz 9–11 stosuje się odpowiednio. ” ;
 - **2)** w art. 96 ust. 4 otrzymuje brzmienie: „
 
 4. Naczelnik urzędu skarbowego rejestruje podatnika jako „podatnika VAT czynnego”, a w przypadku podatników, o których mowa w ust. 3 – jako „podatnika VAT zwolnionego”, i na wniosek podatnika potwierdza to zarejestrowanie. ” .
@@ -797,13 +759,13 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 
 - **2)** w art. 52 ust. 5 otrzymuje brzmienie: „
 
-5. W przypadku instytucji kredytowej, o której mowa w art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm.), oraz zakładu ubezpieczeń, który wykonuje działalność na podstawie przepisów działu II rozdziału 7 ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. z 2013 r. poz. 950, z późn. zm.), Komisja Nadzoru Finansowego przekazuje informację, o której mowa w ust. 4, niezwłocznie po otrzymaniu informacji od właściwego organu nadzoru państwa członkowskiego Unii Europejskiej. ” .
+5. W przypadku instytucji kredytowej, o której mowa w art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529, z 2013 r. poz. 777, 1036, 1289 i 1567 oraz z 2014 r. poz. 586, 1133 i 1585.), oraz zakładu ubezpieczeń, który wykonuje działalność na podstawie przepisów działu II rozdziału 7 ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. z 2013 r. poz. 950, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1289 oraz z 2014 r. poz. 586 i 768.), Komisja Nadzoru Finansowego przekazuje informację, o której mowa w ust. 4, niezwłocznie po otrzymaniu informacji od właściwego organu nadzoru państwa członkowskiego Unii Europejskiej. ” .
 
 **Art. 23.** W ustawie z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2013 r. poz. 1155 oraz z 2014 r. poz. 1322) art. 60 otrzymuje brzmienie: „
 
 **Art. 60.** Organizacja odzysku sprzętu elektrycznego i elektronicznego jest obowiązana złożyć Głównemu Inspektorowi Ochrony Środowiska, w terminie 14 dni od dnia zarejestrowania, kopię statutu i informację o numerze organizacji w Krajowym Rejestrze Sądowym. ” .
 
-**Art. 24.** W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2010 r. Nr 136, poz. 914, z późn. zm.) w art. 80 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Państwowy graniczny inspektor sanitarny przeprowadzający graniczną kontrolę sanitarną w portach morskich współpracuje z organami celnymi w zakresie tej kontroli, w szczególności informuje naczelnika urzędu celnego właściwego dla portu morskiego o terminie, w tym o godzinie, i miejscu planowanej kontroli. Państwowy graniczny inspektor sanitarny przeprowadza graniczną kontrolę sanitarną w portach morskich w sposób pozwalający na zachowanie terminów, o których mowa w art. 20a ust. 2–5 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2013 r. poz. 1404, z późn. zm.). ” .
+**Art. 24.** W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2010 r. Nr 136, poz. 914, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 230, poz. 1511 oraz z 2011 r. Nr 106, poz. 622, Nr 122, poz. 696 i Nr 171, poz. 1016.) w art. 80 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Państwowy graniczny inspektor sanitarny przeprowadzający graniczną kontrolę sanitarną w portach morskich współpracuje z organami celnymi w zakresie tej kontroli, w szczególności informuje naczelnika urzędu celnego właściwego dla portu morskiego o terminie, w tym o godzinie, i miejscu planowanej kontroli. Państwowy graniczny inspektor sanitarny przeprowadza graniczną kontrolę sanitarną w portach morskich w sposób pozwalający na zachowanie terminów, o których mowa w art. 20a ust. 2–5 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2013 r. poz. 1404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 1055, 1215, 1395 i 1662.). ” .
 
 **Art. 25.** W ustawie z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców (Dz. U. Nr 191, poz. 1411 i Nr 245, poz. 1775) w art. 4 dodaje się ust. 5–7 w brzmieniu: „ 5. Obowiązki, o których mowa w ust. 1 i 4, nie dotyczą przedsiębiorców publicznych, którzy nie uzyskali przysporzenia ze środków publicznych w ostatnim roku obrotowym i nie wykorzystywali w ostatnim roku obrotowym przysporzeń ze środków publicznych uzyskanych w latach poprzednich, jeżeli nie są przedsiębiorcami, o których mowa w art. 17. 6. Przedsiębiorca publiczny w przypadkach, o których mowa w ust. 5, składa właściwemu organowi nadzorującemu, w terminie określonym w ust. 1, oświadczenie pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń o nieuzyskaniu i niewykorzystywaniu przysporzeń określonych w ust. 5. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. 7. Przedsiębiorca publiczny, o którym mowa w ust. 5, przekazuje właściwemu organowi nadzorującemu – na jego żądanie, w zakresie i terminie określonych w żądaniu – dokumenty, materiały i informacje, o których mowa w ust. 1. Przepisy ust. 4 i art. 6 stosuje się odpowiednio. ” .
 
@@ -819,15 +781,15 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 
 - **3)** po dziale I dodaje się dział Ia w brzmieniu: „
 
-### Dział IA Wiążąca informacja akcyzowa
+### Dział IA
 
-**Art. 27.** W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2013 r. poz. 1404, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 27.** W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2013 r. poz. 1404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 1055, 1215 i 1395.) wprowadza się następujące zmiany:
 
 - **1)** użyte w art. 1 w ust. 1, dwukrotnie w art. 2 w ust. 1 w pkt 3, w art. 17 w ust. 4, dwukrotnie w art. 19 w ust. 1 w pkt 11, w art. 30 w ust. 2 w pkt 1, w art. 39 w ust. 1 i 3, w art. 44 w ust. 1 w pkt 1 i 2, w art. 88 w ust. 1, dwukrotnie w ust. 2 i w ust. 4, w art. 90 w części wspólnej oraz w art. 100 w ust. 1 w różnych liczbie i przypadku wyrazy „Wspólnota Europejska” zastępuje się użytymi w odpowiednich liczbie i przypadku wyrazami „Unia Europejska”;
-- **2)** w art. 2 w ust. 1 w pkt 6 lit. d otrzymuje brzmienie: „ przyrodzie, określonych w art. 128 i art. 131 pkt 10 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.), ” ;
+- **2)** w art. 2 w ust. 1 w pkt 6 lit. d otrzymuje brzmienie: „ przyrodzie, określonych w art. 128 i art. 131 pkt 10 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850, 926, 1002 i 1101.), ” ;
     - **d)**
 
-- **3)** w art. 7 w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W związku z realizacją zadań Służby Celnej, o których mowa w ust. 1 i 2, organy władzy publicznej w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.) oraz podmioty prowadzące rejestry, o których mowa w ust. 3, mogą, w drodze decyzji administracyjnej, wyrazić zgodę na udostępnianie za pomocą urządzeń telekomunikacyjnych informacji zgromadzonych w rejestrach organom Służby Celnej, bez konieczności składania pisemnych wniosków, jeżeli jest to uzasadnione rodzajem lub zakresem wykonywanych zadań albo prowadzonej działalności oraz jeżeli organy Służby Celnej posiadają: ” ;
+- **3)** w art. 7 w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W związku z realizacją zadań Służby Celnej, o których mowa w ust. 1 i 2, organy władzy publicznej w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379, 911, 1146 i 1626.) oraz podmioty prowadzące rejestry, o których mowa w ust. 3, mogą, w drodze decyzji administracyjnej, wyrazić zgodę na udostępnianie za pomocą urządzeń telekomunikacyjnych informacji zgromadzonych w rejestrach organom Służby Celnej, bez konieczności składania pisemnych wniosków, jeżeli jest to uzasadnione rodzajem lub zakresem wykonywanych zadań albo prowadzonej działalności oraz jeżeli organy Służby Celnej posiadają: ” ;
 - **4)** po art. 20 dodaje się art. 20a w brzmieniu: „
 
 1. Naczelnik urzędu celnego właściwy dla portu morskiego:
@@ -846,7 +808,7 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 - **5)** w art. 72 w ust. 1 pkt 3 otrzymuje brzmienie: „
 - **3)** zatrzymywania osób i przedmiotów, których dane wprowadzone zostały do systemów, o których mowa w ustawie z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym (Dz. U. z 2014 r. poz. 1203), w celu podjęcia wnioskowanych we wpisie działań albo do bezzwłocznego przekazania osoby lub przedmiotu uprawnionemu organowi; ” .
 
-**Art. 28.** W ustawie z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. Nr 107, poz. 679, z późn. zm.) w art. 68:
+**Art. 28.** W ustawie z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. Nr 107, poz. 679, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 586 i Nr 113, poz. 657 oraz z 2014 r. poz. 1138.) w art. 68:
 
 - **1)** uchyla się ust. 6;
 - **2)** po ust. 6 dodaje się ust. 6a w brzmieniu: „
@@ -859,7 +821,7 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 - **2)** leasingu, jeżeli umowa nie przewiduje obowiązku nabycia przedmiotu umowy przez konsumenta; ” ;
 - **2)** ust. 4 otrzymuje brzmienie: „
 
-4. Ustawę stosuje się do umów leasingu i najmu, jeżeli umowa odrębna od tych umów przewiduje obowiązek nabycia przedmiotu umowy, uzależniając go od żądania kredytodawcy. ” . W ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2014 r. poz. 613, ze zm.) wprowadza się następujące zmiany:
+4. Ustawę stosuje się do umów leasingu i najmu, jeżeli umowa odrębna od tych umów przewiduje obowiązek nabycia przedmiotu umowy, uzależniając go od żądania kredytodawcy. ” . W ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2014 r. poz. 613, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 850 i 1133. Tekst jednolity nie uwzględnia zmiany ogłoszonej w Dz. U. z 2014 r. poz. 587.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 po pkt 2 dodaje się pkt 2a w brzmieniu: „
 - **2a)** wykonywania wkopów oraz otworów wiertniczych o głębokości do 30 m w celu wykonywania ujęć wód podziemnych na potrzeby poboru wód podziemnych w ilości nieprzekraczającej 5 m3 na dobę poza obszarami górniczymi utworzonymi w celu wykonywania działalności metodą otworów wiertniczych; ” ;
@@ -906,7 +868,7 @@ Ewidencja, o której mowa w ust. 1, może być prowadzona w postaci papierowej l
 
 **Art. 38.** Do umów, o których mowa w art. 411 ust. 10a ustawy zmienianej w art. 12, w brzmieniu dotychczasowym, zawartych przed dniem wejścia w życie niniejszej ustawy oraz do spraw wyboru banków, o których mowa w art. 411 ust. 10b i 10c ustawy zmienianej w art. 12, w brzmieniu dotychczasowym, rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 39.** W przypadku gdy wniosek o wydanie Wiążącej Informacji Akcyzowej określonej w ustawie zmienianej w art. 26, w brzmieniu nadanym niniejszą ustawą, dotyczy informacji o rodzaju wyrobu akcyzowego, dla którego na rzecz tego samego podmiotu zostało wszczęte i niezakończone postępowanie o wydanie w tym zakresie interpretacji indywidualnej w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.) przed dniem wejścia w życie niniejszej ustawy, organ podatkowy wydaje postanowienie o pozostawieniu tego wniosku bez rozpatrzenia. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepis art. 89 ust. 16 ustawy zmienianej w art. 26, w brzmieniu nadanym niniejszą ustawą.
+**Art. 39.** W przypadku gdy wniosek o wydanie Wiążącej Informacji Akcyzowej określonej w ustawie zmienianej w art. 26, w brzmieniu nadanym niniejszą ustawą, dotyczy informacji o rodzaju wyrobu akcyzowego, dla którego na rzecz tego samego podmiotu zostało wszczęte i niezakończone postępowanie o wydanie w tym zakresie interpretacji indywidualnej w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289 oraz z 2014 r. poz. 183, 567, 915, 1171, 1215, 1328 i 1644.) przed dniem wejścia w życie niniejszej ustawy, organ podatkowy wydaje postanowienie o pozostawieniu tego wniosku bez rozpatrzenia. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepis art. 89 ust. 16 ustawy zmienianej w art. 26, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 41.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r., z wyjątkiem art. 1, art. 32 i art. 33, które wchodzą w życie z dniem 1 kwietnia 2015 r.
+**Art. 41.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r., z wyjątkiem art. 1, art. 32 i art. 33, które wchodzą w życie z dniem 1 kwietnia 2015 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 30 maja 1989 r. o izbach gospodarczych, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 7 lipca 1994 r. o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych, ustawę z dnia 29 czerwca 1995 r. o statystyce publicznej, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, ustawę z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 6 września 2001 r. o dostępie do informacji publicznej, ustawę z dnia 18 września 2001 r. o podpisie elektronicznym, ustawę z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego, ustawę z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, ustawę z dnia 27 sierpnia 2003 r. o weterynaryjnej kontroli granicznej, ustawę z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów, ustawę z dnia 18 grudnia 2003 r. o ochronie roślin, ustawę z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku suszu paszowego oraz rynków lnu i konopi uprawianych na włókno, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 19 marca 2004 r. – Prawo celne, ustawę z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym, ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia, ustawę z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej, ustawę z dnia 20 maja 2010 r. o wyrobach medycznych, ustawę z dnia 12 maja 2011 r. o kredycie konsumenckim, ustawę z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze oraz ustawę z dnia 14 marca 2014 r. o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717 oraz z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563 i 1644. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312, 486, 529, 768, 822 i 970. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457 i 1563. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 143, poz. 1204 oraz z 2009 r. Nr 161, poz. 1277 i Nr 215, poz. 1662. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613 oraz z 2014 r. poz. 768 i 1100. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238 oraz z 2014 r. poz. 457, 490, 900, 942 i 1101. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1643 oraz z 2014 r. poz. 598 i 612. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1623, 1650 i 1717 oraz z 2014 r. poz. 567, 598, 1146 i 1161. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 1055, 1215, 1395 i 1662. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47, 457, 822, 1101, 1146 i 1322. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717 oraz z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644 i 1662. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 775 i 1238 oraz z 2014 r. poz. 295. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 1055, 1215, 1395 i 1662. 16) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 35, poz. 215, z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 18, poz. 97 i Nr 20, poz. 106 oraz z 2011 r. Nr 63, poz. 322 i Nr 102, poz. 586. 17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 1055, 1215, 1395 i 1662. 18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35, 1027 i 1608 oraz z 2014 r. poz. 312 i 1171. 19) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529, z 2013 r. poz. 777, 1036, 1289 i 1567 oraz z 2014 r. poz. 586, 1133 i 1585. 20) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1289 oraz z 2014 r. poz. 586 i 768. 21) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 230, poz. 1511 oraz z 2011 r. Nr 106, poz. 622, Nr 122, poz. 696 i Nr 171, poz. 1016. 22) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 1055, 1215, 1395 i 1662. 23) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1149 oraz z 2014 r. poz. 768 i 1662. 24) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 1055, 1215 i 1395. 25) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850, 926, 1002 i 1101. 26) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379, 911, 1146 i 1626. 27) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 586 i Nr 113, poz. 657 oraz z 2014 r. poz. 1138. 28) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 850 i 1133. Tekst jednolity nie uwzględnia zmiany ogłoszonej w Dz. U. z 2014 r. poz. 587. 29) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289 oraz z 2014 r. poz. 183, 567, 915, 1171, 1215, 1328 i 1644.
 

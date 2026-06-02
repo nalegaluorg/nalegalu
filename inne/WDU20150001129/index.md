@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-07 |
 | Data wydania | 2015-08-10 |
-| Wejście w życie | 2015-08-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001129) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1129/text.pdf) |
 
@@ -56,5 +55,5 @@ Szkolenie, o którym mowa w ust. 1, powinno odbyć się w ośrodku, o którym mo
 3.
 Na wniosek osoby zainteresowanej, o której mowa w art. 23 ust. 3 ustawy, Dyrektor Urzędu Morskiego w Gdyni wskazuje zakres różnic, o których mowa w ust. 1, których uzupełnienie jest niezbędne do uzyskania odpowiednich kwalifikacji do wykonywania zawodów wymienionych w art. 19 ustawy.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 6, który wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 6, który wchodzi w życie po upływie 30 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 25 maja 2004 r. w sprawie kwalifikacji osób uprawnionych do wykonywania prac podwodnych, które uzyskały uprawnienia w jednostkach organizacyjnych podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych (Dz. U. Nr 138, poz. 1469). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 25 maja 2004 r. w sprawie kwalifikacji osób uprawnionych do wykonywania prac podwodnych, które uzyskały uprawnienia w jednostkach organizacyjnych podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych (Dz. U. Nr 138, poz. 1469).
 

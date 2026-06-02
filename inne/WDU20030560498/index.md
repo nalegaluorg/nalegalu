@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-03-27 |
 | Data wydania | 2003-04-01 |
-| Wejście w życie | 2004-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030560498) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/498/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. Nr 162, poz. 1118, z późn. zm.) wprowadza się następujące zmiany:
+Waloryzacja świadczeń
+
+**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. Nr 162, poz. 1118, z późn. zm.Zmiany ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 38, poz. 360, Nr 70, poz. 774, Nr 72, poz. 801 i 802 i Nr 106, poz. 1215, z 2000 r. Nr 2, poz. 26, Nr 9, poz. 118, Nr 19, poz. 238, Nr 56, poz. 678 i Nr 84, poz. 948, z 2001 r. Nr 8, poz. 64, Nr 27, poz. 298, Nr 85, poz. 924, Nr 89, poz. 968, Nr 111, poz. 1194 i Nr 154, poz. 1792 oraz z 2002 r. Nr 74, poz. 676, Nr 199, poz. 1673, Nr 200, poz. 1679, Nr 240, poz. 2054 i Nr 241, poz. 2074.) wprowadza się następujące zmiany:
 
 - **1)** art. 19 otrzymuje brzmienie: „
 
@@ -61,7 +62,7 @@ source: "eli-html"
 
 - **6)** w dziale VII rozdział 2 otrzymuje brzmienie: „
 
-#### Rozdział 2 Waloryzacja świadczeń
+#### Rozdział 2
 
 **Art. 88.**
 
@@ -105,7 +106,7 @@ source: "eli-html"
 
 1. Prezes Głównego Urzędu Statystycznego ogłasza, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
 
-- **1)** w terminie do końca stycznia: średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem, średnioroczny wskaźnik cen towarów i usług konsumpcyjnych dla gospodarstw domowych emerytów i rencistów w poprzednim roku kalendarzowym,
+- **1)** w terminie do końca stycznia: średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem, średnioroczny wskaźnik cen towarów i usług konsumpcyjnych dla gospodarstw domowych emerytów i rencistów – w poprzednim roku kalendarzowym,
     - **a)**
     - **b)**
 
@@ -149,7 +150,7 @@ source: "eli-html"
 
 - **2)** art. 6 otrzymuje brzmienie: „
 
-**Art. 6.** Emerytury i renty oraz podstawy ich wymiaru podlegają waloryzacji na zasadach i w terminach przewidzianych w ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. Nr 162, poz. 1118, z późn. zm.), z tym że:
+**Art. 6.** Emerytury i renty oraz podstawy ich wymiaru podlegają waloryzacji na zasadach i w terminach przewidzianych w ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. Nr 162, poz. 1118, z późn. zm.)Zmiany ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 38, poz. 360, Nr 70, poz. 774, Nr 72, poz. 801 i 802 i Nr 106, poz. 1215, z 2000 r. Nr 2, poz. 26, Nr 9, poz. 118, Nr 19, poz. 238, Nr 56, poz. 678 i Nr 84, poz. 948, z 2001 r. Nr 8, poz. 64, Nr 27, poz. 298, Nr 85, poz. 924, Nr 89, poz. 968, Nr 111, poz. 1194 i Nr 154, poz. 1792, z 2002 r. Nr 74, poz. 676, Nr 199, poz. 1673, Nr 200, poz. 1679, Nr 240, poz. 2054 i Nr 241, poz. 2074 oraz z 2003 r. Nr 56, poz. 498., z tym że:
 
 - **1)** waloryzacja, o której mowa w art. 88 tej ustawy, obejmuje emerytury i renty osób: którym prawo do świadczenia ustalono przed dniem 1 marca, które nabyły prawo do renty rodzinnej po żołnierzach zawodowych zmarłych nie później niż w ostatnim dniu lutego,
     - **a)**
@@ -159,13 +160,13 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-**Art. 4.** W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. Nr 53, poz. 214, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. Nr 53, poz. 214, z późn. zm.Zmiany ustawy zostały ogłoszone w Dz. U. z 1995 r. Nr 4, poz. 17, z 1997 r. Nr 28, poz. 153, z 1998 r. Nr 162, poz. 1118, z 1999 r. Nr 106, poz. 1215, z 2000 r. Nr 122, poz. 1313, z 2001 r. Nr 27, poz. 298 i Nr 81, poz. 877 oraz z 2002 r. Nr 74, poz. 676.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 po ust. 2 dodaje się ust. 3 w brzmieniu: „
 
 3. Jeżeli w okresie między zwolnieniem ze służby funkcjonariusza a ustaleniem prawa do emerytury lub renty inwalidzkiej przypadały waloryzacje emerytur i rent inwalidzkich, podstawę wymiaru tych świadczeń podwyższa się wskaźnikami wszystkich kolejnych waloryzacji przypadających w tym okresie. ” ;
 
-- **2)** art. 6 otrzymuje brzmienie: „ Emerytury i renty oraz podstawy ich wymiaru podlegają waloryzacji na zasadach i w terminach przewidzianych w ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. Nr 162, poz. 1118, z późn. zm.), z tym że:
+- **2)** art. 6 otrzymuje brzmienie: „ Emerytury i renty oraz podstawy ich wymiaru podlegają waloryzacji na zasadach i w terminach przewidzianych w ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. Nr 162, poz. 1118, z późn. zm.Zmiany ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 38, poz. 360, Nr 70, poz. 774, Nr 72, poz. 801 i 802 i Nr 106, poz. 1215, z 2000 r. Nr 2, poz. 26, Nr 9, poz. 118, Nr 19, poz. 238, Nr 56, poz. 678 i Nr 84, poz. 948, z 2001 r. Nr 8, poz. 64, Nr 27, poz. 298, Nr 85, poz. 924, Nr 89, poz. 968, Nr 111, poz. 1194 i Nr 154, poz. 1792, z 2002 r. Nr 74, poz. 676, Nr 199, poz. 1673, Nr 200, poz. 1679, Nr 240, poz. 2054 i Nr 241, poz. 2074 oraz z 2003 r. Nr 56, poz. 498.), z tym że:
 - **1)** waloryzacja, o której mowa w art. 88 tej ustawy, obejmuje emerytury i renty osób: którym prawo do świadczenia ustalono przed dniem 1 marca, które nabyły prawo do renty rodzinnej po funkcjonariuszach zmarłych nie później niż w ostatnim dniu lutego,
     - **a)**
     - **b)**
@@ -174,7 +175,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-**Art. 5.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. Nr 137, poz. 887, z późn. zm.) w art. 28:
+**Art. 5.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. Nr 137, poz. 887, z późn. zm.Zmiany ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 162, poz. 1118 i 1126, z 1999 r. Nr 26, poz. 228, Nr 60, poz. 636, Nr 72, poz. 802, Nr 78, poz. 875 i Nr 110, poz. 1256, z 2000 r. Nr 9, poz. 118, Nr 95, poz. 1041, Nr 104, poz. 1104 i Nr 119, poz. 1249, z 2001 r. Nr 8, poz. 64, Nr 27, poz. 298, Nr 39, poz. 459, Nr 72, poz. 748, Nr 100, poz. 1080, Nr 110, poz. 1189, Nr 111, poz. 1194, Nr 130, poz. 1452 i Nr 154, poz. 1792 oraz z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365, Nr 74, poz. 676, Nr 155, poz. 1287, Nr 169, poz. 1387, Nr 199, poz. 1673, Nr 200, poz. 1679 i Nr 241, poz. 2074.) w art. 28:
 
 - **1)** ust. 3a otrzymuje brzmienie: „
 
@@ -187,6 +188,6 @@ source: "eli-html"
 **Art. 7.** Ustawa wchodzi w życie z dniem 1 stycznia 2004 r., z wyjątkiem:
 
 - **1)** art. 6, który wchodzi w życie z dniem ogłoszenia;
-- **2)** art. 1 pkt 4, 5, 7–9 oraz art. 2 i 5, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia.
+- **2)** art. 1 pkt 4, 5, 7–9 oraz art. 2 i 5, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia. 2) Zmiany ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 38, poz. 360, Nr 70, poz. 774, Nr 72, poz. 801 i 802 i Nr 106, poz. 1215, z 2000 r. Nr 2, poz. 26, Nr 9, poz. 118, Nr 19, poz. 238, Nr 56, poz. 678 i Nr 84, poz. 948, z 2001 r. Nr 8, poz. 64, Nr 27, poz. 298, Nr 85, poz. 924, Nr 89, poz. 968, Nr 111, poz. 1194 i Nr 154, poz. 1792 oraz z 2002 r. Nr 74, poz. 676, Nr 199, poz. 1673, Nr 200, poz. 1679, Nr 240, poz. 2054 i Nr 241, poz. 2074. 3) Zmiany ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 38, poz. 360, Nr 70, poz. 774, Nr 72, poz. 801 i 802 i Nr 106, poz. 1215, z 2000 r. Nr 2, poz. 26, Nr 9, poz. 118, Nr 19, poz. 238, Nr 56, poz. 678 i Nr 84, poz. 948, z 2001 r. Nr 8, poz. 64, Nr 27, poz. 298, Nr 85, poz. 924, Nr 89, poz. 968, Nr 111, poz. 1194 i Nr 154, poz. 1792, z 2002 r. Nr 74, poz. 676, Nr 199, poz. 1673, Nr 200, poz. 1679, Nr 240, poz. 2054 i Nr 241, poz. 2074 oraz z 2003 r. Nr 56, poz. 498. 4) Zmiany ustawy zostały ogłoszone w Dz. U. z 1995 r. Nr 4, poz. 17, z 1997 r. Nr 28, poz. 153, z 1998 r. Nr 162, poz. 1118, z 1999 r. Nr 106, poz. 1215, z 2000 r. Nr 122, poz. 1313, z 2001 r. Nr 27, poz. 298 i Nr 81, poz. 877 oraz z 2002 r. Nr 74, poz. 676. 5) Zmiany ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 38, poz. 360, Nr 70, poz. 774, Nr 72, poz. 801 i 802 i Nr 106, poz. 1215, z 2000 r. Nr 2, poz. 26, Nr 9, poz. 118, Nr 19, poz. 238, Nr 56, poz. 678 i Nr 84, poz. 948, z 2001 r. Nr 8, poz. 64, Nr 27, poz. 298, Nr 85, poz. 924, Nr 89, poz. 968, Nr 111, poz. 1194 i Nr 154, poz. 1792, z 2002 r. Nr 74, poz. 676, Nr 199, poz. 1673, Nr 200, poz. 1679, Nr 240, poz. 2054 i Nr 241, poz. 2074 oraz z 2003 r. Nr 56, poz. 498. 6) Zmiany ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 162, poz. 1118 i 1126, z 1999 r. Nr 26, poz. 228, Nr 60, poz. 636, Nr 72, poz. 802, Nr 78, poz. 875 i Nr 110, poz. 1256, z 2000 r. Nr 9, poz. 118, Nr 95, poz. 1041, Nr 104, poz. 1104 i Nr 119, poz. 1249, z 2001 r. Nr 8, poz. 64, Nr 27, poz. 298, Nr 39, poz. 459, Nr 72, poz. 748, Nr 100, poz. 1080, Nr 110, poz. 1189, Nr 111, poz. 1194, Nr 130, poz. 1452 i Nr 154, poz. 1792 oraz z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365, Nr 74, poz. 676, Nr 155, poz. 1287, Nr 169, poz. 1387, Nr 199, poz. 1673, Nr 200, poz. 1679 i Nr 241, poz. 2074.
 
 

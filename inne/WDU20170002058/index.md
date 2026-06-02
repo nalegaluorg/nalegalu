@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 30 października 2017 r. w sprawie warunków i trybu udzielania zezwoleń na indywidualny program lub tok nauki oraz organizacji indywidualnego programu lub toku nauki w szkołach artystycznych realizujących wyłącznie kształcenie artystyczne
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 30 października 2017 r. w sprawie warunków i trybu udzielania zezwoleń na indywidualny program lub tok nauki oraz organizacji indywidualnego programu lub toku nauki w szkołach artystycznych realizujących wyłącznie kształcenie artystyczne Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-30 |
 | Data wydania | 2017-11-07 |
-| Wejście w życie | 2017-11-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002058) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2058/text.pdf) |
 
@@ -83,8 +82,7 @@ Uczeń realizujący indywidualny tok nauki może uczęszczać na wybrane artysty
 § 9.
 Jeżeli uczeń o wybitnych uzdolnieniach jednokierunkowych nie może sprostać wymaganiom z artystycznych zajęć edukacyjnych nieobjętych indywidualnym programem lub tokiem nauki, nauczyciel prowadzący zajęcia może – na wniosek nauczyciela przedmiotu głównego lub innego nauczyciela uczącego ucznia – dostosować wymagania edukacyjne z tych zajęć do indywidualnych potrzeb i możliwości ucznia, z zachowaniem wymagań edukacyjnych wynikających z podstawy programowej.
 § 10.
-Ocenianie, klasyfikowanie i promowanie ucznia realizującego indywidualny program lub tok nauki odbywa się na warunkach i w sposób określony w rozdziale 3a ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.).
+Ocenianie, klasyfikowanie i promowanie ucznia realizującego indywidualny program lub tok nauki odbywa się na warunkach i w sposób określony w rozdziale 3a ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.).
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.
 

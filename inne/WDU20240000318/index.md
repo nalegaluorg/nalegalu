@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-01 |
 | Data wydania | 2024-03-06 |
-| Wejście w życie | 2024-03-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000318) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/318/text.pdf) |
 
@@ -128,5 +127,5 @@ Odwołanie żołnierza z urlopu następuje w formie pisemnego zawiadomienia lub 
 § 11.
 Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 26 maja 2022 r. w sprawie urlopów żołnierzy niebędących żołnierzami zawodowymi (Dz. U. poz. 1232), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 ust. 1 pkt 2 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 26 maja 2022 r. w sprawie urlopów żołnierzy niebędących żołnierzami zawodowymi (Dz. U. poz. 1232), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 ust. 1 pkt 2 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872).
 

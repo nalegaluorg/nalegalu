@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-05 |
 | Data wydania | 2018-08-17 |
-| Wejście w życie | 2018-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001578) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1578/text.pdf) |
 
@@ -70,7 +69,7 @@ source: "eli-html"
 2. Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa i właściwy dyrektor oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa przekazują odpowiednio Dyrektorowi Generalnemu Krajowego Ośrodka Wsparcia Rolnictwa i właściwemu dyrektorowi oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa:
 
 - **1)** akta spraw dotyczących wymierzenia kar pieniężnych za nieprzekazanie informacji określonych w art. 2a ustawy zmienianej w art. 1, zakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy,
-- **2)** akta spraw dotyczących wymierzenia kar pieniężnych za nieprzekazanie informacji określonych w art. 2a ustawy zmienianej w art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy w terminie 7 dni od dnia wejścia w życie niniejszej ustawy.
+- **2)** akta spraw dotyczących wymierzenia kar pieniężnych za nieprzekazanie informacji określonych w art. 2a ustawy zmienianej w art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy – w terminie 7 dni od dnia wejścia w życie niniejszej ustawy.
 
 3. Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa i dyrektor oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa, stosownie do swojej właściwości, są upoważnieni do uchylenia, zmiany, stwierdzenia nieważności decyzji, stwierdzenia wygaśnięcia decyzji albo wznowienia postępowania w sprawach, o których mowa w ust. 1, zakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy.
 

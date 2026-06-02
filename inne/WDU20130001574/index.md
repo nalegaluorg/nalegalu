@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-27 |
 | Data wydania | 2013-12-18 |
-| Wejście w życie | 2014-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001574) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1574/text.pdf) |
 
@@ -56,5 +55,5 @@ uprawianych w gruncie – od dnia 21 września do dnia 20 grudnia;
 3)
 w przypadku roślin sadowniczych – od dnia 21 października do dnia 20 grudnia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lutego 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 lutego 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 26 kwietnia 2004 r. w sprawie terminów składania wniosku o wpis odmiany do krajowego rejestru, wzoru wniosku o wpis odmiany do krajowego rejestru oraz wzoru kwestionariusza technicznego (Dz. U. Nr 103, poz. 1092), które na podstawie art. 139 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512 oraz z 2013 r. poz. 865) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 26 kwietnia 2004 r. w sprawie terminów składania wniosku o wpis odmiany do krajowego rejestru, wzoru wniosku o wpis odmiany do krajowego rejestru oraz wzoru kwestionariusza technicznego (Dz. U. Nr 103, poz. 1092), które na podstawie art. 139 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512 oraz z 2013 r. poz. 865) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

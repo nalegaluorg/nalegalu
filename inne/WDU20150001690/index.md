@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 11 września 2015 r. o zmianie ustawy o żegludze śródlądowej
+# Ustawaz dnia 11 września 2015 r. o zmianie ustawy o żegludze śródlądowej Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywy:
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-11 |
 | Data wydania | 2015-10-23 |
-| Wejście w życie | 2015-11-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001690) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1690/text.pdf) |
 
@@ -87,5 +86,9 @@ source: "eli-html"
 
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, oraz wdrożenia mechanizmów korygujących, o których mowa w ust. 2, jest Dyrektor Urzędu Żeglugi Śródlądowej w Szczecinie.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywy:
+
+- **1)** dyrektywę Komisji 2012/48/UE z dnia 10 grudnia 2012 r. zmieniającą załączniki do dyrektywy 2006/87/WE Parlamentu Europejskiego i Rady ustanawiającej wymagania techniczne dla statków żeglugi śródlądowej (Dz. Urz. UE L 6 z 10.01.2013, str. 1);
+- **2)** dyrektywę Komisji 2013/49/UE z dnia 11 października 2013 r. zmieniającą załącznik II do dyrektywy 2006/87/WE Parlamentu Europejskiego i Rady ustanawiającej wymagania techniczne dla statków żeglugi śródlądowej (Dz. Urz. UE L 272 z 12.10.2013, str. 41).
+
 

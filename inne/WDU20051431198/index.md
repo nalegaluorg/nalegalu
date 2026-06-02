@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-06-03 |
 | Data wydania | 2005-08-02 |
-| Wejście w życie | 2005-09-02 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051431198) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1198/text.pdf) |
 
@@ -30,7 +29,7 @@ Uznając szczególne zasługi dla Polski tych wszystkich obywateli polskich, kt�
 
 **Art. 1.**
 
-1. Ustawę stosuje się do osób, które weszły w posiadanie broni lub amunicji w związku ze swoim udziałem w walce o suwerenność i niepodległość Polski, jeżeli udział ten jest określony jako podstawa do nabycia uprawnień kombatanckich w rozumieniu ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2002 r. Nr 42, poz. 371, z późn. zm.).
+1. Ustawę stosuje się do osób, które weszły w posiadanie broni lub amunicji w związku ze swoim udziałem w walce o suwerenność i niepodległość Polski, jeżeli udział ten jest określony jako podstawa do nabycia uprawnień kombatanckich w rozumieniu ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2002 r. Nr 42, poz. 371, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 181, poz. 1515, z 2003 r. Nr 72, poz. 658 oraz z 2004 r. Nr 46, poz. 444 i Nr 281, poz. 2779.).
 
 2. W razie śmierci osoby, o której mowa w ust. 1, ustawę stosuje się także do osób jej najbliższych w rozumieniu art. 115 § 11 Kodeksu karnego.
 
@@ -60,5 +59,5 @@ Uznając szczególne zasługi dla Polski tych wszystkich obywateli polskich, kt�
 - **2)** Policja lub Żandarmeria Wojskowa, jeżeli złożenie broni lub amunicji nastąpiło na podstawie art. 3 ust. 2 ustawy;
 - **3)** osoba, która podjęła działania na podstawie art. 2 ust. 2 ustawy i uzyskała pozwolenie na posiadanie broni lub amunicji lub ją zarejestrowała lub zadysponowała nimi w inny sposób na podstawie przepisów ustawy z dnia 21 maja 1999 r. o broni i amunicji.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 181, poz. 1515, z 2003 r. Nr 72, poz. 658 oraz z 2004 r. Nr 46, poz. 444 i Nr 281, poz. 2779.
 

@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-09-17 |
 | Data wydania | 2013-09-24 |
-| Wejście w życie | 2013-09-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001133) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1133/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618 oraz z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092) zarządza się, co następuje:
 § 1.
-Nadzór nad Instytutem Zachodnim – Instytutem Naukowo-Badawczym im. Zygmunta Wojciechowskiego z siedzibą w Poznaniu, numer identyfikacyjny REGON 632044086, numer identyfikacji podatkowej NIP 7781028527, sprawuje minister właściwy do spraw nauki.
+Nadzór nad Instytutem Zachodnim – Instytutem Naukowo-Badawczym im. Zygmunta Wojciechowskiego z siedzibą w PoznaniuInstytut Zachodni – Instytut Naukowo-Badawczy im. Zygmunta Wojciechowskiego z siedzibą w Poznaniu został utworzony zarządzeniem nr 18 Ministra Spraw Zagranicznych z dnia 7 lipca 1992 r. w sprawie utworzenia jednostki badawczo-rozwojowej pod nazwą Instytut Zachodni – Instytut Naukowo-Badawczy im. Zygmunta Wojciechowskiego., numer identyfikacyjny REGON 632044086, numer identyfikacji podatkowej NIP 7781028527, sprawuje minister właściwy do spraw nauki.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 30 września 2013 r.
-1) Instytut Zachodni – Instytut Naukowo-Badawczy im. Zygmunta Wojciechowskiego z siedzibą w Poznaniu został utworzony zarządzeniem nr 18 Ministra Spraw Zagranicznych z dnia 7 lipca 1992 r. w sprawie utworzenia jednostki badawczo-rozwojowej pod nazwą Instytut Zachodni – Instytut Naukowo-Badawczy im. Zygmunta Wojciechowskiego.
+Rozporządzenie wchodzi w życie z dniem 30 września 2013 r. 1) Instytut Zachodni – Instytut Naukowo-Badawczy im. Zygmunta Wojciechowskiego z siedzibą w Poznaniu został utworzony zarządzeniem nr 18 Ministra Spraw Zagranicznych z dnia 7 lipca 1992 r. w sprawie utworzenia jednostki badawczo-rozwojowej pod nazwą Instytut Zachodni – Instytut Naukowo-Badawczy im. Zygmunta Wojciechowskiego.
 

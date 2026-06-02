@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-11-14 |
 | Data wydania | 2003-12-18 |
-| Wejście w życie | 2004-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032172124) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2124/text.pdf) |
 
-Treść ustawy Art. 1. Art. 2. Art. 3. Art. 4. Art. 5. Art. 6. Art. 7. Art. 8. Art. 9. Art. 10. Art. 11. Art. 12. Art. 13. Art. 14. Art. 15. Art. 16. Art. 17.
-Załącznik – Maksymalne stawki opłat za przejazd 1 km autostrady
+Opłaty za przejazd
+Opłata paliwowa
 Wprowadzanie na rynek krajowy paliw silnikowych oraz gazu wykorzystywanego do napędu pojazdów samochodowych przystosowanych technicznie do zasilania tym paliwem podlega opłacie, zwanej dalej „opłatą paliwową”.
 Opłata paliwowa stanowi przychód Funduszu.
 1.
@@ -61,8 +60,7 @@ Podmioty, o których mowa w art. 37j, są obowiązane składać informację o op
 1)
 do 25 dnia miesiąca następującego po miesiącu, w którym powstał obowiązek zapłaty – w przypadkach, o których mowa w art. 37j ust. 1 pkt 1 i ust. 2,
 2)
-określonym dla należności celnych – w przypadku, o którym mowa w art. 37j ust. 1 pkt 2
-na wyodrębniony rachunek bankowy izby celnej, którą kieruje dyrektor właściwy dla naczelnika tego urzędu celnego.
+określonym dla należności celnych – w przypadku, o którym mowa w art. 37j ust. 1 pkt 2 – na wyodrębniony rachunek bankowy izby celnej, którą kieruje dyrektor właściwy dla naczelnika tego urzędu celnego.
 2.
 W razie powstania nadpłaty w opłacie paliwowej dyrektor izby celnej, o którym mowa w ust. 1, dokonuje zwrotu tej nadpłaty ze środków Funduszu.
 3.
@@ -70,13 +68,44 @@ Obowiązek zapłaty opłaty paliwowej przedawnia się z upływem 5 lat, licząc 
 4.
 Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór informacji w sprawie opłaty paliwowej, o której mowa w ust. 1, mając na uwadze zapewnienie jednolitości informacji składanych przez podmioty, o których mowa w art. 37j, oraz zapewnienie możliwości kontroli wysokości dokonywanych wpłat.
 Dyrektor izby celnej, o którym mowa w art. 37o ust. 1, przekazuje kwoty pobranej opłaty paliwowej na rachunek Funduszu, w terminie 14 dni od dnia jej pobrania.
-Do ponoszenia i postępowania w sprawie opłaty paliwowej stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926 i Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387 oraz z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302 i Nr 170, poz. 1660), z zastrzeżeniem art. 37o ust. 3.
-” .
+Do ponoszenia i postępowania w sprawie opłaty paliwowej stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926 i Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387 oraz z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302 i Nr 170, poz. 1660), z zastrzeżeniem art. 37o ust. 3. ” .
 8)
-rozdział 6 otrzymuje brzmienie:
-„
+rozdział 6 otrzymuje brzmienie: „
+Krajowy fundusz drogowy
 
-**Art. 1.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych (Dz. U. z 2001 r. Nr 110, poz. 1192, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.**
+
+**Art. 2.**
+
+**Art. 3.**
+
+**Art. 4.**
+
+**Art. 5.**
+
+**Art. 6.**
+
+**Art. 7.**
+
+**Art. 8.**
+
+**Art. 9.**
+
+**Art. 10.**
+
+**Art. 11.**
+
+**Art. 12.**
+
+**Art. 13.**
+
+**Art. 14.**
+
+**Art. 15.**
+
+**Art. 16.**
+
+**Art. 17.** Załącznik – Maksymalne stawki opłat za przejazd 1 km autostrady W ustawie z dnia 27 października 1994 r. o autostradach płatnych (Dz. U. z 2001 r. Nr 110, poz. 1192, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 25, poz. 253 oraz z 2003 r. Nr 80, poz. 721, Nr 139, poz. 1325 i Nr 162, poz. 1568.) wprowadza się następujące zmiany:
 
 - **1)** tytuł ustawy otrzymuje brzmienie „o autostradach płatnych oraz o Krajowym Funduszu Drogowym”;
 - **2)** w art. 1 dodaje się ust. 1a w brzmieniu: „
@@ -93,7 +122,7 @@ rozdział 6 otrzymuje brzmienie:
 - **6)** w art. 33 w ust. 2 zdanie drugie otrzymuje brzmienie: „ Za straty poniesione na skutek rozwiązania umowy przysługuje odszkodowanie wypłacane ze środków budżetu państwa, których dysponentem jest Generalny Dyrektor Dróg Krajowych i Autostrad. ” ;
 - **7)** dodaje się rozdziały 5a i 5b w brzmieniu: „
 
-#### Rozdział 5a Opłaty za przejazd
+#### Rozdział 5a
 
 **Art. 37a.**
 
@@ -115,7 +144,7 @@ rozdział 6 otrzymuje brzmienie:
 
 - **1)** sposób ustalania, dokonywania zmian wysokości opłat za przejazd autostradą oraz ich pobierania,
 - **2)** kategorie pojazdów, od których pobiera się opłaty za przejazd autostradą,
-- **3)** sposób ogłaszania wysokości tych opłat uwzględniając poziom ruchu, ilość przejechanych kilometrów, nacisk na oś lub ciężar pojazdu, kategorię pojazdu oraz dostępność informacji o wysokości opłat za przejazd autostradą.
+- **3)** sposób ogłaszania wysokości tych opłat – uwzględniając poziom ruchu, ilość przejechanych kilometrów, nacisk na oś lub ciężar pojazdu, kategorię pojazdu oraz dostępność informacji o wysokości opłat za przejazd autostradą.
 
 1. Wysokość opłat za przejazd autostradą, o których mowa w art. 37a ust. 3, nie może przekraczać stawek maksymalnych za przejazd 1 km autostrady dla kategorii pojazdów, określonych w załączniku do ustawy.
 
@@ -125,9 +154,9 @@ rozdział 6 otrzymuje brzmienie:
 
 4. Minister właściwy do spraw transportu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, stawki maksymalne, o których mowa w ust. 1, z uwzględnieniem zasady wynikającej z ust. 2, zaokrąglając je w górę do pełnych groszy. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wysokość opłat za przejazd autostradą, o których mowa w art. 37a ust. 3, w granicach stawek maksymalnych, o których mowa w art. 37e. Od opłat za przejazd, o których mowa w art. 37a ust. 2 i 3, są zwolnione pojazdy uprzywilejowane, wykonujące zadania w zakresie określonym w art. 53 ust. 2 pkt 1 lit. a) ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2003 r. Nr 58, poz. 515, Nr 124, poz. 1152, Nr 130, poz. 1190, Nr 137, poz. 1302, Nr 149, poz. 1451 i 1452, Nr 162, poz. 1568, Nr 200, poz. 1953 i Nr 210, poz. 2036).
 
-#### Rozdział 5b Opłata paliwowa
+#### Rozdział 5b
 
-#### Rozdział 6 Krajowy fundusz drogowy
+#### Rozdział 6
 
 **Art. 38.**
 
@@ -299,40 +328,27 @@ rozdział 6 otrzymuje brzmienie:
     - **d)**
 
 - **21)** w art. 29 w ust. 1, dwukrotnie w art. 36 w ust. 2, w art. 41, w art. 44 w ust. 1 i 2, w art. 46 w ust. 2, w art. 48 w ust. 2, w art. 50b w ust. 1, w art. 57 w pkt 6, w art. 60 w ust. 1, w art. 62 w ust. 1 w pkt 4 i pkt 10 użyte w różnych przypadkach wyrazy „Generalna Dyrekcja Dróg Krajowych i Autostrad” zastępuje się użytymi w odpowiednich przypadkach wyrazami „Generalny Dyrektor Dróg Krajowych i Autostrad”;
-- **22)** dodaje się załącznik do ustawy w brzmieniu określonym w załączniku do niniejszej ustawy.
-
-**Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2002 r. Nr 110, poz. 968, z późn. zm.) wprowadza się następujące zmiany:
-
-- **1)** w art. 3a: w § 1: – zdanie wstępne otrzymuje brzmienie: „ W zakresie zobowiązań: powstałych w przypadkach określonych w art. 8 i art. 21 § 1 pkt 1 ustawy – Ordynacja podatkowa, długów celnych powstałych w przypadkach określonych w art. 209 § 1 oraz art. 217 § 1 Kodeksu celnego, podatków wykazanych w zgłoszeniu celnym, składek na ubezpieczenie społeczne, a także opłat paliwowych, o których mowa w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2001 r. Nr 110, poz. 1192, z 2002 r. Nr 25, poz. 253 oraz z 2003 r. Nr 80, poz. 721, Nr 139, poz. 1325, Nr 162, poz. 1568 i Nr 217, poz. 2124), stosuje się również egzekucję administracyjną, jeżeli wynikają one odpowiednio: ” , – w pkt 3 kropkę zastępuje się przecinkiem i dodaje się pkt 4 w brzmieniu: „ 4) z informacji o opłacie paliwowej. ” , w § 2 pkt 1 otrzymuje brzmienie: „
+- **22)** dodaje się załącznik do ustawy w brzmieniu określonym w załączniku do niniejszej ustawy. W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2002 r. Nr 110, poz. 968, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984, Nr 127, poz. 1090, Nr 141, poz. 1178, Nr 153, poz. 1271, Nr 169, poz. 1387, Nr 199, poz. 1672, Nr 200, poz. 1679 i Nr 216, poz. 1824 oraz z 2003 r. Nr 80, poz. 718, Nr 135, poz. 1268, Nr 137, poz. 1302 i Nr 193, poz. 1884.) wprowadza się następujące zmiany:
+- **1)** w art. 3a: w § 1: – zdanie wstępne otrzymuje brzmienie: „ W zakresie zobowiązań: powstałych w przypadkach określonych w art. 8 i art. 21 § 1 pkt 1 ustawy – Ordynacja podatkowa, długów celnych powstałych w przypadkach określonych w art. 209 § 1 oraz art. 217 § 1 Kodeksu celnego, podatków wykazanych w zgłoszeniu celnym, składek na ubezpieczenie społeczne, a także opłat paliwowych, o których mowa w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2001 r. Nr 110, poz. 1192, z 2002 r. Nr 25, poz. 253 oraz z 2003 r. Nr 80, poz. 721, Nr 139, poz. 1325, Nr 162, poz. 1568 i Nr 217, poz. 2124), stosuje się również egzekucję administracyjną, jeżeli wynikają one odpowiednio: ” , w pkt 3 kropkę zastępuje się przecinkiem i dodaje się pkt 4 w brzmieniu: „
     - **a)**
+
+- **4)** z informacji o opłacie paliwowej. ” , w § 2 pkt 1 otrzymuje brzmienie: „
     - **b)**
 
 - **1)** w deklaracji, w zeznaniu, w zgłoszeniu celnym, w deklaracji rozliczeniowej albo w informacji o opłacie paliwowej zostało zamieszczone pouczenie, że stanowią one podstawę do wystawienia tytułu wykonawczego, ” ;
 - **2)** w art. 5 w § 1 pkt 4 otrzymuje brzmienie: „
-- **4)** w odniesieniu do obowiązków wynikających z wydanych przez naczelnika urzędu celnego decyzji, postanowień lub mandatów karnych oraz z przyjętych przez naczelnika urzędu celnego zgłoszeń celnych, deklaracji albo informacji o opłacie paliwowej – właściwy dla tego naczelnika dyrektor izby celnej. ” .
-
-**Art. 3.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2000 r. Nr 71, poz. 838, z późn. zm.) wprowadza się następujące zmiany:
-
-- **1)** art. 13a otrzymuje brzmienie: „
-
-**Art. 13a.** Zadania w zakresie budowy i eksploatacji autostrad i dróg ekspresowych mogą być realizowane:
-
+- **4)** w odniesieniu do obowiązków wynikających z wydanych przez naczelnika urzędu celnego decyzji, postanowień lub mandatów karnych oraz z przyjętych przez naczelnika urzędu celnego zgłoszeń celnych, deklaracji albo informacji o opłacie paliwowej – właściwy dla tego naczelnika dyrektor izby celnej. ” . W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2000 r. Nr 71, poz. 838, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 86, poz. 958, z 2001 r. Nr 125, poz. 1371, z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365, Nr 62, poz. 554, Nr 74, poz. 676, Nr 89, poz. 804, Nr 113, poz. 984 i Nr 216, poz. 1826 oraz z 2003 r. Nr 80, poz. 717 i 721 i Nr 200, poz. 1953.) wprowadza się następujące zmiany:
+- **1)** art. 13a otrzymuje brzmienie: „ Zadania w zakresie budowy i eksploatacji autostrad i dróg ekspresowych mogą być realizowane:
 - **1)** na zasadach ogólnych określonych w ustawie,
 - **2)** na zasadach określonych w przepisach o autostradach płatnych oraz o Krajowym Funduszu Drogowym. ” ;
 - **2)** w art. 18 w ust. 2 w pkt 7 kropkę zastępuje się przecinkiem i dodaje się pkt 8 w brzmieniu: „
-- **8)** pobieranie opłat za przejazd zgodnie z przepisami o autostradach płatnych oraz o Krajowym Funduszu Drogowym. ” .
+- **8)** pobieranie opłat za przejazd zgodnie z przepisami o autostradach płatnych oraz o Krajowym Funduszu Drogowym. ” . W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2002 r. Nr 112, poz. 982, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 153, poz. 1271 oraz z 2003 r. Nr 170, poz. 1652 i Nr 190, poz. 1865.) art. 19 otrzymuje brzmienie: „
 
-**Art. 4.** W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2002 r. Nr 112, poz. 982, z późn. zm.) art. 19 otrzymuje brzmienie: „
+**Art. 19.** W postępowaniu o ustalenie warunków zabudowy i zagospodarowania terenu dotyczącym przedsięwzięcia mogącego znacząco oddziaływać na środowisko, o którym mowa w przepisach o ochronie środowiska, oraz w sprawie ustalenia lokalizacji autostrad oraz dróg ekspresowych, jeżeli przepisy ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym mają zastosowanie do tych dróg, wojewódzkiemu inspektorowi ochrony środowiska przysługują prawa strony w postępowaniu administracyjnym i postępowaniu przed sądem administracyjnym, jeżeli zgłosi swój udział w postępowaniu. ” . W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922 oraz z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759 i Nr 202, poz. 1957.) w art. 17 w ust. 1 pkt 4k otrzymuje brzmienie: „
 
-**Art. 19.** W postępowaniu o ustalenie warunków zabudowy i zagospodarowania terenu dotyczącym przedsięwzięcia mogącego znacząco oddziaływać na środowisko, o którym mowa w przepisach o ochronie środowiska, oraz w sprawie ustalenia lokalizacji autostrad oraz dróg ekspresowych, jeżeli przepisy ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym mają zastosowanie do tych dróg, wojewódzkiemu inspektorowi ochrony środowiska przysługują prawa strony w postępowaniu administracyjnym i postępowaniu przed sądem administracyjnym, jeżeli zgłosi swój udział w postępowaniu. ” .
+- **4k)** dochody Banku Gospodarstwa Krajowego prowadzącego Krajowy Fundusz Mieszkaniowy, Fundusz Termomodernizacji i Krajowy Fundusz Drogowy oraz banku prowadzącego kasę mieszkaniową, stanowiące równowartość dochodu uzyskanego przez te Fundusze lub kasę mieszkaniową z tytułów określonych w odrębnych przepisach – w części przeznaczonej wyłącznie na realizację wymienionych w tych przepisach celów, odpowiednio Funduszy lub kasy mieszkaniowej, ” . W ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2000 r. Nr 9, poz. 131, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 86, poz. 958, Nr 119, poz. 1252 i Nr 122, poz. 1316, z 2001 r. Nr 154, poz. 1802 oraz z 2003 r. Nr 60, poz. 535.) w art. 14 ust. 3 otrzymuje brzmienie: „
 
-**Art. 5.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm.) w art. 17 w ust. 1 pkt 4k otrzymuje brzmienie: „
-
-- **4k)** dochody Banku Gospodarstwa Krajowego prowadzącego Krajowy Fundusz Mieszkaniowy, Fundusz Termomodernizacji i Krajowy Fundusz Drogowy oraz banku prowadzącego kasę mieszkaniową, stanowiące równowartość dochodu uzyskanego przez te Fundusze lub kasę mieszkaniową z tytułów określonych w odrębnych przepisach – w części przeznaczonej wyłącznie na realizację wymienionych w tych przepisach celów, odpowiednio Funduszy lub kasy mieszkaniowej, ” .
-
-**Art. 6.** W ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2000 r. Nr 9, poz. 131, z późn. zm.) w art. 14 ust. 3 otrzymuje brzmienie: „ 3. Nie nalicza się obowiązkowej opłaty rocznej od aktywów Krajowego Funduszu Mieszkaniowego, Krajowego Funduszu Poręczeń Kredytowych, Funduszu Termomodernizacji oraz Krajowego Funduszu Drogowego, utworzonych w Banku Gospodarstwa Krajowego, oraz od środków zgromadzonych na rachunku rezerw poręczeniowych i gwarancyjnych Skarbu Państwa w tym banku. ” .
-
-**Art. 7.** W ustawie z dnia 29 czerwca 1995 r. o obligacjach (Dz. U. z 2001 r. Nr 120, poz. 1300 oraz z 2002 r. Nr 216, poz. 1824) wprowadza się następujące zmiany:
+3. Nie nalicza się obowiązkowej opłaty rocznej od aktywów Krajowego Funduszu Mieszkaniowego, Krajowego Funduszu Poręczeń Kredytowych, Funduszu Termomodernizacji oraz Krajowego Funduszu Drogowego, utworzonych w Banku Gospodarstwa Krajowego, oraz od środków zgromadzonych na rachunku rezerw poręczeniowych i gwarancyjnych Skarbu Państwa w tym banku. ” . W ustawie z dnia 29 czerwca 1995 r. o obligacjach (Dz. U. z 2001 r. Nr 120, poz. 1300 oraz z 2002 r. Nr 216, poz. 1824) wprowadza się następujące zmiany:
 
 - **1)** w art. 23a: w ust. 2 w pkt 4 kropkę zastępuje się przecinkiem i dodaje się pkt 5 w brzmieniu: „
     - **a)**
@@ -355,30 +371,16 @@ rozdział 6 otrzymuje brzmienie:
 
 - **b)**
 
-2. Emitenci inni niż określeni w ust. 1 i 1a nie mogą przeznaczyć środków pochodzących z emisji obligacji na inny cel, jeżeli cel emisji został określony. ” .
+2. Emitenci inni niż określeni w ust. 1 i 1a nie mogą przeznaczyć środków pochodzących z emisji obligacji na inny cel, jeżeli cel emisji został określony. ” . W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2000 r. Nr 46, poz. 543, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 129, poz. 1447 i Nr 154, poz. 1800, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 113, poz. 984, Nr 126, poz. 1070, Nr 130, poz. 1112, Nr 153, poz. 1271, Nr 200, poz. 1682 i Nr 240, poz. 2058 oraz z 2003 r. Nr 1, poz. 15, Nr 80, poz. 717, 720 i 721, Nr 96, poz. 874, Nr 124, poz. 1152 i Nr 162, poz. 1568 i Nr 203, poz. 1966.) w art. 2 pkt 5 otrzymuje brzmienie: „
 
-**Art. 8.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2000 r. Nr 46, poz. 543, z późn. zm.) w art. 2 pkt 5 otrzymuje brzmienie: „
-
-- **5)** ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2001 r. Nr 110, poz. 1192, z 2002 r. Nr 25, poz. 253 oraz z 2003 r. Nr 80, poz. 721, Nr 139, poz. 1325, Nr 162, poz. 1568 i i Nr 217, poz. 2124), ” .
-
-**Art. 9.** W ustawie z dnia 29 sierpnia 1997 r. o finansowaniu dróg publicznych (Dz. U. Nr 123, poz. 780, z późn. zm.) wprowadza się następujące zmiany:
-
+- **5)** ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2001 r. Nr 110, poz. 1192, z 2002 r. Nr 25, poz. 253 oraz z 2003 r. Nr 80, poz. 721, Nr 139, poz. 1325, Nr 162, poz. 1568 i i Nr 217, poz. 2124), ” . W ustawie z dnia 29 sierpnia 1997 r. o finansowaniu dróg publicznych (Dz. U. Nr 123, poz. 780, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 150, poz. 983, z 2000 r. Nr 12, poz. 136, z 2002 r. Nr 216, poz. 1826 i Nr 240, poz. 2057 oraz z 2003 r. Nr 200, poz. 1953 i Nr 203, poz. 1966.) wprowadza się następujące zmiany:
 - **1)** w art. 1 ust. 2 otrzymuje brzmienie: „
 
 2. Przepisy ustawy nie mają zastosowania do autostrad płatnych budowanych i eksploatowanych na zasadach określonych przepisami o autostradach płatnych oraz o Krajowym Funduszu Drogowym, z zastrzeżeniem art. 4a. ” ;
 
-- **2)** art. 5 otrzymuje brzmienie: „ Źródłem finansowania dróg publicznych są również środki finansowe określone przepisami o drogach publicznych, przepisami o transporcie drogowym i przepisami o autostradach płatnych oraz o Krajowym Funduszu Drogowym. ” .
-
-**Art. 10.** W ustawie z dnia 24 lipca 1999 r. o Służbie Celnej (Dz. U. Nr 72, poz. 802, z późn. zm.) w art. 1 w ust. 2 po pkt 3b dodaje się pkt 3c w brzmieniu: „
-
-- **3c)** pobór opłaty paliwowej, ” .
-
-**Art. 11.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. Nr 62, poz. 627, z późn. zm.) w art. 46 w ust. 4 pkt 8 otrzymuje brzmienie: „
-
-- **8)** decyzja o ustaleniu lokalizacji autostrady, wydawana na podstawie ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2001 r. Nr 110, poz. 1192, z 2002 r. Nr 25, poz. 253 oraz z 2003 r. Nr 80, poz. 721, Nr 139, poz. 1325, Nr 162, poz. 1568 i Nr 217, poz. 2124), gdy decyzja ta dotyczy odcinków, które we wskazaniach lokalizacyjnych zostały wskazane jako newralgiczne z uwagi na uwarunkowania ochrony środowiska lub możliwość wystąpienia konfliktów społecznych, ” .
-
-**Art. 12.** W ustawie z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz. U. Nr 65, poz. 594) wprowadza się następujące zmiany:
-
+- **2)** art. 5 otrzymuje brzmienie: „ Źródłem finansowania dróg publicznych są również środki finansowe określone przepisami o drogach publicznych, przepisami o transporcie drogowym i przepisami o autostradach płatnych oraz o Krajowym Funduszu Drogowym. ” . W ustawie z dnia 24 lipca 1999 r. o Służbie Celnej (Dz. U. Nr 72, poz. 802, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 110, poz. 1255, z 2002 r. Nr 41, poz. 365, Nr 89, poz. 804 i Nr 153, poz. 1271 oraz z 2003 r. Nr 120, poz. 1122, Nr 137, poz. 1302 i Nr 199, poz. 1934.) w art. 1 w ust. 2 po pkt 3b dodaje się pkt 3c w brzmieniu: „
+- **3c)** pobór opłaty paliwowej, ” . W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. Nr 62, poz. 627, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, z 2002 r. Nr 74, poz. 676, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 233, poz. 1957 oraz z 2003 r. Nr 46, poz. 392, Nr 80, poz. 717 i 721, Nr 162, poz. 1568, Nr 175, poz. 1693 i Nr 190, poz. 1865.) w art. 46 w ust. 4 pkt 8 otrzymuje brzmienie: „
+- **8)** decyzja o ustaleniu lokalizacji autostrady, wydawana na podstawie ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2001 r. Nr 110, poz. 1192, z 2002 r. Nr 25, poz. 253 oraz z 2003 r. Nr 80, poz. 721, Nr 139, poz. 1325, Nr 162, poz. 1568 i Nr 217, poz. 2124), gdy decyzja ta dotyczy odcinków, które we wskazaniach lokalizacyjnych zostały wskazane jako newralgiczne z uwagi na uwarunkowania ochrony środowiska lub możliwość wystąpienia konfliktów społecznych, ” . W ustawie z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz. U. Nr 65, poz. 594) wprowadza się następujące zmiany:
 - **1)** w art. 8 w ust. 3 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
 - **4)** przedstawiciel ministra właściwego do spraw transportu. ” ;
 - **2)** w art. 10 ust. 4 i 5 otrzymują brzmienie: „
@@ -393,17 +395,5 @@ rozdział 6 otrzymuje brzmienie:
 
 - **2)** art. 44 otrzymuje brzmienie: „
 
-**Art. 44.** W okresie obowiązywania niniejszej ustawy do lokalizacji autostrad oraz do nabywania nieruchomości pod autostrady nie stosuje się art. 21–37 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2001 r. Nr 110, poz. 1192, z 2002 r. Nr 25, poz. 253 oraz z 2003 r. Nr 80, poz. 721, Nr 139, poz. 1325, Nr 162, poz. 1568 i Nr 217, poz. 2124). ” .
-
-**Art. 14.**
-
-1. Koncesje udzielone przed dniem wejścia w życie ustawy oraz zawarte umowy koncesyjne pozostają w mocy.
-
-2. Do postępowania przetargowego, o którym mowa w ustawie zmienianej w art. 1, wszczętego przed dniem wejścia w życie ustawy stosuje się odpowiednio przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, przy czym wszystkie dotychczasowe czynności pozostają w mocy.
-
-**Art. 15.** Do dnia wejścia w życie przepisów, o których mowa w art. 39g ust. 1 ustawy zmienianej w art. 1, inwestycje drogowe są realizowane zgodnie z dotychczasowymi zasadami.
-
-**Art. 16.** Ilekroć w obowiązujących przepisach jest mowa o „ustawie o autostradach płatnych” lub o „Krajowym Funduszu Autostradowym”, rozumie się przez to odpowiednio „ustawę o autostradach płatnych oraz o Krajowym Funduszu Drogowym” oraz „Krajowy Fundusz Drogowy”.
-
-**Art. 17.** Ustawa wchodzi w życie z dniem 1 stycznia 2004 r. Załącznik – Maksymalne stawki opłat za przejazd 1 km autostrady Kategorie Opis kategorii Stawka za 1 km w zł Kategoria 0 Motocykle 0,10 Kategoria 1 Pojazdy samochodowe o dwóch osiach 0,22 Kategoria 2 Pojazdy samochodowe o dwóch osiach, z których co najmniej jedna wyposażona jest w koło bliźniacze, pojazdy samochodowe o dwóch osiach z przyczepami 0,33 Kategoria 3 Pojazdy samochodowe o trzech osiach, pojazdy samochodowe o dwóch osiach, z których co najmniej jedna wyposażona jest w koło bliźniacze z przyczepami 0,47 Kategoria 4 Pojazdy samochodowe o więcej niż trzech osiach, pojazdy samochodowe o trzech osiach z przyczepami, pojazdy samochodowe o więcej niż trzech osiach z przyczepami 0,75 Kategoria 5 Pojazdy niemieszczące się w kategoriach od 1 do 4 oraz pojazdy, których wymiary albo nacisk osi lub ciężar przekraczają normy określone w przepisach o ruchu drogowym. (10 × stawka dla kat. 1)
+**Art. 44.** W okresie obowiązywania niniejszej ustawy do lokalizacji autostrad oraz do nabywania nieruchomości pod autostrady nie stosuje się art. 21–37 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2001 r. Nr 110, poz. 1192, z 2002 r. Nr 25, poz. 253 oraz z 2003 r. Nr 80, poz. 721, Nr 139, poz. 1325, Nr 162, poz. 1568 i Nr 217, poz. 2124). ” . 1. Koncesje udzielone przed dniem wejścia w życie ustawy oraz zawarte umowy koncesyjne pozostają w mocy. 2. Do postępowania przetargowego, o którym mowa w ustawie zmienianej w art. 1, wszczętego przed dniem wejścia w życie ustawy stosuje się odpowiednio przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, przy czym wszystkie dotychczasowe czynności pozostają w mocy. Do dnia wejścia w życie przepisów, o których mowa w art. 39g ust. 1 ustawy zmienianej w art. 1, inwestycje drogowe są realizowane zgodnie z dotychczasowymi zasadami. Ilekroć w obowiązujących przepisach jest mowa o „ustawie o autostradach płatnych” lub o „Krajowym Funduszu Autostradowym”, rozumie się przez to odpowiednio „ustawę o autostradach płatnych oraz o Krajowym Funduszu Drogowym” oraz „Krajowy Fundusz Drogowy”. Ustawa wchodzi w życie z dniem 1 stycznia 2004 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 25, poz. 253 oraz z 2003 r. Nr 80, poz. 721, Nr 139, poz. 1325 i Nr 162, poz. 1568. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984, Nr 127, poz. 1090, Nr 141, poz. 1178, Nr 153, poz. 1271, Nr 169, poz. 1387, Nr 199, poz. 1672, Nr 200, poz. 1679 i Nr 216, poz. 1824 oraz z 2003 r. Nr 80, poz. 718, Nr 135, poz. 1268, Nr 137, poz. 1302 i Nr 193, poz. 1884. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 86, poz. 958, z 2001 r. Nr 125, poz. 1371, z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365, Nr 62, poz. 554, Nr 74, poz. 676, Nr 89, poz. 804, Nr 113, poz. 984 i Nr 216, poz. 1826 oraz z 2003 r. Nr 80, poz. 717 i 721 i Nr 200, poz. 1953. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 153, poz. 1271 oraz z 2003 r. Nr 170, poz. 1652 i Nr 190, poz. 1865. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922 oraz z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759 i Nr 202, poz. 1957. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 86, poz. 958, Nr 119, poz. 1252 i Nr 122, poz. 1316, z 2001 r. Nr 154, poz. 1802 oraz z 2003 r. Nr 60, poz. 535. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 129, poz. 1447 i Nr 154, poz. 1800, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 113, poz. 984, Nr 126, poz. 1070, Nr 130, poz. 1112, Nr 153, poz. 1271, Nr 200, poz. 1682 i Nr 240, poz. 2058 oraz z 2003 r. Nr 1, poz. 15, Nr 80, poz. 717, 720 i 721, Nr 96, poz. 874, Nr 124, poz. 1152 i Nr 162, poz. 1568 i Nr 203, poz. 1966. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 150, poz. 983, z 2000 r. Nr 12, poz. 136, z 2002 r. Nr 216, poz. 1826 i Nr 240, poz. 2057 oraz z 2003 r. Nr 200, poz. 1953 i Nr 203, poz. 1966. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 110, poz. 1255, z 2002 r. Nr 41, poz. 365, Nr 89, poz. 804 i Nr 153, poz. 1271 oraz z 2003 r. Nr 120, poz. 1122, Nr 137, poz. 1302 i Nr 199, poz. 1934. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, z 2002 r. Nr 74, poz. 676, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 233, poz. 1957 oraz z 2003 r. Nr 46, poz. 392, Nr 80, poz. 717 i 721, Nr 162, poz. 1568, Nr 175, poz. 1693 i Nr 190, poz. 1865. Załącznik – Maksymalne stawki opłat za przejazd 1 km autostrady Kategorie Opis kategorii Stawka za 1 km w zł Kategoria 0 Motocykle 0,10 Kategoria 1 Pojazdy samochodowe o dwóch osiach 0,22 Kategoria 2 Pojazdy samochodowe o dwóch osiach, z których co najmniej jedna wyposażona jest w koło bliźniacze, pojazdy samochodowe o dwóch osiach z przyczepami 0,33 Kategoria 3 Pojazdy samochodowe o trzech osiach, pojazdy samochodowe o dwóch osiach, z których co najmniej jedna wyposażona jest w koło bliźniacze z przyczepami 0,47 Kategoria 4 Pojazdy samochodowe o więcej niż trzech osiach, pojazdy samochodowe o trzech osiach z przyczepami, pojazdy samochodowe o więcej niż trzech osiach z przyczepami 0,75 Kategoria 5 Pojazdy niemieszczące się w kategoriach od 1 do 4 oraz pojazdy, których wymiary albo nacisk osi lub ciężar przekraczają normy określone w przepisach o ruchu drogowym. (10 × stawka dla kat. 1)
 

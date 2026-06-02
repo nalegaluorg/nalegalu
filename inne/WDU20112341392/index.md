@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 września 2011 r. o zmianie ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 16 września 2011 r. o zmianie ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym oraz o zmianie niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich: 1) dyrektywy Parlamentu Europejskiego i Rady 2009/73/WE z dnia 13 lipca 2009 r. dotyczącej wspólnych zasad rynku wewnętrznego gazu ziemnego i uchylającej dyrektywę 2003/50/WE (Dz. Urz. UE L 211 z 14.08.2009, str. 94); 2) dyrektywy Rady 2004/67/WE z dnia 26 kwietnia 2004 r. dotyczącej środków zapewniających bezpieczeństwo dostaw gazu ziemnego (Dz. Urz. UE L 127 z 29.04.2004, str. 92; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 12, t. 3, str. 19).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-09-16 |
 | Data wydania | 2011-11-03 |
-| Wejście w życie | 2011-12-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112341392) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1392/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. Nr 52, poz. 343, z późn. zm.) wprowadza się następujące zmiany:
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne oraz ustawę z dnia 27 maja 2011 r. o zmianie ustawy o systemie monitorowania i kontrolowania jakości paliw oraz niektórych innych ustaw.
+
+**Art. 1.** W ustawie z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. Nr 52, poz. 343, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 3, poz. 11, z 2010 r. Nr 81, poz. 532, Nr 182, poz. 1228 i Nr 229, poz. 1496 oraz z 2011 r. Nr 171, poz. 1016 i Nr 205, poz. 1208.) wprowadza się następujące zmiany:
 
 - **1)** w art. 24: ust. 2 i 3 otrzymują brzmienie: „
     - **a)**
@@ -52,12 +53,12 @@ source: "eli-html"
 5c. Przedsiębiorstwo energetyczne, o którym mowa w ust. 5, zwolnione z obowiązku utrzymywania zapasów obowiązkowych gazu ziemnego, jest obowiązane:
 
 - **1)** przedstawić ministrowi właściwemu do spraw gospodarki pisemne, kwartalne sprawozdanie zawierające informacje o wielkościach zrealizowanego przywozu gazu ziemnego, w terminie 30 dni od upływu ostatniego dnia kwartału, którego informacje te dotyczą;
-- **2)** poinformować ministra właściwego do spraw gospodarki o: przekroczeniu wielkości uprawniających do uzyskania zwolnienia z obowiązku utrzymywania zapasów obowiązkowych gazu ziemnego oraz podjętych działaniach mających na celu utworzenie zapasów obowiązkowych gazu ziemnego w terminie 15 dni od dnia wystąpienia każdego z tych zdarzeń. ” , ust. 6 otrzymuje brzmienie: „
+- **2)** poinformować ministra właściwego do spraw gospodarki o: przekroczeniu wielkości uprawniających do uzyskania zwolnienia z obowiązku utrzymywania zapasów obowiązkowych gazu ziemnego oraz podjętych działaniach mających na celu utworzenie zapasów obowiązkowych gazu ziemnego – w terminie 15 dni od dnia wystąpienia każdego z tych zdarzeń. ” , ust. 6 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **d)**
 
-6. Nie podlegają zwolnieniu, o którym mowa w ust. 5 i 5a, przedsiębiorstwa energetyczne wchodzące w skład grupy kapitałowej – w rozumieniu art. 4 pkt 14 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. Nr 50, poz. 331, z późn. zm.) – jeżeli łączna liczba ich odbiorców jest większa niż 100 tys. i łączny przywóz gazu ziemnego przekracza w ciągu roku kalendarzowego 100 mln m3. ” ;
+6. Nie podlegają zwolnieniu, o którym mowa w ust. 5 i 5a, przedsiębiorstwa energetyczne wchodzące w skład grupy kapitałowej – w rozumieniu art. 4 pkt 14 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. Nr 50, poz. 331, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 660 i Nr 171, poz. 1206, z 2008 r. Nr 157, poz. 976, Nr 223, poz. 1458 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 i Nr 157, poz. 1241 oraz z 2011 r. Nr 34, poz. 173.) – jeżeli łączna liczba ich odbiorców jest większa niż 100 tys. i łączny przywóz gazu ziemnego przekracza w ciągu roku kalendarzowego 100 mln m3. ” ;
 
 - **2)** po art. 24 dodaje się art. 24a w brzmieniu: „
 
@@ -122,14 +123,21 @@ source: "eli-html"
 
 **Art. 53.** Jeżeli w ocenie operatora systemu przesyłowego gazowego lub operatora systemów połączonych gazowych działania, o których mowa w art. 50 i art. 52, nie spowodują przywrócenia stanu bezpieczeństwa paliwowego państwa w zakresie gazu ziemnego, operator ten, z własnej inicjatywy lub na podstawie informacji uzyskanych od przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie przywozu gazu ziemnego w celu jego dalszej odsprzedaży odbiorcom, zgłasza ministrowi właściwemu do spraw gospodarki potrzebę wprowadzenia ograniczeń w poborze gazu ziemnego, zgodnie z planami wprowadzania ograniczeń, o których mowa w art. 58 ust. 1. ” ;
 
-- **8)** w art. 63: w ust. 1: – pkt 19 otrzymuje brzmienie: „ 19) będąc osobą kierującą działalnością przedsiębiorstwa energetycznego prowadzącego działalność gospodarczą w zakresie przywozu gazu ziemnego w celu jego dalszej odsprzedaży odbiorcom, nie usunie, w wyznaczonym terminie, uchybień, do czego został zobowiązany na podstawie art. 30 ust. 9; ” , – po pkt 19 dodaje się pkt 19a i 19b w brzmieniu: „ 19a) będąc osobą kierującą działalnością przedsiębiorstwa, o którym mowa w art. 24 ust. 5, nie przedstawi, w wyznaczonym terminie, dokumentów lub informacji, o których mowa w art. 24 ust. 5c, albo przedstawi dokumenty lub informacje nieprawdziwe; 19b) będąc osobą kierującą działalnością przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie przywozu gazu ziemnego w celu jego dalszej odsprzedaży odbiorcom, nie złoży wyjaśnień lub nie przedstawi w wyznaczonym terminie dokumentów, o których mowa w art. 30 ust. 5, albo złoży nieprawdziwe wyjaśnienia lub przedstawi nieprawdziwe dokumenty; ” , po ust. 15 dodaje się ust. 15a w brzmieniu: „
+- **8)** w art. 63: w ust. 1: pkt 19 otrzymuje brzmienie: „
     - **a)**
+
+- **19)** będąc osobą kierującą działalnością przedsiębiorstwa energetycznego prowadzącego działalność gospodarczą w zakresie przywozu gazu ziemnego w celu jego dalszej odsprzedaży odbiorcom, nie usunie, w wyznaczonym terminie, uchybień, do czego został zobowiązany na podstawie art. 30 ust. 9; ” , po pkt 19 dodaje się pkt 19a i 19b w brzmieniu: „
+- **19a)** będąc osobą kierującą działalnością przedsiębiorstwa, o którym mowa w art. 24 ust. 5, nie przedstawi, w wyznaczonym terminie, dokumentów lub informacji, o których mowa w art. 24 ust. 5c, albo przedstawi dokumenty lub informacje nieprawdziwe;
+- **19b)** będąc osobą kierującą działalnością przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie przywozu gazu ziemnego w celu jego dalszej odsprzedaży odbiorcom, nie złoży wyjaśnień lub nie przedstawi w wyznaczonym terminie dokumentów, o których mowa w art. 30 ust. 5, albo złoży nieprawdziwe wyjaśnienia lub przedstawi nieprawdziwe dokumenty; ” , po ust. 15 dodaje się ust. 15a w brzmieniu: „
     - **b)**
 
 15a. W przypadkach, o których mowa w ust. 1 pkt 19a i 19b, kara pieniężna wynosi od dwukrotnego do dziesięciokrotnego przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, obowiązującego w kwartale, w którym nastąpiło niedopełnienie obowiązku. ” ;
 
-- **9)** w art. 64: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) pkt 1–3, 6, 11, 16, 19 i 19b – wymierza Prezes URE; ” , – pkt 7 otrzymuje brzmienie: „ 7) pkt 17 i 19a – wymierza minister właściwy do spraw gospodarki. ” , ust. 3 otrzymuje brzmienie: „
+- **9)** w art. 64: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** pkt 1–3, 6, 11, 16, 19 i 19b – wymierza Prezes URE; ” , pkt 7 otrzymuje brzmienie: „
+- **7)** pkt 17 i 19a – wymierza minister właściwy do spraw gospodarki. ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Prezes URE wymierza kary, o których mowa w art. 63 ust. 1 pkt 1–3, 6, 11, 16, 19 i 19b, w drodze decyzji, od której przysługuje odwołanie do Sądu Okręgowego w Warszawie – sądu ochrony konkurencji i konsumentów. ” ;
@@ -147,14 +155,14 @@ source: "eli-html"
 - **2)** orzeczenie sądu administracyjnego stało się prawomocne. ” ;
 - **11)** użyte w art. 24 w ust. 1, w art. 25 w ust. 1 i 6, w art. 26 w ust. 3 i 4, w art. 27 w ust. 1, w art. 28 w ust. 1, w art. 49 w ust. 1, w art. 50 w ust. 1 i w ust. 2 w zdaniu wstępnym, w art. 51 w ust. 2, w art. 52 w ust. 4, w art. 61 w ust. 1 oraz w art. 74 w ust. 2 w różnym przypadku wyrazy „przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiot dokonujący przywozu gazu ziemnego” zastępuje się użytymi w odpowiednim przypadku wyrazami „przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie przywozu gazu ziemnego w celu jego dalszej odsprzedaży odbiorcom”.
 
-**Art. 2.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2006 r. Nr 89, poz. 625, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2006 r. Nr 89, poz. 625, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 158, poz. 1123 i Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 124, Nr 52, poz. 343, Nr 115, poz. 790 i Nr 130, poz. 905, z 2008 r. Nr 180, poz. 1112 i Nr 227, poz. 1505, z 2009 r. Nr 3, poz. 11, Nr 69, poz. 586, Nr 165, poz. 1316 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104 i Nr 81, poz. 530 oraz z 2011 r. Nr 94, poz. 551, Nr 135, poz. 789, Nr 205, poz. 1208 i Nr 233, poz. 1381.) wprowadza się następujące zmiany:
 
 - **1)** w art. 33 ust. 1a otrzymuje brzmienie: „
 
 1a. Prezes URE udziela koncesji na obrót gazem ziemnym z zagranicą wnioskodawcy, który:
 
 - **1)** posiada własne pojemności magazynowe lub
-- **2)** zawarł umowę przedwstępną o świadczenie usługi magazynowania zapasów obowiązkowych gazu ziemnego, o których mowa w art. 24 ust. 1 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. Nr 52, poz. 343, z późn. zm.), w wielkości ustalonej zgodnie z art. 25 ust. 2 tej ustawy, lub
+- **2)** zawarł umowę przedwstępną o świadczenie usługi magazynowania zapasów obowiązkowych gazu ziemnego, o których mowa w art. 24 ust. 1 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. Nr 52, poz. 343, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 3, poz. 11, z 2010 r. Nr 81, poz. 532, Nr 182, poz. 1228 i Nr 229, poz. 1496 oraz z 2011 r. Nr 171, poz. 1016, Nr 205, poz. 1208 i Nr 234, poz. 1392.), w wielkości ustalonej zgodnie z art. 25 ust. 2 tej ustawy, lub
 - **3)** został zwolniony z obowiązku utrzymywania zapasów obowiązkowych gazu ziemnego, o którym mowa w art. 24 ust. 1 ustawy wymienionej w pkt 2. ” ;
 - **2)** w art. 35: ust. 1a otrzymuje brzmienie: „
     - **a)**
@@ -190,5 +198,5 @@ source: "eli-html"
 
 2. Zachowują ważność decyzje wydane przed dniem wejścia w życie niniejszej ustawy na podstawie art. 24 ust. 5 ustawy zmienianej w art. 1.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich: 1) dyrektywy Parlamentu Europejskiego i Rady 2009/73/WE z dnia 13 lipca 2009 r. dotyczącej wspólnych zasad rynku wewnętrznego gazu ziemnego i uchylającej dyrektywę 2003/50/WE (Dz. Urz. UE L 211 z 14.08.2009, str. 94); 2) dyrektywy Rady 2004/67/WE z dnia 26 kwietnia 2004 r. dotyczącej środków zapewniających bezpieczeństwo dostaw gazu ziemnego (Dz. Urz. UE L 127 z 29.04.2004, str. 92; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 12, t. 3, str. 19). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne oraz ustawę z dnia 27 maja 2011 r. o zmianie ustawy o systemie monitorowania i kontrolowania jakości paliw oraz niektórych innych ustaw. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 3, poz. 11, z 2010 r. Nr 81, poz. 532, Nr 182, poz. 1228 i Nr 229, poz. 1496 oraz z 2011 r. Nr 171, poz. 1016 i Nr 205, poz. 1208. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 660 i Nr 171, poz. 1206, z 2008 r. Nr 157, poz. 976, Nr 223, poz. 1458 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 i Nr 157, poz. 1241 oraz z 2011 r. Nr 34, poz. 173. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 158, poz. 1123 i Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 124, Nr 52, poz. 343, Nr 115, poz. 790 i Nr 130, poz. 905, z 2008 r. Nr 180, poz. 1112 i Nr 227, poz. 1505, z 2009 r. Nr 3, poz. 11, Nr 69, poz. 586, Nr 165, poz. 1316 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104 i Nr 81, poz. 530 oraz z 2011 r. Nr 94, poz. 551, Nr 135, poz. 789, Nr 205, poz. 1208 i Nr 233, poz. 1381. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 3, poz. 11, z 2010 r. Nr 81, poz. 532, Nr 182, poz. 1228 i Nr 229, poz. 1496 oraz z 2011 r. Nr 171, poz. 1016, Nr 205, poz. 1208 i Nr 234, poz. 1392.
 

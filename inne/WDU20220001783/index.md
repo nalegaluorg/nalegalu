@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 sierpnia 2022 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 5 sierpnia 2022 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1936 z dnia 23 października 2019 r. zmieniającą dyrektywę 2008/96/WE w sprawie zarządzania bezpieczeństwem infrastruktury drogowej (Dz. Urz. UE L 305 z 26.11.2019, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-05 |
 | Data wydania | 2022-08-25 |
-| Wejście w życie | 2022-09-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001783) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1783/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.
 
 **Art. 1.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2022 r. poz. 1693 i 1768) wprowadza się następujące zmiany:
 
@@ -83,7 +84,7 @@ source: "eli-html"
 - **1)** zgłoszenia przebudowy drogi albo
 - **2)** wniosku o wydanie decyzji o pozwoleniu na budowę, albo
 - **3)** wniosku o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej, albo
-- **4)** zawiadomienia o zakończeniu budowy albo wniosku o udzielenie pozwolenia na użytkowanie nie dołącza wyników audytu bezpieczeństwa ruchu drogowego, o którym mowa w art. 24j ust. 1, i uzasadnienia, o którym mowa w art. 24l ust. 4.
+- **4)** zawiadomienia o zakończeniu budowy albo wniosku o udzielenie pozwolenia na użytkowanie – nie dołącza wyników audytu bezpieczeństwa ruchu drogowego, o którym mowa w art. 24j ust. 1, i uzasadnienia, o którym mowa w art. 24l ust. 4.
 
 6. Przepisy niniejszego rozdziału stosuje się do przebudowy dróg obejmującej wykonywanie robót budowlanych, które bezpośrednio wpływają na natężenie ruchu drogowego, w szczególności przebudowę skrzyżowania lub wykonywanie robót budowlanych, w wyniku których powstają nowe części drogi przeznaczone do ruchu lub postoju pojazdów lub ruchu pieszych. ” ;
 
@@ -162,7 +163,7 @@ source: "eli-html"
 2. Ukierunkowana kontrola bezpieczeństwa ruchu drogowego ma na celu analizę:
 
 - **1)** parametrów użytkowych i technicznych oraz stanu technicznego drogi lub jej odcinka oraz
-- **2)** organizacji ruchu obowiązującej na danej drodze lub jej odcinku, przez którą rozumie się mające wpływ na ruch drogowy: geometrię drogi i zakres dostępu do drogi, sposób umieszczania znaków pionowych, poziomych, sygnalizatorów i urządzeń bezpieczeństwa ruchu drogowego, zasady i sposób działania sygnalizacji, znaków świetlnych, znaków o zmiennej treści i innych zmiennych elementów pod kątem ich wpływu na stan bezpieczeństwa ruchu drogowego oraz ryzyko wystąpienia wypadków drogowych i innych zdarzeń niebezpiecznych.
+- **2)** organizacji ruchu obowiązującej na danej drodze lub jej odcinku, przez którą rozumie się mające wpływ na ruch drogowy: geometrię drogi i zakres dostępu do drogi, sposób umieszczania znaków pionowych, poziomych, sygnalizatorów i urządzeń bezpieczeństwa ruchu drogowego, zasady i sposób działania sygnalizacji, znaków świetlnych, znaków o zmiennej treści i innych zmiennych elementów – pod kątem ich wpływu na stan bezpieczeństwa ruchu drogowego oraz ryzyko wystąpienia wypadków drogowych i innych zdarzeń niebezpiecznych.
     - **a)**
     - **b)**
     - **c)**
@@ -252,10 +253,12 @@ source: "eli-html"
 
 **Art. 3.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, 1002 i 1768) wprowadza się następujące zmiany:
 
-- **1)** w art. 130b: w ust. 1 wyrazy „w transeuropejskiej sieci drogowej, o której mowa w art. 4 pkt 26” zastępuje się wyrazami „na drodze, o której mowa w art. 24ga ust. 1 pkt 1 i 2”, w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) możliwie dokładne określenie miejsca wypadku, w tym jego współrzędne geograficzne pozyskiwane za pośrednictwem Globalnego Systemu Nawigacji Satelitarnej (GNSS); ” , – pkt 5 otrzymuje brzmienie: „ 5) informację o skutkach wypadku, w szczególności liczbę zabitych i rannych; ” ;
+- **1)** w art. 130b: w ust. 1 wyrazy „w transeuropejskiej sieci drogowej, o której mowa w art. 4 pkt 26” zastępuje się wyrazami „na drodze, o której mowa w art. 24ga ust. 1 pkt 1 i 2”, w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **a)**
     - **b)**
 
+- **1)** możliwie dokładne określenie miejsca wypadku, w tym jego współrzędne geograficzne pozyskiwane za pośrednictwem Globalnego Systemu Nawigacji Satelitarnej (GNSS); ” , pkt 5 otrzymuje brzmienie: „
+- **5)** informację o skutkach wypadku, w szczególności liczbę zabitych i rannych; ” ;
 - **2)** w art. 140c w ust. 2 w pkt 10 wyrazy „w transeuropejskiej sieci drogowej” zastępuje się wyrazami „na drogach, o których mowa w art. 24ga ust. 1 pkt 1 i 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych”.
 
 **Art. 4.** W ustawie z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2022 r. poz. 176 i 1768) w art. 11d w ust. 1 wprowadza się następujące zmiany:
@@ -270,7 +273,7 @@ source: "eli-html"
 - **1)** art. 62a w ust. 1 w pkt 4 wyrazy „drogi w transeuropejskiej sieci drogowej” zastępuje się wyrazami „drogi, o której mowa w art. 24ga ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych,”;
 - **2)** art. 62a w ust. 1 w pkt 10 oraz w art. 66 w ust. 1 w pkt 6 i w ust. 1a wyrazy „drogi w transeuropejskiej sieci drogowej” zastępuje się wyrazami „drogi, o której mowa w art. 24ga ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych”.
 
-**Art. 6.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm.) uchyla się art. 15zzzu.
+**Art. 6.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317, 2368 i 2459 oraz z 2022 r. poz. 202, 218, 655, 830, 1301, 1370, 1488, 1561, 1723 i 1768.) uchyla się art. 15zzzu.
 
 **Art. 7.** Pierwsze sprawozdanie, o którym mowa w art. 24ma ust. 4 ustawy zmienianej w art. 1, zarządca drogi przekazuje w terminie do dnia 31 lipca 2024 r.
 
@@ -299,14 +302,14 @@ source: "eli-html"
 - **1)** wszczęto postępowanie o udzielenie zamówienia publicznego na opracowanie karty informacyjnej przedsięwzięcia lub raportu o oddziaływaniu przedsięwzięcia na środowisko na potrzeby decyzji o środowiskowych uwarunkowaniach,
 - **2)** został złożony wniosek o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej,
 - **3)** został złożony wniosek o wydanie decyzji o pozwoleniu na budowę,
-- **4)** został złożony wniosek o wydanie decyzji o pozwoleniu na użytkowanie do czasu wydania tej decyzji lub zgłoszono prowadzenie robót budowlanych lub zawiadomiono o zakończeniu budowy obiektu budowlanego stosuje się przepisy art. 24i i art. 24j ustawy zmienianej w art. 1, art. 30, art. 33 oraz art. 57 ustawy zmienianej w art. 2, art. 11d ustawy zmienianej w art. 4, a także art. 62a oraz art. 66 ustawy zmienianej w art. 5, w brzmieniu dotychczasowym.
+- **4)** został złożony wniosek o wydanie decyzji o pozwoleniu na użytkowanie do czasu wydania tej decyzji lub zgłoszono prowadzenie robót budowlanych lub zawiadomiono o zakończeniu budowy obiektu budowlanego – stosuje się przepisy art. 24i i art. 24j ustawy zmienianej w art. 1, art. 30, art. 33 oraz art. 57 ustawy zmienianej w art. 2, art. 11d ustawy zmienianej w art. 4, a także art. 62a oraz art. 66 ustawy zmienianej w art. 5, w brzmieniu dotychczasowym.
 
 2. Do dróg znajdujących się w transeuropejskiej sieci drogowej, dla których przed dniem wejścia w życie ustawy:
 
 - **1)** wszczęto postępowanie o udzielenie zamówienia publicznego na opracowanie karty informacyjnej przedsięwzięcia lub raportu o oddziaływaniu przedsięwzięcia na środowisko na potrzeby decyzji o środowiskowych uwarunkowaniach,
 - **2)** został złożony wniosek o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej,
 - **3)** został złożony wniosek o wydanie decyzji o pozwoleniu na budowę,
-- **4)** został złożony wniosek o wydanie decyzji o pozwoleniu na użytkowanie do czasu wydania tej decyzji lub zgłoszono prowadzenie robót budowlanych lub zawiadomiono o zakończeniu budowy obiektu budowlanego stosuje się przepisy art. 24i i art. 24j ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
+- **4)** został złożony wniosek o wydanie decyzji o pozwoleniu na użytkowanie do czasu wydania tej decyzji lub zgłoszono prowadzenie robót budowlanych lub zawiadomiono o zakończeniu budowy obiektu budowlanego – stosuje się przepisy art. 24i i art. 24j ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
 
 **Art. 13.**
 
@@ -362,5 +365,5 @@ source: "eli-html"
 
 3. Rezerwą, o której mowa w ust. 2, dysponuje minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw transportu.
 
-**Art. 17.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 6, który wchodzi w życie z dniem 1 stycznia 2023 r.
+**Art. 17.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 6, który wchodzi w życie z dniem 1 stycznia 2023 r. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1936 z dnia 23 października 2019 r. zmieniającą dyrektywę 2008/96/WE w sprawie zarządzania bezpieczeństwem infrastruktury drogowej (Dz. Urz. UE L 305 z 26.11.2019, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317, 2368 i 2459 oraz z 2022 r. poz. 202, 218, 655, 830, 1301, 1370, 1488, 1561, 1723 i 1768.
 

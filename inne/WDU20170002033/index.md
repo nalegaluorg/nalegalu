@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Rozwoju i Finansówz dnia 11 października 2017 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki w sprawie ustalenia planu rozwoju Legnickiej Specjalnej Strefy Ekonomicznej
+# Obwieszczenie Ministra Rozwoju i Finansówz dnia 11 października 2017 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki w sprawie ustalenia planu rozwoju Legnickiej Specjalnej Strefy Ekonomicznej Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -34,19 +34,15 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Gospodarki z dnia 31 sierpnia 2009 r. w sprawie ustalenia planu rozwoju Legnickiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 1245), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rozwoju z dnia 16 września 2016 r. zmieniającym rozporządzenie w sprawie ustalenia planu rozwoju Legnickiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 1613).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju z dnia 16 września 2016 r. zmieniającego rozporządzenie w sprawie ustalenia planu rozwoju Legnickiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 1613), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju z dnia 16 września 2016 r. zmieniającego rozporządzenie w sprawie ustalenia planu rozwoju Legnickiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 1613), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
-Załącznik – Rozporządzenie Ministra Gospodarki z dnia 31 sierpnia 2009 r. w sprawie ustalenia planu rozwoju Legnickiej Specjalnej Strefy Ekonomicznej
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Załącznik – Rozporządzenie Ministra Gospodarki z dnia 31 sierpnia 2009 r. w sprawie ustalenia planu rozwoju Legnickiej Specjalnej Strefy EkonomicznejObecnie działem administracji rządowej – gospodarka kieruje Minister Rozwoju i Finansów, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 Na podstawie art. 9 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2017 r. poz. 1010) zarządza się, co następuje:
 § 1.
 Ustala się plan rozwoju Legnickiej Specjalnej Strefy Ekonomicznej, stanowiący załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – gospodarka kieruje Minister Rozwoju i Finansów, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Rozporządzenie zostało ogłoszone w dniu 24 września 2009 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 2 grudnia 1997 r. w sprawie ustalenia planu rozwoju Legnickiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 1003), które utraciło moc z dniem 5 sierpnia 2009 r. na podstawie art. 5 ustawy z dnia 30 maja 2008 r. o zmianie ustawy o specjalnych strefach ekonomicznych (Dz. U. poz. 746).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 24 września 2009 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 2 grudnia 1997 r. w sprawie ustalenia planu rozwoju Legnickiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 1003), które utraciło moc z dniem 5 sierpnia 2009 r. na podstawie art. 5 ustawy z dnia 30 maja 2008 r. o zmianie ustawy o specjalnych strefach ekonomicznych (Dz. U. poz. 746). 1) Obecnie działem administracji rządowej – gospodarka kieruje Minister Rozwoju i Finansów, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Rozporządzenie zostało ogłoszone w dniu 24 września 2009 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 2 grudnia 1997 r. w sprawie ustalenia planu rozwoju Legnickiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 1003), które utraciło moc z dniem 5 sierpnia 2009 r. na podstawie art. 5 ustawy z dnia 30 maja 2008 r. o zmianie ustawy o specjalnych strefach ekonomicznych (Dz. U. poz. 746).
 
 ## Załącznik nr 1 — – Plan rozwoju Legnickiej Specjalnej Strefy Ekonomicznej
 
@@ -56,12 +52,12 @@ Wstęp Plan rozwoju strefy określa w szczególności cele ustanowienia strefy, 
 Wprowadzenie Legnicka Specjalna Strefa Ekonomiczna (LSSE) została utworzona rozporządzeniem Rady Ministrów z dnia 15 kwietnia 1997 r. w sprawie ustanowienia legnickiej specjalnej strefy ekonomicznej (Dz. U. poz. 274, z późn. zm.) wydanym na podstawie art. 4 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2017 r. poz. 1010). Jej obecny obszar i granice zostały ustalone w drodze kolejnych zmian rozporządzenia ustanawiającego LSSE. Pierwotnie strefa obejmowała tereny inwestycyjne o powierzchni 381,69 ha położone w Warcie Bolesławieckiej, Legnicy, Gromadce oraz Polkowicach. Na koniec 2008 r. obszar strefy wyniósł 457,4908 ha i obejmował tereny miast: Chojnów, Głogów, Legnica, Lubin i Złotoryja oraz gmin: Gromadka, Legnickie Pole, Polkowice, Prochowice, Przemków i Środa Śląska. Zgodnie z założeniami pierwotnego planu rozwoju strefy, wprowadzonego rozporządzeniem Ministra Gospodarki z dnia 2 grudnia 1997 r. w sprawie ustalenia planu rozwoju Legnickiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 1003), funkcjonowanie LSSE miało doprowadzić m.in. do utworzenia nowych miejsc pracy dzięki stworzeniu pełnej infrastruktury na obszarze strefy oraz do zapewnienia kompleksowych usług na najwyższym poziomie dla wyselekcjonowanej grupy inwestorów.
 1.2.
 Podstawowe dane o strefie na dzień 31 grudnia 2008 r. Spośród 457,4908 ha gruntów objętych LSSE zostało zagospodarowanych 314,9395 ha, co stanowi około 70% ogólnej powierzchni strefy. Poniesione przez zarządzającego strefą od początku jej funkcjonowania wydatki na inwestycje infrastrukturalne wyniosły 38,33 mln zł. Wydano 89 zezwoleń na prowadzenie działalności gospodarczej, w oparciu o które zrealizowano nowe inwestycje o wartości 4024 mln zł i utworzono 8417 nowych trwałych miejsc pracy.
-1.3.
+1.3W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rozwoju z dnia 16 września 2016 r. zmieniającego rozporządzenie w sprawie ustalenia planu rozwoju Legnickiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 1613), które weszło w życie z dniem 20 października 2016 r..
 Misja LSSE Misją strefy jest wspieranie rozwoju regionów położonych przy zachodniej granicy Polski, w szczególności województwa dolnośląskiego i lubuskiego, poprzez stosowanie rozwiązań uwzględniających i wykorzystujących szczególne uwarunkowania regionów oraz tworzenie warunków do trwałego rozwoju gospodarczego zorientowanego na dojrzałą gospodarkę rynkową. Realizacja misji polega na podejmowaniu inicjatyw mających na celu wzrost innowacyjności gospodarek województw na obszarach objętych strefą. Celem nadrzędnym jest tworzenie jak najlepszych warunków do realizacji przedsięwzięć inwestycyjnych oraz zwiększanie stopnia efektywności wykorzystywania potencjału gospodarczego regionów, w tym zasobów ludzkich poprzez tworzenie atrakcyjnych miejsc pracy. Funkcjonowanie Legnickiej Specjalnej Strefy Ekonomicznej w regionach właściwych dla jej oddziaływania ma wspierać rozwój gospodarczo-społeczny z zamiarem osiągnięcia między innymi celów Strategii na rzecz inteligentnego i zrównoważonego rozwoju sprzyjającego włączeniu społecznemu – Europa 2020. Osiągnięcie tych celów wiąże się nierozerwalnie z:
 1)
-realizacją zadań określonych w Strategii Rozwoju Województwa Dolnośląskiego do 2020 roku, ukierunkowanych na zbudowanie konkurencyjnej i innowacyjnej gospodarki Dolnego Śląska m.in. poprzez podniesienie atrakcyjności inwestycyjnej, budowę gospodarki opartej na wiedzy oraz wspieraniu aktywności gospodarczej;
+realizacją zadań określonych w Strategii Rozwoju Województwa Dolnośląskiego do 2020 rokuUchwała Sejmiku Województwa Dolnośląskiego nr XLVIII/649/2005 z dnia 30 listopada 2005 r., ukierunkowanych na zbudowanie konkurencyjnej i innowacyjnej gospodarki Dolnego Śląska m.in. poprzez podniesienie atrakcyjności inwestycyjnej, budowę gospodarki opartej na wiedzy oraz wspieraniu aktywności gospodarczej;
 2)
-realizacją zadań określonych w Strategii Rozwoju Województwa Lubuskiego 2020 ukierunkowanych na wzrost konkurencyjności regionu (wewnętrznej oraz międzynarodowej) m.in. poprzez udoskonalenie oraz rozwój infrastruktury technicznej i komunalnej poprawiającej warunki życia oraz podnoszącej atrakcyjność inwestycyjną obszarów aktywności gospodarczej.
+realizacją zadań określonych w Strategii Rozwoju Województwa Lubuskiego 2020Uchwała Sejmiku Województwa Lubuskiego nr XXXII/319/12 z dnia 19 listopada 2012 r. ukierunkowanych na wzrost konkurencyjności regionu (wewnętrznej oraz międzynarodowej) m.in. poprzez udoskonalenie oraz rozwój infrastruktury technicznej i komunalnej poprawiającej warunki życia oraz podnoszącej atrakcyjność inwestycyjną obszarów aktywności gospodarczej.
 2.
 Cele ustanowienia LSSE:
 1)
@@ -96,7 +92,7 @@ nabywanie nieruchomości na własność oraz prawa użytkowania wieczystego w wy
 przygotowanie nieruchomości do sprzedaży oraz zorganizowanie i przeprowadzenie na zlecenie podmiotów, o których mowa w art. 5 ust. 3 i art. 8 ust. 4 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych, przetargu na zbycie nieruchomości stanowiących własność tych podmiotów;
 5)
 tworzenie warunków racjonalnego gospodarowania urządzeniami infrastruktury gospodarczej i technicznej;
-6)
+6W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4.)
 przygotowanie techniczne gruntu, budowa lub udział w budowie infrastruktury drogowej i technicznej służącej realizacji projektów inwestycyjnych w oparciu o zezwolenie;
 7)
 uczestnictwo w procesach tworzenia strategii rozwoju gospodarczego regionu, programów restrukturyzacji, planów zagospodarowania przestrzennego i innych przedsięwzięć sprzyjających aktywizacji gospodarczej regionu;
@@ -111,8 +107,7 @@ wyznaczanie, na bazie zdobytego doświadczenia i wiedzy, kierunków i trendów r
 12)
 tworzenie systemu informacji, w oparciu o centra obsługi inwestora, o firmach wykonawczych realizujących różne elementy inwestycji;
 13)
-integracja środowiska gospodarczego w regionie.
-W zakresie niezbędnym do realizacji celów określonych w niniejszym planie zarządzający może być stroną uzgadniającą i opiniującą działania podejmowane przez inne podmioty, polegające na:
+integracja środowiska gospodarczego w regionie. W zakresie niezbędnym do realizacji celów określonych w niniejszym planie zarządzający może być stroną uzgadniającą i opiniującą działania podejmowane przez inne podmioty, polegające na:
 14)
 opracowywaniu wszelkich planów zagospodarowania przestrzennego związanych z terenami stref (współpraca z samorządem);
 15)
@@ -121,7 +116,7 @@ inwentaryzacji gruntów i posadowionych na gruntach naniesień (współpraca z s
 negocjacjach dotyczących dostarczania mediów (współpraca z samorządem, właścicielem nieruchomości, dostawcami mediów);
 17)
 opracowywaniu koncepcji zaopatrzenia w media;
-18)
+18W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 4.)
 pracach projektowych dotyczących budowy infrastruktury drogowej i technicznej;
 19)
 zawieraniu umów pomiędzy inwestorami a dostawcami mediów.
@@ -132,12 +127,16 @@ Obowiązki zarządzającego dotyczące działań zmierzających do osiągnięcia
 1)
 ze środków własnych pozyskanych z działalności statutowej (działalność gospodarcza), w tym z przychodów pochodzących z opłat za administrowanie uzyskiwanych na podstawie umów cywilnoprawnych zawieranych z przedsiębiorcami;
 2)
-ze środków pozyskiwanych ze źródeł zewnętrznych, w tym z funduszy strukturalnych.
-W miarę udostępniania majątku inwestorom koszty jego utrzymania będą się zmniejszać. Wysokość wydatków przeznaczonych na marketing i promocję będzie skorelowana z możliwościami finansowymi zarządzającego. Zakłada się, że część wydatków będzie współfinansowana przez instytucje zewnętrzne (środki pomocowe, budżety lokalne). Stałym wydatkiem zarządzającego są koszty funkcjonowania spółki.
-6.
+ze środków pozyskiwanych ze źródeł zewnętrznych, w tym z funduszy strukturalnych. W miarę udostępniania majątku inwestorom koszty jego utrzymania będą się zmniejszać. Wysokość wydatków przeznaczonych na marketing i promocję będzie skorelowana z możliwościami finansowymi zarządzającego. Zakłada się, że część wydatków będzie współfinansowana przez instytucje zewnętrzne (środki pomocowe, budżety lokalne). Stałym wydatkiem zarządzającego są koszty funkcjonowania spółki.
+6W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4..
 Polityka rozwoju strefy
 6.1.
 Inwestycje znaczące dla regionów – perspektywy powiększania terenów Zasady włączania do stref nowych obszarów zostały określone w Koncepcji rozwoju specjalnych stref ekonomicznych, zwanej dalej „Koncepcją”, przyjętej przez Radę Ministrów dnia 27 stycznia 2009 r. Koncepcja określa główny cel włączania nowych terenów do specjalnych stref ekonomicznych, którym jest wspieranie nowych inwestycji pożądanych dla gospodarki kraju, a więc takich, które w najwyższym stopniu przyczynią się do zrównoważonego rozwoju społeczno-gospodarczego regionów. Strefa legnicka obejmuje zasięgiem działania dwa województwa: dolnośląskie i lubuskie. Uwzględniając specyficzne uwarunkowania każdego z województw, zróżnicowano politykę zagospodarowania inwestycyjnego terenów. I tak: dla województwa dolnośląskiego – założono pozyskiwanie inwestorów reprezentujących zaawansowane technologie, współpracujących z instytucjami naukowymi oraz zajmujących się gromadzeniem i przetwarzaniem danych. Kolejną ważną gałęzią gospodarczą województwa jest logistyka. Położenie wielu terenów inwestycyjnych wzdłuż autostrad A4 i A18, na skrzyżowaniu głównych szlaków komunikacyjnych wschód-zachód oraz północ-południe, stosunkowo niewielka odległość od granicy z Republiką Federalną Niemiec oraz Republiką Czeską stwarzają bardzo dobre warunki do rozwoju tej dziedziny gospodarki. Ponadto uwzględniając dziedziny, w których województwo dysponuje dużym potencjałem kadro wym oraz zapleczem okołobiznesowym, a także biorąc pod uwagę dotychczasowe kierunki rozwoju przemysłu, zakłada się również przyciąganie inwestorów z branży motoryzacyjnej, maszynowej, tekstylnej, budowlanej oraz spożywczej. Zgodnie z Koncepcją dla województwa dolnośląskiego „kryterium sektorów priorytetowych” poszerza się o wytwórczość części i akcesoriów dla przemysłu oraz o przemysł elektrotechniczny; dla województwa lubuskiego – założono pozyskiwanie inwestorów z branży maszynowej, motoryzacyjnej, elektrotechnicznej, logistycznej i informatycznej gwarantujących tworzenie miejsc pracy w dziedzinach, w których województwo dysponuje dużym potencjałem kadrowym oraz zapleczem okołobiznesowym. Zakłada się również przyciąganie inwestorów zainteresowanych tworzeniem klastrów branżowych przy współudziale lokalnych uczelni i instytucji naukowych ukierunkowanych na transfer innowacyjnej wiedzy do przemysłu. Zgodnie z Koncepcją dla województwa lubuskiego „kryterium sektorów priorytetowych” poszerza się o przemysł produkujący na potrzeby budownictwa oraz o przemysł drzewny. Realizowane działania marketingowo-promocyjne będą zgodne z polityką rozwoju strefy określoną w Koncepcji, a ujęte w niej zasady obejmowania nowych gruntów statusem specjalnej strefy ekonomicznej będą stanowić podstawę do oceny wniosków kierowanych do zarządzającego o włączenie nowych terenów do strefy.
 6.2.
-Etapy rozwoju LSSE Kształtowanie i rozwój strefy jest przedsięwzięciem długofalowym, prowadzonym do końca funkcjonowania strefy, tj. do dnia 31 grudnia 2026 r. Plan rozwoju ma charakter strategiczny oraz długofalowy i dzieli się na 3 etapy: Etap Okres Główne cele etapu I 2009–2018 ● rozwój nowych inwestycji na terenie strefy,● dostosowanie obszarów strefy do potrzeb inwestorów,● kontynuacja rozbudowy infrastruktury technicznej i drogowej oraz realizacja nowych inwestycji w ww. zakresie na terenie poszczególnych podstref,● rozwój usług na terenie strefy i w jej otoczeniu,● osiągnięcie pełnego zagospodarowania strefy II 2019–2024 ● stworzenie przedsiębiorcom optymalnych warunków prowadzenia działalności gospodarczej na terenie strefy III 2025–2026 ● przygotowanie warunków do funkcjonowania obszaru przemysłowego po wygaśnięciu regulacji prawnych obowiązujących w okresie funkcjonowania strefy
+Etapy rozwoju LSSE Kształtowanie i rozwój strefy jest przedsięwzięciem długofalowym, prowadzonym do końca funkcjonowania strefy, tj. do dnia 31 grudnia 2026 r. Plan rozwoju ma charakter strategiczny oraz długofalowy i dzieli się na 3 etapy:
+Etap Okres Główne cele etapu I 2009–2018 ● rozwój nowych inwestycji na terenie strefy,
+● dostosowanie obszarów strefy do potrzeb inwestorów,
+● kontynuacja rozbudowy infrastruktury technicznej i drogowej oraz realizacja nowych inwestycji w ww. zakresie na terenie poszczególnych podstref,
+● rozwój usług na terenie strefy i w jej otoczeniu,
+● osiągnięcie pełnego zagospodarowania strefy II 2019–2024 ● stworzenie przedsiębiorcom optymalnych warunków prowadzenia działalności gospodarczej na terenie strefy III 2025–2026 ● przygotowanie warunków do funkcjonowania obszaru przemysłowego po wygaśnięciu regulacji prawnych obowiązujących w okresie funkcjonowania strefy
 

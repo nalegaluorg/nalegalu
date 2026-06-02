@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 4 sierpnia 2022 r. zmieniające rozporządzenie w sprawie chorób zakaźnych powodujących powstanie obowiązku hospitalizacji
+# Rozporządzenie Ministra Zdrowiaz dnia 4 sierpnia 2022 r. zmieniające rozporządzenie w sprawie chorób zakaźnych powodujących powstanie obowiązku hospitalizacji Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-04 |
 | Data wydania | 2022-08-05 |
-| Wejście w życie | 2022-08-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001654) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1654/text.pdf) |
 
@@ -43,29 +42,22 @@ w § 2 w pkt 2:
 a)
 uchyla się lit. ha,
 b)
-kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
-„
+kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 3)
-osoby, u których stwierdzono zakażenie lub chore oraz podejrzane o zakażenie lub zachorowanie na ospę małpią, jeżeli nie zostały przez lekarza lub felczera skierowane do leczenia lub diagnostyki laboratoryjnej w kierunku wirusa ospy małpiej w ramach obowiązkowej izolacji w warunkach domowych.
-” ;
+osoby, u których stwierdzono zakażenie lub chore oraz podejrzane o zakażenie lub zachorowanie na ospę małpią, jeżeli nie zostały przez lekarza lub felczera skierowane do leczenia lub diagnostyki laboratoryjnej w kierunku wirusa ospy małpiej w ramach obowiązkowej izolacji w warunkach domowych. ” ;
 4)
-po § 2 dodaje się § 2a w brzmieniu:
-„
+po § 2 dodaje się § 2a w brzmieniu: „
 § 2a.
-Obowiązkowej izolacji w warunkach domowych podlegają osoby, u których stwierdzono zakażenie wywołane wirusem ospy małpiej lub zachorowanie na ospę małpią lub podejrzane o zakażenie lub zachorowanie, wobec których lekarz lub felczer nie postanowił o obowiązkowej hospitalizacji.
-” ;
+Obowiązkowej izolacji w warunkach domowych podlegają osoby, u których stwierdzono zakażenie wywołane wirusem ospy małpiej lub zachorowanie na ospę małpią lub podejrzane o zakażenie lub zachorowanie, wobec których lekarz lub felczer nie postanowił o obowiązkowej hospitalizacji. ” ;
 5)
-po § 4 dodaje się § 4a w brzmieniu:
-„
+po § 4 dodaje się § 4a w brzmieniu: „
 § 4a.
 1.
 O zakończeniu izolacji w warunkach domowych postanawia lekarz lub felczer po odbyciu konsultacji z pacjentem, w tym w formie teleporady, nie wcześniej niż w 21 dobie odbywania tej izolacji, a jeżeli pacjent nie ma objawów choroby ospy małpiej – nie wcześniej niż w 14 dobie.
 2.
-W przypadku pacjentów z objawami choroby ospy małpiej lekarz lub felczer może postanowić o przedłużeniu okresu izolacji w warunkach domowych do 30 dni.
-” .
+W przypadku pacjentów z objawami choroby ospy małpiej lekarz lub felczer może postanowić o przedłużeniu okresu izolacji w warunkach domowych do 30 dni. ” .
 § 2.
 W przypadku osób odbywających w dniu wejścia w życie niniejszego rozporządzenia obowiązkową hospitalizację w związku z zakażeniem lub chorobą, podejrzeniem o zakażenie lub zachorowanie na ospę małpią, i skierowanych ze szpitala do odbycia obowiązkowej izolacji w warunkach domowych okres obowiązkowej izolacji w warunkach domowych ulega skróceniu o okres obowiązkowej hospitalizacji, którą te osoby odbyły. Do osób tych stosuje się § 4a rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 

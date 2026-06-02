@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 8 maja 2017 r. w sprawie minimalnych wymagań dotyczących wyposażenia ośrodków adaptacyjnych dla repatriantów
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 8 maja 2017 r. w sprawie minimalnych wymagań dotyczących wyposażenia ośrodków adaptacyjnych dla repatriantów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-05-08 |
 | Data wydania | 2017-05-16 |
-| Wejście w życie | 2017-05-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000956) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/956/text.pdf) |
 
@@ -36,8 +35,7 @@ Rozporządzenie określa minimalne wymagania dotyczące wyposażenia ośrodków 
 2.
 Minimalne wymagania dotyczące wyposażenia ośrodków adaptacyjnych dla repatriantów są określone w załączniku do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088).
 Załącznik – Minimalne wymagania dotyczące wyposażenia ośrodka adaptacyjnego dla repatriantów
 1.
 Obiekt, w którym jest zlokalizowany ośrodek adaptacyjny dla repatriantów, zwany dalej „ośrodkiem”, stanowi odrębny budynek lub wydzieloną część budynku, lub zespół budynków wraz z infrastrukturą towarzyszącą.

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-07-09 |
 | Data wydania | 2012-07-17 |
-| Wejście w życie | 2012-08-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000817) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/817/text.pdf) |
 
@@ -89,5 +88,5 @@ analizowania dokumentacji medycznej i dokumentowania działań położnej.
 § 4.
 Znajomość języka polskiego powinna umożliwiać pielęgniarce i położnej podnoszenie kwalifikacji zawodowych poprzez czynne uczestnictwo w naradach i szkoleniach oraz w kształceniu podyplomowym i ustawicznym.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 30 kwietnia 2004 r. w sprawie szczegółowego zakresu znajomości języka polskiego, koniecznego do wykonywania zawodu pielęgniarki, położnej przez obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej (Dz. U. Nr 104, poz. 1102 oraz z 2007 r. Nr 99, poz. 673), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 102 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039 i Nr 291, poz. 1707). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 30 kwietnia 2004 r. w sprawie szczegółowego zakresu znajomości języka polskiego, koniecznego do wykonywania zawodu pielęgniarki, położnej przez obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej (Dz. U. Nr 104, poz. 1102 oraz z 2007 r. Nr 99, poz. 673), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 102 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039 i Nr 291, poz. 1707).
 

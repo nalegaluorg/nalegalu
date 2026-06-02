@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-12 |
 | Data wydania | 2022-08-08 |
-| Wejście w życie | 2022-08-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001659) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1659/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Dokumentacja w szpitalach więziennych Rozdział 3 – Dokumentacja podmiotu udzielającego świadczeń zdrowotnych w warunkach ambulatoryjnych Rozdział 4 – Zabezpieczenie i przechowywanie dokumentacji Rozdział 5 – Udostępnianie dokumentacji Rozdział 6 – Szczególne wymagania dotyczące dokumentacji prowadzonej w postaci elektronicznej Rozdział 7 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 30 ust. 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2020 r. poz. 849 oraz z 2022 r. poz. 64 i 974) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa rodzaje i zakres dokumentacji medycznej prowadzonej w podmiotach leczniczych dla osób pozbawionych wolności, sposób jej przetwarzania oraz wzory określonych rodzajów dokumentacji medycznej.
 § 2.
@@ -153,6 +153,7 @@ Przez dokonywanie wpisów, o których mowa w ust. 2 i 3, rozumie się również 
 Dokumentacja zbiorcza, jeżeli przepisy rozporządzenia nie stanowią inaczej, zawiera kolejny numer wpisu, dane, o których mowa w § 6 pkt 1, pkt 2 lit. a i b, pkt 3 lit. a i b, pkt 4, oraz, jeżeli wynika to z przeznaczenia dokumentacji, istotne informacje medyczne dotyczące udzielonych świadczeń zdrowotnych.
 § 10.
 Przy dokonywaniu wpisów w dokumentacji dotyczących czasu trwania ciąży, poronień, urodzeń żywych i martwych stosuje się kryteria oceny określone w przepisach wydanych na podstawie art. 30 ust. 1 ustawy.
+Dokumentacja w szpitalach więziennych
 § 11.
 1.
 Szpital więzienny sporządza i prowadzi:
@@ -812,6 +813,7 @@ miejsce zgonu.
 Podmiot prowadzi jedną księgę zgonów dla wszystkich jego komórek organizacyjnych.
 § 35.
 Książka transfuzyjna opatrzona danymi, o których mowa w § 6 pkt 1, oraz nazwą komórki organizacyjnej zawiera informacje określone w przepisach wydanych na podstawie art. 21 ust. 8 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2021 r. poz. 1749 oraz z 2022 r. poz. 974).
+Dokumentacja podmiotu udzielającego świadczeń zdrowotnych w warunkach ambulatoryjnych
 § 36.
 Podmiot udzielający świadczeń zdrowotnych w warunkach ambulatoryjnych sporządza i prowadzi:
 1)
@@ -1041,6 +1043,7 @@ liczbę dni pobytu pacjenta w izbie chorych;
 rozpoznanie ostateczne w języku polskim, z podaniem numerów statystycznych choroby zasadniczej i chorób współistniejących, ustalonych według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych.
 § 45.
 Do księgi zgonów sporządzanej i prowadzonej przez podmiot udzielający świadczeń zdrowotnych jedynie w warunkach ambulatoryjnych stosuje się odpowiednio przepis § 34.
+Zabezpieczenie i przechowywanie dokumentacji
 § 46.
 1.
 Dokumentację medyczną uważa się za zabezpieczoną, jeżeli w sposób ciągły są spełnione łącznie następujące warunki:
@@ -1076,6 +1079,7 @@ Książkę zdrowia prowadzoną w postaci papierowej dołącza się do akt ewiden
 Do ambulatoryjnej historii zdrowia i choroby prowadzonej w postaci papierowej przepis ust. 1 stosuje się odpowiednio.
 § 49.
 W przypadku likwidacji podmiotu dokumentacja jest przekazywana jednostce organizacyjnej przejmującej jego zadania albo archiwum zakładowemu jednostki organizacyjnej Służby Więziennej wskazanemu przez organ, który dokonał likwidacji.
+Udostępnianie dokumentacji
 § 50.
 1.
 Podmiot udostępnia dokumentację bez zbędnej zwłoki.
@@ -1090,6 +1094,7 @@ W dokumentacji indywidualnej wewnętrznej dokonuje się wpisu o wydaniu dokument
 W przypadku gdy udostępnienie dokumentacji nie jest możliwe, odmowa wymaga zachowania formy pisemnej oraz podania przyczyny.
 § 53.
 Oryginały dokumentów, o których mowa w § 13 ust. 2, zwraca się za pokwitowaniem odbioru osadzonemu przy wypisie ze szpitala więziennego, a ich kopie pozostawia się w dokumentacji wewnętrznej szpitala więziennego.
+Szczególne wymagania dotyczące dokumentacji prowadzonej w postaci elektronicznej
 § 54.
 Dokumentacja może być prowadzona w postaci elektronicznej pod warunkiem prowadzenia jej w systemie teleinformatycznym zapewniającym:
 1)
@@ -1129,14 +1134,29 @@ normy międzynarodowe;
 Polskie Normy;
 3)
 europejskie normy tymczasowe.
+Przepisy przejściowe i końcowe
 § 59.
 Dotychczasowe książki zdrowia stają się książkami zdrowia w rozumieniu przepisów niniejszego rozporządzenia i dokonuje się w nich kolejnych wpisów na podstawie niniejszego rozporządzenia.
 § 60.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 26 lutego 2016 r. w sprawie rodzajów i zakresu dokumentacji medycznej prowadzonej w podmiotach leczniczych dla osób pozbawionych wolności oraz sposobu jej przetwarzania (Dz. U. poz. 258), które utraciło moc z dniem 30 kwietnia 2020 r. zgodnie z art. 8 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 2219 oraz z 2020 r. poz. 567). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 26 lutego 2016 r. w sprawie rodzajów i zakresu dokumentacji medycznej prowadzonej w podmiotach leczniczych dla osób pozbawionych wolności oraz sposobu jej przetwarzania (Dz. U. poz. 258), które utraciło moc z dniem 30 kwietnia 2020 r. zgodnie z art. 8 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 2219 oraz z 2020 r. poz. 567).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Dokumentacja w szpitalach więziennych
+#### Rozdział 2 – Dokumentacja w szpitalach więziennych
+
+#### Rozdział 3 – Dokumentacja podmiotu udzielającego świadczeń zdrowotnych w warunkach ambulatoryjnych
+
+#### Rozdział 4 – Zabezpieczenie i przechowywanie dokumentacji
+
+#### Rozdział 5 – Udostępnianie dokumentacji
+
+#### Rozdział 6 – Szczególne wymagania dotyczące dokumentacji prowadzonej w postaci elektronicznej
+
+#### Rozdział 7 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
 
 # Księga główna przyjęć i wypisów jest opatrzona danymi identyfikującymi podmiot, o których mowa w § 6 pkt 1, oraz numerem księgi i zawiera:
 
@@ -1166,7 +1186,7 @@ Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
 # Księga zgonów opatrzona danymi identyfikującymi podmiot, o których mowa w § 6 pkt 1, zawiera:
 
-#### Rozdział 3 Dokumentacja podmiotu udzielającego świadczeń zdrowotnych w warunkach ambulatoryjnych
+#### Rozdział 3
 
 # Księga ambulatoryjna przyjęć opatrzona danymi identyfikującymi podmiot, o których mowa w § 6 pkt 1, oraz nazwą komórki organizacyjnej zawiera:
 
@@ -1174,11 +1194,11 @@ Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
 # Księga izby chorych opatrzona danymi identyfikującymi podmiot, o których mowa w § 6 pkt 1, zawiera:
 
-#### Rozdział 4 Zabezpieczenie i przechowywanie dokumentacji
+#### Rozdział 4
 
-#### Rozdział 5 Udostępnianie dokumentacji
+#### Rozdział 5
 
-#### Rozdział 6 Szczególne wymagania dotyczące dokumentacji prowadzonej w postaci elektronicznej
+#### Rozdział 6
 
-#### Rozdział 7 Przepisy przejściowe i końcowe
+#### Rozdział 7
 

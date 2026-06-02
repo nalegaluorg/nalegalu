@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-12 |
 | Data wydania | 2013-12-16 |
-| Wejście w życie | 2015-08-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001562) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1562/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 74 ust. 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 74 ust. 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 291, poz. 1707, z 2012 r. poz. 1456 oraz z 2013 r. poz. 940, 1245 i 1287.) zarządza się, co następuje:
 § 1.
 1.
 Specjalizacje dla pielęgniarek mogą być prowadzone w dziedzinach pielęgniarstwa:
@@ -123,5 +122,5 @@ rodzinnego.
 4.
 Kurs kwalifikacyjny dla pielęgniarek i położnych może być prowadzony w dziedzinie pielęgniarstwa epidemiologicznego.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 24 sierpnia 2015 r.
+Rozporządzenie wchodzi w życie z dniem 24 sierpnia 2015 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 29 października 2003 r. w sprawie wykazu dziedzin pielęgniarstwa oraz dziedzin mających zastosowanie w ochronie zdrowia, w których może być prowadzona specjalizacja i kursy kwalifikacyjne, oraz ramowych programów specjalizacji dla pielęgniarek i położnych (Dz. U. Nr 197, poz. 1922 oraz z 2007 r. Nr 102, poz. 708), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 102 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039 i Nr 291, poz. 1707, z 2012 r. poz. 1456 oraz z 2013 r. poz. 940, 1245 i 1287). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 291, poz. 1707, z 2012 r. poz. 1456 oraz z 2013 r. poz. 940, 1245 i 1287. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 29 października 2003 r. w sprawie wykazu dziedzin pielęgniarstwa oraz dziedzin mających zastosowanie w ochronie zdrowia, w których może być prowadzona specjalizacja i kursy kwalifikacyjne, oraz ramowych programów specjalizacji dla pielęgniarek i położnych (Dz. U. Nr 197, poz. 1922 oraz z 2007 r. Nr 102, poz. 708), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 102 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039 i Nr 291, poz. 1707, z 2012 r. poz. 1456 oraz z 2013 r. poz. 940, 1245 i 1287).
 

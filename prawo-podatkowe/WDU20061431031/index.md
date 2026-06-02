@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-07-13 |
 | Data wydania | 2006-08-10 |
-| Wejście w życie | 2006-08-10 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061431031) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1031/text.pdf) |
 
@@ -70,5 +69,5 @@ source: "eli-html"
 - **1)** tryb składania oraz wzór zawiadomienia, o którym mowa w § 1, uwzględniając dane identyfikujące podatnika lub płatnika, dane identyfikujące osobę upoważnioną do elektronicznego podpisywania deklaracji, a także zakres jej upoważnienia;
 - **2)** tryb składania zgłoszenia oraz strukturę logiczną zgłoszenia, o którym mowa w § 2, uwzględniając dane identyfikujące podatnika lub płatnika, dane identyfikujące osobę upoważnioną oraz zakres jej upoważnienia do elektronicznego podpisywania deklaracji. Składanie deklaracji za pomocą środków komunikacji elektronicznej wójtowi, burmistrzowi (prezydentowi miasta), staroście, marszałkowi województwa regulują odrębne przepisy.”; ” . ” .
 
-**Art. 2.** W okresie od dnia 16 sierpnia 2006 r. do dnia 31 grudnia 2006 r. deklaracje określone w rozporządzeniu wydanym na podstawie art. 3a § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.) mogą składać, za pomocą środków komunikacji elektronicznej, tylko podmioty, o których mowa w art. 5 ust. 9b pkt 7 lit. a ustawy z dnia 21 czerwca 1996 r. o urzędach i izbach skarbowych (Dz. U. z 2004 r. Nr 121, poz. 1267 i Nr 273, poz. 2703 oraz z 2005 r. Nr 183, poz. 1538 i Nr 249, poz. 2104). Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 2.** W okresie od dnia 16 sierpnia 2006 r. do dnia 31 grudnia 2006 r. deklaracje określone w rozporządzeniu wydanym na podstawie art. 3a § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199 oraz z 2006 r. Nr 66, poz. 470 i Nr 104, poz. 708.) mogą składać, za pomocą środków komunikacji elektronicznej, tylko podmioty, o których mowa w art. 5 ust. 9b pkt 7 lit. a ustawy z dnia 21 czerwca 1996 r. o urzędach i izbach skarbowych (Dz. U. z 2004 r. Nr 121, poz. 1267 i Nr 273, poz. 2703 oraz z 2005 r. Nr 183, poz. 1538 i Nr 249, poz. 2104). Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199 oraz z 2006 r. Nr 66, poz. 470 i Nr 104, poz. 708.
 

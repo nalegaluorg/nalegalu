@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 4 kwietnia 2017 r. w sprawie wysokości i sposobu uiszczania opłaty za stwierdzenie prawa wykonywania zawodu fizjoterapeuty
+# Rozporządzenie Ministra Zdrowiaz dnia 4 kwietnia 2017 r. w sprawie wysokości i sposobu uiszczania opłaty za stwierdzenie prawa wykonywania zawodu fizjoterapeuty Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-04 |
 | Data wydania | 2017-04-10 |
-| Wejście w życie | 2017-04-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000749) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/749/text.pdf) |
 
@@ -34,6 +33,5 @@ Wysokość opłaty za stwierdzenie prawa wykonywania zawodu fizjoterapeuty wynos
 2.
 Opłatę, o której mowa w ust. 1, fizjoterapeuta uiszcza na rachunek bankowy wskazany na stronie internetowej Krajowej Izby Fizjoterapeutów.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 

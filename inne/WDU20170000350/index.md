@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 21 lutego 2017 r. zmieniające rozporządzenie w sprawie wpisu na listę agentów celnych
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 21 lutego 2017 r. zmieniające rozporządzenie w sprawie wpisu na listę agentów celnych Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-21 |
 | Data wydania | 2017-02-24 |
-| Wejście w życie | 2017-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000350) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/350/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 80 ust. 8 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. 
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 27 listopada 2014 r. w sprawie wpisu na listę agentów celnych (Dz. U. poz. 1702) w § 4 w ust. 1 we wprowadzeniu do wyliczenia wyrazy „dyrektora izby celnej” zastępuje się wyrazami „dyrektora izby administracji skarbowej”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 

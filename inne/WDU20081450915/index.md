@@ -22,21 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-07-10 |
 | Data wydania | 2008-08-08 |
-| Wejście w życie | 2008-08-08 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081450915) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/915/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 23 stycznia 2004 r. o podatku akcyzowym (Dz. U. Nr 29, poz. 257, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 23 stycznia 2004 r. o podatku akcyzowym (Dz. U. Nr 29, poz. 257, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 68, poz. 623, z 2005 r. Nr 160, poz. 1341, z 2006 r. Nr 169, poz. 1199, z 2007 r. Nr 99, poz. 666 oraz z 2008 r. Nr 118, poz. 745.) wprowadza się następujące zmiany:
 
 - **1)** w art. 30 ust. 2 otrzymuje brzmienie: „
 
-2. Produkcja i przetwarzanie wyrobów akcyzowych zharmonizowanych mogą odbywać się wyłącznie w składzie podatkowym, z wyłączeniem produkcji win gronowych uzyskanych z winogron pochodzących z upraw własnych, o których mowa w art. 16 ust. 3 ustawy z dnia 22 stycznia 2004 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 34, poz. 292, z późn. zm.), w ilości mniejszej niż 1000 hl w ciągu roku kalendarzowego. ” ;
+2. Produkcja i przetwarzanie wyrobów akcyzowych zharmonizowanych mogą odbywać się wyłącznie w składzie podatkowym, z wyłączeniem produkcji win gronowych uzyskanych z winogron pochodzących z upraw własnych, o których mowa w art. 16 ust. 3 ustawy z dnia 22 stycznia 2004 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 34, poz. 292, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808 oraz z 2006 r. Nr 171, poz. 1225 i Nr 208, poz. 1541.), w ilości mniejszej niż 1000 hl w ciągu roku kalendarzowego. ” ;
 
 - **2)** w art. 87 ust. 1 otrzymuje brzmienie: „
 
 1. Wyroby akcyzowe podlegające obowiązkowi oznaczania znakami akcyzy muszą być prawidłowo oznaczone odpowiednimi znakami akcyzy przed zakończeniem procedury zawieszenia poboru akcyzy, a w przypadku win gronowych, o których mowa w art. 30 ust. 2, przed ich przekazaniem do magazynu wyrobów gotowych lub dokonaniem ich sprzedaży. ” .
 
-**Art. 2.** W ustawie z dnia 22 stycznia 2004 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 34, poz. 292, z późn. zm.) po art. 17 dodaje się art. 17a w brzmieniu: „
+**Art. 2.** W ustawie z dnia 22 stycznia 2004 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 34, poz. 292, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808 oraz z 2006 r. Nr 171, poz. 1225 i Nr 208, poz. 1541.) po art. 17 dodaje się art. 17a w brzmieniu: „
 
 **Art. 17a.**
 
@@ -59,5 +58,5 @@ source: "eli-html"
 
 2. W zakresie dotyczącym podmiotów, o których mowa w ust. 1, informacje wymienione w art. 26a ustawy, o której mowa w art. 2, są przekazywane niezwłocznie, jednak nie później niż do dnia 13 września 2008 r.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 68, poz. 623, z 2005 r. Nr 160, poz. 1341, z 2006 r. Nr 169, poz. 1199, z 2007 r. Nr 99, poz. 666 oraz z 2008 r. Nr 118, poz. 745. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808 oraz z 2006 r. Nr 171, poz. 1225 i Nr 208, poz. 1541. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808 oraz z 2006 r. Nr 171, poz. 1225 i Nr 208, poz. 1541.
 

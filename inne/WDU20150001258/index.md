@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-24 |
 | Data wydania | 2015-08-28 |
-| Wejście w życie | 2015-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001258) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1258/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Ocenianie, klasyfikowanie i promowanie uczniów Rozdział 2 – Egzamin dyplomowy Rozdział 3 – Przepisy przejściowe i końcowe
 Treść rozporządzenia
-Na podstawie art. 44zq ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 44zq ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650, z 2014 r. poz. 7, 290, 538, 598, 642, 811, 1146, 1198 i 1877 oraz z 2015 r. poz. 357, 1045 i 1240.) zarządza się, co następuje:
+Ocenianie, klasyfikowanie i promowanie uczniów
 § 1.
 1.
 Wymagania edukacyjne, o których mowa w art. 44zd ust. 6 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty, zwanej dalej „ustawą”, dostosowuje się do indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych ucznia:
@@ -65,8 +65,7 @@ plastyki w szkole muzycznej i szkole baletowej,
 2)
 chóru w szkole muzycznej,
 3)
-muzyki w szkole plastycznej
-na podstawie opinii o ograniczonych możliwościach uczestniczenia ucznia w tych zajęciach, wydanej przez lekarza, na czas określony w tej opinii.
+muzyki w szkole plastycznej – na podstawie opinii o ograniczonych możliwościach uczestniczenia ucznia w tych zajęciach, wydanej przez lekarza, na czas określony w tej opinii.
 4.
 Jeżeli okres zwolnienia ucznia z realizacji obowiązkowych zajęć edukacyjnych, o którym mowa w ust. 2 i 3, uniemożliwia ustalenie śródrocznej lub rocznej, a w przypadku szkoły policealnej i szkoły pomaturalnej bibliotekarskiej i animatorów kultury, zwanych dalej „szkołami policealnymi” – semestralnej, oceny klasyfikacyjnej, w dokumentacji przebiegu nauczania zamiast oceny klasyfikacyjnej wpisuje się „zwolniony” albo „zwolniona”.
 5.
@@ -459,6 +458,7 @@ Rada pedagogiczna rozpatruje wniosek nie później niż do dnia 15 października
 Dyrektor szkoły artystycznej niezwłocznie informuje na piśmie rodziców albo pełnoletniego ucznia o wyrażeniu przez radę pedagogiczną zgody na realizowanie przez ucznia obowiązkowych zajęć edukacyjnych w ciągu dwóch kolejnych lat albo niewyrażeniu takiej zgody wraz z podaniem przyczyny.
 5.
 W przypadku wyrażenia zgody na realizowanie obowiązkowych zajęć edukacyjnych w ciągu dwóch kolejnych lat, uczeń nie jest klasyfikowany w pierwszym roku realizacji tych zajęć.
+Egzamin dyplomowy
 § 23.
 1.
 W szkole muzycznej egzamin dyplomowy:
@@ -541,8 +541,7 @@ szkoły muzycznej, z wyjątkiem uczniów kształcących się w specjalności ryt
 c)
 szkoły muzycznej kształcących się w specjalności lutnictwo – projekcie instrumentu muzycznego,
 d)
-szkoły sztuki cyrkowej – programie pokazu dyplomowego
-które uczniowie przygotowują do części praktycznej egzaminu dyplomowego.
+szkoły sztuki cyrkowej – programie pokazu dyplomowego – które uczniowie przygotowują do części praktycznej egzaminu dyplomowego.
 2.
 W szkole policealnej nauczyciele przekazują uczniom informacje, o których mowa w ust. 1, przed zakończeniem semestru poprzedzającego semestr, w którym uczniowie mają przystąpić do egzaminu dyplomowego.
 § 29.
@@ -626,6 +625,7 @@ zadania egzaminacyjne lub program artystyczny wykonywany podczas egzaminu;
 oceny z poszczególnych części egzaminu dyplomowego.
 2.
 Protokół podpisują osoby wchodzące w skład komisji dyplomowej. Do protokołu dołącza się pisemne prace ucznia. Protokół stanowi załącznik do arkusza ocen ucznia.
+Przepisy przejściowe i końcowe
 § 37.
 Opinie poradni psychologiczno-pedagogicznych, w tym poradni specjalistycznych, o specyficznych trudnościach w uczeniu się wydane przed dniem wejścia w życie rozporządzenia zachowują ważność i mogą być podstawą dostosowania wymagań edukacyjnych, o którym mowa w art. 44zd ust. 11 ustawy.
 § 38.
@@ -633,11 +633,17 @@ Opinie o ograniczonych możliwościach uczestniczenia ucznia w zajęciach wychow
 § 39.
 Projekty edukacyjne w szkole artystycznej realizującej kształcenie ogólne w zakresie gimnazjum, których realizacja rozpoczęła się przed dniem wejścia w życie rozporządzenia, są prowadzone do ich zakończenia zgodnie z ustalonymi dla nich warunkami.
 § 40.
-Rozporządzenie wchodzi w życie z dniem 1 września 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 września 2015 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 8 kwietnia 2008 r. w sprawie warunków i sposobu oceniania, klasyfikowania i promowania uczniów oraz przeprowadzania sprawdzianów i egzaminów w publicznych szkołach i placówkach artystycznych (Dz. U. Nr 65, poz. 400, z 2009 r. Nr 136, poz. 1117 i Nr 174, poz. 1352, z 2011 r. Nr 71, poz. 377 i Nr 187, poz. 1119 oraz z 2013 r. poz. 993), które utraciło moc z dniem 31 marca 2015 r. w związku z wejściem w życie ustawy z dnia 20 lutego 2015 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 357). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650, z 2014 r. poz. 7, 290, 538, 598, 642, 811, 1146, 1198 i 1877 oraz z 2015 r. poz. 357, 1045 i 1240. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 8 kwietnia 2008 r. w sprawie warunków i sposobu oceniania, klasyfikowania i promowania uczniów oraz przeprowadzania sprawdzianów i egzaminów w publicznych szkołach i placówkach artystycznych (Dz. U. Nr 65, poz. 400, z 2009 r. Nr 136, poz. 1117 i Nr 174, poz. 1352, z 2011 r. Nr 71, poz. 377 i Nr 187, poz. 1119 oraz z 2013 r. poz. 993), które utraciło moc z dniem 31 marca 2015 r. w związku z wejściem w życie ustawy z dnia 20 lutego 2015 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 357).
 
-#### Rozdział 1 Ocenianie, klasyfikowanie i promowanie uczniów
+#### Rozdział 1 – Ocenianie, klasyfikowanie i promowanie uczniów
 
-#### Rozdział 2 Egzamin dyplomowy
+#### Rozdział 2 – Egzamin dyplomowy
 
-#### Rozdział 3 Przepisy przejściowe i końcowe
+#### Rozdział 3 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 

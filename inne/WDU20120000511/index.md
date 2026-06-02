@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-04-24 |
 | Data wydania | 2012-05-14 |
-| Wejście w życie | 2012-05-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000511) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/511/text.pdf) |
 
@@ -110,7 +109,7 @@ Dane zawarte w tabelach, o których mowa w ust. 5, uwzględniają stan na dzień
 § 3.
 Dodatek do projektu zagospodarowania złoża powinien spełniać wymagania przewidziane dla projektów zagospodarowania złóż i uwzględniać różnice w stosunku do projektu zagospodarowania złoża.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 27 czerwca 2005 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać projekty zagospodarowania złóż (Dz. U. Nr 128, poz. 1075 oraz z 2006 r. Nr 107, poz. 735), które na podstawie art. 224 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 27 czerwca 2005 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać projekty zagospodarowania złóż (Dz. U. Nr 128, poz. 1075 oraz z 2006 r. Nr 107, poz. 735), które na podstawie art. 224 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 
 ## Część opisowa projektów zagospodarowania złóż, z uwzględnieniem zamierzonego sposobu eksploatacji, rodzaju kopaliny i warunków geologicznych prowadzenia eksploatacji, zawiera odpowiednio:
 

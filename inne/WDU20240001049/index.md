@@ -33,13 +33,11 @@ Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og�
 1)
 ustawą z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 2029),
 2)
-ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 lipca 2024 r.
+ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834) oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 lipca 2024 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 76 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 2029), który stanowi:
-„
+art. 76 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 2029), który stanowi: „
 
 **Art. 76.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 
@@ -111,24 +109,18 @@ art. 76 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne 
 
 **Art. 6.**
 
-1. Stopień generalnego dyrektora górnictwa przysługuje:
+1. Stopień generalnego dyrektora górnictwa przysługuje: 1Ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r.) ministrowi właściwemu do spraw gospodarki surowcami energetycznymi; 1aDodany przez art. 10 pkt 1 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 2029), która weszła w życie z dniem 28 października 2023 r.) ministrowi właściwemu do spraw środowiska; 2Ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r.) sekretarzowi stanu w urzędzie obsługującym ministra właściwego do spraw gospodarki surowcami energetycznymi odpowiedzialnemu za sprawy górnictwa;
 
-- **1)** ministrowi właściwemu do spraw gospodarki surowcami energetycznymi;
-- **1a)** ministrowi właściwemu do spraw środowiska;
-- **2)** sekretarzowi stanu w urzędzie obsługującym ministra właściwego do spraw gospodarki surowcami energetycznymi odpowiedzialnemu za sprawy górnictwa;
 - **3)** Prezesowi Wyższego Urzędu Górniczego;
 - **4)** Głównemu Geologowi Kraju;
 - **5)** podsekretarzom stanu w urzędach obsługujących organy administracji rządowej odpowiedzialnym za sprawy górnictwa.
 
-2. Stopień generalnego dyrektora górnictwa jest nadawany przez Prezesa Rady Ministrów.
-
-3. W przypadku osób, o których mowa w ust. 1 pkt 5, Prezes Rady Ministrów nadaje stopień generalnego dyrektora górnictwa na wniosek ministra właściwego do spraw gospodarki surowcami energetycznymi lub ministra właściwego do spraw środowiska.
+2. Stopień generalnego dyrektora górnictwa jest nadawany przez Prezesa Rady Ministrów. 3W brzmieniu ustalonym przez art. 10 pkt 2 ustawy, o której mowa w odnośniku 2; ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy, o której mowa w odnośniku 1.. W przypadku osób, o których mowa w ust. 1 pkt 5, Prezes Rady Ministrów nadaje stopień generalnego dyrektora górnictwa na wniosek ministra właściwego do spraw gospodarki surowcami energetycznymi lub ministra właściwego do spraw środowiska.
 
 **Art. 7.**
 
-1. Minister właściwy do spraw gospodarki surowcami energetycznymi, na wniosek kierownika jednostki organizacyjnej działającej w dziedzinie górnictwa, nadaje następujące stopnie górnicze:
+1. Minister właściwy do spraw gospodarki surowcami energetycznymi, na wniosek kierownika jednostki organizacyjnej działającej w dziedzinie górnictwa, nadaje następujące stopnie górnicze:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy, o której mowa w odnośniku 1. 1Ze zmianą wprowadzoną przez art. 14 pkt 2 ustawy, o której mowa w odnośniku 1.) generalnego dyrektora górniczego;
 
-- **1)** generalnego dyrektora górniczego;
 - **2)** generalnego honorowego dyrektora górniczego;
 - **3)** dyrektora górniczego.
 
@@ -186,7 +178,7 @@ art. 76 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne 
 
 2. Honorowa szpada górnicza przyznawana jest bezpłatnie, a koszty z tym związane ponosi jednostka organizacyjna, o której mowa w ust. 1.
 
-**Art. 15.** Minister właściwy do spraw gospodarki surowcami energetycznymi, w drodze rozporządzenia, określi:
+**Art. 15.** Minister właściwy do spraw gospodarki surowcami energetycznymi, w drodze rozporządzenia, określi:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy, o której mowa w odnośniku 1.
 
 - **1)** wzór wniosku, o którym mowa w art. 7;
 - **2)** wykaz stanowisk służbowych oraz związanych z nimi stopni górniczych;
@@ -195,8 +187,5 @@ art. 76 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne 
 
 **Art. 16.** Osoby, którym nadano stopnie górnicze oraz przyznano honorowe szpady górnicze przed dniem wejścia w życie niniejszej ustawy, zachowują posiadane uprawnienia.
 
-**Art. 17.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-
-- **1)** Ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r. 2) Dodany przez art. 10 pkt 1 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 2029), która weszła w życie z dniem 28 października 2023 r. 3) W brzmieniu ustalonym przez art. 10 pkt 2 ustawy, o której mowa w odnośniku 2; ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy, o której mowa w odnośniku 1. 4) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy, o której mowa w odnośniku 1. 5) Ze zmianą wprowadzoną przez art. 14 pkt 2 ustawy, o której mowa w odnośniku 1. 6) Ustawa została ogłoszona w dniu 28 marca 2003 r.
-
+**Art. 17.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 28 marca 2003 r.. 1) Ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r. 2) Dodany przez art. 10 pkt 1 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 2029), która weszła w życie z dniem 28 października 2023 r. 3) W brzmieniu ustalonym przez art. 10 pkt 2 ustawy, o której mowa w odnośniku 2; ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy, o której mowa w odnośniku 1. 4) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy, o której mowa w odnośniku 1. 5) Ze zmianą wprowadzoną przez art. 14 pkt 2 ustawy, o której mowa w odnośniku 1. 6) Ustawa została ogłoszona w dniu 28 marca 2003 r.
 

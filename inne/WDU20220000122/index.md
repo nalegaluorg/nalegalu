@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 3 stycznia 2022 r. zmieniające rozporządzenie w sprawie warunków technicznych pojazdów oraz zakresu ich niezbędnego wyposażenia
+# Rozporządzenie Ministra Infrastrukturyz dnia 3 stycznia 2022 r. zmieniające rozporządzenie w sprawie warunków technicznych pojazdów oraz zakresu ich niezbędnego wyposażenia Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-03 |
 | Data wydania | 2022-01-18 |
-| Wejście w życie | 2022-02-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000122) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/122/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 66 ust. 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2021 r. poz. 450, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 66 ust. 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2021 r. poz. 450, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 463, 694, 720, 1641, 1997, 2165, 2269 i 2328.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Infrastruktury z dnia 31 grudnia 2002 r. w sprawie warunków technicznych pojazdów oraz zakresu ich niezbędnego wyposażenia (Dz. U. z 2016 r. poz. 2022, z 2017 r. poz. 2338, z 2018 r. poz. 855, z 2019 r. poz. 2560, z 2020 r. poz. 1886 oraz z 2021 r. poz. 1877) wprowadza się następujące zmiany:
 1)
 w § 26 w ust. 2 w pkt 1 wyraz „dziesięć” zastępuje się wyrazem „trzydzieści”;
 2)
-§ 31 otrzymuje brzmienie:
-„
+§ 31 otrzymuje brzmienie: „
 § 31.
 1.
 Pojazd Policji, z wyjątkiem motocykla, powinien mieć srebrną barwę nadwozia oraz powinien być oznakowany:
@@ -81,21 +79,17 @@ odblaskowy napis „POLICJA” barwy białej z przodu i z tyłu motocykla, z tym
 4)
 pasy odblaskowe barwy żółto-zielonej fluorescencyjnej po obu stronach oraz z przodu i z tyłu motocykla, umieszczone z dostosowaniem do linii nadwozia na górnej i dolnej części motocykla.
 6.
-W ruchu może również uczestniczyć motocykl Policji niespełniający warunków określonych w ust. 4 oraz w § 26 ust. 1 pkt 2.
-” ;
+W ruchu może również uczestniczyć motocykl Policji niespełniający warunków określonych w ust. 4 oraz w § 26 ust. 1 pkt 2. ” ;
 3)
-w § 36 ust. 2 i 3 otrzymują brzmienie:
-„
+w § 36 ust. 2 i 3 otrzymują brzmienie: „
 2.
 Pasy wyróżniające pojazdów Policji i Żandarmerii Wojskowej o szerokości co najmniej 8 cm powinny być umieszczone z dostosowaniem do linii nadwozia poniżej dolnej krawędzi okien na każdym boku pojazdu. Pas wyróżniający dostosowany do linii nadwozia może być również umieszczony z tyłu pojazdu.
 3.
-Pas wyróżniający motocykli Policji i Żandarmerii Wojskowej o szerokości co najmniej 8 cm powinien być umieszczony z dostosowaniem do linii nadwozia co najmniej po obu stronach motocykla na owiewkach i kufrach bocznych.
-” .
+Pas wyróżniający motocykli Policji i Żandarmerii Wojskowej o szerokości co najmniej 8 cm powinien być umieszczony z dostosowaniem do linii nadwozia co najmniej po obu stronach motocykla na owiewkach i kufrach bocznych. ” .
 § 2.
 Dopuszcza się do ruchu pojazdy Policji, w tym motocykle, które przed dniem wejścia w życie niniejszego rozporządzenia nie spełniają wymagań, o których mowa w § 31 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
 Dopuszcza się do ruchu pojazdy Policji oraz Żandarmerii Wojskowej, w tym motocykle, które przed dniem wejścia w życie niniejszego rozporządzenia nie spełniają wymagań, o których mowa w § 36 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 463, 694, 720, 1641, 1997, 2165, 2269 i 2328.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 463, 694, 720, 1641, 1997, 2165, 2269 i 2328.
 

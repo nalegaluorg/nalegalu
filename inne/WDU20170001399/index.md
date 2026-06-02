@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 14 lipca 2017 r. w sprawie procedury przyznawania danych dostępowych do bazy danych systemu informacji oświatowej
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 14 lipca 2017 r. w sprawie procedury przyznawania danych dostępowych do bazy danych systemu informacji oświatowej Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-14 |
 | Data wydania | 2017-07-20 |
-| Wejście w życie | 2017-07-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001399) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1399/text.pdf) |
 
@@ -153,6 +152,5 @@ Po stwierdzeniu poprawności danych zawartych we wniosku, a w przypadku gdy wnio
 § 10.
 Wnioski o udzielenie upoważnienia do dostępu do bazy danych SIO złożone i nierozpatrzone przed dniem wejścia w życie rozporządzenia pozostawia się bez rozpatrzenia.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 24 lipca 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 24 kwietnia 2012 r. w sprawie procedury weryfikacji dostępu do bazy danych systemu informacji oświatowej (Dz. U. poz. 466), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 21 kwietnia 2017 r. o zmianie ustawy o systemie informacji oświatowej oraz niektórych innych ustaw (Dz. U. poz. 949).
+Rozporządzenie wchodzi w życie z dniem 24 lipca 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 24 kwietnia 2012 r. w sprawie procedury weryfikacji dostępu do bazy danych systemu informacji oświatowej (Dz. U. poz. 466), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 21 kwietnia 2017 r. o zmianie ustawy o systemie informacji oświatowej oraz niektórych innych ustaw (Dz. U. poz. 949). 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 24 kwietnia 2012 r. w sprawie procedury weryfikacji dostępu do bazy danych systemu informacji oświatowej (Dz. U. poz. 466), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 21 kwietnia 2017 r. o zmianie ustawy o systemie informacji oświatowej oraz niektórych innych ustaw (Dz. U. poz. 949).
 

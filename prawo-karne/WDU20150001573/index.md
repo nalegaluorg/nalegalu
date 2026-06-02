@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-10 |
 | Data wydania | 2015-10-09 |
-| Wejście w życie | 2015-10-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001573) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1573/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849, z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344, z 2009 r. Nr 8, poz. 39, Nr 22, poz. 119, Nr 62, poz. 504, Nr 98, poz. 817, Nr 108, poz. 911, Nr 115, poz. 963, Nr 190, poz. 1475, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 34, poz. 191, Nr 40, poz. 227, Nr 125, poz. 842 i Nr 182, poz. 1228, z 2011 r. Nr 39, poz. 201 i 202, Nr 112, poz. 654, Nr 129, poz. 734, Nr 185, poz. 1092, Nr 217, poz. 1280 i Nr 240, poz. 1431, z 2012 r. poz. 908, z 2013 r. poz. 628 i 1247, z 2014 r. poz. 287, 619 i 1707 oraz z 2015 r. poz. 21, 396, 431, 541 i 1269.) wprowadza się następujące zmiany:
 
 - **1)** w art. 76 w § 1 pkt 7 otrzymuje brzmienie: „
 - **7)** kwalifikowanie skazanego – jako stwarzającego poważne zagrożenie społeczne albo poważne zagrożenie dla bezpieczeństwa zakładu oraz dokonywanie, co najmniej raz na 3 miesiące, weryfikacji tej decyzji, ” ;
@@ -114,5 +113,5 @@ source: "eli-html"
 
 § 3. Przepisy art. 88b § 2 i 3 stosuje się odpowiednio. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849, z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344, z 2009 r. Nr 8, poz. 39, Nr 22, poz. 119, Nr 62, poz. 504, Nr 98, poz. 817, Nr 108, poz. 911, Nr 115, poz. 963, Nr 190, poz. 1475, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 34, poz. 191, Nr 40, poz. 227, Nr 125, poz. 842 i Nr 182, poz. 1228, z 2011 r. Nr 39, poz. 201 i 202, Nr 112, poz. 654, Nr 129, poz. 734, Nr 185, poz. 1092, Nr 217, poz. 1280 i Nr 240, poz. 1431, z 2012 r. poz. 908, z 2013 r. poz. 628 i 1247, z 2014 r. poz. 287, 619 i 1707 oraz z 2015 r. poz. 21, 396, 431, 541 i 1269.
 

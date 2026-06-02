@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 października 2010 r. o zmianie ustawy o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego oraz niektórych innych ustaw
+# Ustawa z dnia 22 października 2010 r. o zmianie ustawy o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego oraz niektórych innych ustaw Niniejszą ustawą zmienia się: ustawę z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych, ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii i ustawę z dnia 22 maja 2009 r. o funduszach promocji produktów rolno-spożywczych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-10-22 |
 | Data wydania | 2010-12-02 |
-| Wejście w życie | 2010-12-17 |
 | Ostatnia zmiana | 2025-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102281486) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1486/text.pdf) |
+
+Rynki lnu i konopi uprawianych na włókno
+Rynek zbóż
 
 **Art. 1.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego (Dz. U. z 2008 r. Nr 11, poz. 70, Nr 52, poz. 303 i Nr 158, poz. 989) wprowadza się następujące zmiany:
 
@@ -77,28 +79,35 @@ source: "eli-html"
 
 4. Minister właściwy do spraw rynków rolnych, w przypadku braku zastrzeżeń Komisji Europejskiej do opracowanego projektu ram krajowych, określi, w drodze rozporządzenia, warunki i sposób wdrażania strategii krajowej w programach operacyjnych, mając na względzie wytyczne Komisji Europejskiej w tym zakresie. ” ;
 
-- **9)** w art. 9: w ust. 1: – uchyla się pkt 5, 6a i 7, – w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „ 13) zawieszenia zatwierdzenia programu operacyjnego realizowanego przez organizację producentów lub zrzeszenie organizacji producentów. ” , w ust. 2 pkt 1 i 2 otrzymują brzmienie: „
+- **9)** w art. 9: w ust. 1: – uchyla się pkt 5, 6a i 7, w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „
     - **a)**
+
+- **13)** zawieszenia zatwierdzenia programu operacyjnego realizowanego przez organizację producentów lub zrzeszenie organizacji producentów. ” , w ust. 2 pkt 1 i 2 otrzymują brzmienie: „
     - **b)**
 
 - **1)** opiniuje grupie producentów ubiegającej się o wstępne uznanie plan dochodzenia do uznania oraz jego zmiany w zakresie dokładności informacji podanych w planie, jego spójności handlowej i jakości technicznej, rzetelności szacunków i harmonogramu jego wdrożenia, kwalifikowalności zaproponowanych inwestycji oraz zasadności wydatków z nimi związanych – w terminie miesiąca od dnia złożenia tego planu lub jego zmiany;
 - **2)** monitoruje sposób wdrażania przez organizacje producentów strategii krajowej w programach operacyjnych. ” , ust. 3 otrzymuje brzmienie: „
     - **c)**
 
-3. Odwołanie od decyzji, o których mowa w ust. 1 pkt 1–4 i 6, nie wstrzymuje ich wykonania. ” , w ust. 5: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wnioski o wydanie decyzji, o których mowa w ust. 1 pkt 1 -4 i 6, zawierają: ” , – w pkt 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ w przypadku decyzji, o której mowa w ust. 1 pkt 3: ” , – uchyla się pkt 5, w ust. 6: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do wniosków o wydanie decyzji, o których mowa w ust. 1 pkt 1–4 i 6, dołącza się: ” , – pkt 2 otrzymuje brzmienie: „ 2) kopie decyzji, o których mowa w art. 2 ust. 1 pkt 1–4. ” , ust. 7 otrzymuje brzmienie: „
+3. Odwołanie od decyzji, o których mowa w ust. 1 pkt 1–4 i 6, nie wstrzymuje ich wykonania. ” , w ust. 5: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wnioski o wydanie decyzji, o których mowa w ust. 1 pkt 1 -4 i 6, zawierają: ” , – w pkt 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ w przypadku decyzji, o której mowa w ust. 1 pkt 3: ” , – uchyla się pkt 5, w ust. 6: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do wniosków o wydanie decyzji, o których mowa w ust. 1 pkt 1–4 i 6, dołącza się: ” , pkt 2 otrzymuje brzmienie: „
 
 - **d)**
 - **e)**
-- **f)**
+- **2)** kopie decyzji, o których mowa w art. 2 ust. 1 pkt 1–4. ” , ust. 7 otrzymuje brzmienie: „
+    - **f)**
 
-7. Wnioski o wydanie decyzji, o których mowa w ust. 1 pkt 1–4 i 6, składa się na formularzach opracowanych przez Agencję Restrukturyzacji i udostępnionych na stronie internetowej administrowanej przez Agencję Restrukturyzacji. ” , w ust. 7a: – pkt 1 i 2 otrzymują brzmienie: „ 1) pkt 3, są wydawane w terminie 3 miesięcy od dnia złożenia wniosku; 2) pkt 4, są wydawane w terminie 3 miesięcy od dnia złożenia wniosku; ” , – uchyla się pkt 3 i 5;
+7. Wnioski o wydanie decyzji, o których mowa w ust. 1 pkt 1–4 i 6, składa się na formularzach opracowanych przez Agencję Restrukturyzacji i udostępnionych na stronie internetowej administrowanej przez Agencję Restrukturyzacji. ” , w ust. 7a: pkt 1 i 2 otrzymują brzmienie: „
 
 - **g)**
+- **1)** pkt 3, są wydawane w terminie 3 miesięcy od dnia złożenia wniosku;
+- **2)** pkt 4, są wydawane w terminie 3 miesięcy od dnia złożenia wniosku; ” , – uchyla się pkt 3 i 5;
 - **10)** w art. 10: pkt 1 otrzymuje brzmienie: „
     - **a)**
 
-- **1)** dokonuje wypłaty środków finansowych przyznanych w decyzjach, o których mowa w art. 9 ust. 1 pkt 3, 4 i 6, w terminie 30 dni od dnia wydania każdej z tych decyzji; ” , w pkt 2: – lit. a otrzymuje brzmienie: „ a) całkowitej kwocie funduszy operacyjnych wraz z całkowitą kwotą pomocy finansowej na dofinansowanie funduszy operacyjnych organizacji producentów, ” , – w lit. b kropkę zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ c) udzieleniu i wypłacie pomocy finansowej i innych środków finansowych wstępnie uznanym grupom producentów i uznanym organizacjom producentów oraz zrzeszeniom organizacji producentów – na formularzu udostępnionym na stronie internetowej administrowanej przez urząd obsługujący ministra właściwego do spraw rynków rolnych; ” , dodaje się pkt 3 w brzmieniu: „
+- **1)** dokonuje wypłaty środków finansowych przyznanych w decyzjach, o których mowa w art. 9 ust. 1 pkt 3, 4 i 6, w terminie 30 dni od dnia wydania każdej z tych decyzji; ” , w pkt 2: lit. a otrzymuje brzmienie: „ całkowitej kwocie funduszy operacyjnych wraz z całkowitą kwotą pomocy finansowej na dofinansowanie funduszy operacyjnych organizacji producentów, ” , w lit. b kropkę zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ udzieleniu i wypłacie pomocy finansowej i innych środków finansowych wstępnie uznanym grupom producentów i uznanym organizacjom producentów oraz zrzeszeniom organizacji producentów – na formularzu udostępnionym na stronie internetowej administrowanej przez urząd obsługujący ministra właściwego do spraw rynków rolnych; ” , dodaje się pkt 3 w brzmieniu: „
     - **b)**
+    - **a)**
+    - **c)**
     - **c)**
 
 - **3)** monitoruje wdrażanie strategii krajowej i ocenia sposób jej wdrożenia. ” ;
@@ -118,8 +127,11 @@ source: "eli-html"
     - **b)**
 
 - **3)** liczbę osób, którym jednostki organizacyjne uznane za organizacje charytatywne uprawnione do dystrybucji otrzymanych od organizacji producentów i ich zrzeszeń bezpłatnie owoców i warzyw nieprzeznaczonych do sprzedaży będą je przekazywały na cele konsumpcyjne. ” ;
-- **13)** w art. 13: w ust. 1: – w pkt 2 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ c) informacje o każdej zmianie składu członkowskiego organizacji producentów albo zrzeszenia organizacji producentów; ” , – pkt 4 otrzymuje brzmienie: „ 4) dyrektorowi oddziału regionalnego Agencji Restrukturyzacji – informacje o szacunkowych kwotach wkładu Unii Europejskiej oraz wkładów członków organizacji lub samej organizacji do funduszu operacyjnego – do dnia 15 września danego roku. ” , w ust. 2 uchyla się pkt 2, uchyla się ust. 3, dodaje się ust. 4 w brzmieniu: „
+- **13)** w art. 13: w ust. 1: w pkt 2 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ informacje o każdej zmianie składu członkowskiego organizacji producentów albo zrzeszenia organizacji producentów; ” , pkt 4 otrzymuje brzmienie: „
     - **a)**
+    - **c)**
+
+- **4)** dyrektorowi oddziału regionalnego Agencji Restrukturyzacji – informacje o szacunkowych kwotach wkładu Unii Europejskiej oraz wkładów członków organizacji lub samej organizacji do funduszu operacyjnego – do dnia 15 września danego roku. ” , w ust. 2 uchyla się pkt 2, uchyla się ust. 3, dodaje się ust. 4 w brzmieniu: „
     - **b)**
     - **c)**
     - **d)**
@@ -141,7 +153,7 @@ source: "eli-html"
 
 - **b)**
 
-3. Do kontroli, o których mowa w ust. 1 pkt 3–5, stosuje się odpowiednio przepisy rozdziału 4 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2005 r. Nr 187, poz. 1577, z późn. zm.). ” , w ust. 4 pkt 2 otrzymuje brzmienie: „
+3. Do kontroli, o których mowa w ust. 1 pkt 3–5, stosuje się odpowiednio przepisy rozdziału 4 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2005 r. Nr 187, poz. 1577, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 208, poz. 1541, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 214, poz. 1346 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 31, poz. 206.). ” , w ust. 4 pkt 2 otrzymuje brzmienie: „
 
 - **c)**
 - **2)** w ust. 1 pkt 4, w terminie 5 dni od dnia przeprowadzenia kontroli. ” , w ust. 7 pkt 1 otrzymuje brzmienie: „
@@ -181,9 +193,16 @@ source: "eli-html"
 
 **Art. 18a.** Do znakowania owoców i warzyw objętych ogólną normą handlową, o której mowa w art. 2a rozporządzenia Komisji (WE) nr 1580/2007, stosuje się odpowiednio przepisy art. 7 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych. ” ;
 
-- **19)** w art. 19: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) inne niż wymienione w art. 9 ust. 6 dokumenty, które dołącza się do wniosków o wydanie decyzji, o których mowa w art. 9 ust. 1 pkt 1–4 i 6, mając na względzie zapewnienie prawidłowego przyznawania pomocy finansowej, a także innych środków finansowych określonych w przepisach Unii Europejskiej, wstępnie uznanym grupom producentów i uznanym organizacjom producentów oraz uznanym zrzeszeniom organizacji producentów; ” , – uchyla się pkt 3 i 7, w ust. 2: – uchyla się pkt 3, – pkt 10 otrzymuje brzmienie: „ 10) wzór protokołu, o którym mowa w art. 15 ust. 1 pkt 4, mając na względzie zasadność ubiegania się o przyznanie pomocy na dofinansowanie funduszu operacyjnego z tytułu nieprzeznaczenia owoców i warzyw do sprzedaży; ” , – uchyla się pkt 13, – pkt 14 i 15 otrzymują brzmienie: „ 14) terminy przekazywania informacji, o których mowa w art. 3 ust. 2, art. 10 pkt 2, art. 12 ust. 1 pkt 3 oraz art. 13 ust. 1 pkt 2 lit. b i ust. 1a, mając na względzie zapewnienie ich sprawnego i prawidłowego przekazania Komisji Europejskiej w zakresie wynikającym z przepisów Unii Europejskiej dotyczących funkcjonowania rynków owoców i warzyw; 15) przypadki, w których spadek wartości produkcji sprzedanej wystąpił z przyczyn niezależnych od grupy lub organizacji producentów, oraz sposób potwierdzenia wystąpienia tego spadku, mając na względzie złagodzenie skutków spadku wartości pomocy finansowej wynikającej ze spadku wartości produkcji sprzedanej; ” , – pkt 18 otrzymuje brzmienie: „ 18) sposób, wysokość oraz terminy spłaty przez odbiorców produktów nieprzeznaczonych do sprzedaży wartości tych produktów oraz związanych z tym kosztów sortowania, pakowania oraz transportu, mając na względzie zapewnienie prawidłowego wdrożenia przepisów Unii Europejskiej w zakresie nieprzeznaczania owoców i warzyw do sprzedaży. ” , uchyla się ust. 4, w ust. 6 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **19)** w art. 19: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** inne niż wymienione w art. 9 ust. 6 dokumenty, które dołącza się do wniosków o wydanie decyzji, o których mowa w art. 9 ust. 1 pkt 1–4 i 6, mając na względzie zapewnienie prawidłowego przyznawania pomocy finansowej, a także innych środków finansowych określonych w przepisach Unii Europejskiej, wstępnie uznanym grupom producentów i uznanym organizacjom producentów oraz uznanym zrzeszeniom organizacji producentów; ” , – uchyla się pkt 3 i 7, w ust. 2: – uchyla się pkt 3, pkt 10 otrzymuje brzmienie: „
     - **b)**
+
+- **10)** wzór protokołu, o którym mowa w art. 15 ust. 1 pkt 4, mając na względzie zasadność ubiegania się o przyznanie pomocy na dofinansowanie funduszu operacyjnego z tytułu nieprzeznaczenia owoców i warzyw do sprzedaży; ” , – uchyla się pkt 13, pkt 14 i 15 otrzymują brzmienie: „
+- **14)** terminy przekazywania informacji, o których mowa w art. 3 ust. 2, art. 10 pkt 2, art. 12 ust. 1 pkt 3 oraz art. 13 ust. 1 pkt 2 lit. b i ust. 1a, mając na względzie zapewnienie ich sprawnego i prawidłowego przekazania Komisji Europejskiej w zakresie wynikającym z przepisów Unii Europejskiej dotyczących funkcjonowania rynków owoców i warzyw;
+- **15)** przypadki, w których spadek wartości produkcji sprzedanej wystąpił z przyczyn niezależnych od grupy lub organizacji producentów, oraz sposób potwierdzenia wystąpienia tego spadku, mając na względzie złagodzenie skutków spadku wartości pomocy finansowej wynikającej ze spadku wartości produkcji sprzedanej; ” , pkt 18 otrzymuje brzmienie: „
+- **18)** sposób, wysokość oraz terminy spłaty przez odbiorców produktów nieprzeznaczonych do sprzedaży wartości tych produktów oraz związanych z tym kosztów sortowania, pakowania oraz transportu, mając na względzie zapewnienie prawidłowego wdrożenia przepisów Unii Europejskiej w zakresie nieprzeznaczania owoców i warzyw do sprzedaży. ” , uchyla się ust. 4, w ust. 6 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
     - **c)**
     - **d)**
 
@@ -258,7 +277,7 @@ source: "eli-html"
 - **29)** w art. 37a uchyla się ust. 1;
 - **30)** po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
 
-#### Rozdział 5a Rynki lnu i konopi uprawianych na włókno
+#### Rozdział 5a
 
 **Art. 39a.**
 
@@ -311,7 +330,7 @@ source: "eli-html"
 3. Upoważniony główny przetwórca przekazuje Prezesowi Agencji informację o zamiarze:
 
 - **1)** skierowania partii długiego i krótkiego włókna lnianego lub włókna konopnego do dalszego przerobu lub sprzedaży albo
-- **2)** przekazania długiego i krótkiego włókna lnianego lub włókna konopnego osobie traktowanej jako przetwórca co najmniej na jeden dzień roboczy przed wykonaniem tych czynności.
+- **2)** przekazania długiego i krótkiego włókna lnianego lub włókna konopnego osobie traktowanej jako przetwórca – co najmniej na jeden dzień roboczy przed wykonaniem tych czynności.
 
 4. Upoważniony główny przetwórca i osoba traktowana jako przetwórca dokonują oznaczenia zawartości zanieczyszczeń w każdej uzyskanej przez nich partii krótkiego włókna lnianego lub włókna konopnego, która będzie stanowiła dla nich podstawę do ubiegania się o przyznanie pomocy, stosując metodę oznaczania zawartości zanieczyszczeń określoną w przepisach wydanych na podstawie art. 39f pkt 1 lit. b. Minister właściwy do spraw rynków rolnych, w drodze rozporządzenia:
 
@@ -337,12 +356,13 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-4a. Kto wbrew obowiązkowi określonemu w art. 113a ust. 3 rozporządzenia nr 1234/2007 wystawia, oferuje do sprzedaży, dostarcza lub w innej formie wprowadza do obrotu owoce i warzywa niezgodnie z wymaganiami w zakresie jakości handlowej, podlega karze grzywny. ” , w ust. 4b: – pkt 2 otrzymuje brzmienie: „ 2) nie przekazuje wojewódzkiemu inspektorowi informacji określonych w art. 17 ust. 1, 4 lub 5 lub przekazuje je niezgodnie z tymi przepisami ” , – uchyla się pkt 3–6, ust. 5 otrzymuje brzmienie: „
+4a. Kto wbrew obowiązkowi określonemu w art. 113a ust. 3 rozporządzenia nr 1234/2007 wystawia, oferuje do sprzedaży, dostarcza lub w innej formie wprowadza do obrotu owoce i warzywa niezgodnie z wymaganiami w zakresie jakości handlowej, podlega karze grzywny. ” , w ust. 4b: pkt 2 otrzymuje brzmienie: „
 
 - **d)**
-- **e)**
+- **2)** nie przekazuje wojewódzkiemu inspektorowi informacji określonych w art. 17 ust. 1, 4 lub 5 lub przekazuje je niezgodnie z tymi przepisami ” , – uchyla się pkt 3–6, ust. 5 otrzymuje brzmienie: „
+    - **e)**
 
-5. Orzekanie w sprawach, o których mowa w ust. 1 i 2 oraz 4–4b, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia. ” . W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2007 r. Nr 231, poz. 1702, z późn. zm.) wprowadza się następujące zmiany:
+5. Orzekanie w sprawach, o których mowa w ust. 1 i 2 oraz 4–4b, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia. ” . W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2007 r. Nr 231, poz. 1702, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100, Nr 95, poz. 792 i Nr 97, poz. 799.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w ust. 1 w pkt 3 po lit. d dodaje się lit. da w brzmieniu: „ da) zbóż, ” ;
 - **2)** w art. 11 ust. 5 otrzymuje brzmienie: „
@@ -359,7 +379,7 @@ source: "eli-html"
 3a. Prezes Agencji może odstąpić od ustalenia:
 
 - **1)** kwot nienależnie wypłaconych refundacji wywozowych, nienależnie zwolnionych zabezpieczeń oraz odsetek i kwot, o których mowa w art. 49 ust. 3 rozporządzenia Komisji (WE) 612/2009 z dnia 7 lipca 2009 r. ustanawiającego wspólne szczegółowe zasady stosowania systemu refundacji wywozowych do produktów rolnych (Dz. Urz. UE L 186 z 17.07.2009, str. 1, z późn. zm.),
-- **2)** kwot nienależnie lub nadmiernie pobranych środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej lub Europejskiego Funduszu Rolniczego Gwarancji przeznaczonych na realizację Wspólnej Polityki Rolnej w przypadku gdy kwota każdej z tych należności nie jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu euro ustalonego zgodnie z art. 3 rozporządzenia Komisji (WE) nr 1913/2006 z dnia 20 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania agromonetarnego systemu dla euro w rolnictwie i zmieniającym niektóre rozporządzenia (Dz. Urz. UE L 365 z 21.12.2006, str. 52, z późn. zm.). ” ;
+- **2)** kwot nienależnie lub nadmiernie pobranych środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej lub Europejskiego Funduszu Rolniczego Gwarancji przeznaczonych na realizację Wspólnej Polityki Rolnej – w przypadku gdy kwota każdej z tych należności nie jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu euro ustalonego zgodnie z art. 3 rozporządzenia Komisji (WE) nr 1913/2006 z dnia 20 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania agromonetarnego systemu dla euro w rolnictwie i zmieniającym niektóre rozporządzenia (Dz. Urz. UE L 365 z 21.12.2006, str. 52, z późn. zm.). ” ;
 - **4)** w art. 22 w ust. 1 pkt 3 otrzymuje brzmienie: „
 - **3)** wpłacający na fundusze promocji produktów rolno-spożywczych, o których mowa w ustawie z dnia 22 maja 2009 r. o funduszach promocji produktów rolno-spożywczych, lub korzystający ze środków tych funduszy ” ;
 - **5)** w art. 31b: ust. 1 otrzymuje brzmienie: „
@@ -373,7 +393,7 @@ source: "eli-html"
 
 - **6)** po rozdziale 7 dodaje się rozdział 7a w brzmieniu: „
 
-#### Rozdział 7a Rynek zbóż
+#### Rozdział 7a
 
 **Art. 38h.** W zakresie określonym przepisami Unii Europejskiej:
 
@@ -388,7 +408,7 @@ source: "eli-html"
     - **c)**
     - **d)**
 
-**Art. 3.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. Nr 179, poz. 1485, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. Nr 179, poz. 1485, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 66, poz. 469 i Nr 120, poz. 826, z 2007 r. Nr 7, poz. 48 i Nr 82, poz. 558, z 2009 r. Nr 18, poz. 97, Nr 63, poz. 520, Nr 92, poz. 753 i Nr 98, poz. 817 oraz z 2010 r. Nr 28, poz. 146, Nr 143, poz. 962 i Nr 213, poz. 1396.) wprowadza się następujące zmiany:
 
 - **1)** w art. 46: w ust. 2 pkt 1–4 otrzymują brzmienie: „
     - **a)**
@@ -436,7 +456,7 @@ source: "eli-html"
 **Art. 10.** Do postępowań w sprawie:
 
 - **1)** udzielania dopłat do przetwarzania słomy lnianej lub konopnej na włókno dotyczących lat gospodarczych 2008/2009 i 2009/2010,
-- **2)** wpisu do rejestru uznanych przetwórców wszczętych i niezakończonych przed dniem wejścia w życie ustawy, stosuje się przepisy dotychczasowe.
+- **2)** wpisu do rejestru uznanych przetwórców – wszczętych i niezakończonych przed dniem wejścia w życie ustawy, stosuje się przepisy dotychczasowe.
 
 **Art. 11.** Ilekroć w odrębnych przepisach jest mowa o przepisach o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego, należy przez to rozumieć przepisy o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu, rynku suszu paszowego oraz rynków lnu i konopi uprawianych na włókno.
 
@@ -450,7 +470,7 @@ source: "eli-html"
 
 4. Przepisy wykonawcze wydane na podstawie art. 12 pkt 1 lit. b oraz pkt 3 lit. b ustawy wymienionej w art. 13 na lata gospodarcze 2008/2009 i 2009/2010 zachowują moc.
 
-**Art. 13.** Traci moc ustawa z dnia 20 grudnia 2002 r. o organizacji niektórych rynków rolnych (Dz. U. Nr 240, poz. 2059, z późn. zm.).
+**Art. 13.** Traci moc ustawa z dnia 20 grudnia 2002 r. o organizacji niektórych rynków rolnych (Dz. U. Nr 240, poz. 2059, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 40 i Nr 96, poz. 959, z 2005 r. Nr 14, poz. 115 i Nr 141, poz. 1182, z 2008 r. Nr 52, poz. 303 oraz z 2009 r. Nr 98, poz. 817.).
 
-**Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się: ustawę z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych, ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii i ustawę z dnia 22 maja 2009 r. o funduszach promocji produktów rolno-spożywczych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 208, poz. 1541, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 214, poz. 1346 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 31, poz. 206. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100, Nr 95, poz. 792 i Nr 97, poz. 799. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 66, poz. 469 i Nr 120, poz. 826, z 2007 r. Nr 7, poz. 48 i Nr 82, poz. 558, z 2009 r. Nr 18, poz. 97, Nr 63, poz. 520, Nr 92, poz. 753 i Nr 98, poz. 817 oraz z 2010 r. Nr 28, poz. 146, Nr 143, poz. 962 i Nr 213, poz. 1396. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 40 i Nr 96, poz. 959, z 2005 r. Nr 14, poz. 115 i Nr 141, poz. 1182, z 2008 r. Nr 52, poz. 303 oraz z 2009 r. Nr 98, poz. 817.
 

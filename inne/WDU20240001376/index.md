@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 lipca 2007 r. o ekwiwalencie pieniężnym z tytułu prawa do bezpłatnego węgla dla osób uprawnionych z przedsiębiorstw robót górniczych (Dz. U. z 2022 r. poz. 406), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 września 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 84 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 84 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), który stanowi: „
 
 **Art. 84.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
 
@@ -63,9 +62,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Wysokość ekwiwalentu stanowi iloczyn ilości węgla objętego uprawnieniem, która nie może być wyższa niż 3 Mg węgla kamiennego rocznie i przeciętnej średniorocznej ceny zbytu 1 Mg węgla kamiennego w asortymencie Orzech.
 
-2. Za rok 2002 cenę zbytu 1 Mg węgla kamiennego w asortymencie Orzech II ustala się na podstawie ceny zbytu 1 Mg węgla kamiennego w asortymencie Orzech II z roku 2006.
-
-3. Za lata następne minister właściwy do spraw gospodarki surowcami energetycznymi, w terminie do dnia 20 stycznia każdego roku, ustala i ogłasza, w formie obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przeciętną średnioroczną cenę zbytu 1 Mg węgla kamiennego w asortymencie Orzech, z roku poprzedzającego rok, w którym ekwiwalent ma być wypłacany, skorygowaną o przewidywany wskaźnik wzrostu cen towarów i usług konsumpcyjnych na rok planowany.
+2. Za rok 2002 cenę zbytu 1 Mg węgla kamiennego w asortymencie Orzech II ustala się na podstawie ceny zbytu 1 Mg węgla kamiennego w asortymencie Orzech II z roku 2006. 3Ze zmianą wprowadzoną przez art. 25 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r.. Za lata następne minister właściwy do spraw gospodarki surowcami energetycznymi, w terminie do dnia 20 stycznia każdego roku, ustala i ogłasza, w formie obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przeciętną średnioroczną cenę zbytu 1 Mg węgla kamiennego w asortymencie Orzech, z roku poprzedzającego rok, w którym ekwiwalent ma być wypłacany, skorygowaną o przewidywany wskaźnik wzrostu cen towarów i usług konsumpcyjnych na rok planowany.
 
 **Art. 6.** W przypadku gdy prawo do emerytury lub renty powstało w trakcie miesiąca, ekwiwalent wypłaca się za pełny miesiąc.
 
@@ -141,8 +138,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 12.** (uchylony)
 
-**Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-
-- **1)** Ze zmianą wprowadzoną przez art. 25 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r. 2) Ustawa została ogłoszona w dniu 14 sierpnia 2007 r.
-
+**Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 14 sierpnia 2007 r.. 1) Ze zmianą wprowadzoną przez art. 25 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r. 2) Ustawa została ogłoszona w dniu 14 sierpnia 2007 r.
 

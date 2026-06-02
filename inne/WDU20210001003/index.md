@@ -22,14 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-20 |
 | Data wydania | 2021-06-02 |
-| Wejście w życie | 2021-06-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001003) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1003/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. poz. 464) wprowadza się następujące zmiany:
 
-- **1)** w art. 3: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) członkowie korpusu służby cywilnej zatrudnieni w urzędzie obsługującym ministra właściwego do spraw zagranicznych, w tym dyplomaci zawodowi stanowiący personel dyplomatyczno-konsularny; ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) pracownicy krajowi zatrudnieni na podstawie powołania w celu wykonywania obowiązków służbowych w placówce zagranicznej jako członkowie personelu pomocniczego lub personelu obsługi. ” , w ust. 2 pkt 3 otrzymuje brzmienie: „
+- **1)** w art. 3: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** członkowie korpusu służby cywilnej zatrudnieni w urzędzie obsługującym ministra właściwego do spraw zagranicznych, w tym dyplomaci zawodowi stanowiący personel dyplomatyczno-konsularny; ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** pracownicy krajowi zatrudnieni na podstawie powołania w celu wykonywania obowiązków służbowych w placówce zagranicznej jako członkowie personelu pomocniczego lub personelu obsługi. ” , w ust. 2 pkt 3 otrzymuje brzmienie: „
     - **b)**
 
 - **3)** osoby zatrudnione w placówce zagranicznej Rzeczypospolitej Polskiej na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320), w tym osoby zatrudnione na czas wykonywania funkcji w placówce przez członka rodziny; ” ;

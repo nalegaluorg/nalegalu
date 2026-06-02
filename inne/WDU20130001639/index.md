@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-22 |
 | Data wydania | 2013-12-23 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001639) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1639/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. Nr 139, poz. 814, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. Nr 139, poz. 814, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 205, poz. 1206, z 2012 r. poz. 941 oraz z 2013 r. poz. 827 i 829.) wprowadza się następujące zmiany:
 
 - **1)** w art. 7: w ust. 1 w pkt 11 lit. b otrzymuje brzmienie: „ nazwa i adres siedziby organu prowadzącego oraz jego numer identyfikacyjny REGON, a w przypadku osoby fizycznej prowadzącej szkołę lub placówkę oświatową – jej imię (imiona), nazwisko, numer PESEL i adres zamieszkania, oraz numer telefonu, numer faksu, adres poczty elektronicznej i strony internetowej; ” , w ust. 1a w pkt 4 lit. b otrzymuje brzmienie: „ nazwa i adres siedziby organu prowadzącego oraz jego numer identyfikacyjny REGON, a w przypadku osoby fizycznej prowadzącej zespół – jej imię (imiona), nazwisko, numer PESEL i adres zamieszkania, oraz numer telefonu, numer faksu, adres poczty elektronicznej i strony internetowej; ” ;
     - **a)**
@@ -110,5 +109,5 @@ source: "eli-html"
 
 **Art. 4.** Do podziału części oświatowej subwencji ogólnej na lata 2014–2016 przyjmuje się dane zgromadzone w systemie informacji oświatowej, o którym mowa w art. 105 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2014 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2014 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 205, poz. 1206, z 2012 r. poz. 941 oraz z 2013 r. poz. 827 i 829.
 

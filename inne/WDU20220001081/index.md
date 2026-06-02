@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-13 |
 | Data wydania | 2022-05-23 |
-| Wejście w życie | 2022-05-24 |
 | Ostatnia zmiana | 2025-09-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001081) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1081/text.pdf) |
 
@@ -86,13 +85,12 @@ skierowanemu do pełnienia służby w charakterze obserwatora wojskowego lub oso
 a)
 z kraju do miejsca pełnienia służby – od dnia przekroczenia granicy państwowej Rzeczypospolitej Polskiej,
 b)
-z miejsca pełnienia służby z powrotem do kraju – do dnia przekroczenia granicy państwowej Rzeczypospolitej Polskiej
-z wyjątkiem przypadku, w którym otrzymał wyżywienie w naturze.
+z miejsca pełnienia służby z powrotem do kraju – do dnia przekroczenia granicy państwowej Rzeczypospolitej Polskiej – z wyjątkiem przypadku, w którym otrzymał wyżywienie w naturze.
 § 5.
 1.
 Równoważnik pieniężny wypłaca wojskowa jednostka budżetowa, na której zaopatrzeniu finansowym pozostaje żołnierz.
 2.
 Wypłata równoważnika pieniężnego następuje z dołu, z wyjątkiem równoważnika pieniężnego należnego za czas całodobowej przepustki, podróży służbowej lub urlopu, który jest wypłacany z góry.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 3 grudnia 2014 r. w sprawie równoważnika pieniężnego przysługującego żołnierzom zawodowym i żołnierzom pełniącym służbę kandydacką w zamian za bezpłatne wyżywienie niewydane w naturze (Dz. U. poz. 1841), które zgodnie z art. 822 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 3 grudnia 2014 r. w sprawie równoważnika pieniężnego przysługującego żołnierzom zawodowym i żołnierzom pełniącym służbę kandydacką w zamian za bezpłatne wyżywienie niewydane w naturze (Dz. U. poz. 1841), które zgodnie z art. 822 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

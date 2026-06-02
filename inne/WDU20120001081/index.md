@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-09-26 |
 | Data wydania | 2012-09-28 |
-| Wejście w życie | 2012-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001081) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1081/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 122 ust. 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 122 ust. 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 202, poz. 1551, Nr 219, poz. 1706 i Nr 221, poz. 1738, z 2010 r. Nr 28, poz. 146, Nr 40, poz. 229, Nr 81, poz. 527, Nr 125, poz. 842 i Nr 217, poz. 1427, z 2011 r. Nr 81, poz. 440, Nr 106, poz. 622 i Nr 149, poz. 887 oraz z 2012 r. poz. 579.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -83,10 +82,9 @@ Specjalizację mogą prowadzić:
 1)
 uczelnie, działające na podstawie ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572 i 742),
 2)
-kolegia pracowników służb społecznych, placówki kształcenia ustawicznego, placówki kształcenia praktycznego oraz ośrodki dokształcania i doskonalenia zawodowego, działające na podstawie ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.),
+kolegia pracowników służb społecznych, placówki kształcenia ustawicznego, placówki kształcenia praktycznego oraz ośrodki dokształcania i doskonalenia zawodowego, działające na podstawie ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206 oraz z 2012 r. poz. 941 i 979.),
 3)
-instytuty badawcze, działające na podstawie ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618 oraz z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092)
-posiadające minimum dwuletnie doświadczenie w prowadzeniu kształcenia lub doskonalenia zawodowego kadr pomocy społecznej, które uzyskały zgodę ministra właściwego do spraw zabezpieczenia społecznego na prowadzenie specjalizacji, zwane dalej „podmiotami uprawnionymi”.
+instytuty badawcze, działające na podstawie ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618 oraz z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092) – posiadające minimum dwuletnie doświadczenie w prowadzeniu kształcenia lub doskonalenia zawodowego kadr pomocy społecznej, które uzyskały zgodę ministra właściwego do spraw zabezpieczenia społecznego na prowadzenie specjalizacji, zwane dalej „podmiotami uprawnionymi”.
 § 4.
 1.
 Podmiot ubiegający się o nadanie uprawnień do prowadzenia specjalizacji składa do ministra właściwego do spraw zabezpieczenia społecznego wniosek o nadanie uprawnień.
@@ -179,7 +177,7 @@ Zgody na prowadzenie specjalizacji z zakresu organizacji pomocy społecznej udzi
 2.
 W przypadku podmiotów uprawnionych, które rozpoczęły prowadzenie specjalizacji z zakresu organizacji pomocy społecznej przed dniem wejścia w życie rozporządzenia, zgody na prowadzenie specjalizacji udzielone tym podmiotom przed dniem wejścia w życie rozporządzenia zachowują ważność do dnia zakończenia rozpoczętej specjalizacji, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 § 14.
-Rozporządzenie wchodzi w życie z dniem 1 października 2012 r.
+Rozporządzenie wchodzi w życie z dniem 1 października 2012 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Polityki Społecznej z dnia 22 września 2004 r. w sprawie specjalizacji z zakresu organizacji pomocy społecznej (Dz. U. Nr 219, poz. 2224), które traci moc z dniem 1 października 2012 r. na podstawie art. 6 pkt 2 ustawy z dnia 18 marca 2011 r. o zmianie ustawy o pomocy społecznej oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 81, poz. 440). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 202, poz. 1551, Nr 219, poz. 1706 i Nr 221, poz. 1738, z 2010 r. Nr 28, poz. 146, Nr 40, poz. 229, Nr 81, poz. 527, Nr 125, poz. 842 i Nr 217, poz. 1427, z 2011 r. Nr 81, poz. 440, Nr 106, poz. 622 i Nr 149, poz. 887 oraz z 2012 r. poz. 579. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206 oraz z 2012 r. poz. 941 i 979. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Polityki Społecznej z dnia 22 września 2004 r. w sprawie specjalizacji z zakresu organizacji pomocy społecznej (Dz. U. Nr 219, poz. 2224), które traci moc z dniem 1 października 2012 r. na podstawie art. 6 pkt 2 ustawy z dnia 18 marca 2011 r. o zmianie ustawy o pomocy społecznej oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 81, poz. 440).
 
 ## Część pierwsza egzaminu polega na sprawdzeniu wiedzy z zagadnień objętych zakresem minimum programowego, o którym mowa w § 2.
 

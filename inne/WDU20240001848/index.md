@@ -37,13 +37,11 @@ ustawą z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz 
 3)
 ustawą z dnia 27 września 2024 r. o zmianie ustawy o rencie socjalnej oraz niektórych innych ustaw (Dz. U. poz. 1615),
 4)
-ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 listopada 2024 r.
+ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 listopada 2024 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 9 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. poz. 863), który stanowi:
-„
+art. 9 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. poz. 863), który stanowi: „
 
 **Art. 9.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 4 miesięcy od dnia ogłoszenia, z wyjątkiem art. 8, który wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 
@@ -82,7 +80,7 @@ art. 9 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o systemie ubezpieczeń spo
 1. Przychodami Funduszu są:
 
 - **1)** obowiązkowe składki na Fundusz, o których mowa w art. 4;
-- **2)** danina solidarnościowa, o której mowa w rozdziale 6a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, z późn. zm.), zwana dalej „daniną solidarnościową”;
+- **2)** danina solidarnościowa, o której mowa w rozdziale 6a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 858, 859, 863, 1572, 1585, 1593, 1615 i 1635.), zwana dalej „daniną solidarnościową”;
 - **3)** odsetki od środków Funduszu pozostających na wyodrębnionych rachunkach bankowych, których obowiązek utworzenia wynika z obowiązujących przepisów lub umów, będących w dyspozycji kierownika jednostki organizacyjnej realizującej zadania finansowane ze środków Funduszu;
 - **4)** odsetki od wolnych środków finansowych przekazanych w zarządzanie ministrowi właściwemu do spraw finansów publicznych na warunkach określonych w przepisach wydanych na podstawie art. 78g ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572 i 1717);
 - **5)** dodatkowa opłata, o której mowa w art. 24 ust. 1a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2024 r. poz. 497, 863, 1243 i 1615);
@@ -93,9 +91,7 @@ art. 9 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o systemie ubezpieczeń spo
 
 - **1)** świadczenia uzupełniającego, kosztów obsługi wypłaty świadczenia uzupełniającego, kosztów obsługi wniosku o świadczenie uzupełniające oraz kosztów świadczeń zdrowotnych związanych z wydawaniem orzeczeń dla osób niezdolnych do samodzielnej egzystencji, o których mowa w art. 11 ust. 1 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji;
 - **2)** dodatkowego rocznego świadczenia pieniężnego dla emerytów i rencistów oraz kosztów obsługi wypłaty tego świadczenia, o których mowa w odrębnych przepisach;
-- **2a)** kolejnego dodatkowego rocznego świadczenia pieniężnego dla emerytów i rencistów oraz kosztów obsługi wypłaty tego świadczenia, o których mowa w odrębnych przepisach;
-- **3)** renty socjalnej, zasiłku pogrzebowego oraz kosztów ich obsługi, o których mowa w art. 14 ust. 1 ustawy z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. z 2023 r. poz. 2194).
-- **3)** renty socjalnej, dodatku dopełniającego, zasiłku pogrzebowego oraz kosztów ich obsługi, o których mowa w art. 14 ust. 1 ustawy z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. z 2023 r. poz. 2194 oraz z 2024 r. poz. 1615).
+- **2a)** kolejnego dodatkowego rocznego świadczenia pieniężnego dla emerytów i rencistów oraz kosztów obsługi wypłaty tego świadczenia, o których mowa w odrębnych przepisach; 3W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 3.) renty socjalnej, zasiłku pogrzebowego oraz kosztów ich obsługi, o których mowa w art. 14 ust. 1 ustawy z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. z 2023 r. poz. 2194). 3Ze zmianą wprowadzoną przez art. 8 pkt 1 ustawy z dnia 27 września 2024 r. o zmianie ustawy o rencie socjalnej oraz niektórych innych ustaw (Dz. U. poz. 1615), która wejdzie w życie z dniem 1 stycznia 2025 r.) renty socjalnej, dodatku dopełniającego, zasiłku pogrzebowego oraz kosztów ich obsługi, o których mowa w art. 14 ust. 1 ustawy z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. z 2023 r. poz. 2194 oraz z 2024 r. poz. 1615).
 
 2. Wpłaconą na rachunek urzędu skarbowego daninę solidarnościową naczelnik urzędu skarbowego przekazuje na rachunek bankowy Funduszu w terminie:
 
@@ -106,9 +102,7 @@ art. 9 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o systemie ubezpieczeń spo
 
 **Art. 4.**
 
-1. Do obowiązkowych składek na Fundusz stosuje się odpowiednio przepisy dotyczące obowiązkowych składek na Fundusz Pracy.
-
-1a. Płatnik składek nie opłaca za siebie składki na Fundusz Solidarnościowy za miesiąc korzystania ze zwolnienia z opłacenia składek na ubezpieczenia emerytalne, rentowe i wypadkowe zgodnie z art. 17a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz na Fundusz Pracy i Fundusz Solidarnościowy zgodnie z art. 32 ust. 2 tej ustawy.
+1. Do obowiązkowych składek na Fundusz stosuje się odpowiednio przepisy dotyczące obowiązkowych składek na Fundusz Pracy. 1aDodany przez art. 7 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. poz. 863), która weszła w życie z dniem 1 listopada 2024 r.. Płatnik składek nie opłaca za siebie składki na Fundusz Solidarnościowy za miesiąc korzystania ze zwolnienia z opłacenia składek na ubezpieczenia emerytalne, rentowe i wypadkowe zgodnie z art. 17a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz na Fundusz Pracy i Fundusz Solidarnościowy zgodnie z art. 32 ust. 2 tej ustawy.
 
 2. Wysokość składki na Fundusz określa ustawa budżetowa.
 
@@ -147,9 +141,7 @@ art. 9 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o systemie ubezpieczeń spo
 
 - **1)** świadczenia uzupełniającego, kosztów obsługi wypłaty świadczenia uzupełniającego, kosztów obsługi wniosku o świadczenie uzupełniające oraz kosztów świadczeń zdrowotnych związanych z wydawaniem orzeczeń dla osób niezdolnych do samodzielnej egzystencji, o których mowa w art. 11 ust. 1 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji;
 - **2)** dodatkowego rocznego świadczenia pieniężnego dla emerytów i rencistów oraz kosztów obsługi wypłaty tego świadczenia, o których mowa w odrębnych przepisach;
-- **2a)** kolejnego dodatkowego rocznego świadczenia pieniężnego dla emerytów i rencistów oraz kosztów obsługi wypłaty tego świadczenia, o których mowa w odrębnych przepisach;
-- **3)** renty socjalnej, zasiłku pogrzebowego oraz kosztów ich obsługi, o których mowa w art. 14 ust. 1 ustawy z dnia 27 czerwca 2003 r. o rencie socjalnej.
-- **3)** renty socjalnej, dodatku dopełniającego, zasiłku pogrzebowego oraz kosztów ich obsługi, o których mowa w art. 14 ust. 1 ustawy z dnia 27 czerwca 2003 r. o rencie socjalnej.
+- **2a)** kolejnego dodatkowego rocznego świadczenia pieniężnego dla emerytów i rencistów oraz kosztów obsługi wypłaty tego świadczenia, o których mowa w odrębnych przepisach; 3W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 6.) renty socjalnej, zasiłku pogrzebowego oraz kosztów ich obsługi, o których mowa w art. 14 ust. 1 ustawy z dnia 27 czerwca 2003 r. o rencie socjalnej. 3Ze zmianą wprowadzoną przez art. 8 pkt 2 ustawy, o której mowa w odnośniku 3.) renty socjalnej, dodatku dopełniającego, zasiłku pogrzebowego oraz kosztów ich obsługi, o których mowa w art. 14 ust. 1 ustawy z dnia 27 czerwca 2003 r. o rencie socjalnej.
 
 2. Minister właściwy do spraw zabezpieczenia społecznego przekazuje na wyodrębnione rachunki bankowe Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego, Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz Narodowego Funduszu Zdrowia środki Funduszu na finansowanie wydatków, o których mowa w ust. 1, w terminie umożliwiającym wypłatę tych świadczeń.
 
@@ -184,9 +176,7 @@ art. 9 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o systemie ubezpieczeń spo
 - **5)** odsetki za nieterminowe regulowanie zobowiązań pokrywanych z Funduszu;
 - **6)** koszty związane z dochodzeniem zwrotu i egzekucji środków Funduszu.
 
-2. Minister właściwy do spraw zabezpieczenia społecznego, na wniosek właściwego naczelnika urzędu skarbowego, przekazuje na rachunek bankowy urzędu skarbowego środki z Funduszu niezbędne do realizacji zwrotu nadpłaty, w terminie 7 dni od dnia wpływu wniosku. (uchylony)
-
-**Art. 10.** Do środków przekazanych z Funduszu jednostkom samorządu terytorialnego nie stosuje się art. 10 ust. 3 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572 i 1717).
+2. Minister właściwy do spraw zabezpieczenia społecznego, na wniosek właściwego naczelnika urzędu skarbowego, przekazuje na rachunek bankowy urzędu skarbowego środki z Funduszu niezbędne do realizacji zwrotu nadpłaty, w terminie 7 dni od dnia wpływu wniosku. (uchylony)Przez art. 21 pkt 1 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), która weszła w życie z dniem 23 lipca 2024 r. Art. 10Ze zmianą wprowadzoną przez art. 75 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), która weszła w życie z dniem 25 października 2024 r.. Do środków przekazanych z Funduszu jednostkom samorządu terytorialnego nie stosuje się art. 10 ust. 3 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572 i 1717).
 
 **Art. 11.**
 
@@ -330,7 +320,7 @@ art. 9 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o systemie ubezpieczeń spo
 
 2a. Środki Funduszu przeznaczone na realizację programów, o których mowa w art. 31 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej, wraz z kosztami ich obsługi, stanowią koszty Funduszu.
 
-3. Środki Funduszu na realizację zadań, o których mowa w art. 6b ust. 1, przekazane na wyodrębnione rachunki bankowe Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego, Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz Narodowego Funduszu Zdrowia stanowią koszty Funduszu. (uchylony)
+3. Środki Funduszu na realizację zadań, o których mowa w art. 6b ust. 1, przekazane na wyodrębnione rachunki bankowe Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego, Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz Narodowego Funduszu Zdrowia stanowią koszty Funduszu. (uchylony)Przez art. 21 pkt 2 ustawy, o której mowa w odnośniku 7.
 
 **Art. 19.** Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, szczegółowe zasady gospodarki finansowej Funduszu, mając na względzie zapewnienie racjonalności gospodarowania środkami Funduszu. Art. 20–31. (pominięte)
 
@@ -348,18 +338,18 @@ art. 9 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o systemie ubezpieczeń spo
 
 **Art. 33.**
 
-1. Przepisy ustaw zmienianych w art. 21 i art. 22, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do dochodów (przychodów) uzyskanych od dnia 1 stycznia 2019 r.
+1. Przepisy ustaw zmienianych w art. 21Artykuł 21 zawiera zmiany do ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. i art. 22Artykuł 22 zawiera zmiany do ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych., w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do dochodów (przychodów) uzyskanych od dnia 1 stycznia 2019 r.
 
-2. Obowiązki składania deklaracji o wysokości daniny solidarnościowej i wpłaty daniny solidarnościowej, o których mowa w art. 30h ust. 4 ustawy zmienianej w art. 21, podlegają wykonaniu po raz pierwszy w terminie do dnia 30 kwietnia 2020 r.
+2. Obowiązki składania deklaracji o wysokości daniny solidarnościowej i wpłaty daniny solidarnościowej, o których mowa w art. 30h ust. 4 ustawy zmienianej w art. 21Artykuł 21 zawiera zmiany do ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych., podlegają wykonaniu po raz pierwszy w terminie do dnia 30 kwietnia 2020 r.
 
-3. Przy ustalaniu wysokości podstawy obliczenia daniny solidarnościowej podlegającej zapłacie w terminie, o którym mowa w ust. 2, uwzględnia się dochody uzyskane od dnia 1 stycznia 2019 r. i kwoty pomniejszające te dochody zgodnie z art. 30h ust. 2 ustawy zmienianej w art. 21, wykazywane w:
+3. Przy ustalaniu wysokości podstawy obliczenia daniny solidarnościowej podlegającej zapłacie w terminie, o którym mowa w ust. 2, uwzględnia się dochody uzyskane od dnia 1 stycznia 2019 r. i kwoty pomniejszające te dochody zgodnie z art. 30h ust. 2 ustawy zmienianej w art. 21Artykuł 21 zawiera zmiany do ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych., wykazywane w:
 
-- **1)** rocznym obliczeniu podatku, o którym mowa w art. 34 ust. 7 ustawy zmienianej w art. 21,
-- **2)** zeznaniach wymienionych w art. 45 ust. 1, ust. 1a pkt 1 i 2 oraz ust. 1aa ustawy zmienianej w art. 21 których termin złożenia upływa w okresie od dnia 1 stycznia 2019 r. do dnia 30 kwietnia 2020 r.
+- **1)** rocznym obliczeniu podatku, o którym mowa w art. 34 ust. 7 ustawy zmienianej w art. 21Artykuł 21 zawiera zmiany do ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych.,
+- **2)** zeznaniach wymienionych w art. 45 ust. 1, ust. 1a pkt 1 i 2 oraz ust. 1aa ustawy zmienianej w art. 21Artykuł 21 zawiera zmiany do ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. – których termin złożenia upływa w okresie od dnia 1 stycznia 2019 r. do dnia 30 kwietnia 2020 r.
 
 **Art. 34.** Minister właściwy do spraw zabezpieczenia społecznego opracuje roczny plan działania na rzecz wsparcia osób niepełnosprawnych na rok 2019 i umieści go na swojej stronie podmiotowej w Biuletynie Informacji Publicznej do dnia 31 stycznia 2019 r.
 
-**Art. 35.** Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie przepisów zmienianych w art. 23 pkt 1 stosuje się przepisy w brzmieniu nadanym niniejszą ustawą.
+**Art. 35.** Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie przepisów zmienianych w art. 23Artykuł 23 zawiera zmiany do ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych. pkt 1 stosuje się przepisy w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 36.**
 
@@ -395,5 +385,5 @@ art. 9 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o systemie ubezpieczeń spo
 
 4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, w zakresie części budżetowej 44 – Zabezpieczenie społeczne jest minister właściwy do spraw zabezpieczenia społecznego, a wojewodowie w zakresie części budżetowej 85 – Województwa.
 
-**Art. 37.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r.
+**Art. 37.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 858, 859, 863, 1572, 1585, 1593, 1615 i 1635. 2) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 3. 3) Ze zmianą wprowadzoną przez art. 8 pkt 1 ustawy z dnia 27 września 2024 r. o zmianie ustawy o rencie socjalnej oraz niektórych innych ustaw (Dz. U. poz. 1615), która wejdzie w życie z dniem 1 stycznia 2025 r. 4) Dodany przez art. 7 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. poz. 863), która weszła w życie z dniem 1 listopada 2024 r. 5) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 6. 6) Ze zmianą wprowadzoną przez art. 8 pkt 2 ustawy, o której mowa w odnośniku 3. 7) Przez art. 21 pkt 1 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), która weszła w życie z dniem 23 lipca 2024 r. 8) Ze zmianą wprowadzoną przez art. 75 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), która weszła w życie z dniem 25 października 2024 r. 9) Przez art. 21 pkt 2 ustawy, o której mowa w odnośniku 7. 10) Artykuł 21 zawiera zmiany do ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. 11) Artykuł 22 zawiera zmiany do ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych. 12) Artykuł 23 zawiera zmiany do ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych.
 

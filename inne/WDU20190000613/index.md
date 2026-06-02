@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 21 marca 2019 r. w sprawie opłaty za prowadzenie Ewidencji Pracowniczych Planów Kapitałowych oraz realizację obowiązków, o których mowa w art. 8 ust. 4 i 5 ustawy o pracowniczych planach kapitałowych
+# Rozporządzenie Ministra Finansówz dnia 21 marca 2019 r. w sprawie opłaty za prowadzenie Ewidencji Pracowniczych Planów Kapitałowych oraz realizację obowiązków, o których mowa w art. 8 ust. 4 i 5 ustawy o pracowniczych planach kapitałowych Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-21 |
 | Data wydania | 2019-04-01 |
-| Wejście w życie | 2019-04-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000613) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/613/text.pdf) |
 
@@ -39,6 +38,5 @@ W okresie do dnia 30 czerwca 2022 r. wysokość opłaty oblicza się jako iloczy
 § 5.
 Przepisy § 2 i § 3 stosuje się do opłaty należnej począwszy od dnia 1 lipca 2022 r.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 

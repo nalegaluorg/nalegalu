@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 19 grudnia 2008 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw
+# Ustawa z dnia 19 grudnia 2008 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia decyzji ramowej Rady 2006/783/WSiSW z dnia 6 października 2006 r. w sprawie stosowania zasady wzajemnego uznawania do nakazów konfiskaty (Dz. Urz. UE L 328 z 24.11.2006, str. 59–78).
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-12-19 |
 | Data wydania | 2009-01-21 |
-| Wejście w życie | 2009-02-05 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090080039) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/39/text.pdf) |
 
+Niniejszą ustawą zmienia się także ustawy: ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy i ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy.
+Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia przepadku
 Art. 611fn.
 § 1.
 W razie prawomocnego orzeczenia przez sąd polski wobec obywatela polskiego lub cudzoziemca przepadku, sąd może wystąpić o jego wykonanie bezpośrednio do właściwego sądu lub innego organu państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wykonania orzeczenia”, w którym sprawca posiada mienie lub osiąga dochody, a w razie niemożności jego ustalenia, państwa, w którym ma stałe lub czasowe miejsce pobytu.
@@ -67,6 +68,7 @@ Sąd rozpoznaje sprawę wystąpienia do właściwego sądu lub innego organu pa�
 Jeżeli według prawa państwa wykonania orzeczenia państwo to ponosi odpowiedzialność za szkodę wyrządzoną w związku z wykonaniem orzeczenia przepadku wydanego przez polski sąd, na wniosek właściwego sądu lub innego organu tego państwa Skarb Państwa zwraca mu kwotę pieniężną stanowiącą równowartość wypłaconego odszkodowania.
 § 2.
 Przepisu § 1 nie stosuje się, jeżeli szkoda jest wyłącznym następstwem działania lub zaniechania organu państwa wykonania orzeczenia.
+Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia przepadku
 § 1.
 W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie prawomocnego orzeczenia przepadku, orzeczenie to podlega wykonaniu przez sąd rejonowy, w okręgu którego sprawca posiada mienie lub osiąga dochody albo ma stałe lub czasowe miejsce pobytu.
 § 2.
@@ -159,32 +161,29 @@ Koszty związane z wykonaniem orzeczenia, o którym mowa w art. 611fu § 1, pono
 § 2.
 Jeżeli Skarb Państwa ponosi odpowiedzialność za szkodę wyrządzoną w związku z wykonaniem orzeczenia przepadku, wydanego przez organ sądowy państwa wydania orzeczenia, Skarb Państwa występuje do właściwego organu tego państwa o zwrot kwoty pieniężnej stanowiącej równowartość wypłaconego odszkodowania.
 § 3.
-Przepisu § 2 nie stosuje się, jeżeli szkoda jest wyłącznym następstwem działania lub zaniechania organu polskiego.
-” ;
+Przepisu § 2 nie stosuje się, jeżeli szkoda jest wyłącznym następstwem działania lub zaniechania organu polskiego. ” ;
 2)
 dotychczasowy rozdział 66c oznacza się jako rozdział 66e;
 3)
-w art. 613 § 1 otrzymuje brzmienie:
-„
+w art. 613 § 1 otrzymuje brzmienie: „
 § 1.
-Z wyjątkiem wypadków określonych w art. 595 oraz w rozdziałach 62a, 62b, 65a, 65b, 66a, 66b, 66c i 66d, z mającymi siedzibę za granicą organami obcego państwa oraz z osobami wymienionymi w art. 578 oraz w art. 579, sądy i prokuratorzy każdorazowo porozumiewają się, w tym przy doręczaniu pism procesowych, za pośrednictwem Ministra Sprawiedliwości, a ten w razie potrzeby przez ministra właściwego do spraw zagranicznych.
-” .
+Z wyjątkiem wypadków określonych w art. 595 oraz w rozdziałach 62a, 62b, 65a, 65b, 66a, 66b, 66c i 66d, z mającymi siedzibę za granicą organami obcego państwa oraz z osobami wymienionymi w art. 578 oraz w art. 579, sądy i prokuratorzy każdorazowo porozumiewają się, w tym przy doręczaniu pism procesowych, za pośrednictwem Ministra Sprawiedliwości, a ten w razie potrzeby przez ministra właściwego do spraw zagranicznych. ” .
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903 oraz z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651.) wprowadza się następujące zmiany:
 
 - **1)** po rozdziale 66b dodaje się rozdziały 66c i 66d w brzmieniu: „
 
-#### Rozdział 66c Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia przepadku
+#### Rozdział 66c
 
-#### Rozdział 66d Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia przepadku
+#### Rozdział 66d
 
-**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.) po art. 195a dodaje się art. 195b w brzmieniu: „
+**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849 oraz z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344.) po art. 195a dodaje się art. 195b w brzmieniu: „
 
 **Art. 195b.** Przepisy niniejszego oddziału stosuje się odpowiednio do wykonania orzeczeń, o których mowa w rozdziale 66d Kodeksu postępowania karnego. ” .
 
-**Art. 3.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2007 r. Nr 111, poz. 765, z późn. zm.) w art. 122 w § 1 pkt 1 otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2007 r. Nr 111, poz. 765, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 112, poz. 766, z 2008 r. Nr 66, poz. 410, Nr 215, poz. 1355 i Nr 237, poz. 1651 oraz z 2009 r. Nr 3, poz. 11.) w art. 122 w § 1 pkt 1 otrzymuje brzmienie: „
 
 - **1)** przez wyrażenie „prokurator” w art. 18 § 2, art. 19 § 1 zdanie pierwsze i § 2, art. 20 § 1, art. 23, 46, art. 71 § 2, art. 87 § 3, art. 93 § 3, art. 100 § 2, art. 135, 158, art. 160 § 4, art. 192 § 2, art. 215, art. 218 § 1 zdanie pierwsze, art. 231 § 1, art. 281, art. 282 § 1 pkt 1, art. 288 § 1, art. 290 § 1, art. 298 § 1, art. 299 § 3, art. 308 § 1, art. 317 § 2, art. 323 § 1 i 3, art. 324 § 1 i 2, art. 325e § 2 zdanie drugie, art. 327 § 1 i 3, art. 330 § 1, art. 331 § 1, art. 333 § 2, art. 336 § 1 i 3, art. 339 § 1 pkt 1, § 3 pkt 4 i § 5, art. 340 § 2, art. 341 § 1 i 2, art. 343 § 5, art. 345 § 1 i 2, art. 354, art. 359 pkt 1, art. 380, art. 387 § 2, art. 441 § 4, art. 448, art. 450 § 1, art. 461 § 1, art. 505, art. 526 § 2, art. 527 § 1, art. 530 § 4 i 5, art. 545 § 2, art. 550 § 2, art. 570, art. 571 § 2, art. 611fs oraz w art. 618 § 1 pkt 2 Kodeksu postępowania karnego rozumie się także „finansowy organ postępowania przygotowawczego”; ” .
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia decyzji ramowej Rady 2006/783/WSiSW z dnia 6 października 2006 r. w sprawie stosowania zasady wzajemnego uznawania do nakazów konfiskaty (Dz. Urz. UE L 328 z 24.11.2006, str. 59–78). 2) Niniejszą ustawą zmienia się także ustawy: ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy i ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903 oraz z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849 oraz z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 112, poz. 766, z 2008 r. Nr 66, poz. 410, Nr 215, poz. 1355 i Nr 237, poz. 1651 oraz z 2009 r. Nr 3, poz. 11.
 

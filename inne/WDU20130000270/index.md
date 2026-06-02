@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 11 lutego 2013 r. w sprawie wymagań bezpieczeństwa jądrowego i ochrony radiologicznej dla etapu likwidacji obiektów jądrowych oraz zawartości raportu z likwidacji obiektu jądrowego
+# Rozporządzenie Rady Ministrówz dnia 11 lutego 2013 r. w sprawie wymagań bezpieczeństwa jądrowego i ochrony radiologicznej dla etapu likwidacji obiektów jądrowych oraz zawartości raportu z likwidacji obiektu jądrowego Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2009/71/Euratom z dnia 25 czerwca 2009 r. ustanawiającej wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 172 z 02.07.2009, str. 18 oraz Dz. Urz. UE L 260 z 03.10.2009, str. 40).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-02-11 |
 | Data wydania | 2013-02-27 |
-| Wejście w życie | 2013-03-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000270) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/270/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Wstępne czynności w likwidacji obiektu jądrowego Rozdział 3 – Zarządzanie likwidacją obiektu jądrowego Rozdział 4 – Realizacja likwidacji obiektu jądrowego Rozdział 5 – Zakończenie likwidacji obiektu jądrowego i zawartość raportu z likwidacji obiektu jądrowego Rozdział 6 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 38c ust. 3 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2012 r. poz. 264 i 908) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 W rozumieniu niniejszego rozporządzenia użyte określenia oznaczają:
 1)
@@ -47,14 +47,14 @@ stan bezpiecznego wyłączenia – stan obiektu jądrowego po wystąpieniu przew
 system bezpieczeństwa – system obiektu jądrowego przeznaczony do zapobieżenia wystąpieniu lub ograniczenia skutków przewidywanych zdarzeń eksploatacyjnych i warunków awaryjnych, a w przypadku elektrowni jądrowej lub reaktora badawczego – także do osiągnięcia stanu bezpiecznego wyłączenia;
 6)
 ustawa – ustawę z dnia 29 listopada 2000 r. – Prawo atomowe.
+Wstępne czynności w likwidacji obiektu jądrowego
 § 2.
 1.
 Likwidację obiektu jądrowego planuje się i przeprowadza jako likwidację:
 1)
 natychmiastową, w której niezwłocznie po zakończeniu eksploatacji obiektu jądrowego dokonuje się demontażu systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego oraz usunięcia odpadów promieniotwórczych i wypalonego paliwa jądrowego z terenu obiektu jądrowego, albo
 2)
-odłożoną i rozłożoną w czasie, w której demontaż systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego oraz usunięcie odpadów promieniotwórczych i wypalonego paliwa jądrowego z terenu obiektu jądrowego następuje w kilku kolejnych etapach ograniczonych w czasie i co do zakresu prac, wykonywanych w odstępach czasowych
-w zależności od strategii likwidacji przyjętej w programie likwidacji obiektu jądrowego, po uwzględnieniu w szczególności czynników takich jak: względy bezpieczeństwa jądrowego i ochrony radiologicznej, współzależności pomiędzy budowlami, budynkami i instalacjami na terenie obiektu jądrowego, możliwe obciążenia dla przyszłych pokoleń, czy też możliwa z upływem czasu utrata wiedzy i kompetencji w zakresie stanu obiektu jądrowego i jego likwidacji.
+odłożoną i rozłożoną w czasie, w której demontaż systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego oraz usunięcie odpadów promieniotwórczych i wypalonego paliwa jądrowego z terenu obiektu jądrowego następuje w kilku kolejnych etapach ograniczonych w czasie i co do zakresu prac, wykonywanych w odstępach czasowych – w zależności od strategii likwidacji przyjętej w programie likwidacji obiektu jądrowego, po uwzględnieniu w szczególności czynników takich jak: względy bezpieczeństwa jądrowego i ochrony radiologicznej, współzależności pomiędzy budowlami, budynkami i instalacjami na terenie obiektu jądrowego, możliwe obciążenia dla przyszłych pokoleń, czy też możliwa z upływem czasu utrata wiedzy i kompetencji w zakresie stanu obiektu jądrowego i jego likwidacji.
 2.
 W przypadku wyboru strategii likwidacji odłożonej i rozłożonej w czasie wykazuje się, że obiekt jądrowy będzie do czasu rozpoczęcia realizacji likwidacji i przez cały czas likwidacji utrzymywany w stanie bezpiecznym oraz że zostanie on w przyszłości zlikwidowany we właściwy sposób, bez nieuzasadnionego obciążenia przyszłych pokoleń.
 3.
@@ -83,6 +83,7 @@ planowany sposób wykorzystania terenu obiektu jądrowego po zakończeniu likwid
 wpływ planowanych prac likwidacyjnych na środowisko i zdrowie ludności;
 10)
 szacowane koszty likwidacji obiektu jądrowego i wielkość dostępnych środków finansowych zgromadzonych na funduszu likwidacyjnym.
+Zarządzanie likwidacją obiektu jądrowego
 § 5.
 1.
 W jednostce organizacyjnej posiadającej zezwolenie na likwidację obiektu jądrowego zarządzanie przygotowaniem i prowadzenie likwidacji tego obiektu odbywa się z uwzględnieniem:
@@ -106,6 +107,7 @@ przewiduje się rozwiązania zapewniające, że osoby odpowiedzialne za wykonani
 przewiduje się rozwiązania zobowiązujące wszystkie osoby uczestniczące w pracach likwidacyjnych do zgłaszania kierownikowi jednostki organizacyjnej posiadającej zezwolenie na likwidację obiektu jądrowego wszelkich problemów lub potencjalnych zagrożeń bezpieczeństwa jądrowego, ochrony radiologicznej lub warunków bezpieczeństwa i higieny pracy;
 5)
 określa się odpowiednie uprawnienia decyzyjne do zatrzymania prac likwidacyjnych.
+Realizacja likwidacji obiektu jądrowego
 § 6.
 1.
 Realizacja likwidacji obiektu jądrowego może zostać podzielona na kilka etapów, z których pierwszy obejmuje usunięcie paliwa jądrowego z obiektu jądrowego oraz częściowy demontaż obiektu jądrowego, pozwalający na uzyskanie stanu bezpiecznego takiego, że:
@@ -205,6 +207,7 @@ W toku realizacji likwidacji obiektu jądrowego program likwidacji obiektu jądr
 Przegląd i aktualizacja uwzględniają w szczególności ewentualne zmiany w strategii likwidacji, postęp prac likwidacyjnych, odstępstwa od harmonogramu, zmiany w obiekcie jądrowym lub w wymaganiach bezpieczeństwa jądrowego i ochrony radiologicznej od czasu sporządzenia programu likwidacji obiektu jądrowego, postęp technologiczny oraz konieczność prowadzenia dalszych prac likwidacyjnych.
 3.
 Aktualizacja programu likwidacji obiektu jądrowego w toku realizacji likwidacji tego obiektu wymaga zatwierdzenia przez Prezesa Agencji.
+Zakończenie likwidacji obiektu jądrowego i zawartość raportu z likwidacji obiektu jądrowego
 § 16.
 Po zakończeniu prac likwidacyjnych kierownik jednostki organizacyjnej posiadającej zezwolenie na likwidację obiektu jądrowego:
 1)
@@ -235,18 +238,31 @@ wyniki okresowych przeglądów bezpieczeństwa;
 analizę osiągnięcia celów likwidacji;
 11)
 opis nabytych doświadczeń z procesu likwidacji obiektu jądrowego.
+Przepis końcowy
 § 18.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2009/71/Euratom z dnia 25 czerwca 2009 r. ustanawiającej wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 172 z 02.07.2009, str. 18 oraz Dz. Urz. UE L 260 z 03.10.2009, str. 40).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Wstępne czynności w likwidacji obiektu jądrowego
+#### Rozdział 2 – Wstępne czynności w likwidacji obiektu jądrowego
 
-#### Rozdział 3 Zarządzanie likwidacją obiektu jądrowego
+#### Rozdział 3 – Zarządzanie likwidacją obiektu jądrowego
 
-#### Rozdział 4 Realizacja likwidacji obiektu jądrowego
+#### Rozdział 4 – Realizacja likwidacji obiektu jądrowego
 
-#### Rozdział 5 Zakończenie likwidacji obiektu jądrowego i zawartość raportu z likwidacji obiektu jądrowego
+#### Rozdział 5 – Zakończenie likwidacji obiektu jądrowego i zawartość raportu z likwidacji obiektu jądrowego
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

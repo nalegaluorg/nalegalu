@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 21 maja 2024 r. w sprawie przekazywania Komisji Nadzoru Finansowego informacji i dokumentów przez dostawców usług finansowania społecznościowego
+# Rozporządzenie Ministra Finansówz dnia 21 maja 2024 r. w sprawie przekazywania Komisji Nadzoru Finansowego informacji i dokumentów przez dostawców usług finansowania społecznościowego Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-21 |
 | Data wydania | 2024-05-29 |
-| Wejście w życie | 2024-06-01 |
 | Ostatnia zmiana | 2024-05-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000813) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/813/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Zakres informacji przekazywanych Komisji oraz dokumenty potwierdzające te informacje Rozdział 3 – Terminy przekazywania informacji Rozdział 4 – Przepisy przejściowe i przepis końcowy
+Treść rozporządzenia
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Zakres informacji przekazywanych Komisji oraz dokumenty potwierdzające te informacje
+
+#### Rozdział 3 – Terminy przekazywania informacji
+
+#### Rozdział 4 – Przepisy przejściowe i przepis końcowy
 
 ## Załącznik nr 1 — – Zakres informacji o wykupieniu polisy ubezpieczeniowej zaliczanej do ostrożnościowych środków ochrony zgodnie z art. 11 ust. 2 lit. b rozporządzenia 2020/1503
 
@@ -89,8 +96,9 @@ Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Zakres 
 ## Załącznik nr 30 — – Zakres informacji przekazywanych przez dostawcę usług finansowania społecznościowego za każdy rok kalendarzowy
 
 Treść rozporządzenia
-Na podstawie art. 14 ust. 4 ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. z 2023 r. poz. 414 i 1723 oraz z 2024 r. poz. 696) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniającego rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1 oraz Dz. Urz. UE L 273 z 21.10.2022, str. 3). Na podstawie art. 14 ust. 4 ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. z 2023 r. poz. 414 i 1723 oraz z 2024 r. poz. 696) zarządza się, co następuje:
+Rozdział 1
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -106,10 +114,11 @@ organie zatwierdzającym – rozumie się przez to organ zatwierdzający w rozum
 3)
 Kodeksie spółek handlowych – rozumie się przez to ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96);
 4)
-rozporządzeniu 2020/1503 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniające rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1, z późn. zm.);
+rozporządzeniu 2020/1503 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniające rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 273 z 21.10.2022, str. 3.;
 5)
 rozporządzeniu 2022/2112 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2022/2112 z dnia 13 lipca 2022 r. uzupełniające rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych określających wymogi i zasady dotyczące wniosku o udzielenie zezwolenia na prowadzenie działalności jako dostawca usług finansowania społecznościowego (Dz. Urz. UE L 287 z 08.11.2022, str. 5).
-Rozdział 2 Zakres informacji przekazywanych Komisji oraz dokumenty potwierdzające te informacje
+Rozdział 2
+Zakres informacji przekazywanych Komisji oraz dokumenty potwierdzające te informacje
 § 3.
 1.
 Dostawca usług finansowania społecznościowego przekazuje Komisji informacje o:
@@ -296,8 +305,7 @@ procesu decyzyjnego, o którym mowa w art. 3 ust. 4 rozporządzenia 2020/1503, w
 3)
 polityk, procedur i zasad organizacyjnych, o których mowa w rozdziale IV rozporządzenia delegowanego Komisji (UE) 2022/2118 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych w zakresie indywidualnego zarządzania portfelem pożyczek przez dostawców usług finansowania społecznościowego, określającego elementy metody stosowanej do oceny ryzyka kredytowego, informacje dotyczące każdego indywidualnego portfela, które należy ujawnić inwestorom, oraz polityki i procedury wymagane w odniesieniu do funduszy zabezpieczających (Dz. Urz. UE L 287 z 08.11.2022, str. 50),
 4)
-wyników funduszu zabezpieczającego
-w zakresie określonym w załączniku nr 26 do rozporządzenia.
+wyników funduszu zabezpieczającego – w zakresie określonym w załączniku nr 26 do rozporządzenia.
 2.
 W przypadku gdy dostawca usług finansowania społecznościowego nie rozpoczął działalności z początkiem kwartału, przekazuje dane za okres od dnia rozpoczęcia działalności do końca kwartału, w którym rozpoczął działalność.
 § 6.
@@ -324,8 +332,7 @@ nowych lub zmienionych regulacji wewnętrznych,
 10)
 zidentyfikowanych konfliktów interesów,
 11)
-informacji o osobach trzecich i osobach prawnych, które są istotne z punktu widzenia usług świadczonych przez dostawców usług finansowania społecznościowego i które mogą być przedmiotem wymiany między organami nadzoru, zgodnie z art. 2 rozporządzenia delegowanego Komisji (UE) 2022/2113 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych dotyczących wymiany informacji między właściwymi organami w związku z prowadzeniem czynności wyjaśniających, nadzorczych i związanych z egzekwowaniem prawa w odniesieniu do europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych (Dz. Urz. UE L 287 z 08.11.2022, str. 22)
-w zakresie określonym w załączniku nr 27 do rozporządzenia.
+informacji o osobach trzecich i osobach prawnych, które są istotne z punktu widzenia usług świadczonych przez dostawców usług finansowania społecznościowego i które mogą być przedmiotem wymiany między organami nadzoru, zgodnie z art. 2 rozporządzenia delegowanego Komisji (UE) 2022/2113 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych dotyczących wymiany informacji między właściwymi organami w związku z prowadzeniem czynności wyjaśniających, nadzorczych i związanych z egzekwowaniem prawa w odniesieniu do europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych (Dz. Urz. UE L 287 z 08.11.2022, str. 22) – w zakresie określonym w załączniku nr 27 do rozporządzenia.
 2.
 W przypadku gdy dostawca usług finansowania społecznościowego świadczy usługę ułatwiania udzielania pożyczek, przekazuje Komisji, za każde półrocze roku kalendarzowego, również informacje dotyczące:
 1)
@@ -335,8 +342,7 @@ działalności związanej z administracją udzielonych pożyczek,
 3)
 działalności związanej z indywidualnym zarządzaniem portfelem pożyczek,
 4)
-pożyczek, które nie są obsługiwane przez pożyczkobiorców
-w zakresie określonym w załączniku nr 28 do rozporządzenia.
+pożyczek, które nie są obsługiwane przez pożyczkobiorców – w zakresie określonym w załączniku nr 28 do rozporządzenia.
 3.
 Dostawca usług finansowania społecznościowego będący podmiotem, o którym mowa w art. 11 ust. 3 lub 4 rozporządzenia 2020/1503, przekazuje Komisji, za każde półrocze roku kalendarzowego, informacje o prowadzonej przez niego działalności określone w ust. 1 wyłącznie w zakresie, w jakim dotyczą jego działalności jako dostawcy usług finansowania społecznościowego.
 4.
@@ -376,8 +382,7 @@ zobowiązań przeterminowanych,
 6)
 przewidywanego niespełnienia wymogów ostrożnościowych określonych w rozporządzeniu 2020/1503,
 7)
-wybranych danych dotyczących wymogów ostrożnościowych, o których mowa w art. 11 ust. 1 rozporządzenia 2020/1503, oraz działalności w zakresie świadczenia usług finansowania społecznościowego
-w zakresie określonym w załączniku nr 29 do rozporządzenia.
+wybranych danych dotyczących wymogów ostrożnościowych, o których mowa w art. 11 ust. 1 rozporządzenia 2020/1503, oraz działalności w zakresie świadczenia usług finansowania społecznościowego – w zakresie określonym w załączniku nr 29 do rozporządzenia.
 § 11.
 1.
 Dostawca usług finansowania społecznościowego, z wyłączeniem dostawcy usług finansowania społecznościowego będącego podmiotem, o którym mowa w art. 11 ust. 3 lub 4 rozporządzenia 2020/1503, przekazuje Komisji, za każdy rok kalendarzowy, informacje dotyczące:
@@ -390,8 +395,7 @@ rachunku zysków i strat,
 4)
 zestawienia zmian w kapitale (funduszu) własnym,
 5)
-rachunku przepływów pieniężnych
-w zakresie określonym w załączniku nr 30 do rozporządzenia.
+rachunku przepływów pieniężnych – w zakresie określonym w załączniku nr 30 do rozporządzenia.
 2.
 Dostawca usług finansowania społecznościowego dołącza do informacji, o których mowa w ust. 1:
 1)
@@ -408,7 +412,8 @@ imię i nazwisko;
 stanowisko lub funkcję;
 3)
 dane kontaktowe (telefon, e-mail).
-Rozdział 3 Terminy przekazywania informacji
+Rozdział 3
+Terminy przekazywania informacji
 § 13.
 1.
 Dostawca usług finansowania społecznościowego przekazuje Komisji informacje, o których mowa w:
@@ -432,7 +437,8 @@ b)
 niezwłocznie po zakończeniu badania – w przypadku gdy opinia o badanym sprawozdaniu jest opinią z zastrzeżeniem, opinią negatywną albo biegły rewident odstąpił od wydania opinii.
 2.
 W przypadku gdy naruszenie wymogów ostrożnościowych utrzymuje się dłużej niż dzień, dostawca usług finansowania społecznościowego przekazuje informacje, o których mowa w § 3 ust. 1 pkt 33, za każdy dzień roboczy, w którym występuje naruszenie wymogów ostrożnościowych, w dniu roboczym następującym po dniu, którego dotyczą informacje.
-Rozdział 4 Przepisy przejściowe i przepis końcowy
+Rozdział 4
+Przepisy przejściowe i przepis końcowy
 § 14.
 Rozporządzenie ma zastosowanie po raz pierwszy do:
 1)
@@ -442,8 +448,7 @@ informacji przekazywanych za okresy, z którymi wiąże się obowiązek przekaza
 § 15.
 Do informacji przekazywanych za okresy, z którymi wiąże się obowiązek przekazania informacji, rozpoczęte w 2023 r., dla których termin przekazania przypada od dnia wejścia w życie rozporządzenia, stosuje się przepisy dotychczasowe.
 § 16.
-Rozporządzenie wchodzi w życie z dniem 1 czerwca 2024 r.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniającego rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1 oraz Dz. Urz. UE L 273 z 21.10.2022, str. 3). 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 273 z 21.10.2022, str. 3. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 6 lipca 2023 r. w sprawie przekazywania Komisji Nadzoru Finansowego informacji i dokumentów przez dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz wzorów raportów i sprawozdań służących do przekazywania tych informacji (Dz. U. poz. 1592), które traci moc z dniem 1 czerwca 2024 r. w związku z wejściem w życie ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723).
+Rozporządzenie wchodzi w życie z dniem 1 czerwca 2024 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 6 lipca 2023 r. w sprawie przekazywania Komisji Nadzoru Finansowego informacji i dokumentów przez dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz wzorów raportów i sprawozdań służących do przekazywania tych informacji (Dz. U. poz. 1592), które traci moc z dniem 1 czerwca 2024 r. w związku z wejściem w życie ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniającego rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1 oraz Dz. Urz. UE L 273 z 21.10.2022, str. 3). 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 273 z 21.10.2022, str. 3. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 6 lipca 2023 r. w sprawie przekazywania Komisji Nadzoru Finansowego informacji i dokumentów przez dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz wzorów raportów i sprawozdań służących do przekazywania tych informacji (Dz. U. poz. 1592), które traci moc z dniem 1 czerwca 2024 r. w związku z wejściem w życie ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723).
 
 ## Załącznik nr 1 — – Zakres informacji o wykupieniu polisy ubezpieczeniowej zaliczanej do ostrożnościowych środków ochrony zgodnie z art. 11 ust. 2 lit. b rozporządzenia 2020/1503
 
@@ -744,7 +749,7 @@ numer wpisu na listę firm audytorskich;
 4)
 data zawarcia umowy z firmą audytorską;
 5)
-czy dostawca usług finansowania społecznościowego korzystał w przeszłości z usług tej firmy audytorskiej;
+czy dostawca usług finansowania społecznościowego korzystał w przeszłości z usług tej firmy audytorskiejW przypadku odpowiedzi twierdzącej należy podać zakres usług świadczonych przez tę firmę audytorską i okres, w jakim te usługi były świadczone.;
 6)
 okres, na jaki została zawarta umowa;
 7)
@@ -752,8 +757,7 @@ organ dostawcy usług finansowania społecznościowego, który dokonał wyboru f
 8)
 data zawarcia umowy;
 9)
-data rozwiązania umowy.
-1) W przypadku odpowiedzi twierdzącej należy podać zakres usług świadczonych przez tę firmę audytorską i okres, w jakim te usługi były świadczone.
+data rozwiązania umowy. 1) W przypadku odpowiedzi twierdzącej należy podać zakres usług świadczonych przez tę firmę audytorską i okres, w jakim te usługi były świadczone.
 
 ## Załącznik nr 13 — – Zakres informacji o wypowiedzeniu albo rozwiązaniu przez dostawcę usług finansowania społecznościowego albo firmę audytorską umowy o badanie sprawozdań finansowych
 
@@ -981,40 +985,41 @@ polityka ciągłości działania,
 f)
 przejrzystość i ujawnianie informacji inwestorom.
 
-## Załącznik nr 25 — – Zakres informacji przekazywanych za każdy kwartał roku kalendarzowego przez dostawcę usług finansowania społecznościowego świadczącego usługę, o której mowa w art. 2 ust. 1 lit. a ppkt (ii) rozporządzenia 2020/1503, o projektach opartych na finansowaniu społecznościowym objętych tą usługą
+## Załącznik nr 25 — – Zakres informacji przekazywanych za każdy kwartał roku kalendarzowego przez dostawcę usług finansowania społecznościowego świadczącego usługę, o której mowa w art. 2 ust. 1 lit. a ppkt (ii) rozporządzenia 2020/1503, o projektach opartych na finansowaniu społecznościowym objętych tą usługąNależy podać dane dotyczące: 1) projektów sfinansowanych za pośrednictwem dostawcy usług finansowania społecznościowego, 2) prowadzonych projektów, które nie doszły do skutku – zakończonych w danym kwartale.
 
+W przypadku wartości denominowanych w walutach obcych należy przedstawić wartość w PLN, dokonując przeliczenia na walutę polską według średniego kursu ogłaszanego przez Narodowy Bank Polski obowiązującego na ostatni dzień danego kwartału.
 1)
 firma (nazwa) albo imię i nazwisko właściciela projektu;
 2)
-identyfikator właściciela projektu;
+identyfikator właściciela projektuNależy podać: 1) dla osób prawnych – kod LEI, a w przypadku braku kodu LEI – numer KRS; 2) dla osób fizycznych – numer PESEL.;
 3)
-unikatowy identyfikator oferty;
+unikatowy identyfikator ofertyNależy podać niepowtarzalny identyfikator oferty określony w art. 3 rozporządzenia delegowanego Komisji (UE) 2022/2119 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych dotyczących arkusza kluczowych informacji inwestycyjnych (Dz. Urz. UE L 287 z 08.11.2022, str. 63).;
 4)
-sektor;
+sektorNależy podać sektor, w którym właściciel projektu prowadzi działalność, określony na pierwszym poziomie klasyfikacji zgodnie z art. 2 ust. 1 lit. a rozporządzenia (WE) nr 1893/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie statystycznej klasyfikacji działalności gospodarczej NACE Rev. 2 i zmieniającego rozporządzenie Rady (EWG) nr 3037/90 oraz niektóre rozporządzenia WE w sprawie określonych dziedzin statystycznych (Dz. Urz. UE L 393 z 30.12.2006, str. 1, z późn. zm.).;
 5)
 czy projekt doszedł do skutku;
 6)
-kwota pozyskana od:
+kwota pozyskana odNależy podać: 1) wartość środków wpłaconych przez inwestorów, które zostały przeznaczone na realizację projektu, z wyszczególnieniem środków pozyskanych od poszczególnych kategorii inwestorów – w przypadku udzielenia odpowiedzi twierdzącej w pkt 5; 2) wartość środków, które zostały wpłacone przez inwestorów w czasie trwania projektu, z wyszczególnieniem środków pozyskanych od poszczególnych kategorii inwestorów – w przypadku udzielenia odpowiedzi przeczącej w pkt 5.:
 a)
-inwestora niedoświadczonego,
+inwestora niedoświadczonegoPrzez inwestora niedoświadczonego rozumie się inwestora niebędącego inwestorem doświadczonym ani właścicielem projektu.,
 b)
-inwestora doświadczonego niebędącego klientem profesjonalnym,
+inwestora doświadczonego niebędącego klientem profesjonalnymPrzez inwestora doświadczonego niebędącego klientem profesjonalnym rozumie się osobę fizyczną lub prawną, której status klienta doświadczonego jest potwierdzony przez dostawcę usług finansowania społecznościowego zgodnie z załącznikiem II pkt II do rozporządzenia 2020/1503.,
 c)
-inwestora doświadczonego będącego klientem profesjonalnym,
+inwestora doświadczonego będącego klientem profesjonalnymPrzez inwestora doświadczonego będącego klientem profesjonalnym rozumie się inwestora, o którym mowa w załączniku II pkt III do rozporządzenia 2020/1503.,
 d)
 właściciela projektu;
 7)
-liczba inwestorów:
+liczba inwestorówNależy podać: 1) liczbę inwestorów, którzy wpłacili środki w ramach projektu, z wyszczególnieniem poszczególnych kategorii inwestorów – w przypadku udzielenia odpowiedzi twierdzącej w pkt 5; 2) liczbę inwestorów, którzy wpłacili środki w czasie trwania projektu, z wyszczególnieniem środków pozyskanych od poszczególnych kategorii inwestorów – w przypadku udzielenia odpowiedzi przeczącej w pkt 5.:
 a)
-inwestor niedoświadczony,
+inwestor niedoświadczonyPrzez inwestora niedoświadczonego rozumie się inwestora niebędącego inwestorem doświadczonym ani właścicielem projektu.,
 b)
-inwestor doświadczony niebędący klientem profesjonalnym,
+inwestor doświadczony niebędący klientem profesjonalnymPrzez inwestora doświadczonego niebędącego klientem profesjonalnym rozumie się osobę fizyczną lub prawną, której status klienta doświadczonego jest potwierdzony przez dostawcę usług finansowania społecznościowego zgodnie z załącznikiem II pkt II do rozporządzenia 2020/1503.,
 c)
-inwestor doświadczony będący klientem profesjonalnym,
+inwestor doświadczony będący klientem profesjonalnymPrzez inwestora doświadczonego będącego klientem profesjonalnym rozumie się inwestora, o którym mowa w załączniku II pkt III do rozporządzenia 2020/1503.,
 d)
 właściciel projektu;
 8)
-czy w informacjach skierowanych do potencjalnych inwestorów została zawarta informacja, z której wynika, że inwestycja:
+czy w informacjach skierowanych do potencjalnych inwestorów została zawarta informacja, z której wynika, że inwestycjaNależy uwzględnić przypadek, gdy informacja dotycząca zrównoważonego rozwoju była udostępniana inwestorom przez dostawcę usług finansowania społecznościowego, oraz przypadek, gdy dostawca usług finansowania społecznościowego posiada wiedzę, że właściciel projektu kierował takie informacje do potencjalnych inwestorów.:
 a)
 jest zrównoważona,
 b)
@@ -1022,10 +1027,9 @@ bierze pod uwagę czynniki zrównoważonego rozwoju,
 c)
 uwzględnia ryzyko dla zrównoważonego rozwoju;
 9)
-wynagrodzenie otrzymane od właściciela projektu;
+wynagrodzenie otrzymane od właściciela projektuNależy wykazać całkowite wynagrodzenie, które dostawca usług finansowania społecznościowego otrzymał od właściciela projektu w związku z projektami zakończonymi w danym kwartale.;
 10)
-dodatkowe informacje.
-1) Należy podać dane dotyczące: 1) projektów sfinansowanych za pośrednictwem dostawcy usług finansowania społecznościowego, 2) prowadzonych projektów, które nie doszły do skutku – zakończonych w danym kwartale. 2) W przypadku wartości denominowanych w walutach obcych należy przedstawić wartość w PLN, dokonując przeliczenia na walutę polską według średniego kursu ogłaszanego przez Narodowy Bank Polski obowiązującego na ostatni dzień danego kwartału. 3) Należy podać: 1) dla osób prawnych – kod LEI, a w przypadku braku kodu LEI – numer KRS; 2) dla osób fizycznych – numer PESEL. 4) Należy podać niepowtarzalny identyfikator oferty określony w art. 3 rozporządzenia delegowanego Komisji (UE) 2022/2119 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych dotyczących arkusza kluczowych informacji inwestycyjnych (Dz. Urz. UE L 287 z 08.11.2022, str. 63). 5) Należy podać sektor, w którym właściciel projektu prowadzi działalność, określony na pierwszym poziomie klasyfikacji zgodnie z art. 2 ust. 1 lit. a rozporządzenia (WE) nr 1893/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie statystycznej klasyfikacji działalności gospodarczej NACE Rev. 2 i zmieniającego rozporządzenie Rady (EWG) nr 3037/90 oraz niektóre rozporządzenia WE w sprawie określonych dziedzin statystycznych (Dz. Urz. UE L 393 z 30.12.2006, str. 1, z późn. zm.). 6) Należy podać: 1) wartość środków wpłaconych przez inwestorów, które zostały przeznaczone na realizację projektu, z wyszczególnieniem środków pozyskanych od poszczególnych kategorii inwestorów – w przypadku udzielenia odpowiedzi twierdzącej w pkt 5; 2) wartość środków, które zostały wpłacone przez inwestorów w czasie trwania projektu, z wyszczególnieniem środków pozyskanych od poszczególnych kategorii inwestorów – w przypadku udzielenia odpowiedzi przeczącej w pkt 5. 7) Przez inwestora niedoświadczonego rozumie się inwestora niebędącego inwestorem doświadczonym ani właścicielem projektu. 8) Przez inwestora doświadczonego niebędącego klientem profesjonalnym rozumie się osobę fizyczną lub prawną, której status klienta doświadczonego jest potwierdzony przez dostawcę usług finansowania społecznościowego zgodnie z załącznikiem II pkt II do rozporządzenia 2020/1503. 9) Przez inwestora doświadczonego będącego klientem profesjonalnym rozumie się inwestora, o którym mowa w załączniku II pkt III do rozporządzenia 2020/1503. 10) Należy podać: 1) liczbę inwestorów, którzy wpłacili środki w ramach projektu, z wyszczególnieniem poszczególnych kategorii inwestorów – w przypadku udzielenia odpowiedzi twierdzącej w pkt 5; 2) liczbę inwestorów, którzy wpłacili środki w czasie trwania projektu, z wyszczególnieniem środków pozyskanych od poszczególnych kategorii inwestorów – w przypadku udzielenia odpowiedzi przeczącej w pkt 5. 11) Należy uwzględnić przypadek, gdy informacja dotycząca zrównoważonego rozwoju była udostępniana inwestorom przez dostawcę usług finansowania społecznościowego, oraz przypadek, gdy dostawca usług finansowania społecznościowego posiada wiedzę, że właściciel projektu kierował takie informacje do potencjalnych inwestorów. 12) Należy wykazać całkowite wynagrodzenie, które dostawca usług finansowania społecznościowego otrzymał od właściciela projektu w związku z projektami zakończonymi w danym kwartale. 13) Należy podać: 1) dlaczego projekt nie doszedł do skutku – w przypadku udzielenia odpowiedzi przeczącej w pkt 5; 2) standardy, jakie zostały zastosowane w celu oceny zakresu informacji dotyczących zrównoważonego rozwoju, oraz źródła tych standardów – w przypadku udzielenia odpowiedzi twierdzącej w pkt 8.
+dodatkowe informacjeNależy podać: 1) dlaczego projekt nie doszedł do skutku – w przypadku udzielenia odpowiedzi przeczącej w pkt 5; 2) standardy, jakie zostały zastosowane w celu oceny zakresu informacji dotyczących zrównoważonego rozwoju, oraz źródła tych standardów – w przypadku udzielenia odpowiedzi twierdzącej w pkt 8.. 1) Należy podać dane dotyczące: 1) projektów sfinansowanych za pośrednictwem dostawcy usług finansowania społecznościowego, 2) prowadzonych projektów, które nie doszły do skutku – zakończonych w danym kwartale. 2) W przypadku wartości denominowanych w walutach obcych należy przedstawić wartość w PLN, dokonując przeliczenia na walutę polską według średniego kursu ogłaszanego przez Narodowy Bank Polski obowiązującego na ostatni dzień danego kwartału. 3) Należy podać: 1) dla osób prawnych – kod LEI, a w przypadku braku kodu LEI – numer KRS; 2) dla osób fizycznych – numer PESEL. 4) Należy podać niepowtarzalny identyfikator oferty określony w art. 3 rozporządzenia delegowanego Komisji (UE) 2022/2119 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych dotyczących arkusza kluczowych informacji inwestycyjnych (Dz. Urz. UE L 287 z 08.11.2022, str. 63). 5) Należy podać sektor, w którym właściciel projektu prowadzi działalność, określony na pierwszym poziomie klasyfikacji zgodnie z art. 2 ust. 1 lit. a rozporządzenia (WE) nr 1893/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie statystycznej klasyfikacji działalności gospodarczej NACE Rev. 2 i zmieniającego rozporządzenie Rady (EWG) nr 3037/90 oraz niektóre rozporządzenia WE w sprawie określonych dziedzin statystycznych (Dz. Urz. UE L 393 z 30.12.2006, str. 1, z późn. zm.). 6) Należy podać: 1) wartość środków wpłaconych przez inwestorów, które zostały przeznaczone na realizację projektu, z wyszczególnieniem środków pozyskanych od poszczególnych kategorii inwestorów – w przypadku udzielenia odpowiedzi twierdzącej w pkt 5; 2) wartość środków, które zostały wpłacone przez inwestorów w czasie trwania projektu, z wyszczególnieniem środków pozyskanych od poszczególnych kategorii inwestorów – w przypadku udzielenia odpowiedzi przeczącej w pkt 5. 7) Przez inwestora niedoświadczonego rozumie się inwestora niebędącego inwestorem doświadczonym ani właścicielem projektu. 8) Przez inwestora doświadczonego niebędącego klientem profesjonalnym rozumie się osobę fizyczną lub prawną, której status klienta doświadczonego jest potwierdzony przez dostawcę usług finansowania społecznościowego zgodnie z załącznikiem II pkt II do rozporządzenia 2020/1503. 9) Przez inwestora doświadczonego będącego klientem profesjonalnym rozumie się inwestora, o którym mowa w załączniku II pkt III do rozporządzenia 2020/1503. 10) Należy podać: 1) liczbę inwestorów, którzy wpłacili środki w ramach projektu, z wyszczególnieniem poszczególnych kategorii inwestorów – w przypadku udzielenia odpowiedzi twierdzącej w pkt 5; 2) liczbę inwestorów, którzy wpłacili środki w czasie trwania projektu, z wyszczególnieniem środków pozyskanych od poszczególnych kategorii inwestorów – w przypadku udzielenia odpowiedzi przeczącej w pkt 5. 11) Należy uwzględnić przypadek, gdy informacja dotycząca zrównoważonego rozwoju była udostępniana inwestorom przez dostawcę usług finansowania społecznościowego, oraz przypadek, gdy dostawca usług finansowania społecznościowego posiada wiedzę, że właściciel projektu kierował takie informacje do potencjalnych inwestorów. 12) Należy wykazać całkowite wynagrodzenie, które dostawca usług finansowania społecznościowego otrzymał od właściciela projektu w związku z projektami zakończonymi w danym kwartale. 13) Należy podać: 1) dlaczego projekt nie doszedł do skutku – w przypadku udzielenia odpowiedzi przeczącej w pkt 5; 2) standardy, jakie zostały zastosowane w celu oceny zakresu informacji dotyczących zrównoważonego rozwoju, oraz źródła tych standardów – w przypadku udzielenia odpowiedzi twierdzącej w pkt 8.
 
 ## Załącznik nr 26 — – Zakres informacji przekazywanych za każdy kwartał roku kalendarzowego przez dostawcę usług finansowania społecznościowego świadczącego usługę indywidualnego zarządzania portfelem pożyczek o istotnych zmianach albo o braku takich zmian w zakresie systemów i mechanizmów kontroli, procesu decyzyjnego, polityk, procedur i zasad organizacyjnych oraz wyników funduszu zabezpieczającego
 
@@ -1115,7 +1119,7 @@ reklamacje złożone przez klientów, w tym reklamacje dotyczące usług świadc
 a)
 liczba reklamacji, które wpłynęły do podmiotu,
 b)
-liczba reklamacji w podziale na poniższe usługi:
+liczba reklamacji w podziale na poniższe usługiJedna reklamacja może dotyczyć więcej niż jednej usługi. Przedmiotem jednej reklamacji może być więcej niż jeden rodzaj usług.:
 – ułatwianie udzielania pożyczek,
 – subemisja bez gwarancji przejęcia emisji oraz przyjmowanie i przekazywanie zleceń klientów,
 – przechowywanie aktywów,
@@ -1124,7 +1128,7 @@ liczba reklamacji w podziale na poniższe usługi:
 – inne usługi,
 c)
 liczba reklamacji w podziale na przedmiot:
-– reklamacje związane z procesem świadczenia usług finansowania społecznościowego,
+– reklamacje związane z procesem świadczenia usług finansowania społecznościowegoW szczególności niedostateczna/błędna informacja o usłudze, niedostosowanie usługi do potrzeb klienta.,
 – reklamacje związane z systemami i rozwiązaniami technicznymi,
 – reklamacje związane z procedurami, regulaminami, warunkami umowy, kosztami i opłatami,
 – inne usługi,
@@ -1134,13 +1138,13 @@ liczba reklamacji rozpatrzonych:
 – uwzględniających częściowo roszczenia klientów,
 – nieuwzględniających roszczeń klientów,
 e)
-pięć reklamacji pod względem najwyższej wartości uznanych roszczeń klientów, które zostały rozpatrzone w danym półroczu, oraz reklamacji pozostałych:
-– usługa, której dotyczy reklamacja,
+pięć reklamacji pod względem najwyższej wartości uznanych roszczeń klientów, które zostały rozpatrzone w danym półroczu, oraz reklamacji pozostałychNależy podać wartość uznanych roszczeń, także w przypadku gdy nie zostały jeszcze wypłacone.:
+– usługa, której dotyczy reklamacjaZgodnie z rodzajami usług określonymi w pkt 6 lit. b.,
 – projekt oparty na finansowaniu społecznościowym, którego dotyczy reklamacja,
-– przedmiot reklamacji,
+– przedmiot reklamacjiZgodnie z podziałem ze względu na przedmiot reklamacji, określonym w pkt 6 lit. c.,
 – kwota roszczeń, które zgłosił klient w momencie składania reklamacji (w PLN),
 – kwota uznanych roszczeń – wypłacona lub do wypłaty (w PLN),
-– pozostałe;
+– pozostałeNależy podać łączną kwotę roszczeń uznanych dla pozostałych reklamacji (bez uwzględnienia pięciu z nich o największej wartości), które zostały rozpatrzone w danym półroczu.;
 7)
 zabezpieczenie i archiwizacja dokumentów związanych z prowadzoną działalnością:
 a)
@@ -1211,26 +1215,48 @@ osobami fizycznymi:
 – data urodzenia,
 – miejsce urodzenia,
 – numer identyfikacyjny (PESEL w przypadku obywateli polskich oraz osób innych niż obywatele polscy posiadających ten numer albo identyfikator cudzoziemca nadany w kraju jego pochodzenia wraz ze wskazaniem nazwy tego identyfikatora),
-– dane adresowe miejsca zamieszkania: – – państwo, – – kod pocztowy, – – miejscowość, – – ulica, – – numer budynku / numer lokalu, – dane kontaktowe (telefon, e-mail),
+dane adresowe miejsca zamieszkania:
+– – państwo, – – kod pocztowy, – – miejscowość, – – ulica, – – numer budynku / numer lokalu,
+– dane kontaktowe (telefon, e-mail),
 b)
 osobami prawnymi:
 – firma (nazwa) osoby prawnej,
-– dane adresowe siedziby głównej lub siedziby statutowej osoby prawnej: – – państwo, – – kod pocztowy, – – miejscowość, – – ulica, – – numer budynku / numer lokalu, – dane adresowe do doręczeń, jeżeli się różni on od adresu siedziby głównej lub siedziby statutowej: – – państwo, – – kod pocztowy, – – miejscowość, – – ulica, – – numer budynku / numer lokalu, – dane kontaktowe (telefon, e-mail), – numer identyfikacyjny (REGON lub NIP w przypadku osób prawnych z siedzibą na terytorium Rzeczypospolitej Polskiej albo identyfikator zagranicznej osoby prawnej nadany w kraju jego siedziby wraz ze wskazaniem nazwy tego identyfikatora), – identyfikator podmiotu prawnego (kod LEI, jeżeli go posiada), – wykaz osób kierujących działalnością osoby prawnej: – – imiona i nazwiska, – – data urodzenia, – – miejsce urodzenia, – – numery identyfikacyjne (PESEL w przypadku obywateli polskich oraz osób innych niż obywatele polscy posiadających ten numer albo identyfikator cudzoziemca nadany w kraju jego pochodzenia wraz ze wskazaniem nazwy tego identyfikatora), – – dane adresowe miejsca zamieszkania: – – – państwo, – – – kod pocztowy, – – – miejscowość, – – – ulica, – – – numer budynku / numer lokalu, – – dane kontaktowe do tych osób (telefon, e-mail);
+dane adresowe siedziby głównej lub siedziby statutowej osoby prawnej:
+– – państwo,
+– – kod pocztowy,
+– – miejscowość,
+– – ulica,
+– – numer budynku / numer lokalu,
+dane adresowe do doręczeń, jeżeli się różni on od adresu siedziby głównej lub siedziby statutowej:
+– – państwo,
+– – kod pocztowy,
+– – miejscowość,
+– – ulica,
+– – numer budynku / numer lokalu,
+– dane kontaktowe (telefon, e-mail),
+– numer identyfikacyjny (REGON lub NIP w przypadku osób prawnych z siedzibą na terytorium Rzeczypospolitej Polskiej albo identyfikator zagranicznej osoby prawnej nadany w kraju jego siedziby wraz ze wskazaniem nazwy tego identyfikatora),
+– identyfikator podmiotu prawnego (kod LEI, jeżeli go posiada),
+wykaz osób kierujących działalnością osoby prawnej:
+– – imiona i nazwiska,
+– – data urodzenia,
+– – miejsce urodzenia,
+– – numery identyfikacyjne (PESEL w przypadku obywateli polskich oraz osób innych niż obywatele polscy posiadających ten numer albo identyfikator cudzoziemca nadany w kraju jego pochodzenia wraz ze wskazaniem nazwy tego identyfikatora),
+– – dane adresowe miejsca zamieszkania: – – – państwo, – – – kod pocztowy, – – – miejscowość, – – – ulica, – – – numer budynku / numer lokalu,
+– – dane kontaktowe do tych osób (telefon, e-mail);
 13)
-struktura organizacyjna według stanu na początek oraz na koniec danego półrocza.
-1) Jedna reklamacja może dotyczyć więcej niż jednej usługi. Przedmiotem jednej reklamacji może być więcej niż jeden rodzaj usług. 2) W szczególności niedostateczna/błędna informacja o usłudze, niedostosowanie usługi do potrzeb klienta. 3) Należy podać wartość uznanych roszczeń, także w przypadku gdy nie zostały jeszcze wypłacone. 4) Zgodnie z rodzajami usług określonymi w pkt 6 lit. b. 5) Zgodnie z podziałem ze względu na przedmiot reklamacji, określonym w pkt 6 lit. c. 6) Należy podać łączną kwotę roszczeń uznanych dla pozostałych reklamacji (bez uwzględnienia pięciu z nich o największej wartości), które zostały rozpatrzone w danym półroczu.
+struktura organizacyjna według stanu na początek oraz na koniec danego półrocza. 1) Jedna reklamacja może dotyczyć więcej niż jednej usługi. Przedmiotem jednej reklamacji może być więcej niż jeden rodzaj usług. 2) W szczególności niedostateczna/błędna informacja o usłudze, niedostosowanie usługi do potrzeb klienta. 3) Należy podać wartość uznanych roszczeń, także w przypadku gdy nie zostały jeszcze wypłacone. 4) Zgodnie z rodzajami usług określonymi w pkt 6 lit. b. 5) Zgodnie z podziałem ze względu na przedmiot reklamacji, określonym w pkt 6 lit. c. 6) Należy podać łączną kwotę roszczeń uznanych dla pozostałych reklamacji (bez uwzględnienia pięciu z nich o największej wartości), które zostały rozpatrzone w danym półroczu.
 
-## Załącznik nr 28 — – Zakres informacji dotyczących świadczenia usługi ułatwiania udzielania pożyczek przekazywanych za każde półrocze roku kalendarzowego
+## Załącznik nr 28 — – Zakres informacji dotyczących świadczenia usługi ułatwiania udzielania pożyczek przekazywanych za każde półrocze roku kalendarzowegoNależy podać dane na ostatni dzień półrocza (t), w formacie daty: rok-miesiąc-dzień, z wyjątkiem przypadków, w których dane odnoszą się do innego wskazanego okresu.
 
 1)
 pożyczki udzielone przez inwestorów w danym półroczu:
 a)
 firma (nazwa) pożyczkobiorcy,
 b)
-forma prawna pożyczkobiorcy,
+forma prawna pożyczkobiorcyPrzykładowo spółka akcyjna, spółka z o.o.,
 c)
 dane adresowe pożyczkobiorcy:
-– państwo,
+– państwoNależy podać w przypadku państwa innego niż Rzeczpospolita Polska.,
 – kod pocztowy,
 – miejscowość,
 – ulica,
@@ -1248,7 +1274,7 @@ czy subskrypcja doszła do skutku,
 i)
 planowana data spłaty pożyczki – data zapadalności pożyczki (rok-miesiąc-dzień),
 j)
-waluta pożyczki według standardu ISO 4217,
+waluta pożyczki według standardu ISO 4217Przykładowo PLN dla pożyczki w złotych.,
 k)
 kurs waluty w PLN na dzień zamknięcia subskrypcji pożyczki – kwota i data (rok-miesiąc-dzień),
 l)
@@ -1262,20 +1288,23 @@ typ stopy procentowej – stała (S) albo zmienna (Z),
 p)
 wysokość stopy procentowej w przypadku oprocentowania według stałej stopy (w %),
 q)
-stopa odniesienia, jeżeli stopa procentowa jest zmienna,
+stopa odniesienia, jeżeli stopa procentowa jest zmiennaPrzykładowo EURIBOR 6M.,
 r)
 zależność miedzy stopą pożyczki a stopą zmienną (wskaźnik referencyjny 3M+5 %, jeżeli pożyczka jest oprocentowana według stopy zmiennej),
 s)
-liczba rat,
+liczba ratWartość „1” oznacza, że spłata następuje w dniu zapadalności kredytu.,
 t)
 sposób ustalania rat pożyczki (sposób i terminy spłaty kapitału i odsetek, z uwzględnieniem informacji, czy raty są stałe, rosnące lub malejące, według określonego wzoru lub indywidualnego harmonogramu),
 u)
 czy istnieje możliwość wcześniejszej spłaty kredytu,
 v)
 liczba inwestorów, którzy udzielili kredytu pożyczkobiorcy, bez uwzględnienia zmian wynikających ze sprzedaży pożyczek przez inwestorów:
-– w tym pochodzących z zagranicy: – – kwota pozyskana od inwestorów pochodzących z zagranicy, – w tym liczba inwestorów pochodzących spoza Unii Europejskiej: – – kwota pozyskana od inwestorów pochodzących spoza Unii Europejskiej,
+w tym pochodzących z zagranicy:
+– – kwota pozyskana od inwestorów pochodzących z zagranicy,
+w tym liczba inwestorów pochodzących spoza Unii Europejskiej:
+– – kwota pozyskana od inwestorów pochodzących spoza Unii Europejskiej,
 w)
-liczba rezydentów amerykańskich w rozumieniu FATCA wśród inwestorów,
+liczba rezydentów amerykańskich w rozumieniu FATCAUmowa między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA, oraz towarzyszące Uzgodnienia Końcowe, podpisane w Warszawie dnia 7 października 2014 r. (Dz. U. z 2015 r. poz. 1647, z późn. zm.). wśród inwestorów,
 x)
 liczba inwestorów niedoświadczonych,
 y)
@@ -1285,9 +1314,9 @@ czy dostawca usług finansowania społecznościowego określił cenę oferty fin
 za)
 czy dostawca usług finansowania społecznościowego dokonał oceny ryzyka kredytowego pożyczki,
 zb)
-wynik oceny ryzyka kredytowego pożyczki przez dostawcę usług finansowania społecznościowego,
+wynik oceny ryzyka kredytowego pożyczki przez dostawcę usług finansowania społecznościowegoNależy podać ocenę słowną (ryzyko wysokie, średnie, niskie) albo wartość ryzyka w PLN, albo wartość punktową ryzyka.,
 zc)
-skala oceny ryzyka,
+skala oceny ryzykaNależy opisać.,
 zd)
 czy właściciel projektu spłacił w terminie poprzednio otrzymane kredyty lub pożyczki,
 ze)
@@ -1295,11 +1324,11 @@ czy właściciel projektu jest osobowo lub organizacyjnie powiązany z podmiotem
 zf)
 czy ustanowiono zabezpieczenie dla pożyczki,
 zg)
-forma zabezpieczenia,
+forma zabezpieczeniaPrzykładowo gwarancja, poręczenie, hipoteka, zastaw.,
 zh)
 kwoty poszczególnych zabezpieczeń wraz z rodzajem zabezpieczenia,
 zi)
-okres ważności zabezpieczenia,
+okres ważności zabezpieczeniaPrzykładowo poręczenia ograniczonego w czasie; w przypadku kilku zabezpieczeń należy podać również, które zabezpieczenie jest ograniczone w czasie; podać datę końca ważności zabezpieczenia.,
 zj)
 inne ograniczenia skuteczności zabezpieczenia;
 2)
@@ -1313,7 +1342,7 @@ liczba czynnych pożyczek, których termin spłaty minął:
 – kwota czynnych pożyczek, których termin spłaty minął,
 – kwota należnych odsetek dla pożyczek, których termin spłaty minął,
 c)
-liczba czynnych pożyczek, dla których odnotowano incydenty w spłacie:
+liczba czynnych pożyczek, dla których odnotowano incydenty w spłaciePrzykładowo opóźnienia w spłacie, nieterminowe regulowanie rat.:
 – kwota czynnych pożyczek (kwota kapitału), dla których odnotowano incydenty w spłacie,
 d)
 kwota zabezpieczeń pożyczek udzielonych przez pożyczkobiorców lub osoby trzecie:
@@ -1333,7 +1362,7 @@ kwota zabezpieczeń pożyczek udzielonych przez pożyczkobiorców lub osoby trze
 – w formie ubezpieczenia kredytu,
 – w formie ubezpieczenia nieruchomości,
 – w formie oświadczenia o poddaniu się egzekucji,
-– inne,
+– inneNależy wskazać rodzaj zabezpieczenia.,
 e)
 historyczna stopa niewypłacalności za ostatnie 3 lata,
 – za ostatnie 12 miesięcy – okres [t-12; t],
@@ -1347,7 +1376,12 @@ h)
 wartość opłat i prowizji uiszczanych przez właścicieli projektów w ciągu ostatniego roku,
 i)
 struktura portfela pożyczek:
-– kwota pożyczek o terminie zapadalności do roku: – – w tym nieobsługiwanych, – kwota pożyczek z terminem zapadalności do 5 lat: – – w tym nieobsługiwanych, – kwota pożyczek z terminem zapadalności powyżej 5 lat: – – w tym nieobsługiwanych;
+kwota pożyczek o terminie zapadalności do roku:
+– – w tym nieobsługiwanych,
+kwota pożyczek z terminem zapadalności do 5 lat:
+– – w tym nieobsługiwanych,
+kwota pożyczek z terminem zapadalności powyżej 5 lat:
+– – w tym nieobsługiwanych;
 3)
 działalność związana z indywidualnym zarządzaniem portfelem pożyczek:
 a)
@@ -1359,7 +1393,7 @@ liczba klientów, którzy rozwiązali umowę w okresie ostatnich 12 miesięcy,
 d)
 kwota nominalna pożyczek z uwzględnieniem dokonanych spłat indywidualnych portfeli pożyczek zarządzanych przez dostawcę usług finansowania społecznościowego,
 e)
-wycena indywidualnych portfeli pożyczek,
+wycena indywidualnych portfeli pożyczekSuma indywidualnych portfeli obliczanych zgodnie z art. 14 rozporządzenia delegowanego Komisji (UE) 2022/2118 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych w zakresie indywidualnego zarządzania portfelem pożyczek przez dostawców usług finansowania społecznościowego, określającego elementy metody stosowanej do oceny ryzyka kredytowego, informacje dotyczące każdego indywidualnego portfela, które należy ujawnić inwestorom, oraz polityki i procedury wymagane w odniesieniu do funduszy zabezpieczających (Dz. Urz. UE L 287 z 08.11.2022, str. 50).,
 f)
 kwota niespłacanych pożyczek:
 – kwota pożyczek, dla których występują incydenty w spłacie pożyczek (nieterminowa spłata),
@@ -1369,7 +1403,7 @@ historyczna stopa niewypłacalności za ostatnie 3 lata:
 – w okresie poprzednim [t-24; t-13],
 – w okresie poprzednim [t-36; t-25],
 h)
-oczekiwana stopa niewypłacalności dla niespłaconych i niezapadłych pożyczek,
+oczekiwana stopa niewypłacalności dla niespłaconych i niezapadłych pożyczekObliczanych zgodnie z art. 4 ust. 1 rozporządzenia delegowanego Komisji (UE) 2022/2115 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych określających metodę obliczania współczynników niewykonania zobowiązań z tytułu pożyczek oferowanych na platformie finansowania społecznościowego (Dz. Urz. UE L 287 z 08.11.2022, str. 33).,
 i)
 kwota zabezpieczeń pożyczek udzielonych przez pożyczkobiorców lub osoby trzecie:
 – w formie gwarancji bankowej,
@@ -1387,7 +1421,7 @@ kwota zabezpieczeń pożyczek udzielonych przez pożyczkobiorców lub osoby trze
 – w formie blokady środków na rachunku,
 – w formie ubezpieczenia kredytu,
 – w formie ubezpieczenia nieruchomości,
-– inne,
+– inneNależy wskazać rodzaj zabezpieczenia.,
 j)
 fundusz zabezpieczający, o którym mowa w art. 6 ust. 5 rozporządzenia 2020/1503:
 – łączna wartość kwot pozyskanych do funduszu w okresie ostatniego roku,
@@ -1399,7 +1433,12 @@ l)
 wartość opłat i prowizji uiszczanych przez właścicieli projektów w ostatnim roku,
 m)
 struktura portfela pożyczek:
-– kwota pożyczek o terminie zapadalności do roku: – – w tym nieobsługiwanych, – kwota pożyczek z terminem zapadalności do 5 lat: – – w tym nieobsługiwanych, – kwota pożyczek z terminem zapadalności powyżej 5 lat: – – w tym nieobsługiwanych;
+kwota pożyczek o terminie zapadalności do roku:
+– – w tym nieobsługiwanych,
+kwota pożyczek z terminem zapadalności do 5 lat:
+– – w tym nieobsługiwanych,
+kwota pożyczek z terminem zapadalności powyżej 5 lat:
+– – w tym nieobsługiwanych;
 4)
 pożyczki, które nie są obsługiwane przez pożyczkobiorców, według stanu na ostatni dzień danego półrocza:
 a)
@@ -1409,12 +1448,12 @@ nieobsługiwana kwota pożyczki,
 c)
 zaległa kwota odsetek,
 d)
-data, od której pożyczka nie jest spłacana (rok-miesiąc-dzień).
-1) Należy podać dane na ostatni dzień półrocza (t), w formacie daty: rok-miesiąc-dzień, z wyjątkiem przypadków, w których dane odnoszą się do innego wskazanego okresu. 2) Przykładowo spółka akcyjna, spółka z o.o. 3) Należy podać w przypadku państwa innego niż Rzeczpospolita Polska. 4) Przykładowo PLN dla pożyczki w złotych. 5) Przykładowo EURIBOR 6M. 6) Wartość „1” oznacza, że spłata następuje w dniu zapadalności kredytu. 7) Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA, oraz towarzyszące Uzgodnienia Końcowe, podpisane w Warszawie dnia 7 października 2014 r. (Dz. U. z 2015 r. poz. 1647, z późn. zm.). 8) Należy podać ocenę słowną (ryzyko wysokie, średnie, niskie) albo wartość ryzyka w PLN, albo wartość punktową ryzyka. 9) Należy opisać. 10) Przykładowo gwarancja, poręczenie, hipoteka, zastaw. 11) Przykładowo poręczenia ograniczonego w czasie; w przypadku kilku zabezpieczeń należy podać również, które zabezpieczenie jest ograniczone w czasie; podać datę końca ważności zabezpieczenia. 12) Przykładowo opóźnienia w spłacie, nieterminowe regulowanie rat. 13) Należy wskazać rodzaj zabezpieczenia. 14) Suma indywidualnych portfeli obliczanych zgodnie z art. 14 rozporządzenia delegowanego Komisji (UE) 2022/2118 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych w zakresie indywidualnego zarządzania portfelem pożyczek przez dostawców usług finansowania społecznościowego, określającego elementy metody stosowanej do oceny ryzyka kredytowego, informacje dotyczące każdego indywidualnego portfela, które należy ujawnić inwestorom, oraz polityki i procedury wymagane w odniesieniu do funduszy zabezpieczających (Dz. Urz. UE L 287 z 08.11.2022, str. 50). 15) Obliczanych zgodnie z art. 4 ust. 1 rozporządzenia delegowanego Komisji (UE) 2022/2115 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych określających metodę obliczania współczynników niewykonania zobowiązań z tytułu pożyczek oferowanych na platformie finansowania społecznościowego (Dz. Urz. UE L 287 z 08.11.2022, str. 33).
+data, od której pożyczka nie jest spłacana (rok-miesiąc-dzień). 1) Należy podać dane na ostatni dzień półrocza (t), w formacie daty: rok-miesiąc-dzień, z wyjątkiem przypadków, w których dane odnoszą się do innego wskazanego okresu. 2) Przykładowo spółka akcyjna, spółka z o.o. 3) Należy podać w przypadku państwa innego niż Rzeczpospolita Polska. 4) Przykładowo PLN dla pożyczki w złotych. 5) Przykładowo EURIBOR 6M. 6) Wartość „1” oznacza, że spłata następuje w dniu zapadalności kredytu. 7) Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA, oraz towarzyszące Uzgodnienia Końcowe, podpisane w Warszawie dnia 7 października 2014 r. (Dz. U. z 2015 r. poz. 1647, z późn. zm.). 8) Należy podać ocenę słowną (ryzyko wysokie, średnie, niskie) albo wartość ryzyka w PLN, albo wartość punktową ryzyka. 9) Należy opisać. 10) Przykładowo gwarancja, poręczenie, hipoteka, zastaw. 11) Przykładowo poręczenia ograniczonego w czasie; w przypadku kilku zabezpieczeń należy podać również, które zabezpieczenie jest ograniczone w czasie; podać datę końca ważności zabezpieczenia. 12) Przykładowo opóźnienia w spłacie, nieterminowe regulowanie rat. 13) Należy wskazać rodzaj zabezpieczenia. 14) Suma indywidualnych portfeli obliczanych zgodnie z art. 14 rozporządzenia delegowanego Komisji (UE) 2022/2118 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych w zakresie indywidualnego zarządzania portfelem pożyczek przez dostawców usług finansowania społecznościowego, określającego elementy metody stosowanej do oceny ryzyka kredytowego, informacje dotyczące każdego indywidualnego portfela, które należy ujawnić inwestorom, oraz polityki i procedury wymagane w odniesieniu do funduszy zabezpieczających (Dz. Urz. UE L 287 z 08.11.2022, str. 50). 15) Obliczanych zgodnie z art. 4 ust. 1 rozporządzenia delegowanego Komisji (UE) 2022/2115 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych określających metodę obliczania współczynników niewykonania zobowiązań z tytułu pożyczek oferowanych na platformie finansowania społecznościowego (Dz. Urz. UE L 287 z 08.11.2022, str. 33).
 
-## Załącznik nr 29 — – ZAkres informacji przekazywanych przez dostawcę usług finansowania społecznościowego za każdy kwartał roku kalendarzowego o jego sytuacji finansowej
+## Załącznik nr 29 — – ZAkres informacji przekazywanych przez dostawcę usług finansowania społecznościowego za każdy kwartał roku kalendarzowego o jego sytuacji finansowejNależy podać: 1) dane według stanu na ostatni dzień danego kwartału, z wyjątkiem części C i D, które zawierają dane narastająco od początku roku obrotowego do ostatniego dnia kwartału, którego informacje dotyczą; 2) dane sporządzone zgodnie z obowiązującymi zasadami rachunkowości, z zastosowaniem zasad wyceny aktywów i pasywów oraz ustalania wyniku finansowego netto, określonych na dzień bilansowy, na podstawie ksiąg rachunkowych oraz innych danych przechowywanych na trwałych nośnikach; 3) wyjaśnienia zapewniające porównywalność danych – w przypadku zmiany zastosowanych metod wykazywania danych zawartych w przekazywanych informacjach.
 
-Część A Aktywa z podziałem na:
+Część A
+Aktywa z podziałem na:
 A.
 Aktywa trwałe
 I.
@@ -1459,7 +1498,8 @@ C.
 Należne wpłaty na kapitał (fundusz) podstawowy
 D.
 Udziały (akcje) własne
-Część B Pasywa z podziałem na:
+Część B
+Pasywa z podziałem na:
 A.
 Kapitał (fundusz) własny
 I.
@@ -1496,7 +1536,9 @@ III.
 Zobowiązania krótkoterminowe
 IV.
 Rozliczenia międzyokresowe
-Część C Rachunek zysków i strat (dla podmiotów stosujących wariant kalkulacyjny) z podziałem na:
+Część C
+Rachunek zysków i strat (dla podmiotów stosujących wariant kalkulacyjny) z podziałem na:
+Należy podać w przypadku stosowania wariantu kalkulacyjnego rachunku zysków i strat.
 A.
 Przychody netto ze sprzedaży produktów, towarów i materiałów
 I.
@@ -1567,7 +1609,9 @@ N.
 Pozostałe obowiązkowe zmniejszenia zysku (zwiększenia straty)
 O.
 Zysk (strata) netto (L-M-N)
-Część D Rachunek zysków i strat (dla podmiotów stosujących wariant porównawczy) z podziałem na:
+Część D
+Rachunek zysków i strat (dla podmiotów stosujących wariant porównawczy) z podziałem na:
+Należy podać w przypadku stosowania wariantu porównawczego rachunku zysków i strat.
 A.
 Przychody netto ze sprzedaży i zrównane z nimi
 I.
@@ -1648,64 +1692,66 @@ K.
 Pozostałe obowiązkowe zmniejszenia zysku (zwiększenia straty)
 L.
 Zysk (strata) netto (I-J-K)
-Część E Należności przeterminowane z podziałem na:
+Część E
+Należności przeterminowane z podziałem na:
 1.
-Należności nieprzeterminowane
+Należności nieprzeterminowaneNależy podać wartość należności nieprzeterminowanych w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące.
 2.
-Należności przeterminowane, w tym
+Należności przeterminowane, w tymNależy podać wartość należności przeterminowanych w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące stanowiącą sumę wartości wykazanych w pkt 2.1–2.5.
 2.1.
-do 30 dni
+do 30 dniNależy podać należności przeterminowane do 30 dni w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące.
 2.2.
-powyżej 30 dni do 90 dni
+powyżej 30 dni do 90 dniNależy podać należności przeterminowane powyżej 30 dni, nie więcej niż 90 dni, w wartości brutto oraz oddzielnie po pomniejszeniu o odpisy aktualizujące.
 2.3.
-powyżej 90 dni do 180 dni
+powyżej 90 dni do 180 dniNależy podać należności przeterminowane powyżej 90 dni, nie więcej niż 180 dni, w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące.
 2.4.
-powyżej 180 dni do roku
+powyżej 180 dni do rokuNależy podać należności przeterminowane powyżej 180 dni, nie więcej niż rok, w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące.
 2.5.
-powyżej roku
-Część F Zobowiązania przeterminowane z podziałem na:
+powyżej rokuNależy podać należności przeterminowane powyżej roku w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące.
+Część F
+Zobowiązania przeterminowane z podziałem na:
 1.
-Zobowiązania nieprzeterminowane
+Zobowiązania nieprzeterminowaneNależy podać wartość zobowiązań nieprzeterminowanych w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych.
 2.
-Zobowiązania przeterminowane, w tym
+Zobowiązania przeterminowane, w tymNależy podać wartość zobowiązań przeterminowanych w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych, stanowiących sumę wartości wykazanych w pkt 2.1–2.5.
 2.1.
-do 30 dni
+do 30 dniNależy podać zobowiązania przeterminowane do 30 dni w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych.
 2.2.
-powyżej 30 dni do 90 dni
+powyżej 30 dni do 90 dniNależy podać zobowiązania przeterminowane powyżej 30 dni, nie więcej niż 90 dni, w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych.
 2.3.
-powyżej 90 dni do 180 dni
+powyżej 90 dni do 180 dniNależy podać zobowiązania przeterminowane powyżej 90 dni, nie więcej niż 180 dni, w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych.
 2.4.
-powyżej 180 dni do roku
+powyżej 180 dni do rokuNależy podać zobowiązania przeterminowane powyżej 180 dni, nie więcej niż rok, w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych.
 2.5.
-powyżej roku
-Część G Przewidywane niespełnienie wymogów ostrożnościowych określonych w rozporządzeniu 2020/1503 z podziałem na:
+powyżej rokuNależy podać zobowiązania przeterminowane powyżej roku w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych.
+Część G
+Przewidywane niespełnienie wymogów ostrożnościowych określonych w rozporządzeniu 2020/1503 z podziałem na:
 1.
-Podanie przepisów rozporządzenia 2020/1503 określających wymogi ostrożnościowe, których niespełnienie jest przewidywane
+Podanie przepisów rozporządzenia 2020/1503 określających wymogi ostrożnościowe, których niespełnienie jest przewidywaneNależy podać informację o przewidywanym w okresie najbliższych 30 dni niespełnieniu wymogów ostrożnościowych określonych w rozporządzeniu 2020/1503.
 2.
-Przewidywany termin, w którym nastąpi niespełnienie wymogów ostrożnościowych
+Przewidywany termin, w którym nastąpi niespełnienie wymogów ostrożnościowychNależy podać informację o przewidywanym w okresie najbliższych 30 dni niespełnieniu wymogów ostrożnościowych określonych w rozporządzeniu 2020/1503.
 3.
-Przyczyny przewidywanego niespełnienia wymogów ostrożnościowych
-Część H Wybrane dane dotyczące wymogów ostrożnościowych, o których mowa w art. 11 ust. 1 rozporządzenia 2020/1503, oraz działalności w zakresie świadczenia usług finansowania społecznościowego z podziałem na:
+Przyczyny przewidywanego niespełnienia wymogów ostrożnościowychNależy podać informację o przewidywanym w okresie najbliższych 30 dni niespełnieniu wymogów ostrożnościowych określonych w rozporządzeniu 2020/1503.
+Część H
+Wybrane dane dotyczące wymogów ostrożnościowych, o których mowa w art. 11 ust. 1 rozporządzenia 2020/1503, oraz działalności w zakresie świadczenia usług finansowania społecznościowego z podziałem na:
 1.
-Wartość kosztów stałych (w PLN)
+Wartość kosztów stałych (w PLN)Należy podać wartość kosztów stałych, o której mowa w art. 11 ust. 1 lit. b rozporządzenia 2020/1503, obliczoną w sposób wskazany w ust. 8 i 9 tego artykułu.
 2.
-Wartość wymogu, o którym mowa w art. 11 ust. 1 lit. a rozporządzenia 2020/1503 (w PLN)
+Wartość wymogu, o którym mowa w art. 11 ust. 1 lit. a rozporządzenia 2020/1503 (w PLN)Należy podać wartość wymogu, o którym mowa w art. 11 ust. 1 lit. a rozporządzenia 2020/1503 (w PLN), jako wartość przeliczoną z euro na PLN według średniego kursu ogłaszanego przez Narodowy Bank Polski obowiązującego na ostatni dzień okresu sprawozdawczego.
 3.
-Wartość wymogu ostrożnościowego (w PLN)
+Wartość wymogu ostrożnościowego (w PLN)Należy podać wartość wymogu ostrożnościowego.
 4.
-Wysokość sumy gwarancyjnej wynikająca z wykupionej polisy ubezpieczeniowej (w PLN)
+Wysokość sumy gwarancyjnej wynikająca z wykupionej polisy ubezpieczeniowej (w PLN)Należy podać wysokość sumy gwarancyjnej wynikającej z polisy ubezpieczeniowej, o której mowa w art. 11 ust. 2 lit. b rozporządzenia 2020/1503, która spełnia warunki określone w art. 11 ust. 6 i 7 rozporządzenia 2020/1503.
 5.
-Wartość środków własnych (w PLN)
+Wartość środków własnych (w PLN)Należy podać wartość środków własnych, o których mowa w art. 11 ust. 2 lit. a rozporządzenia 2020/1503.
 6.
-Wartość ostrożnościowych środków ochrony (w PLN)
+Wartość ostrożnościowych środków ochrony (w PLN)Należy podać wartość ostrożnościowych środków ochrony, o których mowa w art. 11 ust. 2 rozporządzenia 2020/1503.
 7.
-Nadwyżka ostrożnościowych środków ochrony nad wymogiem określonym w art. 11 ust. 1 rozporządzenia 2020/1503 (w PLN)
+Nadwyżka ostrożnościowych środków ochrony nad wymogiem określonym w art. 11 ust. 1 rozporządzenia 2020/1503 (w PLN)Należy podać wartość nadwyżki ostrożnościowych środków ochrony (pkt 6) nad wymogiem określonym w art. 11 ust. 1 rozporządzenia 2020/1503 (pkt 3).
 8.
-Przychody wynikające ze świadczonych usług finansowania społecznościowego (w PLN)
-1) Należy podać: 1) dane według stanu na ostatni dzień danego kwartału, z wyjątkiem części C i D, które zawierają dane narastająco od początku roku obrotowego do ostatniego dnia kwartału, którego informacje dotyczą; 2) dane sporządzone zgodnie z obowiązującymi zasadami rachunkowości, z zastosowaniem zasad wyceny aktywów i pasywów oraz ustalania wyniku finansowego netto, określonych na dzień bilansowy, na podstawie ksiąg rachunkowych oraz innych danych przechowywanych na trwałych nośnikach; 3) wyjaśnienia zapewniające porównywalność danych – w przypadku zmiany zastosowanych metod wykazywania danych zawartych w przekazywanych informacjach. 2) Należy podać w przypadku stosowania wariantu kalkulacyjnego rachunku zysków i strat. 3) Należy podać w przypadku stosowania wariantu porównawczego rachunku zysków i strat. 4) Należy podać wartość należności nieprzeterminowanych w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące. 5) Należy podać wartość należności przeterminowanych w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące stanowiącą sumę wartości wykazanych w pkt 2.1–2.5. 6) Należy podać należności przeterminowane do 30 dni w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące. 7) Należy podać należności przeterminowane powyżej 30 dni, nie więcej niż 90 dni, w wartości brutto oraz oddzielnie po pomniejszeniu o odpisy aktualizujące. 8) Należy podać należności przeterminowane powyżej 90 dni, nie więcej niż 180 dni, w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące. 9) Należy podać należności przeterminowane powyżej 180 dni, nie więcej niż rok, w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące. 10) Należy podać należności przeterminowane powyżej roku w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące. 11) Należy podać wartość zobowiązań nieprzeterminowanych w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych. 12) Należy podać wartość zobowiązań przeterminowanych w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych, stanowiących sumę wartości wykazanych w pkt 2.1–2.5. 13) Należy podać zobowiązania przeterminowane do 30 dni w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych. 14) Należy podać zobowiązania przeterminowane powyżej 30 dni, nie więcej niż 90 dni, w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych. 15) Należy podać zobowiązania przeterminowane powyżej 90 dni, nie więcej niż 180 dni, w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych. 16) Należy podać zobowiązania przeterminowane powyżej 180 dni, nie więcej niż rok, w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych. 17) Należy podać zobowiązania przeterminowane powyżej roku w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych. 18) Należy podać informację o przewidywanym w okresie najbliższych 30 dni niespełnieniu wymogów ostrożnościowych określonych w rozporządzeniu 2020/1503. 19) Należy podać wartość kosztów stałych, o której mowa w art. 11 ust. 1 lit. b rozporządzenia 2020/1503, obliczoną w sposób wskazany w ust. 8 i 9 tego artykułu. 20) Należy podać wartość wymogu, o którym mowa w art. 11 ust. 1 lit. a rozporządzenia 2020/1503 (w PLN), jako wartość przeliczoną z euro na PLN według średniego kursu ogłaszanego przez Narodowy Bank Polski obowiązującego na ostatni dzień okresu sprawozdawczego. 21) Należy podać wartość wymogu ostrożnościowego. 22) Należy podać wysokość sumy gwarancyjnej wynikającej z polisy ubezpieczeniowej, o której mowa w art. 11 ust. 2 lit. b rozporządzenia 2020/1503, która spełnia warunki określone w art. 11 ust. 6 i 7 rozporządzenia 2020/1503. 23) Należy podać wartość środków własnych, o których mowa w art. 11 ust. 2 lit. a rozporządzenia 2020/1503. 24) Należy podać wartość ostrożnościowych środków ochrony, o których mowa w art. 11 ust. 2 rozporządzenia 2020/1503. 25) Należy podać wartość nadwyżki ostrożnościowych środków ochrony (pkt 6) nad wymogiem określonym w art. 11 ust. 1 rozporządzenia 2020/1503 (pkt 3). 26) Należy podać wartość przychodów od początku roku do ostatniego dnia kwartału stanowiących wynagrodzenie za świadczone usługi w zakresie finansowania społecznościowego.
+Przychody wynikające ze świadczonych usług finansowania społecznościowego (w PLN)Należy podać wartość przychodów od początku roku do ostatniego dnia kwartału stanowiących wynagrodzenie za świadczone usługi w zakresie finansowania społecznościowego. 1) Należy podać: 1) dane według stanu na ostatni dzień danego kwartału, z wyjątkiem części C i D, które zawierają dane narastająco od początku roku obrotowego do ostatniego dnia kwartału, którego informacje dotyczą; 2) dane sporządzone zgodnie z obowiązującymi zasadami rachunkowości, z zastosowaniem zasad wyceny aktywów i pasywów oraz ustalania wyniku finansowego netto, określonych na dzień bilansowy, na podstawie ksiąg rachunkowych oraz innych danych przechowywanych na trwałych nośnikach; 3) wyjaśnienia zapewniające porównywalność danych – w przypadku zmiany zastosowanych metod wykazywania danych zawartych w przekazywanych informacjach. 2) Należy podać w przypadku stosowania wariantu kalkulacyjnego rachunku zysków i strat. 3) Należy podać w przypadku stosowania wariantu porównawczego rachunku zysków i strat. 4) Należy podać wartość należności nieprzeterminowanych w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące. 5) Należy podać wartość należności przeterminowanych w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące stanowiącą sumę wartości wykazanych w pkt 2.1–2.5. 6) Należy podać należności przeterminowane do 30 dni w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące. 7) Należy podać należności przeterminowane powyżej 30 dni, nie więcej niż 90 dni, w wartości brutto oraz oddzielnie po pomniejszeniu o odpisy aktualizujące. 8) Należy podać należności przeterminowane powyżej 90 dni, nie więcej niż 180 dni, w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące. 9) Należy podać należności przeterminowane powyżej 180 dni, nie więcej niż rok, w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące. 10) Należy podać należności przeterminowane powyżej roku w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące. 11) Należy podać wartość zobowiązań nieprzeterminowanych w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych. 12) Należy podać wartość zobowiązań przeterminowanych w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych, stanowiących sumę wartości wykazanych w pkt 2.1–2.5. 13) Należy podać zobowiązania przeterminowane do 30 dni w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych. 14) Należy podać zobowiązania przeterminowane powyżej 30 dni, nie więcej niż 90 dni, w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych. 15) Należy podać zobowiązania przeterminowane powyżej 90 dni, nie więcej niż 180 dni, w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych. 16) Należy podać zobowiązania przeterminowane powyżej 180 dni, nie więcej niż rok, w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych. 17) Należy podać zobowiązania przeterminowane powyżej roku w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych. 18) Należy podać informację o przewidywanym w okresie najbliższych 30 dni niespełnieniu wymogów ostrożnościowych określonych w rozporządzeniu 2020/1503. 19) Należy podać wartość kosztów stałych, o której mowa w art. 11 ust. 1 lit. b rozporządzenia 2020/1503, obliczoną w sposób wskazany w ust. 8 i 9 tego artykułu. 20) Należy podać wartość wymogu, o którym mowa w art. 11 ust. 1 lit. a rozporządzenia 2020/1503 (w PLN), jako wartość przeliczoną z euro na PLN według średniego kursu ogłaszanego przez Narodowy Bank Polski obowiązującego na ostatni dzień okresu sprawozdawczego. 21) Należy podać wartość wymogu ostrożnościowego. 22) Należy podać wysokość sumy gwarancyjnej wynikającej z polisy ubezpieczeniowej, o której mowa w art. 11 ust. 2 lit. b rozporządzenia 2020/1503, która spełnia warunki określone w art. 11 ust. 6 i 7 rozporządzenia 2020/1503. 23) Należy podać wartość środków własnych, o których mowa w art. 11 ust. 2 lit. a rozporządzenia 2020/1503. 24) Należy podać wartość ostrożnościowych środków ochrony, o których mowa w art. 11 ust. 2 rozporządzenia 2020/1503. 25) Należy podać wartość nadwyżki ostrożnościowych środków ochrony (pkt 6) nad wymogiem określonym w art. 11 ust. 1 rozporządzenia 2020/1503 (pkt 3). 26) Należy podać wartość przychodów od początku roku do ostatniego dnia kwartału stanowiących wynagrodzenie za świadczone usługi w zakresie finansowania społecznościowego.
 
-## Załącznik nr 30 — – Zakres informacji przekazywanych przez dostawcę usług finansowania społecznościowego za każdy rok kalendarzowy
+## Załącznik nr 30 — – Zakres informacji przekazywanych przez dostawcę usług finansowania społecznościowego za każdy rok kalendarzowyNależy podać: 1) dane w PLN według stanu na rok, w którym informacje są przekazywane (data), oraz rok poprzedni (data); 2) dane sporządzone zgodnie z obowiązującymi zasadami rachunkowości, z zastosowaniem zasad wyceny aktywów i pasywów oraz ustalania wyniku finansowego netto, określonych na dzień bilansowy, na podstawie ksiąg rachunkowych oraz innych danych przechowywanych na trwałych nośnikach; 3) wyjaśnienia zapewniające porównywalność danych – w przypadku zmiany zastosowanych metod wykazywania danych zawartych w przekazywanych informacjach.
 
-1. Bilans z podziałem na: 1) Aktywa A. Aktywa trwałe I. Wartości niematerialne i prawne II. Rzeczowe aktywa trwałe III. Należności długoterminowe IV. Inwestycje długoterminowe V. Długoterminowe rozliczenia międzyokresowe 1. Aktywa z tytułu odroczonego podatku dochodowego 2. Inne rozliczenia międzyokresowe B. Aktywa obrotowe I. Zapasy II. Należności krótkoterminowe III. Inwestycje krótkoterminowe 1. Krótkoterminowe aktywa finansowe a) udziały lub akcje b) inne papiery wartościowe c) udzielone pożyczki d) inne krótkoterminowe aktywa finansowe e) środki pieniężne i inne aktywa pieniężne 2. Inne inwestycje krótkoterminowe IV. Krótkoterminowe rozliczenia międzyokresowe C. Należne wpłaty na kapitał (fundusz) podstawowy D. Udziały (akcje) własne 2) Pasywa A. Kapitał (fundusz) własny I. Kapitał (fundusz) podstawowy II. Kapitał (fundusz) zapasowy, w tym – nadwyżka wartości sprzedaży (wartości emisyjnej) nad wartością nominalną udziałów (akcji) III. Kapitał (fundusz) z aktualizacji wyceny IV. Pozostałe kapitały (fundusze) rezerwowe, w tym 1. utworzone zgodnie z umową (statutem) spółki 2. na udziały (akcje) własne V. Zysk (strata) z lat ubiegłych VI. Zysk (strata) netto VII. Odpisy z zysku netto w ciągu roku obrotowego (wielkość ujemna) B. Zobowiązania i rezerwy na zobowiązania I. Rezerwy na zobowiązania 1. Rezerwa z tytułu odroczonego podatku dochodowego 2. Rezerwa na świadczenia emerytalne i podobne 3. Pozostałe rezerwy II. Zobowiązania długoterminowe III. Zobowiązania krótkoterminowe IV. Rozliczenia międzyokresowe 2.1. Rachunek zysków i strat (wariant kalkulacyjny) z podziałem na: A. Przychody netto ze sprzedaży produktów, towarów i materiałów I. Przychody netto ze sprzedaży produktów II. Przychody netto ze sprzedaży towarów i materiałów B. Koszty sprzedanych produktów, towarów i materiałów, w tym I. Koszt wytworzenia sprzedanych produktów II. Wartość sprzedanych towarów i materiałów C. Zysk (strata) brutto ze sprzedaży (A-B) D. Koszty sprzedaży E. Koszty ogólnego zarządu F. Zysk (strata) ze sprzedaży (C-D-E) G. Pozostałe przychody operacyjne I. Zysk z tytułu rozchodu niefinansowych aktywów trwałych II. Dotacje III. Aktualizacja wartości aktywów niefinansowych IV. Inne przychody operacyjne H. Pozostałe koszty operacyjne I. Strata z tytułu rozchodu niefinansowych aktywów trwałych II. Aktualizacja wartości aktywów niefinansowych III. Inne koszty operacyjne I. Zysk (strata) z działalności operacyjnej (F+G-H) J. Przychody finansowe I. Dywidendy i udziały w zyskach II. Odsetki III. Zysk z tytułu rozchodu aktywów finansowych IV. Aktualizacja wartości aktywów finansowych V. Inne K. Koszty finansowe I. Odsetki II. Strata z tytułu rozchodu aktywów finansowych III. Aktualizacja wartości aktywów finansowych IV. Inne L. Zysk (strata) brutto (I+J-K) M. Podatek dochodowy N. Pozostałe obowiązkowe zmniejszenia zysku (zwiększenia straty) O. Zysk (strata) netto (L-M-N) 2.2. Rachunek zysków i strat (wariant porównawczy) z podziałem na: A. Przychody netto ze sprzedaży i zrównane z nimi I. Przychody netto ze sprzedaży produktów II. Zmiana stanu produktów (zwiększenie – wartość dodatnia, zmniejszenie – wartość ujemna) III. Koszt wytworzenia produktów na własne potrzeby jednostki IV. Przychody netto ze sprzedaży towarów i materiałów B. Koszty działalności operacyjnej I. Amortyzacja II. Zużycie materiałów i energii III. Usługi obce IV. Podatki i opłaty V. Wynagrodzenia VI. Ubezpieczenia społeczne i inne świadczenia VII. Pozostałe koszty rodzajowe VIII. Wartość sprzedanych towarów i materiałów C. Zysk (strata) ze sprzedaży (A-B) D. Pozostałe przychody operacyjne I. Zysk z tytułu rozchodu niefinansowych aktywów trwałych II. Dotacje III. Aktualizacja wartości aktywów niefinansowych IV. Inne przychody operacyjne E. Pozostałe koszty operacyjne I. Strata z tytułu rozchodu niefinansowych aktywów trwałych II. Aktualizacja wartości aktywów niefinansowych III. Inne koszty operacyjne F. Zysk (strata) z działalności operacyjnej (C+D-E) G. Przychody finansowe I. Dywidendy i udziały w zyskach II. Odsetki III. Zysk z tytułu rozchodu aktywów finansowych IV. Aktualizacja wartości aktywów finansowych V. Inne H. Koszty finansowe I. Odsetki II. Strata z tytułu rozchodu aktywów finansowych III. Aktualizacja wartości aktywów finansowych IV. Inne I. Zysk (strata) brutto (F+G-H) J. Podatek dochodowy K. Pozostałe obowiązkowe zmniejszenia zysku (zwiększenia straty) L. Zysk (strata) netto (I-J-K) 3. Zmiany w kapitale (funduszu) własnym z podziałem na: I. Kapitał (fundusz) własny na początek okresu (BO) – korekty przyjętych zasad (polityki) rachunkowości – korekty błędów I.a. Kapitał (fundusz) własny na początek okresu (BO), po korektach 1. Kapitał (fundusz) podstawowy na początek okresu 1.1. Zmiany kapitału (funduszu) podstawowego a) zwiększenie (z tytułu) – wydania udziałów (emisji akcji) ... b) zmniejszenie (z tytułu) – umorzenie udziałów (akcji) ... 1.2. Kapitał (fundusz) podstawowy na koniec okresu 2. Kapitał (fundusz) zapasowy na początek okresu 2.1. Zmiany kapitału (funduszu) zapasowego a) zwiększenie (z tytułu) – emisji akcji powyżej wartości nominalnej – podziału zysku (ustawowo) – podziału zysku (ponad wymaganą ustawowo minimalną wartość) ... b) zmniejszenie (z tytułu) – pokrycia straty ... 2.2. Kapitał (fundusz) zapasowy na koniec okresu 3. Kapitał (fundusz) z aktualizacji wyceny na początek okresu – zmiany przyjętych zasad (polityki) rachunkowości 3.1. Zmiany kapitału (funduszu) z aktualizacji wyceny a) zwiększenie (z tytułu) ... b) zmniejszenie (z tytułu) – zbycia środków trwałych ... 3.2. Kapitał (fundusz) z aktualizacji wyceny na koniec okresu 4. Pozostałe kapitały (fundusze) rezerwowe na początek okresu 4.1. Zmiany pozostałych kapitałów (funduszy) rezerwowych a) zwiększenie (z tytułu) ... b) zmniejszenie (z tytułu) ... 4.2. Pozostałe kapitały (fundusze) rezerwowe na koniec okresu 5. Zysk (strata) z lat ubiegłych na początek okresu 5.1. Zysk z lat ubiegłych na początek okresu – zmiany przyjętych zasad (polityki) rachunkowości – korekty błędów 5.2. Zysk z lat ubiegłych na początek okresu, po korektach a) zwiększenie (z tytułu) – podziału zysku z lat ubiegłych ... b) zmniejszenie (z tytułu) ... 5.3. Zysk z lat ubiegłych na koniec okresu 5.4. Strata z lat ubiegłych na początek okresu – zmiany przyjętych zasad (polityki) rachunkowości – korekty błędów 5.5. Strata z lat ubiegłych na początek okresu, po korektach a) zwiększenie (z tytułu) – przeniesienia straty z lat ubiegłych do pokrycia ... b) zmniejszenie (z tytułu) ... 5.6. Strata z lat ubiegłych na koniec okresu 5.7. Zysk (strata) z lat ubiegłych na koniec okresu 6. Wynik netto a) zysk netto b) strata netto c) odpisy z zysku II. Kapitał (fundusz) własny na koniec okresu (BZ) III. Kapitał (fundusz) własny, po uwzględnieniu proponowanego podziału zysku (pokrycia straty) 4.1. Rachunek przepływów pieniężnych (metoda bezpośrednia) z podziałem na: A. Przepływy pieniężne z działalności operacyjnej (I±II) I. Wpływy 1. Sprzedaż 2. Inne wpływy z działalności operacyjnej II. Wydatki 1. Dostawy i usługi 2. Wynagrodzenia netto 3. Ubezpieczenia społeczne i zdrowotne oraz inne świadczenia 4. Podatki i opłaty o charakterze publicznoprawnym 5. Inne wydatki operacyjne III. Przepływy pieniężne netto z działalności operacyjnej (I-II) B. Przepływy pieniężne z działalności inwestycyjnej (I-II) I. Wpływy 1. Zbycie wartości niematerialnych i prawnych oraz rzeczowych aktywów trwałych 2. Zbycie inwestycji w nieruchomości oraz wartości niematerialne i prawne 3. Z aktywów finansowych, w tym a) w jednostkach powiązanych b) w pozostałych jednostkach – zbycie aktywów finansowych – dywidendy i udziały w zyskach – spłata udzielonych pożyczek długoterminowych – odsetki – inne wpływy z aktywów finansowych 4. Inne wpływy inwestycyjne II. Wydatki 1. Nabycie wartości niematerialnych i prawnych oraz rzeczowych aktywów trwałych 2. Inwestycje w nieruchomości oraz wartości niematerialne i prawne 3. Na aktywa finansowe, w tym a) w jednostkach powiązanych b) w pozostałych jednostkach – nabycie aktywów finansowych – udzielone pożyczki długoterminowe 4. Inne wydatki inwestycyjne III. Przepływy pieniężne netto z działalności inwestycyjnej (I-II) C. Przepływy pieniężne z działalności finansowej (I-II) I. Wpływy 1. Wpływy netto z wydania udziałów (emisji akcji) i innych instrumentów kapitałowych oraz dopłat do kapitału 2. Kredyty i pożyczki 3. Emisja dłużnych papierów wartościowych 4. Inne wpływy finansowe II. Wydatki 1. Nabycie udziałów (akcji) własnych 2. Dywidendy i inne wypłaty na rzecz właścicieli 3. Inne, niż wypłaty na rzecz właścicieli, wydatki z tytułu podziału zysku 4. Spłaty kredytów i pożyczek 5. Wykup dłużnych papierów wartościowych 6. Z tytułu innych zobowiązań finansowych 7. Płatności zobowiązań z tytułu umów leasingu finansowego 8. Odsetki 9. Inne wydatki finansowe III. Przepływy pieniężne netto z działalności finansowej (I-II) D. Przepływy pieniężne netto, razem (A.III±B.III±C.III) E. Bilansowa zmiana stanu środków pieniężnych, w tym – zmiana stanu środków pieniężnych z tytułu różnic kursowych F. Środki pieniężne na początek okresu G. Środki pieniężne na koniec okresu (F±D), w tym – o ograniczonej możliwości dysponowania 4.2. Rachunek przepływów pieniężnych (metoda pośrednia) z podziałem na: A. Przepływy pieniężne netto z działalności operacyjnej (I±II) I. Zysk (strata) netto II. Korekty razem 1. Amortyzacja 2. Zyski (straty) z tytułu różnic kursowych 3. Odsetki i udziały w zyskach (dywidendy) 4. Zysk (strata) z działalności inwestycyjnej 5. Zmiana stanu rezerw 6. Zmiana stanu zapasów 7. Zmiana stanu należności 8. Zmiana stanu zobowiązań krótkoterminowych, z wyjątkiem pożyczek i kredytów 9. Zmiana stanu rozliczeń międzyokresowych 10. Inne korekty III. Przepływy pieniężne netto z działalności operacyjnej (I±II) B. Przepływy środków pieniężnych z działalności inwestycyjnej I. Wpływy 1. Zbycie wartości niematerialnych i prawnych oraz rzeczowych aktywów trwałych 2. Zbycie inwestycji w nieruchomości oraz wartości niematerialne i prawne 3. Z aktywów finansowych, w tym a) w jednostkach powiązanych b) w pozostałych jednostkach – zbycie aktywów finansowych – dywidendy i udziały w zyskach – spłata udzielonych pożyczek długoterminowych – odsetki – inne wpływy z aktywów finansowych 4. Inne wpływy inwestycyjne II. Wydatki 1. Nabycie wartości niematerialnych i prawnych oraz rzeczowych aktywów trwałych 2. Inwestycje w nieruchomości oraz wartości niematerialne i prawne 3. Na aktywa finansowe, w tym a) w jednostkach powiązanych b) w pozostałych jednostkach – nabycie aktywów finansowych – udzielone pożyczki długoterminowe 4. Inne wydatki inwestycyjne III. Przepływy pieniężne netto z działalności inwestycyjnej (I-II) C. Przepływy środków pieniężnych z działalności finansowej I. Wpływy 1. Wpływy netto z wydania udziałów (emisji akcji) i innych instrumentów kapitałowych oraz dopłat do kapitału 2. Kredyty i pożyczki 3. Emisja dłużnych papierów wartościowych 4. Inne wpływy finansowe II. Wydatki 1. Nabycie udziałów (akcji) własnych 2. Dywidendy i inne wypłaty na rzecz właścicieli 3. Inne niż wypłaty na rzecz właścicieli wydatki z tytułu podziału zysku 4. Spłaty kredytów i pożyczek 5. Wykup dłużnych papierów wartościowych 6. Z tytułu innych zobowiązań finansowych 7. Płatności zobowiązań z tytułu umów leasingu finansowego 8. Odsetki 9. Inne wydatki finansowe III. Przepływy pieniężne netto z działalności finansowej (I-II) D. Przepływy pieniężne netto razem (A.III±B.III±C.III) E. Bilansowa zmiana stanu środków pieniężnych, w tym – zmiana stanu środków pieniężnych z tytułu różnic kursowych F. Środki pieniężne na początek okresu G. Środki pieniężne na koniec okresu (F±D), w tym – o ograniczonej możliwości dysponowania
-1) Należy podać: 1) dane w PLN według stanu na rok, w którym informacje są przekazywane (data), oraz rok poprzedni (data); 2) dane sporządzone zgodnie z obowiązującymi zasadami rachunkowości, z zastosowaniem zasad wyceny aktywów i pasywów oraz ustalania wyniku finansowego netto, określonych na dzień bilansowy, na podstawie ksiąg rachunkowych oraz innych danych przechowywanych na trwałych nośnikach; 3) wyjaśnienia zapewniające porównywalność danych – w przypadku zmiany zastosowanych metod wykazywania danych zawartych w przekazywanych informacjach. 2) Należy podać w przypadku stosowania wariantu kalkulacyjnego rachunku zysków i strat. 3) Należy podać w przypadku stosowania wariantu porównawczego rachunku zysków i strat. 4) Należy podać w przypadku stosowania metody bezpośredniej rachunku przepływów pieniężnych. 5) Należy podać w przypadku stosowania metody pośredniej rachunku przepływów pieniężnych.
+1. Bilans z podziałem na: 1) Aktywa A. Aktywa trwałe I. Wartości niematerialne i prawne II. Rzeczowe aktywa trwałe III. Należności długoterminowe IV. Inwestycje długoterminowe V. Długoterminowe rozliczenia międzyokresowe 1. Aktywa z tytułu odroczonego podatku dochodowego 2. Inne rozliczenia międzyokresowe B. Aktywa obrotowe I. Zapasy II. Należności krótkoterminowe III. Inwestycje krótkoterminowe 1. Krótkoterminowe aktywa finansowe a) udziały lub akcje b) inne papiery wartościowe c) udzielone pożyczki d) inne krótkoterminowe aktywa finansowe e) środki pieniężne i inne aktywa pieniężne 2. Inne inwestycje krótkoterminowe IV. Krótkoterminowe rozliczenia międzyokresowe C. Należne wpłaty na kapitał (fundusz) podstawowy D. Udziały (akcje) własne 2) Pasywa A. Kapitał (fundusz) własny I. Kapitał (fundusz) podstawowy II. Kapitał (fundusz) zapasowy, w tym – nadwyżka wartości sprzedaży (wartości emisyjnej) nad wartością nominalną udziałów (akcji) III. Kapitał (fundusz) z aktualizacji wyceny IV. Pozostałe kapitały (fundusze) rezerwowe, w tym 1. utworzone zgodnie z umową (statutem) spółki 2. na udziały (akcje) własne V. Zysk (strata) z lat ubiegłych VI. Zysk (strata) netto VII. Odpisy z zysku netto w ciągu roku obrotowego (wielkość ujemna) B. Zobowiązania i rezerwy na zobowiązania I. Rezerwy na zobowiązania 1. Rezerwa z tytułu odroczonego podatku dochodowego 2. Rezerwa na świadczenia emerytalne i podobne 3. Pozostałe rezerwy II. Zobowiązania długoterminowe III. Zobowiązania krótkoterminowe IV. Rozliczenia międzyokresowe 2.1. Rachunek zysków i strat (wariant kalkulacyjny) z podziałem na:Należy podać w przypadku stosowania wariantu kalkulacyjnego rachunku zysków i strat. A. Przychody netto ze sprzedaży produktów, towarów i materiałów I. Przychody netto ze sprzedaży produktów II. Przychody netto ze sprzedaży towarów i materiałów B. Koszty sprzedanych produktów, towarów i materiałów, w tym I. Koszt wytworzenia sprzedanych produktów II. Wartość sprzedanych towarów i materiałów C. Zysk (strata) brutto ze sprzedaży (A-B) D. Koszty sprzedaży E. Koszty ogólnego zarządu F. Zysk (strata) ze sprzedaży (C-D-E) G. Pozostałe przychody operacyjne I. Zysk z tytułu rozchodu niefinansowych aktywów trwałych II. Dotacje III. Aktualizacja wartości aktywów niefinansowych IV. Inne przychody operacyjne H. Pozostałe koszty operacyjne I. Strata z tytułu rozchodu niefinansowych aktywów trwałych II. Aktualizacja wartości aktywów niefinansowych III. Inne koszty operacyjne I. Zysk (strata) z działalności operacyjnej (F+G-H) J. Przychody finansowe I. Dywidendy i udziały w zyskach II. Odsetki III. Zysk z tytułu rozchodu aktywów finansowych IV. Aktualizacja wartości aktywów finansowych V. Inne K. Koszty finansowe I. Odsetki II. Strata z tytułu rozchodu aktywów finansowych III. Aktualizacja wartości aktywów finansowych IV. Inne L. Zysk (strata) brutto (I+J-K) M. Podatek dochodowy N. Pozostałe obowiązkowe zmniejszenia zysku (zwiększenia straty) O. Zysk (strata) netto (L-M-N) 2.2. Rachunek zysków i strat (wariant porównawczy) z podziałem na:Należy podać w przypadku stosowania wariantu porównawczego rachunku zysków i strat. A. Przychody netto ze sprzedaży i zrównane z nimi I. Przychody netto ze sprzedaży produktów II. Zmiana stanu produktów (zwiększenie – wartość dodatnia, zmniejszenie – wartość ujemna) III. Koszt wytworzenia produktów na własne potrzeby jednostki IV. Przychody netto ze sprzedaży towarów i materiałów B. Koszty działalności operacyjnej I. Amortyzacja II. Zużycie materiałów i energii III. Usługi obce IV. Podatki i opłaty V. Wynagrodzenia VI. Ubezpieczenia społeczne i inne świadczenia VII. Pozostałe koszty rodzajowe VIII. Wartość sprzedanych towarów i materiałów C. Zysk (strata) ze sprzedaży (A-B) D. Pozostałe przychody operacyjne I. Zysk z tytułu rozchodu niefinansowych aktywów trwałych II. Dotacje III. Aktualizacja wartości aktywów niefinansowych IV. Inne przychody operacyjne E. Pozostałe koszty operacyjne I. Strata z tytułu rozchodu niefinansowych aktywów trwałych II. Aktualizacja wartości aktywów niefinansowych III. Inne koszty operacyjne F. Zysk (strata) z działalności operacyjnej (C+D-E) G. Przychody finansowe I. Dywidendy i udziały w zyskach II. Odsetki III. Zysk z tytułu rozchodu aktywów finansowych IV. Aktualizacja wartości aktywów finansowych V. Inne H. Koszty finansowe I. Odsetki II. Strata z tytułu rozchodu aktywów finansowych III. Aktualizacja wartości aktywów finansowych IV. Inne I. Zysk (strata) brutto (F+G-H) J. Podatek dochodowy K. Pozostałe obowiązkowe zmniejszenia zysku (zwiększenia straty) L. Zysk (strata) netto (I-J-K) 3. Zmiany w kapitale (funduszu) własnym z podziałem na: I. Kapitał (fundusz) własny na początek okresu (BO) – korekty przyjętych zasad (polityki) rachunkowości – korekty błędów I.a. Kapitał (fundusz) własny na początek okresu (BO), po korektach 1. Kapitał (fundusz) podstawowy na początek okresu 1.1. Zmiany kapitału (funduszu) podstawowego a) zwiększenie (z tytułu) – wydania udziałów (emisji akcji) ... b) zmniejszenie (z tytułu) – umorzenie udziałów (akcji) ... 1.2. Kapitał (fundusz) podstawowy na koniec okresu 2. Kapitał (fundusz) zapasowy na początek okresu 2.1. Zmiany kapitału (funduszu) zapasowego a) zwiększenie (z tytułu) – emisji akcji powyżej wartości nominalnej – podziału zysku (ustawowo) – podziału zysku (ponad wymaganą ustawowo minimalną wartość) ... b) zmniejszenie (z tytułu) – pokrycia straty ... 2.2. Kapitał (fundusz) zapasowy na koniec okresu 3. Kapitał (fundusz) z aktualizacji wyceny na początek okresu – zmiany przyjętych zasad (polityki) rachunkowości 3.1. Zmiany kapitału (funduszu) z aktualizacji wyceny a) zwiększenie (z tytułu) ... b) zmniejszenie (z tytułu) – zbycia środków trwałych ... 3.2. Kapitał (fundusz) z aktualizacji wyceny na koniec okresu 4. Pozostałe kapitały (fundusze) rezerwowe na początek okresu 4.1. Zmiany pozostałych kapitałów (funduszy) rezerwowych a) zwiększenie (z tytułu) ... b) zmniejszenie (z tytułu) ... 4.2. Pozostałe kapitały (fundusze) rezerwowe na koniec okresu 5. Zysk (strata) z lat ubiegłych na początek okresu 5.1. Zysk z lat ubiegłych na początek okresu – zmiany przyjętych zasad (polityki) rachunkowości – korekty błędów 5.2. Zysk z lat ubiegłych na początek okresu, po korektach a) zwiększenie (z tytułu) – podziału zysku z lat ubiegłych ... b) zmniejszenie (z tytułu) ... 5.3. Zysk z lat ubiegłych na koniec okresu 5.4. Strata z lat ubiegłych na początek okresu – zmiany przyjętych zasad (polityki) rachunkowości – korekty błędów 5.5. Strata z lat ubiegłych na początek okresu, po korektach a) zwiększenie (z tytułu) – przeniesienia straty z lat ubiegłych do pokrycia ... b) zmniejszenie (z tytułu) ... 5.6. Strata z lat ubiegłych na koniec okresu 5.7. Zysk (strata) z lat ubiegłych na koniec okresu 6. Wynik netto a) zysk netto b) strata netto c) odpisy z zysku II. Kapitał (fundusz) własny na koniec okresu (BZ) III. Kapitał (fundusz) własny, po uwzględnieniu proponowanego podziału zysku (pokrycia straty) 4.1. Rachunek przepływów pieniężnych (metoda bezpośrednia) z podziałem na:Należy podać w przypadku stosowania metody bezpośredniej rachunku przepływów pieniężnych. A. Przepływy pieniężne z działalności operacyjnej (I±II) I. Wpływy 1. Sprzedaż 2. Inne wpływy z działalności operacyjnej II. Wydatki 1. Dostawy i usługi 2. Wynagrodzenia netto 3. Ubezpieczenia społeczne i zdrowotne oraz inne świadczenia 4. Podatki i opłaty o charakterze publicznoprawnym 5. Inne wydatki operacyjne III. Przepływy pieniężne netto z działalności operacyjnej (I-II) B. Przepływy pieniężne z działalności inwestycyjnej (I-II) I. Wpływy 1. Zbycie wartości niematerialnych i prawnych oraz rzeczowych aktywów trwałych 2. Zbycie inwestycji w nieruchomości oraz wartości niematerialne i prawne 3. Z aktywów finansowych, w tym a) w jednostkach powiązanych b) w pozostałych jednostkach – zbycie aktywów finansowych – dywidendy i udziały w zyskach – spłata udzielonych pożyczek długoterminowych – odsetki – inne wpływy z aktywów finansowych 4. Inne wpływy inwestycyjne II. Wydatki 1. Nabycie wartości niematerialnych i prawnych oraz rzeczowych aktywów trwałych 2. Inwestycje w nieruchomości oraz wartości niematerialne i prawne 3. Na aktywa finansowe, w tym a) w jednostkach powiązanych b) w pozostałych jednostkach – nabycie aktywów finansowych – udzielone pożyczki długoterminowe 4. Inne wydatki inwestycyjne III. Przepływy pieniężne netto z działalności inwestycyjnej (I-II) C. Przepływy pieniężne z działalności finansowej (I-II) I. Wpływy 1. Wpływy netto z wydania udziałów (emisji akcji) i innych instrumentów kapitałowych oraz dopłat do kapitału 2. Kredyty i pożyczki 3. Emisja dłużnych papierów wartościowych 4. Inne wpływy finansowe II. Wydatki 1. Nabycie udziałów (akcji) własnych 2. Dywidendy i inne wypłaty na rzecz właścicieli 3. Inne, niż wypłaty na rzecz właścicieli, wydatki z tytułu podziału zysku 4. Spłaty kredytów i pożyczek 5. Wykup dłużnych papierów wartościowych 6. Z tytułu innych zobowiązań finansowych 7. Płatności zobowiązań z tytułu umów leasingu finansowego 8. Odsetki 9. Inne wydatki finansowe III. Przepływy pieniężne netto z działalności finansowej (I-II) D. Przepływy pieniężne netto, razem (A.III±B.III±C.III) E. Bilansowa zmiana stanu środków pieniężnych, w tym – zmiana stanu środków pieniężnych z tytułu różnic kursowych F. Środki pieniężne na początek okresu G. Środki pieniężne na koniec okresu (F±D), w tym – o ograniczonej możliwości dysponowania 4.2. Rachunek przepływów pieniężnych (metoda pośrednia) z podziałem na:Należy podać w przypadku stosowania metody pośredniej rachunku przepływów pieniężnych. A. Przepływy pieniężne netto z działalności operacyjnej (I±II) I. Zysk (strata) netto II. Korekty razem 1. Amortyzacja 2. Zyski (straty) z tytułu różnic kursowych 3. Odsetki i udziały w zyskach (dywidendy) 4. Zysk (strata) z działalności inwestycyjnej 5. Zmiana stanu rezerw 6. Zmiana stanu zapasów 7. Zmiana stanu należności 8. Zmiana stanu zobowiązań krótkoterminowych, z wyjątkiem pożyczek i kredytów 9. Zmiana stanu rozliczeń międzyokresowych 10. Inne korekty III. Przepływy pieniężne netto z działalności operacyjnej (I±II) B. Przepływy środków pieniężnych z działalności inwestycyjnej I. Wpływy 1. Zbycie wartości niematerialnych i prawnych oraz rzeczowych aktywów trwałych 2. Zbycie inwestycji w nieruchomości oraz wartości niematerialne i prawne 3. Z aktywów finansowych, w tym a) w jednostkach powiązanych b) w pozostałych jednostkach – zbycie aktywów finansowych – dywidendy i udziały w zyskach – spłata udzielonych pożyczek długoterminowych – odsetki – inne wpływy z aktywów finansowych 4. Inne wpływy inwestycyjne II. Wydatki 1. Nabycie wartości niematerialnych i prawnych oraz rzeczowych aktywów trwałych 2. Inwestycje w nieruchomości oraz wartości niematerialne i prawne 3. Na aktywa finansowe, w tym a) w jednostkach powiązanych b) w pozostałych jednostkach – nabycie aktywów finansowych – udzielone pożyczki długoterminowe 4. Inne wydatki inwestycyjne III. Przepływy pieniężne netto z działalności inwestycyjnej (I-II) C. Przepływy środków pieniężnych z działalności finansowej I. Wpływy 1. Wpływy netto z wydania udziałów (emisji akcji) i innych instrumentów kapitałowych oraz dopłat do kapitału 2. Kredyty i pożyczki 3. Emisja dłużnych papierów wartościowych 4. Inne wpływy finansowe II. Wydatki 1. Nabycie udziałów (akcji) własnych 2. Dywidendy i inne wypłaty na rzecz właścicieli 3. Inne niż wypłaty na rzecz właścicieli wydatki z tytułu podziału zysku 4. Spłaty kredytów i pożyczek 5. Wykup dłużnych papierów wartościowych 6. Z tytułu innych zobowiązań finansowych 7. Płatności zobowiązań z tytułu umów leasingu finansowego 8. Odsetki 9. Inne wydatki finansowe III. Przepływy pieniężne netto z działalności finansowej (I-II) D. Przepływy pieniężne netto razem (A.III±B.III±C.III) E. Bilansowa zmiana stanu środków pieniężnych, w tym – zmiana stanu środków pieniężnych z tytułu różnic kursowych F. Środki pieniężne na początek okresu G. Środki pieniężne na koniec okresu (F±D), w tym – o ograniczonej możliwości dysponowania 1) Należy podać: 1) dane w PLN według stanu na rok, w którym informacje są przekazywane (data), oraz rok poprzedni (data); 2) dane sporządzone zgodnie z obowiązującymi zasadami rachunkowości, z zastosowaniem zasad wyceny aktywów i pasywów oraz ustalania wyniku finansowego netto, określonych na dzień bilansowy, na podstawie ksiąg rachunkowych oraz innych danych przechowywanych na trwałych nośnikach; 3) wyjaśnienia zapewniające porównywalność danych – w przypadku zmiany zastosowanych metod wykazywania danych zawartych w przekazywanych informacjach. 2) Należy podać w przypadku stosowania wariantu kalkulacyjnego rachunku zysków i strat. 3) Należy podać w przypadku stosowania wariantu porównawczego rachunku zysków i strat. 4) Należy podać w przypadku stosowania metody bezpośredniej rachunku przepływów pieniężnych. 5) Należy podać w przypadku stosowania metody pośredniej rachunku przepływów pieniężnych.
 

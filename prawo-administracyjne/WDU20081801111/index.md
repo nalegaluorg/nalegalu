@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 września 2008 r. o zmianie ustawy o samorządzie gminnym oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 5 września 2008 r. o zmianie ustawy o samorządzie gminnym oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się także ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym, ustawę z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw i ustawę z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-09-05 |
 | Data wydania | 2008-10-10 |
-| Wejście w życie | 2008-10-25 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081801111) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1111/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 80, poz. 717 i Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1203 i Nr 167, poz. 1759, z 2005 r. Nr 172, poz. 1441 i Nr 175, poz. 1457, z 2006 r. Nr 17, poz. 128 i Nr 181, poz. 1337 oraz z 2007 r. Nr 48, poz. 327, Nr 138, poz. 974 i Nr 173, poz. 1218.) wprowadza się następujące zmiany:
 
 - **1)** w art. 24h po ust. 5 dodaje się ust. 5a w brzmieniu: „
 
@@ -37,7 +36,7 @@ source: "eli-html"
 
 1. Niezłożenie oświadczenia majątkowego mimo upływu dodatkowego terminu, o którym mowa w art. 24h ust. 5a przez:
 
-- **1)** radnego lub wójta – powoduje wygaśnięcie mandatu w trybie odpowiednio art. 190 ustawy, o której mowa w art. 24b ust. 6 lub art. 26 ustawy z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. Nr 113, poz. 984, z późn. zm.),
+- **1)** radnego lub wójta – powoduje wygaśnięcie mandatu w trybie odpowiednio art. 190 ustawy, o której mowa w art. 24b ust. 6 lub art. 26 ustawy z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. Nr 113, poz. 984, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1089 i Nr 214, poz. 1806, z 2004 r. Nr 102, poz. 1055, z 2005 r. Nr 175, poz. 1457, z 2006 r. Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162 i Nr 48, poz. 327.),
 - **2)** zastępcę wójta, sekretarza gminy, skarbnika gminy, kierownika jednostki organizacyjnej gminy, osobę zarządzającą i członka organu zarządzającego gminną osobą prawną oraz osobę wydającą decyzje administracyjne w imieniu wójta – powoduje utratę ich wynagrodzenia za okres od dnia, w którym powinno być złożone oświadczenie do dnia złożenia oświadczenia.
 
 2. Jeżeli sekretarz gminy lub skarbnik gminy nie złożą w terminie oświadczenia majątkowego, rada gminy odwołuje ich, w drodze uchwały, najpóźniej po upływie 30 dni od dnia, w którym upłynął termin do złożenia oświadczenia.
@@ -52,7 +51,7 @@ source: "eli-html"
 
 3. Przepis art. 98 stosuje się odpowiednio, z tym że uprawniona do złożenia skargi jest również osoba, której interesu prawnego lub uprawnienia dotyczy zarządzenie zastępcze. ” .
 
-**Art. 2.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2001 r. Nr 142, poz. 1590, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2001 r. Nr 142, poz. 1590, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1206 i Nr 167, poz. 1759, z 2006 r. Nr 126, poz. 875 i Nr 227, poz. 1658 oraz z 2007 r. Nr 173, poz. 1218.) wprowadza się następujące zmiany:
 
 - **1)** w art. 27c po ust. 5 dodaje się ust. 5a w brzmieniu: „
 
@@ -78,7 +77,7 @@ source: "eli-html"
 
 3. Przepis art. 86 stosuje się odpowiednio, z tym że uprawniona do złożenia skargi jest również osoba, której interesu prawnego lub uprawnienia dotyczy zarządzenie zastępcze. ” .
 
-**Art. 3.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2001 r. Nr 142, poz. 1592, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2001 r. Nr 142, poz. 1592, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984, Nr 153, poz. 1271, Nr 200, poz. 1688 i Nr 214, poz. 1806, z 2003 r. Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055 i Nr 167, poz. 1759 oraz z 2007 r. Nr 173, poz. 1218.) wprowadza się następujące zmiany:
 
 - **1)** w art. 25c po ust. 5 dodaje się ust. 5a w brzmieniu: „
 
@@ -104,7 +103,7 @@ source: "eli-html"
 
 3. Przepis art. 85 stosuje się odpowiednio, z tym że uprawniona do złożenia skargi jest również osoba, której interesu prawnego lub uprawnienia dotyczy zarządzenie zastępcze. ” .
 
-**Art. 4.** W ustawie z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2003 r. Nr 159, poz. 1547, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2003 r. Nr 159, poz. 1547, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 25, poz. 219, Nr 102, poz. 1055 i Nr 167, poz. 1760, z 2005 r. Nr 175, poz. 1457, z 2006 r. Nr 17, poz. 128, Nr 34, poz. 242, Nr 146, poz. 1055, Nr 159, poz. 1127 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 48, poz. 327 i Nr 112, poz. 766 oraz z 2008 r. Nr 96, poz. 607.) wprowadza się następujące zmiany:
 
 - **1)** w art. 190: w ust. 1 po pkt 1 dodaje się pkt 1b w brzmieniu: „
     - **a)**
@@ -142,7 +141,7 @@ source: "eli-html"
 
 3. Przepis ust. 1 i 2 stosuje się odpowiednio w przypadku, o którym mowa w art. 194 ust. 1. ” .
 
-**Art. 5.** W ustawie z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. Nr 113, poz. 984, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. Nr 113, poz. 984, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1089 i Nr 214, poz. 1806, z 2004 r. Nr 102, poz. 1055, z 2005 r. Nr 175, poz. 1457, z 2006 r. Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162 i Nr 48, poz. 327.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5: w ust. 2 kropkę zastępuje się przecinkiem i dodaje się wyrazy „z zastrzeżeniem ust. 2a.”, po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **a)**
@@ -160,5 +159,5 @@ source: "eli-html"
 
 3. Wygaśnięcie mandatu wójta następuje z dniem uprawomocnienia wyroku sądu administracyjnego oddalającego skargę, o której mowa w ust. 1. ” .
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia i ma zastosowanie do kadencji następujących po kadencji, w czasie której weszła w życie.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia i ma zastosowanie do kadencji następujących po kadencji, w czasie której weszła w życie. 1) Niniejszą ustawą zmienia się także ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym, ustawę z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw i ustawę z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 80, poz. 717 i Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1203 i Nr 167, poz. 1759, z 2005 r. Nr 172, poz. 1441 i Nr 175, poz. 1457, z 2006 r. Nr 17, poz. 128 i Nr 181, poz. 1337 oraz z 2007 r. Nr 48, poz. 327, Nr 138, poz. 974 i Nr 173, poz. 1218. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1089 i Nr 214, poz. 1806, z 2004 r. Nr 102, poz. 1055, z 2005 r. Nr 175, poz. 1457, z 2006 r. Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162 i Nr 48, poz. 327. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1206 i Nr 167, poz. 1759, z 2006 r. Nr 126, poz. 875 i Nr 227, poz. 1658 oraz z 2007 r. Nr 173, poz. 1218. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984, Nr 153, poz. 1271, Nr 200, poz. 1688 i Nr 214, poz. 1806, z 2003 r. Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055 i Nr 167, poz. 1759 oraz z 2007 r. Nr 173, poz. 1218. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 25, poz. 219, Nr 102, poz. 1055 i Nr 167, poz. 1760, z 2005 r. Nr 175, poz. 1457, z 2006 r. Nr 17, poz. 128, Nr 34, poz. 242, Nr 146, poz. 1055, Nr 159, poz. 1127 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 48, poz. 327 i Nr 112, poz. 766 oraz z 2008 r. Nr 96, poz. 607. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1089 i Nr 214, poz. 1806, z 2004 r. Nr 102, poz. 1055, z 2005 r. Nr 175, poz. 1457, z 2006 r. Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162 i Nr 48, poz. 327.
 

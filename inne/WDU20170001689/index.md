@@ -31,13 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 23 listopada 2004 r. w sprawie trybu postępowania i szczegółowych zasad prowadzenia rejestrów nieruchomości, udziałów i akcji nabytych lub objętych przez cudzoziemców (Dz. U. poz. 2556), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 25 stycznia 2017 r. zmieniającym rozporządzenie w sprawie trybu postępowania i szczegółowych zasad prowadzenia rejestrów nieruchomości, udziałów i akcji nabytych lub objętych przez cudzoziemców (Dz. U. poz. 232).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Rady Ministrów z dnia 25 stycznia 2017 r. zmieniającego rozporządzenie w sprawie trybu postępowania i szczegółowych zasad prowadzenia rejestrów nieruchomości, udziałów i akcji nabytych lub objętych przez cudzoziemców (Dz. U. poz. 232), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Rady Ministrów z dnia 25 stycznia 2017 r. zmieniającego rozporządzenie w sprawie trybu postępowania i szczegółowych zasad prowadzenia rejestrów nieruchomości, udziałów i akcji nabytych lub objętych przez cudzoziemców (Dz. U. poz. 232), które stanowią: „
 § 2.
 W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Rady Ministrów z dnia 23 listopada 2004 r. w sprawie trybu postępowania i szczegółowych zasad prowadzenia rejestrów nieruchomości, udziałów i akcji nabytych lub objętych przez cudzoziemców
 Na podstawie art. 8 ust. 5 ustawy z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców (Dz. U. z 2016 r. poz. 1061 i 2175) zarządza się, co następuje:
 § 1.
@@ -50,9 +48,9 @@ ustawie – rozumie się przez to ustawę z dnia 24 marca 1920 r. o nabywaniu ni
 organie prowadzącym rejestry – rozumie się przez to ministra właściwego do spraw wewnętrznych.
 § 3.
 Rejestry są prowadzone w systemie informatycznym w oparciu o komputerową bazę danych.
-§ 4.
+§ 4W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 25 stycznia 2017 r. zmieniającego rozporządzenie w sprawie trybu postępowania i szczegółowych zasad prowadzenia rejestrów nieruchomości, udziałów i akcji nabytych lub objętych przez cudzoziemców (Dz. U. poz. 232), które weszło w życie z dniem 8 lutego 2017 r..
 Wpisu do rejestrów dokonuje się nie później niż w ciągu dwóch miesięcy od dnia wpływu dokumentu będącego podstawą do dokonania wpisu lub od dnia zakończenia czynności wyjaśniających.
-§ 5.
+§ 5W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 25 stycznia 2017 r. zmieniającego rozporządzenie w sprawie trybu postępowania i szczegółowych zasad prowadzenia rejestrów nieruchomości, udziałów i akcji nabytych lub objętych przez cudzoziemców (Dz. U. poz. 232), które weszło w życie z dniem 8 lutego 2017 r..
 Wpisu do rejestrów dokonuje się na podstawie:
 1)
 wypisu aktu notarialnego oraz kopii umowy z podpisami notarialnie poświadczonymi, na mocy których cudzoziemiec nabył nieruchomość położoną na terytorium Rzeczypospolitej Polskiej lub nabył lub objął udziały, akcje lub ogół praw i obowiązków w spółce handlowej będącej właścicielem lub wieczystym użytkownikiem nieruchomości położonych na terytorium Rzeczypospolitej Polskiej;
@@ -71,7 +69,7 @@ Rejestry zawierają następujące dane:
 liczbę porządkową rejestru;
 2)
 datę wpływu do organu prowadzącego rejestr dokumentów, o których mowa w § 5;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.)
 oznaczenie katalogu danych:
 a)
 notariusza, repertorium oraz daty sporządzenia aktu notarialnego, aktu poświadczenia dziedziczenia, europejskiego poświadczenia spadkowego lub notarialnego poświadczenia podpisów,
@@ -114,5 +112,5 @@ Minister właściwy do spraw wewnętrznych informuje Ministra Obrony Narodowej o
 § 9.
 Traci moc rozporządzenie Rady Ministrów z dnia 2 lutego 1999 r. w sprawie trybu postępowania i szczegółowych zasad prowadzenia rejestrów nieruchomości, udziałów i akcji nabytych lub objętych przez cudzoziemców (Dz. U. poz. 112).
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 1 grudnia 2004 r.. 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 25 stycznia 2017 r. zmieniającego rozporządzenie w sprawie trybu postępowania i szczegółowych zasad prowadzenia rejestrów nieruchomości, udziałów i akcji nabytych lub objętych przez cudzoziemców (Dz. U. poz. 232), które weszło w życie z dniem 8 lutego 2017 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Rozporządzenie zostało ogłoszone w dniu 1 grudnia 2004 r.
 

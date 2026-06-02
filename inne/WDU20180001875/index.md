@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Infrastrukturyz dnia 11 września 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie sposobu i trybu rozliczania i dokumentowania kosztów związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnych
+# Obwieszczenie Ministra Infrastrukturyz dnia 11 września 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie sposobu i trybu rozliczania i dokumentowania kosztów związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnych Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 13 sierpnia 2013 r. w sprawie sposobu i trybu rozliczania i dokumentowania kosztów związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnych (Dz. U. z 2016 r. poz. 912), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 9 stycznia 2018 r. zmieniającym rozporządzenie w sprawie sposobu i trybu rozliczania i dokumentowania kosztów związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnych (Dz. U. poz. 147).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 9 stycznia 2018 r. zmieniającego rozporządzenie w sprawie sposobu i trybu rozliczania i dokumentowania kosztów związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnych (Dz. U. poz. 147), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 9 stycznia 2018 r. zmieniającego rozporządzenie w sprawie sposobu i trybu rozliczania i dokumentowania kosztów związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnych (Dz. U. poz. 147), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
-Załącznik – Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 13 sierpnia 2013 r. w sprawie sposobu i trybu rozliczania i dokumentowania kosztów związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnych
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
+Załącznik – Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 13 sierpnia 2013 r. w sprawie sposobu i trybu rozliczania i dokumentowania kosztów związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnychObecnie działem administracji rządowej – transport kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 Na podstawie art. 130 ust. 8 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2018 r. poz. 1183, 1629 i 1637) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób i tryb rozliczania i dokumentowania kosztów ponoszonych przez instytucje zapewniające służby żeglugi powietrznej z tytułu obsługi lotów zwolnionych z opłat nawigacyjnych, za które przysługuje dotacja celowa z budżetu państwa, zwanych dalej „kosztami refundowanymi”.
@@ -58,7 +55,7 @@ loty VFR – rozumie się przez to loty wykonywane zgodnie z przepisami dla lot�
 7)
 (uchylony);
 8)
-koszcie obsługi lotów VFR – rozumie się przez to koszt gotowości zapewnienia służb żeglugi powietrznej dla lotów VFR i lotów mieszanych w części wykonywanej według przepisów dla lotów VFR, o których mowa w rozdziale 4 załącznika 2 do Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212 i 214, z późn. zm.);
+koszcie obsługi lotów VFR – rozumie się przez to koszt gotowości zapewnienia służb żeglugi powietrznej dla lotów VFR i lotów mieszanych w części wykonywanej według przepisów dla lotów VFR, o których mowa w rozdziale 4 załącznika 2 do Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212 i 214, z późn. zm.Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371.);
 9)
 koszcie rzeczywistym lotów VFR – rozumie się przez to koszty poniesione przez instytucję i zewidencjonowane w systemie księgowym;
 10)
@@ -131,7 +128,7 @@ kwotę dotacji otrzymanej dla lotów IFR oraz dla lotów VFR;
 kwotę dotacji należnej dla lotów IFR oraz dla lotów VFR;
 5)
 różnicę pomiędzy dotacją należną i otrzymaną, przy założeniu, że nadpłata zmniejsza, a niedopłata zwiększa kwotę dotacji należnej za trzeci kwartał;
-6)
+6W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 9 stycznia 2018 r. zmieniającego rozporządzenie w sprawie sposobu i trybu rozliczania i dokumentowania kosztów związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnych (Dz. U. poz. 147), które weszło w życie z dniem 19 stycznia 2018 r.)
 potwierdzoną za zgodność z oryginałem kopię sprawozdania z badania sprawozdania finansowego za rok obrotowy, którego dotyczy rozliczenie kosztów rzeczywistych za loty, o których mowa w art. 130 ust. 6 pkt 1 i 2 ustawy;
 7)
 opinię Prezesa Urzędu Lotnictwa Cywilnego potwierdzającą prawidłowość sporządzenia przez instytucję rozliczenia, o którym mowa w ust. 4.
@@ -171,8 +168,7 @@ W razie stwierdzenia:
 1)
 nieprowadzenia ewidencji, o której mowa w ust. 1 lub 2, lub
 2)
-ustalenia kwoty dotacji z tytułu kosztów obsługi lotów IFR w oparciu o stawkę wyższą niż stawka ustalona zgodnie z odrębnymi przepisami, o której mowa w § 3 ust. 1 pkt 1
-pobrana w danym roku przez instytucję dotacja podlega zwrotowi jak dotacja wykorzystana niezgodnie z przeznaczeniem.
+ustalenia kwoty dotacji z tytułu kosztów obsługi lotów IFR w oparciu o stawkę wyższą niż stawka ustalona zgodnie z odrębnymi przepisami, o której mowa w § 3 ust. 1 pkt 1 – pobrana w danym roku przez instytucję dotacja podlega zwrotowi jak dotacja wykorzystana niezgodnie z przeznaczeniem.
 § 9.
 Wykazy, o których mowa w § 5 ust. 2, minister właściwy do spraw transportu przekaże wyznaczonej instytucji zapewniającej służby żeglugi powietrznej w terminie 7 dni od dnia wejścia w życie rozporządzenia.
 § 10.
@@ -181,6 +177,5 @@ Przepisy rozporządzenia stosuje się do dotacji naliczonych od dnia 1 stycznia 
 2.
 Do wniosków o wypłatę kosztów, o których mowa w art. 130 ust. 7 ustawy, złożonych przed dniem 19 marca 2013 r., stosuje się przepisy obowiązujące w dniu ich złożenia.
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Obecnie działem administracji rządowej – transport kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 9 stycznia 2018 r. zmieniającego rozporządzenie w sprawie sposobu i trybu rozliczania i dokumentowania kosztów związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnych (Dz. U. poz. 147), które weszło w życie z dniem 19 stycznia 2018 r. 4) Rozporządzenie zostało ogłoszone w dniu 2 września 2013 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu z dnia 5 lipca 2007 r. w sprawie sposobu i trybu rozliczania i dokumentowania wydatków związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnych (Dz. U. poz. 866), które na podstawie art. 18 ustawy z dnia 30 czerwca 2011 o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 1015) utraciło moc z dniem 19 marca 2013 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 2 września 2013 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu z dnia 5 lipca 2007 r. w sprawie sposobu i trybu rozliczania i dokumentowania wydatków związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnych (Dz. U. poz. 866), które na podstawie art. 18 ustawy z dnia 30 czerwca 2011 o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 1015) utraciło moc z dniem 19 marca 2013 r. 1) Obecnie działem administracji rządowej – transport kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 9 stycznia 2018 r. zmieniającego rozporządzenie w sprawie sposobu i trybu rozliczania i dokumentowania kosztów związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnych (Dz. U. poz. 147), które weszło w życie z dniem 19 stycznia 2018 r. 4) Rozporządzenie zostało ogłoszone w dniu 2 września 2013 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu z dnia 5 lipca 2007 r. w sprawie sposobu i trybu rozliczania i dokumentowania wydatków związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnych (Dz. U. poz. 866), które na podstawie art. 18 ustawy z dnia 30 czerwca 2011 o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 1015) utraciło moc z dniem 19 marca 2013 r.
 

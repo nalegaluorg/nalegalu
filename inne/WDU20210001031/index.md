@@ -37,22 +37,18 @@ rozporządzeniem Ministra Obrony Narodowej z dnia 26 sierpnia 2020 r. zmieniają
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 25 czerwca 2020 r. zmieniającego rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej z powodu zapobiegania zakażeniu wirusem SARS-CoV-2 (Dz. U. poz. 1119), który stanowi:
-„
+§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 25 czerwca 2020 r. zmieniającego rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej z powodu zapobiegania zakażeniu wirusem SARS-CoV-2 (Dz. U. poz. 1119), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 27 czerwca 2020 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 27 czerwca 2020 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 26 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej z powodu zapobiegania zakażeniu wirusem SARS-CoV-2 (Dz. U. poz. 1476), który stanowi:
-„
+§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 26 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej z powodu zapobiegania zakażeniu wirusem SARS-CoV-2 (Dz. U. poz. 1476), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2020 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 września 2020 r. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 22 maja 2020 r. w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej z powodu zapobiegania zakażeniu wirusem SARS-CoV-2
 Na podstawie art. 433a ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478 i 619) zarządza się, co następuje:
 § 1.
 1.
-W okresie od dnia 25 maja 2020 r. do dnia 30 września 2020 r. na obszarze kraju czasowo ogranicza się funkcjonowanie uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej przez zawieszenie kształcenia:
+W okresie od dnia 25 maja 2020 r. do dnia 30 września 2020 r. na obszarze kraju czasowo ogranicza się funkcjonowanie uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej przez zawieszenie kształcenia:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 26 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej z powodu zapobiegania zakażeniu wirusem SARS-CoV-2 (Dz. U. poz. 1476), które weszło w życie z dniem 1 września 2020 r.
 1)
 na studiach;
 2)
@@ -94,6 +90,5 @@ Uczelnia wojskowa, która w okresie zawieszenia kształcenia na studiach prowadz
 § 5.
 W przypadku prowadzenia kształcenia na studiach zgodnie z § 1 ust. 2 i § 4 nie stosuje się ograniczeń w zakresie liczby punktów ECTS, jaka może być uzyskana w ramach kształcenia z wykorzystaniem metod i technik kształcenia na odległość, określonych w programach studiów.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 25 maja 2020 r.
-1) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 26 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej z powodu zapobiegania zakażeniu wirusem SARS-CoV-2 (Dz. U. poz. 1476), które weszło w życie z dniem 1 września 2020 r.
+Rozporządzenie wchodzi w życie z dniem 25 maja 2020 r. 1) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 26 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej z powodu zapobiegania zakażeniu wirusem SARS-CoV-2 (Dz. U. poz. 1476), które weszło w życie z dniem 1 września 2020 r.
 

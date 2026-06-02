@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 4 sierpnia 2017 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji zawodowych do wykonywania zawodów regulowanych należących do działów administracji rządowej – gospodarka morska i żegluga śródlądowa
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 4 sierpnia 2017 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji zawodowych do wykonywania zawodów regulowanych należących do działów administracji rządowej – gospodarka morska i żegluga śródlądowa Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działami administracji rządowej – gospodarka morska oraz żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 1 i 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 
 | Pole | Wartość |
 |---|---|
@@ -22,22 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-04 |
 | Data wydania | 2017-08-30 |
-| Wejście w życie | 2017-08-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001639) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1639/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Staż adaptacyjny Rozdział 3 – Test umiejętności Rozdział 4 – Koszty stażu adaptacyjnego i testu umiejętności Rozdział 5 – Przepis końcowy
+Treść rozporządzenia
 Załącznik – Wykaz zawodów regulowanych należących do działów administracji rządowej – gospodarka morska i żegluga śródlądowa
 Treść rozporządzenia
-Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa:
 1)
 warunki, sposób i tryb odbywania stażu adaptacyjnego, sposób i tryb wykonywania nadzoru nad odbywaniem stażu adaptacyjnego oraz oceny nabytych przez wnioskodawcę umiejętności, sposób ustalania kosztów odbywania stażu adaptacyjnego oraz tryb pobierania i zwrotu opłaty za odbywanie stażu adaptacyjnego,
 2)
-warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za przeprowadzenie testu umiejętności
-w toku postępowania o uznanie, nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, kwalifikacji do wykonywania zawodów regulowanych należących do działów administracji rządowej – gospodarka morska i żegluga śródlądowa, zwanego dalej „postępowaniem”.
+warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za przeprowadzenie testu umiejętności – w toku postępowania o uznanie, nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, kwalifikacji do wykonywania zawodów regulowanych należących do działów administracji rządowej – gospodarka morska i żegluga śródlądowa, zwanego dalej „postępowaniem”.
 2.
 Wykaz zawodów regulowanych należących do działów administracji rządowej – gospodarka morska i żegluga śródlądowa, do których stosuje się przepisy rozporządzenia, określa załącznik do rozporządzenia.
 § 2.
@@ -50,6 +49,7 @@ organie prowadzącym postępowanie – należy przez to rozumieć odpowiednio mi
 ustawie – należy przez to rozumieć ustawę z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej.
 § 3.
 Wnioskodawca, po otrzymaniu postanowienia, o którym mowa w art. 20 ust. 1 ustawy, przekazuje organowi prowadzącemu postępowanie oświadczenie o wyborze odbycia stażu adaptacyjnego albo przystąpienia do testu umiejętności, z wyjątkiem przypadków, o których mowa w art. 21 ust. 2 pkt 1 lit. c i d oraz ust. 3 ustawy.
+Staż adaptacyjny
 § 4.
 Staż odbywa się w instytucji właściwej ze względu na rodzaj zawodu, którego dotyczy postępowanie.
 § 5.
@@ -184,6 +184,7 @@ Organ prowadzący postępowanie, w terminie 7 dni od dnia otrzymania protokołu 
 W przypadku stwierdzenia nieprzygotowania wnioskodawcy do samodzielnego wykonywania zawodu regulowanego organ prowadzący postępowanie może, na uzasadniony wniosek wnioskodawcy złożony w terminie 7 dni od dnia otrzymania przez wnioskodawcę informacji, o której mowa w § 13, jednokrotnie przedłużyć staż adaptacyjny, nie dłużej niż o połowę odbytego stażu adaptacyjnego, z zachowaniem okresu, o którym mowa w art. 20 ust. 4 ustawy.
 2.
 W przypadku przedłużenia stażu adaptacyjnego przepisy § 5–13, § 21 i § 23 stosuje się odpowiednio.
+Test umiejętności
 § 15.
 1.
 Test umiejętności przeprowadza się w następujących formach:
@@ -252,6 +253,7 @@ Nieprzystąpienie do testu umiejętności w wyznaczonym terminie bez usprawiedli
 W przypadku gdy nieprzystąpienie do testu umiejętności nastąpiło z uzasadnionej przyczyny, wnioskodawca składa wniosek o wyznaczenie nowego terminu przeprowadzenia testu umiejętności, wskazując w nim ważne, odpowiednio udokumentowane okoliczności lub zdarzenia losowe, z powodu których nie przystąpił do testu umiejętności w poprzednio wyznaczonym terminie.
 3.
 Do usprawiedliwiania okoliczności lub zdarzeń losowych, o których mowa w ust. 2, stosuje się odpowiednio przepisy wydane na podstawie art. 2982 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60 i 962).
+Koszty stażu adaptacyjnego i testu umiejętności
 § 21.
 1.
 Wnioskodawca przed dniem rozpoczęcia stażu adaptacyjnego wnosi opłatę z tytułu kosztów odbywania stażu adaptacyjnego na rachunek bankowy wskazany przez instytucję.
@@ -292,9 +294,9 @@ Wnioskodawca, co najmniej 14 dni przed ustalonym terminem przystąpienia do test
 Przed przystąpieniem do testu umiejętności wnioskodawca okazuje dokument potwierdzający jego tożsamość oraz dowód wniesienia opłaty, o której mowa w ust. 2.
 § 23.
 W przypadku odstąpienia od stażu adaptacyjnego albo nieprzystąpienia do testu umiejętności z przyczyn usprawiedliwionych opłata, o której mowa w § 21 ust. 1 i § 22 ust. 2, podlega zwrotowi. Zwrot opłaty następuje na rachunek wskazany przez wnioskodawcę, gotówką do rąk własnych wnioskodawcy albo w innym trybie wskazanym przez wnioskodawcę.
+Przepis końcowy
 § 24.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działami administracji rządowej – gospodarka morska oraz żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 1 i 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 30 stycznia 2015 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji zawodowych do wykonywania zawodów regulowanych należących do działów budownictwo, lokalne planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, gospodarka morska i transport (Dz. U. poz. 271), które utraciło moc z dniem 1 stycznia 2017 r. zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 30 stycznia 2015 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji zawodowych do wykonywania zawodów regulowanych należących do działów budownictwo, lokalne planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, gospodarka morska i transport (Dz. U. poz. 271), które utraciło moc z dniem 1 stycznia 2017 r. zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65). 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działami administracji rządowej – gospodarka morska oraz żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 1 i 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 30 stycznia 2015 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji zawodowych do wykonywania zawodów regulowanych należących do działów budownictwo, lokalne planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, gospodarka morska i transport (Dz. U. poz. 271), które utraciło moc z dniem 1 stycznia 2017 r. zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
 Załącznik – Wykaz zawodów regulowanych należących do działów administracji rządowej – gospodarka morska i żegluga śródlądowa
 I.
 1)
@@ -355,15 +357,25 @@ sternik żeglugi śródlądowej;
 10)
 szyper żeglugi śródlądowej.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Staż adaptacyjny
+#### Rozdział 2 – Staż adaptacyjny
 
-#### Rozdział 3 Test umiejętności
+#### Rozdział 3 – Test umiejętności
 
-#### Rozdział 4 Koszty stażu adaptacyjnego i testu umiejętności
+#### Rozdział 4 – Koszty stażu adaptacyjnego i testu umiejętności
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 
 ### Dział administracji rządowej – gospodarka morska:
 

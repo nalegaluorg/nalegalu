@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-06-10 |
 | Data wydania | 2014-07-15 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000930) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/930/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2010 r. Nr 206, poz. 1367, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2010 r. Nr 206, poz. 1367, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 22, poz. 114 i Nr 185, poz. 1092 oraz z 2012 r. poz. 908.) wprowadza się następujące zmiany:
 
 - **1)** w art. 32 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
@@ -51,7 +50,7 @@ source: "eli-html"
 2. Od wartości rynkowej lokalu mieszkalnego dla osoby uprawnionej, o której mowa w art. 56, stosuje się pomniejszenia o:
 
 - **1)** 95% – żołnierzom służby stałej, którzy nabyli prawo do emerytury wojskowej, żołnierzom zwolnionym z zawodowej służby wojskowej na skutek wypowiedzenia stosunku służbowego zawodowej służby wojskowej dokonanego przez organ wojskowy lub upływu okresu pozostawania w rezerwie kadrowej, emerytom wojskowym, osobom uprawnionym do wojskowej renty inwalidzkiej oraz członkom rodziny, o których mowa w art. 26 ust. 3, wspólnie zamieszkującym z żołnierzem, emerytem wojskowym lub rencistą wojskowym w dniu jego śmierci,
-- **2)** 90% – osobom niewymienionym w pkt 1 z tym że pomniejszenie nie obejmuje przypadających na lokal mieszkalny nakładów poniesionych przez Agencję w ciągu ostatnich trzech lat przed dniem sprzedaży na modernizację budynku, w którym jest położony sprzedawany lokal mieszkalny. ” , po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „
+- **2)** 90% – osobom niewymienionym w pkt 1 – z tym że pomniejszenie nie obejmuje przypadających na lokal mieszkalny nakładów poniesionych przez Agencję w ciągu ostatnich trzech lat przed dniem sprzedaży na modernizację budynku, w którym jest położony sprzedawany lokal mieszkalny. ” , po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „
     - **b)**
 
 2a. Pomniejszeń, o których mowa w ust. 2, nie stosuje się do sprzedaży prawa własności lub użytkowania wieczystego, w przypadku posiadania przez Agencję takiego prawa, ułamkowej części gruntu przypadającej na sprzedawany lokal mieszkalny.
@@ -62,5 +61,5 @@ source: "eli-html"
 
 **Art. 2.** Do spraw dotyczących sprzedaży lokalu mieszkalnego wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 22, poz. 114 i Nr 185, poz. 1092 oraz z 2012 r. poz. 908.
 

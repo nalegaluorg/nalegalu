@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 11 lutego 2019 r. zmieniające rozporządzenie w sprawie rodzaju spraw, w których obowiązek prowadzenia metryki sprawy jest wyłączony
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 11 lutego 2019 r. zmieniające rozporządzenie w sprawie rodzaju spraw, w których obowiązek prowadzenia metryki sprawy jest wyłączony Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-11 |
 | Data wydania | 2019-02-18 |
-| Wejście w życie | 2019-02-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000307) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/307/text.pdf) |
 
@@ -33,8 +32,29 @@ W rozporządzeniu Ministra Administracji i Cyfryzacji z dnia 9 marca 2012 r. w s
 1)
 uchyla się lp. 50;
 2)
-dodaje się lp. 129 w brzmieniu: 129 ustawa z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, z późn. zm.) art. 76 ust. 1 i 2art. 78 ust. 1art. 79art. 80art. 88art. 89art. 100art. 102art. 103art. 107art. 115art. 133 ust. 10art. 162art. 178 ust. 1 i 2art. 179 ust. 1art. 180 ust. 1art. 182art. 183art. 184 ust. 1, 3 i 4art. 361 ust. 1art. 372 ust. 2art. 373 ust. 2
+dodaje się lp. 129 w brzmieniu:
+129 ustawa z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, z późn. zm.) art. 76 ust. 1 i 2
+art. 78 ust. 1
+art. 79
+art. 80
+art. 88
+art. 89
+art. 100
+art. 102
+art. 103
+art. 107
+art. 115
+art. 133 ust. 10
+art. 162
+art. 178 ust. 1 i 2
+art. 179 ust. 1
+art. 180 ust. 1
+art. 182
+art. 183
+art. 184 ust. 1, 3 i 4
+art. 361 ust. 1
+art. 372 ust. 2
+art. 373 ust. 2
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 

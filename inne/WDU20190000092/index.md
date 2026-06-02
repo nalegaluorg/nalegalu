@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-28 |
 | Data wydania | 2019-01-16 |
-| Wejście w życie | 2019-01-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000092) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/92/text.pdf) |
 
@@ -42,8 +41,7 @@ Szefa Sztabu Generalnego Wojska Polskiego, także podczas jego pobytu poza grani
 4)
 członków wojskowych delegacji zagranicznych przebywających na terytorium Rzeczypospolitej Polskiej, określonych w załączniku do rozporządzenia,
 5)
-innych osób na podstawie zgody wyrażonej na piśmie przez Ministra Obrony Narodowej, także podczas ich pobytu poza granicami państwa
-przy użyciu sił i środków odpowiednich do przewidywanego lub występującego zagrożenia.
+innych osób na podstawie zgody wyrażonej na piśmie przez Ministra Obrony Narodowej, także podczas ich pobytu poza granicami państwa – przy użyciu sił i środków odpowiednich do przewidywanego lub występującego zagrożenia.
 2.
 Żandarmeria Wojskowa może czasowo odstąpić od wykonywania czynności ochronnych wobec osób, o których mowa w ust. 1 pkt 2–5, na wyraźne polecenie tych osób wydane żołnierzowi Żandarmerii Wojskowej będącemu dowódcą grupy ochronnej.
 3.
@@ -83,8 +81,7 @@ Współdziałanie jest poprzedzone złożeniem wniosku o objęcie ochroną osób
 1)
 Komendanta Głównego Żandarmerii Wojskowej,
 2)
-Komendanta Służby Ochrony Państwa
-przy czym podczas wykonywania czynności ochronnych wobec osób, o których mowa w § 1 ust. 1 pkt 1, kierującym działaniami jest funkcjonariusz Służby Ochrony Państwa. W pozostałych przypadkach kierującym działaniami jest żołnierz Żandarmerii Wojskowej.
+Komendanta Służby Ochrony Państwa – przy czym podczas wykonywania czynności ochronnych wobec osób, o których mowa w § 1 ust. 1 pkt 1, kierującym działaniami jest funkcjonariusz Służby Ochrony Państwa. W pozostałych przypadkach kierującym działaniami jest żołnierz Żandarmerii Wojskowej.
 2.
 Wniosek, o którym mowa w ust. 1, składa się co najmniej 24 godziny przed planowanym podjęciem współdziałania, przy czym termin ten nie ma zastosowania w sytuacji, gdy zwłoka w podjęciu współdziałania zagrażałaby bezpieczeństwu osoby ochranianej.
 § 4.
@@ -96,7 +93,7 @@ po stronie Służby Ochrony Państwa – Komendant Służby Ochrony Państwa.
 § 5.
 Współdziałanie realizują dowódcy zabezpieczeń ochronnych odpowiednio Żandarmerii Wojskowej i Służby Ochrony Państwa.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 28 grudnia 2001 r. w sprawie osób, w stosunku do których Żandarmeria Wojskowa wykonuje czynności ochronne, oraz zakresu i trybu współdziałania Żandarmerii Wojskowej z Biurem Ochrony Rządu (Dz. U. z 2014 r. poz. 277), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 389 ust. 2 pkt 7 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562, 1669, 2245 i 2399). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 28 grudnia 2001 r. w sprawie osób, w stosunku do których Żandarmeria Wojskowa wykonuje czynności ochronne, oraz zakresu i trybu współdziałania Żandarmerii Wojskowej z Biurem Ochrony Rządu (Dz. U. z 2014 r. poz. 277), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 389 ust. 2 pkt 7 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562, 1669, 2245 i 2399).
 Załącznik – Członkowie wojskowych delegacji zagranicznych przebywający na terytorium Rzeczypospolitej Polskiej, którym przysługuje ochrona Żandarmerii Wojskowej
 1.
 Sekretarz Generalny NATO oraz zastępcy Sekretarza Generalnego NATO.

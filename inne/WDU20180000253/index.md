@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 26 stycznia 2018 r. zmieniające rozporządzenie w sprawie urlopów policjantów
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 26 stycznia 2018 r. zmieniające rozporządzenie w sprawie urlopów policjantów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,21 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-26 |
 | Data wydania | 2018-01-26 |
-| Wejście w życie | 2018-01-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000253) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/253/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 86 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067 i 2405 oraz z 2018 r. poz. 106 i 138) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 19 września 2014 r. w sprawie urlopów policjantów (Dz. U. poz. 1282) w § 2 pkt 2 i 3 otrzymują brzmienie:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 19 września 2014 r. w sprawie urlopów policjantów (Dz. U. poz. 1282) w § 2 pkt 2 i 3 otrzymują brzmienie: „
 2)
 jednostka organizacyjna Policji – Centralne Biuro Śledcze Policji, Biuro Spraw Wewnętrznych Policji, komendę, komisariat, komisariat specjalistyczny, oddział i samodzielny pododdział prewencji Policji, pododdział antyterrorystyczny Policji, Wyższą Szkołę Policji w Szczytnie, szkołę policyjną, ośrodek szkolenia Policji i instytut badawczy;
 3)
-przełożony właściwy w sprawach osobowych – Komendanta Głównego Policji, Komendanta Centralnego Biura Śledczego Policji, Komendanta Biura Spraw Wewnętrznych Policji, komendanta wojewódzkiego (Komendanta Stołecznego) Policji, komendanta powiatowego (miejskiego) lub rejonowego Policji, Komendanta-Rektora Wyższej Szkoły Policji w Szczytnie, komendanta szkoły policyjnej oraz dyrektora instytutu badawczego.
-” .
+przełożony właściwy w sprawach osobowych – Komendanta Głównego Policji, Komendanta Centralnego Biura Śledczego Policji, Komendanta Biura Spraw Wewnętrznych Policji, komendanta wojewódzkiego (Komendanta Stołecznego) Policji, komendanta powiatowego (miejskiego) lub rejonowego Policji, Komendanta-Rektora Wyższej Szkoły Policji w Szczytnie, komendanta szkoły policyjnej oraz dyrektora instytutu badawczego. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
+Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 

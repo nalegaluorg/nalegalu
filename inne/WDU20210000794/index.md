@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 30 marca 2021 r. o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz niektórych innych ustaw
+# Ustawa z dnia 30 marca 2021 r. o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, ustawę z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych, ustawę z dnia 31 maja 1996 r. o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 16 listopada 2006 r. o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych oraz ustawę z dnia 14 sierpnia 2020 r. o świadczeniu pieniężnym przysługującym osobom zesłanym lub deportowanym przez władze Związku Socjalistycznych Republik Radzieckich w latach 1936–1956.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-03-30 |
 | Data wydania | 2021-04-29 |
-| Wejście w życie | 2021-05-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000794) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/794/text.pdf) |
 
@@ -89,7 +88,7 @@ source: "eli-html"
 
 **Art. 3.** W ustawie z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego (Dz. U. z 2020 r. poz. 1820) w art. 8 ust. 6 otrzymuje brzmienie: „ 6. Przepisu ust. 2a nie stosuje się do osób, którym Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych przyznał świadczenie pieniężne na podstawie ustawy z dnia 14 sierpnia 2020 r. o świadczeniu pieniężnym przysługującym osobom zesłanym lub deportowanym przez władze Związku Socjalistycznych Republik Radzieckich (Dz. U. poz. 1428 oraz z 2021 r. poz. 794). ” .
 
-**Art. 4.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2020 r. poz. 1426, z późn. zm.) w art. 21 w ust. 1 pkt 45a otrzymuje brzmienie: „
+**Art. 4.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2020 r. poz. 1426, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1291, 1428, 1492, 1565, 2122, 2123, 2127, 2255 i 2320 oraz z 2021 r. poz. 225 i 464.) w art. 21 w ust. 1 pkt 45a otrzymuje brzmienie: „
 
 - **45a)** świadczenie pieniężne przyznane na podstawie ustawy z dnia 14 sierpnia 2020 r. o świadczeniu pieniężnym przysługującym osobom zesłanym lub deportowanym przez władze Związku Socjalistycznych Republik Radzieckich (Dz. U. poz. 1428 oraz z 2021 r. poz. 794); ” .
 
@@ -204,5 +203,5 @@ source: "eli-html"
 
 2. Decyzję w sprawie ponownego ustalenia kapitału początkowego, ponownego ustalenia wysokości emerytury, w tym również emerytury obliczonej z uwzględnieniem przeliczonego kapitału początkowego, oraz decyzję w sprawie ponownego ustalenia wysokości renty z tytułu niezdolności do pracy lub renty rodzinnej organ rentowy wydaje w ciągu 30 dni od dnia wyjaśnienia ostatniej okoliczności niezbędnej do wydania tej decyzji.
 
-**Art. 16.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 11–15, które wchodzą w życie z dniem 1 czerwca 2021 r.
+**Art. 16.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 11–15, które wchodzą w życie z dniem 1 czerwca 2021 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, ustawę z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych, ustawę z dnia 31 maja 1996 r. o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 16 listopada 2006 r. o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych oraz ustawę z dnia 14 sierpnia 2020 r. o świadczeniu pieniężnym przysługującym osobom zesłanym lub deportowanym przez władze Związku Socjalistycznych Republik Radzieckich w latach 1936–1956. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1291, 1428, 1492, 1565, 2122, 2123, 2127, 2255 i 2320 oraz z 2021 r. poz. 225 i 464.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 grudnia 2020 r. o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin oraz niektórych innych ustaw
+# Ustawa z dnia 10 grudnia 2020 r. o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin oraz niektórych innych ustaw Niniejsza ustawa: 1) w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy 2004/38/WE Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie prawa obywateli Unii i członków ich rodzin do swobodnego przemieszczania się i pobytu na terytorium Państw Członkowskich, zmieniającej rozporządzenie (EWG) nr 1612/68 i uchylającej dyrektywy 64/221/EWG, 68/360/EWG, 72/194/EWG, 73/148/EWG, 75/34/EWG, 75/35/EWG, 90/364/EWG, 90/365/EWG i 93/96/EWG (Dz. Urz. UE L 158 z 30.04.2004, str. 77; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 5, str. 46); 2) w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2011/36/UE z dnia 5 kwietnia 2011 r. w sprawie zapobiegania handlowi ludźmi i zwalczania tego procederu oraz ochrony ofiar, zastępującej decyzję ramową Rady 2002/629/WSiSW (Dz. Urz. WE L 101 z 15.04.2011, str. 1); 3) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1157 z dnia 20 czerwca 2019 r. w sprawie poprawy zabezpieczeń dowodów osobistych obywateli Unii i dokumentów pobytowych wydawanych obywatelom Unii i członkom ich rodzin korzystającym z prawa do swobodnego przemieszczania się (Dz. Urz. UE L 188 z 12.07.2019, str. 67).
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-10 |
 | Data wydania | 2020-12-28 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002369) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2369/text.pdf) |
 
+Niniejszą ustawą: 1) zmienia się ustawy: ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 24 września 2010 r. o ewidencji ludności oraz ustawę z dnia 12 grudnia 2013 r. o cudzoziemcach; 2) uchyla się ustawę z dnia 15 marca 2019 r. o uregulowaniu niektórych spraw w związku z wystąpieniem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej bez zawarcia umowy, o której mowa w art. 50 ust. 2 Traktatu o Unii Europejskiej.
+Przepisy szczególne dotyczące prawa pobytu lub prawa stałego pobytu obywateli Zjednoczonego Królestwa i członków ich rodzin
 Do postępowań w sprawie prawa pobytu lub prawa stałego pobytu obywateli Zjednoczonego Królestwa oraz członków rodzin obywateli Zjednoczonego Królestwa stosuje się przepisy rozdziału 3 i rozdziału 4, z zastrzeżeniem przepisów niniejszego rozdziału.
 1.
 Obywatelom Zjednoczonego Królestwa wydaje się:
@@ -283,11 +284,9 @@ W rozporządzeniu, o którym mowa w ust. 1, minister właściwy do spraw wewnęt
 konieczność zapewnienia czytelności i kompletności wzorów, o których mowa w ust. 1 pkt 1 i 2;
 2)
 dane osobowe w zakresie niezbędnym do wydania dokumentu potwierdzającego prawo stałego pobytu, karty stałego pobytu, wymiany lub wydania nowego dokumentu potwierdzającego prawo stałego pobytu lub nowej karty stałego pobytu.
-Dokument potwierdzający prawo stałego pobytu lub kartę stałego pobytu, wydane obywatelowi Zjednoczonego Królestwa albo członkowi rodziny obywatela Zjednoczonego Królestwa można unieważnić, w przypadku gdy obywatel Zjednoczonego Królestwa albo członek rodziny obywatela Zjednoczonego Królestwa opuścił terytorium Rzeczypospolitej Polskiej na okres przekraczający 5 lat.
-” ;
+Dokument potwierdzający prawo stałego pobytu lub kartę stałego pobytu, wydane obywatelowi Zjednoczonego Królestwa albo członkowi rodziny obywatela Zjednoczonego Królestwa można unieważnić, w przypadku gdy obywatel Zjednoczonego Królestwa albo członek rodziny obywatela Zjednoczonego Królestwa opuścił terytorium Rzeczypospolitej Polskiej na okres przekraczający 5 lat. ” ;
 52)
-w rozdziale 5 dodaje się art. 65p w brzmieniu:
-„
+w rozdziale 5 dodaje się art. 65p w brzmieniu: „
 1.
 Obywatelowi UE, który nie posiada prawa pobytu zgodnie z art. 16 lub art. 18 lub nie zachował prawa pobytu w przypadku, o którym mowa w art. 17, art. 19 ust. 1 i 3 lub art. 19a, może być wydana decyzja o wydaleniu z terytorium Rzeczypospolitej Polskiej.
 2.
@@ -295,30 +294,24 @@ Członkowi rodziny niebędącemu obywatelem UE, który:
 1)
 nie posiada prawa pobytu zgodnie z art. 18 lub art. 18a lub nie zachował prawa pobytu w przypadku, o którym mowa w art. 19 ust. 2 i 3 lub art. 19a, lub
 2)
-nie posiada prawa pobytu lub nie zachował prawa pobytu w przypadku, o którym mowa w art. 19 ust. 3, w związku z wyjazdem z terytorium Rzeczypospolitej Polskiej obywatela UE lub obywatela Rzeczypospolitej Polskiej, z którym przebywał na tym terytorium
-może być wydana decyzja o wydaleniu z terytorium Rzeczypospolitej Polskiej.
-” ;
+nie posiada prawa pobytu lub nie zachował prawa pobytu w przypadku, o którym mowa w art. 19 ust. 3, w związku z wyjazdem z terytorium Rzeczypospolitej Polskiej obywatela UE lub obywatela Rzeczypospolitej Polskiej, z którym przebywał na tym terytorium – może być wydana decyzja o wydaleniu z terytorium Rzeczypospolitej Polskiej. ” ;
 53)
 w art. 66:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
 Obywatelowi UE lub członkowi rodziny niebędącemu obywatelem UE, którzy nie posiadają prawa stałego pobytu, może być wydana decyzja o wydaleniu z terytorium Rzeczypospolitej Polskiej, w przypadku gdy:
 1)
 wymagają tego względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego lub
 2)
-ich pobyt na tym terytorium stanowi zagrożenie dla zdrowia publicznego.
-” ,
+ich pobyt na tym terytorium stanowi zagrożenie dla zdrowia publicznego. ” ,
 b)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-W rozporządzeniu, o którym mowa w ust. 3, uwzględnia się choroby epidemiczne określone przez Światową Organizację Zdrowia oraz inne choroby wysoce zakaźne i szczególnie niebezpieczne, które podlegają zwalczaniu u obywateli polskich na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845 i 2112).
-” ;
+W rozporządzeniu, o którym mowa w ust. 3, uwzględnia się choroby epidemiczne określone przez Światową Organizację Zdrowia oraz inne choroby wysoce zakaźne i szczególnie niebezpieczne, które podlegają zwalczaniu u obywateli polskich na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845 i 2112). ” ;
 54)
-art. 67 i art. 68 otrzymują brzmienie:
-„
+art. 67 i art. 68 otrzymują brzmienie: „
+Postępowanie w sprawie zatrzymania obywatela UE lub członka rodziny niebędącego obywatelem UE, umieszczenia go w strzeżonym ośrodku lub zastosowania wobec niego aresztu dla cudzoziemców
 
 **Art. 1.** W ustawie z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2019 r. poz. 293 oraz z 2020 r. poz. 2023) wprowadza się następujące zmiany:
 
@@ -335,7 +328,7 @@ art. 67 i art. 68 otrzymują brzmienie:
     - **d)**
     - **b)**
 
-- **4)** członek rodziny: w przypadku członka rodziny obywatela UE, o którym mowa w pkt 3 lit. a-c – cudzoziemca będącego lub niebędącego obywatelem UE: – małżonka obywatela UE, – bezpośredniego zstępnego obywatela UE lub jego małżonka, w wieku do 21 lat lub pozostającego na utrzymaniu obywatela UE lub jego małżonka, – bezpośredniego wstępnego obywatela UE lub jego małżonka, pozostającego na utrzymaniu obywatela UE lub jego małżonka, – bezpośredniego wstępnego małoletniego obywatela UE, sprawującego faktyczną opiekę nad tym małoletnim obywatelem UE i na którego utrzymaniu ten małoletni obywatel UE pozostaje, w przypadku członka rodziny obywatela Rzeczypospolitej Polskiej – cudzoziemca niebędącego obywatelem UE: – małżonka obywatela Rzeczypospolitej Polskiej w przypadku spełnienia łącznie następujących warunków: – – obywatel Rzeczypospolitej Polskiej bezpośrednio przed przyjazdem na terytorium Rzeczypospolitej Polskiej posiadał prawo pobytu powyżej 3 miesięcy lub prawo stałego pobytu w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej, – – związek małżeński z obywatelem Rzeczypospolitej Polskiej został zawarty przed pobytem w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej lub w trakcie pobytu w tym państwie, – – obywatel Rzeczypospolitej Polskiej zamierza ponownie zamieszkać na terytorium Rzeczypospolitej Polskiej na stałe, – małżonka obywatela Rzeczypospolitej Polskiej posiadającego poprzednio obywatelstwo innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, – bezpośredniego zstępnego obywatela Rzeczypospolitej Polskiej lub jego małżonka, w wieku do 21 lat lub pozostającego na utrzymaniu obywatela Rzeczypospolitej Polskiej lub jego małżonka, w przypadku spełnienia łącznie następujących warunków: – – obywatel Rzeczypospolitej Polskiej bezpośrednio przed przyjazdem na terytorium Rzeczypospolitej Polskiej posiadał prawo pobytu powyżej 3 miesięcy lub prawo stałego pobytu w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej, – – życie rodzinne z obywatelem Rzeczypospolitej Polskiej zostało rozwinięte lub umocnione przed pobytem w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej lub w trakcie pobytu w tym państwie, – – obywatel Rzeczypospolitej Polskiej zamierza ponownie zamieszkać na terytorium Rzeczypospolitej Polskiej na stałe, – bezpośredniego wstępnego obywatela Rzeczypospolitej Polskiej lub jego małżonka, pozostającego na utrzymaniu obywatela Rzeczypospolitej Polskiej lub jego małżonka, w przypadku spełnienia łącznie następujących warunków: – – obywatel Rzeczypospolitej Polskiej bezpośrednio przed przyjazdem na terytorium Rzeczypospolitej Polskiej posiadał prawo pobytu powyżej 3 miesięcy lub prawo stałego pobytu w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej, – – życie rodzinne z obywatelem Rzeczypospolitej Polskiej zostało rozwinięte lub umocnione przed pobytem w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej lub w trakcie pobytu w tym państwie, – – obywatel Rzeczypospolitej Polskiej zamierza ponownie zamieszkać na terytorium Rzeczypospolitej Polskiej na stałe, – bezpośredniego wstępnego małoletniego obywatela Rzeczypospolitej Polskiej, w przypadku spełnienia łącznie następujących warunków: – – małoletni obywatel Rzeczypospolitej Polskiej bezpośrednio przed przyjazdem na terytorium Rzeczypospolitej Polskiej posiadał prawo pobytu powyżej 3 miesięcy lub prawo stałego pobytu w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej, – – małoletni obywatel Rzeczypospolitej Polskiej zamierza ponownie zamieszkać na terytorium Rzeczypospolitej Polskiej na stałe, – – bezpośredni wstępny sprawuje faktyczną opiekę nad tym małoletnim obywatelem Rzeczypospolitej Polskiej, – – małoletni obywatel Rzeczypospolitej Polskiej pozostaje na utrzymaniu bezpośredniego wstępnego, w przypadku członka rodziny obywatela UE, o którym mowa w pkt 3 lit. d – cudzoziemca, o którym mowa w art. 9 lit. a Umowy Wystąpienia; ” ;
+- **4)** członek rodziny: w przypadku członka rodziny obywatela UE, o którym mowa w pkt 3 lit. a-c – cudzoziemca będącego lub niebędącego obywatelem UE: – małżonka obywatela UE, – bezpośredniego zstępnego obywatela UE lub jego małżonka, w wieku do 21 lat lub pozostającego na utrzymaniu obywatela UE lub jego małżonka, – bezpośredniego wstępnego obywatela UE lub jego małżonka, pozostającego na utrzymaniu obywatela UE lub jego małżonka, – bezpośredniego wstępnego małoletniego obywatela UE, sprawującego faktyczną opiekę nad tym małoletnim obywatelem UE i na którego utrzymaniu ten małoletni obywatel UE pozostaje, w przypadku członka rodziny obywatela Rzeczypospolitej Polskiej – cudzoziemca niebędącego obywatelem UE: małżonka obywatela Rzeczypospolitej Polskiej w przypadku spełnienia łącznie następujących warunków: – – obywatel Rzeczypospolitej Polskiej bezpośrednio przed przyjazdem na terytorium Rzeczypospolitej Polskiej posiadał prawo pobytu powyżej 3 miesięcy lub prawo stałego pobytu w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej, – – związek małżeński z obywatelem Rzeczypospolitej Polskiej został zawarty przed pobytem w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej lub w trakcie pobytu w tym państwie, – – obywatel Rzeczypospolitej Polskiej zamierza ponownie zamieszkać na terytorium Rzeczypospolitej Polskiej na stałe, – małżonka obywatela Rzeczypospolitej Polskiej posiadającego poprzednio obywatelstwo innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, – bezpośredniego zstępnego obywatela Rzeczypospolitej Polskiej lub jego małżonka, w wieku do 21 lat lub pozostającego na utrzymaniu obywatela Rzeczypospolitej Polskiej lub jego małżonka, w przypadku spełnienia łącznie następujących warunków: – – obywatel Rzeczypospolitej Polskiej bezpośrednio przed przyjazdem na terytorium Rzeczypospolitej Polskiej posiadał prawo pobytu powyżej 3 miesięcy lub prawo stałego pobytu w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej, – – życie rodzinne z obywatelem Rzeczypospolitej Polskiej zostało rozwinięte lub umocnione przed pobytem w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej lub w trakcie pobytu w tym państwie, – – obywatel Rzeczypospolitej Polskiej zamierza ponownie zamieszkać na terytorium Rzeczypospolitej Polskiej na stałe, – bezpośredniego wstępnego obywatela Rzeczypospolitej Polskiej lub jego małżonka, pozostającego na utrzymaniu obywatela Rzeczypospolitej Polskiej lub jego małżonka, w przypadku spełnienia łącznie następujących warunków: – – obywatel Rzeczypospolitej Polskiej bezpośrednio przed przyjazdem na terytorium Rzeczypospolitej Polskiej posiadał prawo pobytu powyżej 3 miesięcy lub prawo stałego pobytu w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej, – – życie rodzinne z obywatelem Rzeczypospolitej Polskiej zostało rozwinięte lub umocnione przed pobytem w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej lub w trakcie pobytu w tym państwie, – – obywatel Rzeczypospolitej Polskiej zamierza ponownie zamieszkać na terytorium Rzeczypospolitej Polskiej na stałe, – bezpośredniego wstępnego małoletniego obywatela Rzeczypospolitej Polskiej, w przypadku spełnienia łącznie następujących warunków: – – małoletni obywatel Rzeczypospolitej Polskiej bezpośrednio przed przyjazdem na terytorium Rzeczypospolitej Polskiej posiadał prawo pobytu powyżej 3 miesięcy lub prawo stałego pobytu w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej, – – małoletni obywatel Rzeczypospolitej Polskiej zamierza ponownie zamieszkać na terytorium Rzeczypospolitej Polskiej na stałe, – – bezpośredni wstępny sprawuje faktyczną opiekę nad tym małoletnim obywatelem Rzeczypospolitej Polskiej, – – małoletni obywatel Rzeczypospolitej Polskiej pozostaje na utrzymaniu bezpośredniego wstępnego, w przypadku członka rodziny obywatela UE, o którym mowa w pkt 3 lit. d – cudzoziemca, o którym mowa w art. 9 lit. a Umowy Wystąpienia; ” ;
     - **a)**
     - **b)**
     - **c)**
@@ -343,10 +336,11 @@ art. 67 i art. 68 otrzymują brzmienie:
 - **3)** w art. 2a: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Do osób, o których mowa w art. 1, stosuje się przepisy art. 11, przepisy wydane na podstawie art. 12 ust. 1 i 3, art. 49–56, przepisy wydane na podstawie art. 57 ust. 1, art. 260–266, art. 288–292, art. 293 pkt 1, 4 i 5, art. 294, art. 296–298, art. 338, przepisy wydane na podstawie art. 339 ust. 1, art. 342–345, art. 347, przepisy wydane na podstawie art. 394 ust. 6, art. 395 ust. 1, art. 396, art. 397, art. 402, art. 404, art. 405, art. 407, art. 410–426, przepisy wydane na podstawie art. 427, art. 428 ust. 1 pkt 2 lit. a i k oraz pkt 3–5, art. 429 ust. 1 pkt 7, 8, 9a i 12 oraz ust. 2, art. 430 ust. 1, 2 pkt 5 i 7 oraz ust. 6 i 7, art. 432, art. 439–441, art. 444–447, art. 449, art. 449b-456 oraz przepisy wydane na podstawie art. 457 ust. 1 i art. 458 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do osób, o których mowa w art. 1 pkt 4–6, stosuje się ponadto przepisy: ” , – pkt 1 otrzymuje brzmienie: „ 1) art. 3 pkt 20–22, art. 58, art. 59, art. 60 ust. 1 pkt 17 i 17a, art. 66 ust. 1–3, art. 67–71, art. 73, art. 74, art. 74a, art. 77 ust. 1 pkt 1, 2 i 3 lit. a i e oraz ust. 7 i 8, art. 78, art. 79, przepisy wydane na podstawie art. 80 ust. 1, art. 96, przepisy wydane na podstawie art. 97 ust. 1, art. 360–379, art. 428 ust. 1 pkt 2 lit. c, art. 429 ust. 1 pkt 1, art. 443 ust. 1 pkt 5 i ust. 2, art. 448 oraz art. 449a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach; ” , dodaje się ust. 3 w brzmieniu: „
+1. Do osób, o których mowa w art. 1, stosuje się przepisy art. 11, przepisy wydane na podstawie art. 12 ust. 1 i 3, art. 49–56, przepisy wydane na podstawie art. 57 ust. 1, art. 260–266, art. 288–292, art. 293 pkt 1, 4 i 5, art. 294, art. 296–298, art. 338, przepisy wydane na podstawie art. 339 ust. 1, art. 342–345, art. 347, przepisy wydane na podstawie art. 394 ust. 6, art. 395 ust. 1, art. 396, art. 397, art. 402, art. 404, art. 405, art. 407, art. 410–426, przepisy wydane na podstawie art. 427, art. 428 ust. 1 pkt 2 lit. a i k oraz pkt 3–5, art. 429 ust. 1 pkt 7, 8, 9a i 12 oraz ust. 2, art. 430 ust. 1, 2 pkt 5 i 7 oraz ust. 6 i 7, art. 432, art. 439–441, art. 444–447, art. 449, art. 449b-456 oraz przepisy wydane na podstawie art. 457 ust. 1 i art. 458 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do osób, o których mowa w art. 1 pkt 4–6, stosuje się ponadto przepisy: ” , pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **1)** art. 3 pkt 20–22, art. 58, art. 59, art. 60 ust. 1 pkt 17 i 17a, art. 66 ust. 1–3, art. 67–71, art. 73, art. 74, art. 74a, art. 77 ust. 1 pkt 1, 2 i 3 lit. a i e oraz ust. 7 i 8, art. 78, art. 79, przepisy wydane na podstawie art. 80 ust. 1, art. 96, przepisy wydane na podstawie art. 97 ust. 1, art. 360–379, art. 428 ust. 1 pkt 2 lit. c, art. 429 ust. 1 pkt 1, art. 443 ust. 1 pkt 5 i ust. 2, art. 448 oraz art. 449a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach; ” , dodaje się ust. 3 w brzmieniu: „
+    - **c)**
 
 3. Do osób, o których mowa w art. 1 pkt 3a i 6, stosuje się ponadto przepisy działu V rozdziałów 3 i 3a oraz przepisy działu VI rozdziału 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach. ” ;
 
@@ -433,14 +427,14 @@ art. 67 i art. 68 otrzymują brzmienie:
 - **1)** odmowie wydania wizy w przypadkach, o których mowa w art. 10 ust. 2 pkt 6 lub 7,
 - **2)** cofnięciu wizy w przypadkach, o których mowa w art. 10a ust. 1 pkt 2 lub 3,
 - **3)** unieważnieniu wizy w przypadkach, o których mowa w art. 10b pkt 6 lub 7,
-- **4)** odmowie wjazdu w przypadkach, o których mowa w art. 11 ust. 1 pkt 2 lub 4 uwzględnia się zasadę proporcjonalności.
+- **4)** odmowie wjazdu w przypadkach, o których mowa w art. 11 ust. 1 pkt 2 lub 4 – uwzględnia się zasadę proporcjonalności.
 
 2. Decyzja o:
 
 - **1)** odmowie wydania wizy w przypadkach, o których mowa w art. 10 ust. 2 pkt 6,
 - **2)** cofnięciu wizy w przypadkach, o których mowa w art. 10a ust. 1 pkt 2,
 - **3)** unieważnieniu wizy w przypadkach, o których mowa w art. 10b pkt 6,
-- **4)** odmowie wjazdu w przypadkach, o których mowa w art. 11 ust. 1 pkt 2 może być wydana wyłącznie osobie, której zachowanie stanowi rzeczywiste, aktualne i dostatecznie poważne zagrożenie dla interesu społecznego, przy czym wcześniejsza karalność tej osoby nie może stanowić samoistnej podstawy do wydania decyzji.
+- **4)** odmowie wjazdu w przypadkach, o których mowa w art. 11 ust. 1 pkt 2 – może być wydana wyłącznie osobie, której zachowanie stanowi rzeczywiste, aktualne i dostatecznie poważne zagrożenie dla interesu społecznego, przy czym wcześniejsza karalność tej osoby nie może stanowić samoistnej podstawy do wydania decyzji.
 
 3. Na zagrożenie dla interesu społecznego nie można się powoływać dla celów gospodarczych. ” ;
 
@@ -449,7 +443,7 @@ art. 67 i art. 68 otrzymują brzmienie:
 **Art. 16.** Obywatelowi UE przysługuje prawo pobytu przez okres dłuższy niż 3 miesiące, w przypadku gdy spełnia jeden z następujących warunków:
 
 - **1)** jest pracownikiem lub osobą pracującą na własny rachunek na terytorium Rzeczypospolitej Polskiej;
-- **2)** posiada wystarczające środki finansowe do utrzymania siebie i członków rodziny na terytorium Rzeczypospolitej Polskiej, tak aby nie stanowić obciążenia dla pomocy społecznej, oraz: posiada ubezpieczenie zdrowotne w rozumieniu przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.) lub jest osobą uprawnioną do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji w rozumieniu art. 5 pkt 23 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, lub posiada dokument potwierdzający posiadanie prywatnego ubezpieczenia zdrowotnego, pokrywającego wszelkie wydatki, które mogą wyniknąć podczas pobytu na terytorium Rzeczypospolitej Polskiej w związku z potrzebą pomocy medycznej lub leczeniem szpitalnym, w którym ubezpieczyciel zobowiązuje się do pokrycia kosztów udzielonych ubezpieczonemu świadczeń zdrowotnych bezpośrednio na rzecz podmiotu udzielającego takich świadczeń, na podstawie wystawionego przez ten podmiot rachunku;
+- **2)** posiada wystarczające środki finansowe do utrzymania siebie i członków rodziny na terytorium Rzeczypospolitej Polskiej, tak aby nie stanowić obciążenia dla pomocy społecznej, oraz: posiada ubezpieczenie zdrowotne w rozumieniu przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112 i 2345.) lub jest osobą uprawnioną do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji w rozumieniu art. 5 pkt 23 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, lub posiada dokument potwierdzający posiadanie prywatnego ubezpieczenia zdrowotnego, pokrywającego wszelkie wydatki, które mogą wyniknąć podczas pobytu na terytorium Rzeczypospolitej Polskiej w związku z potrzebą pomocy medycznej lub leczeniem szpitalnym, w którym ubezpieczyciel zobowiązuje się do pokrycia kosztów udzielonych ubezpieczonemu świadczeń zdrowotnych bezpośrednio na rzecz podmiotu udzielającego takich świadczeń, na podstawie wystawionego przez ten podmiot rachunku;
     - **a)**
     - **b)**
     - **c)**
@@ -611,8 +605,15 @@ art. 67 i art. 68 otrzymują brzmienie:
 
 6. Osoba odbierająca kartę pobytową potwierdza odbiór karty podpisem składanym na formularzu wniosku o jej wydanie. ” ;
 
-- **26)** w art. 31: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) wymagają tego względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego, lub ” , – dodaje się pkt 3 i 4 w brzmieniu: „ 3) w postępowaniu o zarejestrowanie pobytu lub o wydanie karty pobytowej: a) złożył wniosek zawierający nieprawdziwe dane osobowe lub fałszywe informacje lub dołączył do niego dokumenty zawierające takie dane lub informacje lub b) zeznał nieprawdę lub zataił prawdę albo podrobił lub przerobił dokument w celu jego użycia jako autentycznego lub takiego dokumentu używał jako autentycznego, lub 4) ubiega się o zarejestrowanie pobytu lub wydanie karty pobytowej w celu obejścia przepisów prawa obowiązujących w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej regulujących zasady wjazdu na terytorium Unii Europejskiej, pobytu oraz wyjazdu z tego terytorium. ” , ust. 2 otrzymuje brzmienie: „
+- **26)** w art. 31: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** wymagają tego względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego, lub ” , dodaje się pkt 3 i 4 w brzmieniu: „
+- **3)** w postępowaniu o zarejestrowanie pobytu lub o wydanie karty pobytowej: złożył wniosek zawierający nieprawdziwe dane osobowe lub fałszywe informacje lub dołączył do niego dokumenty zawierające takie dane lub informacje lub zeznał nieprawdę lub zataił prawdę albo podrobił lub przerobił dokument w celu jego użycia jako autentycznego lub takiego dokumentu używał jako autentycznego, lub
+    - **a)**
+    - **b)**
+
+- **4)** ubiega się o zarejestrowanie pobytu lub wydanie karty pobytowej w celu obejścia przepisów prawa obowiązujących w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej regulujących zasady wjazdu na terytorium Unii Europejskiej, pobytu oraz wyjazdu z tego terytorium. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Członkowi rodziny niebędącemu obywatelem UE odmawia się wydania karty pobytowej, także gdy jego związek małżeński z obywatelem UE lub obywatelem Rzeczypospolitej Polskiej został zawarty w celu obejścia przepisów określających zasady i warunki wjazdu cudzoziemców na terytorium Rzeczypospolitej Polskiej, ich przejazdu przez to terytorium, pobytu na nim i wyjazdu z niego. ” ;
@@ -731,7 +732,7 @@ art. 67 i art. 68 otrzymują brzmienie:
 
 - **34)** po art. 37 dodaje się art. 37a-37d w brzmieniu: „ Zaświadczenie o zarejestrowaniu pobytu obywatela UE lub kartę pobytową anuluje się w przypadku:
 - **1)** gdy zostały utracone albo uszkodzone – z dniem zgłoszenia utraty albo uszkodzenia do właściwego organu;
-- **2)** gdy zachodzi potrzeba ich wymiany z powodu: zmiany wizerunku twarzy posiadacza zaświadczenia o zarejestrowaniu pobytu obywatela UE lub karty pobytowej w stosunku do wizerunku twarzy umieszczonego w tym zaświadczeniu lub w tej karcie pobytowej w stopniu utrudniającym lub uniemożliwiającym identyfikację ich posiadacza, zmiany danych w nich umieszczonych z dniem odbioru nowego zaświadczenia o zarejestrowaniu pobytu obywatela UE lub nowej karty pobytowej;
+- **2)** gdy zachodzi potrzeba ich wymiany z powodu: zmiany wizerunku twarzy posiadacza zaświadczenia o zarejestrowaniu pobytu obywatela UE lub karty pobytowej w stosunku do wizerunku twarzy umieszczonego w tym zaświadczeniu lub w tej karcie pobytowej w stopniu utrudniającym lub uniemożliwiającym identyfikację ich posiadacza, zmiany danych w nich umieszczonych – z dniem odbioru nowego zaświadczenia o zarejestrowaniu pobytu obywatela UE lub nowej karty pobytowej;
     - **a)**
     - **b)**
 
@@ -915,8 +916,15 @@ art. 67 i art. 68 otrzymują brzmienie:
 
 **Art. 55.** Dokument potwierdzający prawo stałego pobytu i karta stałego pobytu są ważne przez 10 lat. ” ;
 
-- **45)** w art. 56: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) wymagają tego względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego, lub ” , – dodaje się pkt 3 i 4 w brzmieniu: „ 3) w postępowaniu o wydanie dokumentu potwierdzającego prawo stałego pobytu lub o wydanie karty stałego pobytu wnioskodawca: a) złożył wniosek zawierający nieprawdziwe dane osobowe lub fałszywe informacje lub dołączył do niego dokumenty zawierające takie dane lub informacje lub b) zeznał nieprawdę lub zataił prawdę albo podrobił lub przerobił dokument w celu jego użycia jako autentycznego lub takiego dokumentu używał jako autentycznego, lub 4) obywatel UE lub członek rodziny niebędący obywatelem UE ubiega się o wydanie dokumentu potwierdzającego prawo stałego pobytu albo karty stałego pobytu w celu obejścia przepisów prawa obowiązujących w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej regulujących zasady wjazdu na terytorium Unii Europejskiej, pobytu oraz wyjazdu z tego terytorium. ” , ust. 2 otrzymuje brzmienie: „
+- **45)** w art. 56: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** wymagają tego względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego, lub ” , dodaje się pkt 3 i 4 w brzmieniu: „
+- **3)** w postępowaniu o wydanie dokumentu potwierdzającego prawo stałego pobytu lub o wydanie karty stałego pobytu wnioskodawca: złożył wniosek zawierający nieprawdziwe dane osobowe lub fałszywe informacje lub dołączył do niego dokumenty zawierające takie dane lub informacje lub zeznał nieprawdę lub zataił prawdę albo podrobił lub przerobił dokument w celu jego użycia jako autentycznego lub takiego dokumentu używał jako autentycznego, lub
+    - **a)**
+    - **b)**
+
+- **4)** obywatel UE lub członek rodziny niebędący obywatelem UE ubiega się o wydanie dokumentu potwierdzającego prawo stałego pobytu albo karty stałego pobytu w celu obejścia przepisów prawa obowiązujących w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej regulujących zasady wjazdu na terytorium Unii Europejskiej, pobytu oraz wyjazdu z tego terytorium. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Członkowi rodziny niebędącemu obywatelem UE odmawia się wydania karty stałego pobytu także wtedy, gdy związek małżeński z obywatelem UE lub obywatelem Rzeczypospolitej Polskiej został zawarty w celu obejścia przepisów określających zasady i warunki wjazdu cudzoziemców na terytorium Rzeczypospolitej Polskiej, ich przejazdu przez to terytorium, pobytu na nim i wyjazdu z niego. ” ;
@@ -1009,7 +1017,7 @@ art. 67 i art. 68 otrzymują brzmienie:
 - **4)** zapewnienie możliwości sprawnego wyeliminowania wadliwego dokumentu. ” ;
 - **51)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
 
-#### Rozdział 4a Przepisy szczególne dotyczące prawa pobytu lub prawa stałego pobytu obywateli Zjednoczonego Królestwa i członków ich rodzin
+#### Rozdział 4a
 
 **Art. 67.** Obywatelowi UE lub członkowi rodziny niebędącemu obywatelem UE, którzy posiadają prawo stałego pobytu, może być wydana decyzja o wydaleniu, w przypadku gdy ich pobyt na terytorium Rzeczypospolitej Polskiej stanowi poważne zagrożenie dla obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego.
 
@@ -1116,7 +1124,7 @@ art. 67 i art. 68 otrzymują brzmienie:
 
 - **67)** po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
 
-#### Rozdział 5a Postępowanie w sprawie zatrzymania obywatela UE lub członka rodziny niebędącego obywatelem UE, umieszczenia go w strzeżonym ośrodku lub zastosowania wobec niego aresztu dla cudzoziemców
+#### Rozdział 5a
 
 **Art. 78a.**
 
@@ -1208,10 +1216,23 @@ art. 67 i art. 68 otrzymują brzmienie:
 - **69)** po art. 79 dodaje się art. 79a w brzmieniu: „ Rejestry w sprawach dotyczących obywateli UE i członków rodzin niebędących obywatelami UE prowadzą:
 - **1)** wojewoda i Szef Urzędu do Spraw Cudzoziemców, każdy w swoim zakresie – w przypadku rejestrów, o których mowa w art. 79 pkt 1–4;
 - **2)** minister właściwy do spraw wewnętrznych – w przypadku rejestru, o którym mowa w art. 79 pkt 5. ” ;
-- **70)** w art. 80: w pkt 1: – lit. a otrzymuje brzmienie: „ a) informacje o wnioskach dotyczących zarejestrowania pobytu, wydania nowego i wymiany zaświadczenia o zarejestrowaniu pobytu obywatela UE lub zaświadczenia o zarejestrowaniu pobytu, ” , – lit. d otrzymuje brzmienie: „ d) informacje o wydaniu nowego i wymianie zaświadczenia o zarejestrowaniu pobytu obywatela UE lub zaświadczenia o zarejestrowaniu pobytu, ” , – w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f i g w brzmieniu: „ f) informacje o dacie wydania, numerze, serii i dacie upływu okresu ważności zaświadczenia o zarejestrowaniu pobytu obywatela UE lub zaświadczenia o zarejestrowaniu pobytu, g) obraz linii papilarnych – w przypadku obywateli Zjednoczonego Królestwa; ” , w pkt 2: – lit. a i b otrzymują brzmienie: „ a) wnioskach o wydanie karty pobytowej, wydanie nowej karty pobytowej i wymianę karty pobytowej, b) dacie wydania, numerze, serii i dacie upływu okresu ważności karty pobytowej, ” , – w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ d) obrazie linii papilarnych; ” , w pkt 3: – lit. a i b otrzymują brzmienie: „ a) wnioskach o wydanie dokumentu potwierdzającego prawo stałego pobytu, wydanie nowego dokumentu potwierdzającego prawo stałego pobytu i wymianę dokumentu potwierdzającego prawo stałego pobytu, b) dacie wydania, numerze, serii i dacie upływu okresu ważności dokumentu potwierdzającego prawo stałego pobytu, ” , – w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ d) obrazie linii papilarnych – w przypadku obywateli Zjednoczonego Królestwa; ” , w pkt 4: – lit. a i b otrzymują brzmienie: „ a) wnioskach o wydanie karty stałego pobytu, wydanie nowej karty stałego pobytu i wymianę karty stałego pobytu, b) dacie wydania, numerze, serii i dacie upływu okresu ważności karty stałego pobytu, ” , – w lit. c kropkę zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ d) obrazie linii papilarnych; ” , dodaje się pkt 5 w brzmieniu: „
+- **70)** w art. 80: w pkt 1: lit. a otrzymuje brzmienie: „ informacje o wnioskach dotyczących zarejestrowania pobytu, wydania nowego i wymiany zaświadczenia o zarejestrowaniu pobytu obywatela UE lub zaświadczenia o zarejestrowaniu pobytu, ” , lit. d otrzymuje brzmienie: „ informacje o wydaniu nowego i wymianie zaświadczenia o zarejestrowaniu pobytu obywatela UE lub zaświadczenia o zarejestrowaniu pobytu, ” , w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f i g w brzmieniu: „ informacje o dacie wydania, numerze, serii i dacie upływu okresu ważności zaświadczenia o zarejestrowaniu pobytu obywatela UE lub zaświadczenia o zarejestrowaniu pobytu, obraz linii papilarnych – w przypadku obywateli Zjednoczonego Królestwa; ” , w pkt 2: lit. a i b otrzymują brzmienie: „ wnioskach o wydanie karty pobytowej, wydanie nowej karty pobytowej i wymianę karty pobytowej, dacie wydania, numerze, serii i dacie upływu okresu ważności karty pobytowej, ” , w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ obrazie linii papilarnych; ” , w pkt 3: lit. a i b otrzymują brzmienie: „ wnioskach o wydanie dokumentu potwierdzającego prawo stałego pobytu, wydanie nowego dokumentu potwierdzającego prawo stałego pobytu i wymianę dokumentu potwierdzającego prawo stałego pobytu, dacie wydania, numerze, serii i dacie upływu okresu ważności dokumentu potwierdzającego prawo stałego pobytu, ” , w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ obrazie linii papilarnych – w przypadku obywateli Zjednoczonego Królestwa; ” , w pkt 4: lit. a i b otrzymują brzmienie: „ wnioskach o wydanie karty stałego pobytu, wydanie nowej karty stałego pobytu i wymianę karty stałego pobytu, dacie wydania, numerze, serii i dacie upływu okresu ważności karty stałego pobytu, ” , w lit. c kropkę zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ obrazie linii papilarnych; ” , dodaje się pkt 5 w brzmieniu: „
+    - **a)**
+    - **a)**
+    - **d)**
+    - **f)**
+    - **g)**
+    - **b)**
     - **a)**
     - **b)**
+    - **d)**
     - **c)**
+    - **a)**
+    - **b)**
+    - **d)**
+    - **d)**
+    - **a)**
+    - **b)**
     - **d)**
     - **e)**
 
@@ -1282,9 +1303,11 @@ art. 67 i art. 68 otrzymują brzmienie:
 - **2)** w załączniku do ustawy: w części II w ust. 21 w kolumnie 4 dodaje się pkt 17 w brzmieniu: „
     - **a)**
 
-- **17)** zaświadczenie potwierdzające, iż w stosunku do obywatela UE lub członka rodziny obywatela UE istnieje domniemanie, że są oni ofiarami handlu ludźmi ” , w części III: – w ust. 2 w kolumnie 4 pkt 1 otrzymuje brzmienie: „ 1) zezwolenie, o którym mowa w art. 160 pkt 4, 5 lub 6, art. 176 i art. 186 ust. 1 pkt 8 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach ” , – w ust. 3 w kolumnie 4 dodaje się pkt 4 w brzmieniu: „ 4) na podstawie art. 195 ust. 1 pkt 10 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach ” . W ustawie z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2019 r. poz. 1397 i 2294 oraz z 2020 r. poz. 695 i 2320) wprowadza się następujące zmiany:
+- **17)** zaświadczenie potwierdzające, iż w stosunku do obywatela UE lub członka rodziny obywatela UE istnieje domniemanie, że są oni ofiarami handlu ludźmi ” , w części III: w ust. 2 w kolumnie 4 pkt 1 otrzymuje brzmienie: „
     - **b)**
 
+- **1)** zezwolenie, o którym mowa w art. 160 pkt 4, 5 lub 6, art. 176 i art. 186 ust. 1 pkt 8 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach ” , w ust. 3 w kolumnie 4 dodaje się pkt 4 w brzmieniu: „
+- **4)** na podstawie art. 195 ust. 1 pkt 10 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach ” . W ustawie z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2019 r. poz. 1397 i 2294 oraz z 2020 r. poz. 695 i 2320) wprowadza się następujące zmiany:
 - **1)** w art. 40 w ust. 2 wyrazy „ust. 1 i 2” zastępuje się wyrazami „ust. 1–2a”;
 - **2)** w art. 41: po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **a)**
@@ -1327,7 +1350,7 @@ art. 67 i art. 68 otrzymują brzmienie:
     - **a)**
     - **b)**
 
-- **4)** cudzoziemcowi będącemu członkiem rodziny zamieszkującego na terytorium Rzeczypospolitej Polskiej obywatela Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa w art. 10 ust. 1 lit. b i d Umowy Wystąpienia, innym niż ten, o którym mowa w art. 2 pkt 4 lit. b ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin, który przebywa na terytorium Rzeczypospolitej Polskiej wspólnie z tym obywatelem – ze względu na: zależność finansową od niego lub pozostawanie z nim w gospodarstwie domowym w kraju, z którego przybył cudzoziemiec, lub poważne względy zdrowotne wymagające osobistej opieki ze strony tego obywatela jeżeli temu cudzoziemcowi udzielono zezwolenia, o którym mowa w pkt 1, przed zakończeniem okresu przejściowego, o którym mowa w art. 126 Umowy Wystąpienia, albo po jego zakończeniu w związku z wnioskiem złożonym przed zakończeniem tego okresu jako członkowi rodziny obywatela Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz gdy spełnia on wymogi, o których mowa w art. 159 ust. 1 pkt 2;
+- **4)** cudzoziemcowi będącemu członkiem rodziny zamieszkującego na terytorium Rzeczypospolitej Polskiej obywatela Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa w art. 10 ust. 1 lit. b i d Umowy Wystąpienia, innym niż ten, o którym mowa w art. 2 pkt 4 lit. b ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin, który przebywa na terytorium Rzeczypospolitej Polskiej wspólnie z tym obywatelem – ze względu na: zależność finansową od niego lub pozostawanie z nim w gospodarstwie domowym w kraju, z którego przybył cudzoziemiec, lub poważne względy zdrowotne wymagające osobistej opieki ze strony tego obywatela – jeżeli temu cudzoziemcowi udzielono zezwolenia, o którym mowa w pkt 1, przed zakończeniem okresu przejściowego, o którym mowa w art. 126 Umowy Wystąpienia, albo po jego zakończeniu w związku z wnioskiem złożonym przed zakończeniem tego okresu jako członkowi rodziny obywatela Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz gdy spełnia on wymogi, o których mowa w art. 159 ust. 1 pkt 2;
     - **a)**
     - **b)**
 
@@ -1410,7 +1433,7 @@ art. 67 i art. 68 otrzymują brzmienie:
 2. Umieszczone w Systemie Informacyjnym Schengen:
 
 - **1)** dane cudzoziemca – usuwa się w przypadku zawieszenia obowiązywania wpisu do wykazu, o którym mowa w art. 437,
-- **2)** dane członka rodziny obywatela Unii Europejskiej niebędącego obywatelem Unii Europejskiej – usuwa się w przypadku zawieszenia obowiązywania wpisu do wykazu, o którym mowa w art. 77a ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin do czasu ustania okoliczności uzasadniających to zawieszenie. ” .
+- **2)** dane członka rodziny obywatela Unii Europejskiej niebędącego obywatelem Unii Europejskiej – usuwa się w przypadku zawieszenia obowiązywania wpisu do wykazu, o którym mowa w art. 77a ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin – do czasu ustania okoliczności uzasadniających to zawieszenie. ” .
 
 **Art. 7.**
 
@@ -1442,7 +1465,7 @@ art. 67 i art. 68 otrzymują brzmienie:
 
 - **1)** do dnia 31 grudnia 2021 r. złożył wniosek o wydanie nowego zaświadczenia o zarejestrowaniu pobytu, nowej karty pobytowej, nowego dokumentu potwierdzającego prawo stałego pobytu lub nowej karty stałego pobytu, o których mowa w art. 65b ustawy zmienianej w art. 1,
 - **2)** do dnia 31 grudnia 2021 r. złożył wniosek o zarejestrowanie pobytu lub wydanie karty pobytowej, dokumentu potwierdzającego prawo stałego pobytu lub karty stałego pobytu, o których mowa w rozdziale 4a ustawy zmienianej w art. 1,
-- **3)** przed dniem wejścia w życie niniejszej ustawy złożył wniosek o zarejestrowanie pobytu lub o wydanie karty pobytu członka rodziny obywatela UE, dokumentu potwierdzającego prawo stałego pobytu lub karty stałego pobytu członka rodziny obywatela UE, o których mowa w rozdziale 3 i rozdziale 4 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, jeżeli postępowanie w tej sprawie nie zostało zakończone do dnia 31 grudnia 2020 r. wojewoda wydaje zaświadczenie o złożeniu tego wniosku ważne przez rok.
+- **3)** przed dniem wejścia w życie niniejszej ustawy złożył wniosek o zarejestrowanie pobytu lub o wydanie karty pobytu członka rodziny obywatela UE, dokumentu potwierdzającego prawo stałego pobytu lub karty stałego pobytu członka rodziny obywatela UE, o których mowa w rozdziale 3 i rozdziale 4 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, jeżeli postępowanie w tej sprawie nie zostało zakończone do dnia 31 grudnia 2020 r. – wojewoda wydaje zaświadczenie o złożeniu tego wniosku ważne przez rok.
 
 2. W przypadku gdy postępowanie, o którym mowa w ust. 1, nie zostało zakończone przed upływem okresu ważności zaświadczenia, wojewoda, przed którym toczy się to postępowanie, wydaje kolejne zaświadczenie ważne przez rok. Jeżeli postępowanie toczy się przed Szefem Urzędu do Spraw Cudzoziemców, zaświadczenie wydaje wojewoda, który orzekał w sprawie w pierwszej instancji.
 
@@ -1501,7 +1524,7 @@ art. 67 i art. 68 otrzymują brzmienie:
 
 2. W postępowaniach w sprawie udzielenia zezwolenia na pobyt czasowy, o którym mowa w art. 160 pkt 1 ustawy zmienianej w art. 6, wszczętych i niezakończonych przed dniem wejścia w życie ustawy, dotyczących członków rodziny obywateli Zjednoczonego Królestwa innych niż określeni w art. 2 pkt 4 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, obywatela Zjednoczonego Królestwa uważa się za obywatela państwa członkowskiego Unii Europejskiej.
 
-3. Zezwolenia na pobyt czasowy, o których mowa w art. 160 pkt 3 ustawy zmienianej w art. 6, udzielone przed dniem wejścia w życie ustawy cudzoziemcom prowadzącym życie rodzinne z obywatelami Zjednoczonego Królestwa w rozumieniu Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r. poz. 284, z późn. zm.), zachowują ważność na okresy, na jakie zostały udzielone.
+3. Zezwolenia na pobyt czasowy, o których mowa w art. 160 pkt 3 ustawy zmienianej w art. 6, udzielone przed dniem wejścia w życie ustawy cudzoziemcom prowadzącym życie rodzinne z obywatelami Zjednoczonego Królestwa w rozumieniu Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r. poz. 284, z późn. zm.Zmiany wymienionej Konwencji zostały ogłoszone w Dz. U. z 1995 r. poz. 175, 176 i 177, z 1998 r. poz. 962, z 2001 r. poz. 266, z 2003 r. poz. 364 oraz z 2010 r. poz. 587.), zachowują ważność na okresy, na jakie zostały udzielone.
 
 4. W postępowaniach w sprawie udzielenia zezwolenia na pobyt czasowy, o którym mowa w art. 160 pkt 3 ustawy zmienianej w art. 6, wszczętych i niezakończonych przed dniem wejścia w życie ustawy, dotyczących cudzoziemców prowadzących życie rodzinne z obywatelem Zjednoczonego Królestwa w rozumieniu Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r., obywatela Zjednoczonego Królestwa uważa się za obywatela państwa członkowskiego Unii Europejskiej.
 
@@ -1565,6 +1588,6 @@ art. 67 i art. 68 otrzymują brzmienie:
     - **c)**
 
 - **1)** art. 1 pkt 8 w zakresie art. 8b ust. 2, pkt 9, 18, 19, 22–30, 32–35, 40–47, pkt 48 w zakresie art. 59, art. 60 ust. 2 i 3 oraz art. 61, pkt 49, 50, pkt 68 w zakresie art. 79 pkt 2 i 4, pkt 70 w zakresie art. 80 pkt 1 lit. a, d i f, pkt 2 lit. a, b i d, pkt 3 lit. a, pkt 4 lit. a, b i d, pkt 71 w zakresie art. 80a i pkt 72,
-- **2)** art. 5 pkt 3 lit. b i d które wchodzą w życie z dniem 2 sierpnia 2021 r.
+- **2)** art. 5 pkt 3 lit. b i d – które wchodzą w życie z dniem 2 sierpnia 2021 r. 1) Niniejsza ustawa: 1) w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy 2004/38/WE Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie prawa obywateli Unii i członków ich rodzin do swobodnego przemieszczania się i pobytu na terytorium Państw Członkowskich, zmieniającej rozporządzenie (EWG) nr 1612/68 i uchylającej dyrektywy 64/221/EWG, 68/360/EWG, 72/194/EWG, 73/148/EWG, 75/34/EWG, 75/35/EWG, 90/364/EWG, 90/365/EWG i 93/96/EWG (Dz. Urz. UE L 158 z 30.04.2004, str. 77; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 5, str. 46); 2) w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2011/36/UE z dnia 5 kwietnia 2011 r. w sprawie zapobiegania handlowi ludźmi i zwalczania tego procederu oraz ochrony ofiar, zastępującej decyzję ramową Rady 2002/629/WSiSW (Dz. Urz. WE L 101 z 15.04.2011, str. 1); 3) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1157 z dnia 20 czerwca 2019 r. w sprawie poprawy zabezpieczeń dowodów osobistych obywateli Unii i dokumentów pobytowych wydawanych obywatelom Unii i członkom ich rodzin korzystającym z prawa do swobodnego przemieszczania się (Dz. Urz. UE L 188 z 12.07.2019, str. 67). 2) Niniejszą ustawą: 1) zmienia się ustawy: ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 24 września 2010 r. o ewidencji ludności oraz ustawę z dnia 12 grudnia 2013 r. o cudzoziemcach; 2) uchyla się ustawę z dnia 15 marca 2019 r. o uregulowaniu niektórych spraw w związku z wystąpieniem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej bez zawarcia umowy, o której mowa w art. 50 ust. 2 Traktatu o Unii Europejskiej. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112 i 2345. 4) Zmiany wymienionej Konwencji zostały ogłoszone w Dz. U. z 1995 r. poz. 175, 176 i 177, z 1998 r. poz. 962, z 2001 r. poz. 266, z 2003 r. poz. 364 oraz z 2010 r. poz. 587.
 
 

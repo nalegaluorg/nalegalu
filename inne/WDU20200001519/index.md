@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Finansówz dnia 19 sierpnia 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie egzaminu na pośrednika kredytu hipotecznego
+# Obwieszczenie Ministra Finansówz dnia 19 sierpnia 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie egzaminu na pośrednika kredytu hipotecznego Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju i Finansów z dnia 9 sierpnia 2017 r. w sprawie egzaminu na pośrednika kredytu hipotecznego (Dz. U. poz. 1536), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 13 sierpnia 2019 r. zmieniającym rozporządzenie w sprawie egzaminu na pośrednika kredytu hipotecznego (Dz. U. poz. 1614).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 13 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie egzaminu na pośrednika kredytu hipotecznego (Dz. U. poz. 1614), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 13 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie egzaminu na pośrednika kredytu hipotecznego (Dz. U. poz. 1614), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
-Załącznik – Rozporządzenie Ministra Rozwoju i Finansów z dnia 9 sierpnia 2017 r. w sprawie egzaminu na pośrednika kredytu hipotecznego
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
+Załącznik – Rozporządzenie Ministra Rozwoju i Finansów z dnia 9 sierpnia 2017 r. w sprawie egzaminu na pośrednika kredytu hipotecznegoObecnie działem administracji rządowej – instytucje finansowe kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 Na podstawie art. 53 ust. 10 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. z 2020 r. poz. 1027) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -48,10 +45,10 @@ szczegółowy sposób i tryb oraz terminy przeprowadzania egzaminu oraz sposób 
 § 2.
 1.
 Opłata egzaminacyjna dla osób składających egzamin wynosi 600 zł.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 13 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie egzaminu na pośrednika kredytu hipotecznego (Dz. U. poz. 1614), które weszło w życie z dniem 10 września 2019 r..
 Opłata egzaminacyjna dla osób składających egzamin jest wnoszona na rachunek bieżący Urzędu Komisji Nadzoru Finansowego.
 § 3.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Przewodniczący Komisji Egzaminacyjnej dla Pośredników Kredytu Hipotecznego, zwanej dalej „Komisją”, ogłasza na stronie internetowej Urzędu Komisji Nadzoru Finansowego komunikat w sprawie przeprowadzenia egzaminu, nie później niż dwa miesiące przed wyznaczonym terminem egzaminu.
 2.
 Komunikat zawiera informację o:
@@ -61,9 +58,9 @@ terminie egzaminu;
 terminie złożenia wniosku o przystąpienie do egzaminu wraz z dowodem wniesienia opłaty egzaminacyjnej dla osób składających egzamin;
 3)
 numerze rachunku bankowego, na który należy wnieść opłatę egzaminacyjną dla osób składających egzamin;
-4)
+4Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 godzinie i miejscu przeprowadzenia egzaminu albo informację, że godzina i miejsce przeprowadzenia egzaminu zostaną podane na stronie internetowej Urzędu Komisji Nadzoru Finansowego na co najmniej 14 dni przed wyznaczonym terminem egzaminu.
-3.
+3Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Wniosek, o którym mowa w ust. 2 pkt 2, może być przesłany do Urzędu Komisji Nadzoru Finansowego w postaci papierowej albo elektronicznej.
 § 4.
 Egzamin odbywa się co najmniej dwa razy w roku, jednakże nie częściej niż pięć razy w roku.
@@ -115,6 +112,5 @@ Na wniosek uczestnika egzaminu, złożony nie później niż w terminie 7 dni od
 § 20.
 Urząd Komisji Nadzoru Finansowego powiadamia uczestnika egzaminu, który złożył odwołanie, o którym mowa w art. 53 ust. 7 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami, o sposobie rozstrzygnięcia odwołania przez Komisję przesyłką poleconą w rozumieniu art. 3 pkt 22 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2020 r. poz. 1041) albo na wskazany adres elektroniczny, o ile wystąpił o to uczestnik egzaminu.
 § 21.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Obecnie działem administracji rządowej – instytucje finansowe kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 13 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie egzaminu na pośrednika kredytu hipotecznego (Dz. U. poz. 1614), które weszło w życie z dniem 10 września 2019 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Rozporządzenie zostało ogłoszone w dniu 16 sierpnia 2017 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 16 sierpnia 2017 r.. 1) Obecnie działem administracji rządowej – instytucje finansowe kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 13 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie egzaminu na pośrednika kredytu hipotecznego (Dz. U. poz. 1614), które weszło w życie z dniem 10 września 2019 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Rozporządzenie zostało ogłoszone w dniu 16 sierpnia 2017 r.
 

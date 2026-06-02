@@ -22,21 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-10-21 |
 | Data wydania | 2014-10-31 |
-| Wejście w życie | 2014-11-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001492) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1492/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Statut Magurskiego Parku Narodowego z siedzibą w Krempnej
 Treść rozporządzenia
-Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850, 926, 1002 i 1101.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Magurskiemu Parkowi Narodowemu z siedzibą w Krempnej (Dz. U. poz. 310) załącznik otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850, 926, 1002 i 1101.
 Załącznik – Statut Magurskiego Parku Narodowego z siedzibą w Krempnej
 § 1.
-Magurski Park Narodowy z siedzibą w Krempnej, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.) oraz niniejszego statutu.
+Magurski Park Narodowy z siedzibą w Krempnej, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850, 926, 1002 i 1101.) oraz niniejszego statutu.
 § 2.
 organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowiska pracy:
 1)
@@ -94,7 +93,7 @@ Dyrektor Parku kieruje działalnością Parku przy pomocy zastępcy lub zastępc
 § 5.
 W razie nieobecności dyrektora Parku lub czasowej niezdolności do wykonywania przez niego obowiązków działalnością Parku kieruje i reprezentuje Park na zewnątrz wyznaczony przez dyrektora Parku jego zastępca.
 § 6.
-Dyrektor Parku udziela pełnomocnictwa do dokonywania czynności prawnych na piśmie.
+Dyrektor Parku udziela pełnomocnictwa do dokonywania czynności prawnych na piśmie. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850, 926, 1002 i 1101.
 
 ### Dział Monitoringu, Udostępniania Parku, edukacji i Natury 2000, w którego skład wchodzą:
 

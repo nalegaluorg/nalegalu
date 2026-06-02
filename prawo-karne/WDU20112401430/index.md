@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 września 2011 r. o zmianie ustawy – Kodeks postępowania karnego, ustawy o prokuraturze oraz ustawy o Krajowym Rejestrze Karnym
+# Ustawa z dnia 16 września 2011 r. o zmianie ustawy – Kodeks postępowania karnego, ustawy o prokuraturze oraz ustawy o Krajowym Rejestrze Karnym Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących decyzji ramowych: 1) decyzji ramowej Rady 2008/909/WSiSW z dnia 27 listopada 2008 r. o stosowaniu zasady wzajemnego uznawania do wyroków skazujących na karę pozbawienia wolności lub inny środek polegający na pozbawieniu wolności – w celu wykonania tych wyroków w Unii Europejskiej (Dz. Urz. UE L 327 z 05.12.2008, str. 27); 2) decyzji ramowej Rady 2008/947/WSiSW z dnia 27 listopada 2008 r. o stosowaniu zasady wzajemnego uznawania do wyroków i decyzji w sprawie zawieszenia lub warunkowego zwolnienia w celu nadzorowania przestrzegania warunków zawieszenia i obowiązków wynikających z kar alternatywnych (Dz. Urz. UE L 337 z 16.12.2008, str. 102).
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-09-16 |
 | Data wydania | 2011-11-10 |
-| Wejście w życie | 2012-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112401430) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1430/text.pdf) |
 
+Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie kary pozbawienia wolności
+Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie kary pozbawienia wolności
 § 1.
 W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie w Rzeczypospolitej Polskiej prawomocnie orzeczonej kary pozbawienia wolności, orzeczenie to podlega wykonaniu przez sąd okręgowy.
 § 2.
@@ -147,6 +148,7 @@ O treści postanowienia w przedmiocie wykonania orzeczenia, o którym mowa w art
 § 2.
 W wypadku ucieczki lub ukrycia się skazanego postępowanie wykonawcze umarza się. Jeżeli miejsce pobytu skazanego na terytorium Rzeczypospolitej Polskiej zostanie następnie ustalone, zawiadamia się o tym niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia. Orzeczona w tym państwie kara pozbawienia wolności może być wykonywana, jeżeli jego właściwy sąd lub inny organ ponownie skieruje wystąpienie, o którym mowa w art. 611tg § 1.
 Koszty związane z wykonaniem orzeczenia, o którym mowa w art. 611tg § 1, ponosi Skarb Państwa, z wyjątkiem kosztów przekazania sprawcy na terytorium Rzeczypospolitej Polskiej.
+Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia skazującego na karę pozbawienia wolności z warunkowym zawieszeniem jej wykonania, karę ograniczenia wolności, samoistnie orzeczony środek karny, a także orzeczenia o warunkowym zwolnieniu oraz warunkowym umorzeniu postępowania karnego
 § 1.
 W razie prawomocnego orzeczenia przez sąd polski wobec obywatela polskiego lub cudzoziemca kary pozbawienia wolności z warunkowym zawieszeniem jej wykonania, kary ograniczenia wolności, samoistnie orzeczonego środka karnego, a także w razie warunkowego zwolnienia lub warunkowego umorzenia postępowania karnego, jeżeli orzeczenie nakłada na sprawcę obowiązki określone w art. 34 § 2, art. 39 pkt 2–2d i 5, art. 39 pkt 6 w związku z art. 46 § 2, art. 72 § 1 pkt 1, 3–7a i 8 lub art. 72 § 2 Kodeksu karnego, lub oddaje skazanego pod dozór kuratora lub instytucji publicznej, sąd może wystąpić o wykonanie orzeczenia do właściwego sądu lub innego organu państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wykonania orzeczenia”, w którym sprawca posiada legalne stałe miejsce pobytu, o ile sprawca przebywa w tym państwie lub oświadczy, że zamierza tam powrócić.
 § 2.
@@ -184,6 +186,7 @@ Zawiadomienia, o których mowa w § 1 i 2, mogą być przekazane również przy 
 § 4.
 Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 2, zawierając w nim szczegółowe informacje dotyczące naruszeń obowiązków nałożonych na sprawcę i innych okoliczności mających wpływ na wykonanie orzeczenia, mając na uwadze konieczność udostępnienia państwu wykonania orzeczenia wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji.
 Sąd rozpoznaje sprawę wystąpienia do właściwego sądu lub innego organu państwa wykonania orzeczenia na posiedzeniu, w którym ma prawo wziąć udział prokurator i pokrzywdzony, sprawca, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jego obrońca, jeżeli się na nie stawi. Na postanowienie sądu zażalenie nie przysługuje.
+Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia karnego związanego z poddaniem sprawcy próbie
 § 1.
 W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie prawomocnego orzeczenia skazującego na karę pozbawienia wolności z warunkowym zawieszeniem jej wykonania albo na samoistną karę lub środek niepolegający na pozbawieniu wolności lub na grzywnie, bądź orzekającego o warunkowym zwolnieniu, warunkowym umorzeniu postępowania karnego lub innym warunkowym odroczeniu wykonania kary, orzeczenie to podlega wykonaniu przez sąd rejonowy, w którego okręgu sprawca posiada legalne stałe miejsce pobytu, jeżeli w wyznaczonym okresie próby nakłada ono na sprawcę obowiązek:
 1)
@@ -285,16 +288,13 @@ Jeżeli dalsze wykonywanie orzeczenia nie jest możliwe z przyczyn faktycznych l
 § 3.
 W razie otrzymania od właściwego sądu lub innego organu państwa wydania orzeczenia informacji o tym, iż przeciwko sprawcy wszczęto nowe postępowanie karne i na uzasadniony wniosek tego sądu lub organu, sąd może wyrazić zgodę na cofnięcie wystąpienia, o którym mowa w art. 611ud § 1, mając na uwadze cele kary lub środka, okres ich wykonywania oraz postawę sprawcy. Sąd umożliwia sprawcy, przebywającemu na terytorium Rzeczypospolitej Polskiej, zajęcie stanowiska ustnie lub na piśmie w przedmiocie cofnięcia wystąpienia. Wyrażając zgodę na cofnięcie wystąpienia, sąd umarza postanowienie wykonawcze.
 O treści postanowienia w przedmiocie wykonania orzeczenia, o którym mowa w art. 611ud § 1, oraz o istotnych orzeczeniach zapadłych w trakcie postępowania wykonawczego zawiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia. Zawiadomienie to może być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
-Koszty związane z wykonaniem orzeczenia, o którym mowa w art. 611ud § 1, ponosi Skarb Państwa.
-” ;
+Koszty związane z wykonaniem orzeczenia, o którym mowa w art. 611ud § 1, ponosi Skarb Państwa. ” ;
 4)
-w art. 613 § 1 otrzymuje brzmienie:
-„
+w art. 613 § 1 otrzymuje brzmienie: „
 § 1.
-Z wyjątkiem wypadków określonych w art. 595 oraz w rozdziałach 62a, 62b, 65a, 65b, 66a-66d, 66f-66i z mającymi siedzibę za granicą organami obcego państwa oraz z osobami wymienionymi w art. 578 oraz w art. 579, sądy i prokuratorzy każdorazowo porozumiewają się, w tym przy doręczaniu pism procesowych, za pośrednictwem Ministra Sprawiedliwości, a ten w razie potrzeby przez ministra właściwego do spraw zagranicznych.
-” .
+Z wyjątkiem wypadków określonych w art. 595 oraz w rozdziałach 62a, 62b, 65a, 65b, 66a-66d, 66f-66i z mającymi siedzibę za granicą organami obcego państwa oraz z osobami wymienionymi w art. 578 oraz w art. 579, sądy i prokuratorzy każdorazowo porozumiewają się, w tym przy doręczaniu pism procesowych, za pośrednictwem Ministra Sprawiedliwości, a ten w razie potrzeby przez ministra właściwego do spraw zagranicznych. ” .
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651, z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104, Nr 28, poz. 171, Nr 68, poz. 585, Nr 85, poz. 716, Nr 127, poz. 1051, Nr 144, poz. 1178, Nr 168, poz. 1323, Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 98, poz. 626, Nr 106, poz. 669, Nr 122, poz. 826, Nr 125, poz. 842, Nr 182, poz. 1228 i Nr 197, poz. 1307 oraz z 2011 r. Nr 48, poz. 245 i 246, Nr 53, poz. 273, Nr 112, poz. 654, Nr 117, poz. 678, Nr 142, poz. 829, Nr 191, poz. 1135 i Nr 217, poz. 1280.) wprowadza się następujące zmiany:
 
 - **1)** w art. 561: po § 1 dodaje się § 1a w brzmieniu: „
     - **a)**
@@ -308,7 +308,7 @@ Z wyjątkiem wypadków określonych w art. 595 oraz w rozdziałach 62a, 62b, 65a
 - **2)** w art. 607s § 5 otrzymuje brzmienie: „§ 5. Wykonanie kary odbywa się według przepisów prawa polskiego. Przepisy rozdziału 66g stosuje się odpowiednio, z wyjątkiem art. 611tg, art. 611ti § 2 i 3, art. 611tk, art. 611tm, art. 611to § 2 i art. 611tp.”;
 - **3)** po rozdziale 66e dodaje się rozdziały 66f-66i w brzmieniu: „
 
-#### Rozdział 66f Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie kary pozbawienia wolności
+#### Rozdział 66f
 
 **Art. 611t.**
 
@@ -320,7 +320,7 @@ Z wyjątkiem wypadków określonych w art. 595 oraz w rozdziałach 62a, 62b, 65a
 
 - **1)** państwa wykonania orzeczenia, którego skazany jest obywatelem i w którym posiada stałe lub czasowe miejsce pobytu,
 - **2)** państwa wykonania orzeczenia, którego skazany jest obywatelem i w którym nie posiada stałego lub czasowego miejsca pobytu, lecz na podstawie prawomocnej decyzji będzie do niego wydalony po odbyciu kary lub zwolnieniu z zakładu karnego,
-- **3)** innego państwa wykonania orzeczenia, za zgodą właściwego sądu lub innego organu tego państwa o ile skazany przebywa na terytorium Rzeczypospolitej Polskiej lub w państwie, do którego skierowano wystąpienie.
+- **3)** innego państwa wykonania orzeczenia, za zgodą właściwego sądu lub innego organu tego państwa – o ile skazany przebywa na terytorium Rzeczypospolitej Polskiej lub w państwie, do którego skierowano wystąpienie.
 
 § 4. Wystąpienie, o którym mowa w § 1, każdorazowo sąd kieruje wyłącznie do jednego państwa wykonania orzeczenia. Ponowne wystąpienie do innego państwa wykonania orzeczenia może nastąpić jedynie w razie niewykonania albo częściowego wykonania orzeczenia.
 
@@ -378,15 +378,15 @@ Z wyjątkiem wypadków określonych w art. 595 oraz w rozdziałach 62a, 62b, 65a
 
 § 4. Jeżeli nastąpi nieprzewidziane lądowanie, o którym mowa w art. 607zb § 4, informacje określone w art. 611t § 6 przekazuje się w terminie 72 godzin.
 
-#### Rozdział 66g Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie kary pozbawienia wolności
+#### Rozdział 66g
 
-#### Rozdział 66h Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia skazującego na karę pozbawienia wolności z warunkowym zawieszeniem jej wykonania, karę ograniczenia wolności, samoistnie orzeczony środek karny, a także orzeczenia o warunkowym zwolnieniu oraz warunkowym umorzeniu postępowania karnego
+#### Rozdział 66h
 
-#### Rozdział 66i Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia karnego związanego z poddaniem sprawcy próbie
+#### Rozdział 66i
 
-**Art. 2.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2008 r. Nr 7, poz. 39, z późn. zm.) w art. 18 dodaje się ust. 6 w brzmieniu: „ 6. Minister Sprawiedliwości, po zasięgnięciu opinii Prokuratora Generalnego, określi, w drodze rozporządzenia, sposób realizacji zadań związanych ze współpracą prokuratury z organizacjami międzynarodowymi lub ponadnarodowymi działającymi na podstawie umów międzynarodowych, w tym umów konstytuujących organizacje międzynarodowe ratyfikowanych przez Rzeczpospolitą Polską, mając na uwadze konieczność prawidłowej realizacji obowiązków wynikających z tych umów lub aktów prawa stanowionego przez organizację międzynarodową powołaną do zwalczania przestępczości, w szczególności określenia sposobu wymiany informacji między państwami członkowskimi tych organizacji i organami tych organizacji, realizacji wniosków o pomoc prawną, ochrony przetwarzanych danych osobowych i bezpieczeństwa przetwarzanych danych. ” .
+**Art. 2.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2008 r. Nr 7, poz. 39, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 1, poz. 4, Nr 26, poz. 156 i 157, Nr 56, poz. 459, Nr 178, poz. 1375, Nr 190, poz. 1474, Nr 219, poz. 1706 i Nr 223, poz. 1777, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 53, poz. 273 i Nr 203, poz. 1192.) w art. 18 dodaje się ust. 6 w brzmieniu: „ 6. Minister Sprawiedliwości, po zasięgnięciu opinii Prokuratora Generalnego, określi, w drodze rozporządzenia, sposób realizacji zadań związanych ze współpracą prokuratury z organizacjami międzynarodowymi lub ponadnarodowymi działającymi na podstawie umów międzynarodowych, w tym umów konstytuujących organizacje międzynarodowe ratyfikowanych przez Rzeczpospolitą Polską, mając na uwadze konieczność prawidłowej realizacji obowiązków wynikających z tych umów lub aktów prawa stanowionego przez organizację międzynarodową powołaną do zwalczania przestępczości, w szczególności określenia sposobu wymiany informacji między państwami członkowskimi tych organizacji i organami tych organizacji, realizacji wniosków o pomoc prawną, ochrony przetwarzanych danych osobowych i bezpieczeństwa przetwarzanych danych. ” .
 
-**Art. 3.** W ustawie z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2008 r. Nr 50, poz. 292, z późn. zm.) w art. 12:
+**Art. 3.** W ustawie z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2008 r. Nr 50, poz. 292, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 53, poz. 432 i Nr 168, poz. 1323 oraz z 2010 r. Nr 212, poz. 1385 i Nr 229, poz. 1497.) w art. 12:
 
 - **1)** w ust. 1 po pkt 6b dodaje się pkt 6c w brzmieniu: „
 - **6c)** informację o przejęciu do wykonania kary orzeczonej przez właściwy organ sądowy państwa członkowskiego Unii Europejskiej, w tym oznaczenie organu, który wydał orzeczenie, państwa wydania orzeczenia, sygnaturę akt sprawy oraz datę wydania orzeczenia; ” ;
@@ -416,5 +416,5 @@ Z wyjątkiem wypadków określonych w art. 595 oraz w rozdziałach 62a, 62b, 65a
 
 2. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, jest Minister Sprawiedliwości.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r.
+**Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących decyzji ramowych: 1) decyzji ramowej Rady 2008/909/WSiSW z dnia 27 listopada 2008 r. o stosowaniu zasady wzajemnego uznawania do wyroków skazujących na karę pozbawienia wolności lub inny środek polegający na pozbawieniu wolności – w celu wykonania tych wyroków w Unii Europejskiej (Dz. Urz. UE L 327 z 05.12.2008, str. 27); 2) decyzji ramowej Rady 2008/947/WSiSW z dnia 27 listopada 2008 r. o stosowaniu zasady wzajemnego uznawania do wyroków i decyzji w sprawie zawieszenia lub warunkowego zwolnienia w celu nadzorowania przestrzegania warunków zawieszenia i obowiązków wynikających z kar alternatywnych (Dz. Urz. UE L 337 z 16.12.2008, str. 102). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651, z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104, Nr 28, poz. 171, Nr 68, poz. 585, Nr 85, poz. 716, Nr 127, poz. 1051, Nr 144, poz. 1178, Nr 168, poz. 1323, Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 98, poz. 626, Nr 106, poz. 669, Nr 122, poz. 826, Nr 125, poz. 842, Nr 182, poz. 1228 i Nr 197, poz. 1307 oraz z 2011 r. Nr 48, poz. 245 i 246, Nr 53, poz. 273, Nr 112, poz. 654, Nr 117, poz. 678, Nr 142, poz. 829, Nr 191, poz. 1135 i Nr 217, poz. 1280. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 1, poz. 4, Nr 26, poz. 156 i 157, Nr 56, poz. 459, Nr 178, poz. 1375, Nr 190, poz. 1474, Nr 219, poz. 1706 i Nr 223, poz. 1777, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 53, poz. 273 i Nr 203, poz. 1192. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 53, poz. 432 i Nr 168, poz. 1323 oraz z 2010 r. Nr 212, poz. 1385 i Nr 229, poz. 1497.
 

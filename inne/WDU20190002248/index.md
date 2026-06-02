@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 października 2019 r. o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw
+# Ustawa z dnia 16 października 2019 r. o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa, ustawę z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw oraz ustawę z dnia 19 lipca 2019 r. o zmianie ustawy – Prawo oświatowe oraz ustawy o finansowaniu zadań oświatowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-16 |
 | Data wydania | 2019-11-18 |
-| Wejście w życie | 2019-12-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002248) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2248/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1078, 1287, 1680, 1681, 1818 i 2197.) wprowadza się następujące zmiany:
 
 - **1)** w art. 32 w ust. 6 skreśla się wyrazy „albo zwrot kosztów przejazdu dziecka i opiekuna na zasadach określonych w umowie zawartej między wójtem (burmistrzem, prezydentem miasta) a rodzicami, jeżeli dowożenie zapewniają rodzice”;
 - **2)** w art. 39 w ust. 4 uchyla się pkt 3;
@@ -80,6 +79,6 @@ source: "eli-html"
 **Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 4, który wchodzi w życie z dniem 1 stycznia 2020 r.
+- **2)** art. 4, który wchodzi w życie z dniem 1 stycznia 2020 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa, ustawę z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw oraz ustawę z dnia 19 lipca 2019 r. o zmianie ustawy – Prawo oświatowe oraz ustawy o finansowaniu zadań oświatowych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1078, 1287, 1680, 1681, 1818 i 2197.
 
 

@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego (Dz. U. z 2021 r. poz. 1693), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 marca 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 40 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 40 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860), który stanowi: „
 
 **Art. 40.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
@@ -91,13 +90,13 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Osobie, wobec której stwierdzono nieważność orzeczenia albo wydano decyzję o internowaniu w związku z wprowadzeniem w dniu 13 grudnia 1981 r. w Polsce stanu wojennego, przysługuje od Skarbu Państwa odszkodowanie za poniesioną szkodę i zadośćuczynienie za doznaną krzywdę wynikłe z wydania lub wykonania orzeczenia albo decyzji. W razie śmierci tej osoby uprawnienie to przechodzi na małżonka, dzieci i rodziców.
 
-1a. (utracił moc)
+1a. (utracił moc)Z dniem 10 marca 2011 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 1 marca 2011 r. sygn. akt P 21/09 (Dz. U. poz. 277).
 
 1b. (uchylony)
 
 1c. (uchylony)
 
-1d. (utracił moc)
+1d. (utracił moc)Z dniem 10 marca 2011 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 1 marca 2011 r. sygn. akt P 21/09 (Dz. U. poz. 277).
 
 2. Żądanie odszkodowania lub zadośćuczynienia należy zgłosić odpowiednio w sądzie okręgowym lub wojskowym sądzie okręgowym, który wydał postanowienie o stwierdzeniu nieważności orzeczenia, w terminie 10 lat od daty jego uprawomocnienia się.
 
@@ -107,9 +106,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2c. Żądanie odszkodowania i zadośćuczynienia za szkodę i krzywdę wynikłe z wydania lub wykonania decyzji, o której mowa w ust. 1, należy zgłosić w sądzie okręgowym, w którego okręgu zamieszkuje osoba składająca żądanie.
 
-2d. Odpis żądania, o którym mowa w ust. 2, sąd doręcza prokuratorowi z urzędu.
-
-3. W postępowaniu o odszkodowanie i zadośćuczynienie mają odpowiednie zastosowanie przepisy rozdziału 58 Kodeksu postępowania karnego, z wyjątkiem art. 554 § 2a i 2b oraz art. 555.
+2d. Odpis żądania, o którym mowa w ust. 2, sąd doręcza prokuratorowi z urzędu. 3W brzmieniu ustalonym przez art. 8 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860), która weszła w życie z dniem 28 września 2023 r.. W postępowaniu o odszkodowanie i zadośćuczynienie mają odpowiednie zastosowanie przepisy rozdziału 58 Kodeksu postępowania karnego, z wyjątkiem art. 554 § 2a i 2b oraz art. 555.
 
 4. Przepis ust. 1 nie ma zastosowania, jeżeli w wyniku rewizji nadzwyczajnej, kasacji lub wznowienia postępowania prawomocnie zasądzono odszkodowanie, chyba że za jego zastosowaniem przemawiają względy słuszności.
 
@@ -149,8 +146,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 14.** Przepisy ustawy mają odpowiednie zastosowanie do orzeczeń w sprawach o czyny, o których mowa w art. 1, wydanych przez organy Polskich Sił Zbrojnych w Związku Socjalistycznych Republik Radzieckich niepodlegających rządowi Rzeczypospolitej Polskiej, niezależnie od daty i miejsca ich wydania.
 
-**Art. 15.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-
-- **1)** Z dniem 10 marca 2011 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 1 marca 2011 r. sygn. akt P 21/09 (Dz. U. poz. 277). 2) W brzmieniu ustalonym przez art. 8 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860), która weszła w życie z dniem 28 września 2023 r. 3) Ustawa została ogłoszona w dniu 23 kwietnia 1991 r.
-
+**Art. 15.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 23 kwietnia 1991 r.. 1) Z dniem 10 marca 2011 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 1 marca 2011 r. sygn. akt P 21/09 (Dz. U. poz. 277). 2) W brzmieniu ustalonym przez art. 8 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860), która weszła w życie z dniem 28 września 2023 r. 3) Ustawa została ogłoszona w dniu 23 kwietnia 1991 r.
 

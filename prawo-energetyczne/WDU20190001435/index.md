@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy – Prawo energetyczne
+# Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy – Prawo energetyczne Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693, 2385 i 2432 oraz z 2019 r. poz. 55, 60, 1043 i 1146.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-04 |
 | Data wydania | 2019-08-01 |
-| Wejście w życie | 2019-08-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001435) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1435/text.pdf) |
 
@@ -47,7 +46,7 @@ source: "eli-html"
 
 3g. Decyzja, o której mowa w ust. 3e, wiąże z dniem następującym po dniu wygaśnięcia dotychczasowej umowy powierzającej pełnienie obowiązków operatora systemu przesyłowego gazowego.
 
-3h. Decyzja, o której mowa w ust. 3e, podlega natychmiastowemu wykonaniu. Wniesienie odwołania nie wstrzymuje wykonania decyzji – przepis art. 47952 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm.) nie stosuje się.
+3h. Decyzja, o której mowa w ust. 3e, podlega natychmiastowemu wykonaniu. Wniesienie odwołania nie wstrzymuje wykonania decyzji – przepis art. 47952 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm.Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693, 2385 i 2432 oraz z 2019 r. poz. 55, 60, 1043 i 1146.) nie stosuje się.
 
 3i. Decyzja, o której mowa w ust. 3e, zastępuje kolejną umowę powierzającą pełnienie obowiązków operatora systemu przesyłowego gazowego w zakresie objętym tą decyzją.
 
@@ -87,5 +86,5 @@ source: "eli-html"
 
 3. W okresie, w którym właściciel sieci przesyłowej gazowej zachowuje prawo do realizacji umów o świadczenie usług przesyłania paliw gazowych, zawartych przed dniem 3 września 2009 r., do czasu ich wygaśnięcia, bez możliwości ich przedłużenia, o którym mowa w art. 22 ust. 1 ustawy z dnia 26 lipca 2013 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 984), kolejna umowa powierzająca pełnienie obowiązków operatora systemu przesyłowego gazowego, o której mowa w art. 9h ust. 3b ustawy zmienianej w art. 1, albo decyzja, o której mowa w art. 9h ust. 3e ustawy zmienianej w art. 1, umożliwiają właścicielowi sieci przesyłowej gazowej zachowanie tego prawa.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693, 2385 i 2432 oraz z 2019 r. poz. 55, 60, 1043 i 1146.
 

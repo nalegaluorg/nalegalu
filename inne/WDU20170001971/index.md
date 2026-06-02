@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 12 października 2017 r. o świadczeniu rekompensacyjnym z tytułu utraty prawa do bezpłatnego węgla
+# Ustawa z dnia 12 października 2017 r. o świadczeniu rekompensacyjnym z tytułu utraty prawa do bezpłatnego węgla Niniejszą ustawą zmienia się ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-12 |
 | Data wydania | 2017-10-23 |
-| Wejście w życie | 2017-10-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001971) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1971/text.pdf) |
 
@@ -140,7 +139,7 @@ source: "eli-html"
 
 2. Agencja Rozwoju Przemysłu Spółka Akcyjna z siedzibą w Warszawie, na zlecenie ministra, monitoruje wykorzystanie dotacji, o której mowa w art. 6 ust. 1.
 
-**Art. 12.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.) po art. 52g dodaje się art. 52h w brzmieniu: „
+**Art. 12.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089, 1428, 1448 i 1530.) po art. 52g dodaje się art. 52h w brzmieniu: „
 
 **Art. 52h.** Zwalnia się od podatku dochodowego kwoty świadczenia rekompensacyjnego z tytułu utraty prawa do bezpłatnego węgla, o którym mowa w ustawie z dnia 12 października 2017 r. o świadczeniu rekompensacyjnym z tytułu utraty prawa do bezpłatnego węgla (Dz. U. poz. 1971). ” .
 
@@ -152,5 +151,5 @@ source: "eli-html"
 
 **Art. 14.** Zdniem wejścia w życie ustawy przedsiębiorstwo wypłacające zamieszcza na swojej stronie internetowej wzór wniosku o wypłatę rekompensaty oraz wzór oświadczenia, o którym mowa w art. 5 ust. 3 pkt 2.
 
-**Art. 15.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 15.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089, 1428, 1448 i 1530.
 

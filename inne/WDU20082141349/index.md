@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 października 2008 r. o zmianie ustawy o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 24 października 2008 r. o zmianie ustawy o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniego i ustawę z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-10-24 |
 | Data wydania | 2008-12-03 |
-| Wejście w życie | 2008-12-18 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082141349) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1349/text.pdf) |
 
@@ -57,5 +56,5 @@ source: "eli-html"
 
 2. Obwieszczenie, o którym mowa w ust. 1, jest ogłaszane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawę z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniego i ustawę z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich.
 

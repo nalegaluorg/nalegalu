@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 16 września 2019 r. w sprawie okresów służby i wypoczynku członków załóg statków powietrznych w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną, w załodze jednoosobowej oraz w służbie ratownictwa medycznego
+# Rozporządzenie Ministra Infrastrukturyz dnia 16 września 2019 r. w sprawie okresów służby i wypoczynku członków załóg statków powietrznych w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną, w załodze jednoosobowej oraz w służbie ratownictwa medycznego Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,24 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-16 |
 | Data wydania | 2019-10-01 |
-| Wejście w życie | 2019-10-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001860) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1860/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Warunki i okresy wypoczynku należne w związku z pełnieniem czynności lotniczych Rozdział 3 – Formy i warunki pełnienia gotowości, jej limity oraz sposób wliczania gotowości do okresu służby i okresu pełnienia czynności lotniczych Rozdział 4 – Sposób wliczania czasu przemieszczania członka załogi statku powietrznego w celu zajęcia stanowiska do okresu służby i okresu pełnienia czynności lotniczych w przewozie lotniczym przy użyciu samolotu w załodze jednoosobowej oraz w służbie ratownictwa medycznego Rozdział 5 – Wydłużenie okresu pełnienia czynności lotniczych w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną oraz w służbie ratownictwa medycznego Rozdział 6 – Okres pełnienia czynności lotniczych w przewozie lotniczym przy użyciu samolotu w załodze jednoosobowej Rozdział 7 – Przepis końcowy
+Treść rozporządzenia
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Warunki i okresy wypoczynku należne w związku z pełnieniem czynności lotniczych
+
+#### Rozdział 3 – Formy i warunki pełnienia gotowości, jej limity oraz sposób wliczania gotowości do okresu służby i okresu pełnienia czynności lotniczych
+
+#### Rozdział 4 – Sposób wliczania czasu przemieszczania członka załogi statku powietrznego w celu zajęcia stanowiska do okresu służby i okresu pełnienia czynności lotniczych w przewozie lotniczym przy użyciu samolotu w załodze jednoosobowej oraz w służbie ratownictwa medycznego
+
+#### Rozdział 5 – Wydłużenie okresu pełnienia czynności lotniczych w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną oraz w służbie ratownictwa medycznego
+
+#### Rozdział 6 – Okres pełnienia czynności lotniczych w przewozie lotniczym przy użyciu samolotu w załodze jednoosobowej
+
+#### Rozdział 7 – Przepis końcowy
 
 ## Załącznik nr 1 — – Limity czasu pełnienia gotowości
 
@@ -34,7 +47,8 @@ Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Warunki
 
 Treść rozporządzenia
 Na podstawie art. 103ca ust. 10 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2019 r. poz. 1580 i 1495) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Rozdział 1
+Przepisy ogólne
 § 1.
 Rozporządzenie określa w odniesieniu do członków załóg statków powietrznych w przewozie lotniczym przy użyciu samolotu:
 1)
@@ -72,10 +86,11 @@ port macierzysty – port macierzysty w rozumieniu pkt 1.7 OPS 1.1095 w części
 7)
 przerwa – przerwę w rozumieniu pkt 1.3 OPS 1.1095 w części Q załącznika III do rozporządzenia nr 3922/91;
 8)
-rozporządzenie nr 3922/91 – rozporządzenie Rady (EWG) nr 3922/91 z dnia 16 grudnia 1991 r. w sprawie harmonizacji wymagań technicznych i procedur administracyjnych w dziedzinie lotnictwa cywilnego (Dz. Urz. WE L 373 z 31.12.1991, str. 4, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 1, str. 348) w brzmieniu nadanym rozporządzeniem Komisji (WE) nr 859/2008 z dnia 20 sierpnia 2008 r. zmieniającym rozporządzenie Rady (EWG) nr 3922/91 w odniesieniu do wspólnych wymagań technicznych i procedur administracyjnych mających zastosowanie do komercyjnego transportu lotniczego (Dz. Urz. UE L 254 z 20.09.2008, str. 1, z późn. zm.) ;
+rozporządzenie nr 3922/91 – rozporządzenie Rady (EWG) nr 3922/91 z dnia 16 grudnia 1991 r. w sprawie harmonizacji wymagań technicznych i procedur administracyjnych w dziedzinie lotnictwa cywilnego (Dz. Urz. WE L 373 z 31.12.1991, str. 4, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 291 z 14.11.1996, str. 15, Dz. Urz. UE L 130 z 26.05.1999, str. 16, Dz. Urz. UE L 333 z 29.12.2000, str. 47, Dz. Urz. UE L 240 z 07.09.2002, str. 1, Dz. Urz. UE L 377 z 27.12.2006, str. 1 i 176, Dz. Urz. UE L 10 z 12.01.2008, str. 1, Dz. Urz. UE L 79 z 19.03.2008, str. 1, Dz. Urz. UE L 254 z 20.09.2008, str. 1, Dz. Urz. UE L 114 z 04.05.2011, str. 7 oraz Dz. Urz. UE L 212 z 22.08.2018, str. 1. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 1, str. 348) w brzmieniu nadanym rozporządzeniem Komisji (WE) nr 859/2008 z dnia 20 sierpnia 2008 r. zmieniającym rozporządzenie Rady (EWG) nr 3922/91 w odniesieniu do wspólnych wymagań technicznych i procedur administracyjnych mających zastosowanie do komercyjnego transportu lotniczego (Dz. Urz. UE L 254 z 20.09.2008, str. 1, z późn. zm.) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 114 z 04.05.2011, str. 7.W związku z art. 8 ust. 2 rozporządzenia Komisji (UE) nr 965/2012 z dnia 5 października 2012 r. ustanawiającego wymagania techniczne i procedury administracyjne odnoszące się do operacji lotniczych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 296 z 25.10.2012, str. 1, Dz. Urz. UE L 227 z 24.08.2013, str. 1, Dz. Urz. UE L 23 z 28.01.2014, str. 27, Dz. Urz. UE L 28 z 31.01.2014, str. 17, Dz. Urz. UE L 123 z 24.04.2014, str. 1, Dz. Urz. UE L 24 z 30.01.2015, str. 5, Dz. Urz. UE L 106 z 24.04.2015, str. 18, Dz. Urz. UE L 206 z 01.08.2015, str. 21, Dz. Urz. UE L 330 z 16.12.2015, str. 1, Dz. Urz. UE L 198 z 23.07.2016, str. 13, Dz. Urz. UE L 350 z 22.12.2016, str. 126, Dz. Urz. UE L 55 z 02.03.2017, str. 1, Dz. Urz. UE L 145 z 08.06.2017, str. 26, Dz. Urz. UE L 235 z 13.09.2017, str. 32, Dz. Urz. UE L 71 z 14.03.2018, str. 1 oraz Dz. Urz. UE L 188 z 25.07.2018, str. 3).;
 9)
 służba – służbę w rozumieniu pkt 1.4 OPS 1.1095 w części Q załącznika III do rozporządzenia nr 3922/91.
-Rozdział 2 Warunki i okresy wypoczynku należne w związku z pełnieniem czynności lotniczych
+Rozdział 2
+Warunki i okresy wypoczynku należne w związku z pełnieniem czynności lotniczych
 § 3.
 Członkowi załogi statku powietrznego w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną, w załodze jednoosobowej oraz w służbie ratownictwa medycznego, przystępującemu poza portem macierzystym do służby w celu wykonania lotu w pasie strefowej zmiany czasu, operator zapewnia uprzednio nieprzerwany okres wypoczynku wynoszący co najmniej tyle, ile będzie trwał okres pełnienia czynności lotniczych, jednak nie mniej niż:
 1)
@@ -102,7 +117,8 @@ Jeżeli okres wypoczynku członka załogi statku powietrznego w przewozie lotnic
 Jeżeli okres wypoczynku członka załogi statku powietrznego w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną, w załodze jednoosobowej oraz w służbie ratownictwa medycznego na lotnisku położonym poza portem macierzystym przekracza 6 godzin członek załogi jest uprawniony do wypoczynku w warunkach hotelowych.
 § 7.
 Okres wypoczynku dodatkowego członka załogi statku powietrznego w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną, w załodze jednoosobowej oraz w służbie ratownictwa medycznego, przystępującego do służby w porcie macierzystym po wykonaniu lotu w pasie strefowej zmiany czasu z różnicą czasu powyżej 4 godzin, wynosi co najmniej 48 godzin liczonych od zakończenia okresu wypoczynku minimalnego.
-Rozdział 3 Formy i warunki pełnienia gotowości, jej limity oraz sposób wliczania gotowości do okresu służby i okresu pełnienia czynności lotniczych
+Rozdział 3
+Formy i warunki pełnienia gotowości, jej limity oraz sposób wliczania gotowości do okresu służby i okresu pełnienia czynności lotniczych
 § 8.
 1.
 Gotowość członka załogi statku powietrznego w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną, w załodze jednoosobowej oraz w służbie ratownictwa medycznego jest pełniona w porcie lotniczym, w innym niż port lotniczy miejscu wyznaczonym przez operatora albo jako dyżur telefoniczny.
@@ -125,10 +141,12 @@ Jeżeli członek załogi statku powietrznego w przewozie lotniczym przy użyciu 
 Jeżeli członek załogi statku powietrznego w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną, w załodze jednoosobowej oraz w służbie ratownictwa medycznego pełni gotowość w innym niż port lotniczy miejscu wyznaczonym przez operatora, operator zapewnia członkowi załogi odpowiednie warunki pełnienia gotowości, w szczególności dostęp do oddzielnego, spokojnego i wygodnego pomieszczenia.
 2.
 Jeżeli członek załogi statku powietrznego w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną, w załodze jednoosobowej oraz w służbie ratownictwa medycznego pełni gotowość w innym niż port lotniczy miejscu wyznaczonym przez operatora, w przypadku gdy czas pełnionej gotowości przekracza 6 godzin albo gdy więcej niż 4 godziny pełnienia gotowości przypadają między godziną 2200 a godziną 600 czasu lokalnego, operator zapewnia członkowi załogi pełnienie gotowości w warunkach hotelowych.
-Rozdział 4 Sposób wliczania czasu przemieszczania członka załogi statku powietrznego w celu zajęcia stanowiska do okresu służby i okresu pełnienia czynności lotniczych w przewozie lotniczym przy użyciu samolotu w załodze jednoosobowej oraz w służbie ratownictwa medycznego
+Rozdział 4
+Sposób wliczania czasu przemieszczania członka załogi statku powietrznego w celu zajęcia stanowiska do okresu służby i okresu pełnienia czynności lotniczych w przewozie lotniczym przy użyciu samolotu w załodze jednoosobowej oraz w służbie ratownictwa medycznego
 § 12.
 Czas przemieszczania członka załogi statku powietrznego w przewozie lotniczym przy użyciu samolotu w załodze jednoosobowej oraz w służbie ratownictwa medycznego w celu zajęcia stanowiska wlicza się do czasu służby, a jeżeli poprzedza on bezpośrednio podjęcie obowiązków operacyjnych, wlicza się również do okresu pełnienia czynności lotniczych, lecz nie liczy się jako odcinek.
-Rozdział 5 Wydłużenie okresu pełnienia czynności lotniczych w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną oraz w służbie ratownictwa medycznego
+Rozdział 5
+Wydłużenie okresu pełnienia czynności lotniczych w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną oraz w służbie ratownictwa medycznego
 § 13.
 1.
 Wydłużenie okresu pełnienia czynności lotniczych w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną oraz w służbie ratownictwa medycznego jest możliwe w przypadku zwiększenia składu personelu lotniczego statku powietrznego w załodze wieloosobowej o:
@@ -185,13 +203,14 @@ Wydłużenie okresu pełnienia czynności lotniczych członka załogi statku pow
 udziału w akcji ratowniczej – o 2 godziny;
 2)
 nieprzewidzianych okoliczności podczas operacji lotniczej – o 3 godziny.
-Rozdział 6 Okres pełnienia czynności lotniczych w przewozie lotniczym przy użyciu samolotu w załodze jednoosobowej
+Rozdział 6
+Okres pełnienia czynności lotniczych w przewozie lotniczym przy użyciu samolotu w załodze jednoosobowej
 § 17.
 Okres pełnienia czynności lotniczych członka załogi statku powietrznego w przewozie lotniczym przy użyciu samolotu w załodze jednoosobowej określa się, uwzględniając czas zgłoszenia się do lotu oraz liczbę odcinków, w taki sposób, aby nie przekraczał maksymalnego okresu pełnienia czynności lotniczych określonego w załączniku nr 2 do rozporządzenia.
-Rozdział 7 Przepis końcowy
+Rozdział 7
+Przepis końcowy
 § 18.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 291 z 14.11.1996, str. 15, Dz. Urz. UE L 130 z 26.05.1999, str. 16, Dz. Urz. UE L 333 z 29.12.2000, str. 47, Dz. Urz. UE L 240 z 07.09.2002, str. 1, Dz. Urz. UE L 377 z 27.12.2006, str. 1 i 176, Dz. Urz. UE L 10 z 12.01.2008, str. 1, Dz. Urz. UE L 79 z 19.03.2008, str. 1, Dz. Urz. UE L 254 z 20.09.2008, str. 1, Dz. Urz. UE L 114 z 04.05.2011, str. 7 oraz Dz. Urz. UE L 212 z 22.08.2018, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 114 z 04.05.2011, str. 7. 4) W związku z art. 8 ust. 2 rozporządzenia Komisji (UE) nr 965/2012 z dnia 5 października 2012 r. ustanawiającego wymagania techniczne i procedury administracyjne odnoszące się do operacji lotniczych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 296 z 25.10.2012, str. 1, Dz. Urz. UE L 227 z 24.08.2013, str. 1, Dz. Urz. UE L 23 z 28.01.2014, str. 27, Dz. Urz. UE L 28 z 31.01.2014, str. 17, Dz. Urz. UE L 123 z 24.04.2014, str. 1, Dz. Urz. UE L 24 z 30.01.2015, str. 5, Dz. Urz. UE L 106 z 24.04.2015, str. 18, Dz. Urz. UE L 206 z 01.08.2015, str. 21, Dz. Urz. UE L 330 z 16.12.2015, str. 1, Dz. Urz. UE L 198 z 23.07.2016, str. 13, Dz. Urz. UE L 350 z 22.12.2016, str. 126, Dz. Urz. UE L 55 z 02.03.2017, str. 1, Dz. Urz. UE L 145 z 08.06.2017, str. 26, Dz. Urz. UE L 235 z 13.09.2017, str. 32, Dz. Urz. UE L 71 z 14.03.2018, str. 1 oraz Dz. Urz. UE L 188 z 25.07.2018, str. 3).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 291 z 14.11.1996, str. 15, Dz. Urz. UE L 130 z 26.05.1999, str. 16, Dz. Urz. UE L 333 z 29.12.2000, str. 47, Dz. Urz. UE L 240 z 07.09.2002, str. 1, Dz. Urz. UE L 377 z 27.12.2006, str. 1 i 176, Dz. Urz. UE L 10 z 12.01.2008, str. 1, Dz. Urz. UE L 79 z 19.03.2008, str. 1, Dz. Urz. UE L 254 z 20.09.2008, str. 1, Dz. Urz. UE L 114 z 04.05.2011, str. 7 oraz Dz. Urz. UE L 212 z 22.08.2018, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 114 z 04.05.2011, str. 7. 4) W związku z art. 8 ust. 2 rozporządzenia Komisji (UE) nr 965/2012 z dnia 5 października 2012 r. ustanawiającego wymagania techniczne i procedury administracyjne odnoszące się do operacji lotniczych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 296 z 25.10.2012, str. 1, Dz. Urz. UE L 227 z 24.08.2013, str. 1, Dz. Urz. UE L 23 z 28.01.2014, str. 27, Dz. Urz. UE L 28 z 31.01.2014, str. 17, Dz. Urz. UE L 123 z 24.04.2014, str. 1, Dz. Urz. UE L 24 z 30.01.2015, str. 5, Dz. Urz. UE L 106 z 24.04.2015, str. 18, Dz. Urz. UE L 206 z 01.08.2015, str. 21, Dz. Urz. UE L 330 z 16.12.2015, str. 1, Dz. Urz. UE L 198 z 23.07.2016, str. 13, Dz. Urz. UE L 350 z 22.12.2016, str. 126, Dz. Urz. UE L 55 z 02.03.2017, str. 1, Dz. Urz. UE L 145 z 08.06.2017, str. 26, Dz. Urz. UE L 235 z 13.09.2017, str. 32, Dz. Urz. UE L 71 z 14.03.2018, str. 1 oraz Dz. Urz. UE L 188 z 25.07.2018, str. 3).
 
 ## Załącznik nr 1 — – Limity czasu pełnienia gotowości
 

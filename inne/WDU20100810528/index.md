@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-03-18 |
 | Data wydania | 2010-05-14 |
-| Wejście w życie | 2010-05-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100810528) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/528/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2006 r. Nr 17, poz. 127, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2006 r. Nr 17, poz. 127, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 171, poz. 1225, z 2007 r. Nr 64, poz. 429, z 2008 r. Nr 145, poz. 916 i Nr 214, poz. 1346 oraz z 2010 r. Nr 47, poz. 278.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 ust. 2 otrzymuje brzmienie: „
 
@@ -43,7 +42,7 @@ source: "eli-html"
 **Art. 8b.** Minister właściwy do spraw rolnictwa, w przypadku gdy z przepisów Unii Europejskiej wydanych w trybie art. 14 ust. 2 rozporządzenia nr 852/2004, art. 12 ust. 2 rozporządzenia nr 853/2004, art. 19 ust. 2 rozporządzenia nr 854/2004 lub art. 62 ust. 3 rozporządzenia nr 882/2004 wynika możliwość podjęcia lub wykonania przez państwo członkowskie Unii Europejskiej, właściwy organ, urzędowego lekarza weterynarii lub zatwierdzonego lekarza weterynarii określonych zadań lub czynności w zakresie higieny lub kontroli produktów pochodzenia zwierzęcego, może określić, w drodze rozporządzenia:
 
 - **1)** rodzaje zadań lub czynności wykonywanych przez organy Inspekcji Weterynaryjnej lub urzędowego lekarza weterynarii, lub sposób ich wykonywania, lub
-- **2)** szczegółowe wymagania dotyczące higieny lub kontroli produktów pochodzenia zwierzęcego w zakresie, w jakim dopuszcza się możliwość regulacji przez państwo członkowskie Unii Europejskiej mając na względzie realizację celów określonych w przepisach Unii Europejskiej w zakresie prawa żywnościowego, w tym zapewnienie bezpieczeństwa produktów pochodzenia zwierzęcego oraz skutecznej kontroli tych produktów, a także zapobieganie zagrożeniom dla zdrowia publicznego, wynikającym z produkcji lub wprowadzania na rynek produktów pochodzenia zwierzęcego oraz ograniczanie lub eliminowanie tych zagrożeń. ” ;
+- **2)** szczegółowe wymagania dotyczące higieny lub kontroli produktów pochodzenia zwierzęcego w zakresie, w jakim dopuszcza się możliwość regulacji przez państwo członkowskie Unii Europejskiej – mając na względzie realizację celów określonych w przepisach Unii Europejskiej w zakresie prawa żywnościowego, w tym zapewnienie bezpieczeństwa produktów pochodzenia zwierzęcego oraz skutecznej kontroli tych produktów, a także zapobieganie zagrożeniom dla zdrowia publicznego, wynikającym z produkcji lub wprowadzania na rynek produktów pochodzenia zwierzęcego oraz ograniczanie lub eliminowanie tych zagrożeń. ” ;
 - **4)** w art. 9: ust. 1 i 2 otrzymują brzmienie: „
     - **a)**
 
@@ -87,7 +86,7 @@ source: "eli-html"
 2. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
 - **1)** wykaz chorób zakaźnych zwierząt, ze względu na które wprowadza się zakaz albo ograniczenie wprowadzania na rynek produktów pochodzenia zwierzęcego,
-- **2)** wymagania weterynaryjne dla produktów, o których mowa w ust. 1, w szczególności sposób produkcji i znakowania tych produktów mając na uwadze ochronę zdrowia publicznego, w tym zapobieganie przenoszeniu chorób zakaźnych zwierząt, oraz obowiązujące w tym zakresie przepisy Unii Europejskiej. ” ;
+- **2)** wymagania weterynaryjne dla produktów, o których mowa w ust. 1, w szczególności sposób produkcji i znakowania tych produktów – mając na uwadze ochronę zdrowia publicznego, w tym zapobieganie przenoszeniu chorób zakaźnych zwierząt, oraz obowiązujące w tym zakresie przepisy Unii Europejskiej. ” ;
 - **7)** w art. 11 w ust. 1 pkt 5 otrzymuje brzmienie: „
 - **5)** sposób badania: zwierząt gospodarskich kopytnych, drobiu, zajęczaków i zwierząt dzikich utrzymywanych w warunkach fermowych, mięsa zwierząt, o których mowa w lit. a, oraz mięsa zwierząt łownych, produktów rybołówstwa oraz żywych małży, szkarłupni, osłonie i ślimaków morskich, lub ” ;
     - **a)**
@@ -106,7 +105,7 @@ source: "eli-html"
 2. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
 - **1)** szczegółowe warunki pozwalające na uznanie działalności za działalność marginalną, lokalną i ograniczoną, w tym zakres i obszar produkcji, a także wielkość dostaw produktów pochodzenia zwierzęcego do zakładów prowadzących handel detaliczny z przeznaczeniem dla konsumenta końcowego,
-- **2)** wymagania weterynaryjne, jakie powinny być spełnione przy prowadzeniu działalności marginalnej, lokalnej i ograniczonej mając na względzie ochronę zdrowia publicznego, w tym potrzebę zapewnienia bezpieczeństwa produktów pochodzenia zwierzęcego. ” ;
+- **2)** wymagania weterynaryjne, jakie powinny być spełnione przy prowadzeniu działalności marginalnej, lokalnej i ograniczonej – mając na względzie ochronę zdrowia publicznego, w tym potrzebę zapewnienia bezpieczeństwa produktów pochodzenia zwierzęcego. ” ;
 - **9)** w art. 14 ust. 2 otrzymuje brzmienie: „
 
 2. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wymagania weterynaryjne, jakie powinny być spełnione przy produkcji produktów pochodzenia zwierzęcego o tradycyjnym charakterze, z zachowaniem trybu i po spełnieniu warunków określonych w art. 10 ust. 5–7 rozporządzenia nr 853/2004, oraz mając na względzie ochronę zdrowia publicznego, w tym potrzebę zapewnienia bezpieczeństwa tych produktów, a także realizację celów określonych w przepisach Unii Europejskiej wydanych w zakresie higieny produktów pochodzenia zwierzęcego. ” ;
@@ -159,7 +158,7 @@ source: "eli-html"
 - **2)** szczegółowe warunki i sposób przeprowadzania szkolenia, o którym mowa w ust. 1, w tym minimalne kwalifikacje osób przeprowadzających to szkolenie,
 - **3)** wzór zaświadczenia potwierdzającego ukończenie szkolenia, o którym mowa w ust. 1,
 - **4)** wzór oświadczenia, o którym mowa w rozporządzeniu nr 853/2004 w załączniku III w sekcji IV w rozdziale II w ust. 4 w lit. a,
-- **5)** sposób przekazywania informacji, o których mowa w rozporządzeniu nr 853/2004 w załączniku III w sekcji IV w rozdziale II w ust. 4 w lit. b oraz w rozdziale III w ust. 2 mając na względzie ochronę zdrowia publicznego oraz zapewnienie możliwości sprawowania prawidłowego nadzoru nad produktami pochodzenia zwierzęcego pochodzącymi ze zwierząt łownych, a także przepisy Unii Europejskiej wydane w tym zakresie. ” ;
+- **5)** sposób przekazywania informacji, o których mowa w rozporządzeniu nr 853/2004 w załączniku III w sekcji IV w rozdziale II w ust. 4 w lit. b oraz w rozdziale III w ust. 2 – mając na względzie ochronę zdrowia publicznego oraz zapewnienie możliwości sprawowania prawidłowego nadzoru nad produktami pochodzenia zwierzęcego pochodzącymi ze zwierząt łownych, a także przepisy Unii Europejskiej wydane w tym zakresie. ” ;
 - **13)** w art. 19 ust. 4 otrzymuje brzmienie: „
 
 4. Przepisów ust. 1 i 2 nie stosuje się do statków rybackich, w tym statków przetwórni i statków zamrażalni, gospodarstw, na terenie których dokonuje się uboju zwierząt w celu pozyskania mięsa na użytek własny, oraz podmiotów zamierzających prowadzić działalność w zakresie transportu lub produkcji podstawowej. ” ;
@@ -193,8 +192,17 @@ source: "eli-html"
 - **15)** w art. 21: w ust. 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
     - **a)**
 
-- **4)** wskazanie, czy zakład zamierza korzystać z krajowych środków dostosowujących, o których mowa w art. 10 ust. 3 rozporządzenia nr 853/2004. ” , w ust. 3: – pkt 4 otrzymuje brzmienie: „ 4) zaświadczenie o wpisie do ewidencji gospodarstw rolnych w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności zawierające numer identyfikacyjny – w przypadku pomieszczeń gospodarstwa, z wyłączeniem gospodarstw rybackich, albo ” , – dodaje się pkt 5–7 w brzmieniu: „ 5) oświadczenie podmiotu potwierdzające utrzymywanie pszczół, jeżeli wniosek jest składany przez podmiot niepodlegający obowiązkowi: a) wpisu do Krajowego Rejestru Sądowego, b) wpisu do ewidencji działalności gospodarczej, c) uzyskania zezwolenia, o którym mowa w pkt 3, albo 6) zaświadczenie właściwego organu Polskiego Związku Łowieckiego o nabyciu przez koło łowieckie będące dzierżawcą obwodu łowieckiego członkostwa w Polskim Związku Łowieckim oraz osobowości prawnej, zgodnie z przepisami Prawa łowieckiego, albo 7) zaświadczenie ministra właściwego do spraw środowiska o prowadzeniu ośrodka hodowli zwierzyny przez zarządcę obwodu łowieckiego na podstawie decyzji ministra właściwego do spraw środowiska, wydanej na podstawie przepisów Prawa łowieckiego. ” , ust. 4 otrzymuje brzmienie: „
+- **4)** wskazanie, czy zakład zamierza korzystać z krajowych środków dostosowujących, o których mowa w art. 10 ust. 3 rozporządzenia nr 853/2004. ” , w ust. 3: pkt 4 otrzymuje brzmienie: „
     - **b)**
+
+- **4)** zaświadczenie o wpisie do ewidencji gospodarstw rolnych w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności zawierające numer identyfikacyjny – w przypadku pomieszczeń gospodarstwa, z wyłączeniem gospodarstw rybackich, albo ” , dodaje się pkt 5–7 w brzmieniu: „
+- **5)** oświadczenie podmiotu potwierdzające utrzymywanie pszczół, jeżeli wniosek jest składany przez podmiot niepodlegający obowiązkowi: wpisu do Krajowego Rejestru Sądowego, wpisu do ewidencji działalności gospodarczej, uzyskania zezwolenia, o którym mowa w pkt 3, albo
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **6)** zaświadczenie właściwego organu Polskiego Związku Łowieckiego o nabyciu przez koło łowieckie będące dzierżawcą obwodu łowieckiego członkostwa w Polskim Związku Łowieckim oraz osobowości prawnej, zgodnie z przepisami Prawa łowieckiego, albo
+- **7)** zaświadczenie ministra właściwego do spraw środowiska o prowadzeniu ośrodka hodowli zwierzyny przez zarządcę obwodu łowieckiego na podstawie decyzji ministra właściwego do spraw środowiska, wydanej na podstawie przepisów Prawa łowieckiego. ” , ust. 4 otrzymuje brzmienie: „
     - **c)**
 
 4. Powiatowy lekarz weterynarii, wydając decyzję administracyjną, o której mowa w art. 20 ust. 1 pkt 2 lit. a-c, nadaje zakładowi weterynaryjny numer identyfikacyjny. ” , w ust. 5 pkt 2 otrzymuje brzmienie: „
@@ -235,5 +243,5 @@ source: "eli-html"
 
 3. Wykazy prowadzone na podstawie art. 22 ust. 2 pkt 2 i 3 ustawy wymienionej w art. 1 uważa się odpowiednio za wykazy, o których mowa w art. 22 ust. 2 pkt 1 i 2 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 171, poz. 1225, z 2007 r. Nr 64, poz. 429, z 2008 r. Nr 145, poz. 916 i Nr 214, poz. 1346 oraz z 2010 r. Nr 47, poz. 278.
 

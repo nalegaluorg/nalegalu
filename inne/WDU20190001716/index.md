@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy o portach i przystaniach morskich oraz niektórych innych ustaw
+# Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy o portach i przystaniach morskich oraz niektórych innych ustaw Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/352 z dnia 15 lutego 2017 r. ustanawiającego ramy w zakresie świadczenia usług portowych oraz wspólne zasady dotyczące przejrzystości finansowej portów (Dz. Urz. UE L 57 z 03.03.2017, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-19 |
 | Data wydania | 2019-09-09 |
-| Wejście w życie | 2019-09-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001716) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1716/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 12 września 2002 r. o portowych urządzeniach do odbioru odpadów oraz pozostałości ładunkowych ze statków, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych, ustawę z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, ustawę z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m oraz ustawę z dnia 22 listopada 2018 r. o dokumentach publicznych.
 
 **Art. 1.** W ustawie z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2017 r. poz. 1933) wprowadza się następujące zmiany:
 
@@ -38,7 +39,7 @@ source: "eli-html"
 
 **Art. 2a.**
 
-1. Do organizacji i funkcjonowania polskich portów wymienionych w załączniku II do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1315/2013 z dnia 11 grudnia 2013 r. w sprawie unijnych wytycznych dotyczących rozwoju transeuropejskiej sieci transportowej i uchylającego decyzję nr 661/2010/UE (Dz. Urz. UE L 348 z 20.12.2013, str. 1, z późn. zm.) stosuje się przepisy rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/352 z dnia 15 lutego 2017 r. ustanawiającego ramy w zakresie świadczenia usług portowych oraz wspólne zasady dotyczące przejrzystości finansowej portów (Dz. Urz. UE L 57 z 03.03.2017, str. 1), zwanego dalej „rozporządzeniem nr 2017/352”.
+1. Do organizacji i funkcjonowania polskich portów wymienionych w załączniku II do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1315/2013 z dnia 11 grudnia 2013 r. w sprawie unijnych wytycznych dotyczących rozwoju transeuropejskiej sieci transportowej i uchylającego decyzję nr 661/2010/UE (Dz. Urz. UE L 348 z 20.12.2013, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 136 z 09.05.2014, str. 10, Dz. Urz. UE L 126 z 14.05.2016, str. 3, Dz. Urz. UE L 128 z 19.05.2017, str. 1 oraz Dz. Urz. UE L 43 z 14.02.2019, str. 1. stosuje się przepisy rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/352 z dnia 15 lutego 2017 r. ustanawiającego ramy w zakresie świadczenia usług portowych oraz wspólne zasady dotyczące przejrzystości finansowej portów (Dz. Urz. UE L 57 z 03.03.2017, str. 1), zwanego dalej „rozporządzeniem nr 2017/352”.
 
 2. Podmiot zarządzający portem, o którym mowa w ust. 1, jest uprawniony do organizacji usług portowych, o których mowa w art. 1 ust. 2 lit. a, c, e i g rozporządzenia nr 2017/352.
 
@@ -73,7 +74,7 @@ source: "eli-html"
 1. Zgody ministra właściwego do spraw gospodarki morskiej, udzielonej w drodze decyzji administracyjnej, wymaga:
 
 - **1)** przeniesienie własności, użytkowania wieczystego, udziału we własności albo użytkowaniu wieczystym albo oddanie w użytkowanie wieczyste całości albo części nieruchomości,
-- **2)** oddanie całości albo części nieruchomości w użytkowanie, dzierżawę lub najem albo zawarcie innej umowy uprawniającej do korzystania lub pobierania pożytków z całości nieruchomości albo jej części przez okres powyżej 10 lat, także jeżeli strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość, albo zawarcie takiej umowy na czas nieoznaczony, której termin wypowiedzenia wynosi powyżej 10 lat w przypadku nieruchomości stanowiących własność Skarbu Państwa, jednostki samorządu terytorialnego albo podmiotu zarządzającego portem lub przystanią morską, położonych w granicach portów i przystani morskich. ” , w ust. 4 po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „
+- **2)** oddanie całości albo części nieruchomości w użytkowanie, dzierżawę lub najem albo zawarcie innej umowy uprawniającej do korzystania lub pobierania pożytków z całości nieruchomości albo jej części przez okres powyżej 10 lat, także jeżeli strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość, albo zawarcie takiej umowy na czas nieoznaczony, której termin wypowiedzenia wynosi powyżej 10 lat – w przypadku nieruchomości stanowiących własność Skarbu Państwa, jednostki samorządu terytorialnego albo podmiotu zarządzającego portem lub przystanią morską, położonych w granicach portów i przystani morskich. ” , w ust. 4 po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „
     - **b)**
 
 - **3a)** opinię właściwego dyrektora urzędu morskiego;
@@ -140,7 +141,7 @@ source: "eli-html"
 6. W przypadku nabycia albo objęcia akcji lub praw z akcji:
 
 - **1)** z naruszeniem ust. 1 albo
-- **2)** mimo odmowy udzielenia zgody na uzyskanie statusu podmiotu dominującego, o którym mowa w ust. 1 z akcji tych nie może być wykonywane prawo głosu.
+- **2)** mimo odmowy udzielenia zgody na uzyskanie statusu podmiotu dominującego, o którym mowa w ust. 1 – z akcji tych nie może być wykonywane prawo głosu.
 
 7. Uchwały walnego zgromadzenia albo zgromadzenia wspólników w podmiocie, w stosunku do którego uzyskano status podmiotu dominującego, o którym mowa w ust. 1, z naruszeniem ust. 1 albo mimo odmowy udzielenia zgody na uzyskanie statusu podmiotu dominującego, o którym mowa w ust. 1, które wywołują skutki w odniesieniu do nieruchomości położonych w granicach portów i przystani morskich, są nieważne. Prawo wytoczenia powództwa o stwierdzenie nieważności uchwały walnego zgromadzenia albo zgromadzenia wspólników przysługuje również podmiotowi zarządzającemu.
 
@@ -237,7 +238,7 @@ source: "eli-html"
 2. W przypadku gdy większa część nieruchomości gruntowych, z wyłączeniem gruntów pokrytych wodami, znajdujących się w granicach portu lub przystani morskiej stanowi przedmiot:
 
 - **1)** własności Skarbu Państwa i nie została oddana w użytkowanie wieczyste lub
-- **2)** użytkowania wieczystego Skarbu Państwa zadania i uprawnienia podmiotu zarządzającego wykonuje właściwy dyrektor urzędu morskiego.
+- **2)** użytkowania wieczystego Skarbu Państwa – zadania i uprawnienia podmiotu zarządzającego wykonuje właściwy dyrektor urzędu morskiego.
 
 3. Wpływy z tytułu opłat portowych pobieranych przez gminę w przypadku, o którym mowa w ust. 1, stanowią dochód gminy.
 
@@ -247,7 +248,7 @@ source: "eli-html"
 
 - **1)** w art. 5 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
-2a. W przypadku konieczności zapewnienia dostępu drogowego w standardzie wymaganym dla transeuropejskiej sieci transportowej (TEN-T) do polskich portów wymienionych w załączniku II do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1315/2013 z dnia 11 grudnia 2013 r. w sprawie unijnych wytycznych dotyczących rozwoju transeuropejskiej sieci transportowej i uchylającego decyzję nr 661/2010/UE (Dz. Urz. UE L 348 z 20.12.2013, str. 1, z późn. zm.) minister właściwy do spraw transportu, w porozumieniu z ministrem właściwym do spraw gospodarki morskiej, po zasięgnięciu opinii właściwych sejmików województw, a w miastach na prawach powiatu – opinii rad miast, w drodze rozporządzenia, zalicza drogi do kategorii dróg krajowych, mając na uwadze kryteria zaliczenia określone w ust. 1. ” ;
+2a. W przypadku konieczności zapewnienia dostępu drogowego w standardzie wymaganym dla transeuropejskiej sieci transportowej (TEN-T) do polskich portów wymienionych w załączniku II do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1315/2013 z dnia 11 grudnia 2013 r. w sprawie unijnych wytycznych dotyczących rozwoju transeuropejskiej sieci transportowej i uchylającego decyzję nr 661/2010/UE (Dz. Urz. UE L 348 z 20.12.2013, str. 1, z późn. zm.)Patrz odnośnik nr 3. minister właściwy do spraw transportu, w porozumieniu z ministrem właściwym do spraw gospodarki morskiej, po zasięgnięciu opinii właściwych sejmików województw, a w miastach na prawach powiatu – opinii rad miast, w drodze rozporządzenia, zalicza drogi do kategorii dróg krajowych, mając na uwadze kryteria zaliczenia określone w ust. 1. ” ;
 
 - **2)** w art. 19 ust. 5 otrzymuje brzmienie: „
 
@@ -358,7 +359,7 @@ source: "eli-html"
 
 2. Jeżeli w okresie 15 lat od dnia wydania pozwolenia, o którym mowa w ust. 1, podmiot, o którym mowa w ust. 1, nie uzyska pozwolenia na budowę dla całości albo części przedsięwzięcia objętego tym pozwoleniem, organ, który wydał pozwolenie, stwierdza, w drodze decyzji, wygaśnięcie tego pozwolenia.
 
-3. Jeżeli podmiot, o którym mowa w ust. 1, nie później niż 60 dni przed upływem 15 lat od dnia wydania pozwolenia, o którym mowa w ust. 1, złoży organowi, który wydał pozwolenie, wyjaśnienia na piśmie i dokumenty potwierdzające podjęcie wszystkich czynności wymaganych przez prawo, zmierzających do uzyskania pozwolenia na budowę dla całości albo części przedsięwzięcia, termin, o którym mowa w ust. 2, zostaje przedłużony na czas niezbędny do uzyskania pozwolenia na budowę, jednak nie dłuższy niż 2 lata od dnia, w którym upłynął 15-letni termin od dnia wydania pozwolenia, o którym mowa w ust. 2. Przedłużenie terminu stwierdza, w drodze decyzji, organ, który wydał pozwolenie. ” . W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2018 r. poz. 2204, z późn. zm.) w art. 6 po pkt 1b dodaje się pkt 1c i 1d w brzmieniu: „
+3. Jeżeli podmiot, o którym mowa w ust. 1, nie później niż 60 dni przed upływem 15 lat od dnia wydania pozwolenia, o którym mowa w ust. 1, złoży organowi, który wydał pozwolenie, wyjaśnienia na piśmie i dokumenty potwierdzające podjęcie wszystkich czynności wymaganych przez prawo, zmierzających do uzyskania pozwolenia na budowę dla całości albo części przedsięwzięcia, termin, o którym mowa w ust. 2, zostaje przedłużony na czas niezbędny do uzyskania pozwolenia na budowę, jednak nie dłuższy niż 2 lata od dnia, w którym upłynął 15-letni termin od dnia wydania pozwolenia, o którym mowa w ust. 2. Przedłużenie terminu stwierdza, w drodze decyzji, organ, który wydał pozwolenie. ” . W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2018 r. poz. 2204, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2348 oraz z 2019 r. poz. 270, 492, 801, 1309 i 1589.) w art. 6 po pkt 1b dodaje się pkt 1c i 1d w brzmieniu: „
 
 - **1c)** wydzielanie gruntów pod porty i przystanie morskie oraz ich budowa, modernizacja i utrzymanie;
 - **1d)** wydzielanie gruntów pod infrastrukturę zapewniającą dostęp do portów lub przystani morskich oraz jej budowa, modernizacja i utrzymanie; ” .
@@ -373,7 +374,7 @@ source: "eli-html"
 
 4. Odbiór dodatkowych ilości odpadów ze statków nieobjętych opłatą, o której mowa w ust. 1, następuje za opłatą dodatkową. ” .
 
-**Art. 6.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2018 r. poz. 1945, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2018 r. poz. 1945, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 60, 235, 730, 1009, 1524 i 1696.) wprowadza się następujące zmiany:
 
 - **1)** w art. 11 w pkt 5 w lit. I średnik zastępuje się przecinkiem i dodaje się lit. m w brzmieniu: „ podmiotu zarządzającego w rozumieniu ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2017 r. poz. 1933 oraz z 2019 r. poz. 1716), w zakresie zagospodarowania portu lub przystani morskiej; ” ;
     - **m)**
@@ -485,7 +486,7 @@ source: "eli-html"
 1. Podmiot wykonujący w transporcie morskim lub wodnym śródlądowym usługę przeładunku lub usługę obsługi pasażerów, jeżeli miejsce rozpoczęcia lub zakończenia podróży znajduje się w granicach portu lub przystani morskiej, przekazuje podmiotowi zarządzającemu dane dotyczące:
 
 - **1)** wielkości potencjału przeładunkowego wyrażonej odpowiednio w tonach lub jednostkach standardowych odpowiadających pojemności 20-stopowego kontenera ISO (TEU) oraz wielkości potencjału w zakresie obsługi pasażerów wyrażonej w liczbie pasażerów – według stanu na dzień 31 grudnia 2018 r.,
-- **2)** liczby obsłużonych pasażerów, z podziałem na pasażerów obsłużonych w ruchu krajowym i międzynarodowym, oraz wielkości przeładunków wyrażonej odpowiednio w tonach lub TEU, z uwzględnieniem, oraz bez uwzględnienia, masy własnej jednostek ładunkowych, a także w podziale na ładunki przywożone oraz wywożone – za 2018 r. w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
+- **2)** liczby obsłużonych pasażerów, z podziałem na pasażerów obsłużonych w ruchu krajowym i międzynarodowym, oraz wielkości przeładunków wyrażonej odpowiednio w tonach lub TEU, z uwzględnieniem, oraz bez uwzględnienia, masy własnej jednostek ładunkowych, a także w podziale na ładunki przywożone oraz wywożone – za 2018 r. – w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 2. Centrum Monitorowania Rybołówstwa, o którym mowa w art. 69 ust. 6 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2019 r. poz. 586, 642 i 730), przekazuje podmiotowi zarządzającemu dane dotyczące ilości wyładowanych w danym porcie lub przystani morskiej ryb, wyrażonej w tonach, za 2018 r., w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
@@ -501,7 +502,7 @@ source: "eli-html"
 
 - **1)** sporządzenia studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy,
 - **2)** sporządzenia miejscowego planu zagospodarowania przestrzennego,
-- **3)** wydania decyzji o ustaleniu lokalizacji inwestycji celu publicznego stosuje się przepisy ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszą ustawą.
+- **3)** wydania decyzji o ustaleniu lokalizacji inwestycji celu publicznego – stosuje się przepisy ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszą ustawą.
 
 2. Wójt, burmistrz albo prezydent miasta, po podjęciu przez radę gminy uchwały o przystąpieniu do sporządzania studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, występuje o opinie dotyczące rozwiązań przyjętych w projekcie studium do podmiotu zarządzającego w zakresie zagospodarowania portu lub przystani morskiej.
 
@@ -561,5 +562,5 @@ source: "eli-html"
 
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, oraz odpowiedzialnym za wdrożenie mechanizmu korygującego, o którym mowa w ust. 2, jest minister właściwy do spraw transportu.
 
-**Art. 20.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 12 w zakresie art. 25 ust. 5, który wchodzi w życie z dniem 1 stycznia 2020 r.
+**Art. 20.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 12 w zakresie art. 25 ust. 5, który wchodzi w życie z dniem 1 stycznia 2020 r. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/352 z dnia 15 lutego 2017 r. ustanawiającego ramy w zakresie świadczenia usług portowych oraz wspólne zasady dotyczące przejrzystości finansowej portów (Dz. Urz. UE L 57 z 03.03.2017, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 12 września 2002 r. o portowych urządzeniach do odbioru odpadów oraz pozostałości ładunkowych ze statków, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych, ustawę z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, ustawę z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m oraz ustawę z dnia 22 listopada 2018 r. o dokumentach publicznych. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 136 z 09.05.2014, str. 10, Dz. Urz. UE L 126 z 14.05.2016, str. 3, Dz. Urz. UE L 128 z 19.05.2017, str. 1 oraz Dz. Urz. UE L 43 z 14.02.2019, str. 1. 4) Patrz odnośnik nr 3. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2348 oraz z 2019 r. poz. 270, 492, 801, 1309 i 1589. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 60, 235, 730, 1009, 1524 i 1696.
 

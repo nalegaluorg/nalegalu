@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-08-29 |
 | Data wydania | 2003-10-08 |
-| Wejście w życie | 2003-10-23 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031751693) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1693/text.pdf) |
 
@@ -40,12 +39,12 @@ source: "eli-html"
 
 2. Na terenach jednostek prowadzi się prace mające na celu:
 
-- **1)** likwidację zakładów górniczych w rozumieniu przepisów ustawy z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. Nr 27, poz. 96, z późn. zm.),
+- **1)** likwidację zakładów górniczych w rozumieniu przepisów ustawy z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. Nr 27, poz. 96, z późn. zm.Zmiany ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 88, poz. 554, Nr 111, poz. 726 i Nr 133, poz. 885, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 109, poz. 1157 i Nr 120, poz. 1268, z 2001 r. Nr 110, poz. 1190, Nr 115, poz. 1229 i Nr 154, poz. 1800 oraz z 2002 r. Nr 113, poz. 984, Nr 117, poz. 1007, Nr 153, poz. 1271, Nr 166, poz. 1360 i Nr 240, poz. 2055.),
 - **2)** rekultywację terenów pogórniczych w rozumieniu przepisów o ochronie gruntów rolnych i leśnych.
 
 3. Wydatki na prace, o których mowa w ust. 2, są finansowane ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej w wysokości nieprzekraczającej dotacji określonej na ten cel w rocznym planie finansowym tego Funduszu, stanowiącym załącznik do ustawy budżetowej na dany rok. ” .
 
-**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. Nr 62, poz. 627, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. Nr 62, poz. 627, z późn. zm.Zmiany ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, z 2002 r. Nr 74, poz. 676, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 233, poz. 1957 oraz z 2003 r. Nr 46, poz. 392, Nr 80, poz. 717 i 721 i Nr 162, poz. 1568.) wprowadza się następujące zmiany:
 
 - **1)** w art. 410 w ust. 1 po pkt 5 dodaje się pkt 5a w brzmieniu: „
 - **5a)** wydatki, o których mowa w art. 7 ust. 2 ustawy z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki (Dz. U. Nr 74, poz. 856 oraz z 2003 r. Nr 175, poz. 1693), ” ;
@@ -55,5 +54,5 @@ source: "eli-html"
 
 1b. Dotacja, o której mowa w ust. 1a, wykorzystana niezgodnie ze szczegółowym harmonogramem prac likwidacyjnych i rekultywacyjnych podlega zwrotowi do Narodowego Funduszu. ” .
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 88, poz. 554, Nr 111, poz. 726 i Nr 133, poz. 885, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 109, poz. 1157 i Nr 120, poz. 1268, z 2001 r. Nr 110, poz. 1190, Nr 115, poz. 1229 i Nr 154, poz. 1800 oraz z 2002 r. Nr 113, poz. 984, Nr 117, poz. 1007, Nr 153, poz. 1271, Nr 166, poz. 1360 i Nr 240, poz. 2055. 2) Zmiany ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, z 2002 r. Nr 74, poz. 676, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 233, poz. 1957 oraz z 2003 r. Nr 46, poz. 392, Nr 80, poz. 717 i 721 i Nr 162, poz. 1568.
 

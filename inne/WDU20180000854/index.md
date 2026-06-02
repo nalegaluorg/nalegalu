@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 26 kwietnia 2018 r. w sprawie trybu przeprowadzania poszczególnych rodzajów inspekcji warunków pracy i życia marynarzy na statku
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 26 kwietnia 2018 r. w sprawie trybu przeprowadzania poszczególnych rodzajów inspekcji warunków pracy i życia marynarzy na statku Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-04-26 |
 | Data wydania | 2018-05-09 |
-| Wejście w życie | 2018-05-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000854) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/854/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 94a ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2018 r. poz. 616) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2013/54/UE z dnia 20 listopada 2013 r. dotyczącą pewnych obowiązków państwa bandery w zakresie zgodności z Konwencją o pracy na morzu z 2006 r. oraz jej egzekwowania (Dz. Urz. UE L 329 z 10.12.2013, str. 1). Na podstawie art. 94a ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2018 r. poz. 616) zarządza się, co następuje:
 § 1.
 Inspekcja wstępna, okresowa, pośrednia i odnowieniowa przeprowadzana jest na wniosek armatora, nie później niż 3 miesiące od dnia złożenia wniosku przez armatora.
 § 2.
@@ -89,6 +88,5 @@ Protokół sporządza się w języku polskim i angielskim, w trzech jednobrzmią
 § 7.
 Do inspekcji wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2013/54/UE z dnia 20 listopada 2013 r. dotyczącą pewnych obowiązków państwa bandery w zakresie zgodności z Konwencją o pracy na morzu z 2006 r. oraz jej egzekwowania (Dz. Urz. UE L 329 z 10.12.2013, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 9 grudnia 2015 r. w sprawie zakresu i trybu przeprowadzania poszczególnych rodzajów inspekcji warunków pracy i życia marynarzy na statku (Dz. U. poz. 2103), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 6 ustawy z dnia 12 października 2017 r. o zmianie ustawy o pracy na morzu oraz niektórych innych ustaw (Dz. U. poz. 2181).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 9 grudnia 2015 r. w sprawie zakresu i trybu przeprowadzania poszczególnych rodzajów inspekcji warunków pracy i życia marynarzy na statku (Dz. U. poz. 2103), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 6 ustawy z dnia 12 października 2017 r. o zmianie ustawy o pracy na morzu oraz niektórych innych ustaw (Dz. U. poz. 2181). 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2013/54/UE z dnia 20 listopada 2013 r. dotyczącą pewnych obowiązków państwa bandery w zakresie zgodności z Konwencją o pracy na morzu z 2006 r. oraz jej egzekwowania (Dz. Urz. UE L 329 z 10.12.2013, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 9 grudnia 2015 r. w sprawie zakresu i trybu przeprowadzania poszczególnych rodzajów inspekcji warunków pracy i życia marynarzy na statku (Dz. U. poz. 2103), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 6 ustawy z dnia 12 października 2017 r. o zmianie ustawy o pracy na morzu oraz niektórych innych ustaw (Dz. U. poz. 2181).
 

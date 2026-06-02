@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 września 2017 r. o szczególnych rozwiązaniach zapewniających poprawę jakości i dostępności świadczeń opieki zdrowotnej
+# Ustawa z dnia 15 września 2017 r. o szczególnych rozwiązaniach zapewniających poprawę jakości i dostępności świadczeń opieki zdrowotnej Niniejszą ustawą zmienia się ustawę z dnia 4 listopada 2016 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-15 |
 | Data wydania | 2017-09-25 |
-| Wejście w życie | 2017-09-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001774) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1774/text.pdf) |
 
@@ -33,7 +32,7 @@ source: "eli-html"
 - **1)** gabinet profilaktyki zdrowotnej – gabinet profilaktyki zdrowotnej, o którym mowa w art. 103 ust. 1 pkt 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59 i 949);
 - **2)** instytut badawczy – instytut badawczy, o którym mowa w art. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2017 r. poz. 1158 i 1452);
 - **3)** podmiot leczniczy – podmiot leczniczy, o którym mowa w art. 4 ust. 1 pkt 1–3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2016 r. poz. 1638, 1948 i 2260), dla którego podmiotem tworzącym w rozumieniu tej ustawy jest minister właściwy do spraw zdrowia lub uczelnia medyczna lub w którym minister właściwy do spraw zdrowia albo uczelnia medyczna dysponują bezpośrednio większością głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu;
-- **4)** świadczeniodawca – świadczeniodawcę, o którym mowa w art. 5 pkt 41 lit. a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.);
+- **4)** świadczeniodawca – świadczeniodawcę, o którym mowa w art. 5 pkt 41 lit. a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844, 858, 1089, 1139, 1200, 1292, 1321, 1386 i 1428.);
 - **5)** udostępniający – udostępniającego, o którym mowa w art. 89 ust. 4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej.
 
 **Art. 3.** Poprawa jakości i dostępności świadczeń opieki zdrowotnej nastąpi przez zwiększenie w 2017 r. środków finansowych przeznaczonych na wyposażenie w sprzęt i aparaturę medyczną, z uwzględnieniem:
@@ -92,7 +91,7 @@ source: "eli-html"
 
 - **1)** sprzętu i aparatury, o których mowa w art. 3 pkt 1–3,
 - **2)** wyposażenia gabinetów profilaktyki zdrowotnej,
-- **3)** dentobusów dokonuje się do wysokości przyznanego limitu lub unieważnia się postępowania o udzielenie zamówienia publicznego, w ramach których są dokonywane zakupy tego sprzętu, aparatury i wyposażenia.
+- **3)** dentobusów – dokonuje się do wysokości przyznanego limitu lub unieważnia się postępowania o udzielenie zamówienia publicznego, w ramach których są dokonywane zakupy tego sprzętu, aparatury i wyposażenia.
 
 3. Organem właściwym do monitorowania wykorzystania łącznego limitu wydatków, o którym mowa w ust. 1, jest minister właściwy do spraw zdrowia, a organami odpowiedzialnymi za wdrożenie mechanizmu korygującego, o którym mowa w ust. 2, są odpowiednio – w ramach części budżetowych będących w ich dyspozycji – minister właściwy do spraw zdrowia oraz właściwi wojewodowie.
 
@@ -101,5 +100,5 @@ source: "eli-html"
 - **1)** 2017 r. – 258 mln zł;
 - **2)** 2018 r. – 251 mln zł; ” .
 
-**Art. 10.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 10.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawę z dnia 4 listopada 2016 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844, 858, 1089, 1139, 1200, 1292, 1321, 1386 i 1428.
 

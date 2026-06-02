@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 2 lipca 2019 r. w sprawie wymagań w zakresie bezpieczeństwa wytwarzania blankietów dokumentów publicznych
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 2 lipca 2019 r. w sprawie wymagań w zakresie bezpieczeństwa wytwarzania blankietów dokumentów publicznych Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1058).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-02 |
 | Data wydania | 2019-07-09 |
-| Wejście w życie | 2019-07-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001266) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1266/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Ochrona dokumentacji technicznej, akcesoriów, materiałów i półproduktów Rozdział 3 – Ochrona wytworzonych blankietów dokumentów publicznych Rozdział 4 – Pracownicy zatrudnieni przy wytwarzaniu blankietów dokumentów publicznych Rozdział 5 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 21 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2019 r. poz. 53 i 1091) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 29 marca 2019 r. pod numerem 2019/146/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 21 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2019 r. poz. 53 i 1091) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe wymagania dotyczące bezpieczeństwa wytwarzania blankietów dokumentów publicznych, o których mowa w art. 5 ust. 3 i 4 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych, zwanej dalej „ustawą”, w tym szczegółowe wewnętrzne zasady bezpieczeństwa wytwarzania blankietów dokumentów publicznych.
 § 2.
@@ -53,6 +53,7 @@ Jeżeli w pomieszczeniu, w którym są wytwarzane blankiety dokumentów publiczn
 W celu zapewnienia bezpieczeństwa wytwarzania blankietów dokumentów publicznych umowa zawarta między emitentem dokumentu publicznego a wytwórcą może zawierać wykaz materiałów przeznaczonych do wytwarzania blankietów dokumentów, których dotyczy umowa, zwanych dalej „materiałami zastrzeżonymi”.
 2.
 Materiały zastrzeżone nie mogą być bez zgody emitenta wykorzystane przez wytwórcę do innych celów niż wynikające z umowy zawartej z emitentem.
+Ochrona dokumentacji technicznej, akcesoriów, materiałów i półproduktów
 § 7.
 Wytwórca przygotowuje w dwóch egzemplarzach dokumentację techniczną, w której skład wchodzą co najmniej:
 1)
@@ -166,6 +167,7 @@ Po zakończeniu produkcji blankietów dokumentu publicznego akcesoria i materia�
 Materiały, o których mowa w § 12 ust. 3, po zakończeniu produkcji blankietów dokumentu publicznego są niszczone w sposób określony w § 13 ust. 1 lub za zgodą emitenta dokumentu publicznego, wyrażoną na piśmie, mogą być użyte do produkcji innych dokumentów.
 § 16.
 Co najmniej raz w tygodniu podczas produkcji blankietów dokumentów publicznych oraz po zakończeniu produkcji są sporządzane zestawienie pobranych i zużytych materiałów oraz zbiorczy protokół obejmujący informacje dotyczące komisyjnego zniszczenia odpadów i braków produkcyjnych, o którym mowa w § 13 ust. 1.
+Ochrona wytworzonych blankietów dokumentów publicznych
 § 17.
 1.
 Wytworzone blankiety dokumentów publicznych, o których mowa w art. 5 ust. 3 ustawy, są przechowywane w szafach spełniających wymagania, o których mowa w § 11 ust. 1 lub 2, znajdujących się w pomieszczeniu, o którym mowa w § 10 ust. 1 lub 2.
@@ -187,6 +189,7 @@ W przypadku prowadzenia prób i badań jakościowych wytworzone blankiety dokume
 Wytworzone blankiety dokumentów publicznych są po przeliczeniu tych blankietów lub ich opakowań zbiorczych wydawane na podstawie protokołu zdawczo-odbiorczego upoważnionemu przedstawicielowi emitenta dokumentu publicznego lub upoważnionemu przedstawicielowi podmiotu wskazanego przez emitenta.
 2.
 Protokół, o którym mowa w ust. 1, zawiera datę i godzinę wydania, liczbę wydanych blankietów dokumentów publicznych oraz imię, nazwisko i podpis osoby wydającej i osoby odbierającej blankiety dokumentów publicznych.
+Pracownicy zatrudnieni przy wytwarzaniu blankietów dokumentów publicznych
 § 21.
 1.
 Dostęp do pomieszczeń oraz możliwość pobierania, wydawania, przechowywania lub transportowania akcesoriów, materiałów, półproduktów i wytworzonych blankietów dokumentów publicznych mają jedynie upoważnieni przez wytwórcę pracownicy.
@@ -196,17 +199,27 @@ Wyjścia i wejścia pracowników do pomieszczeń oraz dane pracowników, o któr
 Pracownicy wytwórcy przed dopuszczeniem do pracy powinni odbyć przeszkolenie w zakresie wymagań związanych z bezpieczeństwem produkcji blankietów dokumentów publicznych. Przeszkolenie w tym zakresie powinno być powtarzane co najmniej raz na dwa lata.
 § 23.
 Dokumentacja potwierdzająca udzielenie dostępu do pomieszczeń oraz możliwość pobierania, wydawania, przechowywania lub transportowania akcesoriów, materiałów, półproduktów i wytworzonych blankietów dokumentów publicznych, wraz z danymi upoważnionych pracowników, a także ewidencja wyjść i wejść do pomieszczeń oraz dokumentacja potwierdzająca odbycie szkoleń związanych z bezpieczeństwem produkcji blankietów dokumentów publicznych są przechowywane przez 5 lat od dnia zakończenia produkcji blankietów dokumentu publicznego danego wzoru.
+Przepis końcowy
 § 24.
-Rozporządzenie wchodzi w życie z dniem 12 lipca 2019 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1058). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 29 marca 2019 r. pod numerem 2019/146/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+Rozporządzenie wchodzi w życie z dniem 12 lipca 2019 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1058). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 29 marca 2019 r. pod numerem 2019/146/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Ochrona dokumentacji technicznej, akcesoriów, materiałów i półproduktów
+#### Rozdział 2 – Ochrona dokumentacji technicznej, akcesoriów, materiałów i półproduktów
 
-#### Rozdział 3 Ochrona wytworzonych blankietów dokumentów publicznych
+#### Rozdział 3 – Ochrona wytworzonych blankietów dokumentów publicznych
 
-#### Rozdział 4 Pracownicy zatrudnieni przy wytwarzaniu blankietów dokumentów publicznych
+#### Rozdział 4 – Pracownicy zatrudnieni przy wytwarzaniu blankietów dokumentów publicznych
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

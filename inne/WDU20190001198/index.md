@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 13 czerwca 2019 r. w sprawie sposobu ustalania stopy referencyjnej i szczegółowego sposobu obliczania wynagrodzenia za osiągnięty wynik, pobieranego przez towarzystwa funduszy inwestycyjnych, powszechne towarzystwa emerytalne, pracownicze towarzystwa emerytalne lub zakłady ubezpieczeń, umieszczone w Ewidencji Pracowniczych Planów Kapitałowych
+# Rozporządzenie Ministra Finansówz dnia 13 czerwca 2019 r. w sprawie sposobu ustalania stopy referencyjnej i szczegółowego sposobu obliczania wynagrodzenia za osiągnięty wynik, pobieranego przez towarzystwa funduszy inwestycyjnych, powszechne towarzystwa emerytalne, pracownicze towarzystwa emerytalne lub zakłady ubezpieczeń, umieszczone w Ewidencji Pracowniczych Planów Kapitałowych Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-13 |
 | Data wydania | 2019-06-28 |
-| Wejście w życie | 2019-07-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001198) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1198/text.pdf) |
 
@@ -60,8 +59,7 @@ Rentowność obligacji, o których mowa w § 2 pkt 1, jest wyznaczana na podstaw
 1)
 o najdłuższym terminie do wykupu spośród tych, których termin do wykupu nie przekracza 5 lat,
 2)
-o najkrótszym terminie do wykupu spośród tych, których termin do wykupu przekracza 5 lat
-kwotowanych na rynku, o którym mowa w ust. 1, przy czym rentowność wyznaczona w ten sposób jest zaokrąglana do dwóch miejsc po przecinku w dół.
+o najkrótszym terminie do wykupu spośród tych, których termin do wykupu przekracza 5 lat – kwotowanych na rynku, o którym mowa w ust. 1, przy czym rentowność wyznaczona w ten sposób jest zaokrąglana do dwóch miejsc po przecinku w dół.
 3.
 W przypadku gdy danego dnia wyznaczenie rentowności obligacji, o której mowa w ust. 2, nie jest możliwe, do wyznaczenia rentowności w tym dniu przyjmuje się rentowność obligacji kwotowanej na rynku, o którym mowa w ust. 1, o terminie do wykupu najbardziej zbliżonym do 5 lat.
 4.
@@ -83,8 +81,7 @@ W przypadku likwidacji funduszu instytucja zarządzająca funduszem rozwiązuje 
 3.
 W przypadku połączenia funduszy instytucja zarządzająca funduszem przejmowanym rozwiązuje rezerwę na wynagrodzenie za osiągnięty wynik w ostatnim dniu wyceny funduszu przejmowanego.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 Załącznik – Sposób ustalania wartości rezerwy na wynagrodzenie za osiągnięty wynik
 1.
 Instytucja zarządzająca funduszem ustala wartość rezerwy na wynagrodzenie za osiągnięty wynik na dany dzień wyceny w bieżącym okresie rozliczeniowym według wzoru: \( WZ = \min [ST \times L \times (WANJUP – WR \times (1 + {{SR} \over {365}} \times LD));0,1\% \times WAN], \) gdzie poszczególne symbole oznaczają: WZ – wartość rezerwy na wynagrodzenie za osiągnięty wynik w bieżącym okresie rozliczeniowym ustalona na dany dzień wyceny; ST – wyrażona w procentach stawka wynagrodzenia za osiągnięty wynik, nie wyższa niż 20%; WANJUP – wartość aktywów netto funduszu na jednostkę uczestnictwa lub jednostkę rozrachunkową na ostatni dzień wyceny przed naliczeniem wynagrodzenia za osiągnięty wynik; SR – stopa referencyjna; WR – wartość referencyjna; L – średnia liczba jednostek uczestnictwa lub jednostek rozrachunkowych funduszu w okresie od początku bieżącego okresu rozliczeniowego do dnia poprzedzającego dzień wyceny; LD – liczba dni kalendarzowych od początku bieżącego okresu rozliczeniowego do dnia wyceny; WAN – średnia wartość aktywów netto funduszu od początku bieżącego okresu rozliczeniowego do dnia poprzedzającego dzień wyceny.

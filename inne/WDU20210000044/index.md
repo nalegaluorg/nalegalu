@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 30 grudnia 2020 r. zmieniające rozporządzenie w sprawie rodzajów dokumentów poświadczających uprawnienia do korzystania z ulgowych przejazdów środkami publicznego transportu zbiorowego
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 30 grudnia 2020 r. zmieniające rozporządzenie w sprawie rodzajów dokumentów poświadczających uprawnienia do korzystania z ulgowych przejazdów środkami publicznego transportu zbiorowego Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-30 |
 | Data wydania | 2021-01-08 |
-| Wejście w życie | 2021-01-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000044) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/44/text.pdf) |
 
@@ -33,12 +32,9 @@ W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 12 marca 2
 1)
 w § 1 wyrazy „funkcjonariuszy celnych” zastępuje się wyrazami „funkcjonariuszy Służby Celno-Skarbowej”;
 2)
-w § 2 pkt 1 otrzymuje brzmienie:
-„
+w § 2 pkt 1 otrzymuje brzmienie: „
 1)
-funkcjonariuszy Służby Celno-Skarbowej w czasie wykonywania czynności służbowych kontroli określonej w dziale V ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2020 r. poz. 505, 568, 695, 1087, 1106 i 2320) – legitymacja służbowa oraz zaświadczenie o wykonywaniu tych czynności, zawierające podstawę prawną korzystania z ulgi, wystawione przez Szefa Krajowej Administracji Skarbowej, właściwego dyrektora izby administracji skarbowej lub właściwego naczelnika urzędu celno-skarbowego;
-” .
+funkcjonariuszy Służby Celno-Skarbowej w czasie wykonywania czynności służbowych kontroli określonej w dziale V ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2020 r. poz. 505, 568, 695, 1087, 1106 i 2320) – legitymacja służbowa oraz zaświadczenie o wykonywaniu tych czynności, zawierające podstawę prawną korzystania z ulgi, wystawione przez Szefa Krajowej Administracji Skarbowej, właściwego dyrektora izby administracji skarbowej lub właściwego naczelnika urzędu celno-skarbowego; ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

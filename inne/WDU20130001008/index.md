@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarkiz dnia 8 kwietnia 2013 r. w sprawie szczegółowych wymagań dotyczących prowadzenia ruchu odkrywkowego zakładu górniczego
+# Rozporządzenie Ministra Gospodarkiz dnia 8 kwietnia 2013 r. w sprawie szczegółowych wymagań dotyczących prowadzenia ruchu odkrywkowego zakładu górniczego Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 92/104/EWG z dnia 3 grudnia 1992 r. w sprawie minimalnych wymagań w zakresie poprawy bezpieczeństwa i ochrony zdrowia pracowników odkrywkowego i podziemnego przemysłu wydobywczego (dwunasta dyrektywa szczegółowa w znaczeniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 404 z 31.12.1992, str. 10, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 134).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,45 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-04-08 |
 | Data wydania | 2013-09-02 |
-| Wejście w życie | 2013-09-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001008) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1008/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Bezpieczeństwo i higiena pracy oraz bezpieczeństwo pożarowe Rozdział 3 – Zagrożenia Rozdział 4 – Maszyny, urządzenia i instalacje techniczne oraz obiekty budowlane zakładu górniczego Rozdział 5 – Maszyny, urządzenia i instalacje elektroenergetyczne Rozdział 6 – Urządzenia telekomunikacyjne i układy automatyzacji Rozdział 7 – Transport Rozdział 8 – Odwadnianie Rozdział 9 – Zwałowanie i składowanie Rozdział 10 – Gospodarka złożami kopalin w procesie ich wydobywania, geologia górnicza i miernictwo górnicze Rozdział 11 – Ochrona środowiska Rozdział 12 – Odkrywkowe zakłady górnicze wydobywające kopaliny na podstawie koncesji udzielonej przez starostę lub marszałka województwa Rozdział 13 – Przepis przejściowy i końcowy
+Treść rozporządzenia
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Bezpieczeństwo i higiena pracy oraz bezpieczeństwo pożarowe
+
+#### Rozdział 3 – Zagrożenia
+
+#### Rozdział 4 – Maszyny, urządzenia i instalacje techniczne oraz obiekty budowlane zakładu górniczego
+
+#### Rozdział 5 – Maszyny, urządzenia i instalacje elektroenergetyczne
+
+#### Rozdział 6 – Urządzenia telekomunikacyjne i układy automatyzacji
+
+#### Rozdział 7 – Transport
+
+#### Rozdział 8 – Odwadnianie
+
+#### Rozdział 9 – Zwałowanie i składowanie
+
+#### Rozdział 10 – Gospodarka złożami kopalin w procesie ich wydobywania, geologia górnicza i miernictwo górnicze
+
+#### Rozdział 11 – Ochrona środowiska
+
+#### Rozdział 12 – Odkrywkowe zakłady górnicze wydobywające kopaliny na podstawie koncesji udzielonej przez starostę lub marszałka województwa
+
+#### Rozdział 13 – Przepis przejściowy i końcowy
 
 ## Załącznik nr 1 — – Dokument bezpieczeństwa
 
 ## Załącznik nr 2 — – Instalowanie, eksploatacja i kontrola maszyn, urządzeń i sieci elektroenergetycznych oraz ochrona przeciwporażeniowa w zakładach górniczych wydobywających węgiel brunatny
 
 Treść rozporządzenia
-Na podstawie art. 120 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981 oraz z 2013 r. poz. 21) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 3 lipca 2012 r. pod numerem 2012/0412/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337). Na podstawie art. 120 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981 oraz z 2013 r. poz. 21) zarządza się, co następuje:
+Rozdział 1
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe wymagania dotyczące prowadzenia ruchu odkrywkowego zakładu górniczego, zwanego dalej „zakładem górniczym”, w zakresie:
 1)
@@ -55,7 +81,8 @@ prac w podziemnych wyrobiskach górniczych stosuje się przepisy w sprawie szcze
 robót wiertniczych stosuje się przepisy w sprawie szczegółowych wymagań dotyczących prowadzenia ruchu zakładów górniczych wydobywających kopaliny otworami wiertniczymi.
 § 3.
 Ilekroć w rozporządzeniu jest mowa o dokumentacji techniczno-ruchowej, należy przez to rozumieć także instrukcje wymienione w przepisach określających zasadnicze wymagania dla wyrobów podlegających ocenie zgodności.
-Rozdział 2 Bezpieczeństwo i higiena pracy oraz bezpieczeństwo pożarowe
+Rozdział 2
+Bezpieczeństwo i higiena pracy oraz bezpieczeństwo pożarowe
 § 4.
 Przedsiębiorca sporządza, uzupełnia i aktualizuje dokumentację dotyczącą prowadzenia ruchu zakładu górniczego, oceny ryzyka zawodowego i stosowania rozwiązań zmniejszających to ryzyko oraz przeprowadza bieżące analizy i badania niezbędne dla bezpiecznego prowadzenia tego ruchu.
 § 5.
@@ -401,7 +428,7 @@ Projekt techniczny eksploatacji zawiera w szczególności informacje, o których
 3.
 W przypadku prowadzenia eksploatacji złoża spod lustra wody urządzeniami pływającymi:
 1)
-na wodach płynących uznanych za śródlądowe drogi wodne – w projekcie technicznym eksploatacji uwzględnia się przepisy ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2006 r. Nr 123, poz. 857, z późn. zm.);
+na wodach płynących uznanych za śródlądowe drogi wodne – w projekcie technicznym eksploatacji uwzględnia się przepisy ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2006 r. Nr 123, poz. 857, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 123, poz. 846 i Nr 176, poz. 1238, z 2008 r. Nr 171, poz. 1057, z 2009 r. Nr 98, poz. 818, z 2010 r. Nr 127, poz. 857 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 168, poz. 1003, Nr 171, poz. 1016, Nr 222, poz. 1326 i Nr 227, poz. 1367 oraz z 2013 r. poz. 829.);
 2)
 na morzu – w projekcie technicznym eksploatacji uwzględnia się wymagania określone w przepisach ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z 2012 r. poz. 1068 oraz z 2013 r. poz. 852).
 4.
@@ -497,7 +524,8 @@ należyte ogrzewanie obiektów, pomieszczeń i urządzeń zakładu górniczego;
 usuwanie śniegu i lodu oraz nawisów lodowych i śnieżnych na obiektach, urządzeniach i drogach, likwidację gołoledzi na drogach i przejściach, usuwanie z wyrobiska górniczego wód pochodzących z topniejącego śniegu lub gwałtownej odwilży;
 5)
 dostosowanie maszyn, urządzeń, obiektów budowlanych i poziomów eksploatacyjnych do pracy w warunkach zimowych.
-Rozdział 3 Zagrożenia
+Rozdział 3
+Zagrożenia
 § 48.
 1.
 Oceny zagrożeń występujących w ruchu zakładu górniczego dokonuje kierownik ruchu zakładu górniczego, który w szczególności:
@@ -551,7 +579,7 @@ rodzaj, zakres i sposób wykorzystania metod stosowanych do oceny możliwości z
 Każdy zaistniały w zakładzie górniczym wstrząs sejsmiczny o energii równej albo większej niż 1 × 105 J lokalizuje się i nanosi na mapy przeglądowe wyrobisk górniczych.
 § 51.
 1.
-Studnie odwadniające i otwory wiertnicze, w których stwierdzono występowanie gazów szkodliwych i wybuchowych przekraczających wartości dopuszczalne określone w przepisach ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380, z 2010 r. Nr 57, poz. 353 oraz z 2012 r. poz. 908) oraz w przepisach wydanych na podstawie art. 227 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.), uznaje się za miejsce zagrożenia gazowego.
+Studnie odwadniające i otwory wiertnicze, w których stwierdzono występowanie gazów szkodliwych i wybuchowych przekraczających wartości dopuszczalne określone w przepisach ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380, z 2010 r. Nr 57, poz. 353 oraz z 2012 r. poz. 908) oraz w przepisach wydanych na podstawie art. 227 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700, z 2011 r. Nr 36, poz. 181, Nr 63, poz. 322, Nr 80, poz. 432, Nr 144, poz. 855, Nr 149, poz. 887 i Nr 232, poz. 1378, z 2012 r. poz. 908 i 1110 oraz z 2013 r. poz. 2, 675 i 896.), uznaje się za miejsce zagrożenia gazowego.
 2.
 Strefy zagrożenia gazowego zabezpiecza się przed wstępem osób nieupoważnionych w sposób ustalony przez kierownika ruchu zakładu górniczego.
 3.
@@ -565,7 +593,8 @@ W zakładzie górniczym, w którym występują pyły palne, sposób zapobiegania
 Miejsca zagrożone zapłonem pyłów oznakowuje się tablicami ostrzegawczymi o zakazie używania ognia.
 § 53.
 Instalacje, urządzenia lub obiekty, które w przypadku uszkodzenia lub awarii mogłyby stać się źródłem zagrożenia dla otoczenia, lokalizuje się w sposób umożliwiający likwidację zagrożenia.
-Rozdział 4 Maszyny, urządzenia i instalacje techniczne oraz obiekty budowlane zakładu górniczego
+Rozdział 4
+Maszyny, urządzenia i instalacje techniczne oraz obiekty budowlane zakładu górniczego
 § 54.
 1.
 Maszyny i urządzenia eksploatuje się, konserwuje i naprawia w sposób określony w dokumentacji techniczno-ruchowej.
@@ -701,7 +730,8 @@ Materiały eksploatacyjne i części zamienne magazynuje się na maszynach i urz
 Na maszynach urabiających, ładujących i zwałujących dopuszczalne jest instalowanie dodatkowych grzejników elektrycznych tylko za zgodą kierownika ruchu zakładu górniczego lub wyznaczonej przez niego osoby dozoru odpowiedniego działu ruchu zakładu górniczego i służby przeciwpożarowej tego zakładu.
 § 72.
 Przejścia, pomosty, schody i drabiny na maszynach i urządzeniach utrzymuje się w stanie zapewniającym bezpieczne ich używanie.
-Rozdział 5 Maszyny, urządzenia i instalacje elektroenergetyczne
+Rozdział 5
+Maszyny, urządzenia i instalacje elektroenergetyczne
 § 73.
 1.
 Zakład górniczy, w którym przerwa w dopływie energii elektrycznej może spowodować zagrożenie dla ludzi, środowiska i mienia, wyposaża się w dwa niezależne zasilania.
@@ -778,7 +808,8 @@ Szczegółowe wymagania dotyczące linii napowietrznych znajdujących się na te
 Sieci trakcji przewodowej zakładu górniczego buduje się w sposób zapewniający bezpieczeństwo osób oraz zakładu górniczego.
 § 89.
 Szczegółowe wymagania w zakresie instalowania, eksploatacji i kontroli maszyn, urządzeń i sieci elektroenergetycznych, a także ochrony przeciwporażeniowej w zakładach wydobywających węgiel brunatny określa załącznik nr 2 do rozporządzenia.
-Rozdział 6 Urządzenia telekomunikacyjne i układy automatyzacji
+Rozdział 6
+Urządzenia telekomunikacyjne i układy automatyzacji
 § 90.
 1.
 Zakład górniczy wyposaża się w urządzenia i sieci telekomunikacyjne zapewniające bezpieczne wykonywanie pracy i umożliwiające, w razie potrzeby, podjęcie natychmiastowych działań w zakresie udzielania pomocy, ewakuacji i prowadzenia akcji ratowniczej.
@@ -800,7 +831,8 @@ Układy automatyzacji przeznaczone do centralnego sterowania maszyn i urządzeń
 W każdym układzie automatyzacji obok sterowania automatycznego lub zdalnego zapewnia się sterowanie lokalne.
 § 96.
 W zakładzie górniczym sporządza się, przechowuje i aktualizuje na bieżąco mapy sieci telekomunikacyjnej na podkładzie mapy sytuacyjno-wysokościowej powierzchni w skali 1:2000 lub 1:5000.
-Rozdział 7 Transport
+Rozdział 7
+Transport
 § 97.
 1.
 Przenośniki taśmowe wyposaża się w urządzenia:
@@ -957,7 +989,8 @@ Na każdej zmianie roboczej przed rozpoczęciem pracy kontroluje się stan zanur
 Urobek na przenośnik pływający podaje się przy użyciu kosza zasypowego.
 § 129.
 Jednostki pływające napełnia się urobkiem w ilości nieprzekraczającej dopuszczalnej ładowności. Podczas załadunku lub rozładunku jednostki pływające przycumowuje się lub kotwiczy.
-Rozdział 8 Odwadnianie
+Rozdział 8
+Odwadnianie
 § 130.
 1.
 Sposób odwadniania wyrobisk odkrywkowych określa dokumentacja techniczna, sporządzona na podstawie warunków hydrologicznych i hydrogeologicznych. Dokumentację tę zatwierdza kierownik ruchu zakładu górniczego. W przypadku braku dokumentacji technicznej sposób odwadniania określa kierownik ruchu zakładu górniczego.
@@ -1061,7 +1094,8 @@ zapewnia się możliwość dokonywania kontrolnych pomiarów ilości pompowanej 
 Dla zapewnienia ciągłości pracy studni pompowych zakład górniczy posiada niezbędną rezerwę pomp oraz urządzeń do ich wymiany w liczbie ustalonej przez kierownika ruchu zakładu górniczego.
 4.
 Warunki wykonywania i eksploatacji studni pompowych w wyrobisku górniczym i w rejonach zagrożonych występowaniem zapadlisk lub osuwisk ustala kierownik ruchu zakładu górniczego.
-Rozdział 9 Zwałowanie i składowanie
+Rozdział 9
+Zwałowanie i składowanie
 § 141.
 1.
 Zwałowisko lub składowisko lokalizuje się w części wyrobiska górniczego, z której całkowicie wyeksploatowano kopalinę, lub poza granicą zasobów bilansowych, w miejscu niepowodującym pogorszenia warunków późniejszej eksploatacji zasobów złóż.
@@ -1111,7 +1145,7 @@ Budowę zwałowisk prowadzi się tak, aby masy nadkładowe najbardziej przydatne
 2.
 Odpady wydobywcze nieumieszczane na zwałowiskach podlegają unieszkodliwianiu w obiektach unieszkodliwiania odpadów wydobywczych.
 3.
-Zasady budowy obiektów unieszkodliwiania odpadów wydobywczych określają przepisy ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. Nr 138, poz. 865, z późn. zm.).
+Zasady budowy obiektów unieszkodliwiania odpadów wydobywczych określają przepisy ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. Nr 138, poz. 865, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 145, z 2011 r. Nr 163, poz. 981, z 2012 r. poz. 1513 oraz z 2013 r. poz. 21.).
 § 145.
 1.
 Wierzchowinę zwałowiska i zboczy stałych kształtuje się wraz z postępem robót górniczych, w sposób umożliwiający ich rekultywację.
@@ -1123,7 +1157,8 @@ Zwałowanie kopalin palnych wykonuje się w sposób uniemożliwiający ich samoz
 W przypadku możliwości odzysku zwałowanych mas nadkładowych lub ich części stosuje się zwałowanie selektywne, o ile jest to ekonomicznie uzasadnione.
 § 148.
 Podczas wyładunku zwałowanego materiału ze środków transportowych niedopuszczalne jest przebywanie pracowników od strony rozładowywanych środków transportowych.
-Rozdział 10 Gospodarka złożami kopalin w procesie ich wydobywania, geologia górnicza i miernictwo górnicze
+Rozdział 10
+Gospodarka złożami kopalin w procesie ich wydobywania, geologia górnicza i miernictwo górnicze
 § 149.
 1.
 Roboty górnicze projektuje się i wykonuje w sposób zapewniający możliwie największe wykorzystanie złoża, przy uwzględnieniu uwarunkowań wynikających z zachowania bezpieczeństwa powszechnego, bezpieczeństwa i higieny pracy, ochrony środowiska, ochrony obiektów budowlanych oraz zapobiegania szkodom.
@@ -1234,15 +1269,16 @@ kontroluje się sposób zagospodarowania terenów oraz opracowuje się wnioski d
 Przed rozpoczęciem robót górniczych w sąsiedztwie granic obszaru górniczego służba miernicza wyznacza w terenie przebieg tych granic. Punkty załamania granic obszaru górniczego w tym rejonie stabilizuje się w sposób trwały w gruncie.
 2.
 W przypadkach uzasadnionych warunkami terenowymi i techniczno-ruchowymi lub warunkami bezpieczeństwa służba miernicza zakładu górniczego wyznacza granice obszaru górniczego, o których mowa w ust. 1 i § 155 pkt 4, w inny sposób określony przez kierownika ruchu zakładu górniczego.
-Rozdział 11 Ochrona środowiska
+Rozdział 11
+Ochrona środowiska
 § 157.
 Kierownik ruchu zakładu górniczego podejmuje działania mające na celu zmniejszenie negatywnego wpływu ruchu zakładu górniczego na środowisko.
 § 158.
-Zasady postępowania z wodami z odwodnienia zakładu górniczego określają przepisy ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm.).
+Zasady postępowania z wodami z odwodnienia zakładu górniczego określają przepisy ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513 oraz z 2013 r. poz. 21 i 165.).
 § 159.
 Sposób postępowania z odpadami wydobywczymi określają przepisy ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych, z wyjątkiem zwałowania odpadów wydobywczych w obrębie wyrobisk górniczych, o którym mowa w rozdziale 9.
 § 160.
-W zakładzie górniczym wykonywanie pomiarów emisji zanieczyszczeń do powietrza atmosferycznego i emisji hałasu do środowiska odbywa się w sposób określony w przepisach ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.).
+W zakładzie górniczym wykonywanie pomiarów emisji zanieczyszczeń do powietrza atmosferycznego i emisji hałasu do środowiska odbywa się w sposób określony w przepisach ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657, z 2011 r. Nr 32, poz. 159, Nr 63, poz. 322, Nr 94, poz. 551, Nr 99, poz. 569, Nr 122, poz. 695, Nr 152, poz. 897, Nr 178, poz. 1060 i Nr 224, poz. 1341, z 2012 r. poz. 460, 951, 1342 i 1513 oraz z 2013 r. poz. 21, 139, 165 i 888.).
 § 161.
 Urządzenia odpylające i neutralizujące oraz zabezpieczenia służące do ochrony powietrza atmosferycznego eksploatuje się w sposób określony w instrukcji zatwierdzonej przez kierownika ruchu zakładu górniczego.
 § 162.
@@ -1276,16 +1312,18 @@ harmonogram realizacji robót rekultywacyjnych.
 Przepisów ust. 3–5 nie stosuje się do rekultywacji gruntów w odkrywkowych zakładach górniczych wydobywających kopaliny na podstawie koncesji udzielonej przez starostę, z wyjątkiem rekultywacji wykonywanej z wykorzystaniem odpadów pochodzących spoza zakładu górniczego.
 § 163.
 Wypełnianie wyrobisk górniczych i innych terenów w granicach zakładu górniczego prowadzi się wyłącznie z wykorzystaniem rodzajów odpadów określonych w przepisach wydanych na podstawie ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21 i 888).
-Rozdział 12 Odkrywkowe zakłady górnicze wydobywające kopaliny na podstawie koncesji udzielonej przez starostę lub marszałka województwa
+Rozdział 12
+Odkrywkowe zakłady górnicze wydobywające kopaliny na podstawie koncesji udzielonej przez starostę lub marszałka województwa
 § 164.
 Przepisów § 7 ust. 1 pkt 1 i ust. 2, § 8, § 9 ust. 3, § 16, § 24, § 31, § 35 ust. 3 pkt 2 i ust. 4, § 40 ust. 1 i 4, § 41, § 43 ust. 2, § 45 ust. 4, § 46, § 48 ust. 1 pkt 2 lit. b, § 49 ust. 1 pkt 1, § 50, § 131 ust. 1 i 2, § 134–140, § 143 ust. 1–3, § 152, § 154 pkt 1 lit. d, pkt 4, 8 i 9, § 155 pkt 3 i 5 rozporządzenia oraz ust. 2 pkt 1 załącznika nr 1 do rozporządzenia nie stosuje się do odkrywkowych zakładów górniczych wydobywających kopaliny na podstawie koncesji udzielonej przez starostę.
 § 165.
 Przepisów § 8, § 24, § 35 ust. 3 pkt 2, § 41, § 43 ust. 2, § 48 ust. 1 pkt 2 lit. b, § 143 ust. 2 pkt 5, § 154 pkt 4 lit. a i d, § 155 pkt 5 nie stosuje się do odkrywkowych zakładów górniczych wydobywających kopaliny na podstawie koncesji udzielonej przez marszałka województwa.
-Rozdział 13 Przepis przejściowy i końcowy
+Rozdział 13
+Przepis przejściowy i końcowy
 § 166.
 Dokumenty związane z prowadzeniem ruchu zakładu górniczego, sporządzone przed dniem wejścia w życie rozporządzenia zachowują moc do czasu wydania nowych, nie dłużej niż 6 miesięcy od dnia wejścia w życie rozporządzenia.
 § 167.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Zakres spraw uregulowany niniejszym rozporządzeniem był poprzednio uregulowany w rozporządzeniu Ministra Gospodarki z dnia 17 czerwca 2002 r. w sprawie bezpieczeństwa i higieny pracy, prowadzenia ruchu oraz specjalistycznego zabezpieczenia przeciwpożarowego w odkrywkowych zakładach górniczych wydobywających kopaliny podstawowe (Dz. U. Nr 96, poz. 858, z 2004 r. Nr 222, poz. 2255 oraz z 2007 r. Nr 106, poz. 725) oraz w rozporządzeniu Ministra Gospodarki z dnia 28 czerwca 2002 r. w sprawie bezpieczeństwa i higieny pracy, prowadzenia ruchu oraz specjalistycznego zabezpieczenia przeciwpożarowego w odkrywkowych zakładach górniczych wydobywających kopaliny pospolite (Dz. U. Nr 109, poz. 962 oraz z 2004 r. Nr 24, poz. 212), które w tym zakresie tracą moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 224 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981 oraz z 2013 r. poz. 21). 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 92/104/EWG z dnia 3 grudnia 1992 r. w sprawie minimalnych wymagań w zakresie poprawy bezpieczeństwa i ochrony zdrowia pracowników odkrywkowego i podziemnego przemysłu wydobywczego (dwunasta dyrektywa szczegółowa w znaczeniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 404 z 31.12.1992, str. 10, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 134). 3) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 3 lipca 2012 r. pod numerem 2012/0412/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337). 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 123, poz. 846 i Nr 176, poz. 1238, z 2008 r. Nr 171, poz. 1057, z 2009 r. Nr 98, poz. 818, z 2010 r. Nr 127, poz. 857 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 168, poz. 1003, Nr 171, poz. 1016, Nr 222, poz. 1326 i Nr 227, poz. 1367 oraz z 2013 r. poz. 829. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700, z 2011 r. Nr 36, poz. 181, Nr 63, poz. 322, Nr 80, poz. 432, Nr 144, poz. 855, Nr 149, poz. 887 i Nr 232, poz. 1378, z 2012 r. poz. 908 i 1110 oraz z 2013 r. poz. 2, 675 i 896. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 145, z 2011 r. Nr 163, poz. 981, z 2012 r. poz. 1513 oraz z 2013 r. poz. 21. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513 oraz z 2013 r. poz. 21 i 165. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657, z 2011 r. Nr 32, poz. 159, Nr 63, poz. 322, Nr 94, poz. 551, Nr 99, poz. 569, Nr 122, poz. 695, Nr 152, poz. 897, Nr 178, poz. 1060 i Nr 224, poz. 1341, z 2012 r. poz. 460, 951, 1342 i 1513 oraz z 2013 r. poz. 21, 139, 165 i 888. 9) Zakres spraw uregulowany niniejszym rozporządzeniem był poprzednio uregulowany w rozporządzeniu Ministra Gospodarki z dnia 17 czerwca 2002 r. w sprawie bezpieczeństwa i higieny pracy, prowadzenia ruchu oraz specjalistycznego zabezpieczenia przeciwpożarowego w odkrywkowych zakładach górniczych wydobywających kopaliny podstawowe (Dz. U. Nr 96, poz. 858, z 2004 r. Nr 222, poz. 2255 oraz z 2007 r. Nr 106, poz. 725) oraz w rozporządzeniu Ministra Gospodarki z dnia 28 czerwca 2002 r. w sprawie bezpieczeństwa i higieny pracy, prowadzenia ruchu oraz specjalistycznego zabezpieczenia przeciwpożarowego w odkrywkowych zakładach górniczych wydobywających kopaliny pospolite (Dz. U. Nr 109, poz. 962 oraz z 2004 r. Nr 24, poz. 212), które w tym zakresie tracą moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 224 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981 oraz z 2013 r. poz. 21).
 
 ## Załącznik nr 1 — – Dokument bezpieczeństwa
 
@@ -1356,7 +1394,8 @@ Do sporządzania dokumentu bezpieczeństwa wykorzystywane są dokumenty i opraco
 
 ## Załącznik nr 2 — – Instalowanie, eksploatacja i kontrola maszyn, urządzeń i sieci elektroenergetycznych oraz ochrona przeciwporażeniowa w zakładach górniczych wydobywających węgiel brunatny
 
-Część I Instalowanie, eksploatacja i kontrola maszyn, urządzeń i sieci elektroenergetycznych
+Część I
+Instalowanie, eksploatacja i kontrola maszyn, urządzeń i sieci elektroenergetycznych
 1.
 Określenia
 1.1.
@@ -1441,7 +1480,8 @@ przed oddaniem do ruchu nowego urządzenia lub sieci;
 nie rzadziej niż co 5 lat oraz po zmianie warunków powodujących wzrost prądów uziomowych.
 3.6.
 Sprawdzenia wartości nastawionych zabezpieczeń dokonuje się nie rzadziej niż co 5 lat, a sprawdzenia funkcjonalności zabezpieczeń niewyposażonych w układ samokontroli – nie rzadziej niż co 12 miesięcy.
-Część II Ochrona przeciwporażeniowa w urządzeniach elektroenergetycznych o napięciu znamionowym do 1 kV
+Część II
+Ochrona przeciwporażeniowa w urządzeniach elektroenergetycznych o napięciu znamionowym do 1 kV
 1.
 Konstrukcję stalową stacji napędowych przenośników łączy się z uziemioną konstrukcją przewoźnych bądź przesuwnych, umieszczonych poza przenośnikiem, stacji zasilających te przenośniki. Połączenia wykonuje się co najmniej w dwóch miejscach za pomocą płaskowników lub linek stalowych o przekroju nie mniejszym niż 100 mm2. Zamiast jednego z tych dwóch połączeń dopuszcza się wykorzystanie żył ochronnych w przewodzie lub kablu zasilającym, o ile łączny przekrój żył ochronnych jest nie mniejszy niż 25 mm2.
 2.

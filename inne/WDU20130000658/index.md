@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 20 maja 2013 r. w sprawie warunków i trybu ustanawiania sieci portów lotniczych i wspólnego systemu opłat lotniskowych
+# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 20 maja 2013 r. w sprawie warunków i trybu ustanawiania sieci portów lotniczych i wspólnego systemu opłat lotniskowych Niniejsze rozporządzenie w ramach swojej regulacji wdraża postanowienia dyrektywy Parlamentu Europejskiego i Rady nr 2009/12/WE z dnia 11 marca 2009 r. w sprawie opłat lotniskowych (Dz. Urz. UE L 70 z 14.03.2009, str. 11).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-05-20 |
 | Data wydania | 2013-06-07 |
-| Wejście w życie | 2013-06-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000658) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/658/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 77a ust. 6 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 77a ust. 6 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1544 oraz z 2013 r. poz. 134 i 628.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa warunki i tryb ustanawiania sieci portów lotniczych i wspólnego systemu opłat lotniskowych.
 § 2.
@@ -124,5 +123,5 @@ Prezes Urzędu Lotnictwa Cywilnego, w terminie 14 dni od dnia otrzymania kopii w
 3.
 Minister właściwy do spraw transportu, w terminie 30 dni od dnia otrzymania opinii, o której mowa w art. 77a ust. 1 ustawy, wydaje decyzję administracyjną, o której mowa w art. 77a ust. 1 ustawy.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie w ramach swojej regulacji wdraża postanowienia dyrektywy Parlamentu Europejskiego i Rady nr 2009/12/WE z dnia 11 marca 2009 r. w sprawie opłat lotniskowych (Dz. Urz. UE L 70 z 14.03.2009, str. 11). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1544 oraz z 2013 r. poz. 134 i 628.
 

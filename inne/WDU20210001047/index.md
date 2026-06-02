@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 kwietnia 2021 r. o zmianie ustawy o systemie handlu uprawnieniami do emisji gazów cieplarnianych oraz niektórych innych ustaw
+# Ustawa z dnia 15 kwietnia 2021 r. o zmianie ustawy o systemie handlu uprawnieniami do emisji gazów cieplarnianych oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/410 z dnia 14 marca 2018 r. zmieniającą dyrektywę 2003/87/WE w celu wzmocnienia efektywnych pod względem kosztów redukcji emisji oraz inwestycji niskoemisyjnych oraz decyzję (UE) 2015/1814 (Dz. Urz. UE L 76 z 19.03.2018, str. 3).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-15 |
 | Data wydania | 2021-06-10 |
-| Wejście w życie | 2021-06-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001047) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1047/text.pdf) |
+
+Niniejsza ustawa służy stosowaniu: 1) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/842 z dnia 30 maja 2018 r. w sprawie wiążących rocznych redukcji emisji gazów cieplarnianych przez państwa członkowskie od 2021 r. do 2030 r. przyczyniających się do działań na rzecz klimatu w celu wywiązania się z zobowiązań wynikających z Porozumienia paryskiego oraz zmieniającego rozporządzenie (UE) nr 525/2013 (Dz. Urz. UE L 156 z 19.06.2018, str. 26); 2) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1999 z dnia 11 grudnia 2018 r. w sprawie zarządzania unią energetyczną i działaniami w dziedzinie klimatu, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 663/2009 i (WE) nr 715/2009, dyrektyw Parlamentu Europejskiego i Rady 94/22/WE, 98/70/WE, 2009/31/WE, 2009/73/WE, 2010/31/UE, 2012/27/UE i 2013/30/UE, dyrektyw Rady 2009/119/WE i (EU) 2015/652 oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 525/2013 (Dz. Urz. UE L 328 z 21.12.2018, str. 1, Dz. Urz. UE L 85I z 27.03.2019, str. 66 oraz Dz. Urz. UE L 148 z 06.06.2019, str. 37); 3) rozporządzenia wykonawczego Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającego rozporządzenie Komisji (UE) nr 601/2012 (Dz. Urz. UE L 334 z 31.12.2018, str. 1 oraz Dz. Urz. UE L 423 z 15.12.2020, str. 37); 4) rozporządzenia delegowanego Komisji (UE) 2019/1122 z dnia 12 marca 2019 r. uzupełniającego dyrektywę 2003/87/WE Parlamentu Europejskiego i Rady w odniesieniu do funkcjonowania rejestru Unii (Dz. Urz. UE L 177 z 02.07.2019, str. 3 oraz Dz. Urz. UE L 177 z 02.07.2019, str. 66); 5) rozporządzenia delegowanego Komisji (UE) 2019/1603 z dnia 18 lipca 2019 r. uzupełniającego dyrektywę 2003/87/WE Parlamentu Europejskiego i Rady w odniesieniu do środków przyjętych przez Organizację Międzynarodowego Lotnictwa Cywilnego w odniesieniu do monitorowania, raportowania i weryfikacji emisji lotniczych w celu wdrożenia globalnego środka rynkowego (Dz. Urz. UE L 250 z 30.09.2019, str. 10); 6) rozporządzenia wykonawczego Komisji (UE) 2019/1842 z dnia 31 października 2019 r. ustanawiającego zasady stosowania dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady w odniesieniu do dalszych ustaleń dotyczących dostosowań przydziału bezpłatnych uprawnień do emisji ze względu na zmiany w poziomie działalności (Dz. Urz. UE L 282 z 04.11.2019, str. 20); 7) rozporządzenia wykonawczego Komisji (UE) 2020/1001 z dnia 9 lipca 2020 r. ustanawiającego szczegółowe zasady stosowania dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady w odniesieniu do funkcjonowania funduszu modernizacyjnego wspierającego inwestycje w modernizację systemów energetycznych oraz poprawę efektywności energetycznej niektórych państw członkowskich (Dz. Urz. UE L 221 z 10.07.2020, str. 107). Niniejszą ustawą zmienia się ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji oraz ustawę z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych.
+Krajowy system wdrażania Funduszu Modernizacyjnego
+Zmiana przydzielonej liczby uprawnień do emisji
 
 **Art. 1.** W ustawie z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2021 r. poz. 332) wprowadza się następujące zmiany:
 
@@ -60,13 +63,16 @@ source: "eli-html"
 - **17)** rejestrze Unii – rozumie się przez to rejestr Unii, o którym mowa w art. 4 rozporządzenia delegowanego Komisji (UE) 2019/1122 z dnia 12 marca 2019 r. uzupełniającego dyrektywę 2003/87/WE Parlamentu Europejskiego i Rady w odniesieniu do funkcjonowania rejestru Unii (Dz. Urz. UE L 177 z 02.07.2019, str. 3 oraz Dz. Urz. UE L 177 z 02.07.2019, str. 66), zwanego dalej „rozporządzeniem Komisji (UE) 2019/1122”; ” , pkt 22 otrzymuje brzmienie: „
     - **f)**
 
-- **22)** uprawnieniu do emisji – rozumie się przez to uprawnienie do wprowadzania do powietrza ekwiwalentu, w rozumieniu art. 2 pkt 4 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, dwutlenku węgla (CO2) utworzone w ramach: systemu lub systemu handlu uprawnieniami do emisji gazów cieplarnianych Konfederacji Szwajcarskiej które służy do rozliczania wielkości emisji w ramach każdego z tych systemów i którym można rozporządzać na zasadach określonych w ustawie; ” , w pkt 23 część wspólna otrzymuje brzmienie: „ – która przeprowadza weryfikację zgodnie z rozporządzeniem, o którym mowa w lit. a; ” ;
+- **22)** uprawnieniu do emisji – rozumie się przez to uprawnienie do wprowadzania do powietrza ekwiwalentu, w rozumieniu art. 2 pkt 4 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, dwutlenku węgla (CO2) utworzone w ramach: systemu lub systemu handlu uprawnieniami do emisji gazów cieplarnianych Konfederacji Szwajcarskiej – które służy do rozliczania wielkości emisji w ramach każdego z tych systemów i którym można rozporządzać na zasadach określonych w ustawie; ” , w pkt 23 część wspólna otrzymuje brzmienie: „ – która przeprowadza weryfikację zgodnie z rozporządzeniem, o którym mowa w lit. a; ” ;
     - **a)**
     - **b)**
     - **g)**
 
-- **4)** w art. 4: w pkt 1: – lit. c oraz d otrzymują brzmienie: „ c) rozporządzenia Komisji (UE) 2018/2066, d) rozporządzenia Komisji (UE) 2019/1122, ” , – w lit. e dodaje się przecinek i lit. f w brzmieniu: „ f) rozporządzenia delegowanego Komisji (UE) 2019/1603 z dnia 18 lipca 2019 r. uzupełniającego dyrektywę 2003/87/WE Parlamentu Europejskiego i Rady w odniesieniu do środków przyjętych przez Organizację Międzynarodowego Lotnictwa Cywilnego w odniesieniu do monitorowania, raportowania i weryfikacji emisji lotniczych w celu wdrożenia globalnego środka rynkowego (Dz. Urz. UE L 250 z 30.09.2019, str. 10), zwanego dalej „rozporządzeniem Komisji (UE) 2019/1603” ” , pkt 3 otrzymuje brzmienie: „
+- **4)** w art. 4: w pkt 1: lit. c oraz d otrzymują brzmienie: „ rozporządzenia Komisji (UE) 2018/2066, rozporządzenia Komisji (UE) 2019/1122, ” , w lit. e dodaje się przecinek i lit. f w brzmieniu: „ rozporządzenia delegowanego Komisji (UE) 2019/1603 z dnia 18 lipca 2019 r. uzupełniającego dyrektywę 2003/87/WE Parlamentu Europejskiego i Rady w odniesieniu do środków przyjętych przez Organizację Międzynarodowego Lotnictwa Cywilnego w odniesieniu do monitorowania, raportowania i weryfikacji emisji lotniczych w celu wdrożenia globalnego środka rynkowego (Dz. Urz. UE L 250 z 30.09.2019, str. 10), zwanego dalej „rozporządzeniem Komisji (UE) 2019/1603” ” , pkt 3 otrzymuje brzmienie: „
     - **a)**
+    - **c)**
+    - **d)**
+    - **f)**
     - **b)**
 
 - **3)** prowadzi koordynację, o której mowa w art. 10 rozporządzenia Komisji (UE) 2018/2066. ” ;
@@ -105,8 +111,11 @@ source: "eli-html"
     - **a)**
 
 - **1)** odmowie dokonania czynności przez Krajowy ośrodek w zakresie otwierania rachunku, aktualizacji danych dotyczących rachunku, zamykania rachunku w rejestrze Unii oraz zatwierdzania upoważnionego przedstawiciela, o których mowa w art. 19 ust. 2, art. 21 ust. 5, art. 22 ust. 3, art. 25 ust. 2 oraz art. 26 ust. 2 rozporządzenia Komisji (UE) 2019/1122;
-- **2)** zawieszeniu dostępu upoważnionego przedstawiciela do rachunku w rejestrze Unii, o którym mowa w art. 30 ust. 1–5 rozporządzenia Komisji (UE) 2019/1122 oraz w art. 92a. ” , w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) określenie rodzaju czynności, której dokonania odmówiono, ze wskazaniem jej podstawy prawnej, zgodnie z rozporządzeniem Komisji (UE) 2019/1122; ” , – pkt 4 otrzymuje brzmienie: „ 4) pouczenie o prawie i terminie wniesienia sprzeciwu od odmowy dokonania czynności, zgodnie z art. 19 ust. 4, art. 21 ust. 6 i art. 22 ust. 3 rozporządzenia Komisji (UE) 2019/1122, przez Krajowy ośrodek. ” , w ust. 3 pkt 3 otrzymuje brzmienie: „
+- **2)** zawieszeniu dostępu upoważnionego przedstawiciela do rachunku w rejestrze Unii, o którym mowa w art. 30 ust. 1–5 rozporządzenia Komisji (UE) 2019/1122 oraz w art. 92a. ” , w ust. 2: pkt 2 otrzymuje brzmienie: „
     - **b)**
+
+- **2)** określenie rodzaju czynności, której dokonania odmówiono, ze wskazaniem jej podstawy prawnej, zgodnie z rozporządzeniem Komisji (UE) 2019/1122; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** pouczenie o prawie i terminie wniesienia sprzeciwu od odmowy dokonania czynności, zgodnie z art. 19 ust. 4, art. 21 ust. 6 i art. 22 ust. 3 rozporządzenia Komisji (UE) 2019/1122, przez Krajowy ośrodek. ” , w ust. 3 pkt 3 otrzymuje brzmienie: „
     - **c)**
 
 - **3)** pouczenie o prawie i terminie wniesienia sprzeciwu od zawieszenia dostępu, o którym mowa w art. 30 ust. 1–3 rozporządzenia Komisji (UE) 2019/1122, zgodnie z art. 30 ust. 7 tego rozporządzenia. ” , ust. 6 otrzymuje brzmienie: „
@@ -130,7 +139,7 @@ source: "eli-html"
 1. Uprawnienia do emisji wydane na rachunek posiadania operatora oraz rachunek posiadania operatora statków powietrznych w rejestrze Unii w liczbie większej niż określona w informacji, o której mowa w:
 
 - **1)** art. 64b ust. 8, lub wynikająca ze zmian tej informacji – w odniesieniu do prowadzącego instalację albo
-- **2)** art. 48 ust. 1 pkt 2 – w odniesieniu do operatora statków powietrznych zwane dalej „nadmiarowo wydanymi uprawnieniami do emisji”, podlegają zwrotowi. ” ;
+- **2)** art. 48 ust. 1 pkt 2 – w odniesieniu do operatora statków powietrznych – zwane dalej „nadmiarowo wydanymi uprawnieniami do emisji”, podlegają zwrotowi. ” ;
 - **11)** uchyla się rozdział 5;
 - **12)** w art. 26c dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
@@ -182,7 +191,7 @@ source: "eli-html"
 
 - **21)** po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „
 
-#### Rozdział 8a Krajowy system wdrażania Funduszu Modernizacyjnego
+#### Rozdział 8a
 
 **Art. 50a.**
 
@@ -344,9 +353,10 @@ source: "eli-html"
     - **a)**
 
 - **3)** plan monitorowania wielkości emisji, o którym mowa w art. 12 rozporządzenia Komisji (UE) 2018/2066, zwany dalej „planem monitorowania wielkości emisji”, wraz z dokumentami uzupełniającymi i informacjami, o których mowa w tym przepisie, na piśmie utrwalonym w postaci papierowej i w postaci elektronicznej;
-- **4)** plan poboru próbek w przypadku, o którym mowa w art. 33 rozporządzenia Komisji (UE) 2018/2066. ” , w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku instalacji o niskim poziomie emisji, o której mowa w art. 47 ust. 2 rozporządzenia Komisji (UE) 2018/2066, do wniosku o wydanie zezwolenia dołącza się: ” , – pkt 2 otrzymuje brzmienie: „ 2) dokumenty potwierdzające spełnianie co najmniej jednego z warunków, o których mowa w art. 47 ust. 2 rozporządzenia Komisji (UE) 2018/2066; ” ;
+- **4)** plan poboru próbek w przypadku, o którym mowa w art. 33 rozporządzenia Komisji (UE) 2018/2066. ” , w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku instalacji o niskim poziomie emisji, o której mowa w art. 47 ust. 2 rozporządzenia Komisji (UE) 2018/2066, do wniosku o wydanie zezwolenia dołącza się: ” , pkt 2 otrzymuje brzmienie: „
     - **b)**
 
+- **2)** dokumenty potwierdzające spełnianie co najmniej jednego z warunków, o których mowa w art. 47 ust. 2 rozporządzenia Komisji (UE) 2018/2066; ” ;
 - **23)** w art. 54: w ust. 1 pkt 6 otrzymuje brzmienie: „
     - **a)**
 
@@ -356,8 +366,11 @@ source: "eli-html"
 - **2)** plan poboru próbek w przypadku, o którym mowa w art. 33 rozporządzenia Komisji (UE) 2018/2066. ” , w ust. 8 zdanie pierwsze otrzymuje brzmienie: „ W przypadku zmiany planu monitorowania wielkości emisji z powodu zmian niebędących istotnymi zmianami w rozumieniu art. 15 ust. 3 rozporządzenia Komisji (UE) 2018/2066, a także w przypadku zmian, o których mowa w art. 55 ust. 1 pkt 2 i 3, Krajowy ośrodek nie wydaje opinii, o której mowa w ust. 2. ” ;
     - **c)**
 
-- **24)** w art. 55: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) zmiany w instalacji skutkującej zmianą charakteru lub sposobu funkcjonowania instalacji; ” , – pkt 5 otrzymuje brzmienie: „ 5) zaistnienia zdarzenia powodującego konieczność zmiany planu monitorowania wielkości emisji, jeżeli zmiana ta ma charakter zmiany istotnej w rozumieniu art. 15 ust. 3 rozporządzenia Komisji (UE) 2018/2066. ” , ust. 2 otrzymuje brzmienie: „
+- **24)** w art. 55: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** zmiany w instalacji skutkującej zmianą charakteru lub sposobu funkcjonowania instalacji; ” , pkt 5 otrzymuje brzmienie: „
+- **5)** zaistnienia zdarzenia powodującego konieczność zmiany planu monitorowania wielkości emisji, jeżeli zmiana ta ma charakter zmiany istotnej w rozumieniu art. 15 ust. 3 rozporządzenia Komisji (UE) 2018/2066. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. W przypadku zmian lub zdarzeń, o których mowa w ust. 1 pkt 1–4, prowadzący instalację jest obowiązany wystąpić z wnioskiem o zmianę zezwolenia w terminie nie dłuższym niż 30 dni od dnia wystąpienia tych zmian lub zdarzeń. W przypadku zdarzenia, o którym mowa w ust. 1 pkt 5, prowadzący instalację jest obowiązany wystąpić z wnioskiem o zmianę zezwolenia przed wprowadzeniem planowanych zmian, a jeżeli zmian tych nie dało się zaplanować – niezwłocznie po ich wprowadzeniu. ” , uchyla się ust. 2a;
@@ -434,7 +447,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** weryfikatora do przedłożenia wewnętrznej dokumentacji z weryfikacji, o której mowa w art. 26 rozporządzenia Komisji (UE) 2018/2067 w terminie 7 dni od dnia doręczenia wezwania.
+- **2)** weryfikatora do przedłożenia wewnętrznej dokumentacji z weryfikacji, o której mowa w art. 26 rozporządzenia Komisji (UE) 2018/2067 – w terminie 7 dni od dnia doręczenia wezwania.
 
 4. Dokonując oszacowania, o którym mowa w ust. 2, Krajowy ośrodek może wziąć pod uwagę dane będące w jego posiadaniu, w szczególności zawarte w:
 
@@ -489,14 +502,14 @@ source: "eli-html"
 - **35)** uchyla się art. 68–70;
 - **36)** po rozdziale 10 dodaje się rozdział 10a w brzmieniu: „
 
-#### Rozdział 10a Zmiana przydzielonej liczby uprawnień do emisji
+#### Rozdział 10a
 
 **Art. 70a.**
 
 1. Prowadzący instalację informuje Krajowy ośrodek o:
 
 - **1)** wszelkich zmianach związanych z działaniem instalacji, które mają wpływ na liczbę przydzielonych uprawnień do emisji dla instalacji, dołączając informacje i dane uzasadniające zmianę tego przydziału – w terminie do dnia 31 marca roku następującego po wystąpieniu tych zmian,
-- **2)** zrzeczeniu się przydzielonych uprawnień do emisji w odniesieniu do wszystkich lub niektórych podinstalacji, ze wskazaniem ich liczby oraz okresu, na który zostały przydzielone, zgodnie z art. 24 ust. 1 i 2 rozporządzenia Komisji (UE) 2019/331 za pośrednictwem elektronicznego formularza udostępnionego na stronie internetowej Krajowego ośrodka.
+- **2)** zrzeczeniu się przydzielonych uprawnień do emisji w odniesieniu do wszystkich lub niektórych podinstalacji, ze wskazaniem ich liczby oraz okresu, na który zostały przydzielone, zgodnie z art. 24 ust. 1 i 2 rozporządzenia Komisji (UE) 2019/331 – za pośrednictwem elektronicznego formularza udostępnionego na stronie internetowej Krajowego ośrodka.
 
 2. W przypadku, o którym mowa w ust. 1 pkt 1, Krajowy ośrodek może wezwać prowadzącego instalację do złożenia wyjaśnień lub przedstawienia informacji i danych uzasadniających zmianę liczby przydzielonych uprawnień do emisji.
 
@@ -531,8 +544,10 @@ source: "eli-html"
 
 3. W przypadku ubiegania się przez operatora statku powietrznego, o którym mowa w ust. 1 i 2, o przydział uprawnień do emisji operator statku powietrznego sporządza również plan monitorowania odnoszący się do monitorowania i raportowania w zakresie danych dotyczących tonokilometrów, o którym mowa w art. 52 ust. 2 rozporządzenia Komisji (UE) 2018/2066, zwany dalej „planem monitorowania tonokilometrów”. ” ;
 
-- **39)** w art. 75: w ust. 3: – w pkt 1 lit. b otrzymuje brzmienie: „ b) dokumenty uzupełniające i informacje, o których mowa w art. 12 rozporządzenia Komisji (UE) 2018/2066; ” , – w pkt 2 lit. b otrzymuje brzmienie: „ b) dokumenty potwierdzające, że operator statku powietrznego spełnia przesłanki, o których mowa w art. 55 ust. 1 rozporządzenia Komisji (UE) 2018/2066; ” , ust. 4 otrzymuje brzmienie: „
+- **39)** w art. 75: w ust. 3: w pkt 1 lit. b otrzymuje brzmienie: „ dokumenty uzupełniające i informacje, o których mowa w art. 12 rozporządzenia Komisji (UE) 2018/2066; ” , w pkt 2 lit. b otrzymuje brzmienie: „ dokumenty potwierdzające, że operator statku powietrznego spełnia przesłanki, o których mowa w art. 55 ust. 1 rozporządzenia Komisji (UE) 2018/2066; ” , ust. 4 otrzymuje brzmienie: „
     - **a)**
+    - **b)**
+    - **b)**
     - **b)**
 
 4. Plany monitorowania, zmiany tych planów oraz dokumenty uzupełniające i informacje, o których mowa w art. 12 rozporządzenia Komisji (UE) 2018/2066, sporządza się przy użyciu elektronicznego formularza udostępnionego na stronie internetowej Krajowego ośrodka, opracowanego na podstawie formularzy i wytycznych ogłaszanych przez Komisję Europejską. ” ;
@@ -601,12 +616,12 @@ source: "eli-html"
 1. Administracyjnej karze pieniężnej w wysokości 50 000 zł podlega:
 
 - **1)** operator statku powietrznego,
-- **2)** operator statku powietrznego, o którym mowa w art. 1 ust. 1 lub art. 2 ust. 2 rozporządzenia Komisji (UE) 2019/1603, w zakresie lotów statków powietrznych wskazanych w art. 2 ust. 1 tego rozporządzenia który prowadzi operacje lotnicze bez zatwierdzonych planów monitorowania, o których mowa w art. 74.
+- **2)** operator statku powietrznego, o którym mowa w art. 1 ust. 1 lub art. 2 ust. 2 rozporządzenia Komisji (UE) 2019/1603, w zakresie lotów statków powietrznych wskazanych w art. 2 ust. 1 tego rozporządzenia – który prowadzi operacje lotnicze bez zatwierdzonych planów monitorowania, o których mowa w art. 74.
 
 2. Administracyjnej karze pieniężnej w wysokości 10 000 zł podlega:
 
 - **1)** operator statku powietrznego,
-- **2)** operator statku powietrznego, o którym mowa w art. 1 ust. 1 lub art. 2 ust. 2 rozporządzenia Komisji (UE) 2019/1603, w zakresie lotów statków powietrznych wskazanych w art. 2 ust. 1 tego rozporządzenia który nie wystąpił z wnioskiem, o którym mowa w art. 76 ust. 2. ” , ust. 4 otrzymuje brzmienie: „
+- **2)** operator statku powietrznego, o którym mowa w art. 1 ust. 1 lub art. 2 ust. 2 rozporządzenia Komisji (UE) 2019/1603, w zakresie lotów statków powietrznych wskazanych w art. 2 ust. 1 tego rozporządzenia – który nie wystąpił z wnioskiem, o którym mowa w art. 76 ust. 2. ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Na wniosek prowadzącego instalację, operatora statku powietrznego albo operatora statku powietrznego, o którym mowa w art. 1 ust. 1 lub art. 2 ust. 2 rozporządzenia Komisji (UE) 2019/1603, w zakresie lotów statków powietrznych wskazanych w art. 2 ust. 1 tego rozporządzenia, organ Inspekcji może odstąpić od nałożenia administracyjnej kary pieniężnej, jeżeli toczy się postępowanie odpowiednio w sprawie zmiany zezwolenia w zakresie zatwierdzenia zmiany planu monitorowania wielkości emisji albo zatwierdzenia planu monitorowania emisji z operacji lotniczych albo uproszczonego planu monitorowania emisji z operacji lotniczych lub zatwierdzenia istotnych zmian tych planów, a w przypadku planu monitorowania tonokilometrów – zatwierdzenia istotnej zmiany planu monitorowania tonokilometrów. ” ;
@@ -618,7 +633,7 @@ source: "eli-html"
 
 - **1)** prowadzący instalację,
 - **2)** operator statku powietrznego,
-- **3)** operator statku powietrznego, o którym mowa w art. 1 ust. 1 lub art. 2 ust. 2 rozporządzenia Komisji (UE) 2019/1603, w zakresie lotów statków powietrznych wskazanych w art. 2 ust. 1 tego rozporządzenia który nie dostarczył w terminie określonym w art. 86 ust. 1 Krajowemu ośrodkowi raportu, o którym mowa w art. 80 ust. 3, lub sprawozdania z weryfikacji, o którym mowa w art. 84 ust. 1.
+- **3)** operator statku powietrznego, o którym mowa w art. 1 ust. 1 lub art. 2 ust. 2 rozporządzenia Komisji (UE) 2019/1603, w zakresie lotów statków powietrznych wskazanych w art. 2 ust. 1 tego rozporządzenia – który nie dostarczył w terminie określonym w art. 86 ust. 1 Krajowemu ośrodkowi raportu, o którym mowa w art. 80 ust. 3, lub sprawozdania z weryfikacji, o którym mowa w art. 84 ust. 1.
 
 2. W przypadku dostarczenia Krajowemu ośrodkowi raportu, o którym mowa w art. 80 ust. 3, i sprawozdania z weryfikacji, o którym mowa w art. 84 ust. 1, w terminie do dnia 15 kwietnia administracyjną karę pieniężną wymierza się w wysokości 10% kary, o której mowa w ust. 1. ” , uchyla się ust. 3;
 
@@ -635,7 +650,7 @@ source: "eli-html"
 
 1d. Przepisu ust. 1a w zakresie wyłączenia obowiązku raportowania wielkości emisji, o którym mowa w art. 86, nie stosuje się do operatorów statków powietrznych, o których mowa w art. 1 ust. 1 lub art. 2 ust. 2 rozporządzenia Komisji (UE) 2019/1603, w zakresie lotów statków powietrznych wskazanych w art. 2 ust. 1 tego rozporządzenia. ” .
 
-**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802 i 868.) wprowadza się następujące zmiany:
 
 - **1)** w art. 152 w ust. 3 wyrazy „art. 64 ust. 2” zastępuje się wyrazami „art. 64 § 2”;
 - **2)** w art. 213 w ust. 1 wyrazy „art. 206 ust. 1” zastępuje się wyrazami „art. 206”;
@@ -677,8 +692,10 @@ source: "eli-html"
 
 - **1)** w art. 2 pkt 14a otrzymuje brzmienie: „
 - **14a)** jednostce rocznych limitów emisji – rozumie się przez to jednostkę rocznych limitów emisji w rozumieniu art. 3 pkt 24 rozporządzenia delegowanego Komisji (UE) 2019/1122 z dnia 12 marca 2019 r. uzupełniającego dyrektywę 2003/87/WE Parlamentu Europejskiego i Rady w odniesieniu do funkcjonowania rejestru Unii (Dz. Urz. UE L 177 z 02.07.2019, str. 3 oraz Dz. Urz. UE L 177 z 02.07.2019, str. 66); ” ;
-- **2)** w art. 3: w ust. 2 w pkt 10: – lit. a otrzymuje brzmienie: „ a) prowadzenie, w postaci elektronicznej, bazy danych zawierającej informacje o instalacjach, z których emisja gazów cieplarnianych jest objęta systemem handlu uprawnieniami do emisji gazów cieplarnianych, niezbędne do opracowania projektu wykazu, o którym mowa w art. 26d ust. 1 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, oraz opracowania informacji, o których mowa w art. 64b ust. 6 i art. 70a ust. 3 tej ustawy, a także monitorowanie sposobu wywiązania się przez prowadzących instalacje z obowiązków związanych z systemem, ” , – lit. m otrzymuje brzmienie: „ m) przeprowadzanie oceny raportów na temat wielkości emisji w zakresie kompletności zawartych w nich danych, poprawności przeprowadzonych obliczeń oraz zgodności zawartych w nich ustaleń z przepisami rozporządzenia wykonawczego Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającego rozporządzenie Komisji (UE) nr 601/2012 (Dz. Urz. UE L 334 z 31.12.2018, str. 1 oraz Dz. Urz. UE L 423 z 15.12.2020, str. 37) i z zatwierdzonym planem monitorowania, ” , w ust. 3 uchyla się pkt 4;
+- **2)** w art. 3: w ust. 2 w pkt 10: lit. a otrzymuje brzmienie: „ prowadzenie, w postaci elektronicznej, bazy danych zawierającej informacje o instalacjach, z których emisja gazów cieplarnianych jest objęta systemem handlu uprawnieniami do emisji gazów cieplarnianych, niezbędne do opracowania projektu wykazu, o którym mowa w art. 26d ust. 1 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, oraz opracowania informacji, o których mowa w art. 64b ust. 6 i art. 70a ust. 3 tej ustawy, a także monitorowanie sposobu wywiązania się przez prowadzących instalacje z obowiązków związanych z systemem, ” , lit. m otrzymuje brzmienie: „ przeprowadzanie oceny raportów na temat wielkości emisji w zakresie kompletności zawartych w nich danych, poprawności przeprowadzonych obliczeń oraz zgodności zawartych w nich ustaleń z przepisami rozporządzenia wykonawczego Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającego rozporządzenie Komisji (UE) nr 601/2012 (Dz. Urz. UE L 334 z 31.12.2018, str. 1 oraz Dz. Urz. UE L 423 z 15.12.2020, str. 37) i z zatwierdzonym planem monitorowania, ” , w ust. 3 uchyla się pkt 4;
     - **a)**
+    - **a)**
+    - **m)**
     - **b)**
 
 - **3)** w art. 5 uchyla się ust. 5;
@@ -691,7 +708,7 @@ source: "eli-html"
 - **1)** raporcie, o którym mowa w art. 7 ust. 1,
 - **2)** raporcie, o którym mowa w art. 64 ust. 1 pkt 1 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, oraz w sprawozdaniu z weryfikacji tego raportu,
 - **3)** raporcie, o którym mowa w art. 5 ust. 2 rozporządzenia delegowanego Komisji (UE) 2019/331 z dnia 19 grudnia 2018 r. w sprawie ustanowienia przejściowych zasad dotyczących zharmonizowanego przydziału bezpłatnych uprawnień do emisji w całej Unii na podstawie art. 10a dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 59 z 27.02.2019, str. 8), oraz w sprawozdaniu z weryfikacji tego raportu,
-- **4)** zestawieniach informacji i raportach, o których mowa w art. 3 ust. 3–5 nie są informacjami publicznymi w rozumieniu przepisów o dostępie do informacji publicznej. ” ;
+- **4)** zestawieniach informacji i raportach, o których mowa w art. 3 ust. 3–5 – nie są informacjami publicznymi w rozumieniu przepisów o dostępie do informacji publicznej. ” ;
 - **6)** w art. 7: po ust. 1a dodaje się ust. 1b w brzmieniu: „
     - **a)**
 
@@ -848,9 +865,9 @@ source: "eli-html"
 
 6. Przy obliczaniu kwoty podlegającej zwrotowi przyjmuje się jednostkową cenę uprawnienia do emisji, która odpowiada średniej cenie uprawnienia do emisji notowanej na giełdach ICE/ECX i EEX na rynku wtórnym spot w ostatnim dniu, w którym był realizowany obrót uprawnieniami do emisji, poprzedzającym dzień wydania decyzji, w przeliczeniu na złote według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w dniu poprzedzającym dzień wydania decyzji.
 
-7. Do kwoty, o której mowa w ust. 5, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.).
+7. Do kwoty, o której mowa w ust. 5, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72, 694, 802 i 1005.).
 
-8. Kwota, o której mowa w ust. 5, podlega egzekucji administracyjnej w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2020 r. poz. 1427, z późn. zm.).
+8. Kwota, o której mowa w ust. 5, podlega egzekucji administracyjnej w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2020 r. poz. 1427, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492 i 2320 oraz z 2021 r. poz. 11, 41, 802 i 1005.).
 
 9. Należności wnoszone w związku z obowiązkiem zwrotu kwoty, o której mowa w ust. 5, stanowią dochód budżetu państwa.
 
@@ -889,7 +906,7 @@ source: "eli-html"
 1. Złożone przed dniem wejścia w życie niniejszej ustawy przez operatora statku powietrznego, o którym mowa w art. 2 ust. 2 rozporządzenia delegowanego Komisji (UE) 2019/1603 z dnia 18 lipca 2019 r. uzupełniającego dyrektywę 2003/87/WE Parlamentu Europejskiego i Rady w odniesieniu do środków przyjętych przez Organizację Międzynarodowego Lotnictwa Cywilnego w odniesieniu do monitorowania, raportowania i weryfikacji emisji lotniczych w celu wdrożenia globalnego środka rynkowego (Dz. Urz. UE L 250 z 30.09.2019, str. 10), w zakresie lotów statków powietrznych wskazanych w art. 2 ust. 1 tego rozporządzenia:
 
 - **1)** plan monitorowania emisji z operacji lotniczych, uproszczony plan monitorowania emisji z operacji lotniczych lub plan monitorowania tonokilometrów i zmiany tych planów,
-- **2)** raport na temat wielkości emisji i sprawozdanie z weryfikacji tego raportu uznaje się za złożone zgodnie z art. 95a ustawy zmienianej w art. 1.
+- **2)** raport na temat wielkości emisji i sprawozdanie z weryfikacji tego raportu – uznaje się za złożone zgodnie z art. 95a ustawy zmienianej w art. 1.
 
 2. Decyzje zatwierdzające plany, o których mowa w ust. 1 pkt 1, i zmiany tych planów, wydane przed dniem wejścia w życie niniejszej ustawy zachowują moc.
 
@@ -900,7 +917,7 @@ source: "eli-html"
 
 **Art. 18.**
 
-1. W terminie 4 miesięcy od dnia wejścia w życie niniejszego przepisu prowadzący instalację, w tym prowadzący instalację o niskim poziomie emisji, w stosunku do której zatwierdzono plan monitorowania wielkości emisji lub plan poboru próbek zgodnie z przepisami rozporządzenia Komisji (UE) nr 601/2012 z dnia 21 czerwca 2012 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych zgodnie z dyrektywą 2003/87/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 181 z 12.07.2012, str. 30, z późn. zm.), składa do organu właściwego do wydania decyzji zezwalającej na emisję gazów cieplarnianych z instalacji wniosek o zmianę tej decyzji i przedkłada do zatwierdzenia plan monitorowania wielkości emisji i plan poboru próbek, opracowane zgodnie z wymaganiami rozporządzenia wykonawczego Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającego rozporządzenie Komisji (UE) nr 601/2012 (Dz. Urz. UE L 334 z 31.12.2018, str. 1 oraz Dz. Urz. UE L 423 z 15.12.2020, str. 37).
+1. W terminie 4 miesięcy od dnia wejścia w życie niniejszego przepisu prowadzący instalację, w tym prowadzący instalację o niskim poziomie emisji, w stosunku do której zatwierdzono plan monitorowania wielkości emisji lub plan poboru próbek zgodnie z przepisami rozporządzenia Komisji (UE) nr 601/2012 z dnia 21 czerwca 2012 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych zgodnie z dyrektywą 2003/87/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 181 z 12.07.2012, str. 30, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 15.12.2012, str. 43/2, Dz. Urz. UE L 65 z 05.03.2014, str. 27, Dz. Urz. UE L 201 z 10.07.2014, str. 1 oraz Dz. Urz. UE L 334 z 31.12.2018, str. 1., składa do organu właściwego do wydania decyzji zezwalającej na emisję gazów cieplarnianych z instalacji wniosek o zmianę tej decyzji i przedkłada do zatwierdzenia plan monitorowania wielkości emisji i plan poboru próbek, opracowane zgodnie z wymaganiami rozporządzenia wykonawczego Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającego rozporządzenie Komisji (UE) nr 601/2012 (Dz. Urz. UE L 334 z 31.12.2018, str. 1 oraz Dz. Urz. UE L 423 z 15.12.2020, str. 37).
 
 2. Plan poboru próbek, o którym mowa w ust. 1, prowadzący instalację, w tym prowadzący instalację o niskim poziomie emisji, dołącza do wniosku, o którym mowa w tym przepisie, jeżeli taki obowiązek wynika z przepisów rozporządzenia wykonawczego Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającego rozporządzenie Komisji (UE) nr 601/2012.
 
@@ -942,7 +959,7 @@ source: "eli-html"
 
 3. W terminie 7 dni od dnia wejścia w życie niniejszego przepisu właściwi ministrowie wyznaczą swoich przedstawicieli do udziału w pracach Rady Konsultacyjnej Funduszu Modernizacyjnego.
 
-**Art. 26.** Przedstawiciel Rzeczypospolitej Polskiej wskazany przez ministra właściwego do spraw klimatu przed dniem wejścia w życie niniejszego przepisu do udziału w pracach komitetu inwestycyjnego, o którym mowa w art. 10d ust. 5 dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady z dnia 13 października 2003 r. ustanawiającej system handlu przydziałami emisji gazów cieplarnianych w Unii oraz zmieniającej dyrektywę Rady 96/61/WE (Dz. Urz. UE L 275 z 25.10.2003, str. 32, z późn. zm.- Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 631), jest przedstawicielem, o którym mowa w art. 50q ustawy zmienianej w art. 1.
+**Art. 26.** Przedstawiciel Rzeczypospolitej Polskiej wskazany przez ministra właściwego do spraw klimatu przed dniem wejścia w życie niniejszego przepisu do udziału w pracach komitetu inwestycyjnego, o którym mowa w art. 10d ust. 5 dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady z dnia 13 października 2003 r. ustanawiającej system handlu przydziałami emisji gazów cieplarnianych w Unii oraz zmieniającej dyrektywę Rady 96/61/WE (Dz. Urz. UE L 275 z 25.10.2003, str. 32, z późn. zm.Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 338 z 13.11.2004, str. 18, Dz. Urz. UE L 8 z 13.01.2009, str. 3, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 140 z 05.06.2009, str. 63, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 113 z 25.04.2013, str. 1, Dz. Urz. UE L 343 z 19.12.2013, str. 1, Dz. Urz. UE L 129 z 30.04.2014, str. 1, Dz. Urz. UE L 264 z 09.10.2015, str. 1, Dz. Urz. UE L 280 z 24.10.2015, str. 39/2, Dz. Urz. UE L 350 z 29.12.2017, str. 7, Dz. Urz. UE L 76 z 19.03.2018, str. 3 oraz Dz. Urz. UE L 234 z 21.07.2020, str. 16.- Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 631), jest przedstawicielem, o którym mowa w art. 50q ustawy zmienianej w art. 1.
 
 **Art. 27.**
 
@@ -967,6 +984,6 @@ source: "eli-html"
 
 - **1)** art. 1 pkt 3 lit. b i f, pkt 19, 21, 28 i 29, pkt 31 lit. a, b, d oraz e, pkt 32 w zakresie art. 64a ust. 1–5 i 7 oraz art. 64b ust. 1–4 i 6–10 i pkt 33–37, art. 2 pkt 4–7, art. 5, art. 6, art. 14, art. 15, art. 18, art. 19, art. 21 oraz art. 25–27, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 - **2)** art. 1 pkt 31 lit. c i pkt 32 w zakresie art. 64a ust. 6 i 8 oraz art. 64b ust. 5, a także art. 3 pkt 7 lit. a w zakresie art. 7a ust. 1 pkt 3, które wchodzą w życie z dniem 1 stycznia 2022 r.;
-- **3)** art. 3 pkt 9, który wchodzi w życie z dniem 1 stycznia 2023 r.
+- **3)** art. 3 pkt 9, który wchodzi w życie z dniem 1 stycznia 2023 r. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/410 z dnia 14 marca 2018 r. zmieniającą dyrektywę 2003/87/WE w celu wzmocnienia efektywnych pod względem kosztów redukcji emisji oraz inwestycji niskoemisyjnych oraz decyzję (UE) 2015/1814 (Dz. Urz. UE L 76 z 19.03.2018, str. 3). 2) Niniejsza ustawa służy stosowaniu: 1) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/842 z dnia 30 maja 2018 r. w sprawie wiążących rocznych redukcji emisji gazów cieplarnianych przez państwa członkowskie od 2021 r. do 2030 r. przyczyniających się do działań na rzecz klimatu w celu wywiązania się z zobowiązań wynikających z Porozumienia paryskiego oraz zmieniającego rozporządzenie (UE) nr 525/2013 (Dz. Urz. UE L 156 z 19.06.2018, str. 26); 2) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1999 z dnia 11 grudnia 2018 r. w sprawie zarządzania unią energetyczną i działaniami w dziedzinie klimatu, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 663/2009 i (WE) nr 715/2009, dyrektyw Parlamentu Europejskiego i Rady 94/22/WE, 98/70/WE, 2009/31/WE, 2009/73/WE, 2010/31/UE, 2012/27/UE i 2013/30/UE, dyrektyw Rady 2009/119/WE i (EU) 2015/652 oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 525/2013 (Dz. Urz. UE L 328 z 21.12.2018, str. 1, Dz. Urz. UE L 85I z 27.03.2019, str. 66 oraz Dz. Urz. UE L 148 z 06.06.2019, str. 37); 3) rozporządzenia wykonawczego Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającego rozporządzenie Komisji (UE) nr 601/2012 (Dz. Urz. UE L 334 z 31.12.2018, str. 1 oraz Dz. Urz. UE L 423 z 15.12.2020, str. 37); 4) rozporządzenia delegowanego Komisji (UE) 2019/1122 z dnia 12 marca 2019 r. uzupełniającego dyrektywę 2003/87/WE Parlamentu Europejskiego i Rady w odniesieniu do funkcjonowania rejestru Unii (Dz. Urz. UE L 177 z 02.07.2019, str. 3 oraz Dz. Urz. UE L 177 z 02.07.2019, str. 66); 5) rozporządzenia delegowanego Komisji (UE) 2019/1603 z dnia 18 lipca 2019 r. uzupełniającego dyrektywę 2003/87/WE Parlamentu Europejskiego i Rady w odniesieniu do środków przyjętych przez Organizację Międzynarodowego Lotnictwa Cywilnego w odniesieniu do monitorowania, raportowania i weryfikacji emisji lotniczych w celu wdrożenia globalnego środka rynkowego (Dz. Urz. UE L 250 z 30.09.2019, str. 10); 6) rozporządzenia wykonawczego Komisji (UE) 2019/1842 z dnia 31 października 2019 r. ustanawiającego zasady stosowania dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady w odniesieniu do dalszych ustaleń dotyczących dostosowań przydziału bezpłatnych uprawnień do emisji ze względu na zmiany w poziomie działalności (Dz. Urz. UE L 282 z 04.11.2019, str. 20); 7) rozporządzenia wykonawczego Komisji (UE) 2020/1001 z dnia 9 lipca 2020 r. ustanawiającego szczegółowe zasady stosowania dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady w odniesieniu do funkcjonowania funduszu modernizacyjnego wspierającego inwestycje w modernizację systemów energetycznych oraz poprawę efektywności energetycznej niektórych państw członkowskich (Dz. Urz. UE L 221 z 10.07.2020, str. 107). 3) Niniejszą ustawą zmienia się ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji oraz ustawę z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802 i 868. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72, 694, 802 i 1005. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492 i 2320 oraz z 2021 r. poz. 11, 41, 802 i 1005. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 15.12.2012, str. 43/2, Dz. Urz. UE L 65 z 05.03.2014, str. 27, Dz. Urz. UE L 201 z 10.07.2014, str. 1 oraz Dz. Urz. UE L 334 z 31.12.2018, str. 1. 8) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 338 z 13.11.2004, str. 18, Dz. Urz. UE L 8 z 13.01.2009, str. 3, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 140 z 05.06.2009, str. 63, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 113 z 25.04.2013, str. 1, Dz. Urz. UE L 343 z 19.12.2013, str. 1, Dz. Urz. UE L 129 z 30.04.2014, str. 1, Dz. Urz. UE L 264 z 09.10.2015, str. 1, Dz. Urz. UE L 280 z 24.10.2015, str. 39/2, Dz. Urz. UE L 350 z 29.12.2017, str. 7, Dz. Urz. UE L 76 z 19.03.2018, str. 3 oraz Dz. Urz. UE L 234 z 21.07.2020, str. 16.
 
 

@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-14 |
 | Data wydania | 2024-05-21 |
-| Wejście w życie | 2024-06-05 |
 | Ostatnia zmiana | 2026-02-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000764) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/764/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Opłaty w sprawach cywilnych, ze stosunku pracy i ubezpieczeń społecznych Rozdział 3 – Opłaty w sprawach karnych i w sprawach o wykroczenia Rozdział 4 – Opłaty w sprawach nieletnich Rozdział 5 – Opłaty w innych sprawach Rozdział 6 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 223 ust. 2 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2024 r. poz. 499) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe zasady ponoszenia przez Skarb Państwa albo jednostki samorządu terytorialnego kosztów pomocy prawnej udzielonej przez radcę prawnego ustanowionego z urzędu.
 § 2.
@@ -62,6 +62,7 @@ Wysokość opłat w sprawach nieokreślonych w rozporządzeniu ustala się, przy
 W sprawie cywilnej, w której kosztami procesu został obciążony przeciwnik procesowy strony korzystającej z pomocy udzielonej przez radcę prawnego ustanowionego z urzędu, koszty, o których mowa w § 2, sąd przyznaje po wykazaniu bezskuteczności ich egzekucji.
 § 7.
 Za obronę kilku osób lub reprezentowanie kilku osób w postępowaniu karnym lub w postępowaniu o wykroczenia ustala się opłatę od każdej z tych osób.
+Opłaty w sprawach cywilnych, ze stosunku pracy i ubezpieczeń społecznych
 § 8.
 Opłaty wynoszą przy wartości przedmiotu sprawy:
 1)
@@ -271,6 +272,7 @@ Opłaty wynoszą w postępowaniu przed Trybunałem Konstytucyjnym:
 za sporządzenie i wniesienie skargi konstytucyjnej oraz za stawiennictwo na rozprawie – 960 zł;
 2)
 za sporządzenie i wniesienie skargi konstytucyjnej oraz za sporządzenie opinii o braku podstaw do wniesienia tej skargi – 480 zł.
+Opłaty w sprawach karnych i w sprawach o wykroczenia
 § 17.
 1.
 Opłaty wynoszą w sprawie objętej:
@@ -341,6 +343,7 @@ za prowadzenie sprawy o ułaskawienie – 480 zł;
 za pozostałe czynności w postępowaniu wykonawczym – 480 zł.
 § 20.
 W sprawach, w których rozprawa trwa dłużej niż jeden dzień, opłata ulega podwyższeniu za każdy następny dzień o 20 %.
+Opłaty w sprawach nieletnich
 § 21.
 1.
 Opłaty wynoszą w postępowaniu w sprawach nieletnich:
@@ -354,6 +357,7 @@ Opłaty wynoszą w postępowaniu w sprawach nieletnich, jeżeli sprawa dotyczy z
 Opłaty wynoszą w postępowaniu wykonawczym – 480 zł.
 § 22.
 Przy ustalaniu wysokości opłat w sprawach prowadzonych w postępowaniu odwoławczym stosuje się odpowiednio § 16.
+Opłaty w innych sprawach
 § 23.
 1.
 Opłaty wynoszą w postępowaniu przed sądami administracyjnymi:
@@ -391,6 +395,7 @@ ze skargi na wyrok Krajowej Izby Odwoławczej – 3600 zł;
 ze skargi na postanowienie Prezesa Krajowej Izby Odwoławczej o zwrocie odwołania oraz ze skargi na inne orzeczenia Krajowej Izby Odwoławczej, w tym na postanowienie w przedmiocie kosztów postępowania odwoławczego zawarte w wyroku Krajowej Izby Odwoławczej, jeśli strona nie skarży rozstrzygnięcia merytorycznego – 900 zł.
 4.
 Za prowadzenie sprawy w postępowaniu ze skargi na naruszenie prawa strony do rozpoznania sprawy bez nieuzasadnionej zwłoki w postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i postępowaniu sądowym oraz do przeprowadzenia i zakończenia bez nieuzasadnionej zwłoki sprawy egzekucyjnej lub innej sprawy dotyczącej wykonania orzeczenia sądowego opłata wynosi 240 zł.
+Przepisy przejściowe i końcowe
 § 24.
 Do spraw wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 § 25.
@@ -398,15 +403,27 @@ Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 3 października 2016 
 § 26.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Opłaty w sprawach cywilnych, ze stosunku pracy i ubezpieczeń społecznych
+#### Rozdział 2 – Opłaty w sprawach cywilnych, ze stosunku pracy i ubezpieczeń społecznych
 
-#### Rozdział 3 Opłaty w sprawach karnych i w sprawach o wykroczenia
+#### Rozdział 3 – Opłaty w sprawach karnych i w sprawach o wykroczenia
 
-#### Rozdział 4 Opłaty w sprawach nieletnich
+#### Rozdział 4 – Opłaty w sprawach nieletnich
 
-#### Rozdział 5 Opłaty w innych sprawach
+#### Rozdział 5 – Opłaty w innych sprawach
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

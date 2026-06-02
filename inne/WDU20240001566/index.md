@@ -26,18 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001566) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1566/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 28 czerwca 2004 r. w sprawie maksymalnych stawek taksy notarialnej Rozdział 1 – Przepisy ogólne Rozdział 2 – Czynności notarialne Rozdział 3 – Zwiększenie wynagrodzenia za dokonanie czynności notarialnej poza kancelarią notarialną Rozdział 4 – Przepis końcowy
+Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 28 czerwca 2004 r. w sprawie maksymalnych stawek taksy notarialnej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 28 czerwca 2004 r. w sprawie maksymalnych stawek taksy notarialnej (Dz. U. z 2020 r. poz. 1473), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 17 marca 2021 r. zmieniającym rozporządzenie w sprawie maksymalnych stawek taksy notarialnej (Dz. U. poz. 516).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 17 marca 2021 r. zmieniającego rozporządzenie w sprawie maksymalnych stawek taksy notarialnej (Dz. U. poz. 516), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 17 marca 2021 r. zmieniającego rozporządzenie w sprawie maksymalnych stawek taksy notarialnej (Dz. U. poz. 516), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 28 czerwca 2004 r. w sprawie maksymalnych stawek taksy notarialnej
 Na podstawie art. 5 § 3 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2024 r. poz. 1001) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa maksymalne stawki taksy notarialnej za czynności notarialne oraz maksymalne kwoty, o które może być zwiększone wynagrodzenie za dokonanie czynności notarialnych poza kancelarią notarialną.
 § 2.
@@ -81,6 +80,8 @@ powyżej 1 000 000 zł do 2 000 000 zł – 4770 zł + 0,2 % od nadwyżki powyż
 powyżej 2 000 000 zł – 6770 zł + 0,25 % od nadwyżki powyżej 2 000 000 zł, nie więcej jednak niż 10 000 zł, a w przypadku czynności dokonywanych pomiędzy osobami zaliczonymi do I grupy podatkowej w rozumieniu przepisów ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn nie więcej niż 7500 zł.
 § 4.
 Przy obliczaniu wartości przedmiotu czynności notarialnej nie odlicza się obciążeń i bonifikat.
+Czynności notarialne
+Akty notarialne
 § 5.
 Za sporządzenie aktu notarialnego jako maksymalną stawkę przyjmuje się stawkę przewidzianą w § 3, z zastrzeżeniem § 6 i 7.
 § 6.
@@ -124,8 +125,7 @@ umowę sprzedaży nieruchomości gruntowej, stanowiącej działkę budowlaną w 
 18)
 umowę przeniesienia na nabywcę własności nieruchomości zabudowanej domem jednorodzinnym lub prawa użytkowania wieczystego nieruchomości gruntowej i własności domu jednorodzinnego na niej posadowionego, w tym w wykonaniu umowy deweloperskiej,
 19)
-umowę sprzedaży lokalu mieszkalnego
-maksymalna stawka wynosi połowę stawki przewidzianej w § 3.
+umowę sprzedaży lokalu mieszkalnego – maksymalna stawka wynosi połowę stawki przewidzianej w § 3.
 § 7.
 1.
 Za sporządzenie projektu aktu notarialnego obejmującego umowę oraz za sporządzenie aktu notarialnego dokumentującego:
@@ -134,15 +134,13 @@ ustanowienie hipoteki w celu zabezpieczenia kredytu bankowego udzielonego na bud
 2)
 losowanie nagrody,
 3)
-potwierdzenie oświadczenia woli zawartego w innym akcie notarialnym
-maksymalna stawka wynosi 1/4 stawki przewidzianej w § 3.
+potwierdzenie oświadczenia woli zawartego w innym akcie notarialnym – maksymalna stawka wynosi 1/4 stawki przewidzianej w § 3.
 2.
 Za sporządzenie aktu notarialnego dokumentującego:
 1)
 oświadczenie o przystąpieniu do spółki z ograniczoną odpowiedzialnością lub objęciu udziałów w tej spółce,
 2)
-oświadczenie zawierające zgodę osób przystępujących do spółki akcyjnej na zawiązanie spółki, na brzmienie statutu i na objęcie akcji, wyrażoną w innym akcie niż akt obejmujący statut
-maksymalna stawka wynosi 1/10 stawki przewidzianej w § 3.
+oświadczenie zawierające zgodę osób przystępujących do spółki akcyjnej na zawiązanie spółki, na brzmienie statutu i na objęcie akcji, wyrażoną w innym akcie niż akt obejmujący statut – maksymalna stawka wynosi 1/10 stawki przewidzianej w § 3.
 § 8.
 Maksymalna stawka wynosi za sporządzenie aktu notarialnego dokumentującego:
 1)
@@ -221,11 +219,13 @@ Jeżeli jednym aktem notarialnym, sporządzonym między tymi samymi osobami, obj
 W razie gdy poszczególne czynności między tymi samymi osobami dotyczą różnych przedmiotów, wartość tych przedmiotów zlicza się, jeżeli dla dokonywanych czynności przewidziana jest ta sama maksymalna stawka. Jeżeli dla tych czynności przewidziane są różne maksymalne stawki, stosuje się je za każdą czynność z osobna.
 3.
 Jeżeli akt notarialny obejmuje kilka czynności różnych osób, stosuje się maksymalne stawki przewidziane za każdą czynność z osobna.
+Wypisy, odpisy i wyciągi
 § 12.
 1.
 Za sporządzenie wypisu, odpisu lub wyciągu z akt notarialnych lub innego dokumentu maksymalna stawka wynosi 6 zł za każdą rozpoczętą stronę.
 2.
 Za stronę uważa się tekst obejmujący nie mniej niż 25 wierszy.
+Poświadczenia
 § 13.
 Maksymalna stawka wynosi:
 1)
@@ -246,7 +246,8 @@ b)
 w innym celu – 30 zł;
 5)
 za poświadczenie pozostawania osoby w określonym miejscu – 30 zł.
-(uchylony)
+(uchylony)Przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 17 marca 2021 r. zmieniającego rozporządzenie w sprawie maksymalnych stawek taksy notarialnej (Dz. U. poz. 516), które weszło w życie z dniem 1 lipca 2021 r.
+Protesty
 § 15.
 1.
 Za sporządzenie protestu maksymalna stawka wynosi przy wartości kwoty ulegającej zaprotestowaniu:
@@ -256,6 +257,7 @@ do 1000 zł włącznie – 5 zł;
 powyżej 1000 zł – 5 zł + 0,5 % od nadwyżki ponad 1000 zł, nie więcej jednak niż 2500 zł.
 2.
 Jeżeli osoba, przeciwko której protest ma być skierowany, uczyni zadość wezwaniu przed sporządzeniem protestu, maksymalna stawka wynosi połowę stawki określonej w ust. 1.
+Inne czynności
 § 15a.
 1.
 Za każdą rozpoczętą godzinę czynności sprzedaży przedmiotu zastawu rejestrowego w drodze przetargu publicznego maksymalna stawka wynosi 3 % przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzednim, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, zgodnie z art. 5 ust. 7 ustawy z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2024 r. poz. 288), zwanego dalej „przeciętnym wynagrodzeniem miesięcznym”.
@@ -263,7 +265,7 @@ Za każdą rozpoczętą godzinę czynności sprzedaży przedmiotu zastawu rejest
 Za czynność wymienioną w ust. 1, kontynuowaną w drugim dniu i kolejnych dniach, maksymalna stawka wynosi 50 % stawki określonej w ust. 1.
 3.
 Przepisów ust. 1 i 2 nie stosuje się w przypadku sporządzenia aktu notarialnego dokumentującego przebieg przetargu.
-§ 15b.
+§ 15bDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 1.
 Za prowadzenie rejestru akcjonariuszy prostej spółki akcyjnej w stosunku rocznym za każdy rozpoczęty rok maksymalna stawka wynosi 1200 zł.
 2.
@@ -272,36 +274,45 @@ Za dokonanie wpisu w rejestrze akcjonariuszy prostej spółki akcyjnej maksymaln
 Za udzielenie informacji z rejestru akcjonariuszy, o której mowa w art. 30035 § 3 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), maksymalna stawka wynosi 50 zł.
 § 16.
 Za dokonanie czynności notarialnej niewymienionej w przepisach poprzedzających maksymalna stawka wynosi 200 zł.
+Zwiększenie wynagrodzenia za dokonanie czynności notarialnej poza kancelarią notarialną
 § 17.
 1.
 Maksymalna kwota, o którą może być zwiększone wynagrodzenie za dokonanie czynności notarialnej poza kancelarią notarialną, wynosi:
 1)
 w porze dziennej – 50 zł,
 2)
-w porze nocnej oraz w dni wolne od pracy – 100 zł
-za każdą godzinę niezbędną do dokonania tej czynności od opuszczenia kancelarii do powrotu.
+w porze nocnej oraz w dni wolne od pracy – 100 zł – za każdą godzinę niezbędną do dokonania tej czynności od opuszczenia kancelarii do powrotu.
 2.
 Za porę dzienną liczy się czas między godziną 8 a 20.
+Przepis końcowy
 § 18.
-Rozporządzenie wchodzi w życie z dniem 30 czerwca 2004 r.
+Rozporządzenie wchodzi w życie z dniem 30 czerwca 2004 r. 1) Przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 17 marca 2021 r. zmieniającego rozporządzenie w sprawie maksymalnych stawek taksy notarialnej (Dz. U. poz. 516), które weszło w życie z dniem 1 lipca 2021 r. 2) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Czynności notarialne
+#### Rozdział 2 – Czynności notarialne
 
-##### Oddział 1 Akty notarialne
+#### Rozdział 3 – Zwiększenie wynagrodzenia za dokonanie czynności notarialnej poza kancelarią notarialną
 
-##### Oddział 2 Wypisy, odpisy i wyciągi
+#### Rozdział 4 – Przepis końcowy
 
-##### Oddział 3 Poświadczenia
+#### Rozdział 1
+
+#### Rozdział 2
+
+##### Oddział 1
+
+##### Oddział 2
+
+##### Oddział 3
 
 ##### Oddział 4
 
-##### Oddział 5 Protesty
+##### Oddział 5
 
-##### Oddział 6 Inne czynności
+##### Oddział 6
 
-#### Rozdział 3 Zwiększenie wynagrodzenia za dokonanie czynności notarialnej poza kancelarią notarialną
+#### Rozdział 3
 
-#### Rozdział 4 Przepis końcowy
+#### Rozdział 4
 

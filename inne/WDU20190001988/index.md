@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Inwestycji i Rozwojuz dnia 15 października 2019 r. w sprawie szczegółowego zakresu danych zawartych w deklaracjach podatkowych i w ewidencji w zakresie podatku od towarów i usług
+# Rozporządzenie Ministra Finansów, Inwestycji i Rozwojuz dnia 15 października 2019 r. w sprawie szczegółowego zakresu danych zawartych w deklaracjach podatkowych i w ewidencji w zakresie podatku od towarów i usług Minister Finansów, Inwestycji i Rozwoju kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 26 września 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Inwestycji i Rozwoju (Dz. U. poz. 1841).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-15 |
 | Data wydania | 2019-10-18 |
-| Wejście w życie | 2020-04-01 |
 | Ostatnia zmiana | 2025-02-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001988) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1988/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – przepisy ogólne Rozdział 2 – szczegółowy zakres danych zawartych w deklaracjach Rozdział 3 – szczegółowy zakres danych zawartych w ewidencji Rozdział 4 – przepis końcowy
+Treść rozporządzenia
 Załącznik – Objaśnienia co do sposobu wypełniania i miejsca składania deklaracji oraz sposób wykazywania danych w ewidencji przesyłanej zgodnie z art. 109 ust. 3b i 3c ustawy
 Treść rozporządzenia
-Na podstawie art. 99 ust. 13b oraz art. 109 ust. 14 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 99 ust. 13b oraz art. 109 ust. 14 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495, 1520, 1751 i 1818.) zarządza się, co następuje:
+przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa:
@@ -43,6 +43,7 @@ ewidencji, o której mowa w art. 109 ust. 3 ustawy, zwanej dalej „ewidencją�
 objaśnienia co do sposobu wypełniania i miejsca składania deklaracji podatkowych, o których mowa w art. 99 ust. 1–3 ustawy, zwanych dalej „deklaracjami”, oraz niezbędne pouczenia, a także sposób wykazywania danych w ewidencji przesyłanej zgodnie z art. 109 ust. 3b i 3c ustawy.
 2.
 Objaśnienia co do sposobu wypełniania i miejsca składania deklaracji oraz sposób wykazywania danych w ewidencji przesyłanej zgodnie z art. 109 ust. 3b i 3c ustawy określa załącznik do rozporządzenia.
+szczegółowy zakres danych zawartych w deklaracjach
 § 2.
 Deklaracje zawierają:
 1)
@@ -189,7 +190,7 @@ do przeniesienia na następny okres rozliczeniowy.
 § 7.
 Dodatkowe dane dotyczące rozliczenia, o których mowa w § 2 pkt 11, obejmują:
 1)
-oznaczenie, że podatnik wnosi o zaliczenie zwrotu podatku na poczet przyszłych zobowiązań podatkowych, zgodnie z art. 76 § 1 i art. 76b § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.), wraz z podaniem wysokości zaliczenia oraz rodzaju zobowiązania podatkowego;
+oznaczenie, że podatnik wnosi o zaliczenie zwrotu podatku na poczet przyszłych zobowiązań podatkowych, zgodnie z art. 76 § 1 i art. 76b § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818 i 1978.), wraz z podaniem wysokości zaliczenia oraz rodzaju zobowiązania podatkowego;
 2)
 oznaczenie, że podatnik wykonywał w okresie rozliczeniowym czynności, o których mowa w art. 119 ustawy;
 3)
@@ -208,6 +209,7 @@ Deklaracje zawierają pouczenia podatnika o następującej treści:
 „W przypadku niewpłacenia w obowiązującym terminie podatku podlegającego wpłacie do urzędu skarbowego lub wpłacenia go w niepełnej wysokości niniejsza deklaracja stanowi podstawę do wystawienia tytułu wykonawczego zgodnie z przepisami o postępowaniu egzekucyjnym w administracji.”;
 2)
 „Za podanie nieprawdy lub zatajenie prawdy i przez to narażenie podatku na uszczuplenie grozi odpowiedzialność przewidziana w przepisach Kodeksu karnego skarbowego.”.
+szczegółowy zakres danych zawartych w ewidencji
 § 9.
 Ewidencja zawiera:
 1)
@@ -320,7 +322,7 @@ pojazdów oraz części samochodowych o kodach wyłącznie CN 8701–8708 oraz C
 h)
 metali szlachetnych oraz nieszlachetnych – wyłącznie określonych w poz. 1–3 załącznika nr 12 do ustawy oraz w poz. 12–25, 33–40, 45, 46, 56 i 78 załącznika nr 15 do ustawy – oznaczenie „08”,
 i)
-leków oraz wyrobów medycznych – produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, objętych obowiązkiem zgłoszenia, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2019 r. poz. 499, z późn. zm.) – oznaczenie „09”,
+leków oraz wyrobów medycznych – produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, objętych obowiązkiem zgłoszenia, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2019 r. poz. 499, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 399, 959, 1495, 1542, 1556, 1590, 1818 i 1905.) – oznaczenie „09”,
 j)
 budynków, budowli i gruntów – oznaczenie „10”;
 2)
@@ -460,9 +462,9 @@ Ewidencja, o której mowa w ust. 1, zawiera następujące oznaczenia dowodów na
 „WEW” – dokument wewnętrzny;
 3)
 „MK” – faktura wystawiona przez podatnika będącego dostawcą lub usługodawcą, który wybrał metodę kasową rozliczeń określoną w art. 21 ustawy.
+przepis końcowy
 § 12.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2020 r.
-1) Minister Finansów, Inwestycji i Rozwoju kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 26 września 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Inwestycji i Rozwoju (Dz. U. poz. 1841). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495, 1520, 1751 i 1818. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818 i 1978. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 399, 959, 1495, 1542, 1556, 1590, 1818 i 1905.
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2020 r. 1) Minister Finansów, Inwestycji i Rozwoju kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 26 września 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Inwestycji i Rozwoju (Dz. U. poz. 1841). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495, 1520, 1751 i 1818. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818 i 1978. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 399, 959, 1495, 1542, 1556, 1590, 1818 i 1905.
 Załącznik – Objaśnienia co do sposobu wypełniania i miejsca składania deklaracji oraz sposób wykazywania danych w ewidencji przesyłanej zgodnie z art. 109 ust. 3b i 3c ustawy
 I. OBJAŚNIENIA DO DEKLARACJI
 1.
@@ -548,11 +550,19 @@ Dane, o których mowa w § 10 ust. 1 i 2 oraz § 11 ust. 1 i 3–7 rozporządzen
 13.
 Podatnicy w ewidencji pozwalającej na rozliczenie podatku ujmują faktury i dokumenty według daty powstania obowiązku podatkowego. Dotyczy to także podatników, o których mowa w art. 99 ust. 2 i 3 ustawy, którzy przesyłają ewidencję zgodnie z art. 109 ust. 3c ustawy za pierwszy i drugi miesiąc kwartału – podatnicy ci ujmują w ewidencji za każdy z tych miesięcy zdarzenia zgodnie z datą powstania obowiązku podatkowego, niezależnie od faktu, że rozliczenie kwartału nastąpi w deklaracji składanej razem z ewidencją w trzecim miesiącu kwartału.
 
-#### Rozdział 1 przepisy ogólne
+#### Rozdział 1 – przepisy ogólne
 
-#### Rozdział 2 szczegółowy zakres danych zawartych w deklaracjach
+#### Rozdział 2 – szczegółowy zakres danych zawartych w deklaracjach
 
-#### Rozdział 3 szczegółowy zakres danych zawartych w ewidencji
+#### Rozdział 3 – szczegółowy zakres danych zawartych w ewidencji
 
-#### Rozdział 4 przepis końcowy
+#### Rozdział 4 – przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

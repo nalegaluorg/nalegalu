@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-10-25 |
 | Data wydania | 2013-10-30 |
-| Wejście w życie | 2013-10-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001267) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1267/text.pdf) |
 
@@ -35,11 +34,9 @@ W rozporządzeniu Rady Ministrów z dnia 22 marca 2011 r. w sprawie dróg krajow
 1)
 załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia;
 2)
-w załączniku nr 2 do rozporządzenia w pkt 3 lit. b otrzymuje brzmienie:
-„
+w załączniku nr 2 do rozporządzenia w pkt 3 lit. b otrzymuje brzmienie: „
 b)
-Płońsk – Kroczewo,
-” .
+Płońsk – Kroczewo, ” .
 § 2.
 Do dnia 30 listopada 2013 r. opłata elektroniczna jest pobierana na odcinkach dróg krajowych, o których mowa w pkt 8 lit. c i pkt 11 lit. e załącznika nr 1 do rozporządzenia, o którym mowa w § 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszego rozporządzenia.
 § 3.

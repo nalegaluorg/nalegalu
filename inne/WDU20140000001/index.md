@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-17 |
 | Data wydania | 2014-01-02 |
-| Wejście w życie | 2014-01-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000001) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie suwalskiej specjalnej strefy ekonomicznej (Dz. U. Nr 232, poz. 1559 oraz z 2013 r. poz. 978) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 375,6334 ha, położone na terenach miast: Białystok, Ełk, Grajewo, Łomża i Suwałki oraz gmin: Gołdap, Małkinia Górna i Suwałki.
-” ;
+Strefa obejmuje grunty o powierzchni 375,6334 ha, położone na terenach miast: Białystok, Ełk, Grajewo, Łomża i Suwałki oraz gmin: Gołdap, Małkinia Górna i Suwałki. ” ;
 2)
 w załączniku do rozporządzenia Szczegółowy opis granic i terenu Suwalskiej Specjalnej Strefy Ekonomicznej:
 a)

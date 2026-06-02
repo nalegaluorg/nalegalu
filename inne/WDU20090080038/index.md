@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-12-05 |
 | Data wydania | 2009-01-21 |
-| Wejście w życie | 2009-02-05 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090080038) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/38/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 17, poz. 95, Nr 21, poz. 125, Nr 112, poz. 769, Nr 115, poz. 791, 792 i 793 i Nr 176, poz. 1243, z 2008 r. Nr 63, poz. 394, Nr 67, poz. 411, Nr 141, poz. 888, Nr 171, poz. 1056, Nr 209, poz. 1318, Nr 220, poz. 1417 i 1418, Nr 227, poz. 1505, Nr 228, poz. 1507 i Nr 237, poz. 1654 i 1656 oraz z 2009 r. Nr 6 poz. 33.) wprowadza się następujące zmiany:
 
 - **1)** w art. 8 w ust. 6 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
 - **5)** osobę prowadzącą niepubliczną szkołę, placówkę lub ich zespół, na podstawie przepisów o systemie oświaty. ” ;
@@ -34,7 +33,7 @@ source: "eli-html"
 
 2b. Osoba, o której mowa w art. 6 ust. 1 pkt 2, prowadząca jednocześnie pozarolniczą działalność, o której mowa w art. 8 ust. 6 pkt 1, podlega obowiązkowo ubezpieczeniom emerytalnemu i rentowym z tytułu tej działalności, jeżeli z tytułu wykonywania pracy nakładczej podstawa wymiaru składek na ubezpieczenia emerytalne i rentowe jest niższa od obowiązującej tę osobę najniższej podstawy wymiaru składek dla osób prowadzących pozarolniczą działalność. Może ona dobrowolnie, na swój wniosek, być objęta ubezpieczeniami emerytalnym i rentowymi również z tytułu, o którym mowa w art. 6 ust. 1 pkt 2. ” .
 
-**Art. 2.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421, z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534, z 2007 r. Nr 17, poz. 95, Nr 82, poz. 558, Nr 191, poz. 1368 i 1369 i Nr 200, poz. 1445 oraz z 2008 r. Nr 67, poz. 411, Nr 192, poz. 1180, Nr 228, poz. 1507 i Nr 237, poz. 1656.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 ust. 1 otrzymuje brzmienie: „
 
@@ -67,5 +66,5 @@ source: "eli-html"
 
 4. Minister właściwy do spraw zabezpieczenia społecznego ogłasza w drodze komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie 3 dni roboczych od dnia ogłoszenia przez Prezesa Głównego Urzędu Statystycznego komunikatu, o którym mowa w art. 94 ust. 1 pkt 1 i 2 ustawy, o której mowa w art. 2, wskaźnik waloryzacji, biorąc pod uwagę wskaźniki, o których mowa w art. 89 ust. 1 i 2 ustawy, o której mowa w art. 2, jak również wysokość zwiększenia, o którym mowa w ust. 1.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1, który wchodzi w życie z pierwszym dniem miesiąca kalendarzowego następującego po upływie 30 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1, który wchodzi w życie z pierwszym dniem miesiąca kalendarzowego następującego po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 17, poz. 95, Nr 21, poz. 125, Nr 112, poz. 769, Nr 115, poz. 791, 792 i 793 i Nr 176, poz. 1243, z 2008 r. Nr 63, poz. 394, Nr 67, poz. 411, Nr 141, poz. 888, Nr 171, poz. 1056, Nr 209, poz. 1318, Nr 220, poz. 1417 i 1418, Nr 227, poz. 1505, Nr 228, poz. 1507 i Nr 237, poz. 1654 i 1656 oraz z 2009 r. Nr 6 poz. 33. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421, z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534, z 2007 r. Nr 17, poz. 95, Nr 82, poz. 558, Nr 191, poz. 1368 i 1369 i Nr 200, poz. 1445 oraz z 2008 r. Nr 67, poz. 411, Nr 192, poz. 1180, Nr 228, poz. 1507 i Nr 237, poz. 1656.
 

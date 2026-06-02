@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000818) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/818/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 Rozdział 1 – Przepisy ogólne Rozdział 2 – Koordynacja realizacji programów operacyjnych Rozdział 3 – System realizacji programu operacyjnego Rozdział 4 – System instytucjonalny Rozdział 5 – Desygnacja Rozdział 6 – Przepływy finansowe i system rozliczeń projektu Rozdział 7 – Kontrola i audyt Rozdział 8 – Monitorowanie postępu rzeczowego Rozdział 9 – Pomoc publiczna Rozdział 10 – Instrumenty finansowe Rozdział 10a – Pomoc zwrotna Rozdział 11 – Szczególne instrumenty realizacji programów operacyjnych Rozdział 12 – Projekty Rozdział 13 – Wybór projektów Rozdział 14 – Umowa o dofinansowanie projektu i decyzja o dofinansowaniu projektu Rozdział 15 – Procedura odwoławcza Rozdział 15a – Eksperci Rozdział 16 – Centralny system teleinformatyczny Rozdział 17 – Zmiany w przepisach obowiązujących Rozdział 18 – Przepisy przejściowe i końcowy
+Załącznik – Tekst jednolity ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2018 r. poz. 1431), z uwzględnieniem zmian wprowadzonych:
@@ -39,13 +39,22 @@ ustawą z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. poz. 1572),
 4)
 ustawą z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020),
 5)
-ustawą z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 kwietnia 2020 r.
+ustawą z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 kwietnia 2020 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 69 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o usługach zaufania oraz identyfikacji elektronicznej oraz niektórych innych ustaw (Dz. U. poz. 1544 oraz z 2019 r. poz. 60 i 934), który stanowi:
-„
+art. 69 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o usługach zaufania oraz identyfikacji elektronicznej oraz niektórych innych ustaw (Dz. U. poz. 1544 oraz z 2019 r. poz. 60 i 934), który stanowi: „
+Przepisy ogólne
+Koordynacja realizacji programów operacyjnych
+System realizacji programu operacyjnego
+System instytucjonalny
+Desygnacja
+Przepływy finansowe i system rozliczeń projektu
+Kontrola i audyt
+Monitorowanie postępu rzeczowego
+Pomoc publiczna
+Instrumenty finansowe
+Pomoc zwrotna
 1.
 Środki finansowe stanowiące pomoc zwrotną, o której mowa w rozporządzeniu ogólnym, po wykonaniu zobowiązań wynikających z umowy o dofinansowanie projektu lub decyzji o dofinansowaniu projektu podlegają zwrotowi na rachunek właściwej instytucji wraz z odsetkami i innymi przychodami oraz zyskami powstałymi na skutek obrotu tymi środkami.
 2.
@@ -88,6 +97,12 @@ W celu ponownego wykorzystania środków finansowych, o których mowa w ust. 1, 
 Obsługa finansowa rachunku, o którym mowa w ust. 7, jest prowadzona przez Bank Gospodarstwa Krajowego zgodnie z umową zawartą między dysponentem a Bankiem Gospodarstwa Krajowego.
 10.
 Środki finansowe zgromadzone na rachunku, o którym mowa w ust. 7, są uruchamiane przez Bank Gospodarstwa Krajowego na wniosek dysponenta w celu ich ponownego wykorzystania zgodnie z ust. 3.
+Szczególne instrumenty realizacji programów operacyjnych
+Projekty
+Wybór projektów
+Umowa o dofinansowanie projektu i decyzja o dofinansowaniu projektu
+Procedura odwoławcza
+Eksperci
 1.
 Właściwa instytucja może wyznaczyć ekspertów do:
 1)
@@ -142,6 +157,7 @@ wystąpienia przesłanek powodujących wykreślenie z wykazu, określonych w umo
 złożenia pisemnego wniosku o wykreślenie z wykazu.
 14.
 W przypadku wykreślenia kandydata na eksperta z wykazu, o którym mowa w ust. 11, ponowny wpis do wykazu jest możliwy nie wcześniej niż po upływie roku od dnia wykreślenia. Do kandydata na eksperta ubiegającego się o ponowny wpis do wykazu stosuje się przepisy ust. 2–10.
+Centralny system teleinformatyczny
 1.
 Tworzy się centralny system teleinformatyczny wspierający realizację programów operacyjnych.
 2.
@@ -156,8 +172,55 @@ ewidencjonowaniem danych dotyczących realizacji programów operacyjnych;
 obsługą certyfikacji wydatków;
 4)
 ewaluacją.
+Art. 70W brzmieniu ustalonym przez art. 46 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o usługach zaufania oraz identyfikacji elektronicznej oraz niektórych innych ustaw (Dz. U. poz. 1544 oraz z 2019 r. poz. 60 i 934), która weszła w życie z dniem 11 września 2018 r.; wszedł w życie z dniem 1 stycznia 2020 r..
+1.
+Uwierzytelnianie beneficjenta lub osoby fizycznej, która zgodnie z postanowieniami umowy o dofinansowanie projektu lub decyzji o dofinansowaniu projektu jest upoważniona do reprezentowania beneficjenta w zakresie czynności związanych z realizacją projektu w centralnym systemie teleinformatycznym, wymaga wykorzystania profilu zaufanego, profilu osobistego, innego środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2019 r. poz. 162 i 1590), adekwatnie do poziomu bezpieczeństwa środka identyfikacji elektronicznej wymaganego dla usług świadczonych w tym systemie, albo danych weryfikowanych za pomocą kwalifikowanego certyfikatu podpisu elektronicznego, jeżeli te dane pozwalają na identyfikację i uwierzytelnienie wymagane w celu realizacji usługi online.
+2.
+W przypadku gdy z powodów technicznych wykorzystanie profilu zaufanego nie jest możliwe, uwierzytelnianie w centralnym systemie teleinformatycznym podmiotu, o którym mowa w ust. 1, następuje przez wykorzystanie loginu i hasła wygenerowanego przez ten system.
+Zmiany w przepisach obowiązujących
 Art. 73–95.
 (pominięte)
+Przepisy przejściowe i końcowy
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Koordynacja realizacji programów operacyjnych
+
+#### Rozdział 3 – System realizacji programu operacyjnego
+
+#### Rozdział 4 – System instytucjonalny
+
+#### Rozdział 5 – Desygnacja
+
+#### Rozdział 6 – Przepływy finansowe i system rozliczeń projektu
+
+#### Rozdział 7 – Kontrola i audyt
+
+#### Rozdział 8 – Monitorowanie postępu rzeczowego
+
+#### Rozdział 9 – Pomoc publiczna
+
+#### Rozdział 10 – Instrumenty finansowe
+
+#### Rozdział 10a – Pomoc zwrotna
+
+#### Rozdział 11 – Szczególne instrumenty realizacji programów operacyjnych
+
+#### Rozdział 12 – Projekty
+
+#### Rozdział 13 – Wybór projektów
+
+#### Rozdział 14 – Umowa o dofinansowanie projektu i decyzja o dofinansowaniu projektu
+
+#### Rozdział 15 – Procedura odwoławcza
+
+#### Rozdział 15a – Eksperci
+
+#### Rozdział 16 – Centralny system teleinformatyczny
+
+#### Rozdział 17 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 18 – Przepisy przejściowe i końcowy
 
 **Art. 69.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem:
 
@@ -193,7 +256,7 @@ Art. 73–95.
     - **b)**
     - **c)**
 
-- **2)** z tym że: art. 1 pkt 14 w zakresie dodawanego art. 15h ust. 1 pkt 1 – z mocą od dnia 9 grudnia 2019 r., art. 1 pkt 14 w zakresie dodawanego art. 15zb – z mocą od dnia 7 lutego 2020 r., art. 1 pkt 17 w zakresie dodawanego art. 31x – z mocą od dnia 1 marca 2020 r., art. 1 pkt 11, pkt 14 w zakresie dodawanych art. 15a-15d, art. 15h ust. 1 pkt 2, art. 15l i art. 15zc oraz pkt 17 w zakresie dodawanych art. 31e, art. 31f, art. 31j, art. 31m, art. 31za i art. 31zm – z mocą od dnia 8 marca 2020 r., art. 1 pkt 14 w zakresie dodawanego art. 15f – z mocą od dnia 12 marca 2020 r., art. 1 pkt 14 w zakresie dodawanego art. 15k – z mocą od dnia 13 marca 2020 r., art. 89 – z mocą od dnia 15 marca 2020 r., art. 1 pkt 3 lit. a-c oraz art. 66 – z mocą od dnia 26 marca 2020 r. ” . Załącznik – Tekst jednolity ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020
+- **2)** z tym że: art. 1 pkt 14 w zakresie dodawanego art. 15h ust. 1 pkt 1 – z mocą od dnia 9 grudnia 2019 r., art. 1 pkt 14 w zakresie dodawanego art. 15zb – z mocą od dnia 7 lutego 2020 r., art. 1 pkt 17 w zakresie dodawanego art. 31x – z mocą od dnia 1 marca 2020 r., art. 1 pkt 11, pkt 14 w zakresie dodawanych art. 15a-15d, art. 15h ust. 1 pkt 2, art. 15l i art. 15zc oraz pkt 17 w zakresie dodawanych art. 31e, art. 31f, art. 31j, art. 31m, art. 31za i art. 31zm – z mocą od dnia 8 marca 2020 r., art. 1 pkt 14 w zakresie dodawanego art. 15f – z mocą od dnia 12 marca 2020 r., art. 1 pkt 14 w zakresie dodawanego art. 15k – z mocą od dnia 13 marca 2020 r., art. 89 – z mocą od dnia 15 marca 2020 r., art. 1 pkt 3 lit. a-c oraz art. 66 – z mocą od dnia 26 marca 2020 r. ” . Załącznik – Tekst jednolity ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020Ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320), rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1301/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i przepisów szczególnych dotyczących celu „Inwestycje na rzecz wzrostu i zatrudnienia” oraz w sprawie uchylenia rozporządzenia (WE) nr 1080/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 289), rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1304/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Społecznego i uchylającego rozporządzenie Rady (WE) nr 1081/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 470), rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1300/2013 z dnia 17 grudnia 2013 r. w sprawie Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1084/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 281), rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1299/2013 z dnia 17 grudnia 2013 r. w sprawie przepisów szczegółowych dotyczących wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Europejska współpraca terytorialna” (Dz. Urz. UE L 347 z 20.12.2013, str. 259) – w zakresie dotyczącym wykorzystania Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności w ramach programów realizowanych w zakresie polityki spójności.
     - **a)**
     - **b)**
     - **c)**
@@ -203,7 +266,7 @@ Art. 73–95.
     - **g)**
     - **h)**
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -245,7 +308,7 @@ Art. 73–95.
 - **23)** system teleinformatyczny – system, o którym mowa w art. 125 ust. 2 lit. d rozporządzenia ogólnego;
 - **24)** system zarządzania i kontroli – system, o którym mowa w części drugiej w tytule VIII rozporządzenia ogólnego;
 - **25)** szczegółowy opis osi priorytetowych programu operacyjnego – dokument przygotowany i przyjęty przez instytucję zarządzającą krajowym albo regionalnym programem operacyjnym oraz zatwierdzony w zakresie kryteriów wyboru projektów przez komitet monitorujący, o którym mowa w art. 47 rozporządzenia ogólnego, określający w szczególności zakres działań lub poddziałań realizowanych w ramach poszczególnych osi priorytetowych programu operacyjnego;
-- **26)** umowa o dofinansowanie projektu: umowę zawartą między właściwą instytucją a wnioskodawcą, którego projekt został wybrany do dofinansowania, zawierającą co najmniej elementy, o których mowa w art. 206 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.), porozumienie, o którym mowa w art. 206 ust. 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, zawarte między właściwą instytucją a wnioskodawcą, którego projekt został wybrany do dofinansowania, umowę lub porozumienie zawarte między właściwą instytucją a wnioskodawcą, którego projekt został wybrany do dofinansowania – w ramach programu EWT;
+- **26)** umowa o dofinansowanie projektu: umowę zawartą między właściwą instytucją a wnioskodawcą, którego projekt został wybrany do dofinansowania, zawierającą co najmniej elementy, o których mowa w art. 206 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374 i 568.), porozumienie, o którym mowa w art. 206 ust. 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, zawarte między właściwą instytucją a wnioskodawcą, którego projekt został wybrany do dofinansowania, umowę lub porozumienie zawarte między właściwą instytucją a wnioskodawcą, którego projekt został wybrany do dofinansowania – w ramach programu EWT;
     - **a)**
     - **b)**
     - **c)**
@@ -263,7 +326,7 @@ Art. 73–95.
 
 **Art. 3.** Minister właściwy do spraw rozwoju regionalnego wykonuje, o ile ustawa nie stanowi inaczej, zadania państwa członkowskiego określone w przepisach rozporządzenia ogólnego.
 
-#### Rozdział 2 Koordynacja realizacji programów operacyjnych
+#### Rozdział 2
 
 **Art. 4.**
 
@@ -310,7 +373,7 @@ Art. 73–95.
 - **1)** podaje do publicznej wiadomości, w szczególności na swojej stronie internetowej lub portalu, wytyczne oraz ich zmiany, a także termin, od którego wytyczne lub ich zmiany są stosowane;
 - **2)** ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat o adresie strony internetowej oraz portalu, na których zostaną zamieszczone wytyczne oraz ich zmiany, a także o terminie, od którego wytyczne lub ich zmiany są stosowane.
 
-#### Rozdział 3 System realizacji programu operacyjnego
+#### Rozdział 3
 
 **Art. 6.**
 
@@ -322,7 +385,7 @@ Art. 73–95.
 
 **Art. 8.** Instytucja zarządzająca podaje do publicznej wiadomości na swojej stronie internetowej oraz na portalu szczegółowy opis osi priorytetowych programu operacyjnego oraz jego zmiany, a także termin, od którego szczegółowy opis osi priorytetowych programu operacyjnego oraz jego zmiany są stosowane.
 
-#### Rozdział 4 System instytucjonalny
+#### Rozdział 4
 
 **Art. 9.**
 
@@ -423,7 +486,7 @@ Art. 73–95.
     - **a)**
     - **b)**
 
-- **5)** Rady Głównej Nauki i Szkolnictwa Wyższego lub Konferencji Rektorów Akademickich Szkół Polskich o wyznaczenie, z uwzględnieniem zakresu programu operacyjnego, jednego lub więcej przedstawicieli do składu komitetu monitorującego.
+- **5)** Rady Głównej Nauki i Szkolnictwa Wyższego lub Konferencji Rektorów Akademickich Szkół Polskich – o wyznaczenie, z uwzględnieniem zakresu programu operacyjnego, jednego lub więcej przedstawicieli do składu komitetu monitorującego.
 
 5. Podmioty, o których mowa w ust. 4, mogą zrezygnować z wyznaczenia przedstawicieli do składu komitetu monitorującego, o czym pisemnie informują instytucję zarządzającą.
 
@@ -431,7 +494,7 @@ Art. 73–95.
 
 - **1)** organizacji związkowych, organizacji pracodawców i izb gospodarczych,
 - **2)** organizacji pozarządowych, o których mowa w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie,
-- **3)** środowiska naukowego stanowią łącznie co najmniej jedną trzecią składu.
+- **3)** środowiska naukowego – stanowią łącznie co najmniej jedną trzecią składu.
 
 7. Instytucja zarządzająca określa rodzaj i liczbę organizacji pozarządowych oraz liczbę ich przedstawicieli w składzie komitetu monitorującego.
 
@@ -476,7 +539,7 @@ Art. 73–95.
 
 10. Przepisów ust. 1–9 nie stosuje się do programów EWT.
 
-#### Rozdział 5 Desygnacja
+#### Rozdział 5
 
 **Art. 15.**
 
@@ -547,13 +610,13 @@ Art. 73–95.
 8. Do zadań komitetu do spraw desygnacji należy w szczególności:
 
 - **1)** udzielanie ministrowi właściwemu do spraw rozwoju regionalnego rekomendacji w zakresie desygnacji, w tym w przypadku wniesienia zastrzeżeń, o których mowa w art. 16 ust. 7,
-- **2)** opiniowanie planu działań naprawczych, o którym mowa w art. 16 ust. 4 pkt 1 z uwzględnieniem wyników audytów przeprowadzonych przez instytucję audytową, wyników kontroli określonych w art. 16 ust. 1 pkt 2 i 3 oraz wyników kontroli przeprowadzonych przez inne upoważnione podmioty.
+- **2)** opiniowanie planu działań naprawczych, o którym mowa w art. 16 ust. 4 pkt 1 – z uwzględnieniem wyników audytów przeprowadzonych przez instytucję audytową, wyników kontroli określonych w art. 16 ust. 1 pkt 2 i 3 oraz wyników kontroli przeprowadzonych przez inne upoważnione podmioty.
 
 9. Komitet do spraw desygnacji jest powoływany na okres realizacji umowy partnerstwa.
 
 10. Tryb pracy komitetu do spraw desygnacji określa regulamin, przyjmowany przez ten komitet, w drodze uchwały, zwykłą większością głosów na posiedzeniu.
 
-#### Rozdział 6 Przepływy finansowe i system rozliczeń projektu
+#### Rozdział 6
 
 **Art. 18.**
 
@@ -575,7 +638,7 @@ Art. 73–95.
 
 - **1)** wnioskuje o przekazanie dofinansowania w formie zaliczki lub refundacji,
 - **2)** wykazuje wydatki poniesione na realizację projektu,
-- **3)** przekazuje informację o postępie realizacji projektu oraz dokumenty niezbędne do rozliczenia projektu określone w umowie o dofinansowanie projektu lub w decyzji o dofinansowaniu projektu, w szczególności w zakresie monitoringu rzeczowo-finansowego, harmonogramów finansowych i trwałości projektu, są składane przez beneficjenta za pośrednictwem systemu teleinformatycznego.
+- **3)** przekazuje informację o postępie realizacji projektu – oraz dokumenty niezbędne do rozliczenia projektu określone w umowie o dofinansowanie projektu lub w decyzji o dofinansowaniu projektu, w szczególności w zakresie monitoringu rzeczowo-finansowego, harmonogramów finansowych i trwałości projektu, są składane przez beneficjenta za pośrednictwem systemu teleinformatycznego.
 
 2. W przypadku gdy z powodów technicznych złożenie dokumentów, o których mowa w ust. 1, za pośrednictwem systemu teleinformatycznego nie jest możliwe, beneficjent, za zgodą właściwej instytucji, składa je w inny sposób wskazany przez tę instytucję.
 
@@ -594,7 +657,7 @@ Art. 73–95.
 
 2. Instytucja audytowa przekazuje instytucji zarządzającej opinię audytową i sprawozdanie, o których mowa w art. 127 ust. 5 lit. a i b rozporządzenia ogólnego, w terminie określonym w art. 59 ust. 5 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 966/2012 z dnia 25 października 2012 r. w sprawie zasad finansowych mających zastosowanie do budżetu ogólnego Unii oraz uchylającego rozporządzenie Rady (WE, Euratom) nr 1605/2002.
 
-#### Rozdział 7 Kontrola i audyt
+#### Rozdział 7
 
 **Art. 22.**
 
@@ -683,7 +746,7 @@ Art. 73–95.
 11. W przypadku gdy nieprawidłowość indywidualna wynika bezpośrednio z działania lub zaniechania:
 
 - **1)** właściwej instytucji lub
-- **2)** organów państwa korygowanie wydatków następuje przez pomniejszenie wydatków ujętych w deklaracji wydatków oraz we wniosku o płatność, przekazywanych do Komisji Europejskiej, o kwotę odpowiadającą oszacowanej wartości korekty finansowej wynikającej z tej nieprawidłowości.
+- **2)** organów państwa – korygowanie wydatków następuje przez pomniejszenie wydatków ujętych w deklaracji wydatków oraz we wniosku o płatność, przekazywanych do Komisji Europejskiej, o kwotę odpowiadającą oszacowanej wartości korekty finansowej wynikającej z tej nieprawidłowości.
 
 12. Zaistnienie okoliczności, o których mowa w ust. 11, stwierdza:
 
@@ -720,13 +783,13 @@ Art. 73–95.
 
 12. Podmiot kontrolowany w wyznaczonym terminie informuje instytucję kontrolującą o sposobie wykonania zaleceń pokontrolnych lub rekomendacji.
 
-#### Rozdział 8 Monitorowanie postępu rzeczowego
+#### Rozdział 8
 
 **Art. 26.**
 
 1. Monitorowanie postępu rzeczowego programu operacyjnego jest prowadzone równolegle z analizą postępu finansowego, z uwzględnieniem danych zebranych z poziomu projektów, obejmujących wartości osiągnięte sprawozdawane we wnioskach o płatność, oraz, w przypadku Europejskiego Funduszu Rozwoju Regionalnego i Funduszu Spójności, również wartości wymienione w umowach o dofinansowanie projektu albo w decyzjach o dofinansowaniu projektu. Monitorowanie postępu rzeczowego może być prowadzone w szczególności w oparciu o dane statystyki publicznej oraz wyniki analiz lub ewaluacji programu operacyjnego. 2. W celu zapewnienia spójności monitorowania postępu rzeczowego w programach operacyjnych, minister właściwy do spraw rozwoju regionalnego wykonujący zadania państwa członkowskiego ustala listę wskaźników kluczowych dla projektów realizowanych w ramach poszczególnych celów tematycznych oraz pomocy technicznej. 3. Minister właściwy do spraw rozwoju regionalnego wykonujący zadania państwa członkowskiego: 1) podaje do publicznej wiadomości, w szczególności na swojej stronie internetowej oraz portalu, listę wskaźników, o których mowa w ust. 2, oraz jej zmiany, a także termin, od którego lista lub jej zmiany są stosowane; 2) ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat o miejscu publikacji listy wskaźników, o których mowa w ust. 2, oraz jej zmian, a także o terminie, od którego lista lub jej zmiany są stosowane. 4. Instytucja zarządzająca może ustalić i monitorować dodatkowe wskaźniki dla danego programu operacyjnego. 5. Dla wskaźników określonych w programie operacyjnym lub w szczegółowym opisie osi priorytetowych programu operacyjnego instytucja zarządzająca ustala wartości docelowe na 2023 r. Wartości docelowych nie ustala się w odniesieniu do wskaźników, o których mowa w art. 96 ust. 2 lit. c pkt (iv) rozporządzenia ogólnego oraz w art. 5 ust. 1 rozporządzenia EFS. 6. Niewykonanie wskaźnika w projekcie może stanowić przesłankę do stwierdzenia nieprawidłowości indywidualnej.
 
-#### Rozdział 9 Pomoc publiczna
+#### Rozdział 9
 
 **Art. 27.**
 
@@ -740,13 +803,11 @@ Art. 73–95.
 
 5. Szczegółowe przeznaczenie, warunki i tryb udzielania pomocy, o której mowa w ust. 1, nieobjętej przepisami, o których mowa w ust. 4, lub innymi przepisami określa umowa o dofinansowanie projektu, decyzja o dofinansowaniu projektu lub akt będący podstawą jej udzielenia.
 
-#### Rozdział 10 Instrumenty finansowe
+#### Rozdział 10
 
 **Art. 28.**
 
-1. Instytucja zarządzająca może zapewnić wkład finansowy ze środków programu operacyjnego na rzecz instrumentów finansowych na zasadach określonych w części drugiej w tytule IV rozporządzenia ogólnego.
-
-2. Podmiotem wdrażającym instrument finansowy lub fundusz funduszy, o którym mowa w art. 2 pkt 27 rozporządzenia ogólnego, może być podmiot wskazany w art. 38 ust. 4 lit. a i b rozporządzenia ogólnego, w tym w szczególności Bank Gospodarstwa Krajowego, Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej oraz Polska Agencja Rozwoju Przedsiębiorczości.
+1. Instytucja zarządzająca może zapewnić wkład finansowy ze środków programu operacyjnego na rzecz instrumentów finansowych na zasadach określonych w części drugiej w tytule IV rozporządzenia ogólnego. 2Ze zmianą wprowadzoną przez art. 28 ustawy z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. poz. 1572), która weszła w życie z dniem 5 września 2019 r.. Podmiotem wdrażającym instrument finansowy lub fundusz funduszy, o którym mowa w art. 2 pkt 27 rozporządzenia ogólnego, może być podmiot wskazany w art. 38 ust. 4 lit. a i b rozporządzenia ogólnego, w tym w szczególności Bank Gospodarstwa Krajowego, Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej oraz Polska Agencja Rozwoju Przedsiębiorczości.
 
 3. Tryb wyboru pośredników finansowych przez podmiot wdrażający fundusz funduszy określa się w umowie o finansowanie, o której mowa w art. 38 ust. 7 lit. a rozporządzenia ogólnego.
 
@@ -788,9 +849,9 @@ Art. 73–95.
 
 8. Środki finansowe zgromadzone na rachunku, o którym mowa w ust. 6, są uruchamiane przez Bank Gospodarstwa Krajowego na wniosek dysponenta w celu ich ponownego wykorzystania zgodnie z ust. 1.
 
-#### Rozdział 10a Pomoc zwrotna
+#### Rozdział 10a
 
-#### Rozdział 11 Szczególne instrumenty realizacji programów operacyjnych
+#### Rozdział 11
 
 **Art. 30.**
 
@@ -799,7 +860,7 @@ Art. 73–95.
 2. W ramach regionalnego programu operacyjnego ZIT:
 
 - **1)** są realizowane na terenie miast będących siedzibą władz samorządu województwa lub wojewody i obszarów powiązanych z nimi funkcjonalnie,
-- **2)** mogą być realizowane na terenie innych miast i obszarów powiązanych z nimi funkcjonalnie wyznaczonych zgodnie z warunkami określonymi w umowie partnerstwa.
+- **2)** mogą być realizowane na terenie innych miast i obszarów powiązanych z nimi funkcjonalnie – wyznaczonych zgodnie z warunkami określonymi w umowie partnerstwa.
 
 3. ZIT są realizowane przez wyodrębnione działania lub poddziałania w ramach co najmniej dwóch osi priorytetowych regionalnego programu operacyjnego finansowanych z dwóch funduszy strukturalnych.
 
@@ -835,7 +896,7 @@ Art. 73–95.
 
 3. Realizacja RLKS odbywa się na zasadach określonych w ustawie z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. z 2019 r. poz. 1167), a w zakresie nieuregulowanym w tej ustawie – na zasadach określonych w niniejszej ustawie.
 
-#### Rozdział 12 Projekty
+#### Rozdział 12
 
 **Art. 31.** Cele programu operacyjnego są osiągane przez realizację projektów objętych dofinansowaniem.
 
@@ -849,7 +910,7 @@ Art. 73–95.
 
 1. W celu wspólnej realizacji projektu, w zakresie określonym przez instytucję zarządzającą krajowym programem operacyjnym albo instytucję zarządzającą regionalnym programem operacyjnym, może zostać utworzone partnerstwo przez podmioty wnoszące do projektu zasoby ludzkie, organizacyjne, techniczne lub finansowe, realizujące wspólnie projekt, zwany dalej „projektem partnerskim”, na warunkach określonych w porozumieniu albo umowie o partnerstwie.
 
-2. Podmiot, o którym mowa w art. 3 ust. 1 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2019 r. poz. 1843), inicjujący projekt partnerski, dokonuje wyboru partnerów spośród podmiotów innych niż wymienione w art. 3 ust. 1 pkt 1–3a tej ustawy, z zachowaniem zasady przejrzystości i równego traktowania.Podmiot, o którym mowa w art. 4, art. 5 ust. 1 i art. 6 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. poz. 2019 oraz z 2020 r. poz. 288), inicjujący projekt partnerski, dokonuje wyboru partnerów spośród podmiotów innych niż wymienione w art. 4 tej ustawy, z zachowaniem zasady przejrzystości i równego traktowania.Podmiot ten, dokonując wyboru, jest obowiązany w szczególności do:
+2. Podmiot, o którym mowa w art. 3 ust. 1 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2019 r. poz. 1843), inicjujący projekt partnerski, dokonuje wyboru partnerów spośród podmiotów innych niż wymienione w art. 3 ust. 1 pkt 1–3a tej ustawy, z zachowaniem zasady przejrzystości i równego traktowania.Zdanie pierwsze w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 6.Podmiot, o którym mowa w art. 4, art. 5 ust. 1 i art. 6 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. poz. 2019 oraz z 2020 r. poz. 288), inicjujący projekt partnerski, dokonuje wyboru partnerów spośród podmiotów innych niż wymienione w art. 4 tej ustawy, z zachowaniem zasady przejrzystości i równego traktowania.Zdanie pierwsze w brzmieniu ustalonym przez art. 68 pkt 1 lit. a ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), która wejdzie w życie z dniem 1 stycznia 2021 r.Podmiot ten, dokonując wyboru, jest obowiązany w szczególności do:
 
 - **1)** ogłoszenia otwartego naboru partnerów na swojej stronie internetowej wraz ze wskazaniem co najmniej 21-dniowego terminu na zgłaszanie się partnerów;
 - **2)** uwzględnienia przy wyborze partnerów: zgodności działania potencjalnego partnera z celami partnerstwa, deklarowanego wkładu potencjalnego partnera w realizację celu partnerstwa, doświadczenia w realizacji projektów o podobnym charakterze;
@@ -859,11 +920,7 @@ Art. 73–95.
 
 3a. W przypadkach uzasadnionych koniecznością zapewnienia prawidłowej i terminowej realizacji projektu, za zgodą właściwej instytucji, może nastąpić zmiana partnera. Do zmiany partnera przepis ust. 2 stosuje się odpowiednio.
 
-4. Do wyboru partnerów z innych niż Rzeczpospolita Polska państw w ramach współpracy ponadnarodowej, o której mowa w art. 10 rozporządzenia EFS, nie stosuje się przepisów ust. 2 pkt 1 i ust. 3.
-
-4a. Podmiot, o którym mowa w art. 3 ust. 1 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych, niebędący podmiotem inicjującym projekt partnerski, po przystąpieniu do realizacji projektu partnerskiego podaje do publicznej wiadomości w Biuletynie Informacji Publicznej informację o rozpoczęciu realizacji projektu partnerskiego wraz z uzasadnieniem przyczyn przystąpienia do jego realizacji oraz wskazaniem partnera wiodącego w tym projekcie.
-
-4a. Podmiot, o którym mowa w art. 4, art. 5 ust. 1 i art. 6 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, niebędący podmiotem inicjującym projekt partnerski, po przystąpieniu do realizacji projektu partnerskiego podaje do publicznej wiadomości w Biuletynie Informacji Publicznej informację o rozpoczęciu realizacji projektu partnerskiego wraz z uzasadnieniem przyczyn przystąpienia do jego realizacji oraz wskazaniem partnera wiodącego w tym projekcie.
+4. Do wyboru partnerów z innych niż Rzeczpospolita Polska państw w ramach współpracy ponadnarodowej, o której mowa w art. 10 rozporządzenia EFS, nie stosuje się przepisów ust. 2 pkt 1 i ust. 3. 4aW tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 8.. Podmiot, o którym mowa w art. 3 ust. 1 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych, niebędący podmiotem inicjującym projekt partnerski, po przystąpieniu do realizacji projektu partnerskiego podaje do publicznej wiadomości w Biuletynie Informacji Publicznej informację o rozpoczęciu realizacji projektu partnerskiego wraz z uzasadnieniem przyczyn przystąpienia do jego realizacji oraz wskazaniem partnera wiodącego w tym projekcie. 4aZe zmianą wprowadzoną przez art. 68 pkt 1 lit. b ustawy, o której mowa w odnośniku 6.. Podmiot, o którym mowa w art. 4, art. 5 ust. 1 i art. 6 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, niebędący podmiotem inicjującym projekt partnerski, po przystąpieniu do realizacji projektu partnerskiego podaje do publicznej wiadomości w Biuletynie Informacji Publicznej informację o rozpoczęciu realizacji projektu partnerskiego wraz z uzasadnieniem przyczyn przystąpienia do jego realizacji oraz wskazaniem partnera wiodącego w tym projekcie.
 
 5. Porozumienie oraz umowa o partnerstwie określają w szczególności:
 
@@ -923,7 +980,7 @@ Art. 73–95.
 
 2. Właściwa instytucja zatwierdza procedury dotyczące realizacji projektu grantowego, opracowane przez beneficjenta projektu grantowego.
 
-#### Rozdział 13 Wybór projektów
+#### Rozdział 13
 
 **Art. 37.**
 
@@ -954,21 +1011,11 @@ Art. 73–95.
 1. Wybór projektów do dofinansowania następuje w trybie:
 
 - **1)** konkursowym;
-- **2)** pozakonkursowym;
-- **3)** o którym mowa w art. 39, art. 47, art. 54, art. 60a oraz art. 61 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych.
-- **3)** o którym mowa w art. 132, art. 140, art. 152, art. 169 i art. 208 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
+- **2)** pozakonkursowym; 3W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 10.) o którym mowa w art. 39, art. 47, art. 54, art. 60a oraz art. 61 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych. 3W brzmieniu ustalonym przez art. 68 pkt 2 lit. a ustawy, o której mowa w odnośniku 6.) o którym mowa w art. 132, art. 140, art. 152, art. 169 i art. 208 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
 
 2. Tryb pozakonkursowy może być zastosowany do wyboru projektów, których wnioskodawcami, ze względu na charakter lub cel projektu, mogą być jedynie podmioty jednoznacznie określone przed złożeniem wniosku o dofinansowanie projektu.
 
-3. W trybie pozakonkursowym mogą być wybierane wyłącznie projekty o strategicznym znaczeniu dla społeczno-gospodarczego rozwoju kraju, regionu lub obszaru objętego realizacją ZIT, lub projekty dotyczące realizacji zadań publicznych.
-
-3a. W trybie, o którym mowa w art. 39, art. 47, art. 54, art. 60a oraz art. 61 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych, mogą być wybierane wyłącznie projekty realizowane w ramach instrumentów finansowych, o których mowa w art. 28 ust. 1.
-
-3a. W trybie, o którym mowa w art. 132, art. 140, art. 152, art. 169 i art. 208 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, mogą być wybierane wyłącznie projekty realizowane w ramach instrumentów finansowych, o których mowa w art. 28 ust. 1.
-
-3b. Projekty realizowane w ramach instrumentów finansowych, o których mowa w art. 28 ust. 1, mogą być wybierane wyłącznie w trybie, o którym mowa w ust. 1 pkt 2 albo w art. 39, art. 47, art. 54, art. 60a oraz art. 61 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych.
-
-3b. Projekty realizowane w ramach instrumentów finansowych, o których mowa w art. 28 ust. 1, mogą być wybierane wyłącznie w trybie, o którym mowa w ust. 1 pkt 2 albo w art. 132, art. 140, art. 152, art. 169 i art. 208 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
+3. W trybie pozakonkursowym mogą być wybierane wyłącznie projekty o strategicznym znaczeniu dla społeczno-gospodarczego rozwoju kraju, regionu lub obszaru objętego realizacją ZIT, lub projekty dotyczące realizacji zadań publicznych. 3aW tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 12.. W trybie, o którym mowa w art. 39, art. 47, art. 54, art. 60a oraz art. 61 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych, mogą być wybierane wyłącznie projekty realizowane w ramach instrumentów finansowych, o których mowa w art. 28 ust. 1. 3aZe zmianą wprowadzoną przez art. 68 pkt 2 lit. b ustawy, o której mowa w odnośniku 6.. W trybie, o którym mowa w art. 132, art. 140, art. 152, art. 169 i art. 208 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, mogą być wybierane wyłącznie projekty realizowane w ramach instrumentów finansowych, o których mowa w art. 28 ust. 1. 3bW tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 12.. Projekty realizowane w ramach instrumentów finansowych, o których mowa w art. 28 ust. 1, mogą być wybierane wyłącznie w trybie, o którym mowa w ust. 1 pkt 2 albo w art. 39, art. 47, art. 54, art. 60a oraz art. 61 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych. 3bZe zmianą wprowadzoną przez art. 68 pkt 2 lit. b ustawy, o której mowa w odnośniku 6.. Projekty realizowane w ramach instrumentów finansowych, o których mowa w art. 28 ust. 1, mogą być wybierane wyłącznie w trybie, o którym mowa w ust. 1 pkt 2 albo w art. 132, art. 140, art. 152, art. 169 i art. 208 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
 
 4. Wybór określonego trybu należy do właściwej instytucji.
 
@@ -1143,7 +1190,7 @@ Art. 73–95.
 
 **Art. 51.** Przepisów niniejszego rozdziału, z wyjątkiem art. 37 ust. 6 i 7, nie stosuje się do programów EWT.
 
-#### Rozdział 14 Umowa o dofinansowanie projektu i decyzja o dofinansowaniu projektu
+#### Rozdział 14
 
 **Art. 52.**
 
@@ -1153,7 +1200,7 @@ Art. 73–95.
 
 3. W przypadku projektu partnerskiego umowa o dofinansowanie projektu jest zawierana z partnerem wiodącym, o którym mowa w art. 33 ust. 5 pkt 4, będącym beneficjentem, odpowiedzialnym za przygotowanie i realizację projektu. Umowa o dofinansowanie projektu oraz decyzja o dofinansowaniu projektu mogą zostać zmienione, w przypadku gdy zmiany nie wpływają na spełnianie kryteriów wyboru projektu w sposób, który skutkowałby negatywną oceną tego projektu.
 
-#### Rozdział 15 Procedura odwoławcza
+#### Rozdział 15
 
 **Art. 53.**
 
@@ -1247,7 +1294,7 @@ Art. 73–95.
 
 - **1)** po terminie,
 - **2)** przez podmiot wykluczony z możliwości otrzymania dofinansowania,
-- **3)** bez spełnienia wymogów określonych w art. 54 ust. 2 pkt 4 o czym wnioskodawca jest informowany na piśmie odpowiednio przez instytucję, o której mowa w art. 39 ust. 1, za pośrednictwem której wniesiono protest, albo przez właściwą instytucję, o której mowa w art. 55.
+- **3)** bez spełnienia wymogów określonych w art. 54 ust. 2 pkt 4 – o czym wnioskodawca jest informowany na piśmie odpowiednio przez instytucję, o której mowa w art. 39 ust. 1, za pośrednictwem której wniesiono protest, albo przez właściwą instytucję, o której mowa w art. 55.
 
 2. Informacja, o której mowa w ust. 1, zawiera pouczenie o możliwości wniesienia skargi do sądu administracyjnego na zasadach określonych w art. 61.
 
@@ -1264,7 +1311,7 @@ Art. 73–95.
 - **1)** wniosek o dofinansowanie projektu,
 - **2)** informację o wynikach oceny projektu, o której mowa w art. 45 ust. 4,
 - **3)** wniesiony protest,
-- **4)** informację, o której mowa w art. 58 ust. 1 albo ust. 4 pkt 2, art. 59 albo art. 66 ust. 2 pkt 1 wraz z ewentualnymi załącznikami.
+- **4)** informację, o której mowa w art. 58 ust. 1 albo ust. 4 pkt 2, art. 59 albo art. 66 ust. 2 pkt 1 – wraz z ewentualnymi załącznikami.
 
 4. Kompletna dokumentacja jest wnoszona przez wnioskodawcę w oryginale lub w postaci uwierzytelnionej kopii.
 
@@ -1274,7 +1321,7 @@ Art. 73–95.
 
 - **1)** po terminie, o którym mowa w ust. 2,
 - **2)** bez kompletnej dokumentacji,
-- **3)** bez uiszczenia wpisu stałego w terminie, o którym mowa w ust. 2 powoduje pozostawienie jej bez rozpatrzenia, z zastrzeżeniem ust. 7.
+- **3)** bez uiszczenia wpisu stałego w terminie, o którym mowa w ust. 2 – powoduje pozostawienie jej bez rozpatrzenia, z zastrzeżeniem ust. 7.
 
 7. W przypadku wniesienia skargi bez kompletnej dokumentacji lub bez uiszczenia wpisu stałego sąd wzywa wnioskodawcę do uzupełnienia dokumentacji lub uiszczenia wpisu w terminie 7 dni od dnia otrzymania wezwania, pod rygorem pozostawienia skargi bez rozpatrzenia. Wezwanie wstrzymuje bieg terminu, o którym mowa w ust. 5.
 
@@ -1293,7 +1340,7 @@ Art. 73–95.
 
 - **1)** wnioskodawca,
 - **2)** właściwa instytucja, o której mowa w art. 55,
-- **3)** właściwa instytucja, o której mowa w art. 39 ust. 1 – w przypadku pozostawienia protestu bez rozpatrzenia oraz dokonania negatywnej ponownej oceny projektu przez tę instytucję w terminie 14 dni od dnia doręczenia rozstrzygnięcia wojewódzkiego sądu administracyjnego. Przepisy art. 61 ust. 3, 4, 6 i 7 stosuje się odpowiednio.
+- **3)** właściwa instytucja, o której mowa w art. 39 ust. 1 – w przypadku pozostawienia protestu bez rozpatrzenia oraz dokonania negatywnej ponownej oceny projektu przez tę instytucję – w terminie 14 dni od dnia doręczenia rozstrzygnięcia wojewódzkiego sądu administracyjnego. Przepisy art. 61 ust. 3, 4, 6 i 7 stosuje się odpowiednio.
 
 2. Skarga, o której mowa w ust. 1, jest rozpatrywana w terminie 30 dni od dnia jej wniesienia.
 
@@ -1316,35 +1363,25 @@ Art. 73–95.
 
 **Art. 68.** Przepisów niniejszego rozdziału nie stosuje się do programów EWT.
 
-#### Rozdział 15a Eksperci
+#### Rozdział 15a
 
-#### Rozdział 16 Centralny system teleinformatyczny
+#### Rozdział 16
 
-**Art. 70.**
-
-1. Uwierzytelnianie beneficjenta lub osoby fizycznej, która zgodnie z postanowieniami umowy o dofinansowanie projektu lub decyzji o dofinansowaniu projektu jest upoważniona do reprezentowania beneficjenta w zakresie czynności związanych z realizacją projektu w centralnym systemie teleinformatycznym, wymaga wykorzystania profilu zaufanego, profilu osobistego, innego środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2019 r. poz. 162 i 1590), adekwatnie do poziomu bezpieczeństwa środka identyfikacji elektronicznej wymaganego dla usług świadczonych w tym systemie, albo danych weryfikowanych za pomocą kwalifikowanego certyfikatu podpisu elektronicznego, jeżeli te dane pozwalają na identyfikację i uwierzytelnienie wymagane w celu realizacji usługi online.
-
-2. W przypadku gdy z powodów technicznych wykorzystanie profilu zaufanego nie jest możliwe, uwierzytelnianie w centralnym systemie teleinformatycznym podmiotu, o którym mowa w ust. 1, następuje przez wykorzystanie loginu i hasła wygenerowanego przez ten system.
-
-**Art. 71.**
-
-1. Minister właściwy do spraw rozwoju regionalnego jest administratorem danych osobowych gromadzonych w centralnym systemie teleinformatycznym.
-
-2. Dane dotyczące uczestników projektów w rozumieniu załącznika I lub II do rozporządzenia EFS zgromadzone w centralnym systemie teleinformatycznym mogą zostać udostępnione Prezesowi Zakładu Ubezpieczeń Społecznych w związku z realizacją zadań wynikających z art. 50 ust. 3a i 3c ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2020 r. poz. 266, 321 i 568).
+**Art. 71.** 1W brzmieniu ustalonym przez art. 127 ustawy z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730), która weszła w życie z dniem 4 maja 2019 r.. Minister właściwy do spraw rozwoju regionalnego jest administratorem danych osobowych gromadzonych w centralnym systemie teleinformatycznym. 2. Dane dotyczące uczestników projektów w rozumieniu załącznika I lub II do rozporządzenia EFS zgromadzone w centralnym systemie teleinformatycznym mogą zostać udostępnione Prezesowi Zakładu Ubezpieczeń Społecznych w związku z realizacją zadań wynikających z art. 50 ust. 3a i 3c ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2020 r. poz. 266, 321 i 568).
 
 **Art. 72.** W zakresie nieuregulowanym w art. 69 i art. 70 w odniesieniu do minimalnych wymagań dla systemów teleinformatycznych, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej, wymiany informacji drogą elektroniczną, w tym dokumentów elektronicznych, pomiędzy podmiotami publicznymi a podmiotami niebędącymi podmiotami publicznymi stosuje się przepisy ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-#### Rozdział 17 Zmiany w przepisach obowiązujących
+#### Rozdział 17
 
-#### Rozdział 18 Przepisy przejściowe i końcowy
+#### Rozdział 18
 
 **Art. 96.** Programy Europejskiej Współpracy Terytorialnej, o których mowa w rozporządzeniu EWT, przyjęte przez Komisję Europejską przed dniem wejścia w życie ustawy stają się programami Europejskiej Współpracy Terytorialnej w rozumieniu niniejszej ustawy.
 
 **Art. 97.**
 
-1. Projekt Programu Operacyjnego Pomoc Żywnościowa 2014–2020 przyjęty przez Radę Ministrów przed dniem wejścia w życie ustawy staje się Programem Operacyjnym w rozumieniu ustawy zmienianej w art. 85, w brzmieniu nadanym niniejszą ustawą, i może być zmieniany.
+1. Projekt Programu Operacyjnego Pomoc Żywnościowa 2014–2020 przyjęty przez Radę Ministrów przed dniem wejścia w życie ustawy staje się Programem Operacyjnym w rozumieniu ustawy zmienianej w art. 85Artykuł 85 zawiera zmiany do ustawy z dnia 12 marca 2004 r. o pomocy społecznej., w brzmieniu nadanym niniejszą ustawą, i może być zmieniany.
 
-2. W przypadku zatwierdzenia przez Komisję Europejską przed dniem wejścia w życie ustawy projektu Programu Operacyjnego Pomoc Żywnościowa 2014–2020 program ten staje się Programem Operacyjnym w rozumieniu ustawy zmienianej w art. 85, w brzmieniu nadanym niniejszą ustawą, i może być zmieniany.
+2. W przypadku zatwierdzenia przez Komisję Europejską przed dniem wejścia w życie ustawy projektu Programu Operacyjnego Pomoc Żywnościowa 2014–2020 program ten staje się Programem Operacyjnym w rozumieniu ustawy zmienianej w art. 85Artykuł 85 zawiera zmiany do ustawy z dnia 12 marca 2004 r. o pomocy społecznej., w brzmieniu nadanym niniejszą ustawą, i może być zmieniany.
 
 **Art. 98.**
 
@@ -1361,14 +1398,11 @@ Art. 73–95.
 
 5. Środki finansowe zgromadzone na rachunku, o którym mowa w ust. 2, są uruchamiane przez Bank Gospodarstwa Krajowego wyłącznie na wniosek podmiotu określonego w ust. 4.
 
-**Art. 99.** Do spraw z zakresu ustalania i nakładania korekt finansowych, o których mowa w art. 98 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999, w których właściwa instytucja przed dniem wejścia w życie ustawy nie nałożyła korekty finansowej, stosuje się przepisy ustawy zmienianej w art. 90, w brzmieniu nadanym niniejszą ustawą.
+**Art. 99.** Do spraw z zakresu ustalania i nakładania korekt finansowych, o których mowa w art. 98 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999, w których właściwa instytucja przed dniem wejścia w życie ustawy nie nałożyła korekty finansowej, stosuje się przepisy ustawy zmienianej w art. 90Artykuł 90 zawiera zmiany do ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju., w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 100.** Przepisy art. 121 ust. 2 ustawy zmienianej w art. 92, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do ustawy budżetowej na rok 2015. Przepisy art. 189 ust. 1 i 2 ustawy zmienianej w art. 92, w brzmieniu nadanym niniejszą ustawą, stosuje się do środków przekazywanych w ramach programów operacyjnych obejmujących perspektywę finansową 2014–2020.
+**Art. 100.** Przepisy art. 121 ust. 2 ustawy zmienianej w art. 92Artykuł 92 zawiera zmiany do ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych., w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do ustawy budżetowej na rok 2015. Przepisy art. 189 ust. 1 i 2 ustawy zmienianej w art. 92Artykuł 92 zawiera zmiany do ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych., w brzmieniu nadanym niniejszą ustawą, stosuje się do środków przekazywanych w ramach programów operacyjnych obejmujących perspektywę finansową 2014–2020.
 
 **Art. 102.** Instytucja zarządzająca w terminie miesiąca od dnia wejścia w życie ustawy zamieszcza na swojej stronie internetowej oraz na portalu, o którym mowa w art. 115 ust. 1 lit. b rozporządzenia ogólnego, harmonogram naborów wniosków o dofinansowanie projektu w trybie konkursowym, których prowadzenie jest planowane w roku, w którym ustawa weszła w życie.
 
-**Art. 103.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-
-- **1)** Ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320), rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1301/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i przepisów szczególnych dotyczących celu „Inwestycje na rzecz wzrostu i zatrudnienia” oraz w sprawie uchylenia rozporządzenia (WE) nr 1080/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 289), rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1304/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Społecznego i uchylającego rozporządzenie Rady (WE) nr 1081/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 470), rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1300/2013 z dnia 17 grudnia 2013 r. w sprawie Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1084/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 281), rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1299/2013 z dnia 17 grudnia 2013 r. w sprawie przepisów szczegółowych dotyczących wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Europejska współpraca terytorialna” (Dz. Urz. UE L 347 z 20.12.2013, str. 259) – w zakresie dotyczącym wykorzystania Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności w ramach programów realizowanych w zakresie polityki spójności. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374 i 568. 3) Ze zmianą wprowadzoną przez art. 28 ustawy z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. poz. 1572), która weszła w życie z dniem 5 września 2019 r. 4) Dodany przez art. 44 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568), która weszła w życie z dniem 31 marca 2020 r. 5) Zdanie pierwsze w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 6. 6) Zdanie pierwsze w brzmieniu ustalonym przez art. 68 pkt 1 lit. a ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), która wejdzie w życie z dniem 1 stycznia 2021 r. 7) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 8. 8) Ze zmianą wprowadzoną przez art. 68 pkt 1 lit. b ustawy, o której mowa w odnośniku 6. 9) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 10. 10) W brzmieniu ustalonym przez art. 68 pkt 2 lit. a ustawy, o której mowa w odnośniku 6. 11) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 12. 12) Ze zmianą wprowadzoną przez art. 68 pkt 2 lit. b ustawy, o której mowa w odnośniku 6. 13) W brzmieniu ustalonym przez art. 46 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o usługach zaufania oraz identyfikacji elektronicznej oraz niektórych innych ustaw (Dz. U. poz. 1544 oraz z 2019 r. poz. 60 i 934), która weszła w życie z dniem 11 września 2018 r.; wszedł w życie z dniem 1 stycznia 2020 r. 14) W brzmieniu ustalonym przez art. 127 ustawy z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730), która weszła w życie z dniem 4 maja 2019 r. 15) Artykuł 85 zawiera zmiany do ustawy z dnia 12 marca 2004 r. o pomocy społecznej. 16) Artykuł 90 zawiera zmiany do ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju. 17) Artykuł 92 zawiera zmiany do ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. 18) Ustawa została ogłoszona w dniu 29 sierpnia 2014 r.
-
+**Art. 103.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 29 sierpnia 2014 r.. 1) Ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320), rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1301/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i przepisów szczególnych dotyczących celu „Inwestycje na rzecz wzrostu i zatrudnienia” oraz w sprawie uchylenia rozporządzenia (WE) nr 1080/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 289), rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1304/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Społecznego i uchylającego rozporządzenie Rady (WE) nr 1081/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 470), rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1300/2013 z dnia 17 grudnia 2013 r. w sprawie Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1084/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 281), rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1299/2013 z dnia 17 grudnia 2013 r. w sprawie przepisów szczegółowych dotyczących wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Europejska współpraca terytorialna” (Dz. Urz. UE L 347 z 20.12.2013, str. 259) – w zakresie dotyczącym wykorzystania Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności w ramach programów realizowanych w zakresie polityki spójności. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374 i 568. 3) Ze zmianą wprowadzoną przez art. 28 ustawy z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. poz. 1572), która weszła w życie z dniem 5 września 2019 r. 4) Dodany przez art. 44 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568), która weszła w życie z dniem 31 marca 2020 r. 5) Zdanie pierwsze w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 6. 6) Zdanie pierwsze w brzmieniu ustalonym przez art. 68 pkt 1 lit. a ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), która wejdzie w życie z dniem 1 stycznia 2021 r. 7) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 8. 8) Ze zmianą wprowadzoną przez art. 68 pkt 1 lit. b ustawy, o której mowa w odnośniku 6. 9) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 10. 10) W brzmieniu ustalonym przez art. 68 pkt 2 lit. a ustawy, o której mowa w odnośniku 6. 11) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 12. 12) Ze zmianą wprowadzoną przez art. 68 pkt 2 lit. b ustawy, o której mowa w odnośniku 6. 13) W brzmieniu ustalonym przez art. 46 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o usługach zaufania oraz identyfikacji elektronicznej oraz niektórych innych ustaw (Dz. U. poz. 1544 oraz z 2019 r. poz. 60 i 934), która weszła w życie z dniem 11 września 2018 r.; wszedł w życie z dniem 1 stycznia 2020 r. 14) W brzmieniu ustalonym przez art. 127 ustawy z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730), która weszła w życie z dniem 4 maja 2019 r. 15) Artykuł 85 zawiera zmiany do ustawy z dnia 12 marca 2004 r. o pomocy społecznej. 16) Artykuł 90 zawiera zmiany do ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju. 17) Artykuł 92 zawiera zmiany do ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. 18) Ustawa została ogłoszona w dniu 29 sierpnia 2014 r.
 

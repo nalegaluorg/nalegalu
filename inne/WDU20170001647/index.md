@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 25 sierpnia 2017 r. zmieniające rozporządzenie w sprawie szczegółowych zasad działania publicznych poradni psychologiczno-pedagogicznych, w tym publicznych poradni specjalistycznych
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 25 sierpnia 2017 r. zmieniające rozporządzenie w sprawie szczegółowych zasad działania publicznych poradni psychologiczno-pedagogicznych, w tym publicznych poradni specjalistycznych Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,23 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-25 |
 | Data wydania | 2017-08-31 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001647) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1647/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 71 ust. 1 pkt 2 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 71 ust. 1 pkt 2 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Edukacji Narodowej z dnia 1 lutego 2013 r. w sprawie szczegółowych zasad działania publicznych poradni psychologiczno-pedagogicznych, w tym publicznych poradni specjalistycznych (Dz. U. poz. 199) wprowadza się następujące zmiany:
 1)
-w § 4 ust. 1 otrzymuje brzmienie:
-„
+w § 4 ust. 1 otrzymuje brzmienie: „
 1.
-Opinie, o których mowa w § 3 ust. 2 pkt 1, poradnia wydaje w sprawach określonych w ustawie z dnia 7 września 1991 r. o systemie oświaty, zwanej dalej „ustawą o systemie oświaty”, w ustawie z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2017 r. poz. 59 i 949), zwanej dalej „ustawą Prawo oświatowe”, w ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60 i 962) oraz w przepisach wydanych na podstawie tych ustaw. Jeżeli przepisy te nie stanowią inaczej, opinie wydaje się zgodnie z przepisami § 5 i § 6.
-” ;
+Opinie, o których mowa w § 3 ust. 2 pkt 1, poradnia wydaje w sprawach określonych w ustawie z dnia 7 września 1991 r. o systemie oświaty, zwanej dalej „ustawą o systemie oświaty”, w ustawie z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2017 r. poz. 59 i 949), zwanej dalej „ustawą Prawo oświatowe”, w ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60 i 962) oraz w przepisach wydanych na podstawie tych ustaw. Jeżeli przepisy te nie stanowią inaczej, opinie wydaje się zgodnie z przepisami § 5 i § 6. ” ;
 2)
-w § 10 ust. 1 otrzymuje brzmienie:
-„
+w § 10 ust. 1 otrzymuje brzmienie: „
 1.
 Wspomaganie przedszkoli, szkół i placówek, o którym mowa w § 2 pkt 4, polega na zaplanowaniu i przeprowadzeniu działań mających na celu poprawę jakości pracy przedszkola, szkoły lub placówki w zakresie:
 1)
@@ -54,15 +50,11 @@ analizy wyników i wniosków z nadzoru pedagogicznego oraz wyników egzaminów, 
 6)
 potrzeb zdiagnozowanych na podstawie analizy wyników i wniosków, o których mowa w pkt 5;
 7)
-innych potrzeb wskazanych przez przedszkole, szkołę lub placówkę.
-” ;
+innych potrzeb wskazanych przez przedszkole, szkołę lub placówkę. ” ;
 3)
-w § 19 w ust. 1 pkt 3 otrzymuje brzmienie:
-„
+w § 19 w ust. 1 pkt 3 otrzymuje brzmienie: „
 3)
-dokumentację, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 7 ustawy Prawo oświatowe.
-” .
+dokumentację, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 7 ustawy Prawo oświatowe. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.
 

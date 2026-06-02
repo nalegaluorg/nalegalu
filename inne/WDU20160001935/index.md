@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 4 listopada 2016 r. o zmianie ustawy o transporcie drogowym
+# Ustawa z dnia 4 listopada 2016 r. o zmianie ustawy o transporcie drogowym Niniejsza ustawa służy stosowaniu: 1) rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1071/2009 z dnia 21 października 2009 r. ustanawiającego wspólne zasady dotyczące warunków wykonywania zawodu przewoźnika drogowego i uchylającego dyrektywę Rady 96/26/WE (Dz. Urz. UE L 300 z 14.11.2009, str. 51, z późn. zm.); 2) rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1072/2009 z dnia 21 października 2009 r. dotyczącego wspólnych zasad dostępu do rynku międzynarodowych przewozów drogowych (Dz. Urz. UE L 300 z 14.11.2009, str. 72, z późn. zm.); 3) rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006 (Dz. Urz. UE L 300 z 14.11.2009, str. 88, z późn. zm.); 4) decyzji Komisji z dnia 17 grudnia 2009 r. w sprawie minimalnych wymogów dotyczących danych, które mają być wprowadzane do krajowego rejestru elektronicznego przedsiębiorców transportu drogowego (Dz. Urz. UE L 339 z 22.12.2009, str. 36); 5) rozporządzenia Komisji (UE) nr 1213/2010 z dnia 16 grudnia 2010 r. ustanawiającego wspólne zasady dotyczące połączenia krajowych rejestrów elektronicznych przedsiębiorców transportu drogowego (Dz. Urz. UE L 335 z 18.12.2010, str. 21); 6) rozporządzenia Komisji (UE) nr 2016/403 z dnia 18 marca 2016 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1071/2009 w odniesieniu do klasyfikacji poważnych naruszeń przepisów unijnych, które mogą prowadzić do utraty dobrej reputacji przez przewoźnika drogowego, oraz zmieniającego załącznik III do dyrektywy 2006/22/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 74 z 19.03.2016, str. 8).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-04 |
 | Data wydania | 2016-11-30 |
-| Wejście w życie | 2016-12-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001935) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1935/text.pdf) |
 
+Krajowy Rejestr Elektroniczny Przedsiębiorców Transportu Drogowego
+
 **Art. 1.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2016 r. poz. 1907) wprowadza się następujące zmiany:
 
-- **1)** w tytule ustawy dodaje się odnośnik nr 2 w brzmieniu: „
+- **1)** w tytule ustawy dodaje się odnośnik nr 2 w brzmieniu: „ 2) Niniejsza ustawa służy stosowaniu:
 - **1)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1071/2009 z dnia 21 października 2009 r. ustanawiającego wspólne zasady dotyczące warunków wykonywania zawodu przewoźnika drogowego i uchylającego dyrektywę Rady 96/26/WE (Dz. Urz. UE L 300 z 14.11.2009, str. 51, z późn. zm.);
 - **2)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1072/2009 z dnia 21 października 2009 r. dotyczącego wspólnych zasad dostępu do rynku międzynarodowych przewozów drogowych (Dz. Urz. UE L 300 z 14.11.2009, str. 72, z późn. zm.);
 - **3)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006 (Dz. Urz. UE L 300 z 14.11.2009, str. 88, z późn. zm.);
@@ -41,11 +42,13 @@ source: "eli-html"
 
 - **1)** art. 173–175, art. 178–180, art. 189a, art. 218–221, art. 296–306 i art. 308 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2016 r. poz. 1137);
 - **2)** art. 586–589 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2016 r. poz. 1578 i 1579);
-- **3)** art. 522 i art. 523 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233, z późn. zm.);
+- **3)** art. 522 i art. 523 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 978, 1166, 1259 i 1844 oraz z 2016 r. poz. 615, 996 i 1579.);
 - **4)** art. 53–64 i art. 68 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2016 r. poz. 224 i 437);
 - **5)** art. 399 i art. 400 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2016 r. poz. 1574 i 1579). ” ;
-- **3)** w art. 7a: w ust. 3: – w pkt 6 część wspólna otrzymuje brzmienie: „ – o niekaralności za przestępstwa w dziedzinach określonych w art. 6 ust. 1 lit. a rozporządzenia (WE) nr 1071/2009, wymienione w art. 5 ust. 2a; ” , – po pkt 6 dodaje się pkt 7 w brzmieniu: „ 7) oświadczenie osób, o których mowa w pkt 6, o niekaralności za poważne naruszenie, o którym mowa w art. 6 ust. 1 lit. b rozporządzenia (WE) nr 1071/2009, w tym najpoważniejsze naruszenie określone w załączniku IV do rozporządzenia (WE) nr 1071/2009. ” , w ust. 6 w zdaniu pierwszym wyrazy „4 i 6” zastępuje się wyrazami „4 i 7”;
+- **3)** w art. 7a: w ust. 3: w pkt 6 część wspólna otrzymuje brzmienie: „ – o niekaralności za przestępstwa w dziedzinach określonych w art. 6 ust. 1 lit. a rozporządzenia (WE) nr 1071/2009, wymienione w art. 5 ust. 2a; ” , po pkt 6 dodaje się pkt 7 w brzmieniu: „
     - **a)**
+
+- **7)** oświadczenie osób, o których mowa w pkt 6, o niekaralności za poważne naruszenie, o którym mowa w art. 6 ust. 1 lit. b rozporządzenia (WE) nr 1071/2009, w tym najpoważniejsze naruszenie określone w załączniku IV do rozporządzenia (WE) nr 1071/2009. ” , w ust. 6 w zdaniu pierwszym wyrazy „4 i 6” zastępuje się wyrazami „4 i 7”;
     - **b)**
 
 - **4)** art. 7d i art. 7e otrzymują brzmienie: „
@@ -80,7 +83,7 @@ source: "eli-html"
 6. W przypadku wydania decyzji, o której mowa w ust. 5 pkt 1:
 
 - **1)** wymóg dobrej reputacji nie jest spełniony;
-- **2)** organ, o którym mowa w art. 7 ust. 2, zawiesza zezwolenie na wykonywanie zawodu przewoźnika drogowego do czasu zastosowania środka rehabilitacyjnego, o którym mowa w art. 7e.
+- **2)** organ, o którym mowa w art. 7 ust. 2, zawiesza zezwolenie na wykonywanie zawodu przewoźnika drogowego – do czasu zastosowania środka rehabilitacyjnego, o którym mowa w art. 7e.
 
 7. Wykonywanie transportu drogowego w przypadku, gdy przedsiębiorcy zawieszono zezwolenie na wykonywanie zawodu przewoźnika drogowego, jest równoznaczne z wykonywaniem przewozu bez zezwolenia. Przez środki rehabilitacyjne, o których mowa w art. 6 ust. 3 rozporządzenia (WE) nr 1071/2009, należy rozumieć:
 
@@ -140,7 +143,7 @@ source: "eli-html"
 2. W przypadku niewłaściwego wykorzystywania przez przedsiębiorcę świadectwa kierowcy polegającego na:
 
 - **1)** niespełnianiu warunków stanowiących podstawę wydania świadectwa kierowcy lub
-- **2)** podaniu nieprawidłowych informacji we wniosku o wydanie świadectwa kierowcy właściwy organ, o którym mowa w art. 32b, cofa świadectwo kierowcy i zawiesza wydawanie nowych świadectw kierowcy przez okres roku.
+- **2)** podaniu nieprawidłowych informacji we wniosku o wydanie świadectwa kierowcy – właściwy organ, o którym mowa w art. 32b, cofa świadectwo kierowcy i zawiesza wydawanie nowych świadectw kierowcy przez okres roku.
 
 3. W przypadku bardzo poważnego naruszenia dotyczącego świadectwa kierowcy, określonego w załączniku I do rozporządzenia Komisji (UE) 2016/403, organ, o którym mowa w art. 32b, cofa, w drodze decyzji administracyjnej, 1 wypis z licencji wspólnotowej na okres 6 miesięcy i zawiesza wydawanie nowych świadectw kierowców przez okres roku. ” ;
 
@@ -159,7 +162,7 @@ source: "eli-html"
 
 - **13)** po rozdziale 9a dodaje się rozdział 9b w brzmieniu: „
 
-#### Rozdział 9b Krajowy Rejestr Elektroniczny Przedsiębiorców Transportu Drogowego
+#### Rozdział 9b
 
 **Art. 82g.**
 
@@ -301,7 +304,7 @@ source: "eli-html"
 
 - **1)** popełnili przestępstwo określone w art. 5 ust. 2a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą,
 - **2)** dokonali poważnego naruszenia, o którym mowa w art. 6 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1071/2009 z dnia 21 października 2009 r. ustanawiającego wspólne zasady dotyczące warunków wykonywania zawodu przewoźnika drogowego i uchylającego dyrektywę Rady 96/26/WE (Dz. Urz. UE L 300 z 14.11.2009, str. 51–71),
-- **3)** dokonali najpoważniejszego naruszenia określonego w załączniku IV do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1071/2009 z dnia 21 października 2009 r. ustanawiającego wspólne zasady dotyczące warunków wykonywania zawodu przewoźnika drogowego i uchylającego dyrektywę Rady 96/26/WE stosuje się przepisy dotychczasowe.
+- **3)** dokonali najpoważniejszego naruszenia określonego w załączniku IV do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1071/2009 z dnia 21 października 2009 r. ustanawiającego wspólne zasady dotyczące warunków wykonywania zawodu przewoźnika drogowego i uchylającego dyrektywę Rady 96/26/WE – stosuje się przepisy dotychczasowe.
 
 **Art. 4.** Za przestępstwa, o których mowa w art. 5 ust. 2a ustawy zmienianej w art. 1, uznaje się także przestępstwa wymienione w:
 
@@ -347,6 +350,6 @@ source: "eli-html"
 **Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 13, który wchodzi w życie z dniem 30 listopada 2017 r.;
-- **2)** art. 6, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+- **2)** art. 6, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa służy stosowaniu: 1) rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1071/2009 z dnia 21 października 2009 r. ustanawiającego wspólne zasady dotyczące warunków wykonywania zawodu przewoźnika drogowego i uchylającego dyrektywę Rady 96/26/WE (Dz. Urz. UE L 300 z 14.11.2009, str. 51, z późn. zm.); 2) rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1072/2009 z dnia 21 października 2009 r. dotyczącego wspólnych zasad dostępu do rynku międzynarodowych przewozów drogowych (Dz. Urz. UE L 300 z 14.11.2009, str. 72, z późn. zm.); 3) rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006 (Dz. Urz. UE L 300 z 14.11.2009, str. 88, z późn. zm.); 4) decyzji Komisji z dnia 17 grudnia 2009 r. w sprawie minimalnych wymogów dotyczących danych, które mają być wprowadzane do krajowego rejestru elektronicznego przedsiębiorców transportu drogowego (Dz. Urz. UE L 339 z 22.12.2009, str. 36); 5) rozporządzenia Komisji (UE) nr 1213/2010 z dnia 16 grudnia 2010 r. ustanawiającego wspólne zasady dotyczące połączenia krajowych rejestrów elektronicznych przedsiębiorców transportu drogowego (Dz. Urz. UE L 335 z 18.12.2010, str. 21); 6) rozporządzenia Komisji (UE) nr 2016/403 z dnia 18 marca 2016 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1071/2009 w odniesieniu do klasyfikacji poważnych naruszeń przepisów unijnych, które mogą prowadzić do utraty dobrej reputacji przez przewoźnika drogowego, oraz zmieniającego załącznik III do dyrektywy 2006/22/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 74 z 19.03.2016, str. 8). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 978, 1166, 1259 i 1844 oraz z 2016 r. poz. 615, 996 i 1579.
 
 

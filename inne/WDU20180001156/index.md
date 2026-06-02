@@ -25,7 +25,9 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001156) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1156/text.pdf) |
 
-Treść obwieszczenia 1. 2.
+Treść obwieszczenia
+1.
+2.
 Załącznik – Tekst jednolity ustawy z dnia 28 lipca 2011 r. o zalegalizowaniu pobytu niektórych cudzoziemców na terytorium Rzeczypospolitej Polskiej oraz o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej i ustawy o cudzoziemcach
 Treść obwieszczenia
 1.
@@ -33,13 +35,12 @@ Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og�
 1)
 ustawą z dnia 10 września 2015 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 1607),
 2)
-ustawą z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 maja 2018 r.
+ustawą z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949) oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 maja 2018 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 14 i art. 15 ustawy z dnia 28 lipca 2011 r. o zalegalizowaniu pobytu niektórych cudzoziemców na terytorium Rzeczypospolitej Polskiej oraz o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej i ustawy o cudzoziemcach (Dz. U. Nr 191, poz. 1133), które stanowią:
-„
+art. 14 i art. 15 ustawy z dnia 28 lipca 2011 r. o zalegalizowaniu pobytu niektórych cudzoziemców na terytorium Rzeczypospolitej Polskiej oraz o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej i ustawy o cudzoziemcach (Dz. U. Nr 191, poz. 1133), które stanowią: „
+Przesiedlenie i relokacja
 1.
 Przesiedleniu lub relokacji będą podlegać cudzoziemcy, którzy spełniają warunki do nadania statusu uchodźcy lub ochrony uzupełniającej określone w rozdziale 1.
 2.
@@ -53,7 +54,7 @@ państwa, z których będą oni przybywać;
 3)
 wysokość środków przeznaczonych na pokrycie kosztów przesiedlenia lub relokacji, w tym kosztów związanych z czynnościami podejmowanymi przez organy poza granicami Rzeczypospolitej Polskiej, kosztów pomocy świadczonej cudzoziemcom przesiedlonym lub relokowanym i kosztów związanych z ich integracją, a także źródła pokrycia tych kosztów.
 2.
-W rozporządzeniu, o którym mowa w ust. 1, Rada Ministrów uwzględni aspekty humanitarne decyzji o przesiedleniu lub relokacji, konieczność zaspokojenia niezbędnych potrzeb przesiedlanych lub relokowanych cudzoziemców w okresie postępowania w sprawie nadania statusu uchodźcy lub ochrony uzupełniającej, a także rzeczywiste koszty indywidualnych programów integracji, o których mowa w art. 93 ust. 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm.c) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 202, poz. 1551, Nr 219, poz. 1706 i Nr 221, poz. 1738, z 2010 r. Nr 28, poz. 146, Nr 40, poz. 229, Nr 81, poz. 527, Nr 125, poz. 842 i Nr 217, poz. 1427 oraz z 2011 r. Nr 81, poz. 440, Nr 106, poz. 622 i Nr 149, poz. 887.).
+W rozporządzeniu, o którym mowa w ust. 1, Rada Ministrów uwzględni aspekty humanitarne decyzji o przesiedleniu lub relokacji, konieczność zaspokojenia niezbędnych potrzeb przesiedlanych lub relokowanych cudzoziemców w okresie postępowania w sprawie nadania statusu uchodźcy lub ochrony uzupełniającej, a także rzeczywiste koszty indywidualnych programów integracji, o których mowa w art. 93 ust. 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm.c)Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 202, poz. 1551, Nr 219, poz. 1706 i Nr 221, poz. 1738, z 2010 r. Nr 28, poz. 146, Nr 40, poz. 229, Nr 81, poz. 527, Nr 125, poz. 842 i Nr 217, poz. 1427 oraz z 2011 r. Nr 81, poz. 440, Nr 106, poz. 622 i Nr 149, poz. 887.).
 Cudzoziemiec zakwalifikowany do przesiedlenia lub relokacji przed przyjazdem na terytorium Rzeczypospolitej Polskiej składa wniosek o nadanie statusu uchodźcy do Szefa Urzędu za pośrednictwem funkcjonariusza Straży Granicznej, delegowanego do wykonania zadania poza granicami państwa, który został upoważniony do przyjęcia takiego wniosku przez komendanta oddziału Straży Granicznej obejmującego terytorialnym zasięgiem działania m.st. Warszawę.
 Funkcjonariusz Straży Granicznej, o którym mowa w art. 86c:
 1)
@@ -81,50 +82,37 @@ Pomoc socjalną i opiekę medyczną zapewnia się także w okresie 6 miesięcy o
 1.
 W zakresie nieuregulowanym w niniejszym rozdziale stosuje się przepisy działu II.
 2.
-Do cudzoziemców podlegających relokacji nie stosuje się art. 40 ust. 2 pkt 1.
-” ;
+Do cudzoziemców podlegających relokacji nie stosuje się art. 40 ust. 2 pkt 1. ” ;
 24)
 w art. 87:
 a)
-w ust. 2 pkt 1 otrzymuje brzmienie:
-„
+w ust. 2 pkt 1 otrzymuje brzmienie: „
 1)
-wnioskodawca lub osoba, w imieniu której wnioskodawca występuje, nielegalnie przekroczyli lub usiłowali przekroczyć granicę, chyba że przybyli bezpośrednio z terytorium, na którym ich życiu lub wolności zagrażało niebezpieczeństwo prześladowania lub ryzyko wyrządzenia poważnej krzywdy, przedstawili wiarygodne przyczyny nielegalnego wjazdu na terytorium Rzeczypospolitej Polskiej i złożyli wniosek o nadanie statusu uchodźcy niezwłocznie po przekroczeniu granicy;
-” ,
+wnioskodawca lub osoba, w imieniu której wnioskodawca występuje, nielegalnie przekroczyli lub usiłowali przekroczyć granicę, chyba że przybyli bezpośrednio z terytorium, na którym ich życiu lub wolności zagrażało niebezpieczeństwo prześladowania lub ryzyko wyrządzenia poważnej krzywdy, przedstawili wiarygodne przyczyny nielegalnego wjazdu na terytorium Rzeczypospolitej Polskiej i złożyli wniosek o nadanie statusu uchodźcy niezwłocznie po przekroczeniu granicy; ” ,
 b)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-W przypadkach, o których mowa w ust. 1 pkt 2 i ust. 2 pkt 2, Straż Graniczna zatrzymuje wnioskodawcę lub osobę, w imieniu której wnioskodawca występuje, na wniosek Szefa Urzędu.
-” ;
+W przypadkach, o których mowa w ust. 1 pkt 2 i ust. 2 pkt 2, Straż Graniczna zatrzymuje wnioskodawcę lub osobę, w imieniu której wnioskodawca występuje, na wniosek Szefa Urzędu. ” ;
 25)
-w art. 88 ust. 1 otrzymuje brzmienie:
-„
+w art. 88 ust. 1 otrzymuje brzmienie: „
 1.
-Wnioskodawcę lub osobę, w imieniu której wnioskodawca występuje, w przypadkach, o których mowa w art. 87, umieszcza się w strzeżonym ośrodku lub areszcie w celu wydalenia, z tym że areszt w celu wydalenia stosuje się, gdy z okoliczności ustalonych przez organ Straży Granicznej wynika, że jest to niezbędne ze względu na obronność lub bezpieczeństwo państwa albo bezpieczeństwo i porządek publiczny.
-” ;
+Wnioskodawcę lub osobę, w imieniu której wnioskodawca występuje, w przypadkach, o których mowa w art. 87, umieszcza się w strzeżonym ośrodku lub areszcie w celu wydalenia, z tym że areszt w celu wydalenia stosuje się, gdy z okoliczności ustalonych przez organ Straży Granicznej wynika, że jest to niezbędne ze względu na obronność lub bezpieczeństwo państwa albo bezpieczeństwo i porządek publiczny. ” ;
 26)
-w art. 89 ust. 4 i 5 otrzymują brzmienie:
-„
+w art. 89 ust. 4 i 5 otrzymują brzmienie: „
 4.
 Postanowienie o umieszczeniu wnioskodawcy lub osoby, w imieniu której wnioskodawca występuje, w strzeżonym ośrodku lub areszcie w celu wydalenia w przypadku, o którym mowa w art. 87 ust. 2 pkt 2, wydaje, na wniosek organu Straży Granicznej, sąd rejonowy, w obszarze właściwości którego znajduje się siedziba tego organu.
 5.
-Postanowienie w sprawie przedłużenia okresu pobytu w strzeżonym ośrodku lub areszcie w celu wydalenia wydaje, na wniosek organu Straży Granicznej, sąd rejonowy, w obszarze właściwości którego znajduje się siedziba tego organu.
-” ;
+Postanowienie w sprawie przedłużenia okresu pobytu w strzeżonym ośrodku lub areszcie w celu wydalenia wydaje, na wniosek organu Straży Granicznej, sąd rejonowy, w obszarze właściwości którego znajduje się siedziba tego organu. ” ;
 27)
-w art. 89ib dodaje się ust. 4 w brzmieniu:
-„
+w art. 89ib dodaje się ust. 4 w brzmieniu: „
 4.
-W przypadku siły wyższej, uniemożliwiającej cudzoziemcowi osobisty odbiór dokumentu podróży przewidzianego w Konwencji Genewskiej, odbioru tego dokumentu może dokonać pełnomocnik legitymujący się pełnomocnictwem szczególnym. Przepisu ust. 3 nie stosuje się.
-” ;
+W przypadku siły wyższej, uniemożliwiającej cudzoziemcowi osobisty odbiór dokumentu podróży przewidzianego w Konwencji Genewskiej, odbioru tego dokumentu może dokonać pełnomocnik legitymujący się pełnomocnictwem szczególnym. Przepisu ust. 3 nie stosuje się. ” ;
 28)
-w art. 89p ust. 3 otrzymuje brzmienie:
-„
+w art. 89p ust. 3 otrzymuje brzmienie: „
 3.
-Rada jest także organem właściwym w sprawach wznowienia postępowania, uchylenia, zmiany lub stwierdzenia nieważności wydanych przez siebie decyzji lub postanowień.
-” .
+Rada jest także organem właściwym w sprawach wznowienia postępowania, uchylenia, zmiany lub stwierdzenia nieważności wydanych przez siebie decyzji lub postanowień. ” .
 
-**Art. 14.** W ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2009 r. Nr 189, poz. 1472, z późn. zm.a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 81, poz. 531 oraz z 2011 r. Nr 73, poz. 390, Nr 131, poz. 764 i Nr 149, poz. 887.) wprowadza się następujące zmiany:
+**Art. 14.** W ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2009 r. Nr 189, poz. 1472, z późn. zm.a)Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 81, poz. 531 oraz z 2011 r. Nr 73, poz. 390, Nr 131, poz. 764 i Nr 149, poz. 887.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2: po pkt 9b dodaje się pkt 9c i 9d w brzmieniu: „
     - **a)**
@@ -329,7 +317,7 @@ Rada jest także organem właściwym w sprawach wznowienia postępowania, uchyle
 
 1. Szef Urzędu może zlecić organizacjom międzynarodowym, na podstawie umów międzynarodowych, organizację dobrowolnego powrotu.
 
-2. Podmiotom innym niż wymienione w ust. 1 Szef Urzędu może zlecić, na podstawie ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2010 r. Nr 113, poz. 759, z późn. zm.b) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 161, poz. 1078 i Nr 182, poz. 1228 oraz z 2011 r. Nr 5, poz. 13, Nr 28, poz. 143 i Nr 87, poz. 484.):
+2. Podmiotom innym niż wymienione w ust. 1 Szef Urzędu może zlecić, na podstawie ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2010 r. Nr 113, poz. 759, z późn. zm.b)Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 161, poz. 1078 i Nr 182, poz. 1228 oraz z 2011 r. Nr 5, poz. 13, Nr 28, poz. 143 i Nr 87, poz. 484.):
 
 - **1)** prowadzenie nauki języka polskiego;
 - **2)** przeniesienie cudzoziemca do innego państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o nadanie statusu uchodźcy na podstawie rozporządzenia Rady (WE) nr 343/2003. ” ;
@@ -358,9 +346,9 @@ Rada jest także organem właściwym w sprawach wznowienia postępowania, uchyle
 - **6)** konieczność zapewnienia odpowiedniego dostępu do pomocy dla cudzoziemców przy określaniu terminu i sposobu jej wypłaty. ” ;
 - **23)** w dziale II po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
 
-#### Rozdział 5a Przesiedlenie i relokacja
+#### Rozdział 5a
 
-**Art. 15.** W ustawie z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz. 1694, z późn. zm.d) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170, z 2008 r. Nr 70, poz. 416, Nr 180, poz. 1112, Nr 216, poz. 1367, Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206 i Nr 95, poz. 790, z 2010 r. Nr 81, poz. 531, Nr 96, poz. 620 i Nr 239, poz. 1593 oraz z 2011 r. Nr 131, poz. 764.) wprowadza się następujące zmiany:
+**Art. 15.** W ustawie z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz. 1694, z późn. zm.d)Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170, z 2008 r. Nr 70, poz. 416, Nr 180, poz. 1112, Nr 216, poz. 1367, Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206 i Nr 95, poz. 790, z 2010 r. Nr 81, poz. 531, Nr 96, poz. 620 i Nr 239, poz. 1593 oraz z 2011 r. Nr 131, poz. 764.) wprowadza się następujące zmiany:
 
 - **1)** w art. 75: po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
@@ -378,9 +366,9 @@ Rada jest także organem właściwym w sprawach wznowienia postępowania, uchyle
     - **a)**
     - **b)**
 
-- **2)** odnośników nr 1 i 2 oraz art. 21 ustawy z dnia 10 września 2015 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 1607), które stanowią: „
+- **2)** odnośników nr 1 i 2 oraz art. 21 ustawy z dnia 10 września 2015 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 1607), które stanowią: „ 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia:
 - **1)** dyrektywy Parlamentu Europejskiego i Rady 2013/32/UE z dnia 26 czerwca 2013 r. w sprawie wspólnych procedur udzielania i cofania ochrony międzynarodowej (wersja przekształcona) (Dz. Urz. UE L 180 z 29.06.2013, str. 60);
-- **2)** dyrektywy Parlamentu Europejskiego i Rady 2013/33/UE z dnia 26 czerwca 2013 r. w sprawie ustanowienia norm dotyczących przyjmowania wnioskodawców ubiegających się o ochronę międzynarodową (wersja przekształcona) (Dz. Urz. UE L 180 z 29.06.2013, str. 96). ” „
+- **2)** dyrektywy Parlamentu Europejskiego i Rady 2013/33/UE z dnia 26 czerwca 2013 r. w sprawie ustanowienia norm dotyczących przyjmowania wnioskodawców ubiegających się o ochronę międzynarodową (wersja przekształcona) (Dz. Urz. UE L 180 z 29.06.2013, str. 96). 2) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 604/2013 z dnia 26 czerwca 2013 r. w sprawie ustanowienia kryteriów i mechanizmów ustalania państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej złożonego w jednym z państw członkowskich przez obywatela państwa trzeciego lub bezpaństwowca (wersja przekształcona) (Dz. Urz. UE L 180 z 29.06.2013, str. 31). ” „
 
 **Art. 21.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 27 w zakresie art. 69c-69h, art. 69j, art. 69l i art. 69m, pkt 72 oraz art. 11 pkt 4 i 5, które wchodzą w życie z dniem 1 stycznia 2016 r. ” ;
 
@@ -419,7 +407,7 @@ Rada jest także organem właściwym w sprawach wznowienia postępowania, uchyle
 - **29)** art. 237 ust. 1 pkt 2 ustawy zmienianej w art. 104,
 - **30)** art. 84 ust. 2 pkt 2 ustawy zmienianej w art. 106,
 - **31)** art. 2 pkt 6, art. 9 pkt 2, art. 11 ust. 5, art. 14 ust. 2 pkt 2 i ust. 3 ustawy zmienianej w art. 110,
-- **32)** art. 2 pkt 17 ustawy zmienianej w art. 113 w brzmieniu nadanym niniejszą ustawą stosuje się również do szkół ponadgimnazjalnych i klas dotychczasowych szkół ponadgimnazjalnych w szkołach ponadpodstawowych do czasu zakończenia kształcenia w tych szkołach i klasach.
+- **32)** art. 2 pkt 17 ustawy zmienianej w art. 113 – w brzmieniu nadanym niniejszą ustawą stosuje się również do szkół ponadgimnazjalnych i klas dotychczasowych szkół ponadgimnazjalnych w szkołach ponadpodstawowych do czasu zakończenia kształcenia w tych szkołach i klasach.
 
 **Art. 355.** Przepisy:
 
@@ -441,7 +429,7 @@ Rada jest także organem właściwym w sprawach wznowienia postępowania, uchyle
 - **16)** art. 2 pkt 2 ustawy zmienianej w art. 79,
 - **17)** art. 42 pkt 8 i 9 ustawy zmienianej w art. 90,
 - **18)** art. 19 ust. 1 pkt 2 lit. c ustawy zmienianej w art. 93,
-- **19)** art. 2 pkt 17 ustawy zmienianej w art. 113 stosuje się również do dotychczasowych gimnazjów do czasu zakończenia kształcenia. ” „
+- **19)** art. 2 pkt 17 ustawy zmienianej w art. 113 – stosuje się również do dotychczasowych gimnazjów do czasu zakończenia kształcenia. ” „
 
 **Art. 369.** Ustawa wchodzi w życie z dniem 1 września 2017 r., z wyjątkiem:
 
@@ -451,8 +439,7 @@ Rada jest także organem właściwym w sprawach wznowienia postępowania, uchyle
 - **4)** art. 15 pkt 31, pkt 32 w zakresie art. 22ac ust. 1, art. 22ae ust. 2, art. 22ak ust. 1 i art. 85b ust. 2 i 5, pkt 33–43, pkt 44 w zakresie art. 22ar i art. 22at ust. 1 pkt 1, pkt 46, 47 i 120, art. 105 i art. 337–346, które wchodzą w życie z dniem 15 lutego 2017 r.;
 - **5)** art. 4 pkt 5, 10 i 11, które wchodzą w życie z dniem 1 marca 2017 r.;
 - **6)** art. 224, który wchodzi w życie z dniem 1 kwietnia 2017 r.;
-- **7)** art. 66 pkt 3, który wchodzi w życie z dniem 1 stycznia 2022 r. ” . Załącznik – Tekst jednolity ustawy z dnia 28 lipca 2011 r. o zalegalizowaniu pobytu niektórych cudzoziemców na terytorium Rzeczypospolitej Polskiej oraz o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej i ustawy o cudzoziemcach
-    - **a)** Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 81, poz. 531 oraz z 2011 r. Nr 73, poz. 390, Nr 131, poz. 764 i Nr 149, poz. 887. b) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 161, poz. 1078 i Nr 182, poz. 1228 oraz z 2011 r. Nr 5, poz. 13, Nr 28, poz. 143 i Nr 87, poz. 484. c) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 202, poz. 1551, Nr 219, poz. 1706 i Nr 221, poz. 1738, z 2010 r. Nr 28, poz. 146, Nr 40, poz. 229, Nr 81, poz. 527, Nr 125, poz. 842 i Nr 217, poz. 1427 oraz z 2011 r. Nr 81, poz. 440, Nr 106, poz. 622 i Nr 149, poz. 887. d) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170, z 2008 r. Nr 70, poz. 416, Nr 180, poz. 1112, Nr 216, poz. 1367, Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206 i Nr 95, poz. 790, z 2010 r. Nr 81, poz. 531, Nr 96, poz. 620 i Nr 239, poz. 1593 oraz z 2011 r. Nr 131, poz. 764.
+- **7)** art. 66 pkt 3, który wchodzi w życie z dniem 1 stycznia 2022 r. ” . a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 81, poz. 531 oraz z 2011 r. Nr 73, poz. 390, Nr 131, poz. 764 i Nr 149, poz. 887. b) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 161, poz. 1078 i Nr 182, poz. 1228 oraz z 2011 r. Nr 5, poz. 13, Nr 28, poz. 143 i Nr 87, poz. 484. c) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 202, poz. 1551, Nr 219, poz. 1706 i Nr 221, poz. 1738, z 2010 r. Nr 28, poz. 146, Nr 40, poz. 229, Nr 81, poz. 527, Nr 125, poz. 842 i Nr 217, poz. 1427 oraz z 2011 r. Nr 81, poz. 440, Nr 106, poz. 622 i Nr 149, poz. 887. d) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170, z 2008 r. Nr 70, poz. 416, Nr 180, poz. 1112, Nr 216, poz. 1367, Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206 i Nr 95, poz. 790, z 2010 r. Nr 81, poz. 531, Nr 96, poz. 620 i Nr 239, poz. 1593 oraz z 2011 r. Nr 131, poz. 764. Załącznik – Tekst jednolity ustawy z dnia 28 lipca 2011 r. o zalegalizowaniu pobytu niektórych cudzoziemców na terytorium Rzeczypospolitej Polskiej oraz o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej i ustawy o cudzoziemcach
 
 **Art. 1.** Ustawa określa zasady zalegalizowania pobytu cudzoziemców przebywających na terytorium Rzeczypospolitej Polskiej:
 
@@ -462,7 +449,7 @@ Rada jest także organem właściwym w sprawach wznowienia postępowania, uchyle
 
 **Art. 2.**
 
-1. W postępowaniach w sprawie udzielenia lub cofnięcia cudzoziemcom, o których mowa w art. 1, zezwolenia na zamieszkanie na czas oznaczony na okres 2 lat, a także po udzieleniu tego zezwolenia, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149 i 650) oraz art. 59, art. 60 ust. 1 i 3–5 oraz 6 i art. 62 ust. 3–7, 8, 8a i ust. 9 pkt 2 i 3 lit. b ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2011 r. poz. 1573, z 2012 r. poz. 589 i 769 oraz z 2013 r. poz. 628) oraz przepisy wydane na podstawie art. 63 ust. 1 tej ustawy.
+1. W postępowaniach w sprawie udzielenia lub cofnięcia cudzoziemcom, o których mowa w art. 1, zezwolenia na zamieszkanie na czas oznaczony na okres 2 lat, a także po udzieleniu tego zezwolenia, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149 i 650) oraz art. 59, art. 60 ust. 1 i 3–5 oraz 6 i art. 62 ust. 3–7, 8, 8a i ust. 9 pkt 2 i 3 lit. b ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2011 r. poz. 1573, z 2012 r. poz. 589 i 769 oraz z 2013 r. poz. 628)Utraciła moc z dniem 1 maja 2014 r. na podstawie art. 521 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650). oraz przepisy wydane na podstawie art. 63 ust. 1 tej ustawy.
 
 2. W postępowaniach, o których mowa w ust. 1, przy wykonywaniu czynności mających na celu ustalenie okoliczności, o których mowa w art. 3 ust. 2 pkt 3 i 4 lub art. 13 pkt 2 i 3 niniejszej ustawy, nie stosuje się art. 79 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
@@ -479,17 +466,17 @@ Rada jest także organem właściwym w sprawach wznowienia postępowania, uchyle
 - **3)** w postępowaniu w sprawie udzielenia tego zezwolenia został złożony wniosek lub zostały przedstawione dokumenty zawierające nieprawdziwe dane osobowe lub fałszywe informacje;
 - **4)** w postępowaniu w sprawie udzielenia tego zezwolenia, w celu użycia za autentyczny, podrobił lub przerobił dokument bądź używał takiego dokumentu jako autentycznego;
 - **5)** wymagają tego względy obronności lub bezpieczeństwa państwa albo ochrony bezpieczeństwa i porządku publicznego lub interes Rzeczypospolitej Polskiej;
-- **6)** jego dane znajdują się w wykazie cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany, zwanym dalej „wykazem”, i zostały umieszczone na podstawie art. 128 ust. 1 pkt 6 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach.
+- **6)** jego dane znajdują się w wykazie cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany, zwanym dalej „wykazem”, i zostały umieszczone na podstawie art. 128 ust. 1 pkt 6 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcachUtraciła moc z dniem 1 maja 2014 r. na podstawie art. 521 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650)..
 
 3. Od decyzji odmawiającej udzielenia zezwolenia, o którym mowa w ust. 1, przysługuje odwołanie do Szefa Urzędu do Spraw Cudzoziemców, zwanego dalej „Szefem Urzędu”.
 
 4. Pobyt cudzoziemca, o którym mowa w art. 1, uznaje się za nieprzerwany, jeżeli nic innego nie wynika z zebranego materiału dowodowego lub z okoliczności sprawy.
 
-5. Do oceny, czy pobyt cudzoziemca na terytorium Rzeczypospolitej Polskiej jest nieprzerwany, stosuje się odpowiednio art. 64 ust. 4 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach.
+5. Do oceny, czy pobyt cudzoziemca na terytorium Rzeczypospolitej Polskiej jest nieprzerwany, stosuje się odpowiednio art. 64 ust. 4 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcachUtraciła moc z dniem 1 maja 2014 r. na podstawie art. 521 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650)..
 
-6. Pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej podczas postępowania w sprawie udzielenia zezwolenia, o którym mowa w ust. 1, oraz na podstawie tego zezwolenia nie zalicza się do okresu legalnego i nieprzerwanego pobytu cudzoziemca na tym terytorium, uprawniającego do uzyskania zezwolenia na pobyt rezydenta długoterminowego WE, w rozumieniu art. 65 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach.
+6. Pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej podczas postępowania w sprawie udzielenia zezwolenia, o którym mowa w ust. 1, oraz na podstawie tego zezwolenia nie zalicza się do okresu legalnego i nieprzerwanego pobytu cudzoziemca na tym terytorium, uprawniającego do uzyskania zezwolenia na pobyt rezydenta długoterminowego WE, w rozumieniu art. 65 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcachUtraciła moc z dniem 1 maja 2014 r. na podstawie art. 521 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650)..
 
-**Art. 4.** Jeżeli termin do złożenia wniosku, o którym mowa w art. 3 ust. 1, został zachowany i wniosek nie zawiera braków formalnych lub braki formalne zostały uzupełnione w terminie, wojewoda zamieszcza w dokumencie podróży, o którym mowa w art. 4 pkt 1 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach, odcisk stempla, który potwierdza złożenie wniosku o udzielenie zezwolenia na zamieszkanie na czas oznaczony.
+**Art. 4.** Jeżeli termin do złożenia wniosku, o którym mowa w art. 3 ust. 1, został zachowany i wniosek nie zawiera braków formalnych lub braki formalne zostały uzupełnione w terminie, wojewoda zamieszcza w dokumencie podróży, o którym mowa w art. 4 pkt 1 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcachUtraciła moc z dniem 1 maja 2014 r. na podstawie art. 521 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650)., odcisk stempla, który potwierdza złożenie wniosku o udzielenie zezwolenia na zamieszkanie na czas oznaczony.
 
 **Art. 5.**
 
@@ -505,22 +492,22 @@ Rada jest także organem właściwym w sprawach wznowienia postępowania, uchyle
 
 2. Szef Urzędu udziela wojewodzie informacji o umieszczeniu danych cudzoziemca w wykazie, okresie obowiązywania wpisu, podstawie prawnej i faktycznej wpisu.
 
-3. W przypadku wpisów umieszczonych na podstawie art. 128 ust. 1 pkt 6 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach Szef Urzędu nie udziela wojewodzie informacji o podstawie faktycznej wpisu.
+3. W przypadku wpisów umieszczonych na podstawie art. 128 ust. 1 pkt 6 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcachUtraciła moc z dniem 1 maja 2014 r. na podstawie art. 521 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650). Szef Urzędu nie udziela wojewodzie informacji o podstawie faktycznej wpisu.
 
 **Art. 7.**
 
 1. Komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej, właściwy ze względu na siedzibę wojewody, do którego cudzoziemiec złożył wniosek, o którym mowa w art. 3 ust. 1, pobiera od tego cudzoziemca odciski linii papilarnych za pomocą kart daktyloskopijnych lub urządzenia do elektronicznego pobierania odcisków.
 
-2. Dane cudzoziemców, o których mowa w ust. 1, przechowuje się w rejestrach, o których mowa w art. 124 ust. 1 pkt 1 lit. k i pkt 2 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach, i stosuje się do ich przechowywania i udostępniania przepisy art. 125 ust. 1 pkt 4 i 7, art. 126 ust. 1 pkt 7 i ust. 2, art. 127 oraz art. 133 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach.
+2. Dane cudzoziemców, o których mowa w ust. 1, przechowuje się w rejestrach, o których mowa w art. 124 ust. 1 pkt 1 lit. k i pkt 2 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcachUtraciła moc z dniem 1 maja 2014 r. na podstawie art. 521 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650)., i stosuje się do ich przechowywania i udostępniania przepisy art. 125 ust. 1 pkt 4 i 7, art. 126 ust. 1 pkt 7 i ust. 2, art. 127 oraz art. 133 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcachUtraciła moc z dniem 1 maja 2014 r. na podstawie art. 521 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650)..
 
 **Art. 8.** Pozostawia się bez rozpoznania następujące wnioski złożone w toku postępowania o udzielenie zezwolenia, o którym mowa w art. 3 ust. 1:
 
-- **1)** wniosek o udzielenie zezwolenia na zamieszkanie na czas oznaczony złożony na podstawie przepisów ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach;
+- **1)** wniosek o udzielenie zezwolenia na zamieszkanie na czas oznaczony złożony na podstawie przepisów ustawy z dnia 13 czerwca 2003 r. o cudzoziemcachUtraciła moc z dniem 1 maja 2014 r. na podstawie art. 521 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650).;
 - **2)** wniosek o udzielenie zezwolenia na osiedlenie się lub o zezwolenie na pobyt rezydenta długoterminowego WE.
 
 **Art. 9.** Decyzja o udzieleniu zezwolenia, o którym mowa w art. 3 ust. 1, z dniem, w którym stała się ostateczna, powoduje wygaśnięcie decyzji o zobowiązaniu do opuszczenia terytorium Rzeczypospolitej Polskiej, decyzji o wydaleniu z terytorium Rzeczypospolitej Polskiej oraz zawartych w innych decyzjach orzeczeń o zobowiązaniu do opuszczenia terytorium Rzeczypospolitej Polskiej lub orzeczeń o wydaleniu z terytorium Rzeczypospolitej Polskiej.
 
-**Art. 10.** Dane cudzoziemca umieszczone w wykazie na innej podstawie niż art. 128 ust. 1 pkt 1 i 2 lub 6 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach wykreśla się z wykazu, gdy decyzja o udzieleniu zezwolenia, o którym mowa w art. 3 ust. 1, stała się ostateczna.
+**Art. 10.** Dane cudzoziemca umieszczone w wykazie na innej podstawie niż art. 128 ust. 1 pkt 1 i 2 lub 6 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcachUtraciła moc z dniem 1 maja 2014 r. na podstawie art. 521 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650). wykreśla się z wykazu, gdy decyzja o udzieleniu zezwolenia, o którym mowa w art. 3 ust. 1, stała się ostateczna.
 
 **Art. 11.**
 
@@ -535,49 +522,36 @@ Rada jest także organem właściwym w sprawach wznowienia postępowania, uchyle
 - **1)** wymagają tego względy obronności lub bezpieczeństwa państwa albo ochrony bezpieczeństwa i porządku publicznego lub interes Rzeczypospolitej Polskiej;
 - **2)** w postępowaniu w sprawie udzielenia tego zezwolenia został złożony wniosek lub zostały przedstawione dokumenty zawierające nieprawdziwe dane osobowe lub fałszywe informacje;
 - **3)** w postępowaniu w sprawie udzielenia tego zezwolenia, w celu użycia za autentyczny, podrobił lub przerobił dokument bądź używał takiego dokumentu jako autentycznego;
-- **4)** opuścił na stałe terytorium Rzeczypospolitej Polskiej. (pominięty) (pominięty)
+- **4)** opuścił na stałe terytorium Rzeczypospolitej Polskiej. (pominięty)Zamieszczony w obwieszczeniu. (pominięty)Zamieszczony w obwieszczeniu.
 
 **Art. 16.** Do postępowań wszczętych na podstawie przepisów ustaw zmienianych w art. 14 i 15 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe, z zastrzeżeniem art. 8.
 
 **Art. 17.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 86 ustawy zmienianej w art. 14 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 86 ustawy zmienianej w art. 14, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 18.**
-
-1. Maksymalny limit wydatków budżetu państwa przeznaczonych na pomoc dla cudzoziemców ubiegających się o udzielenie ochrony międzynarodowej, o której mowa w rozdziale 5 działu II ustawy zmienianej w art. 14, z wyłączeniem wydatków związanych z przesiedleniem lub relokacją, w okresie 10 lat, stanowi kwotę 100 000 000 zł w każdym roku.
-
-2. Minister właściwy do spraw wewnętrznych monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, dokonując przynajmniej cztery razy w roku, według stanu na koniec każdego kwartału, oceny wykorzystania limitu wydatków na dany rok.
+**Art. 18.** 1W brzmieniu ustalonym przez art. 10 pkt 1 ustawy z dnia 10 września 2015 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 1607), która weszła w życie z dniem 13 listopada 2015 r.. Maksymalny limit wydatków budżetu państwa przeznaczonych na pomoc dla cudzoziemców ubiegających się o udzielenie ochrony międzynarodowej, o której mowa w rozdziale 5 działu II ustawy zmienianej w art. 14, z wyłączeniem wydatków związanych z przesiedleniem lub relokacją, w okresie 10 lat, stanowi kwotę 100 000 000 zł w każdym roku. 2. Minister właściwy do spraw wewnętrznych monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, dokonując przynajmniej cztery razy w roku, według stanu na koniec każdego kwartału, oceny wykorzystania limitu wydatków na dany rok.
 
 **Art. 19.**
 
-1. Ustala się następujące mechanizmy korygujące:
+1. Ustala się następujące mechanizmy korygujące: 1W brzmieniu ustalonym przez art. 10 pkt 2 ustawy, o której mowa w odnośniku 3.) ograniczenie co najmniej jednego ze świadczeń udzielanych w formie pieniężnej, wypłacanych cudzoziemcom ubiegającym się o udzielenie ochrony międzynarodowej w ramach udzielanej im pomocy, przez: obniżenie wysokości jednorazowej pomocy pieniężnej lub wartości bonów towarowych na zakup odzieży i obuwia o nie więcej niż 50% albo wstrzymanie przyznawania tej pomocy lub wydawania tych bonów i zapewnianie odzieży i obuwia jedynie w uzasadnionych przypadkach, obniżenie wysokości stałej pomocy pieniężnej na zakup środków higieny osobistej o nie więcej niż 30% albo wstrzymanie tej formy pomocy i dostarczanie tych środków w naturze, obniżenie wysokości kieszonkowego o nie więcej niż 50% albo wstrzymanie tej formy pomocy, obniżenie wysokości ekwiwalentu pieniężnego w zamian za wyżywienie o nie więcej niż 30% albo wstrzymanie tej formy pomocy i zapewnianie wyżywienia w ośrodku dla cudzoziemców, obniżenie wysokości świadczenia pieniężnego, o którym mowa w art. 71 ust. 1 pkt 2 ustawy zmienianej w art. 14, o nie więcej niż 30% albo wstrzymanie udzielania tej pomocy w stosunku do cudzoziemców, którzy dotychczas nie ubiegali się o udzielenie ochrony międzynarodowej; wstrzymanie to może łączyć się z obniżeniem wysokości stawki dziennej wyżywienia zbiorowego w ośrodkach dla cudzoziemców, o nie więcej niż 30%, ograniczenie katalogu wydatków – zaliczanych do kosztów pogrzebu cudzoziemca, o którym mowa w art. 84 ust. 1 ustawy zmienianej w art. 14, organizowanego na terytorium Rzeczypospolitej Polskiej przez podmioty, o których mowa w art. 10 ust. 1 ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2017 r. poz. 912) – do wydatków na: kremację zwłok, zorganizowanie pogrzebu, przeprowadzenie pochówku zmarłego oraz na zakup miejsca pochowania na cmentarzu, trumny lub urny, obniżenie maksymalnej kwoty zasiłku pogrzebowego wypłacanego na wniosek osoby, o której mowa w art. 84 ust. 1 ustawy zmienianej w art. 14, o nie więcej niż 30%; 2W brzmieniu ustalonym przez art. 10 pkt 2 ustawy, o której mowa w odnośniku 3.) ograniczenie co najmniej jednego ze świadczeń udzielanych w formie niepieniężnej cudzoziemcom ubiegającym się o udzielenie ochrony międzynarodowej przez: obniżenie wymiaru czasu nauki języka polskiego o nie więcej niż 50%, w zaokrągleniu do pełnych godzin lekcyjnych, albo wstrzymanie tej nauki, obniżenie wydatków na zakup podstawowych materiałów niezbędnych do nauki języka polskiego o nie więcej niż 50% albo wstrzymanie zapewniania tych materiałów, cW brzmieniu ustalonym przez art. 93 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60), która weszła w życie z dniem 1 września 2017 r.) obniżenie wydatków na zakup pomocy dydaktycznych dla dzieci korzystających z nauki i opieki w publicznych placówkach, szkołach podstawowych lub szkołach ponadpodstawowych o nie więcej niż 50%, ograniczenie wydatków na finansowanie przejazdów środkami transportu publicznego w celu wzięcia udziału w postępowaniu w sprawie udzielenia ochrony międzynarodowej, w celu leczenia lub poddania się szczepieniom ochronnym lub w innych szczególnie uzasadnionych przypadkach, przez finansowanie przejazdu najtańszymi środkami transportu publicznego, wstrzymanie finansowania przejazdów środkami transportu publicznego w celach innych niż udział w postępowaniu w sprawie udzielenia ochrony międzynarodowej oraz innych niż leczenie lub poddanie się szczepieniom ochronnym;
 
-- **1)** ograniczenie co najmniej jednego ze świadczeń udzielanych w formie pieniężnej, wypłacanych cudzoziemcom ubiegającym się o udzielenie ochrony międzynarodowej w ramach udzielanej im pomocy, przez: obniżenie wysokości jednorazowej pomocy pieniężnej lub wartości bonów towarowych na zakup odzieży i obuwia o nie więcej niż 50% albo wstrzymanie przyznawania tej pomocy lub wydawania tych bonów i zapewnianie odzieży i obuwia jedynie w uzasadnionych przypadkach, obniżenie wysokości stałej pomocy pieniężnej na zakup środków higieny osobistej o nie więcej niż 30% albo wstrzymanie tej formy pomocy i dostarczanie tych środków w naturze, obniżenie wysokości kieszonkowego o nie więcej niż 50% albo wstrzymanie tej formy pomocy, obniżenie wysokości ekwiwalentu pieniężnego w zamian za wyżywienie o nie więcej niż 30% albo wstrzymanie tej formy pomocy i zapewnianie wyżywienia w ośrodku dla cudzoziemców, obniżenie wysokości świadczenia pieniężnego, o którym mowa w art. 71 ust. 1 pkt 2 ustawy zmienianej w art. 14, o nie więcej niż 30% albo wstrzymanie udzielania tej pomocy w stosunku do cudzoziemców, którzy dotychczas nie ubiegali się o udzielenie ochrony międzynarodowej; wstrzymanie to może łączyć się z obniżeniem wysokości stawki dziennej wyżywienia zbiorowego w ośrodkach dla cudzoziemców, o nie więcej niż 30%, ograniczenie katalogu wydatków – zaliczanych do kosztów pogrzebu cudzoziemca, o którym mowa w art. 84 ust. 1 ustawy zmienianej w art. 14, organizowanego na terytorium Rzeczypospolitej Polskiej przez podmioty, o których mowa w art. 10 ust. 1 ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2017 r. poz. 912) – do wydatków na: kremację zwłok, zorganizowanie pogrzebu, przeprowadzenie pochówku zmarłego oraz na zakup miejsca pochowania na cmentarzu, trumny lub urny, obniżenie maksymalnej kwoty zasiłku pogrzebowego wypłacanego na wniosek osoby, o której mowa w art. 84 ust. 1 ustawy zmienianej w art. 14, o nie więcej niż 30%;
-    - **a)**
-    - **b)**
-    - **c)**
-    - **d)**
-    - **e)**
-    - **f)**
-    - **g)**
-
-- **2)** ograniczenie co najmniej jednego ze świadczeń udzielanych w formie niepieniężnej cudzoziemcom ubiegającym się o udzielenie ochrony międzynarodowej przez: obniżenie wymiaru czasu nauki języka polskiego o nie więcej niż 50%, w zaokrągleniu do pełnych godzin lekcyjnych, albo wstrzymanie tej nauki, obniżenie wydatków na zakup podstawowych materiałów niezbędnych do nauki języka polskiego o nie więcej niż 50% albo wstrzymanie zapewniania tych materiałów, obniżenie wydatków na zakup pomocy dydaktycznych dla dzieci korzystających z nauki i opieki w publicznych placówkach, szkołach podstawowych lub szkołach ponadpodstawowych o nie więcej niż 50%, ograniczenie wydatków na finansowanie przejazdów środkami transportu publicznego w celu wzięcia udziału w postępowaniu w sprawie udzielenia ochrony międzynarodowej, w celu leczenia lub poddania się szczepieniom ochronnym lub w innych szczególnie uzasadnionych przypadkach, przez finansowanie przejazdu najtańszymi środkami transportu publicznego, wstrzymanie finansowania przejazdów środkami transportu publicznego w celach innych niż udział w postępowaniu w sprawie udzielenia ochrony międzynarodowej oraz innych niż leczenie lub poddanie się szczepieniom ochronnym;
-    - **a)**
-    - **b)**
-    - **c)**
-    - **d)**
-    - **e)**
-
-- **3)** ograniczenie zakresu opieki medycznej, o której mowa w art. 73 ustawy zmienianej w art. 14: przez wyłączenie z zakresu tej opieki co najmniej jednego z następujących świadczeń, o których mowa w art. 15 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.): – leczenia uzależnień, – leczenia stomatologicznego, – programów zdrowotnych, do podstawowej opieki zdrowotnej – w przypadku gdy nastąpił znaczny wzrost liczby cudzoziemców przybyłych na terytorium Rzeczypospolitej Polskiej.
+- **a)**
+- **b)**
+- **c)**
+- **d)**
+- **e)**
+- **f)**
+- **g)**
+- **a)**
+- **b)**
+- **d)**
+- **e)**
+- **3)** ograniczenie zakresu opieki medycznej, o której mowa w art. 73 ustawy zmienianej w art. 14: przez wyłączenie z zakresu tej opieki co najmniej jednego z następujących świadczeń, o których mowa w art. 15 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697, 730 i 771.): – leczenia uzależnień, – leczenia stomatologicznego, – programów zdrowotnych, do podstawowej opieki zdrowotnej – w przypadku gdy nastąpił znaczny wzrost liczby cudzoziemców przybyłych na terytorium Rzeczypospolitej Polskiej.
     - **a)**
     - **b)**
 
 2. Minister właściwy do spraw wewnętrznych wprowadza co najmniej jeden z mechanizmów korygujących, o których mowa w ust. 1, w przypadku gdy:
 
 - **1)** może nastąpić przekroczenie limitu wydatków, o których mowa w art. 18 ust. 1, przewidzianych na okres jednego roku;
-- **2)** w okresie od początku roku kalendarzowego do dnia ostatniej oceny, o której mowa w art. 18 ust. 2, część limitu rocznego przypadającego proporcjonalnie na ten okres została przekroczona co najmniej o 10%.
-
-**Art. 20.** Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Szefa Urzędu, wprowadza, w drodze rozporządzenia, mechanizmy korygujące, o których mowa w art. 19 ust. 1, i określa okres ich obowiązywania, mając na celu zagwarantowanie cudzoziemcom ubiegającym się o udzielenie ochrony międzynarodowej niezbędnej opieki, tak aby wysokość tej pomocy nie przekroczyła rocznego limitu wydatków, o którym mowa w art. 18 ust. 1, oraz uwzględniając konieczność minimalizowania skutków oddziaływania tych mechanizmów na cudzoziemców. Ustawa wchodzi w życie z dniem 1 stycznia 2012 r.
-
-- **1)** Utraciła moc z dniem 1 maja 2014 r. na podstawie art. 521 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650). 2) Zamieszczony w obwieszczeniu. 3) W brzmieniu ustalonym przez art. 10 pkt 1 ustawy z dnia 10 września 2015 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 1607), która weszła w życie z dniem 13 listopada 2015 r. 4) W brzmieniu ustalonym przez art. 10 pkt 2 ustawy, o której mowa w odnośniku 3. 5) W brzmieniu ustalonym przez art. 93 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60), która weszła w życie z dniem 1 września 2017 r. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697, 730 i 771. 7) W brzmieniu ustalonym przez art. 10 pkt 3 ustawy, o której mowa w odnośniku 3.
+- **2)** w okresie od początku roku kalendarzowego do dnia ostatniej oceny, o której mowa w art. 18 ust. 2, część limitu rocznego przypadającego proporcjonalnie na ten okres została przekroczona co najmniej o 10%. Art. 20W brzmieniu ustalonym przez art. 10 pkt 3 ustawy, o której mowa w odnośniku 3.. Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Szefa Urzędu, wprowadza, w drodze rozporządzenia, mechanizmy korygujące, o których mowa w art. 19 ust. 1, i określa okres ich obowiązywania, mając na celu zagwarantowanie cudzoziemcom ubiegającym się o udzielenie ochrony międzynarodowej niezbędnej opieki, tak aby wysokość tej pomocy nie przekroczyła rocznego limitu wydatków, o którym mowa w art. 18 ust. 1, oraz uwzględniając konieczność minimalizowania skutków oddziaływania tych mechanizmów na cudzoziemców. Ustawa wchodzi w życie z dniem 1 stycznia 2012 r. 1) Utraciła moc z dniem 1 maja 2014 r. na podstawie art. 521 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650). 2) Zamieszczony w obwieszczeniu. 3) W brzmieniu ustalonym przez art. 10 pkt 1 ustawy z dnia 10 września 2015 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 1607), która weszła w życie z dniem 13 listopada 2015 r. 4) W brzmieniu ustalonym przez art. 10 pkt 2 ustawy, o której mowa w odnośniku 3. 5) W brzmieniu ustalonym przez art. 93 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60), która weszła w życie z dniem 1 września 2017 r. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697, 730 i 771. 7) W brzmieniu ustalonym przez art. 10 pkt 3 ustawy, o której mowa w odnośniku 3.
 
 

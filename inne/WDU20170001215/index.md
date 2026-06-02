@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 maja 2017 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw
+# Ustawa z dnia 25 maja 2017 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2013/30/UE z dnia 12 czerwca 2013 r. w sprawie bezpieczeństwa działalności związanej ze złożami ropy naftowej i gazu ziemnego na obszarach morskich oraz zmiany dyrektywy 2004/35/WE (Dz. Urz. UE L 178 z 28.06.2013, str. 66).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-05-25 |
 | Data wydania | 2017-06-24 |
-| Wejście w życie | 2017-07-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001215) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1215/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki, ustawę z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie, ustawę z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim oraz ustawę z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich.
 
 **Art. 1.** W ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2016 r. poz. 1131 i 1991 oraz z 2017 r. poz. 60, 202 i 1089) wprowadza się następujące zmiany:
 
@@ -50,10 +51,11 @@ source: "eli-html"
 - **8)** w art. 49x: po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **a)**
 
-2a. Przedsiębiorca wykonujący działalność polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej jest także obowiązany do ustanowienia zabezpieczenia roszczeń mogących powstać wskutek wykonywania tej działalności. Zabezpieczenie ustanawia się po dniu doręczenia decyzji zatwierdzającej plan ruchu zakładu górniczego, o której mowa w art. 108 ust. 11, nie później niż przed dniem rozpoczęcia prowadzenia ruchu zakładu górniczego. ” , w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zabezpieczenie, o którym mowa w ust. 1–2a, wnosi się w następujących formach: ” , – w pkt 7 kropkę zastępuje się średnikiem i dodaje pkt 8 w brzmieniu: „ 8) ubezpieczeniach od odpowiedzialności cywilnej. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+2a. Przedsiębiorca wykonujący działalność polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej jest także obowiązany do ustanowienia zabezpieczenia roszczeń mogących powstać wskutek wykonywania tej działalności. Zabezpieczenie ustanawia się po dniu doręczenia decyzji zatwierdzającej plan ruchu zakładu górniczego, o której mowa w art. 108 ust. 11, nie później niż przed dniem rozpoczęcia prowadzenia ruchu zakładu górniczego. ” , w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zabezpieczenie, o którym mowa w ust. 1–2a, wnosi się w następujących formach: ” , w pkt 7 kropkę zastępuje się średnikiem i dodaje pkt 8 w brzmieniu: „
 
 - **b)**
-- **c)**
+- **8)** ubezpieczeniach od odpowiedzialności cywilnej. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+    - **c)**
 
 5a. W przypadku, o którym mowa w ust. 2a, zabezpieczenie wnoszone w pieniądzu wpłaca się przelewem na odrębny rachunek bankowy urzędu obsługującego organ koncesyjny, w terminie 30 dni od dnia doręczenia decyzji zatwierdzającej plan ruchu zakładu górniczego, nie później niż przed dniem rozpoczęcia prowadzenia ruchu zakładu górniczego. ” , w ust. 6 zdanie pierwsze otrzymuje brzmienie: „ Jeżeli zabezpieczenie, o którym mowa w ust. 1–2a, wniesiono w pieniądzu, organ koncesyjny przechowuje je na oprocentowanym rachunku bankowym. ” , w ust. 7 w pkt 2 kropkę zastępuje się średnikiem i dodaje pkt 3 w brzmieniu: „
 
@@ -159,7 +161,7 @@ source: "eli-html"
 
 10f. W przypadku niedokonania zmian w planie ruchu zakładu górniczego, o których mowa w ust. 10e, właściwy organ nadzoru górniczego, w drodze decyzji, odmawia zatwierdzenia planu ruchu zakładu górniczego.
 
-10g. Właściwy organ nadzoru górniczego zapewnia możliwość udziału społeczeństwa, na zasadach i w trybie określonych w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2016 r. poz. 353, z późn. zm.), w postępowaniu, którego przedmiotem jest zatwierdzenie planu ruchu zakładu górniczego dla wykonywania działalności polegającej na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej, z wyłączeniem przypadków, gdy plan ruchu zakładu górniczego jest poprzedzony decyzją o środowiskowych uwarunkowaniach podjętą w postępowaniu toczącym się z udziałem społeczeństwa lub jeżeli koncesja została poprzedzona taką decyzją. ” ;
+10g. Właściwy organ nadzoru górniczego zapewnia możliwość udziału społeczeństwa, na zasadach i w trybie określonych w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2016 r. poz. 353, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 961, 1250, 1579 i 2003 oraz z 2017 r. poz. 820.), w postępowaniu, którego przedmiotem jest zatwierdzenie planu ruchu zakładu górniczego dla wykonywania działalności polegającej na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej, z wyłączeniem przypadków, gdy plan ruchu zakładu górniczego jest poprzedzony decyzją o środowiskowych uwarunkowaniach podjętą w postępowaniu toczącym się z udziałem społeczeństwa lub jeżeli koncesja została poprzedzona taką decyzją. ” ;
 
 - **16)** po art. 108 dodaje się art. 108a w brzmieniu: „
 
@@ -428,5 +430,5 @@ source: "eli-html"
 - **2)** art. 24 ust. 1 ustawy zmienianej w art. 3, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 24 ust. 1 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy;
 - **3)** art. 10 ustawy zmienianej w art. 4, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 ustawy zmienianej w art. 4, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 16.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 12, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 16.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 12, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2013/30/UE z dnia 12 czerwca 2013 r. w sprawie bezpieczeństwa działalności związanej ze złożami ropy naftowej i gazu ziemnego na obszarach morskich oraz zmiany dyrektywy 2004/35/WE (Dz. Urz. UE L 178 z 28.06.2013, str. 66). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki, ustawę z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie, ustawę z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim oraz ustawę z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 961, 1250, 1579 i 2003 oraz z 2017 r. poz. 820.
 

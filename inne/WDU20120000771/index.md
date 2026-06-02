@@ -35,25 +35,42 @@ zm. ) zarządza się, co następuje: § 1. 1. Pozwolenie wojskowe, zwane dalej �
 Minister Obrony Narodowej: T. Siemoniak WZÓR I OPIS POZWOLENIA WOJSKOWEGO DO KIEROWANIA POJAZDEM SIŁ ZBROJNYCH RZECZYPOSPOLITEJ POLSKIEJ LUB POBRANYM W RAMACH ŚWIADCZEŃ NA RZECZ OBRONY AWERS REWERS Opis wzoru pozwolenia wojskowego:
 1. Format A7 (układ pionowy).
 2. Tekst i znaki graficzne są barwy czarnej.
-3. Zafoliowanie obustronne po wypełnieniu
+3. Zafoliowanie obustronne po wypełnieniu.
 4. Na pierwszej stronie umieszcza się:
 1) godło państwowe;
 2) wyrazy treściach:
 a) w jednym wierszu „Ministerstwo Obrony Narodowej”,
-b) w dwóch wierszach „POZWOLENIE WOJSKOWE NR ...”,
+b) w dwóch wierszach „POZWOLENIE WOJSKOWE NR ......”,
 c) linię ciągłą długości 68 mm,
 d) w siedmiu wierszach „1. Nazwisko ..., 2. Imię/imiona ..., 3. Imiona rodziców ..., 4. Adres zamieszkania: miejscowość ...., ulica ...., nr budynku ...., nr lokalu ....”,
-e) w dziewięciu wierszach „5. Organ wydający , (imienna pieczęć oraz podpis osoby upoważnionej)”,
+e) w dziewięciu wierszach „5. Organ wydający ...., (imienna pieczęć oraz podpis osoby upoważnionej)”,
 f) w dwóch wierszach –„6. ........ (podpis posiadacza)”;
 3) ramkę wymiarze 45 × 35 mm, a w niej wyrazy treści: „Miejsce na fotografię 45 × 35 mm”;
-4) symbol „mp.” wpisany w okrąg średnicy 15 mm, który jest linią przerywaną
+4) symbol „mp.” wpisany w okrąg średnicy 15 mm, który jest linią przerywaną.
 5. Na drugiej stronie umieszcza się:
 1) w jednym wierszu wyrazy treści „KATEGORIE, NA KTÓRE POZWOLENIE JEST WAŻNE”;
-2) tabelę wymiarach 70 × 70 mm, podzieloną na trzy kolumny i siedem wierszy Kolumny tabeli dzielą się na: a Minisra Obrony Narodowej z ) WZ R I OPIS POZWOLENIA WOJSKOWEGO DO KIEROWANIA POJAZDEM S ZBROJN C R EC YPO POLI E POLS IE LUB OBRAN M W AMACH ŚWIADC NA RZECZ Op s wzoru pozwo en a wo ko . F rmat A7 (układ i r ą 3 Z foli 4 Na pierwsze tron e umiesz z 1 godło państwowe;
-) y )
-b) w d c linia ła d ugoś 68 mm, i „ , ę 4 Adr za ies k nia m scowo ć u i
-e) w dziewięciu w upow ż n ) , w ch wi rsz „6. .. p k 5 35 , 4 symbol mp” pi any w okrąg ednicy 15 mm kt ry jest lini prze yw ną 5 N drugiej st i zcza się: j i y TE , W Ż ”
-2) t elę w iarach 70 x 70 mm pod ie oną na trzy kolumn abeli dz el s ę n ) p l w mia c 10 x 10 mm żde, tórych um z d i K ” B” ” ” D” b drug iedem pól wymiarach 0 x 25 mm każde, w pierwszym umiesz za s wyrazy r ści „Data yda ia , POZWOLENIE WOJSKOWE NR .....................
+2) tabelę wymiarach 70 × 70 mm, podzieloną na trzy kolumny i siedem wierszy. Kolumny tabeli dzielą się na: Załącznik do rozporządzenia Ministra Obrony Narodowej z dnia 21 czerwca 2012 r. (poz. ) WZÓR I OPIS POZWOLENIA WOJSKOWEGO DO KIEROWANIA POJAZDEM SIŁ ZBROJNYCH RZECZYPOSPOLITEJ POLSKIEJ LUB POBRANYM W RAMACH ŚWIADCZEŃ NA RZECZ OBRONY Opis wzoru pozwolenia wojskowego:
+1. Format A7 (układ pionowy).
+2. Tekst i znaki graficzne są barwy czarnej.
+3. Zafoliowanie obustronne po wypełnieniu.
+4. Na pierwszej stronie umieszcza się:
+1) godło państwowe;
+2) wyrazy treściach:
+a) w jednym wierszu „Ministerstwo Obrony Narodowej”,
+b) w dwóch wierszach „POZWOLENIE WOJSKOWE NR......”,
+c) linia ciągła długości 68 mm,
+d) w siedmiu wierszach „1. Nazwisko..., 2. Imię/imiona..., 3. Imiona rodziców...,
+4. Adres zamieszkania: miejscowość ...., ulica ...., nr budynku ...., nr lokalu ....”,
+e) w dziewięciu wierszach „5. Organ wydający ...., (imienna pieczęć oraz podpis osoby upoważnionej)”,
+f) w dwóch wierszach –„6. ........ (podpis posiadacza)”;
+3) ramkę wymiarze 45 x 35 mm, a w niej wyrazy treści: „Miejsce na fotografię 45 x 35 mm”;
+4) symbol „mp.” wpisany w okrąg średnicy 15 mm, który jest linią przerywaną.
+5. Na drugiej stronie umieszcza się:
+1) w jednym wierszu wyrazy treści „KATEGORIE, NA KTÓRE POZWOLENIE JEST WAŻNE”;
+2) tabelę wymiarach 70 x 70 mm, podzieloną na trzy kolumny i siedem wierszy. Kolumny tabeli dzielą się na:
+a) pierwsza siedem pól wymiarach 10 x 10 mm każde, w których umieszcza się wyrazy treści odpowiednio „Kat.”, „B”, „C”, „C+E”, „D”,
+b) druga siedem pól wymiarach 10 x 25 mm każde, w pierwszym umieszcza się wyrazy treści „Data wydania”, POZWOLENIE WOJSKOWE NR .....................
+AWERS REWERS
 b) druga siedem pól wymiarach 10 × 25 mm każde, w pierwszym umieszcza się wyrazy treści „Data wydania”,
 c) trzecia siedem pól wymiarach 10 × 35 mm każde, w pierwszym umieszcza się wyrazy treści „Odcisk pieczęci”, w drugim, trzecim, czwartym, piątym, szóstym i siódmym symbol „mp.”;
 3) w jednym wierszu „7. Okres ważności:”;

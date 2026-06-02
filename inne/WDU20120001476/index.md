@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-19 |
 | Data wydania | 2012-12-28 |
-| Wejście w życie | 2013-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001476) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1476/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Zasady dysponowania środkami budżetu sądownictwa, ustanawiania dysponentów środków oraz określenie ich zadań i kompetencji Rozdział 3 – Zasady i tryb opracowywania planów finansowych sądów Rozdział 4 – Zasady i tryb dokonywania zmian w planach finansowych sądów Rozdział 5 – Uruchamianie środków budżetowych Rozdział 6 – Rachunki bankowe sądów Rozdział 7 – Rozliczenia w okresie przejściowym po zakończeniu roku budżetowego Rozdział 8 – Tryb pobierania dochodów i dokonywania wydatków sądów Rozdział 9 – Sprawozdawczość budżetowa i finansowa Rozdział 10 – Prowadzenie działalności inwestycyjnej Rozdział 11 – Przepisy przejściowe i końcowe
 Treść rozporządzenia
-Na podstawie art. 179 § 5 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 179 § 5 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698, z 2008 r. Nr 223, poz. 1457, Nr 228, poz. 1507 i Nr 234, poz. 1571, z 2009 r. Nr 1, poz. 4, Nr 9, poz. 57, Nr 26, poz. 156 i 157, Nr 56, poz. 459, Nr 157, poz. 1241, Nr 178, poz. 1375, Nr 219, poz. 1706 i Nr 223, poz. 1777, z 2010 r. Nr 182, poz. 1228 i Nr 205, poz. 1364, z 2011 r. Nr 109, poz. 627, Nr 126, poz. 714 i Nr 203, poz. 1192 oraz z 2012 r. poz. 637 i 672.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -54,11 +54,11 @@ Ilekroć w rozporządzeniu jest mowa o:
 1)
 ustawie – należy przez to rozumieć ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych;
 2)
-ustawie o finansach publicznych – należy przez to rozumieć ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.);
+ustawie o finansach publicznych – należy przez to rozumieć ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620, Nr 123, poz. 835, Nr 152, poz. 1020, Nr 238, poz. 1578 i Nr 257, poz. 1726, z 2011 r. Nr 185, poz. 1092, Nr 201, poz. 1183, Nr 234, poz. 1386, Nr 240, poz. 1429 i Nr 291, poz. 1707 oraz z 2012 r. poz. 1456.);
 3)
 przepisach wykonawczych – należy przez to rozumieć przepisy wydane na podstawie ustawy o finansach publicznych, w szczególności:
 a)
-rozporządzenie Ministra Finansów z dnia 4 grudnia 2009 r. w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów (Dz. U. Nr 211, poz. 1633, z 2010 r. Nr 188, poz. 1263 oraz z 2012 r. poz. 1046) oraz rozporządzenie Ministra Finansów z dnia 2 marca 2010 r. w sprawie szczegółowej klasyfikacji dochodów, wydatków, przychodów i rozchodów oraz środków pochodzących ze źródeł zagranicznych (Dz. U. Nr 38, poz. 207, z późn. zm.), zwane dalej „klasyfikacją budżetową”,
+rozporządzenie Ministra Finansów z dnia 4 grudnia 2009 r. w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów (Dz. U. Nr 211, poz. 1633, z 2010 r. Nr 188, poz. 1263 oraz z 2012 r. poz. 1046) oraz rozporządzenie Ministra Finansów z dnia 2 marca 2010 r. w sprawie szczegółowej klasyfikacji dochodów, wydatków, przychodów i rozchodów oraz środków pochodzących ze źródeł zagranicznych (Dz. U. Nr 38, poz. 207, z późn. zm.Zmiany wymienionego rozporządzenia zastały ogłoszone w Dz. U. z 2010 r. Nr 235, poz. 1546, z 2011 r. Nr 185, poz. 1098 i Nr 296, poz. 1758 oraz z 2012 r. poz. 421.), zwane dalej „klasyfikacją budżetową”,
 b)
 rozporządzenie Ministra Finansów z dnia 7 grudnia 2010 r. w sprawie sposobu prowadzenia gospodarki finansowej jednostek budżetowych i samorządowych zakładów budżetowych (Dz. U. Nr 241, poz. 1616),
 c)
@@ -92,9 +92,10 @@ ordynacji podatkowej – należy przez to rozumieć ustawę z dnia 29 sierpnia 1
 9)
 wydatkach niewygasających – należy przez to rozumieć wydatki ujęte w rozporządzeniu Rady Ministrów wydanym na podstawie art. 181 ust. 2 ustawy o finansach publicznych;
 10)
-Kpc – należy przez to rozumieć ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.);
+Kpc – należy przez to rozumieć ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699, z 2007 r. Nr 7, poz. 58, Nr 47, poz. 319, Nr 50, poz. 331, Nr 99, poz. 662, Nr 106, poz. 731, Nr 112, poz. 766 i 769, Nr 115, poz. 794, Nr 121, poz. 831, Nr 123, poz. 849, Nr 176, poz. 1243, Nr 181, poz. 1287, Nr 192, poz. 1378 i Nr 247, poz. 1845, z 2008 r. Nr 59, poz. 367, Nr 96, poz. 609 i 619, Nr 110, poz. 706, Nr 116, poz. 731, Nr 119, poz. 772, Nr 120, poz. 779, Nr 122, poz. 796, Nr 171, poz. 1056, Nr 220, poz. 1431, Nr 228, poz. 1507, Nr 231, poz. 1547 i Nr 234, poz. 1571, z 2009 r. Nr 26, poz. 156, Nr 67, poz. 571, Nr 69, poz. 592 i 593, Nr 131, poz. 1075, Nr 179, poz. 1395 i Nr 216, poz. 1676, z 2010 r. Nr 3, poz. 13, Nr 7, poz. 45, Nr 40, poz. 229, Nr 108, poz. 684, Nr 109, poz. 724, Nr 125, poz. 842, Nr 152, poz. 1018, Nr 155, poz. 1037, Nr 182, poz. 1228, Nr 197, poz. 1307, Nr 215, poz. 1418, Nr 217, poz. 1435 i Nr 241, poz. 1621, z 2011 r. Nr 34, poz. 173, Nr 85, poz. 458, Nr 87, poz. 482, Nr 92, poz. 531, Nr 112, poz. 654, Nr 129, poz. 735, Nr 138, poz. 806 i 807, Nr 144, poz. 854, Nr 149, poz. 887, Nr 224, poz. 1342, Nr 233, poz. 1381 i Nr 234, poz. 1391 oraz z 2012 r. poz. 908 i 1445.);
 11)
 układzie zadaniowym – należy przez to rozumieć zestawienie wydatków budżetu państwa, o którym mowa w art. 2 pkt 3 ustawy o finansach publicznych.
+Zasady dysponowania środkami budżetu sądownictwa, ustanawiania dysponentów środków oraz określenie ich zadań i kompetencji
 § 3.
 1.
 Środkami budżetowymi sądów w zakresie wykonywania wydatków dysponują – stosownie do zakresu swoich kompetencji – dysponenci poszczególnych stopni.
@@ -161,8 +162,7 @@ sądu apelacyjnego,
 b)
 sądu okręgowego, z tym że w sądzie okręgowym, którego dyrektor wykonuje zadania dla sądów rejonowych, w których nie ma stanowisk dyrektorów sądów, projekt planu finansowego stanowi sumę pomocniczych projektów planów finansowych sądu okręgowego oraz poszczególnych sądów rejonowych, zaś plan finansowy stanowi sumę pomocniczych planów finansowych sądu okręgowego oraz poszczególnych sądów rejonowych,
 c)
-sądu rejonowego, w którym powołano dyrektora sądu lub w którym stanowisko dyrektora sądu nie jest obsadzone
-a następnie wykonywanie budżetu danego sądu;
+sądu rejonowego, w którym powołano dyrektora sądu lub w którym stanowisko dyrektora sądu nie jest obsadzone – a następnie wykonywanie budżetu danego sądu;
 2)
 przygotowywanie projektu planu i planu wydatków w układzie zadaniowym odpowiednio:
 a)
@@ -170,8 +170,7 @@ sądu apelacyjnego,
 b)
 sądu okręgowego, z tym że w sądzie okręgowym, którego dyrektor wykonuje zadania dla sądów rejonowych, w których nie ma stanowisk dyrektorów sądów, projekt planu finansowego wydatków w układzie zadaniowym stanowi sumę pomocniczych projektów planów finansowych wydatków w układzie zadaniowym sądu okręgowego oraz poszczególnych sądów rejonowych, zaś plan finansowy wydatków w układzie zadaniowym stanowi sumę pomocniczych planów finansowych wydatków w układzie zadaniowym sądu okręgowego oraz poszczególnych sądów rejonowych,
 c)
-sądu rejonowego, w którym powołano dyrektora sądu lub w którym stanowisko dyrektora sądu nie jest obsadzone
-a następnie wykonywanie budżetu danego sądu w układzie zadaniowym;
+sądu rejonowego, w którym powołano dyrektora sądu lub w którym stanowisko dyrektora sądu nie jest obsadzone – a następnie wykonywanie budżetu danego sądu w układzie zadaniowym;
 3)
 opracowywanie w porozumieniu z właściwym dysponentem budżetu sądów na obszarze apelacji harmonogramu realizacji budżetu danego sądu;
 4)
@@ -192,6 +191,7 @@ a)
 sądu apelacyjnego – na podstawie art. 179 § 3 pkt 1 ustawy,
 b)
 sądu okręgowego – na podstawie art. 179 § 3 pkt 2 ustawy i w razie przekazania wykonywanie zadań inwestycyjnych na podstawie art. 179 § 4 ustawy.
+Zasady i tryb opracowywania planów finansowych sądów
 § 4.
 Gospodarkę finansową sądów apelacyjnych, okręgowych i rejonowych prowadzą oraz ponoszą za nią odpowiedzialność dyrektorzy tych sądów, a w sądach rejonowych, w których nie ma stanowisk dyrektorów sądów lub w których stanowiska dyrektorów nie są obsadzone – dyrektorzy przełożonych sądów okręgowych, na podstawie projektów planów, a następnie planów finansowych opracowywanych w trybie określonym w art. 178 ustawy i ustalanych w trybie określonym w art. 143 ust. 1 i 2 oraz art. 146 ustawy o finansach publicznych, a także na podstawie przepisów wykonawczych, o których mowa w § 2 pkt 3 lit. b – z uwzględnieniem przepisów niniejszego rozporządzenia.
 § 5.
@@ -245,8 +245,7 @@ Dysponent części budżetowej przekazuje dysponentom budżetu sądów na obszar
 1)
 program finansowany z udziałem środków europejskich,
 2)
-dział
-w celu opracowania projektów planów finansowych dla budżetu środków europejskich.
+dział – w celu opracowania projektów planów finansowych dla budżetu środków europejskich.
 15.
 Projekty planów finansowych dla budżetu środków europejskich w zakresie wydatków są sporządzane w szczegółowości: część, program finansowany z udziałem środków europejskich, dział, rozdział oraz paragraf. Przepisy ust. 8–13 stosuje się odpowiednio.
 § 7.
@@ -266,6 +265,7 @@ Plany finansowe sądów z obszarów apelacji muszą być zgodne z kwotami dochod
 Plany finansowe sądów są sporządzane w szczegółowości: część, dział, rozdział i paragraf.
 8.
 Plany finansowe wydatków sądów w zakresie wydatków ze środków europejskich są sporządzane w szczegółowości określonej w § 6 ust. 14. Przepisy ust. 1–6 stosuje się odpowiednio.
+Zasady i tryb dokonywania zmian w planach finansowych sądów
 § 8.
 1.
 Dysponent części budżetowej na podstawie zawiadomienia ministra właściwego do spraw finansów publicznych o zmianach wynikających z decyzji podjętych przez Radę Ministrów, Prezesa Rady Ministrów lub ministra właściwego do spraw finansów publicznych dokonuje niezwłocznie zmian w wydatkach budżetu państwa w części odpowiadającej sądom.
@@ -294,6 +294,7 @@ Dysponent budżetu sądów na obszarze apelacji informuje niezwłocznie właści
 Dysponent trzeciego stopnia informuje właściwego dysponenta budżetu sądów na obszarze apelacji o decyzjach, które dotyczą zmian, o których mowa w ust. 1, w terminie do 6. dnia miesiąca następującego po miesiącu, w którym dokonano zmian.
 5.
 Dysponent budżetu sądów na obszarze apelacji zawiadamia dysponenta części budżetowej o podjętych przez siebie i podległych mu dysponentów decyzjach wprowadzających zmiany w projektach planów finansowych oraz planach finansowych wydatków – w terminie do 10. dnia miesiąca następującego po miesiącu, w którym dokonano zmian.
+Uruchamianie środków budżetowych
 § 11.
 1.
 Środki pieniężne na wydatki sądownictwa, w tym również na finansowanie inwestycji, są przekazywane na rachunek bieżący wydatków dysponenta części budżetowej poprzez obciążenie centralnego rachunku bieżącego budżetu państwa w wysokości zgodnej z harmonogramem, o którym mowa w art. 147 ustawy o finansach publicznych, i zatwierdzonym limitem miesięcznym i dziennym środków na wydatki budżetowe.
@@ -319,6 +320,7 @@ Zapotrzebowanie, o którym mowa w ust. 6, powinno zawierać kwoty środków na w
 Aktualizacja dziennych zapotrzebowań na środki na wydatki budżetowe dotyczące kolejnej dekady powinna być dokonana przez poszczególnych dysponentów w terminie umożliwiającym dysponentowi części budżetowej przekazanie jej ministrowi właściwemu do spraw finansów publicznych na 2 dni robocze przed pierwszym dniem tej dekady.
 9.
 W przypadku konieczności zmiany limitu dziennego środków na wydatki budżetowe, o którym mowa w ust. 1, zapotrzebowanie na dodatkowe środki na wydatki budżetowe powinno zostać złożone w terminie umożliwiającym dysponentowi części budżetowej złożenie ministrowi właściwemu do spraw finansów publicznych zapotrzebowania nie później niż na 2 dni robocze przed planowanym uruchomieniem tych środków.
+Rachunki bankowe sądów
 § 12.
 1.
 Bankową obsługę budżetu sądów prowadzi się z wykorzystaniem rachunków bankowych bieżących i pomocniczych, w tym również w walutach obcych, zgodnie z przepisami ustawy o finansach publicznych oraz przepisami wykonawczymi, o których mowa w § 2 pkt 3 lit. d, z uwzględnieniem poniższych przepisów.
@@ -462,6 +464,7 @@ W przypadku, o którym mowa w ust. 1 pkt 1, sąd po wykonaniu zlecenia w termini
 W przypadku, o którym mowa w ust. 1 pkt 2, sąd, po rozstrzygnięciu o kosztach w orzeczeniu kończącym sprawę w instancji, rozlicza się ze stroną i zwraca niewykorzystane środki.
 § 19.
 Dysponenci trzeciego stopnia prowadzą odrębny rachunek pomocniczy dla sum depozytowych złożonych w pieniądzu krajowym i odrębny rachunek pomocniczy dla sum depozytowych złożonych w walutach obcych, osobno dla każdej waluty, oraz odrębny rachunek pomocniczy dla sum na zlecenie.
+Rozliczenia w okresie przejściowym po zakończeniu roku budżetowego
 § 20.
 1.
 W celu zaliczenia operacji dokonanych z końcem roku budżetowego na rachunkach właściwego roku budżetowego wprowadza się okres przejściowy dla operacji na rachunkach bieżących, po zakończeniu roku budżetowego, odpowiadający okresowi przejściowemu dla operacji na rachunkach bankowych budżetu państwa.
@@ -474,7 +477,7 @@ dochody budżetowe sądów wpłacone do dnia 31 grudnia do kas banków;
 3)
 rozliczone przez sądy dochody budżetowe paragrafu klasyfikacji budżetowej „Wpływy do wyjaśnienia”;
 4)
-wydatki budżetowe sądów z tytułu przyjętych do dnia 31 grudnia przez banki lub za pośrednictwem operatora publicznego lub innego operatora w rozumieniu ustawy z dnia 12 czerwca 2003 r. – Prawo pocztowe (Dz. U. z 2008 r. Nr 189, poz. 1159, z późn. zm.), przez instytucje finansowe i placówki handlowe czeków rozrachunkowych;
+wydatki budżetowe sądów z tytułu przyjętych do dnia 31 grudnia przez banki lub za pośrednictwem operatora publicznego lub innego operatora w rozumieniu ustawy z dnia 12 czerwca 2003 r. – Prawo pocztowe (Dz. U. z 2008 r. Nr 189, poz. 1159, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 18, poz. 97 i Nr 168, poz. 1323, z 2010 r. Nr 47, poz. 278 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622 i Nr 171, poz. 1016 oraz z 2012 r. poz. 951, 1194 i 1445.), przez instytucje finansowe i placówki handlowe czeków rozrachunkowych;
 5)
 zwroty wydatków budżetowych sądów dokonanych z rachunków bieżących wydatków do dnia 31 grudnia oraz zwroty środków sum na zlecenie;
 6)
@@ -493,6 +496,7 @@ dysponenci budżetu sądów na obszarze apelacji – w terminie do dnia 20 stycz
 dysponent części budżetowej – w terminie do dnia 25 stycznia – na odpowiedni rachunek wydatków centralnego rachunku bieżącego budżetu państwa.
 6.
 W przypadku gdy dzień, o którym mowa w ust. 2, 4 i 5, jest dniem wolnym od pracy, za ostatni dzień terminu uważa się pierwszy dzień roboczy po tym dniu.
+Tryb pobierania dochodów i dokonywania wydatków sądów
 § 21.
 Sądy, realizując dochody budżetowe, są obowiązane:
 1)
@@ -547,6 +551,7 @@ Dysponenci trzeciego stopnia mogą również zaciągać zobowiązania z tytułu 
 Dysponenci trzeciego stopnia, których zobowiązania zostały potrącone w trybie art. 64 § 2 ordynacji podatkowej, przekazują kwoty objęte potrąceniem na rachunek bankowy urzędu skarbowego, zgodnie z art. 64 § 5 i 7 ordynacji podatkowej.
 5.
 Zobowiązania sądów, które wynikają z tytułów wykonawczych, wyroków sądowych lub ugód, są dokonywane bez względu na poziom środków finansowych zaplanowanych na ten cel. Odpowiednia zmiana planu wydatków powinna nastąpić w trybie przeniesień, o których mowa w art. 164 ust. 1 ustawy o finansach publicznych, z zastrzeżeniem że nie mają do nich zastosowania ograniczenia, o których mowa w art. 171 ust. 1–5 ustawy o finansach publicznych.
+Sprawozdawczość budżetowa i finansowa
 § 28.
 1.
 Sądy sporządzają sprawozdania budżetowe na zasadach i w terminach określonych w przepisach wykonawczych, o których mowa w § 2 pkt 3 lit. e, z uwzględnieniem ust. 2–6.
@@ -586,8 +591,10 @@ Dysponenci budżetu sądów na obszarze apelacji na podstawie sprawozdań finans
 Dysponent części budżetowej na podstawie łącznych sprawozdań finansowych dysponentów budżetu sądów na obszarze apelacji sporządza łączne sprawozdanie finansowe dla sądów i przekazuje je do Ministerstwa Finansów do dnia 30 kwietnia roku następnego.
 § 31.
 Dysponent części budżetowej, dysponenci budżetu sądów na obszarze apelacji i dysponenci trzeciego stopnia sporządzają kwartalne informacje ze środków objętych rachunkami pomocniczymi, o których mowa w § 16, z wyłączeniem środków, o których mowa w § 12 ust. 4 pkt 2, na zasadach i w terminach określonych w przepisach wykonawczych, o którym mowa w § 2 pkt 3 lit. d.
+Prowadzenie działalności inwestycyjnej
 § 32.
 Działalność inwestycyjna sądów jest prowadzona na podstawie planów inwestycji stanowiących integralną część planów finansowych sądów, o których mowa w rozdziałach 3 i 4 niniejszego rozporządzenia, oraz na zasadach określonych w przepisach wykonawczych, o których mowa w § 2 pkt 3 lit. f.
+Przepisy przejściowe i końcowe
 § 33.
 1.
 Sprawozdania budżetowe, sprawozdania z wykonania planów finansowych w układzie zadaniowym oraz sprawozdania finansowe za rok 2012 są sporządzane na zasadach dotychczasowych.
@@ -600,27 +607,49 @@ Sądy rejonowe, w których zadania dyrektora sądu wykonują dyrektorzy przeło�
 § 35.
 Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 11 stycznia 2008 r. w sprawie szczegółowych zasad prowadzenia gospodarki finansowej i działalności inwestycyjnej sądów powszechnych (Dz. U. Nr 11, poz. 69 oraz z 2012 r. poz. 114).
 § 36.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698, z 2008 r. Nr 223, poz. 1457, Nr 228, poz. 1507 i Nr 234, poz. 1571, z 2009 r. Nr 1, poz. 4, Nr 9, poz. 57, Nr 26, poz. 156 i 157, Nr 56, poz. 459, Nr 157, poz. 1241, Nr 178, poz. 1375, Nr 219, poz. 1706 i Nr 223, poz. 1777, z 2010 r. Nr 182, poz. 1228 i Nr 205, poz. 1364, z 2011 r. Nr 109, poz. 627, Nr 126, poz. 714 i Nr 203, poz. 1192 oraz z 2012 r. poz. 637 i 672. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620, Nr 123, poz. 835, Nr 152, poz. 1020, Nr 238, poz. 1578 i Nr 257, poz. 1726, z 2011 r. Nr 185, poz. 1092, Nr 201, poz. 1183, Nr 234, poz. 1386, Nr 240, poz. 1429 i Nr 291, poz. 1707 oraz z 2012 r. poz. 1456. 3) Zmiany wymienionego rozporządzenia zastały ogłoszone w Dz. U. z 2010 r. Nr 235, poz. 1546, z 2011 r. Nr 185, poz. 1098 i Nr 296, poz. 1758 oraz z 2012 r. poz. 421. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699, z 2007 r. Nr 7, poz. 58, Nr 47, poz. 319, Nr 50, poz. 331, Nr 99, poz. 662, Nr 106, poz. 731, Nr 112, poz. 766 i 769, Nr 115, poz. 794, Nr 121, poz. 831, Nr 123, poz. 849, Nr 176, poz. 1243, Nr 181, poz. 1287, Nr 192, poz. 1378 i Nr 247, poz. 1845, z 2008 r. Nr 59, poz. 367, Nr 96, poz. 609 i 619, Nr 110, poz. 706, Nr 116, poz. 731, Nr 119, poz. 772, Nr 120, poz. 779, Nr 122, poz. 796, Nr 171, poz. 1056, Nr 220, poz. 1431, Nr 228, poz. 1507, Nr 231, poz. 1547 i Nr 234, poz. 1571, z 2009 r. Nr 26, poz. 156, Nr 67, poz. 571, Nr 69, poz. 592 i 593, Nr 131, poz. 1075, Nr 179, poz. 1395 i Nr 216, poz. 1676, z 2010 r. Nr 3, poz. 13, Nr 7, poz. 45, Nr 40, poz. 229, Nr 108, poz. 684, Nr 109, poz. 724, Nr 125, poz. 842, Nr 152, poz. 1018, Nr 155, poz. 1037, Nr 182, poz. 1228, Nr 197, poz. 1307, Nr 215, poz. 1418, Nr 217, poz. 1435 i Nr 241, poz. 1621, z 2011 r. Nr 34, poz. 173, Nr 85, poz. 458, Nr 87, poz. 482, Nr 92, poz. 531, Nr 112, poz. 654, Nr 129, poz. 735, Nr 138, poz. 806 i 807, Nr 144, poz. 854, Nr 149, poz. 887, Nr 224, poz. 1342, Nr 233, poz. 1381 i Nr 234, poz. 1391 oraz z 2012 r. poz. 908 i 1445. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 18, poz. 97 i Nr 168, poz. 1323, z 2010 r. Nr 47, poz. 278 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622 i Nr 171, poz. 1016 oraz z 2012 r. poz. 951, 1194 i 1445.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Zasady dysponowania środkami budżetu sądownictwa, ustanawiania dysponentów środków oraz określenie ich zadań i kompetencji
+#### Rozdział 2 – Zasady dysponowania środkami budżetu sądownictwa, ustanawiania dysponentów środków oraz określenie ich zadań i kompetencji
 
-#### Rozdział 3 Zasady i tryb opracowywania planów finansowych sądów
+#### Rozdział 3 – Zasady i tryb opracowywania planów finansowych sądów
 
-#### Rozdział 4 Zasady i tryb dokonywania zmian w planach finansowych sądów
+#### Rozdział 4 – Zasady i tryb dokonywania zmian w planach finansowych sądów
 
-#### Rozdział 5 Uruchamianie środków budżetowych
+#### Rozdział 5 – Uruchamianie środków budżetowych
 
-#### Rozdział 6 Rachunki bankowe sądów
+#### Rozdział 6 – Rachunki bankowe sądów
 
-#### Rozdział 7 Rozliczenia w okresie przejściowym po zakończeniu roku budżetowego
+#### Rozdział 7 – Rozliczenia w okresie przejściowym po zakończeniu roku budżetowego
 
-#### Rozdział 8 Tryb pobierania dochodów i dokonywania wydatków sądów
+#### Rozdział 8 – Tryb pobierania dochodów i dokonywania wydatków sądów
 
-#### Rozdział 9 Sprawozdawczość budżetowa i finansowa
+#### Rozdział 9 – Sprawozdawczość budżetowa i finansowa
 
-#### Rozdział 10 Prowadzenie działalności inwestycyjnej
+#### Rozdział 10 – Prowadzenie działalności inwestycyjnej
 
-#### Rozdział 11 Przepisy przejściowe i końcowe
+#### Rozdział 11 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
+
+#### Rozdział 11
 

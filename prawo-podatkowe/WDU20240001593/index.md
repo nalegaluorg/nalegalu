@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 27 września 2024 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw
+# Ustawa z dnia 27 września 2024 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawę z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-27 |
 | Data wydania | 2024-10-30 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2024-10-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001593) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1593/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 858, 859, 863, 1572 i 1585.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9 w ust. 5 w zdaniu drugim wyrazy „art. 6 ust. 1” zastępuje się wyrazami „art. 6 ust. 1, 1a i 1d”;
 - **2)** po art. 14b dodaje się art. 14c w brzmieniu: „
@@ -140,7 +139,7 @@ source: "eli-html"
 - **2)** w ust. 2c w pkt 5 wyrazy „stosuje się art. 24 ust. 1–2b” zastępuje się wyrazami „uwzględnia się art. 14c, art. 22 ust. 4a i 4b oraz art. 24 ust. 1–2b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych”;
 - **3)** ust. 2zd otrzymuje brzmienie: „ 2zd. Ilekroć w ust. 2 i 2b-2zc jest mowa o przychodach i kosztach ich uzyskania w rozumieniu ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, nie uwzględnia się w tych przychodach i kosztach ich uzyskania przychodów osiągniętych i kosztów poniesionych w okresie zawieszenia wykonywania działalności gospodarczej na podstawie przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, z wyłączeniem przychodów rozliczanych w tym okresie na podstawie art. 14c ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i kosztów potrąconych w tym okresie na podstawie art. 22 ust. 4a i 4b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. ” .
 
-**Art. 4.** W ustawie z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw (Dz. U. poz. 2105, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw (Dz. U. poz. 2105, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2349, 2427 i 2469, z 2022 r. poz. 1265, 1301, 1719 i 2180 oraz z 2023 r. poz. 1059, 1414 i 1598.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w pkt 39 w lit. d, w ust. 8 pkt 2 otrzymuje brzmienie: „
 - **2)** grupy podmiotów zwolnionych z obowiązku prowadzenia księgi, ksiąg rachunkowych i ewidencji środków trwałych oraz wartości niematerialnych i prawnych przy użyciu programów komputerowych lub przesyłania księgi, ksiąg rachunkowych w całości albo części lub ewidencji środków trwałych oraz wartości niematerialnych i prawnych na podstawie ust. 1e ” ;
@@ -173,5 +172,5 @@ source: "eli-html"
 
 3. Przepis art. 30c ust. 3a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się do dochodów uzyskanych po dniu 31 grudnia 2024 r.
 
-**Art. 7.** Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem art. 1 pkt 3 i 9, art. 2 pkt 2 lit. a, art. 4 oraz art. 6 ust. 1 i 2, które wchodzą w życie z dniem ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem art. 1 pkt 3 i 9, art. 2 pkt 2 lit. a, art. 4 oraz art. 6 ust. 1 i 2, które wchodzą w życie z dniem ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawę z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 858, 859, 863, 1572 i 1585. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2349, 2427 i 2469, z 2022 r. poz. 1265, 1301, 1719 i 2180 oraz z 2023 r. poz. 1059, 1414 i 1598.
 

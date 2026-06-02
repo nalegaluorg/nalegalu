@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Infrastrukturyz dnia 10 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego
+# Obwieszczenie Ministra Infrastrukturyz dnia 10 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego Minister Infrastruktury kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 4 października 2018 r. w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego (Dz. U. poz. 2031), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury z dnia 14 sierpnia 2023 r. zmieniającym rozporządzenie w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego (Dz. U. poz. 1792).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury z dnia 14 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego (Dz. U. poz. 1792), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury z dnia 14 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego (Dz. U. poz. 1792), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Infrastruktury kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
-Załącznik – Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 4 października 2018 r. w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Infrastruktury kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
+Załącznik – Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 4 października 2018 r. w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowegoNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – gospodarka wodna kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
 Na podstawie art. 174 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890, 1963 i 2029) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -60,11 +57,11 @@ Bazę danych przestrzennych map zagrożenia powodziowego i map ryzyka powodziowe
 Mapy zagrożenia powodziowego oraz mapy ryzyka powodziowego opracowuje się w układzie współrzędnych płaskich prostokątnych PL-1992, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2023 r. poz. 1752, 1615, 1688 i 1762), zwanym dalej „układem współrzędnych płaskich prostokątnych PL-1992”.
 4.
 Mapy zagrożenia powodziowego oraz mapy ryzyka powodziowego w wersji kartograficznej opracowuje się w podziale arkuszowym map topograficznych w skali 1:10 000 w układzie współrzędnych płaskich prostokątnych PL-1992.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury z dnia 14 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego (Dz. U. poz. 1792), które weszło w życie z dniem 20 września 2023 r..
 Mapy zagrożenia powodziowego oraz mapy ryzyka powodziowego w wersji kartograficznej opracowuje się w postaci plików w formacie PDF, zawierających treść tych map wraz z elementami pozaramkowymi.
 6.
 Podkład topograficzny dla map zagrożenia powodziowego oraz map ryzyka powodziowego w wersji kartograficznej stanowią mapy topograficzne w skali 1:10 000 lub ortofotomapy o terenowej wartości piksela nie większej niż 0,5 m.
-§ 4.
+§ 4W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Wizualizacje map zagrożenia powodziowego i map ryzyka powodziowego, o których mowa w art. 173 ust. 17 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, opracowuje się w układzie współrzędnych płaskich prostokątnych PL-1992.
 2.
@@ -404,6 +401,5 @@ W przypadku braku danych, o których mowa w ust. 1 pkt 4, 8 i 9, lub stwierdzeni
 3.
 Dane z rejestrów i ewidencji, o których mowa w ust. 1 pkt 19 i 20, zaznacza się na mapach ryzyka powodziowego w przypadku dostępności danych w postaci warstwy wektorowej.
 § 19.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – gospodarka wodna kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury z dnia 14 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego (Dz. U. poz. 1792), które weszło w życie z dniem 20 września 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Rozporządzenie zostało ogłoszone w dniu 23 października 2018 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska, Ministra Transportu, Budownictwa i Gospodarki Morskiej, Ministra Administracji i Cyfryzacji oraz Ministra Spraw Wewnętrznych z dnia 21 grudnia 2012 r. w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego (Dz. U. z 2013 r. poz. 104), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 566 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650, 710, 1479, 1669 i 1722).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 23 października 2018 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska, Ministra Transportu, Budownictwa i Gospodarki Morskiej, Ministra Administracji i Cyfryzacji oraz Ministra Spraw Wewnętrznych z dnia 21 grudnia 2012 r. w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego (Dz. U. z 2013 r. poz. 104), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 566 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650, 710, 1479, 1669 i 1722). 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – gospodarka wodna kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury z dnia 14 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego (Dz. U. poz. 1792), które weszło w życie z dniem 20 września 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Rozporządzenie zostało ogłoszone w dniu 23 października 2018 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska, Ministra Transportu, Budownictwa i Gospodarki Morskiej, Ministra Administracji i Cyfryzacji oraz Ministra Spraw Wewnętrznych z dnia 21 grudnia 2012 r. w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego (Dz. U. z 2013 r. poz. 104), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 566 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650, 710, 1479, 1669 i 1722).
 

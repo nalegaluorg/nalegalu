@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 29 września 2022 r. o zasadach realizacji programów wsparcia przedsiębiorców w związku z sytuacją na rynku energii w latach 2022–2024
+# Ustawa z dnia 29 września 2022 r. o zasadach realizacji programów wsparcia przedsiębiorców w związku z sytuacją na rynku energii w latach 2022–2024 Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska oraz ustawę z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-29 |
 | Data wydania | 2022-10-12 |
-| Wejście w życie | 2022-10-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002088) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2088/text.pdf) |
 
@@ -104,7 +103,7 @@ source: "eli-html"
 
 **Art. 8.**
 
-1. W przypadku stwierdzenia przez operatora programu, że pomoc została przyznana nienależnie lub w wysokości wyższej niż należna, przedsiębiorca dokonuje zwrotu środków pobranych nienależnie albo w wysokości wyższej niż należna wraz z odsetkami obliczonymi z zastosowaniem stopy oprocentowania stosowanej do celów zwrotu pomocy określonej zgodnie z rozdziałem V rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. w sprawie wykonania rozporządzenia Rady (UE) nr 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 4, str. 3) począwszy od dnia przekazania pomocy na rachunek przedsiębiorcy.
+1. W przypadku stwierdzenia przez operatora programu, że pomoc została przyznana nienależnie lub w wysokości wyższej niż należna, przedsiębiorca dokonuje zwrotu środków pobranych nienależnie albo w wysokości wyższej niż należna wraz z odsetkami obliczonymi z zastosowaniem stopy oprocentowania stosowanej do celów zwrotu pomocy określonej zgodnie z rozdziałem V rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. w sprawie wykonania rozporządzenia Rady (UE) nr 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 01.11.2006, str. 10, Dz. Urz. UE L 407 z 30.12.2006, str. 1, Dz. Urz. UE L 82 z 25.03.2008, str. 1, Dz. Urz. UE L 313 z 22.11.2008, str. 1, Dz. Urz. UE L 81 z 27.03.2009, str. 15, Dz. Urz. UE L 308 z 24.11.2009, str. 5, Dz. Urz. UE L 109 z 12.04.2014, str. 14, Dz. Urz. UE L 325 z 10.12.2015, str. 1, Dz. Urz. UE L 51 z 26.02.2016, str. 1 oraz Dz. Urz. UE L 327 z 02.12.2016, str. 19. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 4, str. 3) począwszy od dnia przekazania pomocy na rachunek przedsiębiorcy.
 
 2. W przypadku gdy przedsiębiorca nie dokona zwrotu otrzymanej pomocy albo dokona jej zwrotu w kwocie niższej niż należna, operator programu wzywa przedsiębiorcę do zwrotu tych środków w terminie 14 dni od dnia doręczenia wezwania.
 
@@ -118,7 +117,7 @@ source: "eli-html"
 
 **Art. 9.** Do dnia wydania decyzji Komisji Europejskiej o zgodności pomocy przewidzianej w programie rządowym, o którym mowa w art. 3 ust. 1, z rynkiem wewnętrznym pomocy nie udziela się.
 
-**Art. 10.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm.) w art. 400b po ust. 5b dodaje się ust. 5c i 5d w brzmieniu: „ 5c. Narodowy Fundusz może wykonywać zadania określone w programie rządowym przyjętym przez Radę Ministrów. 5d. Rada Ministrów, przyjmując program, o którym mowa w ust. 5c, wskazuje w nim kwotę środków przeznaczonych na pokrycie kosztów realizacji zadań przez Narodowy Fundusz oraz źródło pokrycia tych kosztów. ” .
+**Art. 10.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2127 i 2269 oraz z 2022 r. poz. 1079, 1260, 1504, 1576 i 1747.) w art. 400b po ust. 5b dodaje się ust. 5c i 5d w brzmieniu: „ 5c. Narodowy Fundusz może wykonywać zadania określone w programie rządowym przyjętym przez Radę Ministrów. 5d. Rada Ministrów, przyjmując program, o którym mowa w ust. 5c, wskazuje w nim kwotę środków przeznaczonych na pokrycie kosztów realizacji zadań przez Narodowy Fundusz oraz źródło pokrycia tych kosztów. ” .
 
 **Art. 11.** W ustawie z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych (Dz. U. z 2022 r. poz. 1312 i 1477) wprowadza się następujące zmiany:
 
@@ -195,5 +194,5 @@ source: "eli-html"
 
 4. W przypadku gdy wielkość wydatków w poszczególnych miesiącach jest zgodna z planem finansowym, przepisu ust. 3 nie stosuje się.
 
-**Art. 20.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 20.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska oraz ustawę z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 01.11.2006, str. 10, Dz. Urz. UE L 407 z 30.12.2006, str. 1, Dz. Urz. UE L 82 z 25.03.2008, str. 1, Dz. Urz. UE L 313 z 22.11.2008, str. 1, Dz. Urz. UE L 81 z 27.03.2009, str. 15, Dz. Urz. UE L 308 z 24.11.2009, str. 5, Dz. Urz. UE L 109 z 12.04.2014, str. 14, Dz. Urz. UE L 325 z 10.12.2015, str. 1, Dz. Urz. UE L 51 z 26.02.2016, str. 1 oraz Dz. Urz. UE L 327 z 02.12.2016, str. 19. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2127 i 2269 oraz z 2022 r. poz. 1079, 1260, 1504, 1576 i 1747.
 

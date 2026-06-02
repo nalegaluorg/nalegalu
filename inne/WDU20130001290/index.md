@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 11 października 2013 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 11 października 2013 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawę z dnia 14 czerwca 2012 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-10-11 |
 | Data wydania | 2013-11-06 |
-| Wejście w życie | 2013-11-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001290) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1290/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548 oraz z 2013 r. poz. 154, 879 i 983.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5: po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **a)**
@@ -100,7 +99,7 @@ source: "eli-html"
 
 1e. Dyrektor oddziału wojewódzkiego Funduszu jest obowiązany niezwłocznie przeprowadzić postępowanie w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej w zakresie świadczeń objętych umową, której okres obowiązywania został przedłużony na podstawie ust. 1a i 1b, w przypadku gdy takie postępowanie nie zostało wszczęte albo zakończone. ” .
 
-**Art. 2.** W ustawie z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. Nr 122, poz. 696, z późn. zm.) w art. 70:
+**Art. 2.** W ustawie z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. Nr 122, poz. 696, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 95 i 742 oraz z 2013 r. poz. 766.) w art. 70:
 
 - **1)** ust. 1 otrzymuje brzmienie: „
 
@@ -120,5 +119,5 @@ source: "eli-html"
 
 **Art. 5.** Do postępowań, o których mowa w art. 154 ustawy, o której mowa w art. 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1 i 4, które wchodzą w życie z dniem 1 stycznia 2014 r.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1 i 4, które wchodzą w życie z dniem 1 stycznia 2014 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawę z dnia 14 czerwca 2012 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548 oraz z 2013 r. poz. 154, 879 i 983. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 95 i 742 oraz z 2013 r. poz. 766.
 

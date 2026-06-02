@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-04-10 |
 | Data wydania | 2012-04-18 |
-| Wejście w życie | 2012-05-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000420) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/420/text.pdf) |
 
@@ -81,5 +80,5 @@ W razie zgonu osoby zmarłej na chorobę zakaźną stosuje się przepisy wydane 
 § 5.
 W razie zgonu osoby zmarłej w czasie odbywania kary pozbawienia wolności, stosuje się przepisy wydane na podstawie art. 10 ust. 5 ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 31 października 2006 r. w sprawie postępowania ze zwłokami osób zmarłych w szpitalu (Dz. U. Nr 203, poz. 1503), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 219 ust. 1 pkt 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654, Nr 149, poz. 887, Nr 174, poz. 1039 i Nr 185, poz. 1092). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 31 października 2006 r. w sprawie postępowania ze zwłokami osób zmarłych w szpitalu (Dz. U. Nr 203, poz. 1503), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 219 ust. 1 pkt 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654, Nr 149, poz. 887, Nr 174, poz. 1039 i Nr 185, poz. 1092).
 

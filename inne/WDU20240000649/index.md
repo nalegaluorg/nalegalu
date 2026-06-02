@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 12 kwietnia 2024 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych
+# Ustawa z dnia 12 kwietnia 2024 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych Niniejsza ustawa uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2014/40/UE z dnia 3 kwietnia 2014 r. w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych państw członkowskich w sprawie produkcji, prezentowania i sprzedaży wyrobów tytoniowych i powiązanych wyrobów oraz uchylającej dyrektywę 2001/37/WE (Dz. Urz. UE L 127 z 29.04.2014, str. 1, Dz. Urz. UE L 360 z 17.12.2014, str. 22, Dz. Urz. UE L 150 z 17.06.2015, str. 24 oraz Dz. Urz. UE L 283 z 03.11.2022, str. 4).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-12 |
 | Data wydania | 2024-04-26 |
-| Wejście w życie | 2024-05-20 |
 | Ostatnia zmiana | 2024-08-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000649) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/649/text.pdf) |
 
@@ -45,5 +44,5 @@ source: "eli-html"
 
 6. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, rodzaje elementów potwierdzających autentyczność, o których mowa w art. 3 decyzji wykonawczej Komisji (UE) 2018/576, w przypadku zabezpieczenia umieszczanego na opakowaniach jednostkowych wyrobów tytoniowych, o których mowa w ust. 2 pkt 2, uwzględniając potrzebę zapewnienia sprawnego funkcjonowania systemu identyfikowalności. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 20 maja 2024 r.
+**Art. 2.** Ustawa wchodzi w życie z dniem 20 maja 2024 r. 1) Niniejsza ustawa uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2014/40/UE z dnia 3 kwietnia 2014 r. w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych państw członkowskich w sprawie produkcji, prezentowania i sprzedaży wyrobów tytoniowych i powiązanych wyrobów oraz uchylającej dyrektywę 2001/37/WE (Dz. Urz. UE L 127 z 29.04.2014, str. 1, Dz. Urz. UE L 360 z 17.12.2014, str. 22, Dz. Urz. UE L 150 z 17.06.2015, str. 24 oraz Dz. Urz. UE L 283 z 03.11.2022, str. 4).
 

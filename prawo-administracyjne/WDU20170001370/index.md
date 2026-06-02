@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-08 |
 | Data wydania | 2017-07-13 |
-| Wejście w życie | 2017-07-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001370) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1370/text.pdf) |
 
@@ -36,7 +35,7 @@ source: "eli-html"
 
 - **1)** organy administracji rządowej,
 - **2)** państwowe jednostki organizacyjne nieposiadające osobowości prawnej,
-- **3)** Skarb Państwa czynności w postępowaniu podejmuje Prokuratoria Generalna Rzeczypospolitej Polskiej. ” ;
+- **3)** Skarb Państwa – czynności w postępowaniu podejmuje Prokuratoria Generalna Rzeczypospolitej Polskiej. ” ;
 - **2)** w art. 175: w § 1 wyrazy „§ 2 i 3” zastępuje się wyrazami „§ 2–3”, po § 2 dodaje się § 2a w brzmieniu: „
     - **a)**
     - **b)**

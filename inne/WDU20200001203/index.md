@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-30 |
 | Data wydania | 2020-07-06 |
-| Wejście w życie | 2020-07-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001203) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1203/text.pdf) |
 
@@ -45,8 +44,7 @@ specjalistyczne,
 5)
 doskonalenia zawodowego,
 6)
-języków obcych
-zwane dalej „szkoleniami”.
+języków obcych – zwane dalej „szkoleniami”.
 § 2.
 1.
 Szkolenia, o których mowa w § 1 pkt 1–3, organizuje kierownik jednostki organizacyjnej SKW właściwej w sprawach szkoleń, zwanej dalej „jednostką szkoleniową”.

@@ -31,10 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 lipca 2011 r. o krajowym systemie ekozarządzania i audytu (EMAS) (Dz. U. z 2020 r. poz. 634), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 czerwca 2022 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 września 2022 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 9 ustawy z dnia 9 czerwca 2022 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1260), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 9 ustawy z dnia 9 czerwca 2022 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1260), który stanowi: „
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3, 4 i 5, art. 4 oraz art. 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 15 lipca 2011 r. o krajowym systemie ekozarządzania i audytu (EMAS)
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3, 4 i 5, art. 4 oraz art. 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 15 lipca 2011 r. o krajowym systemie ekozarządzania i audytu (EMAS)Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1221/2009 z dnia 25 listopada 2009 r. w sprawie dobrowolnego udziału organizacji w systemie ekozarządzania i audytu we Wspólnocie (EMAS), uchylającego rozporządzenie (WE) nr 761/2001 oraz decyzje Komisji 2001/681/WE i 2006/193/WE (Dz. Urz. UE L 342 z 22.12.2009, str. 1).
 
 **Art. 1.** Ustawa określa instytucje właściwe do wykonywania zadań wynikających z przepisów prawa Unii Europejskiej dopuszczających dobrowolny udział organizacji w systemie ekozarządzania i audytu (EMAS).
 
@@ -57,8 +56,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **5)** regionalny dyrektor ochrony środowiska;
 - **6)** organy Inspekcji Ochrony Środowiska;
 - **7)** organy Państwowej Inspekcji Sanitarnej;
-- **8)** Prezes Wyższego Urzędu Górniczego;
-- **9)** Prezes Państwowego Gospodarstwa Wodnego Wody Polskie.
+- **8)** Prezes Wyższego Urzędu Górniczego; 9Dodany przez art. 3 ustawy z dnia 9 czerwca 2022 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1260), która weszła w życie z dniem 29 czerwca 2022 r.) Prezes Państwowego Gospodarstwa Wodnego Wody Polskie.
 
 2. Organy określone w ust. 1 wykonują zadania organów egzekwowania prawa, o których mowa w art. 2 pkt 26 rozporządzenia (WE) nr 1221/2009, na podstawie i w zakresie określonych w przepisach odrębnych.
 
@@ -200,5 +198,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 18.** Traci moc ustawa z dnia 12 marca 2004 r. o krajowym systemie ekozarządzania i audytu (EMAS) (Dz. U. poz. 631, z 2005 r. poz. 1462, z 2007 r. poz. 621 oraz z 2008 r. poz. 1227).
 
-**Art. 19.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 19.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 29 sierpnia 2011 r.. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1221/2009 z dnia 25 listopada 2009 r. w sprawie dobrowolnego udziału organizacji w systemie ekozarządzania i audytu we Wspólnocie (EMAS), uchylającego rozporządzenie (WE) nr 761/2001 oraz decyzje Komisji 2001/681/WE i 2006/193/WE (Dz. Urz. UE L 342 z 22.12.2009, str. 1). 2) Dodany przez art. 3 ustawy z dnia 9 czerwca 2022 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1260), która weszła w życie z dniem 29 czerwca 2022 r. 3) Ustawa została ogłoszona w dniu 29 sierpnia 2011 r.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1996-09-12 |
 | Data wydania | 1996-10-23 |
-| Wejście w życie | 1996-10-31 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961240585) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/585/text.pdf) |
 
@@ -96,8 +95,11 @@ source: "eli-html"
 
 - **1)** odroczyć termin płatności należności z tytułu składek na ubezpieczenie, rozłożyć jej spłatę na raty lub umorzyć należność,
 - **2)** umorzyć należność Kasy z tytułu nienależnie pobranych świadczeń. ” ;
-- **17)** w art. 46: w ust. 2: – w pkt 2 na początku dodaje się wyrazy „stałej albo”, – w pkt 3 wyrazy „badań kontrolnych” zastępuje się wyrazami „badania kontrolnego”, – pkt 4 otrzymuje brzmienie: „ 4) stwierdzenia niezdolności do samodzielnej egzystencji, ” – dodaje się pkt 5 w brzmieniu: „ 5) ustalenia wskazań do rehabilitacji ” , – w zdaniu po myślniku wyrazy „wydaje się w trybie określonym w odrębnych przepisach, obowiązującym w postępowaniu o ustalenie analogicznego prawa do świadczeń przysługujących pracownikom i członkom ich rodzin” zastępuje się wyrazami „wydają w pierwszej instancji lekarze rzeczoznawcy, a w drugiej instancji – komisje lekarskie Kasy.”; po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **17)** w art. 46: w ust. 2: – w pkt 2 na początku dodaje się wyrazy „stałej albo”, – w pkt 3 wyrazy „badań kontrolnych” zastępuje się wyrazami „badania kontrolnego”, pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** stwierdzenia niezdolności do samodzielnej egzystencji, ” dodaje się pkt 5 w brzmieniu: „
+- **5)** ustalenia wskazań do rehabilitacji ” , – w zdaniu po myślniku wyrazy „wydaje się w trybie określonym w odrębnych przepisach, obowiązującym w postępowaniu o ustalenie analogicznego prawa do świadczeń przysługujących pracownikom i członkom ich rodzin” zastępuje się wyrazami „wydają w pierwszej instancji lekarze rzeczoznawcy, a w drugiej instancji – komisje lekarskie Kasy.”; po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. Prezes Kasy sprawuje nadzór nad lekarzami rzeczoznawcami i komisjami lekarskimi Kasy. Prezes Kasy określi tryb, zakres i organizacje działania lekarzy rzeczoznawców i komisji lekarskich Kasy oraz tryb sprawowania nad nimi nadzoru. ” ;

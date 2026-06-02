@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1992-02-15 |
 | Data wydania | 1992-03-10 |
-| Wejście w życie | 1992-03-10 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920210084) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1992/84/text.pdf) |
 
@@ -58,10 +57,13 @@ source: "eli-html"
 
 - **b)**
 
-2a. Wysokość odprawy nie może przekraczać kwoty 15-krotnego najniższego wynagrodzenia obowiązującego w dniu rozwiązania stosunku pracy, ustalonego przez Ministra Pracy i Polityki Socjalnej na podstawie odrębnych przepisów. ” , w ust. 3: – skreśla się pkt 1, – po pkt 3 dodaje się pkt 4–6 w brzmieniu: „ 4) zatrudnionemu w niepełnym wymiarze czasu pracy i otrzymującemu emeryturę lub rentę albo zatrudnionemu w innym zakładzie pracy w pełnym wymiarze czasu pracy lub w kilku zakładach pracy łącznie w pełnym wymiarze czasu pracy, 5) prowadzącemu działalność gospodarczą na własny rachunek, 6) prowadzącemu gospodarstwo rolne o powierzchni użytków rolnych powyżej 5 ha przeliczeniowych albo gospodarstwo stanowiące dział specjalny produkcji rolnej w rozumieniu przepisów podatkowych, z którego wysokość podatku rolnego przekracza wysokość podatku z 5 ha przeliczeniowych. ” , ust. 4 otrzymuje brzmienie: „
+2a. Wysokość odprawy nie może przekraczać kwoty 15-krotnego najniższego wynagrodzenia obowiązującego w dniu rozwiązania stosunku pracy, ustalonego przez Ministra Pracy i Polityki Socjalnej na podstawie odrębnych przepisów. ” , w ust. 3: – skreśla się pkt 1, po pkt 3 dodaje się pkt 4–6 w brzmieniu: „
 
 - **c)**
-- **d)**
+- **4)** zatrudnionemu w niepełnym wymiarze czasu pracy i otrzymującemu emeryturę lub rentę albo zatrudnionemu w innym zakładzie pracy w pełnym wymiarze czasu pracy lub w kilku zakładach pracy łącznie w pełnym wymiarze czasu pracy,
+- **5)** prowadzącemu działalność gospodarczą na własny rachunek,
+- **6)** prowadzącemu gospodarstwo rolne o powierzchni użytków rolnych powyżej 5 ha przeliczeniowych albo gospodarstwo stanowiące dział specjalny produkcji rolnej w rozumieniu przepisów podatkowych, z którego wysokość podatku rolnego przekracza wysokość podatku z 5 ha przeliczeniowych. ” , ust. 4 otrzymuje brzmienie: „
+    - **d)**
 
 4. W razie zbiegu prawa do odprawy przewidzianej w ust. 1 i jednorazowej odprawy pieniężnej w związku z przejściem na emeryturę lub rentę inwalidzką, pracownikowi przysługuje jedna, korzystniejsza dla niego odprawa. ” , skreśla się ust. 5 i 6;
 
@@ -70,8 +72,10 @@ source: "eli-html"
 
 **Art. 4.** W ustawie z dnia 16 października 1991 r. o zatrudnieniu i bezrobociu (Dz. U. Nr 106, poz. 457) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) przeciętnym wynagrodzeniu – oznacza to przeciętne miesięczne wynagrodzenie w poprzednim kwartale od dnia ogłoszenia przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski ”” , – skreśla się pkt 5, – w pkt 3 w lit. a) wyrazy „z zastrzeżeniem pkt 13 lit. b) i c)” zastępuje się wyrazami „z wyjątkiem osób wymienionych w pkt 13”, skreśla się ust. 5;
+- **1)** w art. 2: w ust. 1: pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** przeciętnym wynagrodzeniu – oznacza to przeciętne miesięczne wynagrodzenie w poprzednim kwartale od dnia ogłoszenia przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski ”” , – skreśla się pkt 5, – w pkt 3 w lit. a) wyrazy „z zastrzeżeniem pkt 13 lit. b) i c)” zastępuje się wyrazami „z wyjątkiem osób wymienionych w pkt 13”, skreśla się ust. 5;
     - **b)**
 
 - **2)** w art. 10 w ust. 3 skreśla się kropkę i dodaje wyrazy „właściwy terytorialnie dla rejonowego urzędu pracy, przy którym utworzona jest rejonowa rada zatrudnienia.”;

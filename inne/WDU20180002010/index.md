@@ -26,18 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002010) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2010/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Rady Ministrów z dnia 28 maja 1996 r. w sprawie przygotowania zawodowego młodocianych i ich wynagradzania Rozdział 1 – Przepisy ogólne Rozdział 2 – Nauka zawodu Rozdział 3 – Przyuczenie do wykonywania określonej pracy Rozdział 4 – Zasady wynagradzania młodocianych Rozdział 5 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Rady Ministrów z dnia 28 maja 1996 r. w sprawie przygotowania zawodowego młodocianych i ich wynagradzania
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 28 maja 1996 r. w sprawie przygotowania zawodowego młodocianych i ich wynagradzania (Dz. U. z 2014 r. poz. 232), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 16 sierpnia 2017 r. zmieniającym rozporządzenie w sprawie przygotowania zawodowego młodocianych i ich wynagradzania (Dz. U. poz. 1641).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Rady Ministrów z dnia 16 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie przygotowania zawodowego młodocianych i ich wynagradzania (Dz. U. poz. 1641), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Rady Ministrów z dnia 16 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie przygotowania zawodowego młodocianych i ich wynagradzania (Dz. U. poz. 1641), które stanowią: „
 § 2.
 1.
 Młodociany pracownik, który rozpoczął dokształcanie teoretyczne w zakresie zasadniczej szkoły zawodowej przed dniem 1 września 2017 r., kontynuuje to dokształcanie na zasadach określonych dla uczniów zasadniczych szkół zawodowych w ustawie z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
 2.
-Młodociany zatrudniony u pracodawcy niebędącego rzemieślnikiem, który przed dniem 1 września 2017 r. rozpoczął dokształcanie teoretyczne w dotychczasowej zasadniczej szkole zawodowej, zdaje egzamin potwierdzający kwalifikacje w zawodzie z zakresu kwalifikacji wyodrębnionej w tym zawodzie, a w przypadku gdy w zawodzie wyodrębniono więcej niż jedną kwalifikację – egzaminy potwierdzające kwalifikacje w zawodzie z zakresu wszystkich kwalifikacji wyodrębnionych w tym zawodzie, zgodnie z przepisami rozdziału 3b ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.), w brzmieniu obowiązującym w dniu 31 sierpnia 2017 r.
+Młodociany zatrudniony u pracodawcy niebędącego rzemieślnikiem, który przed dniem 1 września 2017 r. rozpoczął dokształcanie teoretyczne w dotychczasowej zasadniczej szkole zawodowej, zdaje egzamin potwierdzający kwalifikacje w zawodzie z zakresu kwalifikacji wyodrębnionej w tym zawodzie, a w przypadku gdy w zawodzie wyodrębniono więcej niż jedną kwalifikację – egzaminy potwierdzające kwalifikacje w zawodzie z zakresu wszystkich kwalifikacji wyodrębnionych w tym zawodzie, zgodnie z przepisami rozdziału 3b ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.), w brzmieniu obowiązującym w dniu 31 sierpnia 2017 r.
 3.
 Młodociany zatrudniony u pracodawcy niebędącego rzemieślnikiem, który przed dniem 1 września 2017 r. rozpoczął dokształcanie teoretyczne w zakresie zasadniczej szkoły zawodowej w ośrodku dokształcania i doskonalenia zawodowego lub u pracodawcy, zdaje egzamin eksternistyczny potwierdzający kwalifikacje w zawodzie z zakresu kwalifikacji wyodrębnionej w tym zawodzie, a w przypadku gdy w zawodzie wyodrębniono więcej niż jedną kwalifikację – egzaminy eksternistyczne potwierdzające kwalifikacje w zawodzie z zakresu wszystkich kwalifikacji wyodrębnionych w tym zawodzie, zgodnie z przepisami dotyczącymi egzaminów eksternistycznych.
 4.
@@ -45,10 +44,10 @@ Młodociany zatrudniony u pracodawcy będącego rzemieślnikiem, który rozpocz�
 5.
 Młodociany pracownik, który rozpoczął przyuczenie do wykonywania określonej pracy przed dniem 1 września 2017 r., kontynuuje to przyuczenie na dotychczasowych zasadach.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. ” . 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.
 Załącznik – Rozporządzenie Rady Ministrów z dnia 28 maja 1996 r. w sprawie przygotowania zawodowego młodocianych i ich wynagradzania
 Na podstawie art. 191 § 3 i art. 195 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, 1000, 1076, 1608 i 1629) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Przygotowanie zawodowe młodocianych pracowników, zwanych dalej „młodocianymi”, może odbywać się przez:
@@ -68,8 +67,7 @@ pracodawca,
 2)
 osoba prowadząca zakład pracy w imieniu pracodawcy,
 3)
-osoba zatrudniona u pracodawcy
-pod warunkiem posiadania kwalifikacji wymaganych od instruktorów praktycznej nauki zawodu, określonych w przepisach dotyczących praktycznej nauki zawodu.
+osoba zatrudniona u pracodawcy – pod warunkiem posiadania kwalifikacji wymaganych od instruktorów praktycznej nauki zawodu, określonych w przepisach dotyczących praktycznej nauki zawodu.
 2.
 Kwalifikacje, o których mowa w ust. 1, nie dotyczą pracodawców, w imieniu których przygotowanie zawodowe młodocianych prowadzą uprawnieni do tego pracownicy.
 § 3.
@@ -82,7 +80,8 @@ Ilekroć w rozporządzeniu jest mowa o „izbie rzemieślniczej”, należy prze
 Przepisy § 1 ust. 2, § 2, 3, 5, 8–10, § 11 ust. 6, § 14 i § 15 ust. 3 odnoszące się do pracodawców stosuje się odpowiednio do pracodawców będących rzemieślnikami.
 § 4.
 W razie konieczności wypowiedzenia młodocianemu umowy o pracę w celu przygotowania zawodowego odbywanego w formie nauki zawodu pracodawca zawiadamia przedstawiciela ustawowego młodocianego lub jego opiekuna oraz szkołę, jeżeli młodociany dokształca się w szkole, a także izbę rzemieślniczą, jeżeli pracodawcą jest rzemieślnik, w celu umożliwienia młodocianemu kontynuowania nauki zawodu w dotychczasowym lub zbliżonym zawodzie.
-§ 5.
+Nauka zawodu
+§ 5W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 16 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie przygotowania zawodowego młodocianych i ich wynagradzania (Dz. U. poz. 1641), które weszło w życie z dniem 1 września 2017 r..
 1.
 Umowę o pracę w celu przygotowania zawodowego odbywanego w formie nauki zawodu zawiera pracodawca z młodocianym w terminie przyjęć kandydatów do branżowych szkół I stopnia.
 2.
@@ -107,7 +106,7 @@ Pracodawca zatrudniający w celu nauki zawodu większą liczbę młodocianych, n
 § 10.
 1.
 Pracodawca zatrudniający młodocianych w celu przygotowania zawodowego odbywanego w formie nauki zawodu:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.)
 kieruje ich na dokształcanie teoretyczne do branżowej szkoły I stopnia albo
 2)
 kieruje ich na dokształcanie teoretyczne do ośrodka dokształcania i doskonalenia zawodowego, albo
@@ -120,11 +119,11 @@ Młodocianym zatrudnionym w celu nauki zawodu i dokształcającym się w ośrodk
 § 11.
 1.
 Wiedza i umiejętności nabyte przez młodocianego podczas nauki zawodu są sprawdzane w trakcie egzaminu.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1..
 Młodociany zatrudniony u pracodawcy niebędącego rzemieślnikiem dokształcający się w branżowej szkole I stopnia zdaje egzamin potwierdzający kwalifikacje w zawodzie z zakresu kwalifikacji wyodrębnionej w tym zawodzie, zgodnie z przepisami w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1..
 Młodociany zatrudniony u pracodawcy niebędącego rzemieślnikiem dokształcający się w ośrodku dokształcania i doskonalenia zawodowego lub u pracodawcy zdaje egzamin eksternistyczny potwierdzający kwalifikacje w zawodzie z zakresu kwalifikacji wyodrębnionej w tym zawodzie, zgodnie z przepisami w sprawie egzaminów eksternistycznych.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1..
 Młodociany zatrudniony u pracodawcy będącego rzemieślnikiem zdaje egzamin kwalifikacyjny na tytuł czeladnika przeprowadzany przez komisje egzaminacyjne izb rzemieślniczych, zgodnie z przepisami w sprawie egzaminu czeladniczego, egzaminu mistrzowskiego oraz egzaminu sprawdzającego, przeprowadzanych przez komisje egzaminacyjne izb rzemieślniczych.
 5.
 (uchylony).
@@ -136,7 +135,7 @@ pokrywa koszty przeprowadzenia egzaminów, o których mowa w ust. 2–4, zdawany
 może pokryć koszty egzaminu poprawkowego.
 7.
 (uchylony).
-§ 12.
+§ 12W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1..
 1.
 Jeżeli młodociany dokształcający się w branżowej szkole I stopnia nie otrzymał promocji do klasy programowo wyższej lub nie ukończył szkoły, pracodawca, na wniosek młodocianego, albo izba rzemieślnicza, na wniosek pracodawcy będącego rzemieślnikiem i młodocianego, może przedłużyć czas trwania nauki zawodu, nie więcej jednak niż o 12 miesięcy, w celu umożliwienia dokończenia nauki w szkole, a w innych uzasadnionych przypadkach nie więcej niż o 6 miesięcy.
 2.
@@ -150,10 +149,11 @@ W razie przerwania nauki zawodu i podjęcia jej w tym samym lub zbliżonym zawod
 Zaliczenia praktycznej nauki zawodu dokonuje pracodawca, który przyjął młodocianego w celu dokończenia nauki zawodu, a zaliczenia przedmiotów teoretycznych – w zakresie zrealizowanym w okresie odbywania przygotowania zawodowego u poprzedniego pracodawcy – dokonuje podmiot prowadzący teoretyczne kształcenie zawodowe tego młodocianego w czasie odbywania przez niego przygotowania zawodowego ponownie u tego samego albo u innego pracodawcy.
 3.
 Przepisy ust. 1 i 2 dotyczą odpowiednio młodocianych, którzy rozpoczęli naukę zawodu na innej podstawie niż umowa o pracę w celu przygotowania zawodowego, lecz nauki tej nie ukończyli.
+Przyuczenie do wykonywania określonej pracy
 § 15.
 1.
 Przyuczenie młodocianego do wykonywania określonej pracy może trwać od 3 do 6 miesięcy.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1..
 W odniesieniu do młodocianych uczestników Ochotniczych Hufców Pracy okres ustalony w ust. 1 może być przedłużony do czasu ukończenia ośmioletniej szkoły podstawowej i trwać łącznie nie dłużej niż 22 miesiące.
 3.
 Czas trwania, zakres oraz program przyuczenia do wykonywania określonej pracy ustala pracodawca, biorąc pod uwagę wybrane treści programu nauczania uwzględniającego podstawę programową kształcenia w zawodach określonych w klasyfikacji zawodów szkolnictwa zawodowego lub programu zapewniającego spełnienie wymagań egzaminacyjnych określonych w standardach będących podstawą przeprowadzania egzaminu kwalifikacyjnego na tytuł czeladnika w zawodach nieujętych w klasyfikacji zawodów szkolnictwa zawodowego, określonych w przepisach dotyczących klasyfikacji zawodów i specjalności na potrzeby rynku pracy.
@@ -173,6 +173,7 @@ W razie negatywnego wyniku egzaminu pracodawca, a w odniesieniu do pracodawcy b�
 Młodocianemu, który ukończył przyuczenie do wykonywania określonej pracy z wynikiem pozytywnym i podjął naukę zawodu obejmującą zakres przyuczenia do wykonywania określonej pracy, zalicza się okres przyuczenia do okresu praktycznej nauki zawodu.
 § 18a.
 Osoby, które przed ukończeniem przyuczenia do wykonywania określonej pracy osiągnęły pełnoletność, kończą przyuczenie na warunkach określonych dla młodocianych.
+Zasady wynagradzania młodocianych
 § 19.
 1.
 Młodocianemu w okresie nauki zawodu przysługuje wynagrodzenie obliczane w stosunku procentowym do przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej w poprzednim kwartale, obowiązującego od pierwszego dnia następnego miesiąca po ogłoszeniu przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
@@ -186,6 +187,7 @@ w drugim roku nauki – nie mniej niż 5%;
 w trzecim roku nauki – nie mniej niż 6%.
 § 20.
 Młodocianym odbywającym przyuczenie do wykonywania określonej pracy przysługuje nie mniej niż 4% wynagrodzenia, o którym mowa w § 19 ust. 1.
+Przepisy przejściowe i końcowe
 § 21.
 (pominięty).
 § 22.
@@ -197,15 +199,25 @@ rozporządzenie Rady Ministrów z dnia 12 października 1989 r. w sprawie przygo
 2)
 rozporządzenie Ministra Pracy, Płac i Spraw Socjalnych z dnia 30 grudnia 1974 r. w sprawie nauki zawodu i przyuczenia do wykonywania określonych prac przez młodocianych w rzemieślniczych zakładach pracy (Dz. U. poz. 335, z 1982 r. poz. 130, z 1988 r. poz. 237, z 1990 r. poz. 332 oraz z 1992 r. poz. 525).
 § 24.
-Rozporządzenie wchodzi w życie z dniem 2 czerwca 1996 r.
+Rozporządzenie wchodzi w życie z dniem 2 czerwca 1996 r. 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 16 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie przygotowania zawodowego młodocianych i ich wynagradzania (Dz. U. poz. 1641), które weszło w życie z dniem 1 września 2017 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 4) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1. 5) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Nauka zawodu
+#### Rozdział 2 – Nauka zawodu
 
-#### Rozdział 3 Przyuczenie do wykonywania określonej pracy
+#### Rozdział 3 – Przyuczenie do wykonywania określonej pracy
 
-#### Rozdział 4 Zasady wynagradzania młodocianych
+#### Rozdział 4 – Zasady wynagradzania młodocianych
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

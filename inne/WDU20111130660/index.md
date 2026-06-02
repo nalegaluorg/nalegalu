@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-04-28 |
 | Data wydania | 2011-06-02 |
-| Wejście w życie | 2012-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111130660) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/660/text.pdf) |
+
+Zasady i tryb ustalania odszkodowania i zadośćuczynienia w przypadku zdarzeń medycznych
 
 **Art. 1.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2009 r. Nr 52, poz. 417 i Nr 76, poz. 641, z 2010 r. Nr 96, poz. 620 oraz z 2011 r. Nr 112, poz. 654) wprowadza się następujące zmiany:
 
@@ -48,7 +49,7 @@ source: "eli-html"
 
 - **5)** po rozdziale 13 dodaje się rozdział 13a w brzmieniu: „
 
-#### Rozdział 13a Zasady i tryb ustalania odszkodowania i zadośćuczynienia w przypadku zdarzeń medycznych
+#### Rozdział 13a
 
 **Art. 67a.**
 
@@ -56,14 +57,14 @@ source: "eli-html"
 
 - **1)** diagnozy, jeżeli spowodowała ona niewłaściwe leczenie albo opóźniła właściwe leczenie, przyczyniając się do rozwoju choroby,
 - **2)** leczenia, w tym wykonania zabiegu operacyjnego,
-- **3)** zastosowania produktu leczniczego lub wyrobu medycznego zwanego dalej „zdarzeniem medycznym”.
+- **3)** zastosowania produktu leczniczego lub wyrobu medycznego – zwanego dalej „zdarzeniem medycznym”.
 
 2. Przepisy niniejszego rozdziału stosuje się do zdarzeń medycznych będących następstwem udzielania świadczeń zdrowotnych w szpitalu w rozumieniu przepisów o działalności leczniczej.
 
 1. W przypadku:
 
 - **1)** zakażenia, uszkodzenia ciała lub rozstroju zdrowia, o których mowa w art. 67a ust. 1 – pacjent lub jego przedstawiciel ustawowy mogą wystąpić z wnioskiem o ustalenie zdarzenia medycznego,
-- **2)** śmierci, o której mowa w art. 67a ust. 1 – wniosek o ustalenie zdarzenia medycznego mogą złożyć spadkobiercy pacjenta zwani dalej „podmiotami składającymi wniosek”.
+- **2)** śmierci, o której mowa w art. 67a ust. 1 – wniosek o ustalenie zdarzenia medycznego mogą złożyć spadkobiercy pacjenta – zwani dalej „podmiotami składającymi wniosek”.
 
 2. Postępowanie przed wojewódzką komisją do spraw orzekania o zdarzeniach medycznych, o której mowa w art. 67e ust. 1:
 
@@ -120,7 +121,7 @@ source: "eli-html"
 3. W skład wojewódzkiej komisji wchodzi 16 członków, w tym:
 
 - **1)** 8 członków posiadających co najmniej wyższe wykształcenie i tytuł magistra lub równorzędny w dziedzinie nauk medycznych, którzy wykonują zawód medyczny przez okres co najmniej 5 lat albo posiadają stopień naukowy doktora w dziedzinie nauk medycznych,
-- **2)** 8 członków posiadających co najmniej wyższe wykształcenie i tytuł magistra w dziedzinie nauk prawnych, którzy przez okres co najmniej 5 lat byli zatrudnieni na stanowiskach związanych ze stosowaniem lub tworzeniem prawa albo posiadają stopień naukowy doktora w dziedzinie nauk prawnych którzy posiadają wiedzę w zakresie praw pacjenta oraz korzystają z pełni praw publicznych.
+- **2)** 8 członków posiadających co najmniej wyższe wykształcenie i tytuł magistra w dziedzinie nauk prawnych, którzy przez okres co najmniej 5 lat byli zatrudnieni na stanowiskach związanych ze stosowaniem lub tworzeniem prawa albo posiadają stopień naukowy doktora w dziedzinie nauk prawnych – którzy posiadają wiedzę w zakresie praw pacjenta oraz korzystają z pełni praw publicznych.
 
 4. Członkiem wojewódzkiej komisji nie może być osoba:
 
@@ -244,7 +245,7 @@ source: "eli-html"
 6. Orzeczenie wraz z uzasadnieniem doręcza się:
 
 - **1)** podmiotowi składającemu wniosek,
-- **2)** kierownikowi podmiotu leczniczego prowadzącego szpital oraz ubezpieczycielowi, o których mowa w art. 67i ust. 2 nie później niż w terminie 7 dni od dnia upływu terminu, o którym mowa w ust. 5.
+- **2)** kierownikowi podmiotu leczniczego prowadzącego szpital oraz ubezpieczycielowi, o których mowa w art. 67i ust. 2 – nie później niż w terminie 7 dni od dnia upływu terminu, o którym mowa w ust. 5.
 
 7. W terminie 14 dni od dnia doręczenia orzeczenia wraz z uzasadnieniem podmiotowi składającemu wniosek, kierownikowi podmiotu leczniczego prowadzącego szpital oraz ubezpieczycielowi, o których mowa w art. 67i ust. 2, przysługuje prawo złożenia do wojewódzkiej komisji umotywowanego wniosku o ponowne rozpatrzenie sprawy.
 
@@ -257,7 +258,7 @@ source: "eli-html"
 2. Ubezpieczyciel, za pośrednictwem wojewódzkiej komisji, w terminie 30 dni od dnia:
 
 - **1)** otrzymania zawiadomienia określonego w art. 67j ust. 9,
-- **2)** doręczenia orzeczenia wojewódzkiej komisji o zdarzeniu medycznym wydanego w wyniku złożenia wniosku o ponowne rozpatrzenie sprawy przedstawia podmiotowi składającemu wniosek propozycję odszkodowania i zadośćuczynienia. Propozycja nie może być wyższa niż maksymalna wysokość odszkodowania i zadośćuczynienia określona w ust. 7.
+- **2)** doręczenia orzeczenia wojewódzkiej komisji o zdarzeniu medycznym wydanego w wyniku złożenia wniosku o ponowne rozpatrzenie sprawy – przedstawia podmiotowi składającemu wniosek propozycję odszkodowania i zadośćuczynienia. Propozycja nie może być wyższa niż maksymalna wysokość odszkodowania i zadośćuczynienia określona w ust. 7.
 
 3. W przypadku gdy ubezpieczyciel nie przedstawi w terminie, o którym mowa w ust. 2, propozycji odszkodowania i zadośćuczynienia, ubezpieczyciel jest obowiązany do ich wypłaty w wysokości określonej we wniosku, nie wyższej niż określona w ust. 7.
 
@@ -270,7 +271,7 @@ source: "eli-html"
 7. Maksymalna wysokość świadczenia (odszkodowania i zadośćuczynienia) w 12 miesięcznym okresie ubezpieczenia, w odniesieniu do wszystkich zdarzeń medycznych objętych ochroną ubezpieczeniową, wynosi 1 200 000 zł, z tym że w przypadku:
 
 - **1)** zakażenia, uszkodzenia ciała lub rozstroju zdrowia pacjenta – wynosi 100 000 zł,
-- **2)** śmierci pacjenta – wynosi 300 000 zł w odniesieniu do jednego pacjenta.
+- **2)** śmierci pacjenta – wynosi 300 000 zł – w odniesieniu do jednego pacjenta.
 
 8. W przypadku, o którym mowa w ust. 6, propozycja odszkodowania i zadośćuczynienia przedstawiona przez ubezpieczyciela stanowi tytuł wykonawczy. Przepisy działu II tytułu I części trzeciej Kodeksu postępowania cywilnego stosuje się.
 
@@ -309,11 +310,11 @@ source: "eli-html"
 1. Podmiot składający wniosek, podmiot leczniczy prowadzący szpital oraz ubezpieczyciel mogą, w terminie 30 dni od dnia:
 
 - **1)** bezskutecznego upływu terminu, o którym mowa w art. 67j ust. 7,
-- **2)** otrzymania orzeczenia wydanego w wyniku wniosku o ponowne rozpatrzenie sprawy, o którym mowa w art. 67j ust. 8 wnieść skargę o stwierdzenie niezgodności z prawem orzeczenia wojewódzkiej komisji. Skargę można oprzeć wyłącznie na naruszeniu przepisów dotyczących postępowania przed wojewódzką komisją.
+- **2)** otrzymania orzeczenia wydanego w wyniku wniosku o ponowne rozpatrzenie sprawy, o którym mowa w art. 67j ust. 8 – wnieść skargę o stwierdzenie niezgodności z prawem orzeczenia wojewódzkiej komisji. Skargę można oprzeć wyłącznie na naruszeniu przepisów dotyczących postępowania przed wojewódzką komisją.
 
 2. W sprawie skargi orzeka, w terminie 30 dni od dnia jej otrzymania, wojewódzka komisja w składzie 6-osobowym. Przepisy art. 67c ust. 1, art. 67f ust. 2 i 3 oraz art. 67g, 67h i art. 67j ust. 8 zdanie drugie stosuje się odpowiednio. Oświadczenia o braku konfliktu interesów, protokoły oraz orzeczenia wraz z uzasadnieniem są przechowywane przez właściwego wojewodę przez okres 10 lat. W zakresie nieuregulowanym przepisami art. 67a-67m do postępowania przed wojewódzką komisją stosuje się odpowiednio przepisy art. 50, 51, 531, 102, 131, 133–143, 150, 156, 157–158, 162, 164–172, 173–174, art. 180 § 1 pkt 1 i 3, art. 181 pkt 2, art. 206 § 1, art. 207 § 1, art. 210–213, 216, 217, 224, 225, 227–237, 240–242, 244–257, 258–273, 277, 280–289, 299–300, 316, 350, 353, 4245 i 4248–42412 Kodeksu postępowania cywilnego. ” .
 
-**Art. 2.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.) w art. 13 ust. 1 otrzymuje brzmienie: „ 1. Zakład ubezpieczeń wypłaca odszkodowanie lub świadczenie z tytułu ubezpieczenia obowiązkowego na podstawie uznania roszczenia uprawnionego z umowy ubezpieczenia w wyniku ustaleń, zawartej z nim ugody, prawomocnego orzeczenia sądu lub w sposób określony w przepisach ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2009 r. Nr 52, poz. 417, z późn. zm.). ” .
+**Art. 2.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492, Nr 273, poz. 2703 i Nr 281, poz. 2778, z 2005 r. Nr 167, poz. 1396, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 49, poz. 328, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 133, poz. 922, z 2008 r. Nr 225, poz. 1486, z 2009 r. Nr 91, poz. 739 i Nr 97, poz. 802, z 2010 r. Nr 28, poz. 145 i Nr 43, poz. 246 oraz z 2011 r. Nr 80, poz. 432.) w art. 13 ust. 1 otrzymuje brzmienie: „ 1. Zakład ubezpieczeń wypłaca odszkodowanie lub świadczenie z tytułu ubezpieczenia obowiązkowego na podstawie uznania roszczenia uprawnionego z umowy ubezpieczenia w wyniku ustaleń, zawartej z nim ugody, prawomocnego orzeczenia sądu lub w sposób określony w przepisach ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2009 r. Nr 52, poz. 417, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 76, poz. 641, z 2010 r. Nr 96, poz. 620 oraz z 2011 r. Nr 112, poz. 654 i Nr 113, poz. 660.). ” .
 
 **Art. 3.**
 
@@ -325,5 +326,5 @@ source: "eli-html"
 
 **Art. 4.** Przepisy ustawy stosuje się do zdarzeń, których skutkiem jest zakażenie pacjenta biologicznym czynnikiem chorobotwórczym, uszkodzenie ciała lub rozstrój zdrowia pacjenta albo śmierć pacjenta, mających miejsce po dniu wejścia w życie ustawy.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem art. 3, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem art. 3, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492, Nr 273, poz. 2703 i Nr 281, poz. 2778, z 2005 r. Nr 167, poz. 1396, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 49, poz. 328, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 133, poz. 922, z 2008 r. Nr 225, poz. 1486, z 2009 r. Nr 91, poz. 739 i Nr 97, poz. 802, z 2010 r. Nr 28, poz. 145 i Nr 43, poz. 246 oraz z 2011 r. Nr 80, poz. 432. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 76, poz. 641, z 2010 r. Nr 96, poz. 620 oraz z 2011 r. Nr 112, poz. 654 i Nr 113, poz. 660.
 

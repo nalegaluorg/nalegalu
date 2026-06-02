@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 5 listopada 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu z siedzibą w Ojcowie
+# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 5 listopada 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu z siedzibą w Ojcowie Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004).
 
 | Pole | Wartość |
 |---|---|
@@ -32,36 +32,32 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu z siedzibą w Ojcowie (Dz. U. poz. 313), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Środowiska z dnia 17 września 2019 r. zmieniającym rozporządzenie w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu z siedzibą w Ojcowie (Dz. U. poz. 1878).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 17 września 2019 r. zmieniającego rozporządzenie w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu z siedzibą w Ojcowie (Dz. U. poz. 1878), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 17 września 2019 r. zmieniającego rozporządzenie w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu z siedzibą w Ojcowie (Dz. U. poz. 1878), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004).
-Załącznik – Rozporządzenie Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu z siedzibą w Ojcowie
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004).
+Załącznik – Rozporządzenie Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu z siedzibą w OjcowieObecnie działem administracji rządowej – środowisko kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 4 rozporządzania Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004).
 Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2020 r. poz. 55, 471 i 1378) zarządza się, co następuje:
 § 1.
 Ojcowskiemu Parkowi Narodowemu z siedzibą w Ojcowie nadaje się statut, który stanowi załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – środowisko kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 4 rozporządzania Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004). 2) Rozporządzenie zostało ogłoszone w dniu 7 marca 2013 r. 3) Niniejsze rozporządzenie było poprzedzone zarządzeniem nr 69 Ministra Środowiska z dnia 10 października 2005 r. w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu (Dz. Urz. Min. Środ. i GIOŚ z 2006 r. poz. 26), które utraciło moc z dniem 31 grudnia 2012 r. na podstawie art. 10 ustawy z dnia 18 sierpnia 2011 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw (Dz. U. poz. 1337).
+Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 7 marca 2013 r..Niniejsze rozporządzenie było poprzedzone zarządzeniem nr 69 Ministra Środowiska z dnia 10 października 2005 r. w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu (Dz. Urz. Min. Środ. i GIOŚ z 2006 r. poz. 26), które utraciło moc z dniem 31 grudnia 2012 r. na podstawie art. 10 ustawy z dnia 18 sierpnia 2011 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw (Dz. U. poz. 1337). 1) Obecnie działem administracji rządowej – środowisko kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 4 rozporządzania Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004). 2) Rozporządzenie zostało ogłoszone w dniu 7 marca 2013 r. 3) Niniejsze rozporządzenie było poprzedzone zarządzeniem nr 69 Ministra Środowiska z dnia 10 października 2005 r. w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu (Dz. Urz. Min. Środ. i GIOŚ z 2006 r. poz. 26), które utraciło moc z dniem 31 grudnia 2012 r. na podstawie art. 10 ustawy z dnia 18 sierpnia 2011 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw (Dz. U. poz. 1337).
 Załącznik – Statut Ojcowskiego Parku Narodowego z siedzibą w Ojcowie
 § 1.
 Ojcowski Park Narodowy z siedzibą w Ojcowie, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2020 r. poz. 55, 471 i 1378) oraz niniejszego statutu.
 § 2.
 Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowiska pracy:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Środowiska z dnia 17 września 2019 r. zmieniającego rozporządzenie w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu z siedzibą w Ojcowie (Dz. U. poz. 1878), które weszło w życie z dniem 18 października 2019 r.)
 Pracownia Naukowo-Edukacyjna;
-2)
-2a)
-3)
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Środowiska z dnia 17 września 2019 r. zmieniającego rozporządzenie w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu z siedzibą w Ojcowie (Dz. U. poz. 1878), które weszło w życie z dniem 18 października 2019 r.)
+2aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.)
+3W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4.)
 Sekcja Administracyjno-Gospodarcza;
-4)
+4W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4.)
 Zespół Ekonomiczny;
-5)
+5W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4.)
 Samodzielne Stanowisko do spraw Inwestycyjno-Remontowych;
 6)
-(uchylony);
+(uchylony);Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4.
 7)
 Samodzielne Stanowisko do spraw Ochrony Krajobrazu i Zagospodarowania Przestrzennego;
 8)
@@ -77,7 +73,7 @@ Dyrektor Parku kieruje działalnością Parku przy pomocy zastępcy lub zastępc
 § 5.
 W razie nieobecności dyrektora Parku lub czasowej niezdolności do wykonywania przez niego obowiązków działalnością Parku kieruje i reprezentuje Park na zewnątrz wyznaczony przez dyrektora Parku jego zastępca.
 § 6.
-Dyrektor Parku udziela pełnomocnictwa do dokonywania czynności prawnych na piśmie.
+Dyrektor Parku udziela pełnomocnictwa do dokonywania czynności prawnych na piśmie. 4) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Środowiska z dnia 17 września 2019 r. zmieniającego rozporządzenie w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu z siedzibą w Ojcowie (Dz. U. poz. 1878), które weszło w życie z dniem 18 października 2019 r. 5) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 6) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4. 7) Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4.
 
 ### Dział do spraw Ochrony Przyrody;
 

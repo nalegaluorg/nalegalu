@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 lipca 2008 r. o zmianie ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 10 lipca 2008 r. o zmianie ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 grudnia 2003 r. o kontroli weterynaryjnej w handlu, ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej i ustawę z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-07-10 |
 | Data wydania | 2008-08-08 |
-| Wejście w życie | 2008-09-08 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081450916) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/916/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. Nr 69, poz. 625, z późn. zm.) wprowadza się następujące zmiany:
+Wymagania weterynaryjne dla umieszczania na rynku zwierząt akwakultury
+
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. Nr 69, poz. 625, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 23, poz. 188 i Nr 33, poz. 289, z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1045 i Nr 249, poz. 1830 oraz z 2007 r. Nr 133, poz. 920.) wprowadza się następujące zmiany:
 
 - **1)** w odnośniku nr 1 do ustawy w pkt 1: uchyla się lit. i, o oraz p, w lit. y średnik zastępuje się przecinkiem i dodaje się lit. z w brzmieniu: „ dyrektywy Rady 2006/88/WE z dnia 24 października 2006 r. w sprawie wymogów w zakresie zdrowia zwierząt akwakultury i produktów akwakultury oraz zapobiegania niektórym chorobom zwierząt wodnych i zwalczania tych chorób (Dz. Urz. UE L 328 z 24.11.2006, str. 14, z późn. zm.); ” ;
     - **a)**
@@ -130,7 +131,7 @@ source: "eli-html"
 3. Minister właściwy do spraw rolnictwa może określić, w drodze rozporządzenia:
 
 - **1)** dodatkowe wymagania, jakie powinien spełniać wniosek o stwierdzenie spełniania wymagań weterynaryjnych lub zgłoszenie zamiaru prowadzenia działalności nadzorowanej, o której mowa w art. 1 pkt 1 lit. a-l, n, p oraz w art. 4 ust. 3,
-- **2)** szczegółowy sposób dokonywania zgłoszenia zamiaru zaprzestania prowadzenia działalności nadzorowanej, o której mowa w art. 1 pkt 1 lit. a-l, n, p oraz w art. 4 ust. 3 mając na względzie zapewnienie prawidłowego sprawowania przez powiatowego lekarza weterynarii nadzoru nad prowadzeniem danego rodzaju działalności nadzorowanej. ” ;
+- **2)** szczegółowy sposób dokonywania zgłoszenia zamiaru zaprzestania prowadzenia działalności nadzorowanej, o której mowa w art. 1 pkt 1 lit. a-l, n, p oraz w art. 4 ust. 3 – mając na względzie zapewnienie prawidłowego sprawowania przez powiatowego lekarza weterynarii nadzoru nad prowadzeniem danego rodzaju działalności nadzorowanej. ” ;
 - **11)** w art. 11: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -170,7 +171,7 @@ source: "eli-html"
 
 - **16)** rozdział 7 otrzymuje brzmienie: „
 
-#### Rozdział 7 Wymagania weterynaryjne dla umieszczania na rynku zwierząt akwakultury
+#### Rozdział 7
 
 **Art. 31.**
 
@@ -188,7 +189,7 @@ source: "eli-html"
 3. Za obszar hodowli mięczaków uważa się obszar:
 
 - **1)** wód słodkich, morski, przyujściowy, kontynentalny lub lagunę, w którym znajdują się naturalne siedliska mięczaków lub miejsca wykorzystywane do hodowli mięczaków, z których zbiera się mięczaki, lub
-- **2)** wód słodkich, morski, przyujściowy lub lagunę, z granicami wyraźnie oznakowanymi bojami, stanowiskami lub jakimikolwiek innymi stałymi urządzeniami, wykorzystywany wyłącznie do naturalnego oczyszczania żywych mięczaków gdzie przedsiębiorstwa produkcyjne sektora akwakultury są objęte wspólnym systemem bezpieczeństwa biologicznego.
+- **2)** wód słodkich, morski, przyujściowy lub lagunę, z granicami wyraźnie oznakowanymi bojami, stanowiskami lub jakimikolwiek innymi stałymi urządzeniami, wykorzystywany wyłącznie do naturalnego oczyszczania żywych mięczaków – gdzie przedsiębiorstwa produkcyjne sektora akwakultury są objęte wspólnym systemem bezpieczeństwa biologicznego.
 
 4. Za jednostkę epizootyczną uważa się grupę zwierząt wodnych przebywających na określonym obszarze w podobnym stopniu narażonych na kontakt z czynnikiem chorobotwórczym, w szczególności przez przebywanie w tym samym środowisku wodnym lub w wyniku działalności człowieka, zwiększających prawdopodobieństwo szybkiego rozprzestrzeniania się czynnika chorobotwórczego z jednej grupy tych zwierząt na inną.
 
@@ -212,7 +213,7 @@ source: "eli-html"
 3. Wykaz:
 
 - **1)** stadiów rozwoju zwierząt, o których mowa w ust. 2,
-- **2)** gatunków zwierząt akwakultury wrażliwych na choroby podlegające obowiązkowi zwalczania określają przepisy Unii Europejskiej dotyczące wymogów w zakresie zdrowia zwierząt akwakultury i produktów akwakultury oraz zapobiegania niektórym chorobom zwierząt wodnych i zwalczania tych chorób.
+- **2)** gatunków zwierząt akwakultury wrażliwych na choroby podlegające obowiązkowi zwalczania – określają przepisy Unii Europejskiej dotyczące wymogów w zakresie zdrowia zwierząt akwakultury i produktów akwakultury oraz zapobiegania niektórym chorobom zwierząt wodnych i zwalczania tych chorób.
 
 **Art. 35.**
 
@@ -265,7 +266,7 @@ source: "eli-html"
 
 - **1)** określone w ust. 1 pkt 1 i ust. 2 pkt 3,
 - **2)** określone w ust. 2 pkt 1, wysyłane do stref lub enklaw uznanych za wolne od danych chorób zakaźnych zwierząt lub objętych programem określonym w art. 57 ust. 1 pkt 1 lub 3,
-- **3)** umieszczane na rynku w państwie członkowskim Unii Europejskiej, strefie lub enklawie, uznanych za wolne od danych chorób zakaźnych tych zwierząt lub objętych programem określonym w art. 57 ust. 1 pkt 1 lub 3, w celu dalszego przetwarzania zaopatruje się w świadectwo zdrowia wystawione przez urzędowego lekarza weterynarii.
+- **3)** umieszczane na rynku w państwie członkowskim Unii Europejskiej, strefie lub enklawie, uznanych za wolne od danych chorób zakaźnych tych zwierząt lub objętych programem określonym w art. 57 ust. 1 pkt 1 lub 3, w celu dalszego przetwarzania – zaopatruje się w świadectwo zdrowia wystawione przez urzędowego lekarza weterynarii.
 
 4. Świadectwo zdrowia zwierząt, o których mowa w ust. 3 pkt 3, dołącza się wyłącznie do przesyłki ryb żywych lub niewypatroszonych oraz mięczaków i skorupiaków, jeżeli nie są wysyłane jako produkty nieprzetworzone lub przetworzone.
 
@@ -323,8 +324,12 @@ source: "eli-html"
 
 3. Jeżeli przepisy Unii Europejskiej przewidują taką możliwość, dopuszcza się przy zwalczaniu chorób zakaźnych zwierząt, po powiadomieniu Komisji Europejskiej lub za jej zgodą, wykonywanie szczepień przeciwko chorobom zakaźnym zwierząt wymienionym w załączniku nr 4. ” ;
 
-- **20)** w art. 44: w ust. 1: – po pkt 12 dodaje się pkt 12a w brzmieniu: „ 12a) nakazać podmiotom prowadzącym działalność w zakresie przetwarzania oraz wykorzystywania ubocznych produktów zwierzęcych unieszkodliwienie zwłok zwierzęcych w związku ze zwalczaniem chorób zakaźnych, produktów pozyskanych od tych zwierząt oraz przedmiotów, z którymi miały kontakt zabite zwierzęta; ” , – pkt 15 i 16 otrzymują brzmienie: „ 15) nakazać podmiotom prowadzącym działalność w zakresie produkcji produktów ich przetworzenie oraz, jeżeli jest to konieczne, zastosowanie do tego przetworzenia określonej technologii; 16) nakazać podmiotom prowadzącym działalność w zakresie prowadzenia przedsiębiorstwa produkcyjnego sektora akwakultury podjęcie czynności prowadzących do ograniczenia lub wyeliminowania czynnika chorobotwórczego; ” , ust. 3 otrzymuje brzmienie: „
+- **20)** w art. 44: w ust. 1: po pkt 12 dodaje się pkt 12a w brzmieniu: „
     - **a)**
+
+- **12a)** nakazać podmiotom prowadzącym działalność w zakresie przetwarzania oraz wykorzystywania ubocznych produktów zwierzęcych unieszkodliwienie zwłok zwierzęcych w związku ze zwalczaniem chorób zakaźnych, produktów pozyskanych od tych zwierząt oraz przedmiotów, z którymi miały kontakt zabite zwierzęta; ” , pkt 15 i 16 otrzymują brzmienie: „
+- **15)** nakazać podmiotom prowadzącym działalność w zakresie produkcji produktów ich przetworzenie oraz, jeżeli jest to konieczne, zastosowanie do tego przetworzenia określonej technologii;
+- **16)** nakazać podmiotom prowadzącym działalność w zakresie prowadzenia przedsiębiorstwa produkcyjnego sektora akwakultury podjęcie czynności prowadzących do ograniczenia lub wyeliminowania czynnika chorobotwórczego; ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Przepisów ust. 1 pkt 3 i ust. 1a pkt 2 nie stosuje się do wydawania świadectw zdrowia dla zwierząt akwakultury. ” ;
@@ -354,7 +359,7 @@ source: "eli-html"
 - **1)** programy zwalczania chorób zakaźnych zwierząt, w tym chorób odzwierzęcych,
 - **2)** programy mające na celu wykrycie występowania zakażeń czynnikami wywołującymi choroby zakaźne zwierząt lub poszerzenie wiedzy o ryzyku wystąpienia takich chorób,
 - **3)** programy nadzoru nad chorobami zakaźnymi zwierząt akwakultury mającego na celu osiągnięcie przez terytorium Rzeczypospolitej Polskiej, strefę lub enklawę statusu wolnego od danej choroby zakaźnej,
-- **4)** krajowe programy zwalczania chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych wymienionych w rozporządzeniu (WE) nr 2160/2003 Parlamentu Europejskiego i Rady z dnia 17 listopada 2003 r. w sprawie zwalczania salmonelli i innych określonych odzwierzęcych czynników chorobotwórczych przenoszonych przez żywność (Dz. Urz. UE L 325 z 12.12.2003, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 41, str. 328), zwanym dalej „rozporządzeniem nr 2160/2003”, w załączniku I kierując się sytuacją epizootyczną i epidemiczną kraju oraz obowiązującymi w tym zakresie przepisami Unii Europejskiej. ” , ust. 5 otrzymuje brzmienie: „
+- **4)** krajowe programy zwalczania chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych wymienionych w rozporządzeniu (WE) nr 2160/2003 Parlamentu Europejskiego i Rady z dnia 17 listopada 2003 r. w sprawie zwalczania salmonelli i innych określonych odzwierzęcych czynników chorobotwórczych przenoszonych przez żywność (Dz. Urz. UE L 325 z 12.12.2003, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 41, str. 328), zwanym dalej „rozporządzeniem nr 2160/2003”, w załączniku I – kierując się sytuacją epizootyczną i epidemiczną kraju oraz obowiązującymi w tym zakresie przepisami Unii Europejskiej. ” , ust. 5 otrzymuje brzmienie: „
     - **b)**
 
 5. W przypadku programu, o którym mowa w ust. 1, współfinansowanego ze środków pochodzących z Unii Europejskiej oprócz wymagań, o których mowa w ust. 2, program powinien spełniać wymagania określone w przepisach Unii Europejskiej. ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
@@ -395,7 +400,8 @@ source: "eli-html"
 - **31)** w art. 61 w ust. 1 w pkt 1 lit. h otrzymuje brzmienie: „ wymagania niezbędne do uznania terytorium Rzeczypospolitej Polskiej, regionu, strefy lub enklawy położonych na tym terytorium za urzędowo wolne lub wolne od danej choroby zakaźnej zwierząt oraz szczegółowy tryb tego uznawania, a w przypadku zwierząt akwakultury także warunki i tryb zawieszania, cofnięcia oraz ponownego uznania terytorium Rzeczypospolitej Polskiej, strefy lub enklawy, w stosunku do których zawieszono lub cofnięto uznanie, ” ;
     - **h)**
 
-- **32)** w art. 85: w ust. 1: – uchyla się pkt 8, – w pkt 9: – lit. a otrzymuje brzmienie: „ a) programie: – zwalczania chorób zakaźnych zwierząt, – mającym na celu wykrycie występowania zakażeń czynnikami wywołującymi choroby zakaźne zwierząt lub poszerzenie wiedzy o ryzyku występowania takich chorób, – nadzoru nad chorobami zakaźnymi zwierząt akwakultury mającego na celu osiągnięcie przez terytorium Rzeczypospolitej Polskiej, strefę lub enklawę statusu wolnego od danej choroby zakaźnej, – zwalczania chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych wymienionych w rozporządzeniu nr 2160/2003, w załączniku I – wprowadzonych na podstawie przepisów ustawy, ” , – uchyla się lit. b, po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **32)** w art. 85: w ust. 1: – uchyla się pkt 8, w pkt 9: lit. a otrzymuje brzmienie: „ programie: – zwalczania chorób zakaźnych zwierząt, – mającym na celu wykrycie występowania zakażeń czynnikami wywołującymi choroby zakaźne zwierząt lub poszerzenie wiedzy o ryzyku występowania takich chorób, – nadzoru nad chorobami zakaźnymi zwierząt akwakultury mającego na celu osiągnięcie przez terytorium Rzeczypospolitej Polskiej, strefę lub enklawę statusu wolnego od danej choroby zakaźnej, – zwalczania chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych wymienionych w rozporządzeniu nr 2160/2003, w załączniku I – wprowadzonych na podstawie przepisów ustawy, ” , – uchyla się lit. b, po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
     - **a)**
     - **b)**
 

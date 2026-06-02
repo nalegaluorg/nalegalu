@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1997-02-21 |
 | Data wydania | 1997-03-26 |
-| Wejście w życie | 1997-04-10 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970280154) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/154/text.pdf) |
 
@@ -35,8 +34,10 @@ source: "eli-html"
 - **2)** w art. 2: w ust. 1 pkt 3 otrzymuje brzmienie: „
     - **a)**
 
-- **3)** ryzyko przewlekłej zwłoki w wypełnianiu zobowiązań płatniczych przez państwo lub dłużnika publicznego, innego dłużnika, za którego poręczyło państwo lub dłużnik publiczny. ” , w ust. 2: – po wyrazach „Ryzyko polityczne obejmuje” dodaje się wyrazy „w szczególności:”, – pkt 3 otrzymuje brzmienie: „ 3) niemożność lub opóźnienie w dokonaniu przez dłużnika transferu należności w walucie płatności spowodowane wydarzeniami politycznymi, trudnościami gospodarczymi albo aktami prawnymi lub decyzjami administracyjnymi władz w kraju dłużnika, ” – w pkt 4 na końcu dodaje się wyrazy „lub dłużnik publiczny,” – w pkt 5 wyrazy „przepisy prawne lub decyzje Rządu” zastępuje się wyrazami „wydanie przepisów prawnych lub decyzji przez Rząd”, w ust. 3 wyrazy „następujące klęski żywiołowe:” zastępuje się wyrazami „w szczególności:”, dodaje się ust. 5 i 6 w brzmieniu: „
+- **3)** ryzyko przewlekłej zwłoki w wypełnianiu zobowiązań płatniczych przez państwo lub dłużnika publicznego, innego dłużnika, za którego poręczyło państwo lub dłużnik publiczny. ” , w ust. 2: – po wyrazach „Ryzyko polityczne obejmuje” dodaje się wyrazy „w szczególności:”, pkt 3 otrzymuje brzmienie: „
     - **b)**
+
+- **3)** niemożność lub opóźnienie w dokonaniu przez dłużnika transferu należności w walucie płatności spowodowane wydarzeniami politycznymi, trudnościami gospodarczymi albo aktami prawnymi lub decyzjami administracyjnymi władz w kraju dłużnika, ” – w pkt 4 na końcu dodaje się wyrazy „lub dłużnik publiczny,” – w pkt 5 wyrazy „przepisy prawne lub decyzje Rządu” zastępuje się wyrazami „wydanie przepisów prawnych lub decyzji przez Rząd”, w ust. 3 wyrazy „następujące klęski żywiołowe:” zastępuje się wyrazami „w szczególności:”, dodaje się ust. 5 i 6 w brzmieniu: „
     - **c)**
     - **d)**
 

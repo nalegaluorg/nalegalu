@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 26 czerwca 2024 r. w sprawie szczegółowych kryteriów wyboru najkorzystniejszej oferty w przetargu ofert pisemnych i liczby punktów przyznawanych za spełnienie tych kryteriów oraz rodzajów dowodów potwierdzających ich spełnienie
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 26 czerwca 2024 r. w sprawie szczegółowych kryteriów wyboru najkorzystniejszej oferty w przetargu ofert pisemnych i liczby punktów przyznawanych za spełnienie tych kryteriów oraz rodzajów dowodów potwierdzających ich spełnienie Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-26 |
 | Data wydania | 2024-07-02 |
-| Wejście w życie | 2024-07-17 |
 | Ostatnia zmiana | 2024-07-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000972) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/972/text.pdf) |
 
@@ -63,7 +62,7 @@ nie udokumentował posiadania wskazanych w ogłoszeniu o przetargu maszyn rolnic
 5)
 współpraca, za którą przyznaje się – w przypadku oferty, w której uczestnik przetargu:
 a)
-udokumentował współpracę w okresie co najmniej 5 lat przed dniem ogłoszenia przetargu z podmiotami, o których mowa w art. 7 ust. 1 pkt 1–7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.), lub ze szkołami rolniczymi w rozumieniu art. 4 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737 i 854), lub z placówkami rolniczymi w rozumieniu art. 4 pkt 15 tej ustawy – 1 pkt za 1 dokument potwierdzający współpracę z danym podmiotem, daną szkołą lub daną placówką i maksymalnie 10 pkt,
+udokumentował współpracę w okresie co najmniej 5 lat przed dniem ogłoszenia przetargu z podmiotami, o których mowa w art. 7 ust. 1 pkt 1–7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124 i 227.), lub ze szkołami rolniczymi w rozumieniu art. 4 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737 i 854), lub z placówkami rolniczymi w rozumieniu art. 4 pkt 15 tej ustawy – 1 pkt za 1 dokument potwierdzający współpracę z danym podmiotem, daną szkołą lub daną placówką i maksymalnie 10 pkt,
 b)
 nie udokumentował współpracy z podmiotami, szkołami lub placówkami określonymi w lit. a – 0 pkt.
 § 2.
@@ -97,6 +96,5 @@ faktury potwierdzające wartość nabycia maszyn rolniczych służących do prow
 4)
 pkt 5, są dokumenty wystawione przez podmioty, szkoły lub placówki określone w § 1 pkt 5 lit. a potwierdzające współpracę z danym podmiotem, daną szkołą lub daną placówką.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124 i 227.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124 i 227.
 

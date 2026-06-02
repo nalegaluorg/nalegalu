@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-18 |
 | Data wydania | 2015-07-03 |
-| Wejście w życie | 2015-07-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000946) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/946/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 12 ust. 1 pkt 2–4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2015 r. poz. 355 i 529) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 maja 2009 r. w sprawie umundurowania policjantów (Dz. U. Nr 90, poz. 738, z późn. zm.) w § 40 ust. 1–3 otrzymują brzmienie:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 maja 2009 r. w sprawie umundurowania policjantów (Dz. U. Nr 90, poz. 738, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2011 r. Nr 70, poz. 372 i Nr 175, poz. 1047, z 2012 r. poz. 1483 oraz z 2014 r. poz. 1285.) w § 40 ust. 1–3 otrzymują brzmienie: „
 1.
 Odznaki policyjne nosi się w następujący sposób:
 1)
@@ -56,8 +54,7 @@ Policjant-kobieta nosi odznaki, o których mowa w ust. 1 pkt:
 2)
 5 na kurtce wyjściowej na wysokości odpowiadającej położeniu lewej górnej kieszeni kurtki wyjściowej policjanta.
 3.
-Spośród odznak, o których mowa w ust. 1 pkt 3, 4 i 8, nosi się odznakę najwyższego stopnia, a w przypadku posiadania przez policjanta więcej niż jednej odznaki, o której mowa w ust. 1 pkt 5, nosi się jedną, w zależności od uznania policjanta.
-” .
+Spośród odznak, o których mowa w ust. 1 pkt 3, 4 i 8, nosi się odznakę najwyższego stopnia, a w przypadku posiadania przez policjanta więcej niż jednej odznaki, o której mowa w ust. 1 pkt 5, nosi się jedną, w zależności od uznania policjanta. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2011 r. Nr 70, poz. 372 i Nr 175, poz. 1047, z 2012 r. poz. 1483 oraz z 2014 r. poz. 1285.
 

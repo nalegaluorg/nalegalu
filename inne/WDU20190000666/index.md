@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 28 marca 2019 r. zmieniające rozporządzenie w sprawie kształcenia osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 28 marca 2019 r. zmieniające rozporządzenie w sprawie kształcenia osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-28 |
 | Data wydania | 2019-04-10 |
-| Wejście w życie | 2019-04-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000666) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/666/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Edukacji Narodowej z dnia 9 września 2016 r. w spraw
 1)
 w § 1 w pkt 1 wyrazy „publicznych przedszkoli, innych form wychowania przedszkolnego, szkół,” zastępuje się wyrazami „publicznych gimnazjów, szkół ponadgimnazjalnych oraz klas tych szkół prowadzonych w szkołach innego typu,”;
 2)
-§ 6 i § 7 otrzymują brzmienie:
-„
+§ 6 i § 7 otrzymują brzmienie: „
 § 6.
 1.
 Uczniowie przybywający z zagranicy są kwalifikowani do odpowiedniej klasy w publicznym gimnazjum na podstawie dokumentów.
@@ -87,14 +85,11 @@ publicznej szkoły ponadgimnazjalnej, o której mowa w pkt 1 i 2, w której prog
 5)
 publicznej szkoły ponadgimnazjalnej dwujęzycznej, oddziału dwujęzycznego lub oddziału międzynarodowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej – w przypadkach, o których mowa w § 11 ust. 1, na podstawie pozytywnego wyniku sprawdzianu kompetencji językowych, o którym mowa w art. 20j ust. 1 ustawy, oraz po spełnieniu warunków, o których mowa odpowiednio w pkt 1 i 2,
 6)
-publicznej szkoły ponadgimnazjalnej sportowej, publicznej szkoły ponadgimnazjalnej mistrzostwa sportowego, oddziału sportowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej lub oddziału mistrzostwa sportowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej – po spełnieniu warunków, o których mowa odpowiednio w pkt 1 i 2, oraz warunków, o których mowa w art. 20h ust. 1 ustawy
-jeżeli szkoła dysponuje wolnymi miejscami.
+publicznej szkoły ponadgimnazjalnej sportowej, publicznej szkoły ponadgimnazjalnej mistrzostwa sportowego, oddziału sportowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej lub oddziału mistrzostwa sportowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej – po spełnieniu warunków, o których mowa odpowiednio w pkt 1 i 2, oraz warunków, o których mowa w art. 20h ust. 1 ustawy – jeżeli szkoła dysponuje wolnymi miejscami.
 2.
-Przepisy ust. 1 stosuje się odpowiednio do uczniów przybywających z zagranicy, którzy są kwalifikowani i przyjmowani do klas lub na semestr szkół ponadgimnazjalnych, prowadzonych w szkołach innego typu.
-” ;
+Przepisy ust. 1 stosuje się odpowiednio do uczniów przybywających z zagranicy, którzy są kwalifikowani i przyjmowani do klas lub na semestr szkół ponadgimnazjalnych, prowadzonych w szkołach innego typu. ” ;
 3)
 w § 9 w ust. 1 wyrazy „ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59 i 949), zwanej dalej „ustawą Prawo oświatowe”” zastępuje się wyrazami „ustawy Prawo oświatowe”.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 

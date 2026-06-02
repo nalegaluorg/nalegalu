@@ -38,8 +38,10 @@ w sprawie sposobu przedkładania marszałkowi województwa informacji o występo
 3. Informacje, o których mowa w dziale 2 załącznika do rozporządzenia, są przedkładane w formie określonej w ust. 1 oraz w formie pisemnej.
 § 5. Traci moc rozporządzenie Ministra Środowiska z dnia 9 października 2002 r. w sprawie sposobu przedkładania wojewodzie informacji o rodzaju, ilości i miejscach występowania substancji stwarzających szczególne zagrożenie dla środowiska (Dz. U. Nr 175, poz. 1439).
 § 6. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Wzór INFORMACJA O RODZAJU, ILOŚCI I MIEJSCACH WYSTĘPOWANIA SUBSTANCJI STWARZAJĄCYCH SZCZEGÓLNE ZAGROŻENIE DLA ŚRODOWISKA Gmina: ……………………. Informacje za okres: ……………….
+Wzór Załącznik do rozporządzenia Ministra Środowiska z dnia 23 lipca 2009 r.
+WZÓR INFORMACJA O RODZAJU, ILOŚCI I MIEJSCACH WYSTĘPOWANIA SUBSTANCJI STWARZAJĄCYCH SZCZEGÓLNE ZAGROŻENIE DLA ŚRODOWISKA Gmina: ……………………. Informacje za okres: ……………….
 Powiat: ……………………. określające stan na dzień: ………… Województwo: …………….
+Lp. Opis pola Informacje Informacje ogólne 1 Rok, którego dotyczą informacje 2 Identyfikator województwa 3 Identyfikator powiatu 4 Identyfikator gminy 5 Rodzaj gminy Informacje dotyczące wyrobu zawierającego azbest Miejscowość, w której wyrób jest 6 zlokalizowany 7 Ulica 8 Numer domu 9 Numer działki ewidencyjnej 10 Obręb ewidencyjny 11 Rodzaj zabudowy Nazwa miejsca lub urządzenia lub 12 instalacji 13 Nazwa i rodzaj wyrobu Przewidywany termin usunięcia 14 wyrobu 15 Ilość posiadanego wyrobu Ilość odpadów zawierających azbest 16 przekazanych do unieszkodliwienia 17 Stopień pilności Nazwa i numer dokumentu, na 18 którym jest oznaczone miejsce występowania wyrobu Objaśnienia: Zgodne z krajowym rejestrem urzędowym podziału terytorialnego kraju, o którym mowa w ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm.), zwanym dalej „rejestrem TERYT”.
 Należy podać rodzaj gminy: miejska, wiejska, miejsko-wiejska, zgodnie z rejestrem TERYT.
 Należy podać numer działki ewidencyjnej faktycznego miejsca występowania azbestu.
 Należy podać numer obrębu ewidencyjnego faktycznego miejsca występowania azbestu.
@@ -52,5 +54,5 @@ Data ostatniej aktualizacji 19 dokumentu Informacje dotyczące wprowadzania i zm
 Osoba sporządzająca zestawienie: ………………. ……………... …………………. ……………….. …………………..
 (imię i nazwisko) (stanowisko) (telefon służbowy) (faks służbowy) (e-mail służbowy) WÓJT (BURMISTRZ, PREZYDENT MIASTA) ……………………………………………… (imię i nazwisko, podpis, pieczątka wójta, burmistrza lub prezydenta miasta)
 
-### Dział 1. Informacje dotyczące wyrobów zawierających azbest Lp. Opis pola Informacje Informacje ogólne 1 Rok, którego dotyczą informacje 2 Identyfikator województwa 3 Identyfikator powiatu 4 Identyfikator gminy 5 Rodzaj gminy Informacje dotyczące wyrobu zawierającego azbest Miejscowość, w której wyrób jest 6 zlokalizowany 7 Ulica 8 Numer domu 9 Numer działki ewidencyjnej 10 Obręb ewidencyjny 11 Rodzaj zabudowy Nazwa miejsca lub urządzenia lub 12 instalacji 13 Nazwa i rodzaj wyrobu Przewidywany termin usunięcia 14 wyrobu 15 Ilość posiadanego wyrobu Ilość odpadów zawierających azbest 16 przekazanych do unieszkodliwienia 17 Stopień pilności Nazwa i numer dokumentu, na 18 którym jest oznaczone miejsce występowania wyrobu Objaśnienia: Zgodne z krajowym rejestrem urzędowym podziału terytorialnego kraju, o którym mowa w ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm.), zwanym dalej „rejestrem TERYT”.
+### Dział 1. Informacje dotyczące wyrobów zawierających azbest Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.
 

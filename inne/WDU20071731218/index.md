@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o gospodarce nieruchomościami oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o gospodarce nieruchomościami oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym, ustawę z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-08-24 |
 | Data wydania | 2007-09-21 |
-| Wejście w życie | 2007-10-21 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071731218) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1218/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459 oraz z 2006 r. Nr 64, poz. 456, Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601.) wprowadza się następujące zmiany:
 
 - **1)** art. 2 otrzymuje brzmienie: „
 
@@ -34,15 +33,15 @@ source: "eli-html"
 
 - **1)** ustawy z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców (Dz. U. z 2004 r. Nr 167, poz. 1758 oraz z 2005 r. Nr 94, poz. 788 i Nr 183, poz. 1538);
 - **2)** ustawy z dnia 26 marca 1982 r. o scalaniu i wymianie gruntów (Dz. U. z 2003 r. Nr 178, poz. 1749, z 2004 r. Nr 116, poz. 1206, z 2006 r. Nr 227, poz. 1658 oraz z 2007 r. Nr 64, poz. 427);
-- **3)** ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z późn. zm.);
-- **4)** ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2004 r. Nr 208, poz. 2128, z późn. zm.);
-- **5)** ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2004 r. Nr 256, poz. 2571, z późn. zm.);
-- **6)** ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2005 r. Nr 41, poz. 398, z późn. zm.);
-- **7)** ustawy z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz. U. z 2004 r. Nr 163, poz. 1711, z późn. zm.);
-- **8)** ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm.);
-- **9)** ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2006 r. Nr 100, poz. 696, z późn. zm.);
+- **3)** ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 157, poz. 1315, Nr 167, poz. 1399 i Nr 175, poz. 1460 i 1462, z 2006 r. Nr 227, poz. 1658 i Nr 245, poz. 1775 oraz z 2007 r. Nr 59, poz. 405 i Nr 64, poz. 427.);
+- **4)** ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2004 r. Nr 208, poz. 2128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2772, z 2005 r. Nr 132, poz. 1110, Nr 163, poz. 1362, Nr 167, poz. 1398, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 104, poz. 708, Nr 141, poz. 997, Nr 170, poz. 1217, Nr 195, poz. 1437 i Nr 249, poz. 1832 oraz z 2007 r. Nr 35, poz. 218 i Nr 123, poz. 851.);
+- **5)** ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2004 r. Nr 256, poz. 2571, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 155, poz. 1297 i Nr 172, poz. 1440, z 2006 r. Nr 12, poz. 61 oraz z 2007 r. Nr 23, poz. 136 i Nr 99, poz. 666.);
+- **6)** ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2005 r. Nr 41, poz. 398, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 132, poz. 1110 oraz z 2006 r. Nr 104, poz. 708 i 711, Nr 170, poz. 1217 i Nr 249, poz. 1832.);
+- **7)** ustawy z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz. U. z 2004 r. Nr 163, poz. 1711, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 132, poz. 1110 i Nr 167, poz. 1398 oraz z 2006 r. Nr 141, poz. 997, Nr 170, poz. 1217, Nr 227, poz. 1658 i Nr 249, poz. 1832.);
+- **8)** ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 267, poz. 2255, z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658 oraz z 2007 r. Nr 21, poz. 125, Nr 64, poz. 427, Nr 75, poz. 493, Nr 88, poz. 587 i Nr 147, poz. 1033.);
+- **9)** ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2006 r. Nr 100, poz. 696, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 141, poz. 1008, Nr 170, poz. 1217 i Nr 249, poz. 1829 oraz z 2007 r. Nr 50, poz. 331 i Nr 82, poz. 558.);
 - **10)** ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2007 r. Nr 16, poz. 94);
-- **11)** ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. Nr 80, poz. 721, z późn. zm.). ” ;
+- **11)** ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. Nr 80, poz. 721, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 217, poz. 2124, z 2005 r. Nr 113, poz. 954 i Nr 267, poz. 2251, z 2006 r. Nr 220, poz. 1601 oraz z 2007 r. Nr 23, poz. 136 i Nr 112, poz. 767.). ” ;
 - **2)** w art. 4: pkt 11 otrzymuje brzmienie: „
     - **a)**
 
@@ -91,8 +90,13 @@ source: "eli-html"
 
 3. W przypadku naruszenia przepisów ust. 1 i 2, strony umowy ponoszą odpowiedzialność na zasadach ogólnych. ” ;
 
-- **7)** w art. 23: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) ewidencjonują nieruchomości zgodnie z katastrem nieruchomości; ” , – pkt 7a i 8 otrzymują brzmienie: „ 7a) wydzierżawiają, wynajmują i użyczają nieruchomości wchodzące w skład zasobu, przy czym umowa zawierana na czas oznaczony dłuższy niż 3 lata lub czas nieoznaczony wymaga zgody wojewody; zgoda wojewody jest wymagana również w przypadku, gdy po umowie zawartej na czas oznaczony do 3 lat strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość; 8) podejmują czynności w postępowaniu sądowym, w szczególności w sprawach dotyczących własności lub innych praw rzeczowych na nieruchomości, o zapłatę należności za korzystanie z nieruchomości, o roszczenia ze stosunku najmu, dzierżawy lub użyczenia, o stwierdzenie nabycia spadku, o stwierdzenie nabycia własności nieruchomości przez zasiedzenie. ” , – po pkt 8 dodaje się pkt 9 w brzmieniu: „ 9) składają wnioski o założenie księgi wieczystej dla nieruchomości Skarbu Państwa oraz o wpis w księdze wieczystej. ” , po ust. 1 dodaje się ust. 1a-1d w brzmieniu: „
+- **7)** w art. 23: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** ewidencjonują nieruchomości zgodnie z katastrem nieruchomości; ” , pkt 7a i 8 otrzymują brzmienie: „
+- **7a)** wydzierżawiają, wynajmują i użyczają nieruchomości wchodzące w skład zasobu, przy czym umowa zawierana na czas oznaczony dłuższy niż 3 lata lub czas nieoznaczony wymaga zgody wojewody; zgoda wojewody jest wymagana również w przypadku, gdy po umowie zawartej na czas oznaczony do 3 lat strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość;
+- **8)** podejmują czynności w postępowaniu sądowym, w szczególności w sprawach dotyczących własności lub innych praw rzeczowych na nieruchomości, o zapłatę należności za korzystanie z nieruchomości, o roszczenia ze stosunku najmu, dzierżawy lub użyczenia, o stwierdzenie nabycia spadku, o stwierdzenie nabycia własności nieruchomości przez zasiedzenie. ” , po pkt 8 dodaje się pkt 9 w brzmieniu: „
+- **9)** składają wnioski o założenie księgi wieczystej dla nieruchomości Skarbu Państwa oraz o wpis w księdze wieczystej. ” , po ust. 1 dodaje się ust. 1a-1d w brzmieniu: „
     - **b)**
 
 1a. Starosta sporządza roczne sprawozdanie z gospodarowania nieruchomościami zasobu i przekazuje je wojewodzie w terminie do dnia 30 kwietnia roku następującego po roku, którego sprawozdanie dotyczy.
@@ -153,8 +157,11 @@ source: "eli-html"
 
 1a. Obowiązek, o którym mowa w ust. 1, nie dotyczy oddania nieruchomości w najem lub dzierżawę na czas oznaczony do 3 miesięcy. Wykaz sporządza się i podaje do publicznej wiadomości, jeżeli po umowie zawartej na czas oznaczony do 3 miesięcy strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość. ” ;
 
-- **12)** w art. 37: w ust. 2: – pkt 6 otrzymuje brzmienie: „ 6) przedmiotem zbycia jest nieruchomość lub jej części, jeśli mogą poprawić warunki zagospodarowania nieruchomości przyległej, stanowiącej własność lub oddanej w użytkowanie wieczyste osobie, która zamierza tę nieruchomość lub jej części nabyć, jeżeli nie mogą być zagospodarowane jako odrębne nieruchomości; ” , – w pkt 11 na końcu kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „ 12) jest zbywana na rzecz podmiotów, o których mowa w art. 61 ust. 1. ” , ust. 4 otrzymuje brzmienie: „
+- **12)** w art. 37: w ust. 2: pkt 6 otrzymuje brzmienie: „
     - **a)**
+
+- **6)** przedmiotem zbycia jest nieruchomość lub jej części, jeśli mogą poprawić warunki zagospodarowania nieruchomości przyległej, stanowiącej własność lub oddanej w użytkowanie wieczyste osobie, która zamierza tę nieruchomość lub jej części nabyć, jeżeli nie mogą być zagospodarowane jako odrębne nieruchomości; ” , w pkt 11 na końcu kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
+- **12)** jest zbywana na rzecz podmiotów, o których mowa w art. 61 ust. 1. ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Przepis ust. 1 stosuje się odpowiednio przy zawieraniu umów użytkowania, najmu lub dzierżawy na czas oznaczony dłuższy niż 3 lata lub na czas nieoznaczony. Wojewoda albo odpowiednia rada lub sejmik mogą wyrazić zgodę na odstąpienie od obowiązku przetargowego trybu zawarcia tych umów. ” ;
@@ -191,7 +198,7 @@ source: "eli-html"
 1. Gospodarka nieruchomościami stanowiącymi przedmiot własności Skarbu Państwa, na potrzeby statutowe:
 
 - **1)** Kancelarii Sejmu, Kancelarii Senatu, Kancelarii Prezydenta Rzeczypospolitej Polskiej, Kancelarii Prezesa Rady Ministrów, Trybunału Konstytucyjnego, Rzecznika Praw Obywatelskich, Sądu Najwyższego, Naczelnego Sądu Administracyjnego i innych sądów administracyjnych, Najwyższej Izby Kontroli, Krajowej Rady Radiofonii i Telewizji, Krajowego Biura Wyborczego, Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz Państwowej Inspekcji Pracy, ministerstw, urzędów centralnych i urzędów wojewódzkich,
-- **2)** Generalnej Dyrekcji Dróg Krajowych i Autostrad, z wyłączeniem rejonów należy do ministra właściwego do spraw administracji publicznej. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **2)** Generalnej Dyrekcji Dróg Krajowych i Autostrad, z wyłączeniem rejonów – należy do ministra właściwego do spraw administracji publicznej. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Przez potrzeby statutowe, o których mowa w ust. 1, należy rozumieć niezbędne do realizacji zadań i celów statutowych potrzeby komórek organizacyjnych, w szczególności izb, wydziałów i oddziałów, wyszczególnionych w statutach lub regulaminach jednostek organizacyjnych wymienionych w ust. 1. ” , ust. 2 otrzymuje brzmienie: „
@@ -218,8 +225,13 @@ source: "eli-html"
 
 4. Przepisów ust. 2–3a nie stosuje się przy zbyciu nieruchomości na rzecz podmiotów, o których mowa w art. 61 ust. 1. ” ;
 
-- **21)** w art. 68: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) organizacjom zrzeszającym działkowców z przeznaczeniem na ogrody działkowe; ” , – pkt 9 otrzymuje brzmienie: „ 9) spółdzielniom mieszkaniowym w związku z ustanowieniem odrębnej własności lokali lub z przeniesieniem własności lokali lub domów jednorodzinnych; ” , – po pkt 9 dodaje się pkt 10 i 11 w brzmieniu: „ 10) osobie, o której mowa w art. 37 ust. 2 pkt 6, z zastrzeżeniem, że nieruchomość przyległa jest przeznaczona lub wykorzystywana na cele mieszkaniowe; 11) podmiotom, o których mowa w art. 61 ust. 1. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **21)** w art. 68: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** organizacjom zrzeszającym działkowców z przeznaczeniem na ogrody działkowe; ” , pkt 9 otrzymuje brzmienie: „
+- **9)** spółdzielniom mieszkaniowym w związku z ustanowieniem odrębnej własności lokali lub z przeniesieniem własności lokali lub domów jednorodzinnych; ” , po pkt 9 dodaje się pkt 10 i 11 w brzmieniu: „
+- **10)** osobie, o której mowa w art. 37 ust. 2 pkt 6, z zastrzeżeniem, że nieruchomość przyległa jest przeznaczona lub wykorzystywana na cele mieszkaniowe;
+- **11)** podmiotom, o których mowa w art. 61 ust. 1. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. W przypadku, o którym mowa w ust. 1 pkt 7, bonifikata obejmuje cenę lokalu, w tym cenę udziału w prawie własności gruntu lub, w przypadku gdy udział obejmuje prawo użytkowania wieczystego, pierwszą opłatę z tego tytułu. Bonifikata udzielana od ceny lokalu obejmuje wszystkie jej składniki w jednakowej wysokości. ” , ust. 2 i 2a otrzymują brzmienie: „
@@ -261,7 +273,7 @@ source: "eli-html"
 
 **Art. 74.**
 
-1. Osobom fizycznym, których dochód miesięczny na jednego członka gospodarstwa domowego nie przekracza 50% przeciętnego wynagrodzenia w gospodarce narodowej w roku poprzedzającym rok, za który opłata ma być wnoszona, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.), właściwy organ udziela na ich wniosek 50% bonifikaty od opłat rocznych z tytułu użytkowania wieczystego nieruchomości gruntowej, jeżeli nieruchomość jest przeznaczona lub wykorzystywana na cele mieszkaniowe.
+1. Osobom fizycznym, których dochód miesięczny na jednego członka gospodarstwa domowego nie przekracza 50% przeciętnego wynagrodzenia w gospodarce narodowej w roku poprzedzającym rok, za który opłata ma być wnoszona, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421, z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534 oraz z 2007 r. Nr 17, poz. 95 i Nr 82, poz. 558.), właściwy organ udziela na ich wniosek 50% bonifikaty od opłat rocznych z tytułu użytkowania wieczystego nieruchomości gruntowej, jeżeli nieruchomość jest przeznaczona lub wykorzystywana na cele mieszkaniowe.
 
 2. Osoby, o których mowa w ust. 1, którym przysługują spółdzielcze prawa do lokali, korzystają z bonifikaty w formie ulgi w opłatach z tytułu udziału w kosztach eksploatacji budynków. Wysokość ulgi powinna odpowiadać wysokości bonifikaty od opłaty rocznej z tytułu użytkowania wieczystego nieruchomości gruntowej, udzielonej spółdzielni mieszkaniowej, proporcjonalnie do powierzchni lokali zajmowanych przez osoby uprawnione do bonifikaty. ” ;
 
@@ -316,7 +328,7 @@ source: "eli-html"
 2. Jeżeli w przypadku, o którym mowa w ust. 1, wniosek o podział został złożony:
 
 - **1)** po upływie 6 miesięcy, licząc od dnia podjęcia przez gminę uchwały o przystąpieniu do sporządzenia planu miejscowego, lub
-- **2)** po wyłożeniu projektu planu miejscowego do publicznego wglądu postępowanie w sprawie podziału nieruchomości zawiesza się do czasu uchwalenia planu miejscowego, jednak nie dłużej niż na okres 6 miesięcy, licząc od dnia złożenia wniosku o podział. Jeżeli w okresie zawieszenia postępowania w sprawie podziału nieruchomości plan miejscowy nie zostanie uchwalony, stosuje się przepis ust. 1. ” ;
+- **2)** po wyłożeniu projektu planu miejscowego do publicznego wglądu – postępowanie w sprawie podziału nieruchomości zawiesza się do czasu uchwalenia planu miejscowego, jednak nie dłużej niż na okres 6 miesięcy, licząc od dnia złożenia wniosku o podział. Jeżeli w okresie zawieszenia postępowania w sprawie podziału nieruchomości plan miejscowy nie zostanie uchwalony, stosuje się przepis ust. 1. ” ;
 - **34)** w art. 95: zdanie wstępne otrzymuje brzmienie: „ Niezależnie od ustaleń planu miejscowego, a w przypadku braku planu niezależnie od decyzji o warunkach zabudowy i zagospodarowania terenu, podział nieruchomości może nastąpić w celu: ” , pkt 6 otrzymuje brzmienie: „
     - **a)**
     - **b)**
@@ -334,8 +346,12 @@ source: "eli-html"
 
 2. W przypadku gdy o podziale nieruchomości orzeka sąd, nie wydaje się decyzji, o której mowa w ust. 1, i pozwolenia, o którym mowa w ust. 1a. Jeżeli podział nieruchomości jest uzależniony od ustaleń planu miejscowego, a w razie braku planu – od warunków określonych w art. 94 ust. 1 i 2, sąd zasięga opinii wójta (burmistrza, prezydenta miasta), a w odniesieniu do nieruchomości wpisanej do rejestru zabytków także opinii wojewódzkiego konserwatora zabytków. Do opinii tych nie stosuje się art. 93 ust. 5. ” ;
 
-- **36)** w art. 97: w ust. 1a: – pkt 2 i 3 otrzymują brzmienie: „ 2) wypis z katastru nieruchomości i kopię mapy katastralnej obejmującej nieruchomość podlegającą podziałowi; 3) decyzję o warunkach zabudowy i zagospodarowania terenu, w przypadku, o którym mowa w art. 94 ust. 1 pkt 2; ” , – dodaje się pkt 3a w brzmieniu: „ 3a) pozwolenie, o którym mowa w art. 96 ust. 1a, w przypadku nieruchomości wpisanej do rejestru zabytków; ” , ust. 1b otrzymuje brzmienie: „
+- **36)** w art. 97: w ust. 1a: pkt 2 i 3 otrzymują brzmienie: „
     - **a)**
+
+- **2)** wypis z katastru nieruchomości i kopię mapy katastralnej obejmującej nieruchomość podlegającą podziałowi;
+- **3)** decyzję o warunkach zabudowy i zagospodarowania terenu, w przypadku, o którym mowa w art. 94 ust. 1 pkt 2; ” , dodaje się pkt 3a w brzmieniu: „
+- **3a)** pozwolenie, o którym mowa w art. 96 ust. 1a, w przypadku nieruchomości wpisanej do rejestru zabytków; ” , ust. 1b otrzymuje brzmienie: „
     - **b)**
 
 1b. Jeżeli jest wymagane wyrażenie opinii, o której mowa w art. 93 ust. 4 i 5, lub uzyskanie pozwolenia wojewódzkiego konserwatora zabytków, o którym mowa w art. 96 ust. 1a, dokumenty wymienione w ust. 1a pkt 5–8 dołącza się do wniosku o podział nieruchomości po uzyskaniu pozytywnej opinii lub pozwolenia. Dokumenty te podlegają przyjęciu do państwowego zasobu geodezyjnego i kartograficznego. ” , ust. 4 otrzymuje brzmienie: „
@@ -358,7 +374,7 @@ source: "eli-html"
 
 - **c)**
 
-4. W rozliczeniu opłaty adiacenckiej lub zaległości z tego tytułu, osoba zobowiązana do jej wniesienia może przenieść na rzecz gminy, za jej zgodą, prawa do działki gruntu wydzielonej w wyniku podziału. Przepis art. 66 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.) stosuje się odpowiednio. Różnice między wartością działki gruntu wydzielonej w wyniku podziału a należnością wynikającą z opłaty adiacenckiej pokrywane są w formie dopłat. ” ;
+4. W rozliczeniu opłaty adiacenckiej lub zaległości z tego tytułu, osoba zobowiązana do jej wniesienia może przenieść na rzecz gminy, za jej zgodą, prawa do działki gruntu wydzielonej w wyniku podziału. Przepis art. 66 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635 oraz z 2007 r. Nr 112, poz. 769 i Nr 120, poz. 818.) stosuje się odpowiednio. Różnice między wartością działki gruntu wydzielonej w wyniku podziału a należnością wynikającą z opłaty adiacenckiej pokrywane są w formie dopłat. ” ;
 
 - **39)** w art. 98b ust. 2 otrzymuje brzmienie: „
 
@@ -426,8 +442,12 @@ source: "eli-html"
 
 3. Wartość odtworzeniową określa się dla nieruchomości, które ze względu na rodzaj, obecne użytkowanie lub przeznaczenie nie są lub nie mogą być przedmiotem obrotu rynkowego, a także jeżeli wymagają tego przepisy szczególne. ” ;
 
-- **53)** w art. 155: w ust. 1: – po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „ 3a) ewidencji numeracji porządkowej nieruchomości; 3b) rejestrach zabytków; ” , – pkt 5 otrzymuje brzmienie: „ 5) planach miejscowych, studiach uwarunkowań i kierunków zagospodarowania przestrzennego gminy, decyzjach o warunkach zabudowy i zagospodarowania terenu oraz pozwoleniach na budowę; ” , dodaje się ust. 4 w brzmieniu: „
+- **53)** w art. 155: w ust. 1: po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „
     - **a)**
+
+- **3a)** ewidencji numeracji porządkowej nieruchomości;
+- **3b)** rejestrach zabytków; ” , pkt 5 otrzymuje brzmienie: „
+- **5)** planach miejscowych, studiach uwarunkowań i kierunków zagospodarowania przestrzennego gminy, decyzjach o warunkach zabudowy i zagospodarowania terenu oraz pozwoleniach na budowę; ” , dodaje się ust. 4 w brzmieniu: „
     - **b)**
 
 4. Przy wycenie nieruchomości na potrzeby związane w szczególności z pozbawieniem lub ograniczeniem praw do nieruchomości, a także z ponoszeniem ciężarów i świadczeń publicznych, w tym podatków, rzeczoznawca majątkowy działający na zlecenie organów administracji publicznej lub sądów ma prawo wstępu na nieruchomość będącą przedmiotem wyceny oraz dokonywania niezbędnych czynności związanych z szacowaniem nieruchomości. ” ;
@@ -471,11 +491,14 @@ source: "eli-html"
 - **59)** w art. 178: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Rzeczoznawca majątkowy niewypełniający obowiązków, o których mowa w art. 158 oraz art. 175, podlega odpowiedzialności zawodowej. ” , w ust. 2: – pkt 3 i 4 otrzymują brzmienie: „ 3) zawieszenie uprawnień zawodowych na okres od 3 miesięcy do 1 roku; 4) zawieszenie uprawnień zawodowych do czasu ponownego złożenia egzaminu z wynikiem pozytywnym; ” , – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) pozbawienie uprawnień zawodowych z możliwością ponownego ubiegania się o ich nadanie; ” , uchyla się ust. 2a i 2b, ust. 3 otrzymuje brzmienie: „
+1. Rzeczoznawca majątkowy niewypełniający obowiązków, o których mowa w art. 158 oraz art. 175, podlega odpowiedzialności zawodowej. ” , w ust. 2: pkt 3 i 4 otrzymują brzmienie: „
 
 - **b)**
-- **c)**
-- **d)**
+- **3)** zawieszenie uprawnień zawodowych na okres od 3 miesięcy do 1 roku;
+- **4)** zawieszenie uprawnień zawodowych do czasu ponownego złożenia egzaminu z wynikiem pozytywnym; ” , po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** pozbawienie uprawnień zawodowych z możliwością ponownego ubiegania się o ich nadanie; ” , uchyla się ust. 2a i 2b, ust. 3 otrzymuje brzmienie: „
+    - **c)**
+    - **d)**
 
 3. Pozbawienie uprawnień zawodowych następuje również w przypadku:
 
@@ -510,8 +533,11 @@ source: "eli-html"
 
 2a. Stwierdzenie, że program studiów wyższych uwzględnia minimalne wymogi programowe dla studiów podyplomowych w zakresie pośrednictwa w obrocie nieruchomościami następuje na podstawie zaświadczenia uczelni. ” ;
 
-- **63)** w art. 183: w ust. 2: – pkt 3 otrzymuje brzmienie: „ 3) zawieszenie licencji zawodowej na okres od 3 miesięcy do 1 roku; ” , – uchyla się pkt 4, – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) pozbawienie licencji zawodowej z możliwością ponownego ubiegania się o jej nadanie; ” , uchyla się ust. 2a i 2b, ust. 3 otrzymuje brzmienie: „
+- **63)** w art. 183: w ust. 2: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** zawieszenie licencji zawodowej na okres od 3 miesięcy do 1 roku; ” , – uchyla się pkt 4, po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** pozbawienie licencji zawodowej z możliwością ponownego ubiegania się o jej nadanie; ” , uchyla się ust. 2a i 2b, ust. 3 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -568,11 +594,13 @@ source: "eli-html"
 - **67)** w art. 188: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Zarządca nieruchomości niewypełniający obowiązków, o których mowa w art. 186 oraz art. 186a, podlega odpowiedzialności zawodowej. ” , w ust. 2: – pkt 3 otrzymuje brzmienie: „ 3) zawieszenie licencji zawodowej na okres od 3 miesięcy do 1 roku; ” , – uchyla się pkt 4, – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) pozbawienie licencji zawodowej z możliwością ponownego ubiegania się o jej nadanie; ” , uchyla się ust. 2a i 2b, ust. 3 otrzymuje brzmienie: „
+1. Zarządca nieruchomości niewypełniający obowiązków, o których mowa w art. 186 oraz art. 186a, podlega odpowiedzialności zawodowej. ” , w ust. 2: pkt 3 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
-- **d)**
+- **3)** zawieszenie licencji zawodowej na okres od 3 miesięcy do 1 roku; ” , – uchyla się pkt 4, po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** pozbawienie licencji zawodowej z możliwością ponownego ubiegania się o jej nadanie; ” , uchyla się ust. 2a i 2b, ust. 3 otrzymuje brzmienie: „
+    - **c)**
+    - **d)**
 
 3. Pozbawienie licencji zawodowej następuje również w przypadku:
 
@@ -700,7 +728,7 @@ source: "eli-html"
 
 - **b)**
 
-4. Wobec osób, o których mowa w ust. 2, w stosunku do których orzeczone zostały, z tytułu odpowiedzialności zawodowej, kary dyscyplinarne, o których mowa w art. 178 ust. 2, wykonanie decyzji następuje przez organ prowadzący centralny rejestr osób posiadających uprawnienia zawodowe w dziedzinie geodezji i kartografii. ” . W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591, z późn. zm.) w art. 18 w ust. 2 w pkt 9 lit. a otrzymuje brzmienie: „ zasad nabywania, zbywania i obciążania nieruchomości oraz ich wydzierżawiania lub wynajmowania na czas oznaczony dłuższy niż 3 lata lub na czas nieoznaczony, o ile ustawy szczególne nie stanowią inaczej; uchwała rady gminy jest wymagana również w przypadku, gdy po umowie zawartej na czas oznaczony do 3 lat strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość; do czasu określenia zasad wójt może dokonywać tych czynności wyłącznie za zgodą rady gminy, ” .
+4. Wobec osób, o których mowa w ust. 2, w stosunku do których orzeczone zostały, z tytułu odpowiedzialności zawodowej, kary dyscyplinarne, o których mowa w art. 178 ust. 2, wykonanie decyzji następuje przez organ prowadzący centralny rejestr osób posiadających uprawnienia zawodowe w dziedzinie geodezji i kartografii. ” . W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 80, poz. 717 i Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1203 i Nr 167, poz. 1759, z 2005 r. Nr 172, poz. 1441 i Nr 175, poz. 1457, z 2006 r. Nr 17, poz. 128 i Nr 181, poz. 1337 oraz z 2007 r. Nr 48, poz. 327 i Nr 138, poz. 974.) w art. 18 w ust. 2 w pkt 9 lit. a otrzymuje brzmienie: „ zasad nabywania, zbywania i obciążania nieruchomości oraz ich wydzierżawiania lub wynajmowania na czas oznaczony dłuższy niż 3 lata lub na czas nieoznaczony, o ile ustawy szczególne nie stanowią inaczej; uchwała rady gminy jest wymagana również w przypadku, gdy po umowie zawartej na czas oznaczony do 3 lat strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość; do czasu określenia zasad wójt może dokonywać tych czynności wyłącznie za zgodą rady gminy, ” .
 
 - **a)**
 
@@ -710,19 +738,19 @@ source: "eli-html"
 - **2)** w art. 28 w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „
 - **2a)** ogrodów działkowych; ” .
 
-**Art. 4.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2001 r. Nr 142, poz. 1590, z późn. zm.) w art. 18 w pkt 19 lit. a otrzymuje brzmienie: „
+**Art. 4.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2001 r. Nr 142, poz. 1590, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1206 i Nr 167, poz. 1759 oraz z 2006 r. Nr 126, poz. 875 i Nr 227, poz. 1658.) w art. 18 w pkt 19 lit. a otrzymuje brzmienie: „
 
 zasad nabywania, zbywania i obciążania nieruchomości oraz ich wydzierżawiania lub wynajmowania na czas oznaczony dłuższy niż 3 lata lub na czas nieoznaczony, o ile ustawy szczególne nie stanowią inaczej; uchwała sejmiku województwa jest wymagana również w przypadku, gdy po umowie zawartej na czas oznaczony do 3 lat strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość; do czasu określenia zasad zarząd może dokonywać tych czynności wyłącznie za zgodą sejmiku województwa, ” .
 
 - **a)**
 
-**Art. 5.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2001 r. Nr 142, poz. 1592, z późn. zm.) w art. 12 w pkt 8 lit. a otrzymuje brzmienie: „
+**Art. 5.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2001 r. Nr 142, poz. 1592, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984, Nr 153, poz. 1271, Nr 200, poz. 1688 i Nr 214, poz. 1806, z 2003 r. Nr 162, poz. 1568 oraz z 2004 r. Nr 102, poz. 1055 i Nr 167, poz. 1759.) w art. 12 w pkt 8 lit. a otrzymuje brzmienie: „
 
 zasad nabywania, zbywania i obciążania nieruchomości oraz ich wydzierżawiania lub wynajmowania na czas oznaczony dłuższy niż 3 lata lub na czas nieoznaczony, o ile ustawy szczególne nie stanowią inaczej; uchwała rady powiatu jest wymagana również w przypadku, gdy po umowie zawartej na czas oznaczony do 3 lat strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość; do czasu określenia zasad zarząd może dokonywać tych czynności wyłącznie za zgodą rady powiatu, ” .
 
 - **a)**
 
-**Art. 6.** W ustawie z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2005 r. Nr 31, poz. 266, z późn. zm.) po art. 4 dodaje się art. 4a w brzmieniu: „ 1. Gmina w wojewódzkim dzienniku urzędowym co roku, w terminie do końca pierwszego kwartału roku następnego, ogłasza zestawienie danych dotyczących czynszów najmu lokali mieszkalnych nienależących do publicznego zasobu mieszkaniowego, położonych na jej obszarze lub części. 2. Zestawienie, o którym mowa w ust. 1, powinno uwzględniać wysokość czynszu za 1 m2 powierzchni użytkowej lokalu w powiązaniu z lokalizacją, wiekiem budynku i jego stanem technicznym oraz powierzchnią użytkową lokalu i jego standardem. 3. Gmina, sporządzając zestawienie, o którym mowa w ust. 1, korzysta z danych przekazanych przez zarządców nieruchomości. Gmina może w zestawieniu wykorzystać również dane własne, dane przekazane przez właścicieli i lokatorów oraz organizacje ich zrzeszające, a także dane pochodzące z innych źródeł. 4. Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej określi, w drodze rozporządzenia:
+**Art. 6.** W ustawie z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2005 r. Nr 31, poz. 266, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 69, poz. 626, z 2006 r. Nr 86, poz. 602, Nr 167, poz. 1193 i Nr 249, poz. 1833 oraz z 2007 r. Nr 128, poz. 902.) po art. 4 dodaje się art. 4a w brzmieniu: „ 1. Gmina w wojewódzkim dzienniku urzędowym co roku, w terminie do końca pierwszego kwartału roku następnego, ogłasza zestawienie danych dotyczących czynszów najmu lokali mieszkalnych nienależących do publicznego zasobu mieszkaniowego, położonych na jej obszarze lub części. 2. Zestawienie, o którym mowa w ust. 1, powinno uwzględniać wysokość czynszu za 1 m2 powierzchni użytkowej lokalu w powiązaniu z lokalizacją, wiekiem budynku i jego stanem technicznym oraz powierzchnią użytkową lokalu i jego standardem. 3. Gmina, sporządzając zestawienie, o którym mowa w ust. 1, korzysta z danych przekazanych przez zarządców nieruchomości. Gmina może w zestawieniu wykorzystać również dane własne, dane przekazane przez właścicieli i lokatorów oraz organizacje ich zrzeszające, a także dane pochodzące z innych źródeł. 4. Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej określi, w drodze rozporządzenia:
 
 - **1)** wzór i terminy przekazywania przez zarządców nieruchomości danych, o których mowa w ust. 1, biorąc pod uwagę potrzebę cyklicznego przekazywania oraz kompletność tych danych;
 - **2)** wzór zestawienia oraz sposoby publikacji i udostępniania danych, o których mowa w ust. 1, uwzględniając potrzebę zapewnienia ich aktualności i jawności. ” .
@@ -740,6 +768,6 @@ zasad nabywania, zbywania i obciążania nieruchomości oraz ich wydzierżawiani
 **Art. 10.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem przepisów:
 
 - **1)** art. 1 pkt 23, 56–67, 68 lit. a i b, 69–73 i 78,
-- **2)** art. 6, 8 i 9, które wchodzą w życie z dniem 1 stycznia 2008 r.
+- **2)** art. 6, 8 i 9, które wchodzą w życie z dniem 1 stycznia 2008 r. 1) Niniejszą ustawą zmienia się ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym, ustawę z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459 oraz z 2006 r. Nr 64, poz. 456, Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 157, poz. 1315, Nr 167, poz. 1399 i Nr 175, poz. 1460 i 1462, z 2006 r. Nr 227, poz. 1658 i Nr 245, poz. 1775 oraz z 2007 r. Nr 59, poz. 405 i Nr 64, poz. 427. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2772, z 2005 r. Nr 132, poz. 1110, Nr 163, poz. 1362, Nr 167, poz. 1398, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 104, poz. 708, Nr 141, poz. 997, Nr 170, poz. 1217, Nr 195, poz. 1437 i Nr 249, poz. 1832 oraz z 2007 r. Nr 35, poz. 218 i Nr 123, poz. 851. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 155, poz. 1297 i Nr 172, poz. 1440, z 2006 r. Nr 12, poz. 61 oraz z 2007 r. Nr 23, poz. 136 i Nr 99, poz. 666. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 132, poz. 1110 oraz z 2006 r. Nr 104, poz. 708 i 711, Nr 170, poz. 1217 i Nr 249, poz. 1832. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 132, poz. 1110 i Nr 167, poz. 1398 oraz z 2006 r. Nr 141, poz. 997, Nr 170, poz. 1217, Nr 227, poz. 1658 i Nr 249, poz. 1832. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 267, poz. 2255, z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658 oraz z 2007 r. Nr 21, poz. 125, Nr 64, poz. 427, Nr 75, poz. 493, Nr 88, poz. 587 i Nr 147, poz. 1033. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 141, poz. 1008, Nr 170, poz. 1217 i Nr 249, poz. 1829 oraz z 2007 r. Nr 50, poz. 331 i Nr 82, poz. 558. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 217, poz. 2124, z 2005 r. Nr 113, poz. 954 i Nr 267, poz. 2251, z 2006 r. Nr 220, poz. 1601 oraz z 2007 r. Nr 23, poz. 136 i Nr 112, poz. 767. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421, z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534 oraz z 2007 r. Nr 17, poz. 95 i Nr 82, poz. 558. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635 oraz z 2007 r. Nr 112, poz. 769 i Nr 120, poz. 818. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 80, poz. 717 i Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1203 i Nr 167, poz. 1759, z 2005 r. Nr 172, poz. 1441 i Nr 175, poz. 1457, z 2006 r. Nr 17, poz. 128 i Nr 181, poz. 1337 oraz z 2007 r. Nr 48, poz. 327 i Nr 138, poz. 974. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1206 i Nr 167, poz. 1759 oraz z 2006 r. Nr 126, poz. 875 i Nr 227, poz. 1658. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984, Nr 153, poz. 1271, Nr 200, poz. 1688 i Nr 214, poz. 1806, z 2003 r. Nr 162, poz. 1568 oraz z 2004 r. Nr 102, poz. 1055 i Nr 167, poz. 1759. 16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 69, poz. 626, z 2006 r. Nr 86, poz. 602, Nr 167, poz. 1193 i Nr 249, poz. 1833 oraz z 2007 r. Nr 128, poz. 902.
 
 

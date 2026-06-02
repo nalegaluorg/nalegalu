@@ -26,20 +26,54 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000359) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/359/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 22 czerwca 2001 r. o wykonywaniu Konwencji o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej oraz o zniszczeniu jej zapasów Rozdział 1 – Przepisy ogólne Rozdział 2 – Zakazy i ograniczenia Rozdział 3 – Obrót z zagranicą toksycznymi związkami chemicznymi i ich prekursorami Rozdział 4 – Deklaracje i ich kontrola Rozdział 5 – Działalność inspekcyjna Rozdział 6 – Ochrona informacji Rozdział 7 – Kompetencje organów administracji publicznej Rozdział 8 – Przepisy karne Rozdział 9 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 22 czerwca 2001 r. o wykonywaniu Konwencji o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej oraz o zniszczeniu jej zapasów
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 czerwca 2001 r. o wykonywaniu Konwencji o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej oraz o zniszczeniu jej zapasów (Dz. U. Nr 76, poz. 812), z uwzględnieniem zmian wprowadzonych:
 1)
 ustawą z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228),
 2)
-ustawą z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 oraz z 2017 r. poz. 379, 1926 i 2409)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 stycznia 2018 r.
+ustawą z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 oraz z 2017 r. poz. 379, 1926 i 2409) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 stycznia 2018 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje:
 1)
-art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228), który stanowi:
-„
+art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228), który stanowi: „
+Przepisy ogólne
+Zakazy i ograniczenia
+Obrót z zagranicą toksycznymi związkami chemicznymi i ich prekursorami
+Deklaracje i ich kontrola
+Działalność inspekcyjna
+Ochrona informacji
+Art. 22W brzmieniu ustalonym przez art. 135 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. poz. 1228), która weszła w życie z dniem 2 stycznia 2011 r..
+1.
+Informacje uzyskane w związku z realizacją postanowień Konwencji, oznaczone klauzulą „OPCW restricted”, podlegają ochronie i są udostępniane na zasadach określonych w przepisach o ochronie informacji niejawnych, dla informacji niejawnych o klauzuli tajności „zastrzeżone”.
+2.
+Informacje uzyskane w związku z realizacją postanowień Konwencji, oznaczone klauzulą „OPCW protected”, podlegają ochronie i są udostępniane na zasadach określonych w przepisach, o których mowa w ust. 1, dla informacji niejawnych o klauzuli tajności „poufne”.
+3.
+Informacje uzyskane w związku z realizacją postanowień Konwencji, oznaczone klauzulą „OPCW highly protected”, podlegają ochronie i są udostępniane na zasadach określonych w przepisach, o których mowa w ust. 1, dla informacji niejawnych o klauzuli tajności „tajne”.
+4.
+Informacje uzyskane od podmiotów i przedsiębiorców, o których mowa w art. 2, w związku z obowiązkiem ustanowionym w art. 14, oraz oznaczone odpowiednimi klauzulami, podlegają ochronie i są udostępniane na zasadach określonych w przepisach, o których mowa w ust. 1, odpowiednio do przyznanej klauzuli tajności.
+Kompetencje organów administracji publicznej
+Przepisy karne
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Zakazy i ograniczenia
+
+#### Rozdział 3 – Obrót z zagranicą toksycznymi związkami chemicznymi i ich prekursorami
+
+#### Rozdział 4 – Deklaracje i ich kontrola
+
+#### Rozdział 5 – Działalność inspekcyjna
+
+#### Rozdział 6 – Ochrona informacji
+
+#### Rozdział 7 – Kompetencje organów administracji publicznej
+
+#### Rozdział 8 – Przepisy karne
+
+#### Rozdział 9 – Przepisy przejściowe i końcowe
 
 **Art. 191.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia z wyjątkiem art. 131, który wchodzi w życie z dniem 1 stycznia 2013 r. ” ;
 
@@ -55,7 +89,7 @@ art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. 
     - **a)**
     - **b)**
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa zasady wykonywania na terytorium Rzeczypospolitej Polskiej zobowiązań wynikających z Konwencji o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej oraz o zniszczeniu jej zapasów, sporządzonej w Paryżu dnia 13 stycznia 1993 r. (Dz. U. z 1999 r. poz. 703), zwanej dalej „Konwencją”.
 
@@ -71,7 +105,7 @@ art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. 
 
 2. Użyte w ustawie określenie „zespół eskortujący” oznacza wyrażenie „eskorta w kraju” w rozumieniu Konwencji.
 
-#### Rozdział 2 Zakazy i ograniczenia
+#### Rozdział 2
 
 **Art. 4.** Zabrania się na terytorium Rzeczypospolitej Polskiej, z zastrzeżeniem art. 5:
 
@@ -99,7 +133,7 @@ art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. 
 
 3. Pozwolenia udziela się na czas oznaczony, nie krótszy niż 2 lata i nie dłuższy niż 50 lat.
 
-4. Do udzielenia, odmowy udzielenia, zmiany i cofnięcia pozwolenia lub ograniczenia jego zakresu w stosunku do wniosku stosuje się odpowiednio przepisy art. 16, art. 17 ust. 1 i 2, art. 18, art. 20, art. 21 ust. 1–5, art. 22, art. 23 i art. 26 ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. poz. 1178, z 2000 r. poz. 958 i 1193 oraz z 2001 r. poz. 509 i 679).
+4. Do udzielenia, odmowy udzielenia, zmiany i cofnięcia pozwolenia lub ograniczenia jego zakresu w stosunku do wniosku stosuje się odpowiednio przepisy art. 16, art. 17 ust. 1 i 2, art. 18, art. 20, art. 21 ust. 1–5, art. 22, art. 23 i art. 26 ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. poz. 1178, z 2000 r. poz. 958 i 1193 oraz z 2001 r. poz. 509 i 679)Obecnie ustawa z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2017 r. poz. 2168 i 2290) na podstawie art. 86 ustawy z dnia 2 lipca 2004 r. – Przepisy wprowadzające ustawę o swobodzie działalności gospodarczej (Dz. U. poz. 1808, z 2006 r. poz. 1636, z 2008 r. poz. 888, z 2009 r. poz. 97 oraz z 2011 r. poz. 764), która weszła w życie z dniem 21 sierpnia 2004 r..
 
 **Art. 8.** Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, tryb wydawania pozwoleń na produkcję, wytwarzanie, przetwarzanie, zużycie, nabywanie, gromadzenie, przechowywanie, zbywanie, przekazywanie lub używanie toksycznych związków chemicznych lub ich prekursorów, wymienionych w Wykazie 1. Rozporządzenie to określi w szczególności:
 
@@ -119,31 +153,13 @@ art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. 
 
 2. Minister Obrony Narodowej przekazuje ministrowi właściwemu do spraw gospodarki kopie wydanych pozwoleń na produkcję, wytwarzanie, przetwarzanie, nabywanie, gromadzenie, przechowywanie, zbywanie, przekazywanie lub używanie w jednostkach i komórkach organizacyjnych, o których mowa w ust. 1, toksycznych związków chemicznych lub ich prekursorów.
 
-#### Rozdział 3 Obrót z zagranicą toksycznymi związkami chemicznymi i ich prekursorami
+#### Rozdział 3
 
-**Art. 10.**
+**Art. 10.** 1W brzmieniu ustalonym przez art. 59 pkt 1 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948), która weszła w życie z dniem 1 marca 2017 r.. Dopuszcza się import, eksport oraz tranzyt przez terytorium Rzeczypospolitej Polskiej toksycznych związków chemicznych i ich prekursorów wymienionych w Wykazie 1, pod warunkiem uzyskania zezwolenia i z zastrzeżeniem art. 11. 2. Zezwolenie na import, eksport oraz tranzyt, o którym mowa w ust. 1, wydaje minister właściwy do spraw gospodarki na zasadach i w trybie określonym w ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niektórych ustaw (Dz. U. z 2017 r. poz. 1050). Art. 11W brzmieniu ustalonym przez art. 59 pkt 2 ustawy, o której mowa w odnośniku 2.. 1. Eksport, import i tranzyt przez terytorium Rzeczypospolitej Polskiej toksycznych związków chemicznych i ich prekursorów, wymienionych w Wykazie 1, do i z państw niebędących Stronami Konwencji jest zakazany. 2. Eksport, import i tranzyt przez terytorium Rzeczypospolitej Polskiej toksycznych związków chemicznych i ich prekursorów, wymienionych w Wykazie 1, do i z państw będących Stronami Konwencji jest dopuszczalny jedynie do celów niezabronionych przez Konwencję i w ilościach przez nią dozwolonych oraz zgodnie z jej wymogami.
 
-1. Dopuszcza się import, eksport oraz tranzyt przez terytorium Rzeczypospolitej Polskiej toksycznych związków chemicznych i ich prekursorów wymienionych w Wykazie 1, pod warunkiem uzyskania zezwolenia i z zastrzeżeniem art. 11.
+**Art. 12.** 1W brzmieniu ustalonym przez art. 59 pkt 3 ustawy, o której mowa w odnośniku 2.. Eksport, import i tranzyt przez terytorium Rzeczypospolitej Polskiej toksycznych związków chemicznych i ich prekursorów, wymienionych w Wykazie nr 2 Załącznika do Konwencji dotyczącego związków chemicznych, zwanym dalej „Wykazem 2”, jest dopuszczalny tylko do i z państw będących Stronami Konwencji. 2W brzmieniu ustalonym przez art. 59 pkt 3 ustawy, o której mowa w odnośniku 2.. Eksport, import i tranzyt przez terytorium Rzeczypospolitej Polskiej toksycznych związków chemicznych i ich prekursorów, wymienionych w Wykazie nr 3 Załącznika do Konwencji dotyczącego związków chemicznych, zwanym dalej „Wykazem 3”, jest dopuszczalny tylko do i z państw będących Stronami Konwencji, z zastrzeżeniem ust. 3. 3W brzmieniu ustalonym przez art. 59 pkt 3 ustawy, o której mowa w odnośniku 2.. Eksport, import i tranzyt przez terytorium Rzeczypospolitej Polskiej toksycznych związków chemicznych i ich prekursorów, wymienionych w Wykazie 3, z państw będących Stronami Konwencji jest dopuszczalny do i z państw niebędących Stronami Konwencji, z tym że w przypadku eksportu i tranzytu do tych państw warunkiem jego dopuszczenia jest dostarczenie oświadczenia końcowego użytkownika, wydanego przez właściwe władze tych państw. 4. Oświadczenie, o którym mowa w ust. 3, powinno zawierać dane określone w art. 23 ust. 4 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niektórych ustaw.
 
-2. Zezwolenie na import, eksport oraz tranzyt, o którym mowa w ust. 1, wydaje minister właściwy do spraw gospodarki na zasadach i w trybie określonym w ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niektórych ustaw (Dz. U. z 2017 r. poz. 1050).
-
-**Art. 11.**
-
-1. Eksport, import i tranzyt przez terytorium Rzeczypospolitej Polskiej toksycznych związków chemicznych i ich prekursorów, wymienionych w Wykazie 1, do i z państw niebędących Stronami Konwencji jest zakazany.
-
-2. Eksport, import i tranzyt przez terytorium Rzeczypospolitej Polskiej toksycznych związków chemicznych i ich prekursorów, wymienionych w Wykazie 1, do i z państw będących Stronami Konwencji jest dopuszczalny jedynie do celów niezabronionych przez Konwencję i w ilościach przez nią dozwolonych oraz zgodnie z jej wymogami.
-
-**Art. 12.**
-
-1. Eksport, import i tranzyt przez terytorium Rzeczypospolitej Polskiej toksycznych związków chemicznych i ich prekursorów, wymienionych w Wykazie nr 2 Załącznika do Konwencji dotyczącego związków chemicznych, zwanym dalej „Wykazem 2”, jest dopuszczalny tylko do i z państw będących Stronami Konwencji.
-
-2. Eksport, import i tranzyt przez terytorium Rzeczypospolitej Polskiej toksycznych związków chemicznych i ich prekursorów, wymienionych w Wykazie nr 3 Załącznika do Konwencji dotyczącego związków chemicznych, zwanym dalej „Wykazem 3”, jest dopuszczalny tylko do i z państw będących Stronami Konwencji, z zastrzeżeniem ust. 3.
-
-3. Eksport, import i tranzyt przez terytorium Rzeczypospolitej Polskiej toksycznych związków chemicznych i ich prekursorów, wymienionych w Wykazie 3, z państw będących Stronami Konwencji jest dopuszczalny do i z państw niebędących Stronami Konwencji, z tym że w przypadku eksportu i tranzytu do tych państw warunkiem jego dopuszczenia jest dostarczenie oświadczenia końcowego użytkownika, wydanego przez właściwe władze tych państw.
-
-4. Oświadczenie, o którym mowa w ust. 3, powinno zawierać dane określone w art. 23 ust. 4 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niektórych ustaw.
-
-#### Rozdział 4 Deklaracje i ich kontrola
+#### Rozdział 4
 
 **Art. 13.**
 
@@ -180,11 +196,9 @@ art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. 
 
 2. Organem właściwym w sprawach kontroli, o której mowa w ust. 1, jest minister właściwy do spraw gospodarki, z wyjątkiem jednostek i komórek organizacyjnych podporządkowanych Ministrowi Obrony Narodowej oraz przez niego nadzorowanych, a także przedsiębiorstw państwowych, dla których jest on organem założycielskim.
 
-3. W jednostkach i komórkach organizacyjnych podporządkowanych Ministrowi Obrony Narodowej oraz przez niego nadzorowanych, a także w przedsiębiorstwach państwowych, dla których jest on organem założycielskim, kontrolę, o której mowa w ust. 1, prowadzi Minister Obrony Narodowej.
+3. W jednostkach i komórkach organizacyjnych podporządkowanych Ministrowi Obrony Narodowej oraz przez niego nadzorowanych, a także w przedsiębiorstwach państwowych, dla których jest on organem założycielskim, kontrolę, o której mowa w ust. 1, prowadzi Minister Obrony Narodowej. 4W brzmieniu ustalonym przez art. 59 pkt 4 ustawy, o której mowa w odnośniku 2.. Do kontroli, o której mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255, z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491 oraz z 2018 r. poz. 106 i 138.) dotyczące kontroli celno-skarbowej oraz przepisy art. 29–31 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niektórych ustaw.
 
-4. Do kontroli, o której mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.) dotyczące kontroli celno-skarbowej oraz przepisy art. 29–31 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niektórych ustaw.
-
-#### Rozdział 5 Działalność inspekcyjna
+#### Rozdział 5
 
 **Art. 16.** Zespół inspekcyjny, w granicach zadań określonych w Załączniku do Konwencji dotyczącym jej stosowania i weryfikacji, jest uprawniony do:
 
@@ -217,7 +231,7 @@ art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. 
 - **6)** umożliwienia zespołowi inspekcyjnemu korzystania ze środków łączności oraz, o ile jest to możliwe, z innych urządzeń znajdujących się w kontrolowanym obiekcie;
 - **7)** zapewnienia odpowiednich warunków do pracy, w tym samodzielnych pomieszczeń i miejsc do przechowywania dokumentów.
 
-2. (uchylony)
+2. (uchylony)Przez art. 59 pkt 5 ustawy, o której mowa w odnośniku 2.
 
 **Art. 19.** Podczas prowadzenia inspekcji kontrolowane podmioty i przedsiębiorcy, o których mowa w art. 2, mają prawo do:
 
@@ -245,19 +259,9 @@ art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. 
 
 - **4)** tryb pokrywania kosztów inspekcji oraz występowania do Organizacji w celu refundacji poniesionych kosztów.
 
-#### Rozdział 6 Ochrona informacji
+#### Rozdział 6
 
-**Art. 22.**
-
-1. Informacje uzyskane w związku z realizacją postanowień Konwencji, oznaczone klauzulą „OPCW restricted”, podlegają ochronie i są udostępniane na zasadach określonych w przepisach o ochronie informacji niejawnych, dla informacji niejawnych o klauzuli tajności „zastrzeżone”.
-
-2. Informacje uzyskane w związku z realizacją postanowień Konwencji, oznaczone klauzulą „OPCW protected”, podlegają ochronie i są udostępniane na zasadach określonych w przepisach, o których mowa w ust. 1, dla informacji niejawnych o klauzuli tajności „poufne”.
-
-3. Informacje uzyskane w związku z realizacją postanowień Konwencji, oznaczone klauzulą „OPCW highly protected”, podlegają ochronie i są udostępniane na zasadach określonych w przepisach, o których mowa w ust. 1, dla informacji niejawnych o klauzuli tajności „tajne”.
-
-4. Informacje uzyskane od podmiotów i przedsiębiorców, o których mowa w art. 2, w związku z obowiązkiem ustanowionym w art. 14, oraz oznaczone odpowiednimi klauzulami, podlegają ochronie i są udostępniane na zasadach określonych w przepisach, o których mowa w ust. 1, odpowiednio do przyznanej klauzuli tajności.
-
-#### Rozdział 7 Kompetencje organów administracji publicznej
+#### Rozdział 7
 
 **Art. 23.**
 
@@ -302,7 +306,7 @@ art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. 
 - **2)** bezpieczeństwo członkom zespołów inspekcyjnych w czasie pobytu na terytorium Rzeczypospolitej Polskiej oraz w czasie przemieszczania się;
 - **3)** prowadzenie, we współpracy z ministrem właściwym do spraw zagranicznych i ministrem właściwym do spraw gospodarki, działalności związanej z przygotowaniem, przyjmowaniem i prowadzeniem inspekcji Organizacji w podległych mu i nadzorowanych przez niego jednostkach organizacyjnych.
 
-#### Rozdział 8 Przepisy karne
+#### Rozdział 8
 
 **Art. 27.** Kto używa chemicznych środków policyjnych jako środka prowadzenia działań wojennych, podlega karze pozbawienia wolności od roku do lat 10.
 
@@ -324,12 +328,9 @@ art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. 
 
 **Art. 32.** W razie skazania za przestępstwo określone w art. 27–29 sąd może orzec przepadek towarów, technologii oraz innych przedmiotów służących lub przeznaczonych do popełnienia przestępstwa albo pochodzących bezpośrednio lub pośrednio z przestępstwa, nie wyłączając środków płatniczych, papierów wartościowych i wartości dewizowych oraz innych korzyści majątkowych, chociażby nie stanowiły one własności sprawcy.
 
-#### Rozdział 9 Przepisy przejściowe i końcowe
+#### Rozdział 9
 
 **Art. 33.** Podmioty i przedsiębiorcy prowadzący w dniu wejścia w życie ustawy działalność bez pozwolenia, o którym mowa w art. 6 ust. 1, mogą w terminie 30 dni od dnia wejścia w życie ustawy wystąpić do właściwego organu o wydanie wymaganego pozwolenia.
 
-**Art. 34.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
-
-- **1)** Obecnie ustawa z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2017 r. poz. 2168 i 2290) na podstawie art. 86 ustawy z dnia 2 lipca 2004 r. – Przepisy wprowadzające ustawę o swobodzie działalności gospodarczej (Dz. U. poz. 1808, z 2006 r. poz. 1636, z 2008 r. poz. 888, z 2009 r. poz. 97 oraz z 2011 r. poz. 764), która weszła w życie z dniem 21 sierpnia 2004 r. 2) W brzmieniu ustalonym przez art. 59 pkt 1 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948), która weszła w życie z dniem 1 marca 2017 r. 3) W brzmieniu ustalonym przez art. 59 pkt 2 ustawy, o której mowa w odnośniku 2. 4) W brzmieniu ustalonym przez art. 59 pkt 3 ustawy, o której mowa w odnośniku 2. 5) W brzmieniu ustalonym przez art. 59 pkt 4 ustawy, o której mowa w odnośniku 2. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255, z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491 oraz z 2018 r. poz. 106 i 138. 7) Przez art. 59 pkt 5 ustawy, o której mowa w odnośniku 2. 8) W brzmieniu ustalonym przez art. 135 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. poz. 1228), która weszła w życie z dniem 2 stycznia 2011 r. 9) Ustawa została ogłoszona w dniu 25 lipca 2001 r.
-
+**Art. 34.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszeniaUstawa została ogłoszona w dniu 25 lipca 2001 r.. 1) Obecnie ustawa z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2017 r. poz. 2168 i 2290) na podstawie art. 86 ustawy z dnia 2 lipca 2004 r. – Przepisy wprowadzające ustawę o swobodzie działalności gospodarczej (Dz. U. poz. 1808, z 2006 r. poz. 1636, z 2008 r. poz. 888, z 2009 r. poz. 97 oraz z 2011 r. poz. 764), która weszła w życie z dniem 21 sierpnia 2004 r. 2) W brzmieniu ustalonym przez art. 59 pkt 1 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948), która weszła w życie z dniem 1 marca 2017 r. 3) W brzmieniu ustalonym przez art. 59 pkt 2 ustawy, o której mowa w odnośniku 2. 4) W brzmieniu ustalonym przez art. 59 pkt 3 ustawy, o której mowa w odnośniku 2. 5) W brzmieniu ustalonym przez art. 59 pkt 4 ustawy, o której mowa w odnośniku 2. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255, z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491 oraz z 2018 r. poz. 106 i 138. 7) Przez art. 59 pkt 5 ustawy, o której mowa w odnośniku 2. 8) W brzmieniu ustalonym przez art. 135 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. poz. 1228), która weszła w życie z dniem 2 stycznia 2011 r. 9) Ustawa została ogłoszona w dniu 25 lipca 2001 r.
 

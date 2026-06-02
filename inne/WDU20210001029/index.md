@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 2 czerwca 2021 r. w sprawie kontroli prawidłowości uiszczenia opłaty elektronicznej wykonywanej przez Głównego Inspektora Transportu Drogowego
+# Rozporządzenie Ministra Infrastrukturyz dnia 2 czerwca 2021 r. w sprawie kontroli prawidłowości uiszczenia opłaty elektronicznej wykonywanej przez Głównego Inspektora Transportu Drogowego Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-02 |
 | Data wydania | 2021-06-07 |
-| Wejście w życie | 2021-06-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001029) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1029/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 13l ust. 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2020 r. poz. 470, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 13l ust. 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2020 r. poz. 470, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 471, 1087 i 2338 oraz z 2021 r. poz. 54, 720 i 1005.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy tryb, sposób i zakres kontroli prawidłowości uiszczenia opłaty elektronicznej wykonywanej przez Głównego Inspektora Transportu Drogowego, zwanego dalej „kontrolującym”, w tym kontroli używanego w pojeździe urządzenia, o którym mowa w art. 13i ust. 3a oraz art. 16l ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, zwanej dalej „ustawą”, wykorzystywanego na potrzeby pobierania opłaty elektronicznej.
 § 2.
@@ -121,8 +120,7 @@ ich porównanie z danymi dostępnymi w:
 a)
 centralnej ewidencji pojazdów oraz innych rejestrach i bazach danych, do których dostęp ma kontrolujący,
 b)
-dokumentach pojazdu i dokumentach identyfikujących kontrolowanego
-w przypadku danych rejestrowych;
+dokumentach pojazdu i dokumentach identyfikujących kontrolowanego – w przypadku danych rejestrowych;
 2)
 ich porównanie z rzeczywistą kategorią pojazdu lub liczbą osi pojazdu wykonującego przejazd drogą krajową lub jej odcinkiem, na których pobiera się opłatę elektroniczną, albo numerem rejestracyjnym przyczepy lub naczepy – w przypadku danych, o których mowa w art. 13ib ust. 1 pkt 1 i 2 ustawy;
 3)
@@ -225,8 +223,7 @@ urządzenia:
 a)
 stacjonarne i przenośne, o których mowa w art. 13o ust. 1 ustawy, zainstalowane w pasie drogowym dróg krajowych lub ich odcinków, na których pobiera się opłatę elektroniczną,
 b)
-zainstalowane w pojazdach służbowych kontrolującego
-zwane dalej „urządzeniami kontrolnymi”;
+zainstalowane w pojazdach służbowych kontrolującego – zwane dalej „urządzeniami kontrolnymi”;
 2)
 System Poboru Opłaty Elektronicznej KAS.
 2.
@@ -262,6 +259,5 @@ W okresie do dnia wskazanego w obwieszczeniu ministra właściwego do spraw fina
 § 9.
 Przepisy rozporządzenia stosuje się od dnia uruchomienia SPOE KAS określonego w obwieszczeniu ministra właściwego do spraw finansów publicznych wydanym na podstawie art. 9 ust. 4 ustawy z dnia 6 maja 2020 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw.
 § 10.
-Rozporządzenie wchodzi w życie po upływie pięciu dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 471, 1087 i 2338 oraz z 2021 r. poz. 54, 720 i 1005. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 27 października 2016 r. w sprawie kontroli prawidłowości uiszczenia opłaty elektronicznej (Dz. U. poz. 1859), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ustawy z dnia 6 maja 2020 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1087 oraz z 2021 r. poz. 1005).
+Rozporządzenie wchodzi w życie po upływie pięciu dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 27 października 2016 r. w sprawie kontroli prawidłowości uiszczenia opłaty elektronicznej (Dz. U. poz. 1859), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ustawy z dnia 6 maja 2020 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1087 oraz z 2021 r. poz. 1005). 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 471, 1087 i 2338 oraz z 2021 r. poz. 54, 720 i 1005. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 27 października 2016 r. w sprawie kontroli prawidłowości uiszczenia opłaty elektronicznej (Dz. U. poz. 1859), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ustawy z dnia 6 maja 2020 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1087 oraz z 2021 r. poz. 1005).
 

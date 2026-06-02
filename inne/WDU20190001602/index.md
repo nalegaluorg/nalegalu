@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Inwestycji i Rozwojuz dnia 8 sierpnia 2019 r. zmieniające rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020
+# Rozporządzenie Ministra Inwestycji i Rozwojuz dnia 8 sierpnia 2019 r. zmieniające rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175). Zgodnie z art. 9 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2018 r. poz. 1431 i 1544 oraz z 2019 r. poz. 60, 730 i 1572) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Inteligentny Rozwój 2014–2020.
 
 | Pole | Wartość |
 |---|---|
@@ -22,51 +22,42 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-08 |
 | Data wydania | 2019-08-23 |
-| Wejście w życie | 2019-08-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001602) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1602/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 6b ust. 10a ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2019 r. poz. 310, 836 i 1572) zarządza się, co następuje:
+Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885 przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia w Polsce” oraz przyjęty uchwałą nr 91/2014 Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Inteligentny Rozwój na lata 2014–2020. Na podstawie art. 6b ust. 10a ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2019 r. poz. 310, 836 i 1572) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 10 lipca 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. z 2018 r. poz. 871 i 1029) wprowadza się następujące zmiany:
 1)
-w § 1 w pkt 1 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu:
-„
+w § 1 w pkt 1 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „
 f)
-2.3.6 Granty na Eurogranty;
-” ;
+2.3.6 Granty na Eurogranty; ” ;
 2)
 w § 3:
 a)
-po pkt 2 dodaje się pkt 2a-2c w brzmieniu:
-„
+po pkt 2 dodaje się pkt 2a-2c w brzmieniu: „
 2a)
 biopaliwie – należy przez to rozumieć biopaliwo w rozumieniu art. 2 pkt 111 rozporządzenia Komisji nr 651/2014;
 2b)
 biopaliwie produkowanym z roślin spożywczych – należy przez to rozumieć biopaliwo, o którym mowa w art. 2 pkt 113 rozporządzenia Komisji nr 651/2014;
 2c)
-energii ze źródeł odnawialnych – należy przez to rozumieć energię w rozumieniu art. 2 pkt 109 rozporządzenia Komisji nr 651/2014;
-” ,
+energii ze źródeł odnawialnych – należy przez to rozumieć energię w rozumieniu art. 2 pkt 109 rozporządzenia Komisji nr 651/2014; ” ,
 b)
-po pkt 12 dodaje się pkt 12a w brzmieniu:
-„
+po pkt 12 dodaje się pkt 12a w brzmieniu: „
 12a)
-organizatorze konkursu – należy przez to rozumieć organizatora konkursu w ramach jednego z programów Unii Europejskiej zarządzanych centralnie;
-” ,
+organizatorze konkursu – należy przez to rozumieć organizatora konkursu w ramach jednego z programów Unii Europejskiej zarządzanych centralnie; ” ,
 c)
-po pkt 19 dodaje się pkt 19a i 19b w brzmieniu:
-„
+po pkt 19 dodaje się pkt 19a i 19b w brzmieniu: „
 19a)
 przygotowaniu projektu planowanego do realizacji w ramach jednego z programów Unii Europejskiej zarządzanych centralnie – należy przez to rozumieć poszukiwanie partnerów tego projektu lub przygotowanie, korektę lub prezentację wniosku przed komisją oceny projektów powołaną przez organizatora konkursu;
 19b)
-recyklingu – należy przez to rozumieć proces w rozumieniu art. 2 pkt 128 rozporządzenia Komisji nr 651/2014;
-” ;
+recyklingu – należy przez to rozumieć proces w rozumieniu art. 2 pkt 128 rozporządzenia Komisji nr 651/2014; ” ;
 3)
 w § 11 uchyla się ust. 3;
 4)
-po rozdziale 12 dodaje się rozdział 12a w brzmieniu:
-„
+po rozdziale 12 dodaje się rozdział 12a w brzmieniu: „
+Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych oraz recykling i ponowne wykorzystywanie opadów
 § 41a.
 1.
 Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych jest udzielana w odniesieniu do odnawialnych źródeł energii wymienionych w art. 2 pkt 110 rozporządzenia Komisji nr 651/2014.
@@ -108,24 +99,19 @@ Intensywność pomocy, o której mowa w ust. 5, zwiększa się o:
 2)
 5 punktów procentowych w przypadku inwestycji prowadzonych na obszarze województwa mazowieckiego;
 3)
-15 punktów procentowych w przypadku inwestycji prowadzonych na obszarach województw innych niż mazowieckie.
-” ;
+15 punktów procentowych w przypadku inwestycji prowadzonych na obszarach województw innych niż mazowieckie. ” ;
 5)
 w § 42:
 a)
-pkt 10 otrzymuje brzmienie:
-„
+pkt 10 otrzymuje brzmienie: „
 10)
 podróży służbowych pracowników przedsiębiorcy:
 a)
 uczestniczącego w targach, misjach gospodarczych lub programie wspierającym rozwój na rynkach zagranicznych,
 b)
-związanych z przygotowaniem projektu planowanego do realizacji w ramach jednego z programów Unii Europejskiej zarządzanych centralnie
-w zakresie i według stawek określonych w przepisach w sprawie należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej poza granicami kraju;
-” ,
+związanych z przygotowaniem projektu planowanego do realizacji w ramach jednego z programów Unii Europejskiej zarządzanych centralnie – w zakresie i według stawek określonych w przepisach w sprawie należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej poza granicami kraju; ” ,
 b)
-w pkt 21 kropkę zastępuje się średnikiem i dodaje się pkt 22–25 w brzmieniu:
-„
+w pkt 21 kropkę zastępuje się średnikiem i dodaje się pkt 22–25 w brzmieniu: „
 22)
 usług doradczych związanych z przygotowaniem projektu planowanego do realizacji w ramach jednego z programów Unii Europejskiej zarządzanych centralnie;
 23)
@@ -133,48 +119,38 @@ wynagrodzeń wraz z pozapłacowymi kosztami pracy, w tym składkami na ubezpiecz
 24)
 organizacji spotkań związanych z przygotowaniem projektu planowanego do realizacji w ramach jednego z programów Unii Europejskiej zarządzanych centralnie;
 25)
-tłumaczenia dokumentacji aplikacyjnej przedkładanej organizatorowi konkursu.
-” ;
+tłumaczenia dokumentacji aplikacyjnej przedkładanej organizatorowi konkursu. ” ;
 6)
-w § 43 ust. 1 otrzymuje brzmienie:
-„
+w § 43 ust. 1 otrzymuje brzmienie: „
 1.
-Pomoc de minimis nie przekracza 100% wartości kosztów kwalifikowalnych, o których mowa w § 42.
-” ;
+Pomoc de minimis nie przekracza 100% wartości kosztów kwalifikowalnych, o których mowa w § 42. ” ;
 7)
 w § 45:
 a)
-w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
-„
+w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
 5)
-podniesienie kompetencji podmiotów, o których mowa w § 44 ust. 1 pkt 3, w zakresie wdrażania innowacji, w ramach działalności niebędącej działalnością gospodarczą.
-” ,
+podniesienie kompetencji podmiotów, o których mowa w § 44 ust. 1 pkt 3, w zakresie wdrażania innowacji, w ramach działalności niebędącej działalnością gospodarczą. ” ,
 b)
-po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
 Pomoc finansowa niestanowiąca pomocy publicznej może być udzielona w formie nagród, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady nr 1303/2013, w zakresie:
 1)
 popularyzacji innowacyjnych rozwiązań w gospodarce i społeczeństwie;
 2)
-podejmowania i rozwijania inicjatyw pobudzających współpracę przedsiębiorców, podmiotów, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.), i administracji publicznej;
+podejmowania i rozwijania inicjatyw pobudzających współpracę przedsiębiorców, podmiotów, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.), i administracji publicznej;
 3)
-promocji polskich przedsiębiorców za granicą.
-” ;
+promocji polskich przedsiębiorców za granicą. ” ;
 8)
-po § 47a dodaje się § 47b w brzmieniu:
-„
+po § 47a dodaje się § 47b w brzmieniu: „
 § 47b.
-W ramach poddziałania 2.4.1 Centrum analiz i pilotaży nowych instrumentów – inno_LAB Agencja udziela nagród, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady nr 1303/2013, w sposób przejrzysty, rzetelny i bezstronny oraz zapewnia równy dostęp do informacji o warunkach i sposobie przyznawania nagród, w szczególności zamieszcza ogłoszenie o możliwości udziału w konkursie na stronie internetowej Agencji.
-” .
+W ramach poddziałania 2.4.1 Centrum analiz i pilotaży nowych instrumentów – inno_LAB Agencja udziela nagród, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady nr 1303/2013, w sposób przejrzysty, rzetelny i bezstronny oraz zapewnia równy dostęp do informacji o warunkach i sposobie przyznawania nagród, w szczególności zamieszcza ogłoszenie o możliwości udziału w konkursie na stronie internetowej Agencji. ” .
 § 2.
 1.
 Do umów o udzielenie pomocy finansowej zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 2.
 Do wniosków o udzielenie pomocy finansowej złożonych w ramach konkursów oraz otwartych naborów ogłoszonych przed dniem wejścia w życie niniejszego rozporządzenia oraz do umów zawieranych na podstawie tych wniosków stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175). Zgodnie z art. 9 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2018 r. poz. 1431 i 1544 oraz z 2019 r. poz. 60, 730 i 1572) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Inteligentny Rozwój 2014–2020. 2) Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885 przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia w Polsce” oraz przyjęty uchwałą nr 91/2014 Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Inteligentny Rozwój na lata 2014–2020. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175). Zgodnie z art. 9 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2018 r. poz. 1431 i 1544 oraz z 2019 r. poz. 60, 730 i 1572) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Inteligentny Rozwój 2014–2020. 2) Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885 przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia w Polsce” oraz przyjęty uchwałą nr 91/2014 Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Inteligentny Rozwój na lata 2014–2020. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.
 
-#### Rozdział 12a Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych oraz recykling i ponowne wykorzystywanie opadów
+#### Rozdział 12a
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 12 grudnia 2018 r. w sprawie wniosków o wpis do rejestru agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające
+# Rozporządzenie Ministra Finansówz dnia 12 grudnia 2018 r. w sprawie wniosków o wpis do rejestru agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-12 |
 | Data wydania | 2018-12-27 |
-| Wejście w życie | 2019-01-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002417) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2417/text.pdf) |
 
@@ -115,6 +114,5 @@ potwierdzenie uiszczenia opłaty skarbowej sporządzone w pliku PDF.
 § 10.
 W odniesieniu do agentów ubezpieczeniowych wpisanych do rejestru agentów na podstawie przepisów dotychczasowych, do których zastosowanie znajdzie art. 3 ust. 1 pkt 1 ustawy, zakład ubezpieczeń składa wniosek o zmianę wpisu w zakresie dotyczącym rodzaju agenta.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 15 stycznia 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 30 września 2014 r. w sprawie wniosków o wpis do rejestru agentów ubezpieczeniowych (Dz. U. poz. 1376), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2018 r. poz. 2210 i 2243).
+Rozporządzenie wchodzi w życie z dniem 15 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 30 września 2014 r. w sprawie wniosków o wpis do rejestru agentów ubezpieczeniowych (Dz. U. poz. 1376), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2018 r. poz. 2210 i 2243). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 30 września 2014 r. w sprawie wniosków o wpis do rejestru agentów ubezpieczeniowych (Dz. U. poz. 1376), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2018 r. poz. 2210 i 2243).
 

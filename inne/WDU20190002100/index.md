@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Inwestycji i Rozwojuz dnia 25 października 2019 r. zmieniające rozporządzenie w sprawie zabezpieczeń akcyzowych
+# Rozporządzenie Ministra Finansów, Inwestycji i Rozwojuz dnia 25 października 2019 r. zmieniające rozporządzenie w sprawie zabezpieczeń akcyzowych Minister Finansów, Inwestycji i Rozwoju kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 26 września 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Inwestycji i Rozwoju (Dz. U. poz. 1841).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-25 |
 | Data wydania | 2019-10-30 |
-| Wejście w życie | 2019-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002100) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2100/text.pdf) |
 
@@ -33,24 +32,17 @@ W rozporządzeniu Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie zabezpi
 1)
 w § 4:
 a)
-w pkt 1 lit. b otrzymuje brzmienie:
-„
+w pkt 1 lit. b otrzymuje brzmienie: „
 b)
-od wyrobów akcyzowych, które mogą się znajdować w tym dniu w trakcie przemieszczania przez ten podmiot z zastosowaniem procedury zawieszenia poboru akcyzy, lub kwoty akcyzy oraz kwoty opłaty paliwowej od wyrobów akcyzowych zwolnionych od akcyzy ze względu na ich przeznaczenie, które mogą się znajdować w tym dniu w trakcie dostarczania ze składu podatkowego albo składów podatkowych prowadzonych przez ten podmiot, lub od wyrobów akcyzowych, o których mowa w art. 40 ust. 6 ustawy, przemieszczanych na terytorium kraju w ramach nabycia wewnątrzwspólnotowego, w celu wprowadzenia ich do składu podatkowego, oraz
-” ,
+od wyrobów akcyzowych, które mogą się znajdować w tym dniu w trakcie przemieszczania przez ten podmiot z zastosowaniem procedury zawieszenia poboru akcyzy, lub kwoty akcyzy oraz kwoty opłaty paliwowej od wyrobów akcyzowych zwolnionych od akcyzy ze względu na ich przeznaczenie, które mogą się znajdować w tym dniu w trakcie dostarczania ze składu podatkowego albo składów podatkowych prowadzonych przez ten podmiot, lub od wyrobów akcyzowych, o których mowa w art. 40 ust. 6 ustawy, przemieszczanych na terytorium kraju w ramach nabycia wewnątrzwspólnotowego, w celu wprowadzenia ich do składu podatkowego, oraz ” ,
 b)
-w pkt 2 lit. a otrzymuje brzmienie:
-„
+w pkt 2 lit. a otrzymuje brzmienie: „
 a)
-które mogą się znajdować w tym dniu w trakcie przemieszczania przez ten podmiot z zastosowaniem procedury zawieszenia poboru akcyzy, lub wyrobów akcyzowych zwolnionych od akcyzy ze względu na ich przeznaczenie, które mogą się znajdować w tym dniu w trakcie dostarczania ze składu podatkowego albo składów podatkowych prowadzonych przez ten podmiot, lub wyrobów akcyzowych, o których mowa w art. 40 ust. 6 ustawy, przemieszczanych na terytorium kraju w ramach nabycia wewnątrzwspólnotowego, w celu wprowadzenia ich do składu podatkowego, oraz
-” ;
+które mogą się znajdować w tym dniu w trakcie przemieszczania przez ten podmiot z zastosowaniem procedury zawieszenia poboru akcyzy, lub wyrobów akcyzowych zwolnionych od akcyzy ze względu na ich przeznaczenie, które mogą się znajdować w tym dniu w trakcie dostarczania ze składu podatkowego albo składów podatkowych prowadzonych przez ten podmiot, lub wyrobów akcyzowych, o których mowa w art. 40 ust. 6 ustawy, przemieszczanych na terytorium kraju w ramach nabycia wewnątrzwspólnotowego, w celu wprowadzenia ich do składu podatkowego, oraz ” ;
 2)
-w § 10 po ust. 4 dodaje się ust. 4a w brzmieniu:
-„
+w § 10 po ust. 4 dodaje się ust. 4a w brzmieniu: „
 4a.
-W przypadku podmiotu prowadzącego skład podatkowy, do którego wprowadzane są wyroby akcyzowe, o których mowa w art. 40 ust. 6 ustawy, przemieszczane na terytorium kraju w ramach nabycia wewnątrzwspólnotowego, przedłożenie dokumentów, o których mowa w ust. 3, w celu odnotowania obciążenia zabezpieczenia generalnego, następuje najpóźniej wraz z dokonaniem do właściwego naczelnika urzędu skarbowego zgłoszenia o planowanym nabyciu wewnątrzwspólnotowym.
-” .
+W przypadku podmiotu prowadzącego skład podatkowy, do którego wprowadzane są wyroby akcyzowe, o których mowa w art. 40 ust. 6 ustawy, przemieszczane na terytorium kraju w ramach nabycia wewnątrzwspólnotowego, przedłożenie dokumentów, o których mowa w ust. 3, w celu odnotowania obciążenia zabezpieczenia generalnego, następuje najpóźniej wraz z dokonaniem do właściwego naczelnika urzędu skarbowego zgłoszenia o planowanym nabyciu wewnątrzwspólnotowym. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 listopada 2019 r.
-1) Minister Finansów, Inwestycji i Rozwoju kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 26 września 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Inwestycji i Rozwoju (Dz. U. poz. 1841).
+Rozporządzenie wchodzi w życie z dniem 1 listopada 2019 r. 1) Minister Finansów, Inwestycji i Rozwoju kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 26 września 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Inwestycji i Rozwoju (Dz. U. poz. 1841).
 

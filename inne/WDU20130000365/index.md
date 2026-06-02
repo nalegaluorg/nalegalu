@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-03-08 |
 | Data wydania | 2013-03-18 |
-| Wejście w życie | 2013-03-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000365) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/365/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Regionalna pomoc inwestycyjna Rozdział 3 – Pomoc de minimis Rozdział 4 – Tryb udzielania wsparcia Rozdział 5 – Przepisy końcowe
 Treść rozporządzenia
-Na podstawie art. 21 ust. 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 21 ust. 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644 oraz z 2012 r. poz. 1237.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania pomocy publicznej w ramach programów Europejskiej Współpracy Terytorialnej, 2007–2013: Programu Współpracy Transgranicznej Rzeczpospolita Polska – Republika Słowacka 2007–2013, Programu Operacyjnego Współpracy Transgranicznej Polska (Województwo Lubuskie) – Brandenburgia 2007–2013, Programu Współpracy Transgranicznej Południowy Bałtyk 2007–2013, zwanej dalej „wsparciem”.
 § 2.
@@ -55,6 +55,7 @@ umowie partnerskiej – należy przez to rozumieć umowę zawieraną między par
 Wsparcie może być udzielane przez instytucję zarządzającą przedsiębiorcy będącemu partnerem wiodącym lub partnerem, na podstawie umowy o dofinansowanie projektu, o której mowa w § 25.
 § 5.
 Wsparcie jest przyznawane w formie bezzwrotnego dofinansowania.
+Regionalna pomoc inwestycyjna
 § 6.
 Regionalna pomoc inwestycyjna jest udzielana przedsiębiorcom na nowe inwestycje, zgodnie z warunkami określonymi w rozdziale 1, w art. 13 oraz w rozdziale 3 rozporządzenia nr 800/2008.
 § 7.
@@ -180,12 +181,13 @@ Rozpoczęcie prac inwestycyjnych związanych z realizacją nowej inwestycji nast
 4.
 W przypadku gdy wniosek o dofinansowanie projektu dotyczy nowej inwestycji stanowiącej jeden z etapów przedsięwzięcia inwestycyjnego o charakterze wieloetapowym, rozpoczęcie prac inwestycyjnych związanych z realizacją nowej inwestycji następuje z chwilą podjęcia prac budowlanych lub złożenia pierwszego oświadczenia woli dotyczącego nabycia ruchomych środków trwałych lub wartości niematerialnych i prawnych w zakresie dotyczącym tej inwestycji.
 5.
-Przez podjęcie prac budowlanych należy rozumieć rozpoczęcie robót budowlanych, o których mowa w art. 3 pkt 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2010 r. Nr 243, poz. 1623, z późn. zm.).
+Przez podjęcie prac budowlanych należy rozumieć rozpoczęcie robót budowlanych, o których mowa w art. 3 pkt 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2010 r. Nr 243, poz. 1623, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 32, poz. 159, Nr 45, poz. 235, Nr 94, poz. 551, Nr 135, poz. 789, Nr 142, poz. 829, Nr 185, poz. 1092 i Nr 232, poz. 1377 oraz z 2012 r. poz. 472, 951 i 1256.).
 § 15.
 1.
 Regionalna pomoc inwestycyjna udzielana w odniesieniu do tych samych wydatków kwalifikowalnych podlega sumowaniu z każdą inną pomocą publiczną oraz pomocą de minimis w rozumieniu rozporządzenia nr 1998/2006 oraz pomocą z budżetu Unii Europejskiej, udzieloną przedsiębiorcy niezależnie od jej formy i źródła.
 2.
 Łączna wartość pomocy, o której mowa w ust. 1, nie może przekroczyć maksymalnej intensywności regionalnej pomocy inwestycyjnej, o której mowa w § 3 rozporządzenia w sprawie ustalenia mapy pomocy regionalnej.
+Pomoc de minimis
 § 16.
 1.
 Pomoc de minimis jest udzielana przedsiębiorcom zgodnie z przepisami rozporządzenia nr 1998/2006.
@@ -239,13 +241,14 @@ Pomoc de minimis jest udzielana z zachowaniem warunku określonego w art. 2 ust.
 Maksymalna wartość pomocy de minimis brutto łącznie z wartością innej pomocy de minimis otrzymanej przez przedsiębiorcę w okresie bieżącego roku podatkowego i dwóch poprzednich lat podatkowych nie może przekroczyć kwoty stanowiącej równowartość 200 tys. euro.
 2.
 Maksymalna wartość pomocy de minimis brutto łącznie z wartością innej pomocy de minimis otrzymanej przez przedsiębiorcę prowadzącego działalność gospodarczą w sektorze transportu drogowego w okresie bieżącego roku podatkowego i dwóch poprzednich lat podatkowych nie może przekroczyć kwoty stanowiącej równowartość 100 tys. euro.
+Tryb udzielania wsparcia
 § 22.
 1.
 Przedsiębiorca ubiegający się o wsparcie składa wniosek o dofinansowanie projektu do wspólnego sekretariatu technicznego danego Programu Europejskiej Współpracy Terytorialnej, 2007–2013.
 2.
 Przedsiębiorca ubiegający się o pomoc de minimis do wniosku o dofinansowanie projektu załącza dodatkowo:
 1)
-kopie zaświadczeń o pomocy de minimis albo oświadczenie o wielkości pomocy de minimis albo oświadczenie o nieotrzymaniu pomocy de minimis , o których mowa w art. 37 ust. 1 pkt 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.), dotyczące bieżącego roku podatkowego i dwóch poprzednich lat podatkowych;
+kopie zaświadczeń o pomocy de minimis albo oświadczenie o wielkości pomocy de minimis albo oświadczenie o nieotrzymaniu pomocy de minimis , o których mowa w art. 37 ust. 1 pkt 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.), dotyczące bieżącego roku podatkowego i dwóch poprzednich lat podatkowych;
 2)
 informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
 3.
@@ -285,6 +288,7 @@ Przedsiębiorca przed podpisaniem umowy o dofinansowanie projektu przedstawia po
 Przedsiębiorca przekazuje dokumenty, o których mowa w § 22 ust. 2 lub 3, za pośrednictwem wspólnego sekretariatu technicznego.
 3.
 W przypadku gdy dokumenty, o których mowa w § 22 ust. 2 lub 3, dotyczą partnera, są one przekazywane do wspólnego sekretariatu technicznego za pośrednictwem partnera wiodącego.
+Przepisy końcowe
 § 27.
 1.
 Jeżeli wnioski o dofinansowanie projektu, złożone przed dniem wejścia w życie rozporządzenia, w odniesieniu do których nie zostały podpisane umowy o dofinansowanie projektu, nie spełniają wszystkich warunków określonych w rozporządzeniu, podmiot udzielający pomocy lub wspólny sekretariat techniczny, o którym mowa w § 22 ust. 1, wzywają przedsiębiorcę do uzupełnienia wniosku lub poprawienia, w terminie nie krótszym niż 7 dni.
@@ -293,15 +297,25 @@ Wnioski o dofinansowanie projektu nieuzupełnione lub niepoprawione w terminie, 
 § 28.
 Regionalnej pomocy inwestycyjnej udziela się do dnia 31 grudnia 2013 r., natomiast pomocy de minimis udziela się do dnia 30 czerwca 2014 r.
 § 29.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644 oraz z 2012 r. poz. 1237. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 32, poz. 159, Nr 45, poz. 235, Nr 94, poz. 551, Nr 135, poz. 789, Nr 142, poz. 829, Nr 185, poz. 1092 i Nr 232, poz. 1377 oraz z 2012 r. poz. 472, 951 i 1256. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Regionalna pomoc inwestycyjna
+#### Rozdział 2 – Regionalna pomoc inwestycyjna
 
-#### Rozdział 3 Pomoc de minimis
+#### Rozdział 3 – Pomoc de minimis
 
-#### Rozdział 4 Tryb udzielania wsparcia
+#### Rozdział 4 – Tryb udzielania wsparcia
 
-#### Rozdział 5 Przepisy końcowe
+#### Rozdział 5 – Przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

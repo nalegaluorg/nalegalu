@@ -26,20 +26,24 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001335) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1335/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych Rozdział 1 – Przepisy ogólne Rozdział 3 – Zmiany w przepisach obowiązujących. Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. z 2021 r. poz. 2021), z uwzględnieniem zmian wprowadzonych:
 1)
 ustawą z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561),
 2)
-ustawą z dnia 29 września 2022 r. o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych (Dz. U. poz. 2456)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 czerwca 2023 r.
+ustawą z dnia 29 września 2022 r. o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych (Dz. U. poz. 2456) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 czerwca 2023 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 45 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), który stanowi:
-„
+art. 45 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), który stanowi: „
+Przepisy ogólne
+Zmiany w przepisach obowiązujących. Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 3 – Zmiany w przepisach obowiązujących. Przepisy przejściowe i końcowe
 
 **Art. 45.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
@@ -55,7 +59,7 @@ art. 45 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie spo
 - **2)** art. 5 pkt 2, pkt 6 lit. a, pkt 8, pkt 9, pkt 10 lit. a, pkt 12, pkt 15–17 i pkt 20, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia;
 - **3)** art. 5 pkt 5 i pkt 11 lit. a oraz art. 8, które wchodzą w życie z dniem 1 stycznia 2025 r. ” . Załącznik – Tekst jednolity ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa reguluje zasady i tryb przyznawania, ustalania wysokości i wypłacania dodatków mieszkaniowych oraz właściwość organów w tych sprawach.
 
@@ -81,16 +85,14 @@ art. 45 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie spo
 - **3)** schronisku dla nieletnich,
 - **4)** zakładzie poprawczym,
 - **5)** zakładzie karnym,
-- **6)** szkole, w tym w szkole wojskowej jeżeli instytucje te zapewniają nieodpłatnie pełne całodobowe utrzymanie.
+- **6)** szkole, w tym w szkole wojskowej – jeżeli instytucje te zapewniają nieodpłatnie pełne całodobowe utrzymanie.
 
 **Art. 3.**
 
 1. Dodatek mieszkaniowy przysługuje osobom, o którym mowa w art. 2 ust. 1, jeżeli w okresie 3 miesięcy poprzedzających datę złożenia wniosku o jego przyznanie średni miesięczny dochód przypadający na jednego członka gospodarstwa domowego wnioskodawcy nie przekroczył w gospodarstwie:
 
 - **1)** jednoosobowym – 40%,
-- **2)** wieloosobowym – 30% przeciętnego wynagrodzenia w gospodarce narodowej, obowiązującego w dniu złożenia wniosku, z uwzględnieniem art. 6 ust. 8 i art. 7 ust. 6.
-
-1a. Rada gminy, w drodze uchwały, może podwyższyć wskaźniki procentowe przeciętnego wynagrodzenia w gospodarce narodowej, o których mowa w ust. 1. Przepis art. 6 ust. 8 stosuje się odpowiednio.
+- **2)** wieloosobowym – 30% – przeciętnego wynagrodzenia w gospodarce narodowej, obowiązującego w dniu złożenia wniosku, z uwzględnieniem art. 6 ust. 8 i art. 7 ust. 6. 1aDodany przez art. 3 pkt 1 lit. a ustawy z dnia 29 września 2022 r. o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych (Dz. U. poz. 2456), która weszła w życie z dniem 1 grudnia 2022 r.. Rada gminy, w drodze uchwały, może podwyższyć wskaźniki procentowe przeciętnego wynagrodzenia w gospodarce narodowej, o których mowa w ust. 1. Przepis art. 6 ust. 8 stosuje się odpowiednio.
 
 2. Przy wydawaniu decyzji o przyznaniu dodatku mieszkaniowego uwzględnia się kwotę przeciętnego wynagrodzenia w gospodarce narodowej, obowiązującego w dniu złożenia wniosku, ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2022 r. poz. 504, 1504 i 2461).
 
@@ -100,9 +102,7 @@ art. 45 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie spo
 
 4. W przypadku posiadania tytułu prawnego do gospodarstwa rolnego dochód z tego gospodarstwa ustala się na podstawie powierzchni gruntów w hektarach przeliczeniowych i wysokości przeciętnego dochodu z pracy w indywidualnych gospodarstwach rolnych z 1 ha przeliczeniowego, ostatnio ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 18 ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2020 r. poz. 333).
 
-5. Wysokość dochodu z pozarolniczej działalności gospodarczej, w przypadku prowadzenia działalności opodatkowanej na zasadach określonych w przepisach ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm.), ustala się na podstawie oświadczenia wnioskodawcy lub zaświadczenia wydanego przez naczelnika właściwego urzędu skarbowego.
-
-6. Wysokość dochodu z działalności podlegającej opodatkowaniu na podstawie przepisów ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2022 r. poz. 2540 oraz z 2023 r. poz. 1059) osiąganego w okresie 3 miesięcy poprzedzających miesiąc złożenia wniosku o przyznanie dodatku mieszkaniowego ustala się, przyjmując dochód miesięczny w wysokości 1/12 dochodu ogłaszanego corocznie w drodze obwieszczenia ministra właściwego do spraw rodziny, o którym mowa w art. 5 ust. 7a ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych. Roczną wysokość przychodu z działalności podlegającej opodatkowaniu na podstawie przepisów ustawy, o której mowa w zdaniu pierwszym, przyjmuje się jako czterokrotność przychodu osiągniętego przez wnioskodawcę w okresie 3 miesięcy poprzedzających miesiąc złożenia wniosku.
+5. Wysokość dochodu z pozarolniczej działalności gospodarczej, w przypadku prowadzenia działalności opodatkowanej na zasadach określonych w przepisach ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658, 825, 1059, 1114 i 1130.), ustala się na podstawie oświadczenia wnioskodawcy lub zaświadczenia wydanego przez naczelnika właściwego urzędu skarbowego. 6W brzmieniu ustalonym przez art. 3 pkt 1 lit. b ustawy, o której mowa w odnośniku 1.. Wysokość dochodu z działalności podlegającej opodatkowaniu na podstawie przepisów ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2022 r. poz. 2540 oraz z 2023 r. poz. 1059) osiąganego w okresie 3 miesięcy poprzedzających miesiąc złożenia wniosku o przyznanie dodatku mieszkaniowego ustala się, przyjmując dochód miesięczny w wysokości 1/12 dochodu ogłaszanego corocznie w drodze obwieszczenia ministra właściwego do spraw rodziny, o którym mowa w art. 5 ust. 7a ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych. Roczną wysokość przychodu z działalności podlegającej opodatkowaniu na podstawie przepisów ustawy, o której mowa w zdaniu pierwszym, przyjmuje się jako czterokrotność przychodu osiągniętego przez wnioskodawcę w okresie 3 miesięcy poprzedzających miesiąc złożenia wniosku.
 
 **Art. 4.** Przez gospodarstwo domowe rozumie się gospodarstwo prowadzone przez osobę ubiegającą się o przyznanie dodatku mieszkaniowego, samodzielnie zajmującą lokal mieszkalny albo gospodarstwo prowadzone przez tę osobę wspólnie z małżonkiem i innymi osobami stale z nią zamieszkującymi i gospodarującymi, które swoje prawa do zamieszkiwania w lokalu wywodzą z prawa tej osoby. Do członków gospodarstwa domowego nie wlicza się osób przebywających w instytucjach, o których mowa w art. 2 ust. 3.
 
@@ -148,8 +148,7 @@ art. 45 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie spo
 
 4. Wydatkami, o których mowa w ust. 3, są:
 
-- **1)** czynsz;
-- **1a)** koszty, o których mowa w art. 28 ust. 3 pkt 2 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2023 r. poz. 790 i 1114);
+- **1)** czynsz; 1aZe zmianą wprowadzoną przez art. 8 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), która weszła w życie z dniem 10 sierpnia 2022 r.) koszty, o których mowa w art. 28 ust. 3 pkt 2 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2023 r. poz. 790 i 1114);
 - **2)** opłaty związane z eksploatacją i utrzymaniem nieruchomości w częściach przypadających na lokale mieszkalne w spółdzielni mieszkaniowej;
 - **3)** zaliczki na koszty zarządu nieruchomością wspólną;
 - **4)** odszkodowanie za zajmowanie lokalu bez tytułu prawnego;
@@ -172,7 +171,7 @@ art. 45 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie spo
 
 7. Jeżeli lokal mieszkalny nie jest wyposażony w instalację doprowadzającą energię cieplną do celów ogrzewania, w instalację ciepłej wody lub gazu przewodowego z zewnętrznego źródła znajdującego się poza lokalem mieszkalnym, osobie uprawnionej do dodatku mieszkaniowego przyznaje się ryczałt na zakup opału stanowiący część dodatku mieszkaniowego.
 
-7a. W celu obliczenia wysokości ryczałtu, o którym mowa w ust. 7, stosuje się średnią cenę 1 kWh energii elektrycznej, ogłaszaną na podstawie art. 23 ust. 2 pkt 18 lit. d ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm.), powiększoną o podatek od towarów i usług.
+7a. W celu obliczenia wysokości ryczałtu, o którym mowa w ust. 7, stosuje się średnią cenę 1 kWh energii elektrycznej, ogłaszaną na podstawie art. 23 ust. 2 pkt 18 lit. d ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295.), powiększoną o podatek od towarów i usług.
 
 8. Jeżeli średni miesięczny dochód na jednego członka gospodarstwa domowego jest wyższy od określonego w art. 3 ust. 1, a kwota nadwyżki nie przekracza wysokości dodatku mieszkaniowego, należny dodatek mieszkaniowy obniża się o tę kwotę.
 
@@ -248,11 +247,7 @@ art. 45 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie spo
 
 6. Dodatku mieszkaniowego nie przyznaje się, jeżeli jego kwota byłaby niższa niż 0,5% kwoty przeciętnego wynagrodzenia w gospodarce narodowej, obowiązującego w dniu wydania decyzji.
 
-7. Decyzję w sprawie przyznania dodatku mieszkaniowego wydaje się w ciągu miesiąca od dnia złożenia wniosku.
-
-7a. Informację o wysokości przyznanego dodatku mieszkaniowego oraz o okresie, na jaki został on przyznany, doręcza się zarządcy budynku albo innej osobie uprawnionej do pobierania należności za lokal mieszkalny.
-
-7b. Przez inną osobę uprawnioną do pobierania należności za lokal mieszkalny należy rozumieć w szczególności właściciela lokalu mieszkalnego, wynajmującego albo posiadacza samoistnego.
+7. Decyzję w sprawie przyznania dodatku mieszkaniowego wydaje się w ciągu miesiąca od dnia złożenia wniosku. 7aW brzmieniu ustalonym przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 1.. Informację o wysokości przyznanego dodatku mieszkaniowego oraz o okresie, na jaki został on przyznany, doręcza się zarządcy budynku albo innej osobie uprawnionej do pobierania należności za lokal mieszkalny. 7bW brzmieniu ustalonym przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 1.. Przez inną osobę uprawnioną do pobierania należności za lokal mieszkalny należy rozumieć w szczególności właściciela lokalu mieszkalnego, wynajmującego albo posiadacza samoistnego.
 
 8. Wniesienie odwołania od decyzji, o której mowa w ust. 7, nie powoduje wstrzymania wypłaty tego dodatku. Odwołanie wnosi się do samorządowego kolegium odwoławczego za pośrednictwem organu, który wydał tę decyzję.
 
@@ -294,7 +289,7 @@ art. 45 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie spo
 
 **Art. 14.** (uchylony)
 
-#### Rozdział 3 Zmiany w przepisach obowiązujących. Przepisy przejściowe i końcowe
+#### Rozdział 3
 
 **Art. 15.** (pominięty)
 
@@ -319,6 +314,6 @@ art. 45 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie spo
 **Art. 21.** Ustawa wchodzi w życie z dniem 1 stycznia 2002 r., z wyjątkiem:
 
 - **1)** art. 3 ust. 1, art. 6 ust. 2 oraz art. 10 ust. 7, które wchodzą w życie z dniem 1 stycznia 2005 r.;
-- **2)** art. 14, który wchodzi w życie z dniem 1 listopada 2001 r.
+- **2)** art. 14, który wchodzi w życie z dniem 1 listopada 2001 r. 1) Dodany przez art. 3 pkt 1 lit. a ustawy z dnia 29 września 2022 r. o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych (Dz. U. poz. 2456), która weszła w życie z dniem 1 grudnia 2022 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658, 825, 1059, 1114 i 1130. 3) W brzmieniu ustalonym przez art. 3 pkt 1 lit. b ustawy, o której mowa w odnośniku 1. 4) Ze zmianą wprowadzoną przez art. 8 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), która weszła w życie z dniem 10 sierpnia 2022 r. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295. 6) W brzmieniu ustalonym przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 1.
 
 

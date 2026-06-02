@@ -22,17 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-05-26 |
 | Data wydania | 2014-06-06 |
-| Wejście w życie | 2014-06-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000757) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/757/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 36a ust. 12 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 36a ust. 12 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351 oraz z 2014 r. poz. 502 i 616.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 19 kwietnia 2006 r. w sprawie opiniowania służbowego strażaka Państwowej Straży Pożarnej (Dz. U. Nr 80, poz. 562 i Nr 139, poz. 991) wprowadza się następujące zmiany:
 1)
-w § 2 w ust. 3 po pkt 3 dodaje się pkt 3a-3e w brzmieniu:
-„
+w § 2 w ust. 3 po pkt 3 dodaje się pkt 3a-3e w brzmieniu: „
 3a)
 dodatkowego urlopu macierzyńskiego;
 3b)
@@ -42,10 +40,9 @@ dodatkowego urlopu na warunkach urlopu macierzyńskiego;
 3d)
 urlopu rodzicielskiego;
 3e)
-urlopu ojcowskiego;
-” ;
+urlopu ojcowskiego; ” ;
 2)
 w załączniku do rozporządzenia w części VIII – Wnioski końcowe dotyczące opiniowanego, przed wyrazami „pieczątka i podpis wydającego opinię” dodaje się wyraz „data”, po którym wstawia się przecinek.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351 oraz z 2014 r. poz. 502 i 616.
 

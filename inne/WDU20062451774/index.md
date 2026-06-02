@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-12-07 |
 | Data wydania | 2006-12-28 |
-| Wejście w życie | 2007-01-12 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062451774) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1774/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego (Dz. U. Nr 223, poz. 2221, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego (Dz. U. Nr 223, poz. 2221, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 42, poz. 386 i Nr 96, poz. 959, z 2005 r. Nr 10, poz. 64, Nr 14, poz. 115, Nr 141, poz. 1182 i Nr 175, poz. 1462 oraz z 2006 r. Nr 66, poz. 473 i Nr 92, poz. 638.) wprowadza się następujące zmiany:
 
 - **1)** w art. 15: w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
     - **a)**
@@ -36,8 +35,11 @@ source: "eli-html"
 
 3. Do kontroli, o których mowa w ust. 1 pkt 3–7, stosuje się odpowiednio przepisy rozdziału 4 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2005 r. Nr 187, poz. 1577 oraz z 2006 r. Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 208, poz. 1541). ” ;
 
-- **2)** w art. 27: w ust. 1 w pkt 2: – lit. a i b otrzymują brzmienie: „ a) przestał spełniać warunek, o którym mowa w art. 26 ust. 2 pkt 1 lub 2, lub b) zbył surowiec tytoniowy przed pierwszym przetworzeniem, lub zbył surowiec tytoniowy po pierwszym przetworzeniu niezgodnie z warunkami określonymi w art. 29 ust. 1 lub 2, lub ” , – w lit. c kropkę zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ d) przechowuje surowiec tytoniowy lub surowiec tytoniowy po pierwszym przetworzeniu niezgodnie z warunkami określonymi w art. 29 ust. 3. ” , w ust. 4 pkt 1 otrzymuje brzmienie: „
+- **2)** w art. 27: w ust. 1 w pkt 2: lit. a i b otrzymują brzmienie: „ przestał spełniać warunek, o którym mowa w art. 26 ust. 2 pkt 1 lub 2, lub zbył surowiec tytoniowy przed pierwszym przetworzeniem, lub zbył surowiec tytoniowy po pierwszym przetworzeniu niezgodnie z warunkami określonymi w art. 29 ust. 1 lub 2, lub ” , w lit. c kropkę zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ przechowuje surowiec tytoniowy lub surowiec tytoniowy po pierwszym przetworzeniu niezgodnie z warunkami określonymi w art. 29 ust. 3. ” , w ust. 4 pkt 1 otrzymuje brzmienie: „
     - **a)**
+    - **a)**
+    - **b)**
+    - **d)**
     - **b)**
 
 - **1)** roku od dnia, w którym decyzja o skreśleniu z rejestru pierwszych przetwórców stała się ostateczna w przypadku: przechowywania surowca tytoniowego lub surowca tytoniowego po pierwszym przetworzeniu niezgodnie z warunkami określonymi w art. 29 ust. 3 lub przekroczenia przynajmniej o 30 dni terminu płatności, o którym mowa w art. 33d ust. 2 pkt 5; ” ;
@@ -100,5 +102,5 @@ source: "eli-html"
 
 **Art. 2.** Pierwsi przetwórcy dostosują swoją działalność do wymagań określonych w art. 29 ust. 3 ustawy, o której mowa w art. 1, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 42, poz. 386 i Nr 96, poz. 959, z 2005 r. Nr 10, poz. 64, Nr 14, poz. 115, Nr 141, poz. 1182 i Nr 175, poz. 1462 oraz z 2006 r. Nr 66, poz. 473 i Nr 92, poz. 638.
 

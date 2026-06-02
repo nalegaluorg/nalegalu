@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 8 października 2010 r. o zmianie ustawy – Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej oraz niektórych innych ustaw
+# Ustawa z dnia 8 października 2010 r. o zmianie ustawy – Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej, ustawę z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym oraz ustawę z dnia 23 stycznia 2004 r. – Ordynacja wyborcza do Parlamentu Europejskiego.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-10-08 |
 | Data wydania | 2010-11-09 |
-| Wejście w życie | 2010-11-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102121385) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1385/text.pdf) |
 
@@ -121,7 +120,7 @@ source: "eli-html"
 
 - **3)** w art. 12 w ust. 1 w pkt 1 po wyrazach „zawód wyuczony i wykonywany,” dodaje się wyrazy „wykonywanie funkcji posła, senatora lub posła do Parlamentu Europejskiego”.
 
-**Art. 4.** W ustawie z dnia 23 stycznia 2004 r. – Ordynacja wyborcza do Parlamentu Europejskiego (Dz. U. Nr 25, poz. 219, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 23 stycznia 2004 r. – Ordynacja wyborcza do Parlamentu Europejskiego (Dz. U. Nr 25, poz. 219, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162 i Nr 112, poz. 766 oraz z 2009 r. Nr 119, poz. 999 i Nr 202, poz. 1547.) wprowadza się następujące zmiany:
 
 - **1)** dodaje się art. 65a w brzmieniu: „
 
@@ -148,5 +147,5 @@ source: "eli-html"
 
 **Art. 5.** Przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do kadencji Sejmu i Senatu następujących po kadencji, w czasie której ustawa weszła w życie.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej, ustawę z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym oraz ustawę z dnia 23 stycznia 2004 r. – Ordynacja wyborcza do Parlamentu Europejskiego. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162 i Nr 112, poz. 766 oraz z 2009 r. Nr 119, poz. 999 i Nr 202, poz. 1547.
 

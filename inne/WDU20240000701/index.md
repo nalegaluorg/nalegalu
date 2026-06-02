@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-19 |
 | Data wydania | 2024-05-07 |
-| Wejście w życie | 2024-05-22 |
 | Ostatnia zmiana | 2024-05-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000701) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/701/text.pdf) |
 
@@ -259,5 +258,5 @@ Przepisy § 8 ust. 4–7 stosuje się odpowiednio.
 § 13.
 Do nauczyciela, któremu czasowo powierzono pełnienie obowiązków dyrektora szkoły, oraz nauczyciela pełniącego w zastępstwie obowiązki dyrektora szkoły przez okres co najmniej 6 miesięcy przepisy § 10–12 stosuje się odpowiednio.
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 3 stycznia 2020 r. w sprawie trybu dokonywania oceny pracy nauczycieli zakładów poprawczych i schronisk dla nieletnich, w tym nauczycieli zajmujących stanowiska kierownicze, szczegółowego zakresu informacji zawartych w karcie oceny pracy, składu i sposobu powoływania zespołu oceniającego oraz trybu postępowania odwoławczego (Dz. U. poz. 66), które utraciło moc z dniem 1 września 2022 r. w związku z wejściem w życie ustawy z dnia 5 sierpnia 2022 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1730 oraz z 2023 r. poz. 1672). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 3 stycznia 2020 r. w sprawie trybu dokonywania oceny pracy nauczycieli zakładów poprawczych i schronisk dla nieletnich, w tym nauczycieli zajmujących stanowiska kierownicze, szczegółowego zakresu informacji zawartych w karcie oceny pracy, składu i sposobu powoływania zespołu oceniającego oraz trybu postępowania odwoławczego (Dz. U. poz. 66), które utraciło moc z dniem 1 września 2022 r. w związku z wejściem w życie ustawy z dnia 5 sierpnia 2022 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1730 oraz z 2023 r. poz. 1672).
 

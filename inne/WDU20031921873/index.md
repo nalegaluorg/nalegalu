@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-10-29 |
 | Data wydania | 2003-11-14 |
-| Wejście w życie | 2003-11-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031921873) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1873/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. Nr 7, poz. 58, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. Nr 7, poz. 58, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 19, poz. 185, Nr 74, poz. 676, Nr 81, poz. 731, Nr 113, poz. 984, Nr 115, poz. 996, Nr 153, poz. 1271, Nr 176, poz. 1457 i Nr 200, poz. 1688 oraz z 2003 r. Nr 90, poz. 844, Nr 113, poz. 1070, Nr 130, poz. 1188 i 1190, Nr 137, poz. 1302 i Nr 166, poz. 1609.) wprowadza się następujące zmiany:
 
 - **1)** w art. 7 w ust. 1 w pkt 6 kropkę zastępuje się przecinkiem i dodaje pkt 7 w brzmieniu: „
 - **7)** zasady etyki zawodowej policjantów, po zasięgnięciu opinii związku zawodowego policjantów. ” ;
@@ -49,9 +48,15 @@ source: "eli-html"
 
 2. Policjanta można zawiesić w czynnościach służbowych w razie wszczęcia przeciwko niemu postępowania karnego w sprawie o przestępstwo lub przestępstwo skarbowe, nieumyślne, ścigane z oskarżenia publicznego lub postępowania dyscyplinarnego, jeżeli jest to celowe z uwagi na dobro postępowania lub dobro służby – na czas nie dłuższy niż 3 miesiące. ” ;
 
-- **5)** w art. 41: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) skazania prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe, umyślne, ścigane z oskarżenia publicznego, ” , – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) wymierzenia przez sąd prawomocnym orzeczeniem środka karnego w postaci zakazu wykonywania zawodu policjanta, ” , w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) skazania prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe inne niż określone w ust. 1 pkt 4, ” , – w pkt 7 kropkę zastępuje się przecinkiem i dodaje pkt 8 w brzmieniu: „ 8) popełnienia czynu o znamionach przestępstwa albo przestępstwa skarbowego, jeżeli popełnienie czynu jest oczywiste i uniemożliwia jego pozostanie w służbie. ” , uchyla się ust. 3a i 3b;
+- **5)** w art. 41: w ust. 1: pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** skazania prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe, umyślne, ścigane z oskarżenia publicznego, ” , po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** wymierzenia przez sąd prawomocnym orzeczeniem środka karnego w postaci zakazu wykonywania zawodu policjanta, ” , w ust. 2: pkt 2 otrzymuje brzmienie: „
     - **b)**
+
+- **2)** skazania prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe inne niż określone w ust. 1 pkt 4, ” , w pkt 7 kropkę zastępuje się przecinkiem i dodaje pkt 8 w brzmieniu: „
+- **8)** popełnienia czynu o znamionach przestępstwa albo przestępstwa skarbowego, jeżeli popełnienie czynu jest oczywiste i uniemożliwia jego pozostanie w służbie. ” , uchyla się ust. 3a i 3b;
     - **c)**
 
 - **6)** w art. 42 po ust. 6 dodaje się ust. 7 w brzmieniu: „
@@ -611,9 +616,9 @@ source: "eli-html"
 
 **Art. 4.**
 
-1. Do dnia 31 grudnia 2003 r. przez sąd administracyjny, o którym mowa w art. 1 pkt 20 niniejszej ustawy, należy rozumieć Naczelny Sąd Administracyjny, o którym mowa w ustawie z dnia 11 maja 1995 r. o Naczelnym Sądzie Administracyjnym (Dz. U. Nr 74, poz. 368, z późn. zm.).
+1. Do dnia 31 grudnia 2003 r. przez sąd administracyjny, o którym mowa w art. 1 pkt 20 niniejszej ustawy, należy rozumieć Naczelny Sąd Administracyjny, o którym mowa w ustawie z dnia 11 maja 1995 r. o Naczelnym Sądzie Administracyjnym (Dz. U. Nr 74, poz. 368, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1995 r. Nr 104, poz. 515, z 1997 r. Nr 75, poz. 471, Nr 106, poz. 679, Nr 114, poz. 739 i Nr 144, poz. 971, z 1998 r. Nr 162, poz. 1126, z 1999 r. Nr 75, poz. 853, z 2000 r. Nr 2, poz. 5, Nr 48, poz. 552, Nr 60, poz. 704 i Nr 91, poz. 1008, z 2001 r. Nr 49, poz. 508 i 509, Nr 98, poz. 1070 i Nr 101, poz. 1113 oraz z 2002 r. Nr 113, poz. 984, Nr 141, poz. 1177 i Nr 169, poz. 1387.).
 
 2. W ustawie z dnia 30 sierpnia 2002 r. – Przepisy wprowadzające ustawę – Prawo o ustroju sądów administracyjnych i ustawę – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1271 i Nr 240, poz. 2052 oraz z 2003 r. Nr 124, poz. 1153 i Nr 171, poz. 1663) uchyla się art. 18.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 19, poz. 185, Nr 74, poz. 676, Nr 81, poz. 731, Nr 113, poz. 984, Nr 115, poz. 996, Nr 153, poz. 1271, Nr 176, poz. 1457 i Nr 200, poz. 1688 oraz z 2003 r. Nr 90, poz. 844, Nr 113, poz. 1070, Nr 130, poz. 1188 i 1190, Nr 137, poz. 1302 i Nr 166, poz. 1609. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1995 r. Nr 104, poz. 515, z 1997 r. Nr 75, poz. 471, Nr 106, poz. 679, Nr 114, poz. 739 i Nr 144, poz. 971, z 1998 r. Nr 162, poz. 1126, z 1999 r. Nr 75, poz. 853, z 2000 r. Nr 2, poz. 5, Nr 48, poz. 552, Nr 60, poz. 704 i Nr 91, poz. 1008, z 2001 r. Nr 49, poz. 508 i 509, Nr 98, poz. 1070 i Nr 101, poz. 1113 oraz z 2002 r. Nr 113, poz. 984, Nr 141, poz. 1177 i Nr 169, poz. 1387.
 

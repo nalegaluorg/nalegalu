@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-04 |
 | Data wydania | 2019-05-07 |
-| Wejście w życie | 2019-05-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000836) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/836/text.pdf) |
 
@@ -31,7 +30,7 @@ source: "eli-html"
 - **1)** w art. 3: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
-2. Ilekroć w ustawie jest mowa o mikroprzedsiębiorcy, małym lub średnim przedsiębiorcy, należy przez to rozumieć odpowiednio mikroprzedsiębiorcę, małego lub średniego przedsiębiorcę spełniającego warunki określone w załączniku I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.). ” , w ust. 3 po pkt 1 dodaje się pkt 1a w brzmieniu: „
+2. Ilekroć w ustawie jest mowa o mikroprzedsiębiorcy, małym lub średnim przedsiębiorcy, należy przez to rozumieć odpowiednio mikroprzedsiębiorcę, małego lub średniego przedsiębiorcę spełniającego warunki określone w załączniku I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 26 z 31.01.2018, str. 53.. ” , w ust. 3 po pkt 1 dodaje się pkt 1a w brzmieniu: „
 
 - **b)**
 - **1a)** pracownika tymczasowego w rozumieniu art. 2 pkt 2 ustawy z dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych (Dz. U. z 2018 r. poz. 594 i 1608); ” ;
@@ -64,7 +63,7 @@ source: "eli-html"
 - **1)** współpraca w zakresie tworzenia nowych miejsc pracy i przeciwdziałania bezrobociu;
 - **2)** rozwój adaptacyjności przedsiębiorców;
 - **3)** współudział w rozwoju kształcenia ustawicznego;
-- **4)** wspieranie współpracy przedsiębiorców z uczelniami oraz podmiotami, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, z późn. zm.).
+- **4)** wspieranie współpracy przedsiębiorców z uczelniami oraz podmiotami, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1290, 1669 i 2245 oraz z 2019 r. poz. 534, 730 i 761.).
 
 5. Agencja może prowadzić działania mające na celu dostosowanie kształcenia do zapotrzebowania gospodarki, w szczególności przez włączanie przedsiębiorców będących pracodawcami w system identyfikacji i prognozowania potrzeb kwalifikacyjno-zawodowych na rynku pracy oraz stwarzanie warunków do aktywnej współpracy przedsiębiorców z poszczególnych sektorów gospodarki z uczelniami oraz podmiotami, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe. ” , dodaje się ust. 6 i 7 w brzmieniu: „
 
@@ -96,8 +95,15 @@ source: "eli-html"
 
 2. Podmioty sektora finansów publicznych mogą, za zgodą ministra właściwego do spraw gospodarki, powierzać Agencji realizację zadań dla nich określonych, przy zapewnieniu środków finansowych na realizację tych zadań. ” ;
 
-- **6)** w art. 6: w ust. 1: – w pkt 10: – – lit. b otrzymuje brzmienie: „ b) szkolenia, usługi doradcze, inwestycje przedsiębiorców oraz inne działania rozwojowe, w tym obejmujące badania przemysłowe i prace rozwojowe w rozumieniu przepisów rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu, sprzyjające wzrostowi ich konkurencyjności lub innowacyjności, ” , – – lit. d otrzymuje brzmienie: „ d) wzmacnianie potencjału podmiotów działających na rzecz rozwoju gospodarczego, innowacyjności, zatrudnienia, rozwoju kapitału ludzkiego lub potencjału adaptacyjnego przedsiębiorców, ” , – – w lit. i średnik zastępuje się przecinkiem i dodaje się lit. j w brzmieniu: „ j) działania związane z wdrażaniem instrumentu finansowego; ” , – w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12–14 w brzmieniu: „ 12) badanie i analizowanie roli sektora przedsiębiorstw w Polsce, a w szczególności mikroprzedsiębiorców, małych i średnich przedsiębiorców oraz czynników rozwoju tego sektora, w tym opracowywanie raportów w tym zakresie; 13) organizowanie i finansowanie konkursów w zakresie zadań Agencji; 14) udział w organizowaniu i finansowaniu konkursów w zakresie zadań Agencji. ” , dodaje się ust. 4–7 w brzmieniu: „
+- **6)** w art. 6: w ust. 1: w pkt 10: – lit. b otrzymuje brzmienie: „ szkolenia, usługi doradcze, inwestycje przedsiębiorców oraz inne działania rozwojowe, w tym obejmujące badania przemysłowe i prace rozwojowe w rozumieniu przepisów rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu, sprzyjające wzrostowi ich konkurencyjności lub innowacyjności, ” , – lit. d otrzymuje brzmienie: „ wzmacnianie potencjału podmiotów działających na rzecz rozwoju gospodarczego, innowacyjności, zatrudnienia, rozwoju kapitału ludzkiego lub potencjału adaptacyjnego przedsiębiorców, ” , – w lit. i średnik zastępuje się przecinkiem i dodaje się lit. j w brzmieniu: „ działania związane z wdrażaniem instrumentu finansowego; ” , w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12–14 w brzmieniu: „
     - **a)**
+    - **b)**
+    - **d)**
+    - **j)**
+
+- **12)** badanie i analizowanie roli sektora przedsiębiorstw w Polsce, a w szczególności mikroprzedsiębiorców, małych i średnich przedsiębiorców oraz czynników rozwoju tego sektora, w tym opracowywanie raportów w tym zakresie;
+- **13)** organizowanie i finansowanie konkursów w zakresie zadań Agencji;
+- **14)** udział w organizowaniu i finansowaniu konkursów w zakresie zadań Agencji. ” , dodaje się ust. 4–7 w brzmieniu: „
     - **b)**
 
 4. Agencja przy realizacji zadań może współpracować z podmiotami krajowymi i zagranicznymi jako:
@@ -110,7 +116,7 @@ source: "eli-html"
 6. Nagrody mogą być przyznawane za szczególne osiągnięcia lub całokształt działalności w dziedzinach związanych z zadaniami realizowanymi przez Agencję w zakresie:
 
 - **1)** popularyzacji innowacyjnych rozwiązań w gospodarce i społeczeństwie;
-- **2)** podejmowania i rozwijania inicjatyw pobudzających współpracę przedsiębiorców, podmiotów, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.), podmiotów, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, i administracji publicznej;
+- **2)** podejmowania i rozwijania inicjatyw pobudzających współpracę przedsiębiorców, podmiotów, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.), podmiotów, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, i administracji publicznej;
 - **3)** rozwijania i popularyzacji proekologicznych rozwiązań w gospodarce;
 - **4)** promocji polskich przedsiębiorców za granicą;
 - **5)** promocji proinnowacyjnych instytucji otoczenia biznesu;
@@ -122,8 +128,11 @@ source: "eli-html"
 
 8. Dane, o których mowa w ust. 2 i 3, mogą być przechowywane w systemie teleinformatycznym przez okres do 10 lat od dnia dokonania ostatniej czynności w tym systemie. ” ;
 
-- **8)** w art. 6b: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) podmiotom działającym na rzecz zatrudnienia, rozwoju kapitału ludzkiego lub potencjału adaptacyjnego przedsiębiorców; ” , – pkt 8 otrzymuje brzmienie: „ 8) podmiotom, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce; ” , w ust. 1a wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przez podmiot działający na rzecz zatrudnienia, rozwoju kapitału ludzkiego lub potencjału adaptacyjnego przedsiębiorców rozumie się w szczególności: ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
+- **8)** w art. 6b: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** podmiotom działającym na rzecz zatrudnienia, rozwoju kapitału ludzkiego lub potencjału adaptacyjnego przedsiębiorców; ” , pkt 8 otrzymuje brzmienie: „
+- **8)** podmiotom, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce; ” , w ust. 1a wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przez podmiot działający na rzecz zatrudnienia, rozwoju kapitału ludzkiego lub potencjału adaptacyjnego przedsiębiorców rozumie się w szczególności: ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -231,10 +240,11 @@ source: "eli-html"
 
 5d. W przypadku zmiany projektu planu finansowego w wyniku prac nad ustawą budżetową, Prezes Agencji dokonuje zmiany projektu planu działania i przekazuje go niezwłocznie do zatwierdzenia ministrowi właściwemu do spraw gospodarki.
 
-5e. W razie konieczności zmiany planu działania w trakcie roku obrotowego Prezes Agencji przekazuje zmieniony plan działania do zatwierdzenia ministrowi właściwemu do spraw gospodarki. ” , w ust. 6: – pkt 3 otrzymuje brzmienie: „ 3) sprawozdanie z realizacji planu działania. ” , – uchyla się pkt 4, ust. 6a otrzymuje brzmienie: „
+5e. W razie konieczności zmiany planu działania w trakcie roku obrotowego Prezes Agencji przekazuje zmieniony plan działania do zatwierdzenia ministrowi właściwemu do spraw gospodarki. ” , w ust. 6: pkt 3 otrzymuje brzmienie: „
 
 - **d)**
-- **e)**
+- **3)** sprawozdanie z realizacji planu działania. ” , – uchyla się pkt 4, ust. 6a otrzymuje brzmienie: „
+    - **e)**
 
 6a. Minister właściwy do spraw gospodarki przed dokonaniem czynności, o których mowa w ust. 5c-5e i 6, zasięga opinii ministra właściwego do spraw rozwoju regionalnego. Minister właściwy do spraw rozwoju regionalnego przedstawia swoją opinię w terminie 14 dni od dnia otrzymania odpowiednio projektu planu działania, jego zmiany albo sprawozdania rocznego. ” , uchyla się ust. 8;
 
@@ -284,5 +294,5 @@ source: "eli-html"
 
 **Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 6b ust. 11 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 6b ust. 11 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy i mogą być zmieniane w granicach określonych w art. 6b ust. 11 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 26 z 31.01.2018, str. 53. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1290, 1669 i 2245 oraz z 2019 r. poz. 534, 730 i 761. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.
 

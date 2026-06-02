@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-19 |
 | Data wydania | 2015-11-09 |
-| Wejście w życie | 2015-11-24 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001839) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1839/text.pdf) |
 
@@ -143,8 +142,7 @@ zakupu nowych maszyn, wyposażenia lub sprzętu, a w przypadku operacji w zakres
 f)
 zakupu rzeczy innych niż wymienione w lit. e, w tym materiałów,
 g)
-wynagrodzenia i innych świadczeń, o których mowa w ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.), związanych z pracą osób koordynujących realizację projektu współpracy, a także inne koszty ponoszone przez LGD uczestniczące w realizacji operacji na podstawie odrębnych przepisów w związku z zatrudnieniem tych osób
-które są uzasadnione zakresem operacji, niezbędne do osiągnięcia jej celu oraz racjonalne.
+wynagrodzenia i innych świadczeń, o których mowa w ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662 oraz z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735.), związanych z pracą osób koordynujących realizację projektu współpracy, a także inne koszty ponoszone przez LGD uczestniczące w realizacji operacji na podstawie odrębnych przepisów w związku z zatrudnieniem tych osób – które są uzasadnione zakresem operacji, niezbędne do osiągnięcia jej celu oraz racjonalne.
 2.
 Do kosztów kwalifikowalnych nie zalicza się kosztów:
 1)
@@ -384,7 +382,7 @@ Wypłaty środków finansowych z tytułu pomocy dokonuje się niezwłocznie po p
 Do trybu rozpatrywania wniosków o płatność przepis § 18 stosuje się odpowiednio.
 § 26.
 1.
-Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku postępowania w sprawie o przyznanie pomocy i wypłatę środków finansowych z tytułu pomocy dokonuje się zgodnie z przepisami ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.) dotyczącymi terminów.
+Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku postępowania w sprawie o przyznanie pomocy i wypłatę środków finansowych z tytułu pomocy dokonuje się zgodnie z przepisami ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4, 397, 539, 1137, 1311, 1357, 1433 i 1830.) dotyczącymi terminów.
 2.
 Jeżeli przepisy rozporządzenia nie stanowią inaczej, termin uważa się za zachowany, jeżeli przed jego upływem pismo zostało nadane przesyłką rejestrowaną w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe albo złożone w polskim urzędzie konsularnym.
 § 27.
@@ -403,5 +401,5 @@ uwzględnione w oddzielnym systemie rachunkowości albo do ich identyfikacji wyk
 2.
 Do przyznawania i wypłaty środków finansowych z tytułu kosztów ogólnych, o których mowa w ust. 1, przepisu § 22 ust. 2 nie stosuje się.
 § 29.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662 oraz z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4, 397, 539, 1137, 1311, 1357, 1433 i 1830.
 

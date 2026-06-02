@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-21 |
 | Data wydania | 2015-12-29 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002234) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2234/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 59 ust. 7 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2014 r. poz. 752, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 59 ust. 7 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2014 r. poz. 752, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1559, 1662 i 1877 oraz z 2015 r. poz. 18, 211, 978, 1269, 1479, 1649, 1844, 1893 i 1932.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -74,15 +73,13 @@ W składach podatkowych, w których prowadzona jest działalność polegająca w
 1)
 wyrobów energetycznych i napojów alkoholowych, określonych w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, zwanej dalej „ustawą”, objętych stawką akcyzy inną niż stawka zerowa i procedurą zawieszenia poboru akcyzy,
 2)
-wyrobów energetycznych, o których mowa w art. 47a ust. 3 ustawy
-odbywa się w zbiornikach, które podlegają prawnej kontroli metrologicznej, na podstawie odrębnych przepisów.
+wyrobów energetycznych, o których mowa w art. 47a ust. 3 ustawy – odbywa się w zbiornikach, które podlegają prawnej kontroli metrologicznej, na podstawie odrębnych przepisów.
 2.
 W składach podatkowych, w których prowadzona jest działalność polegająca na produkcji wyrobów akcyzowych, magazynowanie gotowych wyrobów energetycznych:
 1)
 określonych w załączniku nr 2 do ustawy, objętych stawką akcyzy inną niż stawka zerowa i procedurą zawieszenia poboru akcyzy,
 2)
-o których mowa w art. 47a ust. 3 ustawy
-odbywa się w zbiornikach, które podlegają prawnej kontroli metrologicznej, na podstawie odrębnych przepisów.
+o których mowa w art. 47a ust. 3 ustawy – odbywa się w zbiornikach, które podlegają prawnej kontroli metrologicznej, na podstawie odrębnych przepisów.
 3.
 Za zbiorniki służące do magazynowania gotowych wyrobów energetycznych uznawane są zbiorniki, w których magazynowane są wyroby w takim stopniu przetworzenia, w którym mogą być wyprowadzane ze składu podatkowego do odbiorcy nawet, jeśli ich część zostanie wykorzystana w procesach produkcyjnych w składzie podatkowym.
 § 5.
@@ -90,5 +87,5 @@ W przypadku wystąpienia braków ilościowych wyrobów akcyzowych podmiot prowad
 § 6.
 Do dnia 30 czerwca 2016 r. miejsca odbioru wyrobów akcyzowych nabywanych wewnątrzwspólnotowo przez zarejestrowanych odbiorców, działających na podstawie zezwoleń wydanych przed dniem 1 stycznia 2016 r., mogą funkcjonować na warunkach określonych w rozporządzeniu Ministra Finansów z dnia 19 sierpnia 2010 r. w sprawie warunków dotyczących miejsca odbioru wyrobów akcyzowych (Dz. U. Nr 156, poz. 1048).
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.Zakres spraw uregulowany w niniejszym rozporządzeniu był poprzednio uregulowany w rozporządzeniu Ministra Finansów z dnia 24 lutego 2009 r. w sprawie warunków prowadzenia składów podatkowych oraz ewidencji przez podmioty prowadzące składy podatkowe (Dz. U. z 2014 r. poz. 353) oraz w rozporządzeniu Ministra Finansów z dnia 19 sierpnia 2010 r. w sprawie warunków dotyczących miejsca odbioru wyrobów akcyzowych (Dz. U. Nr 156, poz. 1048), które tracą moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 24 lipca 2015 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 1479 i 1932). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1559, 1662 i 1877 oraz z 2015 r. poz. 18, 211, 978, 1269, 1479, 1649, 1844, 1893 i 1932. 3) Zakres spraw uregulowany w niniejszym rozporządzeniu był poprzednio uregulowany w rozporządzeniu Ministra Finansów z dnia 24 lutego 2009 r. w sprawie warunków prowadzenia składów podatkowych oraz ewidencji przez podmioty prowadzące składy podatkowe (Dz. U. z 2014 r. poz. 353) oraz w rozporządzeniu Ministra Finansów z dnia 19 sierpnia 2010 r. w sprawie warunków dotyczących miejsca odbioru wyrobów akcyzowych (Dz. U. Nr 156, poz. 1048), które tracą moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 24 lipca 2015 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 1479 i 1932).
 

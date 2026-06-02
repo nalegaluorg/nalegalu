@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 6 listopada 2024 r. w sprawie określenia wysokości kwoty bazowej finansowego wsparcia dla gmin, jednoosobowych spółek gminnych albo związków międzygminnych na remont lokalu mieszkalnego lub nabycie takiego lokalu, budynku mieszkalnego albo udziału we współwłasności takiego budynku
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 6 listopada 2024 r. w sprawie określenia wysokości kwoty bazowej finansowego wsparcia dla gmin, jednoosobowych spółek gminnych albo związków międzygminnych na remont lokalu mieszkalnego lub nabycie takiego lokalu, budynku mieszkalnego albo udziału we współwłasności takiego budynku Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-06 |
 | Data wydania | 2024-11-14 |
-| Wejście w życie | 2024-11-15 |
 | Ostatnia zmiana | 2024-11-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001668) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1668/text.pdf) |
 
@@ -35,6 +34,5 @@ art. 28 ust. 1 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach
 2)
 art. 28 ust. 3 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi – wynosi 3400 zł.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739).
 

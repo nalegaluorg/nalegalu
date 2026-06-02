@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 8 grudnia 2014 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie ośrodków innowacyjności w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
+# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 8 grudnia 2014 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie ośrodków innowacyjności w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Tekst Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 został zaakceptowany decyzją Komisji Europejskiej nr K(2007) 4562 z dnia 1 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce, zmieniony decyzją Komisji Europejskiej nr K(2011) 9788 z dnia 22 grudnia 2011 r. oraz decyzją Komisji Europejskiej nr C(2013) 9008 z dnia 9 grudnia 2013 r. zmieniającą decyzję K(2007) 4562 w sprawie przyjęcia programu operacyjnego w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji dla Polski i przyjęty uchwałą Rady Ministrów z dnia 30 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-08 |
 | Data wydania | 2014-12-23 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2025-02-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001869) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1869/text.pdf) |
 
@@ -168,8 +167,7 @@ rozliczenia otrzymanego wsparcia, w tym przekazania do Agencji, w terminie okre�
 a)
 za wartość ruchomych środków trwałych oraz wartości niematerialnych i prawnych, na dzień dokonania rozliczenia, przyjmuje się ich wartość księgową, ustaloną według ewidencji księgowej, o której mowa w pkt 2,
 b)
-za wartość nieruchomości, na dzień dokonywania rozliczenia, przyjmuje się jej wartość, ustaloną według opinii rzeczoznawcy majątkowego, nie wcześniej jednak niż na 3 miesiące przed dniem dokonania rozliczenia,
-Σ VNI – oznacza sumę zwaloryzowanych nakładów inwestycyjnych obejmujących środki trwałe oraz wartości niematerialne i prawne, poniesionych w poszczególnych latach, liczoną według reguły VNI1 + VNI2 +... + VNIx, gdzie VNI – oznacza zwaloryzowaną wartość nakładów inwestycyjnych w pierwszym roku realizacji projektu, VNI2 – oznacza zwaloryzowaną wartość nakładów inwestycyjnych w drugim roku realizacji projektu, VNIx – oznacza zwaloryzowaną wartość nakładów inwestycyjnych poniesionych w ostatnim roku realizacji projektu; za poniesione nakłady inwestycyjne uznaje się również wniesione do projektu przez ośrodek innowacyjności, w formie wkładu rzeczowego, środki trwałe i wartości niematerialne i prawne, przy czym w przypadku wniesienia do projektu przez ośrodek innowacyjności, w formie wkładu rzeczowego, nieruchomości, za poniesione nakłady inwestycyjne przyjmuje się wartość tej nieruchomości na dzień wniesienia jej do projektu, ustaloną według opinii rzeczoznawcy majątkowego;
+za wartość nieruchomości, na dzień dokonywania rozliczenia, przyjmuje się jej wartość, ustaloną według opinii rzeczoznawcy majątkowego, nie wcześniej jednak niż na 3 miesiące przed dniem dokonania rozliczenia, Σ VNI – oznacza sumę zwaloryzowanych nakładów inwestycyjnych obejmujących środki trwałe oraz wartości niematerialne i prawne, poniesionych w poszczególnych latach, liczoną według reguły VNI1 + VNI2 +... + VNIx, gdzie VNI – oznacza zwaloryzowaną wartość nakładów inwestycyjnych w pierwszym roku realizacji projektu, VNI2 – oznacza zwaloryzowaną wartość nakładów inwestycyjnych w drugim roku realizacji projektu, VNIx – oznacza zwaloryzowaną wartość nakładów inwestycyjnych poniesionych w ostatnim roku realizacji projektu; za poniesione nakłady inwestycyjne uznaje się również wniesione do projektu przez ośrodek innowacyjności, w formie wkładu rzeczowego, środki trwałe i wartości niematerialne i prawne, przy czym w przypadku wniesienia do projektu przez ośrodek innowacyjności, w formie wkładu rzeczowego, nieruchomości, za poniesione nakłady inwestycyjne przyjmuje się wartość tej nieruchomości na dzień wniesienia jej do projektu, ustaloną według opinii rzeczoznawcy majątkowego;
 7)
 uwzględnienia przy ustalaniu kwoty zwrotu zmiany wartości pieniądza w czasie, z zastosowaniem stopy bazowej określanej przez Komisję Europejską, ogłoszonej w Dzienniku Urzędowym Unii Europejskiej, powiększonej o 1 punkt procentowy.
 2.
@@ -248,5 +246,5 @@ Pomoc publiczna oraz pomoc de minimis mogą być udzielane przedsiębiorcom prze
 § 16.
 Traci moc rozporządzenie Ministra Rozwoju Regionalnego z dnia 30 stycznia 2009 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie ośrodków innowacyjności w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 (Dz. U. Nr 21, poz. 116, z 2013 r. poz. 1398 oraz z 2014 r. poz. 797).
 § 17.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. 2) Tekst Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 został zaakceptowany decyzją Komisji Europejskiej nr K(2007) 4562 z dnia 1 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce, zmieniony decyzją Komisji Europejskiej nr K(2011) 9788 z dnia 22 grudnia 2011 r. oraz decyzją Komisji Europejskiej nr C(2013) 9008 z dnia 9 grudnia 2013 r. zmieniającą decyzję K(2007) 4562 w sprawie przyjęcia programu operacyjnego w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji dla Polski i przyjęty uchwałą Rady Ministrów z dnia 30 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013.
 

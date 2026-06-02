@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 17 lipca 2024 r. w sprawie rodzaju i zakresu danych udostępnianych z centralnej ewidencji pojazdów
+# Rozporządzenie Ministra Cyfryzacjiz dnia 17 lipca 2024 r. w sprawie rodzaju i zakresu danych udostępnianych z centralnej ewidencji pojazdów Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2720).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-17 |
 | Data wydania | 2024-07-19 |
-| Wejście w życie | 2024-07-22 |
 | Ostatnia zmiana | 2025-12-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001076) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1076/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 80cf ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 80cf ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720, 1723 i 2029 oraz z 2024 r. poz. 834.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa rodzaj i zakres danych udostępnianych z centralnej ewidencji pojazdów na podstawie art. 80c i art. 80cc-80ce ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, zwanej dalej „ustawą”.
 § 2.
@@ -72,10 +71,9 @@ Podmiotom, o których mowa w art. 80cd ust. 1 ustawy, mogą być udostępnione d
 Do ponownego wykorzystywania mogą być udostępnione dane, o których mowa w art. 80b ust. 1 pkt 2–4 i pkt 8a ustawy – w zakresie identyfikatora jednostki podziału terytorialnego i nazwy miejscowości z krajowego rejestru urzędowego podziału terytorialnego kraju TERYT, art. 80b ust. 1 pkt 6 ustawy z wyłączeniem cech identyfikujących dokument potwierdzający zawarcie umowy ubezpieczenia, art. 80b ust. 1 pkt 8b ustawy z wyłączeniem numeru VIN oraz numeru nadwozia, podwozia lub ramy pojazdu, oznaczenia podmiotu wprowadzającego dane oraz daty i godziny wprowadzenia danych, art. 80b ust. 1 pkt 10 ustawy w zakresie rodzaju badania technicznego, rodzaju dodatkowego badania technicznego oraz wartości odczytu wskazania drogomierza pojazdu w momencie badania technicznego wraz z jednostką miary, art. 80b ust. 1 pkt 12–14 ustawy, art. 80b ust. 1 pkt 17 ustawy w zakresie wyrejestrowania pojazdu, art. 80b ust. 1 pkt 21 ustawy w zakresie przyczyny wymiany drogomierza, wartości odczytu wskazania drogomierza pojazdu wraz z jednostką miary oraz wyniku odczytu wskazania drogomierza, art. 80b ust. 1 pkt 22 ustawy w zakresie wartości odczytu wskazania drogomierza w momencie kontroli wraz z jednostką miary.
 § 22.
 1.
-Podmiotom wskazanym w § 2, § 3, § 5, § 7, § 12, § 13, § 19 i § 20 dane, o których mowa w art. 80b ust. 1 pkt 7 ustawy, udostępnia się od dnia określonego w komunikacie, o którym mowa w art. 9 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 957, z późn. zm.).
+Podmiotom wskazanym w § 2, § 3, § 5, § 7, § 12, § 13, § 19 i § 20 dane, o których mowa w art. 80b ust. 1 pkt 7 ustawy, udostępnia się od dnia określonego w komunikacie, o którym mowa w art. 9 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 957, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, z 2020 r. poz. 1517, z 2021 r. poz. 1997 i 2328, z 2022 r. poz. 1002 oraz z 2023 r. poz. 1123 i 1234.).
 2.
 Podmiotom wskazanym w § 2 i § 3 dane, o których mowa w art. 80b ust. 1 pkt 16a ustawy, udostępnia się od dnia określonego w komunikacie, o którym mowa w art. 11 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw.
 § 23.
-Rozporządzenie wchodzi w życie z dniem 22 lipca 2024 r.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2720). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720, 1723 i 2029 oraz z 2024 r. poz. 834. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, z 2020 r. poz. 1517, z 2021 r. poz. 1997 i 2328, z 2022 r. poz. 1002 oraz z 2023 r. poz. 1123 i 1234. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Cyfryzacji z dnia 1 grudnia 2020 r. w sprawie rodzaju i zakresu danych udostępnianych z centralnej ewidencji pojazdów (Dz. U. poz. 2151), które na podstawie art. 20 ust. 2 ustawy z dnia 7 lipca 2023 r. o zmianie niektórych ustaw w celu ograniczania niektórych skutków kradzieży tożsamości (Dz. U. poz. 1394) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem 22 lipca 2024 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Cyfryzacji z dnia 1 grudnia 2020 r. w sprawie rodzaju i zakresu danych udostępnianych z centralnej ewidencji pojazdów (Dz. U. poz. 2151), które na podstawie art. 20 ust. 2 ustawy z dnia 7 lipca 2023 r. o zmianie niektórych ustaw w celu ograniczania niektórych skutków kradzieży tożsamości (Dz. U. poz. 1394) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2720). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720, 1723 i 2029 oraz z 2024 r. poz. 834. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, z 2020 r. poz. 1517, z 2021 r. poz. 1997 i 2328, z 2022 r. poz. 1002 oraz z 2023 r. poz. 1123 i 1234. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Cyfryzacji z dnia 1 grudnia 2020 r. w sprawie rodzaju i zakresu danych udostępnianych z centralnej ewidencji pojazdów (Dz. U. poz. 2151), które na podstawie art. 20 ust. 2 ustawy z dnia 7 lipca 2023 r. o zmianie niektórych ustaw w celu ograniczania niektórych skutków kradzieży tożsamości (Dz. U. poz. 1394) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

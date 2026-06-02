@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 16 czerwca 2014 r. w sprawie odstępstwa od obowiązku zaopatrywania w świadectwo fitosanitarne okorowanego, przetartego wzdłużnie drewna pozyskanego z roślin rodzajów Quercus L., Platanus L. oraz gatunku Acer saccharum Marsh., pochodzącego ze Stanów Zjednoczonych Ameryki
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 16 czerwca 2014 r. w sprawie odstępstwa od obowiązku zaopatrywania w świadectwo fitosanitarne okorowanego, przetartego wzdłużnie drewna pozyskanego z roślin rodzajów Quercus L., Platanus L. oraz gatunku Acer saccharum Marsh., pochodzącego ze Stanów Zjednoczonych Ameryki Przepisy niniejszego rozporządzenia wdrażają częściowo postanowienia decyzji wykonawczej Komisji 2013/780/UE z dnia 18 grudnia 2013 r. ustanawiającej odstępstwo od art. 13 ust. 1 ppkt (ii) dyrektywy Rady 2000/29/WE w odniesieniu do okorowanej tarcicy gatunków Quercus L., Platanus L. i Acer saccharum Marsh. pochodzącej ze Stanów Zjednoczonych Ameryki (Dz. Urz. UE L 346 z 20.12.2013, str. 61).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-06-16 |
 | Data wydania | 2014-07-11 |
-| Wejście w życie | 2014-07-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000919) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/919/text.pdf) |
 
@@ -35,7 +34,7 @@ odstępstwo od obowiązku zaopatrywania w świadectwo fitosanitarne okorowanego,
 2)
 dokumenty, w które powinno być zaopatrzone drewno wprowadzane na terytorium Rzeczypospolitej Polskiej.
 § 2.
-Do drewna wprowadzanego na terytorium Rzeczypospolitej Polskiej nie stosuje się obowiązku zaopatrywania w świadectwo fitosanitarne określonego w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lutego 2008 r. w sprawie zapobiegania wprowadzaniu i rozprzestrzenianiu się organizmów kwarantannowych (Dz. U. Nr 46, poz. 272, z późn. zm.) w załączniku nr 5 w części B w dziale I w ust. 6 w lit. a w tiret pierwsze, drugie i czwarte, jeżeli na podstawie przepisów obowiązujących w Stanach Zjednoczonych Ameryki dotyczących certyfikacji przetartego wzdłużnie drewna pozyskanego z drzew liściastych:
+Do drewna wprowadzanego na terytorium Rzeczypospolitej Polskiej nie stosuje się obowiązku zaopatrywania w świadectwo fitosanitarne określonego w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lutego 2008 r. w sprawie zapobiegania wprowadzaniu i rozprzestrzenianiu się organizmów kwarantannowych (Dz. U. Nr 46, poz. 272, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 221, poz. 1443, z 2009 r. Nr 54, poz. 445, Nr 134, poz. 1106 i Nr 214, poz. 1660 oraz z 2014 r. poz. 571.) w załączniku nr 5 w części B w dziale I w ust. 6 w lit. a w tiret pierwsze, drugie i czwarte, jeżeli na podstawie przepisów obowiązujących w Stanach Zjednoczonych Ameryki dotyczących certyfikacji przetartego wzdłużnie drewna pozyskanego z drzew liściastych:
 1)
 miejsce, w którym zostało ono poddane obróbce, lub obiekt, w którym zostało ono poddane zabiegom, o których mowa w pkt 2 lit. a, zostały zatwierdzone do tego celu oraz były nadzorowane przez Krajowe Stowarzyszenie ds. Przetartego Drewna Pozyskanego z Drzew Liściastych (US National Hardwood Lumber Association);
 2)
@@ -49,6 +48,5 @@ zaopatrzone w świadectwo potwierdzające komorowe suszenie, wydane zgodnie ze w
 § 3.
 Rozporządzenie obowiązuje do dnia 30 listopada 2016 r.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-2) Przepisy niniejszego rozporządzenia wdrażają częściowo postanowienia decyzji wykonawczej Komisji 2013/780/UE z dnia 18 grudnia 2013 r. ustanawiającej odstępstwo od art. 13 ust. 1 ppkt (ii) dyrektywy Rady 2000/29/WE w odniesieniu do okorowanej tarcicy gatunków Quercus L., Platanus L. i Acer saccharum Marsh. pochodzącej ze Stanów Zjednoczonych Ameryki (Dz. Urz. UE L 346 z 20.12.2013, str. 61). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 221, poz. 1443, z 2009 r. Nr 54, poz. 445, Nr 134, poz. 1106 i Nr 214, poz. 1660 oraz z 2014 r. poz. 571.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Przepisy niniejszego rozporządzenia wdrażają częściowo postanowienia decyzji wykonawczej Komisji 2013/780/UE z dnia 18 grudnia 2013 r. ustanawiającej odstępstwo od art. 13 ust. 1 ppkt (ii) dyrektywy Rady 2000/29/WE w odniesieniu do okorowanej tarcicy gatunków Quercus L., Platanus L. i Acer saccharum Marsh. pochodzącej ze Stanów Zjednoczonych Ameryki (Dz. Urz. UE L 346 z 20.12.2013, str. 61). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 221, poz. 1443, z 2009 r. Nr 54, poz. 445, Nr 134, poz. 1106 i Nr 214, poz. 1660 oraz z 2014 r. poz. 571.
 

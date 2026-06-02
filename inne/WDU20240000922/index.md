@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-10 |
 | Data wydania | 2024-06-24 |
-| Wejście w życie | 2024-06-25 |
 | Ostatnia zmiana | 2024-06-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000922) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/922/text.pdf) |
 
@@ -41,7 +40,7 @@ Użyte w rozporządzeniu określenia oznaczają:
 1)
 wyłączenie – wyłączenie spod zakazu, o którym mowa w art. 6 ust. 1 ustawy;
 2)
-działalność badawczo-rozwojowa – działalność obejmującą badania naukowe w rozumieniu art. 4 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.) oraz prace rozwojowe w rozumieniu art. 4 ust. 3 tej ustawy;
+działalność badawczo-rozwojowa – działalność obejmującą badania naukowe w rozumieniu art. 4 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124 i 227.) oraz prace rozwojowe w rozumieniu art. 4 ust. 3 tej ustawy;
 3)
 porozumienie badawczo-rozwojowe – porozumienie zawierane między dwoma lub więcej przedsiębiorcami, którego przedmiotem jest:
 a)
@@ -245,5 +244,5 @@ Porozumienia specjalizacyjne i badawczo-rozwojowe zawarte w okresie od dnia 1 st
 § 12.
 Rozporządzenie obowiązuje do dnia 31 grudnia 2036 r.
 § 13.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124 i 227.
 

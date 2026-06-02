@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-05-15 |
 | Data wydania | 2015-07-22 |
-| Wejście w życie | 2015-08-06 |
 | Ostatnia zmiana | 2025-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001013) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1013/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. Nr 234, poz. 1385, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. Nr 234, poz. 1385, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 908, z 2013 r. poz. 1291 oraz z 2014 r. poz. 598.) wprowadza się następujące zmiany:
 
 - **1)** w art. 43 ust. 6 otrzymuje brzmienie: „
 
@@ -44,10 +43,12 @@ source: "eli-html"
 - **5)** w art. 47: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
-2. Decyzję w sprawie umorzenia pożyczki wydaje fundusz pożyczkowy po dokonaniu kontroli poniesionych przez przedsiębiorcę wydatków. Do decyzji stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Fundusz pożyczkowy wydający decyzję w sprawie umorzenia pożyczki jest organem pierwszej instancji. ” , w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Odmowa umorzenia pożyczki odpowiednio w całości lub w części następuje: ” , – pkt 1 otrzymuje brzmienie: „ 1) w przypadku niewykorzystania lub nierozliczenia pożyczki w całości lub w części w sposób oraz w terminach określonych w art. 41 ust. 2 i art. 46; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) w przypadku niewykorzystania pożyczki w całości lub w części i niedołączenia do jej rozliczenia potwierdzenia, o którym mowa w art. 47a ust. 2; ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+2. Decyzję w sprawie umorzenia pożyczki wydaje fundusz pożyczkowy po dokonaniu kontroli poniesionych przez przedsiębiorcę wydatków. Do decyzji stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Fundusz pożyczkowy wydający decyzję w sprawie umorzenia pożyczki jest organem pierwszej instancji. ” , w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Odmowa umorzenia pożyczki odpowiednio w całości lub w części następuje: ” , pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **1)** w przypadku niewykorzystania lub nierozliczenia pożyczki w całości lub w części w sposób oraz w terminach określonych w art. 41 ust. 2 i art. 46; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** w przypadku niewykorzystania pożyczki w całości lub w części i niedołączenia do jej rozliczenia potwierdzenia, o którym mowa w art. 47a ust. 2; ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+    - **c)**
 
 4a. W decyzji o odmowie umorzenia pożyczki w całości lub w części określa się kwotę, do której zapłaty jest obowiązany przedsiębiorca. Kwota ta jest równa sumie nieumorzonej kwoty pożyczki oraz należnych w dniu wydania decyzji odsetek ustawowych, jeżeli są naliczane. Decyzja o odmowie umorzenia pożyczki w całości lub w części stanowi podstawę do wystawienia tytułu wykonawczego. ” , ust. 5 otrzymuje brzmienie: „
 
@@ -87,7 +88,7 @@ source: "eli-html"
 2. W przypadku:
 
 - **1)** odmowy umożliwienia funduszowi pożyczkowemu przeprowadzenia czynności, o których mowa w ust. 1 – przedsiębiorca jest obowiązany do zwrotu otrzymanej pożyczki,
-- **2)** nierozliczenia pożyczki w całości lub w części w terminie określonym w art. 46 ust. 1 – przedsiębiorca jest obowiązany do zwrotu nierozliczonej kwoty pożyczki wraz z ustawowymi odsetkami liczonymi od dnia zawarcia umowy pożyczki. ” , ust. 5 otrzymuje brzmienie: „
+- **2)** nierozliczenia pożyczki w całości lub w części w terminie określonym w art. 46 ust. 1 – przedsiębiorca jest obowiązany do zwrotu nierozliczonej kwoty pożyczki – wraz z ustawowymi odsetkami liczonymi od dnia zawarcia umowy pożyczki. ” , ust. 5 otrzymuje brzmienie: „
     - **b)**
 
 5. Decyzja o odmowie umorzenia pożyczki w całości lub w części, o której mowa w art. 47 ust. 4a, stanowi podstawę do zwrotu lub spłaty przez przedsiębiorcę pożyczki lub jej części. Zwrotu pożyczki lub jej części przedsiębiorca dokonuje w terminie 14 dni od dnia doręczenia mu tej decyzji. ” ;
@@ -98,7 +99,7 @@ source: "eli-html"
 
 1. Należności funduszu pożyczkowego z tytułu niespłaconych lub niezwróconych pożyczek lub ich części mogą zostać umorzone w całości lub w części, jeżeli:
 
-- **1)** przedsiębiorca będący osobą fizyczną zmarł, nie pozostawiając żadnego majątku albo majątek pozostawiony nie podlega egzekucji na podstawie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619, z późn. zm.) lub ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.), albo pozostawił jedynie przedmioty codziennego użytku domowego;
+- **1)** przedsiębiorca będący osobą fizyczną zmarł, nie pozostawiając żadnego majątku albo majątek pozostawiony nie podlega egzekucji na podstawie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 87, 211, 218, 396, 539, 774 i 978.) lub ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539 i 978.), albo pozostawił jedynie przedmioty codziennego użytku domowego;
 - **2)** przedsiębiorca będący osobą prawną został wykreślony z właściwego rejestru osób prawnych przy jednoczesnym braku majątku, z którego można by egzekwować należność, a odpowiedzialność z tytułu należności nie przechodzi z mocy prawa na osoby trzecie;
 - **3)** zachodzi uzasadnione przypuszczenie, że w postępowaniu egzekucyjnym nie uzyska się kwoty wyższej od kosztów dochodzenia i egzekucji tej należności lub postępowanie egzekucyjne okazało się nieskuteczne;
 - **4)** przedsiębiorca będący jednostką organizacyjną niebędącą osobą prawną uległ likwidacji;
@@ -108,7 +109,7 @@ source: "eli-html"
 
 3. Do decyzji w sprawie umorzenia należności, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Od decyzji wydanej przez fundusz pożyczkowy przysługuje odwołanie do ministra właściwego do spraw gospodarki.
 
-4. Umorzenie należności funduszu pożyczkowego na podstawie ust. 1 pkt 5 stanowi pomoc dla przedsiębiorcy i jest dokonywane zgodnie z rozporządzeniem Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1). Przed wydaniem decyzji o umorzeniu należności funduszu pożyczkowego na podstawie art. 49a ust. 1 pkt 5 fundusz pożyczkowy jest obowiązany wystąpić do przedsiębiorcy o przedłożenie dokumentacji, o której mowa w art. 37 ust. 1 i ust. 2 pkt 1 i 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.). ” ;
+4. Umorzenie należności funduszu pożyczkowego na podstawie ust. 1 pkt 5 stanowi pomoc dla przedsiębiorcy i jest dokonywane zgodnie z rozporządzeniem Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1). Przed wydaniem decyzji o umorzeniu należności funduszu pożyczkowego na podstawie art. 49a ust. 1 pkt 5 fundusz pożyczkowy jest obowiązany wystąpić do przedsiębiorcy o przedłożenie dokumentacji, o której mowa w art. 37 ust. 1 i ust. 2 pkt 1 i 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.). ” ;
 
 - **10)** art. 50 otrzymuje brzmienie: „
 
@@ -131,7 +132,7 @@ source: "eli-html"
 
 1. Należności funduszu pożyczkowego z tytułu niespłaconych lub niezwróconych pożyczek mogą zostać umorzone w całości lub w części, jeżeli:
 
-- **1)** przedsiębiorca będący osobą fizyczną zmarł, nie pozostawiając żadnego majątku albo majątek pozostawiony nie podlega egzekucji na podstawie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619, z późn. zm.) lub ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.), albo pozostawił jedynie przedmioty codziennego użytku domowego;
+- **1)** przedsiębiorca będący osobą fizyczną zmarł, nie pozostawiając żadnego majątku albo majątek pozostawiony nie podlega egzekucji na podstawie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 87, 211, 218, 396, 539, 774 i 978.) lub ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539 i 978.), albo pozostawił jedynie przedmioty codziennego użytku domowego;
 - **2)** przedsiębiorca będący osobą prawną został wykreślony z właściwego rejestru osób prawnych przy jednoczesnym braku majątku, z którego można by egzekwować należność, a odpowiedzialność z tytułu należności nie przechodzi z mocy prawa na osoby trzecie;
 - **3)** zachodzi uzasadnione przypuszczenie, że w postępowaniu egzekucyjnym nie uzyska się kwoty wyższej od kosztów dochodzenia i egzekucji tej należności lub postępowanie egzekucyjne okazało się nieskuteczne;
 - **4)** przedsiębiorca będący jednostką organizacyjną niebędącą osobą prawną uległ likwidacji;
@@ -139,9 +140,9 @@ source: "eli-html"
 
 2. Decyzję w sprawie umorzenia należności, o których mowa w ust. 1, wydaje fundusz pożyczkowy. W przypadku gdy należność funduszu pożyczkowego przekracza 5000 zł, decyzja w sprawie jej umorzenia wymaga zgody ministra właściwego do spraw gospodarki.
 
-3. Do decyzji w sprawie umorzenia należności, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.). Od decyzji wydanej przez fundusz pożyczkowy przysługuje odwołanie do ministra właściwego do spraw gospodarki.
+3. Do decyzji w sprawie umorzenia należności, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 183 i 1195 oraz z 2015 r. poz. 211.). Od decyzji wydanej przez fundusz pożyczkowy przysługuje odwołanie do ministra właściwego do spraw gospodarki.
 
-4. Umorzenie należności funduszu pożyczkowego na podstawie ust. 1 pkt 5 stanowi pomoc dla przedsiębiorcy i jest dokonywane zgodnie z rozporządzeniem Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1). Przed wydaniem decyzji o umorzeniu należności funduszu pożyczkowego na podstawie art. 13a ust. 1 pkt 5 fundusz pożyczkowy jest obowiązany wystąpić do przedsiębiorcy o przedłożenie dokumentacji, o której mowa w art. 37 ust. 1 i ust. 2 pkt 1 i 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.). ” ;
+4. Umorzenie należności funduszu pożyczkowego na podstawie ust. 1 pkt 5 stanowi pomoc dla przedsiębiorcy i jest dokonywane zgodnie z rozporządzeniem Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1). Przed wydaniem decyzji o umorzeniu należności funduszu pożyczkowego na podstawie art. 13a ust. 1 pkt 5 fundusz pożyczkowy jest obowiązany wystąpić do przedsiębiorcy o przedłożenie dokumentacji, o której mowa w art. 37 ust. 1 i ust. 2 pkt 1 i 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.). ” ;
 
 - **2)** po art. 14 dodaje się art. 14a i art. 14b w brzmieniu: „
 
@@ -188,5 +189,5 @@ source: "eli-html"
 
 3. W przypadku gdy przed dniem wejścia w życie niniejszej ustawy zostało wszczęte, w trybie przepisów o postępowaniu cywilnym, postępowanie mające na celu dochodzenie lub egzekwowanie należności funduszu pożyczkowego, powstałych na podstawie ustawy zmienianej w art. 2, bieg terminu przedawnienia należności dochodzonych lub egzekwowanych w tym postępowaniu ulega zawieszeniu z dniem wejścia w życie niniejszej ustawy.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 908, z 2013 r. poz. 1291 oraz z 2014 r. poz. 598. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 87, 211, 218, 396, 539, 774 i 978. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539 i 978. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 87, 211, 218, 396, 539, 774 i 978. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539 i 978. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 183 i 1195 oraz z 2015 r. poz. 211. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 15 czerwca 2016 r. w sprawie określenia systemów, w których istnieje ryzyko systemowe
+# Rozporządzenie Ministra Finansówz dnia 15 czerwca 2016 r. w sprawie określenia systemów, w których istnieje ryzyko systemowe Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-15 |
 | Data wydania | 2016-06-20 |
-| Wejście w życie | 2016-06-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000873) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/873/text.pdf) |
 
@@ -35,6 +34,5 @@ system Elixir, prowadzony przez Krajową Izbę Rozliczeniową Spółkę Akcyjną
 2)
 system Euro Elixir, prowadzony przez Krajową Izbę Rozliczeniową Spółkę Akcyjną, z siedzibą w Warszawie.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 6 czerwca 2003 r. w sprawie określenia systemów, w których istnieje ryzyko systemowe (Dz. U. poz. 998, z 2004 r. poz. 2392 oraz z 2005 r. poz. 535), które utraciło moc z dniem 1 stycznia 2016 r. w związku z wejściem w życie ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978, 1259, 1513, 1830 i 1844 oraz z 2016 r. poz. 615).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 6 czerwca 2003 r. w sprawie określenia systemów, w których istnieje ryzyko systemowe (Dz. U. poz. 998, z 2004 r. poz. 2392 oraz z 2005 r. poz. 535), które utraciło moc z dniem 1 stycznia 2016 r. w związku z wejściem w życie ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978, 1259, 1513, 1830 i 1844 oraz z 2016 r. poz. 615). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 6 czerwca 2003 r. w sprawie określenia systemów, w których istnieje ryzyko systemowe (Dz. U. poz. 998, z 2004 r. poz. 2392 oraz z 2005 r. poz. 535), które utraciło moc z dniem 1 stycznia 2016 r. w związku z wejściem w życie ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978, 1259, 1513, 1830 i 1844 oraz z 2016 r. poz. 615).
 

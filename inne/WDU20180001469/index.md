@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 23 lipca 2018 r. w sprawie pomocy finansowej na kształcenie dzieci funkcjonariuszy Służby Ochrony Państwa, których śmierć nastąpiła w związku ze służbą
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 23 lipca 2018 r. w sprawie pomocy finansowej na kształcenie dzieci funkcjonariuszy Służby Ochrony Państwa, których śmierć nastąpiła w związku ze służbą Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-23 |
 | Data wydania | 2018-08-01 |
-| Wejście w życie | 2018-08-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001469) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1469/text.pdf) |
 
@@ -79,6 +78,5 @@ Jeżeli w danym roku szkolnym lub akademickim nauka obejmuje tylko jeden semestr
 4.
 Pomoc wypłaca się na rachunek bankowy dziecka albo jego przedstawiciela ustawowego.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 6 stycznia 2009 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej na kształcenie dzieci funkcjonariuszy Biura Ochrony Rządu, których śmierć nastąpiła w związku ze służbą (Dz. U. poz. 72), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650 i 730).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 6 stycznia 2009 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej na kształcenie dzieci funkcjonariuszy Biura Ochrony Rządu, których śmierć nastąpiła w związku ze służbą (Dz. U. poz. 72), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650 i 730). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 6 stycznia 2009 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej na kształcenie dzieci funkcjonariuszy Biura Ochrony Rządu, których śmierć nastąpiła w związku ze służbą (Dz. U. poz. 72), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650 i 730).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 28 czerwca 2021 r. zmieniające rozporządzenie w sprawie zakładowego funduszu rehabilitacji osób niepełnosprawnych
+# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 28 czerwca 2021 r. zmieniające rozporządzenie w sprawie zakładowego funduszu rehabilitacji osób niepełnosprawnych Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. poz. 1723).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-28 |
 | Data wydania | 2021-06-29 |
-| Wejście w życie | 2021-06-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001171) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1171/text.pdf) |
 
@@ -31,14 +30,11 @@ Na podstawie art. 33 ust. 11 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji z
 § 1.
 W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 19 grudnia 2007 r. w sprawie zakładowego funduszu rehabilitacji osób niepełnosprawnych (Dz. U. z 2015 r. poz. 1023) wprowadza się następujące zmiany:
 1)
-po § 11 dodaje się § 11a w brzmieniu:
-„
+po § 11 dodaje się § 11a w brzmieniu: „
 § 11a.
-Wydatki ze środków funduszu rehabilitacji stanowiące pomoc de minimis mogą być ponoszone do dnia 30 czerwca 2024 r.
-” ;
+Wydatki ze środków funduszu rehabilitacji stanowiące pomoc de minimis mogą być ponoszone do dnia 30 czerwca 2024 r. ” ;
 2)
 uchyla się § 12.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. poz. 1723).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. poz. 1723).
 

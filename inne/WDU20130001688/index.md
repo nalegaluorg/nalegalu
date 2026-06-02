@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-18 |
 | Data wydania | 2013-12-31 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001688) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1688/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Szczegółowa tematyka, czas trwania i sposób realizacji szkoleń i kursów potwierdzających przygotowanie teoretyczne i praktyczne w zakresie wyszkolenia strzeleckiego, samoobrony, technik interwencyjnych oraz znajomości przepisów prawa związanych z wykonywaniem ochrony osób i mienia
 Treść rozporządzenia
-Na podstawie art. 26 ust. 9 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2005 r. Nr 145, poz. 1221, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 26 ust. 9 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2005 r. Nr 145, poz. 1221, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, z 2008 r. Nr 171, poz. 1055 i Nr 180, poz. 1112, z 2009 r. Nr 98, poz. 817, z 2010 r. Nr 47, poz. 278, Nr 182, poz. 1228 i Nr 229, poz. 1496, z 2011 r. Nr 106, poz. 622, Nr 170, poz. 1015 i Nr 171, poz. 1016, z 2012 r. poz. 908 oraz z 2013 r. poz. 628 i 829.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa wymagania, w tym szczegółową tematykę i formę przeprowadzonych zajęć, w zakresie:
 1)
-kursów, o których mowa w art. 26 ust. 7 pkt 6 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, potwierdzających przygotowanie teoretyczne i praktyczne w zakresie wyszkolenia strzeleckiego, samoobrony, technik interwencyjnych oraz znajomości przepisów prawa związanych z wykonywaniem ochrony osób i mienia, prowadzonych przez publiczne i niepubliczne placówki i ośrodki zgodnie z przepisami wydanymi na podstawie art. 68a ust. 5 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.);
+kursów, o których mowa w art. 26 ust. 7 pkt 6 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, potwierdzających przygotowanie teoretyczne i praktyczne w zakresie wyszkolenia strzeleckiego, samoobrony, technik interwencyjnych oraz znajomości przepisów prawa związanych z wykonywaniem ochrony osób i mienia, prowadzonych przez publiczne i niepubliczne placówki i ośrodki zgodnie z przepisami wydanymi na podstawie art. 68a ust. 5 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979 oraz z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650.);
 2)
 szkoleń i kursów potwierdzających przygotowanie teoretyczne i praktyczne w zakresie wyszkolenia strzeleckiego, samoobrony, technik interwencyjnych oraz znajomości przepisów prawa związanych z wykonywaniem ochrony osób i mienia, prowadzonych przez uczelnie.
 § 2.
@@ -49,7 +48,7 @@ Szczegółową tematykę szkoleń i kursów, o których mowa w § 1, oraz czas i
 § 4.
 Spełnienie warunku, o którym mowa w art. 26 ust. 8 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, zwalnia z obowiązku odbycia szkolenia albo kursu w zakresie określonym w pkt II i III bloku ogólnoprawnego załącznika do rozporządzenia.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, z 2008 r. Nr 171, poz. 1055 i Nr 180, poz. 1112, z 2009 r. Nr 98, poz. 817, z 2010 r. Nr 47, poz. 278, Nr 182, poz. 1228 i Nr 229, poz. 1496, z 2011 r. Nr 106, poz. 622, Nr 170, poz. 1015 i Nr 171, poz. 1016, z 2012 r. poz. 908 oraz z 2013 r. poz. 628 i 829. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979 oraz z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650.
 Załącznik – Szczegółowa tematyka, czas trwania i sposób realizacji szkoleń i kursów potwierdzających przygotowanie teoretyczne i praktyczne w zakresie wyszkolenia strzeleckiego, samoobrony, technik interwencyjnych oraz znajomości przepisów prawa związanych z wykonywaniem ochrony osób i mienia
 Blok ogólnoprawny
 I.
@@ -163,8 +162,7 @@ Zasady udzielania pomocy przedlekarskiej
 1.
 Zasady udzielania pomocy przedlekarskiej w przypadkach zranień bądź krwawień tętniczych i żylnych, złamań kości, oparzeń, porażenia przedmiotem przeznaczonym do obezwładniania osób za pomocą energii elektrycznej lub omdleń.
 2.
-Praktyczne opatrywanie ran postrzałowych, unieruchamianie kończyn, wykonywanie sztucznego oddychania i pośredniego masażu serca, użycie automatycznego defibrylatora zewnętrznego AED.
-Realizacja tematyki bloku w minimalnym łącznym wymiarze 50 godzin realizowanych w formie stacjonarnych wykładów, w tym pkt VI – w formie wykładów i zajęć praktycznych. Blok obejmujący zagadnienia ochrony osób i mienia
+Praktyczne opatrywanie ran postrzałowych, unieruchamianie kończyn, wykonywanie sztucznego oddychania i pośredniego masażu serca, użycie automatycznego defibrylatora zewnętrznego AED. Realizacja tematyki bloku w minimalnym łącznym wymiarze 50 godzin realizowanych w formie stacjonarnych wykładów, w tym pkt VI – w formie wykładów i zajęć praktycznych. Blok obejmujący zagadnienia ochrony osób i mienia
 I.
 Taktyka wykonywania zadań ochrony osób
 1.
@@ -242,8 +240,7 @@ ogólne wymogi prawne dotyczące stosowania mechanicznych i elektronicznych syst
 2)
 rodzaje mechanicznych i elektronicznych systemów zabezpieczeń i ich rola w systemie ochrony obiektów;
 3)
-zasady obsługi mechanicznych i elektronicznych systemów zabezpieczeń.
-Realizacja tematyki bloku w minimalnym łącznym wymiarze 100 godzin, w tym pkt I w wymiarze 30 godzin i pkt II w wymiarze 70 godzin, realizowanych w formie stacjonarnych wykładów i zajęć praktycznych. Blok obejmujący zagadnienia wyszkolenia strzeleckiego
+zasady obsługi mechanicznych i elektronicznych systemów zabezpieczeń. Realizacja tematyki bloku w minimalnym łącznym wymiarze 100 godzin, w tym pkt I w wymiarze 30 godzin i pkt II w wymiarze 70 godzin, realizowanych w formie stacjonarnych wykładów i zajęć praktycznych. Blok obejmujący zagadnienia wyszkolenia strzeleckiego
 1.
 Budowa i zasady działania broni palnej:
 1)
@@ -267,8 +264,7 @@ techniki szybkiego sięgania po broń palną;
 2)
 przyjmowanie postaw strzeleckich, przemieszczanie się i zwroty z bronią palną;
 3)
-strzelanie z broni palnej.
-Realizacja tematyki bloku w minimalnym łącznym wymiarze 35 godzin realizowanych w formie stacjonarnych wykładów i zajęć praktycznych. Blok obejmujący zagadnienia samoobrony i technik interwencyjnych
+strzelanie z broni palnej. Realizacja tematyki bloku w minimalnym łącznym wymiarze 35 godzin realizowanych w formie stacjonarnych wykładów i zajęć praktycznych. Blok obejmujący zagadnienia samoobrony i technik interwencyjnych
 1.
 Samoobrona:
 1)
@@ -304,6 +300,5 @@ obrona przed atakiem bronią palną;
 8)
 podstawowe techniki posługiwania się bronią palną w walce;
 9)
-współdziałanie pracowników ochrony w różnych sytuacjach taktycznych.
-Realizacja tematyki bloku w minimalnym łącznym wymiarze 60 godzin realizowanych w formie stacjonarnych zajęć praktycznych.
+współdziałanie pracowników ochrony w różnych sytuacjach taktycznych. Realizacja tematyki bloku w minimalnym łącznym wymiarze 60 godzin realizowanych w formie stacjonarnych zajęć praktycznych.
 

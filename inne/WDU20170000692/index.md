@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 22 marca 2017 r. w sprawie szczegółowych warunków przyznawania pomocy finansowej w ramach poddziałania „Wsparcie korzystania z usług doradczych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz warunków i trybu jej wypłaty
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 22 marca 2017 r. w sprawie szczegółowych warunków przyznawania pomocy finansowej w ramach poddziałania „Wsparcie korzystania z usług doradczych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz warunków i trybu jej wypłaty Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-22 |
 | Data wydania | 2017-03-31 |
-| Wejście w życie | 2017-04-01 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000692) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/692/text.pdf) |
 
@@ -43,7 +42,7 @@ przypadki, w których następcy prawnemu beneficjenta albo nabywcy przedsiębior
 § 2.
 Poddziałanie, o którym mowa w § 1, jest wdrażane na terytorium Rzeczypospolitej Polskiej.
 § 3.
-Pomoc, o której mowa w § 1, zwana dalej „pomocą”, jest przyznawana dostawcy usług doradczych, o którym mowa w art. 15 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.), zwanego dalej „rozporządzeniem nr 1305/2013”, na operację polegającą na świadczeniu usług doradczych rolnikom lub właścicielom lasów, zwanych dalej „odbiorcami usług doradczych”.
+Pomoc, o której mowa w § 1, zwana dalej „pomocą”, jest przyznawana dostawcy usług doradczych, o którym mowa w art. 15 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8 i Dz. Urz. UE L 130 z 19.05.2016, str. 1., zwanego dalej „rozporządzeniem nr 1305/2013”, na operację polegającą na świadczeniu usług doradczych rolnikom lub właścicielom lasów, zwanych dalej „odbiorcami usług doradczych”.
 § 4.
 1.
 O pomoc może ubiegać się dostawca usług doradczych, o którym mowa w art. 15 ust. 2 rozporządzenia nr 1305/2013, zwany dalej „dostawcą usług doradczych”, który:
@@ -108,7 +107,7 @@ w ramach której będzie zapewnione, że odbiorcy usług doradczych skorzystają
 W okresie realizacji Programu ten sam odbiorca usług doradczych może skorzystać z nie więcej niż dwóch różnych programów doradczych.
 § 7.
 1.
-Pomoc przyznaje się przy zastosowaniu kryteriów wyboru operacji, które odpowiadają kryteriom oceny ofert określonym w przepisach ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164, z późn. zm.).
+Pomoc przyznaje się przy zastosowaniu kryteriów wyboru operacji, które odpowiadają kryteriom oceny ofert określonym w przepisach ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 996, 1020, 1250, 1265, 1579, 1920 i 2260.).
 2.
 Pomoc przyznaje się dostawcy usług doradczych, którego oferta uzyskała najwyższą liczbę punktów, przy zastosowaniu kryteriów, o których mowa w ust. 1.
 § 8.
@@ -145,7 +144,7 @@ jakości usług doradczych, z których korzystali,
 b)
 doradców, którzy świadczyli te usługi doradcze;
 12)
-przestrzegania obowiązków beneficjenta wynikających z załącznika III do rozporządzenia wykonawczego Komisji (UE) nr 808/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 227 z 31.07.2014, str. 18, z późn. zm.).
+przestrzegania obowiązków beneficjenta wynikających z załącznika III do rozporządzenia wykonawczego Komisji (UE) nr 808/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 227 z 31.07.2014, str. 18, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33 i Dz. Urz. UE L 308 z 16.11.2016, str. 5..
 2.
 Umowa zawiera również wykaz oraz wzory dokumentów, które należy przedstawić w celu potwierdzenia zrealizowania operacji.
 3.
@@ -185,7 +184,7 @@ b)
 c)
 500 euro – w przypadku rocznego programu doradczego dla jednego właściciela lasu lub jednej grupy właścicieli lasów.
 4.
-Środki finansowe z tytułu pomocy są wypłacane w złotych, a kwoty określone w euro w ust. 3 pkt 2 są przeliczane na złote zgodnie z art. 34 ust. 1 rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro (Dz. Urz. UE L 255 z 28.08.2014, str. 18, z późn. zm.).
+Środki finansowe z tytułu pomocy są wypłacane w złotych, a kwoty określone w euro w ust. 3 pkt 2 są przeliczane na złote zgodnie z art. 34 ust. 1 rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro (Dz. Urz. UE L 255 z 28.08.2014, str. 18, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7 i Dz. Urz. UE L 5 z 10.01.2017, str. 11..
 § 11.
 1.
 Wniosek o płatność składa się w Centrali Agencji.
@@ -286,6 +285,5 @@ W przypadku beneficjentów wspólnie realizujących operację pomoc może być p
 § 16.
 Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku postępowania w sprawie o przyznanie pomocy i wypłatę środków finansowych z tytułu pomocy dokonuje się zgodnie z przepisami Kodeksu cywilnego dotyczącymi terminów.
 § 17.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8 i Dz. Urz. UE L 130 z 19.05.2016, str. 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 996, 1020, 1250, 1265, 1579, 1920 i 2260. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33 i Dz. Urz. UE L 308 z 16.11.2016, str. 5. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7 i Dz. Urz. UE L 5 z 10.01.2017, str. 11.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8 i Dz. Urz. UE L 130 z 19.05.2016, str. 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 996, 1020, 1250, 1265, 1579, 1920 i 2260. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33 i Dz. Urz. UE L 308 z 16.11.2016, str. 5. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7 i Dz. Urz. UE L 5 z 10.01.2017, str. 11.
 

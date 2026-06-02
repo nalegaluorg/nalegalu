@@ -25,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001275) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1275/text.pdf) |
 
-Licencja detektywa jest formatu A7, dwustronna, laminowana, personalizowana z wykorzystaniem drukarki atramentowej lub innej równoważnej, której środek kryjący zapewnia trwałą integrację z podłożem. Legitymacja wykonana jest na papierze:
+11227755 z dnia 21 czerwca 2023 r. (Dz. U. poz. …) WZÓR LICENCJI DETEKTYWA Licencja detektywa jest formatu A7, dwustronna, laminowana, personalizowana z wykorzystaniem drukarki atramentowej lub innej równoważnej, której środek kryjący zapewnia trwałą integrację z podłożem. Legitymacja wykonana jest na papierze:
 1) niewykazującym luminescencji promieniowaniu ultrafioletowym, uczulonym na działanie odczynników chemicznych;
 2) z dwutonowym znakiem wodnym;
 3) zawierającym włókna zabezpieczające widoczne promieniowaniu ultrafioletowym.

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-10-17 |
 | Data wydania | 2008-12-12 |
-| Wejście w życie | 2008-12-27 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082201416) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1416/text.pdf) |
 
@@ -128,7 +127,7 @@ source: "eli-html"
 3. W razie stwierdzenia istotnych uchybień dotyczących trybu, zakresu i jakości udzielanych świadczeń zdrowotnych lub sprawowania opieki zdrowotnej kierownik wojewódzkiego ośrodka medycyny pracy kieruje jednocześnie wniosek do:
 
 - **1)** zleceniodawcy o zastosowanie wobec zleceniobiorcy skutków przewidzianych w umowie;
-- **2)** odpowiedniego organu właściwej okręgowej izby: o wszczęcie postępowania w przedmiocie odpowiedzialności zawodowej, o którym mowa w art. 38 ustawy z dnia 19 kwietnia 1991 r. o samorządzie pielęgniarek i położnych (Dz. U. Nr 41, poz. 178, z późn. zm.) albo o wszczęcie postępowania w przedmiocie odpowiedzialności zawodowej, o którym mowa w art. 41 ustawy z dnia 17 maja 1989 r. o izbach lekarskich (Dz. U. Nr 30, poz. 158, z późn. zm.) lub o powołanie komisji w celu oceny przygotowania zawodowego, o której mowa w art. 11 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2008 r. Nr 136, poz. 857) albo
+- **2)** odpowiedniego organu właściwej okręgowej izby: o wszczęcie postępowania w przedmiocie odpowiedzialności zawodowej, o którym mowa w art. 38 ustawy z dnia 19 kwietnia 1991 r. o samorządzie pielęgniarek i położnych (Dz. U. Nr 41, poz. 178, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 24, poz. 110 i Nr 91, poz. 410, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268, z 2002 r. Nr 62, poz. 559, Nr 153, poz. 1271 i Nr 240, poz. 2052, z 2004 r. Nr 92, poz. 885 oraz z 2007 r. Nr 176, poz. 1237.) albo o wszczęcie postępowania w przedmiocie odpowiedzialności zawodowej, o którym mowa w art. 41 ustawy z dnia 17 maja 1989 r. o izbach lekarskich (Dz. U. Nr 30, poz. 158, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 20, poz. 120, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 28, poz. 152, z 1998 r. Nr 106, poz. 668, z 2001 r. Nr 126, poz. 1383, z 2002 r. Nr 153, poz. 1271 i Nr 240, poz. 2052, z 2004 r. Nr 92, poz. 885 oraz z 2007 r. Nr 176, poz. 1238.) lub o powołanie komisji w celu oceny przygotowania zawodowego, o której mowa w art. 11 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2008 r. Nr 136, poz. 857) albo
     - **a)**
     - **b)**
 
@@ -152,7 +151,7 @@ source: "eli-html"
 
 - **1)** szczegółowy sposób, tryb tworzenia i organizacji służb wykonujących zadania odpowiednie do zadań służby medycyny pracy,
 - **2)** kwalifikacje zawodowe pracowników realizujących te zadania,
-- **3)** szczegółowy sposób i tryb kontroli tych służb biorąc pod uwagę zadania służby medycyny pracy. ” .
+- **3)** szczegółowy sposób i tryb kontroli tych służb – biorąc pod uwagę zadania służby medycyny pracy. ” .
 
 **Art. 2.** Osoby, które podjęły działalność w zakresie profilaktycznej opieki zdrowotnej nad pracującymi, przed dniem wejścia w życie ustawy, nie dokonują zgłoszenia, o którym mowa w art. 10 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
@@ -160,5 +159,5 @@ source: "eli-html"
 
 **Art. 4.** Przepis art. 21 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się od dnia 9 lutego 2008 r.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 13 i art. 4, które wchodzą w życie z dniem ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 13 i art. 4, które wchodzą w życie z dniem ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 24, poz. 110 i Nr 91, poz. 410, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268, z 2002 r. Nr 62, poz. 559, Nr 153, poz. 1271 i Nr 240, poz. 2052, z 2004 r. Nr 92, poz. 885 oraz z 2007 r. Nr 176, poz. 1237. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 20, poz. 120, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 28, poz. 152, z 1998 r. Nr 106, poz. 668, z 2001 r. Nr 126, poz. 1383, z 2002 r. Nr 153, poz. 1271 i Nr 240, poz. 2052, z 2004 r. Nr 92, poz. 885 oraz z 2007 r. Nr 176, poz. 1238.
 

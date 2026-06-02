@@ -26,16 +26,30 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001839) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1839/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym Rozdział 1 – Przepisy ogólne Rozdział 2 – Przygotowanie strategicznej inwestycji w sektorze naftowym Rozdział 3 – Nabywanie tytułu prawnego do nieruchomości i realizacja strategicznej inwestycji w sektorze naftowym Rozdział 4 – Postępowanie administracyjne dla realizacji strategicznych inwestycji w sektorze naftowym Rozdział 5 – Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym
 Załącznik – Wykaz strategicznych inwestycji w sektorze naftowym
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2024 r. poz. 405), z uwzględnieniem zmian wprowadzonych ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 listopada 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 61, art. 63 i art. 84 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 61, art. 63 i art. 84 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), które stanowią: „
+Przepisy ogólne
+Przygotowanie strategicznej inwestycji w sektorze naftowym
+Nabywanie tytułu prawnego do nieruchomości i realizacja strategicznej inwestycji w sektorze naftowym
+Postępowanie administracyjne dla realizacji strategicznych inwestycji w sektorze naftowym
+Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
 Art. 41–46.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Przygotowanie strategicznej inwestycji w sektorze naftowym
+
+#### Rozdział 3 – Nabywanie tytułu prawnego do nieruchomości i realizacja strategicznej inwestycji w sektorze naftowym
+
+#### Rozdział 4 – Postępowanie administracyjne dla realizacji strategicznych inwestycji w sektorze naftowym
+
+#### Rozdział 5 – Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
 
 **Art. 61.**
 
@@ -56,7 +70,7 @@ Art. 41–46.
 - **1)** art. 65 ust. 2 i art. 73 ust. 2, które wchodzą w życie z dniem ogłoszenia;
 - **2)** art. 47 i art. 82, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -64,7 +78,7 @@ Art. 41–46.
 
 2. Użyte w ustawie określenia oznaczają:
 
-- **1)** infrastruktura niezbędna do obsługi – obiekty, urządzenia, sieci lub instalacje służące do budowy, przebudowy, remontu, utrzymania, użytkowania, zmiany sposobu użytkowania, eksploatacji lub rozbiórki: rurociągów, w tym gazociągów, bezzbiornikowych pojemności wykorzystywanych jako magazyn, o którym mowa w art. 2 ust. 1 pkt 30 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2024 r. poz. 1281), bezzbiornikowego magazynu paliw gazowych, otworowej kopalni soli kamiennej prowadzącej eksploatację na obszarze złoża kopaliny, w tym zakładu górniczego, o którym mowa w art. 6 ust. 1 pkt 18 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290) w szczególności: pompownie, stacje zaworów (zasuw), stacje ochrony katodowej, ujęcia wody, obiekty sieci gazowej, sieci i przyłącza elektroenergetyczne, wodociągowe, kanalizacyjne, cieplne, telekomunikacyjne i teleinformatyczne, infrastruktura drogowa lub kolejowa, place składowe, obiekty magazynowe, budynki produkcyjne, montownie oraz wytwórnie;
+- **1)** infrastruktura niezbędna do obsługi – obiekty, urządzenia, sieci lub instalacje służące do budowy, przebudowy, remontu, utrzymania, użytkowania, zmiany sposobu użytkowania, eksploatacji lub rozbiórki: rurociągów, w tym gazociągów, bezzbiornikowych pojemności wykorzystywanych jako magazyn, o którym mowa w art. 2 ust. 1 pkt 30 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2024 r. poz. 1281), bezzbiornikowego magazynu paliw gazowych, otworowej kopalni soli kamiennej prowadzącej eksploatację na obszarze złoża kopaliny, w tym zakładu górniczego, o którym mowa w art. 6 ust. 1 pkt 18 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290) – w szczególności: pompownie, stacje zaworów (zasuw), stacje ochrony katodowej, ujęcia wody, obiekty sieci gazowej, sieci i przyłącza elektroenergetyczne, wodociągowe, kanalizacyjne, cieplne, telekomunikacyjne i teleinformatyczne, infrastruktura drogowa lub kolejowa, place składowe, obiekty magazynowe, budynki produkcyjne, montownie oraz wytwórnie;
     - **a)**
     - **b)**
     - **c)**
@@ -83,7 +97,7 @@ Art. 41–46.
 
 **Art. 2.** Strategiczne inwestycje w sektorze naftowym są celami publicznymi w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
-#### Rozdział 2 Przygotowanie strategicznej inwestycji w sektorze naftowym
+#### Rozdział 2
 
 **Art. 3.**
 
@@ -133,9 +147,7 @@ Art. 41–46.
 
 3. Przed złożeniem wniosku o wydanie decyzji o ustaleniu lokalizacji strategicznej inwestycji w sektorze naftowym inwestor występuje o opinie:
 
-- **1)** ministra właściwego do spraw zdrowia – w odniesieniu do inwestycji lokalizowanych na obszarach, którym został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2024 r. poz. 1420 i 1572);
-- **2)** ministrów właściwych do spraw: aktywów państwowych, gospodarki morskiej, energii, gospodarki, gospodarki surowcami energetycznymi, klimatu, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, wewnętrznych i Ministra Obrony Narodowej oraz właściwego dyrektora urzędu morskiego – w odniesieniu do wznoszenia lub wykorzystywania sztucznych wysp, konstrukcji i urządzeń na obszarach morskich wód wewnętrznych i morza terytorialnego, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125);
-- **3)** właściwego dyrektora urzędu morskiego oraz ministrów właściwych do spraw: energii, gospodarki, gospodarki surowcami energetycznymi, klimatu, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, gospodarki wodnej, wewnętrznych i Ministra Obrony Narodowej – w odniesieniu do układania i utrzymywania kabli lub rurociągów na obszarach morskich wód wewnętrznych i morza terytorialnego, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej; w przypadku gdy kable lub rurociągi będą przebiegały również na odcinku lądowym, inwestor występuje także o opinię właściwego wójta, burmistrza albo prezydenta miasta;
+- **1)** ministra właściwego do spraw zdrowia – w odniesieniu do inwestycji lokalizowanych na obszarach, którym został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2024 r. poz. 1420 i 1572); 2Ze zmianą wprowadzoną przez art. 48 pkt 1 lit. a ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r.) ministrów właściwych do spraw: aktywów państwowych, gospodarki morskiej, energii, gospodarki, gospodarki surowcami energetycznymi, klimatu, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, wewnętrznych i Ministra Obrony Narodowej oraz właściwego dyrektora urzędu morskiego – w odniesieniu do wznoszenia lub wykorzystywania sztucznych wysp, konstrukcji i urządzeń na obszarach morskich wód wewnętrznych i morza terytorialnego, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125); 3Ze zmianą wprowadzoną przez art. 48 pkt 1 lit. a ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r.) właściwego dyrektora urzędu morskiego oraz ministrów właściwych do spraw: energii, gospodarki, gospodarki surowcami energetycznymi, klimatu, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, gospodarki wodnej, wewnętrznych i Ministra Obrony Narodowej – w odniesieniu do układania i utrzymywania kabli lub rurociągów na obszarach morskich wód wewnętrznych i morza terytorialnego, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej; w przypadku gdy kable lub rurociągi będą przebiegały również na odcinku lądowym, inwestor występuje także o opinię właściwego wójta, burmistrza albo prezydenta miasta;
 - **4)** właściwego dyrektora urzędu morskiego – w odniesieniu do obszarów pasa technicznego, pasa ochronnego, morskich portów i przystani, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej;
 - **5)** organu właściwego w sprawach terenów zagrożonych osuwaniem się mas ziemnych – w odniesieniu do terenów zagrożonych osuwaniem się mas ziemnych;
 - **6)** organów właściwych w sprawach ochrony gruntów rolnych i leśnych oraz melioracji wodnych – w odniesieniu do gruntów wykorzystywanych na cele rolne i leśne, zgodnie z przepisami ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2024 r. poz. 82) oraz zgodnie z przepisami ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089 i 1473);
@@ -147,8 +159,7 @@ Art. 41–46.
 - **12)** właściwego miejscowo zarządu województwa, zarządu powiatu oraz wójta (burmistrza, prezydenta miasta);
 - **13)** Prezesa Urzędu Lotnictwa Cywilnego – w odniesieniu do obiektów budowanych w granicach powierzchni ograniczających przeszkody lub powierzchni ograniczających zabudowę lub stanowiących przeszkody lotnicze, zgodnie z przepisami ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110 oraz z 2024 r. poz. 731 i 1222);
 - **14)** ministra właściwego do spraw gospodarki morskiej – w odniesieniu do nieruchomości, o których mowa w art. 3 ust. 1 pkt 1 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796);
-- **15)** dyrektora parku narodowego – w odniesieniu do obszarów położonych w granicach parku i jego otuliny, zgodnie z ustawą z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478);
-- **16)** Ministra Obrony Narodowej albo ministra właściwego do spraw energii albo ministra właściwego do spraw gospodarki surowcami energetycznymi – odpowiednio do właściwości organu w zakresie ustanowienia terenu zamkniętego – w odniesieniu do inwestycji mogących oddziaływać na tereny zamknięte niezbędne dla obronności lub bezpieczeństwa państwa, ustalone na podstawie ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, oraz na ich strefy ochronne, o których mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130);
+- **15)** dyrektora parku narodowego – w odniesieniu do obszarów położonych w granicach parku i jego otuliny, zgodnie z ustawą z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478); 16Ze zmianą wprowadzoną przez art. 48 pkt 1 lit. b ustawy, o której mowa w odnośniku 1.) Ministra Obrony Narodowej albo ministra właściwego do spraw energii albo ministra właściwego do spraw gospodarki surowcami energetycznymi – odpowiednio do właściwości organu w zakresie ustanowienia terenu zamkniętego – w odniesieniu do inwestycji mogących oddziaływać na tereny zamknięte niezbędne dla obronności lub bezpieczeństwa państwa, ustalone na podstawie ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, oraz na ich strefy ochronne, o których mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130);
 - **17)** właściwego podmiotu wykonującego prawa właścicielskie zgodnie z art. 212 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne w stosunku do gruntów stanowiących własność Skarbu Państwa pokrytych wodami – w odniesieniu do sposobu, miejsca i warunków umieszczenia inwestycji na tych gruntach;
 - **18)** właściwego organu nadzoru górniczego – w odniesieniu do terenów górniczych w rozumieniu art. 6 ust. 1 pkt 15 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;
 - **19)** ministra właściwego do spraw środowiska – w odniesieniu do złóż strategicznych w rozumieniu art. 6 ust. 1 pkt 19a ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
@@ -199,15 +210,14 @@ Art. 41–46.
 3a. Przepisów ust. 3 pkt 2–4 nie stosuje się do postępowań:
 
 - **1)** dotyczących terenów zamkniętych ustanowionych przez Ministra Obrony Narodowej lub innych postępowań prowadzonych na wniosek jednostek podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych lub na rzecz tych jednostek;
-- **2)** w sprawie wydania decyzji o warunkach zabudowy i zagospodarowania terenu, decyzji o pozwoleniu na budowę i decyzji oraz pozwoleń, o których mowa w ust. 3 pkt 4, wszczętych na wniosek inwestora;
-- **3)** dotyczących terenów zamkniętych ustanowionych przez ministra właściwego do spraw energii albo ministra właściwego do spraw gospodarki surowcami energetycznymi.
+- **2)** w sprawie wydania decyzji o warunkach zabudowy i zagospodarowania terenu, decyzji o pozwoleniu na budowę i decyzji oraz pozwoleń, o których mowa w ust. 3 pkt 4, wszczętych na wniosek inwestora; 3Ze zmianą wprowadzoną przez art. 48 pkt 2 ustawy, o której mowa w odnośniku 1.) dotyczących terenów zamkniętych ustanowionych przez ministra właściwego do spraw energii albo ministra właściwego do spraw gospodarki surowcami energetycznymi.
 
 4. W przypadku, o którym mowa w ust. 3 pkt 2, na wniosek strony postępowania, po uzyskaniu zgody inwestora, organ prowadzący postępowanie w sprawie wydania decyzji o pozwoleniu na budowę, w odniesieniu do nieruchomości objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji strategicznej inwestycji w sektorze naftowym podejmie zawieszone postępowanie.
 
 5. W przypadku gdy po doręczeniu zawiadomienia, o którym mowa w ust. 1, nastąpi:
 
 - **1)** zbycie własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o ustaleniu lokalizacji strategicznej inwestycji w sektorze naftowym,
-- **2)** przeniesienie wskutek innego zdarzenia prawnego własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o ustaleniu lokalizacji strategicznej inwestycji w sektorze naftowym nabywca, a w przypadku, o którym mowa w pkt 1, nabywca i zbywca, są obowiązani do zgłoszenia właściwemu wojewodzie danych nowego właściciela lub użytkownika wieczystego.
+- **2)** przeniesienie wskutek innego zdarzenia prawnego własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o ustaleniu lokalizacji strategicznej inwestycji w sektorze naftowym – nabywca, a w przypadku, o którym mowa w pkt 1, nabywca i zbywca, są obowiązani do zgłoszenia właściwemu wojewodzie danych nowego właściciela lub użytkownika wieczystego.
 
 6. Niedokonanie zgłoszenia zgodnie z ust. 5 i prowadzenie postępowania bez udziału nowego właściciela lub użytkownika wieczystego nie stanowi podstawy do wznowienia postępowania.
 
@@ -322,9 +332,7 @@ Art. 41–46.
 
 5. Organem wyższego stopnia w stosunku do wojewody w sprawach pozwolenia na budowę strategicznej inwestycji w sektorze naftowym lub pozwolenia na rozbiórkę tej inwestycji jest Główny Inspektor Nadzoru Budowlanego.
 
-6. Ilekroć w przepisach Prawa budowlanego jest mowa o decyzji o warunkach zabudowy i zagospodarowania terenu, rozumie się przez to także decyzję o ustaleniu lokalizacji strategicznej inwestycji w sektorze naftowym.
-
-7. Do strategicznych inwestycji w sektorze naftowym nie stosuje się przepisów art. 32 ust. 1 pkt 3 i 4 oraz art. 35 ust. 5 pkt 3 Prawa budowlanego.
+6. Ilekroć w przepisach Prawa budowlanego jest mowa o decyzji o warunkach zabudowy i zagospodarowania terenu, rozumie się przez to także decyzję o ustaleniu lokalizacji strategicznej inwestycji w sektorze naftowym. 7Ze zmianą wprowadzoną przez art. 48 pkt 3 ustawy, o której mowa w odnośniku 1.. Do strategicznych inwestycji w sektorze naftowym nie stosuje się przepisów art. 32 ust. 1 pkt 3 i 4 oraz art. 35 ust. 5 pkt 3 Prawa budowlanego.
 
 8. Zmiana oznaczenia w katastrze nieruchomości, dotycząca nieruchomości objętej decyzją o ustaleniu lokalizacji strategicznej inwestycji w sektorze naftowym, dokonana po wydaniu tej decyzji, wynikająca w szczególności z podziału nieruchomości, scalenia i podziału nieruchomości, scalenia i wymiany gruntów lub aktualizacji operatu ewidencyjnego, nie stanowi przeszkody do wydania decyzji o pozwoleniu na budowę.
 
@@ -385,12 +393,12 @@ Art. 41–46.
 7. O każdym przypadku niewydania w terminie decyzji, o której mowa w ust. 1, organ właściwy do rozpatrzenia sprawy zawiadamia strony postępowania, ministra właściwego do spraw środowiska i Generalnego Dyrektora Ochrony Środowiska oraz:
 
 - **1)** w przypadku inwestycji, o których mowa w pkt I i III wykazu określonego w załączniku do ustawy – Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej,
-- **2)** w przypadku inwestycji, o których mowa w pkt II wykazu określonego w załączniku do ustawy – podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa w podmiocie, o którym mowa w art. 1 ust. 2 pkt 2 lit. b podając przyczyny zwłoki i wskazując nowy termin załatwienia sprawy.
+- **2)** w przypadku inwestycji, o których mowa w pkt II wykazu określonego w załączniku do ustawy – podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa w podmiocie, o którym mowa w art. 1 ust. 2 pkt 2 lit. b – podając przyczyny zwłoki i wskazując nowy termin załatwienia sprawy.
 
 8. O każdym przypadku nierozpatrzenia w terminie odwołania od decyzji, o której mowa w ust. 1, organ właściwy do rozpatrzenia sprawy zawiadamia strony postępowania i ministra właściwego do spraw środowiska oraz:
 
 - **1)** w przypadku inwestycji, o których mowa w pkt I i III wykazu określonego w załączniku do ustawy – Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej,
-- **2)** w przypadku inwestycji, o których mowa w pkt II wykazu określonego w załączniku do ustawy – podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa w podmiocie, o którym mowa w art. 1 ust. 2 pkt 2 lit. b podając przyczyny zwłoki i wskazując nowy termin załatwienia sprawy.
+- **2)** w przypadku inwestycji, o których mowa w pkt II wykazu określonego w załączniku do ustawy – podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa w podmiocie, o którym mowa w art. 1 ust. 2 pkt 2 lit. b – podając przyczyny zwłoki i wskazując nowy termin załatwienia sprawy.
 
 **Art. 22.**
 
@@ -457,9 +465,9 @@ Art. 41–46.
 **Art. 25.** Do wydania warunków przyłączenia do sieci, o których mowa w art. 7 ust. 3a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, nie jest wymagane posiadanie przez inwestora tytułu prawnego do korzystania z nieruchomości, do których paliwa gazowe lub energia mają być dostarczane. Przepisu art. 7 ust. 8d ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne nie stosuje się. 1. W przypadku strategicznej inwestycji w sektorze naftowym uprawnienie, o którym mowa w art. 15 ust. 1 pkt 2 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, wygasa z upływem 5 lat od dnia doręczenia decyzji zatwierdzającej dokumentację geologiczną złoża kopaliny. Przepisy art. 15 ust. 3 i 4 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze stosuje się odpowiednio. 2. W przypadku strategicznej inwestycji w sektorze naftowym uprawnienie, o którym mowa w art. 99 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, wygasa z upływem 5 lat od dnia doręczenia decyzji zatwierdzającej dokumentację geologiczną złoża kopaliny. Przepis art. 99 ust. 4 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze stosuje się odpowiednio. W przypadku strategicznej inwestycji w sektorze naftowym, jeżeli inwestor nie uzyska koncesji na:
 
 - **1)** wydobywanie soli kamiennej ze złoża metodą otworową,
-- **2)** podziemne bezzbiornikowe magazynowanie substancji umowa o ustanowieniu użytkowania górniczego wygasa w terminie 2 lat od dnia zawarcia.
+- **2)** podziemne bezzbiornikowe magazynowanie substancji – umowa o ustanowieniu użytkowania górniczego wygasa w terminie 2 lat od dnia zawarcia.
 
-#### Rozdział 3 Nabywanie tytułu prawnego do nieruchomości i realizacja strategicznej inwestycji w sektorze naftowym
+#### Rozdział 3
 
 **Art. 26.**
 
@@ -591,7 +599,7 @@ Art. 41–46.
 
 **Art. 34.** W sprawach nieuregulowanych w niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, przy czym ilekroć w przepisach tej ustawy mowa jest o decyzji o ustaleniu lokalizacji inwestycji celu publicznego, rozumie się przez to także decyzję o ustaleniu lokalizacji strategicznej inwestycji w sektorze naftowym.
 
-#### Rozdział 4 Postępowanie administracyjne dla realizacji strategicznych inwestycji w sektorze naftowym
+#### Rozdział 4
 
 **Art. 35.**
 
@@ -617,22 +625,22 @@ Art. 41–46.
     - **a)**
     - **b)**
 
-- **2)** w art. 18 ust. 1 i art. 19 ust. 1, organ właściwy do rozpatrzenia sprawy zawiadamia Głównego Inspektora Nadzoru Budowlanego podając przyczyny zwłoki i wskazując nowy termin załatwienia sprawy.
+- **2)** w art. 18 ust. 1 i art. 19 ust. 1, organ właściwy do rozpatrzenia sprawy zawiadamia Głównego Inspektora Nadzoru Budowlanego – podając przyczyny zwłoki i wskazując nowy termin załatwienia sprawy.
 
 9. O każdym przypadku nierozpatrzenia w terminie odwołania od decyzji, o której mowa w art. 3 ust. 1, minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zawiadamia strony postępowania oraz:
 
 - **1)** w przypadku inwestycji, o których mowa w pkt I i III wykazu określonego w załączniku do ustawy – Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej,
-- **2)** w przypadku inwestycji, o których mowa w pkt II wykazu określonego w załączniku do ustawy – podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa w podmiocie, o którym mowa w art. 1 ust. 2 pkt 2 lit. b podając przyczyny zwłoki i wskazując nowy termin załatwienia sprawy.
+- **2)** w przypadku inwestycji, o których mowa w pkt II wykazu określonego w załączniku do ustawy – podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa w podmiocie, o którym mowa w art. 1 ust. 2 pkt 2 lit. b – podając przyczyny zwłoki i wskazując nowy termin załatwienia sprawy.
 
 10. O każdym przypadku niewydania w terminie decyzji, o której mowa w art. 24a ust. 1, organ właściwy do rozpatrzenia sprawy zawiadamia strony postępowania, organ wyższego stopnia oraz:
 
 - **1)** w przypadku inwestycji, o których mowa w pkt I i III wykazu określonego w załączniku do ustawy – Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej,
-- **2)** w przypadku inwestycji, o których mowa w pkt II wykazu określonego w załączniku do ustawy – podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa w podmiocie, o którym mowa w art. 1 ust. 2 pkt 2 lit. b podając przyczyny zwłoki i wskazując nowy termin załatwienia sprawy.
+- **2)** w przypadku inwestycji, o których mowa w pkt II wykazu określonego w załączniku do ustawy – podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa w podmiocie, o którym mowa w art. 1 ust. 2 pkt 2 lit. b – podając przyczyny zwłoki i wskazując nowy termin załatwienia sprawy.
 
 11. O każdym przypadku nierozpatrzenia w terminie odwołania od decyzji, o której mowa w art. 24a ust. 1, organ właściwy do rozpatrzenia sprawy zawiadamia strony postępowania oraz:
 
 - **1)** w przypadku inwestycji, o których mowa w pkt I i III wykazu określonego w załączniku do ustawy – Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej,
-- **2)** w przypadku inwestycji, o których mowa w pkt II wykazu określonego w załączniku do ustawy – podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa w podmiocie, o którym mowa w art. 1 ust. 2 pkt 2 lit. b podając przyczyny zwłoki i wskazując nowy termin załatwienia sprawy.
+- **2)** w przypadku inwestycji, o których mowa w pkt II wykazu określonego w załączniku do ustawy – podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa w podmiocie, o którym mowa w art. 1 ust. 2 pkt 2 lit. b – podając przyczyny zwłoki i wskazując nowy termin załatwienia sprawy.
 
 12. Przepisu ust. 10 w zakresie, w jakim przewiduje obowiązek zawiadamiania organu wyższego stopnia, nie stosuje się, jeżeli organem pierwszej instancji jest minister.
 
@@ -680,7 +688,7 @@ Art. 41–46.
 
 **Art. 40.** Wojewoda jest organem egzekucyjnym prowadzącym egzekucję obowiązków o charakterze niepieniężnym wynikających z decyzji, o których mowa w art. 3 ust. 1, art. 18 ust. 1, art. 22 ust. 1, art. 31 ust. 3 i art. 32 ust. 2.
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
+#### Rozdział 5
 
 **Art. 47.**
 
@@ -688,7 +696,7 @@ Art. 41–46.
 
 - **1)** pozwolenia na budowę strategicznej inwestycji w sektorze naftowym w trybie niniejszej ustawy;
 - **2)** decyzji o ustaleniu lokalizacji strategicznej inwestycji w sektorze naftowym w trybie niniejszej ustawy, z zastrzeżeniem że w takim przypadku do wniosku, o którym mowa w art. 4 ust. 1, nie stosuje się przepisów art. 4 ust. 3 pkt 1, 4, 5, 7, 10 i 12;
-- **3)** decyzji o ustaleniu lokalizacji strategicznej inwestycji w sektorze naftowym w trybie niniejszej ustawy, w zakresie skutków, o których mowa w art. 26 lub art. 30 ust. 1, z zastrzeżeniem że w takim przypadku: wniosek, o którym mowa w art. 4 ust. 1, zawiera dane określone w art. 4 ust. 1 pkt 7–13 i 15, do wniosku, o którym mowa w art. 4 ust. 1, nie stosuje się przepisów art. 4 ust. 3 pkt 1–10 oraz 12–16 z uwzględnieniem ust. 2.
+- **3)** decyzji o ustaleniu lokalizacji strategicznej inwestycji w sektorze naftowym w trybie niniejszej ustawy, w zakresie skutków, o których mowa w art. 26 lub art. 30 ust. 1, z zastrzeżeniem że w takim przypadku: wniosek, o którym mowa w art. 4 ust. 1, zawiera dane określone w art. 4 ust. 1 pkt 7–13 i 15, do wniosku, o którym mowa w art. 4 ust. 1, nie stosuje się przepisów art. 4 ust. 3 pkt 1–10 oraz 12–16 – z uwzględnieniem ust. 2.
     - **a)**
     - **b)**
 
@@ -696,17 +704,15 @@ Art. 41–46.
 
 3. Z dniem, w którym decyzja o ustaleniu lokalizacji strategicznej inwestycji w sektorze naftowym wydana na podstawie wniosku, o którym mowa w art. 4 ust. 1, w przypadku, o którym mowa w ust. 1 pkt 2 lub 3, stała się ostateczna, wydane inwestorowi decyzje o lokalizacji lub przebudowie zjazdu, decyzje o lokalizacji w pasie drogowym obiektów budowlanych lub urządzeń niezwiązanych z potrzebami zarządzania drogami lub potrzebami ruchu drogowego, o których mowa w ust. 2, wygasają w zakresie, w jakim decyzja o ustaleniu lokalizacji strategicznej inwestycji w sektorze naftowym wydana na podstawie tego wniosku obejmuje skutek, o którym mowa w art. 30 ust. 1, wobec gruntów stanowiących pas drogowy.
 
-**Art. 48.** Do postępowań w sprawach dotyczących strategicznej inwestycji w sektorze naftowym oraz inwestycji w zakresie terminalu i inwestycji towarzyszących, o których mowa odpowiednio w art. 2 ust. 2 i art. 38 ustawy zmienianej w art. 43, wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy decyzją ostateczną, stosuje się przepisy dotychczasowe.
-
-**Art. 49.** Do postępowań w sprawie wyrażenia zgody przez ministra właściwego do spraw gospodarki surowcami energetycznymi na wydanie pozwolenia na budowę lub rozbiórkę obiektu budowlanego – w przypadku budowy gazociągu przesyłowego, gazociągu o zasięgu krajowym lub jeżeli budowa ta wynika z umów międzynarodowych, wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 41, w brzmieniu dotychczasowym.
+**Art. 48.** Do postępowań w sprawach dotyczących strategicznej inwestycji w sektorze naftowym oraz inwestycji w zakresie terminalu i inwestycji towarzyszących, o których mowa odpowiednio w art. 2 ust. 2 i art. 38 ustawy zmienianej w art. 43Artykuł 43 zawiera zmiany do ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu., wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy decyzją ostateczną, stosuje się przepisy dotychczasowe. Art. 49Ze zmianą wprowadzoną przez art. 48 pkt 4 ustawy, o której mowa w odnośniku 1.. Do postępowań w sprawie wyrażenia zgody przez ministra właściwego do spraw gospodarki surowcami energetycznymi na wydanie pozwolenia na budowę lub rozbiórkę obiektu budowlanego – w przypadku budowy gazociągu przesyłowego, gazociągu o zasięgu krajowym lub jeżeli budowa ta wynika z umów międzynarodowych, wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 41Artykuł 41 zawiera zmiany do ustawy z dnia 7 lipca 1994 r. – Prawo budowlane., w brzmieniu dotychczasowym.
 
 **Art. 50.**
 
-1. Do postępowań w sprawie wydania decyzji o środowiskowych uwarunkowaniach, wydawanych dla strategicznej inwestycji w sektorze naftowym, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy decyzją ostateczną, stosuje się przepisy niniejszej ustawy i ustawy zmienianej w art. 42, w brzmieniu nadanym niniejszą ustawą, z tym że termin na wydanie takiej decyzji wynosi 45 dni od dnia wejścia w życie niniejszej ustawy.
+1. Do postępowań w sprawie wydania decyzji o środowiskowych uwarunkowaniach, wydawanych dla strategicznej inwestycji w sektorze naftowym, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy decyzją ostateczną, stosuje się przepisy niniejszej ustawy i ustawy zmienianej w art. 42Artykuł 42 zawiera zmiany do ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko., w brzmieniu nadanym niniejszą ustawą, z tym że termin na wydanie takiej decyzji wynosi 45 dni od dnia wejścia w życie niniejszej ustawy.
 
-2. Do postępowań w sprawie odwołania od decyzji o środowiskowych uwarunkowaniach wydanej dla strategicznej inwestycji w sektorze naftowym, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy decyzją ostateczną, stosuje się przepisy niniejszej ustawy i ustawy zmienianej w art. 42, z tym że termin na rozpatrzenie przez organ wyższego stopnia odwołania wynosi 45 dni od dnia wejścia w życie niniejszej ustawy.
+2. Do postępowań w sprawie odwołania od decyzji o środowiskowych uwarunkowaniach wydanej dla strategicznej inwestycji w sektorze naftowym, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy decyzją ostateczną, stosuje się przepisy niniejszej ustawy i ustawy zmienianej w art. 42Artykuł 42 zawiera zmiany do ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko., z tym że termin na rozpatrzenie przez organ wyższego stopnia odwołania wynosi 45 dni od dnia wejścia w życie niniejszej ustawy.
 
-3. Umarza się wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy decyzją ostateczną postępowania w sprawie wydania decyzji o środowiskowych uwarunkowaniach strategicznej inwestycji w sektorze naftowym, jeżeli zmiana decyzji o ustaleniu lokalizacji strategicznej inwestycji w sektorze naftowym lub decyzji, o której mowa w art. 18 ust. 1, nie powoduje zmian, o których mowa w art. 72 ust. 2 pkt 1c ustawy zmienianej w art. 42.
+3. Umarza się wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy decyzją ostateczną postępowania w sprawie wydania decyzji o środowiskowych uwarunkowaniach strategicznej inwestycji w sektorze naftowym, jeżeli zmiana decyzji o ustaleniu lokalizacji strategicznej inwestycji w sektorze naftowym lub decyzji, o której mowa w art. 18 ust. 1, nie powoduje zmian, o których mowa w art. 72 ust. 2 pkt 1c ustawy zmienianej w art. 42Artykuł 42 zawiera zmiany do ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko..
 
 **Art. 51.**
 
@@ -729,19 +735,7 @@ Art. 41–46.
 
 4. W przypadku gdy wielkość wydatków w poszczególnych miesiącach zgodna jest z planem finansowym, przepisu ust. 3 nie stosuje się.
 
-**Art. 52.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-
-- **1)** Ze zmianą wprowadzoną przez art. 48 pkt 1 lit. a ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r. 2) Ze zmianą wprowadzoną przez art. 48 pkt 1 lit. b ustawy, o której mowa w odnośniku 1. 3) Ze zmianą wprowadzoną przez art. 48 pkt 2 ustawy, o której mowa w odnośniku 1. 4) Ze zmianą wprowadzoną przez art. 48 pkt 3 ustawy, o której mowa w odnośniku 1. 5) Artykuł 43 zawiera zmiany do ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu. 6) Ze zmianą wprowadzoną przez art. 48 pkt 4 ustawy, o której mowa w odnośniku 1. 7) Artykuł 41 zawiera zmiany do ustawy z dnia 7 lipca 1994 r. – Prawo budowlane. 8) Artykuł 42 zawiera zmiany do ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko. 9) Ustawa została ogłoszona w dniu 3 kwietnia 2019 r. Załącznik – Wykaz strategicznych inwestycji w sektorze naftowym I. Wykaz strategicznych inwestycji w sektorze naftowym realizowanych przez inwestora, o którym mowa w art. 1 ust. 2 pkt 2 lit. a ustawy
-
-1. Budowa rurociągu ropy naftowej Gdańsk – Płock wraz z infrastrukturą niezbędną do jego obsługi.
-
-2. Budowa rurociągów ropy naftowej lub produktów naftowych w celu zmiany przebiegu trasy istniejących rurociągów ropy naftowej lub produktów naftowych, do których inwestor, o którym mowa w art. 1 ust. 2 pkt 2 lit. a, posiada tytuł własności lub inny tytuł prawny uprawniający do realizacji tych inwestycji, albo ich odbudowa, rozbudowa, przebudowa, remont, rozbiórka lub zmiana sposobu użytkowania wraz z infrastrukturą niezbędną do ich obsługi.
-
-3. Budowa rurociągu produktów naftowych Boronów – Trzebinia wraz z infrastrukturą niezbędną do jego obsługi.
-
-4. Budowa rurociągu produktów naftowych Podziemny Magazyn Ropy i Paliw Góra – Wielowieś wraz z infrastrukturą niezbędną do jego obsługi.
-
-5. Budowa rurociągu gazu płynnego (LPG) Port Gdynia – Dębogórze – Kosakowo wraz z infrastrukturą niezbędną do jego obsługi. II. Wykaz strategicznych inwestycji w sektorze naftowym realizowanych przez inwestora, o którym mowa w art. 1 ust. 2 pkt 2 lit. b lub c ustawy Inwestycje mające na celu dostosowanie Podziemnego Magazynu Ropy i Paliw Góra w Górze (gmina Inowrocław) do wymagań dostępności fizycznej zgromadzonych w tym magazynie zapasów interwencyjnych, określonej w art. 3 ust. 12 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, obejmujące:
+**Art. 52.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 3 kwietnia 2019 r.. 1) Ze zmianą wprowadzoną przez art. 48 pkt 1 lit. a ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r. 2) Ze zmianą wprowadzoną przez art. 48 pkt 1 lit. b ustawy, o której mowa w odnośniku 1. 3) Ze zmianą wprowadzoną przez art. 48 pkt 2 ustawy, o której mowa w odnośniku 1. 4) Ze zmianą wprowadzoną przez art. 48 pkt 3 ustawy, o której mowa w odnośniku 1. 5) Artykuł 43 zawiera zmiany do ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu. 6) Ze zmianą wprowadzoną przez art. 48 pkt 4 ustawy, o której mowa w odnośniku 1. 7) Artykuł 41 zawiera zmiany do ustawy z dnia 7 lipca 1994 r. – Prawo budowlane. 8) Artykuł 42 zawiera zmiany do ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko. 9) Ustawa została ogłoszona w dniu 3 kwietnia 2019 r. Załącznik – Wykaz strategicznych inwestycji w sektorze naftowym I. Wykaz strategicznych inwestycji w sektorze naftowym realizowanych przez inwestora, o którym mowa w art. 1 ust. 2 pkt 2 lit. a ustawy 1. Budowa rurociągu ropy naftowej Gdańsk – Płock wraz z infrastrukturą niezbędną do jego obsługi. 2. Budowa rurociągów ropy naftowej lub produktów naftowych w celu zmiany przebiegu trasy istniejących rurociągów ropy naftowej lub produktów naftowych, do których inwestor, o którym mowa w art. 1 ust. 2 pkt 2 lit. a, posiada tytuł własności lub inny tytuł prawny uprawniający do realizacji tych inwestycji, albo ich odbudowa, rozbudowa, przebudowa, remont, rozbiórka lub zmiana sposobu użytkowania wraz z infrastrukturą niezbędną do ich obsługi. 3. Budowa rurociągu produktów naftowych Boronów – Trzebinia wraz z infrastrukturą niezbędną do jego obsługi. 4. Budowa rurociągu produktów naftowych Podziemny Magazyn Ropy i Paliw Góra – Wielowieś wraz z infrastrukturą niezbędną do jego obsługi. 5. Budowa rurociągu gazu płynnego (LPG) Port Gdynia – Dębogórze – Kosakowo wraz z infrastrukturą niezbędną do jego obsługi. II. Wykaz strategicznych inwestycji w sektorze naftowym realizowanych przez inwestora, o którym mowa w art. 1 ust. 2 pkt 2 lit. b lub c ustawy Inwestycje mające na celu dostosowanie Podziemnego Magazynu Ropy i Paliw Góra w Górze (gmina Inowrocław) do wymagań dostępności fizycznej zgromadzonych w tym magazynie zapasów interwencyjnych, określonej w art. 3 ust. 12 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, obejmujące:
 
 - **1)** rozbudowę lub przebudowę bezzbiornikowych pojemności przeznaczonych do magazynowania ropy naftowej lub produktów naftowych wykorzystywanych jako magazyn, o którym mowa w art. 2 ust. 1 pkt 30 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, w Górze wraz z infrastrukturą niezbędną do ich obsługi, w tym: budowę rurociągu solanki Janikowo – Góra, budowę rurociągu solanki Mątwy – Janikowo, budowę rurociągu solanki Przyjma – Janikowo, rozbudowę lub przebudowę rurociągu wody technologicznej Wójcin Przyjma, wykonanie otworów eksploatacyjnych w Kopalni Soli Góra i Kopalni Soli Mogilno, rozbudowę lub przebudowę naziemnej infrastruktury technicznej, budowę rurociągu produktów naftowych Góra – Wielowieś, rozbudowę lub przebudowę rurociągu ropy naftowej Góra – Żółwieniec;
     - **a)**

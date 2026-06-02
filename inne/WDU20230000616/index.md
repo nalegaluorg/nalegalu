@@ -26,22 +26,53 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000616) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/616/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Bezpieczeństwo imprez masowych Rozdział 3 – Bezpieczeństwo meczu piłki nożnej Rozdział 4 – Służby porządkowe i służby informacyjne Rozdział 5 – Zezwolenia na przeprowadzenie imprezy masowej Rozdział 6 – Kontrola bezpieczeństwa imprezy masowej Rozdział 7 – Zasady przetwarzania informacji, w tym danych osobowych, dotyczących bezpieczeństwa imprezy masowej Rozdział 8 – Odpowiedzialność za szkodę w związku z zabezpieczeniem imprezy masowej Rozdział 9 – Przepisy karne Rozdział 9a Rozdział 10 – Zmiany w przepisach, przepisy epizodyczne, przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2022 r. poz. 1466), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 lutego 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 409 i art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 409 i art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), które stanowią: „
+Przepisy ogólne
+Bezpieczeństwo imprez masowych
+Bezpieczeństwo meczu piłki nożnej
+Służby porządkowe i służby informacyjne
+Zezwolenia na przeprowadzenie imprezy masowej
+Kontrola bezpieczeństwa imprezy masowej
+Zasady przetwarzania informacji, w tym danych osobowych, dotyczących bezpieczeństwa imprezy masowej
+Odpowiedzialność za szkodę w związku z zabezpieczeniem imprezy masowej
+Przepisy karne
 (utracił moc)
+Zmiany w przepisach, przepisy epizodyczne, przejściowe i końcowe
 Art. 69–77.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Bezpieczeństwo imprez masowych
+
+#### Rozdział 3 – Bezpieczeństwo meczu piłki nożnej
+
+#### Rozdział 4 – Służby porządkowe i służby informacyjne
+
+#### Rozdział 5 – Zezwolenia na przeprowadzenie imprezy masowej
+
+#### Rozdział 6 – Kontrola bezpieczeństwa imprezy masowej
+
+#### Rozdział 7 – Zasady przetwarzania informacji, w tym danych osobowych, dotyczących bezpieczeństwa imprezy masowej
+
+#### Rozdział 8 – Odpowiedzialność za szkodę w związku z zabezpieczeniem imprezy masowej
+
+#### Rozdział 9 – Przepisy karne
+
+#### Rozdział 9a
+
+#### Rozdział 10 – Zmiany w przepisach, przepisy epizodyczne, przejściowe i końcowe
 
 **Art. 409.** Do orzeczeń zobowiązujących do powstrzymania się od przebywania w miejscach przeprowadzania imprez masowych wydanych przed dniem wejścia w życie niniejszej ustawy wobec nieletniego na podstawie art. 6 pkt 2 ustawy uchylanej w art. 416 stosuje się przepisy ustawy zmienianej w art. 384 w brzmieniu dotychczasowym. ” „
 
 **Art. 417.** Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa:
 
@@ -51,11 +82,11 @@ Art. 69–77.
 - **4)** zasady przetwarzania informacji dotyczących bezpieczeństwa imprez masowych, w tym danych osobowych;
 - **5)** zasady odpowiedzialności organizatorów za szkody wyrządzone w związku ze zorganizowaniem imprez masowych.
 
-**Art. 2.** Przepisów ustawy nie stosuje się do nieodpłatnych imprez masowych organizowanych na terenach zamkniętych będących w trwałym zarządzie jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez: Ministra Obrony Narodowej, Ministra Sprawiedliwości oraz ministrów właściwych: do spraw wewnętrznych, do spraw oświaty i wychowania, do spraw szkolnictwa wyższego  oraz do spraw kultury fizycznej, jeżeli jednostki te są organizatorami imprezy masowej w rozumieniu niniejszej ustawy.
+**Art. 2.** Przepisów ustawy nie stosuje się do nieodpłatnych imprez masowych organizowanych na terenach zamkniętych będących w trwałym zarządzie jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez: Ministra Obrony Narodowej, Ministra Sprawiedliwości oraz ministrów właściwych: do spraw wewnętrznych, do spraw oświaty i wychowania, do spraw szkolnictwa wyższego Obecnie do spraw szkolnictwa wyższego i nauki, na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. oraz do spraw kultury fizycznej, jeżeli jednostki te są organizatorami imprezy masowej w rozumieniu niniejszej ustawy.
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
-- **1)** imprezie masowej – należy przez to rozumieć imprezę masową artystyczno-rozrywkową, masową imprezę sportową, w tym mecz piłki nożnej, o których mowa w pkt 2–4, z wyjątkiem imprez: organizowanych w teatrach, operach, operetkach, filharmoniach, kinach, muzeach, bibliotekach, domach kultury i galeriach sztuki lub w innych podobnych obiektach, organizowanych w szkołach i placówkach oświatowych przez zarządzających tymi szkołami i placówkami, organizowanych w ramach współzawodnictwa sportowego dzieci i młodzieży, sportowych organizowanych dla sportowców niepełnosprawnych, sportu powszechnego o charakterze rekreacji ruchowej, ogólnodostępnym i nieodpłatnym, organizowanych na terenie otwartym, zamkniętych organizowanych przez pracodawców dla ich pracowników, o których mowa w art. 34 ust. 2 ustawy z dnia 17 grudnia 2021 r. oochotniczych strażach pożarnych (Dz. U. z 2023 r. poz. 194) jeżeli rodzaj imprezy odpowiada przeznaczeniu obiektu lub terenu, gdzie ma się ona odbyć;
+- **1)** imprezie masowej – należy przez to rozumieć imprezę masową artystyczno-rozrywkową, masową imprezę sportową, w tym mecz piłki nożnej, o których mowa w pkt 2–4, z wyjątkiem imprez: organizowanych w teatrach, operach, operetkach, filharmoniach, kinach, muzeach, bibliotekach, domach kultury i galeriach sztuki lub w innych podobnych obiektach, organizowanych w szkołach i placówkach oświatowych przez zarządzających tymi szkołami i placówkami, organizowanych w ramach współzawodnictwa sportowego dzieci i młodzieży, sportowych organizowanych dla sportowców niepełnosprawnych, sportu powszechnego o charakterze rekreacji ruchowej, ogólnodostępnym i nieodpłatnym, organizowanych na terenie otwartym, zamkniętych organizowanych przez pracodawców dla ich pracowników, o których mowa w art. 34 ust. 2 ustawy z dnia 17 grudnia 2021 r. oochotniczych strażach pożarnych (Dz. U. z 2023 r. poz. 194) – jeżeli rodzaj imprezy odpowiada przeznaczeniu obiektu lub terenu, gdzie ma się ona odbyć;
     - **a)**
     - **b)**
     - **c)**
@@ -83,7 +114,7 @@ Art. 69–77.
 - **12)** służbie informacyjnej – należy przez to rozumieć osoby podlegające kierownikowi do spraw bezpieczeństwa, wyznaczone przez organizatora, w tym spikera zawodów sportowych;
 - **13)** służbie porządkowej – należy przez to rozumieć osoby podlegające kierownikowi do spraw bezpieczeństwa, wyznaczone przez organizatora, wpisane na listę kwalifikowanych pracowników ochrony fizycznej, o której mowa w art. 26 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2021 r. poz. 1995);
 - **14)** terenie umożliwiającym przeprowadzenie imprezy masowej – należy przez to rozumieć wydzielony, odpowiednio oznaczony teren na otwartej przestrzeni, spełniający warunki higieniczno-sanitarne odpowiadające wymaganiom przewidzianym prawem oraz posiadający infrastrukturę zapewniającą bezpieczne przeprowadzenie imprezy masowej, na którym do określenia liczby miejsc przyjmuje się przelicznik 0,5 m2na osobę;
-- **15)** terenie zamkniętym – należy przez to rozumieć teren zamknięty w rozumieniu przepisów prawa budowlanego lub teren będący w trwałym zarządzie jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez: Ministra Obrony Narodowej, Ministra Sprawiedliwości oraz ministrów właściwych: do spraw wewnętrznych, do spraw oświaty i wychowania, do spraw szkolnictwa wyższego  oraz do spraw kultury fizycznej;
+- **15)** terenie zamkniętym – należy przez to rozumieć teren zamknięty w rozumieniu przepisów prawa budowlanego lub teren będący w trwałym zarządzie jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez: Ministra Obrony Narodowej, Ministra Sprawiedliwości oraz ministrów właściwych: do spraw wewnętrznych, do spraw oświaty i wychowania, do spraw szkolnictwa wyższego Obecnie do spraw szkolnictwa wyższego i nauki, na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. oraz do spraw kultury fizycznej;
 - **16)** zabezpieczeniu imprezy masowej – należy przez to rozumieć ogół skoordynowanych przedsięwzięć podejmowanych w celu zapewnienia bezpieczeństwa i porządku publicznego w związku z imprezą masową;
 - **17)** zakazie zagranicznym – należy przez to rozumieć zakaz stadionowy, nałożony przez uprawnione do tego podmioty innych państw, o którym informację przekazano Komendantowi Głównemu Policji;
 - **18)** zezwoleniu – należy przez to rozumieć zezwolenie na przeprowadzenie imprezy masowej wydane, w drodze decyzji, przez wójta, burmistrza albo prezydenta miasta właściwych ze względu na miejsce przeprowadzenia imprezy masowej;
@@ -91,7 +122,7 @@ Art. 69–77.
 
 **Art. 4.** Postępowanie w sprawach określonych w ustawie, z wyłączeniem art. 14, prowadzi się zgodnie z przepisami ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185), jeżeli przepisy ustawy nie stanowią inaczej.
 
-#### Rozdział 2 Bezpieczeństwo imprez masowych
+#### Rozdział 2
 
 **Art. 5.**
 
@@ -211,7 +242,7 @@ Art. 69–77.
 
 2. Przepisy art. 11 ust. 6–8 i 10 stosuje się odpowiednio. Minister właściwy do spraw kultury fizycznej może dofinansowywać programy edukacyjne, informacyjne i szkoleniowe na rzecz poprawy stanu bezpieczeństwa masowych imprez sportowych oraz zwalczania negatywnych zjawisk w sporcie.
 
-#### Rozdział 3 Bezpieczeństwo meczu piłki nożnej
+#### Rozdział 3
 
 **Art. 13.**
 
@@ -252,13 +283,13 @@ Art. 69–77.
 
 - **1)** dane osobowe określone w ust. 4,
 - **2)** dane osobowe, o których mowa w art. 22 ust. 1 pkt 1 lit. a-c,
-- **3)** informacje o zastosowanych zakazach, w tym przekazane przez organizatorów imprez masowych w zakresie, w jakim te informacje, w tym dane osobowe, dotyczą uczestników meczów piłki nożnej rozgrywanych w ramach najwyższej ligowej klasy rozgrywkowej rywalizacji mężczyzn.
+- **3)** informacje o zastosowanych zakazach, w tym przekazane przez organizatorów imprez masowych – w zakresie, w jakim te informacje, w tym dane osobowe, dotyczą uczestników meczów piłki nożnej rozgrywanych w ramach najwyższej ligowej klasy rozgrywkowej rywalizacji mężczyzn.
 
 9. Zakres informacji, w tym danych osobowych, przetwarzanych w systemie, o którym mowa w ust. 2a pkt 2, obejmuje:
 
 - **1)** dane osobowe określone w ust. 4,
 - **2)** dane osobowe, o których mowa w art. 22 ust. 1 pkt 1 lit. a-c,
-- **3)** informacje o zastosowanych zakazach, w tym przekazane przez organizatorów imprez masowych w zakresie, w jakim te informacje, w tym dane osobowe, dotyczą uczestników meczów piłki nożnej rozgrywanych w drugiej i trzeciej najwyższej ligowej klasie rozgrywkowej rywalizacji mężczyzn.
+- **3)** informacje o zastosowanych zakazach, w tym przekazane przez organizatorów imprez masowych – w zakresie, w jakim te informacje, w tym dane osobowe, dotyczą uczestników meczów piłki nożnej rozgrywanych w drugiej i trzeciej najwyższej ligowej klasie rozgrywkowej rywalizacji mężczyzn.
 
 10. Informacje, w tym dane osobowe, do systemów, o których mowa w ust. 2 i 2a, przekazują w zakresie swojej właściwości:
 
@@ -326,9 +357,8 @@ Art. 69–77.
 
 3. Organizator meczu piłki nożnej lub podmiot przez niego uprawniony do dystrybucji odmawia sprzedaży biletu wstępu lub innego dokumentu uprawniającego do przebywania na nim:
 
-- **1)** osobie, wobec której zostało wydane orzeczenie: zakazujące wstępu na imprezę masową, zobowiązujące do powstrzymania się od przebywania w miejscach przeprowadzania imprez masowych, wydane przez sąd wobec skazanego w związku z warunkowym zawieszeniem wykonania kary pozbawienia wolności albo wobec nieletniego na podstawie art. 7 pkt 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700);
+- **1)** osobie, wobec której zostało wydane orzeczenie: zakazujące wstępu na imprezę masową, bW brzmieniu ustalonym przez art. 384 pkt 1 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r.) zobowiązujące do powstrzymania się od przebywania w miejscach przeprowadzania imprez masowych, wydane przez sąd wobec skazanego w związku z warunkowym zawieszeniem wykonania kary pozbawienia wolności albo wobec nieletniego na podstawie art. 7 pkt 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700);
     - **a)**
-    - **b)**
 
 - **2)** osobie, wobec której zastosowano zakaz klubowy lub zakaz zagraniczny;
 - **3)** osobie, co do której zachodzi uzasadnione podejrzenie, że w miejscu i w czasie trwania imprezy masowej może stwarzać zagrożenie dla bezpieczeństwa imprezy masowej.
@@ -341,7 +371,7 @@ Art. 69–77.
 
 - **1)** zapełnianiu stadionu przez osoby uczestniczące w meczach piłki nożnej,
 - **2)** udogodnieniom w zakresie obsługi osób uczestniczących w meczach piłki nożnej,
-- **3)** przeprowadzaniu transmisji telewizyjnych z meczów piłki nożnej przy zachowaniu zasad bezpieczeństwa określonych w uzgodnieniach, o których mowa w ust. 1.
+- **3)** przeprowadzaniu transmisji telewizyjnych z meczów piłki nożnej – przy zachowaniu zasad bezpieczeństwa określonych w uzgodnieniach, o których mowa w ust. 1.
 
 3. Uzgadnianie projektów, o których mowa w ust. 1 i 2, nie narusza przepisów dotyczących uzgadniania pod względem ochrony przeciwpożarowej projektów budowlanych obiektów budowlanych.
 
@@ -349,7 +379,7 @@ Art. 69–77.
 
 - **1)** rozwiązań technicznych pozwalających na kierowanie przepływem i kontrolę osób uczestniczących w meczach piłki nożnej,
 - **2)** wprowadzenia identyfikacji osób uczestniczących w meczach piłki nożnej,
-- **3)** ich wyposażenia w infrastrukturę obejmującą, w szczególności zintegrowane stanowiska dowodzenia, sposób rozmieszczenia osób uczestniczących w meczu piłki nożnej, system kontroli wejść i wyjść, zaplecze parkingowe oraz węzły komunikacyjne uwzględniając konieczność zapewnienia bezpieczeństwa i sprawnego przebiegu imprez masowych oraz bezpieczeństwa osób w nich uczestniczących.
+- **3)** ich wyposażenia w infrastrukturę obejmującą, w szczególności zintegrowane stanowiska dowodzenia, sposób rozmieszczenia osób uczestniczących w meczu piłki nożnej, system kontroli wejść i wyjść, zaplecze parkingowe oraz węzły komunikacyjne – uwzględniając konieczność zapewnienia bezpieczeństwa i sprawnego przebiegu imprez masowych oraz bezpieczeństwa osób w nich uczestniczących.
 
 1. Organizator meczu piłki nożnej może udostępnić uczestnikom meczu piłki nożnej miejsca stojące pod warunkiem zachowania następujących zasad:
 
@@ -361,7 +391,7 @@ Art. 69–77.
 
 **Art. 18.** Przepisy niniejszego rozdziału stosuje się odpowiednio do organizacji masowych imprez sportowych podwyższonego ryzyka, z wyłączeniem art. 16a.
 
-#### Rozdział 4 Służby porządkowe i służby informacyjne
+#### Rozdział 4
 
 **Art. 19.**
 
@@ -410,7 +440,7 @@ Art. 69–77.
 
 1. Służby porządkowe są obowiązane:
 
-- **1)** odmówić wstępu na imprezę masową: osobie, wobec której zostało wydane orzeczenie: – zakazujące wstępu na imprezę masową, –  zobowiązujące do powstrzymania się od przebywania w miejscach przeprowadzania imprez masowych, wydane przez sąd wobec skazanego w związku z warunkowym zawieszeniem wykonania kary pozbawienia wolności albo wobec nieletniego na podstawie art. 7 pkt 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich, osobie, wobec której został wydany zakaz zagraniczny, osobie, wobec której został wydany zakaz klubowy, osobie odmawiającej poddania się czynnościom, o których mowa w art. 20 ust. 1 pkt 1–3, osobie znajdującej się pod widocznym wpływem alkoholu, środków odurzających, psychotropowych lub innych podobnie działających środków, osobie posiadającej broń lub inne przedmioty, materiały, wyroby, napoje, środki lub substancje, o których mowa w art. 8 ust. 2, osobie zachowującej się agresywnie, prowokacyjnie albo w inny sposób stwarzającej zagrożenie dla bezpieczeństwa lub porządku publicznego;
+- **1)** odmówić wstępu na imprezę masową: osobie, wobec której zostało wydane orzeczenie: – zakazujące wstępu na imprezę masową, – W brzmieniu ustalonym przez art. 384 pkt 2 ustawy, o której mowa w odnośniku 2. zobowiązujące do powstrzymania się od przebywania w miejscach przeprowadzania imprez masowych, wydane przez sąd wobec skazanego w związku z warunkowym zawieszeniem wykonania kary pozbawienia wolności albo wobec nieletniego na podstawie art. 7 pkt 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich, osobie, wobec której został wydany zakaz zagraniczny, osobie, wobec której został wydany zakaz klubowy, osobie odmawiającej poddania się czynnościom, o których mowa w art. 20 ust. 1 pkt 1–3, osobie znajdującej się pod widocznym wpływem alkoholu, środków odurzających, psychotropowych lub innych podobnie działających środków, osobie posiadającej broń lub inne przedmioty, materiały, wyroby, napoje, środki lub substancje, o których mowa w art. 8 ust. 2, osobie zachowującej się agresywnie, prowokacyjnie albo w inny sposób stwarzającej zagrożenie dla bezpieczeństwa lub porządku publicznego;
     - **a)**
     - **b)**
     - **c)**
@@ -448,9 +478,9 @@ Art. 69–77.
 - **2)** wyposażenie służb porządkowych i służb informacyjnych z uwzględnieniem rodzaju imprezy masowej i przewidywanych zagrożeń,
 - **3)** sposób i zakres sprawowania przez służby porządkowe i służby informacyjne kontroli uprawnień osób do uczestniczenia w imprezie masowej, w tym sposób legitymowania uczestników imprezy masowej oraz przeglądania ich bagaży i odzieży,
 - **4)** sposób postępowania służb porządkowych i służb informacyjnych w razie konieczności usunięcia osoby uczestniczącej w imprezie masowej zakłócającej porządek publiczny,
-- **5)** sposób dokumentowania przez służby porządkowe i służby informacyjne czynności podjętych w czasie wykonywania obowiązków mając na względzie zapewnienie właściwego wyszkolenia tych służb, ich wyposażenia i oznakowania oraz wykonywania obowiązków wynikających z niniejszej ustawy.
+- **5)** sposób dokumentowania przez służby porządkowe i służby informacyjne czynności podjętych w czasie wykonywania obowiązków – mając na względzie zapewnienie właściwego wyszkolenia tych służb, ich wyposażenia i oznakowania oraz wykonywania obowiązków wynikających z niniejszej ustawy.
 
-#### Rozdział 5 Zezwolenia na przeprowadzenie imprezy masowej
+#### Rozdział 5
 
 **Art. 24.** Organem wydającym zezwolenie na przeprowadzenie imprezy masowej, zwanym dalej „organem”, jest wójt, burmistrz lub prezydent miasta, właściwy ze względu na miejsce przeprowadzenia imprezy masowej.
 
@@ -516,7 +546,7 @@ Art. 69–77.
 
 **Art. 27.** Organ może zażądać od organizatora dodatkowej dokumentacji w postaci:
 
-- **1)** kopii aktualnych protokołów z kontroli, o których mowa w art. 62 ust. 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2021 r. poz. 2351, z późn. zm.);
+- **1)** kopii aktualnych protokołów z kontroli, o których mowa w art. 62 ust. 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2021 r. poz. 2351, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 88, 1557, 1768, 1783, 1846, 2206 i 2687.);
 - **2)** dokumentu poświadczającego spełnienie obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 53 ust. 1;
 - **3)** pisemnej zgody na przeprowadzenie imprezy masowej, wydanej przez kierownika jednostki organizacyjnej Lasów Państwowych, parku narodowego lub krajobrazowego – w razie przeprowadzania imprezy na terenach będących w zarządzie tej jednostki.
 
@@ -569,7 +599,7 @@ Art. 69–77.
 
 4. W przypadku zmiany terminu imprezy masowej mającej odbyć się jednorazowo lub według ustalonego terminarza, o którym mowa w art. 26 ust. 1 pkt 3, organizator na 7 dni przed terminem jej rozpoczęcia zawiadamia organ oraz podmioty, o których mowa w art. 25 ust. 1 pkt 2.
 
-#### Rozdział 6 Kontrola bezpieczeństwa imprezy masowej
+#### Rozdział 6
 
 **Art. 31.**
 
@@ -623,7 +653,7 @@ Art. 69–77.
 
 5. Decyzję doręcza się organizatorowi w terminie 7 dni od dnia przerwania imprezy masowej.
 
-#### Rozdział 7 Zasady przetwarzania informacji, w tym danych osobowych, dotyczących bezpieczeństwa imprezy masowej
+#### Rozdział 7
 
 **Art. 35.**
 
@@ -822,7 +852,7 @@ Art. 69–77.
 - **1)** zawody żużlowe;
 - **2)** hokej na lodzie.
 
-#### Rozdział 8 Odpowiedzialność za szkodę w związku z zabezpieczeniem imprezy masowej
+#### Rozdział 8
 
 **Art. 52.**
 
@@ -838,7 +868,7 @@ Art. 69–77.
 
 2. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw kultury fizycznej określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia, o którym mowa w ust. 1, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc pod uwagę charakter szkód mogących wystąpić w związku z imprezami masowymi.
 
-#### Rozdział 9 Przepisy karne
+#### Rozdział 9
 
 **Art. 54.**
 
@@ -913,7 +943,7 @@ Art. 69–77.
 
 #### Rozdział 9a
 
-#### Rozdział 10 Zmiany w przepisach, przepisy epizodyczne, przejściowe i końcowe
+#### Rozdział 10
 
 **Art. 77a.** (utracił moc) Od dnia wejścia w życie niniejszego przepisu do dnia 30 czerwca 2019 r. w odniesieniu do meczów turnieju FIFA U20 Mistrzostwa Świata Polska 2019 nie stosuje się przepisów art. 15 ust. 1 i 2.
 
@@ -921,8 +951,5 @@ Art. 69–77.
 
 **Art. 79.** Traci moc ustawa z dnia 22 sierpnia 1997 r. o bezpieczeństwie imprez masowych (Dz. U. z 2005 r. poz. 909 oraz z 2007 r. poz. 663 i 665). Przepisy rozdziału 9a obowiązują do dnia 31 grudnia 2012 r.
 
-**Art. 80.** Ustawa wchodzi w życie z dniem 1 sierpnia 2009 r., z tym że art. 13 ust. 1 – w zakresie dotyczącym meczów piłki nożnej organizowanych poza ramami ligi zawodowej – wchodzi w życie z dniem 1 sierpnia 2010 r.
-
-- **1)** Obecnie do spraw szkolnictwa wyższego i nauki, na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. 2) W brzmieniu ustalonym przez art. 384 pkt 1 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r. 3) W brzmieniu ustalonym przez art. 384 pkt 2 ustawy, o której mowa w odnośniku 2. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 88, 1557, 1768, 1783, 1846, 2206 i 2687.
-
+**Art. 80.** Ustawa wchodzi w życie z dniem 1 sierpnia 2009 r., z tym że art. 13 ust. 1 – w zakresie dotyczącym meczów piłki nożnej organizowanych poza ramami ligi zawodowej – wchodzi w życie z dniem 1 sierpnia 2010 r. 1) Obecnie do spraw szkolnictwa wyższego i nauki, na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. 2) W brzmieniu ustalonym przez art. 384 pkt 1 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r. 3) W brzmieniu ustalonym przez art. 384 pkt 2 ustawy, o której mowa w odnośniku 2. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 88, 1557, 1768, 1783, 1846, 2206 i 2687.
 

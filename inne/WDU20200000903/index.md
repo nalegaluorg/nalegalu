@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000903) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/903/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 października 2002 r. w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia Rozdział 1 – Krajowe podróże służbowe Rozdział 2 – Zagraniczne podróże służbowe Rozdział 3 – Przeniesienia Rozdział 4 – Przepisy końcowe
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 października 2002 r. w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 31 października 2002 r. w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 1598), z uwzględnieniem zmian wprowadzonych:
@@ -43,37 +43,28 @@ rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 15 marca 20
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 26 lipca 2005 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 1282), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 26 lipca 2005 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 1282), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 marca 2009 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 386), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 marca 2009 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 386), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 3)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 19 września 2014 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 1284), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 19 września 2014 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 1284), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 9 października 2014 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 9 października 2014 r. ” ;
 4)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 stycznia 2018 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 245), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 stycznia 2018 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 245), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 5)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 15 marca 2019 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 523), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 15 marca 2019 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 523), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 1, który wchodzi w życie z dniem 5 kwietnia 2019 r.
-” .
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 października 2002 r. w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 1, który wchodzi w życie z dniem 5 kwietnia 2019 r. ” .
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 października 2002 r. w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesieniaMinister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 Na podstawie art. 113 ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2020 r. poz. 360) zarządza się, co następuje:
+Krajowe podróże służbowe
 § 1.
 1.
 W krajowej podróży służbowej termin i miejsce wykonywania przez policjanta czynności służbowych poza miejscowością stanowiącą siedzibę jednostki organizacyjnej Policji, w której policjant pełni służbę, zwaną dalej „stałym miejscem pełnienia służby”, określa polecenie wyjazdu służbowego.
@@ -161,7 +152,7 @@ Policjantowi, któremu w czasie krajowej podróży służbowej nie zapewniono be
 Ryczałt za nocleg przysługuje wówczas, gdy nocleg trwał co najmniej 6 godzin, przypadających w porze nocnej między godziną 2200a600.
 3.
 Zwrot kosztów noclegu lub ryczałt za nocleg nie przysługuje policjantowi:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 26 lipca 2005 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 1282), które weszło w życie z dniem 1 września 2005 r.)
 za czas przejazdu oraz za czas pobytu w stałym miejscu pełnienia służby, zamieszkania lub zameldowania na pobyt stały;
 2)
 w przypadku gdy z miejscowości stanowiącej cel podróży służbowej istnieje dogodne połączenie komunikacyjne, umożliwiające codzienny powrót do stałego miejsca pełnienia służby, miejscowości zamieszkania lub zameldowania na pobyt stały, a czas przejazdu w obie strony nie przekracza 2 godzin;
@@ -185,24 +176,25 @@ Rozliczenia kosztów i wypłaty należności z tytułu krajowej podróży służ
 Rozliczenia kosztów i wypłaty należności z tytułu krajowej podróży służbowej, wynikającej z delegowania, o którym mowa w § 9 pkt 1, dokonuje jednostka organizacyjna Policji, do której policjant został delegowany, jeżeli przełożony właściwy w sprawie delegowania, o którym mowa w art. 36 ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, nie postanowi inaczej.
 3.
 Rozliczenia kosztów, o którym mowa w ust. 1 i 2, dokonuje się na podstawie załączonych przez policjanta dokumentów (rachunki, bilety), potwierdzających wysokość poniesionych wydatków nieobjętych ryczałtami, oraz oświadczenia o okolicznościach mających wpływ na prawo do diet, ryczałtów lub zwrotu innych kosztów podróży bądź na ich wysokość.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Koszty przejazdu środkami publicznego transportu autobusowego lub kolejowego, z wyjątkiem przejazdu pociągami ekspresowymi, InterCity i EuroCity, a także wagonem sypialnym lub z miejscami do leżenia, nie wymagają udokumentowania biletami.
 5.
 Należności z tytułu krajowej podróży służbowej wypłaca się w terminie 14 dni od dnia przedłożenia przez policjanta dokumentów, o których mowa w ust. 3.
-§ 12.
+Zagraniczne podróże służbowe
+§ 12W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 marca 2009 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 386), które weszło w życie z dniem 8 kwietnia 2009 r..
 1.
 W zagranicznej podróży służbowej termin i miejsce wykonywania przez policjanta czynności służbowych poza granicami kraju określa polecenie odbycia zagranicznej podróży służbowej wydane przez:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 15 marca 2019 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 523), które weszło w życie z dniem 4 kwietnia 2019 r.; wszedł w życie z dniem 5 kwietnia 2019 r.)
 Komendanta Głównego Policji ‒ w stosunku do policjantów pełniących służbę w Komendzie Głównej Policji oraz w Centralnym Pododdziale Kontrterrorystycznym Policji „BOA”, Komendanta Centralnego Biura Śledczego Policji, Komendanta Biura Spraw Wewnętrznych Policji, komendantów wojewódzkich lub Komendanta Stołecznego Policji, Komendanta-Rektora Wyższej Szkoły Policji w Szczytnie i komendantów szkół policyjnych;
-1a)
+1aDodany przez § 1 pkt 1 lit. b rozporządzenia Ministra Spraw Wewnętrznych z dnia 19 września 2014 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 1284), które weszło w życie z dniem 9 października 2014 r.)
 Komendanta Centralnego Biura Śledczego Policji ‒ w stosunku do podległych policjantów;
-1b)
+1bDodany przez § 1 pkt 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 stycznia 2018 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 245), które weszło w życie z dniem 27 stycznia 2018 r.)
 Komendanta Biura Spraw Wewnętrznych Policji ‒ w stosunku do podległych policjantów;
 2)
 komendanta wojewódzkiego lub Komendanta Stołecznego Policji ‒ w stosunku do podległych policjantów;
 3)
 Komendanta-Rektora Wyższej Szkoły Policji w Szczytnie lub komendanta szkoły policyjnej ‒ w stosunku do podległych policjantów.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5..
 Jeżeli przemawiają za tym cel wyjazdu lub inne szczególne względy, polecenie odbycia zagranicznej podróży służbowej w stosunku do policjantów, o których mowa w ust. 1 pkt 1a‒3, może wydać bezpośrednio Komendant Główny Policji.
 3.
 Czas zagranicznej podróży służbowej liczy się:
@@ -253,7 +245,7 @@ obiad ‒ 30% diety;
 kolacja ‒ 30% diety.
 4.
 Za każdy dzień (dobę) pobytu w szpitalu lub innym zakładzie leczniczym za granicą policjantowi przysługuje 25% kwoty diety.
-§ 14a.
+§ 14aDodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Policjantowi odbywającemu zagraniczną podróż służbową w ramach współpracy przygranicznej, bez konieczności korzystania za granicą z noclegu, dieta, o której mowa w § 13 pkt 1, przysługuje w wysokości 25% stawek określonych w § 14 ust. 2.
 2.
@@ -289,7 +281,7 @@ Jeżeli zagraniczna podróż służbowa trwa ponad 30 dni lub gdy państwem doce
 § 21.
 1.
 W razie choroby policjantowi przysługuje zwrot kosztów leczenia za granicą, w tym leków.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Nie podlegają zwrotowi koszty:
 1)
 leczenia refundowane ze środków Narodowego Funduszu Zdrowia w ramach obowiązkowego ubezpieczenia zdrowotnego policjanta;
@@ -306,15 +298,16 @@ W razie zgonu policjanta za granicą, koszty transportu jego zwłok do kraju pok
 Policjant odbywający zagraniczną podróż służbową otrzymuje zaliczkę w walucie obcej na niezbędne koszty podróży i pobytu poza granicami kraju. Za jego zgodą zaliczka może być wypłacona w walucie polskiej, w wysokości stanowiącej równowartość zaliczki obliczonej w walucie obcej.
 2.
 Rozliczenia kosztów zagranicznej podróży służbowej dokonuje się w walucie otrzymanej zaliczki, w walucie wymienialnej albo w walucie polskiej, w terminie 14 dni od dnia zakończenia podróży.
-2a.
+2aDodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2..
 Jeżeli policjant odbywa zagraniczne podróże służbowe na warunkach określonych w § 14a stale lub cyklicznie, rozliczenia ich kosztów można dokonywać za okres miesięczny w terminie 14 dni po upływie każdego miesiąca.
 3.
 Do rozliczenia kosztów i wypłaty należności z tytułu zagranicznej podróży służbowej przepisy § 11 ust. 1, 3 i 5 stosuje się odpowiednio, z tym że:
 1)
 jeżeli uzyskanie dokumentu (rachunku) nie było możliwe, policjant załącza oświadczenie o dokonanym wydatku i przyczynach braku jego udokumentowania;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6.)
 w przypadkach, o których mowa w § 12 ust. 2, rozliczenia kosztów zagranicznej podróży służbowej dokonuje Komenda Główna Policji.
-§ 23.
+Przeniesienia
+§ 23W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Policjantowi przeniesionemu z urzędu do pełnienia służby w innej miejscowości, zwanej dalej „nowym miejscem pełnienia służby”, z tytułu przeniesienia przysługują:
 1)
@@ -347,7 +340,7 @@ korzysta w jakiejkolwiek formie z zakwaterowania.
 Policjantowi, który w związku z przeniesieniem z urzędu przesiedlił się bez rodziny lub w jakiejkolwiek innej formie korzysta z zakwaterowania poza dotychczasowym miejscem wspólnego zamieszkania, przysługuje płatny co miesiąc z dołu ryczałt na pokrycie kosztów jednokrotnego przejazdu w celu odwiedzenia rodziny i z powrotem, w wysokości ceny biletów za przejazd w klasie II pociągu pospiesznego, a gdy na danej trasie lub jej odcinku brak jest połączeń kolejowych ‒ w wysokości ceny biletów za przejazd środkiem publicznego transportu autobusowego.
 7.
 Przy ustalaniu wysokości należności, o których mowa w ust. 1 pkt 2 oraz ust. 2, 3 i 6, przepis § 5 ust. 2 stosuje się odpowiednio.
-§ 24.
+§ 24W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2..
 Wysokość należności, o których mowa w § 23 ust. 1 pkt 1 i 2, ustala się według stawek i cen obowiązujących w dniu przesiedlenia się policjanta. Przepisy § 4 ust. 1 i 2 oraz § 23 ust. 6 stosuje się odpowiednio.
 § 25.
 1.
@@ -360,10 +353,10 @@ a)
 przesiedlił się bez członków rodziny,
 b)
 nie posiada członków rodziny.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Przez uposażenie, o którym mowa w ust. 1, należy rozumieć miesięczne uposażenie zasadnicze wraz z dodatkami o charakterze stałym, przysługujące policjantowi w dniu jego przesiedlenia się, zwane dalej „uposażeniem”.
 3.
-(uchylony).
+(uchylony).Przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 4.
 Policjantowi, o którym mowa w ust. 1 pkt 2 lit. a, przysługuje wyrównanie do pełnej wysokości zasiłku po przesiedleniu się członków rodziny.
 § 26.
@@ -385,7 +378,7 @@ Należności, o których mowa w § 25 i 26, nie przysługują w razie przeniesie
 § 30.
 1.
 Należności, o których mowa w § 23‒28, wypłaca, na pisemny wniosek policjanta, jednostka organizacyjna Policji, do której został on przeniesiony, w terminie 30 dni od dnia złożenia wniosku.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2..
 Do pierwszego wniosku o wypłatę należności, o których mowa w § 23 ust. 2, 3 i 6, policjant załącza dokumenty potwierdzające miejsce jego zameldowania oraz oświadczenie o faktycznym miejscu zakwaterowania, a do każdego następnego tylko wówczas, gdy dane te uległy zmianie.
 3.
 Do wniosku o wypłatę należności, o których mowa w § 25 i 26, policjant załącza dokument potwierdzający fakt jego zameldowania w nowym miejscu zamieszkania, a w razie potrzeby ‒ małżonka i małoletnich dzieci pozostających we wspólnym gospodarstwie domowym bądź w dalszej kolejności innych członków rodziny, odpowiednio:
@@ -397,17 +390,25 @@ na pobyt czasowy powyżej dwóch miesięcy ‒ jeżeli wniosek dotyczy ryczałtu
 Policjantowi przeniesionemu do pełnienia służby w innej miejscowości na własną prośbę przełożony właściwy w sprawach osobowych może przyznać należności jak z tytułu przeniesienia z urzędu, w całości lub w części, jeżeli są spełnione pozostałe warunki wymagane do ich otrzymania i przemawiają za tym szczególne okoliczności. Przepis § 30 stosuje się odpowiednio.
 § 32.
 Przepisów § 23‒31 nie stosuje się do policjanta w służbie kandydackiej.
+Przepisy końcowe
 § 33.
 Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 6 lipca 2000 r. w sprawie wysokości i warunków przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 733).
 § 34.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 26 lipca 2005 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 1282), które weszło w życie z dniem 1 września 2005 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 marca 2009 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 386), które weszło w życie z dniem 8 kwietnia 2009 r. 5) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 15 marca 2019 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 523), które weszło w życie z dniem 4 kwietnia 2019 r.; wszedł w życie z dniem 5 kwietnia 2019 r. 6) Dodany przez § 1 pkt 1 lit. b rozporządzenia Ministra Spraw Wewnętrznych z dnia 19 września 2014 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 1284), które weszło w życie z dniem 9 października 2014 r. 7) Dodany przez § 1 pkt 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 stycznia 2018 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 245), które weszło w życie z dniem 27 stycznia 2018 r. 8) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5. 9) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 11) Dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 12) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6. 13) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 14) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2. 15) Przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2. 16) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 17) Rozporządzenie zostało ogłoszone w dniu 18 listopada 2002 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 18 listopada 2002 r.. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 26 lipca 2005 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 1282), które weszło w życie z dniem 1 września 2005 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 marca 2009 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 386), które weszło w życie z dniem 8 kwietnia 2009 r. 5) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 15 marca 2019 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 523), które weszło w życie z dniem 4 kwietnia 2019 r.; wszedł w życie z dniem 5 kwietnia 2019 r. 6) Dodany przez § 1 pkt 1 lit. b rozporządzenia Ministra Spraw Wewnętrznych z dnia 19 września 2014 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 1284), które weszło w życie z dniem 9 października 2014 r. 7) Dodany przez § 1 pkt 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 stycznia 2018 r. zmieniającego rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 245), które weszło w życie z dniem 27 stycznia 2018 r. 8) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5. 9) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 11) Dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 12) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6. 13) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 14) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2. 15) Przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2. 16) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 17) Rozporządzenie zostało ogłoszone w dniu 18 listopada 2002 r.
 
-#### Rozdział 1 Krajowe podróże służbowe
+#### Rozdział 1 – Krajowe podróże służbowe
 
-#### Rozdział 2 Zagraniczne podróże służbowe
+#### Rozdział 2 – Zagraniczne podróże służbowe
 
-#### Rozdział 3 Przeniesienia
+#### Rozdział 3 – Przeniesienia
 
-#### Rozdział 4 Przepisy końcowe
+#### Rozdział 4 – Przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

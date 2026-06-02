@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2000-03-31 |
 | Data wydania | 2000-05-25 |
-| Wejście w życie | 2000-06-09 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000430483) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/483/text.pdf) |
 
+Centralna ewidencja pojazdów
 1.
 Tworzy się centralną ewidencję pojazdów, zwaną dalej „ewidencją”.
 2.
@@ -177,18 +177,16 @@ warunki i sposób współdziałania podmiotów, które przekazują dane lub info
 3)
 rodzaj danych lub informacji zgromadzonych w ewidencji, które mogą być udostępnione poszczególnym podmiotom, o których mowa w art. 80c ust. 1 i 3–5,
 4)
-wysokość opłat za udostępnienie danych lub informacji zgromadzonych w ewidencji oraz warunki i sposób ich wnoszenia.
-W rozporządzeniu należy określić w szczególności:
+wysokość opłat za udostępnienie danych lub informacji zgromadzonych w ewidencji oraz warunki i sposób ich wnoszenia. W rozporządzeniu należy określić w szczególności:
 – organizację systemu teleinformatycznego, w którym prowadzona jest ewidencja,
 – nieprzekraczalne terminy przekazywania danych lub informacji do ewidencji oraz sposób ich przekazywania,
 – zakres danych lub informacji udostępnianych poszczególnym podmiotom,
 – zróżnicowaną wysokość opłat w zależności od zakresu udostępnianych danych lub informacji oraz konieczności przetwarzania danych lub informacji, o których mowa w art. 80c ust. 5.
 2.
-Minister właściwy do spraw administracji publicznej w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz Ministrem Obrony Narodowej, po zasięgnięciu opinii Szefa Urzędu Ochrony Państwa, określi, w drodze zarządzenia, sposób wyodrębnienia w ewidencji zbioru danych i informacji o pojazdach, o których mowa w art. 73 ust. 3.
-” ;
+Minister właściwy do spraw administracji publicznej w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz Ministrem Obrony Narodowej, po zasięgnięciu opinii Szefa Urzędu Ochrony Państwa, określi, w drodze zarządzenia, sposób wyodrębnienia w ewidencji zbioru danych i informacji o pojazdach, o których mowa w art. 73 ust. 3. ” ;
 3)
-art. 99 otrzymuje brzmienie:
-„
+art. 99 otrzymuje brzmienie: „
+Centralna ewidencja kierowców
 
 **Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. Nr 98, poz. 602, Nr 123, poz. 779 i Nr 160, poz. 1086, z 1998 r. Nr 106, poz. 668 i Nr 133, poz. 872, z 1999 r. Nr 106, poz. 1216 oraz z 2000 r. Nr 12, poz. 136) wprowadza się następujące zmiany:
 
@@ -198,13 +196,13 @@ art. 99 otrzymuje brzmienie:
 
 - **2)** po art. 80 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Centralna ewidencja pojazdów
+#### Rozdział 2a
 
 **Art. 99.** Zadania i kompetencje określone w art. 89 ust. 2 i 3, art. 93 ust. 2 i art. 97 ust. 1 nie mogą być powierzone w drodze porozumienia gminie. Przepis ten nie dotyczy powiatu warszawskiego. ” ;
 
 - **4)** po art. 100 dodaje się rozdział 1a w brzmieniu: „
 
-#### Rozdział 1a Centralna ewidencja kierowców
+#### Rozdział 1a
 
 **Art. 100a.**
 

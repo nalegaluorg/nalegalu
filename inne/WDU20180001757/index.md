@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 6 września 2018 r. w sprawie wykazu dokumentów dołączanych do wniosku o wydanie zezwolenia na wykonywanie działalności brokerskiej
+# Rozporządzenie Ministra Finansówz dnia 6 września 2018 r. w sprawie wykazu dokumentów dołączanych do wniosku o wydanie zezwolenia na wykonywanie działalności brokerskiej Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-06 |
 | Data wydania | 2018-09-11 |
-| Wejście w życie | 2018-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001757) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1757/text.pdf) |
 
@@ -95,6 +94,5 @@ tożsamości osób, które mają z nim bliskie powiązania, które zawiera dla:
 – osób fizycznych nieprowadzących działalności gospodarczej, ich dane osobowe, o których mowa w art. 59 ust. 1 pkt 2 lit. a-c ustawy,
 – osób prawnych, ich dane, o których mowa w art. 59 ust. 2 pkt 2 lit. a, b i d ustawy.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 8 września 2014 r. w sprawie wykazu dokumentów dołączanych do wniosku o wydanie zezwolenia na wykonywanie działalności brokerskiej (Dz. U. poz. 1275), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. poz. 2486 oraz z 2018 r. poz. 378, 650 i 1629).
+Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 8 września 2014 r. w sprawie wykazu dokumentów dołączanych do wniosku o wydanie zezwolenia na wykonywanie działalności brokerskiej (Dz. U. poz. 1275), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. poz. 2486 oraz z 2018 r. poz. 378, 650 i 1629). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 8 września 2014 r. w sprawie wykazu dokumentów dołączanych do wniosku o wydanie zezwolenia na wykonywanie działalności brokerskiej (Dz. U. poz. 1275), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. poz. 2486 oraz z 2018 r. poz. 378, 650 i 1629).
 

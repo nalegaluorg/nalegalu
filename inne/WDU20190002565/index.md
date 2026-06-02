@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 31 grudnia 2019 r. zmieniające rozporządzenie w sprawie długotrwałych akcji ratowniczych, szczegółowych norm, zasad i warunków otrzymywania wyżywienia w czasie tych akcji oraz ćwiczeń lub szkolenia przez strażaków Państwowej Straży Pożarnej lub inne osoby biorące w nich udział, a także przypadków, w których wypłaca się równoważnik pieniężny w zamian za przysługujące wyżywienie, sposobu ustalania jego wysokości oraz szczegółowych zasad wypłacania
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 31 grudnia 2019 r. zmieniające rozporządzenie w sprawie długotrwałych akcji ratowniczych, szczegółowych norm, zasad i warunków otrzymywania wyżywienia w czasie tych akcji oraz ćwiczeń lub szkolenia przez strażaków Państwowej Straży Pożarnej lub inne osoby biorące w nich udział, a także przypadków, w których wypłaca się równoważnik pieniężny w zamian za przysługujące wyżywienie, sposobu ustalania jego wysokości oraz szczegółowych zasad wypłacania Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-31 |
 | Data wydania | 2019-12-31 |
-| Wejście w życie | 2020-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002565) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2565/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 11 grudnia
 1)
 w § 2 uchyla się ust. 5;
 2)
-po § 14 dodaje się § 14a w brzmieniu:
-„
+po § 14 dodaje się § 14a w brzmieniu: „
 § 14a.
 1.
 Wysokość równoważnika pieniężnego za zasadniczą szkolną normę wyżywienia „SZ” wynosi 18 zł.
@@ -55,9 +53,7 @@ Wysokość równoważnika pieniężnego za dodatkową uzupełniającą normę wy
 6)
 35% DU – 2 zł.
 4.
-Wysokość równoważnika pieniężnego w zamian za wyżywienie zaokrągla się do pełnego złotego w ten sposób, że kwoty wynoszące mniej niż 50 groszy pomija się, a kwoty wynoszące 50 groszy i więcej podwyższa się do pełnych złotych.
-” .
+Wysokość równoważnika pieniężnego w zamian za wyżywienie zaokrągla się do pełnego złotego w ten sposób, że kwoty wynoszące mniej niż 50 groszy pomija się, a kwoty wynoszące 50 groszy i więcej podwyższa się do pełnych złotych. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

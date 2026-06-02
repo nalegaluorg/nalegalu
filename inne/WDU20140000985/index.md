@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-07-14 |
 | Data wydania | 2014-07-25 |
-| Wejście w życie | 2014-08-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000985) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/985/text.pdf) |
 
@@ -148,7 +147,7 @@ Czas opracowywania tematu z jednego przedmiotu w danym dniu wynosi 360 minut, li
 2.
 Czas, o którym mowa w ust. 1, ulega wydłużeniu o połowę w przypadku kandydata będącego osobą niepełnosprawną, który wraz z wnioskiem o wpis na listę adwokatów lub radców prawnych złoży:
 1)
-kopię orzeczenia potwierdzającego niepełnosprawność w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.) w okresie przeprowadzania testu;
+kopię orzeczenia potwierdzającego niepełnosprawność w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645 oraz z 2014 r. poz. 598 i 877.) w okresie przeprowadzania testu;
 2)
 zaświadczenie lekarskie, wystawione przez lekarza specjalistę właściwego ze względu na charakter niepełnosprawności, stwierdzające wynikające z niepełnosprawności trudności w wykonywaniu w toku testu czynności technicznych, takich jak:
 a)
@@ -238,7 +237,7 @@ Do ustalania terminu powtarzanego testu umiejętności, o którym mowa w art. 30
 2.
 Do powtarzanego testu umiejętności stosuje się odpowiednio przepisy § 2–17.
 § 19.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 grudnia 2005 r. w sprawie regulaminu przeprowadzania testu umiejętności dla kandydatów ubiegających się o wpis na listę adwokatów albo radców prawnych (Dz. U. z 2013 r. poz. 1116), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 49 ust. 2 ustawy z dnia 13 czerwca 2013 r. o zmianie ustaw regulujących wykonywanie niektórych zawodów (Dz. U. poz. 829). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645 oraz z 2014 r. poz. 598 i 877. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 grudnia 2005 r. w sprawie regulaminu przeprowadzania testu umiejętności dla kandydatów ubiegających się o wpis na listę adwokatów albo radców prawnych (Dz. U. z 2013 r. poz. 1116), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 49 ust. 2 ustawy z dnia 13 czerwca 2013 r. o zmianie ustaw regulujących wykonywanie niektórych zawodów (Dz. U. poz. 829).
 
 ## Część pisemną testu umiejętności przeprowadza się w wydzielonej sali w warunkach gwarantujących kandydatom samodzielność pracy i prawidłowy przebieg testu.
 

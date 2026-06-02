@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1998-06-04 |
 | Data wydania | 1998-11-26 |
-| Wejście w życie | 1998-12-11 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981430916) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/916/text.pdf) |
 

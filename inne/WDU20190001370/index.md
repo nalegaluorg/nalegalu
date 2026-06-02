@@ -35,13 +35,11 @@ ustawą z dnia 28 maja 2004 r. o zmianie ustawy o szkolnictwie wyższym, ustawy 
 2)
 ustawą z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. Nr 164, poz. 1365 oraz z 2006 r. Nr 46, poz. 328),
 3)
-ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 lipca 2019 r.
+ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 lipca 2019 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 7–9 i art. 14 ustawy z dnia 28 maja 2004 r. o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych, ustawy o pożyczkach i kredytach studenckich oraz o zmianie niektórych innych ustaw (Dz. U. Nr 152, poz. 1598), które stanowią:
-„
+art. 7–9 i art. 14 ustawy z dnia 28 maja 2004 r. o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych, ustawy o pożyczkach i kredytach studenckich oraz o zmianie niektórych innych ustaw (Dz. U. Nr 152, poz. 1598), które stanowią: „
 
 **Art. 7.**
 
@@ -49,7 +47,7 @@ art. 7–9 i art. 14 ustawy z dnia 28 maja 2004 r. o zmianie ustawy o szkolnictw
 
 - **1)** uczelni, o których mowa w ustawie wymienionej w art. 1, mogą otrzymywać świadczenia pomocy materialnej, o których mowa w ustawie wymienionej w art. 1,
 - **2)** uczelni, o których mowa w ustawie wymienionej w art. 2, mogą otrzymywać świadczenia pomocy materialnej, o których mowa w ustawie wymienionej w art. 2,
-- **3)** uczelni, o których mowa w ustawach wymienionych w art. 4–6, będący osobami cywilnymi mogą otrzymywać świadczenia pomocy materialnej, o których mowa w ustawie wymienionej w art. 1 z zastrzeżeniem ust. 2.
+- **3)** uczelni, o których mowa w ustawach wymienionych w art. 4–6, będący osobami cywilnymi mogą otrzymywać świadczenia pomocy materialnej, o których mowa w ustawie wymienionej w art. 1 – z zastrzeżeniem ust. 2.
 
 2. Świadczenia pomocy materialnej przyznawane na podstawie ust. 1 nie obejmują dopłat do zakwaterowania, dopłat do posiłków oraz stypendium ministra za osiągnięcia w nauce.
 
@@ -102,7 +100,7 @@ art. 7–9 i art. 14 ustawy z dnia 28 maja 2004 r. o zmianie ustawy o szkolnictw
 
 **Art. 1.**
 
-1. Akademia Marynarki Wojennej im. Bohaterów Westerplatte działająca na podstawie art. 54 pkt 4 ustawy z dnia 31 marca 1965 r. o wyższym szkolnictwie wojskowym (Dz. U. z 1992 r. poz. 40, z późn. zm.), zwana dalej „AMW”, staje się Akademią Marynarki Wojennej im. Bohaterów Westerplatte w rozumieniu niniejszej ustawy, zwaną dalej „Akademią”.
+1. Akademia Marynarki Wojennej im. Bohaterów Westerplatte działająca na podstawie art. 54 pkt 4 ustawy z dnia 31 marca 1965 r. o wyższym szkolnictwie wojskowym (Dz. U. z 1992 r. poz. 40, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. poz. 44, z 1997 r. poz. 590, 688, 741 i 770, z 1998 r. poz. 668, z 2002 r. poz. 676 i 1184, z 2003 r. poz. 1750 oraz z 2005 r. poz. 836.)Ustawa utraciła moc na podstawie art. 276 pkt 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. poz. 1365), która weszła w życie z dniem 1 września 2005 r., zwana dalej „AMW”, staje się Akademią Marynarki Wojennej im. Bohaterów Westerplatte w rozumieniu niniejszej ustawy, zwaną dalej „Akademią”.
 
 2. Siedzibą Akademii jest Gdynia.
 
@@ -116,7 +114,7 @@ art. 7–9 i art. 14 ustawy z dnia 28 maja 2004 r. o zmianie ustawy o szkolnictw
 
 1. Podstawowym kierunkiem działalności Akademii jest kształcenie oraz prowadzenie badań naukowych, prac wdrożeniowych i modernizacyjnych w zakresie nauk wojskowych i technicznych oraz kształcenie i prowadzenie badań naukowych w zakresie nauk ekonomicznych i humanistycznych.
 
-2. (uchylony)
+2. (uchylony)Przez art. 73 pkt 1 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r.
 
 **Art. 3.**
 
@@ -124,11 +122,11 @@ art. 7–9 i art. 14 ustawy z dnia 28 maja 2004 r. o zmianie ustawy o szkolnictw
 
 2. W zakresie realizacji na kierunkach podstawowych dla żeglugi morskiej postanowień Międzynarodowej Konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. poz. 201 i 202, z 1999 r. poz. 286, z 2013 r. poz. 1092 i 1093, z 2018 r. poz. 1866 i 2088 oraz z 2019 r. poz. 103) nadzór nad Akademią sprawuje Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw gospodarki morskiej.
 
-3. (uchylony)
+3. (uchylony)Przez art. 73 pkt 2 ustawy, o której mowa w odnośniku 3.
 
-4. (uchylony)
+4. (uchylony)Przez art. 250 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. poz. 1365), która weszła w życie z dniem 1 września 2005 r.
 
-5. (uchylony)
+5. (uchylony)Dodany przez art. 5 pkt 2 ustawy z dnia 28 maja 2004 r. o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych, ustawy o pożyczkach i kredytach studenckich oraz o zmianie niektórych innych ustaw (Dz. U. poz. 1598), która weszła w życie z dniem 17 lipca 2004 r.; uchylony przez art. 73 pkt 2 ustawy, o której mowa w odnośniku 3.
 
 **Art. 4.**
 
@@ -148,5 +146,5 @@ art. 7–9 i art. 14 ustawy z dnia 28 maja 2004 r. o zmianie ustawy o szkolnictw
 
 2. Jednostki organizacyjne AMW, które przed dniem wejścia w życie ustawy posiadały uprawnienia do nadawania stopni naukowych, zachowują te uprawnienia po utworzeniu Akademii, jako jednostki organizacyjne Akademii.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 9 kwietnia 2003 r.. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. poz. 44, z 1997 r. poz. 590, 688, 741 i 770, z 1998 r. poz. 668, z 2002 r. poz. 676 i 1184, z 2003 r. poz. 1750 oraz z 2005 r. poz. 836. 2) Ustawa utraciła moc na podstawie art. 276 pkt 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. poz. 1365), która weszła w życie z dniem 1 września 2005 r. 3) Przez art. 73 pkt 1 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r. 4) Przez art. 73 pkt 2 ustawy, o której mowa w odnośniku 3. 5) Przez art. 250 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. poz. 1365), która weszła w życie z dniem 1 września 2005 r. 6) Dodany przez art. 5 pkt 2 ustawy z dnia 28 maja 2004 r. o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych, ustawy o pożyczkach i kredytach studenckich oraz o zmianie niektórych innych ustaw (Dz. U. poz. 1598), która weszła w życie z dniem 17 lipca 2004 r.; uchylony przez art. 73 pkt 2 ustawy, o której mowa w odnośniku 3. 7) Ustawa została ogłoszona w dniu 9 kwietnia 2003 r.
 

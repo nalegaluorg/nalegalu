@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-13 |
 | Data wydania | 2022-09-20 |
-| Wejście w życie | 2022-10-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001968) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1968/text.pdf) |
 
@@ -31,7 +30,7 @@ Na podstawie art. 26 ust. 2 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz.
 § 1.
 W zakładzie karnym, okręgowym ośrodku wychowawczym, zakładzie poprawczym i schronisku dla nieletnich, zwanych dalej „zakładem”, organizuje się i prowadzi bibliotekę dla skazanych, tymczasowo aresztowanych oraz nieletnich umieszczonych w okręgowym ośrodku wychowawczym, zakładzie poprawczym i schronisku dla nieletnich, a także dla pracowników zakładu oraz pracowników i funkcjonariuszy Służby Więziennej.
 § 2.
-Ilekroć w niniejszym rozporządzeniu jest mowa o zakładzie karnym, należy przez to rozumieć zakład karny w rozumieniu art. 242 § 3a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm.).
+Ilekroć w niniejszym rozporządzeniu jest mowa o zakładzie karnym, należy przez to rozumieć zakład karny w rozumieniu art. 242 § 3a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 472, 1236 i 2054 oraz z 2022 r. poz. 22, 655 i 1855.).
 § 3.
 1.
 Obsługę biblioteczną zakładu zapewnia biblioteka wchodząca w skład jego struktury organizacyjnej.
@@ -109,5 +108,5 @@ współpracowaniu przy prowadzeniu działalności edukacyjnej.
 2.
 W ramach współdziałania biblioteka zakładu nie przekazuje informacji o czytelnikach, które zawierają ich dane osobowe.
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 25 października 2012 r. w sprawie sposobu organizacji obsługi bibliotecznej w zakładach karnych, poprawczych i schroniskach dla nieletnich oraz sposobu współdziałania bibliotek publicznych w wykonywaniu tej obsługi (Dz. U. poz. 1238), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 415 pkt 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 472, 1236 i 2054 oraz z 2022 r. poz. 22, 655 i 1855. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 25 października 2012 r. w sprawie sposobu organizacji obsługi bibliotecznej w zakładach karnych, poprawczych i schroniskach dla nieletnich oraz sposobu współdziałania bibliotek publicznych w wykonywaniu tej obsługi (Dz. U. poz. 1238), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 415 pkt 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700).
 

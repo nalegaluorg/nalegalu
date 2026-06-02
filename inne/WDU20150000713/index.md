@@ -22,17 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-05-12 |
 | Data wydania | 2015-05-25 |
-| Wejście w życie | 2015-06-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000713) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/713/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 18 ust. 3 ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. Nr 32, poz. 191, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 18 ust. 3 ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. Nr 32, poz. 191, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 43, poz. 253 i Nr 92, poz. 541, z 1991 r. Nr 34, poz. 151, z 1992 r. Nr 6, poz. 20, z 1993 r. Nr 40, poz. 180, z 1994 r. Nr 1, poz. 3 i Nr 65, poz. 285, z 1996 r. Nr 23, poz. 102 i Nr 106, poz. 496, z 1997 r. Nr 9, poz. 43, z 2002 r. Nr 153, poz. 1271 oraz z 2004 r. Nr 141, poz. 1492.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Prezesa Rady Ministrów z dnia 7 maja 1997 r. w sprawie powołania i trybu działania Krajowej Komisji Uwłaszczeniowej (Dz. U. Nr 46, poz. 291, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Prezesa Rady Ministrów z dnia 7 maja 1997 r. w sprawie powołania i trybu działania Krajowej Komisji Uwłaszczeniowej (Dz. U. Nr 46, poz. 291, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1999 r. Nr 91, poz. 1030, z 2003 r. Nr 53, poz. 470, z 2007 r. Nr 212, poz. 1562 oraz z 2008 r. Nr 78, poz. 466.) wprowadza się następujące zmiany:
 1)
-§ 1 otrzymuje brzmienie:
-„
+§ 1 otrzymuje brzmienie: „
 § 1.
 Powołuje się Krajową Komisję Uwłaszczeniową, zwaną dalej „Komisją”, w składzie:
 1)
@@ -48,10 +46,9 @@ Sławomir Pyźlak,
 d)
 Sylwester Szczepaniak,
 e)
-Piotr Witkowski.
-” ;
+Piotr Witkowski. ” ;
 2)
 użyte w § 5 w ust. 2 oraz w § 6 w różnym przypadku wyrazy „Minister Spraw Wewnętrznych i Administracji” zastępuje się użytymi w odpowiednim przypadku wyrazami „minister właściwy do spraw administracji publicznej”.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 43, poz. 253 i Nr 92, poz. 541, z 1991 r. Nr 34, poz. 151, z 1992 r. Nr 6, poz. 20, z 1993 r. Nr 40, poz. 180, z 1994 r. Nr 1, poz. 3 i Nr 65, poz. 285, z 1996 r. Nr 23, poz. 102 i Nr 106, poz. 496, z 1997 r. Nr 9, poz. 43, z 2002 r. Nr 153, poz. 1271 oraz z 2004 r. Nr 141, poz. 1492. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1999 r. Nr 91, poz. 1030, z 2003 r. Nr 53, poz. 470, z 2007 r. Nr 212, poz. 1562 oraz z 2008 r. Nr 78, poz. 466.
 

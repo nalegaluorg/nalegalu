@@ -26,32 +26,30 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000056) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/56/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 16 grudnia 2016 r. w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu pracownika socjalnego Rozdział 1 – Przepisy ogólne Rozdział 2 – Staż Rozdział 3 – Test Rozdział 4 – Przepisy przejściowe i przepis końcowy
+Załącznik – Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 16 grudnia 2016 r. w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu pracownika socjalnego
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 16 grudnia 2016 r. w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu pracownika socjalnego (Dz. U. poz. 2194), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rodziny, Pracy i Polityki Społecznej z dnia 14 grudnia 2017 r. zmieniającym rozporządzenie w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu pracownika socjalnego (Dz. U. poz. 2374).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 14 grudnia 2017 r. zmieniającego rozporządzenie w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu pracownika socjalnego (Dz. U. poz. 2374), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 14 grudnia 2017 r. zmieniającego rozporządzenie w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu pracownika socjalnego (Dz. U. poz. 2374), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-” .
-Załącznik – Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 16 grudnia 2016 r. w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu pracownika socjalnego
-Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2018 r. poz. 2272) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. ” .
+Załącznik – Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 16 grudnia 2016 r. w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu pracownika socjalnegoMinister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2018 r. poz. 2272) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
 warunki, sposób i tryb odbywania stażu adaptacyjnego, zwanego dalej „stażem”, sposób i tryb wykonywania nadzoru nad jego odbywaniem oraz oceny nabytych w jego trakcie umiejętności, sposób ustalania kosztów odbywania stażu oraz tryb pobierania i zwrotu opłaty za jego odbywanie,
 2)
-warunki, sposób i tryb przeprowadzania testu umiejętności, zwanego dalej „testem”, oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu oraz tryb pobierania i zwrotu opłaty za jego przeprowadzenie
-w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu pracownika socjalnego, nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej.
+warunki, sposób i tryb przeprowadzania testu umiejętności, zwanego dalej „testem”, oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu oraz tryb pobierania i zwrotu opłaty za jego przeprowadzenie – w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu pracownika socjalnego, nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej.
 § 2.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
 organ prowadzący postępowanie – ministra właściwego do spraw zabezpieczenia społecznego;
 2)
 ośrodek – ośrodek pomocy społecznej lub powiatowe centrum pomocy rodzinie, w którym wnioskodawca odbywa staż;
-3)
+3W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 14 grudnia 2017 r. zmieniającego rozporządzenie w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu pracownika socjalnego (Dz. U. poz. 2374), które weszło w życie z dniem 1 stycznia 2018 r.)
 jednostka przeprowadzająca test – Instytut Pracy i Spraw Socjalnych w Warszawie.
 § 3.
 1.
@@ -62,6 +60,7 @@ przekazuje ośrodkowi albo jednostce przeprowadzającej test postanowienie o kon
 udostępnia na swojej stronie podmiotowej Biuletynu Informacji Publicznej informacje o wymaganiach kwalifikacyjnych i systemie kształcenia w zawodzie pracownika socjalnego, a także wykaz literatury pomocnej przy uzupełnianiu wiedzy niezbędnej do spełnienia wymogów kwalifikacyjnych.
 2.
 Wnioskodawca po otrzymaniu postanowienia, o którym mowa w ust. 1 pkt 1, występuje do organu prowadzącego postępowanie z wnioskiem o odbycie stażu albo przystąpienie do testu.
+Staż
 § 4.
 1.
 Staż odbywa się w ośrodku.
@@ -178,6 +177,7 @@ Opłata z tytułu odbywania stażu może być, za zgodą wnioskodawcy wyrażoną
 W przypadku przerwania odbywania stażu lub nieprzystąpienia do stażu ośrodek dokonuje zwrotu wniesionej opłaty z tytułu odbywania stażu lub jej odpowiedniej części na podstawie umotywowanego wniosku oraz udokumentowanych, niezależnych od wnioskodawcy przyczyn.
 9.
 Zwrot opłaty następuje w sposób wskazany we wniosku w terminie 30 dni od dnia jego złożenia.
+Test
 § 13.
 1.
 Test jest przeprowadzany cztery razy w roku, w marcu, czerwcu, wrześniu i październiku.
@@ -242,19 +242,27 @@ Jednostka przeprowadzająca test dokonuje zwrotu wniesionej opłaty w przypadku 
 Zwrot wniesionej opłaty następuje również w przypadku złożenia przez wnioskodawcę, co najmniej na 14 dni przed wyznaczonym terminem przeprowadzenia testu, rezygnacji, w postaci papierowej, z przystąpienia do testu.
 3.
 Zwrot opłaty następuje w sposób wskazany we wniosku w terminie 30 dni od dnia jego złożenia.
+Przepisy przejściowe i przepis końcowy
 § 26.
 Do spraw wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 27.
 Terminy przeprowadzenia testu w 2017 r. organ prowadzący postępowanie ustala i udostępnia na swojej stronie podmiotowej Biuletynu Informacji Publicznej w terminie 14 dni od dnia wejścia w życie rozporządzenia.
 § 28.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 14 grudnia 2017 r. zmieniającego rozporządzenie w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu pracownika socjalnego (Dz. U. poz. 2374), które weszło w życie z dniem 1 stycznia 2018 r. 4) Rozporządzenie zostało ogłoszone w dniu 28 grudnia 2016 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 11 grudnia 2008 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu pracownika socjalnego (Dz. U. poz. 1542), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 28 grudnia 2016 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 11 grudnia 2008 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu pracownika socjalnego (Dz. U. poz. 1542), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65). 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 14 grudnia 2017 r. zmieniającego rozporządzenie w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu pracownika socjalnego (Dz. U. poz. 2374), które weszło w życie z dniem 1 stycznia 2018 r. 4) Rozporządzenie zostało ogłoszone w dniu 28 grudnia 2016 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 11 grudnia 2008 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu pracownika socjalnego (Dz. U. poz. 1542), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Staż
+#### Rozdział 2 – Staż
 
-#### Rozdział 3 Test
+#### Rozdział 3 – Test
+
+#### Rozdział 4 – Przepisy przejściowe i przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 
 ## Część teoretyczna testu jest przeprowadzana w postaci papierowej albo elektronicznej i obejmuje nie więcej niż 40 pytań dotyczących wiedzy zawodowej niezbędnej do wykonywania zawodu pracownika socjalnego opracowanych przez jednostkę przeprowadzającą test.
 
@@ -270,5 +278,5 @@ Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
 ## Część praktyczna testu zostanie zaliczona, gdy wnioskodawca za wykonanie czynności, o których mowa w § 17 ust. 1, uzyska pozytywną ocenę przynajmniej dwóch członków komisji.
 
-#### Rozdział 4 Przepisy przejściowe i przepis końcowy
+#### Rozdział 4
 

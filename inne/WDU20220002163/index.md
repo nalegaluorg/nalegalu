@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 18 października 2022 r. zmieniające rozporządzenie w sprawie sporządzania i przekazywania przez wybraną instytucję finansową informacji dotyczącej uczestnika pracowniczego planu kapitałowego, z którego rachunku ma zostać dokonana wypłata transferowa
+# Rozporządzenie Ministra Finansówz dnia 18 października 2022 r. zmieniające rozporządzenie w sprawie sporządzania i przekazywania przez wybraną instytucję finansową informacji dotyczącej uczestnika pracowniczego planu kapitałowego, z którego rachunku ma zostać dokonana wypłata transferowa Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-18 |
 | Data wydania | 2022-10-21 |
-| Wejście w życie | 2022-10-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002163) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2163/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 104 ust. 5 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2020 r. poz. 1342 oraz z 2022 r. poz. 1079) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Finansów z dnia 21 sierpnia 2019 r. w sprawie sporządzania i przekazywania przez wybraną instytucję finansową informacji dotyczącej uczestnika pracowniczego planu kapitałowego, z którego rachunku ma zostać dokonana wypłata transferowa (Dz. U. poz. 1742) w załączniku do rozporządzenia odnośnik nr 1 otrzymuje brzmienie:
-„
-1) Podmiot zatrudniający oznacza:
+W rozporządzeniu Ministra Finansów z dnia 21 sierpnia 2019 r. w sprawie sporządzania i przekazywania przez wybraną instytucję finansową informacji dotyczącej uczestnika pracowniczego planu kapitałowego, z którego rachunku ma zostać dokonana wypłata transferowa (Dz. U. poz. 1742) w załączniku do rozporządzenia odnośnik nr 1 otrzymuje brzmienie: „ 1) Podmiot zatrudniający oznacza:
 a)
 pracodawcę, o którym mowa w art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, z późn. zm.) – w stosunku do osób zatrudnionych, o których mowa w art. 2 ust. 1 pkt 18 lit. a ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2020 r. poz. 1342, z późn. zm.), jeżeli posiada NIP lub REGON,
 b)
@@ -43,9 +40,7 @@ zleceniodawcę – w stosunku do osób zatrudnionych, o których mowa w art. 2 u
 e)
 podmiot, w którym działa rada nadzorcza – w stosunku do osób zatrudnionych, o których mowa w art. 2 ust. 1 pkt 18 lit. e ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych,
 f)
-płatnika – jeżeli pracodawca, o którym mowa w lit. a, lub zleceniodawca, o którym mowa w lit. d, nie posiada NIP lub REGON.
-” .
+płatnika – jeżeli pracodawca, o którym mowa w lit. a, lub zleceniodawca, o którym mowa w lit. d, nie posiada NIP lub REGON. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 

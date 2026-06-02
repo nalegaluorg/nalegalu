@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-23 |
 | Data wydania | 2022-03-26 |
-| Wejście w życie | 2022-03-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000683) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/683/text.pdf) |
 
@@ -123,7 +122,7 @@ source: "eli-html"
 - **7)** sądom;
 - **8)** prokuratorom.
 
-2. Administratorami danych osobowych, o których mowa w art. 25a ust. 5, w rozumieniu art. 4 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2016/679”, są minister właściwy do spraw rodziny i powiatowe centra pomocy rodzinie, z tym że administratorem danych osobowych w zakresie zapewnienia, utrzymania i rozwoju systemu teleinformatycznego, o którym mowa w art. 25a ust. 2, jest minister właściwy do spraw rodziny.
+2. Administratorami danych osobowych, o których mowa w art. 25a ust. 5, w rozumieniu art. 4 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35., zwanego dalej „rozporządzeniem 2016/679”, są minister właściwy do spraw rodziny i powiatowe centra pomocy rodzinie, z tym że administratorem danych osobowych w zakresie zapewnienia, utrzymania i rozwoju systemu teleinformatycznego, o którym mowa w art. 25a ust. 2, jest minister właściwy do spraw rodziny.
 
 3. Minister właściwy do spraw rodziny może, w drodze umowy, powierzyć przetwarzanie danych osobowych w systemie teleinformatycznym wyspecjalizowanemu podmiotowi dającemu rękojmię stworzenia warunków organizacyjnych i technicznych zapewniających ochronę danych gromadzonych i przetwarzanych w ewidencji małoletnich, w szczególności zabezpieczenie tych danych osobowych przed nieuprawnionym dostępem, przetwarzaniem, zmianą, uszkodzeniem, zniszczeniem lub utratą.
 
@@ -175,5 +174,5 @@ source: "eli-html"
 
 **Art. 3.** W sprawach o świadczenia i dofinansowanie, o których mowa w art. 26 ust. 1 ustawy zmienianej w art. 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 lutego 2022 r.
+**Art. 4.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 lutego 2022 r. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.
 

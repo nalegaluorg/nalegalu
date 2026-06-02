@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 grudnia 2017 r. o zmianie ustawy o spółdzielniach socjalnych oraz niektórych innych ustaw
+# Ustawa z dnia 15 grudnia 2017 r. o zmianie ustawy o spółdzielniach socjalnych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 4 września 1997 r. o działach administracji rządowej oraz ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-15 |
 | Data wydania | 2017-12-30 |
-| Wejście w życie | 2018-03-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002494) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2494/text.pdf) |
 
@@ -37,7 +36,7 @@ source: "eli-html"
 2. Spółdzielnia socjalna działa na rzecz:
 
 - **1)** społecznej reintegracji jej członków oraz pracowników spółdzielni socjalnej, będących osobami, o których mowa w art. 4 ust. 1, przez co należy rozumieć działania mające na celu odbudowanie i podtrzymanie umiejętności uczestniczenia w życiu społeczności lokalnej i pełnienia ról społecznych w miejscu pracy, zamieszkania lub pobytu,
-- **2)** zawodowej reintegracji jej członków oraz pracowników spółdzielni socjalnej, będących osobami, o których mowa w art. 4 ust. 1, przez co należy rozumieć działania mające na celu odbudowanie i podtrzymanie zdolności do samodzielnego świadczenia pracy na rynku pracy a działania te nie są wykonywane w ramach prowadzonej przez spółdzielnię socjalną działalności gospodarczej.
+- **2)** zawodowej reintegracji jej członków oraz pracowników spółdzielni socjalnej, będących osobami, o których mowa w art. 4 ust. 1, przez co należy rozumieć działania mające na celu odbudowanie i podtrzymanie zdolności do samodzielnego świadczenia pracy na rynku pracy – a działania te nie są wykonywane w ramach prowadzonej przez spółdzielnię socjalną działalności gospodarczej.
 
 3. Spółdzielnia socjalna może prowadzić działalność społeczną i oświatowo-kulturalną na rzecz swoich członków, pracowników oraz ich środowiska lokalnego, a także działalność społecznie użyteczną w sferze zadań publicznych określonych w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2016 r. poz. 1817 i 1948 oraz z 2017 r. poz. 60, 573 i 1909). ” ;
 
@@ -172,7 +171,7 @@ source: "eli-html"
     - **b)**
 
 - **6)** niespełnienia warunku określonego w art. 5 ust. 1a;
-- **7)** niepoddania się lustracji w terminie określonym w art. 15c. ” . W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.) w art. 21 w ust. 1 pkt 121 otrzymuje brzmienie: „
+- **7)** niepoddania się lustracji w terminie określonym w art. 15c. ” . W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089, 1428, 1448, 1530, 1971, 2056, 2175, 2201 i 2203.) w art. 21 w ust. 1 pkt 121 otrzymuje brzmienie: „
 - **121)** jednorazowe środki przyznane na podjęcie działalności, o których mowa w art. 46 ust. 1 pkt 2 i 3 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy; ” .
 
 **Art. 3.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2016 r. poz. 2046 i 1948 oraz z 2017 r. poz. 777, 935 i 1428) wprowadza się następujące zmiany:
@@ -192,7 +191,7 @@ source: "eli-html"
 1. Osoba niepełnosprawna, o której mowa w art. 11 ust. 1, może otrzymać ze środków Funduszu jednorazowo środki na podjęcie działalności gospodarczej, rolniczej albo na podjęcie działalności w formie spółdzielni socjalnej na jednego członka założyciela spółdzielni oraz na jednego członka przystępującego do spółdzielni socjalnej po jej założeniu, w wysokości określonej w umowie zawartej ze starostą:
 
 - **1)** nie wyższej niż sześciokrotność przeciętnego wynagrodzenia, w przypadku zobowiązania do prowadzenia działalności gospodarczej, rolniczej lub członkostwa w spółdzielni socjalnej nieprzerwanie przez okres co najmniej 12 miesięcy,
-- **2)** wynoszącej od sześciokrotności do piętnastokrotności przeciętnego wynagrodzenia, w przypadku zobowiązania do prowadzenia działalności gospodarczej, rolniczej lub członkostwa w spółdzielni socjalnej nieprzerwanie przez okres co najmniej 24 miesięcy jeżeli nie otrzymała bezzwrotnych środków publicznych na ten cel.
+- **2)** wynoszącej od sześciokrotności do piętnastokrotności przeciętnego wynagrodzenia, w przypadku zobowiązania do prowadzenia działalności gospodarczej, rolniczej lub członkostwa w spółdzielni socjalnej nieprzerwanie przez okres co najmniej 24 miesięcy – jeżeli nie otrzymała bezzwrotnych środków publicznych na ten cel.
 
 2. Osoba niepełnosprawna, która otrzymała jednorazowo środki, o których mowa w ust. 1, jest obowiązana do zwrotu otrzymanych środków wraz z odsetkami, w wysokości określonej jak dla zaległości podatkowych, jeżeli z przyczyn leżących po jej stronie zostały naruszone warunki umowy, o której mowa w ust. 1. ” ;
 
@@ -202,7 +201,7 @@ source: "eli-html"
 
 1. Spółdzielnia socjalna może otrzymać ze środków Funduszu:
 
-- **1)** jednorazowo środki na utworzenie stanowiska pracy dla skierowanej przez powiatowy urząd pracy osoby niepełnosprawnej, o której mowa w art. 11 ust. 1, w wysokości określonej w umowie, zawartej ze starostą: nie wyższej jednak niż sześciokrotność przeciętnego wynagrodzenia, w przypadku zobowiązania do utrzymania zatrudnienia osoby niepełnosprawnej, o której mowa w art. 11 ust. 1, na utworzonym stanowisku pracy nieprzerwanie przez okres co najmniej 12 miesięcy, wynoszącej od sześciokrotności do piętnastokrotności przeciętnego wynagrodzenia, w przypadku zobowiązania do utrzymania zatrudnienia osoby niepełnosprawnej, o której mowa w art. 11 ust. 1, na utworzonym stanowisku pracy nieprzerwanie przez okres co najmniej 24 miesięcy jeżeli nie otrzymała bezzwrotnych środków publicznych na ten cel;
+- **1)** jednorazowo środki na utworzenie stanowiska pracy dla skierowanej przez powiatowy urząd pracy osoby niepełnosprawnej, o której mowa w art. 11 ust. 1, w wysokości określonej w umowie, zawartej ze starostą: nie wyższej jednak niż sześciokrotność przeciętnego wynagrodzenia, w przypadku zobowiązania do utrzymania zatrudnienia osoby niepełnosprawnej, o której mowa w art. 11 ust. 1, na utworzonym stanowisku pracy nieprzerwanie przez okres co najmniej 12 miesięcy, wynoszącej od sześciokrotności do piętnastokrotności przeciętnego wynagrodzenia, w przypadku zobowiązania do utrzymania zatrudnienia osoby niepełnosprawnej, o której mowa w art. 11 ust. 1, na utworzonym stanowisku pracy nieprzerwanie przez okres co najmniej 24 miesięcy – jeżeli nie otrzymała bezzwrotnych środków publicznych na ten cel;
     - **a)**
     - **b)**
 
@@ -218,7 +217,7 @@ source: "eli-html"
 
 - **1)** szczegółowe warunki i tryb przyznawania spółdzielni socjalnej jednorazowo środków na utworzenie stanowiska pracy dla skierowanej osoby niepełnosprawnej, o której mowa w art. 11 ust. 1,
 - **2)** szczegółowe warunki i tryb przyznawania spółdzielni socjalnej środków na finansowanie kosztów wynagrodzenia, o których mowa w ust. 1 pkt 2,
-- **3)** formy zabezpieczenia zwrotu środków na utworzenie stanowiska pracy dla skierowanej osoby niepełnosprawnej, o której mowa w art. 11 ust. 1, lub finansowanie kosztów wynagrodzenia w przypadku niedotrzymania warunków umowy dotyczącej ich przyznania mając na względzie zwiększenie mobilności oraz poziomu zatrudnienia osób niepełnosprawnych, o których mowa w art. 11 ust. 1, racjonalne gospodarowanie środkami Funduszu, a także konieczność zapewnienia zgodności udzielania pomocy z zasadami przyznawania pomocy de minimis w przypadku wypłaty środków na utworzenie stanowiska pracy dla skierowanej osoby niepełnosprawnej, o której mowa w art. 11 ust. 1, oraz w przypadku wypłaty środków na finansowanie kosztów wynagrodzenia. ” ;
+- **3)** formy zabezpieczenia zwrotu środków na utworzenie stanowiska pracy dla skierowanej osoby niepełnosprawnej, o której mowa w art. 11 ust. 1, lub finansowanie kosztów wynagrodzenia w przypadku niedotrzymania warunków umowy dotyczącej ich przyznania – mając na względzie zwiększenie mobilności oraz poziomu zatrudnienia osób niepełnosprawnych, o których mowa w art. 11 ust. 1, racjonalne gospodarowanie środkami Funduszu, a także konieczność zapewnienia zgodności udzielania pomocy z zasadami przyznawania pomocy de minimis w przypadku wypłaty środków na utworzenie stanowiska pracy dla skierowanej osoby niepełnosprawnej, o której mowa w art. 11 ust. 1, oraz w przypadku wypłaty środków na finansowanie kosztów wynagrodzenia. ” ;
 - **5)** w art. 35a w ust. 1 pkt 9a otrzymuje brzmienie: „
 - **9a)** przyznawanie środków, o których mowa w art. 12a i art. 26g; ” ;
 - **6)** w art. 46 pkt 7 otrzymuje brzmienie: „
@@ -233,8 +232,13 @@ source: "eli-html"
 - **1)** użyte trzykrotnie w art. 2 ust. 1 pkt 2 lit. f, art. 74 i art. 75 ust. 1 pkt 8 wyrazy „ewidencji działalności gospodarczej” zastępuje się wyrazami „Centralnej Ewidencji i Informacji o Działalności Gospodarczej”;
 - **2)** w art. 33 w ust. 4 pkt 2a otrzymuje brzmienie: „
 - **2a)** otrzymał jednorazowo środki z Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych lub z instytucji z udziałem środków publicznych na podjęcie działalności gospodarczej, rolniczej lub na podjęcie działalności w formie spółdzielni socjalnej; pozbawienie statusu bezrobotnego następuje od następnego dnia po dniu otrzymania środków na podjęcie działalności; ” ;
-- **3)** w art. 46: w ust. 1: – po pkt 1c dodaje się pkt 1d w brzmieniu: „ 1d) przyznać spółdzielni socjalnej jednorazowo środki na utworzenie stanowiska pracy dla skierowanego bezrobotnego lub skierowanego poszukującego pracy, o którym mowa w art. 49 pkt 7, lub skierowanego poszukującego pracy niepozostającego w zatrudnieniu lub niewykonującego innej pracy zarobkowej, w wysokości określonej w umowie, nie wyższej jednak niż 6-krotnej wysokości przeciętnego wynagrodzenia; ” , – pkt 2 otrzymuje brzmienie: „ 2) przyznać bezrobotnemu lub poszukującemu pracy, o którym mowa w art. 49 pkt 7, jednorazowo środki na podjęcie działalności gospodarczej, w tym na pokrycie kosztów pomocy prawnej, konsultacji i doradztwa związanych z podjęciem tej działalności, w wysokości określonej w umowie, nie wyższej jednak niż 6-krotnej wysokości przeciętnego wynagrodzenia; ” , – dodaje się pkt 3 i 4 w brzmieniu: „ 3) przyznać bezrobotnemu lub poszukującemu pracy, o którym mowa w art. 49 pkt 7, lub poszukującemu pracy niepozostającemu w zatrudnieniu lub niewykonującemu innej pracy zarobkowej, jednorazowo środki na założenie spółdzielni socjalnej lub przystąpienie do niej po jej założeniu, w tym na pokrycie kosztów pomocy prawnej, konsultacji i doradztwa związanych z podjęciem tej działalności w wysokości określonej w umowie, nie wyższej jednak niż 6-krotnej wysokości przeciętnego wynagrodzenia; 4) przyznać spółdzielni socjalnej środki na finansowanie kosztów wynagrodzenia, w okresie do 6 miesięcy od dnia zawarcia umowy, wypłacane miesięcznie w wysokości nie wyższej niż kwota minimalnego wynagrodzenia za pracę przez okres nie dłuższy niż 6 miesięcy, dla zatrudnionego skierowanego bezrobotnego lub zatrudnionego skierowanego poszukującego pracy, o którym mowa w art. 49 pkt 7, lub zatrudnionego skierowanego poszukującego pracy niepozostającego w zatrudnieniu lub niewykonującego innej pracy zarobkowej. ” , ust. 1b otrzymuje brzmienie: „
+- **3)** w art. 46: w ust. 1: po pkt 1c dodaje się pkt 1d w brzmieniu: „
     - **a)**
+
+- **1d)** przyznać spółdzielni socjalnej jednorazowo środki na utworzenie stanowiska pracy dla skierowanego bezrobotnego lub skierowanego poszukującego pracy, o którym mowa w art. 49 pkt 7, lub skierowanego poszukującego pracy niepozostającego w zatrudnieniu lub niewykonującego innej pracy zarobkowej, w wysokości określonej w umowie, nie wyższej jednak niż 6-krotnej wysokości przeciętnego wynagrodzenia; ” , pkt 2 otrzymuje brzmienie: „
+- **2)** przyznać bezrobotnemu lub poszukującemu pracy, o którym mowa w art. 49 pkt 7, jednorazowo środki na podjęcie działalności gospodarczej, w tym na pokrycie kosztów pomocy prawnej, konsultacji i doradztwa związanych z podjęciem tej działalności, w wysokości określonej w umowie, nie wyższej jednak niż 6-krotnej wysokości przeciętnego wynagrodzenia; ” , dodaje się pkt 3 i 4 w brzmieniu: „
+- **3)** przyznać bezrobotnemu lub poszukującemu pracy, o którym mowa w art. 49 pkt 7, lub poszukującemu pracy niepozostającemu w zatrudnieniu lub niewykonującemu innej pracy zarobkowej, jednorazowo środki na założenie spółdzielni socjalnej lub przystąpienie do niej po jej założeniu, w tym na pokrycie kosztów pomocy prawnej, konsultacji i doradztwa związanych z podjęciem tej działalności w wysokości określonej w umowie, nie wyższej jednak niż 6-krotnej wysokości przeciętnego wynagrodzenia;
+- **4)** przyznać spółdzielni socjalnej środki na finansowanie kosztów wynagrodzenia, w okresie do 6 miesięcy od dnia zawarcia umowy, wypłacane miesięcznie w wysokości nie wyższej niż kwota minimalnego wynagrodzenia za pracę przez okres nie dłuższy niż 6 miesięcy, dla zatrudnionego skierowanego bezrobotnego lub zatrudnionego skierowanego poszukującego pracy, o którym mowa w art. 49 pkt 7, lub zatrudnionego skierowanego poszukującego pracy niepozostającego w zatrudnieniu lub niewykonującego innej pracy zarobkowej. ” , ust. 1b otrzymuje brzmienie: „
     - **b)**
 
 1b. Przepisy ust. 1 pkt 2 i 3 stosuje się również do absolwentów centrum integracji społecznej oraz absolwentów klubów integracji społecznej, o których mowa w przepisach o zatrudnieniu socjalnym, jeżeli nie pozostają oni w okresie zgłoszonego do Centralnej Ewidencji i Informacji o Działalności Gospodarczej zawieszenia wykonywania działalności gospodarczej. ” , ust. 2a otrzymuje brzmienie: „
@@ -278,7 +282,7 @@ source: "eli-html"
 - **1)** szczegółowe warunki i tryb przyznawania spółdzielni socjalnej jednorazowo środków, o których mowa w ust. 1 pkt 1d,
 - **2)** szczegółowe warunki i tryb przyznawania osobom, o których mowa w ust. 1 pkt 3 oraz w ust. 1b, jednorazowo środków, o których mowa w ust. 1 pkt 3,
 - **3)** szczegółowe warunki i tryb przyznawania spółdzielni socjalnej środków, o których mowa w ust. 1 pkt 4,
-- **4)** formy zabezpieczenia zwrotu środków na założenie spółdzielni socjalnej lub przystąpienie do niej po jej założeniu, utworzenie stanowiska pracy lub finansowanie kosztów wynagrodzenia w przypadku niedotrzymania warunków umowy dotyczącej ich przyznania mając na względzie zwiększenie mobilności osób określonych w ust. 1 pkt 1b, 3 i 4 oraz w ust. 1b, racjonalne gospodarowanie środkami Funduszu Pracy, a także konieczność zapewnienia zgodności udzielania pomocy z zasadami przyznawania pomocy de minimis w przypadku wypłaty środków, o których mowa w ust. 1 pkt 1d, 3 i 4. ” ;
+- **4)** formy zabezpieczenia zwrotu środków na założenie spółdzielni socjalnej lub przystąpienie do niej po jej założeniu, utworzenie stanowiska pracy lub finansowanie kosztów wynagrodzenia w przypadku niedotrzymania warunków umowy dotyczącej ich przyznania – mając na względzie zwiększenie mobilności osób określonych w ust. 1 pkt 1b, 3 i 4 oraz w ust. 1b, racjonalne gospodarowanie środkami Funduszu Pracy, a także konieczność zapewnienia zgodności udzielania pomocy z zasadami przyznawania pomocy de minimis w przypadku wypłaty środków, o których mowa w ust. 1 pkt 1d, 3 i 4. ” ;
 - **4)** w art. 59b ust. 1 otrzymuje brzmienie: „
 
 1. Wykazy pracodawców i osób, z którymi zawarto umowy w przypadkach określonych w art. 46 ust. 1 pkt 1–1d i 4, ust. 1a, art. 47 ust. 1, art. 51 ust. 1–4, art. 53 ust. 1, art. 53a ust. 1, art. 56, art. 57 ust. 1, 2 i 4 i art. 59 ust. 1 i 2, są podawane do wiadomości publicznej przez powiatowy urząd pracy przez wywieszenie ich na tablicy ogłoszeń w siedzibie urzędu na okres 30 dni. ” ;
@@ -301,5 +305,5 @@ source: "eli-html"
 
 3. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 46 ust. 6a ustawy zmienianej w art. 5 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 46 ust. 6a ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 10.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 11, który wchodzi w życie z dniem 1 stycznia 2018 r.
+**Art. 10.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 11, który wchodzi w życie z dniem 1 stycznia 2018 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 4 września 1997 r. o działach administracji rządowej oraz ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089, 1428, 1448, 1530, 1971, 2056, 2175, 2201 i 2203.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-13 |
 | Data wydania | 2018-12-28 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002438) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2438/text.pdf) |
 
@@ -53,8 +52,7 @@ prowadzenie badań naukowych i prac rozwojowych,
 2)
 przystosowanie wyników badań naukowych i prac rozwojowych do potrzeb praktyki,
 3)
-wdrażanie wyników badań naukowych i prac rozwojowych
-w dziedzinie biotechnologii oraz pozostałych nauk przyrodniczych i technicznych.
+wdrażanie wyników badań naukowych i prac rozwojowych – w dziedzinie biotechnologii oraz pozostałych nauk przyrodniczych i technicznych.
 2.
 Do zakresu działania Instytutu należy prowadzenie badań naukowych i prac rozwojowych w zakresie:
 1)

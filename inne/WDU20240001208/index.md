@@ -26,16 +26,39 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001208) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1208/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej Rozdział 1 – Przepisy ogólne Rozdział 2 – Organizacja i zasady funkcjonowania Krajowej Sieci Onkologicznej Rozdział 3 – Zasady i sposób monitorowania jakości opieki onkologicznej Rozdział 4 – Zasady funkcjonowania i zadania Krajowej Rady Onkologicznej Rozdział 5 – Zasady i tryb finansowania Krajowej Sieci Onkologicznej Rozdział 6 – Zasady prowadzenia diagnostyki onkologicznej i leczenia onkologicznego na podstawie karty diagnostyki i leczenia onkologicznego Rozdział 7 – Zmiany w przepisach Rozdział 8 – Przepisy dostosowujące i przejściowe oraz przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U. poz. 650), z uwzględnieniem zmian wprowadzonych ustawą z dnia 22 lutego 2024 r. o zmianie ustawy o Krajowej Sieci Onkologicznej (Dz. U. poz. 414) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 lipca 2024 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U. poz. 650), które stanowią:
-„
-(pominięte)
+art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U. poz. 650), które stanowią: „
+Przepisy ogólne
+Organizacja i zasady funkcjonowania Krajowej Sieci Onkologicznej
+Zasady i sposób monitorowania jakości opieki onkologicznej
+Zasady funkcjonowania i zadania Krajowej Rady Onkologicznej
+Zasady i tryb finansowania Krajowej Sieci Onkologicznej
+Zasady prowadzenia diagnostyki onkologicznej i leczenia onkologicznego na podstawie karty diagnostyki i leczenia onkologicznego
+Zmiany w przepisach
+(pominięte)Zamieszczone w obwieszczeniu.
+Przepisy dostosowujące i przejściowe oraz przepis końcowy
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Organizacja i zasady funkcjonowania Krajowej Sieci Onkologicznej
+
+#### Rozdział 3 – Zasady i sposób monitorowania jakości opieki onkologicznej
+
+#### Rozdział 4 – Zasady funkcjonowania i zadania Krajowej Rady Onkologicznej
+
+#### Rozdział 5 – Zasady i tryb finansowania Krajowej Sieci Onkologicznej
+
+#### Rozdział 6 – Zasady prowadzenia diagnostyki onkologicznej i leczenia onkologicznego na podstawie karty diagnostyki i leczenia onkologicznego
+
+#### Rozdział 7 – Zmiany w przepisach
+
+#### Rozdział 8 – Przepisy dostosowujące i przejściowe oraz przepis końcowy
 
 **Art. 41.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2022 r. poz. 1731, 1733, 2731 i 2770 oraz z 2023 r. poz. 605) wprowadza się następujące zmiany:
 
@@ -83,7 +106,7 @@ art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U
     - **b)**
 
 - **3)** w art. 15 w ust. 1 pkt 1 otrzymuje brzmienie: „
-- **1)** kandydat na dawcę krwi lub dawca krwi został w sposób dla niego zrozumiały poinformowany przez: lekarza albo pielęgniarkę posiadającą tytuł magistra pielęgniarstwa, która przeprowadziła, pod nadzorem lekarza, co najmniej 100 kwalifikacji dawców do oddania krwi lub jej składników którzy spełniają wymagania określone w przepisach wydanych na podstawie art. 14 ust. 1i, o istocie zabiegu pobrania i o możliwych następstwach dla jego stanu zdrowia oraz o możliwym sposobie wykorzystania krwi i jej składników, w tym o możliwości ich przetworzenia; ” ;
+- **1)** kandydat na dawcę krwi lub dawca krwi został w sposób dla niego zrozumiały poinformowany przez: lekarza albo pielęgniarkę posiadającą tytuł magistra pielęgniarstwa, która przeprowadziła, pod nadzorem lekarza, co najmniej 100 kwalifikacji dawców do oddania krwi lub jej składników – którzy spełniają wymagania określone w przepisach wydanych na podstawie art. 14 ust. 1i, o istocie zabiegu pobrania i o możliwych następstwach dla jego stanu zdrowia oraz o możliwym sposobie wykorzystania krwi i jej składników, w tym o możliwości ich przetworzenia; ” ;
     - **a)**
     - **b)**
 
@@ -214,7 +237,7 @@ art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U
 
 **Art. 2.** Ustawa wchodzi w życie z dniem 31 marca 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa:
 
@@ -249,7 +272,7 @@ art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U
 - **19)** świadczenie opieki zdrowotnej – świadczenie opieki zdrowotnej w rozumieniu art. 5 pkt 34 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
 - **20)** wskaźnik jakości opieki onkologicznej – ustaloną w oparciu o mierniki informację niezbędną do oceny poziomu jakości opieki onkologicznej, służącą podejmowaniu racjonalnych decyzji dotyczących wyboru działań ukierunkowanych na jej poprawę.
 
-#### Rozdział 2 Organizacja i zasady funkcjonowania Krajowej Sieci Onkologicznej
+#### Rozdział 2
 
 **Art. 3.**
 
@@ -273,11 +296,9 @@ art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U
 3. W strukturze organizacyjnej SOLO II poziomu albo SOLO III poziomu może funkcjonować Ośrodek Satelitarny:
 
 - **1)** zlokalizowany poza siedzibą główną tego podmiotu albo
-- **2)** zorganizowany w ramach innego podmiotu wykonującego działalność leczniczą na podstawie umowy z SOLO II poziomu albo SOLO III poziomu, zlokalizowany na obszarze tego samego województwa będący jednostką organizacyjną udzielającą świadczeń diagnostyki onkologicznej lub leczenia onkologicznego z obszaru leczenia zabiegowego chirurgicznego lub chemioterapii i innych metod leczenia systemowego lub radioterapii onkologicznej.
+- **2)** zorganizowany w ramach innego podmiotu wykonującego działalność leczniczą na podstawie umowy z SOLO II poziomu albo SOLO III poziomu, zlokalizowany na obszarze tego samego województwa – będący jednostką organizacyjną udzielającą świadczeń diagnostyki onkologicznej lub leczenia onkologicznego z obszaru leczenia zabiegowego chirurgicznego lub chemioterapii i innych metod leczenia systemowego lub radioterapii onkologicznej.
 
-4. W strukturze SOLO II poziomu i SOLO III poziomu może funkcjonować Centrum Kompetencji wyspecjalizowane w diagnostyce onkologicznej i leczeniu onkologicznym określonego rodzaju nowotworu lub grupy nowotworów, zapewniające kompleksową realizację procesu diagnostyki onkologicznej, leczenia onkologicznego i monitorowania, w ramach którego jest realizowana wielospecjalistyczna opieka nad świadczeniobiorcą, w zakresie, o którym mowa w art. 15 ust. 2 pkt 2, 3, 15, 16 i 17a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
-
-**Art. 5.** Podmioty wykonujące działalność leczniczą niewchodzące w skład Krajowej Sieci Onkologicznej nie są uprawnione do realizacji opieki onkologicznej w ramach zawartej z Funduszem umowy o udzielanie świadczeń opieki zdrowotnej.
+4. W strukturze SOLO II poziomu i SOLO III poziomu może funkcjonować Centrum Kompetencji wyspecjalizowane w diagnostyce onkologicznej i leczeniu onkologicznym określonego rodzaju nowotworu lub grupy nowotworów, zapewniające kompleksową realizację procesu diagnostyki onkologicznej, leczenia onkologicznego i monitorowania, w ramach którego jest realizowana wielospecjalistyczna opieka nad świadczeniobiorcą, w zakresie, o którym mowa w art. 15 ust. 2 pkt 2, 3, 15, 16 i 17a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. Art. 5Wejdzie w życie z dniem 1 kwietnia 2025 r. na podstawie art. 58 pkt 1 niniejszej ustawy.. Podmioty wykonujące działalność leczniczą niewchodzące w skład Krajowej Sieci Onkologicznej nie są uprawnione do realizacji opieki onkologicznej w ramach zawartej z Funduszem umowy o udzielanie świadczeń opieki zdrowotnej.
 
 **Art. 6.**
 
@@ -285,7 +306,7 @@ art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U
 
 - **1)** leczenie zabiegowe chirurgiczne,
 - **2)** chemioterapia i inne metody leczenia systemowego,
-- **3)** radioterapia onkologiczna oraz współpracującym z SOLO III poziomu.
+- **3)** radioterapia onkologiczna – oraz współpracującym z SOLO III poziomu.
 
 2. SOLO I poziomu:
 
@@ -380,7 +401,7 @@ art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U
 6. Protest i odwołanie nie podlegają rozpatrzeniu, jeżeli:
 
 - **1)** zostały wniesione po terminie,
-- **2)** nie spełniają wymagań określonych odpowiednio w ust. 1, 2 i 4 o czym Prezes Funduszu albo minister właściwy do spraw zdrowia informuje na piśmie świadczeniodawcę wnoszącego protest albo odwołanie, w terminie 7 dni od dnia wniesienia protestu albo odwołania.
+- **2)** nie spełniają wymagań określonych odpowiednio w ust. 1, 2 i 4 – o czym Prezes Funduszu albo minister właściwy do spraw zdrowia informuje na piśmie świadczeniodawcę wnoszącego protest albo odwołanie, w terminie 7 dni od dnia wniesienia protestu albo odwołania.
 
 7. W przypadku, o którym mowa w ust. 6, Prezes Funduszu albo minister właściwy do spraw zdrowia wydaje postanowienie w przedmiocie nierozpatrzenia protestu albo odwołania, na które służy zażalenie, do którego stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
@@ -407,7 +428,7 @@ art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U
 
 - **1)** liczba i kwalifikacje personelu medycznego,
 - **2)** potencjał diagnostyczno-terapeutyczny zapewniający odpowiednią jakość i bezpieczeństwo udzielanych świadczeń gwarantowanych w rozumieniu art. 5 pkt 35 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych,
-- **3)** liczba i rodzaj wykonywanych procedur medycznych lub liczba świadczeniobiorców, którym są udzielane świadczenia opieki zdrowotnej w obszarach, o których mowa w art. 6 ust. 1, art. 7 ust. 1 oraz art. 8 ust. 1.
+- **3)** liczba i rodzaj wykonywanych procedur medycznych lub liczba świadczeniobiorców, którym są udzielane świadczenia opieki zdrowotnej – w obszarach, o których mowa w art. 6 ust. 1, art. 7 ust. 1 oraz art. 8 ust. 1.
 
 2. Na poziom zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej, o którym mowa w art. 3 ust. 2 pkt 2, kwalifikuje się podmioty wykonujące działalność leczniczą, które zawarły z Funduszem umowę, o której mowa w art. 9 ust. 3, w zakresie świadczeń opieki zdrowotnej, o którym mowa w art. 15 ust. 2 pkt 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, udzielające porad specjalistycznych lub wykonujące diagnostykę onkologiczną obejmującą specjalistyczne badania obrazowe lub badania endoskopowe lub diagnostykę cytologiczną, lub diagnostykę genetyczną, lub oznaczenie poziomu hormonu, lub oznaczenie markera nowotworowego, lub świadczenia zabiegowe, lub inne badania diagnostyczne niezbędne do postawienia diagnozy onkologicznej lub kontynuacji procesu leczenia.
 
@@ -468,13 +489,9 @@ art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U
 
 **Art. 20.**
 
-1. W ramach Krajowej Sieci Onkologicznej Fundusz prowadzi infolinię onkologiczną, za pośrednictwem systemów teleinformatycznych lub systemów łączności, w ramach której jest udzielana informacja o organizacji opieki onkologicznej w ramach Krajowej Sieci Onkologicznej, w tym o możliwości uzyskania świadczeń opieki zdrowotnej.
+1. W ramach Krajowej Sieci Onkologicznej Fundusz prowadzi infolinię onkologiczną, za pośrednictwem systemów teleinformatycznych lub systemów łączności, w ramach której jest udzielana informacja o organizacji opieki onkologicznej w ramach Krajowej Sieci Onkologicznej, w tym o możliwości uzyskania świadczeń opieki zdrowotnej. 2Wejdzie w życie z dniem 1 lipca 2025 r. na podstawie art. 58 pkt 2 niniejszej ustawy.. Infolinia onkologiczna umożliwia dokonanie zapisu na pierwszorazowe świadczenie opieki zdrowotnej w podmiocie działającym w ramach Krajowej Sieci Onkologicznej oraz zmiany lub anulowania terminu pierwszorazowego świadczenia opieki zdrowotnej, w przypadku gdy zapis dokonany był za pośrednictwem infolinii onkologicznej, przy wykorzystaniu funkcjonalności systemu teleinformatycznego, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, na zasadach określonych w tej ustawie oraz w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
-2. Infolinia onkologiczna umożliwia dokonanie zapisu na pierwszorazowe świadczenie opieki zdrowotnej w podmiocie działającym w ramach Krajowej Sieci Onkologicznej oraz zmiany lub anulowania terminu pierwszorazowego świadczenia opieki zdrowotnej, w przypadku gdy zapis dokonany był za pośrednictwem infolinii onkologicznej, przy wykorzystaniu funkcjonalności systemu teleinformatycznego, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, na zasadach określonych w tej ustawie oraz w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
-
-3. Infolinia onkologiczna jest prowadzona na poziomie krajowym.
-
-4. W zakresie niezbędnym do realizacji zadań, o których mowa w ust. 2, w infolinii onkologicznej przetwarza się dane obejmujące:
+3. Infolinia onkologiczna jest prowadzona na poziomie krajowym. 4Wejdzie w życie z dniem 1 lipca 2025 r. na podstawie art. 58 pkt 2 niniejszej ustawy.. W zakresie niezbędnym do realizacji zadań, o których mowa w ust. 2, w infolinii onkologicznej przetwarza się dane obejmujące:
 
 - **1)** oznaczenie świadczeniobiorcy: imię (imiona) i nazwisko, adres miejsca zamieszkania (ulica, numer domu i lokalu, kod pocztowy, miejscowość), numer PESEL, jeżeli został nadany, a w przypadku osób, które nie mają nadanego numeru PESEL – rodzaj i numer dokumentu potwierdzającego tożsamość, a w przypadku noworodka – numer PESEL jednego z rodziców lub opiekuna prawnego, numer kolejny noworodka oraz datę jego urodzenia i oznaczenie płci, w przypadku gdy świadczeniobiorcą jest osoba małoletnia, całkowicie ubezwłasnowolniona lub niezdolna do świadomego wyrażenia zgody – imię (imiona) i nazwisko przedstawiciela ustawowego albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581) oraz adres jego miejsca zamieszkania, numer telefonu, jeżeli świadczeniobiorca go posiada, adres poczty elektronicznej, jeżeli świadczeniobiorca go posiada;
     - **a)**
@@ -498,17 +515,15 @@ art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U
     - **b)**
     - **c)**
 
-- **6)** dane świadczeniodawców innych niż wskazanych w pkt 2, którzy udzielają świadczeń opieki zdrowotnej w ramach Krajowej Sieci Onkologicznej: nazwa i adres świadczeniodawcy, miejsce udzielania świadczeń opieki zdrowotnej, numer telefonu, adres poczty elektronicznej wraz z oznaczeniem dostępnych terminów;
+- **6)** dane świadczeniodawców innych niż wskazanych w pkt 2, którzy udzielają świadczeń opieki zdrowotnej w ramach Krajowej Sieci Onkologicznej: nazwa i adres świadczeniodawcy, miejsce udzielania świadczeń opieki zdrowotnej, numer telefonu, adres poczty elektronicznej – wraz z oznaczeniem dostępnych terminów;
     - **a)**
     - **b)**
     - **c)**
     - **d)**
 
-- **7)** dane zawarte w informacji o skierowaniu do lekarza specjalisty lub szpitala, o których mowa w art. 59b ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+- **7)** dane zawarte w informacji o skierowaniu do lekarza specjalisty lub szpitala, o których mowa w art. 59b ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. 5Wejdzie w życie z dniem 1 lipca 2025 r. na podstawie art. 58 pkt 2 niniejszej ustawy.. Podmioty, o których mowa w art. 3 ust. 2, udostępniają w systemie teleinformatycznym, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, prowadzone przez nie harmonogramy przyjęć, o których mowa w art. 19a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w celu realizacji zadań, o których mowa w ust. 2. Dostęp do harmonogramów przyjęć, o których mowa w zdaniu pierwszym, przysługuje osobom dokonującym zapisu na świadczenie opieki zdrowotnej oraz jego zmiany lub anulowania za pośrednictwem infolinii onkologicznej.
 
-5. Podmioty, o których mowa w art. 3 ust. 2, udostępniają w systemie teleinformatycznym, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, prowadzone przez nie harmonogramy przyjęć, o których mowa w art. 19a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w celu realizacji zadań, o których mowa w ust. 2. Dostęp do harmonogramów przyjęć, o których mowa w zdaniu pierwszym, przysługuje osobom dokonującym zapisu na świadczenie opieki zdrowotnej oraz jego zmiany lub anulowania za pośrednictwem infolinii onkologicznej.
-
-#### Rozdział 3 Zasady i sposób monitorowania jakości opieki onkologicznej
+#### Rozdział 3
 
 **Art. 21.** Monitorowanie jakości opieki onkologicznej w ramach Krajowej Sieci Onkologicznej prowadzą:
 
@@ -594,7 +609,7 @@ art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U
     - **b)**
     - **c)**
 
-- **4)** dane pracownika medycznego udzielającego świadczeń opieki zdrowotnej w ramach opieki onkologicznej: identyfikator pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm.) – w przypadku pracownika medycznego, który nie posiada identyfikatora pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, imię (imiona) i nazwisko, kod przynależności do danej grupy zawodowej określony zgodnie z przepisami wydanymi na podstawie art. 190 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **4)** dane pracownika medycznego udzielającego świadczeń opieki zdrowotnej w ramach opieki onkologicznej: identyfikator pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 28 z 04.04.2016, str. 18. – w przypadku pracownika medycznego, który nie posiada identyfikatora pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, imię (imiona) i nazwisko, kod przynależności do danej grupy zawodowej określony zgodnie z przepisami wydanymi na podstawie art. 190 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
     - **a)**
     - **b)**
     - **c)**
@@ -633,7 +648,7 @@ art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U
 - **1)** szczegółowy zakres danych, o których mowa w ust. 3 pkt 6 i 7, służących do obliczania wskaźników oceny opieki onkologicznej lub weryfikacji spełniania kryteriów, o których mowa w art. 13 ust. 1 i 2, oraz kryteriów określonych w przepisach wydanych na podstawie art. 13 ust. 3, mając na uwadze potrzebę zapewnienia jednolitości danych przekazywanych do systemu KSO przez podmioty w Krajowej Sieci Onkologicznej;
 - **2)** sposób i terminy przekazywania do systemu KSO danych, o których mowa w ust. 3, uwzględniając potrzebę zapewnienia poprawności i aktualności gromadzonych danych.
 
-#### Rozdział 4 Zasady funkcjonowania i zadania Krajowej Rady Onkologicznej
+#### Rozdział 4
 
 **Art. 27.**
 
@@ -729,7 +744,7 @@ art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U
 - **1)** organizację i tryb jej działania, sposób i tryb udzielania opinii, uwzględniając konieczność sprawnego wypełniania zadań przez Radę;
 - **2)** wysokość wynagrodzenia członków Rady, uwzględniając zakres ich zadań.
 
-#### Rozdział 5 Zasady i tryb finansowania Krajowej Sieci Onkologicznej
+#### Rozdział 5
 
 **Art. 35.**
 
@@ -753,7 +768,7 @@ art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U
 
 **Art. 38.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób ustalenia wysokości ryczałtu dla KOM i poszczególnych WOM oraz wysokości współczynników korygujących, o których mowa w art. 35 ust. 2, mając na uwadze poprawę efektywności systemu ochrony zdrowia oraz jakości i bezpieczeństwa udzielania świadczeń opieki zdrowotnej.
 
-#### Rozdział 6 Zasady prowadzenia diagnostyki onkologicznej i leczenia onkologicznego na podstawie karty diagnostyki i leczenia onkologicznego
+#### Rozdział 6
 
 **Art. 39.**
 
@@ -824,9 +839,9 @@ art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U
 
 7. Dane, o których mowa w przepisach wydanych na podstawie art. 190 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, dotyczące diagnostyki onkologicznej lub leczenia onkologicznego przekazywane przez świadczeniodawców Funduszowi na podstawie karty diagnostyki i leczenia onkologicznego w przypadku świadczenia zakończonego wydaniem karty diagnostyki i leczenia onkologicznego oraz w przypadku świadczeń z zakresu diagnostyki onkologicznej lub leczenia onkologicznego udzielanych zgodnie z art. 39 są na bieżąco przekazywane do systemu teleinformatycznego, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, w celu weryfikacji uprawnień świadczeniobiorców, którym wydano kartę diagnostyki i leczenia onkologicznego.
 
-#### Rozdział 7 Zmiany w przepisach
+#### Rozdział 7
 
-#### Rozdział 8 Przepisy dostosowujące i przejściowe oraz przepis końcowy
+#### Rozdział 8
 
 **Art. 46.** Podmioty, o których mowa w art. 28 ust. 1 pkt 2 i 4–7, w terminie 14 dni od dnia wejścia w życie niniejszej ustawy wystąpią do ministra właściwego do spraw zdrowia z wnioskiem, o którym mowa w art. 28 ust. 3.
 
@@ -839,19 +854,13 @@ art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U
 **Art. 50.** Wskaźniki jakości opieki onkologicznej, o których mowa w art. 17, zostaną obliczone po raz pierwszy dla:
 
 - **1)** SOLO – po upływie 12 miesięcy od dnia ogłoszenia wykazu, o którym mowa w art. 9 ust. 4;
-- **2)** Ośrodków Kooperacyjnych – po upływie 24 miesięcy od dnia ogłoszenia wykazu, o którym mowa w art. 9 ust. 4.
-
-**Art. 51.** Wyniki i wnioski z analizy, o której mowa w art. 22 ust. 2 pkt 2, oraz raporty, o których mowa w art. 23 ust. 2 pkt 2, są sporządzane po raz pierwszy za 2025 r.
+- **2)** Ośrodków Kooperacyjnych – po upływie 24 miesięcy od dnia ogłoszenia wykazu, o którym mowa w art. 9 ust. 4. Art. 51Ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy z dnia 22 lutego 2024 r. o zmianie ustawy o Krajowej Sieci Onkologicznej (Dz. U. poz. 414), która weszła w życie z dniem 31 marca 2024 r.. Wyniki i wnioski z analizy, o której mowa w art. 22 ust. 2 pkt 2, oraz raporty, o których mowa w art. 23 ust. 2 pkt 2, są sporządzane po raz pierwszy za 2025 r.
 
 **Art. 52.** Usługodawcy są obowiązani zamieszczać w systemie, o którym mowa w art. 5 ust. 1 pkt 1 ustawy zmienianej w art. 45, wyniki badań histopatologicznych, o których mowa w art. 11 ust. 5 pkt 2 ustawy zmienianej w art. 45 w brzmieniu nadanym niniejszą ustawą, po upływie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 53.**
 
-1. System Krajowej Sieci Onkologicznej, o którym mowa w art. 11a ust. 1 ustawy zmienianej w art. 45, uruchamia się w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
-
-2. Podmioty wykonujące działalność leczniczą wchodzące w skład Krajowej Sieci Onkologicznej są obowiązane do przekazywania do systemu Krajowej Sieci Onkologicznej, o którym mowa w art. 11a ust. 1 ustawy zmienianej w art. 45, danych o sprawowanej opiece onkologicznej, o których mowa w art. 26 ust. 3, od dnia 1 kwietnia 2025 r.
-
-**Art. 54.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 32b ust. 5 ustawy zmienianej w art. 44 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 40 ust. 5 niniejszej ustawy, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
+1. System Krajowej Sieci Onkologicznej, o którym mowa w art. 11a ust. 1 ustawy zmienianej w art. 45, uruchamia się w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy. 2W brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 5.. Podmioty wykonujące działalność leczniczą wchodzące w skład Krajowej Sieci Onkologicznej są obowiązane do przekazywania do systemu Krajowej Sieci Onkologicznej, o którym mowa w art. 11a ust. 1 ustawy zmienianej w art. 45, danych o sprawowanej opiece onkologicznej, o których mowa w art. 26 ust. 3, od dnia 1 kwietnia 2025 r. Art. 54Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 5.. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 32b ust. 5 ustawy zmienianej w art. 44 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 40 ust. 5 niniejszej ustawy, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 55.**
 
@@ -861,9 +870,7 @@ art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U
 
 **Art. 56.**
 
-1. Podmioty wykonujące działalność leczniczą udzielające świadczeń opieki onkologicznej w ramach realizacji umowy o udzielanie świadczeń opieki zdrowotnej z Narodowym Funduszem Zdrowia na świadczenia opieki onkologicznej w dniu wejścia w życie niniejszej ustawy wchodzą do Krajowej Sieci Onkologicznej.
-
-2. Pierwsza kwalifikacja na dany poziom zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej, o którym mowa w art. 3 ust. 2, zostanie przeprowadzona do dnia 31 marca 2025 r.
+1. Podmioty wykonujące działalność leczniczą udzielające świadczeń opieki onkologicznej w ramach realizacji umowy o udzielanie świadczeń opieki zdrowotnej z Narodowym Funduszem Zdrowia na świadczenia opieki onkologicznej w dniu wejścia w życie niniejszej ustawy wchodzą do Krajowej Sieci Onkologicznej. 2W brzmieniu ustalonym przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 5.. Pierwsza kwalifikacja na dany poziom zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej, o którym mowa w art. 3 ust. 2, zostanie przeprowadzona do dnia 31 marca 2025 r.
 
 3. Prezes Narodowego Funduszu Zdrowia dokonuje pierwszej kwalifikacji podmiotów leczniczych na dany poziom zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej, o którym mowa w art. 3 ust. 2, w oparciu o dane przetwarzane w Systemie RUM – NFZ, o którym mowa w art. 22 ust. 1 ustawy zmienianej w art. 45, oraz w dedykowanych serwisach internetowych lub usługach informatycznych, o których mowa w przepisach wydanych na podstawie art. 137 ust. 2 ustawy zmienianej w art. 44.
 
@@ -877,13 +884,10 @@ art. 41–45 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U
 
 - **1)** poziomu, o którym mowa w art. 95l ust. 2 pkt 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie szpitali onkologicznych,
 - **2)** realizowanych w ramach leczenia onkologicznego w zakresie leczenia szpitalnego, objętych finansowaniem poza umowami, o których mowa w pkt 1,
-- **3)** realizowanych w ramach leczenia onkologicznego w zakresie ambulatoryjnej opieki specjalistycznej obowiązujące przed dniem wejścia w życie niniejszej ustawy zachowują ważność.
+- **3)** realizowanych w ramach leczenia onkologicznego w zakresie ambulatoryjnej opieki specjalistycznej – obowiązujące przed dniem wejścia w życie niniejszej ustawy zachowują ważność.
 
-**Art. 58.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+**Art. 58.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 5 kwietnia 2023 r., z wyjątkiem: 1W brzmieniu ustalonym przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 5.) art. 5, który wchodzi w życie z dniem 1 kwietnia 2025 r.; 2W brzmieniu ustalonym przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 5.) art. 20 ust. 2, 4 i 5, które wchodzą w życie z dniem 1 lipca 2025 r.;
 
-- **1)** art. 5, który wchodzi w życie z dniem 1 kwietnia 2025 r.;
-- **2)** art. 20 ust. 2, 4 i 5, które wchodzą w życie z dniem 1 lipca 2025 r.;
-- **3)** art. 41, który wchodzi w życie z dniem 1 lipca 2023 r.
-- **1)** Wejdzie w życie z dniem 1 kwietnia 2025 r. na podstawie art. 58 pkt 1 niniejszej ustawy. 2) Wejdzie w życie z dniem 1 lipca 2025 r. na podstawie art. 58 pkt 2 niniejszej ustawy. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 28 z 04.04.2016, str. 18. 4) Zamieszczone w obwieszczeniu. 5) Ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy z dnia 22 lutego 2024 r. o zmianie ustawy o Krajowej Sieci Onkologicznej (Dz. U. poz. 414), która weszła w życie z dniem 31 marca 2024 r. 6) W brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 5. 7) Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 5. 8) W brzmieniu ustalonym przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 5. 9) Ustawa została ogłoszona w dniu 5 kwietnia 2023 r. 10) W brzmieniu ustalonym przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 5.
+- **3)** art. 41, który wchodzi w życie z dniem 1 lipca 2023 r. 1) Wejdzie w życie z dniem 1 kwietnia 2025 r. na podstawie art. 58 pkt 1 niniejszej ustawy. 2) Wejdzie w życie z dniem 1 lipca 2025 r. na podstawie art. 58 pkt 2 niniejszej ustawy. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 28 z 04.04.2016, str. 18. 4) Zamieszczone w obwieszczeniu. 5) Ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy z dnia 22 lutego 2024 r. o zmianie ustawy o Krajowej Sieci Onkologicznej (Dz. U. poz. 414), która weszła w życie z dniem 31 marca 2024 r. 6) W brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 5. 7) Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 5. 8) W brzmieniu ustalonym przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 5. 9) Ustawa została ogłoszona w dniu 5 kwietnia 2023 r. 10) W brzmieniu ustalonym przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 5.
 
 

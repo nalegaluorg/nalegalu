@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Rozwojuz dnia 15 lipca 2016 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie udzielania regionalnej pomocy inwestycyjnej, pomocy na usługi doradcze związane z przygotowaniem inwestycji początkowej oraz pomocy na usługi doradcze związane z realizacją inwestycji początkowej przez fundusze rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych przyjętych na lata 2007–2013
+# Obwieszczenie Ministra Rozwojuz dnia 15 lipca 2016 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie udzielania regionalnej pomocy inwestycyjnej, pomocy na usługi doradcze związane z przygotowaniem inwestycji początkowej oraz pomocy na usługi doradcze związane z realizacją inwestycji początkowej przez fundusze rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych przyjętych na lata 2007–2013 Minister Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 20 listopada 2014 r. w sprawie udzielania regionalnej pomocy inwestycyjnej, pomocy na usługi doradcze związane z przygotowaniem inwestycji początkowej oraz pomocy na usługi doradcze związane z realizacją inwestycji początkowej przez fundusze rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych przyjętych na lata 2007–2013 (Dz. U. poz. 1699), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 10 listopada 2015 r. zmieniającym rozporządzenie w sprawie udzielania regionalnej pomocy inwestycyjnej, pomocy na usługi doradcze związane z przygotowaniem inwestycji początkowej oraz pomocy na usługi doradcze związane z realizacją inwestycji początkowej przez fundusze rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych przyjętych na lata 2007–2013 (Dz. U. poz. 1988).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 10 listopada 2015 r. zmieniającego rozporządzenie w sprawie udzielania regionalnej pomocy inwestycyjnej, pomocy na usługi doradcze związane z przygotowaniem inwestycji początkowej oraz pomocy na usługi doradcze związane z realizacją inwestycji początkowej przez fundusze rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych przyjętych na lata 2007–2013 (Dz. U. poz. 1988), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 10 listopada 2015 r. zmieniającego rozporządzenie w sprawie udzielania regionalnej pomocy inwestycyjnej, pomocy na usługi doradcze związane z przygotowaniem inwestycji początkowej oraz pomocy na usługi doradcze związane z realizacją inwestycji początkowej przez fundusze rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych przyjętych na lata 2007–2013 (Dz. U. poz. 1988), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895).
-Załącznik – Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 20 listopada 2014 r. w sprawie udzielania regionalnej pomocy inwestycyjnej, pomocy na usługi doradcze związane z przygotowaniem inwestycji początkowej oraz pomocy na usługi doradcze związane z realizacją inwestycji początkowej przez fundusze rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych przyjętych na lata 2007–2013
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895).
+Załącznik – Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 20 listopada 2014 r. w sprawie udzielania regionalnej pomocy inwestycyjnej, pomocy na usługi doradcze związane z przygotowaniem inwestycji początkowej oraz pomocy na usługi doradcze związane z realizacją inwestycji początkowej przez fundusze rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych przyjętych na lata 2007–2013Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Rozwoju, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895).
 Na podstawie art. 21 ust. 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2016 r. poz. 383) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom przez fundusze rozwoju obszarów miejskich, w ramach regionalnych programów operacyjnych przyjętych na lata 2007–2013, następujących rodzajów pomocy:
@@ -46,16 +43,15 @@ regionalnej pomocy inwestycyjnej,
 2)
 pomocy na usługi doradcze związane z przygotowaniem inwestycji początkowej,
 3)
-pomocy na usługi doradcze związane z realizacją inwestycji początkowej
-zwanych dalej „pomocą”, do których mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”.
+pomocy na usługi doradcze związane z realizacją inwestycji początkowej – zwanych dalej „pomocą”, do których mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28 oraz Dz. Urz. UE L 149 z 07.06.2016, str. 10.), zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”.
 § 2.
 Przepisów rozporządzenia nie stosuje się do:
 1)
-pożyczki udzielanej przedsiębiorcy, oprocentowanej według stopy referencyjnej ustalonej zgodnie z metodą określoną przez Komisję Europejską lub stopy wyższej;
+pożyczki udzielanej przedsiębiorcy, oprocentowanej według stopy referencyjnej ustalonej zgodnie z metodą określoną przez Komisję EuropejskąMetoda ta jest określona w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6). lub stopy wyższej;
 2)
-poręczenia spłaty kredytu lub innego zobowiązania finansowego udzielanego mikroprzedsiębiorcy, małemu lub średniemu przedsiębiorcy, który nie ma problemów finansowych zgodnie z kryteriami określonymi przez Komisję Europejską, jeżeli:
+poręczenia spłaty kredytu lub innego zobowiązania finansowego udzielanego mikroprzedsiębiorcy, małemu lub średniemu przedsiębiorcy, który nie ma problemów finansowych zgodnie z kryteriami określonymi przez Komisję EuropejskąKryteria te są określone w pkt 3.2 lit. a obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.)., jeżeli:
 a)
-koszt poręczenia został ustalony w oparciu o stawkę bezpieczną określoną przez Komisję Europejską lub stawkę wyższą,
+koszt poręczenia został ustalony w oparciu o stawkę bezpieczną określoną przez Komisję EuropejskąStawka ta jest określona w pkt 3.3 obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). lub stawkę wyższą,
 b)
 poręczenie jest terminowe i udzielane do kwoty z góry oznaczonej,
 c)
@@ -69,7 +65,7 @@ dużym projekcie inwestycyjnym – należy przez to rozumieć duży projekt inwe
 2)
 dużym przedsiębiorcy – należy przez to rozumieć duże przedsiębiorstwo w rozumieniu art. 2 pkt 24 rozporządzenia Komisji (UE) nr 651/2014;
 3)
-funduszu rozwoju obszarów miejskich – należy przez to rozumieć fundusz na rzecz rozwoju obszarów miejskich, o którym mowa w art. 46 ust. 1 rozporządzenia Komisji (WE) nr 1828/2006 z dnia 8 grudnia 2006 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1083/2006 ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności oraz rozporządzenia (WE) nr 1080/2006 Parlamentu Europejskiego i Rady w sprawie Europejskiego Funduszu Rozwoju Regionalnego (Dz. Urz. UE L 371 z 27.12.2006, str. 1, z późn. zm.), którego celem jest tworzenie korzystnych warunków do rozwoju obszarów miejskich przez udzielanie pożyczek przedsiębiorcom lub poręczeń mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom;
+funduszu rozwoju obszarów miejskich – należy przez to rozumieć fundusz na rzecz rozwoju obszarów miejskich, o którym mowa w art. 46 ust. 1 rozporządzenia Komisji (WE) nr 1828/2006 z dnia 8 grudnia 2006 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1083/2006 ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności oraz rozporządzenia (WE) nr 1080/2006 Parlamentu Europejskiego i Rady w sprawie Europejskiego Funduszu Rozwoju Regionalnego (Dz. Urz. UE L 371 z 27.12.2006, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 45 z 15.02.2007, str. 3, Dz. Urz. UE L 128 z 16.05.2008, str. 11, Dz. Urz. UE L 250 z 23.09.2009, str. 1, Dz. Urz. UE L 248 z 22.09.2010, str. 1, Dz. Urz. UE L 338 z 22.12.2010, str. 62, Dz. Urz. UE L 317 z 30.11.2011, str. 24 oraz Dz. Urz. UE L 110 z 29.04.2015, str. 41.), którego celem jest tworzenie korzystnych warunków do rozwoju obszarów miejskich przez udzielanie pożyczek przedsiębiorcom lub poręczeń mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom;
 4)
 intensywności pomocy – należy przez to rozumieć intensywność pomocy w rozumieniu art. 2 pkt 26 rozporządzenia Komisji (UE) nr 651/2014;
 5)
@@ -90,9 +86,9 @@ pożyczki dla przedsiębiorców – stanowi różnicę pomiędzy zdyskontowaną 
 2)
 poręczenia dla mikroprzedsiębiorców, małych lub średnich przedsiębiorców – stanowi różnicę między zdyskontowaną wartością rynkowej opłaty prowizyjnej, jaka byłaby pobrana od udzielanego poręczenia, a zdyskontowaną wartością opłaty prowizyjnej pobieranej przez fundusz rozwoju obszarów miejskich.
 2.
-Rynkowa wartość odsetek, o której mowa w ust. 1 pkt 1, jest wyliczana na podstawie stóp referencyjnych ustalonych zgodnie z metodą określoną przez Komisję Europejską.
+Rynkowa wartość odsetek, o której mowa w ust. 1 pkt 1, jest wyliczana na podstawie stóp referencyjnych ustalonych zgodnie z metodą określoną przez Komisję EuropejskąMetoda ta jest określona w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6)..
 3.
-Przez rynkową opłatę prowizyjną, o której mowa w ust. 1 pkt 2, rozumie się stawkę bezpieczną, ustaloną zgodnie z metodą określoną przez Komisję Europejską.
+Przez rynkową opłatę prowizyjną, o której mowa w ust. 1 pkt 2, rozumie się stawkę bezpieczną, ustaloną zgodnie z metodą określoną przez Komisję EuropejskąStawka ta jest określona w pkt 3.3 obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.)..
 § 8.
 1.
 Pomoc może być udzielana w województwie objętym regionalnym programem operacyjnym przyjętym na lata 2007–2013.
@@ -108,8 +104,7 @@ Regionalna pomoc inwestycyjna może być udzielana w odniesieniu do:
 1)
 inwestycyjnych kosztów kwalifikowalnych związanych z realizacją inwestycji początkowej,
 2)
-kosztów kwalifikowalnych ponoszonych na tworzenie nowych miejsc pracy związanych z realizacją inwestycji początkowej
-zgodnie z art. 14 ust. 4 rozporządzenia Komisji (UE) nr 651/2014.
+kosztów kwalifikowalnych ponoszonych na tworzenie nowych miejsc pracy związanych z realizacją inwestycji początkowej – zgodnie z art. 14 ust. 4 rozporządzenia Komisji (UE) nr 651/2014.
 2.
 Do inwestycyjnych kosztów kwalifikowalnych związanych z realizacją inwestycji początkowej zalicza się niezbędne do jej realizacji koszty ponoszone na:
 1)
@@ -153,8 +148,7 @@ wynagrodzenia brutto,
 2)
 obowiązkowe składki, w tym składki na ubezpieczenia społeczne,
 3)
-koszty opieki nad dziećmi i nad rodzicami
-jeżeli są spełnione warunki określone w art. 14 ust. 9 rozporządzenia Komisji (UE) nr 651/2014.
+koszty opieki nad dziećmi i nad rodzicami – jeżeli są spełnione warunki określone w art. 14 ust. 9 rozporządzenia Komisji (UE) nr 651/2014.
 § 11.
 1.
 Pomoc na usługi doradcze związane z przygotowaniem inwestycji początkowej oraz pomoc na usługi doradcze związane z realizacją inwestycji początkowej jest udzielana na rzecz mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy, na zasadach określonych w art. 18 rozporządzenia Komisji (UE) nr 651/2014.
@@ -193,7 +187,7 @@ Regionalna pomoc inwestycyjna, udzielana zgodnie z warunkami określonymi w rozp
 1)
 11,25 mln euro – dla inwestycji realizowanych na obszarze należącym do miasta stołecznego Warszawy;
 2)
-15 mln euro – dla inwestycji realizowanych na obszarze należącym do podregionu warszawskiego zachodniego, o którym mowa w rozporządzeniu Rady Ministrów z dnia 14 listopada 2007 r. w sprawie wprowadzenia Nomenklatury Jednostek Terytorialnych do Celów Statystycznych (NTS) (Dz. U. poz. 1573, z późn. zm.);
+15 mln euro – dla inwestycji realizowanych na obszarze należącym do podregionu warszawskiego zachodniego, o którym mowa w rozporządzeniu Rady Ministrów z dnia 14 listopada 2007 r. w sprawie wprowadzenia Nomenklatury Jednostek Terytorialnych do Celów Statystycznych (NTS) (Dz. U. poz. 1573, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. poz. 1359, z 2009 r. poz. 1558, z 2010 r. poz. 1658, z 2012 r. poz. 1390, z 2013 r. poz. 1587, z 2014 r. poz. 1992 oraz z 2015 r. poz. 2313.);
 3)
 18,75 mln euro – dla inwestycji realizowanych na obszarach należących do województw: dolnośląskiego, śląskiego, wielkopolskiego;
 4)
@@ -243,7 +237,7 @@ Po przeprowadzeniu oceny, o której mowa w ust. 4, pomoc przeznaczona na pokryci
 W przypadku regionalnej pomocy inwestycyjnej przedsiębiorca, zawierając umowę o udzielenie pomocy, zobowiązuje się do utrzymania inwestycji na zasadach określonych w art. 14 ust. 5 rozporządzenia Komisji (UE) nr 651/2014.
 7.
 Fundusz rozwoju obszarów miejskich przekazuje przedsiębiorcy informacje, o których mowa w art. 38 ust. 1 i 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. poz. 404, z 2008 r. poz. 585, z 2010 r. poz. 99, z 2011 r. poz. 1381 oraz z 2015 r. poz. 1830).
-§ 17.
+§ 17W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 10 listopada 2015 r. zmieniającego rozporządzenie w sprawie udzielania regionalnej pomocy inwestycyjnej, pomocy na usługi doradcze związane z przygotowaniem inwestycji początkowej oraz pomocy na usługi doradcze związane z realizacją inwestycji początkowej przez fundusze rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych przyjętych na lata 2007–2013 (Dz. U. poz. 1988), które weszło w życie z dniem 28 listopada 2015 r..
 Pomoc jest udzielana do dnia 31 marca 2017 r.
 § 18.
 1.
@@ -255,6 +249,5 @@ Wnioski, o których mowa w ust. 2, wymagające uzupełnienia w zakresie wynikaj�
 § 19.
 Traci moc rozporządzenie Ministra Rozwoju Regionalnego z dnia 21 grudnia 2010 r. w sprawie udzielania regionalnej pomocy inwestycyjnej przez fundusze rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych (Dz. U. poz. 1709 oraz z 2013 r. poz. 1430).
 § 20.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Rozwoju, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28 oraz Dz. Urz. UE L 149 z 07.06.2016, str. 10. 3) Metoda ta jest określona w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6). 4) Kryteria te są określone w pkt 3.2 lit. a obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). 5) Stawka ta jest określona w pkt 3.3 obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 45 z 15.02.2007, str. 3, Dz. Urz. UE L 128 z 16.05.2008, str. 11, Dz. Urz. UE L 250 z 23.09.2009, str. 1, Dz. Urz. UE L 248 z 22.09.2010, str. 1, Dz. Urz. UE L 338 z 22.12.2010, str. 62, Dz. Urz. UE L 317 z 30.11.2011, str. 24 oraz Dz. Urz. UE L 110 z 29.04.2015, str. 41. 7) Metoda ta jest określona w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6). 8) Stawka ta jest określona w pkt 3.3 obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). 9) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. poz. 1359, z 2009 r. poz. 1558, z 2010 r. poz. 1658, z 2012 r. poz. 1390, z 2013 r. poz. 1587, z 2014 r. poz. 1992 oraz z 2015 r. poz. 2313. 10) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 10 listopada 2015 r. zmieniającego rozporządzenie w sprawie udzielania regionalnej pomocy inwestycyjnej, pomocy na usługi doradcze związane z przygotowaniem inwestycji początkowej oraz pomocy na usługi doradcze związane z realizacją inwestycji początkowej przez fundusze rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych przyjętych na lata 2007–2013 (Dz. U. poz. 1988), które weszło w życie z dniem 28 listopada 2015 r. 11) Rozporządzenie zostało ogłoszone w dniu 2 grudnia 2014 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 2 grudnia 2014 r.. 1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Rozwoju, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28 oraz Dz. Urz. UE L 149 z 07.06.2016, str. 10. 3) Metoda ta jest określona w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6). 4) Kryteria te są określone w pkt 3.2 lit. a obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). 5) Stawka ta jest określona w pkt 3.3 obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 45 z 15.02.2007, str. 3, Dz. Urz. UE L 128 z 16.05.2008, str. 11, Dz. Urz. UE L 250 z 23.09.2009, str. 1, Dz. Urz. UE L 248 z 22.09.2010, str. 1, Dz. Urz. UE L 338 z 22.12.2010, str. 62, Dz. Urz. UE L 317 z 30.11.2011, str. 24 oraz Dz. Urz. UE L 110 z 29.04.2015, str. 41. 7) Metoda ta jest określona w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6). 8) Stawka ta jest określona w pkt 3.3 obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). 9) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. poz. 1359, z 2009 r. poz. 1558, z 2010 r. poz. 1658, z 2012 r. poz. 1390, z 2013 r. poz. 1587, z 2014 r. poz. 1992 oraz z 2015 r. poz. 2313. 10) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 10 listopada 2015 r. zmieniającego rozporządzenie w sprawie udzielania regionalnej pomocy inwestycyjnej, pomocy na usługi doradcze związane z przygotowaniem inwestycji początkowej oraz pomocy na usługi doradcze związane z realizacją inwestycji początkowej przez fundusze rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych przyjętych na lata 2007–2013 (Dz. U. poz. 1988), które weszło w życie z dniem 28 listopada 2015 r. 11) Rozporządzenie zostało ogłoszone w dniu 2 grudnia 2014 r.
 

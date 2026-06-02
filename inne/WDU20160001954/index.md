@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 listopada 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw
+# Ustawa z dnia 16 listopada 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 listopada 1984 r. – Prawo przewozowe, ustawę z dnia 12 października 1990 r. o ochronie granicy państwowej, ustawę z dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki, ustawę z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa, ustawę z dnia 20 grudnia 1996 r. o portach i przystaniach morskich, ustawę z dnia 19 czerwca 1997 r. o zakazie stosowania wyrobów zawierających azbest, ustawę z dnia 21 maja 1999 r. o broni i amunicji, ustawę z dnia 21 grudnia 2000 r. o żegludze śródlądowej, ustawę z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej, ustawę z dnia 21 czerwca 2002 r. o stanie wyjątkowym, ustawę z dnia 29 sierpnia 2002 r. o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej, ustawę z dnia 28 października 2002 r. o Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym, ustawę z dnia 17 października 2003 r. o wykonywaniu prac podwodnych, ustawę z dnia 18 grudnia 2003 r. o ochronie roślin, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, ustawę z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju, ustawę z dnia 29 października 2010 r. o rezerwach strategicznych, ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, ustawę z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych, ustawę z dnia 14 grudnia 2012 r. o odpadach, ustawę z dnia 21 czerwca 2013 r. o zmianie niektórych ustaw dotyczących praw pasażerów podróżujących drogą morską i drogą wodną śródlądową oraz ustawę z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-16 |
 | Data wydania | 2016-12-02 |
-| Wejście w życie | 2016-12-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001954) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1954/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r. poz. 543, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r. poz. 543, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923 i 1948.) wprowadza się następujące zmiany:
 
 - **1)** w art. 10 ust. 4 otrzymuje brzmienie: „
 
@@ -48,7 +47,7 @@ source: "eli-html"
 1. W przypadku gdy jest to niezbędne ze względu na potrzeby obronności lub bezpieczeństwa państwa bądź w przypadku klęski żywiołowej:
 
 - **1)** minister właściwy do spraw transportu – w zakresie przewozu drogowego i przewozu koleją,
-- **2)** minister właściwy do spraw żeglugi śródlądowej – w zakresie przewozu w żegludze śródlądowej może nałożyć na przewoźnika obowiązek zawarcia umowy o wykonanie zadania przewozowego. ” ;
+- **2)** minister właściwy do spraw żeglugi śródlądowej – w zakresie przewozu w żegludze śródlądowej – może nałożyć na przewoźnika obowiązek zawarcia umowy o wykonanie zadania przewozowego. ” ;
 - **3)** w art. 9a wyrazy „minister właściwy do spraw transportu” zastępuje się wyrazami „minister właściwy do spraw żeglugi śródlądowej”;
 - **4)** w art. 15: ust. 4 otrzymuje brzmienie: „
     - **a)**
@@ -254,7 +253,7 @@ source: "eli-html"
 5. Osoba, która przystąpiła do egzaminu, o którym mowa w art. 42 ust. 2 pkt 4, może zgłaszać za pośrednictwem Dyrektora TDT do:
 
 - **1)** ministra właściwego do spraw transportu – w zakresie przewozu drogowego oraz przewozu koleją towarów niebezpiecznych albo
-- **2)** ministra właściwego do spraw żeglugi śródlądowej – w zakresie przewozu żeglugą śródlądową towarów niebezpiecznych w terminie 3 dni od dnia przeprowadzenia egzaminu lub ogłoszenia jego wyniku, w formie pisemnej, skargi co do jego przebiegu lub wyniku. ” ;
+- **2)** ministra właściwego do spraw żeglugi śródlądowej – w zakresie przewozu żeglugą śródlądową towarów niebezpiecznych – w terminie 3 dni od dnia przeprowadzenia egzaminu lub ogłoszenia jego wyniku, w formie pisemnej, skargi co do jego przebiegu lub wyniku. ” ;
 - **5)** w art. 43 w ust. 6, w art. 82, w art. 83 w ust. 3, w art. 84 w ust. 1, w art. 87 w ust. 1, 3 i 5–7, w art. 88, w art. 95 w ust. 9 oraz w art. 97 w ust. 2 we wprowadzeniu do wyliczenia, w ust. 3 we wprowadzeniu do wyliczenia i w ust. 4 użyte w różnych przypadkach wyrazy „minister właściwy do spraw transportu” zastępuje się użytymi w odpowiednich przypadkach wyrazami „odpowiednio minister właściwy do spraw transportu albo minister właściwy do spraw żeglugi śródlądowej”;
 - **6)** w art. 49 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw żeglugi śródlądowej określi, w drodze rozporządzenia: ” ;
 - **7)** w art. 57 ust. 2 otrzymuje brzmienie: „
@@ -311,7 +310,7 @@ source: "eli-html"
 
 1a. Rozporządzenie, o którym mowa w ust. 1 pkt 1, minister właściwy do spraw transportu wydaje w porozumieniu z ministrem właściwym do spraw żeglugi śródlądowej. ” .
 
-**Art. 24.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 24.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238, z 2014 r. poz. 695, 1101 i 1322, z 2015 r. poz. 87, 122, 933, 1045, 1688, 1936 i 2281 oraz z 2016 r. poz. 1579.) wprowadza się następujące zmiany:
 
 - **1)** w art. 24 w ust. 7 po wyrazach „do spraw transportu” dodaje się wyrazy „oraz ministrem właściwym do spraw żeglugi śródlądowej”;
 - **2)** w art. 33 w ust. 2 po wyrazie „transportu,” dodaje się wyrazy „żeglugi śródlądowej,”;

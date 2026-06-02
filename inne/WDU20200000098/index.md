@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 15 stycznia 2020 r. w sprawie wykazu wymaganych dokumentów załączanych do wniosku o udzielenie kredytu preferencyjnego oraz do wniosku o umorzenie części kredytu preferencyjnego
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 15 stycznia 2020 r. w sprawie wykazu wymaganych dokumentów załączanych do wniosku o udzielenie kredytu preferencyjnego oraz do wniosku o umorzenie części kredytu preferencyjnego Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-15 |
 | Data wydania | 2020-01-22 |
-| Wejście w życie | 2020-01-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000098) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/98/text.pdf) |
 
@@ -47,6 +46,5 @@ analizy lub opinie eksperckie lub techniczne, w tym informacje producenta o para
 § 2.
 Do wniosku o umorzenie części kredytu preferencyjnego armator, o którym mowa w art. 2 pkt 1 ustawy, załącza dokumenty, o których mowa w § 1 pkt 1–5, a także rachunek, fakturę lub umowę potwierdzające zakup, modernizację lub remont statku.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
 

@@ -25,9 +25,10 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002070) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2070/text.pdf) |
 
-Treść obwieszczenia Rozdział 1 – Dane zbiorcze Rozdział 2 – Zbiorcze wyniki wyborów Rozdział 3 – Wyniki wyborów
+Treść obwieszczenia
 Treść obwieszczenia
 Na podstawie art. 477 § 1 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2018 r. poz. 754, 1000 i 1349) Państwowa Komisja Wyborcza podaje do publicznej wiadomości, na podstawie danych zawartych w obwieszczeniach komisarzy wyborczych, zbiorcze wyniki wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonych w dniu 21 października 2018 r.
+Dane zbiorcze
 1.
 Wybierano łącznie 2477 wójtów, burmistrzów i prezydentów miast spośród 6958 kandydatów zgłoszonych przez 4710 komitetów wyborczych, w tym w 332 gminach i miastach, w których zarejestrowano tylko jednego kandydata.
 2.
@@ -46,6 +47,7 @@ postawienia znaku „X” obok nazwiska dwóch lub większej liczby kandydatów 
 niepostawienia znaku „X” obok nazwiska żadnego kandydata albo niepostawienia znaku „X” ani za, ani przeciw wyborowi kandydata oddano 130 153, to jest 68,70% ogólnej liczby głosów nieważnych,
 3)
 postawienia znaku „X” wyłącznie obok nazwiska skreślonego kandydata oddano 99, to jest 0,05% ogólnej liczby głosów nieważnych.
+Zbiorcze wyniki wyborów
 1.
 Wybierano łącznie 2477 wójtów, burmistrzów i prezydentów miast, z czego:
 1)
@@ -86,6 +88,7 @@ b)
 w 136 gminach powyżej 20 tys. mieszkańców.
 4.
 W obwieszczeniach komisarzy wyborczych zawarte są: nazwiska i imiona wybranych wójtów, burmistrzów i prezydentów miast wraz z oznaczeniami komitetów wyborczych, które zgłosiły ich kandydatury, oraz nazwiska kandydatów na wójtów, burmistrzów i prezydentów miast, którzy uczestniczą w ponownym głosowaniu.
+Wyniki wyborów
 W następujących gminach i miastach, o których mowa w pkt 3 rozdziału 2, zgodnie z art. 473 § 2 Kodeksu wyborczego, w dniu 4 listopada 2018 r. zostanie przeprowadzone ponowne głosowanie:
 1.
 Województwo dolnośląskie:
@@ -1418,9 +1421,15 @@ gmina Wolin, powiat kamieński
 43)
 gmina Złocieniec, powiat drawski
 
-#### Rozdział 1 Dane zbiorcze
+#### Rozdział 1 – Dane zbiorcze
 
-#### Rozdział 2 Zbiorcze wyniki wyborów
+#### Rozdział 2 – Zbiorcze wyniki wyborów
 
-#### Rozdział 3 Wyniki wyborów
+#### Rozdział 3 – Wyniki wyborów
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 

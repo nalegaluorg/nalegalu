@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-20 |
 | Data wydania | 2024-09-20 |
-| Wejście w życie | 2024-09-20 |
 | Ostatnia zmiana | 2024-09-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001392) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1392/text.pdf) |
 
@@ -31,17 +30,13 @@ Na podstawie art. 232 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 19
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 16 września 2024 r. w sprawie wprowadzenia stanu klęski żywiołowej na obszarze części województwa dolnośląskiego, opolskiego oraz śląskiego (Dz. U. poz. 1365 i 1380) wprowadza się następujące zmiany:
 1)
-w § 1 w ust. 2 po pkt 1a dodaje się pkt 1b w brzmieniu:
-„
+w § 1 w ust. 2 po pkt 1a dodaje się pkt 1b w brzmieniu: „
 1b)
-w województwie dolnośląskim – powiaty bolesławiecki, jaworski, legnicki i złotoryjski;
-” ;
+w województwie dolnośląskim – powiaty bolesławiecki, jaworski, legnicki i złotoryjski; ” ;
 2)
-w § 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
-„
+w § 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
 5)
-obowiązku stosowania określonych środków zapewniających ochronę środowiska – w zakresie zbierania, transportu lub przetwarzania odpadów pochodzących z obszaru określonego w § 1 ust. 2.
-” .
+obowiązku stosowania określonych środków zapewniających ochronę środowiska – w zakresie zbierania, transportu lub przetwarzania odpadów pochodzących z obszaru określonego w § 1 ust. 2. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem ogłoszenia.
 

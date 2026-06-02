@@ -22,11 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-06-25 |
 | Data wydania | 2009-07-28 |
-| Wejście w życie | 2009-08-12 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091180989) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/989/text.pdf) |
 
 Kwalifikowanie świadczeń opieki zdrowotnej jako świadczeń gwarantowanych
+Agencja Oceny Technologii Medycznych
 1.
 Agencja jest państwową jednostką organizacyjną posiadającą osobowość prawną, nadzorowaną przez ministra właściwego do spraw zdrowia.
 2.
@@ -272,7 +272,7 @@ Fundusz zapasowy Agencji zwiększa się o zatwierdzony zysk netto za rok obrotow
 4.
 Zatwierdzony zysk netto za dany rok obrotowy w pierwszej kolejności pokrywa stratę z lat ubiegłych.
 5.
-Agencja prowadzi rachunkowość na zasadach określonych w ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.), z wyłączeniem art. 80 ust. 3 tej ustawy.
+Agencja prowadzi rachunkowość na zasadach określonych w ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155, z 2005 r. Nr 10, poz. 66, Nr 184, poz. 1539 i Nr 267, poz. 2252, z 2006 r. Nr 157, poz. 1119 i Nr 208, poz. 1540, z 2008 r. Nr 63, poz. 393, Nr 144, poz. 900, Nr 171, poz. 1056, Nr 214, poz. 1343 i Nr 223, poz. 1466 oraz z 2009 r. Nr 42, poz. 341, Nr 77, poz. 649 i Nr 91, poz. 742.), z wyłączeniem art. 80 ust. 3 tej ustawy.
 6.
 Prezes Agencji przygotowuje corocznie sprawozdanie z działalności Agencji oraz sprawozdanie z wykonania planu finansowego za rok poprzedni.
 7.
@@ -292,13 +292,11 @@ Minister właściwy do spraw zdrowia, przedstawiając żądanie, o którym mowa 
 5.
 W razie stwierdzenia, na podstawie uzyskanych informacji, wyjaśnień i dokumentów, o których mowa w ust. 3, przypadków naruszeń prawa lub statutu Agencji minister właściwy do spraw zdrowia powiadamia Agencję o stwierdzonych nieprawidłowościach oraz wydaje zalecenia mające na celu usunięcie stwierdzonych nieprawidłowości i dostosowanie jej działalności do przepisów prawa lub statutu, wyznaczając termin do usunięcia stwierdzonych nieprawidłowości i dostosowania działalności do przepisów prawa.
 W przypadku naruszenia przez Agencję prawa lub statutu, a także w przypadku odmowy udzielenia wyjaśnień i informacji, o których mowa w art. 31v ust. 3, minister właściwy do spraw zdrowia może nałożyć na Prezesa Agencji lub zastępcę Prezesa Agencji oraz na członka Rady Konsultacyjnej odpowiedzialnego za te naruszenia lub nieudzielanie wyjaśnień i informacji karę pieniężną w wysokości do trzykrotnego miesięcznego wynagrodzenia tej osoby, wyliczonego na podstawie wynagrodzenia za ostatnie 3 miesiące poprzedzające miesiąc, w którym nałożono karę, niezależnie od innych środków nadzoru przewidzianych przepisami prawa.
-Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy sposób i tryb przeprowadzania kontroli Agencji, mając na celu zapewnienie właściwej realizacji nadzoru, o którym mowa w art. 31v ust. 1.
-” ;
+Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy sposób i tryb przeprowadzania kontroli Agencji, mając na celu zapewnienie właściwej realizacji nadzoru, o którym mowa w art. 31v ust. 1. ” ;
 10)
-art. 32 otrzymuje brzmienie:
-„
+art. 32 otrzymuje brzmienie: „
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817 i Nr 111, poz. 918.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1: po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **a)**
@@ -342,9 +340,9 @@ art. 32 otrzymuje brzmienie:
 - **14)** leków. ” , uchyla się ust. 3;
     - **b)**
 
-- **5)** po art. 15 dodaje się art. 15a w brzmieniu: „
+- **5)** po art. 15 dodaje się art. 15a w brzmieniu: „ Art. 15a. 1, Minister właściwy do spraw zdrowia realizuje zadania, o których mowa w art. 11 ust. 1 pkt 4 i 4a, w zakresie świadczeń wysokospecjalistycznych, na podstawie umowy zawartej ze świadczeniodawcą. Środki publiczne uzyskane na podstawie umowy świadczeniodawca przeznacza wyłącznie na pokrycie kosztów związanych z jej realizacją.
 
-**Art. 15a.** 1, Minister właściwy do spraw zdrowia realizuje zadania, o których mowa w art. 11 ust. 1 pkt 4 i 4a, w zakresie świadczeń wysokospecjalistycznych, na podstawie umowy zawartej ze świadczeniodawcą. Środki publiczne uzyskane na podstawie umowy świadczeniodawca przeznacza wyłącznie na pokrycie kosztów związanych z jej realizacją. 2. Umowa, o której mowa w ust. 1, zawiera w szczególności:
+2. Umowa, o której mowa w ust. 1, zawiera w szczególności:
 
 - **1)** oznaczenie stron;
 - **2)** określenie rodzaju i liczby świadczeń wysokospecjalistycznych;
@@ -358,7 +356,7 @@ art. 32 otrzymuje brzmienie:
 - **1)** koszty przedstawiane przez świadczeniodawców, uwzględniające koszty udzielenia świadczenia wysokospecjalistycznego;
 - **2)** ceny świadczeń wysokospecjalistycznych określone w umowach zawartych w dwóch poprzednich latach.
 
-4. Wzrost cen świadczeń wysokospecjalistycznych w kolejnym roku budżetowym nie może być wyższy niż średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem w roku poprzedzającym rok, w którym zawierane są umowy, ogłoszony przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 94 ust. 1 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.).
+4. Wzrost cen świadczeń wysokospecjalistycznych w kolejnym roku budżetowym nie może być wyższy niż średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem w roku poprzedzającym rok, w którym zawierane są umowy, ogłoszony przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 94 ust. 1 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421, z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534, z 2007 r. Nr 17, poz. 95, Nr 82, poz. 558, Nr 191, poz. 1368 i 1369 i Nr 200, poz. 1445, z 2008 r. Nr 67, poz. 411, Nr 192, poz. 1180, Nr 228, poz. 1507 i Nr 237, poz. 1656 oraz z 2009 r. Nr 8, poz. 38, Nr 42, poz. 338, Nr 69, poz. 596 i Nr 97, poz. 800.).
 
 5. Minister właściwy do spraw zdrowia dokonuje wyboru świadczeniodawców w drodze konkursu ofert, biorąc pod uwagę:
 
@@ -446,7 +444,7 @@ art. 32 otrzymuje brzmienie:
 9. Prezes Agencji niezwłocznie zamieszcza zlecenia i rekomendacje na stronie internetowej Agencji oraz w Biuletynie Informacji Publicznej Agencji na zasadach określonych w przepisach o dostępie do informacji publicznej. Minister właściwy do spraw zdrowia określi, w drodze rozporządzeń, w poszczególnych zakresach, o których mowa w art. 15 ust. 2 pkt 1–13, wykazy świadczeń gwarantowanych wraz z określeniem:
 
 - **1)** poziomu, w tym limitu cen – w przypadku wyrobów medycznych będących przedmiotami ortopedycznymi i środków pomocniczych, lub sposobu finansowania danego świadczenia gwarantowanego, o którym mowa w art. 18, art. 33, art. 40 i art. 41,
-- **2)** warunków realizacji danego świadczenia gwarantowanego mając na uwadze treść rekomendacji oraz uwzględniając kryteria określone w art. 31a ust. 1.
+- **2)** warunków realizacji danego świadczenia gwarantowanego – mając na uwadze treść rekomendacji oraz uwzględniając kryteria określone w art. 31a ust. 1.
 
 1. Minister właściwy do spraw zdrowia może usunąć dane świadczenie opieki zdrowotnej z wykazu świadczeń gwarantowanych albo dokonać zmiany poziomu lub sposobu finansowania, lub warunków realizacji świadczenia gwarantowanego, działając z urzędu lub na wniosek, po uzyskaniu rekomendacji Prezesa Agencji, uwzględniając kryteria określone w art. 31a ust. 1.
 
@@ -483,7 +481,7 @@ art. 32 otrzymuje brzmienie:
 1. Prezes Agencji, po otrzymaniu zlecenia, o którym mowa w art. 31f ust. 5, dokonuje oceny świadczenia opieki zdrowotnej i przygotowuje raport w sprawie:
 
 - **1)** usunięcia danego świadczenia opieki zdrowotnej z wykazu świadczeń gwarantowanych albo
-- **2)** zmiany poziomu lub sposobu finansowania, lub warunków realizacji świadczenia gwarantowanego zwany dalej „raportem w sprawie oceny świadczenia opieki zdrowotnej”.
+- **2)** zmiany poziomu lub sposobu finansowania, lub warunków realizacji świadczenia gwarantowanego – zwany dalej „raportem w sprawie oceny świadczenia opieki zdrowotnej”.
 
 2. Raport w sprawie oceny świadczenia opieki zdrowotnej zawiera:
 
@@ -520,7 +518,7 @@ art. 32 otrzymuje brzmienie:
 1. Jeżeli:
 
 - **1)** wniosek, o którym mowa w art. 39 ust. 1, spełnia wymogi określone w art. 39 ust. 2,
-- **2)** raport w sprawie oceny leku lub wyrobu medycznego spełnia wymogi określone w art. 31g ust. 2 minister właściwy do spraw zdrowia niezwłocznie przekazuje Prezesowi Agencji kopię wniosku, o którym mowa w art. 39 ust. 1, w celu przygotowania oceny raportu w sprawie oceny leku lub wyrobu medycznego.
+- **2)** raport w sprawie oceny leku lub wyrobu medycznego spełnia wymogi określone w art. 31g ust. 2 – minister właściwy do spraw zdrowia niezwłocznie przekazuje Prezesowi Agencji kopię wniosku, o którym mowa w art. 39 ust. 1, w celu przygotowania oceny raportu w sprawie oceny leku lub wyrobu medycznego.
 
 2. Przepisu ust. 1 nie stosuje się w przypadku, gdy do wniosku, o którym mowa w art. 39 ust. 1, został dołączony raport, o którym mowa w art. 39 ust. 2e pkt 2.
 
@@ -533,13 +531,13 @@ art. 32 otrzymuje brzmienie:
 
 5. Prezes Agencji przekazuje ministrowi właściwemu do spraw zdrowia ocenę raportu w sprawie oceny leku lub wyrobu medycznego oraz stanowisko, o którym mowa w ust. 4, w terminie nie dłuższym niż 45 dni od dnia przekazania informacji, o której mowa w art. 39 ust. 4a, a w przypadku, o którym mowa w art. 39 ust. 7 – w terminie 60 dni. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
-- **1)** sposób i procedury przygotowania: raportu w sprawie oceny świadczenia opieki zdrowotnej, oceny raportu w sprawie oceny leku lub wyrobu medycznego uwzględniając wiedzę z zakresu oceny technologii medycznych;
+- **1)** sposób i procedury przygotowania: raportu w sprawie oceny świadczenia opieki zdrowotnej, oceny raportu w sprawie oceny leku lub wyrobu medycznego – uwzględniając wiedzę z zakresu oceny technologii medycznych;
     - **a)**
     - **b)**
 
 - **2)** wysokość opłaty, o której mowa w art. 39 ust. 2g, mając na uwadze rzeczywiste koszty przygotowania oceny raportu w sprawie oceny leku lub wyrobu medycznego. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzory wniosków w sprawie usunięcia danego świadczenia opieki zdrowotnej z wykazu świadczeń gwarantowanych lub zmiany poziomu lub sposobu finansowania świadczenia gwarantowanego, lub warunków jego realizacji, mając na względzie ujednolicenie informacji i przekazywanych dokumentów oraz zapewnienie przejrzystości wniosków. Do postępowania kwalifikacyjnego odbywającego się na zasadach określonych w niniejszym rozdziale nie stosuje się przepisów Kodeksu postępowania administracyjnego, z zastrzeżeniem art. 31f ust. 4.
 
-#### Rozdział 1b Agencja Oceny Technologii Medycznych
+#### Rozdział 1b
 
 **Art. 32.** Świadczeniobiorca ma prawo do świadczeń z zakresu badań diagnostycznych, w tym medycznej diagnostyki laboratoryjnej, wykonywanych na podstawie skierowania lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego. ” ;
 
@@ -548,7 +546,7 @@ art. 32 otrzymuje brzmienie:
 5. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu oraz Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia:
 
 - **1)** sposób wystawiania skierowania na leczenie uzdrowiskowe przez lekarza ubezpieczenia zdrowotnego,
-- **2)** tryb potwierdzania skierowania na leczenie uzdrowiskowe oraz wzór tego skierowania uwzględniając konieczność weryfikacji celowości skierowania na leczenie uzdrowiskowe. ” ;
+- **2)** tryb potwierdzania skierowania na leczenie uzdrowiskowe oraz wzór tego skierowania – uwzględniając konieczność weryfikacji celowości skierowania na leczenie uzdrowiskowe. ” ;
 - **12)** po art. 34 dodaje się art. 34a w brzmieniu: „
 
 **Art. 34a.** Leki i wyroby medyczne określone w wykazach, o których mowa w art. 36 ust. 5 i art. 37 ust. 2, są świadczeniami gwarantowanymi. ” ;
@@ -561,19 +559,19 @@ art. 32 otrzymuje brzmienie:
 - **2)** wysokość opłaty ryczałtowej za leki podstawowe i recepturowe,
 - **3)** wysokość odpłatności za leki uzupełniające,
 - **4)** wykaz leków, które mogą być traktowane jako surowce farmaceutyczne przy sporządzaniu leków recepturowych,
-- **5)** ilość leku recepturowego, którego dotyczy opłata ryczałtowa, oraz sposób obliczania kosztu sporządzania leku recepturowego biorąc pod uwagę stanowiska wyrażone przez Zespół do Spraw Gospodarki Lekami, o którym mowa w art. 7 ustawy z dnia 5 lipca 2001 r. o cenach (Dz. U. Nr 97, poz. 1050, z późn. zm.), zwany dalej „Zespołem”, dostępność do leków oraz bezpieczeństwo ich stosowania, znaczenie leku w zwalczaniu chorób o znacznym zagrożeniu epidemiologicznym i cywilizacyjnym, wpływ leku na bezpośrednie koszty leczenia oraz kryteria, o których mowa w art. 31a ust. 1. ” ;
+- **5)** ilość leku recepturowego, którego dotyczy opłata ryczałtowa, oraz sposób obliczania kosztu sporządzania leku recepturowego – biorąc pod uwagę stanowiska wyrażone przez Zespół do Spraw Gospodarki Lekami, o którym mowa w art. 7 ustawy z dnia 5 lipca 2001 r. o cenach (Dz. U. Nr 97, poz. 1050, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 144, poz. 1204, z 2003 r. Nr 137, poz. 1302, z 2004 r. Nr 96, poz. 959 i Nr 210, poz. 2135, z 2007 r. Nr 166, poz. 1172 oraz z 2008 r. Nr 157, poz. 976.), zwany dalej „Zespołem”, dostępność do leków oraz bezpieczeństwo ich stosowania, znaczenie leku w zwalczaniu chorób o znacznym zagrożeniu epidemiologicznym i cywilizacyjnym, wpływ leku na bezpośrednie koszty leczenia oraz kryteria, o których mowa w art. 31a ust. 1. ” ;
 - **14)** w art. 37 ust. 2 otrzymuje brzmienie: „
 
 2. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, Naczelnej Rady Lekarskiej i Naczelnej Rady Aptekarskiej, określi, w drodze rozporządzenia:
 
 - **1)** wykaz chorób, o których mowa w ust. 1,
-- **2)** dla każdej z chorób, o których mowa w ust. 1, wykaz leków i wyrobów medycznych, które ze względu na choroby określone w wykazie, o którym mowa w pkt 1, są przepisywane bezpłatnie, za opłatą ryczałtową lub za częściową odpłatnością biorąc pod uwagę stanowiska wyrażone przez Zespół, dostępność do leków i wyrobów medycznych, bezpieczeństwo ich stosowania oraz kryteria, o których mowa w art. 31a ust. 1. ” ;
+- **2)** dla każdej z chorób, o których mowa w ust. 1, wykaz leków i wyrobów medycznych, które ze względu na choroby określone w wykazie, o którym mowa w pkt 1, są przepisywane bezpłatnie, za opłatą ryczałtową lub za częściową odpłatnością – biorąc pod uwagę stanowiska wyrażone przez Zespół, dostępność do leków i wyrobów medycznych, bezpieczeństwo ich stosowania oraz kryteria, o których mowa w art. 31a ust. 1. ” ;
 - **15)** w art. 38 ust. 6 otrzymuje brzmienie: „
 
 6. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, Naczelnej Rady Lekarskiej i Naczelnej Rady Aptekarskiej, określi, w drodze rozporządzenia, limity cen leków posiadających tę samą nazwę międzynarodową oraz leków o różnych nazwach międzynarodowych, ale o podobnym działaniu terapeutycznym, a także wyrobów medycznych wymienionych w:
 
 - **1)** wykazach leków podstawowych i uzupełniających, o których mowa w art. 36 ust. 5 pkt 1,
-- **2)** wykazie leków i wyrobów medycznych, o którym mowa w art. 37 ust. 2 pkt 2 uwzględniając w szczególności skuteczność i bezpieczeństwo ich stosowania oraz kryteria, o których mowa w art. 31a ust. 1. ” ;
+- **2)** wykazie leków i wyrobów medycznych, o którym mowa w art. 37 ust. 2 pkt 2 – uwzględniając w szczególności skuteczność i bezpieczeństwo ich stosowania oraz kryteria, o których mowa w art. 31a ust. 1. ” ;
 - **16)** w art. 39: ust. 1c otrzymuje brzmienie: „
     - **a)**
 
@@ -667,7 +665,7 @@ art. 32 otrzymuje brzmienie:
 
 - **24)** uchyla się załącznik do ustawy.
 
-**Art. 2.** W ustawie z dnia 5 lipca 2001 r. o cenach (Dz. U. Nr 97, poz. 1050, z późn. zm.) w art. 7 w ust. 3 po pkt 7 dodaje się pkt 7a w brzmieniu: „
+**Art. 2.** W ustawie z dnia 5 lipca 2001 r. o cenach (Dz. U. Nr 97, poz. 1050, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 144, poz. 1204, z 2003 r. Nr 137, poz. 1302, z 2004 r. Nr 96, poz. 959 i Nr 210, poz. 2135, z 2007 r. Nr 166, poz. 1172 oraz z 2008 r. Nr 157, poz. 976.) w art. 7 w ust. 3 po pkt 7 dodaje się pkt 7a w brzmieniu: „
 
 - **7a)** o których mowa w art. 31a ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ” .
 
@@ -731,6 +729,6 @@ art. 32 otrzymuje brzmienie:
 **Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 3 lit. b, pkt 4 lit. b, pkt 5–8, pkt 9 w zakresie dotyczącym art. 31d-311 ustawy, o której mowa w art. 1, pkt 11–16, pkt 19–24, art. 2 i art. 12, które wchodzą w życie z dniem 31 sierpnia 2009 r.;
-- **2)** art. 10, który wchodzi w życie z dniem ogłoszenia.
+- **2)** art. 10, który wchodzi w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817 i Nr 111, poz. 918. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421, z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534, z 2007 r. Nr 17, poz. 95, Nr 82, poz. 558, Nr 191, poz. 1368 i 1369 i Nr 200, poz. 1445, z 2008 r. Nr 67, poz. 411, Nr 192, poz. 1180, Nr 228, poz. 1507 i Nr 237, poz. 1656 oraz z 2009 r. Nr 8, poz. 38, Nr 42, poz. 338, Nr 69, poz. 596 i Nr 97, poz. 800. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155, z 2005 r. Nr 10, poz. 66, Nr 184, poz. 1539 i Nr 267, poz. 2252, z 2006 r. Nr 157, poz. 1119 i Nr 208, poz. 1540, z 2008 r. Nr 63, poz. 393, Nr 144, poz. 900, Nr 171, poz. 1056, Nr 214, poz. 1343 i Nr 223, poz. 1466 oraz z 2009 r. Nr 42, poz. 341, Nr 77, poz. 649 i Nr 91, poz. 742. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 144, poz. 1204, z 2003 r. Nr 137, poz. 1302, z 2004 r. Nr 96, poz. 959 i Nr 210, poz. 2135, z 2007 r. Nr 166, poz. 1172 oraz z 2008 r. Nr 157, poz. 976. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 144, poz. 1204, z 2003 r. Nr 137, poz. 1302, z 2004 r. Nr 96, poz. 959 i Nr 210, poz. 2135, z 2007 r. Nr 166, poz. 1172 oraz z 2008 r. Nr 157, poz. 976.
 
 

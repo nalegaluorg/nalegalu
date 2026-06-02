@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 13 grudnia 2017 r. w sprawie odpadów, które podlegają próbie strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji, oraz sposobu jej wykonania
+# Rozporządzenie Ministra Środowiskaz dnia 13 grudnia 2017 r. w sprawie odpadów, które podlegają próbie strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji, oraz sposobu jej wykonania Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 2323).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-13 |
 | Data wydania | 2017-12-20 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002381) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2381/text.pdf) |
 
@@ -74,11 +73,9 @@ lekkiej frakcji i pyłów niezawierających substancji niebezpiecznych,
 f)
 lekkiej frakcji i pyłów zawierających substancje niebezpieczne,
 g)
-pozostałości
-jeżeli powstały w wyniku próby strzępienia.
+pozostałości – jeżeli powstały w wyniku próby strzępienia.
 § 4.
 Masa odpadów, o których mowa w § 2, poddana próbie strzępienia nie może być mniejsza niż 30 Mg.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 2323). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 13 stycznia 2015 r. w sprawie sposobu wykonania próby strzępienia odpadów z pojazdów wycofanych z eksploatacji (Dz. U. poz. 96), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 23 ust. 2 ustawy z dnia 27 maja 2015 r. o zmianie ustawy o recyklingu pojazdów wycofanych z eksploatacji oraz niektórych innych ustaw (Dz. U. poz. 933 i 1688).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 13 stycznia 2015 r. w sprawie sposobu wykonania próby strzępienia odpadów z pojazdów wycofanych z eksploatacji (Dz. U. poz. 96), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 23 ust. 2 ustawy z dnia 27 maja 2015 r. o zmianie ustawy o recyklingu pojazdów wycofanych z eksploatacji oraz niektórych innych ustaw (Dz. U. poz. 933 i 1688). 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 2323). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 13 stycznia 2015 r. w sprawie sposobu wykonania próby strzępienia odpadów z pojazdów wycofanych z eksploatacji (Dz. U. poz. 96), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 23 ust. 2 ustawy z dnia 27 maja 2015 r. o zmianie ustawy o recyklingu pojazdów wycofanych z eksploatacji oraz niektórych innych ustaw (Dz. U. poz. 933 i 1688).
 

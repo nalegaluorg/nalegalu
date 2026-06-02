@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-07-27 |
 | Data wydania | 2021-08-10 |
-| Wejście w życie | 2021-08-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001451) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1451/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 39h ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 1 sierpnia 2018 r. w sprawie postępowania kwalifikacyjnego do Służby Więziennej (Dz. U. poz. 1631) wprowadza się następujące zmiany:
 1)
-w § 6 po ust. 2 dodaje się ust. 3 w brzmieniu:
-„
+w § 6 po ust. 2 dodaje się ust. 3 w brzmieniu: „
 3.
 Średnia liczba punktów z rozmowy kwalifikacyjnej możliwych do uzyskania wynosi:
 1)
@@ -54,14 +52,11 @@ ocena dostateczna ‒ od 5 do 8,9 punktów,
 c)
 ocena dobra ‒ od 9 do 12,9 punktów,
 d)
-ocena bardzo dobra ‒ od 13 do 15 punktów.
-” ;
+ocena bardzo dobra ‒ od 13 do 15 punktów. ” ;
 2)
-w § 7 po ust. 3 dodaje się ust. 4 w brzmieniu:
-„
+w § 7 po ust. 3 dodaje się ust. 4 w brzmieniu: „
 4.
-Test wiedzy uznaje się za zaliczony, jeżeli kandydat otrzyma minimum 8 punktów.
-” .
+Test wiedzy uznaje się za zaliczony, jeżeli kandydat otrzyma minimum 8 punktów. ” .
 § 2.
 Do postępowań kwalifikacyjnych wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.

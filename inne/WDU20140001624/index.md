@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-14 |
 | Data wydania | 2014-11-20 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001624) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1624/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 98 ust. 1 pkt 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 98 ust. 1 pkt 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35, 1027 i 1608 oraz z 2014 r. poz. 312 i 1171.) zarządza się, co następuje:
 § 1.
 Obowiązku składania zgłoszenia rejestracyjnego nie mają podatnicy:
 1)
@@ -61,7 +60,7 @@ usługi telekomunikacyjne, usługi nadawcze lub usługi elektroniczne świadczon
 2)
 zidentyfikowani jako podatnicy VAT – przewozy okazjonalne na podstawie art. 134a ust. 4 ustawy.
 § 2.
-Traci moc rozporządzenie Ministra Finansów z dnia 6 kwietnia 2004 r. w sprawie określenia podatników niemających obowiązku składania zgłoszenia rejestracyjnego (Dz. U. Nr 58, poz. 558, z późn. zm.).
+Traci moc rozporządzenie Ministra Finansów z dnia 6 kwietnia 2004 r. w sprawie określenia podatników niemających obowiązku składania zgłoszenia rejestracyjnego (Dz. U. Nr 58, poz. 558, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2007 r. Nr 245, poz. 1808, z 2009 r. Nr 222, poz. 1762 oraz z 2011 r. Nr 44, poz. 228, Nr 68, poz. 364 i Nr 136, poz. 799.).
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35, 1027 i 1608 oraz z 2014 r. poz. 312 i 1171. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2007 r. Nr 245, poz. 1808, z 2009 r. Nr 222, poz. 1762 oraz z 2011 r. Nr 44, poz. 228, Nr 68, poz. 364 i Nr 136, poz. 799.
 

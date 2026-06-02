@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-04-28 |
 | Data wydania | 2011-07-05 |
-| Wejście w życie | 2011-07-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111380810) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/810/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2009 r. Nr 175, poz. 1361, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2009 r. Nr 175, poz. 1361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 191, poz. 1484, z 2010 r. Nr 155, poz. 1037, Nr 230, poz. 1509 i Nr 257, poz. 1724 oraz z 2011 r. Nr 85, poz. 458 i Nr 106, poz. 622.) wprowadza się następujące zmiany:
 
 - **1)** w art. 84 dodaje się ust. 3 w brzmieniu: „
 
@@ -63,5 +62,5 @@ source: "eli-html"
 
 2. Do likwidacji wierzytelności i praw majątkowych upadłego obciążonych zastawem finansowym stosuje się odpowiednio przepisy art. 327–330 oraz przepisy ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 191, poz. 1484, z 2010 r. Nr 155, poz. 1037, Nr 230, poz. 1509 i Nr 257, poz. 1724 oraz z 2011 r. Nr 85, poz. 458 i Nr 106, poz. 622.
 

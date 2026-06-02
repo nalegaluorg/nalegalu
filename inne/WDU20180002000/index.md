@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 12 października 2018 r. w sprawie wysokości zryczałtowanych kosztów udziału przedstawicieli wojewódzkich ośrodków doradztwa rolniczego w szacowaniu szkód łowieckich, a także ustalaniu wysokości odszkodowania za te szkody
+# Rozporządzenie Ministra Środowiskaz dnia 12 października 2018 r. w sprawie wysokości zryczałtowanych kosztów udziału przedstawicieli wojewódzkich ośrodków doradztwa rolniczego w szacowaniu szkód łowieckich, a także ustalaniu wysokości odszkodowania za te szkody Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-12 |
 | Data wydania | 2018-10-18 |
-| Wejście w życie | 2018-10-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002000) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2000/text.pdf) |
 
@@ -34,6 +33,5 @@ Zryczałtowane koszty udziału przedstawicieli wojewódzkich ośrodków doradztw
 2.
 Jeżeli ten sam przedstawiciel wojewódzkiego ośrodka doradztwa rolniczego tego samego dnia bierze udział w szacowaniu więcej niż jednej szkody łowieckiej na terenie tej samej gminy, zryczałtowane koszty, o których mowa w ust. 1, zwiększa się o 25 zł za udział w każdych kolejnych oględzinach albo każdym kolejnym szacowaniu ostatecznym, zakończonych sporządzeniem w tym dniu protokołu, o którym mowa odpowiednio w art. 46a ust. 4 albo art. 46c ust. 5 ustawy z dnia 13 października 1995 r. – Prawo łowieckie.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96).
 

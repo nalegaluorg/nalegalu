@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-04-11 |
 | Data wydania | 2001-05-04 |
-| Wejście w życie | 2001-06-05 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010390459) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/459/text.pdf) |
 
@@ -180,7 +179,7 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-- **3)** w przypadku przewidzianym w art. 76 § 1 pkt 3 – od dnia powstania nadpłaty, jeżeli nadpłata nie została zwrócona w terminie 3 miesięcy od dnia złożenia zeznania lub deklaracji, o których mowa w art. 74 § 2 do dnia zwrotu nadpłaty lub do dnia zaliczenia jej na poczet zaległych bądź bieżących zobowiązań podatkowych lub do dnia złożenia wniosku o zaliczenie nadpłaty na poczet przyszłych zobowiązań podatkowych. ” ;
+- **3)** w przypadku przewidzianym w art. 76 § 1 pkt 3 – od dnia powstania nadpłaty, jeżeli nadpłata nie została zwrócona w terminie 3 miesięcy od dnia złożenia zeznania lub deklaracji, o których mowa w art. 74 § 2 – do dnia zwrotu nadpłaty lub do dnia zaliczenia jej na poczet zaległych bądź bieżących zobowiązań podatkowych lub do dnia złożenia wniosku o zaliczenie nadpłaty na poczet przyszłych zobowiązań podatkowych. ” ;
 - **30)** w art. 78: § 2 otrzymuje brzmienie: „
     - **a)**
 

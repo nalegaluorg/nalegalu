@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-01-13 |
 | Data wydania | 2021-01-14 |
-| Wejście w życie | 2021-01-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000084) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/84/text.pdf) |
 
@@ -46,5 +45,5 @@ ABW albo SKW, po przeprowadzeniu postępowania bezpieczeństwa przemysłowego lu
 3.
 Przedsiębiorca wpłaca kwotę wymienioną w rachunku, o którym mowa w ust. 2, na rachunek bankowy wskazany przez ABW albo SKW w terminie 21 dni od daty doręczenia tego rachunku.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 22 marca 2011 r. w sprawie wysokości i trybu zwrotu zryczałtowanych kosztów ponoszonych przez Agencję Bezpieczeństwa Wewnętrznego albo Służbę Kontrwywiadu Wojskowego za przeprowadzenie sprawdzenia przedsiębiorcy oraz postępowań sprawdzających (Dz. U. poz. 356), które utraciło moc z dniem 1 października 2018 r. na podstawie art. 129 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z 2019 r. poz. 39 i 534 oraz z 2020 r. poz. 695, 875 i 1086). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 22 marca 2011 r. w sprawie wysokości i trybu zwrotu zryczałtowanych kosztów ponoszonych przez Agencję Bezpieczeństwa Wewnętrznego albo Służbę Kontrwywiadu Wojskowego za przeprowadzenie sprawdzenia przedsiębiorcy oraz postępowań sprawdzających (Dz. U. poz. 356), które utraciło moc z dniem 1 października 2018 r. na podstawie art. 129 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z 2019 r. poz. 39 i 534 oraz z 2020 r. poz. 695, 875 i 1086).
 

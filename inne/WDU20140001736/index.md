@@ -26,24 +26,23 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001736) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1736/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Rozwoju Regionalnego z dnia 9 czerwca 2010 r. w sprawie udzielania pomocy na rewitalizację w ramach regionalnych programów operacyjnych Rozdział 1 – Przepisy ogólne Rozdział 2 – Regionalna pomoc inwestycyjna na rewitalizację obszarów zdegradowanych Rozdział 3 – Pomoc na modernizację części wspólnych wielorodzinnych budynków mieszkalnych Rozdział 4 – Pomoc na wspieranie kultury i dziedzictwa kulturowego Rozdział 5 – Tryb udzielania pomocy Rozdział 6 – Przepisy końcowe
+Załącznik – Rozporządzenie Ministra Rozwoju Regionalnego z dnia 9 czerwca 2010 r. w sprawie udzielania pomocy na rewitalizację w ramach regionalnych programów operacyjnych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju Regionalnego z dnia 9 czerwca 2010 r. w sprawie udzielania pomocy na rewitalizację w ramach regionalnych programów operacyjnych (Dz. U. Nr 117, poz. 787), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 18 grudnia 2013 r. zmieniającym rozporządzenie w sprawie udzielania pomocy na rewitalizację w ramach regionalnych programów operacyjnych (Dz. U. poz. 1684).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 18 grudnia 2013 r. zmieniającego rozporządzenie w sprawie udzielania pomocy na rewitalizację w ramach regionalnych programów operacyjnych (Dz. U. poz. 1684), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 18 grudnia 2013 r. zmieniającego rozporządzenie w sprawie udzielania pomocy na rewitalizację w ramach regionalnych programów operacyjnych (Dz. U. poz. 1684), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
-” .
-Załącznik – Rozporządzenie Ministra Rozwoju Regionalnego z dnia 9 czerwca 2010 r. w sprawie udzielania pomocy na rewitalizację w ramach regionalnych programów operacyjnych
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r. ” .
+Załącznik – Rozporządzenie Ministra Rozwoju Regionalnego z dnia 9 czerwca 2010 r. w sprawie udzielania pomocy na rewitalizację w ramach regionalnych programów operacyjnychObecnie działem administracji rządowej – rozwój regionalny kieruje Minister Infrastruktury i Rozwoju, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Rozwoju (Dz. U. poz. 1257).
 Na podstawie art. 21 ust. 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2014 r. poz. 1649) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania pomocy na rewitalizację obszarów zdegradowanych w ramach regionalnych programów operacyjnych, zwanej dalej „pomocą”.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
-mikroprzedsiębiorcy, małym lub średnim przedsiębiorcy – należy przez to rozumieć przedsiębiorstwo spełniające warunki określone w załączniku I do rozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólne rozporządzenie w sprawie wyłączeń blokowych) (Dz. Urz. UE L 214 z 09.08.2008, str. 3, z późn. zm.);
+mikroprzedsiębiorcy, małym lub średnim przedsiębiorcy – należy przez to rozumieć przedsiębiorstwo spełniające warunki określone w załączniku I do rozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólne rozporządzenie w sprawie wyłączeń blokowych) (Dz. Urz. UE L 214 z 09.08.2008, str. 3, z późn. zm.)Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r.;
 2)
 modernizacji – należy przez to rozumieć trwałe ulepszenie lub unowocześnienie istniejącego budynku lub urządzenia, w wyniku którego zwiększa się jego wartość użytkowa;
 3)
@@ -55,7 +54,7 @@ miejskie obszary zdegradowane, obszary poprzemysłowe, powojskowe, powstałe po 
 4)
 programie rewitalizacji – należy przez to rozumieć wieloletni program działań o charakterze gospodarczym lub społecznym dotyczący gospodarki przestrzennej i urządzeń technicznych, zmierzający do wyprowadzenia danego obszaru zdegradowanego z sytuacji kryzysowej oraz stworzenia warunków do jego dalszego rozwoju, realizowany przez różne podmioty, zgodnie z określonym harmonogramem czasowym, i finansowany z różnych źródeł, opracowany, przyjęty i koordynowany przez gminę;
 5)
-przedsiębiorcy – należy przez to rozumieć przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólne rozporządzenie w sprawie wyłączeń blokowych);
+przedsiębiorcy – należy przez to rozumieć przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólne rozporządzenie w sprawie wyłączeń blokowych)Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r.;
 6)
 rewitalizacji – należy przez to rozumieć kompleksowy, skoordynowany, wieloletni proces przemian przestrzennych, technicznych, społecznych i ekonomicznych prowadzony na obszarze zdegradowanym, inicjowany przez jednostkę samorządu terytorialnego w celu wyprowadzenia tego obszaru ze stanu kryzysowego, w szczególności przez nadanie mu nowej jakości funkcjonalnej i stworzenie warunków do jego rozwoju, w oparciu o charakterystyczne uwarunkowania endogeniczne.
 § 3.
@@ -68,7 +67,7 @@ na których ciąży obowiązek zwrotu pomocy publicznej, wynikający z decyzji K
 2)
 jeżeli są przedsiębiorcami zagrożonymi innymi niż mikroprzedsiębiorcy, mali lub średni przedsiębiorcy, spełniającymi kryteria określone w pkt 9–11 komunikatu Komisji Wytyczne wspólnotowe dotyczące pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Dz. Urz. UE C 244 z 01.10.2004, str. 2, z późn. zm.);
 3)
-jeżeli są mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami spełniającymi kryteria zagrożonego przedsiębiorcy w rozumieniu art. 1 ust. 7 rozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólne rozporządzenie w sprawie wyłączeń blokowych).
+jeżeli są mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami spełniającymi kryteria zagrożonego przedsiębiorcy w rozumieniu art. 1 ust. 7 rozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólne rozporządzenie w sprawie wyłączeń blokowych)Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r..
 § 4.
 Pomoc ma na celu wspieranie rozwoju gospodarczego i społecznego, w obrębie zdegradowanych obszarów, przez wspieranie ich zrównoważonego rozwoju, polegające w szczególności na nadaniu obszarom zdegradowanym nowych funkcji gospodarczych, społecznych i kulturalnych.
 § 5.
@@ -85,7 +84,7 @@ Pomoc może być udzielana wyłącznie na projekty, których realizacja rozpoczn
 2.
 Beneficjent pomocy może otrzymać pomoc pod warunkiem, że zagwarantuje spełnienie kryterium trwałości realizacji projektu.
 3.
-Warunek, o którym mowa w ust. 2, uznaje się za spełniony w przypadku, gdy inwestycja zostanie utrzymana w regionie, w którym udzielono pomocy, przez okres co najmniej 5 lat od dnia jej zakończenia, zgodnie z art. 57 ust. 1 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999 (Dz. Urz. UE L 210 z 31.07.2006, str. 25, z późn. zm.), zwanego dalej „rozporządzeniem Rady (WE) nr 1083/2006”.
+Warunek, o którym mowa w ust. 2, uznaje się za spełniony w przypadku, gdy inwestycja zostanie utrzymana w regionie, w którym udzielono pomocy, przez okres co najmniej 5 lat od dnia jej zakończenia, zgodnie z art. 57 ust. 1 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999 (Dz. Urz. UE L 210 z 31.07.2006, str. 25, z późn. zm.)Uchylone przez art. 153 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320), ze skutkiem od dnia 1 stycznia 2014 r.; odesłania do uchylonego rozporządzenia traktuje się jak odesłania do rozporządzenia uchylającego, zgodnie z tabelą korelacji określoną w załączniku XIV do tego rozporządzenia., zwanego dalej „rozporządzeniem Rady (WE) nr 1083/2006”.
 4.
 W przypadku mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy podmiot udzielający pomocy może skrócić okres, o którym mowa w ust. 3, do 3 lat.
 5.
@@ -101,9 +100,10 @@ ogólnodostępne – służące zapewnieniu zbiorowych potrzeb społeczności �
 instalacje lub urządzenia, w tym oświetlenie oraz kamery monitorujące, umożliwiające zapewnienie porządku publicznego oraz bezpieczeństwa mieszkańców.
 § 8.
 1.
-Pomoc na modernizację części wspólnych wielorodzinnych budynków mieszkalnych oraz pomoc na wspieranie kultury i dziedzictwa kulturowego udzielana w odniesieniu do tych samych wydatków kwalifikowalnych podlega sumowaniu z każdą inną pomocą publiczną, pomocą de minimis w rozumieniu rozporządzenia Komisji (WE) nr 1998/2006 z dnia 15 grudnia 2006 r. w sprawie stosowania art. 87 i 88 Traktatu do pomocy de minimis (Dz. Urz. UE L 379 z 28.12.2006, str. 5) oraz pomocą publiczną z budżetu Unii Europejskiej, udzieloną beneficjentowi pomocy, niezależnie od jej formy i źródła.
+Pomoc na modernizację części wspólnych wielorodzinnych budynków mieszkalnych oraz pomoc na wspieranie kultury i dziedzictwa kulturowego udzielana w odniesieniu do tych samych wydatków kwalifikowalnych podlega sumowaniu z każdą inną pomocą publiczną, pomocą de minimis w rozumieniu rozporządzenia Komisji (WE) nr 1998/2006 z dnia 15 grudnia 2006 r. w sprawie stosowania art. 87 i 88 Traktatu do pomocy de minimis (Dz. Urz. UE L 379 z 28.12.2006, str. 5)Wygasło z dniem 31 grudnia 2013 r. na podstawie art. 6 rozporządzenia Komisji (WE) nr 1998/2006 z dnia 15 grudnia 2006 r. w sprawie stosowania art. 87 i 88 Traktatu do pomocy de minimis (Dz. Urz. UE L 379 z 28.12.2006, str. 5). oraz pomocą publiczną z budżetu Unii Europejskiej, udzieloną beneficjentowi pomocy, niezależnie od jej formy i źródła.
 2.
 Łączna wartość pomocy publicznej, o której mowa w ust. 1, nie może przekroczyć maksymalnych intensywności pomocy określonych w § 15 i 18.
+Regionalna pomoc inwestycyjna na rewitalizację obszarów zdegradowanych
 § 9.
 1.
 Regionalna pomoc inwestycyjna na rewitalizację obszarów zdegradowanych może być udzielana beneficjentom pomocy na realizację nowych inwestycji, mających na celu wspieranie rozwoju gospodarczego i społecznego na obszarach zdegradowanych, w województwie objętym danym regionalnym programem operacyjnym.
@@ -137,6 +137,7 @@ c)
 przygotowanie ekspertyz, analiz technicznych, finansowych, ekonomicznych oraz specjalistycznych.
 § 11.
 Do udzielania regionalnej pomocy inwestycyjnej na rewitalizację obszarów zdegradowanych stosuje się przepisy dotyczące udzielania regionalnej pomocy inwestycyjnej w ramach regionalnych programów operacyjnych z wyłączeniem przepisów dotyczących katalogu wydatków kwalifikowalnych oraz trybu udzielania pomocy.
+Pomoc na modernizację części wspólnych wielorodzinnych budynków mieszkalnych
 § 12.
 1.
 Pomoc na modernizację części wspólnych wielorodzinnych budynków mieszkalnych może być udzielana jedynie w celu poprawy warunków mieszkaniowych osób fizycznych.
@@ -182,9 +183,9 @@ Wydatki, o których mowa w ust. 1, pomniejsza się o podatek od towarów i usłu
 Maksymalna intensywność pomocy liczona jako stosunek ekwiwalentu dotacji brutto do wydatków kwalifikowalnych wynosi:
 1)
 50% – na obszarach należących do województw: lubelskiego, podkarpackiego, warmińsko-mazurskiego, podlaskiego, świętokrzyskiego, opolskiego, małopolskiego, lubuskiego, łódzkiego, kujawsko-pomorskiego;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 18 grudnia 2013 r. zmieniającego rozporządzenie w sprawie udzielania pomocy na rewitalizację w ramach regionalnych programów operacyjnych (Dz. U. poz. 1684), które weszło w życie z dniem 1 stycznia 2014 r.)
 40% – na obszarach należących do województw: śląskiego, pomorskiego, zachodniopomorskiego, dolnośląskiego, wielkopolskiego;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 18 grudnia 2013 r. zmieniającego rozporządzenie w sprawie udzielania pomocy na rewitalizację w ramach regionalnych programów operacyjnych (Dz. U. poz. 1684), które weszło w życie z dniem 1 stycznia 2014 r.)
 30% – na obszarze należącym do województwa mazowieckiego.
 2.
 W przypadku mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy maksymalna intensywność pomocy, o której mowa w ust. 1, może ulec zwiększeniu o:
@@ -192,8 +193,9 @@ W przypadku mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy maksyma
 10 punktów procentowych – w przypadku średniego przedsiębiorcy;
 2)
 20 punktów procentowych – w przypadku mikroprzedsiębiorcy i małego przedsiębiorcy.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 5..
 Maksymalną wartość pomocy udzielanej na realizację inwestycji podjętej w okresie trzech lat przez jednego lub więcej przedsiębiorców, w przypadku której środki trwałe są połączone ze sobą w sposób ekonomicznie niepodzielny oraz której koszty kwalifikujące się do objęcia pomocą przekraczają równowartość 50 000 000 euro, ustala się zgodnie z wzorem: I = R (50 mln euro + 0,5 B + 0,34 C) gdzie poszczególne symbole oznaczają: I – maksymalną wartość pomocy, R – intensywność pomocy – w zależności od obszaru, na którym ma być zlokalizowana inwestycja, B – wielkość kosztów kwalifikujących się do objęcia pomocą powyżej równowartości 50 000 000 euro – nieprzekraczającą równowartości 100 000 000 euro, C – wielkość kosztów kwalifikujących się do objęcia pomocą przekraczającą równowartość 100 000 000 euro.
+Pomoc na wspieranie kultury i dziedzictwa kulturowego
 § 16.
 1.
 Pomoc na wspieranie kultury i dziedzictwa kulturowego może być udzielana beneficjentom pomocy:
@@ -243,6 +245,7 @@ Wydatki, o których mowa w ust. 1, pomniejsza się o podatek od towarów i usłu
 Intensywność pomocy na wspieranie kultury i dziedzictwa kulturowego wynosi do 45% wydatków kwalifikowalnych, o których mowa w § 17.
 2.
 Intensywność pomocy na wspieranie kultury i dziedzictwa kulturowego ulega podwyższeniu o 30 punktów procentowych, pod warunkiem że beneficjent pomocy zobowiąże się do ponoszenia wydatków związanych z utrzymaniem budynków lub budowli przez 10 lat od dnia zakończenia projektu.
+Tryb udzielania pomocy
 § 19.
 1.
 Pomoc jest udzielana na podstawie umowy o dofinansowanie projektu w formie bezzwrotnego dofinansowania przeznaczonego na pokrycie części lub całości wydatków kwalifikowalnych.
@@ -285,27 +288,39 @@ intensywności pomocy,
 d)
 trwałości realizacji projektu;
 2)
-kryteria, o których mowa w art. 65 lit. a rozporządzenia Rady (WE) nr 1083/2006 .
+kryteria, o których mowa w art. 65 lit. a rozporządzenia Rady (WE) nr 1083/2006 Uchylone przez art. 153 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320), ze skutkiem od dnia 1 stycznia 2014 r.; odesłania do uchylonego rozporządzenia traktuje się jak odesłania do rozporządzenia uchylającego, zgodnie z tabelą korelacji określoną w załączniku XIV do tego rozporządzenia..
 § 20.
 Podmiot udzielający pomocy informuje beneficjenta pomocy o numerze referencyjnym programu pomocowego, o którym mowa w art. 3 ust. 6 rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. w sprawie wykonania rozporządzenia Rady (WE) nr 659/1999 ustanawiającego szczegółowe zasady stosowania art. 93 Traktatu WE (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 4, str. 3, z późn. zm.), w ramach którego pomoc jest udzielana.
-§ 21.
+Przepisy końcowe
+§ 21W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5..
 1.
-Regionalna pomoc inwestycyjna na rewitalizację obszarów zdegradowanych jest udzielana do dnia określonego w art. 44 ust. 3 azdanie drugie rozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólne rozporządzenie w sprawie wyłączeń blokowych).
+Regionalna pomoc inwestycyjna na rewitalizację obszarów zdegradowanych jest udzielana do dnia określonego w art. 44 ust. 3 azdanie drugie rozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólne rozporządzenie w sprawie wyłączeń blokowych)Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r..
 2.
 Pomoc na wspieranie kultury i dziedzictwa kulturowego oraz pomoc na modernizację części wspólnych wielorodzinnych budynków mieszkalnych są udzielane do dnia 30 czerwca 2015 r.
 § 22.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Infrastruktury i Rozwoju, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Rozwoju (Dz. U. poz. 1257). 2) Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r. 3) Uchylone przez art. 153 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320), ze skutkiem od dnia 1 stycznia 2014 r.; odesłania do uchylonego rozporządzenia traktuje się jak odesłania do rozporządzenia uchylającego, zgodnie z tabelą korelacji określoną w załączniku XIV do tego rozporządzenia. 4) Wygasło z dniem 31 grudnia 2013 r. na podstawie art. 6 rozporządzenia Komisji (WE) nr 1998/2006 z dnia 15 grudnia 2006 r. w sprawie stosowania art. 87 i 88 Traktatu do pomocy de minimis (Dz. Urz. UE L 379 z 28.12.2006, str. 5). 5) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 18 grudnia 2013 r. zmieniającego rozporządzenie w sprawie udzielania pomocy na rewitalizację w ramach regionalnych programów operacyjnych (Dz. U. poz. 1684), które weszło w życie z dniem 1 stycznia 2014 r. 6) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 5. 7) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5. 8) Rozporządzenie zostało ogłoszone w dniu 1 lipca 2010 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 1 lipca 2010 r.. 1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Infrastruktury i Rozwoju, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Rozwoju (Dz. U. poz. 1257). 2) Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r. 3) Uchylone przez art. 153 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320), ze skutkiem od dnia 1 stycznia 2014 r.; odesłania do uchylonego rozporządzenia traktuje się jak odesłania do rozporządzenia uchylającego, zgodnie z tabelą korelacji określoną w załączniku XIV do tego rozporządzenia. 4) Wygasło z dniem 31 grudnia 2013 r. na podstawie art. 6 rozporządzenia Komisji (WE) nr 1998/2006 z dnia 15 grudnia 2006 r. w sprawie stosowania art. 87 i 88 Traktatu do pomocy de minimis (Dz. Urz. UE L 379 z 28.12.2006, str. 5). 5) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 18 grudnia 2013 r. zmieniającego rozporządzenie w sprawie udzielania pomocy na rewitalizację w ramach regionalnych programów operacyjnych (Dz. U. poz. 1684), które weszło w życie z dniem 1 stycznia 2014 r. 6) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 5. 7) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5. 8) Rozporządzenie zostało ogłoszone w dniu 1 lipca 2010 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Regionalna pomoc inwestycyjna na rewitalizację obszarów zdegradowanych
+#### Rozdział 2 – Regionalna pomoc inwestycyjna na rewitalizację obszarów zdegradowanych
 
-#### Rozdział 3 Pomoc na modernizację części wspólnych wielorodzinnych budynków mieszkalnych
+#### Rozdział 3 – Pomoc na modernizację części wspólnych wielorodzinnych budynków mieszkalnych
 
-#### Rozdział 4 Pomoc na wspieranie kultury i dziedzictwa kulturowego
+#### Rozdział 4 – Pomoc na wspieranie kultury i dziedzictwa kulturowego
 
-#### Rozdział 5 Tryb udzielania pomocy
+#### Rozdział 5 – Tryb udzielania pomocy
 
-#### Rozdział 6 Przepisy końcowe
+#### Rozdział 6 – Przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

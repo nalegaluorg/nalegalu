@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000872) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/872/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 26 kwietnia 2001 r. o rentach strukturalnych w rolnictwie Rozdział 1 – Przepisy ogólne Rozdział 2 – Warunki nabywania prawa do renty strukturalnej Rozdział 3 – Wysokość i zasady wypłacania renty strukturalnej Rozdział 4 – Zasady postępowania w sprawach rent strukturalnych Rozdział 5 – Sposób finansowania rent strukturalnych Rozdział 6 – Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 26 kwietnia 2001 r. o rentach strukturalnych w rolnictwie
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 kwietnia 2001 r. o rentach strukturalnych w rolnictwie (Dz. U. Nr 52, poz. 539), z uwzględnieniem zmian wprowadzonych:
@@ -35,23 +35,41 @@ ustawą z dnia 28 listopada 2003 r. o wspieraniu rozwoju obszarów wiejskich ze 
 2)
 ustawą z dnia 2 kwietnia 2004 r. o zmianie ustawy o ubezpieczeniu społecznym rolników oraz o zmianie niektórych innych ustaw (Dz. U. Nr 91, poz. 873),
 3)
-ustawą z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 kwietnia 2018 r.
+ustawą z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 kwietnia 2018 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 22–25 ustawy z dnia 26 kwietnia 2001 r. o rentach strukturalnych w rolnictwie (Dz. U. Nr 52, poz. 539), które stanowią:
-„
+art. 22–25 ustawy z dnia 26 kwietnia 2001 r. o rentach strukturalnych w rolnictwie (Dz. U. Nr 52, poz. 539), które stanowią: „
+Przepisy ogólne
+Warunki nabywania prawa do renty strukturalnej
+Wysokość i zasady wypłacania renty strukturalnej
+Zasady postępowania w sprawach rent strukturalnych
 1.
 Prezes Kasy Rolniczego Ubezpieczenia Społecznego, zwany dalej „Prezesem Kasy”, wydaje decyzje w sprawach przyznania rent strukturalnych oraz wypłaca świadczenia z tego tytułu.
 2.
 Prezes Kasy może upoważnić pracowników Kasy Rolniczego Ubezpieczenia Społecznego, zwanej dalej „Kasą”, do wydawania decyzji w sprawach, o których mowa w ust. 1.
 3.
 Od decyzji Prezesa Kasy w sprawie przyznania renty strukturalnej przysługuje odwołanie do ministra właściwego do spraw rozwoju wsi w terminie i na zasadach określonych w przepisach Kodeksu postępowania administracyjnego.
-(pominięty)
-(pominięty)
-(pominięty)
-(pominięty)
+Sposób finansowania rent strukturalnych
+Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
+(pominięty)Zamieszczony w obwieszczeniu.
+(pominięty)Zamieszczony w obwieszczeniu.
+(pominięty)Zamieszczony w obwieszczeniu.
+(pominięty)Zamieszczony w obwieszczeniu.
+Art. 26W brzmieniu ustalonym przez art. 13 ustawy z dnia 28 listopada 2003 r. o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej (Dz. U. poz. 2273), który wszedł w życie z dniem 15 stycznia 2004 r..
+Ostateczny termin składania wniosków o przyznanie renty strukturalnej upływa z dniem 31 grudnia 2003 r.
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Warunki nabywania prawa do renty strukturalnej
+
+#### Rozdział 3 – Wysokość i zasady wypłacania renty strukturalnej
+
+#### Rozdział 4 – Zasady postępowania w sprawach rent strukturalnych
+
+#### Rozdział 5 – Sposób finansowania rent strukturalnych
+
+#### Rozdział 6 – Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
 
 **Art. 22.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324 oraz z 2001 r. Nr 4, poz. 27 i Nr 8, poz. 64) w art. 34 wprowadza się następujące zmiany:
 
@@ -88,7 +106,7 @@ Od decyzji Prezesa Kasy w sprawie przyznania renty strukturalnej przysługuje od
 - **6)** art. 224, który wchodzi w życie z dniem 1 kwietnia 2017 r.;
 - **7)** art. 66 pkt 3, który wchodzi w życie z dniem 1 stycznia 2022 r. ” . Załącznik – Tekst jednolity ustawy z dnia 26 kwietnia 2001 r. o rentach strukturalnych w rolnictwie
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -107,10 +125,10 @@ Od decyzji Prezesa Kasy w sprawie przyznania renty strukturalnej przysługuje od
 - **2)** rolnik – osoba fizyczna prowadząca na własny rachunek działalność rolniczą jako właściciel (współwłaściciel) gospodarstwa rolnego położonego w granicach Rzeczypospolitej Polskiej, bez względu na to, czy gospodarstwo rolne stanowi współwłasność małżonków, czy też zostało zorganizowane na gruntach stanowiących własność odrębną jednego lub każdego z nich;
 - **3)** działalność rolnicza – działalność w zakresie produkcji roślinnej lub zwierzęcej, w tym produkcji ogrodniczej, sadowniczej i rybnej;
 - **4)** gospodarstwo rolne – gospodarstwo rolne w rozumieniu przepisów o podatku rolnym;
-- **5)** przekazanie gospodarstwa rolnego – odpłatne lub nieodpłatne przeniesienie własności gruntów wchodzących w skład tego gospodarstwa, w drodze umowy, na rzecz osoby fizycznej lub prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej, jak również przejęcie tych gruntów na własność Skarbu Państwa, w drodze decyzji Prezesa Agencji Własności Rolnej Skarbu Państwa ;
+- **5)** przekazanie gospodarstwa rolnego – odpłatne lub nieodpłatne przeniesienie własności gruntów wchodzących w skład tego gospodarstwa, w drodze umowy, na rzecz osoby fizycznej lub prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej, jak również przejęcie tych gruntów na własność Skarbu Państwa, w drodze decyzji Prezesa Agencji Własności Rolnej Skarbu Państwa Obecnie Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa, na podstawie art. 55 pkt 2 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503), która weszła w życie z dniem 1 września 2017 r.;
 - **6)** najniższa emerytura – kwota najniższej emerytury określona w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-#### Rozdział 2 Warunki nabywania prawa do renty strukturalnej
+#### Rozdział 2
 
 **Art. 3.**
 
@@ -154,7 +172,7 @@ Od decyzji Prezesa Kasy w sprawie przyznania renty strukturalnej przysługuje od
 
 1. Umowa o przekazaniu gospodarstwa rolnego, o którym mowa w art. 3 ust. 1 pkt 5, poza wymaganiami określonymi odrębnymi przepisami, powinna zawierać oświadczenia stron tej umowy o spełnieniu warunków określonych w art. 6 i art. 8.
 
-2. (uchylony)
+2. (uchylony)Przez art. 4 pkt 1 ustawy z dnia 2 kwietnia 2004 r. o zmianie ustawy o ubezpieczeniu społecznym rolników oraz o zmianie niektórych innych ustaw (Dz. U. poz. 873), która weszła w życie z dniem 2 maja 2004 r.
 
 **Art. 8.**
 
@@ -164,9 +182,8 @@ Od decyzji Prezesa Kasy w sprawie przyznania renty strukturalnej przysługuje od
 - **2)** posiada kwalifikacje rolnicze;
 - **3)** nie ma ustalonego prawa do emerytury lub renty z ubezpieczenia społecznego lub zaopatrzenia emerytalnego.
 
-2. Uważa się, że osoba fizyczna przejmująca gospodarstwo rolne posiada kwalifikacje rolnicze, jeżeli:
+2. Uważa się, że osoba fizyczna przejmująca gospodarstwo rolne posiada kwalifikacje rolnicze, jeżeli: 1Ze zmianą wprowadzoną przez art. 38 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe) uzyskała zasadnicze zawodowe, zasadnicze branżowe, średnie lub średnie branżowe albo wyższe wykształcenie rolnicze lub ekonomiczne o specjalności przydatnej do prowadzenia działalności rolniczej, lub
 
-- **1)** uzyskała zasadnicze zawodowe, zasadnicze branżowe, średnie lub średnie branżowe albo wyższe wykształcenie rolnicze lub ekonomiczne o specjalności przydatnej do prowadzenia działalności rolniczej, lub
 - **2)** prowadzi działalność rolniczą od co najmniej 5 lat.
 
 3. Umowa, o której mowa w art. 7, może być zawarta z osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej, jeżeli działalność rolnicza należy do zakresu jej działania. (Dz. U. z 2017 r. poz. 60), która weszła w życie z dniem 1 września 2017 r.
@@ -177,20 +194,19 @@ Od decyzji Prezesa Kasy w sprawie przyznania renty strukturalnej przysługuje od
 
 2. Na własność Skarbu Państwa mogą być przejęte wyłącznie nieruchomości wolne od obciążeń, z wyjątkiem służebności gruntowych.
 
-3. Przejęcie nieruchomości, o których mowa w ust. 1, następuje w drodze decyzji Prezesa Agencji Własności Rolnej Skarbu Państwa .
+3. Przejęcie nieruchomości, o których mowa w ust. 1, następuje w drodze decyzji Prezesa Agencji Własności Rolnej Skarbu Państwa Obecnie Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa, na podstawie art. 55 pkt 2 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503), która weszła w życie z dniem 1 września 2017 r..
 
 4. Od decyzji, o której mowa w ust. 3, przysługuje odwołanie do ministra właściwego do spraw rozwoju wsi, w terminie i na zasadach określonych w przepisach Kodeksu postępowania administracyjnego.
 
 5. Nieruchomości przejęte w drodze decyzji, o której mowa w ust. 3, wchodzą w skład Zasobu Własności Rolnej Skarbu Państwa.
 
-6. Agencja Własności Rolnej Skarbu Państwa  gospodaruje przejętymi nieruchomościami na zasadach określonych w przepisach o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa.
+6. Agencja Własności Rolnej Skarbu Państwa Obecnie Krajowy Ośrodek Wsparcia Rolnictwa, na podstawie art. 55 pkt 1 ustawy, o której mowa w odnośniku 1. gospodaruje przejętymi nieruchomościami na zasadach określonych w przepisach o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa.
 
-**Art. 10.** Warunek zaprzestania prowadzenia działalności rolniczej, o którym mowa w art. 3 ust. 1 pkt 4, uważa się za spełniony, jeżeli po przekazaniu gospodarstwa rolnego ani uprawniony do renty strukturalnej, ani jego małżonek:
+**Art. 10.** Warunek zaprzestania prowadzenia działalności rolniczej, o którym mowa w art. 3 ust. 1 pkt 4, uważa się za spełniony, jeżeli po przekazaniu gospodarstwa rolnego ani uprawniony do renty strukturalnej, ani jego małżonek: 1W brzmieniu ustalonym przez art. 4 pkt 2 ustawy, o której mowa w odnośniku 2.) nie jest właścicielem (współwłaścicielem) lub posiadaczem gruntów będących gospodarstwem rolnym w rozumieniu przepisów o podatku rolnym;
 
-- **1)** nie jest właścicielem (współwłaścicielem) lub posiadaczem gruntów będących gospodarstwem rolnym w rozumieniu przepisów o podatku rolnym;
 - **2)** nie prowadzi działu specjalnego produkcji rolnej w rozumieniu przepisów o podatku dochodowym od osób fizycznych, z wyjątkiem prowadzenia pasiek.
 
-#### Rozdział 3 Wysokość i zasady wypłacania renty strukturalnej
+#### Rozdział 3
 
 **Art. 11.**
 
@@ -214,7 +230,7 @@ Od decyzji Prezesa Kasy w sprawie przyznania renty strukturalnej przysługuje od
 
 **Art. 15.** Jeżeli uprawniony do renty strukturalnej lub jego małżonek podejmie prowadzenie działalności rolniczej jako właściciel (współwłaściciel) lub posiadacz gospodarstwa rolnego, prawo do renty strukturalnej ustaje i nie podlega przywróceniu.
 
-#### Rozdział 4 Zasady postępowania w sprawach rent strukturalnych
+#### Rozdział 4
 
 **Art. 17.**
 
@@ -239,7 +255,7 @@ Od decyzji Prezesa Kasy w sprawie przyznania renty strukturalnej przysługuje od
 2. Jeżeli w wyniku weryfikacji wniosku okaże się, że:
 
 - **1)** rolnik nie spełnia i nie spełni do dnia 31 grudnia następnego roku kalendarzowego warunków określonych w art. 3 ust. 1 pkt 1–3 lub
-- **2)** rolnik nie jest właścicielem gospodarstwa rolnego o powierzchni co najmniej 3 ha, współwłaścicielem takiego gospodarstwa wraz z małżonkiem, ani właścicielem takiego gospodarstwa nie jest małżonek rolnika Prezes Kasy wydaje decyzję odmawiającą przyznania prawa do renty strukturalnej.
+- **2)** rolnik nie jest właścicielem gospodarstwa rolnego o powierzchni co najmniej 3 ha, współwłaścicielem takiego gospodarstwa wraz z małżonkiem, ani właścicielem takiego gospodarstwa nie jest małżonek rolnika – Prezes Kasy wydaje decyzję odmawiającą przyznania prawa do renty strukturalnej.
 
 3. Jeżeli w wyniku weryfikacji złożonego wniosku okaże się, że rolnik spełnia lub spełni do dnia 31 grudnia następnego roku kalendarzowego warunki określone w art. 3 ust. 1 pkt 1–3 oraz jest właścicielem gospodarstwa rolnego o powierzchni co najmniej 3 ha lub współwłaścicielem takiego gospodarstwa wraz z małżonkiem, lub właścicielem takiego gospodarstwa jest małżonek rolnika, Prezes Kasy wydaje postanowienie o spełnieniu tych warunków.
 
@@ -261,7 +277,7 @@ Od decyzji Prezesa Kasy w sprawie przyznania renty strukturalnej przysługuje od
 
 2. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, szczegółowe zasady i tryb postępowania w sprawie przyznawania i wypłaty rent strukturalnych, mając na uwadze procedurę składania, przyjmowania, dokumentowania i weryfikacji wniosków o ustalenie prawa do renty strukturalnej, przyznawania prawa i wypłaty świadczeń oraz dokumentowania przekazania gospodarstwa rolnego i zaprzestania prowadzenia działalności rolniczej.
 
-#### Rozdział 5 Sposób finansowania rent strukturalnych
+#### Rozdział 5
 
 **Art. 21.**
 
@@ -275,12 +291,7 @@ Od decyzji Prezesa Kasy w sprawie przyznania renty strukturalnej przysługuje od
 
 5. Przychody i rozchody środków, o których mowa w ust. 2, Prezes Kasy ujmuje w planie rzeczowo-finansowym Kasy oraz w sprawozdaniu rocznym.
 
-#### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
+#### Rozdział 6
 
-**Art. 26.** Ostateczny termin składania wniosków o przyznanie renty strukturalnej upływa z dniem 31 grudnia 2003 r.
-
-**Art. 27.** Ustawa wchodzi w życie z dniem 1 stycznia 2002 r.
-
-- **1)** Obecnie Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa, na podstawie art. 55 pkt 2 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503), która weszła w życie z dniem 1 września 2017 r. 2) Przez art. 4 pkt 1 ustawy z dnia 2 kwietnia 2004 r. o zmianie ustawy o ubezpieczeniu społecznym rolników oraz o zmianie niektórych innych ustaw (Dz. U. poz. 873), która weszła w życie z dniem 2 maja 2004 r. 3) Ze zmianą wprowadzoną przez art. 38 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe 4) Obecnie Krajowy Ośrodek Wsparcia Rolnictwa, na podstawie art. 55 pkt 1 ustawy, o której mowa w odnośniku 1. 5) W brzmieniu ustalonym przez art. 4 pkt 2 ustawy, o której mowa w odnośniku 2. 6) Zamieszczony w obwieszczeniu. 7) W brzmieniu ustalonym przez art. 13 ustawy z dnia 28 listopada 2003 r. o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej (Dz. U. poz. 2273), który wszedł w życie z dniem 15 stycznia 2004 r.
-
+**Art. 27.** Ustawa wchodzi w życie z dniem 1 stycznia 2002 r. 1) Obecnie Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa, na podstawie art. 55 pkt 2 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503), która weszła w życie z dniem 1 września 2017 r. 2) Przez art. 4 pkt 1 ustawy z dnia 2 kwietnia 2004 r. o zmianie ustawy o ubezpieczeniu społecznym rolników oraz o zmianie niektórych innych ustaw (Dz. U. poz. 873), która weszła w życie z dniem 2 maja 2004 r. 3) Ze zmianą wprowadzoną przez art. 38 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe 4) Obecnie Krajowy Ośrodek Wsparcia Rolnictwa, na podstawie art. 55 pkt 1 ustawy, o której mowa w odnośniku 1. 5) W brzmieniu ustalonym przez art. 4 pkt 2 ustawy, o której mowa w odnośniku 2. 6) Zamieszczony w obwieszczeniu. 7) W brzmieniu ustalonym przez art. 13 ustawy z dnia 28 listopada 2003 r. o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej (Dz. U. poz. 2273), który wszedł w życie z dniem 15 stycznia 2004 r.
 

@@ -8,10 +8,10 @@ pos: 2632
 act_type: Rozporządzenie
 status: akt objęty tekstem jednolitym
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Rozporządzenie Prezesa Rady Ministrówz dnia 29 listopada 2023 r. zmieniające rozporządzenie w sprawie nadania statutu Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego
+# DZIENNIK USTAW RZECZYPOSPOLITEJ  POLSKIEJ Warszawa, dnia 5 grudnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,131 +22,237 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-11-29 |
 | Data wydania | 2023-12-05 |
-| Wejście w życie | 2023-12-13 |
 | Ostatnia zmiana | 2025-02-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002632) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2632/text.pdf) |
 
-Treść rozporządzenia
-Załącznik – Statut Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego
-
-## Załącznik nr 1 — – Dyplom (wzór)
-
-## Załącznik nr 2 — – Certyfikat znajomości języka (wzór)
-
-## Załącznik nr 3 — – Certyfikat uzyskania kompetencji w obszarze/zakresie (wzór)
-
-## Załącznik nr 4 — – Emblemat (wzór)
-
-Treść rozporządzenia
-Na podstawie art. 2 ust. 1 ustawy z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego (Dz. U. z 2023 r. poz. 1952) zarządza się, co następuje:
-§ 1.
-W rozporządzeniu Prezesa Rady Ministrów z dnia 7 października 1999 r. w sprawie nadania statutu Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego (Dz. U. z 2017 r. poz. 1507) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2.
-Do osób będących w dniu wejścia w życie rozporządzenia słuchaczami Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego stosuje się przepisy dotychczasowe.
-§ 3.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Załącznik – Statut Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego
-I.
-Postanowienia ogólne
-§ 1.
-1.
-Krajowa Szkoła Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego, zwana dalej „Szkołą”, działa na podstawie ustawy z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego (Dz. U. z 2023 r. poz. 1952), zwanej dalej „ustawą o KSAP”, oraz niniejszego statutu.
-2.
-Misją Szkoły jest wspieranie rozwoju neutralnych politycznie, kompetentnych i rzetelnych kadr administracji publicznej oraz upowszechnianie wiedzy i umiejętności niezbędnych do efektywnego realizowania zadań publicznych, w tym propagowanie innowacyjnych rozwiązań i najlepszych praktyk dla administracji publicznej.
-§ 2.
-1.
-W celu przygotowywania wykwalifikowanych kadr dla administracji publicznej, w tym do pełnienia funkcji kierowniczych, Szkoła realizuje programy kształcenia stacjonarnego lub dualnego słuchaczy.
-2.
-W celu zaspokajania potrzeb administracji publicznej w zakresie profesjonalizacji kadr oraz doskonalenia zawodowego Szkoła organizuje szkolenia, kursy, programy i projekty odpowiadające na szczególne potrzeby administracji publicznej (kształcenie ustawiczne).
-3.
-W celu wspierania rozwoju i doskonalenia administracji publicznej w Polsce i za granicą Szkoła może:
-1)
-opracowywać i przeprowadzać procedury sprawdzania i potwierdzania kompetencji niezbędnych w administracji publicznej (certyfikacja);
-2)
-prowadzić działalność analityczno-badawczą mającą w szczególności na celu diagnozowanie potrzeb rozwojowych administracji publicznej oraz identyfikowanie najnowszych trendów w zarządzaniu publicznym;
-3)
-stwarzać warunki dla efektywnego wykorzystania myśli naukowej w administracji publicznej;
-4)
-stwarzać warunki dla pozyskania i wymiany doświadczeń i najlepszych praktyk;
-5)
-realizować inne projekty mające na celu wsparcie administracji publicznej w kraju lub za granicą;
-6)
-podejmować inne działania przyczyniające się do usprawnienia administracji publicznej.
-4.
-Realizując zadania, o których mowa w ust. 1–3, Szkoła w szczególności może:
-1)
-współpracować z jednostkami administracji publicznej w kraju i za granicą;
-2)
-współpracować z uczelniami, instytutami badawczymi oraz instytucjami publicznymi odpowiedzialnymi za rozwój kompetencji w administracji publicznej;
-3)
-współpracować z innymi podmiotami realizującymi działalność w zakresie szkoleń oraz pozostałych form doskonalenia zawodowego;
-4)
-prowadzić działalność wydawniczą;
-5)
-pozyskiwać i wykorzystywać fundusze ze źródeł zagranicznych, w tym środki pochodzące z budżetu Unii Europejskiej;
-6)
-prowadzić działalność informacyjną propagującą działalność Szkoły.
-II.
-Organy i organizacja Szkoły
-§ 3.
-Organami Szkoły są dyrektor i Rada Szkoły.
-§ 4.
-Dyrektor, po zasięgnięciu opinii Rady Szkoły, może powołać nie więcej niż trzech zastępców dyrektora.
-§ 5.
-Do kompetencji dyrektora należy zapewnienie realizacji zadań Szkoły, w tym w szczególności:
-1)
-określanie szczegółowego harmonogramu i sposobu przeprowadzenia postępowania rekrutacyjnego do kształcenia stacjonarnego oraz dualnego (regulaminy rekrutacji);
-2)
-określanie szczegółowych zasad i harmonogramu realizacji kształcenia stacjonarnego oraz dualnego (regulaminy kształcenia);
-3)
-powoływanie Komisji Programowo-Dydaktycznej, do której należy ocena pracy słuchaczy, koordynowanie i aktualizacja programów kształcenia oraz dbałość o jakość zajęć dydaktycznych;
-4)
-podejmowanie decyzji o skreśleniu z listy słuchaczy, nagrodzeniu lub ukaraniu słuchacza;
-5)
-podejmowanie decyzji o dopuszczeniu do udziału w zajęciach osób niebędących słuchaczami oraz określanie warunków i zakresu ich uczestnictwa w zajęciach;
-6)
-określanie zasad naboru i uczestnictwa w szkoleniach, kursach, programach i projektach oraz innych działaniach podejmowanych przez Szkołę, o których mowa w § 2 ust. 3, organizowanych przez Szkołę z uwzględnieniem obowiązujących przepisów oraz zobowiązań Szkoły;
-7)
-określanie zasad nawiązywania i realizacji współpracy z ekspertami niezbędnymi do realizacji zadań Szkoły;
-8)
-określanie zasad wykonywania innych zadań realizowanych przez Szkołę, w szczególności w zakresie sprawdzania i potwierdzania kompetencji niezbędnych w administracji publicznej;
-9)
-określanie w regulaminie organizacyjnym szczegółowej struktury organizacyjnej Szkoły;
-10)
-określanie procedur wewnętrznych niezbędnych do prawidłowej realizacji zadań Szkoły;
-11)
-sprawowanie bezpośredniego nadzoru nad komórkami organizacyjnymi Szkoły;
-12)
-wykonywanie czynności z zakresu prawa pracy, w tym ustalanie regulaminów wynikających z przepisów prawa pracy;
-13)
-realizowanie zadań kierownika jednostki wynikających z przepisów odrębnych;
-14)
-zapewnienie przestrzegania obowiązujących przepisów;
-15)
-zapewnienie właściwego gospodarowania mieniem Szkoły.
-§ 6.
-1.
-Rada Szkoły, zwana dalej „Radą”, jest organem wnioskującym, doradczym i opiniującym Szkoły.
-2.
-Rada liczy nie więcej niż 25 członków.
-§ 7.
-W ramach realizacji kompetencji, o których mowa w § 6 ust. 1, Rada w szczególności:
-1)
-określa swoją organizację i tryb działania;
-2)
-wyraża opinie w sprawach:
-a)
-kierunków działania Szkoły,
-b)
-sposobu przeprowadzania rekrutacji,
-c)
-procesu dydaktycznego,
-d)
-funkcjonowania i wyników działalności Szkoły,
-e)
-zatrudniania absolwentów.
-§ 8.
-1.
-W skład Rady wchodzą: minister właściwy do spraw administracji publicznej, minister właściwy do spraw finansów publicznych, minister właściwy do spraw zagranicznych, minister właściwy do spraw szkolnictwa wyższego i nauki, Szef Kancelarii Prezesa Rady Ministrów oraz Szef Służby Cywilnej.
-2.
+Poz. 2632 2632 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 29 listopada 2023 r.
+zmieniające rozporządzenie w sprawie nadania statutu Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego Na podstawie art. 2 ust. 1 ustawy z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego (Dz. U. z 2023 r. poz. 1952) zarządza się, co następuje: § 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 7 października 1999 r. w sprawie nadania statutu Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego (Dz.  U. z  2017  r. poz.  1507) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+§ 2. Do osób będących w dniu wejścia w życie rozporządzenia słuchaczami Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego stosuje się przepisy dotychczasowe.
+§ 3. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Prezes Rady Ministrów: M. Morawiecki Dziennik Ustaw – 2 – Poz. 2632 ﻿ Załącznik do rozporządzenia Prezesa Rady Ministrów z dnia 29 listopada 2023 r. (Dz. U. poz. 2632) STATUT KRAJOWEJ SZKOŁY ADMINISTRACJI PUBLICZNEJ IM. PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ LECHA KACZYŃSKIEGO I. Postanowienia ogólne § 1. 1. Krajowa Szkoła Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego, zwana dalej „Szkołą”, działa na podstawie ustawy z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego (Dz. U. z 2023 r. poz. 1952), zwanej dalej „ustawą o KSAP”, oraz niniejszego statutu.
+2. Misją Szkoły jest wspieranie rozwoju neutralnych politycznie, kompetentnych i rzetelnych kadr administracji publicznej oraz upowszechnianie wiedzy i umiejętności niezbędnych do efektywnego realizowania zadań publicznych, w tym propagowanie innowacyjnych rozwiązań i najlepszych praktyk dla administracji publicznej.
+§ 2. 1. W celu przygotowywania wykwalifikowanych kadr dla administracji publicznej, w tym do pełnienia funkcji kierowniczych, Szkoła realizuje programy kształcenia stacjonarnego lub dualnego słuchaczy.
+2. W celu zaspokajania potrzeb administracji publicznej w zakresie profesjonalizacji kadr oraz doskonalenia zawodowego Szkoła organizuje szkolenia, kursy, programy i projekty odpowiadające na szczególne potrzeby administracji publicznej (kształcenie ustawiczne).
+3. W celu wspierania rozwoju i doskonalenia administracji publicznej w Polsce i za granicą Szkoła może:
+1) opracowywać i przeprowadzać procedury sprawdzania i potwierdzania kompetencji niezbędnych w administracji publicznej (certyfikacja);
+2) prowadzić działalność analityczno-badawczą mającą w szczególności na celu diagnozowanie potrzeb rozwojowych administracji publicznej oraz identyfikowanie najnowszych trendów w zarządzaniu publicznym;
+3) stwarzać warunki dla efektywnego wykorzystania myśli naukowej w administracji publicznej;
+4) stwarzać warunki dla pozyskania i wymiany doświadczeń i najlepszych praktyk;
+5) realizować inne projekty mające na celu wsparcie administracji publicznej w kraju lub za granicą;
+6) podejmować inne działania przyczyniające się do usprawnienia administracji publicznej.
+4. Realizując zadania, o których mowa w ust. 1–3, Szkoła w szczególności może:
+1) współpracować z jednostkami administracji publicznej w kraju i za granicą;
+2) współpracować z uczelniami, instytutami badawczymi oraz instytucjami publicznymi odpowiedzialnymi za rozwój kompetencji w administracji publicznej;
+3) współpracować z innymi podmiotami realizującymi działalność w zakresie szkoleń oraz pozostałych form doskonalenia zawodowego;
+4) prowadzić działalność wydawniczą;
+5) pozyskiwać i wykorzystywać fundusze ze źródeł zagranicznych, w tym środki pochodzące z budżetu Unii Europejskiej;
+6) prowadzić działalność informacyjną propagującą działalność Szkoły.
+II. Organy i organizacja Szkoły § 3. Organami Szkoły są dyrektor i Rada Szkoły.
+§ 4. Dyrektor, po zasięgnięciu opinii Rady Szkoły, może powołać nie więcej niż trzech zastępców dyrektora.
+§ 5. Do kompetencji dyrektora należy zapewnienie realizacji zadań Szkoły, w tym w szczególności:
+1) określanie szczegółowego harmonogramu i sposobu przeprowadzenia postępowania rekrutacyjnego do kształcenia stacjonarnego oraz dualnego (regulaminy rekrutacji);
+2) określanie szczegółowych zasad i  harmonogramu realizacji kształcenia stacjonarnego oraz dualnego (regulaminy kształcenia);
+Dziennik Ustaw – 3 – Poz. 2632 ﻿
+3) powoływanie Komisji Programowo-Dydaktycznej, do której należy ocena pracy słuchaczy, koordynowanie i aktualizacja programów kształcenia oraz dbałość o jakość zajęć dydaktycznych;
+4) podejmowanie decyzji o skreśleniu z listy słuchaczy, nagrodzeniu lub ukaraniu słuchacza;
+5) podejmowanie decyzji o dopuszczeniu do udziału w zajęciach osób niebędących słuchaczami oraz określanie warunków i zakresu ich uczestnictwa w zajęciach;
+6) określanie zasad naboru i uczestnictwa w szkoleniach, kursach, programach i projektach oraz innych działaniach podejmowanych przez Szkołę, o których mowa w § 2 ust. 3, organizowanych przez Szkołę z uwzględnieniem obowiązujących przepisów oraz zobowiązań Szkoły;
+7) określanie zasad nawiązywania i realizacji współpracy z ekspertami niezbędnymi do realizacji zadań Szkoły;
+8) określanie zasad wykonywania innych zadań realizowanych przez Szkołę, w szczególności w zakresie sprawdzania i potwierdzania kompetencji niezbędnych w administracji publicznej;
+9) określanie w regulaminie organizacyjnym szczegółowej struktury organizacyjnej Szkoły;
+10)	 określanie procedur wewnętrznych niezbędnych do prawidłowej realizacji zadań Szkoły;
+11)	 sprawowanie bezpośredniego nadzoru nad komórkami organizacyjnymi Szkoły;
+12)	 wykonywanie czynności z zakresu prawa pracy, w tym ustalanie regulaminów wynikających z przepisów prawa pracy;
+13)	 realizowanie zadań kierownika jednostki wynikających z przepisów odrębnych;
+14)	 zapewnienie przestrzegania obowiązujących przepisów;
+15)	 zapewnienie właściwego gospodarowania mieniem Szkoły.
+§ 6. 1. Rada Szkoły, zwana dalej „Radą”, jest organem wnioskującym, doradczym i opiniującym Szkoły.
+2. Rada liczy nie więcej niż 25 członków.
+§ 7. W ramach realizacji kompetencji, o których mowa w § 6 ust. 1, Rada w szczególności:
+1) określa swoją organizację i tryb działania;
+2) wyraża opinie w sprawach:
+a) kierunków działania Szkoły,
+b) sposobu przeprowadzania rekrutacji,
+c) procesu dydaktycznego,
+d) funkcjonowania i wyników działalności Szkoły,
+e) zatrudniania absolwentów.
+§ 8. 1. W skład Rady wchodzą: minister właściwy do spraw administracji publicznej, minister właściwy do spraw finansów publicznych, minister właściwy do spraw zagranicznych, minister właściwy do spraw szkolnictwa wyższego i nauki, Szef Kancelarii Prezesa Rady Ministrów oraz Szef Służby Cywilnej.
+2. Prezes Rady Ministrów zaprasza do składu Rady Szefa Kancelarii Prezydenta Rzeczypospolitej Polskiej, Prezesa Najwyższej Izby Kontroli oraz Prezesa Naczelnego Sądu Administracyjnego.
+3. Prezes Rady Ministrów, na wniosek dyrektora, może powołać do składu Rady kierowników urzędów administracji publicznej i dyrektorów generalnych urzędów.
+4. Prezes Rady Ministrów, na wniosek dyrektora, może powołać do składu Rady przedstawicieli nauki, środowisk opiniotwórczych oraz praktyków na okres pięciu lat. W skład Rady mogą być powoływane również osoby zatrudnione w Szkole.
+5. Prezes Rady Ministrów może odwołać członków Rady, o których mowa w ust. 3 i 4.
+6. Członkowie Rady, o których mowa w ust. 1 i 2, mogą upoważnić osoby w randze sekretarza stanu, podsekretarza stanu albo dyrektora lub zastępcy dyrektora departamentu do reprezentowania ich w pracach Rady.
+Dziennik Ustaw – 4 – Poz. 2632 ﻿ § 9. Prezes Rady Ministrów na wniosek Rady może nadać honorowe członkostwo w Radzie osobie szczególnie zasłużonej dla Szkoły.
+§ 10. 1. Rada wybiera spośród swoich członków przewodniczącego i jego zastępcę na okres pięciu lat. Rada może dokonać zmiany przewodniczącego i zastępcy w każdym czasie.
+2. Do czasu wyboru przewodniczącego posiedzeniu Rady przewodniczy Prezes Rady Ministrów lub osoba przez niego upoważniona.
+§ 11. 1. Rada obraduje na posiedzeniach odbywanych nie rzadziej niż dwa razy w roku.
+2. Rada wyraża swoje stanowisko w formie uchwał podejmowanych zwykłą większością głosów, w obecności co najmniej połowy składu Rady.
+3. Głosowania są jawne, chyba że Rada postanowi inaczej.
+4. W posiedzeniach Rady z prawem głosu uczestniczy dyrektor.
+5. Szczegółową organizację wewnętrzną oraz tryb pracy Rady określa regulamin uchwalony przez Radę.
+6. Przewodniczący Rady może zdecydować o umożliwieniu członkom Rady zdalnego uczestniczenia w posiedzeniu Rady, przy wykorzystaniu środków komunikacji elektronicznej zapewniających komunikację w czasie rzeczywistym.
+§ 12. 1. Organizacja Szkoły jest dostosowana do realizacji zadań, o których mowa w art. 1 ust. 2 ustawy o KSAP oraz w § 2.
+2. W strukturze organizacyjnej Szkoły dyrektor tworzy: piony, ośrodki, działy, sekcje, biura, samodzielne stanowiska pracy oraz zespoły zadaniowe.
+3. Wewnętrzną organizację komórek utworzonych na podstawie ust. 2 określa regulamin organizacyjny Szkoły.
+§ 13. W Szkole działa:
+1) Komisja Rekrutacyjna, do zakresu działania której należą sprawy określone w § 15 ust. 2 i 3;
+2) Komisja Programowo-Dydaktyczna, do zakresu działania której należą sprawy określone w § 5 pkt 3, w § 26 ust. 5 oraz w § 27 ust. 1 pkt 4 i ust. 3;
+3) właściwe komisje certyfikacyjne, w tym w szczególności Lingwistyczna Komisja Sprawdzająca, do zakresu działania których należą sprawy określone w § 20 ust. 4 oraz w § 32 ust. 1 i 2.
+III. Zasady kształcenia słuchaczy § 14. 1. Kandydatem na słuchacza kształcenia stacjonarnego może zostać osoba, która spełnia łącznie następujące warunki:
+1) posiada dyplom ukończenia studiów potwierdzający wykształcenie wyższe oraz tytuł zawodowy magistra lub równorzędny;
+2) posiada obywatelstwo polskie;
+3) korzysta z pełni praw publicznych;
+4) nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+5) jest żołnierzem rezerwy lub nie podlega obowiązkowi obrony Ojczyzny.
+2. Kandydatem na słuchacza kształcenia dualnego może zostać osoba, która spełnia łącznie następujące warunki:
+1) posiada dyplom ukończenia studiów potwierdzający wykształcenie wyższe oraz tytuł zawodowy magistra lub równorzędny;
+2) posiada obywatelstwo polskie;
+3) korzysta z pełni praw publicznych;
+Dziennik Ustaw – 5 – Poz. 2632 ﻿
+4) nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+5) jest żołnierzem rezerwy lub nie podlega obowiązkowi obrony Ojczyzny;
+6) posiada co najmniej dwuletni staż pracy w urzędzie administracji publicznej;
+7) jest zatrudniona na czas nieokreślony w urzędzie administracji publicznej, do którego stosuje się przepisy ustawy regulującej organizację i funkcjonowanie służby cywilnej lub ustawy regulującej prawa i obowiązki osób zatrudnionych w urzędach państwowych;
+8) posiada zgodę pracodawcy na przystąpienie do rekrutacji.
+§ 15. 1. Słuchacze Szkoły są wyłaniani w drodze konkursowego postępowania rekrutacyjnego, odrębnego dla kształcenia stacjonarnego i kształcenia dualnego.
+2. Postępowanie rekrutacyjne przeprowadza Komisja Rekrutacyjna, zwana dalej „Komisją”.
+3. Komisja podejmuje decyzje w sprawach:
+1) dopuszczenia kandydata do postępowania rekrutacyjnego i jego kolejnych etapów;
+2) przyjęcia kandydata w poczet słuchaczy Szkoły.
+4. W skład Komisji wchodzą:
+1) przewodniczący – dyrektor, który organizuje i kieruje pracami Komisji;
+2) pozostali członkowie:
+a) osoby powołane przez dyrektora w szczególności spośród osób prowadzących zajęcia dydaktyczne w Szkole,
+b) przedstawiciel Prezesa Rady Ministrów,
+c) przedstawiciel Szefa Służby Cywilnej.
+5. Dyrektor może powołać zastępców członków Komisji, o których mowa w ust. 4 pkt 2 lit. a, którzy uczestniczą w posiedzeniu Komisji w przypadku nieobecności członka Komisji.
+6. Rada może delegować do składu Komisji jedną osobę ze swojego składu.
+7. Sekretarza Komisji wyznacza przewodniczący spośród osób, o których mowa w ust. 4 pkt 2 lit. a.
+8. W przypadku nieobecności dyrektora Komisji przewodniczy wyznaczony przez niego członek Komisji.
+9. Przewodniczący może powierzyć wykonanie określonych czynności w postępowaniu rekrutacyjnym osobom niewchodzącym w skład Komisji.
+§ 16. 1. Komisja podejmuje decyzje na posiedzeniach, w głosowaniu jawnym, zwykłą większością głosów.
+2. Decyzja może być podjęta, jeżeli w posiedzeniu uczestniczy co najmniej połowa członków Komisji.
+3. Obrady Komisji są niejawne.
+4. Przewodniczący może zapraszać do udziału w posiedzeniu Komisji, bez prawa głosu, osoby niebędące jej członkami, które wykonywały czynności w postępowaniu rekrutacyjnym.
+5. Za zgodą Przewodniczącego udział w posiedzeniu Komisji może odbywać się zdalnie, przy wykorzystaniu środków komunikacji elektronicznej zapewniających komunikację w czasie rzeczywistym.
+§ 17. 1. Postępowanie rekrutacyjne ma na celu sprawdzenie:
+1) spełniania przez kandydata warunków określonych w § 14;
+2) posiadania przez kandydata predyspozycji do pełnienia funkcji kierowniczych lub realizacji zadań urzędnika służby cywilnej;
+3) posiadanego przez kandydata zakresu wiedzy i umiejętności potrzebnych do realizacji zadań urzędnika służby cywilnej;
+4) posiadania przez kandydata znajomości języka obcego wskazanego w regulaminie rekrutacji.
+Dziennik Ustaw – 6 – Poz. 2632 ﻿
+2. Postępowanie rekrutacyjne jest podzielone na etapy określone w regulaminie rekrutacji.
+3. Wyniki poszczególnych etapów są ustalane według skali punktowej określonej przez Komisję. Komisja ustala liczbę punktów niezbędną do dopuszczenia kandydata do kolejnego etapu postępowania, a także liczbę punktów, jaką należy uzyskać, aby zostać przyjętym w poczet słuchaczy Szkoły.
+4. Postępowanie rekrutacyjne odbywa się w miarę możliwości z zachowaniem anonimowości.
+5. W postępowaniu rekrutacyjnym mogą być użyte testy służące ocenie możliwości intelektualnych kandydata i jego osobowości.
+6. Kandydatowi, który po raz kolejny przystąpił do postępowania rekrutacyjnego, nie zalicza się wyników uzyskanych w poprzednich postępowaniach rekrutacyjnych.
+7. Wyniki postępowania rekrutacyjnego są niezwłocznie podawane do publicznej wiadomości.
+§ 18. 1. Od decyzji Komisji przysługuje odwołanie do przewodniczącego Rady.
+2. Odwołanie wnosi się na piśmie utrwalonym w postaci papierowej lub elektronicznej, w terminie 7 dni od dnia ogłoszenia wyników postępowania rekrutacyjnego.
+3. Przewodniczący Rady rozstrzyga odwołanie bez zbędnej zwłoki, nie później niż do dnia rozpoczęcia kształcenia, którego postępowanie rekrutacyjne dotyczyło.
+§ 19. 1. Kształcenie stacjonarne i kształcenie dualne trwa od 18 do 24 miesięcy.
+2. Program kształcenia dualnego uwzględnia naprzemiennie zajęcia organizowane przez Szkołę oraz pracę w urzędzie, w którym słuchacz jest zatrudniony.
+3. Program kształcenia stacjonarnego i dualnego jest otwarty, podlega zmianom i uzupełnieniom odpowiednio do potrzeb administracji publicznej.
+§ 20. 1. Program kształcenia ma na celu przede wszystkim nabycie przez słuchaczy umiejętności praktycznych niezbędnych do realizowania zadań publicznych.
+2. Program kształcenia obejmuje:
+1) określony w decyzji dyrektora zestaw przedmiotów i zajęć obowiązkowych dla wszystkich słuchaczy;
+2) krajowe staże administracyjne lub krajowe wizyty studyjne, według reguł określonych w regulaminie kształcenia;
+3) zagraniczne staże administracyjne lub zagraniczne wizyty studyjne, według reguł określonych w regulaminie kształcenia;
+4) zajęcia służące analizie i  poszerzeniu znajomości problematyki związanej z  działaniem administracji publicznej, w tym w szczególności udział w konferencjach, odczytach i spotkaniach z krajowymi i zagranicznymi osobistościami życia publicznego.
+3. W toku kształcenia słuchacze:
+1) są oceniani w zakresie dokonywanych postępów w kształceniu,
+2) podlegają regularnej ocenie postaw i kompetencji w celu ustalenia obszarów wymagających rozwoju – według reguł określonych w regulaminie kształcenia.
+4. Przed zakończeniem kształcenia słuchacze podlegają sprawdzeniu znajomości języka obcego przez Lingwistyczną Komisję Sprawdzającą.
+§ 21. 1. Absolwent Szkoły otrzymuje dyplom ukończenia Szkoły według wzoru określonego w załączniku nr 1 do statutu.
+2. Do postępowania z dyplomem ukończenia Szkoły stosuje się odpowiednio przepisy dotyczące sposobu prowadzenia przez uczelnie dokumentacji przebiegu studiów.
+Dziennik Ustaw – 7 – Poz. 2632 ﻿ IV. Prawa i obowiązki słuchacza Szkoły § 22. Słuchacz podejmuje obowiązki i nabywa prawa słuchacza Szkoły z dniem określonym przez dyrektora jako dzień rozpoczęcia kształcenia.
+§ 23. 1. Do obowiązków słuchacza należy:
+1) uczestniczenie we wszystkich zajęciach objętych programem kształcenia i sumienne wykonywanie zadań zlecanych przez prowadzących zajęcia;
+2) odbywanie określonych przez dyrektora staży administracyjnych lub wizyt studyjnych;
+3) stałe poszerzanie wiedzy o życiu publicznym w kraju i sytuacji międzynarodowej;
+4) przestrzeganie zasad obowiązujących w Szkole, w szczególności regulaminu kształcenia, oraz stosowanie się do poleceń porządkowych dyrektora;
+5) poszanowanie mienia Szkoły i racjonalne wykorzystywanie sprzętu i środków przekazanych przez Szkołę do dyspozycji słuchaczy;
+6) pełne szacunku i adekwatne do sytuacji zachowanie się wobec prowadzących zajęcia, pracowników, współpracowników i gości Szkoły oraz innych słuchaczy;
+7) przestrzeganie zasad etycznych obowiązujących w administracji publicznej;
+2. Usprawiedliwienie nieobecności słuchacza na zajęciach następuje w trybie przewidzianym dla usprawiedliwienia nieobecności w pracy, określonym w przepisach wykonawczych wydanych na podstawie art. 2982 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
+3. Słuchacze nie mogą podejmować działań zakłócających funkcjonowanie Szkoły.
+§ 24. Słuchacz kształcenia stacjonarnego nie może bez zgody dyrektora:
+1) wykonywać zajęć o charakterze zarobkowym;
+2) podejmować lub kontynuować nauki w innej niż Szkoła instytucji dydaktycznej.
+§ 25. 1. Słuchacze mogą być nagradzani przez dyrektora za szczególne osiągnięcia oraz za wykonaną, poza swoimi obowiązkami, pracę na rzecz Szkoły.
+2. Nagrodami mogą być: pochwała pisemna, pochwała przed Prezesem Rady Ministrów, nagroda rzeczowa lub pieniężna.
+3. Wzmiankę o nagrodzie zamieszcza się w aktach słuchacza.
+§ 26. 1. Słuchacz może być ukarany przez dyrektora karą porządkową za naruszenie obowiązków słuchacza.
+2. Karami porządkowymi są upomnienie i nagana.
+3. Nie można ukarać słuchacza, jeżeli upłynął miesiąc od dnia powzięcia przez dyrektora wiadomości o przewinieniu lub trzy miesiące od dnia jego popełnienia.
+4. Przed zastosowaniem kary należy umożliwić słuchaczowi przedstawienie stanowiska.
+5. Słuchaczowi przysługuje odwołanie od ukarania do dyrektora, wnoszone w terminie siedmiu dni od dnia ukarania.
+Dyrektor rozpatruje odwołanie po zasięgnięciu opinii Komisji Programowo-Dydaktycznej.
+6. Wzmiankę o ukaraniu zamieszcza się w aktach słuchacza.
+§ 27. 1. Dyrektor skreśla słuchacza z listy słuchaczy z następujących przyczyn leżących po stronie słuchacza:
+1) odmowa złożenia zobowiązania, o którym mowa w art. 5 ust. 1 ustawy o KSAP;
+2) niepodjęcie lub zaprzestanie uczęszczania na zajęcia;
+3) rażące uchybienie godności słuchacza lub działanie na szkodę dobrego imienia Szkoły;
+Dziennik Ustaw – 8 – Poz. 2632 ﻿
+4) uzyskanie dwóch negatywnych ocen pracy słuchacza dokonanych przez Komisję Programowo-Dydaktyczną;
+5) skazanie prawomocnym wyrokiem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe lub prawomocne orzeczenie zakazu zajmowania stanowisk kierowniczych w urzędach organów władzy publicznej lub pełnienia funkcji związanych z dysponowaniem środkami publicznymi;
+6) złożenie pisemnego oświadczenia o rezygnacji z kształcenia w Szkole;
+7) utrata określonych w odrębnych przepisach wymagań przewidzianych dla członka korpusu służby cywilnej lub pracownika administracji publicznej.
+2. Dyrektor może skreślić słuchacza z listy słuchaczy z następujących przyczyn leżących po stronie słuchacza:
+1) dwukrotne otrzymanie nagany, w szczególności z powodu nieusprawiedliwionych nieobecności;
+2) opuszczenie w okresie następujących po sobie trzech miesięcy z przyczyn usprawiedliwionych co najmniej 20% zajęć w przypadku słuchaczy kształcenia stacjonarnego lub 40% zajęć w przypadku słuchacza dualnego;
+3) nieprzystąpienie w terminie do co najmniej trzech sprawdzianów przewidzianych programem kształcenia;
+4) nieodbycie stażu administracyjnego, w tym zagranicznego, z przyczyn nieusprawiedliwionych.
+3. Dyrektor może skreślić słuchacza z listy słuchaczy z przyczyn niezależnych od słuchacza, jeżeli po zapoznaniu się z opinią Komisji Programowo-Dydaktycznej oraz wysłuchaniu słuchacza uzna, że dalsze kształcenie słuchacza nie realizuje celów kształcenia w stopniu dostatecznym, w tym słuchacz nie osiąga wystarczających postępów w kształceniu.
+4. Dyrektor skreśla słuchacza kształcenia dualnego z listy słuchaczy w przypadku rozwiązania lub wygaśnięcia stosunku pracy słuchacza w administracji publicznej i niepodjęcia w terminie trzech miesięcy innego zatrudnienia w administracji publicznej.
+5. Dyrektor, przed podjęciem decyzji o skreśleniu słuchacza z listy słuchaczy z przyczyn określonych w ust. 1 pkt 3, umożliwia słuchaczowi złożenie wyjaśnień oraz zapoznaje się z opinią wskazanych przez słuchacza prowadzących zajęcia, pracowników lub współpracowników Szkoły lub innych słuchaczy.
+§ 28. Od decyzji dyrektora o skreśleniu z listy słuchaczy słuchaczowi przysługuje odwołanie do przewodniczącego Rady, wnoszone w terminie 14 dni od dnia otrzymania decyzji.
+§ 29. 1. Słuchacz jest uprawniony do:
+1) korzystania z wyposażenia i sprzętu Szkoły w celu doskonalenia swoich umiejętności oraz pogłębiania wiedzy, na warunkach określonych przez dyrektora;
+2) ubiegania się o odpłatne zakwaterowanie w Kolegium Szkoły;
+3) zwrotu należności przysługujących z tytułu podróży służbowych – na zasadach określonych w przepisach w sprawie zasad ustalania oraz wysokości należności przysługujących pracownikom z tytułu podróży służbowej, wydanych na podstawie art. 775 ust. 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy w przypadku wykonywania zadań zleconych przez Szkołę poza jej siedzibą.
+2. Słuchacz kształcenia stacjonarnego jest uprawniony, z zastrzeżeniem przepisów ustawy o służbie cywilnej, do wyboru miejsca przyszłej pracy spośród stanowisk postawionych do dyspozycji absolwentów Szkoły przez Prezesa Rady Ministrów.
+§ 30. Słuchacze Szkoły wybierają ze swego grona reprezentację, która przedstawia interesy i potrzeby słuchaczy dyrektorowi.
+V. Kształcenie ustawiczne i certyfikacja § 31. 1. Szkoła w ramach zakresu działania realizuje szkolenia, kursy, programy i projekty, odpowiadające na potrzeby administracji publicznej, w szczególności na podstawie własnych programów szkoleniowych.
+2. Uczestnik szkoleń, kursów, programów i projektów oraz innych działań podejmowanych przez Szkołę, o których mowa w § 2 ust. 3, jest zobowiązany:
+1) przestrzegać zasad uczestnictwa określonych przez dyrektora;
+2) przestrzegać zasad obowiązujących w Szkole;
+Dziennik Ustaw – 9 – Poz. 2632 ﻿
+3) stosować się do poleceń porządkowych dyrektora;
+4) szanować mienie Szkoły i racjonalnie wykorzystywać sprzęt i środki przekazane mu do dyspozycji przez Szkołę;
+5) z szacunkiem i adekwatnie do sytuacji zachowywać się wobec prowadzących zajęcia, pracowników i gości Szkoły oraz innych uczestników.
+§ 32. 1. Sprawdzanie i potwierdzanie kompetencji niezbędnych w administracji publicznej (certyfikacja) przeprowadza właściwa komisja certyfikacyjna.
+2. Sprawdzanie i potwierdzanie znajomości języka obcego przeprowadza Lingwistyczna Komisja Sprawdzająca.
+3. Członków właściwych komisji certyfikacyjnych, w tym członków Lingwistycznej Komisji Sprawdzającej, powołuje dyrektor, chyba że sposób powołania właściwej komisji certyfikacyjnej określają odrębne przepisy.
+4. Osobom, które w toku sprawdzenia wykazały się znajomością języka obcego na poziomie B2 – wyższy średnio zaawansowany, na poziomie C1 – zaawansowany lub na poziomie C2 – biegły, Szkoła wydaje certyfikat według wzoru określonego w załączniku nr 2 do statutu.
+5. Osobom, które wykazały się posiadaniem kompetencji przed właściwą komisją certyfikacyjną, Szkoła wydaje certyfikat według wzoru określonego w załączniku nr 3 do statutu.
+VI. Symbole Szkoły § 33. Szkoła używa emblematu według wzoru określonego w załączniku nr 4 do statutu.
+§ 34. Szkoła posiada sztandar w kształcie prostokąta otoczonego z trzech stron złotymi frędzlami. Na stronie głównej (awers), na granatowym tle, centralnie umieszczony akronim KSAP – litery w kolorze srebrnym oddzielone pięcioma pionowymi liniami w kolorze karmazynowym o długości około 3 razy większej od wysokości liter. Pod akronimem napis w kolorze srebrnym: „Krajowa Szkoła Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego”, ułożony centralnie w trzech liniach. Na stronie odwrotnej (rewers), na karmazynowym tle centralnie umieszczone godło Państwa – srebrny orzeł ze złotą koroną, złotymi pazurami i złotym dziobem. Pod godłem poziomo umieszczony w dwóch liniach napis srebrnymi, wielkimi literami: „Rzeczpospolita Polska”.
+Dziennik Ustaw – 10 – Poz. 2632 ﻿  Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego Załącznik nr 1 Wzór   zW>KD  Pan/Pani ………………………………………………………………. (imię (imiona) i nazwisko) urodzony/a dnia …………………… r.  w ……………………………………… (data urodzenia)                                                              (miejsce urodzenia) w latach …………………… był/a słuchaczem promocji ……………………………………… (lata cyframi)                                                                                                                                               (nazwa promocji) Po złożeniu przewidzianych programem kształcenia egzaminów oraz wykazaniu się znajomością  języka …………………………………………………………… (określenie języka)  ukończył/a Szkołę dnia …………………….. roku. (dzień, miesiąc, rok)         ;ŝŵŝę i nazwisko)  zZ <dKZ Załączniki do statutu Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego Załącznik nr 1 WZÓR Dziennik Ustaw – 11 – Poz. 2632 ﻿  Uwagi: 
+1. Dyplom ukończenia Szkoły na kartonie koloru szarego, formatu A4.
+2. Godło Państwa w kolorze złotym (Pantone Gold 871 C).
+3. Linia pod nazwą Szkoły w kolorze czerwonym (Pantone 192 C).
+4. Logo Szkoły pod podpisem Dyrektora w kolorze granatowym (Pantone 072 C) z białym napisem.
+5. Czcionka w kolorze granatowym (Pantone 072 C).
+6. Na dyplomie wpisy w rodzaju odpowiednim do płci absolwenta.
+7. W przypadku wykazania się znajomością więcej niż jednego języka obcego wpisy w liczbie mnogiej.
+8. W nawiasach podane wskazówki do wpisów na dyplomie i odpisie.
+9. Odpis dyplomu: a. papier w kolorze białym, format A4, pozostałe elementy w kolorze czarnym b. napis „odpis” umieszczony na górze z lewej strony godła Państwa c. na odwrotnej stronie odpisu: „Zgodność niniejszego odpisu z oryginałem stwierdzam: z up. Dyrektora ………………………………………………………………………… (podpis) (mała pieczęć Szkoły) Warszawa, dnia …………………………………………………………..” (dzień, miesiąc słownie, rok) d. pod podpisem na odwrotnej stronie odpisu – czytelne imię, nazwisko i stanowisko osoby podpisującej. Dziennik Ustaw – 12 – Poz. 2632 ﻿        WĂŶͬWĂŶŝ……………………………………………...…………. ;ŝŵŝę (imiona) ŝŶĂǌǁŝƐŬŽͿ WŽƉƌǌĞƉƌŽǁĂĚǌĞŶŝƵƉŽƐƚępowania sprawdzającego otrzymuje   Zdz&/<d  znajomości języka…………………………………………………...…………. ;ŽŬƌĞślenie języka)  na poziomie ………………….……………………………………………………. (średniozaawansowanym wyższym B2, zaawansowanym C1, biegłym C2Ϳ   ;ŝŵŝę ŝŶĂǌǁŝƐŬŽͿ  WƌǌĞǁŽĚŶŝĐǌący >ŝŶŐǁŝƐƚǇĐǌŶĞũ<ŽŵŝƐũŝ ^ƉƌĂǁĚǌĂjącej ;ŝŵŝę ŝŶĂǌǁŝƐŬŽͿ  zZ <dKZ Załącznik nr 2 WZÓR Dziennik Ustaw – 13 – Poz. 2632 ﻿ Uwagi: 
+1) Certyfikat na kartonie koloru jasnoszarego, formatu A4.
+2) Godło Państwa w kolorze złotym (Pantone Gold 871 C).
+3) Logo Szkoły pod podpisem Dyrektora w kolorze granatowym (Pantone 072 C) z białym napisem.
+4) Linia pod nazwą Szkoły w kolorze czerwonym (Pantone 192 C).
+5) Czcionka w kolorze granatowym (Pantone 072 C).
+6) Na certyfikacie wpisy w rodzaju odpowiednim do płci otrzymującego.
+7) W numerze – odpowiednio: numer kolejny wydania certyfikatu w roku kalendarzowym/skrót określenia języka (pierwsza litera)/rok wydania.
+8) Szkoła może wydać certyfikat także w języku obcym.
+9) W nawiasach podane wskazówki do wpisów na certyfikacie. Dziennik Ustaw – 14 – Poz. 2632 ﻿           Zdz&/<d   WĂŶͬWĂŶŝ………………………………………………………………. ;ŝŵŝę (imiona) ŝŶĂǌǁŝƐŬŽͿ  uzyskał/a kompetencje w obszarze/zakresie  ………………………………………………………………………………….………  …………………………………………………………………………………………  …………………………………………………………………………………………              Niniejszy certyfikat wydano na podstawie art. 1 ust. 2 pkt 3 ustawy z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej  im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego oraz § 2 ust. 3 pkt 1 Statutu Krajowej Szkoły Administracji Publicznej  im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego ;ŝŵŝę ŝŶĂǌǁŝƐŬŽͿ  WƌǌĞǁŽĚŶŝĐǌący Komisji Certyfikującej ;ŝŵŝę ŝŶĂǌǁŝƐŬŽͿ  zZ <dKZ Załącznik nr 3 WZÓR Dziennik Ustaw – 15 – Poz. 2632 ﻿ Uwagi: 
+1) Certyfikat na kartonie koloru piaskowego, formatu A4.
+2) Godło Państwa w kolorze złotym (Pantone Gold 871 C).
+3) Linia pod nazwą Szkoły w kolorze czerwonym (Pantone 192 C).
+4) Logo Szkoły pod podpisem Dyrektora w kolorze granatowym (Pantone 072 C) z białym napisem.
+5) Czcionka w kolorze granatowym (Pantone 072 C).
+6) Na certyfikacie wpisy w rodzaju odpowiednim do płci otrzymującego.
+7) W numerze – odpowiednio: numer kolejny wydania certyfikatu w roku kalendarzowym/rok wydania.
+8) W nawiasach podane wskazówki do wpisów na certyfikacie. Dziennik Ustaw – 16 – Poz. 2632 ﻿   Kolor: Pantone: 072 C CMYK: 100-80-3-15 RGB: 37-59-127 Załącznik nr 4 WZÓR
 

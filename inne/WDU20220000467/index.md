@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-27 |
 | Data wydania | 2022-02-25 |
-| Wejście w życie | 2022-02-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000467) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/467/text.pdf) |
 
@@ -49,7 +48,7 @@ source: "eli-html"
 - **1)** w pkt 4 w lit. a, w dodawanym ust. 1a w pkt 1 i 2 wyrazy „art. 4d ust. 2–5” zastępuje się wyrazami „art. 4d ust. 2–11”;
 - **2)** w pkt 11 w lit. c, w zmienianym pkt 1 w lit. a i b wyrazy „art. 4d ust. 2–5” zastępuje się wyrazami „art. 4d ust. 2–11”.
 
-**Art. 3.** Do spraw wszczętych i niezakończonych dotyczących zgłoszeń, o których mowa w art. 7 ust. 8d4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, z późn. zm.), złożonych przed dniem wejścia w życie niniejszej ustawy, stosuje się art. 4d ust. 6–11 ustawy zmienianej w art. 1.
+**Art. 3.** Do spraw wszczętych i niezakończonych dotyczących zgłoszeń, o których mowa w art. 7 ust. 8d4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873, 2269, 2271, 2376 i 2490 oraz z 2022 r. poz. 1, 200 i 202.), złożonych przed dniem wejścia w życie niniejszej ustawy, stosuje się art. 4d ust. 6–11 ustawy zmienianej w art. 1.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 2, który wchodzi w życie z dniem 1 kwietnia 2022 r.
+**Art. 4.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 2, który wchodzi w życie z dniem 1 kwietnia 2022 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873, 2269, 2271, 2376 i 2490 oraz z 2022 r. poz. 1, 200 i 202.
 

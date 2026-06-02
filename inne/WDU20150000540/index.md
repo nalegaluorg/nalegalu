@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-03-30 |
 | Data wydania | 2015-04-17 |
-| Wejście w życie | 2015-04-18 |
 | Ostatnia zmiana | 2025-12-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000540) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/540/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 400a ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 400a ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122, 151, 277 i 478.) zarządza się, co następuje:
 § 1.
 1.
 Rozporządzenie określa szczegółowe warunki udzielania regionalnej pomocy publicznej inwestycyjnej na cele z zakresu ochrony środowiska, zwanej dalej „pomocą”, ze środków pozostających w dyspozycji Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz wojewódzkich funduszy ochrony środowiska i gospodarki wodnej.
@@ -36,7 +35,7 @@ Pomoc jest udzielana zgodnie z rozporządzeniem Komisji (UE) nr 651/2014 z dnia 
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
-dużym projekcie inwestycyjnym – oznacza to grupę inwestycji, objętych pomocą, rozpoczynanych w okresie trzech następujących po sobie lat, a realizowanych przez przedsiębiorców w ramach tej samej grupy kapitałowej, w tym samym regionie na poziomie 3 w rozumieniu rozporządzenia Rady Ministrów z dnia 14 listopada 2007 r. w sprawie wprowadzenia Nomenklatury Jednostek Terytorialnych do Celów Statystycznych (NTS) (Dz. U. Nr 214, poz. 1573, z późn. zm.), w przypadku których zsumowany koszt kwalifikujący się do objęcia pomocą przekracza 50 mln euro;
+dużym projekcie inwestycyjnym – oznacza to grupę inwestycji, objętych pomocą, rozpoczynanych w okresie trzech następujących po sobie lat, a realizowanych przez przedsiębiorców w ramach tej samej grupy kapitałowej, w tym samym regionie na poziomie 3 w rozumieniu rozporządzenia Rady Ministrów z dnia 14 listopada 2007 r. w sprawie wprowadzenia Nomenklatury Jednostek Terytorialnych do Celów Statystycznych (NTS) (Dz. U. Nr 214, poz. 1573, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 215, poz. 1359, z 2009 r. Nr 202, poz. 1558, z 2010 r. Nr 249, poz. 1658, z 2012 r. poz. 1390, z 2013 r. poz. 1587 oraz z 2014 r. poz. 1992.), w przypadku których zsumowany koszt kwalifikujący się do objęcia pomocą przekracza 50 mln euro;
 2)
 mikroprzedsiębiorcy, małym lub średnim przedsiębiorcy – oznacza to odpowiednio mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo, o którym mowa w załączniku I do rozporządzenia Komisji (UE) nr 651/2014;
 3)
@@ -116,7 +115,7 @@ wskazanie kwoty dofinansowania publicznego potrzebnego do realizacji inwestycji.
 3.
 Przez rozpoczęcie inwestycji należy rozumieć podjęcie robót budowlanych lub złożenie pierwszego prawnie wiążącego zobowiązania do zamówienia urządzeń, lub jakiegokolwiek zobowiązania, które będzie czynić realizację inwestycji nieodwracalną. W przypadku nabycia aktywów, o którym mowa w § 4 ust. 2 pkt 1 lit. b lub pkt 2 lit. b, przez rozpoczęcie inwestycji należy rozumieć moment nabycia aktywów.
 4.
-Przez podjęcie robót budowlanych należy rozumieć rozpoczęcie budowy, o którym mowa w art. 41 ust. 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.).
+Przez podjęcie robót budowlanych należy rozumieć rozpoczęcie budowy, o którym mowa w art. 41 ust. 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151, 200, 443 i 528.).
 5.
 Mikroprzedsiębiorca, mały i średni przedsiębiorca jest obowiązany zapewnić użytkowanie inwestycji w obszarze, w którym jest realizowana inwestycja, przez okres co najmniej trzech lat, a duży przedsiębiorca – przez okres co najmniej pięciu lat, od dnia jej przekazania do użytkowania.
 § 7.
@@ -191,5 +190,5 @@ Intensywność całkowitej pomocy zsumowanej zgodnie z ust. 1 nie może przekroc
 § 10.
 Złożone i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia wnioski o udzielenie pomocy rozpatruje się zgodnie z przepisami niniejszego rozporządzenia.
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122, 151, 277 i 478. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 215, poz. 1359, z 2009 r. Nr 202, poz. 1558, z 2010 r. Nr 249, poz. 1658, z 2012 r. poz. 1390, z 2013 r. poz. 1587 oraz z 2014 r. poz. 1992. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151, 200, 443 i 528.
 

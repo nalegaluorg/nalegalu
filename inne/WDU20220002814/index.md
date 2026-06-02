@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 27 grudnia 2022 r. w sprawie określenia priorytetowych dziedzin medycyny
+# Rozporządzenie Ministra Zdrowiaz dnia 27 grudnia 2022 r. w sprawie określenia priorytetowych dziedzin medycyny Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-27 |
 | Data wydania | 2022-12-29 |
-| Wejście w życie | 2022-12-30 |
 | Ostatnia zmiana | 2024-05-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002814) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2814/text.pdf) |
 
@@ -75,6 +74,5 @@ radioterapia onkologiczna;
 22)
 stomatologia dziecięca.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 19 grudnia 2022 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 30 czerwca 2020 r. w sprawie określenia priorytetowych dziedzin medycyny (Dz. U. poz. 1156), które utraciło moc z dniem 19 grudnia 2022 r. zgodnie z art. 17 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw (Dz. U. poz. 2232 i 2459 oraz z 2022 r. poz. 526 i 2306).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 19 grudnia 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 30 czerwca 2020 r. w sprawie określenia priorytetowych dziedzin medycyny (Dz. U. poz. 1156), które utraciło moc z dniem 19 grudnia 2022 r. zgodnie z art. 17 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw (Dz. U. poz. 2232 i 2459 oraz z 2022 r. poz. 526 i 2306). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 30 czerwca 2020 r. w sprawie określenia priorytetowych dziedzin medycyny (Dz. U. poz. 1156), które utraciło moc z dniem 19 grudnia 2022 r. zgodnie z art. 17 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw (Dz. U. poz. 2232 i 2459 oraz z 2022 r. poz. 526 i 2306).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-10 |
 | Data wydania | 2022-10-18 |
-| Wejście w życie | 2022-10-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002128) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2128/text.pdf) |
 
@@ -33,27 +32,35 @@ W rozporządzeniu Rady Ministrów z dnia 13 maja 2003 r. w sprawie algorytmu prz
 1)
 w § 3 w objaśnieniu symbolu K:
 a)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
-28 500 zł w 2022 r.;
-” ,
+28 500 zł w 2022 r.; ” ,
 b)
-dodaje się pkt 4 w brzmieniu:
-„
+dodaje się pkt 4 w brzmieniu: „
 4)
-31 000 zł w 2023 r. i w latach następnych.
-” ;
+31 000 zł w 2023 r. i w latach następnych. ” ;
 2)
 w § 5:
 a)
 w ust. 2:
-– pkt 3 otrzymuje brzmienie: „ 3) 28 500 zł w 2022 r.; ” ,
-– dodaje się pkt 4 w brzmieniu: „ 4) 31 000 zł w 2023 r. i w latach następnych. ” ,
+pkt 3 otrzymuje brzmienie: „
+3)
+28 500 zł w 2022 r.; ” ,
+dodaje się pkt 4 w brzmieniu: „
+4)
+31 000 zł w 2023 r. i w latach następnych. ” ,
 b)
 w ust. 4:
-– pkt 4 otrzymuje brzmienie: „ 4) w 2022 r. – 25 896 zł; ” ,
-– dodaje się pkt 5–7 w brzmieniu: „ 5) w 2023 r. – 27 696 zł; 6) w 2024 r. – 29 496 zł; 7) w 2025 r. i w latach następnych – 31 296 zł. ” .
+pkt 4 otrzymuje brzmienie: „
+4)
+w 2022 r. – 25 896 zł; ” ,
+dodaje się pkt 5–7 w brzmieniu: „
+5)
+w 2023 r. – 27 696 zł;
+6)
+w 2024 r. – 29 496 zł;
+7)
+w 2025 r. i w latach następnych – 31 296 zł. ” .
 § 2.
 1.
 Wysokość środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych dla samorządu wojewódzkiego na dofinansowanie kosztów rocznego pobytu jednej osoby niepełnosprawnej zaliczonej do znacznego lub umiarkowanego stopnia niepełnosprawności zatrudnionej w zakładzie aktywności zawodowej, przysługujących w 2022 r., ustala się ponownie z zastosowaniem § 5 ust. 2 pkt 3 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.

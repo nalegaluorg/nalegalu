@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-06-09 |
 | Data wydania | 2011-07-08 |
-| Wejście w życie | 2011-07-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111420828) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/828/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2009 r. Nr 175, poz. 1361, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2009 r. Nr 175, poz. 1361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 191, poz. 1484, z 2010 r. Nr 155, poz. 1037, Nr 230, poz. 1509 i Nr 257, poz. 1724 oraz z 2011 r. Nr 85, poz. 458, Nr 106, poz. 622 i Nr 138, poz. 810.) wprowadza się następujące zmiany:
 
 - **1)** w art. 261 ust. 3 otrzymuje brzmienie: „
 
@@ -58,7 +57,7 @@ source: "eli-html"
 
 3. Przedsiębiorca niezwłocznie zawiera z nadzorcą sądowym umowę zlecenia o wykonywanie czynności nadzorcy sądowego i wypłaca mu miesięcznie wynagrodzenie w wysokości podwójnego przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego. Miesięczne wynagrodzenie nadzorcy sądowego obowiązanego do rozliczenia podatku od towarów i usług podwyższa się o kwotę podatku od towarów i usług, określoną zgodnie z obowiązującą stawką tego podatku. ” .
 
-**Art. 2.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2007 r. Nr 168, poz. 1186, z późn. zm.) w art. 32 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Wynagrodzenie kuratora obowiązanego do rozliczenia podatku od towarów i usług podwyższa się o kwotę podatku od towarów i usług, określoną zgodnie z obowiązującą stawką tego podatku. ” .
+**Art. 2.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2007 r. Nr 168, poz. 1186, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 141, poz. 888, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 53, poz. 434 i Nr 157, poz. 1241, z 2010 r. Nr 28, poz. 146 i Nr 96, poz. 620 oraz z 2011 r. Nr 92, poz. 531 i Nr 112, poz. 654.) w art. 32 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Wynagrodzenie kuratora obowiązanego do rozliczenia podatku od towarów i usług podwyższa się o kwotę podatku od towarów i usług, określoną zgodnie z obowiązującą stawką tego podatku. ” .
 
 **Art. 3.** W sprawach, w których przed dniem wejścia w życie niniejszej ustawy:
 
@@ -66,5 +65,5 @@ source: "eli-html"
 - **2)** ogłoszono upadłość, ostateczna wysokość wynagrodzenia nie podlega podwyższeniu o kwotę podatku od towarów i usług, w tej części wynagrodzenia, która została wypłacona w formie zaliczek, do których nie doliczono podatku od towarów i usług;
 - **3)** określono wstępne wynagrodzenie syndyka, nadzorcy sądowego albo zarządcy, zaliczki przyznane po wejściu w życie ustawy wlicza się do łącznej wysokości zaliczek, o których mowa w art. 166 ust. 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze, w kwotach niepodwyższonych o kwotę podatku od towarów i usług.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 191, poz. 1484, z 2010 r. Nr 155, poz. 1037, Nr 230, poz. 1509 i Nr 257, poz. 1724 oraz z 2011 r. Nr 85, poz. 458, Nr 106, poz. 622 i Nr 138, poz. 810. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 141, poz. 888, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 53, poz. 434 i Nr 157, poz. 1241, z 2010 r. Nr 28, poz. 146 i Nr 96, poz. 620 oraz z 2011 r. Nr 92, poz. 531 i Nr 112, poz. 654.
 

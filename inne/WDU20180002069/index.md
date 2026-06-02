@@ -25,9 +25,10 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002069) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2069/text.pdf) |
 
-Treść obwieszczenia Rozdział 1 – Dane ogólne Rozdział 2 – Wybory do rad gmin w gminach do 20 tys. mieszkańców Rozdział 3 – Wybory do rad gmin w gminach powyżej 20 tys. mieszkańców Rozdział 4 – Wybory do rad dzielnic m.st. Warszawy Rozdział 5 – Wybory do rad powiatów Rozdział 6 – Wybory do sejmików województw
+Treść obwieszczenia
 Treść obwieszczenia
 Na podstawie art. 382 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2018 r. poz. 754, 1000 i 1349) oraz w związku z art. 7 ust. 2 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. z 2018 r. poz. 1817) Państwowa Komisja Wyborcza podaje do publicznej wiadomości, na podstawie danych zawartych w obwieszczeniach komisarzy wyborczych, zbiorcze wyniki wyborów do rad na obszarze kraju, przeprowadzonych w dniu 21 października 2018 r.
+Dane ogólne
 1.
 Wybory przeprowadzono do 2825 rad, z czego:
 1)
@@ -82,6 +83,7 @@ Głosowania nie przeprowadzono w 3062 okręgach wyborczych, w których liczba za
 Ogółem pozostały nieobsadzone 2 mandaty, co stanowi 0,004% ogólnej liczby mandatów.
 9.
 Głosowanie przeprowadzono w 26 983 obwodach głosowania.
+Wybory do rad gmin w gminach do 20 tys. mieszkańców
 1.
 Wybory przeprowadzono do 2145 rad gmin w gminach do 20 tys. mieszkańców, w których utworzono 32 175 okręgów wyborczych.
 2.
@@ -114,6 +116,7 @@ Wyborów nie przeprowadzono w 2 okręgach wyborczych, w których nie została za
 Ogółem pozostały nieobsadzone 2 mandaty, co stanowi 0,01% ogólnej liczby mandatów.
 13.
 Głosowanie przeprowadzono w 14 170 obwodach głosowania.
+Wybory do rad gmin w gminach powyżej 20 tys. mieszkańców
 1.
 Wybory przeprowadzono do 332 rad gmin w gminach powyżej 20 tys. mieszkańców, w których utworzono 1254 okręgów wyborczych.
 2.
@@ -140,6 +143,7 @@ postawienia znaku „X” wyłącznie obok nazwiska kandydata na liście, które
 Głosowanie przeprowadzono w 1254 okręgach wyborczych.
 10.
 Głosowanie przeprowadzono w 12 166 obwodach głosowania.
+Wybory do rad dzielnic m.st. Warszawy
 1.
 Wybory przeprowadzono do 18 rad dzielnic m.st. Warszawy, w których utworzono 77 okręgów wyborczych.
 2.
@@ -166,6 +170,7 @@ postawienia znaku „X” wyłącznie obok nazwiska kandydata na liście, które
 Głosowanie przeprowadzono w 77 okręgach wyborczych.
 10.
 Głosowanie przeprowadzono w 782 obwodach głosowania.
+Wybory do rad powiatów
 1.
 Wybory przeprowadzono do 314 rad powiatów, w których utworzono 1329 okręgów wyborczych.
 2.
@@ -192,6 +197,7 @@ postawienia znaku „X” wyłącznie obok nazwiska kandydata na liście, które
 Głosowanie przeprowadzono w 1329 okręgach wyborczych.
 10.
 Głosowanie przeprowadzono w 20 413 obwodach głosowania.
+Wybory do sejmików województw
 1.
 Wybory przeprowadzono do 16 sejmików województw, w których utworzono 85 okręgów wyborczych.
 2.
@@ -219,15 +225,27 @@ Głosowanie przeprowadzono w 85 okręgach wyborczych.
 10.
 Głosowanie przeprowadzono w 26 983 obwodach głosowania.
 
-#### Rozdział 1 Dane ogólne
+#### Rozdział 1 – Dane ogólne
 
-#### Rozdział 2 Wybory do rad gmin w gminach do 20 tys. mieszkańców
+#### Rozdział 2 – Wybory do rad gmin w gminach do 20 tys. mieszkańców
 
-#### Rozdział 3 Wybory do rad gmin w gminach powyżej 20 tys. mieszkańców
+#### Rozdział 3 – Wybory do rad gmin w gminach powyżej 20 tys. mieszkańców
 
-#### Rozdział 4 Wybory do rad dzielnic m.st. Warszawy
+#### Rozdział 4 – Wybory do rad dzielnic m.st. Warszawy
 
-#### Rozdział 5 Wybory do rad powiatów
+#### Rozdział 5 – Wybory do rad powiatów
 
-#### Rozdział 6 Wybory do sejmików województw
+#### Rozdział 6 – Wybory do sejmików województw
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-15 |
 | Data wydania | 2021-06-18 |
-| Wejście w życie | 2021-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001092) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1092/text.pdf) |
 
@@ -53,7 +52,7 @@ przebywającym na terytorium Rzeczypospolitej Polskiej:
 – w związku z korzystaniem z mobilności krótkoterminowej naukowca na warunkach określonych w art. 156b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
 – z wyłączeniem cudzoziemców, którym zezwolono na pobyt na terytorium Rzeczypospolitej Polskiej przez okres nieprzekraczający 6 miesięcy, chyba że dwustronne umowy międzynarodowe o zabezpieczeniu społecznym stanowią inaczej,
 g)
-przebywającym na terytorium Rzeczypospolitej Polskiej obywatelom Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa w art. 10 ust. 1 lit. b, d, e lub f Umowy z dnia 24 stycznia 2020 r. o Wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm.).
+przebywającym na terytorium Rzeczypospolitej Polskiej obywatelom Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa w art. 10 ust. 1 lit. b, d, e lub f Umowy z dnia 24 stycznia 2020 r. o Wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm.Zmiany wymienionej umowy zostały ogłoszone w Dz. Urz. UE L 187 z 12.06.2020, str. 12, Dz. Urz. UE L 225 z 14.07.2020, str. 53 oraz Dz. Urz. UE L 443 z 30.12.2020, str. 3.).
 § 3.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -243,7 +242,7 @@ pkt 3 i 6 nie stosuje się do dyrektora placówki opiekuńczo-wychowawczej i dyr
 3.
 Osoby upoważnione przez bank krajowy, spółdzielczą kasę oszczędnościowo-kredytową albo ministra właściwego do spraw rodziny do przetwarzania danych osobowych, o których mowa w ust. 1, są obowiązane do zachowania ich w poufności.
 4.
-Bank krajowy, spółdzielcza kasa oszczędnościowo-kredytowa oraz minister właściwy do spraw rodziny, którzy zapewniają możliwość złożenia wniosku o ustalenie prawa do świadczenia dobry start wraz z załącznikami, za pomocą systemu, o którym mowa odpowiednio w § 13 ust. 1 pkt 2 lub 3, zapewniają niezbędne środki techniczne i organizacyjne służące zapewnieniu bezpieczeństwa przetwarzania danych osobowych, o których mowa w ust. 1, oraz środki określone w art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.).
+Bank krajowy, spółdzielcza kasa oszczędnościowo-kredytowa oraz minister właściwy do spraw rodziny, którzy zapewniają możliwość złożenia wniosku o ustalenie prawa do świadczenia dobry start wraz z załącznikami, za pomocą systemu, o którym mowa odpowiednio w § 13 ust. 1 pkt 2 lub 3, zapewniają niezbędne środki techniczne i organizacyjne służące zapewnieniu bezpieczeństwa przetwarzania danych osobowych, o których mowa w ust. 1, oraz środki określone w art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35..
 5.
 Bank krajowy, spółdzielcza kasa oszczędnościowo-kredytowa oraz minister właściwy do spraw rodziny, którzy zapewniają możliwość złożenia wniosku o ustalenie prawa do świadczenia dobry start wraz z załącznikami, za pomocą systemu, o którym mowa odpowiednio w § 13 ust. 1 pkt 2 lub 3, udostępniają Zakładowi Ubezpieczeń Społecznych informacje służące potwierdzeniu spełniania obowiązków określonych w art. 28 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), a także umożliwiają Zakładowi Ubezpieczeń Społecznych przeprowadzenie audytów i inspekcji.
 6.
@@ -328,8 +327,7 @@ rozłożenie spłaty należności na raty,
 3)
 zastosowanie środka egzekucyjnego, o którym dłużnik został powiadomiony,
 4)
-ogłoszenie upadłości
-przy czym po przerwaniu biegu terminu przedawnienia biegnie on na nowo odpowiednio od dnia następującego po dniu odroczenia terminu płatności należności, rozłożenia spłaty należności na raty, zastosowania środka egzekucyjnego, o którym dłużnik został powiadomiony, lub ogłoszenia upadłości.
+ogłoszenie upadłości – przy czym po przerwaniu biegu terminu przedawnienia biegnie on na nowo odpowiednio od dnia następującego po dniu odroczenia terminu płatności należności, rozłożenia spłaty należności na raty, zastosowania środka egzekucyjnego, o którym dłużnik został powiadomiony, lub ogłoszenia upadłości.
 6.
 Decyzja o ustaleniu i zwrocie nienależnie pobranego świadczenia dobry start nie jest wydawana, jeżeli od jego pobrania upłynęło więcej niż 2 lata.
 7.
@@ -372,5 +370,5 @@ Sprawy dotyczące nienależnie pobranego świadczenia dobry start z tytułu rozp
 § 37.
 Odwołania i zażalenia od wydanych na podstawie przepisów dotychczasowych rozstrzygnięć w sprawach dotyczących świadczenia dobry start są rozpatrywane na podstawie przepisów dotychczasowych.
 § 38.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r., z wyjątkiem § 29 ust. 7 w zakresie potrącenia nienależnie pobranego świadczenia dobry start łącznie z odsetkami ustawowymi za opóźnienie ze świadczeń z ubezpieczeń społecznych, który wchodzi w życie z dniem 1 stycznia 2022 r.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r., z wyjątkiem § 29 ust. 7 w zakresie potrącenia nienależnie pobranego świadczenia dobry start łącznie z odsetkami ustawowymi za opóźnienie ze świadczeń z ubezpieczeń społecznych, który wchodzi w życie z dniem 1 stycznia 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 30 maja 2018 r. w sprawie szczegółowych warunków realizacji rządowego programu „Dobry start” (Dz. U. poz. 1061 oraz z 2019 r. poz. 1343), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 2 ustawy z dnia 15 kwietnia 2021 r. o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. poz. 1006). 1) Zmiany wymienionej umowy zostały ogłoszone w Dz. Urz. UE L 187 z 12.06.2020, str. 12, Dz. Urz. UE L 225 z 14.07.2020, str. 53 oraz Dz. Urz. UE L 443 z 30.12.2020, str. 3. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 30 maja 2018 r. w sprawie szczegółowych warunków realizacji rządowego programu „Dobry start” (Dz. U. poz. 1061 oraz z 2019 r. poz. 1343), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 2 ustawy z dnia 15 kwietnia 2021 r. o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. poz. 1006).
 

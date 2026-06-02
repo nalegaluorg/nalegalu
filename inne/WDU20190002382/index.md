@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwojuz dnia 3 grudnia 2019 r. w sprawie przeprowadzania przetargów na nieruchomości wchodzące w skład Zasobu Nieruchomości
+# Rozporządzenie Ministra Rozwojuz dnia 3 grudnia 2019 r. w sprawie przeprowadzania przetargów na nieruchomości wchodzące w skład Zasobu Nieruchomości Minister Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-03 |
 | Data wydania | 2019-12-10 |
-| Wejście w życie | 2019-12-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002382) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2382/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Przetarg pisemny nieograniczony Rozdział 3 – Przetarg pisemny ograniczony Rozdział 4 – Przetarg ustny Rozdział 5 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 54 ust. 8 ustawy z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2018 r. poz. 2363 oraz z 2019 r. poz. 1309) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa sposób i tryb przeprowadzania przetargów na sprzedaż lub zawarcie umowy o oddanie w użytkowanie wieczyste nieruchomości wchodzących w skład Zasobu Nieruchomości, w tym:
 1)
@@ -80,8 +80,7 @@ zamknięcia przetargu,
 3)
 unieważnienia przetargu,
 4)
-zakończenia przetargu wynikiem negatywnym
-na rachunek bankowy wskazany przez uczestnika przetargu, a w przypadku gdy uczestnik przetargu nie wskazał rachunku – na rachunek bankowy, z którego zostało wniesione wadium.
+zakończenia przetargu wynikiem negatywnym – na rachunek bankowy wskazany przez uczestnika przetargu, a w przypadku gdy uczestnik przetargu nie wskazał rachunku – na rachunek bankowy, z którego zostało wniesione wadium.
 § 7.
 1.
 Komisję przetargową powołuje Prezes KZN.
@@ -175,6 +174,7 @@ wynik przetargu albo informację o niewybraniu żadnej z ofert;
 imię i nazwisko albo nazwę uczestnika przetargu, który wygrał przetarg.
 3.
 W terminie 21 dni od dnia zamieszczenia informacji, o której mowa w ust. 1, Prezes KZN zawiadamia uczestnika przetargu, który wygrał przetarg, o miejscu i terminie zawarcia umowy sprzedaży albo oddania nieruchomości gruntowej w użytkowanie wieczyste. Wyznaczony termin zawarcia umowy nie może być krótszy niż 7 dni od dnia doręczenia zawiadomienia.
+Przetarg pisemny nieograniczony
 § 12.
 Organizator przetargu informuje o:
 1)
@@ -245,6 +245,7 @@ W części niejawnej przetargu komisja przetargowa dokonuje szczegółowej anali
 W przypadku złożenia równorzędnych ofert przez dwóch lub więcej uczestników przetargu komisja przetargowa dokonuje wyboru oferty, w której zaproponowano najwyższą cenę.
 § 18.
 Przewodniczący komisji przetargowej zawiadamia na piśmie oferentów o wyniku przetargu nie później niż 7 dni od dnia zamknięcia przetargu.
+Przetarg pisemny ograniczony
 § 19.
 1.
 W ogłoszeniu o przetargu pisemnym ograniczonym podaje się informację o warunkach ograniczających możliwość przystąpienia do udziału w przetargu.
@@ -252,6 +253,7 @@ W ogłoszeniu o przetargu pisemnym ograniczonym podaje się informację o warunk
 Komisja przetargowa sprawdza, czy oferenci spełniają warunki przetargu i kwalifikuje do uczestnictwa w przetargu. Listę podmiotów zakwalifikowanych do udziału w przetargu zamieszcza się w Biuletynie Informacji Publicznej KZN oraz w siedzibie KZN najpóźniej 3 dni przed wyznaczonym terminem przetargu.
 3.
 W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy rozdziału 2.
+Przetarg ustny
 § 20.
 Organizator przetargu informuje o:
 1)
@@ -283,19 +285,29 @@ Uczestnicy przetargu zgłaszają ustnie kolejne postąpienia, dopóki mimo trzyk
 Przetarg jest ważny bez względu na liczbę uczestników przetargu, jeżeli przynajmniej jeden uczestnik przetargu zaoferował co najmniej jedno postąpienie powyżej ceny wywoławczej.
 6.
 Po ustaniu zgłaszania postąpień przewodniczący komisji przetargowej wywołuje trzykrotnie ostatnią, najwyższą cenę i zamyka przetarg, a następnie ogłasza wynik przetargu ustnego, wskazując uczestnika przetargu, który wygrał przetarg.
+Przepis końcowy
 § 22.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Przetarg pisemny nieograniczony
+#### Rozdział 2 – Przetarg pisemny nieograniczony
+
+#### Rozdział 3 – Przetarg pisemny ograniczony
+
+#### Rozdział 4 – Przetarg ustny
+
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
 
 ## Część jawna przetargu odbywa się w obecności oferentów. W części jawnej przewodniczący komisji przetargowej otwiera przetarg oraz przekazuje oferentom podstawowe informacje zawarte w ogłoszeniu o przetargu.
 
-#### Rozdział 3 Przetarg pisemny ograniczony
+#### Rozdział 3
 
-#### Rozdział 4 Przetarg ustny
+#### Rozdział 4
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5
 

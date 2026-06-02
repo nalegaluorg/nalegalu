@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 7 sierpnia 2024 r. w sprawie opłaty wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej opłaty
+# Rozporządzenie Ministra Finansówz dnia 7 sierpnia 2024 r. w sprawie opłaty wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej opłaty Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-08-07 |
 | Data wydania | 2024-08-13 |
-| Wejście w życie | 2024-08-28 |
 | Ostatnia zmiana | 2024-08-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001234) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1234/text.pdf) |
 
@@ -43,6 +42,5 @@ Opłatę uiszcza się do dnia 31 stycznia roku, za który opłata jest należna.
 2.
 W przypadku, o którym mowa w § 2 ust. 2 i 3, opłatę uiszcza się do dnia 31 stycznia roku następującego po roku, w którym zakład ubezpieczeń, o którym mowa w art. 117 ust. 7 ustawy, po raz pierwszy przekazał dane lub je otrzymał.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 11 marca 2020 r. w sprawie wysokości składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej składki (Dz. U. poz. 484), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 50 ust. 1 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 11 marca 2020 r. w sprawie wysokości składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej składki (Dz. U. poz. 484), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 50 ust. 1 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 11 marca 2020 r. w sprawie wysokości składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej składki (Dz. U. poz. 484), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 50 ust. 1 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723).
 

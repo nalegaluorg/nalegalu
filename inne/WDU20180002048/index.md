@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 22 października 2018 r. w sprawie wywozu z terytorium Rzeczypospolitej Polskiej i przywozu na to terytorium ludzkich komórek, tkanek i narządów
+# Rozporządzenie Ministra Zdrowiaz dnia 22 października 2018 r. w sprawie wywozu z terytorium Rzeczypospolitej Polskiej i przywozu na to terytorium ludzkich komórek, tkanek i narządów Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-22 |
 | Data wydania | 2018-10-26 |
-| Wejście w życie | 2018-10-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002048) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2048/text.pdf) |
 
@@ -176,6 +175,5 @@ Do wywożonych lub przywożonych komórek, tkanek i narządów dołącza się de
 2.
 Podmiot wywożący lub przywożący komórki, tkanki lub narządy udostępnia bez wezwania, podczas kontroli, funkcjonariuszowi celnemu decyzję o wydaniu zgody na wywóz lub przywóz komórek, tkanek lub narządów.
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 2 kwietnia 2010 r. w sprawie wywozu z terytorium Rzeczypospolitej Polskiej i przywozu na to terytorium ludzkich komórek, tkanek i narządów (Dz. U. poz. 485), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 5 ust. 2 ustawy z dnia 23 marca 2017 r. o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. poz. 798).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 2 kwietnia 2010 r. w sprawie wywozu z terytorium Rzeczypospolitej Polskiej i przywozu na to terytorium ludzkich komórek, tkanek i narządów (Dz. U. poz. 485), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 5 ust. 2 ustawy z dnia 23 marca 2017 r. o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. poz. 798). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 2 kwietnia 2010 r. w sprawie wywozu z terytorium Rzeczypospolitej Polskiej i przywozu na to terytorium ludzkich komórek, tkanek i narządów (Dz. U. poz. 485), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 5 ust. 2 ustawy z dnia 23 marca 2017 r. o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. poz. 798).
 

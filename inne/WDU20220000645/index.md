@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji i Naukiz dnia 21 marca 2022 r. w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 21 marca 2022 r. w sprawie organizacji kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-21 |
 | Data wydania | 2022-03-21 |
-| Wejście w życie | 2022-03-21 |
 | Ostatnia zmiana | 2026-03-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000645) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/645/text.pdf) |
 
@@ -32,7 +31,7 @@ Na podstawie art. 59 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy 
 Rozporządzenie określa organizację kształcenia, wychowania i opieki dzieci i młodzieży będących obywatelami Ukrainy, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie art. 2 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa.
 § 2.
 1.
-W roku szkolnym 2021/2022 w przypadku uczniów realizujących obowiązek szkolny będących obywatelami Ukrainy, o których mowa w § 1, deklarację, o której mowa w § 11kzzc ust. 1 rozporządzenia Ministra Edukacji Narodowej z dnia 20 marca 2020 r. w sprawie szczególnych rozwiązań w okresie czasowego ograniczenia funkcjonowania jednostek systemu oświaty w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19 (Dz. U. poz. 493, z późn. zm.), składa się w terminie do dnia 11 kwietnia 2022 r. Deklarację wypełnia się tylko w zakresie języka obcego nowożytnego, z którego uczeń przystąpi do egzaminu ósmoklasisty.
+W roku szkolnym 2021/2022 w przypadku uczniów realizujących obowiązek szkolny będących obywatelami Ukrainy, o których mowa w § 1, deklarację, o której mowa w § 11kzzc ust. 1 rozporządzenia Ministra Edukacji Narodowej z dnia 20 marca 2020 r. w sprawie szczególnych rozwiązań w okresie czasowego ograniczenia funkcjonowania jednostek systemu oświaty w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19 (Dz. U. poz. 493, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2020 r. poz. 530, 564, 657, 781, 872, 891, 952, 1111, 1394, 1539, 2047, 2111, 2314 i 2382, z 2021 r. poz. 150, 242, 370, 532, 681, 961, 983, 1343, 1525, 1743, 2047, 2302 i 2394 oraz z 2022 r. poz. 339 i 421.), składa się w terminie do dnia 11 kwietnia 2022 r. Deklarację wypełnia się tylko w zakresie języka obcego nowożytnego, z którego uczeń przystąpi do egzaminu ósmoklasisty.
 2.
 Dyrektor szkoły, na podstawie złożonych deklaracji, o których mowa w ust. 1, sporządza wykaz uczniów będących obywatelami Ukrainy, o których mowa w § 1, przystępujących do egzaminu ósmoklasisty. Wykaz zawiera:
 1)
@@ -109,8 +108,7 @@ szkole ponadpodstawowej specjalnej,
 3)
 szkole podstawowej specjalnej funkcjonującej w jednostce pomocy społecznej,
 4)
-szkole ponadpodstawowej specjalnej funkcjonującej w jednostce pomocy społecznej
-o której mowa w § 13 ust. 4 i 5 rozporządzenia z dnia 28 lutego 2019 r., może być zwiększona o nie więcej niż 2 uczniów niepełnosprawnych będących obywatelami Ukrainy, o których mowa w § 1.
+szkole ponadpodstawowej specjalnej funkcjonującej w jednostce pomocy społecznej – o której mowa w § 13 ust. 4 i 5 rozporządzenia z dnia 28 lutego 2019 r., może być zwiększona o nie więcej niż 2 uczniów niepełnosprawnych będących obywatelami Ukrainy, o których mowa w § 1.
 § 10.
 W roku szkolnym 2021/2022 liczba wychowanków w grupie wychowawczej w specjalnym ośrodku szkolno-wychowawczym lub specjalnym ośrodku wychowawczym, o której mowa w § 39 ust. 2 rozporządzenia Ministra Edukacji Narodowej z dnia 11 sierpnia 2017 r. w sprawie publicznych placówek oświatowo-wychowawczych, młodzieżowych ośrodków wychowawczych, młodzieżowych ośrodków socjoterapii, specjalnych ośrodków szkolno-wychowawczych, specjalnych ośrodków wychowawczych, ośrodków rewalidacyjno-wychowawczych oraz placówek zapewniających opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania (Dz. U. poz. 1606 oraz z 2021 r. poz. 911 i 1599) oraz w § 38 ust. 2 rozporządzenia Ministra Edukacji Narodowej z dnia 2 listopada 2015 r. w sprawie rodzajów i szczegółowych zasad działania placówek publicznych, warunków pobytu dzieci i młodzieży w tych placówkach oraz wysokości i zasad odpłatności wnoszonej przez rodziców za pobyt ich dzieci w tych placówkach (Dz. U. poz. 1872, z 2017 r. poz. 1628 oraz z 2021 r. poz. 938 i 1596), może być zwiększona o nie więcej niż 2 wychowanków niepełnosprawnych będących obywatelami Ukrainy, o których mowa w § 1.
 § 11.
@@ -207,6 +205,5 @@ apteczki w lokalu są wyposażone w podstawowe środki opatrunkowe;
 15)
 jest zapewnione utrzymanie czystości i porządku w lokalu, pomieszczenia są utrzymywane w odpowiednim stanie, są przeprowadzane ich okresowe remonty i konserwacje.
 § 17.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2020 r. poz. 530, 564, 657, 781, 872, 891, 952, 1111, 1394, 1539, 2047, 2111, 2314 i 2382, z 2021 r. poz. 150, 242, 370, 532, 681, 961, 983, 1343, 1525, 1743, 2047, 2302 i 2394 oraz z 2022 r. poz. 339 i 421.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2020 r. poz. 530, 564, 657, 781, 872, 891, 952, 1111, 1394, 1539, 2047, 2111, 2314 i 2382, z 2021 r. poz. 150, 242, 370, 532, 681, 961, 983, 1343, 1525, 1743, 2047, 2302 i 2394 oraz z 2022 r. poz. 339 i 421.
 

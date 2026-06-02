@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-04-12 |
 | Data wydania | 2013-04-24 |
-| Wejście w życie | 2013-05-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000497) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/497/text.pdf) |
 
@@ -208,8 +207,7 @@ uszkodzenia naroży zaczepowych kontenera,
 5)
 uszkodzenia drzwi i zamknięć kontenera uniemożliwiającego zamknięcie kontenera,
 6)
-uszkodzenia miejsc zakładania plomb na kontener
-właściwy organ uprawniony zabrania jego użycia, o czym informuje właściciela albo dzierżawcę, albo najemcę kontenera.
+uszkodzenia miejsc zakładania plomb na kontener – właściwy organ uprawniony zabrania jego użycia, o czym informuje właściciela albo dzierżawcę, albo najemcę kontenera.
 § 11.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 6 sierpnia 2002 r. w sprawie zasad i trybu postępowania przy przeprowadzaniu przeglądów, prób i uznawaniu kontenerów oraz organów uprawnionych do dokonywania tych czynności oraz do kontroli stanu kontenerów (Dz. U. Nr 169, poz. 1388), które na podstawie art. 149 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368 oraz z 2012 r. poz. 1068) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 6 sierpnia 2002 r. w sprawie zasad i trybu postępowania przy przeprowadzaniu przeglądów, prób i uznawaniu kontenerów oraz organów uprawnionych do dokonywania tych czynności oraz do kontroli stanu kontenerów (Dz. U. Nr 169, poz. 1388), które na podstawie art. 149 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368 oraz z 2012 r. poz. 1068) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

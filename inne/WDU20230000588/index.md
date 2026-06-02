@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych
+# Ustawa z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych Niniejsza ustawa w zakresie swojej regulacji służy stosowaniu rozporządzenia: 1) Parlamentu Europejskiego i Rady (UE) nr 1151/2012 z dnia 21 listopada 2012 r. w sprawie systemów jakości produktów rolnych i środków spożywczych (Dz. Urz. UE L 343 z 14.12.2012, str. 1, Dz. Urz. UE L 95 z 07.04.2017, str. 1, Dz. Urz. UE L 137 z 24.05.2017, str. 40 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 262); 2) Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 130 z 19.05.2016, str. 11, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 327 z 09.12.2017, str. 83, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 27 z 31.01.2020, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 1); 3) Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39, Dz. Urz. UE L 437 z 28.12.2020 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 262); 4) Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, Dz. Urz. UE L 82 z 25.03.2019, str. 4, Dz. Urz. UE L 131 z 17.05.2019, str. 1, Dz. Urz. UE L 165 z 21.06.2019, str. 4, Dz. Urz. UE L 317 z 09.12.2019, str. 114, Dz. Urz. UE L 321 z 12.12.2019, str. 111 oraz Dz. Urz. UE L 357 z 08.10.2021, str. 27); 5) Parlamentu Europejskiego i Rady (UE) 2019/787 z dnia 17 kwietnia 2019 r. w sprawie definicji, opisu, prezentacji i etykietowania napojów spirytusowych, stosowania nazw napojów spirytusowych w prezentacji i etykietowaniu innych środków spożywczych, ochrony oznaczeń geograficznych napojów spirytusowych, wykorzystywania alkoholu etylowego i destylatów pochodzenia rolniczego w napojach alkoholowych, a także uchylającego rozporządzenie (WE) nr 110/2008 (Dz. Urz. UE L 130 z 17.05.2019, str. 1, Dz. Urz. UE L 316I z 06.12.2019, str. 3, Dz. Urz. UE L 178 z 20.05.2021, str. 4, Dz. Urz. UE L 238 z 06.07.2021, str. 1, Dz. Urz. UE L 289 z 12.08.2021, str. 1 i 4, Dz. Urz. UE L 321 z 13.09.2021, str. 12, Dz. Urz. UE L 382 z 28.10.2021, str. 59 oraz Dz. Urz. UE L 197 z 26.07.2022, str. 71); 6) delegowanego Komisji (UE) 2019/33 z dnia 17 października 2018 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do wniosków o objęcie ochroną nazw pochodzenia, oznaczeń geograficznych i określeń tradycyjnych w sektorze wina, procedury zgłaszania sprzeciwu, ograniczeń stosowania, zmian w specyfikacji produktu, unieważnienia ochrony oraz etykietowania i prezentacji (Dz. Urz. UE L 9 z 11.01.2019, str. 2, Dz. Urz. UE L 269 z 23.10.2019, str. 14 oraz Dz. Urz. UE L 297 z 20.08.2021, str. 16); 7) wykonawczego Komisji (UE) 2019/34 z dnia 17 października 2018 r. ustanawiającego zasady dotyczące stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do wniosków o objęcie ochroną nazw pochodzenia, oznaczeń geograficznych i określeń tradycyjnych w sektorze wina, procedury zgłaszania sprzeciwu, zmian w specyfikacji produktu, rejestru chronionych nazw, unieważnienia ochrony i stosowania symboli oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do odpowiedniego systemu kontroli (Dz. Urz. UE L 9 z 11.01.2019, str. 46); 8) Parlamentu Europejskiego i Rady (UE) 2019/1753 z dnia 23 października 2019 r. w sprawie działań Unii po jej przystąpieniu do Aktu genewskiego Porozumienia lizbońskiego w sprawie nazw pochodzenia i oznaczeń geograficznych (Dz. Urz. UE L 271 z 24.10.2019, str. 1); 9) delegowanego Komisji (UE) 2021/1235 z dnia 12 maja 2021 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/787 o przepisy dotyczące wniosków o rejestrację oznaczeń geograficznych napojów spirytusowych, zmian w specyfikacji produktu, cofnięcia rejestracji i rejestru (Dz. Urz. UE L 270 z 29.07.2021, str. 1); 10) Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187 oraz Dz. Urz. UE L z 10.02.2022, str. 45).
 
 | Pole | Wartość |
 |---|---|
@@ -22,21 +22,64 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-03-09 |
 | Data wydania | 2023-03-28 |
-| Wejście w życie | 2023-04-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000588) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/588/text.pdf) |
 
-#### Rozdział 1 Przepisy ogólne
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej, ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, ustawę z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu, ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia, ustawę z dnia 18 października 2006 r. o wyrobie napojów spirytusowych oraz o rejestracji i ochronie oznaczeń geograficznych napojów spirytusowych, ustawę z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa oraz ustawę z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej. Niniejszą ustawą uchyla się ustawę z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych oraz ustawę z dnia 12 maja 2011 r. o oznaczeniach geograficznych win oraz aromatyzowanych produktów sektora wina.
+Przepisy ogólne
+Rada do Spraw Oznaczeń Geograficznych i Gwarantowanych Tradycyjnych Specjalności
+Postępowanie w sprawie rejestracji nazw pochodzenia, oznaczeń geograficznych lub gwarantowanych tradycyjnych specjalności produktów
+Postępowanie w przypadku wniesienia sprzeciwu wobec wniosku o rejestrację
+Tymczasowa ochrona krajowa
+Kontrola urzędowa w zakresie zgodności produktu ze specyfikacją produktu
+Grupy producentów
+Opłaty
+Międzynarodowa ochrona oznaczeń geograficznych
+Regulacja podaży
+Lista produktów tradycyjnych
+Przepisy o karach pieniężnych
+Zmiany w przepisach
+Przepisy dostosowujące, przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Rada do Spraw Oznaczeń Geograficznych i Gwarantowanych Tradycyjnych Specjalności
+
+#### Rozdział 3 – Postępowanie w sprawie rejestracji nazw pochodzenia, oznaczeń geograficznych lub gwarantowanych tradycyjnych specjalności produktów
+
+#### Rozdział 4 – Postępowanie w przypadku wniesienia sprzeciwu wobec wniosku o rejestrację
+
+#### Rozdział 5 – Tymczasowa ochrona krajowa
+
+#### Rozdział 6 – Kontrola urzędowa w zakresie zgodności produktu ze specyfikacją produktu
+
+#### Rozdział 7 – Grupy producentów
+
+#### Rozdział 8 – Opłaty
+
+#### Rozdział 9 – Międzynarodowa ochrona oznaczeń geograficznych
+
+#### Rozdział 10 – Regulacja podaży
+
+#### Rozdział 11 – Lista produktów tradycyjnych
+
+#### Rozdział 12 – Przepisy o karach pieniężnych
+
+#### Rozdział 13 – Zmiany w przepisach
+
+#### Rozdział 14 – Przepisy dostosowujące, przejściowe i końcowe
+
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa:
 
-- **1)** właściwość organów w zakresie wykonywania zadań określonych w rozporządzeniu Parlamentu Europejskiego i Rady (UE): nr 1151/2012 z dnia 21 listopada 2012 r. w sprawie systemów jakości produktów rolnych i środków spożywczych (Dz. Urz. UE L 343 z 14.12.2012, str. 1, z późn. zm.) , zwanym dalej „rozporządzeniem nr 1151/2012”, w sprawach dotyczących nazw pochodzenia, oznaczeń geograficznych i gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającym wspólną organizację rynków produktów rolnych oraz uchylającym rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.) , zwanym dalej „rozporządzeniem nr 1308/2013”, w sprawach dotyczących nazw pochodzenia, oznaczeń geograficznych i określeń tradycyjnych w sektorze wina oraz w sprawach regulacji podaży produktów rolnych, 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającym rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającym rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm.) , zwanym dalej „rozporządzeniem 2017/625”, w sprawach dotyczących przeprowadzania kontroli urzędowych i innych czynności urzędowych w obszarze, o którym mowa w art. 1 ust. 2 lit. j rozporządzenia 2017/625, 2019/787 z dnia 17 kwietnia 2019 r. w sprawie definicji, opisu, prezentacji i etykietowania napojów spirytusowych, stosowania nazw napojów spirytusowych w prezentacji i etykietowaniu innych środków spożywczych, ochrony oznaczeń geograficznych napojów spirytusowych, wykorzystywania alkoholu etylowego i destylatów pochodzenia rolniczego w napojach alkoholowych, a także uchylającym rozporządzenie (WE) nr 110/2008 (Dz. Urz. UE L 130 z 17.05.2019, str. 1, z późn. zm.) , zwanym dalej „rozporządzeniem 2019/787”, w sprawach dotyczących oznaczeń geograficznych napojów spirytusowych oraz w przepisach Unii Europejskiej wydanych na ich podstawie;
+- **1)** właściwość organów w zakresie wykonywania zadań określonych w rozporządzeniu Parlamentu Europejskiego i Rady (UE): nr 1151/2012 z dnia 21 listopada 2012 r. w sprawie systemów jakości produktów rolnych i środków spożywczych (Dz. Urz. UE L 343 z 14.12.2012, str. 1, z późn. zm.) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 95 z 07.04.2017, str. 1, Dz. Urz. UE L 137 z 24.05.2017, str. 40 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 262., zwanym dalej „rozporządzeniem nr 1151/2012”, w sprawach dotyczących nazw pochodzenia, oznaczeń geograficznych i gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającym wspólną organizację rynków produktów rolnych oraz uchylającym rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39, Dz. Urz. UE L 437 z 28.12.2020, str. 1 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 262., zwanym dalej „rozporządzeniem nr 1308/2013”, w sprawach dotyczących nazw pochodzenia, oznaczeń geograficznych i określeń tradycyjnych w sektorze wina oraz w sprawach regulacji podaży produktów rolnych, 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającym rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającym rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm.) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 137 z 24.05.2017, str. 40, Dz. Urz. UE L 82 z 25.03.2019, str. 4, Dz. Urz. UE L 317 z 09.12.2019, str. 114 i Dz. Urz. UE L 321 z 12.12.2019, str. 111 oraz Dz. Urz. UE L 357 z 08.10.2021, str. 27., zwanym dalej „rozporządzeniem 2017/625”, w sprawach dotyczących przeprowadzania kontroli urzędowych i innych czynności urzędowych w obszarze, o którym mowa w art. 1 ust. 2 lit. j rozporządzenia 2017/625, 2019/787 z dnia 17 kwietnia 2019 r. w sprawie definicji, opisu, prezentacji i etykietowania napojów spirytusowych, stosowania nazw napojów spirytusowych w prezentacji i etykietowaniu innych środków spożywczych, ochrony oznaczeń geograficznych napojów spirytusowych, wykorzystywania alkoholu etylowego i destylatów pochodzenia rolniczego w napojach alkoholowych, a także uchylającym rozporządzenie (WE) nr 110/2008 (Dz. Urz. UE L 130 z 17.05.2019, str. 1, z późn. zm.) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 316I z 06.12.2019, str. 3, Dz. Urz. UE L 178 z 20.05.2021, str. 4, Dz. Urz. UE L 238 z 06.07.2021, str. 1, Dz. Urz. UE L 289 z 12.08.2021, str. 1 i 4, Dz. Urz. UE L 321 z 13.09.2021, str. 12 oraz Dz. Urz. UE L 382 z 28.10.2021, str. 59., zwanym dalej „rozporządzeniem 2019/787”, w sprawach dotyczących oznaczeń geograficznych napojów spirytusowych – oraz w przepisach Unii Europejskiej wydanych na ich podstawie;
     - **a)**
     - **b)**
     - **c)**
     - **d)**
 
-- **2)** zasady i tryb postępowania w sprawach rejestracji: nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, o których mowa w rozporządzeniu nr 1151/2012, w zakresie nieuregulowanym w tym rozporządzeniu, nazw pochodzenia, oznaczeń geograficznych i określeń tradycyjnych produktów sektora wina określonych w rozporządzeniu nr 1308/2013 w załączniku VII w części II w pkt 1, 3–6, 8, 9, 11, 15 i 16, zwanych dalej „winami”, o których mowa w rozporządzeniu nr 1308/2013, w zakresie nieuregulowanym w tym rozporządzeniu, oznaczeń geograficznych napojów spirytusowych, o których mowa w rozporządzeniu 2019/787, w zakresie nieuregulowanym w tym rozporządzeniu oraz w przepisach Unii Europejskiej wydanych na ich podstawie;
+- **2)** zasady i tryb postępowania w sprawach rejestracji: nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, o których mowa w rozporządzeniu nr 1151/2012, w zakresie nieuregulowanym w tym rozporządzeniu, nazw pochodzenia, oznaczeń geograficznych i określeń tradycyjnych produktów sektora wina określonych w rozporządzeniu nr 1308/2013 w załączniku VII w części II w pkt 1, 3–6, 8, 9, 11, 15 i 16, zwanych dalej „winami”, o których mowa w rozporządzeniu nr 1308/2013, w zakresie nieuregulowanym w tym rozporządzeniu, oznaczeń geograficznych napojów spirytusowych, o których mowa w rozporządzeniu 2019/787, w zakresie nieuregulowanym w tym rozporządzeniu – oraz w przepisach Unii Europejskiej wydanych na ich podstawie;
     - **a)**
     - **b)**
     - **c)**
@@ -89,7 +132,7 @@ source: "eli-html"
     - **d)**
 
 - **12)** świadectwo jakości – świadectwo jakości handlowej potwierdzające zgodność produktu ze specyfikacją produktu;
-- **13)** wniosek o cofnięcie rejestracji – wniosek o: cofnięcie rejestracji nazwy pochodzenia, oznaczenia geograficznego lub gwarantowanej tradycyjnej specjalności produktu rolnego lub środka spożywczego, o którym mowa w art. 54 ust. 1 rozporządzenia nr 1151/2012, unieważnienie ochrony nazwy pochodzenia lub oznaczenia geograficznego wina, o którym mowa w art. 106 rozporządzenia nr 1308/2013, unieważnienie ochrony określenia tradycyjnego, o którym mowa w art. 35 rozporządzenia delegowanego Komisji (UE) 2019/33 z dnia 17 października 2018 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do wniosków o objęcie ochroną nazw pochodzenia, oznaczeń geograficznych i określeń tradycyjnych w sektorze wina, procedury zgłaszania sprzeciwu, ograniczeń stosowania, zmian w specyfikacji produktu, unieważnienia ochrony oraz etykietowania i prezentacji (Dz. Urz. UE L 9 z 11.01.2019, str. 2, z późn. zm.) , zwanego dalej „rozporządzeniem 2019/33”, cofnięcie rejestracji oznaczenia geograficznego napoju spirytusowego, o którym mowa w art. 32 ust. 1 rozporządzenia 2019/787;
+- **13)** wniosek o cofnięcie rejestracji – wniosek o: cofnięcie rejestracji nazwy pochodzenia, oznaczenia geograficznego lub gwarantowanej tradycyjnej specjalności produktu rolnego lub środka spożywczego, o którym mowa w art. 54 ust. 1 rozporządzenia nr 1151/2012, unieważnienie ochrony nazwy pochodzenia lub oznaczenia geograficznego wina, o którym mowa w art. 106 rozporządzenia nr 1308/2013, unieważnienie ochrony określenia tradycyjnego, o którym mowa w art. 35 rozporządzenia delegowanego Komisji (UE) 2019/33 z dnia 17 października 2018 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do wniosków o objęcie ochroną nazw pochodzenia, oznaczeń geograficznych i określeń tradycyjnych w sektorze wina, procedury zgłaszania sprzeciwu, ograniczeń stosowania, zmian w specyfikacji produktu, unieważnienia ochrony oraz etykietowania i prezentacji (Dz. Urz. UE L 9 z 11.01.2019, str. 2, z późn. zm.) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 269 z 23.10.2019, str. 14 oraz Dz. Urz. UE L 297 z 20.08.2021, str. 16., zwanego dalej „rozporządzeniem 2019/33”, cofnięcie rejestracji oznaczenia geograficznego napoju spirytusowego, o którym mowa w art. 32 ust. 1 rozporządzenia 2019/787;
     - **a)**
     - **b)**
     - **c)**
@@ -133,7 +176,7 @@ source: "eli-html"
 
 3. Jeżeli przepisy ustawy przewidują złożenie na piśmie informacji do ministra właściwego do spraw rynków rolnych albo do Głównego Inspektora w sprawach, do których nie stosuje się przepisów Kpa, ta informacja spełnia wymagania dla pisma kierowanego do organów administracji publicznej określone w przepisach Kpa.
 
-#### Rozdział 2 Rada do Spraw Oznaczeń Geograficznych i Gwarantowanych Tradycyjnych Specjalności
+#### Rozdział 2
 
 **Art. 5.**
 
@@ -158,7 +201,7 @@ source: "eli-html"
 
 6. Koszty obsługi administracyjno-biurowej Rady oraz koszty ryczałtowego wynagrodzenia, o którym mowa w ust. 5, są pokrywane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw rynków rolnych.
 
-#### Rozdział 3 Postępowanie w sprawie rejestracji nazw pochodzenia, oznaczeń geograficznych lub gwarantowanych tradycyjnych specjalności produktów
+#### Rozdział 3
 
 **Art. 6.**
 
@@ -227,7 +270,7 @@ source: "eli-html"
 - **1)** art. 8, art. 20 i art. 49 rozporządzenia nr 1151/2012 – w przypadku produktów rolnych i środków spożywczych,
 - **2)** art. 94 i art. 95 rozporządzenia nr 1308/2013 – w przypadku nazw pochodzenia i oznaczeń geograficznych win,
 - **3)** art. 24–27 rozporządzenia 2019/33 – w przypadku określeń tradycyjnych,
-- **4)** art. 22 i art. 24 rozporządzenia 2019/787 – w przypadku napojów spirytusowych zwanych dalej „wymaganiami UE”.
+- **4)** art. 22 i art. 24 rozporządzenia 2019/787 – w przypadku napojów spirytusowych – zwanych dalej „wymaganiami UE”.
 
 2. Minister właściwy do spraw rynków rolnych może wystąpić do grupy o uzupełnienie wniosku o rejestrację lub wyjaśnienie informacji zawartych w tym wniosku w wyznaczonym terminie wraz z pouczeniem, że nieotrzymanie uzupełnienia wniosku o rejestrację lub wyjaśnienia informacji zawartych w tym wniosku w wyznaczonym terminie spowoduje pozostawienie wniosku o rejestrację bez rozpoznania.
 
@@ -253,7 +296,7 @@ source: "eli-html"
 1. W przypadku wniesienia krajowego sprzeciwu minister właściwy do spraw rynków rolnych:
 
 - **1)** powiadamia na piśmie grupę i podmiot wnoszący krajowy sprzeciw,
-- **2)** przekazuje krajowy sprzeciw Radzie w terminie 14 dni od dnia otrzymania krajowego sprzeciwu.
+- **2)** przekazuje krajowy sprzeciw Radzie – w terminie 14 dni od dnia otrzymania krajowego sprzeciwu.
 
 2. W przypadku wniesienia krajowego sprzeciwu Rada rozpatruje krajowy sprzeciw i wniosek o rejestrację łącznie.
 
@@ -267,13 +310,13 @@ source: "eli-html"
 
 1. Minister właściwy do spraw rynków rolnych po uzyskaniu opinii Rady, o której mowa w art. 14 ust. 1:
 
-- **1)** wydaje decyzję stwierdzającą spełnianie wymagań UE przez wniosek o rejestrację i decyzję o oddaleniu krajowego sprzeciwu oraz przekazuje niezwłocznie Komisji Europejskiej: dokumentację wniosku, wniosek o rejestrację oznaczenia geograficznego lub nazwy pochodzenia wina, o którym mowa w art. 94 ust. 1 rozporządzenia nr 1308/2013, wniosek o rejestrację określenia tradycyjnego, o którym mowa w art. 26 ust. 1 rozporządzenia 2019/33 w przypadku spełnienia wymagań UE przez wniosek o rejestrację albo
+- **1)** wydaje decyzję stwierdzającą spełnianie wymagań UE przez wniosek o rejestrację i decyzję o oddaleniu krajowego sprzeciwu oraz przekazuje niezwłocznie Komisji Europejskiej: dokumentację wniosku, wniosek o rejestrację oznaczenia geograficznego lub nazwy pochodzenia wina, o którym mowa w art. 94 ust. 1 rozporządzenia nr 1308/2013, wniosek o rejestrację określenia tradycyjnego, o którym mowa w art. 26 ust. 1 rozporządzenia 2019/33 – w przypadku spełnienia wymagań UE przez wniosek o rejestrację albo
     - **a)**
     - **b)**
     - **c)**
 
 - **2)** wydaje decyzję stwierdzającą niespełnianie wymagań UE przez wniosek o rejestrację – w przypadku niespełnienia wymagań UE przez wniosek o rejestrację, albo
-- **3)** wzywa grupę na piśmie do złożenia wniosku o rejestrację uzgodnionego z podmiotem wnoszącym krajowy sprzeciw w wyznaczonym terminie – w przypadku gdy z opinii Rady wynika, że wniosek o rejestrację i krajowy sprzeciw są zasadne w terminie 14 dni od dnia wydania tej opinii.
+- **3)** wzywa grupę na piśmie do złożenia wniosku o rejestrację uzgodnionego z podmiotem wnoszącym krajowy sprzeciw w wyznaczonym terminie – w przypadku gdy z opinii Rady wynika, że wniosek o rejestrację i krajowy sprzeciw są zasadne – w terminie 14 dni od dnia wydania tej opinii.
 
 2. Do decyzji, o której mowa w ust. 1 pkt 1, nie stosuje się przepisu art. 127 § 3 Kpa.
 
@@ -346,7 +389,7 @@ source: "eli-html"
 
 6. Do postępowań w sprawach wniosków o zatwierdzenie zmiany stosuje się odpowiednio przepisy art. 10 ust. 1–4, art. 13–16 i art. 18 dotyczące rozpatrywania krajowego sprzeciwu wobec wniosku o rejestrację.
 
-#### Rozdział 4 Postępowanie w przypadku wniesienia sprzeciwu wobec wniosku o rejestrację
+#### Rozdział 4
 
 **Art. 21.**
 
@@ -355,7 +398,7 @@ source: "eli-html"
 - **1)** uzasadnione oświadczenie o sprzeciwie, o którym mowa w art. 51 ust. 1 rozporządzenia nr 1151/2012 – w przypadku nazw produktów rolnych i środków spożywczych,
 - **2)** uzasadnione oświadczenie, o którym mowa w art. 98 ust. 1 rozporządzenia nr 1308/2013 – w przypadku nazw win,
 - **3)** sprzeciw, o którym mowa w art. 22 ust. 1 rozporządzenia 2019/34 – w przypadku określeń tradycyjnych,
-- **4)** zawiadomienie o sprzeciwie, o którym mowa w art. 27 ust. 1 rozporządzenia 2019/787 – w przypadku nazw napojów spirytusowych w terminie 30 dni od dnia ogłoszenia w Dzienniku Urzędowym Unii Europejskiej wniosku o rejestrację albo wniosku o zatwierdzenie zmiany złożonego przez grupę, której siedziba i adres znajduje się poza terytorium Rzeczypospolitej Polskiej.
+- **4)** zawiadomienie o sprzeciwie, o którym mowa w art. 27 ust. 1 rozporządzenia 2019/787 – w przypadku nazw napojów spirytusowych – w terminie 30 dni od dnia ogłoszenia w Dzienniku Urzędowym Unii Europejskiej wniosku o rejestrację albo wniosku o zatwierdzenie zmiany złożonego przez grupę, której siedziba i adres znajduje się poza terytorium Rzeczypospolitej Polskiej.
 
 2. W przypadku złożenia zawiadomienia o sprzeciwie, o którym mowa w art. 27 ust. 1 rozporządzenia 2019/787, składa się również uzasadnione oświadczenie o sprzeciwie, o którym mowa w art. 27 ust. 2 rozporządzenia 2019/787, w terminie 30 dni od dnia złożenia zawiadomienia o sprzeciwie.
 
@@ -371,7 +414,7 @@ source: "eli-html"
 
 **Art. 24.** Minister właściwy do spraw rynków rolnych przekazuje państwu, które złożyło sprzeciw wobec wniosku o rejestrację, stanowisko w sprawie tego sprzeciwu uzgodnione z grupą oraz proponuje środki zmierzające do osiągnięcia porozumienia.
 
-#### Rozdział 5 Tymczasowa ochrona krajowa
+#### Rozdział 5
 
 **Art. 25.**
 
@@ -417,7 +460,7 @@ source: "eli-html"
 
 6. Roszczeń z tytułu naruszenia prawa do nazwy produktu objętego tymczasową ochroną krajową można dochodzić od dnia następującego po dniu, w którym nazwa produktu objęta tymczasową ochroną krajową została udostępniona na stronie internetowej urzędu obsługującego ministra właściwego do spraw rynków rolnych.
 
-#### Rozdział 6 Kontrola urzędowa w zakresie zgodności produktu ze specyfikacją produktu
+#### Rozdział 6
 
 **Art. 31.**
 
@@ -475,7 +518,7 @@ source: "eli-html"
 12. Minister właściwy do spraw rynków rolnych opracowuje wykaz upoważnionych jednostek certyfikujących zawierający:
 
 - **1)** nazwę, siedzibę i adres lub adres do doręczeń upoważnionej jednostki certyfikującej,
-- **2)** określenie zakresu upoważnienia i udostępnia go na stronie internetowej urzędu obsługującego tego ministra.
+- **2)** określenie zakresu upoważnienia – i udostępnia go na stronie internetowej urzędu obsługującego tego ministra.
 
 **Art. 32.**
 
@@ -639,7 +682,7 @@ source: "eli-html"
 
 **Art. 39.** Kontrola zgodności w odniesieniu do win obejmuje weryfikację, o której mowa w art. 19 rozporządzenia 2019/34.
 
-#### Rozdział 7 Grupy producentów
+#### Rozdział 7
 
 **Art. 40.**
 
@@ -678,7 +721,7 @@ source: "eli-html"
 
 - **2)** niezłożenia przez grupę wniosku o wpis do wykazu na dany rok.
 
-#### Rozdział 8 Opłaty
+#### Rozdział 8
 
 **Art. 42.**
 
@@ -688,11 +731,11 @@ source: "eli-html"
 - **2)** krajowego sprzeciwu,
 - **3)** sprzeciwu do wniosku o zatwierdzenie zmiany i sprzeciwu do wniosku o cofnięcie rejestracji,
 - **4)** wniosku o zatwierdzenie zmiany,
-- **5)** wniosku o cofnięcie rejestracji pobiera się opłatę w wysokości 500 zł, która stanowi dochód budżetu państwa.
+- **5)** wniosku o cofnięcie rejestracji – pobiera się opłatę w wysokości 500 zł, która stanowi dochód budżetu państwa.
 
 2. Opłatę wnosi się przed dokonaniem oceny, o której mowa w ust. 1, na rachunek bankowy urzędu obsługującego ministra właściwego do spraw rynków rolnych.
 
-#### Rozdział 9 Międzynarodowa ochrona oznaczeń geograficznych
+#### Rozdział 9
 
 **Art. 43.**
 
@@ -705,7 +748,7 @@ source: "eli-html"
 
 3. Opłaty, które uiszcza się na podstawie art. 7 Aktu genewskiego Porozumienia lizbońskiego w sprawie nazw pochodzenia i oznaczeń geograficznych (Dz. Urz. UE L 271 z 24.10.2019, str. 15), ponosi podmiot, który składa wniosek o rejestrację w rejestrze międzynarodowym oznaczeń geograficznych, o którym mowa w art. 2 rozporządzenia 2019/1753.
 
-#### Rozdział 10 Regulacja podaży
+#### Rozdział 10
 
 **Art. 44.** Minister właściwy do spraw rynków rolnych może, w drodze rozporządzenia, w przypadkach i na warunkach określonych w art. 166a rozporządzenia nr 1308/2013, określić na danym obszarze dopuszczalną wielkość podaży produktów, o których mowa w tym przepisie, mając na względzie wielkość produkcji i jakość produktu objętego nazwą pochodzenia lub oznaczeniem geograficznym, zapotrzebowanie na ten produkt na rynku oraz możliwości wytwórcze producentów tego produktu.
 
@@ -715,7 +758,7 @@ source: "eli-html"
 
 2. Do kontroli, o której mowa w ust. 1, stosuje się przepisy o jakości handlowej artykułów rolno-spożywczych dotyczące postępowania kontrolnego.
 
-#### Rozdział 11 Lista produktów tradycyjnych
+#### Rozdział 11
 
 **Art. 46.**
 
@@ -792,7 +835,7 @@ source: "eli-html"
 
 5. Właściwy marszałek województwa może wystąpić z urzędu do ministra właściwego do spraw rynków rolnych z wnioskiem o skreślenie produktu rolnego, środka spożywczego lub napoju spirytusowego z listy produktów tradycyjnych. Wniosek taki zawiera uzasadnienie.
 
-#### Rozdział 12 Przepisy o karach pieniężnych
+#### Rozdział 12
 
 **Art. 54.**
 
@@ -813,7 +856,7 @@ source: "eli-html"
 
 - **11)** wbrew obowiązkowi, o którym mowa w art. 36 ust. 1, nie prowadzi wykazu, o którym mowa w tym przepisie,
 - **12)** wbrew obowiązkowi wynikającemu z art. 36 ust. 2, nie przekazuje Głównemu Inspektorowi wykazu, o którym mowa w art. 36 ust. 1, lub nie przekazuje tego wykazu w terminie określonym w art. 36 ust. 2, lub przekazuje go niezgodnie z formą lub sposobem określonymi w tym przepisie, lub przekazuje ten wykaz zawierający nieprawdziwe lub niekompletne dane lub informacje,
-- **13)** wbrew obowiązkowi wynikającemu z art. 37 ust. 1, nie przekazuje Głównemu Inspektorowi sprawozdania, wykazu lub informacji, o których mowa w tym przepisie, lub nie przekazuje tych dokumentów w terminie określonym w tym przepisie, lub przekazuje te dokumenty niezgodnie z formą lub sposobem określonymi w tym przepisie, lub przekazuje te dokumenty zawierające nieprawdziwe lub niekompletne dane lub informacje podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia za rok poprzedzający rok wszczęcia postępowania w sprawie nałożenia kary.
+- **13)** wbrew obowiązkowi wynikającemu z art. 37 ust. 1, nie przekazuje Głównemu Inspektorowi sprawozdania, wykazu lub informacji, o których mowa w tym przepisie, lub nie przekazuje tych dokumentów w terminie określonym w tym przepisie, lub przekazuje te dokumenty niezgodnie z formą lub sposobem określonymi w tym przepisie, lub przekazuje te dokumenty zawierające nieprawdziwe lub niekompletne dane lub informacje – podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia za rok poprzedzający rok wszczęcia postępowania w sprawie nałożenia kary.
 
 2. Kara pieniężna, o której mowa w ust. 1, nie może być wyższa niż 10% przychodu upoważnionej jednostki certyfikującej osiągniętego w roku rozliczeniowym poprzedzającym rok nałożenia tej kary.
 
@@ -833,26 +876,26 @@ source: "eli-html"
 - **1)** art. 13 ust. 1 lub art. 24 ust. 1, 2 i 4 rozporządzenia nr 1151/2012 – w przypadku produktów rolnych i środków spożywczych,
 - **2)** art. 103 ust. 2 rozporządzenia nr 1308/2013 – w przypadku win,
 - **3)** art. 113 ust. 2 rozporządzenia nr 1308/2013 – w przypadku określeń tradycyjnych,
-- **4)** art. 21 ust. 2 rozporządzenia 2019/787 – w przypadku napojów spirytusowych podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia za rok poprzedzający rok wszczęcia postępowania w sprawie nałożenia kary.
+- **4)** art. 21 ust. 2 rozporządzenia 2019/787 – w przypadku napojów spirytusowych – podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia za rok poprzedzający rok wszczęcia postępowania w sprawie nałożenia kary.
 
 2. Osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, która ponownie używa nazwy zarejestrowanej jako nazwa pochodzenia, oznaczenie geograficzne lub gwarantowana tradycyjna specjalność albo określeń tradycyjnych niezgodnie ze specyfikacją produktu lub narusza zakres ochrony tej nazwy określony w:
 
 - **1)** art. 13 ust. 1 lub art. 24 ust. 1, 2 i 4 rozporządzenia nr 1151/2012 – w przypadku produktów rolnych i środków spożywczych,
 - **2)** art. 103 ust. 2 rozporządzenia nr 1308/2013 – w przypadku win,
 - **3)** art. 113 ust. 2 rozporządzenia nr 1308/2013 – w przypadku określeń tradycyjnych,
-- **4)** art. 21 ust. 2 rozporządzenia 2019/787 – w przypadku napojów spirytusowych podlega karze pieniężnej w wysokości do pięćdziesięciokrotności przeciętnego wynagrodzenia za rok poprzedzający rok wszczęcia postępowania w sprawie nałożenia kary, nie niższej od wysokości kary pieniężnej nałożonej poprzednio za takie naruszenie.
+- **4)** art. 21 ust. 2 rozporządzenia 2019/787 – w przypadku napojów spirytusowych – podlega karze pieniężnej w wysokości do pięćdziesięciokrotności przeciętnego wynagrodzenia za rok poprzedzający rok wszczęcia postępowania w sprawie nałożenia kary, nie niższej od wysokości kary pieniężnej nałożonej poprzednio za takie naruszenie.
 
 3. Osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, która używa oznaczenia, skrótu lub symbolu z naruszeniem przepisów, o których mowa w:
 
 - **1)** art. 44 ust. 1 lit. a lub b rozporządzenia nr 1151/2012,
 - **2)** art. 120 ust. 1 lit. e rozporządzenia nr 1308/2013 lub
-- **3)** art. 16 rozporządzenia 2019/787 podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia za rok poprzedzający rok wszczęcia postępowania w sprawie nałożenia kary.
+- **3)** art. 16 rozporządzenia 2019/787 – podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia za rok poprzedzający rok wszczęcia postępowania w sprawie nałożenia kary.
 
 4. Osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, która ponownie używa oznaczenia, skrótu lub symbolu z naruszeniem przepisów, o których mowa w:
 
 - **1)** art. 44 ust. 1 lit. a lub b rozporządzenia nr 1151/2012,
 - **2)** art. 120 ust. 1 lit. e rozporządzenia nr 1308/2013 lub
-- **3)** art. 16 rozporządzenia 2019/787 podlega karze pieniężnej w wysokości do pięćdziesięciokrotności przeciętnego wynagrodzenia za rok poprzedzający rok wszczęcia postępowania w sprawie nałożenia kary.
+- **3)** art. 16 rozporządzenia 2019/787 – podlega karze pieniężnej w wysokości do pięćdziesięciokrotności przeciętnego wynagrodzenia za rok poprzedzający rok wszczęcia postępowania w sprawie nałożenia kary.
 
 5. Osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, która używa określenia tradycyjnego wpisanego do rejestru chronionych określeń tradycyjnych w sektorze wina, o którym mowa w art. 25 rozporządzenia 2019/34, z naruszeniem zakresu jego ochrony określonego w art. 113 ust. 2 rozporządzenia nr 1308/2013, podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia za rok poprzedzający rok wszczęcia postępowania w sprawie nałożenia kary.
 
@@ -874,13 +917,13 @@ source: "eli-html"
 
 **Art. 59.** W zakresie nieuregulowanym w tym rozdziale oraz w Kpa do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651 i 2707 oraz z 2023 r. poz. 180, 326, 511 i 556), z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi albo wojewódzkiemu inspektorowi właściwemu ze względu na miejsce przeprowadzenia kontroli.
 
-#### Rozdział 13 Zmiany w przepisach
+#### Rozdział 13
 
 **Art. 60.** W ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2021 r. poz. 324 oraz z 2022 r. poz. 2185) wprowadza się następujące zmiany:
 
 - **1)** w art. 174 ust. 3 otrzymuje brzmienie: „
 
-3. Ilekroć w przepisach niniejszego działu jest mowa o towarach, nie dotyczy to usług, produktów rolnych przeznaczonych do spożycia przez ludzi, wymienionych w załączniku I do Traktatu ustanawiającego Wspólnotę Europejską, produktów rolnych i środków spożywczych wymienionych w załącznikach do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1151/2012 z dnia 21 listopada 2012 r. w sprawie systemów jakości produktów rolnych i środków spożywczych (Dz. Urz. UE L 343 z 14.12.2012, str. 1, z późn. zm.), produktów sektora wina określonych w załączniku VII w części II pkt 1, 3–6, 8, 9, 11, 15 i 16 do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.) oraz napojów spirytusowych w rozumieniu art. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/787 z dnia 17 kwietnia 2019 r. w sprawie definicji, opisu, prezentacji i etykietowania napojów spirytusowych, stosowania nazw napojów spirytusowych w prezentacji i etykietowaniu innych środków spożywczych, ochrony oznaczeń geograficznych napojów spirytusowych, wykorzystywania alkoholu etylowego i destylatów pochodzenia rolniczego w napojach alkoholowych, a także uchylającego rozporządzenie (WE) nr 110/2008 (Dz. Urz. UE L 130 z 17.05.2019, str. 1, z późn. zm.) . ” ;
+3. Ilekroć w przepisach niniejszego działu jest mowa o towarach, nie dotyczy to usług, produktów rolnych przeznaczonych do spożycia przez ludzi, wymienionych w załączniku I do Traktatu ustanawiającego Wspólnotę Europejską, produktów rolnych i środków spożywczych wymienionych w załącznikach do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1151/2012 z dnia 21 listopada 2012 r. w sprawie systemów jakości produktów rolnych i środków spożywczych (Dz. Urz. UE L 343 z 14.12.2012, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 95 z 07.04.2017, str. 1, Dz. Urz. UE L 137 z 24.05.2017, str. 40 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 262., produktów sektora wina określonych w załączniku VII w części II pkt 1, 3–6, 8, 9, 11, 15 i 16 do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39, Dz. Urz. UE L 437 z 28.12.2020, str. 1 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 262. oraz napojów spirytusowych w rozumieniu art. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/787 z dnia 17 kwietnia 2019 r. w sprawie definicji, opisu, prezentacji i etykietowania napojów spirytusowych, stosowania nazw napojów spirytusowych w prezentacji i etykietowaniu innych środków spożywczych, ochrony oznaczeń geograficznych napojów spirytusowych, wykorzystywania alkoholu etylowego i destylatów pochodzenia rolniczego w napojach alkoholowych, a także uchylającego rozporządzenie (WE) nr 110/2008 (Dz. Urz. UE L 130 z 17.05.2019, str. 1, z późn. zm.) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 316I z 06.12.2019, str. 3, Dz. Urz. UE L 178 z 20.05.2021, str. 4, Dz. Urz. UE L 238 z 06.07.2021, str. 1, Dz. Urz. UE L 289 z 12.08.2021, str. 1 i 4, Dz. Urz. UE L 321 z 13.09.2021, str. 12 oraz Dz. Urz. UE L 382 z 28.10.2021, str. 59.. ” ;
 
 - **2)** w art. 178 ust. 2 otrzymuje brzmienie: „
 
@@ -923,7 +966,7 @@ source: "eli-html"
 
 **Art. 66.** W ustawie z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2022 r. poz. 2157 i 2727 oraz z 2023 r. poz. 412) w art. 5 w ust. 2 wyrazy „wnioskodawcy w rozumieniu art. 2 pkt 1 ustawy z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych (Dz. U. z 2021 r. poz. 224 oraz z 2022 r. poz. 1370) będący” zastępuje się wyrazami „grupy w rozumieniu art. 2 pkt 2 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588) będące”.
 
-**Art. 67.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 67.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 835, 1079, 1301, 1488, 1713, 1730, 1933, 2015 i 2707 oraz z 2023 r. poz. 177, 180, 185, 240, 347, 412 i 556.) wprowadza się następujące zmiany:
 
 - **1)** w art. 33 w ust. 1 w pkt 10 lit. k otrzymuje brzmienie: „ art. 43a i art. 44 ustawy z dnia 18 października 2006 r. o wyrobie napojów spirytusowych (Dz. U. z 2020 r. poz. 1419, z 2022 r. poz. 2015 oraz z 2023 r. poz. 588), ” ;
     - **k)**
@@ -940,7 +983,7 @@ nieprzetworzone rośliny i produkty roślinne, w tym nasiona i inny materiał pr
 
 - **a)**
 
-#### Rozdział 14 Przepisy dostosowujące, przejściowe i końcowe
+#### Rozdział 14
 
 **Art. 70.**
 
@@ -954,7 +997,7 @@ nieprzetworzone rośliny i produkty roślinne, w tym nasiona i inny materiał pr
 
 - **1)** uchylanej w art. 81 pkt 1,
 - **2)** zmienianej w art. 65,
-- **3)** uchylanej w art. 81 pkt 2 i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy niniejszej ustawy regulujące te kwestie, z tym że opinie wydane przed dniem wejścia w życie niniejszej ustawy w trybie i na zasadach określonych w wymienionych ustawach zachowują ważność.
+- **3)** uchylanej w art. 81 pkt 2 – i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy niniejszej ustawy regulujące te kwestie, z tym że opinie wydane przed dniem wejścia w życie niniejszej ustawy w trybie i na zasadach określonych w wymienionych ustawach zachowują ważność.
 
 2. Do postępowań w sprawach upoważniania jednostek certyfikujących wszczętych na podstawie przepisów ustaw uchylanych w art. 81 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy niniejszej ustawy regulujące sprawy dotyczące upoważniania jednostek certyfikujących.
 
@@ -962,24 +1005,24 @@ nieprzetworzone rośliny i produkty roślinne, w tym nasiona i inny materiał pr
 
 - **1)** uchylanej w art. 81 pkt 1,
 - **2)** zmienianej w art. 65,
-- **3)** uchylanej w art. 81 pkt 2 stosuje się przepisy niniejszej ustawy regulujące sprawy rozstrzygane w tych decyzjach.
+- **3)** uchylanej w art. 81 pkt 2 – stosuje się przepisy niniejszej ustawy regulujące sprawy rozstrzygane w tych decyzjach.
 
 **Art. 73.** Do postępowań w sprawach dotyczących opłat, o których mowa w:
 
 - **1)** art. 45 ustawy uchylanej w art. 81 pkt 1,
 - **2)** art. 34 ustawy zmienianej w art. 65,
-- **3)** art. 79 ustawy uchylanej w art. 81 pkt 2 wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+- **3)** art. 79 ustawy uchylanej w art. 81 pkt 2 – wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 74.** Do czynów, o których mowa w:
 
 - **1)** art. 58a i art. 58b ustawy uchylanej w art. 81 pkt 1,
 - **2)** art. 41 ustawy zmienianej w art. 65,
-- **3)** art. 83 ustawy uchylanej w art. 81 pkt 2 popełnionych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy tych ustaw w brzmieniu dotychczasowym.
+- **3)** art. 83 ustawy uchylanej w art. 81 pkt 2 – popełnionych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy tych ustaw w brzmieniu dotychczasowym.
 
 **Art. 75.** Nazwy produktów wpisane na listę, o której mowa w:
 
 - **1)** art. 35 ust. 2 ustawy uchylanej w art. 81 pkt 1,
-- **2)** art. 69 ust. 2 ustawy uchylanej w art. 81 pkt 2 podlegają na terytorium Rzeczypospolitej Polskiej tymczasowej ochronie zgodnie z przepisami niniejszej ustawy dotyczącymi tymczasowej ochrony krajowej.
+- **2)** art. 69 ust. 2 ustawy uchylanej w art. 81 pkt 2 – podlegają na terytorium Rzeczypospolitej Polskiej tymczasowej ochronie zgodnie z przepisami niniejszej ustawy dotyczącymi tymczasowej ochrony krajowej.
 
 **Art. 76.** Postępowania w sprawach wpisu napoju spirytusowego na krajową listę chronionych oznaczeń geograficznych napojów spirytusowych, o której mowa w art. 13 ust. 2 ustawy zmienianej w art. 65, wszczęte na podstawie przepisów ustawy zmienianej w art. 65 i niezakończone przed dniem wejścia w życie niniejszej ustawy umarza się.
 
@@ -990,7 +1033,7 @@ nieprzetworzone rośliny i produkty roślinne, w tym nasiona i inny materiał pr
 1. Decyzje wydane przez ministra właściwego do spraw rynków rolnych w sprawie upoważnienia jednostek certyfikujących do przeprowadzania kontroli zgodności, wydawania i cofania certyfikatów zgodności ze specyfikacją:
 
 - **1)** produktów rolnych i środków spożywczych posiadających chronioną nazwę pochodzenia, chronione oznaczenie geograficzne lub produktów będących gwarantowanymi tradycyjnymi specjalnościami, wydane na podstawie art. 41 ust. 3 ustawy uchylanej w art. 81 pkt 1,
-- **2)** win posiadających chronioną nazwę pochodzenia lub chronione oznaczenie geograficzne ze specyfikacją, wydane na podstawie art. 75 ust. 3 ustawy uchylanej w art. 81 pkt 2 pozostają w mocy.
+- **2)** win posiadających chronioną nazwę pochodzenia lub chronione oznaczenie geograficzne ze specyfikacją, wydane na podstawie art. 75 ust. 3 ustawy uchylanej w art. 81 pkt 2 – pozostają w mocy.
 
 2. Świadectwa jakości wydane przez wojewódzkich inspektorów oraz certyfikaty zgodności wydane przez upoważnione jednostki certyfikujące na podstawie przepisów ustaw uchylanych w art. 81 zachowują ważność przez okres, na jaki zostały wydane.
 
@@ -1003,12 +1046,12 @@ nieprzetworzone rośliny i produkty roślinne, w tym nasiona i inny materiał pr
 **Art. 80.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 42 ust. 5 ustawy uchylanej w art. 81 pkt 1,
-- **2)** art. 76 ust. 7 ustawy uchylanej w art. 81 pkt 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 35 ust. 9, jednak nie dłużej niż 24 miesiące od dnia wejścia w życie niniejszej ustawy.
+- **2)** art. 76 ust. 7 ustawy uchylanej w art. 81 pkt 2 – zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 35 ust. 9, jednak nie dłużej niż 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 81.** Traci moc:
 
 - **1)** ustawa z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych (Dz. U. z 2022 r. poz. 2268);
 - **2)** ustawa z dnia 12 maja 2011 r. o oznaczeniach geograficznych win oraz aromatyzowanych produktów sektora wina (Dz. U. z 2023 r. poz. 346).
 
-**Art. 82.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 82.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji służy stosowaniu rozporządzenia: 1) Parlamentu Europejskiego i Rady (UE) nr 1151/2012 z dnia 21 listopada 2012 r. w sprawie systemów jakości produktów rolnych i środków spożywczych (Dz. Urz. UE L 343 z 14.12.2012, str. 1, Dz. Urz. UE L 95 z 07.04.2017, str. 1, Dz. Urz. UE L 137 z 24.05.2017, str. 40 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 262); 2) Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 130 z 19.05.2016, str. 11, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 327 z 09.12.2017, str. 83, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 27 z 31.01.2020, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 1); 3) Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39, Dz. Urz. UE L 437 z 28.12.2020 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 262); 4) Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, Dz. Urz. UE L 82 z 25.03.2019, str. 4, Dz. Urz. UE L 131 z 17.05.2019, str. 1, Dz. Urz. UE L 165 z 21.06.2019, str. 4, Dz. Urz. UE L 317 z 09.12.2019, str. 114, Dz. Urz. UE L 321 z 12.12.2019, str. 111 oraz Dz. Urz. UE L 357 z 08.10.2021, str. 27); 5) Parlamentu Europejskiego i Rady (UE) 2019/787 z dnia 17 kwietnia 2019 r. w sprawie definicji, opisu, prezentacji i etykietowania napojów spirytusowych, stosowania nazw napojów spirytusowych w prezentacji i etykietowaniu innych środków spożywczych, ochrony oznaczeń geograficznych napojów spirytusowych, wykorzystywania alkoholu etylowego i destylatów pochodzenia rolniczego w napojach alkoholowych, a także uchylającego rozporządzenie (WE) nr 110/2008 (Dz. Urz. UE L 130 z 17.05.2019, str. 1, Dz. Urz. UE L 316I z 06.12.2019, str. 3, Dz. Urz. UE L 178 z 20.05.2021, str. 4, Dz. Urz. UE L 238 z 06.07.2021, str. 1, Dz. Urz. UE L 289 z 12.08.2021, str. 1 i 4, Dz. Urz. UE L 321 z 13.09.2021, str. 12, Dz. Urz. UE L 382 z 28.10.2021, str. 59 oraz Dz. Urz. UE L 197 z 26.07.2022, str. 71); 6) delegowanego Komisji (UE) 2019/33 z dnia 17 października 2018 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do wniosków o objęcie ochroną nazw pochodzenia, oznaczeń geograficznych i określeń tradycyjnych w sektorze wina, procedury zgłaszania sprzeciwu, ograniczeń stosowania, zmian w specyfikacji produktu, unieważnienia ochrony oraz etykietowania i prezentacji (Dz. Urz. UE L 9 z 11.01.2019, str. 2, Dz. Urz. UE L 269 z 23.10.2019, str. 14 oraz Dz. Urz. UE L 297 z 20.08.2021, str. 16); 7) wykonawczego Komisji (UE) 2019/34 z dnia 17 października 2018 r. ustanawiającego zasady dotyczące stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do wniosków o objęcie ochroną nazw pochodzenia, oznaczeń geograficznych i określeń tradycyjnych w sektorze wina, procedury zgłaszania sprzeciwu, zmian w specyfikacji produktu, rejestru chronionych nazw, unieważnienia ochrony i stosowania symboli oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do odpowiedniego systemu kontroli (Dz. Urz. UE L 9 z 11.01.2019, str. 46); 8) Parlamentu Europejskiego i Rady (UE) 2019/1753 z dnia 23 października 2019 r. w sprawie działań Unii po jej przystąpieniu do Aktu genewskiego Porozumienia lizbońskiego w sprawie nazw pochodzenia i oznaczeń geograficznych (Dz. Urz. UE L 271 z 24.10.2019, str. 1); 9) delegowanego Komisji (UE) 2021/1235 z dnia 12 maja 2021 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/787 o przepisy dotyczące wniosków o rejestrację oznaczeń geograficznych napojów spirytusowych, zmian w specyfikacji produktu, cofnięcia rejestracji i rejestru (Dz. Urz. UE L 270 z 29.07.2021, str. 1); 10) Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187 oraz Dz. Urz. UE L z 10.02.2022, str. 45). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej, ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, ustawę z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu, ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia, ustawę z dnia 18 października 2006 r. o wyrobie napojów spirytusowych oraz o rejestracji i ochronie oznaczeń geograficznych napojów spirytusowych, ustawę z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa oraz ustawę z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej. 3) Niniejszą ustawą uchyla się ustawę z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych oraz ustawę z dnia 12 maja 2011 r. o oznaczeniach geograficznych win oraz aromatyzowanych produktów sektora wina. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 95 z 07.04.2017, str. 1, Dz. Urz. UE L 137 z 24.05.2017, str. 40 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 262. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39, Dz. Urz. UE L 437 z 28.12.2020, str. 1 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 262. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 137 z 24.05.2017, str. 40, Dz. Urz. UE L 82 z 25.03.2019, str. 4, Dz. Urz. UE L 317 z 09.12.2019, str. 114 i Dz. Urz. UE L 321 z 12.12.2019, str. 111 oraz Dz. Urz. UE L 357 z 08.10.2021, str. 27. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 316I z 06.12.2019, str. 3, Dz. Urz. UE L 178 z 20.05.2021, str. 4, Dz. Urz. UE L 238 z 06.07.2021, str. 1, Dz. Urz. UE L 289 z 12.08.2021, str. 1 i 4, Dz. Urz. UE L 321 z 13.09.2021, str. 12 oraz Dz. Urz. UE L 382 z 28.10.2021, str. 59. 8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 269 z 23.10.2019, str. 14 oraz Dz. Urz. UE L 297 z 20.08.2021, str. 16. 9) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 95 z 07.04.2017, str. 1, Dz. Urz. UE L 137 z 24.05.2017, str. 40 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 262. 10) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39, Dz. Urz. UE L 437 z 28.12.2020, str. 1 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 262. 11) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 316I z 06.12.2019, str. 3, Dz. Urz. UE L 178 z 20.05.2021, str. 4, Dz. Urz. UE L 238 z 06.07.2021, str. 1, Dz. Urz. UE L 289 z 12.08.2021, str. 1 i 4, Dz. Urz. UE L 321 z 13.09.2021, str. 12 oraz Dz. Urz. UE L 382 z 28.10.2021, str. 59. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 835, 1079, 1301, 1488, 1713, 1730, 1933, 2015 i 2707 oraz z 2023 r. poz. 177, 180, 185, 240, 347, 412 i 556.
 

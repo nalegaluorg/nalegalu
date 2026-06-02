@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 21 września 2022 r. w sprawie zaliczek w ramach programów finansowanych z udziałem środków europejskich
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 21 września 2022 r. w sprawie zaliczek w ramach programów finansowanych z udziałem środków europejskich Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-21 |
 | Data wydania | 2022-10-06 |
-| Wejście w życie | 2022-10-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002055) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2055/text.pdf) |
 
@@ -33,8 +32,7 @@ Rozporządzenie określa:
 1)
 warunki i tryb udzielania oraz rozliczania zaliczek dla beneficjentów, w tym zwrotu środków pochodzących z dotacji z budżetu państwa i jednostek samorządu terytorialnego,
 2)
-terminy składania wniosków o płatność oraz ich zakres
-w ramach programów finansowanych z udziałem środków europejskich.
+terminy składania wniosków o płatność oraz ich zakres – w ramach programów finansowanych z udziałem środków europejskich.
 § 2.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
@@ -57,9 +55,9 @@ W przypadku gdy umowa o dofinansowanie przewiduje wypłatę zaliczki w kilku tra
 4.
 Przepisu ust. 3 nie stosuje się do zaliczek i transz zaliczek przekazanych w ramach projektów, w których całość lub część wydatków dokonywana jest na podstawie:
 1)
-art. 67 ust. 1 lit. b-e rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.);
+art. 67 ust. 1 lit. b-e rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5, Dz. Urz. UE L 123 z 10.05.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5, Dz. Urz. UE L 130 z 24.04.2020, str. 1, Dz. Urz. UE L 231 z 17.07.2020, str. 4, Dz. Urz. UE L 356 z 26.10.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 30, Dz. Urz. UE L 109 z 08.04.2022, str. 1 oraz Dz. Urz. UE L 115 z 13.04.2022, str. 38.;
 2)
-art. 53 ust. 1 lit. b-f rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na Rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm.).
+art. 53 ust. 1 lit. b-f rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na Rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 261 z 22.07.2021, str. 58 oraz Dz. Urz. UE L 241 z 19.09.2022, str. 16..
 5.
 Zaliczka lub transza zaliczki są rozliczane przez beneficjenta w terminie i na warunkach określonych w umowie o dofinansowanie.
 6.
@@ -151,11 +149,9 @@ Do umów o dofinansowanie:
 1)
 zawartych przed dniem wejścia w życie rozporządzenia,
 2)
-zawieranych w wyniku wybrania do dofinansowania projektów w ramach postępowań w zakresie wyboru projektów do dofinansowania rozpoczętych przed dniem wejścia w życie rozporządzenia
-stosuje się przepisy dotychczasowe.
+zawieranych w wyniku wybrania do dofinansowania projektów w ramach postępowań w zakresie wyboru projektów do dofinansowania rozpoczętych przed dniem wejścia w życie rozporządzenia – stosuje się przepisy dotychczasowe.
 2.
 W przypadkach, o których mowa w ust. 1, właściwa instytucja i beneficjent albo wnioskodawca mogą odpowiednio dokonać zmian w zawartych umowach albo zawrzeć umowę, stosując przepisy rozporządzenia.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5, Dz. Urz. UE L 123 z 10.05.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5, Dz. Urz. UE L 130 z 24.04.2020, str. 1, Dz. Urz. UE L 231 z 17.07.2020, str. 4, Dz. Urz. UE L 356 z 26.10.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 30, Dz. Urz. UE L 109 z 08.04.2022, str. 1 oraz Dz. Urz. UE L 115 z 13.04.2022, str. 38. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 261 z 22.07.2021, str. 58 oraz Dz. Urz. UE L 241 z 19.09.2022, str. 16. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 7 grudnia 2017 r. w sprawie zaliczek w ramach programów finansowanych z udziałem środków europejskich (Dz. U. poz. 2367), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 142 ust. 3 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 7 grudnia 2017 r. w sprawie zaliczek w ramach programów finansowanych z udziałem środków europejskich (Dz. U. poz. 2367), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 142 ust. 3 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079). 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5, Dz. Urz. UE L 123 z 10.05.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5, Dz. Urz. UE L 130 z 24.04.2020, str. 1, Dz. Urz. UE L 231 z 17.07.2020, str. 4, Dz. Urz. UE L 356 z 26.10.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 30, Dz. Urz. UE L 109 z 08.04.2022, str. 1 oraz Dz. Urz. UE L 115 z 13.04.2022, str. 38. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 261 z 22.07.2021, str. 58 oraz Dz. Urz. UE L 241 z 19.09.2022, str. 16. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 7 grudnia 2017 r. w sprawie zaliczek w ramach programów finansowanych z udziałem środków europejskich (Dz. U. poz. 2367), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 142 ust. 3 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079).
 

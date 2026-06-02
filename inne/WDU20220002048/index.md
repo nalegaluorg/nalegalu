@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-22 |
 | Data wydania | 2022-10-05 |
-| Wejście w życie | 2022-10-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002048) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2048/text.pdf) |
 
@@ -57,8 +56,7 @@ Badanie wydychanego powietrza przeprowadza się w sposób nieinwazyjny przy uży
 1)
 spektrometrii w podczerwieni lub
 2)
-utleniania elektrochemicznego
-zwanego dalej „analizatorem wydechu”.
+utleniania elektrochemicznego – zwanego dalej „analizatorem wydechu”.
 3.
 Badania analizatorem wydechu przeprowadza się nie wcześniej niż po upływie 15 minut od chwili zakończenia spożywania alkoholu, palenia wyrobów tytoniowych, w tym palenia nowatorskich wyrobów tytoniowych, palenia papierosów elektronicznych lub używania wyrobów tytoniowych bezdymnych przez badanego żołnierza.
 4.

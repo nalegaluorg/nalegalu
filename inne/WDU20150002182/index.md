@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-18 |
 | Data wydania | 2015-12-24 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002182) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2182/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 270b ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 270b ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923 i 1932.) zarządza się, co następuje:
 § 1.
 Opłata za sporządzenie przez organ podatkowy kopii lub odpisu dokumentu wynosi:
 1)
@@ -39,5 +38,5 @@ Opłata za sporządzenie przez organ podatkowy kopii lub odpisu dokumentu wynosi
 4)
 1,20 zł – za dwie strony w przypadku kopii lub odpisu dwustronnego w formacie A3.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923 i 1932.
 

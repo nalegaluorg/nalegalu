@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-07-09 |
 | Data wydania | 2020-07-13 |
-| Wejście w życie | 2020-07-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001236) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1236/text.pdf) |
 
@@ -68,5 +67,5 @@ ABW albo SKW wystawia podmiotowi zainteresowanemu rachunek za wydanie certyfikat
 4.
 Podmiot zainteresowany wpłaca kwoty wymienione w rachunkach, o których mowa w ust. 1 i 3, na rachunek bankowy wskazany przez ABW albo SKW, w terminie 21 dni od daty doręczenia tych rachunków.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 20 lipca 2011 r. w sprawie opłat za przeprowadzenie przez Agencję Bezpieczeństwa Wewnętrznego albo Służbę Kontrwywiadu Wojskowego czynności z zakresu bezpieczeństwa teleinformatycznego (Dz. U. poz. 949), które utraciło moc z dniem 1 października 2018 r. na podstawie art. 129 pkt 2 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z 2019 r. poz. 39 i 534 oraz z 2020 r. poz. 695, 875 i 1086). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 20 lipca 2011 r. w sprawie opłat za przeprowadzenie przez Agencję Bezpieczeństwa Wewnętrznego albo Służbę Kontrwywiadu Wojskowego czynności z zakresu bezpieczeństwa teleinformatycznego (Dz. U. poz. 949), które utraciło moc z dniem 1 października 2018 r. na podstawie art. 129 pkt 2 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z 2019 r. poz. 39 i 534 oraz z 2020 r. poz. 695, 875 i 1086).
 

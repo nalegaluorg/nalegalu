@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 1 sierpnia 2018 r. zmieniające rozporządzenie w sprawie wykroczeń, za które funkcjonariusze Straży Granicznej są uprawnieni do nakładania grzywien w drodze mandatu karnego
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 1 sierpnia 2018 r. zmieniające rozporządzenie w sprawie wykroczeń, za które funkcjonariusze Straży Granicznej są uprawnieni do nakładania grzywien w drodze mandatu karnego Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-08-01 |
 | Data wydania | 2018-09-03 |
-| Wejście w życie | 2018-09-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001689) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1689/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 95 § 4 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2018 r. poz. 475, 1039, 1387, 1467 i 1481) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 18 kwietnia 2014 r. w sprawie wykroczeń, za które funkcjonariusze Straży Granicznej są uprawnieni do nakładania grzywien w drodze mandatu karnego (Dz. U. poz. 539, z 2015 r. poz. 263, z 2016 r. poz. 968 oraz z 2018 r. poz. 390) § 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 18 kwietnia 2014 r. w sprawie wykroczeń, za które funkcjonariusze Straży Granicznej są uprawnieni do nakładania grzywien w drodze mandatu karnego (Dz. U. poz. 539, z 2015 r. poz. 263, z 2016 r. poz. 968 oraz z 2018 r. poz. 390) § 2 otrzymuje brzmienie: „
 § 2.
 Funkcjonariusze są uprawnieni do nakładania grzywien w drodze mandatu karnego za wykroczenia określone w:
 1)
@@ -42,7 +40,7 @@ art. 60a-60c ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolite
 4)
 art. 51 ust. 2 pkt 5–5d, 8 i 9 oraz ust. 3 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2017 r. poz. 1839 oraz z 2018 r. poz. 106, 138, 651 i 730);
 5)
-art. 92 ust. 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2017 r. poz. 2200, z późn. zm.);
+art. 92 ust. 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2017 r. poz. 2200, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 12, 79, 138, 650, 1039, 1480, 1481, 1544, 1592 i 1629.);
 6)
 art. 210 ust. 1 pkt 5a, 7, 9, 14 i 15 oraz ust. 2 w związku z ust. 1 pkt 14 i 15 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2018 r. poz. 1183, 1629 i 1637);
 7)
@@ -66,9 +64,7 @@ art. 11 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania prac
 16)
 art. 174 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2018 r. poz. 992, 1000, 1479, 1544, 1564 i 1592);
 17)
-art. 465 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2017 r. poz. 2206 i 2282 oraz z 2018 r. poz. 107, 138, 771 i 1669).
-”
+art. 465 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2017 r. poz. 2206 i 2282 oraz z 2018 r. poz. 107, 138, 771 i 1669). ”
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 12, 79, 138, 650, 1039, 1480, 1481, 1544, 1592 i 1629.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 12, 79, 138, 650, 1039, 1480, 1481, 1544, 1592 i 1629.
 

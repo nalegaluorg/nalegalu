@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 25 lutego 2021 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu „Premie dla młodych rolników” w ramach poddziałania „Pomoc w rozpoczęciu działalności gospodarczej na rzecz młodych rolników” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 25 lutego 2021 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu „Premie dla młodych rolników” w ramach poddziałania „Pomoc w rozpoczęciu działalności gospodarczej na rzecz młodych rolników” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-02-25 |
 | Data wydania | 2021-03-02 |
-| Wejście w życie | 2021-03-03 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000389) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/389/text.pdf) |
 
@@ -33,11 +32,9 @@ Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu r
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 13 lipca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu „Premie dla młodych rolników” w ramach poddziałania „Pomoc w rozpoczęciu działalności gospodarczej na rzecz młodych rolników” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2018 r. poz. 759 i 1021, z 2019 r. poz. 760 oraz z 2020 r. poz. 839) wprowadza się następujące zmiany:
 1)
-w § 15 ust. 4 otrzymuje brzmienie:
-„
+w § 15 ust. 4 otrzymuje brzmienie: „
 4.
-Jeżeli biznesplan nie jest składany w postaci elektronicznej na adres do doręczeń elektronicznych w rozumieniu art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320 oraz z 2021 r. poz. 72), składa się go na informatycznym nośniku danych (CD, DVD lub pamięć USB) wraz z wydrukiem podsumowania biznesplanu.
-” ;
+Jeżeli biznesplan nie jest składany w postaci elektronicznej na adres do doręczeń elektronicznych w rozumieniu art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320 oraz z 2021 r. poz. 72), składa się go na informatycznym nośniku danych (CD, DVD lub pamięć USB) wraz z wydrukiem podsumowania biznesplanu. ” ;
 2)
 w § 16 w ust. 1 skreśla się wyrazy „dla województwa mazowieckiego oraz łącznie dla pozostałych województw”;
 3)
@@ -62,13 +59,11 @@ Do osób nieposiadających kwalifikacji zawodowych w zakresie określonym w zał
 1)
 którym przyznano pomoc finansową na operacje typu „Premie dla młodych rolników” w ramach poddziałania „Pomoc w rozpoczęciu działalności gospodarczej na rzecz młodych rolników” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 przed dniem wejścia w życie niniejszego rozporządzenia oraz
 2)
-które zobowiązały się do uzupełnienia tych kwalifikacji w okresie 36 miesięcy od dnia doręczenia decyzji o przyznaniu pomocy wymienionej w pkt 1
-szczegółowy wykaz kierunków studiów, zawodów oraz tytułów kwalifikacyjnych, a także rodzaje dokumentów potwierdzających posiadanie kwalifikacji zawodowych określone w załączniku nr 1 do rozporządzenia zmienianego w § 1 stosuje się w brzmieniu nadanym niniejszym rozporządzeniem.
+które zobowiązały się do uzupełnienia tych kwalifikacji w okresie 36 miesięcy od dnia doręczenia decyzji o przyznaniu pomocy wymienionej w pkt 1 – szczegółowy wykaz kierunków studiów, zawodów oraz tytułów kwalifikacyjnych, a także rodzaje dokumentów potwierdzających posiadanie kwalifikacji zawodowych określone w załączniku nr 1 do rozporządzenia zmienianego w § 1 stosuje się w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
 Do dnia 30 czerwca 2021 r., w przypadku wystąpienia z wnioskiem o wyrażenie zgody na zmianę założeń biznesplanu na podstawie § 27 ust. 1 rozporządzenia zmienianego w § 1, jeżeli zmieniony biznesplan nie jest składany w formie dokumentu elektronicznego na elektroniczną skrzynkę podawczą w rozumieniu art. 3 pkt 17 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, składa się go na informatycznym nośniku danych (CD, DVD lub pamięć USB) wraz z wydrukiem podsumowania biznesplanu.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 1, który wchodzi w życie z dniem 1 lipca 2021 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 1, który wchodzi w życie z dniem 1 lipca 2021 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928).
 Załącznik – Szczegółowy wykaz kierunków studiów, zawodów oraz tytułów kwalifikacyjnych, a także rodzaje dokumentów potwierdzających posiadanie kwalifikacji zawodowych
 1.
 Kierunkami studiów pierwszego, drugiego stopnia oraz jednolitych studiów magisterskich, których ukończenie uznaje się za posiadanie kwalifikacji zawodowych, są:
@@ -81,8 +76,7 @@ weterynaria – w przypadku gdy w gospodarstwie są prowadzone chów lub hodowla
 4)
 technika rolnicza i leśna;
 5)
-zootechnika.
-W przypadku ukończenia studiów na kierunku innym niż wymienione w pkt 1–5 za kwalifikacje zawodowe przydatne do prowadzenia działalności rolniczej uznaje się kierunki studiów, w ramach których zakres kształcenia, program albo standardy kształcenia obejmują treści związane z działalnością rolniczą w wymiarze łącznym co najmniej 200 godzin lub co najmniej 30 punktów uzyskanych w ramach Europejskiego Systemu Transferu i Akumulacji Punktów (European Credit Transfer and Accumulation System).
+zootechnika. W przypadku ukończenia studiów na kierunku innym niż wymienione w pkt 1–5 za kwalifikacje zawodowe przydatne do prowadzenia działalności rolniczej uznaje się kierunki studiów, w ramach których zakres kształcenia, program albo standardy kształcenia obejmują treści związane z działalnością rolniczą w wymiarze łącznym co najmniej 200 godzin lub co najmniej 30 punktów uzyskanych w ramach Europejskiego Systemu Transferu i Akumulacji Punktów (European Credit Transfer and Accumulation System).
 2.
 Wykaz zawodów rolniczych na poziomie kwalifikacji technika:
 1)
@@ -233,7 +227,11 @@ b)
 – rolnik – świadectwo potwierdzające kwalifikację w zawodzie w zakresie kwalifikacji R.3 Prowadzenie produkcji rolniczej lub świadectwo potwierdzające kwalifikację w zawodzie w zakresie kwalifikacji RL.03. Prowadzenie produkcji rolniczej lub certyfikat kwalifikacji zawodowej w zakresie kwalifikacji ROL.04. Prowadzenie produkcji rolniczej,
 – ogrodnik – świadectwo potwierdzające kwalifikację w zawodzie w zakresie kwalifikacji R.5. Zakładanie i prowadzenie upraw ogrodniczych lub świadectwo potwierdzające kwalifikację w zawodzie w zakresie kwalifikacji RL.05. Zakładanie i prowadzenie upraw ogrodniczych lub certyfikat kwalifikacji zawodowej w zakresie kwalifikacji OGR.02. Zakładanie i prowadzenie upraw ogrodniczych,
 – pszczelarz – świadectwo potwierdzające kwalifikację w zawodzie w zakresie kwalifikacji R.4. Prowadzenie produkcji pszczelarskiej lub świadectwo potwierdzające kwalifikację w zawodzie w zakresie kwalifikacji RL.04. Prowadzenie produkcji pszczelarskiej lub certyfikat kwalifikacji zawodowej w zakresie kwalifikacji ROL.03. Prowadzenie produkcji pszczelarskiej,
-– mechanik – operator pojazdów i maszyn rolniczych: – – łącznie: świadectwo potwierdzające kwalifikację w zawodzie w zakresie kwalifikacji M.1. Użytkowanie pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie oraz świadectwo potwierdzające kwalifikację w zawodzie w zakresie kwalifikacji M.2. Obsługa techniczna oraz naprawa pojazdów, maszyn i urządzeń stosowanych w rolnictwie, lub – – świadectwo potwierdzające kwalifikację w zawodzie w zakresie kwalifikacji MG.03. Eksploatacja pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie, lub – – świadectwo czeladnicze w zawodzie mechanik-operator pojazdów i maszyn rolniczych, lub – – certyfikat kwalifikacji zawodowej w zakresie kwalifikacji ROL.02. Eksploatacja pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie,
+mechanik – operator pojazdów i maszyn rolniczych:
+– – łącznie: świadectwo potwierdzające kwalifikację w zawodzie w zakresie kwalifikacji M.1. Użytkowanie pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie oraz świadectwo potwierdzające kwalifikację w zawodzie w zakresie kwalifikacji M.2. Obsługa techniczna oraz naprawa pojazdów, maszyn i urządzeń stosowanych w rolnictwie, lub
+– – świadectwo potwierdzające kwalifikację w zawodzie w zakresie kwalifikacji MG.03. Eksploatacja pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie, lub
+– – świadectwo czeladnicze w zawodzie mechanik-operator pojazdów i maszyn rolniczych, lub
+– – certyfikat kwalifikacji zawodowej w zakresie kwalifikacji ROL.02. Eksploatacja pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie,
 c)
 zaświadczenie wydane przez okręgową komisję egzaminacyjną o zdaniu egzaminu eksternistycznego z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia wraz ze świadectwami potwierdzającymi kwalifikacje lub certyfikatami kwalifikacji zawodowej w zakresie kwalifikacji, wymienionymi w lit. b;
 4)

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-17 |
 | Data wydania | 2020-07-01 |
-| Wejście w życie | 2020-07-16 |
 | Ostatnia zmiana | 2025-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001170) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1170/text.pdf) |
 
@@ -31,11 +30,11 @@ Załącznik – Tabela wynagrodzenia zasadniczego przysługującego urzędnikom 
 Treść rozporządzenia
 Na podstawie art. 14 ust. 1 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2018 r. poz. 577) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U. poz. 485, z późn. zm.) załącznik nr 3 otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U. poz. 485, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2017 r. poz. 1173, z 2018 r. poz. 335, 985, 1001 i 1948, z 2019 r. poz. 1324 oraz z 2020 r. poz. 380.) załącznik nr 3 otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.
 Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do wynagrodzenia zasadniczego przysługującego urzędnikom i innym pracownikom sądów i prokuratury, należnego od dnia 1 stycznia 2020 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2017 r. poz. 1173, z 2018 r. poz. 335, 985, 1001 i 1948, z 2019 r. poz. 1324 oraz z 2020 r. poz. 380.
 Załącznik – Tabela wynagrodzenia zasadniczego przysługującego urzędnikom i innym pracownikom sądów i prokuratury
 Stanowiska Kwota w zł Stanowiska samodzielne 3000–13 400 Stanowiska wspomagające 2600–8400 Stażysta 2600–4400 Stanowiska pomocnicze, obsługi technicznej i gospodarczej 2600–5400
 

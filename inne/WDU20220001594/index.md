@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji i Naukiz dnia 22 lipca 2022 r. zmieniające rozporządzenie w sprawie zasad organizacji i udzielania pomocy psychologiczno-pedagogicznej w publicznych przedszkolach, szkołach i placówkach
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 22 lipca 2022 r. zmieniające rozporządzenie w sprawie zasad organizacji i udzielania pomocy psychologiczno-pedagogicznej w publicznych przedszkolach, szkołach i placówkach Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-22 |
 | Data wydania | 2022-07-29 |
-| Wejście w życie | 2022-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001594) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1594/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Edukacji Narodowej z dnia 9 sierpnia 2017 r. w sprawi
 1)
 w § 4 w ust. 2 po wyrazie „pedagodzy” dodaje się przecinek i wyrazy „pedagodzy specjalni”;
 2)
-po § 24 dodaje się § 24a w brzmieniu:
-„
+po § 24 dodaje się § 24a w brzmieniu: „
 § 24a.
 Do zadań pedagoga specjalnego w przedszkolu, szkole i placówce należy w szczególności:
 1)
@@ -64,9 +62,7 @@ udzielanie pomocy psychologiczno-pedagogicznej uczniom, rodzicom uczniów i nauc
 5)
 współpraca, w zależności od potrzeb, z innymi podmiotami, o których mowa w § 4 ust. 3 oraz w § 5;
 6)
-przedstawianie radzie pedagogicznej propozycji w zakresie doskonalenia zawodowego nauczycieli przedszkola, szkoły lub placówki w zakresie zadań określonych w pkt 1–5.
-” .
+przedstawianie radzie pedagogicznej propozycji w zakresie doskonalenia zawodowego nauczycieli przedszkola, szkoły lub placówki w zakresie zadań określonych w pkt 1–5. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18).
+Rozporządzenie wchodzi w życie z dniem 1 września 2022 r. 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18).
 

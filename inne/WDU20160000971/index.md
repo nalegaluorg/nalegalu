@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 23 czerwca 2016 r. w sprawie szczegółowego zakresu danych podlegających wymianie pomiędzy instytucjami utworzonymi na podstawie przepisów prawa bankowego a instytucjami pożyczkowymi i innymi podmiotami
+# Rozporządzenie Ministra Finansówz dnia 23 czerwca 2016 r. w sprawie szczegółowego zakresu danych podlegających wymianie pomiędzy instytucjami utworzonymi na podstawie przepisów prawa bankowego a instytucjami pożyczkowymi i innymi podmiotami Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-23 |
 | Data wydania | 2016-07-04 |
-| Wejście w życie | 2016-07-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000971) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/971/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 105 ust. 7 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 105 ust. 7 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260, 1311, 1348, 1357, 1513, 1634, 1830, 1844, 1854, 1864 i 2281 oraz z 2016 r. poz. 615 i 904.) zarządza się, co następuje:
 § 1.
 Zakres danych podlegających wymianie pomiędzy instytucjami utworzonymi na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe a instytucjami pożyczkowymi i podmiotami, o których mowa w art. 59d ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2014 r. poz. 1497, 1585 i 1662 oraz z 2015 r. poz. 1357), w celu oceny zdolności kredytowej konsumenta i analizy ryzyka kredytowego, obejmuje:
 1)
@@ -81,6 +80,5 @@ przyczyny niewykonania zobowiązania lub dopuszczenia się zwłoki w jego wykona
 k)
 nazwę i adres instytucji pożyczkowej lub podmiotu, o którym mowa w art. 59d ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260, 1311, 1348, 1357, 1513, 1634, 1830, 1844, 1854, 1864 i 2281 oraz z 2016 r. poz. 615 i 904.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260, 1311, 1348, 1357, 1513, 1634, 1830, 1844, 1854, 1864 i 2281 oraz z 2016 r. poz. 615 i 904.
 

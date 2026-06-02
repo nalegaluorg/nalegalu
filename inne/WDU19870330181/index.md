@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1987-10-23 |
 | Data wydania | 1987-10-24 |
-| Wejście w życie | 1987-10-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19870330181) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1987/181/text.pdf) |
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 27 grudnia 2018 r. zmieniające rozporządzenie w sprawie sposobu przesyłania za pomocą środków komunikacji elektronicznej ksiąg podatkowych oraz wymagań technicznych dla informatycznych nośników danych, na których te księgi mogą być zapisane i przekazywane
+# Rozporządzenie Ministra Finansówz dnia 27 grudnia 2018 r. zmieniające rozporządzenie w sprawie sposobu przesyłania za pomocą środków komunikacji elektronicznej ksiąg podatkowych oraz wymagań technicznych dla informatycznych nośników danych, na których te księgi mogą być zapisane i przekazywane Minister Finansów kieruje działem administracji rządowej ‒ finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-27 |
 | Data wydania | 2018-12-31 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2025-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002501) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2501/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 193a § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 193a § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629, 1693, 2126, 2193, 2244 i 2354.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 24 czerwca 2016 r. w sprawie sposobu przesyłania za pomocą środków komunikacji elektronicznej ksiąg podatkowych oraz wymagań technicznych dla informatycznych nośników danych, na których te księgi mogą być zapisane i przekazywane (Dz. U. z 2018 r. poz. 768) w § 2:
 1)
 w ust. 2 wyrazy „podpisem potwierdzonym profilem zaufanym ePUAP” zastępuje się wyrazami „podpisem zaufanym”;
 2)
-po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
 Podatnik będący osobą fizyczną może również opatrywać księgi przesyłane w sposób, o którym mowa w ust. 1, zestawem unikalnych danych w postaci elektronicznej dotyczących tego podatnika obejmującym:
 1)
@@ -60,9 +58,7 @@ poz. 23 zeznania o wysokości osiągniętego dochodu (poniesionej straty) w roku
 f)
 poz. 20 zeznania o wysokości osiągniętego dochodu (poniesionej straty) w roku podatkowym (PIT-39),
 g)
-poz. 38 rocznego obliczenia podatku przez organ rentowy za rok podatkowy (PIT-40A)
-za rok podatkowy o dwa lata wcześniejszy niż rok przesyłania księgi albo wartość „0” (zero), gdy za ten rok podatkowy nie złożono żadnego z wymienionych zeznań lub obliczeń; przepis ust. 5 stosuje się odpowiednio.
-” .
+poz. 38 rocznego obliczenia podatku przez organ rentowy za rok podatkowy (PIT-40A) – za rok podatkowy o dwa lata wcześniejszy niż rok przesyłania księgi albo wartość „0” (zero), gdy za ten rok podatkowy nie złożono żadnego z wymienionych zeznań lub obliczeń; przepis ust. 5 stosuje się odpowiednio. ” .
 § 2.
 Kwotą przychodu, objętą zestawem unikalnych danych w postaci elektronicznej, którym mogą być opatrywane w 2019 r. przesyłane księgi, jest kwota wskazana odpowiednio – w przypadku złożonych za 2017 r.:
 1)
@@ -74,6 +70,5 @@ zeznania o wysokości osiągniętego dochodu (poniesionej straty) w roku podatko
 4)
 zeznania o wysokości osiągniętego dochodu (poniesionej straty) w roku podatkowym (PIT-38) – w poz. 24.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej ‒ finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629, 1693, 2126, 2193, 2244 i 2354.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. 1) Minister Finansów kieruje działem administracji rządowej ‒ finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629, 1693, 2126, 2193, 2244 i 2354.
 

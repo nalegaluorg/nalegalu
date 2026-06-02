@@ -39,23 +39,17 @@ rozporządzeniem Rady Ministrów z dnia 19 grudnia 2019 r. zmieniającym rozporz
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Rady Ministrów z dnia 27 grudnia 2017 r. zmieniającego rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 2493), który stanowi:
-„
+§ 2 rozporządzenia Rady Ministrów z dnia 27 grudnia 2017 r. zmieniającego rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 2493), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 31 grudnia 2017 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2017 r. ” ;
 2)
-§ 2 rozporządzenia Rady Ministrów z dnia 27 grudnia 2018 r. zmieniającego rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 2463), który stanowi:
-„
+§ 2 rozporządzenia Rady Ministrów z dnia 27 grudnia 2018 r. zmieniającego rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 2463), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 31 grudnia 2018 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2018 r. ” ;
 3)
-§ 2 rozporządzenia Rady Ministrów z dnia 19 grudnia 2019 r. zmieniającego rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 2510), który stanowi:
-„
+§ 2 rozporządzenia Rady Ministrów z dnia 19 grudnia 2019 r. zmieniającego rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 2510), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 31 grudnia 2019 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2019 r. ” .
 Załącznik – Rozporządzenie Rady Ministrów z dnia 24 lipca 2017 r. w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin
 Na podstawie art. 4 ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2022 r. poz. 559, 583, 1005, 1079 i 1561) zarządza się, co następuje:
 § 1.
@@ -81,7 +75,7 @@ Józefów nad Wisłą – w gminie Józefów nad Wisłą, w powiecie opolskim, w
 2)
 Otyń – w gminie Otyń, w powiecie nowosolskim, w województwie lubuskim;
 3)
-(uchylony);
+(uchylony);Przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 27 grudnia 2017 r. zmieniającego rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 2493), które weszło w życie z dniem 31 grudnia 2017 r.
 4)
 Sanniki – w gminie Sanniki, w powiecie gostynińskim, w województwie mazowieckim;
 5)
@@ -92,8 +86,8 @@ Wiślica – w gminie Wiślica, w powiecie buskim, w województwie świętokrzys
 Łagów – w gminie Łagów, w powiecie kieleckim, w województwie świętokrzyskim;
 8)
 Radoszyce – w gminie Radoszyce, w powiecie koneckim, w województwie świętokrzyskim.
-§ 3a.
-(uchylony).
+§ 3aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
+(uchylony).Przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 19 grudnia 2019 r. zmieniającego rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 2510), które weszło w życie z dniem 31 grudnia 2019 r.
 § 4.
 Z dniem 1 stycznia 2018 r. ustala się granice następujących miast:
 1)
@@ -101,7 +95,7 @@ w województwie lubelskim, w powiecie opolskim, w gminie Józefów nad Wisłą �
 2)
 w województwie lubuskim, w powiecie nowosolskim, w gminie Otyń – miasta Otyń obejmujące obszar obrębu ewidencyjnego Otyń o powierzchni 786,46 ha, z gminy Otyń;
 3)
-(uchylony);
+(uchylony);Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.
 4)
 w województwie mazowieckim, w powiecie gostynińskim, w gminie Sanniki – miasta Sanniki obejmujące obszar obrębu ewidencyjnego Sanniki o powierzchni 1176,02 ha, z gminy Sanniki;
 5)
@@ -126,8 +120,8 @@ b)
 w powiecie średzkim, w gminie Środa Wielkopolska – miasta Środa Wielkopolska przez włączenie do dotychczasowego obszaru miasta części obszaru obrębu ewidencyjnego Kijewo, to jest działek ewidencyjnych nr 25, 26, 27/1, 27/2, 27/4, 27/5, 30/1, 30/4, 30/6–30/8, 30/10, 30/11, 31/1, 31/4–31/6, 31/11, 31/12, 32/1, 32/4, 32/6, 32/8, 32/10, 32/12–32/16, 33, 36–38, 39/1, 39/2, 40/1, 40/2, 41/1, 41/4, 41/6, 41/8, 41/9, 41/11, 41/13, 41/14, 41/17–41/32, 42, 43/1, 43/4–43/6, 44/2–44/4, 45, 46, 47/2–47/7, 48/1, 48/3, 49/1, 49/3, 49/5, 50/1, 50/3, 50/5, 51/2, 51/3, 51/5, 52/3–52/5, 52/7, 54, 55, 56/1, 56/2, 57/1, 57/2, 57/4, 57/5, 58/1, 58/3–58/5, 59/1–59/3, 60/1–60/3, 61/1–61/3, 62/1–62/3, 63/1–63/3, 64/1, 64/2, 65/1, 65/3, 65/4, 66/1, 67–74, 75/1, 75/2, 76/1, 76/3–76/6, 77/1, 77/2, 78/1, 78/2, 79, 80/1, 80/2, 81–83, 84/1, 85/1, 85/2, 123–140, 141/1, 142/2, 142/3, 143–146, 161/1–161/3, 162, 164–168, 169/1, 170 i 276, o łącznej powierzchni 202,17 ha, z gminy Środa Wielkopolska;
 8)
 w województwie zachodniopomorskim, w powiecie wałeckim, w gminie Mirosławiec – miasta Mirosławiec przez włączenie do dotychczasowego obszaru miasta części obszaru obrębu ewidencyjnego Mirosławiec 34, to jest działek ewidencyjnych nr 21/5, 21/8, 21/9, 21/11, 21/27–21/41, 23, 558/1, 558/2, 558/4, 558/5, 558/8–558/32, 559, 560, 561/2, 694/1–694/12, 694/15–694/21, 694/23, 694/24, 694/27–694/29 i 696, o łącznej powierzchni 9,04 ha, z gminy Mirosławiec.
-§ 4a.
-(uchylony).
+§ 4aDodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1..
+(uchylony).Przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 19 grudnia 2019 r. zmieniającego rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 2510), które weszło w życie z dniem 31 grudnia 2019 r.
 § 5.
 Z dniem 1 stycznia 2018 r. zmienia się nazwę gminy Słupia (Konecka), w województwie świętokrzyskim, w powiecie koneckim, na nazwę gmina Słupia Konecka.
 § 6.
@@ -136,10 +130,10 @@ Z dniem 1 stycznia 2018 r. zmienia się siedziby władz następujących gmin:
 w województwie łódzkim, w powiecie wieluńskim siedzibę władz gminy Biała z Biała na Biała Druga;
 2)
 w województwie pomorskim, w powiecie gdańskim siedzibę władz gminy Pruszcz Gdański z Pruszcz Gdański na Juszkowo.
-§ 7.
+§ 7W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia Rady Ministrów z dnia 27 grudnia 2018 r. zmieniającego rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 2463), które weszło w życie z dniem 31 grudnia 2018 r..
 Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r., z wyjątkiem:
 1)
 § 2, który wchodzi w życie z dniem 1 stycznia 2019 r.;
 2)
-(uchylony).
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 1) Przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 27 grudnia 2017 r. zmieniającego rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 2493), które weszło w życie z dniem 31 grudnia 2017 r. 2) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 19 grudnia 2019 r. zmieniającego rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 2510), które weszło w życie z dniem 31 grudnia 2019 r. 4) Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 5) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1. 6) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia Rady Ministrów z dnia 27 grudnia 2018 r. zmieniającego rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 2463), które weszło w życie z dniem 31 grudnia 2018 r. 7) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.
 

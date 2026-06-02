@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 marca 2019 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego oraz niektórych innych ustaw
+# Ustawa z dnia 15 marca 2019 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych, ustawę z dnia 31 maja 1996 r. o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 16 listopada 2006 r. o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych oraz ustawę z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-15 |
 | Data wydania | 2019-04-25 |
-| Wejście w życie | 2019-05-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000752) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/752/text.pdf) |
 
@@ -103,7 +102,7 @@ source: "eli-html"
 - **8)** w art. 19e: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Do spraw związanych z przyznawaniem pomocy pieniężnej przepisy art. 6 pkt 3, 10, 14 i 16, art. 8 ust. 3–13, art. 11 ust. 1, art. 12, art. 13, art. 98, art. 100, art. 104, art. 105, art. 106 ust. 1, 3a i 5, art. 107 ust. 5b-5d i art. 109 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm.) stosuje się odpowiednio. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+1. Do spraw związanych z przyznawaniem pomocy pieniężnej przepisy art. 6 pkt 3, 10, 14 i 16, art. 8 ust. 3–13, art. 11 ust. 1, art. 12, art. 13, art. 98, art. 100, art. 104, art. 105, art. 106 ust. 1, 3a i 5, art. 107 ust. 5b-5d i art. 109 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271 i 730.) stosuje się odpowiednio. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
 - **b)**
 
@@ -185,7 +184,7 @@ source: "eli-html"
 
 2. Przepis ust. 1 stosuje się również do inwalidów wojennych i wojskowych zamieszkałych za granicą w państwie, z którym Rzeczypospolitej Polskiej nie łączy umowa międzynarodowa w dziedzinie ubezpieczeń społecznych przewidująca transfer emerytur i rent. ” .
 
-**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.) w art. 21 w ust. 1:
+**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246, 2429 i 2529 oraz z 2019 r. poz. 29, 271 i 303.) w art. 21 w ust. 1:
 
 - **1)** pkt 25b otrzymuje brzmienie: „
 - **25b)** ryczałt energetyczny, świadczenie pieniężne i pomoc pieniężna wypłacane osobom uprawnionym na podstawie ustawy z dnia 16 listopada 2006 r. o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych (Dz. U. poz. 1824, z 2010 r. poz. 1465 oraz z 2011 r. poz. 696); ” ;
@@ -220,7 +219,7 @@ source: "eli-html"
 4. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, organy emerytalno-rentowe właściwe do przyznawania i wypłacania świadczenia pieniężnego, dodatku kompensacyjnego oraz ryczałtu energetycznego, a także tryb przyznawania i wypłacania tych świadczeń osobom:
 
 - **1)** niemającym ustalonego prawa do emerytury lub renty,
-- **2)** pobierającym świadczenie o charakterze rentowym z instytucji zagranicznych mając na względzie sprawną wypłatę świadczeń. Świadczenie pieniężne, dodatek kompensacyjny, ryczałt energetyczny i jednorazowe odszkodowanie oraz koszty ich obsługi finansowane są ze środków budżetu państwa. ” ;
+- **2)** pobierającym świadczenie o charakterze rentowym z instytucji zagranicznych – mając na względzie sprawną wypłatę świadczeń. Świadczenie pieniężne, dodatek kompensacyjny, ryczałt energetyczny i jednorazowe odszkodowanie oraz koszty ich obsługi finansowane są ze środków budżetu państwa. ” ;
 - **4)** w art. 5 ust. 1 otrzymuje brzmienie: „
 
 1. Świadczenie pieniężne, dodatek kompensacyjny oraz ryczałt energetyczny są przyznawane na podstawie zaświadczenia organu wojskowego potwierdzającego rodzaj i okres wykonywania przymusowego zatrudnienia w ramach zastępczej służby wojskowej, o której mowa w art. 1 ust. 1. ” ;
@@ -276,7 +275,7 @@ source: "eli-html"
 
 13. W szczególnie uzasadnionych przypadkach Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych może przyznać pomoc pieniężną na innych warunkach niż określone w ust. 4–7 i ust. 9.
 
-1. Do spraw związanych z przyznawaniem pomocy pieniężnej przepisy art. 6 pkt 3, 10, 14 i 16, art. 8 ust. 3–13, art. 11 ust. 1, art. 12, art. 13, art. 98, art. 100, art. 104, art. 105, art. 106 ust. 1, 3a i 5, art. 107 ust. 5b-5d i art. 109 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm.) stosuje się odpowiednio.
+1. Do spraw związanych z przyznawaniem pomocy pieniężnej przepisy art. 6 pkt 3, 10, 14 i 16, art. 8 ust. 3–13, art. 11 ust. 1, art. 12, art. 13, art. 98, art. 100, art. 104, art. 105, art. 106 ust. 1, 3a i 5, art. 107 ust. 5b-5d i art. 109 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271 i 730.) stosuje się odpowiednio.
 
 2. Jako kwotę dochodu, o którym mowa w art. 8 ust. 9 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, przyjmuje się kwotę ustaloną zgodnie z art. 9 ust. 6 tej ustawy.
 
@@ -343,7 +342,7 @@ source: "eli-html"
 
 13. W szczególnie uzasadnionych przypadkach Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych może przyznać pomoc pieniężną na innych warunkach niż określone w ust. 4–7 i ust. 9.
 
-1. Do spraw związanych z przyznawaniem pomocy pieniężnej przepisy art. 6 pkt 3, 10, 14 i 16, art. 8 ust. 3–13, art. 11 ust. 1, art. 12, art. 13, art. 98, art. 100, art. 104, art. 105, art. 106 ust. 1, 3a i 5, art. 107 ust. 5b-5d i art. 109 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm.) stosuje się odpowiednio.
+1. Do spraw związanych z przyznawaniem pomocy pieniężnej przepisy art. 6 pkt 3, 10, 14 i 16, art. 8 ust. 3–13, art. 11 ust. 1, art. 12, art. 13, art. 98, art. 100, art. 104, art. 105, art. 106 ust. 1, 3a i 5, art. 107 ust. 5b-5d i art. 109 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271 i 730.) stosuje się odpowiednio.
 
 2. Jako kwotę dochodu, o którym mowa w art. 8 ust. 9 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, przyjmuje się kwotę ustaloną zgodnie z art. 9 ust. 6 tej ustawy.
 
@@ -369,11 +368,11 @@ source: "eli-html"
 - **2)** tiret szóste otrzymuje brzmienie: „ – ryczałt energetyczny, emerytury i renty otrzymywane przez osoby, które utraciły wzrok w wyniku działań wojennych w latach 1939–1945 lub eksplozji pozostałych po tej wojnie niewypałów i niewybuchów, ” ;
 - **3)** tiret trzydzieste otrzymuje brzmienie: „ – świadczenie pieniężne określone w ustawie z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2018 r. poz. 690 oraz z 2019 r. poz. 730), ” .
 
-**Art. 9.** Wustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm.) w art. 8 w ust. 4 pkt 5a otrzymuje brzmienie: „
+**Art. 9.** Wustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271 i 730.) w art. 8 w ust. 4 pkt 5a otrzymuje brzmienie: „
 
 - **5a)** świadczenia pieniężnego, o którym mowa w ustawie z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2018 r. poz. 690 oraz z 2019 r. poz. 730 i 752), i pomocy pieniężnej, o której mowa w art. 19 ust. 2 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji i okresu powojennego (Dz. U. z 2018 r. poz. 276 oraz z 2019 r. poz. 752), w art. 7a ust. 2 ustawy z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych (Dz. U. z 2014 r. poz. 1373 oraz z 2019 r. poz. 752), w art. 5a ust. 2 ustawy z dnia 31 maja 1996 r. o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich (Dz. U. z 2014 r. poz. 1001, z 2018 r. poz. 1552 oraz z 2019 r. poz. 730 i 752), w art. 10a ust. 2 ustawy z dnia 16 listopada 2006 r. o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych (Dz. U. poz. 1824, z 2010 r. poz. 1465, z 2011 r. poz. 696 oraz z 2019 r. poz. 752) oraz w art. 10 ust. 2 ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych; ” .
 
-**Art. 10.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 10.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399, 447 i 730.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 w pkt 46 kropkę zastępuje się średnikiem i dodaje się pkt 47 w brzmieniu: „
 - **47)** żołnierz zastępczej służby wojskowej – osobę, o której mowa w art. 1 ust. 1 ustawy z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych (Dz. U. z 2014 r. poz. 1373 oraz z 2019 r. poz. 752). ” ;
@@ -440,11 +439,11 @@ source: "eli-html"
 
 13. W szczególnie uzasadnionych przypadkach Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych może przyznać pomoc pieniężną na innych warunkach niż określone w ust. 4–7 i ust. 9.
 
-1. Do spraw związanych z przyznawaniem pomocy pieniężnej przepisy art. 6 pkt 3, 10, 14 i 16, art. 8 ust. 3–13, art. 11 ust. 1, art. 12, art. 13, art. 98, art. 100, art. 104, art. 105, art. 106 ust. 1, 3a i 5, art. 107 ust. 5b-5d i art. 109 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm.) stosuje się odpowiednio.
+1. Do spraw związanych z przyznawaniem pomocy pieniężnej przepisy art. 6 pkt 3, 10, 14 i 16, art. 8 ust. 3–13, art. 11 ust. 1, art. 12, art. 13, art. 98, art. 100, art. 104, art. 105, art. 106 ust. 1, 3a i 5, art. 107 ust. 5b-5d i art. 109 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271, 730 i 752.) stosuje się odpowiednio.
 
 2. Jako kwotę dochodu, o którym mowa w art. 8 ust. 9 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, przyjmuje się kwotę ustaloną zgodnie z art. 9 ust. 6 tej ustawy.
 
-3. Do dochodu nie wlicza się pozostałych świadczeń pieniężnych, o których mowa w art. 36 pkt 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, kwoty zasiłku pielęgnacyjnego, o którym mowa w art. 16 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2018 r. poz. 2220, z późn. zm.), kwoty dodatku pielęgnacyjnego, o którym mowa w art. 75 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, oraz pomocy pieniężnej. ” ;
+3. Do dochodu nie wlicza się pozostałych świadczeń pieniężnych, o których mowa w art. 36 pkt 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, kwoty zasiłku pielęgnacyjnego, o którym mowa w art. 16 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2018 r. poz. 2220, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2354 oraz z 2019 r. poz. 60, 303, 577, 730 i 752.), kwoty dodatku pielęgnacyjnego, o którym mowa w art. 75 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, oraz pomocy pieniężnej. ” ;
 
 - **3)** art. 12 otrzymuje brzmienie: „ Świadczenia, ryczałt energetyczny, pomoc pieniężna, dodatki pielęgnacyjne i zasiłki pogrzebowe, o których mowa w niniejszej ustawie, koszty ich wypłat, koszty postępowania w sprawie wniosków o przyznanie świadczenia lub pomocy pieniężnej oraz koszty wydawania legitymacji, o których mowa w art. 11, finansowane są z budżetu państwa. ” . W ustawie z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2018 r. poz. 690 oraz z 2019 r. poz. 730) wprowadza się następujące zmiany:
 - **1)** w art. 7 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu: „
@@ -490,7 +489,7 @@ source: "eli-html"
 
 - **3)** w art. 11 ust. 1 otrzymuje brzmienie: „
 
-1. Do spraw związanych z przyznawaniem pomocy pieniężnej i świadczenia pieniężnego przepisy art. 6 pkt 3, 10, 14 i 16, art. 8 ust. 3–13, art. 10 ust. 1, art. 11 ust. 1, art. 12, art. 13, art. 98, art. 100, art. 104, art. 105, art. 106 ust. 1, 3, 3a i 5, art. 107 ust. 5b-5d i art. 109 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm.) stosuje się odpowiednio. ” ;
+1. Do spraw związanych z przyznawaniem pomocy pieniężnej i świadczenia pieniężnego przepisy art. 6 pkt 3, 10, 14 i 16, art. 8 ust. 3–13, art. 10 ust. 1, art. 11 ust. 1, art. 12, art. 13, art. 98, art. 100, art. 104, art. 105, art. 106 ust. 1, 3, 3a i 5, art. 107 ust. 5b-5d i art. 109 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271, 730 i 752.) stosuje się odpowiednio. ” ;
 
 - **4)** po art. 11 dodaje się art. 11a w brzmieniu: „
 
@@ -626,5 +625,5 @@ source: "eli-html"
 - **4)** ust. 1 pkt 4 i ust. 2, jest Minister Sprawiedliwości;
 - **5)** ust. 1 pkt 5 i ust. 2, jest minister właściwy do spraw wewnętrznych.
 
-**Art. 21.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 10 i art. 6, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 21.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 10 i art. 6, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych, ustawę z dnia 31 maja 1996 r. o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 16 listopada 2006 r. o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych oraz ustawę z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271 i 730. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246, 2429 i 2529 oraz z 2019 r. poz. 29, 271 i 303. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271 i 730. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271 i 730. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271 i 730. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399, 447 i 730. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271, 730 i 752. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2354 oraz z 2019 r. poz. 60, 303, 577, 730 i 752. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271, 730 i 752.
 

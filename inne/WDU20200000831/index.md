@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Sprawiedliwościz dnia 30 kwietnia 2020 r. w sprawie wyznaczenia koordynatorów delegowanych w dziale sprawiedliwość oraz zakresu zadań przekazanych do realizacji koordynatorom delegowanym
+# Rozporządzenie Ministra Sprawiedliwościz dnia 30 kwietnia 2020 r. w sprawie wyznaczenia koordynatorów delegowanych w dziale sprawiedliwość oraz zakresu zadań przekazanych do realizacji koordynatorom delegowanym Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2016/1191 z dnia 6 lipca 2016 roku w sprawie promowania swobodnego przepływu obywateli poprzez uproszczenie wymogów dotyczących przedkładania określonych dokumentów urzędowych w Unii Europejskiej i zmieniającego rozporządzenie (UE) nr 1024/2012 (Dz. Urz. UE L 200 z 26.07.2016, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-04-30 |
 | Data wydania | 2020-05-11 |
-| Wejście w życie | 2020-05-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000831) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/831/text.pdf) |
 
@@ -47,5 +46,5 @@ udzielają wyjaśnień i pomocy w zakresie sposobu korzystania z systemu IMI i j
 5)
 zapewniają sprawny przepływ informacji w zakresie określonym w rozporządzeniu 2016/1191.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2016/1191 z dnia 6 lipca 2016 roku w sprawie promowania swobodnego przepływu obywateli poprzez uproszczenie wymogów dotyczących przedkładania określonych dokumentów urzędowych w Unii Europejskiej i zmieniającego rozporządzenie (UE) nr 1024/2012 (Dz. Urz. UE L 200 z 26.07.2016, str. 1).
 

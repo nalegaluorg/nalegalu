@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 27 grudnia 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie opłat za udostępnianie informacji o środowisku
+# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 27 grudnia 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie opłat za udostępnianie informacji o środowisku Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Środowiska z dnia 12 listopada 2010 r. w sprawie opłat za udostępnianie informacji o środowisku (Dz. U. poz. 1415), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Środowiska z dnia 12 grudnia 2016 r. zmieniającym rozporządzenie w sprawie opłat za udostępnianie informacji o środowisku (Dz. U. poz. 2089).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 12 grudnia 2016 r. zmieniającego rozporządzenie w sprawie opłat za udostępnianie informacji o środowisku (Dz. U. poz. 2089), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 12 grudnia 2016 r. zmieniającego rozporządzenie w sprawie opłat za udostępnianie informacji o środowisku (Dz. U. poz. 2089), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-” .
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
-Załącznik – Rozporządzenie Ministra Środowiska z dnia 12 listopada 2010 r. w sprawie opłat za udostępnianie informacji o środowisku
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. ” . 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
+Załącznik – Rozporządzenie Ministra Środowiska z dnia 12 listopada 2010 r. w sprawie opłat za udostępnianie informacji o środowiskuObecnie działem administracji rządowej – klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 Na podstawie art. 28 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2021 r. poz. 2373 i 2389) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -48,8 +45,7 @@ współczynniki różnicujące wysokość opłat,
 3)
 sposób naliczania opłat,
 4)
-terminy i sposób uiszczania opłat
-za wyszukiwanie, przekształcanie informacji, sporządzanie kopii dokumentów lub danych oraz ich przesłanie.
+terminy i sposób uiszczania opłat – za wyszukiwanie, przekształcanie informacji, sporządzanie kopii dokumentów lub danych oraz ich przesłanie.
 § 2.
 1.
 Opłata za wyszukiwanie informacji wynosi 5 zł, jeżeli wymaga wyszukania do dziesięciu dokumentów.
@@ -77,15 +73,14 @@ Za sporządzanie kopii dokumentów lub danych, w formie wydruku lub kserokopii, 
 § 4.
 1.
 Jeżeli wniosek dotyczy udostępnienia informacji w formie elektronicznej, pobiera się opłatę nie wyższą niż 1,50 zł za każdą płytę CD lub DVD.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Środowiska z dnia 12 grudnia 2016 r. zmieniającego rozporządzenie w sprawie opłat za udostępnianie informacji o środowisku (Dz. U. poz. 2089), które weszło w życie z dniem 1 stycznia 2017 r..
 Jeżeli wniosek dotyczy udostępnienia informacji na nośnikach innych niż nośniki, o których mowa w ust. 1, władze publiczne, po uzyskaniu zgody wnioskującego, pobierają opłatę równą kosztowi zakupu nośnika.
 3.
 Po udostępnieniu informacji nośnik stanowi własność wnioskującego.
-§ 5.
+§ 5W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Za przesłanie kopii dokumentów lub danych drogą pocztową pobiera się opłatę w wysokości podanej w obowiązującym cenniku usług pocztowych lub kurierskich operatora, który obsługuje władze publiczne, za przesyłkę danego rodzaju i danej kategorii wagowej.
-§ 6.
+§ 6W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Opłaty, o których mowa w § 2–5, uiszcza się w terminie 14 dni od dnia zawiadomienia o wysokości opłaty, przez wpłatę do kasy, na rachunek bankowy właściwych władz publicznych lub przy odbiorze przesyłki. Dodatkową opłatę przy odbiorze przesyłki uiszcza również wnioskujący.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 16 listopada 2010 r.
-1) Obecnie działem administracji rządowej – klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Środowiska z dnia 12 grudnia 2016 r. zmieniającego rozporządzenie w sprawie opłat za udostępnianie informacji o środowisku (Dz. U. poz. 2089), które weszło w życie z dniem 1 stycznia 2017 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 5 czerwca 2007 r. w sprawie szczegółowych stawek opłat za udostępnianie informacji o środowisku i jego ochronie oraz sposobu uiszczania opłat (Dz. U. poz. 788), które na podstawie art. 173 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko utraciło moc z dniem 16 listopada 2010 r.
+Rozporządzenie wchodzi w życie z dniem 16 listopada 2010 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 5 czerwca 2007 r. w sprawie szczegółowych stawek opłat za udostępnianie informacji o środowisku i jego ochronie oraz sposobu uiszczania opłat (Dz. U. poz. 788), które na podstawie art. 173 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko utraciło moc z dniem 16 listopada 2010 r. 1) Obecnie działem administracji rządowej – klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Środowiska z dnia 12 grudnia 2016 r. zmieniającego rozporządzenie w sprawie opłat za udostępnianie informacji o środowisku (Dz. U. poz. 2089), które weszło w życie z dniem 1 stycznia 2017 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 5 czerwca 2007 r. w sprawie szczegółowych stawek opłat za udostępnianie informacji o środowisku i jego ochronie oraz sposobu uiszczania opłat (Dz. U. poz. 788), które na podstawie art. 173 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko utraciło moc z dniem 16 listopada 2010 r.
 

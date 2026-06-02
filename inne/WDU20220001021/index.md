@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 29 kwietnia 2022 r. w sprawie minimalnych wymagań, jakie musi spełniać ośrodek, oraz minimalnych wymagań w zakresie opieki nad zwierzętami utrzymywanymi w ośrodku
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 29 kwietnia 2022 r. w sprawie minimalnych wymagań, jakie musi spełniać ośrodek, oraz minimalnych wymagań w zakresie opieki nad zwierzętami utrzymywanymi w ośrodku Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-29 |
 | Data wydania | 2022-05-13 |
-| Wejście w życie | 2022-05-28 |
 | Ostatnia zmiana | 2025-11-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001021) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1021/text.pdf) |
 
@@ -33,7 +32,7 @@ Treść rozporządzenia
 ## Załącznik nr 2 — – Okres kwarantanny zalecany dla niektórych gatunków lub grup gatunków zwierząt
 
 Treść rozporządzenia
-Na podstawie art. 19 ustawy z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych (Dz. U. z 2021 r. poz. 1331 i 2338) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych (Dz. Urz. UE L 276 z 20.10.2010, str. 33 oraz Dz. Urz. UE L 170 z 25.06.2019, str. 115). Na podstawie art. 19 ustawy z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych (Dz. U. z 2021 r. poz. 1331 i 2338) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa minimalne wymagania:
 1)
@@ -82,7 +81,7 @@ techniczne, w tym magazynowe;
 miejsca wydzielone do:
 a)
 przechowywania:
-– paszy w rozumieniu art. 3 ust. 4 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności (Dz. Urz. WE L 31 z 01.02.2002, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 463), zwanej dalej „paszą”,
+– paszy w rozumieniu art. 3 ust. 4 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności (Dz. Urz. WE L 31 z 01.02.2002, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 245 z 29.09.2003, str. 4, Dz. Urz. UE L 100 z 08.04.2006, str. 3, Dz. Urz. UE L 179 z 07.07.2007, str. 59, Dz. Urz. UE L 60 z 05.03.2008, str. 17, Dz. Urz. UE L 188 z18.07.2009, str. 14, Dz. Urz. UE L 189 z 27.06.2014, str. 1, Dz. Urz. UE L 327 z 12.11.2014, str. 9, Dz. Urz. UE L 37 z 13.02.2015, str. 24, Dz. Urz. UE L 35 z 10.02.2017, str. 10, Dz. Urz. UE L 117 z 05.05.2017, str. 1, Dz. Urz. UE L 198 z 25.07.2019, str. 241 oraz Dz. Urz. UE L 231 z 06.09.2019, str. 1. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 463), zwanej dalej „paszą”,
 – czystej ściółki,
 – urządzeń i sprzętu,
 b)
@@ -172,7 +171,7 @@ instaluje się:
 a)
 wentylację ciągłą i awaryjną dostosowaną do potrzeb utrzymywanych zwierząt o wydajności wynoszącej co najmniej od 15 do 20 wymian powietrza na godzinę, chyba że:
 – ze względu na szczególne warunki utrzymywania zwierząt, w tym temperaturę, jest konieczne zapewnienie zwiększonej wymiany powietrza,
-– liczba utrzymywanych zwierząt jest mniejsza od liczby zwierząt wynikającej z sekcji B załącznika III do dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych (Dz. Urz. UE L 276 z 20.10.2010, str. 33, z późn. zm.) lub zwierzęta są utrzymywane w akwariach lub indywidualnie wentylowanych klatkach – w takich przypadkach zapewnia się co najmniej od 8 do 10 wymian powietrza na godzinę,
+– liczba utrzymywanych zwierząt jest mniejsza od liczby zwierząt wynikającej z sekcji B załącznika III do dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych (Dz. Urz. UE L 276 z 20.10.2010, str. 33, z późn. zm.)Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 170 z 25.06.2019, str. 115. lub zwierzęta są utrzymywane w akwariach lub indywidualnie wentylowanych klatkach – w takich przypadkach zapewnia się co najmniej od 8 do 10 wymian powietrza na godzinę,
 b)
 izolację, ogrzewanie i wentylację, które gwarantują utrzymanie poziomu kurzu i stężenia gazów na poziomie nieszkodliwym dla zwierząt,
 c)
@@ -253,8 +252,7 @@ po pozyskaniu poddaje się aklimatyzacji i kwarantannie,
 2)
 utrzymuje się i zapewnia im opiekę,
 3)
-hoduje się – w przypadku gdy są przeznaczone do rozrodu
-w warunkach dostosowanych do potrzeb danego gatunku.
+hoduje się – w przypadku gdy są przeznaczone do rozrodu – w warunkach dostosowanych do potrzeb danego gatunku.
 5.
 W odniesieniu do poszczególnych gatunków zwierząt utrzymywanych w ośrodku ośrodek spełnia warunki, które są określone w sekcji B załącznika III do dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych.
 § 7.
@@ -264,7 +262,7 @@ Osoba, o której mowa w art. 20 ust. 1 ustawy, kontroluje warunki utrzymywania i
 Oprócz kontroli, o której mowa w ust. 1, osoba, o której mowa w art. 20 ust. 1 ustawy, przeprowadza co najmniej raz dziennie kontrolę relacji w grupie zwierząt do czasu ich ustabilizowania – w przypadku zwierząt, które są po raz pierwszy wprowadzane do danej grupy lub ponownie wprowadzane do ustalonych grup, i podejmuje działania dostosowane do ustaleń dokonanych podczas tej kontroli.
 § 8.
 1.
-Transport pozyskanych zwierząt dzikich odbywa się zgodnie z wymaganiami określonymi w rozdziale II załącznika I do rozporządzenia Rady (WE) nr 1/2005 z dnia 22 grudnia 2004 r. w sprawie ochrony zwierząt podczas transportu i związanych z tym działań oraz zmieniającego dyrektywy 64/432/EWG i 93/119/WE oraz rozporządzenie (WE) nr 1255/97 (Dz. Urz. UE L 3 z 05.01.2005, str. 1, z późn. zm.).
+Transport pozyskanych zwierząt dzikich odbywa się zgodnie z wymaganiami określonymi w rozdziale II załącznika I do rozporządzenia Rady (WE) nr 1/2005 z dnia 22 grudnia 2004 r. w sprawie ochrony zwierząt podczas transportu i związanych z tym działań oraz zmieniającego dyrektywy 64/432/EWG i 93/119/WE oraz rozporządzenie (WE) nr 1255/97 (Dz. Urz. UE L 3 z 05.01.2005, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 73 z 15.03.2008, str. 35, Dz. Urz. UE L 336 z 20.12.2011, str. 86, Dz. Urz. UE L 95 z 07.04.2017, str. 1, Dz. Urz. UE L 137 z 24.05.2017, str. 40 oraz Dz. Urz. UE L 129 z 15.04.2021, str. 162..
 2.
 W miejscu pozyskiwania zwierząt dzikich zapewnia się kontenery w rozumieniu art. 2 lit. g rozporządzenia, o którym mowa w ust. 1, przeznaczone do transportu pozyskanych zwierząt dzikich, które wymagają przewiezienia na badanie lub leczenie.
 § 9.
@@ -273,12 +271,24 @@ Temperatura, w której utrzymuje się gatunki lub grupy gatunków zwierząt w o�
 2.
 Okres kwarantanny zalecany dla niektórych gatunków lub grup gatunków zwierząt jest określony w załączniku nr 2 do rozporządzenia.
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych (Dz. Urz. UE L 276 z 20.10.2010, str. 33 oraz Dz. Urz. UE L 170 z 25.06.2019, str. 115). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 245 z 29.09.2003, str. 4, Dz. Urz. UE L 100 z 08.04.2006, str. 3, Dz. Urz. UE L 179 z 07.07.2007, str. 59, Dz. Urz. UE L 60 z 05.03.2008, str. 17, Dz. Urz. UE L 188 z18.07.2009, str. 14, Dz. Urz. UE L 189 z 27.06.2014, str. 1, Dz. Urz. UE L 327 z 12.11.2014, str. 9, Dz. Urz. UE L 37 z 13.02.2015, str. 24, Dz. Urz. UE L 35 z 10.02.2017, str. 10, Dz. Urz. UE L 117 z 05.05.2017, str. 1, Dz. Urz. UE L 198 z 25.07.2019, str. 241 oraz Dz. Urz. UE L 231 z 06.09.2019, str. 1. 4) Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 170 z 25.06.2019, str. 115. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 73 z 15.03.2008, str. 35, Dz. Urz. UE L 336 z 20.12.2011, str. 86, Dz. Urz. UE L 95 z 07.04.2017, str. 1, Dz. Urz. UE L 137 z 24.05.2017, str. 40 oraz Dz. Urz. UE L 129 z 15.04.2021, str. 162. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 14 grudnia 2016 r. w sprawie minimalnych wymagań, jakie powinien spełniać ośrodek, oraz minimalnych wymagań w zakresie opieki nad zwierzętami utrzymywanymi w ośrodku (Dz. U. poz. 2139), które zgodnie z art. 15 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych (Dz. U. poz. 2338) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 14 grudnia 2016 r. w sprawie minimalnych wymagań, jakie powinien spełniać ośrodek, oraz minimalnych wymagań w zakresie opieki nad zwierzętami utrzymywanymi w ośrodku (Dz. U. poz. 2139), które zgodnie z art. 15 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych (Dz. U. poz. 2338) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych (Dz. Urz. UE L 276 z 20.10.2010, str. 33 oraz Dz. Urz. UE L 170 z 25.06.2019, str. 115). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 245 z 29.09.2003, str. 4, Dz. Urz. UE L 100 z 08.04.2006, str. 3, Dz. Urz. UE L 179 z 07.07.2007, str. 59, Dz. Urz. UE L 60 z 05.03.2008, str. 17, Dz. Urz. UE L 188 z18.07.2009, str. 14, Dz. Urz. UE L 189 z 27.06.2014, str. 1, Dz. Urz. UE L 327 z 12.11.2014, str. 9, Dz. Urz. UE L 37 z 13.02.2015, str. 24, Dz. Urz. UE L 35 z 10.02.2017, str. 10, Dz. Urz. UE L 117 z 05.05.2017, str. 1, Dz. Urz. UE L 198 z 25.07.2019, str. 241 oraz Dz. Urz. UE L 231 z 06.09.2019, str. 1. 4) Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 170 z 25.06.2019, str. 115. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 73 z 15.03.2008, str. 35, Dz. Urz. UE L 336 z 20.12.2011, str. 86, Dz. Urz. UE L 95 z 07.04.2017, str. 1, Dz. Urz. UE L 137 z 24.05.2017, str. 40 oraz Dz. Urz. UE L 129 z 15.04.2021, str. 162. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 14 grudnia 2016 r. w sprawie minimalnych wymagań, jakie powinien spełniać ośrodek, oraz minimalnych wymagań w zakresie opieki nad zwierzętami utrzymywanymi w ośrodku (Dz. U. poz. 2139), które zgodnie z art. 15 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych (Dz. U. poz. 2338) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 
 ## Załącznik nr 1 — – Temperatura, w której utrzymuje się gatunki lub grupy gatunków zwierząt w ośrodku
 
-GATUNKI LUB GRUPY GATUNKÓW ZWIERZĄT TEMPERATURA (°C)*) marmozety i tamaryny 23–28 małpy płaksowate 22–26 makaki niedźwiedzie i rezusy 16–25 makaki długoogoniaste 21–28 pawiany 16–28 myszy domoweszczury wędrownechomiki syryjskiechomiki chińskiemyszoskoczki mongolskiekawie domowe 20–24 króliki europejskiekoty domowepsy domowe 15–21 fretki 15–24 przepiórkigołębiekaczki domowegęsikury domoweindyki domowe 15–25 *) Zwierzęta bardzo młode lub bezwłose utrzymuje się w temperaturze wyższej niż podana w tabeli, dostosowanej do ich potrzeb.
+GATUNKI LUB GRUPY GATUNKÓW ZWIERZĄT TEMPERATURA (°C)*) marmozety i tamaryny 23–28 małpy płaksowate 22–26 makaki niedźwiedzie i rezusy 16–25 makaki długoogoniaste 21–28 pawiany 16–28 myszy domowe
+szczury wędrowne
+chomiki syryjskie
+chomiki chińskie
+myszoskoczki mongolskie
+kawie domowe 20–24 króliki europejskie
+koty domowe
+psy domowe 15–21 fretki 15–24 przepiórki
+gołębie
+kaczki domowe
+gęsi
+kury domowe
+indyki domowe 15–25
+*) Zwierzęta bardzo młode lub bezwłose utrzymuje się w temperaturze wyższej niż podana w tabeli, dostosowanej do ich potrzeb.
 
 ## Załącznik nr 2 — – Okres kwarantanny zalecany dla niektórych gatunków lub grup gatunków zwierząt
 

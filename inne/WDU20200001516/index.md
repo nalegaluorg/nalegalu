@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 24 sierpnia 2020 r. zmieniające rozporządzenie w sprawie warunków występowania o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej
+# Rozporządzenie Ministra Zdrowiaz dnia 24 sierpnia 2020 r. zmieniające rozporządzenie w sprawie warunków występowania o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-08-24 |
 | Data wydania | 2020-09-03 |
-| Wejście w życie | 2020-09-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001516) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1516/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 50 ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, 1492 i 1493) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 20 grudnia 2012 r. w sprawie warunków występowania o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej (Dz. U. poz. 1500 oraz z 2019 r. poz. 1621) po § 4 dodaje się § 4a w brzmieniu:
-„
+W rozporządzeniu Ministra Zdrowia z dnia 20 grudnia 2012 r. w sprawie warunków występowania o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej (Dz. U. poz. 1500 oraz z 2019 r. poz. 1621) po § 4 dodaje się § 4a w brzmieniu: „
 § 4a.
 1.
 Świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona może wystąpić do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń także za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2020 r. poz. 702 i 1493).
@@ -59,9 +57,7 @@ kod przynależności do danej grupy zawodowej niebędącej świadczeniodawcą os
 c)
 numer PESEL niebędącej świadczeniodawcą osoby uprawnionej.
 4.
-Do niebędących świadczeniodawcami osób uprawnionych występujących o sporządzenie dokumentu potwierdzającego prawo do świadczeń za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, stosuje się odpowiednio przepisy § 3 ust. 2 pkt 2.
-” .
+Do niebędących świadczeniodawcami osób uprawnionych występujących o sporządzenie dokumentu potwierdzającego prawo do świadczeń za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, stosuje się odpowiednio przepisy § 3 ust. 2 pkt 2. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 lipca 2023 r. o zmianie ustawy o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych oraz niektórych innych ustaw
+# Ustawa z dnia 13 lipca 2023 r. o zmianie ustawy o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego, ustawę z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu, ustawę z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym, ustawę z dnia 12 kwietnia 2018 r. o zasadach pozyskiwania informacji o niekaralności osób ubiegających się o zatrudnienie i osób zatrudnionych w podmiotach sektora finansowego i ustawę z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego oraz uchyla się ustawę z dnia 8 czerwca 2001 r. o dopłatach do oprocentowania kredytów eksportowych o stałych stopach procentowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-13 |
 | Data wydania | 2023-09-13 |
-| Wejście w życie | 2023-09-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001859) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1859/text.pdf) |
 
@@ -30,14 +29,18 @@ source: "eli-html"
 
 - **1)** w tytule ustawy ogólne określenie przedmiotu ustawy otrzymuje brzmienie: „ o ubezpieczeniach gwarantowanych przez Skarb Państwa ” ;
 - **2)** użyte w art. 1 w ust. 1 i w ust. 3 we wprowadzeniu do wyliczenia, w art. 2 w ust. 1a we wprowadzeniu do wyliczenia i w ust. 3, w art. 3 w ust. 3, w art. 5 w ust. 1, w art. 6 w ust. 2 we wprowadzeniu do wyliczenia oraz w art. 6f w ust. 1 we wprowadzeniu do wyliczenia i w ust. 3, w różnej liczbie i różnym przypadku, wyrazy „ubezpieczenie eksportowe” zastępuje się użytymi w odpowiedniej liczbie i odpowiednim przypadku wyrazami „ubezpieczenie gwarantowane”;
-- **3)** w art. 1: w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Ubezpieczenie udzielane przez podmiot, o którym mowa w art. 5 ust. 1, na podstawie ustawy, zwane dalej „ubezpieczeniem gwarantowanym”, dotyczy: ” , – w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ instrumentów finansujących, rozumianych jako umowa lub inna czynność służąca finansowaniu, w całości albo części, kontraktów eksportowych, umów lub inwestycji, o których mowa w pkt 2–5, albo służąca finansowaniu podmiotu, o którym mowa w art. 6 ust. 1 pkt 1 lit. a, pkt 2 lub pkt 5 lit. a, w szczególności: ” , – pkt 3 otrzymuje brzmienie: „ 3) inwestycji bezpośrednich za granicą lub inwestycji podejmowanych w celu realizacji kontraktów eksportowych; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „ 5) umów lub inwestycji realizowanych na terytorium Rzeczypospolitej Polskiej, umożliwiających rozpoczynanie, kontynuowanie lub rozwijanie działalności gospodarczej wnoszącej istotny wkład w łagodzenie zmian klimatu, o której mowa w art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniającego rozporządzenie (UE) 2019/2088 (Dz. Urz. UE L 198 z 22.06.2020, str. 13, z późn. zm.), zwanego dalej „rozporządzeniem 2020/852”; 6) ryzyk pokrywanych ubezpieczeniami, o których mowa w dziale II w grupach 3–7 i 9–16 załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2023 r. poz. 656, 614, 825 i 1723), o ile ryzyka te nie wystąpiły na terytorium Rzeczypospolitej Polskiej – w przypadkach, o których mowa w przepisach wydanych na podstawie art. 2 ust. 10. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **3)** w art. 1: w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Ubezpieczenie udzielane przez podmiot, o którym mowa w art. 5 ust. 1, na podstawie ustawy, zwane dalej „ubezpieczeniem gwarantowanym”, dotyczy: ” , – w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ instrumentów finansujących, rozumianych jako umowa lub inna czynność służąca finansowaniu, w całości albo części, kontraktów eksportowych, umów lub inwestycji, o których mowa w pkt 2–5, albo służąca finansowaniu podmiotu, o którym mowa w art. 6 ust. 1 pkt 1 lit. a, pkt 2 lub pkt 5 lit. a, w szczególności: ” , pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** inwestycji bezpośrednich za granicą lub inwestycji podejmowanych w celu realizacji kontraktów eksportowych; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „
+- **5)** umów lub inwestycji realizowanych na terytorium Rzeczypospolitej Polskiej, umożliwiających rozpoczynanie, kontynuowanie lub rozwijanie działalności gospodarczej wnoszącej istotny wkład w łagodzenie zmian klimatu, o której mowa w art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniającego rozporządzenie (UE) 2019/2088 (Dz. Urz. UE L 198 z 22.06.2020, str. 13, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 156 z 09.06.2022, str. 159., zwanego dalej „rozporządzeniem 2020/852”;
+- **6)** ryzyk pokrywanych ubezpieczeniami, o których mowa w dziale II w grupach 3–7 i 9–16 załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2023 r. poz. 656, 614, 825 i 1723), o ile ryzyka te nie wystąpiły na terytorium Rzeczypospolitej Polskiej – w przypadkach, o których mowa w przepisach wydanych na podstawie art. 2 ust. 10. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. W przypadku gdy ubezpieczający lub ubezpieczony, któremu zostało udzielone ubezpieczenie gwarantowane dotyczące ryzyka nierynkowego, nabywa towary lub usługi od kontrahenta zagranicznego, ochroną ubezpieczeniową w ramach tego ubezpieczenia gwarantowanego mogą zostać objęte również szkody poniesione odpowiednio przez ubezpieczającego lub ubezpieczonego w wyniku niewykonania lub nienależytego wykonania umowy przez tego kontrahenta. ” , w ust. 3 pkt 4 otrzymuje brzmienie: „
 
 - **c)**
-- **4)** udziału w ubezpieczeniu udzielonym przez agencję kredytów eksportowych w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 1233/2011 z dnia 16 listopada 2011 r. w sprawie zastosowania niektórych wytycznych w dziedzinie oficjalnie wspieranych kredytów eksportowych oraz uchylającego decyzje Rady 2001/76/WE i 2001/77/WE (Dz. Urz. UE L 326 z 08.12.2011, str. 45, z późn. zm.), zwaną dalej „agencją kredytów eksportowych”. ” , dodaje się ust. 4 w brzmieniu: „
+- **4)** udziału w ubezpieczeniu udzielonym przez agencję kredytów eksportowych w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 1233/2011 z dnia 16 listopada 2011 r. w sprawie zastosowania niektórych wytycznych w dziedzinie oficjalnie wspieranych kredytów eksportowych oraz uchylającego decyzje Rady 2001/76/WE i 2001/77/WE (Dz. Urz. UE L 326 z 08.12.2011, str. 45, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 207 z 02.08.2013, str. 1, Dz. Urz. UE L 36 z 11.02.2016, str. 1, Dz. Urz. UE L 37 z 09.02.2018, str. 1 oraz Dz. Urz. UE L 38 z 08.02.2023, str. 1., zwaną dalej „agencją kredytów eksportowych”. ” , dodaje się ust. 4 w brzmieniu: „
     - **d)**
 
 4. Ubezpieczenie gwarantowane dotyczące ryzyk pokrywanych ubezpieczeniami, o których mowa w dziale II w grupach 3–7 i 9–16 załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, może być realizowane wyłącznie w formie ubezpieczenia pośredniego (reasekuracji) lub udziału w ubezpieczeniu udzielonym przez agencję kredytów eksportowych. ” ;
@@ -45,10 +48,15 @@ source: "eli-html"
 - **4)** w art. 2: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Celem ubezpieczeń gwarantowanych jest umożliwienie polskim przedsiębiorcom udziału w międzynarodowym obrocie handlowym oraz wzrostu ich aktywności na arenie międzynarodowej oraz ochrona podmiotów prywatnych i publicznych na wypadek strat poniesionych w związku z działaniami służącymi transformacji energetycznej Rzeczypospolitej Polskiej w zakresie realizacji celów Porozumienia paryskiego do Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu, sporządzonej w Nowym Jorku dnia 9 maja 1992 r., przyjętego w Paryżu dnia 12 grudnia 2015 r. (Dz. U. z 2017 r. poz. 36 i 37). ” , w ust. 1a: – pkt 1 otrzymuje brzmienie: „ 1) instrumentów finansujących – ochrona jednostek finansujących na wypadek strat poniesionych w związku z finansowaniem, w całości albo części, kontraktu eksportowego, umowy lub inwestycji, o których mowa w art. 1 ust. 2 pkt 2–5, lub podmiotów, o których mowa w art. 6 ust. 1 pkt 1 lit. a, pkt 2 lub pkt 5 lit. a; ” , – pkt 3 i 4 otrzymują brzmienie: „ 3) inwestycji bezpośrednich za granicą lub inwestycji podejmowanych w celu realizacji kontraktów eksportowych – ochrona krajowych przedsiębiorców na wypadek strat poniesionych w związku z realizacją inwestycji bezpośredniej za granicą lub inwestycji podejmowanej w celu realizacji kontraktu eksportowego, a także przedsiębiorców zależnych na wypadek strat poniesionych w związku z realizacją inwestycji za granicą, podejmowanej w celu sprzedaży za granicą towarów i usług; 4) umów przedsiębiorców zależnych – ochrona przedsiębiorców zależnych na wypadek strat poniesionych w związku ze sprzedażą za granicą towarów i usług, które stanowiły towary lub usługi krajowe; ” , – dodaje się pkt 5 i 6 w brzmieniu: „ 5) umów lub inwestycji realizowanych na terytorium Rzeczypospolitej Polskiej, umożliwiających rozpoczynanie, kontynuowanie lub rozwijanie działalności gospodarczej wnoszącej istotny wkład w łagodzenie zmian klimatu, o której mowa w art. 10 rozporządzenia 2020/852 – ochrona podmiotów prywatnych i publicznych na wypadek strat poniesionych w związku z realizacją takiej umowy lub inwestycji; 6) ryzyk pokrywanych ubezpieczeniami, o których mowa w dziale II w grupach 3–7 i 9–16 załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej – ochrona zakładów ubezpieczeń i agencji kredytów eksportowych, udzielających ochrony ubezpieczeniowej na wypadek strat poniesionych w związku z ubezpieczaniem ryzyk poza terytorium Rzeczypospolitej Polskiej. ” , ust. 2 otrzymuje brzmienie: „
+1. Celem ubezpieczeń gwarantowanych jest umożliwienie polskim przedsiębiorcom udziału w międzynarodowym obrocie handlowym oraz wzrostu ich aktywności na arenie międzynarodowej oraz ochrona podmiotów prywatnych i publicznych na wypadek strat poniesionych w związku z działaniami służącymi transformacji energetycznej Rzeczypospolitej Polskiej w zakresie realizacji celów Porozumienia paryskiego do Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu, sporządzonej w Nowym Jorku dnia 9 maja 1992 r., przyjętego w Paryżu dnia 12 grudnia 2015 r. (Dz. U. z 2017 r. poz. 36 i 37). ” , w ust. 1a: pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **1)** instrumentów finansujących – ochrona jednostek finansujących na wypadek strat poniesionych w związku z finansowaniem, w całości albo części, kontraktu eksportowego, umowy lub inwestycji, o których mowa w art. 1 ust. 2 pkt 2–5, lub podmiotów, o których mowa w art. 6 ust. 1 pkt 1 lit. a, pkt 2 lub pkt 5 lit. a; ” , pkt 3 i 4 otrzymują brzmienie: „
+- **3)** inwestycji bezpośrednich za granicą lub inwestycji podejmowanych w celu realizacji kontraktów eksportowych – ochrona krajowych przedsiębiorców na wypadek strat poniesionych w związku z realizacją inwestycji bezpośredniej za granicą lub inwestycji podejmowanej w celu realizacji kontraktu eksportowego, a także przedsiębiorców zależnych na wypadek strat poniesionych w związku z realizacją inwestycji za granicą, podejmowanej w celu sprzedaży za granicą towarów i usług;
+- **4)** umów przedsiębiorców zależnych – ochrona przedsiębiorców zależnych na wypadek strat poniesionych w związku ze sprzedażą za granicą towarów i usług, które stanowiły towary lub usługi krajowe; ” , dodaje się pkt 5 i 6 w brzmieniu: „
+- **5)** umów lub inwestycji realizowanych na terytorium Rzeczypospolitej Polskiej, umożliwiających rozpoczynanie, kontynuowanie lub rozwijanie działalności gospodarczej wnoszącej istotny wkład w łagodzenie zmian klimatu, o której mowa w art. 10 rozporządzenia 2020/852 – ochrona podmiotów prywatnych i publicznych na wypadek strat poniesionych w związku z realizacją takiej umowy lub inwestycji;
+- **6)** ryzyk pokrywanych ubezpieczeniami, o których mowa w dziale II w grupach 3–7 i 9–16 załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej – ochrona zakładów ubezpieczeń i agencji kredytów eksportowych, udzielających ochrony ubezpieczeniowej na wypadek strat poniesionych w związku z ubezpieczaniem ryzyk poza terytorium Rzeczypospolitej Polskiej. ” , ust. 2 otrzymuje brzmienie: „
+    - **c)**
 
 2. Celem gwarancji ubezpieczeniowej jest umożliwienie krajowym przedsiębiorcom oraz przedsiębiorcom zależnym zawarcia lub realizacji kontraktów eksportowych, umów lub inwestycji, o których mowa w art. 1 ust. 2 pkt 2–5. ” , w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Ubezpieczenie instrumentów, o których mowa w art. 1 ust. 2 pkt 1, obejmuje szkody poniesione przez jednostkę finansującą w związku z finansowaniem kontraktów eksportowych, umów lub inwestycji, o których mowa w art. 1 ust. 2 pkt 2–5, lub finansowaniem podmiotu, o którym mowa w art. 6 ust. 1 pkt 1 lit. a, pkt 2 lub pkt 5 lit. a, jeżeli szkody te są następstwem zdarzeń określonych jako: ” , ust. 6 otrzymuje brzmienie: „
 
@@ -67,7 +75,7 @@ source: "eli-html"
 8a. Ubezpieczenie umów lub inwestycji realizowanych na terytorium Rzeczypospolitej Polskiej, umożliwiających rozpoczynanie, kontynuowanie lub rozwijanie działalności gospodarczej wnoszącej istotny wkład w łagodzenie zmian klimatu, o której mowa w art. 10 rozporządzenia 2020/852, obejmuje szkody poniesione przez ubezpieczającego lub ubezpieczonego:
 
 - **1)** w wyniku niewykonania lub nienależytego wykonania umowy przez kontrahenta albo
-- **2)** w wyniku realizacji inwestycji pod warunkiem że szkody te są następstwem zdarzeń określonych jako ryzyko handlowe, polityczne lub nierynkowe.
+- **2)** w wyniku realizacji inwestycji – pod warunkiem że szkody te są następstwem zdarzeń określonych jako ryzyko handlowe, polityczne lub nierynkowe.
 
 8b. W ramach ubezpieczeń gwarantowanych, o których mowa w art. 1 ust. 2 pkt 6, podmiot, o którym mowa w art. 5 ust. 1, zgodnie z art. 1 ust. 4 przejmuje ryzyko cedowane przez zakład ubezpieczeń albo agencję kredytów eksportowych, wynikające z zawartych przez te podmioty umów ubezpieczenia, pod warunkiem że szkody są następstwem zdarzeń określonych jako ryzyko nadzwyczajne, zgodnie z przepisami wydanymi na podstawie ust. 10, w zakresie, w jakim zaistniały w toku wykonywania działalności gospodarczej przez przedsiębiorców krajowych, oddziały przedsiębiorców zagranicznych mające siedzibę na terytorium Rzeczypospolitej Polskiej lub przedsiębiorców zależnych, również w przypadku gdy podmiot w ramach tej działalności korzysta z instrumentów, o których mowa w art. 1 ust. 2 pkt 1.
 
@@ -108,7 +116,7 @@ source: "eli-html"
     - **b)**
 
 - **2)** oddziały przedsiębiorców zagranicznych mające siedzibę na terytorium Rzeczypospolitej Polskiej, które dokonują eksportu krajowych towarów i usług, z uwzględnieniem ust. 2;
-- **3)** podmioty prywatne lub publiczne: zawierające umowy lub dokonujące inwestycji które mają być realizowane na terytorium Rzeczypospolitej Polskiej i umożliwiają rozpoczynanie, kontynuowanie lub rozwijanie działalności gospodarczej wnoszącej istotny wkład w łagodzenie zmian klimatu, o której mowa w art. 10 rozporządzenia 2020/852;
+- **3)** podmioty prywatne lub publiczne: zawierające umowy lub dokonujące inwestycji – które mają być realizowane na terytorium Rzeczypospolitej Polskiej i umożliwiają rozpoczynanie, kontynuowanie lub rozwijanie działalności gospodarczej wnoszącej istotny wkład w łagodzenie zmian klimatu, o której mowa w art. 10 rozporządzenia 2020/852;
     - **a)**
     - **b)**
 
@@ -128,10 +136,22 @@ source: "eli-html"
 
 - **3)** dotyczy umów lub inwestycji, o których mowa w art. 1 ust. 2 pkt 5;
 - **4)** dotyczy ryzyk pokrywanych ubezpieczeniami, o których mowa w art. 1 ust. 2 pkt 6. ” ;
-- **10)** w art. 7: w ust. 1 wyraz „Eksportowych” zastępuje się wyrazami „Gwarantowanych przez Skarb Państwa”, w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) określanie szczegółowych zasad działalności Korporacji w zakresie ubezpieczeń gwarantowanych, z uwzględnieniem standardów obowiązujących w państwach członkowskich Unii Europejskiej; ” , – pkt 3–7 otrzymują brzmienie: „ 3) określanie szczegółowych kryteriów branych przez Komitet pod uwagę przy ocenie zaistnienia interesu Rzeczypospolitej Polskiej, o którym mowa w art. 6 ust. 3; 4) opiniowanie wniosków o ubezpieczenie gwarantowane oraz zleceń udzielenia gwarancji ubezpieczeniowej w ramach limitu, o którym mowa w art. 5a; 5) ustalanie zakresu uprawnień Korporacji do podejmowania decyzji dotyczących zawierania umów ubezpieczenia gwarantowanego; 6) klasyfikowanie krajów w zależności od stopnia ryzyka; 7) ocena zaistnienia interesu Rzeczypospolitej Polskiej, o którym mowa w art. 6 ust. 3, w odniesieniu do ubezpieczenia gwarantowanego, o którym mowa w art. 6 ust. 2 pkt 2; ” , – dodaje się pkt 8 i 9 w brzmieniu: „ 8) rozpatrywanie rocznych sprawozdań Korporacji z jej działalności, obejmujących: a) stan zobowiązań z tytułu zawartych umów ubezpieczenia gwarantowanego i umów kredytowych oraz stopień wykorzystania limitu, o którym mowa w art. 5a, b) przychody ze składek, wynagrodzenia z tytułu udzielonych gwarancji ubezpieczeniowych, wypłacone odszkodowania i kwoty gwarancji ubezpieczeniowych oraz uzyskane kwoty regresów, c) przewidywane zobowiązania z tytułu umów ubezpieczeń gwarantowanych na poszczególne lata; 9) rozpatrywanie propozycji zmian w działalności Korporacji i przedstawianie ich ministrowi właściwemu do spraw gospodarki. ” ;
+- **10)** w art. 7: w ust. 1 wyraz „Eksportowych” zastępuje się wyrazami „Gwarantowanych przez Skarb Państwa”, w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **a)**
     - **b)**
 
+- **1)** określanie szczegółowych zasad działalności Korporacji w zakresie ubezpieczeń gwarantowanych, z uwzględnieniem standardów obowiązujących w państwach członkowskich Unii Europejskiej; ” , pkt 3–7 otrzymują brzmienie: „
+- **3)** określanie szczegółowych kryteriów branych przez Komitet pod uwagę przy ocenie zaistnienia interesu Rzeczypospolitej Polskiej, o którym mowa w art. 6 ust. 3;
+- **4)** opiniowanie wniosków o ubezpieczenie gwarantowane oraz zleceń udzielenia gwarancji ubezpieczeniowej w ramach limitu, o którym mowa w art. 5a;
+- **5)** ustalanie zakresu uprawnień Korporacji do podejmowania decyzji dotyczących zawierania umów ubezpieczenia gwarantowanego;
+- **6)** klasyfikowanie krajów w zależności od stopnia ryzyka;
+- **7)** ocena zaistnienia interesu Rzeczypospolitej Polskiej, o którym mowa w art. 6 ust. 3, w odniesieniu do ubezpieczenia gwarantowanego, o którym mowa w art. 6 ust. 2 pkt 2; ” , dodaje się pkt 8 i 9 w brzmieniu: „
+- **8)** rozpatrywanie rocznych sprawozdań Korporacji z jej działalności, obejmujących: stan zobowiązań z tytułu zawartych umów ubezpieczenia gwarantowanego i umów kredytowych oraz stopień wykorzystania limitu, o którym mowa w art. 5a, przychody ze składek, wynagrodzenia z tytułu udzielonych gwarancji ubezpieczeniowych, wypłacone odszkodowania i kwoty gwarancji ubezpieczeniowych oraz uzyskane kwoty regresów, przewidywane zobowiązania z tytułu umów ubezpieczeń gwarantowanych na poszczególne lata;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **9)** rozpatrywanie propozycji zmian w działalności Korporacji i przedstawianie ich ministrowi właściwemu do spraw gospodarki. ” ;
 - **11)** art. 7a otrzymuje brzmienie: „
 
 **Art. 7a.** W skład Komitetu wchodzą, powołani przez Prezesa Rady Ministrów, po jednym przedstawicielu:
@@ -141,15 +161,20 @@ source: "eli-html"
 - **3)** ministra właściwego do spraw gospodarki,
 - **4)** ministra właściwego do spraw klimatu,
 - **5)** ministra właściwego do spraw rynków rolnych,
-- **6)** ministra właściwego do spraw zagranicznych w randze sekretarza albo podsekretarza stanu. ” ;
+- **6)** ministra właściwego do spraw zagranicznych – w randze sekretarza albo podsekretarza stanu. ” ;
 - **12)** w art. 10: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Rozliczenia finansowe związane z ubezpieczeniami gwarantowanymi w zakresie uregulowanym ustawą są prowadzone przez Korporację na wyodrębnionym rachunku bankowym. ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) składki oraz wynagrodzenia z tytułu zawartych umów ubezpieczenia gwarantowanego oraz opłaty administracyjne, w szczególności z tytułu rozpatrywania wniosków o udzielenie ubezpieczenia gwarantowanego lub wniosków o zmianę warunków ubezpieczenia gwarantowanego; ” , – uchyla się pkt 5, – pkt 6 otrzymuje brzmienie: „ 6) pożyczki, o których mowa w art. 13 ust. 1; ” , w ust. 2a: – uchyla się pkt 7 i 8, – pkt 9 otrzymuje brzmienie: „ 9) spłaty pożyczek otrzymanych zgodnie z art. 13 ust. 1; ” , – pkt 11 otrzymuje brzmienie: „ 11) wynagrodzenie i wynagrodzenie dodatkowe za prowadzenie ubezpieczeń gwarantowanych, o których mowa w art. 14 ust. 1; ” , ust. 6 otrzymuje brzmienie: „
+1. Rozliczenia finansowe związane z ubezpieczeniami gwarantowanymi w zakresie uregulowanym ustawą są prowadzone przez Korporację na wyodrębnionym rachunku bankowym. ” , w ust. 2: pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
-- **d)**
+- **1)** składki oraz wynagrodzenia z tytułu zawartych umów ubezpieczenia gwarantowanego oraz opłaty administracyjne, w szczególności z tytułu rozpatrywania wniosków o udzielenie ubezpieczenia gwarantowanego lub wniosków o zmianę warunków ubezpieczenia gwarantowanego; ” , – uchyla się pkt 5, pkt 6 otrzymuje brzmienie: „
+- **6)** pożyczki, o których mowa w art. 13 ust. 1; ” , w ust. 2a: uchyla się pkt 7 i 8, – pkt 9 otrzymuje brzmienie: „
+    - **c)**
+
+- **9)** spłaty pożyczek otrzymanych zgodnie z art. 13 ust. 1; ” , pkt 11 otrzymuje brzmienie: „
+- **11)** wynagrodzenie i wynagrodzenie dodatkowe za prowadzenie ubezpieczeń gwarantowanych, o których mowa w art. 14 ust. 1; ” , ust. 6 otrzymuje brzmienie: „
+    - **d)**
 
 6. W przypadku ogłoszenia upadłości Korporacji, środki pieniężne zgromadzone na rachunku, o którym mowa w ust. 1, nie wchodzą do masy upadłościowej. Środki te minister właściwy do spraw gospodarki przeznacza na zaspokojenie zawartych przez Korporację umów ubezpieczeń gwarantowanych, nadwyżkę zaś przekazuje do budżetu państwa. ” ;
 
@@ -190,7 +215,7 @@ source: "eli-html"
 3. Do działalności Korporacji w zakresie uregulowanym niniejszą ustawą nie stosuje się przepisów:
 
 - **1)** art. 17 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2023 r. poz. 973 i 1859);
-- **2)** art. 3801 § 1 pkt 4 i 5 oraz art. 3841 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, z późn. zm.). ” .
+- **2)** art. 3801 § 1 pkt 4 i 5 oraz art. 3841 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1488, 2280 i 2436 oraz z 2023 r. poz. 739, 825 i 1705.). ” .
 
 **Art. 2.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301 oraz z 2023 r. poz. 605 i 650) wprowadza się następujące zmiany:
 
@@ -280,7 +305,7 @@ source: "eli-html"
 - **2)** termin przekazywania Bankowi Gospodarstwa Krajowego przez ministra właściwego do spraw finansów publicznych, na wyodrębniony rachunek, o którym mowa w art. 4 ust. 3 ustawy uchylanej w art. 19, środków budżetowych, o których mowa w art. 4 ust. 1 pkt 1 tej ustawy,
 - **3)** oprocentowanie środków na wyodrębnionym rachunku, o którym mowa w art. 4 ust. 3 ustawy uchylanej w art. 19,
 - **4)** sposób przyjmowania rynkowej stawki oprocentowania krótkoterminowego dla poszczególnych walut,
-- **5)** termin ustalania przez ministra właściwego do spraw finansów publicznych minimalnej wysokości stałej stopy procentowej kredytów eksportowych dla złotego które obowiązują do czasu wygaśnięcia zobowiązań wynikających z umów, o których mowa w art. 10 ust. 1 pkt 2 ustawy uchylanej w art. 19.
+- **5)** termin ustalania przez ministra właściwego do spraw finansów publicznych minimalnej wysokości stałej stopy procentowej kredytów eksportowych dla złotego – które obowiązują do czasu wygaśnięcia zobowiązań wynikających z umów, o których mowa w art. 10 ust. 1 pkt 2 ustawy uchylanej w art. 19.
 
 2. Przepis ust. 1 stosuje się odpowiednio do umowy, o której mowa w art. 5 ust. 2 ustawy zmienianej w art. 3, zawartej po dniu 31 grudnia 2023 r. pomiędzy ministrem właściwym do spraw finansów publicznych a Bankiem Gospodarstwa Krajowego, dotyczącej realizacji programów rządowych, o których mowa w art. 5 ust. 1 pkt 3 ustawy zmienianej w art. 3.
 
@@ -297,6 +322,6 @@ source: "eli-html"
 **Art. 20.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 3, art. 13, art. 14, art. 16 i art. 19, które wchodzą w życie z dniem 1 stycznia 2024 r.;
-- **2)** art. 7 i art. 17, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+- **2)** art. 7 i art. 17, które wchodzą w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego, ustawę z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu, ustawę z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym, ustawę z dnia 12 kwietnia 2018 r. o zasadach pozyskiwania informacji o niekaralności osób ubiegających się o zatrudnienie i osób zatrudnionych w podmiotach sektora finansowego i ustawę z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego oraz uchyla się ustawę z dnia 8 czerwca 2001 r. o dopłatach do oprocentowania kredytów eksportowych o stałych stopach procentowych. 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 156 z 09.06.2022, str. 159. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 207 z 02.08.2013, str. 1, Dz. Urz. UE L 36 z 11.02.2016, str. 1, Dz. Urz. UE L 37 z 09.02.2018, str. 1 oraz Dz. Urz. UE L 38 z 08.02.2023, str. 1. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1488, 2280 i 2436 oraz z 2023 r. poz. 739, 825 i 1705.
 
 

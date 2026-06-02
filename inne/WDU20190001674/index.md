@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 28 sierpnia 2019 r. w sprawie oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 28 sierpnia 2019 r. w sprawie oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-28 |
 | Data wydania | 2019-09-02 |
-| Wejście w życie | 2019-09-03 |
 | Ostatnia zmiana | 2025-06-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001674) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1674/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Ocenianie, klasyfikowanie i promowanie uczniów Rozdział 3 – Egzamin dyplomowy Rozdział 4 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 44zq ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2019 r. poz. 1481) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe warunki i sposób oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych, o których mowa w rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 26 maja 2017 r. w sprawie typów szkół artystycznych publicznych i niepublicznych (Dz. U. poz. 1125 oraz z 2018 r. poz. 2485).
 § 2.
@@ -58,6 +58,7 @@ d)
 w szkole baletowej – taniec klasyczny,
 e)
 w szkole sztuki cyrkowej – specjalność artystyczną.
+Ocenianie, klasyfikowanie i promowanie uczniów
 § 3.
 Wymagania edukacyjne, o których mowa w art. 44zd ust. 6 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty, zwanej dalej „ustawą o systemie oświaty”, dostosowuje się do indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych ucznia:
 1)
@@ -91,8 +92,7 @@ plastyki w szkole muzycznej i szkole baletowej,
 2)
 chóru w szkole muzycznej,
 3)
-muzyki w liceum sztuk plastycznych
-na podstawie opinii o ograniczonych możliwościach uczestniczenia ucznia w tych zajęciach, wydanej przez lekarza, na czas określony w tej opinii.
+muzyki w liceum sztuk plastycznych – na podstawie opinii o ograniczonych możliwościach uczestniczenia ucznia w tych zajęciach, wydanej przez lekarza, na czas określony w tej opinii.
 4.
 Jeżeli okres zwolnienia ucznia z realizacji obowiązkowych zajęć edukacyjnych, o którym mowa w ust. 2 i 3, uniemożliwia ustalenie śródrocznej lub rocznej, a w przypadku szkoły policealnej – semestralnej oceny klasyfikacyjnej, w dokumentacji przebiegu nauczania zamiast oceny klasyfikacyjnej wpisuje się „zwolniony” albo „zwolniona”.
 § 6.
@@ -431,6 +431,7 @@ Rada pedagogiczna rozpatruje wniosek nie później niż do dnia 15 października
 Dyrektor szkoły artystycznej niezwłocznie informuje rodziców albo pełnoletniego ucznia o wyrażeniu przez radę pedagogiczną zgody na realizowanie przez ucznia obowiązkowych zajęć edukacyjnych w ciągu dwóch kolejnych lat albo niewyrażeniu takiej zgody wraz z podaniem przyczyny.
 6.
 W przypadku wyrażenia zgody na realizowanie obowiązkowych zajęć edukacyjnych w ciągu dwóch kolejnych lat, uczeń nie jest klasyfikowany w pierwszym roku realizacji tych zajęć.
+Egzamin dyplomowy
 § 24.
 1.
 W ogólnokształcącej szkole muzycznej II stopnia i szkole muzycznej II stopnia egzamin dyplomowy obejmuje:
@@ -584,6 +585,7 @@ zadania egzaminacyjne oraz opis realizacji części praktycznej egzaminu;
 oceny uzyskane z części praktycznej i części teoretycznej egzaminu, a w przypadku części praktycznej, o której mowa w § 24 ust. 1 pkt 1 lit. a i b oraz § 26 ust. 1 pkt 1 – wraz z uzyskaną przez ucznia liczbą punktów.
 2.
 Protokół podpisują osoby wchodzące w skład komisji dyplomowej. Do protokołu dołącza się pisemne prace ucznia. Protokół stanowi załącznik do arkusza ocen ucznia.
+Przepisy przejściowe i końcowe
 § 40.
 Opinie poradni psychologiczno-pedagogicznych, w tym poradni specjalistycznych, o specyficznych trudnościach w uczeniu się wydane przed dniem wejścia w życie rozporządzenia zachowują ważność i mogą być podstawą dostosowania wymagań edukacyjnych, o których mowa w art. 44zd ust. 6 pkt 1 ustawy o systemie oświaty, do indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych ucznia szkoły artystycznej.
 § 41.
@@ -592,16 +594,23 @@ Opinie o ograniczonych możliwościach wykonywania przez ucznia określonych ćw
 2.
 Opinie o braku możliwości uczestniczenia ucznia w zajęciach wychowania fizycznego i informatyki wydane przed dniem wejścia w życie rozporządzenia zachowują ważność i mogą być podstawą zwolnienia ucznia szkoły artystycznej z realizacji tych zajęć, na czas określony w tych opiniach.
 § 42.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 16 maja 2018 r. w sprawie oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych (Dz. U. poz. 1023 oraz z 2019 r. poz. 608), które utraciło moc z dniem 1 września 2019 r. w związku z wejściem w życie ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 16 maja 2018 r. w sprawie oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych (Dz. U. poz. 1023 oraz z 2019 r. poz. 608), które utraciło moc z dniem 1 września 2019 r. w związku z wejściem w życie ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287). 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 16 maja 2018 r. w sprawie oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych (Dz. U. poz. 1023 oraz z 2019 r. poz. 608), które utraciło moc z dniem 1 września 2019 r. w związku z wejściem w życie ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Ocenianie, klasyfikowanie i promowanie uczniów
+#### Rozdział 2 – Ocenianie, klasyfikowanie i promowanie uczniów
 
-#### Rozdział 3 Egzamin dyplomowy
+#### Rozdział 3 – Egzamin dyplomowy
+
+#### Rozdział 4 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 
 ## Część praktyczna, o której mowa w ust. 1 pkt 1 lit. a, jest dostępna dla publiczności.
 
-#### Rozdział 4 Przepisy przejściowe i końcowe
+#### Rozdział 4
 

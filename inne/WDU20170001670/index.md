@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-28 |
 | Data wydania | 2017-09-01 |
-| Wejście w życie | 2017-09-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001670) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1670/text.pdf) |
 
@@ -37,17 +36,13 @@ w § 1 wyrazy „Rynku Rolnego” zastępuje się wyrazami „Restrukturyzacji i
 3)
 użyty w § 2 ust. 4 we wprowadzeniu do wyliczenia, § 3 ust. 1, § 4 ust. 1–3, ust. 3a we wprowadzeniu do wyliczenia i ust. 8 zdanie drugie, § 21h ust. 3, § 22 ust. 1 we wprowadzeniu do wyliczenia i ust. 2, § 27a, § 28, § 32 ust. 1 we wprowadzeniu do wyliczenia i ust. 2 we wprowadzeniu do wyliczenia, § 33 ust. 1 oraz § 34 ust. 2, w różnej liczbie i różnym przypadku, wyraz „terenowy” zastępuje się użytym w odpowiedniej liczbie i odpowiednim przypadku wyrazem „regionalny”;
 4)
-§ 31 otrzymuje brzmienie:
-„
+§ 31 otrzymuje brzmienie: „
 § 31.
-Środki finansowe z tytułu pomocy, o której mowa w § 2 ust. 1 oraz w § 2a ust. 1 i 2, wypłaca się w terminie 21 dni od dnia wydania decyzji administracyjnej, o której mowa w § 4 ust. 1 albo 2, nie później niż do dnia 30 września 2017 r.
-” ;
+Środki finansowe z tytułu pomocy, o której mowa w § 2 ust. 1 oraz w § 2a ust. 1 i 2, wypłaca się w terminie 21 dni od dnia wydania decyzji administracyjnej, o której mowa w § 4 ust. 1 albo 2, nie później niż do dnia 30 września 2017 r. ” ;
 5)
-w § 33 ust. 2 otrzymuje brzmienie:
-„
+w § 33 ust. 2 otrzymuje brzmienie: „
 2.
-Do kontroli, o której mowa w ust. 1, stosuje się odpowiednio art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych.
-” .
+Do kontroli, o której mowa w ust. 1, stosuje się odpowiednio art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

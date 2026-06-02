@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 22 listopada 2016 r. w sprawie udzielania pomocy regionalnej na rzecz rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych na lata 2014–2020
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 22 listopada 2016 r. w sprawie udzielania pomocy regionalnej na rzecz rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych na lata 2014–2020 Minister Rozwoju i Finansów kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-22 |
 | Data wydania | 2016-12-02 |
-| Wejście w życie | 2016-12-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001944) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1944/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2016 r. poz. 217 i 1579) zarządza się, co następuje:
 § 1.
-Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom, w ramach regionalnych programów operacyjnych na lata 2014–2020, pomocy regionalnej na rzecz rozwoju obszarów miejskich, zwanej dalej „pomocą”, do której mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.) , zwanego dalej „rozporządzeniem nr 651/2014”, a także podmioty udzielające tej pomocy.
+Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom, w ramach regionalnych programów operacyjnych na lata 2014–2020, pomocy regionalnej na rzecz rozwoju obszarów miejskich, zwanej dalej „pomocą”, do której mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28 oraz Dz. Urz. UE L 149 z 07.06.2016, str. 10.) , zwanego dalej „rozporządzeniem nr 651/2014”, a także podmioty udzielające tej pomocy.
 § 2.
 Przepisów rozporządzenia nie stosuje się do pomocy, o której mowa w art. 1 ust. 2 lit. c i d, ust. 3, ust. 4 lit. c i ust. 5 rozporządzenia nr 651/2014.
 § 3.
@@ -67,10 +66,9 @@ niezależni inwestorzy prywatni zostali wybrani zgodnie z art. 16 ust. 8 lit. b 
 6)
 potrzeba przyznania na rzecz niezależnych inwestorów prywatnych preferencji w postaci asymetrycznego podziału zysku albo ochrony przed spadkiem wartości, o których mowa w art. 16 ust. 8 lit. b rozporządzenia nr 651/2014, wynika z:
 a)
-oceny ex ante, o której mowa w art. 37 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.) , która określiła poziom tej preferencji lub mechanizm pozwalający na jego określenie,
+oceny ex ante, o której mowa w art. 37 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140 oraz Dz. Urz. UE L 259 z 27.09.2016, str. 79.) , która określiła poziom tej preferencji lub mechanizm pozwalający na jego określenie,
 b)
-przeprowadzonej procedury wyboru niezależnych inwestorów prywatnych
-a dodatkowo zachowane zostaną warunki, o których mowa w art. 16 ust. 8 lit. c i d rozporządzenia nr 651/2014;
+przeprowadzonej procedury wyboru niezależnych inwestorów prywatnych – a dodatkowo zachowane zostaną warunki, o których mowa w art. 16 ust. 8 lit. c i d rozporządzenia nr 651/2014;
 7)
 zostanie spełniony warunek, o którym mowa w art. 16 ust. 8 lit. e rozporządzenia nr 651/2014;
 8)
@@ -116,6 +114,5 @@ Po przeprowadzeniu oceny wniosku pomoc może być udzielona przedsiębiorcy na p
 § 13.
 Pomoc jest udzielana do dnia określonego w art. 58 ust. 4 zdanie drugie rozporządzenia nr 651/2014.
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28 oraz Dz. Urz. UE L 149 z 07.06.2016, str. 10. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140 oraz Dz. Urz. UE L 259 z 27.09.2016, str. 79.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28 oraz Dz. Urz. UE L 149 z 07.06.2016, str. 10. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140 oraz Dz. Urz. UE L 259 z 27.09.2016, str. 79.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 15 września 2020 r. w sprawie operatu rybackiego
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 15 września 2020 r. w sprawie operatu rybackiego Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-15 |
 | Data wydania | 2020-09-28 |
-| Wejście w życie | 2020-10-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001661) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1661/text.pdf) |
 
@@ -92,8 +91,7 @@ warunków termicznych, tlenowych i biogennych,
 c)
 warunków hydrobiologicznych, w tym dotyczących występowania planktonu i bentosu,
 d)
-źródeł i rodzajów zanieczyszczeń
-wraz z podsumowaniem opisującym, o ile to możliwe, rybacki typ jeziora, krainę rybną cieku oraz stan ichtiofauny ustalony w oparciu o najbardziej aktualne dane o jej składzie, liczebności i strukturze wiekowej;
+źródeł i rodzajów zanieczyszczeń – wraz z podsumowaniem opisującym, o ile to możliwe, rybacki typ jeziora, krainę rybną cieku oraz stan ichtiofauny ustalony w oparciu o najbardziej aktualne dane o jej składzie, liczebności i strukturze wiekowej;
 7)
 określenie rodzaju, zakresu i wpływu kłusownictwa oraz szkód wyrządzanych przez zwierzęta wolno żyjące na prowadzenie racjonalnej gospodarki rybackiej w obwodzie rybackim;
 8)
@@ -130,8 +128,7 @@ opis działań bezpośrednio związanych:
 a)
 z celami ochrony obszaru Natura 2000 lub form ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–3 ustawy o ochronie przyrody, lub
 b)
-ze sposobem dostosowania prowadzonej gospodarki rybackiej w obwodzie rybackim do innych działań przewidzianych w planie ochrony, zadaniach ochronnych lub planie zadań ochronnych parku narodowego, rezerwatu przyrody lub obszaru Natura 2000
-lub wynikających z tych celów lub z tego sposobu;
+ze sposobem dostosowania prowadzonej gospodarki rybackiej w obwodzie rybackim do innych działań przewidzianych w planie ochrony, zadaniach ochronnych lub planie zadań ochronnych parku narodowego, rezerwatu przyrody lub obszaru Natura 2000 – lub wynikających z tych celów lub z tego sposobu;
 11)
 spis dokumentów źródłowych wykorzystanych przy sporządzaniu operatu.
 § 5.
@@ -213,8 +210,7 @@ Zachodniopomorski Uniwersytet Technologiczny w Szczecinie.
 § 11.
 Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 marca 2002 r. w sprawie operatu rybackiego (Dz. U. z 2015 r. poz. 177).
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
 
 ## Część opisową i graficzną operatu sporządza się w formie dokumentu elektronicznego zabezpieczonego przed wprowadzaniem nieuprawnionych zmian, którego cyfrowa postać umożliwia sporządzenie i zamieszczenie jego kopii w systemie informacyjnym gospodarowania wodami prowadzonym przez Państwowe Gospodarstwo Wodne Wody Polskie.
 

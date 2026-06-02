@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 15 kwietnia 2019 r. zmieniające rozporządzenie w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w niektórych jednostkach organizacyjnych resortu sprawiedliwości
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 15 kwietnia 2019 r. zmieniające rozporządzenie w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w niektórych jednostkach organizacyjnych resortu sprawiedliwości Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).
 
 | Pole | Wartość |
 |---|---|
@@ -22,43 +22,45 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-15 |
 | Data wydania | 2019-04-19 |
-| Wejście w życie | 2019-04-20 |
 | Ostatnia zmiana | 2025-04-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000731) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/731/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Tabele miesięcznych stawek wynagrodzenia zasadniczego
 Treść rozporządzenia
-Na podstawie art. 773 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 773 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432 oraz z 2019 r. poz. 730.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 22 kwietnia 2008 r. w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w niektórych jednostkach organizacyjnych resortu sprawiedliwości (Dz. U. z 2019 r. poz. 420) wprowadza się następujące zmiany:
 1)
-w § 6 po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+w § 6 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
-W razie równoczesnego pozostawania w więcej niż jednym stosunku pracy do okresu pracy uprawniającego do dodatku za wysługę lat wlicza się jeden z tych okresów.
-” ;
+W razie równoczesnego pozostawania w więcej niż jednym stosunku pracy do okresu pracy uprawniającego do dodatku za wysługę lat wlicza się jeden z tych okresów. ” ;
 2)
 załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia;
 3)
 w załączniku nr 3 do rozporządzenia:
 a)
-w tabeli I lp. 1 otrzymuje brzmienie: 1 2 3 4 5 1 Kierownik kotłowni*' IX-XI wyższe 4 średnie 8
+w tabeli I lp. 1 otrzymuje brzmienie:
+1 2 3 4 5 1 Kierownik kotłowni*' IX-XI wyższe 4 średnie 8
 b)
 w tabeli II:
-– lp. 1 otrzymuje brzmienie: 1 2 3 4 5 6 1 Profesor XVII-XVIII – według odrębnych przepisów
+lp. 1 otrzymuje brzmienie:
+1 2 3 4 5 6 1 Profesor XVII-XVIII – według odrębnych przepisów
 – uchyla się lp. 2,
-– lp. 3 otrzymuje brzmienie: 1 2 3 4 5 6 3 Profesor instytutu XV-XVII – według odrębnych przepisów
+lp. 3 otrzymuje brzmienie:
+1 2 3 4 5 6 3 Profesor instytutu XV-XVII – według odrębnych przepisów
 § 2.
-W okresie od dnia 1 stycznia 2019 r. do dnia 30 kwietnia 2019 r. stosuje się następujące miesięczne stawki wynagrodzenia zasadniczego dla niektórych pracowników cywilnych więziennictwa zatrudnionych w jednostkach organizacyjnych więziennictwa wymienionych w tabeli I w załączniku nr 3 do rozporządzenia zmienianego w § 1: Kategoria zaszeregowania Kwota w złotych 1 2 I 1 420–2 600 II 1 470–2 650 III 1 520–2 700 IV 1 570–2 750 V 1 620–2 800 VI 1 670–2 850 VII 1 720–2 900 VIII 1 770–2 950 IX 1 830–3 000 X 1 930–3 100 XI 2 030–3 200 XII 2 030–3 200 XIII 2 030–3 200
+W okresie od dnia 1 stycznia 2019 r. do dnia 30 kwietnia 2019 r. stosuje się następujące miesięczne stawki wynagrodzenia zasadniczego dla niektórych pracowników cywilnych więziennictwa zatrudnionych w jednostkach organizacyjnych więziennictwa wymienionych w tabeli I w załączniku nr 3 do rozporządzenia zmienianego w § 1:
+Kategoria zaszeregowania Kwota w złotych 1 2 I 1 420–2 600 II 1 470–2 650 III 1 520–2 700 IV 1 570–2 750 V 1 620–2 800 VI 1 670–2 850 VII 1 720–2 900 VIII 1 770–2 950 IX 1 830–3 000 X 1 930–3 100 XI 2 030–3 200 XII 2 030–3 200 XIII 2 030–3 200
 § 3.
 Miesięczne stawki wynagrodzenia zasadniczego określone w załączniku do niniejszego rozporządzenia w tabeli II mają zastosowanie do wynagrodzeń należnych od dnia 1 stycznia 2019 r.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 1, pkt 2 w części dotyczącej tabeli I określonej w załączniku do niniejszego rozporządzenia oraz pkt 3, które wchodzą w życie z dniem 1 maja 2019 r.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432 oraz z 2019 r. poz. 730.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 1, pkt 2 w części dotyczącej tabeli I określonej w załączniku do niniejszego rozporządzenia oraz pkt 3, które wchodzą w życie z dniem 1 maja 2019 r. 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432 oraz z 2019 r. poz. 730.
 Załącznik – Tabele miesięcznych stawek wynagrodzenia zasadniczego
 I.
-Dla niektórych pracowników cywilnych więziennictwa Kategoria zaszeregowania Kwota w złotych 1 2 I 1 420–2 600 II 1 470–2 650 III 1 520–2 700 IV 1 570–2 750 V 1 620–2 800 VI 1 670–2 850 VII 1 720–2 900 VIII 1 770–2 950 IX 1 830–3 000 X 1 930–3 100 XI 2 030–3 200
+Dla niektórych pracowników cywilnych więziennictwa
+Kategoria zaszeregowania Kwota w złotych 1 2 I 1 420–2 600 II 1 470–2 650 III 1 520–2 700 IV 1 570–2 750 V 1 620–2 800 VI 1 670–2 850 VII 1 720–2 900 VIII 1 770–2 950 IX 1 830–3 000 X 1 930–3 100 XI 2 030–3 200
 II.
-Dla pracowników jednostek organizacyjnych podległych Ministrowi Sprawiedliwości, prowadzących działalność naukową i badawczo-rozwojową Kategoria zaszeregowania Kwota w złotych 1 2 I 1 680–2 550 II 1 740–2 650 III 1 800–2 770 IV 1 870–2 900 V 1 940–3 150 VI 2 130–3 400 VII 2 310–3 650 VIII 2 500–3 900 IX 2 690–4 300 X 2 880–4 700 XI 2 950–5 100 XII 3 300–5 500 XIII 3 650–6 000 XIV 4 000–6 500 XV 4 350–7 000 XVI 4 600–7 500 XVII 5 300–8 520 XVIII 6 270–9 550
+Dla pracowników jednostek organizacyjnych podległych Ministrowi Sprawiedliwości, prowadzących działalność naukową i badawczo-rozwojową
+Kategoria zaszeregowania Kwota w złotych 1 2 I 1 680–2 550 II 1 740–2 650 III 1 800–2 770 IV 1 870–2 900 V 1 940–3 150 VI 2 130–3 400 VII 2 310–3 650 VIII 2 500–3 900 IX 2 690–4 300 X 2 880–4 700 XI 2 950–5 100 XII 3 300–5 500 XIII 3 650–6 000 XIV 4 000–6 500 XV 4 350–7 000 XVI 4 600–7 500 XVII 5 300–8 520 XVIII 6 270–9 550
 

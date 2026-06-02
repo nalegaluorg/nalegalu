@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-25 |
 | Data wydania | 2022-06-01 |
-| Wejście w życie | 2022-06-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001172) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1172/text.pdf) |
 
@@ -31,30 +30,25 @@ Załącznik – Kody Polskiej Klasyfikacji Działalności, którymi oznaczona dz
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2019 r. poz. 1505 oraz z 2022 r. poz. 24, 88, 646 i 1079) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354, z 2021 r. poz. 926, 1311, 1387, 1528, 1698 i 2087 oraz z 2022 r. poz. 45, 642 i 1000.) wprowadza się następujące zmiany:
 1)
 w § 13x:
 a)
-po ust. 6 dodaje się ust. 6a w brzmieniu:
-„
+po ust. 6 dodaje się ust. 6a w brzmieniu: „
 6a.
-W przypadku gdy szkody spowodowane wystąpieniem suszy wynoszą nie więcej niż 30% średniej rocznej produkcji rolnej, o której mowa w ust. 1, za pomocą publicznej aplikacji jest generowana automatycznie kalkulacja oszacowania szkód.
-” ,
+W przypadku gdy szkody spowodowane wystąpieniem suszy wynoszą nie więcej niż 30% średniej rocznej produkcji rolnej, o której mowa w ust. 1, za pomocą publicznej aplikacji jest generowana automatycznie kalkulacja oszacowania szkód. ” ,
 b)
 w ust. 13 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Protokół oszacowania szkód, o którym mowa w ust. 5, oraz kalkulacja oszacowania szkód, o której mowa w ust. 6a, zawierają: ” ;
 2)
-w § 13zo ust. 2 otrzymuje brzmienie:
-„
+w § 13zo ust. 2 otrzymuje brzmienie: „
 2.
 Pomoc, o której mowa w ust. 1, jest przyznawana:
 1)
 na wniosek producenta rolnego złożony do kierownika biura powiatowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę producenta rolnego na formularzu opracowanym i udostępnionym przez Agencję na jej stronie internetowej;
 2)
-w wysokości ustalonej zgodnie z ust. 7–9.
-” ;
+w wysokości ustalonej zgodnie z ust. 7–9. ” ;
 3)
-po § 13zo dodaje się § 13zp i § 13zq w brzmieniu:
-„
+po § 13zo dodaje się § 13zp i § 13zq w brzmieniu: „
 § 13zp.
 1.
 W 2022 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu:
@@ -251,14 +245,13 @@ Umowę o przyznaniu pomocy, o której mowa w ust. 1, zawiera się na formularzu 
 17.
 W przypadku gdy nie są spełnione warunki, o których mowa w ust. 1–4, dyrektor oddziału regionalnego Agencji właściwy w sprawie o przyznanie pomocy, o której mowa w ust. 1, informuje wnioskodawcę, w formie pisemnej, o odmowie jej przyznania z podaniem przyczyn tej odmowy.
 18.
-Jeżeli wnioskodawca nie wypełni zobowiązań, o których mowa w ust. 1, pomoc, o której mowa w ust. 1, podlega zwrotowi w pełnej wysokości.
-” ;
+Jeżeli wnioskodawca nie wypełni zobowiązań, o których mowa w ust. 1, pomoc, o której mowa w ust. 1, podlega zwrotowi w pełnej wysokości. ” ;
 4)
 dodaje się załącznik nr 5 do rozporządzenia w brzmieniu określonym w załączniku do niniejszego rozporządzenia.
 § 2.
 Do postępowań w sprawach o przyznanie pomocy, o której mowa w § 13zo ust. 1 rozporządzenia zmienianego w § 1, wszczętych i niezakończonych przed dniem wejścia w życie § 1 pkt 2 niniejszego rozporządzenia decyzją ostateczną, przepis § 13zo ust. 2 rozporządzenia zmienianego w § 1 stosuje się w brzmieniu nadanym przez § 1 pkt 2 niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 2 oraz § 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 2 oraz § 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354, z 2021 r. poz. 926, 1311, 1387, 1528, 1698 i 2087 oraz z 2022 r. poz. 45, 642 i 1000.
 Załącznik – Kody Polskiej Klasyfikacji Działalności, którymi oznaczona działalność gospodarcza jest wyłączona z udzielenia pomocy, o której mowa w § 13zq ust. 2 rozporządzenia
 Kody Polskiej Klasyfikacji Działalności (PKD) (Podklasa) Rodzaj działalności 01.11.Z Uprawa zbóż, roślin strączkowych i roślin oleistych na nasiona, z wyłączeniem ryżu 01.12.Z Uprawa ryżu 01.13.Z Uprawa warzyw, włączając melony oraz uprawa roślin korzeniowych i roślin bulwiastych 01.14.Z Uprawa trzciny cukrowej 01.15.Z Uprawa tytoniu 01.16.Z Uprawa roślin włóknistych 01.19.Z Pozostałe uprawy rolne inne niż wieloletnie 01.21.Z Uprawa winogron 01.22.Z Uprawa drzew i krzewów owocowych tropikalnych i podzwrotnikowych 01.23.Z Uprawa drzew i krzewów owocowych cytrusowych 01.24.Z Uprawa drzew i krzewów owocowych ziarnkowych i pestkowych 01.25.Z Uprawa pozostałych drzew i krzewów owocowych oraz orzechów 01.26.Z Uprawa drzew oleistych 01.27.Z Uprawa roślin wykorzystywanych do produkcji napojów 01.28.Z Uprawa roślin przyprawowych i aromatycznych oraz roślin wykorzystywanych do produkcji leków i wyrobów farmaceutycznych 01.29.Z Uprawa pozostałych roślin wieloletnich 01.30.Z Rozmnażanie roślin 01.41.Z Chów i hodowla bydła mlecznego 01.42.Z Chów i hodowla pozostałego bydła i bawołów 01.43.Z Chów i hodowla koni i pozostałych zwierząt koniowatych 01.44.Z Chów i hodowla wielbłądów i zwierząt wielbłądowatych 01.45.Z Chów i hodowla owiec i kóz 01.46.Z Chów i hodowla świń 01.47.Z Chów i hodowla drobiu 01.49.Z Chów i hodowla pozostałych zwierząt 01.50.Z Uprawy rolne połączone z chowem i hodowlą zwierząt (działalność mieszana) 01.61.Z Działalność usługowa wspomagająca produkcję roślinną 01.62.Z Działalność usługowa wspomagająca chów i hodowlę zwierząt gospodarskich 01.63.Z Działalność usługowa następująca po zbiorach 01.64.Z Obróbka nasion dla celów rozmnażania roślin 03.11.Z Rybołówstwo w wodach morskich 03.12.Z Rybołówstwo w wodach śródlądowych 03.21.Z Chów i hodowla ryb oraz pozostałych organizmów wodnych w wodach morskich 03.22.Z Chów i hodowla ryb oraz pozostałych organizmów wodnych w wodach śródlądowych 10.11.Z Przetwarzanie i konserwowanie mięsa, z wyłączeniem mięsa z drobiu 10.12.Z Przetwarzanie i konserwowanie mięsa z drobiu 10.13.Z Produkcja wyrobów z mięsa, włączając wyroby z mięsa drobiowego 10.20.Z Przetwarzanie i konserwowanie ryb, skorupiaków i mięczaków 10.31.Z Przetwarzanie i konserwowanie ziemniaków 10.32.Z Produkcja soków z owoców i warzyw 10.39.Z Pozostałe przetwarzanie i konserwowanie owoców i warzyw 10.41.Z Produkcja olejów i pozostałych tłuszczów płynnych 10.42.Z Produkcja margaryny i podobnych tłuszczów jadalnych 10.51.Z Przetwórstwo mleka i wyrób serów 10.61.Z Wytwarzanie produktów przemiału zbóż 10.62.Z Wytwarzanie skrobi i wyrobów skrobiowych 10.91.Z Produkcja gotowej paszy dla zwierząt gospodarskich 10.92.Z Produkcja gotowej karmy dla zwierząt domowych 11.01.Z Destylowanie, rektyfikowanie i mieszanie alkoholi 11.02.Z Produkcja win gronowych 11.03.Z Produkcja cydru i pozostałych win owocowych 11.04.Z Produkcja pozostałych niedestylowanych napojów fermentowanych 11.05.Z Produkcja piwa 11.06.Z Produkcja słodu 11.07.Z Produkcja napojów bezalkoholowych; produkcja wód mineralnych i pozostałych wód butelkowanych 12.00.Z Produkcja wyrobów tytoniowych 46.11.Z Działalność agentów zajmujących się sprzedażą płodów rolnych, żywych zwierząt, surowców dla przemysłu tekstylnego i półproduktów 46.17.Z Działalność agentów zajmujących się sprzedażą żywności, napojów i wyrobów tytoniowych 46.21.Z Sprzedaż hurtowa zboża, nieprzetworzonego tytoniu, nasion i pasz dla zwierząt 46.22.Z Sprzedaż hurtowa kwiatów i roślin 46.23.Z Sprzedaż hurtowa żywych zwierząt 46.31.Z Sprzedaż hurtowa owoców i warzyw 46.32.Z Sprzedaż hurtowa mięsa i wyrobów z mięsa 46.33.Z Sprzedaż hurtowa mleka, wyrobów mleczarskich, jaj, olejów i tłuszczów jadalnych 46.34.A Sprzedaż hurtowa napojów alkoholowych 46.34.B Sprzedaż hurtowa napojów bezalkoholowych 46.35.Z Sprzedaż hurtowa wyrobów tytoniowych 46.36.Z Sprzedaż hurtowa cukru, czekolady, wyrobów cukierniczych i piekarskich 46.37.Z Sprzedaż hurtowa herbaty, kawy, kakao i przypraw 46.38.Z Sprzedaż hurtowa pozostałej żywności, włączając ryby, skorupiaki i mięczaki 46.39.Z Sprzedaż hurtowa niewyspecjalizowana żywności, napojów i wyrobów tytoniowych 47.21.Z Sprzedaż detaliczna owoców i warzyw prowadzona w wyspecjalizowanych sklepach 47.22.Z Sprzedaż detaliczna mięsa i wyrobów z mięsa prowadzona w wyspecjalizowanych sklepach 47.23.Z Sprzedaż detaliczna ryb, skorupiaków i mięczaków prowadzona w wyspecjalizowanych sklepach 47.25.Z Sprzedaż detaliczna napojów alkoholowych i bezalkoholowych prowadzona w wyspecjalizowanych sklepach 47.26.Z Sprzedaż detaliczna wyrobów tytoniowych prowadzona w wyspecjalizowanych sklepach 47.29.Z Sprzedaż detaliczna pozostałej żywności prowadzona w wyspecjalizowanych sklepach 47.76.Z Sprzedaż detaliczna kwiatów, roślin, nasion, nawozów, żywych zwierząt domowych, karmy dla zwierząt domowych prowadzona w wyspecjalizowanych sklepach 47.81.Z Sprzedaż detaliczna żywności, napojów i wyrobów tytoniowych prowadzona na straganach i targowiskach 49.32.Z Działalność taksówek osobowych 50.10.Z Transport morski i przybrzeżny pasażerski 50.30.Z Transport wodny śródlądowy pasażerski 52.22.A Działalność usługowa wspomagająca transport morski 52.22.B Działalność usługowa wspomagająca transport śródlądowy 52.24.A Przeładunek towarów w portach morskich 52.24.B Przeładunek towarów w portach śródlądowych 94.11.Z Działalność organizacji komercyjnych i pracodawców 94.12.Z Działalność organizacji profesjonalnych 94.20.Z Działalność związków zawodowych 94.91.Z Działalność organizacji religijnych 94.92.Z Działalność organizacji politycznych 94.99.Z Działalność pozostałych organizacji członkowskich, gdzie indziej niesklasyfikowana 97.00.Z Gospodarstwa domowe zatrudniające pracowników 98.10.Z Gospodarstwa domowe produkujące wyroby na własne potrzeby 98.20.Z Gospodarstwa domowe świadczące usługi na własne potrzeby
 

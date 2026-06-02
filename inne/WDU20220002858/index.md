@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-27 |
 | Data wydania | 2022-12-30 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002858) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2858/text.pdf) |
 
@@ -31,17 +30,13 @@ Na podstawie art. 16 ust. 2 ustawy z dnia 12 października 1990 r. o ochronie gr
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 18 czerwca 2001 r. w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia (Dz. U. z 2015 r. poz. 1534) w § 1:
 1)
-w pkt 1 w lit. t średnik zastępuje się przecinkiem i dodaje się lit. u w brzmieniu:
-„
+w pkt 1 w lit. t średnik zastępuje się przecinkiem i dodaje się lit. u w brzmieniu: „
 u)
-Nowy Świat – ruch osobowy i towarowy;
-” ;
+Nowy Świat – ruch osobowy i towarowy; ” ;
 2)
-w pkt 2 w lit. n kropkę zastępuje się przecinkiem i dodaje się lit. o w brzmieniu:
-„
+w pkt 2 w lit. n kropkę zastępuje się przecinkiem i dodaje się lit. o w brzmieniu: „
 o)
-Radom-Sadków – ruch osobowy i towarowy.
-” .
+Radom-Sadków – ruch osobowy i towarowy. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r., z wyjątkiem § 1 pkt 1, który wchodzi w życie z dniem 1 maja 2023 r.
 

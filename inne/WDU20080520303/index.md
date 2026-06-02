@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-02-29 |
 | Data wydania | 2008-03-27 |
-| Wejście w życie | 2008-04-11 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080520303) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/303/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 grudnia 2002 r. o organizacji niektórych rynków rolnych (Dz. U. Nr 240, poz. 2059, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 grudnia 2002 r. o organizacji niektórych rynków rolnych (Dz. U. Nr 240, poz. 2059, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 40 i Nr 96, poz. 959 oraz z 2005 r. Nr 14, poz. 115 i Nr 141, poz. 1182.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 pkt 7 otrzymuje brzmienie: „
 - **7)** rozporządzenie Rady (WE) nr 1673/2000 z dnia 27 lipca 2000 r. w sprawie wspólnej organizacji rynków lnu i konopi uprawianych na włókno (Dz. Urz. WE L 193 z 29.07.2000, str. 16, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 30, str. 131, z późn. zm.), zwane dalej „rozporządzeniem Rady 1673/2000”; ” ;
@@ -237,7 +236,7 @@ source: "eli-html"
 2. Indywidualna ilość referencyjna stanowi ilość surowca tytoniowego wyprodukowanego w ramach umowy kontraktacji lub umowy na uprawę tytoniu:
 
 - **1)** zawartej w 2006 r., której stroną była osoba fizyczna, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, która nabyła z mocy ustawy prawo do uzyskania płatności uzupełniającej, określonej w art. 1 ust. 1 pkt 2, przysługujące w dniu 31 marca 2007 r. nabywcy z mocy ustawy prawa do uzyskania płatności niezwiązanej, lub
-- **2)** zawartej w 2005 r., której stroną była osoba fizyczna, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, która nabyła z mocy ustawy prawo do uzyskania płatności uzupełniającej, określonej w art. 1 ust. 1 pkt 2, przysługujące w dniu 31 marca 2007 r. nabywcy z mocy ustawy prawa do płatności niezwiązanej, jeżeli nie była stroną umowy, o której mowa w pkt 1 jednak nie mniej niż 70% ilości surowca tytoniowego objętego umową kontraktacji lub umową na uprawę tytoniu.
+- **2)** zawartej w 2005 r., której stroną była osoba fizyczna, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, która nabyła z mocy ustawy prawo do uzyskania płatności uzupełniającej, określonej w art. 1 ust. 1 pkt 2, przysługujące w dniu 31 marca 2007 r. nabywcy z mocy ustawy prawa do płatności niezwiązanej, jeżeli nie była stroną umowy, o której mowa w pkt 1 – jednak nie mniej niż 70% ilości surowca tytoniowego objętego umową kontraktacji lub umową na uprawę tytoniu.
 
 3. W decyzjach wydawanych na podstawie art. 33fd ust. 3 pkt 2 dyrektor oddziału terenowego Agencji określa nabywcy prawa do uzyskania płatności niezwiązanej indywidualną ilość referencyjną równą indywidualnej ilości referencyjnej określonej podmiotowi, któremu dotychczas przysługiwało to prawo.
 
@@ -355,5 +354,5 @@ source: "eli-html"
 - **1)** zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 33f ust. 5, ust. 6 pkt 1 i ust. 7 tej ustawy, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy;
 - **2)** stosuje się do związanej z produkcją części płatności uzupełniającej określonej w niniejszej ustawie.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2 pkt 3, art. 2 pkt 5 lit. a i c oraz art. 2 pkt 7 lit. b, które wchodzą w życie z dniem 1 września 2008 r.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2 pkt 3, art. 2 pkt 5 lit. a i c oraz art. 2 pkt 7 lit. b, które wchodzą w życie z dniem 1 września 2008 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 40 i Nr 96, poz. 959 oraz z 2005 r. Nr 14, poz. 115 i Nr 141, poz. 1182.
 

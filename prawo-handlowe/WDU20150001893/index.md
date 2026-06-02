@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 września 2015 r. o zmianie ustawy o swobodzie działalności gospodarczej oraz niektórych innych ustaw
+# Ustawa z dnia 25 września 2015 r. o zmianie ustawy o swobodzie działalności gospodarczej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 29 czerwca 1995 r. o statystyce publicznej, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 29 listopada 2000 r. – Prawo atomowe, ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, ustawę z dnia 18 stycznia 2001 r. o wyścigach konnych, ustawę z dnia 2 marca 2001 r. o wyrobie alkoholu etylowego oraz wytwarzaniu wyrobów tytoniowych, ustawę z dnia 7 czerwca 2001 r. o leśnym materiale rozmnożeniowym, ustawę z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków, ustawę z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, ustawę z dnia 6 lipca 2001 r. o usługach detektywistycznych, ustawę z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 18 września 2001 r. o podpisie elektronicznym, ustawę z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego, ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze, ustawę z dnia 27 lipca 2002 r. – Prawo dewizowe, ustawę z dnia 23 listopada 2002 r. o Sądzie Najwyższym, ustawę z dnia 28 marca 2003 r. o transporcie kolejowym, ustawę z dnia 22 maja 2003 r. o pośrednictwie ubezpieczeniowym, ustawę z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt, ustawę z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 19 marca 2004 r. – Prawo celne, ustawę z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt, ustawę z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów, ustawę z dnia 7 lipca 2005 r. o działalności lobbingowej w procesie stanowienia prawa, ustawę z dnia 29 lipca 2005 r. o systemie tachografów cyfrowych, ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, ustawę z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego, ustawę z dnia 22 lipca 2006 r. o paszach, ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia, ustawę z dnia 18 października 2006 r. o wyrobie napojów spirytusowych oraz o rejestracji i ochronie oznaczeń geograficznych napojów spirytusowych, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 10 lipca 2007 r. o nawozach i nawożeniu, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 1 kwietnia 2011 r. – Prawo probiercze, ustawę z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina, ustawę z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, ustawę z dnia 19 sierpnia 2011 r. o usługach płatniczych, ustawę z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych, ustawę z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz ustawę z dnia 9 listopada 2012 r. o nasiennictwie.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-25 |
 | Data wydania | 2015-11-18 |
-| Wejście w życie | 2016-05-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001893) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1893/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712 i 1844.) wprowadza się następujące zmiany:
 
 - **1)** w art. 10 w ust. 4 pkt 4 otrzymuje brzmienie: „
 - **4)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada; ” ;
@@ -46,20 +45,39 @@ source: "eli-html"
 
 2a. Wnioski o wpis do CEIDG uwzględniają zakres danych podlegających wpisowi do CEIDG i innych rejestrów urzędowych zgodnie z art. 25 ust. 5 pkt 1–3. ” ;
 
-- **5)** w art. 25: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) numer identyfikacji podatkowej (NIP) oraz informacje o jego unieważnieniu lub uchyleniu; ” , – pkt 5 i 6 otrzymują brzmienie: „ 5) adres zamieszkania przedsiębiorcy, adres do doręczeń przedsiębiorcy oraz adresy, pod którymi jest wykonywana działalność gospodarcza, w tym adres głównego miejsca wykonywania działalności i oddziału, jeżeli został utworzony; dane te są zgodne z oznaczeniami kodowymi przyjętymi w krajowym rejestrze urzędowym podziału terytorialnego kraju, o ile to w danym przypadku możliwe; 6) dane kontaktowe przedsiębiorcy, w szczególności adres poczty elektronicznej, strony internetowej, numer telefonu, o ile dane te zostały zgłoszone we wniosku o wpis do CEIDG; ” , – po pkt 11 dodaje się pkt 11a w brzmieniu: „ 11a) dane przedstawiciela ustawowego, o ile są wymagane; ” , – po pkt 14 dodaje się pkt 14a i 14b w brzmieniu: „ 14a) informacja o prawomocnym oddaleniu wniosku o ogłoszenie upadłości z tego powodu, że majątek niewypłacalnego dłużnika nie wystarcza na zaspokojenie kosztów postępowania lub wystarcza jedynie na zaspokojenie tych kosztów; 14b) informacja o prawomocnym uchyleniu lub wygaśnięciu układu zawartego w postępowaniu restrukturyzacyjnym lub upadłościowym; ” , – po pkt 18 dodaje się pkt 18a w brzmieniu: „ 18a) informacja o dacie trwałego zaprzestania wykonywania działalności gospodarczej, o ile informacja ta została zgłoszona we wniosku o wpis do CEIDG; ” , – pkt 19 otrzymuje brzmienie: „ 19) informacja o wykreśleniu przedsiębiorcy z CEIDG. ” , ust. 2 otrzymuje brzmienie: „
+- **5)** w art. 25: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** numer identyfikacji podatkowej (NIP) oraz informacje o jego unieważnieniu lub uchyleniu; ” , pkt 5 i 6 otrzymują brzmienie: „
+- **5)** adres zamieszkania przedsiębiorcy, adres do doręczeń przedsiębiorcy oraz adresy, pod którymi jest wykonywana działalność gospodarcza, w tym adres głównego miejsca wykonywania działalności i oddziału, jeżeli został utworzony; dane te są zgodne z oznaczeniami kodowymi przyjętymi w krajowym rejestrze urzędowym podziału terytorialnego kraju, o ile to w danym przypadku możliwe;
+- **6)** dane kontaktowe przedsiębiorcy, w szczególności adres poczty elektronicznej, strony internetowej, numer telefonu, o ile dane te zostały zgłoszone we wniosku o wpis do CEIDG; ” , po pkt 11 dodaje się pkt 11a w brzmieniu: „
+- **11a)** dane przedstawiciela ustawowego, o ile są wymagane; ” , po pkt 14 dodaje się pkt 14a i 14b w brzmieniu: „
+- **14a)** informacja o prawomocnym oddaleniu wniosku o ogłoszenie upadłości z tego powodu, że majątek niewypłacalnego dłużnika nie wystarcza na zaspokojenie kosztów postępowania lub wystarcza jedynie na zaspokojenie tych kosztów;
+- **14b)** informacja o prawomocnym uchyleniu lub wygaśnięciu układu zawartego w postępowaniu restrukturyzacyjnym lub upadłościowym; ” , po pkt 18 dodaje się pkt 18a w brzmieniu: „
+- **18a)** informacja o dacie trwałego zaprzestania wykonywania działalności gospodarczej, o ile informacja ta została zgłoszona we wniosku o wpis do CEIDG; ” , pkt 19 otrzymuje brzmienie: „
+- **19)** informacja o wykreśleniu przedsiębiorcy z CEIDG. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
-2. Dane, o których mowa w ust. 1 pkt 11 i 11a, obejmują, w przypadku pełnomocnika będącego osobą fizyczną oraz przedstawiciela ustawowego, imię i nazwisko oraz odpowiednie dane określone w ust. 1 pkt 1, 1a i 4–6, a także numer identyfikacji podatkowej (NIP), o ile taki posiadają; w przypadku pełnomocnika będącego osobą prawną dane te obejmują – firmę pełnomocnika, adres siedziby, numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile taki posiada, oraz odpowiednie dane określone w ust. 1 pkt 3 i 6. ” , w ust. 5: – pkt 4 otrzymuje brzmienie: „ 4) przyjęcia oświadczenia o wyborze przez przedsiębiorcę formy opodatkowania podatkiem dochodowym od osób fizycznych albo wniosku o zastosowanie opodatkowania w formie karty podatkowej albo rezygnacji z wybranej formy opodatkowania; ” , – dodaje się pkt 5–9 w brzmieniu: „ 5) przyjęcia zawiadomienia o wyborze sposobu wpłacania zaliczek na podatek dochodowy od osób fizycznych albo zawiadomienia o rezygnacji z wybranego sposobu wpłacania zaliczek na podatek dochodowy od osób fizycznych; 6) przyjęcia zawiadomienia o wyborze opłacania ryczałtu od przychodów ewidencjonowanych co kwartał albo zawiadomienia o zaprzestaniu opłacania ryczałtu od przychodów ewidencjonowanych co kwartał; 7) przyjęcia zawiadomienia o prowadzeniu podatkowej księgi przychodów i rozchodów albo zawiadomienia o zamiarze prowadzenia ksiąg rachunkowych; 8) przyjęcia zawiadomienia o zawarciu z biurem rachunkowym umowy o prowadzenie podatkowej księgi przychodów i rozchodów albo umowy o prowadzenie ewidencji przychodów, a także zawiadomienia o rozwiązaniu tych umów; 9) przyjęcia, w przypadku przedsiębiorcy będącego płatnikiem składek, wyłącznie na własne ubezpieczenia: a) zgłoszenia do ubezpieczeń społecznych i do ubezpieczenia zdrowotnego albo do ubezpieczenia zdrowotnego, b) zgłoszenia do ubezpieczenia zdrowotnego członków rodziny, c) zmiany danych wykazanych w zgłoszeniach, o których mowa w lit. a i b, d) zgłoszenia wyrejestrowania z ubezpieczeń określonych w lit. a i b. ” , po ust. 5a dodaje się ust. 5b-5d w brzmieniu: „
+2. Dane, o których mowa w ust. 1 pkt 11 i 11a, obejmują, w przypadku pełnomocnika będącego osobą fizyczną oraz przedstawiciela ustawowego, imię i nazwisko oraz odpowiednie dane określone w ust. 1 pkt 1, 1a i 4–6, a także numer identyfikacji podatkowej (NIP), o ile taki posiadają; w przypadku pełnomocnika będącego osobą prawną dane te obejmują – firmę pełnomocnika, adres siedziby, numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile taki posiada, oraz odpowiednie dane określone w ust. 1 pkt 3 i 6. ” , w ust. 5: pkt 4 otrzymuje brzmienie: „
 
 - **c)**
-- **d)**
+- **4)** przyjęcia oświadczenia o wyborze przez przedsiębiorcę formy opodatkowania podatkiem dochodowym od osób fizycznych albo wniosku o zastosowanie opodatkowania w formie karty podatkowej albo rezygnacji z wybranej formy opodatkowania; ” , dodaje się pkt 5–9 w brzmieniu: „
+- **5)** przyjęcia zawiadomienia o wyborze sposobu wpłacania zaliczek na podatek dochodowy od osób fizycznych albo zawiadomienia o rezygnacji z wybranego sposobu wpłacania zaliczek na podatek dochodowy od osób fizycznych;
+- **6)** przyjęcia zawiadomienia o wyborze opłacania ryczałtu od przychodów ewidencjonowanych co kwartał albo zawiadomienia o zaprzestaniu opłacania ryczałtu od przychodów ewidencjonowanych co kwartał;
+- **7)** przyjęcia zawiadomienia o prowadzeniu podatkowej księgi przychodów i rozchodów albo zawiadomienia o zamiarze prowadzenia ksiąg rachunkowych;
+- **8)** przyjęcia zawiadomienia o zawarciu z biurem rachunkowym umowy o prowadzenie podatkowej księgi przychodów i rozchodów albo umowy o prowadzenie ewidencji przychodów, a także zawiadomienia o rozwiązaniu tych umów;
+- **9)** przyjęcia, w przypadku przedsiębiorcy będącego płatnikiem składek, wyłącznie na własne ubezpieczenia: zgłoszenia do ubezpieczeń społecznych i do ubezpieczenia zdrowotnego albo do ubezpieczenia zdrowotnego, zgłoszenia do ubezpieczenia zdrowotnego członków rodziny, zmiany danych wykazanych w zgłoszeniach, o których mowa w lit. a i b, zgłoszenia wyrejestrowania z ubezpieczeń określonych w lit. a i b. ” , po ust. 5a dodaje się ust. 5b-5d w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **d)**
 
-5b. Zmiany danych wykazanych w zgłoszeniu do ubezpieczeń społecznych, o których mowa w art. 36 ust. 14 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2015 r. poz. 121, z późn. zm.), dokonuje się wyłącznie w sposób wskazany w przepisach tej ustawy.
+5b. Zmiany danych wykazanych w zgłoszeniu do ubezpieczeń społecznych, o których mowa w art. 36 ust. 14 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2015 r. poz. 121, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 689, 978, 1037, 1066, 1240, 1268, 1269, 1506, 1649, 1735 i 1830.), dokonuje się wyłącznie w sposób wskazany w przepisach tej ustawy.
 
-5c. W przypadku określonym w ust. 5 pkt 9, przedsiębiorca wraz z wnioskiem o wpis do CEIDG przekazuje dane do sporządzenia zgłoszeń lub zmiany danych wykazanych w zgłoszeniach, wymagane przepisami ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych lub ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.), inne niż wynikające z ust. 1.
+5c. W przypadku określonym w ust. 5 pkt 9, przedsiębiorca wraz z wnioskiem o wpis do CEIDG przekazuje dane do sporządzenia zgłoszeń lub zmiany danych wykazanych w zgłoszeniach, wymagane przepisami ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych lub ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269, 1365, 1569, 1692, 1735, 1830 i 1844.), inne niż wynikające z ust. 1.
 
-5d. W przypadkach, o których mowa w ust. 5 pkt 4–8, zastosowanie mają terminy określone w ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) oraz w ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.). ” , ust. 7 otrzymuje brzmienie: „
+5d. W przypadkach, o których mowa w ust. 5 pkt 4–8, zastosowanie mają terminy określone w ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863 oraz z 2015 r. poz. 73, 211, 251, 478, 693, 699, 860, 933, 978, 1197, 1217, 1259, 1296, 1321, 1322, 1333, 1569, 1595, 1607, 1688, 1767, 1784 i 1844.) oraz w ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324, z 2001 r. Nr 74, poz. 784, Nr 88, poz. 961, Nr 125, poz. 1363 i 1369 i Nr 134, poz. 1509, z 2002 r. Nr 141, poz. 1183, Nr 169, poz. 1384, Nr 172, poz. 1412 i Nr 200, poz. 1679, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 135, poz. 1268, Nr 137, poz. 1302 i Nr 202, poz. 1958, z 2004 r. Nr 210, poz. 2135 i Nr 263, poz. 2619, z 2005 r. Nr 143, poz. 1199, Nr 164, poz. 1366 i Nr 169, poz. 1420, z 2006 r. Nr 183, poz. 1353 i Nr 217, poz. 1588, z 2008 r. Nr 141, poz. 888, Nr 143, poz. 894 i Nr 209, poz. 1316, z 2009 r. Nr 157, poz. 1241 i Nr 201, poz. 1541, z 2010 r. Nr 3, poz. 13, Nr 28, poz. 146, Nr 75, poz. 473, Nr 219, poz. 1442 i Nr 226, poz. 1478, z 2011 r. Nr 106, poz. 622 i Nr 131, poz. 764, z 2012 r. poz. 1529 i 1540, z 2014 r. poz. 223, 1328 i 1563 oraz z 2015 r. poz. 211, 699, 978, 1333 i 1595.). ” , ust. 7 otrzymuje brzmienie: „
 
 - **e)**
 
@@ -92,11 +110,15 @@ source: "eli-html"
 - **8)** w art. 27: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Wpis do CEIDG jest dokonywany, jeżeli wniosek jest poprawny. ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) niezawierający danych, o których mowa w art. 25 ust. 1, lub ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) zawierający dane, o których mowa w art. 25 ust. 1, niezgodne z przepisami prawa, lub ” , – pkt 6 otrzymuje brzmienie: „ 6) niepodpisany, lub ” , – dodaje się pkt 7 w brzmieniu: „ 7) złożony przez osobę nieuprawnioną. ” , w ust. 4 dodaje się zdanie drugie w brzmieniu: „ Przepis art. 33a stosuje się odpowiednio. ” , ust. 8 i 9 otrzymują brzmienie: „
+1. Wpis do CEIDG jest dokonywany, jeżeli wniosek jest poprawny. ” , w ust. 2: pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
-- **d)**
+- **1)** niezawierający danych, o których mowa w art. 25 ust. 1, lub ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** zawierający dane, o których mowa w art. 25 ust. 1, niezgodne z przepisami prawa, lub ” , pkt 6 otrzymuje brzmienie: „
+- **6)** niepodpisany, lub ” , dodaje się pkt 7 w brzmieniu: „
+- **7)** złożony przez osobę nieuprawnioną. ” , w ust. 4 dodaje się zdanie drugie w brzmieniu: „ Przepis art. 33a stosuje się odpowiednio. ” , ust. 8 i 9 otrzymują brzmienie: „
+    - **c)**
+    - **d)**
 
 8. Wniosek o wpis do CEIDG składany w sposób określony w art. 26 ust. 2 pkt 1 opatrzony jest własnoręcznym podpisem osoby uprawnionej.
 
@@ -107,7 +129,7 @@ source: "eli-html"
 **Art. 28.** CEIDG przesyła odpowiednie dane zawarte we wniosku o wpis do CEIDG, o których mowa w art. 25 ust. 5, za pośrednictwem elektronicznej platformy usług administracji publicznej lub innych środków komunikacji elektronicznej, niezwłocznie, nie później niż w dniu roboczym następującym po dokonaniu wpisu, do właściwego naczelnika urzędu skarbowego wskazanego przez przedsiębiorcę, a po uzyskaniu informacji o nadanym numerze identyfikacji podatkowej (NIP) do:
 
 - **1)** Głównego Urzędu Statystycznego,
-- **2)** Zakładu Ubezpieczeń Społecznych albo Kasy Rolniczego Ubezpieczenia Społecznego wraz z informacją o dokonaniu wpisu do CEIDG i nadanym numerze identyfikacji podatkowej (NIP). ” ;
+- **2)** Zakładu Ubezpieczeń Społecznych albo Kasy Rolniczego Ubezpieczenia Społecznego – wraz z informacją o dokonaniu wpisu do CEIDG i nadanym numerze identyfikacji podatkowej (NIP). ” ;
 - **10)** po art. 29 dodaje się art. 29a w brzmieniu: „
 
 **Art. 29a.**
@@ -189,10 +211,11 @@ source: "eli-html"
 - **15)** w art. 34: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Dane zawarte w CEIDG nie mogą być z niej usunięte, chyba że przepisy prawa stanowią inaczej. Wykreślenie przedsiębiorcy z CEIDG nie oznacza usunięcia danych z wpisu do CEIDG. ” , w ust. 2: – uchyla się pkt 1, 1a i 3, – pkt 5 otrzymuje brzmienie: „ 5) gdy wpis został dokonany z naruszeniem prawa. ” , dodaje się ust. 4–8 w brzmieniu: „
+1. Dane zawarte w CEIDG nie mogą być z niej usunięte, chyba że przepisy prawa stanowią inaczej. Wykreślenie przedsiębiorcy z CEIDG nie oznacza usunięcia danych z wpisu do CEIDG. ” , w ust. 2: – uchyla się pkt 1, 1a i 3, pkt 5 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **5)** gdy wpis został dokonany z naruszeniem prawa. ” , dodaje się ust. 4–8 w brzmieniu: „
+    - **c)**
 
 4. Minister właściwy do spraw gospodarki na potrzeby prowadzonego postępowania korzysta z danych zawartych w rejestrze PESEL.
 
@@ -291,7 +314,7 @@ source: "eli-html"
 
 - **3)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” .
 
-**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863 oraz z 2015 r. poz. 73, 211, 251, 478, 693, 699, 860, 933, 978, 1197, 1217, 1259, 1296, 1321, 1322, 1333, 1569, 1595, 1607, 1688, 1767, 1784 i 1844.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9a: w ust. 1 zdanie drugie otrzymuje brzmienie: „ Wniosek lub oświadczenie o zastosowanie form opodatkowania określonych w ustawie o zryczałtowanym podatku dochodowym podatnicy mogą złożyć na podstawie przepisów o swobodzie działalności gospodarczej. ” , ust. 2 otrzymuje brzmienie: „
     - **a)**
@@ -314,22 +337,22 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-**Art. 4.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.) w art. 2 w ust. 2 dodaje się zdanie trzecie w brzmieniu: „ Osoby fizyczne lub wspólnicy spółek cywilnych osób fizycznych mogą złożyć zawiadomienie na podstawie przepisów o swobodzie działalności gospodarczej. ” .
+**Art. 4.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4, 978, 1045, 1166, 1333 i 1844.) w art. 2 w ust. 2 dodaje się zdanie trzecie w brzmieniu: „ Osoby fizyczne lub wspólnicy spółek cywilnych osób fizycznych mogą złożyć zawiadomienie na podstawie przepisów o swobodzie działalności gospodarczej. ” .
 
-**Art. 5.** W ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm.) w art. 42 w ust. 3:
+**Art. 5.** W ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 2, z 2014 r. poz. 1161 i 1662 oraz z 2015 r. poz. 855 i 1240.) w art. 42 w ust. 3:
 
 - **1)** pkt 2 otrzymuje brzmienie: „
 - **2)** numer identyfikacji podatkowej (NIP) oraz informacje o jego unieważnieniu lub uchyleniu; ” ;
 - **2)** pkt 5 otrzymuje brzmienie: „
 - **5)** daty: powstania podmiotu, rozpoczęcia działalności, zawieszenia i wznowienia działalności, wpisu do ewidencji lub rejestru, orzeczenia o ogłoszeniu upadłości, zakończenia postępowania upadłościowego, zakończenia działalności albo trwałego zakończenia działalności w przypadku osób fizycznych wpisanych do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, skreślenia z ewidencji lub rejestru, wpisu oraz skreślenia z rejestru podmiotów; ” .
 
-**Art. 6.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2012 r. poz. 1314, z późn. zm.) w art. 15 w ust. 1b dodaje się zdanie drugie w brzmieniu: „ W przypadku osób fizycznych wpisanych do Centralnej Ewidencji i Informacji o Działalności Gospodarczej i wykonujących działalność gospodarczą również nie są objęte tajemnicą skarbową dane: nazwa (firma), adresy, pod którymi jest wykonywana działalność gospodarcza, w tym adres głównego miejsca wykonywania działalności, oraz przedmiot wykonywanej działalności określony według obowiązujących standardów klasyfikacyjnych. ” .
+**Art. 6.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2012 r. poz. 1314, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 2, z 2014 r. poz. 1161 oraz z 2015 r. poz. 1224, 1269 i 1649.) w art. 15 w ust. 1b dodaje się zdanie drugie w brzmieniu: „ W przypadku osób fizycznych wpisanych do Centralnej Ewidencji i Informacji o Działalności Gospodarczej i wykonujących działalność gospodarczą również nie są objęte tajemnicą skarbową dane: nazwa (firma), adresy, pod którymi jest wykonywana działalność gospodarcza, w tym adres głównego miejsca wykonywania działalności, oraz przedmiot wykonywanej działalności określony według obowiązujących standardów klasyfikacyjnych. ” .
 
 **Art. 7.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2015 r. poz. 464 i 1633) w art. 19c w ust. 3 pkt 7 otrzymuje brzmienie: „
 
 - **7)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile organizator kształcenia taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” .
 
-**Art. 8.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662 oraz z 2015 r. poz. 151, 478, 942 i 1618.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9a w ust. 5 pkt 2 otrzymuje brzmienie: „
 - **2)** oświadczenie następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że dane zawarte w informacji, o której mowa w art. 9a ust. 5 pkt 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, są zgodne z prawdą.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań. ” ;
@@ -342,7 +365,7 @@ source: "eli-html"
 - **5)** w art. 37 w ust. 1 pkt 7 otrzymuje brzmienie: „
 - **7)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, lub numer równoważnego rejestru państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Turcji oraz numer identyfikacji podatkowej (NIP). ” .
 
-**Art. 9.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 9.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970 oraz z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1359, 1649, 1830 i 1844.) wprowadza się następujące zmiany:
 
 - **1)** w art. 75ab w ust. 1 pkt 2 otrzymuje brzmienie: „
 - **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada; ” ;
@@ -355,9 +378,9 @@ oznaczenie jego poprzedniego numeru rejestru sądowego, ” .
 
 - **e)**
 
-**Art. 11.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2015 r. poz. 121, z późn. zm.) po art. 36a dodaje się art. 36b w brzmieniu: „ 1. Osoby, o których mowa w art. 6 ust. 1 pkt 5, będące przedsiębiorcami w rozumieniu przepisów o swobodzie działalności gospodarczej na podstawie tych przepisów mogą dokonywać zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach, z wyjątkiem zmiany danych, o których mowa w art. 36 ust. 14. 2. Za dzień dokonania zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach uważa się dzień złożenia wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej wraz z żądaniem dokonania tych zgłoszeń lub zmiany danych wykazanych w zgłoszeniach na podstawie przepisów o swobodzie działalności gospodarczej. ” .
+**Art. 11.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2015 r. poz. 121, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 689, 978, 1037, 1066, 1240, 1268, 1269, 1506, 1649, 1735 i 1830.) po art. 36a dodaje się art. 36b w brzmieniu: „ 1. Osoby, o których mowa w art. 6 ust. 1 pkt 5, będące przedsiębiorcami w rozumieniu przepisów o swobodzie działalności gospodarczej na podstawie tych przepisów mogą dokonywać zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach, z wyjątkiem zmiany danych, o których mowa w art. 36 ust. 14. 2. Za dzień dokonania zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach uważa się dzień złożenia wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej wraz z żądaniem dokonania tych zgłoszeń lub zmiany danych wykazanych w zgłoszeniach na podstawie przepisów o swobodzie działalności gospodarczej. ” .
 
-**Art. 12.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 12.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324, z 2001 r. Nr 74, poz. 784, Nr 88, poz. 961, Nr 125, poz. 1363 i 1369 i Nr 134, poz. 1509, z 2002 r. Nr 141, poz. 1183, Nr 169, poz. 1384, Nr 172, poz. 1412 i Nr 200, poz. 1679, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 135, poz. 1268, Nr 137, poz. 1302 i Nr 202, poz. 1958, z 2004 r. Nr 210, poz. 2135 i Nr 263, poz. 2619, z 2005 r. Nr 143, poz. 1199, Nr 164, poz. 1366 i Nr 169, poz. 1420, z 2006 r. Nr 183, poz. 1353 i Nr 217, poz. 1588, z 2008 r. Nr 141, poz. 888, Nr 143, poz. 894 i Nr 209, poz. 1316, z 2009 r. Nr 157, poz. 1241 i Nr 201, poz. 1541, z 2010 r. Nr 3, poz. 13, Nr 28, poz. 146, Nr 75, poz. 473, Nr 219, poz. 1442 i Nr 226, poz. 1478, z 2011 r. Nr 106, poz. 622 i Nr 131, poz. 764, z 2012 r. poz. 1529 i 1540, z 2014 r. poz. 223, 1328 i 1563 oraz z 2015 r. poz. 211, 699, 978, 1333 i 1595.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -416,7 +439,7 @@ oznaczenie jego poprzedniego numeru rejestru sądowego, ” .
 
 - **2)** nazwę (firmę), formę organizacyjno-prawną, siedzibę i adres podmiotu, który prowadzi laboratorium, oraz numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo w innym właściwym rejestrze, o ile podmiot taki numer posiada, a także numer identyfikacji podatkowej (NIP). ” .
 
-**Art. 22.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 22.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805, 915 i 1310 oraz z 2015 r. poz. 211, 390, 978, 1269 i 1273.) wprowadza się następujące zmiany:
 
 - **1)** w art. 21 ust. 3 otrzymuje brzmienie: „
 
@@ -442,7 +465,7 @@ oznaczenie jego poprzedniego numeru rejestru sądowego, ” .
 
 - **2a)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” .
 
-**Art. 25.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2013 r. poz. 1393, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 25.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2013 r. poz. 1393, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 768 oraz z 2015 r. poz. 978, 1221 i 1586.) wprowadza się następujące zmiany:
 
 - **1)** w art. 95a w ust. 3 pkt 2 otrzymuje brzmienie: „
 - **2)** oznaczenie formy prawnej i numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo w innym właściwym rejestrze, o ile przedsiębiorca taki numer posiada; ” ;
@@ -452,9 +475,9 @@ oznaczenie jego poprzedniego numeru rejestru sądowego, ” .
 - **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada; ” . W ustawie z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. z 2012 r. poz. 826, z 2013 r. poz. 1036 oraz z 2015 r. poz. 855) w art. 17 w ust. 1 pkt 2 otrzymuje brzmienie: „
 - **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada; ” .
 
-**Art. 27.** W ustawie z dnia 23 listopada 2002 r. o Sądzie Najwyższym (Dz. U. z 2013 r. poz. 499, z późn. zm.) w art. 60 § 2 otrzymuje brzmienie: „
+**Art. 27.** W ustawie z dnia 23 listopada 2002 r. o Sądzie Najwyższym (Dz. U. z 2013 r. poz. 499, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 504, 1031 i 1081 oraz z 2015 r. poz. 1066, 1167, 1240 i 1348.) w art. 60 § 2 otrzymuje brzmienie: „
 
-§ 2. Z wnioskiem, o którym mowa w § 1, mogą wystąpić również Rzecznik Praw Obywatelskich i Prokurator Generalny oraz, w zakresie swojej właściwości, Rzecznik Praw Dziecka, Przewodniczący Rady Dialogu Społecznego, Przewodniczący Komisji Nadzoru Finansowego i Rzecznik Finansowy. ” . W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2015 r. poz. 1297, z późn. zm.) w art. 48 w ust. 2 pkt 2 otrzymuje brzmienie: „
+§ 2. Z wnioskiem, o którym mowa w § 1, mogą wystąpić również Rzecznik Praw Obywatelskich i Prokurator Generalny oraz, w zakresie swojej właściwości, Rzecznik Praw Dziecka, Przewodniczący Rady Dialogu Społecznego, Przewodniczący Komisji Nadzoru Finansowego i Rzecznik Finansowy. ” . W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2015 r. poz. 1297, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1741, 1753 i 1777.) w art. 48 w ust. 2 pkt 2 otrzymuje brzmienie: „
 
 - **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada; ” . W ustawie z dnia 22 maja 2003 r. o pośrednictwie ubezpieczeniowym (Dz. U. z 2014 r. poz. 1450 oraz z 2015 r. poz. 1844) w art. 28 w ust. 4 pkt 2 otrzymuje brzmienie: „
 - **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” .
@@ -468,12 +491,12 @@ oznaczenie jego poprzedniego numeru rejestru sądowego, ” .
 - **2)** w ust. 3 pkt 7 otrzymuje brzmienie: „
 - **7)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP). ” .
 
-**Art. 31.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2012 r. poz. 633, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 31.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2012 r. poz. 633, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1512, z 2014 r. poz. 1146 oraz z 2015 r. poz. 1419.) wprowadza się następujące zmiany:
 
 - **1)** w art. 22 w ust. 5 pkt 4 otrzymuje brzmienie: „
 - **4)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada; ” ;
 - **2)** w art. 31 w ust. 10e pkt 3 otrzymuje brzmienie: „
-- **3)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile producent cukru taki numer posiada; ” . W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2015 r. poz. 163, z późn. zm.) w art. 57:
+- **3)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile producent cukru taki numer posiada; ” . W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2015 r. poz. 163, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 693, 1045, 1240, 1310, 1359, 1607, 1616 i 1830.) w art. 57:
 - **1)** w ust. 3a pkt 2 otrzymuje brzmienie: „
 - **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo wskazanie dokumentu określającego status prawny podmiotu; ” ;
 - **2)** w ust. 3b w pkt 4 lit. a otrzymuje brzmienie: „ dokumenty potwierdzające status prawny podmiotu, w przypadku gdy nie podlega wpisowi do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym lub do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, ” . W ustawie z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2015 r. poz. 858, 1649 i 1844) w art. 26 ust. 7 otrzymuje brzmienie: „
@@ -485,26 +508,26 @@ oznaczenie jego poprzedniego numeru rejestru sądowego, ” .
 
 - **3)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile wnioskodawca taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” .
 
-**Art. 35.** W ustawie z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2013 r. poz. 50, z późn. zm.) w art. 4 w ust. 3 pkt 1a otrzymuje brzmienie: „
+**Art. 35.** W ustawie z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2013 r. poz. 50, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1272 oraz z 2015 r. poz. 165 i 1419.) w art. 4 w ust. 3 pkt 1a otrzymuje brzmienie: „
 
-- **1a)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile wnioskodawca taki numer posiada; ” . W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.) wprowadza się następujące zmiany:
+- **1a)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile wnioskodawca taki numer posiada; ” . W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069.) wprowadza się następujące zmiany:
 - **1)** w art. 10 w ust. 4 pkt 3 i 4 otrzymują brzmienie: „
 - **3)** numer identyfikacji podatkowej (NIP);
 - **4)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym lub innym właściwym rejestrze prowadzonym w państwie członkowskim lub innym państwie określonym w ust. 1, o ile przedsiębiorca taki numer posiada; ” ;
 - **2)** w art. 60a w ust. 1a w pkt 2 lit. b otrzymuje brzmienie: „ numer identyfikacyjny REGON lub numer identyfikacji podatkowej (NIP), lub numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym lub innym właściwym rejestrze prowadzonym w państwie członkowskim, ” .
     - **b)**
 
-**Art. 37.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.) w art. 74 dodaje się ust. 3 w brzmieniu: „ 3. Osoby, o których mowa w art. 66 ust. 1 pkt 1 lit. c, będące przedsiębiorcami w rozumieniu przepisów o swobodzie działalności gospodarczej, na podstawie tych przepisów mogą dokonywać zgłoszenia do ubezpieczenia zdrowotnego, zgłoszenia do ubezpieczenia zdrowotnego członków rodziny, zgłoszenia wyrejestrowania z ubezpieczenia zdrowotnego lub zmiany danych wykazanych w tych zgłoszeniach. ” .
+**Art. 37.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269, 1365, 1569, 1692, 1735, 1830 i 1844.) w art. 74 dodaje się ust. 3 w brzmieniu: „ 3. Osoby, o których mowa w art. 66 ust. 1 pkt 1 lit. c, będące przedsiębiorcami w rozumieniu przepisów o swobodzie działalności gospodarczej, na podstawie tych przepisów mogą dokonywać zgłoszenia do ubezpieczenia zdrowotnego, zgłoszenia do ubezpieczenia zdrowotnego członków rodziny, zgłoszenia wyrejestrowania z ubezpieczenia zdrowotnego lub zmiany danych wykazanych w tych zgłoszeniach. ” .
 
 **Art. 38.** W ustawie z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2015 r. poz. 793) w art. 40 w ust. 3 pkt 2 otrzymuje brzmienie: „
 
-- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo innym właściwym rejestrze, o ile bank tkanek i komórek taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” . W ustawie z dnia 7 lipca 2005 r. o działalności lobbingowej w procesie stanowienia prawa (Dz. U. Nr 169, poz. 1414, z późn. zm.) wprowadza się następujące zmiany:
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo innym właściwym rejestrze, o ile bank tkanek i komórek taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” . W ustawie z dnia 7 lipca 2005 r. o działalności lobbingowej w procesie stanowienia prawa (Dz. U. Nr 169, poz. 1414, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 42, poz. 337 oraz z 2011 r. Nr 106, poz. 622 i Nr 161, poz. 966.) wprowadza się następujące zmiany:
 - **1)** w art. 10 w ust. 3 pkt 2 otrzymuje brzmienie: „
 - **2)** w przypadku przedsiębiorców wykonujących zawodową działalność lobbingową – numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile taki numer posiadają, oraz numer identyfikacji podatkowej (NIP). ” ;
 - **2)** w art. 11 w ust. 2 pkt 2 otrzymuje brzmienie: „
 - **2)** w przypadku przedsiębiorców wykonujących zawodową działalność lobbingową – numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile taki numer posiadają, oraz numer identyfikacji podatkowej (NIP). ” .
 
-**Art. 40.** W ustawie z dnia 29 lipca 2005 r. o systemie tachografów cyfrowych (Dz. U. Nr 180, poz. 1494, z późn. zm.) w art. 6 w ust. 3 pkt 1a otrzymuje brzmienie: „
+**Art. 40.** W ustawie z dnia 29 lipca 2005 r. o systemie tachografów cyfrowych (Dz. U. Nr 180, poz. 1494, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 661 oraz z 2011 r. Nr 106, poz. 622 i Nr 171, poz. 1016.) w art. 6 w ust. 3 pkt 1a otrzymuje brzmienie: „
 
 - **1a)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile wnioskodawca taki numer posiada; ” .
 
@@ -537,7 +560,7 @@ oznaczenie jego poprzedniego numeru rejestru sądowego, ” .
 
 - **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada; ” .
 
-**Art. 46.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2015 r. poz. 783, z późn. zm.) w załączniku do ustawy w części I w ust. 35 w kolumnie 4 pkt 1 otrzymuje brzmienie: „
+**Art. 46.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2015 r. poz. 783, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1358, 1607, 1649 i 1844.) w załączniku do ustawy w części I w ust. 35 w kolumnie 4 pkt 1 otrzymuje brzmienie: „
 
 - **1)** imiona i nazwisko, numer PESEL lub, gdy ten nie został nadany, numer paszportu, dowodu osobistego lub innego dokumentu potwierdzającego tożsamość, adres zamieszkania, numer identyfikacji podatkowej (NIP), numer w rejestrze przedsiębiorców, firmę przedsiębiorcy, pod którą wykonywana jest działalność gospodarcza, siedzibę i adres – w przypadku agenta ubezpieczeniowego będącego osobą fizyczną ” .
 
@@ -545,7 +568,7 @@ oznaczenie jego poprzedniego numeru rejestru sądowego, ” .
 
 - **4)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile wnioskodawca taki numer posiada; ” .
 
-**Art. 48.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2014 r. poz. 752, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 48.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2014 r. poz. 752, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1559, 1662 i 1877 oraz z 2015 r. poz. 18, 211, 978, 1269, 1479, 1649 i 1844.) wprowadza się następujące zmiany:
 
 - **1)** w art. 49 ust. 3 i 4 otrzymują brzmienie: „
 
@@ -574,7 +597,7 @@ oznaczenie jego poprzedniego numeru rejestru sądowego, ” .
 
 2. Wniosek, o którym mowa w ust. 1, powinien zawierać dane dotyczące sprzedawcy i prowadzonej przez niego działalności gospodarczej, w szczególności imię i nazwisko lub nazwę sprzedawcy, adres jego siedziby lub zamieszkania, określenie rodzaju prowadzonej działalności gospodarczej, dane identyfikacyjne przedstawiciela podatkowego, w szczególności imię i nazwisko lub nazwę przedstawiciela podatkowego, adres jego siedziby lub zamieszkania, numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedstawiciel podatkowy taki numer posiada, numer identyfikacyjny REGON oraz numer identyfikacji podatkowej (NIP), adres poczty elektronicznej, a także rodzaj wyrobów akcyzowych, które będą nabywane wewnątrzwspólnotowo. ” .
 
-**Art. 49.** W ustawie z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 47, poz. 278, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 49.** W ustawie z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 47, poz. 278, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 227, poz. 1367 i Nr 228, poz. 1368 oraz z 2015 r. poz. 1513.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 ust. 1 otrzymuje brzmienie: „
 
@@ -603,7 +626,7 @@ oznaczenie jego poprzedniego numeru rejestru sądowego, ” .
 - **5)** w art. 64 w ust. 1 pkt 1 otrzymuje brzmienie: „
 - **1)** nie wystąpił do właściwego organizatora z wnioskiem o zmianę treści zaświadczenia, o którym mowa w art. 28 ust. 1, lub potwierdzenia, o którym mowa w art. 30 ust. 1, w przypadku wszelkich zmian dotyczących: oznaczenia przedsiębiorcy, jego siedziby (miejsca zamieszkania) lub adresu, numeru w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile operator lub przewoźnik taki numer posiada, numeru identyfikacji podatkowej (NIP), nie później niż w terminie 14 dni od dnia ich powstania, ” .
 
-**Art. 51.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2015 r. poz. 155, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 51.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2015 r. poz. 155, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 541, 1045, 1273 i 1327.) wprowadza się następujące zmiany:
 
 - **1)** w art. 28 w ust. 4 pkt 2 otrzymuje brzmienie: „
 - **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym – o ile taki numer jest wymagany; ” ;
@@ -627,15 +650,15 @@ w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębior
 
 - **a)**
 
-**Art. 54.** W ustawie z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. Nr 135, poz. 789, z późn. zm.) w art. 45 w ust. 2 pkt 2 otrzymuje brzmienie: „
+**Art. 54.** W ustawie z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. Nr 135, poz. 789, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2014 r. poz. 40 oraz z 2015 r. poz. 1045 i 1777.) w art. 45 w ust. 2 pkt 2 otrzymuje brzmienie: „
 
 - **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” .
 
-**Art. 55.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2014 r. poz. 1435, z późn. zm.) w art. 76 w ust. 1 pkt 3 otrzymuje brzmienie: „
+**Art. 55.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2014 r. poz. 1435, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1491 i 1877 oraz z 2015 r. poz. 978 i 1640.) w art. 76 w ust. 1 pkt 3 otrzymuje brzmienie: „
 
 - **3)** numer wpisu do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym – w przypadku podmiotu podlegającego obowiązkowi takiego wpisu; ” .
 
-**Art. 56.** W ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2014 r. poz. 873, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 56.** W ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2014 r. poz. 873, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1916 oraz z 2015 r. poz. 1764 i 1830.) wprowadza się następujące zmiany:
 
 - **1)** w art. 12a w ust. 2 w pkt 2 lit. b otrzymuje brzmienie: „ numer identyfikacji podatkowej (NIP). ” ;
     - **b)**
@@ -742,16 +765,16 @@ w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębior
 - **35)** art. 20 ust. 2 ustawy zmienianej w art. 53,
 - **36)** art. 76 ust. 1 ustawy zmienianej w art. 55,
 - **37)** art. 122 ust. 1 ustawy zmienianej w art. 56,
-- **38)** art. 50 ust. 7 ustawy zmienianej w art. 57 uznaje się za wnioski złożone zgodnie z wymogami ustaw wymienionych w pkt 1–38 w brzmieniu dotychczasowym.
+- **38)** art. 50 ust. 7 ustawy zmienianej w art. 57 – uznaje się za wnioski złożone zgodnie z wymogami ustaw wymienionych w pkt 1–38 w brzmieniu dotychczasowym.
 
 **Art. 72.** Koncesje i zaświadczenia wydane przed dniem wejścia w życie niniejszej ustawy zgodnie z:
 
 - **1)** art. 33 ust. 1 i art. 37 ust. 1 ustawy zmienianej w art. 8,
 - **2)** art. 14 ust. 1 ustawy zmienianej w art. 19,
-- **3)** art. 33 ust. 3 ustawy zmienianej w art. 22 w brzmieniu dotychczasowym, uznaje się za zgodne z przepisami ustaw zmienianych w art. 8, art. 19 i art. 22 w brzmieniu nadanym niniejszą ustawą. Zgłoszenia dokonane przed dniem wejścia w życie niniejszej ustawy zgodnie z:
+- **3)** art. 33 ust. 3 ustawy zmienianej w art. 22 – w brzmieniu dotychczasowym, uznaje się za zgodne z przepisami ustaw zmienianych w art. 8, art. 19 i art. 22 w brzmieniu nadanym niniejszą ustawą. Zgłoszenia dokonane przed dniem wejścia w życie niniejszej ustawy zgodnie z:
 - **1)** art. 12 ust. 3 ustawy zmienianej w art. 14,
 - **2)** art. 11 ust. 2 ustawy zmienianej w art. 39,
-- **3)** art. 84 ust. 3 ustawy zmienianej w art. 59 w brzmieniu dotychczasowym, uznaje się za zgodne z przepisami ustaw zmienianych w art. 14, art. 39 i art. 59 w brzmieniu nadanym niniejszą ustawą.
+- **3)** art. 84 ust. 3 ustawy zmienianej w art. 59 – w brzmieniu dotychczasowym, uznaje się za zgodne z przepisami ustaw zmienianych w art. 14, art. 39 i art. 59 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 74.** Informacje zawarte w ewidencjach, rejestrach i wykazach na podstawie dotychczasowych przepisów uznaje się za zgodne z przepisami ustaw zmienianych w art. 5, art. 7, art. 10, art. 15, art. 17, art. 20, art. 23, art. 29, art. 38, art. 39, art. 50, art. 52, art. 56 i art. 57, w brzmieniu nadanym niniejszą ustawą.
 
@@ -759,9 +782,9 @@ w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębior
 
 - **1)** art. 25 ust. 5 pkt 9 ustawy zmienianej w art. 1,
 - **2)** art. 36b ustawy zmienianej w art. 11,
-- **3)** art. 74 ust. 3 ustawy zmienianej w art. 37 można dokonywać po upływie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+- **3)** art. 74 ust. 3 ustawy zmienianej w art. 37 – można dokonywać po upływie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 76.** Przepis art. 28 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w zakresie przesyłania przez Centralną Ewidencję i Informację o Działalności Gospodarczej zgłoszeń, o których mowa w art. 25 ust. 5 pkt 9 ustawy zmienianej w art. 1, stosuje się po upływie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 77.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 8 pkt 1 i 2, art. 22 pkt 1, art. 27 oraz art. 58 pkt 1, które wchodzą w życie w dniu następującym po dniu ogłoszenia.
+**Art. 77.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 8 pkt 1 i 2, art. 22 pkt 1, art. 27 oraz art. 58 pkt 1, które wchodzą w życie w dniu następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 29 czerwca 1995 r. o statystyce publicznej, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 29 listopada 2000 r. – Prawo atomowe, ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, ustawę z dnia 18 stycznia 2001 r. o wyścigach konnych, ustawę z dnia 2 marca 2001 r. o wyrobie alkoholu etylowego oraz wytwarzaniu wyrobów tytoniowych, ustawę z dnia 7 czerwca 2001 r. o leśnym materiale rozmnożeniowym, ustawę z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków, ustawę z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, ustawę z dnia 6 lipca 2001 r. o usługach detektywistycznych, ustawę z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 18 września 2001 r. o podpisie elektronicznym, ustawę z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego, ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze, ustawę z dnia 27 lipca 2002 r. – Prawo dewizowe, ustawę z dnia 23 listopada 2002 r. o Sądzie Najwyższym, ustawę z dnia 28 marca 2003 r. o transporcie kolejowym, ustawę z dnia 22 maja 2003 r. o pośrednictwie ubezpieczeniowym, ustawę z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt, ustawę z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 19 marca 2004 r. – Prawo celne, ustawę z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt, ustawę z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów, ustawę z dnia 7 lipca 2005 r. o działalności lobbingowej w procesie stanowienia prawa, ustawę z dnia 29 lipca 2005 r. o systemie tachografów cyfrowych, ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, ustawę z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego, ustawę z dnia 22 lipca 2006 r. o paszach, ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia, ustawę z dnia 18 października 2006 r. o wyrobie napojów spirytusowych oraz o rejestracji i ochronie oznaczeń geograficznych napojów spirytusowych, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 10 lipca 2007 r. o nawozach i nawożeniu, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 1 kwietnia 2011 r. – Prawo probiercze, ustawę z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina, ustawę z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, ustawę z dnia 19 sierpnia 2011 r. o usługach płatniczych, ustawę z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych, ustawę z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz ustawę z dnia 9 listopada 2012 r. o nasiennictwie. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712 i 1844. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 689, 978, 1037, 1066, 1240, 1268, 1269, 1506, 1649, 1735 i 1830. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269, 1365, 1569, 1692, 1735, 1830 i 1844. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863 oraz z 2015 r. poz. 73, 211, 251, 478, 693, 699, 860, 933, 978, 1197, 1217, 1259, 1296, 1321, 1322, 1333, 1569, 1595, 1607, 1688, 1767, 1784 i 1844. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324, z 2001 r. Nr 74, poz. 784, Nr 88, poz. 961, Nr 125, poz. 1363 i 1369 i Nr 134, poz. 1509, z 2002 r. Nr 141, poz. 1183, Nr 169, poz. 1384, Nr 172, poz. 1412 i Nr 200, poz. 1679, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 135, poz. 1268, Nr 137, poz. 1302 i Nr 202, poz. 1958, z 2004 r. Nr 210, poz. 2135 i Nr 263, poz. 2619, z 2005 r. Nr 143, poz. 1199, Nr 164, poz. 1366 i Nr 169, poz. 1420, z 2006 r. Nr 183, poz. 1353 i Nr 217, poz. 1588, z 2008 r. Nr 141, poz. 888, Nr 143, poz. 894 i Nr 209, poz. 1316, z 2009 r. Nr 157, poz. 1241 i Nr 201, poz. 1541, z 2010 r. Nr 3, poz. 13, Nr 28, poz. 146, Nr 75, poz. 473, Nr 219, poz. 1442 i Nr 226, poz. 1478, z 2011 r. Nr 106, poz. 622 i Nr 131, poz. 764, z 2012 r. poz. 1529 i 1540, z 2014 r. poz. 223, 1328 i 1563 oraz z 2015 r. poz. 211, 699, 978, 1333 i 1595. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863 oraz z 2015 r. poz. 73, 211, 251, 478, 693, 699, 860, 933, 978, 1197, 1217, 1259, 1296, 1321, 1322, 1333, 1569, 1595, 1607, 1688, 1767, 1784 i 1844. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4, 978, 1045, 1166, 1333 i 1844. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 2, z 2014 r. poz. 1161 i 1662 oraz z 2015 r. poz. 855 i 1240. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 2, z 2014 r. poz. 1161 oraz z 2015 r. poz. 1224, 1269 i 1649. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662 oraz z 2015 r. poz. 151, 478, 942 i 1618. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970 oraz z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1359, 1649, 1830 i 1844. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 689, 978, 1037, 1066, 1240, 1268, 1269, 1506, 1649, 1735 i 1830. 14) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324, z 2001 r. Nr 74, poz. 784, Nr 88, poz. 961, Nr 125, poz. 1363 i 1369 i Nr 134, poz. 1509, z 2002 r. Nr 141, poz. 1183, Nr 169, poz. 1384, Nr 172, poz. 1412 i Nr 200, poz. 1679, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 135, poz. 1268, Nr 137, poz. 1302 i Nr 202, poz. 1958, z 2004 r. Nr 210, poz. 2135 i Nr 263, poz. 2619, z 2005 r. Nr 143, poz. 1199, Nr 164, poz. 1366 i Nr 169, poz. 1420, z 2006 r. Nr 183, poz. 1353 i Nr 217, poz. 1588, z 2008 r. Nr 141, poz. 888, Nr 143, poz. 894 i Nr 209, poz. 1316, z 2009 r. Nr 157, poz. 1241 i Nr 201, poz. 1541, z 2010 r. Nr 3, poz. 13, Nr 28, poz. 146, Nr 75, poz. 473, Nr 219, poz. 1442 i Nr 226, poz. 1478, z 2011 r. Nr 106, poz. 622 i Nr 131, poz. 764, z 2012 r. poz. 1529 i 1540, z 2014 r. poz. 223, 1328 i 1563 oraz z 2015 r. poz. 211, 699, 978, 1333 i 1595. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805, 915 i 1310 oraz z 2015 r. poz. 211, 390, 978, 1269 i 1273. 16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 768 oraz z 2015 r. poz. 978, 1221 i 1586. 17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 504, 1031 i 1081 oraz z 2015 r. poz. 1066, 1167, 1240 i 1348. 18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1741, 1753 i 1777. 19) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1512, z 2014 r. poz. 1146 oraz z 2015 r. poz. 1419. 20) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 693, 1045, 1240, 1310, 1359, 1607, 1616 i 1830. 21) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1272 oraz z 2015 r. poz. 165 i 1419. 22) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069. 23) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269, 1365, 1569, 1692, 1735, 1830 i 1844. 24) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 42, poz. 337 oraz z 2011 r. Nr 106, poz. 622 i Nr 161, poz. 966. 25) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 661 oraz z 2011 r. Nr 106, poz. 622 i Nr 171, poz. 1016. 26) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1358, 1607, 1649 i 1844. 27) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1559, 1662 i 1877 oraz z 2015 r. poz. 18, 211, 978, 1269, 1479, 1649 i 1844. 28) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 227, poz. 1367 i Nr 228, poz. 1368 oraz z 2015 r. poz. 1513. 29) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 541, 1045, 1273 i 1327. 30) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2014 r. poz. 40 oraz z 2015 r. poz. 1045 i 1777. 31) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1491 i 1877 oraz z 2015 r. poz. 978 i 1640. 32) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1916 oraz z 2015 r. poz. 1764 i 1830.
 

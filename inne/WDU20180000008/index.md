@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 grudnia 2017 r. o zmianie ustawy o działalności ubezpieczeniowej i reasekuracyjnej oraz niektórych innych ustaw
+# Ustawa z dnia 14 grudnia 2017 r. o zmianie ustawy o działalności ubezpieczeniowej i reasekuracyjnej oraz niektórych innych ustaw Niniejsza ustawa: 1) w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2009/138/WE z dnia 25 listopada 2009 r. w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 335 z 17.12.2009, str. 1, Dz. Urz. UE L 326 z 08.12.2011, str. 113, Dz. Urz. UE L 249 z 14.09.2012, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 362, Dz. Urz. UE L 341 z 18.12.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1, Dz. Urz. UE L 219 z 25.07.2014, str. 66 oraz Dz. Urz. UE L 354 z 23.12.2016, str. 37); 2) służy stosowaniu rozporządzenia delegowanego Komisji (UE) 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, str. 1, Dz. Urz. UE L 85 z 01.04.2016, str. 6 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 14).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-14 |
 | Data wydania | 2018-01-03 |
-| Wejście w życie | 2018-01-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000008) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/8/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych oraz ustawę z dnia 15 stycznia 2015 r. o obligacjach.
 
 **Art. 1.** W ustawie z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2017 r. poz. 1170, 1089, 1926, 2102 i 2486) wprowadza się następujące zmiany:
 
@@ -45,11 +46,11 @@ source: "eli-html"
     - **h)**
     - **c)**
 
-- **53a)** wewnętrzny zakład ubezpieczeń – zakład ubezpieczeń, którego akcjonariuszem lub udziałowcem jest: podmiot finansowy niebędący zakładem ubezpieczeń albo zakładem reasekuracji albo niewchodzący w skład grupy, w skład której wchodzą zakłady ubezpieczeń lub zakłady reasekuracji, albo podmiot niebędący podmiotem finansowym którego celem jest ubezpieczanie wyłącznie ryzyk podmiotu lub podmiotów będących jego akcjonariuszami lub udziałowcami lub podmiotów grupy, w skład której wchodzi;
+- **53a)** wewnętrzny zakład ubezpieczeń – zakład ubezpieczeń, którego akcjonariuszem lub udziałowcem jest: podmiot finansowy niebędący zakładem ubezpieczeń albo zakładem reasekuracji albo niewchodzący w skład grupy, w skład której wchodzą zakłady ubezpieczeń lub zakłady reasekuracji, albo podmiot niebędący podmiotem finansowym – którego celem jest ubezpieczanie wyłącznie ryzyk podmiotu lub podmiotów będących jego akcjonariuszami lub udziałowcami lub podmiotów grupy, w skład której wchodzi;
     - **a)**
     - **b)**
 
-- **53b)** wewnętrzny zakład reasekuracji – zakład reasekuracji, którego akcjonariuszem lub udziałowcem jest: podmiot finansowy niebędący zakładem ubezpieczeń albo zakładem reasekuracji albo niewchodzący w skład grupy, w skład której wchodzą zakłady ubezpieczeń lub zakłady reasekuracji, albo podmiot niebędący podmiotem finansowym którego celem jest przyjmowanie do reasekuracji wyłącznie ryzyka podmiotu lub podmiotów będących jego akcjonariuszami lub udziałowcami lub podmiotów grupy, w skład której wchodzi; ” ;
+- **53b)** wewnętrzny zakład reasekuracji – zakład reasekuracji, którego akcjonariuszem lub udziałowcem jest: podmiot finansowy niebędący zakładem ubezpieczeń albo zakładem reasekuracji albo niewchodzący w skład grupy, w skład której wchodzą zakłady ubezpieczeń lub zakłady reasekuracji, albo podmiot niebędący podmiotem finansowym – którego celem jest przyjmowanie do reasekuracji wyłącznie ryzyka podmiotu lub podmiotów będących jego akcjonariuszami lub udziałowcami lub podmiotów grupy, w skład której wchodzi; ” ;
     - **a)**
     - **b)**
 
@@ -74,7 +75,7 @@ source: "eli-html"
 - **1)** ryzyko jest umiejscowione na terytorium Rzeczypospolitej Polskiej,
 - **2)** wyłącznie koasekurator wiodący jest odpowiedzialny przed ubezpieczającym za całość ryzyka,
 - **3)** co najmniej jeden zakład ubezpieczeń współubezpieczający ma siedzibę w innym państwie członkowskim Unii Europejskiej niż koasekurator wiodący lub uczestniczy w umowie koasekuracji przez oddział ustanowiony w innym państwie członkowskim Unii Europejskiej niż państwo, w którym koasekurator wiodący ma siedzibę,
-- **4)** koasekurator wiodący ustala wysokość składek ubezpieczeniowych i warunki umowy ubezpieczenia przepisy art. 207 i art. 208 stosuje się wyłącznie do zagranicznego zakładu ubezpieczeń będącego koasekuratorem wiodącym, mającego siedzibę w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej. ” ;
+- **4)** koasekurator wiodący ustala wysokość składek ubezpieczeniowych i warunki umowy ubezpieczenia – przepisy art. 207 i art. 208 stosuje się wyłącznie do zagranicznego zakładu ubezpieczeń będącego koasekuratorem wiodącym, mającego siedzibę w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej. ” ;
 - **6)** po art. 211 dodaje się art. 211a w brzmieniu: „
 
 **Art. 211a.**
@@ -128,5 +129,5 @@ source: "eli-html"
 
 **Art. 4.** Przepisu art. 22 ust. 2 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do obligacji, o których mowa w art. 22 ust. 1 tej ustawy, jeżeli dzień udostępnienia propozycji ich nabycia lub udostępnienia do publicznej wiadomości prospektu emisyjnego albo memorandum informacyjnego przypada przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 10, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 10, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa: 1) w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2009/138/WE z dnia 25 listopada 2009 r. w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 335 z 17.12.2009, str. 1, Dz. Urz. UE L 326 z 08.12.2011, str. 113, Dz. Urz. UE L 249 z 14.09.2012, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 362, Dz. Urz. UE L 341 z 18.12.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1, Dz. Urz. UE L 219 z 25.07.2014, str. 66 oraz Dz. Urz. UE L 354 z 23.12.2016, str. 37); 2) służy stosowaniu rozporządzenia delegowanego Komisji (UE) 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, str. 1, Dz. Urz. UE L 85 z 01.04.2016, str. 6 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 14). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych oraz ustawę z dnia 15 stycznia 2015 r. o obligacjach.
 

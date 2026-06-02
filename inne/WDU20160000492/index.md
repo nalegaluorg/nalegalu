@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-04-01 |
 | Data wydania | 2016-04-13 |
-| Wejście w życie | 2016-04-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000492) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/492/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 7 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2014 r. poz. 1438, z 2015 r. poz. 308 i 349 oraz z 2016 r. poz. 50) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2015 r. poz. 877 oraz z 2016 r. poz. 175) w załączniku w § 3 ust. 1 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2015 r. poz. 877 oraz z 2016 r. poz. 175) w załączniku w § 3 ust. 1 otrzymuje brzmienie: „
 1.
 W skład Centrali Agencji wchodzą:
 1)
@@ -76,8 +74,7 @@ Departament Wsparcia Rybactwa;
 21)
 Departament Zarządzania Należnościami;
 22)
-Departament Zarządzania Zasobami Ludzkimi.
-” .
+Departament Zarządzania Zasobami Ludzkimi. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
 

@@ -8,10 +8,10 @@ pos: 1803
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 29 września 2021 r. o rekompensacie w związku z wprowadzeniem stanu wyjątkowego na obszarze części województwa podlaskiego oraz części województwa lubelskiego w 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 października 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-09-29 |
 | Data wydania | 2021-10-04 |
-| Wejście w życie | 2021-10-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001803) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1803/text.pdf) |
+
+Poz. 1803
+USTAWA z dnia 29 września 2021 r.
+o rekompensacie w związku z wprowadzeniem stanu wyjątkowego na obszarze części województwa podlaskiego oraz części województwa lubelskiego w 2021 r.
 
 **Art. 1.**
 
@@ -52,7 +55,7 @@ source: "eli-html"
 
 6. Przepisy art. 5 ust. 1–3 i 5 oraz art. 6–9 ustawy z dnia 22 listopada 2002 r. o wyrównywaniu strat majątkowych wynikających z ograniczenia w czasie stanu nadzwyczajnego wolności i praw człowieka i obywatela stosuje się odpowiednio.
 
-7. Nie pobiera się opłat od pozwu o rekompensatę wniesionego przez wnioskodawcę.
+7. Nie pobiera się opłat od pozwu o rekompensatę wniesionego przez wnioskodawcę. Dziennik Ustaw – 2 – Poz. 1803
 
 **Art. 4.** Przychód z tytułu rekompensaty nie stanowi przychodu w rozumieniu przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych.
 
@@ -61,7 +64,7 @@ source: "eli-html"
 - **1)** stratę majątkową poniesioną w związku z prowadzeniem działalności, o której mowa w art. 1, powstałej na skutek stanu wyjątkowego wprowadzonego rozporządzeniem, o którym mowa w art. 1 ust. 1, oraz
 - **2)** utracone korzyści, które wnioskodawca mógłby osiągnąć, gdyby strata, o której mowa w pkt 1, nie powstała.
 
-**Art. 6.** Rekompensata stanowi pomoc de minimis i może być udzielana w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa unijnego dotyczących pomocy w ramach zasady de minimis .
+**Art. 6.** Rekompensata stanowi pomoc de minimis i może być udzielana w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa unijnego dotyczących pomocy w ramach zasady de minimis.
 
 **Art. 7.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

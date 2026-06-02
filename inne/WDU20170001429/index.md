@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 17 lipca 2017 r. w sprawie orzekania o niezdolności do wykonywania zawodu fizjoterapeuty oraz trybu postępowania w sprawach zawieszania albo ograniczenia prawa wykonywania zawodu
+# Rozporządzenie Ministra Zdrowiaz dnia 17 lipca 2017 r. w sprawie orzekania o niezdolności do wykonywania zawodu fizjoterapeuty oraz trybu postępowania w sprawach zawieszania albo ograniczenia prawa wykonywania zawodu Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-17 |
 | Data wydania | 2017-07-26 |
-| Wejście w życie | 2017-07-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001429) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1429/text.pdf) |
 
@@ -143,6 +142,5 @@ Decyzję ministra właściwego do spraw zdrowia w sprawie odwołania od uchwały
 3.
 Do odwołania od uchwały, o której mowa w § 10, stosuje się odpowiednio przepisy rozdziałów 6 i 7 w dziale I oraz rozdziału 10 w dziale II ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z tym że KRF jest obowiązana przesłać odwołanie wraz z aktami sprawy ministrowi właściwemu do spraw zdrowia w terminie 30 dni od dnia, w którym otrzymała odwołanie, jeżeli w tym terminie nie podjęła nowej uchwały, w której uchyliła lub zmieniła zaskarżoną uchwałę.
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 

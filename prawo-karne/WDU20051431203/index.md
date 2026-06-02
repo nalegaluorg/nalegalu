@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-07 |
 | Data wydania | 2005-08-02 |
-| Wejście w życie | 2005-08-02 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051431203) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1203/text.pdf) |
 
+Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie postanowienia o zatrzymaniu dowodów lub mającego na celu zabezpieczenie mienia
+Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia o zatrzymaniu dowodów lub mającego na celu zabezpieczenie mienia
 § 1.
 Właściwy miejscowo sąd rejonowy albo prokurator wykonuje niezwłocznie wydane przez właściwy organ sądowy innego państwa członkowskiego Unii Europejskiej orzeczenie o zatrzymaniu mogących stanowić dowód w sprawie rzeczy, korespondencji, przesyłek, wykazów połączeń telefonicznych lub innych przekazów informacji lub danych przechowywanych w systemie informatycznym lub na nośniku, w tym korespondencji przesyłanej pocztą elektroniczną, albo orzeczenie o zajęciu mienia w celu zabezpieczenia wykonania orzeczenia o przepadku, jeżeli rzeczy te, korespondencja, przesyłki, wykazy, dane lub mienie znajdują się lub są przechowywane na terytorium Rzeczypospolitej Polskiej.
 § 2.
@@ -98,20 +99,17 @@ Nie można jednak odmówić wykonania wniosku, o którym mowa w § 1, powołują
 § 1.
 Jeżeli Skarb Państwa ponosi odpowiedzialność za szkodę wyrządzoną w związku z wykonaniem orzeczenia o zatrzymaniu dowodów albo mającego na celu zabezpieczenie mienia, wydanego przez organ sądowy państwa członkowskiego Unii Europejskiej, Skarb Państwa występuje do właściwego organu tego państwa o zwrot kwoty pieniężnej stanowiącej równowartość wypłaconego odszkodowania.
 § 2.
-Przepisu § 1 nie stosuje się, jeżeli szkoda jest następstwem wyłącznie działania lub zaniechania organu polskiego.
-” ;
+Przepisu § 1 nie stosuje się, jeżeli szkoda jest następstwem wyłącznie działania lub zaniechania organu polskiego. ” ;
 2)
-w art. 613 § 1 otrzymuje brzmienie:
-„
+w art. 613 § 1 otrzymuje brzmienie: „
 § 1.
-Z wyjątkiem wypadków określonych w art. 595 oraz w rozdziałach 62a, 62b, 65a i 65b, z mającymi siedzibę za granicą organami obcego państwa oraz z osobami wymienionymi w art. 578 oraz w art. 579, sądy i prokuratorzy każdorazowo porozumiewają się, w tym przy doręczaniu pism procesowych, za pośrednictwem Ministra Sprawiedliwości, a ten w razie potrzeby przez ministra właściwego do spraw zagranicznych.
-” .
+Z wyjątkiem wypadków określonych w art. 595 oraz w rozdziałach 62a, 62b, 65a i 65b, z mającymi siedzibę za granicą organami obcego państwa oraz z osobami wymienionymi w art. 578 oraz w art. 579, sądy i prokuratorzy każdorazowo porozumiewają się, w tym przy doręczaniu pism procesowych, za pośrednictwem Ministra Sprawiedliwości, a ten w razie potrzeby przez ministra właściwego do spraw zagranicznych. ” .
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641 oraz z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821 i Nr 141, poz. 1181.) wprowadza się następujące zmiany:
 
 - **1)** po rozdziale 62 dodaje się rozdziały 62a i 62b w brzmieniu: „
 
-#### Rozdział 62a Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie postanowienia o zatrzymaniu dowodów lub mającego na celu zabezpieczenie mienia
+#### Rozdział 62a
 
 **Art. 589g.**
 
@@ -141,11 +139,11 @@ Z wyjątkiem wypadków określonych w art. 595 oraz w rozdziałach 62a, 62b, 65a
 
 § 2. Przepisu § 1 nie stosuje się, jeżeli szkoda jest następstwem wyłącznie działania lub zaniechania organu państwa wykonania postanowienia.
 
-#### Rozdział 62b Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia o zatrzymaniu dowodów lub mającego na celu zabezpieczenie mienia
+#### Rozdział 62b
 
-**Art. 2.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. Nr 106, poz. 1148, z późn. zm.) w art. 38 § 1 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. Nr 106, poz. 1148, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 109, poz. 1031 i Nr 213, poz. 2081, z 2004 r. Nr 128, poz. 1351 oraz z 2005 r. Nr 132, poz. 1103.) w art. 38 § 1 otrzymuje brzmienie: „
 
 § 1. Do czynności procesowych prowadzonych w postępowaniu w sprawach o wykroczenia stosuje się odpowiednio także przepisy art. 95, 100 § 1 i 6 zdanie pierwsze, art. 105, 107, 108, 116–134, 136–142, 156 § 1–4, art. 157, 158, 160–166, 476 § 2 i art. 589g-589u Kodeksu postępowania karnego, a gdy sąd orzeka jednoosobowo, również przepisy art. 109–114 i 115 § 1, § 2 zdanie pierwsze oraz § 3 Kodeksu postępowania karnego. ” .
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 2 sierpnia 2005 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 2 sierpnia 2005 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641 oraz z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821 i Nr 141, poz. 1181. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 109, poz. 1031 i Nr 213, poz. 2081, z 2004 r. Nr 128, poz. 1351 oraz z 2005 r. Nr 132, poz. 1103.
 

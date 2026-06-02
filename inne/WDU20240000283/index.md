@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 27 lutego 2024 r. w sprawie sposobu i trybu współdziałania Straży Granicznej z Siłami Zbrojnymi Rzeczypospolitej Polskiej w zakresie ochrony granicy państwowej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 27 lutego 2024 r. w sprawie sposobu i trybu współdziałania Straży Granicznej z Siłami Zbrojnymi Rzeczypospolitej Polskiej w zakresie ochrony granicy państwowej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-27 |
 | Data wydania | 2024-02-29 |
-| Wejście w życie | 2024-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000283) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/283/text.pdf) |
 
@@ -198,6 +197,5 @@ przekazane informacje podlegają niezwłocznemu pisemnemu potwierdzeniu.
 § 11.
 Straż Graniczna oraz Siły Zbrojne w celu doskonalenia metodyki, o której mowa w art. 19 ust. 4 pkt 3 ustawy, organizują wspólne konferencje, spotkania, szkolenia oraz wymieniają informacje, materiały szkoleniowe i dobre praktyki.
 § 12.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2024 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 29 grudnia 2004 r. w sprawie szczegółowych zasad współdziałania Straży Granicznej z Siłami Powietrznymi i Marynarką Wojenną Sił Zbrojnych Rzeczypospolitej Polskiej w zakresie ochrony granicy państwowej (Dz. U. z 2020 r. poz. 1212), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 9 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o ochronie żeglugi i portów morskich oraz niektórych innych ustaw (Dz. U. poz. 1489).
+Rozporządzenie wchodzi w życie z dniem 1 marca 2024 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 29 grudnia 2004 r. w sprawie szczegółowych zasad współdziałania Straży Granicznej z Siłami Powietrznymi i Marynarką Wojenną Sił Zbrojnych Rzeczypospolitej Polskiej w zakresie ochrony granicy państwowej (Dz. U. z 2020 r. poz. 1212), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 9 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o ochronie żeglugi i portów morskich oraz niektórych innych ustaw (Dz. U. poz. 1489). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 29 grudnia 2004 r. w sprawie szczegółowych zasad współdziałania Straży Granicznej z Siłami Powietrznymi i Marynarką Wojenną Sił Zbrojnych Rzeczypospolitej Polskiej w zakresie ochrony granicy państwowej (Dz. U. z 2020 r. poz. 1212), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 9 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o ochronie żeglugi i portów morskich oraz niektórych innych ustaw (Dz. U. poz. 1489).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 29 lipca 2021 r. w sprawie trybu, sposobu i warunków wykonywania zadań przez Państwową Inspekcję Sanitarną na terenie urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz jednostek organizacyjnych podległych temu ministrowi i przez niego nadzorowanych, na terenie podmiotów leczniczych tworzonych przez ministra właściwego do spraw wewnętrznych, w stosunku do pracowników tych jednostek oraz funkcjonariuszy Policji, Państwowej Straży Pożarnej, Straży Granicznej i Służby Ochrony Państwa
+# Rozporządzenie Ministra Zdrowiaz dnia 29 lipca 2021 r. w sprawie trybu, sposobu i warunków wykonywania zadań przez Państwową Inspekcję Sanitarną na terenie urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz jednostek organizacyjnych podległych temu ministrowi i przez niego nadzorowanych, na terenie podmiotów leczniczych tworzonych przez ministra właściwego do spraw wewnętrznych, w stosunku do pracowników tych jednostek oraz funkcjonariuszy Policji, Państwowej Straży Pożarnej, Straży Granicznej i Służby Ochrony Państwa Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-07-29 |
 | Data wydania | 2021-08-11 |
-| Wejście w życie | 2021-08-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001458) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1458/text.pdf) |
 
@@ -35,8 +34,7 @@ na terenie urzędu obsługującego ministra właściwego do spraw wewnętrznych 
 2)
 na terenie podmiotów leczniczych tworzonych przez ministra właściwego do spraw wewnętrznych,
 3)
-w stosunku do pracowników jednostek, o których mowa w pkt 1, oraz funkcjonariuszy Policji, Państwowej Straży Pożarnej, Straży Granicznej i Służby Ochrony Państwa
-wykonuje właściwy rzeczowo i miejscowo państwowy inspektor sanitarny, zwany dalej „właściwym państwowym inspektorem sanitarnym”.
+w stosunku do pracowników jednostek, o których mowa w pkt 1, oraz funkcjonariuszy Policji, Państwowej Straży Pożarnej, Straży Granicznej i Służby Ochrony Państwa – wykonuje właściwy rzeczowo i miejscowo państwowy inspektor sanitarny, zwany dalej „właściwym państwowym inspektorem sanitarnym”.
 § 2.
 1.
 Dokumentami uprawniającymi do wykonywania zadań przez Państwową Inspekcję Sanitarną na terenie urzędu, jednostek organizacyjnych i podmiotów oraz w stosunku do pracowników i funkcjonariuszy, o których mowa w § 1, są:
@@ -94,6 +92,5 @@ Kierownik jednostki kontrolowanej lub upoważniony przez niego pracownik lub fun
 4.
 Właściwy państwowy inspektor sanitarny informuje w formie pisemnej kierownika jednostki kontrolowanej o uwzględnieniu zastrzeżeń w całości lub w części albo o ich nieuwzględnieniu, ze wskazaniem przyczyn nieuwzględnienia zastrzeżeń.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 26 lutego 2019 r. w sprawie wykonywania zadań przez Państwową Inspekcję Sanitarną Ministerstwa Spraw Wewnętrznych i Administracji (Dz. U. poz. 411), które utraciło moc z dniem 1 czerwca 2021 r. zgodnie z art. 19 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o Państwowej Inspekcji Sanitarnej oraz niektórych innych ustaw (Dz. U. poz. 322 i 374).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 26 lutego 2019 r. w sprawie wykonywania zadań przez Państwową Inspekcję Sanitarną Ministerstwa Spraw Wewnętrznych i Administracji (Dz. U. poz. 411), które utraciło moc z dniem 1 czerwca 2021 r. zgodnie z art. 19 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o Państwowej Inspekcji Sanitarnej oraz niektórych innych ustaw (Dz. U. poz. 322 i 374). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 26 lutego 2019 r. w sprawie wykonywania zadań przez Państwową Inspekcję Sanitarną Ministerstwa Spraw Wewnętrznych i Administracji (Dz. U. poz. 411), które utraciło moc z dniem 1 czerwca 2021 r. zgodnie z art. 19 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o Państwowej Inspekcji Sanitarnej oraz niektórych innych ustaw (Dz. U. poz. 322 i 374).
 

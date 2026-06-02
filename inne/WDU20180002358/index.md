@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-03 |
 | Data wydania | 2018-12-19 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002358) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2358/text.pdf) |
 
@@ -60,7 +59,7 @@ Urlopu bezpłatnego można udzielić na inny niż wskazany przez właściwy stat
 § 2.
 Właściwy statutowo organ organizacji związkowej, na której wniosek udzielono pracownikowi urlopu bezpłatnego, niezwłocznie, nie później niż w terminie 7 dni od dnia wygaśnięcia mandatu pracownika do pełnienia z wyboru funkcji związkowej poza zakładem pracy, zawiadamia o tym fakcie pracodawcę.
 § 3.
-Po wygaśnięciu mandatu do pełnienia z wyboru funkcji związkowej poza zakładem pracy pracownik zgłasza pracodawcy swój powrót do pracy, a pracodawca dopuszcza go do pracy – na zasadach określonych w art. 74 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.).
+Po wygaśnięciu mandatu do pełnienia z wyboru funkcji związkowej poza zakładem pracy pracownik zgłasza pracodawcy swój powrót do pracy, a pracodawca dopuszcza go do pracy – na zasadach określonych w art. 74 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244 i 2245.).
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 11 czerwca 1996 r. w sprawie trybu udzielania urlopu bezpłatnego i zwolnień od pracy pracownikom pełniącym z wyboru funkcje w związkach zawodowych oraz zakresu uprawnień przysługujących pracownikom w czasie urlopu bezpłatnego i zwolnień od pracy (Dz. U. poz. 336), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz niektórych innych ustaw (Dz. U. poz. 1608). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244 i 2245. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 11 czerwca 1996 r. w sprawie trybu udzielania urlopu bezpłatnego i zwolnień od pracy pracownikom pełniącym z wyboru funkcje w związkach zawodowych oraz zakresu uprawnień przysługujących pracownikom w czasie urlopu bezpłatnego i zwolnień od pracy (Dz. U. poz. 336), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz niektórych innych ustaw (Dz. U. poz. 1608).
 

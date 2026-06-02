@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Prezesa Rady Ministrówz dnia 12 stycznia 2017 r. w sprawie rejestrów prowadzonych przez Urząd Patentowy Rzeczypospolitej Polskiej
+# Rozporządzenie Prezesa Rady Ministrówz dnia 12 stycznia 2017 r. w sprawie rejestrów prowadzonych przez Urząd Patentowy Rzeczypospolitej Polskiej Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 2 września 2016 r. pod numerem 2016/468/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-01-12 |
 | Data wydania | 2017-01-18 |
-| Wejście w życie | 2017-01-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000115) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/115/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Rejestr patentowy i rejestr wzorów użytkowych Rozdział 3 – Rejestr dodatkowych praw ochronnych Rozdział 4 – Rejestr wzorów przemysłowych Rozdział 5 – Rejestr znaków towarowych Rozdział 6 – Rejestr oznaczeń geograficznych Rozdział 7 – Rejestr topografii układów scalonych Rozdział 8 – Prowadzenie rejestrów oraz warunki i tryb dokonywania wpisów Rozdział 9 – Udostępnianie rejestrów oraz wydawanie wyciągów Rozdział 10 – Przepisy przejściowe i przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 230 ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2013 r. poz. 1410 oraz z 2015 r. poz. 1266, 1505 i 1615) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -55,6 +55,7 @@ Prowadzone przez Urząd Patentowy rejestry są przeznaczone do dokonywania wpis�
 1.
 Rejestry prowadzone są w formie ksiąg rejestrowych lub w postaci elektronicznej.
 2.
+Rejestr patentowy i rejestr wzorów użytkowych
 § 5.
 1.
 Rejestr patentowy przeznaczony jest do dokonywania wpisów o stanie prawnym udzielonych patentów i patentów europejskich.
@@ -143,6 +144,7 @@ rubryki.
 Przepisy § 6–8 stosuje się odpowiednio do rejestru wzorów użytkowych.
 2.
 Przepisy § 8 stosuje się odpowiednio do wyodrębnionej części rejestru patentowego.
+Rejestr dodatkowych praw ochronnych
 § 12.
 1.
 Dodatkowe prawo ochronne z chwilą wpisu do rejestru otrzymuje numer rejestrowy, począwszy od liczby 1. Przy dokonywaniu kolejnych wpisów zachowuje się ciągłość numeracji.
@@ -182,6 +184,7 @@ E – wpisy uzupełniające stan prawny dodatkowego prawa ochronnego;
 F – wnioski o unieważnienie oraz decyzje dotyczące dodatkowego prawa ochronnego;
 7)
 G – data unieważnienia lub data i przyczyna wygaśnięcia dodatkowego prawa ochronnego.
+Rejestr wzorów przemysłowych
 § 15.
 1.
 Prawo z rejestracji wzoru przemysłowego z chwilą wpisu do rejestru otrzymuje numer rejestrowy. Przy dokonywaniu wpisów zachowuje się ciągłość numeracji z dotychczasowym rejestrem wzorów przemysłowych.
@@ -221,6 +224,7 @@ E – wnioski o unieważnienie, sprzeciwy oraz decyzje dotyczące prawa z rejest
 F – data unieważnienia lub data i przyczyna wygaśnięcia prawa z rejestracji.
 § 18.
 W celu określenia przedmiotu wzoru przemysłowego w rejestrze umieszcza się w sposób trwały ilustrację wzoru oraz wpisuje jego tytuł.
+Rejestr znaków towarowych
 § 19.
 1.
 Prawo ochronne na znak towarowy z chwilą wpisu do rejestru otrzymuje numer rejestrowy. Przy dokonywaniu wpisu zachowuje się ciągłość numeracji z dotychczasowym rejestrem znaków towarowych.
@@ -264,6 +268,7 @@ G – rejestracja międzynarodowa (adnotacja o rejestracji międzynarodowej na p
 H – przedłużenia prawa ochronnego, data unieważnienia lub data i przyczyna wygaśnięcia prawa ochronnego, zastąpienie rejestracji krajowej rejestracją międzynarodową.
 § 22.
 W celu określenia znaku towarowego w rejestrze znaków towarowych wpisuje się znak lub zamieszcza odbitkę znaku i podaje klasy elementów graficznych, jeżeli znak je zawiera, oraz, jeżeli jest to niezbędne do identyfikacji znaku, jego rodzaj (znak przestrzenny, znak dźwiękowy), a także w przypadku znaków barwnych określenie kolorów.
+Rejestr oznaczeń geograficznych
 § 23.
 1.
 Prawo z rejestracji oznaczenia geograficznego z chwilą wpisu do rejestru otrzymuje numer rejestrowy. Przy dokonywaniu wpisów zachowuje się ciągłość numeracji z dotychczasowym rejestrem oznaczeń geograficznych.
@@ -305,6 +310,7 @@ G – data unieważnienia lub data i przyczyna wygaśnięcia prawa z rejestracji
 H – opis granic terenu oraz mapa terenu wraz z objaśnieniami;
 9)
 I – opis określający szczególne cechy lub właściwości towarów.
+Rejestr topografii układów scalonych
 § 26.
 1.
 Prawo z rejestracji topografii układu scalonego z chwilą wpisu do rejestru otrzymuje numer rejestrowy. Przy dokonywaniu wpisu zachowuje się ciągłość numeracji z dotychczasowym rejestrem topografii układów scalonych.
@@ -340,6 +346,7 @@ D – prawa ograniczające prawa z rejestracji topografii, zajęcia dokonane prz
 E – wnioski o unieważnienie, sprzeciwy oraz decyzje dotyczące prawa z rejestracji;
 6)
 F – data unieważnienia lub data i przyczyna wygaśnięcia prawa z rejestracji.
+Prowadzenie rejestrów oraz warunki i tryb dokonywania wpisów
 § 29.
 1.
 Wpisu do rejestru udzielonego prawa Urząd Patentowy dokonuje na podstawie decyzji o udzieleniu tego prawa, po stwierdzeniu, że podlega ona wykonaniu.
@@ -367,6 +374,7 @@ Ograniczenie wykazu towarów, zgodnie z art. 168 ustawy, polega na zamieszczeniu
 W celu dokonania zmian w rejestrze, w przypadku przedłużenia prawa ochronnego dla części towarów, stosuje się odpowiednio przepis § 34.
 § 36.
 Wprzypadku przeniesienia prawa ochronnego na znak towarowy w stosunku do niektórych towarów, zgodnie z art. 162 ust. 4 ustawy, lub podzielenia prawa ochronnego, zgodnie z art. 1621 ustawy, wpisy dotyczące przeniesionego lub podzielonego prawa zamieszcza się na odrębnej stronicy rejestrowej oznaczonej tym samym numerem prawa ochronnego z wyróżnikiem na końcu w postaci dodanej po myślniku dużej litery alfabetu łacińskiego. Przepis § 34 stosuje się odpowiednio.
+Udostępnianie rejestrów oraz wydawanie wyciągów
 § 37.
 1.
 Dane zawarte w rejestrach prowadzonych w postaci elektronicznej udostępniane są za pośrednictwem systemów teleinformatycznych zgodnie z ustawą o informatyzacji.
@@ -389,6 +397,7 @@ informacje o aktualnym stanie prawnym, uzupełnione o dane zmienione i wykreślo
 Wyciąg z rejestru zawiera datę jego sporządzenia oraz podpis osoby sporządzającej, poświadczający zgodność wyciągu z odpowiednimi wpisami w rejestrze.
 4.
 Na wniosku, o którym mowa w ust. 1, lub w aktach sprawy sporządza się wzmiankę o wydaniu wyciągu z podaniem daty jego sporządzenia.
+Przepisy przejściowe i przepis końcowy
 § 39.
 1.
 Rejestry prowadzone w Urzędzie Patentowym na podstawie dotychczasowych przepisów uważa się za rejestry w rozumieniu niniejszego rozporządzenia.
@@ -401,27 +410,47 @@ Uznaje się za prawidłowe wpisy w rejestrach działających na podstawie przepi
 § 40.
 Informacje o udzielonych dodatkowych prawach ochronnych wpisane przed dniem 2 grudnia 2016 r. do rejestru patentowego oraz jego wyodrębnionej części podlegają przeniesieniu do rejestru dodatkowych praw ochronnych.
 § 41.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 20 maja 2008 r. w sprawie rejestrów prowadzonych przez Urząd Patentowy Rzeczypospolitej Polskiej (Dz. U. poz. 564), które utraciło moc z dniem 2 grudnia 2016 r., zgodnie z art. 11 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy – Prawo własności przemysłowej oraz niektórych innych ustaw (Dz. U. poz. 1266). 1) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 2 września 2016 r. pod numerem 2016/468/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 20 maja 2008 r. w sprawie rejestrów prowadzonych przez Urząd Patentowy Rzeczypospolitej Polskiej (Dz. U. poz. 564), które utraciło moc z dniem 2 grudnia 2016 r., zgodnie z art. 11 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy – Prawo własności przemysłowej oraz niektórych innych ustaw (Dz. U. poz. 1266).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Rejestr patentowy i rejestr wzorów użytkowych
+
+#### Rozdział 3 – Rejestr dodatkowych praw ochronnych
+
+#### Rozdział 4 – Rejestr wzorów przemysłowych
+
+#### Rozdział 5 – Rejestr znaków towarowych
+
+#### Rozdział 6 – Rejestr oznaczeń geograficznych
+
+#### Rozdział 7 – Rejestr topografii układów scalonych
+
+#### Rozdział 8 – Prowadzenie rejestrów oraz warunki i tryb dokonywania wpisów
+
+#### Rozdział 9 – Udostępnianie rejestrów oraz wydawanie wyciągów
+
+#### Rozdział 10 – Przepisy przejściowe i przepis końcowy
+
+#### Rozdział 1
 
 # Księga rejestrowa prowadzona w formie papierowej może, po akceptacji Prezesa Urzędu Patentowego, zostać zamknięta, jeśli jej zapisy zostały zdigitalizowane i zostało zapewnione przechowywanie danych rejestrowych w sposób zgodny z ustawą o informatyzacji.
 
-#### Rozdział 2 Rejestr patentowy i rejestr wzorów użytkowych
+#### Rozdział 2
 
-#### Rozdział 3 Rejestr dodatkowych praw ochronnych
+#### Rozdział 3
 
-#### Rozdział 4 Rejestr wzorów przemysłowych
+#### Rozdział 4
 
-#### Rozdział 5 Rejestr znaków towarowych
+#### Rozdział 5
 
-#### Rozdział 6 Rejestr oznaczeń geograficznych
+#### Rozdział 6
 
-#### Rozdział 7 Rejestr topografii układów scalonych
+#### Rozdział 7
 
-#### Rozdział 8 Prowadzenie rejestrów oraz warunki i tryb dokonywania wpisów
+#### Rozdział 8
 
-#### Rozdział 9 Udostępnianie rejestrów oraz wydawanie wyciągów
+#### Rozdział 9
 
-#### Rozdział 10 Przepisy przejściowe i przepis końcowy
+#### Rozdział 10
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 2 grudnia 2021 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
+# Ustawa z dnia 2 grudnia 2021 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych oraz ustawę z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-02 |
 | Data wydania | 2021-12-15 |
-| Wejście w życie | 2021-12-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002317) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2317/text.pdf) |
+
+Program aktywizacyjny dla cudzoziemców
 
 **Art. 1.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, 2120, 2133, 2262 i 2269) wprowadza się następujące zmiany:
 
@@ -132,7 +133,7 @@ source: "eli-html"
 8. Składka przekazana na Fundusz Pomocowy nie podlega zwrotowi. W przypadku:
 
 - **1)** składki odprowadzonej lub należnej do odprowadzenia w danym miesiącu za podróżnego, którego impreza turystyczna została odwołana przez organizatora turystyki z powodu niewystarczającej liczby zgłoszeń, jeżeli jej realizacja była uzależniona od liczby zgłoszeń,
-- **2)** zmiany liczby podróżnych, miejsca realizacji imprezy turystycznej, rodzaju zapewnianego środka transportu oraz rozwiązania umowy lub odstąpienia od umowy przez podróżnego składka podlega zarachowaniu na poczet następnych należnych do przekazania składek. ” , po ust. 8 dodaje się ust. 8a-8d w brzmieniu: „
+- **2)** zmiany liczby podróżnych, miejsca realizacji imprezy turystycznej, rodzaju zapewnianego środka transportu oraz rozwiązania umowy lub odstąpienia od umowy przez podróżnego – składka podlega zarachowaniu na poczet następnych należnych do przekazania składek. ” , po ust. 8 dodaje się ust. 8a-8d w brzmieniu: „
     - **c)**
 
 8a. Zwrot składek przekazanych na Fundusz Pomocowy jest dopuszczalny wyłącznie w przypadku:
@@ -169,7 +170,7 @@ source: "eli-html"
 17a. W przypadku:
 
 - **1)** ujawnienia w wyniku przeprowadzonych czynności sprawdzających, że wypłata, o której mowa w ust. 14, stanowi kwotę nienależnie pobraną,
-- **2)** niedokonywania zwrotu wypłat, o których mowa w ust. 17, na Fundusz Pomocowy Ubezpieczeniowy Fundusz Gwarancyjny wzywa organizatora turystyki do zwrotu środków wraz z ustawowymi odsetkami w wysokości określonej w wezwaniu, w terminie 14 dni od dnia doręczenia wezwania. ” , ust. 19 otrzymuje brzmienie: „
+- **2)** niedokonywania zwrotu wypłat, o których mowa w ust. 17, na Fundusz Pomocowy – Ubezpieczeniowy Fundusz Gwarancyjny wzywa organizatora turystyki do zwrotu środków wraz z ustawowymi odsetkami w wysokości określonej w wezwaniu, w terminie 14 dni od dnia doręczenia wezwania. ” , ust. 19 otrzymuje brzmienie: „
     - **g)**
 
 19. W przypadku gdy wpłaty podróżnego dokonane zostały w walucie innej niż polska, kwotę należnej wypłaty ustala się w walucie polskiej z zastosowaniem kursu średniego ogłoszonego dla danej waluty przez Narodowy Bank Polski z dnia poprzedzającego dzień złożenia wniosku przez organizatora turystyki. ” , ust. 23 otrzymuje brzmienie: „
@@ -297,7 +298,7 @@ source: "eli-html"
 
 - **1)** po rozdziale 12a dodaje się rozdział 12b w brzmieniu: „
 
-#### Rozdział 12b Program aktywizacyjny dla cudzoziemców
+#### Rozdział 12b
 
 **Art. 62d.**
 
@@ -374,7 +375,7 @@ source: "eli-html"
 - **1)** wykorzystane niezgodnie z przeznaczeniem,
 - **2)** niewykorzystane,
 - **3)** pobrane nienależnie,
-- **4)** pobrane w nadmiernej wysokości podlegają zwrotowi na rachunek dysponenta Funduszu Pracy.
+- **4)** pobrane w nadmiernej wysokości – podlegają zwrotowi na rachunek dysponenta Funduszu Pracy.
 
 3. Środki Funduszu Pracy, o których mowa w ust. 2 pkt 1, 3 i 4, podlegają zwrotowi wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych. ” ;
 
@@ -442,6 +443,6 @@ source: "eli-html"
 **Art. 12.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 4, pkt 14 lit. b, pkt 15 lit. a i b oraz pkt 16, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 30 czerwca 2021 r.;
-- **2)** art. 1 pkt 6–8, pkt 14 lit. a i c, pkt 15 lit. c i pkt 17, art. 4 oraz art. 9, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+- **2)** art. 1 pkt 6–8, pkt 14 lit. a i c, pkt 15 lit. c i pkt 17, art. 4 oraz art. 9, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych oraz ustawę z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych.
 
 

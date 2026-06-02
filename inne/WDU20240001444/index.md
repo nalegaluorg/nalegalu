@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-26 |
 | Data wydania | 2024-10-01 |
-| Wejście w życie | 2024-10-16 |
 | Ostatnia zmiana | 2025-01-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001444) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1444/text.pdf) |
 
@@ -35,14 +34,11 @@ w § 2 w pkt 5:
 a)
 w lit. a po wyrazach „art. 185a-185c” dodaje się wyrazy „, art. 185e”,
 b)
-w lit. w średnik zastępuje się przecinkiem i dodaje się lit. x w brzmieniu:
-„
+w lit. w średnik zastępuje się przecinkiem i dodaje się lit. x w brzmieniu: „
 x)
-sprawy o ustalenie płci metrykalnej (art. 189 K.p.c.);
-” ;
+sprawy o ustalenie płci metrykalnej (art. 189 K.p.c.); ” ;
 2)
-w § 68 w ust. 1 pkt 2 otrzymuje brzmienie:
-„
+w § 68 w ust. 1 pkt 2 otrzymuje brzmienie: „
 2)
 wskaźnik procentowy udziału w przydziale wpływających do wydziału spraw, wynoszący:
 a)
@@ -62,14 +58,11 @@ co najmniej 30 % – dla sędziego pełniącego funkcję prezesa lub wiceprezesa
 h)
 co najmniej 15 % – dla sędziego delegowanego do pełnienia obowiązków głównego specjalisty w Krajowej Szkole Sądownictwa i Prokuratury lub prowadzenia zajęć szkoleniowych w Krajowej Szkole Sądownictwa i Prokuratury,
 i)
-co najmniej 10 % – dla sędziego delegowanego do pełnienia obowiązków dyrektora Krajowej Szkoły Sądownictwa i Prokuratury, jego zastępcy, kierownika działu albo sekcji w Krajowej Szkole Sądownictwa i Prokuratury.
-” ;
+co najmniej 10 % – dla sędziego delegowanego do pełnienia obowiązków dyrektora Krajowej Szkoły Sądownictwa i Prokuratury, jego zastępcy, kierownika działu albo sekcji w Krajowej Szkole Sądownictwa i Prokuratury. ” ;
 3)
-w § 109 dodaje się ust. 6 w brzmieniu:
-„
+w § 109 dodaje się ust. 6 w brzmieniu: „
 6.
-W uzasadnionych przypadkach, na wniosek zainteresowanych lub po wysłuchaniu ich stanowisk, przewodniczący składu orzekającego może zezwolić na zajęcie miejsc w inny sposób niż wynikający z ust. 5, w szczególności na zajęcie przez pozwanego miejsca obok powoda w sprawach o ustalenie płci metrykalnej (art. 189 K.p.c.).
-” .
+W uzasadnionych przypadkach, na wniosek zainteresowanych lub po wysłuchaniu ich stanowisk, przewodniczący składu orzekającego może zezwolić na zajęcie miejsc w inny sposób niż wynikający z ust. 5, w szczególności na zajęcie przez pozwanego miejsca obok powoda w sprawach o ustalenie płci metrykalnej (art. 189 K.p.c.). ” .
 § 2.
 Prezesi sądów w terminie jednego miesiąca od dnia wejścia w życie niniejszego rozporządzenia dostosują podziały czynności do przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.

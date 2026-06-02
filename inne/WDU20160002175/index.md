@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 2 grudnia 2016 r. o zmianie ustawy o nabywaniu nieruchomości przez cudzoziemców oraz niektórych innych ustaw
+# Ustawa z dnia 2 grudnia 2016 r. o zmianie ustawy o nabywaniu nieruchomości przez cudzoziemców oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, ustawę z dnia 14 lutego 1991 r. – Prawo o notariacie oraz ustawę z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-02 |
 | Data wydania | 2016-12-28 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002175) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2175/text.pdf) |
 
@@ -84,5 +83,5 @@ source: "eli-html"
 
 **Art. 6.** Obowiązki przewidziane w przepisach wprowadzonych niniejszą ustawą dotyczą zdarzeń powstałych po dniu wejścia w życie niniejszej ustawy.
 
-**Art. 7.** Do przewinień zawodowych popełnionych przez notariuszy przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe. Ustawa wchodzi w życie z dniem 1 stycznia 2017 r., z wyjątkiem art. 4, który wchodzi w życie z dniem 1 czerwca 2017 r.
+**Art. 7.** Do przewinień zawodowych popełnionych przez notariuszy przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe. Ustawa wchodzi w życie z dniem 1 stycznia 2017 r., z wyjątkiem art. 4, który wchodzi w życie z dniem 1 czerwca 2017 r. 1) Niniejszą ustawą zmienia się ustawę z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, ustawę z dnia 14 lutego 1991 r. – Prawo o notariacie oraz ustawę z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym.
 

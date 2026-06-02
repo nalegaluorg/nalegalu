@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-21 |
 | Data wydania | 2018-12-05 |
-| Wejście w życie | 2018-12-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002274) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2274/text.pdf) |
 
@@ -31,17 +30,13 @@ Na podstawie art. 169 ust. 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więzi
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 5 października 2010 r. w sprawie wyróżnień funkcjonariuszy Służby Więziennej (Dz. U. poz. 1276) w § 2 wprowadza się następujące zmiany:
 1)
-w ust. 3 po pkt 2 dodaje się pkt 2a w brzmieniu:
-„
+w ust. 3 po pkt 2 dodaje się pkt 2a w brzmieniu: „
 2a)
-Rektor-Komendant uczelni Służby Więziennej, zwany dalej „Rektorem” – funkcjonariuszowi odbywającemu szkolenie, studia lub studia podyplomowe w tej uczelni;
-” ;
+Rektor-Komendant uczelni Służby Więziennej, zwany dalej „Rektorem” – funkcjonariuszowi odbywającemu szkolenie, studia lub studia podyplomowe w tej uczelni; ” ;
 2)
-w ust. 4 pkt 2 otrzymuje brzmienie:
-„
+w ust. 4 pkt 2 otrzymuje brzmienie: „
 2)
-na stopnie chorążych Służby Więziennej – Dyrektor Generalny, na wniosek dyrektora okręgowego Służby Więziennej, Rektora, komendanta Centralnego Ośrodka Szkolenia Służby Więziennej lub komendanta ośrodka szkolenia albo ośrodka doskonalenia kadr bezpośrednio podległego Dyrektorowi Generalnemu;
-” .
+na stopnie chorążych Służby Więziennej – Dyrektor Generalny, na wniosek dyrektora okręgowego Służby Więziennej, Rektora, komendanta Centralnego Ośrodka Szkolenia Służby Więziennej lub komendanta ośrodka szkolenia albo ośrodka doskonalenia kadr bezpośrednio podległego Dyrektorowi Generalnemu; ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

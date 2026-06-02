@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 25 kwietnia 2019 r. w sprawie szczegółowych warunków, jakie musi spełniać rynek oficjalnych notowań oraz emitenci papierów wartościowych dopuszczonych do obrotu na tym rynku
+# Rozporządzenie Ministra Finansówz dnia 25 kwietnia 2019 r. w sprawie szczegółowych warunków, jakie musi spełniać rynek oficjalnych notowań oraz emitenci papierów wartościowych dopuszczonych do obrotu na tym rynku Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-25 |
 | Data wydania | 2019-04-29 |
-| Wejście w życie | 2019-04-30 |
 | Ostatnia zmiana | 2025-11-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000803) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/803/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 17 ust. 1 pkt 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2018 r. poz. 2286, 2243 i 2244 oraz z 2019 r. poz. 730) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2001/34/WE Parlamentu Europejskiego i Rady z dnia 28 maja 2001 r. w sprawie dopuszczenia papierów wartościowych do publicznego obrotu giełdowego oraz informacji dotyczących tych papierów wartościowych, które podlegają publikacji (Dz. Urz. WE L 184 z 06.07.2001, str. 1 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 6, t. 4, str. 24, Dz. Urz. UE L 96 z 12.04.2003, str. 16 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 6, t. 4, str. 367, Dz. Urz. UE L 345 z 31.12.2003, str. 64 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 6, t. 6, str. 356, Dz. Urz. UE L 390 z 31.12.2004, str. 38 oraz Dz. Urz. UE L 79 z 24.03.2005, str. 9). Na podstawie art. 17 ust. 1 pkt 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2018 r. poz. 2286, 2243 i 2244 oraz z 2019 r. poz. 730) zarządza się, co następuje:
 § 1.
 1.
 Rynek oficjalnych notowań zapewnia, aby do obrotu na tym rynku dopuszczone były akcje wyłącznie spełniające łącznie następujące warunki:
@@ -112,8 +111,7 @@ Rynek oficjalnych notowań zapewnia, aby papiery wartościowe dopuszczone do obr
 1)
 dopuszczenia do obrotu na rynku regulowanym,
 2)
-swobodnej zbywalności
-nie były przedmiotem obrotu na rynku oficjalnych notowań.
+swobodnej zbywalności – nie były przedmiotem obrotu na rynku oficjalnych notowań.
 2.
 W przypadku papierów wartościowych dopuszczonych do obrotu na rynku oficjalnych notowań, które przestały spełniać warunki określone w rozporządzeniu, inne niż wymienione w ust. 1, będące podstawą dopuszczenia do obrotu na rynku oficjalnych notowań, rynek oficjalnych notowań może podjąć działania mające na celu wykluczenie tych papierów wartościowych z obrotu na tym rynku i przeniesienie ich na:
 1)
@@ -123,6 +121,5 @@ alternatywny system obrotu prowadzony przez tę samą spółkę, która prowadzi
 3)
 rynek regulowany niebędący rynkiem oficjalnych notowań, prowadzony przez inną spółkę, pod warunkiem wyrażenia zgody przez tę spółkę oraz przez emitenta.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2001/34/WE Parlamentu Europejskiego i Rady z dnia 28 maja 2001 r. w sprawie dopuszczenia papierów wartościowych do publicznego obrotu giełdowego oraz informacji dotyczących tych papierów wartościowych, które podlegają publikacji (Dz. Urz. WE L 184 z 06.07.2001, str. 1 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 6, t. 4, str. 24, Dz. Urz. UE L 96 z 12.04.2003, str. 16 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 6, t. 4, str. 367, Dz. Urz. UE L 345 z 31.12.2003, str. 64 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 6, t. 6, str. 356, Dz. Urz. UE L 390 z 31.12.2004, str. 38 oraz Dz. Urz. UE L 79 z 24.03.2005, str. 9). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 12 maja 2010 r. w sprawie szczegółowych warunków, jakie musi spełniać rynek oficjalnych notowań giełdowych oraz emitenci papierów wartościowych dopuszczonych do obrotu na tym rynku (Dz. U. poz. 547), które utraciło moc z dniem 22 kwietnia 2019 r. zgodnie z art. 34 pkt 1 ustawy z dnia 1 marca 2018 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw (Dz. U. poz. 685).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 12 maja 2010 r. w sprawie szczegółowych warunków, jakie musi spełniać rynek oficjalnych notowań giełdowych oraz emitenci papierów wartościowych dopuszczonych do obrotu na tym rynku (Dz. U. poz. 547), które utraciło moc z dniem 22 kwietnia 2019 r. zgodnie z art. 34 pkt 1 ustawy z dnia 1 marca 2018 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw (Dz. U. poz. 685). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2001/34/WE Parlamentu Europejskiego i Rady z dnia 28 maja 2001 r. w sprawie dopuszczenia papierów wartościowych do publicznego obrotu giełdowego oraz informacji dotyczących tych papierów wartościowych, które podlegają publikacji (Dz. Urz. WE L 184 z 06.07.2001, str. 1 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 6, t. 4, str. 24, Dz. Urz. UE L 96 z 12.04.2003, str. 16 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 6, t. 4, str. 367, Dz. Urz. UE L 345 z 31.12.2003, str. 64 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 6, t. 6, str. 356, Dz. Urz. UE L 390 z 31.12.2004, str. 38 oraz Dz. Urz. UE L 79 z 24.03.2005, str. 9). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 12 maja 2010 r. w sprawie szczegółowych warunków, jakie musi spełniać rynek oficjalnych notowań giełdowych oraz emitenci papierów wartościowych dopuszczonych do obrotu na tym rynku (Dz. U. poz. 547), które utraciło moc z dniem 22 kwietnia 2019 r. zgodnie z art. 34 pkt 1 ustawy z dnia 1 marca 2018 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw (Dz. U. poz. 685).
 

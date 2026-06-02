@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 4 listopada 2022 r. zmieniające rozporządzenie w sprawie programu pilotażowego opieki nad świadczeniobiorcą w ramach sieci kardiologicznej
+# Rozporządzenie Ministra Zdrowiaz dnia 4 listopada 2022 r. zmieniające rozporządzenie w sprawie programu pilotażowego opieki nad świadczeniobiorcą w ramach sieci kardiologicznej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,17 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-04 |
 | Data wydania | 2022-11-10 |
-| Wejście w życie | 2022-11-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002293) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2293/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265, 1352, 1700, 1855, 2140 i 2180.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 10 maja 2021 r. w sprawie programu pilotażowego opieki nad świadczeniobiorcą w ramach sieci kardiologicznej (Dz. U. poz. 880 i 1804) wprowadza się następujące zmiany:
 1)
-w § 2 pkt 4–7 otrzymują brzmienie:
-„
+w § 2 pkt 4–7 otrzymują brzmienie: „
 4)
 ośrodek kierujący świadczeniobiorcę na kwalifikację do programu pilotażowego – podmiot wykonujący działalność leczniczą na terenie województwa dolnośląskiego, łódzkiego, małopolskiego, mazowieckiego, pomorskiego, śląskiego lub wielkopolskiego, realizujący świadczenia w rodzaju podstawowa opieka zdrowotna lub w poradni kardiologicznej, lub w oddziale o profilu kardiologicznym, lub w oddziale o profilu chorób wewnętrznych, kierujący pacjentów do diagnostyki i leczenia w ramach programu pilotażowego, współpracujący z regionalnym ośrodkiem koordynującym w danym województwie na podstawie porozumienia opracowanego przez krajowy ośrodek koordynujący;
 5)
@@ -40,11 +38,9 @@ ośrodek współpracujący poziomu I – podmiot wykonujący działalność lecz
 6)
 ośrodek współpracujący poziomu II – podmiot wykonujący działalność leczniczą na terenie województwa dolnośląskiego, łódzkiego, małopolskiego, mazowieckiego, pomorskiego, śląskiego lub wielkopolskiego, zapewniający udzielanie świadczeń ambulatoryjnych w poradni kardiologicznej oraz w oddziale o profilu kardiologia w trybie hospitalizacji, w ramach systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej, pozytywnie zaopiniowany Funduszowi przez konsultanta wojewódzkiego w dziedzinie kardiologii w porozumieniu z regionalnym ośrodkiem koordynującym, realizujący świadczenia opieki zdrowotnej, o których mowa w § 13 ust. 2, współpracujący z regionalnym ośrodkiem koordynującym i ośrodkami współpracującymi poziomu I w danym województwie, który na etapie organizacji programu pilotażowego podpisze z regionalnym ośrodkiem koordynującym w danym województwie porozumienie o współpracy;
 7)
-sieć kardiologiczna – strukturę składającą się z krajowego ośrodka koordynującego, regionalnych ośrodków koordynujących wraz z ośrodkami współpracującymi poziomu I i II, które współpracują ze sobą w zakresie opieki kardiologicznej nad świadczeniobiorcą objętym programem pilotażowym;
-” ;
+sieć kardiologiczna – strukturę składającą się z krajowego ośrodka koordynującego, regionalnych ośrodków koordynujących wraz z ośrodkami współpracującymi poziomu I i II, które współpracują ze sobą w zakresie opieki kardiologicznej nad świadczeniobiorcą objętym programem pilotażowym; ” ;
 2)
-§ 4 i § 5 otrzymują brzmienie:
-„
+§ 4 i § 5 otrzymują brzmienie: „
 § 4.
 Okres realizacji programu pilotażowego obejmuje:
 1)
@@ -64,8 +60,7 @@ Programem pilotażowym zostanie objętych nie więcej niż:
 1)
 34 944 świadczeniobiorców, którym będą udzielane świadczenia na terenie województwa mazowieckiego;
 2)
-po 20 778 świadczeniobiorców, którym będą udzielane świadczenia na terenie każdego z województw: dolnośląskiego, łódzkiego, małopolskiego, pomorskiego, śląskiego i wielkopolskiego.
-” ;
+po 20 778 świadczeniobiorców, którym będą udzielane świadczenia na terenie każdego z województw: dolnośląskiego, łódzkiego, małopolskiego, pomorskiego, śląskiego i wielkopolskiego. ” ;
 3)
 w § 6 w:
 a)
@@ -73,8 +68,7 @@ ust. 1 w pkt 3 wyrazy „§ 8 ust. 2” zastępuje się wyrazami „§ 8 ust. 3�
 b)
 ust. 2 wyrazy „§ 10 ust. 1 pkt 3” zastępuje się wyrazami „§ 10 ust. 1 pkt 1”;
 4)
-§ 8 otrzymuje brzmienie:
-„
+§ 8 otrzymuje brzmienie: „
 § 8.
 1.
 Krajowym ośrodkiem koordynującym jest Narodowy Instytut Kardiologii Stefana Kardynała Wyszyńskiego – Państwowy Instytut Badawczy w Warszawie.
@@ -99,11 +93,9 @@ Na terenie danego województwa krajowy ośrodek koordynujący, regionalny ośrod
 1)
 pochodzących z raportów statystycznych, o których mowa w przepisach wydanych na podstawie art. 137 ust. 2 lub art. 190 ust. 1, 2 i 3 ustawy oraz o których mowa w art. 45a ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2022 r. poz. 463, 583 i 974);
 2)
-o których mowa w art. 25 ust. 1 pkt 3 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2022 r. poz. 1876 i 2280).
-” ;
+o których mowa w art. 25 ust. 1 pkt 3 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2022 r. poz. 1876 i 2280). ” ;
 5)
-§ 10 otrzymuje brzmienie:
-„
+§ 10 otrzymuje brzmienie: „
 § 10.
 1.
 Krajowy ośrodek koordynujący:
@@ -252,25 +244,19 @@ danych w zakresie diagnostyki pacjentów, dla których ustalono plan leczenia;
 9)
 zapewnia infrastrukturę niezbędną do korzystania z systemu teleinformatycznego sieci kardiologicznej;
 10)
-pełni funkcję administratora danych osobowych z zakresu realizacji programu pilotażowego.
-” ;
+pełni funkcję administratora danych osobowych z zakresu realizacji programu pilotażowego. ” ;
 6)
 w § 13 w ust. 1:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
-dla ośrodków kierujących świadczeniobiorcę na kwalifikację do programu pilotażowego, realizujących świadczenia w rodzaju podstawowa opieka zdrowotna – na podstawie przekazanej do Funduszu, potwierdzonej przez regionalny ośrodek koordynujący, kwalifikacji pacjenta do programu pilotażowego przy współczynniku kwalifikacji na poziomie co najmniej 0,5 w poprzednim okresie sprawozdawczym – 30 zł za każdego skierowanego pacjenta;
-” ,
+dla ośrodków kierujących świadczeniobiorcę na kwalifikację do programu pilotażowego, realizujących świadczenia w rodzaju podstawowa opieka zdrowotna – na podstawie przekazanej do Funduszu, potwierdzonej przez regionalny ośrodek koordynujący, kwalifikacji pacjenta do programu pilotażowego przy współczynniku kwalifikacji na poziomie co najmniej 0,5 w poprzednim okresie sprawozdawczym – 30 zł za każdego skierowanego pacjenta; ” ,
 b)
-w pkt 3 w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
-„
+w pkt 3 w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
 4)
-dla krajowego ośrodka koordynującego ze współczynnikami korygującymi, o których mowa w pkt 3, zwiększonymi o 0,05.
-” ;
+dla krajowego ośrodka koordynującego ze współczynnikami korygującymi, o których mowa w pkt 3, zwiększonymi o 0,05. ” ;
 7)
-w § 14 ust. 1 i 2 otrzymują brzmienie:
-„
+w § 14 ust. 1 i 2 otrzymują brzmienie: „
 1.
 Regionalny ośrodek koordynujący przekazuje krajowemu ośrodkowi koordynującemu oraz oddziałowi wojewódzkiemu Funduszu:
 1)
@@ -282,17 +268,13 @@ Fundusz we współpracy z krajowym ośrodkiem koordynującym sporządza:
 1)
 co 6 miesięcy – informację o przebiegu realizacji programu pilotażowego,
 2)
-w okresie 3 miesięcy od dnia zakończenia etapu realizacji programu pilotażowego – sprawozdanie końcowe
-w zakresie działalności sieci kardiologicznej, z uwzględnieniem mierników i wskaźników, o których mowa w § 11 i § 12, danych, o których mowa w § 10 ust. 1 pkt 4 i 5, ust. 3 pkt 10 i 11, ust. 4 pkt 5 i 6 oraz ust. 5 pkt 6 i 7, a także oceny realizacji planów leczenia, o której mowa w § 10 ust. 3 pkt 9.
-” ;
+w okresie 3 miesięcy od dnia zakończenia etapu realizacji programu pilotażowego – sprawozdanie końcowe – w zakresie działalności sieci kardiologicznej, z uwzględnieniem mierników i wskaźników, o których mowa w § 11 i § 12, danych, o których mowa w § 10 ust. 1 pkt 4 i 5, ust. 3 pkt 10 i 11, ust. 4 pkt 5 i 6 oraz ust. 5 pkt 6 i 7, a także oceny realizacji planów leczenia, o której mowa w § 10 ust. 3 pkt 9. ” ;
 8)
 w § 15:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Ocena wyników programu pilotażowego jest dokonywana przez Fundusz we współpracy z krajowym ośrodkiem koordynującym na podstawie sprawozdania końcowego z realizacji programu pilotażowego, o którym mowa w § 14 ust. 1 pkt 2.
-” ,
+Ocena wyników programu pilotażowego jest dokonywana przez Fundusz we współpracy z krajowym ośrodkiem koordynującym na podstawie sprawozdania końcowego z realizacji programu pilotażowego, o którym mowa w § 14 ust. 1 pkt 2. ” ,
 b)
 w ust. 3 wyrazy „regionalnym ośrodkiem koordynującym” zastępuje się wyrazami „krajowym ośrodkiem koordynującym”.
 § 2.
@@ -308,6 +290,5 @@ zapewniającymi udzielanie świadczeń ambulatoryjnych w poradni hipertensjologi
 3)
 zapewniającymi udzielanie świadczeń ambulatoryjnych w poradni kardiologicznej oraz w oddziale o profilu kardiologia w trybie hospitalizacji, w ramach systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej – jako ośrodkami współpracującymi poziomu II, o których mowa w § 2 pkt 6 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265, 1352, 1700, 1855, 2140 i 2180.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265, 1352, 1700, 1855, 2140 i 2180.
 

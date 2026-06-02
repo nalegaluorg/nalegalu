@@ -42,26 +42,22 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 22 listopada 2021 r. zm
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2–4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2399), które stanowią:
-„
+§ 2–4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2399), które stanowią: „
 § 2.
 Do przyznawania pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 w sprawach objętych postępowaniami wszczętymi i niezakończonymi przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3.
 Do wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 w sprawach objętych postępowaniami wszczętymi i niezakończonymi wypłatą pomocy do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2–4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 22 listopada 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2130), które stanowią:
-„
+§ 2–4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 22 listopada 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2130), które stanowią: „
 § 2.
 Do przyznawania pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, w sprawach objętych postępowaniami wszczętymi i niezakończonymi przed dniem wejścia w życie niniejszego rozporządzenia zawarciem umowy o przyznaniu pomocy, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, z wyłączeniem § 4 ust. 2 pkt 3 oraz § 5b ust. 1 pkt 4 rozporządzenia zmienianego w § 1, które stosuje się w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
 Do terminów realizacji operacji, na które została przyznana pomoc finansowa w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, oraz do wypłaty środków finansowych przyznanych z tytułu tej pomocy, na podstawie umów o jej przyznaniu, które zostały zawarte w związku z postępowaniami w sprawach o przyznanie tej pomocy, wszczętymi w terminach składania wniosków o przyznanie tej pomocy, które rozpoczęły bieg przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2022 r. poz. 1234 i 1270) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, a także przestrzenny zasięg wdrażania tego działania, w tym:
@@ -77,7 +73,7 @@ szczegółowe wymagania, jakim powinna odpowiadać umowa o przyznaniu pomocy, zw
 Działanie, o którym mowa w § 1, jest wdrażane na terytorium Rzeczypospolitej Polskiej.
 § 3.
 1.
-Pomoc przyznaje się grupie operacyjnej EPI, o której mowa w art. 56 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.), zwanego dalej „rozporządzeniem nr 1305/2013”, jeżeli ta grupa, zwana dalej „grupą operacyjną”:
+Pomoc przyznaje się grupie operacyjnej EPI, o której mowa w art. 56 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 1, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 30 z 02.02.2018, str. 6, Dz. Urz. UE L 16 z 18.01.2019, str. 1, Dz. Urz. UE L 53 z 22.02.2019, str. 14, Dz. Urz. UE L 204 z 26.06.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 1, Dz. Urz. UE L 79 z 08.03.2021, str. 1 i Dz. Urz. UE L 224 z 24.06.2021, str. 1., zwanego dalej „rozporządzeniem nr 1305/2013”, jeżeli ta grupa, zwana dalej „grupą operacyjną”:
 1)
 składa się z co najmniej dwóch różnych podmiotów należących do następujących różnych kategorii:
 a)
@@ -86,9 +82,9 @@ b)
 właściciele lasów w rozumieniu art. 6 ust. 1 pkt 3 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2022 r. poz. 672), zwanych dalej „właścicielami lasów”,
 c)
 podmioty, o których mowa w art. 7 ust. 1:
-– pkt 1, 2 i 4–7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.),
+– pkt 1, 2 i 4–7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117 i 1459.),
 – pkt 8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, w przypadku gdy ich działalność naukowa obejmuje badania naukowe w rozumieniu art. 4 ust. 2 tej ustawy lub prace rozwojowe w rozumieniu art. 4 ust. 3 tej ustawy,
-d)
+dW brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 22 listopada 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2130), które weszło w życie z dniem 26 listopada 2021 r.)
 przedsiębiorcy, jeżeli wykonywany przez nich rodzaj działalności ujętej w Polskiej Klasyfikacji Działalności jest związany z operacją realizowaną przez grupę operacyjną,
 e)
 podmioty świadczące usługi doradcze;
@@ -115,7 +111,7 @@ b)
 (uchylona);
 4)
 posiada zdolność prawną, a w przypadku gdy nie posiada zdolności prawnej, działa na podstawie, zawartej w formie pisemnej, umowy spółki cywilnej albo umowy innej niż umowa spółki cywilnej, na podstawie której podmioty, które ją zawarły, zamierzają wspólnie realizować operację i wspólnie ubiegać się o przyznanie pomocy, i są reprezentowane w tym zakresie przez jeden z nich.
-1a.
+1aDodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 Pomoc przyznaje się grupie operacyjnej, jeżeli co najmniej jeden z podmiotów wchodzących w skład tej grupy jest rolnikiem, a w przypadku grupy operacyjnej realizującej operację, w której występują koszty badań, o których mowa w art. 61 ust. 2 rozporządzenia nr 1305/2013, obejmujących wyłącznie badania aplikacyjne w rozumieniu art. 4 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce lub prace rozwojowe w rozumieniu art. 4 ust. 3 tej ustawy, zwanych dalej „badaniami” – również podmiotem należącym do kategorii, o której mowa w ust. 1 pkt 1 lit. c.
 2.
 Jeżeli:
@@ -160,7 +156,7 @@ operacja będzie realizowana w nie więcej niż dziesięciu etapach;
 złożenie pierwszego wniosku o płatność pośrednią nastąpi w terminie 9 miesięcy od dnia zawarcia umowy;
 2a)
 wniosek o płatność będzie składany nie częściej niż co 2 miesiące;
-3)
+3Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.)
 zakończenie realizacji operacji i złożenie wniosku o płatność końcową nastąpi w terminie 36 miesięcy od dnia zawarcia umowy, lecz nie później niż do dnia 31 grudnia 2024 r., a w przypadku gdy ze względu na zakres lub przedmiot operacji nie jest możliwe osiągnięcie celu operacji w tym terminie – 60 miesięcy od dnia zawarcia umowy, lecz nie później niż do dnia 31 grudnia 2024 r.;
 3a)
 wraz z wnioskiem o płatność końcową zostanie złożony dokument zawierający informacje o osiągniętych wynikach przeprowadzonych analiz, prób lub testów, które potwierdzają możliwość zastosowania rezultatów zrealizowanej operacji w praktyce;
@@ -199,11 +195,10 @@ wartości niematerialnych i prawnych w rozumieniu art. 3 ust. 1 pkt 14 ustawy z 
 ogólne, o których mowa w art. 45 ust. 2 lit. c rozporządzenia nr 1305/2013, zwane dalej „kosztami ogólnymi”,
 4)
 (uchylony),
-5)
+5W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4.)
 badań,
 6)
-podatku od towarów i usług (VAT), który jest kwalifikowalny zgodnie z art. 69 ust. 3 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.)
-które są uzasadnione zakresem operacji, niezbędne do osiągnięcia jej celu oraz racjonalne.
+podatku od towarów i usług (VAT), który jest kwalifikowalny zgodnie z art. 69 ust. 3 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5, Dz. Urz. UE L 123 z 10.05.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5, Dz. Urz. UE L 130 z 24.04.2020, str. 1, Dz. Urz. UE L 231 z 17.07.2020, str. 4, Dz. Urz. UE L 356 z 26.10.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 30, Dz. Urz. UE L 109 z 08.04.2022, str. 1 i Dz. Urz. UE L 115 z 13.04.2022, str. 38. – które są uzasadnione zakresem operacji, niezbędne do osiągnięcia jej celu oraz racjonalne.
 2.
 Koszty wartości niematerialnych i prawnych, o których mowa w ust. 1 pkt 2 lit. c, są kwalifikowalne w części:
 1)
@@ -256,13 +251,13 @@ Pomoc nie obejmuje kosztów innych niż określone w ust. 1–5, w szczególnoś
 nabycia rzeczy używanych;
 2)
 nabycia nieruchomości.
-§ 5a.
+§ 5aZe zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2399), które weszło w życie z dniem 30 grudnia 2020 r..
 Pomoc przyznaje się również na pokrycie kosztów bieżących, o których mowa w art. 61 ust. 1 rozporządzenia nr 1305/2013, związanych z funkcjonowaniem grupy operacyjnej, zwanych dalej „kosztami bieżącymi”, w formie, o której mowa w art. 67 ust. 1 lit. d rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006.
-§ 5b.
+§ 5bDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 9..
 1.
 Pomoc na operację, której przedmiotem jest tworzenie krótkich łańcuchów dostaw, może być przyznana również w formie, o której mowa w art. 67 ust. 1 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006, z tym że w tym przypadku:
 1)
-nie stosuje się § 3 ust. 1 pkt 1 i ust. 1a oraz § 4 ust. 2a pkt 2, a w skład grupy operacyjnej wchodzi co najmniej 5 rolników i każdy z rolników wchodzących w skład tej grupy:
+nie stosuje się § 3 ust. 1 pkt 1 i ust. 1a oraz § 4 ust. 2a pkt 2, a w skład grupy operacyjnej wchodzi co najmniej 5 rolników i każdy z rolników wchodzących w skład tej grupy:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 4.
 a)
 spełnia wymagania określone w przepisach w sprawie prowadzenia działalności:
 – w ramach dostaw bezpośrednich lub
@@ -278,9 +273,8 @@ nie stosuje się § 8 ust. 1a, przy czym podmioty wchodzące w skład grupy oper
 a)
 innej grupy operacyjnej posiadającej zdolność prawną, która ubiega się o pomoc lub której została przyznana pomoc na tworzenie krótkich łańcuchów dostaw w formie, o której mowa w art. 67 ust. 1 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006, lub
 b)
-innej grupy operacyjnej nieposiadającej zdolności prawnej ubiegającym się o pomoc lub któremu została przyznana pomoc na tworzenie krótkich łańcuchów dostaw w formie, o której mowa w art. 67 ust. 1 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006
-w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020;
-4)
+innej grupy operacyjnej nieposiadającej zdolności prawnej ubiegającym się o pomoc lub któremu została przyznana pomoc na tworzenie krótkich łańcuchów dostaw w formie, o której mowa w art. 67 ust. 1 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 – w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020;
+4Ze zmianą wprowadzoną przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 4.)
 złożenie wniosku o płatność pierwszej transzy nastąpi w terminie 2 miesięcy od dnia zawarcia umowy, a wniosku o płatność drugiej transzy – po zakończeniu realizacji operacji i spełnieniu warunków wypłaty drugiej transzy, w terminie określonym w umowie, nie później jednak niż po upływie 12 miesięcy od dnia zawarcia umowy, lecz nie później niż do dnia 31 grudnia 2024 r.;
 5)
 § 4 ust. 2 pkt 5 i 6 stosuje się odpowiednio, przy czym na stronie internetowej będą umieszczane także informacje o sprzedaży prowadzonej przez grupę operacyjną w okresie prowadzenia wspólnej sprzedaży, o którym mowa w § 16 ust. 1 pkt 4 lit. c;
@@ -301,18 +295,17 @@ Pomoc, o której mowa w ust. 1, jest przyznawana w wysokości:
 1)
 325 000 zł – w przypadku gdy operacja przewiduje zakup środka transportu,
 2)
-280 000 zł – w pozostałych przypadkach
-i przysługuje danej grupie operacyjnej tylko raz w okresie realizacji Programu Rozwoju Obszarów Wiejskich na lata 2014–2020.
+280 000 zł – w pozostałych przypadkach – i przysługuje danej grupie operacyjnej tylko raz w okresie realizacji Programu Rozwoju Obszarów Wiejskich na lata 2014–2020.
 3.
 W przypadku pomocy, o której mowa w ust. 1, płatnością końcową jest płatność drugiej transzy.
 § 6.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 4..
 Pomoc przyznaje się i wypłaca do wysokości limitu, który w okresie realizacji Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 wynosi 12 000 000 złotych na jedną grupę operacyjną, w tym na koszty ogólne 1 000 000 złotych.
 1a.
 Przy ustalaniu wysokości środków pozostałych do wykorzystania w ramach limitu, o którym mowa w ust. 1, uwzględnia się sumę kwot pomocy wypłaconej na zrealizowane operacje i kwot pomocy przyznanej na operacje, których realizacja nie została jeszcze zakończona.
 1b.
-Wysokość pomocy przyznanej i wypłaconej na jedną operację nie może przekroczyć 6 000 000 złotych, z tym że w odniesieniu do:
-1)
+Wysokość pomocy przyznanej i wypłaconej na jedną operację nie może przekroczyć 6 000 000 złotych, z tym że w odniesieniu do:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 5 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.
+1Ze zmianą wprowadzoną przez § 1 pkt 5 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4.)
 kosztów, o których mowa w § 5 ust. 1 pkt 1 i 2, i kosztów badań oraz związanych z nimi kosztów, o których mowa w § 5 ust. 1 pkt 6, a także kosztów bieżących, wysokość tej pomocy nie przekracza w sumie 5 500 000 złotych;
 2)
 kosztów ogólnych i związanych z nimi kosztów, o których mowa w § 5 ust. 1 pkt 6, wysokość tej pomocy nie przekracza w sumie 500 000 złotych.
@@ -320,9 +313,9 @@ kosztów ogólnych i związanych z nimi kosztów, o których mowa w § 5 ust. 1 
 Pomoc przyznaje się w wysokości do:
 1)
 100% kosztów ogólnych oraz związanych z nimi kosztów, o których mowa w § 5 ust. 1 pkt 6;
-2)
+2Ze zmianą wprowadzoną przez § 1 pkt 5 lit. c tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.)
 100% kosztów badań i związanych z nimi kosztów, o których mowa w § 5 ust. 1 pkt 6;
-3)
+3Ze zmianą wprowadzoną przez § 1 pkt 5 lit. c tiret drugie rozporządzenia, o którym mowa w odnośniku 4.)
 70% kosztów, o których mowa w § 5 ust. 1 pkt 1 i 2, i związanych z nimi kosztów, o których mowa w § 5 ust. 1 pkt 6.
 3.
 Przy ustalaniu wysokości pomocy:
@@ -332,16 +325,16 @@ Przy ustalaniu wysokości pomocy:
 koszty ogólne i związane z nimi koszty, o których mowa w § 5 ust. 1 pkt 6, uwzględnia się w wysokości nieprzekraczającej łącznie 20% sumy pozostałych kosztów kwalifikowalnych oraz kosztów bieżących;
 3)
 koszty usług, o których mowa w § 5 ust. 5 pkt 6, i związane z nimi koszty, o których mowa w § 5 ust. 1 pkt 6, z wyłączeniem kosztów usług rolniczych, uwzględnia się w wysokości nieprzekraczającej łącznie 20% pozostałych kosztów badań i związanych z nimi kosztów, o których mowa w § 5 ust. 1 pkt 6;
-4)
+4Dodany przez § 1 pkt 5 lit. d rozporządzenia, o którym mowa w odnośniku 4.)
 koszty badań i związane z nimi koszty, o których mowa w § 5 ust. 1 pkt 6, uwzględnia się w wysokości nieprzekraczającej łącznie 50% kwoty pomocy na daną operację.
 4.
-W przypadku gdy wysokość kosztów kwalifikowalnych w zakresie danego zadania ujętego w zestawieniu rzeczowo-finansowym operacji przekracza wartość rynkową tych kosztów ustaloną w wyniku oceny ich racjonalności, o której mowa w art. 48 ust. 2 lit. e rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.), przy ustalaniu wysokości pomocy uwzględnia się wartość rynkową tych kosztów.
+W przypadku gdy wysokość kosztów kwalifikowalnych w zakresie danego zadania ujętego w zestawieniu rzeczowo-finansowym operacji przekracza wartość rynkową tych kosztów ustaloną w wyniku oceny ich racjonalności, o której mowa w art. 48 ust. 2 lit. e rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1, Dz. Urz. UE L 225 z 19.08.2016, str. 50, Dz. Urz. UE L 170 z 01.07.2017, str. 87, Dz. Urz. UE L 178 z 11.07.2017, str. 4, Dz. Urz. UE L 119 z 15.05.2018, str. 29, Dz. Urz. UE L 125 z 22.05.2018, str. 1, Dz. Urz. UE L 149 z 07.06.2019, str. 58, Dz. Urz. UE L 276 z 29.10.2019, str. 12, Dz. Urz. UE L 224 z 13.07.2020, str. 1 i Dz. Urz. UE L 108 z 29.03.2021, str. 15., przy ustalaniu wysokości pomocy uwzględnia się wartość rynkową tych kosztów.
 5.
 Koszty bieżące mogą być objęte pomocą w wysokości nieprzekraczającej łącznie 20% sumy kosztów, o których mowa w § 5 ust. 1 pkt 1 i 2, i kosztów badań oraz związanych z nimi kosztów, o których mowa w § 5 ust. 1 pkt 6.
 § 7.
 1.
 Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, podaje do publicznej wiadomości na stronie internetowej administrowanej przez Agencję, co najmniej w jednym dzienniku o zasięgu krajowym oraz w Centrali Agencji i oddziałach regionalnych Agencji ogłoszenie o naborze wniosków o przyznanie pomocy, nie później niż 30 dni przed dniem planowanego rozpoczęcia terminu składania tych wniosków.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4..
 Ogłoszenie o naborze wniosków o przyznanie pomocy zawiera wskazanie dnia rozpoczęcia oraz dnia zakończenia terminu składania wniosków o przyznanie pomocy i określenie przedmiotu operacji, a także może zawierać określenie zakresu tematycznego operacji.
 3.
 Termin składania wniosków o przyznanie pomocy nie może być krótszy niż 30 dni oraz dłuższy niż 60 dni.
@@ -358,10 +351,10 @@ W przypadku złożenia przez jeden podmiot ubiegający się o przyznanie pomocy 
 1.
 Wniosek o przyznanie pomocy składa się w Centrali Agencji.
 1a.
-(uchylony).
-1b.
+(uchylony).Przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 4.
+1bDodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 Wniosek o przyznanie pomocy składa się osobiście albo przez upoważnioną osobę, albo przesyłką rejestrowaną nadaną w placówce operatora wyznaczonego w rozumieniu przepisów ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896).
-1c.
+1cDodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 W przypadku złożenia wniosku o przyznanie pomocy przesyłką rejestrowaną, nadaną w placówce pocztowej operatora wyznaczonego w rozumieniu przepisów ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, za dzień złożenia wniosku uznaje się dzień, w którym nadano tę przesyłkę.
 2.
 W przypadku złożenia wniosku o przyznanie pomocy osobiście albo za pośrednictwem innej osoby w Centrali Agencji, z chwilą złożenia wniosku Agencja wydaje potwierdzenie jego złożenia, zawierające datę wpływu, opatrzone pieczęcią Agencji oraz podpisane przez osobę przyjmującą wniosek.
@@ -427,8 +420,7 @@ sposób podejmowania decyzji wewnątrz grupy operacyjnej,
 f)
 zasady podziału praw nabytych w trakcie realizacji operacji i do dnia upływu 5 lat od dnia otrzymania płatności końcowej między podmioty wchodzące w skład grupy operacyjnej,
 g)
-zasady reprezentowania podmiotów wchodzących w skład grupy operacyjnej
-w przypadku gdy o pomoc ubiegają się podmioty wchodzące w skład grupy operacyjnej nieposiadającej zdolności prawnej;
+zasady reprezentowania podmiotów wchodzących w skład grupy operacyjnej – w przypadku gdy o pomoc ubiegają się podmioty wchodzące w skład grupy operacyjnej nieposiadającej zdolności prawnej;
 2a)
 formularz wniosku o przyznanie pomocy wypełniony danymi, które są zawarte w składanym wniosku, zapisany na informatycznym nośniku danych w formacie umożliwiającym edycję tekstu;
 3)
@@ -454,8 +446,7 @@ kopię dokumentu potwierdzającego posiadanie samoistne lub zależne nieruchomo�
 a)
 podmiot wchodzący w skład grupy operacyjnej nieposiadającej zdolności prawnej – w przypadku gdy o pomoc ubiegają się podmioty wchodzące w skład grupy operacyjnej nieposiadającej zdolności prawnej,
 b)
-grupę operacyjną posiadającą zdolność prawną lub podmiot wchodzący w skład tej grupy – w przypadku gdy o pomoc ubiega się grupa operacyjna posiadająca zdolność prawną
-przy czym w przypadku posiadania samoistnego nieruchomości, dla której księga wieczysta jest prowadzona w systemie teleinformatycznym, o którym mowa w art. 251 ust. 1 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2019 r. poz. 2204, z 2021 r. poz. 1177 i 1978 oraz z 2022 r. poz. 872 i 1374), wystarczające jest podanie numeru księgi wieczystej;
+grupę operacyjną posiadającą zdolność prawną lub podmiot wchodzący w skład tej grupy – w przypadku gdy o pomoc ubiega się grupa operacyjna posiadająca zdolność prawną – przy czym w przypadku posiadania samoistnego nieruchomości, dla której księga wieczysta jest prowadzona w systemie teleinformatycznym, o którym mowa w art. 251 ust. 1 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2019 r. poz. 2204, z 2021 r. poz. 1177 i 1978 oraz z 2022 r. poz. 872 i 1374), wystarczające jest podanie numeru księgi wieczystej;
 5a)
 kopię wypisu z rejestru gruntów, wystawionego nie wcześniej niż 3 miesiące przed dniem złożenia wniosku o przyznanie pomocy, lub kopię dokumentu potwierdzającego posiadanie samoistne lub zależne lasu – w przypadku właściciela lasu wchodzącego w skład grupy operacyjnej;
 6)
@@ -473,7 +464,7 @@ kopie ostatecznych pozwoleń, zezwoleń lub innych decyzji, w tym kopię ostatec
 10)
 kopię wniosku o nadanie numeru identyfikacyjnego, o którym mowa w art. 12 ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności – w przypadku gdy grupa operacyjna posiadająca zdolność prawną ubiegająca się o przyznanie pomocy nie posiada takiego numeru albo podmiot wchodzący w skład grupy operacyjnej nieposiadającej zdolności prawnej reprezentujący pozostałe podmioty wchodzące w jej skład nie posiada takiego numeru;
 11)
-oświadczenia przedsiębiorców wchodzących w skład grupy operacyjnej, którzy działają jako przedsiębiorcy prowadzący mikro-, małe lub średnie przedsiębiorstwo, w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”, o tym że prowadzą takie przedsiębiorstwo, sporządzone na formularzu udostępnionym przez Agencję;
+oświadczenia przedsiębiorców wchodzących w skład grupy operacyjnej, którzy działają jako przedsiębiorcy prowadzący mikro-, małe lub średnie przedsiębiorstwo, w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 i Dz. Urz. UE L 270 z 29.07.2021, str. 39., zwanego dalej „rozporządzeniem nr 651/2014”, o tym że prowadzą takie przedsiębiorstwo, sporządzone na formularzu udostępnionym przez Agencję;
 12)
 kopię dokumentacji dotyczącej ewidencji środków trwałych oraz wartości niematerialnych i prawnych – w przypadku podmiotów ubiegających się o przyznanie pomocy, zobowiązanych do prowadzenia tej ewidencji zgodnie z przepisami o podatku dochodowym od osób prawnych lub przepisami o rachunkowości, które w ramach operacji zaplanowały zakup środków trwałych oraz wartości niematerialnych i prawnych;
 13)
@@ -486,17 +477,17 @@ udzielone przez podmioty wchodzące w skład grupy operacyjnej nieposiadającej 
 kopię lub oryginał opinii o innowacyjności przedmiotu operacji sporządzonej na formularzu udostępnionym przez Agencję przez jeden z podmiotów, o których mowa w art. 7 ust. 1 pkt 1 i 4–7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, lub podmiotów będących jednostkami organizacyjnymi uczelni, określonymi w statucie uczelni uchwalonym na podstawie art. 34 ust. 1 tej ustawy lub – w przypadku gdy działalność naukowa obejmuje badania naukowe w rozumieniu art. 4 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce lub prace rozwojowe w rozumieniu art. 4 ust. 3 tej ustawy – podmiotów, o których mowa w art. 7 ust. 1 pkt 8 tej ustawy, który:
 a)
 nie ubiega się o przyznanie pomocy na realizację tej operacji i nie wchodzi w skład grupy operacyjnej posiadającej zdolność prawną, która ubiega się o przyznanie tej pomocy,
-b)
+bZe zmianą wprowadzoną przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 4.)
 posiada kategorię naukową A+, A, B+ albo B;
 15)
 inne dokumenty potwierdzające spełnienie warunków do przyznania pomocy oraz umożliwiające weryfikację wniosku o przyznanie pomocy.
 3a.
-Dokumenty wymienione w ust. 3 pkt 8, których podmiot ubiegający się o przyznanie pomocy nie posiadał w dniu złożenia wniosku o jej przyznanie, podmiot ten składa w Centrali Agencji do dnia zawarcia umowy. Przepisy § 9 ust. 1b-2 stosuje się odpowiednio.
+Dokumenty wymienione w ust. 3 pkt 8, których podmiot ubiegający się o przyznanie pomocy nie posiadał w dniu złożenia wniosku o jej przyznanie, podmiot ten składa w Centrali Agencji do dnia zawarcia umowy. Przepisy § 9 ust. 1b-2 stosuje się odpowiednio.Zdanie drugie ze zmianą wprowadzoną przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 4.
 3b.
 Jeżeli podmiot ubiegający się o przyznanie pomocy nie złożył do dnia zawarcia umowy dokumentów wymienionych w ust. 3 pkt 8, których nie posiadał w dniu złożenia wniosku o jej przyznanie, Agencja nie przyznaje pomocy. Przepis art. 35 ust. 1 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
-3c.
+3cDodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 9..
 Przepisów ust. 3 pkt 8 i 14 nie stosuje się w przypadku ubiegania się o pomoc, o której mowa w § 5b ust. 1.
-3d.
+3dDodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 9..
 W przypadku ubiegania się o pomoc, o której mowa w § 5b ust. 1, opis planowanej operacji, o którym mowa w ust. 3 pkt 3, zawiera także plan działania grupy operacyjnej uwzględniający stan bazowy oraz planowany stan docelowy na dzień, w którym upłynie rok od dnia wypłaty płatności drugiej transzy, określający:
 1)
 liczbę rolników wchodzących w skład grupy operacyjnej;
@@ -506,9 +497,9 @@ liczbę konsumentów, którym grupa operacyjna będzie sprzedawała produkty poc
 asortyment produktów oferowanych do sprzedaży;
 4)
 wielkość sprzedaży w odniesieniu do każdego produktu objętego asortymentem produktów oferowanych do sprzedaży.
-3e.
-W przypadku ubiegania się o pomoc, o której mowa w § 5b ust. 1, dokumenty potwierdzające spełnienie warunków, o których mowa w § 5b ust. 1 pkt 1, których podmiot ubiegający się o przyznanie pomocy nie posiadał w dniu złożenia wniosku o jej przyznanie, podmiot ten składa w Centrali Agencji do dnia zawarcia umowy. Przepisy § 9 ust. 1b-2 stosuje się odpowiednio.
-3f.
+3eDodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 9..
+W przypadku ubiegania się o pomoc, o której mowa w § 5b ust. 1, dokumenty potwierdzające spełnienie warunków, o których mowa w § 5b ust. 1 pkt 1, których podmiot ubiegający się o przyznanie pomocy nie posiadał w dniu złożenia wniosku o jej przyznanie, podmiot ten składa w Centrali Agencji do dnia zawarcia umowy. Przepisy § 9 ust. 1b-2 stosuje się odpowiednio.Zdanie drugie ze zmianą wprowadzoną przez § 1 pkt 8 lit. c rozporządzenia, o którym mowa w odnośniku 4.
+3fDodany przez § 1 pkt 8 lit. d rozporządzenia, o którym mowa w odnośniku 4..
 Jeżeli podmiot ubiegający się o przyznanie pomocy, o której mowa w § 5b ust. 1, nie złożył do dnia zawarcia umowy dokumentów potwierdzających spełnienie warunków, o których mowa w § 5b ust. 1 pkt 1, których nie posiadał w dniu złożenia wniosku o jej przyznanie, Agencja nie przyznaje pomocy. Przepis art. 35 ust. 1 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
 4.
 Kopie dokumentów dołącza się w formie kopii potwierdzonych za zgodność z oryginałem przez pracownika Agencji lub podmiot, który wydał dokument, albo poświadczonych za zgodność z oryginałem przez notariusza albo przez występującego w sprawie pełnomocnika będącego radcą prawnym albo adwokatem, z tym że kopia, o której mowa w ust. 3:
@@ -532,8 +523,7 @@ opis, o którym mowa w § 10 ust. 3 pkt 3, nie zawiera zestawienia rzeczowo-fina
 4)
 do wniosku o przyznanie pomocy nie dołączono co najmniej jednego z dokumentów, o których mowa w § 10 ust. 3 pkt 1, 2 i 14
 5)
-(uchylony)
-wniosek pozostawia się bez rozpatrzenia.
+(uchylony) – wniosek pozostawia się bez rozpatrzenia.
 2.
 (uchylony).
 3.
@@ -549,7 +539,7 @@ Złożony wniosek o przyznanie pomocy nie może być zmieniany przez podmiot ubi
 Pomoc przysługuje według kolejności ustalonej przez Agencję przy zastosowaniu kryteriów wyboru operacji.
 2.
 O kolejności przysługiwania pomocy decyduje suma uzyskanych punktów przyznawanych na podstawie następujących kryteriów wyboru operacji:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 4.)
 w skład grupy operacyjnej wchodzi co najmniej jeden z podmiotów, o których mowa w § 3 ust. 1 pkt 1 lit. c, który:
 a)
 wykonuje działalność naukową w dyscyplinie naukowej niezbędnej do realizacji operacji – 2 punkty,
@@ -563,7 +553,7 @@ w skład grupy operacyjnej realizującej operację, której przedmiotem jest opr
 w skład grupy operacyjnej wchodzi podmiot, który udokumentował zrealizowanie projektu finansowanego ze środków pochodzących z Unii Europejskiej, którego rezultatem jest wdrożenie nowego lub znacznie udoskonalonego produktu lub nowych lub znacznie udoskonalonych technologii lub metod organizacji lub marketingu dotyczących produkcji, przetwarzania lub wprowadzania do obrotu produktu – 2 punkty;
 5)
 wszyscy przedsiębiorcy, wchodzący w skład grupy operacyjnej, działają jako przedsiębiorcy prowadzący mikro-, małe lub średnie przedsiębiorstwo, w rozumieniu załącznika I do rozporządzenia nr 651/2014 – 2 punkty;
-6)
+6W brzmieniu ustalonym przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 4.)
 realizacja operacji:
 a)
 dotyczy:
@@ -601,7 +591,7 @@ innowacji udoskonalającej istniejące na terytorium Rzeczypospolitej Polskiej r
 b)
 innowacji dotychczas niestosowanej na terytorium Rzeczypospolitej Polskiej – 6 punktów,
 c)
-wyłącznie produkcji podstawowej produktów rolnych w rozumieniu art. 2 pkt 5 rozporządzenia Komisji (UE) nr 702/2014 z dnia 25 czerwca 2014 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 193 z 01.07.2014, str. 1, z późn. zm.) – 4 punkty;
+wyłącznie produkcji podstawowej produktów rolnych w rozumieniu art. 2 pkt 5 rozporządzenia Komisji (UE) nr 702/2014 z dnia 25 czerwca 2014 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 193 z 01.07.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 48 z 20.02.2019, str. 1 i Dz. Urz. UE L 414 z 09.12.2020, str. 15. – 4 punkty;
 12)
 w ramach operacji wymagane będą prace rozwojowe w rozumieniu art. 4 ust. 3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce – 3 punkty;
 13)
@@ -610,7 +600,7 @@ a)
 ochrony środowiska naturalnego – 2 punkty,
 b)
 łagodzenia zmian klimatu – 2 punkty.
-2a.
+2aDodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 9..
 O kolejności przysługiwania pomocy, o której mowa w § 5b ust. 1, decyduje suma uzyskanych punktów przyznawanych na podstawie następujących kryteriów wyboru operacji:
 1)
 w skład grupy operacyjnej realizującej operację wchodzi:
@@ -621,7 +611,7 @@ powyżej 10 rolników – 6 punktów;
 2)
 w skład grupy operacyjnej realizującej operację wchodzi co najmniej jeden rolnik, który na dzień złożenia wniosku o przyznanie pomocy uczestniczy w co najmniej jednym systemie jakości spośród wymienionych w § 3 pkt 3 i 4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 6 sierpnia 2015 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej w ramach poddziałania „Wsparcie na przystępowanie do systemów jakości” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2019 r. poz. 449) i posiada w tym dniu ważny certyfikat lub ważne świadectwo, o których mowa w § 10 ust. 3 pkt 1 tego rozporządzenia – 4 punkty;
 3)
-w skład grupy operacyjnej realizującej operację wchodzi co najmniej jeden podmiot, który na dzień złożenia wniosku o przyznanie pomocy wytwarza produkty objęte systemem rolnictwa ekologicznego zgodnie z rozporządzeniem Rady (WE) nr 834/2007 z dnia 28 czerwca 2007 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającym rozporządzenie (EWG) nr 2092/91 (Dz. Urz. UE L 189 z 20.07.2007, str. 1, z późn. zm.) i posiada w tym dniu ważny certyfikat, o którym mowa w § 10 ust. 3 pkt 1 lit. b rozporządzenia, o którym mowa w pkt 2 – 3 punkty;
+w skład grupy operacyjnej realizującej operację wchodzi co najmniej jeden podmiot, który na dzień złożenia wniosku o przyznanie pomocy wytwarza produkty objęte systemem rolnictwa ekologicznego zgodnie z rozporządzeniem Rady (WE) nr 834/2007 z dnia 28 czerwca 2007 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającym rozporządzenie (EWG) nr 2092/91 (Dz. Urz. UE L 189 z 20.07.2007, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 264 z 03.10.2008, str. 1, Dz. Urz. UE L 156 z 15.06.2011, str. 12, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 300 z 18.10.2014, str. 72, Dz. Urz. UE L 47 z 24.02.2017, str. 20 i Dz. Urz. UE L 332 z 23.12.2019, str. 204.Rozporządzenie utraciło moc z dniem 1 stycznia 2022 r. na podstawie art. 56 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/848 z dnia 30 maja 2018 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającego rozporządzenie Rady (WE) nr 834/2007 (Dz. Urz. UE L 150 z 14.06.2018, str. 1, z późn. zm.). Rozporządzenie jest nadal stosowane do celów zakończenia analizy nadal nierozpatrzonych wniosków państw trzecich, zgodnie z art. 58 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/848 z dnia 30 maja 2018 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającego rozporządzenie Rady (WE) nr 834/2007. i posiada w tym dniu ważny certyfikat, o którym mowa w § 10 ust. 3 pkt 1 lit. b rozporządzenia, o którym mowa w pkt 2 – 3 punkty;
 4)
 w wyniku realizacji operacji grupa operacyjna zróżnicuje kanały komunikacji z konsumentem oraz formy sprzedaży przy zastosowaniu:
 a)
@@ -643,7 +633,7 @@ grupa operacyjna posiada zdolność prawną – 5 punktów.
 Punkty za dane kryterium wyboru operacji są przyznawane na podstawie danych zawartych we wniosku o przyznanie pomocy oraz w dołączonych do niego dokumentach.
 2.
 Jeżeli wniosek o przyznanie pomocy lub dołączone do niego dokumenty nie zawierają danych niezbędnych do ustalenia liczby punktów za dane kryterium wyboru operacji, nie przyznaje się punktów za to kryterium.
-3.
+3Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 9..
 Agencja nie przyznaje pomocy, jeżeli operacji przyznano mniej niż 18 punkty, a w przypadku pomocy, o której mowa w § 5b ust. 1, Agencja nie przyznaje pomocy – jeżeli operacji przyznano mniej niż 13 punktów.
 4.
 W przypadku, o którym mowa w ust. 3, przepis art. 35 ust. 1 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
@@ -651,13 +641,13 @@ W przypadku, o którym mowa w ust. 3, przepis art. 35 ust. 1 ustawy, dotyczący 
 Kolejność przysługiwania pomocy jest ustalana od operacji, która uzyskała największą liczbę punktów, do operacji, która uzyskała najmniejszą liczbę punktów.
 6.
 W przypadku operacji o takiej samej liczbie punktów o kolejności przysługiwania pomocy decyduje kwota wnioskowanej pomocy, przy czym pierwszeństwo w uzyskaniu pomocy ma operacja z niższą wnioskowaną kwotą pomocy.
-7.
+7Dodany przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 9..
 Jeżeli ustalenie kolejności przysługiwania pomocy jest niemożliwe na podstawie ust. 6, to o tej kolejności decyduje wyższa liczba punktów uzyskanych na podstawie kolejnych kryteriów wyboru operacji określonych odpowiednio w § 12 ust. 2 i 2a.
 § 14.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 9..
 Prezes Agencji podaje do publicznej wiadomości, na stronie internetowej administrowanej przez Agencję, informację o kolejności przysługiwania pomocy w terminie 7 miesięcy od dnia upływu terminu składania wniosków o przyznanie pomocy, a w przypadku pomocy, o której mowa w § 5b ust. 1 – w terminie 4 miesięcy od dnia upływu terminu składania wniosków o przyznanie pomocy.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 9.
 § 15.
 1.
 W terminie 60 dni od dnia podania do publicznej wiadomości informacji, o której mowa w § 14, Agencja:
@@ -678,14 +668,13 @@ W dniu zawarcia umowy osoba fizyczna wchodząca w skład grupy operacyjnej niepo
 1)
 oświadczenie małżonka o wyrażeniu zgody na zawarcie umowy albo o niepozostawaniu w związku małżeńskim albo oświadczenie o ustanowionej małżeńskiej rozdzielności majątkowej,
 2)
-oświadczenie współwłaściciela albo współwłaścicieli przedsiębiorstwa, a w przypadku gdy współwłaścicielem albo współwłaścicielami przedsiębiorstwa są osoby fizyczne – również ich małżonków – o wyrażeniu zgody na zawarcie umowy albo oświadczenie o niepozostawaniu w związku małżeńskim, albo oświadczenie o ustanowionej rozdzielności majątkowej
-na formularzach opracowanych i udostępnionych przez Agencję.
+oświadczenie współwłaściciela albo współwłaścicieli przedsiębiorstwa, a w przypadku gdy współwłaścicielem albo współwłaścicielami przedsiębiorstwa są osoby fizyczne – również ich małżonków – o wyrażeniu zgody na zawarcie umowy albo oświadczenie o niepozostawaniu w związku małżeńskim, albo oświadczenie o ustanowionej rozdzielności majątkowej – na formularzach opracowanych i udostępnionych przez Agencję.
 § 16.
 1.
 Poza postanowieniami określonymi w art. 36 ust. 1 ustawy umowa może zawierać inne postanowienia dotyczące realizacji operacji, w szczególności zobowiązania beneficjenta dotyczące:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 8 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 9.)
 zrealizowania operacji i złożenia wniosku o płatność końcową w terminie, o którym mowa odpowiednio w § 4 ust. 2 pkt 3 albo § 5b ust. 1 pkt 4;
-2)
+2Ze zmianą wprowadzoną przez § 1 pkt 8 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 9.)
 niedokonywania zmian w składzie grupy operacyjnej w okresie realizacji operacji bez zgody Agencji, a w przypadku pomocy, o której mowa w § 5b ust. 1, także w okresie 2 lat od dnia otrzymania płatności drugiej transzy;
 3)
 niefinansowania kosztów kwalifikowalnych operacji współfinansowanych z innych środków publicznych zgodnie z warunkami przyznania pomocy, o których mowa w § 4 ust. 1 i 1a;
@@ -695,7 +684,7 @@ a)
 przenoszenia własności lub posiadania rzeczy nabytych w trakcie realizacji operacji lub sposobu ich wykorzystywania w trakcie realizacji operacji oraz przez okres 5 lat od dnia otrzymania płatności końcowej,
 b)
 sposobu lub miejsca prowadzenia działalności związanej z przyznaną pomocą w trakcie realizacji operacji oraz przez okres 5 lat od dnia otrzymania płatności końcowej,
-c)
+cDodana przez § 1 pkt 8 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 9.)
 prowadzenia wspólnej sprzedaży przez grupę operacyjną przez okres 2 lat od dnia otrzymania płatności drugiej transzy – w przypadku pomocy, o której mowa w § 5b ust. 1;
 5)
 (uchylony);
@@ -708,20 +697,20 @@ przedłożenia Agencji, w terminie 21 dni od dnia zawarcia umowy, informacji na 
 9)
 przedłożenia Agencji, wraz z wnioskiem o płatność końcową, sprawozdania z realizacji operacji, zawierającego co najmniej elementy wymienione w załączniku nr 2 do rozporządzenia, oraz upowszechnienia informacji zawartych w tym sprawozdaniu, na stronie internetowej, o której mowa w § 4 ust. 2 pkt 5, oraz przekazania tej informacji podmiotowi, o którym mowa w art. 55 ust. 1 pkt 4 ustawy, celem upowszechnienia w Sieci na rzecz innowacji w rolnictwie i na obszarach wiejskich, z wyłączeniem upowszechnienia informacji wymienionych w ust. 2–4 załącznika nr 2 do rozporządzenia;
 10)
-przestrzegania obowiązków beneficjenta wynikających z załącznika III do rozporządzenia wykonawczego Komisji (UE) nr 808/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 227 z 31.07.2014, str. 18, z późn. zm.);
+przestrzegania obowiązków beneficjenta wynikających z załącznika III do rozporządzenia wykonawczego Komisji (UE) nr 808/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 227 z 31.07.2014, str. 18, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33, Dz. Urz. UE L 308 z 16.11.2016, str. 5, Dz. Urz. UE L 194 z 31.07.2018, str. 44, Dz. Urz. UE L 149 z 07.06.2019, str. 58, Dz. Urz. UE L 215 z 19.08.2019, str. 3, Dz. Urz. UE L 224 z 13.07.2020, str. 1 i Dz. Urz. UE L 27 z 27.01.2021, str. 9.;
 11)
 uwzględnienia wszystkich transakcji związanych z operacją w oddzielnym systemie rachunkowości albo w ramach odpowiedniego kodu rachunkowego, o których mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia nr 1305/2013;
-12)
+12Ze zmianą wprowadzoną przez § 1 pkt 8 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 9.)
 zachowania w trakcie realizacji operacji tych kryteriów wyboru operacji, za które zostały przyznane punkty, o których mowa w § 12 ust. 2 pkt 1–6 i 12 oraz ust. 2a;
 13)
 prowadzenia i aktualizacji strony internetowej, o której mowa w § 4 ust. 2 pkt 5;
 14)
 przedłożenia wraz z wnioskiem o płatność końcową wyników przeprowadzonych analiz, prób lub testów, które będą potwierdzać możliwość zastosowania rezultatów zrealizowanej operacji w praktyce;
-15)
+15Dodany przez § 1 pkt 8 lit. a tiret piąte rozporządzenia, o którym mowa w odnośniku 9.)
 zabezpieczenia należytego wykonania umowy w postaci weksla niezupełnego (in blanco) wraz z deklaracją wekslową sporządzoną na formularzu opracowanym i udostępnionym przez Agencję, podpisanego co najmniej przez jednego beneficjenta, przy czym suma kwot wskazanych w deklaracjach wekslowych beneficjentów powinna być równa kwocie pomocy przyznanej na operację oraz powinna uwzględniać zobowiązania powstałe z tytułu zwrotu tych kwot po terminie;
-16)
+16Dodany przez § 1 pkt 8 lit. a tiret piąte rozporządzenia, o którym mowa w odnośniku 9.)
 prowadzenia ewidencji wspólnej sprzedaży grupy operacyjnej przez okres 2 lat od dnia otrzymania płatności drugiej transzy – w przypadku pomocy, o której mowa w § 5b ust. 1;
-17)
+17Dodany przez § 1 pkt 8 lit. a tiret piąte rozporządzenia, o którym mowa w odnośniku 9.)
 przedłożenia Agencji sprawozdania z realizacji planu działania grupy operacyjnej, o którym mowa w § 10 ust. 3d, w terminie 30 dni od dnia, w którym upłynie odpowiednio rok oraz 2 lata od dnia otrzymania płatności drugiej transzy – w przypadku pomocy, o której mowa w § 5b ust. 1.
 2.
 Umowa zawiera także określenie warunków i sposobu pozyskiwania od beneficjenta danych, które jest on obowiązany udostępnić na podstawie przepisów prawa.
@@ -729,10 +718,10 @@ Umowa zawiera także określenie warunków i sposobu pozyskiwania od beneficjent
 Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego, o których mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia nr 1305/2013, odbywa się w ramach prowadzonych ksiąg rachunkowych albo przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu opracowanym i udostępnionym przez Agencję, gdy na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych.
 4.
 Zobowiązania beneficjentów będących podmiotami wchodzącymi w skład grupy operacyjnej nieposiadającej zdolności prawnej określone w umowie są zobowiązaniami solidarnymi.
-5.
+5Dodany przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 9..
 W przypadku pomocy, o której mowa w § 5b ust. 1, nie stosuje się ust. 1 pkt 14.
 § 17.
-(uchylony).
+(uchylony).Przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 9.
 § 18.
 1.
 Środki finansowe z tytułu pomocy są wypłacane, jeżeli beneficjent:
@@ -751,14 +740,14 @@ od dnia, w którym został złożony wniosek o przyznanie pomocy, i jeżeli real
 b)
 zgodnie z przepisami:
 – o zamówieniach publicznych – w przypadku gdy te przepisy mają zastosowanie,
-– (uchylone),
+– (uchylone),Przez § 1 pkt 10 lit. a rozporządzenia, o którym mowa w odnośniku 9.
 c)
 w formie rozliczenia bezgotówkowego;
 2)
 uwzględnione w oddzielnym systemie rachunkowości albo do ich identyfikacji wykorzystano odpowiedni kod rachunkowy, o których mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia nr 1305/2013.
 3.
 Środki finansowe z tytułu kosztów bieżących są wypłacane proporcjonalnie do wartości kosztów kwalifikowalnych refundowanych na podstawie wniosku o płatność.
-4.
+4Dodany przez § 1 pkt 10 lit. b rozporządzenia, o którym mowa w odnośniku 9..
 W przypadku pomocy, o której mowa w § 5b ust. 1, środki finansowe z tytułu pomocy są wypłacane w dwóch transzach, z tym że:
 1)
 pierwsza transza pomocy obejmuje 80% kwoty przyznanej pomocy i jest wypłacana, jeżeli beneficjent:
@@ -781,7 +770,7 @@ uzyskał inne niż określone w pkt 1 lit. b ostateczne pozwolenia, zezwolenia i
 Wniosek o płatność:
 1)
 zawiera dane niezbędne do dokonania płatności;
-2)
+2Ze zmianą wprowadzoną przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 4.)
 składa się w Centrali Agencji; przepisy § 9 ust. 1b-2 stosuje się odpowiednio.
 1a.
 Do wniosku o płatność dołącza się:
@@ -808,7 +797,7 @@ Wezwanie przez Agencję beneficjenta do wykonania określonych czynności w toku
 Jeżeli w trakcie rozpatrywania wniosku o płatność niezbędne jest uzyskanie dodatkowych wyjaśnień lub opinii innego podmiotu lub zajdą nowe okoliczności budzące wątpliwości co do możliwości wypłaty pomocy, termin, o którym mowa w ust. 1, wydłuża się o czas niezbędny do uzyskania tych wyjaśnień lub opinii lub wyjaśnienia tych wątpliwości, o czym Agencja informuje na piśmie beneficjenta.
 5.
 (uchylony).
-§ 21.
+§ 21Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 4..
 Agencja może, na uzasadnioną prośbę beneficjenta, wyrazić zgodę na zakończenie realizacji operacji lub złożenie wniosku o płatność końcową po upływie terminów określonych w § 4 ust. 2 pkt 3, w terminie nie dłuższym niż 6 miesięcy od upływu tych terminów, ale nie później niż do dnia 31 grudnia 2024 r.
 § 22.
 1.
@@ -835,8 +824,7 @@ uwzględnione w oddzielnym systemie rachunkowości albo do ich identyfikacji wyk
 2.
 Do kosztów ogólnych poniesionych przed dniem wejścia w życie niniejszego rozporządzenia przepisu § 18 ust. 2 nie stosuje się.
 § 24.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 1, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 30 z 02.02.2018, str. 6, Dz. Urz. UE L 16 z 18.01.2019, str. 1, Dz. Urz. UE L 53 z 22.02.2019, str. 14, Dz. Urz. UE L 204 z 26.06.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 1, Dz. Urz. UE L 79 z 08.03.2021, str. 1 i Dz. Urz. UE L 224 z 24.06.2021, str. 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117 i 1459. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 22 listopada 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2130), które weszło w życie z dniem 26 listopada 2021 r. 5) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 4. 6) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 7) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4. 8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5, Dz. Urz. UE L 123 z 10.05.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5, Dz. Urz. UE L 130 z 24.04.2020, str. 1, Dz. Urz. UE L 231 z 17.07.2020, str. 4, Dz. Urz. UE L 356 z 26.10.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 30, Dz. Urz. UE L 109 z 08.04.2022, str. 1 i Dz. Urz. UE L 115 z 13.04.2022, str. 38. 9) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2399), które weszło w życie z dniem 30 grudnia 2020 r. 10) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 9. 11) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 4. 12) Ze zmianą wprowadzoną przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 4. 13) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 4. 14) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 5 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 15) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 16) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. c tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 17) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. c tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 18) Dodany przez § 1 pkt 5 lit. d rozporządzenia, o którym mowa w odnośniku 4. 19) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1, Dz. Urz. UE L 225 z 19.08.2016, str. 50, Dz. Urz. UE L 170 z 01.07.2017, str. 87, Dz. Urz. UE L 178 z 11.07.2017, str. 4, Dz. Urz. UE L 119 z 15.05.2018, str. 29, Dz. Urz. UE L 125 z 22.05.2018, str. 1, Dz. Urz. UE L 149 z 07.06.2019, str. 58, Dz. Urz. UE L 276 z 29.10.2019, str. 12, Dz. Urz. UE L 224 z 13.07.2020, str. 1 i Dz. Urz. UE L 108 z 29.03.2021, str. 15. 20) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4. 21) Przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 4. 22) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 4. 23) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 i Dz. Urz. UE L 270 z 29.07.2021, str. 39. 24) Ze zmianą wprowadzoną przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 4. 25) Zdanie drugie ze zmianą wprowadzoną przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 4. 26) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 9. 27) Zdanie drugie ze zmianą wprowadzoną przez § 1 pkt 8 lit. c rozporządzenia, o którym mowa w odnośniku 4. 28) Dodany przez § 1 pkt 8 lit. d rozporządzenia, o którym mowa w odnośniku 4. 29) W brzmieniu ustalonym przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 4. 30) W brzmieniu ustalonym przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 4. 31) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 48 z 20.02.2019, str. 1 i Dz. Urz. UE L 414 z 09.12.2020, str. 15. 32) Dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 9. 33) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 264 z 03.10.2008, str. 1, Dz. Urz. UE L 156 z 15.06.2011, str. 12, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 300 z 18.10.2014, str. 72, Dz. Urz. UE L 47 z 24.02.2017, str. 20 i Dz. Urz. UE L 332 z 23.12.2019, str. 204. 34) Rozporządzenie utraciło moc z dniem 1 stycznia 2022 r. na podstawie art. 56 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/848 z dnia 30 maja 2018 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającego rozporządzenie Rady (WE) nr 834/2007 (Dz. Urz. UE L 150 z 14.06.2018, str. 1, z późn. zm.). Rozporządzenie jest nadal stosowane do celów zakończenia analizy nadal nierozpatrzonych wniosków państw trzecich, zgodnie z art. 58 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/848 z dnia 30 maja 2018 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającego rozporządzenie Rady (WE) nr 834/2007. 35) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 9. 36) Dodany przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 9. 37) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 9. 38) Przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 9. 39) W brzmieniu ustalonym przez § 1 pkt 8 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 9. 40) Ze zmianą wprowadzoną przez § 1 pkt 8 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 9. 41) Dodana przez § 1 pkt 8 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 9. 42) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33, Dz. Urz. UE L 308 z 16.11.2016, str. 5, Dz. Urz. UE L 194 z 31.07.2018, str. 44, Dz. Urz. UE L 149 z 07.06.2019, str. 58, Dz. Urz. UE L 215 z 19.08.2019, str. 3, Dz. Urz. UE L 224 z 13.07.2020, str. 1 i Dz. Urz. UE L 27 z 27.01.2021, str. 9. 43) Ze zmianą wprowadzoną przez § 1 pkt 8 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 9. 44) Dodany przez § 1 pkt 8 lit. a tiret piąte rozporządzenia, o którym mowa w odnośniku 9. 45) Dodany przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 9. 46) Przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 9. 47) Przez § 1 pkt 10 lit. a rozporządzenia, o którym mowa w odnośniku 9. 48) Dodany przez § 1 pkt 10 lit. b rozporządzenia, o którym mowa w odnośniku 9. 49) Ze zmianą wprowadzoną przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 4. 50) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 4. 51) Rozporządzenie zostało ogłoszone w dniu 4 stycznia 2017 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 4 stycznia 2017 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 1, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 30 z 02.02.2018, str. 6, Dz. Urz. UE L 16 z 18.01.2019, str. 1, Dz. Urz. UE L 53 z 22.02.2019, str. 14, Dz. Urz. UE L 204 z 26.06.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 1, Dz. Urz. UE L 79 z 08.03.2021, str. 1 i Dz. Urz. UE L 224 z 24.06.2021, str. 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117 i 1459. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 22 listopada 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2130), które weszło w życie z dniem 26 listopada 2021 r. 5) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 4. 6) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 7) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4. 8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5, Dz. Urz. UE L 123 z 10.05.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5, Dz. Urz. UE L 130 z 24.04.2020, str. 1, Dz. Urz. UE L 231 z 17.07.2020, str. 4, Dz. Urz. UE L 356 z 26.10.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 30, Dz. Urz. UE L 109 z 08.04.2022, str. 1 i Dz. Urz. UE L 115 z 13.04.2022, str. 38. 9) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2399), które weszło w życie z dniem 30 grudnia 2020 r. 10) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 9. 11) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 4. 12) Ze zmianą wprowadzoną przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 4. 13) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 4. 14) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 5 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 15) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 16) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. c tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 17) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. c tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 18) Dodany przez § 1 pkt 5 lit. d rozporządzenia, o którym mowa w odnośniku 4. 19) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1, Dz. Urz. UE L 225 z 19.08.2016, str. 50, Dz. Urz. UE L 170 z 01.07.2017, str. 87, Dz. Urz. UE L 178 z 11.07.2017, str. 4, Dz. Urz. UE L 119 z 15.05.2018, str. 29, Dz. Urz. UE L 125 z 22.05.2018, str. 1, Dz. Urz. UE L 149 z 07.06.2019, str. 58, Dz. Urz. UE L 276 z 29.10.2019, str. 12, Dz. Urz. UE L 224 z 13.07.2020, str. 1 i Dz. Urz. UE L 108 z 29.03.2021, str. 15. 20) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4. 21) Przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 4. 22) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 4. 23) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 i Dz. Urz. UE L 270 z 29.07.2021, str. 39. 24) Ze zmianą wprowadzoną przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 4. 25) Zdanie drugie ze zmianą wprowadzoną przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 4. 26) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 9. 27) Zdanie drugie ze zmianą wprowadzoną przez § 1 pkt 8 lit. c rozporządzenia, o którym mowa w odnośniku 4. 28) Dodany przez § 1 pkt 8 lit. d rozporządzenia, o którym mowa w odnośniku 4. 29) W brzmieniu ustalonym przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 4. 30) W brzmieniu ustalonym przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 4. 31) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 48 z 20.02.2019, str. 1 i Dz. Urz. UE L 414 z 09.12.2020, str. 15. 32) Dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 9. 33) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 264 z 03.10.2008, str. 1, Dz. Urz. UE L 156 z 15.06.2011, str. 12, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 300 z 18.10.2014, str. 72, Dz. Urz. UE L 47 z 24.02.2017, str. 20 i Dz. Urz. UE L 332 z 23.12.2019, str. 204. 34) Rozporządzenie utraciło moc z dniem 1 stycznia 2022 r. na podstawie art. 56 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/848 z dnia 30 maja 2018 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającego rozporządzenie Rady (WE) nr 834/2007 (Dz. Urz. UE L 150 z 14.06.2018, str. 1, z późn. zm.). Rozporządzenie jest nadal stosowane do celów zakończenia analizy nadal nierozpatrzonych wniosków państw trzecich, zgodnie z art. 58 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/848 z dnia 30 maja 2018 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającego rozporządzenie Rady (WE) nr 834/2007. 35) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 9. 36) Dodany przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 9. 37) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 9. 38) Przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 9. 39) W brzmieniu ustalonym przez § 1 pkt 8 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 9. 40) Ze zmianą wprowadzoną przez § 1 pkt 8 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 9. 41) Dodana przez § 1 pkt 8 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 9. 42) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33, Dz. Urz. UE L 308 z 16.11.2016, str. 5, Dz. Urz. UE L 194 z 31.07.2018, str. 44, Dz. Urz. UE L 149 z 07.06.2019, str. 58, Dz. Urz. UE L 215 z 19.08.2019, str. 3, Dz. Urz. UE L 224 z 13.07.2020, str. 1 i Dz. Urz. UE L 27 z 27.01.2021, str. 9. 43) Ze zmianą wprowadzoną przez § 1 pkt 8 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 9. 44) Dodany przez § 1 pkt 8 lit. a tiret piąte rozporządzenia, o którym mowa w odnośniku 9. 45) Dodany przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 9. 46) Przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 9. 47) Przez § 1 pkt 10 lit. a rozporządzenia, o którym mowa w odnośniku 9. 48) Dodany przez § 1 pkt 10 lit. b rozporządzenia, o którym mowa w odnośniku 9. 49) Ze zmianą wprowadzoną przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 4. 50) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 4. 51) Rozporządzenie zostało ogłoszone w dniu 4 stycznia 2017 r.
 
 ## Załącznik nr 1 — – Elementy, jakie powinna zawierać informacja na temat realizowanej operacji
 
@@ -857,7 +845,7 @@ Okres realizacji operacji (data rozpoczęcia i zakończenia realizacji operacji)
 8.
 Całkowity budżet operacji.
 9.
-Wskazanie obszaru na poziomie NUTS 3 określonego w załączniku I do rozporządzenia (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196), na którym realizowane będą główne zadania w ramach operacji.
+Wskazanie obszaru na poziomie NUTS 3 określonego w załączniku I do rozporządzenia (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1, Dz. Urz. UE L 322 z 29.11.2016, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 1 i Dz. Urz. UE L 270 z 24.10.2019, str. 1. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196), na którym realizowane będą główne zadania w ramach operacji.
 10.
 Krótkie podsumowanie operacji, zawierające opis celów i głównych zadań do zrealizowania oraz wskazanie oczekiwanych rezultatów (w języku polskim i angielskim).
 11.
@@ -865,7 +853,7 @@ Główne korzyści, jakie będą wynikać z zastosowania poszczególnych lub wsz
 12.
 Adres strony internetowej dotyczącej operacji.
 13.
-Dodatkowe informacje na temat realizowanej operacji zamieszczane z inicjatywy beneficjenta.
+Dodatkowe informacje na temat realizowanej operacji zamieszczane z inicjatywy beneficjenta. 52) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1, Dz. Urz. UE L 322 z 29.11.2016, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 1 i Dz. Urz. UE L 270 z 24.10.2019, str. 1.
 
 ## Załącznik nr 2 — – Elementy, jakie powinno zawierać sprawozdanie z realizacji operacji
 
@@ -886,7 +874,7 @@ Okres realizacji operacji (data rozpoczęcia i zakończenia realizacji operacji)
 8.
 Całkowity budżet operacji.
 9.
-Wskazanie obszaru na poziomie NUTS 3 określonego w załączniku I do aarozporządzenia (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196), na którym realizowane były główne zadania w ramach operacji.
+Wskazanie obszaru na poziomie NUTS 3 określonego w załączniku I do aarozporządzenia (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1, Dz. Urz. UE L 322 z 29.11.2016, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 1 i Dz. Urz. UE L 270 z 24.10.2019, str. 1. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196), na którym realizowane były główne zadania w ramach operacji.
 10.
 Krótkie podsumowanie operacji, zawierające opis celów i głównych zadań, które zostały zrealizowane, oraz wskazanie uzyskanych w ich wyniku rezultatów (w języku polskim i angielskim).
 11.
@@ -896,5 +884,5 @@ Wskazanie miejsca, w którym zostały udostępnione materiały audiowizualne dot
 13.
 Adres strony internetowej dotyczącej operacji.
 14.
-Dodatkowe informacje na temat realizowanej operacji zamieszczane z inicjatywy beneficjenta.
+Dodatkowe informacje na temat realizowanej operacji zamieszczane z inicjatywy beneficjenta. 53) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1, Dz. Urz. UE L 322 z 29.11.2016, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 1 i Dz. Urz. UE L 270 z 24.10.2019, str. 1.
 

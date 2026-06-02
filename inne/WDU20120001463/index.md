@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-12 |
 | Data wydania | 2012-12-27 |
-| Wejście w życie | 2012-12-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001463) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1463/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 77 ust. 1 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. Nr 167, poz. 1131, z 2011 r. Nr 133, poz. 768 oraz z 2012 r. poz. 1407) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 21 listopada 2011 r. w sprawie opłat za udostępnienie danych z Rejestru Dowodów Osobistych i dokumentacji związanej z dowodami osobistymi (Dz. U. z 2012 r. poz. 75) § 7 otrzymuje brzmienie:
-„
+W rozporządzeniu Rady Ministrów z dnia 21 listopada 2011 r. w sprawie opłat za udostępnienie danych z Rejestru Dowodów Osobistych i dokumentacji związanej z dowodami osobistymi (Dz. U. z 2012 r. poz. 75) § 7 otrzymuje brzmienie: „
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

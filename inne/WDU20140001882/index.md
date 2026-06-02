@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-19 |
 | Data wydania | 2014-12-23 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001882) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1882/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 105i ust. 3 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 105i ust. 3 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351 oraz z 2014 r. poz. 502, 616 i 1822.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 29 maja 2014 r. w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania strażaków na zwolnieniach lekarskich (Dz. U. poz. 718) w załączniku w tabeli nr 2:
 1)
@@ -36,5 +35,5 @@ po wierszu oznaczonym lp. 10 dodaje się wiersz oznaczony lp. 10a w brzmieniu: 1
 2)
 wiersze po lp. 10 „RAZEM (wiersze 1–10)” i „ŚREDNIA (wiersze 1–10)” otrzymują brzmienie: RAZEM (wiersze 1–10a) ŚREDNIA (wiersze 1–10a)
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351 oraz z 2014 r. poz. 502, 616 i 1822.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 25 listopada 2021 r. w sprawie zgłoszeń INTRASTAT
+# Rozporządzenie Ministra Finansówz dnia 25 listopada 2021 r. w sprawie zgłoszeń INTRASTAT Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-25 |
 | Data wydania | 2021-12-07 |
-| Wejście w życie | 2021-12-22 |
 | Ostatnia zmiana | 2025-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002258) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2258/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowy tryb, sposób i terminy dokonywania zgłoszeń INTRASTAT i korekt tych zgłoszeń oraz przypadki, gdy dokonanie zgłoszenia INTRASTAT lub korekty tego zgłoszenia nie jest wymagane Rozdział 3 – Wymogi, jakie powinno spełniać zgłoszenie INTRASTAT oraz korekta tego zgłoszenia Rozdział 4 – Szczegółowy tryb, sposób i terminy dokonywania upomnień oraz szczegółowy tryb dokonywania wezwań Rozdział 5 – Właściwość miejscowa organów celnych w sprawach dotyczących zgłoszeń INTRASTAT i ich korekty Rozdział 6 – Przepis przejściowy i przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 98 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2021 r. poz. 1856) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -39,6 +39,7 @@ wymogi, jakie powinno spełniać zgłoszenie INTRASTAT oraz korekta tego zgłosz
 szczegółowy tryb, sposób i terminy dokonywania upomnień oraz szczegółowy tryb dokonywania wezwań;
 4)
 właściwość miejscową organów celnych w sprawach dotyczących zgłoszeń INTRASTAT i ich korekty.
+Szczegółowy tryb, sposób i terminy dokonywania zgłoszeń INTRASTAT i korekt tych zgłoszeń oraz przypadki, gdy dokonanie zgłoszenia INTRASTAT lub korekty tego zgłoszenia nie jest wymagane
 § 2.
 1.
 Osoba zobowiązana dokonuje w roku sprawozdawczym zgłoszeń INTRASTAT odnoszących się do przywozu towarów, zwanych dalej „zgłoszeniami INTRASTAT w przywozie”, lub zgłoszeń INTRASTAT odnoszących się do wywozu towarów, zwanych dalej „zgłoszeniami INTRASTAT w wywozie”, poczynając od zgłoszenia INTRASTAT za:
@@ -72,8 +73,7 @@ nie zostało sporządzone zgodnie z wymaganiami dla postaci elektronicznej zgło
 2)
 nie zawiera wszystkich wymaganych danych,
 3)
-nie zostało złożone upoważnienie w terminie, o którym mowa w § 6
-organ celny odmawia jego przyjęcia i wzywa do uzupełnienia braków w terminie 7 dni od dnia otrzymania wezwania. W przypadku nieusunięcia braków w wyznaczonym terminie organ celny uznaje, że zgłoszenie INTRASTAT nie zostało dokonane.
+nie zostało złożone upoważnienie w terminie, o którym mowa w § 6 – organ celny odmawia jego przyjęcia i wzywa do uzupełnienia braków w terminie 7 dni od dnia otrzymania wezwania. W przypadku nieusunięcia braków w wyznaczonym terminie organ celny uznaje, że zgłoszenie INTRASTAT nie zostało dokonane.
 § 8.
 W przypadku gdy zgłoszenie INTRASTAT zostało dokonane omyłkowo, może ono zostać anulowane. Informacja o anulowaniu zgłoszenia INTRASTAT jest przekazywana osobie zobowiązanej przez organ celny.
 § 9.
@@ -109,6 +109,7 @@ po złożeniu przez osobę zobowiązaną wyjaśnień, o których mowa w § 22 us
 upłynął rok, licząc od końca roku kalendarzowego, w którym wystąpił okres sprawozdawczy, do którego odnosi się zgłoszenie INTRASTAT.
 § 11.
 Zgłoszenia INTRASTAT i jego korekty dokonuje się drogą elektroniczną, zgodnie z wymogami umożliwiającymi korzystanie z Platformy Usług Elektronicznych Skarbowo-Celnych.
+Wymogi, jakie powinno spełniać zgłoszenie INTRASTAT oraz korekta tego zgłoszenia
 § 12.
 1.
 Zgłoszenie INTRASTAT i korektę zgłoszenia INTRASTAT sporządza się zgodnie ze specyfikacją XML opublikowaną na Platformie Usług Elektronicznych Skarbowo-Celnych.
@@ -176,7 +177,7 @@ Właściwy organ celny nie wyraża zgody, o której mowa w ust. 1, jeżeli osoba
 W przypadku gdy w miesiącu sprawozdawczym osoba zobowiązana nie dokonała żadnych przywozów lub wywozów towarów, w zgłoszeniu INTRASTAT należy podać dane, o których mowa w § 13 pkt 1–8 oraz 21. Dla danych, o których mowa w § 13 pkt 6–8, należy podać wartość „0”.
 § 17.
 1.
-W przypadku przywozu lub wywozu towarów stanowiących części składowe zakładu przemysłowego, o którym mowa w pkt 5 sekcji 31 rozdziału IV załącznika V rozporządzenia wykonawczego Komisji (UE) 2020/1197 z dnia 30 lipca 2020 r. ustanawiającego specyfikacje techniczne i ustalenia na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2152 w sprawie europejskiej statystyki gospodarczej uchylającego 10 aktów prawnych w dziedzinie statystyki gospodarczej (Dz. Urz. UE L 271 z 18.08.2020, str. 1, z późn. zm.), organ celny, na wniosek osoby zobowiązanej, może wyrazić zgodę na uproszczone deklarowanie przywozu lub wywozu tych towarów, jeżeli szacowana całkowita wartość statystyczna zakładu przemysłowego wynosi co najmniej równowartość 3 mln euro.
+W przypadku przywozu lub wywozu towarów stanowiących części składowe zakładu przemysłowego, o którym mowa w pkt 5 sekcji 31 rozdziału IV załącznika V rozporządzenia wykonawczego Komisji (UE) 2020/1197 z dnia 30 lipca 2020 r. ustanawiającego specyfikacje techniczne i ustalenia na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2152 w sprawie europejskiej statystyki gospodarczej uchylającego 10 aktów prawnych w dziedzinie statystyki gospodarczej (Dz. Urz. UE L 271 z 18.08.2020, str. 1, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 269 z 28.07.2021, str. 58.), organ celny, na wniosek osoby zobowiązanej, może wyrazić zgodę na uproszczone deklarowanie przywozu lub wywozu tych towarów, jeżeli szacowana całkowita wartość statystyczna zakładu przemysłowego wynosi co najmniej równowartość 3 mln euro.
 2.
 Do wniosku, o którym mowa w ust. 1, należy dołączyć:
 1)
@@ -207,14 +208,14 @@ W przypadku gdy przedmiotem przywozu lub wywozu są klasyfikowane pod różnymi 
 Przepisu ust. 1 nie stosuje się w przypadku, gdy przedmiotem przywozu lub wywozu są nadwozia, podwozia i silniki do pojazdów mechanicznych lub statków powietrznych.
 § 21.
 Realizowany na podstawie umów o prenumeratę przywóz lub wywóz czasopism objętych jedną fakturą ujmuje się w zgłoszeniu INTRASTAT zbiorczo za cały okres prenumeraty. W przypadku gdy przesyłki czasopism zostały dokonane w kilku okresach sprawozdawczych, zgłoszenia INTRASTAT dokonuje się tylko raz – za miesiąc sprawozdawczy, w którym dokonano przywozu lub wywozu ostatniej partii czasopism.
+Szczegółowy tryb, sposób i terminy dokonywania upomnień oraz szczegółowy tryb dokonywania wezwań
 § 22.
 1.
 W przypadku stwierdzenia, że zgłoszenie INTRASTAT zawiera niekompletne lub nieprawidłowe dane, organ celny wzywa osobę zobowiązaną do:
 1)
 złożenia wyjaśnień dotyczących zgłoszenia INTRASTAT lub
 2)
-dokonania korekty zgłoszenia INTRASTAT
-wskazując przyczyny wezwania oraz termin do dokonania tych czynności.
+dokonania korekty zgłoszenia INTRASTAT – wskazując przyczyny wezwania oraz termin do dokonania tych czynności.
 2.
 W przypadkach, o których mowa w ust. 1, albo w razie niemożności nawiązania kontaktu z osobą zobowiązaną dokonuje się w systemie teleinformatycznym adnotacji dotyczących ustaleń w sprawie.
 3.
@@ -228,23 +229,36 @@ Jeżeli pomimo prawidłowego doręczenia upomnienia, o którym mowa w ust. 1, os
 Jeżeli pomimo prawidłowego doręczenia upomnienia, o którym mowa w ust. 2, osoba zobowiązana nie dokonała w wyznaczonym terminie czynności, do których wykonania była zobowiązana, organ celny po raz trzeci upomina osobę zobowiązaną o konieczności wywiązania się z tego obowiązku w terminie 7 dni od dnia otrzymania tego upomnienia.
 4.
 W upomnieniach o konieczności dokonania korekty zgłoszenia INTRASTAT, o których mowa w ust. 1–3, organ celny wskazuje przyczyny, z powodu których informacje zawarte w zgłoszeniu INTRASTAT podaje się w wątpliwość, oraz elementy zgłoszenia, które należy poddać korekcie.
+Właściwość miejscowa organów celnych w sprawach dotyczących zgłoszeń INTRASTAT i ich korekty
 § 24.
 Organem celnym właściwym miejscowo w sprawach zgłoszeń INTRASTAT i ich korekty, w tym w sprawach wezwań, upomnień i postępowań w sprawie kary pieniężnej, jest Dyrektor Izby Administracji Skarbowej w Szczecinie.
+Przepis przejściowy i przepis końcowy
 § 25.
 Do dnia 1 stycznia 2022 r. nie jest wymagane podawanie w zgłoszeniach INTRASTAT w wywozie informacji, o której mowa w § 13 pkt 16.
 § 26.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 269 z 28.07.2021, str. 58. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 15 listopada 2016 r. w sprawie zgłoszeń INTRASTAT (Dz. U. z 2018 r. poz. 426), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 24 ustawy z dnia 30 marca 2021 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw (Dz. U. poz. 802).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 15 listopada 2016 r. w sprawie zgłoszeń INTRASTAT (Dz. U. z 2018 r. poz. 426), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 24 ustawy z dnia 30 marca 2021 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw (Dz. U. poz. 802). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 269 z 28.07.2021, str. 58. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 15 listopada 2016 r. w sprawie zgłoszeń INTRASTAT (Dz. U. z 2018 r. poz. 426), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 24 ustawy z dnia 30 marca 2021 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw (Dz. U. poz. 802).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowy tryb, sposób i terminy dokonywania zgłoszeń INTRASTAT i korekt tych zgłoszeń oraz przypadki, gdy dokonanie zgłoszenia INTRASTAT lub korekty tego zgłoszenia nie jest wymagane
+#### Rozdział 2 – Szczegółowy tryb, sposób i terminy dokonywania zgłoszeń INTRASTAT i korekt tych zgłoszeń oraz przypadki, gdy dokonanie zgłoszenia INTRASTAT lub korekty tego zgłoszenia nie jest wymagane
 
-#### Rozdział 3 Wymogi, jakie powinno spełniać zgłoszenie INTRASTAT oraz korekta tego zgłoszenia
+#### Rozdział 3 – Wymogi, jakie powinno spełniać zgłoszenie INTRASTAT oraz korekta tego zgłoszenia
 
-#### Rozdział 4 Szczegółowy tryb, sposób i terminy dokonywania upomnień oraz szczegółowy tryb dokonywania wezwań
+#### Rozdział 4 – Szczegółowy tryb, sposób i terminy dokonywania upomnień oraz szczegółowy tryb dokonywania wezwań
 
-#### Rozdział 5 Właściwość miejscowa organów celnych w sprawach dotyczących zgłoszeń INTRASTAT i ich korekty
+#### Rozdział 5 – Właściwość miejscowa organów celnych w sprawach dotyczących zgłoszeń INTRASTAT i ich korekty
 
-#### Rozdział 6 Przepis przejściowy i przepis końcowy
+#### Rozdział 6 – Przepis przejściowy i przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

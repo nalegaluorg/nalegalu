@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Zagranicznychz dnia 7 stycznia 2020 r. zmieniające rozporządzenie w sprawie rejestrów Kart Polaka
+# Rozporządzenie Ministra Spraw Zagranicznychz dnia 7 stycznia 2020 r. zmieniające rozporządzenie w sprawie rejestrów Kart Polaka Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 2260).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-07 |
 | Data wydania | 2020-01-10 |
-| Wejście w życie | 2020-01-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000032) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/32/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 24 ust. 2 ustawy z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2019 r. poz. 1598) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Zagranicznych z dnia 22 grudnia 2017 r. w sprawie rejestrów Kart Polaka (Dz. U. poz. 2475) § 5 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Spraw Zagranicznych z dnia 22 grudnia 2017 r. w sprawie rejestrów Kart Polaka (Dz. U. poz. 2475) § 5 otrzymuje brzmienie: „
 § 5.
-W przypadku konieczności zwrócenia się przez konsula lub wojewodę do Szefa Agencji Bezpieczeństwa Wewnętrznego – a w razie potrzeby także do innych organów administracji publicznej – z wnioskiem o przekazanie informacji zgodnie z art. 19a ust. 2 ustawy z dnia 7 września 2007 r. o Karcie Polaka, wniosek o przekazanie informacji, kierowany do tych organów, zawiera dane osoby, której dotyczy zapytanie, pobrane z rejestru centralnego. Wniosek ten jest przekazywany w postaci elektronicznej z wykorzystaniem bezpiecznych łączy, zapewniających poufność i integralność przesyłanych danych.
-” .
+W przypadku konieczności zwrócenia się przez konsula lub wojewodę do Szefa Agencji Bezpieczeństwa Wewnętrznego – a w razie potrzeby także do innych organów administracji publicznej – z wnioskiem o przekazanie informacji zgodnie z art. 19a ust. 2 ustawy z dnia 7 września 2007 r. o Karcie Polaka, wniosek o przekazanie informacji, kierowany do tych organów, zawiera dane osoby, której dotyczy zapytanie, pobrane z rejestru centralnego. Wniosek ten jest przekazywany w postaci elektronicznej z wykorzystaniem bezpiecznych łączy, zapewniających poufność i integralność przesyłanych danych. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 2260).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 2260).
 

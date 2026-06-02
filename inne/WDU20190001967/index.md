@@ -22,11 +22,22 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-30 |
 | Data wydania | 2019-10-15 |
-| Wejście w życie | 2019-10-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001967) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1967/text.pdf) |
 
-#### Rozdział 1 Przepisy ogólne
+Przepisy ogólne
+Organizacja lotów najważniejszych osób w państwie
+Centralny Rejestr Lotów o statusie HEAD
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Organizacja lotów najważniejszych osób w państwie
+
+#### Rozdział 3 – Centralny Rejestr Lotów o statusie HEAD
+
+#### Rozdział 4 – Przepis przejściowy i końcowy
+
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -35,11 +46,11 @@ source: "eli-html"
 - **1)** Prezydenta Rzeczypospolitej Polskiej,
 - **2)** Marszałka Sejmu Rzeczypospolitej Polskiej,
 - **3)** Marszałka Senatu Rzeczypospolitej Polskiej,
-- **4)** Prezesa Rady Ministrów zwanych dalej „najważniejszymi osobami w państwie”, wykonywanych w misji oficjalnej.
+- **4)** Prezesa Rady Ministrów – zwanych dalej „najważniejszymi osobami w państwie”, wykonywanych w misji oficjalnej.
 
 2. Ustawę stosuje się także do organizacji lotów osób zgłoszonych drogą dyplomatyczną do urzędu obsługującego ministra właściwego do spraw zagranicznych, będących odpowiednikami osób, o których mowa w ust. 1, z państw obcych.
 
-#### Rozdział 2 Organizacja lotów najważniejszych osób w państwie
+#### Rozdział 2
 
 **Art. 2.**
 
@@ -83,7 +94,7 @@ source: "eli-html"
 
 **Art. 6.** Szefowie Kancelarii: Prezydenta Rzeczypospolitej Polskiej, Sejmu Rzeczypospolitej Polskiej, Senatu Rzeczypospolitej Polskiej oraz Prezesa Rady Ministrów, każdy w zakresie swojego działania, określą, w drodze zarządzeń, szczegółowy tryb organizacji lotów osób, o których mowa w art. 1, uwzględniając konieczność zapewnienia bezpieczeństwa i sprawnej organizacji lotów tych osób, w tym przepisy wydane na podstawie art. 5.
 
-#### Rozdział 3 Centralny Rejestr Lotów o statusie HEAD
+#### Rozdział 3
 
 **Art. 7.**
 

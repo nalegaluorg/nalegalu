@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 18 lipca 2017 r. w sprawie szczegółowych wymagań dotyczących procesu przetwarzania zużytych baterii samochodowych kwasowo-ołowiowych, zużytych akumulatorów samochodowych kwasowo-ołowiowych, zużytych baterii przemysłowych kwasowo-ołowiowych lub zużytych akumulatorów przemysłowych kwasowo-ołowiowych oraz instalacji prowadzących recykling ołowiu i jego związków lub recykling tworzyw sztucznych
+# Rozporządzenie Ministra Środowiskaz dnia 18 lipca 2017 r. w sprawie szczegółowych wymagań dotyczących procesu przetwarzania zużytych baterii samochodowych kwasowo-ołowiowych, zużytych akumulatorów samochodowych kwasowo-ołowiowych, zużytych baterii przemysłowych kwasowo-ołowiowych lub zużytych akumulatorów przemysłowych kwasowo-ołowiowych oraz instalacji prowadzących recykling ołowiu i jego związków lub recykling tworzyw sztucznych Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-18 |
 | Data wydania | 2017-08-01 |
-| Wejście w życie | 2017-08-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001474) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1474/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 63 ust. 7 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. z 2016 r. poz. 1803) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 22 marca 2017 r. pod numerem 2017/121/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielana informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 63 ust. 7 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. z 2016 r. poz. 1803) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe wymagania dotyczące:
 1)
@@ -96,6 +95,5 @@ w przypadku przyjmowania i magazynowania frakcji tworzyw sztucznych oraz recykli
 7)
 w przypadku recyklingu ołowiu i jego związków oraz ich rafinacji – w szczelne, zamykane i oznakowane pojemniki odpowiednie do gromadzenia materiałów ołowionośnych lub w oznakowane, zadaszone, betonowe boksy do gromadzenia materiałów ołowionośnych, usytuowane w wydzielonym i oznaczonym miejscu.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 22 marca 2017 r. pod numerem 2017/121/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielana informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 17 lutego 2010 r. w sprawie szczegółowych wymagań dotyczących procesu przetwarzania zużytych baterii kwasowo-ołowiowych i zużytych akumulatorów kwasowo-ołowiowych (Dz. U. poz. 201), które zgodnie z art. 18 ustawy z dnia 29 sierpnia 2014 r. o zmianie ustawy o bateriach i akumulatorach oraz niektórych innych ustaw (Dz. U. poz. 1322) utraciło moc z dniem 2 stycznia 2017 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 17 lutego 2010 r. w sprawie szczegółowych wymagań dotyczących procesu przetwarzania zużytych baterii kwasowo-ołowiowych i zużytych akumulatorów kwasowo-ołowiowych (Dz. U. poz. 201), które zgodnie z art. 18 ustawy z dnia 29 sierpnia 2014 r. o zmianie ustawy o bateriach i akumulatorach oraz niektórych innych ustaw (Dz. U. poz. 1322) utraciło moc z dniem 2 stycznia 2017 r. 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 22 marca 2017 r. pod numerem 2017/121/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielana informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 17 lutego 2010 r. w sprawie szczegółowych wymagań dotyczących procesu przetwarzania zużytych baterii kwasowo-ołowiowych i zużytych akumulatorów kwasowo-ołowiowych (Dz. U. poz. 201), które zgodnie z art. 18 ustawy z dnia 29 sierpnia 2014 r. o zmianie ustawy o bateriach i akumulatorach oraz niektórych innych ustaw (Dz. U. poz. 1322) utraciło moc z dniem 2 stycznia 2017 r.
 

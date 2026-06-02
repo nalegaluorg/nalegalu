@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 maja 2015 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych
+# Ustawa z dnia 15 maja 2015 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady 2011/77/UE z dnia 27 września 2011 r. dotyczącą zmiany dyrektywy 2006/116/WE w sprawie czasu ochrony prawa autorskiego i niektórych praw pokrewnych (Dz. Urz. UE L 265 z 11.10.2011, s. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-05-15 |
 | Data wydania | 2015-07-17 |
-| Wejście w życie | 2015-08-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000994) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/994/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. Nr 90, poz. 631, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. Nr 90, poz. 631, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 94, poz. 658 i Nr 121, poz. 843, z 2007 r. Nr 99, poz. 662 i Nr 181, poz. 1293, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 152, poz. 1016 oraz z 2015 r. poz. 932.) wprowadza się następujące zmiany:
 
 - **1)** w art. 36 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
 - **5)** w odniesieniu do utworu słowno-muzycznego, jeżeli utwór słowny i utwór muzyczny zostały stworzone specjalnie dla danego utworu słowno-muzycznego – od śmierci później zmarłej z wymienionych osób: autora utworu słownego albo kompozytora utworu muzycznego. ” ;
@@ -110,5 +109,5 @@ source: "eli-html"
 
 **Art. 4.** Umowy, na mocy których prawa do artystycznego wykonania zostały przeniesione na producenta fonogramu oraz umowy, na mocy których producentowi fonogramu udzielona została licencja na korzystanie z artystycznego wykonania, obowiązujące w dniu 31 października 2013 r., zachowują moc obowiązującą do dnia upływu okresu, o którym mowa w art. 891ustawy zmienianej w art. 1, chyba że strony postanowiły inaczej.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady 2011/77/UE z dnia 27 września 2011 r. dotyczącą zmiany dyrektywy 2006/116/WE w sprawie czasu ochrony prawa autorskiego i niektórych praw pokrewnych (Dz. Urz. UE L 265 z 11.10.2011, s. 1). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 94, poz. 658 i Nr 121, poz. 843, z 2007 r. Nr 99, poz. 662 i Nr 181, poz. 1293, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 152, poz. 1016 oraz z 2015 r. poz. 932.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-31 |
 | Data wydania | 2017-08-04 |
-| Wejście w życie | 2017-08-05 |
 | Ostatnia zmiana | 2024-10-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001500) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1500/text.pdf) |
 

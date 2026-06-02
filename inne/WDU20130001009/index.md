@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-08-13 |
 | Data wydania | 2013-09-02 |
-| Wejście w życie | 2013-09-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001009) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1009/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 130 ust. 8 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 130 ust. 8 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1544 oraz z 2013 r. poz. 134, 628, 829 i 912.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób i tryb rozliczania i dokumentowania kosztów ponoszonych przez instytucje zapewniające służby żeglugi powietrznej z tytułu obsługi lotów zwolnionych z opłat nawigacyjnych, za które przysługuje dotacja celowa z budżetu państwa, zwanych dalej „kosztami refundowanymi”.
 § 2.
@@ -47,7 +46,7 @@ rozporządzeniu nr 1794/2006 – rozumie się przez to rozporządzenie Komisji (
 7)
 ustalonych kosztach – rozumie się przez to koszty określone w art. 15 ust. 2 lit. a i b rozporządzenia (WE) nr 550/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. w sprawie zapewniania służb żeglugi powietrznej w Jednolitej Europejskiej Przestrzeni Powietrznej (Dz. Urz. UE L 96 z 31.03.2004, str. 10, z późn. zm.);
 8)
-koszcie obsługi lotów VFR – rozumie się przez to koszt gotowości zapewnienia służb nawigacyjnych dla lotów VFR i lotów mieszanych w części wykonywanej według przepisów dla lotów VFR, o których mowa w rozdziale 4 załącznika 2 do Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. Nr 35, poz. 212 i 214, z późn. zm.);
+koszcie obsługi lotów VFR – rozumie się przez to koszt gotowości zapewnienia służb nawigacyjnych dla lotów VFR i lotów mieszanych w części wykonywanej według przepisów dla lotów VFR, o których mowa w rozdziale 4 załącznika 2 do Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. Nr 35, poz. 212 i 214, z późn. zm.Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 1963 r. Nr 24, poz. 137 i 138, z 1969 r. Nr 27, poz. 210 i 211, z 1976 r. Nr 21, poz. 130 i 131, Nr 32, poz. 188 i 189 i Nr 39, poz. 227 i 228, z 1984 r. Nr 39, poz. 199 i 200, z 2000 r. Nr 39, poz. 446 i 447, z 2002 r. Nr 58, poz. 527 i 528, z 2003 r. Nr 78, poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371.);
 9)
 koszcie rzeczywistym lotów VFR – rozumie się przez to koszty poniesione przez instytucję i zewidencjonowane w systemie księgowym;
 10)
@@ -154,8 +153,7 @@ W razie stwierdzenia:
 1)
 nieprowadzenia ewidencji, o której mowa w ust. 1 lub 2, lub
 2)
-ustalenia kwoty dotacji z tytułu kosztów obsługi lotów IFR w oparciu o stawkę wyższą niż stawka ustalona zgodnie z odrębnymi przepisami, o której mowa w § 3 ust. 1 pkt 1
-pobrana w danym roku przez instytucję dotacja podlega zwrotowi jak dotacja wykorzystana niezgodnie z przeznaczeniem.
+ustalenia kwoty dotacji z tytułu kosztów obsługi lotów IFR w oparciu o stawkę wyższą niż stawka ustalona zgodnie z odrębnymi przepisami, o której mowa w § 3 ust. 1 pkt 1 – pobrana w danym roku przez instytucję dotacja podlega zwrotowi jak dotacja wykorzystana niezgodnie z przeznaczeniem.
 § 9.
 Wykazy, o których mowa w § 5 ust. 2, minister właściwy do spraw transportu przekaże wyznaczonej instytucji zapewniającej służby żeglugi powietrznej w terminie 7 dni od dnia wejścia w życie rozporządzenia.
 § 10.
@@ -164,5 +162,5 @@ Przepisy rozporządzenia stosuje się do dotacji naliczonych od dnia 1 stycznia 
 2.
 Do wniosków o wypłatę kosztów, o których mowa w art. 130 ust. 7 ustawy, złożonych przed dniem 19 marca 2013 r., stosuje się przepisy obowiązujące w dniu ich złożenia.
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu z dnia 5 lipca 2007 r. w sprawie sposobu i trybu rozliczania i dokumentowania wydatków związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnych (Dz. U. Nr 124, poz. 866), które na podstawie art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. Nr 170, poz. 1015) utraciło moc z dniem 19 marca 2013 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1544 oraz z 2013 r. poz. 134, 628, 829 i 912. 3) Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 1963 r. Nr 24, poz. 137 i 138, z 1969 r. Nr 27, poz. 210 i 211, z 1976 r. Nr 21, poz. 130 i 131, Nr 32, poz. 188 i 189 i Nr 39, poz. 227 i 228, z 1984 r. Nr 39, poz. 199 i 200, z 2000 r. Nr 39, poz. 446 i 447, z 2002 r. Nr 58, poz. 527 i 528, z 2003 r. Nr 78, poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu z dnia 5 lipca 2007 r. w sprawie sposobu i trybu rozliczania i dokumentowania wydatków związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnych (Dz. U. Nr 124, poz. 866), które na podstawie art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. Nr 170, poz. 1015) utraciło moc z dniem 19 marca 2013 r.
 

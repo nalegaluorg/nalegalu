@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-23 |
 | Data wydania | 2017-04-26 |
-| Wejście w życie | 2017-05-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000844) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/844/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.) wprowadza się następujące zmiany:
+System podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej
+
+**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759 i 777.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5: pkt 7a otrzymuje brzmienie: „
     - **a)**
@@ -46,7 +47,7 @@ source: "eli-html"
 
 - **3)** po dziale IVa dodaje się dział IVb w brzmieniu: „
 
-### Dział IVB System podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej
+### Dział IVB
 
 **Art. 95l.**
 
@@ -170,7 +171,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** w przypadku poziomu systemu zabezpieczenia, o którym mowa w art. 95l ust. 2 pkt 3 – w ramach wszystkich profili systemu zabezpieczenia, w zakresie leczenia szpitalnego w trybie hospitalizacji, określonych w przepisach wydanych na podstawie art. 31d pod warunkiem posiadania do dnia ogłoszenia wykazu, o którym mowa w art. 95n ust. 1, umowy o udzielanie świadczeń opieki zdrowotnej co do świadczeń gwarantowanych wskazanych w pkt 1 i 2, której okres trwania wynosi co najmniej 2 ostatnie lata kalendarzowe.
+- **2)** w przypadku poziomu systemu zabezpieczenia, o którym mowa w art. 95l ust. 2 pkt 3 – w ramach wszystkich profili systemu zabezpieczenia, w zakresie leczenia szpitalnego w trybie hospitalizacji, określonych w przepisach wydanych na podstawie art. 31d – pod warunkiem posiadania do dnia ogłoszenia wykazu, o którym mowa w art. 95n ust. 1, umowy o udzielanie świadczeń opieki zdrowotnej co do świadczeń gwarantowanych wskazanych w pkt 1 i 2, której okres trwania wynosi co najmniej 2 ostatnie lata kalendarzowe.
 
 11. W celu zagwarantowania ciągłości i kompleksowości udzielanych świadczeń opieki zdrowotnej, świadczeniodawcy, w ramach poszczególnych poziomów systemu zabezpieczenia, zapewniają świadczeniobiorcom również dostęp do świadczeń opieki zdrowotnej udzielanych:
 
@@ -182,7 +183,7 @@ source: "eli-html"
 - **1)** szczegółowe kryteria kwalifikacji świadczeniodawców do poszczególnych poziomów systemu zabezpieczenia,
 - **2)** dodatkowe profile systemu zabezpieczenia, zakresy i rodzaje świadczeń, w ramach których świadczeniodawcy zakwalifikowani do poszczególnych poziomów systemu zabezpieczenia mogą udzielać świadczeń opieki zdrowotnej w ramach danego poziomu systemu zabezpieczenia, o których mowa w ust. 11,
 - **3)** dodatkowe kryteria, po spełnieniu których świadczeniodawcy mogą udzielać świadczeń opieki zdrowotnej w ramach dodatkowych profili systemu zabezpieczenia, zakresów i rodzajów świadczeń, w ramach danego poziomu systemu zabezpieczenia, o których mowa w ust. 11,
-- **4)** wskazanie porad specjalistycznych odpowiadających poszczególnym profilom systemu zabezpieczenia, o których mowa w ust. 10 pkt 1 lit. a uwzględniając potrzebę zabezpieczenia odpowiedniego dostępu do świadczeń opieki zdrowotnej, a także zapewnienie ciągłości i kompleksowości udzielanych świadczeń opieki zdrowotnej.
+- **4)** wskazanie porad specjalistycznych odpowiadających poszczególnym profilom systemu zabezpieczenia, o których mowa w ust. 10 pkt 1 lit. a – uwzględniając potrzebę zabezpieczenia odpowiedniego dostępu do świadczeń opieki zdrowotnej, a także zapewnienie ciągłości i kompleksowości udzielanych świadczeń opieki zdrowotnej.
 
 1. Działając na podstawie przepisów art. 95m oraz ust. 3, dyrektor oddziału wojewódzkiego Funduszu sporządza i ogłasza w Biuletynie Informacji Publicznej Funduszu wykaz świadczeniodawców zakwalifikowanych do poszczególnych poziomów systemu zabezpieczenia, obejmujący wskazanie:
 
@@ -198,7 +199,7 @@ source: "eli-html"
 5. W przypadkach niezakwalifikowania do systemu zabezpieczenia, kwalifikacji do niewłaściwego poziomu systemu zabezpieczenia lub niewłaściwego wskazania profili systemu zabezpieczenia, zakresów lub rodzajów, o których mowa w ust. 1 pkt 2:
 
 - **1)** świadczeniodawca posiadający w dniu ogłoszenia wykazu, o którym mowa w ust. 1, umowę o udzielanie świadczeń opieki zdrowotnej, dotyczącą udzielania świadczeń z zakresu leczenia szpitalnego, w trybie hospitalizacji określonym w przepisach wydanych na podstawie art. 31d albo
-- **2)** świadczeniodawca, którego dotyczy wystąpienie dyrektora oddziału wojewódzkiego Funduszu o wydanie opinii, o której mowa w ust. 3 może wnieść do dyrektora oddziału wojewódzkiego Funduszu, w terminie 7 dni od dnia ogłoszenia wykazu, o którym mowa w ust. 1, środek odwoławczy w postaci protestu.
+- **2)** świadczeniodawca, którego dotyczy wystąpienie dyrektora oddziału wojewódzkiego Funduszu o wydanie opinii, o której mowa w ust. 3 – może wnieść do dyrektora oddziału wojewódzkiego Funduszu, w terminie 7 dni od dnia ogłoszenia wykazu, o którym mowa w ust. 1, środek odwoławczy w postaci protestu.
 
 6. Protest zawiera:
 
@@ -228,7 +229,7 @@ source: "eli-html"
 10. Protest i odwołanie nie podlegają rozpatrzeniu, jeżeli:
 
 - **1)** zostały wniesione po terminie,
-- **2)** nie spełniają wymagań określonych w ust. 5, 6 i 8 o czym dyrektor oddziału wojewódzkiego Funduszu albo Prezes Funduszu informuje na piśmie świadczeniodawcę wnoszącego protest lub odwołanie, w terminie 7 dni od dnia wniesienia protestu albo odwołania.
+- **2)** nie spełniają wymagań określonych w ust. 5, 6 i 8 – o czym dyrektor oddziału wojewódzkiego Funduszu albo Prezes Funduszu informuje na piśmie świadczeniodawcę wnoszącego protest lub odwołanie, w terminie 7 dni od dnia wniesienia protestu albo odwołania.
 
 11. W przypadku, o którym mowa w ust. 10, dyrektor oddziału wojewódzkiego Funduszu albo Prezes Funduszu wydaje postanowienie w przedmiocie nierozpatrzenia protestu albo odwołania, na które służy zażalenie, do którego stosuje się przepisy Kodeksu postępowania administracyjnego.
 
@@ -240,7 +241,7 @@ source: "eli-html"
 
 - **1)** niezawarcia umowy, o której mowa w art. 159a, w terminie do dnia 30 czerwca albo
 - **2)** stwierdzenia niespełniania przez świadczeniodawcę kryteriów kwalifikacji do systemu zabezpieczenia lub do danego poziomu systemu zabezpieczenia po ogłoszeniu wykazu, o którym mowa w ust. 1, lub
-- **3)** niewłaściwego wskazania profili systemu zabezpieczenia, zakresów lub rodzajów, o których mowa w ust. 1 pkt 2 dyrektor oddziału wojewódzkiego Funduszu dokonuje odpowiedniej zmiany w tym wykazie, polegającej na usunięciu świadczeniodawcy z wykazu, kwalifikacji do innego poziomu zabezpieczenia lub wskazania profili systemu zabezpieczenia, zakresów lub rodzajów, o których mowa w ust. 1 pkt 2, w ramach których może on udzielać świadczeń opieki zdrowotnej w systemie zabezpieczenia.
+- **3)** niewłaściwego wskazania profili systemu zabezpieczenia, zakresów lub rodzajów, o których mowa w ust. 1 pkt 2 – dyrektor oddziału wojewódzkiego Funduszu dokonuje odpowiedniej zmiany w tym wykazie, polegającej na usunięciu świadczeniodawcy z wykazu, kwalifikacji do innego poziomu zabezpieczenia lub wskazania profili systemu zabezpieczenia, zakresów lub rodzajów, o których mowa w ust. 1 pkt 2, w ramach których może on udzielać świadczeń opieki zdrowotnej w systemie zabezpieczenia.
 
 15. Do postępowania, o którym mowa w ust. 14, przepisy ust. 5–13 stosuje się odpowiednio.
 
@@ -281,7 +282,7 @@ source: "eli-html"
 6. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** sposób ustalania ryczałtu systemu zabezpieczenia,
-- **2)** wykaz świadczeń opieki zdrowotnej wymagających ustalenia odrębnego sposobu finansowania, o których mowa w art. 136 ust. 2 pkt 2 mając na względzie konieczność zabezpieczenia odpowiedniego dostępu do świadczeń opieki zdrowotnej oraz zapewnienia stabilności finansowania systemu zabezpieczenia. ” ;
+- **2)** wykaz świadczeń opieki zdrowotnej wymagających ustalenia odrębnego sposobu finansowania, o których mowa w art. 136 ust. 2 pkt 2 – mając na względzie konieczność zabezpieczenia odpowiedniego dostępu do świadczeń opieki zdrowotnej oraz zapewnienia stabilności finansowania systemu zabezpieczenia. ” ;
 - **7)** w art. 139 w ust. 1 we wprowadzeniu do wyliczenia po wyrazach „art. 159” dodaje się wyrazy „i art. 159a”;
 - **8)** po art. 159 dodaje się art. 159a w brzmieniu: „
 
@@ -357,5 +358,5 @@ source: "eli-html"
 
 2. Wniosek, o którym mowa w ust. 1, dyrektor właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia kieruje do wszystkich świadczeniodawców realizujących umowy o udzielanie świadczeń opieki zdrowotnej w zakresie, o którym mowa w ust. 1, które nie zostały wypowiedziane na dzień nadania wniosku.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759 i 777.
 

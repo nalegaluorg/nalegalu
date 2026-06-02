@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 16 sierpnia 2018 r. w sprawie trybu przeprowadzania badań lekarskich osób ujętych przez funkcjonariuszy Służby Ochrony Państwa
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 16 sierpnia 2018 r. w sprawie trybu przeprowadzania badań lekarskich osób ujętych przez funkcjonariuszy Służby Ochrony Państwa Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-08-16 |
 | Data wydania | 2018-08-29 |
-| Wejście w życie | 2018-09-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001664) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1664/text.pdf) |
 
@@ -48,6 +47,5 @@ W przypadku gdy osoba ujęta uniemożliwia swym zachowaniem przeprowadzenie bada
 2.
 Zaświadczenie lekarskie o stanie zdrowia osoby ujętej otrzymują osoba ujęta, funkcjonariusz, który dołącza je do meldunku skierowanego do Komendanta Służby Ochrony Państwa, oraz funkcjonariusz Policji lub jednostka Policji, do której doprowadzono osobę ujętą.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 26 sierpnia 2002 r. w sprawie trybu przeprowadzania badań lekarskich osób zatrzymanych przez funkcjonariuszy Biura Ochrony Rządu (Dz. U. poz. 1259), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544 i 1562).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 26 sierpnia 2002 r. w sprawie trybu przeprowadzania badań lekarskich osób zatrzymanych przez funkcjonariuszy Biura Ochrony Rządu (Dz. U. poz. 1259), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544 i 1562). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 26 sierpnia 2002 r. w sprawie trybu przeprowadzania badań lekarskich osób zatrzymanych przez funkcjonariuszy Biura Ochrony Rządu (Dz. U. poz. 1259), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544 i 1562).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 20 grudnia 2022 r. w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów finansowanych z Europejskiego Funduszu Społecznego Plus (EFS+) na lata 2021–2027
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 20 grudnia 2022 r. w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów finansowanych z Europejskiego Funduszu Społecznego Plus (EFS+) na lata 2021–2027 Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
 
 | Pole | Wartość |
 |---|---|
@@ -22,20 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-20 |
 | Data wydania | 2022-12-28 |
-| Wejście w życie | 2023-01-12 |
 | Ostatnia zmiana | 2025-01-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002782) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2782/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Udzielanie pomocy de minimis Rozdział 3 – Udzielanie pomocy publicznej na szkolenia Rozdział 4 – Udzielanie pomocy publicznej na usługi doradcze na rzecz mikro-, małych i średnich przedsiębiorstw Rozdział 5 – Udzielanie pomocy publicznej na subsydiowanie zatrudnienia Rozdział 6 – Przepisy końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 30 ust. 4 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom pomocy de minimis oraz pomocy publicznej w ramach programów finansowanych z Europejskiego Funduszu Społecznego Plus (EFS+) na lata 2021–2027 oraz podmioty udzielające tej pomocy, do których mają zastosowanie odpowiednio przepisy:
 1)
-rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1407/2013”, oraz
+rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3.), zwanego dalej „rozporządzeniem nr 1407/2013”, oraz
 2)
-rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”.
+rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39.), zwanego dalej „rozporządzeniem nr 651/2014”.
 2.
 Przedmiotowe rozporządzenie nie ma zastosowania do typów operacji wdrażanych przez Polską Agencję Rozwoju Przedsiębiorczości w ramach programu Fundusze Europejskie dla Rozwoju Społecznego 2021–2027.
 § 2.
@@ -71,7 +71,7 @@ do dnia poprzedzającego przystąpienie do projektu nie ukończyła 24. roku ży
 c)
 do dnia poprzedzającego przystąpienie do projektu ukończyła 50. rok życia,
 d)
-jest osobą dorosłą samotnie wychowującą co najmniej jedno dziecko lub posiadającą na utrzymaniu osobę zależną w rozumieniu art. 2 ust. 1 pkt 21 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2022 r. poz. 690, z późn. zm.),
+jest osobą dorosłą samotnie wychowującą co najmniej jedno dziecko lub posiadającą na utrzymaniu osobę zależną w rozumieniu art. 2 ust. 1 pkt 21 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2022 r. poz. 690, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 830, 1079, 1383, 1561, 1812, 2140, 2666 i 2754.),
 e)
 nie posiada wykształcenia średniego, średniego branżowego, zasadniczego zawodowego lub zasadniczego branżowego zgodnie z Międzynarodową Standardową Klasyfikacją Edukacji (ISCED) na poziomie ISCED 3 włącznie lub w okresie do dwóch lat od momentu zakończenia edukacji w pełnym wymiarze nie podjęła pierwszego stałego zatrudnienia za wynagrodzeniem,
 f)
@@ -139,6 +139,7 @@ okresu zatrudnienia;
 intensywności pomocy;
 3)
 zapewnienia wzrostu netto liczby pracowników zatrudnionych u danego przedsiębiorcy w porównaniu ze średnią z ostatnich 12 miesięcy.
+Udzielanie pomocy de minimis
 § 9.
 Wartość dopuszczalnej pomocy de minimis udzielonej jednemu przedsiębiorcy określa się na podstawie art. 3 ust. 2–9 rozporządzenia nr 1407/2013, z zastrzeżeniem § 5 pkt 2.
 § 10.
@@ -173,6 +174,7 @@ zakup środków trwałych w ramach projektu;
 bezzwrotną pomoc finansową na rozpoczęcie działalności gospodarczej.
 2.
 Pomoc, o której mowa w ust. 1, może być udzielona na pokrycie do 100% kosztów kwalifikowalnych.
+Udzielanie pomocy publicznej na szkolenia
 § 11.
 Pomoc publiczna na szkolenia jest udzielana z zachowaniem warunków określonych w art. 31 rozporządzenia nr 651/2014.
 § 12.
@@ -193,6 +195,7 @@ o 10 punktów procentowych – w przypadku szkoleń skierowanych do pracowników
 o 10 punktów procentowych – w przypadku szkoleń skierowanych do personelu średniego przedsiębiorstwa;
 3)
 o 20 punktów procentowych – w przypadku szkoleń skierowanych do personelu mikroprzedsiębiorstwa lub małego przedsiębiorstwa.
+Udzielanie pomocy publicznej na usługi doradcze na rzecz mikro-, małych i średnich przedsiębiorstw
 § 15.
 Pomoc publiczna na usługi doradcze jest udzielana na rzecz mikro-, małych i średnich przedsiębiorstw z zachowaniem warunków określonych w art. 18 rozporządzenia nr 651/2014.
 § 16.
@@ -200,6 +203,7 @@ Pomoc publiczna na usługi doradcze jest udzielana na rzecz mikro-, małych i ś
 Kosztami kwalifikowalnymi są koszty usług doradczych świadczonych przez doradców zewnętrznych, przy czym usługi te nie mogą mieć charakteru ciągłego ani okresowego, jak również nie mogą być związane ze zwykłymi kosztami operacyjnymi przedsiębiorcy, takimi jak rutynowe usługi doradztwa podatkowego, regularne usługi prawnicze lub reklama.
 2.
 Intensywność pomocy publicznej na usługi doradcze wynosi maksymalnie 50% wartości kosztów kwalifikowalnych.
+Udzielanie pomocy publicznej na subsydiowanie zatrudnienia
 § 17.
 Pomoc publiczna na subsydiowanie zatrudnienia pracowników znajdujących się w szczególnie niekorzystnej sytuacji oraz pracowników znajdujących się w bardzo niekorzystnej sytuacji jest udzielana z zachowaniem warunków określonych w art. 32 rozporządzenia nr 651/2014.
 § 18.
@@ -224,24 +228,36 @@ Intensywność pomocy publicznej na subsydiowanie zatrudnienia pracowników znaj
 Intensywność pomocy publicznej na subsydiowanie zatrudnienia pracowników niepełnosprawnych wynosi maksymalnie 75% wartości kosztów kwalifikowalnych.
 § 22.
 Pomoc publiczna na subsydiowanie zatrudnienia jest udzielana, jeżeli utworzone miejsce pracy stanowi wzrost netto liczby pracowników zatrudnionych u danego przedsiębiorcy w porównaniu ze średnią z ostatnich 12 miesięcy, a w przypadku gdy utworzone miejsce pracy nie stanowi wzrostu netto liczby pracowników zatrudnionych u danego przedsiębiorcy, utworzone miejsce pracy zostało zwolnione w następstwie dobrowolnego rozwiązania stosunku pracy, przejścia na rentę z tytułu niezdolności do pracy, przejścia na emeryturę z tytułu osiągnięcia wieku emerytalnego, dobrowolnego zmniejszenia wymiaru czasu pracy lub rozwiązania stosunku pracy z powodu naruszenia przez pracownika obowiązków pracowniczych.
+Przepisy końcowe
 § 23.
 1.
 Pomoc de minimis jest udzielana do końca okresu, o którym mowa w art. 7 ust. 4 w związku z art. 8 zdanie drugie rozporządzenia nr 1407/2013.
 2.
 Pomoc publiczna na szkolenia, pomoc publiczna na usługi doradcze oraz pomoc publiczna na subsydiowanie zatrudnienia jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze w związku z art. 59 rozporządzenia nr 651/2014.
 § 24.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 830, 1079, 1383, 1561, 1812, 2140, 2666 i 2754.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 830, 1079, 1383, 1561, 1812, 2140, 2666 i 2754.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Udzielanie pomocy de minimis
+#### Rozdział 2 – Udzielanie pomocy de minimis
 
-#### Rozdział 3 Udzielanie pomocy publicznej na szkolenia
+#### Rozdział 3 – Udzielanie pomocy publicznej na szkolenia
 
-#### Rozdział 4 Udzielanie pomocy publicznej na usługi doradcze na rzecz mikro-, małych i średnich przedsiębiorstw
+#### Rozdział 4 – Udzielanie pomocy publicznej na usługi doradcze na rzecz mikro-, małych i średnich przedsiębiorstw
 
-#### Rozdział 5 Udzielanie pomocy publicznej na subsydiowanie zatrudnienia
+#### Rozdział 5 – Udzielanie pomocy publicznej na subsydiowanie zatrudnienia
 
-#### Rozdział 6 Przepisy końcowe
+#### Rozdział 6 – Przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

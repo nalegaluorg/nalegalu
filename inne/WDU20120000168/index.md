@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 8 lutego 2012 r. w sprawie funkcjonowania elektronicznej bazy danych o statkach o polskiej przynależności
+# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 8 lutego 2012 r. w sprawie funkcjonowania elektronicznej bazy danych o statkach o polskiej przynależności Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/21/WE z dnia 23 kwietnia 2009 r. w sprawie zgodności z wymaganiami dotyczącymi państwa bandery (Dz. Urz. UE L 131 z 28.05.2009, str. 132).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-02-08 |
 | Data wydania | 2012-02-14 |
-| Wejście w życie | 2012-02-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000168) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/168/text.pdf) |
 
@@ -51,8 +50,7 @@ uznanych organizacji, upoważnionych do wykonywania zadań administracji morskie
 8)
 polskiego związku sportowego prowadzącego polski rejestr jachtów, o którym mowa w art. 23 § 3 ustawy z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2009 r. Nr 217, poz. 1689, z 2010 r. Nr 127, poz. 857 oraz z 2011 r. Nr 80, poz. 432 i Nr 228, poz. 1368),
 9)
-innych podmiotów, którym administrator zapewni dostęp do bazy danych ze względu na zakres ich zadań związanych z potrzebami administracji morskiej
-zwanym dalej „użytkownikami bazy danych”.
+innych podmiotów, którym administrator zapewni dostęp do bazy danych ze względu na zakres ich zadań związanych z potrzebami administracji morskiej – zwanym dalej „użytkownikami bazy danych”.
 § 4.
 1.
 Baza danych składa się z rekordów statków, zawierających informacje, o których mowa w art. 7 ust. 2 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim.
@@ -105,5 +103,5 @@ inspekcji statków przeprowadzanych przez Straż Graniczną.
 § 11.
 Rekordy statków wpisanych w dniu wejścia w życie rozporządzenia i w okresie 3 miesięcy od tego dnia do rejestrów prowadzonych przez podmioty wymienione w § 3 pkt 2, 3 i 8 zakłada się w terminie 4 miesięcy od dnia wejścia w życie rozporządzenia.
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/21/WE z dnia 23 kwietnia 2009 r. w sprawie zgodności z wymaganiami dotyczącymi państwa bandery (Dz. Urz. UE L 131 z 28.05.2009, str. 132).
 

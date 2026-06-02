@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-08-20 |
 | Data wydania | 2020-08-25 |
-| Wejście w życie | 2020-08-26 |
 | Ostatnia zmiana | 2025-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001441) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1441/text.pdf) |
 
@@ -31,15 +30,13 @@ Na podstawie art. 13 ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy pra
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 21 grudnia 2018 r. w sprawie nieodpłatnej pomocy prawnej oraz nieodpłatnego poradnictwa obywatelskiego (Dz. U. poz. 2492) wprowadza się następujące zmiany:
 1)
-po § 3 dodaje się § 3a w brzmieniu:
-„
+po § 3 dodaje się § 3a w brzmieniu: „
 § 3a.
 Pomoc udzielana osobie fizycznej prowadzącej jednoosobową działalność gospodarczą, która w ciągu ostatniego roku nie zatrudniała innych osób, stanowi pomoc de minimis udzielaną zgodnie z przepisami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1). Podmiot ubiegający się o pomoc de minimis przedstawia przed jej udzieleniem:
 1)
 kopie wszystkich zaświadczeń o pomocy de minimis lub pomocy de minimis w rolnictwie i w rybołówstwie, jakie otrzymał w roku, w którym ubiega się o pomoc, oraz w ciągu dwóch poprzedzających go lat, albo oświadczenie o wielkości pomocy de minimis otrzymanej w tym okresie, albo oświadczenie o nieotrzymaniu takiej pomocy w tym okresie, oraz
 2)
-informacje określone w przepisach wydanych na podstawie art. 37 ust. 2a ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2020 r. poz. 708).
-” ;
+informacje określone w przepisach wydanych na podstawie art. 37 ust. 2a ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2020 r. poz. 708). ” ;
 2)
 w załączniku nr 2 do rozporządzenia w części A w poz. 1 wyrazy „sprawa z zakresu rozpoczęcia działalności gospodarczej” zastępuje się wyrazami „sprawa z zakresu działalności gospodarczej”;
 3)

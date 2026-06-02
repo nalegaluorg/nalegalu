@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-07 |
 | Data wydania | 2017-05-09 |
-| Wejście w życie | 2017-05-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000898) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/898/text.pdf) |
 
@@ -35,11 +34,16 @@ source: "eli-html"
 - **2)** w art. 400f: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Rady nadzorcze wojewódzkich funduszy liczą po 5 członków. ” , w ust. 2: – pkt 1–3 otrzymują brzmienie: „ 1) członkowie rad wyznaczeni przez wojewodę spośród przedstawicieli nauki lub organizacji pozarządowych; 2) członkowie rad wyznaczeni przez Zarząd Narodowego Funduszu; 3) członkowie rad wyznaczeni przez wojewodę; ” , – uchyla się pkt 4–6, – pkt 7 otrzymuje brzmienie: „ 7) przewodniczący rad wyznaczeni przez ministra właściwego do spraw środowiska spośród pracowników Biura Narodowego Funduszu, urzędu obsługującego ministra właściwego do spraw środowiska, urzędów obsługujących centralne organy administracji rządowej podległe albo nadzorowane przez ministra właściwego do spraw środowiska lub jednostek podległych albo nadzorowanych przez ministra właściwego do spraw środowiska; ” , – dodaje się pkt 8 w brzmieniu: „ 8) wiceprzewodniczący rad wyznaczeni przez sejmik województwa. ” , uchyla się ust. 3–6, ust. 7 i 8 otrzymują brzmienie: „
+1. Rady nadzorcze wojewódzkich funduszy liczą po 5 członków. ” , w ust. 2: pkt 1–3 otrzymują brzmienie: „
 
 - **b)**
-- **c)**
-- **d)**
+- **1)** członkowie rad wyznaczeni przez wojewodę spośród przedstawicieli nauki lub organizacji pozarządowych;
+- **2)** członkowie rad wyznaczeni przez Zarząd Narodowego Funduszu;
+- **3)** członkowie rad wyznaczeni przez wojewodę; ” , – uchyla się pkt 4–6, pkt 7 otrzymuje brzmienie: „
+- **7)** przewodniczący rad wyznaczeni przez ministra właściwego do spraw środowiska spośród pracowników Biura Narodowego Funduszu, urzędu obsługującego ministra właściwego do spraw środowiska, urzędów obsługujących centralne organy administracji rządowej podległe albo nadzorowane przez ministra właściwego do spraw środowiska lub jednostek podległych albo nadzorowanych przez ministra właściwego do spraw środowiska; ” , dodaje się pkt 8 w brzmieniu: „
+- **8)** wiceprzewodniczący rad wyznaczeni przez sejmik województwa. ” , uchyla się ust. 3–6, ust. 7 i 8 otrzymują brzmienie: „
+    - **c)**
+    - **d)**
 
 7. Członków rad nadzorczych wojewódzkich funduszy powołuje i odwołuje minister właściwy do spraw środowiska.
 

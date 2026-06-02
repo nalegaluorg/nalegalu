@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 16 grudnia 2022 r. w sprawie udzielania pomocy de minimis lub pomocy publicznej na przedsięwzięcia realizowane w ramach inwestycji B2.2.2 „Instalacje OZE realizowane przez społeczności energetyczne” objętej wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 16 grudnia 2022 r. w sprawie udzielania pomocy de minimis lub pomocy publicznej na przedsięwzięcia realizowane w ramach inwestycji B2.2.2 „Instalacje OZE realizowane przez społeczności energetyczne” objętej wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-16 |
 | Data wydania | 2022-12-30 |
-| Wejście w życie | 2023-01-14 |
 | Ostatnia zmiana | 2024-11-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002863) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2863/text.pdf) |
 
@@ -33,7 +32,7 @@ Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania 
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
-intensywności pomocy – oznacza to intensywność pomocy w rozumieniu art. 2 pkt 26 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”;
+intensywności pomocy – oznacza to intensywność pomocy w rozumieniu art. 2 pkt 26 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39., zwanego dalej „rozporządzeniem nr 651/2014”;
 2)
 klastrach innowacyjnych – oznacza to klastry innowacyjne w rozumieniu art. 2 pkt 92 rozporządzenia nr 651/2014;
 3)
@@ -45,7 +44,7 @@ infrastrukturze energetycznej – oznacza to infrastrukturę energetyczną w roz
 6)
 przedsiębiorcy – oznacza to przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia nr 651/2014;
 7)
-jednym przedsiębiorcy – oznacza to jedno przedsiębiorstwo w rozumieniu art. 2 ust. 2 rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1407/2013”;
+jednym przedsiębiorcy – oznacza to jedno przedsiębiorstwo w rozumieniu art. 2 ust. 2 rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3., zwanego dalej „rozporządzeniem nr 1407/2013”;
 8)
 mikroprzedsiębiorcy, małym lub średnim przedsiębiorcy – oznacza to odpowiednio mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo, o którym mowa w załączniku I do rozporządzenia nr 651/2014.
 § 3.
@@ -100,8 +99,7 @@ Pomoc publiczna, o której mowa w § 3 pkt 1, jest udzielana jako pomoc publiczn
 1)
 operacyjna, o której mowa w art. 27 ust. 7, lub
 2)
-inwestycyjna, o której mowa w art. 27 ust. 5 zdanie pierwsze
-rozporządzenia nr 651/2014.
+inwestycyjna, o której mowa w art. 27 ust. 5 zdanie pierwsze – rozporządzenia nr 651/2014.
 3.
 Pomoc publiczna, o której mowa w § 3 pkt 2 lit. a, jest udzielana, jeżeli są spełnione warunki, o których mowa w art. 41 ust. 2–5 rozporządzenia nr 651/2014.
 4.
@@ -188,14 +186,12 @@ koszty kwalifikowalne,
 3)
 wartość dopuszczalnej pomocy,
 4)
-kryteria wyboru przedsięwzięć określone przez instytucję odpowiedzialną za realizację inwestycji zgodnie z art. 14lzb ust. 1 i 2 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju
-pomoc publiczna lub pomoc de minimis może zostać udzielona przedsiębiorcy na podstawie umowy o objęcie przedsięwzięcia wsparciem bezzwrotnym z planu rozwojowego, o której mowa w art. 14lzh ust. 2 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
+kryteria wyboru przedsięwzięć określone przez instytucję odpowiedzialną za realizację inwestycji zgodnie z art. 14lzb ust. 1 i 2 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju – pomoc publiczna lub pomoc de minimis może zostać udzielona przedsiębiorcy na podstawie umowy o objęcie przedsięwzięcia wsparciem bezzwrotnym z planu rozwojowego, o której mowa w art. 14lzh ust. 2 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
 § 19.
 1.
 Pomoc de minimis jest udzielana do końca okresu, o którym mowa w art. 7 ust. 4 w związku z art. 8 rozporządzenia nr 1407/2013.
 2.
 Pomoc publiczna jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze w związku z art. 59 rozporządzenia nr 651/2014.
 § 20.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3.
 

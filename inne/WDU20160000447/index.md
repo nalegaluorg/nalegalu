@@ -22,20 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-03-29 |
 | Data wydania | 2016-04-04 |
-| Wejście w życie | 2016-04-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000447) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/447/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Tabela stawek uposażenia zasadniczego funkcjonariuszy Centralnego Biura Antykorupcyjnego
 Treść rozporządzenia
-Na podstawie art. 90 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2014 r. poz. 1411, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 90 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2014 r. poz. 1411, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822, z 2015 r. poz. 1066, 1217, 1224, 1268 i 2023 oraz z 2016 r. poz. 147 i 437.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Prezesa Rady Ministrów z dnia 6 października 2010 r. w sprawie stawek uposażenia zasadniczego na poszczególnych stanowiskach służbowych funkcjonariuszy Centralnego Biura Antykorupcyjnego oraz wzrostu uposażenia zasadniczego z tytułu wysługi lat (Dz. U. z 2014 r. poz. 1479 oraz z 2015 r. poz. 1423) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.
 Stawki uposażenia zasadniczego w wysokości określonej w załączniku do niniejszego rozporządzenia stosuje się od dnia 1 stycznia 2016 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822, z 2015 r. poz. 1066, 1217, 1224, 1268 i 2023 oraz z 2016 r. poz. 147 i 437.
 Załącznik – Tabela stawek uposażenia zasadniczego funkcjonariuszy Centralnego Biura Antykorupcyjnego
 Lp. Stanowisko służbowe Stawka uposażenia zasadniczego w złotych 1 Szef 10 500–13 500 2 Zastępca Szefa 9200–12000 3 Dyrektor departamentu 8200–9200 4 Dyrektor biura 7800–9200 5 Dyrektor delegatury 7800–9200 6 Zastępca dyrektora departamentu 7600–8700 7 Naczelnik wydziału 7200–8300 8 Zastępca naczelnika wydziału 6200–7800 9 Kierownik sekcji 5300–7800 10 Radca prawny 3600–7800 11 Audytor 3600–7800 12 Ekspert 3600–7800 13 Agent specjalny 6500–7000 14 Starszy agent 5400–6200 15 Agent 4800–5200 16 Młodszy agent 4400–4600 17 Starszy inspektor 4000–4200 18 Inspektor 3600–3800 19 Młodszy inspektor 3200–3400
 

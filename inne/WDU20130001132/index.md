@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-09-04 |
 | Data wydania | 2013-09-24 |
-| Wejście w życie | 2013-10-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001132) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1132/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 140e ust. 3 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 140e ust. 3 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1544 oraz z 2013 r. poz. 134, 628, 829 i 912.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa warunki i sposób zgłaszania do ewidencji i wykreślania z niej pokładowych i osobistych nadajników sygnału niebezpieczeństwa oraz warunki i sposób prowadzenia tej ewidencji.
 § 2.
@@ -43,7 +42,7 @@ PLB – osobisty nadajnik sygnału niebezpieczeństwa;
 5)
 kod identyfikacyjny kraju – kod identyfikacyjny przyznany Rzeczypospolitej Polskiej przez Międzynarodowy Związek Telekomunikacyjny (ITU);
 6)
-numer pozwolenia radiowego – numer pozwolenia radiowego, o którym mowa w art. 143 ust. 1 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.);
+numer pozwolenia radiowego – numer pozwolenia radiowego, o którym mowa w art. 143 ust. 1 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716, z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 229, poz. 1499 i Nr 238, poz. 1578, z 2011 r. Nr 102, poz. 586 i 587, Nr 134, poz. 779, Nr 153, poz. 903, Nr 171, poz. 1016, Nr 233, poz. 1381 i Nr 234, poz. 1390 oraz z 2012 r. poz. 908, 1203, 1256, 1445 i 1529.);
 § 3.
 1.
 Do ewidencji zgłasza się ELT i PLB, jeżeli posiadają kod identyfikacyjny kraju.
@@ -94,5 +93,5 @@ Prezes Urzędu Lotnictwa Cywilnego niezwłocznie informuje właściciela lub uż
 4.
 Prezes Urzędu Lotnictwa Cywilnego, zgodnie z planem operacyjnym poszukiwania i ratownictwa lotniczego, zapewnia dostęp do danych zawartych w ewidencji Morskiemu Ratowniczemu Centrum Koordynacyjnemu, o którym mowa w art. 116 ust. 3 pkt 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z 2012 r. poz. 1068 oraz z 2013 r. poz. 852), i cywilno-wojskowemu ośrodkowi koordynacji poszukiwania i ratownictwa lotniczego.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1544 oraz z 2013 r. poz. 134, 628, 829 i 912. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716, z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 229, poz. 1499 i Nr 238, poz. 1578, z 2011 r. Nr 102, poz. 586 i 587, Nr 134, poz. 779, Nr 153, poz. 903, Nr 171, poz. 1016, Nr 233, poz. 1381 i Nr 234, poz. 1390 oraz z 2012 r. poz. 908, 1203, 1256, 1445 i 1529.
 

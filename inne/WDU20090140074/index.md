@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-12-19 |
 | Data wydania | 2009-01-29 |
-| Wejście w życie | 2009-01-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090140074) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/74/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego (Dz. U. Nr 34, poz. 149, z późn. zm.) w art. 8 ust. 2c otrzymuje brzmienie: „ 2c. Żądanie odszkodowania i zadośćuczynienia za szkodę i krzywdę wynikłe z wykonania decyzji, o której mowa w ust. 1, należy zgłosić w sądzie okręgowym, w którego okręgu zamieszkuje osoba składająca żądanie. ” .
+**Art. 1.** W ustawie z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego (Dz. U. Nr 34, poz. 149, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1993 r. Nr 36, poz. 159, z 1995 r. Nr 28, poz. 143, z 1998 r. Nr 97, poz. 604, z 2002 r. Nr 240, poz. 2055, z 2004 r. Nr 273, poz. 2703 oraz z 2007 r. Nr 191, poz. 1372.) w art. 8 ust. 2c otrzymuje brzmienie: „ 2c. Żądanie odszkodowania i zadośćuczynienia za szkodę i krzywdę wynikłe z wykonania decyzji, o której mowa w ust. 1, należy zgłosić w sądzie okręgowym, w którego okręgu zamieszkuje osoba składająca żądanie. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1993 r. Nr 36, poz. 159, z 1995 r. Nr 28, poz. 143, z 1998 r. Nr 97, poz. 604, z 2002 r. Nr 240, poz. 2055, z 2004 r. Nr 273, poz. 2703 oraz z 2007 r. Nr 191, poz. 1372.
 

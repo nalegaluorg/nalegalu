@@ -42,24 +42,18 @@ rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 12 paździe
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 31 października 2017 r. zmieniającego rozporządzenie w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. poz. 2106), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 31 października 2017 r. zmieniającego rozporządzenie w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. poz. 2106), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 listopada 2019 r. zmieniającego rozporządzenie w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. poz. 2249), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 listopada 2019 r. zmieniającego rozporządzenie w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. poz. 2249), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 3)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 12 października 2021 r. zmieniającego rozporządzenie w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. poz. 1955), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 12 października 2021 r. zmieniającego rozporządzenie w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. poz. 1955), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Tekst jednolity rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 czerwca 2011 r. w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 czerwca 2011 r. w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniachMinister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 Na podstawie art. 11 ust. 5 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061 i 1115) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -76,7 +70,7 @@ regulamin pobytu w pomieszczeniach, w tym szczegółowe uprawnienia i obowiązki
 Pomieszczenie powinno znajdować się na kondygnacji parterowej lub wyższej budynku.
 2.
 Pomieszczenie może znajdować się na kondygnacji znajdującej się poniżej kondygnacji parterowej – w przypadku łącznego spełnienia następujących warunków:
-1)
+1W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 12 października 2021 r. zmieniającego rozporządzenie w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. poz. 1955), które weszło w życie z dniem 12 listopada 2021 r.)
 uzyskania pozwolenia Państwowej Inspekcji Sanitarnej;
 2)
 zapewnienia oświetlenia naturalnego;
@@ -190,7 +184,7 @@ Instalację dostarczającą wodę do pokojów sanitarnych, o których mowa w ust
 3.
 Drzwi w umywalniach, natryskach i ubikacjach wyposaża się w szybę z nietłukącego się szkła lub w zwykłą szybę zabezpieczoną obustronnie siatką stalową lub powłoką uniemożliwiającą jej rozbicie.
 § 13.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 listopada 2019 r. zmieniającego rozporządzenie w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. poz. 2249), które weszło w życie z dniem 4 grudnia 2019 r..
 Okresowej kontroli pomieszczeń dokonuje komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej, w którego dyspozycji znajduje się pomieszczenie, lub ich zastępcy.
 2.
 Bieżącej kontroli pomieszczeń dokonują funkcjonariusz odpowiadający za funkcjonowanie pomieszczenia lub upoważniony przez niego funkcjonariusz.
@@ -213,8 +207,7 @@ Regulamin pobytu osób zatrzymanych w pomieszczeniach jest określony w załącz
 § 16.
 Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 listopada 2001 r. w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. poz. 1657 oraz z 2007 r. poz. 879 i 1113).
 § 17.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 12 października 2021 r. zmieniającego rozporządzenie w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. poz. 1955), które weszło w życie z dniem 12 listopada 2021 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 listopada 2019 r. zmieniającego rozporządzenie w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. poz. 2249), które weszło w życie z dniem 4 grudnia 2019 r. 4) Rozporządzenie zostało ogłoszone w dniu 11 lipca 2011 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 11 lipca 2011 r.. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 12 października 2021 r. zmieniającego rozporządzenie w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. poz. 1955), które weszło w życie z dniem 12 listopada 2021 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 listopada 2019 r. zmieniającego rozporządzenie w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. poz. 2249), które weszło w życie z dniem 4 grudnia 2019 r. 4) Rozporządzenie zostało ogłoszone w dniu 11 lipca 2011 r.
 
 ## Załącznik nr 1 — – Regulamin pobytu osób zatrzymanych w pomieszczeniach jednostek organizacyjnych straży granicznej przeznaczonych dla tych osób
 
@@ -255,8 +248,7 @@ oświadczyła, że cierpi na schorzenia wymagające stałego lub okresowego lecz
 6)
 wykazuje objawy zaburzeń psychicznych lub z posiadanych na jej temat informacji wynika, że może być ona chora zakaźnie,
 7)
-jest osobą, której stan psychofizyczny stwarza domniemanie, że była poddana przemocy
-przyjmuje się ją do pomieszczenia po wydaniu przez lekarza przeprowadzającego badania, o których mowa w § 3 ust. 1, zaświadczenia o braku przeciwwskazań medycznych do przyjęcia do pomieszczenia.
+jest osobą, której stan psychofizyczny stwarza domniemanie, że była poddana przemocy – przyjmuje się ją do pomieszczenia po wydaniu przez lekarza przeprowadzającego badania, o których mowa w § 3 ust. 1, zaświadczenia o braku przeciwwskazań medycznych do przyjęcia do pomieszczenia.
 § 5.
 1.
 Przy przyjęciu do pomieszczenia osoba zatrzymana jest obowiązana:
@@ -271,13 +263,13 @@ b)
 c)
 przedmioty, które mogą stanowić zagrożenie dla porządku lub bezpieczeństwa w pomieszczeniu, w szczególności przedmioty posiadające ostre krawędzie lub zakończenie (np. brzytwy, żyletki, narzędzia do cięcia metalu), środki służące do obezwładniania, środki odurzające, substancje psychotropowe i alkohol oraz przedmioty takie jak: sznurowadła, pasek, szalik, zapałki i zapalniczka oraz inne przedmioty, których wymiary lub ilość naruszają ustalony porządek bądź bezpieczeństwo pobytu w pomieszczeniu.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3.
 § 6.
 1.
 Przedmioty, o których mowa w § 5 ust. 1 pkt 2, wpisuje się z oznaczeniem cech indywidualnych do kwitu depozytowego, który następnie podpisuje osoba zatrzymana oraz funkcjonariusz przyjmujący te rzeczy do depozytu.
 2.
 Odmowę lub niemożność złożenia przez osobę zatrzymaną podpisu, o którym mowa w ust. 1, odnotowuje się w kwicie depozytowym, wskazując na obecność przy tej czynności innego funkcjonariusza Straży Granicznej, potwierdzoną złożeniem przez niego podpisu.
-§ 6a.
+§ 6aDodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 Osoba zatrzymana przy przyjęciu do pomieszczenia i podczas pobytu w pomieszczeniu podlega sprawdzeniu prewencyjnemu na zasadach określonych w art. 11ad ustawy z dnia 12 października 1990 r. o Straży Granicznej.
 § 7.
 1.
@@ -287,8 +279,7 @@ odmiennej płci,
 2)
 w stosunku do których istnieje domniemanie, że są ofiarami handlu ludźmi w rozumieniu art. 115 § 22 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138),
 3)
-zatrzymane w ramach tego samego postępowania karnego
-umieszcza się oddzielnie.
+zatrzymane w ramach tego samego postępowania karnego – umieszcza się oddzielnie.
 2.
 Osobę zatrzymaną wraz z członkami jej rodziny, lub osoby, które oświadczą, że są osobami sobie najbliższymi, z wyłączeniem osób, o których mowa w ust. 1 pkt 3, umieszcza się w miarę możliwości w jednym pokoju dla osób zatrzymanych.
 § 8.
@@ -356,12 +347,12 @@ niezwłocznego powiadamiania właściwego funkcjonariusza o wystąpieniu choroby
 § 11.
 1.
 Osobie zatrzymanej zwalnianej z pomieszczenia wydaje się przekazane do depozytu przedmioty, o których mowa w § 5 ust. 1 pkt 2, z wyjątkiem przedmiotów, które zostały zatrzymane lub zajęte w drodze zabezpieczenia albo egzekucji administracyjnej.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 3..
 W przypadku zwolnienia osoby zatrzymanej z pomieszczenia w celu jej przekazania przedmioty przyjęte do depozytu, w szczególności dokumenty tożsamości, środki płatnicze, przedmioty wartościowe, środki łączności, urządzenia techniczne służące do rejestracji i odtwarzania informacji oraz przedmioty, o których mowa w § 5 ust. 1 pkt 2 lit. c, z wyjątkiem sznurowadeł, paska i szalika, przejmuje na czas doprowadzenia dowódca doprowadzenia i przekazuje je, za pokwitowaniem, w miejscu docelowym doprowadzenia osoby:
 1)
 właściwemu organowi lub instytucji, w chwili przekazania osoby;
 2)
 osobie, która je przekazała do depozytu, w przypadku gdy zachodzą okoliczności do zwolnienia tej osoby.
 § 12.
-Przekazane do depozytu przedmioty, o których mowa w § 5 ust. 1 pkt 2, z wyłączeniem dokumentów tożsamości oraz przedmiotów, które nie zostały odebrane w celu zatrzymania lub zajęte w drodze zabezpieczenia albo egzekucji administracyjnej, można wydać osobie upoważnionej na podstawie pisemnego wniosku osoby zatrzymanej lub doprowadzanej.
+Przekazane do depozytu przedmioty, o których mowa w § 5 ust. 1 pkt 2, z wyłączeniem dokumentów tożsamości oraz przedmiotów, które nie zostały odebrane w celu zatrzymania lub zajęte w drodze zabezpieczenia albo egzekucji administracyjnej, można wydać osobie upoważnionej na podstawie pisemnego wniosku osoby zatrzymanej lub doprowadzanej. 5) Przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 6) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 7) W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 3.
 

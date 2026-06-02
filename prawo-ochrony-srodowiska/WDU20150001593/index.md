@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-10 |
 | Data wydania | 2015-10-12 |
-| Wejście w życie | 2015-11-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001593) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1593/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122, 151, 277, 478, 774, 881, 933, 1045, 1223 i 1434.) wprowadza się następujące zmiany:
 
 - **1)** art. 96 otrzymuje brzmienie: „
 
@@ -40,7 +39,7 @@ source: "eli-html"
 
 4. Niewydanie opinii w terminie, o którym mowa w ust. 3, oznacza akceptację projektu uchwały.
 
-5. W postępowaniu, którego przedmiotem jest opracowanie uchwały, o której mowa w ust. 1, stosuje się odpowiednio przepisy działu III rozdziału 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.).
+5. W postępowaniu, którego przedmiotem jest opracowanie uchwały, o której mowa w ust. 1, stosuje się odpowiednio przepisy działu III rozdziału 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200, 277, 774, 1045, 1211, 1223, 1265, 1434 i 1590.).
 
 6. Uchwała, o której mowa w ust. 1, określa:
 
@@ -152,5 +151,5 @@ source: "eli-html"
 
 **Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 113 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 113 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122, 151, 277, 478, 774, 881, 933, 1045, 1223 i 1434. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200, 277, 774, 1045, 1211, 1223, 1265, 1434 i 1590.
 

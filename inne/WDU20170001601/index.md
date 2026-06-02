@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 16 sierpnia 2017 r. w sprawie wojewódzkich rad konsultacyjnych do spraw działaczy opozycji antykomunistycznej oraz osób represjonowanych z powodów politycznych
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 16 sierpnia 2017 r. w sprawie wojewódzkich rad konsultacyjnych do spraw działaczy opozycji antykomunistycznej oraz osób represjonowanych z powodów politycznych Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-16 |
 | Data wydania | 2017-08-28 |
-| Wejście w życie | 2017-08-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001601) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1601/text.pdf) |
 
@@ -77,8 +76,7 @@ Zawiadomienie o posiedzeniu rady wraz z porządkiem obrad rady oraz projektami u
 1)
 za pośrednictwem przedsiębiorcy uprawnionego do wykonywania działalności pocztowej w obrocie krajowym lub zagranicznym albo
 2)
-w formie dokumentu elektronicznego z wykorzystaniem środków komunikacji elektronicznej na wskazany przez członka rady adres elektroniczny
-nie później niż 7 dni przed planowanym terminem posiedzenia rady.
+w formie dokumentu elektronicznego z wykorzystaniem środków komunikacji elektronicznej na wskazany przez członka rady adres elektroniczny – nie później niż 7 dni przed planowanym terminem posiedzenia rady.
 2.
 W szczególnie uzasadnionych przypadkach projekty uchwał lub inne materiały mogą być doręczone bezpośrednio przed posiedzeniem rady.
 § 8.
@@ -108,6 +106,5 @@ Do sporządzenia protokołu z podjęcia uchwały z wykorzystaniem środków komu
 § 10.
 Traci moc rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 31 lipca 2015 r. w sprawie wojewódzkich rad konsultacyjnych do spraw działaczy opozycji i osób represjonowanych (Dz. U. poz. 1156).
 § 11.
-Rozporządzenie wchodzi w życie z dniem 31 sierpnia 2017 r.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905).
+Rozporządzenie wchodzi w życie z dniem 31 sierpnia 2017 r. 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905).
 

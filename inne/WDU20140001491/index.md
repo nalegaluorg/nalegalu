@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 października 2014 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 10 października 2014 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady 2011/24/UE z dnia 9 marca 2011 r. w sprawie stosowania praw pacjentów w transgranicznej opiece zdrowotnej (Dz. Urz. UE L 88 z 04.04.2011, str. 45).
 
 | Pole | Wartość |
 |---|---|
@@ -22,24 +22,26 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-10-10 |
 | Data wydania | 2014-10-31 |
-| Wejście w życie | 2014-11-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001491) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1491/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) wprowadza się następujące zmiany:
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 kwietnia 1991 r. o izbach aptekarskich, ustawę z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 2 grudnia 2009 r. o izbach lekarskich, ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej oraz ustawę z dnia 22 lipca 2014 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw.
+Świadczenia opieki zdrowotnej udzielone poza granicami kraju
+
+**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548, z 2013 r. poz. 154, 879, 983, 1290, 1623, 1646 i 1650 oraz z 2014 r. poz. 24, 295, 496, 567, 619, 773, 1004, 1136, 1138, 1146, 1175 i 1188.) wprowadza się następujące zmiany:
 
 - **1)** art. 13a otrzymuje brzmienie: „
 
 **Art. 13a.** Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości oraz ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, sposób i tryb finansowania z budżetu państwa świadczeń opieki zdrowotnej:
 
 - **1)** udzielanych świadczeniobiorcom, o których mowa w art. 2 ust. 1 pkt 2–4,
-- **2)** o których mowa w art. 12 pkt 2–6 i 9–11, art. 12a oraz art. 42j uwzględniając zasady i sposób wydatkowania środków publicznych oraz konieczność zapewnienia skuteczności udzielania świadczeń opieki zdrowotnej. ” ;
+- **2)** o których mowa w art. 12 pkt 2–6 i 9–11, art. 12a oraz art. 42j – uwzględniając zasady i sposób wydatkowania środków publicznych oraz konieczność zapewnienia skuteczności udzielania świadczeń opieki zdrowotnej. ” ;
 - **2)** w art. 20 w ust. 2 pkt 2 otrzymuje brzmienie: „
 - **2)** informuje pisemnie świadczeniobiorcę o zakwalifikowaniu do kategorii medycznej, ustalonej zgodnie z kryteriami medycznymi określonymi w przepisach wydanych na podstawie ust. 11, i terminie udzielenia świadczenia oraz uzasadnia przyczyny wyboru tego terminu; ” ;
 - **3)** uchyla się art. 25–26a;
 - **4)** w dziale II po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Świadczenia opieki zdrowotnej udzielone poza granicami kraju
+#### Rozdział 2a
 
 **Art. 42a.** Fundusz finansuje koszty świadczeń opieki zdrowotnej udzielonych poza granicami kraju:
 
@@ -53,7 +55,7 @@ source: "eli-html"
 
 - **1)** obowiązkowych szczepień ochronnych;
 - **2)** opieki długoterminowej, jeżeli jej celem jest wspieranie osób potrzebujących pomocy w zakresie wykonywania rutynowych czynności życia codziennego;
-- **3)** przydziału i dostępu do narządów przeznaczonych do przeszczepów, obejmujących czynności, o których mowa w art. 3 ust. 3 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. Nr 169, poz. 1411, z późn. zm.).
+- **3)** przydziału i dostępu do narządów przeznaczonych do przeszczepów, obejmujących czynności, o których mowa w art. 3 ust. 3 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. Nr 169, poz. 1411, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 141, poz. 1149, z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 112, poz. 654 oraz z 2014 r. poz. 1000.).
 
 3. Warunkiem otrzymania zwrotu kosztów jest uzyskanie przez świadczeniobiorcę, przed skorzystaniem ze świadczenia, o którym mowa w ust. 1, podlegającego zwrotowi kosztów, odpowiedniego skierowania lub zlecenia na przejazd środkami transportu sanitarnego, zgodnie z art. 32, art. 33 ust. 1, art. 33a ust. 1, art. 41 lub art. 57–59 oraz przepisami wydanymi na podstawie art. 31d.
 
@@ -75,7 +77,7 @@ source: "eli-html"
 10. Świadczeniobiorca jest uprawniony do otrzymania zwrotu kosztów leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, zawartego w danym wskazaniu w wykazie, o którym mowa w art. 37 ust. 1 ustawy o refundacji, w zakresie dotyczącym leków, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, o których mowa w art. 6 ust. 1 pkt 1 ustawy o refundacji, lub mającego w tym wykazie swój odpowiednik refundowany w danym wskazaniu, w rozumieniu art. 2 pkt 13 ustawy o refundacji, który został zakupiony w aptece działającej na terytorium:
 
 - **1)** państwa członkowskiego Unii Europejskiej, na podstawie recepty wystawionej na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej przez osobę uprawnioną do wystawiania recept zgodnie z przepisami tego państwa;
-- **2)** innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, na podstawie recepty transgranicznej, o której mowa w przepisach wydanych na podstawie art. 45 ust. 5 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2011 r. Nr 277, poz. 1634, z późn. zm.), wystawionej przez osobę uprawnioną w rozumieniu ustawy o refundacji, na prośbę pacjenta, który zamierza ją zrealizować w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, zwanej dalej „receptą transgraniczną”.
+- **2)** innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, na podstawie recepty transgranicznej, o której mowa w przepisach wydanych na podstawie art. 45 ust. 5 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2011 r. Nr 277, poz. 1634, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 291, poz. 1707, z 2012 r. poz. 95 i 1456, z 2013 r. poz. 1245, 1287, 1645 i 1650 oraz z 2014 r. poz. 1004 i 1138.), wystawionej przez osobę uprawnioną w rozumieniu ustawy o refundacji, na prośbę pacjenta, który zamierza ją zrealizować w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, zwanej dalej „receptą transgraniczną”.
 
 11. Świadczeniobiorca jest uprawniony do uzyskania zwrotu kosztów zakupu lub naprawy wyrobu medycznego będącego świadczeniem gwarantowanym, który został zakupiony lub podlegał naprawie na terytorium:
 
@@ -203,7 +205,7 @@ source: "eli-html"
 
 - **1)** uchylenia decyzji, o której mowa w ust. 1, i rozpatrzenia sprawy co do istoty,
 - **2)** uchylenia decyzji, o której mowa w ust. 1, w przypadku wznowienia postępowania,
-- **3)** nieważności decyzji, o której mowa w ust. 1 po dokonaniu przez Fundusz zwrotu kosztów świadczeniobiorca, który otrzymał zwrot kosztów, jest obowiązany do zwrotu nienależnie otrzymanej kwoty.
+- **3)** nieważności decyzji, o której mowa w ust. 1 – po dokonaniu przez Fundusz zwrotu kosztów świadczeniobiorca, który otrzymał zwrot kosztów, jest obowiązany do zwrotu nienależnie otrzymanej kwoty.
 
 21. Kwota, o której mowa w ust. 20, podlega ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji. Dyrektor oddziału wojewódzkiego Funduszu wydaje decyzję administracyjną ustalającą obowiązek zwrotu tej kwoty, jej wysokość oraz termin płatności.
 
@@ -390,7 +392,7 @@ source: "eli-html"
 2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** tryb składania i rozpatrywania wniosków, o których mowa w art. 42f ust. 1, art. 42i ust. 1, 2 i 9 oraz art. 42j ust. 1 i 2, oraz wzory tych wniosków,
-- **2)** tryb pokrywania kosztów, o których mowa w art. 42i ust. 2 i 9 oraz art. 42j ust. 1 i 2 mając na względzie zapewnienie sprawności postępowania oraz celowość wydatkowania środków publicznych. ” ;
+- **2)** tryb pokrywania kosztów, o których mowa w art. 42i ust. 2 i 9 oraz art. 42j ust. 1 i 2 – mając na względzie zapewnienie sprawności postępowania oraz celowość wydatkowania środków publicznych. ” ;
 - **5)** w art. 47a w ust. 1 skreśla się wyrazy „(Dz. U. Nr 169, poz. 1411, z 2009 r. Nr 141, poz. 1149 oraz z 2010 r. Nr 182, poz. 1228)”;
 - **6)** art. 51 otrzymuje brzmienie: „
 
@@ -485,13 +487,13 @@ source: "eli-html"
 - **1)** nazwisko i imię (imiona);
 - **2)** informacje na temat prawa wykonywania zawodu oraz kwalifikacji zawodowych. ” .
 
-**Art. 2.** W ustawie z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2014 r. poz. 1429) w art. 39a po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Naczelna Rada Aptekarska udziela organowi innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, na jego wniosek, informacji na temat prawa wykonywania zawodu farmaceuty osoby wskazanej we wniosku, do celów świadczenia transgranicznej opieki zdrowotnej. Informacji udziela się za pośrednictwem Systemu Wymiany Informacji na Rynku Wewnętrznym IMI, o którym mowa w przepisach wydanych na podstawie art. 19 ustawy z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 47, poz. 278, z późn. zm.). ” .
+**Art. 2.** W ustawie z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2014 r. poz. 1429) w art. 39a po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Naczelna Rada Aptekarska udziela organowi innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, na jego wniosek, informacji na temat prawa wykonywania zawodu farmaceuty osoby wskazanej we wniosku, do celów świadczenia transgranicznej opieki zdrowotnej. Informacji udziela się za pośrednictwem Systemu Wymiany Informacji na Rynku Wewnętrznym IMI, o którym mowa w przepisach wydanych na podstawie art. 19 ustawy z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 47, poz. 278, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 227, poz. 1367 i Nr 228, poz. 1368.). ” .
 
 **Art. 3.** W ustawie z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. z 2014 r. poz. 1384) po art. 9 dodaje się art. 9a w brzmieniu: „
 
-**Art. 9a.** Krajowa Rada Diagnostów Laboratoryjnych, udziela organowi innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, na jego wniosek, informacji na temat prawa wykonywania zawodu diagnosty laboratoryjnego osoby wskazanej we wniosku, do celów świadczenia transgranicznej opieki zdrowotnej. Informacji udziela się za pośrednictwem Systemu Wymiany Informacji na Rynku Wewnętrznym IMI, o którym mowa w przepisach wydanych na podstawie art. 19 ustawy z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 47, poz. 278, z późn. zm.). ” .
+**Art. 9a.** Krajowa Rada Diagnostów Laboratoryjnych, udziela organowi innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, na jego wniosek, informacji na temat prawa wykonywania zawodu diagnosty laboratoryjnego osoby wskazanej we wniosku, do celów świadczenia transgranicznej opieki zdrowotnej. Informacji udziela się za pośrednictwem Systemu Wymiany Informacji na Rynku Wewnętrznym IMI, o którym mowa w przepisach wydanych na podstawie art. 19 ustawy z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 47, poz. 278, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 227, poz. 1367 i Nr 228, poz. 1368.). ” .
 
-**Art. 4.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.) po art. 99 dodaje się art. 99a w brzmieniu: „
+**Art. 4.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245 oraz z 2014 r. poz. 822.) po art. 99 dodaje się art. 99a w brzmieniu: „
 
 **Art. 99a.**
 
@@ -499,9 +501,9 @@ source: "eli-html"
 
 2. Dane określone w ust. 1 przekazuje się w terminie 14 dni od dnia otrzymania wniosku. ” .
 
-**Art. 5.** W ustawie z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. Nr 219, poz. 1708, z późn. zm.) w art. 52 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Okręgowe rady lekarskie i Naczelna Rada Lekarska udzielają organowi innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, na jego wniosek, informacji na temat prawa wykonywania zawodu lekarza osoby wskazanej we wniosku, do celów świadczenia transgranicznej opieki zdrowotnej. Informacji udziela się za pośrednictwem Systemu Wymiany Informacji na Rynku Wewnętrznym IMI, o którym mowa w przepisach wydanych na podstawie art. 19 ustawy z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 47, poz. 278, z późn. zm.). ” .
+**Art. 5.** W ustawie z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. Nr 219, poz. 1708, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654 i Nr 113, poz. 657 oraz z 2013 r. poz. 779 i 1247.) w art. 52 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Okręgowe rady lekarskie i Naczelna Rada Lekarska udzielają organowi innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, na jego wniosek, informacji na temat prawa wykonywania zawodu lekarza osoby wskazanej we wniosku, do celów świadczenia transgranicznej opieki zdrowotnej. Informacji udziela się za pośrednictwem Systemu Wymiany Informacji na Rynku Wewnętrznym IMI, o którym mowa w przepisach wydanych na podstawie art. 19 ustawy z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 47, poz. 278, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 227, poz. 1367 i Nr 228, poz. 1368.). ” .
 
-**Art. 6.** W ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2013 r. poz. 217, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2013 r. poz. 217, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 24, 423, 619, 1138 i 1146.) wprowadza się następujące zmiany:
 
 - **1)** w art. 14 dotychczasową treść oznacza się jako ust. 1 oraz dodaje się ust. 2–4 w brzmieniu: „
 
@@ -529,14 +531,14 @@ source: "eli-html"
 
 **Art. 7.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2014 r. poz. 1435) po art. 45 dodaje się art. 45a w brzmieniu: „
 
-**Art. 45a.** Naczelna Rada Pielęgniarek i Położnych udziela organowi innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, na jego wniosek, informacji na temat prawa wykonywania zawodu pielęgniarki lub położnej osoby wskazanej we wniosku, do celów świadczenia transgranicznej opieki zdrowotnej. Informacji udziela się za pośrednictwem Systemu Wymiany Informacji na Rynku Wewnętrznym IMI, o którym mowa w przepisach wydanych na podstawie art. 19 ustawy z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 47, poz. 278, z późn. zm.). ” .
+**Art. 45a.** Naczelna Rada Pielęgniarek i Położnych udziela organowi innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, na jego wniosek, informacji na temat prawa wykonywania zawodu pielęgniarki lub położnej osoby wskazanej we wniosku, do celów świadczenia transgranicznej opieki zdrowotnej. Informacji udziela się za pośrednictwem Systemu Wymiany Informacji na Rynku Wewnętrznym IMI, o którym mowa w przepisach wydanych na podstawie art. 19 ustawy z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 47, poz. 278, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 227, poz. 1367 i Nr 228, poz. 1368.). ” .
 
 **Art. 8.** W ustawie z dnia 22 lipca 2014 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1138) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 pkt 9 otrzymuje brzmienie: „
 - **9)** art. 13a otrzymuje brzmienie: „ Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości oraz ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, sposób i tryb finansowania z budżetu państwa świadczeń opieki zdrowotnej:
 - **1)** udzielanych świadczeniobiorcom, o których mowa w art. 2 ust. 1 pkt 2–4,
-- **2)** o których mowa w art. 12 pkt 2–6 i 9–11, art. 12a, art. 15 ust. 2 pkt 12 oraz art. 42j uwzględniając zasady i sposób wydatkowania środków publicznych oraz konieczność zapewnienia skuteczności udzielania świadczeń opieki zdrowotnej.”; ” ; ” ;
+- **2)** o których mowa w art. 12 pkt 2–6 i 9–11, art. 12a, art. 15 ust. 2 pkt 12 oraz art. 42j – uwzględniając zasady i sposób wydatkowania środków publicznych oraz konieczność zapewnienia skuteczności udzielania świadczeń opieki zdrowotnej.”; ” ; ” ;
 - **2)** art. 25 otrzymuje brzmienie: „
 
 **Art. 25.**
@@ -639,6 +641,6 @@ source: "eli-html"
 
 1. Przepisy wykonawcze wydane na podstawie art. 25 ust. 5 i art. 26a ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 42k ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 31 grudnia 2015 r.
 
-2. Przepisy wykonawcze wydane na podstawie art. 13a ustawy, o której mowa w art. 1, utrzymane w mocy na podstawie art. 16 ust. 2 ustawy z dnia 26 czerwca 2014 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 1004), zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 13a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 1 marca 2015 r. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 8, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+2. Przepisy wykonawcze wydane na podstawie art. 13a ustawy, o której mowa w art. 1, utrzymane w mocy na podstawie art. 16 ust. 2 ustawy z dnia 26 czerwca 2014 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 1004), zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 13a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 1 marca 2015 r. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 8, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady 2011/24/UE z dnia 9 marca 2011 r. w sprawie stosowania praw pacjentów w transgranicznej opiece zdrowotnej (Dz. Urz. UE L 88 z 04.04.2011, str. 45). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 kwietnia 1991 r. o izbach aptekarskich, ustawę z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 2 grudnia 2009 r. o izbach lekarskich, ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej oraz ustawę z dnia 22 lipca 2014 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548, z 2013 r. poz. 154, 879, 983, 1290, 1623, 1646 i 1650 oraz z 2014 r. poz. 24, 295, 496, 567, 619, 773, 1004, 1136, 1138, 1146, 1175 i 1188. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 141, poz. 1149, z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 112, poz. 654 oraz z 2014 r. poz. 1000. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 291, poz. 1707, z 2012 r. poz. 95 i 1456, z 2013 r. poz. 1245, 1287, 1645 i 1650 oraz z 2014 r. poz. 1004 i 1138. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 227, poz. 1367 i Nr 228, poz. 1368. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 227, poz. 1367 i Nr 228, poz. 1368. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245 oraz z 2014 r. poz. 822. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654 i Nr 113, poz. 657 oraz z 2013 r. poz. 779 i 1247. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 227, poz. 1367 i Nr 228, poz. 1368. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 24, 423, 619, 1138 i 1146. 12) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 227, poz. 1367 i Nr 228, poz. 1368.
 
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-24 |
 | Data wydania | 2017-05-09 |
-| Wejście w życie | 2017-05-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000902) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/902/text.pdf) |
 
@@ -78,5 +77,5 @@ W celu określenia minimalnego poziomu dywersyfikacji dostaw gazu ziemnego z zag
 2.
 Ilości gazu ziemnego importowanego, nabytego wewnątrzwspólnotowo lub wydobytego na terytorium Rzeczypospolitej Polskiej w okresie od dnia 1 stycznia 2017 r. do dnia wejścia w życie rozporządzenia mogą być uwzględnione w całkowitej ilości gazu ziemnego, oznaczonej odpowiednio symbolem „Ic”, „Nwc” lub „Wkc”, o której mowa w § 3 ust. 2, w celu określenia minimalnego poziomu dywersyfikacji dostaw gazu ziemnego z zagranicy dla 2017 r.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 24 października 2000 r. w sprawie minimalnego poziomu dywersyfikacji dostaw gazu z zagranicy (Dz. U. poz. 1042), które utraciło moc z dniem 3 marca 2017 r. zgodnie z art. 15 ustawy z dnia 22 lipca 2016 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1165 i 1986). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 24 października 2000 r. w sprawie minimalnego poziomu dywersyfikacji dostaw gazu z zagranicy (Dz. U. poz. 1042), które utraciło moc z dniem 3 marca 2017 r. zgodnie z art. 15 ustawy z dnia 22 lipca 2016 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1165 i 1986).
 

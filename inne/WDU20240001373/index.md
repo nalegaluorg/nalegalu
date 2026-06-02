@@ -26,17 +26,46 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001373) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1373/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 19 marca 2004 r. Prawo celne Rozdział 1 – Przepisy ogólne Rozdział 2 – Wprowadzanie towarów na obszar celny Unii i regulowanie sytuacji towarów Rozdział 3 – Zwolnienia celne Rozdział 4 – Dług celny Rozdział 4a – Wywóz, o którym mowa w art. 140 ust. 2 rozporządzenia delegowanego Rozdział 5 – Organy celne i ich właściwość Rozdział 6 – Postępowanie w sprawach celnych Rozdział 7 – Zasady postępowania z towarami objętymi Wspólną Polityką Rolną Rozdział 8 – Ewidencja i statystyka dotycząca obrotu towarowego z państwami członkowskimi Unii Rozdział 9 – Przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 19 marca 2004 r. Prawo celne
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2023 r. poz. 1590), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 16 czerwca 2023 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1598 oraz z 2024 r. poz. 852) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 września 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 19 i art. 23 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1598 oraz z 2024 r. poz. 852), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 19 i art. 23 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1598 oraz z 2024 r. poz. 852), które stanowią: „
+Przepisy ogólne
+Wprowadzanie towarów na obszar celny Unii i regulowanie sytuacji towarów
+Zwolnienia celne
+Dług celny
+Wywóz, o którym mowa w art. 140 ust. 2 rozporządzenia delegowanego
 1.
 W przypadku, o którym mowa w art. 140 ust. 2 rozporządzenia delegowanego, urząd celny, o którym mowa w art. 221 ust. 2 rozporządzenia wykonawczego, wydaje na wniosek osoby zainteresowanej zaświadczenie potwierdzające wywóz towarów.
 2.
 Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumentów, z których jednoznacznie wynika, że towary będące przedmiotem wywozu zostały dostarczone do miejsca ich przeznaczenia i odebrane przez odbiorcę wskazanego w dokumentach przewozowych i fakturze.
+Organy celne i ich właściwość
+Postępowanie w sprawach celnych
+Zasady postępowania z towarami objętymi Wspólną Polityką Rolną
+Ewidencja i statystyka dotycząca obrotu towarowego z państwami członkowskimi Unii
+Przepis końcowy
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Wprowadzanie towarów na obszar celny Unii i regulowanie sytuacji towarów
+
+#### Rozdział 3 – Zwolnienia celne
+
+#### Rozdział 4 – Dług celny
+
+#### Rozdział 4a – Wywóz, o którym mowa w art. 140 ust. 2 rozporządzenia delegowanego
+
+#### Rozdział 5 – Organy celne i ich właściwość
+
+#### Rozdział 6 – Postępowanie w sprawach celnych
+
+#### Rozdział 7 – Zasady postępowania z towarami objętymi Wspólną Polityką Rolną
+
+#### Rozdział 8 – Ewidencja i statystyka dotycząca obrotu towarowego z państwami członkowskimi Unii
+
+#### Rozdział 9 – Przepis końcowy
 
 **Art. 19.**
 
@@ -49,15 +78,15 @@ Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumen
 - **1)** art. 3 pkt 1, 3 i pkt 5 w zakresie art. 299g § 2 i art. 299h § 2, art. 7 pkt 2 oraz art. 10, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 - **2)** art. 1 pkt 8, 9, 10 i 14 oraz art. 14, które wchodzą w życie z dniem 1 września 2023 r.;
 - **3)** art. 1 pkt 4 i 5, art. 4–6, art. 7 pkt 1 i 3, art. 9 i art. 18–21, które wchodzą w życie z dniem 1 stycznia 2024 r.;
-- **4)** art. 1 pkt 7 lit. e, pkt 13 lit. b w zakresie art. 106h ust. 2 i 4, pkt 24 w zakresie art. 106ni ust. 1–3 i 5–7 i pkt 30, które wchodzą w życie z dniem 1 sierpnia 2026 r. ” . Załącznik – Tekst jednolity ustawy z dnia 19 marca 2004 r. Prawo celne
+- **4)** art. 1 pkt 7 lit. e, pkt 13 lit. b w zakresie art. 106h ust. 2 i 4, pkt 24 w zakresie art. 106ni ust. 1–3 i 5–7 i pkt 30, które wchodzą w życie z dniem 1 sierpnia 2026 r. ” . Załącznik – Tekst jednolity ustawy z dnia 19 marca 2004 r. Prawo celneDane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa reguluje w zakresie uzupełniającym przepisy prawa unijnego:
 
 - **1)** zasady przywozu towarów na obszar celny Unii Europejskiej, zwanej dalej „Unią”, i wywozu towarów z tego obszaru,
 - **2)** zasady postępowania z towarami objętymi Wspólną Polityką Rolną,
-- **3)** sposób przekazywania informacji do celów ewidencji i statystyki dotyczącej obrotu towarowego z państwami członkowskimi Unii oraz związane z tym prawa i obowiązki osób, a także uprawnienia i obowiązki organów celnych.
+- **3)** sposób przekazywania informacji do celów ewidencji i statystyki dotyczącej obrotu towarowego z państwami członkowskimi Unii – oraz związane z tym prawa i obowiązki osób, a także uprawnienia i obowiązki organów celnych.
 
 **Art. 2.** Wprowadzenie towaru na obszar celny Unii lub jego wyprowadzenie z tego obszaru powoduje z mocy prawa powstanie obowiązków i uprawnień przewidzianych w przepisach prawa celnego, jeżeli przepisy prawa, w tym ratyfikowane umowy międzynarodowe, nie stanowią inaczej.
 
@@ -67,9 +96,9 @@ Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumen
 
 - **1)** terytorium kraju – terytorium Rzeczypospolitej Polskiej;
 - **2)** terytorium państwa trzeciego – terytorium państwa nienależącego do Unii;
-- **3)** unijny kodeks celny – rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiające unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.);
-- **4)** rozporządzenie wykonawcze – rozporządzenie wykonawcze Komisji (UE) 2015/2447 z dnia 24 listopada 2015 r. ustanawiające szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 ustanawiającego unijny kodeks celny (Dz. Urz. UE L 343 z 29.12.2015, str. 558, z późn. zm.);
-- **4a)** rozporządzenie delegowane – rozporządzenie delegowane Komisji (UE) 2015/2446 z dnia 28 lipca 2015 r. uzupełniające rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 w odniesieniu do szczegółowych zasad dotyczących niektórych przepisów unijnego kodeksu celnego (Dz. Urz. UE L 343 z 29.12.2015, str. 1, z późn. zm.);
+- **3)** unijny kodeks celny – rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiające unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 287 z 29.10.2013, str. 90.;
+- **4)** rozporządzenie wykonawcze – rozporządzenie wykonawcze Komisji (UE) 2015/2447 z dnia 24 listopada 2015 r. ustanawiające szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 ustanawiającego unijny kodeks celny (Dz. Urz. UE L 343 z 29.12.2015, str. 558, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 87 z 02.04.2016, str. 35.;
+- **4a)** rozporządzenie delegowane – rozporządzenie delegowane Komisji (UE) 2015/2446 z dnia 28 lipca 2015 r. uzupełniające rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 w odniesieniu do szczegółowych zasad dotyczących niektórych przepisów unijnego kodeksu celnego (Dz. Urz. UE L 343 z 29.12.2015, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 69 z 15.03.2016, str. 1, Dz. Urz. UE L 87 z 02.04.2016, str. 35 oraz Dz. Urz. UE L 111 z 27.04.2016, str. 1.;
 - **5)** Rozporządzenie ustanawiające wspólnotowy system zwolnień celnych – rozporządzenie Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiające wspólnotowy system zwolnień celnych (Dz. Urz. UE L 324 z 10.12.2009, str. 23).
 
 **Art. 5.**
@@ -104,7 +133,7 @@ Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumen
 
 - **1)** szczegółowe wymogi, jakie powinien spełniać wniosek o wystawienie świadectwa potwierdzającego niepreferencyjne pochodzenie towaru, oraz to świadectwo,
 - **2)** wzór świadectwa potwierdzającego niepreferencyjne pochodzenie towaru i wniosku o jego wystawienie,
-- **3)** sposób i tryb wystawiania przez organy celne świadectwa potwierdzającego niepreferencyjne pochodzenie towaru mając na uwadze zapewnienie kompletności informacji niezbędnych do udokumentowania niepreferencyjnego pochodzenia towaru oraz ułatwienie formalności celnych.
+- **3)** sposób i tryb wystawiania przez organy celne świadectwa potwierdzającego niepreferencyjne pochodzenie towaru – mając na uwadze zapewnienie kompletności informacji niezbędnych do udokumentowania niepreferencyjnego pochodzenia towaru oraz ułatwienie formalności celnych.
 
 1. Wymiana informacji z organami celnymi drogą elektroniczną, w szczególności deklaracji lub zgłoszeń, jest dokonywana przez Platformę Usług Elektronicznych Skarbowo-Celnych, zwaną dalej „PUESC”.
 
@@ -128,7 +157,7 @@ Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumen
 
 **Art. 13.** (uchylony) Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, dla procedur specjalnych, o których mowa w art. 210 lit. b-d unijnego kodeksu celnego, w przypadku przeniesienia na terytorium kraju praw i obowiązków osoby korzystającej z procedury, szczegółowe warunki lub tryb takiego przeniesienia, a także wzór dokumentu stosowanego przy takim przeniesieniu, mając na uwadze zapewnienie skutecznego dozoru celnego. 1. Minister właściwy do spraw finansów publicznych w porozumieniu z właściwym ministrem może upoważnić, w drodze rozporządzenia, inne organy administracji rządowej do wykonywania niektórych zadań organów celnych określając szczegółowy zakres upoważnienia tych organów oraz miejsca, w których wykonują one zadania organów celnych. 2. Organom administracji rządowej przy wykonywaniu zadań, o których mowa w ust. 1, przysługują prawa i obowiązki organów celnych.
 
-#### Rozdział 2 Wprowadzanie towarów na obszar celny Unii i regulowanie sytuacji towarów
+#### Rozdział 2
 
 **Art. 14.** Towary mogą być wprowadzane na obszar celny Unii lub wyprowadzane z tego obszaru przez przejścia graniczne otwarte dla danego ruchu, chyba że przepis szczególny stanowi inaczej.
 
@@ -238,7 +267,7 @@ Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumen
 
 - **1)** cofnąć towar poza obszar celny Unii lub nie zezwolić na opuszczenie tego obszaru,
 - **2)** zająć towar i wystąpić o orzeczenie jego przepadku na rzecz Skarbu Państwa,
-- **3)** wyrazić zgodę na zrzeczenie się towaru na rzecz Skarbu Państwa zgodnie z art. 199 unijnego kodeksu celnego chyba że umowy międzynarodowe lub przepisy odrębne przewidują inny sposób postępowania.
+- **3)** wyrazić zgodę na zrzeczenie się towaru na rzecz Skarbu Państwa zgodnie z art. 199 unijnego kodeksu celnego – chyba że umowy międzynarodowe lub przepisy odrębne przewidują inny sposób postępowania.
 
 2. O przepadku towaru na rzecz Skarbu Państwa orzeka, na wniosek organu celnego, sąd, stosując przepisy Kodeksu postępowania cywilnego. Niemożność ustalenia osoby, na której ciążą obowiązki wynikające z przepisów prawa celnego, nie stanowi przeszkody do wystąpienia z wnioskiem o orzeczenie przepadku towaru i do orzeczenia tego przepadku.
 
@@ -298,9 +327,9 @@ Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumen
 
 - **1)** warunki przyjmowania towarów do depozytu i wydawania towarów z depozytu,
 - **2)** przypadki, w których organ celny odmówi przyjęcia towarów do depozytu,
-- **3)** terminy przechowywania towarów w depozycie mając na uwadze, w szczególności, rodzaj towarów oraz uproszczenie formalności w przyjmowaniu towarów do depozytu. Pozwolenia, o których mowa w art. 185 unijnego kodeksu celnego, są udzielane przedsiębiorcom dokonującym zgłoszeń celnych w swoim imieniu i na swoją rzecz. Składający rozliczenie zamknięcia, o którym mowa w art. 175 rozporządzenia delegowanego, jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy, że w przypadku nieuiszczenia w terminie w całości lub w części należności pieniężnej wynikającej z rozliczenia zamknięcia, rozliczenie niniejsze stanowi podstawę do wystawienia tytułu wykonawczego.”. Klauzula ta zastępuje pouczenie, że rozliczenie zamknięcia stanowi podstawę do wystawienia tytułu wykonawczego.
+- **3)** terminy przechowywania towarów w depozycie – mając na uwadze, w szczególności, rodzaj towarów oraz uproszczenie formalności w przyjmowaniu towarów do depozytu. Pozwolenia, o których mowa w art. 185 unijnego kodeksu celnego, są udzielane przedsiębiorcom dokonującym zgłoszeń celnych w swoim imieniu i na swoją rzecz. Składający rozliczenie zamknięcia, o którym mowa w art. 175 rozporządzenia delegowanego, jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy, że w przypadku nieuiszczenia w terminie w całości lub w części należności pieniężnej wynikającej z rozliczenia zamknięcia, rozliczenie niniejsze stanowi podstawę do wystawienia tytułu wykonawczego.”. Klauzula ta zastępuje pouczenie, że rozliczenie zamknięcia stanowi podstawę do wystawienia tytułu wykonawczego.
 
-#### Rozdział 3 Zwolnienia celne
+#### Rozdział 3
 
 **Art. 36.** Zwolnienie od należności przywozowych lub należności wywozowych stosuje się na wniosek zgłaszającego.
 
@@ -353,7 +382,7 @@ Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumen
 
 **Art. 50.** Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw zdrowia, ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, warunki, jakie muszą spełniać instytucje i organizacje, o których mowa w art. 67 ust. 1 lit. b oraz w art. 68 ust. 1 lit. b Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych, mając na uwadze rodzaj i charakter działalności prowadzonej przez te instytucje i organizacje.
 
-#### Rozdział 4 Dług celny
+#### Rozdział 4
 
 **Art. 51.** (uchylony)
 
@@ -417,12 +446,12 @@ Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumen
 
 - **1)** sposób złożenia zabezpieczenia w formie depozytu w gotówce,
 - **2)** dokumenty uważane za równoważne z depozytem w gotówce, mające wartość płatniczą, które mogą być przyjmowane przez organy celne,
-- **3)** sposób potwierdzenia przez organ celny złożenia zabezpieczenia mając na uwadze, w szczególności, jednolitość postępowania w tym zakresie, a także uwzględniając potrzeby gospodarcze przedsiębiorców.
+- **3)** sposób potwierdzenia przez organ celny złożenia zabezpieczenia – mając na uwadze, w szczególności, jednolitość postępowania w tym zakresie, a także uwzględniając potrzeby gospodarcze przedsiębiorców.
 
 **Art. 54.** Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia:
 
 - **1)** określić formy zabezpieczenia, o których mowa w art. 92 ust. 1 lit. c unijnego kodeksu celnego, oraz przypadki i warunki korzystania z tych form zabezpieczenia,
-- **2)** zezwolić, aby zobowiązanie gwaranta było składane w formie innej niż określono w załącznikach 32–01, 32–02 i 32–03 do rozporządzenia wykonawczego, zgodnie z art. 151 ust. 7 rozporządzenia wykonawczego, a także określić tę formę biorąc pod uwagę zapewnienie skuteczności poboru należności celnych.
+- **2)** zezwolić, aby zobowiązanie gwaranta było składane w formie innej niż określono w załącznikach 32–01, 32–02 i 32–03 do rozporządzenia wykonawczego, zgodnie z art. 151 ust. 7 rozporządzenia wykonawczego, a także określić tę formę – biorąc pod uwagę zapewnienie skuteczności poboru należności celnych.
 
 **Art. 55.** Organ celny odstępuje od powiadomienia o długu celnym w przypadku, o którym mowa w art. 88 ust. 1 i 2 rozporządzenia delegowanego.
 
@@ -457,7 +486,7 @@ Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumen
 
 - **1)** termin, w którym może być złożony wniosek o wydanie pozwolenia na odroczenie terminu płatności należności celnych w przypadku, o którym mowa w art. 110 lit. a unijnego kodeksu celnego,
 - **2)** termin, od którego możliwe jest korzystanie z odroczenia płatności należności celnych w przypadkach, o których mowa w art. 110 lit. b lub c unijnego kodeksu celnego,
-- **3)** termin płatności należności celnych w przypadkach, o których mowa w art. 111 ust. 3 lub 4 unijnego kodeksu celnego biorąc pod uwagę zapewnienie jednolitości postępowania organów celnych oraz ułatwienie formalności celnych.
+- **3)** termin płatności należności celnych w przypadkach, o których mowa w art. 111 ust. 3 lub 4 unijnego kodeksu celnego – biorąc pod uwagę zapewnienie jednolitości postępowania organów celnych oraz ułatwienie formalności celnych.
 
 **Art. 60.** (uchylony)
 
@@ -547,15 +576,15 @@ Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumen
 
 3. (uchylony)
 
-4. Od ceł antydumpingowych zwracanych na podstawie decyzji Komisji Europejskiej, o której mowa w art. 11 ust. 8 rozporządzenia Rady (WE) nr 1225/2009 z dnia 30 listopada 2009 r. w sprawie ochrony przed przywozem produktów po cenach dumpingowych z krajów niebędących członkami Wspólnoty Europejskiej (Dz. Urz. UE L 343 z 22.12.2009, str. 51, z późn. zm.), organ celny płaci odsetki, jeżeli decyzja Komisji Europejskiej nie zostanie wykonana w terminie, o którym mowa w art. 11 ust. 8 zdanie ostatnie tego rozporządzenia.
+4. Od ceł antydumpingowych zwracanych na podstawie decyzji Komisji Europejskiej, o której mowa w art. 11 ust. 8 rozporządzenia Rady (WE) nr 1225/2009 z dnia 30 listopada 2009 r. w sprawie ochrony przed przywozem produktów po cenach dumpingowych z krajów niebędących członkami Wspólnoty Europejskiej (Dz. Urz. UE L 343 z 22.12.2009, str. 51, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 7 z 12.01.2010, str. 22, Dz. Urz. UE L 237 z 03.09.2012, str. 1, Dz. Urz. UE L 344 z 14.12.2012, str. 1, Dz. Urz. UE L 18 z 21.01.2014, str. 1 oraz Dz. Urz. UE L 44 z 19.02.2016, str. 20., organ celny płaci odsetki, jeżeli decyzja Komisji Europejskiej nie zostanie wykonana w terminie, o którym mowa w art. 11 ust. 8 zdanie ostatnie tego rozporządzenia.
 
 5. W przypadku, o którym mowa w ust. 4, odsetki oblicza się w wysokości i według zasad obowiązujących dla wypłaty odsetek od zwracanych należności celnych. Do zaokrąglania podstaw naliczania należności przywozowych i wywozowych, kwoty tych należności oraz odsetek stosuje się odpowiednio art. 63 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 **Art. 68.** Kwota należności podlegających zwrotowi może zostać zaliczona na zaległe lub bieżące zobowiązania dłużnika wobec organu celnego. (uchylony)
 
-#### Rozdział 4a Wywóz, o którym mowa w art. 140 ust. 2 rozporządzenia delegowanego
+#### Rozdział 4a
 
-#### Rozdział 5 Organy celne i ich właściwość
+#### Rozdział 5
 
 **Art. 69.**
 
@@ -606,7 +635,7 @@ Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumen
 
 **Art. 72.** W przypadku sporu o właściwość miejscową i rzeczową, przepisy art. 19 i 20 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa stosuje się odpowiednio.
 
-#### Rozdział 6 Postępowanie w sprawach celnych
+#### Rozdział 6
 
 **Art. 73.**
 
@@ -630,7 +659,7 @@ Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumen
 2. W wyniku postępowania, o którym mowa w ust. 1, jest wydawana jedna decyzja. Pisma w sprawie:
 
 - **1)** wiążących informacji o pochodzeniu,
-- **2)** przedłużenia użycia, cofnięcia i unieważnienia wiążących informacji taryfowych oraz odwołań składanych od rozstrzygnięć w sprawie wiążących informacji taryfowych składa się i doręcza wyłącznie za pośrednictwem konta na PUESC, z zastrzeżeniem art. 35a ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.).
+- **2)** przedłużenia użycia, cofnięcia i unieważnienia wiążących informacji taryfowych oraz odwołań składanych od rozstrzygnięć w sprawie wiążących informacji taryfowych – składa się i doręcza wyłącznie za pośrednictwem konta na PUESC, z zastrzeżeniem art. 35a ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863, 879 i 1222.).
 
 **Art. 74.** W zakresie praw i obowiązków następców prawnych i podmiotów przekształconych stosuje się odpowiednio przepisy rozdziału 14 działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
@@ -723,7 +752,7 @@ Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumen
 
 **Art. 90.** Organ celny może połączyć toczące się przed nim oddzielne sprawy w celu ich łącznego rozpoznania lub także rozstrzygnięcia, jeżeli dotyczą tej samej osoby i są ze sobą w związku. (uchylony) Odwołanie od decyzji organu celnego powinno również wskazywać osobę, od której pochodzi, jej adres (miejsca zamieszkania lub zwykłego pobytu, siedziby albo miejsca prowadzenia działalności) lub adres do doręczeń w kraju, numer EORI, o ile go posiada, a w przypadku nierezydentów – numer i serię paszportu lub innego dokumentu stwierdzającego tożsamość, lub inny numer identyfikacyjny, o ile nie posiadają numeru EORI. W przypadku nieuwzględnienia wniosku o przywrócenie terminu organ odwoławczy wydaje jedną decyzję w sprawie nieuwzględnienia wniosku o przywrócenie terminu i uchybienia terminowi do wniesienia odwołania. 1. Przed wydaniem decyzji organ odwoławczy wyznacza osobie siedmiodniowy termin do wypowiedzenia się w sprawie zebranego materiału dowodowego; termin ten za zgodą osoby może zostać skrócony. 2. Przepisu ust. 1 nie stosuje się, jeżeli decyzja w całości uwzględnia odwołanie. 1. Załatwienie sprawy w postępowaniu odwoławczym powinno nastąpić nie później niż w ciągu 2 miesięcy od dnia otrzymania odwołania przez organ odwoławczy. 2. Do terminu określonego w ust. 1 nie wlicza się terminów przewidzianych w przepisach prawa celnego dla dokonania określonych czynności oraz okresów opóźnień spowodowanych z winy osoby składającej odwołanie albo z przyczyn niezależnych od organu.
 
-**Art. 91.** Badania lub analizy towaru mogą być wykonywane przez laboratoria celne lub inne laboratoria akredytowane zgodnie z odrębnymi przepisami, a także przez podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.), lub inne podmioty, które dysponują metodami i wyposażeniem niezbędnym dla danego rodzaju badań lub analiz.
+**Art. 91.** Badania lub analizy towaru mogą być wykonywane przez laboratoria celne lub inne laboratoria akredytowane zgodnie z odrębnymi przepisami, a także przez podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089.), lub inne podmioty, które dysponują metodami i wyposażeniem niezbędnym dla danego rodzaju badań lub analiz.
 
 **Art. 92.**
 
@@ -797,7 +826,7 @@ Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumen
 
 9. Przepisów o tajemnicy celnej nie stosuje się do informacji podlegających ochronie na podstawie przepisów o ochronie informacji niejawnych.
 
-#### Rozdział 7 Zasady postępowania z towarami objętymi Wspólną Polityką Rolną
+#### Rozdział 7
 
 **Art. 96.**
 
@@ -820,7 +849,7 @@ Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumen
 
 5. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw rynków rolnych może określić, w drodze rozporządzenia, dokumenty stosowane w obrocie towarami objętymi Wspólną Polityką Rolną oraz szczegółowe warunki i tryb postępowania z tymi towarami, w zakresie przewidzianym dla organów celnych, mając na uwadze zapewnienie właściwego dozoru i kontroli celnej oraz wykonywania zadań wynikających z przepisów unijnych regulujących Wspólną Politykę Rolną. Rozporządzenie powinno określać wzory i szczegółowy sposób stosowania dokumentów, szczegółowe warunki i tryb wydawania pozwoleń na prowadzenie magazynów żywnościowych i stosowanie procedury planowej oraz szczegółowe warunki i tryb uznawania miejsc uznanych na potrzeby załadunku.
 
-#### Rozdział 8 Ewidencja i statystyka dotycząca obrotu towarowego z państwami członkowskimi Unii
+#### Rozdział 8
 
 **Art. 97.** Użyte w niniejszym rozdziale określenia oznaczają:
 
@@ -836,7 +865,7 @@ Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumen
 - **1)** szczegółowy tryb, sposób i terminy dokonywania zgłoszeń INTRASTAT i korekt tych zgłoszeń oraz przypadki, gdy dokonanie zgłoszenia INTRASTAT lub korekty tego zgłoszenia nie jest wymagane,
 - **2)** wymogi, jakie powinno spełniać zgłoszenie INTRASTAT oraz korekta tego zgłoszenia,
 - **3)** szczegółowy tryb, sposób i terminy dokonywania upomnień oraz szczegółowy tryb dokonywania wezwań,
-- **4)** właściwość miejscową organów celnych w sprawach dotyczących zgłoszeń INTRASTAT i ich korekty mając na względzie wysokość progów statystycznych, która jest ustalana corocznie przez Prezesa Głównego Urzędu Statystycznego i udostępniana na stronie internetowej Głównego Urzędu Statystycznego, zakres przekazywanych informacji wymaganych od osoby zobowiązanej oraz możliwość wykorzystania systemu teleinformatycznego, a także potrzebę zapewnienia skutecznego egzekwowania wykonania obowiązku przekazywania prawidłowych informacji dla celów ewidencji i statystyki dotyczącej obrotu towarowego z państwami członkowskimi Unii.
+- **4)** właściwość miejscową organów celnych w sprawach dotyczących zgłoszeń INTRASTAT i ich korekty – mając na względzie wysokość progów statystycznych, która jest ustalana corocznie przez Prezesa Głównego Urzędu Statystycznego i udostępniana na stronie internetowej Głównego Urzędu Statystycznego, zakres przekazywanych informacji wymaganych od osoby zobowiązanej oraz możliwość wykorzystania systemu teleinformatycznego, a także potrzebę zapewnienia skutecznego egzekwowania wykonania obowiązku przekazywania prawidłowych informacji dla celów ewidencji i statystyki dotyczącej obrotu towarowego z państwami członkowskimi Unii.
 
 **Art. 99.**
 
@@ -855,7 +884,7 @@ Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumen
 1. Na osobę zobowiązaną, która pomimo trzykrotnego upomnienia, o którym mowa w art. 100 ust. 1, za okres sprawozdawczy:
 
 - **1)** nie dokonała zgłoszenia INTRASTAT lub
-- **2)** nie dokonała korekty złożonego uprzednio zgłoszenia INTRASTAT organ celny może nałożyć karę pieniężną w wysokości 3000 zł.
+- **2)** nie dokonała korekty złożonego uprzednio zgłoszenia INTRASTAT – organ celny może nałożyć karę pieniężną w wysokości 3000 zł.
 
 2. Karę pieniężną, o której mowa w ust. 1, organ celny nakłada w drodze decyzji.
 
@@ -869,10 +898,7 @@ Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumen
 
 **Art. 102.** Do postępowania w sprawach ewidencji i statystyki dotyczącej obrotu towarowego z państwami członkowskimi Unii, w zakresie nieuregulowanym przepisami unijnymi regulującymi statystykę dotyczącą obrotu towarowego z państwami członkowskimi Unii, przepisami o statystyce publicznej oraz przepisami niniejszej ustawy, stosuje się odpowiednio przepisy art. 12, działu III rozdziału 14 oraz działów IV i VIIIa ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
-#### Rozdział 9 Przepis końcowy
+#### Rozdział 9
 
-**Art. 103.** Ustawa wchodzi w życie w terminie i na zasadach określonych ustawą z dnia 19 marca 2004 r. – Przepisy wprowadzające ustawę – Prawo celne (Dz. U. poz. 623).
-
-- **1)** Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne. 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 287 z 29.10.2013, str. 90. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 87 z 02.04.2016, str. 35. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 69 z 15.03.2016, str. 1, Dz. Urz. UE L 87 z 02.04.2016, str. 35 oraz Dz. Urz. UE L 111 z 27.04.2016, str. 1. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 7 z 12.01.2010, str. 22, Dz. Urz. UE L 237 z 03.09.2012, str. 1, Dz. Urz. UE L 344 z 14.12.2012, str. 1, Dz. Urz. UE L 18 z 21.01.2014, str. 1 oraz Dz. Urz. UE L 44 z 19.02.2016, str. 20. 6) Dodany przez art. 4 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1598 oraz z 2024 r. poz. 852); wszedł w życie z dniem 1 stycznia 2024 r. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863, 879 i 1222. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089. 9) Ustawa weszła w życie z dniem 1 maja 2004 r. na podstawie art. 1 ustawy z dnia 19 marca 2004 r. – Przepisy wprowadzające ustawę – Prawo celne (Dz. U. poz. 623).
-
+**Art. 103.** Ustawa wchodzi w życie w terminie i na zasadach określonych ustawą z dnia 19 marca 2004 r. – Przepisy wprowadzające ustawę – Prawo celne (Dz. U. poz. 623)Ustawa weszła w życie z dniem 1 maja 2004 r. na podstawie art. 1 ustawy z dnia 19 marca 2004 r. – Przepisy wprowadzające ustawę – Prawo celne (Dz. U. poz. 623).. 1) Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne. 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 287 z 29.10.2013, str. 90. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 87 z 02.04.2016, str. 35. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 69 z 15.03.2016, str. 1, Dz. Urz. UE L 87 z 02.04.2016, str. 35 oraz Dz. Urz. UE L 111 z 27.04.2016, str. 1. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 7 z 12.01.2010, str. 22, Dz. Urz. UE L 237 z 03.09.2012, str. 1, Dz. Urz. UE L 344 z 14.12.2012, str. 1, Dz. Urz. UE L 18 z 21.01.2014, str. 1 oraz Dz. Urz. UE L 44 z 19.02.2016, str. 20. 6) Dodany przez art. 4 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1598 oraz z 2024 r. poz. 852); wszedł w życie z dniem 1 stycznia 2024 r. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863, 879 i 1222. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089. 9) Ustawa weszła w życie z dniem 1 maja 2004 r. na podstawie art. 1 ustawy z dnia 19 marca 2004 r. – Przepisy wprowadzające ustawę – Prawo celne (Dz. U. poz. 623).
 

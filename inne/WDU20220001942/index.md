@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-12 |
 | Data wydania | 2022-09-14 |
-| Wejście w życie | 2022-09-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001942) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1942/text.pdf) |
 
@@ -37,8 +36,7 @@ szczegółowe warunki przyznawania tych dodatków oraz dodatku za wysługę lat;
 3)
 szczegółowe warunki obliczania i wypłacania wynagrodzenia za godziny ponadwymiarowe i godziny doraźnych zastępstw;
 4)
-wysokość i warunki wypłacania składników wynagrodzenia, o których mowa w art. 30 ust. 1 pkt 4 Karty Nauczyciela
-dla nauczycieli zatrudnionych w okręgowych ośrodkach wychowawczych, zakładach poprawczych, schroniskach dla nieletnich oraz szkołach przy zakładach karnych i aresztach śledczych.
+wysokość i warunki wypłacania składników wynagrodzenia, o których mowa w art. 30 ust. 1 pkt 4 Karty Nauczyciela – dla nauczycieli zatrudnionych w okręgowych ośrodkach wychowawczych, zakładach poprawczych, schroniskach dla nieletnich oraz szkołach przy zakładach karnych i aresztach śledczych.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -229,5 +227,5 @@ Przyznanie zasiłku pieniężnego oraz jego wysokość uzależnia się od sytuac
 4.
 Zasiłek pieniężny przyznaje organ dysponujący środkami finansowymi w porozumieniu ze związkami zawodowymi zrzeszającymi nauczycieli.
 § 15.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 września 2022 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 września 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 grudnia 2016 r. w sprawie dodatków, wynagrodzenia za godziny ponadwymiarowe i godziny doraźnych zastępstw oraz innych świadczeń wynikających ze stosunku pracy dla nauczycieli zatrudnionych w zakładach poprawczych, schroniskach dla nieletnich, rodzinnych oraz szkołach przy zakładach karnych i aresztach śledczych (Dz. U. poz. 2264 oraz z 2020 r. poz. 1739), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 415 pkt 4 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 grudnia 2016 r. w sprawie dodatków, wynagrodzenia za godziny ponadwymiarowe i godziny doraźnych zastępstw oraz innych świadczeń wynikających ze stosunku pracy dla nauczycieli zatrudnionych w zakładach poprawczych, schroniskach dla nieletnich, rodzinnych oraz szkołach przy zakładach karnych i aresztach śledczych (Dz. U. poz. 2264 oraz z 2020 r. poz. 1739), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 415 pkt 4 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700).
 

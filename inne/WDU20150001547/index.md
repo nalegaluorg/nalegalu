@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-27 |
 | Data wydania | 2015-10-06 |
-| Wejście w życie | 2015-10-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001547) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1547/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 140d ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2013 r. poz. 1393, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 140d ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2013 r. poz. 1393, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 768 oraz z 2015 r. poz. 978 i 1221.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -43,7 +42,7 @@ sposób współdziałania służby ASAR z innymi podmiotami i jednostkami.
 § 2.
 Szczegółowy sposób zorganizowania i funkcjonowania służby ASAR określają:
 1)
-normy i zalecane metody postępowania zawarte w Załączniku 12 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. Nr 35, poz. 212 i 214, z późn. zm.), ogłoszonym w załączniku do obwieszczenia nr 13 Prezesa Urzędu Lotnictwa Cywilnego z dnia 16 kwietnia 2010 r. w sprawie ogłoszenia tekstu Załącznika 12 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (w brzmieniu z dnia 30 kwietnia 2010 r., Dz. Urz. ULC Nr 5, poz. 38), zwanym dalej „Załącznikiem 12 do Konwencji”, z wyłączeniem pkt 2.3.4, 2.6.8, 3.2.4 i 4.3.2 lit. b;
+normy i zalecane metody postępowania zawarte w Załączniku 12 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. Nr 35, poz. 212 i 214, z późn. zm.Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 1963 r. Nr 24, poz. 137 i 138, z 1969 r. Nr 27, poz. 210 i 211, z 1976 r. Nr 21, poz. 130 i 131, Nr 32, poz. 188 i 189 i Nr 39, poz. 227 i 228, z 1984 r. Nr 39, poz. 199 i 200, z 2000 r. Nr 39, poz. 446 i 447, z 2002 r. Nr 58, poz. 527 i 528, z 2003 r. Nr 78, poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371.), ogłoszonym w załączniku do obwieszczenia nr 13 Prezesa Urzędu Lotnictwa Cywilnego z dnia 16 kwietnia 2010 r. w sprawie ogłoszenia tekstu Załącznika 12 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (w brzmieniu z dnia 30 kwietnia 2010 r., Dz. Urz. ULC Nr 5, poz. 38), zwanym dalej „Załącznikiem 12 do Konwencji”, z wyłączeniem pkt 2.3.4, 2.6.8, 3.2.4 i 4.3.2 lit. b;
 2)
 plan ASAR opracowywany i zatwierdzany w sposób określony w § 12.
 § 3.
@@ -113,7 +112,7 @@ statki powietrzne wyposażone zgodnie z pkt 2.6 Załącznika 12 do Konwencji, kt
 2)
 załogi statków powietrznych;
 3)
-personel pokładowy odpowiedzialny za udzielanie pierwszej pomocy, z co najmniej jedną osobą uprawnioną do udzielania kwalifikowanej pierwszej pomocy w rozumieniu ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2013 r. poz. 757, z późn. zm.).
+personel pokładowy odpowiedzialny za udzielanie pierwszej pomocy, z co najmniej jedną osobą uprawnioną do udzielania kwalifikowanej pierwszej pomocy w rozumieniu ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2013 r. poz. 757, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1245 i 1635 oraz z 2014 r. poz. 1802.).
 § 9.
 Minister Obrony Narodowej wyposaża LZPR w:
 1)
@@ -322,5 +321,5 @@ Zadania, o których mowa w § 5 i § 6 ust. 1, Prezes PAŻP wykonuje po zatwierd
 4.
 Po zatwierdzeniu pierwszej instrukcji operacyjnej ARCC ośrodek koordynacji usytuowany w Polskiej Agencji Żeglugi Powietrznej przejmuje od Ośrodka Koordynacji Poszukiwań i Ratownictwa Lotniczego znajdującego się w strukturze Sił Zbrojnych Rzeczypospolitej Polskiej zadania ARCC, określone dla niego w instrukcji operacyjnej ARCC.
 § 20.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 768 oraz z 2015 r. poz. 978 i 1221. 3) Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 1963 r. Nr 24, poz. 137 i 138, z 1969 r. Nr 27, poz. 210 i 211, z 1976 r. Nr 21, poz. 130 i 131, Nr 32, poz. 188 i 189 i Nr 39, poz. 227 i 228, z 1984 r. Nr 39, poz. 199 i 200, z 2000 r. Nr 39, poz. 446 i 447, z 2002 r. Nr 58, poz. 527 i 528, z 2003 r. Nr 78, poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1245 i 1635 oraz z 2014 r. poz. 1802.
 

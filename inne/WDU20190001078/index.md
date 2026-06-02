@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 12 kwietnia 2019 r. o opiece zdrowotnej nad uczniami
+# Ustawa z dnia 12 kwietnia 2019 r. o opiece zdrowotnej nad uczniami Niniejszą ustawą zmienia się ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,38 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-12 |
 | Data wydania | 2019-06-11 |
-| Wejście w życie | 2019-09-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001078) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1078/text.pdf) |
 
-#### Rozdział 1 Przepisy ogólne
+Przepisy ogólne
+Organizacja opieki zdrowotnej nad uczniami oraz zadania podmiotów sprawujących opiekę i podmiotów działających na rzecz zapewnienia warunków organizacyjnych tej opieki
+Integracja opieki zdrowotnej nad uczniami
+Sprawowanie opieki nad uczniami przewlekle chorymi lub niepełnosprawnymi w szkole
+Monitorowanie opieki zdrowotnej nad uczniami
+Finansowanie opieki zdrowotnej nad uczniami
+Dokumentowanie i sprawozdawanie realizacji zadań z zakresu opieki zdrowotnej nad uczniami
+Zmiany w przepisach
+Przepisy przejściowe, dostosowujące i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Organizacja opieki zdrowotnej nad uczniami oraz zadania podmiotów sprawujących opiekę i podmiotów działających na rzecz zapewnienia warunków organizacyjnych tej opieki
+
+#### Rozdział 3 – Integracja opieki zdrowotnej nad uczniami
+
+#### Rozdział 4 – Sprawowanie opieki nad uczniami przewlekle chorymi lub niepełnosprawnymi w szkole
+
+#### Rozdział 5 – Monitorowanie opieki zdrowotnej nad uczniami
+
+#### Rozdział 6 – Finansowanie opieki zdrowotnej nad uczniami
+
+#### Rozdział 7 – Dokumentowanie i sprawozdawanie realizacji zadań z zakresu opieki zdrowotnej nad uczniami
+
+#### Rozdział 8 – Zmiany w przepisach
+
+#### Rozdział 9 – Przepisy przejściowe, dostosowujące i końcowe
+
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -64,7 +91,7 @@ source: "eli-html"
 - **3)** edukację zdrowotną i promocję zdrowia, w tym aktywności fizycznej i sportu oraz prawidłowego żywienia;
 - **4)** udzielanie pierwszej pomocy w rozumieniu art. 3 pkt 7 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2019 r. poz. 993).
 
-6. Ilekroć w ustawie jest mowa o rodzicach, rozumie się przez to rodziców, o których mowa w art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, z późn. zm.).
+6. Ilekroć w ustawie jest mowa o rodzicach, rozumie się przez to rodziców, o których mowa w art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1290, 1669 i 2245 oraz z 2019 r. poz. 534, 730 i 761.).
 
 **Art. 3.**
 
@@ -89,7 +116,7 @@ source: "eli-html"
 - **2)** posiada tytuł specjalisty w dziedzinie pielęgniarstwa środowiska nauczania i wychowania, lub
 - **3)** ukończyła kurs kwalifikacyjny w dziedzinie pielęgniarstwa środowiska nauczania i wychowania, lub
 - **4)** posiada tytuł specjalisty w dziedzinie pielęgniarstwa rodzinnego lub pediatrycznego zdobyty po ukończeniu szkolenia specjalizacyjnego rozpoczętego po dniu 23 sierpnia 2015 r., lub
-- **5)** odbywa szkolenie specjalizacyjne w dziedzinie pielęgniarstwa rodzinnego lub pediatrycznego z którą Narodowy Fundusz Zdrowia zawarł umowę o udzielanie świadczeń opieki zdrowotnej albo która jest zatrudniona lub wykonuje zawód u świadczeniodawcy, z którym Narodowy Fundusz Zdrowia zawarł umowę o udzielanie świadczeń opieki zdrowotnej, realizująca opiekę zdrowotną nad uczniami w szkołach.
+- **5)** odbywa szkolenie specjalizacyjne w dziedzinie pielęgniarstwa rodzinnego lub pediatrycznego – z którą Narodowy Fundusz Zdrowia zawarł umowę o udzielanie świadczeń opieki zdrowotnej albo która jest zatrudniona lub wykonuje zawód u świadczeniodawcy, z którym Narodowy Fundusz Zdrowia zawarł umowę o udzielanie świadczeń opieki zdrowotnej, realizująca opiekę zdrowotną nad uczniami w szkołach.
 
 2. Pielęgniarką środowiska nauczania i wychowania może być również:
 
@@ -98,7 +125,7 @@ source: "eli-html"
 
 3. Higienistka szkolna to osoba, która posiada wykształcenie średnie medyczne w zawodzie higienistki szkolnej oraz posiada co najmniej pięcioletni staż pracy w środowisku nauczania i wychowania, z którą Narodowy Fundusz Zdrowia zawarł umowę o udzielanie świadczeń opieki zdrowotnej albo która jest zatrudniona lub wykonuje zawód u świadczeniodawcy, z którym Narodowy Fundusz Zdrowia zawarł umowę o udzielanie świadczeń opieki zdrowotnej, realizująca opiekę zdrowotną nad uczniami w szkołach.
 
-4. Lekarz dentysta sprawujący opiekę stomatologiczną nad uczniami to lekarz dentysta spełniający wymagania określone w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.), w części dotyczącej warunków realizacji świadczeń gwarantowanych z zakresu leczenia stomatologicznego dla dzieci i młodzieży, z wyłączeniem świadczeń ortodoncji, z którym Narodowy Fundusz Zdrowia zawarł umowę o udzielanie świadczeń opieki zdrowotnej albo który jest zatrudniony lub wykonuje zawód u świadczeniodawcy, z którym Narodowy Fundusz Zdrowia zawarł umowę o udzielanie świadczeń opieki zdrowotnej.
+4. Lekarz dentysta sprawujący opiekę stomatologiczną nad uczniami to lekarz dentysta spełniający wymagania określone w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399, 447, 730 i 752.), w części dotyczącej warunków realizacji świadczeń gwarantowanych z zakresu leczenia stomatologicznego dla dzieci i młodzieży, z wyłączeniem świadczeń ortodoncji, z którym Narodowy Fundusz Zdrowia zawarł umowę o udzielanie świadczeń opieki zdrowotnej albo który jest zatrudniony lub wykonuje zawód u świadczeniodawcy, z którym Narodowy Fundusz Zdrowia zawarł umowę o udzielanie świadczeń opieki zdrowotnej.
 
 5. Higienistka stomatologiczna to osoba, która:
 
@@ -106,7 +133,7 @@ source: "eli-html"
 - **2)** ukończyła, przed dniem wejścia w życie ustawy, studia wyższe na kierunku lub w specjalności higiena stomatologiczna i uzyskała tytuł zawodowy licencjata, lub
 - **3)** ukończyła studia wyższe na kierunku związanym z kształceniem w zakresie higieny dentystycznej, obejmujące co najmniej 1688 godzin kształcenia z zakresu higieny dentystycznej, i uzyskała co najmniej tytuł zawodowy licencjata.
 
-#### Rozdział 2 Organizacja opieki zdrowotnej nad uczniami oraz zadania podmiotów sprawujących opiekę i podmiotów działających na rzecz zapewnienia warunków organizacyjnych tej opieki
+#### Rozdział 2
 
 **Art. 6.**
 
@@ -118,7 +145,7 @@ source: "eli-html"
 
 **Art. 7.**
 
-1. Osoby sprawujące opiekę zdrowotną nad uczniami, o których mowa w art. 3 ust. 1–3, są obowiązane do przestrzegania praw pacjenta, o których mowa w ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2017 r. poz. 1318, z późn. zm.), w szczególności zachowania w tajemnicy informacji uzyskanych w związku ze sprawowaniem tej opieki, w tym związanych ze stanem zdrowia uczniów, oraz poszanowania intymności i godności uczniów w czasie udzielania im świadczeń zdrowotnych.
+1. Osoby sprawujące opiekę zdrowotną nad uczniami, o których mowa w art. 3 ust. 1–3, są obowiązane do przestrzegania praw pacjenta, o których mowa w ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2017 r. poz. 1318, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1524, z 2018 r. poz. 1115, 1515, 2219 i 2429 oraz z 2019 r. poz. 150, 447 i 730.), w szczególności zachowania w tajemnicy informacji uzyskanych w związku ze sprawowaniem tej opieki, w tym związanych ze stanem zdrowia uczniów, oraz poszanowania intymności i godności uczniów w czasie udzielania im świadczeń zdrowotnych.
 
 2. Profilaktyczna opieka zdrowotna oraz opieka stomatologiczna nad uczniami w zakresie, o którym mowa w art. 9 ust. 1 pkt 2 i ust. 2 pkt 2, jest sprawowana w przypadku braku sprzeciwu rodziców albo pełnoletnich uczniów.
 
@@ -141,12 +168,12 @@ source: "eli-html"
 1. Lekarz dentysta sprawujący opiekę stomatologiczną nad uczniami wykonuje:
 
 - **1)** świadczenia ogólnostomatologiczne dla dzieci i młodzieży do ukończenia 18. roku życia,
-- **2)** profilaktyczne świadczenia stomatologiczne dla dzieci i młodzieży do ukończenia 19. roku życia określone w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w części dotyczącej wykazu świadczeń gwarantowanych z zakresu leczenia stomatologicznego dla dzieci i młodzieży, z wyłączeniem świadczeń ortodoncji.
+- **2)** profilaktyczne świadczenia stomatologiczne dla dzieci i młodzieży do ukończenia 19. roku życia – określone w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w części dotyczącej wykazu świadczeń gwarantowanych z zakresu leczenia stomatologicznego dla dzieci i młodzieży, z wyłączeniem świadczeń ortodoncji.
 
 2. W przypadku gdy opieka stomatologiczna nad uczniami jest sprawowana w dentobusie, lekarz dentysta wykonuje:
 
 - **1)** świadczenia ogólnostomatologiczne dla dzieci i młodzieży do ukończenia 18. roku życia udzielane w dentobusie,
-- **2)** profilaktyczne świadczenia stomatologiczne dla dzieci i młodzieży do ukończenia 19. roku życia udzielane w dentobusie określone w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w części dotyczącej wykazu świadczeń gwarantowanych z zakresu leczenia stomatologicznego dla dzieci i młodzieży, z wyłączeniem świadczeń ortodoncji.
+- **2)** profilaktyczne świadczenia stomatologiczne dla dzieci i młodzieży do ukończenia 19. roku życia udzielane w dentobusie – określone w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w części dotyczącej wykazu świadczeń gwarantowanych z zakresu leczenia stomatologicznego dla dzieci i młodzieży, z wyłączeniem świadczeń ortodoncji.
 
 3. Lekarz dentysta współpracuje z pielęgniarką środowiska nauczania i wychowania albo higienistką szkolną oraz dyrektorem szkoły w zakresie edukacji zdrowotnej i promocji zdrowia jamy ustnej oraz profilaktyki próchnicy zębów u uczniów.
 
@@ -168,7 +195,7 @@ source: "eli-html"
 
 3. W przypadku braku gabinetu dentystycznego w szkole, organ prowadzący szkołę zawiera porozumienie z podmiotem wykonującym działalność leczniczą udzielającym świadczeń zdrowotnych z zakresu leczenia stomatologicznego dla dzieci i młodzieży finansowanych ze środków publicznych, w którym określa się sposób organizacji udzielania świadczeń.
 
-#### Rozdział 3 Integracja opieki zdrowotnej nad uczniami
+#### Rozdział 3
 
 **Art. 13.** Integrację działań osób sprawujących opiekę zdrowotną nad uczniami, o których mowa w art. 3 ust. 1–3, zapewnia pielęgniarka środowiska nauczania i wychowania albo higienistka szkolna.
 
@@ -234,7 +261,7 @@ source: "eli-html"
 
 **Art. 19.** Współpraca, o której mowa w art. 15–18, może odbywać się z wykorzystaniem systemów teleinformatycznych, środków komunikacji elektronicznej lub publicznie dostępnych usług telekomunikacyjnych, pod warunkiem że administratorzy i podmioty przetwarzające dane osobowe wdrożą środki techniczne i organizacyjne zapewniające odpowiedni stopień bezpieczeństwa tych danych w procesie ich przekazywania, określony w przepisach o ochronie danych osobowych.
 
-#### Rozdział 4 Sprawowanie opieki nad uczniami przewlekle chorymi lub niepełnosprawnymi w szkole
+#### Rozdział 4
 
 **Art. 20.** Opieka nad uczniem przewlekle chorym lub niepełnosprawnym w szkole jest realizowana przez pielęgniarkę środowiska nauczania i wychowania albo higienistkę szkolną.
 
@@ -252,7 +279,7 @@ source: "eli-html"
 
 **Art. 22.** Dyrektor szkoły zapewnia pracownikom szkoły szkolenia lub inne formy zdobycia wiedzy na temat sposobu postępowania wobec uczniów przewlekle chorych lub niepełnosprawnych, odpowiednio do potrzeb zdrowotnych uczniów.
 
-#### Rozdział 5 Monitorowanie opieki zdrowotnej nad uczniami
+#### Rozdział 5
 
 **Art. 23.**
 
@@ -274,7 +301,7 @@ source: "eli-html"
 
 4. Minister właściwy do spraw zdrowia może zlecić przeprowadzenie badania w zakresie oceny jakości opieki zdrowotnej nad uczniami.
 
-#### Rozdział 6 Finansowanie opieki zdrowotnej nad uczniami
+#### Rozdział 6
 
 **Art. 24.**
 
@@ -284,7 +311,7 @@ source: "eli-html"
 
 **Art. 25.** Realizacja zadań wykonywanych przez Instytut jest finansowana z budżetu państwa z części, której dysponentem jest minister właściwy do spraw zdrowia.
 
-#### Rozdział 7 Dokumentowanie i sprawozdawanie realizacji zadań z zakresu opieki zdrowotnej nad uczniami
+#### Rozdział 7
 
 **Art. 26.**
 
@@ -305,16 +332,16 @@ source: "eli-html"
 
 **Art. 28.** Podmioty sprawujące opiekę zdrowotną nad uczniami w szkole prowadzą sprawozdawczość z realizacji tej opieki zgodnie z przepisami o statystyce publicznej.
 
-#### Rozdział 8 Zmiany w przepisach
+#### Rozdział 8
 
-**Art. 29.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 29.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399, 447, 730 i 752.) wprowadza się następujące zmiany:
 
 - **1)** w art. 27 uchyla się ust. 3;
 - **2)** po art. 47c dodaje się art. 47ca w brzmieniu: „ Art. 47ca. W gabinecie dentystycznym w szkole oraz w gabinecie dentystycznym prowadzonym przez podmiot wykonujący działalność leczniczą, z którym organ prowadzący szkołę zawarł porozumienie, o którym mowa w art. 12 ust. 3 ustawy z dnia 12 kwietnia 2019 r. o opiece zdrowotnej nad uczniami (Dz. U. poz. 1078), uczniowie tej szkoły korzystają ze świadczeń w zakresie leczenia stomatologicznego poza kolejnością. ” ;
 - **3)** w art. 136 w ust. 2 po pkt 1a dodaje się pkt 1b w brzmieniu: „
 - **1b)** z zakresu leczenia stomatologicznego w części dotyczącej świadczeń udzielanych w dentobusie oraz świadczeń udzielanych uczniom w gabinecie dentystycznym w szkole lub w gabinecie dentystycznym prowadzonym przez podmiot wykonujący działalność leczniczą, z którym organ prowadzący szkołę zawarł porozumienie, o którym mowa w art. 12 ust. 3 ustawy z dnia 12 kwietnia 2019 r. o opiece zdrowotnej nad uczniami, kwota zobowiązania, o której mowa w ust. 1 pkt 5, jest zmieniana przez dostosowanie jej do potrzeb zdrowotnych oraz wykonania tej umowy; ” .
 
-**Art. 30.** W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 30.** W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1290, 1669 i 2245 oraz z 2019 r. poz. 534, 730 i 761.) wprowadza się następujące zmiany:
 
 - **1)** w art. 69 dodaje się ust. 8 w brzmieniu: „
 
@@ -329,11 +356,11 @@ source: "eli-html"
 - **4)** w art. 150 w ust. 2 w pkt 4 lit. h otrzymuje brzmienie: „ orzeczenie lekarskie o stanie zdrowia umożliwiającym podjęcie nauki w szkole lub oddziale wydane przez lekarza podstawowej opieki zdrowotnej, ” .
     - **h)**
 
-#### Rozdział 9 Przepisy przejściowe, dostosowujące i końcowe
+#### Rozdział 9
 
 **Art. 31.** Pielęgniarką środowiska nauczania i wychowania może być również pielęgniarka, która ukończyła lub odbywa kurs kwalifikacyjny w dziedzinie pielęgniarstwa rodzinnego lub pediatrycznego, z tym że w okresie 5 lat od wejścia w życie ustawy jest ona obowiązana do ukończenia kursu kwalifikacyjnego w dziedzinie pielęgniarstwa środowiska nauczania i wychowania.
 
 **Art. 32.** Obowiązujące w dniu wejścia w życie ustawy umowy o udzielanie świadczeń opieki zdrowotnej zawarte przez Narodowy Fundusz Zdrowia z podmiotami sprawującymi profilaktyczną opiekę zdrowotną nad uczniami oraz podmiotami udzielającymi świadczeń zdrowotnych w dentobusach, w zakresie, w jakim dotyczą tej opieki lub tych świadczeń, zachowują ważność przez okres, na jaki zostały zawarte.
 
-**Art. 33.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 30 pkt 3 i 4, które wchodzą w życie z dniem 1 stycznia 2020 r.
+**Art. 33.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 30 pkt 3 i 4, które wchodzą w życie z dniem 1 stycznia 2020 r. 1) Niniejszą ustawą zmienia się ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1290, 1669 i 2245 oraz z 2019 r. poz. 534, 730 i 761. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399, 447, 730 i 752. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1524, z 2018 r. poz. 1115, 1515, 2219 i 2429 oraz z 2019 r. poz. 150, 447 i 730. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399, 447, 730 i 752. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1290, 1669 i 2245 oraz z 2019 r. poz. 534, 730 i 761.
 

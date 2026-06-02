@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 maja 2023 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz niektórych innych ustaw
+# Ustawa z dnia 26 maja 2023 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 15 kwietnia 2021 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-05-29 |
 | Data wydania | 2023-06-26 |
-| Wejście w życie | 2023-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001193) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1193/text.pdf) |
 
@@ -58,12 +57,12 @@ source: "eli-html"
 
 - **1)** Szefa KAS lub
 - **2)** organu Krajowej Administracji Skarbowej wyznaczonego na podstawie art. 13hb ust. 1bc ustawy z dnia 21 marca 1985 r. o drogach publicznych, lub
-- **3)** jednostki, o której mowa w art. 13hb ust. 1ja ustawy z dnia 21 marca 1985 r. o drogach publicznych dokonuje wypłat ze środków Funduszu na cele, o których mowa w art. 39f ust. 1 pkt 5, pkt 6 lit. b i pkt 9. ” ;
-- **9)** w art. 39l: w ust. 1 w pkt 1 skreśla się wyrazy „7 i”, w ust. 2: – w pkt 1 skreśla się wyrazy „, oraz opłat za przejazd autostradą”, – w pkt 2 skreśla się wyrazy „7 i”, – w pkt 3: – – w lit. a skreśla się wyrazy „oraz opłat za przejazd autostradą pobieranych przez Szefa KAS,”, – – w lit. b skreśla się wyrazy „7 i”.
+- **3)** jednostki, o której mowa w art. 13hb ust. 1ja ustawy z dnia 21 marca 1985 r. o drogach publicznych – dokonuje wypłat ze środków Funduszu na cele, o których mowa w art. 39f ust. 1 pkt 5, pkt 6 lit. b i pkt 9. ” ;
+- **9)** w art. 39l: w ust. 1 w pkt 1 skreśla się wyrazy „7 i”, w ust. 2: – w pkt 1 skreśla się wyrazy „, oraz opłat za przejazd autostradą”, – w pkt 2 skreśla się wyrazy „7 i”, w pkt 3: – – w lit. a skreśla się wyrazy „oraz opłat za przejazd autostradą pobieranych przez Szefa KAS,”, – – w lit. b skreśla się wyrazy „7 i”.
     - **a)**
     - **b)**
 
-**Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614, 852, 1059 i 1130.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3a: w § 1: – we wprowadzeniu do wyliczenia skreśla się wyrazy „oraz opłat dodatkowych”, – uchyla się pkt 4a, w § 2 w pkt 1 skreśla się wyrazy „w wezwaniu do wniesienia opłaty dodatkowej,”, uchyla się § 3;
     - **a)**
@@ -98,7 +97,7 @@ source: "eli-html"
 1. Minister właściwy do spraw transportu sporządza sprawozdanie zawierające:
 
 - **1)** liczbę zapytań krajowych dotyczących naruszeń obowiązku uiszczenia opłaty elektronicznej wraz z podaniem liczby zapytań krajowych, które nie skutkowały przekazaniem przez krajowe punkty kontaktowe innych państw członkowskich Unii Europejskiej informacji, o których mowa w art. 13ma ust. 1 pkt 1 lit. a oraz pkt 2,
-- **2)** opis procedowania z naruszeniami obowiązku uiszczenia opłaty elektronicznej, który jest sporządzany w oparciu o stosunek liczby naruszeń, w odniesieniu do których skierowano zawiadomienie, o którym mowa w art. 13me ust. 1 pkt 1, do liczby wszystkich naruszeń, w odniesieniu do których Główny Inspektor Transportu Drogowego był uprawniony do wysłania tego zawiadomienia, z uwzględnieniem art. 13mf ust. 2 zwane dalej „sprawozdaniem KPK”. ” ;
+- **2)** opis procedowania z naruszeniami obowiązku uiszczenia opłaty elektronicznej, który jest sporządzany w oparciu o stosunek liczby naruszeń, w odniesieniu do których skierowano zawiadomienie, o którym mowa w art. 13me ust. 1 pkt 1, do liczby wszystkich naruszeń, w odniesieniu do których Główny Inspektor Transportu Drogowego był uprawniony do wysłania tego zawiadomienia, z uwzględnieniem art. 13mf ust. 2 – zwane dalej „sprawozdaniem KPK”. ” ;
 - **10)** w art. 13me: w ust. 1 uchyla się pkt 2, w ust. 2: – w pkt 1 skreśla się wyrazy „albo naruszył obowiązek wniesienia elektronicznej opłaty autostradowej”, – uchyla się pkt 3, – w pkt 4 skreśla się wyrazy „albo naruszenie obowiązku wniesienia autostradowej opłaty dodatkowej”, – w pkt 5 wyrazy „pkt 2–4” zastępuje się wyrazami „pkt 2 i 4”, w ust. 5 uchyla się pkt 2;
     - **a)**
     - **b)**
@@ -111,8 +110,10 @@ source: "eli-html"
 
 2. Odpowiednio Generalny Dyrektor Dróg Krajowych i Autostrad albo spółka, o której mowa w art. 37a ust. 1a pkt 2 albo 3 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, w terminie 21 dni od dnia złożenia wniosku, o którym mowa w ust. 1, uzgadnia z Szefem KAS zmianę organizacji ruchu drogowego, biorąc pod uwagę zapewnienie bezpieczeństwa ruchu drogowego, prawidłowość poboru opłaty elektronicznej oraz właściwe poinformowanie o zmianach korzystających z dróg publicznych. ” ;
 
-- **13)** w art. 16i: w ust. 1: – w pkt 1 skreśla się wyrazy „oraz elektroniczną opłatę autostradową”, – pkt 4 otrzymuje brzmienie: „ 4) współpracować z podmiotami uprawnionymi do kontroli prawidłowości uiszczenia opłaty elektronicznej, w tym niezwłocznie przekazywać tym podmiotom, na ich żądanie, za pośrednictwem środków komunikacji elektronicznej, dane użytkowników EETS naruszających obowiązki uiszczenia opłaty elektronicznej oraz dane pojazdu stanowiącego własność użytkownika EETS lub znajdującego się w jego posiadaniu; ” , w ust. 6 w pkt 2: – w lit. a skreśla się wyrazy „albo obowiązek wniesienia elektronicznej opłaty autostradowej”, – uchyla się lit. b;
+- **13)** w art. 16i: w ust. 1: – w pkt 1 skreśla się wyrazy „oraz elektroniczną opłatę autostradową”, pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** współpracować z podmiotami uprawnionymi do kontroli prawidłowości uiszczenia opłaty elektronicznej, w tym niezwłocznie przekazywać tym podmiotom, na ich żądanie, za pośrednictwem środków komunikacji elektronicznej, dane użytkowników EETS naruszających obowiązki uiszczenia opłaty elektronicznej oraz dane pojazdu stanowiącego własność użytkownika EETS lub znajdującego się w jego posiadaniu; ” , w ust. 6 w pkt 2: – w lit. a skreśla się wyrazy „albo obowiązek wniesienia elektronicznej opłaty autostradowej”, – uchyla się lit. b;
     - **b)**
 
 - **14)** w art. 16j: w ust. 1 skreśla się wyrazy „oraz elektroniczną opłatę autostradową”, w ust. 2 skreśla się wyrazy „oraz elektronicznej opłaty autostradowej,”, w ust. 4 skreśla się wyrazy „oraz elektroniczna opłata autostradowa,”;
@@ -145,7 +146,7 @@ source: "eli-html"
 
 - **3)** w art. 80ra skreśla się wyrazy „oraz naruszeń obowiązku wnoszenia opłaty za przejazd autostradą na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2022 r. poz. 2483 i 2707 oraz z 2023 r. poz. 760)”.
 
-**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.) w art. 138d w § 1a skreśla się wyrazy „opłatą za przejazd autostradą w rozumieniu ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2022 r. poz. 659, 1079, 1726 i 1768) lub”.
+**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556, 614 i 1059.) w art. 138d w § 1a skreśla się wyrazy „opłatą za przejazd autostradą w rozumieniu ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2022 r. poz. 659, 1079, 1726 i 1768) lub”.
 
 **Art. 6.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201 oraz z 2023 r. poz. 760, 919 i 1123) wprowadza się następujące zmiany:
 
@@ -160,7 +161,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-**Art. 7.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996 i 1059.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w ust. 1 uchyla się pkt 16e;
 - **2)** w art. 14 w ust. 1 uchyla się pkt 20c;
@@ -197,5 +198,5 @@ source: "eli-html"
 
 3. Uzgodnienie, o którym mowa w ust. 2, następuje w terminie 7 dni od dnia przedstawienia przez Bank Gospodarstwa Krajowego projektu zmiany planu, o którym mowa w ust. 1.
 
-**Art. 16.** Ustawa wchodzi w życie z dniem 1 lipca 2023 r.
+**Art. 16.** Ustawa wchodzi w życie z dniem 1 lipca 2023 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 15 kwietnia 2021 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614, 852, 1059 i 1130. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556, 614 i 1059. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996 i 1059.
 

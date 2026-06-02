@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 21 stycznia 2015 r. w sprawie sposobu ustalania sumy zawartości ołowiu, kadmu, rtęci i chromu sześciowartościowego w opakowaniach
+# Rozporządzenie Ministra Środowiskaz dnia 21 stycznia 2015 r. w sprawie sposobu ustalania sumy zawartości ołowiu, kadmu, rtęci i chromu sześciowartościowego w opakowaniach Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 września 2014 r. pod numerem 2014/0504/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-01-21 |
 | Data wydania | 2015-01-30 |
-| Wejście w życie | 2015-01-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000170) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/170/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 11 ust. 5 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. poz. 888) zarządza się, co następuje:
+Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia art. 11 dyrektywy 94/62/WE Parlamentu Europejskiego i Rady z dnia 20 grudnia 1994 r. w sprawie opakowań i odpadów opakowaniowych (Dz. Urz. WE L 365 z 31.12.1994, str. 10; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 13, str. 349). Na podstawie art. 11 ust. 5 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. poz. 888) zarządza się, co następuje:
 § 1.
 Ustalanie sumy zawartości ołowiu, kadmu, rtęci i chromu sześciowartościowego w opakowaniach następuje na podstawie badań laboratoryjnych opakowań lub materiałów wykorzystanych do produkcji opakowań, wykonywanych przez laboratorium akredytowane przez odpowiednią dla danego rodzaju laboratorium jednostkę akredytującą lub przez laboratorium z wdrożonym systemem jakości w zakresie badania zawartości metali w opakowaniach lub w materiałach wykorzystanych do ich produkcji.
 § 2.
@@ -56,5 +55,5 @@ wyniki i datę przeprowadzenia badań;
 6)
 podpis osoby wykonującej badania.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 8 kwietnia 2003 r. w sprawie sposobu ustalenia sumy zawartości ołowiu, kadmu, rtęci i chromu sześciowartościowego w opakowaniach (Dz. U. Nr 66, poz. 619), które zgodnie z art. 81 pkt 3 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. poz. 888) utraciło moc z dniem 2 stycznia 2015 r. 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 września 2014 r. pod numerem 2014/0504/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337). 3) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia art. 11 dyrektywy 94/62/WE Parlamentu Europejskiego i Rady z dnia 20 grudnia 1994 r. w sprawie opakowań i odpadów opakowaniowych (Dz. Urz. WE L 365 z 31.12.1994, str. 10; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 13, str. 349). 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 8 kwietnia 2003 r. w sprawie sposobu ustalenia sumy zawartości ołowiu, kadmu, rtęci i chromu sześciowartościowego w opakowaniach (Dz. U. Nr 66, poz. 619), które zgodnie z art. 81 pkt 3 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. poz. 888) utraciło moc z dniem 2 stycznia 2015 r.
 

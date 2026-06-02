@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 21 grudnia 2016 r. zmieniające rozporządzenie w sprawie przekazywania staroście informacji o naruszeniach przepisów ruchu drogowego przez osoby szkolone w ośrodku szkolenia kierowców
+# Rozporządzenie Ministra Cyfryzacjiz dnia 21 grudnia 2016 r. zmieniające rozporządzenie w sprawie przekazywania staroście informacji o naruszeniach przepisów ruchu drogowego przez osoby szkolone w ośrodku szkolenia kierowców Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-21 |
 | Data wydania | 2016-12-29 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002219) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2219/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 48a ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2016 r. poz. 627, 904, 1241, 1579, 1948 i 2001) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Cyfryzacji z dnia 9 sierpnia 2016 r. w sprawie przekazywania staroście informacji o naruszeniach przepisów ruchu drogowego przez osoby szkolone w ośrodku szkolenia kierowców (Dz. U. poz. 1274) § 5 i 6 otrzymują brzmienie:
-„
+W rozporządzeniu Ministra Cyfryzacji z dnia 9 sierpnia 2016 r. w sprawie przekazywania staroście informacji o naruszeniach przepisów ruchu drogowego przez osoby szkolone w ośrodku szkolenia kierowców (Dz. U. poz. 1274) § 5 i 6 otrzymują brzmienie: „
 § 5.
 Informację udostępnia się po raz pierwszy:
 1)
@@ -42,9 +40,7 @@ w przypadku informacji sporządzanej za okres półroczny – w dniu 7 stycznia 
 4)
 w przypadku informacji sporządzanej za okres roczny – w dniu 7 stycznia 2020 r., za poprzedni rok kalendarzowy.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
 

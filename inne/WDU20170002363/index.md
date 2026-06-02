@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 8 grudnia 2017 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań dotyczących programów ochrony w lotnictwie cywilnym
+# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 8 grudnia 2017 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań dotyczących programów ochrony w lotnictwie cywilnym Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-08 |
 | Data wydania | 2017-12-18 |
-| Wejście w życie | 2018-01-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002363) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2363/text.pdf) |
 
@@ -33,16 +32,13 @@ Na podstawie art. 189 ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (D
 § 1.
 W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 15 marca 2013 r. w sprawie szczegółowych wymagań dotyczących programów ochrony w lotnictwie cywilnym (Dz. U. z 2016 r. poz. 1679) wprowadza się następujące zmiany:
 1)
-w § 3 dodaje się pkt 9 w brzmieniu:
-„
+w § 3 dodaje się pkt 9 w brzmieniu: „
 9)
-znanego nadawcy określa załącznik nr 9 do rozporządzenia.
-” ;
+znanego nadawcy określa załącznik nr 9 do rozporządzenia. ” ;
 2)
 dodaje się załącznik nr 9 do rozporządzenia w brzmieniu określonym w załączniku do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076).
 Załącznik – Szczegółowe wymagania programu ochrony znanego nadawcy
 1.
 Zagadnienia ogólne

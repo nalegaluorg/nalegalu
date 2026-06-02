@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Zdrowiaz dnia 2 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie nadania statutu Narodowemu Funduszowi Zdrowia
+# Obwieszczenie Ministra Zdrowiaz dnia 2 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie nadania statutu Narodowemu Funduszowi Zdrowia Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -27,29 +27,26 @@ source: "eli-html"
 
 Treść obwieszczenia
 Załącznik – Rozporządzenie Ministra Zdrowia z dnia 11 grudnia 2014 r. w sprawie nadania statutu Narodowemu Funduszowi Zdrowia
-Załącznik – Statut Narodowego Funduszu Zdrowia Rozdział 1 – Postanowienia ogólne Rozdział 2 – Struktura organizacyjna Funduszu
+Załącznik – Statut Narodowego Funduszu Zdrowia
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 11 grudnia 2014 r. w sprawie nadania statutu Narodowemu Funduszowi Zdrowia (Dz. U. z 2023 r. poz. 349), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 18 sierpnia 2023 r. zmieniającym rozporządzenie w sprawie nadania statutu Narodowemu Funduszowi Zdrowia (Dz. U. poz. 1736).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 18 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie nadania statutu Narodowemu Funduszowi Zdrowia (Dz. U. poz. 1736), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 18 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie nadania statutu Narodowemu Funduszowi Zdrowia (Dz. U. poz. 1736), które stanowią: „
 § 2.
 Regulaminy organizacyjne centrali Narodowego Funduszu Zdrowia i oddziałów wojewódzkich Narodowego Funduszu Zdrowia nadane na podstawie dotychczasowych przepisów zachowują moc do czasu nadania regulaminów organizacyjnych centrali Narodowego Funduszu Zdrowia i oddziałów wojewódzkich Narodowego Funduszu Zdrowia na podstawie rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, nie dłużej jednak niż przez 30 dni od dnia wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 11 grudnia 2014 r. w sprawie nadania statutu Narodowemu Funduszowi Zdrowia
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 11 grudnia 2014 r. w sprawie nadania statutu Narodowemu Funduszowi ZdrowiaNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – zdrowie kieruje Minister Zdrowia, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 Na podstawie art. 96 ust. 8 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146 i 858) zarządza się, co następuje:
 § 1.
 Narodowemu Funduszowi Zdrowia nadaje się statut, stanowiący załącznik do rozporządzenia.
 § 2.
 Regulaminy organizacyjne centrali Narodowego Funduszu Zdrowia i oddziałów wojewódzkich Narodowego Funduszu Zdrowia nadane na podstawie dotychczasowych przepisów zachowują moc do czasu nadania regulaminów organizacyjnych centrali Narodowego Funduszu Zdrowia i oddziałów wojewódzkich Narodowego Funduszu Zdrowia na podstawie niniejszego rozporządzenia, nie dłużej jednak niż do dnia 31 marca 2015 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – zdrowie kieruje Minister Zdrowia, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 29 września 2004 r. w sprawie nadania statutu Narodowemu Funduszowi Zdrowia (Dz. U. poz. 2161, z 2005 r. poz. 1542, z 2007 r. poz. 147 oraz z 2010 r. poz. 546), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, w związku z wejściem w życie ustawy z dnia 22 lipca 2014 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1138 i 1491).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 29 września 2004 r. w sprawie nadania statutu Narodowemu Funduszowi Zdrowia (Dz. U. poz. 2161, z 2005 r. poz. 1542, z 2007 r. poz. 147 oraz z 2010 r. poz. 546), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, w związku z wejściem w życie ustawy z dnia 22 lipca 2014 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1138 i 1491). 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – zdrowie kieruje Minister Zdrowia, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 29 września 2004 r. w sprawie nadania statutu Narodowemu Funduszowi Zdrowia (Dz. U. poz. 2161, z 2005 r. poz. 1542, z 2007 r. poz. 147 oraz z 2010 r. poz. 546), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, w związku z wejściem w życie ustawy z dnia 22 lipca 2014 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1138 i 1491).
 Załącznik – Statut Narodowego Funduszu Zdrowia
+Postanowienia ogólne
 § 1.
 Zakres działania organów Narodowego Funduszu Zdrowia, zwanego dalej „Funduszem”, określają przepisy ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwanej dalej „ustawą”, oraz niniejszego statutu.
 § 2.
@@ -92,6 +89,7 @@ przygotowywanie sprawozdań i informacji dotyczących prac podległych komórek 
 wykonywanie innych poleceń Prezesa Funduszu.
 2.
 Zastępcy Prezesa Funduszu podejmują rozstrzygnięcia w zakresie powierzonych im spraw.
+Struktura organizacyjna Funduszu
 § 4.
 1.
 W skład centrali Funduszu wchodzą następujące komórki organizacyjne:
@@ -113,7 +111,7 @@ Departament Świadczeń Opieki Zdrowotnej;
 Departament Gospodarki Lekami;
 9)
 (uchylony);
-10)
+10W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Zdrowia z dnia 18 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie nadania statutu Narodowemu Funduszowi Zdrowia (Dz. U. poz. 1736), które weszło w życie z dniem 14 września 2023 r.)
 Biuro Partnerstwa Publicznego i Innowacji;
 11)
 Departament do Spraw Służb Mundurowych;
@@ -145,7 +143,7 @@ Departament Obsługi Klientów i Profilaktyki;
 (uchylony);
 25)
 Biuro Bezpieczeństwa Informacji i Ciągłości Działania;
-26)
+26Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3.)
 Departament Analiz, Monitorowania Jakości i Optymalizacji Świadczeń.
 2.
 Szczegółowy zakres zadań komórek organizacyjnych centrali Funduszu, w szczególności podział nadrzędności nad tymi komórkami pomiędzy Prezesem Funduszu i zastępcami Prezesa Funduszu, określa regulamin organizacyjny nadany przez Prezesa Funduszu.
@@ -229,7 +227,7 @@ Wydział Administracyjno-Gospodarczy;
 17)
 (uchylony);
 18)
-(uchylony);
+(uchylony);Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.
 19)
 Zespół Bezpieczeństwa Informacji i Ciągłości Działania;
 20)
@@ -264,10 +262,14 @@ Komórki organizacyjne, o których mowa w ust. 1 i 2, mogą być tworzone odpowi
 Szczegółową organizację oddziałów wojewódzkich Funduszu oraz zakres ich zadań określają regulaminy organizacyjne nadane przez dyrektorów oddziałów wojewódzkich Funduszu, po uzyskaniu pozytywnej opinii Prezesa Funduszu.
 2.
 Nadzór merytoryczny nad realizacją zadań w centrach usług wspólnych sprawują dyrektorzy komórek organizacyjnych, o których mowa w § 4 ust. 1, właściwych dla danej sprawy.
-3.
-Nadzór merytoryczny nad realizacją zadań w punktach obsługi klientów sprawuje dyrektor Departamentu Obsługi Klientów i Profilaktyki.
+3W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3..
+Nadzór merytoryczny nad realizacją zadań w punktach obsługi klientów sprawuje dyrektor Departamentu Obsługi Klientów i Profilaktyki. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Zdrowia z dnia 18 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie nadania statutu Narodowemu Funduszowi Zdrowia (Dz. U. poz. 1736), które weszło w życie z dniem 14 września 2023 r. 4) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 5) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3.
 
-#### Rozdział 1 Postanowienia ogólne
+#### Rozdział 1 – Postanowienia ogólne
 
-#### Rozdział 2 Struktura organizacyjna Funduszu
+#### Rozdział 2 – Struktura organizacyjna Funduszu
+
+#### Rozdział 1
+
+#### Rozdział 2
 

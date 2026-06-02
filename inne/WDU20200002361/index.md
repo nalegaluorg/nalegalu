@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 17 grudnia 2020 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw
+# Ustawa z dnia 17 grudnia 2020 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 grudnia 2012 r. o odpadach, ustawę z dnia 4 lipca 2019 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw, ustawę z dnia 19 lipca 2019 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-17 |
 | Data wydania | 2020-12-28 |
-| Wejście w życie | 2020-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002361) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2361/text.pdf) |
 
@@ -68,7 +67,8 @@ source: "eli-html"
 
 - **1)** przygotowania do ponownego użycia i recyklingu określonych w art. 3aa albo art. 3b ust. 1;
 - **2)** ograniczenia masy odpadów komunalnych ulegających biodegradacji przekazywanych do składowania określonych w przepisach wydanych na podstawie art. 3c ust. 2 pkt 1. ” ;
-- **4)** w art. 9q: w ust. 3 w pkt 5: – lit. a otrzymuje brzmienie: „ a) przygotowania do ponownego użycia i recyklingu odpadów komunalnych, ” , – uchyla się lit. b, w ust. 4 wyrazy „art. 3b i art. 3c” zastępuje się wyrazami „art. 3aa-3c”;
+- **4)** w art. 9q: w ust. 3 w pkt 5: lit. a otrzymuje brzmienie: „ przygotowania do ponownego użycia i recyklingu odpadów komunalnych, ” , – uchyla się lit. b, w ust. 4 wyrazy „art. 3b i art. 3c” zastępuje się wyrazami „art. 3aa-3c”;
+    - **a)**
     - **a)**
     - **b)**
 
@@ -86,8 +86,10 @@ source: "eli-html"
 
 - **8)** w art. 9y w ust. 2 pkt 1 otrzymuje brzmienie: „
 - **1)** przygotowania do ponownego użycia i recyklingu; ” ;
-- **9)** w art. 9z: w ust. 2: – wprowadzenie do wyliczenia i pkt 1 otrzymują brzmienie: „ Gmina, która nie wykonuje obowiązku, o którym mowa w art. 3aa – podlega karze pieniężnej obliczonej odrębnie dla wymaganego poziomu: 1) przygotowania do ponownego użycia i recyklingu odpadów komunalnych; ” , – w pkt 2 średnik zastępuje się kropką i uchyla się pkt 3, po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **9)** w art. 9z: w ust. 2: wprowadzenie do wyliczenia i pkt 1 otrzymują brzmienie: „ Gmina, która nie wykonuje obowiązku, o którym mowa w art. 3aa – podlega karze pieniężnej obliczonej odrębnie dla wymaganego poziomu:
     - **a)**
+
+- **1)** przygotowania do ponownego użycia i recyklingu odpadów komunalnych; ” , – w pkt 2 średnik zastępuje się kropką i uchyla się pkt 3, po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. Gmina, która nie wykonuje obowiązku, o którym mowa w art. 3b lub art. 3c – podlega karze pieniężnej obliczonej odrębnie dla wymaganego poziomu:
@@ -132,11 +134,11 @@ source: "eli-html"
 
 **Art. 4.** W ustawie z dnia 19 lipca 2019 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw (Dz. U. poz. 1579 oraz z 2020 r. poz. 568, 695 i 875) w art. 18 uchyla się ust. 5.
 
-**Art. 5.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.) uchyla się art. 31zzc.
+**Art. 5.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327 i 2338.) uchyla się art. 31zzc.
 
 **Art. 6.** Do obliczania poziomów, o których mowa w art. 3aa ustawy zmienianej w art. 1, stosuje się sposób określony w przepisach wykonawczych wydanych na podstawie art. 3b ust. 2 ustawy zmienianej w art. 1 w brzmieniu obowiązującym przed dniem wejścia w życie ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw (Dz. U. poz. 1579 oraz z 2020 r. poz. 568, 695 i 875).
 
 **Art. 7.** Do sprawozdań, o których mowa w art. 9q ust. 1 i art. 9s ust. 1 ustawy zmienianej w art. 1, dotyczących roku 2020, stosuje się przepisy dotychczasowe.
 
-**Art. 8.** Ustawa wchodzi w życie z dniem 31 grudnia 2020 r.
+**Art. 8.** Ustawa wchodzi w życie z dniem 31 grudnia 2020 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 grudnia 2012 r. o odpadach, ustawę z dnia 4 lipca 2019 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw, ustawę z dnia 19 lipca 2019 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327 i 2338.
 

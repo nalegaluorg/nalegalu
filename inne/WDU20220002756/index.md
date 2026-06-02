@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-20 |
 | Data wydania | 2022-12-23 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002756) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2756/text.pdf) |
 
@@ -42,8 +41,7 @@ audiowizualnej,
 2)
 wizualnej,
 3)
-dźwiękowej
-zawiera informację o następującej treści: „Materiał promocyjny został sfinansowany/współfinansowany ze środków finansowych pochodzących z 1,5% podatku dochodowego od osób fizycznych.”.
+dźwiękowej – zawiera informację o następującej treści: „Materiał promocyjny został sfinansowany/współfinansowany ze środków finansowych pochodzących z 1,5% podatku dochodowego od osób fizycznych.”.
 2.
 Informację, o której mowa w ust. 1, w zakresie formy, o której mowa w ust. 1 pkt 1:
 1)
@@ -82,5 +80,5 @@ Do informacji, o której mowa w ust. 1, umieszczanej na opakowaniu programu komp
 § 5.
 Do dnia 30 kwietnia 2023 r. na materiałach promocyjnych, o których mowa w § 2 ust. 1 i § 3, zamieszcza się informacje o treści określonej odpowiednio w § 2 ust. 1 i § 3 rozporządzenia Przewodniczącego Komitetu do spraw Pożytku Publicznego z dnia 24 października 2018 r. w sprawie zamieszczenia informacji przez organizację pożytku publicznego z zakresu 1% podatku dochodowego od osób fizycznych (Dz. U. poz. 2053).
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Przewodniczącego Komitetu do spraw Pożytku Publicznego z dnia 24 października 2018 r. w sprawie zamieszczenia informacji przez organizację pożytku publicznego z zakresu 1% podatku dochodowego od osób fizycznych (Dz. U. poz. 2053), które na podstawie art. 7 ustawy z dnia 9 czerwca 2022 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw (Dz. U. poz. 1265, 1964 i 2180) traci moc z dniem 1 stycznia 2023 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Przewodniczącego Komitetu do spraw Pożytku Publicznego z dnia 24 października 2018 r. w sprawie zamieszczenia informacji przez organizację pożytku publicznego z zakresu 1% podatku dochodowego od osób fizycznych (Dz. U. poz. 2053), które na podstawie art. 7 ustawy z dnia 9 czerwca 2022 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw (Dz. U. poz. 1265, 1964 i 2180) traci moc z dniem 1 stycznia 2023 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju, Pracy i Technologiiz dnia 14 grudnia 2020 r. w sprawie sposobu ustalania nadwyżki środków finansowych Polskiej Agencji Kosmicznej
+# Rozporządzenie Ministra Rozwoju, Pracy i Technologiiz dnia 14 grudnia 2020 r. w sprawie sposobu ustalania nadwyżki środków finansowych Polskiej Agencji Kosmicznej Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-14 |
 | Data wydania | 2020-12-29 |
-| Wejście w życie | 2020-12-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002392) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2392/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 22 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 22 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695, 1175 i 2320.) zarządza się, co następuje:
 § 1.
 1.
 Nadwyżkę środków finansowych Polskiej Agencji Kosmicznej, zwanej dalej „Agencją”, stanowią środki finansowe pochodzące ze źródeł, o których mowa w ust. 2, niewykorzystane do dnia 31 grudnia danego roku budżetowego.
@@ -62,6 +61,5 @@ zobowiązania z tytułu odpisów na zakładowy fundusz świadczeń socjalnych;
 5)
 inne zobowiązania wymagalne z terminem płatności do dnia 31 marca roku następnego, z wyłączeniem zobowiązań związanych ze środkami pieniężnymi nieuwzględnionymi przy ustalaniu nadwyżki.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695, 1175 i 2320.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695, 1175 i 2320.
 

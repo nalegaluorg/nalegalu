@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 7 lutego 2019 r. w sprawie należności za podróże służbowe i należności przysługujących z tytułu delegowania do czasowego pełnienia służby w innej miejscowości albo związanych z wykonywaniem zadań w zakresie ochrony placówek zagranicznych Rzeczypospolitej Polskiej, a także świadczeń związanych z wykonywaniem tych zadań
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 7 lutego 2019 r. w sprawie należności za podróże służbowe i należności przysługujących z tytułu delegowania do czasowego pełnienia służby w innej miejscowości albo związanych z wykonywaniem zadań w zakresie ochrony placówek zagranicznych Rzeczypospolitej Polskiej, a także świadczeń związanych z wykonywaniem tych zadań Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-07 |
 | Data wydania | 2019-02-08 |
-| Wejście w życie | 2019-02-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000248) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/248/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 172 ust. 4 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 172 ust. 4 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 730, 1544, 1562, 1669, 2245 i 2399 oraz z 2019 r. poz. 125.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa wysokość i tryb przyznawania należności za podróże służbowe i należności przysługujących z tytułu delegowania do czasowego pełnienia służby w innej miejscowości albo związanych z wykonywaniem zadań, o których mowa w art. 4 ust. 8 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, zwanej dalej „ustawą”, w tym sposób ich wypłaty, oraz świadczenia związane z wykonywaniem zadań, o których mowa w art. 4 ust. 8 ustawy.
 § 2.
@@ -42,7 +41,7 @@ funkcjonariusz – funkcjonariusza SOP;
 przełożony – bezpośredniego przełożonego funkcjonariusza.
 § 3.
 1.
-Funkcjonariusz odbywający podróż służbową na obszarze kraju, zwaną dalej „krajową podróżą służbową”, otrzymuje dietę, o której mowa w art. 172 ust. 3 pkt 1 ustawy, w wysokości określonej dla diety przysługującej w czasie podróży krajowej w przepisach wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.), zwanej dalej „Kodeksem pracy”, za każdą dobę krajowej podróży służbowej liczoną od wyjazdu ze stałego miejsca pełnienia służby do powrotu do tego miejsca.
+Funkcjonariusz odbywający podróż służbową na obszarze kraju, zwaną dalej „krajową podróżą służbową”, otrzymuje dietę, o której mowa w art. 172 ust. 3 pkt 1 ustawy, w wysokości określonej dla diety przysługującej w czasie podróży krajowej w przepisach wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432.), zwanej dalej „Kodeksem pracy”, za każdą dobę krajowej podróży służbowej liczoną od wyjazdu ze stałego miejsca pełnienia służby do powrotu do tego miejsca.
 2.
 Wysokość diety, o której mowa w ust. 1, jeżeli krajowa podróż służbowa trwa:
 1)
@@ -50,15 +49,13 @@ nie dłużej niż dobę i wynosi:
 a)
 od 8 do 12 godzin – stanowi 50%,
 b)
-ponad 12 godzin – stanowi 100%
-diety przysługującej w czasie podróży krajowej określonej w przepisach wydanych na podstawie art. 775 § 2 Kodeksu pracy;
+ponad 12 godzin – stanowi 100% – diety przysługującej w czasie podróży krajowej określonej w przepisach wydanych na podstawie art. 775 § 2 Kodeksu pracy;
 2)
 dłużej niż dobę, a niepełna, ale rozpoczęta doba wynosi:
 a)
 do 8 godzin – stanowi 50%,
 b)
-ponad 8 godzin – stanowi 100%
-diety przysługującej w czasie podróży krajowej określonej w przepisach wydanych na podstawie art. 775 § 2 Kodeksu pracy.
+ponad 8 godzin – stanowi 100% – diety przysługującej w czasie podróży krajowej określonej w przepisach wydanych na podstawie art. 775 § 2 Kodeksu pracy.
 3.
 Wysokość diety, o której mowa w ust. 1 i 2, zmniejsza się o koszty zapewnionego bezpłatnego wyżywienia, przyjmując, że każdy posiłek stanowi odpowiednio:
 1)
@@ -66,8 +63,7 @@ Wysokość diety, o której mowa w ust. 1 i 2, zmniejsza się o koszty zapewnion
 2)
 obiad – 50%,
 3)
-kolacja – 25%
-diety przysługującej w czasie podróży krajowej określonej w przepisach wydanych na podstawie art. 775§ 2 Kodeksu pracy.
+kolacja – 25% – diety przysługującej w czasie podróży krajowej określonej w przepisach wydanych na podstawie art. 775§ 2 Kodeksu pracy.
 4.
 W przypadku korzystania przez funkcjonariusza z usługi hotelarskiej, w ramach której zapewniono wyżywienie, przepisy ust. 3 stosuje się odpowiednio.
 § 4.
@@ -86,15 +82,13 @@ do 8 godzin – stanowi 33,33%,
 2)
 ponad 8 do 12 godzin – stanowi 50%,
 3)
-ponad 12 godzin – stanowi 100%
-diety przysługującej w czasie podróży zagranicznej do danego państwa docelowego określonej w przepisach wydanych na podstawie art. 775§ 2 Kodeksu pracy.
+ponad 12 godzin – stanowi 100% – diety przysługującej w czasie podróży zagranicznej do danego państwa docelowego określonej w przepisach wydanych na podstawie art. 775§ 2 Kodeksu pracy.
 3.
 Wysokość diety, o której mowa w ust. 1, jeżeli:
 1)
 funkcjonariuszowi zapewniono bezpłatne całodzienne wyżywienie,
 2)
-funkcjonariusz przebywa w szpitalu lub innym zakładzie leczniczym
-stanowi 25% diety przysługującej w czasie podróży zagranicznej do danego państwa docelowego określonej w przepisach wydanych na podstawie art. 775§ 2 Kodeksu pracy.
+funkcjonariusz przebywa w szpitalu lub innym zakładzie leczniczym – stanowi 25% diety przysługującej w czasie podróży zagranicznej do danego państwa docelowego określonej w przepisach wydanych na podstawie art. 775§ 2 Kodeksu pracy.
 4.
 Wysokość diety, o której mowa w ust. 1 i 2, zmniejsza się o koszty zapewnionego bezpłatnego wyżywienia, przyjmując, że każdy posiłek stanowi odpowiednio:
 1)
@@ -102,8 +96,7 @@ Wysokość diety, o której mowa w ust. 1 i 2, zmniejsza się o koszty zapewnion
 2)
 obiad – 30%,
 3)
-kolacja – 30%
-diety przysługującej w czasie podróży zagranicznej do danego państwa docelowego określonej w przepisach wydanych na podstawie art. 775§ 2 Kodeksu pracy.
+kolacja – 30% – diety przysługującej w czasie podróży zagranicznej do danego państwa docelowego określonej w przepisach wydanych na podstawie art. 775§ 2 Kodeksu pracy.
 5.
 W przypadku korzystania przez funkcjonariusza wykonującego czynności służbowe w zagranicznej podróży służbowej z usługi hotelarskiej, w ramach której zapewniono wyżywienie, przepisy ust. 4 stosuje się odpowiednio.
 § 5.
@@ -169,6 +162,5 @@ b)
 § 18.
 Przepisy rozporządzenia w zakresie wysokości należności za podróże służbowe i należności przysługujących z tytułu delegowania do czasowego pełnienia służby w innej miejscowości albo związanych z wykonywaniem zadań, o których mowa w art. 4 ust. 8 ustawy, oraz świadczeń związanych z wykonywaniem zadań, o których mowa w art. 4 ust. 8 ustawy, mają zastosowanie od dnia 2 lutego 2019 r.
 § 19.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 730, 1544, 1562, 1669, 2245 i 2399 oraz z 2019 r. poz. 125. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 2 grudnia 2002 r. w sprawie wysokości i warunków przyznawania funkcjonariuszom Biura Ochrony Rządu należności pieniężnych za podróże służbowe (Dz. U. poz. 1773 oraz z 2015 r. poz. 341), które utraciło moc na podstawie art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562, 1669, 2245 i 2399 oraz z 2019 r. poz. 125).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 2 grudnia 2002 r. w sprawie wysokości i warunków przyznawania funkcjonariuszom Biura Ochrony Rządu należności pieniężnych za podróże służbowe (Dz. U. poz. 1773 oraz z 2015 r. poz. 341), które utraciło moc na podstawie art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562, 1669, 2245 i 2399 oraz z 2019 r. poz. 125). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 730, 1544, 1562, 1669, 2245 i 2399 oraz z 2019 r. poz. 125. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 2 grudnia 2002 r. w sprawie wysokości i warunków przyznawania funkcjonariuszom Biura Ochrony Rządu należności pieniężnych za podróże służbowe (Dz. U. poz. 1773 oraz z 2015 r. poz. 341), które utraciło moc na podstawie art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562, 1669, 2245 i 2399 oraz z 2019 r. poz. 125).
 

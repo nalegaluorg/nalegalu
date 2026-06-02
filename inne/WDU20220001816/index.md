@@ -26,13 +26,12 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001816) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1816/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach Rozdział 1 – Przepisy ogólne Rozdział 2 – Prezes Biura do spraw Substancji Chemicznych Rozdział 3 Rozdział 4 – Badania substancji i mieszanin Rozdział 5 – Oznakowanie, obrót i stosowanie substancji i ich mieszanin Rozdział 6 – Przepisy o nadzorze Rozdział 7 – Przepisy karne Rozdział 8 – Zmiany w przepisach obowiązujących Rozdział 9 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2020 r. poz. 2289), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 listopada 2021 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw (Dz. U. poz. 2151) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 lipca 2022 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 19 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw (Dz. U. poz. 2151), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 19 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw (Dz. U. poz. 2151), które stanowią: „ 1) Niniejsza ustawa w zakresie swojej regulacji wdraża:
 1)
 dyrektywę 94/62/WE Parlamentu Europejskiego i Rady z dnia 20 grudnia 1994 r. w sprawie opakowań i odpadów opakowaniowych (Dz. Urz. WE L 365 z 31.12.1994, str. 10, Dz. Urz. UE L 284 z 31.10.2003, str. 1, Dz. Urz. UE L 47 z 18.02.2004, str. 26, Dz. Urz. UE L 70 z 16.03.2005, str. 17, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 37 z 08.02.2013, str. 10, Dz. Urz. UE L 115 z 06.05.2015, str. 11 oraz Dz. Urz. UE L 150 z 14.06.2018, str. 141);
 2)
@@ -40,16 +39,40 @@ dyrektywę Rady 1999/31/WE z dnia 26 kwietnia 1999 r. w sprawie składowania odp
 3)
 dyrektywę Parlamentu Europejskiego i Rady 2008/98/WE z dnia 19 listopada 2008 r. w sprawie odpadów oraz uchylającą niektóre dyrektywy (Dz. Urz. UE L 312 z 22.11.2008, str. 3, Dz. Urz. UE L 365 z 19.12.2014, str. 89, Dz. Urz. UE L 21 z 28.01.2015, str. 22, Dz. Urz. UE L 184 z 11.07.2015, str. 13, Dz. Urz. UE L 297 z 13.11.2015, str. 9, Dz. Urz. UE L 42 z 18.02.2017, str. 43, Dz. Urz. UE L 150 z 14.06.2017, str. 1 oraz Dz. Urz. UE L 150 z 14.06.2018, str. 109);
 4)
-dyrektywę Parlamentu Europejskiego i Rady 2012/19/UE z dnia 4 lipca 2012 r. w sprawie zużytego sprzętu elektrycznego i elektronicznego (WEEE) (Dz. Urz. UE L 197 z 24.07.2012, str. 38, Dz. Urz. UE L 308 z 29.10.2014, str. 125, Dz. Urz. UE L 207 z 04.08.2015, str. 75, Dz. Urz. UE L 103 z 19.04.2016, str. 50 oraz Dz. Urz. UE L 150 z 14.06.2018, str. 93).
-”
-„
+dyrektywę Parlamentu Europejskiego i Rady 2012/19/UE z dnia 4 lipca 2012 r. w sprawie zużytego sprzętu elektrycznego i elektronicznego (WEEE) (Dz. Urz. UE L 197 z 24.07.2012, str. 38, Dz. Urz. UE L 308 z 29.10.2014, str. 125, Dz. Urz. UE L 207 z 04.08.2015, str. 75, Dz. Urz. UE L 103 z 19.04.2016, str. 50 oraz Dz. Urz. UE L 150 z 14.06.2018, str. 93). ” „
+Przepisy ogólne
+Prezes Biura do spraw Substancji Chemicznych
 (uchylony)
+Badania substancji i mieszanin
+Oznakowanie, obrót i stosowanie substancji i ich mieszanin
+Przepisy o nadzorze
+Przepisy karne
+Zmiany w przepisach obowiązujących
 Art. 65–84.
 (pominięte)
+Przepisy przejściowe i końcowe
 
-**Art. 19.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r., z wyjątkiem art. 1 pkt 35 i pkt 40 lit. a, które wchodzą w życie z dniem 1 stycznia 2023 r. ” . Załącznik – Tekst jednolity ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 2 – Prezes Biura do spraw Substancji Chemicznych
+
+#### Rozdział 3
+
+#### Rozdział 4 – Badania substancji i mieszanin
+
+#### Rozdział 5 – Oznakowanie, obrót i stosowanie substancji i ich mieszanin
+
+#### Rozdział 6 – Przepisy o nadzorze
+
+#### Rozdział 7 – Przepisy karne
+
+#### Rozdział 8 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 9 – Przepisy przejściowe i końcowe
+
+**Art. 19.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r., z wyjątkiem art. 1 pkt 35 i pkt 40 lit. a, które wchodzą w życie z dniem 1 stycznia 2023 r. ” . Załącznik – Tekst jednolity ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninachNiniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw: 1) dyrektywy 67/548/EWG z dnia 27 czerwca 1967 r. w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do klasyfikacji, pakowania i etykietowania substancji niebezpiecznych (Dz. Urz. WE L 196 z 16.08.1967, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 1, str. 27); 2) dyrektywy 92/58/EWG z dnia 24 czerwca 1992 r. w sprawie minimalnych wymagań dotyczących znaków bezpieczeństwa i/lub zdrowia w miejscu pracy (dziewiąta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 245 z 26.08.1992, str. 23, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 89); 3) dyrektywy 1999/45/WE z dnia 31 maja 1999 r. w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych Państw Członkowskich odnoszących się do klasyfikacji, pakowania i etykietowania preparatów niebezpiecznych (Dz. Urz. WE L 200 z 30.07.1999, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 24, str. 109); 4) dyrektywy 2004/9/WE z dnia 11 lutego 2004 r. w sprawie kontroli i weryfikacji dobrej praktyki laboratoryjnej (DPL) (Dz. Urz. UE L 50 z 20.02.2004, str. 28, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 65); 5) dyrektywy 2004/10/WE z dnia 11 lutego 2004 r. w sprawie harmonizacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do stosowania zasad dobrej praktyki laboratoryjnej i weryfikacji jej stosowania na potrzeby badań substancji chemicznych (Dz. Urz. UE L 50 z 20.02.2004, str. 44, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 82); 6) dyrektywy 2008/112/WE z dnia 16 grudnia 2008 r. zmieniającej dyrektywy Rady 76/768/EWG, 88/378/EWG, 1999/13/WE oraz dyrektywy 2000/53/WE, 2002/96/WE i 2004/42/WE Parlamentu Europejskiego i Rady w celu dostosowania ich do rozporządzenia (WE) nr 1272/2008 w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin (Dz. Urz. UE L 345 z 23.12.2008, str. 68).
+
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -68,7 +91,7 @@ Art. 65–84.
 
 - **1)** substancji i mieszanin stanowiących źródła promieniotwórcze, w zakresie określonym w odrębnych przepisach;
 - **2)** odpadów w rozumieniu przepisów o odpadach;
-- **3)** substancji i mieszanin w postaci gotowych produktów przeznaczonych dla końcowego użytkownika, będących: produktami leczniczymi w rozumieniu przepisów prawa farmaceutycznego, środkami spożywczymi w rozumieniu przepisów o bezpieczeństwie żywności i żywienia, paszami w rozumieniu przepisów o paszach; (uchylona) (uchylona) (uchylona) (uchylona)
+- **3)** substancji i mieszanin w postaci gotowych produktów przeznaczonych dla końcowego użytkownika, będących: produktami leczniczymi w rozumieniu przepisów prawa farmaceutycznego, środkami spożywczymi w rozumieniu przepisów o bezpieczeństwie żywności i żywienia, paszami w rozumieniu przepisów o paszach; (uchylona) (uchylona) (uchylona) – (uchylona)
     - **a)**
     - **b)**
     - **c)**
@@ -122,7 +145,7 @@ Art. 65–84.
 
 **Art. 4.** (uchylony)
 
-#### Rozdział 2 Prezes Biura do spraw Substancji Chemicznych
+#### Rozdział 2
 
 **Art. 5.** Tworzy się centralny organ administracji rządowej właściwy w sprawach substancji i ich mieszanin, którym jest Prezes Biura do spraw Substancji Chemicznych, zwany dalej „Prezesem Biura”.
 
@@ -197,7 +220,7 @@ Art. 65–84.
 
 - **1)** gromadzenie danych dotyczących mieszanin stwarzających zagrożenie;
 - **2)** udostępnianie danych dotyczących mieszanin stwarzających zagrożenie służbom medycznym i ratowniczym;
-- **3)** pełnienie funkcji: właściwego organu wyznaczonego do wykonywania, określonych w przepisach Unii Europejskiej, zadań administracyjnych dotyczących wywozu i przywozu niebezpiecznych chemikaliów i współpraca w tym zakresie z innymi państwami członkowskimi Unii Europejskiej oraz z Komisją Europejską, właściwego organu wyznaczonego do wykonywania, określonych w przepisach Unii Europejskiej, zadań administracyjnych dotyczących detergentów i współpraca w tym zakresie z innymi państwami członkowskimi Unii Europejskiej, Konfederacją Szwajcarską lub państwami członkowskimi Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronami umowy o Europejskim Obszarze Gospodarczym oraz Komisją Europejską, właściwego organu określonego w art. 8 rozporządzenia nr 648/2004, w art. 121 rozporządzenia nr 1907/2006, w art. 43 rozporządzenia nr 1272/2008 odpowiedzialnego za wnioski dotyczące zharmonizowanej klasyfikacji i zharmonizowanego oznakowania i w art. 45 tego rozporządzenia oraz wyznaczonego organu krajowego określonego w art. 4 rozporządzenia nr 649/2012, właściwego organu wyznaczonego do wykonywania zadań z zakresu dokonywania rejestracji, o której mowa w art. 3 ust. 6 rozporządzenia (WE) nr 273/2004 Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. w sprawie prekursorów narkotykowych (Dz. Urz. UE L 47 z 18.02.2004, str. 1 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 15, t. 8, str. 46, z późn. zm.) , oraz rejestracji, o której mowa w art. 7 rozporządzenia Rady (WE) nr 111/2005 z dnia 22 grudnia 2004 r. określającego zasady nadzorowania handlu prekursorami narkotyków pomiędzy Unią a państwami trzecimi (Dz. Urz. UE L 22 z 26.01.2005, str. 1, z późn. zm.);
+- **3)** pełnienie funkcji: właściwego organu wyznaczonego do wykonywania, określonych w przepisach Unii Europejskiej, zadań administracyjnych dotyczących wywozu i przywozu niebezpiecznych chemikaliów i współpraca w tym zakresie z innymi państwami członkowskimi Unii Europejskiej oraz z Komisją Europejską, właściwego organu wyznaczonego do wykonywania, określonych w przepisach Unii Europejskiej, zadań administracyjnych dotyczących detergentów i współpraca w tym zakresie z innymi państwami członkowskimi Unii Europejskiej, Konfederacją Szwajcarską lub państwami członkowskimi Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronami umowy o Europejskim Obszarze Gospodarczym oraz Komisją Europejską, właściwego organu określonego w art. 8 rozporządzenia nr 648/2004, w art. 121 rozporządzenia nr 1907/2006, w art. 43 rozporządzenia nr 1272/2008 odpowiedzialnego za wnioski dotyczące zharmonizowanej klasyfikacji i zharmonizowanego oznakowania i w art. 45 tego rozporządzenia oraz wyznaczonego organu krajowego określonego w art. 4 rozporządzenia nr 649/2012, właściwego organu wyznaczonego do wykonywania zadań z zakresu dokonywania rejestracji, o której mowa w art. 3 ust. 6 rozporządzenia (WE) nr 273/2004 Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. w sprawie prekursorów narkotykowych (Dz. Urz. UE L 47 z 18.02.2004, str. 1 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 15, t. 8, str. 46, z późn. zm.) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 330 z 10.12.2013, str. 21, Dz. Urz. UE L 235 z 01.09.2016, str. 6 oraz Dz. Urz. UE L 123 z 18.05.2018, str. 4., oraz rejestracji, o której mowa w art. 7 rozporządzenia Rady (WE) nr 111/2005 z dnia 22 grudnia 2004 r. określającego zasady nadzorowania handlu prekursorami narkotyków pomiędzy Unią a państwami trzecimi (Dz. Urz. UE L 22 z 26.01.2005, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 330 z 10.12.2013, str. 30, Dz. Urz. UE L 235 z 01.09.2016, str. 6 oraz Dz. Urz. UE L 123 z 18.05.2018, str. 4.;
     - **a)**
     - **b)**
     - **c)**
@@ -223,7 +246,7 @@ Art. 65–84.
 
 #### Rozdział 3
 
-#### Rozdział 4 Badania substancji i mieszanin
+#### Rozdział 4
 
 **Art. 16.**
 
@@ -288,7 +311,7 @@ Art. 65–84.
 
 - **1)** zasady Dobrej Praktyki Laboratoryjnej,
 - **2)** sposób dokonywania kontroli i weryfikacji, o których mowa w ust. 2 i 7,
-- **3)** procedurę uzyskiwania i cofania certyfikatu Dobrej Praktyki Laboratoryjnej oraz wykreślania z wykazu certyfikowanych jednostek badawczych uwzględniając obowiązujące w tym zakresie przepisy Unii Europejskiej i OECD oraz mając na celu zapewnienie właściwej jakości badań.
+- **3)** procedurę uzyskiwania i cofania certyfikatu Dobrej Praktyki Laboratoryjnej oraz wykreślania z wykazu certyfikowanych jednostek badawczych – uwzględniając obowiązujące w tym zakresie przepisy Unii Europejskiej i OECD oraz mając na celu zapewnienie właściwej jakości badań.
 
 **Art. 17.**
 
@@ -305,7 +328,7 @@ Art. 65–84.
 
 4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość i sposób wnoszenia opłat, o których mowa w ust. 1, uwzględniając w szczególności zakres czynności wykonywanych przez inspektorów Dobrej Praktyki Laboratoryjnej oraz pracowników Biura w związku z kontrolą i weryfikacją spełniania zasad Dobrej Praktyki Laboratoryjnej przez jednostki badawcze lub wydaniem certyfikatu.
 
-#### Rozdział 5 Oznakowanie, obrót i stosowanie substancji i ich mieszanin
+#### Rozdział 5
 
 **Art. 18.** (uchylony) (uchylony)
 
@@ -320,7 +343,7 @@ Art. 65–84.
 3. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw pracy oraz ministrem właściwym do spraw klimatu określi, w drodze rozporządzenia:
 
 - **1)** sposób oznakowania pojemników i zbiorników służących do przechowywania substancji stwarzających zagrożenie lub mieszanin stwarzających zagrożenie oraz pojemników i zbiorników służących do pracy z tymi substancjami lub mieszaninami, rurociągów zawierających substancje stwarzające zagrożenie lub mieszaniny stwarzające zagrożenie lub służących do ich transportowania oraz miejsc, w których są składowane znaczące ilości substancji stwarzających zagrożenie lub mieszanin stwarzających zagrożenie,
-- **2)** warunki, które należy spełnić w przypadku odstąpienia od oznakowania, o którym mowa w ust. 2 uwzględniając potrzebę zapewnienia bezpieczeństwa i zdrowia w miejscu pracy.
+- **2)** warunki, które należy spełnić w przypadku odstąpienia od oznakowania, o którym mowa w ust. 2 – uwzględniając potrzebę zapewnienia bezpieczeństwa i zdrowia w miejscu pracy.
 
 **Art. 22.** (uchylony)
 
@@ -328,7 +351,7 @@ Art. 65–84.
 
 - **1)** klasy i kategorie tych substancji stwarzających zagrożenie i tych mieszanin stwarzających zagrożenie,
 - **2)** wymagania dotyczące kwalifikacji, które muszą posiadać osoby prowadzące na terytorium Rzeczypospolitej Polskiej obrót tymi substancjami stwarzającymi zagrożenie i tymi mieszaninami stwarzającymi zagrożenie,
-- **3)** sposób potwierdzania kwalifikacji, o których mowa w pkt 2, nabytych w państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub w Konfederacji Szwajcarskiej przez: obywatela państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, członka rodziny osoby, o której mowa w lit. a, w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2021 r. poz. 1697), obywatela państwa trzeciego posiadającego zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej, o którym mowa w ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354 oraz z 2022 r. poz. 91, 583, 830, 835 i 1383), obywatela państwa trzeciego posiadającego zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 151 ust. 1 lub art. 151b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, obywatela państwa trzeciego przebywającego na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności krótkoterminowej naukowca na warunkach określonych w art. 156b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, obywatela państwa trzeciego przebywającego na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności studenta na warunkach określonych w art. 149b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, obywatela państwa trzeciego posiadającego status uchodźcy lub objętego ochroną uzupełniającą, obywatela państwa trzeciego, który przybywa na terytorium Rzeczypospolitej Polskiej lub przebywa na tym terytorium w celu połączenia się z rodziną i jest członkiem rodziny cudzoziemca zamieszkującego na terytorium Rzeczypospolitej Polskiej w związku z nadaniem mu statusu uchodźcy lub udzieleniem mu ochrony uzupełniającej, obywatela państwa trzeciego, który ubiega się o przyjęcie na terytorium Rzeczypospolitej Polskiej w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji w rozumieniu art. 3 pkt 24 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, obywatela państwa trzeciego, który został przyjęty na terytorium Rzeczypospolitej Polskiej w celach innych niż wykonywanie pracy zgodnie z prawem Unii Europejskiej lub prawem krajowym i ma prawo do wykonywania pracy oraz posiada dokument pobytowy wydany zgodnie z rozporządzeniem Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającym jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 19, t. 6, str. 3, z późn. zm.) , oraz obywatela państwa trzeciego, który został przyjęty na terytorium Rzeczypospolitej Polskiej w celu wykonywania pracy zgodnie z prawem Unii Europejskiej lub prawem krajowym biorąc pod uwagę konieczność ochrony zdrowia ludzi i ochrony środowiska przed zagrożeniami stwarzanymi przez substancje stwarzające zagrożenie i mieszaniny stwarzające zagrożenie.
+- **3)** sposób potwierdzania kwalifikacji, o których mowa w pkt 2, nabytych w państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub w Konfederacji Szwajcarskiej przez: obywatela państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, członka rodziny osoby, o której mowa w lit. a, w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2021 r. poz. 1697), obywatela państwa trzeciego posiadającego zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej, o którym mowa w ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354 oraz z 2022 r. poz. 91, 583, 830, 835 i 1383), obywatela państwa trzeciego posiadającego zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 151 ust. 1 lub art. 151b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, obywatela państwa trzeciego przebywającego na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności krótkoterminowej naukowca na warunkach określonych w art. 156b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, obywatela państwa trzeciego przebywającego na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności studenta na warunkach określonych w art. 149b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, obywatela państwa trzeciego posiadającego status uchodźcy lub objętego ochroną uzupełniającą, obywatela państwa trzeciego, który przybywa na terytorium Rzeczypospolitej Polskiej lub przebywa na tym terytorium w celu połączenia się z rodziną i jest członkiem rodziny cudzoziemca zamieszkującego na terytorium Rzeczypospolitej Polskiej w związku z nadaniem mu statusu uchodźcy lub udzieleniem mu ochrony uzupełniającej, obywatela państwa trzeciego, który ubiega się o przyjęcie na terytorium Rzeczypospolitej Polskiej w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji w rozumieniu art. 3 pkt 24 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, obywatela państwa trzeciego, który został przyjęty na terytorium Rzeczypospolitej Polskiej w celach innych niż wykonywanie pracy zgodnie z prawem Unii Europejskiej lub prawem krajowym i ma prawo do wykonywania pracy oraz posiada dokument pobytowy wydany zgodnie z rozporządzeniem Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającym jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 19, t. 6, str. 3, z późn. zm.) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2008, str. 1 oraz Dz. Urz. UE L 286 z 01.11.2017, str. 9., oraz obywatela państwa trzeciego, który został przyjęty na terytorium Rzeczypospolitej Polskiej w celu wykonywania pracy zgodnie z prawem Unii Europejskiej lub prawem krajowym – biorąc pod uwagę konieczność ochrony zdrowia ludzi i ochrony środowiska przed zagrożeniami stwarzanymi przez substancje stwarzające zagrożenie i mieszaniny stwarzające zagrożenie.
     - **a)**
     - **b)**
     - **c)**
@@ -349,7 +372,7 @@ Art. 65–84.
 1. Minister właściwy do spraw gospodarki, na wniosek ministra właściwego do spraw zdrowia, ministra właściwego do spraw klimatu, ministra właściwego do spraw rolnictwa lub ministra właściwego do spraw gospodarki wodnej, w przypadku stwierdzenia, że produkcja, obrót lub stosowanie substancji stwarzającej zagrożenie lub mieszaniny stwarzającej zagrożenie stwarzają nieuzasadnione ryzyko dla zdrowia człowieka lub środowiska, lub gdy wynika to z porozumień międzynarodowych określi, w drodze rozporządzenia, ograniczenia:
 
 - **1)** produkcji, obrotu lub stosowania takiej substancji lub mieszaniny,
-- **2)** wprowadzania do obrotu lub stosowania wyrobów zawierających taką substancję lub mieszaninę uwzględniając w szczególności zastosowania takiej substancji lub mieszaniny, stosowanie w stężeniu lub proporcjach przewyższających określony poziom, występowanie w określonych stężeniach lub ilościach w określonych wyrobach.
+- **2)** wprowadzania do obrotu lub stosowania wyrobów zawierających taką substancję lub mieszaninę – uwzględniając w szczególności zastosowania takiej substancji lub mieszaniny, stosowanie w stężeniu lub proporcjach przewyższających określony poziom, występowanie w określonych stężeniach lub ilościach w określonych wyrobach.
 
 2. W przypadkach określonych w załączniku XVII do rozporządzenia nr 1907/2006 minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia, sposób stosowania ograniczeń wyszczególnionych w tym załączniku, uwzględniając cele tych ograniczeń.
 
@@ -369,7 +392,7 @@ Art. 65–84.
 
 4. Decyzja, o której mowa w ust. 1, może być wydana także na wniosek Głównego Inspektora Sanitarnego, Głównego Inspektora Ochrony Środowiska lub Prezesa Urzędu Ochrony Konkurencji i Konsumentów.
 
-#### Rozdział 6 Przepisy o nadzorze
+#### Rozdział 6
 
 **Art. 29.** Nadzór nad przestrzeganiem przepisów ustawy oraz przepisów rozporządzeń, o których mowa w art. 1 ust. 1, sprawują, w zakresie swojej właściwości, Państwowa Inspekcja Sanitarna oraz Wojskowa Inspekcja Sanitarna, a także:
 
@@ -396,7 +419,7 @@ Art. 65–84.
 
 **Art. 30.** Organy wymienione w art. 29 sprawują nadzór na zasadach i w trybie określonych w odrębnych przepisach.
 
-#### Rozdział 7 Przepisy karne
+#### Rozdział 7
 
 **Art. 31.** Kto wbrew decyzji Prezesa Biura, o której mowa w art. 27 ust. 1, art. 27a lub art. 28 ust. 1, wprowadza do obrotu mieszaninę stwarzającą niedopuszczalne zagrożenie dla zdrowia człowieka lub zagrożenie dla środowiska lub substancję bez wymaganego raportu bezpieczeństwa chemicznego lub wprowadza do obrotu detergent, co do którego istnieją uzasadnione podstawy, aby przypuszczać, że stwarza zagrożenie dla zdrowia człowieka lub zagrożenie dla środowiska, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
 
@@ -550,9 +573,9 @@ Art. 65–84.
 
 **Art. 64.** Orzekanie w sprawach o czyny, o których mowa w art. 35, art. 41–49 i art. 52–63, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
-#### Rozdział 8 Zmiany w przepisach obowiązujących
+#### Rozdział 8
 
-#### Rozdział 9 Przepisy przejściowe i końcowe
+#### Rozdział 9
 
 **Art. 85.**
 
@@ -579,13 +602,13 @@ Art. 65–84.
 **Art. 88.** Przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 4 ust. 2, art. 24 ust. 2 i 5, art. 26, art. 27 ust. 2, art. 28 ust. 3 i art. 31 ustawy, o której mowa w art. 89, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 16 ust. 15, art. 17 ust. 4, art. 19 ust. 5, art. 20 ust. 11, art. 21 ust. 3, art. 22 ust. 7 i art. 26 niniejszej ustawy,
-- **2)** art. 33c ustawy, o której mowa w art. 89, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 27b ust. 6 ustawy, o której mowa w art. 66, w brzmieniu nadanym niniejszą ustawą,
-- **3)** art. 222 § 3 ustawy, o której mowa w art. 65, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 222 § 3 ustawy, o której mowa w art. 65, w brzmieniu nadanym niniejszą ustawą,
-- **4)** art. 27b ust. 4 ustawy, o której mowa w art. 66, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 27b ust. 4 ustawy, o której mowa w art. 66, w brzmieniu nadanym niniejszą ustawą nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie ustawy.
+- **2)** art. 33c ustawy, o której mowa w art. 89, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 27b ust. 6 ustawy, o której mowa w art. 66Artykuł 66 zawiera zmiany do ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej., w brzmieniu nadanym niniejszą ustawą,
+- **3)** art. 222 § 3 ustawy, o której mowa w art. 65Artykuł 65 zawiera zmiany do ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy., zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 222 § 3 ustawy, o której mowa w art. 65, w brzmieniu nadanym niniejszą ustawą,
+- **4)** art. 27b ust. 4 ustawy, o której mowa w art. 66, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 27b ust. 4 ustawy, o której mowa w art. 66, w brzmieniu nadanym niniejszą ustawą – nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie ustawy.
 
 **Art. 89.** Traci moc ustawa z dnia 11 stycznia 2001 r. o substancjach i preparatach chemicznych (Dz. U. z 2009 r. poz. 1222 oraz z 2010 r. poz. 679 i 1228).
 
 **Art. 90.** Przepisy art. 20 ust. 3 i ust. 11 pkt 4 tracą moc z dniem 1 czerwca 2015 r.
 
-**Art. 91.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 91.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 24 marca 2011 r.. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw: 1) dyrektywy 67/548/EWG z dnia 27 czerwca 1967 r. w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do klasyfikacji, pakowania i etykietowania substancji niebezpiecznych (Dz. Urz. WE L 196 z 16.08.1967, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 1, str. 27); 2) dyrektywy 92/58/EWG z dnia 24 czerwca 1992 r. w sprawie minimalnych wymagań dotyczących znaków bezpieczeństwa i/lub zdrowia w miejscu pracy (dziewiąta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 245 z 26.08.1992, str. 23, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 89); 3) dyrektywy 1999/45/WE z dnia 31 maja 1999 r. w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych Państw Członkowskich odnoszących się do klasyfikacji, pakowania i etykietowania preparatów niebezpiecznych (Dz. Urz. WE L 200 z 30.07.1999, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 24, str. 109); 4) dyrektywy 2004/9/WE z dnia 11 lutego 2004 r. w sprawie kontroli i weryfikacji dobrej praktyki laboratoryjnej (DPL) (Dz. Urz. UE L 50 z 20.02.2004, str. 28, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 65); 5) dyrektywy 2004/10/WE z dnia 11 lutego 2004 r. w sprawie harmonizacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do stosowania zasad dobrej praktyki laboratoryjnej i weryfikacji jej stosowania na potrzeby badań substancji chemicznych (Dz. Urz. UE L 50 z 20.02.2004, str. 44, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 82); 6) dyrektywy 2008/112/WE z dnia 16 grudnia 2008 r. zmieniającej dyrektywy Rady 76/768/EWG, 88/378/EWG, 1999/13/WE oraz dyrektywy 2000/53/WE, 2002/96/WE i 2004/42/WE Parlamentu Europejskiego i Rady w celu dostosowania ich do rozporządzenia (WE) nr 1272/2008 w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin (Dz. Urz. UE L 345 z 23.12.2008, str. 68). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 330 z 10.12.2013, str. 21, Dz. Urz. UE L 235 z 01.09.2016, str. 6 oraz Dz. Urz. UE L 123 z 18.05.2018, str. 4. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 330 z 10.12.2013, str. 30, Dz. Urz. UE L 235 z 01.09.2016, str. 6 oraz Dz. Urz. UE L 123 z 18.05.2018, str. 4. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2008, str. 1 oraz Dz. Urz. UE L 286 z 01.11.2017, str. 9. 5) Dodany przez art. 4 pkt 1 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw (Dz. U. poz. 2151), która weszła w życie z dniem 1 stycznia 2022 r. 6) Dodany przez art. 4 pkt 2 ustawy, o której mowa w odnośniku 5. 7) Artykuł 66 zawiera zmiany do ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej. 8) Artykuł 65 zawiera zmiany do ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy. 9) Ustawa została ogłoszona w dniu 24 marca 2011 r.
 

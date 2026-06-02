@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 stycznia 2020 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw
+# Ustawa z dnia 9 stycznia 2020 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawę z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych oraz ustawę z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-09 |
 | Data wydania | 2020-02-17 |
-| Wejście w życie | 2020-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000252) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/252/text.pdf) |
 
@@ -143,5 +142,5 @@ source: "eli-html"
 
 **Art. 12.** Zmiana wysokości przyznanego świadczenia uzupełniającego, w wyniku podwyższenia kwoty, o której mowa w art. 2 ust. 2 oraz art. 4 ust. 1 i 2 ustawy zmienianej w art. 4, następuje z urzędu, od dnia 1 marca 2020 r.
 
-**Art. 13.** Ustawa wchodzi w życie z dniem 1 marca 2020 r., z wyjątkiem art. 7 ust. 2 i art. 9, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+**Art. 13.** Ustawa wchodzi w życie z dniem 1 marca 2020 r., z wyjątkiem art. 7 ust. 2 i art. 9, które wchodzą w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawę z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych oraz ustawę z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji.
 

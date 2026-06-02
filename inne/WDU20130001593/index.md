@@ -32,7 +32,7 @@ sygn. akt K 17/12 Trybunał Konstytucyjny w składzie: Sławomira Wronkowska-Ja�
 a) art. 6d ust. 1 i art. 6e ustawy z 13 września 1996 r. powołanej w punkcie 1, w brzmieniu nadanym ustawą z 1 lipca 2011 r. powołaną w punkcie 1, z art. 2, art. 9, art. 16 ust. 2, art. 165 i art. 166 ust. 1 Konstytucji oraz z art. 4 ust. 2 Europejskiej Karty Samorządu Lokalnego (Dz. U. z 1994 r. Nr 124, poz. 607, ze zm.),
 b) art. 6h ustawy z 13 września 1996 r. powołanej w punkcie 1, w brzmieniu nadanym ustawą z 1 lipca 2011 r. powołaną w punkcie 1, z art. 2 i art. 217 Konstytucji,
 c) art. 6k i art. 6l ustawy z 13 września 1996 r. powołanej w punkcie 1, w brzmieniu nadanym ustawą z 1 lipca 2011 r. powołaną w punkcie 1, z art. 168 w związku z art. 84 i art. 217 oraz art. 2 Konstytucji,
-d) a rt. 6m ustawy z 13 września 1996 r. powołanej w punkcie 1, w brzmieniu nadanym ustawą z 1 lipca 2011 r.
+d) art. 6m ustawy z 13 września 1996 r. powołanej w punkcie 1, w brzmieniu nadanym ustawą z 1 lipca 2011 r.
 powołaną w punkcie 1, z art. 2 i art. 84 Konstytucji,
 3) grupy posłów z 8 maja 2013 r. o zbadanie zgodności art. 6j ust. 2a oraz art. 6k ust. 1 pkt 1 i ust. 4 ustawy z 13 września 1996 r. powołanej w punkcie 1, w brzmieniu nadanym ustawą z dnia 25 stycznia 2013 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach (Dz. U. poz. 228), z art. 2, art. 20, art. 84, art. 168 w związku z art. 217 Konstytucji, orzeka: I
 1. Art. 6d ust. 1 i art. 6e ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U.

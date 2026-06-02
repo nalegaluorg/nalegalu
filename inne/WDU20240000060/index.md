@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-01-12 |
 | Data wydania | 2024-01-19 |
-| Wejście w życie | 2024-01-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000060) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/60/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Warunki organizacji organów przedstawicielskich żołnierzy zawodowych Rozdział 3 – Sposób działania i warunki funkcjonowania organów przedstawicielskich żołnierzy zawodowych Rozdział 4 – Tryb wyboru organów przedstawicielskich żołnierzy zawodowych Rozdział 5 – Zadania i uprawnienia organów przedstawicielskich żołnierzy zawodowych Rozdział 6 – Formy współpracy organów przedstawicielskich żołnierzy zawodowych z dowódcami jednostek wojskowych Rozdział 7 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 344 ust. 3 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r. poz. 347, 641, 1615, 1834 i 1872) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -43,6 +43,7 @@ tryb wyboru organów przedstawicielskich żołnierzy zawodowych;
 szczegółowe zadania i uprawnienia organów przedstawicielskich żołnierzy zawodowych;
 6)
 formy współpracy organów przedstawicielskich żołnierzy zawodowych z dowódcami jednostek wojskowych.
+Warunki organizacji organów przedstawicielskich żołnierzy zawodowych
 § 2.
 1.
 Organy przedstawicielskie żołnierzy zawodowych pochodzą z wyboru dokonywanego w sposób bezpośredni lub pośredni.
@@ -58,8 +59,7 @@ korpusu oficerów zawodowych,
 b)
 korpusu podoficerów zawodowych,
 c)
-korpusu szeregowych zawodowych
-w jednostkach wojskowych, zwani dalej „mężami zaufania”;
+korpusu szeregowych zawodowych – w jednostkach wojskowych, zwani dalej „mężami zaufania”;
 2)
 mężowie zaufania korpusu podoficerów zawodowych wybrani w uczelniach wojskowych przez żołnierzy zawodowych w trakcie kształcenia – zwani dalej „mężami zaufania żołnierzy zawodowych w trakcie kształcenia”.
 2.
@@ -71,8 +71,7 @@ korpusu oficerów zawodowych,
 b)
 korpusu podoficerów zawodowych,
 c)
-korpusu szeregowych zawodowych
-wybrani spośród mężów zaufania w jednostkach wojskowych będących jednostkami organizacyjnymi podległymi Ministrowi Obrony Narodowej lub przez niego nadzorowanymi wraz z podległymi jednostkami wojskowymi, w których nie funkcjonują zgromadzenia mężów zaufania, oraz w związkach organizacyjnych szczebla korpusu, dywizji, brygady lub równorzędnych – zwani dalej „reprezentantami”;
+korpusu szeregowych zawodowych – wybrani spośród mężów zaufania w jednostkach wojskowych będących jednostkami organizacyjnymi podległymi Ministrowi Obrony Narodowej lub przez niego nadzorowanymi wraz z podległymi jednostkami wojskowymi, w których nie funkcjonują zgromadzenia mężów zaufania, oraz w związkach organizacyjnych szczebla korpusu, dywizji, brygady lub równorzędnych – zwani dalej „reprezentantami”;
 2)
 zgromadzenia mężów zaufania i reprezentantów:
 a)
@@ -80,8 +79,7 @@ korpusu oficerów zawodowych,
 b)
 korpusu podoficerów zawodowych,
 c)
-korpusu szeregowych zawodowych
-zwane dalej „zgromadzeniami mężów zaufania”;
+korpusu szeregowych zawodowych – zwane dalej „zgromadzeniami mężów zaufania”;
 3)
 dziekani:
 a)
@@ -89,8 +87,7 @@ korpusu oficerów zawodowych,
 b)
 korpusu podoficerów zawodowych,
 c)
-korpusu szeregowych zawodowych
-zwani dalej „dziekanami”;
+korpusu szeregowych zawodowych – zwani dalej „dziekanami”;
 4)
 konwenty:
 a)
@@ -98,8 +95,7 @@ Konwent Dziekanów Korpusu Oficerów Zawodowych,
 b)
 Konwent Dziekanów Korpusu Podoficerów Zawodowych,
 c)
-Konwent Dziekanów Korpusu Szeregowych Zawodowych
-zwane dalej „Konwentami”;
+Konwent Dziekanów Korpusu Szeregowych Zawodowych – zwane dalej „Konwentami”;
 5)
 przewodniczący Konwentów:
 a)
@@ -107,8 +103,7 @@ Przewodniczący Konwentu Dziekanów Korpusu Oficerów Zawodowych,
 b)
 Przewodniczący Konwentu Dziekanów Korpusu Podoficerów Zawodowych,
 c)
-Przewodniczący Konwentu Dziekanów Korpusu Szeregowych Zawodowych
-zwani dalej „Przewodniczącymi Konwentów”;
+Przewodniczący Konwentu Dziekanów Korpusu Szeregowych Zawodowych – zwani dalej „Przewodniczącymi Konwentów”;
 6)
 Prezydium Organów Przedstawicielskich, zwane dalej „Prezydium”;
 7)
@@ -173,6 +168,7 @@ Prezydium oraz Przewodniczący Prezydium Organów Przedstawicielskich są organa
 Prezydium tworzą Przewodniczący Konwentu Dziekanów Korpusu Oficerów Zawodowych, Przewodniczący Konwentu Dziekanów Korpusu Podoficerów Zawodowych, Przewodniczący Konwentu Dziekanów Korpusu Szeregowych Zawodowych.
 3.
 Przewodniczącym Prezydium Organów Przedstawicielskich jest Przewodniczący Konwentu Dziekanów Korpusu Oficerów Zawodowych.
+Sposób działania i warunki funkcjonowania organów przedstawicielskich żołnierzy zawodowych
 § 10.
 1.
 Organy przedstawicielskie żołnierzy zawodowych działają na podstawie ustawy oraz niniejszego rozporządzenia.
@@ -206,6 +202,7 @@ W przypadku niemożliwości uczestnictwa w pracach Prezydium przez jego członka
 Funkcję dziekanów oraz Przewodniczących Konwentów pełni się na stanowiskach etatowych.
 § 16.
 Przewodniczący Prezydium Organów Przedstawicielskich realizuje zadania przy pomocy Biura Konwentu Dziekanów.
+Tryb wyboru organów przedstawicielskich żołnierzy zawodowych
 § 17.
 1.
 Żołnierze zawodowi pełniący służbę wojskową w jednostce wojskowej tworzą odpowiednio:
@@ -214,8 +211,7 @@ zebranie żołnierzy zawodowych korpusu oficerów zawodowych,
 2)
 zebranie żołnierzy zawodowych korpusu podoficerów zawodowych, z wyjątkiem żołnierzy zawodowych po powołaniu do zawodowej służby wojskowej na czas kształcenia w uczelniach wojskowych,
 3)
-zebranie żołnierzy zawodowych korpusu szeregowych zawodowych
-zwane dalej „zebraniami”.
+zebranie żołnierzy zawodowych korpusu szeregowych zawodowych – zwane dalej „zebraniami”.
 2.
 Czynne prawo wyborcze w wyborach mężów zaufania i ich zastępców posiada każdy z członków zebrania.
 3.
@@ -292,8 +288,7 @@ zebranie mężów zaufania korpusu oficerów zawodowych,
 2)
 zebranie mężów zaufania korpusu podoficerów zawodowych,
 3)
-zebranie mężów zaufania korpusu szeregowych zawodowych
-zwane dalej „zebraniami mężów zaufania”.
+zebranie mężów zaufania korpusu szeregowych zawodowych – zwane dalej „zebraniami mężów zaufania”.
 2.
 Zebrania mężów zaufania wybierają ze swego składu reprezentantów i ich zastępców.
 3.
@@ -370,6 +365,7 @@ Kadencja Przewodniczących Konwentów i ich zastępców rozpoczyna się w dniu 1
 Do Przewodniczących Konwentów i zastępców przepisy § 20 ust. 2 i § 22–24 stosuje się odpowiednio w zakresie dotyczącym przyczyn wygaśnięcia mandatu Przewodniczącego Konwentu i zastępcy, zwołania Konwentu w celu odwołania dotychczasowego Przewodniczącego Konwentu i zastępcy oraz dokonania wyborów, w tym przez odpowiedniego dowódcę jednostki wojskowej, przejęcia funkcji Przewodniczącego Konwentu przez jego zastępcę w razie wygaśnięcia mandatu oraz kadencji w przypadku wybrania Przewodniczącego Konwentu w terminie innym niż określony w § 32 ust. 4.
 § 37.
 Jeżeli w okresie wprowadzenia stanów nadzwyczajnych, o których mowa w rozdziale XI Konstytucji Rzeczypospolitej Polskiej, lub obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii w rozumieniu ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2023 r. poz. 1284, 909 i 1938) nie mogą odbyć się wybory organów przedstawicielskich żołnierzy zawodowych, dotychczasowe organy przedstawicielskie żołnierzy zawodowych działają do czasu wyboru nowych. Kadencja nowo wybranych organów przedstawicielskich żołnierzy zawodowych ulega skróceniu o okres, przez jaki wybory organów przedstawicielskich żołnierzy zawodowych nie mogły się odbyć.
+Zadania i uprawnienia organów przedstawicielskich żołnierzy zawodowych
 § 38.
 1.
 Do zadań mężów zaufania należy obrona praw żołnierzy zawodowych właściwego korpusu zawodowego i środowiska wojskowego w jednostce wojskowej, a ponadto:
@@ -601,6 +597,7 @@ Niezależnie od ust. 1 pkt 2 Przewodniczący Prezydium Organów Przedstawicielsk
 Przewodniczący Prezydium Organów Przedstawicielskich może podjąć decyzję o przeprowadzeniu posiedzenia przy wykorzystaniu wojskowego systemu telekomunikacyjnego lub udziale niektórych członków Prezydium Organów Przedstawicielskich w posiedzeniu przy wykorzystaniu wojskowego systemu telekomunikacyjnego.
 4.
 Przewodniczący Prezydium Organów Przedstawicielskich może zwracać się bezpośrednio do właściwych organów wojskowych w sprawach żołnierzy zawodowych o wyjaśnienie sprawy i poinformowanie o zajętym stanowisku.
+Formy współpracy organów przedstawicielskich żołnierzy zawodowych z dowódcami jednostek wojskowych
 § 47.
 W zakresie współpracy z dowódcami jednostek wojskowych:
 1)
@@ -625,6 +622,7 @@ mężowie zaufania, reprezentanci, właściwe zgromadzenie mężów zaufania, w�
 organy przedstawicielskie żołnierzy zawodowych na wszystkich szczeblach mogą korzystać, nieodpłatnie, z pomieszczeń, sprzętu i materiałów do prowadzenia działalności na poziomie odpowiednim dla danej jednostki wojskowej;
 11)
 dowódcy jednostek wojskowych zapewniają mężom zaufania, dziekanom, Przewodniczącym Konwentów oraz Przewodniczącemu Prezydium Organów Przedstawicielskich możliwość reprezentowania właściwego środowiska w uroczystościach państwowych i wojskowych.
+Przepisy przejściowe i końcowe
 § 48.
 1.
 Z dniem wejścia w życie rozporządzenia organy przedstawicielskie żołnierzy zawodowych wybrane na podstawie rozporządzenia Ministra Obrony Narodowej z dnia 28 czerwca 2004 r. w sprawie organów przedstawicielskich żołnierzy zawodowych (Dz. U. z 2015 r. poz. 1184) i funkcjonujące w dniu 23 października 2023 r. stają się organami przedstawicielskimi żołnierzy zawodowych, o których mowa w rozporządzeniu.
@@ -641,19 +639,33 @@ ust. 2 pkt 5, trwa do dnia 14 grudnia 2025 r.
 3.
 Do czasu uzyskania przez Prezydium członkostwa w Europejskiej Organizacji Związków Żołnierzy uprawnienie wynikające z § 45 ust. 1 pkt 8 zachowuje Konwent Dziekanów Korpusu Oficerów Zawodowych.
 § 49.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 28 czerwca 2004 r. w sprawie organów przedstawicielskich żołnierzy zawodowych (Dz. U. z 2015 r. poz. 1184), które utraciło moc z dniem 24 października 2023 r. zgodnie z art. 822 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r. poz. 347, 641, 1615, 1834 i 1872). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 28 czerwca 2004 r. w sprawie organów przedstawicielskich żołnierzy zawodowych (Dz. U. z 2015 r. poz. 1184), które utraciło moc z dniem 24 października 2023 r. zgodnie z art. 822 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r. poz. 347, 641, 1615, 1834 i 1872).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Warunki organizacji organów przedstawicielskich żołnierzy zawodowych
+#### Rozdział 2 – Warunki organizacji organów przedstawicielskich żołnierzy zawodowych
 
-#### Rozdział 3 Sposób działania i warunki funkcjonowania organów przedstawicielskich żołnierzy zawodowych
+#### Rozdział 3 – Sposób działania i warunki funkcjonowania organów przedstawicielskich żołnierzy zawodowych
 
-#### Rozdział 4 Tryb wyboru organów przedstawicielskich żołnierzy zawodowych
+#### Rozdział 4 – Tryb wyboru organów przedstawicielskich żołnierzy zawodowych
 
-#### Rozdział 5 Zadania i uprawnienia organów przedstawicielskich żołnierzy zawodowych
+#### Rozdział 5 – Zadania i uprawnienia organów przedstawicielskich żołnierzy zawodowych
 
-#### Rozdział 6 Formy współpracy organów przedstawicielskich żołnierzy zawodowych z dowódcami jednostek wojskowych
+#### Rozdział 6 – Formy współpracy organów przedstawicielskich żołnierzy zawodowych z dowódcami jednostek wojskowych
 
-#### Rozdział 7 Przepisy przejściowe i końcowe
+#### Rozdział 7 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
 

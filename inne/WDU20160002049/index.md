@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Rozwoju i Finansówz dnia 1 grudnia 2016 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie komitetu audytu
+# Obwieszczenie Ministra Rozwoju i Finansówz dnia 1 grudnia 2016 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie komitetu audytu Minister Rozwoju i Finansów kieruje działami administracji rządowej – budżet, finanse publiczne oraz instytucje finansowe, na podstawie § 1 ust. 2 pkt 1, 2 i 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -31,12 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 29 grudnia 2009 r. w sprawie komitetu audytu (Dz. U. poz. 1826), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 20 maja 2016 r. zmieniającym rozporządzenie w sprawie komitetu audytu (Dz. U. poz. 782).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 20 maja 2016 r. zmieniającego rozporządzenie w sprawie komitetu audytu (Dz. U. poz. 782), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 20 maja 2016 r. zmieniającego rozporządzenie w sprawie komitetu audytu (Dz. U. poz. 782), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.
-” .
-1) Minister Rozwoju i Finansów kieruje działami administracji rządowej – budżet, finanse publiczne oraz instytucje finansowe, na podstawie § 1 ust. 2 pkt 1, 2 i 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r. ” . 1) Minister Rozwoju i Finansów kieruje działami administracji rządowej – budżet, finanse publiczne oraz instytucje finansowe, na podstawie § 1 ust. 2 pkt 1, 2 i 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 Załącznik – Rozporządzenie Ministra Finansów z dnia 29 grudnia 2009 r. w sprawie komitetu audytu
 Na podstawie art. 290 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, 1948 i 1984) zarządza się, co następuje:
 § 1.
@@ -54,7 +51,7 @@ posiada wykształcenie wyższe magisterskie lub równorzędne;
 2)
 posiada co najmniej pięcioletnie doświadczenie zawodowe, w tym co najmniej dwuletnie w sprawowaniu funkcji kierowniczych;
 3)
-posiada udokumentowane doświadczenie lub wiedzę w zakresie:
+posiada udokumentowane doświadczenie lub wiedzę w zakresie:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Finansów z dnia 20 maja 2016 r. zmieniającego rozporządzenie w sprawie komitetu audytu (Dz. U. poz. 782), które weszło w życie z dniem 1 lipca 2016 r.
 a)
 audytu wewnętrznego lub
 b)
@@ -64,23 +61,23 @@ zarządzania ryzykiem, lub
 d)
 prowadzenia gospodarki finansowej jednostek sektora finansów publicznych, lub
 e)
-(uchylona);
+(uchylona);Przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 1.
 4)
 ma pełną zdolność do czynności prawnych oraz korzysta z pełni praw publicznych;
 5)
 nie była skazana prawomocnym wyrokiem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 6)
-(uchylony).
+(uchylony).Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1.
 § 3.
 1.
-Wynagrodzenie członka niezależnego komitetu audytu jest ustalane kwartalnie, w zależności od liczby działów kierowanych przez jednego ministra, dla których został powołany komitet audytu, oraz obecności na posiedzeniach komitetu audytu, według wzoru: W = M x P x N/L gdzie poszczególne symbole oznaczają: W – wysokość wynagrodzenia członka niezależnego komitetu audytu za dany kwartał, M – mnożnik równy 0,4 w przypadku komitetu audytu powołanego dla jednego działu, a 0,5 w przypadku komitetu audytu powołanego dla co najmniej dwóch działów, P – przeciętne wynagrodzenie w gospodarce narodowej w poprzednim roku kalendarzowym, ogłaszane przez Prezesa Głównego Urzędu Statystycznego, N – liczba posiedzeń komitetu audytu w danym kwartale, w których uczestniczył członek niezależny komitetu audytu, L – liczba wszystkich posiedzeń komitetu audytu w danym kwartale.
+Wynagrodzenie członka niezależnego komitetu audytu jest ustalane kwartalnie, w zależności od liczby działów kierowanych przez jednego ministra, dla których został powołany komitet audytu, oraz obecności na posiedzeniach komitetu audytu, według wzoru: W = M x P x N/L gdzie poszczególne symbole oznaczają: W – wysokość wynagrodzenia członka niezależnego komitetu audytu za dany kwartał, M – mnożnik równy 0,4 w przypadku komitetu audytu powołanego dla jednego działu, a 0,5 w przypadku komitetu audytu powołanego dla co najmniej dwóch działów,Objaśnienie symbolu M w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. P – przeciętne wynagrodzenie w gospodarce narodowej w poprzednim roku kalendarzowym, ogłaszane przez Prezesa Głównego Urzędu Statystycznego, N – liczba posiedzeń komitetu audytu w danym kwartale, w których uczestniczył członek niezależny komitetu audytu, L – liczba wszystkich posiedzeń komitetu audytu w danym kwartale.
 2.
 Wynagrodzenie, o którym mowa w ust. 1, ustala się, jeżeli w danym kwartale odbyło się co najmniej jedno posiedzenie komitetu audytu.
 § 4.
 Regulamin komitetu audytu powinien określać w szczególności:
 1)
 szczegółowy zakres zadań komitetu audytu;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.)
 sposób działania komitetu audytu, w tym:
 a)
 tryb i częstotliwość zwoływania posiedzeń,
@@ -101,6 +98,5 @@ sposób i tryb współpracy komitetu audytu z kierownikami komórek audytu wewn�
 6)
 tryb postępowania w sprawach o wyrażenie zgody na rozwiązanie stosunku pracy albo zmianę warunków pracy i płacy kierownika komórki audytu wewnętrznego, z uwzględnieniem zapewnienia pracodawcy oraz kierownikowi komórki audytu wewnętrznego możliwości udziału w postępowaniu.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2010 r.
-1) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Finansów z dnia 20 maja 2016 r. zmieniającego rozporządzenie w sprawie komitetu audytu (Dz. U. poz. 782), które weszło w życie z dniem 1 lipca 2016 r. 2) Przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 1. 3) Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1. 4) Objaśnienie symbolu M w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 5) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2010 r. 1) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Finansów z dnia 20 maja 2016 r. zmieniającego rozporządzenie w sprawie komitetu audytu (Dz. U. poz. 782), które weszło w życie z dniem 1 lipca 2016 r. 2) Przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 1. 3) Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1. 4) Objaśnienie symbolu M w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 5) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.
 

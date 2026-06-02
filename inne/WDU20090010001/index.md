@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-11-21 |
 | Data wydania | 2009-01-07 |
-| Wejście w życie | 2009-01-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090010001) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1218 i Nr 220, poz. 1600, z 2007 r. Nr 17, poz. 95, Nr 80, poz. 542, Nr 102, poz. 689, Nr 158, poz. 1103, Nr 176, poz. 1238, Nr 191, poz. 1369 i Nr 247, poz. 1821 oraz z 2008 r. Nr 145, poz. 917 i Nr 227, poz. 1505.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9a ust. 4 otrzymuje brzmienie: „
 
@@ -42,7 +41,7 @@ source: "eli-html"
 - **1)** nauczyciela stażysty – 100%,
 - **2)** nauczyciela kontraktowego – 111%,
 - **3)** nauczyciela mianowanego – 144%,
-- **4)** nauczyciela dyplomowanego – 184% kwoty bazowej, określanej dla nauczycieli corocznie w ustawie budżetowej. ” , uchyla się ust. 4, ust. 6 otrzymuje brzmienie: „
+- **4)** nauczyciela dyplomowanego – 184% – kwoty bazowej, określanej dla nauczycieli corocznie w ustawie budżetowej. ” , uchyla się ust. 4, ust. 6 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -50,7 +49,7 @@ source: "eli-html"
 
 - **1)** wysokość stawek dodatków, o których mowa w ust. 1 pkt 2, oraz szczegółowe warunki przyznawania tych dodatków, z zastrzeżeniem art. 33 i 34,
 - **2)** szczegółowe warunki obliczania i wypłacania wynagrodzenia za godziny ponadwymiarowe i godziny doraźnych zastępstw, z zastrzeżeniem art. 35 ust. 3,
-- **3)** wysokość i warunki wypłacania składników wynagrodzenia, o których mowa w ust. 1 pkt 4, o ile nie zostały one określone w ustawie lub w odrębnych przepisach w taki sposób, aby średnie wynagrodzenia nauczycieli, składające się ze składników, o których mowa w ust. 1, odpowiadały na obszarze działania danej jednostki samorządu terytorialnego co najmniej średnim wynagrodzeniom nauczycieli, o których mowa w ust. 3. ” , uchyla się ust. 6b, ust. 7 i 7a otrzymują brzmienie: „
+- **3)** wysokość i warunki wypłacania składników wynagrodzenia, o których mowa w ust. 1 pkt 4, o ile nie zostały one określone w ustawie lub w odrębnych przepisach – w taki sposób, aby średnie wynagrodzenia nauczycieli, składające się ze składników, o których mowa w ust. 1, odpowiadały na obszarze działania danej jednostki samorządu terytorialnego co najmniej średnim wynagrodzeniom nauczycieli, o których mowa w ust. 3. ” , uchyla się ust. 6b, ust. 7 i 7a otrzymują brzmienie: „
     - **d)**
     - **e)**
 
@@ -82,7 +81,7 @@ source: "eli-html"
 
 4. W terminie do dnia 10 stycznia roku kalendarzowego następującego po roku, dla którego wyliczono kwotę różnicy, o której mowa w ust. 2, organ prowadzący szkołę będący jednostką samorządu terytorialnego sporządza sprawozdanie z wysokości średnich wynagrodzeń nauczycieli na poszczególnych stopniach awansu zawodowego w szkołach i placówkach prowadzonych przez tę jednostkę samorządu terytorialnego, z uwzględnieniem wysokości kwoty różnicy, o której mowa w ust. 2.
 
-5. Organ prowadzący szkołę będący jednostką samorządu terytorialnego przedkłada sprawozdanie, o którym mowa w ust. 4, w terminie 7 dni od jego sporządzenia, regionalnej izbie obrachunkowej, a także organowi stanowiącemu tej jednostki samorządu terytorialnego, dyrektorom szkół prowadzonych przez tę jednostkę oraz związkom zawodowym zrzeszającym nauczycieli. Regionalna izba obrachunkowa, w trybie określonym w przepisach ustawy z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych (Dz. U. z 2001 r. Nr 55, poz. 577, z późn. zm.), dotyczących kontroli gospodarki finansowej jednostek samorządu terytorialnego, kontroluje osiągnięcie w poszczególnych jednostkach samorządu terytorialnego wysokości średnich wynagrodzeń nauczycieli, o których mowa w art. 30 ust. 3, z uwzględnieniem art. 30a ust. 3. ” ;
+5. Organ prowadzący szkołę będący jednostką samorządu terytorialnego przedkłada sprawozdanie, o którym mowa w ust. 4, w terminie 7 dni od jego sporządzenia, regionalnej izbie obrachunkowej, a także organowi stanowiącemu tej jednostki samorządu terytorialnego, dyrektorom szkół prowadzonych przez tę jednostkę oraz związkom zawodowym zrzeszającym nauczycieli. Regionalna izba obrachunkowa, w trybie określonym w przepisach ustawy z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych (Dz. U. z 2001 r. Nr 55, poz. 577, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 149, poz. 1454, z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114, Nr 64, poz. 565 i Nr 249, poz. 2104.), dotyczących kontroli gospodarki finansowej jednostek samorządu terytorialnego, kontroluje osiągnięcie w poszczególnych jednostkach samorządu terytorialnego wysokości średnich wynagrodzeń nauczycieli, o których mowa w art. 30 ust. 3, z uwzględnieniem art. 30a ust. 3. ” ;
 
 - **5)** w art. 35 ust. 4 otrzymuje brzmienie: „
 
@@ -137,7 +136,7 @@ source: "eli-html"
 
 7a. Zajęcia i czynności realizowane w ramach czasu pracy nauczyciela:
 
-- **1)** o których mowa w ust. 2 pkt 1, z wyłączeniem zajęć i czynności realizowanych w placówkach opiekuńczo-wychowawczych działających na podstawie ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2008 r. Nr 115, poz. 728, z późn. zm.), są rejestrowane i rozliczane w okresach tygodniowych odpowiednio w dziennikach lekcyjnych lub dziennikach zajęć;
+- **1)** o których mowa w ust. 2 pkt 1, z wyłączeniem zajęć i czynności realizowanych w placówkach opiekuńczo-wychowawczych działających na podstawie ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2008 r. Nr 115, poz. 728, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1056, Nr 216, poz. 1367, Nr 220, poz. 1431 i Nr 223, poz. 1458.), są rejestrowane i rozliczane w okresach tygodniowych odpowiednio w dziennikach lekcyjnych lub dziennikach zajęć;
 - **2)** o których mowa w ust. 2 pkt 2, z wyłączeniem zajęć i czynności realizowanych w placówkach opiekuńczo-wychowawczych działających na podstawie ustawy wymienionej w pkt 1, realizowane w wymiarze określonym w ust. 2 w pkt 2 odpowiednio w lit. a i b, są rejestrowane i rozliczane w okresach półrocznych w dziennikach zajęć pozalekcyjnych. ” ;
 - **7)** w art. 42a ust. 1 otrzymuje brzmienie: „
 
@@ -178,6 +177,6 @@ source: "eli-html"
 **Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z tym że:
 
 - **1)** art. 1 pkt 3 lit. a i b wchodzą w życie z mocą od dnia 1 stycznia 2009 r.;
-- **2)** art. 1 pkt 6 lit. a-d oraz lit. f w zakresie ust. 7a pkt 2 wchodzą w życie z dniem 1 września 2009 r.
+- **2)** art. 1 pkt 6 lit. a-d oraz lit. f w zakresie ust. 7a pkt 2 wchodzą w życie z dniem 1 września 2009 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1218 i Nr 220, poz. 1600, z 2007 r. Nr 17, poz. 95, Nr 80, poz. 542, Nr 102, poz. 689, Nr 158, poz. 1103, Nr 176, poz. 1238, Nr 191, poz. 1369 i Nr 247, poz. 1821 oraz z 2008 r. Nr 145, poz. 917 i Nr 227, poz. 1505. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 149, poz. 1454, z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114, Nr 64, poz. 565 i Nr 249, poz. 2104. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1056, Nr 216, poz. 1367, Nr 220, poz. 1431 i Nr 223, poz. 1458.
 
 

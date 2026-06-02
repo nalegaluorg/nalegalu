@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-05-15 |
 | Data wydania | 2015-06-23 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000867) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/867/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380, z późn. zm.) po art. 26 dodaje się art. 26a w brzmieniu: „
+**Art. 1.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 353, z 2012 r. poz. 908 oraz z 2013 r. poz. 1635) po art. 26 dodaje się art. 26a w brzmieniu: „
 
 **Art. 26a.**
 
@@ -44,5 +43,5 @@ source: "eli-html"
 
 7. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb przyznawania rekompensaty oraz wyrównania, o którym mowa w ust. 5, wzór wniosków o ustalenie prawa do rekompensaty i wyrównania oraz dokumenty stanowiące podstawę do ich ustalenia i wypłaty, kierując się koniecznością ujednolicenia procedur oraz zapewnienia sprawnej realizacji przyznawania rekompensaty oraz wyrównania, a także biorąc pod uwagę dokumenty zgromadzone w toku postępowania o odszkodowanie, o którym mowa w art. 26. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r.
+**Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 353, z 2012 r. poz. 908 oraz z 2013 r. poz. 1635
 

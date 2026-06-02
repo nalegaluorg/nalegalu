@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 12 grudnia 2016 r. w sprawie regulaminu Komisji Egzaminacyjnej dla Aktuariuszy, wynagrodzenia osób wchodzących w jej skład oraz opłat egzaminacyjnych
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 12 grudnia 2016 r. w sprawie regulaminu Komisji Egzaminacyjnej dla Aktuariuszy, wynagrodzenia osób wchodzących w jej skład oraz opłat egzaminacyjnych Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-12 |
 | Data wydania | 2016-12-19 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002068) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2068/text.pdf) |
 
@@ -65,8 +64,7 @@ W przypadku unieważnienia egzaminu z przyczyn, o których mowa w art. 71 ust. 5
 § 5.
 Wprzypadku unieważnienia egzaminu aktuarialnego na podstawie przepisów obowiązujących przed dniem 1 sierpnia 2015 r., przy przystąpieniu do powtórzonego egzaminu opłatę egzaminacyjną pobraną przed unieważnionym egzaminem uznaje się za uiszczoną.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 kwietnia 2015 r. w sprawie nadania regulaminu działania Komisji Egzaminacyjnej dla Aktuariuszy, ustalenia wysokości opłat egzaminacyjnych oraz wynagrodzenia członków Komisji (Dz. U. poz. 701), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 484 ust. 1 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615 i 1948).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 kwietnia 2015 r. w sprawie nadania regulaminu działania Komisji Egzaminacyjnej dla Aktuariuszy, ustalenia wysokości opłat egzaminacyjnych oraz wynagrodzenia członków Komisji (Dz. U. poz. 701), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 484 ust. 1 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615 i 1948). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 kwietnia 2015 r. w sprawie nadania regulaminu działania Komisji Egzaminacyjnej dla Aktuariuszy, ustalenia wysokości opłat egzaminacyjnych oraz wynagrodzenia członków Komisji (Dz. U. poz. 701), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 484 ust. 1 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615 i 1948).
 Załącznik – Regulamin komisji egzaminacyjnej dla aktuariuszy
 § 1.
 Regulamin określa organizację i tryb działania Komisji Egzaminacyjnej dla Aktuariuszy, zwanej dalej „Komisją”.

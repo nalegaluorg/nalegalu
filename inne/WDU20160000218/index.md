@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-02-05 |
 | Data wydania | 2016-02-22 |
-| Wejście w życie | 2016-03-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000218) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/218/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie słupskiej specjalnej strefy ekonomicznej (Dz. U. z 2014 r. poz. 1659 oraz z 2015 r. poz. 166) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 910,1585 ha, położone na terenach miast: Darłowo, Koszalin, Lębork, Słupsk, Szczecinek, Ustka i Wałcz oraz gmin: Biesiekierz, Czarne, Debrzno, Kalisz Pomorski, Karlino, Polanów, Słupsk i Tychowo.
-” ;
+Strefa obejmuje grunty o powierzchni 910,1585 ha, położone na terenach miast: Darłowo, Koszalin, Lębork, Słupsk, Szczecinek, Ustka i Wałcz oraz gmin: Biesiekierz, Czarne, Debrzno, Kalisz Pomorski, Karlino, Polanów, Słupsk i Tychowo. ” ;
 2)
 w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU SŁUPSKIEJ SPECJALNEJ STREFY EKONOMICZNEJ:
 a)

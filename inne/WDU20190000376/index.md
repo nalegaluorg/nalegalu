@@ -37,17 +37,13 @@ rozporządzeniem Ministra Obrony Narodowej z dnia 24 sierpnia 2018 r. zmieniają
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 4 lutego 2008 r. zmieniającego rozporządzenie w sprawie zasad i trybu zaliczania okresów służby, pracy i innych okresów do wysługi lat, uwzględnianej przy ustalaniu wzrostu uposażenia zasadniczego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 169), który stanowi:
-„
+§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 4 lutego 2008 r. zmieniającego rozporządzenie w sprawie zasad i trybu zaliczania okresów służby, pracy i innych okresów do wysługi lat, uwzględnianej przy ustalaniu wzrostu uposażenia zasadniczego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 169), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 24 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie zasad i trybu zaliczania okresów służby, pracy i innych okresów do wysługi lat, uwzględnianej przy ustalaniu wzrostu uposażenia zasadniczego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1727), który stanowi:
-„
+§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 24 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie zasad i trybu zaliczania okresów służby, pracy i innych okresów do wysługi lat, uwzględnianej przy ustalaniu wzrostu uposażenia zasadniczego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1727), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodwej z dnia 25 września 2006 r. w sprawie zasad i trybu zaliczania okresów służby, pracy i innych okresów do wysługi lat, uwzględnianej przy ustalaniu wzrostu uposażenia zasadniczego funkcjonariuszy Służby Wywiadu Wojskowego
 Na podstawie art. 76 ust. 3 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2018 r. poz. 1516 i 1669) zarządza się, co następuje:
 § 1.
@@ -55,7 +51,7 @@ Na podstawie art. 76 ust. 3 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjon
 Do wysługi lat uwzględnianej przy ustalaniu wzrostu uposażenia zasadniczego funkcjonariuszy zalicza się okres służby w Służbie Wywiadu Wojskowego.
 2.
 Do wysługi lat, o której mowa w ust. 1, zalicza się również:
-1)
+1W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 24 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie zasad i trybu zaliczania okresów służby, pracy i innych okresów do wysługi lat, uwzględnianej przy ustalaniu wzrostu uposażenia zasadniczego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1727), które weszło w życie z dniem 21 września 2018 r.)
 okresy pełnienia czynnej służby wojskowej oraz służby w Policji, Straży Granicznej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Służbie Więziennej, Służbie Celno-Skarbowej, Służbie Celnej, Urzędzie Ochrony Państwa lub Biurze Ochrony Rządu;
 2)
 okresy zakończonego zatrudnienia wykonywanego w pełnym wymiarze czasu pracy, okresy pracy wykonywanej równocześnie w wymiarze czasu pracy nie niższym niż połowa obowiązującego w danym zawodzie lub na danym stanowisku sumuje się;
@@ -88,5 +84,5 @@ Zaliczenie do wysługi lat okresów nieuwzględnionych w rozkazie, o którym mow
 4.
 W kolejnych rozkazach personalnych, dotyczących ustalenia wysługi lat, określa się łączną wysługę lat uwzględnioną przy ustalaniu wzrostu uposażenia zasadniczego funkcjonariusza oraz datę, w której upłynął okres wysługi lat uprawniający, zgodnie z przepisami wydanymi na podstawie art. 76 ust. 1 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, do wzrostu tego uposażenia.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 października 2006 r.
+Rozporządzenie wchodzi w życie z dniem 1 października 2006 r. 1) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 24 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie zasad i trybu zaliczania okresów służby, pracy i innych okresów do wysługi lat, uwzględnianej przy ustalaniu wzrostu uposażenia zasadniczego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1727), które weszło w życie z dniem 21 września 2018 r.
 

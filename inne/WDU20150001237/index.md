@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Administracji i Cyfryzacjiz dnia 21 sierpnia 2015 r. w sprawie udzielania pomocy publicznej i pomocy de minimis na cyfrowe udostępnienie informacji sektora publicznego ze źródeł administracyjnych i zasobów nauki oraz cyfrowe udostępnienie zasobów kultury w ramach Programu Operacyjnego Polska Cyfrowa na lata 2014–2020
+# Rozporządzenie Ministra Administracji i Cyfryzacjiz dnia 21 sierpnia 2015 r. w sprawie udzielania pomocy publicznej i pomocy de minimis na cyfrowe udostępnienie informacji sektora publicznego ze źródeł administracyjnych i zasobów nauki oraz cyfrowe udostępnienie zasobów kultury w ramach Programu Operacyjnego Polska Cyfrowa na lata 2014–2020 Tekst Programu Operacyjnego Polska Cyfrowa na lata 2014–2020 został zaakceptowany decyzją Komisji Europejskiej cci 2014pl16rfop002 z dnia 5 grudnia 2014 r., przyjmującą niektóre elementy programu operacyjnego „Polska Cyfrowa na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia” w Polsce i przyjęty uchwałą Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia Programu Operacyjnego Polska Cyfrowa na lata 2014–2020.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-21 |
 | Data wydania | 2015-08-26 |
-| Wejście w życie | 2015-08-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001237) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1237/text.pdf) |
 
@@ -51,7 +50,7 @@ jednym przedsiębiorcy – należy przez to rozumieć jednego przedsiębiorcę w
 7)
 rozpoczęciu realizacji projektu – należy przez to rozumieć rozpoczęcie prac w rozumieniu art. 2 pkt 23 rozporządzenia Komisji (UE) nr 651/2014;
 8)
-środkach trwałych – należy przez to rozumieć środki trwałe, o których mowa w art. 3 ust. 1 pkt 15 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.);
+środkach trwałych – należy przez to rozumieć środki trwałe, o których mowa w art. 3 ust. 1 pkt 15 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4, 978, 1045 i 1166.);
 9)
 wartościach niematerialnych i prawnych – należy przez to rozumieć wartości niematerialne i prawne, o których mowa w art. 3 ust. 1 pkt 14 ustawy z dnia 29 września 1994 r. o rachunkowości.
 § 3.
@@ -119,10 +118,9 @@ państwowa lub współprowadzona z Ministrem Kultury i Dziedzictwa Narodowego in
 2)
 ogólnokrajowy nadawca radiowy i telewizyjny,
 3)
-jednostka naukowa prowadząca działalność o charakterze gospodarczym nierozdzieloną od działalności o charakterze niegospodarczym w rozumieniu przyjętym przez Komisję Europejską,
+jednostka naukowa prowadząca działalność o charakterze gospodarczym nierozdzieloną od działalności o charakterze niegospodarczym w rozumieniu przyjętym przez Komisję EuropejskąPojęcie działalności o charakterze niegospodarczym zostało ustalone w komunikacie Komisji – Zasady ramowe dotyczące pomocy państwa na działalność badawczą, rozwojową i innowacyjną (Dz. Urz. UE C 198 z 27.06.2014, str. 1).,
 4)
-partner w rozumieniu art. 33 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020
-będący przedsiębiorcą w rozumieniu załącznika nr 1 do rozporządzenia Komisji (UE) nr 651/2014, zwany dalej „przedsiębiorcą”.
+partner w rozumieniu art. 33 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 – będący przedsiębiorcą w rozumieniu załącznika nr 1 do rozporządzenia Komisji (UE) nr 651/2014, zwany dalej „przedsiębiorcą”.
 § 7.
 1.
 Wsparcie może być udzielone na projekty realizowane na terytorium Rzeczypospolitej Polskiej, polegające na cyfrowym udostępnieniu informacji sektora publicznego ze źródeł administracyjnych, zasobów nauki lub zasobów kultury, w tym ich digitalizacji.
@@ -146,7 +144,7 @@ Pomoc podlega kumulacji na zasadach określonych w art. 5 rozporządzenia Komisj
 2.
 Równowartość udzielonego wsparcia oblicza się według średniego kursu euro ogłoszonego przez Narodowy Bank Polski w dniu udzielenia pomocy.
 3.
-Podmiot ubiegający się o wsparcie jest obowiązany do przedstawienia informacji, o których mowa w art. 37 ust. 1 i 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.).
+Podmiot ubiegający się o wsparcie jest obowiązany do przedstawienia informacji, o których mowa w art. 37 ust. 1 i 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.).
 § 9.
 1.
 Wydatkami kwalifikującymi się do objęcia wsparciem są wydatki faktycznie poniesione i udokumentowane w okresie kwalifikowalności wydatków określonym w umowie o dofinansowanie, bezpośrednio i wyłącznie związane z projektem, niezbędne do jego realizacji i ponoszone w sposób efektywny, pomniejszone o naliczony podatek od towarów i usług, z wyjątkiem sytuacji, gdy beneficjentowi nie przysługuje prawo do jego zwrotu lub odliczenia od należnego podatku od towarów i usług, które spełniają łącznie warunki określone w niniejszym rozporządzeniu oraz w wytycznych ministra właściwego do spraw rozwoju regionalnego w zakresie kwalifikowalności wydatków w ramach Programu Operacyjnego Polska Cyfrowa na lata 2014–2020.
@@ -248,5 +246,5 @@ ust. 1 pkt 2, jest udzielana w zakresie wynikającym z mapy pomocy regionalnej z
 3)
 ust. 1 pkt 3 oraz ust. 2 pkt 2 i 3, jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 rozporządzenia Komisji (UE) nr 651/2014.
 § 16.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Tekst Programu Operacyjnego Polska Cyfrowa na lata 2014–2020 został zaakceptowany decyzją Komisji Europejskiej cci 2014pl16rfop002 z dnia 5 grudnia 2014 r., przyjmującą niektóre elementy programu operacyjnego „Polska Cyfrowa na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia” w Polsce i przyjęty uchwałą Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia Programu Operacyjnego Polska Cyfrowa na lata 2014–2020. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4, 978, 1045 i 1166. 4) Pojęcie działalności o charakterze niegospodarczym zostało ustalone w komunikacie Komisji – Zasady ramowe dotyczące pomocy państwa na działalność badawczą, rozwojową i innowacyjną (Dz. Urz. UE C 198 z 27.06.2014, str. 1). 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.
 

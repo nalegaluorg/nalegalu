@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-04 |
 | Data wydania | 2014-04-25 |
-| Wejście w życie | 2014-05-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000529) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/529/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312 i 486.) wprowadza się następujące zmiany:
 
 - **1)** w art. 80b w ust. 1 w pkt 1: lit. c otrzymuje brzmienie: „ numer rejestracyjny oraz numer świadectwa homologacji typu WE pojazdu lub świadectwa homologacji typu pojazdu, ” , lit. h otrzymuje brzmienie: „ termin badania technicznego i odczyt licznika przebiegu pojazdu w momencie badania, ” ;
     - **a)**
@@ -67,7 +66,7 @@ source: "eli-html"
 - **3)** rodzaj lub zakres danych lub informacji zgromadzonych w ewidencji, które mogą być udostępnione poszczególnym podmiotom, o których mowa w art. 80c ust. 1, 3 i 4,
 - **4)** rodzaj lub zakres danych lub informacji zgromadzonych w ewidencji, które mogą być udostępnione na podstawie art. 80c ust. 3e i 5,
 - **5)** dane identyfikujące pojazd, o których mowa w art. 80c ust. 3e,
-- **6)** wysokość opłat za udostępnienie danych lub informacji zgromadzonych w ewidencji oraz warunki i sposób ich wnoszenia uwzględniając konieczność zapewnienia bezpieczeństwa danych przetwarzanych w ewidencji i ich ochrony przed nieuprawnionym ujawnieniem i dostępem, a także możliwość zróżnicowania zakresu danych identyfikujących pojazd oraz wysokości opłat w zależności od rodzaju lub zakresu udostępnianych danych lub informacji. ” ;
+- **6)** wysokość opłat za udostępnienie danych lub informacji zgromadzonych w ewidencji oraz warunki i sposób ich wnoszenia – uwzględniając konieczność zapewnienia bezpieczeństwa danych przetwarzanych w ewidencji i ich ochrony przed nieuprawnionym ujawnieniem i dostępem, a także możliwość zróżnicowania zakresu danych identyfikujących pojazd oraz wysokości opłat w zależności od rodzaju lub zakresu udostępnianych danych lub informacji. ” ;
 - **5)** w art. 100c: w ust. 1 po pkt 5 dodaje się pkt 5a w brzmieniu: „
     - **a)**
 
@@ -78,5 +77,5 @@ source: "eli-html"
 
 **Art. 2.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 80e ust. 1 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 80e ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 9 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312 i 486.
 

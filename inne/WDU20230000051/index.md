@@ -26,18 +26,32 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000051) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/51/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej Rozdział 1 – Przepisy ogólne Rozdział 2 – Osoby prawne Kościoła i ich organy Rozdział 3 – Działalność Kościoła Rozdział 4 – Sprawy majątkowe Kościoła Rozdział 5 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej
 Załącznik – Wykaz osób prawnych Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2014 r. poz. 1599), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 listopada 2022 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi: „
+Przepisy ogólne
+Osoby prawne Kościoła i ich organy
+Działalność Kościoła
+Sprawy majątkowe Kościoła
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Osoby prawne Kościoła i ich organy
+
+#### Rozdział 3 – Działalność Kościoła
+
+#### Rozdział 4 – Sprawy majątkowe Kościoła
+
+#### Rozdział 5 – Przepisy przejściowe i końcowe
 
 **Art. 417.** Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -59,7 +73,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 3.** Kościół rządzi się w swoich sprawach własnym Prawem Wewnętrznym, swobodnie wykonuje władzę duchowną, jurysdykcyjną i samodzielnie zarządza swoimi sprawami.
 
-#### Rozdział 2 Osoby prawne Kościoła i ich organy
+#### Rozdział 2
 
 **Art. 4.**
 
@@ -85,9 +99,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 5. Do składania oświadczeń woli w imieniu Kościoła upoważniona jest Rada Synodalna, działająca poprzez jej Przewodniczącego wspólnie z Sekretarzem lub Skarbnikiem.
 
-6. Zmiana nazwy grup osób prawnych, o których mowa w ust. 3, może być dokonana przepisami wewnątrzkościelnymi. Zmiany te, na wniosek Rady Synodalnej, Minister-Szef Urzędu Rady Ministrów  ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+6. Zmiana nazwy grup osób prawnych, o których mowa w ust. 3, może być dokonana przepisami wewnątrzkościelnymi. Zmiany te, na wniosek Rady Synodalnej, Minister-Szef Urzędu Rady Ministrów Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2021 r. poz. 1893, 2368 i 2469 oraz z 2022 r. poz. 350, 807, 847, 1390 i 1933), która weszła w życie z dniem 1 kwietnia 1999 r. ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-**Art. 5.** Inne jednostki organizacyjne Kościoła mogą, na wniosek Rady Synodalnej, uzyskać osobowość prawną w drodze rozporządzenia Ministra-Szefa Urzędu Rady Ministrów .
+**Art. 5.** Inne jednostki organizacyjne Kościoła mogą, na wniosek Rady Synodalnej, uzyskać osobowość prawną w drodze rozporządzenia Ministra-Szefa Urzędu Rady Ministrów Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1..
 
 **Art. 6.**
 
@@ -95,7 +109,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. O faktach wymienionych w ust. 1 władza kościelna powiadamia niezwłocznie właściwy organ administracji rządowej:
 
-- **1)** odnośnie do osób wymienionych w art. 4 ust. 3 pkt 2 oraz jednostek, które otrzymały osobowość prawną w drodze rozporządzenia, o którym mowa w art. 5 – Ministra-Szefa Urzędu Rady Ministrów ;
+- **1)** odnośnie do osób wymienionych w art. 4 ust. 3 pkt 2 oraz jednostek, które otrzymały osobowość prawną w drodze rozporządzenia, o którym mowa w art. 5 – Ministra-Szefa Urzędu Rady Ministrów Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1.;
 - **2)** w pozostałych przypadkach – wojewodę.
 
 3. Nowo utworzone jednostki organizacyjne, o których mowa w art. 4 ust. 3 pkt 2–5, nabywają osobowość prawną z chwilą pisemnego powiadomienia właściwego organu administracji rządowej. Odpis powiadomienia, z umieszczonym na nim potwierdzeniem odbioru, jest dowodem uzyskania osobowości prawnej.
@@ -108,7 +122,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 8.** Kościelna osoba prawna nie odpowiada za zobowiązania innej kościelnej osoby prawnej.
 
-#### Rozdział 3 Działalność Kościoła
+#### Rozdział 3
 
 **Art. 9.**
 
@@ -182,15 +196,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Dzieciom i młodzieży korzystającym z zorganizowanych form wypoczynku wakacyjnego zapewnia się prawo uczestniczenia w nabożeństwach i wykonywania innych praktyk religijnych.
 
-3. Minister Edukacji Narodowej  oraz Minister Zdrowia i Opieki Społecznej  w porozumieniu z Kościołem, w drodze rozporządzenia, określą zasady organizowania nabożeństw, katechizacji i wykonywania innych praktyk religijnych właściwych dla wyznania polskokatolickiego dzieciom i młodzieży przebywającym w zakładach opiekuńczych i wychowawczych, sanatoriach, prewentoriach i szpitalach oraz korzystającym z zorganizowanego wypoczynku.
+3. Minister Edukacji Narodowej Obecnie minister właściwy do spraw oświaty i wychowania na podstawie art. 4 ust. 1, art. 5 pkt 15 i art. 20 ust. 1 ustawy, o której mowa w odnośniku 1. oraz Minister Zdrowia i Opieki Społecznej Obecnie minister właściwy do spraw zdrowia na podstawie art. 4 ust. 1, art. 5 pkt 28 i art. 33 ust. 1 ustawy, o której mowa w odnośniku 1. w porozumieniu z Kościołem, w drodze rozporządzenia, określą zasady organizowania nabożeństw, katechizacji i wykonywania innych praktyk religijnych właściwych dla wyznania polskokatolickiego dzieciom i młodzieży przebywającym w zakładach opiekuńczych i wychowawczych, sanatoriach, prewentoriach i szpitalach oraz korzystającym z zorganizowanego wypoczynku.
 
-**Art. 17.**
-
-1. Prawo wykonywania praktyk religijnych i korzystania z opieki duszpasterskiej zapewnia się też osobom przebywającym w podmiotach leczniczych wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne w rozumieniu przepisów o działalności leczniczej oraz w domach pomocy społecznej, a także osobom tymczasowo aresztowanym, skazanym oraz nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich.
-
-2. Nabożeństwa dla osób, o których mowa w ust. 1, odbywają się w kaplicach lub innych pomieszczeniach udostępnianych na ten cel przez właściwych kierowników podmiotów i zakładów prowadzonych przez państwo lub samorząd terytorialny.
-
-3. Do wyznaczania kapelanów w podmiotach i zakładach prowadzonych przez państwo lub samorząd terytorialny, w celu zaspokajania potrzeb określonych w ust. 1, jest uprawniona Rada Synodalna.
+**Art. 17.** 1W brzmieniu ustalonym przez art. 371 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r.. Prawo wykonywania praktyk religijnych i korzystania z opieki duszpasterskiej zapewnia się też osobom przebywającym w podmiotach leczniczych wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne w rozumieniu przepisów o działalności leczniczej oraz w domach pomocy społecznej, a także osobom tymczasowo aresztowanym, skazanym oraz nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich. 2. Nabożeństwa dla osób, o których mowa w ust. 1, odbywają się w kaplicach lub innych pomieszczeniach udostępnianych na ten cel przez właściwych kierowników podmiotów i zakładów prowadzonych przez państwo lub samorząd terytorialny. 3. Do wyznaczania kapelanów w podmiotach i zakładach prowadzonych przez państwo lub samorząd terytorialny, w celu zaspokajania potrzeb określonych w ust. 1, jest uprawniona Rada Synodalna.
 
 **Art. 18.**
 
@@ -226,7 +234,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 25.** Instytucje państwowe, samorządowe i kościelne współdziałają w ochronie, konserwacji, udostępnianiu i upowszechnianiu zabytków architektury kościelnej i sztuki sakralnej oraz ich dokumentacji, muzeów, archiwów i bibliotek będących własnością kościelną, a także dzieł kultury i sztuki o motywach religijnych, stanowiących ważną część dziedzictwa kultury polskiej.
 
-#### Rozdział 4 Sprawy majątkowe Kościoła
+#### Rozdział 4
 
 **Art. 26.** Kościołowi i jego osobom prawnym przysługuje prawo nabywania, posiadania i zbywania mienia ruchomego i nieruchomego, nabywania i zbywania innych praw oraz swobodnego zarządzania swoim majątkiem.
 
@@ -278,7 +286,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 32.** Niezależnie od ustawowego ubezpieczenia duchownych, kościelne osoby prawne mogą prowadzić wewnętrzną działalność ubezpieczeniową na rzecz duchownych, która w rozumieniu ustawy nie jest działalnością gospodarczą.
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5
 
 **Art. 33.**
 
@@ -309,14 +317,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Wykaz kościelnych osób prawnych istniejących w dniu wejścia w życie ustawy określa załącznik do ustawy.
 
-**Art. 36.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-
-- **1)** Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2021 r. poz. 1893, 2368 i 2469 oraz z 2022 r. poz. 350, 807, 847, 1390 i 1933), która weszła w życie z dniem 1 kwietnia 1999 r. 2) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1. 3) Obecnie minister właściwy do spraw oświaty i wychowania na podstawie art. 4 ust. 1, art. 5 pkt 15 i art. 20 ust. 1 ustawy, o której mowa w odnośniku 1. 4) Obecnie minister właściwy do spraw zdrowia na podstawie art. 4 ust. 1, art. 5 pkt 28 i art. 33 ust. 1 ustawy, o której mowa w odnośniku 1. 5) W brzmieniu ustalonym przez art. 371 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r. 6) Ustawa została ogłoszona w dniu 23 sierpnia 1995 r. Załącznik – Wykaz osób prawnych Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej I. Diecezje i paraf ie
-
-1. Diecezja Krakowsko-Częstochowska Parafia Bażanówka Parafia Bielsko-Biała Parafia Bolesław Parafia Bukowno Parafia Częstochowa Parafia Hucisko Parafia Jaćmierz Parafia Jastkowice Parafia Kielce Parafia Wniebowstąpienia Pańskiego – Kraków Parafia Wniebowzięcia Najświętszej Maryi Panny – Kraków Parafia Zmartwychwstania Pańskiego – Kraków Parafia Krzykawa Parafia Libiąż Parafia Łęki Dukielskie Parafia Okół Parafia Osówka Parafia Ostrowiec Świętokrzyski Parafia Podgórze Boryjskie Parafia Rokitno Szlacheckie Parafia Sanok Parafia Skadla Parafia Skarżysko-Kamienna Parafia Sosnowiec Parafia Strzyżowice Parafia Tarłów Parafia Tarnów
-
-2. Diecezja Warszawska Parafia Bydgoszcz Parafia Chełm Parafia Dąbrówka Parafia Długi Kąt Parafia Elbląg Parafia Gdańsk Parafia Gdynia Parafia Gorzków Parafia Grudki Parafia Grudziądz Parafia Horodło Parafia Kosarzew Parafia Lębork Parafia Lipa Lubelska Parafia Lublin Parafia Maciejów Stary Parafia Majdan Leśniowski Parafia Majdan Nepryski Parafia Matki Bożej Nieustającej Pomocy – Łódź Parafia Świętej Rodziny – Łódź Parafia Olsztyn Parafia Ruda Huta Parafia Sieradz Parafia Studzianki Pancerne Parafia Świeciechów Parafia Tarnogóra Parafia Tolkmicko Parafia Tomaszów Mazowiecki Parafia Toruń Parafia Turowiec Parafia Dobrego Pasterza – Warszawa Parafia Świętego Ducha – Warszawa Parafia Zamość Parafia Żółkiewka
-
-3. Diecezja Wrocławska Parafia Boguszów-Gorce Parafia Bukowo Morskie Parafia Duszniki-Zdrój Parafia Gorzów Wielkopolski Parafia Gozdnica Parafia Jelenia Góra Parafia Kotłów Parafia Legnica Parafia Leszno Parafia Lubawka Parafia Małomice Parafia Obórki Parafia Ostrów Wielkopolski Parafia Poznań Parafia Stargard Szczeciński Parafia Strzyżew Parafia Szczecin Parafia Świdnica Parafia Wałbrzych Parafia Wrocław Parafia Ząbkowice Śląskie Parafia Zielona Góra Parafia Złotoryja Parafia Żagań Parafia Żary Parafia Żarki II. Seminaria Wyższe Seminarium Duchowne Kościoła Polskokatolickiego w Warszawie.
-
+**Art. 36.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 23 sierpnia 1995 r.. 1) Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2021 r. poz. 1893, 2368 i 2469 oraz z 2022 r. poz. 350, 807, 847, 1390 i 1933), która weszła w życie z dniem 1 kwietnia 1999 r. 2) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1. 3) Obecnie minister właściwy do spraw oświaty i wychowania na podstawie art. 4 ust. 1, art. 5 pkt 15 i art. 20 ust. 1 ustawy, o której mowa w odnośniku 1. 4) Obecnie minister właściwy do spraw zdrowia na podstawie art. 4 ust. 1, art. 5 pkt 28 i art. 33 ust. 1 ustawy, o której mowa w odnośniku 1. 5) W brzmieniu ustalonym przez art. 371 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r. 6) Ustawa została ogłoszona w dniu 23 sierpnia 1995 r. Załącznik – Wykaz osób prawnych Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej I. Diecezje i paraf ie 1. Diecezja Krakowsko-Częstochowska Parafia Bażanówka Parafia Bielsko-Biała Parafia Bolesław Parafia Bukowno Parafia Częstochowa Parafia Hucisko Parafia Jaćmierz Parafia Jastkowice Parafia Kielce Parafia Wniebowstąpienia Pańskiego – Kraków Parafia Wniebowzięcia Najświętszej Maryi Panny – Kraków Parafia Zmartwychwstania Pańskiego – Kraków Parafia Krzykawa Parafia Libiąż Parafia Łęki Dukielskie Parafia Okół Parafia Osówka Parafia Ostrowiec Świętokrzyski Parafia Podgórze Boryjskie Parafia Rokitno Szlacheckie Parafia Sanok Parafia Skadla Parafia Skarżysko-Kamienna Parafia Sosnowiec Parafia Strzyżowice Parafia Tarłów Parafia Tarnów 2. Diecezja Warszawska Parafia Bydgoszcz Parafia Chełm Parafia Dąbrówka Parafia Długi Kąt Parafia Elbląg Parafia Gdańsk Parafia Gdynia Parafia Gorzków Parafia Grudki Parafia Grudziądz Parafia Horodło Parafia Kosarzew Parafia Lębork Parafia Lipa Lubelska Parafia Lublin Parafia Maciejów Stary Parafia Majdan Leśniowski Parafia Majdan Nepryski Parafia Matki Bożej Nieustającej Pomocy – Łódź Parafia Świętej Rodziny – Łódź Parafia Olsztyn Parafia Ruda Huta Parafia Sieradz Parafia Studzianki Pancerne Parafia Świeciechów Parafia Tarnogóra Parafia Tolkmicko Parafia Tomaszów Mazowiecki Parafia Toruń Parafia Turowiec Parafia Dobrego Pasterza – Warszawa Parafia Świętego Ducha – Warszawa Parafia Zamość Parafia Żółkiewka 3. Diecezja Wrocławska Parafia Boguszów-Gorce Parafia Bukowo Morskie Parafia Duszniki-Zdrój Parafia Gorzów Wielkopolski Parafia Gozdnica Parafia Jelenia Góra Parafia Kotłów Parafia Legnica Parafia Leszno Parafia Lubawka Parafia Małomice Parafia Obórki Parafia Ostrów Wielkopolski Parafia Poznań Parafia Stargard Szczeciński Parafia Strzyżew Parafia Szczecin Parafia Świdnica Parafia Wałbrzych Parafia Wrocław Parafia Ząbkowice Śląskie Parafia Zielona Góra Parafia Złotoryja Parafia Żagań Parafia Żary Parafia Żarki II. Seminaria Wyższe Seminarium Duchowne Kościoła Polskokatolickiego w Warszawie.
 

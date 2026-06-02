@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-03-29 |
 | Data wydania | 2016-03-31 |
-| Wejście w życie | 2018-06-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000426) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/426/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 100af ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 100af ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970, z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1830, 1844, 1893, 2183 i 2281oraz z 2016 r. poz. 266 i 352.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa warunki, sposób i tryb wyjaśniania niezgodności danych przez podmioty, które te dane przekazują, a także terminy, zakres, sposób, tryb i warunki przekazywania poprawnych danych do centralnej ewidencji kierowców, zwanej dalej „ewidencją”.
 § 2.
@@ -88,5 +87,5 @@ Informacja zawierająca zestawienie niezgodności jest generowana przez system t
 3.
 Podmiot pobiera informację zawierającą zestawienie niezgodności nie później niż w ciągu 2 dni roboczych od dnia jej udostępnienia.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970, z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1830, 1844, 1893, 2183 i 2281oraz z 2016 r. poz. 266 i 352.
 

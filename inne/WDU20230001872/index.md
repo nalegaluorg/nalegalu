@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw
+# Ustawa z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawę z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach zdrowotnych finansowanych ze środków publicznych, ustawę z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ustawę z dnia 22 listopada 2018 r. o dokumentach publicznych oraz ustawę z dnia 11 marca 2022 r. o obronie Ojczyzny.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-08-17 |
 | Data wydania | 2023-09-14 |
-| Wejście w życie | 2023-09-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001872) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1872/text.pdf) |
 
@@ -32,8 +31,10 @@ source: "eli-html"
 
 **Art. 4a.** Ilekroć w ustawie jest mowa o społecznej inicjatywie mieszkaniowej, należy przez to rozumieć także towarzystwo budownictwa społecznego, o którym mowa w art. 24 ust. 5 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2023 r. poz. 790, 1114, 1463 i 1693). ” ;
 
-- **2)** w art. 7: w ust. 1: – uchyla się pkt 7, – po pkt 9 dodaje się pkt 9a w brzmieniu: „ 9a) partycypacja w kosztach budowy budynków mieszkalnych wielorodzinnych w społecznej inicjatywie mieszkaniowej utworzonych przez Agencję, w części przeznaczonej do zakwaterowania żołnierzy zawodowych; ” , ust. 2 otrzymuje brzmienie: „
+- **2)** w art. 7: w ust. 1: – uchyla się pkt 7, po pkt 9 dodaje się pkt 9a w brzmieniu: „
     - **a)**
+
+- **9a)** partycypacja w kosztach budowy budynków mieszkalnych wielorodzinnych w społecznej inicjatywie mieszkaniowej utworzonych przez Agencję, w części przeznaczonej do zakwaterowania żołnierzy zawodowych; ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Zadania, o których mowa w ust. 1 pkt 6, 7a, 9, 9a, 11 i 15, Agencja realizuje w zakresie wynikającym z potrzeb obronności i bezpieczeństwa państwa. ” ;
@@ -74,10 +75,13 @@ source: "eli-html"
 - **6)** w art. 29: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Agencja otrzymuje dotację podmiotową z części budżetu państwa, której dysponentem jest Minister Obrony Narodowej, na utrzymanie Agencji, gdy planowane do pozyskania przychody z działalności bieżącej, w tym z poszczególnych rodzajów działalności, nie byłyby wystarczające na pokrycie kosztów tej działalności. Wykorzystanie dotacji podmiotowej następuje przez realizację celu, na jaki została przekazana. ” , w ust. 2: – w pkt 3 w lit. i kropkę zastępuje się przecinkiem i dodaje się lit. j w brzmieniu: „ j) pokrycia kosztów wynikających z realizacji zadań, o których mowa w art. 9 ust. 1 pkt 11; ” , – dodaje się pkt 4 i 5 w brzmieniu: „ 4) partycypacja w kosztach budowy budynków, lokali mieszkalnych i internatów oraz związanej z nimi infrastruktury; 5) sfinansowanie realizacji zadania, o którym mowa w art. 9 ust. 1 pkt 9, w zakresie realizacji inwestycji i remontów, w tym ulepszeń i zakupów środków trwałych oraz związanej z nimi infrastruktury oraz pokrycia kosztów utrzymania obiektów i infrastruktury o przeznaczeniu wojskowym wykorzystywanych nieodpłatnie bezpośrednio na potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej, pomniejszonych o przychody należne z tytułu opłat za używanie tych obiektów. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+1. Agencja otrzymuje dotację podmiotową z części budżetu państwa, której dysponentem jest Minister Obrony Narodowej, na utrzymanie Agencji, gdy planowane do pozyskania przychody z działalności bieżącej, w tym z poszczególnych rodzajów działalności, nie byłyby wystarczające na pokrycie kosztów tej działalności. Wykorzystanie dotacji podmiotowej następuje przez realizację celu, na jaki została przekazana. ” , w ust. 2: w pkt 3 w lit. i kropkę zastępuje się przecinkiem i dodaje się lit. j w brzmieniu: „ pokrycia kosztów wynikających z realizacji zadań, o których mowa w art. 9 ust. 1 pkt 11; ” , dodaje się pkt 4 i 5 w brzmieniu: „
 
 - **b)**
-- **c)**
+- **j)**
+- **4)** partycypacja w kosztach budowy budynków, lokali mieszkalnych i internatów oraz związanej z nimi infrastruktury;
+- **5)** sfinansowanie realizacji zadania, o którym mowa w art. 9 ust. 1 pkt 9, w zakresie realizacji inwestycji i remontów, w tym ulepszeń i zakupów środków trwałych oraz związanej z nimi infrastruktury oraz pokrycia kosztów utrzymania obiektów i infrastruktury o przeznaczeniu wojskowym wykorzystywanych nieodpłatnie bezpośrednio na potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej, pomniejszonych o przychody należne z tytułu opłat za używanie tych obiektów. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **c)**
 
 2a. Wykorzystanie i rozliczenie dotacji na realizację zadania wskazanego w art. 9 ust. 1 pkt 9 w zakresie, o którym mowa w ust. 2 pkt 5, za dany miesiąc następuje w kolejnym miesiącu, po ustaleniu rzeczywistych przychodów i kosztów, z wyłączeniem ostatniego miesiąca roku, w którym wykorzystanie i rozliczenie dotacji następuje do 31 grudnia. ” , w ust. 3 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 
@@ -106,7 +110,7 @@ source: "eli-html"
 - **1)** zarządzanie nieruchomościami będącymi w trwałym zarządzie jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, niewykorzystywanymi przez te jednostki,
 - **2)** realizację dostaw, w tym dostaw w ramach prowadzonych inwestycji wojskowych,
 - **3)** wykonywanie jako inwestor powierzonych jej przez Ministra Obrony Narodowej zadań w zakresie inwestycji wynikających z potrzeb Sił Zbrojnych Rzeczypospolitej Polskiej,
-- **4)** świadczenie usług, w tym usług najmu, wypoczynkowych, konferencyjnych i szkoleniowych, ochrony obiektów oraz robót budowlanych i remontowych na rzecz Ministra Obrony Narodowej oraz jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych przy czym koszty umów realizowanych na rzecz jednostek nadzorowanych przez Ministra Obrony Narodowej ponoszą te jednostki, a w przypadku jednostek podległych Ministrowi Obrony Narodowej koszty umów ponoszą właściwi dysponenci środków budżetowych. ” ;
+- **4)** świadczenie usług, w tym usług najmu, wypoczynkowych, konferencyjnych i szkoleniowych, ochrony obiektów oraz robót budowlanych i remontowych na rzecz Ministra Obrony Narodowej oraz jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych – przy czym koszty umów realizowanych na rzecz jednostek nadzorowanych przez Ministra Obrony Narodowej ponoszą te jednostki, a w przypadku jednostek podległych Ministrowi Obrony Narodowej koszty umów ponoszą właściwi dysponenci środków budżetowych. ” ;
 - **12)** art. 56 otrzymuje brzmienie: „
 
 **Art. 56.**
@@ -171,7 +175,7 @@ source: "eli-html"
 1. Minister Obrony Narodowej może nieodpłatnie przekazywać na własność, bez pośrednictwa Agencji, mienie ruchome Skarbu Państwa, o którym mowa w art. 1 pkt 2 lit. a, w tym produkty lecznicze i wyroby medyczne oraz środki biobójcze i suplementy diety, będące do dnia przekazania we władaniu jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych:
 
 - **1)** państwowym jednostkom organizacyjnym, jednostkom samorządu terytorialnego, państwowym i samorządowym instytucjom kultury, muzeom, państwowym i samorządowym szkołom publicznym i uczelniom publicznym – na cele związane z ich działalnością,
-- **2)** organizacjom pozarządowym prowadzącym działalność pożytku publicznego, ze szczególnym uwzględnieniem zadań związanych z obronnością państwa i działalnością Sił Zbrojnych Rzeczypospolitej Polskiej oraz porządkiem i bezpieczeństwem publicznym – na cele związane z ich działalnością statutową posiadającym siedzibę na terytorium Rzeczypospolitej Polskiej, na wniosek tych podmiotów. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+- **2)** organizacjom pozarządowym prowadzącym działalność pożytku publicznego, ze szczególnym uwzględnieniem zadań związanych z obronnością państwa i działalnością Sił Zbrojnych Rzeczypospolitej Polskiej oraz porządkiem i bezpieczeństwem publicznym – na cele związane z ich działalnością statutową – posiadającym siedzibę na terytorium Rzeczypospolitej Polskiej, na wniosek tych podmiotów. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
     - **b)**
 
 3a. Przekazanie produktów leczniczych i wyrobów medycznych oraz środków biobójczych i suplementów diety, będących do dnia przekazania we władaniu jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, odbywa się na podstawie wniosku złożonego do Ministra Obrony Narodowej albo jednostki organizacyjnej upoważnionej przez niego do podejmowania decyzji w przedmiotowej sprawie. ” .
@@ -216,7 +220,7 @@ source: "eli-html"
 - **2)** emerytów wojskowych,
 - **3)** rencistów wojskowych,
 - **4)** wdowy po żołnierzach zawodowych, emerytach wojskowych lub rencistach wojskowych,
-- **5)** dzieci żołnierzy zawodowych do czasu zawarcia przez nie związku małżeńskiego, nie dłużej jednak niż do dnia ukończenia 25. roku życia, chyba że przed tym dniem stały się niezdolne do pracy oraz samodzielnej egzystencji i nie zawarły związku małżeńskiego nie może przewyższać wskaźnika waloryzacji określonego na dany rok w decyzji Ministra Obrony Narodowej wydanej do końca I kwartału.
+- **5)** dzieci żołnierzy zawodowych do czasu zawarcia przez nie związku małżeńskiego, nie dłużej jednak niż do dnia ukończenia 25. roku życia, chyba że przed tym dniem stały się niezdolne do pracy oraz samodzielnej egzystencji i nie zawarły związku małżeńskiego – nie może przewyższać wskaźnika waloryzacji określonego na dany rok w decyzji Ministra Obrony Narodowej wydanej do końca I kwartału.
 
 2b. Kalkulowane koszty utrzymania lokali mieszkalnych, które są zajmowane przez osoby wymienione w ust. 2a, pomniejszone o przychody należne z tytułu opłat za używanie lokali są pokrywane z dotacji podmiotowej, o której mowa w art. 29 ust. 1 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego. ” ;
 
@@ -262,8 +266,10 @@ source: "eli-html"
     - **e)**
 
 - **1)** ustalanie opłat za zajmowanie miejsc w kwaterze internatowej lub w internacie uwzględniało kalkulację kosztów utrzymania takiej kwatery lub internatu oraz jednolitość ustalania kalkulacji tych kosztów; ” ;
-- **6)** w art. 53a: w ust. 1: – we wprowadzeniu do wyliczenia wyrazy „, o których mowa w art. 51 ust. 1 pkt 1 i 2,” zastępuje się wyrazem „zawodowych,”, – w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „ 3) żołnierza zawodowego, którego prawo do zakwaterowania jest realizowane przez przydział kwatery albo innego lokalu mieszkalnego w miejscowości innej niż ta, w której żołnierz pełni służbę, lub miejscowości pobliskiej. ” , dodaje się ust. 3 i 4 w brzmieniu: „
+- **6)** w art. 53a: w ust. 1: – we wprowadzeniu do wyliczenia wyrazy „, o których mowa w art. 51 ust. 1 pkt 1 i 2,” zastępuje się wyrazem „zawodowych,”, w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
     - **a)**
+
+- **3)** żołnierza zawodowego, którego prawo do zakwaterowania jest realizowane przez przydział kwatery albo innego lokalu mieszkalnego w miejscowości innej niż ta, w której żołnierz pełni służbę, lub miejscowości pobliskiej. ” , dodaje się ust. 3 i 4 w brzmieniu: „
     - **b)**
 
 3. W przypadku wystąpienia potrzeb żołnierzy, o których mowa w art. 51 ust. 1 pkt 1, osoby wymienione w ust. 1 są obowiązane opróżnić miejsce w internacie albo kwaterze internatowej w terminie 30 dni od dnia doręczenia wezwania.
@@ -299,7 +305,7 @@ source: "eli-html"
 
 2. Osoba przebywająca w kwaterze lub lokalu mieszkalnym albo lokalu będącym w Zarządzie Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych, która w sposób złośliwy lub uporczywy zakłóca osobom zamieszkującym w danym budynku korzystanie z zajmowanego lokalu mieszkalnego lub pomieszczeń przynależnych do tego lokalu, podlega karze grzywny.
 
-3. Kto, będąc obowiązany do zwolnienia zajmowanej kwatery albo innego lokalu mieszkalnego, opróżnia je bez zawiadomienia o tym odpowiednio Agencji albo Zarządu Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji, podlega karze grzywny. ” . W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm.) w art. 11b:
+3. Kto, będąc obowiązany do zwolnienia zajmowanej kwatery albo innego lokalu mieszkalnego, opróżnia je bez zawiadomienia o tym odpowiednio Agencji albo Zarządu Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji, podlega karze grzywny. ” . W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234, 1429, 1675, 1692, 1733 i 1831.) w art. 11b:
 
 - **1)** po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
@@ -402,7 +408,7 @@ source: "eli-html"
 
 - **1)** w stosunku do których orzeczono całkowitą niezdolność do pracy w gospodarstwie rolnym na podstawie ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników,
 - **2)** całkowicie niezdolne do pracy oraz niezdolne do samodzielnej egzystencji lub uznane za całkowicie niezdolne do pracy na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych,
-- **3)** zaliczone do osób o znacznym stopniu niepełnosprawności albo o umiarkowanym stopniu niepełnosprawności w rozumieniu przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych można zwolnić z obowiązku osobistego stawiennictwa do kwalifikacji wojskowej w przypadku skutecznego doręczenia wójtowi (burmistrzowi, prezydentowi miasta) orzeczenia albo wypisu z treści orzeczenia stwierdzającego tę niezdolność lub niepełnosprawność, na podstawie którego można określić zdolność tych osób do czynnej służby wojskowej, oraz poinformowania szefa wojskowego centrum rekrutacji na piśmie albo za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną o tym doręczeniu. ” ;
+- **3)** zaliczone do osób o znacznym stopniu niepełnosprawności albo o umiarkowanym stopniu niepełnosprawności w rozumieniu przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych – można zwolnić z obowiązku osobistego stawiennictwa do kwalifikacji wojskowej w przypadku skutecznego doręczenia wójtowi (burmistrzowi, prezydentowi miasta) orzeczenia albo wypisu z treści orzeczenia stwierdzającego tę niezdolność lub niepełnosprawność, na podstawie którego można określić zdolność tych osób do czynnej służby wojskowej, oraz poinformowania szefa wojskowego centrum rekrutacji na piśmie albo za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną o tym doręczeniu. ” ;
 - **11)** w art. 62: po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **a)**
 
@@ -456,10 +462,14 @@ source: "eli-html"
 - **16)** w art. 78: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Organy wojskowe wyposażają żołnierzy w czynnej służbie wojskowej oraz osoby pełniące służbę w jednostkach zmilitaryzowanych przydzielonych do Sił Zbrojnych, pracowników resortu obrony narodowej, cywilny personel medyczno-sanitarny Sił Zbrojnych, osoby cywilne towarzyszące Siłom Zbrojnym, personel organizacji „Polski Czerwony Krzyż” i innych ochotniczych organizacji pomocy, osoby cywilne wykonujące czynności duszpasterskie oraz inne osoby określone prawem międzynarodowym w karty i tabliczki tożsamości. ” , w ust. 4: – pkt 5 otrzymuje brzmienie: „ 5) wskazanie rodzaju Sił Zbrojnych lub nazwę instytucji (organizacji); ” , – w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 i 13 w brzmieniu: „ 12) numer tabliczki tożsamości; 13) datę ważności lub wystawienia karty. ” , w ust. 5 po pkt 1 dodaje się pkt 1a w brzmieniu: „
+1. Organy wojskowe wyposażają żołnierzy w czynnej służbie wojskowej oraz osoby pełniące służbę w jednostkach zmilitaryzowanych przydzielonych do Sił Zbrojnych, pracowników resortu obrony narodowej, cywilny personel medyczno-sanitarny Sił Zbrojnych, osoby cywilne towarzyszące Siłom Zbrojnym, personel organizacji „Polski Czerwony Krzyż” i innych ochotniczych organizacji pomocy, osoby cywilne wykonujące czynności duszpasterskie oraz inne osoby określone prawem międzynarodowym w karty i tabliczki tożsamości. ” , w ust. 4: pkt 5 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **5)** wskazanie rodzaju Sił Zbrojnych lub nazwę instytucji (organizacji); ” , w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 i 13 w brzmieniu: „
+- **12)** numer tabliczki tożsamości;
+- **13)** datę ważności lub wystawienia karty. ” , w ust. 5 po pkt 1 dodaje się pkt 1a w brzmieniu: „
+    - **c)**
+
 - **1a)** oznaczenie „SIŁY ZBROJNE RP”; ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
     - **d)**
 
@@ -472,7 +482,7 @@ source: "eli-html"
 - **1)** rodzaje oraz wzory kart i tabliczek tożsamości, sposób i tryb wnioskowania o wydanie karty i tabliczki tożsamości, wzór wniosku o wydanie karty i tabliczki tożsamości oraz organy właściwe do wnioskowania o ich wydanie,
 - **2)** sposób dokonywania wpisów w karcie i na tabliczce tożsamości oraz tryb i organy właściwe do ich deponowania, wydawania i ewidencjonowania,
 - **3)** tryb i przypadki wydawania kart i tabliczek tożsamości, a także przyczyny i tryb ich wymiany, zwrotu, unieważniania oraz postępowania w przypadku ich zniszczenia lub utraty,
-- **4)** wzór rozkazu wyjazdu uwzględniając konieczność zapewnienia sprawności i jednolitości postępowania w sprawie wydawania kart i tabliczek, ich ewidencjonowania, wymiany i zwrotu, a także rodzaj karty i tabliczki tożsamości w zależności od przypadku ich wydania, a także konieczność zapewnienia jednolitego stosowania wzoru rozkazu wyjazdu. ” ;
+- **4)** wzór rozkazu wyjazdu – uwzględniając konieczność zapewnienia sprawności i jednolitości postępowania w sprawie wydawania kart i tabliczek, ich ewidencjonowania, wymiany i zwrotu, a także rodzaj karty i tabliczki tożsamości w zależności od przypadku ich wydania, a także konieczność zapewnienia jednolitego stosowania wzoru rozkazu wyjazdu. ” ;
 - **17)** w art. 80: ust. 3 otrzymuje brzmienie: „
     - **a)**
 
@@ -509,7 +519,7 @@ source: "eli-html"
 1. Minister Obrony Narodowej, w drodze rozporządzenia:
 
 - **1)** tworzy, przekształca i znosi wojskowe komisje lekarskie, określa ich siedziby, zasięg działania oraz właściwość,
-- **2)** może tworzyć, przekształcać i znosić filie wojskowych komisji lekarskich oraz określać ich siedziby kierując się koniecznością zapewnienia sprawności funkcjonowania wojskowych komisji lekarskich oraz postępowania orzeczniczego.
+- **2)** może tworzyć, przekształcać i znosić filie wojskowych komisji lekarskich oraz określać ich siedziby – kierując się koniecznością zapewnienia sprawności funkcjonowania wojskowych komisji lekarskich oraz postępowania orzeczniczego.
 
 2. Minister Obrony Narodowej określi, w drodze rozporządzenia, tryb udzielania zamówień na badania diagnostyczne i konsultacje specjalistyczne na potrzeby orzekania przez wojskowe komisje lekarskie, kierując się koniecznością zapewnienia równego traktowania podmiotów leczniczych oraz przejrzystości i sprawności postępowania w zakresie udzielania tych zamówień. ” ;
 
@@ -633,7 +643,7 @@ source: "eli-html"
 
 - **1)** zawodowej służby wojskowej, albo
 - **2)** terytorialnej służby wojskowej, albo
-- **3)** aktywnej rezerwy przy czym wniosek w tym zakresie jest rozpatrywany z uwzględnieniem potrzeb Sił Zbrojnych. Żołnierza, który odbył dobrowolną zasadniczą służbę wojskową i nie złożył wniosku, przenosi się do pasywnej rezerwy. ” ;
+- **3)** aktywnej rezerwy – przy czym wniosek w tym zakresie jest rozpatrywany z uwzględnieniem potrzeb Sił Zbrojnych. Żołnierza, który odbył dobrowolną zasadniczą służbę wojskową i nie złożył wniosku, przenosi się do pasywnej rezerwy. ” ;
 - **40)** art. 147 otrzymuje brzmienie: „
 
 **Art. 147.** Dowódca jednostki wojskowej, w której żołnierz pełni dobrowolną zasadniczą służbę wojskową, w przypadku gdy przebieg tej służby wskazuje na szczególne zaangażowanie tego żołnierza, powołuje go na stanowisko etatowe do zawodowej służby wojskowej, uwzględniając jego wniosek i potrzeby Sił Zbrojnych. ” ;
@@ -678,7 +688,7 @@ source: "eli-html"
 **Art. 244.** Żołnierz AR może być powołany do zawodowej służby wojskowej, jeżeli pełnił czynną służbę wojskową przez okres co najmniej 3 lat i uzyskał pozytywną opinię służbową. ” ;
 
 - **52)** w art. 254 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W celu realizacji zadań ustawowych, o których mowa w art. 4 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2023 r. poz. 1266 i 1860) oraz w art. 11, lub w celach reprezentacyjnych Siły Zbrojne mogą używać: ” ;
-- **53)** w art. 255: w ust. 1 skreśla się wyrazy „ust. 1 i 4”, w ust. 3: – w zdaniu pierwszym wyrazy „w ust. 2 zdanie pierwsze” zastępuje się wyrazami „w ust. 2 zdanie drugie”, – w zdaniu trzecim: – – wyrazy „zdanie drugie” zastępuje się wyrazami „zdanie trzecie”, – – wyrazy „zdanie pierwsze” zastępuje się wyrazami „zdanie drugie”;
+- **53)** w art. 255: w ust. 1 skreśla się wyrazy „ust. 1 i 4”, w ust. 3: – w zdaniu pierwszym wyrazy „w ust. 2 zdanie pierwsze” zastępuje się wyrazami „w ust. 2 zdanie drugie”, w zdaniu trzecim: – – wyrazy „zdanie drugie” zastępuje się wyrazami „zdanie trzecie”, – – wyrazy „zdanie pierwsze” zastępuje się wyrazami „zdanie drugie”;
     - **a)**
     - **b)**
 
@@ -790,7 +800,7 @@ source: "eli-html"
 
 - **1)** sposób i tryb prowadzenia ewidencji wyróżnień, wzór rozkazu lub decyzji, w których stwierdza się udzielenie wyróżnienia, wzór karty wyróżnień żołnierza oraz sposób zapoznawania z nią wyróżnionego żołnierza, a także okres jej przechowywania,
 - **2)** sposób prowadzenia i dokumentowania akt postępowania dyscyplinarnego oraz obieg dokumentacji dyscyplinarnej, a także okres ich przechowywania,
-- **3)** wzory dokumentów należących do ewidencji dyscyplinarnej innych niż wymienione w pkt 1 oraz kategorie osób upoważnionych do ich prowadzenia, ewidencjonowania oraz przetwarzania ze wskazaniem sposobu ich obiegu oraz gromadzenia zapewniając ochronę przed nieuprawnionym ujawnieniem danych zawartych w dokumentacji oraz z uwzględnieniem warunków pełnienia czynnej służby wojskowej, w tym po ogłoszeniu mobilizacji, w stanach nadzwyczajnych, w czasie wojny, a także podczas wykonywania zadań służbowych w strefie działań wojennych oraz w przypadku użycia Sił Zbrojnych poza granicami państwa, jak również udziału w sytuacjach kryzysowych. ” ;
+- **3)** wzory dokumentów należących do ewidencji dyscyplinarnej innych niż wymienione w pkt 1 oraz kategorie osób upoważnionych do ich prowadzenia, ewidencjonowania oraz przetwarzania ze wskazaniem sposobu ich obiegu oraz gromadzenia – zapewniając ochronę przed nieuprawnionym ujawnieniem danych zawartych w dokumentacji oraz z uwzględnieniem warunków pełnienia czynnej służby wojskowej, w tym po ogłoszeniu mobilizacji, w stanach nadzwyczajnych, w czasie wojny, a także podczas wykonywania zadań służbowych w strefie działań wojennych oraz w przypadku użycia Sił Zbrojnych poza granicami państwa, jak również udziału w sytuacjach kryzysowych. ” ;
 - **70)** w art. 407: po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **a)**
 
@@ -865,7 +875,7 @@ source: "eli-html"
 - **4)** sposób i tryb oraz zakres zwiększania mnożników, o których mowa w pkt 2 i 3,
 - **5)** wysokość jednorazowego zasiłku adaptacyjnego, o którym mowa w ust. 3 pkt 2,
 - **6)** wysokość oraz sposób i tryb przyznawania i wypłacania dodatku wojennego, o którym mowa w ust. 5,
-- **7)** rodzaje, wysokość oraz tryb przyznawania i wypłacania innych należności pieniężnych, o których mowa w ust. 6 z uwzględnieniem przypadków, w których następuje wyznaczenie, a w których skierowanie żołnierza do pełnienia służby wojskowej poza granicami państwa, jak również konieczności zapewnienia sprawności postępowania i walut, w których należności będą wypłacane, oraz z uwzględnieniem charakteru i warunków pełnienia służby poza granicami państwa. ” ;
+- **7)** rodzaje, wysokość oraz tryb przyznawania i wypłacania innych należności pieniężnych, o których mowa w ust. 6 – z uwzględnieniem przypadków, w których następuje wyznaczenie, a w których skierowanie żołnierza do pełnienia służby wojskowej poza granicami państwa, jak również konieczności zapewnienia sprawności postępowania i walut, w których należności będą wypłacane, oraz z uwzględnieniem charakteru i warunków pełnienia służby poza granicami państwa. ” ;
 - **78)** w art. 471 w ust. 2 uchyla się pkt 3;
 - **79)** art. 474 otrzymuje brzmienie: „
 
@@ -887,7 +897,7 @@ source: "eli-html"
 
 **Art. 508.** Ilekroć w niniejszym dziale jest mowa o:
 
-- **1)** wypadku – należy przez to rozumieć nagłe zdarzenie wywołane przyczyną zewnętrzną powodujące uraz lub śmierć, pozostające w związku z pełnieniem czynnej służby wojskowej, z wyjątkiem terytorialnej służby wojskowej pełnionej dyspozycyjnie, które zaszło podczas: wykonywania obowiązków służbowych albo poleceń przełożonych, wykonywania czynności w interesie służby wojskowej, nawet bez polecenia przełożonych, ratowania ludzi z grożącego niebezpieczeństwa albo ratowania mienia przed zniszczeniem lub zagarnięciem, udziału w pościgu lub ujęciu osób podejrzanych o popełnienie przestępstwa albo ochroną innych osób przed napaścią, odbywania drogi do miejsca i z miejsca wykonywania czynności określonych w lit. a i b lub w związku z tymi czynnościami;
+- **1)** wypadku – należy przez to rozumieć nagłe zdarzenie wywołane przyczyną zewnętrzną powodujące uraz lub śmierć, pozostające w związku z pełnieniem czynnej służby wojskowej, z wyjątkiem terytorialnej służby wojskowej pełnionej dyspozycyjnie, które zaszło podczas: wykonywania obowiązków służbowych albo poleceń przełożonych, wykonywania czynności w interesie służby wojskowej, nawet bez polecenia przełożonych, ratowania ludzi z grożącego niebezpieczeństwa albo ratowania mienia przed zniszczeniem lub zagarnięciem, udziału w pościgu lub ujęciu osób podejrzanych o popełnienie przestępstwa albo ochroną innych osób przed napaścią, odbywania drogi do miejsca i z miejsca wykonywania czynności określonych w lit. a i b – lub w związku z tymi czynnościami;
     - **a)**
     - **b)**
     - **c)**
@@ -927,19 +937,19 @@ source: "eli-html"
 1. Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 48d ust. 17 i art. 53 ust. 5 ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 48d ust. 17 i art. 53 ust. 5 ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą,
-- **2)** art. 35 ust. 2, art. 48 ust. 4, art. 63 ust. 4, art. 87 ust. 3, art. 102, art. 107, art. 287 ust. 6, art. 312 ust. 11, art. 331 ust. 9 i art. 403 ust. 8 ustawy zmienianej w art. 10 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 35 ust. 2, art. 48 ust. 4, art. 63 ust. 4, art. 87 ust. 3, art. 102, art. 107, art. 287 ust. 6, art. 312 ust. 11, art. 331 ust. 9 i art. 403 ust. 8 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie przepisów dotychczasowych.
+- **2)** art. 35 ust. 2, art. 48 ust. 4, art. 63 ust. 4, art. 87 ust. 3, art. 102, art. 107, art. 287 ust. 6, art. 312 ust. 11, art. 331 ust. 9 i art. 403 ust. 8 ustawy zmienianej w art. 10 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 35 ust. 2, art. 48 ust. 4, art. 63 ust. 4, art. 87 ust. 3, art. 102, art. 107, art. 287 ust. 6, art. 312 ust. 11, art. 331 ust. 9 i art. 403 ust. 8 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą – nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie przepisów dotychczasowych.
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 78b ust. 2 i art. 78d ust. 2 ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 78b ust. 2 i art. 78d ust. 2 ustawy zmienianej w art. 3,
-- **2)** art. 127 ust. 18 ustawy zmienianej w art. 10 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 127 ust. 18 ustawy zmienianej w art. 10 nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane.
+- **2)** art. 127 ust. 18 ustawy zmienianej w art. 10 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 127 ust. 18 ustawy zmienianej w art. 10 – nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane.
 
 3. Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 49 ust. 3 i 4 oraz art. 54a ust. 5 ustawy uchylonej w art. 823 pkt 2 ustawy zmienianej w art. 10 i utrzymane przez nią w mocy nie dłużej niż przez 18 miesięcy od dnia jej wejścia w życie zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 75 i art. 78 ust. 7 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą,
-- **2)** art. 24 ust. 8, art. 102 ust. 10 i art. 137c ust. 6 ustawy uchylonej w art. 823 pkt 12 ustawy zmienianej w art. 10 i utrzymane przez nią w mocy nie dłużej niż przez 18 miesięcy od dnia jej wejścia w życie zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 203 ust. 8, art. 468 ust. 10 i art. 78 ust. 7 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie przepisów dotychczasowych.
+- **2)** art. 24 ust. 8, art. 102 ust. 10 i art. 137c ust. 6 ustawy uchylonej w art. 823 pkt 12 ustawy zmienianej w art. 10 i utrzymane przez nią w mocy nie dłużej niż przez 18 miesięcy od dnia jej wejścia w życie zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 203 ust. 8, art. 468 ust. 10 i art. 78 ust. 7 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą – nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie przepisów dotychczasowych.
 
 4. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 6 ust. 2 pkt 1–3 oraz art. 29 ust. 8 ustawy uchylonej w art. 823 pkt 2 ustawy zmienianej w art. 10 i utrzymane przez nią w mocy nie dłużej niż przez 18 miesięcy od dnia jej wejścia w życie zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 27 ust. 2 pkt 1–3 oraz art. 86 ustawy zmienianej w art. 10, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie przepisów dotychczasowych.
 
-**Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawę z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach zdrowotnych finansowanych ze środków publicznych, ustawę z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ustawę z dnia 22 listopada 2018 r. o dokumentach publicznych oraz ustawę z dnia 11 marca 2022 r. o obronie Ojczyzny. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234, 1429, 1675, 1692, 1733 i 1831.
 

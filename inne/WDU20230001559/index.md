@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 sierpnia 1997 r. o zatrudnianiu osób pozbawionych wolności (Dz. U. z 2023 r. poz. 200), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 14 kwietnia 2023 r. o zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1053) oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 lipca 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 11 i art. 12 ustawy z dnia 14 kwietnia 2023 r. o zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1053), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 11 i art. 12 ustawy z dnia 14 kwietnia 2023 r. o zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1053), które stanowią: „
 
 **Art. 11.**
 
@@ -107,7 +106,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **1)** podatku dochodowego od osób prawnych, w zakresie i na zasadach określonych w przepisach o tym podatku,
 - **2)** niepodatkowych należności budżetowych,
 - **3)** wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych,
-- **4)** opłat z tytułu użytkowania lub użytkowania wieczystego gruntów stanowiących własność Skarbu Państwa jeżeli średnioroczne zatrudnienie osób pozbawionych wolności w przeliczeniu na pełne etaty w poprzednim roku podatkowym wynosiło co najmniej 50% ogółu zatrudnionych.
+- **4)** opłat z tytułu użytkowania lub użytkowania wieczystego gruntów stanowiących własność Skarbu Państwa – jeżeli średnioroczne zatrudnienie osób pozbawionych wolności w przeliczeniu na pełne etaty w poprzednim roku podatkowym wynosiło co najmniej 50% ogółu zatrudnionych.
 
 2. W przypadku gdy w poprzednim roku podatkowym średnioroczne zatrudnienie osób pozbawionych wolności w przeliczeniu na pełne etaty stanowiło mniej niż 50% ogółu zatrudnionych, zwolnienia, o których mowa w ust. 1 pkt 2–4, wynoszą:
 
@@ -142,8 +141,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Środki Funduszu Aktywizacji przeznacza się na finansowanie działań w zakresie resocjalizacji oraz wykonywania kary pozbawienia wolności, w szczególności na:
 
-- **1)** tworzenie nowych miejsc pracy dla osób pozbawionych wolności oraz ochronę istniejących;
-- **2)** tworzenie i utrzymanie w jednostkach organizacyjnych Służby Więziennej infrastruktury związanej z realizacją ustawowych zadań Służby Więziennej;
+- **1)** tworzenie nowych miejsc pracy dla osób pozbawionych wolności oraz ochronę istniejących; 2W brzmieniu ustalonym przez art. 4 ustawy z dnia 14 kwietnia 2023 r. o zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1053), która weszła w życie z dniem 17 czerwca 2023 r.) tworzenie i utrzymanie w jednostkach organizacyjnych Służby Więziennej infrastruktury związanej z realizacją ustawowych zadań Służby Więziennej;
 - **3)** modernizację przywięziennych zakładów pracy i ich produkcji;
 - **4)** organizowanie nauki zawodu i doskonalenia zawodowego dla osób pozbawionych wolności;
 - **5)** organizowanie szkolenia w zakresie aktywizacji zawodowej i umiejętności poszukiwania pracy;
@@ -161,5 +159,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 10.** (uchylony) Istniejące w dniu wejścia w życie ustawy przedsiębiorstwa państwowe podległe Ministrowi Sprawiedliwości działające przy zakładach karnych, spółki prawa handlowego powstałe z przekształcenia tych przedsiębiorstw lub utworzone przez te przedsiębiorstwa oraz gospodarstwa pomocnicze przy zakładach karnych stają się przywięziennymi zakładami pracy w rozumieniu art. 3 ust. 2 niniejszej ustawy. (pominięte)
 
-**Art. 16.** Ustawa wchodzi w życie z dniem 1 stycznia 1998 r.
+**Art. 16.** Ustawa wchodzi w życie z dniem 1 stycznia 1998 r. 1) W brzmieniu ustalonym przez art. 4 ustawy z dnia 14 kwietnia 2023 r. o zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1053), która weszła w życie z dniem 17 czerwca 2023 r.
 

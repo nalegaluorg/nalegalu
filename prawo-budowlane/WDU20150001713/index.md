@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-25 |
 | Data wydania | 2015-10-27 |
-| Wejście w życie | 2015-11-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001713) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1713/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2015 r. poz. 199, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2015 r. poz. 199, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 443, 774, 1265 i 1434.) wprowadza się następujące zmiany:
 
 - **1)** w art. 10 po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
 
@@ -48,5 +47,5 @@ source: "eli-html"
 
 2. Studia uwarunkowań i kierunków zagospodarowania przestrzennego gminy uchwalone przed dniem wejścia w życie ustawy zachowują ważność.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 443, 774, 1265 i 1434.
 

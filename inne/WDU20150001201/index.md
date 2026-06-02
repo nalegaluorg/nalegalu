@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 12 czerwca 2015 r. o zmianie ustawy o grach hazardowych
+# Ustawa z dnia 12 czerwca 2015 r. o zmianie ustawy o grach hazardowych Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 5 listopada 2014 r. pod numerem 2014/0537/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-12 |
 | Data wydania | 2015-08-19 |
-| Wejście w życie | 2015-09-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001201) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1201/text.pdf) |
 
@@ -227,11 +226,13 @@ source: "eli-html"
 - **18)** w art. 52: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Zmiana w strukturze kapitału zakładowego spółek prowadzących działalność w zakresie gier urządzanych w ośrodkach gier lub działalność w zakresie zakładów wzajemnych powodująca przekroczenie odpowiednio 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80% i 90% ogólnej liczby głosów na walnym zgromadzeniu lub udziału w kapitale zakładowym wymaga zawiadomienia ministra właściwego do spraw finansów publicznych, w terminie 7 dni od dnia zarejestrowania tych zmian w Krajowym Rejestrze Sądowym. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Zawiadomienie, o którym mowa w ust. 1, zawiera:”, w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Do zawiadomienia dołącza się:”, – pkt 3 otrzymuje brzmienie: „ 3) aktualne zaświadczenie, że osoba, o której mowa w ust. 2 pkt 2 lit. b, nie była skazana za umyślne przestępstwo lub umyślne przestępstwo skarbowe na terytorium państwa członkowskiego Unii Europejskiej oraz oświadczenie tej osoby, że nie toczy się przeciwko niej postępowanie przed organami wymiaru sprawiedliwości państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym w sprawach o przestępstwa związane z praniem pieniędzy oraz finansowaniem terroryzmu; ” , uchyla się ust. 4;
+1. Zmiana w strukturze kapitału zakładowego spółek prowadzących działalność w zakresie gier urządzanych w ośrodkach gier lub działalność w zakresie zakładów wzajemnych powodująca przekroczenie odpowiednio 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80% i 90% ogólnej liczby głosów na walnym zgromadzeniu lub udziału w kapitale zakładowym wymaga zawiadomienia ministra właściwego do spraw finansów publicznych, w terminie 7 dni od dnia zarejestrowania tych zmian w Krajowym Rejestrze Sądowym. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Zawiadomienie, o którym mowa w ust. 1, zawiera:”, w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Do zawiadomienia dołącza się:”, pkt 3 otrzymuje brzmienie: „
 
 - **b)**
 - **c)**
-- **d)**
+- **3)** aktualne zaświadczenie, że osoba, o której mowa w ust. 2 pkt 2 lit. b, nie była skazana za umyślne przestępstwo lub umyślne przestępstwo skarbowe na terytorium państwa członkowskiego Unii Europejskiej oraz oświadczenie tej osoby, że nie toczy się przeciwko niej postępowanie przed organami wymiaru sprawiedliwości państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym w sprawach o przestępstwa związane z praniem pieniędzy oraz finansowaniem terroryzmu; ” , uchyla się ust. 4;
+    - **d)**
+
 - **19)** art. 53 otrzymuje brzmienie: „
 
 **Art. 53.**
@@ -280,7 +281,7 @@ source: "eli-html"
 4. W przypadku nierezydentów będących osobami fizycznymi nieposiadającymi obywatelstwa państwa członkowskiego Unii Europejskiej przedstawia się:
 
 - **1)** odpowiednie, uwierzytelnione, aktualne zaświadczenia, że osoby te nie były skazane za umyślne przestępstwo lub umyślne przestępstwo skarbowe, wystawione przez właściwe władze państwa, którego są obywatelami lub stałymi mieszkańcami,
-- **2)** na żądanie organu udzielającego koncesji lub zezwolenia, zaświadczenia, że osoby te nie były skazane za umyślne przestępstwo lub umyślne przestępstwo skarbowe na terytorium państwa członkowskiego Unii Europejskiej wskazanego w żądaniu wystawione nie wcześniej niż na 6 miesięcy przed dniem ich przedstawienia. ” ;
+- **2)** na żądanie organu udzielającego koncesji lub zezwolenia, zaświadczenia, że osoby te nie były skazane za umyślne przestępstwo lub umyślne przestępstwo skarbowe na terytorium państwa członkowskiego Unii Europejskiej wskazanego w żądaniu – wystawione nie wcześniej niż na 6 miesięcy przed dniem ich przedstawienia. ” ;
 - **25)** art. 57 otrzymuje brzmienie: „
 
 **Art. 57.** Dokumenty dołączane do wniosków i zawiadomień składa się w formie oryginałów lub kopii poświadczonych za zgodność z oryginałem przez notariusza, adwokata lub radcę prawnego. ” ;
@@ -388,5 +389,5 @@ source: "eli-html"
 
 2. Do zabezpieczeń hipotecznych, o których mowa w ust. 1, stosuje się przepis art. 64 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym. Przepisy art. 73 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się począwszy od okresu rozliczeniowego następującego po okresie rozliczeniowym, w którym niniejsza ustawa weszła w życie.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 5 listopada 2014 r. pod numerem 2014/0537/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337).
 

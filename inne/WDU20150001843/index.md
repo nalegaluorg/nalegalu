@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-23 |
 | Data wydania | 2015-11-10 |
-| Wejście w życie | 2015-11-11 |
 | Ostatnia zmiana | 2025-10-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001843) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1843/text.pdf) |
 
@@ -66,7 +65,7 @@ zgodnie z wpisem w Centralnej Ewidencji i Informacji o Działalności Gospodarcz
 2)
 udokumentuje fakturą VAT lub wydrukiem paragonu fiskalnego kasy rejestrującej wykonanie usług rolniczych na kwotę co najmniej 20 tys. złotych brutto, nie mniej jednak niż 10 tys. złotych brutto w każdym z 12 miesięcznych okresów poprzedzających dzień złożenia wniosku o przyznanie pomocy.
 § 3.
-W przypadku podmiotu ubiegającego się o przyznanie pomocy będącego osobą prawną albo spółką osobową w rozumieniu ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm.) pomoc jest przyznawana, jeżeli poza warunkami wymienionymi w § 2 podmiot ten jest wpisany do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym co najmniej dwa lata przed dniem złożenia wniosku o przyznanie pomocy.
+W przypadku podmiotu ubiegającego się o przyznanie pomocy będącego osobą prawną albo spółką osobową w rozumieniu ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 265 i 1161 oraz z 2015 r. poz. 4, 978, 1333 i 1830.) pomoc jest przyznawana, jeżeli poza warunkami wymienionymi w § 2 podmiot ten jest wpisany do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym co najmniej dwa lata przed dniem złożenia wniosku o przyznanie pomocy.
 § 4.
 W przypadku podmiotów ubiegających się o przyznanie pomocy będących wspólnikami spółki cywilnej pomoc jest przyznawana, jeżeli:
 1)
@@ -103,8 +102,7 @@ zakończenie realizacji operacji i złożenie wniosku o płatność końcową na
 a)
 36 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w dwóch etapach,
 b)
-24 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w jednym etapie
-lecz nie później niż do dnia 30 czerwca 2023 r.;
+24 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w jednym etapie – lecz nie później niż do dnia 30 czerwca 2023 r.;
 4)
 płatność końcowa będzie obejmować nie mniej niż 25% łącznej planowanej wysokości pomocy.
 3.
@@ -134,7 +132,12 @@ Pomoc przyznaje się w formie refundacji części kosztów kwalifikowalnych, do 
 zakupu lub związane z umową leasingu, zakończonego przeniesieniem prawa własności:
 a)
 nowych maszyn, narzędzi lub urządzeń do produkcji rolnej:
-– przeznaczonych do: – – uprawy gleby oraz siewu, sadzenia, pielęgnacji, ochrony, nawożenia i zbioru roślin, – – przygotowywania, mycia, suszenia, czyszczenia, sortowania, kalibrowania, ważenia i pakowania produktów rolnych w celu przygotowywania ich do sprzedaży, – – przygotowywania pasz, – – rozdrabniania i szarpania słomy i roślin, – ciągników, kombajnów zbożowych, sieczkarni polowych, ładowarek samobieżnych i przyczep rolniczych,
+przeznaczonych do:
+– – uprawy gleby oraz siewu, sadzenia, pielęgnacji, ochrony, nawożenia i zbioru roślin,
+– – przygotowywania, mycia, suszenia, czyszczenia, sortowania, kalibrowania, ważenia i pakowania produktów rolnych w celu przygotowywania ich do sprzedaży,
+– – przygotowywania pasz,
+– – rozdrabniania i szarpania słomy i roślin,
+– ciągników, kombajnów zbożowych, sieczkarni polowych, ładowarek samobieżnych i przyczep rolniczych,
 b)
 aparatury pomiarowej i kontrolnej,
 c)
@@ -295,7 +298,7 @@ kopię dokumentacji dotyczącej wykazu środków trwałych oraz wartości niemat
 16)
 informację o numerze rachunku bankowego podmiotu ubiegającego się o przyznanie pomocy – w przypadku gdy podmiot ten ubiega się o zaliczkę;
 17)
-kopię dokumentu albo kopie dokumentów potwierdzających posiadanie samoistne lub zależne nieruchomości, na której będzie realizowana operacja, przy czym w przypadku posiadania samoistnego nieruchomości, dla której księga wieczysta jest prowadzona w systemie informatycznym, o którym mowa w art. 251 ust. 1 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm.), wystarczające jest podanie numeru księgi wieczystej;
+kopię dokumentu albo kopie dokumentów potwierdzających posiadanie samoistne lub zależne nieruchomości, na której będzie realizowana operacja, przy czym w przypadku posiadania samoistnego nieruchomości, dla której księga wieczysta jest prowadzona w systemie informatycznym, o którym mowa w art. 251 ust. 1 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 830, 941 i 1289 oraz z 2015 r. poz. 218, 978 i 1433.), wystarczające jest podanie numeru księgi wieczystej;
 18)
 kopie ostatecznych pozwoleń, zezwoleń lub innych decyzji, których uzyskanie jest wymagane przez odrębne przepisy do realizacji inwestycji objętych operacją, a także kopie innych dokumentów potwierdzających spełnienie określonych w odrębnych przepisach warunków realizacji inwestycji objętych operacją – w przypadku gdy w ramach operacji będą realizowane tego typu inwestycje;
 19)
@@ -569,7 +572,7 @@ W 2015 r. Agencja udostępni formularz wniosku o płatność oraz wzór umowy na
 § 34.
 W przypadku kosztów ogólnych, o których mowa w § 6 ust. 1 pkt 5, poniesionych przed dniem wejścia w życie niniejszego rozporządzenia przepisu § 24 ust. 2 nie stosuje się.
 § 35.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 265 i 1161 oraz z 2015 r. poz. 4, 978, 1333 i 1830. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 830, 941 i 1289 oraz z 2015 r. poz. 218, 978 i 1433.
 Załącznik – Wykaz wykonywanych rodzajów działalności gospodarczej, w zakresie których może być przyznana pomoc
 Podklasa Nazwa grupowania 01.61.Z Działalność usługowa wspomagająca produkcję roślinną 01.62.Z Działalność usługowa wspomagająca chów i hodowlę zwierząt gospodarskich 01.63.Z Działalność usługowa następująca po zbiorach
 

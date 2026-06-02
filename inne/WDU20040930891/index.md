@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-04-16 |
 | Data wydania | 2004-04-30 |
-| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040930891) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/891/text.pdf) |
+
+Przepis karny
 
 **Art. 1.** W ustawie z dnia 15 grudnia 2000 r. o ochronie konkurencji i konsumentów (Dz. U. z 2003 r. Nr 86, poz. 804 i Nr 170, poz. 1652) wprowadza się następujące zmiany:
 
@@ -33,7 +34,7 @@ source: "eli-html"
     - **c)**
     - **b)**
 
-- **11)** „konsumencie” – rozumie się przez to konsumenta w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.), ” , pkt 12 otrzymuje brzmienie: „
+- **11)** „konsumencie” – rozumie się przez to konsumenta w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151 oraz z 2004 r. Nr 91, poz. 870.), ” , pkt 12 otrzymuje brzmienie: „
     - **c)**
 
 - **12)** „organizacjach konsumenckich” – rozumie się przez to niezależne od przedsiębiorców i ich związków organizacje społeczne, do których zadań statutowych należy ochrona interesów konsumentów; organizacje konsumenckie mogą prowadzić działalność gospodarczą na zasadach ogólnych, o ile dochód z działalności służy wyłącznie realizacji celów statutowych; ” , pkt 14 otrzymuje brzmienie: „
@@ -194,7 +195,7 @@ source: "eli-html"
 
 1. Obsługę administracyjną i finansową Rady do spraw Dobrych Praktyk Gospodarczych zapewnia Urząd.
 
-2. Członkom Rady do spraw Dobrych Praktyk Gospodarczych przysługuje wyłącznie zwrot kosztów przejazdów oraz dojazdów środkami komunikacji miejscowej na obszarze kraju na zasadach określonych w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.). ” ;
+2. Członkom Rady do spraw Dobrych Praktyk Gospodarczych przysługuje wyłącznie zwrot kosztów przejazdów oraz dojazdów środkami komunikacji miejscowej na obszarze kraju na zasadach określonych w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679 oraz z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081.). ” ;
 
 - **18)** w art. 39 w ust. 2 pkt 5 otrzymuje brzmienie: „
 - **5)** prowadzenia nieodpłatnego poradnictwa konsumenckiego oraz udzielania nieodpłatnej pomocy konsumentom w dochodzeniu ich roszczeń, chyba że statut organizacji stanowi, że działalność ta jest wykonywana odpłatnie; ” ;
@@ -498,7 +499,7 @@ source: "eli-html"
 
 1. Prezes Urzędu, z zastrzeżeniem ust. 4, odstępuje od nałożenia kary, o której mowa w art. 101 ust. 1 pkt 1 lub pkt 2, na przedsiębiorcę biorącego udział w porozumieniu, o którym mowa w art. 5 ust. 1 lub art. 81 Traktatu WE, jeżeli przedsiębiorca ten spełnia łącznie następujące warunki:
 
-- **1)** jako pierwszy z uczestników porozumienia: dostarczy Prezesowi Urzędu informację o istnieniu zakazanego porozumienia, wystarczającą do wszczęcia postępowania antymonopolowego lub przedstawi Prezesowi Urzędu, z własnej inicjatywy, dowód umożliwiający wydanie decyzji, o której mowa w art. 9 lub art. 10 jeżeli Prezes Urzędu nie posiadał w tym czasie informacji i dowodów wystarczających do wszczęcia postępowania antymonopolowego lub wydania decyzji, o której mowa w art. 9 lub art. 10;
+- **1)** jako pierwszy z uczestników porozumienia: dostarczy Prezesowi Urzędu informację o istnieniu zakazanego porozumienia, wystarczającą do wszczęcia postępowania antymonopolowego lub przedstawi Prezesowi Urzędu, z własnej inicjatywy, dowód umożliwiający wydanie decyzji, o której mowa w art. 9 lub art. 10 – jeżeli Prezes Urzędu nie posiadał w tym czasie informacji i dowodów wystarczających do wszczęcia postępowania antymonopolowego lub wydania decyzji, o której mowa w art. 9 lub art. 10;
     - **a)**
     - **b)**
 
@@ -522,7 +523,7 @@ source: "eli-html"
 5. Rada Ministrów określi, w drodze rozporządzenia, tryb postępowania w przypadku wystąpienia przedsiębiorców o odstąpienie od wymierzenia kary lub jej obniżenie, w tym w szczególności:
 
 - **1)** sposób przyjmowania oraz rozpatrywania wniosków przedsiębiorców o odstąpienie od wymierzenia kary lub jej obniżenie;
-- **2)** sposób zawiadamiania przedsiębiorców o stanowisku Prezesa Urzędu mając na uwadze konieczność zapewnienia możliwości dokonania rzetelnej oceny spełnienia przez przedsiębiorców warunków, o których mowa w ust. 1 i ust. 2, oraz właściwego zakwalifikowania wniosków.
+- **2)** sposób zawiadamiania przedsiębiorców o stanowisku Prezesa Urzędu – mając na uwadze konieczność zapewnienia możliwości dokonania rzetelnej oceny spełnienia przez przedsiębiorców warunków, o których mowa w ust. 1 i ust. 2, oraz właściwego zakwalifikowania wniosków.
 
 1. W przypadku gdy przedsiębiorca powstał w wyniku połączenia lub przekształcenia innych przedsiębiorców, obliczając wysokość jego przychodu, o którym mowa w art. 103a ust. 3, uwzględnia się przychód osiągnięty przez tych przedsiębiorców w roku rozliczeniowym poprzedzającym rok nałożenia kary.
 
@@ -533,7 +534,7 @@ source: "eli-html"
 - **3)** w wysokości do osiemdziesięciokrotności przeciętnego wynagrodzenia – na pozostałych przedsiębiorców, którzy spełnili warunki, o których mowa w art. 103a ust. 2. ” ;
 - **51)** po dziale VI dodaje się dział VIa w brzmieniu: „
 
-### Dział VIa. Przepis karny
+### Dział VIa.
 
 **Art. 106a.**
 
@@ -541,7 +542,7 @@ source: "eli-html"
 
 2. Orzekanie w sprawach o czyny określone w ust. 1 następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia. ” .
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.) po art. 4796 dodaje się art. 4796a w brzmieniu: „
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255 oraz z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623 i Nr 91, poz. 871.) po art. 4796 dodaje się art. 4796a w brzmieniu: „
 
 **Art. 4796a.**
 
@@ -549,7 +550,7 @@ source: "eli-html"
 
 § 2. Na wniosek podmiotu uprawnionego sąd udostępnia akta sprawy w zakresie niezbędnym do przedstawienia poglądu. ” .
 
-**Art. 3.** W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. Nr 12, poz. 114, z późn. zm.) w art. 138c § 2 otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. Nr 12, poz. 114, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1981 r. Nr 24, poz. 124, z 1982 r. Nr 16, poz. 125, z 1983 r. Nr 6, poz. 35 i Nr 44, poz. 203, z 1984 r. Nr 54, poz. 275, z 1985 r. Nr 14, poz. 60 i Nr 23, poz. 100, z 1986 r. Nr 39, poz. 193, z 1988 r. Nr 20, poz. 135 i Nr 41, poz. 324, z 1989 r. Nr 34, poz. 180, z 1990 r. Nr 51, poz. 297, Nr 72, poz. 422 i Nr 86, poz. 504, z 1991 r. Nr 75, poz. 332 i Nr 91, poz. 408, z 1992 r. Nr 24, poz. 101, z 1994 r. Nr 123, poz. 600, z 1995 r. Nr 6, poz. 29 i Nr 60, poz. 310, z 1997 r. Nr 54, poz. 349, Nr 60, poz. 369, Nr 85, poz. 539, Nr 98, poz. 602, Nr 104, poz. 661, Nr 106, poz. 677, Nr 111, poz. 724, Nr 123, poz. 779, Nr 133, poz. 884 i Nr 141, poz. 942, z 1998 r. Nr 113, poz. 717, z 1999 r. Nr 83, poz. 931 i Nr 101, poz. 1178, z 2000 r. Nr 22, poz. 271, Nr 73, poz. 852, Nr 74, poz. 855 i Nr 117, poz. 1228, z 2001 r. Nr 100, poz. 1081, Nr 106, poz. 1149, Nr 125, poz. 1371, Nr 128, poz. 1409 i Nr 129, poz. 1438, z 2002 r. Nr 19, poz. 185, Nr 25, poz. 253 i Nr 135, poz. 1145 oraz z 2004 r. Nr 11, poz. 95, Nr 62, poz. 576 i Nr 69, poz. 626.) w art. 138c § 2 otrzymuje brzmienie: „
 
 § 2. Tej samej karze podlega, kto w ofertach i reklamach dotyczących kredytu konsumenckiego zawierających jakiekolwiek dane dotyczące kosztu kredytu konsumenckiego, nie podaje rzeczywistej rocznej stopy oprocentowania. ” .
 
@@ -561,5 +562,5 @@ source: "eli-html"
 
 **Art. 6.** Do postępowań wszczętych przed dniem wejścia w życie ustawy stosuje się przepisy ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 7.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
+**Art. 7.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151 oraz z 2004 r. Nr 91, poz. 870. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679 oraz z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255 oraz z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623 i Nr 91, poz. 871. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1981 r. Nr 24, poz. 124, z 1982 r. Nr 16, poz. 125, z 1983 r. Nr 6, poz. 35 i Nr 44, poz. 203, z 1984 r. Nr 54, poz. 275, z 1985 r. Nr 14, poz. 60 i Nr 23, poz. 100, z 1986 r. Nr 39, poz. 193, z 1988 r. Nr 20, poz. 135 i Nr 41, poz. 324, z 1989 r. Nr 34, poz. 180, z 1990 r. Nr 51, poz. 297, Nr 72, poz. 422 i Nr 86, poz. 504, z 1991 r. Nr 75, poz. 332 i Nr 91, poz. 408, z 1992 r. Nr 24, poz. 101, z 1994 r. Nr 123, poz. 600, z 1995 r. Nr 6, poz. 29 i Nr 60, poz. 310, z 1997 r. Nr 54, poz. 349, Nr 60, poz. 369, Nr 85, poz. 539, Nr 98, poz. 602, Nr 104, poz. 661, Nr 106, poz. 677, Nr 111, poz. 724, Nr 123, poz. 779, Nr 133, poz. 884 i Nr 141, poz. 942, z 1998 r. Nr 113, poz. 717, z 1999 r. Nr 83, poz. 931 i Nr 101, poz. 1178, z 2000 r. Nr 22, poz. 271, Nr 73, poz. 852, Nr 74, poz. 855 i Nr 117, poz. 1228, z 2001 r. Nr 100, poz. 1081, Nr 106, poz. 1149, Nr 125, poz. 1371, Nr 128, poz. 1409 i Nr 129, poz. 1438, z 2002 r. Nr 19, poz. 185, Nr 25, poz. 253 i Nr 135, poz. 1145 oraz z 2004 r. Nr 11, poz. 95, Nr 62, poz. 576 i Nr 69, poz. 626.
 

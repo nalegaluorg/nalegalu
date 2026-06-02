@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-11-18 |
 | Data wydania | 2019-11-19 |
-| Wejście w życie | 2019-11-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002273) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2273/text.pdf) |
 
@@ -30,7 +29,7 @@ Treść rozporządzenia
 Na podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171) zarządza się, co następuje:
 § 1.
 1.
-Minister – Członek Rady Ministrów Mariusz Kamiński – Koordynator Służb Specjalnych, zwany dalej „ministrem”, w zakresie nadzoru, kontroli i koordynacji służb specjalnych, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, z późn. zm.), wykonuje zadania wyznaczone przez Prezesa Rady Ministrów.
+Minister – Członek Rady Ministrów Mariusz Kamiński – Koordynator Służb Specjalnych, zwany dalej „ministrem”, w zakresie nadzoru, kontroli i koordynacji służb specjalnych, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 i 2399 oraz z 2019 r. poz. 53, 125, 1091 i 1726.), wykonuje zadania wyznaczone przez Prezesa Rady Ministrów.
 2.
 Do szczegółowego zakresu działania ministra należy:
 1)
@@ -145,5 +144,5 @@ Organy administracji rządowej udzielają ministrowi pomocy w realizacji jego za
 § 8.
 Obsługę ministra zapewnia Kancelaria Prezesa Rady Ministrów.
 § 9.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 15 listopada 2019 r.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 15 listopada 2019 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 i 2399 oraz z 2019 r. poz. 53, 125, 1091 i 1726.
 

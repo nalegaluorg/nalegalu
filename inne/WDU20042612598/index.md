@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-11-19 |
 | Data wydania | 2004-12-09 |
-| Wejście w życie | 2004-12-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042612598) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2598/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2001 r. Nr 13, poz. 123, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2001 r. Nr 13, poz. 123, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 41, poz. 364, z 2003 r. Nr 96, poz. 874, Nr 162, poz. 1568 i Nr 213, poz. 2081 oraz z 2004 r. Nr 11, poz. 96.) wprowadza się następujące zmiany:
 
 - **1)** w art. 21 ust. 1 i 1a otrzymują brzmienie: „
 
@@ -58,5 +57,5 @@ source: "eli-html"
 
 3. Rozkłady czasu pracy pracowników są ustalane na okresy nie krótsze niż 2 tygodnie. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 41, poz. 364, z 2003 r. Nr 96, poz. 874, Nr 162, poz. 1568 i Nr 213, poz. 2081 oraz z 2004 r. Nr 11, poz. 96.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 12 kwietnia 2019 r. o zmianie ustawy o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz niektórych innych ustaw
+# Ustawa z dnia 12 kwietnia 2019 r. o zmianie ustawy o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 października 1992 r. o orderach i odznaczeniach oraz ustawę z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-12 |
 | Data wydania | 2019-05-28 |
-| Wejście w życie | 2019-06-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000992) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/992/text.pdf) |
 
@@ -105,5 +104,5 @@ source: "eli-html"
 
 2. Dokumenty, o których mowa w art. 25 ust. 1 pkt 7 ustawy zmienianej w art. 1, dotychczas nieprzekazane, a które będą przekazane do archiwum Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu po dniu wejścia w życie niniejszej ustawy, przechodzą na stan zasobu archiwalnego Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 października 1992 r. o orderach i odznaczeniach oraz ustawę z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych.
 

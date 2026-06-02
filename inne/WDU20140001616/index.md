@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-06 |
 | Data wydania | 2014-11-19 |
-| Wejście w życie | 2015-01-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001616) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1616/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 76h ust. 2 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 76h ust. 2 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613 oraz z 2014 r. poz. 768 i 1100.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy zakres obowiązkowego ubezpieczenia odpowiedzialności cywilnej przedsiębiorców prowadzących działalność w zakresie usługowego prowadzenia ksiąg rachunkowych, za szkody wyrządzone w związku z prowadzoną działalnością, zwanego dalej „ubezpieczeniem OC”, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną tego ubezpieczenia.
 § 2.
@@ -55,5 +54,5 @@ Kwota, o której mowa w ust. 1, jest ustalana przy zastosowaniu kursu średniego
 § 5.
 Przepisy rozporządzenia stosuje się do umów ubezpieczenia zawartych od dnia wejścia w życie rozporządzenia.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 60 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 60 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 16 grudnia 2008 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej przedsiębiorców wykonujących działalność z zakresu usługowego prowadzenia ksiąg rachunkowych (Dz. U. Nr 234, poz. 1576), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 37 ust. 1 ustawy z dnia 9 maja 2014 r. o ułatwieniu dostępu do wykonywania niektórych zawodów regulowanych (Dz. U. poz. 768). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613 oraz z 2014 r. poz. 768 i 1100. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 16 grudnia 2008 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej przedsiębiorców wykonujących działalność z zakresu usługowego prowadzenia ksiąg rachunkowych (Dz. U. Nr 234, poz. 1576), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 37 ust. 1 ustawy z dnia 9 maja 2014 r. o ułatwieniu dostępu do wykonywania niektórych zawodów regulowanych (Dz. U. poz. 768).
 

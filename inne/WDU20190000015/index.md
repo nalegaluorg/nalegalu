@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 listopada 2018 r. o zmianie ustawy o Policji oraz niektórych innych ustaw
+# Ustawa z dnia 9 listopada 2018 r. o zmianie ustawy o Policji oraz niektórych innych ustaw Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, ustawę z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, ustawę z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej oraz ustawę z dnia 28 listopada 2014 r. o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-09 |
 | Data wydania | 2019-01-04 |
-| Wejście w życie | 2019-04-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000015) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/15/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544, 1669, 2077, 2102, 2245 i 2399.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -102,7 +101,7 @@ source: "eli-html"
 **Art. 3.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2017 r. poz. 2195 oraz z 2018 r. poz. 650, 1115, 1544, 1629 i 1669) wprowadza się następujące zmiany:
 
 - **1)** w art. 11 w ust. 3 pkt 7b otrzymuje brzmienie: „
-- **7b)** w wyodrębnionych oddziałach prewencji, o których mowa w art. 4 ust. 3 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm.), w Centralnym Pododdziale Kontrterrorystycznym Policji „BOA” oraz w samodzielnych pododdziałach kontrterrorystycznych Policji, o których mowa w art. 5c ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji; ” ;
+- **7b)** w wyodrębnionych oddziałach prewencji, o których mowa w art. 4 ust. 3 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405, z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544, 1669, 2077, 2102, 2245 i 2399 oraz z 2019 r. poz. 15.), w Centralnym Pododdziale Kontrterrorystycznym Policji „BOA” oraz w samodzielnych pododdziałach kontrterrorystycznych Policji, o których mowa w art. 5c ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji; ” ;
 - **2)** w art. 42 ust. 2a otrzymuje brzmienie: „
 
 2a. W sytuacji wystąpienia zdarzeń o charakterze terrorystycznym w rozumieniu art. 2 pkt 7 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych kierujący akcją medyczną koordynuje medyczne czynności ratunkowe i wspomaga kierującego działaniami antyterrorystycznymi, o którym mowa w art. 41 ust. 4 pkt 6. ” .
@@ -124,7 +123,7 @@ source: "eli-html"
 
 2. Policjanci, którzy w dniu wejścia w życie niniejszej ustawy pełnili służbę w samodzielnych pododdziałach antyterrorystycznych Policji, oraz pracownicy Policji zatrudnieni w dniu wejścia w życie niniejszej ustawy w samodzielnych pododdziałach antyterrorystycznych Policji stają się odpowiednio policjantami oraz pracownikami samodzielnych pododdziałów kontrterrorystycznych Policji w rozumieniu ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-3. Do pracowników Biura Operacji Antyterrorystycznych Komendy Głównej Policji oraz samodzielnych pododdziałów antyterrorystycznych Policji stosuje się odpowiednio przepisy art. 231§ 4 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.).
+3. Do pracowników Biura Operacji Antyterrorystycznych Komendy Głównej Policji oraz samodzielnych pododdziałów antyterrorystycznych Policji stosuje się odpowiednio przepisy art. 231§ 4 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432.).
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 8 w zakresie art. 71a ust. 9 i 10, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 8 w zakresie art. 71a ust. 9 i 10, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, ustawę z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, ustawę z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej oraz ustawę z dnia 28 listopada 2014 r. o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544, 1669, 2077, 2102, 2245 i 2399. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405, z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544, 1669, 2077, 2102, 2245 i 2399 oraz z 2019 r. poz. 15. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432.
 

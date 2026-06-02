@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-04-01 |
 | Data wydania | 2015-04-16 |
-| Wejście w życie | 2015-05-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000538) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/538/text.pdf) |
 
@@ -31,17 +30,13 @@ Na podstawie art. 89zb ust. 3 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudz
 § 1.
 W rozporządzeniu Prezesa Rady Ministrów z dnia 2 grudnia 2008 r. w sprawie warunków organizacyjnych i finansowych wykonywania obsługi Rady do Spraw Uchodźców (Dz. U. Nr 218, poz. 1394) w § 4 w ust. 1:
 1)
-pkt 2 otrzymuje brzmienie:
-„
+pkt 2 otrzymuje brzmienie: „
 2)
-służbowe wyjazdy krajowe i zagraniczne członków Rady oraz inne koszty związane ze współpracą Rady z instytucjami krajowymi i zagranicznymi;
-” ;
+służbowe wyjazdy krajowe i zagraniczne członków Rady oraz inne koszty związane ze współpracą Rady z instytucjami krajowymi i zagranicznymi; ” ;
 2)
-w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
-„
+w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
 5)
-finansowanie z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.), projektów mających na celu usprawnienie i podniesienie jakości prowadzonych przez Radę postępowań w sprawie nadania statusu uchodźcy oraz wykonywania zadań wymienionych w art. 89p ust. 4 ustawy.
-” .
+finansowanie z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238 i 532.), projektów mających na celu usprawnienie i podniesienie jakości prowadzonych przez Radę postępowań w sprawie nadania statusu uchodźcy oraz wykonywania zadań wymienionych w art. 89p ust. 4 ustawy. ” .
 § 2.
-Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
+Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238 i 532.
 

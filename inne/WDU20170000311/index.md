@@ -44,13 +44,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 12 stycznia 2011 r. w sprawie wymagań zasadniczych oraz procedur oceny zgodności aktywnych wyrobów medycznych do implantacji (Dz. U. poz. 76), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 17 lutego 2016 r. zmieniającym rozporządzenie w sprawie wymagań zasadniczych oraz procedur oceny zgodności aktywnych wyrobów medycznych do implantacji (Dz. U. poz. 206).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 17 lutego 2016 r. zmieniającego rozporządzenie w sprawie wymagań zasadniczych oraz procedur oceny zgodności aktywnych wyrobów medycznych do implantacji (Dz. U. poz. 206), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 17 lutego 2016 r. zmieniającego rozporządzenie w sprawie wymagań zasadniczych oraz procedur oceny zgodności aktywnych wyrobów medycznych do implantacji (Dz. U. poz. 206), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 20 lutego 2016 r.
-” .
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 12 stycznia 2011 r. w sprawie wymagań zasadniczych oraz procedur oceny zgodności aktywnych wyrobów medycznych do implantacji
-Na podstawie art. 23 ust. 4 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2017 r. poz. 211) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem 20 lutego 2016 r. ” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 12 stycznia 2011 r. w sprawie wymagań zasadniczych oraz procedur oceny zgodności aktywnych wyrobów medycznych do implantacjiMinister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy Rady 90/385/EWG z dnia 20 czerwca 1990 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich odnoszących się do wyrobów medycznych aktywnego osadzania (Dz. Urz. WE L 189 z 20.07.1990, str. 17 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 10, str. 154) i dyrektywy 2007/47/WE Parlamentu Europejskiego i Rady z dnia 5 września 2007 r. zmieniającej dyrektywę Rady 90/385/EWG w sprawie zbliżenia ustawodawstw państw członkowskich odnoszących się do wyrobów medycznych aktywnego osadzania, dyrektywę Rady 93/42/EWG dotyczącą wyrobów medycznych oraz dyrektywę 98/8/WE dotyczącą wprowadzania do obrotu produktów biobójczych (Dz. Urz. UE L 247 z 21.09.2007, str. 21). Na podstawie art. 23 ust. 4 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2017 r. poz. 211) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -74,17 +72,17 @@ a)
 weryfikacji WE, określoną w załączniku nr 4 do rozporządzenia, albo
 b)
 deklaracji WE zgodności z typem – zapewnienie jakości produkcji, określoną w załączniku nr 5 do rozporządzenia.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 17 lutego 2016 r. zmieniającego rozporządzenie w sprawie wymagań zasadniczych oraz procedur oceny zgodności aktywnych wyrobów medycznych do implantacji (Dz. U. poz. 206), które weszło w życie z dniem 20 lutego 2016 r..
 Wytwórca aktywnego wyrobu medycznego do implantacji będącego wyrobem wykonanym na zamówienie albo wyrobem do badania klinicznego przeprowadza jego ocenę zgodności i sporządza oświadczenie zgodnie z załącznikiem nr 6 do rozporządzenia.
 § 4.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3..
 Ocena kliniczna prowadzona w ramach oceny zgodności aktywnych wyrobów medycznych do implantacji jest dokumentowana. Dokumentacja ta albo wskazanie miejsca jej przechowywania lub danych bibliograficznych są dołączane do oceny zgodności danego wyrobu.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3..
 Ocena kliniczna aktywnych wyrobów medycznych do implantacji jest na bieżąco aktualizowana danymi pochodzącymi z nadzoru po wprowadzeniu danego wyrobu do obrotu, chyba że obserwacja kliniczna po wprowadzeniu wyrobu do obrotu nie jest konieczna, co należy uzasadnić i udokumentować w dokumentacji oceny zgodności.
 3.
-(uchylony).
+(uchylony).Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3.
 4.
-(uchylony).
+(uchylony).Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3.
 § 5.
 Certyfikaty zgodności, wydane przez jednostki notyfikowane zgodnie z załącznikami nr 2, 3 i 5 do rozporządzenia wydaje się na okres nie dłuższy niż 5 lat. Okres ten może być przedłużany na wniosek wytwórcy lub autoryzowanego przedstawiciela, złożony w terminie uzgodnionym umową, na kolejne okresy, nie dłuższe niż 5 lat.
 § 6.
@@ -113,21 +111,21 @@ substancji będącej dopuszczonym do obrotu produktem leczniczym, o którym mowa
 substancji, która stosowana oddzielnie byłaby referencyjnym produktem leczniczym, o którym mowa w art. 2 pkt 35b Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 2000% minimalnego wynagrodzenia;
 11)
 substancji, która stosowana oddzielnie byłaby produktem leczniczym, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7, którego substancje czynne mają ugruntowane zastosowanie medyczne, o którym mowa w art. 16 ust. 2 Prawa farmaceutycznego – wynosi 1600% minimalnego wynagrodzenia;
-12)
+12W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3.)
 substancji, która stosowana oddzielnie byłaby produktem leczniczym będącym odpowiednikiem referencyjnego produktu leczniczego, o którym mowa w art. 15 ust. 8 Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 650% minimalnego wynagrodzenia;
-13)
+13W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3.)
 substancji, która stosowana oddzielnie byłaby produktem leczniczym, o którym mowa w art. 15 ust. 12 Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 1040% minimalnego wynagrodzenia;
 14)
 zmiany, o której mowa w ust. 10 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 10–13 – wynosi 400% minimalnego wynagrodzenia;
 15)
 substancji będącej dopuszczonym do obrotu produktem leczniczym innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 500% minimalnego wynagrodzenia.
 § 8.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy Rady 90/385/EWG z dnia 20 czerwca 1990 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich odnoszących się do wyrobów medycznych aktywnego osadzania (Dz. Urz. WE L 189 z 20.07.1990, str. 17 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 10, str. 154) i dyrektywy 2007/47/WE Parlamentu Europejskiego i Rady z dnia 5 września 2007 r. zmieniającej dyrektywę Rady 90/385/EWG w sprawie zbliżenia ustawodawstw państw członkowskich odnoszących się do wyrobów medycznych aktywnego osadzania, dyrektywę Rady 93/42/EWG dotyczącą wyrobów medycznych oraz dyrektywę 98/8/WE dotyczącą wprowadzania do obrotu produktów biobójczych (Dz. Urz. UE L 247 z 21.09.2007, str. 21). 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 17 lutego 2016 r. zmieniającego rozporządzenie w sprawie wymagań zasadniczych oraz procedur oceny zgodności aktywnych wyrobów medycznych do implantacji (Dz. U. poz. 206), które weszło w życie z dniem 20 lutego 2016 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 5) Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 7) Rozporządzenie zostało ogłoszone w dniu 24 stycznia 2011 r.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 24 stycznia 2011 r.. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy Rady 90/385/EWG z dnia 20 czerwca 1990 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich odnoszących się do wyrobów medycznych aktywnego osadzania (Dz. Urz. WE L 189 z 20.07.1990, str. 17 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 10, str. 154) i dyrektywy 2007/47/WE Parlamentu Europejskiego i Rady z dnia 5 września 2007 r. zmieniającej dyrektywę Rady 90/385/EWG w sprawie zbliżenia ustawodawstw państw członkowskich odnoszących się do wyrobów medycznych aktywnego osadzania, dyrektywę Rady 93/42/EWG dotyczącą wyrobów medycznych oraz dyrektywę 98/8/WE dotyczącą wprowadzania do obrotu produktów biobójczych (Dz. Urz. UE L 247 z 21.09.2007, str. 21). 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 17 lutego 2016 r. zmieniającego rozporządzenie w sprawie wymagań zasadniczych oraz procedur oceny zgodności aktywnych wyrobów medycznych do implantacji (Dz. U. poz. 206), które weszło w życie z dniem 20 lutego 2016 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 5) Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 7) Rozporządzenie zostało ogłoszone w dniu 24 stycznia 2011 r.
 
 ## Załącznik nr 1 — – Wymagania zasadnicze dla aktywnych wyrobów medycznych do implantacji
 
-Część I. Wymagania ogólne
+Część I.
+Wymagania ogólne
 1.
 Aktywne wyroby medyczne do implantacji muszą być zaprojektowane i wytworzone tak, aby ich stosowanie nie zagrażało zdrowiu i bezpieczeństwu pacjentów, jeżeli zostały wszczepione we właściwych warunkach i zgodnie z przewidzianym zastosowaniem. Wyroby te nie mogą stwarzać żadnego zagrożenia dla osób dokonujących wszczepienia ani innych osób.
 2.
@@ -136,13 +134,14 @@ Aktywne wyroby medyczne do implantacji muszą osiągać parametry działania prz
 Właściwości i parametry działania, o których mowa w ust. 1 i 2, nie mogą ulec pogorszeniu w stopniu powodującym, że stan zdrowia i bezpieczeństwo pacjentów oraz, jeżeli ma to zastosowanie, innych osób będą zagrożone podczas przewidzianego przez wytwórcę okresu użytkowania aktywnego wyrobu medycznego do implantacji, jeżeli podlega on obciążeniom, które mogą wystąpić w normalnych warunkach używania.
 4.
 Aktywne wyroby medyczne do implantacji muszą być zaprojektowane, wytworzone i opakowane w taki sposób, aby ich właściwości i parametry działania nie uległy pogorszeniu na skutek transportu i przechowywania w warunkach podanych przez wytwórcę, w szczególności temperatury i wilgotności.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 3..
 Dla aktywnego wyrobu medycznego do implantacji:
 1)
 ryzyko działań niepożądanych musi być możliwe do przyjęcia, uwzględniając przewidziane działanie aktywnego wyrobu medycznego do implantacji;
 2)
 wykazanie zgodności z wymaganiami zasadniczymi musi obejmować ocenę kliniczną, chyba że wykazanie zgodności z wymaganiami zasadniczymi bez wykonania oceny klinicznej jest należycie uzasadnione.
-Część II. Wymagania dotyczące projektu i wykonania
+Część II.
+Wymagania dotyczące projektu i wykonania
 6.
 Rozwiązania przyjęte przez wytwórcę w projekcie i konstrukcji aktywnego wyrobu medycznego do implantacji muszą odpowiadać zasadom bezpieczeństwa, z uwzględnieniem aktualnego stanu wiedzy.
 7.
@@ -187,7 +186,7 @@ szczelności źródła energii, jeżeli dotyczy;
 właściwego działania układów programowania i kontroli, w tym oprogramowania;
 8)
 walidacji oprogramowania zgodnie z aktualnym stanem wiedzy i zasadami cyklu jego rozwoju, zarządzania ryzykiem, walidacji i weryfikacji w przypadku aktywnych wyrobów medycznych do implantacji, które zawierają oprogramowanie lub same są oprogramowaniem.
-10.
+10Ze zmianami wprowadzonymi przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 W przypadku gdy aktywny wyrób medyczny do implantacji zawiera jako integralną część substancję, która stosowana oddzielnie może być uznana za produkt leczniczy w rozumieniu art. 2 pkt 32 Prawa farmaceutycznego i która może działać na organizm ludzki pomocniczo względem tego aktywnego wyrobu medycznego do implantacji – bezpieczeństwo, jakość i użyteczność tej substancji muszą być zweryfikowane metodami analogicznymi do metod określonych w Prawie farmaceutycznym. Jednostka notyfikowana, po zweryfikowaniu użyteczności substancji zawartej w aktywnym wyrobie medycznym do implantacji i w przewidzianym zastosowaniu, zasięga opinii organu określonego w art. 29 ust. 7 pkt 1 ustawy na temat jakości i bezpieczeństwa substancji, w tym stosunku korzyści klinicznych do ryzyka wynikających z włączenia substancji do aktywnego wyrobu medycznego do implantacji. W swej opinii organ odnosi się do procesu wytwarzania i danych dotyczących użyteczności włączenia substancji do aktywnego wyrobu medycznego do implantacji, ustalonych przez jednostkę notyfikowaną. Jeżeli aktywny wyrób medyczny do implantacji zawiera, jako integralną część, substancję, która użyta oddzielnie może być uznana za produkt krwiopochodny w rozumieniu art. 2 pkt 31 Prawa farmaceutycznego i która może działać na organizm ludzki pomocniczo względem tego aktywnego wyrobu medycznego do implantacji, jednostka notyfikowana, po zweryfikowaniu użyteczności działania substancji zawartej w aktywnym wyrobie medycznym do implantacji i w przewidzianym zastosowaniu, zgodnie z art. 29 ust. 7 pkt 2 ustawy zasięga opinii Europejskiej Agencji Leków na temat jakości i bezpieczeństwa substancji, w tym stosunku korzyści klinicznych do ryzyka wynikających z włączenia produktu krwiopochodnego do aktywnego wyrobu medycznego do implantacji. Jeżeli wprowadzono zmiany dotyczące substancji działającej pomocniczo w aktywnym wyrobie medycznym do implantacji, w szczególności związane z procesem wytwarzania, jednostka notyfikowana zostaje poinformowana o zmianach i konsultuje je z tym spośród organów określonych w art. 29 ust. 7 ustawy, który wydał pierwotną opinię, w celu potwierdzenia, że jakość i bezpieczeństwo substancji pomocniczej zostały zachowane. Organ bierze pod uwagę dane dotyczące użyteczności włączenia substancji do aktywnego wyrobu medycznego do implantacji ustalone przez jednostkę notyfikowaną i ocenia, czy zmiana nie będzie miała negatywnego wpływu na ustalony stosunek korzyści do ryzyka takiego włączenia. Jeżeli organ uzyska informacje o substancji pomocniczej, które mogłyby mieć wpływ na ustalony stosunek korzyści do ryzyka włączenia substancji do aktywnego wyrobu medycznego do implantacji, doradza jednostce notyfikowanej, czy i w jakim stopniu zmiany wprowadzone w substancji pomocniczej wpływają na uprzednio ustalony stosunek korzyści do ryzyka. Jednostka notyfikowana uwzględnia uaktualnioną opinię przy ponownej weryfikacji oceny zgodności.
 11.
 Aktywne wyroby medyczne do implantacji i ich części składowe muszą być identyfikowalne, aby umożliwić podjęcie niezbędnych działań w przypadku wykrycia potencjalnego ryzyka związanego z tymi wyrobami lub ich częściami składowymi.
@@ -259,7 +258,7 @@ informacje dotyczące unikania zagrożeń związanych z wszczepieniem aktywnego 
 informacje o ryzyku wzajemnych zakłóceń powodowanych obecnością danego aktywnego wyrobu medycznego do implantacji podczas określonych badań lub leczenia;
 8)
 instrukcje niezbędne w przypadku uszkodzenia opakowania sterylnego oraz szczegółowe informacje o metodach ponownej sterylizacji;
-9)
+9W brzmieniu ustalonym przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 3.)
 wskazanie, jeżeli to właściwe, że aktywny wyrób medyczny do implantacji może być użyty ponownie jedynie po zregenerowaniu, na odpowiedzialność wytwórcy, jeżeli spełnia wymagania zasadnicze;
 10)
 ulotka z instrukcją musi zawierać szczegółowe informacje pozwalające lekarzowi udzielić pacjentowi informacji o przeciwwskazaniach i środkach ostrożności, w szczególności:
@@ -273,8 +272,8 @@ d)
 stosowne informacje dotyczące produktów leczniczych, do podawania których aktywny wyrób medyczny do implantacji jest przeznaczony,
 e)
 datę wydania albo ostatniej aktualizacji instrukcji używania.
-16.
-Wykazanie, że aktywny wyrób medyczny do implantacji w normalnych warunkach używania spełnia wymagania dotyczące właściwości i parametrów działania określone w ust. 1–5, a także ocena działań niepożądanych muszą być oparte na danych klinicznych ustalonych w wyniku przeprowadzenia oceny klinicznej.
+16W brzmieniu ustalonym przez § 1 pkt 4 lit. d rozporządzenia, o którym mowa w odnośniku 3..
+Wykazanie, że aktywny wyrób medyczny do implantacji w normalnych warunkach używania spełnia wymagania dotyczące właściwości i parametrów działania określone w ust. 1–5, a także ocena działań niepożądanych muszą być oparte na danych klinicznych ustalonych w wyniku przeprowadzenia oceny klinicznej. 8) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 3. 9) Ze zmianami wprowadzonymi przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 3. 10) W brzmieniu ustalonym przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 3. 11) W brzmieniu ustalonym przez § 1 pkt 4 lit. d rozporządzenia, o którym mowa w odnośniku 3.
 
 ## Załącznik nr 2 — – Deklaracja zgodności WE
 
@@ -295,7 +294,7 @@ dokumentację systemu jakości;
 zobowiązanie do wypełniania obowiązków nałożonych zatwierdzonym systemem jakości;
 4)
 zobowiązanie do utrzymywania zatwierdzonego systemu jakości na właściwym poziomie i skutecznie funkcjonującego;
-5)
+5W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 3.)
 zobowiązanie wytwórcy do ustanowienia i utrzymywania aktualizowanego systemu nadzoru po wprowadzeniu aktywnego wyrobu medycznego do implantacji do obrotu, w tym aktualizowania oceny klinicznej zgodnie z § 4 ust. 2, oraz do postępowania zgodnie z przepisami rozdziału 9 ustawy w przypadku powzięcia informacji o wystąpieniu incydentu medycznego.
 3.2.
 Stosowanie systemu jakości musi zapewnić, że aktywne wyroby medyczne do implantacji będą spełniały odnoszące się do nich wymagania na wszystkich etapach, od projektu po końcową kontrolę. Wszystkie elementy, wymagania i rozwiązania przyjęte przez wytwórcę w jego systemie jakości muszą być udokumentowane w sposób systematyczny i uporządkowany, w formie pisemnych opisów polityki jakości i procedur. Dokumentacja systemu jakości musi umożliwiać jednolitą interpretację polityki jakości i procedur, takich jak: programy jakości, plany jakości, księgi jakości i zapisy dotyczące jakości, a w szczególności dokumentację, dane i zapisy, które powstały przy stosowaniu procedur, o których mowa w pkt 3 niniejszego ustępu. Dokumentacja ta powinna obejmować w szczególności stosowny opis:
@@ -307,11 +306,11 @@ a)
 schemat organizacyjny, zakres odpowiedzialności personelu kierowniczego za jakość projektu i wytwarzanie danego aktywnego wyrobu medycznego do implantacji oraz jego uprawnienia w tym zakresie,
 b)
 metod monitorowania skuteczności systemu jakości, w szczególności jego zdolności do zapewnienia pożądanej jakości projektu i aktywnych wyrobów medycznych do implantacji, w tym nadzorowanie wyrobów niezgodnych,
-c)
+cW brzmieniu ustalonym przez § 1 pkt 5 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3.)
 jeżeli projektowanie, wytwarzanie lub końcową kontrolę i badanie końcowe aktywnych wyrobów medycznych do implantacji lub ich elementów przeprowadza inny podmiot – metod monitorowania skuteczności systemu jakości, w szczególności rodzaju i zakresu nadzoru nad tym podmiotem;
 3)
 procedur monitorowania i weryfikacji projektu aktywnych wyrobów medycznych do implantacji, w szczególności:
-a)
+aW brzmieniu ustalonym przez § 1 pkt 5 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 3.)
 wymagania techniczne dotyczące projektu, w tym normy, które zostaną zastosowane, oraz opis rozwiązań przyjętych w celu spełnienia wymagań zasadniczych odnoszących się do danych wyrobów, jeżeli normy zharmonizowane nie zostały w pełni zastosowane,
 b)
 techniki stosowane do nadzorowania i weryfikacji projektu, procesów i systematycznych działań, które będą stosowane przy projektowaniu aktywnych wyrobów medycznych do implantacji,
@@ -321,7 +320,7 @@ d)
 ocenę przedkliniczną,
 e)
 ocenę kliniczną;
-4)
+4W brzmieniu ustalonym przez § 1 pkt 5 lit. b tiret trzecie rozporządzenia, o którym mowa w odnośniku 3.)
 technik nadzorowania i zapewnienia jakości na etapie wytwarzania, w szczególności:
 a)
 procesów i procedur, które będą stosowane, w tym dotyczących sterylizacji, zaopatrzenia i dokumentów z tym związanych,
@@ -332,10 +331,10 @@ odpowiednich prób i badań, które będą przeprowadzane przed, w trakcie i po 
 3.3.
 Jednostka notyfikowana dokonuje audytu systemu jakości w celu ustalenia, czy spełnia wymagania, o których mowa w ust. 3.2, przyjmując przy tym domniemanie, że system jakości, w przypadku którego wdrożono odpowiednie normy zharmonizowane, jest zgodny z tymi wymaganiami. W skład zespołu oceniającego wchodzi co najmniej jedna osoba posiadająca doświadczenie w ocenie danej technologii. Procedura oceny obejmuje inspekcję w zakładzie wytwórcy, a także, w uzasadnionych przypadkach, w zakładach dostawców lub podwykonawców wytwórcy w celu kontroli procesów wytwarzania. Jednostka notyfikowana powiadamia wytwórcę o wyniku inspekcji oraz przedstawia wnioski z uzasadnieniami.
 3.4.
-Wytwórca powiadamia jednostkę notyfikowaną, która zatwierdziła system jakości, o wszelkich planach zmian w systemie jakości. Jednostka notyfikowana ocenia proponowane zmiany i weryfikuje, czy po tych zmianach system jakości będzie spełniał wymagania, o których mowa w ust. 3.2. Jednostka notyfikowana powiadamia wytwórcę o wyniku oceny wraz z uzasadnieniem i wnioskami z inspekcji.
+Wytwórca powiadamia jednostkę notyfikowaną, która zatwierdziła system jakości, o wszelkich planach zmian w systemie jakości. Jednostka notyfikowana ocenia proponowane zmiany i weryfikuje, czy po tych zmianach system jakości będzie spełniał wymagania, o których mowa w ust. 3.2. Jednostka notyfikowana powiadamia wytwórcę o wyniku oceny wraz z uzasadnieniem i wnioskami z inspekcji.Zdanie trzecie w brzmieniu ustalonym przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 3.
 4.
 Badanie projektu aktywnego wyrobu medycznego do implantacji
-4.1.
+4.1W brzmieniu ustalonym przez § 1 pkt 5 lit. d rozporządzenia, o którym mowa w odnośniku 3..
 Wytwórca, oprócz obowiązków, o których mowa w ust. 3.1–3.4, dodatkowo występuje do jednostki notyfikowanej z wnioskiem o ocenę dokumentacji projektu aktywnego wyrobu medycznego do implantacji, który planuje wytwarzać, należącego do kategorii wskazanej zgodnie z ust. 3.1 pkt 1.
 4.2.
 Wniosek zawiera opis projektu, wytwarzania i parametrów działania danego aktywnego wyrobu medycznego do implantacji. Do wniosku dołącza się dokumenty niezbędne do oceny, czy wyrób spełnia odnoszące się do niego wymagania, w szczególności dokumenty określone w ust. 3.2 pkt 3 i 4. Wniosek zawiera w szczególności:
@@ -350,7 +349,7 @@ ocenę kliniczną;
 5)
 projekt ulotki z instrukcją używania.
 4.3.
-Jednostka notyfikowana ocenia wniosek, wydając wnioskującemu certyfikat badania projektu WE, jeżeli aktywny wyrób medyczny do implantacji spełnia odnoszące się do tego wyrobu wymagania. Jednostka notyfikowana może żądać uzupełnienia wniosku o wyniki dalszych badań lub dowody pozwalające ocenić zgodność z odnoszącymi się do tego wyrobu wymaganiami. Certyfikat zawiera wnioski z oceny, warunki ważności, dane niezbędne do identyfikacji zatwierdzonego projektu, jeżeli to stosowne, a także opis przewidzianego zastosowania aktywnego wyrobu medycznego do implantacji. W przypadku aktywnych wyrobów medycznych do implantacji zawierających produkt leczniczy w sposób określony w akapicie pierwszym ust. 10 załącznika nr 1 do rozporządzenia, jednostka notyfikowana przed podjęciem decyzji zasięga opinii organu określonego w art. 29 ust. 7 pkt 1 ustawy, w sposób określony w akapicie drugim ust. 10 załącznika nr 1 do rozporządzenia, którą organ wydaje w terminie 210 dni od otrzymania kompletnej dokumentacji. Przy podejmowaniu decyzji jednostka notyfikowana bierze pod uwagę tę opinię i włącza ją do dokumentacji dotyczącej wyrobu, a swoją końcową decyzję przekazuje organowi. W przypadku aktywnych wyrobów medycznych do implantacji zawierających produkt krwiopochodny w sposób określony w akapicie trzecim ust. 10 załącznika nr 1 do rozporządzenia, opinia Europejskiej Agencji Leków wydana w terminie 210 dni od dnia otrzymania kompletnej dokumentacji musi być włączona do dokumentacji dotyczącej tego wyrobu. Przy podejmowaniu decyzji jednostka notyfikowana bierze pod uwagę opinię Europejskiej Agencji Leków i nie wydaje certyfikatu, jeżeli opinia jest negatywna. Swoją końcową decyzję jednostka notyfikowana przekazuje Europejskiej Agencji Leków.
+Jednostka notyfikowana ocenia wniosek, wydając wnioskującemu certyfikat badania projektu WE, jeżeli aktywny wyrób medyczny do implantacji spełnia odnoszące się do tego wyrobu wymagania. Jednostka notyfikowana może żądać uzupełnienia wniosku o wyniki dalszych badań lub dowody pozwalające ocenić zgodność z odnoszącymi się do tego wyrobu wymaganiami. Certyfikat zawiera wnioski z oceny, warunki ważności, dane niezbędne do identyfikacji zatwierdzonego projektu, jeżeli to stosowne, a także opis przewidzianego zastosowania aktywnego wyrobu medycznego do implantacji.Zdanie trzecie w brzmieniu ustalonym przez § 1 pkt 5 lit. e rozporządzenia, o którym mowa w odnośniku 3. W przypadku aktywnych wyrobów medycznych do implantacji zawierających produkt leczniczy w sposób określony w akapicie pierwszym ust. 10 załącznika nr 1 do rozporządzenia, jednostka notyfikowana przed podjęciem decyzji zasięga opinii organu określonego w art. 29 ust. 7 pkt 1 ustawy, w sposób określony w akapicie drugim ust. 10 załącznika nr 1 do rozporządzenia, którą organ wydaje w terminie 210 dni od otrzymania kompletnej dokumentacji. Przy podejmowaniu decyzji jednostka notyfikowana bierze pod uwagę tę opinię i włącza ją do dokumentacji dotyczącej wyrobu, a swoją końcową decyzję przekazuje organowi. W przypadku aktywnych wyrobów medycznych do implantacji zawierających produkt krwiopochodny w sposób określony w akapicie trzecim ust. 10 załącznika nr 1 do rozporządzenia, opinia Europejskiej Agencji Leków wydana w terminie 210 dni od dnia otrzymania kompletnej dokumentacji musi być włączona do dokumentacji dotyczącej tego wyrobu. Przy podejmowaniu decyzji jednostka notyfikowana bierze pod uwagę opinię Europejskiej Agencji Leków i nie wydaje certyfikatu, jeżeli opinia jest negatywna. Swoją końcową decyzję jednostka notyfikowana przekazuje Europejskiej Agencji Leków.
 4.4.
 Wnioskodawca informuje jednostkę notyfikowaną, która wydała certyfikat badania projektu WE, o wszelkich zmianach w zatwierdzonym projekcie. Zmiany w zatwierdzonym projekcie muszą uzyskać dodatkowe zatwierdzenie jednostki notyfikowanej, która wydała certyfikat badania projektu WE, w przypadkach gdyby mogły mieć wpływ na zgodność z wymaganiami zasadniczymi lub z przewidzianymi warunkami używania aktywnego wyrobu medycznego do implantacji. Dodatkowe zatwierdzenie ma formę załącznika do certyfikatu badania projektu WE.
 5.
@@ -372,7 +371,7 @@ Jednostka notyfikowana może przeprowadzać niezapowiedziane inspekcje u wytwór
 6.
 Przepisy administracyjne
 6.1.
-Wytwórca lub jego autoryzowany przedstawiciel przechowuje przez okres określony w art. 32 ust. 1 lub 2 ustawy, do dyspozycji krajowego organu właściwego, a w przypadku wytwórcy i autoryzowanego przedstawiciela mających siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej – do dyspozycji Prezesa Urzędu:
+Wytwórca lub jego autoryzowany przedstawiciel przechowuje przez okres określony w art. 32 ust. 1 lub 2 ustawy, do dyspozycji krajowego organu właściwego, a w przypadku wytwórcy i autoryzowanego przedstawiciela mających siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej – do dyspozycji Prezesa Urzędu:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 5 lit. f tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3.
 1)
 deklarację zgodności;
 2)
@@ -381,12 +380,12 @@ dokumentację systemu jakości, o której mowa w ust. 3.1 pkt 2, w szczególnoś
 dokumentację dotyczącą zmian, o których mowa w ust. 3.4;
 4)
 dokumentację, o której mowa w ust. 4.2;
-5)
+5W brzmieniu ustalonym przez § 1 pkt 5 lit. f tiret drugie rozporządzenia, o którym mowa w odnośniku 3.)
 wyniki oceny, decyzje i sprawozdania jednostki notyfikowanej, o których mowa w ust. 3.4, 4.3, 5.3 i 5.4.
 6.2.
 Jednostka notyfikowana na żądanie innych jednostek notyfikowanych, ministra właściwego do spraw zdrowia, Prezesa Urzędu i organów innych państw członkowskich właściwych w sprawach aktywnych wyrobów medycznych do implantacji udostępnia wszelkie stosowne informacje dotyczące zatwierdzenia, odmowy lub cofnięcia zatwierdzenia systemu jakości.
-7.
-Aktywne wyroby medyczne do implantacji zawierające produkt krwiopochodny Po wytworzeniu każdej partii aktywnych wyrobów medycznych do implantacji zawierających produkt krwiopochodny wytwórca powiadamia jednostkę notyfikowaną o zwolnieniu partii takich wyrobów i przesyła jej oficjalny certyfikat dotyczący zwolnienia partii produktu krwiopochodnego użytej w aktywnym wyrobie medycznym do implantacji, wydany przez laboratorium państwowe państwa członkowskiego lub inne laboratorium wyznaczone do tego celu przez państwo członkowskie.
+7W brzmieniu ustalonym przez § 1 pkt 5 lit. g rozporządzenia, o którym mowa w odnośniku 3..
+Aktywne wyroby medyczne do implantacji zawierające produkt krwiopochodny Po wytworzeniu każdej partii aktywnych wyrobów medycznych do implantacji zawierających produkt krwiopochodny wytwórca powiadamia jednostkę notyfikowaną o zwolnieniu partii takich wyrobów i przesyła jej oficjalny certyfikat dotyczący zwolnienia partii produktu krwiopochodnego użytej w aktywnym wyrobie medycznym do implantacji, wydany przez laboratorium państwowe państwa członkowskiego lub inne laboratorium wyznaczone do tego celu przez państwo członkowskie. 12) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 3. 13) W brzmieniu ustalonym przez § 1 pkt 5 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 14) W brzmieniu ustalonym przez § 1 pkt 5 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 15) W brzmieniu ustalonym przez § 1 pkt 5 lit. b tiret trzecie rozporządzenia, o którym mowa w odnośniku 3. 16) Zdanie trzecie w brzmieniu ustalonym przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 3. 17) W brzmieniu ustalonym przez § 1 pkt 5 lit. d rozporządzenia, o którym mowa w odnośniku 3. 18) Zdanie trzecie w brzmieniu ustalonym przez § 1 pkt 5 lit. e rozporządzenia, o którym mowa w odnośniku 3. 19) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 5 lit. f tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 20) W brzmieniu ustalonym przez § 1 pkt 5 lit. f tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 21) W brzmieniu ustalonym przez § 1 pkt 5 lit. g rozporządzenia, o którym mowa w odnośniku 3.
 
 ## Załącznik nr 3 — – Badanie typu WE
 
@@ -399,17 +398,16 @@ nazwę i adres wytwórcy albo nazwę i adres wytwórcy oraz nazwę i adres autor
 2)
 dokumentację, o której mowa w ust. 3, wymaganą do oceny zgodności reprezentatywnej dla planowanej produkcji próbki aktywnych wyrobów medycznych do implantacji, zwanej dalej „typem”;
 3)
-pisemne oświadczenie, że nie został złożony wniosek dotyczący oceny tego samego typu do innej jednostki notyfikowanej.
-Wnioskodawca udostępnia typ jednostce notyfikowanej. Jednostka notyfikowana ma prawo żądać udostępnienia innych próbek, jeżeli jest to konieczne.
+pisemne oświadczenie, że nie został złożony wniosek dotyczący oceny tego samego typu do innej jednostki notyfikowanej. Wnioskodawca udostępnia typ jednostce notyfikowanej. Jednostka notyfikowana ma prawo żądać udostępnienia innych próbek, jeżeli jest to konieczne.
 3.
 Dokumentacja musi umożliwiać zrozumienie projektu, procesu wytwarzania i działania aktywnego wyrobu medycznego do implantacji oraz zawierać w szczególności:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 3.)
 ogólny opis typu, w tym wszystkich planowanych wersji, oraz jego przewidziane zastosowanie;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 3.)
 rysunki projektowe, przewidywane metody wytwarzania, w tym dotyczące sterylizacji, schematy części składowych, podzespołów, obwodów itp.;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 3.)
 opisy i objaśnienia niezbędne do zrozumienia rysunków i schematów, o których mowa w pkt 2, oraz działania aktywnego wyrobu medycznego do implantacji;
-4)
+4W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 3.)
 wykaz norm zharmonizowanych, zastosowanych w pełni lub częściowo, oraz opisy rozwiązań przyjętych w celu spełnienia wymagań zasadniczych, jeżeli normy zharmonizowane nie zostały w pełni zastosowane;
 5)
 wyniki wykonanych obliczeń projektowych, analiz ryzyka, badań, prób technicznych;
@@ -423,12 +421,12 @@ ocenę kliniczną;
 projekt ulotki z instrukcją używania.
 4.
 Działania jednostki notyfikowanej
-4.1.
+4.1W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 Jednostka notyfikowana bada i ocenia dokumentację, o której mowa w ust. 3, oraz weryfikuje, czy typ został wytworzony zgodnie z tą dokumentacją, a także rejestruje elementy zaprojektowane zgodnie z mającymi zastosowanie postanowieniami norm zharmonizowanych oraz elementy zaprojektowane bez zastosowania tych norm.
-4.2.
+4.2W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 Jednostka notyfikowana przeprowadza lub organizuje przeprowadzenie inspekcji i badań niezbędnych do zweryfikowania, czy rozwiązania przyjęte przez wytwórcę spełniają wymagania zasadnicze, jeżeli normy zharmonizowane nie zostały zastosowane.
 4.
-3 Jednostka notyfikowana przeprowadza lub organizuje przeprowadzenie inspekcji i badań niezbędnych do zweryfikowania, czy wytwórca wybrał do zastosowania właściwe normy i czy zostały one faktycznie zastosowane.
+3W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 3. Jednostka notyfikowana przeprowadza lub organizuje przeprowadzenie inspekcji i badań niezbędnych do zweryfikowania, czy wytwórca wybrał do zastosowania właściwe normy i czy zostały one faktycznie zastosowane.
 4.4.
 Jednostka notyfikowana uzgadnia z wnioskodawcą miejsce przeprowadzenia niezbędnych inspekcji i badań.
 5.
@@ -442,7 +440,7 @@ Jednostka notyfikowana na żądanie innych jednostek notyfikowanych, ministra w�
 7.2.
 Jednostki notyfikowane, inne niż jednostka, która wydała certyfikat, mogą uzyskać kopie certyfikatów badania typu WE lub załączników do tych certyfikatów oraz, na uzasadniony wniosek, związane z certyfikatem części dokumentacji, po uprzednim powiadomieniu wytwórcy.
 7.3.
-Wytwórca lub jego autoryzowany przedstawiciel przechowuje dokumentację techniczną, o której mowa w ust. 3, kopie certyfikatów badania typu WE i załączniki do tych certyfikatów przez okres określony w art. 32 ust. 2 ustawy.
+Wytwórca lub jego autoryzowany przedstawiciel przechowuje dokumentację techniczną, o której mowa w ust. 3, kopie certyfikatów badania typu WE i załączniki do tych certyfikatów przez okres określony w art. 32 ust. 2 ustawy. 22) W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 3. 23) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 3.
 
 ## Załącznik nr 4 — – Weryfikacja WE
 
@@ -452,7 +450,7 @@ Weryfikacja WE jest procedurą, w wyniku której wytwórca lub jego autoryzowany
 Wytwórca lub jego autoryzowany przedstawiciel podejmuje wszelkie niezbędne środki, aby proces wytwarzania zapewniał zgodność aktywnych wyrobów medycznych do implantacji z typem opisanym w certyfikacie badania typu WE oraz z odnoszącymi się do tych wyrobów wymaganiami. Wytwórca lub jego autoryzowany przedstawiciel oznakowuje każdy aktywny wyrób medyczny do implantacji znakiem CE i sporządza pisemną deklarację zgodności.
 3.
 Przed rozpoczęciem wytwarzania wytwórca przygotowuje dokumenty określające proces wytwarzania, w szczególności dotyczące sterylizacji, wraz z wszelkimi procedurami i wcześniej ustalonymi postanowieniami, które mają być wdrożone w celu zapewnienia jednorodności produkcji oraz zgodności aktywnych wyrobów medycznych do implantacji z typem opisanym w certyfikacie badania typu WE, i odnoszącymi się do tych wyrobów wymaganiami.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 3..
 Wytwórca zobowiązuje się do ustanowienia i utrzymywania aktualizowanego systemu nadzoru po wprowadzeniu aktywnego wyrobu medycznego do implantacji do obrotu, w tym aktualizowania oceny klinicznej zgodnie z § 4 ust. 2, oraz do postępowania zgodnie z przepisami rozdziału 9 ustawy w przypadku powzięcia informacji o wystąpieniu incydentu medycznego.
 5.
 Jednostka notyfikowana przeprowadza odpowiednie sprawdzenia i badania w celu zweryfikowania zgodności aktywnych wyrobów medycznych do implantacji z odnoszącymi się do nich wymaganiami przez sprawdzanie i badanie tych wyrobów z użyciem metod statystycznych, zgodnie z ust. 6.1–6.5. Wytwórca upoważnia jednostkę notyfikowaną do oceny skuteczności środków podjętych zgodnie z ust. 3, w tym w drodze audytu.
@@ -464,17 +462,17 @@ Wytwórca przedstawia jednostce notyfikowanej wytworzone aktywne wyroby medyczne
 Z każdej partii pobierana jest losowo próbka (próba losowa). Aktywne wyroby medyczne do implantacji stanowiące próbkę sprawdzane są pojedynczo z zastosowaniem właściwych badań określonych w normach zharmonizowanych lub badań równoważnych, w celu weryfikacji ich zgodności z typem opisanym w certyfikacie badania typu WE, aby ustalić, czy daną partię przyjąć, czy odrzucić.
 6.3.
 Statystyczna kontrola aktywnych wyrobów medycznych do implantacji wykorzystuje wyniki badań właściwości lub parametrów liczbowych i wymaga stosowania schematów pobierania próby losowej o takiej charakterystyce operacyjnej, która zapewnia wysoki poziom bezpieczeństwa i skuteczności, odpowiadający aktualnemu stanowi wiedzy. Schematy pobierania próbek są określone w normach zharmonizowanych, z uwzględnieniem specyficznych właściwości danych kategorii aktywnych wyrobów medycznych do implantacji.
-6.4.
+6.4Ze zmianą wprowadzoną przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 Jeżeli partia aktywnych wyrobów medycznych do implantacji zostanie przyjęta, jednostka notyfikowana oznacza lub zleca oznaczenie swoim numerem identyfikacyjnym każdego aktywnego wyrobu medycznego do implantacji i sporządza pisemny certyfikat zgodności odnoszący się do przeprowadzonych badań. Wszystkie aktywne wyroby medyczne do implantacji z partii mogą zostać wprowadzone do obrotu, z wyjątkiem stwierdzonych w próbce wyrobów niezgodnych. W przypadku odrzucenia partii jednostka notyfikowana jest obowiązana do podjęcia stosownych środków w celu zapobieżenia wprowadzeniu partii do obrotu. Jeżeli często powtarzają się odrzucenia partii, jednostka notyfikowana może zawiesić weryfikację statystyczną. Jednostka notyfikowana może upoważnić wytwórcę do oznaczania jej numerem identyfikacyjnym aktywnych wyrobów medycznych do implantacji podczas procesu wytwarzania.
-6.5.
+6.5W brzmieniu ustalonym przez § 1 pkt 7 lit. c rozporządzenia, o którym mowa w odnośniku 3..
 Wytwórca lub jego autoryzowany przedstawiciel udostępnia na żądanie certyfikat zgodności wydany przez jednostkę notyfikowaną.
-7.
-Aktywne wyroby medyczne do implantacji zawierające produkt krwiopochodny Po wytworzeniu każdej partii aktywnych wyrobów medycznych do implantacji zawierających produkt krwiopochodny wytwórca powiadamia jednostkę notyfikowaną o zwolnieniu partii takich wyrobów i przesyła jej oficjalny certyfikat dotyczący zwolnienia partii produktu krwiopochodnego użytej w aktywnym wyrobie medycznym do implantacji, wydany przez laboratorium państwowe państwa członkowskiego lub inne laboratorium wyznaczone do tego celu przez państwo członkowskie.
+7W brzmieniu ustalonym przez § 1 pkt 7 lit. d rozporządzenia, o którym mowa w odnośniku 3..
+Aktywne wyroby medyczne do implantacji zawierające produkt krwiopochodny Po wytworzeniu każdej partii aktywnych wyrobów medycznych do implantacji zawierających produkt krwiopochodny wytwórca powiadamia jednostkę notyfikowaną o zwolnieniu partii takich wyrobów i przesyła jej oficjalny certyfikat dotyczący zwolnienia partii produktu krwiopochodnego użytej w aktywnym wyrobie medycznym do implantacji, wydany przez laboratorium państwowe państwa członkowskiego lub inne laboratorium wyznaczone do tego celu przez państwo członkowskie. 24) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 3. 25) Ze zmianą wprowadzoną przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 3. 26) W brzmieniu ustalonym przez § 1 pkt 7 lit. c rozporządzenia, o którym mowa w odnośniku 3. 27) W brzmieniu ustalonym przez § 1 pkt 7 lit. d rozporządzenia, o którym mowa w odnośniku 3.
 
 ## Załącznik nr 5 — – Deklaracja WE zgodności z typem
 
 Zapewnienie jakości produkcji
-1.
+1W brzmieniu ustalonym przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 3..
 Wytwórca stosuje zatwierdzony system jakości obejmujący wytwarzanie danych aktywnych wyrobów medycznych do implantacji i przeprowadza ich końcową kontrolę w sposób określony w ust. 3.1–3.4 oraz podlega nadzorowi jednostki notyfikowanej, o którym mowa w ust. 4.1–4.4.
 2.
 Deklaracja WE zgodności z typem – zapewnienie jakości produkcji stanowi część procedury, w wyniku której wytwórca wypełniając zobowiązania określone w ust. 1, zapewnia i oświadcza, że dane aktywne wyroby medyczne do implantacji są zgodne z typem opisanym w certyfikacie badania typu WE i że spełniają odnoszące się do tych wyrobów wymagania. Wytwórca lub jego autoryzowany przedstawiciel oznakowuje aktywne wyroby medyczne do implantacji znakiem CE i sporządza pisemną deklarację zgodności. Deklaracja ta obejmuje jeden lub więcej wytworzonych aktywnych wyrobów medycznych do implantacji, wyraźnie zidentyfikowanych nazwą, kodem lub w inny jednoznaczny sposób, i musi być przechowywana przez wytwórcę. Znakowi CE towarzyszy numer identyfikacyjny jednostki notyfikowanej odpowiedzialnej za nadzorowanie wytwórcy.
@@ -492,7 +490,7 @@ zobowiązanie do wypełniania obowiązków wynikających z zatwierdzonego system
 zobowiązanie do utrzymywania zatwierdzonego systemu jakości tak, aby był odpowiedni i skuteczny;
 5)
 dokumentację techniczną zatwierdzonego typu i kopię certyfikatu badania typu WE, jeżeli dotyczy;
-6)
+6W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 3.)
 zobowiązanie wytwórcy do ustanowienia i utrzymywania aktualizowanego systemu nadzoru po wprowadzeniu aktywnego wyrobu medycznego do implantacji do obrotu, w tym aktualizowania oceny klinicznej zgodnie z § 4 ust. 2, oraz do postępowania zgodnie z przepisami rozdziału 9 ustawy w przypadku powzięcia informacji o wystąpieniu incydentu medycznego.
 3.2.
 Stosowanie systemu jakości musi zapewnić, że aktywne wyroby medyczne do implantacji są zgodne z typem opisanym w certyfikacie badania typu WE. Wszystkie elementy, wymagania i rozwiązania przyjęte przez wytwórcę w jego systemie jakości muszą być dokumentowane w sposób systematyczny i uporządkowany w formie pisemnej oraz muszą zawierać opis polityki jakości i procedur. Dokumentacja systemu jakości musi umożliwiać jednolitą interpretację polityki jakości i procedur, takich jak programy jakości, plany jakości, księgi jakości, instrukcje i zapisy dotyczące jakości, w tym opisy:
@@ -506,7 +504,7 @@ b)
 metod monitorowania skuteczności systemu jakości, a w szczególności jego zdolności do zapewnienia pożądanej jakości aktywnego wyrobu medycznego do implantacji, w tym nadzorowania wyrobów niezgodnych,
 c)
 jeżeli wytwarzanie lub końcową kontrolę i badanie końcowe aktywnych wyrobów medycznych do implantacji lub ich elementów przeprowadza inny podmiot – metod monitorowania skuteczności systemu jakości, w szczególności rodzaju kontroli i zakresu nadzoru nad tym podmiotem;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 8 lit. c rozporządzenia, o którym mowa w odnośniku 3.)
 kontroli i technik zapewnienia jakości na etapie wytwarzania, w szczególności:
 a)
 procesów i procedur, które będą stosowane, zwłaszcza w sterylizacji i w zaopatrzeniu, oraz dokumentów z tym związanych,
@@ -536,8 +534,8 @@ Jednostka notyfikowana okresowo przeprowadza inspekcje i oceny systemu jakości 
 Jednostka notyfikowana może przeprowadzać niezapowiedziane inspekcje u wytwórcy. Jednostka notyfikowana przekazuje wytwórcy sprawozdania z inspekcji.
 5.
 Jednostka notyfikowana na żądanie innych jednostek notyfikowanych, ministra właściwego do spraw zdrowia, Prezesa Urzędu i organów innych państw członkowskich właściwych w sprawach aktywnych wyrobów medycznych do implantacji udostępnia wszelkie stosowne informacje dotyczące zatwierdzenia, odmowy lub cofnięcia zatwierdzenia systemu jakości.
-6.
-Aktywne wyroby medyczne do implantacji zawierające produkt krwiopochodny Po wytworzeniu każdej partii aktywnych wyrobów medycznych do implantacji zawierających produkt krwiopochodny wytwórca powiadamia jednostkę notyfikowaną o zwolnieniu partii takich wyrobów i przesyła jej oficjalny certyfikat dotyczący zwolnienia partii produktu krwiopochodnego użytej w aktywnym wyrobie medycznym do implantacji, wydany przez laboratorium państwowe państwa członkowskiego lub inne laboratorium wyznaczone do tego celu przez państwo członkowskie.
+6W brzmieniu ustalonym przez § 1 pkt 8 lit. d rozporządzenia, o którym mowa w odnośniku 3..
+Aktywne wyroby medyczne do implantacji zawierające produkt krwiopochodny Po wytworzeniu każdej partii aktywnych wyrobów medycznych do implantacji zawierających produkt krwiopochodny wytwórca powiadamia jednostkę notyfikowaną o zwolnieniu partii takich wyrobów i przesyła jej oficjalny certyfikat dotyczący zwolnienia partii produktu krwiopochodnego użytej w aktywnym wyrobie medycznym do implantacji, wydany przez laboratorium państwowe państwa członkowskiego lub inne laboratorium wyznaczone do tego celu przez państwo członkowskie. 28) W brzmieniu ustalonym przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 3. 29) W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 3. 30) W brzmieniu ustalonym przez § 1 pkt 8 lit. c rozporządzenia, o którym mowa w odnośniku 3. 31) W brzmieniu ustalonym przez § 1 pkt 8 lit. d rozporządzenia, o którym mowa w odnośniku 3.
 
 ## Załącznik nr 6 — – Oświadczenia w sprawie wyrobu wykonanego na zamówienie albo wyrobu do badania klinicznego
 
@@ -551,15 +549,15 @@ a)
 nazwę i adres wytwórcy,
 b)
 dane umożliwiające identyfikację aktywnego wyrobu medycznego do implantacji,
-c)
+cW brzmieniu ustalonym przez § 1 pkt 9 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3.)
 oświadczenie, że aktywny wyrób medyczny do implantacji jest przeznaczony wyłącznie do użytku określonego pacjenta, zawierające jego nazwisko i imię, akronim lub kod liczbowy,
-d)
+dW brzmieniu ustalonym przez § 1 pkt 9 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3.)
 nazwisko lekarza o odpowiednich kwalifikacjach, który sporządził opis zlecenia, oraz, w razie potrzeby, nazwę podmiotu leczniczego,
 e)
 szczególne właściwości aktywnego wyrobu medycznego do implantacji, wskazane w zleceniu, o którym mowa w lit. d,
 f)
 oświadczenie, że aktywny wyrób medyczny do implantacji jest zgodny z wymaganiami zasadniczymi, oraz wskazanie wymagań zasadniczych, które nie zostały w całości spełnione, z podaniem przyczyn;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 9 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3.)
 dla wyrobu do badania klinicznego:
 a)
 dane umożliwiające identyfikację danego aktywnego wyrobu medycznego do implantacji,
@@ -588,8 +586,8 @@ datę rozpoczęcia i planowany czas trwania badania klinicznego,
 m)
 oświadczenie, o którym mowa w art. 44 ust. 3 pkt 8 ustawy, potwierdzające, że aktywny wyrób medyczny do implantacji spełnia wymagania zasadnicze oprócz objętych zakresem badania klinicznego oraz że uwzględniając to, podjęto wszelkie środki ostrożności w celu ochrony zdrowia i bezpieczeństwa pacjentów.
 3.
-Wytwórca lub jego autoryzowany przedstawiciel przechowuje do dyspozycji krajowego organu właściwego, a w przypadku wytwórcy i autoryzowanego przedstawiciela mających siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej – do dyspozycji Prezesa Urzędu, dokumentację:
-1)
+Wytwórca lub jego autoryzowany przedstawiciel przechowuje do dyspozycji krajowego organu właściwego, a w przypadku wytwórcy i autoryzowanego przedstawiciela mających siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej – do dyspozycji Prezesa Urzędu, dokumentację:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 9 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3.
+1W brzmieniu ustalonym przez § 1 pkt 9 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 3.)
 dla wyrobu wykonanego na zamówienie – wskazującą miejsce lub miejsca wytwarzania i pozwalającą na zrozumienie projektu, procesu wytwarzania i działania wyrobu, w tym określającą przewidywane parametry działania, przygotowaną w sposób umożliwiający przeprowadzenie oceny zgodności z odnoszącymi się do tego wyrobu wymaganiami; wytwórca podejmuje wszelkie niezbędne środki w celu zapewnienia, że aktywne wyroby medyczne do implantacji są wytwarzane zgodnie z tą dokumentacją;
 2)
 dla wyrobu do badania klinicznego – zawierającą:
@@ -601,13 +599,12 @@ c)
 opisy i objaśnienia niezbędne do zrozumienia rysunków i schematów, o których mowa w lit. b, oraz działania aktywnego wyrobu medycznego do implantacji,
 d)
 wyniki analizy ryzyka i wykaz norm zharmonizowanych zastosowanych w pełni lub częściowo oraz opisy rozwiązań przyjętych w celu spełnienia wymagań zasadniczych, jeżeli normy zharmonizowane nie zostały zastosowane,
-e)
+eW brzmieniu ustalonym przez § 1 pkt 9 lit. b tiret trzecie rozporządzenia, o którym mowa w odnośniku 3.)
 jeżeli aktywny wyrób medyczny do implantacji zawiera, jako integralną część, substancję uznaną za produkt leczniczy lub produkt krwiopochodny, o której mowa w ust. 10 załącznika nr 1 do rozporządzenia, dane z przeprowadzonych badań wymaganych do oceny bezpieczeństwa, jakości i użyteczności takiej substancji, z uwzględnieniem przewidzianego zastosowania aktywnego wyrobu medycznego do implantacji,
 f)
-wyniki wykonanych obliczeń projektowych, kontroli i badań technicznych.
-Wytwórca podejmuje niezbędne środki w celu zapewnienia, że wyroby wytwarzane są według dokumentacji, o której mowa w pkt 2, i zatwierdza ocenę skuteczności podjętych środków albo, jeżeli to niezbędne, przeprowadza audyt skuteczności tych środków.
+wyniki wykonanych obliczeń projektowych, kontroli i badań technicznych. Wytwórca podejmuje niezbędne środki w celu zapewnienia, że wyroby wytwarzane są według dokumentacji, o której mowa w pkt 2, i zatwierdza ocenę skuteczności podjętych środków albo, jeżeli to niezbędne, przeprowadza audyt skuteczności tych środków.Akapit drugi w brzmieniu ustalonym przez § 1 pkt 9 lit. b tiret czwarte rozporządzenia, o którym mowa w odnośniku 3.
 4.
 Informacje zawarte w oświadczeniach, o których mowa w niniejszym załączniku, są przechowywane przez okres określony w art. 32 ust. 2 ustawy.
-5.
-Dla wyrobów wykonanych na zamówienie wytwórca jest obowiązany do przeglądu i dokumentowania doświadczeń uzyskanych po wprowadzeniu aktywnego wyrobu medycznego do implantacji do obrotu, w tym pochodzących z oceny klinicznej aktualizowanej zgodnie z § 4 ust. 2, do wdrożenia właściwych środków do prowadzenia wszelkich koniecznych działań korygujących oraz do postępowania zgodnie z przepisami rozdziału 9 ustawy w przypadku powzięcia informacji o wystąpieniu incydentu medycznego.
+5W brzmieniu ustalonym przez § 1 pkt 9 lit. c rozporządzenia, o którym mowa w odnośniku 3..
+Dla wyrobów wykonanych na zamówienie wytwórca jest obowiązany do przeglądu i dokumentowania doświadczeń uzyskanych po wprowadzeniu aktywnego wyrobu medycznego do implantacji do obrotu, w tym pochodzących z oceny klinicznej aktualizowanej zgodnie z § 4 ust. 2, do wdrożenia właściwych środków do prowadzenia wszelkich koniecznych działań korygujących oraz do postępowania zgodnie z przepisami rozdziału 9 ustawy w przypadku powzięcia informacji o wystąpieniu incydentu medycznego. 32) W brzmieniu ustalonym przez § 1 pkt 9 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 33) W brzmieniu ustalonym przez § 1 pkt 9 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 34) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 9 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 35) W brzmieniu ustalonym przez § 1 pkt 9 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 36) W brzmieniu ustalonym przez § 1 pkt 9 lit. b tiret trzecie rozporządzenia, o którym mowa w odnośniku 3. 37) Akapit drugi w brzmieniu ustalonym przez § 1 pkt 9 lit. b tiret czwarte rozporządzenia, o którym mowa w odnośniku 3. 38) W brzmieniu ustalonym przez § 1 pkt 9 lit. c rozporządzenia, o którym mowa w odnośniku 3.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 21 listopada 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 5. Wspieranie obrotu i przetwarzania, zawartego w Programie Operacyjnym „Rybactwo i Morze”
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 21 listopada 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 5. Wspieranie obrotu i przetwarzania, zawartego w Programie Operacyjnym „Rybactwo i Morze” Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-21 |
 | Data wydania | 2016-12-06 |
-| Wejście w życie | 2016-12-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001965) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1965/text.pdf) |
 
@@ -56,7 +55,7 @@ działania i przypadki, w których następcy prawnemu beneficjenta albo nabywcy 
 1.
 Pomoc finansową, o której mowa w § 1, przyznaje się na realizację operacji w ramach następujących działań:
 1)
-plany produkcji i obrotu, o którym mowa w art. 66 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.) , zwanego dalej „rozporządzeniem nr 508/2014”;
+plany produkcji i obrotu, o którym mowa w art. 66 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43 oraz Dz. Urz. UE L 169 z 28.06.2016, str. 18.) , zwanego dalej „rozporządzeniem nr 508/2014”;
 2)
 dopłaty do składowania, o którym mowa w art. 67 rozporządzenia nr 508/2014;
 3)
@@ -88,7 +87,7 @@ uzyskiwania najlepszych efektów z danych nakładów;
 2)
 optymalnego doboru metod i środków służących osiągnięciu założonych celów.
 § 3.
-Operacje nie kwalifikują się do dofinansowania w przypadku, o którym mowa w art. 65 ust. 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.) , zwanego dalej „rozporządzeniem nr 1303/2013”.
+Operacje nie kwalifikują się do dofinansowania w przypadku, o którym mowa w art. 65 ust. 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1 oraz Dz. Urz. UE L 200 z 26.07.2016, str. 140.) , zwanego dalej „rozporządzeniem nr 1303/2013”.
 § 4.
 Pomoc finansową na realizację operacji przyznaje się w formie:
 1)
@@ -212,7 +211,7 @@ Usługi prawnicze oraz konsultingowe w ramach kosztów administracyjnych, o któ
 § 9.
 Do kosztów kwalifikowalnych operacji w ramach działania, o którym mowa w art. 66 rozporządzenia nr 508/2014, w zakresie wdrażania planów produkcji i obrotu, zalicza się koszty:
 1)
-wdrażania celów uznanych organizacji producentów ryb, określonych w art. 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającego rozporządzenia Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającego rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1, z późn. zm.) , zwanego dalej „rozporządzeniem nr 1379/2013”, realizowanych w oparciu o środki wymienione w art. 8 rozporządzenia nr 1379/2013;
+wdrażania celów uznanych organizacji producentów ryb, określonych w art. 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającego rozporządzenia Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającego rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 86 oraz Dz. Urz. UE L 133 z 29.05.2015, str. 1.) , zwanego dalej „rozporządzeniem nr 1379/2013”, realizowanych w oparciu o środki wymienione w art. 8 rozporządzenia nr 1379/2013;
 2)
 dodatku do wynagrodzenia pracowników beneficjenta z tytułu okresowego zwiększenia obowiązków służbowych danego pracownika związanych z realizacją planu produkcji i obrotu, na warunkach określonych w § 8 ust. 2;
 3)
@@ -296,7 +295,7 @@ uczestnictwa w spotkaniach właściwych organów zarządzania rybołówstwem na 
 b)
 składek związanych z członkostwem w organizacjach zajmujących się rybołówstwem oraz rynkiem rybnym;
 16)
-unikania i minimalizowania przypadkowych połowów przez zaangażowanie w rozwój środków technicznych i ich stosowanie oraz jak najlepsze wykorzystanie przypadkowych połowów stad handlowych bez tworzenia rynku dla połowów, które są poniżej minimalnego rozmiaru odniesienia do celów ochrony, zgodnie odpowiednio z art. 15 ust. 11 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1380/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej polityki rybołówstwa, zmieniającego rozporządzenia Rady (WE) nr 1954/2003 i (WE) nr 1224/2009 oraz uchylającego rozporządzenia Rady (WE) nr 2371/2002 i (WE) nr 639/2004 oraz decyzję Rady 2004/585/WE (Dz. Urz. UE L 354 z 28.12.2013, str. 22, z późn. zm.) lub z planami strategicznymi, o których mowa w art. 34 ust. 2 tego rozporządzenia, w tym:
+unikania i minimalizowania przypadkowych połowów przez zaangażowanie w rozwój środków technicznych i ich stosowanie oraz jak najlepsze wykorzystanie przypadkowych połowów stad handlowych bez tworzenia rynku dla połowów, które są poniżej minimalnego rozmiaru odniesienia do celów ochrony, zgodnie odpowiednio z art. 15 ust. 11 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1380/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej polityki rybołówstwa, zmieniającego rozporządzenia Rady (WE) nr 1954/2003 i (WE) nr 1224/2009 oraz uchylającego rozporządzenia Rady (WE) nr 2371/2002 i (WE) nr 639/2004 oraz decyzję Rady 2004/585/WE (Dz. Urz. UE L 354 z 28.12.2013, str. 22, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 86 oraz Dz. Urz. UE L 133 z 29.05.2015, str. 1.) lub z planami strategicznymi, o których mowa w art. 34 ust. 2 tego rozporządzenia, w tym:
 a)
 koszty zabezpieczenia i przechowywania przypadkowych połowów stad handlowych w celu przekazania ich do wyspecjalizowanych zakładów przetwórstwa,
 b)
@@ -447,7 +446,7 @@ Do kosztów kwalifikowalnych operacji w ramach działania, o którym mowa w art.
 1)
 przygotowania dokumentacji związanej:
 a)
-ze złożeniem wniosku o rejestrację danego produktu zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1151/2012 z dnia 21 listopada 2012 r. w sprawie systemów jakości produktów rolnych i środków spożywczych (Dz. Urz. UE L 343 z 14.12.2012, str. 1, z późn. zm.) ,
+ze złożeniem wniosku o rejestrację danego produktu zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1151/2012 z dnia 21 listopada 2012 r. w sprawie systemów jakości produktów rolnych i środków spożywczych (Dz. Urz. UE L 343 z 14.12.2012, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 55 z 27.02.2013, str. 27.) ,
 b)
 z uzyskaniem certyfikatu lub utrzymaniem certyfikatu produktów zrównoważonego rybołówstwa i zrównoważonej akwakultury oraz metod przetwarzania przyjaznych dla środowiska oraz z certyfikacją łańcucha dostaw tych produktów;
 2)
@@ -515,7 +514,7 @@ opracowania danych rynkowych, w szczególności dotyczących zależności przetw
 3)
 organizacji spotkań, konferencji i publikacji w postaci papierowej oraz elektronicznej o tematyce związanej z analizą rynku rybnego;
 4)
-opracowania wytycznych dobrej praktyki higieny oraz stosowania zasad HACCP, zgodnie z art. 5 rozporządzenia (WE) nr 852/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie higieny środków spożywczych (Dz. Urz. UE L 139 z 30.04.2004, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 319) ;
+opracowania wytycznych dobrej praktyki higieny oraz stosowania zasad HACCP, zgodnie z art. 5 rozporządzenia (WE) nr 852/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie higieny środków spożywczych (Dz. Urz. UE L 139 z 30.04.2004, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 277 z 18.10.2008, str. 7 oraz Dz. Urz. UE L 87 z 31.03.2009, z 29.05.2015, str. 1.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 319) ;
 5)
 opracowania zaleceń i wytycznych do stosowania oraz kierunków zmian w zakresie norm handlowych i badawczych, stosowanych w odniesieniu do produktów rybnych.
 § 20.
@@ -684,7 +683,7 @@ zakupu i wymiany maszyn i urządzeń, służących do przetwarzania produktów u
 5)
 lit. e rozporządzenia nr 508/2014, zalicza się koszty:
 a)
-budowy, odbudowy, rozbudowy, przebudowy lub adaptacji budynków, w których będzie prowadzona działalność związana z przetwarzaniem produktów akwakultury ekologicznej, wytworzonych przy zastosowaniu metody produkcji zgodnej z zasadami określonymi w rozporządzeniu Rady (WE) nr 834/2007 z dnia 28 czerwca 2007 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającym rozporządzenie (EWG) nr 2092/91 (Dz. Urz. UE L 189 z 20.07.2007, str. 1, z późn. zm.), na wszystkich etapach produkcji, przygotowania i dystrybucji,
+budowy, odbudowy, rozbudowy, przebudowy lub adaptacji budynków, w których będzie prowadzona działalność związana z przetwarzaniem produktów akwakultury ekologicznej, wytworzonych przy zastosowaniu metody produkcji zgodnej z zasadami określonymi w rozporządzeniu Rady (WE) nr 834/2007 z dnia 28 czerwca 2007 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającym rozporządzenie (EWG) nr 2092/91 (Dz. Urz. UE L 189 z 20.07.2007, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 264 z 03.10.2008, str. 1 oraz Dz. Urz. UE L 158 z 10.06.2013, str. 1.), na wszystkich etapach produkcji, przygotowania i dystrybucji,
 b)
 zakupu i wymiany maszyn i urządzeń, służących do przetwarzania produktów akwakultury ekologicznej,
 c)
@@ -779,8 +778,7 @@ Za miejsce realizacji operacji w ramach działania, o którym mowa w:
 1)
 art. 66 rozporządzenia nr 508/2014,
 2)
-art. 68 rozporządzenia nr 508/2014 w zakresie, o którym mowa w art. 68 ust. 1 lit. g tego rozporządzenia
-uznaje się siedzibę wnioskodawcy.
+art. 68 rozporządzenia nr 508/2014 w zakresie, o którym mowa w art. 68 ust. 1 lit. g tego rozporządzenia – uznaje się siedzibę wnioskodawcy.
 § 31.
 1.
 Wniosek o dofinansowanie pozostawia się bez rozpatrzenia, jeżeli:
@@ -923,8 +921,7 @@ Operacja może być realizowana w nie więcej niż czterech etapach, przy czym w
 1)
 36 miesięcy od dnia zawarcia umowy o dofinansowanie – w przypadku operacji realizowanych w kilku etapach,
 2)
-24 miesięcy od dnia zawarcia umowy o dofinansowanie – w przypadku operacji realizowanych w jednym etapie
-lecz nie później niż do dnia 31 marca 2023 r.
+24 miesięcy od dnia zawarcia umowy o dofinansowanie – w przypadku operacji realizowanych w jednym etapie – lecz nie później niż do dnia 31 marca 2023 r.
 5.
 W przypadku gdy operacja jest realizowana w etapach, złożenie pierwszego wniosku o płatność pośrednią następuje nie później niż w terminie 24 miesięcy od dnia zawarcia umowy o dofinansowanie.
 6.
@@ -1018,8 +1015,7 @@ Do wniosku następcy prawnego beneficjenta, o którym mowa w ust. 2, i trybu jeg
 11.
 Umowa o dofinansowanie zawarta z następcą prawnym beneficjenta określa warunki kontynuacji realizacji operacji.
 § 44.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43 oraz Dz. Urz. UE L 169 z 28.06.2016, str. 18. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1 oraz Dz. Urz. UE L 200 z 26.07.2016, str. 140. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 86 oraz Dz. Urz. UE L 133 z 29.05.2015, str. 1. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 86 oraz Dz. Urz. UE L 133 z 29.05.2015, str. 1. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 55 z 27.02.2013, str. 27. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 277 z 18.10.2008, str. 7 oraz Dz. Urz. UE L 87 z 31.03.2009, z 29.05.2015, str. 1. 8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 264 z 03.10.2008, str. 1 oraz Dz. Urz. UE L 158 z 10.06.2013, str. 1.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43 oraz Dz. Urz. UE L 169 z 28.06.2016, str. 18. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1 oraz Dz. Urz. UE L 200 z 26.07.2016, str. 140. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 86 oraz Dz. Urz. UE L 133 z 29.05.2015, str. 1. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 86 oraz Dz. Urz. UE L 133 z 29.05.2015, str. 1. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 55 z 27.02.2013, str. 27. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 277 z 18.10.2008, str. 7 oraz Dz. Urz. UE L 87 z 31.03.2009, z 29.05.2015, str. 1. 8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 264 z 03.10.2008, str. 1 oraz Dz. Urz. UE L 158 z 10.06.2013, str. 1.
 
 ## Załącznik nr 1 — – KRYTERIA WYBORU OPERACJI
 
@@ -1212,8 +1208,7 @@ dokument potwierdzający zastosowanie technik lub technologii przetwarzania w wy
 a)
 odpadów z produktów rybnych w celu ich wprowadzania do obrotu,
 b)
-produktów akwakultury ekologicznej, o których mowa w rozporządzeniu Rady (WE) nr 834/2007 z dnia 28 czerwca 2007 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającym rozporządzenie (EWG) nr 2092/91 (Dz. Urz. UE L 189 z 20.07.2007, str. 1, z późn. zm.)
-w przypadku gdy wymaga tego specyfika operacji;
+produktów akwakultury ekologicznej, o których mowa w rozporządzeniu Rady (WE) nr 834/2007 z dnia 28 czerwca 2007 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającym rozporządzenie (EWG) nr 2092/91 (Dz. Urz. UE L 189 z 20.07.2007, str. 1, z późn. zm.) – w przypadku gdy wymaga tego specyfika operacji;
 9)
 dokument lub oświadczenie beneficjenta, potwierdzające poprawę warunków bezpieczeństwa i higieny pracy – w przypadku gdy wymaga tego specyfika operacji;
 10)

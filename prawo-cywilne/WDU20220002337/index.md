@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 4 listopada 2022 r. o zmianie ustawy o prawach konsumenta, ustawy – Kodeks cywilny oraz ustawy – Prawo prywatne międzynarodowe
+# Ustawa z dnia 4 listopada 2022 r. o zmianie ustawy o prawach konsumenta, ustawy – Kodeks cywilny oraz ustawy – Prawo prywatne międzynarodowe Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/770 z dnia 20 maja 2019 r. w sprawie niektórych aspektów umów o dostarczanie treści cyfrowych i usług cyfrowych (Dz. Urz. UE L 136 z 22.05.2019, str. 1 oraz Dz. Urz. UE L 305 z 26.11.2019, str. 60) oraz dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/771 z dnia 20 maja 2019 r. w sprawie niektórych aspektów umów sprzedaży towarów, zmieniającą rozporządzenie (UE) 2017/2394 oraz dyrektywę 2009/22/WE i uchylającą dyrektywę 1999/44/WE (Dz. Urz. UE L 136 z 22.05.2019, str. 28 oraz Dz. Urz. UE L 305 z 26.11.2019, str. 63).
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-04 |
 | Data wydania | 2022-11-16 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002337) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2337/text.pdf) |
 
+Umowy zobowiązujące do przeniesienia własności towaru na konsumenta
+Umowy o dostarczanie treści cyfrowej lub usługi cyfrowej
 1.
 Ilekroć w niniejszym rozdziale jest mowa o treści cyfrowej, należy przez to rozumieć również towar, który służy wyłącznie jako nośnik treści cyfrowej, z uwzględnieniem art. 43j ust. 8.
 2.
@@ -170,8 +171,7 @@ Jeżeli zmiana, o której mowa w art. 43p ust. 1, istotnie i negatywnie wpływa 
 2.
 W przypadku, o którym mowa w ust. 1, konsument może wypowiedzieć umowę bez zachowania terminu wypowiedzenia w ciągu 30 dni od dnia dokonania zmiany, o której mowa w art. 43p ust. 1, lub poinformowania o tej zmianie, jeżeli poinformowanie nastąpiło później niż ta zmiana. Przepis art. 43o stosuje się odpowiednio.
 3.
-Przepisu ust. 2 nie stosuje się, jeżeli przedsiębiorca zapewnił konsumentowi uprawnienie do zachowania, bez dodatkowych kosztów, treści cyfrowej lub usługi cyfrowej zgodnych z umową, w stanie niezmienionym.
-” ;
+Przepisu ust. 2 nie stosuje się, jeżeli przedsiębiorca zapewnił konsumentowi uprawnienie do zachowania, bez dodatkowych kosztów, treści cyfrowej lub usługi cyfrowej zgodnych z umową, w stanie niezmienionym. ” ;
 16)
 w załączniku nr 1 do ustawy:
 a)
@@ -183,7 +183,7 @@ użyty w załączniku nr 2 do ustawy wyraz „rzeczy” zastępuje się wyrazem 
 
 **Art. 1.** W ustawie z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2020 r. poz. 287 oraz z 2021 r. poz. 2105) wprowadza się następujące zmiany:
 
-- **1)** odnośnik nr 1 do tytułu ustawy otrzymuje brzmienie: „
+- **1)** odnośnik nr 1 do tytułu ustawy otrzymuje brzmienie: „ 1) Niniejsza ustawa w zakresie swojej regulacji wdraża:
 - **1)** dyrektywę Parlamentu Europejskiego i Rady 2011/83/UE z dnia 25 października 2011 r. w sprawie praw konsumentów, zmieniającą dyrektywę Rady 93/13/EWG i dyrektywę 1999/44/WE Parlamentu Europejskiego i Rady oraz uchylającą dyrektywę Rady 85/577/EWG i dyrektywę 97/7/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 304 z 22.11.2011, str. 64, z późn. zm.), ostatnio zmienioną dyrektywą Parlamentu Europejskiego i Rady (UE) 2019/2161 z dnia 27 listopada 2019 r. (Dz. Urz. UE L 328 z 18.12.2019, str. 7);
 - **2)** dyrektywę 2002/65/WE Parlamentu Europejskiego i Rady z dnia 23 września 2002 r. dotyczącą sprzedaży konsumentom usług finansowych na odległość oraz zmieniającą dyrektywę Rady 90/619/EWG oraz dyrektywy 97/7/WE i 98/27/WE (Dz. Urz. UE L 271 z 09.10.2002, str. 16, z późn. zm.), ostatnio zmienioną dyrektywą Parlamentu Europejskiego i Rady (UE) 2015/2366 z dnia 25 listopada 2015 r. (Dz. Urz. UE L 337 z 23.12.2015, str. 35, z późn. zm.);
 - **3)** dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/770 z dnia 20 maja 2019 r. w sprawie niektórych aspektów umów o dostarczanie treści cyfrowych i usług cyfrowych (Dz. Urz. UE L 136 z 22.05.2019, str. 1 oraz Dz. Urz. UE L 305 z 26.11.2019, str. 60);
@@ -256,7 +256,7 @@ użyty w załączniku nr 2 do ustawy wyraz „rzeczy” zastępuje się wyrazem 
 - **14)** uchyla się art. 38a;
 - **15)** po rozdziale 5 dodaje się rozdziały 5a i 5b w brzmieniu: „
 
-#### Rozdział 5a Umowy zobowiązujące do przeniesienia własności towaru na konsumenta
+#### Rozdział 5a
 
 **Art. 43a.**
 
@@ -333,7 +333,7 @@ użyty w załączniku nr 2 do ustawy wyraz „rzeczy” zastępuje się wyrazem 
 
 2. Gwarancja trwałości nie może przewidywać warunków naprawy albo wymiany mniej korzystnych dla konsumenta niż określone w art. 43d.
 
-#### Rozdział 5b Umowy o dostarczanie treści cyfrowej lub usługi cyfrowej
+#### Rozdział 5b
 
 **Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360) wprowadza się następujące zmiany:
 
@@ -370,5 +370,5 @@ użyty w załączniku nr 2 do ustawy wyraz „rzeczy” zastępuje się wyrazem 
 
 2. Przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą stosuje się do umów o dostarczanie treści cyfrowej lub usługi cyfrowej zawartych przed dniem wejścia w życie niniejszej ustawy, jeżeli dostarczanie treści cyfrowej lub usługi cyfrowej miało nastąpić lub nastąpiło po tym dniu. Przepisy art. 43p i art. 43q ustawy zmienianej w art. 1 stosuje się jednak wyłącznie do umów zawartych po dniu wejścia w życie niniejszej ustawy.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2023 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2023 r. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/770 z dnia 20 maja 2019 r. w sprawie niektórych aspektów umów o dostarczanie treści cyfrowych i usług cyfrowych (Dz. Urz. UE L 136 z 22.05.2019, str. 1 oraz Dz. Urz. UE L 305 z 26.11.2019, str. 60) oraz dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/771 z dnia 20 maja 2019 r. w sprawie niektórych aspektów umów sprzedaży towarów, zmieniającą rozporządzenie (UE) 2017/2394 oraz dyrektywę 2009/22/WE i uchylającą dyrektywę 1999/44/WE (Dz. Urz. UE L 136 z 22.05.2019, str. 28 oraz Dz. Urz. UE L 305 z 26.11.2019, str. 63).
 

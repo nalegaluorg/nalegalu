@@ -26,13 +26,16 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002063) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2063/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 11 maja 2001 r. Prawo o miarach Rozdział 1 – Przepisy ogólne Rozdział 2 – Legalne jednostki miar i państwowe wzorce jednostek miar Rozdział 3 – Prawna kontrola metrologiczna Rozdział 4 – Kompetencje i zadania organów administracji miar Rozdział 5 – Nadzór nad wykonywaniem przepisów ustawy Rozdział 6 – Opłaty za czynności organów administracji miar i podległych im urzędów Rozdział 7 – Sankcje za naruszenie przepisów ustawy Rozdział 7a – Przepisy epizodyczne Rozdział 8 – Przepisy dostosowujące, przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 11 maja 2001 r. Prawo o miarach
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2021 r. poz. 2068), z uwzględnieniem zmian wprowadzonych ustawą z dnia 12 maja 2022 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw (Dz. U. poz. 1117) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 września 2022 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 10 ustawy z dnia 12 maja 2022 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw (Dz. U. poz. 1117), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 10 ustawy z dnia 12 maja 2022 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw (Dz. U. poz. 1117), który stanowi: „
+Przepisy ogólne
+Legalne jednostki miar i państwowe wzorce jednostek miar
+Prawna kontrola metrologiczna
+Kompetencje i zadania organów administracji miar
 Organami administracji miar są:
 1)
 Prezes Głównego Urzędu Miar, będący centralnym organem administracji rządowej;
@@ -121,6 +124,10 @@ Szczegółowy tryb działania Rady, wyboru przewodniczącego oraz powoływania i
 Członkom Rady przysługuje zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510 i 1700), w przypadku gdy posiedzenia Rady odbywają się poza miejscem ich zamieszkania lub świadczenia pracy.
 8.
 Obsługę organizacyjną i finansową Rady zapewnia Główny Urząd Miar.
+Nadzór nad wykonywaniem przepisów ustawy
+Opłaty za czynności organów administracji miar i podległych im urzędów
+Sankcje za naruszenie przepisów ustawy
+Przepisy epizodyczne
 1.
 W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii albo występowania niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego, właściwy organ administracji miar może, na wniosek podmiotu uprawnionego do złożenia wniosku o dokonanie legalizacji ponownej, odroczyć termin dokonania legalizacji ponownej i zezwolić na dalsze użytkowanie danego egzemplarza przyrządu pomiarowego, przez okres nie dłuższy niż 6 miesięcy, jeżeli okres ważności legalizacji ponownej przyrządu pomiarowego, określony w przepisach wydanych na podstawie art. 9, jest wyrażony w miesiącach, albo przez okres nie dłuższy niż 12 miesięcy, jeżeli okres ważności legalizacji ponownej przyrządu pomiarowego, określony w przepisach wydanych na podstawie art. 9, jest wyrażony w latach, pod warunkiem że wnioskodawca dołączy do wniosku oświadczenie, że od dnia dokonania ostatniej legalizacji albo przeprowadzenia oceny zgodności nie wprowadzono zmian dotyczących konstrukcji, wykonania i warunków właściwego stosowania przyrządu pomiarowego i że spełnia on wymagania, w szczególności w zakresie charakterystyk metrologicznych, oraz że jego dalsze użytkowanie, w ocenie wnioskodawcy, nie stwarza zagrożenia dla wymaganej dokładności pomiarów, a także dla życia lub zdrowia ludzkiego oraz mienia i środowiska.
 2.
@@ -133,10 +140,29 @@ Wniosek oraz oświadczenie, o których mowa w ust. 1, mogą zostać złożone ty
 Oświadczenie, o którym mowa w ust. 1, jest składane pod rygorem odpowiedzialności karnej. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Niniejsza klauzula zastępuje pouczenie organu administracji miar o odpowiedzialności karnej za składanie fałszywych oświadczeń. Jeżeli wnioskodawca nie jest osobą fizyczną, oświadczenie, o którym mowa w ust. 1, składają osoby uprawnione do reprezentacji wnioskodawcy.
 6.
 Odroczenie terminu dokonania legalizacji ponownej i zezwolenie na dalsze użytkowanie na warunkach określonych w ust. 1 następuje w drodze decyzji, wydanej w terminie 30 dni od dnia złożenia wniosku, a za czynności wydania takiej decyzji nie pobiera się opłaty. Odroczenie i zezwolenie na dalsze użytkowanie, o których mowa w ust. 1, liczone są od pierwszego dnia upływu okresu ważności legalizacji przyrządu albo terminu, w którym przyrząd powinien być zgłoszony do legalizacji ponownej po dokonaniu oceny zgodności.
+Przepisy dostosowujące, przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Legalne jednostki miar i państwowe wzorce jednostek miar
+
+#### Rozdział 3 – Prawna kontrola metrologiczna
+
+#### Rozdział 4 – Kompetencje i zadania organów administracji miar
+
+#### Rozdział 5 – Nadzór nad wykonywaniem przepisów ustawy
+
+#### Rozdział 6 – Opłaty za czynności organów administracji miar i podległych im urzędów
+
+#### Rozdział 7 – Sankcje za naruszenie przepisów ustawy
+
+#### Rozdział 7a – Przepisy epizodyczne
+
+#### Rozdział 8 – Przepisy dostosowujące, przejściowe i końcowe
 
 **Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1, który wchodzi w życie z dniem 1 października 2022 r. ” . Załącznik – Tekst jednolity ustawy z dnia 11 maja 2001 r. Prawo o miarach
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Celem ustawy jest zapewnienie jednolitości miar i wymaganej dokładności pomiarów wielkości fizycznych w Rzeczypospolitej Polskiej.
 
@@ -188,7 +214,7 @@ Odroczenie terminu dokonania legalizacji ponownej i zezwolenie na dalsze użytko
 - **19)** znak zatwierdzenia typu – znak umieszczany na przyrządzie pomiarowym, poświadczający jego zgodność z zatwierdzonym typem;
 - **20)** dowód legalizacji – świadectwo legalizacji lub cecha legalizacji umieszczana na przyrządzie pomiarowym, poświadczające dokonanie legalizacji.
 
-#### Rozdział 2 Legalne jednostki miar i państwowe wzorce jednostek miar
+#### Rozdział 2
 
 **Art. 5.**
 
@@ -203,7 +229,7 @@ Odroczenie terminu dokonania legalizacji ponownej i zezwolenie na dalsze użytko
 - **1)** legalne jednostki miar nienależące do Międzynarodowego Układu Jednostek Miar (SI), które mogą być stosowane na terytorium Rzeczypospolitej Polskiej,
 - **2)** nazwy, definicje i oznaczenia legalnych jednostek miar,
 - **3)** przedrostki i ich oznaczenia przeznaczone do tworzenia dziesiętnych podwielokrotności i wielokrotności legalnych jednostek miar,
-- **4)** zasady pisowni oznaczeń legalnych jednostek miar przy uwzględnieniu zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych.
+- **4)** zasady pisowni oznaczeń legalnych jednostek miar – przy uwzględnieniu zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych.
 
 **Art. 6.**
 
@@ -221,7 +247,7 @@ Odroczenie terminu dokonania legalizacji ponownej i zezwolenie na dalsze użytko
 
 **Art. 7.** Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, warunki i tryb uznawania wzorców jednostek miar za państwowe wzorce jednostek miar oraz niezbędną dokumentację wzorców, uwzględniając obowiązki jednostek organizacyjnych ubiegających się o uznanie wzorców za państwowe wzorce jednostek miar, jak również powiązanie tych wzorców z międzynarodowymi wzorcami jednostek miar lub wzorcami w innych krajach.
 
-#### Rozdział 3 Prawna kontrola metrologiczna
+#### Rozdział 3
 
 **Art. 8.**
 
@@ -232,7 +258,7 @@ Odroczenie terminu dokonania legalizacji ponownej i zezwolenie na dalsze użytko
 - **3)** w ochronie praw konsumenta,
 - **4)** przy pobieraniu opłat, podatków i innych należności budżetowych oraz ustalaniu opustów, kar umownych, wynagrodzeń i odszkodowań, a także przy pobieraniu i ustalaniu podobnych należności i świadczeń,
 - **5)** przy dokonywaniu kontroli celno-skarbowej,
-- **6)** w obrocie i są określone w przepisach wydanych na podstawie ust. 6, podlegają prawnej kontroli metrologicznej.
+- **6)** w obrocie – i są określone w przepisach wydanych na podstawie ust. 6, podlegają prawnej kontroli metrologicznej.
 
 2. Prawna kontrola metrologiczna przyrządów pomiarowych jest wykonywana przez:
 
@@ -409,10 +435,10 @@ Odroczenie terminu dokonania legalizacji ponownej i zezwolenie na dalsze użytko
     - **a)**
     - **b)**
 
-- **6)** wartości podstawowych stałych fizycznych i liczbowe dane odniesienia dla właściwości określonych substancji i materiałów wykorzystywanych przy wykonywaniu prawnej kontroli metrologicznej określonych rodzajów przyrządów pomiarowych przy uwzględnieniu zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych. Minister właściwy do spraw gospodarki określi, w drodze rozporządzeń, dla poszczególnych rodzajów lub grup przyrządów pomiarowych:
+- **6)** wartości podstawowych stałych fizycznych i liczbowe dane odniesienia dla właściwości określonych substancji i materiałów wykorzystywanych przy wykonywaniu prawnej kontroli metrologicznej określonych rodzajów przyrządów pomiarowych – przy uwzględnieniu zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych. Minister właściwy do spraw gospodarki określi, w drodze rozporządzeń, dla poszczególnych rodzajów lub grup przyrządów pomiarowych:
 - **1)** wymagania, którym powinny odpowiadać przyrządy pomiarowe podlegające prawnej kontroli metrologicznej w zakresie konstrukcji, wykonania, materiałów oraz charakterystyk metrologicznych, a także, jeżeli jest to niezbędne, w zakresie warunków właściwego stosowania tych przyrządów oraz miejsc umieszczania na nich cech legalizacji i zabezpieczających,
 - **2)** szczegółowy zakres badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej, a także, jeżeli jest to niezbędne, sposoby i metody ich przeprowadzania,
-- **3)** zakres informacji, jakie powinna zawierać instrukcja obsługi, oraz dodatkowe dokumenty poświadczające charakterystyki metrologiczne przyrządu pomiarowego, jeżeli są one niezbędne do prawidłowego przeprowadzenia badania danego rodzaju przyrządu pomiarowego przy uwzględnieniu przeznaczenia przyrządów pomiarowych oraz zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych.
+- **3)** zakres informacji, jakie powinna zawierać instrukcja obsługi, oraz dodatkowe dokumenty poświadczające charakterystyki metrologiczne przyrządu pomiarowego, jeżeli są one niezbędne do prawidłowego przeprowadzenia badania danego rodzaju przyrządu pomiarowego – przy uwzględnieniu przeznaczenia przyrządów pomiarowych oraz zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych.
 
 1. Organy administracji miar, na wniosek zainteresowanych podmiotów, wykonują wzorcowanie zbiorników statków żeglugi śródlądowej i przybrzeżnej.
 
@@ -424,7 +450,7 @@ Odroczenie terminu dokonania legalizacji ponownej i zezwolenie na dalsze użytko
 
 5. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, szczegółowy sposób wzorcowania zbiorników statków i dokumentowania jego wyników, warunki wydawania świadectw wzorcowania i nakładania cech zabezpieczających, a także wzór świadectwa wzorcowania, przy uwzględnieniu zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych.
 
-#### Rozdział 4 Kompetencje i zadania organów administracji miar
+#### Rozdział 4
 
 **Art. 11.**
 
@@ -517,8 +543,7 @@ Odroczenie terminu dokonania legalizacji ponownej i zezwolenie na dalsze użytko
 
 1. Do zakresu działania Prezesa należy:
 
-- **1)** utrzymywanie i rozwój systemu legalnych jednostek miar i państwowych wzorców jednostek miar, w szczególności: budowa, utrzymywanie i modernizacja państwowych wzorców jednostek miar i układów pomiarowych służących do przekazywania jednostek miar przechowywanych i stosowanych w Urzędzie oraz prowadzenie badań naukowych i prac rozwojowych w tym zakresie, informowanie, w drodze obwieszczenia, o spełnieniu przez wzorce jednostek miar warunków określonych dla państwowych wzorców jednostek miar, zapewnienie, w drodze porównań, powiązania państwowych wzorców jednostek miar z międzynarodowymi wzorcami jednostek miar lub wzorcami jednostek miar w innych krajach, a także potwierdzania kompetencji w zakresie realizowanych wzorcowań i pomiarów, zapewnienie przekazywania wartości legalnych jednostek miar od państwowych wzorców jednostek miar do przyrządów pomiarowych, w tym na rzecz podmiotów wykonujących działalność w celu zapewnienia jednolitości miar i dokładności pomiarów związanych z obronnością i bezpieczeństwem państwa, której organizację określa rozporządzenie wydane na podstawie art. 3, sprawowanie nadzoru nad działalnością jednostek organizacyjnych i laboratoriów spoza administracji miar będących właścicielami państwowych wzorców jednostek miar, utrzymujących i udostępniających te wzorce, wytwarzanie i certyfikacja materiałów odniesienia, wykonywanie ekspertyz i badań przyrządów pomiarowych, wyznaczanie wartości wielkości przez wykonywanie pomiarów przedmiotów, w stosunku do których dokonywane są czynności pomiarowe, organizowanie i prowadzenie krajowych porównań międzylaboratoryjnych;
-    - **a)**
+- **1)** utrzymywanie i rozwój systemu legalnych jednostek miar i państwowych wzorców jednostek miar, w szczególności: aW brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 12 maja 2022 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw (Dz. U. poz. 1117), która weszła w życie z dniem 10 czerwca 2022 r.) budowa, utrzymywanie i modernizacja państwowych wzorców jednostek miar i układów pomiarowych służących do przekazywania jednostek miar przechowywanych i stosowanych w Urzędzie oraz prowadzenie badań naukowych i prac rozwojowych w tym zakresie, informowanie, w drodze obwieszczenia, o spełnieniu przez wzorce jednostek miar warunków określonych dla państwowych wzorców jednostek miar, zapewnienie, w drodze porównań, powiązania państwowych wzorców jednostek miar z międzynarodowymi wzorcami jednostek miar lub wzorcami jednostek miar w innych krajach, a także potwierdzania kompetencji w zakresie realizowanych wzorcowań i pomiarów, zapewnienie przekazywania wartości legalnych jednostek miar od państwowych wzorców jednostek miar do przyrządów pomiarowych, w tym na rzecz podmiotów wykonujących działalność w celu zapewnienia jednolitości miar i dokładności pomiarów związanych z obronnością i bezpieczeństwem państwa, której organizację określa rozporządzenie wydane na podstawie art. 3, sprawowanie nadzoru nad działalnością jednostek organizacyjnych i laboratoriów spoza administracji miar będących właścicielami państwowych wzorców jednostek miar, utrzymujących i udostępniających te wzorce, wytwarzanie i certyfikacja materiałów odniesienia, wykonywanie ekspertyz i badań przyrządów pomiarowych, wyznaczanie wartości wielkości przez wykonywanie pomiarów przedmiotów, w stosunku do których dokonywane są czynności pomiarowe, organizowanie i prowadzenie krajowych porównań międzylaboratoryjnych; 2W brzmieniu ustalonym przez art. 2 pkt 2 ustawy, o której mowa w odnośniku 1.) prowadzenie działalności naukowej w rozumieniu art. 4 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117 i 1459.), obejmującej prowadzenie badań naukowych i prac rozwojowych w dyscyplinach naukowych dotyczących metrologii, w szczególności w zakresie technologii pomiarowych, w sposób samodzielny i ciągły; 2aDodany przez art. 2 pkt 3 ustawy, o której mowa w odnośniku 1.) podejmowanie działalności na rzecz umiędzynarodowienia nauki w dyscyplinach naukowych dotyczących metrologii;
     - **b)**
     - **c)**
     - **d)**
@@ -528,14 +553,11 @@ Odroczenie terminu dokonania legalizacji ponownej i zezwolenie na dalsze użytko
     - **h)**
     - **i)**
 
-- **2)** prowadzenie działalności naukowej w rozumieniu art. 4 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.), obejmującej prowadzenie badań naukowych i prac rozwojowych w dyscyplinach naukowych dotyczących metrologii, w szczególności w zakresie technologii pomiarowych, w sposób samodzielny i ciągły;
-- **2a)** podejmowanie działalności na rzecz umiędzynarodowienia nauki w dyscyplinach naukowych dotyczących metrologii;
-- **3)** wspieranie i inspirowanie rozwoju krajowego przemysłu, w szczególności: udzielanie konsultacji i prowadzenie doradztwa technicznego w zakresie przyrządów, metod oraz technologii pomiarowych, organizowanie i prowadzenie szkoleń specjalistycznych w dziedzinie miar i technologii pomiarowych, prowadzenie działań popularyzujących i promujących zagadnienia miar i metrologii, w tym prowadzenie działalności wydawniczej, inicjowanie prac normalizacyjnych w sprawach miar, inicjowanie i prowadzenie badań naukowych, prac rozwojowych i innych przedsięwzięć w dyscyplinach naukowych dotyczących metrologii, również we współpracy z podmiotami krajowymi i zagranicznymi zajmującymi się taką działalnością, w tym także w zakresie prowadzonej przez nie działalności gospodarczej;
+- **3)** wspieranie i inspirowanie rozwoju krajowego przemysłu, w szczególności: udzielanie konsultacji i prowadzenie doradztwa technicznego w zakresie przyrządów, metod oraz technologii pomiarowych, organizowanie i prowadzenie szkoleń specjalistycznych w dziedzinie miar i technologii pomiarowych, prowadzenie działań popularyzujących i promujących zagadnienia miar i metrologii, w tym prowadzenie działalności wydawniczej, inicjowanie prac normalizacyjnych w sprawach miar, eW brzmieniu ustalonym przez art. 2 pkt 4 ustawy, o której mowa w odnośniku 1.) inicjowanie i prowadzenie badań naukowych, prac rozwojowych i innych przedsięwzięć w dyscyplinach naukowych dotyczących metrologii, również we współpracy z podmiotami krajowymi i zagranicznymi zajmującymi się taką działalnością, w tym także w zakresie prowadzonej przez nie działalności gospodarczej;
     - **a)**
     - **b)**
     - **c)**
     - **d)**
-    - **e)**
 
 - **4)** współpraca międzynarodowa w zakresie miar, w szczególności: reprezentowanie Rzeczypospolitej Polskiej w metrologicznych organizacjach międzynarodowych i regionalnych, współdziałanie z zagranicznymi instytucjami prowadzącymi działania w zakresie miar;
     - **a)**
@@ -589,7 +611,7 @@ Odroczenie terminu dokonania legalizacji ponownej i zezwolenie na dalsze użytko
 - **1)** rodzaje przyrządów pomiarowych, dla których mogą być wydawane upoważnienia do legalizacji pierwotnej lub legalizacji ponownej,
 - **2)** tryb wydawania i przedłużania upoważnień do legalizacji pierwotnej lub legalizacji ponownej, w tym dane, jakie powinien zawierać wniosek o wydanie lub przedłużenie upoważnienia, oraz rodzaje dokumentów, jakie powinny być dołączone do wniosku,
 - **3)** szczegółowe warunki wydawania upoważnień, w tym sposób potwierdzania posiadania odpowiedniej wiedzy przez personel i zakres podstawowego wyposażenia technicznego niezbędnego do wykonywania legalizacji danych rodzajów przyrządów pomiarowych,
-- **4)** zakres i sposób dokumentowania przez podmioty upoważnione wykonywanych czynności podczas legalizacji mając na względzie zakres i rodzaj powierzanych czynności, konieczność ewidencjonowania niezbędnych danych o przyrządzie pomiarowym i wykonywanych czynnościach oraz zobowiązania wynikające z wiążących Rzeczpospolitą Polską umów międzynarodowych. (uchylony) (uchylony) (uchylony) (uchylony) Organy administracji miar są uprawnione do przeprowadzania kontroli podmiotów, o których mowa w art. 16a, w zakresie spełniania warunków niezbędnych do wykonywania udzielonych upoważnień oraz przestrzegania przepisów ustawy.
+- **4)** zakres i sposób dokumentowania przez podmioty upoważnione wykonywanych czynności podczas legalizacji – mając na względzie zakres i rodzaj powierzanych czynności, konieczność ewidencjonowania niezbędnych danych o przyrządzie pomiarowym i wykonywanych czynnościach oraz zobowiązania wynikające z wiążących Rzeczpospolitą Polską umów międzynarodowych. (uchylony) (uchylony) (uchylony) (uchylony) Organy administracji miar są uprawnione do przeprowadzania kontroli podmiotów, o których mowa w art. 16a, w zakresie spełniania warunków niezbędnych do wykonywania udzielonych upoważnień oraz przestrzegania przepisów ustawy.
 
 **Art. 17.**
 
@@ -633,7 +655,7 @@ Odroczenie terminu dokonania legalizacji ponownej i zezwolenie na dalsze użytko
 
 3. Okręgowe urzędy miar mogą po uzgodnieniu z Prezesem współpracować z krajowymi i zagranicznymi organizacjami, instytucjami oraz uczelniami prowadzącymi działania w zakresie miar.
 
-#### Rozdział 5 Nadzór nad wykonywaniem przepisów ustawy
+#### Rozdział 5
 
 **Art. 21.**
 
@@ -747,7 +769,7 @@ Odroczenie terminu dokonania legalizacji ponownej i zezwolenie na dalsze użytko
 - **1)** przyrząd pomiarowy podlegający prawnej kontroli metrologicznej nie spełnia wymagań, w szczególności błędy przyrządu pomiarowego przekraczają granice błędów granicznych dopuszczalnych,
 - **2)** przyrząd pomiarowy stosowany jest w warunkach innych niż warunki jego właściwego stosowania,
 - **3)** dowody legalizacji poświadczające dokonanie legalizacji pierwotnej lub legalizacji ponownej zostały wydane przez podmioty nieposiadające upoważnień, zostały zniszczone lub uszkodzone albo brak jest dowodów legalizacji przyrządu pomiarowego,
-- **4)** legalizacja utraciła ważność zgodnie z art. 8n ust. 4 kontrolujący mogą zastosować zabezpieczenie przyrządu pomiarowego w celu zachowania go w niezmienionym stanie.
+- **4)** legalizacja utraciła ważność zgodnie z art. 8n ust. 4 – kontrolujący mogą zastosować zabezpieczenie przyrządu pomiarowego w celu zachowania go w niezmienionym stanie.
 
 2. Zastosowanie zabezpieczenia, o którym mowa w ust. 1, powoduje wyłączenie przyrządu pomiarowego ze stosowania.
 
@@ -790,7 +812,7 @@ Odroczenie terminu dokonania legalizacji ponownej i zezwolenie na dalsze użytko
 
 **Art. 23.** Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wzory upoważnień do kontroli, legitymacji oraz protokołów, uwzględniając zakres i rodzaj przeprowadzanej kontroli oraz zapewniając możliwość identyfikacji organu kontroli i osób wykonujących czynności kontrolne.
 
-#### Rozdział 6 Opłaty za czynności organów administracji miar i podległych im urzędów
+#### Rozdział 6
 
 **Art. 24.**
 
@@ -852,9 +874,9 @@ Odroczenie terminu dokonania legalizacji ponownej i zezwolenie na dalsze użytko
 - **2)** wzorcowaniem i ekspertyzami przyrządów pomiarowych,
 - **3)** dostarczaniem odbiorcom wzorców miar i materiałów odniesienia,
 - **4)** udzielaniem konsultacji i prowadzeniem doradztwa technicznego w zakresie doboru i stosowania przyrządów pomiarowych,
-- **5)** szkoleniem specjalistycznym w dziedzinie miar na rzecz jednostek i podmiotów spoza administracji miar pobiera się wynagrodzenie określane w tych umowach.
+- **5)** szkoleniem specjalistycznym w dziedzinie miar na rzecz jednostek i podmiotów spoza administracji miar – pobiera się wynagrodzenie określane w tych umowach.
 
-#### Rozdział 7 Sankcje za naruszenie przepisów ustawy
+#### Rozdział 7
 
 **Art. 26.**
 
@@ -865,15 +887,15 @@ Odroczenie terminu dokonania legalizacji ponownej i zezwolenie na dalsze użytko
 - **3)** użytkuje przyrządy pomiarowe w dziedzinach, o których mowa w art. 8 ust. 1, niezgodnie z warunkami właściwego ich stosowania,
 - **4)** dokonuje legalizacji pierwotnej lub legalizacji ponownej przyrządów pomiarowych bez wymaganego upoważnienia,
 - **5)** (uchylony)
-- **6)** świadomie utrudnia organom administracji miar wykonywanie ich zadań w zakresie sprawowania nadzoru podlega karze grzywny.
+- **6)** świadomie utrudnia organom administracji miar wykonywanie ich zadań w zakresie sprawowania nadzoru – podlega karze grzywny.
 
 1a. Kto umyślnie użytkuje lub przechowuje w stanie gotowości do użycia przyrządy pomiarowe wycofane z użytkowania na podstawie decyzji, o której mowa w art. 21 ust. 1 pkt 4a lub 5, lub umyślnie niszczy zabezpieczenia, o których mowa w art. 22j ust. 3 pkt 1 – podlega karze aresztu, ograniczenia wolności albo grzywny do 10 000 zł.
 
 2. Postępowanie w sprawach, o których mowa w ust. 1 i 1a, prowadzi się na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia. (uchylony) Grzywny, o których mowa w art. 26, pobierane przez organy Inspekcji Transportu Drogowego stanowią wpływy Funduszu rozwoju przewozów autobusowych, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2021 r. poz. 717, 802 i 2165 oraz z 2022 r. poz. 640 i 1561).
 
-#### Rozdział 7a Przepisy epizodyczne
+#### Rozdział 7a
 
-#### Rozdział 8 Przepisy dostosowujące, przejściowe i końcowe
+#### Rozdział 8
 
 **Art. 27.** (pominięty)
 
@@ -889,5 +911,5 @@ Odroczenie terminu dokonania legalizacji ponownej i zezwolenie na dalsze użytko
 
 **Art. 33.** Traci moc ustawa z dnia 3 kwietnia 1993 r. – Prawo o miarach (Dz. U. poz. 248, z 1997 r. poz. 272 i 770, z 2000 r. poz. 489 i 1268 oraz z 2001 r. poz. 1800).
 
-**Art. 34.** Ustawa wchodzi w życie z dniem 1 stycznia 2003 r., z wyjątkiem przepisów art. 9 pkt 8, art. 16 pkt 10, art. 24 ust. 1 pkt 5, art. 26 ust. 1 pkt 5 i art. 31, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 34.** Ustawa wchodzi w życie z dniem 1 stycznia 2003 r., z wyjątkiem przepisów art. 9 pkt 8, art. 16 pkt 10, art. 24 ust. 1 pkt 5, art. 26 ust. 1 pkt 5 i art. 31, które wchodzą w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 22 czerwca 2001 r.. 1) W brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 12 maja 2022 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw (Dz. U. poz. 1117), która weszła w życie z dniem 10 czerwca 2022 r. 2) W brzmieniu ustalonym przez art. 2 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117 i 1459. 4) Dodany przez art. 2 pkt 3 ustawy, o której mowa w odnośniku 1. 5) W brzmieniu ustalonym przez art. 2 pkt 4 ustawy, o której mowa w odnośniku 1. 6) Ustawa została ogłoszona w dniu 22 czerwca 2001 r.
 

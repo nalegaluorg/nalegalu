@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 maja 2020 r. o zmianie ustawy o nawozach i nawożeniu oraz ustawy o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa
+# Ustawa z dnia 7 maja 2020 r. o zmianie ustawy o nawozach i nawożeniu oraz ustawy o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa Niniejsza ustawa służy stosowaniu rozdziału IV rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1009 z dnia 5 czerwca 2019 r. ustanawiającego przepisy dotyczące udostępniania na rynku produktów nawozowych UE, zmieniającego rozporządzenia (WE) nr 1069/2009 i (WE) nr 1107/2009 oraz uchylającego rozporządzenie (WE) nr 2003/2003 (Dz. Urz. UE L 170 z 25.06.2019, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-05-07 |
 | Data wydania | 2020-06-22 |
-| Wejście w życie | 2020-06-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001069) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1069/text.pdf) |
 
@@ -78,5 +77,5 @@ source: "eli-html"
 
 **Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 38 ust. 2 ustawy zmienianej w art. 1 zachowują moc oraz mogą być zmieniane i uchylane na podstawie art. 38 ust. 2 ustawy zmienianej w art. 1.
 
-**Art. 7.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 1 pkt 4 i 5 oraz art. 2–6, które wchodzą w życie z dniem 1 lipca 2020 r., oraz art. 1 pkt 3 i 6, które wchodzą w życie z dniem 1 sierpnia 2021 r.
+**Art. 7.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 1 pkt 4 i 5 oraz art. 2–6, które wchodzą w życie z dniem 1 lipca 2020 r., oraz art. 1 pkt 3 i 6, które wchodzą w życie z dniem 1 sierpnia 2021 r. 1) Niniejsza ustawa służy stosowaniu rozdziału IV rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1009 z dnia 5 czerwca 2019 r. ustanawiającego przepisy dotyczące udostępniania na rynku produktów nawozowych UE, zmieniającego rozporządzenia (WE) nr 1069/2009 i (WE) nr 1107/2009 oraz uchylającego rozporządzenie (WE) nr 2003/2003 (Dz. Urz. UE L 170 z 25.06.2019, str. 1).
 

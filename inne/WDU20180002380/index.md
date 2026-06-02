@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 13 grudnia 2018 r. w sprawie maksymalnej wysokości wynagrodzenia stałego towarzystwa za zarządzanie funduszem inwestycyjnym otwartym lub specjalistycznym funduszem inwestycyjnym otwartym
+# Rozporządzenie Ministra Finansówz dnia 13 grudnia 2018 r. w sprawie maksymalnej wysokości wynagrodzenia stałego towarzystwa za zarządzanie funduszem inwestycyjnym otwartym lub specjalistycznym funduszem inwestycyjnym otwartym Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-13 |
 | Data wydania | 2018-12-20 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002380) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2380/text.pdf) |
 
@@ -49,6 +48,5 @@ Maksymalna wysokość wynagrodzenia stałego towarzystwa za zarządzanie fundusz
 3)
 2,5% wartości aktywów netto funduszu w skali roku – od dnia 1 stycznia 2021 r. do dnia 31 grudnia 2021 r.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 

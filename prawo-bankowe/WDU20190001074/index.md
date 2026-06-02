@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-16 |
 | Data wydania | 2019-06-10 |
-| Wejście w życie | 2019-06-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001074) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1074/text.pdf) |
 
@@ -96,9 +95,11 @@ source: "eli-html"
 - **10)** w art. 133: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Przepisów ustawy może nie stosować podmiot zatrudniający, który w terminie wskazanym w art. 134 ust. 1 prowadzi PPE, w którym uczestniczy co najmniej 25% osób zatrudnionych w tym podmiocie zatrudniającym, oraz nalicza i odprowadza składki podstawowe w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych do PPE w wysokości co najmniej 3,5% wynagrodzenia w rozumieniu art. 2 ust. 1 pkt 15 tej ustawy. ” , w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) ograniczenia wysokości odprowadzanych składek podstawowych do PPE poniżej 3,5% wynagrodzenia w rozumieniu art. 2 ust. 1 pkt 15 ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) następującego po dniu 1 stycznia albo 1 lipca danego roku, jeżeli według stanu na ten dzień w PPE uczestniczy mniej niż 25% osób zatrudnionych w tym podmiocie zatrudniającym. ” ;
+1. Przepisów ustawy może nie stosować podmiot zatrudniający, który w terminie wskazanym w art. 134 ust. 1 prowadzi PPE, w którym uczestniczy co najmniej 25% osób zatrudnionych w tym podmiocie zatrudniającym, oraz nalicza i odprowadza składki podstawowe w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych do PPE w wysokości co najmniej 3,5% wynagrodzenia w rozumieniu art. 2 ust. 1 pkt 15 tej ustawy. ” , w ust. 2: pkt 2 otrzymuje brzmienie: „
 
 - **b)**
+- **2)** ograniczenia wysokości odprowadzanych składek podstawowych do PPE poniżej 3,5% wynagrodzenia w rozumieniu art. 2 ust. 1 pkt 15 ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+- **5)** następującego po dniu 1 stycznia albo 1 lipca danego roku, jeżeli według stanu na ten dzień w PPE uczestniczy mniej niż 25% osób zatrudnionych w tym podmiocie zatrudniającym. ” ;
 - **11)** w art. 135: ust. 2 otrzymuje brzmienie: „
     - **a)**
 

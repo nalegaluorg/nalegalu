@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-02-16 |
 | Data wydania | 2016-02-19 |
-| Wejście w życie | 2016-02-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000209) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/209/text.pdf) |
 
@@ -348,5 +347,5 @@ omówienia zagadnień etycznych;
 7)
 zestawienia badaczy klinicznych i ośrodków badawczych, a także danych laboratoriów, konsultantów oraz osób, które wzięły udział w badaniu klinicznym.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 20 lutego 2016 r.
+Rozporządzenie wchodzi w życie z dniem 20 lutego 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 11 lutego 2011 r. w sprawie wymagań dotyczących postępowania z podstawową dokumentacją badania klinicznego (Dz. U. Nr 40, poz. 210), które traci moc z dniem 20 lutego 2016 r. w związku z wejściem w życie ustawy z dnia 11 września 2015 r. o zmianie ustawy o wyrobach medycznych oraz niektórych innych ustaw (Dz. U. poz. 1918). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 11 lutego 2011 r. w sprawie wymagań dotyczących postępowania z podstawową dokumentacją badania klinicznego (Dz. U. Nr 40, poz. 210), które traci moc z dniem 20 lutego 2016 r. w związku z wejściem w życie ustawy z dnia 11 września 2015 r. o zmianie ustawy o wyrobach medycznych oraz niektórych innych ustaw (Dz. U. poz. 1918).
 

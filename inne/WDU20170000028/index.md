@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 29 grudnia 2016 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej
+# Rozporządzenie Ministra Środowiskaz dnia 29 grudnia 2016 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095).
 
 | Pole | Wartość |
 |---|---|
@@ -22,21 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-29 |
 | Data wydania | 2017-01-05 |
-| Wejście w życie | 2017-01-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000028) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/28/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Staż adaptacyjny Rozdział 3 – Test umiejętności Rozdział 4 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Załącznik – Wykaz zawodów regulowanych w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej, w przypadku których odbywa się staż adaptacyjny lub przystępuje do testu umiejętności w ramach uznawania kwalifikacji zawodowych
 Treść rozporządzenia
-Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115/1, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
 warunki, sposób i tryb odbywania stażu adaptacyjnego, sposób i tryb wykonywania nadzoru nad odbywaniem stażu oraz oceny nabytych przez wnioskodawcę w jego trakcie umiejętności, sposób ustalania kosztów odbywania stażu adaptacyjnego oraz tryb pobierania i zwrotu opłaty za odbycie stażu adaptacyjnego,
 2)
-warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za przeprowadzenie testu umiejętności
-w toku postępowania o uznanie nabytych w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym kwalifikacji do wykonywania zawodów w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej w Rzeczypospolitej Polskiej.
+warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za przeprowadzenie testu umiejętności – w toku postępowania o uznanie nabytych w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym kwalifikacji do wykonywania zawodów w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej w Rzeczypospolitej Polskiej.
 § 2.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
@@ -72,6 +71,7 @@ wskazanie daty i numeru postanowienia, o którym mowa w art. 20 ust. 1 ustawy.
 Prezes Agencji doręcza jednostce organizacyjnej, w której ma być odbywany staż adaptacyjny, albo komisji egzaminacyjnej przeprowadzającej test umiejętności postanowienie, o którym mowa w art. 20 ust. 1 ustawy, wraz z kopią dokumentacji zawierającej informacje o posiadanych kwalifikacjach, w tym o wykształceniu i doświadczeniu zawodowym wnioskodawcy.
 2.
 Dokumentacja, o której mowa w ust. 1, może być doręczona w postaci elektronicznej.
+Staż adaptacyjny
 § 6.
 Staż adaptacyjny odbywa się w jednostce organizacyjnej właściwej ze względu na rodzaj zawodu w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej, którego dotyczy postępowanie.
 § 7.
@@ -131,8 +131,7 @@ dotychczasowego doświadczenia zawodowego wnioskodawcy,
 3)
 wymogów kwalifikacyjnych dla określonego zawodu w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej, którego dotyczy postępowanie,
 4)
-różnic wynikających ze specyfiki zawodu regulowanego na terenie Rzeczypospolitej Polskiej i państwa wnioskodawcy
-z uwzględnieniem zakresu i czasu trwania stażu adaptacyjnego, określonych w postanowieniu, o którym mowa w art. 20 ust. 1 ustawy.
+różnic wynikających ze specyfiki zawodu regulowanego na terenie Rzeczypospolitej Polskiej i państwa wnioskodawcy – z uwzględnieniem zakresu i czasu trwania stażu adaptacyjnego, określonych w postanowieniu, o którym mowa w art. 20 ust. 1 ustawy.
 § 13.
 Na umotywowany wniosek wnioskodawcy złożony w trakcie stażu adaptacyjnego, wykazujący niemożność zrealizowania programu stażu adaptacyjnego w czasie pozostałym do zakończenia stażu adaptacyjnego, Prezes Agencji przedłuża czas trwania stażu adaptacyjnego, wyznaczony w postanowieniu, o którym mowa w art. 20 ust. 1 ustawy, na czas określony nieprzekraczający łącznie z odbytym już przez wnioskodawcę stażem adaptacyjnym trzech lat, po zapoznaniu się z opinią kierownika jednostki organizacyjnej, w której wnioskodawca odbywa staż adaptacyjny.
 § 14.
@@ -190,11 +189,12 @@ Prezes Agencji przekazuje niezwłocznie informację, o której mowa w ust. 5, je
 Jeżeli ocena, o której mowa w § 17 ust. 1, jest negatywna, wnioskodawca, w terminie czternastu dni od dnia otrzymania oceny, może wystąpić do Prezesa Agencji z wnioskiem o powtórne odbycie stażu adaptacyjnego.
 2.
 Do powtórnego odbycia stażu adaptacyjnego stosuje się przepisy § 6–19.
+Test umiejętności
 § 21.
 1.
 Zakres testu umiejętności dla zawodów w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej wymienionych w:
 1)
-pkt 1 załącznika do rozporządzenia – jest indywidualnie ustalany dla wnioskodawcy na podstawie odpowiedniego zakresu egzaminu kwalifikacyjnego dla kandydatów na stanowisko inspektora dozoru jądrowego, określonego w przepisach wydanych na podstawie art. 71 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2014 r. poz. 1512, z późn. zm.), zwanej dalej „ustawą – Prawo atomowe”;
+pkt 1 załącznika do rozporządzenia – jest indywidualnie ustalany dla wnioskodawcy na podstawie odpowiedniego zakresu egzaminu kwalifikacyjnego dla kandydatów na stanowisko inspektora dozoru jądrowego, określonego w przepisach wydanych na podstawie art. 71 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2014 r. poz. 1512, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1505 i 1893 oraz z 2016 r. poz. 266, 1343, 1579, 1948, 2003 i 2260.), zwanej dalej „ustawą – Prawo atomowe”;
 2)
 pkt 2 załącznika do rozporządzenia – jest indywidualnie ustalany dla wnioskodawcy na podstawie odpowiedniego zakresu szkolenia dla osób ubiegających się o uprawnienia inspektorów ochrony radiologicznej, określonego w przepisach wydanych na podstawie art. 12b ust. 1 ustawy – Prawo atomowe;
 3)
@@ -293,11 +293,11 @@ W przypadku nieprzystąpienia do testu umiejętności z uzasadnionej przyczyny P
 Prezes Agencji dokonuje oceny przyczyny nieprzystąpienia do testu umiejętności w wyznaczonym terminie, kierując się przepisami w sprawie usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy.
 § 31.
 Wnioskodawca, który uzyskał negatywny wynik z testu umiejętności, może ponownie złożyć wniosek o przeprowadzenie testu umiejętności dla danego zawodu w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej nie wcześniej niż po upływie trzech miesięcy od dnia, w którym przeprowadzono test umiejętności. Przepisy § 23–30 stosuje się.
+Przepisy przejściowe i końcowe
 § 32.
 W sprawach wszczętych i niezakończonych przed wejściem w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 33.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115/1, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1505 i 1893 oraz z 2016 r. poz. 266, 1343, 1579, 1948, 2003 i 2260. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 21 stycznia 2009 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej (Dz. U. z 2016 r. poz. 629), które utraciło moc z dniem 1 stycznia 2017 r., na podstawie art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 21 stycznia 2009 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej (Dz. U. z 2016 r. poz. 629), które utraciło moc z dniem 1 stycznia 2017 r., na podstawie art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65). 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115/1, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1505 i 1893 oraz z 2016 r. poz. 266, 1343, 1579, 1948, 2003 i 2260. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 21 stycznia 2009 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej (Dz. U. z 2016 r. poz. 629), które utraciło moc z dniem 1 stycznia 2017 r., na podstawie art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
 Załącznik – Wykaz zawodów regulowanych w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej, w przypadku których odbywa się staż adaptacyjny lub przystępuje do testu umiejętności w ramach uznawania kwalifikacji zawodowych
 1)
 inspektor dozoru jądrowego:
@@ -359,11 +359,19 @@ sterowanie:
 – sterowanie reaktorem jądrowym i jądrowym blokiem energetycznym,
 – wykonywanie operacji z paliwem jądrowym w reaktorze jądrowym i w basenie przeładunkowym paliwa.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Staż adaptacyjny
+#### Rozdział 2 – Staż adaptacyjny
 
-#### Rozdział 3 Test umiejętności
+#### Rozdział 3 – Test umiejętności
 
-#### Rozdział 4 Przepisy przejściowe i końcowe
+#### Rozdział 4 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

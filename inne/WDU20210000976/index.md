@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-21 |
 | Data wydania | 2021-05-28 |
-| Wejście w życie | 2021-06-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000976) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/976/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 36 § 1 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2021 r. poz. 66) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 7 kwietnia 2016 r. – Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury (Dz. U. z 2017 r. poz. 1206, z 2018 r. poz. 793 i 1470, z 2020 r. poz. 606 i 2090 oraz z 2021 r. poz. 160) w § 228 ust. 1 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Sprawiedliwości z dnia 7 kwietnia 2016 r. – Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury (Dz. U. z 2017 r. poz. 1206, z 2018 r. poz. 793 i 1470, z 2020 r. poz. 606 i 2090 oraz z 2021 r. poz. 160) w § 228 ust. 1 otrzymuje brzmienie: „
 1.
-Akt oskarżenia przesyła do sądu odpowiednio Prokurator Krajowy, naczelnik wydziału zamiejscowego, naczelnik Wydziału Spraw Wewnętrznych Prokuratury Krajowej, prokurator regionalny, prokurator okręgowy albo prokurator rejonowy.
-” .
+Akt oskarżenia przesyła do sądu odpowiednio Prokurator Krajowy, naczelnik wydziału zamiejscowego, naczelnik Wydziału Spraw Wewnętrznych Prokuratury Krajowej, prokurator regionalny, prokurator okręgowy albo prokurator rejonowy. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

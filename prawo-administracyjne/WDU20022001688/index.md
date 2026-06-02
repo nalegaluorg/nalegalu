@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-11-13 |
 | Data wydania | 2002-11-30 |
-| Wejście w życie | 2002-12-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022001688) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1688/text.pdf) |
 
@@ -128,7 +127,7 @@ source: "eli-html"
 
 - **1)** w art. 33a ust. 3 otrzymuje brzmienie: „
 
-3. Jednostki organizacyjne, o których mowa w ust. 2, z wyjątkiem jednostek organizacyjnych Policji, są powiatowymi jednostkami budżetowymi w rozumieniu przepisów ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. Nr 155, poz. 1014, z późn. zm.). ” ;
+3. Jednostki organizacyjne, o których mowa w ust. 2, z wyjątkiem jednostek organizacyjnych Policji, są powiatowymi jednostkami budżetowymi w rozumieniu przepisów ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. Nr 155, poz. 1014, z późn. zm.Zmiany ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 38, poz. 360, Nr 49, poz. 485, Nr 70, poz. 778 i Nr 110, poz. 1255, z 2000 r. Nr 6, poz. 69, Nr 12, poz. 136, Nr 48, poz. 550, Nr 95, poz. 1041, Nr 119, poz. 1251 i Nr 122, poz. 1315, z 2001 r. Nr 45, poz. 497, Nr 46, poz. 499, Nr 88, poz. 961, Nr 98, poz. 1070, Nr 100, poz. 1082, Nr 102, poz. 1116, Nr 125, poz. 1368 i Nr 145, poz. 1623 oraz z 2002 r. Nr 41, poz. 363 i 365, Nr 74, poz. 676, Nr 113, poz. 984, Nr 153, poz. 1271, Nr 156, poz. 1300 i Nr 200, poz. 1685.). ” ;
 
 - **2)** w art. 38a w ust. 5 pkt 4 otrzymuje brzmienie: „
 - **4)** dwóch przedstawicieli delegowanych przez komendanta powiatowego (miejskiego) Policji, a w przypadku m.st. Warszawy delegowanych przez Komendanta Stołecznego Policji. ” .
@@ -141,6 +140,6 @@ source: "eli-html"
 
 2. Komendant Stołeczny Policji powoła komendantów rejonowych Policji w m.st. Warszawie nie później niż w terminie 3 miesięcy od dnia wejścia w życie ustawy.
 
-3. Do dnia powołania komendantów rejonowych Policji w m.st. Warszawie ich zadania i kompetencje wykonują pełnomocnicy do spraw organizacji komend rejonowych Policji. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z tym że przepisy art. 1 pkt 8 i art. 3 pkt 1 stosuje się od dnia 1 stycznia 2003 r.
+3. Do dnia powołania komendantów rejonowych Policji w m.st. Warszawie ich zadania i kompetencje wykonują pełnomocnicy do spraw organizacji komend rejonowych Policji. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z tym że przepisy art. 1 pkt 8 i art. 3 pkt 1 stosuje się od dnia 1 stycznia 2003 r. 1) Zmiany ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 38, poz. 360, Nr 49, poz. 485, Nr 70, poz. 778 i Nr 110, poz. 1255, z 2000 r. Nr 6, poz. 69, Nr 12, poz. 136, Nr 48, poz. 550, Nr 95, poz. 1041, Nr 119, poz. 1251 i Nr 122, poz. 1315, z 2001 r. Nr 45, poz. 497, Nr 46, poz. 499, Nr 88, poz. 961, Nr 98, poz. 1070, Nr 100, poz. 1082, Nr 102, poz. 1116, Nr 125, poz. 1368 i Nr 145, poz. 1623 oraz z 2002 r. Nr 41, poz. 363 i 365, Nr 74, poz. 676, Nr 113, poz. 984, Nr 153, poz. 1271, Nr 156, poz. 1300 i Nr 200, poz. 1685.
 
 

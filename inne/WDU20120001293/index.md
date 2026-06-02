@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznychz dnia 13 listopada 2012 r. w sprawie warunków technicznych parkingów, na które są usuwane pojazdy przewożące towary niebezpieczne
+# Rozporządzenie Ministra Spraw Wewnętrznychz dnia 13 listopada 2012 r. w sprawie warunków technicznych parkingów, na które są usuwane pojazdy przewożące towary niebezpieczne Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 1 października 2012 r. pod numerem 2012/0402/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-11-13 |
 | Data wydania | 2012-11-23 |
-| Wejście w życie | 2012-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001293) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1293/text.pdf) |
 
@@ -86,5 +85,5 @@ dostęp do bieżącej wody.
 2.
 Parking, mający więcej niż 4 stanowiska postojowe dla pojazdów przewożących towary niebezpieczne, powinien mieć źródło wody o wydajności co najmniej 10 dm3/s lub zapas wody w ilości 100 m3 w przeciwpożarowym zbiorniku wodnym, zgodnie z wymogami określonymi w przepisach dotyczących wymagań w zakresie przeciwpożarowego zaopatrzenia w wodę.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 14 sierpnia 2003 r. w sprawie parkingów, na które są usuwane pojazdy przewożące towary niebezpieczne (Dz. U. Nr 161, poz. 1567), które utraciło moc z dniem 2 lipca 2012 r. na podstawie art. 133 ust. 2 pkt 1 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. Nr 227, poz. 1367 i Nr 244, poz. 1454). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 1 października 2012 r. pod numerem 2012/0402/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 14 sierpnia 2003 r. w sprawie parkingów, na które są usuwane pojazdy przewożące towary niebezpieczne (Dz. U. Nr 161, poz. 1567), które utraciło moc z dniem 2 lipca 2012 r. na podstawie art. 133 ust. 2 pkt 1 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. Nr 227, poz. 1367 i Nr 244, poz. 1454).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-29 |
 | Data wydania | 2018-01-31 |
-| Wejście w życie | 2018-01-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000284) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/284/text.pdf) |
 
@@ -69,5 +68,5 @@ imienne upoważnienie funkcjonariusza Straży Granicznej, stanowiące podstawę 
 § 5.
 Przekazywanie Straży Granicznej informacji przez podmioty zobowiązane odbywa się z uwzględnieniem wymogów ustalonych w przepisach o ochronie informacji niejawnych.
 § 6.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 10 maja 2002 r. w sprawie zakresu, warunków i trybu przekazywania Straży Granicznej informacji o osobie, uzyskanych w wyniku prowadzenia przez uprawnione organy, służby i instytucje czynności operacyjno-rozpoznawczych lub kontroli operacyjnej (Dz. U. poz. 599), które na podstawie art. 44 ust. 2 ustawy z dnia 9 listopada 2017 r. o zmianie ustawy o niektórych uprawnieniach pracowników urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz funkcjonariuszy i pracowników urzędów nadzorowanych przez tego ministra oraz niektórych innych ustaw (Dz. U. z 2018 r. poz. 106 i 138) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 10 maja 2002 r. w sprawie zakresu, warunków i trybu przekazywania Straży Granicznej informacji o osobie, uzyskanych w wyniku prowadzenia przez uprawnione organy, służby i instytucje czynności operacyjno-rozpoznawczych lub kontroli operacyjnej (Dz. U. poz. 599), które na podstawie art. 44 ust. 2 ustawy z dnia 9 listopada 2017 r. o zmianie ustawy o niektórych uprawnieniach pracowników urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz funkcjonariuszy i pracowników urzędów nadzorowanych przez tego ministra oraz niektórych innych ustaw (Dz. U. z 2018 r. poz. 106 i 138) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

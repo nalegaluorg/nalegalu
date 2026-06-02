@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 10 listopada 2021 r. zmieniające rozporządzenie w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia
+# Rozporządzenie Ministra Zdrowiaz dnia 10 listopada 2021 r. zmieniające rozporządzenie w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-10 |
 | Data wydania | 2021-11-25 |
-| Wejście w życie | 2021-11-26 |
 | Ostatnia zmiana | 2025-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002131) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2131/text.pdf) |
 
@@ -31,20 +30,17 @@ Na podstawie art. 46 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specj
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 13 czerwca 2017 r. w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2020 r. poz. 857, 1404 i 1950) wprowadza się następujące zmiany:
 1)
-w § 2 w ust. 1 w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17 w brzmieniu:
-„
+w § 2 w ust. 1 w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17 w brzmieniu: „
 17)
-chirurgiczna asysta lekarza.
-” ;
+chirurgiczna asysta lekarza. ” ;
 2)
-w załączniku nr 1 do rozporządzenia dodaje się lp. 17 w brzmieniu:
-„
+w załączniku nr 1 do rozporządzenia dodaje się lp. 17 w brzmieniu: „
 17.
-Specjalista w dziedzinie chirurgicznej asysty lekarza 041
-” ;
+Specjalista w dziedzinie chirurgicznej asysty lekarza 041 ” ;
 3)
-w załączniku nr 2 do rozporządzenia w tabeli dodaje się wiersz oznaczony lp. 17 w brzmieniu: 17 chirurgiczna asysta lekarza 1) pielęgniarstwa, fizjoterapii, ratownictwa medycznego lub2) dietetyki, technologii żywności i żywienia człowieka, zarządzania, zdrowia publicznego, pod warunkiem ukończenia studiów I stopnia i uzyskania tytułu zawodowego licencjata na kierunku studiów w zakresie ratownictwa medycznego lub pielęgniarstwa
+w załączniku nr 2 do rozporządzenia w tabeli dodaje się wiersz oznaczony lp. 17 w brzmieniu:
+17 chirurgiczna asysta lekarza 1) pielęgniarstwa, fizjoterapii, ratownictwa medycznego lub
+2) dietetyki, technologii żywności i żywienia człowieka, zarządzania, zdrowia publicznego, pod warunkiem ukończenia studiów I stopnia i uzyskania tytułu zawodowego licencjata na kierunku studiów w zakresie ratownictwa medycznego lub pielęgniarstwa
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 

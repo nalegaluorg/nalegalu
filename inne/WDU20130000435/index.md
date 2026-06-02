@@ -22,23 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-03-15 |
 | Data wydania | 2013-04-09 |
-| Wejście w życie | 2013-04-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000435) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/435/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 54 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2007 r. Nr 16, poz. 94, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 54 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2007 r. Nr 16, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374, z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505, z 2009 r. Nr 1, poz. 3, Nr 18, poz. 97, Nr 19, poz. 100, Nr 98, poz. 817, Nr 115, poz. 966, Nr 157, poz. 1241 i Nr 214, poz. 1658, z 2011 r. Nr 5, poz. 13, Nr 102, poz. 586, Nr 106, poz. 622, Nr 187, poz. 1113, Nr 205, poz. 1209, Nr 227, poz. 1367, Nr 230, poz. 1372 i Nr 233, poz. 1381 oraz z 2012 r. poz. 460 i 951.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Infrastruktury z dnia 7 sierpnia 2008 r. w sprawie wymagań w zakresie odległości i warunków dopuszczających usytuowanie drzew i krzewów, elementów ochrony akustycznej i wykonywania robót ziemnych w sąsiedztwie linii kolejowej, a także sposobu urządzania i utrzymywania zasłon odśnieżnych oraz pasów przeciwpożarowych (Dz. U. Nr 153, poz. 955) § 9 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Infrastruktury z dnia 7 sierpnia 2008 r. w sprawie wymagań w zakresie odległości i warunków dopuszczających usytuowanie drzew i krzewów, elementów ochrony akustycznej i wykonywania robót ziemnych w sąsiedztwie linii kolejowej, a także sposobu urządzania i utrzymywania zasłon odśnieżnych oraz pasów przeciwpożarowych (Dz. U. Nr 153, poz. 955) § 9 otrzymuje brzmienie: „
 § 9.
 1.
 Pasy przeciwpożarowe w sąsiedztwie linii kolejowej, na której prowadzony jest ruch kolejowy, powinny być urządzane i utrzymywane jako jedna równoległa do linii kolejowej bruzda o szerokości co najmniej 4 m usytuowana w odległości od 2 m do 5 m od dolnej krawędzi nasypu lub górnej krawędzi przekopu linii kolejowej, a w razie występowania rowów bocznych – od zewnętrznej krawędzi tych rowów.
 2.
-Bruzda, o której mowa w ust. 1, powinna być oczyszczona z wszelkiej roślinności do warstwy mineralnej, a na gruntach torfiastych – posypana warstwą piasku o grubości od 0,01 m do 0,02 m. Bruzdę może stanowić inna powierzchnia pozbawiona materiałów palnych.
-” .
+Bruzda, o której mowa w ust. 1, powinna być oczyszczona z wszelkiej roślinności do warstwy mineralnej, a na gruntach torfiastych – posypana warstwą piasku o grubości od 0,01 m do 0,02 m. Bruzdę może stanowić inna powierzchnia pozbawiona materiałów palnych. ” .
 § 2.
 Pasy przeciwpożarowe w sąsiedztwie linii kolejowej, na której prowadzony jest ruch kolejowy, urządzone przed dniem wejścia w życie niniejszego rozporządzenia, mogą być utrzymywane w sposób określony w dotychczasowych przepisach nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374, z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505, z 2009 r. Nr 1, poz. 3, Nr 18, poz. 97, Nr 19, poz. 100, Nr 98, poz. 817, Nr 115, poz. 966, Nr 157, poz. 1241 i Nr 214, poz. 1658, z 2011 r. Nr 5, poz. 13, Nr 102, poz. 586, Nr 106, poz. 622, Nr 187, poz. 1113, Nr 205, poz. 1209, Nr 227, poz. 1367, Nr 230, poz. 1372 i Nr 233, poz. 1381 oraz z 2012 r. poz. 460 i 951.
 

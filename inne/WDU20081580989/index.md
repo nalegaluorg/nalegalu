@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-07-25 |
 | Data wydania | 2008-08-29 |
-| Wejście w życie | 2008-09-13 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081580989) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/989/text.pdf) |
 
@@ -53,7 +52,7 @@ source: "eli-html"
 3. Marszałek województwa przekazuje ministrowi właściwemu do spraw rynków rolnych informacje o:
 
 - **1)** złożeniu wniosku o wydanie decyzji, o której mowa w art. 2 ust. 1 pkt 1, oraz o ewentualnych skutkach finansowych jego pozytywnego rozpatrzenia;
-- **2)** odmowie: wstępnego uznania grupy producentów i zatwierdzenia planu dochodzenia do uznania tej grupy, uznania organizacji producentów i ich zrzeszeń w terminie 7 dni od dnia złożenia wniosku, o którym mowa w pkt 1, lub odmowy, o której mowa w pkt 2 lit. a lub b. ” ;
+- **2)** odmowie: wstępnego uznania grupy producentów i zatwierdzenia planu dochodzenia do uznania tej grupy, uznania organizacji producentów i ich zrzeszeń – w terminie 7 dni od dnia złożenia wniosku, o którym mowa w pkt 1, lub odmowy, o której mowa w pkt 2 lit. a lub b. ” ;
     - **a)**
     - **b)**
 
@@ -65,8 +64,12 @@ source: "eli-html"
 
 - **6)** w art. 6 w ust. 1 pkt 3 otrzymuje brzmienie: „
 - **3)** nazwę grupy lub grup produktów określonych w przepisach wydanych na podstawie art. 8 ust. 1 pkt 2, ze względu na które wnioskuje się o uznanie; ” ;
-- **7)** w art. 8: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) warunki wstępnego uznawania grup producentów oraz uznawania organizacji producentów lub ich zrzeszeń, w tym wykaz grup produktów, ze względu na które wnioskuje się o wstępne uznanie lub uznanie, ” , – pkt 5 otrzymuje brzmienie: „ 5) warunki wypowiedzenia członkostwa w organizacji producentów oraz okres, w którym występujący z organizacji producentów nie będzie mógł przystąpić do wstępnie uznanej grupy producentów, ” , – dodaje się pkt 6 w brzmieniu: „ 6) maksymalną część produkcji lub produktów kwalifikującą się do sprzedaży przez członków organizacji producentów, po uzyskaniu zgody organizacji producentów, bezpośrednio w ich gospodarstwach lub poza nimi, konsumentom na ich własne potrzeby ” , ust. 2 otrzymuje brzmienie: „
+- **7)** w art. 8: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** warunki wstępnego uznawania grup producentów oraz uznawania organizacji producentów lub ich zrzeszeń, w tym wykaz grup produktów, ze względu na które wnioskuje się o wstępne uznanie lub uznanie, ” , pkt 5 otrzymuje brzmienie: „
+- **5)** warunki wypowiedzenia członkostwa w organizacji producentów oraz okres, w którym występujący z organizacji producentów nie będzie mógł przystąpić do wstępnie uznanej grupy producentów, ” , dodaje się pkt 6 w brzmieniu: „
+- **6)** maksymalną część produkcji lub produktów kwalifikującą się do sprzedaży przez członków organizacji producentów, po uzyskaniu zgody organizacji producentów, bezpośrednio w ich gospodarstwach lub poza nimi, konsumentom na ich własne potrzeby ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Minister właściwy do spraw rynków rolnych, na podstawie informacji uzyskanych zgodnie z art. 3 ust. 3 pkt 1, powiadamia Komisję Europejską o złożeniu wniosku o wydanie decyzji, o której mowa w art. 2 ust. 1 pkt 1, oraz o ewentualnych skutkach finansowych jego pozytywnego rozpatrzenia. ” , dodaje się ust. 3 i 4 w brzmieniu: „
@@ -80,8 +83,12 @@ source: "eli-html"
 
 4. Minister właściwy do spraw rynków rolnych, w przypadku braku zastrzeżeń Komisji Europejskiej do opracowanego projektu ram krajowych, określi, w drodze rozporządzenia, zakres i sposób wdrażania strategii krajowej w programach operacyjnych, mając na względzie wytyczne Komisji Europejskiej w tym zakresie. ” ;
 
-- **8)** w art. 9: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) przyznania organizacji producentów albo zrzeszeniu organizacji producentów pomocy finansowej na dofinansowanie funduszu operacyjnego; ” , – uchyla się pkt 8, – pkt 11 otrzymuje brzmienie: „ 11) wymierzania, na wniosek Prezesa Agencji, kar pieniężnych jednostkom organizacyjnym lub osobom fizycznym, o których mowa w art. 12 ust. 1 pkt 1 lit. a i b; ” , – dodaje się pkt 12 w brzmieniu: „ 12) wyłączenia z objęcia pomocą finansową działania zatwierdzonego w programie operacyjnym lub kwalifikowanego kosztu inwestycji ujętej w zatwierdzonym planie dochodzenia do uznania, ze wskazaniem okresu tego wyłączenia. ” , po ust. 1 dodaje się ust. 1a-1d w brzmieniu: „
+- **8)** w art. 9: w ust. 1: pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** przyznania organizacji producentów albo zrzeszeniu organizacji producentów pomocy finansowej na dofinansowanie funduszu operacyjnego; ” , – uchyla się pkt 8, pkt 11 otrzymuje brzmienie: „
+- **11)** wymierzania, na wniosek Prezesa Agencji, kar pieniężnych jednostkom organizacyjnym lub osobom fizycznym, o których mowa w art. 12 ust. 1 pkt 1 lit. a i b; ” , dodaje się pkt 12 w brzmieniu: „
+- **12)** wyłączenia z objęcia pomocą finansową działania zatwierdzonego w programie operacyjnym lub kwalifikowanego kosztu inwestycji ujętej w zatwierdzonym planie dochodzenia do uznania, ze wskazaniem okresu tego wyłączenia. ” , po ust. 1 dodaje się ust. 1a-1d w brzmieniu: „
     - **b)**
 
 1a. W decyzjach, o których mowa w ust. 1 pkt 3, 4 i 6, określa się również obniżki pomocy, jeżeli wynikają one z przepisów Unii Europejskiej.
@@ -129,8 +136,15 @@ source: "eli-html"
 
 - **10)** w art. 11 w ust. 1 pkt 4 otrzymuje brzmienie: „
 - **4)** zgodności rzeczywiście poniesionych kosztów i wydatków z kwotami deklarowanymi we wnioskach o wydanie decyzji, o których mowa w art. 9 ust. 1 pkt 3–4 i 6–7; ” ;
-- **11)** w art. 12: w ust. 1: – w pkt 1 lit. d otrzymuje brzmienie: „ d) zezwolenia uznanym organizacjom producentów i ich zrzeszeniom na rozdysponowanie owoców i warzyw nieprzeznaczonych do sprzedaży; ” , – uchyla się pkt 2 i 2a, – pkt 3 otrzymuje brzmienie: „ 3) przekazuje ministrowi właściwemu do spraw rynków rolnych informacje o: a) organizacjach charytatywnych uprawnionych do dystrybucji otrzymanych od organizacji producentów i ich zrzeszeń owoców i warzyw nieprzeznaczonych do sprzedaży, b) innych jednostkach organizacyjnych lub osobach fizycznych uprawnionych do otrzymania od organizacji producentów i ich zrzeszeń bezpłatnie owoców i warzyw nieprzeznaczonych do sprzedaży, c) ilości i sposobie zagospodarowania poszczególnych gatunków owoców i warzyw nieprzeznaczonych do sprzedaży – na podstawie informacji otrzymanych od organizacji producentów lub ich zrzeszeń oraz decyzji, o których mowa w pkt 1 lit. d, na koniec każdego roku handlowego, d) owocach i warzywach nieprzeznaczonych do sprzedaży, wskazane przez tego ministra; ” , – uchyla się pkt 4 i 5, w ust. 3 w pkt 4 uchyla się lit. d, uchyla się ust. 7–10;
+- **11)** w art. 12: w ust. 1: w pkt 1 lit. d otrzymuje brzmienie: „ zezwolenia uznanym organizacjom producentów i ich zrzeszeniom na rozdysponowanie owoców i warzyw nieprzeznaczonych do sprzedaży; ” , – uchyla się pkt 2 i 2a, pkt 3 otrzymuje brzmienie: „
     - **a)**
+    - **d)**
+
+- **3)** przekazuje ministrowi właściwemu do spraw rynków rolnych informacje o: organizacjach charytatywnych uprawnionych do dystrybucji otrzymanych od organizacji producentów i ich zrzeszeń owoców i warzyw nieprzeznaczonych do sprzedaży, innych jednostkach organizacyjnych lub osobach fizycznych uprawnionych do otrzymania od organizacji producentów i ich zrzeszeń bezpłatnie owoców i warzyw nieprzeznaczonych do sprzedaży, ilości i sposobie zagospodarowania poszczególnych gatunków owoców i warzyw nieprzeznaczonych do sprzedaży – na podstawie informacji otrzymanych od organizacji producentów lub ich zrzeszeń oraz decyzji, o których mowa w pkt 1 lit. d, na koniec każdego roku handlowego, owocach i warzywach nieprzeznaczonych do sprzedaży, wskazane przez tego ministra; ” , – uchyla się pkt 4 i 5, w ust. 3 w pkt 4 uchyla się lit. d, uchyla się ust. 7–10;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
     - **b)**
     - **c)**
 
@@ -155,8 +169,10 @@ source: "eli-html"
 
 - **c)**
 - **1)** dyrektora oddziału regionalnego Agencji Restrukturyzacji właściwego ze względu na siedzibę organizacji producentów albo zrzeszenia organizacji producentów, która była posiadaczem owoców i warzyw nieprzeznaczonych do sprzedaży, o wydanych decyzjach, o których mowa w art. 12 ust. 1 pkt 1 lit. d – w terminie 7 dni od dnia ich wydania; ” ;
-- **13)** w art. 15: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) wydaje i cofa, w drodze decyzji, zezwolenie na korzystanie ze specjalnego oznakowania opakowań, określonych w załączniku II do rozporządzenia Komisji (WE) nr 1580/2007; ” , – uchyla się pkt 5, po ust. 1a dodaje się ust. 1b w brzmieniu: „
+- **13)** w art. 15: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** wydaje i cofa, w drodze decyzji, zezwolenie na korzystanie ze specjalnego oznakowania opakowań, określonych w załączniku II do rozporządzenia Komisji (WE) nr 1580/2007; ” , – uchyla się pkt 5, po ust. 1a dodaje się ust. 1b w brzmieniu: „
     - **b)**
 
 1b. Kontrolę zgodności w punkcie detalicznej sprzedaży, o której mowa w załączniku VI do rozporządzenia Komisji (WE) nr 1580/2007, przeprowadza się przy zastosowaniu metod określonych w tym załączniku. ” ;
@@ -164,9 +180,21 @@ source: "eli-html"
 - **14)** w art. 16 uchyla się pkt 4;
 - **15)** w art. 17 w ust. 1 pkt 3 otrzymuje brzmienie: „
 - **3)** wyrażonej w kilogramach ilości owoców i warzyw wprowadzonych do obrotu w poprzednim roku kalendarzowym, w rozbiciu na gatunki, oraz o obrocie hurtowym i detalicznym, w terminie do końca pierwszego kwartału roku następnego. ” ;
-- **16)** w art. 19: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) inne niż wymienione w art. 9 ust. 6 dokumenty, które dołącza się do wniosków o wydanie decyzji, o których mowa w art. 9 ust. 1 pkt 1–7, mając na względzie zapewnienie prawidłowości przyznawania wstępnie uznanym grupom producentów i uznanym organizacjom producentów oraz uznanym zrzeszeniom organizacji producentów pomocy finansowej, a także innych środków finansowych określonych w przepisach Unii Europejskiej; ” , – w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6–8 w brzmieniu: „ 6) przypadki, w których zezwala się na realizację odrębnych programów operacyjnych do zakończenia okresu, na który zostały one ustanowione, w sytuacji połączenia się organizacji producentów, mając na względzie prawidłowe realizowanie celów i zadań organizacji producentów; 7) listę środków, działań lub kosztów, kwalifikujących się do realizacji w ramach programu operacyjnego, mając na względzie prawidłowe wdrażanie krajowej strategii programów operacyjnych; 8) standardowe zryczałtowane stawki kosztów działań realizowanych przez organizację producentów w ramach programów operacyjnych, w przypadkach określonych przepisami Unii Europejskiej, mając na względzie uproszczenie kalkulacji przyznawanego wsparcia. ” , w ust. 2: – pkt 3 otrzymuje brzmienie: „ 3) działania w zakresie technologii bezpiecznych dla środowiska, stosowanych w produkcji i zagospodarowaniu odpadów, z których przynajmniej dwa powinny zostać uwzględnione w programie operacyjnym, mając na względzie upowszechnienie tych działań przez członków organizacji producentów; ” , – uchyla się pkt 8, – pkt 14 otrzymuje brzmienie: „ 14) terminy przekazywania informacji, o których mowa w art. 3 ust. 2, art. 10 ust. 1 pkt 3 i art. 13 ust. 1 pkt 2 lit. b, mając na względzie wykonanie obowiązujących w tym zakresie przepisów Unii Europejskiej; ” , – dodaje się pkt 15–18 w brzmieniu: „ 15) przypadki, w których spadek wartości produkcji sprzedanej wystąpił z przyczyn niezależnych od grupy lub organizacji producentów, mając na względzie złagodzenie skutków spadku wartości pomocy finansowej wynikającej z tego spadku; 16) maksymalną wysokość rekompensat z tytułu nieprzeznaczenia do sprzedaży niektórych gatunków owoców i warzyw, dla których rekompensaty te nie zostały określone przepisami Unii Europejskiej, mając na względzie prawidłowe wykorzystanie funduszu operacyjnego na nieprzeznaczanie owoców i warzyw do sprzedaży; 17) sposób zagospodarowania owoców i warzyw nieprzeznaczonych do sprzedaży, mając na względzie prawidłowe funkcjonowanie rynku owoców i warzyw; 18) sposób oraz terminy spłaty przez odbiorców produktów nieprzeznaczonych do sprzedaży wartości tych produktów oraz związanych z tym kosztów sortowania, pakowania oraz transportu, mając na względzie prawidłowe wdrażanie przepisów Unii Europejskiej w zakresie nieprzeznaczenia owoców i warzyw do sprzedaży. ” , ust. 4 otrzymuje brzmienie: „
+- **16)** w art. 19: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** inne niż wymienione w art. 9 ust. 6 dokumenty, które dołącza się do wniosków o wydanie decyzji, o których mowa w art. 9 ust. 1 pkt 1–7, mając na względzie zapewnienie prawidłowości przyznawania wstępnie uznanym grupom producentów i uznanym organizacjom producentów oraz uznanym zrzeszeniom organizacji producentów pomocy finansowej, a także innych środków finansowych określonych w przepisach Unii Europejskiej; ” , w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6–8 w brzmieniu: „
+- **6)** przypadki, w których zezwala się na realizację odrębnych programów operacyjnych do zakończenia okresu, na który zostały one ustanowione, w sytuacji połączenia się organizacji producentów, mając na względzie prawidłowe realizowanie celów i zadań organizacji producentów;
+- **7)** listę środków, działań lub kosztów, kwalifikujących się do realizacji w ramach programu operacyjnego, mając na względzie prawidłowe wdrażanie krajowej strategii programów operacyjnych;
+- **8)** standardowe zryczałtowane stawki kosztów działań realizowanych przez organizację producentów w ramach programów operacyjnych, w przypadkach określonych przepisami Unii Europejskiej, mając na względzie uproszczenie kalkulacji przyznawanego wsparcia. ” , w ust. 2: pkt 3 otrzymuje brzmienie: „
     - **b)**
+
+- **3)** działania w zakresie technologii bezpiecznych dla środowiska, stosowanych w produkcji i zagospodarowaniu odpadów, z których przynajmniej dwa powinny zostać uwzględnione w programie operacyjnym, mając na względzie upowszechnienie tych działań przez członków organizacji producentów; ” , – uchyla się pkt 8, pkt 14 otrzymuje brzmienie: „
+- **14)** terminy przekazywania informacji, o których mowa w art. 3 ust. 2, art. 10 ust. 1 pkt 3 i art. 13 ust. 1 pkt 2 lit. b, mając na względzie wykonanie obowiązujących w tym zakresie przepisów Unii Europejskiej; ” , dodaje się pkt 15–18 w brzmieniu: „
+- **15)** przypadki, w których spadek wartości produkcji sprzedanej wystąpił z przyczyn niezależnych od grupy lub organizacji producentów, mając na względzie złagodzenie skutków spadku wartości pomocy finansowej wynikającej z tego spadku;
+- **16)** maksymalną wysokość rekompensat z tytułu nieprzeznaczenia do sprzedaży niektórych gatunków owoców i warzyw, dla których rekompensaty te nie zostały określone przepisami Unii Europejskiej, mając na względzie prawidłowe wykorzystanie funduszu operacyjnego na nieprzeznaczanie owoców i warzyw do sprzedaży;
+- **17)** sposób zagospodarowania owoców i warzyw nieprzeznaczonych do sprzedaży, mając na względzie prawidłowe funkcjonowanie rynku owoców i warzyw;
+- **18)** sposób oraz terminy spłaty przez odbiorców produktów nieprzeznaczonych do sprzedaży wartości tych produktów oraz związanych z tym kosztów sortowania, pakowania oraz transportu, mając na względzie prawidłowe wdrażanie przepisów Unii Europejskiej w zakresie nieprzeznaczenia owoców i warzyw do sprzedaży. ” , ust. 4 otrzymuje brzmienie: „
     - **c)**
 
 4. Minister właściwy do spraw rynków rolnych może upoważnić, w drodze rozporządzenia, organizacje producentów do ustanowienia indywidualnych poziomów składek dla producentów owoców i warzyw, będących członkami organizacji producentów, mając na względzie umożliwienie organizacjom producentów pozyskania dodatkowych środków na finansowanie zadań ujętych w programie operacyjnym. ” ;

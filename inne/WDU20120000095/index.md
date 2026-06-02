@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-01-13 |
 | Data wydania | 2012-01-25 |
-| Wejście w życie | 2012-02-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000095) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/95/text.pdf) |
 
@@ -53,13 +52,13 @@ source: "eli-html"
 
 - **1)** uniemożliwiania czynności kontrolnych; ” .
 
-**Art. 2.** W ustawie z dnia 20 lipca 1950 r. o zawodzie felczera (Dz. U. z 2004 r. Nr 53, poz. 531, z późn. zm.) w art. 4 ust. 1a otrzymuje brzmienie: „ 1a. W przypadku gdy ustawa lub przepisy odrębne uprawniają felczera do wystawiania recept stosuje się odpowiednio art. 45 ust. 2, 2a i 5 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2011 r. Nr 277, poz. 1634 i Nr 291, poz. 1707 oraz z 2012 r. poz. 95). ” .
+**Art. 2.** W ustawie z dnia 20 lipca 1950 r. o zawodzie felczera (Dz. U. z 2004 r. Nr 53, poz. 531, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2009 r. Nr 98, poz. 817, z 2010 r. Nr 107, poz. 679 oraz z 2011 r. Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696.) w art. 4 ust. 1a otrzymuje brzmienie: „ 1a. W przypadku gdy ustawa lub przepisy odrębne uprawniają felczera do wystawiania recept stosuje się odpowiednio art. 45 ust. 2, 2a i 5 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2011 r. Nr 277, poz. 1634 i Nr 291, poz. 1707 oraz z 2012 r. poz. 95). ” .
 
 **Art. 3.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2011 r. Nr 277, poz. 1634 i Nr 291, poz. 1707) w art. 45:
 
 - **1)** ust. 2 otrzymuje brzmienie: „
 
-2. Lekarz może również wystawiać recepty na leki osobom, o których mowa w art. 43–46 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.), na zasadach określonych w tej ustawie oraz w ustawie z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. Nr 122, poz. 696 oraz z 2012 r. poz. 95). Lekarz jest obowiązany do odnotowania uprawnień tych osób na recepcie w sposób określony w przepisach wydanych na podstawie ust. 5. ” ;
+2. Lekarz może również wystawiać recepty na leki osobom, o których mowa w art. 43–46 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378.), na zasadach określonych w tej ustawie oraz w ustawie z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. Nr 122, poz. 696 oraz z 2012 r. poz. 95). Lekarz jest obowiązany do odnotowania uprawnień tych osób na recepcie w sposób określony w przepisach wydanych na podstawie ust. 5. ” ;
 
 - **2)** po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
@@ -85,5 +84,5 @@ source: "eli-html"
 
 **Art. 8.** Dotychczasowy akt wykonawczy wydany na podstawie art. 45 ust. 5 ustawy, o której mowa w art. 3, zachowuje moc do dnia wejścia w życie aktu wykonawczego wydanego na podstawie art. 45 ust. 5 ustawy, o której mowa w art. 3, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres miesiąca od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2009 r. Nr 98, poz. 817, z 2010 r. Nr 107, poz. 679 oraz z 2011 r. Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 1 lipca 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie egzaminu aktuarialnego
+# Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 1 lipca 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie egzaminu aktuarialnego Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001350) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1350/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Rozwoju i Finansów z dnia 9 grudnia 2016 r. w sprawie egzaminu aktuarialnego Rozdział 1 – Przepis ogólny Rozdział 2 – Egzamin Rozdział 3 – Uznanie studiów wyższych oraz uzyskanie zwolnienia z egzaminu Rozdział 4 – Przepis przejściowy i końcowy
+Załącznik – Rozporządzenie Ministra Rozwoju i Finansów z dnia 9 grudnia 2016 r. w sprawie egzaminu aktuarialnego
 Załącznik – Zakres obowiązujących tematów egzaminu aktuarialnego
 Treść obwieszczenia
 1.
@@ -34,8 +34,7 @@ Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów 
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 25 rozporządzenia Ministra Rozwoju i Finansów z dnia 9 grudnia 2016 r. w sprawie egzaminu aktuarialnego (Dz. U. poz. 2182), który stanowi:
-„
+§ 25 rozporządzenia Ministra Rozwoju i Finansów z dnia 9 grudnia 2016 r. w sprawie egzaminu aktuarialnego (Dz. U. poz. 2182), który stanowi: „
 § 25.
 1.
 Do przeprowadzenia egzaminu ogłoszonego przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
@@ -44,11 +43,9 @@ Osoby, które zaliczyły co najmniej jeden blok tematyczny egzaminu przed dniem 
 3.
 W przypadku gdy osoby, o których mowa w ust. 2, nie zdołały zaliczyć wszystkich bloków tematycznych w okresie dwóch lat od zaliczenia pierwszego bloku, zaliczone bloki tematyczne, które odpowiadają analogicznym blokom tematycznym egzaminu, w rozumieniu niniejszego rozporządzenia, są uznane za części egzaminu zaliczone zgodnie z przepisami niniejszego rozporządzenia.
 4.
-Osoby, o których mowa w ust. 3, mogą kontynuować zdawanie egzaminu zgodnie z przepisami niniejszego rozporządzenia, nie dłużej jednak niż przez pięć lat od zaliczenia pierwszego bloku tematycznego.
-” ;
+Osoby, o których mowa w ust. 3, mogą kontynuować zdawanie egzaminu zgodnie z przepisami niniejszego rozporządzenia, nie dłużej jednak niż przez pięć lat od zaliczenia pierwszego bloku tematycznego. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Finansów z dnia 3 czerwca 2020 r. zmieniającego rozporządzenie w sprawie egzaminu aktuarialnego (Dz. U. poz. 999), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Finansów z dnia 3 czerwca 2020 r. zmieniającego rozporządzenie w sprawie egzaminu aktuarialnego (Dz. U. poz. 999), które stanowią: „
 § 2.
 1.
 W przypadku osób, które zaliczyły co najmniej jeden blok tematyczny egzaminu przed dniem 1 sierpnia 2015 r. i nie zdołały zaliczyć wszystkich bloków tematycznych lub części egzaminu w okresie pięciu lat od zaliczenia pierwszego bloku, w odniesieniu do zaliczonych bloków tematycznych uznanych zgodnie z § 25 ust. 3 rozporządzenia zmienianego w § 1 za zaliczone części egzaminu, stosuje się § 16 tego rozporządzenia, w brzmieniu nadanym niniejszym rozporządzeniem.
@@ -57,11 +54,10 @@ W przypadku osób, o których mowa w ust. 1, w odniesieniu do części egzaminu 
 3.
 W przypadku osób, które zaliczyły pierwszą cześć egzaminu po dniu 1 sierpnia 2015 r. i nie zdołały zaliczyć wszystkich części egzaminu w okresie pięciu lat od zaliczenia pierwszej części egzaminu, stosuje się § 16 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
-Załącznik – Rozporządzenie Ministra Rozwoju i Finansów z dnia 9 grudnia 2016 r. w sprawie egzaminu aktuarialnego
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Załącznik – Rozporządzenie Ministra Rozwoju i Finansów z dnia 9 grudnia 2016 r. w sprawie egzaminu aktuarialnegoObecnie działem administracji rządowej – instytucje finansowe kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 Na podstawie art. 72 ust. 2 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2021 r. poz. 1130) zarządza się, co następuje:
+Przepis ogólny
 § 1.
 Rozporządzenie określa:
 1)
@@ -74,6 +70,7 @@ sposób kontroli przeprowadzenia egzaminu;
 sposób i tryb uznawania studiów wyższych, o których mowa w art. 70 ust. 5 pkt 4 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, zwanej dalej „ustawą”, oraz cofania tego uznania;
 5)
 sposób i tryb zwalniania kandydata z egzaminu.
+Egzamin
 § 2.
 1.
 Ustala się zakres obowiązujących tematów egzaminu podzielonych na bloki tematyczne, stanowiący załącznik do rozporządzenia.
@@ -126,7 +123,7 @@ Komisja ma prawo wykluczyć z egzaminu osobę, która podczas egzaminu korzysta 
 Wykluczenie z egzaminu może dotyczyć całości lub części egzaminu obejmującej poszczególne bloki tematyczne.
 § 12.
 1.
-Z przebiegu egzaminu Komisja, w terminie 14 dni od dnia, w którym odbyła się ostatnia sesja egzaminacyjna, sporządza protokół zawierający:
+Z przebiegu egzaminu Komisja, w terminie 14 dni od dnia, w którym odbyła się ostatnia sesja egzaminacyjna, sporządza protokół zawierający:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 3 czerwca 2020 r. zmieniającego rozporządzenie w sprawie egzaminu aktuarialnego (Dz. U. poz. 999), które weszło w życie z dniem 5 czerwca 2020 r.
 1)
 imiona i nazwiska członków Komisji;
 2)
@@ -154,7 +151,7 @@ odpowiedź prawidłowa – 3 punkty;
 odpowiedź nieprawidłowa – minus 2 punkty;
 3)
 brak odpowiedzi – 0 punktów.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Za rozwiązanie każdego zadania z części egzaminu dotyczących modelowania oraz zarządzania ryzykiem zakładu ubezpieczeń, w zależności od stopnia prawidłowości rozwiązania, przyznaje się od 0 do 5 punktów, przy czym każda ocena wyższa niż 0 punktów jest wielokrotnością 1 punktu.
 § 14.
 1.
@@ -163,27 +160,28 @@ Wyłączną podstawę oceny stanowią odpowiedzi udzielone w sposób trwały i c
 Podstawą oceny części egzaminu dotyczących modelowania oraz zarządzania ryzykiem zakładu ubezpieczeń jest przedstawienie sposobu rozwiązania zawartych w nich zadań.
 § 15.
 Wynik egzaminu jest pozytywny w przypadku uzyskania co najmniej 13 punktów z każdej części egzaminu, z tym że z części egzaminu dotyczących:
-1)
+1Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.)
 modelowania oraz zarządzania ryzykiem zakładu ubezpieczeń – należy uzyskać co najmniej po 28 punktów;
 2)
 rachunkowości i sprawozdawczości finansowej w zakładzie ubezpieczeń oraz prawa ubezpieczeniowego i prawa podatkowego – należy uzyskać co najmniej po 60 punktów.
-§ 16.
+§ 16Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Zaliczanie wszystkich części egzaminu nie może trwać dłużej niż dziesięć lat.
-§ 17.
+§ 17W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2..
 Komisja, w terminie 30 dni od dnia ogłoszenia wyników egzaminu, przekazuje do Urzędu Komisji Nadzoru Finansowego listę osób, które złożyły egzamin z wynikiem pozytywnym.
-§ 18.
+§ 18W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2..
 Wyniki egzaminu są ogłaszane w siedzibie Urzędu Komisji Nadzoru Finansowego oraz na stronie internetowej Komisji Nadzoru Finansowego, w terminie 14 dni od dnia, w którym odbyła się ostatnia sesja egzaminacyjna.
-§ 19.
+§ 19Ze zmianą wprowadzoną przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2..
 Osobie, która złożyła egzamin z wynikiem pozytywnym, Komisja wydaje zaświadczenie o jego złożeniu, w terminie 30 dni od dnia ogłoszenia wyników egzaminu.
 § 20.
-Komisja udostępnia osobie składającej egzamin, na jej wniosek złożony nie później niż w terminie 7 dni od dnia ogłoszenia wyników egzaminu, pracę egzaminacyjną. Udostępnienie następuje nie później niż w terminie 3 dni roboczych od dnia złożenia wniosku.
+Komisja udostępnia osobie składającej egzamin, na jej wniosek złożony nie później niż w terminie 7 dni od dnia ogłoszenia wyników egzaminu, pracę egzaminacyjną. Udostępnienie następuje nie później niż w terminie 3 dni roboczych od dnia złożenia wniosku.Zdanie drugie w brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2.
 § 21.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Osoba składająca egzamin może odwołać się od wyników egzaminu w terminie 14 dni od dnia ich ogłoszenia.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Komisja podejmuje uchwałę w sprawie odwołania, o którym mowa w ust. 1, w terminie 30 dni od dnia ogłoszenia wyników egzaminu.
 3.
 O wyniku odwołania osobę odwołującą się zawiadamia się przesyłką poleconą w rozumieniu art. 3 pkt 22 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2020 r. poz. 1041 i 2320), zwaną dalej „przesyłką poleconą”.
+Uznanie studiów wyższych oraz uzyskanie zwolnienia z egzaminu
 § 22.
 1.
 Komisja podejmuje uchwałę w sprawie uznania studiów wyższych, o którym mowa w art. 70 ust. 5 pkt 4 ustawy, w terminie trzech miesięcy od dnia złożenia wniosku przez jednostkę organizacyjną uczelni.
@@ -221,11 +219,11 @@ Od uchwały, o której mowa w ust. 2, przysługuje kandydatowi na aktuariusza od
 Komisja podejmuje uchwałę w sprawie odwołania, o którym mowa w ust. 3, w terminie 30 dni od dnia jego doręczenia Komisji.
 5.
 Uchwały, o których mowa w ust. 2 i 4, doręcza się kandydatowi na aktuariusza przesyłką poleconą.
+Przepis przejściowy i końcowy
 § 25.
-(pominięty).
+(pominięty).Zamieszczony w obwieszczeniu.
 § 26.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-1) Obecnie działem administracji rządowej – instytucje finansowe kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 3 czerwca 2020 r. zmieniającego rozporządzenie w sprawie egzaminu aktuarialnego (Dz. U. poz. 999), które weszło w życie z dniem 5 czerwca 2020 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 7) Ze zmianą wprowadzoną przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 8) Zdanie drugie w brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 9) Ze zmianą wprowadzoną przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 2. 11) Zamieszczony w obwieszczeniu. 12) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 kwietnia 2015 r. w sprawie egzaminu aktuarialnego (Dz. U. poz. 700), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 484 ust. 1 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615 i 1948).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 kwietnia 2015 r. w sprawie egzaminu aktuarialnego (Dz. U. poz. 700), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 484 ust. 1 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615 i 1948). 1) Obecnie działem administracji rządowej – instytucje finansowe kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 3 czerwca 2020 r. zmieniającego rozporządzenie w sprawie egzaminu aktuarialnego (Dz. U. poz. 999), które weszło w życie z dniem 5 czerwca 2020 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 7) Ze zmianą wprowadzoną przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 8) Zdanie drugie w brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 9) Ze zmianą wprowadzoną przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 2. 11) Zamieszczony w obwieszczeniu. 12) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 kwietnia 2015 r. w sprawie egzaminu aktuarialnego (Dz. U. poz. 700), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 484 ust. 1 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615 i 1948).
 Załącznik – Zakres obowiązujących tematów egzaminu aktuarialnego
 A.
 Zakres przedmiotowy
@@ -436,11 +434,19 @@ Zagadnienia z zakresu prawa podatkowego: 9.3.1. Opodatkowanie składek i świadc
 9.4.
 Rekomendacje i wytyczne Komisji Nadzoru Finansowego, standardy wydane przez Polskie Stowarzyszenie Aktuariuszy i kodeks etyki Polskiego Stowarzyszenia Aktuariuszy.
 
-#### Rozdział 1 Przepis ogólny
+#### Rozdział 1 – Przepis ogólny
 
-#### Rozdział 2 Egzamin
+#### Rozdział 2 – Egzamin
 
-#### Rozdział 3 Uznanie studiów wyższych oraz uzyskanie zwolnienia z egzaminu
+#### Rozdział 3 – Uznanie studiów wyższych oraz uzyskanie zwolnienia z egzaminu
 
-#### Rozdział 4 Przepis przejściowy i końcowy
+#### Rozdział 4 – Przepis przejściowy i końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

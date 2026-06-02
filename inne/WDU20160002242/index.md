@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-28 |
 | Data wydania | 2016-12-29 |
-| Wejście w życie | 2016-12-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002242) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2242/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie pomorskiej specjalnej strefy ekonomicznej (Dz. U. z 2016 r. poz. 2157) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 2 246,2929 ha, położone na terenach miast: Biała Podlaska, Brodnica, Bydgoszcz, Czarnków, Gdańsk, Gdynia, Grudziądz, Inowrocław, Kwidzyn, Lipno, Łeba, Malbork, Piła, Rypin, Stargard, Starogard Gdański, Tczew, Toruń i Włocławek oraz gmin: Barcin, Chojnice, Czarna Woda, Czarnków, Człuchów, Gniewino, Grudziądz, Janikowo, Kowalewo Pomorskie, Krokowa, Liniewo, Lipno, Łysomice, Nakło nad Notecią, Pakość, Police, Solec Kujawski, Sztum, Świecie, Tczew i Wąbrzeźno.
-” ;
+Strefa obejmuje grunty o powierzchni 2 246,2929 ha, położone na terenach miast: Biała Podlaska, Brodnica, Bydgoszcz, Czarnków, Gdańsk, Gdynia, Grudziądz, Inowrocław, Kwidzyn, Lipno, Łeba, Malbork, Piła, Rypin, Stargard, Starogard Gdański, Tczew, Toruń i Włocławek oraz gmin: Barcin, Chojnice, Czarna Woda, Czarnków, Człuchów, Gniewino, Grudziądz, Janikowo, Kowalewo Pomorskie, Krokowa, Liniewo, Lipno, Łysomice, Nakło nad Notecią, Pakość, Police, Solec Kujawski, Sztum, Świecie, Tczew i Wąbrzeźno. ” ;
 2)
 w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU POMORSKIEJ SPECJALNEJ STREFY EKONOMICZNEJ:
 a)

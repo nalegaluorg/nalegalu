@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 15 października 2018 r. w sprawie minimalnej sumy gwarancyjnej ubezpieczenia odpowiedzialności cywilnej podmiotu odpowiedzialnego za system identyfikacji elektronicznej
+# Rozporządzenie Ministra Finansówz dnia 15 października 2018 r. w sprawie minimalnej sumy gwarancyjnej ubezpieczenia odpowiedzialności cywilnej podmiotu odpowiedzialnego za system identyfikacji elektronicznej Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-15 |
 | Data wydania | 2018-10-19 |
-| Wejście w życie | 2018-10-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002009) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2009/text.pdf) |
 
@@ -44,6 +43,5 @@ Minimalna suma gwarancyjna ubezpieczenia OC za szkody, o których mowa w § 1, w
 2.
 Kwoty, o których mowa w ust. 1, są ustalane przy zastosowaniu kursu średniego euro ogłoszonego przez Narodowy Bank Polski po raz pierwszy w roku, w którym umowa ubezpieczenia OC została zawarta.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 

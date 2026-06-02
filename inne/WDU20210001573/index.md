@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 września 2016 r. o szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 988), z uwzględnieniem zmian wprowadzonych ustawą z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 sierpnia 2021 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 109 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 109 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), który stanowi: „
 
 **Art. 109.** Ustawa wchodzi w życie z dniem 1 stycznia 2021 r., z wyjątkiem:
 
@@ -41,17 +40,16 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 1.**
 
-1. Do zamówień na dostawy mięsa wyłącznie wieprzowego pochodzącego wyłącznie od świń utrzymywanych co najmniej 2 miesiące bezpośrednio przed ubojem w gospodarstwach rolnych położonych na obszarach objętych nakazami, zakazami lub ograniczeniami oraz innymi środkami kontroli lub ochronnymi ustanowionymi w związku z wystąpieniem afrykańskiego pomoru świń zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt oraz z przepisami Unii Europejskiej wydanymi w tym zakresie, zwanego dalej „mięsem”, lub produktów mięsnych z mięsa, zwanych dalej „produktami mięsnymi”, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129), jeżeli:
+1. Do zamówień na dostawy mięsa wyłącznie wieprzowego pochodzącego wyłącznie od świń utrzymywanych co najmniej 2 miesiące bezpośrednio przed ubojem w gospodarstwach rolnych położonych na obszarach objętych nakazami, zakazami lub ograniczeniami oraz innymi środkami kontroli lub ochronnymi ustanowionymi w związku z wystąpieniem afrykańskiego pomoru świń zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt oraz z przepisami Unii Europejskiej wydanymi w tym zakresie, zwanego dalej „mięsem”, lub produktów mięsnych z mięsa, zwanych dalej „produktami mięsnymi”, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129), jeżeli:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 75 pkt 1 lit. a ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), która weszła w życie z dniem 1 stycznia 2021 r.
 
 - **1)** świnie, od których pochodzi mięso lub produkty mięsne, są zaopatrzone w świadectwo zdrowia wystawione przez urzędowego lekarza weterynarii na podstawie przepisów odrębnych;
 - **2)** zamówienie jest udzielane podmiotom produkującym mięso lub produkty mięsne zgodnie z przepisami dotyczącymi produkcji produktów pochodzenia zwierzęcego pochodzących z obszarów podlegających ograniczeniom, nakazom lub zakazom lub przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt;
 - **3)** mięso lub produkty mięsne spełniają wymagania weterynaryjne określone w przepisach o produktach pochodzenia zwierzęcego;
-- **4)** podmioty, o których mowa w pkt 2, nabyły świnie po cenach netto nie niższych niż: ceny zakupu netto masy poubojowej ciepłej w odpowiedniej klasie skali klasyfikacji EUROP w regionie, w którym świnie zostały nabyte, lub średnia cena netto dla wszystkich klas w masie żywej w regionie, w którym świnie zostały nabyte opublikowanych w tygodniu poprzedzającym tydzień, w którym dokonano nabycia, w biuletynie informacyjnym urzędu obsługującego Ministra Rolnictwa i Rozwoju Wsi wydawanym na podstawie przepisów o rolniczych badaniach rynkowych;
+- **4)** podmioty, o których mowa w pkt 2, nabyły świnie po cenach netto nie niższych niż: ceny zakupu netto masy poubojowej ciepłej w odpowiedniej klasie skali klasyfikacji EUROP w regionie, w którym świnie zostały nabyte, lub średnia cena netto dla wszystkich klas w masie żywej w regionie, w którym świnie zostały nabyte – opublikowanych w tygodniu poprzedzającym tydzień, w którym dokonano nabycia, w biuletynie informacyjnym urzędu obsługującego Ministra Rolnictwa i Rozwoju Wsi wydawanym na podstawie przepisów o rolniczych badaniach rynkowych;
     - **a)**
     - **b)**
 
-- **5)** produkty mięsne spełniają szczegółowe wymagania określone w przepisach wydanych na podstawie art. 4;
-- **6)** przedmiot zamówienia jest związany z zapewnieniem bezpieczeństwa i porządku publicznego, życia lub zdrowia ludzi lub wartość zamówienia jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
+- **5)** produkty mięsne spełniają szczegółowe wymagania określone w przepisach wydanych na podstawie art. 4; 6Ze zmianą wprowadzoną przez art. 75 pkt 1 lit. b ustawy, o której mowa w odnośniku 1.) przedmiot zamówienia jest związany z zapewnieniem bezpieczeństwa i porządku publicznego, życia lub zdrowia ludzi lub wartość zamówienia jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
 
 2. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, obszary, na których są położone gospodarstwa rolne, o których mowa w ust. 1, kierując się przepisami Unii Europejskiej wydanymi w związku z afrykańskim pomorem świń oraz biorąc pod uwagę aktualną sytuację epizootyczną lub liczbę świń w gospodarstwach rolnych położonych na tych obszarach.
 
@@ -64,7 +62,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **3)** nie udostępnia informacji związanych z zamówieniem, o którym mowa w art. 1 ust. 1, stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji, jeżeli podmiot zainteresowany wykonaniem zamówienia, nie później niż przed zawarciem umowy o wykonanie tego zamówienia, zastrzegł, że nie mogą być udostępniane;
 - **4)** zamieszcza niezwłocznie na swojej stronie podmiotowej Biuletynu Informacji Publicznej informacje o udzieleniu zamówienia, podając nazwę (firmę) albo imię i nazwisko podmiotu, z którym zawarł umowę o wykonanie zamówienia, albo informację o nieudzieleniu tego zamówienia.
 
-2. Zamawiający może unieważnić postępowanie o udzielenie zamówienia, o którym mowa w art. 1 ust. 1, w przypadku gdy przebieg tego postępowania wskazuje, że niemożliwe będzie wykonanie zamówienia przed określonym w umowie terminem jego realizacji. Przepis art. 261 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych stosuje się.
+2. Zamawiający może unieważnić postępowanie o udzielenie zamówienia, o którym mowa w art. 1 ust. 1, w przypadku gdy przebieg tego postępowania wskazuje, że niemożliwe będzie wykonanie zamówienia przed określonym w umowie terminem jego realizacji. Przepis art. 261 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych stosuje się.Zdanie drugie w brzmieniu ustalonym przez art. 75 pkt 2 ustawy, o której mowa w odnośniku 1.
 
 3. Jeżeli zamawiający dopuścił możliwość składania ofert częściowych, do unieważnienia w części postępowania o udzielenie zamówienia przepis ust. 2 stosuje się odpowiednio.
 
@@ -83,21 +81,18 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 **Art. 4.** Minister właściwy do spraw rolnictwa oraz minister właściwy do spraw rynków rolnych określą, w drodze rozporządzenia:
 
 - **1)** rodzaj produktów mięsnych oraz ich szczegółowe wymagania,
-- **2)** sposób postępowania z surowcami, które nie mogą być wykorzystane do produkcji produktów mięsnych mając na względzie zapewnienie właściwej jakości handlowej, o której mowa w przepisach o jakości handlowej artykułów rolno-spożywczych, oraz biorąc pod uwagę w szczególności wskazanie zawartości mięsa wieprzowego w tych produktach lub określenie ich składu lub właściwości, a także wymagania w zakresie bezpieczeństwa sanitarno-epizootycznego.
+- **2)** sposób postępowania z surowcami, które nie mogą być wykorzystane do produkcji produktów mięsnych – mając na względzie zapewnienie właściwej jakości handlowej, o której mowa w przepisach o jakości handlowej artykułów rolno-spożywczych, oraz biorąc pod uwagę w szczególności wskazanie zawartości mięsa wieprzowego w tych produktach lub określenie ich składu lub właściwości, a także wymagania w zakresie bezpieczeństwa sanitarno-epizootycznego.
 
 **Art. 5.**
 
 1. Jednostki sektora finansów publicznych, udzielając zamówień na dostawę:
 
 - **1)** mięsa wieprzowego lub
-- **2)** produktów z mięsa wieprzowego, które co do rodzaju, składu lub właściwości spełniają wymagania odpowiadające lub podobne do wymagań określonych w przepisach wydanych na podstawie art. 4 w pierwszej kolejności udzielają takich zamówień na dostawy mięsa lub produktów mięsnych.
+- **2)** produktów z mięsa wieprzowego, które co do rodzaju, składu lub właściwości spełniają wymagania odpowiadające lub podobne do wymagań określonych w przepisach wydanych na podstawie art. 4 – w pierwszej kolejności udzielają takich zamówień na dostawy mięsa lub produktów mięsnych.
 
 2. Udzielenie zamówienia niezgodnie z ust. 1 stanowi naruszenie dyscypliny finansów publicznych.
 
 3. Do naruszenia, o którym mowa w ust. 2, przepisy art. 26 ust. 1 i 3 ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2021 r. poz. 289) stosuje się odpowiednio.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
-
-- **1)** Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 75 pkt 1 lit. a ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), która weszła w życie z dniem 1 stycznia 2021 r. 2) Ze zmianą wprowadzoną przez art. 75 pkt 1 lit. b ustawy, o której mowa w odnośniku 1. 3) Zdanie drugie w brzmieniu ustalonym przez art. 75 pkt 2 ustawy, o której mowa w odnośniku 1. 4) Ustawa została ogłoszona w dniu 12 września 2016 r.
-
+**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszeniaUstawa została ogłoszona w dniu 12 września 2016 r.. 1) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 75 pkt 1 lit. a ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), która weszła w życie z dniem 1 stycznia 2021 r. 2) Ze zmianą wprowadzoną przez art. 75 pkt 1 lit. b ustawy, o której mowa w odnośniku 1. 3) Zdanie drugie w brzmieniu ustalonym przez art. 75 pkt 2 ustawy, o której mowa w odnośniku 1. 4) Ustawa została ogłoszona w dniu 12 września 2016 r.
 

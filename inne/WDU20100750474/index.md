@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 18 marca 2010 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 18 marca 2010 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-03-18 |
 | Data wydania | 2010-05-05 |
-| Wejście w życie | 2010-06-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100750474) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/474/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. Nr 162, poz. 1568, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. Nr 162, poz. 1568, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390, z 2006 r. Nr 50, poz. 362 i Nr 126, poz. 875, z 2007 r. Nr 192, poz. 1394 oraz z 2009 r. Nr 31, poz. 206 i Nr 97, poz. 804.) wprowadza się następujące zmiany:
 
 - **1)** w art. 7 pkt 4 otrzymuje brzmienie: „
 - **4)** ustalenia ochrony w miejscowym planie zagospodarowania przestrzennego albo w decyzji o ustaleniu lokalizacji inwestycji celu publicznego, decyzji o warunkach zabudowy, decyzji o zezwoleniu na realizację inwestycji drogowej, decyzji o ustaleniu lokalizacji linii kolejowej lub decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego. ” ;
@@ -102,7 +101,7 @@ source: "eli-html"
 
 - **1)** wpisane do rejestru,
 - **2)** wchodzące w skład zbiorów publicznych, które stanowią własność Skarbu Państwa, jednostek samorządu terytorialnego oraz innych jednostek organizacyjnych zaliczanych do sektora finansów publicznych,
-- **3)** znajdujące się w inwentarzach muzeów lub narodowym zasobie bibliotecznym nie mogą być wywożone za granicę na stałe. ” ;
+- **3)** znajdujące się w inwentarzach muzeów lub narodowym zasobie bibliotecznym – nie mogą być wywożone za granicę na stałe. ” ;
 - **10)** w art. 52: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -187,21 +186,21 @@ source: "eli-html"
 
 1. Kto niezwłocznie nie powiadomił wojewódzkiego konserwatora zabytków lub wójta (burmistrza, prezydenta miasta) albo dyrektora urzędu morskiego o przypadkowym odkryciu przedmiotu, co do którego istnieje przypuszczenie, iż jest on zabytkiem archeologicznym, a także nie zabezpieczył, przy użyciu dostępnych środków, tego przedmiotu i miejsca jego znalezienia, podlega karze grzywny. ” .
 
-**Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2005 r. Nr 229, poz. 1954, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2005 r. Nr 229, poz. 1954, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 157, poz. 1119 i Nr 187, poz. 1381, z 2007 r. Nr 89, poz. 589, Nr 115, poz. 794, Nr 176, poz. 1243 i Nr 192, poz. 1378, z 2008 r. Nr 209, poz. 1318, z 2009 r. Nr 3, poz. 11, Nr 39, poz. 308, Nr 131, poz. 1075, Nr 157, poz. 1241 i Nr 201, poz. 1540 oraz z 2010 r. Nr 28, poz. 143 i Nr 40, poz. 229.) wprowadza się następujące zmiany:
 
 - **1)** w art. 100 § 3 otrzymuje brzmienie: „
 
-§ 3. Jeżeli zajęta ruchomość stanowi zabytek w rozumieniu przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. Nr 162, poz. 1568, z późn. zm.), poborca skarbowy oddaje ją pod dozór państwowej lub samorządowej instytucji kultury. Dozór nad zajętymi ruchomościami ze złota, platyny i srebra oraz innymi kosztownościami niebędącymi zabytkami sprawuje organ egzekucyjny. ” ;
+§ 3. Jeżeli zajęta ruchomość stanowi zabytek w rozumieniu przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. Nr 162, poz. 1568, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390, z 2006 r. Nr 50, poz. 362 i Nr 126, poz. 875, z 2007 r. Nr 192, poz. 1394, z 2009 r. Nr 31, poz. 206 i Nr 97, poz. 804 oraz z 2010 r. Nr 75, poz. 474.), poborca skarbowy oddaje ją pod dozór państwowej lub samorządowej instytucji kultury. Dozór nad zajętymi ruchomościami ze złota, platyny i srebra oraz innymi kosztownościami niebędącymi zabytkami sprawuje organ egzekucyjny. ” ;
 
 - **2)** w art. 105 § 2 otrzymuje brzmienie: „
 
 § 2. Zajęte przedmioty stanowiące zabytek w rozumieniu przepisów ustawy, o których mowa w art. 100 § 3, organ egzekucyjny, w uzgodnieniu z właściwym ze względu na miejsce zajęcia tych przedmiotów wojewódzkim konserwatorem zabytków, a w przypadku materiałów bibliotecznych – dyrektorem Biblioteki Narodowej w Warszawie, zgłasza w celu nabycia instytucji, o której mowa w art. 100 § 3, lub przedsiębiorcy zajmującemu się obrotem tymi przedmiotami. Oszacowanie wartości takich przedmiotów następuje w trybie przewidzianym w art. 99 § 3. ” .
 
-**Art. 3.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.) w art. 39 ust. 3 otrzymuje brzmienie: „ 3. W stosunku do obiektów budowlanych oraz obszarów niewpisanych do rejestru zabytków, a ujętych w gminnej ewidencji zabytków, pozwolenie na budowę lub rozbiórkę obiektu budowlanego wydaje właściwy organ w uzgodnieniu z wojewódzkim konserwatorem zabytków. ” .
+**Art. 3.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 160, poz. 1276 i Nr 161, poz. 1279.) w art. 39 ust. 3 otrzymuje brzmienie: „ 3. W stosunku do obiektów budowlanych oraz obszarów niewpisanych do rejestru zabytków, a ujętych w gminnej ewidencji zabytków, pozwolenie na budowę lub rozbiórkę obiektu budowlanego wydaje właściwy organ w uzgodnieniu z wojewódzkim konserwatorem zabytków. ” .
 
-**Art. 4.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. Nr 80, poz. 717, z późn. zm.) w art. 53 w ust. 4 pkt 2 otrzymuje brzmienie: „
+**Art. 4.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. Nr 80, poz. 717, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492, z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2006 r. Nr 45, poz. 319 i Nr 225, poz. 1635, z 2007 r. Nr 127, poz. 880, z 2008 r. Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 220, poz. 1413 oraz z 2010 r. Nr 24, poz. 124.) w art. 53 w ust. 4 pkt 2 otrzymuje brzmienie: „
 
-- **2)** wojewódzkim konserwatorem zabytków – w odniesieniu do obszarów i obiektów objętych formami ochrony zabytków, o których mowa w art. 7 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. Nr 162, poz. 1568, z późn. zm.) oraz ujętych w gminnej ewidencji zabytków; ” .
+- **2)** wojewódzkim konserwatorem zabytków – w odniesieniu do obszarów i obiektów objętych formami ochrony zabytków, o których mowa w art. 7 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. Nr 162, poz. 1568, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390, z 2006 r. Nr 50, poz. 362 i Nr 126, poz. 875, z 2007 r. Nr 192, poz. 1394, z 2009 r. Nr 31, poz. 206 i Nr 97, poz. 804 oraz z 2010 r. Nr 75, poz. 474.) oraz ujętych w gminnej ewidencji zabytków; ” .
 
 **Art. 5.** Do spraw wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy tej ustawy.
 
@@ -225,5 +224,5 @@ source: "eli-html"
 
 **Art. 10.** Przepisy wykonawcze wydane przed dniem wejścia w życie niniejszej ustawy na podstawie art. 61 ust. 1 ustawy, o której mowa w art. 1 niniejszej ustawy, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 61 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390, z 2006 r. Nr 50, poz. 362 i Nr 126, poz. 875, z 2007 r. Nr 192, poz. 1394 oraz z 2009 r. Nr 31, poz. 206 i Nr 97, poz. 804. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 157, poz. 1119 i Nr 187, poz. 1381, z 2007 r. Nr 89, poz. 589, Nr 115, poz. 794, Nr 176, poz. 1243 i Nr 192, poz. 1378, z 2008 r. Nr 209, poz. 1318, z 2009 r. Nr 3, poz. 11, Nr 39, poz. 308, Nr 131, poz. 1075, Nr 157, poz. 1241 i Nr 201, poz. 1540 oraz z 2010 r. Nr 28, poz. 143 i Nr 40, poz. 229. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390, z 2006 r. Nr 50, poz. 362 i Nr 126, poz. 875, z 2007 r. Nr 192, poz. 1394, z 2009 r. Nr 31, poz. 206 i Nr 97, poz. 804 oraz z 2010 r. Nr 75, poz. 474. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 160, poz. 1276 i Nr 161, poz. 1279. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492, z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2006 r. Nr 45, poz. 319 i Nr 225, poz. 1635, z 2007 r. Nr 127, poz. 880, z 2008 r. Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 220, poz. 1413 oraz z 2010 r. Nr 24, poz. 124. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390, z 2006 r. Nr 50, poz. 362 i Nr 126, poz. 875, z 2007 r. Nr 192, poz. 1394, z 2009 r. Nr 31, poz. 206 i Nr 97, poz. 804 oraz z 2010 r. Nr 75, poz. 474.
 

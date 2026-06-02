@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-06-04 |
 | Data wydania | 2012-06-19 |
-| Wejście w życie | 2012-07-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000679) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/679/text.pdf) |
 
@@ -74,8 +73,7 @@ posiada nowatorskie elementy konstrukcyjne, w przypadku których zastosowanie po
 2)
 nie odbywa podróży międzynarodowych, lecz na skutek wyjątkowych okoliczności ma podjąć jednorazową podróż międzynarodową,
 3)
-odbywa podróże międzynarodowe między portami polskimi a sąsiadującymi portami innych państw, a takie zwolnienie zostanie przewidziane w porozumieniach zawartych przez Rzeczpospolitą Polską z tymi państwami
-statek może zostać zwolniony od wymagań konwencji.
+odbywa podróże międzynarodowe między portami polskimi a sąsiadującymi portami innych państw, a takie zwolnienie zostanie przewidziane w porozumieniach zawartych przez Rzeczpospolitą Polską z tymi państwami – statek może zostać zwolniony od wymagań konwencji.
 2.
 Statkowi, o którym mowa w ust. 1, wydaje się międzynarodowe świadectwo zwolnienia od wymagań wolnej burty, którego okres ważności regulują przepisy art. 19 konwencji.
 3.
@@ -85,5 +83,5 @@ W każdym przypadku zastosowania przepisów ust. 1 pkt 1 i 3 dyrektor urzędu mo
 § 7.
 Świadectwa wydane przed dniem wejścia w życie rozporządzenia zachowują swoją ważność na czas, na jaki zostały wydane.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 14 listopada 2002 r. w sprawie wolnej burty statków morskich (Dz. U. Nr 223, poz. 1874 oraz z 2011 r. Nr 61, poz. 307), które zgodnie z art. 149 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 14 listopada 2002 r. w sprawie wolnej burty statków morskich (Dz. U. Nr 223, poz. 1874 oraz z 2011 r. Nr 61, poz. 307), które zgodnie z art. 149 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

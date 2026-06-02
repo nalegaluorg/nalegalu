@@ -26,15 +26,26 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001672) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1672/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych Rozdział 1 – Przepisy ogólne Rozdział 2 – Zasady prowadzenia zbiórek publicznych Rozdział 3 – Przepisy zmieniające Rozdział 4 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. z 2019 r. poz. 756), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 16 października 2019 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 2294 oraz z 2020 r. poz. 695) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 września 2020 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 15 ustawy z dnia 16 października 2019 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 2294 oraz z 2020 r. poz. 695), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 15 ustawy z dnia 16 października 2019 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 2294 oraz z 2020 r. poz. 695), który stanowi: „
+Przepisy ogólne
+Zasady prowadzenia zbiórek publicznych
+Przepisy zmieniające
 Art. 23–39.
 (pominięte)
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Zasady prowadzenia zbiórek publicznych
+
+#### Rozdział 3 – Przepisy zmieniające
+
+#### Rozdział 4 – Przepisy przejściowe i końcowe
 
 **Art. 15.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 
@@ -47,7 +58,7 @@ Art. 23–39.
 
 - **5)** art. 11, który wchodzi w życie z dniem 1 stycznia 2020 r. ” . Załącznik – Tekst jednolity ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -85,7 +96,7 @@ Art. 23–39.
 
 3. Oświadczenie o niekaralności za przestępstwa, o których mowa w ust. 1, członkowie komitetu społecznego składają pod rygorem odpowiedzialności karnej za złożenie fałszywych zeznań.
 
-#### Rozdział 2 Zasady prowadzenia zbiórek publicznych
+#### Rozdział 2
 
 **Art. 5.**
 
@@ -225,13 +236,13 @@ Art. 23–39.
 
 - **1)** wzór aktu założycielskiego,
 - **2)** wzór zgłoszenia zbiórki publicznej,
-- **3)** wzory sprawozdań, o których mowa w art. 16 ust. 1 mając na uwadze potrzebę zapewnienia jednolitości i przejrzystości składanych dokumentów, a także uwzględniając potrzebę zidentyfikowania osób powołujących komitet społeczny, zakres niezbędnych danych zawartych w zgłoszeniu oraz zapewnienie obywatelom niezbędnego zakresu informacji dotyczących zarówno organizatora zbiórki, jak i wartości i rodzaju zebranych ofiar i sposobu ich rozdysponowania.
+- **3)** wzory sprawozdań, o których mowa w art. 16 ust. 1 – mając na uwadze potrzebę zapewnienia jednolitości i przejrzystości składanych dokumentów, a także uwzględniając potrzebę zidentyfikowania osób powołujących komitet społeczny, zakres niezbędnych danych zawartych w zgłoszeniu oraz zapewnienie obywatelom niezbędnego zakresu informacji dotyczących zarówno organizatora zbiórki, jak i wartości i rodzaju zebranych ofiar i sposobu ich rozdysponowania.
 
 **Art. 22.** W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256, 695 i 1298).
 
-#### Rozdział 3 Przepisy zmieniające
+#### Rozdział 3
 
-#### Rozdział 4 Przepisy przejściowe i końcowe
+#### Rozdział 4
 
 **Art. 40.**
 
@@ -248,20 +259,16 @@ Art. 23–39.
 - **3)** 2016 r. – 40 tys. zł;
 - **4)** 2017 r. – 40 tys. zł;
 - **5)** 2018 r. – 40 tys. zł;
-- **6)** 2019 r. – 40 tys. zł;
-- **7)** 2020 r. – 250 tys. zł;
-- **8)** 2021 r. – 260 tys. zł;
-- **9)** 2022 r. – 270 tys. zł;
-- **10)** 2023 r. – 280 tys. zł.
+- **6)** 2019 r. – 40 tys. zł; 7W brzmieniu ustalonym przez art. 8 ustawy z dnia 16 października 2019 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 2294 oraz z 2020 r. poz. 695), która weszła w życie z dniem 22 grudnia 2019 r.) 2020 r. – 250 tys. zł; 8W brzmieniu ustalonym przez art. 8 ustawy z dnia 16 października 2019 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 2294 oraz z 2020 r. poz. 695), która weszła w życie z dniem 22 grudnia 2019 r.) 2021 r. – 260 tys. zł; 9W brzmieniu ustalonym przez art. 8 ustawy z dnia 16 października 2019 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 2294 oraz z 2020 r. poz. 695), która weszła w życie z dniem 22 grudnia 2019 r.) 2022 r. – 270 tys. zł; 10W brzmieniu ustalonym przez art. 8 ustawy z dnia 16 października 2019 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 2294 oraz z 2020 r. poz. 695), która weszła w życie z dniem 22 grudnia 2019 r.) 2023 r. – 280 tys. zł.
 
 2. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków wprowadza się mechanizmy korygujące polegające na:
 
 - **1)** ograniczeniu kosztów utrzymania portalu zbiórek publicznych, w szczególności przez wykorzystanie nowoczesnych technologii informatycznych,
-- **2)** przesunięciu w czasie rozbudowy portalu zbiórek publicznych przy jednoczesnym zapewnieniu prawidłowego i niezakłóconego funkcjonowania portalu zbiórek publicznych.
+- **2)** przesunięciu w czasie rozbudowy portalu zbiórek publicznych – przy jednoczesnym zapewnieniu prawidłowego i niezakłóconego funkcjonowania portalu zbiórek publicznych.
 
 3. Organem właściwym do monitorowania wykorzystania limitów wydatków, o których mowa w ust. 1, oraz wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest minister właściwy do spraw administracji publicznej.
 
 **Art. 42.** Traci moc ustawa z dnia 15 marca 1933 r. o zbiórkach publicznych (Dz. U. z 2013 r. poz. 732).
 
-**Art. 43.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 43.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszeniaUstawa została ogłoszona w dniu 17 kwietnia 2014 r.. 1) W brzmieniu ustalonym przez art. 8 ustawy z dnia 16 października 2019 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 2294 oraz z 2020 r. poz. 695), która weszła w życie z dniem 22 grudnia 2019 r. 2) Ustawa została ogłoszona w dniu 17 kwietnia 2014 r.
 

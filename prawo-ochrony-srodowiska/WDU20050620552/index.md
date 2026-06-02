@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 4 marca 2005 r. o zmianie ustawy – Prawo energetyczne oraz ustawy – Prawo ochrony środowiska
+# Ustawaz dnia 4 marca 2005 r. o zmianie ustawy – Prawo energetyczne oraz ustawy – Prawo ochrony środowiska Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-03-04 |
 | Data wydania | 2005-04-18 |
-| Wejście w życie | 2005-05-03 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050620552) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/552/text.pdf) |
 
+dyrektywy 2003/54/WE dotyczącej wspólnych zasad rynku wewnętrznego energii elektrycznej i uchylającej dyrektywę 96/92/WE(Dz. Urz. WE L 176 z 15.07.2003);
 2)
-dyrektywy 2003/55/WE dotyczącej wspólnych zasad rynku wewnętrznego gazu ziemnego i uchylającej dyrektywę 98/30/WE (Dz. Urz. WE L 176 z 15.07.2003).
-Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2004 r., zamieszczone w niniejszej ustawie, dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
+dyrektywy 2003/55/WE dotyczącej wspólnych zasad rynku wewnętrznego gazu ziemnego i uchylającej dyrektywę 98/30/WE (Dz. Urz. WE L 176 z 15.07.2003). Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2004 r., zamieszczone w niniejszej ustawie, dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
 
-**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2003 r. Nr 153, poz. 1504, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2003 r. Nr 153, poz. 1504, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 203, poz. 1966 oraz z 2004 r. Nr 29, poz. 257, Nr 34, poz. 293, Nr 91, poz. 875, Nr 96, poz. 959 i Nr 173, poz. 1808.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1: ust. 2 otrzymuje brzmienie: „
     - **a)**
@@ -38,19 +37,19 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 2. Celem ustawy jest tworzenie warunków do zrównoważonego rozwoju kraju, zapewnienia bezpieczeństwa energetycznego, oszczędnego i racjonalnego użytkowania paliw i energii, rozwoju konkurencji, przeciwdziałania negatywnym skutkom naturalnych monopoli, uwzględniania wymogów ochrony środowiska, zobowiązań wynikających z umów międzynarodowych oraz równoważenia interesów przedsiębiorstw energetycznych i odbiorców paliw i energii. ” , w ust. 3 pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **1)** wydobywania kopalin ze złóż oraz bezzbiornikowego magazynowania paliw w zakresie uregulowanym ustawą z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. Nr 27, poz. 96, z późn. zm.); ” ;
+- **1)** wydobywania kopalin ze złóż oraz bezzbiornikowego magazynowania paliw w zakresie uregulowanym ustawą z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. Nr 27, poz. 96, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 88, poz. 554, Nr 111, poz. 726 i Nr 133, poz. 885, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 109, poz. 1157 i Nr 120, poz. 1268, z 2001 r. Nr 110, poz. 1190, Nr 115, poz. 1229 i Nr 154, poz. 1800, z 2002 r. Nr 113, poz. 984, Nr 117, poz. 1007, Nr 153, poz. 1271, Nr 166, poz. 1360 i Nr 240, poz. 2055, z 2003 r. Nr 223, poz. 2219 oraz z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 273, poz. 2703.); ” ;
 - **2)** w art. 3: po pkt 3 dodaje się pkt 3a w brzmieniu: „
     - **a)**
 
 - **3a)** paliwa gazowe – gaz ziemny wysokometanowy lub zaazotowany, w tym skroplony gaz ziemny oraz propan-butan lub inne rodzaje gazu palnego, dostarczane za pomocą sieci gazowej, niezależnie od ich przeznaczenia; ” , pkt 4 i 5 otrzymują brzmienie: „
     - **b)**
 
-- **4)** przesyłanie – transport: paliw gazowych oraz energii elektrycznej sieciami przesyłowymi w celu ich dostarczania do sieci dystrybucyjnych lub odbiorcom końcowym przyłączonym do sieci przesyłowych, paliw ciekłych siecią rurociągów, ciepła siecią ciepłowniczą do odbiorców przyłączonych do tej sieci z wyłączeniem sprzedaży tych paliw lub energii;
+- **4)** przesyłanie – transport: paliw gazowych oraz energii elektrycznej sieciami przesyłowymi w celu ich dostarczania do sieci dystrybucyjnych lub odbiorcom końcowym przyłączonym do sieci przesyłowych, paliw ciekłych siecią rurociągów, ciepła siecią ciepłowniczą do odbiorców przyłączonych do tej sieci – z wyłączeniem sprzedaży tych paliw lub energii;
     - **a)**
     - **b)**
     - **c)**
 
-- **5)** dystrybucja: transport paliw gazowych oraz energii elektrycznej sieciami dystrybucyjnymi w celu ich dostarczania odbiorcom, rozdział paliw ciekłych do odbiorców przyłączonych do sieci rurociągów, rozdział ciepła do odbiorców przyłączonych do sieci ciepłowniczej z wyłączeniem sprzedaży tych paliw lub energii; ” , po pkt 6 dodaje się pkt 6a w brzmieniu: „
+- **5)** dystrybucja: transport paliw gazowych oraz energii elektrycznej sieciami dystrybucyjnymi w celu ich dostarczania odbiorcom, rozdział paliw ciekłych do odbiorców przyłączonych do sieci rurociągów, rozdział ciepła do odbiorców przyłączonych do sieci ciepłowniczej – z wyłączeniem sprzedaży tych paliw lub energii; ” , po pkt 6 dodaje się pkt 6a w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
@@ -60,7 +59,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
     - **d)**
 
 - **10a)** instalacja magazynowa – instalację używaną do magazynowania paliw gazowych, w tym bezzbiornikowy magazyn gazu ziemnego, będącą własnością przedsiębiorstwa energetycznego lub eksploatowaną przez to przedsiębiorstwo, włącznie z częścią instalacji skroplonego gazu ziemnego używaną do jego magazynowania, z wyłączeniem tej części instalacji, która jest wykorzystywana do działalności produkcyjnej, oraz instalacji służącej wyłącznie do realizacji zadań operatorów systemu przesyłowego gazowego;
-- **10b)** instalacja skroplonego gazu ziemnego – terminal przeznaczony do: skraplania gazu ziemnego lub sprowadzania, wyładunku i regazyfikacji skroplonego gazu ziemnego wraz z instalacjami pomocniczymi i zbiornikami magazynowymi wykorzystywanymi w procesie regazyfikacji i dostarczania gazu ziemnego do systemu przesyłowego z wyłączeniem części terminalu służącej do magazynowania; ” , pkt 11 otrzymuje brzmienie: „
+- **10b)** instalacja skroplonego gazu ziemnego – terminal przeznaczony do: skraplania gazu ziemnego lub sprowadzania, wyładunku i regazyfikacji skroplonego gazu ziemnego wraz z instalacjami pomocniczymi i zbiornikami magazynowymi wykorzystywanymi w procesie regazyfikacji i dostarczania gazu ziemnego do systemu przesyłowego – z wyłączeniem części terminalu służącej do magazynowania; ” , pkt 11 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **e)**
@@ -123,7 +122,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 
 3. Przedsiębiorstwo zajmujące się transportem wydobytego gazu ziemnego może odmówić świadczenia usług, o których mowa w ust. 1, jeżeli:
 
-- **1)** występują niezgodności: parametrów technicznych sieci gazociągów kopalnianych z parametrami technicznymi sieci lub instalacji, które miałyby być podłączone do sieci gazociągów kopalnianych, lub parametrów jakościowych transportowanego gazu ziemnego z parametrami jakościowymi gazu ziemnego mającego być przedmiotem usługi transportu gazu ziemnego których usunięcie nie jest technicznie lub ekonomicznie uzasadnione, albo
+- **1)** występują niezgodności: parametrów technicznych sieci gazociągów kopalnianych z parametrami technicznymi sieci lub instalacji, które miałyby być podłączone do sieci gazociągów kopalnianych, lub parametrów jakościowych transportowanego gazu ziemnego z parametrami jakościowymi gazu ziemnego mającego być przedmiotem usługi transportu gazu ziemnego – których usunięcie nie jest technicznie lub ekonomicznie uzasadnione, albo
     - **a)**
     - **b)**
 
@@ -388,7 +387,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 - **2)** parametry techniczne i technologiczne wytwarzania energii elektrycznej lub ciepła wytwarzanych w odnawialnych źródłach energii,
 - **3)** wymagania dotyczące pomiarów, rejestracji i sposobu obliczania ilości energii elektrycznej lub ciepła wytwarzanych w odnawialnych źródłach energii za pomocą instalacji wykorzystujących w procesie wytwarzania energii nośniki energii, o których mowa w art. 3 pkt 20, oraz inne paliwa,
 - **4)** wielkość i sposób obliczania udziału energii elektrycznej wytwarzanej w odnawialnych źródłach energii, wynikającej z obowiązku uzyskania i przedstawienia do umorzenia świadectw pochodzenia, o których mowa w art. 9e ust. 1, w sprzedaży energii elektrycznej odbiorcom końcowym, w okresie kolejnych 10 lat,
-- **5)** sposób uwzględniania w kalkulacji cen energii elektrycznej i ciepła ustalanych w taryfach przedsiębiorstw energetycznych, o których mowa w ust. 1, 6 i 7: kosztów uzyskania i przedstawienia do umorzenia świadectw pochodzenia, o których mowa w art. 9e ust. 1, poniesionej opłaty zastępczej, o której mowa w ust. 1 pkt 2, kosztów zakupu energii elektrycznej lub ciepła, do których zakupu przedsiębiorstwo energetyczne jest obowiązane biorąc pod uwagę politykę energetyczną państwa oraz zobowiązania wynikające z umów międzynarodowych.
+- **5)** sposób uwzględniania w kalkulacji cen energii elektrycznej i ciepła ustalanych w taryfach przedsiębiorstw energetycznych, o których mowa w ust. 1, 6 i 7: kosztów uzyskania i przedstawienia do umorzenia świadectw pochodzenia, o których mowa w art. 9e ust. 1, poniesionej opłaty zastępczej, o której mowa w ust. 1 pkt 2, kosztów zakupu energii elektrycznej lub ciepła, do których zakupu przedsiębiorstwo energetyczne jest obowiązane – biorąc pod uwagę politykę energetyczną państwa oraz zobowiązania wynikające z umów międzynarodowych.
     - **a)**
     - **b)**
     - **c)**
@@ -397,7 +396,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 
 - **1)** parametry techniczne i technologiczne wytwarzania energii elektrycznej w skojarzeniu z wytwarzaniem ciepła,
 - **2)** wielkość i sposób obliczania udziału energii elektrycznej wytwarzanej w skojarzeniu z wytwarzaniem ciepła, w tym we własnych źródłach, do której zakupu przedsiębiorstwo energetyczne jest obowiązane, w sprzedaży energii elektrycznej,
-- **3)** sposób uwzględniania w kalkulacji cen energii elektrycznej ustalanych w taryfach przedsiębiorstw energetycznych, o których mowa w ust. 8, kosztów zakupu energii elektrycznej, do której zakupu przedsiębiorstwo energetyczne jest obowiązane biorąc pod uwagę politykę energetyczną państwa oraz zobowiązania wynikające z umów międzynarodowych. ” ;
+- **3)** sposób uwzględniania w kalkulacji cen energii elektrycznej ustalanych w taryfach przedsiębiorstw energetycznych, o których mowa w ust. 8, kosztów zakupu energii elektrycznej, do której zakupu przedsiębiorstwo energetyczne jest obowiązane – biorąc pod uwagę politykę energetyczną państwa oraz zobowiązania wynikające z umów międzynarodowych. ” ;
 - **14)** w art. 9b wyrazy „art. 9 ust. 1” zastępuje się wyrazami „art. 9 ust. 7 i 8”;
 - **15)** art. 9c otrzymuje brzmienie: „
 
@@ -529,7 +528,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 
 5. Operator systemu elektroenergetycznego przekazuje Prezesowi Urzędu Regulacji Energetyki wniosek, o którym mowa w ust. 3, w terminie 14 dni od dnia jego otrzymania, wraz z potwierdzeniem danych dotyczących ilości energii elektrycznej wprowadzonej do sieci, określonych na podstawie wskazań urządzeń pomiarowo-rozliczeniowych.
 
-6. Prawa majątkowe wynikające ze świadectwa pochodzenia są zbywalne i stanowią towar giełdowy, o którym mowa w art. 2 pkt 2 lit. d ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. Nr 103, poz. 1099, z późn. zm.).
+6. Prawa majątkowe wynikające ze świadectwa pochodzenia są zbywalne i stanowią towar giełdowy, o którym mowa w art. 2 pkt 2 lit. d ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. Nr 103, poz. 1099, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 200, poz. 1686, z 2003 r. Nr 50, poz. 424, Nr 84, poz. 774 i Nr 223, poz. 2216 oraz z 2004 r. Nr 64, poz. 594 i Nr 273, poz. 2703.).
 
 7. Prawa majątkowe wynikające ze świadectwa pochodzenia powstają z chwilą zapisania świadectwa, na podstawie informacji o wydanych świadectwach pochodzenia, o której mowa w ust. 17, po raz pierwszy na koncie ewidencyjnym w rejestrze świadectw pochodzenia prowadzonym przez podmiot, o którym mowa w ust. 9, i przysługują osobie będącej posiadaczem tego konta.
 
@@ -846,7 +845,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 - **15)** ustalanie metod kontroli i podejmowanie działań dla poprawy efektywności przedsiębiorstw energetycznych;
 - **16)** określanie i publikowanie wskaźników i cen wskaźnikowych istotnych dla procesu kształtowania taryf;
 - **17)** publikowanie informacji służących zwiększeniu efektywności użytkowania paliw i energii;
-- **18)** zbieranie i przetwarzanie informacji dotyczących przedsiębiorstw energetycznych, w tym obliczanie i ogłaszanie w terminie do dnia 31 marca każdego roku: średniej ceny sprzedaży energii elektrycznej wytworzonej w skojarzeniu z wytwarzaniem ciepła, średniej ceny sprzedaży energii elektrycznej na rynku konkurencyjnym w poprzednim roku kalendarzowym;
+- **18)** zbieranie i przetwarzanie informacji dotyczących przedsiębiorstw energetycznych, w tym obliczanie i ogłaszanie w terminie do dnia 31 marca każdego roku: średniej ceny sprzedaży energii elektrycznej wytworzonej w skojarzeniu z wytwarzaniem ciepła, średniej ceny sprzedaży energii elektrycznej na rynku konkurencyjnym – w poprzednim roku kalendarzowym;
     - **a)**
     - **b)**
 
@@ -1037,7 +1036,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 5. Minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia:
 
 - **1)** wymagania dotyczące dokumentacji technicznej, o której mowa w ust. 1, oraz stosowania etykiet i charakterystyk technicznych, o których mowa w ust. 2,
-- **2)** wzory etykiet, o których mowa w ust. 2 uwzględniając konieczność zapewnienia efektywnego użytkowania urządzeń poprzez powszechny dostęp do informacji o efektywności energetycznej tych urządzeń. ” ;
+- **2)** wzory etykiet, o których mowa w ust. 2 – uwzględniając konieczność zapewnienia efektywnego użytkowania urządzeń poprzez powszechny dostęp do informacji o efektywności energetycznej tych urządzeń. ” ;
 - **44)** w art. 54: po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
     - **a)**
 
@@ -1058,8 +1057,17 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 
 - **1)** rezygnacji jednostki organizacyjnej, przy której powołano komisję kwalifikacyjną, z dalszego prowadzenia tej komisji;
 - **2)** odwołania części członków komisji kwalifikacyjnej, uniemożliwiającego dalsze wykonywanie zadań przez tę komisję. ” ;
-- **45)** w art. 56: w ust. 1: – w pkt 1 wyrazy „art. 9 ust. 1 i 2” zastępuje się wyrazami „art. 9 ust. 1–4”, – pkt 1a otrzymuje brzmienie: „ 1a) nie przestrzega obowiązków uzyskania i przedstawienia do umorzenia Prezesowi URE świadectwa pochodzenia lub nie uiszcza opłaty zastępczej, o których mowa w art. 9a ust. 1, lub nie przestrzega obowiązków zakupu energii elektrycznej lub ciepła, o których mowa w art. 9a ust. 6–8; ” , – po pkt 1a dodaje się pkt 1b-1d w brzmieniu: „ 1b) nie przedkłada Prezesowi URE do zatwierdzenia części instrukcji, o których mowa w art. 9g ust. 7 lub 9; 1c) nie przedstawia informacji, o których mowa w art. 9j ust. 6; 1d) nie przestrzega obowiązków wynikających z przepisów rozporządzenia Parlamentu Europejskiego i Rady nr 1228/2003/WE z dnia 26 czerwca 2003 r. w sprawie warunków dostępu do sieci w odniesieniu do transgranicznej wymiany energii elektrycznej; ” , – po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) nie przedkłada do zatwierdzenia taryfy wbrew żądaniu Prezesa URE, o którym mowa w art. 47 ust. 1; ” , – po pkt 7 dodaje się pkt 7a w brzmieniu: „ 7a) świadomie lub w wyniku niedbalstwa wprowadza w błąd Prezesa URE w zakresie przedstawianych na jego żądanie informacji, o których mowa w art. 28; ” , – pkt 15 otrzymuje brzmienie: „ 15) z nieuzasadnionych powodów zwleka z powiadomieniem Prezesa URE lub zainteresowanego podmiotu o odmowie zawarcia umów, o których mowa w art. 4g ust. 1 lub art. 7 ust. 1; ” , – dodaje się pkt 16 w brzmieniu: „ 16) z nieuzasadnionych powodów nie występuje do Prezesa URE z wnioskiem, o którym mowa w art. 4h ust. 2. ” , ust. 2a i 2b otrzymują brzmienie: „
+- **45)** w art. 56: w ust. 1: – w pkt 1 wyrazy „art. 9 ust. 1 i 2” zastępuje się wyrazami „art. 9 ust. 1–4”, pkt 1a otrzymuje brzmienie: „
     - **a)**
+
+- **1a)** nie przestrzega obowiązków uzyskania i przedstawienia do umorzenia Prezesowi URE świadectwa pochodzenia lub nie uiszcza opłaty zastępczej, o których mowa w art. 9a ust. 1, lub nie przestrzega obowiązków zakupu energii elektrycznej lub ciepła, o których mowa w art. 9a ust. 6–8; ” , po pkt 1a dodaje się pkt 1b-1d w brzmieniu: „
+- **1b)** nie przedkłada Prezesowi URE do zatwierdzenia części instrukcji, o których mowa w art. 9g ust. 7 lub 9;
+- **1c)** nie przedstawia informacji, o których mowa w art. 9j ust. 6;
+- **1d)** nie przestrzega obowiązków wynikających z przepisów rozporządzenia Parlamentu Europejskiego i Rady nr 1228/2003/WE z dnia 26 czerwca 2003 r. w sprawie warunków dostępu do sieci w odniesieniu do transgranicznej wymiany energii elektrycznej; ” , po pkt 5 dodaje się pkt 5a w brzmieniu: „
+- **5a)** nie przedkłada do zatwierdzenia taryfy wbrew żądaniu Prezesa URE, o którym mowa w art. 47 ust. 1; ” , po pkt 7 dodaje się pkt 7a w brzmieniu: „
+- **7a)** świadomie lub w wyniku niedbalstwa wprowadza w błąd Prezesa URE w zakresie przedstawianych na jego żądanie informacji, o których mowa w art. 28; ” , pkt 15 otrzymuje brzmienie: „
+- **15)** z nieuzasadnionych powodów zwleka z powiadomieniem Prezesa URE lub zainteresowanego podmiotu o odmowie zawarcia umów, o których mowa w art. 4g ust. 1 lub art. 7 ust. 1; ” , dodaje się pkt 16 w brzmieniu: „
+- **16)** z nieuzasadnionych powodów nie występuje do Prezesa URE z wnioskiem, o którym mowa w art. 4h ust. 2. ” , ust. 2a i 2b otrzymują brzmienie: „
     - **b)**
 
 2a. Wysokość kary pieniężnej wymierzonej w przypadkach określonych w ust. 1 pkt 1a nie może być niższa niż:
@@ -1078,7 +1086,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 
 8. Prezes URE niezwłocznie powiadamia Komisję Europejską o zmianach przepisów w zakresie kar pieniężnych i o działaniach podejmowanych w przypadku naruszeń przepisów rozporządzenia Parlamentu Europejskiego i Rady nr 1228/2003/WE z dnia 26 czerwca 2003 r. w sprawie warunków dostępu do sieci w odniesieniu do transgranicznej wymiany energii elektrycznej. ” .
 
-**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. Nr 62, poz. 627, z późn. zm.) w art. 401 ust. 9 otrzymuje brzmienie: „ 9. Przychodami Narodowego Funduszu są także wpływy z opłat zastępczych, o których mowa w art. 9a ust. 1 pkt 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2003 r. Nr 153, poz. 1504, z późn. zm.), oraz wpływy z kar pieniężnych wymierzanych na podstawie art. 56 ust. 1 pkt 1a tej ustawy. ” .
+**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. Nr 62, poz. 627, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, z 2002 r. Nr 74, poz. 676, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 233, poz. 1957, z 2003 r. Nr 46, poz. 392, Nr 80, poz. 717 i 721, Nr 162, poz. 1568, Nr 175, poz. 1693, Nr 190, poz. 1865 i Nr 217, poz. 2124, z 2004 r. Nr 19, poz. 177, Nr 49, poz. 464, Nr 70, poz. 631, Nr 91, poz. 875, Nr 92, poz. 880, Nr 96, poz. 959, Nr 121, poz. 1263, Nr 273, poz. 2703 i Nr 281, poz. 2784 oraz z 2005 r. Nr 25, poz. 202.) w art. 401 ust. 9 otrzymuje brzmienie: „ 9. Przychodami Narodowego Funduszu są także wpływy z opłat zastępczych, o których mowa w art. 9a ust. 1 pkt 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2003 r. Nr 153, poz. 1504, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 203, poz. 1966, z 2004 r. Nr 29, poz. 257, Nr 34, poz. 293, Nr 91, poz. 875, Nr 96, poz. 959 i Nr 173, poz. 1808 oraz z 2005 r. Nr 62, poz. 552.), oraz wpływy z kar pieniężnych wymierzanych na podstawie art. 56 ust. 1 pkt 1a tej ustawy. ” .
 
 **Art. 3.** Do dnia 31 grudnia 2010 r. opłatę za przyłączenie, o której mowa w art. 7 ust. 8 ustawy wymienionej w art. 1, w odniesieniu do przyłączenia do sieci elektroenergetycznej odnawialnych źródeł energii o mocy elektrycznej wyższej niż 5 MW, pobiera się w wysokości jednej drugiej obliczonej opłaty. W terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy, minister właściwy do spraw gospodarki, w odniesieniu do paliw gazowych i energii elektrycznej, powiadomi Komisję Europejską o podjętych działaniach w celu realizacji obowiązków w zakresie ochrony interesów odbiorców i ochrony środowiska oraz ich możliwym wpływie na konkurencję krajową i międzynarodową, a także o podjętych działaniach w celu realizacji usług transportu gazu ziemnego przy użyciu gazociągów kopalnianych. 1. Pierwsze ogłoszenie sprawozdania, o którym mowa w art. 15b ust. 1 ustawy wymienionej w art. 1, nastąpi w terminie 5 miesięcy od dnia wejścia w życie niniejszej ustawy. 2. Pierwsze przekazanie Komisji Europejskiej sprawozdania, o którym mowa w art. 15b ust. 1 ustawy wymienionej w art. 1, nastąpi w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
@@ -1093,7 +1101,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 1. Do czasu:
 
 - **1)** wyodrębnienia z przedsiębiorstwa zintegrowanego pionowo zajmującego się dystrybucją i obrotem paliwami gazowymi lub energią elektryczną operatora systemu dystrybucyjnego lub operatora systemu połączonego jako podmiotu niezależnego pod względem formy prawnej albo
-- **2)** wyłonienia, w drodze przetargu, lub wyznaczenia przez Prezesa URE sprzedawcy z urzędu, na zasadach określonych w art. 9i ustawy wymienionej w art. 1 – dla obszaru działania operatora systemu dystrybucyjnego wymienionego w art. 9d ust. 7 ustawy wymienionej w art. 1, będącego przedsiębiorstwem zintegrowanym pionowo i zajmującym się dystrybucją i obrotem paliwami gazowymi lub energią elektryczną przedsiębiorstwo zintegrowane pionowo, o którym mowa w pkt 1 i 2, jest obowiązane do zawarcia umowy sprzedaży paliw gazowych lub energii elektrycznej z odbiorcami tych paliw lub energii, przyłączonymi do sieci tego przedsiębiorstwa na zasadzie równoprawnego traktowania.
+- **2)** wyłonienia, w drodze przetargu, lub wyznaczenia przez Prezesa URE sprzedawcy z urzędu, na zasadach określonych w art. 9i ustawy wymienionej w art. 1 – dla obszaru działania operatora systemu dystrybucyjnego wymienionego w art. 9d ust. 7 ustawy wymienionej w art. 1, będącego przedsiębiorstwem zintegrowanym pionowo i zajmującym się dystrybucją i obrotem paliwami gazowymi lub energią elektryczną – przedsiębiorstwo zintegrowane pionowo, o którym mowa w pkt 1 i 2, jest obowiązane do zawarcia umowy sprzedaży paliw gazowych lub energii elektrycznej z odbiorcami tych paliw lub energii, przyłączonymi do sieci tego przedsiębiorstwa na zasadzie równoprawnego traktowania.
 
 2. Umowy, o których mowa w ust. 1, są zawierane, jeżeli istnieją techniczne i ekonomiczne warunki dostarczania przez przedsiębiorstwo zintegrowane pionowo wymienione w ust. 1 paliw gazowych lub energii elektrycznej, a żądający zawarcia umowy sprzedaży paliw gazowych lub energii elektrycznej spełnia warunki odbioru tych paliw lub energii.
 
@@ -1105,7 +1113,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 
 - **1)** wyodrębnione z przedsiębiorstwa zintegrowanego pionowo w celu zapewnienia operatorowi systemu dystrybucyjnego niezależności pod względem formy prawnej w rozumieniu art. 9d ust. 1 ustawy wymienionej w art. 1,
 - **2)** posiadające koncesję na obrót paliwami gazowymi lub energią elektryczną,
-- **3)** zajmujące się sprzedażą paliw gazowych lub energii elektrycznej odbiorcom tych paliw lub energii, przyłączonym do sieci operatora, o którym mowa w pkt 1 jest obowiązane, do dnia 30 czerwca 2007 r., świadczyć usługę kompleksową odbiorcom niekorzystającym z prawa wyboru sprzedawcy, przyłączonym do sieci operatora systemu dystrybucyjnego, o którym mowa w pkt 1.
+- **3)** zajmujące się sprzedażą paliw gazowych lub energii elektrycznej odbiorcom tych paliw lub energii, przyłączonym do sieci operatora, o którym mowa w pkt 1 – jest obowiązane, do dnia 30 czerwca 2007 r., świadczyć usługę kompleksową odbiorcom niekorzystającym z prawa wyboru sprzedawcy, przyłączonym do sieci operatora systemu dystrybucyjnego, o którym mowa w pkt 1.
 
 2. Przedsiębiorstwo energetyczne, o którym mowa w ust. 1, w okresie od dnia 1 lipca 2007 r. do czasu wyznaczenia przez Prezesa URE lub wyłonienia w drodze przetargu sprzedawcy z urzędu, na zasadach określonych w art. 9i ustawy wymienionej w art. 1, wykonuje zadania sprzedawcy z urzędu dla odbiorców przyłączonych do sieci operatora systemu dystrybucyjnego, o którym mowa w ust. 1 pkt 1.
 
@@ -1138,14 +1146,13 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 **Art. 22.** Przepisy:
 
 - **1)** art. 4 ust. 2, art. 4c, art. 4d ust. 1, art. 4e ust. 1 i art. 4j ustawy wymienionej w art. 1, w zakresie dotyczącym odbiorców paliw gazowych lub energii elektrycznej w gospodarstwie domowym,
-- **2)** art. 9d ustawy wymienionej w art. 1, w zakresie dotyczącym obowiązku uzyskania niezależności, pod względem formy prawnej, operatorów systemów dystrybucyjnych stosuje się od dnia 1 lipca 2007 r. Przepisy art. 9 ust. 5 i 6 ustawy wymienionej w art. 1 stosuje się do dnia 31 grudnia 2010 r.
+- **2)** art. 9d ustawy wymienionej w art. 1, w zakresie dotyczącym obowiązku uzyskania niezależności, pod względem formy prawnej, operatorów systemów dystrybucyjnych – stosuje się od dnia 1 lipca 2007 r. Przepisy art. 9 ust. 5 i 6 ustawy wymienionej w art. 1 stosuje się do dnia 31 grudnia 2010 r.
 
 **Art. 24.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 9a, art. 9e i art. 56 ust. 1 pkt 1a, ust. 2a i 2b ustawy wymienionej w art. 1 oraz art. 2, art. 11, art. 12 i art. 14, które wchodzą w życie z dniem 1 października 2005 r.;
-- **2)** art. 9i ust. 2 ustawy wymienionej w art. 1, który wchodzi w życie z dniem 1 lipca 2007 r.
-- **1)** Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
+- **2)** art. 9i ust. 2 ustawy wymienionej w art. 1, który wchodzi w życie z dniem 1 lipca 2007 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
 - **1)** dyrektywy 2003/54/WE dotyczącej wspólnych zasad rynku wewnętrznego energii elektrycznej i uchylającej dyrektywę 96/92/WE (Dz. Urz. WE L 176 z 15.07.2003);
-- **2)** dyrektywy 2003/55/WE dotyczącej wspólnych zasad rynku wewnętrznego gazu ziemnego i uchylającej dyrektywę 98/30/WE (Dz. Urz. WE L 176 z 15.07.2003). Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2004 r., zamieszczone w niniejszej ustawie, dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
+- **2)** dyrektywy 2003/55/WE dotyczącej wspólnych zasad rynku wewnętrznego gazu ziemnego i uchylającej dyrektywę 98/30/WE (Dz. Urz. WE L 176 z 15.07.2003). Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2004 r., zamieszczone w niniejszej ustawie, dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 203, poz. 1966 oraz z 2004 r. Nr 29, poz. 257, Nr 34, poz. 293, Nr 91, poz. 875, Nr 96, poz. 959 i Nr 173, poz. 1808. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 88, poz. 554, Nr 111, poz. 726 i Nr 133, poz. 885, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 109, poz. 1157 i Nr 120, poz. 1268, z 2001 r. Nr 110, poz. 1190, Nr 115, poz. 1229 i Nr 154, poz. 1800, z 2002 r. Nr 113, poz. 984, Nr 117, poz. 1007, Nr 153, poz. 1271, Nr 166, poz. 1360 i Nr 240, poz. 2055, z 2003 r. Nr 223, poz. 2219 oraz z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 273, poz. 2703. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 200, poz. 1686, z 2003 r. Nr 50, poz. 424, Nr 84, poz. 774 i Nr 223, poz. 2216 oraz z 2004 r. Nr 64, poz. 594 i Nr 273, poz. 2703. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, z 2002 r. Nr 74, poz. 676, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 233, poz. 1957, z 2003 r. Nr 46, poz. 392, Nr 80, poz. 717 i 721, Nr 162, poz. 1568, Nr 175, poz. 1693, Nr 190, poz. 1865 i Nr 217, poz. 2124, z 2004 r. Nr 19, poz. 177, Nr 49, poz. 464, Nr 70, poz. 631, Nr 91, poz. 875, Nr 92, poz. 880, Nr 96, poz. 959, Nr 121, poz. 1263, Nr 273, poz. 2703 i Nr 281, poz. 2784 oraz z 2005 r. Nr 25, poz. 202. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 203, poz. 1966, z 2004 r. Nr 29, poz. 257, Nr 34, poz. 293, Nr 91, poz. 875, Nr 96, poz. 959 i Nr 173, poz. 1808 oraz z 2005 r. Nr 62, poz. 552.
 
 

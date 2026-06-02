@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-02-27 |
 | Data wydania | 2015-03-10 |
-| Wejście w życie | 2015-03-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000333) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/333/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 3 ust. 2 pkt 1 ustawy z dnia 28 listopada 2003 r. o wspieraniu
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 30 kwietnia 2004 r. w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na uzyskiwanie rent strukturalnych objętej planem rozwoju obszarów wiejskich (Dz. U. Nr 114, poz. 1191, z 2005 r. Nr 211, poz. 1759 oraz z 2006 r. Nr 135, poz. 951) wprowadza się następujące zmiany:
 1)
-po § 13 dodaje się § 13a w brzmieniu:
-„
+po § 13 dodaje się § 13a w brzmieniu: „
 § 13a.
 1.
 Kierownik biura powiatowego Agencji zawiadamia pobierającego rentę strukturalną o możliwości złożenia wniosku o ustalenie prawa do emerytury z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników.
@@ -41,13 +39,11 @@ Zawiadomienia, o którym mowa w ust. 1, dokonuje się nie później niż w termi
 3.
 Pobierający rentę strukturalną składa do właściwego ze względu na miejsce zamieszkania kierownika biura powiatowego Agencji potwierdzenie złożenia wniosku, o którym mowa w ust. 1, nie później niż w terminie 30 dni od dnia osiągnięcia wieku emerytalnego.
 4.
-Pobierający rentę strukturalną składa do właściwego ze względu na miejsce zamieszkania kierownika biura powiatowego Agencji decyzję w sprawie przyznania lub odmowy przyznania uprawnionemu do renty strukturalnej lub jego małżonkowi prawa do emerytury z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników, niezwłocznie po jej otrzymaniu, jednak nie później niż w terminie 4 miesięcy od dnia złożenia wniosku, o którym mowa w ust. 1.
-” ;
+Pobierający rentę strukturalną składa do właściwego ze względu na miejsce zamieszkania kierownika biura powiatowego Agencji decyzję w sprawie przyznania lub odmowy przyznania uprawnionemu do renty strukturalnej lub jego małżonkowi prawa do emerytury z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników, niezwłocznie po jej otrzymaniu, jednak nie później niż w terminie 4 miesięcy od dnia złożenia wniosku, o którym mowa w ust. 1. ” ;
 2)
 w § 15:
 a)
-po ust. 2 dodaje się ust. 2a-2c w brzmieniu:
-„
+po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „
 2a.
 W przypadku gdy pobierający rentę strukturalną nie złoży potwierdzenia złożenia wniosku, o którym mowa w § 13a ust. 3, wypłata renty strukturalnej ulega zawieszeniu:
 1)
@@ -61,11 +57,9 @@ w części równej zwiększeniu przysługującemu z tytułu pozostawania w zwią
 2b.
 Wypłata renty strukturalnej ulega zawieszeniu, o którym mowa w ust. 2a, poczynając od miesiąca następującego po miesiącu, w którym potwierdzenie złożenia wniosku, o którym mowa w § 13a ust. 3, powinno zostać złożone do właściwego ze względu na miejsce zamieszkania wnioskodawcy kierownika biura powiatowego Agencji.
 2c.
-W przypadku gdy pobierający rentę strukturalną nie złoży decyzji, o której mowa w § 13a ust. 4, wypłata renty strukturalnej ulega zawieszeniu; przepisy ust. 2a i 2b stosuje się odpowiednio.
-” ,
+W przypadku gdy pobierający rentę strukturalną nie złoży decyzji, o której mowa w § 13a ust. 4, wypłata renty strukturalnej ulega zawieszeniu; przepisy ust. 2a i 2b stosuje się odpowiednio. ” ,
 b)
-po ust. 3 dodaje się ust. 3a-3d w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a-3d w brzmieniu: „
 3a.
 Wznowienie wypłaty zawieszonej renty strukturalnej w przypadku, o którym mowa w ust. 2a i 2c, następuje po doręczeniu kierownikowi biura powiatowego Agencji decyzji ostatecznej organu rentowego:
 1)
@@ -81,16 +75,14 @@ w terminie 30 dni od dnia doręczenia decyzji odmawiającej prawa do emerytury, 
 2)
 w terminie 30 dni od dnia spełnienia warunków wymaganych do uzyskania prawa do emerytury z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników, składa do właściwego ze względu na miejsce zamieszkania kierownika biura powiatowego Agencji potwierdzenie złożenia wniosku, o którym mowa w § 13a ust. 3.
 3d.
-W przypadku niedopełnienia przynajmniej jednej z czynności, o których mowa w ust. 3c, wypłata renty strukturalnej ulega zawieszeniu; przepisy ust. 2a-2c oraz 3a stosuje się odpowiednio.
-” .
+W przypadku niedopełnienia przynajmniej jednej z czynności, o których mowa w ust. 3c, wypłata renty strukturalnej ulega zawieszeniu; przepisy ust. 2a-2c oraz 3a stosuje się odpowiednio. ” .
 § 2.
 1.
 W przypadku osób pobierających rentę strukturalną lub ich małżonków w przypadku, o którym mowa w § 12 ust. 2 rozporządzenia wymienionego w § 1, którzy:
 1)
 osiągnęli wiek emerytalny przed dniem wejścia w życie niniejszego rozporządzenia,
 2)
-osiągną wiek emerytalny w dniu wejścia w życie niniejszego rozporządzenia albo w okresie 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia
-kierownik biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa zawiadamia pobierającego rentę strukturalną o możliwości złożenia wniosku o ustalenie prawa do emerytury z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników, w terminie 60 dni od dnia wejścia w życie niniejszego rozporządzenia.
+osiągną wiek emerytalny w dniu wejścia w życie niniejszego rozporządzenia albo w okresie 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia – kierownik biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa zawiadamia pobierającego rentę strukturalną o możliwości złożenia wniosku o ustalenie prawa do emerytury z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników, w terminie 60 dni od dnia wejścia w życie niniejszego rozporządzenia.
 2.
 Potwierdzenie złożenia wniosku o ustalenie prawa do emerytury z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników pobierający rentę strukturalną składa do właściwego ze względu na miejsce zamieszkania pobierającego rentę strukturalną kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa, w terminie 30 dni od dnia otrzymania zawiadomienia, o którym mowa w ust. 1.
 3.

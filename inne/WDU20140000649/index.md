@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-05-13 |
 | Data wydania | 2014-05-20 |
-| Wejście w życie | 2014-05-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000649) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/649/text.pdf) |
 
@@ -82,7 +81,7 @@ Opłaty, o których mowa w § 6 ust. 2 i 3, pobiera się z góry na rachunek bie
 § 8.
 W sprawach niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia do opłat za ogłoszenie wpisu do Krajowego Rejestru Sądowego stosuje się przepisy dotychczasowe.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 30 maja 2014 r.
+Rozporządzenie wchodzi w życie z dniem 30 maja 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 15 kwietnia 1996 r. w sprawie organizacji, sposobu wydawania i rozpowszechniania oraz podstawy ustalania ceny numerów Monitora Sądowego i Gospodarczego i wysokości opłat za zamieszczenie w nim ogłoszenia lub obwieszczenia (Dz. U. z 2013 r. poz. 238), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 3 ustawy z dnia 27 września 2013 r. o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz ustawy o europejskim ugrupowaniu współpracy terytorialnej (Dz. U. poz. 1323). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 15 kwietnia 1996 r. w sprawie organizacji, sposobu wydawania i rozpowszechniania oraz podstawy ustalania ceny numerów Monitora Sądowego i Gospodarczego i wysokości opłat za zamieszczenie w nim ogłoszenia lub obwieszczenia (Dz. U. z 2013 r. poz. 238), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 3 ustawy z dnia 27 września 2013 r. o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz ustawy o europejskim ugrupowaniu współpracy terytorialnej (Dz. U. poz. 1323).
 Załącznik – Wykaz sądów rejonowych, w których ustanowiono punkty przyjmowania ogłoszeń i obwieszczeń przeznaczonych do zamieszczenia w Monitorze Sądowym i Gospodarczym
 1.
 Sąd Rejonowy w Białej Podlaskiej,

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-08-30 |
 | Data wydania | 2013-09-30 |
-| Wejście w życie | 2013-10-15 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001149) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1149/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 848, 1101, 1342 i 1529 oraz z 2013 r. poz. 35, 985, 1027, 1036 i 1145.) wprowadza się następujące zmiany:
 
 - **1)** w art. 70 w § 6 pkt 1 otrzymuje brzmienie: „
 - **1)** wszczęcia postępowania w sprawie o przestępstwo skarbowe lub wykroczenie skarbowe, o którym podatnik został zawiadomiony, jeżeli podejrzenie popełnienia przestępstwa lub wykroczenia wiąże się z niewykonaniem tego zobowiązania; ” ;
@@ -65,5 +64,5 @@ source: "eli-html"
 
 **Art. 65c.** Organ celny zawiadamia dłużnika o zawieszeniu biegu terminu przedawnienia kwoty należności w przypadku, o którym mowa w art. 65 ust. 10 pkt 1, najpóźniej z upływem terminu przedawnienia, o którym mowa w art. 65 ust. 7, oraz o dalszym biegu terminu przedawnienia po upływie okresu zawieszenia. ” .
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 848, 1101, 1342 i 1529 oraz z 2013 r. poz. 35, 985, 1027, 1036 i 1145.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 kwietnia 2018 r. o zmianie ustawy o ubezpieczeniu społecznym rolników oraz niektórych innych ustaw
+# Ustawa z dnia 13 kwietnia 2018 r. o zmianie ustawy o ubezpieczeniu społecznym rolników oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy oraz ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-04-13 |
 | Data wydania | 2018-05-10 |
-| Wejście w życie | 2018-05-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000858) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/858/text.pdf) |
+
+Umowa o pomocy przy zbiorach
 
 **Art. 1.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2017 r. poz. 2336 oraz z 2018 r. poz. 650) wprowadza się następujące zmiany:
 
@@ -34,7 +35,7 @@ source: "eli-html"
 1. Ubezpieczenie społeczne rolników, zwane dalej „ubezpieczeniem”, obejmuje, na zasadach określonych w ustawie, rolników i pracujących z nimi domowników oraz pomocników rolnika, którzy:
 
 - **1)** posiadają obywatelstwo polskie lub
-- **2)** są uprawnieni do wykonywania pracy na terytorium Rzeczypospolitej Polskiej na podstawie art. 87 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2017 r. poz. 1065, z późn. zm.) lub są zwolnieni na podstawie przepisów szczególnych z obowiązku posiadania zezwolenia na pracę. ” , uchyla się ust. 1a;
+- **2)** są uprawnieni do wykonywania pracy na terytorium Rzeczypospolitej Polskiej na podstawie art. 87 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2017 r. poz. 1065, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1292, 1321, 1428, 1543, 2371 i 2494 oraz z 2018 r. poz. 107, 138, 650, 730 i 858.) lub są zwolnieni na podstawie przepisów szczególnych z obowiązku posiadania zezwolenia na pracę. ” , uchyla się ust. 1a;
     - **b)**
 
 - **2)** w art. 3 po ust. 1 dodaje się ust. 1a w brzmieniu: „
@@ -90,7 +91,7 @@ source: "eli-html"
 
 - **1)** zapobiegania wypadkom i nieszczęśliwym zdarzeniom w gospodarstwach rolnych,
 - **2)** rehabilitacji leczniczej,
-- **3)** pomocy w zakresie likwidacji szkód zaistniałych w gospodarstwach rolnych w wyniku klęsk żywiołowych i innych sytuacji kryzysowych na rzecz ubezpieczonych i świadczeniobiorców oraz członków ich rodzin, o których mowa w art. 29 ust. 2.
+- **3)** pomocy w zakresie likwidacji szkód zaistniałych w gospodarstwach rolnych w wyniku klęsk żywiołowych i innych sytuacji kryzysowych – na rzecz ubezpieczonych i świadczeniobiorców oraz członków ich rodzin, o których mowa w art. 29 ust. 2.
 
 2. Do ubiegania się o wsparcie z funduszu składkowego na realizację działań wymienionych w ust. 1 są uprawnione:
 
@@ -105,7 +106,7 @@ source: "eli-html"
 
 5. Ze środków funduszu składkowego mogą być współfinansowane programy zdrowotne i programy polityki zdrowotnej, polegające na profilaktyce chorób, w tym chorób zawodowych w rolnictwie, dla ubezpieczonych i świadczeniobiorców oraz członków ich rodzin, o których mowa w art. 29 ust. 2.
 
-6. Fundusz składkowy może finansować ubezpieczenia od nieszczęśliwych wypadków na rzecz ubezpieczonych i świadczeniobiorców oraz członków ich rodzin, o których mowa w art. 29 ust. 2. W tym celu fundusz składkowy może zawierać umowy ubezpieczeniowe z zakładami ubezpieczeń, działającymi na podstawie ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2017 r. poz. 1170, z późn. zm.).
+6. Fundusz składkowy może finansować ubezpieczenia od nieszczęśliwych wypadków na rzecz ubezpieczonych i świadczeniobiorców oraz członków ich rodzin, o których mowa w art. 29 ust. 2. W tym celu fundusz składkowy może zawierać umowy ubezpieczeniowe z zakładami ubezpieczeń, działającymi na podstawie ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2017 r. poz. 1170, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1089, 1926, 2102 i 2486 oraz z 2018 r. poz. 8, 106, 650, 685, 723 i 771.).
 
 7. Wsparcie, o którym mowa w ust. 1, 5 i 6, nie stanowi dotacji w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
@@ -135,11 +136,11 @@ source: "eli-html"
 
 - **17)** po rozdziale 7 dodaje się rozdział 7a w brzmieniu: „
 
-#### Rozdział 7a Umowa o pomocy przy zbiorach
+#### Rozdział 7a
 
 **Art. 91a.**
 
-1. Przez umowę o pomocy przy zbiorach pomocnik rolnika zobowiązuje się do świadczenia pomocy przy zbiorach produktów rolnych należących do sektora, o którym mowa w art. 1 ust. 2 lit. f, i oraz n rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.), a także pozostałych ziół i roślin zielarskich, zwanych dalej „chmielem, owocami, warzywami, tytoniem, ziołami i roślinami zielarskimi”, w określonym miejscu w gospodarstwie rolnika i przez określony czas, a rolnik do zapłaty umówionego wynagrodzenia za świadczoną pomoc.
+1. Przez umowę o pomocy przy zbiorach pomocnik rolnika zobowiązuje się do świadczenia pomocy przy zbiorach produktów rolnych należących do sektora, o którym mowa w art. 1 ust. 2 lit. f, i oraz n rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17 i Dz. Urz. UE L 202 z 28.07.2016, str. 5 oraz Dz. Urz. UE L 91 z 05.04.2017, str. 44 i Dz. Urz. UE L 350 z 29.12.2017, str. 15.), a także pozostałych ziół i roślin zielarskich, zwanych dalej „chmielem, owocami, warzywami, tytoniem, ziołami i roślinami zielarskimi”, w określonym miejscu w gospodarstwie rolnika i przez określony czas, a rolnik do zapłaty umówionego wynagrodzenia za świadczoną pomoc.
 
 2. Pomoc przy zbiorach chmielu, owoców, warzyw, tytoniu, ziół i roślin zielarskich obejmuje następujące czynności:
 
@@ -159,7 +160,7 @@ source: "eli-html"
 
 2. Każdej ze stron umowy o pomocy przy zbiorach przysługuje prawo wypowiedzenia umowy. Umowa ulega rozwiązaniu z upływem dnia, w którym została wypowiedziana, chyba że strony w umowie postanowiły inaczej. Rolnik jest obowiązany do zapewnienia pomocnikowi rolnika odpowiednich narzędzi niezbędnych do świadczenia pomocy przy zbiorach chmielu, owoców, warzyw, tytoniu, ziół i roślin zielarskich. Pomocnik rolnika jest obowiązany do osobistego świadczenia pomocy przy zbiorach chmielu, owoców, warzyw, tytoniu, ziół i roślin zielarskich. W zakresie nieuregulowanym w niniejszym rozdziale do umowy o pomocy przy zbiorach stosuje się przepisy Kodeksu cywilnego. ” .
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 200, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 200, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2494 oraz z 2018 r. poz. 106, 138, 317, 398, 650 i 685.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5a po pkt 23 dodaje się pkt 23a w brzmieniu: „
 - **23a)** umowie o pomocy przy zbiorach – oznacza to umowę o pomocy przy zbiorach, o której mowa w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2017 r. poz. 2336 oraz z 2018 r. poz. 650 i 858); ” ;
@@ -187,7 +188,7 @@ source: "eli-html"
 - **8)** w art. 45b w pkt 1 wyrazy „art. 42a” zastępuje się wyrazami „art. 42a ust. 1”;
 - **9)** w art. 45ba w ust. 1 wyrazy „art. 42a” zastępuje się wyrazami „art. 42a ust. 1”.
 
-**Art. 3.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2017 r. poz. 1065, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2017 r. poz. 1065, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1292, 1321, 1428, 1543, 2371 i 2494 oraz z 2018 r. poz. 107, 138, 650 i 730.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w ust. 1 pkt 11 otrzymuje brzmienie: „
 - **11)** innej pracy zarobkowej – oznacza to wykonywanie pracy lub świadczenie usług na podstawie umów cywilnoprawnych, w tym umowy agencyjnej, umowy zlecenia, umowy o dzieło lub umowy o pomocy przy zbiorach w rozumieniu przepisów o ubezpieczeniu społecznym rolników albo wykonywanie pracy w okresie członkostwa w rolniczej spółdzielni produkcyjnej, spółdzielni kółek rolniczych lub spółdzielni usług rolniczych; ” ;
@@ -238,7 +239,7 @@ source: "eli-html"
 - **9)** w art. 104 w ust. 1 w pkt 1 lit. g otrzymuje brzmienie: „ za żołnierzy zawodowych oraz funkcjonariuszy niespełniających warunków do nabycia prawa do emerytury lub renty inwalidzkiej określonych w przepisach o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin oraz w przepisach o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, za których po zwolnieniu ze służby lub rozwiązaniu stosunku pracy odprowadzono składkę na ubezpieczenie emerytalne i rentowe od uposażenia lub wynagrodzenia wypłaconego w okresie służby lub stosunku pracy na podstawie przepisów odrębnych, ” .
     - **g)**
 
-**Art. 4.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697, 730 i 771.) wprowadza się następujące zmiany:
 
 - **1)** w art. 66 w ust. 1 w pkt 1 po lit. b dodaje się lit. ba w brzmieniu: „ ba) pomocnikami rolnika w rozumieniu przepisów o ubezpieczeniu społecznym rolników, ” ;
 - **2)** w art. 67 ust. 3 otrzymuje brzmienie: „
@@ -269,5 +270,5 @@ source: "eli-html"
 
 **Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 45b pkt 1 i 5 ustawy zmienianej w art. 2, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 45b pkt 1 i 5 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 1 stycznia 2019 r. i mogą być zmieniane.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 12, 13 i 15, art. 3 pkt 2 lit. b i c, pkt 7 lit. b i c oraz pkt 8, które wchodzą w życie z dniem 1 stycznia 2019 r.
+**Art. 7.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 12, 13 i 15, art. 3 pkt 2 lit. b i c, pkt 7 lit. b i c oraz pkt 8, które wchodzą w życie z dniem 1 stycznia 2019 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy oraz ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1292, 1321, 1428, 1543, 2371 i 2494 oraz z 2018 r. poz. 107, 138, 650, 730 i 858. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1089, 1926, 2102 i 2486 oraz z 2018 r. poz. 8, 106, 650, 685, 723 i 771. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17 i Dz. Urz. UE L 202 z 28.07.2016, str. 5 oraz Dz. Urz. UE L 91 z 05.04.2017, str. 44 i Dz. Urz. UE L 350 z 29.12.2017, str. 15. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2494 oraz z 2018 r. poz. 106, 138, 317, 398, 650 i 685. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1292, 1321, 1428, 1543, 2371 i 2494 oraz z 2018 r. poz. 107, 138, 650 i 730. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697, 730 i 771.
 

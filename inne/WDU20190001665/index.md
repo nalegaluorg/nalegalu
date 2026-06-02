@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Energiiz dnia 30 sierpnia 2019 r. w sprawie rodzajów programów i projektów przeznaczonych do realizacji w ramach Krajowego systemu zielonych inwestycji
+# Rozporządzenie Ministra Energiiz dnia 30 sierpnia 2019 r. w sprawie rodzajów programów i projektów przeznaczonych do realizacji w ramach Krajowego systemu zielonych inwestycji Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-30 |
 | Data wydania | 2019-08-30 |
-| Wejście w życie | 2019-08-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001665) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1665/text.pdf) |
 
@@ -35,7 +34,7 @@ Określa się następujące rodzaje programów i projektów w obszarze:
 1)
 wykorzystania odnawialnych źródeł energii:
 a)
-budowa, rozbudowa, przebudowa lub modernizacja instalacji odnawialnego źródła energii w rozumieniu art. 2 pkt 13 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2018 r. poz. 2389, z późn. zm.), zwanej dalej „instalacją odnawialnego źródła energii”, wraz z infrastrukturą niezbędną do jej funkcjonowania, w tym instalacji odnawialnego źródła energii odbiorcy końcowego, o którym mowa w art. 2 pkt 27a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, oraz instalacji odnawialnego źródła energii stanowiącej własność spółdzielni energetycznej w rozumieniu art. 2 pkt 33a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, lub jej członków,
+budowa, rozbudowa, przebudowa lub modernizacja instalacji odnawialnego źródła energii w rozumieniu art. 2 pkt 13 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2018 r. poz. 2389, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 oraz z 2019 r. poz. 42, 60, 730, 1495 i 1524.), zwanej dalej „instalacją odnawialnego źródła energii”, wraz z infrastrukturą niezbędną do jej funkcjonowania, w tym instalacji odnawialnego źródła energii odbiorcy końcowego, o którym mowa w art. 2 pkt 27a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, oraz instalacji odnawialnego źródła energii stanowiącej własność spółdzielni energetycznej w rozumieniu art. 2 pkt 33a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, lub jej członków,
 b)
 rozwój i wykorzystanie technologii lub narzędzi informatycznych służących stabilnej, przewidywalnej i efektywnej współpracy instalacji odnawialnego źródła energii z siecią elektroenergetyczną, gazową lub ciepłowniczą;
 2)
@@ -49,7 +48,7 @@ dostosowanie istniejących jednostek kogeneracji do niskoemisyjnej i elastycznej
 3)
 inwestycji realizowanych przez operatora systemu dystrybucyjnego:
 a)
-budowa, rozbudowa, przebudowa lub modernizacja sieci w rozumieniu art. 3 pkt 11 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm.), w szczególności w celu umożliwienia przyłączenia do sieci nowych odbiorców, a także instalacji odnawialnego źródła energii, źródeł niskoemisyjnych lub jednostek kogeneracji,
+budowa, rozbudowa, przebudowa lub modernizacja sieci w rozumieniu art. 3 pkt 11 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524 i 1556.), w szczególności w celu umożliwienia przyłączenia do sieci nowych odbiorców, a także instalacji odnawialnego źródła energii, źródeł niskoemisyjnych lub jednostek kogeneracji,
 b)
 modernizacja lub odtworzenie istniejących sieci w rozumieniu art. 3 pkt 11 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, związana z poprawą jakości lub niezawodności pracy sieci lub świadczenia usług dystrybucji,
 c)
@@ -80,6 +79,5 @@ rozwój i wykorzystanie technologii lub narzędzi informatycznych:
 – w celu efektywnego zarządzania pracą i optymalizacji pracy magazynów energii,
 – w ramach instalacji obejmujących i integrujących rozproszone jednostki wytwórcze, magazyny energii i inne elementy infrastruktury niezbędnej do ich funkcjonowania.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 oraz z 2019 r. poz. 42, 60, 730, 1495 i 1524. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524 i 1556.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 oraz z 2019 r. poz. 42, 60, 730, 1495 i 1524. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524 i 1556.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Finansówz dnia 2 października 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów, Inwestycji i Rozwoju w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentów
+# Obwieszczenie Ministra Finansówz dnia 2 października 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów, Inwestycji i Rozwoju w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentów Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -26,24 +26,22 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001589) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1589/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentów Rozdział 1 – Przepisy ogólne Rozdział 2 – Promowanie świadczonych usług oraz kontakty z klientami Rozdział 3 – Sposób postępowania w zakresie konfliktu interesów Rozdział 4 – Warunki techniczne i organizacyjne prowadzenia działalności Rozdział 5 – Tryb i warunki prowadzenia działalności w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa lub tytułów uczestnictwa funduszy oraz nieodpłatnego doradztwa inwestycyjnego Rozdział 6 – Tryb i warunki postępowania w zakresie przyjmowania lub przekazywania jakichkolwiek świadczeń pieniężnych lub niepieniężnych w związku z działalnością, o której mowa w art. 32 ust. 2 i 2b ustawy Rozdział 7 – Szczegółowe kryteria w zakresie spełniania przez pracowników wymogów posiadania odpowiedniej wiedzy i kompetencji oraz tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji wiedzy i kompetencji oraz utrzymywania i doskonalenia wiedzy i kompetencji tych osób Rozdział 8 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentów
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentów (Dz. U. z 2021 r. poz. 1266), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 29 czerwca 2023 r. zmieniającym rozporządzenie w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentów (Dz. U. poz. 1315).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów z dnia 29 czerwca 2023 r. zmieniającego rozporządzenie w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentów (Dz. U. poz. 1315), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów z dnia 29 czerwca 2023 r. zmieniającego rozporządzenie w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentów (Dz. U. poz. 1315), które stanowią: „
 § 2.
 1.
 Podmioty świadczące usługi pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa lub tytułów uczestnictwa przed dniem wejścia w życie niniejszego rozporządzenia są obowiązane do dostosowania prowadzonej działalności do przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 2.
 Przepisy § 31 ust. 7a, 7b i ust. 8 pkt 5 oraz § 32 ust. 1 i 3 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się również w odniesieniu do jednostek uczestnictwa i tytułów uczestnictwa funduszy inwestycyjnych otwartych, specjalistycznych funduszy inwestycyjnych otwartych, funduszy zagranicznych oraz funduszy inwestycyjnych otwartych z siedzibą w państwie należącym do Europejskiego Obszaru Gospodarczego zbywanych po terminie na dostosowanie, o którym mowa w ust. 1, w ramach umów zawartych z tymi funduszami przed tym terminem.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
-Załącznik – Rozporządzenie Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentów
-Na podstawie art. 32a ust. 9 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Załącznik – Rozporządzenie Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentówNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – instytucje finansowe kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającą dyrektywę 2002/92/WE i dyrektywę 2011/61/UE (Dz. Urz. UE L 173 z 12.06.2014, str. 349, Dz. Urz. UE L 257 z 28.08.2014, str. 1, Dz. Urz. UE L 175 z 30.06.2016, str. 8, Dz. Urz. UE L 188 z 13.07.2016, str. 28, Dz. Urz. UE L 273 z 08.10.2016, str. 35, Dz. Urz. UE L 64 z 10.03.2017, str. 116 oraz Dz. Urz. UE L 231 z 14.09.2018, str. 39). Na podstawie art. 32a ust. 9 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -60,8 +58,8 @@ tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania
 Ilekroć w rozporządzeniu jest mowa o:
 1)
 autoryzowanych pracownikach – rozumie się przez to osoby upoważnione przez podmiot do wykonywania czynności, o których mowa w art. 32 ust. 2 i 2b ustawy, posiadające odpowiednią wiedzę i kompetencje;
-1a)
-czynnikach zrównoważonego rozwoju – rozumie się przez to czynniki, o których mowa w art. 2 pkt 24 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2088 z dnia 27 listopada 2019 r. w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usług finansowych (Dz. Urz. UE L 317 z 09.12.2019, str. 1, z późn. zm.);
+1aDodany przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 29 czerwca 2023 r. zmieniającego rozporządzenie w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentów (Dz. U. poz. 1315), które weszło w życie z dniem 26 lipca 2023 r.)
+czynnikach zrównoważonego rozwoju – rozumie się przez to czynniki, o których mowa w art. 2 pkt 24 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2088 z dnia 27 listopada 2019 r. w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usług finansowych (Dz. Urz. UE L 317 z 09.12.2019, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 198 z 22.06.2020, str. 13, Dz. Urz. UE L 48 z 11.02.2021, str. 10, Dz. Urz. UE L 196 z 25.07.2022, str. 1 oraz Dz. Urz. UE L 2023/2869 z 20.12.2023.;
 2)
 funduszu – rozumie się przez to fundusz inwestycyjny otwarty, specjalistyczny fundusz inwestycyjny otwarty, fundusz zagraniczny oraz fundusz inwestycyjny otwarty z siedzibą w państwie należącym do Europejskiego Obszaru Gospodarczego;
 3)
@@ -91,9 +89,9 @@ w przypadku osoby fizycznej – jego współmałżonka, krewnych i powinowatych 
 9)
 podmiocie – rozumie się przez to podmiot, o którym mowa w art. 32 ust. 2 ustawy;
 10)
-rozporządzeniu 2017/565 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2017/565 z dnia 25 kwietnia 2016 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do wymogów organizacyjnych i warunków prowadzenia działalności przez firmy inwestycyjne oraz pojęć zdefiniowanych na potrzeby tej dyrektywy (Dz. Urz. UE L 87 z 31.03.2017, str. 1, z późn. zm.);
+rozporządzeniu 2017/565 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2017/565 z dnia 25 kwietnia 2016 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do wymogów organizacyjnych i warunków prowadzenia działalności przez firmy inwestycyjne oraz pojęć zdefiniowanych na potrzeby tej dyrektywy (Dz. Urz. UE L 87 z 31.03.2017, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 246 z 26.09.2017, str. 12, Dz. Urz. UE L 329 z 13.12.2017, str. 4, Dz. Urz. UE L 113 z 29.04.2019, str. 18, Dz. Urz. UE L 165 z 21.06.2019, str. 1, Dz. Urz. UE L 190 z 16.07.2019, str. 18, Dz. Urz. UE L 106 z 26.03.2021, str. 30 oraz Dz. Urz. UE L 277 z 02.08.2021, str. 1 i 6.;
 11)
-rozporządzeniu 1286/2014 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1, z późn. zm.);
+rozporządzeniu 1286/2014 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 358 z 13.12.2014, str. 50, Dz. Urz. UE L 354 z 23.12.2016, str. 35, Dz. Urz. UE L 40 z 12.02.2019, str. 109, Dz. Urz. UE L 188 z 12.07.2019, str. 55, Dz. Urz. UE L 455 z 20.12.2021, str. 1, Dz. Urz. UE L 2023/2869 z 20.12.2023 oraz Dz. Urz. UE L 2024/90447 z 24.07.2024.;
 12)
 strategii dystrybucji – rozumie się przez to zamierzony przez podmiot sposób, w jaki jednostki uczestnictwa lub tytuły uczestnictwa funduszy mogą być nabyte przez grupę docelową;
 13)
@@ -106,6 +104,7 @@ nieodpłatnego doradztwa inwestycyjnego;
 wiedzy – rozumie się przez to w przypadku osób, o których mowa w art. 32a ust. 3a ustawy, wiedzę z zakresu określonego odpowiednio w § 44 ust. 1 lub 2;
 15)
 zleceniu – rozumie się przez to zlecenie nabycia lub odkupienia jednostek uczestnictwa lub tytułów uczestnictwa funduszy, dyspozycję lub inne oświadczenia woli związane z uczestnictwem w funduszu.
+Promowanie świadczonych usług oraz kontakty z klientami
 § 3.
 1.
 Podmiot może, na wniosek klienta profesjonalnego, złożony w formie pisemnej albo w postaci elektronicznej, oraz w zakresie określonym w takim wniosku albo mimo braku takiego wniosku, na podstawie regulaminu, traktować klienta profesjonalnego jak klienta detalicznego.
@@ -258,6 +257,7 @@ wyeksponowanie cechy dużej zmienności wartości aktywów netto danego funduszu
 jeżeli fundusz lokuje większość aktywów w inne kategorie lokat niż papiery wartościowe lub instrumenty rynku pieniężnego albo odzwierciedla skład indeksu papierów wartościowych – wyeksponowane stwierdzenie wskazujące na tę cechę;
 5)
 informację o ryzyku walutowym, w przypadku gdy wpłata i wypłata środków następuje w walucie obcej lub gdy większość aktywów danego funduszu jest lokowana za granicą.
+Sposób postępowania w zakresie konfliktu interesów
 § 13.
 1.
 Podmiot jest obowiązany zapobiegać powstawaniu konfliktów interesów, w szczególności poprzez zapewnienie odpowiedniej struktury organizacyjnej, a w przypadku powstania konfliktu interesów – zapewniać ochronę interesów klientów lub potencjalnych klientów podmiotu przed jego szkodliwym wpływem.
@@ -283,6 +283,7 @@ Przed przyjęciem pierwszego zlecenia lub rozpoczęciem świadczenia usługi nie
 W przypadku powstania konfliktu interesów po przyjęciu pierwszego zlecenia lub rozpoczęciu świadczenia usługi nieodpłatnego doradztwa inwestycyjnego ust. 5 stosuje się odpowiednio, z tym że podmiot jest obowiązany poinformować klienta o konflikcie interesów niezwłocznie po jego stwierdzeniu.
 § 14.
 W ramach środków i procedur zarządzania konfliktami interesów należy zapewnić pracownikom podmiotu niezależność w świadczeniu usług, z uwzględnieniem zakresu i rodzaju działalności prowadzonej przez podmiot lub podmioty z grupy kapitałowej, do której należy podmiot, oraz możliwego stopnia naruszenia interesów klientów.
+Warunki techniczne i organizacyjne prowadzenia działalności
 § 15.
 1.
 Podmiot opracowuje i wdraża system kontroli wewnętrznej służący zapewnieniu zgodności działalności podmiotu oraz osób działających na jego rzecz z obowiązującymi przepisami prawa oraz procedurami i regulaminami wewnętrznymi obowiązującymi w podmiocie.
@@ -449,6 +450,7 @@ Podmiot zapewnia, aby w miejscach, w których jest prowadzona przez niego dział
 W pomieszczeniu, w którym jest prowadzona działalność, powinno znajdować się wyodrębnione miejsce umożliwiające klientom złożenie zlecenia z zachowaniem poufności.
 3.
 Pomieszczenia, w których jest prowadzona działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa lub tytułów uczestnictwa funduszy, powinny być zabezpieczone przed niekontrolowanym dostępem osób nieuprawnionych.
+Tryb i warunki prowadzenia działalności w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa lub tytułów uczestnictwa funduszy oraz nieodpłatnego doradztwa inwestycyjnego
 § 26.
 1.
 Podmiot świadczy usługi na podstawie regulaminu, który określa sposób i warunki świadczenia usług, w szczególności:
@@ -560,9 +562,9 @@ Podmiot, pośrednicząc w zbywaniu i odkupywaniu jednostek uczestnictwa lub tytu
 W przypadku funduszu z różnymi kategoriami jednostek uczestnictwa lub tytułów uczestnictwa podmiot określa grupę docelową w odniesieniu do każdej kategorii jednostek uczestnictwa lub tytułów uczestnictwa tego funduszu.
 7.
 W ramach procesu, o którym mowa w ust. 2, podmiot określa także wszystkie grupy klientów, których potrzebom, cechom i celom dane jednostki uczestnictwa lub tytuły uczestnictwa nie odpowiadają, ustalając w ten sposób negatywną grupę docelową.
-7a.
+7aDodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3..
 Podmiot, określając negatywną grupę docelową, nie bierze pod uwagę kryteriów obejmujących czynniki zrównoważonego rozwoju.
-7b.
+7bDodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3..
 W przypadku jednostek uczestnictwa lub tytułów uczestnictwa uwzględniających czynniki zrównoważonego rozwoju podmiot uznaje, że odpowiadają one celom i potrzebom inwestycyjnym również tych klientów docelowych, których cele i potrzeby inwestycyjne nie są związane ze zrównoważonym rozwojem pod warunkiem, że ich pozostałe cele i potrzeby inwestycyjne są spełnione przez te jednostki uczestnictwa lub tytuły uczestnictwa.
 8.
 Podmiot przy określaniu grupy docelowej bierze pod uwagę kryteria obejmujące co najmniej:
@@ -584,7 +586,7 @@ b)
 określenia przez podmiot ogólnego podejścia klienta docelowego do ryzyka związanego z inwestycją w instrumenty finansowe poprzez przypisanie klienta docelowego do kategorii, o których mowa w lit. a,
 c)
 zastosowania w stosownych przypadkach wskaźnika syntetycznego przewidzianego w rozporządzeniu Komisji (UE) nr 583/2010 z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie kluczowych informacji dla inwestorów i warunków, które należy spełnić w przypadku dostarczania kluczowych informacji dla inwestorów lub prospektu emisyjnego na trwałym nośniku innym niż papier lub za pośrednictwem strony internetowej (Dz. Urz. UE L 176 z 10.07.2010, str. 1) lub ogólnego wskaźnika ryzyka przewidzianego w rozporządzeniu 1286/2014;
-5)
+5Ze zmianą wprowadzoną przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3.)
 cele inwestycyjne, w tym cele inwestycyjne związane z czynnikami zrównoważonego rozwoju, i potrzeby inwestycyjne klientów, które mają być zaspokojone przez dany instrument finansowy, z uwzględnieniem ogólnej strategii inwestycyjnej klienta docelowego, obejmującej w szczególności horyzont czasowy inwestycji, przy czym cele i potrzeby klienta mogą zostać uszczegółowione poprzez określenie konkretnych aspektów inwestycji oraz oczekiwań klientów docelowych w odniesieniu do tych aspektów szczegółowych.
 9.
 Podmiot określa grupę docelową w sposób odpowiedni i proporcjonalny, z uwzględnieniem charakteru funduszu, w którego zbywaniu i odkupywaniu jednostek uczestnictwa lub tytułów uczestnictwa pośredniczy, uwzględniając także koszty ponoszone przez ten fundusz oraz strukturę opłat ponoszonych w związku z nabyciem lub odkupieniem jednostek uczestnictwa lub tytułów uczestnictwa funduszy.
@@ -635,11 +637,11 @@ Przez nieskomplikowane jednostki uczestnictwa lub tytuły uczestnictwa rozumie s
 20.
 Przez publicznie dostępne informacje rozumie się informacje, które są jasne, wiarygodne i przedstawione w celu wypełnienia przez fundusz obowiązków wynikających z przepisów prawa.
 § 32.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 3..
 Podmiot wdraża odpowiednie rozwiązania w celu zapewnienia zgodności jednostek uczestnictwa i tytułów uczestnictwa, w których zbywaniu i odkupywaniu pośredniczy, z potrzebami, cechami i celami określonej grupy docelowej, a w przypadku gdy jednostka uczestnictwa lub tytuł uczestnictwa uwzględnia czynniki zrównoważonego rozwoju – również z celami związanymi ze zrównoważonym rozwojem, a także zgodności zamierzonej strategii dystrybucji z określoną grupą docelową.
 2.
 Podmiot określa i ocenia sytuację i potrzeby klientów, dla których zamierza świadczyć usługi, tak aby zapewnić, aby interesy klientów nie zostały naruszone w wyniku nacisków handlowych lub finansowych. W tym celu podmiot określa wszystkie grupy klientów, z których potrzebami, cechami i celami instrument finansowy lub usługa nie są zgodne, ustalając w ten sposób negatywną grupę docelową.
-3.
+3Ze zmianą wprowadzoną przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 W procesie ustalania negatywnej grupy docelowej podmiot stosuje odpowiednio przepisy § 31 ust. 6 i 7b-13.
 4.
 W przypadku gdy ze względu na specyficzne cechy określonej przez podmiot grupy docelowej klienci należący do tej grupy będą posiadali automatycznie cechy przeciwstawne, podmiot może ustalić negatywną grupę docelową poprzez stwierdzenie, że dany instrument finansowy nie odpowiada żadnemu klientowi poza grupą docelową.
@@ -721,6 +723,7 @@ klient wyraził zgodę na przekazanie raportu odpowiedniości po przyjęciu zlec
 podmiot poinformował klienta o możliwości odłożenia momentu przekazania zlecenia do czasu przekazania raportu, o którym mowa w ust. 1, na trwałym nośniku informacji.
 3.
 Podmiot, zgodnie z art. 54 i art. 55 rozporządzenia 2017/565, na podstawie informacji, o których mowa w § 37 ust. 1, dokonuje oceny odpowiedniości usługi lub instrumentu finansowego będącego jej przedmiotem oraz sporządza raport, o którym mowa w ust. 1.
+Tryb i warunki postępowania w zakresie przyjmowania lub przekazywania jakichkolwiek świadczeń pieniężnych lub niepieniężnych w związku z działalnością, o której mowa w art. 32 ust. 2 i 2b ustawy
 § 39.
 1.
 Świadczenia pieniężne, w tym opłaty i prowizje, lub świadczenie niepieniężne uznaje się za mające na celu poprawienie jakości usługi świadczonej przez podmiot na rzecz klienta lub potencjalnego klienta, jeżeli:
@@ -770,6 +773,7 @@ Jeżeli przed rozpoczęciem świadczenia usług wysokość świadczeń pienięż
 Przez okres, w którym podmiot przyjmuje lub przekazuje świadczenia pieniężne, w tym opłaty i prowizje, lub świadczenia niepieniężne, podmiot, co najmniej raz do roku, informuje indywidualnie klientów o faktycznych kwotach przyjętych lub przekazanych świadczeń pieniężnych, w tym opłat i prowizji, lub świadczeń niepieniężnych, w sposób przyjęty w regulaminie, o którym mowa w § 26 ust. 1, przy czym drobne świadczenia niepieniężne można opisać w sposób ogólny.
 5.
 W przypadku gdy po rozpoczęciu świadczenia usług podmiot zamierza przyjmować lub przekazywać świadczenia pieniężne, w tym opłaty i prowizje, lub świadczenia niepieniężne, podmiot przekazuje klientowi informacje, o których mowa w ust. 2, oraz w odpowiednich przypadkach informacje, o których mowa w ust. 3, przed rozpoczęciem przyjmowania lub przekazywania tychże świadczeń, a ponadto przekazuje informacje, o których mowa w ust. 4.
+Szczegółowe kryteria w zakresie spełniania przez pracowników wymogów posiadania odpowiedniej wiedzy i kompetencji oraz tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji wiedzy i kompetencji oraz utrzymywania i doskonalenia wiedzy i kompetencji tych osób
 § 42.
 1.
 Podmiot jest obowiązany zapewnić, aby autoryzowani pracownicy posiadali adekwatny do zakresu i charakteru wykonywanych czynności poziom wiedzy i kompetencji pozwalający na przestrzeganie właściwych wymogów prawnych, zaleceń właściwego organu nadzoru, standardów etycznych oraz działanie zgodne z zasadami uczciwego obrotu oraz w najlepiej pojętym interesie klienta.
@@ -889,6 +893,7 @@ wyłącznie dystrybuują materiały promocyjne i reklamowe dotyczące usług św
 wyłącznie przekazują na żądanie klienta lub potencjalnego klienta dokumenty dotyczące usług świadczonych przez podmiot lub instrumentów finansowych będących ich przedmiotem, lub
 4)
 nie wykonują czynności stanowiących przedmiot usługi i nie mają bezpośredniego kontaktu z klientem lub potencjalnym klientem, w tym telefonicznie lub przez wykorzystywanie elektronicznych kanałów komunikacji.
+Przepisy przejściowe i końcowe
 § 52.
 1.
 Podmioty świadczące usługi pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa lub tytułów uczestnictwa przed dniem wejścia w życie niniejszego rozporządzenia są obowiązane dostosować prowadzoną działalność do wymogów określonych w niniejszym rozporządzeniu w terminie 8 miesięcy od dnia jego wejścia w życie, z zastrzeżeniem ust. 2.
@@ -899,22 +904,37 @@ Klientów, którzy przed dniem wejścia w życie niniejszego rozporządzenia byl
 § 54.
 Dana osoba spełnia warunki określone w § 44 ust. 1 lub 2, jeżeli przed dniem wejścia w życie niniejszego rozporządzenia otrzymała potwierdzenie wiedzy w zakresie określonym odpowiednio w § 44 ust. 1 lub 2, pod warunkiem że potwierdzenie wiedzy odbyło się na zasadach określonych w § 45 ust. 2 i 3.
 § 55.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – instytucje finansowe kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającą dyrektywę 2002/92/WE i dyrektywę 2011/61/UE (Dz. Urz. UE L 173 z 12.06.2014, str. 349, Dz. Urz. UE L 257 z 28.08.2014, str. 1, Dz. Urz. UE L 175 z 30.06.2016, str. 8, Dz. Urz. UE L 188 z 13.07.2016, str. 28, Dz. Urz. UE L 273 z 08.10.2016, str. 35, Dz. Urz. UE L 64 z 10.03.2017, str. 116 oraz Dz. Urz. UE L 231 z 14.09.2018, str. 39). 3) Dodany przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 29 czerwca 2023 r. zmieniającego rozporządzenie w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentów (Dz. U. poz. 1315), które weszło w życie z dniem 26 lipca 2023 r. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 198 z 22.06.2020, str. 13, Dz. Urz. UE L 48 z 11.02.2021, str. 10, Dz. Urz. UE L 196 z 25.07.2022, str. 1 oraz Dz. Urz. UE L 2023/2869 z 20.12.2023. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 246 z 26.09.2017, str. 12, Dz. Urz. UE L 329 z 13.12.2017, str. 4, Dz. Urz. UE L 113 z 29.04.2019, str. 18, Dz. Urz. UE L 165 z 21.06.2019, str. 1, Dz. Urz. UE L 190 z 16.07.2019, str. 18, Dz. Urz. UE L 106 z 26.03.2021, str. 30 oraz Dz. Urz. UE L 277 z 02.08.2021, str. 1 i 6. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 358 z 13.12.2014, str. 50, Dz. Urz. UE L 354 z 23.12.2016, str. 35, Dz. Urz. UE L 40 z 12.02.2019, str. 109, Dz. Urz. UE L 188 z 12.07.2019, str. 55, Dz. Urz. UE L 455 z 20.12.2021, str. 1, Dz. Urz. UE L 2023/2869 z 20.12.2023 oraz Dz. Urz. UE L 2024/90447 z 24.07.2024. 7) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 8) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 9) Ze zmianą wprowadzoną przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 3. 10) Ze zmianą wprowadzoną przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 3. 11) Rozporządzenie zostało ogłoszone w dniu 31 października 2019 r. 12) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 23 marca 2017 r. w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentów (Dz. U. poz. 769), które utraciło moc z dniem 22 kwietnia 2019 r. zgodnie z art. 34 pkt 2 ustawy z dnia 1 marca 2018 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw (Dz. U. poz. 685).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 31 października 2019 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 23 marca 2017 r. w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentów (Dz. U. poz. 769), które utraciło moc z dniem 22 kwietnia 2019 r. zgodnie z art. 34 pkt 2 ustawy z dnia 1 marca 2018 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw (Dz. U. poz. 685). 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – instytucje finansowe kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającą dyrektywę 2002/92/WE i dyrektywę 2011/61/UE (Dz. Urz. UE L 173 z 12.06.2014, str. 349, Dz. Urz. UE L 257 z 28.08.2014, str. 1, Dz. Urz. UE L 175 z 30.06.2016, str. 8, Dz. Urz. UE L 188 z 13.07.2016, str. 28, Dz. Urz. UE L 273 z 08.10.2016, str. 35, Dz. Urz. UE L 64 z 10.03.2017, str. 116 oraz Dz. Urz. UE L 231 z 14.09.2018, str. 39). 3) Dodany przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 29 czerwca 2023 r. zmieniającego rozporządzenie w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentów (Dz. U. poz. 1315), które weszło w życie z dniem 26 lipca 2023 r. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 198 z 22.06.2020, str. 13, Dz. Urz. UE L 48 z 11.02.2021, str. 10, Dz. Urz. UE L 196 z 25.07.2022, str. 1 oraz Dz. Urz. UE L 2023/2869 z 20.12.2023. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 246 z 26.09.2017, str. 12, Dz. Urz. UE L 329 z 13.12.2017, str. 4, Dz. Urz. UE L 113 z 29.04.2019, str. 18, Dz. Urz. UE L 165 z 21.06.2019, str. 1, Dz. Urz. UE L 190 z 16.07.2019, str. 18, Dz. Urz. UE L 106 z 26.03.2021, str. 30 oraz Dz. Urz. UE L 277 z 02.08.2021, str. 1 i 6. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 358 z 13.12.2014, str. 50, Dz. Urz. UE L 354 z 23.12.2016, str. 35, Dz. Urz. UE L 40 z 12.02.2019, str. 109, Dz. Urz. UE L 188 z 12.07.2019, str. 55, Dz. Urz. UE L 455 z 20.12.2021, str. 1, Dz. Urz. UE L 2023/2869 z 20.12.2023 oraz Dz. Urz. UE L 2024/90447 z 24.07.2024. 7) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 8) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 9) Ze zmianą wprowadzoną przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 3. 10) Ze zmianą wprowadzoną przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 3. 11) Rozporządzenie zostało ogłoszone w dniu 31 października 2019 r. 12) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 23 marca 2017 r. w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentów (Dz. U. poz. 769), które utraciło moc z dniem 22 kwietnia 2019 r. zgodnie z art. 34 pkt 2 ustawy z dnia 1 marca 2018 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw (Dz. U. poz. 685).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Promowanie świadczonych usług oraz kontakty z klientami
+#### Rozdział 2 – Promowanie świadczonych usług oraz kontakty z klientami
 
-#### Rozdział 3 Sposób postępowania w zakresie konfliktu interesów
+#### Rozdział 3 – Sposób postępowania w zakresie konfliktu interesów
 
-#### Rozdział 4 Warunki techniczne i organizacyjne prowadzenia działalności
+#### Rozdział 4 – Warunki techniczne i organizacyjne prowadzenia działalności
 
-#### Rozdział 5 Tryb i warunki prowadzenia działalności w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa lub tytułów uczestnictwa funduszy oraz nieodpłatnego doradztwa inwestycyjnego
+#### Rozdział 5 – Tryb i warunki prowadzenia działalności w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa lub tytułów uczestnictwa funduszy oraz nieodpłatnego doradztwa inwestycyjnego
 
-#### Rozdział 6 Tryb i warunki postępowania w zakresie przyjmowania lub przekazywania jakichkolwiek świadczeń pieniężnych lub niepieniężnych w związku z działalnością, o której mowa w art. 32 ust. 2 i 2b ustawy
+#### Rozdział 6 – Tryb i warunki postępowania w zakresie przyjmowania lub przekazywania jakichkolwiek świadczeń pieniężnych lub niepieniężnych w związku z działalnością, o której mowa w art. 32 ust. 2 i 2b ustawy
 
-#### Rozdział 7 Szczegółowe kryteria w zakresie spełniania przez pracowników wymogów posiadania odpowiedniej wiedzy i kompetencji oraz tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji wiedzy i kompetencji oraz utrzymywania i doskonalenia wiedzy i kompetencji tych osób
+#### Rozdział 7 – Szczegółowe kryteria w zakresie spełniania przez pracowników wymogów posiadania odpowiedniej wiedzy i kompetencji oraz tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji wiedzy i kompetencji oraz utrzymywania i doskonalenia wiedzy i kompetencji tych osób
 
-#### Rozdział 8 Przepisy przejściowe i końcowe
+#### Rozdział 8 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

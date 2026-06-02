@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych
+# Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych (Dz. Urz. UE L 276 z 20.10.2010, str. 33 oraz Dz. Urz. UE L 170 z 25.06.2019, str. 115).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-17 |
 | Data wydania | 2021-12-17 |
-| Wejście w życie | 2022-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002338) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2338/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych (Dz. U. z 2021 r. poz. 1331) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: w ust. 1: – w pkt 2: – – w lit. a wyrazy „świnka morska” zastępuje się wyrazami „kawia domowa”, – – w lit. b po wyrazach „w niewoli” dodaje się wyrazy „albo pozyskiwane z kolonii samowystarczalnych”, – – uchyla się lit. c, – pkt 9 otrzymuje brzmienie: „ 9) hodowca – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która hoduje zwierzęta laboratoryjne w celu wykorzystania ich w procedurach lub aby wykorzystać ich narządy lub tkanki do celów określonych w art. 3 lub która hoduje inne zwierzęta głównie w tych celach; ” , – w pkt 11: – – po wyrazach „w procedurach” dodaje się wyrazy „lub uśmierca zwierzęta, aby wykorzystać ich narządy lub tkanki do celów określonych w art. 3”, – – kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „ 12) kolonia samowystarczalna – kolonię, w której zwierzęta z rzędu naczelnych są hodowane wyłącznie w ramach kolonii lub są pozyskiwane z innych kolonii, ale nie są zwierzętami dzikimi, oraz w której zwierzęta są utrzymywane w sposób zapewniający ich przyzwyczajenie do ludzi. ” , uchyla się ust. 3;
+- **1)** w art. 2: w ust. 1: w pkt 2: – – w lit. a wyrazy „świnka morska” zastępuje się wyrazami „kawia domowa”, – – w lit. b po wyrazach „w niewoli” dodaje się wyrazy „albo pozyskiwane z kolonii samowystarczalnych”, – – uchyla się lit. c, pkt 9 otrzymuje brzmienie: „
     - **a)**
+
+- **9)** hodowca – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która hoduje zwierzęta laboratoryjne w celu wykorzystania ich w procedurach lub aby wykorzystać ich narządy lub tkanki do celów określonych w art. 3 lub która hoduje inne zwierzęta głównie w tych celach; ” , w pkt 11: – – po wyrazach „w procedurach” dodaje się wyrazy „lub uśmierca zwierzęta, aby wykorzystać ich narządy lub tkanki do celów określonych w art. 3”, – kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
+- **12)** kolonia samowystarczalna – kolonię, w której zwierzęta z rzędu naczelnych są hodowane wyłącznie w ramach kolonii lub są pozyskiwane z innych kolonii, ale nie są zwierzętami dzikimi, oraz w której zwierzęta są utrzymywane w sposób zapewniający ich przyzwyczajenie do ludzi. ” , uchyla się ust. 3;
     - **b)**
 
 - **2)** po art. 3 dodaje się art. 3a i art. 3b w brzmieniu: „
@@ -40,7 +42,7 @@ source: "eli-html"
 - **2)** zredukowanie do minimum liczby zwierząt wykorzystywanych w procedurach, bez uszczerbku dla celów tych procedur (zasada ograniczenia);
 - **3)** udoskonalenie hodowli zwierząt, ich utrzymywania, opieki nad nimi i metod stosowanych w procedurach tak, aby u zwierząt zostały wyeliminowane lub ograniczone do minimum potencjalne: ból, cierpienie, dystres lub trwałe uszkodzenie ich organizmu (zasada udoskonalenia).
 
-1. W przypadku konieczności uśmiercenia zwierzęcia przez hodowcę, dostawcę lub użytkownika zwierzę uśmierca osoba spełniająca wymagania określone w art. 20 ust. 2, wyłącznie z zastosowaniem metod określonych w załączniku nr IV do dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych (Dz. Urz. UE L 276 z 20.10.2010, str. 33, z późn. zm.).
+1. W przypadku konieczności uśmiercenia zwierzęcia przez hodowcę, dostawcę lub użytkownika zwierzę uśmierca osoba spełniająca wymagania określone w art. 20 ust. 2, wyłącznie z zastosowaniem metod określonych w załączniku nr IV do dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych (Dz. Urz. UE L 276 z 20.10.2010, str. 33, z późn. zm.)Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 170 z 25.06.2019, str. 115..
 
 2. Zwierzę uśmierca się w ośrodku. Zwierzę może zostać uśmiercone poza ośrodkiem jedynie wtedy, gdy procedura jest wykonywana poza ośrodkiem.
 
@@ -103,7 +105,7 @@ source: "eli-html"
 **Art. 16a.** Lokalna komisja etyczna do spraw doświadczeń na zwierzętach może, na podstawie uzasadnienia naukowego przedstawionego przez użytkownika, udzielić zgody na zastosowanie innej metody uśmiercenia zwierzęcia wykorzystywanego w procedurze niż metody:
 
 - **1)** określone w załączniku nr IV do dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych,
-- **2)** dopuszczone do stosowania zgodnie z art. 3b ust. 5 jeżeli cel procedury nie może zostać osiągnięty przez zastosowanie metod, o których mowa w pkt 1 i 2. ” ;
+- **2)** dopuszczone do stosowania zgodnie z art. 3b ust. 5 – jeżeli cel procedury nie może zostać osiągnięty przez zastosowanie metod, o których mowa w pkt 1 i 2. ” ;
 - **13)** w art. 17 w ust. 1 we wprowadzeniu do wyliczenia wyrazy „Podmiot prowadzący działalność w zakresie wykorzystywania zwierząt od celów naukowych lub edukacyjnych” zastępuje się wyrazami „Hodowca, dostawca i użytkownik”;
 - **14)** w art. 18: we wprowadzeniu do wyliczenia wyrazy „Podmiot prowadzący działalność w zakresie wykorzystywania zwierząt od celów naukowych lub edukacyjnych jako użytkownik” zastępuje się wyrazem „Użytkownik”, w pkt 2 lit. a otrzymuje brzmienie: „ zapewnić uzyskiwanie wiarygodnych wyników procedur z wykorzystaniem jak najmniejszej liczby zwierząt, ” ;
     - **a)**
@@ -116,7 +118,7 @@ source: "eli-html"
 
 - **1)** jakie musi spełniać ośrodek,
 - **2)** w zakresie opieki nad zwierzętami utrzymywanymi w ośrodku, w tym pozyskanymi zwierzętami dzikimi,
-- **3)** w zakresie transportu zwierząt dzikich biorąc pod uwagę potrzeby fizjologiczne i etologiczne gatunków zwierząt pozyskiwanych lub utrzymywanych w ośrodku oraz konieczność zapewnienia utrzymywanym w nim zwierzętom dobrostanu i prawidłowego stanu zdrowia, a także właściwych warunków opieki. ” ;
+- **3)** w zakresie transportu zwierząt dzikich – biorąc pod uwagę potrzeby fizjologiczne i etologiczne gatunków zwierząt pozyskiwanych lub utrzymywanych w ośrodku oraz konieczność zapewnienia utrzymywanym w nim zwierzętom dobrostanu i prawidłowego stanu zdrowia, a także właściwych warunków opieki. ” ;
 - **16)** w art. 20: dotychczasową treść oznacza się jako ust. 1 i we wprowadzeniu do wyliczenia wyrazy „Podmiot, o którym mowa w art. 17 ust. 1,” zastępuje się wyrazami „Hodowca, dostawca i użytkownik”, dodaje się ust. 2 w brzmieniu: „
     - **a)**
     - **b)**
@@ -144,7 +146,7 @@ source: "eli-html"
 3. Użytkownik wyznacza do uczestniczenia w wykonywaniu procedur osobę, która:
 
 - **1)** jest studentem albo doktorantem lub
-- **2)** wykonuje czynności techniczne związane z obsługą zwierząt i odbyła szkolenie w zakresie postępowania ze zwierzętami przeznaczonymi do wykorzystania lub wykorzystywanymi w procedurach. ” ;
+- **2)** wykonuje czynności techniczne związane z obsługą zwierząt – i odbyła szkolenie w zakresie postępowania ze zwierzętami przeznaczonymi do wykorzystania lub wykorzystywanymi w procedurach. ” ;
 - **18)** po art. 21 dodaje się art. 21a i art. 21b w brzmieniu: „
 
 1. Szkolenia, o których mowa w art. 20 ust. 1 pkt 2 i ust. 2 pkt 2, art. 21 oraz art. 24 ust. 2 pkt 2, można odbyć w państwie innym niż Rzeczpospolita Polska.
@@ -169,7 +171,7 @@ source: "eli-html"
 
 - **1)** zakres programów szkoleń i praktyk oraz zakres staży pracy, o których mowa w art. 20 ust. 1 pkt 2 i 3 oraz ust. 2 pkt 2 i 3, art. 21 oraz art. 24 ust. 2 pkt 2 i 3,
 - **2)** wzory dokumentów potwierdzających ukończenie szkolenia i praktyki oraz posiadany staż pracy, o których mowa w art. 20 ust. 1 pkt 2 i 3 oraz ust. 2 pkt 2 i 3, art. 21 oraz art. 24 ust. 2 pkt 2 i 3,
-- **3)** wzór dokumentu potwierdzającego zgodność programu szkolenia odbytego w państwie innym niż Rzeczpospolita Polska z zakresem, o którym mowa w pkt 1, a także uzupełnienie szkolenia w przypadku, o którym mowa w art. 21a ust. 3 mając na względzie potrzebę zapewnienia osobom, o których mowa w art. 20, art. 21 i art. 24 ust. 2, możliwości uzyskania wiedzy i umiejętności praktycznych niezbędnych do prawidłowego wykonywania czynności, o których mowa w art. 20 i art. 21, zadań, o których mowa w art. 24 ust. 1, a także potrzebę zapewnienia jednolitego dokumentowania ukończonych szkoleń i praktyk oraz posiadanego stażu pracy.
+- **3)** wzór dokumentu potwierdzającego zgodność programu szkolenia odbytego w państwie innym niż Rzeczpospolita Polska z zakresem, o którym mowa w pkt 1, a także uzupełnienie szkolenia w przypadku, o którym mowa w art. 21a ust. 3 – mając na względzie potrzebę zapewnienia osobom, o których mowa w art. 20, art. 21 i art. 24 ust. 2, możliwości uzyskania wiedzy i umiejętności praktycznych niezbędnych do prawidłowego wykonywania czynności, o których mowa w art. 20 i art. 21, zadań, o których mowa w art. 24 ust. 1, a także potrzebę zapewnienia jednolitego dokumentowania ukończonych szkoleń i praktyk oraz posiadanego stażu pracy.
 
 **Art. 23.** Hodowca, dostawca i użytkownik zawierają z lekarzem weterynarii umowę o świadczenie usług weterynaryjnych w rozumieniu art. 2 ust. 1 ustawy z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt lub, jeżeli jest to uzasadnione specyfiką działalności hodowcy, dostawcy lub użytkownika, w szczególności polegającą na przeprowadzaniu doświadczeń na zwierzętach dzikich, umowę o świadczenie usług doradczych w zakresie dobrostanu i leczenia zwierząt utrzymywanych lub wykorzystywanych w ramach działalności hodowcy, dostawcy lub użytkownika z ekspertem posiadającym doświadczenie niezbędne do świadczenia takich usług w odniesieniu do gatunków tych zwierząt.
 
@@ -243,7 +245,7 @@ source: "eli-html"
 - **23)** w art. 28: w ust. 1 pkt 2 otrzymuje brzmienie: „
     - **a)**
 
-- **2)** wykreśla hodowcę, dostawcę lub użytkownika z rejestru: na wniosek powiatowego lekarza weterynarii w terminie 14 dni od dnia otrzymania ostatecznej decyzji stwierdzającej: – niespełnianie wymagań do prowadzenia działalności objętej wpisem, wraz z wnioskiem o wykreślenie, o których mowa w art. 59 ust. 2, – rażące naruszenie wymagań określonych dla wykonywania danego rodzaju działalności objętej wpisem, wraz z wnioskiem o wykreślenie, o których mowa w art. 60a ust. 2, na wniosek hodowcy, dostawcy lub użytkownika – w przypadku zaprzestania wykonywania działalności objętej wpisem, z urzędu w przypadku: – uzyskania informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, Krajowego Rejestru Sądowego albo rejestru instytutów naukowych Polskiej Akademii Nauk o wykreśleniu z nich podmiotu, który był hodowcą, dostawcą lub użytkownikiem, – uzyskania od powiatowego lekarza weterynarii informacji o stwierdzeniu zaprzestania wykonywania działalności objętej wpisem w przypadku innym niż zawieszenie wykonywania tej działalności, – prawomocnego orzeczenia przez sąd zakazu na podstawie art. 35 ust. 4 lub 4a ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt, – prawomocnego orzeczenia przez sąd zakazu: – – zajmowania stanowiska, – – wykonywania zawodu, – – prowadzenia działalności gospodarczej – które są związane z wykorzystywaniem zwierząt lub oddziaływaniem na nie. ” , uchyla się ust. 2;
+- **2)** wykreśla hodowcę, dostawcę lub użytkownika z rejestru: na wniosek powiatowego lekarza weterynarii w terminie 14 dni od dnia otrzymania ostatecznej decyzji stwierdzającej: – niespełnianie wymagań do prowadzenia działalności objętej wpisem, wraz z wnioskiem o wykreślenie, o których mowa w art. 59 ust. 2, – rażące naruszenie wymagań określonych dla wykonywania danego rodzaju działalności objętej wpisem, wraz z wnioskiem o wykreślenie, o których mowa w art. 60a ust. 2, na wniosek hodowcy, dostawcy lub użytkownika – w przypadku zaprzestania wykonywania działalności objętej wpisem, z urzędu w przypadku: – uzyskania informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, Krajowego Rejestru Sądowego albo rejestru instytutów naukowych Polskiej Akademii Nauk o wykreśleniu z nich podmiotu, który był hodowcą, dostawcą lub użytkownikiem, – uzyskania od powiatowego lekarza weterynarii informacji o stwierdzeniu zaprzestania wykonywania działalności objętej wpisem w przypadku innym niż zawieszenie wykonywania tej działalności, – prawomocnego orzeczenia przez sąd zakazu na podstawie art. 35 ust. 4 lub 4a ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt, prawomocnego orzeczenia przez sąd zakazu: – – zajmowania stanowiska, – – wykonywania zawodu, – – prowadzenia działalności gospodarczej – które są związane z wykorzystywaniem zwierząt lub oddziaływaniem na nie. ” , uchyla się ust. 2;
     - **a)**
     - **b)**
     - **c)**
@@ -272,8 +274,13 @@ source: "eli-html"
 
 3. Komisja wskazuje ministrowi właściwemu do spraw szkolnictwa wyższego i nauki podmioty, o których mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, które będą zapewniały obsługę lokalnych komisji. Podmioty te są administratorami danych osobowych przetwarzanych przez lokalne komisje w związku z realizacją zadań. ” ;
 
-- **28)** w art. 33: w ust. 1: – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) przedstawianie ministrowi właściwemu do spraw szkolnictwa wyższego i nauki opinii w zakresie, o którym mowa w art. 70 ust. 2 pkt 2; ” , – pkt 7 i 8 otrzymują brzmienie: „ 7) przedstawianie organom administracji publicznej oraz osobie albo osobom, o których mowa w art. 25 ust. 1, opinii w sprawach związanych z pozyskiwaniem, hodowlą, utrzymywaniem i wykorzystywaniem w procedurach zwierząt oraz opieką nad tymi zwierzętami, a także zapewnianie wzajemnego udostępniania między tymi podmiotami dobrych praktyk w tym zakresie; 8) wymiana informacji z właściwymi organami innych państw członkowskich Unii Europejskiej w zakresie zadań należących do Komisji i lokalnych komisji oraz w zakresie dotyczącym wykonywania zadań określonych w art. 25 ust. 2, a także udostępniania dobrych praktyk w tym zakresie; ” , – dodaje się pkt 9 w brzmieniu: „ 9) ustanawianie odstępstw, o których mowa w art. 3b ust. 5. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **28)** w art. 33: w ust. 1: po pkt 3 dodaje się pkt 3a w brzmieniu: „
     - **a)**
+
+- **3a)** przedstawianie ministrowi właściwemu do spraw szkolnictwa wyższego i nauki opinii w zakresie, o którym mowa w art. 70 ust. 2 pkt 2; ” , pkt 7 i 8 otrzymują brzmienie: „
+- **7)** przedstawianie organom administracji publicznej oraz osobie albo osobom, o których mowa w art. 25 ust. 1, opinii w sprawach związanych z pozyskiwaniem, hodowlą, utrzymywaniem i wykorzystywaniem w procedurach zwierząt oraz opieką nad tymi zwierzętami, a także zapewnianie wzajemnego udostępniania między tymi podmiotami dobrych praktyk w tym zakresie;
+- **8)** wymiana informacji z właściwymi organami innych państw członkowskich Unii Europejskiej w zakresie zadań należących do Komisji i lokalnych komisji oraz w zakresie dotyczącym wykonywania zadań określonych w art. 25 ust. 2, a także udostępniania dobrych praktyk w tym zakresie; ” , dodaje się pkt 9 w brzmieniu: „
+- **9)** ustanawianie odstępstw, o których mowa w art. 3b ust. 5. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. W przypadku spraw, o których mowa w ust. 1 pkt 7, Komisja przedstawia lokalnej komisji opinie wyłącznie w tych sprawach, w których nie jest w stosunku do niej organem wyższego stopnia w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052), zwanej dalej „Kodeksem postępowania administracyjnego”. ” , ust. 2 otrzymuje brzmienie: „
@@ -327,9 +334,13 @@ source: "eli-html"
 
 2. Minister właściwy do spraw szkolnictwa wyższego i nauki jest administratorem danych osobowych przetwarzanych przez Komisję w związku z realizacją ustawowych zadań. ” ;
 
-- **31)** w art. 36: w ust. 1: – w pkt 1 w lit. a: – – tiret drugie otrzymuje brzmienie: „ – wykonanie procedury bez zastosowania znieczulenia ogólnego lub miejscowego, produktów leczniczych lub produktów leczniczych weterynaryjnych o działaniu przeciwbólowym lub innych metod, w szczególności środków uspokajających, zapewniających zmniejszenie do minimum bólu, cierpienia lub dystresu – w przypadku, o którym mowa w art. 13 ust. 3, ” , – – dodaje się tiret od piątego do ósmego w brzmieniu: „ – wykonanie procedury w miejscu innym niż ośrodek użytkownika – w przypadku, o którym mowa w art. 9 ust. 2 pkt 1, – wykonanie procedury w środowisku życia zwierzęcia dzikiego – w przypadku, o którym mowa w art. 9 ust. 2 pkt 2, – zastosowanie innej metody uśmiercenia zwierzęcia wykorzystywanego w procedurze niż metody określone w załączniku nr IV do dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych – w przypadku, o którym mowa w art. 16a, – niepodejmowanie czynności minimalizujących u zwierząt ból, cierpienie, dystres lub trwałe uszkodzenie ich organizmu – w przypadku, o którym mowa w art. 8 ust. 4, ” , – pkt 5 otrzymuje brzmienie: „ 5) przedkładanie Komisji Europejskiej nietechnicznych streszczeń doświadczeń i ich aktualizacji. ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) Komisji informacje o realizacji zadań lokalnej komisji, o których mowa w ust. 1; ” , – w pkt 2 skreśla się wyrazy „oraz Komisji”, po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **31)** w art. 36: w ust. 1: w pkt 1 w lit. a: – tiret drugie otrzymuje brzmienie: „ – wykonanie procedury bez zastosowania znieczulenia ogólnego lub miejscowego, produktów leczniczych lub produktów leczniczych weterynaryjnych o działaniu przeciwbólowym lub innych metod, w szczególności środków uspokajających, zapewniających zmniejszenie do minimum bólu, cierpienia lub dystresu – w przypadku, o którym mowa w art. 13 ust. 3, ” , – dodaje się tiret od piątego do ósmego w brzmieniu: „ – wykonanie procedury w miejscu innym niż ośrodek użytkownika – w przypadku, o którym mowa w art. 9 ust. 2 pkt 1, – wykonanie procedury w środowisku życia zwierzęcia dzikiego – w przypadku, o którym mowa w art. 9 ust. 2 pkt 2, – zastosowanie innej metody uśmiercenia zwierzęcia wykorzystywanego w procedurze niż metody określone w załączniku nr IV do dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych – w przypadku, o którym mowa w art. 16a, – niepodejmowanie czynności minimalizujących u zwierząt ból, cierpienie, dystres lub trwałe uszkodzenie ich organizmu – w przypadku, o którym mowa w art. 8 ust. 4, ” , pkt 5 otrzymuje brzmienie: „
     - **a)**
+
+- **5)** przedkładanie Komisji Europejskiej nietechnicznych streszczeń doświadczeń i ich aktualizacji. ” , w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **b)**
+
+- **1)** Komisji informacje o realizacji zadań lokalnej komisji, o których mowa w ust. 1; ” , – w pkt 2 skreśla się wyrazy „oraz Komisji”, po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **c)**
 
 2a. Lokalna komisja przedkłada Komisji Europejskiej nietechniczne streszczenia doświadczeń i ich aktualizacje zgodnie z art. 43 ust. 2–4 dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych oraz art. 53 ust. 4 pkt 2. ” , w ust. 4 po wyrazach „nietechnicznych streszczeń doświadczeń” dodaje się wyrazy „i ich aktualizacji”;
@@ -385,9 +396,14 @@ source: "eli-html"
 
 2. W przypadku doświadczenia przeprowadzanego w więcej niż jednym ośrodku lub poza ośrodkiem użytkownik składa wniosek do lokalnej komisji właściwej ze względu na lokalizację siedziby lub miejsca zamieszkania użytkownika, zatrudniającego osobę, która zaplanowała doświadczenie i jest odpowiedzialna za jego przeprowadzenie. ” ;
 
-- **38)** w art. 44: w ust. 1: – pkt 11 otrzymuje brzmienie: „ 11) uzasadnienie naukowe dla odstąpienia od zastosowania znieczulenia ogólnego lub miejscowego, produktów leczniczych lub produktów leczniczych weterynaryjnych o działaniu przeciwbólowym lub innych metod, w szczególności środków uspokajających, zapewniających zmniejszenie do minimum bólu, cierpienia lub dystresu – w przypadku, o którym mowa w art. 13 ust. 3; ” , – po pkt 14 dodaje się pkt 14a w brzmieniu: „ 14a) uzasadnienie naukowe wyboru metody uśmiercenia – w przypadku, o którym mowa w art. 16a; ” , w ust. 2 w pkt 1: – lit. a otrzymuje brzmienie: „ a) we wniosku podaje się imię i nazwisko oraz opis doświadczenia osoby, która pozyska te zwierzęta, oraz metody ich pozyskania, ” , – w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ c) do wniosku dołącza się uzasadnienie naukowe dla niepodejmowania czynności minimalizujących u zwierząt ból, cierpienie, dystres lub trwałe uszkodzenie ich organizmu – w przypadku, o którym mowa w art. 8 ust. 4; ” ;
+- **38)** w art. 44: w ust. 1: pkt 11 otrzymuje brzmienie: „
     - **a)**
+
+- **11)** uzasadnienie naukowe dla odstąpienia od zastosowania znieczulenia ogólnego lub miejscowego, produktów leczniczych lub produktów leczniczych weterynaryjnych o działaniu przeciwbólowym lub innych metod, w szczególności środków uspokajających, zapewniających zmniejszenie do minimum bólu, cierpienia lub dystresu – w przypadku, o którym mowa w art. 13 ust. 3; ” , po pkt 14 dodaje się pkt 14a w brzmieniu: „
+- **14a)** uzasadnienie naukowe wyboru metody uśmiercenia – w przypadku, o którym mowa w art. 16a; ” , w ust. 2 w pkt 1: lit. a otrzymuje brzmienie: „ we wniosku podaje się imię i nazwisko oraz opis doświadczenia osoby, która pozyska te zwierzęta, oraz metody ich pozyskania, ” , w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ do wniosku dołącza się uzasadnienie naukowe dla niepodejmowania czynności minimalizujących u zwierząt ból, cierpienie, dystres lub trwałe uszkodzenie ich organizmu – w przypadku, o którym mowa w art. 8 ust. 4; ” ;
     - **b)**
+    - **a)**
+    - **c)**
 
 - **39)** w art. 45: po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
@@ -550,9 +566,17 @@ source: "eli-html"
 3. Minister właściwy do spraw szkolnictwa wyższego i nauki corocznie określa oraz zamieszcza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej:
 
 - **1)** nie później niż przed rozpoczęciem okresu sprawozdawczego – szczegółowy zakres informacji, o których mowa w ust. 1,
-- **2)** nie później niż przed zakończeniem okresu sprawozdawczego – tryb przekazywania informacji, o których mowa w ust. 1, i wzory formularzy, na których te informacje będą przekazywane mając na uwadze potrzebę zapewnienia prawidłowości i kompletności informacji przekazywanych Komisji Europejskiej, a także przepisy wydane na podstawie art. 54 ust. 4 dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych. ” ;
-- **56)** w art. 69: w ust. 1: – pkt 4–7 otrzymują brzmienie: „ 4) wbrew obowiązkowi określonemu w art. 23 nie zawiera z lekarzem weterynarii umowy o świadczenie usług weterynaryjnych lub z ekspertem posiadającym doświadczenie niezbędne do świadczenia usług doradczych w zakresie dobrostanu i leczenia zwierząt utrzymywanych lub wykorzystywanych w ramach działalności hodowcy, dostawcy lub użytkownika umowy o świadczenie takich usług w odniesieniu do gatunków tych zwierząt; 5) wbrew obowiązkowi określonemu w art. 25 ust. 1 nie ustanawia zespołu do spraw dobrostanu zwierząt albo wyznacza do tego zespołu osobę niespełniającą albo osoby niespełniające wymagań określonych w art. 21 ust. 1 lub art. 24 ust. 2, albo z takimi osobami zawiera umowę o wykonywanie zadań w ramach zespołu; 6) nie zapewnia sporządzenia lub przekazania dokumentacji, o której mowa w art. 25 ust. 7; 7) nie przechowuje dokumentacji, o której mowa w art. 25 ust. 7, przez okres wskazany w art. 25 ust. 8 pkt 1; ” , – w pkt 9 na końcu kropkę zastępuje się średnikiem i dodaje się pkt 10–12 w brzmieniu: „ 10) wbrew obowiązkowi określonemu w art. 25 ust. 8 pkt 2 nie przekazuje Komisji informacji dotyczących wykonywania zadań określonych w art. 25 ust. 2; 11) wbrew obowiązkom określonym w art. 30 ust. 4 albo 5 nie przekazuje ministrowi właściwemu do spraw szkolnictwa wyższego i nauki informacji, o których mowa w tych przepisach; 12) uśmierca zwierzę niezgodnie z wymaganiami określonymi w art. 3b albo zgodą lokalnej komisji, o której mowa w art. 16a. ” , uchyla się ust. 2 i 3;
+- **2)** nie później niż przed zakończeniem okresu sprawozdawczego – tryb przekazywania informacji, o których mowa w ust. 1, i wzory formularzy, na których te informacje będą przekazywane – mając na uwadze potrzebę zapewnienia prawidłowości i kompletności informacji przekazywanych Komisji Europejskiej, a także przepisy wydane na podstawie art. 54 ust. 4 dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych. ” ;
+- **56)** w art. 69: w ust. 1: pkt 4–7 otrzymują brzmienie: „
     - **a)**
+
+- **4)** wbrew obowiązkowi określonemu w art. 23 nie zawiera z lekarzem weterynarii umowy o świadczenie usług weterynaryjnych lub z ekspertem posiadającym doświadczenie niezbędne do świadczenia usług doradczych w zakresie dobrostanu i leczenia zwierząt utrzymywanych lub wykorzystywanych w ramach działalności hodowcy, dostawcy lub użytkownika umowy o świadczenie takich usług w odniesieniu do gatunków tych zwierząt;
+- **5)** wbrew obowiązkowi określonemu w art. 25 ust. 1 nie ustanawia zespołu do spraw dobrostanu zwierząt albo wyznacza do tego zespołu osobę niespełniającą albo osoby niespełniające wymagań określonych w art. 21 ust. 1 lub art. 24 ust. 2, albo z takimi osobami zawiera umowę o wykonywanie zadań w ramach zespołu;
+- **6)** nie zapewnia sporządzenia lub przekazania dokumentacji, o której mowa w art. 25 ust. 7;
+- **7)** nie przechowuje dokumentacji, o której mowa w art. 25 ust. 7, przez okres wskazany w art. 25 ust. 8 pkt 1; ” , w pkt 9 na końcu kropkę zastępuje się średnikiem i dodaje się pkt 10–12 w brzmieniu: „
+- **10)** wbrew obowiązkowi określonemu w art. 25 ust. 8 pkt 2 nie przekazuje Komisji informacji dotyczących wykonywania zadań określonych w art. 25 ust. 2;
+- **11)** wbrew obowiązkom określonym w art. 30 ust. 4 albo 5 nie przekazuje ministrowi właściwemu do spraw szkolnictwa wyższego i nauki informacji, o których mowa w tych przepisach;
+- **12)** uśmierca zwierzę niezgodnie z wymaganiami określonymi w art. 3b albo zgodą lokalnej komisji, o której mowa w art. 16a. ” , uchyla się ust. 2 i 3;
     - **b)**
 
 - **57)** w art. 70 dodaje się ust. 3 w brzmieniu: „
@@ -566,7 +590,7 @@ source: "eli-html"
 - **1)** stwierdzania spełniania wymagań niezbędnych do prowadzenia działalności polegającej na hodowli, dostarczaniu zwierząt lub wykonywaniu procedur, o których mowa w art. 27 ust. 2 ustawy zmienianej w art. 1,
 - **2)** udzielania zgody na przeprowadzenie doświadczenia, o którym mowa w art. 36 ust. 1 pkt 1 lit. a ustawy zmienianej w art. 1,
 - **3)** udzielania zgody na zmianę doświadczenia, o którym mowa w art. 36 ust. 1 pkt 1 lit. b ustawy zmienianej w art. 1,
-- **4)** cofania udzielonej zgody na przeprowadzenie doświadczenia, o którym mowa w art. 36 ust. 1 pkt 2 ustawy zmienianej w art. 1 wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+- **4)** cofania udzielonej zgody na przeprowadzenie doświadczenia, o którym mowa w art. 36 ust. 1 pkt 2 ustawy zmienianej w art. 1 – wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 4.** Do ocen retrospektywnych, o których mowa w art. 36 ust. 1 pkt 3 ustawy zmienianej w art. 1, rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
@@ -594,5 +618,5 @@ source: "eli-html"
 
 **Art. 14.** Hodowcy, dostawcy i użytkownicy w rozumieniu art. 2 ust. 1 pkt 9–11 ustawy zmienianej w art. 1 opracowują programy, o których mowa w art. 24a ustawy zmienianej w art. 1, w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 15.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 19, art. 22, art. 41 i art. 55 ust. 3 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 19, art. 22, art. 41 i art. 55 ust. 11 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 15.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 19, art. 22, art. 41 i art. 55 ust. 3 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 19, art. 22, art. 41 i art. 55 ust. 11 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych (Dz. Urz. UE L 276 z 20.10.2010, str. 33 oraz Dz. Urz. UE L 170 z 25.06.2019, str. 115). 2) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 170 z 25.06.2019, str. 115.
 

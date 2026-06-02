@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 lipca 2001 r. – Prawo wodne oraz ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-05 |
 | Data wydania | 2015-10-12 |
-| Wejście w życie | 2015-10-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001590) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1590/text.pdf) |
 
@@ -48,17 +47,34 @@ source: "eli-html"
 
 1a. Wniosek o wydanie opinii, o której mowa w ust. 1, zawiera elementy, o których mowa w art. 11d ust. 1 pkt 1, 2 i 4. ” ;
 
-- **3)** w art. 11d: w ust. 1: – po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „ 3a) określenie nieruchomości lub ich części, które planowane są do przejęcia na rzecz Skarbu Państwa lub jednostki samorządu terytorialnego; 3b) określenie nieruchomości lub ich części, z których korzystanie będzie ograniczone; ” , – uchyla się pkt 6 i 7, – w pkt 8 lit. d otrzymuje brzmienie: „ d) dyrektora właściwego regionalnego zarządu gospodarki wodnej – w odniesieniu do inwestycji obejmujących wykonanie urządzeń wodnych oraz w odniesieniu do wykonywania obiektów budowlanych lub robót na obszarach szczególnego zagrożenia powodzią, ” , ust. 5 otrzymuje brzmienie: „
+- **3)** w art. 11d: w ust. 1: po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „
     - **a)**
+
+- **3a)** określenie nieruchomości lub ich części, które planowane są do przejęcia na rzecz Skarbu Państwa lub jednostki samorządu terytorialnego;
+- **3b)** określenie nieruchomości lub ich części, z których korzystanie będzie ograniczone; ” , – uchyla się pkt 6 i 7, w pkt 8 lit. d otrzymuje brzmienie: „ dyrektora właściwego regionalnego zarządu gospodarki wodnej – w odniesieniu do inwestycji obejmujących wykonanie urządzeń wodnych oraz w odniesieniu do wykonywania obiektów budowlanych lub robót na obszarach szczególnego zagrożenia powodzią, ” , ust. 5 otrzymuje brzmienie: „
+    - **d)**
     - **b)**
 
 5. Wojewoda w odniesieniu do dróg krajowych i wojewódzkich albo starosta w odniesieniu do dróg powiatowych i gminnych wysyłają zawiadomienie o wszczęciu postępowania w sprawie wydania decyzji o zezwoleniu na realizację inwestycji drogowej wnioskodawcy, właścicielom lub użytkownikom wieczystym nieruchomości objętych wnioskiem o wydanie tej decyzji na adres wskazany w katastrze nieruchomości, a w przypadku, o którym mowa w art. 11a ust. 2, wojewodom albo starostom, na których obszarze właściwości znajdują się nieruchomości lub ich części objęte wnioskiem o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej, oraz zawiadamiają pozostałe strony w drodze obwieszczeń, odpowiednio w urzędzie wojewódzkim lub starostwie powiatowym, a także w urzędach gmin właściwych ze względu na przebieg drogi, w urzędowych publikatorach teleinformatycznych – Biuletynie Informacji Publicznej tych urzędów i w prasie lokalnej. Doręczenie zawiadomienia na adres wskazany w katastrze nieruchomości jest skuteczne. ” ;
 
-- **4)** w art. 11f: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) określenie linii rozgraniczających teren, w tym określenie granic pasów drogowych innych dróg publicznych w przypadku gdy wniosek, o którym mowa w art. 11d, zawiera określenie granic tych pasów; ” , – pkt 8 otrzymuje brzmienie: „ 8) w razie potrzeby inne ustalenia dotyczące: a) określenia szczególnych warunków zabezpieczenia terenu budowy i prowadzenia robót budowlanych, b) określenia obowiązku budowy i okresu użytkowania tymczasowych obiektów budowlanych, c) określenia obowiązku i terminów rozbiórki istniejących obiektów budowlanych nieprzewidzianych do dalszego użytkowania oraz tymczasowych obiektów budowlanych, d) określenia szczegółowych wymagań dotyczących nadzoru na budowie, e) obowiązku budowy lub przebudowy sieci uzbrojenia terenu, f) obowiązku budowy lub przebudowy urządzeń wodnych lub urządzeń melioracji wodnych szczegółowych, g) obowiązku budowy lub przebudowy innych dróg publicznych, h) obowiązku budowy lub przebudowy zjazdów, i) określenia ograniczeń w korzystaniu z nieruchomości dla realizacji obowiązków, o których mowa w lit. b, c oraz e-h, j) zezwolenia na wykonanie obowiązków, o których mowa w lit. b, c oraz e-h. ” , ust. 2 otrzymuje brzmienie: „
+- **4)** w art. 11f: w ust. 1: pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** określenie linii rozgraniczających teren, w tym określenie granic pasów drogowych innych dróg publicznych w przypadku gdy wniosek, o którym mowa w art. 11d, zawiera określenie granic tych pasów; ” , pkt 8 otrzymuje brzmienie: „
+- **8)** w razie potrzeby inne ustalenia dotyczące: określenia szczególnych warunków zabezpieczenia terenu budowy i prowadzenia robót budowlanych, określenia obowiązku budowy i okresu użytkowania tymczasowych obiektów budowlanych, określenia obowiązku i terminów rozbiórki istniejących obiektów budowlanych nieprzewidzianych do dalszego użytkowania oraz tymczasowych obiektów budowlanych, określenia szczegółowych wymagań dotyczących nadzoru na budowie, obowiązku budowy lub przebudowy sieci uzbrojenia terenu, obowiązku budowy lub przebudowy urządzeń wodnych lub urządzeń melioracji wodnych szczegółowych, obowiązku budowy lub przebudowy innych dróg publicznych, obowiązku budowy lub przebudowy zjazdów, określenia ograniczeń w korzystaniu z nieruchomości dla realizacji obowiązków, o których mowa w lit. b, c oraz e-h, zezwolenia na wykonanie obowiązków, o których mowa w lit. b, c oraz e-h. ” , ust. 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **b)**
 
-2. Do ograniczeń, o których mowa w ust. 1 pkt 8 lit. i, przepisy art. 124 ust. 4–7 i art. 124a ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2015 r. poz. 782, z późn. zm.) stosuje się odpowiednio. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+2. Do ograniczeń, o których mowa w ust. 1 pkt 8 lit. i, przepisy art. 124 ust. 4–7 i art. 124a ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2015 r. poz. 782, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 985, 1039, 1180, 1265 i 1322.) stosuje się odpowiednio. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
 - **c)**
 
@@ -94,7 +110,7 @@ source: "eli-html"
 
 1i. W przypadku, o którym mowa w ust. 1c, podmiot na rzecz którego ustanowiona została hipoteka, na żądanie organu, o którym mowa w art. 12 ust. 4a, ma obowiązek udzielenia informacji o wysokości świadczenia głównego wierzytelności zabezpieczonej hipoteką wraz z odsetkami zabezpieczonymi tą hipoteką.
 
-1j. W przypadku gdy decyzja o zezwoleniu na realizację inwestycji drogowej dotyczy nieruchomości zarządzanej przez Państwowe Gospodarstwo Leśne Lasy Państwowe, zwane dalej „Lasami Państwowymi”, na podstawie ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2014 r. poz. 1153, z późn. zm.), wysokość przysługującego odszkodowania zmniejsza się o kwotę równą wartości drewna pozyskanego z wycinki drzew i krzewów, o której mowa w art. 20b ust. 2. ” ;
+1j. W przypadku gdy decyzja o zezwoleniu na realizację inwestycji drogowej dotyczy nieruchomości zarządzanej przez Państwowe Gospodarstwo Leśne Lasy Państwowe, zwane dalej „Lasami Państwowymi”, na podstawie ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2014 r. poz. 1153, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 349, 671 i 1322.), wysokość przysługującego odszkodowania zmniejsza się o kwotę równą wartości drewna pozyskanego z wycinki drzew i krzewów, o której mowa w art. 20b ust. 2. ” ;
 
 - **8)** w art. 19 ust. 1 otrzymuje brzmienie: „
 
@@ -118,7 +134,7 @@ source: "eli-html"
 
 - **4)** inwestor, w ramach realizacji przedsięwzięcia w zakresie dróg publicznych, nie rozpoczął wykonywania urządzeń wodnych w terminie 6 lat od dnia, w którym pozwolenie wodnoprawne na wykonanie tych urządzeń stało się ostateczne. ” .
 
-**Art. 3.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.) w art. 88 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. W przypadku postępowania w sprawie zmiany decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, przeprowadzenie ponownej oceny oddziaływania na środowisko jest dopuszczalne, o ile ponowna ocena nie dotyczy kwestii rozstrzygniętych wcześniej postanowieniem wydanym po przeprowadzeniu ponownej oceny oddziaływania na środowisko. ” .
+**Art. 3.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200, 277, 774, 1045, 1211, 1223, 1265 i 1434.) w art. 88 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. W przypadku postępowania w sprawie zmiany decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, przeprowadzenie ponownej oceny oddziaływania na środowisko jest dopuszczalne, o ile ponowna ocena nie dotyczy kwestii rozstrzygniętych wcześniej postanowieniem wydanym po przeprowadzeniu ponownej oceny oddziaływania na środowisko. ” .
 
 **Art. 4.** Pozwolenia wodnoprawne dla przedsięwzięć w zakresie dróg publicznych, które zostały wydane przed dniem wejścia w życie niniejszej ustawy wygasają, jeżeli inwestor nie rozpoczął wykonywania urządzeń wodnych w terminie 6 lat od dnia, w którym pozwolenia wodnoprawne na wykonanie tych urządzeń stały się ostateczne, o ile nie wygasły one przed dniem wejścia w życie niniejszej ustawy.
 
@@ -128,5 +144,5 @@ source: "eli-html"
 
 2. Do postępowań, o których mowa w ust. 1, na wniosek właściwego zarządcy drogi, stosuje się przepisy art. 11f ust. 1 pkt 8 lub art. 12 ust. 7 i 8 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 lipca 2001 r. – Prawo wodne oraz ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 985, 1039, 1180, 1265 i 1322. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 349, 671 i 1322. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200, 277, 774, 1045, 1211, 1223, 1265 i 1434.
 

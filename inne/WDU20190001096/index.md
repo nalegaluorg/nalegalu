@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 maja 2019 r. o zmianie ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz niektórych innych ustaw
+# Ustawa z dnia 16 maja 2019 r. o zmianie ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 2018 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw oraz ustawę z dnia 21 lutego 2019 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-16 |
 | Data wydania | 2019-06-13 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001096) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1096/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2019 r. poz. 784 i 999) wprowadza się następujące zmiany:
 
-- **1)** w art. 38: w ust. 5: – w pkt 1 uchyla się lit. b, – w pkt 9: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ dane osoby odbierającej wyrób medyczny: ” , – – uchyla się lit. b, w ust. 6: – w pkt 1 uchyla się lit. b, – w pkt 6: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ dane osoby odbierającej naprawiony wyrób medyczny: ” , – – uchyla się lit. b, po ust. 6b dodaje się ust. 6c i 6d w brzmieniu: „
+- **1)** w art. 38: w ust. 5: – w pkt 1 uchyla się lit. b, w pkt 9: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ dane osoby odbierającej wyrób medyczny: ” , – – uchyla się lit. b, w ust. 6: – w pkt 1 uchyla się lit. b, w pkt 6: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ dane osoby odbierającej naprawiony wyrób medyczny: ” , – – uchyla się lit. b, po ust. 6b dodaje się ust. 6c i 6d w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
@@ -53,15 +52,16 @@ source: "eli-html"
 - **2)** weryfikacji zlecenia na etapie wystawienia zlecenia. ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
-4. W przypadku braku dostępu do serwisów internetowych lub usług informatycznych Funduszu, o których mowa w przepisach wydanych na podstawie art. 137 ust. 2 ustawy o świadczeniach, weryfikacja zlecenia i potwierdzenie posiadania prawa do świadczeń opieki zdrowotnej na etapie wystawiania zlecenia są dokonywane w siedzibie wybranego przez świadczeniobiorcę oddziału wojewódzkiego Funduszu. ” , w ust. 10: – pkt 2 otrzymuje brzmienie: „ 2) wieku świadczeniobiorcy, jeżeli ma wpływ na limit finansowania ustalony zgodnie z ust. 6. ” , – uchyla się pkt 3 i 4, w ust. 11 zdanie pierwsze otrzymuje brzmienie: „ Świadczeniodawca w toku czynności, o której mowa w ust. 10 pkt 2, jest obowiązany do dokonania zmiany ustalonego limitu finansowania ze środków publicznych wyrobu medycznego wskazanego w zleceniu, która doprowadzi do zapewnienia zgodności tego limitu ze stanem prawnym i faktycznym na dzień przyjęcia zlecenia do realizacji. ” , w ust. 12 zdanie pierwsze otrzymuje brzmienie: „ Jeżeli świadczeniodawcy realizującemu zlecenie zostanie przedstawiony dokument potwierdzający uprawnienia dodatkowe świadczeniobiorcy, przysługujące mu w dniu przyjęcia zlecenia do realizacji, zlecenie realizuje się z uwzględnieniem tych uprawnień. ” , uchyla się ust. 14, ust. 16 otrzymuje brzmienie: „
+4. W przypadku braku dostępu do serwisów internetowych lub usług informatycznych Funduszu, o których mowa w przepisach wydanych na podstawie art. 137 ust. 2 ustawy o świadczeniach, weryfikacja zlecenia i potwierdzenie posiadania prawa do świadczeń opieki zdrowotnej na etapie wystawiania zlecenia są dokonywane w siedzibie wybranego przez świadczeniobiorcę oddziału wojewódzkiego Funduszu. ” , w ust. 10: pkt 2 otrzymuje brzmienie: „
 
 - **c)**
-- **d)**
-- **e)**
-- **f)**
-- **g)**
+- **2)** wieku świadczeniobiorcy, jeżeli ma wpływ na limit finansowania ustalony zgodnie z ust. 6. ” , – uchyla się pkt 3 i 4, w ust. 11 zdanie pierwsze otrzymuje brzmienie: „ Świadczeniodawca w toku czynności, o której mowa w ust. 10 pkt 2, jest obowiązany do dokonania zmiany ustalonego limitu finansowania ze środków publicznych wyrobu medycznego wskazanego w zleceniu, która doprowadzi do zapewnienia zgodności tego limitu ze stanem prawnym i faktycznym na dzień przyjęcia zlecenia do realizacji. ” , w ust. 12 zdanie pierwsze otrzymuje brzmienie: „ Jeżeli świadczeniodawcy realizującemu zlecenie zostanie przedstawiony dokument potwierdzający uprawnienia dodatkowe świadczeniobiorcy, przysługujące mu w dniu przyjęcia zlecenia do realizacji, zlecenie realizuje się z uwzględnieniem tych uprawnień. ” , uchyla się ust. 14, ust. 16 otrzymuje brzmienie: „
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
 
-16. W przypadku świadczeniobiorców małoletnich oraz innych osób nieposiadających pełnej zdolności do czynności prawnych lub innych osób niemogących wyrazić swojej woli z powodu stanu zdrowia oświadczenie, o którym mowa w art. 50 ust. 6 ustawy o świadczeniach, składa ich przedstawiciel ustawowy, opiekun prawny, pełnomocnik albo opiekun faktyczny w rozumieniu ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2017 r. poz. 1318, z późn. zm.), podając imię i nazwisko, numer PESEL oraz wskazanie dokumentu, na podstawie którego świadczeniodawca potwierdził tożsamość osoby składającej oświadczenie, a w przypadku osób nieposiadających numeru PESEL – dane, o których mowa w art. 188 ust. 4 pkt 9 ustawy o świadczeniach. ” ;
+16. W przypadku świadczeniobiorców małoletnich oraz innych osób nieposiadających pełnej zdolności do czynności prawnych lub innych osób niemogących wyrazić swojej woli z powodu stanu zdrowia oświadczenie, o którym mowa w art. 50 ust. 6 ustawy o świadczeniach, składa ich przedstawiciel ustawowy, opiekun prawny, pełnomocnik albo opiekun faktyczny w rozumieniu ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2017 r. poz. 1318, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1524, z 2018 r. poz. 1115, 1515, 2219 i 2429 oraz z 2019 r. poz. 150, 447 i 730.), podając imię i nazwisko, numer PESEL oraz wskazanie dokumentu, na podstawie którego świadczeniodawca potwierdził tożsamość osoby składającej oświadczenie, a w przypadku osób nieposiadających numeru PESEL – dane, o których mowa w art. 188 ust. 4 pkt 9 ustawy o świadczeniach. ” ;
 
 - **3)** w art. 38d: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -92,7 +92,7 @@ source: "eli-html"
 
 - **e)**
 
-13. Przechowywanie i udostępnianie zlecenia wraz z dokumentacją, o których mowa w ust. 12, przez świadczeniodawcę, realizującego zlecenie odbywa się zgodnie z przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.). 14. Zlecenie wraz z dokumentacją, o których mowa w ust. 12, przechowuje się przez 5 lat od dnia zakończenia realizacji zlecenia. ” ;
+13. Przechowywanie i udostępnianie zlecenia wraz z dokumentacją, o których mowa w ust. 12, przez świadczeniodawcę, realizującego zlecenie odbywa się zgodnie z przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2.). 14. Zlecenie wraz z dokumentacją, o których mowa w ust. 12, przechowuje się przez 5 lat od dnia zakończenia realizacji zlecenia. ” ;
 
 - **4)** w art. 48: ust. 7c otrzymuje brzmienie: „
     - **a)**
@@ -106,7 +106,7 @@ source: "eli-html"
 **Art. 2.** W ustawie z dnia 20 lipca 2018 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw (Dz. U. poz. 1515 i 2429 oraz z 2019 r. poz. 959) w art. 10 ust. 2 i 3 otrzymują brzmienie: „ 2. Do dnia 31 grudnia 2019 r. zlecenia na zaopatrzenie w wyroby medyczne i zlecenia naprawy są wystawiane, potwierdzane i realizowane na dotychczasowych zasadach. W okresie od dnia 1 stycznia 2019 r. do dnia 31 sierpnia 2019 r. świadczeniodawcy, w porozumieniu z Narodowym Funduszem Zdrowia, mogą wystawiać i realizować zlecenia na zaopatrzenie w wyroby medyczne i zlecenia naprawy na zasadach określonych przepisami ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą. 3. Zlecenia na zaopatrzenie w wyroby medyczne i zlecenia naprawy, które do dnia 31 grudnia 2019 r. zostały na dotychczasowych zasadach:
 
 - **1)** wystawione,
-- **2)** wystawione i potwierdzone są odpowiednio potwierdzane i realizowane albo realizowane na dotychczasowych zasadach, jednak nie dłużej niż do dnia 31 grudnia 2020 r. ” .
+- **2)** wystawione i potwierdzone – są odpowiednio potwierdzane i realizowane albo realizowane na dotychczasowych zasadach, jednak nie dłużej niż do dnia 31 grudnia 2020 r. ” .
 
 **Art. 3.** W ustawie z dnia 21 lutego 2019 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 399 i 999) wprowadza się następujące zmiany:
 
@@ -125,5 +125,5 @@ source: "eli-html"
 
 **Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 38 ust. 7 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 38 ust. 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 31 grudnia 2019 r.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem 1 września 2019 r., z wyjątkiem art. 2 i art. 3, które wchodzą w życie z dniem 30 czerwca 2019 r.
+**Art. 6.** Ustawa wchodzi w życie z dniem 1 września 2019 r., z wyjątkiem art. 2 i art. 3, które wchodzą w życie z dniem 30 czerwca 2019 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 2018 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw oraz ustawę z dnia 21 lutego 2019 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1524, z 2018 r. poz. 1115, 1515, 2219 i 2429 oraz z 2019 r. poz. 150, 447 i 730. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwojuz dnia 2 czerwca 2016 r. w sprawie prostych zbiorników ciśnieniowych
+# Rozporządzenie Ministra Rozwojuz dnia 2 czerwca 2016 r. w sprawie prostych zbiorników ciśnieniowych Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-02 |
 | Data wydania | 2016-06-09 |
-| Wejście w życie | 2016-06-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000812) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/812/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Wymagania dotyczące projektowania i wytwarzania zbiorników Rozdział 3 – Procedury oceny zgodności i zakres dokumentacji technicznej Rozdział 4 – Sposób oznakowania zbiorników Rozdział 5 – Przepis końcowy
+Treść rozporządzenia
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Wymagania dotyczące projektowania i wytwarzania zbiorników
+
+#### Rozdział 3 – Procedury oceny zgodności i zakres dokumentacji technicznej
+
+#### Rozdział 4 – Sposób oznakowania zbiorników
+
+#### Rozdział 5 – Przepis końcowy
 
 ## Załącznik nr 1 — – Wymagania dotyczące projektowania i wytwarzania zbiorników
 
@@ -35,8 +44,9 @@ Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Wymagan
 ## Załącznik nr 3 — – Procedury oceny zgodności i zakres dokumentacji technicznej
 
 Treść rozporządzenia
-Na podstawie art. 12 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/29/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku prostych zbiorników ciśnieniowych (Dz. Urz. UE L 96 z 29.03.2014, str. 45). Na podstawie art. 12 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542) zarządza się, co następuje:
+Rozdział 1
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -111,13 +121,15 @@ informacje dotyczące:
 – konserwacji i instalowania zbiornika wpływających na jego bezpieczeństwo.
 § 5.
 Elementy deklaracji zgodności określa załącznik nr 2 do rozporządzenia.
-Rozdział 2 Wymagania dotyczące projektowania i wytwarzania zbiorników
+Rozdział 2
+Wymagania dotyczące projektowania i wytwarzania zbiorników
 § 6.
 1.
 Wprowadzane do obrotu zbiorniki kategorii, dla których iloczyn PS × V jest większy niż 50 barów x litr, spełniają wymagania określone w załączniku nr 1 do rozporządzenia.
 2.
 Wprowadzane do obrotu zbiorniki kategorii, dla których iloczyn PS × V nie jest większy niż 50 barów x litr, są projektowane i wytwarzane zgodnie z uznaną praktyką inżynierską.
-Rozdział 3 Procedury oceny zgodności i zakres dokumentacji technicznej
+Rozdział 3
+Procedury oceny zgodności i zakres dokumentacji technicznej
 § 7.
 Procedury oceny zgodności i zakres dokumentacji technicznej określa załącznik nr 3 do rozporządzenia.
 § 8.
@@ -152,7 +164,8 @@ b)
 zgodności z typem w oparciu o wewnętrzną kontrolę produkcji (moduł C), o której mowa w części IV załącznika nr 3 rozporządzenia.
 2.
 Zapisy i korespondencja dotycząca procedur oceny zgodności, o których mowa w § 8 i § 9, są sporządzane w języku polskim lub w języku akceptowanym przez jednostkę notyfikowaną.
-Rozdział 4 Sposób oznakowania zbiorników
+Rozdział 4
+Sposób oznakowania zbiorników
 § 10.
 1.
 Na zbiornikach albo na ich tabliczce znamionowej umieszcza się następujące dane:
@@ -176,14 +189,15 @@ Za oznakowaniem CE podaje się numer identyfikacyjny jednostki notyfikowanej bio
 Za oznakowaniem CE oraz za numerem identyfikacyjnym jednostki notyfikowanej można umieścić wszelkiego rodzaju znaki wskazujące na szczególne zagrożenie lub zastosowanie.
 5.
 Tabliczkę znamionową projektuje się w taki sposób, aby nie było możliwe jej ponowne użycie i aby zawierała wolne miejsce pozwalające na zamieszczenie innych informacji.
-Rozdział 5 Przepis końcowy
+Rozdział 5
+Przepis końcowy
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/29/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku prostych zbiorników ciśnieniowych (Dz. Urz. UE L 96 z 29.03.2014, str. 45). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 23 grudnia 2005 r. w sprawie zasadniczych wymagań dla prostych zbiorników ciśnieniowych (Dz. U. poz. 2171), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 131 ust. 1 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 23 grudnia 2005 r. w sprawie zasadniczych wymagań dla prostych zbiorników ciśnieniowych (Dz. U. poz. 2171), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 131 ust. 1 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542). 1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/29/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku prostych zbiorników ciśnieniowych (Dz. Urz. UE L 96 z 29.03.2014, str. 45). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 23 grudnia 2005 r. w sprawie zasadniczych wymagań dla prostych zbiorników ciśnieniowych (Dz. U. poz. 2171), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 131 ust. 1 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542).
 
 ## Załącznik nr 1 — – Wymagania dotyczące projektowania i wytwarzania zbiorników
 
-Część I. Materiały
+Część I.
+Materiały
 1.
 Materiały przeznaczone do wytwarzania zbiorników należy dobierać zgodnie z przewidywanym zastosowaniem tych zbiorników oraz powinny one spełniać wymagania, o których mowa w ust. 2–12.
 2.
@@ -244,7 +258,8 @@ Elementy wpływające na wytrzymałość zbiornika, w szczególności śruby i n
 Materiały do wykonania elementów, o których mowa w ust. 10, powinny mieć przy najniższej temperaturze roboczej odpowiednie wydłużenie przy zerwaniu oraz energię rozerwania.
 12.
 Wszystkie elementy nieciśnieniowe zbiorników spawanych są wykonane z materiałów o własnościach zgodnych z własnościami materiałów na elementy, z którymi są łączone za pomocą spawania.
-Część II. Projekt
+Część II.
+Projekt
 1.
 W przypadku projektowania zbiornika określa się jego zastosowanie oraz następujące parametry:
 1)
@@ -289,7 +304,8 @@ dopuszczalne naprężenie błonowe nie powinno przekraczać mniejszej z dwu wart
 W przypadku gdy w części walcowej zbiornika wykonano jedno lub więcej spawanych złączy wzdłużnych wykonanych w procesie spawania nieautomatycznego, grubość ścianki obliczoną w sposób, o którym mowa w ust. 9, należy pomnożyć przez współczynnik 1,15.
 11.
 Stosując metodę doświadczalną, grubość ścianki należy wyznaczać w ten sposób, aby zbiornik mógł wytrzymać w temperaturze otoczenia ciśnienie równe co najmniej pięciokrotnemu najwyższemu ciśnieniu roboczemu, przy trwałym odkształceniu obwodowym nie większym niż 1%.
-Część III. Procesy produkcji
+Część III.
+Procesy produkcji
 1.
 Zbiorniki są wytwarzane i poddawane kontroli podczas produkcji, zgodnie z procedurami określonymi w części II, III lub IV załącznika nr 3 do rozporządzenia.
 2.
@@ -305,7 +321,7 @@ Producent zapewnia również podczas produkcji stałą jakość spawania przez p
 
 Deklaracja zgodności zawiera określone we wskazanej kolejności elementy:
 1.
-Nagłówek „Deklaracja Zgodności (NR XXXX)”
+Nagłówek „Deklaracja Zgodności (NR XXXX)Producent może, ale nie musi podawać nr deklaracji zgodności”
 2.
 Zbiornik/model zbiornika (wyrób, typ, numer partii lub serii).
 3.
@@ -323,12 +339,12 @@ Informację: „… (nazwa i numer jednostki notyfikowanej) przeprowadziła … 
 9.
 Informacje dodatkowe, o ile występują.
 10.
-Informacja, w czyim imieniu deklaracja zgodności została podpisana, oraz imię, nazwisko, stanowisko i podpis osoby upoważnionej do sporządzenia deklaracji zgodności, a także miejsce i data sporządzenia tej deklaracji.
-1) Producent może, ale nie musi podawać nr deklaracji zgodności
+Informacja, w czyim imieniu deklaracja zgodności została podpisana, oraz imię, nazwisko, stanowisko i podpis osoby upoważnionej do sporządzenia deklaracji zgodności, a także miejsce i data sporządzenia tej deklaracji. 1) Producent może, ale nie musi podawać nr deklaracji zgodności
 
 ## Załącznik nr 3 — – Procedury oceny zgodności i zakres dokumentacji technicznej
 
-Część I. Badanie typu UE (moduł B)
+Część I.
+Badanie typu UE (moduł B)
 1.
 Badanie typu UE to ta część procedury oceny zgodności, według której jednostka notyfikowana bada projekt techniczny zbiornika oraz weryfikuje i poświadcza spełnienie przez projekt techniczny zbiornika mających zastosowanie wymagań rozporządzenia.
 2.
@@ -417,7 +433,8 @@ W przypadku potrzeby przeprowadzenia dalszych badań jednostka notyfikowana info
 O wszystkich modyfikacjach wprowadzonych do zatwierdzonego typu mogących wpływać na zgodność zbiornika z wymaganiami zawartymi w rozporządzeniu lub warunkami ważności tego certyfikatu producent informuje jednostkę notyfikowaną, która posiada dokumentację techniczną dotyczącą certyfikatu badania typu UE.
 12.
 Modyfikacje, o których mowa w ust. 11, wymagają dodatkowego zatwierdzenia w formie aneksu do pierwotnego certyfikatu badania typu UE.
-Część II. Zgodność z typem w oparciu o wewnętrzną kontrolę produkcji oraz badanie zbiorników pod nadzorem (moduł C1)
+Część II.
+Zgodność z typem w oparciu o wewnętrzną kontrolę produkcji oraz badanie zbiorników pod nadzorem (moduł C1)
 1.
 Zgodność z typem w oparciu o wewnętrzną kontrolę produkcji oraz badanie zbiorników pod nadzorem to ta część procedury oceny zgodności, w której producent wywiązuje się z obowiązków określonych w ust. 2–4 oraz na swoją wyłączną odpowiedzialność zapewnia i oświadcza, że dane zbiorniki są zgodne z typem opisanym w certyfikacie badania typu UE i spełniają mające zastosowanie wymagania rozporządzenia.
 2.
@@ -459,7 +476,8 @@ jednostka notyfikowana dostarcza państwu członkowskiemu, które ją notyfikowa
 na odpowiedzialność jednostki notyfikowanej producent umieszcza podczas procesu produkcji numer identyfikacyjny jednostki notyfikowanej.
 4.
 Oznakowanie CE umieszczane jest na każdym egzemplarzu zbiornika zgodnym z typem opisanym w certyfikacie badania typu UE oraz mającymi zastosowanie wymaganiami rozporządzenia.
-Część III. Zgodność z typem w oparciu o wewnętrzną kontrolę produkcji oraz nadzorowaną kontrolę zbiorników w losowo wybranych odstępach czasu (moduł C2)
+Część III.
+Zgodność z typem w oparciu o wewnętrzną kontrolę produkcji oraz nadzorowaną kontrolę zbiorników w losowo wybranych odstępach czasu (moduł C2)
 1.
 Zgodność z typem w oparciu o wewnętrzną kontrolę produkcji oraz nadzorowaną kontrolę zbiorników w losowo wybranych odstępach czasu to ta część procedury oceny zgodności, w której producent wywiązuje się ze zobowiązań przedstawionych w ust. 2–4 oraz na swoją wyłączną odpowiedzialność zapewnia i oświadcza, że dane zbiorniki są zgodne z typem opisanym w certyfikacie badania typu UE i spełniają mające zastosowanie wymagania rozporządzenia.
 2.
@@ -495,7 +513,8 @@ jednostka notyfikowana dostarcza państwu członkowskiemu, które ją notyfikowa
 na odpowiedzialność jednostki notyfikowanej producent umieszcza podczas procesu produkcji numer identyfikacyjny jednostki notyfikowanej.
 4.
 Oznakowanie CE umieszczane jest na każdym egzemplarzu zbiornika zgodnym z typem opisanym w certyfikacie badania typu UE oraz mającymi zastosowanie wymaganiami rozporządzenia.
-Część IV. Zgodność z typem w oparciu o wewnętrzną kontrolę produkcji (moduł C)
+Część IV.
+Zgodność z typem w oparciu o wewnętrzną kontrolę produkcji (moduł C)
 1.
 Zgodność z typem w oparciu o wewnętrzną kontrolę produkcji to ta część procedury oceny zgodności, w której producent wywiązuje się ze zobowiązań przedstawionych w ust. 2 i 3 oraz zapewnia i oświadcza, że dane zbiorniki są zgodne z typem opisanym w certyfikacie badania typu UE i spełniają wymagania rozporządzenia mające do nich zastosowanie.
 2.

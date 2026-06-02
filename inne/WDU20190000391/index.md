@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 22 lutego 2019 r. w sprawie praktycznej nauki zawodu
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 22 lutego 2019 r. w sprawie praktycznej nauki zawodu Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-22 |
 | Data wydania | 2019-02-28 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000391) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/391/text.pdf) |
 
@@ -98,7 +97,7 @@ Praktyczna nauka zawodu może być organizowana w systemie zmianowym, z tym że 
 Praktyczna nauka zawodu na statkach morskich i śródlądowych może być realizowana przez pełnienie wacht.
 § 6.
 1.
-Praktyczna nauka zawodu uczniów i młodocianych jest prowadzona indywidualnie lub w grupach. Liczba uczniów lub młodocianych w grupie powinna umożliwiać realizację programu nauczania danego zawodu i uwzględniać specyfikę nauczanego zawodu, przepisy bezpieczeństwa i higieny pracy, normy ergonomii i dostępności oraz przepisy wydane na podstawie art. 204 § 1 i 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.), warunki lokalowe i techniczne w miejscu odbywania praktycznej nauki zawodu, a także szczególne potrzeby uczniów lub młodocianych, w tym wynikające z ich niepełnosprawności.
+Praktyczna nauka zawodu uczniów i młodocianych jest prowadzona indywidualnie lub w grupach. Liczba uczniów lub młodocianych w grupie powinna umożliwiać realizację programu nauczania danego zawodu i uwzględniać specyfikę nauczanego zawodu, przepisy bezpieczeństwa i higieny pracy, normy ergonomii i dostępności oraz przepisy wydane na podstawie art. 204 § 1 i 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432.), warunki lokalowe i techniczne w miejscu odbywania praktycznej nauki zawodu, a także szczególne potrzeby uczniów lub młodocianych, w tym wynikające z ich niepełnosprawności.
 2.
 Podziału uczniów lub młodocianych na grupy dokonuje odpowiednio dyrektor szkoły lub pracodawca, o którym mowa w § 3 ust. 2, w porozumieniu z podmiotem przyjmującym odpowiednio uczniów lub młodocianych na praktyczną naukę zawodu.
 § 7.
@@ -296,8 +295,7 @@ Opiekunowi praktyki zawodowej prowadzonej na statku morskim lub śródlądowym, 
 6.
 Opiekunowi praktyki zawodowej prowadzonej na statku morskim lub śródlądowym, dla którego opieka nad uczniami stanowi dodatkowe zajęcie, przysługuje dodatek w wysokości określonej w ust. 2.
 § 13.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432.
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432.
 Załącznik – Ramowy program kursu pedagogicznego dla instruktorów praktycznej nauki zawodu
 1.
 Nazwa formy kształcenia Kurs pedagogiczny dla instruktorów praktycznej nauki zawodu.
@@ -306,22 +304,108 @@ Czas trwania, liczba godzin kształcenia i sposób jego organizacji Kurs obejmuj
 1)
 zagadnienia z zakresu pedagogiki, psychologii i metodyki – łącznie 40 godz.;
 2)
-umiejętności dydaktyczne – 8 godz.
-Zajęcia z zakresu pedagogiki, psychologii i metodyki są realizowane zgodnie z harmonogramem opracowywanym indywidualnie na każdy kurs. Zajęcia są prowadzone metodami aktywizującymi z położeniem nacisku na osiągnięcie przez uczestników szkolenia niezbędnych umiejętności przydatnych wprowadzeniu zajęć w ramach praktycznej nauki zawodu. Umiejętności dydaktyczne są organizowane w środowisku pracy na konkretnych stanowiskach pracy oraz poza środowiskiem pracy w salach dydaktycznych z udziałem instruktora praktycznej nauki zawodu, który na przykładzie wybranego zawodu demonstruje przebieg zajęć praktycznych, omawia ogólne zasady bezpieczeństwa i higieny pracy, ochrony środowiska i przepisów przeciwpożarowych, przeprowadza pokaz wykonania danej czynności oraz przeprowadza symulację części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie/egzaminu zawodowego. Na zakończenie kursu przeprowadza się egzamin i ewaluację.
+umiejętności dydaktyczne – 8 godz. Zajęcia z zakresu pedagogiki, psychologii i metodyki są realizowane zgodnie z harmonogramem opracowywanym indywidualnie na każdy kurs. Zajęcia są prowadzone metodami aktywizującymi z położeniem nacisku na osiągnięcie przez uczestników szkolenia niezbędnych umiejętności przydatnych wprowadzeniu zajęć w ramach praktycznej nauki zawodu. Umiejętności dydaktyczne są organizowane w środowisku pracy na konkretnych stanowiskach pracy oraz poza środowiskiem pracy w salach dydaktycznych z udziałem instruktora praktycznej nauki zawodu, który na przykładzie wybranego zawodu demonstruje przebieg zajęć praktycznych, omawia ogólne zasady bezpieczeństwa i higieny pracy, ochrony środowiska i przepisów przeciwpożarowych, przeprowadza pokaz wykonania danej czynności oraz przeprowadza symulację części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie/egzaminu zawodowego. Na zakończenie kursu przeprowadza się egzamin i ewaluację.
 3.
 Cel kształcenia Nabycie przez uczestników wiedzy i umiejętności z zakresu pedagogiki, psychologii i metodyki niezbędnej do wykonywania zadań instruktora praktycznej nauki zawodu.
 4.
-Plan nauczania określający nazwę zajęć oraz ich wymiar Lp. Zakres treści realizowanych zajęć – dział programowy Liczba godzin Uwagi 1 Podstawy pedagogiki ze szczególnym uwzględnieniem pedagogiki pracy 5 2 Elementy psychologii w komunikacji i relacjach „instruktor – osoba ucząca się” 8 3 Metodyka praktycznej nauki zawodu 27 4 Umiejętności dydaktyczne 8 realizowane w środowisku pracy oraz poza środowiskiem pracy 5 Razem 48
+Plan nauczania określający nazwę zajęć oraz ich wymiar
+Lp. Zakres treści realizowanych zajęć – dział programowy Liczba godzin Uwagi 1 Podstawy pedagogiki ze szczególnym uwzględnieniem pedagogiki pracy 5 2 Elementy psychologii w komunikacji i relacjach „instruktor – osoba ucząca się” 8 3 Metodyka praktycznej nauki zawodu 27 4 Umiejętności dydaktyczne 8 realizowane w środowisku pracy oraz poza środowiskiem pracy 5 Razem 48
 5.
 Treści nauczania w zakresie poszczególnych zajęć i opis efektów kształcenia
 1)
-Podstawy pedagogiki ze szczególnym uwzględnieniem pedagogiki pracy Lp. Zakres treści realizowanych zajęć Liczba godzin Efekty kształcenia – osoba ucząca się po ukończeniu kursu potrafi: 1 Zakres i zadania pedagogiki pracy; Kształcenie i wychowanie: przedzawodowe, prozawodowe i zawodowe;Aktywność zawodowa, dokształcanie i doskonalenie oraz dalsze kształcenie 1 – określić zakres i zadania pedagogiki pracy,- opisać przedmiot kształcenia i wychowania przedzawodowego, prozawodowego i zawodowego,- określić funkcje doradztwa zawodowego,- wskazać możliwości dla dalszego kształcenia 2 Akty prawne regulujące zasady rozwiązywania problemów pedagogicznych – dydaktyka, opieka, wychowanie;Klasyfikacja zawodów szkolnictwa branżowego;Typy szkół i form, w jakich może być organizowane kształcenie zawodowe 1 – zidentyfikować ustawowe zadania nauczyciela w zakresie dydaktyki, opieki i wychowania,- opisać funkcje klasyfikacji zawodów szkolnictwa branżowego,- określić typy szkół prowadzących kształcenie zawodowe i innych form kształcenia zawodowego 3 Podstawy prawne organizowania praktycznej nauki zawodu;Kodeks pracy – dział IX – Zatrudnianie młodocianych i inne akty prawne dotyczące zatrudniania młodocianych 2 – określić zasady organizacji praktycznej nauki zawodu,- wskazać zadania instruktora praktycznej nauki zawodu,- określić zasady zatrudniania młodocianych pracowników 4 Instruktor praktycznej nauki zawodu w systemie edukacji: zadania, odpowiedzialność;Zasady postępowania – etyka w wykonywaniu zadań instruktora praktycznej nauki zawodu 1 – opisać sylwetkę zawodową instruktora praktycznej nauki zawodu,- wskazać zakres odpowiedzialności instruktora praktycznej nauki zawodu,- sformułować kodeks etyczny instruktora praktycznej nauki zawodu 5 Razem 5
+Podstawy pedagogiki ze szczególnym uwzględnieniem pedagogiki pracy
+Lp. Zakres treści realizowanych zajęć Liczba godzin Efekty kształcenia – osoba ucząca się po ukończeniu kursu potrafi: 1 Zakres i zadania pedagogiki pracy; Kształcenie i wychowanie: przedzawodowe, prozawodowe i zawodowe;
+Aktywność zawodowa, dokształcanie i doskonalenie oraz dalsze kształcenie 1 – określić zakres i zadania pedagogiki pracy,
+opisać przedmiot kształcenia i wychowania przedzawodowego, prozawodowego i zawodowego,
+określić funkcje doradztwa zawodowego,
+wskazać możliwości dla dalszego kształcenia 2 Akty prawne regulujące zasady rozwiązywania problemów pedagogicznych – dydaktyka, opieka, wychowanie;
+Klasyfikacja zawodów szkolnictwa branżowego;
+Typy szkół i form, w jakich może być organizowane kształcenie zawodowe 1 – zidentyfikować ustawowe zadania nauczyciela w zakresie dydaktyki, opieki i wychowania,
+opisać funkcje klasyfikacji zawodów szkolnictwa branżowego,
+określić typy szkół prowadzących kształcenie zawodowe i innych form kształcenia zawodowego 3 Podstawy prawne organizowania praktycznej nauki zawodu;
+Kodeks pracy – dział IX – Zatrudnianie młodocianych i inne akty prawne dotyczące zatrudniania młodocianych 2 – określić zasady organizacji praktycznej nauki zawodu,
+wskazać zadania instruktora praktycznej nauki zawodu,
+określić zasady zatrudniania młodocianych pracowników 4 Instruktor praktycznej nauki zawodu w systemie edukacji: zadania, odpowiedzialność;
+Zasady postępowania – etyka w wykonywaniu zadań instruktora praktycznej nauki zawodu 1 – opisać sylwetkę zawodową instruktora praktycznej nauki zawodu,
+wskazać zakres odpowiedzialności instruktora praktycznej nauki zawodu,
+sformułować kodeks etyczny instruktora praktycznej nauki zawodu 5 Razem 5
 2)
-Elementy psychologii w komunikacji i relacjach „instruktor – osoba ucząca się” Lp. Zakres treści realizowanych zajęć Liczba godzin Efekty kształcenia – osoba ucząca się po ukończeniu kursu potrafi: 1 Okresy rozwojowe człowieka a możliwości i potrzeby w zakresie uczenia się 1 – wskazać okresy rozwojowe człowieka, w których może zdobywać zawód lub przekwalifikowywać się,- określić potrzeby i możliwości osoby uczącej się w zakresie uczenia się w różnych okresach rozwojowych,- określić sposoby wsparcia uczenia się w różnych okresach rozwojowych 2 Stres w edukacji – znaczenie i zarządzanie stresem 2 – zdefiniować stres,- ocenić sytuację stresową,- dobrać sposób pokierowania sytuacją stresową dla osiągnięcia oczekiwanego efektu w pracy z osobą uczącą się 3 Konflikt – analiza i zarządzanie konfliktem 2 – zdefiniować konflikt,- określić źródło konfliktu,- wskazać przykładowe zasady zarządzania konfliktem w pracy z osobą uczącą się 4 Diagnozowanie możliwości i potrzeb osoby uczącej się 2 -przeprowadzić obserwację osoby uczącej się w celu zdiagnozowaniajej możliwości i potrzeb;- sformułować wnioski z obserwacji do planowania pracy z osobą uczącą się 5 Motywowanie osoby uczącej się do nauki 1 – wskazać sposoby motywowania osoby uczącej się do podejmowania i realizowania zadań praktycznej nauki zawodu,- określić znaczenie reguł, ustaleń i umów w motywowaniu,- określić i ocenić znaczenie kary i nagrody w motywowaniu 6 Razem 8
+Elementy psychologii w komunikacji i relacjach „instruktor – osoba ucząca się”
+Lp. Zakres treści realizowanych zajęć Liczba godzin Efekty kształcenia – osoba ucząca się po ukończeniu kursu potrafi: 1 Okresy rozwojowe człowieka a możliwości i potrzeby w zakresie uczenia się 1 – wskazać okresy rozwojowe człowieka, w których może zdobywać zawód lub przekwalifikowywać się,
+określić potrzeby i możliwości osoby uczącej się w zakresie uczenia się w różnych okresach rozwojowych,
+określić sposoby wsparcia uczenia się w różnych okresach rozwojowych 2 Stres w edukacji – znaczenie i zarządzanie stresem 2 – zdefiniować stres,
+ocenić sytuację stresową,
+dobrać sposób pokierowania sytuacją stresową dla osiągnięcia oczekiwanego efektu w pracy z osobą uczącą się 3 Konflikt – analiza i zarządzanie konfliktem 2 – zdefiniować konflikt,
+określić źródło konfliktu,
+wskazać przykładowe zasady zarządzania konfliktem w pracy z osobą uczącą się 4 Diagnozowanie możliwości i potrzeb osoby uczącej się 2 -przeprowadzić obserwację osoby uczącej się w celu zdiagnozowaniajej możliwości i potrzeb;
+sformułować wnioski z obserwacji do planowania pracy z osobą uczącą się 5 Motywowanie osoby uczącej się do nauki 1 – wskazać sposoby motywowania osoby uczącej się do podejmowania i realizowania zadań praktycznej nauki zawodu,
+określić znaczenie reguł, ustaleń i umów w motywowaniu,
+określić i ocenić znaczenie kary i nagrody w motywowaniu 6 Razem 8
 3)
-Metodyka praktycznej nauki zawodu Lp. Zakres treści realizowanych zajęć Liczba godzin Efekty kształcenia – osoba ucząca się po ukończeniu kursu potrafi: 1 Przedmiot i zadania metodyki kształcenia zawodowego 1 – określić przedmiot i zadania metodyki kształcenia zawodowego,- wskazać zakres zadań dla metodyki praktycznej nauki zawodu 2 Podstawy programowe kształcenia w zawodach, ich rola w planowaniu i organizowaniu praktycznej nauki zawodu;Podstawa programowa kształcenia ogólnego – powiązania z kształceniem zawodowym;Kompetencje społeczne 2 – określić funkcje podstaw programowych kształcenia w zawodach,- wskazać elementy składające się na strukturę podstawy programowej kształcenia w danym zawodzie w kontekście planowania praktycznej nauki zawodu,- zinterpretować wybrane elementy podstawy programowej kształcenia w danym zawodzie w kontekście realizacji praktycznej nauki zawodu,- określić powiązania podstawy programowej kształcenia w danym zawodzie z podstawą programową kształcenia ogólnego dla kształtowania kompetencji kluczowych 3 Zasady nauczania – uczenia się 2 – zinterpretować zasady realizowane przez nauczyciela (poglądowości, samodzielności, wiązania teorii z praktyką, przystępności),- zinterpretować zasady realizowane przez uczącego się (świadomości i doniosłości, wykorzystywania doświadczeń, wzorca),- wskazać przykładowe sposoby wykorzystania zasad nauczania w realizacji zadań praktycznej nauki zawodu 4 Cel kształcenia w edukacji;Klasyfikacja celów;Cel kształcenia a wymagania programowe 2 – zdefiniować cel w edukacji,- sklasyfikować cele w edukacji,- sformułować przykładowe cele kształcenia dla wskazanego zawodu na podstawie podstawy programowej,- sformułować cel kształcenia jako wymaganie programowe,- zastosować zasady operacjonalizacji celów w wybranym zawodzie dla warunków realizacji praktycznej nauki zawodu 5 Materiał nauczania a tematyka zajęć edukacyjnych;Funkcja informacyjna;Funkcja motywująca;Zasady formułowania 1 – opisać zasady formułowania tematyki zajęć edukacyjnych -dobierania materiału nauczania,- ustalić znaczenie tematu zajęć edukacyjnych,- sformułować przykładowe tematy zajęć edukacyjnych w pracy zadaniowej osób uczących się 6 Wyposażenie technodydaktyczne -organizacja edukacji zawodowej;Stanowisko pracy jako stanowisko szkoleniowe 2 – określić znaczenie mediów i środków dydaktycznych w edukacji,- zaplanować wyposażenie i organizację stanowiska pracy dla celów edukacyjnych,- dobrać wyposażenie do wykonania zadania na stanowisku pracy,- wskazać znaczenie zasad bezpieczeństwa i higieny pracy w pracy na stanowisku pracy,- ocenić wyposażenie przykładowego stanowiska pracy dla celów szkoleniowych 7 Planowanie zadań do wykonania przez osobę uczącą się 2 – wyodrębnić, w oparciu o podstawę programową kształcenia w wybranym zawodzie, przykładowe zadania do samodzielnego wykonania przez osobę uczącą się,- wyodrębnić, w oparciu o podstawę programową kształcenia w wybranym zawodzie, przykładowe zadania do wykonania przez osobę uczącą się w grupie (we współpracy) z innymi osobami,- sformułować polecenia do wykonania przykładowych zadań,- dobrać miejsce, sprzęt i inne materiały do wykonania zadania,- wskazać zasady kontroli (w tym samokontroli) podczas wykonywania przykładowego zadania 8 Metody i formy pracy w kształceniu praktycznym 2 – opisać przebieg przykładowych zajęć praktycznych,- scharakteryzować przykładowe metody stosowane w kształceniu praktycznym,- dobrać metodę kształcenia do tematyki zajęć, możliwości organizacyjnych, czasu przewidzianego na realizację i przewidywanych możliwości osoby uczącej się,- zaplanować zrealizowanie zajęć z zastosowaniem wybranych metod,- opisać techniki pracy stosowane w praktycznej nauce zawodu,- dobrać technikę pracy do zastosowanej metody, tematyki i oczekiwanego efektu wykonania zadania 9 Planowanie zajęć praktycznej nauki zawodu i planowanie dnia pracy – scenariusz 2 – opisać strukturę scenariusza zajęć edukacyjnych,- zaprojektować scenariusz dla wybranych zajęć praktycznych,- zaprojektować scenariusz dla dnia pracy młodocianego pracownika odbywającego naukę zawodu w zakładzie pracy,- opracować materiały niezbędne do zrealizowania zajęć zgodnie z zaprojektowanym scenariuszem 10 Instrukcja stanowiskowa 1 – określić funkcje instrukcji stanowiskowej,- zaprojektować instrukcję dla przykładowego stanowiska pracy 11 Karta pracy (arkusz roboczy) w organizacji praktycznej nauki zawodu 1 – określić rolę karty pracy (arkusza roboczego) w organizacji praktycznej nauki zawodu,- zaprojektować przykładową kartę pracy (arkusz roboczy) 12 Ocenianie w realizacji zajęć praktycznej nauki zawodu;Metody sprawdzania wiedzy i umiejętności;Kryteria oceniania;Informacja zwrotna w ocenianiu 2 – określić formalne wymagania dla oceniania szkolnego i oceniania w kształceniu ustawicznym,- opisać metody sprawdzania wiedzy i umiejętności w praktycznej nauce zawodu,- określić rolę kryteriów oceniania, – sformułować informację zwrotną dla przykładowej sytuacji oceniania,- zastosować ocenę szkolną w odniesieniu do przykładowej sytuacji, odpowiedniego wymagania programowego i szkolnych zasad oceniania 13 Lista kontrolna we wspieraniu wykonania zadania i samoocenianiu 1 – przeanalizować przykładową listę kontrolną,- zaprojektować listę kontrolną do wybranego zadania realizowanego przez osobę uczącą się 14 Program nauczania zawodu:1) funkcje i zasady konstruowania;2) struktura;3) wymagania prawne 2 – określić funkcje programu nauczania zawodu,- sformułować przykładowe postanowienia dla poszczególnych elementów programu nauczania zawodu w odniesieniu do praktycznej nauki zawodu 15 Modyfikacja przykładowego programu nauczania zawodu 1 – określić zasady modyfikacji programu nauczania zawodu 16 Egzamin potwierdzający kwalifikacje w zawodzie/egzamin zawodowy; Egzamin czeladniczy – zasady przeprowadzania egzaminu 2 – przeanalizować procedury egzaminacyjne egzaminu potwierdzającego kwalifikacje w zawodzie/egzaminu zawodowego,- przeanalizować zadania egzaminacyjne z informatora o egzaminie potwierdzającym kwalifikacje w zawodzie/egzaminie zawodowym,- określić wymagania dla zdania egzaminu potwierdzającego kwalifikacje w zawodzie/egzaminu zawodowego,- określić zasady przeprowadzania egzaminu czeladniczego 17 Dokumenty szkolne:1) szkolny plan nauczania;2) plan dydaktyczny nauczyciela -program nauczania;3) dziennik lekcyjny;4) arkusz ocen 1 – zinterpretować postanowienia zawarte w szkolnym planie nauczania,- dokonać wpisów w dzienniku lekcyjnym,- opracować plan dydaktyczny nauczyciela dla praktycznej nauki zawodu,- nazywać zajęcia zgodnie ze szkolnym planem nauczania i arkuszem ocen 18 Razem 27
+Metodyka praktycznej nauki zawodu
+Lp. Zakres treści realizowanych zajęć Liczba godzin Efekty kształcenia – osoba ucząca się po ukończeniu kursu potrafi: 1 Przedmiot i zadania metodyki kształcenia zawodowego 1 – określić przedmiot i zadania metodyki kształcenia zawodowego,
+wskazać zakres zadań dla metodyki praktycznej nauki zawodu 2 Podstawy programowe kształcenia w zawodach, ich rola w planowaniu i organizowaniu praktycznej nauki zawodu;
+Podstawa programowa kształcenia ogólnego – powiązania z kształceniem zawodowym;
+Kompetencje społeczne 2 – określić funkcje podstaw programowych kształcenia w zawodach,
+wskazać elementy składające się na strukturę podstawy programowej kształcenia w danym zawodzie w kontekście planowania praktycznej nauki zawodu,
+zinterpretować wybrane elementy podstawy programowej kształcenia w danym zawodzie w kontekście realizacji praktycznej nauki zawodu,
+określić powiązania podstawy programowej kształcenia w danym zawodzie z podstawą programową kształcenia ogólnego dla kształtowania kompetencji kluczowych 3 Zasady nauczania – uczenia się 2 – zinterpretować zasady realizowane przez nauczyciela (poglądowości, samodzielności, wiązania teorii z praktyką, przystępności),
+zinterpretować zasady realizowane przez uczącego się (świadomości i doniosłości, wykorzystywania doświadczeń, wzorca),
+wskazać przykładowe sposoby wykorzystania zasad nauczania w realizacji zadań praktycznej nauki zawodu 4 Cel kształcenia w edukacji;
+Klasyfikacja celów;
+Cel kształcenia a wymagania programowe 2 – zdefiniować cel w edukacji,
+sklasyfikować cele w edukacji,
+sformułować przykładowe cele kształcenia dla wskazanego zawodu na podstawie podstawy programowej,
+sformułować cel kształcenia jako wymaganie programowe,
+zastosować zasady operacjonalizacji celów w wybranym zawodzie dla warunków realizacji praktycznej nauki zawodu 5 Materiał nauczania a tematyka zajęć edukacyjnych;
+Funkcja informacyjna;
+Funkcja motywująca;
+Zasady formułowania 1 – opisać zasady formułowania tematyki zajęć edukacyjnych -dobierania materiału nauczania,
+ustalić znaczenie tematu zajęć edukacyjnych,
+sformułować przykładowe tematy zajęć edukacyjnych w pracy zadaniowej osób uczących się 6 Wyposażenie technodydaktyczne -organizacja edukacji zawodowej;
+Stanowisko pracy jako stanowisko szkoleniowe 2 – określić znaczenie mediów i środków dydaktycznych w edukacji,
+zaplanować wyposażenie i organizację stanowiska pracy dla celów edukacyjnych,
+dobrać wyposażenie do wykonania zadania na stanowisku pracy,
+wskazać znaczenie zasad bezpieczeństwa i higieny pracy w pracy na stanowisku pracy,
+ocenić wyposażenie przykładowego stanowiska pracy dla celów szkoleniowych 7 Planowanie zadań do wykonania przez osobę uczącą się 2 – wyodrębnić, w oparciu o podstawę programową kształcenia w wybranym zawodzie, przykładowe zadania do samodzielnego wykonania przez osobę uczącą się,
+wyodrębnić, w oparciu o podstawę programową kształcenia w wybranym zawodzie, przykładowe zadania do wykonania przez osobę uczącą się w grupie (we współpracy) z innymi osobami,
+sformułować polecenia do wykonania przykładowych zadań,
+dobrać miejsce, sprzęt i inne materiały do wykonania zadania,
+wskazać zasady kontroli (w tym samokontroli) podczas wykonywania przykładowego zadania 8 Metody i formy pracy w kształceniu praktycznym 2 – opisać przebieg przykładowych zajęć praktycznych,
+scharakteryzować przykładowe metody stosowane w kształceniu praktycznym,
+dobrać metodę kształcenia do tematyki zajęć, możliwości organizacyjnych, czasu przewidzianego na realizację i przewidywanych możliwości osoby uczącej się,
+zaplanować zrealizowanie zajęć z zastosowaniem wybranych metod,
+opisać techniki pracy stosowane w praktycznej nauce zawodu,
+dobrać technikę pracy do zastosowanej metody, tematyki i oczekiwanego efektu wykonania zadania 9 Planowanie zajęć praktycznej nauki zawodu i planowanie dnia pracy – scenariusz 2 – opisać strukturę scenariusza zajęć edukacyjnych,
+zaprojektować scenariusz dla wybranych zajęć praktycznych,
+zaprojektować scenariusz dla dnia pracy młodocianego pracownika odbywającego naukę zawodu w zakładzie pracy,
+opracować materiały niezbędne do zrealizowania zajęć zgodnie z zaprojektowanym scenariuszem 10 Instrukcja stanowiskowa 1 – określić funkcje instrukcji stanowiskowej,
+zaprojektować instrukcję dla przykładowego stanowiska pracy 11 Karta pracy (arkusz roboczy) w organizacji praktycznej nauki zawodu 1 – określić rolę karty pracy (arkusza roboczego) w organizacji praktycznej nauki zawodu,
+zaprojektować przykładową kartę pracy (arkusz roboczy) 12 Ocenianie w realizacji zajęć praktycznej nauki zawodu;
+Metody sprawdzania wiedzy i umiejętności;
+Kryteria oceniania;
+Informacja zwrotna w ocenianiu 2 – określić formalne wymagania dla oceniania szkolnego i oceniania w kształceniu ustawicznym,
+opisać metody sprawdzania wiedzy i umiejętności w praktycznej nauce zawodu,
+określić rolę kryteriów oceniania, – sformułować informację zwrotną dla przykładowej sytuacji oceniania,
+zastosować ocenę szkolną w odniesieniu do przykładowej sytuacji, odpowiedniego wymagania programowego i szkolnych zasad oceniania 13 Lista kontrolna we wspieraniu wykonania zadania i samoocenianiu 1 – przeanalizować przykładową listę kontrolną,
+zaprojektować listę kontrolną do wybranego zadania realizowanego przez osobę uczącą się 14 Program nauczania zawodu:
+1) funkcje i zasady konstruowania;
+2) struktura;
+3) wymagania prawne 2 – określić funkcje programu nauczania zawodu,
+sformułować przykładowe postanowienia dla poszczególnych elementów programu nauczania zawodu w odniesieniu do praktycznej nauki zawodu 15 Modyfikacja przykładowego programu nauczania zawodu 1 – określić zasady modyfikacji programu nauczania zawodu 16 Egzamin potwierdzający kwalifikacje w zawodzie/egzamin zawodowy; Egzamin czeladniczy – zasady przeprowadzania egzaminu 2 – przeanalizować procedury egzaminacyjne egzaminu potwierdzającego kwalifikacje w zawodzie/egzaminu zawodowego,
+przeanalizować zadania egzaminacyjne z informatora o egzaminie potwierdzającym kwalifikacje w zawodzie/egzaminie zawodowym,
+określić wymagania dla zdania egzaminu potwierdzającego kwalifikacje w zawodzie/egzaminu zawodowego,
+określić zasady przeprowadzania egzaminu czeladniczego 17 Dokumenty szkolne:
+1) szkolny plan nauczania;
+2) plan dydaktyczny nauczyciela -program nauczania;
+3) dziennik lekcyjny;
+4) arkusz ocen 1 – zinterpretować postanowienia zawarte w szkolnym planie nauczania,
+dokonać wpisów w dzienniku lekcyjnym,
+opracować plan dydaktyczny nauczyciela dla praktycznej nauki zawodu,
+nazywać zajęcia zgodnie ze szkolnym planem nauczania i arkuszem ocen 18 Razem 27
 4)
-Umiejętności dydaktyczne Lp. Zakres treści realizowanych zajęć Liczba godzin Efekty kształcenia – osoba ucząca się po ukończeniu kursu potrafi: 1 Symulacja przebiegu przykładowych zajęć praktycznych 3 – zademonstrować przebieg przykładowych zajęć praktycznych 2 Pokaz z objaśnieniem w kształceniu praktycznym 2 – przeprowadzić pokaz wykonania konkretnej czynności na stanowisku pracy 3 Ocenianie wykonanego zadania 2 – ocenić zaobserwowane wykonanie konkretnej czynności lub zestawu czynności na stanowisku pracy lub przeprowadzić symulację części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie/egzaminu zawodowego i ocenić zgodnie z kryteriami szkolnymi i zgodnie z zasadami egzaminacyjnymi 4 Zachowanie zasad bezpieczeństwa i higieny pracy, ochrony środowiska i przeciwpożarowych na stanowisku pracy 1 – ocenić przygotowanie stanowiska pracy pod kątem bezpieczeństwa i higieny pracy, ochrony środowiska i przeciwpożarowym 5 Razem 8
+Umiejętności dydaktyczne
+Lp. Zakres treści realizowanych zajęć Liczba godzin Efekty kształcenia – osoba ucząca się po ukończeniu kursu potrafi: 1 Symulacja przebiegu przykładowych zajęć praktycznych 3 – zademonstrować przebieg przykładowych zajęć praktycznych 2 Pokaz z objaśnieniem w kształceniu praktycznym 2 – przeprowadzić pokaz wykonania konkretnej czynności na stanowisku pracy 3 Ocenianie wykonanego zadania 2 – ocenić zaobserwowane wykonanie konkretnej czynności lub zestawu czynności na stanowisku pracy lub przeprowadzić symulację części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie/egzaminu zawodowego i ocenić zgodnie z kryteriami szkolnymi i zgodnie z zasadami egzaminacyjnymi 4 Zachowanie zasad bezpieczeństwa i higieny pracy, ochrony środowiska i przeciwpożarowych na stanowisku pracy 1 – ocenić przygotowanie stanowiska pracy pod kątem bezpieczeństwa i higieny pracy, ochrony środowiska i przeciwpożarowym 5 Razem 8
 6.
 Sposób i forma zaliczenia Kurs kończy się egzaminem złożonym z części pisemnej i praktycznej.
 

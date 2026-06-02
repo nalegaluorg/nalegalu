@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 8 sierpnia 2017 r. w sprawie przypadków, w których do publicznej lub niepublicznej szkoły dla dorosłych można przyjąć osobę, która ukończyła 16 albo 15 lat, oraz przypadków, w których osoba, która ukończyła ośmioletnią szkołę podstawową, może spełniać obowiązek nauki przez uczęszczanie na kwalifikacyjny kurs zawodowy
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 8 sierpnia 2017 r. w sprawie przypadków, w których do publicznej lub niepublicznej szkoły dla dorosłych można przyjąć osobę, która ukończyła 16 albo 15 lat, oraz przypadków, w których osoba, która ukończyła ośmioletnią szkołę podstawową, może spełniać obowiązek nauki przez uczęszczanie na kwalifikacyjny kurs zawodowy Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-08 |
 | Data wydania | 2017-08-22 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001562) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1562/text.pdf) |
 
@@ -42,11 +41,9 @@ Osoba, która ukończyła ośmioletnią szkołę podstawową oraz:
 1)
 ma opóźnienie w cyklu kształcenia związane z sytuacją życiową lub zdrowotną uniemożliwiającą lub znacznie utrudniającą podjęcie lub kontynuowanie nauki w szkole ponadpodstawowej dla młodzieży albo uniemożliwiającą lub znacznie utrudniającą realizowanie, zgodnie z przepisami w sprawie przygotowania zawodowego młodocianych i ich wynagradzania, przygotowania zawodowego u pracodawcy lub
 2)
-przebywa w zakładzie karnym, areszcie śledczym, zakładzie poprawczym lub schronisku dla nieletnich
-może realizować obowiązek nauki przez uczęszczanie na kwalifikacyjny kurs zawodowy.
+przebywa w zakładzie karnym, areszcie śledczym, zakładzie poprawczym lub schronisku dla nieletnich – może realizować obowiązek nauki przez uczęszczanie na kwalifikacyjny kurs zawodowy.
 § 5.
 Osobę, o której mowa w § 1 ust. 2, uczęszczającą do publicznej lub niepublicznej szkoły ponadgimnazjalnej lub branżowej szkoły I stopnia przeznaczonej dla uczniów będących absolwentami dotychczasowego gimnazjum można przyjąć w latach szkolnych 2017/2018–2019/2020 do trzyletniego liceum ogólnokształcącego dla dorosłych.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 

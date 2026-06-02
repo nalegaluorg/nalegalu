@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 24 sierpnia 2017 r. w sprawie praktycznej nauki zawodu
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 24 sierpnia 2017 r. w sprawie praktycznej nauki zawodu Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-24 |
 | Data wydania | 2017-08-31 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001644) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1644/text.pdf) |
 
@@ -184,8 +183,7 @@ Zajęcia praktyczne realizowane u pracodawców i w indywidualnych gospodarstwach
 1)
 pracownicy, dla których praca dydaktyczna i wychowawcza z uczniami lub młodocianymi stanowi podstawowe zajęcie i jest wykonywana w tygodniowym wymiarze godzin przewidzianym dla nauczycieli,
 2)
-pracodawcy lub wyznaczeni przez nich pracownicy albo osoby prowadzące indywidualne gospodarstwa rolne, dla których praca dydaktyczna i wychowawcza z uczniami lub młodocianymi nie stanowi podstawowego zajęcia lub jest wykonywana w tygodniowym wymiarze godzin niższym niż przewidziany dla nauczycieli, w ramach obowiązującego ich tygodniowego czasu pracy
-zwani dalej „instruktorami praktycznej nauki zawodu”.
+pracodawcy lub wyznaczeni przez nich pracownicy albo osoby prowadzące indywidualne gospodarstwa rolne, dla których praca dydaktyczna i wychowawcza z uczniami lub młodocianymi nie stanowi podstawowego zajęcia lub jest wykonywana w tygodniowym wymiarze godzin niższym niż przewidziany dla nauczycieli, w ramach obowiązującego ich tygodniowego czasu pracy – zwani dalej „instruktorami praktycznej nauki zawodu”.
 3.
 Instruktorzy praktycznej nauki zawodu, o których mowa w ust. 2 pkt 1, posiadają kwalifikacje wymagane od nauczycieli, określone w przepisach wydanych na podstawie art. 9 ust. 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
 4.
@@ -219,6 +217,5 @@ Opiekunowi praktyki zawodowej prowadzonej na statku morskim lub śródlądowym, 
 6.
 Opiekunowi praktyki zawodowej prowadzonej na statku morskim lub śródlądowym, dla którego opieka nad uczniami stanowi dodatkowe zajęcie, przysługuje dodatek w wysokości określonej w ust. 2.
 § 13.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 

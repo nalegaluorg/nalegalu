@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-12-05 |
 | Data wydania | 2008-12-31 |
-| Wejście w życie | 2009-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082371653) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1653/text.pdf) |
 
@@ -34,7 +33,7 @@ source: "eli-html"
 
 2. W celu ustalenia wysokości środków na finansowanie zespołów ratownictwa medycznego pomiędzy poszczególne województwa należy kolejno obliczyć:
 
-- **1)** dla każdego województwa – sumę: iloczynu liczby zespołów podstawowych w tym województwie i wskaźnika kosztów całodobowego utrzymania zespołu podstawowego stanowiącego 0,75 kosztów całodobowego utrzymania zespołu specjalistycznego oraz liczby zespołów specjalistycznych zwaną dalej „unormowaną liczbą zespołów”;
+- **1)** dla każdego województwa – sumę: iloczynu liczby zespołów podstawowych w tym województwie i wskaźnika kosztów całodobowego utrzymania zespołu podstawowego stanowiącego 0,75 kosztów całodobowego utrzymania zespołu specjalistycznego oraz liczby zespołów specjalistycznych – zwaną dalej „unormowaną liczbą zespołów”;
     - **a)**
     - **b)**
 

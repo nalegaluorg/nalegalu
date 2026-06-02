@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 4 kwietnia 2014 r. o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw
+# Ustawa z dnia 4 kwietnia 2014 r. o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 21 marca 1985 r. o drogach publicznych oraz ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-04 |
 | Data wydania | 2014-05-21 |
-| Wejście w życie | 2014-06-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000659) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/659/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513 oraz z 2013 r. poz. 21 i 165.) wprowadza się następujące zmiany:
 
 - **1)** w art. 40 ust. 2 otrzymuje brzmienie: „
 
-2. Zakazy, o których mowa w ust. 1 pkt 1 i 3, nie dotyczą wykorzystywania gruzu, mas ziemnych oraz skalnych przy wykonywaniu robót związanych z utrzymywaniem lub regulacją wód, lokalizowania inwestycji gospodarki rybackiej, a także budowy, przebudowy lub remontu dróg rowerowych w rozumieniu ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2013 r. poz. 260, z późn. zm.). ” ;
+2. Zakazy, o których mowa w ust. 1 pkt 1 i 3, nie dotyczą wykorzystywania gruzu, mas ziemnych oraz skalnych przy wykonywaniu robót związanych z utrzymywaniem lub regulacją wód, lokalizowania inwestycji gospodarki rybackiej, a także budowy, przebudowy lub remontu dróg rowerowych w rozumieniu ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2013 r. poz. 260, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 843, 1446 i 1543 oraz z 2014 r. poz. 659.). ” ;
 
-- **2)** w art. 88l: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) wykonywania urządzeń wodnych oraz budowy innych obiektów budowlanych, z wyjątkiem dróg rowerowych; ” , – pkt 3 otrzymuje brzmienie: „ 3) zmiany ukształtowania terenu, składowania materiałów oraz wykonywania innych robót, z wyjątkiem robót związanych z regulacją lub utrzymywaniem wód oraz brzegu morskiego, budową, przebudową lub remontem drogi rowerowej, a także utrzymywaniem, odbudową, rozbudową lub przebudową wałów przeciwpowodziowych wraz z obiektami związanymi z nimi funkcjonalnie oraz czynności związanych z wyznaczaniem szlaku turystycznego pieszego lub rowerowego. ” , po ust. 1 dodaje się ust. 1a-1e w brzmieniu: „
+- **2)** w art. 88l: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** wykonywania urządzeń wodnych oraz budowy innych obiektów budowlanych, z wyjątkiem dróg rowerowych; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** zmiany ukształtowania terenu, składowania materiałów oraz wykonywania innych robót, z wyjątkiem robót związanych z regulacją lub utrzymywaniem wód oraz brzegu morskiego, budową, przebudową lub remontem drogi rowerowej, a także utrzymywaniem, odbudową, rozbudową lub przebudową wałów przeciwpowodziowych wraz z obiektami związanymi z nimi funkcjonalnie oraz czynności związanych z wyznaczaniem szlaku turystycznego pieszego lub rowerowego. ” , po ust. 1 dodaje się ust. 1a-1e w brzmieniu: „
     - **b)**
 
 1a. Budowa, przebudowa lub remont drogi rowerowej oraz wyznaczanie szlaku turystycznego pieszego lub rowerowego wymaga zgłoszenia:
@@ -94,11 +96,11 @@ source: "eli-html"
 - **7)** w art. 194 pkt 4 otrzymuje brzmienie: „
 - **4)** nie stosuje się do zakazów, o których mowa w art. 39, art. 40 ust. 1 i art. 88n ust. 3a, ” .
 
-**Art. 2.** W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2013 r. poz. 482, z późn. zm.) w art. 80 w § 1 pkt 1 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2013 r. poz. 482, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 829, 1247, 1446 i 1567 oraz z 2014 r. poz. 498.) w art. 80 w § 1 pkt 1 otrzymuje brzmienie: „
 
 - **1)** przejeżdża pojazdem lub konno albo przepędza zwierzę gospodarskie przez wał przeciwpowodziowy w miejscu do tego nieprzeznaczonym lub przejeżdża pojazdem innym niż rower lub konno albo przepędza zwierzę gospodarskie wzdłuż po wale przeciwpowodziowym, na którym nie ma drogi o dostatecznie mocnej nawierzchni, ” .
 
-**Art. 3.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2013 r. poz. 260, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2013 r. poz. 260, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 843, 1446 i 1543.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 po pkt 11 dodaje się pkt 11a w brzmieniu: „
 - **11a)** droga rowerowa – drogę przeznaczoną do ruchu rowerów albo rowerów i pieszych, z której może korzystać każdy, zgodnie z jej przeznaczeniem; ” ;
@@ -110,5 +112,5 @@ source: "eli-html"
 
 - **1)** wydzielanie gruntów pod drogi publiczne, drogi rowerowe i drogi wodne, budowa, utrzymywanie oraz wykonywanie robót budowlanych tych dróg, obiektów i urządzeń transportu publicznego, a także łączności publicznej i sygnalizacji; ” .
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 21 marca 1985 r. o drogach publicznych oraz ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513 oraz z 2013 r. poz. 21 i 165. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 843, 1446 i 1543 oraz z 2014 r. poz. 659. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 829, 1247, 1446 i 1567 oraz z 2014 r. poz. 498. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 843, 1446 i 1543.
 

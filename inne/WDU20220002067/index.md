@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 15 grudnia 2009 r. w sprawie określenia organów administracji rządowej, które utworzą centra zarządzania kryzysowego, oraz sposobu ich funkcjonowania (Dz. U. poz. 1810), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Rady Ministrów z dnia 21 września 2018 r. zmieniającym rozporządzenie w sprawie określenia organów administracji rządowej, które utworzą centra zarządzania kryzysowego, oraz sposobu ich funkcjonowania (Dz. U. poz. 1974).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 21 września 2018 r. zmieniającego rozporządzenie w sprawie określenia organów administracji rządowej, które utworzą centra zarządzania kryzysowego, oraz sposobu ich funkcjonowania (Dz. U. poz. 1974), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 21 września 2018 r. zmieniającego rozporządzenie w sprawie określenia organów administracji rządowej, które utworzą centra zarządzania kryzysowego, oraz sposobu ich funkcjonowania (Dz. U. poz. 1974), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Rady Ministrów z dnia 15 grudnia 2009 r. w sprawie określenia organów administracji rządowej, które utworzą centra zarządzania kryzysowego, oraz sposobu ich funkcjonowania
 Na podstawie art. 13 ust. 3 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2022 r. poz. 261 i 583) zarządza się, co następuje:
 § 1.
@@ -65,7 +63,7 @@ Komendant Główny Państwowej Straży Pożarnej;
 Komendant Główny Policji;
 9)
 Komendant Główny Straży Granicznej;
-9a)
+9aDodany przez § 1 rozporządzenia Rady Ministrów z dnia 21 września 2018 r. zmieniającego rozporządzenie w sprawie określenia organów administracji rządowej, które utworzą centra zarządzania kryzysowego, oraz sposobu ich funkcjonowania (Dz. U. poz. 1974), które weszło w życie z dniem 31 października 2018 r.)
 Komendant Służby Ochrony Państwa;
 10)
 Szef Agencji Bezpieczeństwa Wewnętrznego;
@@ -83,7 +81,7 @@ Minister może utworzyć wspólne centrum zarządzania kryzysowego z organami mu
 Centrum zarządzania kryzysowego umieszcza się w kompleksie wyodrębnionych pomieszczeń, dostępnych wyłącznie dla osób upoważnionych, w tym pomieszczeń operatorsko-dyspozytorskich, których wyposażenie umożliwia gromadzenie, przetwarzanie i wymianę niezbędnych informacji w zakresie zarządzania kryzysowego, prowadzenie analiz i ocen sytuacji kryzysowych oraz przekazywanie decyzji właściwych organów zarządzania kryzysowego.
 § 4.
 1.
-Centrum zarządzania kryzysowego realizuje swoje zadania, określone w art. 13 ust. 2 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, w oparciu o standardy określone w przepisach wydanych na podstawie art. 6 ust. 2 pkt 2 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 372 i 1728), z zachowaniem wymogów bezpieczeństwa systemów i sieci teleinformatycznych określonych w ustawie z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz. U. z 2005 r. poz. 1631, z późn. zm.), z zachowaniem:
+Centrum zarządzania kryzysowego realizuje swoje zadania, określone w art. 13 ust. 2 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, w oparciu o standardy określone w przepisach wydanych na podstawie art. 6 ust. 2 pkt 2 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 372 i 1728)Ustawa utraciła moc na podstawie art. 823 pkt 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655, 974 i 1725), która weszła w życie z dniem 23 kwietnia 2022 r., z zachowaniem wymogów bezpieczeństwa systemów i sieci teleinformatycznych określonych w ustawie z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz. U. z 2005 r. poz. 1631, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. poz. 708, 711, 1078, 1592 i 1600, z 2007 r. poz. 162, z 2008 r. poz. 1056 oraz z 2009 r. poz. 1375.)Ustawa utraciła moc na podstawie art. 190 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742 oraz z 2022 r. poz. 655 i 1933), która weszła w życie z dniem 2 stycznia 2011 r., z zachowaniem:
 1)
 ciągłości działania i wymiany informacji;
 2)
@@ -141,5 +139,5 @@ Do czasu spełnienia wymogu określonego w ust. 1 zadania centrum zarządzania k
 3.
 Plany przemieszczenia, o których mowa w § 5 ust. 4, należy opracować w urzędzie obsługującym organ, o którym mowa w § 2 ust. 1, w terminie do dnia 31 grudnia 2011 r.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 31 grudnia 2009 r.. 1) Dodany przez § 1 rozporządzenia Rady Ministrów z dnia 21 września 2018 r. zmieniającego rozporządzenie w sprawie określenia organów administracji rządowej, które utworzą centra zarządzania kryzysowego, oraz sposobu ich funkcjonowania (Dz. U. poz. 1974), które weszło w życie z dniem 31 października 2018 r. 2) Ustawa utraciła moc na podstawie art. 823 pkt 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655, 974 i 1725), która weszła w życie z dniem 23 kwietnia 2022 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. poz. 708, 711, 1078, 1592 i 1600, z 2007 r. poz. 162, z 2008 r. poz. 1056 oraz z 2009 r. poz. 1375. 4) Ustawa utraciła moc na podstawie art. 190 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742 oraz z 2022 r. poz. 655 i 1933), która weszła w życie z dniem 2 stycznia 2011 r. 5) Rozporządzenie zostało ogłoszone w dniu 31 grudnia 2009 r.
 

@@ -22,15 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-10-10 |
 | Data wydania | 2012-11-15 |
-| Wejście w życie | 2012-11-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001258) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1258/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku suszu paszowego oraz rynków lnu i konopi uprawianych na włókno (Dz. U. z 2011 r. Nr 145, poz. 868 oraz z 2012 r. poz. 243) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W zakresie określonym przepisami Unii Europejskiej, jeżeli ustawa nie stanowi inaczej, zadania i kompetencje właściwego organu państwa członkowskiego wykonuje marszałek województwa, w tym dokonuje powiadomień, przekazuje informacje oraz wydaje decyzje w szczególności w sprawach: ” , – pkt 1 otrzymuje brzmienie: „ 1) wstępnego uznania grupy producentów owoców i warzyw, zwanej dalej „grupą producentów”, i wstępnego zatwierdzenia planu dochodzenia do uznania grupy producentów za organizację producentów owoców i warzyw, zwaną dalej „organizacją producentów”; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) zatwierdzenia planu dochodzenia do uznania wstępnie uznanej grupy producentów za organizację producentów, zwanego dalej „planem dochodzenia do uznania”; ” , – pkt 2 otrzymuje brzmienie: „ 2) zmian do zatwierdzonego planu dochodzenia do uznania, z wyłączeniem zmian określonych w przepisach wydanych na podstawie art. 19 ust. 2 pkt 19; ” , w ust. 1a: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Oprócz przypadków, o których mowa w art. 114 i art. 115 rozporządzenia wykonawczego Komisji (UE) nr 543/2011 z dnia 7 czerwca 2011 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1234/2007 w odniesieniu do sektora owoców i warzyw oraz sektora przetworzonych owoców i warzyw (Dz. Urz. UE L 157 z 15.06.2011, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 543/2011”, marszałek województwa wydaje decyzję o zawieszeniu uznania albo wstępnego uznania także w przypadku, gdy: ” , – pkt 2 otrzymuje brzmienie: „ 2) grupa producentów nie przekazuje informacji, o których mowa w art. 13 ust. 1a, albo informacji określonych w przepisach wydanych na podstawie art. 19 ust. 2 pkt 19. ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
+- **1)** w art. 2: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W zakresie określonym przepisami Unii Europejskiej, jeżeli ustawa nie stanowi inaczej, zadania i kompetencje właściwego organu państwa członkowskiego wykonuje marszałek województwa, w tym dokonuje powiadomień, przekazuje informacje oraz wydaje decyzje w szczególności w sprawach: ” , pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** wstępnego uznania grupy producentów owoców i warzyw, zwanej dalej „grupą producentów”, i wstępnego zatwierdzenia planu dochodzenia do uznania grupy producentów za organizację producentów owoców i warzyw, zwaną dalej „organizacją producentów”; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** zatwierdzenia planu dochodzenia do uznania wstępnie uznanej grupy producentów za organizację producentów, zwanego dalej „planem dochodzenia do uznania”; ” , pkt 2 otrzymuje brzmienie: „
+- **2)** zmian do zatwierdzonego planu dochodzenia do uznania, z wyłączeniem zmian określonych w przepisach wydanych na podstawie art. 19 ust. 2 pkt 19; ” , w ust. 1a: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Oprócz przypadków, o których mowa w art. 114 i art. 115 rozporządzenia wykonawczego Komisji (UE) nr 543/2011 z dnia 7 czerwca 2011 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1234/2007 w odniesieniu do sektora owoców i warzyw oraz sektora przetworzonych owoców i warzyw (Dz. Urz. UE L 157 z 15.06.2011, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 543/2011”, marszałek województwa wydaje decyzję o zawieszeniu uznania albo wstępnego uznania także w przypadku, gdy: ” , pkt 2 otrzymuje brzmienie: „
     - **b)**
+
+- **2)** grupa producentów nie przekazuje informacji, o których mowa w art. 13 ust. 1a, albo informacji określonych w przepisach wydanych na podstawie art. 19 ust. 2 pkt 19. ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
     - **c)**
 
 - **1)** przeprowadza kontrole w zakresie spełniania warunków: wstępnego uznania grupy producentów i wstępnego zatwierdzenia planu dochodzenia do uznania, zatwierdzenia planu dochodzenia do uznania, uznania za organizację producentów podmiotu wnioskującego o wstępne uznanie za grupę producentów, zmian do zatwierdzonego planu dochodzenia do uznania, uznania organizacji producentów i ich zrzeszeń, uznania ponadnarodowych organizacji producentów i ich zrzeszeń; ” ;
@@ -61,7 +66,12 @@ source: "eli-html"
 1a. Marszałek województwa przekazuje ministrowi właściwemu do spraw rynków rolnych oraz Prezesowi Agencji Restrukturyzacji informacje o:
 
 - **1)** skutkach finansowych wstępnie zatwierdzonych planów dochodzenia do uznania na formularzu stanowiącym załącznik Vb do rozporządzenia nr 543/2011, do dnia 20 czerwca danego roku;
-- **2)** wysokości wydatków określonych w planie dochodzenia do uznania: zatwierdzonym decyzją, o której mowa w art. 2 ust. 1 pkt 1a, w przypadku zmiany tej wysokości. ” , w ust. 3: – uchyla się pkt 1, – pkt 2 otrzymuje brzmienie: „ 2) odmowie: a) wstępnego uznania grupy producentów i wstępnego zatwierdzenia planu dochodzenia do uznania, b) zatwierdzenia planu dochodzenia do uznania, c) uznania organizacji producentów i ich zrzeszeń – w terminie 7 dni od dnia wydania odmowy. ” ;
+- **2)** wysokości wydatków określonych w planie dochodzenia do uznania: zatwierdzonym decyzją, o której mowa w art. 2 ust. 1 pkt 1a, w przypadku zmiany tej wysokości. ” , w ust. 3: – uchyla się pkt 1, pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** odmowie: wstępnego uznania grupy producentów i wstępnego zatwierdzenia planu dochodzenia do uznania, zatwierdzenia planu dochodzenia do uznania, uznania organizacji producentów i ich zrzeszeń – w terminie 7 dni od dnia wydania odmowy. ” ;
     - **a)**
     - **b)**
     - **c)**
@@ -78,7 +88,7 @@ source: "eli-html"
 
 - **1)** składa wniosek o zatwierdzenie planu dochodzenia do uznania albo
 - **2)** dokonuje zmiany wstępnie zatwierdzonego planu dochodzenia do uznania, dostosowując plan do wysokości współczynnika przydziału, o którym mowa w art. 47 ust. 4 akapit drugi rozporządzenia nr 543/2011, i składa wniosek o zatwierdzenie planu dochodzenia do uznania, albo
-- **3)** wycofuje wstępnie zatwierdzony plan dochodzenia do uznania w terminie 2 miesięcy od dnia otrzymania zawiadomienia, o którym mowa w ust. 1.
+- **3)** wycofuje wstępnie zatwierdzony plan dochodzenia do uznania – w terminie 2 miesięcy od dnia otrzymania zawiadomienia, o którym mowa w ust. 1.
 
 4. Wnioski, o których mowa w ust. 3, zawierają nazwę, określenie siedziby i adres wnioskodawcy, a wniosek, o którym mowa w ust. 3 pkt 2, zawiera ponadto określenie proponowanych zmian w planie dochodzenia do uznania wraz z uzasadnieniem i pozytywną opinią dyrektora oddziału regionalnego Agencji Restrukturyzacji właściwego ze względu na siedzibę grupy producentów dotyczącą proponowanych zmian w planie dochodzenia do uznania.
 
@@ -120,8 +130,10 @@ source: "eli-html"
 
 - **c)**
 - **1)** opiniuje grupie producentów ubiegającej się o wstępne uznanie plan dochodzenia do uznania oraz jego zmiany w zakresie dokładności informacji podanych w tym planie, jego spójności handlowej, jakości technicznej i rzetelności szacunków w nim zawartych, harmonogramu wdrożenia tego planu, zasadności czasu jego trwania, kwalifikowalności zaproponowanych w nim inwestycji i zasadności wydatków z nimi związanych oraz okresu członkostwa producenta w grupie producentów – w terminie 45 dni od dnia złożenia tego planu lub jego zmiany, a w przypadku zmiany wstępnie zatwierdzonego planu, o której mowa w art. 3a ust. 3 pkt 2 – w terminie 14 dni od dnia złożenia tego planu; ” ;
-- **8)** w art. 10: w pkt 2: – po lit. a dodaje się lit. aa w brzmieniu: „ aa) kwotach finansowych odpowiadających każdemu rocznemu okresowi realizacji planów dochodzenia do uznania – na formularzu udostępnionym przez ministra właściwego do spraw rynków rolnych, ” , – lit. c otrzymuje brzmienie: „ c) udzieleniu i wypłacie pomocy finansowej i innych środków finansowych wstępnie uznanym grupom producentów i uznanym organizacjom producentów oraz zrzeszeniom organizacji producentów – na formularzu udostępnionym przez ministra właściwego do spraw rynków rolnych; ” , pkt 3 otrzymuje brzmienie: „
+- **8)** w art. 10: w pkt 2: po lit. a dodaje się lit. aa w brzmieniu: „ kwotach finansowych odpowiadających każdemu rocznemu okresowi realizacji planów dochodzenia do uznania – na formularzu udostępnionym przez ministra właściwego do spraw rynków rolnych, ” , lit. c otrzymuje brzmienie: „ udzieleniu i wypłacie pomocy finansowej i innych środków finansowych wstępnie uznanym grupom producentów i uznanym organizacjom producentów oraz zrzeszeniom organizacji producentów – na formularzu udostępnionym przez ministra właściwego do spraw rynków rolnych; ” , pkt 3 otrzymuje brzmienie: „
     - **a)**
+    - **aa)**
+    - **c)**
     - **b)**
 
 - **3)** monitoruje: wdrażanie strategii krajowej i ocenia sposób jej wdrożenia, poziom wykorzystania kwoty wkładu przydzielonego zgodnie z art. 47 ust. 4 akapit drugi rozporządzenia nr 543/2011. ” ;
@@ -138,8 +150,11 @@ source: "eli-html"
 
 3. Jeżeli członek grupy producentów nie spełnia warunku, o którym mowa w ust. 1, marszałek województwa wydaje decyzję o cofnięciu wstępnego uznania grupy producentów, której członkiem jest ten producent. ” ;
 
-- **10)** w art. 15: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) wydaje i cofa, w drodze decyzji, zezwolenie na korzystanie ze specjalnego wzoru oznakowania opakowań określonego w załączniku II do rozporządzenia nr 543/2011; ” , – pkt 5 otrzymuje brzmienie: „ 5) przeprowadza kontrole w zakresie spełniania przez handlowców w rozumieniu art. 10 rozporządzenia nr 543/2011 obowiązku przekazywania informacji, o których mowa w art. 17 ust. 1, 2 i 4, oraz zgodności tych informacji ze stanem faktycznym. ” , ust. 1b otrzymuje brzmienie: „
+- **10)** w art. 15: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** wydaje i cofa, w drodze decyzji, zezwolenie na korzystanie ze specjalnego wzoru oznakowania opakowań określonego w załączniku II do rozporządzenia nr 543/2011; ” , pkt 5 otrzymuje brzmienie: „
+- **5)** przeprowadza kontrole w zakresie spełniania przez handlowców w rozumieniu art. 10 rozporządzenia nr 543/2011 obowiązku przekazywania informacji, o których mowa w art. 17 ust. 1, 2 i 4, oraz zgodności tych informacji ze stanem faktycznym. ” , ust. 1b otrzymuje brzmienie: „
     - **b)**
 
 1b. Kontrolę zgodności w punkcie sprzedaży detalicznej przeprowadza się w sposób określony w załączniku V do rozporządzenia nr 543/2011. ” ;

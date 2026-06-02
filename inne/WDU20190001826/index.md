@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Rolnictwa i Rozwoju Wsiz dnia 5 września 2019 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowego sposobu stosowania nawozów oraz prowadzenia szkoleń z zakresu ich stosowania
+# Obwieszczenie Ministra Rolnictwa i Rozwoju Wsiz dnia 5 września 2019 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowego sposobu stosowania nawozów oraz prowadzenia szkoleń z zakresu ich stosowania Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 
 | Pole | Wartość |
 |---|---|
@@ -31,12 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 16 kwietnia 2008 r. w sprawie szczegółowego sposobu stosowania nawozów oraz prowadzenia szkoleń z zakresu ich stosowania (Dz. U. z 2014 r. poz. 393), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 20 lipca 2018 r. zmieniającym rozporządzenie w sprawie szczegółowego sposobu stosowania nawozów oraz prowadzenia szkoleń z zakresu ich stosowania (Dz. U. poz. 1438).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 20 lipca 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego sposobu stosowania nawozów oraz prowadzenia szkoleń z zakresu ich stosowania (Dz. U. poz. 1438), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 20 lipca 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego sposobu stosowania nawozów oraz prowadzenia szkoleń z zakresu ich stosowania (Dz. U. poz. 1438), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 kwietnia 2008 r. w sprawie szczegółowego sposobu stosowania nawozów oraz prowadzenia szkoleń z zakresu ich stosowania
 Na podstawie art. 22 ustawy z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. z 2018 r. poz. 1259 oraz z 2019 r. poz. 1495 i 1501) zarządza się, co następuje:
 § 1.
@@ -53,15 +50,15 @@ Nawozy mogą być stosowane łącznie ze środkami ochrony roślin jedynie wówc
 3.
 Przy ustalaniu dawek nawozu uwzględnia się potrzeby pokarmowe roślin i zasobność gleby w składniki pokarmowe, a w przypadku stosowania odpadów w rozumieniu przepisów o odpadach, środków wspomagających uprawę roślin i dodatków do wzbogacenia gleby – również dawki składników pokarmowych wprowadzanych do gleby z tymi substancjami.
 4.
-(uchylony).
+(uchylony).Przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 20 lipca 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego sposobu stosowania nawozów oraz prowadzenia szkoleń z zakresu ich stosowania (Dz. U. poz. 1438), które weszło w życie z dniem 27 lipca 2018 r.
 § 3.
 1.
-(uchylony).
+(uchylony).Przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.
 2.
 Nawozy naturalne i organiczne, w postaci stałej, mogą być stosowane podczas wegetacji roślin (pogłównie) tylko na użytkach zielonych i na wieloletnich uprawach polowych roślin nieprzeznaczonych do bezpośredniego spożycia przez ludzi.
 3.
-(uchylony).
-4.
+(uchylony).Przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.
+4W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Nawozy mineralne, nawozy organiczne i nawozy organiczno-mineralne, zawierające w swoim składzie fosfor, stosuje się na gruntach rolnych w odległości co najmniej 5 m od brzegu:
 1)
 jezior i innych zbiorników wodnych o powierzchni do 50 ha;
@@ -71,7 +68,7 @@ cieków naturalnych;
 rowów w rozumieniu ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r. poz. 125, 534 i 1495), z wyłączeniem rowów o szerokości do 5 m liczonej na górnej krawędzi brzegu rowu;
 4)
 kanałów w rozumieniu ustawy z dnia 20 lipca 2017 r. – Prawo wodne.
-4a.
+4aW brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Nawozy mineralne, nawozy organiczne i nawozy organiczno-mineralne, zawierające w swoim składzie fosfor, stosuje się na gruntach rolnych w odległości co najmniej 20 m od:
 1)
 brzegu jezior i innych zbiorników wodnych o powierzchni powyżej 50 ha;
@@ -80,14 +77,14 @@ ujęć wody – jeżeli nie ustanowiono strefy ochronnej na podstawie ustawy z d
 3)
 obszarów morskiego pasa nadbrzeżnego.
 4b.
-(uchylony).
+(uchylony).Przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 2.
 5.
-(uchylony).
-6.
+(uchylony).Przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 2.
+6Dodany przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 2..
 Odległości określone w ust. 4 i 4a, jeżeli występuje uprawa roślin, mogą zostać zmniejszone o połowę w przypadku stosowania nawozów mineralnych, nawozów organicznych i nawozów organiczno-mineralnych, zawierających w swoim składzie fosfor, za pomocą urządzeń aplikujących je bezpośrednio do gleby.
-7.
+7Dodany przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 2..
 Odległości określone w ust. 4 i 4a, jeżeli występuje uprawa roślin, mogą zostać zmniejszone o połowę w przypadku podzielenia pełnej dawki nawozów mineralnych, nawozów organicznych i nawozów organiczno-mineralnych, zawierających w swoim składzie fosfor, na co najmniej trzy równe dawki, przy czym odstęp między zastosowaniem tych dawek nawozów nie może być krótszy niż 14 dni.
-§ 3a.
+§ 3aDodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku punktowego stosowania nawozów mineralnych, nawozów organicznych lub nawozów organiczno-mineralnych, zawierających w swoim składzie fosfor, w wyniku mycia rozsiewaczy i sprzętu do aplikacji tych nawozów oraz rozlewania wody z ich mycia, należy zachować odległość nie mniejszą niż 25 m od:
 1)
 brzegu jezior i innych zbiorników wodnych;
@@ -101,7 +98,7 @@ brzegu kanałów w rozumieniu ustawy z dnia 20 lipca 2017 r. – Prawo wodne;
 ujęć wody – jeżeli nie ustanowiono strefy ochronnej na podstawie ustawy z dnia 20 lipca 2017 r. – Prawo wodne;
 6)
 obszarów morskiego pasa nadbrzeżnego.
-§ 3b.
+§ 3bDodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Do sposobu stosowania nawozów, w zakresie nieobjętym przepisami § 2–3a, mają zastosowanie przepisy rozdziału 4 w dziale III ustawy z dnia 20 lipca 2017 r. – Prawo wodne.
 § 4.
 (uchylony).
@@ -126,5 +123,5 @@ uczelnie prowadzące studia wyższe na kierunku rolnictwo.
 § 6.
 Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 1 czerwca 2001 r. w sprawie szczegółowego sposobu stosowania nawozów oraz prowadzenia szkoleń z zakresu ich stosowania (Dz. U. poz. 616).
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 12 maja 2008 r.. 2) Przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 20 lipca 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego sposobu stosowania nawozów oraz prowadzenia szkoleń z zakresu ich stosowania (Dz. U. poz. 1438), które weszło w życie z dniem 27 lipca 2018 r. 3) Przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) Przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 2. 6) Dodany przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 2. 7) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 8) Rozporządzenie zostało ogłoszone w dniu 12 maja 2008 r.
 

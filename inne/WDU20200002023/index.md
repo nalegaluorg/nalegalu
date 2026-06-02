@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 października 2020 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw
+# Ustawa z dnia 28 października 2020 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 810/2009 z dnia 13 lipca 2009 r. ustanawiającego Wspólnotowy Kodeks Wizowy (kodeks wizowy) (Dz. Urz. UE L 243 z 15.09.2009, str. 1, Dz. Urz. UE L 258 z 04.10.2011, str. 9, Dz. Urz. UE L 58 z 29.02.2012, str. 3, Dz. Urz. UE L 182 z 29.06.2013, str. 1, Dz. Urz. UE L 114 z 04.05.2018, str. 39, Dz. Urz. UE L 284 z 12.11.2018, str. 38 oraz Dz. Urz. UE L 188 z 12.07.2019, str. 25).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-10-28 |
 | Data wydania | 2020-11-16 |
-| Wejście w życie | 2020-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002023) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2023/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 16 września 2011 r. o współpracy rozwojowej oraz ustawę z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 1.** W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2020 r. poz. 35) wprowadza się następujące zmiany:
 
@@ -43,7 +44,7 @@ source: "eli-html"
 - **3)** urzędzie obsługującym ministra właściwego do spraw wewnętrznych,
 - **4)** Komendzie Głównej Straży Granicznej,
 - **5)** komendzie oddziału Straży Granicznej,
-- **6)** placówce Straży Granicznej obowiązki dotyczące czynności postępowania administracyjnego w sprawach uregulowanych w ustawie, określone w przepisach działu II Kodeksu postępowania administracyjnego, w szczególności przygotowywanie projektów załatwienia spraw i przeprowadzanie dowodów, z wyłączeniem czynności kancelaryjnych, a także załatwiania tych spraw na podstawie upoważnienia, o którym mowa w art. 268a Kodeksu postępowania administracyjnego, powierza się po sprawdzeniu przez pracodawcę, że pracownik nie był skazany prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
+- **6)** placówce Straży Granicznej – obowiązki dotyczące czynności postępowania administracyjnego w sprawach uregulowanych w ustawie, określone w przepisach działu II Kodeksu postępowania administracyjnego, w szczególności przygotowywanie projektów załatwienia spraw i przeprowadzanie dowodów, z wyłączeniem czynności kancelaryjnych, a także załatwiania tych spraw na podstawie upoważnienia, o którym mowa w art. 268a Kodeksu postępowania administracyjnego, powierza się po sprawdzeniu przez pracodawcę, że pracownik nie był skazany prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
 
 2. Sprawdzenia, o którym mowa w ust. 1, dokonuje się przed zatrudnieniem danej osoby na stanowisku związanym z wykonywaniem obowiązków, o których mowa w ust. 1, a także przed powierzeniem pracownikowi nowych obowiązków, o których mowa w ust. 1, przez zasięgnięcie informacji o danej osobie z Krajowego Rejestru Karnego.
 
@@ -135,8 +136,10 @@ source: "eli-html"
 
 - **1)** uzasadnienie obejmujące wskazanie istotnych faktów odnoszących się do powodów odmowy;
 - **2)** pouczenie o dopuszczalności i trybie wniesienia skargi do sądu administracyjnego, wysokości wpisu od skargi, a także możliwości ubiegania się przez stronę o zwolnienie od kosztów albo przyznanie prawa pomocy. ” ;
-- **18)** w art. 77: w ust. 1 w pkt 1: – w lit. c tiret czwarte otrzymuje brzmienie: „ – nazwę państwa, które go wystawiło, ” , – lit. e i f otrzymują brzmienie: „ e) nazwisko, imię, adres, numer telefonu, adres poczty elektronicznej oraz obywatelstwo osoby sprawującej władzę rodzicielską nad cudzoziemcem lub opiekuna prawnego cudzoziemca – w przypadku osoby małoletniej, f) nazwę i adres siedziby szkoły albo jednostki prowadzącej studia pierwszego stopnia, studia drugiego stopnia lub jednolite studia magisterskie albo kształcenie w szkole doktorskiej – w przypadku cudzoziemców będących uczniami albo studentami lub doktorantami, ” , – po lit. f dodaje się lit. fa w brzmieniu: „ fa) informację o kierunku studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich, a w przypadku szkoły doktorskiej – informację o dyscyplinach naukowych albo artystycznych, oraz informację o semestrze lub roku – w przypadku cudzoziemców będących studentami lub doktorantami, ” , – po lit. s dodaje się lit. sa w brzmieniu: „ sa) informacje o posiadanym zezwoleniu na pracę, zaświadczeniu o wpisie wniosku do ewidencji wniosków w sprawie pracy sezonowej, oświadczeniu o powierzeniu wykonywania pracy cudzoziemcowi lub zwolnieniu z obowiązku posiadania zezwolenia na pracę, ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **18)** w art. 77: w ust. 1 w pkt 1: w lit. c tiret czwarte otrzymuje brzmienie: „ – nazwę państwa, które go wystawiło, ” , lit. e i f otrzymują brzmienie: „ nazwisko, imię, adres, numer telefonu, adres poczty elektronicznej oraz obywatelstwo osoby sprawującej władzę rodzicielską nad cudzoziemcem lub opiekuna prawnego cudzoziemca – w przypadku osoby małoletniej, nazwę i adres siedziby szkoły albo jednostki prowadzącej studia pierwszego stopnia, studia drugiego stopnia lub jednolite studia magisterskie albo kształcenie w szkole doktorskiej – w przypadku cudzoziemców będących uczniami albo studentami lub doktorantami, ” , – po lit. f dodaje się lit. fa w brzmieniu: „ fa) informację o kierunku studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich, a w przypadku szkoły doktorskiej – informację o dyscyplinach naukowych albo artystycznych, oraz informację o semestrze lub roku – w przypadku cudzoziemców będących studentami lub doktorantami, ” , – po lit. s dodaje się lit. sa w brzmieniu: „ sa) informacje o posiadanym zezwoleniu na pracę, zaświadczeniu o wpisie wniosku do ewidencji wniosków w sprawie pracy sezonowej, oświadczeniu o powierzeniu wykonywania pracy cudzoziemcowi lub zwolnieniu z obowiązku posiadania zezwolenia na pracę, ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
+    - **e)**
+    - **f)**
     - **b)**
 
 1a. W przypadku cudzoziemca będącego:
@@ -206,7 +209,7 @@ source: "eli-html"
 - **1)** Urzędzie do Spraw Cudzoziemców,
 - **2)** Komendzie Głównej Straży Granicznej,
 - **3)** komendzie oddziału Straży Granicznej,
-- **4)** placówce Straży Granicznej obowiązki dotyczące czynności postępowania administracyjnego w sprawach uregulowanych w ustawie, z wyjątkiem spraw, o których mowa w rozdziale 5 w dziale II, określone w przepisach działu II Kodeksu postępowania administracyjnego, w szczególności przygotowywanie projektów załatwienia spraw i przeprowadzanie dowodów, z wyłączeniem czynności kancelaryjnych, a także załatwiania tych spraw na podstawie upoważnienia, o którym mowa w art. 268a Kodeksu postępowania administracyjnego, powierza się po sprawdzeniu przez pracodawcę, że pracownik nie był skazany prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
+- **4)** placówce Straży Granicznej – obowiązki dotyczące czynności postępowania administracyjnego w sprawach uregulowanych w ustawie, z wyjątkiem spraw, o których mowa w rozdziale 5 w dziale II, określone w przepisach działu II Kodeksu postępowania administracyjnego, w szczególności przygotowywanie projektów załatwienia spraw i przeprowadzanie dowodów, z wyłączeniem czynności kancelaryjnych, a także załatwiania tych spraw na podstawie upoważnienia, o którym mowa w art. 268a Kodeksu postępowania administracyjnego, powierza się po sprawdzeniu przez pracodawcę, że pracownik nie był skazany prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
 
 2. Sprawdzenia, o którym mowa w ust. 1, dokonuje się przed zatrudnieniem danej osoby na stanowisku związanym z wykonywaniem obowiązków, o których mowa w ust. 1, a także przed powierzeniem pracownikowi nowych obowiązków, o których mowa w ust. 1, przez zasięgnięcie informacji o danej osobie z Krajowego Rejestru Karnego.
 
@@ -241,7 +244,7 @@ na podstawie wizy, z wyjątkiem wizy wydanej w celu, o którym mowa w art. 60 us
 - **3)** urzędzie obsługującym ministra właściwego do spraw wewnętrznych,
 - **4)** Komendzie Głównej Straży Granicznej,
 - **5)** komendzie oddziału Straży Granicznej,
-- **6)** placówce Straży Granicznej obowiązki dotyczące czynności postępowania administracyjnego w sprawach uregulowanych w ustawie, określone w przepisach działu II Kodeksu postępowania administracyjnego, w szczególności przygotowywanie projektów załatwienia spraw i przeprowadzanie dowodów, z wyłączeniem czynności kancelaryjnych, a także załatwiania tych spraw na podstawie upoważnienia, o którym mowa w art. 268a Kodeksu postępowania administracyjnego, powierza się po sprawdzeniu przez pracodawcę, że pracownik nie był skazany prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
+- **6)** placówce Straży Granicznej – obowiązki dotyczące czynności postępowania administracyjnego w sprawach uregulowanych w ustawie, określone w przepisach działu II Kodeksu postępowania administracyjnego, w szczególności przygotowywanie projektów załatwienia spraw i przeprowadzanie dowodów, z wyłączeniem czynności kancelaryjnych, a także załatwiania tych spraw na podstawie upoważnienia, o którym mowa w art. 268a Kodeksu postępowania administracyjnego, powierza się po sprawdzeniu przez pracodawcę, że pracownik nie był skazany prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
 
 2. Sprawdzenia, o którym mowa w ust. 1, dokonuje się przed zatrudnieniem danej osoby na stanowisku związanym z wykonywaniem obowiązków, o których mowa w ust. 1, a także przed powierzeniem pracownikowi nowych obowiązków, o których mowa w ust. 1, przez zasięgnięcie informacji o danej osobie z Krajowego Rejestru Karnego.
 
@@ -256,7 +259,10 @@ na podstawie wizy, z wyjątkiem wizy wydanej w celu, o którym mowa w art. 60 us
 
 - **4)** wiza dla uczniów szkół, studentów, uczestników studiów podyplomowych, doktorantów oraz towarzyszących im nauczycieli, którzy podróżują w celu nauki, studiowania, kształcenia się lub szkolenia
 - **5)** wiza dla naukowców przybywających w celu prowadzenia badań naukowych lub prac rozwojowych ” ;
-- **2)** po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: 6a.Wiza wydawana przez komendanta placówki Straży Granicznej w przypadku wydania przez Radę decyzji wykonawczej na podstawie art. 25a ust. 5 lit. b rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 810/2009 z dnia 13 lipca 2009 r. ustanawiającego Wspólnotowy Kodeks Wizowy (kodeks wizowy) (Dz. Urz. UE L 243 z 15.09.2009, str. 1, z późn. zm.) równowartość 120 lub 160 euro*)*) przeliczenia równowartości euro na złote dokonuje się według referencyjnego kursu euro ogłoszonego przez Europejski Bank Centralny w ostatnim dniu roboczym poprzedzającym dzień złożenia wniosku o wydanie wizy wiza dla cudzoziemca w wieku poniżej 12 lat 6b. Wiza wydawana przez komendanta placówki Straży Granicznej w przypadku wydania przez Radę decyzji wykonawczej na podstawie art. 25a ust. 8 lit. a rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 810/2009 z dnia 13 lipca 2009 r. ustanawiającego Wspólnotowy Kodeks Wizowy (kodeks wizowy) równowartość 60 euro*)*) przeliczenia równowartości euro na złote dokonuje się według referencyjnego kursu euro ogłoszonego przez Europejski Bank Centralny w ostatnim dniu roboczym poprzedzającym dzień złożenia wniosku o wydanie wizy wiza dla cudzoziemca w wieku poniżej 12 lat
+- **2)** po ust. 6 dodaje się ust. 6a i 6b w brzmieniu:
+
+6a. Wiza wydawana przez komendanta placówki Straży Granicznej w przypadku wydania przez Radę decyzji wykonawczej na podstawie art. 25a ust. 5 lit. b rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 810/2009 z dnia 13 lipca 2009 r. ustanawiającego Wspólnotowy Kodeks Wizowy (kodeks wizowy) (Dz. Urz. UE L 243 z 15.09.2009, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 258 z 04.10.2011, str. 9, Dz. Urz. UE L 58 z 29.02.2012, str. 3, Dz. Urz. UE L 182 z 29.06.2013, str. 1, Dz. Urz. UE L 114 z 04.05.2018, str. 39, Dz. Urz. UE L 284 z 12.11.2018, str. 38 oraz Dz. Urz. UE L 188 z 12.07.2019, str. 25.) równowartość 120 lub 160 euro*) *) przeliczenia równowartości euro na złote dokonuje się według referencyjnego kursu euro ogłoszonego przez Europejski Bank Centralny w ostatnim dniu roboczym poprzedzającym dzień złożenia wniosku o wydanie wizy wiza dla cudzoziemca w wieku poniżej 12 lat 6b. Wiza wydawana przez komendanta placówki Straży Granicznej w przypadku wydania przez Radę decyzji wykonawczej na podstawie art. 25a ust. 8 lit. a rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 810/2009 z dnia 13 lipca 2009 r. ustanawiającego Wspólnotowy Kodeks Wizowy (kodeks wizowy) równowartość 60 euro*) *) przeliczenia równowartości euro na złote dokonuje się według referencyjnego kursu euro ogłoszonego przez Europejski Bank Centralny w ostatnim dniu roboczym poprzedzającym dzień złożenia wniosku o wydanie wizy wiza dla cudzoziemca w wieku poniżej 12 lat
+
 - **3)** w ust. 7 w kolumnie „Zwolnienia” skreśla się wyrazy „(Dz. Urz. UE L 243 z 15.09.2009, str. 1, z późn. zm.)”.
 
 **Art. 6.** W ustawie z dnia 16 września 2011 r. o współpracy rozwojowej (Dz. U. z 2020 r. poz. 1648) wprowadza się następujące zmiany:

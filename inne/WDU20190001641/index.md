@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 21 sierpnia 2019 r. w sprawie szczegółowych warunków przechodzenia ucznia ze szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej, do szkoły publicznej innego typu albo szkoły publicznej tego samego typu
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 21 sierpnia 2019 r. w sprawie szczegółowych warunków przechodzenia ucznia ze szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej, do szkoły publicznej innego typu albo szkoły publicznej tego samego typu Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-21 |
 | Data wydania | 2019-08-29 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001641) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1641/text.pdf) |
 
@@ -146,8 +145,7 @@ Jeżeli uczeń w szkole ponadpodstawowej, z której przechodzi, zrealizował obo
 1)
 ogólnokształcące w zakresie podstawowym, a w oddziale szkoły, do której przechodzi, zajęcia te są realizowane w zakresie rozszerzonym,
 2)
-z zakresu kształcenia zawodowego wwęższym zakresie niż zajęcia te są realizowane w oddziale szkoły, do której przechodzi
-przepis ust. 1 stosuje się odpowiednio.
+z zakresu kształcenia zawodowego wwęższym zakresie niż zajęcia te są realizowane w oddziale szkoły, do której przechodzi – przepis ust. 1 stosuje się odpowiednio.
 3.
 W przypadku ucznia przechodzącego ze szkoły jednego typu do szkoły tego samego typu lub szkoły innego typu, który w szkole, z której przechodzi, nie realizował obowiązkowych zajęć edukacyjnych, które zostały zrealizowane w oddziale szkoły, do której przechodzi, dyrektor szkoły zapewnia uczniowi warunki do zrealizowania treści nauczania z tych zajęć, do końca danego etapu edukacyjnego.
 4.
@@ -270,6 +268,5 @@ klasy I publicznej branżowej szkoły II stopnia, prowadzonej dla absolwentów b
 § 14.
 W przypadkach, o których mowa w § 10–13, stosuje się odpowiednio przepisy § 3, § 4 i § 8.
 § 15.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 8 sierpnia 2017 r. w sprawie szczegółowych warunków przechodzenia ucznia ze szkoły publicznej lub szkoły niepublicznej o uprawnieniach szkoły publicznej jednego typu do szkoły publicznej innego typu albo do szkoły publicznej tego samego typu (Dz. U. poz. 1546), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 169 ust. 1 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 8 sierpnia 2017 r. w sprawie szczegółowych warunków przechodzenia ucznia ze szkoły publicznej lub szkoły niepublicznej o uprawnieniach szkoły publicznej jednego typu do szkoły publicznej innego typu albo do szkoły publicznej tego samego typu (Dz. U. poz. 1546), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 169 ust. 1 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287). 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 8 sierpnia 2017 r. w sprawie szczegółowych warunków przechodzenia ucznia ze szkoły publicznej lub szkoły niepublicznej o uprawnieniach szkoły publicznej jednego typu do szkoły publicznej innego typu albo do szkoły publicznej tego samego typu (Dz. U. poz. 1546), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 169 ust. 1 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
 

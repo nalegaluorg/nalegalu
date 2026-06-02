@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 3 stycznia 2022 r. zmieniające rozporządzenie w sprawie warunków bezpieczeństwa i higieny służby w trakcie realizacji szkoleń w Policji
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 3 stycznia 2022 r. zmieniające rozporządzenie w sprawie warunków bezpieczeństwa i higieny służby w trakcie realizacji szkoleń w Policji Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-03 |
 | Data wydania | 2022-01-10 |
-| Wejście w życie | 2022-01-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000036) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/36/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 71a ust. 10 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U.
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 16 lipca 2019 r. w sprawie warunków bezpieczeństwa i higieny służby w trakcie realizacji szkoleń w Policji (Dz. U. poz. 1375 oraz z 2020 r. poz. 1263) w § 2 w pkt 1 po wyrazach „Komendanta Biura Spraw Wewnętrznych Policji,” dodaje się wyrazy „Komendanta Centralnego Biura Zwalczania Cyberprzestępczości,”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

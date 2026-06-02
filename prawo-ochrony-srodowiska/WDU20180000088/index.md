@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 grudnia 2017 r. o zmianie ustawy o Inspekcji Ochrony Środowiska oraz ustawy – Prawo ochrony środowiska
+# Ustawa z dnia 14 grudnia 2017 r. o zmianie ustawy o Inspekcji Ochrony Środowiska oraz ustawy – Prawo ochrony środowiska Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Komisji (UE) 2015/1480 z dnia 28 sierpnia 2015 r. zmieniającą niektóre załączniki do dyrektyw Parlamentu Europejskiego i Rady 2004/107/WE i 2008/50/WE ustanawiających przepisy dotyczące metod referencyjnych, zatwierdzania danych i lokalizacji punktów pomiarowych do oceny jakości powietrza (Dz. Urz. UE L 226 z 29.08.2015, str. 4).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-14 |
 | Data wydania | 2018-01-11 |
-| Wejście w życie | 2018-01-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000088) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/88/text.pdf) |
 
@@ -51,7 +50,7 @@ source: "eli-html"
 - **3)** koordynacji na terenie kraju udziału w programach zapewnienia jakości organizowanych przez Komisję Europejską;
 - **4)** wspieraniu prac prowadzonych przez europejską sieć krajowych laboratoriów referencyjnych ustanowioną przez Komisję Europejską. ” .
 
-**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 785, 898, 1089, 1529, 1566, 1888, 1999, 2056, 2180 i 2290 oraz z 2018 r. poz. 9.) wprowadza się następujące zmiany:
 
 - **1)** w art. 88 dodaje się ust. 5–11 w brzmieniu: „
 
@@ -83,11 +82,22 @@ source: "eli-html"
 
 - **b)**
 
-1a. W przypadku dokonywania oceny poziomów substancji w powietrzu z wykorzystaniem metod modelowania matematycznego transportu i przemian substancji w powietrzu wojewódzki inspektor ochrony środowiska posługuje się wynikami modelowania i analizami, o których mowa w art. 88 ust. 6 pkt 1 i 2. ” , w ust. 4: – pkt 1–3 otrzymują brzmienie: „ 1) zakresy wymaganych pomiarów, z podziałem na pomiary ciągłe oraz wskaźnikowe; 2) kryteria lokalizacji punktów pomiarowych oraz wymagania dotyczące reprezentatywności stanowisk pomiarowych; 3) minimalna liczba stałych stanowisk pomiarowych z uwzględnieniem źródeł emisji; ” , – pkt 5 otrzymuje brzmienie: „ 5) przypadki, gdy ocena jakości powietrza: a) powinna być dokonywana metodami pomiarowymi, b) może być dokonywana: – przy zastosowaniu kombinacji metod pomiarowych i metod modelowania matematycznego transportu i przemian substancji w powietrzu, – metodami modelowania matematycznego transportu i przemian substancji w powietrzu lub innymi metodami szacowania; ” , – pkt 7 otrzymuje brzmienie: „ 7) wymagania dotyczące jakości pomiarów i innych metod oceny jakości powietrza, w tym modelowania matematycznego transportu i przemian substancji w powietrzu, oraz dokumentacji dotyczącej uzasadnienia lokalizacji punktów pomiarowych, w tym jej zakres; ” , w ust. 5: – uchyla się pkt 2, – pkt 3 otrzymuje brzmienie: „ 3) zakres i cel prowadzenia pomiarów wspomagających ocenę jakości powietrza, w szczególności zakres prowadzenia analiz składu chemicznego pyłu. ” , w ust. 6 pkt 3 otrzymuje brzmienie: „
+1a. W przypadku dokonywania oceny poziomów substancji w powietrzu z wykorzystaniem metod modelowania matematycznego transportu i przemian substancji w powietrzu wojewódzki inspektor ochrony środowiska posługuje się wynikami modelowania i analizami, o których mowa w art. 88 ust. 6 pkt 1 i 2. ” , w ust. 4: pkt 1–3 otrzymują brzmienie: „
 
 - **c)**
-- **d)**
-- **e)**
+- **1)** zakresy wymaganych pomiarów, z podziałem na pomiary ciągłe oraz wskaźnikowe;
+- **2)** kryteria lokalizacji punktów pomiarowych oraz wymagania dotyczące reprezentatywności stanowisk pomiarowych;
+- **3)** minimalna liczba stałych stanowisk pomiarowych z uwzględnieniem źródeł emisji; ” , pkt 5 otrzymuje brzmienie: „
+- **5)** przypadki, gdy ocena jakości powietrza: powinna być dokonywana metodami pomiarowymi, może być dokonywana: – przy zastosowaniu kombinacji metod pomiarowych i metod modelowania matematycznego transportu i przemian substancji w powietrzu, – metodami modelowania matematycznego transportu i przemian substancji w powietrzu lub innymi metodami szacowania; ” , pkt 7 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **7)** wymagania dotyczące jakości pomiarów i innych metod oceny jakości powietrza, w tym modelowania matematycznego transportu i przemian substancji w powietrzu, oraz dokumentacji dotyczącej uzasadnienia lokalizacji punktów pomiarowych, w tym jej zakres; ” , w ust. 5: – uchyla się pkt 2, pkt 3 otrzymuje brzmienie: „
+    - **d)**
+
+- **3)** zakres i cel prowadzenia pomiarów wspomagających ocenę jakości powietrza, w szczególności zakres prowadzenia analiz składu chemicznego pyłu. ” , w ust. 6 pkt 3 otrzymuje brzmienie: „
+    - **e)**
+
 - **3)** sprawuje nadzór nad koordynacją na terenie kraju udziału w programach zapewnienia jakości organizowanych przez Komisję Europejską. ” ;
 - **3)** w art. 92a po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
@@ -145,7 +155,7 @@ source: "eli-html"
 - **1)** współpracy, o której mowa w art. 88 ust. 8 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, albo jej zawieszeniu w danym roku budżetowym;
 - **2)** modelowania matematycznego transportu i przemian substancji w powietrzu na potrzeby wyznaczania reprezentatywności stanowisk pomiarowych, o której mowa w przepisach wydanych na podstawie art. 90 ust. 3 ustawy zmienianej w art. 2.
 
-5. Mechanizm korygujący nie może stwarzać zagrożenia utraty możliwości realizacji obowiązków Rzeczypospolitej Polskiej wynikających z art. 6, art. 7, art. 10 i art. 14 dyrektywy Parlamentu Europejskiego i Rady 2008/50/WE z dnia 21 maja 2008 r. w sprawie jakości powietrza i czystszego powietrza dla Europy (Dz. Urz. UE L 152 z 11.06.2008, str. 1, z późn. zm.), art. 4 dyrektywy 2004/107/WE Parlamentu Europejskiego i Rady z dnia 15 grudnia 2004 r. w sprawie arsenu, kadmu, rtęci, niklu i wielopierścieniowych węglowodorów aromatycznych w otaczającym powietrzu (Dz. Urz. UE L 23 z 26.01.2005, str. 3, z późn. zm.), art. 9 i art. 10 decyzji wykonawczej Komisji 2011/850/UE z dnia 12 grudnia 2011 r. ustanawiającej zasady stosowania dyrektyw 2004/107/WE i 2008/50/WE Parlamentu Europejskiego i Rady w odniesieniu do systemu wzajemnej wymiany informacji oraz sprawozdań dotyczących jakości otaczającego powietrza (Dz. Urz. UE L 335 z 17.12.2011, str. 86, z późn. zm.) oraz zagrożenia możliwości wykonania zadania, o którym mowa w art. 88 ust. 6 pkt 1–3 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+5. Mechanizm korygujący nie może stwarzać zagrożenia utraty możliwości realizacji obowiązków Rzeczypospolitej Polskiej wynikających z art. 6, art. 7, art. 10 i art. 14 dyrektywy Parlamentu Europejskiego i Rady 2008/50/WE z dnia 21 maja 2008 r. w sprawie jakości powietrza i czystszego powietrza dla Europy (Dz. Urz. UE L 152 z 11.06.2008, str. 1, z późn. zm.Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 226 z 29.08.2015, str. 4.), art. 4 dyrektywy 2004/107/WE Parlamentu Europejskiego i Rady z dnia 15 grudnia 2004 r. w sprawie arsenu, kadmu, rtęci, niklu i wielopierścieniowych węglowodorów aromatycznych w otaczającym powietrzu (Dz. Urz. UE L 23 z 26.01.2005, str. 3, z późn. zm.Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 87 z 31.03.2009, str. 109 oraz Dz. Urz. UE L 226 z 29.08.2015, str. 4.), art. 9 i art. 10 decyzji wykonawczej Komisji 2011/850/UE z dnia 12 grudnia 2011 r. ustanawiającej zasady stosowania dyrektyw 2004/107/WE i 2008/50/WE Parlamentu Europejskiego i Rady w odniesieniu do systemu wzajemnej wymiany informacji oraz sprawozdań dotyczących jakości otaczającego powietrza (Dz. Urz. UE L 335 z 17.12.2011, str. 86, z późn. zm.Zmiana wymienionej decyzji została ogłoszona w Dz. Urz. UE L 156 z 20.06.2017, str. 36.) oraz zagrożenia możliwości wykonania zadania, o którym mowa w art. 88 ust. 6 pkt 1–3 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
 
 6. Minister właściwy do spraw środowiska monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 2, oraz w razie potrzeby wdraża mechanizm korygujący.
 
@@ -167,5 +177,5 @@ source: "eli-html"
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 94 ust. 3 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 94 ust. 3 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Komisji (UE) 2015/1480 z dnia 28 sierpnia 2015 r. zmieniającą niektóre załączniki do dyrektyw Parlamentu Europejskiego i Rady 2004/107/WE i 2008/50/WE ustanawiających przepisy dotyczące metod referencyjnych, zatwierdzania danych i lokalizacji punktów pomiarowych do oceny jakości powietrza (Dz. Urz. UE L 226 z 29.08.2015, str. 4). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 785, 898, 1089, 1529, 1566, 1888, 1999, 2056, 2180 i 2290 oraz z 2018 r. poz. 9. 3) Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 226 z 29.08.2015, str. 4. 4) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 87 z 31.03.2009, str. 109 oraz Dz. Urz. UE L 226 z 29.08.2015, str. 4. 5) Zmiana wymienionej decyzji została ogłoszona w Dz. Urz. UE L 156 z 20.06.2017, str. 36.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 24 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Klimatu i Środowiska w sprawie sposobu kształtowania i kalkulacji taryf oraz sposobu rozliczeń w obrocie energią elektryczną
+# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 24 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Klimatu i Środowiska w sprawie sposobu kształtowania i kalkulacji taryf oraz sposobu rozliczeń w obrocie energią elektryczną Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 | Pole | Wartość |
 |---|---|
@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000904) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/904/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Klimatu i Środowiska z dnia 29 listopada 2022 r. w sprawie sposobu kształtowania i kalkulacji taryf oraz sposobu rozliczeń w obrocie energią elektryczną Rozdział 1 – Przepisy ogólne Rozdział 2 – Sposób kształtowania taryf Rozdział 3 – Sposób kalkulacji cen i stawek opłat Rozdział 4 – Szczegółowe zasady rozliczeń z odbiorcami oraz między przedsiębiorstwami energetycznymi Rozdział 5 – Przepisy epizodyczne i przejściowe oraz przepis końcowy
+Załącznik – Rozporządzenie Ministra Klimatu i Środowiska z dnia 29 listopada 2022 r. w sprawie sposobu kształtowania i kalkulacji taryf oraz sposobu rozliczeń w obrocie energią elektryczną
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Klimatu i Środowiska z dnia 29 listopada 2022 r. w sprawie sposobu kształtowania i kalkulacji taryf oraz sposobu rozliczeń w obrocie energią elektryczną (Dz. U. poz. 2505), z uwzględnieniem zmian wprowadzonych:
@@ -39,33 +39,27 @@ rozporządzeniem Ministra Klimatu i Środowiska z dnia 9 września 2023 r. zmien
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 i § 3 rozporządzenia Ministra Klimatu i Środowiska z dnia 30 stycznia 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń w obrocie energią elektryczną (Dz. U. poz. 226), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Klimatu i Środowiska z dnia 30 stycznia 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń w obrocie energią elektryczną (Dz. U. poz. 226), które stanowią: „
 § 2.
 Faktury za dostarczanie energii elektrycznej wystawione od dnia 1 stycznia 2023 r. do dnia wejścia w życie niniejszego rozporządzenia bez informacji, o której mowa w § 37 ust. 2 rozporządzenia zmienianego w § 1, uważa się za faktury wystawione prawidłowo.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Klimatu i Środowiska z dnia 30 marca 2023 r. zmieniającego rozporządzenie w sprawie sposobu kształtowania i kalkulacji taryf oraz sposobu rozliczeń w obrocie energią elektryczną (Dz. U. poz. 632), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Klimatu i Środowiska z dnia 30 marca 2023 r. zmieniającego rozporządzenie w sprawie sposobu kształtowania i kalkulacji taryf oraz sposobu rozliczeń w obrocie energią elektryczną (Dz. U. poz. 632), które stanowią: „
 § 2.
 1.
 W terminie 30 dni od dnia wejścia w życie niniejszego rozporządzenia przedsiębiorstwa energetyczne, dla których taryfy zostały zatwierdzone przez Prezesa Urzędu Regulacji Energetyki przed dniem 7 grudnia 2022 r., przedłożą Prezesowi Urzędu Regulacji Energetyki wnioski o zmianę tych taryf w celu ich dostosowania do przepisów rozporządzenia zmienianego w § 1.
 2.
 Przepisu ust. 1 nie stosuje się w przypadku, gdy przedsiębiorstwo energetyczne przedłożyło Prezesowi Urzędu Regulacji Energetyki wniosek o zatwierdzenie nowej taryfy w okresie od dnia 7 grudnia 2022 r. do dnia wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 3)
-§ 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 9 września 2023 r. zmieniającego rozporządzenie w sprawie sposobu kształtowania i kalkulacji taryf oraz sposobu rozliczeń w obrocie energią elektryczną (Dz. U. poz. 1847), który stanowi:
-„
+§ 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 9 września 2023 r. zmieniającego rozporządzenie w sprawie sposobu kształtowania i kalkulacji taryf oraz sposobu rozliczeń w obrocie energią elektryczną (Dz. U. poz. 1847), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-” .
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
-Załącznik – Rozporządzenie Ministra Klimatu i Środowiska z dnia 29 listopada 2022 r. w sprawie sposobu kształtowania i kalkulacji taryf oraz sposobu rozliczeń w obrocie energią elektryczną
-Na podstawie art. 46 ust. 3 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i 859) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. ” . 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
+Załącznik – Rozporządzenie Ministra Klimatu i Środowiska z dnia 29 listopada 2022 r. w sprawie sposobu kształtowania i kalkulacji taryf oraz sposobu rozliczeń w obrocie energią elektrycznąNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – energia kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2012/27/UE Parlamentu Europejskiego i Rady z dnia 25 października 2012 r. w sprawie efektywności energetycznej, zmiany dyrektyw 2009/125/WE i 2010/30/UE oraz uchylenia dyrektyw 2004/8/WE i 2006/32/WE (Dz. Urz. UE L 315 z 14.11.2012, str. 1, Dz. Urz. UE L 113 z 25.04.2013, str. 24, Dz. Urz. UE L 141 z 28.05.2013, str. 28, Dz. Urz. UE L 156 z 19.06.2018, str. 75, Dz. Urz. UE L 328 z 21.12.2018, str. 1, Dz. Urz. UE L 328 z 21.12.2018, str. 210, Dz. Urz. UE L 85I z 27.03.2019, str. 66, Dz. Urz. UE L 137 z 23.05.2019, str. 3 oraz Dz. Urz. UE L 158 z 14.06.2019, str. 125). Na podstawie art. 46 ust. 3Art. 46 ust. 3 zmieniony przez art. 1 pkt 68 lit. b ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1681 oraz z 2024 r. poz. 859), która weszła w życie z dniem 7 września 2023 r.; zgodnie z art. 47 ust. 1 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw dotychczasowe przepisy wykonawcze wydane na podstawie art. 46 ust. 3 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i 859) w brzmieniu dotychczasowym zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 46 ust. 3 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, w brzmieniu nadanym ustawą z dnia 28 lipca 2023 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw, nie dłużej jednak niż przez 36 miesięcy od dnia wejścia w życie ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw, i mogą być zmieniane. ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i 859) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa sposób kształtowania i kalkulacji taryf dla energii elektrycznej oraz sposób rozliczeń w obrocie energią elektryczną, w tym:
 1)
@@ -81,7 +75,7 @@ sposób uwzględniania w taryfach:
 a)
 kosztów uzyskania i przedstawienia do umorzenia świadectw pochodzenia,
 b)
-rekompensat, o których mowa w przepisach rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/943 z dnia 5 czerwca 2019 r. w sprawie rynku wewnętrznego energii elektrycznej (Dz. Urz. UE L 158 z 14.06.2019, str. 54, z późn. zm.), zwanego dalej „rozporządzeniem 2019/943”,
+rekompensat, o których mowa w przepisach rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/943 z dnia 5 czerwca 2019 r. w sprawie rynku wewnętrznego energii elektrycznej (Dz. Urz. UE L 158 z 14.06.2019, str. 54, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 152 z 03.06.2022, str. 45., zwanego dalej „rozporządzeniem 2019/943”,
 c)
 kosztów wskazanych w art. 45 ust. 1a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, zwanej dalej „ustawą”,
 d)
@@ -139,19 +133,20 @@ w umowie o świadczenie usług przesyłania energii elektrycznej zawieranej mię
 c)
 w umowie o świadczenie usług dystrybucji energii elektrycznej zawieranej między operatorami systemu dystrybucyjnego elektroenergetycznego posiadającymi co najmniej dwa sieciowe miejsca dostarczania energii elektrycznej połączone siecią tego operatora, jako średnią z maksymalnych łącznych mocy średniogodzinnych pobieranych w miejscach połączeń sieci operatorów systemów dystrybucyjnych, wyznaczoną na podstawie wskazań układów pomiarowo-rozliczeniowych;
 7)
-okres rozliczania niezbilansowania – okres rozliczania niezbilansowania w rozumieniu art. 2 pkt 10 rozporządzenia Komisji (UE) 2017/2195 z dnia 23 listopada 2017 r. ustanawiającego wytyczne dotyczące bilansowania (Dz. Urz. UE L 312 z 28.11.2017, str. 6, z późn. zm.);
+okres rozliczania niezbilansowania – okres rozliczania niezbilansowania w rozumieniu art. 2 pkt 10 rozporządzenia Komisji (UE) 2017/2195 z dnia 23 listopada 2017 r. ustanawiającego wytyczne dotyczące bilansowania (Dz. Urz. UE L 312 z 28.11.2017, str. 6, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 62 z 23.02.2021, str. 24 oraz Dz. Urz. UE L 147 z 30.05.2022, str. 27.;
 8)
 okres regulacji – okres, na jaki zostały ustalone wartości współczynników korekcyjnych, o których mowa w § 21;
 9)
 przyłącze – odcinek lub element sieci służące do połączenia urządzeń, instalacji lub sieci podmiotu, dostosowane do mocy przyłączeniowej z pozostałą częścią sieci przedsiębiorstwa energetycznego, które świadczy na rzecz podmiotu przyłączanego usługę przesyłania lub dystrybucji energii elektrycznej;
 10)
-rezerwa mocy – rezerwę mocy czynnej w rozumieniu art. 3 ust. 2 pkt 16 rozporządzenia Komisji (UE) 2017/1485 z dnia 2 sierpnia 2017 r. ustanawiającego wytyczne dotyczące pracy systemu przesyłowego energii elektrycznej (Dz. Urz. UE L 220 z 25.08.2017, str. 1, z późn. zm.);
+rezerwa mocy – rezerwę mocy czynnej w rozumieniu art. 3 ust. 2 pkt 16 rozporządzenia Komisji (UE) 2017/1485 z dnia 2 sierpnia 2017 r. ustanawiającego wytyczne dotyczące pracy systemu przesyłowego energii elektrycznej (Dz. Urz. UE L 220 z 25.08.2017, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 62 z 23.02.2021, str. 24.;
 11)
 sieciowe miejsce dostarczania energii elektrycznej – miejsce dostarczania energii elektrycznej z sieci przesyłowej operatora systemu przesyłowego elektroenergetycznego, z którego jest zasilana sieć dystrybucyjna 110 kV pracująca trwale lub okresowo w układach pierścieniowych;
 12)
 układ pomiarowo-rozliczeniowy – liczniki i inne urządzenia pomiarowe lub pomiarowo-rozliczeniowe, w tym liczniki energii czynnej, liczniki energii biernej oraz przekładniki prądowe i napięciowe, a także układy połączeń między nimi, służące bezpośrednio lub pośrednio do pomiarów energii elektrycznej i rozliczeń za tę energię;
 13)
 usługi systemowe – usługi świadczone na rzecz operatora systemu przesyłowego elektroenergetycznego niezbędne do zapewnienia przez tego operatora prawidłowego funkcjonowania systemu elektroenergetycznego, niezawodności jego pracy i utrzymywania parametrów jakościowych energii elektrycznej.
+Sposób kształtowania taryf
 § 3.
 Przedsiębiorstwo energetyczne ustala taryfę w sposób zapewniający:
 1)
@@ -292,12 +287,12 @@ Odbiorcę, który pobiera energię elektryczną:
 1)
 z kilku miejsc dostarczania tej energii położonych w sieci o różnych poziomach napięć, zalicza się do grup taryfowych oddzielnie w każdym z tych miejsc,
 2)
-z kilku miejsc dostarczania energii elektrycznej położonych w sieci o jednakowych poziomach napięć, można zaliczyć do grup taryfowych oddzielnie w każdym z tych miejsc, chyba że energia elektryczna jest pobierana do zasilania jednego zespołu urządzeń z więcej niż jednego miejsca dostarczania energii elektrycznej na tym samym poziomie napięcia, wówczas odbiorca ten wybiera grupę taryfową jednakową dla wszystkich miejsc dostarczania energii elektrycznej
-zgodnie z kryteriami podziału odbiorców na grupy taryfowe przyjętymi w danym przedsiębiorstwie energetycznym.
+z kilku miejsc dostarczania energii elektrycznej położonych w sieci o jednakowych poziomach napięć, można zaliczyć do grup taryfowych oddzielnie w każdym z tych miejsc, chyba że energia elektryczna jest pobierana do zasilania jednego zespołu urządzeń z więcej niż jednego miejsca dostarczania energii elektrycznej na tym samym poziomie napięcia, wówczas odbiorca ten wybiera grupę taryfową jednakową dla wszystkich miejsc dostarczania energii elektrycznej – zgodnie z kryteriami podziału odbiorców na grupy taryfowe przyjętymi w danym przedsiębiorstwie energetycznym.
 2.
 Odbiorca, który ze względu na przyjęty w przedsiębiorstwie energetycznym podział odbiorców na grupy taryfowe dokonany na podstawie kryteriów, o których mowa w § 6 ust. 1, może być zaliczony w odniesieniu do danego miejsca dostarczania energii elektrycznej do więcej niż jednej grupy taryfowej, wybiera jedną spośród tych grup.
 3.
 Odbiorca, o którym mowa w ust. 2, może wystąpić do przedsiębiorstwa energetycznego o zmianę grupy taryfowej nie częściej niż raz na 12 miesięcy, a w przypadku zmiany stawek opłat – w okresie 60 dni od dnia wejścia w życie nowej taryfy. Warunki zmiany grupy taryfowej określają umowa sprzedaży energii elektrycznej lub umowa o świadczenie usług przesyłania lub dystrybucji energii elektrycznej albo umowa kompleksowa.
+Sposób kalkulacji cen i stawek opłat
 § 8.
 Ceny lub stawki opłat zawarte w taryfie kalkuluje się na okres 12 miesięcy.
 § 9.
@@ -396,8 +391,7 @@ Stawki opłat przesyłowych, o których mowa w ust. 1:
 1)
 pkt 2, zwane dalej „stawkami jakościowymi”,
 2)
-pkt 3, zwane dalej „stawkami rynkowymi”
-kalkuluje się jako jednoskładnikowe.
+pkt 3, zwane dalej „stawkami rynkowymi” – kalkuluje się jako jednoskładnikowe.
 3.
 Stawki opłat dystrybucyjnych kalkuluje się z uwzględnieniem podziału na stawki wynikające:
 1)
@@ -587,6 +581,7 @@ Ustalenia przychodu pokrywającego koszty uzasadnione wraz z uzasadnionym zwrote
 Saldo konta regulacyjnego oblicza się według wzoru: KRn = (O dp n−2 − O dr n−2 ) gdzie poszczególne symbole oznaczają: KRn – saldo konta regulacyjnego dla taryfy na rok okresu regulacji „n” wyrażone w zł, Odp n-2 – sumę przyjętego w taryfie na rok okresu regulacji „n-2” planowanego przychodu, wyrażonego w zł, będącego podstawą kalkulacji na 12 kolejnych miesięcy stawek opłat z tytułu poboru składnika zmiennego stawki sieciowej, składnika stałego stawki sieciowej, opłat abonamentowych oraz planowanych na ten okres przychodów, o których mowa w § 22 ust. 1 pkt 2–5, a dla operatora systemu przesyłowego także przychodu z tytułu opłaty jakościowej, Odr n-2 – sumę rzeczywiście uzyskanego w roku okresu regulacji „n-2” przychodu, wyrażonego w zł, w okresie kolejnych 12 kolejnych miesięcy, z tytułu poboru składnika zmiennego stawki sieciowej, składnika stałego stawki sieciowej, opłat abonamentowych oraz przychodów, o których mowa w § 22 ust. 1 pkt 2–5, a dla operatora systemu przesyłowego także przychodu z tytułu opłaty jakościowej.
 2.
 W przypadku gdy uwzględnienie salda konta regulacyjnego mogłoby spowodować zmianę jednostkowego planowanego przychodu, wyrażonego w zł/MWh, określonego na rok okresu regulacji „n” w sposób wskazany w § 22, z uwzględnieniem planowanego na ten okres wolumenu dostaw energii elektrycznej, więcej niż o 2 % w roku okresu regulacji „n”, uwzględnia się część salda tego konta w wysokości odpowiadającej 2 % przychodu określonego na rok okresu regulacji „n”, wyrażonego w zł, a pozostałą część salda konta regulacyjnego nieuwzględnionego w przychodzie określonym na rok okresu regulacji „n” w sposób wskazany w § 22 uwzględnia się w taryfie na kolejny rok okresu regulacji „n+1”.
+Szczegółowe zasady rozliczeń z odbiorcami oraz między przedsiębiorstwami energetycznymi
 § 24.
 1.
 Rozliczenia z odbiorcami i między przedsiębiorstwami energetycznymi z tytułu dostarczonej energii elektrycznej lub świadczonych usług przesyłania lub dystrybucji tej energii prowadzi się na podstawie danych rozliczeniowych dotyczących okresu rozliczeniowego ustalonego w taryfie.
@@ -602,8 +597,7 @@ przedsiębiorstwa energetycznego świadczącego usługi przesyłania lub dystryb
 3)
 przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie magazynowania energii elektrycznej – w odniesieniu do energii elektrycznej pobranej w celu innym niż jej magazynowanie;
 4)
-przedsiębiorstwa energetycznego świadczącego usługi kompleksowe,
-SSVn – składnik stały stawki sieciowej za okres rozliczeniowy, wyrażony w zł/MW lub w zł/kW mocy umownej lub w zł/miesiąc, w odniesieniu do odbiorców energii elektrycznej w gospodarstwie domowym, Pi – moc umowną określoną dla danego odbiorcy, w tym dla operatora systemu dystrybucyjnego elektroenergetycznego, przedsiębiorstwa energetycznego świadczącego usługi przesyłania lub dystrybucji energii elektrycznej niebędącego operatorem oraz przedsiębiorstwa energetycznego świadczącego usługi kompleksowe, wyrażoną w MW lub w kW lub w miesiącach dla odbiorców energii elektrycznej w gospodarstwie domowym, SZVnm – składnik zmienny stawki sieciowej dla danej rozliczeniowej strefy czasowej (strefa czasowa m), wyrażony w zł/MWh lub w zł/kWh, R – liczbę rozliczeniowych stref czasowych, Eoim – ilość energii elektrycznej pobranej z sieci przez danego odbiorcę w rozliczeniowej strefie czasowej m, w tym przez operatora systemu dystrybucyjnego elektroenergetycznego, przedsiębiorstwo energetyczne świadczące usługi przesyłania lub dystrybucji energii elektrycznej niebędące operatorem oraz przedsiębiorstwo energetyczne świadczące usługi kompleksowe, wyrażoną w MWh lub w kWh w okresie rozliczeniowym ustalonym w taryfie, kos – współczynnik udziału odbiorcy w pokrywaniu kosztów systemowych, ustalony w sposób określony w § 26 ust. 2 pkt 1, SoSJ – stawkę jakościową wyrażoną w zł/MWh lub w zł/kWh, Eos – ilość energii elektrycznej zużytą przez odbiorców końcowych korzystających z krajowego systemu elektroenergetycznego, o których mowa w § 26 ust. 2 pkt 1, wyrażoną w MWh lub w kWh, kok – współczynnik udziału odbiorcy w pokrywaniu kosztów systemowych ustalony w sposób określony w § 26 ust. 2 pkt 2, Eok – ilość energii elektrycznej zużytą przez odbiorców końcowych korzystających z krajowego systemu elektroenergetycznego, o których mowa w § 26 ust. 2 pkt 2, wyrażoną w MWh lub w kWh, Sr – stawkę rynkową wyrażoną w zł/MWh lub w zł/kWh, Ewp – ilość energii elektrycznej, wyrażonej w MWh lub w kWh za okres rozliczeniowy, przeznaczonej do wymiany między krajowym systemem elektroenergetycznym a systemami elektroenergetycznymi państw, o których mowa w § 18 ust. 1, określoną w umowach sprzedaży energii elektrycznej przedkładanych właściwemu operatorowi, Oab – opłatę abonamentową, wyrażoną w zł, uwzględniającą długość okresu rozliczeniowego oraz stawkę abonamentową.
+przedsiębiorstwa energetycznego świadczącego usługi kompleksowe, SSVn – składnik stały stawki sieciowej za okres rozliczeniowy, wyrażony w zł/MW lub w zł/kW mocy umownej lub w zł/miesiąc, w odniesieniu do odbiorców energii elektrycznej w gospodarstwie domowym, Pi – moc umowną określoną dla danego odbiorcy, w tym dla operatora systemu dystrybucyjnego elektroenergetycznego, przedsiębiorstwa energetycznego świadczącego usługi przesyłania lub dystrybucji energii elektrycznej niebędącego operatorem oraz przedsiębiorstwa energetycznego świadczącego usługi kompleksowe, wyrażoną w MW lub w kW lub w miesiącach dla odbiorców energii elektrycznej w gospodarstwie domowym, SZVnm – składnik zmienny stawki sieciowej dla danej rozliczeniowej strefy czasowej (strefa czasowa m), wyrażony w zł/MWh lub w zł/kWh, R – liczbę rozliczeniowych stref czasowych, Eoim – ilość energii elektrycznej pobranej z sieci przez danego odbiorcę w rozliczeniowej strefie czasowej m, w tym przez operatora systemu dystrybucyjnego elektroenergetycznego, przedsiębiorstwo energetyczne świadczące usługi przesyłania lub dystrybucji energii elektrycznej niebędące operatorem oraz przedsiębiorstwo energetyczne świadczące usługi kompleksowe, wyrażoną w MWh lub w kWh w okresie rozliczeniowym ustalonym w taryfie, kos – współczynnik udziału odbiorcy w pokrywaniu kosztów systemowych, ustalony w sposób określony w § 26 ust. 2 pkt 1, SoSJ – stawkę jakościową wyrażoną w zł/MWh lub w zł/kWh, Eos – ilość energii elektrycznej zużytą przez odbiorców końcowych korzystających z krajowego systemu elektroenergetycznego, o których mowa w § 26 ust. 2 pkt 1, wyrażoną w MWh lub w kWh, kok – współczynnik udziału odbiorcy w pokrywaniu kosztów systemowych ustalony w sposób określony w § 26 ust. 2 pkt 2, Eok – ilość energii elektrycznej zużytą przez odbiorców końcowych korzystających z krajowego systemu elektroenergetycznego, o których mowa w § 26 ust. 2 pkt 2, wyrażoną w MWh lub w kWh, Sr – stawkę rynkową wyrażoną w zł/MWh lub w zł/kWh, Ewp – ilość energii elektrycznej, wyrażonej w MWh lub w kWh za okres rozliczeniowy, przeznaczonej do wymiany między krajowym systemem elektroenergetycznym a systemami elektroenergetycznymi państw, o których mowa w § 18 ust. 1, określoną w umowach sprzedaży energii elektrycznej przedkładanych właściwemu operatorowi, Oab – opłatę abonamentową, wyrażoną w zł, uwzględniającą długość okresu rozliczeniowego oraz stawkę abonamentową.
 2.
 Jako ilość energii elektrycznej, oznaczonej symbolem „Eoim”, pobraną z sieci przesyłowej przez operatora systemu dystrybucyjnego elektroenergetycznego posiadającego co najmniej dwa sieciowe miejsca dostarczania energii elektrycznej połączone siecią tego operatora, w tych miejscach dostarczania przyjmuje się ilość energii elektrycznej ustaloną w sposób określony w § 14 ust. 8.
 § 26.
@@ -668,8 +662,7 @@ wskazań układów pomiarowo-rozliczeniowych mierzących energię elektryczną:
 a)
 pobraną i oddaną w miejscu przyłączenia do sieci,
 b)
-wytwarzaną przez jednostkę wytwórczą
-z uwzględnieniem proporcjonalnego udziału energii elektrycznej pobranej przez magazyn energii elektrycznej z sieci w całości energii elektrycznej pobranej przez magazyn energii elektrycznej oraz odpowiednio proporcjonalnego udziału energii elektrycznej wprowadzonej do sieci przez magazyn energii elektrycznej w sumie energii elektrycznej wprowadzonej przez ten magazyn i wytworzonej w jednostce wytwórczej.
+wytwarzaną przez jednostkę wytwórczą – z uwzględnieniem proporcjonalnego udziału energii elektrycznej pobranej przez magazyn energii elektrycznej z sieci w całości energii elektrycznej pobranej przez magazyn energii elektrycznej oraz odpowiednio proporcjonalnego udziału energii elektrycznej wprowadzonej do sieci przez magazyn energii elektrycznej w sumie energii elektrycznej wprowadzonej przez ten magazyn i wytworzonej w jednostce wytwórczej.
 § 29.
 1.
 Opłatę za usługi dystrybucji energii elektrycznej świadczone między operatorami systemu dystrybucyjnego elektroenergetycznego, z których każdy ma co najmniej po dwa sieciowe miejsca dostarczania energii elektrycznej połączone siecią tego operatora na tym samym poziomie napięć znamionowych, wyrażoną w zł za okres rozliczeniowy, oznaczoną symbolem „Opovi”, oblicza się według wzoru: \( O_{povi} = \sum\limits_{i = 1}^{m_p } {\left( {S_{svn} \times P_{vi} + S_{zvn} \times E_{pi} } \right)} \) gdzie poszczególne symbole oznaczają: Ssvn – składnik stały stawki opłat za usługi dystrybucji energii elektrycznej wyrażony w zł/MW lub w zł/kW, Pvi – moc umowną, wyrażoną w MW lub w kW, określoną dla każdego połączenia sieci na tym samym poziomie napięć znamionowych, Szvn – składnik zmienny stawki opłat za usługi dystrybucji energii elektrycznej wyrażony w zł/MWh lub w zł/kWh, Epi – ilość energii elektrycznej, wyrażoną w MWh lub w kWh za okres rozliczeniowy, pobraną przez dane połączenie, określoną jako różnica między energią elektryczną pobraną i oddaną, mp – liczbę połączeń sieciowych na tym samym poziomie napięć znamionowych między operatorami systemów dystrybucyjnych.
@@ -827,9 +820,9 @@ W przypadku niedotrzymania przez przedsiębiorstwo energetyczne standardów jako
 1/15 wynagrodzenia, o którym mowa w pkt 1 – za nieuzasadnioną odmowę odpłatnego podjęcia czynności w sieci mających na celu umożliwienie bezpiecznego wykonania przez odbiorcę lub inny podmiot prac na obszarze oddziaływania tej sieci;
 10)
 1/50 wynagrodzenia, o którym mowa w pkt 1 – za nieudzielenie, na żądanie odbiorcy, informacji o zasadach rozliczeń oraz o aktualnych taryfach;
-11)
+11W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 30 stycznia 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń w obrocie energią elektryczną (Dz. U. poz. 226), które weszło w życie z dniem 3 lutego 2023 r.)
 1/250 wynagrodzenia, o którym mowa w pkt 1 – za każdy dzień zwłoki w przypadku przekroczenia czternastodniowego terminu na udzielenie odpowiedzi na wniosek lub reklamację odbiorcy w sprawie zasad rozliczeń;
-12)
+12W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 30 stycznia 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń w obrocie energią elektryczną (Dz. U. poz. 226), które weszło w życie z dniem 3 lutego 2023 r.)
 1/250 wynagrodzenia, o którym mowa w pkt 1 – za każdy dzień zwłoki w przypadku przekroczenia czternastodniowego terminu na sprawdzenie prawidłowości działania układu pomiarowo-rozliczeniowego lub terminu na laboratoryjne sprawdzenie prawidłowości działania układu pomiarowo-rozliczeniowego;
 13)
 1/15 wynagrodzenia, o którym mowa w pkt 1 – za uniemożliwienie wykonania dodatkowej ekspertyzy badanego układu pomiarowo-rozliczeniowego na wniosek odbiorcy złożony w terminie trzydziestu dni od dnia otrzymania wyniku badania laboratoryjnego.
@@ -857,7 +850,7 @@ Przedsiębiorstwo energetyczne, z którym odbiorca zawarł umowę o świadczenie
 Jeżeli podmiot pobiera energię elektryczną bez zawarcia umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej albo umowy sprzedaży energii elektrycznej, albo umowy kompleksowej, przedsiębiorstwo energetyczne świadczące usługi przesyłania lub dystrybucji energii elektrycznej lub usługi kompleksowe może obciążyć ten podmiot opłatami w wysokości pięciokrotności stawek opłat określonych w taryfie dla jednostrefowej grupy taryfowej, do której ten podmiot byłby zaliczony, na podstawie kryteriów określonych w § 6 ust. 1, oraz w wysokości pięciokrotności cen energii elektrycznej, o których mowa w art. 23 ust. 2 pkt 18 lit. b ustawy, przyjmując taką ilość energii elektrycznej, która wynika z rzeczywistej możliwości pobrania energii elektrycznej przez ten podmiot wynikającej z mocy i rodzaju odbiorników energii elektrycznej zainstalowanych u tego podmiotu.
 2.
 Jeżeli energia elektryczna jest pobierana przez odbiorcę z całkowitym lub częściowym pominięciem układu pomiarowo-rozliczeniowego lub przez ingerencję w ten układ, która ma wpływ na zafałszowanie pomiarów dokonywanych przez układ pomiarowo-rozliczeniowy, przedsiębiorstwo energetyczne może obciążyć tego odbiorcę opłatami w przypadku gdy:
-1)
+1Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 7.)
 zostanie stwierdzone jak długo trwał okres nielegalnego pobierania energii elektrycznej – w wysokości dwukrotności stawek opłat określonych w taryfie dla grupy taryfowej, do której jest zaliczony ten odbiorca, oraz w wysokości dwukrotności cen energii elektrycznej, o których mowa w art. 23 ust. 2 pkt 18 lit. b ustawy, przyjmując taką wielkość mocy umownej i zużycia tej energii, jakie wystąpiły w analogicznym okresie przed rozpoczęciem stwierdzonego nielegalnego pobierania energii elektrycznej lub po ustaniu tego pobierania; opłaty oblicza się dla każdego miesiąca, w którym nastąpiło nielegalne pobieranie energii elektrycznej;
 2)
 niemożliwe jest ustalenie ilości nielegalnie pobranej energii elektrycznej – w wysokości dwukrotności stawek opłat określonych w taryfie dla grupy taryfowej, do której jest zaliczony ten odbiorca, oraz w wysokości dwukrotności cen energii elektrycznej, o których mowa w art. 23 ust. 2 pkt 18 lit. b ustawy, przyjmując taką ilość energii elektrycznej, która wynika z rzeczywistej możliwości pobierania energii elektrycznej przez tego odbiorcę wynikającej z mocy i rodzaju odbiorników energii elektrycznej zainstalowanych u tego odbiorcy.
@@ -891,8 +884,7 @@ Opłacie podlega w okresie rozliczeniowym:
 1)
 ponadumowny pobór energii biernej określony jako nadwyżka tej energii ponad ilość odpowiadającą wartości współczynnika tgφ0, gdy tgφ > tgφ0,
 2)
-ponadumowne wprowadzanie energii biernej określone jako nadwyżka tej energii ponad ilość odpowiadającą wartości współczynnika tgφ = 0
-zmierzone w strefach, w których jest prowadzona kontrola poboru i wprowadzania tej energii, lub całodobowo – zależności od rodzaju zainstalowanego układu pomiarowego.
+ponadumowne wprowadzanie energii biernej określone jako nadwyżka tej energii ponad ilość odpowiadającą wartości współczynnika tgφ = 0 – zmierzone w strefach, w których jest prowadzona kontrola poboru i wprowadzania tej energii, lub całodobowo – zależności od rodzaju zainstalowanego układu pomiarowego.
 4.
 Wartość współczynnika mocy tgφ0 określa się w warunkach przyłączenia lub w umowie o świadczenie usług przesyłania lub dystrybucji energii elektrycznej albo w umowie kompleksowej. Wartość współczynnika mocy przyjmuje się w wysokości tgφ0 = 0,4, chyba że indywidualna ekspertyza uzasadnia wprowadzenie niższej wartości. Wartość współczynnika mocy tgφ0 nie może być niższa od wartości 0,2. Jeżeli wartość współczynnika tgφ0 nie została określona w warunkach przyłączenia lub w umowie o świadczenie usług dystrybucji energii elektrycznej albo w umowie kompleksowej, do rozliczeń przyjmuje się wartość tgφ0 = 0,4.
 5.
@@ -909,7 +901,7 @@ W okresie rozliczeniowym opłaty za ponadumowny pobór energii biernej nie pobie
 operatorem systemu przesyłowego elektroenergetycznego a operatorem systemu dystrybucyjnego elektroenergetycznego, który ma co najmniej dwa sieciowe miejsca dostarczania energii elektrycznej połączone siecią operatora systemu dystrybucyjnego elektroenergetycznego – w odniesieniu do tych miejsc dostarczania tej energii;
 2)
 operatorami systemów dystrybucyjnych elektroenergetycznych, z których każdy posiada co najmniej po dwa sieciowe miejsca dostarczania energii elektrycznej połączone siecią danego operatora;
-3)
+3Dodany przez § 1 pkt 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 9 września 2023 r. zmieniającego rozporządzenie w sprawie sposobu kształtowania i kalkulacji taryf oraz sposobu rozliczeń w obrocie energią elektryczną (Dz. U. poz. 1847), które weszło w życie z dniem 19 września 2023 r.)
 operatorem systemu przesyłowego elektroenergetycznego lub operatorem systemu dystrybucyjnego elektroenergetycznego a użytkownikiem systemu elektroenergetycznego oraz operatorem systemu przesyłowego elektroenergetycznego a operatorem systemu dystrybucyjnego elektroenergetycznego, w przypadku gdy ponadumowny pobór energii biernej wynikał z polecenia operatora danego systemu lub wynikał ze świadczenia usług na rzecz operatora określonych w instrukcji, o której mowa w art. 9g ust. 1 ustawy, lub w warunkach dotyczących bilansowania, o których mowa w art. 18 rozporządzenia Komisji (UE) 2017/2195 z dnia 23 listopada 2017 r. ustanawiającego wytyczne dotyczące bilansowania.
 10.
 W przypadku gdy konfiguracja sieci oraz miejsce zainstalowania układów pomiarowo-rozliczeniowych nie odwzorowują rzeczywistych rozpływów mocy oraz energii biernej pobieranej z sieci przedsiębiorstwa energetycznego lub oddawanej do tej sieci, wielkość energii biernej podlegającą rozliczeniu ustala się na podstawie przeprowadzonych przez przedsiębiorstwo energetyczne, odbiorcę lub niezależną jednostkę pomiarów właściwych w odniesieniu do miejsca dostarczania energii elektrycznej, w sposób przez nie uzgodniony, chyba że zawarta umowa stanowi inaczej.
@@ -936,7 +928,7 @@ Opłaty za przekroczenia mocy umownej w okresie rozliczeniowym nie pobiera się 
 operatorem systemu przesyłowego elektroenergetycznego a operatorem systemu dystrybucyjnego elektroenergetycznego, który ma co najmniej dwa sieciowe miejsca dostarczania energii elektrycznej połączone siecią tego operatora systemu dystrybucyjnego elektroenergetycznego – w odniesieniu do tych miejsc dostarczania tej energii;
 2)
 operatorami systemów dystrybucyjnych elektroenergetycznych, z których każdy ma co najmniej po dwa sieciowe miejsca dostarczania energii elektrycznej połączone siecią danego operatora;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 9.)
 operatorem systemu przesyłowego elektroenergetycznego lub operatorem systemu dystrybucyjnego elektroenergetycznego a użytkownikiem systemu elektroenergetycznego oraz operatorem systemu przesyłowego elektroenergetycznego a operatorem systemu dystrybucyjnego elektroenergetycznego, w przypadku gdy przekroczenie mocy umownej wynikało z polecenia operatora danego systemu wydanego z powodu innego niż swobodne bilansowanie lub ze świadczenia usług na rzecz operatora określonych w instrukcji, o której mowa w art. 9g ust. 1 ustawy, lub w warunkach dotyczących bilansowania, o których mowa w art. 18 rozporządzenia Komisji (UE) 2017/2195 z dnia 23 listopada 2017 r. ustanawiającego wytyczne dotyczące bilansowania.
 8.
 Jeżeli dostarczanie energii elektrycznej odbywa się z kilku niezależnych miejsc jej dostarczania, a na skutek awarii w sieci przedsiębiorstwa energetycznego lub wyłączenia lub włączenia urządzeń elektroenergetycznych na potrzeby tego przedsiębiorstwa wzrasta suma mocy podlegającej opłacie, opłatę za przekroczenie mocy oblicza się jedynie od wartości przekraczającej łączną moc umowną, z wyłączeniem sytuacji, gdy awaria w sieci lub wyłączenie urządzeń nastąpiły w wyniku przeciążeń lub zakłóceń spowodowanych pracą urządzeń odbiorcy.
@@ -947,6 +939,7 @@ W przypadku gdy jest zamawiana różna wielkość mocy umownej na poszczególne 
 Jeżeli odbiorca za zgodą przedsiębiorstwa energetycznego, do którego sieci są przyłączone jego urządzenia, instalacje lub sieci, dokonuje zmniejszenia mocy umownej, w rozliczeniach za świadczenie usług przesyłania lub dystrybucji energii elektrycznej składnik stały stawki sieciowej powiększa się o 10 % dla całego okresu objętego dokonanym zmniejszeniem mocy umownej.
 3.
 Do sieciowych miejsc dostarczania energii elektrycznej oraz połączeń sieci operatorów systemów dystrybucyjnych elektroenergetycznych, w odniesieniu do których moc umowna jest wyznaczana zgodnie z § 16 ust. 7–10, przepisów ust. 1 i 2 nie stosuje się.
+Przepisy epizodyczne i przejściowe oraz przepis końcowy
 § 50.
 1.
 W kosztach utrzymywania systemowych standardów jakości i niezawodności bieżących dostaw energii elektrycznej, o których mowa w § 17, stanowiących podstawę kalkulacji stawki jakościowej na 2023 r., a w przypadku, o którym mowa w ust. 4, również na 2024 r., uwzględnia się różnicę między kosztami poniesionymi w 2022 r., ustalonymi w sposób określony w ust. 3, a kosztami tego utrzymywania, których wysokość zależy od wysokości cen wymuszonej dostawy energii elektrycznej, cen wymuszonego odbioru energii elektrycznej oraz cen za uruchomienie w rozumieniu przepisów wydanych na podstawie art. 9 ust. 3 i 4 ustawy, w części wynikającej ze zmiany kosztów paliwa podstawowego, przyjmowanych zgodnie z zasadami określonymi w powyższych przepisach do ustalania tych cen, planowanymi do poniesienia, uwzględnionymi w kalkulacji stawki jakościowej na 2022 r.
@@ -960,11 +953,11 @@ W przypadku gdy uwzględnienie różnicy, o której mowa w ust. 1, mogłoby spow
 2023 r. uwzględnia się część tej różnicy w wysokości odpowiadającej 50 % iloczynu stawki opłaty jakościowej obowiązującej w 2022 r. oraz ilości energii elektrycznej planowanej do zużycia przez odbiorców końcowych korzystających z krajowego systemu elektroenergetycznego, o której mowa w § 17, przyjętej do kalkulacji stawki jakościowej na 2023 r.;
 2)
 2024 r. uwzględnia się pozostałą część różnicy, o której mowa w pkt 1, i oblicza się ją według wzoru: RKSJ 2022/2023 = (KSJw 2022 − KSJp 2022) − RKSJ 2022 gdzie poszczególne symbole oznaczają: RKSJ 2022/2023 – różnicę kosztów utrzymywania systemowych standardów jakości i niezawodności bieżących dostaw energii elektrycznej w 2022 r., nieuwzględnioną w kalkulacji stawki jakościowej na 2023 r., wyrażoną w zł, KSJw 2022 – sumę kosztów, o których mowa w § 17 ust. 1, poniesionych w 2022 r., wyrażoną w zł, KSJp 2022 – sumę kosztów planowanych, o których mowa w § 17 ust. 1, uwzględnionych w kalkulacji stawki jakościowej na 2022 r., wyrażoną w zł, RKSJ 2022 – różnicę kosztów utrzymywania systemowych standardów jakości i niezawodności bieżących dostaw energii elektrycznej w 2022 r., uwzględnioną w kalkulacji stawki jakościowej na 2023 r., wyrażoną w zł.
-§ 50a.
+§ 50aDodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 7..
 Przepisów § 37 ust. 2–4 nie stosuje się do faktur za dostarczanie energii elektrycznej wystawionych do dnia 31 grudnia 2023 r.
-§ 50b.
+§ 50bDodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 9..
 1.
-Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną w rozliczeniach za 2023 r. z odbiorcą energii elektrycznej w gospodarstwie domowym obniża wyliczoną kwotę należności o kwotę równą 12 % iloczynu średniej ceny energii elektrycznej opublikowanej przez Prezesa Urzędu Regulacji Energetyki na 2022 r., na podstawie art. 10 ust. 1 pkt 1 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. z 2023 r. poz. 1704, 1785 i 2760 oraz z 2024 r. poz. 859) dla grupy taryfowej G11, oraz wolumenu energii wynoszącego 2523 kWh, w przypadku gdy dany odbiorca energii elektrycznej w gospodarstwie domowym:
+Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną w rozliczeniach za 2023 r. z odbiorcą energii elektrycznej w gospodarstwie domowym obniża wyliczoną kwotę należności o kwotę równą 12 % iloczynu średniej ceny energii elektrycznej opublikowanej przez Prezesa Urzędu Regulacji Energetyki na 2022 r., na podstawie art. 10 ust. 1 pkt 1 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznejTytuł ustawy zmieniony przez art. 1 pkt 1 ustawy z dnia 7 grudnia 2023 r. o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła (Dz. U. poz. 2760), która weszła w życie z dniem 31 grudnia 2023 r. (Dz. U. z 2023 r. poz. 1704, 1785 i 2760 oraz z 2024 r. poz. 859) dla grupy taryfowej G11, oraz wolumenu energii wynoszącego 2523 kWh, w przypadku gdy dany odbiorca energii elektrycznej w gospodarstwie domowym:
 1)
 w okresie co najmniej trzech następujących po sobie miesięcy między dniem 1 stycznia 2023 r. a dniem 30 września 2023 r. zmniejszył zużycie energii elektrycznej w punkcie poboru energii do poziomu poniżej 95 % zużycia energii elektrycznej tego odbiorcy w odniesieniu do tych samych trzech następujących po sobie miesięcy między dniem 1 stycznia 2022 r. a dniem 30 września 2022 r. lub
 2)
@@ -976,7 +969,7 @@ wyraził zgodę na otrzymywanie od przedsiębiorstwa energetycznego wykonująceg
 5)
 jest prosumentem energii odnawialnej w rozumieniu art. 2 pkt 27a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, lub
 6)
-złożył oświadczenie, o którym mowa w art. 9 ust. 1 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej.
+złożył oświadczenie, o którym mowa w art. 9 ust. 1 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznejTytuł ustawy zmieniony przez art. 1 pkt 1 ustawy z dnia 7 grudnia 2023 r. o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła (Dz. U. poz. 2760), która weszła w życie z dniem 31 grudnia 2023 r..
 2.
 Obniżenie, o którym mowa w ust. 1, przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną stosuje w stosunku do każdego punktu poboru energii odbiorcy energii elektrycznej w gospodarstwie domowym.
 3.
@@ -986,8 +979,7 @@ zamieszcza na swojej stronie internetowej informację o stosowaniu obniżenia, o
 a)
 zweryfikowanie i potwierdzenie poprawności danych, o których mowa w ust. 1 pkt 2,
 b)
-wyrażenie przez odbiorców energii elektrycznej w gospodarstwie domowym zgód, o których mowa w ust. 1 pkt 3 i 4
-oraz wskazuje sposób realizacji tych czynności;
+wyrażenie przez odbiorców energii elektrycznej w gospodarstwie domowym zgód, o których mowa w ust. 1 pkt 3 i 4 – oraz wskazuje sposób realizacji tych czynności;
 2)
 informuje odbiorcę energii elektrycznej w gospodarstwie domowym o stosowaniu obniżenia, o którym mowa w ust. 1:
 a)
@@ -1005,19 +997,30 @@ W przypadku gdy weryfikacja, o której mowa w ust. 5, wykaże, że odbiorca ener
 § 51.
 1.
 Do spraw wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy rozporządzenia.
-2.
+2W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 30 marca 2023 r. zmieniającego rozporządzenie w sprawie sposobu kształtowania i kalkulacji taryf oraz sposobu rozliczeń w obrocie energią elektryczną (Dz. U. poz. 632), które weszło w życie z dniem 4 kwietnia 2023 r..
 Taryfy dla przedsiębiorstw energetycznych obowiązujące w dniu wejścia w życie rozporządzenia lub zatwierdzone przed tym dniem obowiązują przez okres określony w decyzjach Prezesa Urzędu Regulacji Energetyki zatwierdzających te taryfy.
 § 52.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – energia kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2012/27/UE Parlamentu Europejskiego i Rady z dnia 25 października 2012 r. w sprawie efektywności energetycznej, zmiany dyrektyw 2009/125/WE i 2010/30/UE oraz uchylenia dyrektyw 2004/8/WE i 2006/32/WE (Dz. Urz. UE L 315 z 14.11.2012, str. 1, Dz. Urz. UE L 113 z 25.04.2013, str. 24, Dz. Urz. UE L 141 z 28.05.2013, str. 28, Dz. Urz. UE L 156 z 19.06.2018, str. 75, Dz. Urz. UE L 328 z 21.12.2018, str. 1, Dz. Urz. UE L 328 z 21.12.2018, str. 210, Dz. Urz. UE L 85I z 27.03.2019, str. 66, Dz. Urz. UE L 137 z 23.05.2019, str. 3 oraz Dz. Urz. UE L 158 z 14.06.2019, str. 125). 3) Art. 46 ust. 3 zmieniony przez art. 1 pkt 68 lit. b ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1681 oraz z 2024 r. poz. 859), która weszła w życie z dniem 7 września 2023 r.; zgodnie z art. 47 ust. 1 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw dotychczasowe przepisy wykonawcze wydane na podstawie art. 46 ust. 3 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i 859) w brzmieniu dotychczasowym zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 46 ust. 3 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, w brzmieniu nadanym ustawą z dnia 28 lipca 2023 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw, nie dłużej jednak niż przez 36 miesięcy od dnia wejścia w życie ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw, i mogą być zmieniane. 4) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 152 z 03.06.2022, str. 45. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 62 z 23.02.2021, str. 24 oraz Dz. Urz. UE L 147 z 30.05.2022, str. 27. 6) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 62 z 23.02.2021, str. 24. 7) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 30 stycznia 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń w obrocie energią elektryczną (Dz. U. poz. 226), które weszło w życie z dniem 3 lutego 2023 r. 8) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 7. 9) Dodany przez § 1 pkt 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 9 września 2023 r. zmieniającego rozporządzenie w sprawie sposobu kształtowania i kalkulacji taryf oraz sposobu rozliczeń w obrocie energią elektryczną (Dz. U. poz. 1847), które weszło w życie z dniem 19 września 2023 r. 10) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 9. 11) Tytuł rozdziału w brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 7. 12) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 7. 13) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 9. 14) Tytuł ustawy zmieniony przez art. 1 pkt 1 ustawy z dnia 7 grudnia 2023 r. o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła (Dz. U. poz. 2760), która weszła w życie z dniem 31 grudnia 2023 r. 15) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 30 marca 2023 r. zmieniającego rozporządzenie w sprawie sposobu kształtowania i kalkulacji taryf oraz sposobu rozliczeń w obrocie energią elektryczną (Dz. U. poz. 632), które weszło w życie z dniem 4 kwietnia 2023 r. 16) Rozporządzenie zostało ogłoszone w dniu 6 grudnia 2022 r. 17) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Energii z dnia 6 marca 2019 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń w obrocie energią elektryczną (Dz. U. poz. 503, z 2020 r. poz. 2053 oraz z 2022 r. poz. 27), które zgodnie z art. 55 ust. 3 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. poz. 2490 oraz z 2022 r. poz. 1301 i 1964) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 6 grudnia 2022 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Energii z dnia 6 marca 2019 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń w obrocie energią elektryczną (Dz. U. poz. 503, z 2020 r. poz. 2053 oraz z 2022 r. poz. 27), które zgodnie z art. 55 ust. 3 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. poz. 2490 oraz z 2022 r. poz. 1301 i 1964) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – energia kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2012/27/UE Parlamentu Europejskiego i Rady z dnia 25 października 2012 r. w sprawie efektywności energetycznej, zmiany dyrektyw 2009/125/WE i 2010/30/UE oraz uchylenia dyrektyw 2004/8/WE i 2006/32/WE (Dz. Urz. UE L 315 z 14.11.2012, str. 1, Dz. Urz. UE L 113 z 25.04.2013, str. 24, Dz. Urz. UE L 141 z 28.05.2013, str. 28, Dz. Urz. UE L 156 z 19.06.2018, str. 75, Dz. Urz. UE L 328 z 21.12.2018, str. 1, Dz. Urz. UE L 328 z 21.12.2018, str. 210, Dz. Urz. UE L 85I z 27.03.2019, str. 66, Dz. Urz. UE L 137 z 23.05.2019, str. 3 oraz Dz. Urz. UE L 158 z 14.06.2019, str. 125). 3) Art. 46 ust. 3 zmieniony przez art. 1 pkt 68 lit. b ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1681 oraz z 2024 r. poz. 859), która weszła w życie z dniem 7 września 2023 r.; zgodnie z art. 47 ust. 1 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw dotychczasowe przepisy wykonawcze wydane na podstawie art. 46 ust. 3 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i 859) w brzmieniu dotychczasowym zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 46 ust. 3 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, w brzmieniu nadanym ustawą z dnia 28 lipca 2023 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw, nie dłużej jednak niż przez 36 miesięcy od dnia wejścia w życie ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw, i mogą być zmieniane. 4) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 152 z 03.06.2022, str. 45. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 62 z 23.02.2021, str. 24 oraz Dz. Urz. UE L 147 z 30.05.2022, str. 27. 6) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 62 z 23.02.2021, str. 24. 7) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 30 stycznia 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń w obrocie energią elektryczną (Dz. U. poz. 226), które weszło w życie z dniem 3 lutego 2023 r. 8) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 7. 9) Dodany przez § 1 pkt 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 9 września 2023 r. zmieniającego rozporządzenie w sprawie sposobu kształtowania i kalkulacji taryf oraz sposobu rozliczeń w obrocie energią elektryczną (Dz. U. poz. 1847), które weszło w życie z dniem 19 września 2023 r. 10) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 9. 11) Tytuł rozdziału w brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 7. 12) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 7. 13) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 9. 14) Tytuł ustawy zmieniony przez art. 1 pkt 1 ustawy z dnia 7 grudnia 2023 r. o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła (Dz. U. poz. 2760), która weszła w życie z dniem 31 grudnia 2023 r. 15) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 30 marca 2023 r. zmieniającego rozporządzenie w sprawie sposobu kształtowania i kalkulacji taryf oraz sposobu rozliczeń w obrocie energią elektryczną (Dz. U. poz. 632), które weszło w życie z dniem 4 kwietnia 2023 r. 16) Rozporządzenie zostało ogłoszone w dniu 6 grudnia 2022 r. 17) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Energii z dnia 6 marca 2019 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń w obrocie energią elektryczną (Dz. U. poz. 503, z 2020 r. poz. 2053 oraz z 2022 r. poz. 27), które zgodnie z art. 55 ust. 3 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. poz. 2490 oraz z 2022 r. poz. 1301 i 1964) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Sposób kształtowania taryf
+#### Rozdział 2 – Sposób kształtowania taryf
 
-#### Rozdział 3 Sposób kalkulacji cen i stawek opłat
+#### Rozdział 3 – Sposób kalkulacji cen i stawek opłat
 
-#### Rozdział 4 Szczegółowe zasady rozliczeń z odbiorcami oraz między przedsiębiorstwami energetycznymi
+#### Rozdział 4 – Szczegółowe zasady rozliczeń z odbiorcami oraz między przedsiębiorstwami energetycznymi
 
-#### Rozdział 5 Przepisy epizodyczne i przejściowe oraz przepis końcowy
+#### Rozdział 5 – Przepisy epizodyczne i przejściowe oraz przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+## Tytuł rozdziału w brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 7.
 

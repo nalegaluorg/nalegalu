@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-06 |
 | Data wydania | 2014-11-13 |
-| Wejście w życie | 2014-11-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001564) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1564/text.pdf) |
 
@@ -3274,5 +3273,5 @@ Zamość;
 15)
 Zwierzyniec.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 19 listopada 2014 r.
+Rozporządzenie wchodzi w życie z dniem 19 listopada 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 20 września 2001 r. w sprawie określenia miejsc odosobnienia, w których były osadzone osoby narodowości polskiej lub obywatele polscy innych narodowości (Dz. U. Nr 106, poz. 1154, z 2005 r. Nr 214, poz. 1801 oraz z 2006 r. Nr 227, poz. 1660), które traci moc na podstawie art. 13 ustawy z dnia 14 marca 2014 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego oraz niektórych innych ustaw (Dz. U. poz. 496). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 20 września 2001 r. w sprawie określenia miejsc odosobnienia, w których były osadzone osoby narodowości polskiej lub obywatele polscy innych narodowości (Dz. U. Nr 106, poz. 1154, z 2005 r. Nr 214, poz. 1801 oraz z 2006 r. Nr 227, poz. 1660), które traci moc na podstawie art. 13 ustawy z dnia 14 marca 2014 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego oraz niektórych innych ustaw (Dz. U. poz. 496).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 28 sierpnia 2017 r. zmieniające rozporządzenie w sprawie warunków organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży niepełnosprawnych, niedostosowanych społecznie i zagrożonych niedostosowaniem społecznym
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 28 sierpnia 2017 r. zmieniające rozporządzenie w sprawie warunków organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży niepełnosprawnych, niedostosowanych społecznie i zagrożonych niedostosowaniem społecznym Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-28 |
 | Data wydania | 2017-08-31 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001652) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1652/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 71b ust. 7 pkt 2 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 71b ust. 7 pkt 2 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Edukacji Narodowej z dnia 24 lipca 2015 r. w sprawie warunków organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży niepełnosprawnych, niedostosowanych społecznie i zagrożonych niedostosowaniem społecznym (Dz. U. poz. 1113) wprowadza się następujące zmiany:
 1)
@@ -35,8 +34,7 @@ w § 1 we wprowadzeniu do wyliczenia po wyrazach „dzieci i młodzieży” doda
 2)
 w § 2:
 a)
-ust. 1 i 2 otrzymują brzmienie:
-„
+ust. 1 i 2 otrzymują brzmienie: „
 1.
 Kształcenie, wychowanie i opiekę dla uczniów niepełnosprawnych organizuje się w:
 1)
@@ -60,21 +58,18 @@ specjalnych ośrodkach wychowawczych;
 10)
 ośrodkach rewalidacyjno-wychowawczych.
 2.
-Kształcenie, wychowanie i opiekę dla uczniów niepełnosprawnych w szkołach i oddziałach, o których mowa w ust. 1 pkt 1–3, organizuje się w integracji z uczniami pełnosprawnymi w szkole najbliższej miejsca zamieszkania ucznia niepełnosprawnego.
-” ,
+Kształcenie, wychowanie i opiekę dla uczniów niepełnosprawnych w szkołach i oddziałach, o których mowa w ust. 1 pkt 1–3, organizuje się w integracji z uczniami pełnosprawnymi w szkole najbliższej miejsca zamieszkania ucznia niepełnosprawnego. ” ,
 b)
 uchyla się ust. 3–6;
 3)
-§ 3 otrzymuje brzmienie:
-„
+§ 3 otrzymuje brzmienie: „
 § 3.
 1.
 Kształcenie, wychowanie i opiekę dla dzieci i młodzieży niedostosowanych społecznie organizuje się w szkołach, oddziałach i ośrodkach, o których mowa w § 2 ust. 1 pkt 1–6, na każdym etapie edukacyjnym.
 2.
 Kształcenie, wychowanie i opiekę dla dzieci i młodzieży zagrożonych niedostosowaniem społecznym organizuje się w szkołach, oddziałach i ośrodkach, o których mowa w § 2 ust. 1 pkt 1–5, 7 i 9, na każdym etapie edukacyjnym.
 3.
-W gimnazjach i szkołach ponadgimnazjalnych ogólnodostępnych nie organizuje się oddziałów specjalnych dla dzieci i młodzieży niedostosowanych społecznie i zagrożonych niedostosowaniem społecznym.
-” ;
+W gimnazjach i szkołach ponadgimnazjalnych ogólnodostępnych nie organizuje się oddziałów specjalnych dla dzieci i młodzieży niedostosowanych społecznie i zagrożonych niedostosowaniem społecznym. ” ;
 4)
 w § 4 uchyla się pkt 1;
 5)
@@ -85,18 +80,15 @@ w ust. 1:
 – w pkt 2 i 4 skreśla się wyrazy „dzieci lub”,
 – w pkt 5 skreśla się wyrazy „dzieci lub” oraz wyrazy „dziećmi lub”,
 b)
-ust. 2 i 3 otrzymują brzmienie:
-„
+ust. 2 i 3 otrzymują brzmienie: „
 2.
 Liczbę uczniów w oddziale gimnazjum i szkoły ponadgimnazjalnej integracyjnej lub specjalnej oraz w oddziale integracyjnym lub specjalnym w gimnazjum i szkole ponadgimnazjalnej ogólnodostępnej określają przepisy wydane na podstawie art. 60 ust. 2 ustawy.
 3.
-Za zgodą organu prowadzącego liczba uczniów, w tym uczniów niepełnosprawnych, w oddziale gimnazjum i szkoły ponadgimnazjalnej integracyjnej i w oddziale integracyjnym w gimnazjum i szkole ponadgimnazjalnej ogólnodostępnej może być niższa od liczby określonej w przepisach wydanych na podstawie art. 60 ust. 2 ustawy.
-” ,
+Za zgodą organu prowadzącego liczba uczniów, w tym uczniów niepełnosprawnych, w oddziale gimnazjum i szkoły ponadgimnazjalnej integracyjnej i w oddziale integracyjnym w gimnazjum i szkole ponadgimnazjalnej ogólnodostępnej może być niższa od liczby określonej w przepisach wydanych na podstawie art. 60 ust. 2 ustawy. ” ,
 c)
 uchyla się ust. 4;
 6)
-§ 6 otrzymuje brzmienie:
-„
+§ 6 otrzymuje brzmienie: „
 § 6.
 1.
 Indywidualny program edukacyjno-terapeutyczny, o którym mowa w art. 127 ust. 3 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59 i 949), zwany dalej „programem”, określa:
@@ -169,16 +161,13 @@ wielospecjalistycznych ocen, o których mowa w ust. 4 i 9;
 2)
 programu.
 13.
-Osoby biorące udział w spotkaniu zespołu są obowiązane do nieujawniania spraw poruszanych na spotkaniu, które mogą naruszać dobra osobiste ucznia, jego rodziców, nauczycieli, wychowawców grup wychowawczych lub specjalistów prowadzących zajęcia z uczniem, a także innych osób uczestniczących w spotkaniu zespołu, o których mowa w ust. 8.
-” ;
+Osoby biorące udział w spotkaniu zespołu są obowiązane do nieujawniania spraw poruszanych na spotkaniu, które mogą naruszać dobra osobiste ucznia, jego rodziców, nauczycieli, wychowawców grup wychowawczych lub specjalistów prowadzących zajęcia z uczniem, a także innych osób uczestniczących w spotkaniu zespołu, o których mowa w ust. 8. ” ;
 7)
 w § 7:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-W gimnazjach i szkołach ponadgimnazjalnych: ogólnodostępnych z oddziałami integracyjnymi i integracyjnych zatrudnia się dodatkowo nauczycieli posiadających kwalifikacje w zakresie pedagogiki specjalnej w celu współorganizowania kształcenia integracyjnego, z uwzględnieniem realizacji zaleceń zawartych w orzeczeniu o potrzebie kształcenia specjalnego.
-” ,
+W gimnazjach i szkołach ponadgimnazjalnych: ogólnodostępnych z oddziałami integracyjnymi i integracyjnych zatrudnia się dodatkowo nauczycieli posiadających kwalifikacje w zakresie pedagogiki specjalnej w celu współorganizowania kształcenia integracyjnego, z uwzględnieniem realizacji zaleceń zawartych w orzeczeniu o potrzebie kształcenia specjalnego. ” ,
 b)
 w ust. 2:
 – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W gimnazjach i szkołach ponadgimnazjalnych ogólnodostępnych, w których kształceniem specjalnym są objęci uczniowie posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na autyzm, w tym zespół Aspergera, lub niepełnosprawności sprzężone, zatrudnia się dodatkowo: ” ,
@@ -188,14 +177,11 @@ w ust. 3:
 – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W gimnazjach i szkołach ponadgimnazjalnych ogólnodostępnych, w których kształceniem specjalnym są objęci uczniowie posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na inne niż wymienione w ust. 2 niepełnosprawności, niedostosowanie społeczne lub zagrożenie niedostosowaniem społecznym, za zgodą organu prowadzącego można zatrudniać dodatkowo: ” ,
 – uchyla się pkt 2,
 d)
-po ust. 3 dodaje się ust. 3a w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a w brzmieniu: „
 3a.
-W gimnazjach i szkołach ponadgimnazjalnych: specjalnych, integracyjnych, ogólnodostępnych z oddziałami specjalnymi lub integracyjnymi dla uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność, za zgodą organu prowadzącego można zatrudnić dodatkowo pomoc nauczyciela.
-” ,
+W gimnazjach i szkołach ponadgimnazjalnych: specjalnych, integracyjnych, ogólnodostępnych z oddziałami specjalnymi lub integracyjnymi dla uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność, za zgodą organu prowadzącego można zatrudnić dodatkowo pomoc nauczyciela. ” ,
 e)
-ust. 4–6 otrzymują brzmienie:
-„
+ust. 4–6 otrzymują brzmienie: „
 4.
 Nauczyciele, o których mowa w ust. 1, ust. 2 pkt 1 i ust. 3 pkt 1:
 1)
@@ -211,29 +197,21 @@ prowadzą zajęcia, o których mowa w § 5 ust. 1 pkt 4.
 5.
 Dyrektor szkoły, uwzględniając indywidualne potrzeby rozwojowe i edukacyjne oraz możliwości psychofizyczne uczniów niepełnosprawnych, niedostosowanych społecznie oraz zagrożonych niedostosowaniem społecznym, wyznacza zajęcia edukacyjne oraz zintegrowane działania i zajęcia, określone w programie, realizowane wspólnie z innymi nauczycielami przez nauczycieli, o których mowa w ust. 1, ust. 2 pkt 1 i ust. 3 pkt 1, lub w których nauczyciele ci uczestniczą.
 6.
-Specjaliści i pomoc nauczyciela, o których mowa w ust. 2 pkt 1 i 3, ust. 3 pkt 1 i 3 oraz ust. 3a, realizują zadania wyznaczone przez dyrektora szkoły.
-” ,
+Specjaliści i pomoc nauczyciela, o których mowa w ust. 2 pkt 1 i 3, ust. 3 pkt 1 i 3 oraz ust. 3a, realizują zadania wyznaczone przez dyrektora szkoły. ” ,
 f)
-dodaje się ust. 7 w brzmieniu:
-„
+dodaje się ust. 7 w brzmieniu: „
 7.
-Dyrektor szkoły powierza prowadzenie zajęć, o których mowa w § 5 ust. 1 pkt 4, nauczycielom lub specjalistom posiadającym kwalifikacje odpowiednie do rodzaju niepełnosprawności ucznia.
-” ;
+Dyrektor szkoły powierza prowadzenie zajęć, o których mowa w § 5 ust. 1 pkt 4, nauczycielom lub specjalistom posiadającym kwalifikacje odpowiednie do rodzaju niepełnosprawności ucznia. ” ;
 8)
-§ 8 otrzymuje brzmienie:
-„
+§ 8 otrzymuje brzmienie: „
 § 8.
-Uczniowie z chorobami przewlekłymi, z zaburzeniami psychicznymi, z zaburzeniami zachowania i zagrożeni uzależnieniem, posiadający orzeczenie o potrzebie kształcenia specjalnego, którzy przed dniem 1 września 2011 r. rozpoczęli naukę w gimnazjum lub szkole ponadgimnazjalnej integracyjnej lub specjalnej, oddziale integracyjnym lub specjalnym w gimnazjum lub szkole ponadgimnazjalnej ogólnodostępnej, mogą kontynuować naukę w takiej szkole lub oddziale do ukończenia tej szkoły.
-” ;
+Uczniowie z chorobami przewlekłymi, z zaburzeniami psychicznymi, z zaburzeniami zachowania i zagrożeni uzależnieniem, posiadający orzeczenie o potrzebie kształcenia specjalnego, którzy przed dniem 1 września 2011 r. rozpoczęli naukę w gimnazjum lub szkole ponadgimnazjalnej integracyjnej lub specjalnej, oddziale integracyjnym lub specjalnym w gimnazjum lub szkole ponadgimnazjalnej ogólnodostępnej, mogą kontynuować naukę w takiej szkole lub oddziale do ukończenia tej szkoły. ” ;
 9)
-po § 8 dodaje się § 8a w brzmieniu:
-„
+po § 8 dodaje się § 8a w brzmieniu: „
 § 8a.
-Przepisy rozporządzenia stosuje się także do klas gimnazjum lub szkoły ponadgimnazjalnej prowadzonych w szkołach innego typu oraz do dotychczasowych szkół artystycznych, o których mowa w art. 363 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
-” .
+Przepisy rozporządzenia stosuje się także do klas gimnazjum lub szkoły ponadgimnazjalnej prowadzonych w szkołach innego typu oraz do dotychczasowych szkół artystycznych, o których mowa w art. 363 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949). ” .
 § 2.
 Indywidualne programy edukacyjno-terapeutyczne opracowane dla uczniów przed dniem 1 września 2017 r. należy dostosować do wymogów określonych w rozporządzeniu zmienianym w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie do dnia 30 września 2017 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.
 

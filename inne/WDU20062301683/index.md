@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062301683) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1683/text.pdf) |
 
 Treść obwieszczenia
-Na podstawie art. 184 ust. 1 ustawy z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2003 r. Nr 159, poz. 1547, z późn. zm.) oraz art. 2 ust. 2 ustawy z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. Nr 113, poz. 984, z późn. zm.) Państwowa Komisja Wyborcza podaje do publicznej wiadomości zbiorcze wyniki wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonych w dniu 10 grudnia 2006 r. w ponownym głosowaniu odroczonym ze względu na zmianę jednego z kandydatów.
+Na podstawie art. 184 ust. 1 ustawy z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2003 r. Nr 159, poz. 1547, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 25, poz. 219, Nr 102, poz. 1055 i Nr 167, poz. 1760, z 2005 r. Nr 175, poz. 1457 oraz z 2006 r. Nr 17, poz. 128, Nr 34, poz. 242, Nr 146, poz. 1055, Nr 159, poz. 1127 i Nr 218, poz. 1592.) oraz art. 2 ust. 2 ustawy z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. Nr 113, poz. 984, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1089 i Nr 214, poz. 1806, z 2004 r. Nr 102, poz. 1055, z 2005 r. Nr 175, poz. 1457 oraz z 2006 r. Nr 218, poz. 1592.) Państwowa Komisja Wyborcza podaje do publicznej wiadomości zbiorcze wyniki wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonych w dniu 10 grudnia 2006 r. w ponownym głosowaniu odroczonym ze względu na zmianę jednego z kandydatów.
 I.
 Dane ogólne dotyczące wyborów wójtów, burmistrzów i prezydentów miast w ponownym głosowaniu w dniu 10 grudnia 2006 r. na obszarze kraju Ponowne głosowanie w dniu 10 grudnia 2006 r.
 1.
@@ -48,5 +48,5 @@ Wyniki wyborów wójtów, burmistrzów i prezydentów miast w ponownym głosowan
 2)
 1 burmistrza w gminie liczącej powyżej 20 tys. mieszkańców,
 3)
-1 prezydenta miasta w mieście na prawach powiatu.
+1 prezydenta miasta w mieście na prawach powiatu. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 25, poz. 219, Nr 102, poz. 1055 i Nr 167, poz. 1760, z 2005 r. Nr 175, poz. 1457 oraz z 2006 r. Nr 17, poz. 128, Nr 34, poz. 242, Nr 146, poz. 1055, Nr 159, poz. 1127 i Nr 218, poz. 1592. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1089 i Nr 214, poz. 1806, z 2004 r. Nr 102, poz. 1055, z 2005 r. Nr 175, poz. 1457 oraz z 2006 r. Nr 218, poz. 1592.
 

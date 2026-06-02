@@ -31,13 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 26 sierpnia 2003 r. w sprawie warunków bezpieczeństwa i higieny służby oraz zakresu stosowania przepisów działu dziesiątego Kodeksu pracy w Agencji Bezpieczeństwa Wewnętrznego (Dz. U. Nr 160, poz. 1560), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 11 maja 2011 r. zmieniającym rozporządzenie w sprawie warunków bezpieczeństwa i higieny służby oraz zakresu stosowania przepisów działu dziesiątego Kodeksu pracy w Agencji Bezpieczeństwa Wewnętrznego (Dz. U. Nr 103, poz. 593).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 11 maja 2011 r. zmieniającego rozporządzenie w sprawie warunków bezpieczeństwa i higieny służby oraz zakresu stosowania przepisów działu dziesiątego Kodeksu pracy w Agencji Bezpieczeństwa Wewnętrznego (Dz. U. Nr 103, poz. 593), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 11 maja 2011 r. zmieniającego rozporządzenie w sprawie warunków bezpieczeństwa i higieny służby oraz zakresu stosowania przepisów działu dziesiątego Kodeksu pracy w Agencji Bezpieczeństwa Wewnętrznego (Dz. U. Nr 103, poz. 593), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Tekst jednolity rozporządzenia Prezesa Rady Ministrów z dnia 26 sierpnia 2003 r. w sprawie warunków bezpieczeństwa i higieny służby oraz zakresu stosowania przepisów działu dziesiątego Kodeksu pracy w Agencji Bezpieczeństwa Wewnętrznego
-Na podstawie art. 52 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 52 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455, Nr 117, poz. 677 i Nr 230, poz. 1371, z 2012 r. poz. 627 i 908 oraz z 2013 r. poz. 628 i 675.) zarządza się, co następuje:
 § 1.
 Za stan bezpieczeństwa i higieny służby w jednostce organizacyjnej Agencji Bezpieczeństwa Wewnętrznego, zwanej dalej „jednostką”, odpowiada kierownik tej jednostki, a także, w swoim zakresie obowiązków służbowych, kierownik komórki organizacyjnej w jednostce oraz osoba kierująca doraźnie zespołem złożonym z co najmniej dwóch funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, zwani dalej „przełożonymi”.
 § 2.
@@ -103,8 +101,7 @@ Funkcjonariuszowi pełniącemu służbę:
 1)
 w temperaturze otoczenia powyżej 25°C lub poniżej 10°C,
 2)
-wymagającą wysiłku fizycznego powodującego w ciągu 8 godzin efektywny wydatek energetyczny organizmu powyżej 1500 kcal (6280 kJ) u mężczyzny i 1000 kcal (4187 kJ) u kobiety
-zapewnia się napoje wzbogacone w sole mineralne i witaminy, w ilości zaspokajającej jego potrzeby, odpowiednio zimne lub gorące w zależności od warunków pełnienia służby.
+wymagającą wysiłku fizycznego powodującego w ciągu 8 godzin efektywny wydatek energetyczny organizmu powyżej 1500 kcal (6280 kJ) u mężczyzny i 1000 kcal (4187 kJ) u kobiety – zapewnia się napoje wzbogacone w sole mineralne i witaminy, w ilości zaspokajającej jego potrzeby, odpowiednio zimne lub gorące w zależności od warunków pełnienia służby.
 § 11.
 Funkcjonariusz pełniący służbę na stanowisku służbowym, na którym występują szczególne właściwości lub warunki służby, związane z działaniem: siły fizycznej maszyn i urządzeń, substancji toksycznych, wysokich lub niskich temperatur, prądu elektrycznego, mikrofal, hałasu i wibracji oraz promieniowania jonizującego, ma obowiązek stosować środki i metody zabezpieczające przed tym działaniem, w szczególności środki ochrony indywidualnej.
 § 12.
@@ -177,24 +174,24 @@ fizyczne warunki i umiejętności funkcjonariusza mogą zastąpić brak możliwo
 3)
 funkcjonariusz podejmie wykonanie określonej czynności dobrowolnie.
 § 19.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Prezesa Rady Ministrów z dnia 11 maja 2011 r. zmieniającego rozporządzenie w sprawie warunków bezpieczeństwa i higieny służby oraz zakresu stosowania przepisów działu dziesiątego Kodeksu pracy w Agencji Bezpieczeństwa Wewnętrznego (Dz. U. Nr 103, poz. 593), które weszło w życie z dniem 4 czerwca 2011 r..
 We właściwych jednostkach tworzy się etatową lub nieetatową służbę bezpieczeństwa i higieny służby, zwaną dalej „służbą bhs”, która pełni funkcje kontrolne i doradcze w zakresie bezpieczeństwa i higieny służby.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 3.
 Liczbę funkcjonariuszy służby bhs ustala kierownik jednostki, biorąc pod uwagę liczbę funkcjonariuszy pełniących służbę w jednostce oraz występujące w jednostce szczególne właściwości lub warunki służby i związane z nimi uciążliwości i zagrożenia.
 4.
 Służba bhs podlega bezpośrednio kierownikowi jednostki lub jego zastępcy.
-§ 20.
+§ 20W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Do zadań służby bhs, uprawnień oraz kwalifikacji funkcjonariusza służby bhs stosuje się odpowiednio przepisy w sprawie służby bezpieczeństwa i higieny pracy.
 § 21.
 W zakresie nieuregulowanym rozporządzeniem stosuje się odpowiednio:
 1)
 przepisy art. 208, art. 211–227, art. 232–236 i art. 2373–23711 działu dziesiątego Kodeksu pracy oraz wydane na ich podstawie przepisy bezpieczeństwa i higieny pracy;
-1a)
+1aDodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.)
 przepisy art. 229 § 2, § 3, § 5 pkt 1 i § 6 Kodeksu pracy, a także przepisy wykonawcze wydane na podstawie art. 229 § 8 tego Kodeksu określające zakres i częstotliwość badań okresowych;
 2)
 przepisy bezpieczeństwa i higieny pracy wydane na podstawie art. 23715 Kodeksu pracy, jeżeli funkcjonariusz w czasie wykonywania zadań służbowych wykonuje prace, których te przepisy dotyczą.
 § 22.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 15 września 2003 r.. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455, Nr 117, poz. 677 i Nr 230, poz. 1371, z 2012 r. poz. 627 i 908 oraz z 2013 r. poz. 628 i 675. 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Prezesa Rady Ministrów z dnia 11 maja 2011 r. zmieniającego rozporządzenie w sprawie warunków bezpieczeństwa i higieny służby oraz zakresu stosowania przepisów działu dziesiątego Kodeksu pracy w Agencji Bezpieczeństwa Wewnętrznego (Dz. U. Nr 103, poz. 593), które weszło w życie z dniem 4 czerwca 2011 r. 3) Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 15 września 2003 r.
 

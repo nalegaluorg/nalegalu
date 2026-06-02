@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 2 grudnia 2022 r. w sprawie obowiązkowego ubezpieczenia sponsora i badacza w związku z prowadzeniem badania klinicznego wyrobu lub badania działania wyrobu medycznego do diagnostyki in vitro
+# Rozporządzenie Ministra Finansówz dnia 2 grudnia 2022 r. w sprawie obowiązkowego ubezpieczenia sponsora i badacza w związku z prowadzeniem badania klinicznego wyrobu lub badania działania wyrobu medycznego do diagnostyki in vitro Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-02 |
 | Data wydania | 2022-12-09 |
-| Wejście w życie | 2022-12-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002563) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2563/text.pdf) |
 
@@ -75,6 +74,5 @@ Minimalna suma gwarancyjna, o której mowa w ust. 1 i 2, jest określona łączn
 4.
 Kwoty, o których mowa w ust. 1 i 2, są ustalane przy zastosowaniu średniego kursu euro ogłoszonego przez Narodowy Bank Polski po raz pierwszy w roku, w którym została zawarta umowa ubezpieczenia.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 6 października 2010 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej sponsora i badacza klinicznego w związku z prowadzeniem badania klinicznego wyrobów (Dz. U. poz. 1290), które utraciło moc z dniem 27 listopada 2022 r. zgodnie z art. 146 pkt 2 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 6 października 2010 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej sponsora i badacza klinicznego w związku z prowadzeniem badania klinicznego wyrobów (Dz. U. poz. 1290), które utraciło moc z dniem 27 listopada 2022 r. zgodnie z art. 146 pkt 2 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 6 października 2010 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej sponsora i badacza klinicznego w związku z prowadzeniem badania klinicznego wyrobów (Dz. U. poz. 1290), które utraciło moc z dniem 27 listopada 2022 r. zgodnie z art. 146 pkt 2 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974).
 

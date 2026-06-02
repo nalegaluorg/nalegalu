@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 8 listopada 2021 r. w sprawie wymagań funkcjonalnych dla systemu teleinformatycznego i interfejsu komunikacyjnego oraz zakresu informacji przekazywanych za pośrednictwem interfejsu komunikacyjnego
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 8 listopada 2021 r. w sprawie wymagań funkcjonalnych dla systemu teleinformatycznego i interfejsu komunikacyjnego oraz zakresu informacji przekazywanych za pośrednictwem interfejsu komunikacyjnego Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-08 |
 | Data wydania | 2021-11-10 |
-| Wejście w życie | 2021-11-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002038) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2038/text.pdf) |
 
@@ -152,6 +151,5 @@ identyfikatora nagrania treści zgłoszenia alarmowego oraz identyfikatora zgło
 b)
 treści oryginalnego zgłoszenia alarmowego.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 13 listopada 2021 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 21 sierpnia 2014 r. w sprawie wymagań funkcjonalnych dla systemu teleinformatycznego i interfejsu komunikacyjnego oraz warunków współpracy systemu powiadamiania ratunkowego z Policją, Państwową Strażą Pożarną oraz dysponentami zespołów ratownictwa medycznego (Dz. U. poz. 1159), które zgodnie z art. 8 pkt 2 ustawy z dnia 17 września 2020 r. o zmianie ustawy o systemie powiadamiania ratunkowego (Dz. U. poz. 1899) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem 13 listopada 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 21 sierpnia 2014 r. w sprawie wymagań funkcjonalnych dla systemu teleinformatycznego i interfejsu komunikacyjnego oraz warunków współpracy systemu powiadamiania ratunkowego z Policją, Państwową Strażą Pożarną oraz dysponentami zespołów ratownictwa medycznego (Dz. U. poz. 1159), które zgodnie z art. 8 pkt 2 ustawy z dnia 17 września 2020 r. o zmianie ustawy o systemie powiadamiania ratunkowego (Dz. U. poz. 1899) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 21 sierpnia 2014 r. w sprawie wymagań funkcjonalnych dla systemu teleinformatycznego i interfejsu komunikacyjnego oraz warunków współpracy systemu powiadamiania ratunkowego z Policją, Państwową Strażą Pożarną oraz dysponentami zespołów ratownictwa medycznego (Dz. U. poz. 1159), które zgodnie z art. 8 pkt 2 ustawy z dnia 17 września 2020 r. o zmianie ustawy o systemie powiadamiania ratunkowego (Dz. U. poz. 1899) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

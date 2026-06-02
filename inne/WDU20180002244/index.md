@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym
+# Ustawa z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 15 listopada 1984 r. o podatku rolnym, ustawę z dnia 15 listopada 1984 r. – Prawo przewozowe, ustawę z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 21 maja 1999 r. o broni i amunicji, ustawę z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, ustawę z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych, ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych, ustawę z dnia 30 października 2002 r. o podatku leśnym, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 19 marca 2004 r. – Prawo celne, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody, ustawę z dnia 16 kwietnia 2004 r. o administrowaniu obrotem towarowym z zagranicą, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 10 marca 2006 r. o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej, ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 16 września 2011 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego, ustawę z dnia 28 lutego 2018 r. o kosztach komorniczych, ustawę z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy, ustawę z dnia 22 marca 2018 r. o komornikach sądowych oraz ustawę z dnia 20 lipca 2018 r. o zmianie niektórych ustaw w celu obniżenia składek na ubezpieczenia społeczne osób fizycznych wykonujących działalność gospodarczą na mniejszą skalę.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-09 |
 | Data wydania | 2018-11-30 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002244) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2244/text.pdf) |
 
@@ -55,8 +54,12 @@ source: "eli-html"
 
 **Art. 3.** W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2018 r. poz. 2137) wprowadza się następujące zmiany:
 
-- **1)** w art. 9: w ust. 3b: – pkt 3 i 4 otrzymują brzmienie: „ 3) numer w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP); 4) adresy magazynów stacjonarnych dostosowanych do przechowywania napojów alkoholowych, o ile przedsiębiorca z takich magazynów korzysta; ” , – w pkt 7 w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „ 8) oświadczenie o posiadaniu tytułu prawnego do korzystania z nieruchomości w celach przechowywania napojów alkoholowych, których adresy zawarte są we wniosku zgodnie z pkt 4. ” , po ust. 3c dodaje się ust. 3d i 3e w brzmieniu: „
+- **1)** w art. 9: w ust. 3b: pkt 3 i 4 otrzymują brzmienie: „
     - **a)**
+
+- **3)** numer w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP);
+- **4)** adresy magazynów stacjonarnych dostosowanych do przechowywania napojów alkoholowych, o ile przedsiębiorca z takich magazynów korzysta; ” , w pkt 7 w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
+- **8)** oświadczenie o posiadaniu tytułu prawnego do korzystania z nieruchomości w celach przechowywania napojów alkoholowych, których adresy zawarte są we wniosku zgodnie z pkt 4. ” , po ust. 3c dodaje się ust. 3d i 3e w brzmieniu: „
     - **b)**
 
 3d. Do wniosku o wydanie zezwoleń, o których mowa w ust. 1 i 2, należy dołączyć dowód wniesienia opłaty za wydanie zezwolenia, o której mowa w art. 92ust. 1.
@@ -96,7 +99,7 @@ source: "eli-html"
 12. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia:
 
 - **1)** sposób przesyłania informacji o gruntach oraz deklaracji na podatek rolny za pomocą środków komunikacji elektronicznej,
-- **2)** rodzaje podpisu elektronicznego, którym powinny być opatrzone informacje o gruntach oraz deklaracje na podatek rolny uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tych informacjach i deklaracjach oraz potrzebę ich ochrony przed nieuprawnionym dostępem. ” ;
+- **2)** rodzaje podpisu elektronicznego, którym powinny być opatrzone informacje o gruntach oraz deklaracje na podatek rolny – uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tych informacjach i deklaracjach oraz potrzebę ich ochrony przed nieuprawnionym dostępem. ” ;
 - **3)** uchyla się ust. 13.
 
 **Art. 5.** W ustawie z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2017 r. poz. 1983) w art. 33a w ust. 2 pkt 6 otrzymuje brzmienie: „
@@ -117,7 +120,7 @@ source: "eli-html"
 14. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia:
 
 - **1)** sposób przesyłania informacji o nieruchomościach i obiektach budowlanych oraz deklaracji na podatek od nieruchomości za pomocą środków komunikacji elektronicznej,
-- **2)** rodzaje podpisu elektronicznego, którym powinny być opatrzone informacje o nieruchomościach i obiektach budowlanych oraz deklaracje na podatek od nieruchomości uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tych informacjach i deklaracjach oraz potrzebę ich ochrony przed nieuprawnionym dostępem. ” , uchyla się ust. 15;
+- **2)** rodzaje podpisu elektronicznego, którym powinny być opatrzone informacje o nieruchomościach i obiektach budowlanych oraz deklaracje na podatek od nieruchomości – uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tych informacjach i deklaracjach oraz potrzebę ich ochrony przed nieuprawnionym dostępem. ” , uchyla się ust. 15;
     - **c)**
 
 - **2)** w art. 9: po ust. 6 dodaje się ust. 6a w brzmieniu: „
@@ -136,11 +139,11 @@ source: "eli-html"
 2. Rada gminy określi, w drodze uchwały:
 
 - **1)** sposób przesyłania deklaracji, o których mowa w art. 19 pkt 5, za pomocą środków komunikacji elektronicznej,
-- **2)** rodzaje podpisu elektronicznego, którym powinny być opatrzone deklaracje, o których mowa w art. 19 pkt 5 uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tych deklaracjach oraz potrzebę ich ochrony przed nieuprawnionym dostępem.
+- **2)** rodzaje podpisu elektronicznego, którym powinny być opatrzone deklaracje, o których mowa w art. 19 pkt 5 – uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tych deklaracjach oraz potrzebę ich ochrony przed nieuprawnionym dostępem.
 
 3. Poświadczenie przez organ podatkowy złożenia deklaracji na opłatę reklamową za pomocą środków komunikacji elektronicznej odbywa się zgodnie z przepisami o informatyzacji działalności podmiotów realizujących zadania publiczne. ” .
 
-**Art. 7.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215 i 2242.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5a pkt 20 otrzymuje brzmienie: „
 - **20)** małym podatniku – oznacza to podatnika, u którego wartość przychodu ze sprzedaży (wraz z kwotą należnego podatku od towarów i usług) nie przekroczyła w poprzednim roku podatkowym wyrażonej w złotych kwoty odpowiadającej równowartości 2 000 000 euro, a w przypadku przedsiębiorstwa w spadku również przychodu ze sprzedaży u zmarłego przedsiębiorcy; przeliczenia kwot wyrażonych w euro dokonuje się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października poprzedniego roku podatkowego, w zaokrągleniu do 1000 zł; ” ;
@@ -230,7 +233,7 @@ source: "eli-html"
 
 12. Podatnicy, o których mowa w ust. 11, informują o okresie zawieszenia w roku podatkowym wykonywania działalności gospodarczej na podstawie przepisów dotyczących zawieszenia wykonywania działalności gospodarczej w zeznaniu, o którym mowa w art. 45 ust. 1 lub ust. 1a pkt 2, składanym za rok podatkowy, w którym działalność ta była zawieszona. ” .
 
-**Art. 8.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2018 r. poz. 1036, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2018 r. poz. 1036, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215 i 2243.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4a: pkt 10 otrzymuje brzmienie: „
     - **a)**
@@ -276,8 +279,11 @@ source: "eli-html"
 - **13c)** u podatnika będącego wspólnikiem spółki niebędącej osobą prawną – wartości pracy własnej innych wspólników tej spółki będących osobami fizycznymi, a także ich małżonków i małoletnich dzieci, z tym że kosztem uzyskania przychodów jest jednak wynagrodzenie małżonków i małoletnich dzieci wspólników tej spółki, należne z tytułów określonych w art. 12 ust. 1, art. 13 pkt 2, 8 i 9 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub z tytułu odbywania praktyk absolwenckich, o których mowa w ustawie z dnia 17 lipca 2009 r. o praktykach absolwenckich (Dz. U. z 2018 r. poz. 1244), z zastrzeżeniem pkt 57 i art. 15 ust. 4g; ” , w pkt 58 po wyrazach „53,” dodaje się wyrazy „54a,”;
     - **b)**
 
-- **7)** w art. 17: w ust. 1: – po pkt 54 dodaje się pkt 54a w brzmieniu: „ 54a) odszkodowania za szkody w środku trwałym, z wyłączeniem samochodu osobowego, w części wydatkowanej w roku podatkowym lub w roku bezpośrednio po nim następującym na remont tego środka trwałego albo na zakup lub na wytworzenie we własnym zakresie środka trwałego zaliczonego zgodnie z Klasyfikacją do tego samego rodzaju co środek trwały, z którym związana była taka szkoda, przy czym przepis art. 16 ust. 1 pkt 48 stosuje się odpowiednio; ” , – po pkt 58 dodaje się pkt 58a w brzmieniu: „ 58a) dochody (przychody) alternatywnych spółek inwestycyjnych uzyskane w roku podatkowym ze zbycia udziałów (akcji), pod warunkiem że alternatywna spółka inwestycyjna, która zbywa udziały (akcje), posiadała przed dniem zbycia bezpośrednio nie mniej niż 10% udziałów (akcji) w kapitale spółki, której udziały (akcje) są zbywane, nieprzerwanie przez okres dwóch lat; ” , po ust. 10 dodaje się ust. 10a i 10b w brzmieniu: „
+- **7)** w art. 17: w ust. 1: po pkt 54 dodaje się pkt 54a w brzmieniu: „
     - **a)**
+
+- **54a)** odszkodowania za szkody w środku trwałym, z wyłączeniem samochodu osobowego, w części wydatkowanej w roku podatkowym lub w roku bezpośrednio po nim następującym na remont tego środka trwałego albo na zakup lub na wytworzenie we własnym zakresie środka trwałego zaliczonego zgodnie z Klasyfikacją do tego samego rodzaju co środek trwały, z którym związana była taka szkoda, przy czym przepis art. 16 ust. 1 pkt 48 stosuje się odpowiednio; ” , po pkt 58 dodaje się pkt 58a w brzmieniu: „
+- **58a)** dochody (przychody) alternatywnych spółek inwestycyjnych uzyskane w roku podatkowym ze zbycia udziałów (akcji), pod warunkiem że alternatywna spółka inwestycyjna, która zbywa udziały (akcje), posiadała przed dniem zbycia bezpośrednio nie mniej niż 10% udziałów (akcji) w kapitale spółki, której udziały (akcje) są zbywane, nieprzerwanie przez okres dwóch lat; ” , po ust. 10 dodaje się ust. 10a i 10b w brzmieniu: „
     - **b)**
 
 10a. Zwolnienie, o którym mowa w ust. 1 pkt 54a, stosuje się także do otrzymanego odszkodowania w części odpowiadającej wartości wydatków poniesionych przez podatnika na cele określone w tym przepisie od dnia powstania szkody do dnia otrzymania odszkodowania, w części niezaliczonej do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
@@ -308,9 +314,18 @@ source: "eli-html"
 **Art. 9.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2018 r. poz. 395, 398, 650, 1629 i 2212) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w ust. 2 zdanie drugie otrzymuje brzmienie: „ W tym przypadku osoby te lub wspólnicy przed rozpoczęciem roku obrotowego są obowiązani, o ile odrębne przepisy nie stanowią inaczej, do zawiadomienia o tym urzędu skarbowego, właściwego w sprawach opodatkowania podatkiem dochodowym. ” ;
-- **2)** w art. 3: w ust. 1a: – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) osoby fizyczne, spółki cywilne osób fizycznych, spółki cywilne osób fizycznych i przedsiębiorstwa w spadku, spółki jawne osób fizycznych, spółki partnerskie oraz przedsiębiorstwa w spadku działające zgodnie z ustawą z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej, jeżeli przychody netto tych jednostek ze sprzedaży towarów, produktów i operacji finansowych wyniosły równowartość w walucie polskiej nie mniej niż 2 000 000 euro i nie więcej niż 3 000 000 euro za poprzedni rok obrotowy, a w przypadku jednostek rozpoczynających działalność albo prowadzenie ksiąg rachunkowych w sposób określony ustawą – w roku obrotowym, w którym rozpoczęły działalność albo prowadzenie ksiąg rachunkowych w sposób określony ustawą, ” , – pkt 4 otrzymuje brzmienie: „ 4) osoby fizyczne, spółki cywilne osób fizycznych, spółki cywilne osób fizycznych i przedsiębiorstwa w spadku, spółki jawne osób fizycznych, spółki partnerskie oraz przedsiębiorstwa w spadku działające zgodnie z ustawą z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej, które stosują zasady rachunkowości na podstawie art. 2 ust. 2, ” , – dodaje się pkt 5 w brzmieniu: „ 5) jednostka, o której mowa w art. 2 ust. 1 pkt 2a, jeżeli na dzień poprzedzający dzień otwarcia spadku była jednostką mikro ” , w ust. 1c: – w pkt 1 lit. a i b otrzymują brzmienie: „ a) 25 500 000 zł – w przypadku sumy aktywów bilansu na koniec roku obrotowego, b) 51 000 000 zł – w przypadku przychodów netto ze sprzedaży towarów i produktów za rok obrotowy, ” , – pkt 2 otrzymuje brzmienie: „ 2) osoby fizyczne, spółki cywilne osób fizycznych, spółki cywilne osób fizycznych i przedsiębiorstwa w spadku, spółki jawne osób fizycznych, spółki partnerskie oraz przedsiębiorstwa w spadku działające zgodnie z ustawą z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej, które stosują zasady rachunkowości na podstawie art. 2 ust. 2, ” , – dodaje się pkt 3 w brzmieniu: „ 3) jednostka, o której mowa w art. 2 ust. 1 pkt 2a, jeżeli na dzień poprzedzający dzień otwarcia spadku była jednostką małą ” , w ust. 6 pkt 1 i 2 otrzymują brzmienie: „
+- **2)** w art. 3: w ust. 1a: po pkt 2 dodaje się pkt 2a w brzmieniu: „
+    - **a)**
+
+- **2a)** osoby fizyczne, spółki cywilne osób fizycznych, spółki cywilne osób fizycznych i przedsiębiorstwa w spadku, spółki jawne osób fizycznych, spółki partnerskie oraz przedsiębiorstwa w spadku działające zgodnie z ustawą z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej, jeżeli przychody netto tych jednostek ze sprzedaży towarów, produktów i operacji finansowych wyniosły równowartość w walucie polskiej nie mniej niż 2 000 000 euro i nie więcej niż 3 000 000 euro za poprzedni rok obrotowy, a w przypadku jednostek rozpoczynających działalność albo prowadzenie ksiąg rachunkowych w sposób określony ustawą – w roku obrotowym, w którym rozpoczęły działalność albo prowadzenie ksiąg rachunkowych w sposób określony ustawą, ” , pkt 4 otrzymuje brzmienie: „
+- **4)** osoby fizyczne, spółki cywilne osób fizycznych, spółki cywilne osób fizycznych i przedsiębiorstwa w spadku, spółki jawne osób fizycznych, spółki partnerskie oraz przedsiębiorstwa w spadku działające zgodnie z ustawą z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej, które stosują zasady rachunkowości na podstawie art. 2 ust. 2, ” , dodaje się pkt 5 w brzmieniu: „
+- **5)** jednostka, o której mowa w art. 2 ust. 1 pkt 2a, jeżeli na dzień poprzedzający dzień otwarcia spadku była jednostką mikro ” , w ust. 1c: w pkt 1 lit. a i b otrzymują brzmienie: „ 25 500 000 zł – w przypadku sumy aktywów bilansu na koniec roku obrotowego, 51 000 000 zł – w przypadku przychodów netto ze sprzedaży towarów i produktów za rok obrotowy, ” , pkt 2 otrzymuje brzmienie: „
+    - **b)**
     - **a)**
     - **b)**
+
+- **2)** osoby fizyczne, spółki cywilne osób fizycznych, spółki cywilne osób fizycznych i przedsiębiorstwa w spadku, spółki jawne osób fizycznych, spółki partnerskie oraz przedsiębiorstwa w spadku działające zgodnie z ustawą z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej, które stosują zasady rachunkowości na podstawie art. 2 ust. 2, ” , dodaje się pkt 3 w brzmieniu: „
+- **3)** jednostka, o której mowa w art. 2 ust. 1 pkt 2a, jeżeli na dzień poprzedzający dzień otwarcia spadku była jednostką małą ” , w ust. 6 pkt 1 i 2 otrzymują brzmienie: „
     - **c)**
 
 - **1)** 25 500 000 zł – w przypadku sumy aktywów bilansu na koniec roku obrotowego,
@@ -355,7 +370,7 @@ source: "eli-html"
 - **1)** benzyny silnikowe o kodach: CN 2710 12 45 lub CN 2710 12 49 oraz wyroby powstałe ze zmieszania tych benzyn z biokomponentami, spełniające wymagania jakościowe określone w odrębnych przepisach;
 - **2)** oleje napędowe o kodzie CN 2710 19 43 lub CN 2710 20 11 oraz wyroby powstałe ze zmieszania tych olejów z biokomponentami, spełniające wymagania jakościowe określone w odrębnych przepisach; ” .
 
-**Art. 11.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2017 r. poz. 869, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 11.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2017 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2491 oraz z 2018 r. poz. 106, 650, 771, 1629 i 2126.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5: w ust. 2b pkt 2 otrzymuje brzmienie: „
     - **a)**
@@ -388,13 +403,13 @@ source: "eli-html"
 
 **Art. 12.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990) w art. 2 pkt 45 otrzymuje brzmienie: „
 
-- **45)** motocykl – pojazd samochodowy dwukołowy kategorii L3e albo dwukołowy z bocznym wózkiem kategorii L4e, albo trójkołowy kategorii L5e o symetrycznym rozmieszczeniu kół, spełniający kryteria klasyfikacji dla pojazdów odpowiednio dla kategorii L3e albo L4e, albo L5e, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 168/2013 z dnia 15 stycznia 2013 r. w sprawie homologacji i nadzoru rynku pojazdów dwu- lub trzykołowych oraz czterokołowców (Dz. Urz. UE L 60 z 02.03.2013, str. 52, z późn. zm.); ” .
+- **45)** motocykl – pojazd samochodowy dwukołowy kategorii L3e albo dwukołowy z bocznym wózkiem kategorii L4e, albo trójkołowy kategorii L5e o symetrycznym rozmieszczeniu kół, spełniający kryteria klasyfikacji dla pojazdów odpowiednio dla kategorii L3e albo L4e, albo L5e, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 168/2013 z dnia 15 stycznia 2013 r. w sprawie homologacji i nadzoru rynku pojazdów dwu- lub trzykołowych oraz czterokołowców (Dz. Urz. UE L 60 z 02.03.2013, str. 52, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 77 z 23.03.2016, str. 65.; ” .
 
-**Art. 13.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.) w art. 155 po § 1 dodaje się § 1a w brzmieniu: „
+**Art. 13.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629, 1693, 2126 i 2193.) w art. 155 po § 1 dodaje się § 1a w brzmieniu: „
 
 § 1a. Organ podatkowy obowiązany jest dołożyć starań, aby zadośćuczynienie wezwaniu nie było uciążliwe. ” .
 
-**Art. 14.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2017 r. poz. 2157, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 14.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2017 r. poz. 2157, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2175 oraz z 2018 r. poz. 650, 1291, 1629, 2126 i 2159.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 w ust. 1 uchyla się pkt 7;
 - **2)** w art. 9: ust. 1 otrzymuje brzmienie: „
@@ -589,7 +604,7 @@ source: "eli-html"
 10. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia:
 
 - **1)** sposób przesyłania informacji o lasach oraz deklaracji na podatek leśny za pomocą środków komunikacji elektronicznej,
-- **2)** rodzaje podpisu elektronicznego, którym powinny być opatrzone informacje o lasach oraz deklaracje na podatek leśny uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tych informacjach i deklaracjach oraz potrzebę ich ochrony przed nieuprawnionym dostępem. ” ;
+- **2)** rodzaje podpisu elektronicznego, którym powinny być opatrzone informacje o lasach oraz deklaracje na podatek leśny – uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tych informacjach i deklaracjach oraz potrzebę ich ochrony przed nieuprawnionym dostępem. ” ;
 - **3)** uchyla się ust. 11.
 
 **Art. 20.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, 2193 i 2215) wprowadza się następujące zmiany:
@@ -655,7 +670,7 @@ source: "eli-html"
 
 - **2)** w art. 195 w ust. 1 zdanie drugie otrzymuje brzmienie: „ Fundusz, składając wniosek do sądu, dołącza wyciąg z ksiąg rachunkowych, podpisany przez osoby upoważnione do składania oświadczeń w zakresie praw i obowiązków majątkowych funduszu, potwierdzający nabycie przez fundusz sekurytyzacyjny wierzytelności albo puli wierzytelności zabezpieczonych hipoteką lub zastawem rejestrowym. ” .
 
-**Art. 25.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2017 r. poz. 1768, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 25.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2017 r. poz. 1768, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2486 i 2491 oraz z 2018 r. poz. 106, 138, 650, 685, 723, 771, 1669 i 2243.) wprowadza się następujące zmiany:
 
 - **1)** w art. 10 w ust. 1 pkt 12 otrzymuje brzmienie: „
 - **12)** podpis osoby upoważnionej do wystawienia w imieniu wystawiającego świadectwa. ” ;
@@ -716,7 +731,7 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-**Art. 29.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2017 r. poz. 978, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 29.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2017 r. poz. 978, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418 oraz z 2018 r. poz. 138, 650, 728, 957, 1039, 1098, 1099, 1284, 1544, 1629 i 2172.) wprowadza się następujące zmiany:
 
 - **1)** w art. 32 w ust. 1 w pkt 2 w lit. c przecinek zastępuje się średnikiem i uchyla się lit. d;
 - **2)** w art. 40 w ust. 1 w pkt 3 uchyla się lit. d;
@@ -751,7 +766,7 @@ source: "eli-html"
 
 - **1)** art. 21 ust. 1 pkt 29b i ust. 35a oraz art. 23 ust. 1 pkt 56 ustawy zmienianej w art. 7,
 - **2)** art. 16 ust. 1 pkt 58 oraz art. 17 ust. 1 pkt 54a i ust. 10a ustawy zmienianej w art. 8,
-- **3)** art. 10 ustawy zmienianej w art. 14 w brzmieniu nadanym niniejszą ustawą mają zastosowanie do odszkodowań za szkody powstałe po dniu 31 grudnia 2018 r.
+- **3)** art. 10 ustawy zmienianej w art. 14 – w brzmieniu nadanym niniejszą ustawą mają zastosowanie do odszkodowań za szkody powstałe po dniu 31 grudnia 2018 r.
 
 **Art. 40.**
 
@@ -801,6 +816,6 @@ source: "eli-html"
 
 - **1)** art. 1, art. 18 i art. 35, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
 - **2)** art. 4, art. 6, art. 17, art. 19 i art. 44, które wchodzą w życie z dniem 1 lipca 2019 r.;
-- **3)** art. 7 pkt 1 i art. 8 pkt 1 lit. a, które wchodzą w życie z dniem 1 stycznia 2020 r.
+- **3)** art. 7 pkt 1 i art. 8 pkt 1 lit. a, które wchodzą w życie z dniem 1 stycznia 2020 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 15 listopada 1984 r. o podatku rolnym, ustawę z dnia 15 listopada 1984 r. – Prawo przewozowe, ustawę z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 21 maja 1999 r. o broni i amunicji, ustawę z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, ustawę z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych, ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych, ustawę z dnia 30 października 2002 r. o podatku leśnym, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 19 marca 2004 r. – Prawo celne, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody, ustawę z dnia 16 kwietnia 2004 r. o administrowaniu obrotem towarowym z zagranicą, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 10 marca 2006 r. o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej, ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 16 września 2011 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego, ustawę z dnia 28 lutego 2018 r. o kosztach komorniczych, ustawę z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy, ustawę z dnia 22 marca 2018 r. o komornikach sądowych oraz ustawę z dnia 20 lipca 2018 r. o zmianie niektórych ustaw w celu obniżenia składek na ubezpieczenia społeczne osób fizycznych wykonujących działalność gospodarczą na mniejszą skalę. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215 i 2242. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215 i 2243. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2491 oraz z 2018 r. poz. 106, 650, 771, 1629 i 2126. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 77 z 23.03.2016, str. 65. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629, 1693, 2126 i 2193. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2175 oraz z 2018 r. poz. 650, 1291, 1629, 2126 i 2159. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2486 i 2491 oraz z 2018 r. poz. 106, 138, 650, 685, 723, 771, 1669 i 2243. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418 oraz z 2018 r. poz. 138, 650, 728, 957, 1039, 1098, 1099, 1284, 1544, 1629 i 2172.
 
 

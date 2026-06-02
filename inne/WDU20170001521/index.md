@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-20 |
 | Data wydania | 2017-08-09 |
-| Wejście w życie | 2017-08-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001521) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1521/text.pdf) |
 
@@ -85,11 +84,17 @@ source: "eli-html"
 3. Na wniosek organu Inspekcji Weterynaryjnej Polski Związek Łowiecki, dzierżawca lub zarządca obwodu łowieckiego przekazują temu organowi niezbędne do zwalczania chorób zakaźnych zwierząt informacje dotyczące:
 
 - **1)** zwierząt łownych, w szczególności o liczbie zwierząt łownych występujących na danym obszarze oraz szacowanej zmianie stanu liczebnego tych zwierząt w danym okresie,
-- **2)** planów łowieckich i wykonania tych planów w formie i terminie określonych w tym wniosku. ” ;
+- **2)** planów łowieckich i wykonania tych planów – w formie i terminie określonych w tym wniosku. ” ;
 - **8)** w art. 78 w pkt 4 na końcu dodaje się przecinek i dodaje się pkt 5 w brzmieniu: „
 - **5)** udaremnia lub utrudnia wykonanie czynności wynikających z nakazów organów Inspekcji Weterynaryjnej wydanych w związku ze zwalczaniem choroby zakaźnej zwierząt ” ;
-- **9)** w art. 85aa: w ust. 1: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) art. 45 ust. 1 pkt 3a i art. 46 ust. 3 pkt 3a, utrzymuje lub prowadzi chów lub hodowlę zwierząt z gatunków wrażliwych, podlega karze pieniężnej w wysokości od 0,2 do trzykrotności, ” , – pkt 9 otrzymuje brzmienie: „ 9) art. 44 ust. 1 pkt 12b i art. 44 ust. 1a pkt 7, będąc posiadaczem gospodarstwa, nie podejmuje określonych działań w celu zabezpieczenia gospodarstwa przed przenikaniem czynnika zakaźnego, podlega karze pieniężnej w wysokości od 0,1 do dwukrotności, ” , – po pkt 9 dodaje się pkt 9a w brzmieniu: „ 9a) art. 44 ust. 1 pkt 12c, będąc posiadaczem gospodarstwa, nie podejmuje określonych działań w celu umożliwienia wykonania odstrzału sanitarnego zwierząt wolno żyjących (dzikich), podlega karze pieniężnej w wysokości od 0,1 do dwukrotności, ” , – pkt 22 otrzymuje brzmienie: „ 22) art. 45 ust. 1 pkt 8e i art. 46 ust. 3 pkt 8f, nie podejmuje określonych działań w celu zabezpieczenia gospodarstwa przed przenikaniem czynnika zakaźnego, podlega karze pieniężnej w wysokości od 0,1 do dwukrotności, ” , – po pkt 22 dodaje się pkt 22a w brzmieniu: „ 22a) art. 45 ust. 1 pkt 8f i art. 46 ust. 3 pkt 8g, nie pobiera próbek do badań laboratoryjnych w określony sposób, podlega karze pieniężnej w wysokości od 0,1 do dwukrotności, ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **9)** w art. 85aa: w ust. 1: po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
+
+- **1a)** art. 45 ust. 1 pkt 3a i art. 46 ust. 3 pkt 3a, utrzymuje lub prowadzi chów lub hodowlę zwierząt z gatunków wrażliwych, podlega karze pieniężnej w wysokości od 0,2 do trzykrotności, ” , pkt 9 otrzymuje brzmienie: „
+- **9)** art. 44 ust. 1 pkt 12b i art. 44 ust. 1a pkt 7, będąc posiadaczem gospodarstwa, nie podejmuje określonych działań w celu zabezpieczenia gospodarstwa przed przenikaniem czynnika zakaźnego, podlega karze pieniężnej w wysokości od 0,1 do dwukrotności, ” , po pkt 9 dodaje się pkt 9a w brzmieniu: „
+- **9a)** art. 44 ust. 1 pkt 12c, będąc posiadaczem gospodarstwa, nie podejmuje określonych działań w celu umożliwienia wykonania odstrzału sanitarnego zwierząt wolno żyjących (dzikich), podlega karze pieniężnej w wysokości od 0,1 do dwukrotności, ” , pkt 22 otrzymuje brzmienie: „
+- **22)** art. 45 ust. 1 pkt 8e i art. 46 ust. 3 pkt 8f, nie podejmuje określonych działań w celu zabezpieczenia gospodarstwa przed przenikaniem czynnika zakaźnego, podlega karze pieniężnej w wysokości od 0,1 do dwukrotności, ” , po pkt 22 dodaje się pkt 22a w brzmieniu: „
+- **22a)** art. 45 ust. 1 pkt 8f i art. 46 ust. 3 pkt 8g, nie pobiera próbek do badań laboratoryjnych w określony sposób, podlega karze pieniężnej w wysokości od 0,1 do dwukrotności, ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. Kto, wbrew obowiązkowi określonemu w art. 47b ust. 3, nie przekazuje organom Inspekcji Weterynaryjnej informacji niezbędnych do zwalczania chorób zakaźnych zwierząt dotyczących zwierząt łownych, w szczególności o liczbie zwierząt łownych występujących na danym obszarze oraz szacowanej zmianie stanu liczebnego tych zwierząt w danym okresie lub informacji dotyczących planów łowieckich lub wykonania tych planów, w formie lub terminie określonym we wniosku, o którym mowa w art. 47b ust. 3, podlega karze pieniężnej w wysokości od 0,1 do dwukrotności kwoty przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej za rok poprzedzający, ogłaszanej przez Prezesa Głównego Urzędu Statystycznego. ” ;

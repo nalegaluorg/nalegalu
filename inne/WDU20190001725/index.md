@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 21 sierpnia 2019 r. w sprawie zakresu instrukcji gospodarowania wodą
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 21 sierpnia 2019 r. w sprawie zakresu instrukcji gospodarowania wodą Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-21 |
 | Data wydania | 2019-09-10 |
-| Wejście w życie | 2019-09-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001725) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1725/text.pdf) |
 
@@ -209,8 +208,7 @@ Do instrukcji dla budowli piętrzących załącza się:
 1)
 odpisy lub kopie dotychczasowych pozwoleń wodnoprawnych dotyczących danego urządzenia wodnego,
 2)
-odpisy lub kopie pozwoleń wodnoprawnych dotyczących innych urządzeń wodnych w zasięgu oddziaływania budowli piętrzącej
-o ile pozwolenia wodnoprawne odnoszące się do takich urządzeń zostały wydane.
+odpisy lub kopie pozwoleń wodnoprawnych dotyczących innych urządzeń wodnych w zasięgu oddziaływania budowli piętrzącej – o ile pozwolenia wodnoprawne odnoszące się do takich urządzeń zostały wydane.
 § 8.
 1.
 Dla zależnego od siebie korzystania z wód przez kilka zakładów, w tym dla kaskady zbiorników lub stopni wodnych oraz energetycznego wykorzystania obiektów kaskady, opracowuje się jedną instrukcję obejmującą korzystanie z wód przez wszystkie zakłady korzystające z zasobu wodnego lub z urządzeń wodnych usytuowanych wzdłuż cieku.
@@ -234,8 +232,7 @@ Instrukcja, o której mowa w ust. 1, określa, na jakich odcinkach kaskady i w j
 3.
 W przypadku energetycznego wykorzystywania obiektów kaskady instrukcja, o której mowa w ust. 1, zawiera dodatkowo informacje na temat energetycznego wykorzystania wody, z uwzględnieniem technologicznych i awaryjnych przerw w pracy elektrowni, retencjonowania wód oraz przepuszczania wody przez urządzenia upustowe zbiorników wodnych lub stopni wodnych.
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 17 sierpnia 2006 r. w sprawie zakresu instrukcji gospodarowania wodą (Dz. U. poz. 1087), które zgodnie z art. 566 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r. poz. 125, 534 i 1495) utraciło moc z dniem 1 lipca 2019 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 17 sierpnia 2006 r. w sprawie zakresu instrukcji gospodarowania wodą (Dz. U. poz. 1087), które zgodnie z art. 566 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r. poz. 125, 534 i 1495) utraciło moc z dniem 1 lipca 2019 r. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 17 sierpnia 2006 r. w sprawie zakresu instrukcji gospodarowania wodą (Dz. U. poz. 1087), które zgodnie z art. 566 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r. poz. 125, 534 i 1495) utraciło moc z dniem 1 lipca 2019 r.
 
 ## Część opisowa instrukcji dla budowli piętrzących zawiera:
 

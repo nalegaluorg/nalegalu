@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 30 listopada 2016 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw
+# Ustawa z dnia 30 listopada 2016 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2015/1513 z dnia 9 września 2015 r. zmieniającą dyrektywę 98/70/WE odnoszącą się do jakości benzyny i olejów napędowych oraz zmieniającą dyrektywę 2009/28/WE w sprawie promowania stosowania energii ze źródeł odnawialnych (Dz. Urz. UE L 239 z 15.09.2015, str. 1 oraz Dz. Urz. UE L 234 z 31.08.2016, str. 26).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-30 |
 | Data wydania | 2016-12-08 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001986) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1986/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.) wprowadza się następujące zmiany:
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych, ustawę z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, ustawę z dnia 22 lipca 2016 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw oraz ustawę z dnia 22 lipca 2016 r. o zmianie ustawy o minimalnym wynagrodzeniu za pracę oraz niektórych innych ustaw.
+
+**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662, z 2015 r. poz. 151, 478, 942, 1618, 1893, 1960 i 2365 oraz z 2016 r. poz. 266, 831, 925, 1052, 1165, 1823 i 1948.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3: w pkt 3b w lit. m na końcu dodaje się przecinek i dodaje się lit. n w brzmieniu: „ smary ” , w pkt 10h po wyrazach „zespół urządzeń służących do zaopatrywania” skreśla się wyrazy „przez przedsiębiorstwo energetyczne”, pkt 12c otrzymuje brzmienie: „
     - **a)**
@@ -34,7 +35,7 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-- **12c)** podmiot przywożący – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która samodzielnie lub za pośrednictwem innego podmiotu dokonuje przywozu paliw ciekłych, z wyłączeniem przywozu paliw ciekłych: w ramach wykonywania działalności polegającej na obrocie paliwami ciekłymi z zagranicą wymagającej uzyskania koncesji, o której mowa w art. 32 ust. 1 pkt 4, lub przeznaczonych do użycia podczas transportu i przywożonych w standardowych zbiornikach, o których mowa w art. 33 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2014 r. poz. 752, z późn. zm.); ” ;
+- **12c)** podmiot przywożący – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która samodzielnie lub za pośrednictwem innego podmiotu dokonuje przywozu paliw ciekłych, z wyłączeniem przywozu paliw ciekłych: w ramach wykonywania działalności polegającej na obrocie paliwami ciekłymi z zagranicą wymagającej uzyskania koncesji, o której mowa w art. 32 ust. 1 pkt 4, lub przeznaczonych do użycia podczas transportu i przywożonych w standardowych zbiornikach, o których mowa w art. 33 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2014 r. poz. 752, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1559, 1662 i 1877, z 2015 r. poz. 18, 211, 978, 1269, 1479, 1649, 1844, 1893 i 1932 oraz z 2016 r. poz. 925, 1052, 1228 i 1948.); ” ;
     - **a)**
     - **b)**
 
@@ -47,8 +48,12 @@ source: "eli-html"
     - **a)**
 
 - **2)** zawarł umowę przedwstępną o świadczenie usługi magazynowania zapasów obowiązkowych gazu ziemnego, o których mowa w art. 24 ust. 1 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2014 r. poz. 1695 oraz z 2016 r. poz. 266, 352, 1052 i 1165), w wielkości ustalonej zgodnie z art. 25 ust. 2 lub 5 tej ustawy, lub
-- **3)** zawarł umowę przedwstępną o wykonywanie zadań w zakresie utrzymywania zapasów obowiązkowych gazu ziemnego, o której mowa w art. 24b ust. 1 ustawy, o której mowa w pkt 2. ” , w ust. 3: – pkt 3 i 4 otrzymują brzmienie: „ 3) skazanemu prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe mające związek z prowadzoną działalnością gospodarczą; 4) który nie jest zarejestrowany jako podatnik podatku od towarów i usług; ” , – uchyla się pkt 5, – pkt 6 otrzymuje brzmienie: „ 6) jeżeli inny podmiot posiadający wobec niego znaczący wpływ lub sprawujący nad nim kontrolę albo współkontrolę w rozumieniu art. 3 ust. 1 pkt 34, 35 i pkt 36 lit. a, b, e i f ustawy z dnia 29 września 1994 r. o rachunkowości, został w ciągu ostatnich 3 lat prawomocnie skazany za przestępstwo lub przestępstwo skarbowe mające związek z przedmiotem działalności gospodarczej określonej ustawą. ” , w ust. 3a po wyrazach „warunek, o którym mowa w ust. 3 pkt 3,” skreśla się wyrazy „z uwzględnieniem ust. 3 pkt 5,”, ust. 3c otrzymuje brzmienie: „
+- **3)** zawarł umowę przedwstępną o wykonywanie zadań w zakresie utrzymywania zapasów obowiązkowych gazu ziemnego, o której mowa w art. 24b ust. 1 ustawy, o której mowa w pkt 2. ” , w ust. 3: pkt 3 i 4 otrzymują brzmienie: „
     - **b)**
+
+- **3)** skazanemu prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe mające związek z prowadzoną działalnością gospodarczą;
+- **4)** który nie jest zarejestrowany jako podatnik podatku od towarów i usług; ” , – uchyla się pkt 5, pkt 6 otrzymuje brzmienie: „
+- **6)** jeżeli inny podmiot posiadający wobec niego znaczący wpływ lub sprawujący nad nim kontrolę albo współkontrolę w rozumieniu art. 3 ust. 1 pkt 34, 35 i pkt 36 lit. a, b, e i f ustawy z dnia 29 września 1994 r. o rachunkowości, został w ciągu ostatnich 3 lat prawomocnie skazany za przestępstwo lub przestępstwo skarbowe mające związek z przedmiotem działalności gospodarczej określonej ustawą. ” , w ust. 3a po wyrazach „warunek, o którym mowa w ust. 3 pkt 3,” skreśla się wyrazy „z uwzględnieniem ust. 3 pkt 5,”, ust. 3c otrzymuje brzmienie: „
     - **c)**
     - **d)**
 
@@ -60,9 +65,11 @@ source: "eli-html"
 - **4)** niespełniania któregokolwiek z warunków, o których mowa w art. 33 ust. 1, lub w przypadku wystąpienia okoliczności, o których mowa w art. 33 ust. 3 pkt 2–6 lub ust. 3a. ” , w ust. 2b pkt 1 otrzymuje brzmienie: „
     - **b)**
 
-- **1)** nie spełnia któregokolwiek z warunków, o których mowa w art. 33 ust. 1b pkt 1–3, lub występują wobec tego przedsiębiorstwa okoliczności, o których mowa w art. 33 ust. 3 pkt 1; ” , w ust. 2c: – pkt 2 otrzymuje brzmienie: „ 2) przedsiębiorstwu energetycznemu została prawomocnie cofnięta koncesja na obrót paliwami ciekłymi z zagranicą z przyczyn określonych w ust. 2 pkt 1 w zakresie art. 58 ust. 1 pkt 1 ustawy o swobodzie działalności gospodarczej lub w ust. 2 pkt 4 w zakresie art. 33 ust. 3 pkt 3 lub 6 lub ust. 3a; ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) wobec przedsiębiorstwa energetycznego występują okoliczności, o których mowa w art. 33 ust. 3 pkt 1. ” ;
+- **1)** nie spełnia któregokolwiek z warunków, o których mowa w art. 33 ust. 1b pkt 1–3, lub występują wobec tego przedsiębiorstwa okoliczności, o których mowa w art. 33 ust. 3 pkt 1; ” , w ust. 2c: pkt 2 otrzymuje brzmienie: „
     - **c)**
 
+- **2)** przedsiębiorstwu energetycznemu została prawomocnie cofnięta koncesja na obrót paliwami ciekłymi z zagranicą z przyczyn określonych w ust. 2 pkt 1 w zakresie art. 58 ust. 1 pkt 1 ustawy o swobodzie działalności gospodarczej lub w ust. 2 pkt 4 w zakresie art. 33 ust. 3 pkt 3 lub 6 lub ust. 3a; ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** wobec przedsiębiorstwa energetycznego występują okoliczności, o których mowa w art. 33 ust. 3 pkt 1. ” ;
 - **6)** w art. 42a ust. 1 otrzymuje brzmienie: „
 
 1. Koncesja na wytwarzanie paliw ciekłych lub koncesja na obrót paliwami ciekłymi z zagranicą wygasa, jeżeli przedsiębiorstwo energetyczne przez kolejne 12 miesięcy nie wykaże w sprawozdaniach, o których mowa w art. 43d, prowadzenia działalności objętej koncesją. ” ;
@@ -80,8 +87,11 @@ source: "eli-html"
 
 1a. Taryfy ustalane przez przedsiębiorstwa energetyczne posiadające koncesję na obrót paliwami gazowymi lub na obrót gazem ziemnym z zagranicą w zakresie określonym w tej koncesji nie podlegają zatwierdzeniu przez Prezesa URE, z zastrzeżeniem art. 62b ust. 1. ” ;
 
-- **10)** w art. 56: w ust. 1: – pkt 45 otrzymuje brzmienie: „ 45) sprzedaje paliwa ciekłe z naruszeniem wymogów, o których mowa w art. 43a ust. 1 lub 4; ” , – pkt 49 otrzymuje brzmienie: „ 49) nie realizuje obowiązku, o którym mowa w art. 37 ust. 2c lub 2d. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **10)** w art. 56: w ust. 1: pkt 45 otrzymuje brzmienie: „
     - **a)**
+
+- **45)** sprzedaje paliwa ciekłe z naruszeniem wymogów, o których mowa w art. 43a ust. 1 lub 4; ” , pkt 49 otrzymuje brzmienie: „
+- **49)** nie realizuje obowiązku, o którym mowa w art. 37 ust. 2c lub 2d. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Wpływy z tytułu kar pieniężnych, o których mowa w ust. 1, stanowią dochód budżetu państwa. ” , uchyla się ust. 2b, w ust. 2h pkt 8 otrzymuje brzmienie: „
@@ -98,12 +108,12 @@ source: "eli-html"
 
 1. Taryfy ustalane dla:
 
-- **1)** odbiorców końcowych, z wyjątkiem odbiorców, którzy dokonują zakupu paliw gazowych: w punkcie wirtualnym w rozumieniu przepisów wydanych na podstawie art. 9 ust. 1 i 2, w postaci skroplonego gazu ziemnego (LNG) lub sprężonego gazu ziemnego (CNG), w trybie przetargów, aukcji lub zamówień publicznych w rozumieniu przepisów o zamówieniach publicznych które stosuje się do dnia 30 września 2017 r.,
+- **1)** odbiorców końcowych, z wyjątkiem odbiorców, którzy dokonują zakupu paliw gazowych: w punkcie wirtualnym w rozumieniu przepisów wydanych na podstawie art. 9 ust. 1 i 2, w postaci skroplonego gazu ziemnego (LNG) lub sprężonego gazu ziemnego (CNG), w trybie przetargów, aukcji lub zamówień publicznych w rozumieniu przepisów o zamówieniach publicznych – które stosuje się do dnia 30 września 2017 r.,
     - **a)**
     - **b)**
     - **c)**
 
-- **2)** odbiorców paliw gazowych w gospodarstwach domowych, które stosuje się do dnia 31 grudnia 2023 r. przez przedsiębiorstwa energetyczne posiadające koncesję na obrót paliwami gazowymi lub na obrót gazem ziemnym z zagranicą podlegają zatwierdzeniu przez Prezesa URE.
+- **2)** odbiorców paliw gazowych w gospodarstwach domowych, które stosuje się do dnia 31 grudnia 2023 r. – przez przedsiębiorstwa energetyczne posiadające koncesję na obrót paliwami gazowymi lub na obrót gazem ziemnym z zagranicą podlegają zatwierdzeniu przez Prezesa URE.
 
 2. Jeżeli umowa sprzedaży paliw gazowych lub umowa kompleksowa nie określają ceny paliw gazowych lub sposobu jej ustalania po ustaniu obowiązku przedkładania taryf do zatwierdzenia Prezesowi URE, przedsiębiorstwo energetyczne zajmujące się sprzedażą paliw gazowych przesyła odbiorcy projekt zmiany umowy w zakresie proponowanych cen paliw gazowych lub sposobu ich ustalania, w terminie umożliwiającym dostosowanie tej umowy przed upływem terminów, o których mowa w ust. 1, nie później jednak niż na 2 miesiące przed upływem tych terminów. Wraz z projektem zmiany umowy przedsiębiorstwo energetyczne jest obowiązane przesłać odbiorcy pisemną informację o prawie do wypowiedzenia umowy.
 
@@ -203,7 +213,7 @@ source: "eli-html"
 2. Podmiot certyfikowany, dokonując:
 
 - **1)** rozporządzenia poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej biomasą lub
-- **2)** rozporządzenia poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej biokomponentami lub, w przypadku wytwórców, przeznaczenia biokomponentów do wytworzenia przez siebie paliw ciekłych lub biopaliw ciekłych na potrzeby realizacji Narodowego Celu Wskaźnikowego, jest obowiązany posiadać ważny certyfikat oraz wystawić poświadczenie. ” ;
+- **2)** rozporządzenia poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej biokomponentami lub, w przypadku wytwórców, przeznaczenia biokomponentów do wytworzenia przez siebie paliw ciekłych lub biopaliw ciekłych – na potrzeby realizacji Narodowego Celu Wskaźnikowego, jest obowiązany posiadać ważny certyfikat oraz wystawić poświadczenie. ” ;
 - **15)** art. 28g otrzymuje brzmienie: „
 
 **Art. 28g.** Wskazana w świadectwie ilość biokomponentów zawartych w paliwach ciekłych lub biopaliwach ciekłych rozporządzonych poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej na terytorium Rzeczypospolitej Polskiej lub zużytych na potrzeby własne, które mają być zaliczone do realizacji Narodowego Celu Wskaźnikowego, nie może być większa niż ilość wskazana w poświadczeniach lub w dokumentach, o których mowa w art. 28c ust. 2, posiadanych przez podmiot wystawiający świadectwo. ” ;
@@ -224,8 +234,13 @@ source: "eli-html"
 - **1)** rozporządzonych poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub zużytych przez nie na potrzeby własne paliw ciekłych, z określeniem zawartości biokomponentów w tych paliwach;
 - **2)** rozporządzonych poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub zużytych przez nie na potrzeby własne biopaliw ciekłych, z określeniem zawartości biokomponentów w tych biopaliwach;
 - **3)** rozporządzonych poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub zużytych przez nie na potrzeby własne innych paliw odnawialnych, z określeniem zawartości biokomponentów w tych paliwach; ” ;
-- **19)** w art. 33: w ust. 1: – pkt 1 i 1a otrzymują brzmienie: „ 1) wytwarza, a następnie rozporządza poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej biokomponentami lub przeznacza je do wytworzenia przez siebie paliw ciekłych lub biopaliw ciekłych bez wpisu do rejestru, o którym mowa w art. 4 ust. 1; 1a) importuje lub nabywa wewnątrzwspólnotowo biokomponenty, a następnie rozporządza nimi poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej bez wpisu do rejestru, o którym mowa w art. 12a ust. 1; ” , – pkt 8e otrzymuje brzmienie: „ 8e) będąc podmiotem realizującym Narodowy Cel Wskaźnikowy, wystawił świadectwo, w którym ilość biokomponentów zawartych w paliwach ciekłych lub biopaliwach ciekłych rozporządzonych poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej na terytorium Rzeczypospolitej Polskiej lub zużytych na potrzeby własne, które mają być zaliczone do realizacji Narodowego Celu Wskaźnikowego, jest większa niż ilość wskazana w poświadczeniach lub w dokumentach, o których mowa w art. 28c ust. 2, będących w posiadaniu tego podmiotu; ” , – w pkt 9 lit. b otrzymuje brzmienie: „ b) rozporządza biopaliwami ciekłymi poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej, ” , ust. 5 otrzymuje brzmienie: „
+- **19)** w art. 33: w ust. 1: pkt 1 i 1a otrzymują brzmienie: „
     - **a)**
+
+- **1)** wytwarza, a następnie rozporządza poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej biokomponentami lub przeznacza je do wytworzenia przez siebie paliw ciekłych lub biopaliw ciekłych bez wpisu do rejestru, o którym mowa w art. 4 ust. 1;
+- **1a)** importuje lub nabywa wewnątrzwspólnotowo biokomponenty, a następnie rozporządza nimi poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej bez wpisu do rejestru, o którym mowa w art. 12a ust. 1; ” , pkt 8e otrzymuje brzmienie: „
+- **8e)** będąc podmiotem realizującym Narodowy Cel Wskaźnikowy, wystawił świadectwo, w którym ilość biokomponentów zawartych w paliwach ciekłych lub biopaliwach ciekłych rozporządzonych poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej na terytorium Rzeczypospolitej Polskiej lub zużytych na potrzeby własne, które mają być zaliczone do realizacji Narodowego Celu Wskaźnikowego, jest większa niż ilość wskazana w poświadczeniach lub w dokumentach, o których mowa w art. 28c ust. 2, będących w posiadaniu tego podmiotu; ” , w pkt 9 lit. b otrzymuje brzmienie: „ rozporządza biopaliwami ciekłymi poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej, ” , ust. 5 otrzymuje brzmienie: „
+    - **b)**
     - **b)**
 
 5. W przypadku, o którym mowa w ust. 1 pkt 5, wysokość kary oblicza się według wzoru: K = 5 × W × (M – R) / 100% gdzie poszczególne symbole oznaczają: K – wysokość kary, wyrażoną w złotych, W – ogólną wartość paliw ciekłych i biopaliw ciekłych rozporządzonych poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej przez podmiot podlegający karze, a także zużytych przez niego na potrzeby własne, liczoną za rok, w którym podmiot ten nie zrealizował obowiązku wynikającego z art. 23 ust. 1, wyrażoną w złotych, M – wysokość Narodowego Celu Wskaźnikowego, do którego realizacji był zobowiązany podmiot podlegający karze, wyrażoną w procentach, R – wysokość zrealizowanego udziału biokomponentów i innych paliw odnawialnych zużytych we wszystkich rodzajach transportu w ogólnej ilości paliw ciekłych i biopaliw ciekłych rozporządzanych poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub zużywanych przez podmiot podlegający karze w transporcie drogowym i kolejowym w roku, w którym podmiot ten nie zrealizował obowiązku, o którym mowa w art. 23 ust. 1, wyrażoną w procentach. ” , w ust. 7 cześć wspólna wyliczenia otrzymuje brzmienie: „ – powiększone o iloczyn ilości rozporządzonych poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej biopaliw ciekłych i stawki podatku akcyzowego dla oleju napędowego. ” .
@@ -312,7 +327,7 @@ source: "eli-html"
 
 - **1)** w punkcie wirtualnym w rozumieniu przepisów wydanych na podstawie art. 9 ust. 1 i 2 ustawy zmienianej w art. 1,
 - **2)** w postaci skroplonego gazu ziemnego (LNG) lub sprężonego gazu ziemnego (CNG),
-- **3)** w trybie przetargów, aukcji lub zamówień publicznych w rozumieniu przepisów o zamówieniach publicznych wszczęte i niezakończone do dnia wejścia życie niniejszej ustawy umarza się.
+- **3)** w trybie przetargów, aukcji lub zamówień publicznych w rozumieniu przepisów o zamówieniach publicznych – wszczęte i niezakończone do dnia wejścia życie niniejszej ustawy umarza się.
 
 **Art. 7.** Na lata 2017–2020 ustala się następującą wysokość Narodowych Celów Wskaźnikowych:
 
@@ -326,6 +341,6 @@ source: "eli-html"
 **Art. 9.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r., z wyjątkiem:
 
 - **1)** art. 1 pkt 1–8 i 10, art. 2 pkt 1–10, 12 i 14–19 oraz art. 3–5, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 2 pkt 13 w zakresie art. 28b ust. 2, który wchodzi w życie z dniem 10 września 2017 r.
+- **2)** art. 2 pkt 13 w zakresie art. 28b ust. 2, który wchodzi w życie z dniem 10 września 2017 r. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2015/1513 z dnia 9 września 2015 r. zmieniającą dyrektywę 98/70/WE odnoszącą się do jakości benzyny i olejów napędowych oraz zmieniającą dyrektywę 2009/28/WE w sprawie promowania stosowania energii ze źródeł odnawialnych (Dz. Urz. UE L 239 z 15.09.2015, str. 1 oraz Dz. Urz. UE L 234 z 31.08.2016, str. 26). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych, ustawę z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, ustawę z dnia 22 lipca 2016 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw oraz ustawę z dnia 22 lipca 2016 r. o zmianie ustawy o minimalnym wynagrodzeniu za pracę oraz niektórych innych ustaw. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662, z 2015 r. poz. 151, 478, 942, 1618, 1893, 1960 i 2365 oraz z 2016 r. poz. 266, 831, 925, 1052, 1165, 1823 i 1948. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1559, 1662 i 1877, z 2015 r. poz. 18, 211, 978, 1269, 1479, 1649, 1844, 1893 i 1932 oraz z 2016 r. poz. 925, 1052, 1228 i 1948.
 
 

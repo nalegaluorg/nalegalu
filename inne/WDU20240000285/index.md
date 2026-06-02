@@ -26,20 +26,40 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000285) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/285/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 24 lutego 2017 r. o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską Rozdział 1 – Przepisy ogólne Rozdział 2 – Postępowanie poprzedzające rozpoczęcie robót budowlanych Rozdział 3 – Nabywanie tytułu prawnego do nieruchomości i realizacja inwestycji w zakresie infrastruktury dostępowej Rozdział 4 – Udzielanie zamówień na realizację inwestycji w zakresie infrastruktury dostępowej Rozdział 5 – Postępowanie administracyjne przy realizacji inwestycji infrastruktury dostępowej Rozdział 6 – Przepisy zmieniające Rozdział 7 – Przepis przejściowy i przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 24 lutego 2017 r. o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 lutego 2017 r. o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską (Dz. U. z 2021 r. poz. 1644), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 lutego 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 78 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 78 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688), który stanowi: „
+Przepisy ogólne
+Postępowanie poprzedzające rozpoczęcie robót budowlanych
+Nabywanie tytułu prawnego do nieruchomości i realizacja inwestycji w zakresie infrastruktury dostępowej
+Udzielanie zamówień na realizację inwestycji w zakresie infrastruktury dostępowej
+Postępowanie administracyjne przy realizacji inwestycji infrastruktury dostępowej
+Przepisy zmieniające
+Przepis przejściowy i przepis końcowy
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Postępowanie poprzedzające rozpoczęcie robót budowlanych
+
+#### Rozdział 3 – Nabywanie tytułu prawnego do nieruchomości i realizacja inwestycji w zakresie infrastruktury dostępowej
+
+#### Rozdział 4 – Udzielanie zamówień na realizację inwestycji w zakresie infrastruktury dostępowej
+
+#### Rozdział 5 – Postępowanie administracyjne przy realizacji inwestycji infrastruktury dostępowej
+
+#### Rozdział 6 – Przepisy zmieniające
+
+#### Rozdział 7 – Przepis przejściowy i przepis końcowy
 
 **Art. 78.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 62 lit. e w zakresie ust. 3b oraz art. 67 ust. 3 pkt 3, które wchodzą w życie z dniem 1 stycznia 2025 r.;
 - **2)** art. 1 pkt 10 w zakresie art. 8f i art. 8g ust. 3 i 4, pkt 12 w zakresie art. 13b pkt 1 i art. 13i ust. 3 pkt 4, 7 i 11, pkt 17 lit. d, g i lit. k w zakresie pkt 13c, pkt 25 w zakresie art. 27b ust. 4 pkt 3 i 7, pkt 29 lit. b, pkt 38 lit. b tiret drugie, tiret trzecie w zakresie pkt 7b i tiret piąte w zakresie pkt 11, pkt 39 w zakresie art. 37eb ust. 4 pkt 1 i art. 37ec ust. 2 pkt 3 i 8, pkt 45 lit. a tiret drugie, trzecie i tiret szóste w zakresie pkt 7, pkt 47 lit. a tiret czwarte i szóste, pkt 53 i 60, pkt 62 lit. b i f, pkt 63 i 64, art. 6 pkt 1 lit. a i b, art. 11–13, art. 14 pkt 2 lit. b, art. 16 pkt 3, art. 22 pkt 1 i 3, art. 27 pkt 4–9, art. 37 pkt 2 lit. d w zakresie ust. 8 i 9, art. 39 pkt 2, art. 41 pkt 1 w zakresie pkt 4a, art. 43 pkt 1, 3, 5, 10, pkt 11 lit. b i pkt 13 lit. a w zakresie ust. 1, art. 54, art. 56 ust. 2, art. 62, art. 67 ust. 3 pkt 3 i art. 75–77, które wchodzą w życie z dniem 1 stycznia 2026 r. ” . Załącznik – Tekst jednolity ustawy z dnia 24 lutego 2017 r. o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -65,7 +85,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **3)** inwestor – Dyrektora Urzędu Morskiego w Gdyni;
 - **4)** kataster nieruchomości – ewidencję gruntów i budynków w rozumieniu przepisów ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2023 r. poz. 1752, 1615, 1688 i 1762);
 - **5)** roboty budowlane, dostawy, usługi – roboty budowlane, dostawy i usługi w rozumieniu przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720);
-- **6)** uzbrojenie terenu – urządzenia infrastruktury technicznej, o których mowa w art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm.).
+- **6)** uzbrojenie terenu – urządzenia infrastruktury technicznej, o których mowa w art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1463, 1506, 1688, 1762, 1906 i 2029.).
 
 **Art. 2.**
 
@@ -73,7 +93,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Inwestycje w zakresie infrastruktury dostępowej finansuje się z budżetu państwa lub z innych źródeł.
 
-#### Rozdział 2 Postępowanie poprzedzające rozpoczęcie robót budowlanych
+#### Rozdział 2
 
 **Art. 3.**
 
@@ -95,13 +115,13 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **2)** wskazanie lokalizacji w polskich obszarach morskich sztucznych wysp, konstrukcji i urządzeń oraz kabli i rurociągów za pomocą współrzędnych geocentrycznych geodezyjnych naniesionych na mapę morską;
 - **3)** wskazanie zmian w dotychczasowym sposobie zagospodarowania i uzbrojeniu terenu;
 - **4)** analizę powiązania inwestycji z uzbrojeniem terenu;
-- **5)** cztery egzemplarze projektu budowlanego wraz z zaświadczeniem, o którym mowa w art. 12 ust. 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm.), aktualnym na dzień opracowania projektu;
+- **5)** cztery egzemplarze projektu budowlanego wraz z zaświadczeniem, o którym mowa w art. 12 ust. 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762, 1890, 1963 i 2029.), aktualnym na dzień opracowania projektu;
 - **6)** charakterystykę inwestycji obejmującą określenie: zapotrzebowania na wodę, energię oraz sposobu odprowadzania lub oczyszczania ścieków, a także innych potrzeb w zakresie uzbrojenia terenu, a w razie potrzeby również sposobu zagospodarowywania odpadów, planowanego sposobu zagospodarowania terenu oraz charakterystyki zabudowy i zagospodarowania terenu, w tym przeznaczenia i gabarytów projektowanych obiektów budowlanych, przedstawione w formie opisowej i graficznej, charakterystycznych parametrów technicznych inwestycji oraz danych charakteryzujących jej wpływ na środowisko;
     - **a)**
     - **b)**
     - **c)**
 
-- **7)** decyzję o środowiskowych uwarunkowaniach, o której mowa w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, z późn. zm.), jeżeli jest ona wymagana;
+- **7)** decyzję o środowiskowych uwarunkowaniach, o której mowa w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1501, 1506, 1688, 1719, 1890, 1906 i 2029.), jeżeli jest ona wymagana;
 - **7a)** w przypadku przedsięwzięć, dla których wydano decyzję o środowiskowych uwarunkowaniach w postępowaniu wymagającym udziału społeczeństwa – załącznik graficzny określający przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, na który będzie oddziaływać przedsięwzięcie, o ile dołączenie tego załącznika było wymagane przez przepisy obowiązujące w dniu złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, w szczególności mapę, o której mowa w art. 74 ust. 1 pkt 3a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko;
 - **8)** mapy z projektami podziału nieruchomości, w przypadku konieczności dokonania podziału nieruchomości, sporządzone zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne;
 - **9)** wskazanie nieruchomości, w stosunku do których decyzja o zezwoleniu na realizację inwestycji w zakresie infrastruktury dostępowej ma wywołać skutek, o którym mowa w art. 19 ust. 3;
@@ -131,7 +151,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **7)** właściwego zarządcy terenów kolejowych – w odniesieniu do obszarów kolejowych, zgodnie z przepisami ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2023 r. poz. 1786, 1720 i 2029);
 - **8)** właściwego miejscowo zarządu województwa, zarządu powiatu oraz wójta (burmistrza, prezydenta miasta), a także wójta (burmistrza, prezydenta miasta) gminy sąsiadującej z gminą, na terenie której zlokalizowana będzie inwestycja;
 - **9)** ministra właściwego do spraw gospodarki morskiej – w odniesieniu do nieruchomości, o których mowa w art. 3 ust. 1 pkt 1 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796);
-- **10)** Ministra Obrony Narodowej – w odniesieniu do inwestycji mogących oddziaływać na tereny zamknięte niezbędne dla obronności państwa, ustalone na podstawie ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne oraz na ich strefy ochronne, o których mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, z późn. zm.);
+- **10)** Ministra Obrony Narodowej – w odniesieniu do inwestycji mogących oddziaływać na tereny zamknięte niezbędne dla obronności państwa, ustalone na podstawie ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne oraz na ich strefy ochronne, o których mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1506, 1597, 1688, 1890, 2029 i 2739.);
 - **11)** ministra właściwego do spraw zdrowia – w odniesieniu do inwestycji realizowanych na terenach uzdrowisk lub obszarów ochrony uzdrowiskowej.
 
 7. Budowa lub przebudowa dróg publicznych, o których mowa w art. 1 ust. 2 pkt 2 lit. f, wymaga uzgodnienia z właściwym zarządcą drogi. Przepisy ust. 8 i 9 stosuje się odpowiednio. Odmowa uzgodnienia wymaga wydania decyzji, od której inwestorowi przysługuje odwołanie do ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, który rozpatruje odwołanie w terminie 21 dni.
@@ -172,7 +192,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 5. W przypadku gdy po doręczeniu zawiadomienia, o którym mowa w ust. 1, nastąpi:
 
 - **1)** zbycie własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o zezwoleniu na realizację inwestycji w zakresie infrastruktury dostępowej,
-- **2)** przeniesienie własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem, o którym mowa w pkt 1, wskutek innego zdarzenia prawnego nabywca jest obowiązany, a w przypadku, o którym mowa w pkt 1, nabywca i zbywca są obowiązani do zgłoszenia Wojewodzie Pomorskiemu danych nowego właściciela lub użytkownika wieczystego.
+- **2)** przeniesienie własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem, o którym mowa w pkt 1, wskutek innego zdarzenia prawnego – nabywca jest obowiązany, a w przypadku, o którym mowa w pkt 1, nabywca i zbywca są obowiązani do zgłoszenia Wojewodzie Pomorskiemu danych nowego właściciela lub użytkownika wieczystego.
 
 6. Niedokonanie zgłoszenia zgodnie z ust. 5 i prowadzenie postępowania bez udziału nowego właściciela lub użytkownika wieczystego nie stanowi podstawy do wznowienia postępowania administracyjnego.
 
@@ -240,7 +260,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Do spraw określonych w niniejszym rozdziale nie stosuje się ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, z wyjątkiem art. 57 ust. 1 i 4 tej ustawy, które mają zastosowanie do decyzji o zezwoleniu na realizację inwestycji w zakresie infrastruktury dostępowej.
 
-2. Decyzja o zezwoleniu na realizację inwestycji w zakresie infrastruktury dostępowej wiąże właściwe organy przy sporządzaniu planu ogólnego gminy oraz miejscowych planów zagospodarowania przestrzennego. Wojewoda Pomorski przekazuje niezwłocznie wydaną decyzję o zezwoleniu na realizację inwestycji w zakresie infrastruktury dostępowej właściwym wójtom (burmistrzom, prezydentom miast).
+2. Decyzja o zezwoleniu na realizację inwestycji w zakresie infrastruktury dostępowej wiąże właściwe organy przy sporządzaniu planu ogólnego gminy oraz miejscowych planów zagospodarowania przestrzennego.Zdanie pierwsze ze zmianą wprowadzoną przez art. 40 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688), która weszła w życie z dniem 24 września 2023 r. Wojewoda Pomorski przekazuje niezwłocznie wydaną decyzję o zezwoleniu na realizację inwestycji w zakresie infrastruktury dostępowej właściwym wójtom (burmistrzom, prezydentom miast).
 
 3. Decyzja o zezwoleniu na realizację inwestycji w zakresie infrastruktury dostępowej jest wiążąca dla właściwych organów w zakresie wydawania decyzji o warunkach zabudowy i zagospodarowania terenu, pozwolenia na budowę, decyzji o ustaleniu lokalizacji linii kolejowej, decyzji o zezwoleniu na realizację inwestycji drogowej, decyzji o ustaleniu lokalizacji inwestycji w zakresie budowy obiektu energetyki jądrowej oraz inwestycji towarzyszącej, decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu oraz zezwolenia na zajęcie pasa drogowego w celu umieszczenia w pasie drogowym uzbrojenia terenu, wchodzącego w skład tej inwestycji, decyzji o ustaleniu lokalizacji strategicznej inwestycji w zakresie sieci przesyłowej oraz pozwolenia na budowę strategicznej inwestycji w zakresie sieci przesyłowej.
 
@@ -325,7 +345,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **7)** do wniosku i postępowania o udzielenie koncesji nie stosuje się art. 24 ust. 1 pkt 2 i art. 28i-28l ustawy – Prawo geologiczne i górnicze;
 - **8)** minister właściwy do spraw środowiska, wydając koncesję, uwzględnia, że wydobywanie kopaliny ze złóż na wniosek inwestora może nastąpić w toku prowadzonych robót budowlanych, a także uwzględnia inne uwarunkowania wynikające z konieczności terminowej i sprawnej realizacji robót budowlanych; przepis art. 4 ust. 5 stosuje się odpowiednio.
 
-#### Rozdział 3 Nabywanie tytułu prawnego do nieruchomości i realizacja inwestycji w zakresie infrastruktury dostępowej
+#### Rozdział 3
 
 **Art. 19.**
 
@@ -417,7 +437,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 28.** W sprawach nieuregulowanych w niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, przy czym ilekroć w przepisach tej ustawy mowa jest o decyzji o ustaleniu lokalizacji inwestycji celu publicznego, rozumie się przez to także decyzję o zezwoleniu na realizację inwestycji w zakresie infrastruktury dostępowej.
 
-#### Rozdział 4 Udzielanie zamówień na realizację inwestycji w zakresie infrastruktury dostępowej
+#### Rozdział 4
 
 **Art. 29.**
 
@@ -425,7 +445,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Doręczenie informacji o wyniku kontroli uprzedniej określonej w dziale XI rozdziale 2 oddziale 3 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych następuje nie później niż w terminie 14 dni od dnia doręczenia Prezesowi Urzędu Zamówień Publicznych kopii dokumentacji postępowania o udzielenie zamówienia potwierdzonych za zgodność z oryginałem przez kierownika zamawiającego.
 
-#### Rozdział 5 Postępowanie administracyjne przy realizacji inwestycji infrastruktury dostępowej
+#### Rozdział 5
 
 **Art. 30.**
 
@@ -461,15 +481,15 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 34.** Wojewoda Pomorski jest organem egzekucyjnym prowadzącym egzekucję obowiązków o charakterze niepieniężnym wynikających z decyzji, o których mowa w art. 3 ust. 1, art. 24 ust. 3 oraz art. 25 ust. 2.
 
-#### Rozdział 6 Przepisy zmieniające
+#### Rozdział 6
 
 **Art. 35.** (pominięty)
 
 **Art. 36.** (pominięty)
 
-#### Rozdział 7 Przepis przejściowy i przepis końcowy
+#### Rozdział 7
 
 **Art. 37.** Do postępowań w sprawach dotyczących inwestycji w zakresie infrastruktury dostępowej, wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy decyzją ostateczną, stosuje się przepisy dotychczasowe. Inwestor może jednak złożyć wniosek do organu prowadzącego postępowanie o zastosowanie przepisów ustawy.
 
-**Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 21 kwietnia 2017 r.. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1463, 1506, 1688, 1762, 1906 i 2029. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762, 1890, 1963 i 2029. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1501, 1506, 1688, 1719, 1890, 1906 i 2029. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1506, 1597, 1688, 1890, 2029 i 2739. 5) Zdanie pierwsze ze zmianą wprowadzoną przez art. 40 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688), która weszła w życie z dniem 24 września 2023 r. 6) Ustawa została ogłoszona w dniu 21 kwietnia 2017 r.
 

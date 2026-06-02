@@ -37,8 +37,7 @@ rozporządzeniem Ministra Sprawiedliwości z dnia 12 kwietnia 2021 r. zmieniają
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2–6 rozporządzenia Ministra Sprawiedliwości z dnia 15 maja 2020 r. zmieniającego rozporządzenie w sprawie organizacji i przebiegu aplikacji notarialnej (Dz. U. poz. 889), które stanowią:
-„
+§ 2–6 rozporządzenia Ministra Sprawiedliwości z dnia 15 maja 2020 r. zmieniającego rozporządzenie w sprawie organizacji i przebiegu aplikacji notarialnej (Dz. U. poz. 889), które stanowią: „
 § 2.
 1.
 W 2020 r., w przypadku uzasadnionego braku możliwości prowadzenia zajęć seminaryjnych i praktyki w sądzie zgodnie z określonym harmonogramem zajęć seminaryjnych dla każdego roku szkoleniowego oraz harmonogramem praktyki w sądzie dla drugiego roku aplikacji, rada właściwej izby notarialnej może dokonać zmian w określonych harmonogramach, w szczególności co do terminów zajęć seminaryjnych i praktyki w sądzie, formy zajęć oraz wykładowców. W razie konieczności prezes rady właściwej izby notarialnej i prezes właściwego sądu apelacyjnego dokonują zmian w porozumieniu zawartym na podstawie § 6 ust. 4 rozporządzenia zmienianego w § 1, w szczególności co do terminów praktyki w sądzie, którą aplikant notarialny może odbyć również w czasie trwania trzeciego roku aplikacji. Zmiany w harmonogramach rada właściwej izby notarialnej ogłasza na swojej stronie internetowej i przesyła do wiadomości Krajowej Radzie Notarialnej oraz Ministrowi Sprawiedliwości w terminie 14 dni od dnia dokonania zmiany.
@@ -51,11 +50,9 @@ W 2020 r. do przeprowadzenia kolokwium nie stosuje się terminów określonych w
 § 5.
 Nieobecności aplikanta na zajęciach seminaryjnych oraz na zajęciach praktycznych powstałe w okresie od ogłoszenia stanu zagrożenia epidemicznego do dnia wejścia w życie niniejszego rozporządzenia i wynikające z ograniczeń wprowadzonych w związku ze stanem zagrożenia epidemicznego lub stanem epidemii – są usprawiedliwione. Nieobecności tych nie wlicza się do nieobecności, o których mowa w § 8 rozporządzenia zmienianego w § 1.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2–6 rozporządzenia Ministra Sprawiedliwości z dnia 12 kwietnia 2021 r. zmieniającego rozporządzenie w sprawie organizacji i przebiegu aplikacji notarialnej (Dz. U. poz. 684), które stanowią:
-„
+§ 2–6 rozporządzenia Ministra Sprawiedliwości z dnia 12 kwietnia 2021 r. zmieniającego rozporządzenie w sprawie organizacji i przebiegu aplikacji notarialnej (Dz. U. poz. 684), które stanowią: „
 § 2.
 1.
 W czasie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19, w przypadku uzasadnionego braku możliwości prowadzenia zajęć seminaryjnych i praktyki w sądzie zgodnie z określonym harmonogramem zajęć seminaryjnych dla każdego roku szkoleniowego oraz harmonogramem praktyki w sądzie dla drugiego roku aplikacji, rada właściwej izby notarialnej może dokonać zmian w określonych harmonogramach, w szczególności co do terminów zajęć seminaryjnych i praktyki w sądzie, formy zajęć oraz wykładowców. W razie konieczności prezes rady właściwej izby notarialnej i prezes właściwego sądu apelacyjnego dokonują zmian w porozumieniu zawartym na podstawie § 6 ust. 4 rozporządzenia zmienianego w § 1, w szczególności co do terminów praktyki w sądzie, którą aplikant notarialny może odbyć również w czasie trwania trzeciego roku aplikacji. Zmiany w harmonogramach rada właściwej izby notarialnej ogłasza na swojej stronie internetowej i przesyła do wiadomości Krajowej Radzie Notarialnej oraz Ministrowi Sprawiedliwości w terminie 14 dni od dnia dokonania zmiany.
@@ -68,8 +65,7 @@ W czasie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogł
 § 5.
 Nieobecności aplikanta na zajęciach seminaryjnych oraz na zajęciach praktycznych powstałe w okresie od dnia 1 stycznia 2021 r. do dnia wejścia w życie niniejszego rozporządzenia i wynikające z ograniczeń wprowadzonych w związku ze stanem zagrożenia epidemicznego lub stanem epidemii są usprawiedliwione. Nieobecności tych nie wlicza się do nieobecności, o których mowa w § 8 rozporządzenia zmienianego w § 1.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 17 grudnia 2013 r. w sprawie organizacji i przebiegu aplikacji notarialnej
 Na podstawie art. 75 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2024 r. poz. 1001) zarządza się, co następuje:
 § 1.
@@ -124,7 +120,7 @@ przestrzegania powagi, godności i kultury pracy notariusza oraz wykonywania pra
 6)
 samodzielnego prowadzenia kancelarii notarialnej i organizacji pracy w zakresie biurowości w kancelarii notarialnej.
 § 4.
-1.
+1W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 12 kwietnia 2021 r. zmieniającego rozporządzenie w sprawie organizacji i przebiegu aplikacji notarialnej (Dz. U. poz. 684), które weszło w życie z dniem 15 kwietnia 2021 r..
 Zajęcia seminaryjne dla aplikantów rozpoczynają się nie później niż w dniu 21 stycznia i trwają do dnia 31 grudnia, a dla aplikantów czwartego roku do dnia 30 czerwca.
 2.
 W okresie od dnia 1 lipca do dnia 30 września zajęcia seminaryjne nie odbywają się.
@@ -137,7 +133,7 @@ Zajęcia seminaryjne rozpoczęte w trybie, o którym mowa w ust. 4, składają s
 § 5.
 1.
 Zajęcia seminaryjne prowadzą osoby wskazane przez radę izby notarialnej, w szczególności: notariusze, emerytowani notariusze, sędziowie, sędziowie w stanie spoczynku, referendarze sądowi, pracownicy naukowi, naukowo-dydaktyczni lub dydaktyczni, w szczególności wydziałów prawa szkół wyższych w Rzeczypospolitej Polskiej oraz członkowie Polskiej Akademii Nauk i pracownicy naukowi jednostek naukowych Polskiej Akademii Nauk, a także prokuratorzy, prokuratorzy w stanie spoczynku, adwokaci i radcowie prawni oraz osoby posiadające doświadczenie w zakresie obsługi biurowej kancelarii notarialnej.
-2.
+2W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 15 maja 2020 r. zmieniającego rozporządzenie w sprawie organizacji i przebiegu aplikacji notarialnej (Dz. U. poz. 889), które weszło w życie z dniem 20 maja 2020 r..
 Zajęcia seminaryjne prowadzone są na obszarze właściwej izby notarialnej, w szczególności w formie konwersatoriów, seminariów i ćwiczeń, przy czym konwersatoria i seminaria mogą być prowadzone przy użyciu urządzeń technicznych umożliwiających obustronną komunikację na odległość między prowadzącym a uczestnikami. W sytuacjach szczególnych, uniemożliwiających prowadzenie ćwiczeń w innej formie, mogą być one także prowadzone przy użyciu urządzeń technicznych umożliwiających obustronną komunikację na odległość między prowadzącym a uczestnikami.
 3.
 W uzasadnionych przypadkach, w szczególności z uwagi na małą liczbę aplikantów, rady izb notarialnych mogą zawierać porozumienia w sprawie wspólnego prowadzenia zajęć seminaryjnych aplikantów. Odpis porozumienia przekazuje do wiadomości Ministra Sprawiedliwości i prezesów właściwych sądów apelacyjnych rada izby notarialnej, na obszarze której prowadzone będą zajęcia seminaryjne.
@@ -238,8 +234,7 @@ zaświadczenie lekarskie stwierdzające wynikające z niepełnosprawności trudn
 a)
 odczytywanie tekstu,
 b)
-zapisywanie rozwiązań zadań
-wystawione przez lekarza specjalistę właściwego ze względu na charakter niepełnosprawności;
+zapisywanie rozwiązań zadań – wystawione przez lekarza specjalistę właściwego ze względu na charakter niepełnosprawności;
 3)
 oświadczenie o wyrażeniu zgody na przetwarzanie danych osobowych, o których mowa w pkt 1 i 2, na potrzeby przeprowadzenia kolokwium.
 3.
@@ -299,5 +294,5 @@ Do aplikantów, którzy rozpoczęli aplikację przed dniem wejścia w życie roz
 § 15.
 (pominięty).
 § 16.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 grudnia 2005 r. w sprawie organizacji aplikacji notarialnej (Dz. U. poz. 2169, z 2006 r. poz. 384, z 2008 r. poz. 1131, z 2010 r. poz. 267 oraz z 2012 r. poz. 1449), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 49 ust. 2 ustawy z dnia 13 czerwca 2013 r. o zmianie ustaw regulujących wykonywanie niektórych zawodów (Dz. U. poz. 829). 1) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 12 kwietnia 2021 r. zmieniającego rozporządzenie w sprawie organizacji i przebiegu aplikacji notarialnej (Dz. U. poz. 684), które weszło w życie z dniem 15 kwietnia 2021 r. 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 15 maja 2020 r. zmieniającego rozporządzenie w sprawie organizacji i przebiegu aplikacji notarialnej (Dz. U. poz. 889), które weszło w życie z dniem 20 maja 2020 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 grudnia 2005 r. w sprawie organizacji aplikacji notarialnej (Dz. U. poz. 2169, z 2006 r. poz. 384, z 2008 r. poz. 1131, z 2010 r. poz. 267 oraz z 2012 r. poz. 1449), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 49 ust. 2 ustawy z dnia 13 czerwca 2013 r. o zmianie ustaw regulujących wykonywanie niektórych zawodów (Dz. U. poz. 829).
 

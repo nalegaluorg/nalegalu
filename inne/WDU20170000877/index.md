@@ -32,20 +32,17 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 10 maja 2006 r. w sprawie nadania statutu Krajowej Radzie Transplantacyjnej (Dz. U. z 2016 r. poz. 57), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 3 czerwca 2016 r. zmieniającym rozporządzenie w sprawie nadania statutu Krajowej Radzie Transplantacyjnej (Dz. U. poz. 820).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 3 czerwca 2016 r. zmieniającego rozporządzenie w sprawie nadania statutu Krajowej Radzie Transplantacyjnej (Dz. U. poz. 820), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 3 czerwca 2016 r. zmieniającego rozporządzenie w sprawie nadania statutu Krajowej Radzie Transplantacyjnej (Dz. U. poz. 820), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 10 maja 2006 r. w sprawie nadania statutu Krajowej Radzie Transplantacyjnej
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 10 maja 2006 r. w sprawie nadania statutu Krajowej Radzie TransplantacyjnejMinister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 Na podstawie art. 41 ust. 8 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2015 r. poz. 793, 1893 i 1991 oraz z 2017 r. poz. 767 i 798) zarządza się, co następuje:
 § 1.
 Krajowej Radzie Transplantacyjnej nadaje się statut stanowiący załącznik do rozporządzenia.
 § 2.
 Traci moc zarządzenie Ministra Zdrowia i Opieki Społecznej z dnia 20 stycznia 1997 r. w sprawie nadania statutu Krajowej Radzie Transplantacyjnej (Dz. Urz. MZ i OS poz. 3 i 35).
 § 3.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Rozporządzenie zostało ogłoszone w dniu 18 maja 2006 r.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 18 maja 2006 r.. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Rozporządzenie zostało ogłoszone w dniu 18 maja 2006 r.
 Załącznik – Statut Krajowej Rady Transplantacyjnej
 § 1.
 1.
@@ -105,7 +102,7 @@ głosowania jawnego albo
 2)
 głosowania tajnego, albo
 3)
-głosowania w trybie korespondencyjnym za pośrednictwem poczty elektronicznej bez konieczności stosowania podpisu elektronicznego w rozumieniu art. 3 pkt 1 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. z 2013 r. poz. 262, z 2014 r. poz. 1662 oraz z 2015 r. poz. 1893), gdy uzasadniają to okoliczności, w szczególności w przypadku konieczności pilnego podjęcia uchwały w danej sprawie.
+głosowania w trybie korespondencyjnym za pośrednictwem poczty elektronicznej bez konieczności stosowania podpisu elektronicznego w rozumieniu art. 3 pkt 1 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. z 2013 r. poz. 262, z 2014 r. poz. 1662 oraz z 2015 r. poz. 1893)Utraciła moc na podstawie art. 141 ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. poz. 1579), która weszła w życie z dniem 7 października 2016 r., gdy uzasadniają to okoliczności, w szczególności w przypadku konieczności pilnego podjęcia uchwały w danej sprawie.
 5.
 Głosowanie tajne może być zarządzone przez przewodniczącego Rady z własnej inicjatywy lub na wniosek członka Rady.
 6.
@@ -143,7 +140,7 @@ Do zadań Komisji Etycznej należy w szczególności opiniowanie wniosków o prz
 pobrania i przeszczepiania narządu od żywego dawcy na rzecz osoby niebędącej krewnym w linii prostej, rodzeństwem, osobą przysposobioną lub małżonkiem;
 2)
 przeszczepienia komórek, tkanek lub narządów pobranych od zwierząt.
-2.
+2W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 3 czerwca 2016 r. zmieniającego rozporządzenie w sprawie nadania statutu Krajowej Radzie Transplantacyjnej (Dz. U. poz. 820), które weszło w życie z dniem 24 czerwca 2016 r..
 Komisja Etyczna wybiera ze swego składu przewodniczącego oraz zastępcę przewodniczącego większością głosów.
 3.
 Komisja Etyczna opiniuje przedstawione wnioski i zatwierdza je w głosowaniu jawnym większością głosów.
@@ -157,6 +154,5 @@ Do członków zespołów roboczych stosuje się odpowiednio przepisy § 8.
 § 11.
 Wydatki związane z działalnością Rady pokrywa się z budżetu państwa z części, której dysponentem jest minister właściwy do spraw zdrowia.
 § 12.
-Obsługę organizacyjną i techniczną Rady zapewnia urząd obsługujący ministra właściwego do spraw zdrowia.
-3) Utraciła moc na podstawie art. 141 ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. poz. 1579), która weszła w życie z dniem 7 października 2016 r. 4) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 3 czerwca 2016 r. zmieniającego rozporządzenie w sprawie nadania statutu Krajowej Radzie Transplantacyjnej (Dz. U. poz. 820), które weszło w życie z dniem 24 czerwca 2016 r.
+Obsługę organizacyjną i techniczną Rady zapewnia urząd obsługujący ministra właściwego do spraw zdrowia. 3) Utraciła moc na podstawie art. 141 ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. poz. 1579), która weszła w życie z dniem 7 października 2016 r. 4) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 3 czerwca 2016 r. zmieniającego rozporządzenie w sprawie nadania statutu Krajowej Radzie Transplantacyjnej (Dz. U. poz. 820), które weszło w życie z dniem 24 czerwca 2016 r.
 

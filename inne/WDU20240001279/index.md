@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 14 sierpnia 2024 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej uznanej organizacji upoważnionej do wykonywania zadań administracji morskiej
+# Rozporządzenie Ministra Finansówz dnia 14 sierpnia 2024 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej uznanej organizacji upoważnionej do wykonywania zadań administracji morskiej Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-08-14 |
 | Data wydania | 2024-08-22 |
-| Wejście w życie | 2024-09-06 |
 | Ostatnia zmiana | 2024-09-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001279) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1279/text.pdf) |
 
@@ -53,6 +52,5 @@ Minimalna suma gwarancyjna ubezpieczenia OC, w okresie ubezpieczenia nie dłużs
 2.
 Kwota, o której mowa w ust. 1, jest ustalana przy zastosowaniu średniego kursu euro ogłoszonego przez Narodowy Bank Polski po raz pierwszy w roku, w którym została zawarta umowa ubezpieczenia OC.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 

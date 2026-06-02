@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-22 |
 | Data wydania | 2016-08-29 |
-| Wejście w życie | 2016-09-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001361) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1361/text.pdf) |
 
@@ -38,13 +37,13 @@ source: "eli-html"
 
 1. Przy ministrze właściwym do spraw transportu działa niezależna, stała Państwowa Komisja Badania Wypadków Lotniczych, prowadząca lub nadzorująca badania zdarzeń lotniczych, zwana dalej „Komisją”.
 
-2. Komisja jest organem do spraw badania zdarzeń lotniczych, o którym mowa w art. 4 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 996/2010 z dnia 20 października 2010 r. w sprawie badania wypadków i incydentów w lotnictwie cywilnym oraz zapobiegania im oraz uchylającego dyrektywę 94/56/WE (Dz. Urz. UE L 295 z 12.11.2010, str. 35, z późn. zm.).
+2. Komisja jest organem do spraw badania zdarzeń lotniczych, o którym mowa w art. 4 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 996/2010 z dnia 20 października 2010 r. w sprawie badania wypadków i incydentów w lotnictwie cywilnym oraz zapobiegania im oraz uchylającego dyrektywę 94/56/WE (Dz. Urz. UE L 295 z 12.11.2010, str. 35, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 276 z 17.10.2013, str. 34 oraz Dz. Urz. UE L 122 z 24.04.2014, str. 18.).
 
 3. Komisja prowadzi badania na podstawie przepisów ustawy i prawa Unii Europejskiej z zakresu wypadków i incydentów w lotnictwie cywilnym oraz z uwzględnieniem norm i zalecanych metod postępowania zawartych w Załączniku 13 do Konwencji, o której mowa w art. 3 ust. 2.
 
 4. W skład Komisji wchodzą: przewodniczący, dwóch zastępców przewodniczącego, sekretarz i pozostali członkowie.
 
-5. W zakresie nawiązywania i rozwiązywania stosunku pracy do członków Komisji stosuje się przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.), z zastrzeżeniem przepisów niniejszej ustawy. Z dniem powołania z członkiem Komisji zostaje nawiązany stosunek pracy.
+5. W zakresie nawiązywania i rozwiązywania stosunku pracy do członków Komisji stosuje się przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662, z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735 oraz z 2016 r. poz. 868, 910, 960 i 1053.), z zastrzeżeniem przepisów niniejszej ustawy. Z dniem powołania z członkiem Komisji zostaje nawiązany stosunek pracy.
 
 6. Przewodniczącego Komisji powołuje minister właściwy do spraw transportu na okres 4 lat.
 
@@ -154,7 +153,7 @@ source: "eli-html"
 
 - **1)** zakładającego lotnisko,
 - **2)** inny podmiot – na wniosek zakładającego lotnisko,
-- **3)** podmiot, któremu przekazano zarządzanie lotniskiem, zgodnie z art. 70 jeżeli lotnisko spełnia warunki określone w art. 59a i art. 80a, a w przypadku lotniska użytku publicznego, o którym mowa w art. 59a ust. 1 pkt 1 – również w art. 174 ust. 2 i 3, a w przypadku lotniska użytku publicznego, o którym mowa w art. 54 ust. 7 i art. 59a ust. 1 pkt 2 – również w art. 55 ust. 2. ” ;
+- **3)** podmiot, któremu przekazano zarządzanie lotniskiem, zgodnie z art. 70 – jeżeli lotnisko spełnia warunki określone w art. 59a i art. 80a, a w przypadku lotniska użytku publicznego, o którym mowa w art. 59a ust. 1 pkt 1 – również w art. 174 ust. 2 i 3, a w przypadku lotniska użytku publicznego, o którym mowa w art. 54 ust. 7 i art. 59a ust. 1 pkt 2 – również w art. 55 ust. 2. ” ;
 - **7)** w art. 59a w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Potwierdzenie spełnienia wymagań związanych z eksploatacją lotniska i zarządzaniem lotniskiem użytku publicznego, z wyłączeniem lotnisk, o których mowa w art. 54 ust. 7, następuje przez wydanie certyfikatu: ” ;
 - **8)** po art. 61 dodaje się art. 61a w brzmieniu: „
 
@@ -212,5 +211,5 @@ source: "eli-html"
 
 **Art. 4.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 11 lit. b, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 11 lit. b, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 276 z 17.10.2013, str. 34 oraz Dz. Urz. UE L 122 z 24.04.2014, str. 18. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662, z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735 oraz z 2016 r. poz. 868, 910, 960 i 1053.
 

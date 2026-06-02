@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-04-17 |
 | Data wydania | 2015-04-29 |
-| Wejście w życie | 2015-05-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000585) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/585/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Warunki wyłączenia Rozdział 3 – Klauzule, których występowanie w porozumieniu o transferze technologii stanowi naruszenie art. 6 ust. 1 ustawy Rozdział 4 – Przepis przejściowy i przepisy końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 8 ust. 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2015 r. poz. 184) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -91,6 +91,7 @@ licencja wyłączna – licencję, na podstawie której licencjodawca nie jest u
 obszar wyłączny – obszar, na którym tylko jeden przedsiębiorca może wytwarzać towary objęte porozumieniem, jednak z możliwością udzielenia innemu licencjobiorcy zezwolenia na wytwarzanie towarów objętych porozumieniem na tym obszarze jedynie na rzecz konkretnego klienta, w przypadku gdy ta druga licencja została udzielona w celu utworzenia alternatywnego źródła dostaw dla tego klienta;
 17)
 wyłączna grupa klientów – grupę klientów, w stosunku do której tylko jedna strona porozumienia o transferze technologii może prowadzić aktywną sprzedaż towarów objętych porozumieniem, wytworzonych z użyciem licencjonowanej technologii.
+Warunki wyłączenia
 § 4.
 1.
 Wyłącza się spod zakazu, o którym mowa w art. 6 ust. 1 ustawy, porozumienia o transferze technologii, o ile porozumienia te spełniają warunki określone w rozporządzeniu.
@@ -117,6 +118,7 @@ Wyłączenie stosuje się do porozumień o transferze technologii dotyczących:
 praw do licencjonowanej technologii – w takim zakresie i tak długo, jak prawa te podlegają ochronie;
 2)
 korzystania z know-how – przez okres, w którym licencjonowane know-how pozostaje niejawne, a w przypadku jego publicznego ujawnienia przez licencjobiorcę – przez okres obowiązywania porozumienia.
+Klauzule, których występowanie w porozumieniu o transferze technologii stanowi naruszenie art. 6 ust. 1 ustawy
 § 7.
 Wyłączenia nie stosuje się do porozumień o transferze technologii między konkurentami, które bezpośrednio lub pośrednio, samodzielnie lub w połączeniu z innymi czynnikami zależnymi od stron, mają na celu:
 1)
@@ -167,6 +169,7 @@ zobowiązanie licencjobiorcy do udzielenia licencji wyłącznej licencjodawcy lu
 zobowiązanie strony do niekwestionowania ważności praw własności intelektualnej, które druga strona posiada w Unii Europejskiej, przy zachowaniu możliwości wypowiedzenia, w przypadku licencji wyłącznej, porozumienia o transferze technologii w razie kwestionowania przez licencjobiorcę ważności któregokolwiek z praw do licencjonowanej technologii.
 2.
 W przypadku gdy przedsiębiorcy będący stronami porozumienia nie są konkurentami, wyłączenie nie ma zastosowania do żadnego bezpośredniego lub pośredniego zobowiązania ograniczającego uprawnienie licencjobiorcy do korzystania z praw do jego technologii lub ograniczającego uprawnienie którejkolwiek ze stron porozumienia do prowadzenia prac badawczo-rozwojowych, z wyłączeniem sytuacji, w której ograniczenie to jest niezbędne, aby zapobiec ujawnieniu licencjonowanego know-how osobom trzecim.
+Przepis przejściowy i przepisy końcowe
 § 11.
 Do porozumień o transferze technologii podlegających wyłączeniu spod zakazu porozumień ograniczających konkurencję na podstawie rozporządzenia Rady Ministrów z dnia 30 lipca 2007 r. w sprawie wyłączenia niektórych rodzajów porozumień dotyczących transferu technologii spod zakazu porozumień ograniczających konkurencję (Dz. U. Nr 137, poz. 963), niespełniających warunków wyłączenia określonych w niniejszym rozporządzeniu, stosuje się przepisy dotychczasowe do czasu dostosowania tych porozumień do przepisów niniejszego rozporządzenia, jednak nie dłużej niż do dnia 30 kwietnia 2016 r.
 § 12.
@@ -174,11 +177,19 @@ Rozporządzenie obowiązuje do dnia 30 kwietnia 2027 r.
 § 13.
 Rozporządzenie wchodzi w życie z dniem 1 maja 2015 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Warunki wyłączenia
+#### Rozdział 2 – Warunki wyłączenia
 
-#### Rozdział 3 Klauzule, których występowanie w porozumieniu o transferze technologii stanowi naruszenie art. 6 ust. 1 ustawy
+#### Rozdział 3 – Klauzule, których występowanie w porozumieniu o transferze technologii stanowi naruszenie art. 6 ust. 1 ustawy
 
-#### Rozdział 4 Przepis przejściowy i przepisy końcowe
+#### Rozdział 4 – Przepis przejściowy i przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

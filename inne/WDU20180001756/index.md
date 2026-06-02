@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 16 sierpnia 2018 r. w sprawie standardu organizacyjnego opieki okołoporodowej
+# Rozporządzenie Ministra Zdrowiaz dnia 16 sierpnia 2018 r. w sprawie standardu organizacyjnego opieki okołoporodowej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-08-16 |
 | Data wydania | 2018-09-11 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2025-11-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001756) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1756/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Standard organizacyjny opieki zdrowotnej w podmiotach wykonujących działalność leczniczą udzielających świadczeń zdrowotnych w zakresie opieki okołoporodowej
 Treść rozporządzenia
-Na podstawie art. 22 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2018 r. poz. 160, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 22 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2018 r. poz. 160, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 138, 650, 1128, 1375, 1532, 1629, 1669 i 1693.) zarządza się, co następuje:
 § 1.
 Określa się standard organizacyjny opieki zdrowotnej w podmiotach wykonujących działalność leczniczą udzielających świadczeń zdrowotnych w zakresie opieki okołoporodowej, stanowiący załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem przepisów części XIII ust. 3 pkt 8 załącznika do rozporządzenia, które wchodzą w życie z dniem 1 stycznia 2022 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 138, 650, 1128, 1375, 1532, 1629, 1669 i 1693. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 20 września 2012 r. w sprawie standardów postępowania medycznego przy udzielaniu świadczeń zdrowotnych z zakresu opieki okołoporodowej sprawowanej nad kobietą w okresie fizjologicznej ciąży, fizjologicznego porodu, połogu oraz opieki nad noworodkiem (Dz. U. z 2016 r. poz. 1132), rozporządzeniem Ministra Zdrowia z dnia 9 listopada 2015 r. w sprawie standardów postępowania medycznego w łagodzeniu bólu porodowego (Dz. U. poz. 1997) oraz rozporządzeniem Ministra Zdrowia z dnia 9 listopada 2015 r. w sprawie standardów postępowania medycznego przy udzielaniu świadczeń zdrowotnych w dziedzinie położnictwa i ginekologii z zakresu okołoporodowej opieki położniczo-ginekologicznej, sprawowanej nad kobietą w okresie ciąży, porodu, połogu, w przypadkach występowania określonych powikłań oraz opieki nad kobietą w sytuacji niepowodzeń położniczych (Dz. U. poz. 2007), które tracą moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 41 ust. 1 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem przepisów części XIII ust. 3 pkt 8 załącznika do rozporządzenia, które wchodzą w życie z dniem 1 stycznia 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 20 września 2012 r. w sprawie standardów postępowania medycznego przy udzielaniu świadczeń zdrowotnych z zakresu opieki okołoporodowej sprawowanej nad kobietą w okresie fizjologicznej ciąży, fizjologicznego porodu, połogu oraz opieki nad noworodkiem (Dz. U. z 2016 r. poz. 1132), rozporządzeniem Ministra Zdrowia z dnia 9 listopada 2015 r. w sprawie standardów postępowania medycznego w łagodzeniu bólu porodowego (Dz. U. poz. 1997) oraz rozporządzeniem Ministra Zdrowia z dnia 9 listopada 2015 r. w sprawie standardów postępowania medycznego przy udzielaniu świadczeń zdrowotnych w dziedzinie położnictwa i ginekologii z zakresu okołoporodowej opieki położniczo-ginekologicznej, sprawowanej nad kobietą w okresie ciąży, porodu, połogu, w przypadkach występowania określonych powikłań oraz opieki nad kobietą w sytuacji niepowodzeń położniczych (Dz. U. poz. 2007), które tracą moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 41 ust. 1 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 138, 650, 1128, 1375, 1532, 1629, 1669 i 1693. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 20 września 2012 r. w sprawie standardów postępowania medycznego przy udzielaniu świadczeń zdrowotnych z zakresu opieki okołoporodowej sprawowanej nad kobietą w okresie fizjologicznej ciąży, fizjologicznego porodu, połogu oraz opieki nad noworodkiem (Dz. U. z 2016 r. poz. 1132), rozporządzeniem Ministra Zdrowia z dnia 9 listopada 2015 r. w sprawie standardów postępowania medycznego w łagodzeniu bólu porodowego (Dz. U. poz. 1997) oraz rozporządzeniem Ministra Zdrowia z dnia 9 listopada 2015 r. w sprawie standardów postępowania medycznego przy udzielaniu świadczeń zdrowotnych w dziedzinie położnictwa i ginekologii z zakresu okołoporodowej opieki położniczo-ginekologicznej, sprawowanej nad kobietą w okresie ciąży, porodu, połogu, w przypadkach występowania określonych powikłań oraz opieki nad kobietą w sytuacji niepowodzeń położniczych (Dz. U. poz. 2007), które tracą moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 41 ust. 1 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960).
 Załącznik – Standard organizacyjny opieki zdrowotnej w podmiotach wykonujących działalność leczniczą udzielających świadczeń zdrowotnych w zakresie opieki okołoporodowej
 I.
 Postanowienia ogólne
@@ -53,8 +51,7 @@ nacięcia krocza,
 6)
 cięcia cesarskiego,
 7)
-podania noworodkowi mleka modyfikowanego
-z uwzględnieniem zasad bezpieczeństwa zdrowotnego, w ramach których opieka medyczna opiera się na praktykach o udowodnionej skuteczności.
+podania noworodkowi mleka modyfikowanego – z uwzględnieniem zasad bezpieczeństwa zdrowotnego, w ramach których opieka medyczna opiera się na praktykach o udowodnionej skuteczności.
 2.
 Podmioty wykonujące działalność leczniczą udzielające świadczeń zdrowotnych w zakresie opieki okołoporodowej ustalają wskaźniki tej opieki i monitorują je, nie rzadziej niż raz w roku, kierując się w szczególności ograniczaniem interwencji medycznych, o których mowa w ust. 1, oraz oceną satysfakcji kobiet objętych opieką.
 3.
@@ -82,8 +79,7 @@ lekarza specjalistę w dziedzinie położnictwa i ginekologii, lekarza ze specja
 c)
 lekarza specjalistę w dziedzinie neonatologii, lekarza w trakcie specjalizacji w dziedzinie neonatologii albo lekarza specjalistę w dziedzinie pediatrii, zwanych dalej „lekarzem oddziału neonatologicznego”,
 d)
-pielęgniarkę
-sprawujących odpowiednio opiekę nad ciężarną, rodzącą, położnicą albo noworodkiem;
+pielęgniarkę – sprawujących odpowiednio opiekę nad ciężarną, rodzącą, położnicą albo noworodkiem;
 8)
 lekarz prowadzący analgezję regionalną porodu:
 a)
@@ -170,14 +166,92 @@ prawie wyboru miejsca porodu w warunkach szpitalnych lub pozaszpitalnych;
 3)
 możliwości wyboru osoby sprawującej opiekę spośród osób uprawnionych do jej sprawowania, z uwzględnieniem możliwości organizacyjnych podmiotu wykonującego działalność leczniczą.
 II.
-Zakres świadczeń profilaktycznych i działań w zakresie promocji zdrowia oraz badań diagnostycznych i konsultacji medycznych, wykonywanych u kobiet w okresie ciąży, wraz z okresami ich przeprowadzania Termin badania Świadczenia profilaktyczne wykonywane przez lekarza lub położną i działania w zakresie promocji zdrowia Badania diagnostyczne i konsultacje medyczne 1 2 3 Do 10. tygodnia ciąży lub w chwili pierwszego zgłoszenia się 1. Badanie podmiotowe i przedmiotowe.2. Pomiar ciśnienia tętniczego krwi.3. Badanie gruczołów sutkowych.4. Określenie wzrostu, masy ciała i wskaźnika BMI.5. Ocena ryzyka ciążowego.6. Propagowanie zdrowego stylu życia. 1. Grupa krwi i Rh, o ile ciężarna nie posiada odpowiednio udokumentowanego badania grupy krwi.2. Przeciwciała odpornościowe do antygenów krwinek czerwonych.3. Morfologia krwi.4. Badanie ogólne moczu. 7. Przekazanie informacji o możliwości wykonania badań w kierunku chorób uwarunkowanych genetycznie.8. W przypadku opieki sprawowanej przez położną obowiązkowa konsultacja lekarza położnika.9. Zebranie danych dotyczących zdrowego stylu życia i nawyków żywieniowych, w tym spożywania alkoholu i innych używek. 5. Badanie cytologiczne, o ile nie było wykonane w ciągu ostatnich 6 miesięcy.6. Badanie stężenia glukozy we krwi na czczo, ewentualnie OGTT u kobiet z czynnikami ryzyka GDM.7. Badanie VDRL.8. Zalecenie kontroli stomatologicznej.9. Badanie HIV i HCV.10. Badanie w kierunku toksoplazmozy (IgG, IgM), o ile ciężarna nie przedstawi wyniku potwierdzającego występowanie przeciwciał IgG sprzed ciąży.11. Badanie w kierunku różyczki (IgG, IgM), o ile ciężarna nie chorowała lub nie była szczepiona lub w przypadku braku informacji.12. Oznaczenie TSH. 11–14 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe.2. Pomiar ciśnienia tętniczego krwi.3. Pomiar masy ciała.4. Ocena ryzyka ciążowego.5. Ocena ryzyka i nasilenia objawów depresji.6. Propagowanie zdrowego stylu życia. Badanie ultrasonograficzne zgodnie z rekomendacjami Polskiego Towarzystwa Ginekologów i Położników (PTGiP). 15–20 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe.2. Pomiar ciśnienia tętniczego krwi.3. Pomiar masy ciała.4. Ocena ryzyka ciążowego.5. Propagowanie zdrowego stylu życia. 1. Morfologia krwi.2. Badanie ogólne moczu. 18–22 tydzień ciąży Badanie ultrasonograficzne zgodnie z rekomendacjami PTGiP. 21–26 tydzień ciąży Rozpoczęcie edukacji przedporodowej. 21–26 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe.2. Ocena czynności serca płodu.3. Pomiar ciśnienia tętniczego krwi.4. Pomiar masy ciała.5. Ocena ryzyka ciążowego.6. Propagowanie zdrowego stylu życia.7. W przypadku opieki sprawowanej przez położną konsultacja lekarza położnika (24–26 tydzień ciąży). 1. Badanie stężenia glukozy we krwi po doustnym podaniu 75 g glukozy (w 24–26 tygodniu ciąży) – trzypunktowe oznaczenie stężenia glukozy: przed podaniem glukozy (na czczo), po 1 i 2 godz. od podania glukozy.2. Badanie ogólne moczu.3. Przeciwciała anty-D u kobiet Rh (-).4. U kobiet z ujemnym wynikiem w I trymestrze – badanie w kierunku toksoplazmozy (IgM). 27–32 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe.2. Ocena czynności serca płodu.3. Pomiar ciśnienia tętniczego krwi.4. Pomiar masy ciała.5. Ocena ryzyka ciążowego.6. Propagowanie zdrowego stylu życia. 1. Morfologia krwi.2. Badanie ogólne moczu.3. Przeciwciała anty-D u kobiet Rh (-).4. Badanie ultrasonograficzne zgodnie z rekomendacjami PTGiP.5. W przypadku występowania wskazań – podanie immunoglobuliny anty-D (28–30 tydzień ciąży). 33–37 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe.2. Badanie położnicze.3. Ocena wymiarów miednicy.4. Ocena czynności serca płodu.5. Pomiar ciśnienia tętniczego krwi.6. Ocena ruchów płodu.7. Badanie gruczołów sutkowych.8. Pomiar masy ciała.9. Ocena ryzyka ciążowego.10. Ocena ryzyka i nasilenia objawów depresji.11. Propagowanie zdrowego stylu życia. 1. Morfologia krwi.2. Badanie ogólne moczu.3. Badanie antygenu HBs.4. Badanie HIV.5. Posiew z pochwy i odbytu w kierunku paciorkowców B-hemolizujących (35–37 tydzień ciąży).6. Badanie VDRL, HCV w grupie kobiet ze zwiększonym populacyjnym lub indywidualnym ryzykiem zakażenia. 38–39 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe.2. Badanie położnicze.3. Ocena ruchów płodu.4. Ocena czynności serca płodu.5. Pomiar ciśnienia tętniczego krwi.6. Pomiar masy ciała.7. Ocena ryzyka ciążowego.8. Propagowanie zdrowego stylu życia.9. W przypadku opieki sprawowanej przez położną konsultacja lekarza położnika. 1. Badanie ogólne moczu.2. Morfologia krwi. Niezwłocznie po 40. tygodniu ciąży 1. Badanie podmiotowe i przedmiotowe.2. Badanie położnicze.3. Ocena ruchów płodu.4. Pomiar ciśnienia tętniczego krwi.5. Pomiar masy ciała.6. Ocena ryzyka ciążowego.7. Przy prawidłowym wyniku KTG i USG oraz przy prawidłowym odczuwaniu ruchów płodu – kolejne badanie za 7 dni, z ponownym KTG i USG. W trakcie tej wizyty należy ustalić datę hospitalizacji, tak aby poród miał miejsce przed końcem 42. tygodnia. W przypadku odstępstw od normy – indywidualizacja postępowania. 1. Badanie KTG.2. Badanie ultrasonograficzne zgodnie z rekomendacjami PTGiP. Osoba sprawująca opiekę:
+Zakres świadczeń profilaktycznych i działań w zakresie promocji zdrowia oraz badań diagnostycznych i konsultacji medycznych, wykonywanych u kobiet w okresie ciąży, wraz z okresami ich przeprowadzania
+Termin badania Świadczenia profilaktyczne wykonywane przez lekarza lub położną i działania w zakresie promocji zdrowia Badania diagnostyczne i konsultacje medyczne 1 2 3 Do 10. tygodnia ciąży lub w chwili pierwszego zgłoszenia się 1. Badanie podmiotowe i przedmiotowe.
+2. Pomiar ciśnienia tętniczego krwi.
+3. Badanie gruczołów sutkowych.
+4. Określenie wzrostu, masy ciała i wskaźnika BMI.
+5. Ocena ryzyka ciążowego.
+6. Propagowanie zdrowego stylu życia. 1. Grupa krwi i Rh, o ile ciężarna nie posiada odpowiednio udokumentowanego badania grupy krwi.
+2. Przeciwciała odpornościowe do antygenów krwinek czerwonych.
+3. Morfologia krwi.
+4. Badanie ogólne moczu. 7. Przekazanie informacji o możliwości wykonania badań w kierunku chorób uwarunkowanych genetycznie.
+8. W przypadku opieki sprawowanej przez położną obowiązkowa konsultacja lekarza położnika.
+9. Zebranie danych dotyczących zdrowego stylu życia i nawyków żywieniowych, w tym spożywania alkoholu i innych używek.
+5. Badanie cytologiczne, o ile nie było wykonane w ciągu ostatnich 6 miesięcy.
+6. Badanie stężenia glukozy we krwi na czczo, ewentualnie OGTT u kobiet z czynnikami ryzyka GDM.
+7. Badanie VDRL.
+8. Zalecenie kontroli stomatologicznej.
+9. Badanie HIV i HCV.
+10. Badanie w kierunku toksoplazmozy (IgG, IgM), o ile ciężarna nie przedstawi wyniku potwierdzającego występowanie przeciwciał IgG sprzed ciąży.
+11. Badanie w kierunku różyczki (IgG, IgM), o ile ciężarna nie chorowała lub nie była szczepiona lub w przypadku braku informacji.
+12. Oznaczenie TSH. 11–14 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe.
+2. Pomiar ciśnienia tętniczego krwi.
+3. Pomiar masy ciała.
+4. Ocena ryzyka ciążowego.
+5. Ocena ryzyka i nasilenia objawów depresji.
+6. Propagowanie zdrowego stylu życia. Badanie ultrasonograficzne zgodnie z rekomendacjami Polskiego Towarzystwa Ginekologów i Położników (PTGiP). 15–20 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe.
+2. Pomiar ciśnienia tętniczego krwi.
+3. Pomiar masy ciała.
+4. Ocena ryzyka ciążowego.
+5. Propagowanie zdrowego stylu życia. 1. Morfologia krwi.
+2. Badanie ogólne moczu. 18–22 tydzień ciąży Badanie ultrasonograficzne zgodnie z rekomendacjami PTGiP. 21–26 tydzień ciąży Rozpoczęcie edukacji przedporodowej. 21–26 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe.
+2. Ocena czynności serca płodu.
+3. Pomiar ciśnienia tętniczego krwi.
+4. Pomiar masy ciała.
+5. Ocena ryzyka ciążowego.
+6. Propagowanie zdrowego stylu życia.
+7. W przypadku opieki sprawowanej przez położną konsultacja lekarza położnika (24–26 tydzień ciąży). 1. Badanie stężenia glukozy we krwi po doustnym podaniu 75 g glukozy (w 24–26 tygodniu ciąży) – trzypunktowe oznaczenie stężenia glukozy: przed podaniem glukozy (na czczo), po 1 i 2 godz. od podania glukozy.
+2. Badanie ogólne moczu.
+3. Przeciwciała anty-D u kobiet Rh (-).
+4. U kobiet z ujemnym wynikiem w I trymestrze – badanie w kierunku toksoplazmozy (IgM). 27–32 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe.
+2. Ocena czynności serca płodu.
+3. Pomiar ciśnienia tętniczego krwi.
+4. Pomiar masy ciała.
+5. Ocena ryzyka ciążowego.
+6. Propagowanie zdrowego stylu życia. 1. Morfologia krwi.
+2. Badanie ogólne moczu.
+3. Przeciwciała anty-D u kobiet Rh (-).
+4. Badanie ultrasonograficzne zgodnie z rekomendacjami PTGiP.
+5. W przypadku występowania wskazań – podanie immunoglobuliny anty-D (28–30 tydzień ciąży). 33–37 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe.
+2. Badanie położnicze.
+3. Ocena wymiarów miednicy.
+4. Ocena czynności serca płodu.
+5. Pomiar ciśnienia tętniczego krwi.
+6. Ocena ruchów płodu.
+7. Badanie gruczołów sutkowych.
+8. Pomiar masy ciała.
+9. Ocena ryzyka ciążowego.
+10. Ocena ryzyka i nasilenia objawów depresji.
+11. Propagowanie zdrowego stylu życia. 1. Morfologia krwi.
+2. Badanie ogólne moczu.
+3. Badanie antygenu HBs.
+4. Badanie HIV.
+5. Posiew z pochwy i odbytu w kierunku paciorkowców B-hemolizujących (35–37 tydzień ciąży).
+6. Badanie VDRL, HCV w grupie kobiet ze zwiększonym populacyjnym lub indywidualnym ryzykiem zakażenia. 38–39 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe.
+2. Badanie położnicze.
+3. Ocena ruchów płodu.
+4. Ocena czynności serca płodu.
+5. Pomiar ciśnienia tętniczego krwi.
+6. Pomiar masy ciała.
+7. Ocena ryzyka ciążowego.
+8. Propagowanie zdrowego stylu życia.
+9. W przypadku opieki sprawowanej przez położną konsultacja lekarza położnika. 1. Badanie ogólne moczu.
+2. Morfologia krwi. Niezwłocznie po 40. tygodniu ciąży 1. Badanie podmiotowe i przedmiotowe.
+2. Badanie położnicze.
+3. Ocena ruchów płodu.
+4. Pomiar ciśnienia tętniczego krwi.
+5. Pomiar masy ciała.
+6. Ocena ryzyka ciążowego.
+7. Przy prawidłowym wyniku KTG i USG oraz przy prawidłowym odczuwaniu ruchów płodu – kolejne badanie za 7 dni, z ponownym KTG i USG. W trakcie tej wizyty należy ustalić datę hospitalizacji, tak aby poród miał miejsce przed końcem 42. tygodnia. W przypadku odstępstw od normy – indywidualizacja postępowania. 1. Badanie KTG.
+2. Badanie ultrasonograficzne zgodnie z rekomendacjami PTGiP.
+Osoba sprawująca opiekę:
 1)
 jeżeli nie jest położną podstawowej opieki zdrowotnej, informuje kobietę o możliwości korzystania z opieki położnej podstawowej opieki zdrowotnej oraz kieruje w okresie pomiędzy ukończonym 21. a 26. tygodniem ciąży w celu objęcia edukacją przedporodową oraz opieką sprawowaną nad nią i dzieckiem w miejscu, w którym będą przebywali po porodzie;
 2)
 odnotowuje w dokumentacji medycznej ciężarnej fakt skierowania do objęcia opieką przez położną podstawowej opieki zdrowotnej; położna podstawowej opieki zdrowotnej potwierdza objęcie kobiety opieką w czasie ciąży i po porodzie przez wpis do planu opieki przedporodowej i karty przebiegu ciąży swoich danych lub danych podmiotu wykonującego działalność leczniczą w zakresie podstawowej opieki zdrowotnej, w tym: numer telefonu kontaktowego i faksu lub adres poczty elektronicznej;
 3)
-może zlecić wykonanie dodatkowych świadczeń zdrowotnych o charakterze profilaktycznym lub diagnostycznym, jeżeli stan zdrowia ciężarnej lub wyniki wcześniej przeprowadzonych badań wskazują na możliwość wystąpienia powikłań lub patologii ciąży, porodu lub połogu.
-Kobieta w okresie fizjologicznej ciąży powinna być konsultowana nie rzadziej niż co 3–4 tygodnie w zależności od zaawansowania ciąży, w uzasadnionych przypadkach częściej.
+może zlecić wykonanie dodatkowych świadczeń zdrowotnych o charakterze profilaktycznym lub diagnostycznym, jeżeli stan zdrowia ciężarnej lub wyniki wcześniej przeprowadzonych badań wskazują na możliwość wystąpienia powikłań lub patologii ciąży, porodu lub połogu. Kobieta w okresie fizjologicznej ciąży powinna być konsultowana nie rzadziej niż co 3–4 tygodnie w zależności od zaawansowania ciąży, w uzasadnionych przypadkach częściej.
 III.
 Identyfikacja czynników ryzyka powikłań okołoporodowych
 1.

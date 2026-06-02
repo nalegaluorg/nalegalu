@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 9 lutego 2011 r. w sprawie równoważnika pieniężnego w zamian za umundurowanie oraz za czyszczenie chemiczne umundurowania dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 157), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 6 lutego 2023 r. zmieniającym rozporządzenie w sprawie równoważnika pieniężnego w zamian za umundurowanie oraz za czyszczenie chemiczne umundurowania dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 266).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 6 lutego 2023 r. zmieniającego rozporządzenie w sprawie równoważnika pieniężnego w zamian za umundurowanie oraz za czyszczenie chemiczne umundurowania dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 266), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 6 lutego 2023 r. zmieniającego rozporządzenie w sprawie równoważnika pieniężnego w zamian za umundurowanie oraz za czyszczenie chemiczne umundurowania dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 266), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 9 lutego 2011 r. w sprawie równoważnika pieniężnego w zamian za umundurowanie oraz za czyszczenie chemiczne umundurowania dla funkcjonariuszy Służby Więziennej
 Na podstawie art. 156 ust. 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2023 r. poz. 1683 i 1860 oraz z 2024 r. poz. 1222) zarządza się, co następuje:
 § 1.
@@ -46,7 +44,7 @@ Funkcjonariusz w służbie stałej:
 1)
 w korpusie oficerów Służby Więziennej otrzymuje równoważnik pieniężny w zamian za umundurowanie w wysokości:
 a)
-generał i generał inspektor:
+generał i generał inspektor:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 6 lutego 2023 r. zmieniającego rozporządzenie w sprawie równoważnika pieniężnego w zamian za umundurowanie oraz za czyszczenie chemiczne umundurowania dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 266), które weszło w życie z dniem 10 lutego 2023 r.
 – mężczyzna – 3838,06 zł,
 – kobieta – 3887,93 zł,
 b)
@@ -77,7 +75,7 @@ Funkcjonariusz w służbie przygotowawczej:
 1)
 w korpusie oficerów Służby Więziennej otrzymuje równoważnik pieniężny w zamian za umundurowanie w wysokości:
 a)
-generał i generał inspektor:
+generał i generał inspektor:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
 – mężczyzna – 3193,86 zł,
 – kobieta – 3231,92 zł,
 b)
@@ -128,6 +126,5 @@ W przypadku wypłaty równoważnika pieniężnego w zamian za umundurowanie prze
 § 7.
 Przepisy rozporządzenia określające wysokość i otrzymywanie równoważnika pieniężnego w zamian za umundurowanie oraz równoważnika pieniężnego za czyszczenie chemiczne umundurowania stosuje się od dnia 1 kwietnia 2011 r.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 12 lutego 2011 r.
-1) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 6 lutego 2023 r. zmieniającego rozporządzenie w sprawie równoważnika pieniężnego w zamian za umundurowanie oraz za czyszczenie chemiczne umundurowania dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 266), które weszło w życie z dniem 10 lutego 2023 r. 2) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 9 maja 2002 r. w sprawie równoważnika pieniężnego w zamian za umundurowanie oraz za czyszczenie chemiczne umundurowania dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 617, z 2003 r. poz. 610 oraz z 2007 r. poz. 1295), które na podstawie art. 272 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. poz. 523, 1228 i 1578) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem 12 lutego 2011 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 9 maja 2002 r. w sprawie równoważnika pieniężnego w zamian za umundurowanie oraz za czyszczenie chemiczne umundurowania dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 617, z 2003 r. poz. 610 oraz z 2007 r. poz. 1295), które na podstawie art. 272 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. poz. 523, 1228 i 1578) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 6 lutego 2023 r. zmieniającego rozporządzenie w sprawie równoważnika pieniężnego w zamian za umundurowanie oraz za czyszczenie chemiczne umundurowania dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 266), które weszło w życie z dniem 10 lutego 2023 r. 2) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 9 maja 2002 r. w sprawie równoważnika pieniężnego w zamian za umundurowanie oraz za czyszczenie chemiczne umundurowania dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 617, z 2003 r. poz. 610 oraz z 2007 r. poz. 1295), które na podstawie art. 272 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. poz. 523, 1228 i 1578) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
 

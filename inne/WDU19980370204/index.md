@@ -22,24 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1998-02-06 |
 | Data wydania | 1998-03-24 |
-| Wejście w życie | 1998-03-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19980370204) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/204/text.pdf) |
 
+Źródła i sposób finansowania niektórych świadczeń”;
 5)
 w art. 23:
 a)
-w ust. 3 pkt 1 otrzymuje brzmienie:
-„
+w ust. 3 pkt 1 otrzymuje brzmienie: „
 1)
-pomoc pieniężną, o której mowa w art. 19, wraz z kosztami jej obsługi, które mogą wynosić do 15% wartości tej pomocy,
-”
+pomoc pieniężną, o której mowa w art. 19, wraz z kosztami jej obsługi, które mogą wynosić do 15% wartości tej pomocy, ”
 b)
-po ust. 3 dodaje się ust. 3a w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a w brzmieniu: „
 3a.
-Środki funduszu przeznaczone na pomoc realizowaną przez kierownika ośrodka pomocy społecznej Kierownik Urzędu do Spraw Kombatantów i Osób Represjonowanych przekazuje na konto wojewódzkich zespołów pomocy społecznej. Pierwsza rata przekazywana jest do dnia 15 lutego każdego roku. Do dnia 1 marca każdego roku dyrektor wojewódzkiego zespołu pomocy społecznej dokonuje podziału środków i przekazuje je na konto ośrodka pomocy społecznej.
-”
+Środki funduszu przeznaczone na pomoc realizowaną przez kierownika ośrodka pomocy społecznej Kierownik Urzędu do Spraw Kombatantów i Osób Represjonowanych przekazuje na konto wojewódzkich zespołów pomocy społecznej. Pierwsza rata przekazywana jest do dnia 15 lutego każdego roku. Do dnia 1 marca każdego roku dyrektor wojewódzkiego zespołu pomocy społecznej dokonuje podziału środków i przekazuje je na konto ośrodka pomocy społecznej. ”
 
 **Art. 1.** W ustawie z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 1997 r. Nr 142, poz. 950) wprowadza się następujące zmiany:
 
@@ -66,7 +62,7 @@ po ust. 3 dodaje się ust. 3a w brzmieniu:
 
 - **4)** tytuł rozdziału 6 otrzymuje brzmienie: „
 
-#### Rozdział 6. Źródła i sposób finansowania niektórych świadczeń”;
+#### Rozdział 6.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1998 r., z tym że art. 23 ust. 3a ustawy, o której mowa w art. 1, wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

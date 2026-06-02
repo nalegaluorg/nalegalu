@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-05-22 |
 | Data wydania | 2009-06-23 |
-| Wejście w życie | 2009-12-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090970803) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/803/text.pdf) |
 
@@ -88,7 +87,7 @@ source: "eli-html"
 
 - **1)** wykonywania uprawnień, o których mowa w art. 12,
 - **2)** użycia broni palnej bojowej oraz środków przymusu bezpośredniego,
-- **3)** ewidencji, o której mowa w art. 9a ust. 1 sprawuje wojewoda przy pomocy komendanta wojewódzkiego (Stołecznego) Policji działającego w jego imieniu.
+- **3)** ewidencji, o której mowa w art. 9a ust. 1 – sprawuje wojewoda przy pomocy komendanta wojewódzkiego (Stołecznego) Policji działającego w jego imieniu.
 
 3. Wojewoda sprawuje nadzór przez:
 
@@ -152,8 +151,14 @@ source: "eli-html"
 
 3. Rada Ministrów określi, w drodze rozporządzenia, sposób wykonywania czynności, o których mowa w ust. 2, uwzględniając potrzebę zapewnienia skuteczności obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych, a także potrzebę respektowania godności ludzkiej oraz przestrzegania i ochrony praw człowieka. ” ;
 
-- **12)** w art. 12: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) udzielania pouczeń, zwracania uwagi, ostrzegania lub stosowania innych środków oddziaływania wychowawczego, ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) dokonywania kontroli osobistej, przeglądania zawartości podręcznych bagaży osoby: a) w przypadku istnienia uzasadnionego podejrzenia popełnienia czynu zabronionego pod groźbą kary, b) w związku z wykonywaniem czynności określonych w ust. 1 pkt 3, c) w związku z wykonywaniem czynności określonych w art. 11 pkt 7, jeśli zachodzi uzasadnione podejrzenie, że osoba, wobec której czynności te są podejmowane, posiada przy sobie niebezpieczne przedmioty dla życia lub zdrowia ludzkiego. ” – uchyla się pkt 10, po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+- **12)** w art. 12: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** udzielania pouczeń, zwracania uwagi, ostrzegania lub stosowania innych środków oddziaływania wychowawczego, ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** dokonywania kontroli osobistej, przeglądania zawartości podręcznych bagaży osoby: w przypadku istnienia uzasadnionego podejrzenia popełnienia czynu zabronionego pod groźbą kary, w związku z wykonywaniem czynności określonych w ust. 1 pkt 3, w związku z wykonywaniem czynności określonych w art. 11 pkt 7, jeśli zachodzi uzasadnione podejrzenie, że osoba, wobec której czynności te są podejmowane, posiada przy sobie niebezpieczne przedmioty dla życia lub zdrowia ludzkiego. ” – uchyla się pkt 10, po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
     - **b)**
 
 1a. Straż w toku wykonywania czynności, o których mowa w ust. 1 i art. 11 ust. 2, ma obowiązek respektowania godności ludzkiej oraz przestrzegania i ochrony praw człowieka. Czynności te powinny być wykonywane w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której zostają podjęte.
@@ -186,7 +191,7 @@ source: "eli-html"
 - **2)** kajdanki,
 - **3)** pałki obronne wielofunkcyjne,
 - **4)** psy i konie służbowe,
-- **5)** przedmioty przeznaczone do obezwładniania osób za pomocą energii elektrycznej, na które jest wymagane pozwolenie na broń w rozumieniu przepisów ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2004 r. Nr 52, poz. 525, z późn. zm.),
+- **5)** przedmioty przeznaczone do obezwładniania osób za pomocą energii elektrycznej, na które jest wymagane pozwolenie na broń w rozumieniu przepisów ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2004 r. Nr 52, poz. 525, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 176, poz. 1238 oraz z 2008 r. Nr 195, poz. 1199.),
 - **6)** przedmioty przeznaczone do obezwładniania osób za pomocą energii elektrycznej, na które nie jest wymagane pozwolenie na broń w rozumieniu przepisów ustawy z dnia 21 maja 1999 r. o broni i amunicji,
 - **7)** ręczne miotacze gazu. ” ;
 - **15)** po art. 14 dodaje się art. 14a-14h w brzmieniu: „
@@ -207,7 +212,7 @@ source: "eli-html"
 
 3. Kajdanki zakłada się tak, aby nie tamowały obiegu krwi.
 
-4. Nie stosuje się kajdanek wobec osób, które nie ukończyły 17 lat, z wyjątkiem nieletnich w wieku powyżej 15 lat podejrzanych o popełnienie czynu zabronionego wymienionego w art. 10 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.).
+4. Nie stosuje się kajdanek wobec osób, które nie ukończyły 17 lat, z wyjątkiem nieletnich w wieku powyżej 15 lat podejrzanych o popełnienie czynu zabronionego wymienionego w art. 10 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344 oraz z 2009 r. Nr 62, poz. 504 i Nr 63, poz. 533.).
 
 1. Pałka obronna wielofunkcyjna może być stosowana w przypadku:
 
@@ -294,7 +299,7 @@ source: "eli-html"
 
 1. Strażnicy oraz osoby ubiegające się o przyjęcie do pracy w charakterze strażnika podlegają obowiązkowym badaniom lekarskim i psychologicznym.
 
-2. Do przeprowadzania badań lekarskich stosuje się odpowiednio art. 229 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.).
+2. Do przeprowadzania badań lekarskich stosuje się odpowiednio art. 229 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458 i Nr 58, poz. 485.).
 
 3. Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi, w drodze rozporządzenia, zakres i tryb przeprowadzania badań psychologicznych osób, o których mowa w ust. 1, oraz podmioty uprawnione do przeprowadzania badań psychologicznych, uwzględniając potrzebę prawidłowego stwierdzenia przez psychologa istnienia lub braku przeciwwskazań psychologicznych do wykonywania czynności strażnika. ” ;
 
@@ -346,9 +351,9 @@ source: "eli-html"
 
 6. W przypadku naruszenia prawa do odpoczynku, o którym mowa w ust. 3, w sytuacjach wskazanych w ust. 4 strażnikowi przysługuje, w okresie rozliczeniowym, równoważny okres odpoczynku. ” .
 
-**Art. 2.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2007 r. Nr 43, poz. 277, z późn. zm.) w art. 1 w ust. 2 pkt 5 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2007 r. Nr 43, poz. 277, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651 oraz z 2009 r. Nr 22, poz. 120, Nr 62, poz. 504 i Nr 85, poz. 716.) w art. 1 w ust. 2 pkt 5 otrzymuje brzmienie: „
 
-- **5)** nadzór nad specjalistycznymi uzbrojonymi formacjami ochronnymi w zakresie określonym w odrębnych przepisach; ” . W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.) w art. 53 w ust. 1 po pkt 10b dodaje się pkt 10c w brzmieniu: „
-- **10c)** straży gminnych (miejskich); ” . Dotychczasowe przepisy wykonawcze, wydane na podstawie art. 9 ust. 2, art. 12 ust. 2, art. 14 ust. 5, art. 24a ust. 2 i art. 25 ust. 4 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9 ust. 6, art. 9 ust. 7, art. 11 ust. 3, art. 12 ust. 2, art. 14h, art. 24a ust. 3 i art. 25 ust. 5 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy. Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+- **5)** nadzór nad specjalistycznymi uzbrojonymi formacjami ochronnymi w zakresie określonym w odrębnych przepisach; ” . W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238, z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015, Nr 209, poz. 1320, Nr 220, poz. 1411 i 1426, Nr 223, poz. 1461 i 1462 i Nr 234, poz. 1573 i 1574 oraz z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 79, poz. 663, Nr 91, poz. 739, Nr 92, poz. 753 i Nr 97, poz. 802.) w art. 53 w ust. 1 po pkt 10b dodaje się pkt 10c w brzmieniu: „
+- **10c)** straży gminnych (miejskich); ” . Dotychczasowe przepisy wykonawcze, wydane na podstawie art. 9 ust. 2, art. 12 ust. 2, art. 14 ust. 5, art. 24a ust. 2 i art. 25 ust. 4 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9 ust. 6, art. 9 ust. 7, art. 11 ust. 3, art. 12 ust. 2, art. 14h, art. 24a ust. 3 i art. 25 ust. 5 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy. Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 176, poz. 1238 oraz z 2008 r. Nr 195, poz. 1199. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344 oraz z 2009 r. Nr 62, poz. 504 i Nr 63, poz. 533. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458 i Nr 58, poz. 485. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651 oraz z 2009 r. Nr 22, poz. 120, Nr 62, poz. 504 i Nr 85, poz. 716. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238, z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015, Nr 209, poz. 1320, Nr 220, poz. 1411 i 1426, Nr 223, poz. 1461 i 1462 i Nr 234, poz. 1573 i 1574 oraz z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 79, poz. 663, Nr 91, poz. 739, Nr 92, poz. 753 i Nr 97, poz. 802.
 
 

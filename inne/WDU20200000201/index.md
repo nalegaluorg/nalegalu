@@ -28,28 +28,29 @@ source: "eli-html"
 Treść obwieszczenia
 Załącznik – Tekst jednolity rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 9 września 2010 r. w sprawie statutu Narodowego Centrum Badań i Rozwoju
 
-## Załącznik nr 1 — – Statut Narodowego Centrum Badań i Rozwoju Rozdział 1 – Postanowienia ogólne Rozdział 2 – Szczegółowy zakres zadań i tryb pracy organów Centrum Rozdział 3 – Organizacja Biura Centrum
+## Załącznik nr 1 — – Statut Narodowego Centrum Badań i Rozwoju
 
+Rozdział 1 – Postanowienia ogólne
+Rozdział 2 – Szczegółowy zakres zadań i tryb pracy organów Centrum
+Rozdział 3 – Organizacja Biura Centrum
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 9 września 2010 r. w sprawie statutu Narodowego Centrum Badań i Rozwoju (Dz. U. poz. 1153), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 3 grudnia 2018 r. zmieniającym rozporządzenie w sprawie statutu Narodowego Centrum Badań i Rozwoju (Dz. U. poz. 2293).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 3 grudnia 2018 r. zmieniającego rozporządzenie w sprawie statutu Narodowego Centrum Badań i Rozwoju (Dz. U. poz. 2293), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 3 grudnia 2018 r. zmieniającego rozporządzenie w sprawie statutu Narodowego Centrum Badań i Rozwoju (Dz. U. poz. 2293), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Tekst jednolity rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 9 września 2010 r. w sprawie statutu Narodowego Centrum Badań i Rozwoju
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 9 września 2010 r. w sprawie statutu Narodowego Centrum Badań i RozwojuMinister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2255).
 Na podstawie art. 1 ust. 5 ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. z 2019 r. poz. 1770 i 2020) zarządza się, co następuje:
 § 1.
 Narodowemu Centrum Badań i Rozwoju nadaje się statut, stanowiący załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 października 2010 r.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2255). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 2 sierpnia 2007 r. w sprawie nadania statutu Narodowemu Centrum Badań i Rozwoju (Dz. U. poz. 1049), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, w związku z wejściem w życie ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. poz. 616).
+Rozporządzenie wchodzi w życie z dniem 1 października 2010 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 2 sierpnia 2007 r. w sprawie nadania statutu Narodowemu Centrum Badań i Rozwoju (Dz. U. poz. 1049), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, w związku z wejściem w życie ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. poz. 616). 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2255). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 2 sierpnia 2007 r. w sprawie nadania statutu Narodowemu Centrum Badań i Rozwoju (Dz. U. poz. 1049), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, w związku z wejściem w życie ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. poz. 616).
 
 ## Załącznik nr 1 — – Statut Narodowego Centrum Badań i Rozwoju
 
-Rozdział 1 Postanowienia ogólne
+Rozdział 1
+Postanowienia ogólne
 § 1.
 1.
 Narodowe Centrum Badań i Rozwoju, zwane dalej „Centrum”, działa na podstawie ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. z 2019 r. poz. 1770 i 2020), zwanej dalej „ustawą”, oraz niniejszego statutu.
@@ -61,13 +62,14 @@ szczegółowy zakres zadań i tryb pracy organów Centrum, o których mowa w art
 organizację Biura Centrum;
 3)
 wartość majątku, powyżej której rozporządzanie nim przez Dyrektora Centrum wymaga zgody Rady Centrum, zwanej dalej „Radą”.
-Rozdział 2 Szczegółowy zakres zadań i tryb pracy organów Centrum
+Rozdział 2
+Szczegółowy zakres zadań i tryb pracy organów Centrum
 § 2.
 1.
 Dyrektor Centrum, zwany dalej „Dyrektorem”, kieruje działalnością Centrum i reprezentuje je na zewnątrz oraz wykonuje inne zadania określone w ustawie.
 2.
 Do zadań Dyrektora należy:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 3 grudnia 2018 r. zmieniającego rozporządzenie w sprawie statutu Narodowego Centrum Badań i Rozwoju (Dz. U. poz. 2293), które weszło w życie z dniem 25 grudnia 2018 r.)
 przygotowanie i przedstawienie do zatwierdzenia ministrowi właściwemu do spraw szkolnictwa wyższego i nauki, zwanemu dalej „Ministrem”, projektu rocznego planu działalności Centrum;
 2)
 przygotowanie i, po uzyskaniu pozytywnej opinii Rady, przedstawienie Ministrowi do zatwierdzenia projektu rocznego planu finansowego Centrum i planu finansowego w układzie zadaniowym na dany rok obrotowy oraz na 2 kolejne lata, z uwzględnieniem terminów określanych przez ministra właściwego do spraw finansów publicznych dla przedłożenia materiałów do projektu ustawy budżetowej;
@@ -161,7 +163,7 @@ Protokoły oraz uchwały Rady przechowuje się w Biurze Centrum.
 4.
 Obsługę Rady wykonuje Biuro Centrum.
 § 8.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3..
 Komitet Sterujący do spraw badań naukowych i prac rozwojowych w obszarze bezpieczeństwa i obronności państwa, zwany dalej „Komitetem Sterującym”, koordynuje realizację badań naukowych lub prac rozwojowych na rzecz obronności i bezpieczeństwa państwa.
 2.
 Do zadań Komitetu Sterującego należy:
@@ -197,7 +199,8 @@ Przewodniczący Komitetu Sterującego zatwierdza protokół posiedzenia Komitetu
 Protokoły oraz uchwały Komitetu Sterującego przechowuje się w Biurze Centrum.
 4.
 Obsługę Komitetu Sterującego wykonuje Biuro Centrum.
-Rozdział 3 Organizacja Biura Centrum
+Rozdział 3
+Organizacja Biura Centrum
 § 11.
 1.
 W skład Biura Centrum wchodzą:
@@ -209,7 +212,7 @@ b)
 instrumentów wsparcia inwestycji gospodarczych,
 c)
 transferu wyników badań naukowych i prac rozwojowych do gospodarki,
-d)
+dW brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3.)
 zarządzania programami badań aplikacyjnych,
 e)
 zarządzania programami obejmującymi finansowanie badań naukowych lub prac rozwojowych oraz działań przygotowujących do wdrożenia wyniki badań naukowych lub prac rozwojowych,
@@ -238,5 +241,5 @@ Bezpośredni nadzór nad komórką właściwą do spraw finansowo-księgowych sp
 4.
 Dyrektor może tworzyć samodzielne stanowiska pracy lub zespoły problemowe o charakterze stałym lub doraźnym, określając nazwę, skład osobowy zespołu, zakres zadań i tryb pracy.
 5.
-Szczegółową organizację i sposób działania Biura Centrum, w tym nazwy oraz zadania komórek organizacyjnych, określa regulamin organizacyjny Biura Centrum nadawany przez Dyrektora.
+Szczegółową organizację i sposób działania Biura Centrum, w tym nazwy oraz zadania komórek organizacyjnych, określa regulamin organizacyjny Biura Centrum nadawany przez Dyrektora. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 3 grudnia 2018 r. zmieniającego rozporządzenie w sprawie statutu Narodowego Centrum Badań i Rozwoju (Dz. U. poz. 2293), które weszło w życie z dniem 25 grudnia 2018 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3.
 

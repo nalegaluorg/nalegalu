@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-30 |
 | Data wydania | 2018-12-19 |
-| Wejście w życie | 2019-01-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002360) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2360/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 96 ust. 10 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2017 r. poz. 2211, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 96 ust. 10 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2017 r. poz. 2211, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544, 1629, 1637, 1669 i 2227.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób:
 1)
@@ -119,5 +118,5 @@ datę i godzinę wydania leku recepturowego lub aptecznego;
 5)
 podpis i dane identyfikujące osobę wydającą nanoszone za pomocą nadruku albo pieczątki.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 21 listopada 2016 r. w sprawie realizacji recept farmaceutycznych lub zapotrzebowań w aptekach szpitalnych i zakładowych podległych Ministrowi Sprawiedliwości oraz wydawania produktów leczniczych z tych aptek (Dz. U. poz. 1960), które utraciło moc z dniem 18 kwietnia 2018 r. w związku z wejściem w życie ustawy z dnia 1 marca 2018 r. o zmianie niektórych ustaw w związku z wprowadzeniem e-recepty (Dz. U. poz. 697). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544, 1629, 1637, 1669 i 2227. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 21 listopada 2016 r. w sprawie realizacji recept farmaceutycznych lub zapotrzebowań w aptekach szpitalnych i zakładowych podległych Ministrowi Sprawiedliwości oraz wydawania produktów leczniczych z tych aptek (Dz. U. poz. 1960), które utraciło moc z dniem 18 kwietnia 2018 r. w związku z wejściem w życie ustawy z dnia 1 marca 2018 r. o zmianie niektórych ustaw w związku z wprowadzeniem e-recepty (Dz. U. poz. 697).
 

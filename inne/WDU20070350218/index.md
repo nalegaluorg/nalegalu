@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-01-26 |
 | Data wydania | 2007-02-27 |
-| Wejście w życie | 2007-03-14 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070350218) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/218/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2004 r. Nr 208, poz. 2128, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2004 r. Nr 208, poz. 2128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2772, z 2005 r. Nr 132, poz. 1110, Nr 163, poz. 1362, Nr 167, poz. 1398, Nr 169, poz. 1420 i Nr 175, poz. 1459 oraz z 2006 r. Nr 104, poz. 708, Nr 141, poz. 997, Nr 170, poz. 1217, Nr 195, poz. 1437 i Nr 249, poz. 1832.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 ust. 2 otrzymuje brzmienie: „
 
@@ -85,7 +84,7 @@ source: "eli-html"
 - **11)** w art. 24: ust. 7a otrzymuje brzmienie: „
     - **a)**
 
-7a. Prezes Agencji, na wniosek ministra właściwego do spraw rozwoju wsi w porozumieniu z ministrem właściwym do spraw gospodarki, może nieodpłatnie, w drodze umowy, przekazać na własność zarządzającemu specjalną strefą ekonomiczną w rozumieniu ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. Nr 123, poz. 600, z późn. zm.) nieruchomości wchodzące w skład Zasobu, przeznaczone w miejscowym planie zagospodarowania przestrzennego na cele inwestycyjne. Koszty związane z przygotowaniem geodezyjnym i prawnym nieruchomości ponosi zarządzający. ” , ust. 8 otrzymuje brzmienie: „
+7a. Prezes Agencji, na wniosek ministra właściwego do spraw rozwoju wsi w porozumieniu z ministrem właściwym do spraw gospodarki, może nieodpłatnie, w drodze umowy, przekazać na własność zarządzającemu specjalną strefą ekonomiczną w rozumieniu ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. Nr 123, poz. 600, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 121, poz. 770, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 117, poz. 1228, z 2002 r. Nr 113, poz. 984 i Nr 240, poz. 2055, z 2003 r. Nr 188, poz. 1840, z 2004 r. Nr 123, poz. 1291, z 2005 r. Nr 167, poz. 1398 oraz z 2006 r. Nr 141, poz. 997.) nieruchomości wchodzące w skład Zasobu, przeznaczone w miejscowym planie zagospodarowania przestrzennego na cele inwestycyjne. Koszty związane z przygotowaniem geodezyjnym i prawnym nieruchomości ponosi zarządzający. ” , ust. 8 otrzymuje brzmienie: „
 
 - **b)**
 
@@ -109,7 +108,7 @@ source: "eli-html"
 
 8. Minister właściwy do spraw rozwoju wsi, po zasięgnięciu opinii Prezesa Agencji, określi, w drodze rozporządzenia, sposób ustalania wysokości czynszu dzierżawnego w umowach zawieranych ze spółkami, o których mowa w art. 39 ust. 2 pkt 5 i ust. 3, w zależności od potencjału produkcyjnego przedmiotu dzierżawy, w szczególności w zależności od rodzaju i klasy gruntów oraz miejsca ich położenia, wartości księgowej budynków i budowli, charakteru możliwej do prowadzenia działalności gospodarczej. ” .
 
-**Art. 2.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2003 r. Nr 159, poz. 1548, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2003 r. Nr 159, poz. 1548, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 162, poz. 1568 i Nr 190, poz. 1864, z 2004 r. Nr 19, poz. 177, Nr 69, poz. 624, Nr 91, poz. 873, Nr 96, poz. 959, Nr 116, poz. 1206, Nr 238, poz. 2390 i Nr 273, poz. 2702, z 2005 r. Nr 17, poz. 141, Nr 33, poz. 288, Nr 155, poz. 1298, Nr 169, poz. 1414 i 1417 i Nr 267, poz. 2258, z 2006 r. Nr 45, poz. 319, Nr 75, poz. 519, Nr 104, poz. 708, Nr 143, poz. 1027, Nr 144, poz. 1045, Nr 157, poz. 1119, Nr 170, poz. 1218, Nr 220, poz. 1600 i Nr 249, poz. 1829 oraz z 2007 r. Nr 21, poz. 125.) wprowadza się następujące zmiany:
 
 - **1)** w art. 23: ust. 3 otrzymuje brzmienie: „
     - **a)**
@@ -121,5 +120,5 @@ source: "eli-html"
 
 **Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 37 oraz art. 39a ust. 1 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 37 oraz art. 39a ust. 1 tej ustawy, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2772, z 2005 r. Nr 132, poz. 1110, Nr 163, poz. 1362, Nr 167, poz. 1398, Nr 169, poz. 1420 i Nr 175, poz. 1459 oraz z 2006 r. Nr 104, poz. 708, Nr 141, poz. 997, Nr 170, poz. 1217, Nr 195, poz. 1437 i Nr 249, poz. 1832. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 121, poz. 770, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 117, poz. 1228, z 2002 r. Nr 113, poz. 984 i Nr 240, poz. 2055, z 2003 r. Nr 188, poz. 1840, z 2004 r. Nr 123, poz. 1291, z 2005 r. Nr 167, poz. 1398 oraz z 2006 r. Nr 141, poz. 997. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 162, poz. 1568 i Nr 190, poz. 1864, z 2004 r. Nr 19, poz. 177, Nr 69, poz. 624, Nr 91, poz. 873, Nr 96, poz. 959, Nr 116, poz. 1206, Nr 238, poz. 2390 i Nr 273, poz. 2702, z 2005 r. Nr 17, poz. 141, Nr 33, poz. 288, Nr 155, poz. 1298, Nr 169, poz. 1414 i 1417 i Nr 267, poz. 2258, z 2006 r. Nr 45, poz. 319, Nr 75, poz. 519, Nr 104, poz. 708, Nr 143, poz. 1027, Nr 144, poz. 1045, Nr 157, poz. 1119, Nr 170, poz. 1218, Nr 220, poz. 1600 i Nr 249, poz. 1829 oraz z 2007 r. Nr 21, poz. 125.
 

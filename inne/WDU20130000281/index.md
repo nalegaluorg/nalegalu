@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 11 lutego 2013 r. w sprawie wymagań dotyczących rozruchu i eksploatacji obiektów jądrowych
+# Rozporządzenie Rady Ministrówz dnia 11 lutego 2013 r. w sprawie wymagań dotyczących rozruchu i eksploatacji obiektów jądrowych Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2009/71/Euratom z dnia 25 czerwca 2009 r. ustanawiającej wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 172 z 02.07.2009, str. 18 oraz Dz. Urz. UE L 260 z 03.10.2009, str. 40).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-02-11 |
 | Data wydania | 2013-03-01 |
-| Wejście w życie | 2013-03-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000281) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/281/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Wymagania wspólne dla rozruchu i eksploatacji obiektu jądrowego Rozdział 3 – Rozruch obiektu jądrowego Rozdział 4 – Eksploatacja obiektu jądrowego Rozdział 5 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 38 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2012 r. poz. 264 i 908) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
@@ -74,6 +74,7 @@ a)
 pierwotną obudowę bezpieczeństwa reaktora,
 b)
 część systemów i elementów wyposażenia obiektu jądrowego połączonych z granicą ciśnieniową obiegu chłodzenia reaktora lub z przestrzenią pierwotnej obudowy bezpieczeństwa reaktora, które w razie awarii mogą przenosić skażone płyny poza pierwotną obudowę bezpieczeństwa reaktora.
+Wymagania wspólne dla rozruchu i eksploatacji obiektu jądrowego
 § 2.
 1.
 Rozruch i eksploatację obiektu jądrowego prowadzi się zgodnie z limitami i warunkami eksploatacyjnymi.
@@ -232,6 +233,7 @@ Pełne wdrożenie procedur awaryjnych w elektrowni jądrowej i reaktorze badawcz
 Aparatura pomiarowa, narzędzia, urządzenia, dokumentacja i środki łączności przewidziane do użycia w sytuacjach awaryjnych są dostępne oraz utrzymywane w dobrym stanie technicznym i przechowywane w taki sposób, żeby nie zostały one uszkodzone lub nie stały się niedostępne na skutek awarii.
 § 21.
 Sposoby zapewnienia minimalizacji zagrożeń niezwiązanych z promieniowaniem jonizującym dla pracowników obiektu jądrowego, pracowników zewnętrznych oraz innych osób wchodzących na teren obiektu jądrowego opisuje się w programie minimalizacji zagrożeń opracowanym przez kierownika jednostki organizacyjnej posiadającej zezwolenie na rozruch lub eksploatację obiektu jądrowego.
+Rozruch obiektu jądrowego
 § 22.
 W programie rozruchu obiektu jądrowego, o którym mowa w art. 37a ust. 2 ustawy, określa się:
 1)
@@ -444,6 +446,7 @@ wskazanie limitów i warunków eksploatacyjnych obiektu jądrowego, zweryfikowan
 podsumowanie i wnioski końcowe.
 2.
 Do raportu z rozruchu mogą być załączone raporty, o których mowa w § 31 ust. 1 pkt 5.
+Eksploatacja obiektu jądrowego
 § 33.
 1.
 Eksploatację obiektu jądrowego prowadzi się zgodnie z procedurami eksploatacyjnymi opracowanymi, weryfikowanymi, zatwierdzanymi, modyfikowanymi i uchylanymi zgodnie z zasadami określonymi w zintegrowanym systemie zarządzania.
@@ -634,6 +637,7 @@ przejrzystego określenia powiązań pomiędzy pracownikami odpowiadającymi za 
 optymalizacji ochrony radiologicznej oraz kwestii bezpieczeństwa i higieny pracy, a także ograniczania ilości odpadów i odpadów promieniotwórczych oraz zagrożeń chemicznych;
 4)
 prowadzenia kompleksowych ocen w celu wyciągnięcia wniosków i doświadczeń do wykorzystania przy przyszłych remontach, modernizacjach i modyfikacjach.
+Przepisy przejściowe i końcowe
 § 46.
 1.
 Do dnia 31 marca 2015 r. do obiektów jądrowych eksploatowanych w dniu wejścia w życie rozporządzenia nie stosuje się przepisów § 2–5, § 8 pkt 9, § 10, § 34, § 36 ust. 3, § 37, § 38, § 39 ust. 3 i § 41 ust. 2 rozporządzenia.
@@ -642,15 +646,25 @@ Do dnia 31 marca 2015 r. do obiektów jądrowych eksploatowanych w dniu wejścia
 3.
 Przepisu § 17 ust. 1 rozporządzenia nie stosuje się do obiektów jądrowych eksploatowanych w dniu jego wejścia w życie.
 § 47.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2009/71/Euratom z dnia 25 czerwca 2009 r. ustanawiającej wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 172 z 02.07.2009, str. 18 oraz Dz. Urz. UE L 260 z 03.10.2009, str. 40).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Wymagania wspólne dla rozruchu i eksploatacji obiektu jądrowego
+#### Rozdział 2 – Wymagania wspólne dla rozruchu i eksploatacji obiektu jądrowego
 
-#### Rozdział 3 Rozruch obiektu jądrowego
+#### Rozdział 3 – Rozruch obiektu jądrowego
 
-#### Rozdział 4 Eksploatacja obiektu jądrowego
+#### Rozdział 4 – Eksploatacja obiektu jądrowego
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

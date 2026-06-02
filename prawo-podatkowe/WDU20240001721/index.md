@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 8 listopada 2024 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
+# Ustawa z dnia 8 listopada 2024 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw Niniejsza ustawa: 1) wdraża dyrektywę Rady (UE) 2020/285 z dnia 18 lutego 2020 r. zmieniającą dyrektywę 2006/112/WE w sprawie wspólnego systemu podatku od wartości dodanej w odniesieniu do procedury szczególnej dla małych przedsiębiorstw oraz rozporządzenie (UE) nr 904/2010 w odniesieniu do współpracy administracyjnej i wymiany informacji do celów monitorowania i prawidłowego stosowania procedury szczególnej dla małych przedsiębiorstw (Dz. Urz. UE L 62 z 02.03.2020, str. 13); 2) w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2022/542 z dnia 5 kwietnia 2022 r. w sprawie zmiany dyrektyw 2006/112/WE i (UE) 2020/285 w zakresie stawek podatku od wartości dodanej (Dz. Urz. UE L 107 z 06.04.2022, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-08 |
 | Data wydania | 2024-11-25 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2024-12-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001721) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1721/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 16 czerwca 2023 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw.
 
 **Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361, 852 i 1473) wprowadza się następujące zmiany:
 
@@ -63,7 +64,7 @@ source: "eli-html"
 4. Naczelnik urzędu skarbowego, po weryfikacji danych podanych w zgłoszeniu rejestracyjnym, rejestruje podatnika jako:
 
 - **1)** „podatnika VAT czynnego”,
-- **2)** „podatnika VAT zwolnionego” – w przypadku podatnika, o którym mowa w: ust. 3 i 3c, art. 113a ust. 1, jeżeli złożył zawiadomienie w celu rejestracji jako podatnik VAT UE i na jego wniosek potwierdza to zarejestrowanie. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+- **2)** „podatnika VAT zwolnionego” – w przypadku podatnika, o którym mowa w: ust. 3 i 3c, art. 113a ust. 1, jeżeli złożył zawiadomienie w celu rejestracji jako podatnik VAT UE – i na jego wniosek potwierdza to zarejestrowanie. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
@@ -71,7 +72,7 @@ source: "eli-html"
 5a. Jeżeli podatnik utraci prawo do zwolnienia, o którym mowa w art. 113a ust. 1, lub zrezygnuje z tego zwolnienia, jest obowiązany do złożenia zgłoszenia rejestracyjnego:
 
 - **1)** przed dniem, w którym traci prawo do tego zwolnienia – w przypadku utraty tego prawa,
-- **2)** przed początkiem miesiąca, od którego rezygnacja ze zwolnienia jest skuteczna zgodnie z art. 113a ust. 6 – w przypadku kontynuowania wykonywania czynności określonych w art. 5 przy czym przepis ust. 4 stosuje się odpowiednio. ” , po ust. 7bb dodaje się ust. 7bc w brzmieniu: „ 7bc. Naczelnik urzędu skarbowego wykreśla, z urzędu, podatnika, o którym mowa w art. 113a ust. 1, z rejestru jako podatnika VAT czynnego po uzyskaniu informacji o zidentyfikowaniu go za pomocą indywidualnego numeru identyfikacyjnego, o którym mowa w art. 113a ust. 2 pkt 2, i zawiadamia go o tym wykreśleniu. W przypadku gdy podatnik ten podlegał zarejestrowaniu jako podatnik VAT UE, naczelnik urzędu skarbowego pozostawia go w rejestrze, nadając mu status „podatnika VAT zwolnionego”. Przepisu ust. 12 nie stosuje się. ” ;
+- **2)** przed początkiem miesiąca, od którego rezygnacja ze zwolnienia jest skuteczna zgodnie z art. 113a ust. 6 – w przypadku kontynuowania wykonywania czynności określonych w art. 5 – przy czym przepis ust. 4 stosuje się odpowiednio. ” , po ust. 7bb dodaje się ust. 7bc w brzmieniu: „ 7bc. Naczelnik urzędu skarbowego wykreśla, z urzędu, podatnika, o którym mowa w art. 113a ust. 1, z rejestru jako podatnika VAT czynnego po uzyskaniu informacji o zidentyfikowaniu go za pomocą indywidualnego numeru identyfikacyjnego, o którym mowa w art. 113a ust. 2 pkt 2, i zawiadamia go o tym wykreśleniu. W przypadku gdy podatnik ten podlegał zarejestrowaniu jako podatnik VAT UE, naczelnik urzędu skarbowego pozostawia go w rejestrze, nadając mu status „podatnika VAT zwolnionego”. Przepisu ust. 12 nie stosuje się. ” ;
     - **d)**
 
 - **8)** w art. 96b w ust. 3 po pkt 12 dodaje się pkt 12a w brzmieniu: „
@@ -92,9 +93,10 @@ source: "eli-html"
 - **14)** w art. 113: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Zwalnia się od podatku sprzedaż dokonywaną przez podatnika posiadającego siedzibę działalności gospodarczej na terytorium kraju, u którego wartość sprzedaży, z wyłączeniem podatku, nie przekroczyła w poprzednim ani bieżącym roku podatkowym kwoty 200 000 zł. ” , w ust. 2: – w pkt 1 skreśla się wyrazy „wewnątrzwspólnotowej dostawy towarów oraz”, – w pkt 2 lit. c otrzymuje brzmienie: „ c) usług ubezpieczeniowych i reasekuracyjnych ” , w ust. 9 po wyrazach „przez podatnika” dodaje się wyrazy „posiadającego siedzibę działalności gospodarczej na terytorium kraju,”, w ust. 13 uchyla się pkt 3;
+1. Zwalnia się od podatku sprzedaż dokonywaną przez podatnika posiadającego siedzibę działalności gospodarczej na terytorium kraju, u którego wartość sprzedaży, z wyłączeniem podatku, nie przekroczyła w poprzednim ani bieżącym roku podatkowym kwoty 200 000 zł. ” , w ust. 2: – w pkt 1 skreśla się wyrazy „wewnątrzwspólnotowej dostawy towarów oraz”, w pkt 2 lit. c otrzymuje brzmienie: „ usług ubezpieczeniowych i reasekuracyjnych ” , w ust. 9 po wyrazach „przez podatnika” dodaje się wyrazy „posiadającego siedzibę działalności gospodarczej na terytorium kraju,”, w ust. 13 uchyla się pkt 3;
 
 - **b)**
+- **c)**
 - **c)**
 - **d)**
 - **15)** po art. 113 dodaje się art. 113a i art. 113b w brzmieniu: „
@@ -144,7 +146,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** potwierdza podatnikowi polski numer identyfikacyjny EX nadany na potrzeby korzystania ze zwolnienia – w przypadku gdy w uprzednim powiadomieniu podatnik wskazał więcej niż jedno państwo członkowskie, w którym zamierza korzystać ze zwolnienia, i polski numer identyfikacyjny EX został już nadany na potrzeby korzystania ze zwolnienia na terytorium jednego z tych państw członkowskich, a kolejne państwo członkowskie potwierdziło prawo podatnika do korzystania ze zwolnienia przy czym jeżeli warunki uprawniające do nadania lub potwierdzenia polskiego numeru identyfikacyjnego EX wymagają dodatkowego zweryfikowania w celu zapobieżenia uchylaniu się od opodatkowania lub unikaniu opodatkowania, właściwy naczelnik urzędu skarbowego może przedłużyć termin do czasu zakończenia tej weryfikacji.
+- **2)** potwierdza podatnikowi polski numer identyfikacyjny EX nadany na potrzeby korzystania ze zwolnienia – w przypadku gdy w uprzednim powiadomieniu podatnik wskazał więcej niż jedno państwo członkowskie, w którym zamierza korzystać ze zwolnienia, i polski numer identyfikacyjny EX został już nadany na potrzeby korzystania ze zwolnienia na terytorium jednego z tych państw członkowskich, a kolejne państwo członkowskie potwierdziło prawo podatnika do korzystania ze zwolnienia – przy czym jeżeli warunki uprawniające do nadania lub potwierdzenia polskiego numeru identyfikacyjnego EX wymagają dodatkowego zweryfikowania w celu zapobieżenia uchylaniu się od opodatkowania lub unikaniu opodatkowania, właściwy naczelnik urzędu skarbowego może przedłużyć termin do czasu zakończenia tej weryfikacji.
 
 5. W przypadku gdy roczny obrót na terytorium Unii Europejskiej podatnika przekroczył w poprzednim lub bieżącym roku podatkowym kwotę 100 000 euro, właściwy naczelnik urzędu skarbowego wydaje postanowienie o odmowie nadania polskiego numeru identyfikacyjnego EX, na które służy zażalenie.
 
@@ -163,7 +165,7 @@ source: "eli-html"
 10. W przypadku, o którym mowa w ust. 7 pkt 2, rezygnacja ze zwolnienia jest skuteczna od:
 
 - **1)** pierwszego miesiąca kwartału następującego po kwartale, w którym podatnik poinformował o tej rezygnacji – w przypadku gdy poinformowanie nastąpiło w pierwszym albo drugim miesiącu kwartału,
-- **2)** drugiego miesiąca kwartału następującego po kwartale, w którym podatnik poinformował o tej rezygnacji – w przypadku gdy poinformowanie nastąpiło w ostatnim miesiącu kwartału przy czym właściwy naczelnik urzędu skarbowego informuje podatnika o państwie członkowskim, w którym zwolnienie przestało mieć zastosowanie.
+- **2)** drugiego miesiąca kwartału następującego po kwartale, w którym podatnik poinformował o tej rezygnacji – w przypadku gdy poinformowanie nastąpiło w ostatnim miesiącu kwartału – przy czym właściwy naczelnik urzędu skarbowego informuje podatnika o państwie członkowskim, w którym zwolnienie przestało mieć zastosowanie.
 
 11. W przypadku gdy podatnik poinformował o rezygnacji ze zwolnienia we wszystkich państwach członkowskich, w których korzystał ze zwolnienia, właściwy naczelnik urzędu skarbowego, w terminach, o których mowa w ust. 10, wydaje postanowienie o dezaktywacji polskiego numeru identyfikacyjnego EX, na które służy zażalenie i które podlega natychmiastowemu wykonaniu, oraz dezaktywuje ten numer.
 
@@ -172,12 +174,12 @@ source: "eli-html"
 - **1)** roczny obrót na terytorium Unii Europejskiej podatnika w poprzednim lub bieżącym roku podatkowym przekroczył kwotę 100 000 euro lub
 - **2)** podatnik przestał spełniać warunki korzystania ze zwolnienia we wszystkich państwach członkowskich, w których korzystał ze zwolnienia, lub
 - **3)** zwolnienie przestało mieć zastosowanie we wszystkich państwach członkowskich, w których podatnik korzystał ze zwolnienia, lub
-- **4)** podatnik poinformował o zakończeniu swojej działalności gospodarczej lub istnieje uzasadnione przypuszczenie, że jego działalność gospodarcza zakończyła się, w szczególności w przypadkach, o których mowa w art. 96 ust. 4a pkt 3, 4 lub 6 właściwy naczelnik urzędu skarbowego niezwłocznie wydaje postanowienie o dezaktywacji polskiego numeru identyfikacyjnego EX, na które służy zażalenie i które podlega natychmiastowemu wykonaniu, oraz dezaktywuje ten numer.
+- **4)** podatnik poinformował o zakończeniu swojej działalności gospodarczej lub istnieje uzasadnione przypuszczenie, że jego działalność gospodarcza zakończyła się, w szczególności w przypadkach, o których mowa w art. 96 ust. 4a pkt 3, 4 lub 6 – właściwy naczelnik urzędu skarbowego niezwłocznie wydaje postanowienie o dezaktywacji polskiego numeru identyfikacyjnego EX, na które służy zażalenie i które podlega natychmiastowemu wykonaniu, oraz dezaktywuje ten numer.
 
 13. W przypadku gdy jedno z państw członkowskich, w którym podatnik korzystał ze zwolnienia, poinformuje, że:
 
 - **1)** przestał on spełniać warunki korzystania ze zwolnienia w tym państwie członkowskim lub
-- **2)** zwolnienie przestało mieć zastosowanie w tym państwie członkowskim właściwy naczelnik urzędu skarbowego informuje podatnika o państwie członkowskim, w którym podatnik przestał spełniać warunki korzystania ze zwolnienia lub zwolnienie przestało mieć zastosowanie.
+- **2)** zwolnienie przestało mieć zastosowanie w tym państwie członkowskim – właściwy naczelnik urzędu skarbowego informuje podatnika o państwie członkowskim, w którym podatnik przestał spełniać warunki korzystania ze zwolnienia lub zwolnienie przestało mieć zastosowanie.
 
 14. Podatnik jest obowiązany do składania właściwemu naczelnikowi urzędu skarbowego:
 
@@ -213,7 +215,7 @@ source: "eli-html"
 11. Przepisy ust. 4 i 5 mogą mieć również zastosowanie do dostawy:
 
 - **1)** dzieł sztuki nabytych od podatnika, o którym mowa w art. 15, innego niż podatnik, o którym mowa w ust. 4 i 5,
-- **2)** dzieł sztuki nabytych od podatnika podatku od wartości dodanej innego niż dokonujący dostawy towarów na zasadach odpowiadających regulacjom zawartym w ust. 4 i 5 jeżeli dzieła sztuki nabyte przez podatnika, o którym mowa w ust. 4 i 5, nie podlegały opodatkowaniu podatkiem według stawki 7 % albo podatkiem od wartości dodanej według stawki odpowiadającej stawce, o której mowa w art. 98 ust. 1 dyrektywy 2006/112/WE. ” ;
+- **2)** dzieł sztuki nabytych od podatnika podatku od wartości dodanej innego niż dokonujący dostawy towarów na zasadach odpowiadających regulacjom zawartym w ust. 4 i 5 – jeżeli dzieła sztuki nabyte przez podatnika, o którym mowa w ust. 4 i 5, nie podlegały opodatkowaniu podatkiem według stawki 7 % albo podatkiem od wartości dodanej według stawki odpowiadającej stawce, o której mowa w art. 98 ust. 1 dyrektywy 2006/112/WE. ” ;
 - **17)** w art. 146ef w ust. 1 w pkt 1 po wyrazach „art. 110” dodaje się wyrazy „, art. 120 ust. 3a”;
 - **18)** art. 146ei otrzymuje brzmienie: „ Art. 146ei. Przepis art. 120 ust. 11 pkt 1 stosuje się odpowiednio do dostawy dzieł sztuki, które nie podlegały opodatkowaniu podatkiem według stawki 8 %, stosowanej do tych towarów zgodnie z art. 146ef. ” .
 
@@ -233,7 +235,7 @@ source: "eli-html"
 
 § 2. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe. ” .
 
-**Art. 4.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.) w art. 35 w ust. 3 w pkt 1 w lit. g średnik zastępuje się przecinkiem i dodaje się lit. h w brzmieniu: „
+**Art. 4.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863, 879, 1222 i 1685.) w art. 35 w ust. 3 w pkt 1 w lit. g średnik zastępuje się przecinkiem i dodaje się lit. h w brzmieniu: „
 
 pism w sprawie korzystania przez podatnika ze zwolnienia od podatku od towarów i usług, o którym mowa w art. 113b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług; ” .
 
@@ -279,5 +281,5 @@ pism w sprawie korzystania przez podatnika ze zwolnienia od podatku od towarów 
 
 3. Organem właściwym, który monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz wdraża mechanizm korygujący, o którym mowa w ust. 2, jest minister właściwy do spraw finansów publicznych.
 
-**Art. 10.** Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem art. 8, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 10.** Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem art. 8, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa: 1) wdraża dyrektywę Rady (UE) 2020/285 z dnia 18 lutego 2020 r. zmieniającą dyrektywę 2006/112/WE w sprawie wspólnego systemu podatku od wartości dodanej w odniesieniu do procedury szczególnej dla małych przedsiębiorstw oraz rozporządzenie (UE) nr 904/2010 w odniesieniu do współpracy administracyjnej i wymiany informacji do celów monitorowania i prawidłowego stosowania procedury szczególnej dla małych przedsiębiorstw (Dz. Urz. UE L 62 z 02.03.2020, str. 13); 2) w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2022/542 z dnia 5 kwietnia 2022 r. w sprawie zmiany dyrektyw 2006/112/WE i (UE) 2020/285 w zakresie stawek podatku od wartości dodanej (Dz. Urz. UE L 107 z 06.04.2022, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 16 czerwca 2023 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863, 879, 1222 i 1685.
 

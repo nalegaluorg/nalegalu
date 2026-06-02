@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 7 października 2015 r. w sprawie wymagań dotyczących zawartości siarki w paliwie żeglugowym, w tym sposobu jej oznaczania
+# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 7 października 2015 r. w sprawie wymagań dotyczących zawartości siarki w paliwie żeglugowym, w tym sposobu jej oznaczania Przepisy niniejszego rozporządzenia dokonują w zakresie swojej regulacji wdrożenia postanowień dyrektywy Parlamentu Europejskiego i Rady 2012/33/UE z dnia 21 listopada 2012 r. zmieniającej dyrektywę Rady 1999/32/WE w zakresie zawartości siarki w paliwach żeglugowych (Dz. Urz. UE L 327 z 27.11.2012, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-07 |
 | Data wydania | 2015-10-22 |
-| Wejście w życie | 2015-11-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001665) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1665/text.pdf) |
 
@@ -78,6 +77,5 @@ W celu ustalenia, czy paliwo żeglugowe, o którym mowa w § 5, odpowiada warto�
 § 7.
 Traci moc rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 6 listopada 2014 r. w sprawie wymagań dotyczących zawartości siarki w paliwie żeglugowym (Dz. U. poz. 1553).
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-2) Przepisy niniejszego rozporządzenia dokonują w zakresie swojej regulacji wdrożenia postanowień dyrektywy Parlamentu Europejskiego i Rady 2012/33/UE z dnia 21 listopada 2012 r. zmieniającej dyrektywę Rady 1999/32/WE w zakresie zawartości siarki w paliwach żeglugowych (Dz. Urz. UE L 327 z 27.11.2012, str. 1).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Przepisy niniejszego rozporządzenia dokonują w zakresie swojej regulacji wdrożenia postanowień dyrektywy Parlamentu Europejskiego i Rady 2012/33/UE z dnia 21 listopada 2012 r. zmieniającej dyrektywę Rady 1999/32/WE w zakresie zawartości siarki w paliwach żeglugowych (Dz. Urz. UE L 327 z 27.11.2012, str. 1).
 

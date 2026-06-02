@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-10-30 |
 | Data wydania | 2014-10-31 |
-| Wejście w życie | 2014-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001494) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1494/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 15 § 5 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2012 r. poz. 1015, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 15 § 5 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2012 r. poz. 1015, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166, 1342 i 1529, z 2013 r. poz. 1289 oraz z 2014 r. poz. 379, 567, 897 i 1188.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa należności pieniężne, inne niż określone w art. 15 § 3a ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, zwanej dalej „ustawą”, których egzekucja może być wszczęta bez uprzedniego doręczenia upomnienia.
 § 2.
@@ -57,5 +56,5 @@ grzywien nałożonych w drodze mandatu karnego w postępowaniu w sprawach o wykr
 2)
 grzywien wymierzonych mandatem karnym i innych należności pieniężnych orzeczonych w postępowaniu karnym skarbowym.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 22 listopada 2001 r. w sprawie wykonania niektórych przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. Nr 137, poz. 1541, z 2003 r. Nr 9, poz. 106 oraz z 2004 r. Nr 10, poz. 79), które w części dotyczącej określenia należności pieniężnych, których egzekucja może być wszczęta bez uprzedniego doręczenia upomnienia, utraciło moc z dniem 22 maja 2014 r. na podstawie art. 127 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. poz. 1289). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166, 1342 i 1529, z 2013 r. poz. 1289 oraz z 2014 r. poz. 379, 567, 897 i 1188. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 22 listopada 2001 r. w sprawie wykonania niektórych przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. Nr 137, poz. 1541, z 2003 r. Nr 9, poz. 106 oraz z 2004 r. Nr 10, poz. 79), które w części dotyczącej określenia należności pieniężnych, których egzekucja może być wszczęta bez uprzedniego doręczenia upomnienia, utraciło moc z dniem 22 maja 2014 r. na podstawie art. 127 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. poz. 1289).
 

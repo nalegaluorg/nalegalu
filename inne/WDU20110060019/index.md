@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-12-03 |
 | Data wydania | 2011-01-10 |
-| Wejście w życie | 2011-02-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110060019) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/19/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. Nr 111, poz. 535, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. Nr 111, poz. 535, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 88, poz. 554 i Nr 113, poz. 731, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95, z 2000 r. Nr 120, poz. 1268, z 2005 r. Nr 141, poz. 1183, Nr 167, poz. 1398 i Nr 175, poz. 1462, z 2007 r. Nr 112, poz. 766 i Nr 121, poz. 831, z 2008 r. Nr 180, poz. 1108, z 2009 r. Nr 76, poz. 641 i Nr 98, poz. 817 oraz z 2010 r. Nr 107, poz. 679 i Nr 182, poz. 1228.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 w pkt 4 kropkę zastępuje się przecinkiem i dodaje pkt 5 i 6 w brzmieniu: „
-- **5)** dyspozytorze medycznym, kierującym akcją prowadzenia medycznych czynności ratunkowych, zespole ratownictwa medycznego, należy przez to rozumieć odpowiednio: dyspozytora medycznego, kierującego akcją prowadzenia medycznych czynności ratunkowych, zespół ratownictwa medycznego w rozumieniu ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm.),
+- **5)** dyspozytorze medycznym, kierującym akcją prowadzenia medycznych czynności ratunkowych, zespole ratownictwa medycznego, należy przez to rozumieć odpowiednio: dyspozytora medycznego, kierującego akcją prowadzenia medycznych czynności ratunkowych, zespół ratownictwa medycznego w rozumieniu ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 89, poz. 590 i Nr 166, poz. 1172, z 2008 r. Nr 17, poz. 101 i Nr 237, poz. 1653, z 2009 r. Nr 11, poz. 59 i Nr 122, poz. 1007 oraz z 2010 r. Nr 107, poz. 679 i Nr 219, poz. 1443.),
 - **6)** przymusie bezpośrednim, bez wskazania środka przymusu bezpośredniego, należy przez to rozumieć: przytrzymanie – doraźne, krótkotrwałe unieruchomienie osoby z użyciem siły fizycznej, przymusowe zastosowanie leków – doraźne lub przewidziane w planie postępowania leczniczego wprowadzenie leków do organizmu osoby – bez jej zgody, unieruchomienie – obezwładnienie osoby z użyciem pasów, uchwytów, prześcieradeł, kaftana bezpieczeństwa lub innych urządzeń technicznych, izolację – umieszczenie osoby, pojedynczo, w zamkniętym i odpowiednio przystosowanym pomieszczeniu. ” ;
     - **a)**
     - **b)**
@@ -72,7 +71,7 @@ source: "eli-html"
 
 - **5)** art. 6a otrzymuje brzmienie: „
 
-**Art. 6a.** Powiat organizuje i zapewnia usługi w odpowiednim standardzie w domach pomocy społecznej dostosowanych do szczególnych potrzeb osób z zaburzeniami psychicznymi. Domy te są tworzone na zasadach określonych w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm.). ” ;
+**Art. 6a.** Powiat organizuje i zapewnia usługi w odpowiednim standardzie w domach pomocy społecznej dostosowanych do szczególnych potrzeb osób z zaburzeniami psychicznymi. Domy te są tworzone na zasadach określonych w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 202, poz. 1551, Nr 219, poz. 1706 i Nr 221, poz. 1738 oraz z 2010 r. Nr 28, poz. 146, Nr 40, poz. 229, Nr 81, poz. 527, Nr 125, poz. 842 i Nr 217, poz. 1427.). ” ;
 
 - **6)** w art. 7 ust. 3 i 4 otrzymują brzmienie: „
 
@@ -146,7 +145,7 @@ source: "eli-html"
 
 - **1)** stosowania przymusu bezpośredniego,
 - **2)** dokumentowania zastosowania przymusu bezpośredniego,
-- **3)** dokonywania oceny zasadności zastosowania przymusu bezpośredniego uwzględniając potrzebę ochrony praw i godności osoby, wobec której jest stosowany przymus bezpośredni. ” ;
+- **3)** dokonywania oceny zasadności zastosowania przymusu bezpośredniego – uwzględniając potrzebę ochrony praw i godności osoby, wobec której jest stosowany przymus bezpośredni. ” ;
 - **13)** w art. 21: w ust. 3 zdanie drugie otrzymuje brzmienie: „ Przewiezienie takiej osoby z zastosowaniem przymusu bezpośredniego następuje w obecności lekarza, pielęgniarki lub zespołu ratownictwa medycznego. ” , w ust. 4 zdanie drugie otrzymuje brzmienie: „ Przy ocenie zasadności poddania osoby badaniu bez jej zgody stosuje się odpowiednio art. 18 ust. 10. ” ;
     - **a)**
     - **b)**
@@ -210,7 +209,7 @@ source: "eli-html"
 **Art. 49.** Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy sposób postępowania w sprawach przyjęcia oraz wypisania ze szpitala psychiatrycznego,
-- **2)** wzory: skierowania do szpitala psychiatrycznego, zawiadomień kierownika szpitala psychiatrycznego oraz sądu opiekuńczego o przyjęciu do tego szpitala osoby chorej psychicznie bez jej pisemnej zgody na podstawie art. 23 ust. 1 lub osoby z zaburzeniami psychicznymi na podstawie art. 24 ust. 1, rejestru osób przyjętych do szpitala psychiatrycznego, zawiadomień sądu opiekuńczego o wypisaniu ze szpitala psychiatrycznego oraz o pozostaniu w szpitalu psychiatrycznym za zgodą osoby przyjętej do tego szpitala uwzględniając ochronę praw i godności osób przyjmowanych i wypisywanych ze szpitali psychiatrycznych oraz potrzebę zapewnienia sprawnego przebiegu procesu leczniczego. ” ;
+- **2)** wzory: skierowania do szpitala psychiatrycznego, zawiadomień kierownika szpitala psychiatrycznego oraz sądu opiekuńczego o przyjęciu do tego szpitala osoby chorej psychicznie bez jej pisemnej zgody na podstawie art. 23 ust. 1 lub osoby z zaburzeniami psychicznymi na podstawie art. 24 ust. 1, rejestru osób przyjętych do szpitala psychiatrycznego, zawiadomień sądu opiekuńczego o wypisaniu ze szpitala psychiatrycznego oraz o pozostaniu w szpitalu psychiatrycznym za zgodą osoby przyjętej do tego szpitala – uwzględniając ochronę praw i godności osób przyjmowanych i wypisywanych ze szpitali psychiatrycznych oraz potrzebę zapewnienia sprawnego przebiegu procesu leczniczego. ” ;
     - **a)**
     - **b)**
     - **c)**
@@ -229,6 +228,6 @@ source: "eli-html"
 **Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 4 ust. 3, art. 7 ust. 3 i 4, art. 15 ust. 2, art. 33 ust. 3, art. 43 ust. 2 i art. 49 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 4 ust. 3, art. 7 ust. 3 i 4, art. 15 ust. 2, art. 33 ust. 3, art. 43 ust. 2 i art. 49 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie ustawy;
-- **2)** art. 18 ust. 7 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 18 ust. 11 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie ustawy. Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia.
+- **2)** art. 18 ust. 7 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 18 ust. 11 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie ustawy. Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 88, poz. 554 i Nr 113, poz. 731, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95, z 2000 r. Nr 120, poz. 1268, z 2005 r. Nr 141, poz. 1183, Nr 167, poz. 1398 i Nr 175, poz. 1462, z 2007 r. Nr 112, poz. 766 i Nr 121, poz. 831, z 2008 r. Nr 180, poz. 1108, z 2009 r. Nr 76, poz. 641 i Nr 98, poz. 817 oraz z 2010 r. Nr 107, poz. 679 i Nr 182, poz. 1228. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 89, poz. 590 i Nr 166, poz. 1172, z 2008 r. Nr 17, poz. 101 i Nr 237, poz. 1653, z 2009 r. Nr 11, poz. 59 i Nr 122, poz. 1007 oraz z 2010 r. Nr 107, poz. 679 i Nr 219, poz. 1443. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 202, poz. 1551, Nr 219, poz. 1706 i Nr 221, poz. 1738 oraz z 2010 r. Nr 28, poz. 146, Nr 40, poz. 229, Nr 81, poz. 527, Nr 125, poz. 842 i Nr 217, poz. 1427.
 
 

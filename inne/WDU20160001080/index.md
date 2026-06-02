@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 lipca 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 lipca 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-07 |
 | Data wydania | 2016-07-22 |
-| Wejście w życie | 2016-07-23 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001080) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1080/text.pdf) |
 
@@ -337,8 +336,7 @@ złożył wniosek o płatność:
 a)
 pośrednią – przez który rozumie się wniosek o płatność składany po zrealizowaniu każdego z etapów operacji, jeżeli dany etap nie jest etapem końcowym,
 b)
-końcową – przez który rozumie się wniosek o płatność składany po zrealizowaniu całej operacji
-oraz poniósł koszty związane z realizacją operacji lub jej etapu, zgodnie z warunkami określonymi w rozporządzeniu i w umowie oraz warunkami określonymi w innych przepisach, jeżeli mają one zastosowanie do zadań objętych operacją;
+końcową – przez który rozumie się wniosek o płatność składany po zrealizowaniu całej operacji – oraz poniósł koszty związane z realizacją operacji lub jej etapu, zgodnie z warunkami określonymi w rozporządzeniu i w umowie oraz warunkami określonymi w innych przepisach, jeżeli mają one zastosowanie do zadań objętych operacją;
 2)
 zrealizował lub realizuje zobowiązania określone w umowie;
 3)
@@ -410,6 +408,5 @@ Wprzypadkach określonych w § 18 i § 19 pomoc przyznaje się następcy prawnem
 § 21.
 Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku postępowania w sprawie przyznania pomocy i wypłaty środków finansowych z tytułu pomocy dokonuje się zgodnie z przepisami Kodeksu cywilnego dotyczącymi terminów.
 § 22.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 

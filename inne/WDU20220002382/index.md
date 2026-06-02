@@ -31,12 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 10 grudnia 2018 r. w sprawie wniosków o zmianę wpisu do rejestru brokerów (Dz. U. poz. 2371), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 11 października 2021 r. zmieniającym rozporządzenie w sprawie wniosków o zmianę wpisu do rejestru brokerów (Dz. U. poz. 1942).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 11 października 2021 r. zmieniającego rozporządzenie w sprawie wniosków o zmianę wpisu do rejestru brokerów (Dz. U. poz. 1942), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 11 października 2021 r. zmieniającego rozporządzenie w sprawie wniosków o zmianę wpisu do rejestru brokerów (Dz. U. poz. 1942), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 listopada 2021 r.
-” .
-Załącznik – Rozporządzenie Ministra Finansów z dnia 10 grudnia 2018 r. w sprawie wniosków o zmianę wpisu do rejestru brokerów
+Rozporządzenie wchodzi w życie z dniem 1 listopada 2021 r. ” .
+Załącznik – Rozporządzenie Ministra Finansów z dnia 10 grudnia 2018 r. w sprawie wniosków o zmianę wpisu do rejestru brokerówMinister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 Na podstawie art. 61 ust. 4 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2022 r. poz. 905) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -67,9 +65,9 @@ Broker ubezpieczeniowy lub broker reasekuracyjny będący osobą prawną, przeka
 imię i nazwisko oraz numer PESEL osoby uprawnionej – w przypadku, gdy osoba uprawniona będzie składać wniosek w sposób, o którym mowa w ust. 6;
 2)
 imię i nazwisko oraz numer paszportu, numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość osoby uprawnionej – w przypadku, gdy osoba uprawniona będzie składać wniosek w sposób, o którym mowa w ust. 7.
-6.
+6W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 11 października 2021 r. zmieniającego rozporządzenie w sprawie wniosków o zmianę wpisu do rejestru brokerów (Dz. U. poz. 1942), które weszło w życie z dniem 1 listopada 2021 r..
 Złożenie wniosku na formularzu elektronicznym następuje po uwierzytelnieniu brokera ubezpieczeniowego, brokera reasekuracyjnego lub osoby uprawnionej za pomocą środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w ustawie z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2021 r. poz. 1797).
-7.
+7W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 11 października 2021 r. zmieniającego rozporządzenie w sprawie wniosków o zmianę wpisu do rejestru brokerów (Dz. U. poz. 1942), które weszło w życie z dniem 1 listopada 2021 r..
 Broker ubezpieczeniowy, broker reasekuracyjny lub osoba uprawniona, która nie posiada danych wymaganych do uzyskania środka identyfikacji elektronicznej, o którym mowa w ust. 6, składa wniosek w formie pisemnej w postaci wydruku formularza, o którym mowa w § 2 ust. 1, opatrzony własnoręcznym podpisem.
 § 3.
 1.
@@ -175,11 +173,10 @@ b)
 art. 34 ust. 4 pkt 1 lit. a-f ustawy, albo
 c)
 art. 34 ust. 4 pkt 1 lit. a-d ustawy oraz kopie dokumentów potwierdzających spełnienie przez członka zarządu wymogów określonych w art. 34 ust. 8 lub 9 ustawy;
-4)
+4W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 w przypadku złożenia wniosku w sposób, o którym mowa w § 2 ust. 7 – oświadczenie odpowiednio brokera ubezpieczeniowego, brokera reasekuracyjnego lub osoby uprawnionej o nieposiadaniu danych wymaganych do uzyskania środka identyfikacji elektronicznej, o którym mowa w ustawie z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej.
 § 6.
 W przypadku wniosków złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia, dane objęte wnioskiem wpisywane są do rejestru brokerów przez organ nadzoru.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 15 stycznia 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 11 października 2021 r. zmieniającego rozporządzenie w sprawie wniosków o zmianę wpisu do rejestru brokerów (Dz. U. poz. 1942), które weszło w życie z dniem 1 listopada 2021 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 8 września 2014 r. w sprawie wniosków o zmianę wpisu do rejestru brokerów ubezpieczeniowych (Dz. U. poz. 1273), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2018 r. poz. 2210 i 2243).
+Rozporządzenie wchodzi w życie z dniem 15 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 8 września 2014 r. w sprawie wniosków o zmianę wpisu do rejestru brokerów ubezpieczeniowych (Dz. U. poz. 1273), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2018 r. poz. 2210 i 2243). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 11 października 2021 r. zmieniającego rozporządzenie w sprawie wniosków o zmianę wpisu do rejestru brokerów (Dz. U. poz. 1942), które weszło w życie z dniem 1 listopada 2021 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 8 września 2014 r. w sprawie wniosków o zmianę wpisu do rejestru brokerów ubezpieczeniowych (Dz. U. poz. 1273), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2018 r. poz. 2210 i 2243).
 

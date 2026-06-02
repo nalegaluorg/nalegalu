@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy o podatku dochodowym od osób prawnych
+# Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy o podatku dochodowym od osób prawnych Niniejsza ustawa dokonuje wdrożenia dyrektywy Rady 2005/19/WE z dnia 17 lutego 2005 r. zmieniającej dyrektywę Rady 90/434/EWG w sprawie wspólnego systemu opodatkowania mającego zastosowanie w przypadku łączenia, podziałów, wnoszenia aktywów i wymiany udziałów, dotyczących spółek różnych Państw Członkowskich (Dz. Urz. WE L 58 z 4.03.2005, str. 19).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-11-16 |
 | Data wydania | 2006-11-29 |
-| Wejście w życie | 2007-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062171589) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1589/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759, Nr 202, poz. 1957, Nr 217, poz. 2124 i Nr 223, poz. 2218, z 2004 r. Nr 6, poz. 39, Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 121, poz. 1262, Nr 123, poz. 1291, Nr 146, poz. 1546, Nr 171, poz. 1800, Nr 210, poz. 2135 i Nr 254, poz. 2533, z 2005 r. Nr 25, poz. 202, Nr 57, poz. 491, Nr 78, poz. 684, Nr 143, poz. 1199, Nr 155, poz. 1298, Nr 169, poz. 1419 i 1420, Nr 179, poz. 1484, Nr 180, poz. 1495 i Nr 183, poz. 1538 oraz z 2006 r. Nr 94, poz. 651, Nr 107, poz. 723, Nr 136, poz. 970, Nr 157, poz. 1119 i Nr 183, poz. 1353.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4a w pkt 8 kropkę zastępuje się przecinkiem i dodaje się pkt 9–12 w brzmieniu: „
 - **9)** samochodzie osobowym – oznacza to pojazd samochodowy o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony, konstrukcyjnie przeznaczony do przewozu nie więcej niż 9 osób łącznie z kierowcą, z wyjątkiem: pojazdu samochodowego mającego jeden rząd siedzeń, który oddzielony jest od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą, klasyfikowanego na podstawie przepisów prawa o ruchu drogowym do podrodzaju: wielozadaniowy, van, pojazdu samochodowego mającego więcej niż jeden rząd siedzeń, które oddzielone są od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą i u którego długość części przeznaczonej do przewozu ładunków, mierzona po podłodze od najdalej wysuniętego punktu podłogi pozwalającego postawić pionową ścianę lub trwałą przegrodę pomiędzy podłogą a sufitem do tylnej krawędzi podłogi, przekracza 50% długości pojazdu; dla obliczenia proporcji, o której mowa w zdaniu poprzednim, długość pojazdu stanowi odległość pomiędzy dolną krawędzią przedniej szyby pojazdu a tylną krawędzią podłogi części pojazdu przeznaczonej do przewozu ładunków, mierzona w linii poziomej wzdłuż pojazdu pomiędzy dolną krawędzią przedniej szyby pojazdu a punktem wyprowadzonym w pionie od tylnej krawędzi podłogi części pojazdu przeznaczonej do przewozu ładunków, pojazdu samochodowego, który ma otwartą część przeznaczoną do przewozu ładunków, pojazdu samochodowego, który posiada kabinę kierowcy i nadwozie przeznaczone do przewozu ładunków jako konstrukcyjnie oddzielne elementy pojazdu, pojazdu samochodowego będącego pojazdem specjalnym w rozumieniu przepisów prawa o ruchu drogowym o przeznaczeniach wymienionych w załączniku nr 9 do ustawy o podatku od towarów i usług,
@@ -37,7 +36,7 @@ source: "eli-html"
     - **e)**
 
 - **10)** małym podatniku – oznacza to podatnika, u którego wartość przychodu ze sprzedaży (wraz z kwotą należnego podatku od towarów i usług) nie przekroczyła w poprzednim roku podatkowym wyrażonej w złotych kwoty odpowiadającej równowartości 800 000 euro; przeliczenia kwot wyrażonych w euro dokonuje się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października poprzedniego roku podatkowego, w zaokrągleniu do 1 000 zł,
-- **11)** zagranicznym zakładzie – oznacza to: stałą placówkę, poprzez którą podmiot mający siedzibę lub zarząd na terytorium jednego państwa wykonuje całkowicie lub częściowo działalność na terytorium innego państwa, a w szczególności oddział, przedstawicielstwo, biuro, fabrykę, warsztat albo miejsce wydobywania bogactw naturalnych, plac budowy, budowę, montaż lub instalację, prowadzone na terytorium jednego państwa przez podmiot mający siedzibę lub zarząd na terytorium innego państwa, osobę, która w imieniu i na rzecz podmiotu mającego siedzibę lub zarząd na terytorium jednego państwa działa na terytorium innego państwa, jeżeli osoba ta ma pełnomocnictwo do zawierania w jego imieniu umów i pełnomocnictwo to faktycznie wykonuje chyba że umowa o unikaniu podwójnego opodatkowania, której stroną jest Rzeczpospolita Polska, stanowi inaczej,
+- **11)** zagranicznym zakładzie – oznacza to: stałą placówkę, poprzez którą podmiot mający siedzibę lub zarząd na terytorium jednego państwa wykonuje całkowicie lub częściowo działalność na terytorium innego państwa, a w szczególności oddział, przedstawicielstwo, biuro, fabrykę, warsztat albo miejsce wydobywania bogactw naturalnych, plac budowy, budowę, montaż lub instalację, prowadzone na terytorium jednego państwa przez podmiot mający siedzibę lub zarząd na terytorium innego państwa, osobę, która w imieniu i na rzecz podmiotu mającego siedzibę lub zarząd na terytorium jednego państwa działa na terytorium innego państwa, jeżeli osoba ta ma pełnomocnictwo do zawierania w jego imieniu umów i pełnomocnictwo to faktycznie wykonuje – chyba że umowa o unikaniu podwójnego opodatkowania, której stroną jest Rzeczpospolita Polska, stanowi inaczej,
     - **a)**
     - **b)**
     - **c)**
@@ -133,7 +132,7 @@ source: "eli-html"
 4d. W przypadku podatników dokonujących zbycia udziałów (akcji) jednej spółki kapitałowej innej spółce kapitałowej, jeżeli spółka nabywająca oraz spółka zbywająca (obejmująca), podlegają w państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego opodatkowaniu od całości swoich dochodów bez względu na miejsce ich osiągania oraz w zamian za zbywane udziały (akcje) spółka zbywająca otrzyma udziały (akcje) spółki nabywającej albo otrzyma udziały (akcje) spółki nabywającej wraz z zapłatą w gotówce w wysokości nie wyższej niż 10% wartości nominalnej otrzymanych udziałów (akcji) lub – w przypadku braku wartości nominalnej – wartości rynkowej tych udziałów (akcji), a także jeżeli w wyniku nabycia udziałów (akcji):
 
 - **1)** spółka nabywająca uzyska bezwzględną większość praw głosu w spółce, której udziały (akcje) są zbywane, albo
-- **2)** spółka posiadająca bezwzględną większość praw głosu w spółce, której udziały (akcje) są zbywane, zwiększa ilość udziałów (akcji) w tej spółce do przychodów nie zalicza się wartości otrzymanych udziałów (akcji) w spółce zbywającej i w spółce nabywającej. ” ;
+- **2)** spółka posiadająca bezwzględną większość praw głosu w spółce, której udziały (akcje) są zbywane, zwiększa ilość udziałów (akcji) w tej spółce – do przychodów nie zalicza się wartości otrzymanych udziałów (akcji) w spółce zbywającej i w spółce nabywającej. ” ;
 - **9)** w art. 15: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -151,7 +150,7 @@ source: "eli-html"
 4b. Koszty uzyskania przychodów bezpośrednio związane z przychodami, odnoszące się do przychodów danego roku podatkowego, a poniesione po zakończeniu tego roku podatkowego do dnia:
 
 - **1)** sporządzenia sprawozdania finansowego, zgodnie z odrębnymi przepisami, nie później jednak niż do upływu terminu określonego do złożenia zeznania, jeżeli podatnicy są obowiązani do sporządzania takiego sprawozdania, albo
-- **2)** złożenia zeznania, nie później jednak niż do upływu terminu określonego do złożenia tego zeznania, jeżeli podatnicy, zgodnie z odrębnymi przepisami, nie są obowiązani do sporządzania sprawozdania finansowego są potrącalne w roku podatkowym, w którym osiągnięte zostały odpowiadające im przychody.
+- **2)** złożenia zeznania, nie później jednak niż do upływu terminu określonego do złożenia tego zeznania, jeżeli podatnicy, zgodnie z odrębnymi przepisami, nie są obowiązani do sporządzania sprawozdania finansowego – są potrącalne w roku podatkowym, w którym osiągnięte zostały odpowiadające im przychody.
 
 4c. Koszty uzyskania przychodów bezpośrednio związane z przychodami, odnoszące się do przychodów danego roku podatkowego, a poniesione po dniu, o którym mowa w ust. 4b pkt 1 albo pkt 2, są potrącalne w roku podatkowym następującym po roku, za który sporządzane jest sprawozdanie finansowe lub składane zeznanie.
 
@@ -193,12 +192,15 @@ source: "eli-html"
 
 9. Przepisy ust. 2 pkt 4 i 5 oraz ust. 3 pkt 4 i 5 stosuje się odpowiednio do kapitałowych rat kredytów (pożyczek). ” ;
 
-- **11)** w art. 16: w ust. 1: – pkt 28 otrzymuje brzmienie: „ 28) kosztów reprezentacji, w szczególności poniesionych na usługi gastronomiczne, zakup żywności oraz napojów, w tym alkoholowych, ” , – pkt 58 otrzymuje brzmienie: „ 58) wydatków i kosztów bezpośrednio sfinansowanych z dochodów (przychodów), o których mowa w art. 17 ust. 1 pkt 14a, 23, 24, 42, 47 i 48 lub ze środków, o których mowa w art. 33 ust. 4 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. Nr 96, poz. 873, z późn. zm.), ” , – w pkt 64 przecinek zastępuje się kropką i uchyla się pkt 65, uchyla się ust. 3a;
+- **11)** w art. 16: w ust. 1: pkt 28 otrzymuje brzmienie: „
     - **a)**
+
+- **28)** kosztów reprezentacji, w szczególności poniesionych na usługi gastronomiczne, zakup żywności oraz napojów, w tym alkoholowych, ” , pkt 58 otrzymuje brzmienie: „
+- **58)** wydatków i kosztów bezpośrednio sfinansowanych z dochodów (przychodów), o których mowa w art. 17 ust. 1 pkt 14a, 23, 24, 42, 47 i 48 lub ze środków, o których mowa w art. 33 ust. 4 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. Nr 96, poz. 873, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 116, poz. 1203 i Nr 210, poz. 2135, z 2005 r. Nr 155, poz. 1298, Nr 169, poz. 1420, Nr 175, poz. 1462 i Nr 249, poz. 2104 oraz z 2006 r. Nr 94, poz. 651.), ” , – w pkt 64 przecinek zastępuje się kropką i uchyla się pkt 65, uchyla się ust. 3a;
     - **b)**
 
 - **12)** w art. 16b w ust. 1 pkt 6 otrzymuje brzmienie: „
-- **6)** prawa określone w ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2003 r. Nr 119, poz. 1117, z późn. zm.), ” ;
+- **6)** prawa określone w ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2003 r. Nr 119, poz. 1117, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 33, poz. 286, z 2005 r. Nr 10, poz. 68, Nr 163, poz. 1362 i Nr 167, poz. 1398 oraz z 2006 r. Nr 170, poz. 1217 i 1218 i Nr 208, poz. 1539.), ” ;
 - **13)** w art. 16e w ust. 1 pkt 4 otrzymuje brzmienie: „
 - **4)** wpłacić, w terminie do 20 dnia tego miesiąca, do urzędu skarbowego kwotę odsetek naliczonych od dnia zaliczenia do kosztów uzyskania przychodów wydatków na nabycie lub wytworzenie we własnym zakresie składników majątku do dnia, w którym okres ich używania przekroczył rok, i naliczoną kwotę odsetek wykazać w zeznaniu, o którym mowa w art. 27 ust. 1; odsetki obliczone od różnicy, o której mowa w pkt 2, wynoszą 0,1% za każdy dzień. ” ;
 - **14)** w art. 16g: w ust. 1 w pkt 4 kropkę zastępuje się przecinkiem i dodaje się pkt 5 w brzmieniu: „
@@ -235,7 +237,7 @@ source: "eli-html"
     - **a)**
 
 - **2)** dla środków transportu, w tym samochodów osobowych – 30 miesięcy,
-- **3)** dla budynków (lokali) i budowli, innych niż wymienione w pkt 4 – 10 lat, z wyjątkiem: trwale związanych z gruntem budynków handlowo-usługowych wymienionych w rodzaju 103 Klasyfikacji i innych budynków niemieszkalnych wymienionych w rodzaju 109 Klasyfikacji trwale związanych z gruntem, kiosków towarowych o kubaturze poniżej 500 m3, domków kempingowych i budynków zastępczych dla których okres amortyzacji nie może być krótszy niż 3 lata, ” , dodaje się pkt 4 w brzmieniu: „
+- **3)** dla budynków (lokali) i budowli, innych niż wymienione w pkt 4 – 10 lat, z wyjątkiem: trwale związanych z gruntem budynków handlowo-usługowych wymienionych w rodzaju 103 Klasyfikacji i innych budynków niemieszkalnych wymienionych w rodzaju 109 Klasyfikacji trwale związanych z gruntem, kiosków towarowych o kubaturze poniżej 500 m3, domków kempingowych i budynków zastępczych – dla których okres amortyzacji nie może być krótszy niż 3 lata, ” , dodaje się pkt 4 w brzmieniu: „
     - **a)**
     - **b)**
     - **b)**
@@ -262,8 +264,16 @@ source: "eli-html"
 
 12. Przeliczenia na złote kwot, o których mowa w ust. 7 i ust. 11 pkt 3, dokonuje się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października roku poprzedzającego rok podatkowy, w którym wystąpiły zdarzenia, o których mowa w tych przepisach, w zaokrągleniu do 1 000 zł. ” ;
 
-- **18)** w art. 17: w ust. 1: – pkt 4k otrzymuje brzmienie: „ 4k) dochody banku prowadzącego kasę mieszkaniową, stanowiące równowartość dochodu uzyskanego przez tę kasę z tytułów określonych w odrębnych przepisach – w części przeznaczonej wyłącznie na realizację wymienionych w tych przepisach celów kasy mieszkaniowej, ” , – uchyla się pkt 4r, 4t i 4x-4z, – pkt 37 otrzymuje brzmienie: „ 37) dochody Banku Gospodarstwa Krajowego w związku z prowadzeniem funduszy utworzonych, powierzonych lub przekazanych temu bankowi na podstawie odrębnych ustaw, stanowiące równowartość dochodów uzyskanych przez te fundusze z tytułów określonych w przepisach regulujących ich tworzenie i funkcjonowanie – w części przeznaczonej wyłącznie na realizację celów wymienionych w tych przepisach, ” , – w pkt 43 kropkę zastępuje się przecinkiem i dodaje się pkt 44–48 brzmieniu: „ 44) dochody spółdzielni mieszkaniowych, wspólnot mieszkaniowych, towarzystw budownictwa społecznego oraz samorządowych jednostek organizacyjnych prowadzących działalność w zakresie gospodarki mieszkaniowej uzyskane z gospodarki zasobami mieszkaniowymi – w części przeznaczonej na cele związane z utrzymaniem tych zasobów, z wyłączeniem dochodów uzyskanych z innej działalności gospodarczej niż gospodarka zasobami mieszkaniowymi, 45) dochody z tytułu prowadzenia szkoły w rozumieniu przepisów o systemie oświaty – w części przeznaczonej na cele szkoły, z zastrzeżeniem ust. 8, 46) dochody spółek wodnych i ich związków, przeznaczone na cele statutowe, 47) dotacje otrzymane z budżetu państwa lub budżetu jednostki samorządu terytorialnego, z wyjątkiem dopłat do oprocentowania kredytów bankowych w zakresie określonym w odrębnych ustawach, 48) kwoty otrzymane od agencji rządowych, jeżeli agencje otrzymały środki na ten cel z budżetu państwa, z wyjątkiem dopłat do oprocentowania kredytów bankowych w zakresie określonym w odrębnych ustawach. ” , ust. 6 otrzymuje brzmienie: „
+- **18)** w art. 17: w ust. 1: pkt 4k otrzymuje brzmienie: „
     - **a)**
+
+- **4k)** dochody banku prowadzącego kasę mieszkaniową, stanowiące równowartość dochodu uzyskanego przez tę kasę z tytułów określonych w odrębnych przepisach – w części przeznaczonej wyłącznie na realizację wymienionych w tych przepisach celów kasy mieszkaniowej, ” , – uchyla się pkt 4r, 4t i 4x-4z, pkt 37 otrzymuje brzmienie: „
+- **37)** dochody Banku Gospodarstwa Krajowego w związku z prowadzeniem funduszy utworzonych, powierzonych lub przekazanych temu bankowi na podstawie odrębnych ustaw, stanowiące równowartość dochodów uzyskanych przez te fundusze z tytułów określonych w przepisach regulujących ich tworzenie i funkcjonowanie – w części przeznaczonej wyłącznie na realizację celów wymienionych w tych przepisach, ” , w pkt 43 kropkę zastępuje się przecinkiem i dodaje się pkt 44–48 brzmieniu: „
+- **44)** dochody spółdzielni mieszkaniowych, wspólnot mieszkaniowych, towarzystw budownictwa społecznego oraz samorządowych jednostek organizacyjnych prowadzących działalność w zakresie gospodarki mieszkaniowej uzyskane z gospodarki zasobami mieszkaniowymi – w części przeznaczonej na cele związane z utrzymaniem tych zasobów, z wyłączeniem dochodów uzyskanych z innej działalności gospodarczej niż gospodarka zasobami mieszkaniowymi,
+- **45)** dochody z tytułu prowadzenia szkoły w rozumieniu przepisów o systemie oświaty – w części przeznaczonej na cele szkoły, z zastrzeżeniem ust. 8,
+- **46)** dochody spółek wodnych i ich związków, przeznaczone na cele statutowe,
+- **47)** dotacje otrzymane z budżetu państwa lub budżetu jednostki samorządu terytorialnego, z wyjątkiem dopłat do oprocentowania kredytów bankowych w zakresie określonym w odrębnych ustawach,
+- **48)** kwoty otrzymane od agencji rządowych, jeżeli agencje otrzymały środki na ten cel z budżetu państwa, z wyjątkiem dopłat do oprocentowania kredytów bankowych w zakresie określonym w odrębnych ustawach. ” , ust. 6 otrzymuje brzmienie: „
     - **b)**
 
 6. W razie wystąpienia okoliczności, o których mowa w ust. 5, podatnik jest obowiązany do zwiększenia podstawy opodatkowania o kwotę dochodu, w odniesieniu do którego utracił prawo do zwolnienia, a w razie poniesienia straty do jej zmniejszenia o tę kwotę – w rozliczeniu zaliczki za wybrany okres wpłaty zaliczek, o którym mowa w art. 25, w którym utracił to prawo, a gdy utrata prawa nastąpi w ostatnim okresie wpłaty zaliczek danego roku podatkowego – w zeznaniu rocznym. ” , dodaje się ust. 8 w brzmieniu: „
@@ -339,11 +349,14 @@ source: "eli-html"
 - **22)** w art. 22: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Podatek dochodowy od dochodów (przychodów) z dywidend oraz innych przychodów z tytułu udziału w zyskach osób prawnych mających siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej ustala się w wysokości 19% uzyskanego przychodu. ” , uchyla się ust. 2 i 3, w ust. 4: – pkt 1 i 2 otrzymują brzmienie: „ 1) wypłacającym dywidendę oraz inne przychody z tytułu udziału w zyskach osób prawnych jest spółka będąca podatnikiem podatku dochodowego, mająca siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, 2) uzyskującym dochody (przychody) z dywidend oraz inne przychody z tytułu udziału w zyskach osób prawnych, o których mowa w pkt 1, jest spółka podlegająca w Rzeczypospolitej Polskiej lub w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego, opodatkowaniu podatkiem dochodowym od całości swoich dochodów, bez względu na miejsce ich osiągania, ” , – w pkt 4 lit. b otrzymuje brzmienie: „ b) zagraniczny zakład spółki, o której mowa w pkt 2. ” , ust. 4a-4c otrzymują brzmienie: „
+1. Podatek dochodowy od dochodów (przychodów) z dywidend oraz innych przychodów z tytułu udziału w zyskach osób prawnych mających siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej ustala się w wysokości 19% uzyskanego przychodu. ” , uchyla się ust. 2 i 3, w ust. 4: pkt 1 i 2 otrzymują brzmienie: „
 
 - **b)**
 - **c)**
-- **d)**
+- **1)** wypłacającym dywidendę oraz inne przychody z tytułu udziału w zyskach osób prawnych jest spółka będąca podatnikiem podatku dochodowego, mająca siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej,
+- **2)** uzyskującym dochody (przychody) z dywidend oraz inne przychody z tytułu udziału w zyskach osób prawnych, o których mowa w pkt 1, jest spółka podlegająca w Rzeczypospolitej Polskiej lub w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego, opodatkowaniu podatkiem dochodowym od całości swoich dochodów, bez względu na miejsce ich osiągania, ” , w pkt 4 lit. b otrzymuje brzmienie: „ zagraniczny zakład spółki, o której mowa w pkt 2. ” , ust. 4a-4c otrzymują brzmienie: „
+    - **b)**
+    - **d)**
 
 4a. Zwolnienie, o którym mowa w ust. 4, ma zastosowanie w przypadku, kiedy spółka uzyskująca dochody (przychody) z dywidend oraz inne przychody z tytułu udziału w zyskach osób prawnych mających siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej posiada udziały (akcje) w spółce wypłacającej te należności w wysokości, o której mowa w ust. 4 pkt 3, nieprzerwanie przez okres dwóch lat.
 
@@ -417,7 +430,7 @@ source: "eli-html"
 3. Płatnicy, o których mowa w ust. 1, przekazują kwoty podatku w terminie do 7 dnia miesiąca następującego po miesiącu, w którym zgodnie z ust. 1 i 2 pobrano podatek, na rachunek urzędu skarbowego, którym kieruje naczelnik urzędu skarbowego właściwy według siedziby podatnika, a w przypadku podatników wymienionych w art. 3 ust. 2 – na rachunek urzędu skarbowego, którym kieruje naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych. Płatnicy są obowiązani przesłać podatnikom, o których mowa w:
 
 - **1)** art. 3 ust. 1 – informację o wysokości pobranego podatku,
-- **2)** art. 3 ust. 2, oraz urzędowi skarbowemu – informację o dokonanych wypłatach i pobranym podatku sporządzone według ustalonego wzoru.
+- **2)** art. 3 ust. 2, oraz urzędowi skarbowemu – informację o dokonanych wypłatach i pobranym podatku – sporządzone według ustalonego wzoru.
 
 3a. Płatnicy są obowiązani przesłać informację, o której mowa w ust. 3 pkt 1, w terminie przekazania kwoty pobranego podatku, a informację, o której mowa w ust. 3 pkt 2, w terminie do końca trzeciego miesiąca roku następującego po roku podatkowym, w którym dokonano wypłat, o których mowa w ust. 1, również wówczas, gdy płatnik w roku podatkowym sporządzał i przekazywał informacje w trybie przewidzianym w ust. 3b. ” , ust. 3d otrzymuje brzmienie: „
 
@@ -453,7 +466,7 @@ source: "eli-html"
 **Art. 3.** Do samochodów nabytych przed dniem 1 stycznia 2007 r. stosuje się przepisy ustawy, o której mowa w art. 1, w brzmieniu obowiązującym do dnia 31 grudnia 2006 r. Podatnicy podatku dochodowego od osób prawnych, którzy przed dniem 1 stycznia 2007 r. rozpoczęli amortyzację:
 
 - **1)** środków trwałych na podstawie art. 16j ust. 1 pkt 3 i art. 16k ust. 4–6,
-- **2)** środków transportu na podstawie art. 16k ust. 1 ustawy, o której mowa w art. 1, w brzmieniu obowiązującym do dnia 31 grudnia 2006 r., stosują do amortyzacji tych środków przepisy art. 16j ust. 1 pkt 3 oraz art. 16k ust. 1 i ust. 4–6 ustawy, o której mowa w art. 1, w brzmieniu obowiązującym do dnia 31 grudnia 2006 r.
+- **2)** środków transportu na podstawie art. 16k ust. 1 – ustawy, o której mowa w art. 1, w brzmieniu obowiązującym do dnia 31 grudnia 2006 r., stosują do amortyzacji tych środków przepisy art. 16j ust. 1 pkt 3 oraz art. 16k ust. 1 i ust. 4–6 ustawy, o której mowa w art. 1, w brzmieniu obowiązującym do dnia 31 grudnia 2006 r.
 
 **Art. 5.** Podatnicy, którzy przed dniem 1 stycznia 2007 r. określali przychody należne na podstawie art. 12 ust. 3d ustawy, o której mowa w art. 1, w brzmieniu obowiązującym do dnia 31 grudnia 2006 r., a którzy przed dniem 1 stycznia 2007 r. wystawili faktury, których termin płatności określony jest po dniu 31 grudnia 2006 r., dla ustalenia daty powstania przychodu należnego określonego w tym przepisie stosują przepis art. 12 ust. 3d ustawy, o której mowa w art. 1, w brzmieniu obowiązującym do dnia 31 grudnia 2006 r.
 
@@ -469,5 +482,5 @@ source: "eli-html"
 
 **Art. 10.** Ilekroć w innych ustawach jest mowa o dochodzie określanym na podstawie deklaracji miesięcznych, rozumie się przez to dochód wykazany w zeznaniu podatkowym złożonym za rok poprzedzający rok podatkowy.
 
-**Art. 11.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r. i ma zastosowanie do osiągniętych dochodów (poniesionych strat) od tego dnia, z wyjątkiem art. 1 pkt 18 lit. a tiret trzecie, w części dotyczącej dochodów Banku Gospodarstwa Krajowego stanowiących równowartość dochodów uzyskanych przez Fundusz Kolejowy, oraz art. 8, które wchodzą w życie z dniem ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r. i ma zastosowanie do osiągniętych dochodów (poniesionych strat) od tego dnia, z wyjątkiem art. 1 pkt 18 lit. a tiret trzecie, w części dotyczącej dochodów Banku Gospodarstwa Krajowego stanowiących równowartość dochodów uzyskanych przez Fundusz Kolejowy, oraz art. 8, które wchodzą w życie z dniem ogłoszenia. 1) Niniejsza ustawa dokonuje wdrożenia dyrektywy Rady 2005/19/WE z dnia 17 lutego 2005 r. zmieniającej dyrektywę Rady 90/434/EWG w sprawie wspólnego systemu opodatkowania mającego zastosowanie w przypadku łączenia, podziałów, wnoszenia aktywów i wymiany udziałów, dotyczących spółek różnych Państw Członkowskich (Dz. Urz. WE L 58 z 4.03.2005, str. 19). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759, Nr 202, poz. 1957, Nr 217, poz. 2124 i Nr 223, poz. 2218, z 2004 r. Nr 6, poz. 39, Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 121, poz. 1262, Nr 123, poz. 1291, Nr 146, poz. 1546, Nr 171, poz. 1800, Nr 210, poz. 2135 i Nr 254, poz. 2533, z 2005 r. Nr 25, poz. 202, Nr 57, poz. 491, Nr 78, poz. 684, Nr 143, poz. 1199, Nr 155, poz. 1298, Nr 169, poz. 1419 i 1420, Nr 179, poz. 1484, Nr 180, poz. 1495 i Nr 183, poz. 1538 oraz z 2006 r. Nr 94, poz. 651, Nr 107, poz. 723, Nr 136, poz. 970, Nr 157, poz. 1119 i Nr 183, poz. 1353. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 116, poz. 1203 i Nr 210, poz. 2135, z 2005 r. Nr 155, poz. 1298, Nr 169, poz. 1420, Nr 175, poz. 1462 i Nr 249, poz. 2104 oraz z 2006 r. Nr 94, poz. 651. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 33, poz. 286, z 2005 r. Nr 10, poz. 68, Nr 163, poz. 1362 i Nr 167, poz. 1398 oraz z 2006 r. Nr 170, poz. 1217 i 1218 i Nr 208, poz. 1539.
 

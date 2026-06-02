@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 5 września 2019 r. zmieniające rozporządzenie w sprawie określenia obszarów objętych nakazami, zakazami lub ograniczeniami oraz innymi środkami kontroli lub ochronnymi ustanowionymi w związku z wystąpieniem afrykańskiego pomoru świń, na których są położone gospodarstwa rolne, w których są utrzymywane świnie
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 5 września 2019 r. zmieniające rozporządzenie w sprawie określenia obszarów objętych nakazami, zakazami lub ograniczeniami oraz innymi środkami kontroli lub ochronnymi ustanowionymi w związku z wystąpieniem afrykańskiego pomoru świń, na których są położone gospodarstwa rolne, w których są utrzymywane świnie Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-05 |
 | Data wydania | 2019-09-16 |
-| Wejście w życie | 2019-09-17 |
 | Ostatnia zmiana | 2024-08-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001766) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1766/text.pdf) |
 
@@ -35,8 +34,7 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 2 listopada 2018 r. w 
 § 2.
 Do postępowań o udzielenie zamówień na dostawy mięsa lub produktów mięsnych, o których mowa w art. 1 ust. 1 ustawy z dnia 5 września 2016 r. o szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 Załącznik – Obszary objęte nakazami, zakazami lub ograniczeniami oraz innymi środkami kontroli lub ochronnymi, ustanowionymi w związku z wystąpieniem afrykańskiego pomoru świń, zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt oraz z przepisami unii europejskiej wydanymi w tym zakresie, na których są położone gospodarstwa rolne, w których są utrzymywane świnie, od których pochodzi mięso, o którym mowa w art. 1 ust. 1 ustawy z dnia 5 września 2016 r. o szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej, i mięso wchodzące w skład produktów mięsnych, o których mowa w art. 1 ust. 1 tej ustawy
 1.
 Powiat bartoszycki – gminy Sępopol i Bartoszyce z miastem Bartoszyce.

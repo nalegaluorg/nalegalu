@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 28 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie otrzymywania wyżywienia przez funkcjonariuszy Służby Ochrony Państwa
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 28 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie otrzymywania wyżywienia przez funkcjonariuszy Służby Ochrony Państwa Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 24 września 2020 r. w sprawie otrzymywania wyżywienia przez funkcjonariuszy Służby Ochrony Państwa (Dz. U. poz. 1660), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 9 lutego 2023 r. zmieniającym rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Służby Ochrony Państwa (Dz. U. poz. 305).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 9 lutego 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Służby Ochrony Państwa (Dz. U. poz. 305), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 9 lutego 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Służby Ochrony Państwa (Dz. U. poz. 305), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 września 2020 r. w sprawie otrzymywania wyżywienia przez funkcjonariuszy Służby Ochrony Państwa
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 września 2020 r. w sprawie otrzymywania wyżywienia przez funkcjonariuszy Służby Ochrony PaństwaNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
 Na podstawie art. 149 ust. 7 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2024 r. poz. 325 i 1222) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -63,7 +60,7 @@ kolacja – 25 %;
 dodatkową, zwaną dalej „normą DU”, która przysługuje niezależnie od normy SZ funkcjonariuszowi Służby Ochrony Państwa, o którym mowa w art. 149 ust. 2 pkt 5 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, zwanej dalej „ustawą”.
 § 3.
 Wartość pieniężna normy wyżywienia wynosi:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 9 lutego 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Służby Ochrony Państwa (Dz. U. poz. 305), które weszło w życie z dniem 3 marca 2023 r.)
 za normę SZ – 25 zł;
 2)
 za normę DU – 7 zł.
@@ -90,17 +87,16 @@ Norma DU może zostać uzupełniona, w przypadku gdy zawody sportowe, spartakiad
 Wartość pieniężna uzupełnienia normy SZ i normy DU wynosi 4 zł dla każdej z tych norm.
 § 8.
 Wartość świadczenia pieniężnego w zamian za wyżywienie wynosi:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 25 zł – za normę SZ;
 2)
 7 zł – za normę DU;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 29 zł – za uzupełnioną normę SZ;
 4)
 11 zł – za uzupełnioną normę DU.
 § 9.
 Wypłata świadczenia pieniężnego w zamian za wyżywienie następuje raz w miesiącu z dołu, w terminie do ostatniego dnia miesiąca następującego po miesiącu, w którym zaistniała okoliczność uzasadniająca wypłatę tego świadczenia.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 1 października 2020 r.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 9 lutego 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Służby Ochrony Państwa (Dz. U. poz. 305), które weszło w życie z dniem 3 marca 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 9 maja 2019 r. w sprawie norm wyżywienia przysługujących funkcjonariuszom Służby Ochrony Państwa (Dz. U. poz. 930 i 2563) oraz rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 9 maja 2019 r. w sprawie wysokości równoważnika pieniężnego w zamian za wyżywienie otrzymywanego przez funkcjonariuszy Służby Ochrony Państwa (Dz. U. poz. 929 i 2566), które utraciły moc z dniem wejścia w życie ustawy z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610).
+Rozporządzenie wchodzi w życie z dniem 1 października 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 9 maja 2019 r. w sprawie norm wyżywienia przysługujących funkcjonariuszom Służby Ochrony Państwa (Dz. U. poz. 930 i 2563) oraz rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 9 maja 2019 r. w sprawie wysokości równoważnika pieniężnego w zamian za wyżywienie otrzymywanego przez funkcjonariuszy Służby Ochrony Państwa (Dz. U. poz. 929 i 2566), które utraciły moc z dniem wejścia w życie ustawy z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610). 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 9 lutego 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Służby Ochrony Państwa (Dz. U. poz. 305), które weszło w życie z dniem 3 marca 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 9 maja 2019 r. w sprawie norm wyżywienia przysługujących funkcjonariuszom Służby Ochrony Państwa (Dz. U. poz. 930 i 2563) oraz rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 9 maja 2019 r. w sprawie wysokości równoważnika pieniężnego w zamian za wyżywienie otrzymywanego przez funkcjonariuszy Służby Ochrony Państwa (Dz. U. poz. 929 i 2566), które utraciły moc z dniem wejścia w życie ustawy z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610).
 

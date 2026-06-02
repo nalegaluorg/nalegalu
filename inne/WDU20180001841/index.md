@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 24 września 2018 r. w sprawie terytorialnego zakresu działania dyrektorów urzędów żeglugi śródlądowej i siedzib ich urzędów oraz siedzib i właściwości miejscowej delegatur tych urzędów
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 24 września 2018 r. w sprawie terytorialnego zakresu działania dyrektorów urzędów żeglugi śródlądowej i siedzib ich urzędów oraz siedzib i właściwości miejscowej delegatur tych urzędów Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-24 |
 | Data wydania | 2018-09-27 |
-| Wejście w życie | 2018-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001841) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1841/text.pdf) |
 
@@ -154,6 +153,5 @@ a)
 b)
 wody śródlądowe, inne niż śródlądowe drogi wodne, w granicach województwa opolskiego i następujących powiatów województwa śląskiego: będzińskiego, bieruńsko-lędzińskiego, częstochowskiego, gliwickiego, kłobuckiego, lublinieckiego, mikołowskiego, myszkowskiego, raciborskiego, rybnickiego, tarnogórskiego, wodzisławskiego, zawierciańskiego oraz miast na prawach powiatu: Bytomia, Chorzowa, Częstochowy, Dąbrowy Górniczej, Gliwic, Jastrzębia-Zdroju, Jaworzna, Katowic, Mysłowic, Piekar Śląskich, Rudy Śląskiej, Rybnika, Siemianowic Śląskich, Sosnowca, Świętochłowic, Tych, Zabrza i Żor – w zakresie, o którym mowa w art. 1 ust. 3 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu i Gospodarki Morskiej z dnia 10 lipca 2001 r. w sprawie określenia siedzib i terytorialnego zakresu działania dyrektorów urzędów żeglugi śródlądowej (Dz. U. poz. 831 oraz z 2004 r. poz. 639), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o żegludze śródlądowej (Dz. U. poz. 1694).
+Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu i Gospodarki Morskiej z dnia 10 lipca 2001 r. w sprawie określenia siedzib i terytorialnego zakresu działania dyrektorów urzędów żeglugi śródlądowej (Dz. U. poz. 831 oraz z 2004 r. poz. 639), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o żegludze śródlądowej (Dz. U. poz. 1694). 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu i Gospodarki Morskiej z dnia 10 lipca 2001 r. w sprawie określenia siedzib i terytorialnego zakresu działania dyrektorów urzędów żeglugi śródlądowej (Dz. U. poz. 831 oraz z 2004 r. poz. 639), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o żegludze śródlądowej (Dz. U. poz. 1694).
 

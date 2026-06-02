@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-23 |
 | Data wydania | 2022-12-30 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2025-12-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002848) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2848/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Organizacja przyjęć do aresztu śledczego Rozdział 3 – Sposoby rozmieszczania tymczasowo aresztowanych w celach mieszkalnych Rozdział 4 – Porządek wewnętrzny aresztu śledczego Rozdział 5 – Organizacja przyjmowania korespondencji i organizacja widzeń w aresztach śledczych Rozdział 6 – Warunki opieki zdrowotnej i bytowej Rozdział 7 – Przygotowanie tymczasowo aresztowanego do zwolnienia z aresztu śledczego Rozdział 8 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 249 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 249 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 472, 1236 i 2054 oraz z 2022 r. poz. 22, 655, 1855 i 2600.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa regulamin organizacyjno-porządkowy wykonywania tymczasowego aresztowania, który uwzględnia:
 1)
@@ -43,6 +43,7 @@ organizację przyjmowania korespondencji i organizację widzeń w aresztach śle
 warunki opieki zdrowotnej i bytowej w aresztach śledczych;
 6)
 sposób przygotowywania tymczasowo aresztowanych do ich zwolnienia z aresztu śledczego.
+Organizacja przyjęć do aresztu śledczego
 § 2.
 Informacje o miejscu pobytu tymczasowo aresztowanego, do wskazanych przez niego osób lub podmiotów, o których mowa w art. 211 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, zwanej dalej „Kodeksem”, wysyła się po złożeniu podpisu przez tymczasowo aresztowanego na zawiadomieniu.
 § 3.
@@ -64,11 +65,13 @@ Tymczasowo aresztowanego poddaje się niezwłocznie wstępnym badaniom lekarskim
 Wychowawca przeprowadza z tymczasowo aresztowanym rozmowę wstępną, nie później niż w terminie dwóch dni od dnia przyjęcia do aresztu śledczego, niezależnie od rozmowy informacyjnej, o której mowa w § 4 ust. 1.
 3.
 Rozmowa wstępna ma na celu ustalenie niezbędnych informacji, zapewniających prawidłowe wykonywanie tymczasowego aresztowania.
+Sposoby rozmieszczania tymczasowo aresztowanych w celach mieszkalnych
 § 6.
 1.
 Po dokonaniu czynności, o których mowa w art. 79b § 1 Kodeksu, tymczasowo aresztowanego przenosi się z celi przejściowej do innej celi mieszkalnej.
 2.
 W razie potrzeby tymczasowo aresztowany może być przeniesiony w każdym czasie z celi mieszkalnej, którą zajmuje, do innej celi mieszkalnej.
+Porządek wewnętrzny aresztu śledczego
 § 7.
 1.
 Ustala się następujący porządek wewnętrzny aresztów śledczych:
@@ -161,6 +164,7 @@ Wymogów, o których mowa w ust. 1, nie egzekwuje się, gdy tymczasowo aresztowa
 Waresztach śledczych przeprowadza się apel poranny i wieczorny, w czasie określonym w porządku wewnętrznym oraz w innym uzasadnionym przypadku, w trakcie którego ustala się w szczególności stan liczbowy tymczasowo aresztowanych.
 § 12.
 Tekst porządku wewnętrznego powinien znajdować się w każdej celi mieszkalnej. Na prośbę tymczasowo aresztowanego udostępnia się mu Kodeks oraz wydane na jego podstawie akty wykonawcze.
+Organizacja przyjmowania korespondencji i organizacja widzeń w aresztach śledczych
 § 13.
 1.
 Korespondencję tymczasowo aresztowanego administracja aresztu śledczego przyjmuje w każdym dniu roboczym, a korespondencję urzędową – codziennie.
@@ -185,6 +189,7 @@ Przyjmujący w areszcie śledczym korespondencję urzędową wysyłaną przez ty
 Potwierdzenie, o którym mowa w ust. 1, sporządza się w jednym egzemplarzu. Duplikatu potwierdzenia nie wydaje się.
 § 17.
 Wwypadku otrzymania od administracji aresztu śledczego znaczków pocztowych na korespondencję z organami, o których mowa w art. 8a § 3 Kodeksu, tymczasowo aresztowany otrzymuje od administracji aresztu śledczego także papier i koperty.
+Warunki opieki zdrowotnej i bytowej
 § 18.
 1.
 W nagłym przypadku decyzję o skierowaniu tymczasowo aresztowanego, w celu leczenia, do podmiotu leczniczego poza aresztem śledczym lub w innym areszcie śledczym może podjąć, na wniosek lekarza, dyrektor.
@@ -231,6 +236,7 @@ Dyrektor może na wniosek lekarza zmienić czas trwania i sposób odbywania spac
 Paczki niespełniającej warunków, o których mowa w art. 113a § 4 Kodeksu, oraz zawierającej artykuły, o których mowa w art. 113a § 5 Kodeksu, nie dostarcza się tymczasowo aresztowanemu. Paczkę zwraca się do nadawcy na koszt tymczasowo aresztowanego, a w uzasadnionych przypadkach na koszt aresztu śledczego.
 § 26.
 Stan sanitarny aresztu śledczego, ogrzewanie, oświetlenie i wentylacja pomieszczeń, utrzymywanie czystości przez tymczasowo aresztowanych w celach mieszkalnych, stan i czystość odzieży, bielizny oraz pościeli, ilość i jakość posiłków oraz sposób ich przyrządzania i wydawania są kontrolowane przez pracownika lub funkcjonariusza służby kwatermistrzowskiej i służby zdrowia.
+Przygotowanie tymczasowo aresztowanego do zwolnienia z aresztu śledczego
 § 27.
 1.
 Z chwilą powzięcia informacji o mającym nastąpić zwolnieniu tymczasowo aresztowanego dokonuje się weryfikacji uprzednio ustalonych potrzeb związanych z opuszczeniem aresztu śledczego oraz powrotem do miejsca zameldowania lub miejsca zamieszkania.
@@ -252,22 +258,39 @@ Jeżeli zwolnienie z aresztu śledczego następuje w godzinach 19.00–6.00, oso
 Jeżeli zwolnienie z aresztu śledczego następuje poza godzinami, o których mowa w ust. 1, dyrektor, na pisemny wniosek osoby zwolnionej, w uzasadnionych przypadkach może zezwolić tej osobie na nocleg w areszcie śledczym, na warunkach, o których mowa w tym przepisie.
 3.
 Czynności związanych ze zwolnieniem, które wymagają obecności tej osoby, dokonuje się bezpośrednio po noclegu.
+Przepis końcowy
 § 31.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 grudnia 2016 r. w sprawie regulaminu organizacyjno-porządkowego wykonywania tymczasowego aresztowania (Dz. U. poz. 2290), które traci moc z dniem wejścia w życie ustawy z dnia 5 sierpnia 2022 r. o zmianie ustawy – Kodeks karny wykonawczy oraz niektórych innych ustaw (Dz. U. poz. 1855 i 2770). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 472, 1236 i 2054 oraz z 2022 r. poz. 22, 655, 1855 i 2600. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 grudnia 2016 r. w sprawie regulaminu organizacyjno-porządkowego wykonywania tymczasowego aresztowania (Dz. U. poz. 2290), które traci moc z dniem wejścia w życie ustawy z dnia 5 sierpnia 2022 r. o zmianie ustawy – Kodeks karny wykonawczy oraz niektórych innych ustaw (Dz. U. poz. 1855 i 2770).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Organizacja przyjęć do aresztu śledczego
+#### Rozdział 2 – Organizacja przyjęć do aresztu śledczego
 
-#### Rozdział 3 Sposoby rozmieszczania tymczasowo aresztowanych w celach mieszkalnych
+#### Rozdział 3 – Sposoby rozmieszczania tymczasowo aresztowanych w celach mieszkalnych
 
-#### Rozdział 4 Porządek wewnętrzny aresztu śledczego
+#### Rozdział 4 – Porządek wewnętrzny aresztu śledczego
 
-#### Rozdział 5 Organizacja przyjmowania korespondencji i organizacja widzeń w aresztach śledczych
+#### Rozdział 5 – Organizacja przyjmowania korespondencji i organizacja widzeń w aresztach śledczych
 
-#### Rozdział 6 Warunki opieki zdrowotnej i bytowej
+#### Rozdział 6 – Warunki opieki zdrowotnej i bytowej
 
-#### Rozdział 7 Przygotowanie tymczasowo aresztowanego do zwolnienia z aresztu śledczego
+#### Rozdział 7 – Przygotowanie tymczasowo aresztowanego do zwolnienia z aresztu śledczego
 
-#### Rozdział 8 Przepis końcowy
+#### Rozdział 8 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

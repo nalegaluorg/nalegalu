@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-09-24 |
 | Data wydania | 2010-10-27 |
-| Wejście w życie | 2010-11-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102001323) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1323/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 106, poz. 675, Nr 143, poz. 963 i Nr 155, poz. 1043 i Nr 197, poz. 1307.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 pkt 17 otrzymuje brzmienie: „
 - **17)** stanie nieruchomości – należy przez to rozumieć stan zagospodarowania, stan prawny, stan techniczno-użytkowy, stopień wyposażenia w urządzenia infrastruktury technicznej, a także stan otoczenia nieruchomości, w tym wielkość, charakter i stopień zurbanizowania miejscowości, w której nieruchomość jest położona; ” ;
@@ -146,5 +145,5 @@ source: "eli-html"
 
 **Art. 2.** W sprawach wszczętych i niezakończonych, prowadzonych na podstawie przepisów działu III ustawy, o której mowa w art. 1, stosuje się przepisy dotychczasowe.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 106, poz. 675, Nr 143, poz. 963 i Nr 155, poz. 1043 i Nr 197, poz. 1307.
 

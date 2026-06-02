@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 maja 2021 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
+# Ustawa z dnia 28 maja 2021 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 22 marca 2018 r. o komornikach sądowych, ustawę z dnia 30 sierpnia 2019 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-28 |
 | Data wydania | 2021-06-18 |
-| Wejście w życie | 2021-07-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001090) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1090/text.pdf) |
+
+Sprzedaż nieruchomości w drodze licytacji elektronicznej
 
 **Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2020 r. poz. 1575, 1578 i 2320 oraz z 2021 r. poz. 11) wprowadza się następujące zmiany:
 
@@ -38,7 +39,7 @@ source: "eli-html"
 - **5)** czas, w którym w ciągu dwóch tygodni przed licytacją wolno będzie oglądać nieruchomość oraz przeglądać w sądzie protokół opisu i oszacowania; ” ;
 - **3)** w części trzeciej w tytule II w dziale VI po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „
 
-#### Rozdział 6a Sprzedaż nieruchomości w drodze licytacji elektronicznej
+#### Rozdział 6a
 
 **Art. 9861.**
 
@@ -144,7 +145,7 @@ source: "eli-html"
 - **2)** w art. 23 pkt 1a otrzymuje brzmienie: „
 - **1a)** art. 1 pkt 2–4 i 47 oraz art. 21a, które wchodzą w życie z dniem 1 lipca 2021 r.; ” .
 
-**Art. 4.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180, 694, 981 i 1023.) wprowadza się następujące zmiany:
 
 - **1)** art. 15zzs1otrzymuje brzmienie: „ Art. 15zzs1.
 
@@ -254,6 +255,6 @@ source: "eli-html"
 
 - **1)** art. 1 pkt 3 oraz art. 5, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
 - **2)** art. 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
-- **3)** art. 3, który wchodzi w życie z dniem 1 lipca 2021 r.
+- **3)** art. 3, który wchodzi w życie z dniem 1 lipca 2021 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 22 marca 2018 r. o komornikach sądowych, ustawę z dnia 30 sierpnia 2019 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180, 694, 981 i 1023.
 
 

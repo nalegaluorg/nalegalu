@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 13 października 2017 r. w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać urządzenia do odzyskiwania par paliwa
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 13 października 2017 r. w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać urządzenia do odzyskiwania par paliwa Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-13 |
 | Data wydania | 2017-10-19 |
-| Wejście w życie | 2017-10-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001946) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1946/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 23a ust. 6 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2017 r. poz. 1040 i 1555) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/126/WE z dnia 21 października 2009 r. w sprawie odzyskiwania oparów paliwa na etapie II podczas tankowania pojazdów silnikowych na stacjach paliw (Dz. Urz. UE L 285 z 31.10.2009, str. 36 oraz Dz. Urz. UE L 304 z 23.10.2014, str. 89). Na podstawie art. 23a ust. 6 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2017 r. poz. 1040 i 1555) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa warunki techniczne dozoru technicznego dla urządzeń do odzyskiwania par paliwa w toku ich eksploatacji, w tym rodzaj dokumentu potwierdzającego spełnienie przez to urządzenie wymagań dotyczących minimalnego poziomu odzyskiwania par paliwa, wymagania dotyczące minimalnego poziomu odzyskiwania par paliwa przez te urządzenia oraz metody i częstotliwość przeprowadzania badań technicznych tych urządzeń.
 § 2.
@@ -54,6 +53,5 @@ automatyczne zatrzymanie przepływu paliwa z wadliwego odmierzacza paliw płynny
 § 6.
 Urządzenia do odzyskiwania par paliwa zainstalowane na stacjach paliw płynnych, których rzeczywista przepustowość przekracza 3000 m³ rocznie, spełniają wymagania, o których mowa w § 3, od dnia 1 stycznia 2019 r.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/126/WE z dnia 21 października 2009 r. w sprawie odzyskiwania oparów paliwa na etapie II podczas tankowania pojazdów silnikowych na stacjach paliw (Dz. Urz. UE L 285 z 31.10.2009, str. 36 oraz Dz. Urz. UE L 304 z 23.10.2014, str. 89).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/126/WE z dnia 21 października 2009 r. w sprawie odzyskiwania oparów paliwa na etapie II podczas tankowania pojazdów silnikowych na stacjach paliw (Dz. Urz. UE L 285 z 31.10.2009, str. 36 oraz Dz. Urz. UE L 304 z 23.10.2014, str. 89).
 

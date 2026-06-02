@@ -26,19 +26,19 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000546) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/546/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych Rozdział 1 – Przepisy ogólne Rozdział 2 – Organ administracji rządowej właściwy w sprawach GMM i GMO Rozdział 2a – Zamknięte użycie GMM Rozdział 3 – Zamknięte użycie GMO Rozdział 4 – Zamierzone uwolnienie GMO do środowiska Rozdział 5 – Wprowadzenie do obrotu Rozdział 6 Rozdział 7 – Zasady odpowiedzialności cywilnej i karnej Rozdział 8 – Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2021 r. poz. 117), z uwzględnieniem zmian wprowadzonych ustawą z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 stycznia 2022 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 56 i art. 60 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 56 i art. 60 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718), które stanowią: „ 1) Niniejsza ustawa:
 1)
 służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych (Dz. Urz. UE L 317 z 04.11.2014, str. 35 oraz Dz. Urz. UE L 317 z 23.11.2016, str. 4);
 2)
-w zakresie swojej regulacji wdraża dyrektywę Komisji (UE) 2018/350 z dnia 8 marca 2018 r. zmieniającą dyrektywę Parlamentu Europejskiego i Rady 2001/18/WE w odniesieniu do oceny ryzyka organizmów zmodyfikowanych genetycznie dla środowiska naturalnego (Dz. Urz. UE L 67 z 09.03.2018, str. 30).
-”
-„
+w zakresie swojej regulacji wdraża dyrektywę Komisji (UE) 2018/350 z dnia 8 marca 2018 r. zmieniającą dyrektywę Parlamentu Europejskiego i Rady 2001/18/WE w odniesieniu do oceny ryzyka organizmów zmodyfikowanych genetycznie dla środowiska naturalnego (Dz. Urz. UE L 67 z 09.03.2018, str. 30). ” „
+Przepisy ogólne
+Organ administracji rządowej właściwy w sprawach GMM i GMO
+Zamknięte użycie GMM
 1.
 W zależności od stopnia zagrożenia dla zdrowia ludzi i dla środowiska wyróżnia się cztery kategorie zamkniętego użycia GMM:
 1)
@@ -281,8 +281,7 @@ wniosku o wydanie zezwolenia na prowadzenie zakładu inżynierii genetycznej, w 
 2)
 zgłoszenia prowadzenia zamkniętego użycia GMM zaliczonych do I lub II kategorii,
 3)
-wniosku o wydanie zgody na zamknięte użycie GMM zaliczonych do II, III i IV kategorii
-mając na względzie ujednolicenie formy składanych zgłoszeń oraz wniosków.
+wniosku o wydanie zgody na zamknięte użycie GMM zaliczonych do II, III i IV kategorii – mając na względzie ujednolicenie formy składanych zgłoszeń oraz wniosków.
 1.
 Przed wniesieniem wniosku o wydanie zgody na zamknięte użycie GMM zaliczonych do III lub IV kategorii, podmiot, który zamierza prowadzić takie działania, przygotowuje plan postępowania na wypadek awarii.
 2.
@@ -358,8 +357,7 @@ Minister właściwy do spraw środowiska, w drodze decyzji, uruchamia środki po
 1)
 w przypadku wystąpienia awarii,
 2)
-na wniosek podmiotów, którym przysługują roszczenia z tytułu wyrządzonej szkody, stwierdzone prawomocnym wyrokiem sądu albo wynikające z ugody zawartej przez strony
-chyba że dokonujący zamkniętego użycia GMM zaliczonych do III lub IV kategorii pokrył z własnych środków koszty usunięcia skutków awarii lub zaspokoił roszczenia z tytułu wyrządzonej szkody.
+na wniosek podmiotów, którym przysługują roszczenia z tytułu wyrządzonej szkody, stwierdzone prawomocnym wyrokiem sądu albo wynikające z ugody zawartej przez strony – chyba że dokonujący zamkniętego użycia GMM zaliczonych do III lub IV kategorii pokrył z własnych środków koszty usunięcia skutków awarii lub zaspokoił roszczenia z tytułu wyrządzonej szkody.
 7.
 Minister właściwy do spraw środowiska, po wydaniu decyzji o cofnięciu zgody na zamknięte użycie GMM zaliczonych do III lub IV kategorii lub po stwierdzeniu jej wygaśnięcia, zwalnia ustanowione zabezpieczenie.
 Dokonujący zamkniętego użycia GMM jest obowiązany do:
@@ -464,26 +462,55 @@ w decyzjach o cofnięciu zgody na zamknięte użycie GMM zaliczonych do II, III 
 5)
 w decyzjach nakazujących zaprzestanie prowadzenia działań zamkniętego użycia GMM albo ich zawieszenie do czasu usunięcia wskazanych uchybień,
 6)
-w opiniach, o których mowa w art. 13 ust. 1 pkt 1, dotyczących wniosków o wydanie zgody na zamknięte użycie GMM
-oraz ich aktualizacje.
+w opiniach, o których mowa w art. 13 ust. 1 pkt 1, dotyczących wniosków o wydanie zgody na zamknięte użycie GMM – oraz ich aktualizacje.
 4.
 Minister właściwy do spraw środowiska udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej Rejestr Zamkniętego Użycia Mikroorganizmów Genetycznie Zmodyfikowanych.
 5.
 Dane zawarte w Rejestrze Zamkniętego Użycia Mikroorganizmów Genetycznie Zmodyfikowanych są jawne, z wyjątkiem informacji wyłączonych z udostępnienia zgodnie z art. 14a ust. 4 i ust. 7 pkt 2.
 6.
 Wgląd do Rejestru Zamkniętego Użycia Mikroorganizmów Genetycznie Zmodyfikowanych jest bezpłatny. Za sporządzanie odpisów i wyciągów jest pobierana opłata w wysokości 50 gr za stronę, która stanowi dochód budżetu państwa.
+Zamknięte użycie GMO
+Zamierzone uwolnienie GMO do środowiska
+Wprowadzenie do obrotu
 (uchylony)
+Zasady odpowiedzialności cywilnej i karnej
+Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
 Art. 66–74.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Organ administracji rządowej właściwy w sprawach GMM i GMO
+
+#### Rozdział 2a – Zamknięte użycie GMM
+
+#### Rozdział 3 – Zamknięte użycie GMO
+
+#### Rozdział 4 – Zamierzone uwolnienie GMO do środowiska
+
+#### Rozdział 5 – Wprowadzenie do obrotu
+
+#### Rozdział 6
+
+#### Rozdział 7 – Zasady odpowiedzialności cywilnej i karnej
+
+#### Rozdział 8 – Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
 
 **Art. 56.** Do spraw wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie ustawy stosuje się przepisy ustawy. ” „
 
 **Art. 60.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 43, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
-- **2)** art. 40 pkt 6, który wchodzi w życie z dniem 1 kwietnia 2022 r. ” . Załącznik – Tekst jednolity ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych
+- **2)** art. 40 pkt 6, który wchodzi w życie z dniem 1 kwietnia 2022 r. ” . Załącznik – Tekst jednolity ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanychPrzepisy niniejszej ustawy w zakresie swojej regulacji:
+    - **a)** rozporządzenia (WE) nr 1946/2003 Parlamentu Europejskiego i Rady z dnia 15 lipca 2003 r. w sprawie transgranicznego przemieszczania organizmów genetycznie zmodyfikowanych (Dz. Urz. UE L 287 z 05.11.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 650),
+    - **b)** rozporządzenia (WE) nr 1829/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. w sprawie genetycznie zmodyfikowanej żywności i paszy (Dz. Urz. UE L 268 z 18.10.2003, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 432),
+    - **c)** rozporządzenia (WE) nr 1830/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. dotyczącego możliwości śledzenia i etykietowania organizmów zmodyfikowanych genetycznie oraz możliwości śledzenia żywności i produktów paszowych wyprodukowanych z organizmów zmodyfikowanych genetycznie i zmieniającego dyrektywę 2001/18/WE (Dz. Urz. UE L 268 z 18.10.2003, str. 24, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 455),
+    - **d)** rozporządzenia Komisji (WE) nr 65/2004 z dnia 14 stycznia 2004 r. ustanawiającego system ustanawiania oraz przypisywania niepowtarzalnych identyfikatorów organizmom zmodyfikowanym genetycznie (Dz. Urz. UE L 10 z 16.01.2004, str. 5; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 33, str. 11),
+    - **e)** rozporządzenia Komisji (WE) nr 1981/2006 z dnia 22 grudnia 2006 r. ustalającego szczegółowe zasady wykonania przepisów art. 32 rozporządzenia (WE) nr 1829/2003 Parlamentu Europejskiego i Rady w odniesieniu do wspólnotowego laboratorium referencyjnego dla organizmów zmodyfikowanych genetycznie (Dz. Urz. UE L 368 z 23.12.2006, str. 99, z późn. zm.);
+    - **a)** dyrektywy Parlamentu Europejskiego i Rady 2001/18/WE z dnia 12 marca 2001 r. w sprawie zamierzonego uwalniania do środowiska organizmów zmodyfikowanych genetycznie i uchylającej dyrektywę Rady 90/220/EWG (Dz. Urz. WE L 106 z 17.04.2001, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 77),
+    - **b)** dyrektywy Parlamentu Europejskiego i Rady 2009/41/WE z dnia 6 maja 2009 r. w sprawie ograniczonego stosowania mikroorganizmów zmodyfikowanych genetycznie (Dz. Urz. UE L 125 z 21.05.2009, str. 75).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa zasady:
 
@@ -601,16 +628,10 @@ Art. 66–74.
 
 - **1)** identyfikację cechy lub sposobu użycia GMO, które mogą wywoływać szkodliwe skutki, oraz porównanie ich z cechami organizmu niezmodyfikowanego i jego użyciem w podobnych warunkach;
 - **2)** ocenę potencjalnych skutków każdego szkodliwego oddziaływania, dokonaną z uwzględnieniem cechy środowiska, do którego następuje uwolnienie GMO, oraz sposobu jego uwolnienia, a także oszacowanie prawdopodobieństwa wystąpienia każdego z tych skutków;
-- **3)** określenie sposobów przeciwdziałania zagrożeniom i ich potencjalnym skutkom;
-- **4)** identyfikację cech roślin GMO oraz GMO innych niż rośliny GMO, które mogą mieć potencjalny wpływ na biotyczne i abiotyczne elementy ekosystemu.
-
-5a. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:
-
+- **3)** określenie sposobów przeciwdziałania zagrożeniom i ich potencjalnym skutkom; 4Dodany przez art. 43 pkt 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718), która weszła w życie z dniem 18 grudnia 2021 r.; wszedł w życie z dniem 2 października 2021 r.) identyfikację cech roślin GMO oraz GMO innych niż rośliny GMO, które mogą mieć potencjalny wpływ na biotyczne i abiotyczne elementy ekosystemu. 5aDodany przez art. 43 pkt 2 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 2 października 2021 r.. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:
 - **1)** sposób przeprowadzania oceny zagrożenia,
 - **2)** szczegółowe wytyczne, metodologię oraz tryb przeprowadzania oceny zagrożenia,
-- **3)** informacje wymagane w przypadku oceny zagrożenia GMO innych niż rośliny GMO oraz roślin GMO w przypadku zamierzonego uwolnienia GMO do środowiska lub wprowadzenia do obrotu.
-
-5b. Wydając rozporządzenie, o którym mowa w ust. 5a, minister właściwy do spraw środowiska uwzględni stopień zagrożenia stwarzanego przez GMO dla zdrowia ludzi i dla środowiska.
+- **3)** informacje wymagane w przypadku oceny zagrożenia GMO innych niż rośliny GMO oraz roślin GMO – w przypadku zamierzonego uwolnienia GMO do środowiska lub wprowadzenia do obrotu. 5bDodany przez art. 43 pkt 2 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 2 października 2021 r.. Wydając rozporządzenie, o którym mowa w ust. 5a, minister właściwy do spraw środowiska uwzględni stopień zagrożenia stwarzanego przez GMO dla zdrowia ludzi i dla środowiska.
 
 6. Ocena zagrożenia w odniesieniu do GMM lub GMO zawierających geny markerowe kodujące oporność na antybiotyki stosowane w leczeniu ludzi lub zwierząt obejmuje również zjawisko antybiotykooporności, w celu identyfikacji i wycofania z obrotu tych mikroorganizmów lub organizmów, które mogą mieć niekorzystny wpływ na zdrowie ludzi lub na środowisko.
 
@@ -638,7 +659,7 @@ Art. 66–74.
 
 - **1)** we wnioskach o wydanie zezwolenia na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMM lub zamknięte użycie GMO,
 - **2)** w zezwoleniach na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMM lub zamknięte użycie GMO,
-- **3)** w decyzjach o cofnięciu zezwolenia na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMM lub zamknięte użycie GMO, i w decyzjach zmieniających te zezwolenia oraz ich aktualizacje.
+- **3)** w decyzjach o cofnięciu zezwolenia na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMM lub zamknięte użycie GMO, i w decyzjach zmieniających te zezwolenia – oraz ich aktualizacje.
 
 4. Minister właściwy do spraw środowiska udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej Rejestr Zakładów Inżynierii Genetycznej.
 
@@ -650,7 +671,7 @@ Art. 66–74.
 
 **Art. 8.** (uchylony)
 
-#### Rozdział 2 Organ administracji rządowej właściwy w sprawach GMM i GMO
+#### Rozdział 2
 
 **Art. 9.** Minister właściwy do spraw środowiska jest właściwy w sprawach, o których mowa w rozporządzeniu (WE) nr 1946/2003 Parlamentu Europejskiego i Rady z dnia 15 lipca 2003 r. w sprawie transgranicznego przemieszczania organizmów genetycznie zmodyfikowanych (Dz. Urz. UE L 287 z 05.11.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 650), zwanym dalej „rozporządzeniem nr 1946/2003”, z wyłączeniem spraw, w których jest właściwy:
 
@@ -738,7 +759,7 @@ Art. 66–74.
 
 - **1)** przewodniczącemu Komisji – 35%,
 - **2)** zastępcom przewodniczącego i sekretarzowi Komisji – 32%,
-- **3)** pozostałym członkom Komisji – 22% kwoty 800 zł waloryzowanej corocznie o prognozowany średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem określony w ustawie budżetowej.
+- **3)** pozostałym członkom Komisji – 22% – kwoty 800 zł waloryzowanej corocznie o prognozowany średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem określony w ustawie budżetowej.
 
 5b. Wynagrodzenie, o którym mowa w ust. 5a, nie przysługuje członkom Komisji będącym pracownikami administracji rządowej, jeżeli uczestniczą w posiedzeniach, które odbywają się w godzinach pracy.
 
@@ -823,9 +844,9 @@ Art. 66–74.
 
 3. Organy, o których mowa w ust. 1, wydają opinię w terminie 15 dni od dnia otrzymania kopii wniosku o wydanie zezwolenia na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMM lub GMO, po uprzednim przeprowadzeniu kontroli.
 
-#### Rozdział 2a Zamknięte użycie GMM
+#### Rozdział 2a
 
-#### Rozdział 3 Zamknięte użycie GMO
+#### Rozdział 3
 
 **Art. 16.** (uchylony)
 
@@ -894,7 +915,7 @@ Art. 66–74.
 **Art. 22.** Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego i nauki, ministrem właściwym do spraw rolnictwa oraz ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, wzór wniosku o wydanie:
 
 - **1)** zezwolenia na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMO,
-- **2)** zgody na zamknięte użycie GMO mając na względzie ujednolicenie formy składanych wniosków.
+- **2)** zgody na zamknięte użycie GMO – mając na względzie ujednolicenie formy składanych wniosków.
 
 **Art. 23.**
 
@@ -965,7 +986,7 @@ Art. 66–74.
 - **1)** we wnioskach o wydanie zgody na zamknięte użycie GMO,
 - **2)** w zgodach na zamknięte użycie GMO,
 - **3)** w decyzjach o cofnięciu zgody na zamknięte użycie GMO i decyzjach zmieniających te zgody,
-- **4)** w opiniach, o których mowa w art. 13 ust. 1 pkt 1, dotyczących wniosków o wydanie zgody na zamknięte użycie GMO oraz ich aktualizacje.
+- **4)** w opiniach, o których mowa w art. 13 ust. 1 pkt 1, dotyczących wniosków o wydanie zgody na zamknięte użycie GMO – oraz ich aktualizacje.
 
 4. Minister właściwy do spraw środowiska udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej Rejestr Zamkniętego Użycia Organizmów Genetycznie Zmodyfikowanych.
 
@@ -978,7 +999,7 @@ Art. 66–74.
 - **1)** przechowywania oceny zagrożenia w miejscu wykonywania działalności gospodarczej lub w swojej siedzibie i jej udostępniania na każde żądanie ministra właściwego do spraw środowiska oraz podmiotów prowadzących kontrole, o których mowa w art. 11 ust. 1 pkt 2;
 - **2)** prowadzenia ewidencji i dokumentacji dokonywania zamkniętego użycia GMO i ich przechowywania przez 5 lat od dnia zakończenia tych działań oraz udostępniania niezwłocznie na każde żądanie ministra właściwego do spraw środowiska i podmiotów prowadzących kontrole, o których mowa w art. 11 ust. 1 pkt 2.
 
-#### Rozdział 4 Zamierzone uwolnienie GMO do środowiska
+#### Rozdział 4
 
 **Art. 36.**
 
@@ -1089,7 +1110,7 @@ Art. 66–74.
 
 4. Wgląd do Rejestru Zamierzonego Uwalniania GMO do Środowiska jest bezpłatny. Za sporządzanie odpisów i wyciągów jest pobierana opłata w wysokości 50 gr za stronę, stanowiąca dochód budżetu państwa.
 
-#### Rozdział 5 Wprowadzenie do obrotu
+#### Rozdział 5
 
 **Art. 41.** Wprowadzenie do obrotu wymaga uzyskania zezwolenia ministra właściwego do spraw środowiska, wydawanego na wniosek zainteresowanego. Przepisy art. 23 ust. 2 i 3, art. 24 ust. 2, art. 30, art. 32 oraz art. 35 stosuje się odpowiednio. Wprowadzenie do obrotu nie wymaga uzyskania zezwolenia, o którym mowa w art. 41, jeżeli produkt GMO został wprowadzony do obrotu na podstawie przepisów rozporządzenia (WE) nr 1829/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. w sprawie genetycznie zmodyfikowanej żywności i paszy albo na podstawie decyzji wydanej przez państwo członkowskie inne niż Rzeczpospolita Polska zgodnie z przepisami wdrażającymi część C dyrektywy Parlamentu Europejskiego i Rady 2001/18/WE z dnia 12 marca 2001 r. w sprawie zamierzonego uwalniania do środowiska organizmów zmodyfikowanych genetycznie i uchylającej dyrektywę Rady 90/220/EWG.
 
@@ -1293,7 +1314,7 @@ Art. 66–74.
 18. Przy wydawaniu odmowy na podstawie przesłanki, o której mowa w ust. 17 pkt 3, minister właściwy do spraw środowiska bierze pod uwagę aktualną wiedzę naukową, lokalizację uprawy GMO, która ma być prowadzona, względem form ochrony przyrody, o których mowa w art. 6 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, a także proporcjonalność oraz niedyskryminujący charakter przyjętych rozstrzygnięć. Wniosek o dokonanie wpisu uprawy GMO do Rejestru Upraw GMO, który dotyczy:
 
 - **1)** rośliny GMO, która nie została wprowadzona do obrotu z przeznaczeniem do uprawy,
-- **2)** rośliny GMO wprowadzonej do obrotu z przeznaczeniem do uprawy, której uprawa na terytorium Rzeczypospolitej Polskiej jest zakazana na podstawie art. 49b ust. 2 albo przepisów wydanych na podstawie art. 49c ust. 1, albo na podstawie przepisów odrębnych pozostawia się bez rozpoznania. Podmiot prowadzący uprawę GMO niezwłocznie informuje ministra właściwego do spraw środowiska i wojewódzkiego inspektora ochrony roślin i nasiennictwa właściwego ze względu na miejsce uprawy GMO o zmianie danych podanych we wniosku, o których mowa w art. 49e ust. 4 pkt 1, nie później jednak niż w terminie 14 dni od dnia zaistnienia tej zmiany. Minister właściwy do spraw środowiska wykreśla wpis uprawy GMO z Rejestru Upraw GMO, jeżeli:
+- **2)** rośliny GMO wprowadzonej do obrotu z przeznaczeniem do uprawy, której uprawa na terytorium Rzeczypospolitej Polskiej jest zakazana na podstawie art. 49b ust. 2 albo przepisów wydanych na podstawie art. 49c ust. 1, albo na podstawie przepisów odrębnych – pozostawia się bez rozpoznania. Podmiot prowadzący uprawę GMO niezwłocznie informuje ministra właściwego do spraw środowiska i wojewódzkiego inspektora ochrony roślin i nasiennictwa właściwego ze względu na miejsce uprawy GMO o zmianie danych podanych we wniosku, o których mowa w art. 49e ust. 4 pkt 1, nie później jednak niż w terminie 14 dni od dnia zaistnienia tej zmiany. Minister właściwy do spraw środowiska wykreśla wpis uprawy GMO z Rejestru Upraw GMO, jeżeli:
 - **1)** uprawa dotyczy rośliny GMO wprowadzonej do obrotu z przeznaczeniem do uprawy, w przypadku gdy zezwolenie na wprowadzenie do obrotu z przeznaczeniem do uprawy zostało zawieszone albo cofnięte;
 - **2)** kontrola, o której mowa w art. 49j ust. 5 pkt 1, wykaże, że uprawa GMO jest prowadzona niezgodnie z warunkami i sposobem prowadzenia tej uprawy określonymi we wpisie uprawy GMO w Rejestrze Upraw GMO.
 
@@ -1322,7 +1343,7 @@ Art. 66–74.
 6. Wojewódzki inspektor ochrony roślin i nasiennictwa, przeprowadzając kontrolę:
 
 - **1)** o której mowa w ust. 5 pkt 2, pobiera próbki roślin lub produktów roślinnych do badań laboratoryjnych,
-- **2)** o której mowa w ust. 5 pkt 1, może pobrać próbki roślin lub produktów roślinnych do badań laboratoryjnych, jeżeli wystąpią zastrzeżenia do kontrolowanej dokumentacji w celu zidentyfikowania modyfikacji genetycznej.
+- **2)** o której mowa w ust. 5 pkt 1, może pobrać próbki roślin lub produktów roślinnych do badań laboratoryjnych, jeżeli wystąpią zastrzeżenia do kontrolowanej dokumentacji – w celu zidentyfikowania modyfikacji genetycznej.
 
 7. Badania laboratoryjne są wykonywane przez Głównego Inspektora Ochrony Roślin i Nasiennictwa.
 
@@ -1360,7 +1381,7 @@ Art. 66–74.
 
 #### Rozdział 6
 
-#### Rozdział 7 Zasady odpowiedzialności cywilnej i karnej
+#### Rozdział 7
 
 **Art. 57.**
 
@@ -1415,14 +1436,14 @@ Art. 66–74.
 **Art. 64.** Kto, wbrew obowiązkowi określonemu:
 
 - **1)** w art. 6 ust. 7 lub 8, nie dokonuje aktualizacji oceny zagrożenia lub zastosowanych środków bezpieczeństwa albo nie przekazuje tych aktualizacji ministrowi właściwemu do spraw środowiska,
-- **2)** w art. 15q ust. 3 pkt 2 lub 3, nie dokonuje aktualizacji planu postępowania na wypadek awarii lub nie przekazuje tej aktualizacji ministrowi właściwemu do spraw środowiska podlega karze pozbawienia wolności do lat 3.
+- **2)** w art. 15q ust. 3 pkt 2 lub 3, nie dokonuje aktualizacji planu postępowania na wypadek awarii lub nie przekazuje tej aktualizacji ministrowi właściwemu do spraw środowiska – podlega karze pozbawienia wolności do lat 3.
 
 **Art. 65.** Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew obowiązkowi określonemu:
 
 - **1)** w art. 15s pkt 1 lub w art. 35 pkt 1, nie przechowuje i nie udostępnia oceny zagrożenia,
 - **2)** w art. 15s pkt 3 lit. a lub w art. 32 pkt 1, nie informuje zgodnie z tymi przepisami o każdej zmianie warunków zamkniętego użycia GMM lub zamkniętego użycia GMO, która może mieć wpływ na zwiększenie zagrożenia dla zdrowia ludzi lub dla środowiska,
 - **3)** w art. 15s pkt 6 lub art. 35 pkt 2, nie prowadzi ewidencji i dokumentacji dokonywania zamkniętego użycia GMM lub zamkniętego użycia GMO lub nie przechowuje tej ewidencji lub dokumentacji przez czas wymagany w tych przepisach,
-- **4)** w art. 47 ust. 1, nie oznakowuje produktów GMO w sposób określony w art. 47 ust. 2 podlega karze grzywny. Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew obowiązkowi określonemu w art. 4 rozporządzenia nr 1946/2003, nie dokonuje zgłoszenia GMO przeznaczonego do zamierzonego uwolnienia do środowiska lub dokonuje tego zgłoszenia niezgodnie z tym przepisem, podlega karze grzywny. Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew obowiązkowi określonemu w art. 6 rozporządzenia nr 1946/2003, przez 5 lat nie przechowuje dokumentacji zgłoszenia GMO przeznaczonego do zamierzonego uwolnienia do środowiska, o którym mowa w art. 4 rozporządzenia nr 1946/2003, lub nie przechowuje potwierdzenia dokonania tego zgłoszenia lub decyzji, o której mowa w art. 6 rozporządzenia nr 1946/2003, albo nie przekazuje ich kopii ministrowi właściwemu do spraw środowiska i Komisji Europejskiej, podlega karze grzywny. Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew obowiązkowi określonemu w art. 12 ust. 1 rozporządzenia nr 1946/2003, nie podaje w dokumentacji towarzyszącej GMO informacji określonych w art. 12 ust. 1–4 rozporządzenia nr 1946/2003, nie przekazuje ich importerowi otrzymującemu GMO lub dokonuje tego z naruszeniem wymagań określonych w tych przepisach, podlega karze grzywny. Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew obowiązkowi określonemu w art. 13 rozporządzenia nr 1946/2003, nie powiadamia o tranzycie GMO zgodnie z tym przepisem, podlega karze grzywny. Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew obowiązkowi określonemu w art. 4 ust. 1, 2 i 4 rozporządzenia (WE) nr 1830/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. dotyczącego możliwości śledzenia i etykietowania organizmów zmodyfikowanych genetycznie oraz możliwości śledzenia żywności i produktów paszowych wyprodukowanych z organizmów zmodyfikowanych genetycznie i zmieniającego dyrektywę 2001/18/WE (Dz. Urz. UE L 268 z 18.10.2003, str. 24, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 455), nie przekazuje informacji o wprowadzonym do obrotu GMO przeznaczonym do przetwarzania niebędącym żywnością lub paszą zgodnie z art. 4 ust. 1 i 2 tego rozporządzenia lub nie przechowuje tych informacji zgodnie z art. 4 ust. 4 tego rozporządzenia, podlega karze grzywny.
+- **4)** w art. 47 ust. 1, nie oznakowuje produktów GMO w sposób określony w art. 47 ust. 2 – podlega karze grzywny. Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew obowiązkowi określonemu w art. 4 rozporządzenia nr 1946/2003, nie dokonuje zgłoszenia GMO przeznaczonego do zamierzonego uwolnienia do środowiska lub dokonuje tego zgłoszenia niezgodnie z tym przepisem, podlega karze grzywny. Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew obowiązkowi określonemu w art. 6 rozporządzenia nr 1946/2003, przez 5 lat nie przechowuje dokumentacji zgłoszenia GMO przeznaczonego do zamierzonego uwolnienia do środowiska, o którym mowa w art. 4 rozporządzenia nr 1946/2003, lub nie przechowuje potwierdzenia dokonania tego zgłoszenia lub decyzji, o której mowa w art. 6 rozporządzenia nr 1946/2003, albo nie przekazuje ich kopii ministrowi właściwemu do spraw środowiska i Komisji Europejskiej, podlega karze grzywny. Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew obowiązkowi określonemu w art. 12 ust. 1 rozporządzenia nr 1946/2003, nie podaje w dokumentacji towarzyszącej GMO informacji określonych w art. 12 ust. 1–4 rozporządzenia nr 1946/2003, nie przekazuje ich importerowi otrzymującemu GMO lub dokonuje tego z naruszeniem wymagań określonych w tych przepisach, podlega karze grzywny. Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew obowiązkowi określonemu w art. 13 rozporządzenia nr 1946/2003, nie powiadamia o tranzycie GMO zgodnie z tym przepisem, podlega karze grzywny. Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew obowiązkowi określonemu w art. 4 ust. 1, 2 i 4 rozporządzenia (WE) nr 1830/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. dotyczącego możliwości śledzenia i etykietowania organizmów zmodyfikowanych genetycznie oraz możliwości śledzenia żywności i produktów paszowych wyprodukowanych z organizmów zmodyfikowanych genetycznie i zmieniającego dyrektywę 2001/18/WE (Dz. Urz. UE L 268 z 18.10.2003, str. 24, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 455), nie przekazuje informacji o wprowadzonym do obrotu GMO przeznaczonym do przetwarzania niebędącym żywnością lub paszą zgodnie z art. 4 ust. 1 i 2 tego rozporządzenia lub nie przechowuje tych informacji zgodnie z art. 4 ust. 4 tego rozporządzenia, podlega karze grzywny.
 
 1. Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, bez wymaganego zezwolenia na prowadzenie zakładu inżynierii genetycznej, o którym mowa w art. 15a ust. 2, w którym jest prowadzone zamknięte użycie GMM zaliczonych do I lub II kategorii, lub zamknięte użycie GMO, zgłoszenia zamkniętego użycia GMM zaliczonych do I kategorii, o którym mowa w art. 15e pkt 1, zgłoszenia zamkniętego użycia GMM zaliczonych do II kategorii, o którym mowa w art. 15l ust. 1, zgody na zamknięte użycie GMM, o której mowa w art. 15e pkt 2, zaliczonych do II kategorii, lub zgody na zamknięte użycie GMO, o której mowa w art. 21 ust. 1, albo nie spełniając warunków określonych w tych zezwoleniach, zgłoszeniach albo zgodach, dokonuje zamkniętego użycia GMM zaliczonych do I lub II kategorii albo zamkniętego użycia GMO, podlega karze grzywny.
 
@@ -1430,7 +1451,7 @@ Art. 66–74.
 
 3. Tej samej karze podlega, kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew decyzji nakazującej zaprzestanie prowadzenia działań zamkniętego użycia GMM albo zawieszenie prowadzenia tych działań, o której mowa w art. 15m ust. 1 pkt 3, dokonuje zamkniętego użycia GMM. W sprawach o czyny, o których mowa w art. 65–65f, orzekanie następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2021 r. poz. 457, 1005, 1595 i 2328).
 
-#### Rozdział 8 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+#### Rozdział 8
 
 **Art. 75.**
 
@@ -1438,8 +1459,17 @@ Art. 66–74.
 
 2. Decyzje ostateczne wydane przed dniem wejścia w życie ustawy na podstawie dotychczasowych przepisów zachowują moc na okres, na jaki zostały wydane.
 
-**Art. 76.** Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia, z wyjątkiem przepisów art. 9, art. 10, art. 12 i art. 13, które wchodzą w życie z dniem ogłoszenia.
+**Art. 76.** Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszeniaUstawa została ogłoszona w dniu 25 lipca 2001 r., z wyjątkiem przepisów art. 9, art. 10, art. 12 i art. 13, które wchodzą w życie z dniem ogłoszenia. 1) Przepisy niniejszej ustawy w zakresie swojej regulacji:
 
-- **1)** Przepisy niniejszej ustawy w zakresie swojej regulacji:1) wykonują postanowienia: a) rozporządzenia (WE) nr 1946/2003 Parlamentu Europejskiego i Rady z dnia 15 lipca 2003 r. w sprawie transgranicznego przemieszczania organizmów genetycznie zmodyfikowanych (Dz. Urz. UE L 287 z 05.11.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 650), b) rozporządzenia (WE) nr 1829/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. w sprawie genetycznie zmodyfikowanej żywności i paszy (Dz. Urz. UE L 268 z 18.10.2003, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 432), c) rozporządzenia (WE) nr 1830/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. dotyczącego możliwości śledzenia i etykietowania organizmów zmodyfikowanych genetycznie oraz możliwości śledzenia żywności i produktów paszowych wyprodukowanych z organizmów zmodyfikowanych genetycznie i zmieniającego dyrektywę 2001/18/WE (Dz. Urz. UE L 268 z 18.10.2003, str. 24, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 455), d) rozporządzenia Komisji (WE) nr 65/2004 z dnia 14 stycznia 2004 r. ustanawiającego system ustanawiania oraz przypisywania niepowtarzalnych identyfikatorów organizmom zmodyfikowanym genetycznie (Dz. Urz. UE L 10 z 16.01.2004, str. 5; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 33, str. 11), e) rozporządzenia Komisji (WE) nr 1981/2006 z dnia 22 grudnia 2006 r. ustalającego szczegółowe zasady wykonania przepisów art. 32 rozporządzenia (WE) nr 1829/2003 Parlamentu Europejskiego i Rady w odniesieniu do wspólnotowego laboratorium referencyjnego dla organizmów zmodyfikowanych genetycznie (Dz. Urz. UE L 368 z 23.12.2006, str. 99, z późn. zm.);2) wdrażają postanowienia: a) dyrektywy Parlamentu Europejskiego i Rady 2001/18/WE z dnia 12 marca 2001 r. w sprawie zamierzonego uwalniania do środowiska organizmów zmodyfikowanych genetycznie i uchylającej dyrektywę Rady 90/220/EWG (Dz. Urz. WE L 106 z 17.04.2001, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 77), b) dyrektywy Parlamentu Europejskiego i Rady 2009/41/WE z dnia 6 maja 2009 r. w sprawie ograniczonego stosowania mikroorganizmów zmodyfikowanych genetycznie (Dz. Urz. UE L 125 z 21.05.2009, str. 75). 2) Dodany przez art. 43 pkt 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718), która weszła w życie z dniem 18 grudnia 2021 r.; wszedł w życie z dniem 2 października 2021 r. 3) Dodany przez art. 43 pkt 2 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 2 października 2021 r. 4) Ustawa została ogłoszona w dniu 25 lipca 2001 r.
+- **1)** wykonują postanowienia:
+    - **a)** rozporządzenia (WE) nr 1946/2003 Parlamentu Europejskiego i Rady z dnia 15 lipca 2003 r. w sprawie transgranicznego przemieszczania organizmów genetycznie zmodyfikowanych (Dz. Urz. UE L 287 z 05.11.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 650),
+    - **b)** rozporządzenia (WE) nr 1829/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. w sprawie genetycznie zmodyfikowanej żywności i paszy (Dz. Urz. UE L 268 z 18.10.2003, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 432),
+    - **c)** rozporządzenia (WE) nr 1830/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. dotyczącego możliwości śledzenia i etykietowania organizmów zmodyfikowanych genetycznie oraz możliwości śledzenia żywności i produktów paszowych wyprodukowanych z organizmów zmodyfikowanych genetycznie i zmieniającego dyrektywę 2001/18/WE (Dz. Urz. UE L 268 z 18.10.2003, str. 24, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 455),
+    - **d)** rozporządzenia Komisji (WE) nr 65/2004 z dnia 14 stycznia 2004 r. ustanawiającego system ustanawiania oraz przypisywania niepowtarzalnych identyfikatorów organizmom zmodyfikowanym genetycznie (Dz. Urz. UE L 10 z 16.01.2004, str. 5; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 33, str. 11),
+    - **e)** rozporządzenia Komisji (WE) nr 1981/2006 z dnia 22 grudnia 2006 r. ustalającego szczegółowe zasady wykonania przepisów art. 32 rozporządzenia (WE) nr 1829/2003 Parlamentu Europejskiego i Rady w odniesieniu do wspólnotowego laboratorium referencyjnego dla organizmów zmodyfikowanych genetycznie (Dz. Urz. UE L 368 z 23.12.2006, str. 99, z późn. zm.);
+
+- **2)** wdrażają postanowienia:
+    - **a)** dyrektywy Parlamentu Europejskiego i Rady 2001/18/WE z dnia 12 marca 2001 r. w sprawie zamierzonego uwalniania do środowiska organizmów zmodyfikowanych genetycznie i uchylającej dyrektywę Rady 90/220/EWG (Dz. Urz. WE L 106 z 17.04.2001, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 77),
+    - **b)** dyrektywy Parlamentu Europejskiego i Rady 2009/41/WE z dnia 6 maja 2009 r. w sprawie ograniczonego stosowania mikroorganizmów zmodyfikowanych genetycznie (Dz. Urz. UE L 125 z 21.05.2009, str. 75). 2) Dodany przez art. 43 pkt 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718), która weszła w życie z dniem 18 grudnia 2021 r.; wszedł w życie z dniem 2 października 2021 r. 3) Dodany przez art. 43 pkt 2 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 2 października 2021 r. 4) Ustawa została ogłoszona w dniu 25 lipca 2001 r.
 
 

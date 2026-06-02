@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 14 lutego 2019 r. zmieniające rozporządzenie w sprawie organizacji roku szkolnego
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 14 lutego 2019 r. zmieniające rozporządzenie w sprawie organizacji roku szkolnego Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-14 |
 | Data wydania | 2019-02-19 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000318) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/318/text.pdf) |
 
@@ -41,18 +40,17 @@ w § 5:
 a)
 w ust. 1:
 – w pkt 3 wyrazy „placówek kształcenia praktycznego” zastępuje się wyrazami „centrów kształcenia zawodowego”,
-– w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) szkół specjalnych przysposabiających do pracy – do 4 dni. ” ,
+w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+4)
+szkół specjalnych przysposabiających do pracy – do 4 dni. ” ,
 b)
-w ust. 2 w pkt 1 lit. c otrzymuje brzmienie:
-„
+w ust. 2 w pkt 1 lit. c otrzymuje brzmienie: „
 c)
-egzamin zawodowy;
-” ,
+egzamin zawodowy; ” ,
 c)
 w ust. 4 wyrazy „egzamin potwierdzający kwalifikacje w zawodzie” zastępuje się wyrazami „egzamin zawodowy”.
 § 2.
 Do zakończenia roku szkolnego 2026/2027 dodatkowe dni wolne, o których mowa w § 5 ust. 1 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mogą być ustalone również w dni, w których w szkole lub placówce odbywa się egzamin potwierdzający kwalifikacje w zawodzie, o którym mowa w art. 130 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432). Przepis § 5 ust. 4 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się odpowiednio.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 

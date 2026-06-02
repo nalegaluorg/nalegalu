@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-06-21 |
 | Data wydania | 2001-08-07 |
-| Wejście w życie | 2001-08-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010810875) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/875/text.pdf) |
 
@@ -57,7 +56,7 @@ source: "eli-html"
 1. Izba:
 
 - **1)** nie może prowadzić działalności gospodarczej,
-- **2)** może wyłącznie: być wspólnikiem spółki z ograniczoną odpowiedzialnością lub akcjonariuszem spółki akcyjnej, tworzyć fundacje, być członkiem wspierającym stowarzyszenia oraz założycielem lub członkiem związku stowarzyszeń które prowadzą działalność w zakresie zgodnym z ustawowymi i statutowymi zadaniami izby.
+- **2)** może wyłącznie: być wspólnikiem spółki z ograniczoną odpowiedzialnością lub akcjonariuszem spółki akcyjnej, tworzyć fundacje, być członkiem wspierającym stowarzyszenia oraz założycielem lub członkiem związku stowarzyszeń – które prowadzą działalność w zakresie zgodnym z ustawowymi i statutowymi zadaniami izby.
     - **a)**
     - **b)**
     - **c)**

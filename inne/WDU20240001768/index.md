@@ -26,13 +26,24 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001768) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1768/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 27 października 2017 r. o Ogólnopolskiej Sieci Edukacyjnej Rozdział 1 – Przepisy ogólne Rozdział 2 – Zadania operatora OSE Rozdział 3 – Finansowanie zadań operatora OSE Rozdział 4 – Przepisy epizodyczne, przepisy przejściowe i przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 27 października 2017 r. o Ogólnopolskiej Sieci Edukacyjnej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 października 2017 r. o Ogólnopolskiej Sieci Edukacyjnej (Dz. U. z 2022 r. poz. 2454), z uwzględnieniem zmian wprowadzonych ustawą z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 listopada 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 124 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 124 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), który stanowi: „
+Przepisy ogólne
+Zadania operatora OSE
+Finansowanie zadań operatora OSE
+Przepisy epizodyczne, przepisy przejściowe i przepis końcowy
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Zadania operatora OSE
+
+#### Rozdział 3 – Finansowanie zadań operatora OSE
+
+#### Rozdział 4 – Przepisy epizodyczne, przepisy przejściowe i przepis końcowy
 
 **Art. 124.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
 
@@ -42,7 +53,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **4)** art. 39 pkt 31, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
 - **5)** art. 49 i art. 106, które wchodzą w życie z dniem 18 października 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 27 października 2017 r. o Ogólnopolskiej Sieci Edukacyjnej
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa cele i źródła finansowania Ogólnopolskiej Sieci Edukacyjnej, zwanej dalej „OSE”, operatora OSE oraz jego zadania.
 
@@ -54,7 +65,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **2)** podnoszenia poziomu kompetencji cyfrowych uczniów, zgodnie z przepisami wydanymi na podstawie art. 47 ust. 1 pkt 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, i nauczycieli w ramach doskonalenia zawodowego nauczycieli;
 - **3)** umożliwienia wspomagania procesu kształcenia w szkole.
 
-#### Rozdział 2 Zadania operatora OSE
+#### Rozdział 2
 
 **Art. 4.** Operatorem OSE jest Naukowa i Akademicka Sieć Komputerowa – Państwowy Instytut Badawczy.
 
@@ -72,7 +83,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 1. W przypadku gdy warunki techniczne istniejącej infrastruktury telekomunikacyjnej nie pozwalają na świadczenie usługi spełniającej parametry, o których mowa w art. 5 pkt 2, minister właściwy do spraw informatyzacji, po zasięgnięciu opinii Prezesa Urzędu Komunikacji Elektronicznej, na wniosek operatora OSE, zawierający:
 
 - **1)** uzasadnienie braku możliwości świadczenia usługi spełniającej parametry, o których mowa w art. 5 pkt 2, oraz
-- **2)** wskazanie maksymalnych parametrów usługi, której świadczenie jest możliwe może zezwolić na świadczenie usługi niespełniającej parametrów określonych w art. 5 pkt 2 na czas określony, nie dłuższy niż 12 miesięcy.
+- **2)** wskazanie maksymalnych parametrów usługi, której świadczenie jest możliwe – może zezwolić na świadczenie usługi niespełniającej parametrów określonych w art. 5 pkt 2 na czas określony, nie dłuższy niż 12 miesięcy.
 
 2. Operator OSE może finansować szkole usługę szerokopasmowego dostępu do Internetu nieświadczoną przez operatora OSE, w przypadku gdy została zawarta umowa, o której mowa w art. 7 ust. 4, ale z przyczyn niezależnych od operatora OSE nie ma on możliwości świadczenia szkole usługi, o której mowa w art. 5 pkt 2. Usługa ta jest finansowana do dnia rozpoczęcia świadczenia przez operatora OSE usługi, o której mowa w art. 5 pkt 2, chyba że szkoła do tego dnia rozwiązała umowę o świadczenie usług przez operatora OSE.
 
@@ -117,7 +128,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 2. Operator OSE może:
 
 - **1)** budować infrastrukturę telekomunikacyjną niezbędną do przygotowania OSE, jeżeli nie jest możliwe wykorzystanie istniejącej infrastruktury telekomunikacyjnej;
-- **2)** doprowadzić przyłącze telekomunikacyjne do szkoły w celu świadczenia usługi, o której mowa w art. 5 pkt 2, jeżeli: przyłącze telekomunikacyjne nie istnieje albo istniejące przyłącze nie pozwala na świadczenie szkole usługi spełniającej parametry, o których mowa w art. 5 pkt 2 a doprowadzenie przyłącza pozwalającego na świadczenie szkole usługi spełniającej parametry, o których mowa w art. 5 pkt 2, nie jest planowane w ramach inwestycji realizowanych ze środków publicznych lub w ramach planów inwestycyjnych zgłoszonych zgodnie z przepisami wydanymi przez ministra właściwego do spraw informatyzacji na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818).
+- **2)** doprowadzić przyłącze telekomunikacyjne do szkoły w celu świadczenia usługi, o której mowa w art. 5 pkt 2, jeżeli: przyłącze telekomunikacyjne nie istnieje albo istniejące przyłącze nie pozwala na świadczenie szkole usługi spełniającej parametry, o których mowa w art. 5 pkt 2 – a doprowadzenie przyłącza pozwalającego na świadczenie szkole usługi spełniającej parametry, o których mowa w art. 5 pkt 2, nie jest planowane w ramach inwestycji realizowanych ze środków publicznych lub w ramach planów inwestycyjnych zgłoszonych zgodnie z przepisami wydanymi przez ministra właściwego do spraw informatyzacji na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818).
     - **a)**
     - **b)**
 
@@ -131,17 +142,13 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 9.** Ustanowienie służebności przesyłu na gruntach stanowiących własność organu prowadzącego szkołę lub jednostki samorządu terytorialnego, na której terenie zlokalizowana jest ta szkoła, w celu doprowadzenia przyłącza telekomunikacyjnego do tej szkoły jest nieodpłatne w okresie świadczenia szkole usługi szerokopasmowego dostępu do Internetu.
 
-#### Rozdział 3 Finansowanie zadań operatora OSE
+#### Rozdział 3
 
-**Art. 10.**
-
-1. Wykonywanie przez operatora OSE zadań, o których mowa w art. 5 i art. 6, finansowane jest ze środków budżetu państwa lub Funduszu Szerokopasmowego, o którym mowa w art. 16a ust. 1 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych, w formie dotacji celowej udzielanej przez ministra właściwego do spraw informatyzacji lub z budżetu środków europejskich.
-
-2. Korzystanie przez szkołę:
+**Art. 10.** 1Ze zmianą wprowadzoną przez art. 52 pkt 1 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), która weszła w życie z dniem 10 listopada 2024 r.; wszedł w życie z dniem 10 sierpnia 2024 r.. Wykonywanie przez operatora OSE zadań, o których mowa w art. 5 i art. 6, finansowane jest ze środków budżetu państwa lub Funduszu Szerokopasmowego, o którym mowa w art. 16a ust. 1 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych, w formie dotacji celowej udzielanej przez ministra właściwego do spraw informatyzacji lub z budżetu środków europejskich. 2. Korzystanie przez szkołę:
 
 - **1)** z usługi szerokopasmowego dostępu do Internetu o symetrycznej przepustowości 100 Mb/s lub usługi o niższych parametrach, świadczonej przez operatora OSE,
 - **2)** z usług, o których mowa w art. 5 pkt 3, świadczonych przez operatora OSE,
-- **3)** z usług, o których mowa w art. 5 pkt 5 jest nieodpłatne.
+- **3)** z usług, o których mowa w art. 5 pkt 5 – jest nieodpłatne.
 
 3. Operator OSE pobiera opłatę wyłącznie za świadczenie szkole usługi szerokopasmowego dostępu do Internetu o przepustowości przekraczającej 100 Mb/s, jeżeli organ prowadzący szkołę albo dyrektor szkoły, za zgodą tego organu, wystąpi z wnioskiem o świadczenie takiej usługi.
 
@@ -160,8 +167,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 - **1)** na nabycie i eksploatację infrastruktury telekomunikacyjnej, urządzeń i systemów informatycznych, wartości niematerialnych i prawnych, przygotowanie dokumentacji oraz analiz niezbędnych do przeprowadzenia procesu inwestycyjnego, w szczególności na sporządzenie projektów technicznych, oraz na wsparcie w procesie zakupowym i instalacyjnym;
 - **2)** na wykonanie robót budowlanych, w tym nabycie niezbędnych materiałów, dotyczących infrastruktury i urządzeń, o których mowa w pkt 1, oraz na pokrycie związanych z tymi robotami należności publicznoprawnych, należnych na podstawie odrębnych przepisów, w szczególności za wydanie decyzji, zgód i zezwoleń;
-- **3)** na pokrycie kosztów administracyjnych, w tym kosztów zatrudnienia osób uczestniczących w realizacji zadań operatora OSE na podstawie umów o pracę lub umów cywilnoprawnych, oraz kosztów związanych z zapewnieniem wsparcia użytkownikom OSE;
-- **4)** związane z uzyskaniem dostępu telekomunikacyjnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej;
+- **3)** na pokrycie kosztów administracyjnych, w tym kosztów zatrudnienia osób uczestniczących w realizacji zadań operatora OSE na podstawie umów o pracę lub umów cywilnoprawnych, oraz kosztów związanych z zapewnieniem wsparcia użytkownikom OSE; 4W brzmieniu ustalonym przez art. 52 pkt 2 ustawy, o którym mowa w odnośniku 1.) związane z uzyskaniem dostępu telekomunikacyjnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej;
 - **5)** na najem, dzierżawę lub leasing infrastruktury telekomunikacyjnej;
 - **6)** na usługi: transmisji danych, dzierżawy łączy telekomunikacyjnych, dostawy energii, serwisu i naprawy infrastruktury i urządzeń, o których mowa w pkt 1, utrzymania i rozwoju oprogramowania i innych wartości niematerialnych i prawnych, doradcze, w tym opinie prawne lub ekspertyzy, o których mowa w art. 6 ust. 2;
     - **a)**
@@ -178,7 +184,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **10)** na pokrycie należności publicznoprawnych oraz kosztów obsługi finansowej;
 - **11)** na opracowanie, druk i dystrybucję materiałów informacyjnych i szkoleniowych;
 - **12)** na organizację szkoleń, seminariów i warsztatów;
-- **13)** na: nabycie i udostępnianie sprzętu komputerowego i innych urządzeń multimedialnych, nabycie, udostępnianie i utrzymywanie usług bezprzewodowego dostępu do Internetu i urządzeń umożliwiających korzystanie z tych usług, nabycie, tworzenie, udostępnianie i utrzymywanie oprogramowania o których mowa w art. 5a;
+- **13)** na: nabycie i udostępnianie sprzętu komputerowego i innych urządzeń multimedialnych, nabycie, udostępnianie i utrzymywanie usług bezprzewodowego dostępu do Internetu i urządzeń umożliwiających korzystanie z tych usług, nabycie, tworzenie, udostępnianie i utrzymywanie oprogramowania – o których mowa w art. 5a;
     - **a)**
     - **b)**
     - **c)**
@@ -193,7 +199,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Wniosek składa się najpóźniej w terminie 30 dni od dnia doręczenia operatorowi OSE wezwania ministra właściwego do spraw informatyzacji.
 
-#### Rozdział 4 Przepisy epizodyczne, przepisy przejściowe i przepis końcowy
+#### Rozdział 4
 
 **Art. 13.** W 2017 r. operator OSE składa wniosek, o którym mowa w art. 12 ust. 1, do dnia 31 grudnia 2017 r.
 
@@ -230,8 +236,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Organ prowadzący szkołę, o której mowa w ust. 1, zapewnia tej szkole szerokopasmowy dostęp do Internetu o symetrycznej przepustowości co najmniej 100 Mb/s najpóźniej od dnia 1 stycznia 2021 r.
 
-**Art. 19.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 13, który wchodzi w życie z dniem ogłoszenia.
-
-- **1)** Ze zmianą wprowadzoną przez art. 52 pkt 1 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), która weszła w życie z dniem 10 listopada 2024 r.; wszedł w życie z dniem 10 sierpnia 2024 r. 2) W brzmieniu ustalonym przez art. 52 pkt 2 ustawy, o którym mowa w odnośniku 1. 3) Ustawa została ogłoszona w dniu 28 listopada 2017 r.
-
+**Art. 19.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 28 listopada 2017 r., z wyjątkiem art. 13, który wchodzi w życie z dniem ogłoszenia. 1) Ze zmianą wprowadzoną przez art. 52 pkt 1 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), która weszła w życie z dniem 10 listopada 2024 r.; wszedł w życie z dniem 10 sierpnia 2024 r. 2) W brzmieniu ustalonym przez art. 52 pkt 2 ustawy, o którym mowa w odnośniku 1. 3) Ustawa została ogłoszona w dniu 28 listopada 2017 r.
 

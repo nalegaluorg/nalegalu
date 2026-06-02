@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-06-18 |
 | Data wydania | 2014-06-30 |
-| Wejście w życie | 2014-07-01 |
 | Ostatnia zmiana | 2024-09-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000861) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/861/text.pdf) |
 
@@ -92,5 +91,5 @@ Jeżeli zwrot opłaty w sposób określony w ust. 2 jest utrudniony albo niemoż
 § 10.
 Osobom, które wniosły opłatę przed dniem wejścia w życie niniejszego rozporządzenia, a informację z Rejestru uzyskały po dniu wejścia w życie tego rozporządzenia, zwraca się różnicę pomiędzy opłatą wniesioną a opłatą, o której mowa w § 3 ust. 1.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 14 sierpnia 2003 r. w sprawie określenia wysokości opłaty za wydanie informacji z Krajowego Rejestru Karnego (Dz. U. Nr 151, poz. 1468), które traci moc na podstawie art. 1 pkt 15 ustawy z dnia 7 grudnia 2012 r. o zmianie ustawy o Krajowym Rejestrze Karnym oraz niektórych innych ustaw (Dz. U. poz. 1514 oraz z 2013 r. poz. 1621) z dniem 1 lipca 2014 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 14 sierpnia 2003 r. w sprawie określenia wysokości opłaty za wydanie informacji z Krajowego Rejestru Karnego (Dz. U. Nr 151, poz. 1468), które traci moc na podstawie art. 1 pkt 15 ustawy z dnia 7 grudnia 2012 r. o zmianie ustawy o Krajowym Rejestrze Karnym oraz niektórych innych ustaw (Dz. U. poz. 1514 oraz z 2013 r. poz. 1621) z dniem 1 lipca 2014 r.
 

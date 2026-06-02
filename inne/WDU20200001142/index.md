@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatuz dnia 24 czerwca 2020 r. w sprawie wydawania certyfikatów jakości biokomponentów przez akredytowane jednostki certyfikujące
+# Rozporządzenie Ministra Klimatuz dnia 24 czerwca 2020 r. w sprawie wydawania certyfikatów jakości biokomponentów przez akredytowane jednostki certyfikujące Minister Klimatu kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 marca 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu (Dz. U. poz. 495).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-24 |
 | Data wydania | 2020-06-30 |
-| Wejście w życie | 2020-07-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001142) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1142/text.pdf) |
 
@@ -60,8 +59,7 @@ opis warunków organizacyjno-technicznych w miejscu wytwarzania biokomponentu ws
 d)
 oświadczenie podmiotu ubiegającego się o wydanie certyfikatu jakości o zachowaniu w okresie ważności certyfikatu zgodności jakości biokomponentu z wymaganiami określonymi w przepisach wydanych na podstawie art. 22 ust. 6 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych,
 e)
-pełnomocnictwo, w przypadku podpisania wniosku przez osobę upoważnioną do reprezentowania podmiotu ubiegającego się o wydanie certyfikatu jakości
-które stanowią integralną część wniosku;
+pełnomocnictwo, w przypadku podpisania wniosku przez osobę upoważnioną do reprezentowania podmiotu ubiegającego się o wydanie certyfikatu jakości – które stanowią integralną część wniosku;
 2)
 w przypadku biokomponentów wytwarzanych w procesie współuwodornienia:
 a)
@@ -73,8 +71,7 @@ opis warunków organizacyjno-technicznych w miejscu wytwarzania biokomponentu ws
 d)
 oświadczenie podmiotu ubiegającego się o wydanie certyfikatu jakości o osiągnięciu w okresie ważności certyfikatu minimalnego stopnia przereagowania biomasy w procesie współuwodornienia określonego w przepisach wydanych na podstawie art. 23 ust. 1e ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych,
 e)
-pełnomocnictwo, w przypadku podpisania wniosku przez osobę upoważnioną do reprezentowania podmiotu ubiegającego się o wydanie certyfikatu jakości
-które stanowią integralną część wniosku.
+pełnomocnictwo, w przypadku podpisania wniosku przez osobę upoważnioną do reprezentowania podmiotu ubiegającego się o wydanie certyfikatu jakości – które stanowią integralną część wniosku.
 § 3.
 Certyfikat jakości zawiera:
 1)
@@ -112,6 +109,5 @@ Do wniosków złożonych i nierozpatrzonych przed dniem wejścia w życie niniej
 § 8.
 Certyfikaty jakości wydane przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność do upływu okresu, na jaki zostały wydane.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Klimatu kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 marca 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu (Dz. U. poz. 495). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 8 września 2015 r. w sprawie wydawania certyfikatów jakości biokomponentów przez akredytowane jednostki certyfikujące (Dz. U. poz. 1439), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 14 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw (Dz. U. poz. 1527).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 8 września 2015 r. w sprawie wydawania certyfikatów jakości biokomponentów przez akredytowane jednostki certyfikujące (Dz. U. poz. 1439), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 14 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw (Dz. U. poz. 1527). 1) Minister Klimatu kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 marca 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu (Dz. U. poz. 495). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 8 września 2015 r. w sprawie wydawania certyfikatów jakości biokomponentów przez akredytowane jednostki certyfikujące (Dz. U. poz. 1439), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 14 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw (Dz. U. poz. 1527).
 

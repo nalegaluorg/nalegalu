@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-07-23 |
 | Data wydania | 2003-08-28 |
-| Wejście w życie | 2003-09-12 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031491451) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1451/text.pdf) |
 
@@ -138,8 +137,8 @@ source: "eli-html"
 
 1. Przepisy art. 65–65g nie dotyczą procesji, pielgrzymek i innych imprez o charakterze religijnym, które odbywają się na drogach na zasadach określonych w:
 
-- **1)** ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. Nr 29, poz. 154, z późn. zm.);
-- **2)** ustawie z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego (Dz. U. Nr 66, poz. 287, z późn. zm.);
+- **1)** ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. Nr 29, poz. 154, z późn. zm.Zmiany ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425 i Nr 107, poz. 459, z 1993 r. Nr 7, poz. 34, z 1994 r. Nr 1, poz. 3, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590 i Nr 141, poz. 943, z 1998 r. Nr 59, poz. 375, Nr 106, poz. 668 i Nr 117, poz. 757 oraz z 2000 r. Nr 120, poz. 1268.);
+- **2)** ustawie z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego (Dz. U. Nr 66, poz. 287, z późn. zm.Zmiany ustawy zostały ogłoszone w Dz. U. z 1991 r. Nr 95, poz. 425, z 1993 r. Nr 7, poz. 34, z 1994 r. Nr 1, poz. 3 oraz z 1998 r. Nr 59, poz. 375, Nr 106, poz. 668 i Nr 117, poz. 756.);
 - **3)** ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej (Dz. U. Nr 97, poz. 481 oraz z 1998 r. Nr 59, poz. 375, Nr 106, poz. 668 i Nr 117, poz. 756);
 - **4)** ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej (Dz. U. Nr 97, poz. 480 oraz z 1998 r. Nr 59, poz. 375, Nr 106, poz. 668 i Nr 117, poz. 756);
 - **5)** ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej (Dz. U. Nr 97, poz. 479 oraz z 1998 r. Nr 59, poz. 375, Nr 106, poz. 668 i Nr 117, poz. 756);
@@ -171,5 +170,5 @@ source: "eli-html"
 
 2. Przepisu ust. 1 nie stosuje się do pojazdów przewożących towary niebezpieczne.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425 i Nr 107, poz. 459, z 1993 r. Nr 7, poz. 34, z 1994 r. Nr 1, poz. 3, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590 i Nr 141, poz. 943, z 1998 r. Nr 59, poz. 375, Nr 106, poz. 668 i Nr 117, poz. 757 oraz z 2000 r. Nr 120, poz. 1268. 2) Zmiany ustawy zostały ogłoszone w Dz. U. z 1991 r. Nr 95, poz. 425, z 1993 r. Nr 7, poz. 34, z 1994 r. Nr 1, poz. 3 oraz z 1998 r. Nr 59, poz. 375, Nr 106, poz. 668 i Nr 117, poz. 756.
 

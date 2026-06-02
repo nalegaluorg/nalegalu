@@ -8,10 +8,10 @@ pos: 2017
 act_type: Rozporządzenie
 status: akt objęty tekstem jednolitym
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 7 września 2023 r. zmieniające rozporządzenie w sprawie specjalnego obszaru ochrony siedlisk Grądy w Dolinie Odry (PLH020017)
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 września 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-09-07 |
 | Data wydania | 2023-09-26 |
-| Wejście w życie | 2023-10-11 |
 | Ostatnia zmiana | 2025-03-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002017) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2017/text.pdf) |
 
-Treść rozporządzenia
-Załącznik – Gatunki zwierząt innych niż ptaki, będące przedmiotem ochrony na specjalnym obszarze ochrony siedlisk Grądy w Dolinie Odry (PLH020017)
-Treść rozporządzenia
-Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890) zarządza się, co następuje:
-§ 1.
-W rozporządzeniu Ministra Środowiska z dnia 28 marca 2017 r. w sprawie specjalnego obszaru ochrony siedlisk Grądy w Dolinie Odry (PLH020017) (Dz. U. poz. 975) załącznik nr 4 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
-Załącznik – Gatunki zwierząt innych niż ptaki, będące przedmiotem ochrony na specjalnym obszarze ochrony siedlisk Grądy w Dolinie Odry (PLH020017)
-patrz oryginał
+Poz. 22001177 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 7 września 2023 r.
+zmieniające rozporządzenie w sprawie specjalnego obszaru ochrony siedlisk Grądy w Dolinie Odry (PLH020017) Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 i 1890) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Środowiska z dnia 28 marca 2017 r. w sprawie specjalnego obszaru Grądy w Dolinie Odry (PLH020017) (Dz. U. poz. 975) załącznik nr 4 do rozporządzenia otrzymuje w załączniku do niniejszego rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Klimatu i Środowiska: GATUNKI ZWIERZĄT INNYCH NIŻ PTAKI, BĘDĄCE PRZEDMIOTEM OCHRONY NA SPECJALNYM OBSZARZE OCHRONY SIEDLISK GRĄDY W DOLINIE ODRY Lp. Nazwa polska Nazwa naukowa Populacja 1 barczatka kataks Eriogaster catax osiadła 2 boleń Aspius aspius osiadła 3 bóbr europejski Castor fiber osiadła 4 czerwończyk nieparek Lycaena dispar osiadła 5 kiełb białopłetwy Gobio albipinnatus osiadła 6 koza Cobitis taenia osiadła 7 koza złotawa Sabanejewia aurata osiadła 8 kozioróg dębosz Cerambyx cerdo osiadła 9 kreślinek nizinny Graphoderus bilineatus osiadła 10 kumak nizinny Bombina bombina osiadła 11 modraszek nausitous Maculinea (Phengaris) nausithous osiadła 12 modraszek telejus Maculinea (Phengaris) teleius osiadła 13 mopek Barbastella barbastellus rozrodcza 14 mopek Barbastella barbastellus zimująca 15 nocek łydkowłosy Myotis dasycneme migrująca 16 pachnica dębowa Osmoderma eremita (Osmoderma barnabita) osiadła 17 piskorz Misgurnus fossilis osiadła 18 przeplatka maturna Hypodryas maturna osiadła 19 różanka Rhodeus sericeus amarus osiadła 20 traszka grzebieniasta Triturus cristatus (Triturus cristatus cristatus) osiadła 21 wydra Lutra lutra osiadła
 

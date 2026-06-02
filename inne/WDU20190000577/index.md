@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 lutego 2019 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw
+# Ustawa z dnia 22 lutego 2019 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/801 z dnia 11 maja 2016 r. w sprawie warunków wjazdu i pobytu obywateli państw trzecich w celu prowadzenia badań naukowych, odbycia studiów, szkoleń, udziału w wolontariacie, programach wymiany młodzieży szkolnej lub projektach edukacyjnych oraz podjęcia pracy w charakterze au pair (wersja przekształcona) (Dz. Urz. UE L 132 z 21.05.2016, str. 21).
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-22 |
 | Data wydania | 2019-03-27 |
-| Wejście w życie | 2019-04-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000577) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/577/text.pdf) |
 
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych, ustawę z dnia 19 kwietnia 1991 r. o izbach aptekarskich, ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 15 grudnia 2000 r. o samorządach zawodowych architektów oraz inżynierów budownictwa, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, ustawę z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, ustawę z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci oraz ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
+Zezwolenie na pobyt czasowy dla stażysty
 1.
 Zezwolenia na pobyt czasowy dla stażysty udziela się cudzoziemcowi, gdy celem jego pobytu na terytorium Rzeczypospolitej Polskiej jest odbycie stażu u organizatora stażu zatwierdzonego przez ministra właściwego do spraw wewnętrznych oraz są spełnione łącznie następujące warunki:
 1)
@@ -155,6 +156,7 @@ Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 minimalną wysokość środków finansowych, jakie musi posiadać cudzoziemiec odbywający staż na terytorium Rzeczypospolitej Polskiej dla siebie i członków rodziny pozostających na jego utrzymaniu, na pokrycie kosztów podróży powrotnej do państwa pochodzenia lub zamieszkania albo kosztów tranzytu do państwa trzeciego, które udzieli pozwolenia na wjazd, uwzględniając zróżnicowanie wysokości tych środków w zależności od państwa, z którego cudzoziemiec przybył;
 2)
 dokumenty mogące potwierdzić możliwość uzyskania środków finansowych, o których mowa w pkt 1, oraz środków finansowych na pokrycie kosztów utrzymania cudzoziemca oraz członków jego rodziny, o których mowa w art. 157a ust. 1 pkt 1 lit. d, zgodnie z prawem, uwzględniając potrzebę skutecznej weryfikacji możliwości uzyskania tych środków.
+Zezwolenie na pobyt czasowy dla wolontariusza
 1.
 Zezwolenia na pobyt czasowy dla wolontariusza udziela się cudzoziemcowi, gdy celem jego pobytu na terytorium Rzeczypospolitej Polskiej jest udział w programie wolontariatu europejskiego oraz są spełnione łącznie następujące warunki:
 1)
@@ -266,20 +268,17 @@ Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 1)
 minimalną wysokość środków finansowych, jakie musi posiadać cudzoziemiec wykonujący świadczenia jako wolontariusz na terytorium Rzeczypospolitej Polskiej dla siebie i członków rodziny pozostających na jego utrzymaniu, na pokrycie kosztów podróży powrotnej do państwa pochodzenia lub zamieszkania albo kosztów tranzytu do państwa trzeciego, które udzieli pozwolenia na wjazd, uwzględniając zróżnicowanie wysokości tych środków w zależności od państwa, z którego cudzoziemiec przybył;
 2)
-dokumenty mogące potwierdzić możliwość uzyskania środków finansowych, o których mowa w pkt 1, oraz środków finansowych na pokrycie kosztów utrzymania cudzoziemca oraz członków jego rodziny, o których mowa w art. 157g ust. 1 pkt 1 lit. c, zgodnie z prawem, uwzględniając potrzebę skutecznej weryfikacji możliwości uzyskania tych środków.
-” ;
+dokumenty mogące potwierdzić możliwość uzyskania środków finansowych, o których mowa w pkt 1, oraz środków finansowych na pokrycie kosztów utrzymania cudzoziemca oraz członków jego rodziny, o których mowa w art. 157g ust. 1 pkt 1 lit. c, zgodnie z prawem, uwzględniając potrzebę skutecznej weryfikacji możliwości uzyskania tych środków. ” ;
 53)
 w dziale V tytuł rozdziału 8 otrzymuje brzmienie: „ Zezwolenie na pobyt czasowy dla członków rodzin obywateli Rzeczypospolitej Polskiej oraz członków rodzin cudzoziemców. Mobilność krótkoterminowa i długoterminowa członków rodzin naukowców ” ;
 54)
 w art. 159 w ust. 1 w pkt 1:
 a)
-lit. f i g otrzymują brzmienie:
-„
+lit. f i g otrzymują brzmienie: „
 f)
 na podstawie zezwolenia na pobyt czasowy, o którym mowa w art. 151 ust. 1, lub wizy krajowej w celu prowadzenia badań naukowych lub prac rozwojowych,
 g)
-na podstawie zezwolenia na pobyt czasowy, o którym mowa w art. 151b ust. 1,
-” ,
+na podstawie zezwolenia na pobyt czasowy, o którym mowa w art. 151b ust. 1, ” ,
 b)
 lit. hb otrzymuje brzmienie: „ hb) na podstawie zezwolenia na pobyt czasowy udzielonego w celu mobilności długoterminowej pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż, w ramach przeniesienia wewnątrz przedsiębiorstwa, ” ,
 c)
@@ -287,8 +286,7 @@ po lit. hb dodaje się lit. hc w brzmieniu: „ hc) na podstawie zezwolenia na p
 55)
 w art. 161 w ust. 1 w pkt 1 w lit. a i w pkt 2 w lit. a wyrazy „lit. a-g i i” zastępuje się wyrazami „lit. a-g i ha-i”;
 56)
-po art. 161 dodaje się art. 161a i art. 161b w brzmieniu:
-„
+po art. 161 dodaje się art. 161a i art. 161b w brzmieniu: „
 
 **Art. 1.** W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2018 r. poz. 2094 i 2399) wprowadza się następujące zmiany:
 
@@ -300,10 +298,10 @@ po art. 161 dodaje się art. 161a i art. 161b w brzmieniu:
 - **2)** w art. 3: po pkt 5b dodaje się pkt 5c w brzmieniu: „
     - **a)**
 
-- **5c)** jednostka naukowa – podmiot, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.); ” , pkt 7a otrzymuje brzmienie: „
+- **5c)** jednostka naukowa – podmiot, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534 i 577.); ” , pkt 7a otrzymuje brzmienie: „
     - **b)**
 
-- **7a)** mobilność – uprawnienie cudzoziemca do wjazdu i pobytu na terytorium państw członkowskich Unii Europejskiej, wynikające z posiadania ważnego dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającego jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 3, z późn. zm.), zwanego dalej „rozporządzeniem nr 1030/2002”, lub z posiadania ważnej wizy długoterminowej, o której mowa w art. 18 Konwencji Wykonawczej z dnia 19 czerwca 1990 r. do Układu z Schengen z dnia 14 czerwca 1985 r. między Rządami Państw Unii Gospodarczej Beneluksu, Republiki Federalnej Niemiec oraz Republiki Francuskiej w sprawie stopniowego znoszenia kontroli na wspólnych granicach (Dz. Urz. UE L 239 z 22.09.2000, str. 19, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 2, str. 9, z późn. zm.), zwanej dalej „Konwencją Wykonawczą Schengen”, albo wydanej zgodnie z prawem państwa członkowskiego Unii Europejskiej, niebędącego państwem obszaru Schengen, wydanych przez inne państwo członkowskie Unii Europejskiej niż to, w którym cudzoziemiec korzysta z tego uprawnienia; ” , uchyla się pkt 7b i 7c, dodaje się pkt 7d-7j w brzmieniu: „
+- **7a)** mobilność – uprawnienie cudzoziemca do wjazdu i pobytu na terytorium państw członkowskich Unii Europejskiej, wynikające z posiadania ważnego dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającego jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2008, str. 1. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 3, z późn. zm.), zwanego dalej „rozporządzeniem nr 1030/2002”, lub z posiadania ważnej wizy długoterminowej, o której mowa w art. 18 Konwencji Wykonawczej z dnia 19 czerwca 1990 r. do Układu z Schengen z dnia 14 czerwca 1985 r. między Rządami Państw Unii Gospodarczej Beneluksu, Republiki Federalnej Niemiec oraz Republiki Francuskiej w sprawie stopniowego znoszenia kontroli na wspólnych granicach (Dz. Urz. UE L 239 z 22.09.2000, str. 19, z późn. zm.Zmiany wymienionej Konwencji zostały ogłoszone w Dz. Urz. UE L 150 z 06.06.2001, str. 4, Dz. Urz. UE L 328 z 05.12.2002, str. 17, Dz. Urz. UE L 67 z 12.03.2003, str. 27, Dz. Urz. UE L 260 z 11.11.2003, str. 37, Dz. Urz. UE L 162 z 30.04.2004, str. 29, Dz. Urz. UE L 369 z 16.12.2004, str. 5, Dz. Urz. UE L 68 z 15.03.2005, str. 44, Dz. Urz. UE L 191 z 22.07.2005, str. 18, Dz. Urz. UE L 105 z 13.04.2006, str. 1, Dz. Urz. UE L 381 z 28.12.2006, str. 1, Dz. Urz. UE L 405 z 30.12.2006, str. 1, Dz. Urz. UE L 299 z 08.11.2008, str. 1 i 43, Dz. Urz. UE L 243 z 15.09.2009, str. 1, Dz. Urz. UE L 85 z 31.03.2010, str. 1, Dz. Urz. UE L 182 z 29.03.2013, str. 1 oraz Dz. Urz. UE L 327 z 09.12.2017, str. 20. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 2, str. 9, z późn. zm.), zwanej dalej „Konwencją Wykonawczą Schengen”, albo wydanej zgodnie z prawem państwa członkowskiego Unii Europejskiej, niebędącego państwem obszaru Schengen, wydanych przez inne państwo członkowskie Unii Europejskiej niż to, w którym cudzoziemiec korzysta z tego uprawnienia; ” , uchyla się pkt 7b i 7c, dodaje się pkt 7d-7j w brzmieniu: „
     - **c)**
     - **d)**
 
@@ -366,8 +364,12 @@ po art. 161 dodaje się art. 161a i art. 161b w brzmieniu:
 
 - **1)** wizy krajowej w celu odbycia studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich albo kształcenia się w szkole doktorskiej, z adnotacją „student”, lub wizy krajowej w celu prowadzenia badań naukowych lub prac rozwojowych lub
 - **2)** zezwolenia na pobyt czasowy, o którym mowa w art. 139a ust. 1, art. 144, art. 151 ust. 1 lub art. 159 ust. 1 pkt 1 lit. f. ” ;
-- **7)** w art. 60: w ust. 1: – pkt 9 otrzymuje brzmienie: „ 9) odbycia studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich albo kształcenia się w szkole doktorskiej; ” , – po pkt 13 dodaje się pkt 13a i 13b w brzmieniu: „ 13a) odbycia stażu; 13b) udziału w programie wolontariatu europejskiego; ” , w ust. 2 pkt 3 otrzymuje brzmienie: „
+- **7)** w art. 60: w ust. 1: pkt 9 otrzymuje brzmienie: „
     - **a)**
+
+- **9)** odbycia studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich albo kształcenia się w szkole doktorskiej; ” , po pkt 13 dodaje się pkt 13a i 13b w brzmieniu: „
+- **13a)** odbycia stażu;
+- **13b)** udziału w programie wolontariatu europejskiego; ” , w ust. 2 pkt 3 otrzymuje brzmienie: „
     - **b)**
 
 - **3)** pkt 9, 13–13b i 18a-22 – może być wydana tylko jako wiza krajowa. ” , dodaje się ust. 3–5 w brzmieniu: „
@@ -580,8 +582,11 @@ po art. 161 dodaje się art. 161a i art. 161b w brzmieniu:
 
 - **1)** celem pobytu na terytorium Rzeczypospolitej Polskiej cudzoziemca będącego pracownikiem kadry kierowniczej, specjalistą lub pracownikiem odbywającym staż jest wykonywanie pracy w jednostce przyjmującej mającej siedzibę w Rzeczypospolitej Polskiej w charakterze pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż, w ramach przeniesienia wewnątrz przedsiębiorstwa;
 - **2)** posiadany przez cudzoziemca dokument pobytowy, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, wydany przez inne państwo członkowskie Unii Europejskiej, zawiera adnotację „ICT”;
-- **3)** Szef Urzędu otrzymał zawiadomienie od jednostki przyjmującej mającej siedzibę w innym państwie członkowskim Unii Europejskiej, które wydało temu cudzoziemcowi dokument pobytowy, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, zawierający adnotację „ICT”, o zamiarze korzystania przez cudzoziemca z tej mobilności i nie wydał decyzji o sprzeciwie w terminie 20 dni. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zawiadomienie, o którym mowa w ust. 1 pkt 3, sporządza się w języku polskim i wnosi się je w formie pisemnej, w postaci papierowej albo w postaci elektronicznej wnoszonej na elektroniczną skrzynkę podawczą Szefa Urzędu, o której mowa w art. 3 pkt 17 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570, z 2018 r. poz. 1000, 1544 i 1669 oraz z 2019 r. poz. 60 i 534). Zawiadomienie to zawiera następujące dane lub informacje dotyczące cudzoziemca: ” , – po pkt 7 dodaje się pkt 7a w brzmieniu: „ 7a) okres ważności dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, z adnotacją „ICT”; ” , – w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „ 9) imię, nazwisko, stanowisko służbowe oraz podpis osoby lub osób uprawnionych do reprezentowania jednostki przyjmującej mającej siedzibę na terytorium Rzeczypospolitej Polskiej. ” , ust. 3 otrzymuje brzmienie: „
+- **3)** Szef Urzędu otrzymał zawiadomienie od jednostki przyjmującej mającej siedzibę w innym państwie członkowskim Unii Europejskiej, które wydało temu cudzoziemcowi dokument pobytowy, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, zawierający adnotację „ICT”, o zamiarze korzystania przez cudzoziemca z tej mobilności i nie wydał decyzji o sprzeciwie w terminie 20 dni. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zawiadomienie, o którym mowa w ust. 1 pkt 3, sporządza się w języku polskim i wnosi się je w formie pisemnej, w postaci papierowej albo w postaci elektronicznej wnoszonej na elektroniczną skrzynkę podawczą Szefa Urzędu, o której mowa w art. 3 pkt 17 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570, z 2018 r. poz. 1000, 1544 i 1669 oraz z 2019 r. poz. 60 i 534). Zawiadomienie to zawiera następujące dane lub informacje dotyczące cudzoziemca: ” , po pkt 7 dodaje się pkt 7a w brzmieniu: „
     - **b)**
+
+- **7a)** okres ważności dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, z adnotacją „ICT”; ” , w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
+- **9)** imię, nazwisko, stanowisko służbowe oraz podpis osoby lub osób uprawnionych do reprezentowania jednostki przyjmującej mającej siedzibę na terytorium Rzeczypospolitej Polskiej. ” , ust. 3 otrzymuje brzmienie: „
     - **c)**
 
 3. Do zawiadomienia, o którym mowa w ust. 1 pkt 3, jednostka przyjmująca mająca siedzibę w innym państwie członkowskim Unii Europejskiej dołącza:
@@ -735,7 +740,7 @@ po art. 161 dodaje się art. 161a i art. 161b w brzmieniu:
 - **1)** odmowie zatwierdzenia jednostki prowadzącej studia,
 - **2)** odmowie przedłużenia okresu zatwierdzenia jednostki prowadzącej studia,
 - **3)** cofnięciu zatwierdzenia jednostki prowadzącej studia,
-- **4)** zakazie przyjmowania cudzoziemców, o której mowa w art. 144a ust. 1 od dnia, w którym decyzja ta stała się ostateczna, nie może prowadzić przyjęć cudzoziemców na studia.
+- **4)** zakazie przyjmowania cudzoziemców, o której mowa w art. 144a ust. 1 – od dnia, w którym decyzja ta stała się ostateczna, nie może prowadzić przyjęć cudzoziemców na studia.
 
 2. Cudzoziemiec, któremu udzielono zezwolenia na pobyt czasowy, o którym mowa w art. 144, przed dniem, o którym mowa w ust. 1, może kontynuować kształcenie w jednostce prowadzącej studia, w stosunku do której została wydana decyzja, o której mowa w ust. 1.
 
@@ -776,8 +781,13 @@ po art. 161 dodaje się art. 161a i art. 161b w brzmieniu:
 
 2. Cudzoziemcowi można cofnąć zezwolenie, o którym mowa w art. 144, gdy został skreślony z listy studentów lub doktorantów. ” ;
 
-- **37)** w art. 148a: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) rodzaj, serię i numer dokumentu tożsamości oraz nazwę państwa, które go wydało; ” , – w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10–12 w brzmieniu: „ 10) informację, w jakim języku odbywają się studia, oraz o poziomie biegłości językowej wymaganym do ich odbycia; 11) informację, czy cudzoziemiec jest objęty programem unijnym lub programem wielostronnym obejmującym środki w zakresie mobilności lub porozumieniem między przynajmniej dwiema instytucjami szkolnictwa wyższego przewidującym mobilność wewnątrzunijną oraz nazwę programu lub porozumienia i nazwę oraz adres jednostek prowadzących studia, objętych tym porozumieniem; 12) jeżeli zaświadczenie dotyczy kontynuacji studiów – informację dotyczącą dotychczasowej realizacji toku studiów i zaliczenia przez niego wymaganych programem studiów przedmiotów. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **37)** w art. 148a: w ust. 1: pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** rodzaj, serię i numer dokumentu tożsamości oraz nazwę państwa, które go wydało; ” , w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10–12 w brzmieniu: „
+- **10)** informację, w jakim języku odbywają się studia, oraz o poziomie biegłości językowej wymaganym do ich odbycia;
+- **11)** informację, czy cudzoziemiec jest objęty programem unijnym lub programem wielostronnym obejmującym środki w zakresie mobilności lub porozumieniem między przynajmniej dwiema instytucjami szkolnictwa wyższego przewidującym mobilność wewnątrzunijną oraz nazwę programu lub porozumienia i nazwę oraz adres jednostek prowadzących studia, objętych tym porozumieniem;
+- **12)** jeżeli zaświadczenie dotyczy kontynuacji studiów – informację dotyczącą dotychczasowej realizacji toku studiów i zaliczenia przez niego wymaganych programem studiów przedmiotów. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Jednostka prowadząca studia, wydając zaświadczenie, o którym mowa w art. 144 ust. 1 pkt 1 lit. a, dołącza wydruk karty okresowych osiągnięć studenta, o której mowa w przepisach wydanych na podstawie art. 81 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, lub potwierdzoną za zgodność z oryginałem kopię tej karty, obrazujące dotychczasowy przebieg procesu kształcenia cudzoziemca w tej jednostce, jeżeli dotyczy ono kontynuacji studiów. ” ;
@@ -937,10 +947,15 @@ po art. 161 dodaje się art. 161a i art. 161b w brzmieniu:
 
 - **g)**
 
-5. Do przedłużenia okresu zatwierdzenia jednostki naukowej stosuje się przepisy ust. 4–4h. ” , w ust. 6: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw wewnętrznych może wydać decyzję o odmowie przedłużenia okresu zatwierdzenia albo o cofnięciu zatwierdzenia jednostki naukowej, w przypadku gdy: ” , – pkt 2 i 3 otrzymują brzmienie: „ 2) jednostka naukowa nie wykonuje obowiązków, o których mowa w art. 152 ust. 4 i art. 156, o ile mają do niej zastosowanie, lub 3) umowa o przyjęciu cudzoziemca w celu prowadzenia badań naukowych lub prac rozwojowych została zawarta wskutek poświadczenia nieprawdy lub bez dochowania należytej staranności, lub ” , – dodaje się pkt 4 w brzmieniu: „ 4) w postępowaniu w sprawie zatwierdzenia jednostki naukowej osoba składająca wniosek w imieniu i na rzecz tej jednostki: a) złożyła wniosek zawierający fałszywe informacje lub dołączyła do niego dokumenty zawierające takie informacje lub b) zeznała nieprawdę lub zataiła prawdę albo podrobiła lub przerobiła dokument w celu użycia go jako autentycznego lub takiego dokumentu używała jako autentycznego. ” , ust. 8 otrzymuje brzmienie: „
+5. Do przedłużenia okresu zatwierdzenia jednostki naukowej stosuje się przepisy ust. 4–4h. ” , w ust. 6: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw wewnętrznych może wydać decyzję o odmowie przedłużenia okresu zatwierdzenia albo o cofnięciu zatwierdzenia jednostki naukowej, w przypadku gdy: ” , pkt 2 i 3 otrzymują brzmienie: „
 
 - **h)**
-- **i)**
+- **2)** jednostka naukowa nie wykonuje obowiązków, o których mowa w art. 152 ust. 4 i art. 156, o ile mają do niej zastosowanie, lub
+- **3)** umowa o przyjęciu cudzoziemca w celu prowadzenia badań naukowych lub prac rozwojowych została zawarta wskutek poświadczenia nieprawdy lub bez dochowania należytej staranności, lub ” , dodaje się pkt 4 w brzmieniu: „
+- **4)** w postępowaniu w sprawie zatwierdzenia jednostki naukowej osoba składająca wniosek w imieniu i na rzecz tej jednostki: złożyła wniosek zawierający fałszywe informacje lub dołączyła do niego dokumenty zawierające takie informacje lub zeznała nieprawdę lub zataiła prawdę albo podrobiła lub przerobiła dokument w celu użycia go jako autentycznego lub takiego dokumentu używała jako autentycznego. ” , ust. 8 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **i)**
 
 8. Aktualna lista zatwierdzonych jednostek naukowych jest ogłaszana w dzienniku urzędowym ministra właściwego do spraw wewnętrznych. ” ;
 
@@ -952,7 +967,7 @@ po art. 161 dodaje się art. 161a i art. 161b w brzmieniu:
 
 - **1)** odmowie zatwierdzenia jednostki naukowej,
 - **2)** odmowie przedłużenia okresu zatwierdzenia jednostki naukowej,
-- **3)** cofnięciu zatwierdzenia jednostki naukowej od dnia, w którym decyzja ta stała się ostateczna, nie może przyjmować cudzoziemców w celu prowadzenia badań naukowych lub prac rozwojowych.
+- **3)** cofnięciu zatwierdzenia jednostki naukowej – od dnia, w którym decyzja ta stała się ostateczna, nie może przyjmować cudzoziemców w celu prowadzenia badań naukowych lub prac rozwojowych.
 
 2. Cudzoziemiec, któremu przed dniem, o którym mowa w ust. 1, udzielono zezwolenia na pobyt czasowy, o którym mowa w art. 151 lub art. 151b, może kontynuować badania naukowe lub prace rozwojowe w jednostce, w stosunku do której została wydana decyzja, o której mowa w ust. 1.
 
@@ -1122,9 +1137,9 @@ po art. 161 dodaje się art. 161a i art. 161b w brzmieniu:
 - **3)** dokumenty mogące potwierdzić możliwość uzyskania środków finansowych, o których mowa w pkt 1 i 2, oraz środków finansowych na pokrycie kosztów utrzymania cudzoziemca oraz członków jego rodziny, o których mowa w art. 151 ust. 1 pkt 1 lit. c i art. 151b ust. 1 pkt 1 lit. d, zgodnie z prawem, uwzględniając potrzebę skutecznej weryfikacji możliwości uzyskania tych środków. ” ;
 - **52)** w dziale V po rozdziale 7 dodaje się rozdziały 7a i 7b w brzmieniu: „
 
-#### Rozdział 7a Zezwolenie na pobyt czasowy dla stażysty
+#### Rozdział 7a
 
-#### Rozdział 7b Zezwolenie na pobyt czasowy dla wolontariusza
+#### Rozdział 7b
 
 **Art. 161a.** Jeżeli cudzoziemiec będący członkiem rodziny naukowca posiadający zezwolenie na pobyt czasowy, o którym mowa w art. 159 ust. 1 pkt 1 lit. f, zamierza korzystać z mobilności krótkoterminowej lub długoterminowej członka rodziny naukowca w innym państwie członkowskim Unii Europejskiej, naukowiec, którego członkiem rodziny jest ten cudzoziemiec, jednostka naukowa, w której naukowiec ten prowadzi badania naukowe lub prace rozwojowe, mająca siedzibę na terytorium Rzeczypospolitej Polskiej, lub instytucja naukowa, w której naukowiec ten zamierza prowadzić badania naukowe lub prace rozwojowe, mająca siedzibę w tym innym państwie członkowskim Unii Europejskiej, zawiadamiają o tym zamiarze właściwy organ tego państwa członkowskiego oraz Szefa Urzędu, o ile przepisy obowiązujące w tym państwie członkowskim przewidują wymóg takiego zawiadomienia. 1. Zezwolenia na pobyt czasowy w celu mobilności długoterminowej członka rodziny naukowca udziela się cudzoziemcowi będącemu członkiem rodziny naukowca, gdy celem jego pobytu na terytorium Rzeczypospolitej Polskiej jest pobyt wraz z naukowcem korzystającym z mobilności długoterminowej naukowca oraz są spełnione łącznie następujące warunki:
 
@@ -1252,10 +1267,13 @@ po art. 161 dodaje się art. 161a i art. 161b w brzmieniu:
 
 2a. W przypadkach, o których mowa w art. 186 ust. 1 pkt 6, niezależnie od wymogów określonych w ust. 1a, zezwolenia na pobyt czasowy ze względu na inne okoliczności udziela się cudzoziemcowi, jeżeli przedstawi dyplom ukończenia studiów wyższych na polskiej uczelni.
 
-2b. W przypadkach, o których mowa w art. 186 ust. 1 pkt 7, niezależnie od wymogów określonych w ust. 1a, zezwolenia na pobyt czasowy ze względu na inne okoliczności udziela się cudzoziemcowi, jeżeli przedstawi dokument wystawiony przez jednostkę naukową mającą siedzibę na terytorium Rzeczypospolitej Polskiej, w której prowadził badania naukowe lub prace rozwojowe, potwierdzający zakończenie prowadzenia tych badań lub prac. ” , w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) pkt 1, 3, 5 lub 8, posiada ubezpieczenie zdrowotne w rozumieniu ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub potwierdzenie pokrycia przez ubezpieczyciela kosztów leczenia na terytorium Rzeczypospolitej Polskiej; ” , – pkt 4 i 5 otrzymują brzmienie: „ 4) pkt 1, 3, 5 lub 8, ma zapewnione na terytorium Rzeczypospolitej Polskiej miejsce zamieszkania; 5) pkt 5, ma zapewnione na terytorium Rzeczypospolitej Polskiej utrzymanie. ” , ust. 6 otrzymuje brzmienie: „
+2b. W przypadkach, o których mowa w art. 186 ust. 1 pkt 7, niezależnie od wymogów określonych w ust. 1a, zezwolenia na pobyt czasowy ze względu na inne okoliczności udziela się cudzoziemcowi, jeżeli przedstawi dokument wystawiony przez jednostkę naukową mającą siedzibę na terytorium Rzeczypospolitej Polskiej, w której prowadził badania naukowe lub prace rozwojowe, potwierdzający zakończenie prowadzenia tych badań lub prac. ” , w ust. 3: pkt 1 otrzymuje brzmienie: „
 
 - **c)**
-- **d)**
+- **1)** pkt 1, 3, 5 lub 8, posiada ubezpieczenie zdrowotne w rozumieniu ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub potwierdzenie pokrycia przez ubezpieczyciela kosztów leczenia na terytorium Rzeczypospolitej Polskiej; ” , pkt 4 i 5 otrzymują brzmienie: „
+- **4)** pkt 1, 3, 5 lub 8, ma zapewnione na terytorium Rzeczypospolitej Polskiej miejsce zamieszkania;
+- **5)** pkt 5, ma zapewnione na terytorium Rzeczypospolitej Polskiej utrzymanie. ” , ust. 6 otrzymuje brzmienie: „
+    - **d)**
 
 6. Wysokość miesięcznych środków finansowych, które cudzoziemiec posiada na pokrycie kosztów utrzymania, o których mowa w ust. 1a pkt 3 lub ust. 3 pkt 3, jest wyższa niż wysokość dochodu uprawniającego do świadczeń pieniężnych z pomocy społecznej określonych w ustawie z dnia 12 marca 2004 r. o pomocy społecznej w odniesieniu do cudzoziemca oraz każdego członka rodziny pozostającego na jego utrzymaniu. ” ;
 
@@ -1317,9 +1335,14 @@ po art. 161 dodaje się art. 161a i art. 161b w brzmieniu:
 
 - **78)** w art. 429 w ust. 1 w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 w brzmieniu: „
 - **14)** Szef Urzędu – w przypadku rejestru, o którym mowa w art. 428 ust. 1 pkt 2 lit. o. ” ;
-- **79)** w art. 430: w ust. 1 wyrazy „w art. 428 ust. 1 pkt 2 lit. a-k oraz m i n” zastępuje się wyrazami „w art. 428 ust. 1 pkt 2 lit. a-k oraz m-o”, w ust. 2: – we wprowadzeniu do wyliczenia wyrazy „w art. 428 ust. 1 pkt 2 lit. b-k oraz m i n” zastępuje się wyrazami „w art. 428 ust. 1 pkt 2 lit. b-k oraz m-o”, – po pkt 6a dodaje się pkt 6b w brzmieniu: „ 6b) w rejestrze, o którym mowa w art. 428 ust. 1 pkt 2 lit. o: a) informacje o zawiadomieniach jednostek przyjmujących mających siedziby w innych państwach członkowskich Unii Europejskiej, jednostek prowadzących studia mających siedziby na terytorium Rzeczypospolitej Polskiej i zawiadomieniach jednostek naukowych mających siedziby na terytorium Rzeczypospolitej Polskiej, w tym informacje o planowanych okresach korzystania przez cudzoziemca z mobilności, b) informacje o dokumentach załączonych do zawiadomień, o których mowa w lit. a, c) informacje o decyzjach Szefa Urzędu o sprzeciwie; ” ;
+- **79)** w art. 430: w ust. 1 wyrazy „w art. 428 ust. 1 pkt 2 lit. a-k oraz m i n” zastępuje się wyrazami „w art. 428 ust. 1 pkt 2 lit. a-k oraz m-o”, w ust. 2: – we wprowadzeniu do wyliczenia wyrazy „w art. 428 ust. 1 pkt 2 lit. b-k oraz m i n” zastępuje się wyrazami „w art. 428 ust. 1 pkt 2 lit. b-k oraz m-o”, po pkt 6a dodaje się pkt 6b w brzmieniu: „
     - **a)**
     - **b)**
+
+- **6b)** w rejestrze, o którym mowa w art. 428 ust. 1 pkt 2 lit. o: informacje o zawiadomieniach jednostek przyjmujących mających siedziby w innych państwach członkowskich Unii Europejskiej, jednostek prowadzących studia mających siedziby na terytorium Rzeczypospolitej Polskiej i zawiadomieniach jednostek naukowych mających siedziby na terytorium Rzeczypospolitej Polskiej, w tym informacje o planowanych okresach korzystania przez cudzoziemca z mobilności, informacje o dokumentach załączonych do zawiadomień, o których mowa w lit. a, informacje o decyzjach Szefa Urzędu o sprzeciwie; ” ;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **80)** w art. 449 w ust. 2 w pkt 1 wyrazy „art. 428 ust. 1 pkt 1 lit. a, pkt 2 lit. a-k oraz m i n” zastępuje się wyrazami „art. 428 ust. 1 pkt 1 lit. a, pkt 2 lit. a-k oraz m-o”;
 - **81)** w art. 465: po ust. 1 dodaje się ust. 1a w brzmieniu: „
@@ -1371,15 +1394,23 @@ po art. 161 dodaje się art. 161a i art. 161b w brzmieniu:
 - **2)** dodaje się lit. f w brzmieniu: „ przebywającym na terytorium Rzeczypospolitej Polskiej: – na podstawie zezwolenia na pobyt czasowy, o którym mowa w art. 151 lub art. 151b ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, – na podstawie wizy krajowej w celu prowadzenia badań naukowych lub prac rozwojowych, − w związku z korzystaniem z mobilności krótkoterminowej naukowca na warunkach określonych w art. 156b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach − z wyłączeniem cudzoziemców, którym zezwolono na pobyt na terytorium Rzeczypospolitej Polskiej na okres nieprzekraczający 6 miesięcy, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy międzynarodowe o zabezpieczeniu społecznym stanowią inaczej. ” .
     - **f)**
 
-**Art. 7.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2018 r. poz. 1265, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2018 r. poz. 1265, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192, 2215, 2245, 2432 i 2435 oraz z 2019 r. poz. 60.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w ust. 3 w pkt 2 lit. g i h otrzymują brzmienie: „ posiadających w Rzeczypospolitej Polskiej zezwolenie na pobyt czasowy udzielone w związku z okolicznościami, o których mowa w art. 127 lub art. 186 ust. 1 pkt 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2018 r. poz. 2094 i 2399 oraz z 2019 r. poz. 577), posiadających w Rzeczypospolitej Polskiej zezwolenie na pobyt czasowy udzielone w związku z okolicznościami, o których mowa w art. 144, art. 151 ust. 1, art. 151b ust. 1, art. 159 ust. 1, art. 160, art. 161, art. 161b ust. 1, art. 176, art. 186 ust. 1 pkt 1, 2, 4, 5 i 7 lub art. 187 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub posiadających wizę krajową w celu odbycia studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich albo kształcenia się w szkole doktorskiej, z adnotacją „student”, lub wizę krajową w celu prowadzenia badań naukowych lub prac rozwojowych, ” ;
     - **g)**
     - **h)**
 
-- **2)** w art. 87: w ust. 1: – pkt 11b otrzymuje brzmienie: „ 11b) przebywa na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności krótkoterminowej pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż w ramach przeniesienia wewnątrz przedsiębiorstwa na warunkach określonych w art. 139n ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach; ” , – po pkt 11b dodaje się pkt 11c i 11d w brzmieniu: „ 11c) przebywa na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności krótkoterminowej naukowca na warunkach określonych w art. 156b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach; 11d) przebywa na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności studenta na warunkach określonych w art. 149b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach; ” , – w pkt 13 w lit. b kropkę zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ c) prowadzi badania naukowe lub prace rozwojowe w jednostce naukowej mającej siedzibę na terytorium Rzeczypospolitej Polskiej zatwierdzonej przez ministra właściwego do spraw wewnętrznych na podstawie przepisów art. 151 ust. 4–5 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach i złożył wniosek o udzielenie zezwolenia na pobyt czasowy, o którym mowa w art. 151b ust. 1 tej ustawy, na warunkach określonych w umowie, o której mowa w art. 151b ust. 1 pkt 2 tej ustawy. ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) posiadający w Rzeczypospolitej Polskiej zezwolenie na pobyt czasowy udzielone w związku z okolicznościami, o których mowa w art. 144, art. 151 ust. 1, art. 151b ust. 1, art. 158 ust. 2 pkt 1 lub 2, art. 161 ust. 2, art. 176 lub art. 186 ust. 1 pkt 3, 4 lub 7 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub posiadający wizę krajową w celu prowadzenia badań naukowych lub prac rozwojowych; ” , – pkt 4 otrzymuje brzmienie: „ 4) posiadający zezwolenie na pobyt czasowy na terytorium Rzeczypospolitej Polskiej udzielone na podstawie art. 159 ust. 1 lub art. 161b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach; ” .
+- **2)** w art. 87: w ust. 1: pkt 11b otrzymuje brzmienie: „
     - **a)**
+
+- **11b)** przebywa na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności krótkoterminowej pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż w ramach przeniesienia wewnątrz przedsiębiorstwa na warunkach określonych w art. 139n ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach; ” , po pkt 11b dodaje się pkt 11c i 11d w brzmieniu: „
+- **11c)** przebywa na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności krótkoterminowej naukowca na warunkach określonych w art. 156b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
+- **11d)** przebywa na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności studenta na warunkach określonych w art. 149b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach; ” , w pkt 13 w lit. b kropkę zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ prowadzi badania naukowe lub prace rozwojowe w jednostce naukowej mającej siedzibę na terytorium Rzeczypospolitej Polskiej zatwierdzonej przez ministra właściwego do spraw wewnętrznych na podstawie przepisów art. 151 ust. 4–5 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach i złożył wniosek o udzielenie zezwolenia na pobyt czasowy, o którym mowa w art. 151b ust. 1 tej ustawy, na warunkach określonych w umowie, o której mowa w art. 151b ust. 1 pkt 2 tej ustawy. ” , w ust. 2: pkt 1 otrzymuje brzmienie: „
+    - **c)**
     - **b)**
+
+- **1)** posiadający w Rzeczypospolitej Polskiej zezwolenie na pobyt czasowy udzielone w związku z okolicznościami, o których mowa w art. 144, art. 151 ust. 1, art. 151b ust. 1, art. 158 ust. 2 pkt 1 lub 2, art. 161 ust. 2, art. 176 lub art. 186 ust. 1 pkt 3, 4 lub 7 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub posiadający wizę krajową w celu prowadzenia badań naukowych lub prac rozwojowych; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** posiadający zezwolenie na pobyt czasowy na terytorium Rzeczypospolitej Polskiej udzielone na podstawie art. 159 ust. 1 lub art. 161b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach; ” .
 
 **Art. 8.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2019 r. poz. 576) w art. 3 w pkt 3:
 
@@ -1431,7 +1462,7 @@ po art. 161 dodaje się art. 161a i art. 161b w brzmieniu:
 
 **Art. 14.**
 
-1. Ilekroć w ustawach zmienianych w art. 1–5 oraz art. 7–9 jest mowa o szkole doktorskiej, należy przez to rozumieć, do dnia 31 grudnia 2023 r., również studia doktoranckie, o których mowa w przepisach ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm.).
+1. Ilekroć w ustawach zmienianych w art. 1–5 oraz art. 7–9 jest mowa o szkole doktorskiej, należy przez to rozumieć, do dnia 31 grudnia 2023 r., również studia doktoranckie, o których mowa w przepisach ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 650, 730,).
 
 2. W okresie od dnia wejścia w życie niniejszej ustawy do dnia 31 grudnia 2023 r. doktorantom, którzy rozpoczęli studia doktoranckie przed rokiem akademickim 2019/2020, wydaje się zaświadczenia, o których mowa w art. 144 ust. 1 pkt 1 lit. a ustawy zmienianej w art. 1, na zasadach określonych w art. 148a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, z tym że w tych zaświadczeniach zawiera się informacje o dyscyplinie naukowej albo artystycznej.
 
@@ -1463,7 +1494,7 @@ po art. 161 dodaje się art. 161a i art. 161b w brzmieniu:
 - **1)** jednostki przyjmującej mającej siedzibę w innym państwie członkowskim Unii Europejskiej, które wydało cudzoziemcowi dokument pobytowy, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, wydany przez inne państwo członkowskie Unii Europejskiej i zawierający adnotację „ICT” – o których mowa w art. 139n ust. 1 pkt 3 ustawy zmienianej w art. 1,
 - **2)** jednostki prowadzącej studia mającej siedzibę na terytorium Rzeczypospolitej Polskiej – o których mowa w art. 149b ust. 1 pkt 5 ustawy zmienianej w art. 1,
 - **3)** jednostki naukowej mającej siedzibę na terytorium Rzeczypospolitej Polskiej – o których mowa w art. 156b ust. 1 pkt 3 ustawy zmienianej w art. 1,
-- **4)** jednostki naukowej mającej siedzibę na terytorium Rzeczypospolitej Polskiej – o których mowa w art. 169a ust. 1 pkt 3 ustawy zmienianej w art. 1 które wpłynęły przed dniem wejścia w życie przepisów, o których mowa w art. 23 pkt 2.
+- **4)** jednostki naukowej mającej siedzibę na terytorium Rzeczypospolitej Polskiej – o których mowa w art. 169a ust. 1 pkt 3 ustawy zmienianej w art. 1 – które wpłynęły przed dniem wejścia w życie przepisów, o których mowa w art. 23 pkt 2.
 
 **Art. 20.**
 
@@ -1516,6 +1547,6 @@ po art. 161 dodaje się art. 161a i art. 161b w brzmieniu:
 **Art. 23.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1:
 
 - **1)** pkt 32 lit. e w zakresie art. 144 ust. 4–17, pkt 42 lit. e-i oraz pkt 52 w zakresie art. 157a ust. 6–18 i art. 157g ust. 5–17, które wchodzą w życie po upływie 3 dni od dnia ogłoszenia;
-- **2)** pkt 4 w zakresie art. 22 ust. 1 pkt 8a lit. h i lit. i tiret piąte, pkt 27 lit. d w zakresie art. 139n ust. 6–12, pkt 40 w zakresie art. 149b ust. 6–12, pkt 50 w zakresie art. 156b ust. 6–12, pkt 62 w zakresie 169a ust. 6–12 oraz pkt 79 w zakresie art. 430 ust. 2 pkt 6b lit. c, które wchodzą w życie po upływie 90 dni od dnia ogłoszenia.
+- **2)** pkt 4 w zakresie art. 22 ust. 1 pkt 8a lit. h i lit. i tiret piąte, pkt 27 lit. d w zakresie art. 139n ust. 6–12, pkt 40 w zakresie art. 149b ust. 6–12, pkt 50 w zakresie art. 156b ust. 6–12, pkt 62 w zakresie 169a ust. 6–12 oraz pkt 79 w zakresie art. 430 ust. 2 pkt 6b lit. c, które wchodzą w życie po upływie 90 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/801 z dnia 11 maja 2016 r. w sprawie warunków wjazdu i pobytu obywateli państw trzecich w celu prowadzenia badań naukowych, odbycia studiów, szkoleń, udziału w wolontariacie, programach wymiany młodzieży szkolnej lub projektach edukacyjnych oraz podjęcia pracy w charakterze au pair (wersja przekształcona) (Dz. Urz. UE L 132 z 21.05.2016, str. 21). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych, ustawę z dnia 19 kwietnia 1991 r. o izbach aptekarskich, ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 15 grudnia 2000 r. o samorządach zawodowych architektów oraz inżynierów budownictwa, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, ustawę z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, ustawę z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci oraz ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534 i 577. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2008, str. 1. 5) Zmiany wymienionej Konwencji zostały ogłoszone w Dz. Urz. UE L 150 z 06.06.2001, str. 4, Dz. Urz. UE L 328 z 05.12.2002, str. 17, Dz. Urz. UE L 67 z 12.03.2003, str. 27, Dz. Urz. UE L 260 z 11.11.2003, str. 37, Dz. Urz. UE L 162 z 30.04.2004, str. 29, Dz. Urz. UE L 369 z 16.12.2004, str. 5, Dz. Urz. UE L 68 z 15.03.2005, str. 44, Dz. Urz. UE L 191 z 22.07.2005, str. 18, Dz. Urz. UE L 105 z 13.04.2006, str. 1, Dz. Urz. UE L 381 z 28.12.2006, str. 1, Dz. Urz. UE L 405 z 30.12.2006, str. 1, Dz. Urz. UE L 299 z 08.11.2008, str. 1 i 43, Dz. Urz. UE L 243 z 15.09.2009, str. 1, Dz. Urz. UE L 85 z 31.03.2010, str. 1, Dz. Urz. UE L 182 z 29.03.2013, str. 1 oraz Dz. Urz. UE L 327 z 09.12.2017, str. 20. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192, 2215, 2245, 2432 i 2435 oraz z 2019 r. poz. 60. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 650, 730,
 
 

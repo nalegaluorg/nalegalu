@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-04 |
 | Data wydania | 2020-11-12 |
-| Wejście w życie | 2020-11-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001999) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1999/text.pdf) |
 
@@ -39,8 +38,7 @@ ustalających obowiązek zwrotu nienależnie otrzymanej kwoty z tytułu zwrotu k
 4)
 w sprawach wydawania zgód na pokrycie kosztów transportu do miejsca dalszego leczenia w kraju, o których mowa w art. 42i ust. 9 ustawy o świadczeniach,
 5)
-ustalających obowiązek poniesienia kosztów świadczeń opieki zdrowotnej udzielonych w przypadkach określonych w art. 50 ust. 16 ustawy o świadczeniach, które Narodowy Fundusz Zdrowia poniósł zgodnie z art. 50 ust. 15 tej ustawy, wysokość tych kosztów oraz termin płatności, o których mowa w art. 50 ust. 18 ustawy o świadczeniach
-w których strona skarżąca będąca osobą fizyczną zamieszkuje poza obszarem właściwości Wojewódzkiego Sądu Administracyjnego w Warszawie, przekazuje się wojewódzkim sądom administracyjnym, na których obszarze właściwości strona skarżąca zamieszkuje.
+ustalających obowiązek poniesienia kosztów świadczeń opieki zdrowotnej udzielonych w przypadkach określonych w art. 50 ust. 16 ustawy o świadczeniach, które Narodowy Fundusz Zdrowia poniósł zgodnie z art. 50 ust. 15 tej ustawy, wysokość tych kosztów oraz termin płatności, o których mowa w art. 50 ust. 18 ustawy o świadczeniach – w których strona skarżąca będąca osobą fizyczną zamieszkuje poza obszarem właściwości Wojewódzkiego Sądu Administracyjnego w Warszawie, przekazuje się wojewódzkim sądom administracyjnym, na których obszarze właściwości strona skarżąca zamieszkuje.
 § 2.
 Jeżeli w sprawach, o których mowa w § 1, nie można ustalić sądu właściwego do rozpoznania sprawy zgodnie z § 1, sądem właściwym jest Wojewódzki Sąd Administracyjny w Warszawie.
 § 3.

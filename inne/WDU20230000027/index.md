@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-01 |
 | Data wydania | 2023-01-04 |
-| Wejście w życie | 2023-04-05 |
 | Ostatnia zmiana | 2024-04-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000027) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/27/text.pdf) |
 
@@ -54,8 +53,13 @@ source: "eli-html"
 
 4. Czynności z zakresu stosunku pracy wobec kuratora zawodowego podejmuje prezes sądu rejonowego, z wyjątkiem czynności zastrzeżonych dla prezesa sądu okręgowego. ” ;
 
-- **4)** w art. 5: w ust. 1: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) nie był prawomocnie skazany za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe; ” , – pkt 4 otrzymuje brzmienie: „ 4) posiada tytuł zawodowy: a) magistra uzyskany po ukończeniu studiów na kierunku psychologia lub prawo lub na kierunku związanym z kształceniem w zakresie psychologii, pedagogiki, socjologii lub prawa lub b) magistra, magistra inżyniera albo równorzędny – uzyskany po ukończeniu studiów na innym kierunku i ukończył studia podyplomowe w zakresie psychologii, pedagogiki, socjologii lub prawa; ” , ust. 2 otrzymuje brzmienie: „
+- **4)** w art. 5: w ust. 1: po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
+
+- **1a)** nie był prawomocnie skazany za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** posiada tytuł zawodowy: magistra uzyskany po ukończeniu studiów na kierunku psychologia lub prawo lub na kierunku związanym z kształceniem w zakresie psychologii, pedagogiki, socjologii lub prawa lub magistra, magistra inżyniera albo równorzędny – uzyskany po ukończeniu studiów na innym kierunku i ukończył studia podyplomowe w zakresie psychologii, pedagogiki, socjologii lub prawa; ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
     - **b)**
 
 2. Minister Sprawiedliwości, na wniosek prezesa sądu okręgowego, może, w szczególnie uzasadnionych wypadkach, zwolnić aplikanta kuratorskiego z pozostałej do odbycia części aplikacji kuratorskiej i złożenia egzaminu kuratorskiego. ” , dodaje się ust. 4 w brzmieniu: „
@@ -325,10 +329,13 @@ source: "eli-html"
 
 - **b)**
 
-1a. Kurator okręgowy ma obowiązek dbać o równomierne obciążenie pracą kuratorów w ramach poszczególnych zespołów kuratorskiej służby sądowej oraz między poszczególnymi zespołami tej służby w okręgu. ” , w ust. 2: – pkt 5 otrzymuje brzmienie: „ 5) kontrola i ocena pracy kuratorów sądowych oraz aplikantów kuratorskich; w uzasadnionych wypadkach przeprowadzenie kontroli i dokonanie oceny pracy kuratora lub aplikanta kurator okręgowy może zlecić kierownikowi zespołu kuratorskiej służby sądowej; ” , – po pkt 13 dodaje się pkt 13a w brzmieniu: „ 13a) wskazywanie pierwszego i drugiego zastępcy, w wypadku gdy Minister Sprawiedliwości powoła dwóch zastępców kuratora okręgowego; ” , – w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu: „ 16) sporządzanie oraz przedkładanie prezesowi sądu okręgowego sprawozdania z przeprowadzonych w danym roku wizytacji lub lustracji, o których mowa w art. 35a ust. 8. ” , dodaje się ust. 3 w brzmieniu: „
+1a. Kurator okręgowy ma obowiązek dbać o równomierne obciążenie pracą kuratorów w ramach poszczególnych zespołów kuratorskiej służby sądowej oraz między poszczególnymi zespołami tej służby w okręgu. ” , w ust. 2: pkt 5 otrzymuje brzmienie: „
 
 - **c)**
-- **d)**
+- **5)** kontrola i ocena pracy kuratorów sądowych oraz aplikantów kuratorskich; w uzasadnionych wypadkach przeprowadzenie kontroli i dokonanie oceny pracy kuratora lub aplikanta kurator okręgowy może zlecić kierownikowi zespołu kuratorskiej służby sądowej; ” , po pkt 13 dodaje się pkt 13a w brzmieniu: „
+- **13a)** wskazywanie pierwszego i drugiego zastępcy, w wypadku gdy Minister Sprawiedliwości powoła dwóch zastępców kuratora okręgowego; ” , w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu: „
+- **16)** sporządzanie oraz przedkładanie prezesowi sądu okręgowego sprawozdania z przeprowadzonych w danym roku wizytacji lub lustracji, o których mowa w art. 35a ust. 8. ” , dodaje się ust. 3 w brzmieniu: „
+    - **d)**
 
 3. Skargi i wnioski dotyczące działalności kuratora okręgowego rozpoznaje prezes sądu okręgowego. ” ;
 
@@ -381,10 +388,12 @@ source: "eli-html"
 
 1. Kierownika zespołu kuratorskiej służby sądowej, w wypadku jego nieobecności, zastępuje wyznaczony przez niego kurator zawodowy, o czym kierownik zespołu kuratorskiej służby sądowej informuje prezesa sądu rejonowego oraz kuratora okręgowego.
 
-2. Kuratorowi zawodowemu, o którym mowa w ust. 1, w czasie zastępowania kierownika zespołu kuratorskiej służby sądowej przysługują uprawnienia, o których mowa w art. 169b § 2, 5–7 i 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm.). ” ;
+2. Kuratorowi zawodowemu, o którym mowa w ust. 1, w czasie zastępowania kierownika zespołu kuratorskiej służby sądowej przysługują uprawnienia, o których mowa w art. 169b § 2, 5–7 i 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 472, 1236 i 2054 oraz z 2022 r. poz. 22, 655, 1855 i 2600.). ” ;
 
-- **33)** w art. 41: w ust. 1: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) dbałość o równomierne obciążenie pracą kuratorów zespołu; ” , – uchyla się pkt 13, ust. 2 otrzymuje brzmienie: „
+- **33)** w art. 41: w ust. 1: po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
+
+- **1a)** dbałość o równomierne obciążenie pracą kuratorów zespołu; ” , – uchyla się pkt 13, ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Kierownik zespołu kuratorskiej służby sądowej wykonuje obowiązki kuratora w wymiarze nie mniejszym niż 35% przeciętnego obciążenia pracą przypadającego na członka zespołu. ” , dodaje się ust. 3 w brzmieniu: „
@@ -863,7 +872,7 @@ source: "eli-html"
 - **72)** w art. 91: w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
     - **a)**
 
-- **4)** czynności zlecone przez sąd na podstawie art. 5986 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.). ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **4)** czynności zlecone przez sąd na podstawie art. 5986 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687.). ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Kuratorowi społecznemu przysługuje miesięczny ryczałt za prowadzenie zajęć w ośrodku kuratorskim w wysokości 80% kwoty bazowej, o której mowa w art. 14 ust. 1, przyznawany przez prezesa sądu rejonowego, na wniosek kierownika ośrodka kuratorskiego, płatny do 20. dnia każdego miesiąca. ” , ust. 2 otrzymuje brzmienie: „
@@ -918,5 +927,5 @@ source: "eli-html"
 
 **Art. 9.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 14 ust. 7 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 14 ust. 7 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 10.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 10.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 472, 1236 i 2054 oraz z 2022 r. poz. 22, 655, 1855 i 2600. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687.
 

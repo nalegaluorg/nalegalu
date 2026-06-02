@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-11-21 |
 | Data wydania | 2008-12-18 |
-| Wejście w życie | 2008-12-18 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082231466) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1466/text.pdf) |
 
@@ -109,9 +108,11 @@ source: "eli-html"
 
 7. Osoba, która z ważnych, udokumentowanych przyczyn losowych nie mogła przystąpić do egzaminu w wyznaczonym dla niej terminie, może przystąpić do egzaminu w terminie późniejszym. Opłatę wniesioną za egzamin zalicza się na poczet egzaminu przeprowadzanego w terminie późniejszym.
 
-8. Warunkiem przystąpienia do egzaminu w terminie późniejszym, przez osobę o której mowa w ust. 7, jest przedstawienie Komisji dokumentów potwierdzających niemożność przystąpienia do egzaminu w wyznaczonym terminie, najpóźniej w ciągu 7 dni po tym terminie. ” , w art. 76i: – pkt 4 otrzymuje brzmienie: „ 4) wysokość wynagrodzeń przewodniczącego, członków i sekretarza Komisji, biorąc pod uwagę nakład ich pracy i zakres obowiązków oraz uwzględniając maksymalną jego wysokość określoną w art. 76d ust. 7,"' – pkt 6 otrzymuje brzmienie: „ 6) szczegółowe zadania organizatora egzaminu, Komisji, przewodniczącego Komisji, sekretarza Komisji oraz regulamin działania Komisji, biorąc w szczególności pod uwagę konieczność: zapewnienia sprawnej i prawidłowej organizacji egzaminu, precyzyjnego podziału zadań, obowiązków i odpowiedzialności w ramach Komisji, zapewnienia obiektywnego sposobu przeprowadzenia egzaminu oraz zapewnienia możliwości sprawowania efektywnego nadzoru przez ministra właściwego do spraw finansów publicznych nad działalnością Komisji, ” ;
+8. Warunkiem przystąpienia do egzaminu w terminie późniejszym, przez osobę o której mowa w ust. 7, jest przedstawienie Komisji dokumentów potwierdzających niemożność przystąpienia do egzaminu w wyznaczonym terminie, najpóźniej w ciągu 7 dni po tym terminie. ” , w art. 76i: pkt 4 otrzymuje brzmienie: „
 
 - **c)**
+- **4)** wysokość wynagrodzeń przewodniczącego, członków i sekretarza Komisji, biorąc pod uwagę nakład ich pracy i zakres obowiązków oraz uwzględniając maksymalną jego wysokość określoną w art. 76d ust. 7,"' pkt 6 otrzymuje brzmienie: „
+- **6)** szczegółowe zadania organizatora egzaminu, Komisji, przewodniczącego Komisji, sekretarza Komisji oraz regulamin działania Komisji, biorąc w szczególności pod uwagę konieczność: zapewnienia sprawnej i prawidłowej organizacji egzaminu, precyzyjnego podziału zadań, obowiązków i odpowiedzialności w ramach Komisji, zapewnienia obiektywnego sposobu przeprowadzenia egzaminu oraz zapewnienia możliwości sprawowania efektywnego nadzoru przez ministra właściwego do spraw finansów publicznych nad działalnością Komisji, ” ;
 - **2)** w art. 2: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -121,7 +122,7 @@ source: "eli-html"
 - **3)** uchyla się art. 3;
 - **4)** w art. 4 uchyla się ust. 3.
 
-**Art. 2.** Osoby, które złożyły wnioski o zakwalifikowanie do egzaminu i nie przystąpiły do niego do dnia 31 grudnia 2008 r., są kwalifikowane do egzaminu i przystępują do niego zgodnie z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.), zwanej dalej „ustawą o rachunkowości”, w brzmieniu nadanym niniejszą ustawą.
+**Art. 2.** Osoby, które złożyły wnioski o zakwalifikowanie do egzaminu i nie przystąpiły do niego do dnia 31 grudnia 2008 r., są kwalifikowane do egzaminu i przystępują do niego zgodnie z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155, z 2005 r. Nr 10, poz. 66, Nr 184, poz. 1539 i Nr 267, poz. 2252, z 2006 r. Nr 157, poz. 1119 i Nr 208, poz. 1540 oraz z 2008 r. Nr 63, poz. 393, Nr 144, poz. 900, Nr 171, poz. 1056 i Nr 214, poz. 1343.), zwanej dalej „ustawą o rachunkowości”, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 3.**
 
@@ -134,5 +135,5 @@ source: "eli-html"
 - **1)** numer świadectwa kwalifikacyjnego;
 - **2)** imię i nazwisko.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155, z 2005 r. Nr 10, poz. 66, Nr 184, poz. 1539 i Nr 267, poz. 2252, z 2006 r. Nr 157, poz. 1119 i Nr 208, poz. 1540 oraz z 2008 r. Nr 63, poz. 393, Nr 144, poz. 900, Nr 171, poz. 1056 i Nr 214, poz. 1343.
 

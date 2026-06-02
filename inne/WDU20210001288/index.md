@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 24 czerwca 2021 r. zmieniające rozporządzenie w sprawie sposobu dokumentowania chorób zawodowych i skutków tych chorób
+# Rozporządzenie Ministra Zdrowiaz dnia 24 czerwca 2021 r. zmieniające rozporządzenie w sprawie sposobu dokumentowania chorób zawodowych i skutków tych chorób Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-24 |
 | Data wydania | 2021-07-14 |
-| Wejście w życie | 2021-07-15 |
 | Ostatnia zmiana | 2024-10-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001288) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1288/text.pdf) |
 
@@ -33,14 +32,11 @@ W rozporządzeniu Ministra Zdrowia z dnia 1 sierpnia 2002 r. w sprawie sposobu d
 1)
 w § 2:
 a)
-w ust. 1 pkt 1 otrzymuje brzmienie:
-„
+w ust. 1 pkt 1 otrzymuje brzmienie: „
 1)
-skierowanie na badania w związku z podejrzeniem choroby zawodowej oraz kartę badania w związku z chorobą zawodową;
-” ,
+skierowanie na badania w związku z podejrzeniem choroby zawodowej oraz kartę badania w związku z chorobą zawodową; ” ,
 b)
-dodaje się ust. 5 w brzmieniu:
-„
+dodaje się ust. 5 w brzmieniu: „
 5.
 Skierowanie na badania w związku z podejrzeniem choroby zawodowej wydawane przez lekarza lub lekarza dentystę zawiera:
 1)
@@ -50,8 +46,7 @@ dane identyfikacyjne podmiotu kierującego na badanie (nazwę, adres);
 3)
 nazwę choroby zawodowej, której dotyczy podejrzenie, i jej numer pozycji w wykazie chorób zawodowych określonym w przepisach wydanych na podstawie art. 237 § 1 pkt 3–6 i § 11 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 4)
-podpis i pieczęć lekarza albo oznaczenie i podpis lekarza kierującego na badania w związku z podejrzeniem choroby zawodowej.
-” ;
+podpis i pieczęć lekarza albo oznaczenie i podpis lekarza kierującego na badania w związku z podejrzeniem choroby zawodowej. ” ;
 2)
 w § 3 uchyla się pkt 2;
 3)
@@ -64,6 +59,5 @@ Skierowanie na badania w związku z podejrzeniem choroby zawodowej może być wy
 3.
 W skierowaniu, o którym mowa w ust. 2, podaje się wyłącznie dane i informacje, o których mowa w § 2 ust. 5 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 29 czerwca 2022 r. w sprawie zwrotu podatku od towarów i usług siłom zbrojnym, wielonarodowym kwaterom i dowództwom, towarzyszącemu im personelowi cywilnemu, członkom ich rodzin oraz jednostkom dokonującym nabycia towarów lub usług na rzecz sił zbrojnych
+# Rozporządzenie Ministra Finansówz dnia 29 czerwca 2022 r. w sprawie zwrotu podatku od towarów i usług siłom zbrojnym, wielonarodowym kwaterom i dowództwom, towarzyszącemu im personelowi cywilnemu, członkom ich rodzin oraz jednostkom dokonującym nabycia towarów lub usług na rzecz sił zbrojnych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-06-29 |
 | Data wydania | 2022-06-30 |
-| Wejście w życie | 2022-07-01 |
 | Ostatnia zmiana | 2025-12-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001380) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1380/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Zwrot podatku siłom zbrojnym Państw-Stron Traktatu Północnoatlantyckiego i siłom zbrojnym Państw-Stron Traktatu Północnoatlantyckiego uczestniczących w Partnerstwie dla Pokoju oraz jednostkom dokonującym nabycia towarów lub usług na rzecz tych sił zbrojnych Rozdział 3 – Zwrot podatku siłom zbrojnym państw członkowskich innych niż Rzeczpospolita Polska biorących udział w działaniach obronnych prowadzonych w celu realizacji działania Unii Europejskiej w ramach wspólnej polityki bezpieczeństwa i obrony oraz jednostkom dokonującym nabycia towarów lub usług na rzecz tych sił zbrojnych Rozdział 4 – Zwrot podatku siłom zbrojnym Stanów Zjednoczonych oraz wykonawcom kontraktowym sił zbrojnych Stanów Zjednoczonych Rozdział 5 – Zwrot podatku Kwaterze Głównej Wielonarodowego Korpusu Północno-Wschodniego, członkom personelu zagranicznego Kwatery oraz członkom ich rodzin Rozdział 6 – Zwrot podatku Dowództwu Brygady Rozdział 7 – Zwrot podatku Dowództwom Sojuszniczym i uprawnionym członkom Dowództw Sojuszniczych Rozdział 8 – Przepis przejściowy i końcowy
 Treść rozporządzenia
-Na podstawie art. 89 ust. 3 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, 974, 1137 i 1301) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2006/112/WE Rady z dnia 28 listopada 2006 r. w sprawie wspólnego systemu podatku od wartości dodanej (Dz. Urz. UE L 347 z 11.12.2006, str. 1). Na podstawie art. 89 ust. 3 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, 974, 1137 i 1301) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa przypadki i tryb zwrotu podatku:
 1)
@@ -83,14 +83,14 @@ ustawa – ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług;
 wykonawca kontraktowy sił zbrojnych Stanów Zjednoczonych – wykonawcę kontraktowego USA, o którym mowa w art. 2 lit. f Umowy o wzmocnionej współpracy obronnej;
 21)
 wykonawcy kontraktowi Dowództwa Sojuszniczego – osoby fizyczne, osoby prawne oraz jednostki organizacyjne niemające osobowości prawnej, które na podstawie umów, o których mowa w art. 14 ust. 1 Umowy uzupełniającej, nabywają towary i usługi.
+Zwrot podatku siłom zbrojnym Państw-Stron Traktatu Północnoatlantyckiego i siłom zbrojnym Państw-Stron Traktatu Północnoatlantyckiego uczestniczących w Partnerstwie dla Pokoju oraz jednostkom dokonującym nabycia towarów lub usług na rzecz tych sił zbrojnych
 § 3.
 1.
 Zwrot podatku przysługuje organowi wojskowemu z tytułu nabycia na terytorium kraju:
 1)
 towarów lub usług na rzecz sił zbrojnych, przeznaczonych wyłącznie do użytku tych sił lub towarzyszącego im personelu cywilnego, w tym również do zaopatrzenia mes i kantyn tych sił zbrojnych, jeżeli siły te biorą udział we wspólnych działaniach obronnych,
 2)
-paliw, olei lub smarów, zwanych dalej „paliwami”, które udostępnił odpłatnie siłom zbrojnym, o których mowa w pkt 1, wyłącznie do użytku w służbowych pojazdach, statkach powietrznych i okrętach tych sił lub ich personelu cywilnego, podczas ich pobytu na terytorium kraju
-jeżeli siły zbrojne dokonały w całości zapłaty należności za towary i usługi, w tym także paliwa.
+paliw, olei lub smarów, zwanych dalej „paliwami”, które udostępnił odpłatnie siłom zbrojnym, o których mowa w pkt 1, wyłącznie do użytku w służbowych pojazdach, statkach powietrznych i okrętach tych sił lub ich personelu cywilnego, podczas ich pobytu na terytorium kraju – jeżeli siły zbrojne dokonały w całości zapłaty należności za towary i usługi, w tym także paliwa.
 2.
 W przypadku, o którym mowa w ust. 1, podstawą do obliczenia kwoty podatku podlegającej zwrotowi jest wykaz towarów lub usług, o którym mowa w § 5 ust. 3 pkt 1, w tym także paliw, oraz faktury wystawione przy ich zakupie.
 § 4.
@@ -107,8 +107,7 @@ Naczelnika Drugiego Urzędu Skarbowego Warszawa-Śródmieście – w przypadku z
 2)
 Naczelnika Pierwszego Urzędu Skarbowego w Gdyni – w przypadku zakupów dokonywanych przez upoważnionego przez Ministra Obrony Narodowej lub Szefa Inspektoratu Wsparcia Sił Zbrojnych właściwego kierownika państwowej jednostki budżetowej w Marynarce Wojennej,
 3)
-Naczelnika Urzędu Skarbowego Kraków-Stare Miasto – w przypadku zakupów dokonywanych przez upoważnionego przez Ministra Obrony Narodowej właściwego kierownika państwowej jednostki budżetowej w Wojskach Specjalnych
-w terminie 30 dni po upływie kwartału, za który jest składany, albo w terminie 90 dni po zakończeniu pobytu sił zbrojnych na terytorium kraju.
+Naczelnika Urzędu Skarbowego Kraków-Stare Miasto – w przypadku zakupów dokonywanych przez upoważnionego przez Ministra Obrony Narodowej właściwego kierownika państwowej jednostki budżetowej w Wojskach Specjalnych – w terminie 30 dni po upływie kwartału, za który jest składany, albo w terminie 90 dni po zakończeniu pobytu sił zbrojnych na terytorium kraju.
 2.
 Wniosek o zwrot podatku zawiera:
 1)
@@ -169,14 +168,14 @@ Urząd skarbowy nie ponosi kosztów związanych z dokonaniem zwrotu podatku na r
 Zwrot podatku, o którym mowa w ust. 1, nie przysługuje, jeżeli dotyczy towarów lub usług, objętych zwrotem podatku na podstawie § 3–6.
 § 9.
 Zwrot podatku, o którym mowa w § 3–8, nie dotyczy kwot, które zostały zwrócone na podstawie odrębnych przepisów.
+Zwrot podatku siłom zbrojnym państw członkowskich innych niż Rzeczpospolita Polska biorących udział w działaniach obronnych prowadzonych w celu realizacji działania Unii Europejskiej w ramach wspólnej polityki bezpieczeństwa i obrony oraz jednostkom dokonującym nabycia towarów lub usług na rzecz tych sił zbrojnych
 § 10.
 1.
 Zwrot podatku przysługuje organowi wojskowemu z tytułu nabycia na terytorium kraju:
 1)
 towarów lub usług na rzecz sił zbrojnych państwa członkowskiego innego niż Rzeczpospolita Polska, zwanych dalej „siłami zbrojnymi państwa członkowskiego”, przeznaczonych wyłącznie do użytku tych sił lub towarzyszącego im personelu cywilnego, w tym również do zaopatrzenia mes i kantyn tych sił zbrojnych, jeżeli siły takie biorą udział w działaniach obronnych prowadzonych w celu realizacji działania Unii Europejskiej w ramach wspólnej polityki bezpieczeństwa i obrony,
 2)
-paliw, które udostępnił odpłatnie siłom zbrojnym państw członkowskich wyłącznie do użytku w służbowych pojazdach, statkach powietrznych i okrętach tych sił lub ich personelu cywilnego, podczas ich pobytu na terytorium kraju
-jeżeli siły zbrojne dokonały w całości zapłaty należności za towary i usługi, w tym także paliwa.
+paliw, które udostępnił odpłatnie siłom zbrojnym państw członkowskich wyłącznie do użytku w służbowych pojazdach, statkach powietrznych i okrętach tych sił lub ich personelu cywilnego, podczas ich pobytu na terytorium kraju – jeżeli siły zbrojne dokonały w całości zapłaty należności za towary i usługi, w tym także paliwa.
 2.
 W przypadku, o którym mowa w ust. 1, podstawą do obliczenia kwoty podatku podlegającej zwrotowi jest wykaz towarów lub usług, o którym mowa w § 12 ust. 3 pkt 1, w tym także paliw, oraz faktury wystawione przy ich zakupie.
 § 11.
@@ -193,8 +192,7 @@ Naczelnika Drugiego Urzędu Skarbowego Warszawa-Śródmieście – w przypadku z
 2)
 Naczelnika Pierwszego Urzędu Skarbowego w Gdyni – w przypadku zakupów dokonywanych przez upoważnionego przez Ministra Obrony Narodowej lub Szefa Inspektoratu Wsparcia Sił Zbrojnych właściwego kierownika państwowej jednostki budżetowej w Marynarce Wojennej,
 3)
-Naczelnika Urzędu Skarbowego Kraków-Stare Miasto – w przypadku zakupów dokonywanych przez upoważnionego przez Ministra Obrony Narodowej właściwego kierownika państwowej jednostki budżetowej w Wojskach Specjalnych
-w terminie 30 dni po upływie kwartału, za który jest składany, albo w terminie 90 dni po zakończeniu pobytu sił zbrojnych na terytorium kraju.
+Naczelnika Urzędu Skarbowego Kraków-Stare Miasto – w przypadku zakupów dokonywanych przez upoważnionego przez Ministra Obrony Narodowej właściwego kierownika państwowej jednostki budżetowej w Wojskach Specjalnych – w terminie 30 dni po upływie kwartału, za który jest składany, albo w terminie 90 dni po zakończeniu pobytu sił zbrojnych na terytorium kraju.
 2.
 Wniosek o zwrot podatku zawiera:
 1)
@@ -255,6 +253,7 @@ Urząd skarbowy nie ponosi kosztów związanych z dokonaniem zwrotu podatku na r
 Zwrot podatku, o którym mowa w ust. 1, nie przysługuje, jeżeli dotyczy on towarów i usług, objętych zwrotem podatku na podstawie § 10–13.
 § 16.
 Zwrot podatku, o którym mowa w § 10–15, nie dotyczy kwot podatku, które zostały zwrócone na podstawie odrębnych przepisów.
+Zwrot podatku siłom zbrojnym Stanów Zjednoczonych oraz wykonawcom kontraktowym sił zbrojnych Stanów Zjednoczonych
 § 17.
 Zwrot podatku przysługuje:
 1)
@@ -318,8 +317,7 @@ Jeżeli zwrot należności, o której mowa w ust. 1, nastąpił:
 1)
 po dokonaniu zwrotu kwoty podatku wynikającej z faktury, o której mowa w ust. 1, lub
 2)
-przed dokonaniem zwrotu podatku, jeżeli informację o dokonanym zwrocie tej należności Naczelnik Drugiego Urzędu Skarbowego Warszawa-Śródmieście otrzymuje po dokonaniu zwrotu kwoty podatku
-kwotę zwrotu podatku za następny okres pomniejsza się o tę kwotę.
+przed dokonaniem zwrotu podatku, jeżeli informację o dokonanym zwrocie tej należności Naczelnik Drugiego Urzędu Skarbowego Warszawa-Śródmieście otrzymuje po dokonaniu zwrotu kwoty podatku – kwotę zwrotu podatku za następny okres pomniejsza się o tę kwotę.
 3.
 W przypadku gdy siły zbrojne Stanów Zjednoczonych lub wykonawca kontraktowy sił zbrojnych Stanów Zjednoczonych nie występują o zwrot podatku za następny okres (okresy), kwotę podatku wynikającą z faktury, o której mowa w ust. 1, zwraca się do Drugiego Urzędu Skarbowego Warszawa-Śródmieście nie później niż w terminie 6 miesięcy od dnia otrzymania od sprzedawcy zwrotu zapłaconej ceny (należności).
 § 24.
@@ -332,6 +330,7 @@ Jeżeli po dokonaniu zwrotu podatku siłom zbrojnym Stanów Zjednoczonych albo w
 W uzasadnionych przypadkach, po uzgodnieniu z Naczelnikiem Drugiego Urzędu Skarbowego Warszawa-Śródmieście, podstawą do obliczenia podatku podlegającego zwrotowi na podstawie § 17 może być dokument inny niż faktura, z którego bezspornie wynika, że kwota podatku została uiszczona na terytorium kraju przez siły zbrojne Stanów Zjednoczonych albo przez wykonawcę kontraktowego sił zbrojnych Stanów Zjednoczonych.
 2.
 W przypadku, o którym mowa w ust. 1, przepisy niniejszego rozdziału stosuje się odpowiednio.
+Zwrot podatku Kwaterze Głównej Wielonarodowego Korpusu Północno-Wschodniego, członkom personelu zagranicznego Kwatery oraz członkom ich rodzin
 § 26.
 1.
 Zwrot podatku przysługuje:
@@ -344,8 +343,7 @@ W przypadku nabycia samochodów osobowych lub innych pojazdów przez personel za
 1)
 jednej sztuki samochodu osobowego,
 2)
-innych pojazdów – w miarę uzasadnionych potrzeb
-nie częściej niż raz na trzy lata.
+innych pojazdów – w miarę uzasadnionych potrzeb – nie częściej niż raz na trzy lata.
 3.
 Zwrot podatku z tytułu nabycia samochodów osobowych lub innych pojazdów, o których mowa w ust. 2, przysługuje pod warunkiem, że samochody te lub inne pojazdy nie zostaną odstąpione podmiotom innym niż wymienione w tym przepisie, przez okres 3 lat od dnia ich nabycia.
 4.
@@ -403,10 +401,10 @@ Jeżeli zwrot należności, o której mowa w ust. 1, nastąpił:
 1)
 po dokonaniu zwrotu kwoty podatku wynikającej z faktury, o której mowa w ust. 1, lub
 2)
-przed dokonaniem zwrotu podatku, jeżeli informację o dokonanym zwrocie tej należności Naczelnik Drugiego Urzędu Skarbowego w Szczecinie otrzymuje po dokonaniu zwrotu kwoty podatku
-kwotę zwrotu podatku za następny okres pomniejsza się o tę kwotę.
+przed dokonaniem zwrotu podatku, jeżeli informację o dokonanym zwrocie tej należności Naczelnik Drugiego Urzędu Skarbowego w Szczecinie otrzymuje po dokonaniu zwrotu kwoty podatku – kwotę zwrotu podatku za następny okres pomniejsza się o tę kwotę.
 3.
 W przypadku gdy Kwatera lub personel zagraniczny Kwatery lub członkowie jego rodzin nie występują o zwrot podatku za następny okres (okresy), kwotę podatku wynikającą z faktury, o której mowa w ust. 1, zwraca się do Drugiego Urzędu Skarbowego w Szczecinie nie później niż w terminie 6 miesięcy od dnia otrzymania od sprzedawcy zwrotu zapłaconej ceny (należności).
+Zwrot podatku Dowództwu Brygady
 § 33.
 Zwrot podatku przysługuje Dowództwu Brygady z tytułu nabycia na terytorium kraju towarów lub usług przeznaczonych na użytek służbowy Dowództwa Brygady.
 § 34.
@@ -460,10 +458,10 @@ Jeżeli zwrot należności, o której mowa w ust. 1, nastąpił:
 1)
 po dokonaniu zwrotu kwoty podatku wynikającej z faktury, o której mowa w ust. 1, lub
 2)
-przed dokonaniem zwrotu podatku, jeżeli informację o dokonanym zwrocie tej należności Naczelnik Pierwszego Urzędu Skarbowego w Lublinie, otrzymuje po dokonaniu zwrotu kwoty podatku
-kwotę zwrotu podatku za następny okres pomniejsza się o tę kwotę.
+przed dokonaniem zwrotu podatku, jeżeli informację o dokonanym zwrocie tej należności Naczelnik Pierwszego Urzędu Skarbowego w Lublinie, otrzymuje po dokonaniu zwrotu kwoty podatku – kwotę zwrotu podatku za następny okres pomniejsza się o tę kwotę.
 3.
 W przypadku gdy Dowództwo Brygady nie wystąpi o zwrot podatku za następny okres (okresy), kwotę podatku wynikającą z faktury, o której mowa w ust. 1, zwraca się do Pierwszego Urzędu Skarbowego w Lublinie nie później niż w terminie 6 miesięcy od dnia otrzymania od sprzedawcy zwrotu zapłaconej ceny (należności).
+Zwrot podatku Dowództwom Sojuszniczym i uprawnionym członkom Dowództw Sojuszniczych
 § 40.
 1.
 Zwrot podatku przysługuje:
@@ -554,33 +552,48 @@ Jeżeli zwrot należności, o której mowa w ust. 1, nastąpił:
 1)
 po dokonaniu zwrotu kwoty podatku wynikającej z faktury, o której mowa w ust. 1, lub
 2)
-przed dokonaniem zwrotu podatku, jeżeli informację o dokonanym zwrocie tej należności naczelnik urzędu skarbowego, o którym mowa w § 43 ust. 1, otrzymuje po dokonaniu zwrotu kwoty podatku
-kwotę zwrotu podatku za następny okres pomniejsza się o tę kwotę.
+przed dokonaniem zwrotu podatku, jeżeli informację o dokonanym zwrocie tej należności naczelnik urzędu skarbowego, o którym mowa w § 43 ust. 1, otrzymuje po dokonaniu zwrotu kwoty podatku – kwotę zwrotu podatku za następny okres pomniejsza się o tę kwotę.
 3.
 W przypadku gdy Dowództwo Sojusznicze lub uprawnieni członkowie Dowództwa Sojuszniczego nie występują o zwrot podatku za następny okres (okresy), kwotę podatku wynikającą z faktury, o której mowa w ust. 1, zwraca się do właściwego urzędu skarbowego nie później niż w terminie 6 miesięcy od dnia otrzymania od sprzedawcy zwrotu zapłaconej ceny (należności).
 4.
 Przepisy ust. 1–3 stosuje się odpowiednio do towarów nabytych przez wykonawcę kontraktowego Dowództwa Sojuszniczego lub właściwe organy administracji publicznej Rzeczypospolitej Polskiej na rzecz tego Dowództwa.
 § 47.
 Zwrot podatku, o którym mowa w § 40–46, nie dotyczy kwot podatku, które zostały zwrócone na podstawie odrębnych przepisów.
+Przepis przejściowy i końcowy
 § 48.
 Do wniosków o zwrot podatku złożonych i nierozpatrzonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 49.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2022 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2006/112/WE Rady z dnia 28 listopada 2006 r. w sprawie wspólnego systemu podatku od wartości dodanej (Dz. Urz. UE L 347 z 11.12.2006, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 22 grudnia 2011 r. w sprawie przypadków i trybu zwrotu podatku od towarów i usług siłom zbrojnym, wielonarodowym kwaterom i dowództwom oraz ich personelowi cywilnemu (Dz. U. z 2019 r. poz. 1753), które traci moc z dniem wejścia w życie ustawy z dnia 12 maja 2022 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1137).
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 22 grudnia 2011 r. w sprawie przypadków i trybu zwrotu podatku od towarów i usług siłom zbrojnym, wielonarodowym kwaterom i dowództwom oraz ich personelowi cywilnemu (Dz. U. z 2019 r. poz. 1753), które traci moc z dniem wejścia w życie ustawy z dnia 12 maja 2022 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1137). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2006/112/WE Rady z dnia 28 listopada 2006 r. w sprawie wspólnego systemu podatku od wartości dodanej (Dz. Urz. UE L 347 z 11.12.2006, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 22 grudnia 2011 r. w sprawie przypadków i trybu zwrotu podatku od towarów i usług siłom zbrojnym, wielonarodowym kwaterom i dowództwom oraz ich personelowi cywilnemu (Dz. U. z 2019 r. poz. 1753), które traci moc z dniem wejścia w życie ustawy z dnia 12 maja 2022 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1137).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Zwrot podatku siłom zbrojnym Państw-Stron Traktatu Północnoatlantyckiego i siłom zbrojnym Państw-Stron Traktatu Północnoatlantyckiego uczestniczących w Partnerstwie dla Pokoju oraz jednostkom dokonującym nabycia towarów lub usług na rzecz tych sił zbrojnych
+#### Rozdział 2 – Zwrot podatku siłom zbrojnym Państw-Stron Traktatu Północnoatlantyckiego i siłom zbrojnym Państw-Stron Traktatu Północnoatlantyckiego uczestniczących w Partnerstwie dla Pokoju oraz jednostkom dokonującym nabycia towarów lub usług na rzecz tych sił zbrojnych
 
-#### Rozdział 3 Zwrot podatku siłom zbrojnym państw członkowskich innych niż Rzeczpospolita Polska biorących udział w działaniach obronnych prowadzonych w celu realizacji działania Unii Europejskiej w ramach wspólnej polityki bezpieczeństwa i obrony oraz jednostkom dokonującym nabycia towarów lub usług na rzecz tych sił zbrojnych
+#### Rozdział 3 – Zwrot podatku siłom zbrojnym państw członkowskich innych niż Rzeczpospolita Polska biorących udział w działaniach obronnych prowadzonych w celu realizacji działania Unii Europejskiej w ramach wspólnej polityki bezpieczeństwa i obrony oraz jednostkom dokonującym nabycia towarów lub usług na rzecz tych sił zbrojnych
 
-#### Rozdział 4 Zwrot podatku siłom zbrojnym Stanów Zjednoczonych oraz wykonawcom kontraktowym sił zbrojnych Stanów Zjednoczonych
+#### Rozdział 4 – Zwrot podatku siłom zbrojnym Stanów Zjednoczonych oraz wykonawcom kontraktowym sił zbrojnych Stanów Zjednoczonych
 
-#### Rozdział 5 Zwrot podatku Kwaterze Głównej Wielonarodowego Korpusu Północno-Wschodniego, członkom personelu zagranicznego Kwatery oraz członkom ich rodzin
+#### Rozdział 5 – Zwrot podatku Kwaterze Głównej Wielonarodowego Korpusu Północno-Wschodniego, członkom personelu zagranicznego Kwatery oraz członkom ich rodzin
 
-#### Rozdział 6 Zwrot podatku Dowództwu Brygady
+#### Rozdział 6 – Zwrot podatku Dowództwu Brygady
 
-#### Rozdział 7 Zwrot podatku Dowództwom Sojuszniczym i uprawnionym członkom Dowództw Sojuszniczych
+#### Rozdział 7 – Zwrot podatku Dowództwom Sojuszniczym i uprawnionym członkom Dowództw Sojuszniczych
 
-#### Rozdział 8 Przepis przejściowy i końcowy
+#### Rozdział 8 – Przepis przejściowy i końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

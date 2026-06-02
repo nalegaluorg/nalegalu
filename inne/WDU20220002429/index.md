@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 2 listopada 2022 r. zmieniające rozporządzenie w sprawie opłat pobieranych przez Prezesa Urzędu Transportu Kolejowego
+# Rozporządzenie Ministra Infrastrukturyz dnia 2 listopada 2022 r. zmieniające rozporządzenie w sprawie opłat pobieranych przez Prezesa Urzędu Transportu Kolejowego Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-02 |
 | Data wydania | 2022-11-25 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002429) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2429/text.pdf) |
 
@@ -33,9 +32,7 @@ W rozporządzeniu Ministra Infrastruktury z dnia 22 lipca 2021 r. w sprawie opł
 1)
 w § 3:
 a)
-w pkt 1 po lit. j dodaje się lit. ja w brzmieniu:
-„
-ja) przeprowadzenia egzaminu dla kandydatów na maszynistów ubiegających się o uzyskanie:
+w pkt 1 po lit. j dodaje się lit. ja w brzmieniu: „ ja) przeprowadzenia egzaminu dla kandydatów na maszynistów ubiegających się o uzyskanie:
 – licencji maszynisty,
 – świadectwa maszynisty,
 ” ,
@@ -44,10 +41,10 @@ w pkt 2 w lit. a skreśla się wyrazy „i egzaminowania”;
 2)
 w załączniku do rozporządzenia w tabeli:
 a)
-po lp. 13.2 dodaje się lp. 13a-13a.2 w brzmieniu: 13a Przeprowadzenie egzaminu dla kandydatów na maszynistów – 13a.1 Przeprowadzenie egzaminu dla kandydatów na maszynistów ubiegających się o uzyskanie licencji maszynisty 150 13a.2 Przeprowadzenie egzaminu dla kandydatów na maszynistów ubiegających się o uzyskanie świadectwa maszynisty 600
+po lp. 13.2 dodaje się lp. 13a-13a.2 w brzmieniu:
+13a Przeprowadzenie egzaminu dla kandydatów na maszynistów – 13a.1 Przeprowadzenie egzaminu dla kandydatów na maszynistów ubiegających się o uzyskanie licencji maszynisty 150 13a.2 Przeprowadzenie egzaminu dla kandydatów na maszynistów ubiegających się o uzyskanie świadectwa maszynisty 600
 b)
 w lp. 16.1 w kolumnie „Czynność i rodzaj sprawy” skreśla się wyrazy „i egzaminowania”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 

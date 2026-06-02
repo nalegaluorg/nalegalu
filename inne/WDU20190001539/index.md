@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 31 lipca 2019 r. zmieniające rozporządzenie w sprawie podstawy programowej kształcenia w zawodach
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 31 lipca 2019 r. zmieniające rozporządzenie w sprawie podstawy programowej kształcenia w zawodach Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-31 |
 | Data wydania | 2019-08-16 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001539) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1539/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 47 ust. 1 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oś
 § 1.
 W rozporządzeniu Ministra Edukacji Narodowej z dnia 31 marca 2017 r. w sprawie podstawy programowej kształcenia w zawodach (Dz. U. poz. 860 oraz z 2018 r. poz. 744) wprowadza się następujące zmiany:
 1)
-§ 2 i § 3 otrzymują brzmienie:
-„
+§ 2 i § 3 otrzymują brzmienie: „
 § 2.
 Podstawę programową, o której mowa w § 1 ust. 1, stosuje się:
 1)
@@ -60,15 +58,13 @@ w roku szkolnym 2021/2022 w:
 a)
 klasie IV dotychczasowego czteroletniego technikum,
 b)
-klasie III branżowej szkoły I stopnia będącej kontynuacją klasy, o której mowa w pkt 2 lit. b
-zgodnie z art. 94 ust. 4 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
+klasie III branżowej szkoły I stopnia będącej kontynuacją klasy, o której mowa w pkt 2 lit. b – zgodnie z art. 94 ust. 4 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
 § 3.
 Minimalną liczbę godzin kształcenia zawodowego określoną, w odniesieniu do poszczególnych zawodów szkolnictwa zawodowego, w podstawie programowej, o której mowa w § 1 ust. 1, w przypadku:
 1)
 szkół ponadpodstawowych, o których mowa w § 2 pkt 1 lit. b-d, pkt 2 lit. b-d i pkt 3 lit. b – należy dostosować do wymiaru godzin określonego w rozporządzeniu Ministra Edukacji Narodowej z dnia 28 marca 2017 r. w sprawie ramowych planów nauczania dla publicznych szkół (Dz. U. poz. 703), zachowując, z wyjątkiem szkoły policealnej dla dorosłych, tę minimalną liczbę godzin kształcenia zawodowego;
 2)
-klas dotychczasowego czteroletniego technikum, o których mowa w § 2 pkt 1 lit. a, pkt 2 lit. a i pkt 3 lit. a, prowadzonych w pięcioletnim technikum – należy dostosować do wymiaru godzin określonego w rozporządzeniu Ministra Edukacji Narodowej z dnia 7 lutego 2012 r. w sprawie ramowych planów nauczania w szkołach publicznych (Dz. U. poz. 204 oraz z 2014 r. poz. 251 i 1993), zachowując tę minimalną liczbę godzin kształcenia zawodowego.
-” ;
+klas dotychczasowego czteroletniego technikum, o których mowa w § 2 pkt 1 lit. a, pkt 2 lit. a i pkt 3 lit. a, prowadzonych w pięcioletnim technikum – należy dostosować do wymiaru godzin określonego w rozporządzeniu Ministra Edukacji Narodowej z dnia 7 lutego 2012 r. w sprawie ramowych planów nauczania w szkołach publicznych (Dz. U. poz. 204 oraz z 2014 r. poz. 251 i 1993), zachowując tę minimalną liczbę godzin kształcenia zawodowego. ” ;
 2)
 w załączniku do rozporządzenia w części I „Ogólne cele i zadania kształcenia zawodowego”:
 a)
@@ -76,6 +72,5 @@ odnośnik nr 1 otrzymuje brzmienie: „ 1) Zalecenie Rady z dnia 22 maja 2017 r.
 b)
 uchyla się odnośniki nr 2 i 3.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
 

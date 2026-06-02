@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-27 |
 | Data wydania | 2019-05-29 |
-| Wejście w życie | 2019-05-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001003) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1003/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 54 § 5 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2018 r. poz. 1302, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 54 § 5 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2018 r. poz. 1302, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467 i 1629 oraz z 2019 r. poz. 11, 60, 848 i 934.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy sposób oraz szczegółowe warunki przekazywania skargi wraz z aktami sprawy i odpowiedzią na skargę do sądu administracyjnego przez organ, którego działanie, bezczynność lub przewlekłe prowadzenie postępowania jest przedmiotem skargi, zwany dalej „organem”, oraz przez ministra właściwego do spraw zagranicznych przekazującego skargę wniesioną za pośrednictwem konsula.
 § 2.
@@ -93,5 +92,5 @@ Do paczki eADM stosuje się odpowiednio przepisy wydane na podstawie art. 5 ust.
 § 8.
 W przypadku gdy ze względów technicznych skarga lub odpowiedź na skargę sporządzona w formie dokumentu elektronicznego, lub paczka eADM nie może zostać przekazana do elektronicznej skrzynki podawczej sądu, organ przekazuje skargę, odpowiedź na skargę lub paczkę eADM zapisaną na informatycznym nośniku danych.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 31 maja 2019 r.
+Rozporządzenie wchodzi w życie z dniem 31 maja 2019 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467 i 1629 oraz z 2019 r. poz. 11, 60, 848 i 934.
 

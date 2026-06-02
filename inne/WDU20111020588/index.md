@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-04-15 |
 | Data wydania | 2011-05-18 |
-| Wejście w życie | 2011-06-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111020588) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/588/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, Nr 26, poz. 134 i Nr 94, poz. 550) wprowadza się następujące zmiany:
 
 - **1)** w art. 11 w § 2 pkt 2 otrzymuje brzmienie: „
-- **2)** wobec której wydano prawomocne orzeczenie sądu stwierdzające utratę prawa wybieralności, o którym mowa w art. 21a ust. 2a ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2007 r. Nr 63, poz. 425, z późn. zm.). ” ;
+- **2)** wobec której wydano prawomocne orzeczenie sądu stwierdzające utratę prawa wybieralności, o którym mowa w art. 21a ust. 2a ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2007 r. Nr 63, poz. 425, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 83, poz. 561, Nr 85, poz. 571, Nr 115, poz. 789, Nr 165, poz. 1171 i Nr 176, poz. 1242, z 2009 r. Nr 178, poz. 1375, z 2010 r. Nr 79, poz. 522, Nr 96, poz. 620, Nr 127, poz. 857, Nr 155, poz. 1036 i Nr 182, poz. 1228 oraz z 2011 r. Nr 21, poz. 113, Nr 76, poz. 408, Nr 84, poz. 455 i Nr 89, poz. 514.). ” ;
 - **2)** w art. 14 w § 2 dodaje się zdanie drugie w brzmieniu: „ W rozporządzeniu tym wskazuje się ponadto co najmniej jedną obwodową komisję wyborczą na obszarze właściwości terytorialnej każdego konsula właściwą dla celów głosowania korespondencyjnego, o którym mowa w art. 62. ” ;
 - **3)** w art. 17 § 2 otrzymuje brzmienie: „
 
@@ -91,7 +90,7 @@ source: "eli-html"
 - **2)** ramowy podział czasu rozpowszechniania nieodpłatnie audycji wyborczych w okresie od 15 dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej,
 - **3)** tryb postępowania w sprawach podziału czasu rozpowszechniania nieodpłatnie audycji wyborczych,
 - **4)** zakres rejestracji oraz sposób przygotowania i emisji audycji wyborczych, uwzględniając typ i rodzaj nośnika zapisu audycji wyborczej,
-- **5)** sposób rozpowszechniania informacji o terminach emisji audycji wyborczych mając na względzie rodzaj przeprowadzanych wyborów oraz konieczność zapewnienia najwyższego standardu technicznego emitowanych audycji wyborczych, a także powszechnej dostępności audycji wyborczych i informacji o terminach ich emisji. ” ;
+- **5)** sposób rozpowszechniania informacji o terminach emisji audycji wyborczych – mając na względzie rodzaj przeprowadzanych wyborów oraz konieczność zapewnienia najwyższego standardu technicznego emitowanych audycji wyborczych, a także powszechnej dostępności audycji wyborczych i informacji o terminach ich emisji. ” ;
 - **20)** uchyla się art. 137;
 - **21)** w art. 142 dodaje się § 7 w brzmieniu: „
 
@@ -155,5 +154,5 @@ source: "eli-html"
 
 1. Rada gminy dokona podziału gminy na stałe obwody głosowania, o których mowa w art. 12 ustawy, o której mowa w art. 1, oraz ustali ich numery, granice oraz siedziby obwodowych komisji wyborczych w terminie 3 miesięcy od dnia podziału gminy na okręgi wyborcze, o których mowa w art. 13. ” .
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 83, poz. 561, Nr 85, poz. 571, Nr 115, poz. 789, Nr 165, poz. 1171 i Nr 176, poz. 1242, z 2009 r. Nr 178, poz. 1375, z 2010 r. Nr 79, poz. 522, Nr 96, poz. 620, Nr 127, poz. 857, Nr 155, poz. 1036 i Nr 182, poz. 1228 oraz z 2011 r. Nr 21, poz. 113, Nr 76, poz. 408, Nr 84, poz. 455 i Nr 89, poz. 514.
 

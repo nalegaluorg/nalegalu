@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-02-09 |
 | Data wydania | 2022-02-15 |
-| Wejście w życie | 2022-03-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000386) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/386/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 36 § 1 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2021 r. poz. 66, 1236 i 2052) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 7 kwietnia 2016 r. – Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury (Dz. U. z 2017 r. poz. 1206, z późn. zm.) po § 114 dodaje się § 114a w brzmieniu:
-„
+W rozporządzeniu Ministra Sprawiedliwości z dnia 7 kwietnia 2016 r. – Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury (Dz. U. z 2017 r. poz. 1206, z późn. zm.Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2018 r. poz. 793 i 1470, z 2020 r. poz. 606 i 2090 oraz z 2021 r. poz. 160, 976 i 1590.) po § 114 dodaje się § 114a w brzmieniu: „
 § 114a.
-Prokurator Generalny lub Prokurator Krajowy może wyznaczyć jednostkę do prowadzenia postępowania przygotowawczego, obejmującego ujawnione w danym okresie lub na danym obszarze przestępstwa z art. 310 § 1 k.k., wskazane według określonego kryterium, w szczególności według nominału pieniądza, znaku pieniężnego lub innego środka płatniczego albo dokumentu, o którym mowa w art. 310 § 1 k.k., albo według określonej klasy fałszerskiej.
-” .
+Prokurator Generalny lub Prokurator Krajowy może wyznaczyć jednostkę do prowadzenia postępowania przygotowawczego, obejmującego ujawnione w danym okresie lub na danym obszarze przestępstwa z art. 310 § 1 k.k., wskazane według określonego kryterium, w szczególności według nominału pieniądza, znaku pieniężnego lub innego środka płatniczego albo dokumentu, o którym mowa w art. 310 § 1 k.k., albo według określonej klasy fałszerskiej. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2018 r. poz. 793 i 1470, z 2020 r. poz. 606 i 2090 oraz z 2021 r. poz. 160, 976 i 1590.
 

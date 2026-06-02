@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 7 sierpnia 2019 r. zmieniające rozporządzenie w sprawie szczegółowych zasad wyznaczania składek na finansowanie przymusowej restrukturyzacji kas w oparciu o ryzyko
+# Rozporządzenie Ministra Finansówz dnia 7 sierpnia 2019 r. zmieniające rozporządzenie w sprawie szczegółowych zasad wyznaczania składek na finansowanie przymusowej restrukturyzacji kas w oparciu o ryzyko Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-07 |
 | Data wydania | 2019-08-19 |
-| Wejście w życie | 2019-09-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001544) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1544/text.pdf) |
 
@@ -31,20 +30,15 @@ Na podstawie art. 298 ust. 7 ustawy z dnia 10 czerwca 2016 r. o Bankowym Fundusz
 § 1.
 W rozporządzeniu Ministra Rozwoju i Finansów z dnia 15 lutego 2017 r. w sprawie szczegółowych zasad wyznaczania składek na finansowanie przymusowej restrukturyzacji kas w oparciu o ryzyko (Dz. U. poz. 320) w § 9:
 1)
-po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-W przypadku gdy przekazane Funduszowi przez kasy dane, stanowiące podstawę wyznaczania składki na finansowanie przymusowej restrukturyzacji kas, zostaną skorygowane, Fundusz dokonuje korekty składki zgodnie ze skorygowanymi danymi przy wyznaczaniu składki należnej za kolejny rok kalendarzowy. Fundusz dokonuje korekty poprzez obniżenie lub podwyższenie składek za kolejny rok kalendarzowy.
-” ;
+W przypadku gdy przekazane Funduszowi przez kasy dane, stanowiące podstawę wyznaczania składki na finansowanie przymusowej restrukturyzacji kas, zostaną skorygowane, Fundusz dokonuje korekty składki zgodnie ze skorygowanymi danymi przy wyznaczaniu składki należnej za kolejny rok kalendarzowy. Fundusz dokonuje korekty poprzez obniżenie lub podwyższenie składek za kolejny rok kalendarzowy. ” ;
 2)
-dodaje się ust. 3 w brzmieniu:
-„
+dodaje się ust. 3 w brzmieniu: „
 3.
-Za skorygowane dane, o których mowa w ust. 1a, przyjmuje się dane, o których mowa w ust. 2, które następnie zostały skorygowane.
-” .
+Za skorygowane dane, o których mowa w ust. 1a, przyjmuje się dane, o których mowa w ust. 2, które następnie zostały skorygowane. ” .
 § 2.
 Przepis § 9 ust. 1a rozporządzenia zmienianego w § 1 ma zastosowanie po raz pierwszy do korygowania składek na finansowanie przymusowej restrukturyzacji kas wniesionych za rok 2019.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 

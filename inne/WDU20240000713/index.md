@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-07 |
 | Data wydania | 2024-05-09 |
-| Wejście w życie | 2024-05-24 |
 | Ostatnia zmiana | 2024-05-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000713) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/713/text.pdf) |
 
@@ -57,5 +56,5 @@ w odniesieniu do obywatela Rzeczypospolitej Polskiej czasowo przebywającego za 
 2)
 w odniesieniu do obywatela Rzeczypospolitej Polskiej stale przebywającego poza granicami Rzeczpospolitej Polskiej – Szef Wojskowego Centrum Rekrutacji Warszawa-Śródmieście.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 19 sierpnia 2003 r. w sprawie przeprowadzania zaciągu ochotniczego (Dz. U. poz. 1580, z 2006 r. poz. 281, z 2009 r. poz. 195 i 906 oraz z 2011 r. poz. 1362), które utraciło moc z dniem 24 października 2023 r. zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 19 sierpnia 2003 r. w sprawie przeprowadzania zaciągu ochotniczego (Dz. U. poz. 1580, z 2006 r. poz. 281, z 2009 r. poz. 195 i 906 oraz z 2011 r. poz. 1362), które utraciło moc z dniem 24 października 2023 r. zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248).
 

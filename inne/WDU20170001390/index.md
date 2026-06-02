@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 29 czerwca 2017 r. zmieniające rozporządzenie w sprawie terytorialnego zakresu działania oraz siedzib powiatowych i granicznych lekarzy weterynarii
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 29 czerwca 2017 r. zmieniające rozporządzenie w sprawie terytorialnego zakresu działania oraz siedzib powiatowych i granicznych lekarzy weterynarii Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-29 |
 | Data wydania | 2017-07-20 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001390) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1390/text.pdf) |
 
@@ -31,14 +30,11 @@ Na podstawie art. 8 ust. 4 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weteryn
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 25 sierpnia 2004 r. w sprawie terytorialnego zakresu działania oraz siedzib powiatowych i granicznych lekarzy weterynarii (Dz. U. z 2016 r. poz. 197) w załączniku nr 2 wprowadza się następujące zmiany:
 1)
-w ust. 5 pkt 2 otrzymuje brzmienie:
-„
+w ust. 5 pkt 2 otrzymuje brzmienie: „
 2)
-Graniczny Lekarz Weterynarii w Gdańsku – dla morskiego przejścia granicznego Gdańsk-Port, morskiego przejścia granicznego Elbląg oraz przejścia granicznego drogowego Bezledy.
-” ;
+Graniczny Lekarz Weterynarii w Gdańsku – dla morskiego przejścia granicznego Gdańsk-Port, morskiego przejścia granicznego Elbląg oraz przejścia granicznego drogowego Bezledy. ” ;
 2)
 uchyla się ust. 6.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 

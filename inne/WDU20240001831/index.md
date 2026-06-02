@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 27 listopada 2024 r. o zmianie ustawy o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku oraz w 2024 roku oraz niektórych innych ustaw
+# Ustawa z dnia 27 listopada 2024 r. o zmianie ustawy o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku oraz w 2024 roku oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, ustawę z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej, ustawę z dnia 16 sierpnia 2023 r. o zmianie ustawy o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej oraz niektórych innych ustaw oraz ustawę z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-27 |
 | Data wydania | 2024-12-11 |
-| Wejście w życie | 2024-12-12 |
 | Ostatnia zmiana | 2024-12-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001831) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1831/text.pdf) |
 
@@ -33,8 +32,11 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **3)** w art. 3: w ust. 1: – w pkt 1 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ d) wynoszącą 500 zł/MWh w okresie od dnia 1 stycznia 2025 r. do dnia 30 września 2025 r.; ” , – w pkt 3 na końcu dodaje się średnik i dodaje się pkt 4 w brzmieniu: „ 4) art. 2 pkt 2 lit. d-f, wynoszącą 693 zł/MWh, przy czym cenę tę stosuje się w rozliczeniach za dostawy energii elektrycznej zrealizowane w okresie od dnia 1 stycznia 2025 r. do dnia 31 marca 2025 r. ” , w ust. 5 wyrazy „lit. b-f” zastępuje się wyrazami „lit. d-f”, w ust. 7 wyrazy „lit. b-e” zastępuje się wyrazami „lit. d i e”, w ust. 9 we wprowadzeniu do wyliczenia wyrazy „31 grudnia 2024 r.” zastępuje się wyrazami „31 grudnia 2025 r.”;
+- **3)** w art. 3: w ust. 1: w pkt 1 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ wynoszącą 500 zł/MWh w okresie od dnia 1 stycznia 2025 r. do dnia 30 września 2025 r.; ” , w pkt 3 na końcu dodaje się średnik i dodaje się pkt 4 w brzmieniu: „
     - **a)**
+    - **d)**
+
+- **4)** art. 2 pkt 2 lit. d-f, wynoszącą 693 zł/MWh, przy czym cenę tę stosuje się w rozliczeniach za dostawy energii elektrycznej zrealizowane w okresie od dnia 1 stycznia 2025 r. do dnia 31 marca 2025 r. ” , w ust. 5 wyrazy „lit. b-f” zastępuje się wyrazami „lit. d-f”, w ust. 7 wyrazy „lit. b-e” zastępuje się wyrazami „lit. d i e”, w ust. 9 we wprowadzeniu do wyliczenia wyrazy „31 grudnia 2024 r.” zastępuje się wyrazami „31 grudnia 2025 r.”;
     - **b)**
     - **c)**
     - **d)**
@@ -54,7 +56,7 @@ source: "eli-html"
 
 - **d)**
 - **1)** pkt 1–3, w przypadku braku zatwierdzenia przez Prezesa URE taryfy lub jej zmiany obejmującej co najmniej okres od dnia 1 stycznia 2025 r. do dnia 30 września 2025 r.,
-- **2)** pkt 4 lub ust. 3a na potrzeby rekompensaty wypłacanej za okres, o którym mowa w pkt 1, ceną odniesienia, o której mowa w ust. 2, jest średnia cena, opublikowana zgodnie z art. 10 ust. 1 odpowiednio pkt 4 albo pkt 6 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej, stosowana przez dany podmiot uprawniony dla danej grupy taryfowej. ” , w ust. 5a wyrazy „31 grudnia 2024 r.” zastępuje się wyrazami „30 września 2025 r.”, po ust. 9 dodaje się ust. 9a w brzmieniu: „
+- **2)** pkt 4 lub ust. 3a – na potrzeby rekompensaty wypłacanej za okres, o którym mowa w pkt 1, ceną odniesienia, o której mowa w ust. 2, jest średnia cena, opublikowana zgodnie z art. 10 ust. 1 odpowiednio pkt 4 albo pkt 6 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej, stosowana przez dany podmiot uprawniony dla danej grupy taryfowej. ” , w ust. 5a wyrazy „31 grudnia 2024 r.” zastępuje się wyrazami „30 września 2025 r.”, po ust. 9 dodaje się ust. 9a w brzmieniu: „
     - **e)**
     - **f)**
 
@@ -107,13 +109,13 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879 i 1685) w art. 297 w § 1 w pkt 12 wyrazy „w 2023 roku oraz w 2024 roku” zastępuje się wyrazami „w latach 2023–2025”.
 
-**Art. 3.** W ustawie z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2538, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2538, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 412, 1210, 1495 i 1532, z 2021 r. poz. 1093, z 2022 r. poz. 202, 1477, 1692, 2243 i 2687, z 2023 r. poz. 1785 i 2760 oraz z 2024 r. poz. 859.) wprowadza się następujące zmiany:
 
 - **1)** w art. 12: w pkt 2b wyrazy „w 2023 roku oraz w 2024 roku” zastępuje się wyrazami „w latach 2023–2025”, po pkt 2d dodaje się pkt 2e w brzmieniu: „
     - **a)**
     - **b)**
 
-- **2e)** środki, o których mowa w art. 65 ust. 5 pkt 12–13a ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.); ” ;
+- **2e)** środki, o których mowa w art. 65 ust. 5 pkt 12–13a ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687, z 2023 r. poz. 295, 556, 803, 1641, 1785 i 2760 oraz z 2024 r. poz. 834, 859, 1089 i 1831.); ” ;
 - **2)** w art. 13: w pkt 5 wyrazy „w 2023 roku oraz w 2024 roku” zastępuje się wyrazami „w latach 2023–2025”, w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8–10 w brzmieniu: „
     - **a)**
     - **b)**
@@ -139,9 +141,9 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-**Art. 4.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.) w art. 65 w ust. 5:
+**Art. 4.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687, z 2023 r. poz. 295, 556, 803, 1641, 1785 i 2760 oraz z 2024 r. poz. 834, 859 i 1089.) w art. 65 w ust. 5:
 
-- **1)** w pkt 12: we wprowadzeniu do wyliczenia po wyrazach „ „zarządcą rozliczeń” „ dodaje się wyrazy „, do Funduszu Wypłaty Różnicy Ceny, o którym mowa w art. 11 ust. 1 ustawy z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2538, z późn. zm.)”, w części wspólnej wyrazy „na rzecz podmiotu” zastępuje się wyrazami „z przeznaczeniem na wypłaty na rzecz podmiotu”;
+- **1)** w pkt 12: we wprowadzeniu do wyliczenia po wyrazach „ „zarządcą rozliczeń” „ dodaje się wyrazy „, do Funduszu Wypłaty Różnicy Ceny, o którym mowa w art. 11 ust. 1 ustawy z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2538, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 412, 1210, 1495 i 1532, z 2021 r. poz. 1093, z 2022 r. poz. 202, 1477, 1692, 2243 i 2687, z 2023 r. poz. 1785 i 2760 oraz z 2024 r. poz. 859 i 1831.)”, w części wspólnej wyrazy „na rzecz podmiotu” zastępuje się wyrazami „z przeznaczeniem na wypłaty na rzecz podmiotu”;
     - **a)**
     - **b)**
 
@@ -174,14 +176,14 @@ source: "eli-html"
 1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną na potrzeby odbiorców uprawnionych:
 
 - **1)** posiadające zatwierdzoną i obowiązującą taryfę dla energii elektrycznej na okres od dnia 1 lipca 2024 r. do dnia 31 grudnia 2025 r. występuje do Prezesa URE z wnioskiem o zmianę tej taryfy bez zmiany okresu jej obowiązywania, w terminie do dnia 30 kwietnia 2025 r.;
-- **2)** wykonujące zadania sprzedawcy z urzędu, zwolnione z obowiązku przedkładania taryf do zatwierdzenia zgodnie z art. 49 ust. 1 ustawy – Prawo energetyczne występuje do Prezesa URE z wnioskiem o: zmianę taryfy dla energii elektrycznej dla tych odbiorców na okres od dnia 1 lipca 2024 r. do dnia 31 grudnia 2025 r. albo zatwierdzenie taryfy dla energii elektrycznej na okres od dnia 1 lipca 2025 r. do dnia 31 grudnia 2025 r. – w przypadku gdy nie posiada zatwierdzonej przez Prezesa URE taryfy w terminie do dnia 30 kwietnia 2025 r.
+- **2)** wykonujące zadania sprzedawcy z urzędu, zwolnione z obowiązku przedkładania taryf do zatwierdzenia zgodnie z art. 49 ust. 1 ustawy – Prawo energetyczne występuje do Prezesa URE z wnioskiem o: zmianę taryfy dla energii elektrycznej dla tych odbiorców na okres od dnia 1 lipca 2024 r. do dnia 31 grudnia 2025 r. albo zatwierdzenie taryfy dla energii elektrycznej na okres od dnia 1 lipca 2025 r. do dnia 31 grudnia 2025 r. – w przypadku gdy nie posiada zatwierdzonej przez Prezesa URE taryfy – w terminie do dnia 30 kwietnia 2025 r.
     - **a)**
     - **b)**
 
 2. W przypadku gdy przedsiębiorstwo energetyczne, o którym mowa w:
 
 - **1)** ust. 1 pkt 1, nie wystąpiło z wnioskiem o zmianę taryfy dla energii elektrycznej,
-- **2)** ust. 1 pkt 2, nie wystąpiło z wnioskiem o zatwierdzenie albo o zmianę taryfy dla energii elektrycznej Prezes URE wzywa to przedsiębiorstwo do złożenia odpowiednio wniosku o zmianę taryfy dla energii elektrycznej albo wniosku o zatwierdzenie taryfy lub o zmianę taryfy, w terminie 14 dni od dnia otrzymania wezwania.
+- **2)** ust. 1 pkt 2, nie wystąpiło z wnioskiem o zatwierdzenie albo o zmianę taryfy dla energii elektrycznej – Prezes URE wzywa to przedsiębiorstwo do złożenia odpowiednio wniosku o zmianę taryfy dla energii elektrycznej albo wniosku o zatwierdzenie taryfy lub o zmianę taryfy, w terminie 14 dni od dnia otrzymania wezwania.
 
 3. W przypadku gdy mimo wezwania przedsiębiorstwo energetyczne, o którym mowa w ust. 1, nie złoży wniosku, o którym mowa w ust. 1, lub nie uzupełni tego wniosku w terminie lub uzupełniony wniosek nadal zawiera braki formalne lub merytoryczne uniemożliwiające zatwierdzenie taryfy albo zmianę taryfy zgodnie z art. 44–45a ustawy – Prawo energetyczne oraz zgodnie z przepisami wydanymi na podstawie art. 46 ust. 3 i 4 tej ustawy, Prezes URE informuje o tym fakcie zarządcę rozliczeń. Zarządca rozliczeń wstrzymuje wypłatę rekompensat, o których mowa w art. 8 ust. 1 ustawy z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w latach 2023–2025, do czasu zakończenia postępowania taryfowego przez Prezesa URE.
 
@@ -200,8 +202,8 @@ source: "eli-html"
 1. Cena maksymalna w odniesieniu do przedsiębiorcy, o którym mowa w art. 2 pkt 2 lit. b i c ustawy zmienianej w art. 23, w brzmieniu nadanym niniejszą ustawą, będącym małym lub średnim przedsiębiorstwem stanowi pomoc de minimis w rozumieniu art. 2 pkt 10 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702 oraz z 2024 r. poz. 1635), zwanej dalej „ustawą o pomocy publicznej”, albo pomoc de minimis w rolnictwie lub rybołówstwie w rozumieniu art. 2 pkt 10a ustawy o pomocy publicznej, i jest udzielana zgodnie z przepisami:
 
 - **1)** rozporządzenia Komisji (UE) 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 2023/2831 z 15.12.2023), zwanego dalej „rozporządzeniem Komisji”;
-- **2)** rozporządzenia Komisji (UE) nr 1408/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rolnym (Dz. Urz. UE L 352 z 24.12.2013, str. 9, z późn. zm.);
-- **3)** rozporządzenia Komisji (UE) nr 717/2014 z dnia 27 czerwca 2014 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rybołówstwa i akwakultury (Dz. Urz. UE L 190 z 28.06.2014, str. 45, z późn. zm.). ” , ust. 5–7 otrzymują brzmienie: „
+- **2)** rozporządzenia Komisji (UE) nr 1408/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rolnym (Dz. Urz. UE L 352 z 24.12.2013, str. 9, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE LI 51 z 22.02.2019, str. 1, Dz. Urz. UE L 275 z 25.10.2022, str. 55 oraz Dz. Urz. UE L 2023/2391 z 05.10.2023.;
+- **3)** rozporządzenia Komisji (UE) nr 717/2014 z dnia 27 czerwca 2014 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rybołówstwa i akwakultury (Dz. Urz. UE L 190 z 28.06.2014, str. 45, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 414 z 10.12.2020, str. 15, Dz. Urz. UE L 326 z 21.12.2022, str. 8 oraz Dz. Urz. UE L 2023/2391 z 05.10.2023.. ” , ust. 5–7 otrzymują brzmienie: „
     - **b)**
 
 5. Dniem udzielenia pomocy de minimis jest dzień zatwierdzenia przez Zarządcę Rozliczeń wniosku o rozliczenie rekompensaty, o którym mowa w art. 13 ust. 1a pkt 2 ustawy zmienianej w art. 23, za stosowanie ceny maksymalnej wobec przedsiębiorcy, o którym mowa w ust. 1.
@@ -279,7 +281,7 @@ source: "eli-html"
 8. Przedsiębiorca, o którym mowa w art. 37 ust. 1 lub art. 38 ust. 1, który nabywał energię elektryczną po cenie maksymalnej w okresie od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r., w przypadku:
 
 - **1)** niezłożenia w terminie informacji o pomocy lub nieusunięcia w wyznaczonym terminie błędów, omyłek pisarskich lub rachunkowych lub braków formalnych w informacji o pomocy lub
-- **2)** jeśli ze złożonej informacji o pomocy wynika, że przedsiębiorca, o którym mowa w ust. 1, nie spełnia warunków otrzymania pomocy publicznej lub pomocy de minimis w rozliczeniach za energię elektryczną ze sprzedawcą energii elektrycznej zwraca różnicę pomiędzy ceną maksymalną a ceną wynikającą z umowy sprzedaży, o której mowa w art. 5 ust. 2 pkt 1 ustawy – Prawo energetyczne, albo umowy kompleksowej, o której mowa w art. 5 ust. 3 tej ustawy, z tym sprzedawcą, wraz z ustawowymi odsetkami naliczanymi od dnia rozliczenia z podmiotem udzielającym pomocy. ” .
+- **2)** jeśli ze złożonej informacji o pomocy wynika, że przedsiębiorca, o którym mowa w ust. 1, nie spełnia warunków otrzymania pomocy publicznej lub pomocy de minimis – w rozliczeniach za energię elektryczną ze sprzedawcą energii elektrycznej zwraca różnicę pomiędzy ceną maksymalną a ceną wynikającą z umowy sprzedaży, o której mowa w art. 5 ust. 2 pkt 1 ustawy – Prawo energetyczne, albo umowy kompleksowej, o której mowa w art. 5 ust. 3 tej ustawy, z tym sprzedawcą, wraz z ustawowymi odsetkami naliczanymi od dnia rozliczenia z podmiotem udzielającym pomocy. ” .
 
 **Art. 8.**
 
@@ -306,5 +308,5 @@ source: "eli-html"
 
 **Art. 11.** Maksymalny łączny limit wydatków z Funduszu Przeciwdziałania COVID-19 na wypłatę rekompensaty, o której mowa w art. 9 ust. 1, w 2025 r. wynosi 1 476 000 000 zł.
 
-**Art. 12.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 12.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, ustawę z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej, ustawę z dnia 16 sierpnia 2023 r. o zmianie ustawy o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej oraz niektórych innych ustaw oraz ustawę z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 412, 1210, 1495 i 1532, z 2021 r. poz. 1093, z 2022 r. poz. 202, 1477, 1692, 2243 i 2687, z 2023 r. poz. 1785 i 2760 oraz z 2024 r. poz. 859. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687, z 2023 r. poz. 295, 556, 803, 1641, 1785 i 2760 oraz z 2024 r. poz. 834, 859, 1089 i 1831. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687, z 2023 r. poz. 295, 556, 803, 1641, 1785 i 2760 oraz z 2024 r. poz. 834, 859 i 1089. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 412, 1210, 1495 i 1532, z 2021 r. poz. 1093, z 2022 r. poz. 202, 1477, 1692, 2243 i 2687, z 2023 r. poz. 1785 i 2760 oraz z 2024 r. poz. 859 i 1831. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE LI 51 z 22.02.2019, str. 1, Dz. Urz. UE L 275 z 25.10.2022, str. 55 oraz Dz. Urz. UE L 2023/2391 z 05.10.2023. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 414 z 10.12.2020, str. 15, Dz. Urz. UE L 326 z 21.12.2022, str. 8 oraz Dz. Urz. UE L 2023/2391 z 05.10.2023.
 

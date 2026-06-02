@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 16 grudnia 2016 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodów regulowanych w dziedzinie geologii
+# Rozporządzenie Ministra Środowiskaz dnia 16 grudnia 2016 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodów regulowanych w dziedzinie geologii Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095).
 
 | Pole | Wartość |
 |---|---|
@@ -22,20 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-16 |
 | Data wydania | 2016-12-27 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002153) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2153/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Staż adaptacyjny Rozdział 3 – Test umiejętności Rozdział 4 – Przepisy przejściowy i końcowy
 Treść rozporządzenia
-Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
 warunki, sposób i tryb odbywania stażu adaptacyjnego, sposób i tryb wykonywania nadzoru nad jego odbywaniem oraz oceny nabytych w jego trakcie umiejętności, sposób ustalania kosztów odbywania stażu adaptacyjnego oraz tryb pobierania i zwrotu opłaty za jego odbywanie,
 2)
-warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za jego przeprowadzenie
-w toku postępowania w sprawie uznania kwalifikacji do wykonywania zawodów regulowanych w dziedzinie geologii.
+warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za jego przeprowadzenie – w toku postępowania w sprawie uznania kwalifikacji do wykonywania zawodów regulowanych w dziedzinie geologii.
 § 2.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
@@ -49,6 +48,7 @@ Staż adaptacyjny, zwany dalej „stażem”, odbywa się dla danego zawodu regu
 Test umiejętności, zwany dalej „testem”, przeprowadza się dla danego zawodu regulowanego w dziedzinie geologii. Jeżeli wnioskodawca wnosi o uznanie kwalifikacji zawodowych dla więcej niż jednego zawodu regulowanego w dziedzinie geologii, test przeprowadza się osobno dla każdego zawodu.
 § 4.
 Organ prowadzący postępowanie w toku postępowania o uznanie kwalifikacji do wykonywania zawodów regulowanych w dziedzinie geologii upowszechnia w Biuletynie Informacji Publicznej informacje o wymaganiach kwalifikacyjnych dla poszczególnych zawodów regulowanych w dziedzinie geologii, wykazy literatury pomocnej przy uzupełnianiu wiedzy niezbędnej dla spełnienia tych wymagań, przykłady testów, a także informacje o jednostkach, w których mogą być odbywane staże.
+Staż adaptacyjny
 § 5.
 1.
 Staż może być odbywany u przedsiębiorców w rozumieniu art. 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2016 r. poz. 1829, 1948 i 1997), w jednostkach organizacyjnych niebędących przedsiębiorcami, których przedmiot działania obejmuje prowadzenie prac geologicznych, a także w urzędach obsługujących organy administracji geologicznej, zwanych dalej „jednostkami”.
@@ -152,6 +152,7 @@ Przy dokonywaniu oceny stażu uwzględnia się poprawność merytoryczną wykony
 Ocena stażu powinna zawierać uzasadnione stwierdzenie o nabyciu lub nienabyciu umiejętności do samodzielnego wykonywania zawodu regulowanego w dziedzinie geologii.
 § 13.
 Kierownik jednostki, w której odbywał się staż, przekazuje ocenę stażu wnioskodawcy oraz organowi prowadzącemu postępowanie, w terminie 7 dni od dnia jej sporządzenia.
+Test umiejętności
 § 14.
 1.
 Test przeprowadza komisja egzaminacyjna powołana przez organ prowadzący postępowanie, zgodnie z art. 63 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
@@ -212,17 +213,25 @@ Na uzasadniony wniosek wnioskodawcy następuje zwrot wniesionej opłaty z tytuł
 Rozpatrzenia zasadności wniosku dokonuje przewodniczący zespołu egzaminacyjnego, kierując się przepisami rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 15 maja 1996 r. w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy.
 3.
 Zwrot wniesionej opłaty następuje na rachunek bankowy wskazany we wniosku, w terminie 30 dni od dnia złożenia wniosku.
+Przepisy przejściowy i końcowy
 § 23.
 Do spraw wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 24.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095). 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 29 września 2008 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodów regulowanych w dziedzinie geologii (Dz. U. z 2014 r. poz. 417), które traci moc z dniem 31 grudnia 2016 r. na podstawie art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 29 września 2008 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodów regulowanych w dziedzinie geologii (Dz. U. z 2014 r. poz. 417), które traci moc z dniem 31 grudnia 2016 r. na podstawie art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65). 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095). 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 29 września 2008 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodów regulowanych w dziedzinie geologii (Dz. U. z 2014 r. poz. 417), które traci moc z dniem 31 grudnia 2016 r. na podstawie art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Staż adaptacyjny
+#### Rozdział 2 – Staż adaptacyjny
 
-#### Rozdział 3 Test umiejętności
+#### Rozdział 3 – Test umiejętności
+
+#### Rozdział 4 – Przepisy przejściowy i końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 
 ## Część pisemną testu opracowuje komisja egzaminacyjna zgodnie z zakresem określonym w postanowieniu, z uwzględnieniem:
 
@@ -234,5 +243,5 @@ Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
 
 ## Część ustna trwa nie dłużej niż 45 minut. Zaliczenie części ustnej następuje po udzieleniu prawidłowych, opisowych odpowiedzi na co najmniej dwa pytania.
 
-#### Rozdział 4 Przepisy przejściowy i końcowy
+#### Rozdział 4
 

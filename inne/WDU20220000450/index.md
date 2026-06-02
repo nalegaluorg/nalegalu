@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 22 lutego 2022 r. zmieniające rozporządzenie w sprawie pobierania odcisków linii papilarnych oraz wymazów ze śluzówki policzków od funkcjonariuszy i pracowników Policji
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 22 lutego 2022 r. zmieniające rozporządzenie w sprawie pobierania odcisków linii papilarnych oraz wymazów ze śluzówki policzków od funkcjonariuszy i pracowników Policji Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-02-22 |
 | Data wydania | 2022-02-24 |
-| Wejście w życie | 2022-02-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000450) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/450/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 20 ust. 1m ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. 
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 24 lipca 2020 r. w sprawie pobierania odcisków linii papilarnych oraz wymazów ze śluzówki policzków od funkcjonariuszy i pracowników Policji (Dz. U. poz. 1347) wprowadza się następujące zmiany:
 1)
-w § 2 pkt 2 otrzymuje brzmienie:
-„
+w § 2 pkt 2 otrzymuje brzmienie: „
 2)
 kierownik jednostki organizacyjnej Policji:
 a)
@@ -50,17 +48,13 @@ Dyrektora CLKP – w przypadku funkcjonariuszy lub pracowników pełniących sł
 g)
 komendanta powiatowego (miejskiego, rejonowego) Policji – w przypadku funkcjonariuszy lub pracowników pełniących służbę lub zatrudnionych w komendzie powiatowej (miejskiej, rejonowej) Policji,
 h)
-komendanta komisariatu (komisariatu specjalistycznego) Policji – w przypadku funkcjonariuszy lub pracowników pełniących służbę lub zatrudnionych w komisariacie (komisariacie specjalistycznym) Policji;
-” ;
+komendanta komisariatu (komisariatu specjalistycznego) Policji – w przypadku funkcjonariuszy lub pracowników pełniących służbę lub zatrudnionych w komisariacie (komisariacie specjalistycznym) Policji; ” ;
 2)
 w § 3 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Na wniosek Komendanta Centralnego Biura Śledczego Policji, Komendanta Biura Spraw Wewnętrznych Policji lub Komendanta Centralnego Biura Zwalczania Cyberprzestępczości Komendant Główny Policji może: ” ;
 3)
-w § 7 w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
-„
+w § 7 w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
 4)
-zwalczania cyberprzestępczości.
-” .
+zwalczania cyberprzestępczości. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

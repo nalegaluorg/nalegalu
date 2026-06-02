@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-09-04 |
 | Data wydania | 2008-10-28 |
-| Wejście w życie | 2009-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081921178) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1178/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 1 grudnia 1961 r. o izbach morskich (Dz. U. Nr 58, poz. 320, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 1 grudnia 1961 r. o izbach morskich (Dz. U. Nr 58, poz. 320, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1975 r. Nr 16, poz. 91, z 1989 r. Nr 33, poz. 175 i Nr 35, poz. 192, z 2000 r. Nr 120, poz. 1268, z 2004 r. Nr 62, poz. 575 oraz z 2007 r. Nr 176, poz. 1238.) wprowadza się następujące zmiany:
 
 - **1)** art. 7 otrzymuje brzmienie: „
 
@@ -34,7 +33,7 @@ source: "eli-html"
 
 - **1)** sędziowie, w tym przewodniczący i jeden lub więcej wiceprzewodniczących,
 - **2)** ławnicy. ” ;
-- **2)** po art. 7 dodaje się art. 7a w brzmieniu: „ Do orzekania w sprawach należących do właściwości izb morskich Minister Sprawiedliwości deleguje sędziów na podstawie art. 77 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.) spośród sędziów sądów powszechnych posiadających znajomość zagadnień morskich w zakresie spraw należących do właściwości izb morskich. ” ;
+- **2)** po art. 7 dodaje się art. 7a w brzmieniu: „ Do orzekania w sprawach należących do właściwości izb morskich Minister Sprawiedliwości deleguje sędziów na podstawie art. 77 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698.) spośród sędziów sądów powszechnych posiadających znajomość zagadnień morskich w zakresie spraw należących do właściwości izb morskich. ” ;
 - **3)** art. 8 otrzymuje brzmienie: „
 
 **Art. 8.**
@@ -49,7 +48,7 @@ source: "eli-html"
 
 1. Sędziowie sądów powszechnych orzekający w izbach morskich zachowują prawa i obowiązki przewidziane w przepisach dotyczących sędziów sądów powszechnych.
 
-2. Do pracowników izb morskich mają odpowiednie zastosowanie przepisy ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. Nr 162, poz. 1125, z późn. zm.). ” ;
+2. Do pracowników izb morskich mają odpowiednie zastosowanie przepisy ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. Nr 162, poz. 1125, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 98, poz. 1070, z 2003 r. Nr 228, poz. 2256, z 2005 r. Nr 10, poz. 71 oraz z 2007 r. Nr 64, poz. 432 i 433, Nr 102, poz. 690 i Nr 136, poz. 959.). ” ;
 
 - **5)** art. 11 otrzymuje brzmienie: „
 
@@ -81,7 +80,7 @@ source: "eli-html"
 - **3)** podstawowe zadania referentów, kierownika sekretariatu i sekretarza izby,
 - **4)** szczegółowy sposób prowadzenia i protokołowania rozpraw,
 - **5)** tryb występowania o pomoc prawną i komunikowania się z innymi organami,
-- **6)** organizację pracy izby mając na uwadze zapewnienie skuteczności i sprawności prowadzonych przed izbami morskimi postępowań. ” ;
+- **6)** organizację pracy izby – mając na uwadze zapewnienie skuteczności i sprawności prowadzonych przed izbami morskimi postępowań. ” ;
 - **8)** art. 24 otrzymuje brzmienie: „
 
 **Art. 24.** Zainteresowanym w sprawie jest każdy, czyjego interesu prawnego dotyczy wypadek morski. ” ;
@@ -148,5 +147,5 @@ source: "eli-html"
 
 **Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 11 ust. 2 oraz art. 17 ust. 4 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 11 ust. 2 oraz art. 17 ust. 4 tej ustawy, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1975 r. Nr 16, poz. 91, z 1989 r. Nr 33, poz. 175 i Nr 35, poz. 192, z 2000 r. Nr 120, poz. 1268, z 2004 r. Nr 62, poz. 575 oraz z 2007 r. Nr 176, poz. 1238. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 98, poz. 1070, z 2003 r. Nr 228, poz. 2256, z 2005 r. Nr 10, poz. 71 oraz z 2007 r. Nr 64, poz. 432 i 433, Nr 102, poz. 690 i Nr 136, poz. 959.
 

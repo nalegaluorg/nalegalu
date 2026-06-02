@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 12 czerwca 2024 r. w sprawie udzielania pomocy na zieloną transformację miast w obszarze ochrony środowiska w ramach Krajowego Planu Odbudowy i Zwiększania Odporności
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 12 czerwca 2024 r. w sprawie udzielania pomocy na zieloną transformację miast w obszarze ochrony środowiska w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-12 |
 | Data wydania | 2024-06-19 |
-| Wejście w życie | 2024-06-20 |
 | Ostatnia zmiana | 2025-08-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000901) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/901/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Pomoc inwestycyjna na infrastrukturę ładowania lub tankowania Rozdział 3 – Pomoc inwestycyjna na zakup pojazdów ekologicznie czystych lub pojazdów bezemisyjnych oraz na doposażenie pojazdów Rozdział 4 – Pomoc inwestycyjna na środki wspierające efektywność energetyczną inną niż w budynkach Rozdział 5 – Pomoc inwestycyjna na środki wspierające efektywność energetyczną w budynkach Rozdział 6 – Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych, propagowanie wodoru odnawialnego i wysokosprawnej kogeneracji Rozdział 7 – Pomoc inwestycyjna na remediację szkód wyrządzonych środowisku, rekultywację siedlisk przyrodniczych i ekosystemów, ochronę lub odbudowę bioróżnorodności i wdrażanie rozwiązań opartych na zasobach przyrody w celu łagodzenia zmiany klimatu i przystosowywania się do niej Rozdział 8 – Pomoc inwestycyjna na system ciepłowniczy i chłodniczy Rozdział 9 – Pomoc na badania i usługi doradcze dotyczące ochrony środowiska i kwestii energetycznych Rozdział 10 – Tryb udzielania pomocy Rozdział 11 – Przepisy końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r. poz. 324 i 862) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom, w ramach inwestycji B3.4.1. „Inwestycje na rzecz zielonej transformacji miast” wskazanej w komponencie B „Zielona energia i zmniejszenie energochłonności” w ramach Krajowego Planu Odbudowy i Zwiększania Odporności, następujących rodzajów pomocy:
 1)
@@ -46,8 +46,7 @@ pomocy inwestycyjnej na remediację szkód wyrządzonych środowisku, rekultywac
 7)
 pomocy inwestycyjnej na system ciepłowniczy i chłodniczy,
 8)
-pomocy na badania i usługi doradcze dotyczące ochrony środowiska i kwestii energetycznych
-zwanych dalej „pomocą”, do których mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”, a także podmiot udzielający tej pomocy.
+pomocy na badania i usługi doradcze dotyczące ochrony środowiska i kwestii energetycznych – zwanych dalej „pomocą”, do których mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1., zwanego dalej „rozporządzeniem nr 651/2014”, a także podmiot udzielający tej pomocy.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -131,7 +130,7 @@ zgodnie z art. 5 ust. 1 rozporządzenia nr 651/2014;
 2)
 w formie pożyczek, o których mowa w art. 5 ust. 2 lit. b rozporządzenia nr 651/2014, udzielanych z uwzględnieniem warunku, o którym mowa w tym przepisie.
 § 5.
-Pomoc ma na celu wsparcie odbudowy i zwiększenie odporności kraju przez wspieranie przedsięwzięć w ramach inwestycji, o której mowa w § 1, w obszarze zielonej transformacji, o którym mowa w art. 3 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającego Instrument na rzecz Odbudowy i Zwiększania Odporności (Dz. Urz. UE L 57 z 18.02.2021, str. 17, z późn. zm.), i jest udzielana na:
+Pomoc ma na celu wsparcie odbudowy i zwiększenie odporności kraju przez wspieranie przedsięwzięć w ramach inwestycji, o której mowa w § 1, w obszarze zielonej transformacji, o którym mowa w art. 3 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającego Instrument na rzecz Odbudowy i Zwiększania Odporności (Dz. Urz. UE L 57 z 18.02.2021, str. 17, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 410 z 18.11.2021, str. 197, Dz. Urz. UE L 63 z 28.02.2023, str. 1, Dz. Urz. UE L 100 z 13.04.2023, str. 102, Dz. Urz. UE L 137 z 25.05.2023, str. 71 oraz Dz. Urz. UE L 2024/795 z 29.02.2024., i jest udzielana na:
 1)
 inwestycje w infrastrukturę ładowania lub tankowania, zgodnie z art. 36a rozporządzenia nr 651/2014;
 2)
@@ -149,8 +148,7 @@ inwestycje w:
 a)
 efektywny energetycznie system ciepłowniczy i chłodniczy,
 b)
-system ciepłowniczy i chłodniczy, który stanie się efektywny energetycznie
-zgodnie z art. 46 rozporządzenia nr 651/2014;
+system ciepłowniczy i chłodniczy, który stanie się efektywny energetycznie – zgodnie z art. 46 rozporządzenia nr 651/2014;
 8)
 badania i usługi doradcze dotyczące ochrony środowiska i kwestii energetycznych bezpośrednio związane z inwestycjami, o których mowa w pkt 1–7, zgodnie z art. 49 rozporządzenia nr 651/2014.
 § 6.
@@ -174,8 +172,8 @@ pkt 6, w przypadku, o którym mowa w art. 4 ust. 1 lit. s rozporządzenia nr 651
 7)
 pkt 7, w przypadku, o którym mowa w art. 4 ust. 1 lit. w rozporządzenia nr 651/2014,
 8)
-pkt 8, w przypadku, o którym mowa w art. 4 ust. 1 lit. s rozporządzenia nr 651/2014
-stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielona po jej zatwierdzeniu przez Komisję Europejską.
+pkt 8, w przypadku, o którym mowa w art. 4 ust. 1 lit. s rozporządzenia nr 651/2014 – stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielona po jej zatwierdzeniu przez Komisję Europejską.
+Pomoc inwestycyjna na infrastrukturę ładowania lub tankowania
 § 9.
 1.
 Pomoc inwestycyjna na infrastrukturę ładowania lub tankowania jest udzielana na infrastrukturę ładowania lub infrastrukturę tankowania, które dostarczają pojazdom, ruchomemu wyposażeniu terminalowemu lub ruchomemu wyposażeniu do obsługi naziemnej energię elektryczną lub wodór.
@@ -217,6 +215,7 @@ Pomoc inwestycyjna na infrastrukturę ładowania lub tankowania jest udzielana, 
 W przypadku, o którym mowa w art. 36a ust. 10 zdanie pierwsze rozporządzenia nr 651/2014, konieczność udzielenia pomocy, o której mowa w § 1 pkt 1, jest ustalana w sposób określony w art. 36a ust. 10 zdanie pierwsze i drugie, z zastrzeżeniem art. 36a ust. 10 zdanie trzecie i ust. 11 rozporządzenia nr 651/2014.
 3.
 W razie przekroczenia procentowego udziału pojazdów napędzanych wyłącznie energią elektryczną w przypadku infrastruktury ładowania lub pojazdów napędzanych przynajmniej częściowo wodorem w przypadku infrastruktury tankowania, o którym mowa w art. 36a ust. 11 zdanie pierwsze rozporządzenia nr 651/2014, w całkowitej liczbie pojazdów tej samej kategorii zarejestrowanych w Rzeczypospolitej Polskiej instytucja odpowiedzialna za realizację inwestycji weryfikuje konieczność udzielenia pomocy, o której mowa w § 1 pkt 1, w drodze otwartych konsultacji społecznych lub niezależnego badania rynku, o których mowa w art. 36a ust. 10 zdanie pierwsze rozporządzenia nr 651/2014, i przekazuje uzyskaną w ten sposób informację podmiotowi udzielającemu pomocy.
+Pomoc inwestycyjna na zakup pojazdów ekologicznie czystych lub pojazdów bezemisyjnych oraz na doposażenie pojazdów
 § 15.
 1.
 Pomoc inwestycyjna na zakup pojazdów ekologicznie czystych lub pojazdów bezemisyjnych oraz na doposażenie pojazdów jest udzielana na:
@@ -249,6 +248,7 @@ Maksymalną intensywność pomocy inwestycyjnej na zakup pojazdów ekologicznie 
 określa się zgodnie z art. 36b ust. 7 zdanie drugie rozporządzenia nr 651/2014;
 2)
 można zwiększyć zgodnie z art. 36b ust. 7 zdanie trzecie rozporządzenia nr 651/2014.
+Pomoc inwestycyjna na środki wspierające efektywność energetyczną inną niż w budynkach
 § 19.
 Pomoc inwestycyjna na środki wspierające efektywność energetyczną inną niż w budynkach jest udzielana na warunkach, o których mowa w art. 38 ust. 2 zdanie drugie rozporządzenia nr 651/2014.
 § 20.
@@ -268,6 +268,7 @@ Maksymalną intensywność pomocy inwestycyjnej na środki wspierające efektywn
 Maksymalną intensywność pomocy inwestycyjnej na środki wspierające efektywność energetyczną inną niż w budynkach można określić również zgodnie z art. 38 ust. 7 rozporządzenia nr 651/2014.
 5.
 Maksymalną intensywność pomocy inwestycyjnej na środki wspierające efektywność energetyczną inną niż w budynkach określoną zgodnie z ust. 1–3 pomniejsza się o 50 % w przypadku kosztów kwalifikowalnych, o których mowa w art. 38 ust. 8 rozporządzenia nr 651/2014.
+Pomoc inwestycyjna na środki wspierające efektywność energetyczną w budynkach
 § 22.
 1.
 Pomoc inwestycyjna na środki wspierające efektywność energetyczną w budynkach jest udzielana na warunkach, o których mowa w art. 38a ust. 6 rozporządzenia nr 651/2014.
@@ -288,6 +289,7 @@ Maksymalną intensywność pomocy inwestycyjnej na środki wspierające efektywn
 15 punktów procentowych – w przypadku gdy przedsięwzięcie jest realizowane na obszarach należących do województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego lub zachodniopomorskiego lub regionu mazowieckiego regionalnego.
 4.
 Maksymalną intensywność pomocy inwestycyjnej na środki wspierające efektywność energetyczną w budynkach można zwiększyć również w przypadkach, o których mowa w art. 38a ust. 16 rozporządzenia nr 651/2014.
+Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych, propagowanie wodoru odnawialnego i wysokosprawnej kogeneracji
 § 25.
 1.
 Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych, propagowanie wodoru odnawialnego i wysokosprawnej kogeneracji, z wyjątkiem energii elektrycznej produkowanej z wodoru odnawialnego, jest udzielana na przedsięwzięcia w zakresie:
@@ -312,6 +314,7 @@ Maksymalną intensywność pomocy inwestycyjnej na propagowanie energii ze źró
 Maksymalną intensywność pomocy inwestycyjnej na propagowanie energii ze źródeł odnawialnych, propagowanie wodoru odnawialnego i wysokosprawnej kogeneracji można zwiększyć w przypadkach, o których mowa w art. 41 ust. 8 rozporządzenia nr 651/2014.
 3.
 Maksymalną intensywność pomocy inwestycyjnej na propagowanie energii ze źródeł odnawialnych, propagowanie wodoru odnawialnego i wysokosprawnej kogeneracji można określić zgodnie z art. 41 ust. 10 rozporządzenia nr 651/2014.
+Pomoc inwestycyjna na remediację szkód wyrządzonych środowisku, rekultywację siedlisk przyrodniczych i ekosystemów, ochronę lub odbudowę bioróżnorodności i wdrażanie rozwiązań opartych na zasobach przyrody w celu łagodzenia zmiany klimatu i przystosowywania się do niej
 § 28.
 Pomoc inwestycyjna jest udzielana na przedsięwzięcia w zakresie:
 1)
@@ -338,6 +341,7 @@ a)
 określa się zgodnie z art. 45 ust. 9 lit. b rozporządzenia nr 651/2014,
 b)
 można zwiększyć zgodnie z art. 45 ust. 10 rozporządzenia nr 651/2014.
+Pomoc inwestycyjna na system ciepłowniczy i chłodniczy
 § 31.
 Pomoc inwestycyjna na system ciepłowniczy i chłodniczy jest udzielana na budowę, rozbudowę lub modernizację efektywnego energetycznie systemu ciepłowniczego i chłodniczego, w tym budowę, rozbudowę lub modernizację instalacji wytwarzających energię cieplną lub chłodniczą, rozwiązań w zakresie magazynowania energii cieplnej lub sieci dystrybucji.
 § 32.
@@ -360,6 +364,7 @@ Maksymalną intensywność pomocy inwestycyjnej na system ciepłowniczy i chłod
 Maksymalną intensywność pomocy inwestycyjnej na system ciepłowniczy i chłodniczy można określić zgodnie z art. 46 ust. 9 zdanie pierwsze rozporządzenia nr 651/2014, jeżeli są spełnione warunki, o których mowa w art. 46 ust. 9 zdanie drugie i trzecie rozporządzenia nr 651/2014.
 4.
 Maksymalną wielkość pomocy inwestycyjnej na system ciepłowniczy i chłodniczy można określić również zgodnie z art. 46 ust. 9 zdanie czwarte rozporządzenia nr 651/2014, przy zastosowaniu procedury, o której mowa w art. 2 pkt 38 rozporządzenia nr 651/2014.
+Pomoc na badania i usługi doradcze dotyczące ochrony środowiska i kwestii energetycznych
 § 35.
 Pomoc na badania i usługi doradcze dotyczące ochrony środowiska i kwestii energetycznych jest udzielana na badania i usługi doradcze dotyczące ochrony środowiska i kwestii energetycznych bezpośrednio związane z inwestycjami, o których mowa w rozdziałach 2–8.
 § 36.
@@ -370,6 +375,7 @@ Maksymalną intensywność pomocy na badania i usługi doradcze dotyczące ochro
 określa się zgodnie z art. 49 ust. 3 rozporządzenia nr 651/2014;
 2)
 można zwiększyć zgodnie z art. 49 ust. 4 rozporządzenia nr 651/2014.
+Tryb udzielania pomocy
 § 38.
 1.
 Przedsiębiorca ubiegający się o pomoc składa wniosek o objęcie przedsięwzięcia wsparciem z Krajowego Planu Odbudowy i Zwiększania Odporności, zwany dalej „wnioskiem”, do Banku Gospodarstwa Krajowego.
@@ -380,8 +386,7 @@ W przypadku pomocy inwestycyjnej na:
 1)
 remediację szkód wyrządzonych środowisku oraz rekultywację siedlisk przyrodniczych i ekosystemów, jeżeli koszty remediacji szkód wyrządzonych środowisku lub rekultywacji siedlisk przyrodniczych i ekosystemów przekraczają wzrost wartości gruntu lub innej nieruchomości, o którym mowa w art. 45 ust. 6 rozporządzenia nr 651/2014, ocenionemu zgodnie z art. 45 ust. 7 tego rozporządzenia,
 2)
-ochronę lub odbudowę bioróżnorodności i wdrażanie rozwiązań opartych na zasobach przyrody w celu łagodzenia zmiany klimatu i przystosowywania się do niej
-pomoc może być również udzielona, jeżeli przedsiębiorca złożył wniosek po rozpoczęciu prac nad projektem lub rozpoczęciu działalności, o których mowa w art. 6 ust. 2 zdanie pierwsze rozporządzenia nr 651/2014.
+ochronę lub odbudowę bioróżnorodności i wdrażanie rozwiązań opartych na zasobach przyrody w celu łagodzenia zmiany klimatu i przystosowywania się do niej – pomoc może być również udzielona, jeżeli przedsiębiorca złożył wniosek po rozpoczęciu prac nad projektem lub rozpoczęciu działalności, o których mowa w art. 6 ust. 2 zdanie pierwsze rozporządzenia nr 651/2014.
 4.
 Wniosek zawiera:
 1)
@@ -392,6 +397,7 @@ inne informacje, wskazane przez Bank Gospodarstwa Krajowego, niezbędne do dokon
 Do wniosku przedsiębiorca załącza dokumenty przygotowane zgodnie z przepisami wydanymi na podstawie art. 37 ust. 6 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702).
 6.
 Po przeprowadzeniu oceny wniosku pomoc może być udzielona przedsiębiorcy na podstawie umowy o objęciu przedsięwzięcia wsparciem zwrotnym z Krajowego Planu Odbudowy i Zwiększania Odporności.
+Przepisy końcowe
 § 39.
 Pomoc jest udzielana do dnia 30 czerwca 2026 r.
 § 40.
@@ -404,28 +410,49 @@ Wnioski, o których mowa w ust. 2, wymagające uzupełnienia lub poprawienia w z
 § 41.
 Traci moc rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 7 października 2022 r. w sprawie udzielania pomocy na zieloną transformację miast w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 2187).
 § 42.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 410 z 18.11.2021, str. 197, Dz. Urz. UE L 63 z 28.02.2023, str. 1, Dz. Urz. UE L 100 z 13.04.2023, str. 102, Dz. Urz. UE L 137 z 25.05.2023, str. 71 oraz Dz. Urz. UE L 2024/795 z 29.02.2024.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 410 z 18.11.2021, str. 197, Dz. Urz. UE L 63 z 28.02.2023, str. 1, Dz. Urz. UE L 100 z 13.04.2023, str. 102, Dz. Urz. UE L 137 z 25.05.2023, str. 71 oraz Dz. Urz. UE L 2024/795 z 29.02.2024.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Pomoc inwestycyjna na infrastrukturę ładowania lub tankowania
+#### Rozdział 2 – Pomoc inwestycyjna na infrastrukturę ładowania lub tankowania
 
-#### Rozdział 3 Pomoc inwestycyjna na zakup pojazdów ekologicznie czystych lub pojazdów bezemisyjnych oraz na doposażenie pojazdów
+#### Rozdział 3 – Pomoc inwestycyjna na zakup pojazdów ekologicznie czystych lub pojazdów bezemisyjnych oraz na doposażenie pojazdów
 
-#### Rozdział 4 Pomoc inwestycyjna na środki wspierające efektywność energetyczną inną niż w budynkach
+#### Rozdział 4 – Pomoc inwestycyjna na środki wspierające efektywność energetyczną inną niż w budynkach
 
-#### Rozdział 5 Pomoc inwestycyjna na środki wspierające efektywność energetyczną w budynkach
+#### Rozdział 5 – Pomoc inwestycyjna na środki wspierające efektywność energetyczną w budynkach
 
-#### Rozdział 6 Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych, propagowanie wodoru odnawialnego i wysokosprawnej kogeneracji
+#### Rozdział 6 – Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych, propagowanie wodoru odnawialnego i wysokosprawnej kogeneracji
 
-#### Rozdział 7 Pomoc inwestycyjna na remediację szkód wyrządzonych środowisku, rekultywację siedlisk przyrodniczych i ekosystemów, ochronę lub odbudowę bioróżnorodności i wdrażanie rozwiązań opartych na zasobach przyrody w celu łagodzenia zmiany klimatu i przystosowywania się do niej
+#### Rozdział 7 – Pomoc inwestycyjna na remediację szkód wyrządzonych środowisku, rekultywację siedlisk przyrodniczych i ekosystemów, ochronę lub odbudowę bioróżnorodności i wdrażanie rozwiązań opartych na zasobach przyrody w celu łagodzenia zmiany klimatu i przystosowywania się do niej
 
-#### Rozdział 8 Pomoc inwestycyjna na system ciepłowniczy i chłodniczy
+#### Rozdział 8 – Pomoc inwestycyjna na system ciepłowniczy i chłodniczy
 
-#### Rozdział 9 Pomoc na badania i usługi doradcze dotyczące ochrony środowiska i kwestii energetycznych
+#### Rozdział 9 – Pomoc na badania i usługi doradcze dotyczące ochrony środowiska i kwestii energetycznych
 
-#### Rozdział 10 Tryb udzielania pomocy
+#### Rozdział 10 – Tryb udzielania pomocy
 
-#### Rozdział 11 Przepisy końcowe
+#### Rozdział 11 – Przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
+
+#### Rozdział 11
 

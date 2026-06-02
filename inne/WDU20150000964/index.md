@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-01 |
 | Data wydania | 2015-07-09 |
-| Wejście w życie | 2015-07-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000964) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/964/text.pdf) |
 
@@ -34,12 +33,26 @@ W rozporządzeniu Ministra Środowiska z dnia 20 grudnia 2011 r. w sprawie szcze
 w § 1:
 a)
 w ust. 2:
-– pkt 3 otrzymuje brzmienie: „ 3) opis budowy geologicznej i warunków hydrogeologicznych w rejonie zamierzonych robót geologicznych, wraz z przewidywanymi profilami geologicznymi projektowanych otworów wiertniczych lub wyrobisk; ” ,
-– w pkt 4: – – lit. a i b otrzymują brzmienie: „ a) opis i uzasadnienie liczby, lokalizacji i rodzaju projektowanych otworów wiertniczych lub wyrobisk, b) przewidywaną konstrukcję projektowanych otworów wiertniczych lub wyrobisk, ” , – – lit. f otrzymuje brzmienie: „ f) opis opróbowania otworów wiertniczych lub wyrobisk, w tym sposób pobierania próbek geologicznych, zakres, ilość i wielkość przewidywanych do pobrania próbek geologicznych, ” , – – lit. i otrzymuje brzmienie: „ i) opis i uzasadnienie zakresu badań laboratoryjnych, ze szczególnym uwzględnieniem badań powodujących całkowite zniszczenie próbek geologicznych oraz badań geomechanicznych powodujących naruszenie integralności calizny rdzenia wiertniczego, ” ,
-– w pkt 5 lit. a otrzymuje brzmienie: „ a) zakresu przekazania próbek geologicznych podlegających obowiązkowemu przekazaniu państwowej służbie geologicznej, wraz z wykazem przewidywanych ilości, wielkości i rodzaju próbek przewidzianych do badań powodujących całkowite zniszczenie próbek geologicznych oraz badań geomechanicznych powodujących naruszenie integralności calizny rdzenia wiertniczego, ” ,
+pkt 3 otrzymuje brzmienie: „
+3)
+opis budowy geologicznej i warunków hydrogeologicznych w rejonie zamierzonych robót geologicznych, wraz z przewidywanymi profilami geologicznymi projektowanych otworów wiertniczych lub wyrobisk; ” ,
+w pkt 4:
+– lit. a i b otrzymują brzmienie: „
+a)
+opis i uzasadnienie liczby, lokalizacji i rodzaju projektowanych otworów wiertniczych lub wyrobisk,
 b)
-ust. 3 i 4 otrzymują brzmienie:
-„
+przewidywaną konstrukcję projektowanych otworów wiertniczych lub wyrobisk, ” ,
+– lit. f otrzymuje brzmienie: „
+f)
+opis opróbowania otworów wiertniczych lub wyrobisk, w tym sposób pobierania próbek geologicznych, zakres, ilość i wielkość przewidywanych do pobrania próbek geologicznych, ” ,
+– lit. i otrzymuje brzmienie: „
+i)
+opis i uzasadnienie zakresu badań laboratoryjnych, ze szczególnym uwzględnieniem badań powodujących całkowite zniszczenie próbek geologicznych oraz badań geomechanicznych powodujących naruszenie integralności calizny rdzenia wiertniczego, ” ,
+w pkt 5 lit. a otrzymuje brzmienie: „
+a)
+zakresu przekazania próbek geologicznych podlegających obowiązkowemu przekazaniu państwowej służbie geologicznej, wraz z wykazem przewidywanych ilości, wielkości i rodzaju próbek przewidzianych do badań powodujących całkowite zniszczenie próbek geologicznych oraz badań geomechanicznych powodujących naruszenie integralności calizny rdzenia wiertniczego, ” ,
+b)
+ust. 3 i 4 otrzymują brzmienie: „
 3.
 1)
 mapę topograficzną w skali nie mniejszej niż 1:100 000 dla obszarów lądowych lub mapę morską nawigacyjną w skali nie mniejszej niż 1:500 000 dla obszarów morskich Rzeczypospolitej Polskiej, z zaznaczeniem obszaru lub miejsc zamierzonych robót geologicznych i usytuowania ich w stosunku do granic miejscowości będącej siedzibą gminy lub punktów osnowy geodezyjnej, a w zależności od celu tych robót – mapę geologiczną, hydrogeologiczną, geologiczno-inżynierską, geofizyczną oraz przekrój geologiczny, jeżeli takie dokumenty już zostały sporządzone;
@@ -54,28 +67,21 @@ przekrojach geologicznych;
 3)
 przewidywane profile geologiczne i techniczne (konstrukcja otworu) projektowanych otworów wiertniczych lub wyrobisk, wraz ze wskazaniem przewidywanej lokalizacji miejsc opróbowania.
 4.
-Na mapach, o których mowa w ust. 3 pkt 2 lit. a, zaznacza się obiekty ograniczające wykonywanie robót geologicznych.
-” ;
+Na mapach, o których mowa w ust. 3 pkt 2 lit. a, zaznacza się obiekty ograniczające wykonywanie robót geologicznych. ” ;
 2)
-§ 2 otrzymuje brzmienie:
-„
+§ 2 otrzymuje brzmienie: „
 § 2.
-Mapy do projektu opracowuje się na podkładzie map topograficznych dla obszarów lądowych pozyskanych z państwowego zasobu geodezyjnego i kartograficznego oraz na podstawie map morskich dla obszarów morskich Rzeczypospolitej Polskiej wykonanych w szczególności przez Biuro Hydrograficzne Marynarki Wojennej i urzędy morskie.
-” ;
+Mapy do projektu opracowuje się na podkładzie map topograficznych dla obszarów lądowych pozyskanych z państwowego zasobu geodezyjnego i kartograficznego oraz na podstawie map morskich dla obszarów morskich Rzeczypospolitej Polskiej wykonanych w szczególności przez Biuro Hydrograficzne Marynarki Wojennej i urzędy morskie. ” ;
 3)
-w § 3 ust. 2 i 3 otrzymują brzmienie:
-„
+w § 3 ust. 2 i 3 otrzymują brzmienie: „
 2.
 Przed podjęciem kolejnego etapu robót geologicznych należy sporządzić dodatek do projektu robót geologicznych przewidzianych dla tego etapu.
 3.
-Dodatek, o którym mowa w ust. 2, zawiera podsumowanie wyników robót geologicznych uzyskanych w poprzednim etapie oraz szczegółowe określenie rodzaju, zakresu i harmonogramu robót geologicznych, które mają być prowadzone w kolejnym etapie.
-” ;
+Dodatek, o którym mowa w ust. 2, zawiera podsumowanie wyników robót geologicznych uzyskanych w poprzednim etapie oraz szczegółowe określenie rodzaju, zakresu i harmonogramu robót geologicznych, które mają być prowadzone w kolejnym etapie. ” ;
 4)
-po § 3 dodaje się § 3a w brzmieniu:
-„
+po § 3 dodaje się § 3a w brzmieniu: „
 § 3a.
-Zmiana projektu robót geologicznych inna niż związana z podjęciem kolejnego etapu robót geologicznych, o którym mowa w § 3 ust. 2, wymaga sporządzenia dodatku do projektu robót geologicznych uwzględniającego jedynie projektowane zmiany.
-” .
+Zmiana projektu robót geologicznych inna niż związana z podjęciem kolejnego etapu robót geologicznych, o którym mowa w § 3 ust. 2, wymaga sporządzenia dodatku do projektu robót geologicznych uwzględniającego jedynie projektowane zmiany. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

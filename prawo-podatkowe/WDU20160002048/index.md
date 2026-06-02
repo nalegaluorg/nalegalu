@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-21 |
 | Data wydania | 2016-12-16 |
-| Wejście w życie | 2016-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002048) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2048/text.pdf) |
 
@@ -54,10 +53,10 @@ source: "eli-html"
 
 - **b)**
 
-7. Do należności, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm.):
+7. Do należności, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184 oraz z 2016 r. poz. 195, 615, 846, 1228, 1579, 1933, 1948 i 2024.):
 
 - **1)** z wyjątkiem przepisów dotyczących umarzania należności, odraczania płatności, rozkładania płatności na raty oraz zaokrąglania należności, z tym że termin, o którym mowa w art. 47 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, wynosi 60 dni;
-- **2)** przy czym bieg terminu przedawnienia tych należności ulega przerwaniu także wskutek doręczenia dłużnikowi upomnienia, o którym mowa w art. 15 § 1 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2016 r. poz. 599, z późn. zm.), w dniu doręczenia tego upomnienia; w takim przypadku bieg terminu przedawnienia biegnie na nowo od dnia następującego po dniu, w którym doręczono upomnienie. ” , ust. 10 otrzymuje brzmienie: „
+- **2)** przy czym bieg terminu przedawnienia tych należności ulega przerwaniu także wskutek doręczenia dłużnikowi upomnienia, o którym mowa w art. 15 § 1 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2016 r. poz. 599, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 868, 1228, 1244, 1579, 1860 i 1948.), w dniu doręczenia tego upomnienia; w takim przypadku bieg terminu przedawnienia biegnie na nowo od dnia następującego po dniu, w którym doręczono upomnienie. ” , ust. 10 otrzymuje brzmienie: „
     - **c)**
 
 10. Do egzekucji należności z tytułu nienależnie lub nadmiernie pobranych środków finansowych, o których mowa w ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym w administracji, z tym że uprawnienia wierzyciela określone w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji przysługują:
@@ -79,5 +78,5 @@ source: "eli-html"
 
 **Art. 3.** Do postępowań w sprawach wszczętych na podstawie przepisów ustawy zmienianej w art. 1 i niezakończonych do dnia wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184 oraz z 2016 r. poz. 195, 615, 846, 1228, 1579, 1933, 1948 i 2024. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 868, 1228, 1244, 1579, 1860 i 1948.
 

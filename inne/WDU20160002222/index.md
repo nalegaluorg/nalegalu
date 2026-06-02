@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 20 grudnia 2016 r. w sprawie stażu adaptacyjnego odbywanego w toku postępowania o uznawanie kwalifikacji do wykonywania zawodu aktuariusza oraz testu umiejętności przeprowadzanego w toku tego postępowania
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 20 grudnia 2016 r. w sprawie stażu adaptacyjnego odbywanego w toku postępowania o uznawanie kwalifikacji do wykonywania zawodu aktuariusza oraz testu umiejętności przeprowadzanego w toku tego postępowania Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,24 +22,24 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-20 |
 | Data wydania | 2016-12-29 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002222) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2222/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Staż adaptacyjny Rozdział 3 – Test umiejętności Rozdział 4 – Przepis przejściowy i końcowy
 Treść rozporządzenia
-Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22). Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
 warunki, sposób i tryb odbywania stażu adaptacyjnego, sposób i tryb wykonywania nadzoru nad jego odbywaniem oraz oceny nabytych w jego trakcie umiejętności, sposób ustalania kosztów odbywania stażu adaptacyjnego oraz tryb pobierania i zwrotu opłaty za jego odbywanie,
 2)
-warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za jego przeprowadzenie
-‒ w toku postępowania o uznanie nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) ‒ stronach umowy o Europejskim Obszarze Gospodarczym kwalifikacji do wykonywania zawodu aktuariusza w Rzeczypospolitej Polskiej.
+warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za jego przeprowadzenie ‒ w toku postępowania o uznanie nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) ‒ stronach umowy o Europejskim Obszarze Gospodarczym kwalifikacji do wykonywania zawodu aktuariusza w Rzeczypospolitej Polskiej.
 § 2.
 Wnioskodawca, po otrzymaniu postanowienia, o którym mowa w art. 20 ust. 1 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, zwanej dalej „ustawą”, przekazuje do Komisji Nadzoru Finansowego oświadczenie o wyborze odbycia stażu adaptacyjnego albo przystąpienia do testu umiejętności. Oświadczenie to zawiera wskazanie przedmiotu oświadczenia, adres do korespondencji i podpis wnioskodawcy.
 § 3.
 Wykaz zakładów ubezpieczeń i zakładów reasekuracji, w których może być odbywany staż adaptacyjny, oraz informacja o możliwości odbycia stażu adaptacyjnego w innym podmiocie niż zakład ubezpieczeń lub zakład reasekuracji są publikowane w Biuletynie Informacji Publicznej na stronie podmiotowej Komisji Nadzoru Finansowego.
+Staż adaptacyjny
 § 4.
 Wnioskodawca odbywa staż adaptacyjny w:
 1)
@@ -120,6 +120,7 @@ przed dniem planowanego rozpoczęcia stażu adaptacyjnego złoży w postaci papi
 rozwiązanie umowy, w trakcie trwania stażu adaptacyjnego, nastąpiło z przyczyn leżących po stronie podmiotu, w którym staż adaptacyjny był odbywany.
 6.
 Wnioskodawcy może zostać zwrócona opłata z tytułu kosztów, o których mowa w ust. 1, albo jej część, na rachunek bankowy wskazany przez wnioskodawcę, jeżeli nie kontynuuje w danym podmiocie odbywania stażu adaptacyjnego.
+Test umiejętności
 § 14.
 1.
 Test umiejętności opracowuje i przeprowadza Komisja Egzaminacyjna dla Aktuariuszy utworzona na podstawie art. 70 ust. 1 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, zwana dalej „Komisją”.
@@ -213,17 +214,25 @@ W przypadku zaliczenia testu umiejętności, wraz z zawiadomieniem, o którym mo
 Wnioskodawca, w terminie 14 dni od dnia zawiadomienia o wyniku przeprowadzonego testu umiejętności, może odwołać się do Komisji od wyników testu umiejętności.
 2.
 O sposobie rozstrzygnięcia odwołania Komisja powiadamia wnioskodawcę przesyłką poleconą.
+Przepis przejściowy i końcowy
 § 30.
 Do wniosków złożonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 31.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 30 marca 2010 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu aktuariusza (Dz. U. poz. 365), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 30 marca 2010 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu aktuariusza (Dz. U. poz. 365), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 30 marca 2010 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu aktuariusza (Dz. U. poz. 365), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Staż adaptacyjny
+#### Rozdział 2 – Staż adaptacyjny
 
-#### Rozdział 3 Test umiejętności
+#### Rozdział 3 – Test umiejętności
 
-#### Rozdział 4 Przepis przejściowy i końcowy
+#### Rozdział 4 – Przepis przejściowy i końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

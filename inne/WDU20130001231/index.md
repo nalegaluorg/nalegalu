@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 27 września 2013 r. o zmianie ustawy o podatku akcyzowym
+# Ustawa z dnia 27 września 2013 r. o zmianie ustawy o podatku akcyzowym Niniejsza ustawa dokonuje wdrożenia art. 21 ust. 5 dyrektywy Rady 2003/96/WE z dnia 27 października 2003 r. w sprawie restrukturyzacji wspólnotowych przepisów ramowych dotyczących opodatkowania produktów energetycznych i energii elektrycznej (Dz. Urz. UE L 283 z 31.10.2003, str. 51, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, str. 405, z późn. zm.) w zakresie gazu ziemnego.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-09-27 |
 | Data wydania | 2013-10-22 |
-| Wejście w życie | 2013-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001231) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1231/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2011 r. Nr 108, poz. 626, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2011 r. Nr 108, poz. 626, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 120, poz. 690, Nr 171, poz. 1016, Nr 205, poz. 1208, Nr 232, poz. 1378 i Nr 291, poz. 1707, z 2012 r. poz. 1342 i 1456 oraz z 2013 r. poz. 939.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w ust. 1: po pkt 1a dodaje się pkt 1b w brzmieniu: „
     - **a)**
@@ -34,12 +33,12 @@ source: "eli-html"
 - **1b)** wyroby gazowe – wyroby energetyczne o kodach CN 2705 00 00, 2711 11 00, 2711 21 00, 2711 29 00 i pozostałe paliwa opałowe, o których mowa w art. 89 ust. 1 pkt 15 lit. b, z wyłączeniem wyrobów energetycznych o kodzie CN 2901 10 00; ” , po pkt 19 dodaje się pkt 19a w brzmieniu: „
     - **b)**
 
-- **19a)** finalny nabywca gazowy – podmiot, który: nabywa na terytorium kraju, importuje lub nabywa wewnątrzwspólnotowo wyroby gazowe, lub posiada uzyskane w sposób inny niż w drodze nabycia wyroby gazowe niebędący pośredniczącym podmiotem gazowym; ” , po pkt 23c dodaje się pkt 23d w brzmieniu: „
+- **19a)** finalny nabywca gazowy – podmiot, który: nabywa na terytorium kraju, importuje lub nabywa wewnątrzwspólnotowo wyroby gazowe, lub posiada uzyskane w sposób inny niż w drodze nabycia wyroby gazowe – niebędący pośredniczącym podmiotem gazowym; ” , po pkt 23c dodaje się pkt 23d w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
 
-- **23d)** pośredniczący podmiot gazowy – podmiot mający siedzibę lub miejsce zamieszkania na terytorium kraju lub posiadający koncesję na obrót gazem ziemnym na terytorium kraju: dokonujący sprzedaży, dostawy wewnątrzwspólnotowej, nabycia wewnątrzwspólnotowego, importu lub eksportu wyrobów gazowych, lub używający wyrobów gazowych do celów objętych zwolnieniem od akcyzy i do celów nieobjętych zwolnieniem od akcyzy, lub używający wyrobów gazowych do celów objętych zwolnieniem od akcyzy i do celów objętych zerową stawką akcyzy, lub będący spółką prowadzącą giełdę towarową w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych, nabywającą wyroby gazowe z tytułu pełnienia funkcji opisanej w art. 5 ust. 3a ustawy z dnia 26 października 2000 r. o giełdach towarowych, lub będący towarowym domem maklerskim lub domem maklerskim w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych, nabywającym wyroby gazowe z tytułu pełnienia funkcji opisanej w art. 9 ust. 2 ustawy z dnia 26 października 2000 r. o giełdach towarowych lub nabywającym wyroby gazowe na rachunek dającego zlecenie na rynku regulowanym w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, lub będący giełdową izbą rozrachunkową, Krajowym Depozytem Papierów Wartościowych S.A. lub spółką, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, nabywającymi wyroby gazowe z tytułu pełnienia funkcji opisanej w art. 9 ust. 2 ustawy z dnia 26 października 2000 r. o giełdach towarowych, lub będący spółką prowadzącą jednocześnie izbę rozliczeniową i izbę rozrachunkową w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, nabywającą wyroby gazowe z tytułu pełnienia funkcji, o której mowa w art. 68a ust. 14 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, lub w celu rozliczenia i rozrachunku transakcji zawieranych na rynku regulowanym który pisemnie powiadomił właściwego naczelnika urzędu celnego o tej działalności; ” , w pkt 32 kropkę zastępuje się średnikiem i dodaje się pkt 33 w brzmieniu: „
+- **23d)** pośredniczący podmiot gazowy – podmiot mający siedzibę lub miejsce zamieszkania na terytorium kraju lub posiadający koncesję na obrót gazem ziemnym na terytorium kraju: dokonujący sprzedaży, dostawy wewnątrzwspólnotowej, nabycia wewnątrzwspólnotowego, importu lub eksportu wyrobów gazowych, lub używający wyrobów gazowych do celów objętych zwolnieniem od akcyzy i do celów nieobjętych zwolnieniem od akcyzy, lub używający wyrobów gazowych do celów objętych zwolnieniem od akcyzy i do celów objętych zerową stawką akcyzy, lub będący spółką prowadzącą giełdę towarową w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych, nabywającą wyroby gazowe z tytułu pełnienia funkcji opisanej w art. 5 ust. 3a ustawy z dnia 26 października 2000 r. o giełdach towarowych, lub będący towarowym domem maklerskim lub domem maklerskim w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych, nabywającym wyroby gazowe z tytułu pełnienia funkcji opisanej w art. 9 ust. 2 ustawy z dnia 26 października 2000 r. o giełdach towarowych lub nabywającym wyroby gazowe na rachunek dającego zlecenie na rynku regulowanym w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, lub będący giełdową izbą rozrachunkową, Krajowym Depozytem Papierów Wartościowych S.A. lub spółką, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, nabywającymi wyroby gazowe z tytułu pełnienia funkcji opisanej w art. 9 ust. 2 ustawy z dnia 26 października 2000 r. o giełdach towarowych, lub będący spółką prowadzącą jednocześnie izbę rozliczeniową i izbę rozrachunkową w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, nabywającą wyroby gazowe z tytułu pełnienia funkcji, o której mowa w art. 68a ust. 14 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, lub w celu rozliczenia i rozrachunku transakcji zawieranych na rynku regulowanym – który pisemnie powiadomił właściwego naczelnika urzędu celnego o tej działalności; ” , w pkt 32 kropkę zastępuje się średnikiem i dodaje się pkt 33 w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
@@ -100,20 +99,20 @@ source: "eli-html"
 5. Podatnikiem w przypadku nabycia wewnątrzwspólnotowego:
 
 - **1)** energii elektrycznej przez nabywcę końcowego,
-- **2)** wyrobów gazowych przez finalnego nabywcę gazowego od podmiotu zagranicznego niemającego siedziby, miejsca zamieszkania lub stałego miejsca prowadzenia działalności na terytorium kraju jest podmiot reprezentujący wyznaczony przez podmiot zagraniczny.
+- **2)** wyrobów gazowych przez finalnego nabywcę gazowego – od podmiotu zagranicznego niemającego siedziby, miejsca zamieszkania lub stałego miejsca prowadzenia działalności na terytorium kraju jest podmiot reprezentujący wyznaczony przez podmiot zagraniczny.
 
 6. W przypadku:
 
 - **1)** niewyznaczenia podmiotu reprezentującego lub
 - **2)** odmowy przyjęcia zgłoszenia rejestracyjnego podmiotu reprezentującego przez właściwego naczelnika urzędu celnego, lub
-- **3)** nieprzesłania w terminie przez nabywcę końcowego podmiotowi reprezentującemu kopii faktury, o której mowa w art. 24 ust. 1 pkt 1 podatnikiem z tytułu nabycia wewnątrzwspólnotowego energii elektrycznej od podmiotu zagranicznego niemającego siedziby, miejsca zamieszkania lub stałego miejsca prowadzenia działalności na terytorium kraju jest nabywca końcowy, który dokonał nabycia wewnątrzwspólnotowego energii elektrycznej. ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
+- **3)** nieprzesłania w terminie przez nabywcę końcowego podmiotowi reprezentującemu kopii faktury, o której mowa w art. 24 ust. 1 pkt 1 – podatnikiem z tytułu nabycia wewnątrzwspólnotowego energii elektrycznej od podmiotu zagranicznego niemającego siedziby, miejsca zamieszkania lub stałego miejsca prowadzenia działalności na terytorium kraju jest nabywca końcowy, który dokonał nabycia wewnątrzwspólnotowego energii elektrycznej. ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
     - **c)**
 
 6a. W przypadku:
 
 - **1)** niewyznaczenia podmiotu reprezentującego lub
 - **2)** odmowy przyjęcia zgłoszenia rejestracyjnego podmiotu reprezentującego przez właściwego naczelnika urzędu celnego, lub
-- **3)** nieprzesłania w terminie przez finalnego nabywcę gazowego podmiotowi reprezentującemu kopii faktury, o której mowa w art. 24b ust. 1 pkt 1 podatnikiem z tytułu nabycia wewnątrzwspólnotowego wyrobów gazowych od podmiotu zagranicznego niemającego siedziby, miejsca zamieszkania lub stałego miejsca prowadzenia działalności na terytorium kraju jest finalny nabywca gazowy, który dokonał nabycia wewnątrzwspólnotowego wyrobów gazowych. ” ;
+- **3)** nieprzesłania w terminie przez finalnego nabywcę gazowego podmiotowi reprezentującemu kopii faktury, o której mowa w art. 24b ust. 1 pkt 1 – podatnikiem z tytułu nabycia wewnątrzwspólnotowego wyrobów gazowych od podmiotu zagranicznego niemającego siedziby, miejsca zamieszkania lub stałego miejsca prowadzenia działalności na terytorium kraju jest finalny nabywca gazowy, który dokonał nabycia wewnątrzwspólnotowego wyrobów gazowych. ” ;
 - **6)** w art. 16 ust. 3a-4a otrzymują brzmienie: „
 
 3a. Podmiot zamierzający prowadzić działalność gospodarczą jako pośredniczący podmiot węglowy, pośredniczący podmiot gazowy lub pośredniczący podmiot tytoniowy, zamiast złożenia zgłoszenia rejestracyjnego, o którym mowa w ust. 1, jest obowiązany powiadomić o tym pisemnie właściwego naczelnika urzędu celnego przed dniem rozpoczęcia tej działalności. Powiadomienie powinno zawierać dane dotyczące tego podmiotu i prowadzonej przez niego działalności gospodarczej, w szczególności imię i nazwisko lub nazwę podmiotu, adres jego siedziby lub zamieszkania, NIP lub REGON albo inny numer identyfikacyjny używany w państwie siedziby lub zamieszkania podmiotu oraz określenie rodzaju prowadzonej działalności gospodarczej.
@@ -172,7 +171,7 @@ source: "eli-html"
 
 3. Zwalnia się od akcyzy czynności podlegające opodatkowaniu, których przedmiotem są wyroby gazowe przeznaczone do:
 
-- **1)** napędu: statków powietrznych, w żegludze, włączając rejsy rybackie z wyłączeniem prywatnych rejsów i prywatnych lotów o charakterze rekreacyjnym, o których mowa w art. 32 ust. 2;
+- **1)** napędu: statków powietrznych, w żegludze, włączając rejsy rybackie – z wyłączeniem prywatnych rejsów i prywatnych lotów o charakterze rekreacyjnym, o których mowa w art. 32 ust. 2;
     - **a)**
     - **b)**
 
@@ -196,7 +195,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **3)** w przypadku sprzedaży wyrobów gazowych: o kodach CN 2705 00 00 i 2711 11 00, o kodzie CN 2711 21 00 w ilościach większych niż określone w pkt 1, o kodzie ex CN 2711 29 00 w ilościach większych niż określone w pkt 2 uzyskanie od nabywcy tych wyrobów oświadczenia, że nie używa tych wyrobów na inne potrzeby niż prowadzenie gospodarstwa domowego, w tym na potrzeby prowadzonej działalności gospodarczej, albo oświadczenia o ilości tych wyrobów używanych na inne potrzeby niż prowadzone gospodarstwo domowe, w tym na potrzeby prowadzonej działalności gospodarczej, określonej przez nabywcę proporcjonalnie do wykorzystanej na te potrzeby powierzchni nieruchomości z uwzględnieniem mocy urządzeń grzewczych.
+- **3)** w przypadku sprzedaży wyrobów gazowych: o kodach CN 2705 00 00 i 2711 11 00, o kodzie CN 2711 21 00 w ilościach większych niż określone w pkt 1, o kodzie ex CN 2711 29 00 w ilościach większych niż określone w pkt 2 – uzyskanie od nabywcy tych wyrobów oświadczenia, że nie używa tych wyrobów na inne potrzeby niż prowadzenie gospodarstwa domowego, w tym na potrzeby prowadzonej działalności gospodarczej, albo oświadczenia o ilości tych wyrobów używanych na inne potrzeby niż prowadzone gospodarstwo domowe, w tym na potrzeby prowadzonej działalności gospodarczej, określonej przez nabywcę proporcjonalnie do wykorzystanej na te potrzeby powierzchni nieruchomości z uwzględnieniem mocy urządzeń grzewczych.
     - **a)**
     - **b)**
     - **c)**
@@ -270,7 +269,7 @@ source: "eli-html"
 
 2. Pośredniczący podmiot gazowy używający wyrobów gazowych jest obowiązany prowadzić ewidencję wyrobów gazowych zawierającą następujące dane:
 
-- **1)** ilość wyrobów gazowych, odpowiednio do dokonanych czynności: użytych w ramach zwolnień, o których mowa w art. 31b ust. 1, 2 lub 3, lub użytych do celów nieobjętych zwolnieniem, lub wyprodukowanych, lub nabytych wewnątrzwspólnotowo, lub dostarczonych wewnątrzwspólnotowo, lub importowanych, lub eksportowanych, lub nabytych na terytorium kraju, lub sprzedanych na terytorium kraju w podziale na miesiące dokonania czynności, odpowiednio w kilogramach albo metrach sześciennych, według nazwy oraz kodów CN, oraz ich wartość opałową;
+- **1)** ilość wyrobów gazowych, odpowiednio do dokonanych czynności: użytych w ramach zwolnień, o których mowa w art. 31b ust. 1, 2 lub 3, lub użytych do celów nieobjętych zwolnieniem, lub wyprodukowanych, lub nabytych wewnątrzwspólnotowo, lub dostarczonych wewnątrzwspólnotowo, lub importowanych, lub eksportowanych, lub nabytych na terytorium kraju, lub sprzedanych na terytorium kraju – w podziale na miesiące dokonania czynności, odpowiednio w kilogramach albo metrach sześciennych, według nazwy oraz kodów CN, oraz ich wartość opałową;
     - **a)**
     - **b)**
     - **c)**
@@ -308,5 +307,5 @@ source: "eli-html"
 
 3. W przypadku, o którym mowa w ust. 1, podatnik jest obowiązany, bez wezwania organu podatkowego, złożyć właściwemu naczelnikowi urzędu celnego deklarację podatkową według ustalonego wzoru oraz obliczyć i wpłacić akcyzę na rachunek właściwej izby celnej w terminie do 25. dnia miesiąca następującego po miesiącu, w którym upłynął termin płatności wynikający z faktury zawierającej rozliczenie okresu po wejściu w życie niniejszej ustawy i objętego fakturą lub innym dokumentem, z którego wynika zapłata należności za sprzedane wyroby gazowe, o których mowa w ust. 1, a jeżeli z faktury tej nie wynika należność za wyroby gazowe sprzedane w tym okresie – w terminie do 25. dnia miesiąca następującego po miesiącu, w którym faktura ta została wystawiona, nie później jednak niż do dnia 31 października 2014 r.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem 1 listopada 2013 r., z wyjątkiem art. 1 pkt 1 lit. c i pkt 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie z dniem 1 listopada 2013 r., z wyjątkiem art. 1 pkt 1 lit. c i pkt 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa dokonuje wdrożenia art. 21 ust. 5 dyrektywy Rady 2003/96/WE z dnia 27 października 2003 r. w sprawie restrukturyzacji wspólnotowych przepisów ramowych dotyczących opodatkowania produktów energetycznych i energii elektrycznej (Dz. Urz. UE L 283 z 31.10.2003, str. 51, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, str. 405, z późn. zm.) w zakresie gazu ziemnego. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 120, poz. 690, Nr 171, poz. 1016, Nr 205, poz. 1208, Nr 232, poz. 1378 i Nr 291, poz. 1707, z 2012 r. poz. 1342 i 1456 oraz z 2013 r. poz. 939.
 

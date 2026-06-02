@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 29 marca 2022 r. zmieniające rozporządzenie w sprawie określenia okresów polowań na zwierzęta łowne
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 29 marca 2022 r. zmieniające rozporządzenie w sprawie określenia okresów polowań na zwierzęta łowne Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-29 |
 | Data wydania | 2022-03-31 |
-| Wejście w życie | 2022-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000714) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/714/text.pdf) |
 
@@ -33,14 +32,11 @@ W rozporządzeniu Ministra Środowiska z dnia 16 marca 2005 r. w sprawie określ
 1)
 uchyla się pkt 2;
 2)
-pkt 10 otrzymuje brzmienie:
-„
+pkt 10 otrzymuje brzmienie: „
 10)
-norki amerykańskie – przez cały rok;
-” ;
+norki amerykańskie – przez cały rok; ” ;
 3)
 uchyla się pkt 11.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 

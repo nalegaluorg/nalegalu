@@ -70,11 +70,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 14 stycznia 2015 r. w sprawie określenia wzorców dotyczących spółki z ograniczoną odpowiedzialnością udostępnionych w systemie teleinformatycznym (Dz. U. z 2017 r. poz. 1005), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 1 sierpnia 2018 r. zmieniającym rozporządzenie w sprawie określenia wzorców dotyczących spółki z ograniczoną odpowiedzialnością udostępnionych w systemie teleinformatycznym (Dz. U. poz. 1565).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 1 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie określenia wzorców dotyczących spółki z ograniczoną odpowiedzialnością udostępnionych w systemie teleinformatycznym (Dz. U. poz. 1565), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 1 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie określenia wzorców dotyczących spółki z ograniczoną odpowiedzialnością udostępnionych w systemie teleinformatycznym (Dz. U. poz. 1565), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 października 2018 r. ” .
 Załącznik – Tekst jednolity rozporządzenia Ministra Sprawiedliwości z dnia 14 stycznia 2015 r. w sprawie określenia wzorców dotyczących spółki z ograniczoną odpowiedzialnością udostępnionych w systemie teleinformatycznym
 Na podstawie art. 1571 § 5 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r. poz. 505) zarządza się, co następuje:
 § 1.
@@ -94,9 +92,9 @@ wzorzec uchwały o ustanowieniu prokury przez spółkę z ograniczoną odpowiedz
 wzorzec uchwały o rozwiązaniu spółki z ograniczoną odpowiedzialnością, stanowiący załącznik nr 6 do rozporządzenia;
 7)
 wzorzec umowy zbycia udziałów w spółce z ograniczoną odpowiedzialnością, stanowiący załącznik nr 7 do rozporządzenia;
-8)
+8W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 1 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie określenia wzorców dotyczących spółki z ograniczoną odpowiedzialnością udostępnionych w systemie teleinformatycznym (Dz. U. poz. 1565), które weszło w życie z dniem 1 października 2018 r.)
 wzorzec uchwały o zatwierdzeniu sprawozdania finansowego spółki z ograniczoną odpowiedzialnością, która nie miała obowiązku poddania badaniu sprawozdania finansowego, stanowiący załącznik nr 8 do rozporządzenia;
-9)
+9W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 1 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie określenia wzorców dotyczących spółki z ograniczoną odpowiedzialnością udostępnionych w systemie teleinformatycznym (Dz. U. poz. 1565), które weszło w życie z dniem 1 października 2018 r.)
 wzorzec uchwały o zatwierdzeniu sprawozdania finansowego spółki z ograniczoną odpowiedzialnością, która miała obowiązek poddania badaniu sprawozdania finansowego, stanowiący załącznik nr 9 do rozporządzenia;
 10)
 wzorzec uchwały o podziale zysku w spółce z ograniczoną odpowiedzialnością, stanowiący załącznik nr 10 do rozporządzenia;
@@ -154,7 +152,7 @@ Umowa spółki zawarta przy wykorzystaniu wzorca umowy podlega zmianom w zakresi
 § 14.
 Po podpisaniu dokumentu sporządzonego przy wykorzystaniu wzorca, w dokumencie pochodzącym z systemu teleinformatycznego umieszczana jest informacja o osobie podpisującej wraz z oznaczeniem rodzaju podpisu.
 § 15.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 ust. 1 pkt 2 i 6–11 oraz § 13, które wchodzą w życie z dniem 1 kwietnia 2016 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 14 stycznia 2015 r., z wyjątkiem § 1 ust. 1 pkt 2 i 6–11 oraz § 13, które wchodzą w życie z dniem 1 kwietnia 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 grudnia 2011 r. w sprawie określenia wzorca umowy spółki z ograniczoną odpowiedzialnością udostępnianego w systemie teleinformatycznym (Dz. U. poz. 1774), które zgodnie z art. 11 ustawy z dnia 28 listopada 2014 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U. z 2015 r. poz. 4) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia. 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 1 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie określenia wzorców dotyczących spółki z ograniczoną odpowiedzialnością udostępnionych w systemie teleinformatycznym (Dz. U. poz. 1565), które weszło w życie z dniem 1 października 2018 r. 2) Rozporządzenie zostało ogłoszone w dniu 14 stycznia 2015 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 grudnia 2011 r. w sprawie określenia wzorca umowy spółki z ograniczoną odpowiedzialnością udostępnianego w systemie teleinformatycznym (Dz. U. poz. 1774), które zgodnie z art. 11 ustawy z dnia 28 listopada 2014 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U. z 2015 r. poz. 4) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
 
 ## Załącznik nr 1 — – Wzorzec umowy spółki z ograniczoną odpowiedzialnością (wzór)
 
@@ -166,8 +164,7 @@ Stawający
 2)
 ....,
 3)
-...
-oświadczają, że na podstawie niniejszej umowy zawiązują spółkę z ograniczoną odpowiedzialnością, zwaną dalej „Spółką”.
+... oświadczają, że na podstawie niniejszej umowy zawiązują spółkę z ograniczoną odpowiedzialnością, zwaną dalej „Spółką”.
 § 2
 Firma Spółki brzmi: ... spółka z ograniczoną odpowiedzialnością.
 § 3
@@ -197,8 +194,7 @@ Wariant A
 1.
 Udziały w Spółce są równe i niepodzielne. Każdy wspólnik może posiadać więcej niż jeden udział.
 2.
-Na każdy udział przypada jeden głos.
-Wariant B
+Na każdy udział przypada jeden głos. Wariant B
 1.
 Udziały w Spółce są równe i niepodzielne. Każdy wspólnik może posiadać więcej niż jeden udział.
 2.
@@ -212,8 +208,7 @@ Wariant A Zbycie oraz zastawienie udziału wymaga zgody Spółki. Wariant B Zbyc
 1.
 Zbycie oraz zastawienie udziału wymaga zgody Spółki.
 2.
-Zastawnik i użytkownik mogą wykonywać prawo głosu z udziału, na którym ustanowiono zastaw lub użytkowanie, jeżeli przewiduje to czynność prawna ustanawiająca ograniczone prawo rzeczowe oraz gdy w księdze udziałów dokonano wzmianki o jego ustanowieniu i o upoważnieniu do wykonywania prawa głosu.
-Wariant D
+Zastawnik i użytkownik mogą wykonywać prawo głosu z udziału, na którym ustanowiono zastaw lub użytkowanie, jeżeli przewiduje to czynność prawna ustanawiająca ograniczone prawo rzeczowe oraz gdy w księdze udziałów dokonano wzmianki o jego ustanowieniu i o upoważnieniu do wykonywania prawa głosu. Wariant D
 1.
 Zbycie oraz zastawienie udziału nie wymaga zgody Spółki.
 2.
@@ -229,15 +224,13 @@ Wariant A Organami Spółki są:
 1)
 Zarząd;
 2)
-Zgromadzenie wspólników.
-Wariant B Organami Spółki są:
+Zgromadzenie wspólników. Wariant B Organami Spółki są:
 1)
 Zarząd;
 2)
 Rada Nadzorcza;
 3)
-Zgromadzenie wspólników.
-Wariant C
+Zgromadzenie wspólników. Wariant C
 1.
 Organami Spółki są:
 1)
@@ -272,8 +265,7 @@ W skład pierwszego Zarządu Spółki wspólnicy powołują:
 2)
 ..., funkcja: ...,
 3)
-..., funkcja: ...
-Wariant dodatkowy, który ma zastosowanie w przypadku powołania rady nadzorczej, tj. wyboru wariantów B albo C w § 12 W skład pierwszej Rady Nadzorczej wspólnicy powołują:
+..., funkcja: ... Wariant dodatkowy, który ma zastosowanie w przypadku powołania rady nadzorczej, tj. wyboru wariantów B albo C w § 12 W skład pierwszej Rady Nadzorczej wspólnicy powołują:
 1)
 ..., funkcja: ...,
 2)
@@ -286,8 +278,7 @@ Wariant A Rozporządzenie prawem lub zaciągnięcie zobowiązania do świadczeni
 1.
 Rokiem obrotowym jest rok kalendarzowy, z zastrzeżeniem ust. 2.
 2.
-Pierwszy rok obrotowy kończy się w dniu 31 grudnia ... roku.
-Podpisy wspólników:
+Pierwszy rok obrotowy kończy się w dniu 31 grudnia ... roku. Podpisy wspólników:
 1)
 ...
 2)
@@ -306,15 +297,13 @@ Uchwała nr ... z dnia ... Stawający:
 ... postanawiają zmienić treść umowy spółki z dnia ... w ten sposób, że:
 – § ... otrzymuje brzmienie: „...”,
 – § ... otrzymuje brzmienie: „...”.
-Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw.
-Podpisy wspólników:
+Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw. Podpisy wspólników:
 1)
 ...
 2)
 ...
 3)
-...
-Uchwała nr ... z dnia ... W związku z dokonanymi zmianami umowy spółki wspólnicy przyjmują tekst jednolity umowy spółki, który otrzymuje brzmienie: Umowa spółki z ograniczoną odpowiedzialnością z dnia …...
+... Uchwała nr ... z dnia ... W związku z dokonanymi zmianami umowy spółki wspólnicy przyjmują tekst jednolity umowy spółki, który otrzymuje brzmienie: Umowa spółki z ograniczoną odpowiedzialnością z dnia …...
 § 1
 Stawający
 1)
@@ -322,8 +311,7 @@ Stawający
 2)
 ...,
 3)
-....
-oświadczają, że na podstawie niniejszej umowy zawiązują spółkę z ograniczoną odpowiedzialnością, zwaną dalej „Spółką”.
+.... oświadczają, że na podstawie niniejszej umowy zawiązują spółkę z ograniczoną odpowiedzialnością, zwaną dalej „Spółką”.
 § 2
 Firma Spółki brzmi: ... spółka z ograniczoną odpowiedzialnością.
 § 3
@@ -362,8 +350,7 @@ Wariant A
 1.
 Udziały w Spółce są równe i niepodzielne. Każdy wspólnik może posiadać więcej niż jeden udział.
 2.
-Na każdy udział przypada jeden głos.
-Wariant B
+Na każdy udział przypada jeden głos. Wariant B
 1.
 Udziały w Spółce są równe i niepodzielne. Każdy wspólnik może posiadać więcej niż jeden udział.
 2.
@@ -377,8 +364,7 @@ Wariant A Zbycie oraz zastawienie udziału wymaga zgody Spółki. Wariant B Zbyc
 1.
 Zbycie oraz zastawienie udziału wymaga zgody Spółki.
 2.
-Zastawnik i użytkownik mogą wykonywać prawo głosu z udziału, na którym ustanowiono zastaw lub użytkowanie, jeżeli przewiduje to czynność prawna ustanawiająca ograniczone prawo rzeczowe oraz gdy w księdze udziałów dokonano wzmianki o jego ustanowieniu i o upoważnieniu do wykonywania prawa głosu.
-Wariant D
+Zastawnik i użytkownik mogą wykonywać prawo głosu z udziału, na którym ustanowiono zastaw lub użytkowanie, jeżeli przewiduje to czynność prawna ustanawiająca ograniczone prawo rzeczowe oraz gdy w księdze udziałów dokonano wzmianki o jego ustanowieniu i o upoważnieniu do wykonywania prawa głosu. Wariant D
 1.
 Zbycie oraz zastawienie udziału nie wymaga zgody Spółki.
 2.
@@ -394,15 +380,13 @@ Wariant A Organami Spółki są:
 1)
 Zarząd;
 2)
-Zgromadzenie wspólników.
-Wariant B Organami Spółki są:
+Zgromadzenie wspólników. Wariant B Organami Spółki są:
 1)
 Zarząd;
 2)
 Rada Nadzorcza;
 3)
-Zgromadzenie wspólników.
-Wariant C
+Zgromadzenie wspólników. Wariant C
 1.
 Organami Spółki są:
 1)
@@ -446,8 +430,7 @@ Aktualnie w skład Zarządu wspólnicy powołują:
 2)
 ..., funkcja:.. ...,
 3)
-..., funkcja:.. ...
-Wariant dodatkowy, który ma zastosowanie w przypadku powołania rady nadzorczej, tj. wyboru wariantów B albo C w § 12
+..., funkcja:.. ... Wariant dodatkowy, który ma zastosowanie w przypadku powołania rady nadzorczej, tj. wyboru wariantów B albo C w § 12
 3.
 W skład pierwszej i kolejnych Rad Nadzorczych powołani byli:
 1)
@@ -470,8 +453,7 @@ Wariant A Rozporządzenie prawem lub zaciągnięcie zobowiązania do świadczeni
 1.
 Rokiem obrotowym jest rok kalendarzowy, z zastrzeżeniem ust. 2.
 2.
-Pierwszy rok obrotowy kończy się w dniu 31 grudnia ... roku.
-Podpisy wspólników:
+Pierwszy rok obrotowy kończy się w dniu 31 grudnia ... roku. Podpisy wspólników:
 1)
 ...
 2)
@@ -487,8 +469,7 @@ Zgromadzenie wspólników spółki ..., zwanej dalej „Spółką”, działają
 1)
 ...
 2)
-...
-pełnomocnikiem / pełnomocnikami Spółki do zawarcia umowy spółki ... z członkiem / członkami zarządu Spółki
+... pełnomocnikiem / pełnomocnikami Spółki do zawarcia umowy spółki ... z członkiem / członkami zarządu Spółki
 1)
 ...
 2)
@@ -506,8 +487,7 @@ Walne Zgromadzenie spółki ..., zwanej dalej „Spółką”, działając na po
 1)
 ...
 2)
-...
-pełnomocnikiem / pełnomocnikami Spółki do zawarcia umowy spółki ... z członkiem / członkami zarządu Spółki
+... pełnomocnikiem / pełnomocnikami Spółki do zawarcia umowy spółki ... z członkiem / członkami zarządu Spółki
 1)
 ...
 2)
@@ -523,8 +503,7 @@ Uchwała nr ... z dnia ... Zarząd spółki ... ustanawia prokurentem spółki n
 1)
 ..., rodzaj prokury: (oddzielna / łączna / oddziałowa oddzielna / oddziałowa łączna); oznaczenie oddziału spółki1): ....; sposób wykonywania prokury2): ..... ;
 2)
-..., rodzaj prokury: (oddzielna / łączna / oddziałowa oddzielna / oddziałowa łączna); oznaczenie oddziału spółki1): ....; sposób wykonywania prokury2): ...
-Podpisy wszystkich członków Zarządu:
+..., rodzaj prokury: (oddzielna / łączna / oddziałowa oddzielna / oddziałowa łączna); oznaczenie oddziału spółki1): ....; sposób wykonywania prokury2): ... Podpisy wszystkich członków Zarządu:
 1)
 ....
 2)
@@ -544,8 +523,7 @@ Wariant A Likwidatorami są członkowie Zarządu. Wariant B Na likwidatorów pow
 2)
 ....
 § 3
-Uchwała wchodzi w życie z dniem podjęcia. Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw.
-Podpisy wspólników:
+Uchwała wchodzi w życie z dniem podjęcia. Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw. Podpisy wspólników:
 1)
 ...
 2)
@@ -569,14 +547,13 @@ rachunek zysków i strat;
 3)
 informację dodatkową obejmującą: wprowadzenie do sprawozdania finansowego oraz dodatkowe informacje i objaśnienia.
 § 2
-Uchwała wchodzi w życie z dniem podjęcia. Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw.
-Podpisy wspólników:
+Uchwała wchodzi w życie z dniem podjęcia. Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw. Podpisy wspólników:
 1)
 ...
 2)
 ...
 3)
-...
+... 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
 
 ## Załącznik nr 9 — – Wzorzec uchwały o zatwierdzeniu sprawozdania finansowego spółki z ograniczoną odpowiedzialnością, która miała obowiązek poddania badaniu sprawozdania finansowego (wzór)
 
@@ -594,15 +571,13 @@ zestawienie zmian w kapitale własnym;
 5)
 rachunek przepływów pieniężnych.
 § 2
-Uchwała wchodzi w życie z dniem podjęcia. Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw.
-Podpisy wspólników:
+Uchwała wchodzi w życie z dniem podjęcia. Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw. Podpisy wspólników:
 1)
 ...
 2)
 ...
 3)
-...
-1) Spółka z o.o. musi poddać sprawozdanie finansowe badaniu, gdy łącznie spełniła kilka warunków: prowadziła działalność w minionym roku, sporządziła za miniony rok sprawozdanie finansowe, zamierza w bieżącym roku kontynuować działalność, spełnia dwa spośród trzech warunków wymienionych w art. 64 ust. 1 pkt 4 ustawy z dnia 29 września 1994 r. o rachunkowości (średnioroczne zatrudnienie w przeliczeniu na pełne etaty wyniosło co najmniej 50 osób, suma aktywów bilansu na koniec minionego roku stanowiła równowartość w walucie polskiej co najmniej 2 500 000 euro, przychody netto ze sprzedaży towarów i produktów oraz operacji finansowych za miniony rok stanowiły równowartość w walucie polskiej co najmniej 5 000 000 euro). 5) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.
+... 1) Spółka z o.o. musi poddać sprawozdanie finansowe badaniu, gdy łącznie spełniła kilka warunków: prowadziła działalność w minionym roku, sporządziła za miniony rok sprawozdanie finansowe, zamierza w bieżącym roku kontynuować działalność, spełnia dwa spośród trzech warunków wymienionych w art. 64 ust. 1 pkt 4 ustawy z dnia 29 września 1994 r. o rachunkowości (średnioroczne zatrudnienie w przeliczeniu na pełne etaty wyniosło co najmniej 50 osób, suma aktywów bilansu na koniec minionego roku stanowiła równowartość w walucie polskiej co najmniej 2 500 000 euro, przychody netto ze sprzedaży towarów i produktów oraz operacji finansowych za miniony rok stanowiły równowartość w walucie polskiej co najmniej 5 000 000 euro). 5) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.
 
 ## Załącznik nr 10 — – Wzorzec uchwały o podziale zysku w spółce z ograniczoną odpowiedzialnością (wzór)
 
@@ -610,8 +585,7 @@ Uchwała nr ... z dnia ...
 § 1
 Zgromadzenie wspólników spółki ... postanawia, iż zysk spółki za rok obrotowy (data pierwszego dnia roku obrotowego: dzień, miesiąc, rok – data ostatniego dnia roku obrotowego: dzień, miesiąc, rok) zostanie podzielony w następujący sposób: ... ...
 § 2
-Uchwała wchodzi w życie z dniem podjęcia. Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw.
-Podpisy wspólników:
+Uchwała wchodzi w życie z dniem podjęcia. Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw. Podpisy wspólników:
 1)
 ...
 2)
@@ -625,8 +599,7 @@ Uchwała nr ... z dnia ...
 § 1
 Zgromadzenie wspólników spółki ... postanawia, iż strata spółki za rok obrotowy (data pierwszego dnia roku obrotowego: dzień, miesiąc, rok – data ostatniego dnia roku obrotowego: dzień, miesiąc, rok) zostanie pokryta w następujący sposób: ... ...
 § 2
-Uchwała wchodzi w życie z dniem podjęcia. Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw.
-Podpisy wspólników:
+Uchwała wchodzi w życie z dniem podjęcia. Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw. Podpisy wspólników:
 1)
 ...
 2)
@@ -636,7 +609,9 @@ Podpisy wspólników:
 
 ## Załącznik nr 12 — – Wzorzec listy wspólników spółki z ograniczoną odpowiedzialnością (wzór)
 
-.... Spółka z ograniczoną odpowiedzialnością według stanu na dzień... Imię i nazwisko / Nazwa Liczba udziałów Wartość jednego udziału Wartość udziałów łącznie Podpisy wszystkich członków Zarządu:
+.... Spółka z ograniczoną odpowiedzialnością według stanu na dzień...
+Imię i nazwisko / Nazwa Liczba udziałów Wartość jednego udziału Wartość udziałów łącznie
+Podpisy wszystkich członków Zarządu:
 1)
 ...
 2)
@@ -650,8 +625,7 @@ Uchwała nr ... z dnia ... Zgromadzenie wspólników Spółki ..., zwanej dalej 
 1)
 na podstawie art. 199 § 1 Kodeksu spółek handlowych oraz § 8 ust. 3 umowy Spółki, za zgodą wspólnika ... na umorzenie ... udziałów, umorzyć – w trybie umorzenia dobrowolnego za zgodą wspólnika ... bez wypłaty wynagrodzenia / za wynagrodzeniem ... – ... udziałów w kapitale zakładowym Spółki o wartości nominalnej ... złotych każdy udział, tj. łącznie ... (słownie: ...);
 2)
-ustalić, że umorzenie udziałów następuje z czystego zysku Spółki.
-Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw. Podpisy Wspólników:
+ustalić, że umorzenie udziałów następuje z czystego zysku Spółki. Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw. Podpisy Wspólników:
 1)
 ...
 2)
@@ -669,8 +643,7 @@ Zgromadzenie wspólników spółki ... ze składu zarządu odwołuje:
 2)
 ..., funkcja: ...,
 3)
-..., funkcja: ...,
-w skład zarządu powołuje:
+..., funkcja: ..., w skład zarządu powołuje:
 1)
 ..., funkcja: ...,
 2)
@@ -678,8 +651,7 @@ w skład zarządu powołuje:
 3)
 ..., funkcja: ...
 § 2
-Uchwała wchodzi w życie z dniem podjęcia / z dniem … Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw.
-Podpisy wspólników:
+Uchwała wchodzi w życie z dniem podjęcia / z dniem … Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw. Podpisy wspólników:
 1)
 ...
 2)
@@ -705,8 +677,7 @@ Zgromadzenie wspólników spółki ... ze składu rady nadzorczej odwołuje:
 3)
 ..., funkcja: ...
 § 2
-Uchwała wchodzi w życie z dniem podjęcia / z dniem … Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw.
-Podpisy wspólników:
+Uchwała wchodzi w życie z dniem podjęcia / z dniem … Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw. Podpisy wspólników:
 1)
 ...
 2)
@@ -722,8 +693,7 @@ Podpisy wspólników:
 2)
 ...
 3)
-...
-1) Zbycie udziałów w wykonaniu niniejszej uchwały skutkuje obowiązkiem złożenia aktualnej listy wspólników. 2) W wyniku podziału nie mogą powstać udziały niższe niż 50 zł.
+... 1) Zbycie udziałów w wykonaniu niniejszej uchwały skutkuje obowiązkiem złożenia aktualnej listy wspólników. 2) W wyniku podziału nie mogą powstać udziały niższe niż 50 zł.
 
 ## Załącznik nr 17 — – Wzorzec uchwały w sprawie dalszego istnienia spółki z ograniczoną odpowiedzialnością (wzór)
 
@@ -733,8 +703,7 @@ Podpisy wspólników:
 2)
 ...
 3)
-...
-1) Przyjęcie niniejszej uchwały wymaga w konsekwencji podjęcia uchwały o powołaniu zarządu.
+... 1) Przyjęcie niniejszej uchwały wymaga w konsekwencji podjęcia uchwały o powołaniu zarządu.
 
 ## Załącznik nr 18 — – Wzorzec uchwały o zmianie adresu spółki z ograniczoną odpowiedzialnością (wzór)
 
@@ -742,8 +711,7 @@ Uchwała nr ... z dnia ...
 § 1
 Zarząd spółki ... postanawia zmienić, z dniem ..., adres spółki z: ... (dotychczasowy adres spółki) na nowy: ... (nowy adres spółki).
 § 2
-Uchwała wchodzi w życie z dniem podjęcia. Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw.
-Podpisy wszystkich członków Zarządu:
+Uchwała wchodzi w życie z dniem podjęcia. Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw. Podpisy wszystkich członków Zarządu:
 1)
 ...
 2)
@@ -761,8 +729,7 @@ utworzyć Oddział Spółki w ...;
 2)
 ustalić, iż siedziba Oddziału Spółki w ... będzie się mieścić przy ulicy ... nr ... w ... i Oddział Spółki będzie działał pod firmą: ...
 § 2
-Uchwała wchodzi w życie z dniem podjęcia. Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw.
-Podpisy wszystkich członków Zarządu:
+Uchwała wchodzi w życie z dniem podjęcia. Uchwała została podjęta jednogłośnie / za uchwałą oddano ... głosów za, ... głosów przeciw. Podpisy wszystkich członków Zarządu:
 1)
 ...
 2)

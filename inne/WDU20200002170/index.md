@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Edukacji i Naukiz dnia 17 listopada 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie procedury przyznawania danych dostępowych do bazy danych systemu informacji oświatowej
+# Obwieszczenie Ministra Edukacji i Naukiz dnia 17 listopada 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie procedury przyznawania danych dostępowych do bazy danych systemu informacji oświatowej Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji Narodowej z dnia 14 lipca 2017 r. w sprawie procedury przyznawania danych dostępowych do bazy danych systemu informacji oświatowej (Dz. U. poz. 1399), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji Narodowej z dnia 7 sierpnia 2019 r. zmieniającym rozporządzenie w sprawie procedury przyznawania danych dostępowych do bazy danych systemu informacji oświatowej (Dz. U. poz. 1557).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji Narodowej z dnia 7 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie procedury przyznawania danych dostępowych do bazy danych systemu informacji oświatowej (Dz. U. poz. 1557), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji Narodowej z dnia 7 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie procedury przyznawania danych dostępowych do bazy danych systemu informacji oświatowej (Dz. U. poz. 1557), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-” .
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848).
-Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 14 lipca 2017 r. w sprawie procedury przyznawania danych dostępowych do bazy danych systemu informacji oświatowej
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. ” . 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848).
+Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 14 lipca 2017 r. w sprawie procedury przyznawania danych dostępowych do bazy danych systemu informacji oświatowejObecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848).
 Na podstawie art. 75 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2019 r. poz. 1942 oraz z 2020 r. poz. 695) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa procedurę przyznawania danych dostępowych, w tym szczegółowy zakres danych zawartych we wniosku o przyznanie danych dostępowych i sposób potwierdzania tożsamości osoby, której wniosek dotyczy, w przypadku gdy wniosek nie został uwierzytelniony w sposób, o którym mowa w art. 71 ust. 3 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej.
@@ -91,7 +88,7 @@ określenie nazwy uczelni,
 b)
 informację, czy uczelnia jest uczelnią publiczną czy niepubliczną,
 c)
-określenie numeru, pod którym uczelnia jest wpisana do rejestru uczelni niepublicznych i związków uczelni niepublicznych prowadzonego przez ministra właściwego do spraw szkolnictwa wyższego  – w przypadku uczelni niepublicznej,
+określenie numeru, pod którym uczelnia jest wpisana do rejestru uczelni niepublicznych i związków uczelni niepublicznych prowadzonego przez ministra właściwego do spraw szkolnictwa wyższego Obecnie ministra właściwego do spraw szkolnictwa wyższego i nauki na podstawie art. 5 pkt 21 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2020 r. poz. 1220). – w przypadku uczelni niepublicznej,
 d)
 określenie województwa, powiatu, gminy i miejscowości, w której znajduje się siedziba uczelni, z użyciem identyfikatorów i nazw jednostek podziału terytorialnego i nazw miejscowości rejestru TERYT;
 6)
@@ -102,10 +99,10 @@ a)
 określenie organu prowadzącego szkołę lub placówkę oświatową oraz numer RSPO szkoły lub placówki oświatowej,
 b)
 określenie zakresu dostępu do bazy danych SIO odpowiednio do: RSPO, zbioru danych szkół i placówek oświatowych, zbioru danych jednostek, zbioru danych o uczniach, zbioru danych o nauczycielach;
-8)
+8Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji Narodowej z dnia 7 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie procedury przyznawania danych dostępowych do bazy danych systemu informacji oświatowej (Dz. U. poz. 1557), które weszło w życie z dniem 1 września 2019 r.)
 w przypadku osoby upoważnionej, o której mowa w art. 68 ust. 2 ustawy, przez wójta (burmistrza, prezydenta miasta) oraz ministra prowadzącego szkoły lub placówki oświatowe – przyznanie uprawnienia do potwierdzania prawdziwości danych, o którym mowa w art. 50 ust. 3 i 4–7 ustawy.
 2.
-W przypadku wniosku osoby upoważnionej do przyznawania danych dostępowych, o której mowa w art. 70 ust. 1 i 2 ustawy, wniosek ten zawiera dodatkowo odpowiednio:
+W przypadku wniosku osoby upoważnionej do przyznawania danych dostępowych, o której mowa w art. 70 ust. 1 i 2 ustawy, wniosek ten zawiera dodatkowo odpowiednio:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3.
 1)
 datę udzielenia upoważnienia pracownikowi;
 2)
@@ -129,7 +126,7 @@ Organ przyznający dane dostępowe sprawdza poprawność danych zawartych we wni
 danymi zgromadzonymi w RSPO lub danymi będącymi w posiadaniu organów administracji publicznej – w przypadku wniosków dyrektorów szkół i placówek oświatowych;
 2)
 danymi będącymi w posiadaniu organów administracji publicznej – w przypadku wniosków kierowników innych jednostek wykonujących zadania z zakresu oświaty, prezesów regionalnych izb obrachunkowych, rektorów uczelni i kuratorów oświaty;
-3)
+3Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.)
 danymi zawartymi w upoważnieniu – w przypadku wniosków osób upoważnionych, o których mowa w art. 68 ust. 2 ustawy, oraz wniosków osób upoważnionych do przyznawania danych dostępowych, o których mowa w art. 70 ust. 1 i 2 ustawy.
 2.
 W przypadku stwierdzenia poprawności danych zawartych we wniosku organ przyznający dane dostępowe niezwłocznie przesyła na adres poczty elektronicznej osoby, której mają być przyznane dane dostępowe, informację o stwierdzeniu poprawności danych zawartych we wniosku.
@@ -159,11 +156,10 @@ państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskie
 państwa trzeciego lub bezpaństwowca – kartę pobytu, polski dokument tożsamości cudzoziemca lub dokument „zgoda na pobyt tolerowany” w rozumieniu przepisów ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.
 3.
 W przypadku stwierdzenia, że osoba, której mają być przyznane dane dostępowe, nie jest osobą, za którą się podaje, organ przyznający dane dostępowe odrzuca wniosek.
-§ 9.
+§ 9Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3..
 Po stwierdzeniu poprawności danych zawartych we wniosku, a w przypadku gdy wniosek nie został uwierzytelniony w sposób, o którym mowa w art. 71 ust. 3 ustawy, także po potwierdzeniu tożsamości osoby w sposób, o którym mowa w § 8, dane dostępowe są pozyskiwane z SIO przez osobę upoważnioną, o której mowa w art. 68 ust. 1 i 2 ustawy, oraz przez osobę upoważnioną do przyznawania danych dostępowych, o której mowa w art. 70 ust. 1 i 2 ustawy, po podaniu przez nią danych potwierdzających jej tożsamość.
 § 10.
 Wnioski o udzielenie upoważnienia do dostępu do bazy danych SIO złożone i nierozpatrzone przed dniem wejścia w życie rozporządzenia pozostawia się bez rozpatrzenia.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 24 lipca 2017 r.
-1) Obecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848). 2) Obecnie ministra właściwego do spraw szkolnictwa wyższego i nauki na podstawie art. 5 pkt 21 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2020 r. poz. 1220). 3) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji Narodowej z dnia 7 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie procedury przyznawania danych dostępowych do bazy danych systemu informacji oświatowej (Dz. U. poz. 1557), które weszło w życie z dniem 1 września 2019 r. 4) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 5) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 7) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 24 kwietnia 2012 r. w sprawie procedury weryfikacji dostępu do bazy danych systemu informacji oświatowej (Dz. U. poz. 466), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 21 kwietnia 2017 r. o zmianie ustawy o systemie informacji oświatowej oraz niektórych innych ustaw (Dz. U. poz. 949).
+Rozporządzenie wchodzi w życie z dniem 24 lipca 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 24 kwietnia 2012 r. w sprawie procedury weryfikacji dostępu do bazy danych systemu informacji oświatowej (Dz. U. poz. 466), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 21 kwietnia 2017 r. o zmianie ustawy o systemie informacji oświatowej oraz niektórych innych ustaw (Dz. U. poz. 949). 1) Obecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848). 2) Obecnie ministra właściwego do spraw szkolnictwa wyższego i nauki na podstawie art. 5 pkt 21 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2020 r. poz. 1220). 3) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji Narodowej z dnia 7 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie procedury przyznawania danych dostępowych do bazy danych systemu informacji oświatowej (Dz. U. poz. 1557), które weszło w życie z dniem 1 września 2019 r. 4) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 5) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 7) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 24 kwietnia 2012 r. w sprawie procedury weryfikacji dostępu do bazy danych systemu informacji oświatowej (Dz. U. poz. 466), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 21 kwietnia 2017 r. o zmianie ustawy o systemie informacji oświatowej oraz niektórych innych ustaw (Dz. U. poz. 949).
 

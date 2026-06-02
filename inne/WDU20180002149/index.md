@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-08 |
 | Data wydania | 2018-11-15 |
-| Wejście w życie | 2018-11-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002149) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2149/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Organizacja otwartych konkursów Rozdział 3 – Wnioski wstępne Rozdział 4 – Wnioski pełne Rozdział 5 – Umowa o dofinansowanie Rozdział 6 – Tryb uproszczony Rozdział 7 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 88a ust. 7 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2018 r. poz. 165, 650, 723 i 1629) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe warunki uzyskiwania dofinansowania realizacji zadań, o których mowa w art. 88a ust. 5 ustawy z dnia 19 listopada 2009 r. o grach hazardowych, tryb składania wniosków oraz przekazywania środków z Funduszu Wspierania Rozwoju Społeczeństwa Obywatelskiego, zwanego dalej „Funduszem”.
 § 2.
@@ -49,6 +49,7 @@ wnioskach – rozumie się przez to wnioski o dofinansowanie realizacji zadań z
 wnioskodawcach – rozumie się przez to podmioty ubiegające się o dofinansowanie realizacji zadań ze środków Funduszu w ramach programów grantowych.
 § 3.
 Warunkiem uzyskania dofinansowania realizacji zadania jest wystąpienie o dofinansowanie w ramach programu grantowego.
+Organizacja otwartych konkursów
 § 4.
 1.
 Udzielanie dofinansowania realizacji zadania w ramach programu grantowego następuje w drodze otwartego konkursu.
@@ -95,6 +96,7 @@ W przypadku stwierdzenia błędów związanych z funkcjonowaniem Generatora Wnio
 Na każdym etapie konkursu, do czasu podpisania umowy o dofinansowanie, wnioskodawca może wycofać wniosek.
 4.
 Wycofany wniosek może być złożony ponownie do końca terminu składania wniosków.
+Wnioski wstępne
 § 7.
 Ocena formalna wniosku wstępnego polega na weryfikacji spełnienia kryteriów oceny formalnej określonych w regulaminie otwartego konkursu, w tym uprawnienia podmiotu do udziału w otwartym konkursie.
 § 8.
@@ -151,6 +153,7 @@ Do drugiego etapu otwartego konkursu zostają zakwalifikowane najwyżej ocenione
 Instytucja Zarządzająca na podstawie listy rankingowej sporządza listę wniosków wstępnych zakwalifikowanych oraz niezakwalifikowanych do drugiego etapu otwartego konkursu, która jest publikowana na jej stronie podmiotowej w Biuletynie Informacji Publicznej.
 7.
 Informacja o zakwalifikowaniu oraz niezakwalifikowaniu wniosku do drugiego etapu otwartego konkursu jest przekazywana wnioskodawcy w Generatorze Wniosków i na wskazany przez wnioskodawcę we wniosku adres poczty elektronicznej.
+Wnioski pełne
 § 13.
 1.
 Wnioski pełne składa się w terminie określonym w regulaminie otwartego konkursu, nie krótszym niż 14 dni od dnia publikacji listy wniosków, o której mowa w § 12 ust. 6.
@@ -172,8 +175,7 @@ zakwalifikowanych do dofinansowania,
 2)
 rezerwowych – niezakwalifikowanych do dofinansowania ze względu na brak środków,
 3)
-odrzuconych – niezakwalifikowanych do dofinansowania ze względu na negatywną ocenę
-oraz przekazuje do zatwierdzenia Instytucji Zarządzającej.
+odrzuconych – niezakwalifikowanych do dofinansowania ze względu na negatywną ocenę – oraz przekazuje do zatwierdzenia Instytucji Zarządzającej.
 6.
 Panel ekspertów podejmuje rozstrzygnięcia w drodze uzgodnienia na podstawie kryteriów oceny merytorycznej, o których mowa w § 10 ust. 1. W przypadku gdy osiągnięcie uzgodnienia nie jest możliwe, przeprowadza się głosowanie. Rozstrzygnięcia w drodze głosowania zapadają zwykłą większością głosów. W przypadku równej liczby głosów rozstrzyga Instytucja Zarządzająca.
 § 15.
@@ -187,6 +189,7 @@ Informacja o wyborze wniosku zakwalifikowanego do dofinansowania realizacji zada
 Instytucja Zarządzająca ze względu na charakter otwartego konkursu lub jego przedmiot może przeprowadzić otwarty konkurs z pominięciem etapu pierwszego.
 2.
 W przypadku, o którym mowa w ust. 1, Instytucja Zarządzająca przed dokonaniem oceny merytorycznej dokonuje oceny formalnej wniosku pełnego. Do oceny formalnej wniosku pełnego stosuje się odpowiednio przepisy o ocenie formalnej wniosku wstępnego.
+Umowa o dofinansowanie
 § 19.
 Przekazanie środków Funduszu na dofinansowanie realizacji zadania odbywa się na podstawie umowy zawartej między Instytucją Zarządzającą a wnioskodawcą.
 § 20.
@@ -212,6 +215,7 @@ Umowa o dofinansowanie określa sposób monitorowania realizacji umowy.
 Przekazywanie środków na dofinansowanie realizacji zadania odbywa się w terminach zapewniających finansowanie zobowiązań wynikających z realizacji umowy o dofinansowanie.
 2.
 Środki funduszu są przekazywane na wyodrębniony, wskazany w umowie o dofinansowanie rachunek bankowy wnioskodawcy, któremu zostały przyznane środki na dofinansowanie realizacji zadania.
+Tryb uproszczony
 § 23.
 1.
 Udzielanie dofinansowania realizacji zadania do wysokości 20 000 złotych w ramach programu grantowego może następować w drodze otwartego konkursu w trybie uproszczonym.
@@ -232,20 +236,35 @@ Lista, o której mowa w ust. 1, jest publikowana na stronie podmiotowej Instytuc
 Na podstawie sporządzonej listy oraz do wyczerpania kwoty przeznaczonej w ramach otwartego konkursu Instytucja Zarządzająca przyznaje dofinansowanie na realizację zadania.
 4.
 Informacja o wyborze wniosku zakwalifikowanego do dofinansowania realizacji zadania jest przekazywana wnioskodawcy w Generatorze Wniosków i na wskazany przez wnioskodawcę we wniosku adres poczty elektronicznej.
+Przepis końcowy
 § 25.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Organizacja otwartych konkursów
+#### Rozdział 2 – Organizacja otwartych konkursów
 
-#### Rozdział 3 Wnioski wstępne
+#### Rozdział 3 – Wnioski wstępne
 
-#### Rozdział 4 Wnioski pełne
+#### Rozdział 4 – Wnioski pełne
 
-#### Rozdział 5 Umowa o dofinansowanie
+#### Rozdział 5 – Umowa o dofinansowanie
 
-#### Rozdział 6 Tryb uproszczony
+#### Rozdział 6 – Tryb uproszczony
 
-#### Rozdział 7 Przepis końcowy
+#### Rozdział 7 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
 

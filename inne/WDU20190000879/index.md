@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 23 kwietnia 2019 r. w sprawie egzaminu dla brokerów ubezpieczeniowych i reasekuracyjnych oraz Komisji Egzaminacyjnej dla Brokerów Ubezpieczeniowych i Reasekuracyjnych
+# Rozporządzenie Ministra Finansówz dnia 23 kwietnia 2019 r. w sprawie egzaminu dla brokerów ubezpieczeniowych i reasekuracyjnych oraz Komisji Egzaminacyjnej dla Brokerów Ubezpieczeniowych i Reasekuracyjnych Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-23 |
 | Data wydania | 2019-05-11 |
-| Wejście w życie | 2019-05-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000879) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/879/text.pdf) |
 
@@ -247,8 +246,7 @@ Do przeprowadzania egzaminu, co do którego przewodniczący ogłosił komunikat 
 2.
 Do wniosków, o których mowa w art. 34 ust. 10 ustawy, złożonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 § 33.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 października 2014 r. w sprawie egzaminu dla brokerów ubezpieczeniowych i reasekuracyjnych oraz Komisji Egzaminacyjnej dla Brokerów Ubezpieczeniowych i Reasekuracyjnych (Dz. U. poz. 1500), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2018 r. poz. 2210 i 2243).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 października 2014 r. w sprawie egzaminu dla brokerów ubezpieczeniowych i reasekuracyjnych oraz Komisji Egzaminacyjnej dla Brokerów Ubezpieczeniowych i Reasekuracyjnych (Dz. U. poz. 1500), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2018 r. poz. 2210 i 2243). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 października 2014 r. w sprawie egzaminu dla brokerów ubezpieczeniowych i reasekuracyjnych oraz Komisji Egzaminacyjnej dla Brokerów Ubezpieczeniowych i Reasekuracyjnych (Dz. U. poz. 1500), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2018 r. poz. 2210 i 2243).
 
 ## Załącznik nr 1 — – Regulamin działania komisji egzaminacyjnej dla brokerów ubezpieczeniowych i reasekuracyjnych
 

@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000460) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/460/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 24 października 2002 r. w sprawie świadczeń przysługujących funkcjonariuszom Agencji Wywiadu za podróże służbowe, przeniesienia lub oddelegowania Rozdział 1 – Przepisy ogólne Rozdział 2 – Krajowe podróże służbowe Rozdział 3 – Zagraniczne podróże służbowe Rozdział 4 – Należności za przeniesienia do pełnienia służby w innej miejscowości Rozdział 5 – Należności za delegowania do czasowego pełnienia służby poza stałe miejsce pełnienia służby Rozdział 6 – Przepis końcowy
+Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 24 października 2002 r. w sprawie świadczeń przysługujących funkcjonariuszom Agencji Wywiadu za podróże służbowe, przeniesienia lub oddelegowania
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 24 października 2002 r. w sprawie świadczeń przysługujących funkcjonariuszom Agencji Wywiadu za podróże służbowe, przeniesienia lub oddelegowania (Dz. U. poz. 1501), z uwzględnieniem zmian wprowadzonych:
@@ -37,21 +37,18 @@ rozporządzeniem Prezesa Rady Ministrów z dnia 3 lutego 2020 r. zmieniającym r
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 i § 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 lipca 2003 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Agencji Wywiadu za podróże służbowe, przeniesienia lub oddelegowania (Dz. U. poz. 1250), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 lipca 2003 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Agencji Wywiadu za podróże służbowe, przeniesienia lub oddelegowania (Dz. U. poz. 1250), które stanowią: „
 § 2.
 Zwrot kosztów za nocleg w sposób określony w § 1 pkt 3 lit. a niniejszego rozporządzenia stosuje się do zwrotu kosztów za nocleg określonego w § 9 rozporządzenia, o którym mowa w § 1 niniejszego rozporządzenia, począwszy od dnia 15 listopada 2002 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Prezesa Rady Ministrów z dnia 3 lutego 2020 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Agencji Wywiadu za podróże służbowe, przeniesienia lub oddelegowania (Dz. U. poz. 210), który stanowi:
-„
+§ 2 rozporządzenia Prezesa Rady Ministrów z dnia 3 lutego 2020 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Agencji Wywiadu za podróże służbowe, przeniesienia lub oddelegowania (Dz. U. poz. 210), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 24 października 2002 r. w sprawie świadczeń przysługujących funkcjonariuszom Agencji Wywiadu za podróże służbowe, przeniesienia lub oddelegowania
 Na podstawie art. 127 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27 i 2320) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
@@ -76,12 +73,13 @@ Użyte w rozporządzeniu określenia oznaczają:
 „delegowanie do czasowego pełnienia służby poza stałe miejsce pełnienia służby” – wyznaczenie funkcjonariuszowi określonych w rozkazie o delegowaniu czasu oraz miejsca wykonywania obowiązków służbowych w miejscu innym niż jego dotychczasowe stałe miejsce pełnienia służby;
 11)
 „właściwy przełożony” – przełożonego właściwego w sprawach:
-a)
+aW brzmieniu ustalonym przez § 1 rozporządzenia Prezesa Rady Ministrów z dnia 3 lutego 2020 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Agencji Wywiadu za podróże służbowe, przeniesienia lub oddelegowania (Dz. U. poz. 210), które weszło w życie z dniem 25 lutego 2020 r.)
 krajowych podróży służbowych – kierownika jednostki organizacyjnej,
 b)
 zagranicznych podróży służbowych – Szefa AW albo upoważnionego przez niego zastępcę Szefa AW;
 12)
 „uposażenie” – uposażenie zasadnicze wraz z dodatkami o charakterze stałym, przysługujące funkcjonariuszowi od dnia przeniesienia do pełnienia służby w innej miejscowości.
+Krajowe podróże służbowe
 § 2.
 1.
 W przypadku funkcjonariusza zamieszkałego poza stałym miejscem pełnienia służby właściwy przełożony może uznać, w celu rozliczenia kosztów podróży służbowej, miejscowość zamieszkania jako stałe miejsce pełnienia służby, jeżeli:
@@ -109,7 +107,7 @@ zwrot innych niezbędnych i udokumentowanych wydatków.
 2.
 Funkcjonariuszowi, którego zwykłe obowiązki służbowe polegają na stałym wykonywaniu czynności służbowych na obszarze właściwości terytorialnej jednostki organizacyjnej, w przypadku odbywania krajowej podróży służbowej w tym obszarze przysługuje jedynie zwrot kosztów przejazdów, o których mowa w ust. 1 pkt 2 lit. a. Właściwość terytorialną Ośrodka Szkolenia AW określa województwo, w którym ośrodek ten ma swoją siedzibę.
 § 4.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 lipca 2003 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Agencji Wywiadu za podróże służbowe, przeniesienia lub oddelegowania (Dz. U. poz. 1250), które weszło w życie z dniem 15 sierpnia 2003 r..
 Kwotę diety ustala się w wysokości określonej w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
 2.
 Jeżeli krajowa podróż służbowa trwa:
@@ -147,7 +145,7 @@ W szczególnie uzasadnionych przypadkach, na wniosek funkcjonariusza, właściwy
 Zwrot kosztów przejazdu obejmuje cenę biletu określonego środka transportu, z uwzględnieniem posiadanej przez funkcjonariusza ulgi na dany środek transportu, bez względu na to, z jakiego tytułu ulga przysługuje.
 2.
 Zwrotu kosztów przejazdu wagonem sypialnym, z miejscem do leżenia lub opłat dodatkowych za przejazd oraz przelot samolotem dokonuje się funkcjonariuszowi w wysokości udokumentowanej biletami lub rachunkami.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Funkcjonariuszowi odbywającemu, za zgodą właściwego przełożonego, przejazdy w krajowej podróży służbowej pojazdem prywatnym przysługuje zwrot kosztów przejazdu w wysokości stanowiącej iloczyn przejechanych kilometrów przez stawkę za jeden kilometr przebiegu, w najwyższej dopuszczalnej wysokości ustalonej w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
 § 7.
 Funkcjonariuszowi przebywającemu w krajowej podróży służbowej przysługuje zwrot kosztów przejazdu do miejscowości zamieszkania w czasie wolnym od służby tylko wtedy, gdy spowoduje to zmniejszenie łącznych kosztów tej podróży. Przepisy § 5 i 6 stosuje się odpowiednio.
@@ -157,11 +155,11 @@ Za każdą rozpoczętą dobę odbywania krajowej podróży służbowej funkcjona
 2.
 Ryczałt, o którym mowa w ust. 1, nie przysługuje, jeżeli funkcjonariusz odbywa krajową podróż służbową pojazdem służbowym oraz w przypadku, o którym mowa w § 6 ust. 3.
 § 9.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Za nocleg w hotelu lub innym obiekcie świadczącym usługi hotelarskie funkcjonariuszowi przysługuje zwrot kosztów w wysokości potwierdzonej rachunkiem, nie więcej jednak niż 50% minimalnego wynagrodzenia za pracę za 1 dobę hotelową.
 2.
 Funkcjonariuszowi, który wobec braku możliwości skorzystania z noclegu w miejscowości stanowiącej cel podróży służbowej korzystał z noclegu w miejscowości, do której czas dojazdu nie przekracza jednej godziny, przysługuje również zwrot kosztów przejazdu publicznymi środkami komunikacji z miejscowości stanowiącej cel podróży służbowej do miejscowości, w której funkcjonariusz korzystał z noclegu, i z powrotem.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Funkcjonariuszowi, któremu w czasie krajowej podróży służbowej nie zapewniono bezpłatnego noclegu lub zakwaterowania albo który nie przedstawił rachunku za nocleg w hotelu lub innym obiekcie świadczącym usługi hotelarskie, przysługuje ryczałt za każdy nocleg w wysokości 150% diety.
 4.
 Ryczałt za nocleg przysługuje wówczas, gdy nocleg trwał co najmniej 6 godzin przypadających między godziną 2200 a 600.
@@ -182,6 +180,7 @@ Funkcjonariusz jest zobowiązany rozliczyć się z pobranej zaliczki nie późni
 Wypłaty należności z tytułu krajowej podróży służbowej dokonuje się na podstawie rachunku kosztów podróży sporządzonego przez funkcjonariusza.
 4.
 Fakt zapewnienia funkcjonariuszowi będącemu w krajowej podróży służbowej bezpłatnego noclegu lub zakwaterowania albo nieodpłatnego wyżywienia w naturze potwierdza kierownik jednostki organizacyjnej zapewniającej te świadczenia lub funkcjonariusz, oświadczeniem złożonym na poleceniu wyjazdu służbowego.
+Zagraniczne podróże służbowe
 § 12.
 Czas zagranicznej podróży służbowej liczy się w razie odbywania jej środkami komunikacji:
 1)
@@ -238,7 +237,7 @@ W uzasadnionych przypadkach właściwy przełożony może wyrazić zgodę na zwr
 W przypadkach uzasadnionych interesem wykonywanych zadań właściwy przełożony może wyrazić zgodę na niekorzystanie przez funkcjonariusza z noclegu w hotelu i przyznać ryczałt za każdy nocleg w wysokości 25% limitu, o którym mowa w ust. 1.
 4.
 Zwrot kosztów noclegu lub ryczałt za nocleg nie przysługują za czas przejazdu oraz gdy funkcjonariuszowi zapewniono bezpłatny nocleg.
-§ 16.
+§ 16W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Wysokość diet, o których mowa w § 14, oraz limitów na pokrycie kosztów noclegu, o których mowa w § 15 ust. 1–3, określają przepisy w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej poza granicami kraju.
 § 17.
 Do przejazdów odbywanych w czasie zagranicznych podróży służbowych stosuje się odpowiednio przepisy § 5 i 6.
@@ -269,19 +268,20 @@ Rozliczenia kosztów zagranicznej podróży służbowej należy dokonać w waluc
 Do rozliczenia należy załączyć dokumenty (rachunki) potwierdzające poszczególne wydatki; nie dotyczy to diet oraz wydatków objętych ryczałtami. Jeżeli uzyskanie dokumentu lub rachunku nie było możliwe, funkcjonariusz jest obowiązany złożyć pisemne oświadczenie o dokonanym wydatku i przyczynach braku jego udokumentowania.
 4.
 Obsługę finansową zagranicznej podróży służbowej, w zakresie wynikającym z ust. 1 i 2, realizuje jednostka organizacyjna, w której funkcjonariusz odbywający podróż służbową pełni służbę.
+Należności za przeniesienia do pełnienia służby w innej miejscowości
 § 23.
-Funkcjonariuszowi przeniesionemu z urzędu do pełnienia służby w innej miejscowości przysługują:
-1)
+Funkcjonariuszowi przeniesionemu z urzędu do pełnienia służby w innej miejscowości przysługują:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2.
+1W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 diety – dla niego i członków rodziny, o których mowa w art. 91 ust. 1 ustawy, za czas przejazdu i pierwszą dobę pobytu w nowym miejscu pełnienia służby;
 2)
 zwrot kosztów przejazdu do nowego miejsca zamieszkania osób, o których mowa w pkt 1;
 3)
 ryczałt z tytułu przeniesienia;
 4)
-(uchylony);
+(uchylony);Przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 2.
 5)
-(uchylony);
-6)
+(uchylony);Przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 2.
+6W brzmieniu ustalonym przez § 1 pkt 5 lit. d rozporządzenia, o którym mowa w odnośniku 2.)
 zwrot kosztów przejazdów raz w miesiącu, w celu odwiedzenia rodziny, publicznym środkiem transportu albo ekwiwalent pieniężny w wysokości równej cenie biletu za przejazd tym środkiem transportu, w przypadku gdy członkowie rodziny, o których mowa w art. 91 ust. 1 ustawy, nie przesiedlają się wraz z nim.
 § 24.
 Wysokość diet, o których mowa w § 23 pkt 1, ustala się według stawek obowiązujących w dniu przejazdu do nowego miejsca pełnienia służby. Przepisy § 4 ust. 1 i 2 stosuje się odpowiednio.
@@ -291,14 +291,14 @@ Wysokość kosztów, o których mowa w § 23 pkt 2, ustala się według cen bile
 2.
 Wysokość kosztów ustala się z uwzględnieniem ceny biletu za przejazd publicznym środkiem transportu na podstawie tabeli przewoźnika i najkrótszej odległości między dotychczasowym a nowym miejscem zamieszkania osób, o których mowa w § 23 pkt 1.
 § 26.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2..
 Ryczałt z tytułu przeniesienia przysługuje w wysokości 50% uposażenia.
 2.
 W celu obliczenia ryczałtu, o którym mowa w ust. 1, w przypadku funkcjonariusza objętego obowiązkowym ubezpieczeniem emerytalnym i rentowym, kwotę uposażenia pomniejsza się o składkę na obowiązkowe ubezpieczenie emerytalne i rentowe, jeżeli na podstawie odrębnych przepisów ryczałt nie stanowi podstawy wymiaru tych składek.
 § 27.
-(uchylony).
+(uchylony).Przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2.
 § 28.
-(uchylony).
+(uchylony).Przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2.
 § 29.
 1.
 W razie zbiegu uprawnień obojga małżonków będących funkcjonariuszami do należności, o których mowa w § 23, należności te wypłaca się tylko z jednego tytułu, w wysokości wyższej. Jeżeli pobrano je w wysokości niższej, wypłaca się odpowiednie wyrównanie.
@@ -308,7 +308,7 @@ W sytuacji, o której mowa w ust. 1, należności określone w § 23 wypłaca si
 1.
 Należności, o których mowa w § 23, wypłaca, na pisemny wniosek funkcjonariusza, jednostka organizacyjna, do której został przeniesiony.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2.
 § 31.
 Na wniosek funkcjonariusza przeniesionego z urzędu do pełnienia służby w innej miejscowości i nieprzesiedlającego się, jeżeli jest możliwy codzienny dojazd do nowego miejsca pełnienia służby, kierownik jednostki organizacyjnej może przyznać zwrot kosztów biletu miesięcznego na dojazd publicznym środkiem transportu.
 § 32.
@@ -317,8 +317,8 @@ Funkcjonariuszowi przeniesionemu z urzędu do pełnienia służby w innej miejsc
 2.
 Funkcjonariuszowi, o którym mowa w ust. 1, przysługują świadczenia, o których mowa w § 23 pkt 3 i 6.
 § 33.
-(uchylony).
-§ 34.
+(uchylony).Przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2.
+§ 34W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Funkcjonariuszowi przeniesionemu z urzędu do pełnienia służby w innej miejscowości, który przesiedlił się na pobyt stały do nowego miejsca pełnienia służby, w przypadku gdy członkowie rodziny, o których mowa w art. 91 ust. 1 ustawy, nie przesiedlili się wraz z nim, przysługuje raz w miesiącu, w celu odwiedzenia rodziny, zwrot kosztów przejazdu publicznym środkiem transportu określonym przez kierownika jednostki organizacyjnej albo ekwiwalent pieniężny w wysokości równej cenie biletu za przejazd tym środkiem transportu.
 2.
@@ -329,6 +329,7 @@ nieusprawiedliwionej nieobecności w służbie;
 korzystania z pojazdu służbowego.
 § 35.
 W uzasadnionych przypadkach Szef AW, na wniosek funkcjonariusza przeniesionego do pełnienia służby w innej miejscowości na własną prośbę, może przyznać, stosując odpowiednio przepisy § 23–34, należności przysługujące z tytułu przeniesienia z urzędu do pełnienia służby w innej miejscowości.
+Należności za delegowania do czasowego pełnienia służby poza stałe miejsce pełnienia służby
 § 36.
 Funkcjonariuszowi delegowanemu do czasowego pełnienia służby poza stałe miejsce pełnienia służby, z zastrzeżeniem § 37, przysługują:
 1)
@@ -348,18 +349,31 @@ równoważnik za brak lokalu mieszkalnego, na zasadach określonych w przepisach
 Funkcjonariuszowi w służbie przygotowawczej delegowanemu do czasowego pełnienia służby w innej miejscowości, który ma możliwość codziennego powrotu do miejsca stałego zamieszkania lub zakwaterowania, przysługują świadczenia, o których mowa w ust. 1 pkt 1 i 2.
 § 38.
 Należności określone w § 36 i 37 wypłaca się funkcjonariuszowi w jednostce organizacyjnej, do której został czasowo delegowany.
+Przepis końcowy
 § 39.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 31 października 2002 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 12 listopada 2001 r. w sprawie należności funkcjonariuszy Urzędu Ochrony Państwa za podróże służbowe i przeniesienia (Dz. U. poz. 1494), zachowanym w mocy na podstawie art. 232 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 676). 1) W brzmieniu ustalonym przez § 1 rozporządzenia Prezesa Rady Ministrów z dnia 3 lutego 2020 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Agencji Wywiadu za podróże służbowe, przeniesienia lub oddelegowania (Dz. U. poz. 210), które weszło w życie z dniem 25 lutego 2020 r. 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 lipca 2003 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Agencji Wywiadu za podróże służbowe, przeniesienia lub oddelegowania (Dz. U. poz. 1250), które weszło w życie z dniem 15 sierpnia 2003 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 9) Przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 5 lit. d rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 12) Przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 13) Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 14) Przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 15) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. 16) Rozporządzenie zostało ogłoszone w dniu 31 października 2002 r. 17) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 12 listopada 2001 r. w sprawie należności funkcjonariuszy Urzędu Ochrony Państwa za podróże służbowe i przeniesienia (Dz. U. poz. 1494), zachowanym w mocy na podstawie art. 232 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 676).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Krajowe podróże służbowe
+#### Rozdział 2 – Krajowe podróże służbowe
 
-#### Rozdział 3 Zagraniczne podróże służbowe
+#### Rozdział 3 – Zagraniczne podróże służbowe
 
-#### Rozdział 4 Należności za przeniesienia do pełnienia służby w innej miejscowości
+#### Rozdział 4 – Należności za przeniesienia do pełnienia służby w innej miejscowości
 
-#### Rozdział 5 Należności za delegowania do czasowego pełnienia służby poza stałe miejsce pełnienia służby
+#### Rozdział 5 – Należności za delegowania do czasowego pełnienia służby poza stałe miejsce pełnienia służby
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

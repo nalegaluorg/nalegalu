@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 12 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie organizacji pełnienia służby w systemie skoszarowanym w Straży Granicznej
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 12 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie organizacji pełnienia służby w systemie skoszarowanym w Straży Granicznej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 18 marca 2008 r. w sprawie organizacji pełnienia służby w systemie skoszarowanym w Straży Granicznej (Dz. U. z 2018 r. poz. 1550), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 14 sierpnia 2023 r. zmieniającym rozporządzenie w sprawie organizacji pełnienia służby w systemie skoszarowanym w Straży Granicznej (Dz. U. poz. 1735).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 14 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie organizacji pełnienia służby w systemie skoszarowanym w Straży Granicznej (Dz. U. poz. 1735), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 14 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie organizacji pełnienia służby w systemie skoszarowanym w Straży Granicznej (Dz. U. poz. 1735), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.
-” .
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 marca 2008 r. w sprawie organizacji pełnienia służby w systemie skoszarowanym w Straży Granicznej
+Rozporządzenie wchodzi w życie z dniem 1 października 2023 r. ” . 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 marca 2008 r. w sprawie organizacji pełnienia służby w systemie skoszarowanym w Straży GranicznejNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
 Na podstawie art. 35a ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723, 1860 i 2608) zarządza się, co następuje:
 § 1.
 Rozporządzenie reguluje organizację pełnienia służby w systemie skoszarowanym, warunki i tryb kierowania do pełnienia tej służby oraz sposób jej pełnienia przez funkcjonariuszy Straży Granicznej, zwanych dalej „funkcjonariuszami”.
@@ -47,11 +44,11 @@ Użyte w rozporządzeniu określenia oznaczają:
 czas pozasłużbowy – czas wolny od zajęć służbowych i wykonywania obowiązków służbowych, pozostawiony do dyspozycji funkcjonariusza;
 2)
 dni wolne od zajęć służbowych – dni ustawowo wolne od pracy oraz inne dni wolne od służby ustalone na podstawie odrębnych przepisów;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 14 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie organizacji pełnienia służby w systemie skoszarowanym w Straży Granicznej (Dz. U. poz. 1735), które weszło w życie z dniem 1 października 2023 r.)
 kierownik jednostki organizacyjnej – Rektora-Komendanta Wyższej Szkoły Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej, komendanta oddziału Straży Granicznej, komendanta ośrodka szkolenia Straży Granicznej, komendanta ośrodka Straży Granicznej, komendanta placówki Straży Granicznej, komendanta dywizjonu Straży Granicznej;
 4)
 kierownik komórki organizacyjnej – dyrektora lub kierownika komórki organizacyjnej Komendy Głównej Straży Granicznej;
-5)
+5W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 komórka jednostki organizacyjnej – dział, wydział, zakład, zespół, sekcję, referat, pododdział szkolny, grupę szkoleniową, grupę wchodzącą w skład jednostki organizacyjnej Straży Granicznej;
 6)
 bezpośredni przełożony – funkcjonariusza wyznaczonego przez kierownika jednostki organizacyjnej lub kierownika komórki organizacyjnej.
@@ -126,9 +123,9 @@ W dni wolne od zajęć służbowych:
 nie ogłasza się pobudki;
 2)
 można przeprowadzać odprawy w celu sprawdzenia stanu osobowego funkcjonariuszy;
-3)
+3Ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 nie prowadzi się szkolenia programowego, w uzasadnionych przypadkach kierownik, o którym mowa w § 7 ust. 1, może zarządzić przeprowadzenie dodatkowych zajęć szkoleniowych.
-2.
+2Ze zmianą wprowadzoną przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Czas dodatkowych zajęć szkoleniowych, o których mowa w ust. 1 pkt 3, nie może przekraczać 6 godzin dziennie.
 § 13.
 1.
@@ -168,6 +165,5 @@ teczka wzorów używanych druków;
 10)
 dokumentacja alarmowa.
 § 17.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 14 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie organizacji pełnienia służby w systemie skoszarowanym w Straży Granicznej (Dz. U. poz. 1735), które weszło w życie z dniem 1 października 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 5) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 31 marca 2008 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 31 marca 2008 r.. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 14 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie organizacji pełnienia służby w systemie skoszarowanym w Straży Granicznej (Dz. U. poz. 1735), które weszło w życie z dniem 1 października 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 5) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 31 marca 2008 r.
 

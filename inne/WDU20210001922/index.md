@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 20 października 2021 r. w sprawie składu i sposobu działania komisji orzekającej oraz trybu orzekania o stanie zdrowia farmaceuty
+# Rozporządzenie Ministra Zdrowiaz dnia 20 października 2021 r. w sprawie składu i sposobu działania komisji orzekającej oraz trybu orzekania o stanie zdrowia farmaceuty Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-20 |
 | Data wydania | 2021-10-25 |
-| Wejście w życie | 2021-10-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001922) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1922/text.pdf) |
 
@@ -132,6 +131,5 @@ Komisja niezwłocznie przekazuje protokół okręgowej radzie aptekarskiej.
 § 10.
 Komisja ulega rozwiązaniu z dniem podjęcia przez okręgową radę aptekarską uchwały o zawieszeniu farmaceuty w prawie wykonywania zawodu albo o ograniczeniu w wykonywaniu ściśle określonych czynności, albo o umorzeniu postępowania.
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 18 grudnia 2002 r. w sprawie składu i sposobu działania komisji orzekającej w przedmiocie niezdolności do wykonywania zawodu farmaceuty lub wykonywania ściśle określonych czynności ze względu na stan zdrowia (Dz. U. z 2003 r. poz. 232 i 406), które utraciło moc z dniem 16 kwietnia 2021 r. w związku z wejściem w życie ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2021 r. poz. 97 i 1559).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 18 grudnia 2002 r. w sprawie składu i sposobu działania komisji orzekającej w przedmiocie niezdolności do wykonywania zawodu farmaceuty lub wykonywania ściśle określonych czynności ze względu na stan zdrowia (Dz. U. z 2003 r. poz. 232 i 406), które utraciło moc z dniem 16 kwietnia 2021 r. w związku z wejściem w życie ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2021 r. poz. 97 i 1559). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 18 grudnia 2002 r. w sprawie składu i sposobu działania komisji orzekającej w przedmiocie niezdolności do wykonywania zawodu farmaceuty lub wykonywania ściśle określonych czynności ze względu na stan zdrowia (Dz. U. z 2003 r. poz. 232 i 406), które utraciło moc z dniem 16 kwietnia 2021 r. w związku z wejściem w życie ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2021 r. poz. 97 i 1559).
 

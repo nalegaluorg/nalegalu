@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-11 |
 | Data wydania | 2021-05-18 |
-| Wejście w życie | 2021-05-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000910) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/910/text.pdf) |
 
@@ -31,7 +30,7 @@ Na podstawie art. 22 ust. 8 ustawy z dnia 19 sierpnia 2011 r. o weteranach dzia�
 § 1.
 Rozporządzenie określa:
 1)
-sposób i tryb postępowania w zakresie monitorowania realizacji indywidualnego prawa do świadczeń opieki zdrowotnej weteranów poszkodowanych-żołnierzy, o których mowa w art. 24b, art. 24c, art. 44 ust. 1c, art. 46 ust. 1 pkt 8, art. 47 ust. 2a, art. 47c ust. 1 pkt 11 oraz art. 57 ust. 2 pkt 12 i 13 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.), zwanych dalej „świadczeniami opieki zdrowotnej”;
+sposób i tryb postępowania w zakresie monitorowania realizacji indywidualnego prawa do świadczeń opieki zdrowotnej weteranów poszkodowanych-żołnierzy, o których mowa w art. 24b, art. 24c, art. 44 ust. 1c, art. 46 ust. 1 pkt 8, art. 47 ust. 2a, art. 47c ust. 1 pkt 11 oraz art. 57 ust. 2 pkt 12 i 13 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97, 159 i 694.), zwanych dalej „świadczeniami opieki zdrowotnej”;
 2)
 podmiot prowadzący w imieniu Ministra Obrony Narodowej, zwanego dalej „ministrem”, monitorowanie informacji o realizacji indywidualnego prawa do świadczeń opieki zdrowotnej, o których mowa w art. 22 ust. 2 pkt 1 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa, zwanej dalej „ustawą”;
 3)
@@ -66,5 +65,5 @@ Do dnia 31 marca podmiot monitorujący przedstawia ministrowi, za pośrednictwem
 § 4.
 Ostatniego dnia kwartału podmiot monitorujący przekazuje do Prezesa Narodowego Funduszu Zdrowia informację o nabyciu uprawnień przez weterana poszkodowanego-żołnierza.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 28 marca 2012 r. w sprawie monitorowania realizacji świadczeń opieki zdrowotnej weteranów poszkodowanych-żołnierzy (Dz. U. poz. 351 oraz z 2015 r. poz. 1563), które zgodnie z art. 19 ust. 1 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) utraciło moc z dniem 11 października 2020 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97, 159 i 694. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 28 marca 2012 r. w sprawie monitorowania realizacji świadczeń opieki zdrowotnej weteranów poszkodowanych-żołnierzy (Dz. U. poz. 351 oraz z 2015 r. poz. 1563), które zgodnie z art. 19 ust. 1 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) utraciło moc z dniem 11 października 2020 r.
 

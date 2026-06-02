@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 14 kwietnia 2017 r. w sprawie szczegółowych zasad i warunków udzielania i cofania zezwolenia na założenie odpowiednio z dniem 1 września 2017 r. lub z dniem 1 września 2018 r. przez osobę prawną lub osobę fizyczną dotychczasowego trzyletniego liceum ogólnokształcącego i dotychczasowego czteroletniego technikum
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 14 kwietnia 2017 r. w sprawie szczegółowych zasad i warunków udzielania i cofania zezwolenia na założenie odpowiednio z dniem 1 września 2017 r. lub z dniem 1 września 2018 r. przez osobę prawną lub osobę fizyczną dotychczasowego trzyletniego liceum ogólnokształcącego i dotychczasowego czteroletniego technikum Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-14 |
 | Data wydania | 2017-04-21 |
-| Wejście w życie | 2017-04-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000818) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/818/text.pdf) |
 
@@ -138,6 +137,5 @@ Wnioski o udzielenie zezwolenia na założenie szkoły z dniem 1 września 2017 
 2.
 Termin składania wniosków, o którym mowa w ust. 1, może być przedłużany za zgodą organu jednostki samorządu terytorialnego właściwej do udzielenia zezwolenia na założenie szkoły.
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 25 listopada 2016 r. w sprawie udzielania pomocy na finansowanie ryzyka i dla przedsiębiorców rozpoczynających działalność w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 25 listopada 2016 r. w sprawie udzielania pomocy na finansowanie ryzyka i dla przedsiębiorców rozpoczynających działalność w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 Minister Rozwoju i Finansów kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,21 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-25 |
 | Data wydania | 2016-11-29 |
-| Wejście w życie | 2016-11-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001924) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1924/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Pomoc na finansowanie ryzyka Rozdział 3 – Pomoc dla przedsiębiorców rozpoczynających działalność Rozdział 4 – Tryb udzielania pomocy Rozdział 5 – Przepisy końcowe
 Treść rozporządzenia
-Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2016 r. poz. 217 i 1579) zarządza się, co następuje:
+Treść rozporządzenia
+Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885, przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia” w Polsce oraz przyjęty uchwałą nr 91/2014 Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Inteligentny Rozwój na lata 2014–2020. Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2016 r. poz. 217 i 1579) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom, w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020, następujących rodzajów pomocy:
 1)
 pomocy na finansowanie ryzyka,
 2)
-pomocy dla przedsiębiorców rozpoczynających działalność
-zwanych dalej „pomocą”, do których mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem Komisji nr 651/2014”, a także podmioty udzielające tej pomocy.
+pomocy dla przedsiębiorców rozpoczynających działalność – zwanych dalej „pomocą”, do których mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28 oraz Dz. Urz. UE L 149 z 07.06.2016, str. 10., zwanego dalej „rozporządzeniem Komisji nr 651/2014”, a także podmioty udzielające tej pomocy.
 2.
 Przepisów rozporządzenia nie stosuje się do pomocy na finansowanie ryzyka i pomocy dla przedsiębiorców rozpoczynających działalność w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 udzielanej przez Narodowe Centrum Badań i Rozwoju.
 § 2.
@@ -92,10 +91,10 @@ Pomoc, o której mowa w § 1 ust. 1:
 1)
 pkt 1 – w przypadku, o którym mowa w art. 4 ust. 1 lit. g rozporządzenia Komisji nr 651/2014,
 2)
-pkt 2 – w przypadku, o którym mowa w art. 4 ust. 1 lit. h rozporządzenia Komisji nr 651/2014
-stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielona po jej zatwierdzeniu przez Komisję Europejską.
+pkt 2 – w przypadku, o którym mowa w art. 4 ust. 1 lit. h rozporządzenia Komisji nr 651/2014 – stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielona po jej zatwierdzeniu przez Komisję Europejską.
 § 8.
 Pomoc może być udzielona przedsiębiorcom kwalifikowalnym prowadzącym działalność gospodarczą na terytorium Rzeczypospolitej Polskiej potwierdzoną wpisem do odpowiedniego rejestru.
+Pomoc na finansowanie ryzyka
 § 9.
 1.
 Za przedsiębiorców kwalifikowalnych w ramach pomocy dla MŚP na finansowanie ryzyka uznaje się przedsiębiorców, którzy w momencie rozpoczęcia początkowej inwestycji w zakresie finansowania ryzyka są nienotowanymi MŚP i spełniają co najmniej jeden z następujących warunków:
@@ -173,6 +172,7 @@ W przypadku pomocy na finansowanie ryzyka polegającej na zapewnieniu inwestycji
 Jeżeli instrument finansowy wdrażany przez pośrednika finansowego, skierowany do kwalifikowalnych przedsiębiorców na różnych etapach rozwoju, o których mowa w ust. 1, nie zakłada udziału prywatnego kapitału na poziomie kwalifikowalnych przedsiębiorców, pośrednik finansowy osiąga wysokość udziału prywatnego stanowiącą co najmniej średnią ważoną opartą na wielkości poszczególnych inwestycji w portfelu bazowym i będącą wynikiem zastosowania wobec takich inwestycji minimalnych stóp udziału, o których mowa w ust. 1.
 § 14.
 Łączna kwota pomocy na finansowanie ryzyka nie przekracza 15 000 000 euro na kwalifikowalnego przedsiębiorcę w ramach dowolnej formy pomocy na finansowanie ryzyka.
+Pomoc dla przedsiębiorców rozpoczynających działalność
 § 15.
 Za przedsiębiorców kwalifikowalnych w ramach pomocy dla przedsiębiorców rozpoczynających działalność uznaje się nienotowane MŚP, z wyłączeniem średnich przedsiębiorców, w okresie do 5 lat od dnia ich rejestracji w odpowiednim rejestrze, które nie dokonały podziału zysków i nie zostały utworzone w wyniku połączenia.
 § 16.
@@ -184,6 +184,7 @@ Pomoc dla przedsiębiorców kwalifikowalnych jest udzielana w formie inwestycji 
 800 000 euro dla przedsiębiorców kwalifikowalnych mających siedzibę albo miejsce zamieszkania na obszarach objętych pomocą, które spełniają warunki określone w art. 107 ust. 3 lit. a Traktatu o funkcjonowaniu Unii Europejskiej.
 2.
 W przypadku kwalifikowalnych przedsiębiorców, którzy są przedsiębiorcami innowacyjnymi, w rozumieniu art. 2 pkt 80 rozporządzenia Komisji nr 651/2014, określone w ust. 1 kwoty maksymalne mogą zostać podwojone.
+Tryb udzielania pomocy
 § 17.
 Pomoc dla MŚP na finansowanie ryzyka jest udzielana przez co najmniej jednego pośrednika finansowego.
 § 18.
@@ -203,19 +204,29 @@ kwotę pomocy potrzebną do realizacji przedsięwzięcia;
 inne informacje, wskazane przez podmiot udzielający pomocy.
 § 19.
 Przed udzieleniem pomocy przedsiębiorca kwalifikowalny dostarcza podmiotowi udzielającemu pomocy dokumenty przygotowane zgodnie z przepisami wydanymi na podstawie art. 37 ust. 6 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2016 r. poz. 1808).
+Przepisy końcowe
 § 20.
 Pomoc jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze, w związku z art. 59 rozporządzenia nr 651/2014.
 § 21.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885, przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia” w Polsce oraz przyjęty uchwałą nr 91/2014 Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Inteligentny Rozwój na lata 2014–2020. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28 oraz Dz. Urz. UE L 149 z 07.06.2016, str. 10.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885, przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia” w Polsce oraz przyjęty uchwałą nr 91/2014 Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Inteligentny Rozwój na lata 2014–2020. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28 oraz Dz. Urz. UE L 149 z 07.06.2016, str. 10.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Pomoc na finansowanie ryzyka
+#### Rozdział 2 – Pomoc na finansowanie ryzyka
 
-#### Rozdział 3 Pomoc dla przedsiębiorców rozpoczynających działalność
+#### Rozdział 3 – Pomoc dla przedsiębiorców rozpoczynających działalność
 
-#### Rozdział 4 Tryb udzielania pomocy
+#### Rozdział 4 – Tryb udzielania pomocy
 
-#### Rozdział 5 Przepisy końcowe
+#### Rozdział 5 – Przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

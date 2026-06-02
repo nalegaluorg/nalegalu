@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 kwietnia 2011 r. o zmianie ustawy – Prawo o ustroju sądów wojskowych oraz niektórych innych ustaw
+# Ustawa z dnia 28 kwietnia 2011 r. o zmianie ustawy – Prawo o ustroju sądów wojskowych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury oraz ustawę z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-04-28 |
 | Data wydania | 2011-06-02 |
-| Wejście w życie | 2011-06-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111130659) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/659/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2007 r. Nr 226, poz. 1676, z późn. zm.) wprowadza się następujące zmiany:
+Asystenci sędziów, urzędnicy i inni pracownicy sądów wojskowych
+
+**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2007 r. Nr 226, poz. 1676, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 237, poz. 1651, z 2009 r. Nr 26, poz. 157, Nr 56, poz. 459 i Nr 157, poz. 1241 oraz z 2010 r. Nr 182, poz. 1228.) wprowadza się następujące zmiany:
 
 - **1)** w art. 10 w § 3 pkt 5 otrzymuje brzmienie: „
 - **5)** wybór kandydatów na rzecznika dyscyplinarnego i wybór zastępcy rzecznika dyscyplinarnego; ” ;
@@ -115,7 +116,7 @@ source: "eli-html"
 
 - **14)** po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „
 
-#### Rozdział 8a Asystenci sędziów, urzędnicy i inni pracownicy sądów wojskowych
+#### Rozdział 8a
 
 **Art. 64a.** W sądach wojskowych mogą być zatrudniani asystenci sędziów.
 
@@ -140,17 +141,17 @@ source: "eli-html"
 
 - **4)** wojskowym sądzie garnizonowym – prezes wojskowego sądu garnizonowego; ” .
 
-**Art. 3.** W ustawie z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. Nr 26, poz. 157, z późn. zm.) w art. 69 ust. 3 otrzymuje brzmienie: „ 3. Do czasu ustania stosunku służbowego zawodowej służby wojskowej asesor sądu wojskowego jest upoważniony do wykonywania czynności asystenta sędziego w wojskowym sądzie garnizonowym. ” . 1. Osoby powołane do zawodowej służby wojskowej, a zajmujące stanowiska asesorów w wojskowych sądach garnizonowych, są przenoszone z dniem wejścia w życie niniejszej ustawy na stanowiska asystentów sędziów w tych sądach. 2. Dla określenia warunków przy ubieganiu się o powołanie na urząd sędziego bądź prokuratora okresy pełnienia służby przez aplikanta w sądzie wojskowym między zdanym egzaminem sędziowskim a powołaniem na stanowisko asesora, wykonywania pracy w charakterze asesora sądu wojskowego oraz pełnienia służby po dniu 5 maja 2009 r. do dnia wejścia w życie niniejszej ustawy są równoznaczne z zajmowaniem stanowiska asystenta sędziego.
+**Art. 3.** W ustawie z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. Nr 26, poz. 157, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 56, poz. 459, Nr 178, poz. 1375 i Nr 223, poz. 1777, z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 106, poz. 622.) w art. 69 ust. 3 otrzymuje brzmienie: „ 3. Do czasu ustania stosunku służbowego zawodowej służby wojskowej asesor sądu wojskowego jest upoważniony do wykonywania czynności asystenta sędziego w wojskowym sądzie garnizonowym. ” . 1. Osoby powołane do zawodowej służby wojskowej, a zajmujące stanowiska asesorów w wojskowych sądach garnizonowych, są przenoszone z dniem wejścia w życie niniejszej ustawy na stanowiska asystentów sędziów w tych sądach. 2. Dla określenia warunków przy ubieganiu się o powołanie na urząd sędziego bądź prokuratora okresy pełnienia służby przez aplikanta w sądzie wojskowym między zdanym egzaminem sędziowskim a powołaniem na stanowisko asesora, wykonywania pracy w charakterze asesora sądu wojskowego oraz pełnienia służby po dniu 5 maja 2009 r. do dnia wejścia w życie niniejszej ustawy są równoznaczne z zajmowaniem stanowiska asystenta sędziego.
 
 **Art. 5.**
 
 1. W terminie 12 miesięcy od dnia wejścia w życie ustawy sędziowie zniesionych z dniem 1 lipca 2010 r. wojskowych sądów garnizonowych mogą wystąpić do Krajowej Rady Sądownictwa z wnioskiem, o którym mowa w art. 32a § 1 ustawy, o której mowa w art. 1.
 
-2. Wobec sędziów sądów wojskowych zniesionych sądów przeniesionych uprzednio w stan spoczynku właściwy organ wojskowy dokonuje wypowiedzeń stosunku służbowego zawodowej służby wojskowej w trybie art. 114 ust. 2 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2010 r. Nr 90, poz. 593, z późn. zm.).
+2. Wobec sędziów sądów wojskowych zniesionych sądów przeniesionych uprzednio w stan spoczynku właściwy organ wojskowy dokonuje wypowiedzeń stosunku służbowego zawodowej służby wojskowej w trybie art. 114 ust. 2 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2010 r. Nr 90, poz. 593, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 22, poz. 114 i Nr 112, poz. 654.).
 
 **Art. 6.** Rzecznik dyscyplinarny sędziów sądów wojskowych wybrany na podstawie dotychczasowych przepisów przez Zgromadzenie Sędziów Sądów Wojskowych wykonuje swoje obowiązki do czasu zakończenia kadencji.
 
 **Art. 7.** Do spraw rozpoznawanych w sądzie dyscyplinarnym drugiej instancji niezakończonych do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury oraz ustawę z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 237, poz. 1651, z 2009 r. Nr 26, poz. 157, Nr 56, poz. 459 i Nr 157, poz. 1241 oraz z 2010 r. Nr 182, poz. 1228. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 56, poz. 459, Nr 178, poz. 1375 i Nr 223, poz. 1777, z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 106, poz. 622. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 22, poz. 114 i Nr 112, poz. 654.
 

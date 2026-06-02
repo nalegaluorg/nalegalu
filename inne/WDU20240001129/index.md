@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 27 lipca 2024 r. w sprawie rodzinnych domów pomocy
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 27 lipca 2024 r. w sprawie rodzinnych domów pomocy Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-27 |
 | Data wydania | 2024-07-29 |
-| Wejście w życie | 2024-07-29 |
 | Ostatnia zmiana | 2024-07-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001129) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1129/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 52 ust. 3 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 52 ust. 3 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1693, 1938 i 2760 oraz z 2024 r. poz. 743, 858 i 859.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -188,8 +187,7 @@ W przypadku, gdy:
 1)
 osoba skierowana do rodzinnego domu pomocy,
 2)
-osoba zobowiązana do ponoszenia odpłatności za pobyt w rodzinnym domu pomocy, o której mowa w art. 61 ust. 1 pkt 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej
-deklaruje ponoszenie pełnej odpłatności za pobyt w rodzinnym domu pomocy, nie ustala się sytuacji dochodowej tej osoby.
+osoba zobowiązana do ponoszenia odpłatności za pobyt w rodzinnym domu pomocy, o której mowa w art. 61 ust. 1 pkt 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej – deklaruje ponoszenie pełnej odpłatności za pobyt w rodzinnym domu pomocy, nie ustala się sytuacji dochodowej tej osoby.
 4.
 Wysokość miesięcznej opłaty z tytułu pobytu w rodzinnym domu pomocy określa się w decyzji administracyjnej, o której mowa w § 6 ust. 2.
 5.
@@ -266,8 +264,7 @@ W przypadku gdy:
 1)
 osoba skierowana do rodzinnego domu pomocy przed dniem wejścia w życie rozporządzenia,
 2)
-osoba zobowiązana przed dniem wejścia w życie rozporządzenia do ponoszenia odpłatności za pobyt w rodzinnym domu pomocy, o której mowa w art. 61 ust. 1 pkt 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej
-deklaruje ponoszenie pełnej odpłatności za pobyt w rodzinnym domu pomocy, stosuje się § 7 ust. 3.
+osoba zobowiązana przed dniem wejścia w życie rozporządzenia do ponoszenia odpłatności za pobyt w rodzinnym domu pomocy, o której mowa w art. 61 ust. 1 pkt 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej – deklaruje ponoszenie pełnej odpłatności za pobyt w rodzinnym domu pomocy, stosuje się § 7 ust. 3.
 3.
 Do rozpoczętej i niezakończonej przed dniem wejścia w życie rozporządzenia kontroli w rodzinnym domu pomocy stosuje się przepisy dotychczasowe.
 4.
@@ -277,6 +274,5 @@ W budynku, w którym jest prowadzony rodzinny dom pomocy świadczący usługi by
 6.
 Przepisów § 5 ust. 1 pkt 1 lit. d nie stosuje się w przypadku rodzinnego domu pomocy prowadzonego w budynku spełniającym wymagania ochrony przeciwpożarowej dla kategorii zagrożenia ludzi ZL II, określone w przepisach dotyczących ochrony przeciwpożarowej, lub przez zastosowanie rozwiązań zamiennych w trybie i na zasadach, o których mowa w art. 6a ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2024 r. poz. 275).
 § 11.
-Rozporządzenie wchodzi w życie z dniem 29 lipca 2024 r.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1693, 1938 i 2760 oraz z 2024 r. poz. 743, 858 i 859. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 31 maja 2012 r. w sprawie rodzinnych domów pomocy (Dz. U. poz. 719), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 33 ustawy z dnia 13 stycznia 2023 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 185).
+Rozporządzenie wchodzi w życie z dniem 29 lipca 2024 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 31 maja 2012 r. w sprawie rodzinnych domów pomocy (Dz. U. poz. 719), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 33 ustawy z dnia 13 stycznia 2023 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 185). 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1693, 1938 i 2760 oraz z 2024 r. poz. 743, 858 i 859. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 31 maja 2012 r. w sprawie rodzinnych domów pomocy (Dz. U. poz. 719), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 33 ustawy z dnia 13 stycznia 2023 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 185).
 

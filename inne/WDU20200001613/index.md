@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 14 września 2020 r. w sprawie otrzymywania świadczeń opieki zdrowotnej niezakwalifikowanych jako świadczenia gwarantowane oraz odpłatnych świadczeń opieki zdrowotnej przez weteranów poszkodowanych-funkcjonariuszy, funkcjonariuszy i pracowników Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa i Państwowej Straży Pożarnej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 14 września 2020 r. w sprawie otrzymywania świadczeń opieki zdrowotnej niezakwalifikowanych jako świadczenia gwarantowane oraz odpłatnych świadczeń opieki zdrowotnej przez weteranów poszkodowanych-funkcjonariuszy, funkcjonariuszy i pracowników Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa i Państwowej Straży Pożarnej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-14 |
 | Data wydania | 2020-09-18 |
-| Wejście w życie | 2020-10-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001613) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1613/text.pdf) |
 
@@ -39,8 +38,7 @@ weteranów poszkodowanych-funkcjonariuszy, których ustalony procentowy uszczerb
 c)
 funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa i strażaków Państwowej Straży Pożarnej, zwanych dalej „funkcjonariuszami”, po ich zwolnieniu ze służby w związku z urazami nabytymi podczas wykonywania zadań poza granicami państwa,
 d)
-pracowników Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa i Państwowej Straży Pożarnej, zwanych dalej „pracownikami”, po ustaniu umowy o pracę w związku z urazami nabytymi podczas wykonywania zadań poza granicami państwa
-zwanych dalej „osobami uprawnionymi”;
+pracowników Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa i Państwowej Straży Pożarnej, zwanych dalej „pracownikami”, po ustaniu umowy o pracę w związku z urazami nabytymi podczas wykonywania zadań poza granicami państwa – zwanych dalej „osobami uprawnionymi”;
 2)
 tryb postępowania w sprawach otrzymywania świadczeń opieki zdrowotnej;
 3)
@@ -129,6 +127,5 @@ Minister przekazuje, na wskazany przez świadczeniodawcę rachunek bankowy, śro
 5.
 W przypadku stwierdzenia przez ministra lub świadczeniodawcę nieprawidłowości w przedłożonym zestawieniu lub fakturze świadczeniodawca niezwłocznie sporządza i przekazuje ministrowi korektę tych dokumentów wraz ze szczegółowym uzasadnieniem przyczyny korekty.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 29 marca 2012 r. w sprawie świadczeń opieki zdrowotnej niezakwalifikowanych jako świadczenia gwarantowane oraz odpłatnych świadczeń opieki zdrowotnej udzielanych weteranom poszkodowanym-funkcjonariuszom (Dz. U. poz. 373), które na podstawie art. 19 ust. 1 pkt 5 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 29 marca 2012 r. w sprawie świadczeń opieki zdrowotnej niezakwalifikowanych jako świadczenia gwarantowane oraz odpłatnych świadczeń opieki zdrowotnej udzielanych weteranom poszkodowanym-funkcjonariuszom (Dz. U. poz. 373), które na podstawie art. 19 ust. 1 pkt 5 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 29 marca 2012 r. w sprawie świadczeń opieki zdrowotnej niezakwalifikowanych jako świadczenia gwarantowane oraz odpłatnych świadczeń opieki zdrowotnej udzielanych weteranom poszkodowanym-funkcjonariuszom (Dz. U. poz. 373), które na podstawie art. 19 ust. 1 pkt 5 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

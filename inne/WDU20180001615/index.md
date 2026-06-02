@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-08-07 |
 | Data wydania | 2018-08-23 |
-| Wejście w życie | 2018-09-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001615) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1615/text.pdf) |
 
@@ -35,11 +34,9 @@ w § 1 w ust. 1 wyrazy „Agencja Własności Rolnej Skarbu Państwa, zwana dale
 2)
 użyty w § 2 w ust. 1 w zdaniu pierwszym, w § 3 w ust. 1 i 2 oraz w § 4, w różnym przypadku, wyraz „Agencja” zastępuje się użytymi w odpowiednim przypadku wyrazami „Krajowy Ośrodek”;
 3)
-w § 2 w ust. 1 pkt 2 otrzymuje brzmienie:
-„
+w § 2 w ust. 1 pkt 2 otrzymuje brzmienie: „
 2)
-wysokości ulg przysługujących z tytułu lat pracy albo najmu,
-” .
+wysokości ulg przysługujących z tytułu lat pracy albo najmu, ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

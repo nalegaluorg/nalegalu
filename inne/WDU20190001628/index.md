@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 27 sierpnia 2019 r. zmieniające rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej
+# Rozporządzenie Ministra Zdrowiaz dnia 27 sierpnia 2019 r. zmieniające rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,28 +22,23 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-27 |
 | Data wydania | 2019-08-28 |
-| Wejście w życie | 2019-08-29 |
 | Ostatnia zmiana | 2025-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001628) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1628/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, 1394 i 1590) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 8 września 2015 r. w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. z 2016 r. poz. 1146, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Ministra Zdrowia z dnia 8 września 2015 r. w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. z 2016 r. poz. 1146, z późn. zm.Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2017 r. poz. 1809, z 2018 r. poz. 1373, 1682 i 2364 oraz z 2019 r. poz. 34 i 1335.) wprowadza się następujące zmiany:
 1)
-§ 3 otrzymuje brzmienie:
-„
+§ 3 otrzymuje brzmienie: „
 § 3.
-Przepisy § 16 ust. 1a, 3–5 oraz § 30 ust. 1a załącznika do rozporządzenia stosuje się od dnia 1 kwietnia 2020 r.
-” ;
+Przepisy § 16 ust. 1a, 3–5 oraz § 30 ust. 1a załącznika do rozporządzenia stosuje się od dnia 1 kwietnia 2020 r. ” ;
 2)
 w załączniku do rozporządzenia:
 a)
-w § 11 ust. 4 pkt 10a otrzymuje brzmienie:
-„
+w § 11 ust. 4 pkt 10a otrzymuje brzmienie: „
 10a)
-adresu i numeru telefonu właściwej komórki wskazanej przez dyrektora oddziału wojewódzkiego Funduszu, w której świadczeniobiorca uzyska informację o możliwości udzielenia świadczenia opieki zdrowotnej przez innych świadczeniodawców, którzy zawarli umowę z tym oddziałem, średnim czasie oczekiwania na dane świadczenie opieki zdrowotnej oraz o pierwszym wolnym terminie udzielenia świadczenia;
-” ,
+adresu i numeru telefonu właściwej komórki wskazanej przez dyrektora oddziału wojewódzkiego Funduszu, w której świadczeniobiorca uzyska informację o możliwości udzielenia świadczenia opieki zdrowotnej przez innych świadczeniodawców, którzy zawarli umowę z tym oddziałem, średnim czasie oczekiwania na dane świadczenie opieki zdrowotnej oraz o pierwszym wolnym terminie udzielenia świadczenia; ” ,
 b)
 uchyla się § 41a.
 § 2.
@@ -62,6 +57,5 @@ postanowienia o zwrocie środków określonych w pkt 1, w przypadku ich nieprzez
 § 3.
 Do trybu oraz sposobu podziału środków przekazanych w drodze zmiany umowy, o której mowa w § 2 ust. 4 niniejszego rozporządzenia, stosuje się odpowiednio przepisy § 2 ust. 4–8 rozporządzenia, o którym mowa w § 2 ust. 4 pkt 1 niniejszego rozporządzenia.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2017 r. poz. 1809, z 2018 r. poz. 1373, 1682 i 2364 oraz z 2019 r. poz. 34 i 1335.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2017 r. poz. 1809, z 2018 r. poz. 1373, 1682 i 2364 oraz z 2019 r. poz. 34 i 1335.
 

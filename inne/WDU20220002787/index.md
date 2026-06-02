@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 22 grudnia 2022 r. w sprawie wysokości wpłaty lotniczej w 2023 r.
+# Rozporządzenie Ministra Infrastrukturyz dnia 22 grudnia 2022 r. w sprawie wysokości wpłaty lotniczej w 2023 r. Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-22 |
 | Data wydania | 2022-12-28 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002787) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2787/text.pdf) |
 
@@ -33,6 +32,5 @@ Rozporządzenie określa wysokość wpłaty z tytułu kosztów realizowania prze
 § 2.
 Wysokość wpłaty lotniczej na rok 2023 wynosi 13 871 823 zł.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 

@@ -22,26 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-29 |
 | Data wydania | 2014-01-13 |
-| Wejście w życie | 2014-01-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000055) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/55/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 95 § 4 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, 765 i 1247) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 listopada 2003 r. w sprawie wykroczeń, za które strażnicy straży gminnych są uprawnieni do nakładania grzywien w drodze mandatu karnego (Dz. U. Nr 208, poz. 2026, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 listopada 2003 r. w sprawie wykroczeń, za które strażnicy straży gminnych są uprawnieni do nakładania grzywien w drodze mandatu karnego (Dz. U. Nr 208, poz. 2026, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 105, poz. 674 i Nr 191, poz. 1176, z 2009 r. Nr 131, poz. 1083, z 2010 r. Nr 217, poz. 1434, z 2011 r. Nr 36, poz. 190, Nr 158, poz. 944 i Nr 259, poz. 1554 oraz z 2012 r. poz. 939.) wprowadza się następujące zmiany:
 1)
-w § 2 w ust. 1 pkt 10 otrzymuje brzmienie:
-„
+w § 2 w ust. 1 pkt 10 otrzymuje brzmienie: „
 10)
-art. 174 ust. 3, art. 175, art. 177, art. 188 oraz w art. 191 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, 888 i 1238);
-” ;
+art. 174 ust. 3, art. 175, art. 177, art. 188 oraz w art. 191 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, 888 i 1238); ” ;
 2)
-w § 3 po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+w § 3 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Upoważnienie do nakładania grzywien w drodze mandatu karnego komendantom straży gminnych (miejskich) wydaje, na imienny wniosek komendanta straży gminnej (miejskiej), właściwy wójt (burmistrz, prezydent miasta).
-” .
+Upoważnienie do nakładania grzywien w drodze mandatu karnego komendantom straży gminnych (miejskich) wydaje, na imienny wniosek komendanta straży gminnej (miejskiej), właściwy wójt (burmistrz, prezydent miasta). ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 105, poz. 674 i Nr 191, poz. 1176, z 2009 r. Nr 131, poz. 1083, z 2010 r. Nr 217, poz. 1434, z 2011 r. Nr 36, poz. 190, Nr 158, poz. 944 i Nr 259, poz. 1554 oraz z 2012 r. poz. 939.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-18 |
 | Data wydania | 2021-06-21 |
-| Wejście w życie | 2021-06-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001101) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1101/text.pdf) |
 
@@ -114,5 +113,5 @@ Przepisy § 5, z wyjątkiem pkt 6, oraz § 8 ust. 1, stosuje się odpowiednio.
 § 10.
 Podmiot obowiązany zapewnia, aby dostęp do danych i treści, o których mowa w § 8 ust. 1, był możliwy wyłącznie dla osób przez niego upoważnionych do wykonania tych obowiązków i w celu ich wykonania.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 22 czerwca 2021 r.
+Rozporządzenie wchodzi w życie z dniem 22 czerwca 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 28 kwietnia 2004 r. w sprawie sposobu technicznego przygotowania systemów i sieci służących do przekazywania informacji – do gromadzenia wykazów połączeń telefonicznych i innych przekazów informacji oraz sposobów zabezpieczania danych informatycznych (Dz. U. poz. 1023), które traci moc z dniem 22 czerwca 2021 r. na podstawie art. 3 pkt 3 ustawy z dnia 20 kwietnia 2021 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 1023). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 28 kwietnia 2004 r. w sprawie sposobu technicznego przygotowania systemów i sieci służących do przekazywania informacji – do gromadzenia wykazów połączeń telefonicznych i innych przekazów informacji oraz sposobów zabezpieczania danych informatycznych (Dz. U. poz. 1023), które traci moc z dniem 22 czerwca 2021 r. na podstawie art. 3 pkt 3 ustawy z dnia 20 kwietnia 2021 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 1023).
 

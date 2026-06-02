@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-03-18 |
 | Data wydania | 2013-04-08 |
-| Wejście w życie | 2013-05-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000434) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/434/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 19 ust. 5 ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2006 r. Nr 17, poz. 127, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 19 ust. 5 ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2006 r. Nr 17, poz. 127, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 171, poz. 1225, z 2007 r. Nr 64, poz. 429, z 2008 r. Nr 145, poz. 916 i Nr 214, poz. 1346, z 2010 r. Nr 47, poz. 278 i Nr 81, poz. 528 oraz z 2011 r. Nr 106, poz. 622.) zarządza się, co następuje:
 § 1.
 1.
 Projekt technologiczny zakładu, w którym ma być prowadzona działalność w zakresie produkcji produktów pochodzenia zwierzęcego, zwanego dalej „zakładem”, składa się z:
@@ -88,5 +87,5 @@ Do projektów technologicznych zakładów przesłanych wraz z wnioskiem o zatwie
 § 6.
 Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 marca 2006 r. w sprawie wymagań, jakim powinien odpowiadać projekt technologiczny zakładu, w którym ma być prowadzona działalność w zakresie produkcji produktów pochodzenia zwierzęcego (Dz. U. Nr 59, poz. 415 oraz z 2007 r. Nr 204, poz. 1477).
 § 7.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 171, poz. 1225, z 2007 r. Nr 64, poz. 429, z 2008 r. Nr 145, poz. 916 i Nr 214, poz. 1346, z 2010 r. Nr 47, poz. 278 i Nr 81, poz. 528 oraz z 2011 r. Nr 106, poz. 622.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 lutego 2020 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Zalesianie gruntów rolnych oraz zalesianie gruntów innych niż rolne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 lutego 2020 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Zalesianie gruntów rolnych oraz zalesianie gruntów innych niż rolne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-02-07 |
 | Data wydania | 2020-02-19 |
-| Wejście w życie | 2020-03-05 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000270) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/270/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 29 ust. 1 pkt 1 i ust. 1a pkt 2 i 3 ustawy z dnia 7 marca 2007
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 19 marca 2009 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Zalesianie gruntów rolnych oraz zalesianie gruntów innych niż rolne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2016 r. poz. 153 i 322, z 2017 r. poz. 2052 oraz z 2018 r. poz. 1068) wprowadza się następujące zmiany:
 1)
-w § 9 w ust. 3 pkt 1 otrzymuje brzmienie:
-„
+w § 9 w ust. 3 pkt 1 otrzymuje brzmienie: „
 1)
-numer identyfikacyjny wnioskodawcy nadany w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, który może być wykorzystany do ubiegania się o pomoc na zalesianie;
-” ;
+numer identyfikacyjny wnioskodawcy nadany w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, który może być wykorzystany do ubiegania się o pomoc na zalesianie; ” ;
 2)
 w § 13 w ust. 6a wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku pomocy na zalesianie gruntów rolnych do wniosku o wypłatę rolnik dołącza materiał graficzny, o którym mowa w art. 72 ust. 3 rozporządzenia nr 1306/2013, w którym wskazuje granice działek rolnych, w tym niezgłoszonych do tej pomocy, oraz zaznacza znajdujące się na posiadanych użytkach rolnych: ” ;
 3)
@@ -45,11 +42,9 @@ Do wypłaty pomocy finansowej w ramach działania „Zalesianie gruntów rolnych
 1)
 wszczętymi i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszego rozporządzenia,
 2)
-zakończonymi ostateczną decyzją wydaną na podstawie przepisów dotychczasowych, które zostały wznowione od dnia wejścia w życie niniejszego rozporządzenia
-stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+zakończonymi ostateczną decyzją wydaną na podstawie przepisów dotychczasowych, które zostały wznowione od dnia wejścia w życie niniejszego rozporządzenia – stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3.
 Do zwrotu pomocy finansowej w ramach działania „Zalesianie gruntów rolnych oraz zalesianie gruntów innych niż rolne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 z tytułu zdarzeń, które nastąpiły przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258).
 

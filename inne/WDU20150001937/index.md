@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-11-09 |
 | Data wydania | 2015-11-23 |
-| Wejście w życie | 2017-11-13 |
 | Ostatnia zmiana | 2020-02-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001937) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1937/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 80ch ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 80ch ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970 oraz z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1359, 1649, 1830, 1844 i 1893.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -53,5 +52,5 @@ Informacja o wysokości opłaty za udostępnienie danych do celów komercyjnych 
 2.
 Opłatę wnosi się w terminie 7 dni od dnia udostępnienia danych do celów komercyjnych i niekomercyjnych z ewidencji.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 4 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 4 stycznia 2016 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970 oraz z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1359, 1649, 1830, 1844 i 1893.
 

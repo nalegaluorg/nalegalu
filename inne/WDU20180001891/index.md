@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Energiiz dnia 27 września 2018 r. w sprawie sposobu pobierania próbek paliw stałych
+# Rozporządzenie Ministra Energiiz dnia 27 września 2018 r. w sprawie sposobu pobierania próbek paliw stałych Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-27 |
 | Data wydania | 2018-10-04 |
-| Wejście w życie | 2018-11-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001891) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1891/text.pdf) |
 
@@ -33,8 +32,7 @@ Na podstawie art. 19b ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania
 § 1.
 Sposób pobierania próbek paliw stałych określa załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
 Załącznik – Sposób pobierania próbek paliw stałych
 1.
 Objaśnienia:
@@ -79,7 +77,8 @@ Sposób pobierania próbek pierwotnych określa PN-ISO 18283:2008 pkt 5 dla pali
 3.2.
 Minimalną masę próbki pierwotnej ustala się zgodnie z pkt 4.4.9 normy PN-ISO 18283:2008 dla paliw stałych otrzymywanych w procesie przeróbki termicznej węgla kamiennego i brunatnego lub zgodnie ze wzorem określonym w pkt 5.1 normy PN-G-04502:2014–11 dla pozostałych rodzajów paliw stałych.
 3.3.
-Ustalając minimalną masę próbki pierwotnej, przyjmuje się jako wielkość największego ziarna w badanej partii paliwa stałego oraz wartość maksymalną wymiaru ziarna określoną dla danego sortymentu paliwa stałego zgodnie z poniższą tabelą. Rodzaj paliwa stałego* Górny wymiar ziarna mm Kęsy, kostka, kostka I, kostka II 200,00 Orzech, orzech I, orzech II 80,00 Groszek, groszek I, groszek II 40,00 Ekogroszek 31,50 Ekomiał 31,50 Miał I, miał II, miał III 31,50 Antracyt 200,00 Paliwa stałe otrzymywane w procesie przeróbki termicznej węgla kamiennego i brunatnego 200,00 * Zgodnie z rozporządzeniem Ministra Energii z dnia 27 września 2018 r. w sprawie wymagań jakościowych dla paliw stałych (Dz. U. poz. 1890).
+Ustalając minimalną masę próbki pierwotnej, przyjmuje się jako wielkość największego ziarna w badanej partii paliwa stałego oraz wartość maksymalną wymiaru ziarna określoną dla danego sortymentu paliwa stałego zgodnie z poniższą tabelą.
+Rodzaj paliwa stałego* Górny wymiar ziarna mm Kęsy, kostka, kostka I, kostka II 200,00 Orzech, orzech I, orzech II 80,00 Groszek, groszek I, groszek II 40,00 Ekogroszek 31,50 Ekomiał 31,50 Miał I, miał II, miał III 31,50 Antracyt 200,00 Paliwa stałe otrzymywane w procesie przeróbki termicznej węgla kamiennego i brunatnego 200,00 * Zgodnie z rozporządzeniem Ministra Energii z dnia 27 września 2018 r. w sprawie wymagań jakościowych dla paliw stałych (Dz. U. poz. 1890).
 3.4.
 Minimalną liczbę próbek pierwotnych z partii paliwa stałego określa się zgodnie z PN-ISO 18283:2008 pkt 4.4.10 dla paliw stałych otrzymywanych w procesie przeróbki termicznej węgla kamiennego i brunatnego lub zgodnie z pkt 5.2.1 albo wzorem określonym w pkt 5.2.2 normy PN-G-04502:2014–11 dla pozostałych rodzajów paliw stałych.
 4.

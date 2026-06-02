@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-21 |
 | Data wydania | 2017-06-12 |
-| Wejście w życie | 2017-07-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001133) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1133/text.pdf) |
 
@@ -45,7 +44,7 @@ source: "eli-html"
 - **2)** listę wspólników z podaniem nazwiska i imienia lub firmy (nazwy) oraz liczby i wartości nominalnej udziałów każdego z nich, opatrzoną przez każdego z członków zarządu kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP;
 - **3)** oświadczenie wszystkich członków zarządu opatrzone przez każdego z nich kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP, że wkłady pieniężne na pokrycie kapitału zakładowego zostały przez wszystkich wspólników w całości wniesione, jeżeli wkłady zostały wniesione najpóźniej w chwili zgłoszenia spółki. ” .
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768 i 933.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6943: uchyla się § 31, § 4 otrzymuje brzmienie: „
     - **a)**
@@ -60,7 +59,7 @@ source: "eli-html"
 **Art. 4.** Do wniosków o wpis do Krajowego Rejestru Sądowego spółki z ograniczoną odpowiedzialnością, której umowa została zawarta przy wykorzystaniu wzorca umowy udostępnionego w systemie teleinformatycznym przed dniem wejścia w życie niniejszej ustawy:
 
 - **1)** złożonych i nierozpoznanych przed dniem wejścia w życie niniejszej ustawy albo
-- **2)** złożonych po wejściu w życie niniejszej ustawy, ale dotyczących spółki, której umowa w chwili złożenia wniosku nie uległa rozwiązaniu zgodnie z art. 169 ustawy zmienianej w art. 1 stosuje się przepisy art. 6943§ 31 ustawy zmienianej w art. 2 oraz art. 19 ust. 2b ustawy zmienianej w art. 3 w brzmieniu dotychczasowym.
+- **2)** złożonych po wejściu w życie niniejszej ustawy, ale dotyczących spółki, której umowa w chwili złożenia wniosku nie uległa rozwiązaniu zgodnie z art. 169 ustawy zmienianej w art. 1 – stosuje się przepisy art. 6943§ 31 ustawy zmienianej w art. 2 oraz art. 19 ust. 2b ustawy zmienianej w art. 3 w brzmieniu dotychczasowym.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768 i 933.
 

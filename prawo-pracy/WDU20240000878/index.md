@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 maja 2024 r. o zmianie ustawy – Kodeks pracy
+# Ustawa z dnia 23 maja 2024 r. o zmianie ustawy – Kodeks pracy Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2022/431 z dnia 9 marca 2022 r. zmieniającą dyrektywę 2004/37/WE w sprawie ochrony pracowników przed zagrożeniem dotyczącym narażenia na działanie czynników rakotwórczych lub mutagenów podczas pracy (Dz. Urz. UE L 88 z 16.03.2022, str. 1 oraz Dz. Urz. UE L 2023/90090 z 14.11.2023).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-23 |
 | Data wydania | 2024-06-14 |
-| Wejście w życie | 2024-06-29 |
 | Ostatnia zmiana | 2025-03-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000878) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/878/text.pdf) |
 
@@ -45,9 +44,9 @@ source: "eli-html"
 - **3)** sposób prowadzenia rejestru pracowników zatrudnionych przy pracach, o których mowa w pkt 2,
 - **4)** wzory dokumentów dotyczących poziomu narażenia pracowników na substancje chemiczne, ich mieszaniny, czynniki lub procesy technologiczne o działaniu rakotwórczym, mutagennym lub reprotoksycznym oraz sposób przechowywania i przekazywania tych dokumentów do podmiotów właściwych do rozpoznawania lub stwierdzania chorób zawodowych,
 - **5)** szczegółowe warunki ochrony pracowników przed zagrożeniami spowodowanymi przez substancje chemiczne, ich mieszaniny, czynniki lub procesy technologiczne o działaniu rakotwórczym, mutagennym lub reprotoksycznym,
-- **6)** warunki i sposób monitorowania stanu zdrowia pracowników zatrudnionych przy pracach, których wykonywanie powoduje konieczność pozostawania w kontakcie z substancjami chemicznymi, ich mieszaninami, czynnikami lub procesami technologicznymi o działaniu rakotwórczym, mutagennym lub reprotoksycznym uwzględniając zróżnicowane właściwości substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym, ich zastosowanie oraz konieczność podjęcia niezbędnych środków zabezpieczających przed zagrożeniami wynikającymi z ich stosowania. ” .
+- **6)** warunki i sposób monitorowania stanu zdrowia pracowników zatrudnionych przy pracach, których wykonywanie powoduje konieczność pozostawania w kontakcie z substancjami chemicznymi, ich mieszaninami, czynnikami lub procesami technologicznymi o działaniu rakotwórczym, mutagennym lub reprotoksycznym – uwzględniając zróżnicowane właściwości substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym, ich zastosowanie oraz konieczność podjęcia niezbędnych środków zabezpieczających przed zagrożeniami wynikającymi z ich stosowania. ” .
 
 **Art. 2.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 222 § 3 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 222 § 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 30 dni od dnia wejścia w życie ustawy.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2022/431 z dnia 9 marca 2022 r. zmieniającą dyrektywę 2004/37/WE w sprawie ochrony pracowników przed zagrożeniem dotyczącym narażenia na działanie czynników rakotwórczych lub mutagenów podczas pracy (Dz. Urz. UE L 88 z 16.03.2022, str. 1 oraz Dz. Urz. UE L 2023/90090 z 14.11.2023).
 

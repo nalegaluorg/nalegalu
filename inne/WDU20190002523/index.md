@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-11-21 |
 | Data wydania | 2019-12-27 |
-| Wejście w życie | 2020-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002523) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2523/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2019 r. poz. 864, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2019 r. poz. 864, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1123, 1495, 1501, 1520, 1556 i 2116.) wprowadza się następujące zmiany:
 
 - **1)** w art. 93 ust. 4 otrzymuje brzmienie: „
 
@@ -72,5 +71,5 @@ source: "eli-html"
 
 5. W przypadku produkcji, o której mowa w ust. 1, niezgodnej z art. 47, stawka akcyzy na wyroby nowatorskie wynosi 155,79 zł za każdy kilogram i 32,05% trzykrotności średniej ważonej detalicznej ceny sprzedaży tytoniu do palenia. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2020 r.
+**Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2020 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1123, 1495, 1501, 1520, 1556 i 2116.
 

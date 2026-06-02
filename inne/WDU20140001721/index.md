@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-20 |
 | Data wydania | 2014-12-04 |
-| Wejście w życie | 2014-12-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001721) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1721/text.pdf) |
 
@@ -33,33 +32,27 @@ W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca
 1)
 w § 3:
 a)
-w ust. 1 w pkt 8 kropkę zastępuje się przecinkiem i dodaje się pkt 9 i 10 w brzmieniu:
-„
+w ust. 1 w pkt 8 kropkę zastępuje się przecinkiem i dodaje się pkt 9 i 10 w brzmieniu: „
 9)
 dziecku małżonka funkcjonariusza w przypadku korzystania ze zwolnienia od zajęć służbowych z powodu konieczności osobistego sprawowania opieki nad nim,
 10)
-pozostawaniu we wspólnym gospodarstwie domowym z członkiem rodziny w przypadku korzystania ze zwolnienia od zajęć służbowych z powodu konieczności osobistego sprawowania opieki nad nim, o ile fakt ten nie jest znany przełożonemu właściwemu w sprawach osobowych na podstawie innej dokumentacji służbowej.
-” ,
+pozostawaniu we wspólnym gospodarstwie domowym z członkiem rodziny w przypadku korzystania ze zwolnienia od zajęć służbowych z powodu konieczności osobistego sprawowania opieki nad nim, o ile fakt ten nie jest znany przełożonemu właściwemu w sprawach osobowych na podstawie innej dokumentacji służbowej. ” ,
 b)
 w ust. 1a wprowadzenie do wyliczenia otrzymuje brzmienie: „ Funkcjonariusz jest obowiązany dostarczyć do komórki organizacyjnej właściwej w sprawach kadr aktualne zdjęcie, przedstawiające go w mundurze wyjściowym, niezwłocznie po: ” ;
 2)
 w § 7 uchyla się ust. 6–8;
 3)
-w § 8 ust. 3 otrzymuje brzmienie:
-„
+w § 8 ust. 3 otrzymuje brzmienie: „
 3.
-Za dzieci, w rozumieniu ust. 1, uważa się dzieci własne, dzieci małżonka, dzieci przysposobione i dzieci przyjęte na wychowanie i utrzymanie.
-” ;
+Za dzieci, w rozumieniu ust. 1, uważa się dzieci własne, dzieci małżonka, dzieci przysposobione i dzieci przyjęte na wychowanie i utrzymanie. ” ;
 4)
 uchyla się § 9 i 10;
 5)
 uchyla się § 12;
 6)
-§ 16 otrzymuje brzmienie:
-„
+§ 16 otrzymuje brzmienie: „
 § 16.
-Zwolnień od zajęć służbowych, o których mowa w § 8, 11, 13, 14 ust. 1 i 3 i w § 15, udziela bezpośredni przełożony funkcjonariusza.
-” .
+Zwolnień od zajęć służbowych, o których mowa w § 8, 11, 13, 14 ust. 1 i 3 i w § 15, udziela bezpośredni przełożony funkcjonariusza. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

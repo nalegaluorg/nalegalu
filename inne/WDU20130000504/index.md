@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 18 kwietnia 2013 r. w sprawie rozwiązań technicznych, jakie powinny być zastosowane podczas wykonywania zabiegów z zastosowaniem środków ochrony roślin przy użyciu sprzętu agrolotniczego
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 18 kwietnia 2013 r. w sprawie rozwiązań technicznych, jakie powinny być zastosowane podczas wykonywania zabiegów z zastosowaniem środków ochrony roślin przy użyciu sprzętu agrolotniczego Rozporządzenie wdraża art. 9 ust. 2 lit. f dyrektywy Parlamentu Europejskiego i Rady 2009/128/WE z dnia 21 października 2009 r. ustanawiającej ramy wspólnotowego działania na rzecz zrównoważonego stosowania pestycydów (Dz. Urz. UE L 309 z 24.11.2009, str. 71).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-04-18 |
 | Data wydania | 2013-04-26 |
-| Wejście w życie | 2013-05-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000504) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/504/text.pdf) |
 
@@ -43,6 +42,5 @@ zapis toru lotu statku powietrznego w trakcie zabiegu oraz zapis informacji doty
 2)
 umożliwiające rozpoczęcie oraz zakończenie oprysku z powietrza cieczą użytkową w każdym czasie lotu statku powietrznego.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-2) Rozporządzenie wdraża art. 9 ust. 2 lit. f dyrektywy Parlamentu Europejskiego i Rady 2009/128/WE z dnia 21 października 2009 r. ustanawiającej ramy wspólnotowego działania na rzecz zrównoważonego stosowania pestycydów (Dz. Urz. UE L 309 z 24.11.2009, str. 71).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Rozporządzenie wdraża art. 9 ust. 2 lit. f dyrektywy Parlamentu Europejskiego i Rady 2009/128/WE z dnia 21 października 2009 r. ustanawiającej ramy wspólnotowego działania na rzecz zrównoważonego stosowania pestycydów (Dz. Urz. UE L 309 z 24.11.2009, str. 71).
 

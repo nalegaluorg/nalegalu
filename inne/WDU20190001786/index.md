@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 5 września 2019 r. w sprawie warunków i trybu udzielania pomocy publicznej i pomocy de minimis za pośrednictwem Agencji Badań Medycznych
+# Rozporządzenie Ministra Zdrowiaz dnia 5 września 2019 r. w sprawie warunków i trybu udzielania pomocy publicznej i pomocy de minimis za pośrednictwem Agencji Badań Medycznych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-05 |
 | Data wydania | 2019-09-19 |
-| Wejście w życie | 2019-10-04 |
 | Ostatnia zmiana | 2025-05-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001786) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1786/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Pomoc publiczna na badania podstawowe, badania przemysłowe, prace rozwojowe oraz studia wykonalności Rozdział 3 – Pomoc publiczna na pokrycie kosztów usług doradczych Rozdział 4 – Pomoc szkoleniowa Rozdział 5 – Pomoc publiczna na wspieranie innowacyjności Rozdział 6 – Pomoc publiczna dla przedsiębiorców rozpoczynających działalność badawczo-rozwojową Rozdział 7 – Przepisy końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 24 ust. 2 ustawy z dnia 21 lutego 2019 r. o Agencji Badań Medycznych (Dz. U. poz. 447) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa warunki i tryb udzielania pomocy publicznej i pomocy de minimis za pośrednictwem Agencji Badań Medycznych, zwanej dalej „Agencją”, w tym przeznaczenie pomocy, rodzaje kosztów kwalifikujących się do objęcia pomocą, zwanych dalej „kosztami kwalifikowalnymi”, sposób kumulowania pomocy oraz maksymalne wielkości pomocy.
 2.
-Do pomocy, o której mowa w ust. 1, mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”, oraz rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1), zwanego dalej „rozporządzeniem nr 1407/2013”.
+Do pomocy, o której mowa w ust. 1, mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 7.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28., zwanego dalej „rozporządzeniem nr 651/2014”, oraz rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1), zwanego dalej „rozporządzeniem nr 1407/2013”.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -168,6 +168,7 @@ koszty opracowania studium wykonalności;
 dodatkowe koszty ogólne ponoszone bezpośrednio w związku z wykonywaniem czynności objętych projektem; przy czym koszty te uznaje się do wysokości 15% całkowitych kosztów kwalifikowalnych projektu.
 § 9.
 Pomoc de minimis na wsparcie komercjalizacji wyników badań naukowych i prac rozwojowych, studium wykonalności oraz innych form ich transferu do gospodarki nie może przekroczyć 90% wartości kosztów kwalifikowalnych.
+Pomoc publiczna na badania podstawowe, badania przemysłowe, prace rozwojowe oraz studia wykonalności
 § 10.
 Pomoc publiczna na badania podstawowe, badania przemysłowe, prace rozwojowe oraz studia wykonalności jest udzielana, jeżeli są spełnione łącznie następujące warunki:
 1)
@@ -211,7 +212,8 @@ Intensywność pomocy publicznej w przypadku badań przemysłowych i prac rozwoj
 3.
 Intensywność pomocy publicznej na studium wykonalności można zwiększyć zgodnie z zasadą określoną w art. 25 ust. 7 rozporządzenia 651/2014.
 § 13.
-W przypadku projektu generującego dochód po jego ukończeniu, na realizację którego została udzielona pomoc publiczna na badania podstawowe, badania przemysłowe, prace rozwojowe oraz studia wykonalności na rzecz dużego przedsiębiorcy w wielkości przekraczającej równowartość 1 000 000 euro, wielkość udzielonej pomocy podlega weryfikacji na podstawie art. 61 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.).
+W przypadku projektu generującego dochód po jego ukończeniu, na realizację którego została udzielona pomoc publiczna na badania podstawowe, badania przemysłowe, prace rozwojowe oraz studia wykonalności na rzecz dużego przedsiębiorcy w wielkości przekraczającej równowartość 1 000 000 euro, wielkość udzielonej pomocy podlega weryfikacji na podstawie art. 61 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 7.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5 oraz Dz. Urz. UE L 123 z 10.05.2019, str. 1..
+Pomoc publiczna na pokrycie kosztów usług doradczych
 § 14.
 Pomoc publiczna na pokrycie kosztów usług doradczych jest udzielana mikro-, małemu lub średniemu przedsiębiorcy, który:
 1)
@@ -228,6 +230,7 @@ niemających charakteru ciągłego ani okresowego;
 niezwiązanych ze zwykłymi kosztami operacyjnymi przedsiębiorcy, takimi jak stałe usługi doradztwa podatkowego, regularne usługi prawnicze lub reklama.
 § 16.
 Intensywność pomocy publicznej na pokrycie kosztów usług doradczych nie przekracza 50% kosztów kwalifikowalnych.
+Pomoc szkoleniowa
 § 17.
 1.
 Pomocy szkoleniowej nie przyznaje się na szkolenia, o których mowa w art. 31 ust. 2 rozporządzenia nr 651/2014.
@@ -249,6 +252,7 @@ Intensywność pomocy można zwiększyć maksymalnie do 70% kosztów kwalifikowa
 o 10 punktów procentowych w przypadku szkoleń dla pracowników niepełnosprawnych lub znajdujących się w szczególnie niekorzystnej sytuacji;
 2)
 o 10 punktów procentowych w przypadku pomocy na rzecz średniego przedsiębiorstwa i o 20 punktów procentowych w przypadku pomocy na rzecz małego przedsiębiorstwa.
+Pomoc publiczna na wspieranie innowacyjności
 § 18.
 Pomoc publiczna na wspieranie innowacyjności jest udzielana mikro-, małemu lub średniemu przedsiębiorcy.
 § 19.
@@ -264,6 +268,7 @@ usług doradczych w zakresie innowacji w rozumieniu art. 2 pkt 94 rozporządzeni
 Intensywność pomocy publicznej na wspieranie innowacyjności nie przekracza 50% kosztów kwalifikowalnych.
 2.
 Intensywność pomocy publicznej na wspieranie innowacyjności przeznaczonej na pokrycie kosztów usług doradczych w zakresie innowacji i usług wsparcia innowacji może zostać zwiększona do 100% kosztów kwalifikowalnych pod warunkiem, że całkowita wartość tej pomocy nie przekroczy równowartości 200 000 euro dla jednego przedsiębiorcy w okresie trzech lat poprzedzających dzień udzielenia tej pomocy.
+Pomoc publiczna dla przedsiębiorców rozpoczynających działalność badawczo-rozwojową
 § 21.
 Za przedsiębiorców kwalifikujących się do otrzymania pomocy uznaje się przedsiębiorców, o których mowa w art. 22 ust. 2 rozporządzenia nr 651/2014.
 § 22.
@@ -298,25 +303,39 @@ b)
 kombinacji form, o których mowa w pkt 1–3, pod warunkiem że odsetek kwoty przyznanej w jednej formie, obliczony na podstawie maksymalnej wielkości pomocy publicznej dopuszczalnej dla tej formy, jest uwzględniony przy ustalaniu pozostałego odsetka maksymalnej wielkości pomocy publicznej udzielanej w innych formach wchodzących w skład kombinacji.
 § 23.
 Dla małych przedsiębiorców spełniających kryteria innowacyjnego przedsiębiorstwa w rozumieniu art. 2 pkt 80 rozporządzenia nr 651/2014 maksymalne wartości pomocy publicznej, o których mowa w § 22, mogą ulec podwojeniu.
+Przepisy końcowe
 § 24.
 Pomoc publiczna może być udzielana w okresie obowiązywania rozporządzenia 651/2014.
 § 25.
 Pomoc de minimis może być udzielana w okresie obowiązywania rozporządzenia 1407/2013.
 § 26.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 7.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 7.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5 oraz Dz. Urz. UE L 123 z 10.05.2019, str. 1.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 7.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 7.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5 oraz Dz. Urz. UE L 123 z 10.05.2019, str. 1.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Pomoc publiczna na badania podstawowe, badania przemysłowe, prace rozwojowe oraz studia wykonalności
+#### Rozdział 2 – Pomoc publiczna na badania podstawowe, badania przemysłowe, prace rozwojowe oraz studia wykonalności
 
-#### Rozdział 3 Pomoc publiczna na pokrycie kosztów usług doradczych
+#### Rozdział 3 – Pomoc publiczna na pokrycie kosztów usług doradczych
 
-#### Rozdział 4 Pomoc szkoleniowa
+#### Rozdział 4 – Pomoc szkoleniowa
 
-#### Rozdział 5 Pomoc publiczna na wspieranie innowacyjności
+#### Rozdział 5 – Pomoc publiczna na wspieranie innowacyjności
 
-#### Rozdział 6 Pomoc publiczna dla przedsiębiorców rozpoczynających działalność badawczo-rozwojową
+#### Rozdział 6 – Pomoc publiczna dla przedsiębiorców rozpoczynających działalność badawczo-rozwojową
 
-#### Rozdział 7 Przepisy końcowe
+#### Rozdział 7 – Przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
 

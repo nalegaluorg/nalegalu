@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-07-15 |
 | Data wydania | 2011-08-16 |
-| Wejście w życie | 2011-08-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111681005) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1005/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. Nr 92, poz. 879, z późn. zm.) art. 31 otrzymuje brzmienie: „
+**Art. 1.** W ustawie z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. Nr 92, poz. 879, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 180, poz. 1497, z 2007 r. Nr 99, poz. 661 i Nr 192, poz. 1381, z 2009 r. Nr 79, poz. 670, z 2010 r. Nr 43, poz. 246 oraz z 2011 r. Nr 5, poz. 13.) art. 31 otrzymuje brzmienie: „
 
 **Art. 31.**
 
@@ -45,12 +44,12 @@ source: "eli-html"
 
 4. Przepisy ust. 1–3 stosuje się odpowiednio do kierowcy niezatrudnionego przez przedsiębiorcę, lecz wykonującego osobiście przewozy na jego rzecz, oraz do przedsiębiorcy osobiście wykonującego przewozy drogowe. ” .
 
-**Art. 2.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 192, poz. 1381, z 2008 r. Nr 218, poz. 1391, Nr 227, poz. 1505 i Nr 234, poz. 1574, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 86, poz. 720 i Nr 98, poz. 817, z 2010 r. Nr 43, poz. 246, Nr 164, poz. 1107, Nr 225, poz. 1466, Nr 247, poz. 1652 i Nr 249, poz. 1656 oraz z 2011 r. Nr 5, poz. 13, Nr 30, poz. 151, Nr 48, poz. 247, Nr 92, poz. 530, Nr 106, poz. 622, Nr 134, poz. 780 i Nr 159, poz. 945.) wprowadza się następujące zmiany:
 
-- **1)** w art. 87 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podczas wykonywania przewozu drogowego kierowca pojazdu samochodowego, z zastrzeżeniem ust. 4, jest obowiązany mieć przy sobie i okazywać, na żądanie uprawnionego organu kontroli, kartę kierowcy, zapisy urządzenia rejestrującego samoczynnie prędkość jazdy, czas jazdy i czas postoju, obowiązkowe przerwy i czas odpoczynku oraz zaświadczenie, o którym mowa w art. 31 ustawy z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. Nr 92, poz. 879, z późn. zm.), a ponadto: ” ;
+- **1)** w art. 87 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podczas wykonywania przewozu drogowego kierowca pojazdu samochodowego, z zastrzeżeniem ust. 4, jest obowiązany mieć przy sobie i okazywać, na żądanie uprawnionego organu kontroli, kartę kierowcy, zapisy urządzenia rejestrującego samoczynnie prędkość jazdy, czas jazdy i czas postoju, obowiązkowe przerwy i czas odpoczynku oraz zaświadczenie, o którym mowa w art. 31 ustawy z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. Nr 92, poz. 879, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 180, poz. 1497, z 2007 r. Nr 99, poz. 661 i Nr 192, poz. 1381, z 2009 r. Nr 79, poz. 670, z 2010 r. Nr 43, poz. 246 oraz z 2011 r. Nr 5, poz. 13 i Nr 168, poz. 1005.), a ponadto: ” ;
 - **2)** w art. 89 ust. 2 otrzymuje brzmienie: „
 
 2. Upoważnieni pracownicy, o których mowa w ust. 1 pkt 5 i 7, nie są uprawnieni do kontroli zapisów urządzenia rejestrującego samoczynnie prędkość jazdy, czas jazdy i czas postoju, obowiązkowe przerwy i czas odpoczynku oraz zaświadczenia, o którym mowa w art. 31 ustawy z dnia 16 kwietnia 2004 r. o czasie pracy kierowców. ” .
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 180, poz. 1497, z 2007 r. Nr 99, poz. 661 i Nr 192, poz. 1381, z 2009 r. Nr 79, poz. 670, z 2010 r. Nr 43, poz. 246 oraz z 2011 r. Nr 5, poz. 13. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 192, poz. 1381, z 2008 r. Nr 218, poz. 1391, Nr 227, poz. 1505 i Nr 234, poz. 1574, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 86, poz. 720 i Nr 98, poz. 817, z 2010 r. Nr 43, poz. 246, Nr 164, poz. 1107, Nr 225, poz. 1466, Nr 247, poz. 1652 i Nr 249, poz. 1656 oraz z 2011 r. Nr 5, poz. 13, Nr 30, poz. 151, Nr 48, poz. 247, Nr 92, poz. 530, Nr 106, poz. 622, Nr 134, poz. 780 i Nr 159, poz. 945. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 180, poz. 1497, z 2007 r. Nr 99, poz. 661 i Nr 192, poz. 1381, z 2009 r. Nr 79, poz. 670, z 2010 r. Nr 43, poz. 246 oraz z 2011 r. Nr 5, poz. 13 i Nr 168, poz. 1005.
 

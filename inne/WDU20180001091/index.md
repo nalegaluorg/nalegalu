@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 maja 2018 r. o zmianie ustawy o pracowniczych programach emerytalnych
+# Ustawa z dnia 10 maja 2018 r. o zmianie ustawy o pracowniczych programach emerytalnych Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/50/UE z dnia 16 kwietnia 2014 r. w sprawie minimalnych wymogów służących zwiększeniu mobilności pracowników między państwami członkowskimi dzięki łatwiejszemu nabywaniu i zachowywaniu uprawnień do dodatkowych emerytur (Dz. Urz. UE L 128 z 30.04.2014, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-10 |
 | Data wydania | 2018-06-06 |
-| Wejście w życie | 2018-06-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001091) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1091/text.pdf) |
 
@@ -82,5 +81,5 @@ source: "eli-html"
 
 2. Organ nadzoru informuje pracodawcę o dokonaniu adnotacji, o której mowa w ust. 1, w terminie 30 dni od dnia jej dokonania.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/50/UE z dnia 16 kwietnia 2014 r. w sprawie minimalnych wymogów służących zwiększeniu mobilności pracowników między państwami członkowskimi dzięki łatwiejszemu nabywaniu i zachowywaniu uprawnień do dodatkowych emerytur (Dz. Urz. UE L 128 z 30.04.2014, str. 1).
 

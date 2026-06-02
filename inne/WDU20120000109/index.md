@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-01-17 |
 | Data wydania | 2012-01-27 |
-| Wejście w życie | 2012-02-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000109) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/109/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 7 ust. 8 ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. Nr 64, poz. 592, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 7 ust. 8 ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. Nr 64, poz. 592, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 180, poz. 1112, z 2010 r. Nr 110, poz. 725 i Nr 217, poz. 1427 oraz z 2011 r. Nr 233, poz. 1382.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -323,7 +322,7 @@ zatrudnieniu w gospodarstwie rolnym na podstawie umowy o pracę lub spółdzielc
 4)
 wykonywaniu pracy związanej z prowadzeniem działalności rolniczej w charakterze członka spółdzielni produkcji rolnej – jest zaświadczenie o wykonywaniu pracy;
 5)
-odbyciu stażu, o którym mowa w art. 53 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.), obejmującego wykonywanie czynności związanych z prowadzeniem działalności rolniczej – jest zaświadczenie o odbyciu stażu.
+odbyciu stażu, o którym mowa w art. 53 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 69, poz. 595, Nr 91, poz. 742, Nr 97, poz. 800, Nr 115, poz. 964, Nr 125, poz. 1035, Nr 127, poz. 1052, Nr 161, poz. 1278 i Nr 219, poz. 1706, z 2010 r. Nr 28, poz. 146, Nr 81, poz. 531, Nr 238, poz. 1578, Nr 239, poz. 1593, Nr 254, poz. 1700 i Nr 257, poz. 1725 i 1726 oraz z 2011 r. Nr 45, poz. 235, Nr 106, poz. 622, Nr 171, poz. 1016, Nr 205, poz. 1206 i 1211 i Nr 291, poz. 1707.), obejmującego wykonywanie czynności związanych z prowadzeniem działalności rolniczej – jest zaświadczenie o odbyciu stażu.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 180, poz. 1112, z 2010 r. Nr 110, poz. 725 i Nr 217, poz. 1427 oraz z 2011 r. Nr 233, poz. 1382. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 69, poz. 595, Nr 91, poz. 742, Nr 97, poz. 800, Nr 115, poz. 964, Nr 125, poz. 1035, Nr 127, poz. 1052, Nr 161, poz. 1278 i Nr 219, poz. 1706, z 2010 r. Nr 28, poz. 146, Nr 81, poz. 531, Nr 238, poz. 1578, Nr 239, poz. 1593, Nr 254, poz. 1700 i Nr 257, poz. 1725 i 1726 oraz z 2011 r. Nr 45, poz. 235, Nr 106, poz. 622, Nr 171, poz. 1016, Nr 205, poz. 1206 i 1211 i Nr 291, poz. 1707.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-04-21 |
 | Data wydania | 2015-05-05 |
-| Wejście w życie | 2015-06-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000607) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/607/text.pdf) |
 
@@ -55,5 +54,5 @@ Kwota, o której mowa w ust. 1, jest ustalana przy zastosowaniu kursu średniego
 § 5.
 Przepisy rozporządzenia stosuje się do umów ubezpieczenia OC zawartych od dnia wejścia w życie rozporządzenia.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 28 grudnia 2009 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej osoby sporządzającej świadectwa charakterystyki energetycznej budynku, lokalu mieszkalnego lub części budynku stanowiącej samodzielną całość techniczno-użytkową (Dz. U. Nr 224, poz. 1802), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 51 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. poz. 1200 oraz z 2015 r. poz. 151). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 28 grudnia 2009 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej osoby sporządzającej świadectwa charakterystyki energetycznej budynku, lokalu mieszkalnego lub części budynku stanowiącej samodzielną całość techniczno-użytkową (Dz. U. Nr 224, poz. 1802), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 51 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. poz. 1200 oraz z 2015 r. poz. 151).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 marca 2012 r. o likwidacji delegatur terenowych ministra właściwego do spraw Skarbu Państwa
+# Ustawa z dnia 16 marca 2012 r. o likwidacji delegatur terenowych ministra właściwego do spraw Skarbu Państwa Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 września 1981 r. o przedsiębiorstwach państwowych, ustawę z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa oraz ustawę z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-03-16 |
 | Data wydania | 2012-04-27 |
-| Wejście w życie | 2012-04-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000459) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/459/text.pdf) |
 
+Zadania z zakresu wykonywania uprawnień przysługujących Skarbowi Państwa realizowane przez wojewodę
+
 **Art. 1.** Z dniem 30 kwietnia 2012 r. likwiduje się delegatury terenowe ministra właściwego do spraw Skarbu Państwa, zwane dalej „delegaturami”.
 
-**Art. 2.** W ustawie z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 2002 r. Nr 112, poz. 981, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 2002 r. Nr 112, poz. 981, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 167, poz. 1399, z 2006 r. Nr 107, poz. 721 i Nr 220, poz. 1600, z 2008 r. Nr 180, poz. 1109 oraz z 2009 r. Nr 157, poz. 1241 i Nr 219, poz. 1707.) wprowadza się następujące zmiany:
 
 - **1)** w art. 25 uchyla się ust. 1;
 - **2)** w art. 49: ust. 1 otrzymuje brzmienie: „
@@ -38,12 +39,12 @@ source: "eli-html"
 
 - **b)**
 
-**Art. 3.** W ustawie z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. Nr 106, poz. 493, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. Nr 106, poz. 493, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 106, poz. 673, Nr 115, poz. 741 i Nr 141, poz. 943, z 1998 r. Nr 155, poz. 1014, z 2000 r. Nr 48, poz. 550, z 2001 r. Nr 4, poz. 26, z 2002 r. Nr 25, poz. 253 i Nr 240, poz. 2055, z 2004 r. Nr 99, poz. 1001, Nr 123, poz. 1291 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1417 i Nr 183, poz. 1538, z 2006 r. Nr 107, poz. 721, z 2009 r. Nr 157, poz. 1241 i Nr 206, poz. 1590, z 2010 r. Nr 229, poz. 1496 oraz z 2011 r. Nr 34, poz. 171, Nr 122, poz. 695 i Nr 185, poz. 1092.) wprowadza się następujące zmiany:
 
 - **1)** uchyla się art. 7a;
 - **2)** po rozdziale 1 dodaje się rozdział 1a w brzmieniu: „
 
-#### Rozdział 1a Zadania z zakresu wykonywania uprawnień przysługujących Skarbowi Państwa realizowane przez wojewodę
+#### Rozdział 1a
 
 **Art. 7b.**
 
@@ -89,13 +90,13 @@ source: "eli-html"
 
 2. Minister właściwy do spraw Skarbu Państwa, występując z żądaniem, o którym mowa w ust. 1, określa zakres, formę i termin złożenia sprawozdania z wykonanych przez dany podmiot zadań wynikających ze spraw związanych z reprezentacją Skarbu Państwa. ” .
 
-**Art. 4.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722, z 2005 r. Nr 167, poz. 1400, Nr 169, poz. 1418, Nr 178, poz. 1479 i Nr 184, poz. 1539, z 2006 r. Nr 107, poz. 721 i Nr 208, poz. 1532, z 2008 r. Nr 180, poz. 1109, z 2009 r. Nr 13, poz. 70 i Nr 157, poz. 1241, z 2010 r. Nr 28, poz. 144, Nr 108, poz. 685, Nr 182, poz. 1228 i Nr 257, poz. 1726 oraz z 2011 r. Nr 34, poz. 171.) wprowadza się następujące zmiany:
 
 - **1)** w art. 12 w ust. 7 uchyla się pkt 3;
 - **2)** w art. 56: w ust. 1 pkt 3 otrzymuje brzmienie: „
     - **a)**
 
-- **3)** Fundusz Skarbu Państwa, na rachunku którego gromadzi się: 2% przychodów uzyskanych z prywatyzacji w danym roku budżetowym oraz odsetki od tych środków, opłaty z tytułu egzaminów na członków rad nadzorczych spółek z udziałem Skarbu Państwa oraz odsetki od tych środków, środki uzyskane przez wojewodę z tytułu wykonywania zadań, o których mowa w art. 7b ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa z przeznaczeniem na pokrycie kosztów prywa tyzacji, gospodarowania mieniem Skarbu Państwa, uzupełnienie środków brakujących na pokrycie kosztów procesów likwidacyjnych i postępowania upadłościowego, podwyższenie kapitału zakładowego spółek z udziałem Skarbu Państwa, kosztów przeprowadzania egzaminów na członków rad nadzorczych spółek z udziałem Skarbu Państwa, kosztów realizacji wykonywanych przez wojewodów zadań, o których mowa w art. 7b ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa, oraz na wykonywanie przez ministra właściwego do spraw Skarbu Państwa innych ustawowo określonych zadań, w szczególności wynikających z ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa, ” , w ust. 6 zdanie drugie otrzymuje brzmienie: „ W przypadku Funduszu, o którym mowa w ust. 1 pkt 3, rozporządzenie określi również sposób postępowania w zakresie uzupełnienia środków brakujących na pokrycie kosztów procesów likwidacyjnych i postępowania upadłościowego oraz postępowania w zakresie pokrywania i rozliczania kosztów realizacji zadań, o którym mowa w art. 7b ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa. ” .
+- **3)** Fundusz Skarbu Państwa, na rachunku którego gromadzi się: 2% przychodów uzyskanych z prywatyzacji w danym roku budżetowym oraz odsetki od tych środków, opłaty z tytułu egzaminów na członków rad nadzorczych spółek z udziałem Skarbu Państwa oraz odsetki od tych środków, środki uzyskane przez wojewodę z tytułu wykonywania zadań, o których mowa w art. 7b ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa – z przeznaczeniem na pokrycie kosztów prywa tyzacji, gospodarowania mieniem Skarbu Państwa, uzupełnienie środków brakujących na pokrycie kosztów procesów likwidacyjnych i postępowania upadłościowego, podwyższenie kapitału zakładowego spółek z udziałem Skarbu Państwa, kosztów przeprowadzania egzaminów na członków rad nadzorczych spółek z udziałem Skarbu Państwa, kosztów realizacji wykonywanych przez wojewodów zadań, o których mowa w art. 7b ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa, oraz na wykonywanie przez ministra właściwego do spraw Skarbu Państwa innych ustawowo określonych zadań, w szczególności wynikających z ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa, ” , w ust. 6 zdanie drugie otrzymuje brzmienie: „ W przypadku Funduszu, o którym mowa w ust. 1 pkt 3, rozporządzenie określi również sposób postępowania w zakresie uzupełnienia środków brakujących na pokrycie kosztów procesów likwidacyjnych i postępowania upadłościowego oraz postępowania w zakresie pokrywania i rozliczania kosztów realizacji zadań, o którym mowa w art. 7b ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa. ” .
     - **a)**
     - **b)**
     - **c)**
@@ -129,5 +130,5 @@ source: "eli-html"
 
 **Art. 8.** Przepisy wykonawcze dotyczące Funduszu Skarbu Państwa, wydane na podstawie art. 56 ust. 6 ustawy wymienionej w art. 4, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 56 ust. 6 ustawy wymienionej w art. 4, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 3 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 9.** Ustawa wchodzi w życie z dniem 30 kwietnia 2012 r., z wyjątkiem art. 7, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie z dniem 30 kwietnia 2012 r., z wyjątkiem art. 7, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 września 1981 r. o przedsiębiorstwach państwowych, ustawę z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa oraz ustawę z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 167, poz. 1399, z 2006 r. Nr 107, poz. 721 i Nr 220, poz. 1600, z 2008 r. Nr 180, poz. 1109 oraz z 2009 r. Nr 157, poz. 1241 i Nr 219, poz. 1707. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 106, poz. 673, Nr 115, poz. 741 i Nr 141, poz. 943, z 1998 r. Nr 155, poz. 1014, z 2000 r. Nr 48, poz. 550, z 2001 r. Nr 4, poz. 26, z 2002 r. Nr 25, poz. 253 i Nr 240, poz. 2055, z 2004 r. Nr 99, poz. 1001, Nr 123, poz. 1291 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1417 i Nr 183, poz. 1538, z 2006 r. Nr 107, poz. 721, z 2009 r. Nr 157, poz. 1241 i Nr 206, poz. 1590, z 2010 r. Nr 229, poz. 1496 oraz z 2011 r. Nr 34, poz. 171, Nr 122, poz. 695 i Nr 185, poz. 1092. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722, z 2005 r. Nr 167, poz. 1400, Nr 169, poz. 1418, Nr 178, poz. 1479 i Nr 184, poz. 1539, z 2006 r. Nr 107, poz. 721 i Nr 208, poz. 1532, z 2008 r. Nr 180, poz. 1109, z 2009 r. Nr 13, poz. 70 i Nr 157, poz. 1241, z 2010 r. Nr 28, poz. 144, Nr 108, poz. 685, Nr 182, poz. 1228 i Nr 257, poz. 1726 oraz z 2011 r. Nr 34, poz. 171.
 

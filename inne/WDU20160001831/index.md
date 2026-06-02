@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Sprawiedliwościz dnia 21 października 2016 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu tłumacza przysięgłego
+# Rozporządzenie Ministra Sprawiedliwościz dnia 21 października 2016 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu tłumacza przysięgłego Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115 oraz Dz. Urz. UE L 177 z 08.07.2015, str. 60).
 
 | Pole | Wartość |
 |---|---|
@@ -22,31 +22,30 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-21 |
 | Data wydania | 2016-11-14 |
-| Wejście w życie | 2016-11-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001831) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1831/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Staż adaptacyjny Rozdział 3 – Test umiejętności Rozdział 4 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
 warunki, sposób i tryb odbywania stażu adaptacyjnego, sposób i tryb wykonywania nadzoru nad jego odbywaniem oraz oceny nabytych w jego trakcie umiejętności, sposób ustalania kosztów odbywania stażu adaptacyjnego oraz tryb pobierania i zwrotu opłaty za jego odbywanie,
 2)
-warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzenia testu umiejętności oraz tryb pobierania i zwrotu opłaty za jego przeprowadzenie
-w toku postępowania o uznanie nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub w Konfederacji Szwajcarskiej kwalifikacji do wykonywania zawodu tłumacza przysięgłego, zwanego dalej „postępowaniem”.
+warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzenia testu umiejętności oraz tryb pobierania i zwrotu opłaty za jego przeprowadzenie – w toku postępowania o uznanie nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub w Konfederacji Szwajcarskiej kwalifikacji do wykonywania zawodu tłumacza przysięgłego, zwanego dalej „postępowaniem”.
 § 2.
 Minister Sprawiedliwości, zwany dalej „organem prowadzącym postępowanie”, wydaje postanowienie o konieczności:
 1)
 odbycia stażu adaptacyjnego, określając czas jego trwania, albo
 2)
-przystąpienia do testu umiejętności
-wyznaczając zakres kwalifikacji wymagających uzupełnienia, z uwzględnieniem istniejących różnic między kwalifikacjami posiadanymi przez wnioskodawcę a kwalifikacjami określonymi w przepisach dotyczących wymagań kwalifikacyjnych do wykonywania zawodu tłumacza przysięgłego w Rzeczypospolitej Polskiej, doświadczenia zawodowego wnioskodawcy oraz świadectw, dyplomów lub innych dokumentów potwierdzających kwalifikacje posiadane przez wnioskodawcę.
+przystąpienia do testu umiejętności – wyznaczając zakres kwalifikacji wymagających uzupełnienia, z uwzględnieniem istniejących różnic między kwalifikacjami posiadanymi przez wnioskodawcę a kwalifikacjami określonymi w przepisach dotyczących wymagań kwalifikacyjnych do wykonywania zawodu tłumacza przysięgłego w Rzeczypospolitej Polskiej, doświadczenia zawodowego wnioskodawcy oraz świadectw, dyplomów lub innych dokumentów potwierdzających kwalifikacje posiadane przez wnioskodawcę.
 § 3.
 Wterminie 60 dni od otrzymania postanowienia, o którym mowa w § 2, wnioskodawca występuje do organu prowadzącego postępowanie z wnioskiem o odbycie stażu adaptacyjnego albo przeprowadzenie testu umiejętności.
 § 4.
 Organ prowadzący postępowanie udostępnia w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2016 r. poz. 1764), na stronach podmiotowych tego organu wykaz literatury pomocnej przy uzupełnianiu wiedzy niezbędnej do odbywania stażu adaptacyjnego lub spełnienia wymogów testu umiejętności.
+Staż adaptacyjny
 § 5.
 1.
 Staż adaptacyjny jest odbywany u tłumacza przysięgłego, zwanego dalej „opiekunem stażu”.
@@ -175,6 +174,7 @@ W przypadku uzyskania negatywnej oceny ze stażu adaptacyjnego wnioskodawca moż
 Wniosek, o którym mowa w ust. 1, należy złożyć w terminie 30 dni od dnia otrzymania oceny, o której mowa w ust. 1.
 3.
 Do ponownego odbycia stażu adaptacyjnego stosuje się odpowiednio przepisy § 5–16.
+Test umiejętności
 § 18.
 Test umiejętności przygotowuje i przeprowadza zespół egzaminacyjny powołany przez Przewodniczącego Państwowej Komisji Egzaminacyjnej utworzonej na podstawie art. 3 ust. 1 ustawy z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego (Dz. U. z 2016 r. poz. 1222 i 1579) spośród członków lub konsultantów Państwowej Komisji Egzaminacyjnej, zwanej dalej „PKE”.
 § 19.
@@ -268,14 +268,23 @@ Wnioskodawca, przystępując do testu umiejętności, okazuje dowód uiszczenia 
 W przypadku odwołania testu umiejętności z przyczyn leżących po stronie PKE wnioskodawcy zwraca się opłatę, o której mowa w ust. 2, na wskazany przez niego rachunek bankowy albo w inny wskazany przez niego sposób.
 6.
 Jeżeli wnioskodawca nie przystąpi do testu umiejętności bez usprawiedliwienia, opłata nie podlega zwrotowi.
+Przepis końcowy
 § 32.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 9 listopada 2010 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu tłumacza przysięgłego (Dz. U. poz. 1441), które traci moc na podstawie art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115 oraz Dz. Urz. UE L 177 z 08.07.2015, str. 60). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 9 listopada 2010 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu tłumacza przysięgłego (Dz. U. poz. 1441), które traci moc na podstawie art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) z dniem wejścia w życie niniejszego rozporządzenia.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Staż adaptacyjny
+#### Rozdział 2 – Staż adaptacyjny
 
-#### Rozdział 3 Test umiejętności
+#### Rozdział 3 – Test umiejętności
+
+#### Rozdział 4 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 
 ## Część pisemna trwa 120 minut i polega na przetłumaczeniu jednego tekstu z języka polskiego na język obcy oraz tekstu z języka obcego na język polski.
 
@@ -283,5 +292,5 @@ Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
 ## Część pisemną testu umiejętności przeprowadza się w wydzielonej sali, w warunkach zapewniających samodzielną pracę osób, które do niego przystąpiły.
 
-#### Rozdział 4 Przepis końcowy
+#### Rozdział 4
 

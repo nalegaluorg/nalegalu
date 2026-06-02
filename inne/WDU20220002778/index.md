@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 15 grudnia 2022 r. w sprawie książki obiektu budowlanego oraz systemu Cyfrowa Książka Obiektu Budowlanego
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 15 grudnia 2022 r. w sprawie książki obiektu budowlanego oraz systemu Cyfrowa Książka Obiektu Budowlanego Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-15 |
 | Data wydania | 2022-12-27 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002778) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2778/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Sposób prowadzenia książki obiektu budowlanego Rozdział 3 – Wpisy w książce obiektu budowlanego Rozdział 4 – Uwierzytelnianie i autoryzacja w systemie c-KOB Rozdział 5 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 60r ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2021 r. poz. 2351, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 60r ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2021 r. poz. 2351, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 88, 1557, 1768, 1783, 1846, 2206 i 2687.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
 szczegółowy sposób prowadzenia książki obiektu budowlanego w postaci papierowej i elektronicznej, w tym dokonywania wpisów;
 2)
 szczegółowy sposób uwierzytelniania i autoryzacji w systemie Cyfrowa Książka Obiektu Budowlanego, zwanym dalej „systemem c-KOB”.
+Sposób prowadzenia książki obiektu budowlanego
 § 2.
 Książkę obiektu budowlanego oraz kolejne tomy książki obiektu budowlanego prowadzi się w sposób usystematyzowany, tak aby składały się:
 1)
@@ -200,6 +201,7 @@ Do książki obiektu budowlanego w postaci elektronicznej mogą być załączane
 Książka obiektu budowlanego w postaci elektronicznej od momentu jej założenia do zamknięcia posiada w systemie c-KOB status „otwarta”.
 2.
 Książka obiektu budowlanego w postaci elektronicznej od momentu jej zamknięcia posiada w systemie c-KOB status „zakończona”.
+Wpisy w książce obiektu budowlanego
 § 16.
 1.
 Wpisy w książce obiektu budowlanego w poszczególnych tablicach zamieszcza się w porządku chronologicznym, w sposób uniemożliwiający dokonanie uzupełnień.
@@ -226,6 +228,7 @@ imieniem i nazwiskiem osoby dokonującej wpisu;
 czytelnym podpisem osoby dokonującej wpisu w książce obiektu budowlanego w postaci papierowej lub systemowym potwierdzeniem tożsamości w książce obiektu budowlanego w postaci elektronicznej.
 § 20.
 Wpisów i aktualizacji danych zgromadzonych w książce obiektu budowlanego w postaci elektronicznej można dokonywać wyłącznie w książkach o statusie „otwarta”.
+Uwierzytelnianie i autoryzacja w systemie c-KOB
 § 21.
 1.
 Dostęp do systemu c-KOB wymaga prawidłowego przeprowadzenia procesów:
@@ -252,21 +255,30 @@ Zapewnienie:
 1)
 możliwości wprowadzania danych w systemie c-KOB, w szczególności dokonywania wpisów w książce obiektu budowlanego w postaci elektronicznej, oraz
 2)
-praw dostępu do systemu c-KOB
-następuje w procesie autoryzacji na podstawie przydzielonych uprawnień.
+praw dostępu do systemu c-KOB – następuje w procesie autoryzacji na podstawie przydzielonych uprawnień.
 § 23.
 Uwierzytelnienie użytkownika konta w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego lub w systemie c-KOB zapewnia systemowe potwierdzanie tożsamości przy dokonywaniu wpisów w książce obiektu budowlanego w postaci elektronicznej.
+Przepis końcowy
 § 24.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 88, 1557, 1768, 1783, 1846, 2206 i 2687. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 3 lipca 2003 r. w sprawie książki obiektu budowlanego (Dz. U. poz. 1134), które traci moc z dniem 1 stycznia 2023 r. w związku z wejściem w życie ustawy z dnia 7 lipca 2022 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw (Dz. U. poz. 1557).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 3 lipca 2003 r. w sprawie książki obiektu budowlanego (Dz. U. poz. 1134), które traci moc z dniem 1 stycznia 2023 r. w związku z wejściem w życie ustawy z dnia 7 lipca 2022 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw (Dz. U. poz. 1557). 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 88, 1557, 1768, 1783, 1846, 2206 i 2687. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 3 lipca 2003 r. w sprawie książki obiektu budowlanego (Dz. U. poz. 1134), które traci moc z dniem 1 stycznia 2023 r. w związku z wejściem w życie ustawy z dnia 7 lipca 2022 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw (Dz. U. poz. 1557).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Sposób prowadzenia książki obiektu budowlanego
+#### Rozdział 2 – Sposób prowadzenia książki obiektu budowlanego
 
-#### Rozdział 3 Wpisy w książce obiektu budowlanego
+#### Rozdział 3 – Wpisy w książce obiektu budowlanego
 
-#### Rozdział 4 Uwierzytelnianie i autoryzacja w systemie c-KOB
+#### Rozdział 4 – Uwierzytelnianie i autoryzacja w systemie c-KOB
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

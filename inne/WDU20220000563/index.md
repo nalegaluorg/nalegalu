@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 7 marca 2022 r. zmieniające rozporządzenie w sprawie warunków i trybu przyjmowania uczniów do publicznych szkół i publicznych placówek artystycznych oraz przechodzenia z jednych typów szkół do innych
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 7 marca 2022 r. zmieniające rozporządzenie w sprawie warunków i trybu przyjmowania uczniów do publicznych szkół i publicznych placówek artystycznych oraz przechodzenia z jednych typów szkół do innych Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1951).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-07 |
 | Data wydania | 2022-03-09 |
-| Wejście w życie | 2022-03-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000563) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/563/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 9 kwietnia 20
 1)
 w pkt 1 w lit. a wprowadzenie do wyliczenia otrzymuje brzmienie: „ w specjalnościach instrumentalistyka, instrumentalistyka jazzowa, wokalistyka, wokalistyka jazzowa i lutnictwo: ” ;
 2)
-pkt 2 otrzymuje brzmienie:
-„
+pkt 2 otrzymuje brzmienie: „
 2)
 w szkole muzycznej II stopnia:
 a)
@@ -47,6 +45,5 @@ w specjalności rytmika:
 – egzamin, o którym mowa w lit. a tiret drugim;
 ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1951).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1951).
 

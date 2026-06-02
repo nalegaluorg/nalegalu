@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-01-17 |
 | Data wydania | 2014-01-22 |
-| Wejście w życie | 2014-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000116) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/116/text.pdf) |
 
@@ -55,5 +54,5 @@ Lokaty aktywów otwartego funduszu emerytalnego, w poszczególnych kategoriach l
 12)
 10% wartości aktywów – w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 31 i 32 ustawy.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lutego 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 lutego 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 26 kwietnia 2011 r. w sprawie określenia maksymalnej części aktywów otwartego funduszu emerytalnego, jaka może zostać ulokowana w poszczególnych kategoriach lokat (Dz. U. Nr 90, poz. 516), które traci moc z dniem 1 lutego 2014 r. w związku z wejściem w życie ustawy z dnia 6 grudnia 2013 r. o zmianie niektórych ustaw w związku z określeniem zasad wypłaty emerytur ze środków zgromadzonych w otwartych funduszach emerytalnych (Dz. U. poz. 1717). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 26 kwietnia 2011 r. w sprawie określenia maksymalnej części aktywów otwartego funduszu emerytalnego, jaka może zostać ulokowana w poszczególnych kategoriach lokat (Dz. U. Nr 90, poz. 516), które traci moc z dniem 1 lutego 2014 r. w związku z wejściem w życie ustawy z dnia 6 grudnia 2013 r. o zmianie niektórych ustaw w związku z określeniem zasad wypłaty emerytur ze środków zgromadzonych w otwartych funduszach emerytalnych (Dz. U. poz. 1717).
 

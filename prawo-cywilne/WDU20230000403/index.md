@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 stycznia 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
+# Ustawa z dnia 26 stycznia 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw Niniejsza ustawa służy stosowaniu rozporządzenia Rady (UE) 2019/1111 z dnia 25 czerwca 2019 r. w sprawie jurysdykcji, uznawania i wykonywania orzeczeń w sprawach małżeńskich i w sprawach dotyczących odpowiedzialności rodzicielskiej oraz w sprawie uprowadzenia dziecka za granicę (wersja przekształcona) (Dz. Urz. UE L 178 z 02.07.2019, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-01-26 |
 | Data wydania | 2023-03-02 |
-| Wejście w życie | 2023-03-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000403) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/403/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.) wprowadza się następujące zmiany:
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, ustawę z dnia 26 stycznia 2018 r. o wykonywaniu niektórych czynności organu centralnego w sprawach rodzinnych z zakresu obrotu prawnego na podstawie prawa Unii Europejskiej i umów międzynarodowych oraz ustawę z dnia 7 lipca 2022 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw.
+Zaświadczenia dotyczące orzeczeń w sprawach małżeńskich oraz w sprawach dotyczących odpowiedzialności rodzicielskiej
+
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289 i 326.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5182 § 1 otrzymuje brzmienie: „
 
@@ -48,7 +50,7 @@ source: "eli-html"
 
 - **5)** w części trzeciej w tytule I po dziale IId dodaje się dział IIda w brzmieniu: „
 
-### Dział IIda Zaświadczenia dotyczące orzeczeń w sprawach małżeńskich oraz w sprawach dotyczących odpowiedzialności rodzicielskiej
+### Dział IIda
 
 **Art. 79511a.**
 
@@ -98,7 +100,7 @@ source: "eli-html"
 
 - **1)** strona wniosła o częściowe wykonanie orzeczenia lub
 - **2)** stwierdzono podstawy do odmowy wykonania orzeczenia co do jego części albo
-- **3)** zachodzą podstawy do określenia warunków wykonywania kontaktów z dzieckiem sąd właściwy do wykonania orzeczenia wydaje postanowienie odpowiednio w przedmiocie częściowego wykonania orzeczenia albo w przedmiocie określenia warunków wykonywania kontaktów.
+- **3)** zachodzą podstawy do określenia warunków wykonywania kontaktów z dzieckiem – sąd właściwy do wykonania orzeczenia wydaje postanowienie odpowiednio w przedmiocie częściowego wykonania orzeczenia albo w przedmiocie określenia warunków wykonywania kontaktów.
 
 § 2. Na postanowienie sądu przysługuje zażalenie. ” ;
 
@@ -110,7 +112,7 @@ source: "eli-html"
 
 - **1)** przesłanka odmowy uznania lub wykonania orzeczenia, o której mowa w art. 38, art. 39 lub art. 41 rozporządzenia nr 2019/1111 lub
 - **2)** podstawa odmowy uznania i wykonania orzeczenia, o której mowa w art. 50 rozporządzenia nr 2019/1111, lub
-- **3)** podstawa odmowy uznania lub wykonania dokumentu urzędowego lub porozumienia, o której mowa w art. 68 rozporządzenia nr 2019/1111 sąd lub organ odmawia prowadzenia postępowania na podstawie przedłożonego im orzeczenia, dokumentu urzędowego lub porozumienia objętych zakresem zastosowania tego rozporządzenia, pouczając jednocześnie wnioskodawcę o prawie do wystąpienia w trybie art. 115323 do sądu okręgowego z wnioskiem, o którym mowa w art. 115325 § 2 pkt 2.
+- **3)** podstawa odmowy uznania lub wykonania dokumentu urzędowego lub porozumienia, o której mowa w art. 68 rozporządzenia nr 2019/1111 – sąd lub organ odmawia prowadzenia postępowania na podstawie przedłożonego im orzeczenia, dokumentu urzędowego lub porozumienia objętych zakresem zastosowania tego rozporządzenia, pouczając jednocześnie wnioskodawcę o prawie do wystąpienia w trybie art. 115323 do sądu okręgowego z wnioskiem, o którym mowa w art. 115325 § 2 pkt 2.
 
 § 2. Jeżeli w trakcie postępowania wykonawczego wystąpiono do sądu okręgowego z wnioskiem o odmowę uznania lub wykonania orzeczenia, dokumentu urzędowego lub porozumienia objętych zakresem zastosowania rozporządzenia nr 2019/1111, sąd lub organ może zawiesić postępowanie prowadzone na ich podstawie do czasu prawomocnego zakończenia postępowania przed sądem okręgowym. W razie oddalenia wniosku o odmowę uznania lub wykonania orzeczenia, dokumentu urzędowego lub porozumienia objętych zakresem zastosowania rozporządzenia nr 2019/1111 postępowanie prowadzone na ich podstawie umarza się. ” ;
 
@@ -159,7 +161,7 @@ source: "eli-html"
 - **1)** art. 1 pkt 14, 67 lit. c, pkt 68 lit. c oraz art. 9 pkt 11 i 12, które wchodzą w życie z dniem 14 marca 2024 r.;
 - **2)** art. 10 pkt 1–6, 12, 13 i 17, które wchodzą w życie z dniem 1 stycznia 2026 r. ” .
 
-**Art. 6.** Przepisy dotychczasowe stosuje się w sprawach objętych zakresem zastosowania rozporządzenia Rady (WE) nr 2201/2003 z dnia 27 listopada 2003 r. dotyczącego jurysdykcji oraz uznawania i wykonywania orzeczeń w sprawach małżeńskich oraz w sprawach dotyczących odpowiedzialności rodzicielskiej, uchylającego rozporządzenie (WE) nr 1347/2000 (Dz. Urz. UE L 338 z 23.12.2003, str. 1, z późn. zm.) do:
+**Art. 6.** Przepisy dotychczasowe stosuje się w sprawach objętych zakresem zastosowania rozporządzenia Rady (WE) nr 2201/2003 z dnia 27 listopada 2003 r. dotyczącego jurysdykcji oraz uznawania i wykonywania orzeczeń w sprawach małżeńskich oraz w sprawach dotyczących odpowiedzialności rodzicielskiej, uchylającego rozporządzenie (WE) nr 1347/2000 (Dz. Urz. UE L 338 z 23.12.2003, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 367 z 14.12.2004, str. 1, Dz. Urz. UE L 179 z 07.07.2007, str. 56, Dz. Urz. UE L 70 z 14.03.2009, str. 19, Dz. Urz. UE L 347 z 24.12.2009, str. 32 oraz Dz. Urz. UE L 99 z 15.04.2016, str. 34. do:
 
 - **1)** uznawania lub wykonywania w Polsce: orzeczeń wydanych w innych państwach członkowskich Unii Europejskiej w postępowaniach wszczętych przed dniem 1 sierpnia 2022 r., dokumentów urzędowych formalnie sporządzonych lub zarejestrowanych w innych państwach członkowskich Unii Europejskiej przed dniem 1 sierpnia 2022 r., porozumień, które stały się wykonalne w innych państwach członkowskich Unii Europejskiej, w których zostały zawarte przed dniem 1 sierpnia 2022 r.;
     - **a)**
@@ -168,5 +170,5 @@ source: "eli-html"
 
 - **2)** orzeczeń wydanych w Polsce w postępowaniach wszczętych przed dniem 1 sierpnia 2022 r. na potrzeby ich uznania lub wykonania w innych państwach członkowskich Unii Europejskiej.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 5, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 5, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Rady (UE) 2019/1111 z dnia 25 czerwca 2019 r. w sprawie jurysdykcji, uznawania i wykonywania orzeczeń w sprawach małżeńskich i w sprawach dotyczących odpowiedzialności rodzicielskiej oraz w sprawie uprowadzenia dziecka za granicę (wersja przekształcona) (Dz. Urz. UE L 178 z 02.07.2019, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, ustawę z dnia 26 stycznia 2018 r. o wykonywaniu niektórych czynności organu centralnego w sprawach rodzinnych z zakresu obrotu prawnego na podstawie prawa Unii Europejskiej i umów międzynarodowych oraz ustawę z dnia 7 lipca 2022 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289 i 326. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 367 z 14.12.2004, str. 1, Dz. Urz. UE L 179 z 07.07.2007, str. 56, Dz. Urz. UE L 70 z 14.03.2009, str. 19, Dz. Urz. UE L 347 z 24.12.2009, str. 32 oraz Dz. Urz. UE L 99 z 15.04.2016, str. 34.
 

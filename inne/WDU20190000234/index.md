@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-06 |
 | Data wydania | 2019-02-07 |
-| Wejście w życie | 2019-02-08 |
 | Ostatnia zmiana | 2024-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000234) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/234/text.pdf) |
 
@@ -84,5 +83,8 @@ Referent
 15.
 Pracownik obsługi
 II. TABELA KWALIFIKACJI I WYNAGRODZENIA ZASADNICZEGO PRACOWNIKÓW INSTYTUTU EUROPY ŚRODKOWEJ
-Lp. A.Stanowisko B.Wymagane kwalifikacje C.Wynagrodzenie zasadnicze w złotych PRACOWNICY ZARZĄDZAJĄCY 1 Dyrektor oddziału zamiejscowego Instytutu wykształcenie wyższe, 3-letnie doświadczenie w zarządzaniu zespołami pracowniczymi 8000–10 000 2 Główny księgowy według odrębnych przepisów 5500–9500 PRACOWNICY ZATRUDNIENI NA STANOWISKACH BADAWCZO-ANALITYCZNYCH 3 Kierownik komórki organizacyjnej wykształcenie wyższe, 3 lata stażu pracy, znajomość języka obcego 5500–9500 4 Koordynator projektu wykształcenie wyższe, 3 lata stażu pracy, znajomość języka obcego 4500–8000 5 Główny analityk wykształcenie wyższe, 3 lata stażu pracy, znajomość języka obcego 4000–7000 6 Starszy analityk wykształcenie wyższe, 2 lata stażu pracy, znajomość języka obcego 3000–5000 7 Analityk wykształcenie wyższe, znajomość języka obcego 2500–4000 PRACOWNICY ZATRUDNIENI NA STANOWISKACH ADMINISTRACYJNO-FINANSOWYCH 8 Główny specjalista wykształcenie wyższe, 3 lata stażu pracy 3500–6000 9 Starszy specjalista wykształcenie wyższe, 3 lata stażu pracy 3000–5000 10 Specjalista wykształcenie wyższe 2500–4500 11 Starszy referent wykształcenie średnie 2500–4000 12 Referent wykształcenie średnie 2300–3500 13 Pracownik obsługi wykształcenie podstawowe 2300–3000
+Lp. A.
+Stanowisko B.
+Wymagane kwalifikacje C.
+Wynagrodzenie zasadnicze w złotych PRACOWNICY ZARZĄDZAJĄCY 1 Dyrektor oddziału zamiejscowego Instytutu wykształcenie wyższe, 3-letnie doświadczenie w zarządzaniu zespołami pracowniczymi 8000–10 000 2 Główny księgowy według odrębnych przepisów 5500–9500 PRACOWNICY ZATRUDNIENI NA STANOWISKACH BADAWCZO-ANALITYCZNYCH 3 Kierownik komórki organizacyjnej wykształcenie wyższe, 3 lata stażu pracy, znajomość języka obcego 5500–9500 4 Koordynator projektu wykształcenie wyższe, 3 lata stażu pracy, znajomość języka obcego 4500–8000 5 Główny analityk wykształcenie wyższe, 3 lata stażu pracy, znajomość języka obcego 4000–7000 6 Starszy analityk wykształcenie wyższe, 2 lata stażu pracy, znajomość języka obcego 3000–5000 7 Analityk wykształcenie wyższe, znajomość języka obcego 2500–4000 PRACOWNICY ZATRUDNIENI NA STANOWISKACH ADMINISTRACYJNO-FINANSOWYCH 8 Główny specjalista wykształcenie wyższe, 3 lata stażu pracy 3500–6000 9 Starszy specjalista wykształcenie wyższe, 3 lata stażu pracy 3000–5000 10 Specjalista wykształcenie wyższe 2500–4500 11 Starszy referent wykształcenie średnie 2500–4000 12 Referent wykształcenie średnie 2300–3500 13 Pracownik obsługi wykształcenie podstawowe 2300–3000
 

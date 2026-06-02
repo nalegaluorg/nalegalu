@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 29 maja 2020 r. w sprawie grup podatników lub rodzajów czynności, w odniesieniu do których możliwe jest używanie kas rejestrujących mających postać oprogramowania
+# Rozporządzenie Ministra Finansówz dnia 29 maja 2020 r. w sprawie grup podatników lub rodzajów czynności, w odniesieniu do których możliwe jest używanie kas rejestrujących mających postać oprogramowania Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-05-29 |
 | Data wydania | 2020-05-30 |
-| Wejście w życie | 2020-06-01 |
 | Ostatnia zmiana | 2025-10-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000965) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/965/text.pdf) |
 
@@ -91,6 +90,5 @@ usług transportu wodnego śródlądowego pasażerskiego wycieczkowcami obejmuj�
 3)
 usług przygotowywania i dostarczania żywności dla odbiorców zewnętrznych (katering) (PKWiU 56.21).
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 czerwca 2020 r., z wyjątkiem § 1 pkt 11, 13 i 23, które wchodzą w życie z dniem 1 lipca 2020 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
+Rozporządzenie wchodzi w życie z dniem 1 czerwca 2020 r., z wyjątkiem § 1 pkt 11, 13 i 23, które wchodzą w życie z dniem 1 lipca 2020 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 

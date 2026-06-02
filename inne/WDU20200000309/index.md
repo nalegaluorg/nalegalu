@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 25 lutego 2020 r. zmieniające rozporządzenie w sprawie określenia wykazu świadczeń opieki zdrowotnej wymagających ustalenia odrębnego sposobu finansowania
+# Rozporządzenie Ministra Zdrowiaz dnia 25 lutego 2020 r. zmieniające rozporządzenie w sprawie określenia wykazu świadczeń opieki zdrowotnej wymagających ustalenia odrębnego sposobu finansowania Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-02-25 |
 | Data wydania | 2020-02-26 |
-| Wejście w życie | 2020-02-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000309) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/309/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 136c ust. 6 pkt 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 136c ust. 6 pkt 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 19 czerwca 2017 r. w sprawie określenia wykazu świadczeń opieki zdrowotnej wymagających ustalenia odrębnego sposobu finansowania (Dz. U. poz. 1225, z 2018 r. poz. 1558 i 2056 oraz z 2019 r. poz. 1409 i 2225) w § 2 w pkt 32 kropkę zastępuje się średnikiem i dodaje się pkt 33 i 34 w brzmieniu:
-„
+W rozporządzeniu Ministra Zdrowia z dnia 19 czerwca 2017 r. w sprawie określenia wykazu świadczeń opieki zdrowotnej wymagających ustalenia odrębnego sposobu finansowania (Dz. U. poz. 1225, z 2018 r. poz. 1558 i 2056 oraz z 2019 r. poz. 1409 i 2225) w § 2 w pkt 32 kropkę zastępuje się średnikiem i dodaje się pkt 33 i 34 w brzmieniu: „
 33)
 świadczenia ambulatoryjnej opieki specjalistycznej w zakresie:
 a)
@@ -50,11 +48,9 @@ porada specjalistyczna – neurologia dziecięca,
 h)
 porada specjalistyczna – ortopedia i traumatologia narządu ruchu dla dzieci;
 34)
-świadczenia z zakresu ratunkowego dostępu do technologii lekowej, o których mowa w art. 15 ust. 2 pkt 17a ustawy.
-” .
+świadczenia z zakresu ratunkowego dostępu do technologii lekowej, o których mowa w art. 15 ust. 2 pkt 17a ustawy. ” .
 § 2.
 Zmiany w wykazie świadczeń opieki zdrowotnej wymagających ustalenia odrębnego sposobu finansowania, o których mowa w rozporządzeniu zmienianym w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do rozliczania świadczeń opieki zdrowotnej udzielanych od dnia 1 marca 2020 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.
 

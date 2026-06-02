@@ -26,20 +26,34 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000100) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/100/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 19 lipca 2019 r. o inwestycjach w zakresie budowy Muzeum Westerplatte i Wojny 1939 – Oddziału Muzeum II Wojny Światowej w Gdańsku Rozdział 1 – Przepisy ogólne Rozdział 2 – Postępowanie poprzedzające rozpoczęcie inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku Rozdział 3 – Nabywanie tytułu prawnego do nieruchomości i realizacja inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku Rozdział 4 – Postępowanie administracyjne oraz sądowoadministracyjne przy realizacji inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku Rozdział 5 – Zmiany w przepisach i przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 19 lipca 2019 r. o inwestycjach w zakresie budowy Muzeum Westerplatte i Wojny 1939 – Oddziału Muzeum II Wojny Światowej w Gdańsku
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 lipca 2019 r. o inwestycjach w zakresie budowy Muzeum Westerplatte i Wojny 1939 – Oddziału Muzeum II Wojny Światowej w Gdańsku (Dz. U. z 2021 r. poz. 1280), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688) oraz zmian wynikających z przepisów ogłoszonych przed dniem 17 stycznia 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 78 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 78 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688), który stanowi: „
+Przepisy ogólne
+Postępowanie poprzedzające rozpoczęcie inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku
+Nabywanie tytułu prawnego do nieruchomości i realizacja inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku
+Postępowanie administracyjne oraz sądowoadministracyjne przy realizacji inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku
+Zmiany w przepisach i przepis końcowy
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Postępowanie poprzedzające rozpoczęcie inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku
+
+#### Rozdział 3 – Nabywanie tytułu prawnego do nieruchomości i realizacja inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku
+
+#### Rozdział 4 – Postępowanie administracyjne oraz sądowoadministracyjne przy realizacji inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku
+
+#### Rozdział 5 – Zmiany w przepisach i przepis końcowy
 
 **Art. 78.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 62 lit. e w zakresie ust. 3b oraz art. 67 ust. 3 pkt 3, które wchodzą w życie z dniem 1 stycznia 2025 r.;
 - **2)** art. 1 pkt 10 w zakresie art. 8f i art. 8g ust. 3 i 4, pkt 12 w zakresie art. 13b pkt 1 i art. 13i ust. 3 pkt 4, 7 i 11, pkt 17 lit. d, g i lit. k w zakresie pkt 13c, pkt 25 w zakresie art. 27b ust. 4 pkt 3 i 7, pkt 29 lit. b, pkt 38 lit. b tiret drugie, tiret trzecie w zakresie pkt 7b i tiret piąte w zakresie pkt 11, pkt 39 w zakresie art. 37eb ust. 4 pkt 1 i art. 37ec ust. 2 pkt 3 i 8, pkt 45 lit. a tiret drugie, trzecie i tiret szóste w zakresie pkt 7, pkt 47 lit. a tiret czwarte i szóste, pkt 53 i 60, pkt 62 lit. b i f, pkt 63 i 64, art. 6 pkt 1 lit. a i b, art. 11–13, art. 14 pkt 2 lit. b, art. 16 pkt 3, art. 22 pkt 1 i 3, art. 27 pkt 4–9, art. 37 pkt 2 lit. d w zakresie ust. 8 i 9, art. 39 pkt 2, art. 41 pkt 1 w zakresie pkt 4a, art. 43 pkt 1, 3, 5, 10, pkt 11 lit. b i pkt 13 lit. a w zakresie ust. 1, art. 54, art. 56 ust. 2, art. 62, art. 67 ust. 3 pkt 3 i art. 75–77, które wchodzą w życie z dniem 1 stycznia 2026 r. ” . Załącznik – Tekst jednolity ustawy z dnia 19 lipca 2019 r. o inwestycjach w zakresie budowy Muzeum Westerplatte i Wojny 1939 – Oddziału Muzeum II Wojny Światowej w Gdańsku Uznając, że Pole Bitwy na Westerplatte ma szczególne znaczenie dla historii oraz pamięci zbiorowej Narodu Polskiego jako miejsce będące symbolem rozpoczęcia II wojny światowej ‒ największego konfliktu zbrojnego XX wieku, w celu realizacji interesu publicznego, polegającego na upowszechnianiu wiedzy o bohaterskiej obronie Westerplatte we wrześniu 1939 r. oraz zapewnieniu ochrony, utrzymania i rewaloryzacji zespołu obiektów architektury militarnej znajdujących się na terenie Westerplatte, uchwala się, co następuje:
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -63,7 +77,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **3)** kataster nieruchomości – kataster w rozumieniu ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2023 r. poz. 1752, 1615, 1688 i 1762);
 - **4)** Pole Bitwy na Westerplatte – teren obejmujący obszar położony na półwyspie Westerplatte, leżący w granicach administracyjnych miasta Gdańska w obrębie geodezyjnym nr 062, a także zespół fortyfikacji i zabudowy Szańca Mewiego;
 - **5)** roboty budowlane, dostawy i usługi – roboty budowlane w rozumieniu art. 7 pkt 21 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720), dostawy w rozumieniu art. 7 pkt 4 tej ustawy i usługi w rozumieniu art. 7 pkt 28 tej ustawy;
-- **6)** uzbrojenie terenu – urządzenia infrastruktury technicznej, o których mowa w art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm.).
+- **6)** uzbrojenie terenu – urządzenia infrastruktury technicznej, o których mowa w art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1463, 1506, 1688, 1762, 1906 i 2029.).
 
 **Art. 2.**
 
@@ -71,7 +85,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Inwestycje w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku finansuje się z budżetu państwa lub z innych źródeł.
 
-#### Rozdział 2 Postępowanie poprzedzające rozpoczęcie inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku
+#### Rozdział 2
 
 **Art. 3.**
 
@@ -87,7 +101,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Zezwolenie na realizację inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 – Oddziału Muzeum II Wojny Światowej w Gdańsku może być wydane po uprzednim uzyskaniu przez inwestora:
 
-- **1)** decyzji o środowiskowych uwarunkowaniach, o której mowa w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, z późn. zm.), jeżeli jest ona wymagana;
+- **1)** decyzji o środowiskowych uwarunkowaniach, o której mowa w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1501, 1506, 1688, 1719, 1890, 1906 i 2029.), jeżeli jest ona wymagana;
 - **2)** pozwolenia właściwego wojewódzkiego konserwatora zabytków, o którym mowa w art. 36 ust. 1 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz. 840 oraz z 2023 r. poz. 951, 1688 i 1904).
 
 2. Wniosek o wydanie decyzji o zezwoleniu na realizację inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 – Oddziału Muzeum II Wojny Światowej w Gdańsku zawiera:
@@ -106,7 +120,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Do wniosku, o którym mowa w ust. 2, dołącza się:
 
-- **1)** trzy egzemplarze projektu zagospodarowania działki lub terenu i projektu arch itektoniczno-budowlanego wraz z zaświadczeniem, o którym mowa w art. 12 ust. 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm.), aktualnym na dzień opracowania projektu;
+- **1)** trzy egzemplarze projektu zagospodarowania działki lub terenu i projektu arch itektoniczno-budowlanego wraz z zaświadczeniem, o którym mowa w art. 12 ust. 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762, 1890, 1963 i 2029.), aktualnym na dzień opracowania projektu;
 - **2)** decyzję, o której mowa w ust. 1 pkt 1, jeżeli jest ona wymagana;
 - **3)** pozwolenie, o którym mowa w ust. 1 pkt 2;
 - **4)** mapy z projektami podziału nieruchomości, w przypadku konieczności dokonania podziału nieruchomości, sporządzone zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne;
@@ -129,7 +143,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
     - **h)**
     - **i)**
 
-- **2)** zgodę Ministra Obrony Narodowej – w przypadku, gdy inwestycja dotyczy terenów zamkniętych niezbędnych dla obronności państwa, ustalonych na podstawie ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, oraz ich stref ochronnych, o których mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, z późn. zm.).
+- **2)** zgodę Ministra Obrony Narodowej – w przypadku, gdy inwestycja dotyczy terenów zamkniętych niezbędnych dla obronności państwa, ustalonych na podstawie ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, oraz ich stref ochronnych, o których mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1506, 1597, 1688, 1890, 2029 i 2739.).
 
 6. Przebudowa dróg publicznych, o których mowa w art. 1 ust. 2 pkt 2 lit. c, wymaga uzgodnienia z właściwym zarządcą drogi. Przepisy ust. 7 i 8 stosuje się odpowiednio. Odmowa uzgodnienia wymaga wydania decyzji, od której inwestorowi przysługuje odwołanie do ministra właściwego do spraw transportu, który rozpatruje odwołanie w terminie 21 dni.
 
@@ -165,7 +179,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 5. W przypadku gdy po doręczeniu zawiadomienia, o którym mowa w ust. 1, nastąpi:
 
 - **1)** zbycie własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o zezwoleniu na realizację inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku,
-- **2)** przeniesienie własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem, o którym mowa w pkt 1, wskutek innego zdarzenia prawnego nabywca, a w przypadku, o którym mowa w pkt 1, nabywca i zbywca, są obowiązani do zgłoszenia Wojewodzie Pomorskiemu danych nowego właściciela lub użytkownika wieczystego.
+- **2)** przeniesienie własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem, o którym mowa w pkt 1, wskutek innego zdarzenia prawnego – nabywca, a w przypadku, o którym mowa w pkt 1, nabywca i zbywca, są obowiązani do zgłoszenia Wojewodzie Pomorskiemu danych nowego właściciela lub użytkownika wieczystego.
 
 6. Niedokonanie zgłoszenia zgodnie z ust. 5 i prowadzenie postępowania bez udziału nowego właściciela lub użytkownika wieczystego nie stanowi podstawy do wznowienia postępowania administracyjnego.
 
@@ -234,9 +248,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 11.**
 
-1. Do spraw określonych w niniejszym rozdziale nie stosuje się ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, z wyjątkiem art. 57 ust. 1 i 4 tej ustawy, które mają zastosowanie do decyzji o zezwoleniu na realizację inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku.
-
-2. Decyzja o zezwoleniu na realizację inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku wiąże właściwe organy przy sporządzaniu planu ogólnego gminy oraz miejscowych planów zagospodarowania przestrzennego. Wojewoda Pomorski przekazuje niezwłocznie Prezydentowi Miasta Gdańska wydaną decyzję o zezwoleniu na realizację inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku.
+1. Do spraw określonych w niniejszym rozdziale nie stosuje się ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, z wyjątkiem art. 57 ust. 1 i 4 tej ustawy, które mają zastosowanie do decyzji o zezwoleniu na realizację inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku. 2Ze zmianą wprowadzoną przez art. 47 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688), która weszła w życie z dniem 24 września 2023 r.. Decyzja o zezwoleniu na realizację inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku wiąże właściwe organy przy sporządzaniu planu ogólnego gminy oraz miejscowych planów zagospodarowania przestrzennego. Wojewoda Pomorski przekazuje niezwłocznie Prezydentowi Miasta Gdańska wydaną decyzję o zezwoleniu na realizację inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku.
 
 3. Decyzja o zezwoleniu na realizację inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku jest wiążąca dla właściwych organów w zakresie wydawania decyzji o warunkach zabudowy i zagospodarowania terenu oraz pozwolenia na budowę.
 
@@ -296,7 +308,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 5. Do terminu, o którym mowa w ust. 4, nie wlicza się terminów przewidzianych w przepisach prawa do dokonania określonych czynności, w szczególności w ramach postępowania w sprawie transgranicznego oddziaływania na środowisko, okresów zawieszenia postępowania oraz okresów opóźnień wynikłych z winy strony albo z innych przyczyn niezależnych od organu.
 
-#### Rozdział 3 Nabywanie tytułu prawnego do nieruchomości i realizacja inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku
+#### Rozdział 3
 
 **Art. 18.**
 
@@ -372,7 +384,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 27.** Wsprawach nieuregulowanych w niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, przy czym ilekroć w przepisach tej ustawy mowa jest o decyzji o ustaleniu lokalizacji inwestycji celu publicznego, rozumie się przez to także decyzję o zezwoleniu na realizację inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku.
 
-#### Rozdział 4 Postępowanie administracyjne oraz sądowoadministracyjne przy realizacji inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 ‒ Oddziału Muzeum II Wojny Światowej w Gdańsku
+#### Rozdział 4
 
 **Art. 28.**
 
@@ -412,11 +424,11 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 32.** Wojewoda Pomorski jest organem egzekucyjnym prowadzącym egzekucję obowiązków o charakterze niepieniężnym wynikających z decyzji, o których mowa w art. 3 ust. 1 oraz art. 24 ust. 3.
 
-#### Rozdział 5 Zmiany w przepisach i przepis końcowy
+#### Rozdział 5
 
 **Art. 33.** (pominięty)
 
 **Art. 34.** (pominięty)
 
-**Art. 35.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 35.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 23 sierpnia 2019 r.. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1463, 1506, 1688, 1762, 1906 i 2029. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1501, 1506, 1688, 1719, 1890, 1906 i 2029. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762, 1890, 1963 i 2029. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1506, 1597, 1688, 1890, 2029 i 2739. 5) Ze zmianą wprowadzoną przez art. 47 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688), która weszła w życie z dniem 24 września 2023 r. 6) Ustawa została ogłoszona w dniu 23 sierpnia 2019 r.
 

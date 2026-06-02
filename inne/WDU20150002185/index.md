@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-18 |
 | Data wydania | 2015-12-24 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002185) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2185/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 20 pkt 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 20 pkt 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1595 i 1781.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom okręgowym i sądom rejonowym rozpoznawania spraw gospodarczych z obszarów właściwości innych sądów okręgowych i sądów rejonowych (Dz. U. poz. 1397, z późn. zm.) § 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom okręgowym i sądom rejonowym rozpoznawania spraw gospodarczych z obszarów właściwości innych sądów okręgowych i sądów rejonowych (Dz. U. poz. 1397, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2014 r. poz. 1694 i 1783 oraz z 2015 r. poz. 1662.) § 2 otrzymuje brzmienie: „
 § 2.
 Następującym sądom rejonowym przekazuje się rozpoznawanie spraw gospodarczych, spraw upadłościowych i restrukturyzacyjnych, spraw rejestru zastawów oraz spraw Krajowego Rejestru Sądowego z obszarów właściwości innych sądów rejonowych:
 1)
@@ -114,8 +112,7 @@ w obszarze właściwości Sądu Okręgowego w Lublinie – Sądowi Rejonowemu Lu
 a)
 sprawy gospodarcze z obszaru właściwości sądów rejonowych: Lublin-Zachód w Lublinie, w Białej Podlaskiej, Chełmie, Kraśniku, Lubartowie, Łukowie, Opolu Lubelskim, Puławach, Radzyniu Podlaskim, Rykach i we Włodawie,
 b)
-sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych: Lublin-Zachód w Lublinie, w Białej Podlaskiej, Chełmie, Kraśniku, Lubartowie, Łukowie, Opolu Lubelskim, Puławach, Radzyniu Podlaskim, Rykach, we Włodawie, w Garwolinie, Mińsku Mazowieckim, Siedlcach, Sokołowie
-Podlaskim, Węgrowie, Biłgoraju, Hrubieszowie, Janowie Lubelskim, Krasnymstawie, Tomaszowie Lubelskim i Zamościu,
+sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych: Lublin-Zachód w Lublinie, w Białej Podlaskiej, Chełmie, Kraśniku, Lubartowie, Łukowie, Opolu Lubelskim, Puławach, Radzyniu Podlaskim, Rykach, we Włodawie, w Garwolinie, Mińsku Mazowieckim, Siedlcach, Sokołowie Podlaskim, Węgrowie, Biłgoraju, Hrubieszowie, Janowie Lubelskim, Krasnymstawie, Tomaszowie Lubelskim i Zamościu,
 c)
 sprawy rejestru zastawów z obszaru właściwości sądów rejonowych: Lublin-Zachód w Lublinie, w Białej Podlaskiej, Chełmie, Kraśniku, Lubartowie, Łukowie, Opolu Lubelskim, Puławach, Radzyniu Podlaskim, Rykach, we Włodawie, w Grójcu, Kozienicach, Lipsku, Przysusze, Radomiu, Szydłowcu, Zwoleniu, Garwolinie, Mińsku Mazowieckim, Siedlcach, Sokołowie Podlaskim, Węgrowie, Biłgoraju, Hrubieszowie, Janowie Lubelskim, Krasnymstawie, Tomaszowie Lubelskim i Zamościu,
 d)
@@ -231,8 +228,7 @@ w obszarze właściwości Sądu Okręgowego w Zielonej Górze – Sądowi Rejono
 a)
 sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych: w Krośnie Odrzańskim, Nowej Soli, Świebodzinie, we Wschowie, w Żaganiu i Żarach,
 b)
-sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Gorzowie Wielkopolskim, Międzyrzeczu, Słubicach, Strzelcach Krajeńskich, Sulęcinie, Krośnie Odrzańskim, Nowej Soli, Świebodzinie, we Wschowie, w Żaganiu i Żarach.
-” .
+sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Gorzowie Wielkopolskim, Międzyrzeczu, Słubicach, Strzelcach Krajeńskich, Sulęcinie, Krośnie Odrzańskim, Nowej Soli, Świebodzinie, we Wschowie, w Żaganiu i Żarach. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1595 i 1781. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2014 r. poz. 1694 i 1783 oraz z 2015 r. poz. 1662.
 

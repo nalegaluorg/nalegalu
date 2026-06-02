@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-23 |
 | Data wydania | 2015-11-10 |
-| Wejście w życie | 2015-11-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001847) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1847/text.pdf) |
 
@@ -115,11 +114,11 @@ prowadzenie działalności w zakresie certyfikacji sprzętu i akcesoriów dla sp
 1)
 uzyskiwane ze źródeł, o których mowa w art. 18 ust. 7 i 8, oraz uzyskane na zasadach określonych w art. 21 ust. 6 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych;
 2)
-uzyskane z Funduszu Rozwoju Kultury Fizycznej, o którym mowa w art. 86 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2015 r. poz. 612, z późn. zm.), na realizację zadań z zakresu sportu dzieci, młodzieży i osób niepełnosprawnych oraz inwestycji obiektów sportowych;
+uzyskane z Funduszu Rozwoju Kultury Fizycznej, o którym mowa w art. 86 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2015 r. poz. 612, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1201, 1639 i 1830.), na realizację zadań z zakresu sportu dzieci, młodzieży i osób niepełnosprawnych oraz inwestycji obiektów sportowych;
 3)
 pozyskiwane przez Instytut na realizację projektów finansowanych z funduszy Unii Europejskiej, w ramach innych funduszy zagranicznych oraz finansowanych przez podmioty krajowe i zagraniczne.
 § 5.
 Dysponentem środków budżetowych ustalanych na realizację zadań, o których mowa w § 3 ust. 2, jest minister właściwy do spraw kultury fizycznej.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1201, 1639 i 1830.
 

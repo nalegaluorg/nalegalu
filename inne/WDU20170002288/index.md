@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 28 listopada 2017 r. w sprawie pełnienia służby w systemie nadzwyczajnym
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 28 listopada 2017 r. w sprawie pełnienia służby w systemie nadzwyczajnym Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-28 |
 | Data wydania | 2017-12-11 |
-| Wejście w życie | 2017-12-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002288) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2288/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 175 ust. 3 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 175 ust. 3 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086 i 1321.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -132,6 +131,5 @@ ewidencja czasu służby.
 3.
 Po zakończeniu służby w systemie nadzwyczajnym dokumentacja związana z ewidencją czasu służby funkcjonariusza jest przechowywana w aktach osobowych funkcjonariusza w jednostce organizacyjnej, w której funkcjonariusz stale pełni służbę.
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086 i 1321. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 3 grudnia 2009 r. w sprawie pełnienia służby w systemie nadzwyczajnym (Dz. U. poz. 1609 oraz z 2017 r. poz. 737), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537 i 1926).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 3 grudnia 2009 r. w sprawie pełnienia służby w systemie nadzwyczajnym (Dz. U. poz. 1609 oraz z 2017 r. poz. 737), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537 i 1926). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086 i 1321. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 3 grudnia 2009 r. w sprawie pełnienia służby w systemie nadzwyczajnym (Dz. U. poz. 1609 oraz z 2017 r. poz. 737), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537 i 1926).
 

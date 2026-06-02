@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 26 czerwca 2024 r. w sprawie udzielania pomocy publicznej, pomocy de minimis oraz pomocy de minimis na usługi świadczone w ogólnym interesie gospodarczym w ramach Szwajcarsko-Polskiego Programu Współpracy
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 26 czerwca 2024 r. w sprawie udzielania pomocy publicznej, pomocy de minimis oraz pomocy de minimis na usługi świadczone w ogólnym interesie gospodarczym w ramach Szwajcarsko-Polskiego Programu Współpracy Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711).
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-26 |
 | Data wydania | 2024-07-16 |
-| Wejście w życie | 2024-07-31 |
 | Ostatnia zmiana | 2024-07-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001052) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1052/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Pomoc publiczna Rozdział 3 – Pomoc inwestycyjna na infrastrukturę lokalną Rozdział 4 – Pomoc inwestycyjna na efektywny energetycznie system ciepłowniczy i chłodniczy Rozdział 5 – Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych, propagowanie wodoru odnawialnego i wysokosprawnej kogeneracji Rozdział 6 – Pomoc inwestycyjna na środki wspierające efektywność energetyczną inną niż w budynkach Rozdział 7 – Pomoc inwestycyjna na środki wspierające efektywność energetyczną w budynkach Rozdział 8 – Pomoc na usługi doradcze na rzecz MŚP Rozdział 9 – Pomoc szkoleniowa Rozdział 10 – Regionalna pomoc inwestycyjna Rozdział 11 – Pomoc inwestycyjna na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną Rozdział 12 – Pomoc inwestycyjna na kulturę i zachowanie dziedzictwa kulturowego Rozdział 13 – Pomoc inwestycyjna na infrastrukturę ładowania lub infrastrukturę tankowania Rozdział 14 – Pomoc de minimis Rozdział 15 – Pomoc de minimis na usługi świadczone w ogólnym interesie gospodarczym Rozdział 16 – Terminy udzielania pomocy Rozdział 17 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 3ab ust. 2 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r. poz. 324 i 862) zarządza się, co następuje:
+Treść rozporządzenia
+Szwajcarsko-Polski Program Współpracy wdraża umowę ramową między Rzecząpospolitą Polską a Konfederacją Szwajcarską w sprawie wdrażania Drugiej Edycji Szwajcarskiej Pomocy Finansowej dla wybranych Państw Członkowskich Unii Europejskiej w celu zmniejszenia różnic społeczno-gospodarczych w obrębie Unii Europejskiej, podpisaną w Warszawie dnia 5 grudnia 2022 r. (M. P. z 2023 r. poz. 255). Na podstawie art. 3ab ust. 2 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r. poz. 324 i 862) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom pomocy publicznej, pomocy de minimis oraz pomocy de minimis na usługi świadczone w ogólnym interesie gospodarczym, zwanych dalej „pomocą”, w ramach Szwajcarsko-Polskiego Programu Współpracy.
 § 2.
 1.
-Przepisów rozporządzenia nie stosuje się do pomocy publicznej, o której mowa w art. 1 ust. 2 lit. c i d, ust. 3 lit. a-d, ust. 4 lit. c, ust. 5 i 6 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”.
+Przepisów rozporządzenia nie stosuje się do pomocy publicznej, o której mowa w art. 1 ust. 2 lit. c i d, ust. 3 lit. a-d, ust. 4 lit. c, ust. 5 i 6 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.), zwanego dalej „rozporządzeniem nr 651/2014”.
 2.
 W przypadku pomocy publicznej, o której mowa w § 3 pkt 8, przepisów rozporządzenia nie stosuje się do pomocy publicznej, o której mowa w art. 13 lit. a i b rozporządzenia nr 651/2014.
 § 3.
@@ -123,6 +123,7 @@ koszty kwalifikowalne;
 wartość dopuszczalnej pomocy.
 3.
 Podmiot udzielający pomocy, po pozytywnej ocenie wniosku, zawiera z przedsiębiorcą umowę, która określa szczegółowe przeznaczenie, warunki i tryb udzielania pomocy.
+Pomoc publiczna
 § 11.
 Pomoc publiczna nie może zostać udzielona ani wypłacona przedsiębiorcy, na którym ciąży obowiązek zwrotu pomocy publicznej, wynikający z decyzji Komisji Europejskiej uznającej taką pomoc publiczną przyznaną przez to samo państwo za niezgodną z prawem oraz z rynkiem wewnętrznym.
 § 12.
@@ -146,6 +147,7 @@ numer identyfikacji podatkowej (NIP) wnioskodawcy;
 inne informacje niezbędne do dokonania oceny wniosku, wskazane przez podmiot udzielający pomocy, niebędące danymi osobowymi.
 2.
 Wraz z wnioskiem o udzielenie pomocy publicznej przekazuje się informacje, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702).
+Pomoc inwestycyjna na infrastrukturę lokalną
 § 15.
 1.
 Pomoc publiczna, o której mowa w § 3 pkt 1, jest udzielana na budowę lub modernizację infrastruktury lokalnej zgodnie z art. 56 rozporządzenia nr 651/2014.
@@ -161,14 +163,14 @@ Pomoc publiczna, o której mowa w § 3 pkt 1, nie jest udzielana:
 na infrastrukturę, o której mowa w art. 56 ust. 2 i 7 rozporządzenia nr 651/2014;
 2)
 jeżeli jej wartość przekracza progi, o których mowa w art. 4 ust. 1 lit. cc rozporządzenia nr 651/2014.
+Pomoc inwestycyjna na efektywny energetycznie system ciepłowniczy i chłodniczy
 § 17.
 1.
 Pomoc publiczna, o której mowa w § 3 pkt 2, jest udzielana na inwestycje w:
 1)
 efektywny energetycznie system ciepłowniczy i chłodniczy,
 2)
-system ciepłowniczy i chłodniczy, który stanie się efektywny energetycznie
-zgodnie z art. 46 rozporządzenia nr 651/2014.
+system ciepłowniczy i chłodniczy, który stanie się efektywny energetycznie – zgodnie z art. 46 rozporządzenia nr 651/2014.
 2.
 W przypadku inwestycji, o której mowa w ust. 1 pkt 2, pomoc publiczna może zostać udzielona, jeżeli przedsiębiorca zobowiąże się spełnić warunki, o których mowa w art. 46 ust. 2 zdanie drugie rozporządzenia nr 651/2014.
 3.
@@ -194,6 +196,7 @@ Pomoc publiczna, o której mowa w § 3 pkt 2, nie jest udzielana:
 w przypadku, o którym mowa w art. 46 ust. 4 zdanie pierwsze rozporządzenia nr 651/2014;
 2)
 jeżeli jej wartość przekracza próg, o którym mowa w art. 4 ust. 1 lit. w rozporządzenia nr 651/2014.
+Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych, propagowanie wodoru odnawialnego i wysokosprawnej kogeneracji
 § 20.
 1.
 Pomoc publiczna, o której mowa w § 3 pkt 3, jest udzielana na propagowanie energii ze źródeł odnawialnych, propagowanie wodoru odnawialnego i wysokosprawnej kogeneracji zgodnie z art. 41 rozporządzenia nr 651/2014, z wyjątkiem energii elektrycznej produkowanej z wodoru odnawialnego, zgodnie z art. 41 ust. 1 tego rozporządzenia.
@@ -208,6 +211,7 @@ Maksymalną intensywność pomocy publicznej, o której mowa w § 3 pkt 3, okre�
 Maksymalną intensywność pomocy publicznej, o której mowa w § 3 pkt 3, zwiększa się zgodnie z art. 41 ust. 8 rozporządzenia nr 651/2014.
 § 22.
 Pomoc publiczna, o której mowa w § 3 pkt 3, nie jest udzielana, jeżeli jej wartość przekracza próg, o którym mowa w art. 4 ust. 1 lit. s rozporządzenia nr 651/2014.
+Pomoc inwestycyjna na środki wspierające efektywność energetyczną inną niż w budynkach
 § 23.
 1.
 Pomoc publiczna, o której mowa w § 3 pkt 4, jest udzielana na inwestycję umożliwiającą przedsiębiorcy poprawę efektywności energetycznej innej niż w budynkach zgodnie z art. 38 rozporządzenia nr 651/2014.
@@ -234,6 +238,7 @@ Pomoc publiczna, o której mowa w § 3 pkt 4, nie jest udzielana:
 w przypadkach, o których mowa w art. 38 ust. 2 zdanie pierwsze oraz ust. 2a i ust. 2b rozporządzenia nr 651/2014;
 2)
 jeżeli jej wartość przekracza próg, o którym mowa w art. 4 ust. 1 lit. s rozporządzenia nr 651/2014.
+Pomoc inwestycyjna na środki wspierające efektywność energetyczną w budynkach
 § 26.
 1.
 Pomoc publiczna, o której mowa w § 3 pkt 5, jest udzielana na inwestycję umożliwiającą przedsiębiorcy osiągnięcie efektywności energetycznej w budynkach zgodnie z art. 38a rozporządzenia nr 651/2014.
@@ -262,6 +267,7 @@ Pomoc publiczna, o której mowa w § 3 pkt 5, nie jest udzielana:
 w przypadku, o którym mowa w art. 38a ust. 2, 4 i 10 rozporządzenia nr 651/2014;
 2)
 jeżeli jej wartość przekracza progi, o których mowa w art. 4 ust. 1 lit. s oraz sc rozporządzenia nr 651/2014.
+Pomoc na usługi doradcze na rzecz MŚP
 § 29.
 1.
 Pomoc publiczna, o której mowa w § 3 pkt 6, jest udzielana mikroprzedsiębiorcy, małemu lub średniemu przedsiębiorcy na usługi doradcze zgodnie z art. 18 rozporządzenia nr 651/2014.
@@ -271,6 +277,7 @@ Pomoc publiczna, o której mowa w § 3 pkt 6, może zostać udzielona na pokryci
 Maksymalną intensywność pomocy publicznej, o której mowa w § 3 pkt 6, określa się zgodnie z art. 18 ust. 2 rozporządzenia nr 651/2014.
 § 31.
 Pomoc publiczna, o której mowa w § 3 pkt 6, nie jest udzielana, jeżeli jej wartość przekracza próg, o którym mowa w art. 4 ust. 1 lit. d rozporządzenia nr 651/2014.
+Pomoc szkoleniowa
 § 32.
 1.
 Pomoc publiczna, o której mowa w § 3 pkt 7, jest udzielana przedsiębiorcom na szkolenia zgodnie z art. 31 rozporządzenia nr 651/2014, z wyłączeniem szkoleń, o których mowa w art. 31 ust. 2 rozporządzenia nr 651/2014.
@@ -288,6 +295,7 @@ b)
 ust. 5 rozporządzenia nr 651/2014.
 § 34.
 Pomoc publiczna, o której mowa w § 3 pkt 7, nie jest udzielana, jeżeli jej wartość przekracza próg, o którym mowa w art. 4 ust. 1 lit. n rozporządzenia nr 651/2014.
+Regionalna pomoc inwestycyjna
 § 35.
 1.
 Pomoc publiczna, o której mowa w § 3 pkt 8, jest udzielana na inwestycję początkową zgodnie z art. 14 rozporządzenia nr 651/2014.
@@ -306,6 +314,7 @@ Maksymalną intensywność pomocy publicznej, o której mowa w § 3 pkt 8, okre�
 Maksymalną intensywność oraz wartość pomocy publicznej, o której mowa w § 3 pkt 8, oblicza się zgodnie z art. 14 ust. 12, 13 i ust. 14 zdanie pierwsze rozporządzenia nr 651/2014.
 § 37.
 Pomoc publiczna, o której mowa w § 3 pkt 8, nie jest udzielana, jeżeli jej wartość przekracza progi, o których mowa w art. 4 ust. 1 lit. a rozporządzenia nr 651/2014.
+Pomoc inwestycyjna na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną
 § 38.
 1.
 Pomoc publiczna, o której mowa w § 3 pkt 9, jest udzielana na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną zgodnie z art. 55 rozporządzenia nr 651/2014.
@@ -324,6 +333,7 @@ Wartość dopuszczalnej pomocy publicznej, o której mowa w § 3 pkt 9, ustala s
 W przypadku pomocy publicznej, o której mowa w § 3 pkt 9, nieprzekraczającej równowartości 2,2 mln euro, wartość dopuszczalnej pomocy ustala się zgodnie z art. 55 ust. 12 rozporządzenia nr 651/2014.
 § 40.
 Pomoc publiczna, o której mowa w § 3 pkt 9, nie jest udzielana, jeżeli jej wartość przekracza próg, o którym mowa w art. 4 ust. 1 lit. bb rozporządzenia nr 651/2014.
+Pomoc inwestycyjna na kulturę i zachowanie dziedzictwa kulturowego
 § 41.
 1.
 Pomoc publiczna, o której mowa w § 3 pkt 10, jest udzielana zgodnie z art. 53 rozporządzenia nr 651/2014 na cele i działania kulturalne określone w art. 53 ust. 2 rozporządzenia nr 651/2014.
@@ -340,14 +350,14 @@ Pomoc publiczna, o której mowa w § 3 pkt 10, nie jest udzielana:
 w przypadkach, o których mowa w art. 53 ust. 10 rozporządzenia nr 651/2014;
 2)
 jeżeli jej wartość przekracza próg, o którym mowa w art. 4 ust. 1 lit. z rozporządzenia nr 651/2014.
+Pomoc inwestycyjna na infrastrukturę ładowania lub infrastrukturę tankowania
 § 44.
 1.
 Pomoc publiczna, o której mowa w § 3 pkt 11, jest udzielana na:
 1)
 infrastrukturę ładowania lub
 2)
-infrastrukturę tankowania
-zgodnie z art. 36a rozporządzenia nr 651/2014.
+infrastrukturę tankowania – zgodnie z art. 36a rozporządzenia nr 651/2014.
 2.
 Pomoc publiczna, o której mowa w § 3 pkt 11, jest udzielana, jeżeli zostanie spełniony warunek, o którym mowa w art. 36a ust. 7 rozporządzenia nr 651/2014.
 3.
@@ -388,6 +398,7 @@ Pomoc publiczna, o której mowa w § 3 pkt 11, nie jest udzielana:
 w przypadku, o którym mowa w art. 36a ust. 2 zdanie trzecie rozporządzenia nr 651/2014;
 2)
 jeżeli jej wartość przekracza próg, o którym mowa w art. 4 ust. 1 lit. sb rozporządzenia nr 651/2014.
+Pomoc de minimis
 § 48.
 1.
 Pomoc de minimis jest udzielana przedsiębiorcy działającemu we wszystkich sektorach, z wyłączeniem przypadków, o których mowa w art. 1 ust. 1 rozporządzenia 2023/2831.
@@ -409,8 +420,8 @@ Przedsiębiorca przed podpisaniem umowy przedstawia podmiotowi udzielającemu po
 1)
 kopie zaświadczeń o pomocy de minimis oraz zaświadczeń o pomocy de minimis w rolnictwie lub zaświadczeń o pomocy de minimis w rybołówstwie, które otrzymał w okresie, o którym mowa w art. 3 ust. 2 rozporządzenia 2023/2831, albo oświadczenie o wielkości takiej pomocy, albo oświadczenie o nieotrzymaniu takiej pomocy w tym okresie,
 2)
-informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej
-dotyczące okresu od dnia złożenia wniosku.
+informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej – dotyczące okresu od dnia złożenia wniosku.
+Pomoc de minimis na usługi świadczone w ogólnym interesie gospodarczym
 § 52.
 1.
 Pomoc de minimis na usługi świadczone w ogólnym interesie gospodarczym jest udzielana przedsiębiorcy działającemu we wszystkich sektorach, z wyłączeniem przypadków, o których mowa w art. 1 ust. 1 rozporządzenia 2023/2832.
@@ -436,8 +447,8 @@ kopie zaświadczeń o pomocy de minimis na usługi świadczone w ogólnym intere
 2)
 informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej,
 3)
-kopię dokumentu powierzającego wykonywanie usług świadczonych w ogólnym interesie gospodarczym
-dotyczące okresu od dnia złożenia wniosku dotyczącego pomocy de minimis na usługi świadczone w ogólnym interesie gospodarczym.
+kopię dokumentu powierzającego wykonywanie usług świadczonych w ogólnym interesie gospodarczym – dotyczące okresu od dnia złożenia wniosku dotyczącego pomocy de minimis na usługi świadczone w ogólnym interesie gospodarczym.
+Terminy udzielania pomocy
 § 56.
 1.
 Pomoc publiczna jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze, w związku z art. 59 rozporządzenia nr 651/2014.
@@ -445,41 +456,75 @@ Pomoc publiczna jest udzielana do końca okresu dostosowawczego, o którym mowa 
 Pomoc de minimis jest udzielana do końca okresu, o którym mowa w art. 7 ust. 3, w związku z art. 8 rozporządzenia 2023/2831.
 3.
 Pomoc de minimis na usługi świadczone w ogólnym interesie gospodarczym jest udzielana do końca okresu, o którym mowa w art. 7 ust. 3, w związku z art. 8 rozporządzenia 2023/2832.
+Przepis końcowy
 § 57.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711). 2) Szwajcarsko-Polski Program Współpracy wdraża umowę ramową między Rzecząpospolitą Polską a Konfederacją Szwajcarską w sprawie wdrażania Drugiej Edycji Szwajcarskiej Pomocy Finansowej dla wybranych Państw Członkowskich Unii Europejskiej w celu zmniejszenia różnic społeczno-gospodarczych w obrębie Unii Europejskiej, podpisaną w Warszawie dnia 5 grudnia 2022 r. (M. P. z 2023 r. poz. 255). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711). 2) Szwajcarsko-Polski Program Współpracy wdraża umowę ramową między Rzecząpospolitą Polską a Konfederacją Szwajcarską w sprawie wdrażania Drugiej Edycji Szwajcarskiej Pomocy Finansowej dla wybranych Państw Członkowskich Unii Europejskiej w celu zmniejszenia różnic społeczno-gospodarczych w obrębie Unii Europejskiej, podpisaną w Warszawie dnia 5 grudnia 2022 r. (M. P. z 2023 r. poz. 255). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Pomoc publiczna
+#### Rozdział 2 – Pomoc publiczna
 
-#### Rozdział 3 Pomoc inwestycyjna na infrastrukturę lokalną
+#### Rozdział 3 – Pomoc inwestycyjna na infrastrukturę lokalną
 
-#### Rozdział 4 Pomoc inwestycyjna na efektywny energetycznie system ciepłowniczy i chłodniczy
+#### Rozdział 4 – Pomoc inwestycyjna na efektywny energetycznie system ciepłowniczy i chłodniczy
 
-#### Rozdział 5 Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych, propagowanie wodoru odnawialnego i wysokosprawnej kogeneracji
+#### Rozdział 5 – Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych, propagowanie wodoru odnawialnego i wysokosprawnej kogeneracji
 
-#### Rozdział 6 Pomoc inwestycyjna na środki wspierające efektywność energetyczną inną niż w budynkach
+#### Rozdział 6 – Pomoc inwestycyjna na środki wspierające efektywność energetyczną inną niż w budynkach
 
-#### Rozdział 7 Pomoc inwestycyjna na środki wspierające efektywność energetyczną w budynkach
+#### Rozdział 7 – Pomoc inwestycyjna na środki wspierające efektywność energetyczną w budynkach
 
-#### Rozdział 8 Pomoc na usługi doradcze na rzecz MŚP
+#### Rozdział 8 – Pomoc na usługi doradcze na rzecz MŚP
 
-#### Rozdział 9 Pomoc szkoleniowa
+#### Rozdział 9 – Pomoc szkoleniowa
 
-#### Rozdział 10 Regionalna pomoc inwestycyjna
+#### Rozdział 10 – Regionalna pomoc inwestycyjna
 
-#### Rozdział 11 Pomoc inwestycyjna na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną
+#### Rozdział 11 – Pomoc inwestycyjna na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną
 
-#### Rozdział 12 Pomoc inwestycyjna na kulturę i zachowanie dziedzictwa kulturowego
+#### Rozdział 12 – Pomoc inwestycyjna na kulturę i zachowanie dziedzictwa kulturowego
 
-#### Rozdział 13 Pomoc inwestycyjna na infrastrukturę ładowania lub infrastrukturę tankowania
+#### Rozdział 13 – Pomoc inwestycyjna na infrastrukturę ładowania lub infrastrukturę tankowania
 
-#### Rozdział 14 Pomoc de minimis
+#### Rozdział 14 – Pomoc de minimis
 
-#### Rozdział 15 Pomoc de minimis na usługi świadczone w ogólnym interesie gospodarczym
+#### Rozdział 15 – Pomoc de minimis na usługi świadczone w ogólnym interesie gospodarczym
 
-#### Rozdział 16 Terminy udzielania pomocy
+#### Rozdział 16 – Terminy udzielania pomocy
 
-#### Rozdział 17 Przepis końcowy
+#### Rozdział 17 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
+
+#### Rozdział 11
+
+#### Rozdział 12
+
+#### Rozdział 13
+
+#### Rozdział 14
+
+#### Rozdział 15
+
+#### Rozdział 16
+
+#### Rozdział 17
 

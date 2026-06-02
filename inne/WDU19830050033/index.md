@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1983-02-01 |
 | Data wydania | 1983-02-05 |
-| Wejście w życie | 1983-02-05 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830050033) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1983/33/text.pdf) |
+
+Świadczenie rehabilitacyjne
 
 **Art. 1.**
 
@@ -82,7 +83,7 @@ source: "eli-html"
 - **1)** składniki wynagrodzenia, których nie uwzględnia się przy ustalaniu podstawy wymiaru zasiłku chorobowego, ” ;
 - **4)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Świadczenie rehabilitacyjne
+#### Rozdział 2a
 
 **Art. 19a.**
 
@@ -219,7 +220,7 @@ source: "eli-html"
 - **1)** rodzinnych,
 - **2)** pielęgnacyjnego,
 - **3)** z tytułu odznaczeń państwowych,
-- **4)** dla sierot zupełnych na warunkach i w wysokości określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
+- **4)** dla sierot zupełnych – na warunkach i w wysokości określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
 
 3. Podwyżka świadczenia oraz dodatki, o których mowa w ust. 1 i w ust. 2 pkt 3, nie przysługują, jeżeli renta inwalidzka lub renta rodzinna jest wypłacana w wysokości określonej w przepisach o świadczeniach z tytułu wypadków przy pracy i chorób zawodowych. ” ;
 
@@ -247,8 +248,13 @@ source: "eli-html"
 
 **Art. 5.** W ustawie z dnia 19 grudnia 1975 r. o ubezpieczeniu społecznym osób wykonujących pracę na rzecz jednostek gospodarki uspołecznionej na podstawie umowy agencyjnej lub umowy zlecenia (Dz. U. Nr 45, poz. 232, z 1976 r. Nr 40, poz. 235 i z 1977 r. Nr 11, poz. 43 oraz Nr 32, poz. 140) wprowadza się następujące zmiany:
 
-- **1)** w art. 6: w ust. 1: – pkt 1–3 otrzymują brzmienie: „ 1) świadczenia lecznicze i położnicze, zaopatrzenie w leki, przedmioty ortopedyczne, protezy, środki opatrunkowe i pomocnicze, 2) świadczenia pieniężne w razie choroby i macierzyństwa: zasiłek chorobowy, świadczenie rehabilitacyjne, zasiłek porodowy i zasiłek macierzyński, 3) zasiłki rodzinne i zasiłek pielęgnacyjny, ” – pkt 8 otrzymuje brzmienie: „ 8) świadczenia w naturze z tytułu pobierania emerytury lub renty: świadczenia lecznicze, położnicze, rehabilitacyjne, zaopatrzenie w leki, przedmioty ortopedyczne, protezy, środki opatrunkowe i pomocnicze oraz pobyt w domu pomocy społecznej. ” , dodaje się ust. 3 i 4 w brzmieniu: „
+- **1)** w art. 6: w ust. 1: pkt 1–3 otrzymują brzmienie: „
     - **a)**
+
+- **1)** świadczenia lecznicze i położnicze, zaopatrzenie w leki, przedmioty ortopedyczne, protezy, środki opatrunkowe i pomocnicze,
+- **2)** świadczenia pieniężne w razie choroby i macierzyństwa: zasiłek chorobowy, świadczenie rehabilitacyjne, zasiłek porodowy i zasiłek macierzyński,
+- **3)** zasiłki rodzinne i zasiłek pielęgnacyjny, ” pkt 8 otrzymuje brzmienie: „
+- **8)** świadczenia w naturze z tytułu pobierania emerytury lub renty: świadczenia lecznicze, położnicze, rehabilitacyjne, zaopatrzenie w leki, przedmioty ortopedyczne, protezy, środki opatrunkowe i pomocnicze oraz pobyt w domu pomocy społecznej. ” , dodaje się ust. 3 i 4 w brzmieniu: „
     - **b)**
 
 3. Podstawa wymiaru emerytury, renty inwalidzkiej i renty rodzinnej ulega corocznym podwyżkom stosownie do wzrostu przeciętnego miesięcznego wynagrodzenia w gospodarce uspołecznionej w roku poprzedzającym rok podwyżki – na zasadach i w terminach określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
@@ -301,8 +307,14 @@ source: "eli-html"
 
 - **1)** w art. 1 pkt 2 otrzymuje brzmienie: „
 - **2)** członków spółdzielni kółek rolniczych zrzeszonych w Krajowym Związku Rolników, Kółek i Organizacji Rolniczych, którzy wykonują pracę w zespołowych gospodarstwach rolnych tych spółdzielni. ” ;
-- **2)** w art. 3: w ust. 1: – pkt 1 i 2 otrzymują brzmienie: „ 1) świadczenia lecznicze i położnicze, zaopatrzenie w leki, przedmioty ortopedyczne, protezy, środki opatrunkowe i pomocnicze, 2) świadczenia pieniężne w razie choroby i macierzyństwa: zasiłek chorobowy, świadczenie rehabilitacyjne, zasiłek porodowy, zasiłek macierzyński i zasiłek opiekuńczy, ” – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) zasiłek wychowawczy ” , – pkt 3 otrzymuje brzmienie: „ 3) zasiłki rodzinne i zasiłek pielęgnacyjny, ” – pkt 9 otrzymuje brzmienie: „ 9) świadczenia w naturze z tytułu pobierania emerytury lub renty: świadczenia lecznicze, położnicze i rehabilitacyjne, zaopatrzenie w leki, przedmioty ortopedyczne, protezy, środki opatrunkowe i pomocnicze oraz pobyt w domu pomocy społecznej. ” ; w ust. 2 dodaje się pkt 5 w brzmieniu: „
+- **2)** w art. 3: w ust. 1: pkt 1 i 2 otrzymują brzmienie: „
     - **a)**
+
+- **1)** świadczenia lecznicze i położnicze, zaopatrzenie w leki, przedmioty ortopedyczne, protezy, środki opatrunkowe i pomocnicze,
+- **2)** świadczenia pieniężne w razie choroby i macierzyństwa: zasiłek chorobowy, świadczenie rehabilitacyjne, zasiłek porodowy, zasiłek macierzyński i zasiłek opiekuńczy, ” po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** zasiłek wychowawczy ” , pkt 3 otrzymuje brzmienie: „
+- **3)** zasiłki rodzinne i zasiłek pielęgnacyjny, ” pkt 9 otrzymuje brzmienie: „
+- **9)** świadczenia w naturze z tytułu pobierania emerytury lub renty: świadczenia lecznicze, położnicze i rehabilitacyjne, zaopatrzenie w leki, przedmioty ortopedyczne, protezy, środki opatrunkowe i pomocnicze oraz pobyt w domu pomocy społecznej. ” ; w ust. 2 dodaje się pkt 5 w brzmieniu: „
     - **b)**
 
 - **5)** dotyczącymi urlopów wychowawczych. ” , dodaje się ust. 3 w brzmieniu: „
@@ -387,7 +399,11 @@ source: "eli-html"
 
 - **16)** w art. 28 pkt 2 otrzymuje brzmienie: „
 - **2)** dochód z tytułu pracy w spółdzielni stanowiący podstawę wymiaru składek na ubezpieczenie uważa się za równorzędny z wynagrodzeniem z tytułu zatrudnienia. ” W ustawie z dnia 18 grudnia 1976 r. o ubezpieczeniu społecznym rzemieślników i niektórych innych osób prowadzących działalność zarobkową na własny rachunek oraz ich rodzin (Dz. U. Nr 40, poz. 235 i z 1977 r. Nr 11, poz. 43 oraz Nr 32, poz. 140) wprowadza się następujące zmiany:
-- **1)** w art. 5: – pkt 2–4 otrzymują brzmienie: „ 2) świadczenia pieniężne w razie choroby oraz macierzyństwa: zasiłek chorobowy, świadczenie rehabilitacyjne oraz zasiłek porodowy i zasiłek macierzyński, 3) zasiłki rodzinne i zasiłek pielęgnacyjny, 4) świadczenia emerytalne: emeryturę, rentę inwalidzką i rentę rodzinną, ” – pkt 8 otrzymuje brzmienie: „ 8) świadczenia w naturze z tytułu pobierania emerytury lub renty: świadczenia lecznicze, położnicze, rehabilitacyjne, zaopatrzenie w leki, przedmioty ortopedyczne, protezy, środki opatrunkowe i pomocnicze oraz pobyt w domu pomocy społecznej. ” ;
+- **1)** w art. 5: pkt 2–4 otrzymują brzmienie: „
+- **2)** świadczenia pieniężne w razie choroby oraz macierzyństwa: zasiłek chorobowy, świadczenie rehabilitacyjne oraz zasiłek porodowy i zasiłek macierzyński,
+- **3)** zasiłki rodzinne i zasiłek pielęgnacyjny,
+- **4)** świadczenia emerytalne: emeryturę, rentę inwalidzką i rentę rodzinną, ” pkt 8 otrzymuje brzmienie: „
+- **8)** świadczenia w naturze z tytułu pobierania emerytury lub renty: świadczenia lecznicze, położnicze, rehabilitacyjne, zaopatrzenie w leki, przedmioty ortopedyczne, protezy, środki opatrunkowe i pomocnicze oraz pobyt w domu pomocy społecznej. ” ;
 - **2)** art. 8 otrzymuje brzmienie: „
 
 1. Zasiłki rodzinne i zasiłek pielęgnacyjny przysługują na zasadach określonych w przepisach o ubezpieczeniu rodzinnym.
@@ -414,7 +430,7 @@ source: "eli-html"
 - **1)** rodzinnych,
 - **2)** pielęgnacyjnego,
 - **3)** z tytułu odznaczeń państwowych,
-- **4)** dla sierot zupełnych na warunkach i w wysokości określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
+- **4)** dla sierot zupełnych – na warunkach i w wysokości określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
 
 2. Dodatki, o których mowa w ust. 1 pkt 3, nie przysługują, jeżeli renta inwalidzka lub renta rodzinna jest wypłacana w wysokości określonej w przepisach o świadczeniach z tytułu wypadków przy pracy i chorób zawodowych. ” ;
 
@@ -465,8 +481,11 @@ source: "eli-html"
 
 7. Jeżeli za dni niezdolności do pracy, z powodu choroby, wypłacano wynagrodzenie w wysokości wyższej niż określona w ust. 5, to różnica podlega odliczeniu z wynagrodzenia przysługującego za następny miesiąc kalendarzowy. Odliczenie to nie stanowi potrącenia w rozumieniu art. 87 Kodeksu pracy. ” ;
 
-- **2)** w art. 158: w ust. 1: – pkt 1 i 2 otrzymują brzmienie: „ 1) 15% podstawy wymiaru tych świadczeń, jeśli uprawniony wykonywał pracą w szkole wyższej na stanowiskach: profesora, docenta, adiunkta, starszego kustosza dyplomowanego lub kustosza dyplomowanego, starszego asystenta i asystenta, 2) 10% podstawy wymiaru tych świadczeń, jeśli uprawniony wykonywał pracę w szkole wyższej na innych stanowiskach niż wymienione w pkt 1. ” , ust. 4 otrzymuje brzmienie: „
+- **2)** w art. 158: w ust. 1: pkt 1 i 2 otrzymują brzmienie: „
     - **a)**
+
+- **1)** 15% podstawy wymiaru tych świadczeń, jeśli uprawniony wykonywał pracą w szkole wyższej na stanowiskach: profesora, docenta, adiunkta, starszego kustosza dyplomowanego lub kustosza dyplomowanego, starszego asystenta i asystenta,
+- **2)** 10% podstawy wymiaru tych świadczeń, jeśli uprawniony wykonywał pracę w szkole wyższej na innych stanowiskach niż wymienione w pkt 1. ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Przyznanie dodatków wymienionych w ust. 1 dla pracowników naukowo-dydaktycznych, którzy przeszli na emeryturę lub rentę przed dniem wejścia w życie ustawy, następuje na ich wniosek. ” ;

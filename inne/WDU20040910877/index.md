@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 2 kwietnia 2004 r. o zmianie ustawy o środkach żywienia zwierząt oraz o zmianie niektórych innych ustaw
+# Ustawaz dnia 2 kwietnia 2004 r. o zmianie ustawy o środkach żywienia zwierząt oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne oraz ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej.Przepisy niniejszej ustawy wdrażają postanowienia:
 
 | Pole | Wartość |
 |---|---|
@@ -22,23 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-04-02 |
 | Data wydania | 2004-04-30 |
-| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040910877) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/877/text.pdf) |
 
-2)
+dyrektywy 79/373/EWG z dnia 2 kwietnia 1979 r. w sprawie obrotu mieszankami paszowymi (Dz. Urz. WE L 86 z 6.04.1979 r., z późn. zm.),
 dyrektywy 90/167/EWG z dnia 26 marca 1990 r. ustanawiającej warunki przygotowania, wprowadzania do obrotu i użycia pasz leczniczych we Wspólnocie (Dz. Urz. WE L 92 z 7.4.1990 r., z późn. zm.),
-3)
 dyrektywy 95/53/WE z dnia 25 października 1995 r. ustalającej zasady dotyczące organizacji urzędowych inspekcji w zakresie żywienia zwierząt (Dz. Urz. WE L 265 z 8.11.1995 r., z późn. zm.),
-4)
 dyrektywy 95/69/WE z dnia 22 grudnia 1995 r. ustanawiającej warunki i środki dla zatwierdzania i rejestracji określonych zakładów i pośredników prowadzących działalność w sektorze pasz zwierzęcych i zmieniającej dyrektywy 70/524/EWG, 74/63/EWG, 79/373/EWG i 82/471/EWG (Dz. Urz. WE L 332 z 30.12.1995 r., z późn. zm.),
-5)
 dyrektywy 96/25/WE z dnia 29 kwietnia 1996 r. w sprawie obrotu materiałami paszowymi, zmieniającej dyrektywy 70/524/EWG, 74/63/EWG, 82/471/EWG i 93/74/EWG oraz uchylającej dyrektywę 77/101/EWG (Dz. Urz. WE L 125 z 23.05.1996 r., z późn. zm.),
-6)
 dyrektywy 98/68/WE z dnia 10 września 1998 r. ustanawiającej dokument wzorcowy określony w art. 9 ust. 1 dyrektywy Rady 95/53/WE i niektóre reguły kontroli przy wprowadzaniu do Wspólnoty pasz z państw trzecich (Dz. Urz. WE L 261 z 24.09.1998 r.),
-7)
-dyrektywy 2001/82/WE z dnia 6 listopada 2001 r. w sprawie wspólnotowego kodeksu odnoszącego się do weterynaryjnych produktów leczniczych (Dz. Urz. WE L 311 z 28.11. 2001 r., z późn. zm.).
-Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
+dyrektywy 2001/82/WE z dnia 6 listopada 2001 r. w sprawie wspólnotowego kodeksu odnoszącego się do weterynaryjnych produktów leczniczych (Dz. Urz. WE L 311 z 28.11. 2001 r., z późn. zm.).Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
 
 **Art. 1.** W ustawie z dnia 23 sierpnia 2001 r. o środkach żywienia zwierząt (Dz. U. Nr 123, poz. 1350 oraz z 2003 r. Nr 122, poz. 1144 i Nr 208, poz. 2020) wprowadza się następujące zmiany:
 
@@ -99,7 +92,7 @@ Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w ninie
 - **2)** warunki, sposób przechowywania i wprowadzania do obrotu pasz leczniczych oraz wzór zlecenia na wprowadzenie ich do obrotu,
 - **3)** sposób prowadzenia raportu wytwarzania i raportu obrotu,
 - **4)** sposób znakowania i transportu pasz leczniczych oraz sposób dokumentowania użycia do produkcji oraz przechowywania premiksów leczniczych zakupionych przez zakład wytwarzający pasze lecznicze,
-- **5)** warunki i sposób pobierania próbek pasz leczniczych mając na względzie zapewnienie właściwej jakości pasz leczniczych, bezpieczeństwo tych pasz dla zdrowia ludzi i zwierząt oraz ich skuteczność w leczeniu zwierząt.
+- **5)** warunki i sposób pobierania próbek pasz leczniczych – mając na względzie zapewnienie właściwej jakości pasz leczniczych, bezpieczeństwo tych pasz dla zdrowia ludzi i zwierząt oraz ich skuteczność w leczeniu zwierząt.
 
 5. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, sposób postępowania z odpadami powstałymi w procesie wytwarzania pasz leczniczych oraz w wyniku ich wykorzystywania, mając na względzie bezpieczne usunięcie tych odpadów oraz eliminację zagrożeń, które mogą być stwarzane przez te odpady dla ludzi, zwierząt i środowiska. ” ;
 
@@ -398,7 +391,7 @@ Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w ninie
 1. W przypadku poważnego zagrożenia dla zdrowia ludzi, zwierząt oraz dla środowiska minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw środowiska może, w drodze rozporządzenia:
 
 - **1)** wprowadzić czasowy zakaz przywozu na terytorium Rzeczypospolitej Polskiej lub przewozu przez jej terytorium środków żywienia zwierząt lub pasz leczniczych z państw, w których to zagrożenie występuje,
-- **2)** określić specjalne wymagania dla środków żywienia zwierząt lub pasz leczniczych przywożonych na terytorium Rzeczypospolitej Polskiej z innych państw mając na względzie zdrowie ludzi, zwierząt i bezpieczeństwo środowiska oraz opinię Komisji Europejskiej w zakresie zastosowania wymienionych zakazów lub ograniczeń.
+- **2)** określić specjalne wymagania dla środków żywienia zwierząt lub pasz leczniczych przywożonych na terytorium Rzeczypospolitej Polskiej z innych państw – mając na względzie zdrowie ludzi, zwierząt i bezpieczeństwo środowiska oraz opinię Komisji Europejskiej w zakresie zastosowania wymienionych zakazów lub ograniczeń.
 
 2. Rozporządzenie, o którym mowa w ust. 1, wydaje się po uprzednim powiadomieniu Komisji Europejskiej o zamiarze wprowadzenia zakazów lub ograniczeń, w przypadku braku niezwłocznych działań Komisji Europejskiej w tym zakresie.
 

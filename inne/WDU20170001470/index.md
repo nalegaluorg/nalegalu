@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 27 lipca 2017 r. zmieniające rozporządzenie w sprawie stawek dotacji przedmiotowych dla różnych podmiotów wykonujących zadania na rzecz rolnictwa
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 27 lipca 2017 r. zmieniające rozporządzenie w sprawie stawek dotacji przedmiotowych dla różnych podmiotów wykonujących zadania na rzecz rolnictwa Minister Rolnictwa i Rozwoju Wsi kieruje działami administracji rządowej – rolnictwo i rozwój wsi, na podstawie § 1 ust. 2 pkt 1 i 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-27 |
 | Data wydania | 2017-07-31 |
-| Wejście w życie | 2017-08-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001470) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1470/text.pdf) |
 
@@ -35,85 +34,63 @@ Treść rozporządzenia
 ## Załącznik nr 3 — – Stawki dotacji na pokrycie kosztów badań podstawowych na rzecz postępu biologicznego w produkcji roślinnej
 
 Treść rozporządzenia
-Na podstawie art. 130 ust. 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 130 ust. 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935 i 1089.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2015 r. w sprawie stawek dotacji przedmiotowych dla różnych podmiotów wykonujących zadania na rzecz rolnictwa (Dz. U. poz. 1170 oraz z 2016 r. poz. 1614) wprowadza się następujące zmiany:
 1)
-w § 5 w ust. 3 pkt 2 otrzymuje brzmienie:
-„
+w § 5 w ust. 3 pkt 2 otrzymuje brzmienie: „
 2)
-równej 120% ceny targowiskowej ziemniaka w województwie, w którym zostały wyprodukowane te bulwy, ustalonej na podstawie ostatnich danych uzyskanych w badaniach statystycznych statystyki publicznej, dostępnych w dniu sprzedaży tych bulw – jeżeli bulwy ziemniaka zostały wyprodukowane poza umową kontraktacji albo jeżeli umowa kontraktacji nie zawiera ceny sprzedaży tych bulw
-” ;
+równej 120% ceny targowiskowej ziemniaka w województwie, w którym zostały wyprodukowane te bulwy, ustalonej na podstawie ostatnich danych uzyskanych w badaniach statystycznych statystyki publicznej, dostępnych w dniu sprzedaży tych bulw – jeżeli bulwy ziemniaka zostały wyprodukowane poza umową kontraktacji albo jeżeli umowa kontraktacji nie zawiera ceny sprzedaży tych bulw ” ;
 2)
-w § 5a w ust. 3 pkt 2 otrzymuje brzmienie:
-„
+w § 5a w ust. 3 pkt 2 otrzymuje brzmienie: „
 2)
-równej 120% ceny targowiskowej ziemniaka w województwie, w którym zostały wyprodukowane te bulwy, ustalonej na podstawie ostatnich danych uzyskanych w badaniach statystycznych statystyki publicznej, dostępnych w dniu sprzedaży tych bulw – jeżeli bulwy ziemniaka zostały wyprodukowane poza umową kontraktacji albo jeżeli umowa kontraktacji nie zawiera ceny sprzedaży tych bulw
-” ;
+równej 120% ceny targowiskowej ziemniaka w województwie, w którym zostały wyprodukowane te bulwy, ustalonej na podstawie ostatnich danych uzyskanych w badaniach statystycznych statystyki publicznej, dostępnych w dniu sprzedaży tych bulw – jeżeli bulwy ziemniaka zostały wyprodukowane poza umową kontraktacji albo jeżeli umowa kontraktacji nie zawiera ceny sprzedaży tych bulw ” ;
 3)
-w § 6 w ust. 3 pkt 2 otrzymuje brzmienie:
-„
+w § 6 w ust. 3 pkt 2 otrzymuje brzmienie: „
 2)
-równej 120% ceny targowiskowej ziemniaka w województwie, w którym zostały wyprodukowane te bulwy, ustalonej na podstawie ostatnich danych uzyskanych w badaniach statystycznych statystyki publicznej, dostępnych w dniu zniszczenia tych bulw przez ich spalenie w spalarni odpadów lub umieszczenie na składowisku odpadów – jeżeli bulwy ziemniaka zostały wyprodukowane poza umową kontraktacji albo jeżeli umowa kontraktacji nie zawiera ceny sprzedaży tych bulw.
-” ;
+równej 120% ceny targowiskowej ziemniaka w województwie, w którym zostały wyprodukowane te bulwy, ustalonej na podstawie ostatnich danych uzyskanych w badaniach statystycznych statystyki publicznej, dostępnych w dniu zniszczenia tych bulw przez ich spalenie w spalarni odpadów lub umieszczenie na składowisku odpadów – jeżeli bulwy ziemniaka zostały wyprodukowane poza umową kontraktacji albo jeżeli umowa kontraktacji nie zawiera ceny sprzedaży tych bulw. ” ;
 4)
 w § 6a w ust. 3 w:
 a)
-pkt 1 lit. b otrzymuje brzmienie:
-„
+pkt 1 lit. b otrzymuje brzmienie: „
 b)
-70% kwoty, którą wnioskodawca mógłby uzyskać ze sprzedaży bulw ziemniaka przekazanych jednostce organizacyjnej lub osobie fizycznej, o których mowa w ust. 1, po cenie targowiskowej ziemniaka w województwie, w którym zostały wyprodukowane te bulwy, ustalonej na podstawie ostatnich danych uzyskanych w badaniach statystycznych statystyki publicznej, dostępnych w dniu przekazania tych bulw – jeżeli bulwy ziemniaka zostały wyprodukowane poza umową kontraktacji albo jeżeli umowa kontraktacji nie zawiera ceny sprzedaży tych bulw;
-” ,
+70% kwoty, którą wnioskodawca mógłby uzyskać ze sprzedaży bulw ziemniaka przekazanych jednostce organizacyjnej lub osobie fizycznej, o których mowa w ust. 1, po cenie targowiskowej ziemniaka w województwie, w którym zostały wyprodukowane te bulwy, ustalonej na podstawie ostatnich danych uzyskanych w badaniach statystycznych statystyki publicznej, dostępnych w dniu przekazania tych bulw – jeżeli bulwy ziemniaka zostały wyprodukowane poza umową kontraktacji albo jeżeli umowa kontraktacji nie zawiera ceny sprzedaży tych bulw; ” ,
 b)
-pkt 2 lit. b otrzymuje brzmienie:
-„
+pkt 2 lit. b otrzymuje brzmienie: „
 b)
-50% ceny targowiskowej ziemniaka w województwie, w którym zostały wyprodukowane te bulwy, ustalonej na podstawie ostatnich danych uzyskanych w badaniach statystycznych statystyki publicznej, dostępnych w dniu przekazania tych bulw – jeżeli bulwy ziemniaka zostały wyprodukowane poza umową kontraktacji albo jeżeli umowa kontraktacji nie zawiera ceny sprzedaży tych bulw.
-” ;
+50% ceny targowiskowej ziemniaka w województwie, w którym zostały wyprodukowane te bulwy, ustalonej na podstawie ostatnich danych uzyskanych w badaniach statystycznych statystyki publicznej, dostępnych w dniu przekazania tych bulw – jeżeli bulwy ziemniaka zostały wyprodukowane poza umową kontraktacji albo jeżeli umowa kontraktacji nie zawiera ceny sprzedaży tych bulw. ” ;
 5)
 w § 6b w ust. 3 w:
 a)
-pkt 1 lit. b otrzymuje brzmienie:
-„
+pkt 1 lit. b otrzymuje brzmienie: „
 b)
-targowiskowej ziemniaka w województwie, w którym zostały wyprodukowane te bulwy, ustalonej na podstawie ostatnich danych uzyskanych w badaniach statystycznych statystyki publicznej, dostępnych w dniu sprzedaży tych bulw – jeżeli bulwy ziemniaka zostały wyprodukowane poza umową kontraktacji albo jeżeli umowa kontraktacji nie zawiera ceny sprzedaży tych bulw
-” ,
+targowiskowej ziemniaka w województwie, w którym zostały wyprodukowane te bulwy, ustalonej na podstawie ostatnich danych uzyskanych w badaniach statystycznych statystyki publicznej, dostępnych w dniu sprzedaży tych bulw – jeżeli bulwy ziemniaka zostały wyprodukowane poza umową kontraktacji albo jeżeli umowa kontraktacji nie zawiera ceny sprzedaży tych bulw ” ,
 b)
-pkt 2 lit. b otrzymuje brzmienie:
-„
+pkt 2 lit. b otrzymuje brzmienie: „
 b)
-targowiskowej ziemniaka w województwie, w którym zostały wyprodukowane te bulwy, ustalonej na podstawie ostatnich danych uzyskanych w badaniach statystycznych statystyki publicznej, dostępnych w dniu sprzedaży tych bulw – jeżeli bulwy ziemniaka zostały wyprodukowane poza umową kontraktacji albo jeżeli umowa kontraktacji nie zawiera ceny sprzedaży tych bulw
-” ;
+targowiskowej ziemniaka w województwie, w którym zostały wyprodukowane te bulwy, ustalonej na podstawie ostatnich danych uzyskanych w badaniach statystycznych statystyki publicznej, dostępnych w dniu sprzedaży tych bulw – jeżeli bulwy ziemniaka zostały wyprodukowane poza umową kontraktacji albo jeżeli umowa kontraktacji nie zawiera ceny sprzedaży tych bulw ” ;
 6)
 w § 6c w ust. 3 w:
 a)
-pkt 1 lit. b otrzymuje brzmienie:
-„
+pkt 1 lit. b otrzymuje brzmienie: „
 b)
-70% kwoty, którą wnioskodawca mógłby uzyskać ze sprzedaży unieszkodliwionych bulw ziemniaka po cenie targowiskowej ziemniaka w województwie, w którym zostały wyprodukowane te bulwy, ustalonej na podstawie ostatnich danych uzyskanych w badaniach statystycznych statystyki publicznej, dostępnych w dniu unieszkodliwienia tych bulw – jeżeli bulwy ziemniaka zostały wyprodukowane poza umową kontraktacji albo jeżeli umowa kontraktacji nie zawiera ceny sprzedaży tych bulw;
-” ,
+70% kwoty, którą wnioskodawca mógłby uzyskać ze sprzedaży unieszkodliwionych bulw ziemniaka po cenie targowiskowej ziemniaka w województwie, w którym zostały wyprodukowane te bulwy, ustalonej na podstawie ostatnich danych uzyskanych w badaniach statystycznych statystyki publicznej, dostępnych w dniu unieszkodliwienia tych bulw – jeżeli bulwy ziemniaka zostały wyprodukowane poza umową kontraktacji albo jeżeli umowa kontraktacji nie zawiera ceny sprzedaży tych bulw; ” ,
 b)
-pkt 2 lit. b otrzymuje brzmienie:
-„
+pkt 2 lit. b otrzymuje brzmienie: „
 b)
-50% ceny targowiskowej ziemniaka w województwie, w którym zostały wyprodukowane te bulwy, ustalonej na podstawie ostatnich danych uzyskanych w badaniach statystycznych statystyki publicznej, dostępnych w dniu unieszkodliwienia tych bulw – jeżeli bulwy ziemniaka zostały wyprodukowane poza umową kontraktacji albo jeżeli umowa kontraktacji nie zawiera ceny sprzedaży tych bulw.
-” ;
+50% ceny targowiskowej ziemniaka w województwie, w którym zostały wyprodukowane te bulwy, ustalonej na podstawie ostatnich danych uzyskanych w badaniach statystycznych statystyki publicznej, dostępnych w dniu unieszkodliwienia tych bulw – jeżeli bulwy ziemniaka zostały wyprodukowane poza umową kontraktacji albo jeżeli umowa kontraktacji nie zawiera ceny sprzedaży tych bulw. ” ;
 7)
 w § 8:
 a)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-Minister właściwy do spraw rolnictwa ogłasza corocznie do dnia 30 września, w dzienniku urzędowym tego ministra, listy, o których mowa w ust. 3, na rok następny oraz zamieszcza je na stronie internetowej administrowanej przez urząd obsługujący tego ministra.
-” ,
+Minister właściwy do spraw rolnictwa ogłasza corocznie do dnia 30 września, w dzienniku urzędowym tego ministra, listy, o których mowa w ust. 3, na rok następny oraz zamieszcza je na stronie internetowej administrowanej przez urząd obsługujący tego ministra. ” ,
 b)
-ust. 6 i 7 otrzymują brzmienie:
-„
+ust. 6 i 7 otrzymują brzmienie: „
 6.
 Wniosek o udzielenie dotacji składa się do ministra właściwego do spraw rolnictwa w terminie do dnia 31 grudnia roku poprzedzającego rok, w którym udziela się dotacji, zgodnie ze wzorem nr 10 określonym w załączniku nr 2 do rozporządzenia.
 7.
-Minister właściwy do spraw rolnictwa corocznie, do dnia 30 kwietnia, wydaje decyzje w sprawie udzielenia dotacji, z tym że w przypadku gdy organizacja badawcza złożyła więcej niż jeden wniosek o udzielenie dotacji, wydaje jedną decyzję.
-” ;
+Minister właściwy do spraw rolnictwa corocznie, do dnia 30 kwietnia, wydaje decyzje w sprawie udzielenia dotacji, z tym że w przypadku gdy organizacja badawcza złożyła więcej niż jeden wniosek o udzielenie dotacji, wydaje jedną decyzję. ” ;
 8)
 w załączniku nr 2 do rozporządzenia:
 a)
@@ -138,16 +115,20 @@ do rozpatrzenia wniosków stosuje się przepisy dotychczasowe.
 3.
 W przypadku wniosków, o których mowa w ust. 1 i 2, wypłaty, o której mowa w § 9 ust. 7 pkt 1 rozporządzenia zmienianego w § 1, dokonuje się w terminie 90 dni od dnia wejścia w życie niniejszego rozporządzenia.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 8 i 9, które wchodzą w życie z dniem 1 stycznia 2018 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działami administracji rządowej – rolnictwo i rozwój wsi, na podstawie § 1 ust. 2 pkt 1 i 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935 i 1089.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 8 i 9, które wchodzą w życie z dniem 1 stycznia 2018 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działami administracji rządowej – rolnictwo i rozwój wsi, na podstawie § 1 ust. 2 pkt 1 i 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935 i 1089.
 
 ## Załącznik nr 1 — – Wstępna kalkulacja kosztów kwalifikujących się do objęcia dotacją, planowanych (wzór)
 
-...(pieczęć*) albo nazwa i adres wnioskodawcy)... Załącznik nr ... do wniosku z dnia... WSTĘPNA KALKULACJA KOSZTÓW kwalifikujących się do objęcia dotacją, planowanych na ... r. na realizację badania podstawowego na rzecz postępu biologicznego w produkcji zwierzęcej/postępu biologicznego w produkcji roślinnej/rolnictwa ekologicznego**)pod tytułem: .... na podstawie § .... ust. .... pkt. .... oraz lp. ..... załącznika nr ..../ nr zadania .... w załączniku nr 8**) do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2015 r. w sprawie stawek dotacji przedmiotowych dla różnych podmiotów wykonujących zadania na rzecz rolnictwa (Dz. U. poz. 1170, z późn. zm.). Lp. Rodzaj kosztów Planowana kwota kosztów kwalifikujących się do objęcia dotacją ogółem (w złotych) Planowany udział ministra właściwego do spraw rolnictwa w kosztach kwalifikujących się do objęcia dotacją z kol. 3 (w złotych) 1 2 3 4 1 Wynagrodzenia 2 Pochodne od wynagrodzeń 3 Materiały i wyposażenie 4 Podróże służbowe 5 Usługi 6 Amortyzacja 7 Pozostałe koszty 8 Narzut kosztów ogólnych (do 15%) RAZEM ...(pieczęć*) i podpis głównego księgowego**))... ...(pieczęć*) i podpis wnioskodawcy)... *) W przypadku formy papierowej. **) Niepotrzebne skreślić.
+...(pieczęć*) albo nazwa i adres wnioskodawcy)... Załącznik nr ... do wniosku z dnia... WSTĘPNA KALKULACJA KOSZTÓW kwalifikujących się do objęcia dotacją, planowanych na ... r. na realizację badania podstawowego na rzecz postępu biologicznego w produkcji zwierzęcej/postępu biologicznego w produkcji roślinnej/rolnictwa ekologicznego**)pod tytułem: .... na podstawie § .... ust. .... pkt. .... oraz lp. ..... załącznika nr ..../ nr zadania .... w załączniku nr 8**) do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2015 r. w sprawie stawek dotacji przedmiotowych dla różnych podmiotów wykonujących zadania na rzecz rolnictwa (Dz. U. poz. 1170, z późn. zm.).
+Lp. Rodzaj kosztów Planowana kwota kosztów kwalifikujących się do objęcia dotacją ogółem (w złotych) Planowany udział ministra właściwego do spraw rolnictwa w kosztach kwalifikujących się do objęcia dotacją z kol. 3 (w złotych) 1 2 3 4 1 Wynagrodzenia 2 Pochodne od wynagrodzeń 3 Materiały i wyposażenie 4 Podróże służbowe 5 Usługi 6 Amortyzacja 7 Pozostałe koszty 8 Narzut kosztów ogólnych (do 15%) RAZEM
+...(pieczęć*) i podpis głównego księgowego**))... ...(pieczęć*) i podpis wnioskodawcy)... *) W przypadku formy papierowej. **) Niepotrzebne skreślić.
 
 ## Załącznik nr 2 — – Rozliczenie dotacji (wzór)
 
-...(pieczęć*) albo nazwa i adres wnioskodawcy)... Minister Rolnictwa i Rozwoju Wsi ul. Wspólna 30 00–930 Warszawa ROZLICZENIE DOTACJI na pokrycie kosztów wykonania badania podstawowego na rzecz postępu biologicznego w produkcji zwierzęcej, postępu biologicznego w produkcji roślinnej, rolnictwa ekologicznego**)pod tytułem: .... zrealizowanego na podstawie decyzji Ministra Rolnictwa i Rozwoju Wsi nr .... z dnia .... wydanej na podstawie § .... ust. .... pkt .... oraz lp. .... załącznika nr ..... / nr zadania .... w załączniku nr 8**) do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2015 r. w sprawie stawek dotacji przedmiotowych dla różnych podmiotów wykonujących zadania na rzecz rolnictwa (Dz. U. poz. 1170, z późn. zm.). Lp. Wyszczególnienie***)(nazwa i data dowodu księgowego lub zestawienie określonych dowodów księgowych w ramach każdego z wyszczególnionych rodzajów kosztów) Numer ewidencyjny dowodu w księgach rachunkowych lub numery ewidencyjne poszczególnych dowodów księgowych uwzględnionych w zestawieniu Kwota kosztów kwalifikujących się do objęcia dotacją według dowodu księgowego lub zestawienia dowodów księgowych (w złotych) Udział finansowy ministra właściwego do spraw rolnictwa w kosztach kwalifikujących się do objęcia dotacją z kol. 4 (w złotych) 1 2 3 4 5 RAZEM ...(pieczęć*) i podpis głównego księgowego**))... ...(pieczęć*) i podpis wnioskodawcy)... Otrzymuje: Ministerstwo Rolnictwa i Rozwoju Wsi Departament Bezpieczeństwa Żywności i Weterynarii**) Departament Hodowli i Ochrony Roślin**) *) W przypadku formy papierowej. **) Niepotrzebne skreślić. ***) W przypadku podawania dowodów księgowych należy podać numer dowodu i datę jego wystawienia, a w przypadku zestawień dowodów księgowych należy podać miesiąc i rok, którego dotyczą; należy wskazać, czego dotyczy dowód księgowy lub zestawienie dowodów księgowych (np. papier maszynowy).
+...(pieczęć*) albo nazwa i adres wnioskodawcy)... Minister Rolnictwa i Rozwoju Wsi ul. Wspólna 30 00–930 Warszawa ROZLICZENIE DOTACJI na pokrycie kosztów wykonania badania podstawowego na rzecz postępu biologicznego w produkcji zwierzęcej, postępu biologicznego w produkcji roślinnej, rolnictwa ekologicznego**)pod tytułem: .... zrealizowanego na podstawie decyzji Ministra Rolnictwa i Rozwoju Wsi nr .... z dnia .... wydanej na podstawie § .... ust. .... pkt .... oraz lp. .... załącznika nr ..... / nr zadania .... w załączniku nr 8**) do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2015 r. w sprawie stawek dotacji przedmiotowych dla różnych podmiotów wykonujących zadania na rzecz rolnictwa (Dz. U. poz. 1170, z późn. zm.).
+Lp. Wyszczególnienie***)
+(nazwa i data dowodu księgowego lub zestawienie określonych dowodów księgowych w ramach każdego z wyszczególnionych rodzajów kosztów) Numer ewidencyjny dowodu w księgach rachunkowych lub numery ewidencyjne poszczególnych dowodów księgowych uwzględnionych w zestawieniu Kwota kosztów kwalifikujących się do objęcia dotacją według dowodu księgowego lub zestawienia dowodów księgowych (w złotych) Udział finansowy ministra właściwego do spraw rolnictwa w kosztach kwalifikujących się do objęcia dotacją z kol. 4 (w złotych) 1 2 3 4 5 RAZEM
+...(pieczęć*) i podpis głównego księgowego**))... ...(pieczęć*) i podpis wnioskodawcy)... Otrzymuje: Ministerstwo Rolnictwa i Rozwoju Wsi Departament Bezpieczeństwa Żywności i Weterynarii**) Departament Hodowli i Ochrony Roślin**) *) W przypadku formy papierowej. **) Niepotrzebne skreślić. ***) W przypadku podawania dowodów księgowych należy podać numer dowodu i datę jego wystawienia, a w przypadku zestawień dowodów księgowych należy podać miesiąc i rok, którego dotyczą; należy wskazać, czego dotyczy dowód księgowy lub zestawienie dowodów księgowych (np. papier maszynowy).
 
 ## Załącznik nr 3 — – Stawki dotacji na pokrycie kosztów badań podstawowych na rzecz postępu biologicznego w produkcji roślinnej
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Funduszy i Polityki Regionalnejz dnia 23 października 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Funduszy i Polityki Regionalnej w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Interreg na lata 2021–2027
+# Obwieszczenie Ministra Funduszy i Polityki Regionalnejz dnia 23 października 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Funduszy i Polityki Regionalnej w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Interreg na lata 2021–2027 Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711).
 
 | Pole | Wartość |
 |---|---|
@@ -37,8 +37,7 @@ rozporządzeniem Ministra Funduszy i Polityki Regionalnej z dnia 4 czerwca 2024 
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 i § 3 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 14 listopada 2023 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Interreg na lata 2021–2027 (Dz. U. poz. 2502), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 14 listopada 2023 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Interreg na lata 2021–2027 (Dz. U. poz. 2502), które stanowią: „
 § 2.
 1.
 Do umów albo porozumień zawartych przed dniem wejścia w życie niniejszego rozporządzenia, na podstawie których udzielono pomocy, o której mowa w § 1 rozporządzenia zmienianego w § 1, stosuje się przepisy dotychczasowe.
@@ -47,11 +46,9 @@ Do umów albo porozumień zawieranych po dniu wejścia w życie niniejszego rozp
 3.
 Wnioski, o których mowa w ust. 2, wymagające uzupełnienia w zakresie wynikającym z przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, uzupełnia się na wezwanie podmiotu udzielającego pomocy, o której mowa w § 1 rozporządzenia zmienianego w § 1, w terminie wyznaczonym przez ten podmiot, nie krótszym niż 14 dni od dnia otrzymania wezwania.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 4 czerwca 2024 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Interreg na lata 2021–2027 (Dz. U. poz. 848), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 4 czerwca 2024 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Interreg na lata 2021–2027 (Dz. U. poz. 848), które stanowią: „
 § 2.
 1.
 Do umów o dofinansowanie projektu albo porozumień zawartych przed dniem wejścia w życie niniejszego rozporządzenia, na podstawie których udzielono pomocy de minimis , o której mowa w § 1 rozporządzenia zmienianego w § 1, stosuje się przepisy dotychczasowe.
@@ -60,10 +57,8 @@ Do umów o dofinansowanie projektu albo porozumień zawieranych od dnia wejścia
 3.
 Wnioski, o których mowa w ust. 2, wymagające uzupełnienia lub poprawienia w zakresie wynikającym z przepisów rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem uzupełnia się lub poprawia na wezwanie podmiotu udzielającego pomocy de minimis , o którym mowa w § 5 rozporządzenia zmienianego w § 1, w terminie wyznaczonym przez ten podmiot nie krótszym niż 14 dni od dnia przekazania wezwania.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711).
-Załącznik – Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 11 grudnia 2022 r. w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Interreg na lata 2021–2027
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711).
+Załącznik – Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 11 grudnia 2022 r. w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Interreg na lata 2021–2027Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – rozwój regionalny kieruje Minister Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711).
 Na podstawie art. 30 ust. 4 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom pomocy de minimis oraz pomocy publicznej, w ramach następujących programów Interreg na lata 2021–2027:
@@ -74,17 +69,16 @@ Programu Współpracy Interreg Polska-Saksonia 2021–2027,
 3)
 Programu Współpracy Interreg Polska-Dania-Niemcy-Litwa-Szwecja (Południowy Bałtyk) 2021–2027,
 4)
-Programu Współpracy Interreg NEXT Polska-Ukraina 2021–2027
-a także podmioty udzielające tej pomocy.
-§ 2.
+Programu Współpracy Interreg NEXT Polska-Ukraina 2021–2027 – a także podmioty udzielające tej pomocy.
+§ 2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 4 czerwca 2024 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Interreg na lata 2021–2027 (Dz. U. poz. 848), które weszło w życie z dniem 11 czerwca 2024 r..
 Pomoc de minimis jest udzielana na zasadach określonych w rozporządzeniu Komisji (UE) 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 2023/2831 z 15.12.2023), zwanym dalej „rozporządzeniem 2023/2831”.
 § 3.
-Pomoc publiczna jest udzielana na zasadach określonych w rozporządzeniu Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem nr 651/2014”.
+Pomoc publiczna jest udzielana na zasadach określonych w rozporządzeniu Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1., zwanym dalej „rozporządzeniem nr 651/2014”.
 § 4.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
 intensywności pomocy – należy przez to rozumieć intensywność pomocy w rozumieniu art. 2 pkt 26 rozporządzenia nr 651/2014;
-2)
+2Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 jednym przedsiębiorcy – należy przez to rozumieć jedno przedsiębiorstwo w rozumieniu art. 2 ust. 2 rozporządzenia 2023/2831;
 3)
 przedsiębiorcy – należy przez to rozumieć przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia nr 651/2014;
@@ -99,9 +93,9 @@ instytucja zarządzająca;
 beneficjent.
 2.
 W przypadku gdy podmiotem udzielającym pomocy de minimis lub pomocy publicznej jest beneficjent, pomoc de minimis i pomoc publiczna mogą zostać udzielone, jeżeli możliwość ich udzielania przewidują umowa lub porozumienie, o których mowa w art. 2 pkt 32 lit. c ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027.
-§ 6.
+§ 6Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 1.
-Pomoc de minimis może zostać udzielona przedsiębiorcom działającym we wszystkich sektorach z wyłączeniem przypadków, o których mowa w art. 1 ust. 1 rozporządzenia 2023/2831, oraz przypadków, o których mowa w art. 7 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1058 z dnia 24 czerwca 2021 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i Funduszu Spójności (Dz. Urz. UE L 231 z 30.06.2021, str. 60, z późn. zm.).
+Pomoc de minimis może zostać udzielona przedsiębiorcom działającym we wszystkich sektorach z wyłączeniem przypadków, o których mowa w art. 1 ust. 1 rozporządzenia 2023/2831, oraz przypadków, o których mowa w art. 7 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1058 z dnia 24 czerwca 2021 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i Funduszu Spójności (Dz. Urz. UE L 231 z 30.06.2021, str. 60, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 13 z 20.01.2022, str. 74 oraz Dz. Urz. UE L 2024/795 z 29.02.2024..
 2.
 Pomoc de minimis jest udzielana w formach i na zasadach określonych w art. 4 ust. 1 i 2 rozporządzenia 2023/2831.
 3.
@@ -152,7 +146,7 @@ w formach określonych w art. 53 ust. 3 rozporządzenia nr 651/2014;
 na pokrycie kosztów kwalifikowalnych, o których mowa w art. 53 ust. 4 i 5 oraz ust. 9 zdanie trzecie rozporządzenia nr 651/2014.
 2.
 Wartość dopuszczalnej pomocy publicznej na kulturę i zachowanie dziedzictwa kulturowego ustala się zgodnie z art. 53 ust. 6 i 7 oraz ust. 9 zdanie pierwsze i drugie rozporządzenia nr 651/2014.
-3.
+3Ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 14 listopada 2023 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Interreg na lata 2021–2027 (Dz. U. poz. 2502), które weszło w życie z dniem 18 listopada 2023 r..
 W przypadku pomocy publicznej na kulturę i zachowanie dziedzictwa kulturowego nieprzekraczającej równowartości 2,2 mln euro wartość dopuszczalnej pomocy może zostać ustalona zgodnie z art. 53 ust. 8 rozporządzenia nr 651/2014.
 § 11.
 1.
@@ -173,7 +167,7 @@ Pomoc publiczna na infrastrukturę sportową i wielofunkcyjną infrastrukturę r
 Powierzenie osobie trzeciej zadań, o których mowa w art. 55 ust. 6 rozporządzenia nr 651/2014, jest możliwe po spełnieniu warunków określonych w tym przepisie.
 6.
 Wartość dopuszczalnej pomocy na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną ustala się zgodnie z art. 55 ust. 10 i 11 rozporządzenia nr 651/2014.
-7.
+7Ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 14 listopada 2023 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Interreg na lata 2021–2027 (Dz. U. poz. 2502), które weszło w życie z dniem 18 listopada 2023 r..
 W przypadku pomocy na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną nieprzekraczającej równowartości 2,2 mln euro wartość dopuszczalnej pomocy może zostać ustalona zgodnie z art. 55 ust. 12 rozporządzenia nr 651/2014.
 § 12.
 1.
@@ -211,27 +205,25 @@ wnioskowaną kwotę pomocy;
 inne informacje, niezbędne do dokonania oceny wniosku, wskazane przez podmiot udzielający pomocy w dokumentach dotyczących naboru.
 3.
 Przedsiębiorca ubiegający się o pomoc de minimis załącza do wniosku dodatkowo:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.)
 kopie zaświadczeń o pomocy de minimis oraz zaświadczeń o pomocy de minimis w rolnictwie lub zaświadczeń o pomocy de minimis w rybołówstwie, jakie otrzymał w okresie, o którym mowa w art. 3 ust. 2 rozporządzenia 2023/2831, albo oświadczenie o wielkości tej pomocy otrzymanej w tym okresie, albo oświadczenie o nieotrzymaniu takiej pomocy w tym okresie;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.)
 informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702).
 4.
 Do wniosku o udzielenie pomocy publicznej przedsiębiorca załącza informacje, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, określone w rozporządzeniu Rady Ministrów z dnia 29 marca 2010 r. w sprawie zakresu informacji przedstawianych przez podmiot ubiegający się o pomoc inną niż pomoc de minimis lub pomoc de minimis w rolnictwie lub rybołówstwie (Dz. U. poz. 312 i 1704, z 2016 r. poz. 238 oraz z 2020 r. poz. 1338).
 § 14.
 1.
 Podmiot udzielający pomocy dokonuje oceny wniosku w oparciu o warunki dopuszczalności pomocy.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Przedsiębiorca przed podpisaniem umowy o dofinansowanie projektu przedstawia podmiotowi udzielającemu pomocy:
 1)
 kopie zaświadczeń o pomocy de minimis oraz zaświadczeń o pomocy de minimis w rolnictwie lub zaświadczeń o pomocy de minimis w rybołówstwie, jakie otrzymał w okresie, o którym mowa w art. 3 ust. 2 rozporządzenia 2023/2831, albo oświadczenie o wielkości tej pomocy otrzymanej w tym okresie, albo oświadczenie o nieotrzymaniu takiej pomocy w tym okresie,
 2)
-informacje o wielkości i przeznaczeniu pomocy publicznej otrzymanej w odniesieniu do tych samych kosztów kwalifikowalnych, na których pokrycie ma być przeznaczona pomoc
-dotyczące okresu od dnia złożenia wniosku.
-§ 15.
-Pomoc de minimis jest udzielana do końca okresu kwalifikowalności, o którym mowa w art. 63 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm.).
+informacje o wielkości i przeznaczeniu pomocy publicznej otrzymanej w odniesieniu do tych samych kosztów kwalifikowalnych, na których pokrycie ma być przeznaczona pomoc – dotyczące okresu od dnia złożenia wniosku.
+§ 15W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2..
+Pomoc de minimis jest udzielana do końca okresu kwalifikowalności, o którym mowa w art. 63 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 261 z 22.07.2021, str. 58, Dz. Urz. UE L 241 z 19.09.2022, str. 16, Dz. Urz. UE L 275 z 25.10.2022, str. 23, Dz. Urz. UE L 63 z 28.02.2023, str. 1, Dz. Urz. UE L 130 z 16.05.2023, str. 1, Dz. Urz. UE L 2024/795 z 29.02.2024 oraz Dz. Urz. UE L 2024/1351 z 22.05.2024..
 § 16.
 Pomoc publiczna jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze, w związku z art. 59 rozporządzenia nr 651/2014.
 § 17.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – rozwój regionalny kieruje Minister Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 4 czerwca 2024 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Interreg na lata 2021–2027 (Dz. U. poz. 848), które weszło w życie z dniem 11 czerwca 2024 r. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 4) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 13 z 20.01.2022, str. 74 oraz Dz. Urz. UE L 2024/795 z 29.02.2024. 6) Ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 14 listopada 2023 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Interreg na lata 2021–2027 (Dz. U. poz. 2502), które weszło w życie z dniem 18 listopada 2023 r. 7) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 10) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 261 z 22.07.2021, str. 58, Dz. Urz. UE L 241 z 19.09.2022, str. 16, Dz. Urz. UE L 275 z 25.10.2022, str. 23, Dz. Urz. UE L 63 z 28.02.2023, str. 1, Dz. Urz. UE L 130 z 16.05.2023, str. 1, Dz. Urz. UE L 2024/795 z 29.02.2024 oraz Dz. Urz. UE L 2024/1351 z 22.05.2024. 11) Rozporządzenie zostało ogłoszone w dniu 23 grudnia 2022 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 23 grudnia 2022 r.. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – rozwój regionalny kieruje Minister Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 4 czerwca 2024 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Interreg na lata 2021–2027 (Dz. U. poz. 848), które weszło w życie z dniem 11 czerwca 2024 r. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 4) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 13 z 20.01.2022, str. 74 oraz Dz. Urz. UE L 2024/795 z 29.02.2024. 6) Ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 14 listopada 2023 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Interreg na lata 2021–2027 (Dz. U. poz. 2502), które weszło w życie z dniem 18 listopada 2023 r. 7) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 10) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 261 z 22.07.2021, str. 58, Dz. Urz. UE L 241 z 19.09.2022, str. 16, Dz. Urz. UE L 275 z 25.10.2022, str. 23, Dz. Urz. UE L 63 z 28.02.2023, str. 1, Dz. Urz. UE L 130 z 16.05.2023, str. 1, Dz. Urz. UE L 2024/795 z 29.02.2024 oraz Dz. Urz. UE L 2024/1351 z 22.05.2024. 11) Rozporządzenie zostało ogłoszone w dniu 23 grudnia 2022 r.
 

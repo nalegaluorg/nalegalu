@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy o odpowiedzialności za naruszenie dyscypliny finansów publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy o odpowiedzialności za naruszenie dyscypliny finansów publicznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych, ustawę z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze, ustawę z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych oraz ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-19 |
 | Data wydania | 2011-11-10 |
-| Wejście w życie | 2012-02-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112401429) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1429/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2005 r. Nr 14, poz. 114, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2005 r. Nr 14, poz. 114, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 249, poz. 2104, z 2006 r. Nr 79, poz. 551, z 2009 r. Nr 19, poz. 101, Nr 157, poz. 1241 i Nr 223, poz. 1778 oraz z 2010 r. Nr 182, poz. 1228.) wprowadza się następujące zmiany:
 
 - **1)** art. 3 otrzymuje brzmienie: „
 
-**Art. 3.** Przepisów ustawy, z zastrzeżeniem art. 16, nie stosuje się do określania, ustalania, poboru lub wpłaty należności celnych i należności z tytułu podatków i opłat, o których mowa w art. 2 § 1 pkt 1 i 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.), stanowiących dochody budżetu państwa lub jednostki samorządu terytorialnego, w tym odsetek za zwłokę, a także udzielania ulg i zwolnień w zakresie tych należności. ” ;
+**Art. 3.** Przepisów ustawy, z zastrzeżeniem art. 16, nie stosuje się do określania, ustalania, poboru lub wpłaty należności celnych i należności z tytułu podatków i opłat, o których mowa w art. 2 § 1 pkt 1 i 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 57, poz. 355, Nr 127, poz. 858, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 197, poz. 1306 oraz z 2011 r. Nr 34, poz. 173, Nr 75, poz. 398, Nr 106, poz. 622, Nr 134, poz. 781, Nr 171, poz. 1016, Nr 186, poz. 1100, Nr 199, poz. 1175, Nr 232, poz. 1378 i Nr 234, poz. 1391.), stanowiących dochody budżetu państwa lub jednostki samorządu terytorialnego, w tym odsetek za zwłokę, a także udzielania ulg i zwolnień w zakresie tych należności. ” ;
 
 - **2)** art. 4 otrzymuje brzmienie: „
 
@@ -49,8 +48,10 @@ source: "eli-html"
 - **1)** osoby zobowiązane lub upoważnione do działania w imieniu podmiotu, któremu odrębną ustawą lub na jej podstawie albo na podstawie umowy lub w drodze porozumienia powierzono określone zadania związane z realizacją programu finansowanego z udziałem środków pochodzących z budżetu Unii Europejskiej, niepodlegających zwrotowi środków z pomocy udzielanej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) lub innych środków pochodzących ze źródeł zagranicznych niepodlegających zwrotowi, zwanych dalej „środkami unijnymi lub zagranicznymi”;
 - **2)** osoby zobowiązane do realizacji projektu finansowanego z udziałem środków unijnych lub zagranicznych, którym przekazano środki publiczne przeznaczone na realizację tego projektu lub które wykorzystują takie środki;
 - **3)** osoby zobowiązane lub upoważnione do działania w imieniu podmiotu zobowiązanego do realizacji projektu finansowanego z udziałem środków unijnych lub zagranicznych, któremu przekazano środki publiczne przeznaczone na realizację tego projektu lub który wykorzystuje takie środki. ” ;
-- **4)** w art. 5: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) niezgodne z przepisami umorzenie należności Skarbu Państwa, jednostki samorządu terytorialnego lub innej jednostki sektora finansów publicznych, odroczenie jej spłaty lub rozłożenie spłaty na raty albo dopuszczenie do przedawnienia tej należności. ” , – uchyla się pkt 4, uchyla się ust. 2, ust. 3 otrzymuje brzmienie: „
+- **4)** w art. 5: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** niezgodne z przepisami umorzenie należności Skarbu Państwa, jednostki samorządu terytorialnego lub innej jednostki sektora finansów publicznych, odroczenie jej spłaty lub rozłożenie spłaty na raty albo dopuszczenie do przedawnienia tej należności. ” , – uchyla się pkt 4, uchyla się ust. 2, ust. 3 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -178,15 +179,16 @@ source: "eli-html"
 
 2. Przepis ust. 1 stosuje się odpowiednio w przypadku działania lub zaniechania określonego w art. 18 pkt 2 oraz art. 18b i 18c.
 
-3. Kwotą minimalną w rozumieniu ust. 1 jest kwota przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzednim, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” zgodnie z art. 5 ust. 7 ustawy z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 1996 r. Nr 70, poz. 335, z późn. zm.), zwanego dalej „przeciętnym wynagrodzeniem”. ” ;
+3. Kwotą minimalną w rozumieniu ust. 1 jest kwota przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzednim, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” zgodnie z art. 5 ust. 7 ustawy z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 1996 r. Nr 70, poz. 335, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 118, poz. 561, Nr 139, poz. 647 i Nr 147, poz. 686, z 1997 r. Nr 82, poz. 518 i Nr 121, poz. 770, z 1998 r. Nr 75, poz. 486 i Nr 113, poz. 717, z 2002 r. Nr 135, poz. 1146, z 2003 r. Nr 213, poz. 2081, z 2005 r. Nr 249, poz. 2104, z 2007 r. Nr 69, poz. 467 i Nr 89, poz. 589, z 2008 r. Nr 86, poz. 522 i Nr 237, poz. 1654 i 1656, z 2009 r. Nr 157, poz. 1241 oraz z 2011 r. Nr 45, poz. 235.), zwanego dalej „przeciętnym wynagrodzeniem”. ” ;
 
 - **20)** w art. 28: po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
 
-1a. Przy ocenie stopnia szkodliwości dla finansów publicznych naruszenia dyscypliny finansów publicznych uwzględnia się wagę naruszonych obowiązków, sposób i okoliczności ich naruszenia, a także skutki naruszenia. ” , w ust. 2: – zdanie wstępne otrzymuje brzmienie: „ Przy ocenie stopnia szkodliwości dla finansów publicznych naruszenia dyscypliny finansów publicznych wywołującego skutki finansowe bierze się pod uwagę w szczególności wysokość skutku finansowego, w tym: ” , – pkt 5 otrzymuje brzmienie: „ 5) kwotę zapłaconych odsetek, kar lub opłat albo wypłaconego oprocentowania. ” , dodaje się ust. 3 w brzmieniu: „
+1a. Przy ocenie stopnia szkodliwości dla finansów publicznych naruszenia dyscypliny finansów publicznych uwzględnia się wagę naruszonych obowiązków, sposób i okoliczności ich naruszenia, a także skutki naruszenia. ” , w ust. 2: – zdanie wstępne otrzymuje brzmienie: „ Przy ocenie stopnia szkodliwości dla finansów publicznych naruszenia dyscypliny finansów publicznych wywołującego skutki finansowe bierze się pod uwagę w szczególności wysokość skutku finansowego, w tym: ” , pkt 5 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **5)** kwotę zapłaconych odsetek, kar lub opłat albo wypłaconego oprocentowania. ” , dodaje się ust. 3 w brzmieniu: „
+    - **c)**
 
 3. Przy ocenie stopnia szkodliwości dla finansów publicznych naruszenia dyscypliny finansów publicznych niewywołującego skutków finansowych uwzględnia się w szczególności wagę naruszonych obowiązków oraz sposób i okoliczności ich naruszenia, w tym w przypadku naruszenia dyscypliny finansów publicznych określonego w art. 17 i 17a – sposób naruszenia zasady uczciwej konkurencji lub zasady równego traktowania wykonawców. ” ;
 
@@ -223,7 +225,7 @@ source: "eli-html"
 - **1)** nie została wpłacona lub zwrócona należność Skarbu Państwa, jednostki samorządu terytorialnego lub innej jednostki sektora finansów publicznych w znacznej wysokości,
 - **2)** bez upoważnienia albo z przekroczeniem zakresu upoważnienia zaciągnięto zobowiązanie lub dokonano wydatku w znacznej wysokości,
 - **3)** zapłacono ze środków publicznych odsetki, kary lub opłaty albo oprocentowanie w znacznej wysokości,
-- **4)** udzielono zamówienia publicznego z istotnym naruszeniem zasady uczciwej konkurencji lub zasady równego traktowania wykonawców wymierza się karę pieniężną. ” ;
+- **4)** udzielono zamówienia publicznego z istotnym naruszeniem zasady uczciwej konkurencji lub zasady równego traktowania wykonawców – wymierza się karę pieniężną. ” ;
 - **26)** art. 35 otrzymuje brzmienie: „
 
 **Art. 35.** Karę upomnienia można wymierzyć w szczególności w przypadku, gdy stopień szkodliwości naruszenia dyscypliny finansów publicznych nie jest znaczny. ” ;
@@ -261,7 +263,7 @@ source: "eli-html"
 
 **Art. 48.** Międzyresortowa komisja orzekająca przy ministrze właściwym do spraw finansów publicznych orzeka w sprawach o naruszenie dyscypliny finansów publicznych w zakresie dotyczącym:
 
-- **1)** realizacji budżetu państwa w częściach ustalonych dla następujących działów administracji rządowej: budżet, finanse publiczne, instytucje finansowe, członkostwo Rzeczypospolitej Polskiej w Unii Europejskiej, kultura i ochrona dziedzictwa narodowego, kultura fizyczna, nauka, oświata i wychowanie, rolnictwo, rozwój wsi, rynki rolne, rybołówstwo, szkolnictwo wyższe, turystyka, sprawy zagraniczne, zdrowie z wyłączeniem środków przekazanych jednostkom, o których mowa w art. 51 pkt 1 i 4;
+- **1)** realizacji budżetu państwa w częściach ustalonych dla następujących działów administracji rządowej: budżet, finanse publiczne, instytucje finansowe, członkostwo Rzeczypospolitej Polskiej w Unii Europejskiej, kultura i ochrona dziedzictwa narodowego, kultura fizyczna, nauka, oświata i wychowanie, rolnictwo, rozwój wsi, rynki rolne, rybołówstwo, szkolnictwo wyższe, turystyka, sprawy zagraniczne, zdrowie – z wyłączeniem środków przekazanych jednostkom, o których mowa w art. 51 pkt 1 i 4;
     - **a)**
     - **b)**
     - **c)**
@@ -285,7 +287,7 @@ source: "eli-html"
 
 **Art. 49.** Międzyresortowa komisja orzekająca przy ministrze właściwym do spraw administracji publicznej orzeka w sprawach o naruszenie dyscypliny finansów publicznych w zakresie dotyczącym:
 
-- **1)** realizacji budżetu państwa w częściach ustalonych dla następujących działów administracji rządowej: administracja publiczna, budownictwo, gospodarka przestrzenna i mieszkaniowa, gospodarka, gospodarka morska, gospodarka wodna, informatyzacja, łączność, obrona narodowa, praca, rozwój regionalny, Skarb Państwa, transport, środowisko, rodzina, sprawy wewnętrzne, wyznania religijne oraz mniejszości narodowe i etniczne, zabezpieczenie społeczne z wyłączeniem środków przekazanych jednostkom, o których mowa w art. 51 pkt 1 i 4;
+- **1)** realizacji budżetu państwa w częściach ustalonych dla następujących działów administracji rządowej: administracja publiczna, budownictwo, gospodarka przestrzenna i mieszkaniowa, gospodarka, gospodarka morska, gospodarka wodna, informatyzacja, łączność, obrona narodowa, praca, rozwój regionalny, Skarb Państwa, transport, środowisko, rodzina, sprawy wewnętrzne, wyznania religijne oraz mniejszości narodowe i etniczne, zabezpieczenie społeczne – z wyłączeniem środków przekazanych jednostkom, o których mowa w art. 51 pkt 1 i 4;
     - **a)**
     - **b)**
     - **c)**
@@ -310,7 +312,7 @@ source: "eli-html"
 - **5)** organów i jednostek podległych ministrom kierującym działami wymienionymi w pkt 1 lub nadzorowanych przez tych ministrów oraz jednostek im podległych lub przez nie nadzorowanych;
 - **6)** innych podmiotów otrzymujących środki publiczne przekazane z części budżetu państwa, o których mowa w pkt 1 i 2, lub z innych środków publicznych, którymi dysponują ministrowie kierujący działami wymienionymi w pkt 1 lub organy i jednostki, o których mowa w pkt 5. ” ;
 - **33)** po art. 49 dodaje się art. 49a i 49b w brzmieniu: „ Międzyresortowa komisja orzekająca przy Ministrze Sprawiedliwości orzeka w sprawach o naruszenie dyscypliny finansów publicznych w zakresie dotyczącym:
-- **1)** realizacji budżetu państwa: w części ustalonej dla działu administracji rządowej sprawiedliwość, w częściach innych niż ustalona dla działu administracji rządowej sprawiedliwość, którymi dysponuje Minister Sprawiedliwości, w części, którą dysponuje Prokurator Generalny z wyłączeniem środków przekazanych jednostkom wymienionym w art. 51 pkt 1 i 4;
+- **1)** realizacji budżetu państwa: w części ustalonej dla działu administracji rządowej sprawiedliwość, w częściach innych niż ustalona dla działu administracji rządowej sprawiedliwość, którymi dysponuje Minister Sprawiedliwości, w części, którą dysponuje Prokurator Generalny – z wyłączeniem środków przekazanych jednostkom wymienionym w art. 51 pkt 1 i 4;
     - **a)**
     - **b)**
     - **c)**
@@ -384,8 +386,10 @@ source: "eli-html"
 
 **Art. 62a.** Rzecznik dyscypliny i jego zastępcy są właściwi w sprawach rozpatrywanych przez komisję orzekającą, przy której zostali powołani. Spory o właściwość rozstrzyga Główny Rzecznik. ” ;
 
-- **44)** w art. 63: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Funkcję Głównego Rzecznika, rzecznika dyscypliny i ich zastępców może pełnić osoba, która wyraziła zgodę na pełnienie tej funkcji oraz: ” , – pkt 5 otrzymuje brzmienie: „ 5) posiada wyższe wykształcenie prawnicze, ekonomiczne lub administracyjne; ” , w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Do Głównego Rzecznika, rzeczników dyscypliny i ich zastępców stosuje się odpowiednio przepisy art. 55 ust. 4–7. ” ;
+- **44)** w art. 63: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Funkcję Głównego Rzecznika, rzecznika dyscypliny i ich zastępców może pełnić osoba, która wyraziła zgodę na pełnienie tej funkcji oraz: ” , pkt 5 otrzymuje brzmienie: „
     - **a)**
+
+- **5)** posiada wyższe wykształcenie prawnicze, ekonomiczne lub administracyjne; ” , w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Do Głównego Rzecznika, rzeczników dyscypliny i ich zastępców stosuje się odpowiednio przepisy art. 55 ust. 4–7. ” ;
     - **b)**
 
 - **45)** art. 64 otrzymuje brzmienie: „
@@ -879,7 +883,7 @@ source: "eli-html"
 
 4b. Sprawozdanie z działalności Głównej Komisji Orzekającej powinno zawierać co najmniej informację o:
 
-- **1)** liczbie: rozpoznanych środków zaskarżenia, skarg do sądu administracyjnego na orzeczenia Głównej Komisji Orzekającej oraz sposobie ich rozpoznania;
+- **1)** liczbie: rozpoznanych środków zaskarżenia, skarg do sądu administracyjnego na orzeczenia Głównej Komisji Orzekającej – oraz sposobie ich rozpoznania;
     - **a)**
     - **b)**
 
@@ -890,7 +894,7 @@ source: "eli-html"
 
 4c. Sprawozdanie z działalności Głównego Rzecznika powinno zawierać co najmniej informację o:
 
-- **1)** liczbie: rozpoznanych środków zaskarżenia, skarg do sądu administracyjnego wniesionych przez Głównego Rzecznika oraz sposobie ich rozpoznania;
+- **1)** liczbie: rozpoznanych środków zaskarżenia, skarg do sądu administracyjnego wniesionych przez Głównego Rzecznika – oraz sposobie ich rozpoznania;
     - **a)**
     - **b)**
 
@@ -959,21 +963,21 @@ source: "eli-html"
 
 4. W ramach sprawowanego nadzoru minister właściwy do spraw finansów publicznych może żądać od Przewodniczącego Głównej Komisji Orzekającej i Głównego Rzecznika wyjaśnień oraz usunięcia wskazanych uchybień. ” .
 
-**Art. 2.** W ustawie z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych (Dz. U. z 2001 r. Nr 55, poz. 577, z późn. zm.) w art. 17 uchyla się ust. 2a. W ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2007 r. Nr 231, poz. 1701, z późn. zm.) w art. 63 uchyla się ust. 4. W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2007 r. Nr 65, poz. 437, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych (Dz. U. z 2001 r. Nr 55, poz. 577, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 149, poz. 1454, z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 14, poz. 114, Nr 64, poz. 565 i Nr 249, poz. 2104, z 2009 r. Nr 157, poz. 1241 oraz z 2010 r. Nr 238, poz. 1578.) w art. 17 uchyla się ust. 2a. W ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2007 r. Nr 231, poz. 1701, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 209, poz. 1315, Nr 225, poz. 1502 i Nr 227, poz. 1505 oraz z 2010 r. Nr 182, poz. 1228, Nr 227, poz. 1482 i Nr 238, poz. 1578.) w art. 63 uchyla się ust. 4. W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2007 r. Nr 65, poz. 437, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 107, poz. 732, Nr 120, poz. 818 i Nr 173, poz. 1218, z 2008 r. Nr 63, poz. 394, Nr 199, poz. 1227, Nr 201, poz. 1237, Nr 216, poz. 1370 i Nr 227, poz. 1505, z 2009 r. Nr 42, poz. 337, Nr 68, poz. 574, Nr 77, poz. 649, Nr 157, poz. 1241, Nr 161, poz. 1277, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 28, poz. 143 i 146, Nr 107, poz. 679, Nr 127, poz. 857, Nr 155, poz. 1035 i Nr 239, poz. 1592 oraz z 2011 r. Nr 234, poz. 1385 i 1386.) wprowadza się następujące zmiany:
 
 - **1)** w art. 7 pkt 1 otrzymuje brzmienie: „
 - **1)** opracowywania budżetu państwa, wykonywania – z wyjątkiem spraw zastrzeżonych do kompetencji ministra właściwego do spraw finansów publicznych – budżetu państwa, kontroli realizacji budżetu państwa oraz przygotowywania sprawozdań z wykonania budżetu państwa; ” ;
 - **2)** w art. 8 w ust. 2 po pkt 10a dodaje się pkt 10b w brzmieniu: „
 - **10b)** sprawy odpowiedzialności za naruszenie dyscypliny finansów publicznych; ” .
 
-**Art. 5.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2006 r. Nr 100, poz. 696, z późn. zm.) w załączniku nr 1 do ustawy ust. 12 otrzymuje brzmienie: 12 Naruszenie obowiązków, o których mowa w pkt 4.1.2 załącznika do rozporządzenia 10 000 W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2010 r. Nr 113, poz. 759, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2006 r. Nr 100, poz. 696, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 141, poz. 1008, Nr 170, poz. 1217 i Nr 249, poz. 1829, z 2007 r. Nr 50, poz. 331 i Nr 82, poz. 558, z 2008 r. Nr 97, poz. 625, Nr 144, poz. 901, Nr 177, poz. 1095, Nr 180, poz. 1113 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 i Nr 42, poz. 340, z 2010 r. Nr 47, poz. 278 i Nr 182, poz. 1228 oraz z 2011 r. Nr 80, poz. 432, Nr 106, poz. 622, Nr 170, poz. 1015 i Nr 171, poz. 1016.) w załączniku nr 1 do ustawy ust. 12 otrzymuje brzmienie: 12 Naruszenie obowiązków, o których mowa w pkt 4.1.2 załącznika do rozporządzenia 10 000 W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2010 r. Nr 113, poz. 759, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 161, poz. 1078 i Nr 182, poz. 1228 oraz z 2011 r. Nr 5, poz. 13, Nr 28, poz. 143, Nr 87, poz. 484 i Nr 234, poz. 1386.) wprowadza się następujące zmiany:
 
 - **1)** w art. 168 uchyla się pkt 1;
 - **2)** po art. 168 dodaje się art. 168a w brzmieniu: „
 
 **Art. 168a.** W przypadku ujawnienia naruszenia przepisów ustawy stanowiącego czyn naruszający dyscyplinę finansów publicznych Prezes Urzędu zawiadamia właściwego rzecznika dyscypliny finansów publicznych o naruszeniu dyscypliny finansów publicznych. ” .
 
-**Art. 7.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.) w art. 42 dodaje się ust. 5 w brzmieniu: „ 5. Jednostki sektora finansów publicznych są obowiązane do ustalania przypadających im należności pieniężnych, w tym mających charakter cywilnoprawny, oraz terminowego podejmowania w stosunku do zobowiązanych czynności zmierzających do wykonania zobowiązania. ” .
+**Art. 7.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620, Nr 123, poz. 835, Nr 152, poz. 1020, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 185, poz. 1092, Nr 201, poz. 1183 i Nr 234, poz. 1386.) w art. 42 dodaje się ust. 5 w brzmieniu: „ 5. Jednostki sektora finansów publicznych są obowiązane do ustalania przypadających im należności pieniężnych, w tym mających charakter cywilnoprawny, oraz terminowego podejmowania w stosunku do zobowiązanych czynności zmierzających do wykonania zobowiązania. ” .
 
 **Art. 8.** Do wydatków związanych z wypłatą wynagrodzenia i szkoleniem rzeczników dyscypliny finansów publicznych powołanych zgodnie z art. 62 ust. 3 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, stosuje się przepisy art. 70 ust. 3 tej ustawy w brzmieniu dotychczasowym.
 

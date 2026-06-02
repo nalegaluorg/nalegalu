@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 9 kwietnia 2019 r. w sprawie warunków i trybu przyjmowania uczniów do publicznych szkół i publicznych placówek artystycznych oraz przechodzenia z jednych typów szkół do innych
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 9 kwietnia 2019 r. w sprawie warunków i trybu przyjmowania uczniów do publicznych szkół i publicznych placówek artystycznych oraz przechodzenia z jednych typów szkół do innych Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-09 |
 | Data wydania | 2019-04-12 |
-| Wejście w życie | 2019-04-13 |
 | Ostatnia zmiana | 2026-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000686) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/686/text.pdf) |
 
@@ -237,6 +236,5 @@ Do postępowania rekrutacyjnego na rok szkolny 2019/2020 do klasy I dotychczasow
 § 22.
 W roku szkolnym 2018/2019 egzamin kwalifikacyjny do szkoły artystycznej obejmuje wiedzę i umiejętności z zajęć edukacyjnych artystycznych w zakresie odpowiadającym zrealizowaniu podstawy programowej kształcenia w zawodach szkolnictwa artystycznego, określonej w przepisach wydanych na podstawie art. 53 ust. 5 i art. 47 ust. 1 pkt 2 ustawy, na etapie umożliwiającym przyjęcie odpowiednio kandydata albo ucznia odpowiednio do klasy, o przyjęcie do której kandydat albo uczeń się ubiega, lub na semestr, o przyjęcie na który kandydat albo uczeń się ubiega.
 § 23.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 7 ust. 2 pkt 1 i 2 oraz § 11 ust. 1, które wchodzą w życie z dniem 1 września 2019 r.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 15 maja 2014 r. w sprawie warunków i trybu przyjmowania uczniów do publicznych szkół i publicznych placówek artystycznych oraz przechodzenia z jednych typów szkół do innych (Dz. U. poz. 686), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949, 2203 i 2245).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 7 ust. 2 pkt 1 i 2 oraz § 11 ust. 1, które wchodzą w życie z dniem 1 września 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 15 maja 2014 r. w sprawie warunków i trybu przyjmowania uczniów do publicznych szkół i publicznych placówek artystycznych oraz przechodzenia z jednych typów szkół do innych (Dz. U. poz. 686), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949, 2203 i 2245). 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 15 maja 2014 r. w sprawie warunków i trybu przyjmowania uczniów do publicznych szkół i publicznych placówek artystycznych oraz przechodzenia z jednych typów szkół do innych (Dz. U. poz. 686), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949, 2203 i 2245).
 

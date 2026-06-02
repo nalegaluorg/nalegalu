@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-05-12 |
 | Data wydania | 2016-05-13 |
-| Wejście w życie | 2016-05-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000660) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/660/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 110 ust. 3 ustawy z dnia 21 listopada 2008 r. o służbie cywi
 § 1.
 W rozporządzeniu Prezesa Rady Ministrów z dnia 28 kwietnia 2015 r. w sprawie aplikacji legislacyjnej (Dz. U. poz. 587) wprowadza się następujące zmiany:
 1)
-§ 4 otrzymuje brzmienie:
-„
+§ 4 otrzymuje brzmienie: „
 § 4.
 1.
 Przedmiotem wykładów są:
@@ -59,8 +57,7 @@ projektów założeń projektów ustaw;
 3)
 stanowisk prawno-legislacyjnych do projektów aktów prawnych lub projektów założeń projektów ustaw.
 3.
-W ramach zajęć z patronem aplikant jest obowiązany do udziału w co najmniej 5 komisjach prawniczych.
-” ;
+W ramach zajęć z patronem aplikant jest obowiązany do udziału w co najmniej 5 komisjach prawniczych. ” ;
 2)
 w § 7:
 a)
@@ -68,8 +65,7 @@ uchyla się ust. 1,
 b)
 w ust. 3 uchyla się pkt 4;
 3)
-§ 8 otrzymuje brzmienie:
-„
+§ 8 otrzymuje brzmienie: „
 § 8.
 Uczestnikiem aplikacji może być posiadający wykształcenie prawnicze:
 1)
@@ -81,35 +77,27 @@ urzędnik, o którym mowa w art. 71 ust. 1 ustawy z dnia 16 września 1982 r. o 
 4)
 funkcjonariusz służby;
 5)
-pracownik samorządowy.
-” ;
+pracownik samorządowy. ” ;
 4)
 w § 9:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Nabór na aplikację przeprowadza komisja kwalifikacyjna, której skład ustala Prezes Rządowego Centrum Legislacji.
-” ,
+Nabór na aplikację przeprowadza komisja kwalifikacyjna, której skład ustala Prezes Rządowego Centrum Legislacji. ” ,
 b)
 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Komisja ustala listę osób zakwalifikowanych do odbycia aplikacji, biorąc pod uwagę: ” ;
 5)
 w § 10 w ust. 4 dodaje się zdanie trzecie w brzmieniu: „ Do liczby 30 godzin nie wlicza się udziału w komisjach prawniczych, o których mowa w § 4 ust. 3. ” ;
 6)
-§ 11 otrzymuje brzmienie:
-„
+§ 11 otrzymuje brzmienie: „
 § 11.
-Terminy odbywania wykładów i ćwiczeń wyznacza kierownik aplikacji.
-” ;
+Terminy odbywania wykładów i ćwiczeń wyznacza kierownik aplikacji. ” ;
 7)
-w § 15 ust. 2 otrzymuje brzmienie:
-„
+w § 15 ust. 2 otrzymuje brzmienie: „
 2.
-Aplikant skreślony z listy aplikantów, w przypadku usprawiedliwienia nieobecności, może być przyjęty na kolejną edycję aplikacji pod warunkiem ponownego skierowania go na aplikację i uiszczenia opłaty za uczestnictwo w aplikacji.
-” ;
+Aplikant skreślony z listy aplikantów, w przypadku usprawiedliwienia nieobecności, może być przyjęty na kolejną edycję aplikacji pod warunkiem ponownego skierowania go na aplikację i uiszczenia opłaty za uczestnictwo w aplikacji. ” ;
 8)
-§ 17 otrzymuje brzmienie:
-„
+§ 17 otrzymuje brzmienie: „
 § 17.
 1.
 Egzamin polega na:
@@ -122,54 +110,41 @@ Praca pisemna obejmuje opracowanie jednego zadania wylosowanego z listy zadań p
 3.
 Aplikant składa pracę przewodniczącemu komisji egzaminacyjnej w terminie 7 dni od dnia wylosowania zadania.
 4.
-W trakcie sprawdzenia wiedzy, o którym mowa w ust. 1 pkt 2, może być obecny patron aplikanta.
-” ;
+W trakcie sprawdzenia wiedzy, o którym mowa w ust. 1 pkt 2, może być obecny patron aplikanta. ” ;
 9)
 uchyla się § 18 i § 19;
 10)
-w § 20 ust. 2 otrzymuje brzmienie:
-„
+w § 20 ust. 2 otrzymuje brzmienie: „
 2.
-Egzamin kończy się oceną pozytywną lub negatywną.
-” ;
+Egzamin kończy się oceną pozytywną lub negatywną. ” ;
 11)
-w § 21 ust. 1 otrzymuje brzmienie:
-„
+w § 21 ust. 1 otrzymuje brzmienie: „
 1.
-W razie otrzymania oceny negatywnej z egzaminu aplikant może przystąpić do niego ponownie tylko raz, nie wcześniej niż po upływie 3 miesięcy od dnia tego egzaminu, w terminie wyznaczonym przez przewodniczącego komisji egzaminacyjnej. Przepisy § 17 i § 20 stosuje się odpowiednio.
-” ;
+W razie otrzymania oceny negatywnej z egzaminu aplikant może przystąpić do niego ponownie tylko raz, nie wcześniej niż po upływie 3 miesięcy od dnia tego egzaminu, w terminie wyznaczonym przez przewodniczącego komisji egzaminacyjnej. Przepisy § 17 i § 20 stosuje się odpowiednio. ” ;
 12)
-§ 22 otrzymuje brzmienie:
-„
+§ 22 otrzymuje brzmienie: „
 § 22.
-W razie usprawiedliwionej niemożności przystąpienia do egzaminu aplikant może przystąpić do egzaminu w terminie wyznaczonym przez przewodniczącego komisji egzaminacyjnej. Przepisy § 17 i § 20 stosuje się odpowiednio.
-” ;
+W razie usprawiedliwionej niemożności przystąpienia do egzaminu aplikant może przystąpić do egzaminu w terminie wyznaczonym przez przewodniczącego komisji egzaminacyjnej. Przepisy § 17 i § 20 stosuje się odpowiednio. ” ;
 13)
-w § 24 ust. 1 otrzymuje brzmienie:
-„
+w § 24 ust. 1 otrzymuje brzmienie: „
 1.
-Opłata za uczestnictwo w aplikacji jest równa 2,5-krotności przeciętnego wynagrodzenia w gospodarce narodowej w 2015 r., ustalonego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2015 r. poz. 748, 1240, 1302 i 1311), zwanego dalej „przeciętnym wynagrodzeniem”.
-” ;
+Opłata za uczestnictwo w aplikacji jest równa 2,5-krotności przeciętnego wynagrodzenia w gospodarce narodowej w 2015 r., ustalonego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2015 r. poz. 748, 1240, 1302 i 1311), zwanego dalej „przeciętnym wynagrodzeniem”. ” ;
 14)
 w § 25 w ust. 1:
 a)
-w pkt 1 lit. a-c otrzymują brzmienie:
-„
+w pkt 1 lit. a-c otrzymują brzmienie: „
 a)
 kierownika aplikacji, w wysokości do 50% przeciętnego wynagrodzenia,
 b)
 zastępcy kierownika aplikacji, o ile zostanie powołany, w wysokości do 30% przeciętnego wynagrodzenia,
 c)
-patronów, w wysokości do 50% przeciętnego wynagrodzenia – za każdego aplikanta;
-” ,
+patronów, w wysokości do 50% przeciętnego wynagrodzenia – za każdego aplikanta; ” ,
 b)
-w pkt 2 lit. a i b otrzymują brzmienie:
-„
+w pkt 2 lit. a i b otrzymują brzmienie: „
 a)
 członków komisji kwalifikacyjnej, w wysokości do 10% przeciętnego wynagrodzenia,
 b)
-członków komisji egzaminacyjnej, w wysokości do 50% przeciętnego wynagrodzenia;
-” .
+członków komisji egzaminacyjnej, w wysokości do 50% przeciętnego wynagrodzenia; ” .
 § 2.
 Do aplikacji edycji 2015/2016 stosuje się przepisy dotychczasowe.
 § 3.

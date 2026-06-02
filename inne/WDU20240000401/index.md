@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 7 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie czasu służby policjantów
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 7 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie czasu służby policjantów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
 
 | Pole | Wartość |
 |---|---|
@@ -43,37 +43,26 @@ rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 19 lipca 20
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 stycznia 2022 r. zmieniającego rozporządzenie w sprawie czasu służby policjantów (Dz. U. poz. 51), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 stycznia 2022 r. zmieniającego rozporządzenie w sprawie czasu służby policjantów (Dz. U. poz. 51), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 1 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie czasu służby policjantów (Dz. U. poz. 750), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 1 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie czasu służby policjantów (Dz. U. poz. 750), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 3)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 16 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie czasu służby policjantów (Dz. U. poz. 1743), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 16 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie czasu służby policjantów (Dz. U. poz. 1743), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 4)
-odnośnika nr 2 oraz § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2023 r. zmieniającego rozporządzenie w sprawie czasu służby policjantów (Dz. U. poz. 1096), które stanowią: „ 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1158 z dnia 20 czerwca 2019 r. w sprawie równowagi między życiem zawodowym a prywatnym rodziców i opiekunów oraz uchylającą dyrektywę Rady 2010/18/UE (Dz. Urz. UE L 188 z 12.07.2019, str. 79). ”
-„
+odnośnika nr 2 oraz § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2023 r. zmieniającego rozporządzenie w sprawie czasu służby policjantów (Dz. U. poz. 1096), które stanowią: „ 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1158 z dnia 20 czerwca 2019 r. w sprawie równowagi między życiem zawodowym a prywatnym rodziców i opiekunów oraz uchylającą dyrektywę Rady 2010/18/UE (Dz. Urz. UE L 188 z 12.07.2019, str. 79). ” „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 5)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lipca 2023 r. zmieniającego rozporządzenie w sprawie czasu służby policjantów (Dz. U. poz. 1418), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lipca 2023 r. zmieniającego rozporządzenie w sprawie czasu służby policjantów (Dz. U. poz. 1418), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2023 r.
-” .
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 września 2020 r. w sprawie czasu służby policjantów
+Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2023 r. ” . 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 września 2020 r. w sprawie czasu służby policjantówNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
 Na podstawie art. 33 ust. 6 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -93,19 +82,19 @@ sposób pełnienia przez policjantów dyżurów domowych;
 grupy policjantów zwolnionych z pełnienia służby w porze nocnej, niedziele i święta.
 § 2.
 1.
-W komendzie, Centralnym Biurze Śledczym Policji, Biurze Spraw Wewnętrznych Policji, Centralnym Pododdziale Kontrterrorystycznym Policji „BOA”, Centralnym Biurze Zwalczania Cyberprzestępczości, Centralnym Laboratorium Kryminalistycznym Policji, komisariacie, komisariacie specjalistycznym, oddziale i samodzielnym pododdziale prewencji Policji, samodzielnym pododdziale kontrterrorystycznym Policji, Akademii Policji w Szczytnie, szkole policyjnej oraz ośrodku szkolenia Policji, zwanym dalej „jednostką organizacyjną Policji”, określa się rozkład czasu służby:
+W komendzie, Centralnym Biurze Śledczym Policji, Biurze Spraw Wewnętrznych Policji, Centralnym Pododdziale Kontrterrorystycznym Policji „BOA”, Centralnym Biurze Zwalczania Cyberprzestępczości, Centralnym Laboratorium Kryminalistycznym Policji, komisariacie, komisariacie specjalistycznym, oddziale i samodzielnym pododdziale prewencji Policji, samodzielnym pododdziale kontrterrorystycznym Policji, Akademii Policji w Szczytnie, szkole policyjnej oraz ośrodku szkolenia Policji, zwanym dalej „jednostką organizacyjną Policji”, określa się rozkład czasu służby:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lipca 2023 r. zmieniającego rozporządzenie w sprawie czasu służby policjantów (Dz. U. poz. 1418), które weszło w życie z dniem 1 sierpnia 2023 r.
 1)
 zmianowy – na stanowiskach służbowych, na których wymaga się pełnienia służby według harmonogramu służby przewidującego zmianę pory pełnienia służby po upływie określonej liczby godzin;
 2)
 podstawowy – na pozostałych stanowiskach służbowych.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Rozkład czasu służby w podległej jednostce organizacyjnej Policji wprowadza Komendant Główny Policji, Komendant Centralnego Biura Śledczego Policji, Komendant Biura Spraw Wewnętrznych Policji, dowódca Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”, Komendant Centralnego Biura Zwalczania Cyberprzestępczości, Dyrektor Centralnego Laboratorium Kryminalistycznego Policji, komendant wojewódzki (Stołeczny) Policji, komendant powiatowy (miejski) lub rejonowy Policji, Komendant-Rektor Akademii Policji w Szczytnie oraz komendant szkoły policyjnej, zwany dalej „przełożonym właściwym w sprawach osobowych”, ustalając godziny rozpoczęcia i zakończenia służby.
 § 3.
-1.
+1Oznaczenie ust. 1 nadane przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2023 r. zmieniającego rozporządzenie w sprawie czasu służby policjantów (Dz. U. poz. 1096), które weszło w życie z dniem 14 czerwca 2023 r..
 W przypadkach uzasadnionych szczególnymi potrzebami służby lub interesem policjanta przełożony właściwy w sprawach osobowych lub upoważniony przez niego dyrektor biura (równorzędnej komórki organizacyjnej), naczelnik zarządu, naczelnik wydziału (równorzędnej komórki organizacyjnej), kierownik sekcji, kierownik policyjnej izby dziecka, kierownik referatu, kierownik ogniwa, kierownik posterunku Policji, kierownik rewiru dzielnicowych, dyrektor instytutu, kierownik zakładu, redaktor naczelny, kierownik studium, dowódca kompanii oraz dowódca plutonu, zwany dalej „kierownikiem komórki organizacyjnej”, może ustalić indywidualny rozkład czasu służby policjanta w ramach normy czasu służby, o której mowa w art. 33 ust. 2 ustawy.
-2.
+2Dodany przez § 1 rozporządzenia, o którym mowa w odnośniku 4..
 Ustalenie indywidualnego rozkładu czasu służby policjanta może nastąpić również na wniosek policjanta.
-3.
+3Dodany przez § 1 rozporządzenia, o którym mowa w odnośniku 4..
 Przełożony właściwy w spawach osobowych lub upoważniony przez niego kierownik komórki organizacyjnej informuje policjanta, w formie pisemnej, nie później niż w terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 2, o:
 1)
 udzieleniu zgody na indywidualny rozkład czasu służby policjanta;
@@ -131,8 +120,7 @@ Policjantowi pełniącemu służbę w zmianowym rozkładzie czasu służby, o kt
 1)
 o których mowa w § 7 ust. 1,
 2)
-realizacji zadań o szczególnym charakterze dla ochrony bezpieczeństwa ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, w szczególności mających na celu zapobieżenie zdarzeniom, o których mowa w art. 18 ust. 1 ustawy
-udzielony czas wolny może obejmować mniejszą liczbę godzin, nie może być jednak krótszy niż 24 godziny.
+realizacji zadań o szczególnym charakterze dla ochrony bezpieczeństwa ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, w szczególności mających na celu zapobieżenie zdarzeniom, o których mowa w art. 18 ust. 1 ustawy – udzielony czas wolny może obejmować mniejszą liczbę godzin, nie może być jednak krótszy niż 24 godziny.
 8.
 Policjant, do którego obowiązków należy kierowanie pojazdem samochodowym, może pełnić służbę do 12 godzin na dobę, w tym kierować pojazdem nie więcej niż 10 godzin.
 9.
@@ -149,8 +137,7 @@ W podstawowym rozkładzie czasu służby policjantowi udziela się, po zakończe
 1)
 o których mowa w § 7 ust. 1,
 2)
-realizacji zadań o szczególnym charakterze dla ochrony bezpieczeństwa ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, w szczególności mających na celu zapobieżenie zdarzeniom, o których mowa w art. 18 ust. 1 ustawy
-udzielony czas wolny może obejmować mniejszą liczbę godzin, nie może być jednak krótszy niż 24 godziny.
+realizacji zadań o szczególnym charakterze dla ochrony bezpieczeństwa ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, w szczególności mających na celu zapobieżenie zdarzeniom, o których mowa w art. 18 ust. 1 ustawy – udzielony czas wolny może obejmować mniejszą liczbę godzin, nie może być jednak krótszy niż 24 godziny.
 3.
 Do czasu służby wlicza się 20 minut przerwy. Przepis § 4 ust. 10 stosuje się odpowiednio.
 § 6.
@@ -185,18 +172,18 @@ Ewidencję czasu służby policjantów prowadzi się w sposób pozwalający na r
 § 10.
 Rekompensatę pieniężną, o której mowa w art. 13 ust. 4a pkt 1 ustawy, wypłaca się z dołu, w terminie 20 dni od dnia przekazania środków finansowych na ten cel przez zarząd powiatu lub gminy, na podstawie wykazu dodatkowych należności zatwierdzonego przez właściwego komendanta powiatowego (miejskiego) lub rejonowego Policji określonego w porozumieniu, o którym mowa w art. 13 ust. 4a ustawy.
 § 11.
-1.
+1Oznaczenie ust. 1 nadane przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 16 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie czasu służby policjantów (Dz. U. poz. 1743), które weszło w życie z dniem 3 września 2022 r..
 Do czasu służby wlicza się nie więcej niż 30 minut na bezpośrednie przygotowanie do służby i jej zdanie.
-2.
+2Dodany przez § 1 pkt 1 rozporządzenia, o którym mowa w odnośniku 6..
 Do czasu służby wlicza się także przypadający poza wyznaczonymi godzinami rozpoczęcia i zakończenia służby czas podróży służbowej, w którym policjant posiada broń służbową, z wyłączeniem okresów realizowania prawa do wypoczynku.
 § 12.
 Przepisy rozporządzenia stosuje się do policjanta pełniącego służbę na stanowisku nauczyciela akademickiego w zakresie wynikającym z wykonywania obowiązków dydaktycznych i naukowych określonych w planach studiów i programach nauczania w zakresie nieuregulowanym w odrębnych przepisach.
 § 13.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Rozkład czasu służby policjanta skierowanego do Akademii Policji w Szczytnie, szkoły policyjnej lub ośrodka szkolenia Policji jest określony w programie nauczania i regulaminie studiów lub programie szkolenia.
-2.
+2Ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 6..
 Rozkład czasu służby policjanta biorącego udział w akcji lub operacji policyjnej określa dowódca akcji lub operacji albo Komendant Główny Policji w przypadkach uzasadnionych szczególnymi potrzebami służby.
-3.
+3Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 6..
 W przypadkach, o których mowa w ust. 1 i 2, do rozkładu czasu służby policjanta nie stosuje się rozkładu czasu służby, o którym mowa w § 2 ust. 1.
 § 14.
 1.
@@ -226,11 +213,9 @@ policjanta będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej 
 2)
 policjanta opiekującego się dzieckiem do 8 lat, jeżeli z takiego uprawnienia nie korzysta drugie z rodziców lub opiekun,
 3)
-policjanta-kobietę karmiącą dziecko piersią
-bez ich zgody.
+policjanta-kobietę karmiącą dziecko piersią – bez ich zgody.
 § 17.
 Rekompensatę pieniężną, o której mowa w art. 33 ust. 3 ustawy, wypłaca się na podstawie listy imiennej, zatwierdzonej przez przełożonego właściwego w sprawach osobowych lub upoważnioną przez niego osobę, w terminie określonym w art. 33 ust. 3d ustawy.
 § 18.
-Rozporządzenie wchodzi w życie z dniem 12 września 2020 r.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lipca 2023 r. zmieniającego rozporządzenie w sprawie czasu służby policjantów (Dz. U. poz. 1418), które weszło w życie z dniem 1 sierpnia 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Oznaczenie ust. 1 nadane przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2023 r. zmieniającego rozporządzenie w sprawie czasu służby policjantów (Dz. U. poz. 1096), które weszło w życie z dniem 14 czerwca 2023 r. 5) Dodany przez § 1 rozporządzenia, o którym mowa w odnośniku 4. 6) Oznaczenie ust. 1 nadane przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 16 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie czasu służby policjantów (Dz. U. poz. 1743), które weszło w życie z dniem 3 września 2022 r. 7) Dodany przez § 1 pkt 1 rozporządzenia, o którym mowa w odnośniku 6. 8) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 9) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 6. 10) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 6. 11) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 18 października 2001 r. w sprawie rozkładu czasu służby policjantów (Dz. U. poz. 1471, z 2014 r. poz. 1286, z 2018 r. poz. 209 oraz z 2019 r. poz. 463 i 627), które zgodnie z art. 19 ust. 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw (Dz. U. poz. 1635) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem 12 września 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 18 października 2001 r. w sprawie rozkładu czasu służby policjantów (Dz. U. poz. 1471, z 2014 r. poz. 1286, z 2018 r. poz. 209 oraz z 2019 r. poz. 463 i 627), które zgodnie z art. 19 ust. 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw (Dz. U. poz. 1635) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lipca 2023 r. zmieniającego rozporządzenie w sprawie czasu służby policjantów (Dz. U. poz. 1418), które weszło w życie z dniem 1 sierpnia 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Oznaczenie ust. 1 nadane przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2023 r. zmieniającego rozporządzenie w sprawie czasu służby policjantów (Dz. U. poz. 1096), które weszło w życie z dniem 14 czerwca 2023 r. 5) Dodany przez § 1 rozporządzenia, o którym mowa w odnośniku 4. 6) Oznaczenie ust. 1 nadane przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 16 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie czasu służby policjantów (Dz. U. poz. 1743), które weszło w życie z dniem 3 września 2022 r. 7) Dodany przez § 1 pkt 1 rozporządzenia, o którym mowa w odnośniku 6. 8) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 9) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 6. 10) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 6. 11) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 18 października 2001 r. w sprawie rozkładu czasu służby policjantów (Dz. U. poz. 1471, z 2014 r. poz. 1286, z 2018 r. poz. 209 oraz z 2019 r. poz. 463 i 627), które zgodnie z art. 19 ust. 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw (Dz. U. poz. 1635) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
 

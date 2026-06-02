@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 8 grudnia 2006 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 8 grudnia 2006 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawę z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa, ustawę z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, ustawę z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego, ustawę z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej, ustawę z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości, ustawę z dnia 21 grudnia 2000 r. o dozorze technicznym, ustawę z dnia 18 stycznia 2001 r. o wyścigach konnych, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, ustawę z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych, ustawę z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych, ustawę z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju, ustawę z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego, ustawę z dnia 30 czerwca 2005 r. o kinematografii, ustawę z dnia 24 sierpnia 2006 r. o państwowym zasobie kadrowym i wysokich stanowiskach państwowych, ustawę z dnia 24 sierpnia 2006 r. o służbie cywilnej i ustawę z dnia 18 października 2006 r. o ujawnieniu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-12-08 |
 | Data wydania | 2006-12-29 |
-| Wejście w życie | 2006-12-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062491832) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1832/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.) wprowadza się następujące zmiany:
+Środki pochodzące z budżetu Unii Europejskiej i inne środki pochodzące ze źródeł zagranicznych, niepodlegające zwrotowi
+
+**Art. 1.** W ustawie z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420 oraz z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218 i Nr 187, poz. 1381.) wprowadza się następujące zmiany:
 
 - **1)** art. 2 otrzymuje brzmienie: „
 
@@ -40,8 +41,14 @@ source: "eli-html"
 - **3)** w art. 5: w ust. 1 pkt 2 otrzymuje brzmienie: „
     - **a)**
 
-- **2)** środki pochodzące z budżetu Unii Europejskiej oraz niepodlegające zwrotowi środki z pomocy udzielonej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA); ” , w ust. 3: – zdanie wstępne otrzymuje brzmienie: „ Do środków, o których mowa w ust. 1 pkt 2, zalicza się: ” , – pkt 2 otrzymuje brzmienie: „ 2) środki pochodzące z funduszy strukturalnych, Funduszu Spójności i Europejskiego Funduszu Rybołówstwa; ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) niepodlegające zwrotowi środki z pomocy udzielonej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA): a) Norweskiego Mechanizmu Finansowego, b) Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego, c) Szwajcarskiego Mechanizmu Finansowego; ” , dodaje się ust. 4 w brzmieniu: „
+- **2)** środki pochodzące z budżetu Unii Europejskiej oraz niepodlegające zwrotowi środki z pomocy udzielonej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA); ” , w ust. 3: – zdanie wstępne otrzymuje brzmienie: „ Do środków, o których mowa w ust. 1 pkt 2, zalicza się: ” , pkt 2 otrzymuje brzmienie: „
     - **b)**
+
+- **2)** środki pochodzące z funduszy strukturalnych, Funduszu Spójności i Europejskiego Funduszu Rybołówstwa; ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** niepodlegające zwrotowi środki z pomocy udzielonej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA): Norweskiego Mechanizmu Finansowego, Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego, Szwajcarskiego Mechanizmu Finansowego; ” , dodaje się ust. 4 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
     - **c)**
 
 4. Rada Ministrów może określić, w drodze rozporządzenia, wykaz środków publicznych niezaliczanych do środków, o których mowa w ust. 3 pkt 3a i 4, biorąc pod uwagę źródło pochodzenia, przeznaczenie oraz beneficjentów tych środków. ” ;
@@ -55,7 +62,7 @@ source: "eli-html"
 
 - **b)**
 
-2a. Minister Finansów podaje do publicznej wiadomości wykaz osób prawnych i fizycznych oraz jednostek organizacyjnych nieposiadających osobowości prawnej, którym umorzono zaległości podatkowe, odsetki za zwłokę lub opłaty prolongacyjne w kwocie przewyższającej 5 000 zł, wraz ze wskazaniem wysokości umorzonych kwot i przyczyn umorzenia, w terminie 3 miesięcy od dnia wydania przez naczelnika urzędu skarbowego lub dyrektora izby skarbowej oraz naczelnika urzędu celnego lub dyrektora izby celnej decyzji, o których mowa w art. 67a § 1 pkt 3, art. 67b, art. 67c § 2 oraz w art. 67d ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.), zwanej dalej „Ordynacją podatkową”. ” , ust. 3 i 4 otrzymują brzmienie: „
+2a. Minister Finansów podaje do publicznej wiadomości wykaz osób prawnych i fizycznych oraz jednostek organizacyjnych nieposiadających osobowości prawnej, którym umorzono zaległości podatkowe, odsetki za zwłokę lub opłaty prolongacyjne w kwocie przewyższającej 5 000 zł, wraz ze wskazaniem wysokości umorzonych kwot i przyczyn umorzenia, w terminie 3 miesięcy od dnia wydania przez naczelnika urzędu skarbowego lub dyrektora izby skarbowej oraz naczelnika urzędu celnego lub dyrektora izby celnej decyzji, o których mowa w art. 67a § 1 pkt 3, art. 67b, art. 67c § 2 oraz w art. 67d ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199 oraz z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635.), zwanej dalej „Ordynacją podatkową”. ” , ust. 3 i 4 otrzymują brzmienie: „
 
 - **c)**
 
@@ -197,8 +204,11 @@ source: "eli-html"
 5. W odniesieniu do jednostek podsektora samorządowego kompetencje Ministra Finansów w zakresie audytu wewnętrznego, z wyłączeniem wyrażania zgody na rozwiązanie stosunku pracy z audytorem wewnętrznym, wykonują odpowiednio wójt (burmistrz, prezydent miasta), starosta lub marszałek województwa. ” , uchyla się ust. 6;
 
 - **c)**
-- **26)** w art. 63: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Koordynacja kontroli finansowej i audytu wewnętrznego w jednostkach sektora finansów publicznych obejmuje w szczególności: ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „ 5) zlecanie audytu wewnętrznego, za zgodą kierownika jednostki; 6) weryfikację i ocenę prawidłowości wykonywania audytu wewnętrznego. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+- **26)** w art. 63: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Koordynacja kontroli finansowej i audytu wewnętrznego w jednostkach sektora finansów publicznych obejmuje w szczególności: ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „
     - **a)**
+
+- **5)** zlecanie audytu wewnętrznego, za zgodą kierownika jednostki;
+- **6)** weryfikację i ocenę prawidłowości wykonywania audytu wewnętrznego. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
     - **b)**
 
 1a. Zlecenie wykonania audytu wewnętrznego, o którym mowa w ust. 1 pkt 5, może również nastąpić na wniosek Prezesa Rady Ministrów. W tym przypadku nie jest wymagana zgoda kierownika jednostki.
@@ -213,10 +223,15 @@ source: "eli-html"
 - **16)** środki, o których mowa w art. 5 ust. 3 pkt 2–4, po ich przekazaniu na rachunek dochodów budżetu państwa. ” ;
 - **30)** w art. 97 w ust. 1 pkt 10 otrzymuje brzmienie: „
 - **10)** finansowanie programów i projektów, na których realizację uzyskano środki, o których mowa w art. 5 ust. 3 pkt 2–4; ” ;
-- **31)** w art. 99: w ust. 1 w pkt 2 uchyla się lit. d, w ust. 2: – pkt 3 otrzymuje brzmienie: „ 3) plany finansowe jednostek podsektora rządowego, o których mowa w art. 4 ust. 1 pkt 12; ” , – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) wykaz programów operacyjnych oraz wykaz programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 2–4; ” , – pkt 6 otrzymuje brzmienie: „ 6) limity wydatków budżetu państwa przeznaczonych na finansowanie programów operacyjnych oraz programów realizowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 2–4; ” , – pkt 8 i 9 otrzymują brzmienie: „ 8) wykaz wieloletnich limitów zobowiązań w kolejnych latach realizacji Narodowego Planu Rozwoju 2004–2006 oraz programów operacyjnych wraz z wykazem wieloletnich limitów wydatków realizowanych w ich ramach; 9) zestawienie programów i projektów realizowanych ze środków, o których mowa w art. 5 ust. 1 pkt 3 i ust. 3 pkt 1, 3a i 4, w podziale na poszczególne okresy realizacji; ” ;
+- **31)** w art. 99: w ust. 1 w pkt 2 uchyla się lit. d, w ust. 2: pkt 3 otrzymuje brzmienie: „
     - **a)**
     - **b)**
 
+- **3)** plany finansowe jednostek podsektora rządowego, o których mowa w art. 4 ust. 1 pkt 12; ” , po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** wykaz programów operacyjnych oraz wykaz programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 2–4; ” , pkt 6 otrzymuje brzmienie: „
+- **6)** limity wydatków budżetu państwa przeznaczonych na finansowanie programów operacyjnych oraz programów realizowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 2–4; ” , pkt 8 i 9 otrzymują brzmienie: „
+- **8)** wykaz wieloletnich limitów zobowiązań w kolejnych latach realizacji Narodowego Planu Rozwoju 2004–2006 oraz programów operacyjnych wraz z wykazem wieloletnich limitów wydatków realizowanych w ich ramach;
+- **9)** zestawienie programów i projektów realizowanych ze środków, o których mowa w art. 5 ust. 1 pkt 3 i ust. 3 pkt 1, 3a i 4, w podziale na poszczególne okresy realizacji; ” ;
 - **32)** w art. 100 ust. 2 otrzymuje brzmienie: „
 
 2. Wydatki budżetu państwa ujmuje się w ustawie budżetowej w podziale na: części, działy, rozdziały klasyfikacji wydatków oraz kategorie (grupy) wydatków, z wyodrębnieniem wydatków przeznaczonych na finansowanie programów operacyjnych, Wspólnej Polityki Rolnej oraz innych programów i projektów realizowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 2–4. ” ;
@@ -240,9 +255,10 @@ source: "eli-html"
 
 - **c)**
 
-3a. Materiały do projektu ustawy budżetowej w zakresie środków, o których mowa w art. 5 ust. 3 pkt 2, z wyłączeniem środków pochodzących z Europejskiego Funduszu Rybołówstwa, przygotowuje i przedstawia Ministrowi Finansów minister właściwy do spraw rozwoju regionalnego, z uwzględnieniem wieloletnich limitów wydatków, o których mowa w art. 99 ust. 2 pkt 8. ” , w ust. 5: – zdanie wstępne otrzymuje brzmienie: „ Minister Finansów określa, w drodze rozporządzenia, szczegółowy sposób, tryb i terminy opracowania materiałów, o których mowa w ust. 3 i 3a oraz w art. 41a, w tym: ” , – w pkt 6 na końcu dodaje się średnik oraz pkt 7 w brzmieniu: „ 7) projektów rocznych planów finansowych jednostek podsektora rządowego, o których mowa w art. 4 ust. 1 pkt 12 ” ;
+3a. Materiały do projektu ustawy budżetowej w zakresie środków, o których mowa w art. 5 ust. 3 pkt 2, z wyłączeniem środków pochodzących z Europejskiego Funduszu Rybołówstwa, przygotowuje i przedstawia Ministrowi Finansów minister właściwy do spraw rozwoju regionalnego, z uwzględnieniem wieloletnich limitów wydatków, o których mowa w art. 99 ust. 2 pkt 8. ” , w ust. 5: – zdanie wstępne otrzymuje brzmienie: „ Minister Finansów określa, w drodze rozporządzenia, szczegółowy sposób, tryb i terminy opracowania materiałów, o których mowa w ust. 3 i 3a oraz w art. 41a, w tym: ” , w pkt 6 na końcu dodaje się średnik oraz pkt 7 w brzmieniu: „
 
 - **d)**
+- **7)** projektów rocznych planów finansowych jednostek podsektora rządowego, o których mowa w art. 4 ust. 1 pkt 12 ” ;
 - **38)** w art. 124 dodaje się pkt 9 w brzmieniu: „
 - **9)** zestawienie zadań, w ramach planowanych kwot wydatków, wraz z opisem celów tych zadań, mierników wykonania oraz przewidywanych wieloletnich kosztów finansowych związanych z ich realizacją. ” ;
 - **39)** w art. 133: ust. 1 otrzymuje brzmienie: „
@@ -306,15 +322,17 @@ source: "eli-html"
 
 9. Rezerwę, o której mowa w ust. 7, przeznacza się na finansowanie tych programów lub projektów, o których mowa w art. 206, w których realizacji nie występują opóźnienia. ” ;
 
-- **49)** w art. 157: w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) przeznaczone na finansowanie programów i projektów finansowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 2–4. ” , – uchyla się pkt 3 i 4, po ust. 8 dodaje się ust. 8a i 8b w brzmieniu: „
+- **49)** w art. 157: w ust. 2: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** przeznaczone na finansowanie programów i projektów finansowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 2–4. ” , – uchyla się pkt 3 i 4, po ust. 8 dodaje się ust. 8a i 8b w brzmieniu: „
     - **b)**
 
 8a. Rada Ministrów w rozporządzeniu, o którym mowa w ust. 3, może wskazać środki finansowe, o których mowa w ust. 2 pkt 2, przeznaczone na:
 
 - **1)** integrację społeczną,
 - **2)** poprawę jakości kształcenia,
-- **3)** rozwój potencjału adaptacyjnego pracowników i przedsiębiorstw w ramach programów operacyjnych realizowanych z udziałem Europejskiego Funduszu Społecznego, do których nie stosuje się przepisów ust. 7 i 8, uwzględniając rodzaje beneficjentów, rodzaje projektów oraz procedury stosowane przy ich realizacji.
+- **3)** rozwój potencjału adaptacyjnego pracowników i przedsiębiorstw – w ramach programów operacyjnych realizowanych z udziałem Europejskiego Funduszu Społecznego, do których nie stosuje się przepisów ust. 7 i 8, uwzględniając rodzaje beneficjentów, rodzaje projektów oraz procedury stosowane przy ich realizacji.
 
 8b. Środki finansowe, o których mowa w ust. 8a, pozostają na rachunkach beneficjentów programów operacyjnych realizowanych z udziałem Europejskiego Funduszu Społecznego i mogą być wydatkowane w terminie określonym w rozporządzeniu, o którym mowa w ust. 3. ” , ust. 9 otrzymuje brzmienie: „
 
@@ -370,7 +388,7 @@ source: "eli-html"
 - **2)** prawidłowości dołączonej do projektu uchwały budżetowej prognozy kwoty długu jednostki samorządu terytorialnego, ze szczególnym uwzględnieniem zapewnienia przestrzegania przepisów ustawy dotyczących uchwalania i wykonywania budżetów w następnych latach, na które zaciągnięto zobowiązania. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
-2. Opinie, o których mowa w ust. 1, są publikowane przez jednostkę samorządu terytorialnego w terminie miesiąca od dnia przekazania projektu uchwały budżetowej do regionalnej izby obrachunkowej, na zasadach określonych w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.). ” ;
+2. Opinie, o których mowa w ust. 1, są publikowane przez jednostkę samorządu terytorialnego w terminie miesiąca od dnia przekazania projektu uchwały budżetowej do regionalnej izby obrachunkowej, na zasadach określonych w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110.). ” ;
 
 - **56)** w art. 181 ust. 2 otrzymuje brzmienie: „
 
@@ -424,7 +442,7 @@ source: "eli-html"
 
 - **65)** dział V otrzymuje brzmienie: „
 
-### Dział V Środki pochodzące z budżetu Unii Europejskiej i inne środki pochodzące ze źródeł zagranicznych, niepodlegające zwrotowi
+### Dział V
 
 **Art. 200.**
 
@@ -551,7 +569,7 @@ source: "eli-html"
 
 - **1)** wykorzystane niezgodnie z przeznaczeniem,
 - **2)** wykorzystane z naruszeniem procedur, o których mowa w art. 208,
-- **3)** pobrane nienależnie lub w nadmiernej wysokości podlegają zwrotowi przez beneficjenta wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia przekazania środków na rachunek wskazany przez organ lub jednostkę przekazujące te środki, w terminie 14 dni od dnia doręczenia decyzji, o której mowa w ust. 4. Przepisy art. 145 ust. 2–5 stosuje się odpowiednio.
+- **3)** pobrane nienależnie lub w nadmiernej wysokości – podlegają zwrotowi przez beneficjenta wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia przekazania środków na rachunek wskazany przez organ lub jednostkę przekazujące te środki, w terminie 14 dni od dnia doręczenia decyzji, o której mowa w ust. 4. Przepisy art. 145 ust. 2–5 stosuje się odpowiednio.
 
 2. Wykorzystanie środków, o których mowa w ust. 1, w sposób określony w ust. 1 pkt 1 powodujący niezrealizowanie pełnego zakresu rzeczowego projektu, określonego w umowie o której mowa w art. 209 ust. 1, wyklucza prawo otrzymania środków, o których mowa w ust. 1, na realizację projektu w ramach programów finansowanych z udziałem tych środków. Okres wykluczenia rozpoczyna się od dnia, kiedy decyzja, o której mowa w ust. 4, stała się ostateczna, zaś kończy się z upływem 3 lat od dnia dokonania zwrotu tych środków.
 
@@ -580,7 +598,7 @@ source: "eli-html"
 
 - **1)** przestanek uzasadniających umorzenie w całości lub w części, odroczenie lub rozłożenie na raty spłaty tych należności;
 - **2)** rodzaju i zakresu udzielonych ulg w spłaceniu należności;
-- **3)** właściwości organów uprawnionych do umarzania należności w całości lub w części, odraczania lub rozkładania ich spłaty na raty w zależności od wysokości kwoty udzielonej ulgi. ” . W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2004 r. Nr 208, poz. 2128, z późn. zm.) wprowadza się następujące zmiany:
+- **3)** właściwości organów uprawnionych do umarzania należności w całości lub w części, odraczania lub rozkładania ich spłaty na raty w zależności od wysokości kwoty udzielonej ulgi. ” . W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2004 r. Nr 208, poz. 2128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2772, z 2005 r. Nr 132, poz. 1110, Nr 163, poz. 1362, Nr 167, poz. 1398, Nr 169, poz. 1420 i Nr 175, poz. 1459 oraz z 2006 r. Nr 104, poz. 708, Nr 141, poz. 997, Nr 170, poz. 1217 i Nr 195, poz. 1437.) wprowadza się następujące zmiany:
 - **1)** w art. 10 w ust. 10 pkt 2 otrzymuje brzmienie: „
 - **2)** opiniuje projekty rocznych planów finansowych, o których mowa w art. 20 ust. 2; ” ;
 - **2)** w art. 20: w ust. 2 pkt 1 i 2 otrzymują brzmienie: „
@@ -606,7 +624,7 @@ source: "eli-html"
 
 2. Agencja może udzielać poręczeń i gwarancji kredytowych, w tym dewizowych, obciążających mienie Zasobu, wyłącznie za zgodą ministra właściwego do spraw Skarbu Państwa i do wysokości określonej w rocznym planie finansowym Zasobu. ” .
 
-**Art. 3.** W ustawie z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2005 r. Nr 31, poz. 264, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2005 r. Nr 31, poz. 264, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 132, poz. 1110, Nr 150, poz. 1259, Nr 163, poz. 1362 i Nr 184, poz. 1539 oraz z 2006 r. Nr 92, poz. 638, Nr 144, poz. 1040, Nr 170, poz. 1217, Nr 187, poz. 1381 i Nr 208, poz. 1541.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3a w ust. 3 pkt 3 otrzymuje brzmienie: „
 - **3)** kontroluje realizację planów finansowych Agencji w zakresie gospodarowania środkami, o których mowa w pkt 1; ” ;
@@ -614,14 +632,14 @@ source: "eli-html"
 
 3. Projekt rocznego planu finansowego Agencji ustala jej Prezes, w porozumieniu z ministrem właściwym do spraw rozwoju wsi, i przekazuje ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej. ” .
 
-**Art. 4.** W ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2005 r. Nr 41, poz. 398, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2005 r. Nr 41, poz. 398, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 132, poz. 1110 oraz z 2006 r. Nr 104, poz. 708 i 711 i Nr 170, poz. 1217.) wprowadza się następujące zmiany:
 
 - **1)** w art. 11 w ust. 3 pkt 3 otrzymuje brzmienie: „
 - **3)** ocenia projekty rocznych planów finansowych oraz sprawozdania z rocznej działalności Agencji; ” ;
 - **2)** w art. 12 w ust. 2 pkt 3 otrzymuje brzmienie: „
 - **3)** ustalanie, w porozumieniu z Ministrem Obrony Narodowej, projektu rocznego planu finansowego Agencji, który następnie jest przekazywany ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej; ” .
 
-**Art. 5.** W ustawie z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz. U. z 2004 r. Nr 163, poz. 1711, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz. U. z 2004 r. Nr 163, poz. 1711, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 132, poz. 1110 i Nr 167, poz. 1398 oraz z 2006 r. Nr 141, poz. 997, Nr 170, poz. 1217 i Nr 227, poz. 1658.) wprowadza się następujące zmiany:
 
 - **1)** w art. 14: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -634,8 +652,11 @@ source: "eli-html"
 
 2. Minister Obrony Narodowej przedstawia Radzie Ministrów, do zatwierdzenia, roczne sprawozdanie finansowe Agencji wraz z opinią i raportem biegłego rewidenta. ” ;
 
-- **2)** w art. 16: w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) opiniowanie projektu rocznego planu finansowego; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) opiniowanie rocznego sprawozdania finansowego Agencji; ” , ust. 4 otrzymuje brzmienie: „
+- **2)** w art. 16: w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** opiniowanie projektu rocznego planu finansowego; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** opiniowanie rocznego sprawozdania finansowego Agencji; ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Rada Nadzorcza Agencji przedstawia opinie, o których mowa w ust. 2 pkt 1 i 1a, Ministrowi Obrony Narodowej i ministrowi właściwemu do spraw Skarbu Państwa. ” ;
@@ -652,7 +673,7 @@ source: "eli-html"
 
 2. Projekt rocznego planu finansowego Polskiej Organizacji Turystycznej, po przyjęciu przez Radę Polskiej Organizacji Turystycznej i zatwierdzeniu przez właściwego ministra, jest przekazywany ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej. ” .
 
-**Art. 7.** W ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. Nr 109, poz. 1158, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. Nr 109, poz. 1158, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 25, poz. 253, Nr 66, poz. 596 i Nr 216, poz. 1824, z 2004 r. Nr 145, poz. 1537 i Nr 281, poz. 2785, z 2005 r. Nr 132, poz. 1110, Nr 179, poz. 1484 i Nr 249, poz. 2104 oraz z 2006 r. Nr 149, poz. 1074, Nr 170, poz. 1217 i Nr 227, poz. 1658.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9 w ust. 3 pkt 1 otrzymuje brzmienie: „
 - **1)** opracowywanie projektów rocznych planów działania Agencji, ” ;
@@ -661,7 +682,7 @@ source: "eli-html"
 - **3)** w art. 14: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Agencja działa zgodnie z rocznym planem działania, w którego skład wchodzi plan finansowy, o którym mowa w ustawie z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.). ” , ust. 4 otrzymuje brzmienie: „
+1. Agencja działa zgodnie z rocznym planem działania, w którego skład wchodzi plan finansowy, o którym mowa w ustawie z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420 oraz z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832.). ” , ust. 4 otrzymuje brzmienie: „
 
 - **b)**
 
@@ -672,7 +693,7 @@ source: "eli-html"
 
 6a. Minister właściwy do spraw gospodarki przed dokonaniem czynności, o których mowa w ust. 6, zasięga opinii ministra właściwego do spraw pracy i ministra właściwego do spraw finansów publicznych. Minister właściwy do spraw pracy i minister właściwy do spraw finansów publicznych przedstawiają swoje opinie w terminie 7 dni. ” .
 
-**Art. 8.** W ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. Nr 122, poz. 1321, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. Nr 122, poz. 1321, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676, z 2004 r. Nr 96, poz. 959 oraz z 2006 r. Nr 104, poz. 708 i Nr 170, poz. 1217.) wprowadza się następujące zmiany:
 
 - **1)** w art. 56 ust. 1 otrzymuje brzmienie: „
 
@@ -698,7 +719,7 @@ source: "eli-html"
 
 4. Minister właściwy do spraw środowiska przekazuje projekt rocznego planu finansowego Narodowego Funduszu ministrowi właściwemu do spraw finansów publicznych, w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej. ” .
 
-**Art. 11.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 11.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258 oraz z 2006 r. Nr 170, poz. 1217 i Nr 235, poz. 1700.) wprowadza się następujące zmiany:
 
 - **1)** w art. 27 w ust. 6 pkt 4 otrzymuje brzmienie: „
 - **4)** zatwierdzanie projektów rocznych planów finansowych Centrum Akredytacji; ” ;
@@ -706,11 +727,11 @@ source: "eli-html"
 
 1. Podstawą gospodarki finansowej Centrum Akredytacji jest roczny plan finansowy, którego projekt zatwierdza Dyrektor Centrum i przekazuje ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej. ” .
 
-**Art. 12.** W ustawie z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych (Dz. U. Nr 124, poz. 1153, z późn. zm.) po art. 22 dodaje się art. 22a w brzmieniu: „
+**Art. 12.** W ustawie z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych (Dz. U. Nr 124, poz. 1153, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1651, z 2004 r. Nr 93, poz. 891 i Nr 96, poz. 959, z 2005 r. Nr 48, poz. 447, Nr 83, poz. 719, Nr 143, poz. 1204 i Nr 163, poz. 1362 oraz z 2006 r. Nr 157, poz. 1119 i Nr 170, poz. 1217.) po art. 22 dodaje się art. 22a w brzmieniu: „
 
 **Art. 22a.** Podstawą gospodarki finansowej Biura jest roczny plan finansowy, którego projekt sporządza Rzecznik i wraz z opinią Rady Ubezpieczonych przekazuje ministrowi właściwemu do spraw finansów publicznych, w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej. ” .
 
-**Art. 13.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. Nr 42, poz. 386, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 13.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. Nr 42, poz. 386, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 97, poz. 964, z 2005 r. Nr 14, poz. 115, Nr 132, poz. 1110, Nr 141, poz. 1182, Nr 163, poz. 1362 i Nr 169, poz. 1420 oraz z 2006 r. Nr 92, poz. 638, Nr 133, poz. 935, Nr 170, poz. 1217, Nr 187, poz. 1381, Nr 208, poz. 1541 i Nr 220, poz. 1600.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 w ust. 2 pkt 3 otrzymuje brzmienie: „
 - **3)** szczegółowe zasady gospodarki finansowej oraz sporządzania projektu planu finansowego Agencji. ” ;
@@ -722,8 +743,11 @@ source: "eli-html"
 
 **Art. 15.** W ustawie z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U. Nr 251, poz. 2507) wprowadza się następujące zmiany:
 
-- **1)** w art. 8: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) opracowuje roczny program działalności jednostki doradztwa rolniczego; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) opracowuje projekt rocznego planu finansowego; ” , uchyla się ust. 2;
+- **1)** w art. 8: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** opracowuje roczny program działalności jednostki doradztwa rolniczego; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** opracowuje projekt rocznego planu finansowego; ” , uchyla się ust. 2;
     - **b)**
 
 - **2)** w art. 9 w ust. 3 pkt 1 otrzymuje brzmienie: „
@@ -760,7 +784,7 @@ source: "eli-html"
 **Art. 19.** W ustawie z dnia 18 października 2006 r. o ujawnieniu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. Nr 218, poz. 1592) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 w ust. 2 w pkt 23 kropkę zastępuje się średnikiem i dodaje się pkt 24 w brzmieniu: „
-- **24)** audytor wewnętrzny w rozumieniu ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.). ” ;
+- **24)** audytor wewnętrzny w rozumieniu ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420 oraz z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832.). ” ;
 - **2)** w art. 5 w ust. 7 w pkt 23 kropkę zastępuje się średnikiem i dodaje się pkt 24 w brzmieniu: „
 - **24)** pkt 24 – kierownik jednostki sektora finansów publicznych. ” .
 
@@ -769,7 +793,7 @@ source: "eli-html"
 **Art. 21.** Do środków, o których mowa w art. 5 ust. 3 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stanowiących rozliczenie pożyczek, o których mowa w art. 209 ust. 2 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, na prefinansowanie Wspólnej Polityki Rolnej, udzielonych do dnia 31 grudnia 2006 r., stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, nie dłużej jednak niż do dnia 31 grudnia 2011 r. Do czasu zakończenia realizacji:
 
 - **1)** programów finansowanych z udziałem Środków Przejściowych, o których mowa w art. 34 Aktu dotyczącego warunków przystąpienia Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii i Republiki Słowackiej oraz dostosowań w Traktatach stanowiących podstawę Unii Europejskiej (Dz. Urz. UE L 236 z 23.09.2003, str. 33),
-- **2)** programów realizowanych w ramach Narodowego Planu Rozwoju, o którym mowa w ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju z budżetu państwa mogą być udzielane nieoprocentowane pożyczki na zapewnienie płynności finansowej przy realizacji tych programów.
+- **2)** programów realizowanych w ramach Narodowego Planu Rozwoju, o którym mowa w ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju – z budżetu państwa mogą być udzielane nieoprocentowane pożyczki na zapewnienie płynności finansowej przy realizacji tych programów.
 
 **Art. 23.** Osoby, które przed dniem wejścia w życie niniejszej ustawy złożyły z wynikiem pozytywnym egzamin, o którym mowa w art. 60 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, stają się audytorami wewnętrznymi w rozumieniu ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jeżeli spełniają kryteria określone w art. 58 pkt 1–4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
@@ -789,5 +813,5 @@ source: "eli-html"
 
 4. Organ stanowiący jednostki samorządu terytorialnego może postanowić o zastosowaniu przepisów art. 165a i 184 ust. 1 pkt 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do opracowania uchwały budżetowej na rok 2007.
 
-**Art. 26.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 26.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawę z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa, ustawę z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, ustawę z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego, ustawę z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej, ustawę z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości, ustawę z dnia 21 grudnia 2000 r. o dozorze technicznym, ustawę z dnia 18 stycznia 2001 r. o wyścigach konnych, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, ustawę z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych, ustawę z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych, ustawę z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju, ustawę z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego, ustawę z dnia 30 czerwca 2005 r. o kinematografii, ustawę z dnia 24 sierpnia 2006 r. o państwowym zasobie kadrowym i wysokich stanowiskach państwowych, ustawę z dnia 24 sierpnia 2006 r. o służbie cywilnej i ustawę z dnia 18 października 2006 r. o ujawnieniu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420 oraz z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218 i Nr 187, poz. 1381. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199 oraz z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2772, z 2005 r. Nr 132, poz. 1110, Nr 163, poz. 1362, Nr 167, poz. 1398, Nr 169, poz. 1420 i Nr 175, poz. 1459 oraz z 2006 r. Nr 104, poz. 708, Nr 141, poz. 997, Nr 170, poz. 1217 i Nr 195, poz. 1437. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 132, poz. 1110, Nr 150, poz. 1259, Nr 163, poz. 1362 i Nr 184, poz. 1539 oraz z 2006 r. Nr 92, poz. 638, Nr 144, poz. 1040, Nr 170, poz. 1217, Nr 187, poz. 1381 i Nr 208, poz. 1541. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 132, poz. 1110 oraz z 2006 r. Nr 104, poz. 708 i 711 i Nr 170, poz. 1217. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 132, poz. 1110 i Nr 167, poz. 1398 oraz z 2006 r. Nr 141, poz. 997, Nr 170, poz. 1217 i Nr 227, poz. 1658. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 25, poz. 253, Nr 66, poz. 596 i Nr 216, poz. 1824, z 2004 r. Nr 145, poz. 1537 i Nr 281, poz. 2785, z 2005 r. Nr 132, poz. 1110, Nr 179, poz. 1484 i Nr 249, poz. 2104 oraz z 2006 r. Nr 149, poz. 1074, Nr 170, poz. 1217 i Nr 227, poz. 1658. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420 oraz z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676, z 2004 r. Nr 96, poz. 959 oraz z 2006 r. Nr 104, poz. 708 i Nr 170, poz. 1217. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258 oraz z 2006 r. Nr 170, poz. 1217 i Nr 235, poz. 1700. 13) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1651, z 2004 r. Nr 93, poz. 891 i Nr 96, poz. 959, z 2005 r. Nr 48, poz. 447, Nr 83, poz. 719, Nr 143, poz. 1204 i Nr 163, poz. 1362 oraz z 2006 r. Nr 157, poz. 1119 i Nr 170, poz. 1217. 14) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 97, poz. 964, z 2005 r. Nr 14, poz. 115, Nr 132, poz. 1110, Nr 141, poz. 1182, Nr 163, poz. 1362 i Nr 169, poz. 1420 oraz z 2006 r. Nr 92, poz. 638, Nr 133, poz. 935, Nr 170, poz. 1217, Nr 187, poz. 1381, Nr 208, poz. 1541 i Nr 220, poz. 1600. 15) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420 oraz z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832.
 

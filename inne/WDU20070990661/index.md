@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 kwietnia 2007 r. o zmianie ustawy o czasie pracy kierowców oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 26 kwietnia 2007 r. o zmianie ustawy o czasie pracy kierowców oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 6 września 2001 r. o transporcie drogowym i ustawę z dnia 29 lipca 2005 r. o systemie tachografów cyfrowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-04-26 |
 | Data wydania | 2007-06-05 |
-| Wejście w życie | 2007-06-20 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070990661) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/661/text.pdf) |
+
+Okresy prowadzenia pojazdów, obowiązkowe przerwy w prowadzeniu i gwarantowane okresy odpoczynku kierowców wykonujących przewozy regularne, których trasa nie przekracza 50 km
 
 **Art. 1.** W ustawie z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. Nr 92, poz. 879 oraz z 2005 r. Nr 180, poz. 1497) wprowadza się następujące zmiany:
 
@@ -37,7 +38,7 @@ source: "eli-html"
 - **3)** zasady stosowania norm dotyczących okresów prowadzenia pojazdów, obowiązkowych przerw w prowadzeniu i gwarantowanych okresów odpoczynku, określonych rozporządzeniem (WE) nr 561/2006 Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. w sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego oraz zmieniającym rozporządzenia Rady (EWG) nr 3821/85 i (WE) 2135/98, jak również uchylającym rozporządzenie Rady (EWG) nr 3820/85 (Dz. Urz. UE L 102 z 11.04.2006, str. 1), zwanym dalej „rozporządzeniem (WE) nr 561/2006” oraz Umową europejską dotyczącą pracy załóg pojazdów wykonujących międzynarodowe przewozy drogowe (AETR), sporządzoną w Genewie dnia 1 lipca 1970 r. (Dz. U. z 1999 r. Nr 94, poz. 1086 i 1087), zwaną dalej „Umową AETR”; ” , dodaje się pkt 4 w brzmieniu: „
     - **c)**
 
-- **4)** okresy prowadzenia pojazdów, obowiązkowe przerwy w prowadzeniu i gwarantowane okresy odpoczynku kierowców: zatrudnionych na podstawie stosunku pracy, niebędących pracownikami wykonujących przewozy regularne na trasach nieprzekraczających 50 km pojazdami, o których mowa w rozporządzeniu (WE) nr 561/2006. ” ;
+- **4)** okresy prowadzenia pojazdów, obowiązkowe przerwy w prowadzeniu i gwarantowane okresy odpoczynku kierowców: zatrudnionych na podstawie stosunku pracy, niebędących pracownikami – wykonujących przewozy regularne na trasach nieprzekraczających 50 km pojazdami, o których mowa w rozporządzeniu (WE) nr 561/2006. ” ;
     - **a)**
     - **b)**
 
@@ -112,7 +113,7 @@ source: "eli-html"
 
 1. Na terytorium Rzeczypospolitej Polskiej kategorie pojazdów, o których mowa w art. 13 ust. 1 rozporządzenia (WE) nr 561/2006, wyłącza się ze stosowania art. 5–9 tego rozporządzenia.
 
-2. Kategorie pojazdów, o których mowa w ust. 1, wyłączone są z zakresu stosowania rozporządzenia (EWG) nr 3821/85.
+2. Kategorie pojazdów, o których mowa w ust. 1, wyłączone są z zakresu stosowania rozporządzenia (EWG) nr 3821/85Rozporządzenie Rady (EWG) nr 3821/85 z dnia 20 grudnia 1985 r. w sprawie urządzeń rejestrujących stosowanych w transporcie drogowym (Dz. Urz. WE L 370 z 31.12.1985, str. 8, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 1, str. 227, z późn. zm.)..
 
 **Art. 30.**
 
@@ -131,7 +132,7 @@ source: "eli-html"
 
 - **16)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
 
-#### Rozdział 4a Okresy prowadzenia pojazdów, obowiązkowe przerwy w prowadzeniu i gwarantowane okresy odpoczynku kierowców wykonujących przewozy regularne, których trasa nie przekracza 50 km
+#### Rozdział 4a
 
 **Art. 31a.**
 
@@ -159,14 +160,14 @@ source: "eli-html"
 
 3. Rozkład czasu pracy kierowcy ustala i podpisuje pracodawca lub podmiot, na rzecz którego kierowca wykonuje przewozy. ” .
 
-**Art. 2.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701 oraz z 2007 r. Nr 52, poz. 343 i Nr 57, poz. 381.) wprowadza się następujące zmiany:
 
 - **1)** po art. 97a dodaje się art. 97b w brzmieniu: „
 
 **Art. 97b.** Organ wydający uprawnienie do kierowania pojazdem, na wniosek podmiotu wydającego karty do tachografów cyfrowych, potwierdza zgodność ze stanem faktycznym danych dotyczących prawa jazdy. ” ;
 
 - **2)** w art. 129 w ust. 2 pkt 5 otrzymuje brzmienie: „
-- **5)** sprawdzania zapisów urządzenia rejestrującego samoczynnie prędkość jazdy, czas jazdy i czas postoju, obowiązkowe przerwy i czas odpoczynku; ” . W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2004 r. Nr 204, poz. 2088, z późn. zm.) wprowadza się następujące zmiany:
+- **5)** sprawdzania zapisów urządzenia rejestrującego samoczynnie prędkość jazdy, czas jazdy i czas postoju, obowiązkowe przerwy i czas odpoczynku; ” . W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2004 r. Nr 204, poz. 2088, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 141, poz. 1184, Nr 155, poz. 1297, Nr 163, poz. 1362, Nr 172, poz. 1440, Nr 175, poz. 1462 i Nr 180, poz. 1494 i 1497 oraz z 2006 r. Nr 170, poz. 1217 i 1218, Nr 171, poz. 1225 i Nr 235, poz. 1701.) wprowadza się następujące zmiany:
 - **1)** w art. 4 pkt 6a otrzymuje brzmienie: „
 - **6a)** przewóz drogowy – transport drogowy lub niezarobkowy przewóz drogowy, a także inny przewóz drogowy w rozumieniu przepisów rozporządzenia (WE) nr 561/2006 Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. w sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego oraz zmieniającego rozporządzenia Rady (EWG) nr 3821/85 i (WE) 2135/98, jak również uchylającego rozporządzenie Rady (EWG) nr 3820/85 (Dz. Urz. UE L 102 z 11.04.2006, str. 1), zwanego dalej „rozporządzeniem (WE) nr 561/2006”; ” ;
 - **2)** w art. 42 ust. 3a otrzymuje brzmienie: „
@@ -203,14 +204,20 @@ source: "eli-html"
 
 10. Karę nakłada się w wysokości określonej w załączniku do ustawy dla przedsiębiorcy lub podmiotu realizującego przewóz. ” ;
 
-- **6)** w załączniku do ustawy pkt 12 otrzymuje brzmienie: 1 2 „12. Wykonywanie przewozu drogowego z naruszeniem przepisów dotyczących stosowaniatachografów cyfrowych 12.1. Wykonywanie przewozu drogowego pojazdem niewyposażonym w cyfrowe urządzenie rejestrujące 3 000 12.2. Wykonywanie przewozu drogowego pojazdem wyposażonym w cyfrowe urządzenie rejestrujące, które nie zostało poddane kalibracji 1 000 12.3. Kontynuowanie przez kierowcę przewozu drogowego, po upływie dopuszczalnego okresu kierowania, pojazdem z zepsutym lub niewłaściwie działającym cyfrowym urządzeniem rejestrującym 1 000 12.4. Wykonywanie przewozu drogowego pojazdem wyposażonym w cyfrowe urządzenie rejestrujące bez wymaganego sprawdzenia okresowego 1 000 12.5. Wykonywanie przewozu drogowego pojazdem wyposażonym w cyfrowe urządzenie rejestrujące, do którego podłączone zostały niedozwolone urządzenia dodatkowe wpływające na jego niewłaściwe funkcjonowanie 10 000 12.6. Dopuszczenie do wykonywania przewozu drogowego pojazdem wyposażonym w cyfrowe urządzenie rejestrujące przez kierowcę nieposiadającego własnej, ważnej karty kierowcy 1 000 12.7. Kontynuowanie przewozu drogowego przez kierowcę bez ważnej karty lub z kartą uszkodzoną, po upływie dopuszczalnego okresu kierowania pojazdem 300 12.8. Nieprawidłowe operowanie przełącznikiem cyfrowego urządzenia rejestrującego umożliwiającym zmianę rodzaju aktywności kierowcy – za każdy dzień 100 maks. 1 000 12.9. Wykonywanie przewozu drogowego przez kierowcę, nieposiadającego wymaganego wydruku z tachografu w przypadku uszkodzenia karty kierowcy, jej niesprawności lub jej nieposiadania – za każdy brakujący wydruk 100 12.10. Naruszenie obowiązku wczytywania wymaganych danych z karty kierowcy 500 12.11. Naruszenie obowiązku wczytywania wymaganych danych z tachografu cyfrowego 500 12.12. Udostępnienie podczas kontroli w przedsiębiorstwie niepełnych danych o okresach aktywności kierowcy – za każdy dzień 300 12.13. Nieudostępnienie podczas kontroli w przedsiębiorstwie danych wczytanych z tachografu cyfrowego i karty kierowcy, przechowywanych w przedsiębiorstwie – za każdy dzień 500 12.14. Samowolna ingerencja w dane zapisane w cyfrowym urządzeniu rejestrującym, na karcie kierowcy lub na karcie przedsiębiorstwa 5 000 12.15. Samowolna ingerencja w funkcjonowanie cyfrowego urządzenia rejestrującego zainstalowanego w pojeździe 2 000 12.16. Niewyposażenie kierowcy w dostateczną ilość papieru do drukarki cyfrowego urządzenia rejestrującego, wymaganą na cały okres wykonywania przewozu drogowego 500” W ustawie z dnia 29 lipca 2005 r. o systemie tachografów cyfrowych (Dz. U. Nr 180, poz. 1494) wprowadza się następujące zmiany:
+- **6)** w załączniku do ustawy pkt 12 otrzymuje brzmienie: 1 2 „12. Wykonywanie przewozu drogowego z naruszeniem przepisów dotyczących stosowania tachografów cyfrowych 12.1. Wykonywanie przewozu drogowego pojazdem niewyposażonym w cyfrowe urządzenie rejestrujące 3 000 12.2. Wykonywanie przewozu drogowego pojazdem wyposażonym w cyfrowe urządzenie rejestrujące, które nie zostało poddane kalibracji 1 000 12.3. Kontynuowanie przez kierowcę przewozu drogowego, po upływie dopuszczalnego okresu kierowania, pojazdem z zepsutym lub niewłaściwie działającym cyfrowym urządzeniem rejestrującym 1 000 12.4. Wykonywanie przewozu drogowego pojazdem wyposażonym w cyfrowe urządzenie rejestrujące bez wymaganego sprawdzenia okresowego 1 000 12.5. Wykonywanie przewozu drogowego pojazdem wyposażonym w cyfrowe urządzenie rejestrujące, do którego podłączone zostały niedozwolone urządzenia dodatkowe wpływające na jego niewłaściwe funkcjonowanie 10 000 12.6. Dopuszczenie do wykonywania przewozu drogowego pojazdem wyposażonym w cyfrowe urządzenie rejestrujące przez kierowcę nieposiadającego własnej, ważnej karty kierowcy 1 000 12.7. Kontynuowanie przewozu drogowego przez kierowcę bez ważnej karty lub z kartą uszkodzoną, po upływie dopuszczalnego okresu kierowania pojazdem 300 12.8. Nieprawidłowe operowanie przełącznikiem cyfrowego urządzenia rejestrującego umożliwiającym zmianę rodzaju aktywności kierowcy – za każdy dzień 100 maks. 1 000 12.9. Wykonywanie przewozu drogowego przez kierowcę, nieposiadającego wymaganego wydruku z tachografu w przypadku uszkodzenia karty kierowcy, jej niesprawności lub jej nieposiadania – za każdy brakujący wydruk 100 12.10. Naruszenie obowiązku wczytywania wymaganych danych z karty kierowcy 500 12.11. Naruszenie obowiązku wczytywania wymaganych danych z tachografu cyfrowego 500 12.12. Udostępnienie podczas kontroli w przedsiębiorstwie niepełnych danych o okresach aktywności kierowcy – za każdy dzień 300 12.13. Nieudostępnienie podczas kontroli w przedsiębiorstwie danych wczytanych z tachografu cyfrowego i karty kierowcy, przechowywanych w przedsiębiorstwie – za każdy dzień 500 12.14. Samowolna ingerencja w dane zapisane w cyfrowym urządzeniu rejestrującym, na karcie kierowcy lub na karcie przedsiębiorstwa 5 000 12.15. Samowolna ingerencja w funkcjonowanie cyfrowego urządzenia rejestrującego zainstalowanego w pojeździe 2 000 12.16. Niewyposażenie kierowcy w dostateczną ilość papieru do drukarki cyfrowego urządzenia rejestrującego, wymaganą na cały okres wykonywania przewozu drogowego 500” W ustawie z dnia 29 lipca 2005 r. o systemie tachografów cyfrowych (Dz. U. Nr 180, poz. 1494) wprowadza się następujące zmiany:
 - **1)** w art. 2 pkt 5 otrzymuje brzmienie: „
 - **5)** technik warsztatu – osobę wykonującą aktywację i sprawdzanie, w tym kalibrację, tachografów cyfrowych, na podstawie uprawnienia wydanego przez właściwy organ; ” ;
-- **2)** w art. 6: w ust. 3 uchyla się pkt 5, w ust. 4: – pkt 2 otrzymuje brzmienie: „ 2) informację z Krajowego Rejestru Karnego w przedmiocie niekaralności uzyskaną nie wcześniej niż na 3 miesiące przed dniem złożenia wniosku; ” , – pkt 4 i 5 otrzymują brzmienie: „ 4) potwierdzone za zgodność z oryginałem kopie dokumentów potwierdzających tytuł prawny wnioskodawcy do lokalu użytkowego i miejsc parkingowych, które mają być wykorzystywane do wykonywania czynności objętych zezwoleniem, oraz kopie dokumentów potwierdzających spełnienie wymagań w zakresie posiadania warunków warsztatowo-technicznych, o których mowa w ust. 5 pkt 2; 5) potwierdzoną za zgodność z oryginałem kopię dokumentacji, o której mowa w ust. 5 pkt 4. ” , w ust. 5: – pkt 3 otrzymuje brzmienie: „ 3) nie był prawomocnie skazany za przestępstwo przeciwko działalności instytucji państwowych oraz samorządu, wymiarowi sprawiedliwości, porządkowi publicznemu, ochronie informacji, wiarygodności dokumentów, mieniu lub obrotowi gospodarczemu; gdy wnioskodawcą jest spółka handlowa, wymóg ten dotyczy członków zarządu tej spółki; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) nie jest przewoźnikiem drogowym lub innym podmiotem wykonującym przewozy drogowe, będącym właścicielem lub użytkownikiem pojazdu samochodowego objętego obowiązkiem instalacji i użytkowania tachografu cyfrowego, o którym mowa w rozporządzeniu Rady (EWG) nr 3821/85. ” ;
+- **2)** w art. 6: w ust. 3 uchyla się pkt 5, w ust. 4: pkt 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+
+- **2)** informację z Krajowego Rejestru Karnego w przedmiocie niekaralności uzyskaną nie wcześniej niż na 3 miesiące przed dniem złożenia wniosku; ” , pkt 4 i 5 otrzymują brzmienie: „
+- **4)** potwierdzone za zgodność z oryginałem kopie dokumentów potwierdzających tytuł prawny wnioskodawcy do lokalu użytkowego i miejsc parkingowych, które mają być wykorzystywane do wykonywania czynności objętych zezwoleniem, oraz kopie dokumentów potwierdzających spełnienie wymagań w zakresie posiadania warunków warsztatowo-technicznych, o których mowa w ust. 5 pkt 2;
+- **5)** potwierdzoną za zgodność z oryginałem kopię dokumentacji, o której mowa w ust. 5 pkt 4. ” , w ust. 5: pkt 3 otrzymuje brzmienie: „
     - **c)**
 
+- **3)** nie był prawomocnie skazany za przestępstwo przeciwko działalności instytucji państwowych oraz samorządu, wymiarowi sprawiedliwości, porządkowi publicznemu, ochronie informacji, wiarygodności dokumentów, mieniu lub obrotowi gospodarczemu; gdy wnioskodawcą jest spółka handlowa, wymóg ten dotyczy członków zarządu tej spółki; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+- **5)** nie jest przewoźnikiem drogowym lub innym podmiotem wykonującym przewozy drogowe, będącym właścicielem lub użytkownikiem pojazdu samochodowego objętego obowiązkiem instalacji i użytkowania tachografu cyfrowego, o którym mowa w rozporządzeniu Rady (EWG) nr 3821/85. ” ;
 - **3)** w art. 7 w ust. 2 pkt 2 otrzymuje brzmienie: „
 - **2)** nadaje się specjalną cechę, której upoważniony podmiot prowadzący warsztat używa do poświadczania wykonania czynności objętych zezwoleniem. ” ;
 - **4)** w art. 8 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
@@ -221,7 +228,7 @@ source: "eli-html"
 1. Podmiot prowadzący warsztat:
 
 - **1)** występuje do Prezesa GUM z wnioskiem o zmianę zezwolenia, jeżeli nastąpiła zmiana w odniesieniu do wymagań, o których mowa w art. 6 ust. 5 pkt 2; wniosek zawierający informacje o zmianach składa się w terminie 14 dni od dnia zaistnienia tych zmian;
-- **2)** może wystąpić do Prezesa GUM z wnioskiem o zmianę zezwolenia w przedmiocie: rozszerzenia zakresu usług określonych w zezwoleniu, zmiany liczby miejsc świadczenia usług przepisy art. 6 ust. 6 i art. 8 pkt 3 stosuje się odpowiednio. ” , dodaje się ust. 3 w brzmieniu: „
+- **2)** może wystąpić do Prezesa GUM z wnioskiem o zmianę zezwolenia w przedmiocie: rozszerzenia zakresu usług określonych w zezwoleniu, zmiany liczby miejsc świadczenia usług – przepisy art. 6 ust. 6 i art. 8 pkt 3 stosuje się odpowiednio. ” , dodaje się ust. 3 w brzmieniu: „
     - **a)**
     - **b)**
     - **b)**
@@ -258,8 +265,11 @@ source: "eli-html"
 - **10)** w art. 20 w ust. 2 pkt 2 i 3 otrzymują brzmienie: „
 - **2)** kopię dokumentu dopuszczającego do ruchu pojazd objęty obowiązkiem instalacji i użytkowania tachografu cyfrowego, o którym mowa w rozporządzeniu Rady (EWG) nr 3821/85, a w przypadku gdy z tego dokumentu nie wynika prawo dysponowania tym pojazdem, dodatkowo kopię innego dokumentu potwierdzającego powyższy fakt – w przypadku karty przedsiębiorstwa;
 - **3)** kopię zezwolenia, o którym mowa w art. 6 ust. 1, kopię zaświadczenia, o którym mowa w art. 16 ust. 2, posiadanego przez technika warsztatu oraz jego fotografię – w przypadku karty warsztatowej; ” ;
-- **11)** w art. 22: w ust. 1: – w pkt 1 lit. b otrzymuje brzmienie: „ b) centralnej ewidencji kierowców, z zastrzeżeniem pkt 2, ” , – pkt 2 otrzymuje brzmienie: „ 2) w przypadku braku możliwości sprawdzenia prawdziwości danych zawartych we wniosku o wydanie karty kierowcy, w zakresie prawa jazdy, może zwrócić się o ich potwierdzenie do właściwego organu, który to prawo jazdy wydał. ” , w ust. 2 pkt 2 i 3 otrzymują brzmienie: „
+- **11)** w art. 22: w ust. 1: w pkt 1 lit. b otrzymuje brzmienie: „ centralnej ewidencji kierowców, z zastrzeżeniem pkt 2, ” , pkt 2 otrzymuje brzmienie: „
     - **a)**
+    - **b)**
+
+- **2)** w przypadku braku możliwości sprawdzenia prawdziwości danych zawartych we wniosku o wydanie karty kierowcy, w zakresie prawa jazdy, może zwrócić się o ich potwierdzenie do właściwego organu, który to prawo jazdy wydał. ” , w ust. 2 pkt 2 i 3 otrzymują brzmienie: „
     - **b)**
 
 - **2)** 5 lat – w przypadku karty przedsiębiorstwa;
@@ -300,6 +310,6 @@ source: "eli-html"
 **Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 4, który wchodzi w życie z dniem 1 stycznia 2009 r.;
-- **2)** art. 3 pkt 2, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+- **2)** art. 3 pkt 2, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 6 września 2001 r. o transporcie drogowym i ustawę z dnia 29 lipca 2005 r. o systemie tachografów cyfrowych. 2) Rozporządzenie Rady (EWG) nr 3821/85 z dnia 20 grudnia 1985 r. w sprawie urządzeń rejestrujących stosowanych w transporcie drogowym (Dz. Urz. WE L 370 z 31.12.1985, str. 8, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 1, str. 227, z późn. zm.). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701 oraz z 2007 r. Nr 52, poz. 343 i Nr 57, poz. 381. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 141, poz. 1184, Nr 155, poz. 1297, Nr 163, poz. 1362, Nr 172, poz. 1440, Nr 175, poz. 1462 i Nr 180, poz. 1494 i 1497 oraz z 2006 r. Nr 170, poz. 1217 i 1218, Nr 171, poz. 1225 i Nr 235, poz. 1701.
 
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 27 listopada 2017 r. zmieniające rozporządzenie w sprawie określenia wysokości limitów środków dostępnych w ramach schematów pomocy technicznej Programu Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 27 listopada 2017 r. zmieniające rozporządzenie w sprawie określenia wysokości limitów środków dostępnych w ramach schematów pomocy technicznej Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-27 |
 | Data wydania | 2017-12-06 |
-| Wejście w życie | 2017-12-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002261) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2261/text.pdf) |
 
@@ -39,8 +38,7 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 25 lutego 2016 r. w sp
 1)
 w § 2 w ust. 2:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
 w przypadku Centrum Doradztwa Rolniczego z siedzibą w Brwinowie:
 a)
@@ -53,8 +51,7 @@ na realizację operacji w ramach działania „Poszukiwanie partnerów KSOW do w
 – własnych beneficjenta – limit ten wynosi nie więcej niż 60% tych środków;
 ” ,
 b)
-po pkt 1b dodaje się pkt 1c w brzmieniu:
-„
+po pkt 1b dodaje się pkt 1c w brzmieniu: „
 1c)
 w przypadku wojewódzkich ośrodków doradztwa rolniczego:
 a)
@@ -71,14 +68,17 @@ załączniki nr 1 i 2 do rozporządzenia otrzymują brzmienie określone odpowie
 § 2.
 Do kosztów poniesionych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 ## Załącznik nr 1 — – Wysokość limitów środków dostępnych w ramach schematu I wzmocnienie systemu wdrażania programu w podziale na beneficjetów
 
-Lp. Beneficjent Wysokość limitówdostępnych środków(w euro) 1 Samorząd województwa dolnośląskiego 6 261 859 2 Samorząd województwa kujawsko-pomorskiego 6 186 548 3 Samorząd województwa lubelskiego 7 337 765 4 Samorząd województwa lubuskiego 5 690 061 5 Samorząd województwa łódzkiego 6 224 456 6 Samorząd województwa małopolskiego 6 934 979 7 Samorząd województwa mazowieckiego 9 301 442 8 Samorząd województwa opolskiego 5 570 552 9 Samorząd województwa podkarpackiego 7 250 438 10 Samorząd województwa podlaskiego 6 348 735 11 Samorząd województwa pomorskiego 5 949 623 12 Samorząd województwa śląskiego 6 288 439 13 Samorząd województwa świętokrzyskiego 6 050 691 14 Samorząd województwa warmińsko-mazurskiego 6 216 297 15 Samorząd województwa wielkopolskiego 7 027 921 16 Samorząd województwa zachodniopomorskiego 5 955 736 17 Krajowy Ośrodek Wsparcia Rolnictwa 5 883 508 18 Agencja Restrukturyzacji i Modernizacji Rolnictwa 47 733 481 19 Ministerstwo Finansów 2 000 000 20 Ministerstwo Rolnictwa i Rozwoju Wsi 60 764 224 21 Prezes Urzędu Zamówień Publicznych 208 680 22 Krajowa Stacja Chemiczno-Rolnicza 1 870 661 23 Fundacja Programów Pomocy dla Rolnictwa FAPA 220 000 Razem 223 276 096
+Lp. Beneficjent Wysokość limitów
+dostępnych środków
+(w euro) 1 Samorząd województwa dolnośląskiego 6 261 859 2 Samorząd województwa kujawsko-pomorskiego 6 186 548 3 Samorząd województwa lubelskiego 7 337 765 4 Samorząd województwa lubuskiego 5 690 061 5 Samorząd województwa łódzkiego 6 224 456 6 Samorząd województwa małopolskiego 6 934 979 7 Samorząd województwa mazowieckiego 9 301 442 8 Samorząd województwa opolskiego 5 570 552 9 Samorząd województwa podkarpackiego 7 250 438 10 Samorząd województwa podlaskiego 6 348 735 11 Samorząd województwa pomorskiego 5 949 623 12 Samorząd województwa śląskiego 6 288 439 13 Samorząd województwa świętokrzyskiego 6 050 691 14 Samorząd województwa warmińsko-mazurskiego 6 216 297 15 Samorząd województwa wielkopolskiego 7 027 921 16 Samorząd województwa zachodniopomorskiego 5 955 736 17 Krajowy Ośrodek Wsparcia Rolnictwa 5 883 508 18 Agencja Restrukturyzacji i Modernizacji Rolnictwa 47 733 481 19 Ministerstwo Finansów 2 000 000 20 Ministerstwo Rolnictwa i Rozwoju Wsi 60 764 224 21 Prezes Urzędu Zamówień Publicznych 208 680 22 Krajowa Stacja Chemiczno-Rolnicza 1 870 661 23 Fundacja Programów Pomocy dla Rolnictwa FAPA 220 000 Razem 223 276 096
 
 ## Załącznik nr 2 — – Wysokość limitów środków dostępnych w ramach schematu II wsparcie funkcjonowania krajowej sieci obszarów wiejskich oraz realizacja działań informacyjno-promocyjnych prow 2014–2020 w podziale na beneficjetów
 
-Lp. Beneficjent Wysokość limitówdostępnych środków(w euro) 1 Samorząd województwa dolnośląskiego 1 954 004 2 Samorząd województwa kujawsko-pomorskiego 2 038 846 3 Samorząd województwa lubelskiego 3 296 554 4 Samorząd województwa lubuskiego 1 590 114 5 Samorząd województwa łódzkiego 2 061 382 6 Samorząd województwa małopolskiego 2 627 765 7 Samorząd województwa mazowieckiego 4 949 942 8 Samorząd województwa opolskiego 1 456 887 9 Samorząd województwa podkarpackiego 3 079 479 10 Samorząd województwa podlaskiego 2 447 145 11 Samorząd województwa pomorskiego 1 723 342 12 Samorząd województwa śląskiego 2 049 120 13 Samorząd województwa świętokrzyskiego 1 879 768 14 Samorząd województwa warmińsko-mazurskiego 2 332 145 15 Samorząd województwa wielkopolskiego 2 710 286 16 Samorząd województwa zachodniopomorskiego 1 894 350 17 Krajowy Ośrodek Wsparcia Rolnictwa 460 116 18 Agencja Restrukturyzacji i Modernizacji Rolnictwa 887 207 19 Ministerstwo Rolnictwa i Rozwoju Wsi 38 990 000 20 Minister Rolnictwa i Rozwoju Wsi 422 508 21 Centrum Doradztwa Rolniczego z siedzibą w Brwinowie 7 457 000 22 Dolnośląski Ośrodek Doradztwa Rolniczego z siedzibą we Wrocławiu 800 000 23 Kujawsko-pomorski Ośrodek Doradztwa Rolniczego z siedzibą w Minikowie 800 000 24 Lubelski Ośrodek Doradztwa Rolniczego z siedzibą w Końskowoli 800 000 25 Lubuski Ośrodek Doradztwa Rolniczego z siedzibą w Kalsku 800 000 26 Łódzki Ośrodek Doradztwa Rolniczego z siedzibą w Bratoszewicach 800 000 27 Małopolski Ośrodek Doradztwa Rolniczego z siedzibą w Karniowicach 800 000 28 Mazowiecki Ośrodek Doradztwa Rolniczego z siedzibą w Warszawie 800 000 29 Opolski Ośrodek Doradztwa Rolniczego z siedzibą w Łosiowie 800 000 30 Podkarpacki Ośrodek Doradztwa Rolniczego z siedzibą w Boguchwale 800 000 31 Podlaski Ośrodek Doradztwa Rolniczego z siedzibą w Szepietowie 800 000 32 Pomorski Ośrodek Doradztwa Rolniczego z siedzibą w Lubaniu 800 000 33 Śląski Ośrodek Doradztwa Rolniczego z siedzibą w Częstochowie 800 000 34 Świętokrzyski Ośrodek Doradztwa Rolniczego z siedzibą w Modliszewicach 800 000 35 Warmińsko-mazurski Ośrodek Doradztwa Rolniczego z siedzibą w Olsztynie 800 000 36 Wielkopolski Ośrodek Doradztwa Rolniczego z siedzibą w Poznaniu 800 000 37 Zachodniopomorski Ośrodek Doradztwa Rolniczego z siedzibą w Barzkowicach 800 000 38 Fundacja Programów Pomocy dla Rolnictwa FAPA 893 792 Razem 100 001 752
+Lp. Beneficjent Wysokość limitów
+dostępnych środków
+(w euro) 1 Samorząd województwa dolnośląskiego 1 954 004 2 Samorząd województwa kujawsko-pomorskiego 2 038 846 3 Samorząd województwa lubelskiego 3 296 554 4 Samorząd województwa lubuskiego 1 590 114 5 Samorząd województwa łódzkiego 2 061 382 6 Samorząd województwa małopolskiego 2 627 765 7 Samorząd województwa mazowieckiego 4 949 942 8 Samorząd województwa opolskiego 1 456 887 9 Samorząd województwa podkarpackiego 3 079 479 10 Samorząd województwa podlaskiego 2 447 145 11 Samorząd województwa pomorskiego 1 723 342 12 Samorząd województwa śląskiego 2 049 120 13 Samorząd województwa świętokrzyskiego 1 879 768 14 Samorząd województwa warmińsko-mazurskiego 2 332 145 15 Samorząd województwa wielkopolskiego 2 710 286 16 Samorząd województwa zachodniopomorskiego 1 894 350 17 Krajowy Ośrodek Wsparcia Rolnictwa 460 116 18 Agencja Restrukturyzacji i Modernizacji Rolnictwa 887 207 19 Ministerstwo Rolnictwa i Rozwoju Wsi 38 990 000 20 Minister Rolnictwa i Rozwoju Wsi 422 508 21 Centrum Doradztwa Rolniczego z siedzibą w Brwinowie 7 457 000 22 Dolnośląski Ośrodek Doradztwa Rolniczego z siedzibą we Wrocławiu 800 000 23 Kujawsko-pomorski Ośrodek Doradztwa Rolniczego z siedzibą w Minikowie 800 000 24 Lubelski Ośrodek Doradztwa Rolniczego z siedzibą w Końskowoli 800 000 25 Lubuski Ośrodek Doradztwa Rolniczego z siedzibą w Kalsku 800 000 26 Łódzki Ośrodek Doradztwa Rolniczego z siedzibą w Bratoszewicach 800 000 27 Małopolski Ośrodek Doradztwa Rolniczego z siedzibą w Karniowicach 800 000 28 Mazowiecki Ośrodek Doradztwa Rolniczego z siedzibą w Warszawie 800 000 29 Opolski Ośrodek Doradztwa Rolniczego z siedzibą w Łosiowie 800 000 30 Podkarpacki Ośrodek Doradztwa Rolniczego z siedzibą w Boguchwale 800 000 31 Podlaski Ośrodek Doradztwa Rolniczego z siedzibą w Szepietowie 800 000 32 Pomorski Ośrodek Doradztwa Rolniczego z siedzibą w Lubaniu 800 000 33 Śląski Ośrodek Doradztwa Rolniczego z siedzibą w Częstochowie 800 000 34 Świętokrzyski Ośrodek Doradztwa Rolniczego z siedzibą w Modliszewicach 800 000 35 Warmińsko-mazurski Ośrodek Doradztwa Rolniczego z siedzibą w Olsztynie 800 000 36 Wielkopolski Ośrodek Doradztwa Rolniczego z siedzibą w Poznaniu 800 000 37 Zachodniopomorski Ośrodek Doradztwa Rolniczego z siedzibą w Barzkowicach 800 000 38 Fundacja Programów Pomocy dla Rolnictwa FAPA 893 792 Razem 100 001 752
 

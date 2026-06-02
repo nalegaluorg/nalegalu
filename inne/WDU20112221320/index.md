@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-18 |
 | Data wydania | 2011-10-18 |
-| Wejście w życie | 2011-11-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112221320) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1320/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich (Dz. U. z 2001 r. Nr 14, poz. 147, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich (Dz. U. z 2001 r. Nr 14, poz. 147, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 25, poz. 162, z 2010 r. Nr 182, poz. 1228, Nr 197, poz. 1307, Nr 202, poz. 1343 i Nr 254, poz. 1700 oraz z 2011 r. Nr 168, poz. 1004.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 dodaje się ust. 4 w brzmieniu: „
 
@@ -49,11 +48,11 @@ source: "eli-html"
 - **2)** udostępnia się osobie, która została zarejestrowana, a także jej przedstawicielowi ustawowemu lub pełnomocnikowi. ” ;
 - **4)** po art. 17b dodaje się art. 17c w brzmieniu: „
 
-**Art. 17c.** Rzecznik może przetwarzać wszelkie informacje, w tym dane osobowe, o których mowa w art. 27 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. Nr 101, poz. 926, z późn. zm.), niezbędne do realizacji swoich ustawowych zadań. ” ;
+**Art. 17c.** Rzecznik może przetwarzać wszelkie informacje, w tym dane osobowe, o których mowa w art. 27 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. Nr 101, poz. 926, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 165, poz. 1170 i Nr 176, poz. 1238 oraz z 2010 r. Nr 41, poz. 233, Nr 182, poz. 1228 i Nr 229, poz. 1497.), niezbędne do realizacji swoich ustawowych zadań. ” ;
 
 - **5)** art. 21 otrzymuje brzmienie: „
 
 **Art. 21.** Wydatki związane z funkcjonowaniem Rzecznika Praw Obywatelskich pokrywane są z budżetu państwa. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 25, poz. 162, z 2010 r. Nr 182, poz. 1228, Nr 197, poz. 1307, Nr 202, poz. 1343 i Nr 254, poz. 1700 oraz z 2011 r. Nr 168, poz. 1004. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 165, poz. 1170 i Nr 176, poz. 1238 oraz z 2010 r. Nr 41, poz. 233, Nr 182, poz. 1228 i Nr 229, poz. 1497.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-08-03 |
 | Data wydania | 2018-08-08 |
-| Wejście w życie | 2018-08-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001523) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1523/text.pdf) |
 
@@ -33,9 +32,11 @@ W rozporządzeniu Prezesa Rady Ministrów z dnia 11 maja 2017 r. w sprawie osób
 1)
 w grupie 0 w pkt 2:
 a)
-lp. 4 otrzymuje brzmienie: 4 Fabryka Maszyn Introligatorskich „INTROMA” sp. z o.o. w likwidacji Łódź 0000374222
+lp. 4 otrzymuje brzmienie:
+4 Fabryka Maszyn Introligatorskich „INTROMA” sp. z o.o. w likwidacji Łódź 0000374222
 b)
-lp. 10 otrzymuje brzmienie: 10 Lubliniec 0000225406
+lp. 10 otrzymuje brzmienie:
+10 Lubliniec 0000225406
 c)
 uchyla się lp. 19;
 2)
@@ -43,21 +44,26 @@ w grupie A w pkt 1:
 a)
 uchyla się lp. 20 i 21,
 b)
-dodaje się lp. 51 w brzmieniu: 51 Muzeum Łazienki Królewskie w Warszawie Warszawa 369111140
+dodaje się lp. 51 w brzmieniu:
+51 Muzeum Łazienki Królewskie w Warszawie Warszawa 369111140
 3)
 w grupie B:
 a)
-w pkt 1 lp. 9 otrzymuje brzmienie: 9 Studio Filmów Rysunkowych Bielsko-Biała 363661944
+w pkt 1 lp. 9 otrzymuje brzmienie:
+9 Studio Filmów Rysunkowych Bielsko-Biała 363661944
 b)
 w pkt 3 uchyla się lp. 2,
 c)
 w pkt 6:
-– lp. 10 otrzymuje brzmienie: 10 Instytut Badań Rynku, Konsumpcji i Koniunktur – Państwowy Instytut Badawczy Warszawa 0000062597
+lp. 10 otrzymuje brzmienie:
+10 Instytut Badań Rynku, Konsumpcji i Koniunktur – Państwowy Instytut Badawczy Warszawa 0000062597
 – uchyla się lp. 28,
 – uchyla się lp. 36,
 – uchyla się lp. 56,
-– lp. 79 otrzymuje brzmienie: 79 Naukowa i Akademicka Sieć Komputerowa – Państwowy Instytut Badawczy Warszawa 0000012938
-– dodaje się lp. 94 w brzmieniu: 94 Krajowy Instytut Polityki Przestrzennej i Mieszkalnictwa Warszawa 0000145913
+lp. 79 otrzymuje brzmienie:
+79 Naukowa i Akademicka Sieć Komputerowa – Państwowy Instytut Badawczy Warszawa 0000012938
+dodaje się lp. 94 w brzmieniu:
+94 Krajowy Instytut Polityki Przestrzennej i Mieszkalnictwa Warszawa 0000145913
 4)
 w grupie D w pkt 1 uchyla się:
 a)

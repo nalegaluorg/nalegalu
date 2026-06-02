@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 8 stycznia 2020 r. w sprawie Rejestru Operacji Naczyniowych
+# Rozporządzenie Ministra Zdrowiaz dnia 8 stycznia 2020 r. w sprawie Rejestru Operacji Naczyniowych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-08 |
 | Data wydania | 2020-01-17 |
-| Wejście w życie | 2020-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000084) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/84/text.pdf) |
 
@@ -61,7 +60,7 @@ numer PESEL,
 f)
 datę urodzenia,
 g)
-w przypadku osób, które nie mają nadanego numeru PESEL – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość, albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 9.09.2015, str. 1, z późn. zm.),
+w przypadku osób, które nie mają nadanego numeru PESEL – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość, albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 9.09.2015, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 28 z 04.04.2016, str. 18.,
 h)
 adres miejsca zamieszkania i adres do korespondencji,
 i)
@@ -163,13 +162,11 @@ inne niż określone w lit. a-g operacje na naczyniach, z wyjątkiem operacji na
 j)
 amputacje u usługobiorców z niedokrwieniem kończyn dolnych,
 k)
-przezskórnych implantacji stentów w poszerzaniu koarktacji aorty z uwzględnieniem balonowych angioplastyk
-w zakresie, o którym mowa w § 4, za pośrednictwem dedykowanego systemu informatycznego, w terminie do 10. dnia miesiąca następującego po miesiącu, w którym usługodawca wykazał do rozliczenia dane świadczenie;
+przezskórnych implantacji stentów w poszerzaniu koarktacji aorty z uwzględnieniem balonowych angioplastyk – w zakresie, o którym mowa w § 4, za pośrednictwem dedykowanego systemu informatycznego, w terminie do 10. dnia miesiąca następującego po miesiącu, w którym usługodawca wykazał do rozliczenia dane świadczenie;
 2)
 Narodowy Fundusz Zdrowia w zakresie, o którym mowa w § 4 pkt 1 lit. b, e-g, j oraz k, w pkt 2 lit. d oraz g oraz pkt 3 i 4, do systemu, o którym mowa w pkt 1, w terminie do 120 dni od dnia przekazania danych przez usługodawcę.
 § 6.
 Tworzy się Rejestr Operacji Naczyniowych.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 28 z 04.04.2016, str. 18.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 28 z 04.04.2016, str. 18.
 

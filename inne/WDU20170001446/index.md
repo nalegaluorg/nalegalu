@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 20 lipca 2017 r. w sprawie zawierania przez specjalistyczny fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 20 lipca 2017 r. w sprawie zawierania przez specjalistyczny fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-20 |
 | Data wydania | 2017-07-28 |
-| Wejście w życie | 2017-08-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001446) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1446/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wykaz indeksów
 Treść rozporządzenia
-Na podstawie art. 116d ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2016 r. poz. 1896, z późn. zm.) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji służy stosowaniu rozporządzenia delegowanego Komisji (UE) nr 231/2013 z dnia 19 grudnia 2012 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2011/61/UE w odniesieniu do zwolnień, ogólnych warunków dotyczących prowadzenia działalności, depozytariuszy, dźwigni finansowej, przejrzystości i nadzoru (Dz. Urz. UE L 83 z 22.03.2013, str. 1). Na podstawie art. 116d ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2016 r. poz. 1896, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 724, 768, 791 i 1089.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -59,7 +58,7 @@ funduszu – rozumie się przez to specjalistyczny fundusz inwestycyjny otwarty,
 2)
 kontrahencie – rozumie się przez to podmiot będący stroną umowy z funduszem, której przedmiotem są niewystandaryzowane instrumenty pochodne;
 3)
-CCP – rozumie się przez to podmiot, o którym mowa w art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.), prowadzący działalność na podstawie zezwolenia, o którym mowa w art. 14 tego rozporządzenia, albo uznany przez Europejski Organ Nadzoru Giełd i Papierów Wartościowych na podstawie art. 25 tego rozporządzenia;
+CCP – rozumie się przez to podmiot, o którym mowa w art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 27.06.2013, str. 1, Dz. Urz. UE L 279 z 19.10.2013, str. 2, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 173 z 12.06.2014, str. 84 i 190, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz. UE L 239 z 15.09.2015, str. 63, Dz. Urz. UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 337 z 23.12.2015, str. 1, Dz. Urz. UE L 151 z 08.06.2016, str. 4, Dz. Urz. UE L 336 z 10.12.2016, str. 36, Dz. Urz. UE L 86 z 31.03.2017, str. 3, Dz. Urz. UE L 144 z 07.06.2017, str. 14 oraz Dz. Urz. UE L 148 z 10.06.2017, str. 1.), prowadzący działalność na podstawie zezwolenia, o którym mowa w art. 14 tego rozporządzenia, albo uznany przez Europejski Organ Nadzoru Giełd i Papierów Wartościowych na podstawie art. 25 tego rozporządzenia;
 4)
 rozporządzeniu 231/2013 – rozumie się przez to rozporządzenie delegowane Komisji (UE) nr 231/2013 z dnia 19 grudnia 2012 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2011/61/UE w odniesieniu do zwolnień, ogólnych warunków dotyczących prowadzenia działalności, depozytariuszy, dźwigni finansowej, przejrzystości i nadzoru (Dz. Urz. UE L 83 z 22.03.2013, str. 1).
 § 3.
@@ -235,8 +234,7 @@ składniki indeksu charakteryzują się płynnością, która w razie potrzeby u
 3)
 wartość i ogólne zasady konstrukcji indeksu są udostępniane do publicznej wiadomości.
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie w zakresie swojej regulacji służy stosowaniu rozporządzenia delegowanego Komisji (UE) nr 231/2013 z dnia 19 grudnia 2012 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2011/61/UE w odniesieniu do zwolnień, ogólnych warunków dotyczących prowadzenia działalności, depozytariuszy, dźwigni finansowej, przejrzystości i nadzoru (Dz. Urz. UE L 83 z 22.03.2013, str. 1). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 724, 768, 791 i 1089. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 27.06.2013, str. 1, Dz. Urz. UE L 279 z 19.10.2013, str. 2, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 173 z 12.06.2014, str. 84 i 190, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz. UE L 239 z 15.09.2015, str. 63, Dz. Urz. UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 337 z 23.12.2015, str. 1, Dz. Urz. UE L 151 z 08.06.2016, str. 4, Dz. Urz. UE L 336 z 10.12.2016, str. 36, Dz. Urz. UE L 86 z 31.03.2017, str. 3, Dz. Urz. UE L 144 z 07.06.2017, str. 14 oraz Dz. Urz. UE L 148 z 10.06.2017, str. 1.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie w zakresie swojej regulacji służy stosowaniu rozporządzenia delegowanego Komisji (UE) nr 231/2013 z dnia 19 grudnia 2012 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2011/61/UE w odniesieniu do zwolnień, ogólnych warunków dotyczących prowadzenia działalności, depozytariuszy, dźwigni finansowej, przejrzystości i nadzoru (Dz. Urz. UE L 83 z 22.03.2013, str. 1). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 724, 768, 791 i 1089. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 27.06.2013, str. 1, Dz. Urz. UE L 279 z 19.10.2013, str. 2, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 173 z 12.06.2014, str. 84 i 190, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz. UE L 239 z 15.09.2015, str. 63, Dz. Urz. UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 337 z 23.12.2015, str. 1, Dz. Urz. UE L 151 z 08.06.2016, str. 4, Dz. Urz. UE L 336 z 10.12.2016, str. 36, Dz. Urz. UE L 86 z 31.03.2017, str. 3, Dz. Urz. UE L 144 z 07.06.2017, str. 14 oraz Dz. Urz. UE L 148 z 10.06.2017, str. 1.
 Załącznik – Wykaz indeksów
 1)
 All Ords – w Związku Australijskim;

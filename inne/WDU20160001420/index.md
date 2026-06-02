@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-07 |
 | Data wydania | 2016-09-07 |
-| Wejście w życie | 2016-09-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001420) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1420/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 95i § 6 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2014 r. poz. 164, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 95i § 6 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2014 r. poz. 164, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 993 i 1585, z 2015 r. poz. 218, 978, 1137, 1224 i 1311 oraz z 2016 r. poz. 1358.) zarządza się, co następuje:
 § 1.
 Wysokość opłaty za wpis dokonany w Rejestrze Spadkowym wynosi 5 złotych.
 § 2.
@@ -35,5 +34,5 @@ Wysokość opłaty za wpis dokonany w Rejestrze Spadkowym wynosi 5 złotych.
 § 3.
 Łączną kwotę opłat za wpisy do Rejestru Spadkowego postanowień o stwierdzeniu nabycia spadku, postanowień uchylających lub zmieniających postanowienia o stwierdzeniu nabycia spadku albo europejskich poświadczeń spadkowych właściwy sąd przekazuje w formie bezgotówkowej na rachunek bankowy Krajowej Rady Notarialnej w terminie do 7 dnia miesiąca następującego po miesiącu, w którym dokonano wpisu orzeczeń za pośrednictwem systemu teleinformatycznego do Rejestru Spadkowego.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 8 września 2016 r.
+Rozporządzenie wchodzi w życie z dniem 8 września 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 993 i 1585, z 2015 r. poz. 218, 978, 1137, 1224 i 1311 oraz z 2016 r. poz. 1358.
 

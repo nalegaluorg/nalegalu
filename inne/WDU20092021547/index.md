@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-02-12 |
 | Data wydania | 2009-12-01 |
-| Wejście w życie | 2009-12-16 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092021547) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1547/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej (Dz. U. z 2000 r. Nr 47, poz. 544, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej (Dz. U. z 2000 r. Nr 47, poz. 544, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 153, poz. 1271, z 2003 r. Nr 57, poz. 507 i Nr 130, poz. 1188, z 2004 r. Nr 25, poz. 219, z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162 i Nr 112, poz. 766, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 119, poz. 999.) wprowadza się następujące zmiany:
 
 - **1)** dodaje się art. 40da w brzmieniu: „ Art. 40da. Na wniosek komitetu odpowiednie organy mają obowiązek wydać decyzję o nadaniu numeru REGON i NIP, najpóźniej do końca drugiego dnia roboczego następującego po dniu zgłoszenia wniosku o nadanie numeru. ” ;
 - **2)** uchyla się art. 40e;
@@ -34,7 +33,7 @@ source: "eli-html"
 
 2. Komitet ma obowiązek utworzenia, w terminie 7 dni od dnia zarejestrowania komitetu, swojej strony internetowej, na której umieszcza się informacje określone w ustawie.
 
-3. Pełnomocnik informuje Państwową Komisję Wyborczą o utworzeniu strony internetowej komitetu i jej adresie w terminie 7 dni od dnia zarejestrowania komitetu. Państwowa Komisja Wyborcza podaje informację o adresach stron internetowych zarejestrowanych komitetów w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.), zwanym dalej „Biuletynem Informacji Publicznej”. ” ;
+3. Pełnomocnik informuje Państwową Komisję Wyborczą o utworzeniu strony internetowej komitetu i jej adresie w terminie 7 dni od dnia zarejestrowania komitetu. Państwowa Komisja Wyborcza podaje informację o adresach stron internetowych zarejestrowanych komitetów w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110.), zwanym dalej „Biuletynem Informacji Publicznej”. ” ;
 
 - **4)** w art. 84a uchyla się ust. 2;
 - **5)** dodaje się art. 84ba w brzmieniu: „ Art. 84ba. Odpowiedzialność za zobowiązania majątkowe komitetu ponoszą solidarnie osoby wchodzące w skład komitetu. ” ;
@@ -42,7 +41,7 @@ source: "eli-html"
 
 **Art. 85.**
 
-1. Środki finansowe komitetu mogą pochodzić jedynie z wpłat osób fizycznych oraz wpłat z funduszy wyborczych partii politycznych tworzonych na podstawie przepisów ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2001 r. Nr 79, poz. 857, z późn. zm.), z zastrzeżeniem ust. 2–4.
+1. Środki finansowe komitetu mogą pochodzić jedynie z wpłat osób fizycznych oraz wpłat z funduszy wyborczych partii politycznych tworzonych na podstawie przepisów ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2001 r. Nr 79, poz. 857, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1802, z 2002 r. Nr 127, poz. 1089, z 2003 r. Nr 57, poz. 507, z 2004 r. Nr 25, poz. 219 i Nr 273, poz. 2703, z 2005 r. Nr 167, poz. 1398 oraz z 2008 r. Nr 171, poz. 1056.), z zastrzeżeniem ust. 2–4.
 
 2. Komitet nie może przyjmować środków finansowych pochodzących od:
 
@@ -198,9 +197,9 @@ source: "eli-html"
 - **4)** zadania komisarzy wyborczych wykonują rejonowe komisje wyborcze powołane do przeprowadzenia wyborów do Parlamentu Europejskiego. ” ;
 - **2)** w art. 92 dodaje się ust. 3 w brzmieniu: „
 
-3. W przypadku przeprowadzenia referendum w tym samym dniu co wybory do Parlamentu Europejskiego, w sprawach nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 23 stycznia 2004 r. – Ordynacja wyborcza do Parlamentu Europejskiego (Dz. U. Nr 25, poz. 219, z późn. zm.). ” .
+3. W przypadku przeprowadzenia referendum w tym samym dniu co wybory do Parlamentu Europejskiego, w sprawach nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 23 stycznia 2004 r. – Ordynacja wyborcza do Parlamentu Europejskiego (Dz. U. Nr 25, poz. 219, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162 i Nr 112, poz. 766 oraz z 2009 r. Nr 119, poz. 999.). ” .
 
-**Art. 3.** W ustawie z dnia 23 stycznia 2004 r. – Ordynacja wyborcza do Parlamentu Europejskiego (Dz. U. Nr 25, poz. 219, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 23 stycznia 2004 r. – Ordynacja wyborcza do Parlamentu Europejskiego (Dz. U. Nr 25, poz. 219, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162 i Nr 112, poz. 766 oraz z 2009 r. Nr 119, poz. 999.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 ust. 1 otrzymuje brzmienie: „
 
@@ -250,7 +249,7 @@ source: "eli-html"
 
 - **6)** dodaje się art. 106a-106g w brzmieniu: „
 
-1. Wyborca, który przez właściwy organ orzekający został zaliczony do osób o znacznym lub umiarkowanym stopniu niepełnosprawności, z uwzględnieniem art. 62 ust. 1 i 2 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2008 r. Nr 14, poz. 92, z późn. zm.), może udzielić pełnomocnictwa do głosowania w jego imieniu w wyborach, zwanego dalej „pełnomocnictwem do głosowania”.
+1. Wyborca, który przez właściwy organ orzekający został zaliczony do osób o znacznym lub umiarkowanym stopniu niepełnosprawności, z uwzględnieniem art. 62 ust. 1 i 2 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2008 r. Nr 14, poz. 92, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 223, poz. 1463, Nr 227, poz. 1505 i Nr 237, poz. 1652 oraz z 2009 r. Nr 6, poz. 33, Nr 97, poz. 802, Nr 98, poz. 817 i Nr 157, poz. 1241.), może udzielić pełnomocnictwa do głosowania w jego imieniu w wyborach, zwanego dalej „pełnomocnictwem do głosowania”.
 
 2. W przypadku wyborcy, obywatela Unii Europejskiej niebędącego obywatelem polskim, z uprawnienia, o którym mowa w ust. 1, skorzystać może osoba uznana w państwie pochodzenia za niepełnosprawną w stopniu, o którym mowa w ust. 1.
 
@@ -363,5 +362,5 @@ source: "eli-html"
 
 - **13)** w art. 166 wyrazy „i art. 157–162” zastępuje się wyrazami „, art. 157–162, art. 164a i art. 164b.”.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 153, poz. 1271, z 2003 r. Nr 57, poz. 507 i Nr 130, poz. 1188, z 2004 r. Nr 25, poz. 219, z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162 i Nr 112, poz. 766, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 119, poz. 999. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1802, z 2002 r. Nr 127, poz. 1089, z 2003 r. Nr 57, poz. 507, z 2004 r. Nr 25, poz. 219 i Nr 273, poz. 2703, z 2005 r. Nr 167, poz. 1398 oraz z 2008 r. Nr 171, poz. 1056. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162 i Nr 112, poz. 766 oraz z 2009 r. Nr 119, poz. 999. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162 i Nr 112, poz. 766 oraz z 2009 r. Nr 119, poz. 999. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 223, poz. 1463, Nr 227, poz. 1505 i Nr 237, poz. 1652 oraz z 2009 r. Nr 6, poz. 33, Nr 97, poz. 802, Nr 98, poz. 817 i Nr 157, poz. 1241.
 

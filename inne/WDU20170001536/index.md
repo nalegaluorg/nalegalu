@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 9 sierpnia 2017 r. w sprawie egzaminu na pośrednika kredytu hipotecznego
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 9 sierpnia 2017 r. w sprawie egzaminu na pośrednika kredytu hipotecznego Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-09 |
 | Data wydania | 2017-08-16 |
-| Wejście w życie | 2017-08-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001536) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1536/text.pdf) |
 
@@ -104,6 +103,5 @@ Na wniosek uczestnika egzaminu, złożony nie później niż w terminie 7 dni od
 § 20.
 Urząd Komisji Nadzoru Finansowego powiadamia uczestnika egzaminu, który złożył odwołanie, o którym mowa w art. 53 ust. 7 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami, o sposobie rozstrzygnięcia odwołania przez Komisję przesyłką poleconą w rozumieniu art. 3 pkt 22 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2017 r. poz. 1481) albo na wskazany adres elektroniczny, o ile wystąpił o to uczestnik egzaminu.
 § 21.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 

@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-11-02 |
 | Data wydania | 2015-11-13 |
-| Wejście w życie | 2016-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001872) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1872/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Placówki oświatowo-wychowawcze Rozdział 3 – Młodzieżowe ośrodki wychowawcze i młodzieżowe ośrodki socjoterapii Rozdział 4 – Specjalne ośrodki szkolno-wychowawcze i specjalne ośrodki wychowawcze Rozdział 5 – Ośrodki rewalidacyjno-wychowawcze Rozdział 6 – Placówki zapewniające opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania Rozdział 7 – Przepisy wspólne Rozdział 8 – Przepisy przejściowe i końcowe
 Treść rozporządzenia
-Na podstawie art. 71 ust. 1 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 71 ust. 1 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650, z 2014 r. poz. 7, 290, 538, 598, 642, 811, 1146, 1198 i 1877 oraz z 2015 r. poz. 357, 1045, 1240, 1418, 1607, 1629 i 1640.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -46,8 +46,7 @@ specjalnych ośrodków wychowawczych,
 f)
 ośrodków umożliwiających dzieciom i młodzieży z upośledzeniem umysłowym w stopniu głębokim, a także dzieciom i młodzieży z upośledzeniem umysłowym z niepełnosprawnościami sprzężonymi realizację obowiązku rocznego przygotowania przedszkolnego, obowiązku szkolnego i obowiązku nauki,
 g)
-placówek zapewniających opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania
-zwanych dalej „placówkami”;
+placówek zapewniających opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania – zwanych dalej „placówkami”;
 2)
 warunki pobytu dzieci i młodzieży w placówkach;
 3)
@@ -72,6 +71,7 @@ kreatywności podejmowanych działań;
 otwartości na środowisko lokalne.
 § 3.
 W realizacji zadań placówka współpracuje ze środowiskiem lokalnym oraz, w zależności od potrzeb, z organizacjami pozarządowymi oraz innymi instytucjami działającymi na rzecz rodziny, dzieci i młodzieży.
+Placówki oświatowo-wychowawcze
 § 4.
 Placówkami oświatowo-wychowawczymi są:
 1)
@@ -149,6 +149,7 @@ Filię tworzy, przekształca i likwiduje organ prowadzący placówkę oświatowo
 Placówki oświatowo-wychowawcze prowadzą działalność w ciągu całego roku kalendarzowego jako placówki, w których nie są przewidziane ferie szkolne.
 2.
 Szkolne schroniska młodzieżowe sezonowe prowadzą działalność w niektórych okresach roku kalendarzowego, w tym w okresie ferii szkolnych oraz w dniach wolnych od zajęć dydaktyczno-wychowawczych.
+Młodzieżowe ośrodki wychowawcze i młodzieżowe ośrodki socjoterapii
 § 13.
 Młodzieżowe ośrodki wychowawcze są prowadzone dla dzieci i młodzieży:
 1)
@@ -172,7 +173,7 @@ wyżywienie dostosowane do potrzeb wychowanki;
 2)
 opiekę i pomoc psychologiczną, w szczególności w zakresie budowania więzi i nawiązywania kontaktów z dzieckiem oraz zaspokajania jego potrzeb.
 3.
-Młodzieżowy ośrodek wychowawczy wspiera nieletnią matkę w uczestniczeniu w bieżącej pieczy nad dzieckiem i w jego wychowaniu, chyba że sąd opiekuńczy postanowi inaczej, zgodnie z art. 96 § 2 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2015 r. poz. 583, z późn. zm.).
+Młodzieżowy ośrodek wychowawczy wspiera nieletnią matkę w uczestniczeniu w bieżącej pieczy nad dzieckiem i w jego wychowaniu, chyba że sąd opiekuńczy postanowi inaczej, zgodnie z art. 96 § 2 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2015 r. poz. 583, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1062, 1087, 1199 i 1274.).
 § 17.
 1.
 Młodzieżowe ośrodki socjoterapii są prowadzone dla dzieci i młodzieży, które:
@@ -280,7 +281,7 @@ Psychologa zatrudnia się w wymiarze nie niższym niż pełny wymiar zajęć. Do
 3.
 Pedagoga zatrudnia się w wymiarze nie niższym niż pełny wymiar zajęć. Dopuszcza się zatrudnienie więcej niż jednego pedagoga w łącznym wymiarze zajęć nie niższym niż pełny wymiar zajęć.
 4.
-W przypadku gdy liczba wychowanków w młodzieżowym ośrodku wychowawczym przekracza 36, tygodniowy obowiązkowy wymiar godzin zajęć określony na podstawie art. 42 ust. 7 pkt 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2014 r. poz. 191, z późn. zm.) zwiększa się o co najmniej 1/3, w przeliczeniu na każdych kolejnych 12 wychowanków.
+W przypadku gdy liczba wychowanków w młodzieżowym ośrodku wychowawczym przekracza 36, tygodniowy obowiązkowy wymiar godzin zajęć określony na podstawie art. 42 ust. 7 pkt 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2014 r. poz. 191, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1198 oraz z 2015 r. poz. 357, 1268 i 1418.) zwiększa się o co najmniej 1/3, w przeliczeniu na każdych kolejnych 12 wychowanków.
 5.
 W przypadku gdy liczba wychowanków w młodzieżowym ośrodku socjoterapii przekracza 36, tygodniowy obowiązkowy wymiar godzin zajęć określony na podstawie art. 42 ust. 7 pkt 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela zwiększa się o co najmniej 1/4, w przeliczeniu na każdych kolejnych 12 wychowanków.
 § 25.
@@ -337,7 +338,7 @@ podejmują współpracę z rodzicami wychowanka.
 2.
 W przypadku gdy częstotliwość i jakość kontaktów wychowanka z rodzicami wskazuje na trwałą przeszkodę w wykonywaniu władzy rodzicielskiej lub na rażące zaniedbywanie przez rodziców obowiązków wobec dziecka, młodzieżowy ośrodek socjoterapii występuje do sądu o zbadanie sytuacji dziecka.
 3.
-Młodzieżowy ośrodek wychowawczy i młodzieżowy ośrodek socjoterapii współpracują z ośrodkami pomocy społecznej i powiatowymi centrami pomocy rodzinie w celu zapewnienia usamodzielniającym się wychowankom pomocy, o której mowa w art. 88 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2015 r. poz. 163, z późn. zm.), oraz w zakresie wynikającym z innych potrzeb rodziny wychowanka.
+Młodzieżowy ośrodek wychowawczy i młodzieżowy ośrodek socjoterapii współpracują z ośrodkami pomocy społecznej i powiatowymi centrami pomocy rodzinie w celu zapewnienia usamodzielniającym się wychowankom pomocy, o której mowa w art. 88 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2015 r. poz. 163, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 693, 1045, 1240, 1310, 1359, 1607, 1616 i 1830.), oraz w zakresie wynikającym z innych potrzeb rodziny wychowanka.
 § 28.
 Młodzieżowy ośrodek wychowawczy i młodzieżowy ośrodek socjoterapii co najmniej dwa razy w roku:
 1)
@@ -359,6 +360,7 @@ Młodzieżowy ośrodek socjoterapii prowadzi działalność przez cały rok szko
 Za zgodą organu prowadzącego, młodzieżowy ośrodek socjoterapii może również prowadzić działalność w okresie zimowej lub wiosennej przerwy świątecznej lub w okresie ferii szkolnych.
 § 31.
 Młodzieżowy ośrodek wychowawczy i młodzieżowy ośrodek socjoterapii współpracują ze szkołami ogólnodostępnymi w zakresie diagnozowania i rozwiązywania problemów dydaktyczno-wychowawczych uczniów niedostosowanych społecznie lub zagrożonych niedostosowaniem społecznym uczęszczających do tych szkół.
+Specjalne ośrodki szkolno-wychowawcze i specjalne ośrodki wychowawcze
 § 32.
 Specjalne ośrodki szkolno-wychowawcze i specjalne ośrodki wychowawcze są prowadzone dla dzieci i młodzieży:
 1)
@@ -468,8 +470,7 @@ Liczba wychowanków w grupie wychowawczej odpowiada liczbie uczniów w oddziale 
 1)
 przedszkola specjalnego lub szkoły specjalnej – w przypadku specjalnego ośrodka szkolno-wychowawczego,
 2)
-szkoły specjalnej – w przypadku specjalnego ośrodka wychowawczego
-określonej w przepisach wydanych na podstawie art. 60 ust. 2 ustawy.
+szkoły specjalnej – w przypadku specjalnego ośrodka wychowawczego – określonej w przepisach wydanych na podstawie art. 60 ust. 2 ustawy.
 3.
 Grupą wychowawczą opiekuje się wychowawca grupy wychowawczej.
 4.
@@ -559,6 +560,7 @@ Wychowankowie poniżej 10. roku życia mogą przebywać w specjalnym ośrodku sz
 Specjalny ośrodek wychowawczy współpracuje ze szkołą, do której uczęszcza wychowanek, w zakresie realizowania zajęć rewalidacyjnych i oddziaływań wychowawczych.
 § 47.
 Specjalny ośrodek szkolno-wychowawczy współpracuje ze szkołami ogólnodostępnymi w zakresie diagnozowania i rozwiązywania problemów dydaktyczno-wychowawczych uczniów niepełnosprawnych uczęszczających do tych szkół.
+Ośrodki rewalidacyjno-wychowawcze
 § 48.
 1.
 Ośrodkami umożliwiającymi dzieciom i młodzieży z niepełnosprawnością intelektualną w stopniu głębokim, a także dzieciom i młodzieży z niepełnosprawnością intelektualną z niepełnosprawnościami sprzężonymi realizację obowiązku rocznego przygotowania przedszkolnego, obowiązku szkolnego i obowiązku nauki są ośrodki rewalidacyjno-wychowawcze.
@@ -635,6 +637,7 @@ ustala, na wniosek rodziców wychowanka, zakres współpracy ośrodka rewalidacy
 Ośrodek rewalidacyjno-wychowawczy prowadzi działalność przez cały rok szkolny, z wyjątkiem sobót i dni ustawowo wolnych od pracy, jako placówka, w której są przewidziane ferie szkolne.
 2.
 Czas pracy ośrodka rewalidacyjno-wychowawczego wynosi nie mniej niż 8 godzin dziennie. Czas pracy ośrodka i organizację zajęć określa dyrektor ośrodka w uzgodnieniu z organem prowadzącym.
+Placówki zapewniające opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania
 § 56.
 Placówkami zapewniającymi opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania są bursy i domy wczasów dziecięcych.
 § 57.
@@ -743,6 +746,7 @@ Wychowankowie przebywający w domu wczasów dziecięcych spełniają obowiązek 
 Po zakończeniu pobytu wychowanka w domu wczasów dziecięcych dyrektor domu wczasów dziecięcych przekazuje pisemną informację o bieżących ocenach uzyskanych przez wychowanka oraz jego zachowaniu dyrektorowi szkoły macierzystej wychowanka oraz rodzicom.
 § 72.
 Dom wczasów dziecięcych prowadzi działalność przez cały rok kalendarzowy jako placówka, w której nie są przewidziane ferie szkolne.
+Przepisy wspólne
 § 73.
 1.
 Szczegółową organizację działania placówki w danym roku szkolnym określa arkusz organizacji placówki, opracowany przez dyrektora placówki w terminie do dnia 30 kwietnia każdego roku. Arkusz organizacji placówki zatwierdza organ prowadzący w terminie do dnia 25 maja danego roku.
@@ -812,7 +816,7 @@ Wysokość opłat za posiłki, o których mowa w ust. 1, ust. 2 pkt 1 i ust. 3 p
 5.
 Wysokość opłat za zakwaterowanie, o których mowa w ust. 2 pkt 2 i ust. 3 pkt 2, a także termin i sposób ich wnoszenia ustala organ prowadzący bursę lub dom wczasów dziecięcych.
 6.
-Opłaty, o których mowa w ust. 2 i 3, nie mogą przekraczać łącznie 25% wysokości przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2015 r. poz. 748, z późn. zm.).
+Opłaty, o których mowa w ust. 2 i 3, nie mogą przekraczać łącznie 25% wysokości przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2015 r. poz. 748, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1302 i 1311.).
 7.
 Jeżeli dziecko z uzasadnionych powodów nie mogło przebywać w placówce, opłaty, o których mowa w ust. 1–3, są należne w wysokości proporcjonalnej do czasu faktycznego pobytu dziecka.
 8.
@@ -830,6 +834,7 @@ Podmioty sprawujące instytucjonalną pieczę zastępczą nad wychowankiem zapew
 Wysokość opłat za korzystanie z miejsc noclegowych w szkolnym schronisku młodzieżowym przez dzieci, młodzież i ich opiekunów ustala w wymiarze od osoby za dobę organ prowadzący szkolne schronisko młodzieżowe, na wniosek dyrektora szkolnego schroniska młodzieżowego, uwzględniając warunki, jakimi dysponuje dane schronisko.
 2.
 Opłaty, o których mowa w ust. 1, nie mogą przekraczać 3% wysokości przeciętnego wynagrodzenia, o którym mowa w § 76 ust. 6.
+Przepisy przejściowe i końcowe
 § 78.
 Organy prowadzące młodzieżowe ośrodki wychowawcze, młodzieżowe ośrodki socjoterapii, specjalne ośrodki szkolno-wychowawcze i specjalne ośrodki wychowawcze, które w dniu wejścia w życie rozporządzenia nie spełniają wymagań, o których mowa odpowiednio w § 26 i § 41, dostosują ośrodki do tych wymagań do dnia 31 sierpnia 2020 r.
 § 79.
@@ -840,8 +845,7 @@ Dzieci będące wychowankami specjalnych ośrodków wychowawczych przed dniem we
 1)
 klasy II albo III szkoły podstawowej,
 2)
-klasy I szkoły podstawowej – w przypadku, o którym mowa w art. 44o ust. 2 ustawy
-mogą nadal przebywać w tych ośrodkach, jeżeli posiadają orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność, o której mowa w § 32.
+klasy I szkoły podstawowej – w przypadku, o którym mowa w art. 44o ust. 2 ustawy – mogą nadal przebywać w tych ośrodkach, jeżeli posiadają orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność, o której mowa w § 32.
 § 80.
 Młodzieżowy ośrodek socjoterapii, w którym przebywają wychowankowie, wobec których sąd rodzinny orzekł o umieszczeniu w młodzieżowym ośrodku socjoterapii na podstawie ustawy z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich, prowadzi działalność przez cały rok kalendarzowy jako placówka, w której nie są przewidziane ferie szkolne.
 § 81.
@@ -849,21 +853,37 @@ Wychowanek młodzieżowego ośrodka socjoterapii, wobec którego sąd rodzinny o
 § 82.
 Traci moc rozporządzenie Ministra Edukacji Narodowej z dnia 12 maja 2011 r. w sprawie rodzajów i szczegółowych zasad działania placówek publicznych, warunków pobytu dzieci i młodzieży w tych placówkach oraz wysokości i zasad odpłatności wnoszonej przez rodziców za pobyt ich dzieci w tych placówkach (Dz. U. Nr 109, poz. 631).
 § 83.
-Rozporządzenie wchodzi w życie z dniem 1 września 2016 r., z wyjątkiem § 15, który wchodzi w życie z dniem 1 stycznia 2017 r.
+Rozporządzenie wchodzi w życie z dniem 1 września 2016 r., z wyjątkiem § 15, który wchodzi w życie z dniem 1 stycznia 2017 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650, z 2014 r. poz. 7, 290, 538, 598, 642, 811, 1146, 1198 i 1877 oraz z 2015 r. poz. 357, 1045, 1240, 1418, 1607, 1629 i 1640. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1062, 1087, 1199 i 1274. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1198 oraz z 2015 r. poz. 357, 1268 i 1418. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 693, 1045, 1240, 1310, 1359, 1607, 1616 i 1830. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1302 i 1311.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Placówki oświatowo-wychowawcze
+#### Rozdział 2 – Placówki oświatowo-wychowawcze
 
-#### Rozdział 3 Młodzieżowe ośrodki wychowawcze i młodzieżowe ośrodki socjoterapii
+#### Rozdział 3 – Młodzieżowe ośrodki wychowawcze i młodzieżowe ośrodki socjoterapii
 
-#### Rozdział 4 Specjalne ośrodki szkolno-wychowawcze i specjalne ośrodki wychowawcze
+#### Rozdział 4 – Specjalne ośrodki szkolno-wychowawcze i specjalne ośrodki wychowawcze
 
-#### Rozdział 5 Ośrodki rewalidacyjno-wychowawcze
+#### Rozdział 5 – Ośrodki rewalidacyjno-wychowawcze
 
-#### Rozdział 6 Placówki zapewniające opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania
+#### Rozdział 6 – Placówki zapewniające opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania
 
-#### Rozdział 7 Przepisy wspólne
+#### Rozdział 7 – Przepisy wspólne
 
-#### Rozdział 8 Przepisy przejściowe i końcowe
+#### Rozdział 8 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

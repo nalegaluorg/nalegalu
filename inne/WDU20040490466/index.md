@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-02-20 |
 | Data wydania | 2004-03-26 |
-| Wejście w życie | 2004-04-26 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040490466) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/466/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców (Dz. U. z 1996 r. Nr 54, poz. 245, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców (Dz. U. z 1996 r. Nr 54, poz. 245, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 140, poz. 939, z 1998 r. Nr 106, poz. 668, z 2001 r. Nr 16, poz. 166, z 2002 r. Nr 113, poz. 984 oraz z 2003 r. Nr 128, poz. 1175.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1: ust. 1 i 1a otrzymują brzmienie: „
     - **a)**
@@ -82,8 +81,11 @@ source: "eli-html"
 
 **Art. 2a.** Minister właściwy do spraw wewnętrznych może zwracać się do innych niż określone w art. 2 ust. 1 pkt 2 organów administracji publicznej, organizacji zawodowych i instytucji państwowych o wyrażenie opinii oraz przekazanie dokumentów i informacji, w szczególności zawartych w ewidencji gruntów i budynków, niezbędnych do realizacji zadań, o których mowa w art. 1 ust. 1, art. 3e oraz w art. 8 ust. 4. ” ;
 
-- **5)** w art. 3: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) osobę nabywcy i zbywcy, ” , – pkt 3 otrzymuje brzmienie: „ 3) specjalne warunki, w sytuacji określonej w art. 2 ust. 2. ” , ust. 2 otrzymuje brzmienie: „
+- **5)** w art. 3: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** osobę nabywcy i zbywcy, ” , pkt 3 otrzymuje brzmienie: „
+- **3)** specjalne warunki, w sytuacji określonej w art. 2 ust. 2. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Zezwolenie jest ważne dwa lata od dnia wydania. ” ;
@@ -113,7 +115,7 @@ source: "eli-html"
 - **8)** po art. 3e dodaje się art. 3f w brzmieniu: „ Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 - **1)** rodzaje dokumentów, o których mowa w art. 1a ust. 4,
 - **2)** szczegółowe informacje dotyczące okoliczności wskazanych we wniosku,
-- **3)** wzory oświadczeń składanych przez cudzoziemców w związku z prowadzonym przez ministra właściwego do spraw wewnętrznych postępowaniem w sprawie wydania zezwolenia oraz wykazów dołączanych do tych oświadczeń uwzględniając zróżnicowany zakres informacji i dokumentów składanych przez cudzoziemców, o których mowa w art. 1 ust. 2. ” ;
+- **3)** wzory oświadczeń składanych przez cudzoziemców w związku z prowadzonym przez ministra właściwego do spraw wewnętrznych postępowaniem w sprawie wydania zezwolenia oraz wykazów dołączanych do tych oświadczeń – uwzględniając zróżnicowany zakres informacji i dokumentów składanych przez cudzoziemców, o których mowa w art. 1 ust. 2. ” ;
 - **9)** art. 4 otrzymuje brzmienie: „
 
 **Art. 4.** Minister właściwy do spraw wewnętrznych przedstawia Sejmowi corocznie, w terminie do dnia 31 marca, szczegółowe sprawozdanie z realizacji ustawy, a w szczególności o liczbie udzielonych zezwoleń, rodzaju i obszarze oraz terytorialnym rozmieszczeniu nieruchomości, których one dotyczą, a także liczbie decyzji odmawiających udzielenia zezwolenia. ” ;
@@ -167,7 +169,7 @@ source: "eli-html"
 
 - **14)** w art. 8a ust. 2 otrzymuje brzmienie: „
 
-2. Przepis ust. 1 stosuje się odpowiednio do sądu, jeżeli nabycie nieruchomości nastąpiło na podstawie prawomocnego orzeczenia oraz gdy nabycie lub objęcie udziałów lub akcji podlega wpisowi do rejestru przedsiębiorców. ” . W ustawie z dnia 9 września 2000 r. o opłacie skarbowej (Dz. U. Nr 86, poz. 960, z późn. zm.) w załączniku do ustawy w części IV w kol. 2 w ust. 6:
+2. Przepis ust. 1 stosuje się odpowiednio do sądu, jeżeli nabycie nieruchomości nastąpiło na podstawie prawomocnego orzeczenia oraz gdy nabycie lub objęcie udziałów lub akcji podlega wpisowi do rejestru przedsiębiorców. ” . W ustawie z dnia 9 września 2000 r. o opłacie skarbowej (Dz. U. Nr 86, poz. 960, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 5, poz. 43, Nr 60, poz. 610, Nr 76, poz. 811, Nr 87, poz. 954, Nr 100, poz. 1085 i Nr 129, poz. 1441, z 2002 r. Nr 71, poz. 655, Nr 135, poz. 1143 i Nr 141, poz. 1178 i 1180 i Nr 216, poz. 1824 oraz z 2003 r. Nr 7, poz. 78, Nr 96, poz. 874, Nr 124, poz. 1154, Nr 128, poz. 1176, Nr 170, poz. 1651 i Nr 190, poz. 1864.) w załączniku do ustawy w części IV w kol. 2 w ust. 6:
 
 - **1)** pkt 2 otrzymuje brzmienie: „
 - **2)** na nabycie lub objęcie przez cudzoziemca udziałów lub akcji w spółce handlowej z siedzibą na terytorium Rzeczypospolitej Polskiej, a także na każdą inną czynność prawną dotyczącą udziałów lub akcji, jeżeli w ich wyniku spółka handlowa, będąca właścicielem lub wieczystym użytkownikiem nieruchomości na terytorium Rzeczypospolitej Polskiej, stanie się spółką kontrolowaną przez cudzoziemca lub cudzoziemców oraz na nabycie lub objęcie przez cudzoziemca udziałów lub akcji w spółce handlowej z siedzibą na terytorium Rzeczypospolitej Polskiej, będącej właścicielem lub wieczystym użytkownikiem nieruchomości na terytorium Rzeczypospolitej Polskiej, jeżeli spółka ta jest spółką kontrolowaną, a udziały lub akcje nabywa lub obejmuje cudzoziemiec niebędący udziałowcem lub akcjonariuszem spółki ” ;
@@ -179,5 +181,5 @@ source: "eli-html"
 
 3. Jeżeli otwarcie spadku nastąpiło przed dniem wejścia w życie niniejszej ustawy, termin, o którym mowa w dotychczasowym art. 7 ust. 3 ustawy, o której mowa w art. 1, oblicza się w wymiarze określonym w tym przepisie w brzmieniu nadanym niniejszą ustawą. Ogłoszenie tekstu jednolitego ustawy o nabywaniu nieruchomości przez cudzoziemców nastąpi w terminie 6 miesięcy od dnia ogłoszenia niniejszej ustawy.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem przepisów art. 1 pkt 12 oraz pkt 13 lit. b i c, które stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
+**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem przepisów art. 1 pkt 12 oraz pkt 13 lit. b i c, które stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 140, poz. 939, z 1998 r. Nr 106, poz. 668, z 2001 r. Nr 16, poz. 166, z 2002 r. Nr 113, poz. 984 oraz z 2003 r. Nr 128, poz. 1175. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 5, poz. 43, Nr 60, poz. 610, Nr 76, poz. 811, Nr 87, poz. 954, Nr 100, poz. 1085 i Nr 129, poz. 1441, z 2002 r. Nr 71, poz. 655, Nr 135, poz. 1143 i Nr 141, poz. 1178 i 1180 i Nr 216, poz. 1824 oraz z 2003 r. Nr 7, poz. 78, Nr 96, poz. 874, Nr 124, poz. 1154, Nr 128, poz. 1176, Nr 170, poz. 1651 i Nr 190, poz. 1864.
 

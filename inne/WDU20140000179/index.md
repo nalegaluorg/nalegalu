@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-01-10 |
 | Data wydania | 2014-02-07 |
-| Wejście w życie | 2014-02-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/179/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.) w art. 337:
+**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281 oraz z 2012 r. poz. 849, 951 i 1529.) w art. 337:
 
 - **1)** w § 1 pkt 2 otrzymuje brzmienie: „
 - **2)** limit wydatków dla danego komitetu oblicza się według wzoru: L = w × k, gdzie poszczególne symbole oznaczają: L – limit wydatków, w – liczbę wyborców w kraju ujętych w rejestrach wyborców w okręgach wyborczych, w których komitet zarejestrował listy kandydatów, k – kwotę przypadającą na każdego wyborcę w kraju ujętego w rejestrze wyborców, o której mowa w pkt 1. ” ;
@@ -34,5 +33,5 @@ source: "eli-html"
 
 § 2. Państwowa Komisja Wyborcza, w terminie 14 dni od dnia zarządzenia wyborów, ogłasza w formie komunikatu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” i zamieszcza w Biuletynie Informacji Publicznej liczbę wyborców ujętych w rejestrach wyborców na terenie całego kraju oraz na terenie poszczególnych okręgów wyborczych według stanu na koniec kwartału poprzedzającego dzień ogłoszenia postanowienia o zarządzeniu wyborów. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281 oraz z 2012 r. poz. 849, 951 i 1529.
 

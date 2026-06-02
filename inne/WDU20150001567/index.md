@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy o zatrudnieniu socjalnym oraz niektórych innych ustaw
+# Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy o zatrudnieniu socjalnym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy oraz ustawę z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-05 |
 | Data wydania | 2015-10-09 |
-| Wejście w życie | 2015-10-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001567) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1567/text.pdf) |
 
+Rada Zatrudnienia Socjalnego
 1.
 Przy ministrze właściwym do spraw zabezpieczenia społecznego działa Rada Zatrudnienia Socjalnego jako organ opiniodawczo-doradczy w sprawach zatrudnienia socjalnego.
 2.
@@ -51,8 +51,7 @@ Koszty związane z obsługą Rady Zatrudnienia Socjalnego są pokrywane ze środ
 6.
 Rada Zatrudnienia Socjalnego może, za zgodą ministra właściwego do spraw zabezpieczenia społecznego, zapraszać do współpracy ekspertów i inne osoby niebędące jej członkami. Do udziału osób zaproszonych w posiedzeniach Rady stosuje się odpowiednio ust. 4.
 7.
-Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, tryb zgłaszania kandydatów na członków Rady Zatrudnienia Socjalnego, organizację oraz tryb działania Rady, uwzględniając zasadę kolegialności oraz pomocniczości prac Rady.
-” .
+Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, tryb zgłaszania kandydatów na członków Rady Zatrudnienia Socjalnego, organizację oraz tryb działania Rady, uwzględniając zasadę kolegialności oraz pomocniczości prac Rady. ” .
 
 **Art. 1.** W ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2011 r. Nr 43, poz. 225 i Nr 205, poz. 1211 oraz z 2015 r. poz. 1220) wprowadza się następujące zmiany:
 
@@ -66,10 +65,11 @@ Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozp
 - **3)** w art. 5: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Status Centrum nadaje wojewoda właściwy ze względu na miejsce funkcjonowania Centrum, w drodze decyzji administracyjnej, na podstawie wniosku, o którym mowa w art. 4. ” , w ust. 4: – uchyla się pkt 1, – pkt 2 otrzymuje brzmienie: „ 2) przedstawiać corocznie, nie później niż do dnia 31 marca, wojewodzie oraz jednostkom i podmiotom przyznającym dotacje Centrum, a także instytucji tworzącej sprawozdanie zawierające rozliczenie dotacji za rok poprzedni, efekty reintegracji zawodowej i społecznej, a także preliminarz wydatków i przychodów na rok bieżący związanych z wykonywaniem usług, o których mowa w art. 3 ust. 1, oraz informację o zmianie danych zawartych we wniosku, o którym mowa w art. 4. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+1. Status Centrum nadaje wojewoda właściwy ze względu na miejsce funkcjonowania Centrum, w drodze decyzji administracyjnej, na podstawie wniosku, o którym mowa w art. 4. ” , w ust. 4: – uchyla się pkt 1, pkt 2 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **2)** przedstawiać corocznie, nie później niż do dnia 31 marca, wojewodzie oraz jednostkom i podmiotom przyznającym dotacje Centrum, a także instytucji tworzącej sprawozdanie zawierające rozliczenie dotacji za rok poprzedni, efekty reintegracji zawodowej i społecznej, a także preliminarz wydatków i przychodów na rok bieżący związanych z wykonywaniem usług, o których mowa w art. 3 ust. 1, oraz informację o zmianie danych zawartych we wniosku, o którym mowa w art. 4. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+    - **c)**
 
 5a. Rejestr obejmuje dane wymienione w art. 4 ust. 2. ” ;
 
@@ -79,7 +79,7 @@ Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozp
 
 - **5)** po art. 6a dodaje się art. 6b w brzmieniu: „
 
-**Art. 6b.** W sprawach nieuregulowanych w ustawie dotyczących nadania statusu Centrum stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.). ” ;
+**Art. 6b.** W sprawach nieuregulowanych w ustawie dotyczących nadania statusu Centrum stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 183 i 1195 oraz z 2015 r. poz. 211, 702 i 1274.). ” ;
 
 - **6)** po art. 9 dodaje się art. 9a w brzmieniu: „
 
@@ -162,17 +162,17 @@ Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozp
 
 - **17)** po rozdziale 7 dodaje się rozdział 7a w brzmieniu: „
 
-#### Rozdział 7a Rada Zatrudnienia Socjalnego
+#### Rozdział 7a
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505 i 1527.) wprowadza się następujące zmiany:
 
 - **1)** w art. 831 w § 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
-- **9)** świadczenie integracyjne w rozumieniu ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2011 r. Nr 43, poz. 225, z późn. zm.). ” ;
+- **9)** świadczenie integracyjne w rozumieniu ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2011 r. Nr 43, poz. 225, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 205, poz. 1211 oraz z 2015 r. poz. 1220 i 1567.). ” ;
 - **2)** w art. 833 § 6 otrzymuje brzmienie: „
 
 § 6. Nie podlegają egzekucji świadczenia alimentacyjne, świadczenia pieniężne wypłacane w przypadku bezskuteczności egzekucji alimentów, świadczenia rodzinne, dodatki rodzinne, pielęgnacyjne, porodowe, dla sierot zupełnych, zasiłki dla opiekunów, świadczenia z pomocy społecznej oraz świadczenia integracyjne. ” .
 
-**Art. 3.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2015 r. poz. 149, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2015 r. poz. 149, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 357, 1066, 1217, 1240 i 1268.) wprowadza się następujące zmiany:
 
 - **1)** w art. 62a: ust. 3 otrzymuje brzmienie: „
     - **a)**
@@ -188,12 +188,12 @@ Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozp
 
 3. Kwota wydatków przeznaczonych z Funduszu Pracy na finansowanie działań, o których mowa w art. 62a ust. 8 i 9, jest ustalana z uwzględnieniem stawki godzinowej pracy trenera z 10-osobową grupą bezrobotnych, w wysokości nie wyższej niż 70 zł. ” .
 
-**Art. 4.** W ustawie z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych (Dz. U. Nr 94, poz. 651, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych (Dz. U. Nr 94, poz. 651, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 91, poz. 742, z 2010 r. Nr 28, poz. 146 oraz z 2011 r. Nr 205, poz. 1211.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
 
-- **2)** osoby, o których mowa w art. 2 pkt 1a i 1b ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2011 r. Nr 43, poz. 225, z późn. zm.), ” , w pkt 3 na końcu dodaje się przecinek i dodaje się pkt 4 w brzmieniu: „
+- **2)** osoby, o których mowa w art. 2 pkt 1a i 1b ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2011 r. Nr 43, poz. 225, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 205, poz. 1211 oraz z 2015 r. poz. 1220 i 1567.), ” , w pkt 3 na końcu dodaje się przecinek i dodaje się pkt 4 w brzmieniu: „
     - **b)**
 
 - **4)** osoby do 30. roku życia oraz po ukończeniu 50. roku życia, posiadające status osoby poszukującej pracy, bez zatrudnienia w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy ” ;
@@ -207,8 +207,8 @@ Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozp
 
 **Art. 15a.**
 
-1. Jednostka sektora finansów publicznych udzielając zamówienia, które nie podlega ze względu na jego wartość ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2013 r. poz. 907, z późn. zm.), może zastrzec, że o udzielenie zamówienia mogą ubiegać się wyłącznie spółdzielnie socjalne, działające na podstawie ustawy lub właściwych przepisów państw członkowskich Unii Europejskiej lub Europejskiego Obszaru Gospodarczego, z uwzględnieniem przepisów art. 44 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+1. Jednostka sektora finansów publicznych udzielając zamówienia, które nie podlega ze względu na jego wartość ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2013 r. poz. 907, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984, 1047 i 1473, z 2014 r. poz. 423, 768, 811, 915, 1146 i 1232 oraz z 2015 r. poz. 349, 478 i 605.), może zastrzec, że o udzielenie zamówienia mogą ubiegać się wyłącznie spółdzielnie socjalne, działające na podstawie ustawy lub właściwych przepisów państw członkowskich Unii Europejskiej lub Europejskiego Obszaru Gospodarczego, z uwzględnieniem przepisów art. 44 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
-2. Informacja o zastrzeżeniu, o którym mowa w ust. 1, musi znaleźć się we wniosku o uruchomienie procedury udzielenia zamówienia publicznego oraz w odpowiednich dokumentach postępowania o udzielenie zamówienia publicznego. ” . Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+2. Informacja o zastrzeżeniu, o którym mowa w ust. 1, musi znaleźć się we wniosku o uruchomienie procedury udzielenia zamówienia publicznego oraz w odpowiednich dokumentach postępowania o udzielenie zamówienia publicznego. ” . Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy oraz ustawę z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 183 i 1195 oraz z 2015 r. poz. 211, 702 i 1274. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505 i 1527. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 205, poz. 1211 oraz z 2015 r. poz. 1220 i 1567. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 357, 1066, 1217, 1240 i 1268. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 91, poz. 742, z 2010 r. Nr 28, poz. 146 oraz z 2011 r. Nr 205, poz. 1211. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 205, poz. 1211 oraz z 2015 r. poz. 1220 i 1567. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984, 1047 i 1473, z 2014 r. poz. 423, 768, 811, 915, 1146 i 1232 oraz z 2015 r. poz. 349, 478 i 605.
 
 

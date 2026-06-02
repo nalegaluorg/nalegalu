@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-27 |
 | Data wydania | 2017-11-27 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2179/text.pdf) |
 
@@ -44,7 +43,7 @@ source: "eli-html"
 - **1)** ocenę merytoryczną wniosku o dofinansowanie,
 - **2)** kontrolę projektu w trakcie jego realizacji,
 - **3)** kontrolę projektu po jego zakończeniu,
-- **4)** kontrolę trwałości projektu uwzględniając, że maksymalna wysokość wynagrodzenia nie może przekroczyć 200% minimalnego wynagrodzenia za pracę, określonego w odrębnych przepisach, powiększonego o należny podatek od towarów i usług (VAT).
+- **4)** kontrolę trwałości projektu – uwzględniając, że maksymalna wysokość wynagrodzenia nie może przekroczyć 200% minimalnego wynagrodzenia za pracę, określonego w odrębnych przepisach, powiększonego o należny podatek od towarów i usług (VAT).
 
 6. Zakład kontroluje działania, o których mowa w ust. 5, prowadzone przez Instytut w ramach realizacji umowy. ” ;
 

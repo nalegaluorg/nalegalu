@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-25 |
 | Data wydania | 2015-07-28 |
-| Wejście w życie | 2015-08-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001043) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1043/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072.) wprowadza się następujące zmiany:
 
 - **1)** w art. 14 § 1 otrzymuje brzmienie: „
 
@@ -50,14 +49,14 @@ source: "eli-html"
 
 - **1)** wzór spisu wyborców, o którym mowa w § 1, oraz sposób jego sporządzania i aktualizacji,
 - **2)** wzór zawiadomienia o wpisaniu wyborcy do spisu wyborców w innym obwodzie głosowania oraz sposób powiadamiania urzędów gmin o objętych spisem wyborców osobach stale zamieszkałych w kraju,
-- **3)** wzór zaświadczenia o prawie do głosowania oraz sposób wydawania i ewidencjonowania tych zaświadczeń mając na względzie konieczność zapewnienia możliwości weryfikacji danych zawartych w spisie wyborców, bezpieczeństwa wprowadzania i przetwarzania tych danych, ich przekazywania i odbioru, zabezpieczenia zaświadczenia przed sfałszowaniem oraz zasadę, zgodnie z którą można być wpisanym tylko do jednego spisu wyborców. ” ;
+- **3)** wzór zaświadczenia o prawie do głosowania oraz sposób wydawania i ewidencjonowania tych zaświadczeń – mając na względzie konieczność zapewnienia możliwości weryfikacji danych zawartych w spisie wyborców, bezpieczeństwa wprowadzania i przetwarzania tych danych, ich przekazywania i odbioru, zabezpieczenia zaświadczenia przed sfałszowaniem oraz zasadę, zgodnie z którą można być wpisanym tylko do jednego spisu wyborców. ” ;
 - **4)** w art. 35 § 4 otrzymuje brzmienie: „
 
 § 4. Minister właściwy do spraw zagranicznych, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia:
 
 - **1)** wzór spisu wyborców, o którym mowa w § 1, oraz sposób jego sporządzania i aktualizacji,
 - **2)** wzór zawiadomienia o wpisaniu wyborcy do spisu wyborców w innym obwodzie głosowania oraz sposób powiadamiania urzędów gmin o objętych spisem wyborców osobach stale zamieszkałych w kraju,
-- **3)** wzór zaświadczenia o prawie do głosowania oraz sposób wydawania i ewidencjonowania tych zaświadczeń mając na względzie konieczność zapewnienia możliwości weryfikacji danych zawartych w spisie wyborców, bezpieczeństwa wprowadzania i przetwarzania tych danych, ich przekazywania i odbioru, zabezpieczenia zaświadczenia przed sfałszowaniem oraz zasadę, zgodnie z którą można być wpisanym tylko do jednego spisu wyborców. ” ;
+- **3)** wzór zaświadczenia o prawie do głosowania oraz sposób wydawania i ewidencjonowania tych zaświadczeń – mając na względzie konieczność zapewnienia możliwości weryfikacji danych zawartych w spisie wyborców, bezpieczeństwa wprowadzania i przetwarzania tych danych, ich przekazywania i odbioru, zabezpieczenia zaświadczenia przed sfałszowaniem oraz zasadę, zgodnie z którą można być wpisanym tylko do jednego spisu wyborców. ” ;
 - **5)** w dziale I tytuł rozdziału 5a otrzymuje brzmienie: „Przekazywanie informacji o wyborach wyborcom”;
 - **6)** po art. 37c dodaje się art. 37d w brzmieniu: „
 
@@ -202,7 +201,7 @@ source: "eli-html"
 § 2. W skład obwodowej komisji wyborczej utworzonej dla obwodu:
 
 - **1)** do 2000 mieszkańców powołuje się od 6 do 8 osób,
-- **2)** od 2001 do 3000 mieszkańców powołuje się od 8 do 10 osób spośród kandydatów zgłoszonych przez pełnomocników wyborczych lub upoważnione przez nich osoby. ” , po § 2 dodaje się § 2a w brzmieniu: „
+- **2)** od 2001 do 3000 mieszkańców powołuje się od 8 do 10 osób – spośród kandydatów zgłoszonych przez pełnomocników wyborczych lub upoważnione przez nich osoby. ” , po § 2 dodaje się § 2a w brzmieniu: „
     - **b)**
 
 § 2a. W skład obwodowych komisji wyborczych, o których mowa w § 2, powołuje się także po jednej osobie wskazanej przez wójta spośród pracowników samorządowych gminy lub gminnych jednostek organizacyjnych. ” , § 4 otrzymuje brzmienie: „
@@ -260,6 +259,6 @@ source: "eli-html"
 **Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 2 w zakresie art. 15 § 2–4, pkt 5, 6, 20, 21 lit. a, pkt 22–25 i art. 3, które wchodzą w życie z dniem 1 stycznia 2016 r.;
-- **2)** art. 1 pkt 8 i 10, które wchodzą w życie z dniem 1 lipca 2016 r.
+- **2)** art. 1 pkt 8 i 10, które wchodzą w życie z dniem 1 lipca 2016 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072.
 
 

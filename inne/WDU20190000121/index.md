@@ -31,16 +31,14 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 10 grudnia 2008 r. w sprawie pomocy publicznej udzielanej przedsiębiorcom działającym na podstawie zezwolenia na prowadzenie działalności gospodarczej na terenach specjalnych stref ekonomicznych (Dz. U. z 2015 r. poz. 465), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 10 stycznia 2018 r. zmieniającym rozporządzenie w sprawie pomocy publicznej udzielanej przedsiębiorcom działającym na podstawie zezwolenia na prowadzenie działalności gospodarczej na terenach specjalnych stref ekonomicznych (Dz. U. poz. 81).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Rady Ministrów z dnia 10 stycznia 2018 r. zmieniającego rozporządzenie w sprawie pomocy publicznej udzielanej przedsiębiorcom działającym na podstawie zezwolenia na prowadzenie działalności gospodarczej na terenach specjalnych stref ekonomicznych (Dz. U. poz. 81), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Rady Ministrów z dnia 10 stycznia 2018 r. zmieniającego rozporządzenie w sprawie pomocy publicznej udzielanej przedsiębiorcom działającym na podstawie zezwolenia na prowadzenie działalności gospodarczej na terenach specjalnych stref ekonomicznych (Dz. U. poz. 81), które stanowią: „
 § 2.
 1.
 Przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, nie stosuje się do zezwoleń udzielonych przed dniem wejścia w życie niniejszego rozporządzenia.
 2.
 Do wniosków o udzielenie pomocy, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Rady Ministrów z dnia 10 grudnia 2008 r. w sprawie pomocy publicznej udzielanej przedsiębiorcom działającym na podstawie zezwolenia na prowadzenie działalności gospodarczej na terenach specjalnych stref ekonomicznych
 Na podstawie art. 4 ust. 4 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2017 r. poz. 1010 oraz z 2018 r. poz. 650, 1162, 1669 i 2193) zarządza się, co następuje:
 § 1.
@@ -56,8 +54,7 @@ warunki uznawania wydatków za wydatki poniesione na inwestycję na terenie stre
 5)
 koszty inwestycji uwzględniane przy obliczaniu wielkości pomocy publicznej dla przedsiębiorców, którzy uzyskali zezwolenie po dniu 31 grudnia 2000 r.,
 6)
-sposób dyskontowania kosztów inwestycji i wielkości pomocy publicznej
-z zachowaniem warunków określonych w rozporządzeniu Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem nr 651/2014”.
+sposób dyskontowania kosztów inwestycji i wielkości pomocy publicznej – z zachowaniem warunków określonych w rozporządzeniu Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28., zwanym dalej „rozporządzeniem nr 651/2014”.Część wspólna w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 10 stycznia 2018 r. zmieniającego rozporządzenie w sprawie pomocy publicznej udzielanej przedsiębiorcom działającym na podstawie zezwolenia na prowadzenie działalności gospodarczej na terenach specjalnych stref ekonomicznych (Dz. U. poz. 81), które weszło w życie z dniem 11 stycznia 2018 r.
 § 2.
 1.
 Zezwolenie nie jest wydawane na prowadzenie działalności gospodarczej w zakresie:
@@ -68,7 +65,7 @@ prowadzenia ośrodków gier, o których mowa w ustawie z dnia 19 listopada 2009 
 3)
 usług instalowania, napraw, konserwacji i remontu maszyn i urządzeń wykorzystywanych do prowadzenia działalności gospodarczej na terenie strefy;
 4)
-usług związanych z odprowadzaniem i oczyszczaniem ścieków; osadów ze ścieków kanalizacyjnych, określonych w sekcji E w dziale 37 Polskiej Klasyfikacji Wyrobów i Usług ustanowionej rozporządzeniem Rady Ministrów z dnia 29 października 2008 r. w sprawie Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) (Dz. U. poz. 1293 i 1435 oraz z 2009 r. poz. 256 i 1753), zwanej dalej „PKWiU”;
+usług związanych z odprowadzaniem i oczyszczaniem ścieków; osadów ze ścieków kanalizacyjnych, określonych w sekcji E w dziale 37 Polskiej Klasyfikacji Wyrobów i Usług ustanowionej rozporządzeniem Rady Ministrów z dnia 29 października 2008 r. w sprawie Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) (Dz. U. poz. 1293 i 1435 oraz z 2009 r. poz. 256 i 1753)Utraciło moc na podstawie § 4 rozporządzenia Rady Ministrów z dnia 4 września 2015 r. w sprawie Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) (Dz. U. poz. 1676), które weszło w życie z dniem 1 stycznia 2016 r., zwanej dalej „PKWiU”;
 5)
 usług związanych ze zbieraniem, przetwarzaniem i unieszkodliwianiem odpadów; odzysku surowców wtórnych, określonych w sekcji E w dziale 38 PKWiU, z wyjątkiem:
 a)
@@ -130,16 +127,16 @@ pozostałych usług określonych w sekcji S PKWiU, z wyjątkiem usług naprawy i
 17)
 usług gospodarstw domowych i usług świadczonych przez organizacje i zespoły eksterytorialne, określonych w sekcjach T i U PKWiU;
 18)
-działalności gospodarczej, na której prowadzenie jest wymagane posiadanie koncesji, zgodnie z art. 32 ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2018 r. poz. 755, z późn. zm.).
+działalności gospodarczej, na której prowadzenie jest wymagane posiadanie koncesji, zgodnie z art. 32 ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2018 r. poz. 755, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 685, 771, 1000, 1356, 1629, 1637 i 2348 oraz z 2019 r. poz. 42.).
 2.
 Zezwolenia nie udziela się również:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 w przypadkach określonych w art. 1 ust. 2 lit. c i d, ust. 3 lit. a-d, ust. 4 i 5 oraz art. 13 rozporządzenia nr 651/2014;
 2)
 dużemu przedsiębiorcy w rozumieniu art. 2 pkt 24 rozporządzenia nr 651/2014 na prowadzenie na obszarach należących do województwa mazowieckiego działalności gospodarczej wchodzącej w zakres tej samej klasy działalności, określonej zgodnie z przepisami wydanymi w odniesieniu do klasyfikacji działalności na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2018 r. poz. 997, 1000, 1629 i 1669), co działalność prowadzona przez tego przedsiębiorcę na tych obszarach.
 § 3.
 1.
-Pomoc publiczna udzielana przedsiębiorcy w formie zwolnień podatkowych na podstawie art. 17 ust. 1 pkt 34 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2018 r. poz. 1036, z późn. zm.) albo na podstawie art. 21 ust. 1 pkt 63a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.) stanowi regionalną pomoc inwestycyjną z tytułu:
+Pomoc publiczna udzielana przedsiębiorcy w formie zwolnień podatkowych na podstawie art. 17 ust. 1 pkt 34 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2018 r. poz. 1036, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215, 2243, 2244, 2245, 2429 i 2500 oraz z 2019 r. poz. 37.) albo na podstawie art. 21 ust. 1 pkt 63a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246, 2429 i 2529 oraz z 2019 r. poz. 29.) stanowi regionalną pomoc inwestycyjną z tytułu:
 1)
 kosztów nowej inwestycji, której wielkość jest liczona jako iloczyn maksymalnej intensywności pomocy określonej dla danego obszaru i kosztów inwestycji kwalifikujących się do objęcia pomocą, określonych w § 6 lub
 2)
@@ -180,12 +177,12 @@ W przypadku pomocy regionalnej udzielanej przedsiębiorcy na realizację dużego
 4.
 Przez duży projekt inwestycyjny należy rozumieć nową inwestycję, której koszty kwalifikujące się do objęcia pomocą przekraczają równowartość 50 mln euro według kursu ogłoszonego przez Narodowy Bank Polski z dnia udzielenia zezwolenia.
 5.
-Nową inwestycję rozpoczętą przez tego samego przedsiębiorcę lub innego przedsiębiorcę należącego do tej samej grupy kapitałowej w rozumieniu art. 3 ust. 1 pkt 44 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2018 r. poz. 395, z późn. zm.) w okresie trzech lat od dnia rozpoczęcia prac nad inną inwestycją objętą pomocą w tym samym podregionie wyróżnionym na poziomie trzecim (NTS 3), zgodnie z przepisami wydanymi na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, uznaje się za część tej inwestycji.
+Nową inwestycję rozpoczętą przez tego samego przedsiębiorcę lub innego przedsiębiorcę należącego do tej samej grupy kapitałowej w rozumieniu art. 3 ust. 1 pkt 44 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2018 r. poz. 395, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 398, 650, 1629, 2212 i 2244 oraz z 2019 r. poz. 55.) w okresie trzech lat od dnia rozpoczęcia prac nad inną inwestycją objętą pomocą w tym samym podregionie wyróżnionym na poziomie trzecim (NTS 3), zgodnie z przepisami wydanymi na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, uznaje się za część tej inwestycji.
 6.
 Projekt pomocy indywidualnej wymaga notyfikacji Komisji Europejskiej, w przypadku gdy:
 1)
 łączna wartość pomocy regionalnej udzielonej ze wszystkich źródeł przekraczałaby kwotę wartości pomocy obliczonej zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 30 czerwca 2014 r. w sprawie ustalenia mapy pomocy regionalnej na lata 2014–2020 (Dz. U. poz. 878) dla nowej inwestycji o kosztach kwalifikujących się do objęcia pomocą w wysokości 100 mln euro;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.)
 przedsiębiorca ubiegający się o pomoc dokonał przeniesienia w rozumieniu art. 2 pkt 61a rozporządzenia nr 651/2014 do zakładu, w którym ma zostać dokonana nowa inwestycja, której dotyczy wniosek o pomoc, w okresie dwóch lat poprzedzających złożenie wniosku o pomoc albo w dniu złożenia wniosku o pomoc ma zamiar dokonać takiego przeniesienia w okresie dwóch lat od zakończenia inwestycji objętej zezwoleniem.
 § 5.
 1.
@@ -239,7 +236,7 @@ W przypadku gdy przed zakupem przedsiębiorstwa, w stosunku do jego składników
 Środki trwałe, o których mowa w ust. 1 pkt 2, zakupione przez przedsiębiorcę innego niż mały i średni, mają być nowe.
 8.
 Minimalna wysokość kosztów inwestycyjnych, o których mowa w ust. 1, wynosi 100 tys. euro według kursu ogłoszonego przez Narodowy Bank Polski z dnia udzielenia zezwolenia.
-9.
+9W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku pomocy regionalnej przyznanej dużemu przedsiębiorcy w rozumieniu art. 2 pkt 24 rozporządzenia nr 651/2014 na zasadniczą zmianę procesu produkcji koszty kwalifikujące się do objęcia pomocą powinny przekraczać koszty amortyzacji aktywów związanych z działalnością podlegającą modernizacji w okresie trzech poprzednich lat obrotowych przed dniem złożenia wniosku o pomoc.
 10.
 W przypadku pomocy regionalnej udzielonej na dywersyfikację produkcji istniejącego przedsiębiorstwa koszty kwalifikujące się do objęcia pomocą powinny przekraczać o co najmniej 200% wartość księgową ponownie wykorzystywanych aktywów odnotowaną w roku obrotowym poprzedzającym rozpoczęcie dywersyfikacji.
@@ -262,5 +259,5 @@ Zdyskontowaną wartość poniesionych wydatków i otrzymanej pomocy określa si�
 § 8.
 Do przedsiębiorcy, który posiada zezwolenie wydane przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się dotychczasowe warunki udzielania pomocy regionalnej.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 30 grudnia 2008 r.
+Rozporządzenie wchodzi w życie z dniem 30 grudnia 2008 r. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28. 2) Część wspólna w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 10 stycznia 2018 r. zmieniającego rozporządzenie w sprawie pomocy publicznej udzielanej przedsiębiorcom działającym na podstawie zezwolenia na prowadzenie działalności gospodarczej na terenach specjalnych stref ekonomicznych (Dz. U. poz. 81), które weszło w życie z dniem 11 stycznia 2018 r. 3) Utraciło moc na podstawie § 4 rozporządzenia Rady Ministrów z dnia 4 września 2015 r. w sprawie Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) (Dz. U. poz. 1676), które weszło w życie z dniem 1 stycznia 2016 r. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 685, 771, 1000, 1356, 1629, 1637 i 2348 oraz z 2019 r. poz. 42. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215, 2243, 2244, 2245, 2429 i 2500 oraz z 2019 r. poz. 37. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246, 2429 i 2529 oraz z 2019 r. poz. 29. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 398, 650, 1629, 2212 i 2244 oraz z 2019 r. poz. 55. 9) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.
 

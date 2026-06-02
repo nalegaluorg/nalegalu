@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 grudnia 2015 r. o zmianie ustawy – Prawo wodne oraz ustawy o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw
+# Ustawaz dnia 16 grudnia 2015 r. o zmianie ustawy – Prawo wodne oraz ustawy o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-16 |
 | Data wydania | 2015-12-30 |
-| Wejście w życie | 2015-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002295) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2295/text.pdf) |
 
@@ -97,7 +96,7 @@ source: "eli-html"
 - **8)** kwas perfluorooktanosulfonowy (PFOS),
 - **9)** dioksyny i związki dioksynopodobne,
 - **10)** heksabromocyklodekany (HBCDD),
-- **11)** heptachlor i epoksyd heptachloru ujętych w wykazie substancji priorytetowych określonym w przepisach wydanych na podstawie art. 38l ust. 2, stosuje się środowiskowe normy jakości dla flory i fauny, określone w przepisach wydanych na podstawie art. 38a ust. 3.
+- **11)** heptachlor i epoksyd heptachloru – ujętych w wykazie substancji priorytetowych określonym w przepisach wydanych na podstawie art. 38l ust. 2, stosuje się środowiskowe normy jakości dla flory i fauny, określone w przepisach wydanych na podstawie art. 38a ust. 3.
 
 2. W odniesieniu do substancji priorytetowych innych niż wymienione w ust. 1, stosuje się środowiskowe normy jakości dla wód, określone w przepisach wydanych na podstawie art. 38a ust. 3.
 
@@ -241,7 +240,7 @@ source: "eli-html"
 - **4)** uprawniony do korzystania z wód oraz uprawniony do rybactwa ” , po ust. 7c dodaje się ust. 7d w brzmieniu: „
     - **c)**
 
-7d. Siedziby i adresy stron ustala się na podstawie ewidencji gruntów i budynków, o której mowa w art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2015 r. poz. 520, z późn. zm.). ” ;
+7d. Siedziby i adresy stron ustala się na podstawie ewidencji gruntów i budynków, o której mowa w art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2015 r. poz. 520, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 831, 1137 i 1433.). ” ;
 
 - **17)** w art. 140: w ust. 2 pkt 5 otrzymuje brzmienie: „
     - **a)**
@@ -274,12 +273,12 @@ source: "eli-html"
 
 1. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-2. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących decyzji, o których mowa w art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2015 r. poz. 199, z późn. zm.), stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+2. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących decyzji, o których mowa w art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2015 r. poz. 199, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 443, 774, 1265, 1434, 1713, 1777, 1830 i 1890.), stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 6.** Do projektów studiów uwarunkowań i kierunków zagospodarowania przestrzennego gminy oraz projektów miejscowych planów zagospodarowania przestrzennego, a także ich zmian, w stosunku do których, przed dniem wejścia w życie niniejszej ustawy:
 
 - **1)** podjęto uchwałę o przystąpieniu do sporządzania lub zmiany studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy lub do sporządzenia lub zmiany miejscowego planu zagospodarowania przestrzennego i
-- **2)** ogłoszono w prasie miejscowej oraz przez obwieszczenie o wyłożeniu projektu studium lub planu do publicznego wglądu stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+- **2)** ogłoszono w prasie miejscowej oraz przez obwieszczenie o wyłożeniu projektu studium lub planu do publicznego wglądu – stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 7.** Prezes Krajowego Zarządu Gospodarki Wodnej do dnia 22 grudnia 2019 r. może dokonywać aktualizacji map zagrożenia powodziowego i map ryzyka powodziowego w celu uwzględnienia w tych mapach istotnych zmian poziomu zagrożenia powodziowego wynikającego z wyznaczenia obszarów, o których mowa w art. 88d ust. 2 ustawy zmienianej w art. 1. Dyrektorzy regionalnych zarządów gospodarki wodnej dokonają pierwszego przeglądu i w razie potrzeby aktualizacji planów utrzymania wód, o których mowa w art. 114b ustawy zmienianej w art. 1, w terminie do dnia 1 stycznia 2022 r.
 
@@ -291,5 +290,10 @@ source: "eli-html"
 
 3. Przepisy wykonawcze wydane na podstawie art. 155b ust. 1 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 155b ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy, i mogą być zmieniane na podstawie tego przepisu.
 
-**Art. 10.** Ustawa wchodzi w życie z dniem 31 grudnia 2015 r.
+**Art. 10.** Ustawa wchodzi w życie z dniem 31 grudnia 2015 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
+
+- **1)** dyrektywy 2006/118/WE Parlamentu Europejskiego i Rady z dnia 12 grudnia 2006 r. w sprawie ochrony wód podziemnych przed zanieczyszczeniem i pogorszeniem ich stanu (Dz. Urz. UE L 372 z 27.12.2006, str. 19–31);
+- **2)** dyrektywy Parlamentu Europejskiego i Rady 2013/39/UE z dnia 12 sierpnia 2013 r. zmieniającej dyrektywy 2000/60/WE i 2008/105/WE w zakresie substancji priorytetowych w dziedzinie polityki wodnej (Dz. Urz. UE L 226 z 24.08.2013, str. 1);
+- **3)** dyrektywy Komisji 2014/80/UE z dnia 20 czerwca 2014 r. zmieniającej załącznik II do dyrektywy 2006/118/WE Parlamentu Europejskiego i Rady z dnia 12 grudnia 2006 r. w sprawie ochrony wód podziemnych przed zanieczyszczeniem i pogorszeniem ich stanu (Dz. Urz. UE L 182 z 21.06.2014, str. 52–55). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 831, 1137 i 1433. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 443, 774, 1265, 1434, 1713, 1777, 1830 i 1890.
+
 

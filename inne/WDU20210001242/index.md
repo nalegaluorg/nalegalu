@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 15 lipca 2019 r. w sprawie przeprowadzania konkursu na aplikację uzupełniającą prokuratorską (Dz. U. poz. 1399), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 21 października 2020 r. zmieniającym rozporządzenie w sprawie przeprowadzania konkursu na aplikację uzupełniającą prokuratorską (Dz. U. poz. 1904).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 21 października 2020 r. zmieniającego rozporządzenie w sprawie przeprowadzania konkursu na aplikację uzupełniającą prokuratorską (Dz. U. poz. 1904), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 21 października 2020 r. zmieniającego rozporządzenie w sprawie przeprowadzania konkursu na aplikację uzupełniającą prokuratorską (Dz. U. poz. 1904), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 15 lipca 2019 r. w sprawie przeprowadzania konkursu na aplikację uzupełniającą prokuratorską
 Na podstawie art. 37d ust. 3 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2020 r. poz. 1366 oraz z 2021 r. poz. 21) zarządza się, co następuje:
 § 1.
@@ -58,16 +56,16 @@ trzech prokuratorów wskazanych przez Prokuratora Krajowego, specjalistów z dzi
 prokurator – przedstawiciel Krajowej Rady Prokuratorów przy Prokuratorze Generalnym, specjalista z dziedziny prawa objętej zakresem egzaminu, o której mowa w § 5 ust. 1 pkt 1.
 3.
 Członkami komisji, o których mowa w ust. 2, mogą być prokuratorzy w stanie spoczynku.
-3a.
+3aDodany przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 21 października 2020 r. zmieniającego rozporządzenie w sprawie przeprowadzania konkursu na aplikację uzupełniającą prokuratorską (Dz. U. poz. 1904), które weszło w życie z dniem 13 listopada 2020 r..
 Jeżeli wymagają tego względy organizacyjne związane z dużą liczbą kandydatów, Prokurator Krajowy może zwiększyć liczbę członków komisji, o których mowa w ust. 2 pkt 2. Łączna liczba członków, o których mowa w ust. 2 pkt 2, nie może przekroczyć dziesięciu osób.
 4.
 W terminie 14 dni od dnia ogłoszenia zarządzenia, o którym mowa w art. 17 ust. 1 ustawy, w Dzienniku Urzędowym Ministra Sprawiedliwości Krajowa Rada Prokuratorów przy Prokuratorze Generalnym wskazuje Prokuratorowi Krajowemu swojego przedstawiciela, o którym mowa w ust. 2 pkt 3.
 § 4.
 1.
 Prokurator Krajowy wyznacza spośród członków komisji przewodniczącego komisji oraz jego zastępcę.
-1a.
+1aDodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1..
 W przypadku, o którym mowa w § 3 ust. 3a, Prokurator Krajowy może wyznaczyć dodatkowego zastępcę przewodniczącego komisji.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Pracami komisji kieruje jej przewodniczący, a w razie jego nieobecności – zastępca przewodniczącego. W przypadku wyznaczenia dodatkowego zastępcy przewodniczącego pracami komisji w razie nieobecności przewodniczącego kieruje wskazany przez niego zastępca przewodniczącego.
 3.
 Przewodniczący komisji wydaje zarządzenia o charakterze porządkowym lub organizacyjnym, niezbędne do sprawnego i obiektywnego przeprowadzenia konkursu.
@@ -124,7 +122,7 @@ Urzędnicy i inni pracownicy Prokuratury Krajowej oraz urzędnicy delegowani do 
 § 11.
 1.
 Przewodniczący komisji nie później niż na 7 dni przed terminem rozpoczęcia konkursu przekazuje Dyrektorowi Biura Kadr Prokuratury Krajowej listę kandydatów zakwalifikowanych do udziału w konkursie, informacje o czasie i miejscu przeprowadzenia poszczególnych etapów konkursu, a także o godzinach i warunkach rejestracji kandydatów przed egzaminem oraz inne niezbędne informacje o sposobie przeprowadzenia konkursu. Informacje te Dyrektor Biura Kadr Prokuratury Krajowej niezwłocznie, nie później jednak niż na 3 dni przed terminem rozpoczęcia konkursu, ogłasza w Biuletynie Informacji Publicznej Prokuratury Krajowej.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1..
 W czasie rejestracji kandydat okazuje członkowi komisji dokument tożsamości oraz potwierdza obecność własnoręcznym podpisem na liście, stanowiącej załącznik do protokołu egzaminu.
 3.
 Niezgłoszenie się kandydata do rejestracji w wyznaczonych godzinach, niezależnie od przyczyny, uznaje się za odstąpienie od udziału w konkursie.
@@ -135,7 +133,7 @@ Konkurs składa się z dwóch etapów:
 oceny pracy kandydata na stanowisku referendarza sądowego, asystenta sędziego lub asystenta prokuratora;
 2)
 egzaminu.
-2.
+2Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1..
 Do przeprowadzenia poszczególnych etapów konkursu niezbędna jest obecność co najmniej czterech członków komisji, w tym przewodniczącego lub jego zastępcy.
 § 13.
 1.
@@ -145,7 +143,7 @@ Protokół posiedzenia komisji, o którym mowa w ust. 1, podpisują wszyscy czł
 § 14.
 1.
 Oceny pracy kandydata na stanowisku referendarza sądowego, asystenta sędziego lub asystenta prokuratora dokonuje się w systemie punktowym, z zastosowaniem skali od 0 do 10 punktów.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1..
 Przy dokonywaniu oceny pracy kandydata na stanowisku referendarza sądowego, asystenta sędziego lub asystenta prokuratora bierze się pod uwagę informacje i opinie, o których mowa w § 6 ust. 2, w szczególności wystawione przez prezesa sądu, w którym kandydat wykonuje lub wykonywał zadania służbowe, lub kierownika jednostki organizacyjnej prokuratury, w której kandydat wykonuje lub wykonywał zadania służbowe. Jeżeli kandydat nie załączy do zgłoszenia informacji lub opinii, przewodniczący komisji lub, z jego upoważnienia, zastępca przewodniczącego lub sekretarz komisji zwraca się do właściwego prezesa sądu lub kierownika jednostki organizacyjnej prokuratury o nadesłanie informacji lub opinii o kandydacie.
 § 15.
 1.
@@ -176,7 +174,7 @@ Egzamin przeprowadza się w warunkach uniemożliwiających kandydatom naruszanie
 W trakcie egzaminu kandydaci nie mogą korzystać z urządzeń służących do przekazu, odbioru lub rejestracji informacji na odległość ani z urządzeń służących do elektronicznego gromadzenia, pobierania lub przetwarzania danych. Kandydaci nie mogą również korzystać z tekstów aktów prawnych, komentarzy, orzecznictwa ani innych materiałów, mogących stanowić pomoc w odpowiedzi na pytania, poza przypadkiem, o którym mowa w ust. 7.
 3.
 W sali, w której przeprowadza się egzamin, poza kandydatami mogą przebywać wyłącznie członkowie komisji oraz osoby upoważnione przez przewodniczącego komisji.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 1..
 W trakcie egzaminu kandydat pozostaje na miejscu wyznaczonym przez członka komisji i nie może przemieszczać się po sali, poza przypadkami, o których mowa w ust. 5.
 5.
 Po wylosowaniu zestawu pytań kandydat może opuścić salę tylko w szczególnie uzasadnionych przypadkach, po uzyskaniu zgody przewodniczącego albo innego członka komisji i pod nadzorem. Przed opuszczeniem sali kandydat przekazuje zestaw pytań przewodniczącemu albo innemu członkowi komisji. Godzinę wyjścia kandydata z sali, a następnie powrotu do sali odnotowuje się na odrębnej liście, stanowiącej załącznik do protokołu egzaminu.
@@ -209,9 +207,9 @@ O miejscu na liście kwalifikacyjnej decyduje suma punktów uzyskanych przez kan
 3.
 Przebieg posiedzenia komisji, na którym sporządzana jest lista kwalifikacyjna, jest protokołowany. Protokół podpisują wszyscy członkowie komisji obecni na posiedzeniu.
 § 22.
-1.
+1Oznaczenie ust. 1 nadane przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 1..
 Niezwłocznie po sporządzeniu listy kwalifikacyjnej przewodniczący komisji przekazuje Prokuratorowi Krajowemu listę kwalifikacyjną, protokoły posiedzeń komisji oraz protokół egzaminu, a Dyrektorowi Krajowej Szkoły – kopię listy kwalifikacyjnej.
-2.
+2Dodany przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 1..
 Wypłaty wynagrodzenia członkom komisji Krajowa Szkoła Sądownictwa i Prokuratury dokonuje po przekazaniu Dyrektorowi Krajowej Szkoły kopii listy kwalifikacyjnej.
 § 23.
 1.
@@ -219,5 +217,5 @@ Listę kwalifikacyjną Prokurator Krajowy ogłasza w Biuletynie Informacji Publi
 2.
 Do kandydatów umieszczonych na liście kwalifikacyjnej stosuje się odpowiednio art. 23 ustawy.
 § 24.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 29 lipca 2019 r.. 1) Dodany przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 21 października 2020 r. zmieniającego rozporządzenie w sprawie przeprowadzania konkursu na aplikację uzupełniającą prokuratorską (Dz. U. poz. 1904), które weszło w życie z dniem 13 listopada 2020 r. 2) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1. 3) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 5) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1. 6) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1. 7) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 1. 8) Oznaczenie ust. 1 nadane przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 1. 9) Dodany przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 1. 10) Rozporządzenie zostało ogłoszone w dniu 29 lipca 2019 r.
 

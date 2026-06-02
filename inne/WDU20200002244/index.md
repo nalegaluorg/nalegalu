@@ -40,30 +40,24 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lutego 2020 r. zmien
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 1709), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 1709), które stanowią: „
 § 2.
 W okresie ważności numeru rejestracyjnego, o którym mowa w art. 57 ust. 2 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503), przedsiębiorca, któremu został on nadany, a który nie posiada numeru identyfikacyjnego, o którym mowa w art. 12 ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2015 r. poz. 807 i 1419, z 2016 r. poz. 1605 oraz z 2017 r. poz. 5 i 624), może podać we wniosku o udzielenie wsparcia, o którym mowa w § 5 ust. 1 rozporządzenia zmienianego w § 1, zamiast numeru identyfikacyjnego, o którym mowa w § 5 ust. 2 pkt 2 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, numer rejestracyjny, o którym mowa w art. 57 ust. 2 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 lipca 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 1422), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 lipca 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 1422), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2019 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2019 r. ” ;
 3)
-§ 2–4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lutego 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 323), które stanowią:
-„
+§ 2–4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lutego 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 323), które stanowią: „
 § 2.
 Do zaliczki w przypadku wsparcia finansowego, o którym mowa w § 1 pkt 2 rozporządzenia zmienianego w § 1, o której wypłatę podmiot wystąpił we wniosku o udzielenie wsparcia złożonym przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 3.
 Do wypłaty wsparcia finansowego, o którym mowa w § 1 rozporządzenia zmienianego w § 1, w sprawach objętych postępowaniami wszczętymi i niezakończonymi decyzją ostateczną przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy niniejszego rozporządzenia.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 czerwca 2017 r. w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 czerwca 2017 r. w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczychMinister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928).
 Na podstawie art. 9 ust. 5 ustawy z dnia 22 maja 2009 r. o funduszach promocji produktów rolno-spożywczych (Dz. U. z 2020 r. poz. 688 i 695) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb:
@@ -71,10 +65,10 @@ Rozporządzenie określa szczegółowe warunki i tryb:
 finansowania lub współfinansowania programów promocyjnych i informacyjnych;
 2)
 współfinansowania działań promocyjnych i informacyjnych kwalifikujących się do uzyskania na ich realizację wsparcia ze środków Unii Europejskiej;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 lipca 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 1422), które weszło w życie z dniem 1 sierpnia 2019 r.)
 udzielania wsparcia finansowego na realizację zadań określonych w art. 2 ust. 2 pkt 1 lit. e, g i h, pkt 2 lit. e-g, pkt 3 lit. e-g, pkt 4 lit. e-g, pkt 5 lit. e-g, pkt 6 lit. e-g, pkt 7 lit. e-g, pkt 8 lit. e-g, pkt 9 lit. e-g oraz pkt 10 lit. e-g ustawy z dnia 22 maja 2009 r. o funduszach promocji produktów rolno-spożywczych.
 § 2.
-Wsparcie finansowe, o którym mowa w § 1, zwane dalej „wsparciem”, jest udzielane na niemające na celu promocji konkretnego znaku towarowego lub marki zadanie w ramach programów promocyjnych i informacyjnych lub działań promocyjnych i informacyjnych kwalifikujących się do uzyskania na ich realizację wsparcia ze środków Unii Europejskiej lub zadanie określone w art. 2 ust. 2 pkt 1 lit. e, g i h, pkt 2 lit. e-g, pkt 3 lit. e-g, pkt 4 lit. e-g, pkt 5 lit. e-g, pkt 6 lit. e-g, pkt 7 lit. e-g, pkt 8 lit. e-g, pkt 9 lit. e-g oraz pkt 10 lit. e-g ustawy z dnia 22 maja 2009 r. o funduszach promocji produktów rolno-spożywczych, które:
+Wsparcie finansowe, o którym mowa w § 1, zwane dalej „wsparciem”, jest udzielane na niemające na celu promocji konkretnego znaku towarowego lub marki zadanie w ramach programów promocyjnych i informacyjnych lub działań promocyjnych i informacyjnych kwalifikujących się do uzyskania na ich realizację wsparcia ze środków Unii Europejskiej lub zadanie określone w art. 2 ust. 2 pkt 1 lit. e, g i h, pkt 2 lit. e-g, pkt 3 lit. e-g, pkt 4 lit. e-g, pkt 5 lit. e-g, pkt 6 lit. e-g, pkt 7 lit. e-g, pkt 8 lit. e-g, pkt 9 lit. e-g oraz pkt 10 lit. e-g ustawy z dnia 22 maja 2009 r. o funduszach promocji produktów rolno-spożywczych, które:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
 1)
 realizuje cele strategii promocji dla branż, których dotyczą fundusze promocji produktów rolno-spożywczych, zwane dalej „funduszami promocji”;
 2)
@@ -87,18 +81,25 @@ w przypadku wsparcia, o którym mowa w § 1 pkt 1 lub 3:
 – w jednym etapie, jeżeli jego realizacja będzie trwać nie dłużej niż 6 miesięcy, lub w kilku etapach, jeżeli jego realizacja będzie trwać dłużej niż 6 miesięcy, a każdy z etapów będzie obejmować co najmniej 3 miesiące,
 b)
 w przypadku wsparcia, o którym mowa w § 1 pkt 2:
-– przez okres co najmniej jednego roku, jednak nie dłużej niż przez 3 lata, zgodnie z art. 6 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1144/2014 z dnia 22 października 2014 r. w sprawie działań informacyjnych i promocyjnych dotyczących produktów rolnych wdrażanych na rynku wewnętrznym i w państwach trzecich oraz uchylającego rozporządzenie Rady (WE) nr 3/2008 (Dz. Urz. UE L 317 z 04.11.2014, str. 56), oraz będzie realizowane w: – – jednym etapie, jeżeli zadanie jest realizowane przez okres jednego roku, – – dwóch etapach, jeżeli zadanie jest realizowane przez 2 lata, – – trzech etapach, jeżeli zadanie jest realizowane przez 3 lata – zgodnie z art. 14 i art. 15 rozporządzenia wykonawczego Komisji (UE) 2015/1831 z dnia 7 października 2015 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1144/2014 w sprawie działań informacyjnych i promocyjnych dotyczących produktów rolnych wdrażanych na rynku wewnętrznym i w państwach trzecich (Dz. Urz. UE L 266 z 13.10.2015, str. 14), zwanego dalej „rozporządzeniem 2015/1831”, albo – przez okres nie dłuższy niż dwa lata, w nie więcej niż ośmiu etapach, a w przypadku gdy zadanie będzie realizowane przez okres: – – nie dłuższy niż 270 dni – zadanie będzie realizowane nie więcej niż w dwóch etapach, – – dłuższy niż 270 dni – zadanie będzie realizowane co najmniej w trzech etapach, a każdy etap będzie realizowany przez co najmniej 90 dni – zgodnie z § 3 ust. 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 lipca 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2019 r. poz. 2401), zwanego dalej „rozporządzeniem Ministra”.
+przez okres co najmniej jednego roku, jednak nie dłużej niż przez 3 lata, zgodnie z art. 6 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1144/2014 z dnia 22 października 2014 r. w sprawie działań informacyjnych i promocyjnych dotyczących produktów rolnych wdrażanych na rynku wewnętrznym i w państwach trzecich oraz uchylającego rozporządzenie Rady (WE) nr 3/2008 (Dz. Urz. UE L 317 z 04.11.2014, str. 56), oraz będzie realizowane w:
+– – jednym etapie, jeżeli zadanie jest realizowane przez okres jednego roku,
+– – dwóch etapach, jeżeli zadanie jest realizowane przez 2 lata,
+– – trzech etapach, jeżeli zadanie jest realizowane przez 3 lata
+– zgodnie z art. 14 i art. 15 rozporządzenia wykonawczego Komisji (UE) 2015/1831 z dnia 7 października 2015 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1144/2014 w sprawie działań informacyjnych i promocyjnych dotyczących produktów rolnych wdrażanych na rynku wewnętrznym i w państwach trzecich (Dz. Urz. UE L 266 z 13.10.2015, str. 14), zwanego dalej „rozporządzeniem 2015/1831”, albo
+przez okres nie dłuższy niż dwa lata, w nie więcej niż ośmiu etapach, a w przypadku gdy zadanie będzie realizowane przez okres:
+– – nie dłuższy niż 270 dni – zadanie będzie realizowane nie więcej niż w dwóch etapach,
+– – dłuższy niż 270 dni – zadanie będzie realizowane co najmniej w trzech etapach, a każdy etap będzie realizowany przez co najmniej 90 dni
+– zgodnie z § 3 ust. 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 lipca 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2019 r. poz. 2401), zwanego dalej „rozporządzeniem Ministra”.
 § 3.
-Wsparcia udziela się w drodze decyzji Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa, zwanego dalej „Krajowym Ośrodkiem”, w formie refundacji kosztów bezpośrednio związanych z realizacją zadania:
+Wsparcia udziela się w drodze decyzji Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa, zwanego dalej „Krajowym Ośrodkiem”Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 1709), które weszło w życie z dniem 22 września 2017 r., w formie refundacji kosztów bezpośrednio związanych z realizacją zadania:
 1)
 w przypadku wsparcia, o którym mowa w § 1 pkt 1 lub 3 – określonych w załączniku do rozporządzenia i poniesionych od dnia złożenia wniosku o udzielenie wsparcia do dnia złożenia wniosku o płatność,
 2)
 w przypadku wsparcia, o którym mowa w § 1 pkt 2 – w części stanowiącej wkład własny podmiotu ubiegającego się o udzielenie wsparcia przeznaczony na realizację działania, określonych w:
-a)
+aZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.)
 art. 4 rozporządzenia delegowanego Komisji (UE) 2015/1829 z dnia 23 kwietnia 2015 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1144/2014 w sprawie działań informacyjnych i promocyjnych dotyczących produktów rolnych na rynku wewnętrznym i w państwach trzecich (Dz. Urz. UE L 266 z 13.10.2015, str. 3) i poniesionych w okresie określonym w umowie, o której mowa w art. 10 ust. 3 rozporządzenia 2015/1831,
 b)
-§ 4 ust. 1 rozporządzenia Ministra i poniesionych od dnia zawarcia umowy o przyznaniu pomocy finansowej, o której mowa w § 12 ust. 1 rozporządzenia Ministra
-zwanych dalej „kosztami kwalifikowalnymi”.
+§ 4 ust. 1 rozporządzenia Ministra i poniesionych od dnia zawarcia umowy o przyznaniu pomocy finansowej, o której mowa w § 12 ust. 1 rozporządzenia Ministra – zwanych dalej „kosztami kwalifikowalnymi”.
 § 4.
 1.
 Wsparcie stanowi równowartość kosztów kwalifikowalnych brutto zadania w przypadku:
@@ -110,7 +111,7 @@ gdy naliczony podatek od towarów i usług związanych z realizacją zadania nie
 W przypadku wsparcia, o którym mowa w § 1 pkt 2, wsparcie obejmuje koszty kwalifikowalne brutto od wartości całego zadania.
 § 5.
 1.
-Wniosek o udzielenie wsparcia składa się w biurze Krajowego Ośrodka, na formularzu opracowanym przez Krajowy Ośrodek i udostępnionym na stronie internetowej administrowanej przez Krajowy Ośrodek, w terminie:
+Wniosek o udzielenie wsparcia składa się w biurze Krajowego Ośrodka, na formularzu opracowanym przez Krajowy Ośrodek i udostępnionym na stronie internetowej administrowanej przez Krajowy Ośrodek, w terminie:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4.
 1)
 nie później niż na dzień przed dniem rozpoczęcia realizacji zadania – w przypadku wsparcia, o którym mowa w § 1 pkt 1 lub 3;
 2)
@@ -120,7 +121,7 @@ Wniosek o udzielenie wsparcia zawiera informacje niezbędne do udzielenia wsparc
 1)
 nazwę, siedzibę i adres podmiotu ubiegającego się o udzielenie wsparcia;
 2)
-(uchylony);
+(uchylony);Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.
 3)
 kwotę wnioskowanego wsparcia;
 4)
@@ -147,17 +148,16 @@ inne dokumenty potwierdzające spełnienie warunków do udzielenia wsparcia oraz
 1.
 Wsparcie jest udzielane do wyczerpania środków finansowych poszczególnych funduszy promocji przeznaczonych na realizację danego zadania.
 2.
-Dniem złożenia wniosku o udzielenie wsparcia jest dzień jego wpływu do biura Krajowego Ośrodka.
+Dniem złożenia wniosku o udzielenie wsparcia jest dzień jego wpływu do biura Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4..
 3.
-Dyrektor Generalny Krajowego Ośrodka wydaje decyzję w sprawie udzielenia wsparcia, w terminie 30 dni od dnia złożenia wniosku o udzielenie wsparcia.
+Dyrektor Generalny Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. wydaje decyzję w sprawie udzielenia wsparcia, w terminie 30 dni od dnia złożenia wniosku o udzielenie wsparcia.
 § 7.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lutego 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 323), które weszło w życie z dniem 28 lutego 2020 r..
 Zaliczkę na realizację zadania, w przypadku wsparcia, o którym mowa w:
 1)
 § 1 pkt 1 i 3, w wysokości do 40%,
 2)
-§ 1 pkt 2, w wysokości do 80%
-kwoty wsparcia określonej w decyzji o udzieleniu wsparcia, wypłaca się, jeżeli podmiot wystąpił o jej wypłatę we wniosku o udzielenie wsparcia.
+§ 1 pkt 2, w wysokości do 80% – kwoty wsparcia określonej w decyzji o udzieleniu wsparcia, wypłaca się, jeżeli podmiot wystąpił o jej wypłatę we wniosku o udzielenie wsparcia.
 2.
 Zaliczkę wypłaca się w terminie 14 dni od dnia, w którym decyzja o udzieleniu wsparcia stała się ostateczna, do wysokości środków finansowych dostępnych na dzień wydania tej decyzji, przeznaczonych na realizację danego zadania.
 3.
@@ -168,7 +168,7 @@ Podmiot, któremu udzielono wsparcia:
 1)
 stosując konkurencyjne procedury wyboru wykonawcy zadania, wybiera wykonawcę lub – w przypadku dopuszczenia składania ofert częściowych – wykonawców, na podstawie najkorzystniejszej oferty spośród złożonych ofert, jeżeli wartość zadania przekracza 120 000 zł netto;
 2)
-składa w biurze Krajowego Ośrodka informacje dotyczące zmian terminów lub miejsc realizacji zadania;
+składa w biurze Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4. informacje dotyczące zmian terminów lub miejsc realizacji zadania;
 3)
 w przypadku wsparcia, o którym mowa w § 1 pkt 1 i 3 – umieszcza na wszystkich materiałach sporządzonych w związku z realizacją zadania, w tym przekazach audiowizualnych, w sposób czytelny i wyraźny, informację o udzieleniu wsparcia ze środków finansowych danego funduszu promocji na realizację tego zadania.
 2.
@@ -191,7 +191,7 @@ Dla każdej pozycji kosztów kwalifikowalnych ujętych w wykazie kosztów kwalif
 1.
 Wsparcie jest wypłacane na wniosek o płatność składany po zakończeniu realizacji zadania albo etapu zadania, do wysokości faktycznie poniesionych kosztów kwalifikowalnych.
 2.
-Wniosek o płatność składa się w biurze Krajowego Ośrodka, na formularzu opracowanym przez Krajowy Ośrodek i udostępnionym na stronie internetowej administrowanej przez Krajowy Ośrodek, w terminie:
+Wniosek o płatność składa się w biurze Krajowego Ośrodka, na formularzu opracowanym przez Krajowy Ośrodek i udostępnionym na stronie internetowej administrowanej przez Krajowy Ośrodek, w terminie:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 4.
 1)
 w przypadku wsparcia, o którym mowa w § 1 pkt 1 i 3:
 a)
@@ -216,7 +216,7 @@ sprawozdanie z realizacji zadania lub jego etapu, zawierające co najmniej:
 – opis zrealizowanych działań w ramach zadania lub jego etapu,
 – ocenę efektywności działania pod kątem osiągnięcia założonych we wniosku celów,
 – nazwę i siedzibę wykonawcy albo zanonimizowane dane osoby fizycznej wybranej do realizacji danego zadania, ze wskazaniem zakresu zrealizowanego zadania lub jego etapu oraz wartości,
-–  zgodę na udostępnianie przez Dyrektora Generalnego Krajowego Ośrodka w Biuletynie Informacji Publicznej Krajowego Ośrodka informacji zawartych w sprawozdaniu, o których mowa w tiret pierwszym, drugim i szóstym,
+– W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 4. zgodę na udostępnianie przez Dyrektora Generalnego Krajowego Ośrodka w Biuletynie Informacji Publicznej Krajowego Ośrodka informacji zawartych w sprawozdaniu, o których mowa w tiret pierwszym, drugim i szóstym,
 b)
 szczegółowe zestawienie dowodów księgowych oraz innych dokumentów potwierdzających poniesione koszty na realizację zadania lub jego części,
 c)
@@ -242,7 +242,7 @@ działania, o których mowa w § 1 pkt 2, dotyczyły produktu rolno-spożywczego
 4.
 Przepisu ust. 3 pkt 1 nie stosuje się do ogólnych kosztów kwalifikowalnych określonych w załączniku do rozporządzenia w pkt 16.
 5.
-Dyrektor Generalny Krajowego Ośrodka wydaje decyzję w sprawie wypłaty środków finansowych z tytułu wsparcia:
+Dyrektor Generalny Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. wydaje decyzję w sprawie wypłaty środków finansowych z tytułu wsparcia:
 1)
 w przypadku wsparcia, o którym mowa w § 1 pkt 1 lub 3 – w terminie 30 dni od dnia złożenia wniosku o wypłatę wsparcia;
 2)
@@ -252,12 +252,12 @@ a)
 b)
 90 dni od dnia złożenia wniosku o płatność, zgodnie z § 17 ust. 1 rozporządzenia Ministra.
 6.
-Dyrektor Generalny Krajowego Ośrodka odmawia wypłaty środków finansowych z tytułu wsparcia, jeżeli zadanie lub jego etap nie został zrealizowany lub nie są spełnione warunki wypłaty wsparcia, o których mowa w ust. 3.
-6a.
+Dyrektor Generalny Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. odmawia wypłaty środków finansowych z tytułu wsparcia, jeżeli zadanie lub jego etap nie został zrealizowany lub nie są spełnione warunki wypłaty wsparcia, o których mowa w ust. 3.
+6aDodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 10..
 Jeżeli wniosek o płatność za dany etap, niebędący ostatnim etapem zadania, został złożony po terminie, rozstrzygnięcie w sprawie wypłaty środków finansowych z tytułu wsparcia za realizację tego etapu następuje w decyzji w sprawie wypłaty środków finansowych z tytułu wsparcia za realizację ostatniego etapu zadania.
-6b.
+6bDodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 10..
 Jeżeli wniosek o płatność nie został złożony w terminie, o którym mowa w ust. 2 pkt 1 lit. b, lecz został złożony przed upływem 3 miesięcy od dnia upływu tego terminu, środki finansowe z tytułu wsparcia, o którym mowa w § 1 pkt 1 i 3, dla danego zadania wypłaca się w wysokości pomniejszonej o 0,1% za każdy dzień opóźnienia.
-7.
+7W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 10..
 Dyrektor Generalny Krajowego Ośrodka stwierdza wygaśnięcie decyzji o udzieleniu wsparcia, jeżeli wniosek o płatność nie został złożony:
 1)
 przed upływem 3 miesięcy od dnia upływu terminu, o którym mowa w ust. 2 pkt 1 lit. b – w przypadku wsparcia, o którym mowa w § 1 pkt 1 i 3;
@@ -270,8 +270,7 @@ W przypadku braku środków finansowych na wypłatę wsparcia w terminie, o któ
 § 11.
 Do spraw związanych z udzielaniem i wypłatą wsparcia finansowego na realizację zadań określonych w art. 2 ust. 2 pkt 1 lit. e, g i h, pkt 2 lit. e-g, pkt 3 lit. e-g, pkt 4 lit. e-g, pkt 5 lit. e-g, pkt 6 lit. e-g, pkt 7 lit. e-g, pkt 8 lit. e-g oraz pkt 9 lit. e-g ustawy z dnia 22 maja 2009 r. o funduszach promocji produktów rolno-spożywczych, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2010 r. w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 327) (w brzmieniu z dnia 14 stycznia 2012 r., Dz. U, poz. 1722).
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 lipca 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 1422), które weszło w życie z dniem 1 sierpnia 2019 r. 3) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 1709), które weszło w życie z dniem 22 września 2017 r. 5) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 6) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. 7) Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 8) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4. 9) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. 10) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lutego 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 323), które weszło w życie z dniem 28 lutego 2020 r. 11) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 4. 12) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 4. 13) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 10. 14) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 10. 15) Rozporządzenie zostało ogłoszone w dniu 7 lipca 2017 r. 16) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2010 r. w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 327 oraz z 2011 r. poz. 1722), które utraciło moc z dniem 31 grudnia 2016 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 7 lipca 2017 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2010 r. w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 327 oraz z 2011 r. poz. 1722), które utraciło moc z dniem 31 grudnia 2016 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 lipca 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 1422), które weszło w życie z dniem 1 sierpnia 2019 r. 3) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 24 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 1709), które weszło w życie z dniem 22 września 2017 r. 5) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 6) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. 7) Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 8) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4. 9) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. 10) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lutego 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 323), które weszło w życie z dniem 28 lutego 2020 r. 11) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 4. 12) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 4. 13) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 10. 14) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 10. 15) Rozporządzenie zostało ogłoszone w dniu 7 lipca 2017 r. 16) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2010 r. w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. poz. 327 oraz z 2011 r. poz. 1722), które utraciło moc z dniem 31 grudnia 2016 r.
 Załącznik – Koszty kwalifikowalne podlegające refundacji, z tytułu wsparcia, o którym mowa w § 1 pkt 1 i 3
 Koszty bezpośrednio związane z realizacją zadania, które obejmują koszty:
 1)

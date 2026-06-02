@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 21 czerwca 2013 r. o zmianie ustawy o urzędzie Ministra Obrony Narodowej oraz niektórych innych ustaw
+# Ustawa z dnia 21 czerwca 2013 r. o zmianie ustawy o urzędzie Ministra Obrony Narodowej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 1 grudnia 1961 r. o izbach morskich, ustawę z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawę z dnia 12 października 1990 r. o ochronie granicy państwowej, ustawę z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej oraz zasadach ich przemieszczania się przez to terytorium, ustawę z dnia 11 kwietnia 2003 r. o świadczeniach odszkodowawczych przysługujących w razie wypadków i chorób pozostających w związku ze służbą wojskową, ustawę z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych, ustawę z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego, ustawę z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich oraz ustawę z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-06-21 |
 | Data wydania | 2013-07-29 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000852) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/852/text.pdf) |
 
@@ -70,7 +69,7 @@ source: "eli-html"
 - **2)** Dowódca Generalny;
 - **3)** Dowódca Operacyjny.
 
-2. Ministrowi Obrony Narodowej podlegają Służba Kontrwywiadu Wojskowego i Służba Wywiadu Wojskowego na zasadach określonych w ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. Nr 104, poz. 709, z późn. zm.) oraz Żandarmeria Wojskowa na zasadach określonych w ustawie z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2013 r. poz. 568 i 628).
+2. Ministrowi Obrony Narodowej podlegają Służba Kontrwywiadu Wojskowego i Służba Wywiadu Wojskowego na zasadach określonych w ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. Nr 104, poz. 709, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, z 2009 r. Nr 85, poz. 716, z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 22, poz. 114, Nr 53, poz. 273 i Nr 84, poz. 455, z 2012 r. poz. 707 oraz z 2013 r. poz. 628.) oraz Żandarmeria Wojskowa na zasadach określonych w ustawie z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2013 r. poz. 568 i 628).
 
 **Art. 6.**
 
@@ -97,7 +96,7 @@ source: "eli-html"
 
 - **6)** uchyla się art. 11.
 
-**Art. 2.** W ustawie z dnia 1 grudnia 1961 r. o izbach morskich (Dz. U. z 2009 r. Nr 69, poz. 599, z późn. zm.) w art. 2 ust. 2 otrzymuje brzmienie: „ 2. Sprawy wypadków morskich, w których uczestniczyły jednostki pływające Marynarki Wojennej, Straży Granicznej lub Policji, izby morskie rozpoznają, w odniesieniu do tych jednostek, za zgodą odpowiednio Dowódcy Generalnego Rodzajów Sił Zbrojnych, Komendanta Głównego Straży Granicznej lub Komendanta Głównego Policji. ” . W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2012 r. poz. 461, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 1 grudnia 1961 r. o izbach morskich (Dz. U. z 2009 r. Nr 69, poz. 599, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 228, poz. 1368 oraz z 2012 r. poz. 1068.) w art. 2 ust. 2 otrzymuje brzmienie: „ 2. Sprawy wypadków morskich, w których uczestniczyły jednostki pływające Marynarki Wojennej, Straży Granicznej lub Policji, izby morskie rozpoznają, w odniesieniu do tych jednostek, za zgodą odpowiednio Dowódcy Generalnego Rodzajów Sił Zbrojnych, Komendanta Głównego Straży Granicznej lub Komendanta Głównego Policji. ” . W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2012 r. poz. 461, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1407 i 1445.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 ust. 4a otrzymuje brzmienie: „
 
@@ -148,7 +147,7 @@ source: "eli-html"
 - **5)** w art. 13c: po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
 
-1a. Szef Inspektoratu Wsparcia Sił Zbrojnych podlega Dowódcy Generalnemu. ” , w ust. 2 uchyla się pkt 4. W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2009 r. Nr 12, poz. 67, z późn. zm.) wprowadza się następujące zmiany:
+1a. Szef Inspektoratu Wsparcia Sił Zbrojnych podlega Dowódcy Generalnemu. ” , w ust. 2 uchyla się pkt 4. W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2009 r. Nr 12, poz. 67, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 164, poz. 1108 oraz z 2011 r. Nr 50, poz. 255 i Nr 217, poz. 1280.) wprowadza się następujące zmiany:
 
 - **b)**
 - **1)** w art. 7 ust. 4 otrzymuje brzmienie: „
@@ -163,26 +162,26 @@ source: "eli-html"
 
 - **3)** w art. 18b ust. 3 otrzymuje brzmienie: „
 
-3. Decyzję o zastosowaniu środków, o których mowa w ust. 2, 2a i 2c, podejmuje Dowódca Operacyjny Rodzajów Sił Zbrojnych. ” . W ustawie z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej oraz zasadach ich przemieszczania się przez to terytorium (Dz. U. Nr 93, poz. 1063, z późn. zm.) wprowadza się następujące zmiany:
+3. Decyzję o zastosowaniu środków, o których mowa w ust. 2, 2a i 2c, podejmuje Dowódca Operacyjny Rodzajów Sił Zbrojnych. ” . W ustawie z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej oraz zasadach ich przemieszczania się przez to terytorium (Dz. U. Nr 93, poz. 1063, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 536 i Nr 210, poz. 2036, z 2004 r. Nr 172, poz. 1805, z 2010 r. Nr 122, poz. 825 oraz z 2011 r. Nr 112, poz. 654.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 w ust. 1a: uchyla się pkt 1, pkt 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
 
-- **2)** Dowódcę Generalnego Rodzajów Sił Zbrojnych, Dowódcę Operacyjnego Rodzajów Sił Zbrojnych oraz Szefa Inspektoratu Wsparcia Sił Zbrojnych do wyrażania zgody w sytuacji: klęski żywiołowej i likwidacji jej skutków, katastrofy lądowej, morskiej lub lotniczej, konieczności udzielenia pomocy humanitarnej, realizacji ćwiczenia wojskowego wynikającego z planu zatwierdzonego przez Ministra Obrony Narodowej jeżeli wojska obce są odpowiednikiem wojsk podległych odpowiednio Dowódcy Generalnemu Rodzajów Sił Zbrojnych, Dowódcy Operacyjnemu Rodzajów Sił Zbrojnych lub Szefowi Inspektoratu Wsparcia Sił Zbrojnych, którymi ten dowódca lub szef dowodzi, ich liczebność nie przekracza pięciuset osób, a okres pobytu nie przekracza dwóch miesięcy. ” ;
+- **2)** Dowódcę Generalnego Rodzajów Sił Zbrojnych, Dowódcę Operacyjnego Rodzajów Sił Zbrojnych oraz Szefa Inspektoratu Wsparcia Sił Zbrojnych do wyrażania zgody w sytuacji: klęski żywiołowej i likwidacji jej skutków, katastrofy lądowej, morskiej lub lotniczej, konieczności udzielenia pomocy humanitarnej, realizacji ćwiczenia wojskowego wynikającego z planu zatwierdzonego przez Ministra Obrony Narodowej – jeżeli wojska obce są odpowiednikiem wojsk podległych odpowiednio Dowódcy Generalnemu Rodzajów Sił Zbrojnych, Dowódcy Operacyjnemu Rodzajów Sił Zbrojnych lub Szefowi Inspektoratu Wsparcia Sił Zbrojnych, którymi ten dowódca lub szef dowodzi, ich liczebność nie przekracza pięciuset osób, a okres pobytu nie przekracza dwóch miesięcy. ” ;
     - **a)**
     - **b)**
     - **c)**
     - **d)**
 
-- **2)** w art. 4 w ust. 2a wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister Obrony Narodowej może upoważnić Dowódcę Generalnego Rodzajów Sił Zbrojnych, Dowódcę Operacyjnego Rodzajów Sił Zbrojnych lub Szefa Inspektoratu Wsparcia Sił Zbrojnych do wyrażania zgody na przemieszczanie się przez terytorium Rzeczypospolitej Polskiej: ” . W ustawie z dnia 11 kwietnia 2003 r. o świadczeniach odszkodowawczych przysługujących w razie wypadków i chorób pozostających w związku ze służbą wojskową (Dz. U. Nr 83, poz. 760, z późn. zm.) w art. 22 ust. 2 otrzymuje brzmienie: „
+- **2)** w art. 4 w ust. 2a wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister Obrony Narodowej może upoważnić Dowódcę Generalnego Rodzajów Sił Zbrojnych, Dowódcę Operacyjnego Rodzajów Sił Zbrojnych lub Szefa Inspektoratu Wsparcia Sił Zbrojnych do wyrażania zgody na przemieszczanie się przez terytorium Rzeczypospolitej Polskiej: ” . W ustawie z dnia 11 kwietnia 2003 r. o świadczeniach odszkodowawczych przysługujących w razie wypadków i chorób pozostających w związku ze służbą wojskową (Dz. U. Nr 83, poz. 760, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 179, poz. 1750, z 2005 r. Nr 130, poz. 1085, z 2009 r. Nr 161, poz. 1278, z 2010 r. Nr 113, poz. 745 oraz z 2011 r. Nr 22, poz. 114.) w art. 22 ust. 2 otrzymuje brzmienie: „
 
 2. Jeżeli wypadkowi uległ:
 
 - **1)** szef wojewódzkiego sztabu wojskowego lub jego zastępca – decyzję, o której mowa w ust. 1, wydaje szef innego wojewódzkiego sztabu wojskowego wyznaczony przez Ministra Obrony Narodowej;
 - **2)** Szef Sztabu Generalnego Wojska Polskiego, Dowódca Generalny Rodzajów Sił Zbrojnych, Dowódca Operacyjny Rodzajów Sił Zbrojnych, dowódca (szef) jednostki organizacyjnej bezpośrednio podporządkowanej Ministrowi Obrony Narodowej lub nadzorowanej przez Ministra Obrony Narodowej albo ich zastępcy – decyzję, o której mowa w ust. 1, wydaje Minister Obrony Narodowej. ” .
 
-**Art. 7.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2010 r. Nr 90, poz. 593, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2010 r. Nr 90, poz. 593, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 22, poz. 114, Nr 112, poz. 654, Nr 122, poz. 696, Nr 171, poz. 1016 i Nr 236, poz. 1396 oraz z 2013 r. poz. 675 i 829.) wprowadza się następujące zmiany:
 
 - **1)** w art. 10 pkt 3 otrzymuje brzmienie: „
 - **3)** w korpusach podoficerów zawodowych i szeregowych zawodowych – Szef Sztabu Generalnego Wojska Polskiego, Dowódca Generalny Rodzajów Sił Zbrojnych, Dowódca Operacyjny Rodzajów Sił Zbrojnych, Szef Inspektoratu Wsparcia Sił Zbrojnych, Komendant Główny Żandarmerii Wojskowej i Dowódca Garnizonu Warszawa, w podległych jednostkach wojskowych; ” ;
@@ -204,7 +203,7 @@ source: "eli-html"
 1. Minister Obrony Narodowej, w przypadkach uzasadnionych potrzebami Sił Zbrojnych, może określić inny termin zwolnienia z zawodowej służby wojskowej dla żołnierzy zawodowych posiadających stopnie wojskowe generałów (admirałów) wyznaczanych na stanowiska służbowe w organizacji międzynarodowej albo międzynarodowej strukturze wojskowej albo na stanowiska służbowe Szefa Sztabu Generalnego Wojska Polskiego, Dowódcy Generalnego Rodzajów Sił Zbrojnych lub Dowódcy Operacyjnego Rodzajów Sił Zbrojnych, którzy mieliby być zwolnieni ze służby na podstawie art. 111 pkt 5, za ich pisemną zgodą. ” ;
 
 - **6)** w art. 143 w ust. 2 pkt 3 otrzymuje brzmienie: „
-- **3)** Szef Sztabu Generalnego Wojska Polskiego, Dowódca Generalny Rodzajów Sił Zbrojnych, Dowódca Operacyjny Rodzajów Sił Zbrojnych, Szef Inspektoratu Wsparcia Sił Zbrojnych, Szef Służby Kontrwywiadu Wojskowego, Szef Służby Wywiadu Wojskowego i Komendant Główny Żandarmerii Wojskowej – w odniesieniu do stanowisk służbowych do stopnia etatowego pułkownika (komandora) włącznie w podległych jednostkach wojskowych, z zastrzeżeniem pkt 4–7; ” . W ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. Nr 104, poz. 709, z późn. zm.) w art. 10 wprowadza się następujące zmiany:
+- **3)** Szef Sztabu Generalnego Wojska Polskiego, Dowódca Generalny Rodzajów Sił Zbrojnych, Dowódca Operacyjny Rodzajów Sił Zbrojnych, Szef Inspektoratu Wsparcia Sił Zbrojnych, Szef Służby Kontrwywiadu Wojskowego, Szef Służby Wywiadu Wojskowego i Komendant Główny Żandarmerii Wojskowej – w odniesieniu do stanowisk służbowych do stopnia etatowego pułkownika (komandora) włącznie w podległych jednostkach wojskowych, z zastrzeżeniem pkt 4–7; ” . W ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. Nr 104, poz. 709, z późn. zm.Zmiany wymienione w odnośniku 2.) w art. 10 wprowadza się następujące zmiany:
 - **1)** w ust. 1 pkt 1 otrzymuje brzmienie: „
 - **1)** ze Sztabem Generalnym Wojska Polskiego i innymi komórkami organizacyjnymi Ministerstwa Obrony Narodowej oraz Dowódcą Generalnym Rodzajów Sił Zbrojnych, Dowódcą Operacyjnym Rodzajów Sił Zbrojnych, Szefem Inspektoratu Wsparcia Sił Zbrojnych, dowódcami garnizonów wojskowych i jednostek wojskowych; ” ;
 - **2)** ust. 2 otrzymuje brzmienie: „
@@ -228,5 +227,5 @@ source: "eli-html"
 
 **Art. 16.** Z dniem wejścia w życie ustawy część Sił Zbrojnych Rzeczypospolitej Polskiej podporządkowana na podstawie dotychczasowych przepisów Dowódcy Operacyjnemu Sił Zbrojnych staje się częścią Sił Zbrojnych Rzeczypospolitej Polskiej podporządkowaną Dowódcy Operacyjnemu Rodzajów Sił Zbrojnych.
 
-**Art. 17.** Ustawa wchodzi w życie z dniem 1 stycznia 2014 r.
+**Art. 17.** Ustawa wchodzi w życie z dniem 1 stycznia 2014 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 1 grudnia 1961 r. o izbach morskich, ustawę z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawę z dnia 12 października 1990 r. o ochronie granicy państwowej, ustawę z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej oraz zasadach ich przemieszczania się przez to terytorium, ustawę z dnia 11 kwietnia 2003 r. o świadczeniach odszkodowawczych przysługujących w razie wypadków i chorób pozostających w związku ze służbą wojskową, ustawę z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych, ustawę z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego, ustawę z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich oraz ustawę z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, z 2009 r. Nr 85, poz. 716, z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 22, poz. 114, Nr 53, poz. 273 i Nr 84, poz. 455, z 2012 r. poz. 707 oraz z 2013 r. poz. 628. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 228, poz. 1368 oraz z 2012 r. poz. 1068. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1407 i 1445. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 164, poz. 1108 oraz z 2011 r. Nr 50, poz. 255 i Nr 217, poz. 1280. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 536 i Nr 210, poz. 2036, z 2004 r. Nr 172, poz. 1805, z 2010 r. Nr 122, poz. 825 oraz z 2011 r. Nr 112, poz. 654. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 179, poz. 1750, z 2005 r. Nr 130, poz. 1085, z 2009 r. Nr 161, poz. 1278, z 2010 r. Nr 113, poz. 745 oraz z 2011 r. Nr 22, poz. 114. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 22, poz. 114, Nr 112, poz. 654, Nr 122, poz. 696, Nr 171, poz. 1016 i Nr 236, poz. 1396 oraz z 2013 r. poz. 675 i 829. 9) Zmiany wymienione w odnośniku 2.
 

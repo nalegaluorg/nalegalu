@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-01-26 |
 | Data wydania | 2016-02-05 |
-| Wejście w życie | 2016-02-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000151) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/151/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 100 § 14 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 100 § 14 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247, z 2014 r. poz. 486, 579, 786 i 969 oraz z 2015 r. poz. 21, 396, 841, 1186, 1269, 1549, 1707 i 1855.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -76,8 +75,7 @@ organu uprawnionego do poboru należności wynikających z grzywien nałożonych
 a)
 udziela informacji dotyczących wysokości grzywny, danych ukaranego, podpisu ukaranego na formularzu oraz podpisu funkcjonariusza (pracownika) organu uprawnionego,
 b)
-przekazuje odcinek formularza oraz odcinek formularza mandatu karnego wygenerowanego przy wykorzystaniu systemu teleinformatycznego, przeznaczony dla organu, którego funkcjonariusz nałożył mandat, lub inne dokumenty niezbędne do wykonywania zadań przez organ uprawniony do poboru
-w terminie wyznaczonym we wniosku, nie dłuższym niż 30 dni od jego otrzymania.
+przekazuje odcinek formularza oraz odcinek formularza mandatu karnego wygenerowanego przy wykorzystaniu systemu teleinformatycznego, przeznaczony dla organu, którego funkcjonariusz nałożył mandat, lub inne dokumenty niezbędne do wykonywania zadań przez organ uprawniony do poboru – w terminie wyznaczonym we wniosku, nie dłuższym niż 30 dni od jego otrzymania.
 2.
 Wniosek, o którym mowa w ust. 1, podpisany podpisem potwierdzonym profilem zaufanym ePUAP, jest przekazywany przez elektroniczną skrzynkę podawczą dyrektora izby skarbowej i organu uprawnionego bądź organu uprawnionego do poboru i organu uprawnionego.
 3.
@@ -151,5 +149,5 @@ Rozliczenia z funkcjonariuszem (pracownikiem) nakładającym grzywny w drodze ma
 2.
 Do mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego przepis ust. 1 stosuje się odpowiednio.
 § 15.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 9 grudnia 1994 r. w sprawie sposobu dokumentacji i ewidencji grzywien za wykroczenia, ściąganych w postępowaniu mandatowym, oraz organów właściwych w sprawach rozprowadzania i rozliczania bloczków mandatowych (Dz. U. Nr 131, poz. 663 oraz z 2011 r. Nr 193, poz. 1143), które utraciło moc z dniem 1 stycznia 2016 r. w związku z wejściem w życie art. 41 ustawy z dnia 10 lipca 2015 r. o administracji podatkowej (Dz. U. poz. 1269, 1513 i 2184). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247, z 2014 r. poz. 486, 579, 786 i 969 oraz z 2015 r. poz. 21, 396, 841, 1186, 1269, 1549, 1707 i 1855. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 9 grudnia 1994 r. w sprawie sposobu dokumentacji i ewidencji grzywien za wykroczenia, ściąganych w postępowaniu mandatowym, oraz organów właściwych w sprawach rozprowadzania i rozliczania bloczków mandatowych (Dz. U. Nr 131, poz. 663 oraz z 2011 r. Nr 193, poz. 1143), które utraciło moc z dniem 1 stycznia 2016 r. w związku z wejściem w życie art. 41 ustawy z dnia 10 lipca 2015 r. o administracji podatkowej (Dz. U. poz. 1269, 1513 i 2184).
 

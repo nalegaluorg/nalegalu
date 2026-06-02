@@ -22,11 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1985-07-31 |
 | Data wydania | 1985-08-21 |
-| Wejście w życie | 1986-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19850370174) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1985/174/text.pdf) |
 
 W celu umocnienia nowych zasad funkcjonowania gospodarki oraz usprawnienia mechanizmów reformy gospodarczej w dostosowaniu do obiektywnych uwarunkowań i potrzeb dalszego rozwoju społeczno-gospodarczego kraju stanowi się, co następuje:
+Podatek od ponadnormatywnych wypłat wynagrodzeń
 
 **Art. 1.** W ustawie z dnia 26 lutego 1982 r. o cenach (Dz. U. z 1984 r. Nr 13, poz. 59) wprowadza się następujące zmiany:
 
@@ -125,7 +125,7 @@ W celu umocnienia nowych zasad funkcjonowania gospodarki oraz usprawnienia mecha
 
 - **5)** po art. 29 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Podatek od ponadnormatywnych wypłat wynagrodzeń
+#### Rozdział 3a
 
 **Art. 29a.**
 

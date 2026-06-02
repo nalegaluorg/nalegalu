@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 18 października 2021 r. w sprawie formy i szczegółowego zakresu wzorcowych medycznych procedur radiologicznych dla standardowych ekspozycji medycznych oraz szczegółowych medycznych procedur radiologicznych
+# Rozporządzenie Ministra Zdrowiaz dnia 18 października 2021 r. w sprawie formy i szczegółowego zakresu wzorcowych medycznych procedur radiologicznych dla standardowych ekspozycji medycznych oraz szczegółowych medycznych procedur radiologicznych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-18 |
 | Data wydania | 2021-10-25 |
-| Wejście w życie | 2021-10-26 |
 | Ostatnia zmiana | 2025-12-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001920) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1920/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 33zm ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2021 r. poz. 623 i 784) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiającą podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywy 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, str. 1, Dz. Urz. UE L 72 z 17.03.2016, str. 69, Dz. Urz. UE L 152 z 11.06.2019, str. 128 oraz Dz. Urz. UE L 324 z 13.12.2019, str. 80). Na podstawie art. 33zm ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2021 r. poz. 623 i 784) zarządza się, co następuje:
 § 1.
 1.
 Rozporządzenie określa formę i szczegółowy zakres wzorcowych medycznych procedur radiologicznych dla standardowych ekspozycji medycznych, zwanych dalej „procedurami wzorcowymi”, oraz szczegółowych medycznych procedur radiologicznych opracowanych w jednostce ochrony zdrowia, zwanych dalej „procedurami szczegółowymi”.
@@ -124,6 +123,5 @@ Komisje do spraw procedur i audytów klinicznych zewnętrznych, o których mowa 
 2.
 Jednostki ochrony zdrowia dostosują opracowane w tych jednostkach szczegółowe medyczne procedury radiologiczne, o których mowa w art. 33f ust. 1 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe, do zakresu wynikającego z przepisów rozporządzenia, w terminie 24 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiającą podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywy 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, str. 1, Dz. Urz. UE L 72 z 17.03.2016, str. 69, Dz. Urz. UE L 152 z 11.06.2019, str. 128 oraz Dz. Urz. UE L 324 z 13.12.2019, str. 80). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 2 lutego 2007 r. w sprawie szczegółowych wymagań dotyczących formy i treści wzorcowych i roboczych medycznych procedur radiologicznych (Dz. U. poz. 161), które utraciło moc z dniem 24 września 2021 r. zgodnie z art. 37 ust. 1 pkt 1 ustawy z dnia 13 czerwca 2019 r. o zmianie ustawy – Prawo atomowe oraz ustawy o ochronie przeciwpożarowej (Dz. U. poz. 1593 oraz z 2020 r. poz. 284).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 2 lutego 2007 r. w sprawie szczegółowych wymagań dotyczących formy i treści wzorcowych i roboczych medycznych procedur radiologicznych (Dz. U. poz. 161), które utraciło moc z dniem 24 września 2021 r. zgodnie z art. 37 ust. 1 pkt 1 ustawy z dnia 13 czerwca 2019 r. o zmianie ustawy – Prawo atomowe oraz ustawy o ochronie przeciwpożarowej (Dz. U. poz. 1593 oraz z 2020 r. poz. 284). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiającą podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywy 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, str. 1, Dz. Urz. UE L 72 z 17.03.2016, str. 69, Dz. Urz. UE L 152 z 11.06.2019, str. 128 oraz Dz. Urz. UE L 324 z 13.12.2019, str. 80). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 2 lutego 2007 r. w sprawie szczegółowych wymagań dotyczących formy i treści wzorcowych i roboczych medycznych procedur radiologicznych (Dz. U. poz. 161), które utraciło moc z dniem 24 września 2021 r. zgodnie z art. 37 ust. 1 pkt 1 ustawy z dnia 13 czerwca 2019 r. o zmianie ustawy – Prawo atomowe oraz ustawy o ochronie przeciwpożarowej (Dz. U. poz. 1593 oraz z 2020 r. poz. 284).
 

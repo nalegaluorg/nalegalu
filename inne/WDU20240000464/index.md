@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 26 marca 2024 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie programu pilotażowego „Profilaktyka 40 PLUS”
+# Rozporządzenie Ministra Zdrowiaz dnia 26 marca 2024 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie programu pilotażowego „Profilaktyka 40 PLUS” Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-26 |
 | Data wydania | 2024-03-28 |
-| Wejście w życie | 2024-03-31 |
 | Ostatnia zmiana | 2024-04-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000464) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/464/text.pdf) |
 
@@ -37,6 +36,5 @@ w § 2 w ust. 2 wyrazy „31 marca 2024 r.” zastępuje się wyrazami „30 cze
 3)
 w § 3 skreśla się wyrazy „, z wyjątkiem § 1 pkt 3, który wchodzi w życie z dniem 1 kwietnia 2024 r”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 31 marca 2024 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie z dniem 31 marca 2024 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

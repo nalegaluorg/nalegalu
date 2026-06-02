@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji i Naukiz dnia 31 sierpnia 2022 r. zmieniające rozporządzenie wsprawie zakresu i warunków przyznawania świadczeń przysługujących nauczycielom polskim skierowanym lub delegowanym do pracy za granicą
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 31 sierpnia 2022 r. zmieniające rozporządzenie wsprawie zakresu i warunków przyznawania świadczeń przysługujących nauczycielom polskim skierowanym lub delegowanym do pracy za granicą Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842).
 
 | Pole | Wartość |
 |---|---|
@@ -22,20 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-31 |
 | Data wydania | 2022-09-05 |
-| Wejście w życie | 2022-09-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001859) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1859/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 47 ust. 3 pkt 3 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 47 ust. 3 pkt 3 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 655, 1079, 1116, 1383, 1700 i 1730.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Edukacji Narodowej z dnia 26 lipca 2018 r. w sprawie zakresu i warunków przyznawania świadczeń przysługujących nauczycielom polskim skierowanym lub delegowanym do pracy za granicą (Dz. U. poz. 1494 oraz z 2020 r. poz. 2182) wprowadza się następujące zmiany:
 1)
-po § 2 dodaje się § 2a w brzmieniu:
-„
+po § 2 dodaje się § 2a w brzmieniu: „
 § 2a.
-Ryczałt przysługuje także nauczycielom, którzy w związku z wystąpieniem na danym terenie zagrożenia związanego z sytuacją epidemiologiczną lub innego zdarzenia zagrażającego bezpieczeństwu lub zdrowiu uczniów, prowadzą zajęcia z wykorzystaniem metod i technik kształcenia na odległość.
-” ;
+Ryczałt przysługuje także nauczycielom, którzy w związku z wystąpieniem na danym terenie zagrożenia związanego z sytuacją epidemiologiczną lub innego zdarzenia zagrażającego bezpieczeństwu lub zdrowiu uczniów, prowadzą zajęcia z wykorzystaniem metod i technik kształcenia na odległość. ” ;
 2)
 w § 4:
 a)
@@ -48,6 +45,5 @@ Ryczałt, o którym mowa w § 2 pkt 1 rozporządzenia zmienianego w § 1, w wyso
 2.
 Wyrównanie wysokości ryczałtu, o którym mowa w § 2 pkt 1 rozporządzenia zmienianego w § 1, za okres od dnia 1 września 2022 r. wypłaca się w terminie do dnia 10 października 2022 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 655, 1079, 1116, 1383, 1700 i 1730.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 655, 1079, 1116, 1383, 1700 i 1730.
 

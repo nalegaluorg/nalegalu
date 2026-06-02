@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2016 r. poz. 38), z uwzględnieniem zmian wprowadzonych ustawą z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 grudnia 2022 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 824 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 824 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), który stanowi: „
 
 **Art. 824.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 
@@ -139,9 +138,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 1. Mundury ustanawiane na podstawie ustawy powinny różnić się w sposób widoczny od pozostających pod szczególną ochroną mundurów:
 
 - **1)** Wojska Polskiego, będących symbolem tradycji wolnościowych i postaw patriotycznych Narodu Polskiego;
-- **2)** Policji, Straży Granicznej, będących symbolem poszanowania prawa oraz ładu i porządku publicznego.
-
-2. Minister Obrony Narodowej w odniesieniu do munduru wojskowego, a minister właściwy do spraw wewnętrznych w odniesieniu do munduru policyjnego i Straży Granicznej, określą, w drodze rozporządzeń, części munduru, których używanie jest dozwolone, uwzględniając konieczność poszanowania tradycji wolnościowych i postaw patriotycznych Narodu Polskiego oraz prawa, ładu i porządku publicznego.
+- **2)** Policji, Straży Granicznej, będących symbolem poszanowania prawa oraz ładu i porządku publicznego. 2W brzmieniu ustalonym przez art. 701 pkt 2 ustawy, o której mowa w odnośniku 1.. Minister Obrony Narodowej w odniesieniu do munduru wojskowego, a minister właściwy do spraw wewnętrznych w odniesieniu do munduru policyjnego i Straży Granicznej, określą, w drodze rozporządzeń, części munduru, których używanie jest dozwolone, uwzględniając konieczność poszanowania tradycji wolnościowych i postaw patriotycznych Narodu Polskiego oraz prawa, ładu i porządku publicznego.
 
 3. Żandarmeria Wojskowa może kontrolować uprawnienia do używania odznak i mundurów wojskowych.
 
@@ -167,5 +164,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Przepis ust. 1 stosuje się odpowiednio do mundurów ustalonych na podstawie dotychczasowych przepisów, gdy chodzi o używanie tych mundurów.
 
-**Art. 18.** Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia.
+**Art. 18.** Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszeniaUstawa została ogłoszona w dniu 30 grudnia 1978 r.. 1) Dodany przez art. 701 pkt 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), która weszła w życie z dniem 23 kwietnia 2022 r. 2) W brzmieniu ustalonym przez art. 701 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Ustawa została ogłoszona w dniu 30 grudnia 1978 r.
 

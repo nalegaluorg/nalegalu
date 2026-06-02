@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 12 lutego 2021 r. zmieniające rozporządzenie w sprawie sposobu przesyłania deklaracji i podań oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 12 lutego 2021 r. zmieniające rozporządzenie w sprawie sposobu przesyłania deklaracji i podań oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-02-12 |
 | Data wydania | 2021-02-12 |
-| Wejście w życie | 2021-02-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000285) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/285/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 3b § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatk
 § 1.
 W rozporządzeniu Ministra Rozwoju i Finansów z dnia 19 września 2017 r. w sprawie sposobu przesyłania deklaracji i podań oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone (Dz. U. z 2021 r. poz. 52) wprowadza się następujące zmiany:
 1)
-w § 2 ust. 2 otrzymuje brzmienie:
-„
+w § 2 ust. 2 otrzymuje brzmienie: „
 2.
-Wniosek o zastosowanie opodatkowania w formie karty podatkowej (PIT-16/PIT-16S), informacja o zmianach we wniosku o zastosowanie karty podatkowej lub likwidacji prowadzonej działalności (PIT-16Z/PIT-16ZS) oraz zgłoszenie rejestracyjne w zakresie podatku od towarów i usług (VAT-R) mogą być przesyłane również przez Centralną Ewidencję i Informację o Działalności Gospodarczej.
-” ;
+Wniosek o zastosowanie opodatkowania w formie karty podatkowej (PIT-16/PIT-16S), informacja o zmianach we wniosku o zastosowanie karty podatkowej lub likwidacji prowadzonej działalności (PIT-16Z/PIT-16ZS) oraz zgłoszenie rejestracyjne w zakresie podatku od towarów i usług (VAT-R) mogą być przesyłane również przez Centralną Ewidencję i Informację o Działalności Gospodarczej. ” ;
 2)
 w § 6:
 a)
@@ -43,14 +40,11 @@ w pkt 1 wyrazy „(PIT-16)” zastępuje się wyrazami „(PIT-16/PIT-16S)”,
 b)
 w pkt 3 wyrazy „(PIT-16Z)” zastępuje się wyrazami „(PIT-16Z/PIT-16ZS)”,
 c)
-w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu:
-„
+w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
 12)
-podania w sprawach innych niż wymienione w pkt 11.
-” ;
+podania w sprawach innych niż wymienione w pkt 11. ” ;
 3)
-§ 7 otrzymuje brzmienie:
-„
+§ 7 otrzymuje brzmienie: „
 § 7.
 1.
 W przypadku deklaracji i podań wymienionych w § 6 pkt 1–11 podpis elektroniczny, o którym mowa w § 4 pkt 2, jest oparty na zestawie unikalnych danych w postaci elektronicznej użytkownika portalu podatkowego:
@@ -75,27 +69,25 @@ W przypadku podań wymienionych w § 6 pkt 12 podpis elektroniczny, o którym mo
 1)
 środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej, albo
 2)
-certyfikatu, o którym mowa w art. 19e ust. 2a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, wydanego użytkownikowi publicznej aplikacji mobilnej po uwierzytelnieniu w sposób określony w art. 20a ust. 1 tej ustawy.
-” ;
+certyfikatu, o którym mowa w art. 19e ust. 2a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, wydanego użytkownikowi publicznej aplikacji mobilnej po uwierzytelnieniu w sposób określony w art. 20a ust. 1 tej ustawy. ” ;
 4)
 w § 10:
 a)
-w pkt 1 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f i g w brzmieniu:
-„
+w pkt 1 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f i g w brzmieniu: „
 f)
 zeznanie o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych za rok (PIT-28),
 g)
-zeznanie o wysokości osiągniętego dochodu (poniesionej straty) w roku podatkowym (PIT-36);
-” ,
+zeznanie o wysokości osiągniętego dochodu (poniesionej straty) w roku podatkowym (PIT-36); ” ,
 b)
 w pkt 2:
 – w lit. a wyrazy „(PIT-16)” zastępuje się wyrazami „(PIT-16/PIT-16S)”,
-– w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ c) informacja o zmianach we wniosku o zastosowanie karty podatkowej lub likwidacji prowadzonej działalności (PIT-16Z/PIT-16ZS); ” ;
+w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „
+c)
+informacja o zmianach we wniosku o zastosowanie karty podatkowej lub likwidacji prowadzonej działalności (PIT-16Z/PIT-16ZS); ” ;
 5)
 w § 11:
 a)
-pkt 2–4 otrzymują brzmienie:
-„
+pkt 2–4 otrzymują brzmienie: „
 2)
 deklaracje o podatku od towarów i usług:
 a)
@@ -105,41 +97,33 @@ b)
 3)
 deklaracja o podatku od towarów i usług od wewnątrzwspólnotowego nabycia nowych środków transportu (VAT-10);
 4)
-deklaracja o podatku od towarów i usług od wewnątrzwspólnotowej dostawy nowych środków transportu (VAT-11);
-” ,
+deklaracja o podatku od towarów i usług od wewnątrzwspólnotowej dostawy nowych środków transportu (VAT-11); ” ,
 b)
-pkt 9 i 10 otrzymują brzmienie:
-„
+pkt 9 i 10 otrzymują brzmienie: „
 9)
 informacja podsumowująca o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock (VAT-UE);
 10)
-korekta informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock (VAT-UEK);
-” ,
+korekta informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock (VAT-UEK); ” ,
 c)
-pkt 17 otrzymuje brzmienie:
-„
+pkt 17 otrzymuje brzmienie: „
 17)
-zeznanie o wysokości osiągniętego dochodu z zagranicznej jednostki kontrolowanej i należnego podatku dochodowego od osób fizycznych za rok podatkowy (PIT-CFC);
-” ,
+zeznanie o wysokości osiągniętego dochodu z zagranicznej jednostki kontrolowanej i należnego podatku dochodowego od osób fizycznych za rok podatkowy (PIT-CFC); ” ,
 d)
 w pkt 26 wyrazy „(PIT-16Z)” zastępuje się wyrazami „(PIT-16Z/PIT-16ZS)”,
 e)
 w pkt 29 wyrazy „(PIT-16)” zastępuje się wyrazami „(PIT-16/PIT-16S)”,
 f)
-w pkt 46 kropkę zastępuje się średnikiem i dodaje się pkt 47 i 48 w brzmieniu:
-„
+w pkt 46 kropkę zastępuje się średnikiem i dodaje się pkt 47 i 48 w brzmieniu: „
 47)
 deklaracja o wysokości dochodu z niezrealizowanych zysków (PIT-NZ);
 48)
-deklaracja o wysokości dochodu z niezrealizowanych zysków osiągniętego przez przedsiębiorstwo w spadku (PIT-NZS).
-” ;
+deklaracja o wysokości dochodu z niezrealizowanych zysków osiągniętego przez przedsiębiorstwo w spadku (PIT-NZS). ” ;
 6)
 w § 12 w ust. 2:
 a)
 we wprowadzeniu do wyliczenia wyrazy „29–46” zastępuje się wyrazami „29–48”,
 b)
-pkt 5 otrzymuje brzmienie:
-„
+pkt 5 otrzymuje brzmienie: „
 5)
 wysokości przychodu wykazanego, odpowiednio, w:
 a)
@@ -155,9 +139,7 @@ poz. 24 lub 34 zeznania o wysokości osiągniętego dochodu (poniesionej straty)
 f)
 poz. 20 zeznania o wysokości osiągniętego dochodu (poniesionej straty) w roku podatkowym (PIT-39),
 g)
-poz. 36 lub 38 rocznego obliczenia podatku przez organ rentowy za rok podatkowy (PIT-40A)
-za rok podatkowy o dwa lata wcześniejszy niż rok przesyłania deklaracji lub podań albo wartość „0” (zero), gdy za ten rok podatkowy nie złożono żadnego z wymienionych zeznań lub obliczeń.
-” .
+poz. 36 lub 38 rocznego obliczenia podatku przez organ rentowy za rok podatkowy (PIT-40A) – za rok podatkowy o dwa lata wcześniejszy niż rok przesyłania deklaracji lub podań albo wartość „0” (zero), gdy za ten rok podatkowy nie złożono żadnego z wymienionych zeznań lub obliczeń. ” .
 § 2.
 1.
 Zeznania, o których mowa w § 10 pkt 1 lit. f i g rozporządzenia zmienianego w § 1, przesyłane za lata podatkowe rozpoczynające się po dniu 31 grudnia 2019 r., mogą być opatrywane podpisem elektronicznym, o którym mowa w § 4 pkt 4 rozporządzenia zmienianego w § 1.
@@ -176,6 +158,5 @@ poz. 38 lub 40 rocznego obliczenia podatku przez organ rentowy za rok podatkowy 
 § 3.
 Przepisy § 6 pkt 12 i § 7 ust. 2 i 3 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do podań składanych na portalu podatkowym od dnia 1 lutego 2021 r.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 15 lutego 2021 r.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Rozporządzenie wchodzi w życie z dniem 15 lutego 2021 r. 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 

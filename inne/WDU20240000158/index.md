@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 23 października 2020 r. w sprawie szczegółowych warunków, form i trybu realizacji Rządowego programu rozwijania szkolnej infrastruktury oraz kompetencji uczniów i nauczycieli w zakresie technologii informacyjno-komunikacyjnych na lata 2020–2024 – „Aktywna tablica” (Dz. U. poz. 1883), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 27 sierpnia 2021 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków, form i trybu realizacji Rządowego programu rozwijania szkolnej infrastruktury oraz kompetencji uczniów i nauczycieli w zakresie technologii informacyjno-komunikacyjnych na lata 2020–2024 – „Aktywna tablica” (Dz. U. poz. 1602).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–5 rozporządzenia Rady Ministrów z dnia 27 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków, form i trybu realizacji Rządowego programu rozwijania szkolnej infrastruktury oraz kompetencji uczniów i nauczycieli w zakresie technologii informacyjno-komunikacyjnych na lata 2020–2024 – „Aktywna tablica” (Dz. U. poz. 1602), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–5 rozporządzenia Rady Ministrów z dnia 27 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków, form i trybu realizacji Rządowego programu rozwijania szkolnej infrastruktury oraz kompetencji uczniów i nauczycieli w zakresie technologii informacyjno-komunikacyjnych na lata 2020–2024 – „Aktywna tablica” (Dz. U. poz. 1602), które stanowią: „
 § 2.
 Organy prowadzące szkoły, o których mowa w § 2 ust. 3–6 rozporządzenia zmienianego w § 1, które otrzymały wsparcie finansowe w 2020 r. na zakup laptopów wraz ze sprzętem umożliwiającym przetwarzanie wizerunku i głosu udostępnianego przez ucznia lub nauczyciela w czasie rzeczywistym za pośrednictwem transmisji audiowizualnej, nie mogą wystąpić o udzielenie wsparcia finansowego w latach 2021–2024 na zakup sprzętu, pomocy dydaktycznych lub narzędzi do terapii, o których mowa w § 2 ust. 3 pkt 2, ust. 4 pkt 2, ust. 5 pkt 2 i ust. 6 pkt 2 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
@@ -53,8 +52,7 @@ wniosków o udział w Programie, o których mowa w § 8 ust. 1 rozporządzenia z
 2)
 wniosków o udział w Programie, o których mowa w § 8 ust. 1 rozporządzenia zmienianego w § 1, pochodzących od dyrektorów specjalnych ośrodków szkolno-wychowawczych, o których mowa w § 2 ust. 1 pkt 7 rozporządzenia zmienianego w § 1,
 3)
-wniosków o udzielenie wsparcia finansowego, o których mowa w § 9 ust. 1 rozporządzenia zmienianego w § 1, pochodzących od organów prowadzących, o których mowa w § 3 ust. 1 pkt 1–3 rozporządzenia zmienianego w § 1
-złożonych w 2021 r. zgodnie z przepisami rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, z zastrzeżeniem terminów określonych w § 3 pkt 3 i 4.
+wniosków o udzielenie wsparcia finansowego, o których mowa w § 9 ust. 1 rozporządzenia zmienianego w § 1, pochodzących od organów prowadzących, o których mowa w § 3 ust. 1 pkt 1–3 rozporządzenia zmienianego w § 1 – złożonych w 2021 r. zgodnie z przepisami rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, z zastrzeżeniem terminów określonych w § 3 pkt 3 i 4.
 2.
 W przypadku gdy dyrektorzy szkół, o których mowa w § 2 ust. 1 pkt 1–6 rozporządzenia zmienianego w § 1, którzy w 2021 r. złożyli zgodnie z przepisami rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, wnioski o udział w Programie, o których mowa w § 8 ust. 1 rozporządzenia zmienianego w § 1, nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia, zamierzają w 2021 r. ubiegać się również o udzielenie wsparcia finansowego na zakup laptopów wraz ze sprzętem umożliwiającym przetwarzanie wizerunku i głosu udostępnianego przez ucznia lub nauczyciela w czasie rzeczywistym za pośrednictwem transmisji audiowizualnej lub zakup zestawów dla nauczycieli do prowadzenia zajęć z wykorzystaniem metod i technik kształcenia na odległość, w skład którego wchodzą: laptop, dodatkowa kamera internetowa, dodatkowe słuchawki, dodatkowy mikrofon, statyw, tablet graficzny lub tablet innego rodzaju służący w szczególności do rysowania elementów graficznych na komputerze lub monitorze, składają nowy wniosek o udział w Programie, o którym mowa w § 8 ust. 1 rozporządzenia zmienianego w § 1. W takim przypadku dotychczasowe wnioski o udział w Programie, o których mowa w § 8 ust. 1 rozporządzenia zmienianego w § 1, złożone zgodnie z przepisami rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia pozostawia się bez rozpoznania.
 3.
@@ -62,13 +60,12 @@ W przypadku gdy organy prowadzące szkoły, o których mowa w § 3 ust. 1 pkt 1�
 4.
 W przypadku złożenia nowych wniosków o udział w Programie oraz nowych wniosków o udzielenie wsparcia finansowego, o których mowa odpowiednio w ust. 2 i 3, stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Rady Ministrów z dnia 23 października 2020 r. w sprawie szczegółowych warunków, form i trybu realizacji Rządowego programu rozwijania szkolnej infrastruktury oraz kompetencji uczniów i nauczycieli w zakresie technologii informacyjno-komunikacyjnych na lata 2020–2024 – „Aktywna tablica”
-Na podstawie art. 90u ust. 4 pkt 6 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r. poz. 1234 i 2005) zarządza się, co następuje:
+Na podstawie art. 90u ust. 4 pkt 6Art. 90u ust. 4 pkt 6 zmieniony przez art. 1 pkt 11 lit. b ustawy z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1116 oraz z 2023 r. poz. 2005), która weszła w życie z dniem 27 maja 2022 r.; zgodnie z art. 40 pkt 2 tej ustawy dotychczasowe przepisy wykonawcze wydane na podstawie art. 90u ust. 4 pkt 6 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r. poz. 1234 i 2005), w brzmieniu dotychczasowym, dotyczące realizacji danego programu rządowego przyjętego na podstawie art. 90u ust. 1 pkt 6 ustawy z dnia 7 września 1991 r. o systemie oświaty, w brzmieniu dotychczasowym, zachowują moc do czasu zakończenia realizacji danego programu rządowego i mogą być zmieniane na podstawie tego przepisu. ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r. poz. 1234 i 2005) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
-1)
+1Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 27 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków, form i trybu realizacji Rządowego programu rozwijania szkolnej infrastruktury oraz kompetencji uczniów i nauczycieli w zakresie technologii informacyjno-komunikacyjnych na lata 2020–2024 – „Aktywna tablica” (Dz. U. poz. 1602), które weszło w życie z dniem 1 września 2021 r.)
 zakres i formę finansowego wspierania organów prowadzących szkoły podstawowe, szkoły ponadpodstawowe dla dzieci i młodzieży: licea ogólnokształcące, technika, branżowe szkoły I stopnia, szkoły artystyczne realizujące kształcenie ogólne w zakresie szkoły podstawowej lub liceum ogólnokształcącego oraz specjalne ośrodki szkolno-wychowawcze dla uczniów niewidomych lub słabowidzących w obszarze rozwijania szkolnej infrastruktury oraz kompetencji uczniów i nauczycieli w zakresie stosowania technologii informacyjno-komunikacyjnych realizowanego na podstawie Rządowego programu rozwijania szkolnej infrastruktury oraz kompetencji uczniów i nauczycieli w zakresie technologii informacyjno-komunikacyjnych na lata 2020–2024 – „Aktywna tablica”, ustanowionego uchwałą nr 151/2020 Rady Ministrów z dnia 23 października 2020 r., zmienioną uchwałą nr 109/2021 Rady Ministrów z dnia 20 sierpnia 2021 r., zwanego dalej „Programem”;
 2)
 zakres informacji, jakie zawierają wniosek o udział w Programie i wniosek o udzielenie wsparcia finansowego;
@@ -96,8 +93,7 @@ publiczne i niepubliczne szkoły ponadpodstawowe dla dzieci i młodzieży (licea
 publiczne szkoły ponadpodstawowe dla dzieci i młodzieży w zakładach poprawczych i schroniskach dla nieletnich (branżowe szkoły I stopnia), o których mowa w art. 8 ust. 12 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe
 – zwane dalej „szkołami ponadpodstawowymi”,
 7)
-specjalne ośrodki szkolno-wychowawcze, o których mowa w art. 2 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, dla uczniów niewidomych lub słabowidzących, zwane dalej „SOSW”
-może być udzielone wsparcie finansowe ze środków budżetu państwa, zwane dalej „wsparciem finansowym”.
+specjalne ośrodki szkolno-wychowawcze, o których mowa w art. 2 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, dla uczniów niewidomych lub słabowidzących, zwane dalej „SOSW” – może być udzielone wsparcie finansowe ze środków budżetu państwa, zwane dalej „wsparciem finansowym”.
 2.
 Wsparcie finansowe może być udzielone na zakup sprzętu, pomocy dydaktycznych i narzędzi do terapii, o których mowa w ust. 3–7, niezbędnych do realizacji programów nauczania z wykorzystaniem technologii informacyjno-komunikacyjnych, zwanych dalej „TIK”, w celu stosowania TIK na zajęciach, o których mowa w art. 109 ust. 1, 2 i 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
 3.
@@ -116,7 +112,7 @@ d)
 głośników lub innych urządzeń pozwalających na przekaz dźwięku, lub
 e)
 interaktywnego monitora dotykowego o przekątnej ekranu co najmniej 55 cali;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 w latach 2021–2024:
 a)
 laptopów wraz ze sprzętem umożliwiającym przetwarzanie wizerunku i głosu udostępnianego przez ucznia lub nauczyciela w czasie rzeczywistym za pośrednictwem transmisji audiowizualnej,
@@ -150,7 +146,7 @@ e)
 interaktywnego monitora dotykowego o przekątnej ekranu co najmniej 55 cali, lub
 f)
 specjalistycznego oprogramowania lub materiałów edukacyjnych, wykorzystujących TIK, takie jak: wirtualne laboratoria, materiały do nauczania kodowania i robotyki;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 w latach 2021–2024:
 a)
 laptopów wraz ze sprzętem umożliwiającym przetwarzanie wizerunku i głosu udostępnianego przez ucznia lub nauczyciela w czasie rzeczywistym za pośrednictwem transmisji audiowizualnej,
@@ -172,7 +168,7 @@ specjalistycznego oprogramowania lub materiałów edukacyjnych wykorzystujących
 Organom prowadzącym szkoły podstawowe, w których uczą się uczniowie ze specjalnymi potrzebami edukacyjnymi – uczniowie niewidomi, wsparcie finansowe może być udzielone na zakup sprzętu lub pomocy dydaktycznych:
 1)
 w 2020 r. – laptopów wraz ze sprzętem umożliwiającym przetwarzanie wizerunku i głosu udostępnianego przez ucznia lub nauczyciela w czasie rzeczywistym za pośrednictwem transmisji audiowizualnej;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 2.)
 w latach 2021–2024:
 a)
 laptopów wraz ze sprzętem umożliwiającym przetwarzanie wizerunku i głosu udostępnianego przez ucznia lub nauczyciela w czasie rzeczywistym za pośrednictwem transmisji audiowizualnej,
@@ -189,7 +185,7 @@ komputera stacjonarnego lub laptopa dla uczniów niewidomych, jeżeli jest on ni
 Organom prowadzącym szkoły podstawowe, w których uczą się uczniowie ze specjalnymi potrzebami edukacyjnymi – uczniowie posiadający różnorodne zaburzenia rozwojowe, utrudniające lub uniemożliwiające prawidłowy proces kształcenia, wsparcie finansowe może być udzielone na zakup sprzętu, pomocy dydaktycznych lub narzędzi do terapii:
 1)
 w 2020 r. – laptopów wraz ze sprzętem umożliwiającym przetwarzanie wizerunku i głosu udostępnianego przez ucznia lub nauczyciela w czasie rzeczywistym za pośrednictwem transmisji audiowizualnej;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 2.)
 w latach 2021–2024:
 a)
 laptopów wraz ze sprzętem umożliwiającym przetwarzanie wizerunku i głosu udostępnianego przez ucznia lub nauczyciela w czasie rzeczywistym za pośrednictwem transmisji audiowizualnej,
@@ -215,10 +211,10 @@ drukarek druku wypukłego;
 3)
 drukarek 3D.
 8.
-Organ prowadzący w trakcie trwania Programu może otrzymać wsparcie finansowe jednokrotnie w odniesieniu do poszczególnych szkół podstawowych, szkół ponadpodstawowych, szkół za granicą i SOSW objętych wnioskiem o udzielenie wsparcia finansowego. Organ prowadzący, który w danym roku realizacji Programu otrzymał wsparcie finansowe w odniesieniu do poszczególnych szkół podstawowych, szkół ponadpodstawowych, szkół za granicą i SOSW objętych wnioskiem o udzielenie wsparcia finansowego na zakup danego sprzętu, danych pomocy dydaktycznych lub narzędzi do terapii, nie może otrzymać wsparcia finansowego w odniesieniu do tych samych szkół podstawowych, szkół ponadpodstawowych, szkół za granicą i SOSW na zakup innego sprzętu, innych pomocy dydaktycznych lub narzędzi do terapii w kolejnych latach realizacji Programu.
-9.
+Organ prowadzący w trakcie trwania Programu może otrzymać wsparcie finansowe jednokrotnie w odniesieniu do poszczególnych szkół podstawowych, szkół ponadpodstawowych, szkół za granicą i SOSW objętych wnioskiem o udzielenie wsparcia finansowego. Organ prowadzący, który w danym roku realizacji Programu otrzymał wsparcie finansowe w odniesieniu do poszczególnych szkół podstawowych, szkół ponadpodstawowych, szkół za granicą i SOSW objętych wnioskiem o udzielenie wsparcia finansowego na zakup danego sprzętu, danych pomocy dydaktycznych lub narzędzi do terapii, nie może otrzymać wsparcia finansowego w odniesieniu do tych samych szkół podstawowych, szkół ponadpodstawowych, szkół za granicą i SOSW na zakup innego sprzętu, innych pomocy dydaktycznych lub narzędzi do terapii w kolejnych latach realizacji Programu.Zdanie drugie dodane przez § 1 pkt 2 lit. e rozporządzenia, o którym mowa w odnośniku 2.
+9W brzmieniu ustalonym przez § 1 pkt 2 lit. f rozporządzenia, o którym mowa w odnośniku 2..
 Organy prowadzące szkoły podstawowe, które nie otrzymały wsparcia finansowego w latach 2017–2019, mogą wystąpić o udzielenie wsparcia finansowego w odniesieniu do tych szkół na zakup sprzętu, pomocy dydaktycznych i narzędzi do terapii, o których mowa w ust. 3 pkt 2, ust. 5 pkt 2 i ust. 6 pkt 2.
-10.
+10W brzmieniu ustalonym przez § 1 pkt 2 lit. f rozporządzenia, o którym mowa w odnośniku 2..
 Organy prowadzące szkoły podstawowe, które otrzymały wsparcie finansowe w latach 2017–2019, mogą wystąpić o udzielenie wsparcia finansowego w odniesieniu do tych szkół na zakup sprzętu, pomocy dydaktycznych i narzędzi do terapii, o których mowa w ust. 5 pkt 2 lit. c i d oraz w ust. 6 pkt 2 lit. c-e.
 11.
 W przypadku szkoły, dla której organem prowadzącym jest jeden z ministrów, o których mowa w § 3 ust. 1 pkt 4, przepisy ust. 3 i 4 stosuje się odpowiednio do dyrektora tej szkoły.
@@ -226,11 +222,11 @@ W przypadku szkoły, dla której organem prowadzącym jest jeden z ministrów, o
 Zakupione w ramach udzielonego wsparcia finansowanego sprzęt, pomoce dydaktyczne i narzędzia do terapii spełniają następujące warunki:
 1)
 posiadają deklarację CE;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. g tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
 posiadają certyfikat ISO 9001 dla producenta, z tym że warunek ten nie dotyczy sprzętu, pomocy dydaktycznych lub narzędzi do terapii stanowiących wyroby medyczne, o których mowa w pkt 3;
 3)
 zostały wytworzone zgodnie z normą medyczną PN-EN ISO 13485 – w przypadku gdy sprzęt, pomoce dydaktyczne lub narzędzia do terapii stanowią wyroby medyczne;
-4)
+4W brzmieniu ustalonym przez § 1 pkt 2 lit. g tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 są fabrycznie nowe i wolne od obciążeń prawami osób trzecich;
 5)
 posiadają dołączone niezbędne instrukcje i materiały dotyczące użytkowania, sporządzone w języku polskim;
@@ -238,7 +234,7 @@ posiadają dołączone niezbędne instrukcje i materiały dotyczące użytkowani
 posiadają okres gwarancji udzielonej przez producenta lub dostawcę nie krótszy niż 2 lata.
 13.
 Szkoły podstawowe, szkoły ponadpodstawowe, szkoły za granicą i SOSW, o których mowa w ust. 3–7, wnioskujące o udział w Programie:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 2 lit. h rozporządzenia, o którym mowa w odnośniku 2.)
 posiadają dostęp do Internetu o symetrycznej przepustowości co najmniej 100 Mb/s zgodnie z art. 7 ust. 5 ustawy z dnia 27 października 2017 r. o Ogólnopolskiej Sieci Edukacyjnej (Dz. U. z 2022 r. poz. 2454);
 2)
 posiadają co najmniej jeden pakiet następujących urządzeń i oprogramowania przypadających na jedną wnioskowaną tablicę interaktywną lub jeden wnioskowany interaktywny monitor dotykowy:
@@ -258,7 +254,7 @@ w zależności od liczby pomocy dydaktycznych i narzędzi do terapii wnioskowany
 posiadają co najmniej jeden punkt dostępowy, w którym uczniowie mają możliwość korzystania z dostępu do Internetu w ramach zajęć pozalekcyjnych oraz w dni wolne od zajęć dydaktyczno-wychowawczych.
 14.
 Warunek, o którym mowa w ust. 13 pkt 1–4, nie dotyczy szkół podstawowych, szkół ponadpodstawowych i szkół za granicą, o których mowa w ust. 3 i 4, wnioskujących o udzielenie wsparcia finansowego na zakup laptopów wraz ze sprzętem umożliwiającym przetwarzanie wizerunku i głosu udostępnianego przez ucznia lub nauczyciela w czasie rzeczywistym za pośrednictwem transmisji audiowizualnej w 2020 r.
-14a.
+14aDodany przez § 1 pkt 2 lit. i rozporządzenia, o którym mowa w odnośniku 2..
 Warunek, o którym mowa w ust. 13 pkt 2–4, nie dotyczy szkół podstawowych, szkół ponadpodstawowych i szkół za granicą, o których mowa w ust. 3–6, wnioskujących w latach 2021–2024 o udzielenie wsparcia finansowego na zakup laptopów wraz ze sprzętem umożliwiającym przetwarzanie wizerunku i głosu udostępnianego przez ucznia lub nauczyciela w czasie rzeczywistym za pośrednictwem transmisji audiowizualnej albo zestawów dla nauczycieli do prowadzenia zajęć z wykorzystaniem metod i technik kształcenia na odległość, w skład którego wchodzą: laptop, dodatkowa kamera internetowa, dodatkowe słuchawki, dodatkowy mikrofon, statyw, tablet graficzny lub tablet innego rodzaju służący w szczególności do rysowania elementów graficznych na komputerze lub monitorze.
 15.
 Warunek, o którym mowa w ust. 13 pkt 1–3, nie dotyczy szkół podstawowych, o których mowa w ust. 5 i 6, oraz SOSW, o których mowa w ust. 7.
@@ -314,7 +310,7 @@ Warunek określony w ust. 3 nie dotyczy ministrów, o których mowa w ust. 1 pkt
 8.
 Jeżeli wsparcie finansowe będzie przeznaczone na dofinansowanie zadań inwestycyjnych, o których mowa w art. 42 ust. 2 pkt 2 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2022 r. poz. 2267, z 2023 r. poz. 1586 i 2005 oraz z 2024 r. poz. 123), wkład własny organu prowadzącego, o którym mowa w ust. 1 pkt 1, wynosi co najmniej 50% kwoty kosztów realizacji zadania objętego dofinansowaniem z budżetu państwa.
 § 4.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Maksymalna wysokość wsparcia finansowego dla szkoły podstawowej, szkoły ponadpodstawowej lub szkoły za granicą, o której mowa w § 2 ust. 3 i 4, z przeznaczeniem na zakup sprzętu lub pomocy dydaktycznych, o których mowa w § 2 ust. 3 pkt 2 lit. c-f oraz ust. 4 pkt 2 lit. c-g, wynosi 14 000 zł.
 2.
 W przypadku wnioskowania przez organ prowadzący, o którym mowa w § 3 ust. 1 pkt 1–3, o udzielenie wsparcia finansowego w kwocie, o której mowa w ust. 1, wkład własny tego organu prowadzącego dla szkoły podstawowej lub szkoły ponadpodstawowej, o której mowa w § 2 ust. 3 i 4, wynosi co najmniej 3500 zł.
@@ -322,7 +318,7 @@ W przypadku wnioskowania przez organ prowadzący, o którym mowa w § 3 ust. 1 p
 Wartość zadania, przy założeniu wkładu własnego, o którym mowa w ust. 2, dla szkoły podstawowej lub szkoły ponadpodstawowej, o której mowa w § 2 ust. 3 i 4, prowadzonej przez organ prowadzący, o którym mowa w § 3 ust. 1 pkt 1–3, wynosi 17 500 zł (wsparcie finansowe 14 000 zł + wkład własny 3500 zł = wartość zadania 17 500 zł).
 4.
 W przypadku wnioskowania przez organ prowadzący, o którym mowa w § 3 ust. 1 pkt 1–3, o udzielenie wsparcia finansowego w kwocie niższej niż określona w ust. 1, wkład własny tego organu prowadzącego dla szkoły podstawowej lub szkoły ponadpodstawowej, o której mowa w § 2 ust. 3 i 4, wynosi co najmniej 20% kwoty kosztów realizacji zadania objętego dofinansowaniem z budżetu państwa.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Maksymalna wysokość wsparcia finansowego dla szkoły podstawowej, o której mowa w § 2 ust. 5 i 6, z przeznaczeniem na zakup sprzętu, pomocy dydaktycznych lub narzędzi do terapii, o których mowa w § 2 ust. 5 pkt 2 lit. c i d oraz ust. 6 pkt 2 lit. c-e, wynosi 35 000 zł.
 6.
 W przypadku wnioskowania przez organ prowadzący, o którym mowa w § 3 ust. 1 pkt 1–3, o udzielenie wsparcia finansowego w kwocie, o której mowa w ust. 5, wkład własny tego organu prowadzącego dla szkoły podstawowej, o której mowa w § 2 ust. 5 i 6, wynosi co najmniej 8750 zł.
@@ -340,7 +336,7 @@ Wartość zadania, przy założeniu wkładu własnego, o którym mowa w ust. 10,
 W przypadku wnioskowania przez organ prowadzący, o którym mowa w § 3 ust. 1 pkt 1–3, o udzielenie wsparcia finansowego w kwocie niższej niż określona w ust. 9, wkład własny tego organu prowadzącego dla SOSW, o którym mowa w § 2 ust. 7, wynosi co najmniej 20% kwoty kosztów realizacji zadania objętego dofinansowaniem z budżetu państwa.
 13.
 Maksymalna wysokość wsparcia finansowego dla szkoły, o której mowa w § 2 ust. 3–6, na zakup laptopów wraz ze sprzętem umożliwiającym przetwarzanie wizerunku i głosu udostępnianego przez ucznia lub nauczyciela w czasie rzeczywistym za pośrednictwem transmisji audiowizualnej w 2020 r. wynosi 14 000 zł. Przepisy ust. 2–4 stosuje się.
-14.
+14Dodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Maksymalna wysokość wsparcia finansowego dla szkoły, o której mowa w § 2 ust. 3–6, z przeznaczeniem na zakup w latach 2021–2024 laptopów wraz ze sprzętem umożliwiającym przetwarzanie wizerunku i głosu udostępnianego przez ucznia lub nauczyciela w czasie rzeczywistym za pośrednictwem transmisji audiowizualnej albo zestawów dla nauczycieli do prowadzenia zajęć z wykorzystaniem metod i technik kształcenia na odległość, w skład którego wchodzą: laptop, dodatkowa kamera internetowa, dodatkowe słuchawki, dodatkowy mikrofon, statyw, tablet graficzny lub tablet innego rodzaju służący w szczególności do rysowania elementów graficznych na komputerze lub monitorze, wynosi 14 000 zł. Przepisy ust. 2–4 stosuje się.
 § 5.
 1.
@@ -425,11 +421,11 @@ kalkulację kosztów planowanego w ramach Programu zakupu sprzętu, pomocy dydak
 informację o planowanych sposobach korzystania z zakupionego w ramach Programu sprzętu, pomocy dydaktycznych lub narzędzi do terapii w celu zmiany sposobu nauczania lub uczenia się;
 7)
 wnioskowaną kwotę wsparcia finansowego na zakup sprzętu, pomocy dydaktycznych lub narzędzi do terapii;
-8)
+8W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 informację o udziale w projekcie „Wsparcie placówek doskonalenia nauczycieli i bibliotek pedagogicznych w realizacji zadań związanych z przygotowaniem i wsparciem nauczycieli w prowadzeniu kształcenia na odległość” realizowanym w ramach Programu Operacyjnego Wiedza Edukacja Rozwój 2014–2020 (Oś priorytetowa: II Efektywne polityki publiczne dla rynku pracy, gospodarki i edukacji, Działanie: 2.10 Wysoka jakość systemu oświaty) lub projekcie „Lekcja: Enter” realizowanym w ramach Programu Operacyjnego Polska Cyfrowa na lata 2014–2020 (Oś priorytetowa: III Cyfrowe kompetencje społeczeństwa, Działanie: 3.1 Działania szkoleniowe na rzecz rozwoju kompetencji cyfrowych);
 9)
 numer szkoły podstawowej, szkoły ponadpodstawowej lub SOSW w Rejestrze Szkół i Placówek Oświatowych, o którym mowa w art. 7 ust. 1 pkt 29 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2024 r. poz. 152);
-10)
+10Dodany przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 liczbę uczniów w szkole z wyszczególnieniem liczby uczniów ze specjalnymi potrzebami edukacyjnymi, o których mowa w § 2 ust. 5 i 6.
 3.
 Organ prowadzący, o którym mowa w § 3 ust. 1 pkt 1–4, a w przypadku szkoły za granicą – dyrektor ORPEG, weryfikuje wniosek odpowiednio dyrektora szkoły podstawowej, szkoły ponadpodstawowej, szkoły za granicą lub SOSW, pod względem prawidłowości i kompletności danych zawartych w tym wniosku.
@@ -473,11 +469,11 @@ Zespoły powołane odpowiednio przez wojewodę oraz ministrów, o których mowa 
 2020 – w terminie do dnia 3 listopada 2020 r.;
 2)
 2021 – w terminie do dnia 15 czerwca 2021 r.;
-3)
+3Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.)
 2022 – w terminie do dnia 30 czerwca 2022 r.;
-4)
+4Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.)
 2023 – w terminie do dnia 30 czerwca 2023 r.;
-5)
+5Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.)
 2024 – w terminie do dnia 30 czerwca 2024 r.
 2.
 Zespół składa się z co najmniej trzech osób, z tym że w przypadku zespołu powołanego przez:
@@ -502,7 +498,7 @@ Kwalifikacji nie podlegają wnioski niepełne lub złożone po terminie.
 Jeżeli wnioskowana, łączna kwota wsparcia finansowego dla wszystkich szkół podstawowych, szkół ponadpodstawowych, szkół za granicą i SOSW jest wyższa niż suma środków zaplanowanych na dany rok budżetowy, minister właściwy do spraw oświaty i wychowania dzieli kwotę proporcjonalnie do liczby szkół i SOSW w województwie i liczby szkół prowadzonych przez właściwego ministra oraz informuje wojewodę, właściwego ministra i dyrektora ORPEG o przyznanej kwocie wsparcia finansowego, wyliczając kwotę na obsługę zadań bezpośrednio związanych z realizacją Programu przez wojewodów.
 5.
 Jeżeli wnioskowana, łączna kwota wsparcia finansowego dla wszystkich szkół podstawowych, szkół ponadpodstawowych, szkół za granicą i SOSW jest niższa niż suma środków zaplanowanych na dany rok budżetowy, minister właściwy do spraw oświaty i wychowania przyznaje kwotę wsparcia finansowego w wysokości wynikającej ze złożonych wniosków, wyliczając kwotę na obsługę zadań bezpośrednio związanych z realizacją Programu przez wojewodów.
-6.
+6W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2..
 Jeżeli wnioskowana łączna kwota wsparcia finansowego dla wszystkich szkół podstawowych, szkół ponadpodstawowych, szkół za granicą i SOSW jest wyższa niż kwota przyznana przez ministra właściwego do spraw oświaty i wychowania, o której mowa w ust. 4, zespół, o którym mowa w § 10, dokonuje kwalifikacji w następujący sposób:
 1)
 w przypadku szkół, o których mowa w § 2 ust. 3 i 4 – w pierwszej kolejności wsparcie finansowe z przeznaczeniem na zakup sprzętu lub pomocy dydaktycznych, o których mowa odpowiednio w § 2 ust. 3 pkt 2 lub ust. 4 pkt 2, otrzymuje szkoła, która brała udział w projektach, o których mowa w § 8 ust. 2 pkt 8;
@@ -545,7 +541,7 @@ Jeżeli po opublikowaniu wykazu szkół, o którym mowa w ust. 5, dyrektor szko�
 Wojewoda, minister, o którym mowa w § 3 ust. 1 pkt 4 lit. a-b oraz d-k, oraz dyrektor ORPEG przekazują ministrowi właściwemu do spraw oświaty i wychowania zbiorcze informacje o wysokości przyznanych szkołom podstawowym, szkołom ponadpodstawowym, szkołom za granicą i SOSW kwot wsparcia finansowego wraz z kopiami protokołu, o którym mowa w § 11 ust. 11.
 § 13.
 1.
-Wojewoda udziela dotacji organom prowadzącym szkoły podstawowe, szkoły ponadpodstawowe i SOSW zakwalifikowane do objęcia wsparciem finansowym, o których mowa w § 3 ust. 1 pkt 1–3, na podstawie umowy zawartej z organem prowadzącym zgodnie z art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.).
+Wojewoda udziela dotacji organom prowadzącym szkoły podstawowe, szkoły ponadpodstawowe i SOSW zakwalifikowane do objęcia wsparciem finansowym, o których mowa w § 3 ust. 1 pkt 1–3, na podstawie umowy zawartej z organem prowadzącym zgodnie z art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.).
 2.
 Zawarcie umowy, o której mowa w ust. 1, następuje niezwłocznie po zwiększeniu budżetu wojewodów przez ministra właściwego do spraw finansów publicznych.
 3.
@@ -554,11 +550,11 @@ Przekazanie przez wojewodę organom prowadzącym, o których mowa w § 3 ust. 1 
 2020 – w terminie do dnia 30 listopada 2020 r.;
 2)
 2021 – w terminie do dnia 30 lipca 2021 r.;
-3)
+3Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2.)
 2022 – w terminie do dnia 31 sierpnia 2022 r.;
-4)
+4Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2.)
 2023 – w terminie do dnia 31 sierpnia 2023 r.;
-5)
+5Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2.)
 2024 – w terminie do dnia 31 sierpnia 2024 r.
 4.
 Wojewoda kontroluje sposób i terminowość wykonania zadań, na które została przyznana dotacja, mając na uwadze postanowienia umowy, o której mowa w ust. 1.
@@ -574,21 +570,21 @@ Minister, o którym mowa w § 3 ust. 1 pkt 4, przekazuje szkołom, dla których 
 2020 – w terminie do dnia 30 listopada 2020 r.;
 2)
 2021 – w terminie do dnia 30 lipca 2021 r.;
-3)
+3Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2.)
 2022 – w terminie do dnia 31 sierpnia 2022 r.;
-4)
+4Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2.)
 2023 – w terminie do dnia 31 sierpnia 2023 r.;
-5)
+5Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2.)
 2024 – w terminie do dnia 31 sierpnia 2024 r.
 2.
 Minister, o którym mowa w § 3 ust. 1 pkt 4, kontroluje sposób i terminowość wykonania zadań, na które zostało przyznane wsparcie finansowe.
 § 16.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2..
 Szkoły podstawowe, szkoły ponadpodstawowe i SOSW objęte wsparciem finansowym składają organom prowadzącym, o których mowa w § 3 ust. 1 pkt 1–3, sprawozdania, o których mowa w § 6 pkt 5, w terminie do dnia 31 sierpnia każdego roku następującego po roku otrzymania wsparcia finansowego.
-2.
+2Ze zmianą wprowadzoną przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2..
 Szkoły, dla których organami prowadzącymi są ministrowie, o których mowa w § 3 ust. 1 pkt 4, składają tym ministrom, a w przypadku szkół za granicą – dyrektorowi ORPEG, sprawozdania, o których mowa w § 6 pkt 5, zawierające również zestawienie ilościowo-wartościowe wydatków dokonanych w ramach udzielonego wsparcia finansowego, w terminie do dnia 31 sierpnia każdego roku następującego po roku otrzymania wsparcia finansowego.
 § 17.
-W terminie do dnia 15 września każdego roku następującego po roku otrzymania wsparcia finansowego organy prowadzące, o których mowa w § 3 ust. 1 pkt 1–3, składają wojewodom sprawozdania zawierające:
+W terminie do dnia 15 września każdego roku następującego po roku otrzymania wsparcia finansowego organy prowadzące, o których mowa w § 3 ust. 1 pkt 1–3, składają wojewodom sprawozdania zawierające:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2.
 1)
 zestawienie ilościowo-wartościowe wydatków dokonanych w ramach udzielonego wsparcia finansowego, z wyszczególnieniem wkładu własnego;
 2)
@@ -596,7 +592,7 @@ ocenę wpływu stosowania TIK w szkołach na zaangażowanie nauczycieli w proces
 3)
 charakterystykę problemów i barier w realizacji Programu.
 § 18.
-W terminie do dnia 30 września każdego roku następującego po roku otrzymania wsparcia finansowego wojewoda dokonuje oceny efektów realizacji Programu i składa ministrowi właściwemu do spraw oświaty i wychowania sprawozdanie zawierające:
+W terminie do dnia 30 września każdego roku następującego po roku otrzymania wsparcia finansowego wojewoda dokonuje oceny efektów realizacji Programu i składa ministrowi właściwemu do spraw oświaty i wychowania sprawozdanie zawierające:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2.
 1)
 zestawienie ilościowo-wartościowe wydatków dokonanych w danym województwie w ramach Programu, z wyszczególnieniem wkładu własnego organów prowadzących, o których mowa w § 3 ust. 1 pkt 1–3;
 2)
@@ -604,7 +600,7 @@ ocenę stopnia realizacji przez szkoły na terenie danego województwa zadań wy
 3)
 charakterystykę problemów i barier w realizacji Programu.
 § 19.
-W terminie do dnia 30 września każdego roku następującego po roku otrzymania wsparcia finansowego minister, o którym mowa w § 3 ust. 1 pkt 4 lit. a-b oraz d-k, oraz dyrektor ORPEG dokonują oceny efektów realizacji Programu i składają ministrowi właściwemu do spraw oświaty i wychowania sprawozdanie zawierające:
+W terminie do dnia 30 września każdego roku następującego po roku otrzymania wsparcia finansowego minister, o którym mowa w § 3 ust. 1 pkt 4 lit. a-b oraz d-k, oraz dyrektor ORPEG dokonują oceny efektów realizacji Programu i składają ministrowi właściwemu do spraw oświaty i wychowania sprawozdanie zawierające:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2.
 1)
 zestawienie ilościowo-wartościowe wydatków dokonanych w ramach Programu przez szkoły, dla których ten minister jest organem prowadzącym;
 2)
@@ -617,6 +613,5 @@ Dla celów bieżącego monitoringu realizacji Programu, na żądanie ministra w�
 2.
 Szkoły podstawowe, szkoły ponadpodstawowe, SOSW, organy prowadzące te szkoły i SOSW, wojewodowie, szkoły za granicą i dyrektor ORPEG są obowiązani do udziału w badaniach na potrzeby ewaluacji Programu.
 § 21.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Art. 90u ust. 4 pkt 6 zmieniony przez art. 1 pkt 11 lit. b ustawy z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1116 oraz z 2023 r. poz. 2005), która weszła w życie z dniem 27 maja 2022 r.; zgodnie z art. 40 pkt 2 tej ustawy dotychczasowe przepisy wykonawcze wydane na podstawie art. 90u ust. 4 pkt 6 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r. poz. 1234 i 2005), w brzmieniu dotychczasowym, dotyczące realizacji danego programu rządowego przyjętego na podstawie art. 90u ust. 1 pkt 6 ustawy z dnia 7 września 1991 r. o systemie oświaty, w brzmieniu dotychczasowym, zachowują moc do czasu zakończenia realizacji danego programu rządowego i mogą być zmieniane na podstawie tego przepisu. 2) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 27 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków, form i trybu realizacji Rządowego programu rozwijania szkolnej infrastruktury oraz kompetencji uczniów i nauczycieli w zakresie technologii informacyjno-komunikacyjnych na lata 2020–2024 – „Aktywna tablica” (Dz. U. poz. 1602), które weszło w życie z dniem 1 września 2021 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 2. 7) Zdanie drugie dodane przez § 1 pkt 2 lit. e rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 2 lit. f rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 2 lit. g tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 2 lit. g tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 2 lit. h rozporządzenia, o którym mowa w odnośniku 2. 12) Dodany przez § 1 pkt 2 lit. i rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 14) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 15) Dodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2. 16) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 2. 17) Dodany przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2. 18) Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 20) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872. 21) Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 22) Ze zmianą wprowadzoną przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 23) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 24) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. 25) Rozporządzenie zostało ogłoszone w dniu 26 października 2020 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 26 października 2020 r.. 1) Art. 90u ust. 4 pkt 6 zmieniony przez art. 1 pkt 11 lit. b ustawy z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1116 oraz z 2023 r. poz. 2005), która weszła w życie z dniem 27 maja 2022 r.; zgodnie z art. 40 pkt 2 tej ustawy dotychczasowe przepisy wykonawcze wydane na podstawie art. 90u ust. 4 pkt 6 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r. poz. 1234 i 2005), w brzmieniu dotychczasowym, dotyczące realizacji danego programu rządowego przyjętego na podstawie art. 90u ust. 1 pkt 6 ustawy z dnia 7 września 1991 r. o systemie oświaty, w brzmieniu dotychczasowym, zachowują moc do czasu zakończenia realizacji danego programu rządowego i mogą być zmieniane na podstawie tego przepisu. 2) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 27 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków, form i trybu realizacji Rządowego programu rozwijania szkolnej infrastruktury oraz kompetencji uczniów i nauczycieli w zakresie technologii informacyjno-komunikacyjnych na lata 2020–2024 – „Aktywna tablica” (Dz. U. poz. 1602), które weszło w życie z dniem 1 września 2021 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 2. 7) Zdanie drugie dodane przez § 1 pkt 2 lit. e rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 2 lit. f rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 2 lit. g tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 2 lit. g tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 2 lit. h rozporządzenia, o którym mowa w odnośniku 2. 12) Dodany przez § 1 pkt 2 lit. i rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 14) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 15) Dodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2. 16) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 2. 17) Dodany przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2. 18) Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 20) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872. 21) Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 22) Ze zmianą wprowadzoną przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 23) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 24) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. 25) Rozporządzenie zostało ogłoszone w dniu 26 października 2020 r.
 

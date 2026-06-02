@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-03-20 |
 | Data wydania | 2009-04-23 |
-| Wejście w życie | 2009-05-08 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090630520) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/520/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. Nr 179, poz. 1485, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. Nr 179, poz. 1485, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 66, poz. 469 i Nr 120, poz. 826, z 2007 r. Nr 7, poz. 48 i Nr 82, poz. 558 oraz z 2009 r. Nr 18, poz. 97.) wprowadza się następujące zmiany:
 
 - **1)** w załączniku nr 1 do ustawy „Wykaz środków odurzających” część 1 „Środki odurzające grupy I-N” otrzymuje brzmienie: „
 
@@ -36,5 +35,5 @@ source: "eli-html"
 
 2. Substancje psychotropowe grupy II-P Międzynarodowe nazwy zalecane Inne nazwy Oznaczenia chemiczne 1 2 3 2C-B 4-bromo-2,5-dimetoksyfenetyloamina AMFETAMINA Psychedryna (±)-2-amino-1-fenylopropan AMINEPTYNA Kwas 7-[(10,11-dihydro-5H-dibenzo[a, d]cy-klohepten-5-ylo)amino]-heptanowy BENZYLOPIPERAZYNA BZP 1-benzylopiperazyna, czyli 1-benzylo-1, 4-diazacykloheksan DEKSAMFETAMINA (+)-2-amino-1-fenylopropan FENCYKLIDYNA PCP 1-(1-fenylocykloheksylo)piperydyna FENETYLINA (±)-3,7-dihydro-1,3-dimetylo-7-[2-[(1-metylo-2-fenetylo)-amino]-etylo]-1H-puryno-2,6-dion FENMETRAZYNA 2-fenylo-3-metylomorfolina KETAMINA 2-(2-chlorofenylo)-2-(metyloamino)-cykloheksan LEWAMFETAMINA (-)-α-metylofenetyloamina LEWOMETAMFETAMINA (-)-1-N,α-dimetylofenetyloamina MEKLOKWALON 3-(o-chlorofenylo)-2-metylo-4(3H)-chinazolinon METAKWALON 2-metylo-3-(o-tolilo)-4(3H)-chinazolinon METAMFETAMINA Metamfetamina racemiczna (+)-2-metyloamino-1-fenylopropan (±)-2-metyloamino-1-fenylopropan METYLOFENIDAT Rytalina Fortral ester metylowy kwasu α-fenylo-(2-piperydyno)-octowego PENTAZOCYNA (2R*, 6R*, 11R*)-1,2,3,4,5,6-heksahydro-8-hydroksy-6,11-dimetylo-3-(3-metylo-2-butenylo)-2,6-metano-3-benzazocyna SEKOBARBITAL kwas 5-allilo-5-(1-metylobutylo)barbiturowy Δ-9-Tetrahydrokannabinol i jego warianty stereochemiczne (6aR,10aR)-6a,7,8,10a-tetrahydro-6,6,9-tri-metylo-3-pentylo-6H-dibenzo[b, d]piranol ZIPEPROL α-(α-metoksybenzylo-4-β-metoksyfenylo)-1-piperazynoetanol oraz: – izomery substancji psychotropowych wymienionych w niniejszej grupie, jeżeli istnienie takich izomerów jest możliwe w ramach użytego oznaczenia chemicznego, chyba że izomery takie są wyraźnie wyłączone, – estry i etery substancji psychotropowych wymienionych w niniejszej grupie, jeżeli istnienie takich estrów i eterów jest możliwe, chyba że są one wymienione w innej grupie, – sole substancji psychotropowych wymienionych w niniejszej grupie, włączając w to sole estrów, eterów i izomerów, o których mowa wyżej, jeżeli istnienie takich soli jest możliwe”.
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 66, poz. 469 i Nr 120, poz. 826, z 2007 r. Nr 7, poz. 48 i Nr 82, poz. 558 oraz z 2009 r. Nr 18, poz. 97.
 

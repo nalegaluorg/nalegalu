@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 29 listopada 2018 r. w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 2249), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 31 maja 2023 r. zmieniającym rozporządzenie w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 1079).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 31 maja 2023 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 1079), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 31 maja 2023 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 1079), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 29 listopada 2018 r. w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej
 Na podstawie art. 205 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2023 r. poz. 1683 i 1860 oraz z 2024 r. poz. 1222) zarządza się, co następuje:
 § 1.
@@ -59,7 +57,7 @@ Wysokość funduszu dla poszczególnych jednostek organizacyjnych ustala:
 Dyrektor Generalny – w bezpośrednio mu podległych jednostkach organizacyjnych, uwzględniając w szczególności ogólną liczbę etatów;
 2)
 dyrektor okręgowy Służby Więziennej, zwany dalej „dyrektorem okręgowym” – w podległych mu jednostkach organizacyjnych, uwzględniając w szczególności ogólną liczbę etatów.
-3a.
+3aDodany przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 31 maja 2023 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 1079), które weszło w życie z dniem 22 czerwca 2023 r..
 Ustalając wysokość funduszu dla Centralnego Zarządu Służby Więziennej, Dyrektor Generalny w porozumieniu z Szefem Inspektoratu Wewnętrznego Służby Więziennej ustala, poprzez wyodrębnienie z tego funduszu, wysokość funduszu dla Inspektoratu Wewnętrznego Służby Więziennej, uwzględniając w szczególności ogólną liczbę etatów ustanowionych dla Inspektoratu Wewnętrznego Służby Więziennej.
 4.
 Minister Sprawiedliwości, na wniosek Dyrektora Generalnego, zwiększa fundusz o środki uzyskane z tytułu zmniejszenia uposażeń funkcjonariuszy, o których mowa w art. 60h ustawy. Wniosek składa się w terminie do 8 dnia miesiąca następującego po okresie rozliczeniowym.
@@ -87,7 +85,7 @@ Dyrektor Generalny – wszystkim funkcjonariuszom;
 2)
 dyrektor okręgowy – funkcjonariuszom pełniącym służbę w podległych mu jednostkach organizacyjnych;
 3)
-Szef Inspektoratu Wewnętrznego Służby Więziennej, dyrektor okręgowy, Rektor-Komendant uczelni Służby Więziennej, komendant Centralnego Ośrodka Szkolenia Służby Więziennej, komendant ośrodka szkolenia Służby Więziennej, komendant ośrodka doskonalenia kadr Służby Więziennej, dyrektor zakładu karnego albo dyrektor aresztu śledczego:
+Szef Inspektoratu Wewnętrznego Służby Więziennej, dyrektor okręgowy, Rektor-Komendant uczelni Służby Więziennej, komendant Centralnego Ośrodka Szkolenia Służby Więziennej, komendant ośrodka szkolenia Służby Więziennej, komendant ośrodka doskonalenia kadr Służby Więziennej, dyrektor zakładu karnego albo dyrektor aresztu śledczego:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
 a)
 funkcjonariuszom delegowanym do czasowego pełnienia służby w podległych im jednostkach organizacyjnych,
 b)
@@ -107,5 +105,5 @@ Wniosek o przyznanie zapomogi składa się do komórki kadrowej w jednostce orga
 § 6.
 Nagrody uznaniowe i zapomogi wypłaca niezwłocznie jednostka organizacyjna właściwa w sprawach wypłaty uposażenia funkcjonariusza.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 grudnia 2018 r.
+Rozporządzenie wchodzi w życie z dniem 1 grudnia 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 października 2015 r. w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 1786), które utraciło moc na podstawie art. 16 ust. 1 ustawy z dnia 22 marca 2018 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 912). 1) Dodany przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 31 maja 2023 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 1079), które weszło w życie z dniem 22 czerwca 2023 r. 2) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 października 2015 r. w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 1786), które utraciło moc na podstawie art. 16 ust. 1 ustawy z dnia 22 marca 2018 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 912).
 

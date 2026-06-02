@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1938-04-09 |
 | Data wydania | 1938-04-20 |
-| Wejście w życie | 1938-04-20 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19380270242) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1938/242/text.pdf) |
 

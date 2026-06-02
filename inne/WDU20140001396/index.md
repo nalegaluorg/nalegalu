@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-10-07 |
 | Data wydania | 2014-10-15 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2026-03-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001396) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1396/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 20 pkt 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2013 r. poz. 427, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 20 pkt 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2013 r. poz. 427, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 662, 1165, 1247, 1433 i 1623 oraz z 2014 r. poz. 31, 481, 504, 512, 619 i 1071.) zarządza się, co następuje:
 § 1.
 Następującym sądom rejonowym przekazuje się rozpoznawanie spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych:
 1)
@@ -271,5 +270,5 @@ w obszarze właściwości Sądu Okręgowego w Zielonej Górze – Sądowi Rejono
 § 2.
 Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 29 listopada 2012 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych (Dz. U. z 2014 r. poz. 1177).
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 662, 1165, 1247, 1433 i 1623 oraz z 2014 r. poz. 31, 481, 504, 512, 619 i 1071.
 

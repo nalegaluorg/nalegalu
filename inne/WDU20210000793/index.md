@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-26 |
 | Data wydania | 2021-04-29 |
-| Wejście w życie | 2021-05-14 |
 | Ostatnia zmiana | 2024-10-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000793) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/793/text.pdf) |
 
@@ -166,8 +165,7 @@ numeru PESEL, a w przypadku braku numeru PESEL – serii i numeru dokumentu potw
 4)
 danych o obecnym zatrudnieniu lub stanowisku służbowym,
 5)
-numeru telefonu służbowego lub adresu poczty elektronicznej
-pełnomocnik niezwłocznie informuje o zmianie zarząd spółki, ministra oraz dyrektora Centrum.
+numeru telefonu służbowego lub adresu poczty elektronicznej – pełnomocnik niezwłocznie informuje o zmianie zarząd spółki, ministra oraz dyrektora Centrum.
 § 10.
 Spółka zapewnia pełnomocnikowi warunki organizacyjno-techniczne niezbędne do efektywnego wykonywania zadań.
 § 11.
@@ -211,5 +209,5 @@ W przypadku gdy notatka, o której mowa w ust. 1, została sporządzona w związ
 § 15.
 Pełnomocnik zabezpiecza i przechowuje dokumentację dotyczącą wszystkich czynności podejmowanych przez niego w związku z realizacją zadań, o których mowa w art. 5 ust. 2 ustawy.
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 22 marca 2017 r. w sprawie pełnomocnika do spraw ochrony infrastruktury krytycznej (Dz. U. poz. 627), które na podstawie art. 111 ust. 1 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 22 marca 2017 r. w sprawie pełnomocnika do spraw ochrony infrastruktury krytycznej (Dz. U. poz. 627), które na podstawie art. 111 ust. 1 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

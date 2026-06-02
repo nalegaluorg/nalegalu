@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-31 |
 | Data wydania | 2022-09-08 |
-| Wejście w życie | 2022-09-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001891) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1891/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowy tryb kierowania, przyjmowania, przenoszenia i zwalniania nieletnich z zakładów Rozdział 3 – Szczegółowe warunki pobytu nieletnich w zakładach Rozdział 4 – Uczestniczenie przez nieletnich w wykonywaniu praktyk religijnych i korzystaniu przez nich z posług religijnych Rozdział 5 – Szczegółowy tryb umieszczania nieletnich poza zakładem Rozdział 6 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 285 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -49,6 +49,7 @@ terenie zakładu – rozumie się przez to teren, który ogranicza zewnętrzna l
 ustawie – rozumie się przez to ustawę z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich;
 4)
 zakładzie – rozumie się przez to zakład poprawczy.
+Szczegółowy tryb kierowania, przyjmowania, przenoszenia i zwalniania nieletnich z zakładów
 § 3.
 1.
 Niezwłocznie po uprawomocnieniu się orzeczenia o zastosowaniu wobec nieletniego środka poprawczego sędzia przesyła do Ministerstwa Sprawiedliwości pisemny wniosek o skierowanie nieletniego do zakładu, do którego dołącza:
@@ -188,6 +189,7 @@ Ministerstwo Sprawiedliwości;
 rodziców albo tego z rodziców, pod którego stałą pieczą nieletni faktycznie pozostaje, albo opiekuna nieletniego.
 3.
 Ponowne umieszczenie w zakładzie nieletniego skreślonego z ewidencji zakładu z przyczyn, o których mowa w ust. 1 pkt 3–5, wymaga zwrócenia się do Ministerstwa Sprawiedliwości z wnioskiem o skierowanie do zakładu. Do czasu wydania skierowania nieletniego umieszcza się w zakładzie, z którego ewidencji został skreślony.
+Szczegółowe warunki pobytu nieletnich w zakładach
 § 17.
 1.
 W zakładzie prowadzi się proces resocjalizacji nieletniego w oparciu o indywidualną diagnozę i indywidualny plan resocjalizacji, opracowany przez pedagoga i psychologa z udziałem nieletniego i innych pracowników zakładu.
@@ -260,6 +262,7 @@ Osoba doręczająca paczkę nieletniemu sporządza w jego obecności spis jej za
 Przed udzieleniem urlopu opracowuje się program pobytu nieletniego na urlopie.
 2.
 Pracownik pedagogiczny po powrocie nieletniego z urlopu sprawdza jego zachowanie podczas urlopu i sporządza stosowną informację do akt osobowych.
+Uczestniczenie przez nieletnich w wykonywaniu praktyk religijnych i korzystaniu przez nich z posług religijnych
 § 25.
 1.
 Dyrektor zakładu niezwłocznie zawiera z duchownym kościoła lub innego związku wyznaniowego, do którego nieletni należy, umowę w celu zapewnienia nieletniemu wykonywania praktyk religijnych i korzystania z posług religijnych podczas pobytu w zakładzie.
@@ -276,6 +279,7 @@ ochrony danych osobowych.
 Dyrektor zakładu może cofnąć duchownemu lub osobom go zastępującym prawo wstępu na teren zakładu w przypadku rażącego naruszenia przez nich przepisów, o których mowa w ust. 1, powiadamiając o tym właściwe władze kościołów lub innych związków wyznaniowych.
 § 27.
 Dyrektor zakładu podejmuje niezbędne czynności w celu zapewnienia odpowiednich warunków do wykonywania praktyk religijnych i posług religijnych oraz korzystania z tych posług, a także zasięga opinii duchownego w sprawie organizacji posług religijnych.
+Szczegółowy tryb umieszczania nieletnich poza zakładem
 § 28.
 1.
 Przed wydaniem decyzji w sprawie umieszczenia nieletniego poza zakładem na podstawie art. 274 ust. 1 ustawy, dyrektor zakładu przedstawia do akceptacji radzie zakładu propozycję umieszczenia nieletniego poza zakładem wraz z uzasadnieniem. Uzasadnienie zawiera w szczególności analizę możliwości roztoczenia nad nieletnim skutecznego nadzoru.
@@ -338,18 +342,31 @@ zaświadczenia o przyjęciu do szkoły, podjęciu pracy, leczenia;
 bieżące informacje uzyskane na temat realizacji planu pobytu nieletniego poza zakładem;
 8)
 inne informacje uzyskane od pracodawcy, wychowawcy klasy i innych osób i instytucji wspomagających pobyt nieletniego poza zakładem.
+Przepis końcowy
 § 33.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 17 października 2001 r. w sprawie zakładów poprawczych i schronisk dla nieletnich (Dz. U. z 2017 r. poz. 487) oraz rozporządzeniem Ministra Sprawiedliwości z dnia 14 września 2001 r. w sprawie szczegółowych zasad uczestniczenia w lekcjach religii i praktykach religijnych, korzystania z posług religijnych i organizacji pracy duszpasterskiej w zakładach poprawczych i schroniskach dla nieletnich (Dz. U. poz. 1157), które utraciły moc z dniem wejścia w życie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 17 października 2001 r. w sprawie zakładów poprawczych i schronisk dla nieletnich (Dz. U. z 2017 r. poz. 487) oraz rozporządzeniem Ministra Sprawiedliwości z dnia 14 września 2001 r. w sprawie szczegółowych zasad uczestniczenia w lekcjach religii i praktykach religijnych, korzystania z posług religijnych i organizacji pracy duszpasterskiej w zakładach poprawczych i schroniskach dla nieletnich (Dz. U. poz. 1157), które utraciły moc z dniem wejścia w życie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowy tryb kierowania, przyjmowania, przenoszenia i zwalniania nieletnich z zakładów
+#### Rozdział 2 – Szczegółowy tryb kierowania, przyjmowania, przenoszenia i zwalniania nieletnich z zakładów
 
-#### Rozdział 3 Szczegółowe warunki pobytu nieletnich w zakładach
+#### Rozdział 3 – Szczegółowe warunki pobytu nieletnich w zakładach
 
-#### Rozdział 4 Uczestniczenie przez nieletnich w wykonywaniu praktyk religijnych i korzystaniu przez nich z posług religijnych
+#### Rozdział 4 – Uczestniczenie przez nieletnich w wykonywaniu praktyk religijnych i korzystaniu przez nich z posług religijnych
 
-#### Rozdział 5 Szczegółowy tryb umieszczania nieletnich poza zakładem
+#### Rozdział 5 – Szczegółowy tryb umieszczania nieletnich poza zakładem
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

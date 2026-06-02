@@ -22,20 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-05-11 |
 | Data wydania | 2015-05-25 |
-| Wejście w życie | 2015-06-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000720) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/720/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 42 ust. 3 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 42 ust. 3 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351 oraz z 2014 r. poz. 502, 616 i 1822.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 27 października 2005 r. w sprawie zakresu, trybu i częstotliwości przeprowadzania okresowych profilaktycznych badań lekarskich oraz okresowej oceny sprawności fizycznej strażaka Państwowej Straży Pożarnej (Dz. U. Nr 261, poz. 2191) § 5 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 27 października 2005 r. w sprawie zakresu, trybu i częstotliwości przeprowadzania okresowych profilaktycznych badań lekarskich oraz okresowej oceny sprawności fizycznej strażaka Państwowej Straży Pożarnej (Dz. U. Nr 261, poz. 2191) § 5 otrzymuje brzmienie: „
 § 5.
-Do oceny sprawności fizycznej przystępuje strażak, który posiada aktualne zaświadczenie lekarskie, o którym mowa w § 3 ust. 7 pkt 1.
-” .
+Do oceny sprawności fizycznej przystępuje strażak, który posiada aktualne zaświadczenie lekarskie, o którym mowa w § 3 ust. 7 pkt 1. ” .
 § 2.
 Strażak, który w dniu wejścia w życie niniejszego rozporządzenia posiada aktualne zaświadczenie lekarskie wydane na podstawie dotychczasowych przepisów, może przystąpić do oceny sprawności fizycznej.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351 oraz z 2014 r. poz. 502, 616 i 1822.
 

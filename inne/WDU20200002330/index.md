@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 17 grudnia 2020 r. w sprawie szczegółowych warunków organizacyjnych i technicznych, które powinny spełniać aplikacje mobilne służące do przesyłania danych zawartych w informacji o wystawionej recepcie oraz sposobu wymiany informacji w postaci elektronicznej między Internetowym Kontem Pacjenta i aplikacjami mobilnymi
+# Rozporządzenie Ministra Zdrowiaz dnia 17 grudnia 2020 r. w sprawie szczegółowych warunków organizacyjnych i technicznych, które powinny spełniać aplikacje mobilne służące do przesyłania danych zawartych w informacji o wystawionej recepcie oraz sposobu wymiany informacji w postaci elektronicznej między Internetowym Kontem Pacjenta i aplikacjami mobilnymi Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-17 |
 | Data wydania | 2020-12-22 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002330) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2330/text.pdf) |
 
@@ -48,7 +47,7 @@ integralność, autentyczność i poufność danych identyfikacyjnych i uwierzyt
 3)
 codzienną synchronizację czasu systemowego z czasem uniwersalnym koordynowanym UTC(PL);
 4)
-zgodność przetwarzania danych gromadzonych przez aplikację mobilną z wymaganiami określonymi w przepisach odrębnych, w tym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.).
+zgodność przetwarzania danych gromadzonych przez aplikację mobilną z wymaganiami określonymi w przepisach odrębnych, w tym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2..
 § 4.
 Podłączenie aplikacji mobilnej do IKP następuje po potwierdzeniu przez jednostkę podległą ministrowi właściwemu do spraw zdrowia, właściwą w zakresie systemów informacyjnych ochrony zdrowia:
 1)
@@ -60,6 +59,5 @@ zapewnienia przez podmiot odpowiedzialny za tę aplikację opracowania, ustanawi
 4)
 przedstawienia przez podmiot odpowiedzialny za tę aplikację oświadczenia o działaniu tego podmiotu zgodnie z przepisami o ochronie danych osobowych.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 26 października 2022 r. w sprawie szczegółowego zakresu informacji zawartych w raporcie oraz sposobu jego wprowadzania do Krajowej bazy o emisjach gazów cieplarnianych i innych substancji
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 26 października 2022 r. w sprawie szczegółowego zakresu informacji zawartych w raporcie oraz sposobu jego wprowadzania do Krajowej bazy o emisjach gazów cieplarnianych i innych substancji Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-26 |
 | Data wydania | 2022-10-28 |
-| Wejście w życie | 2022-10-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002217) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2217/text.pdf) |
 
@@ -57,7 +56,7 @@ adres miejsca zamieszkania albo adres siedziby podmiotu, numer telefonu komórko
 3)
 numer identyfikacyjny w Krajowym Rejestrze Urzędowym Podmiotów Gospodarki Narodowej (REGON), numer identyfikacji podatkowej (NIP) oraz numer w Krajowym Rejestrze Sądowym (KRS), o ile te numery zostały nadane;
 4)
-numer PESEL albo serię i numer dokumentu potwierdzającego tożsamość, jeżeli nie nadano numeru identyfikacji podatkowej (NIP), w przypadku podmiotu, o którym mowa w art. 3 pkt 20 lit. c ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm.);
+numer PESEL albo serię i numer dokumentu potwierdzającego tożsamość, jeżeli nie nadano numeru identyfikacji podatkowej (NIP), w przypadku podmiotu, o którym mowa w art. 3 pkt 20 lit. c ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2127 i 2269 oraz z 2022 r. poz. 1079,);
 5)
 dane osoby składającej formularz, obejmujące imię i nazwisko oraz adres poczty elektronicznej i numer telefonu komórkowego lub telefonu stacjonarnego wykorzystywane do celów służbowych.
 2.
@@ -75,8 +74,7 @@ rejestrach, o których mowa w ust. 4,
 2)
 Biuletynie Informacji Publicznej jednostki organizacyjnej niepodlegającej obowiązkowi wpisu do rejestrów, o których mowa w ust. 4,
 3)
-dokumencie określającym zasady reprezentacji podmiotu, o którym mowa w ust. 5
-do formularza, o którym mowa w ust. 1 lub 3, dołącza się pełnomocnictwo do reprezentowania podmiotu przed Krajowym ośrodkiem opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+dokumencie określającym zasady reprezentacji podmiotu, o którym mowa w ust. 5 – do formularza, o którym mowa w ust. 1 lub 3, dołącza się pełnomocnictwo do reprezentowania podmiotu przed Krajowym ośrodkiem opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 7.
 Formularze, o których mowa w ust. 1 i 3, składa się w postaci elektronicznej na formularzach dostępnych na stronie internetowej http://www.krajowabaza.kobize.pl, przez tę stronę internetową, po uwierzytelnieniu osoby składającej formularz przez węzeł krajowy identyfikacji elektronicznej.
 8.
@@ -154,8 +152,7 @@ Formularze, o których mowa w § 3 ust. 2, 3, 10 i 12 rozporządzenia Ministra �
 § 13.
 Traci moc rozporządzenie Ministra Środowiska z dnia 14 listopada 2016 r. w sprawie szczegółowego zakresu informacji zawartych w raporcie oraz sposobu jego wprowadzania do Krajowej bazy o emisjach gazów cieplarnianych i innych substancji (Dz. U. poz. 1877).
 § 14.
-Rozporządzenie wchodzi w życie z dniem 31 października 2022 r.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2127 i 2269 oraz z 2022 r. poz. 1079,
+Rozporządzenie wchodzi w życie z dniem 31 października 2022 r. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2127 i 2269 oraz z 2022 r. poz. 1079,
 Załącznik – Szczegółowy zakres informacji zawartych w raporcie, o którym mowa w art. 7 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji
 Raport, o którym mowa w art. 7 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2022 r. poz. 673), zawiera:
 1)
@@ -167,11 +164,11 @@ formę prawną podmiotu,
 c)
 numer identyfikacyjny w Krajowym Rejestrze Urzędowym Podmiotów Gospodarki Narodowej (REGON), numer identyfikacji podatkowej (NIP) oraz numer w Krajowym Rejestrze Sądowym (KRS), o ile te numery zostały nadane;
 2)
-w części dotyczącej korzystania ze środowiska:
+w części dotyczącej korzystania ze środowiskaPodmiot przedkładający raport podaje tylko te informacje, które dotyczą realizowanego sposobu i zakresu korzystania ze środowiska.:
 a)
 oznaczenie miejsca korzystania ze środowiska, gdzie jest prowadzona działalność powodująca emisje:
-– w przypadku zakładu: adres, numer telefonu, adres poczty elektronicznej i adres strony internetowej, o ile je posiada, współrzędne geograficzne lokalizacji zakładu odniesione do geograficznego środka zakładu, przeważający rodzaj działalności wykonywanej w zakładzie – według Polskiej Klasyfikacji Działalności (PKD), numer identyfikacyjny zakładu w Krajowym Rejestrze Uwalniania i Transferu Zanieczyszczeń, o ile go posiada,
-– w przypadku innego miejsca korzystania ze środowiska niż zakład: adres i współrzędne geograficzne,
+– w przypadku zakładu: adres, numer telefonu, adres poczty elektronicznej i adres strony internetowej, o ile je posiada, współrzędne geograficzne lokalizacji zakładu odniesione do geograficznego środka zakładuZ wyjątkiem lokalizacji, dla których współrzędne geograficzne są informacjami niejawnymi w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742, z późn. zm.)., przeważający rodzaj działalności wykonywanej w zakładzie – według Polskiej Klasyfikacji Działalności (PKD), numer identyfikacyjny zakładu w Krajowym Rejestrze Uwalniania i Transferu Zanieczyszczeń, o ile go posiada,
+– w przypadku innego miejsca korzystania ze środowiska niż zakład: adres i współrzędne geograficzneZ wyjątkiem lokalizacji, dla których współrzędne geograficzne są informacjami niejawnymi w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742, z późn. zm.).,
 b)
 rok rozpoczęcia działalności oraz rok i sposób zakończenia działalności w miejscu korzystania ze środowiska,
 c)
@@ -196,10 +193,10 @@ informacje o źródłach powstania emisji wchodzących w skład instalacji:
 f)
 informacje o miejscach emisji – emitorach, którymi gazy cieplarniane i inne substancje są wprowadzane do powietrza:
 – oznaczenie, rodzaj wylotu,
-– współrzędne geograficzne,
+– współrzędne geograficzneZ wyjątkiem lokalizacji, dla których współrzędne geograficzne są informacjami niejawnymi w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742, z późn. zm.).,
 – wysokość, średnicę,
-– temperaturę gazów odlotowych[3) Średnia temperatura gazów odlotowych na wylocie emitora odniesiona do roku, wyrażona w kelwinach [K].](#gloss-0:3:),
-– strumień objętości gazów odlotowych[4) Średni strumień objętości gazów odlotowych na wylocie emitora odniesiony do roku, wyrażony w metrach sześciennych na godzinę [m3/h].](#gloss-0:4:), prędkość gazów odlotowych[5) Średnia prędkość gazów odlotowych na wylocie emitora odniesiona do roku, wyrażona w metrach na sekundę [m/s].](#gloss-0:5:),
+– temperaturę gazów odlotowych[Średnia temperatura gazów odlotowych na wylocie emitora odniesiona do roku, wyrażona w kelwinach [K].](#gloss-0:3:),
+– strumień objętości gazów odlotowych[Średni strumień objętości gazów odlotowych na wylocie emitora odniesiony do roku, wyrażony w metrach sześciennych na godzinę [m3/h].](#gloss-0:4:), prędkość gazów odlotowych[Średnia prędkość gazów odlotowych na wylocie emitora odniesiona do roku, wyrażona w metrach na sekundę [m/s].](#gloss-0:5:),
 – czas pracy emitora lub przewodu emitora,
 – średnioroczne stężenia zanieczyszczeń,
 – źródła i instalacje podłączone do emitora,
@@ -245,6 +242,5 @@ rodzaj przedsięwzięcia i adres jego realizacji,
 b)
 planowaną datę zakończenia realizacji przedsięwzięcia,
 c)
-prognozowane wielkości emisji ze zrealizowanego przedsięwzięcia lub prognozowane sprawności redukcji emisji albo prognozowane stężenia substancji w gazach odlotowych planowane do osiągnięcia w wyniku realizacji tego przedsięwzięcia.
-1) Podmiot przedkładający raport podaje tylko te informacje, które dotyczą realizowanego sposobu i zakresu korzystania ze środowiska. 2) Z wyjątkiem lokalizacji, dla których współrzędne geograficzne są informacjami niejawnymi w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742, z późn. zm.). 3) Średnia temperatura gazów odlotowych na wylocie emitora odniesiona do roku, wyrażona w kelwinach [K]. 4) Średni strumień objętości gazów odlotowych na wylocie emitora odniesiony do roku, wyrażony w metrach sześciennych na godzinę [m3/h]. 5) Średnia prędkość gazów odlotowych na wylocie emitora odniesiona do roku, wyrażona w metrach na sekundę [m/s].
+prognozowane wielkości emisji ze zrealizowanego przedsięwzięcia lub prognozowane sprawności redukcji emisji albo prognozowane stężenia substancji w gazach odlotowych planowane do osiągnięcia w wyniku realizacji tego przedsięwzięcia. 1) Podmiot przedkładający raport podaje tylko te informacje, które dotyczą realizowanego sposobu i zakresu korzystania ze środowiska. 2) Z wyjątkiem lokalizacji, dla których współrzędne geograficzne są informacjami niejawnymi w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742, z późn. zm.). 3) Średnia temperatura gazów odlotowych na wylocie emitora odniesiona do roku, wyrażona w kelwinach [K]. 4) Średni strumień objętości gazów odlotowych na wylocie emitora odniesiony do roku, wyrażony w metrach sześciennych na godzinę [m3/h]. 5) Średnia prędkość gazów odlotowych na wylocie emitora odniesiona do roku, wyrażona w metrach na sekundę [m/s].
 

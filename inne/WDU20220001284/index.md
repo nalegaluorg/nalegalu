@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 20 czerwca 2022 r. w sprawie szczegółowych wymagań, jakie powinny spełniać wnioski o pomoc finansową na zalesianie gruntów rolnych objętą planem rozwoju obszarów wiejskich oraz wnioski o wypłatę tej pomocy
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 20 czerwca 2022 r. w sprawie szczegółowych wymagań, jakie powinny spełniać wnioski o pomoc finansową na zalesianie gruntów rolnych objętą planem rozwoju obszarów wiejskich oraz wnioski o wypłatę tej pomocy Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-06-20 |
 | Data wydania | 2022-06-20 |
-| Wejście w życie | 2022-06-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001284) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1284/text.pdf) |
 
@@ -43,6 +42,5 @@ oświadczenia oraz zobowiązania związane z wypłatą pomocy – w przypadku wn
 6)
 inne informacje niezbędne do przyznania lub wypłaty pomocy.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 

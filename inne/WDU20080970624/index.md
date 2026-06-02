@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-04-25 |
 | Data wydania | 2008-06-06 |
-| Wejście w życie | 2008-06-21 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080970624) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/624/text.pdf) |
 
+Rekompensata dla pkp przewozy regionalne sp. z o.o. z tytułu wykonywania przewozów pasażerskich w ramach obowiązku świadczenia usług publicznych w okresie od dnia 1 października 2001 r. do dnia 30 kwietnia 2004 r.
+Zasady udzielenia pkp sa pożyczek na podwyższenie kapitału zakładowego plk sa oraz przeniesienie udziałów pkp pr na rzecz samorządów województw
 1.
 PKP SA otrzyma z budżetu państwa w 2008 r. i w 2009 r., na zasadach określonych w ustawie, pożyczki w łącznej kwocie 1 860 000 000 zł, z tym że pożyczkę w kwocie:
 1)
@@ -77,12 +78,11 @@ W terminie 30 dni od dnia, o którym mowa w ust. 1, Zarząd PKP PR zwoła pierws
 6.
 Minister właściwy do spraw transportu zwoła niezwłocznie pierwsze zgromadzenie wspólników PKP PR, jeśli zarząd spółki nie zwoła go w terminie określonym w ust. 5.
 7.
-W przypadku zbywania udziałów w kapitale zakładowym PKP PR wspólnikom tej spółki przysługuje prawo pierwokupu. W razie niezrealizowania prawa pierwokupu przez wspólników prawo pierwokupu przysługuje Skarbowi Państwa. Szczegółowe zasady oraz terminy wykonywania prawa pierwokupu przez wspólników i Skarb Państwa określi umowa spółki.
-” .
+W przypadku zbywania udziałów w kapitale zakładowym PKP PR wspólnikom tej spółki przysługuje prawo pierwokupu. W razie niezrealizowania prawa pierwokupu przez wspólników prawo pierwokupu przysługuje Skarbowi Państwa. Szczegółowe zasady oraz terminy wykonywania prawa pierwokupu przez wspólników i Skarb Państwa określi umowa spółki. ” .
 
-**Art. 1.** W ustawie z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. Nr 84, poz. 948, z późn. zm.) po rozdziale 4a dodaje się rozdziały 4b i 4c w brzmieniu: „
+**Art. 1.** W ustawie z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. Nr 84, poz. 948, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1086 i Nr 154, poz. 1802, z 2002 r. Nr 205, poz. 1730 i Nr 240, poz. 2055, z 2003 r. Nr 6, poz. 63, Nr 80, poz. 720 i Nr 203, poz. 1966, z 2004 r. Nr 96, poz. 959 i Nr 120, poz. 1252, z 2005 r. Nr 157, poz. 1315 i Nr 184, poz. 1539 oraz z 2006 r. Nr 12, poz. 63 i Nr 157, poz. 1119.) po rozdziale 4a dodaje się rozdziały 4b i 4c w brzmieniu: „
 
-#### Rozdział 4b Rekompensata dla pkp przewozy regionalne sp. z o.o. z tytułu wykonywania przewozów pasażerskich w ramach obowiązku świadczenia usług publicznych w okresie od dnia 1 października 2001 r. do dnia 30 kwietnia 2004 r.
+#### Rozdział 4b
 
 **Art. 33m.**
 
@@ -100,9 +100,9 @@ W przypadku zbywania udziałów w kapitale zakładowym PKP PR wspólnikom tej sp
 
 2. Dotacja, o której mowa w ust. 1, stanowi zaspokojenie wszelkich roszczeń PKP PR o wypłatę rekompensaty w związku z wykonywaniem przewozów pasażerskich w ramach obowiązku świadczenia usług publicznych. PKP PR najpóźniej następnego dnia roboczego po otrzymaniu środków finansowych, o których mowa w art. 33m ust. 1, dokona spłaty zobowiązań określonych w art. 33n ust. 1 w kwocie otrzymanej z budżetu państwa. Środki pieniężne, o których mowa w art. 33m, nie podlegają egzekucji ani nie mogą stanowić przedmiotu zabezpieczenia roszczeń.
 
-#### Rozdział 4c Zasady udzielenia pkp sa pożyczek na podwyższenie kapitału zakładowego plk sa oraz przeniesienie udziałów pkp pr na rzecz samorządów województw
+#### Rozdział 4c
 
 **Art. 2.** Dotacja, o której mowa w art. 33m ustawy wymienionej w art. 1, wypłacana jest ze środków, o których mowa w art. 5 ustawy z dnia 16 grudnia 2005 r. o finansowaniu infrastruktury transportu lądowego (Dz. U. Nr 267, poz. 2251 oraz z 2007 r. Nr 23, poz. 136).
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1086 i Nr 154, poz. 1802, z 2002 r. Nr 205, poz. 1730 i Nr 240, poz. 2055, z 2003 r. Nr 6, poz. 63, Nr 80, poz. 720 i Nr 203, poz. 1966, z 2004 r. Nr 96, poz. 959 i Nr 120, poz. 1252, z 2005 r. Nr 157, poz. 1315 i Nr 184, poz. 1539 oraz z 2006 r. Nr 12, poz. 63 i Nr 157, poz. 1119.
 

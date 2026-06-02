@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 27 lutego 2019 r. zmieniające rozporządzenie w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu i częstotliwości wymaganych badań lekarskich niezbędnych do uzyskania tych orzeczeń
+# Rozporządzenie Ministra Zdrowiaz dnia 27 lutego 2019 r. zmieniające rozporządzenie w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu i częstotliwości wymaganych badań lekarskich niezbędnych do uzyskania tych orzeczeń Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-27 |
 | Data wydania | 2019-02-28 |
-| Wejście w życie | 2019-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000395) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/395/text.pdf) |
 
@@ -31,10 +30,9 @@ Na podstawie art. 37 ust. 2 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 22 lipca 2016 r. w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu i częstotliwości wymaganych badań lekarskich niezbędnych do uzyskania tych orzeczeń (Dz. U. poz. 1172) wprowadza się następujące zmiany:
 1)
-w § 2 dodaje się ust. 3–5 w brzmieniu:
-„
+w § 2 dodaje się ust. 3–5 w brzmieniu: „
 3.
-W odniesieniu do dzieci i młodzieży do ukończenia 19. roku życia orzeczenie może wydać również lekarz podstawowej opieki zdrowotnej na podstawie profilaktycznego badania lekarskiego (bilansu zdrowia), o którym mowa w wykazie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej wydanym na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.), oraz posiadanej dokumentacji medycznej.
+W odniesieniu do dzieci i młodzieży do ukończenia 19. roku życia orzeczenie może wydać również lekarz podstawowej opieki zdrowotnej na podstawie profilaktycznego badania lekarskiego (bilansu zdrowia), o którym mowa w wykazie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej wydanym na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60 i 303.), oraz posiadanej dokumentacji medycznej.
 4.
 W odniesieniu do zawodników pomiędzy 19. a 23. rokiem życia orzeczenie może wydać również lekarz podstawowej opieki zdrowotnej na podstawie posiadanej dokumentacji medycznej.
 5.
@@ -42,12 +40,9 @@ W przypadku gdy lekarz podstawowej opieki zdrowotnej stwierdzi, że:
 1)
 zakres badań koniecznych do przeprowadzenia w celu dokonania prawidłowej oceny stanu zdrowia i możliwości bezpiecznego uczestnictwa we współzawodnictwie sportowym wykracza poza zakres profilaktycznego badania lekarskiego (bilansu zdrowia) oraz posiadanej dokumentacji medycznej lub
 2)
-jest to niezbędne w celu dokonania prawidłowej oceny stanu zdrowia i możliwości bezpiecznego uczestnictwa we współzawodnictwie sportowym
-wydaje skierowanie do lekarza, o którym mowa w ust. 1 albo 2, w celu wydania orzeczenia.
-” ;
+jest to niezbędne w celu dokonania prawidłowej oceny stanu zdrowia i możliwości bezpiecznego uczestnictwa we współzawodnictwie sportowym – wydaje skierowanie do lekarza, o którym mowa w ust. 1 albo 2, w celu wydania orzeczenia. ” ;
 2)
-§ 3 otrzymuje brzmienie:
-„
+§ 3 otrzymuje brzmienie: „
 § 3.
 1.
 Badania specjalistyczne i diagnostyczne, o których mowa w § 1 ust. 1, obejmują:
@@ -70,13 +65,11 @@ badanie spirometryczne;
 9)
 konsultację neurologiczną.
 2.
-Lekarz, o którym mowa w § 2, może zlecić wykonanie innych niż określone w ust. 1 badań specjalistycznych lub diagnostycznych, wynikających z oceny stanu zdrowia osoby ubiegającej się o wydanie orzeczenia oraz specyfiki współzawodnictwa sportowego, niezbędnych do wydania orzeczenia.
-” ;
+Lekarz, o którym mowa w § 2, może zlecić wykonanie innych niż określone w ust. 1 badań specjalistycznych lub diagnostycznych, wynikających z oceny stanu zdrowia osoby ubiegającej się o wydanie orzeczenia oraz specyfiki współzawodnictwa sportowego, niezbędnych do wydania orzeczenia. ” ;
 3)
 w § 4:
 a)
-ust. 2 i 3 otrzymują brzmienie:
-„
+ust. 2 i 3 otrzymują brzmienie: „
 2.
 Badanie wstępne, przeprowadzane u osób ubiegających się po raz pierwszy o wydanie orzeczenia, obejmuje badania, o których mowa w § 3 ust. 1 pkt 1–7, oraz dodatkowo badania, o których mowa w § 3 ust. 1:
 1)
@@ -94,14 +87,11 @@ co 24 miesiące – w przypadku badań, o których mowa w § 3 ust. 1:
 a)
 pkt 8 – u zawodników uprawiających płetwonurkowanie,
 b)
-pkt 9 – u zawodników uprawiających sporty walki.
-” ,
+pkt 9 – u zawodników uprawiających sporty walki. ” ,
 b)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
-Badanie kontrolne obejmuje ogólne badanie lekarskie oraz badania specjalistyczne i diagnostyczne uwarunkowane stanem zdrowia. Badania kontrolne wykonuje się u zawodników, którzy podczas uprawiania sportu doznali urazów, w tym urazów głowy, zmian przeciążeniowych, utraty przytomności lub porażki przez nokaut.
-” ;
+Badanie kontrolne obejmuje ogólne badanie lekarskie oraz badania specjalistyczne i diagnostyczne uwarunkowane stanem zdrowia. Badania kontrolne wykonuje się u zawodników, którzy podczas uprawiania sportu doznali urazów, w tym urazów głowy, zmian przeciążeniowych, utraty przytomności lub porażki przez nokaut. ” ;
 4)
 uchyla się § 5.
 § 2.
@@ -110,6 +100,5 @@ Orzeczenia lekarskie wydane na podstawie dotychczasowych przepisów zachowują w
 2.
 Do badań rozpoczętych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60 i 303.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60 i 303.
 

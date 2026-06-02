@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-08-27 |
-| Wejście w życie | 2018-09-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001648) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1648/text.pdf) |
+
+Polskie Domy Drewniane Spółka Akcyjna
 
 **Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799, 1356, 1479, 1564, 1590 i 1592) wprowadza się następujące zmiany:
 
@@ -41,7 +42,7 @@ source: "eli-html"
 
 - **3)** w tytule VII w dziale II dodaje się rozdział 5 w brzmieniu: „
 
-#### Rozdział 5 Polskie Domy Drewniane Spółka Akcyjna
+#### Rozdział 5
 
 **Art. 421a.**
 

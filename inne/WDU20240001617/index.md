@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Rolnictwa i Rozwoju Wsiz dnia 28 października 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie danych niezbędnych do właściwego monitorowania realizacji i ewaluacji Programu Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Obwieszczenie Ministra Rolnictwa i Rozwoju Wsiz dnia 28 października 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie danych niezbędnych do właściwego monitorowania realizacji i ewaluacji Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 13 sierpnia 2015 r. w sprawie danych niezbędnych do właściwego monitorowania realizacji i ewaluacji Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2021 r. poz. 458), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 12 października 2023 r. zmieniającym rozporządzenie w sprawie danych niezbędnych do właściwego monitorowania realizacji i ewaluacji Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2243).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 października 2023 r. zmieniającego rozporządzenie w sprawie danych niezbędnych do właściwego monitorowania realizacji i ewaluacji Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2243), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 października 2023 r. zmieniającego rozporządzenie w sprawie danych niezbędnych do właściwego monitorowania realizacji i ewaluacji Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2243), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-” .
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 sierpnia 2015 r. w sprawie danych niezbędnych do właściwego monitorowania realizacji i ewaluacji Programu Rozwoju Obszarów Wiejskich na lata 2014–2020
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. ” . 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 sierpnia 2015 r. w sprawie danych niezbędnych do właściwego monitorowania realizacji i ewaluacji Programu Rozwoju Obszarów Wiejskich na lata 2014–2020Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – rozwój wsi kieruje Minister Rolnictwa i Rozwoju Wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 Na podstawie art. 10 ust. 4 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2023 r. poz. 2298) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -99,7 +96,7 @@ zrealizowanych płatności w ramach programu.
 2.
 Sprawozdania tygodniowe przekazywane przez podmioty wdrażające wymienione w art. 6 ust. 3 ustawy są przygotowywane według stanu na ostatni dzień danego tygodnia i zawierają dane za okres od początku wdrażania programu określone w ust. 1 pkt 1–4.
 3.
-(uchylony).
+(uchylony).Przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 października 2023 r. zmieniającego rozporządzenie w sprawie danych niezbędnych do właściwego monitorowania realizacji i ewaluacji Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2243), które weszło w życie z dniem 26 października 2023 r.
 § 5.
 1.
 Sprawozdania miesięczne przekazywane przez instytucję pośredniczącą są przygotowywane według stanu na ostatni dzień danego miesiąca i zawierają dane za okres od początku:
@@ -154,7 +151,7 @@ dniu 15 marca roku następującego po roku, którego dotyczy sprawozdanie – w 
 § 9.
 1.
 Sprawozdania, o których mowa w § 3, są przekazywane w postaci elektronicznej, na formularzach opracowanych i udostępnionych przez instytucję zarządzającą.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Sprawozdania roczne są opatrzone kwalifikowanym podpisem elektronicznym albo podpisem zaufanym.
 § 10.
 Dodatkowe informacje, o których mowa w art. 10 ust. 3 ustawy, są przekazywane niezwłocznie, w postaci elektronicznej.
@@ -162,13 +159,12 @@ Dodatkowe informacje, o których mowa w art. 10 ust. 3 ustawy, są przekazywane 
 Sprawozdanie roczne przygotowane według stanu na dzień 31 grudnia 2015 r. zawiera dane za okres od początku wdrażania programu.
 § 12.
 Sprawozdania, o których mowa w § 3, za ostatni okres sprawozdawczy są przygotowywane według stanu na dzień:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 28 grudnia 2025 r. – w przypadku sprawozdań tygodniowych;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 31 grudnia 2025 r. – w przypadku sprawozdań miesięcznych i rocznych;
-3)
+3Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 31 sierpnia 2025 r. – w przypadku sprawozdań śródrocznych.
 § 13.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – rozwój wsi kieruje Minister Rolnictwa i Rozwoju Wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706). 2) Przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 października 2023 r. zmieniającego rozporządzenie w sprawie danych niezbędnych do właściwego monitorowania realizacji i ewaluacji Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2243), które weszło w życie z dniem 26 października 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 15 września 2015 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 15 września 2015 r.. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – rozwój wsi kieruje Minister Rolnictwa i Rozwoju Wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706). 2) Przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 października 2023 r. zmieniającego rozporządzenie w sprawie danych niezbędnych do właściwego monitorowania realizacji i ewaluacji Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2243), które weszło w życie z dniem 26 października 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 15 września 2015 r.
 

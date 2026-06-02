@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-02 |
 | Data wydania | 2016-11-14 |
-| Wejście w życie | 2016-11-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001838) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1838/text.pdf) |
 
@@ -165,5 +164,5 @@ Jeżeli żaden z kandydatów nie został zakwalifikowany do zatrudnienia na stan
 § 15.
 Do konkursów rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 10 września 2015 r. w sprawie szczegółowego sposobu i trybu przeprowadzania konkursów na stanowisko asystenta prokuratora (Dz. U. poz. 1436), które na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 10 września 2015 r. w sprawie szczegółowego sposobu i trybu przeprowadzania konkursów na stanowisko asystenta prokuratora (Dz. U. poz. 1436), które na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

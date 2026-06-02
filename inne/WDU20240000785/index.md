@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 25 kwietnia 2003 r. w sprawie utworzenia wojewódzkich sądów administracyjnych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. poz. 652), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 13 sierpnia 2004 r. zmieniającym rozporządzenie w sprawie utworzenia wojewódzkich sądów administracyjnych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. poz. 1927).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 13 sierpnia 2004 r. zmieniającego rozporządzenie w sprawie utworzenia wojewódzkich sądów administracyjnych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. poz. 1927), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 13 sierpnia 2004 r. zmieniającego rozporządzenie w sprawie utworzenia wojewódzkich sądów administracyjnych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. poz. 1927), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z tym że Wojewódzki Sąd Administracyjny w Gorzowie Wielkopolskim i Wojewódzki Sąd Administracyjny w Kielcach rozpoczną działalność orzeczniczą od dnia 1 lipca 2005 r.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z tym że Wojewódzki Sąd Administracyjny w Gorzowie Wielkopolskim i Wojewódzki Sąd Administracyjny w Kielcach rozpoczną działalność orzeczniczą od dnia 1 lipca 2005 r. ” .
 Załącznik – Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 25 kwietnia 2003 r. w sprawie utworzenia wojewódzkich sądów administracyjnych oraz ustalenia ich siedzib i obszarów właściwości
 Na podstawie art. 16 § 2 ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych (Dz. U. z 2022 r. poz. 2492 oraz z 2023 r. poz. 1615) zarządza się, co następuje:
 § 1.
@@ -48,11 +46,11 @@ Wojewódzki Sąd Administracyjny w Bydgoszczy – dla obszaru województwa kujaw
 Wojewódzki Sąd Administracyjny w Gdańsku – dla obszaru województwa pomorskiego;
 4)
 Wojewódzki Sąd Administracyjny w Gliwicach – dla obszaru województwa śląskiego;
-41)
+41Dodany przez § 1 pkt 1 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 13 sierpnia 2004 r. zmieniającego rozporządzenie w sprawie utworzenia wojewódzkich sądów administracyjnych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. poz. 1927), które weszło w życie z dniem 11 września 2004 r.)
 Wojewódzki Sąd Administracyjny w Gorzowie Wielkopolskim – dla województwa lubuskiego;
-42)
+42Dodany przez § 1 pkt 1 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 13 sierpnia 2004 r. zmieniającego rozporządzenie w sprawie utworzenia wojewódzkich sądów administracyjnych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. poz. 1927), które weszło w życie z dniem 11 września 2004 r.)
 Wojewódzki Sąd Administracyjny w Kielcach – dla województwa świętokrzyskiego;
-5)
+5Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.)
 Wojewódzki Sąd Administracyjny w Krakowie – dla obszaru województwa małopolskiego;
 6)
 Wojewódzki Sąd Administracyjny w Lublinie – dla obszaru województwa lubelskiego;
@@ -62,7 +60,7 @@ Wojewódzki Sąd Administracyjny w Łodzi – dla obszaru województwa łódzkie
 Wojewódzki Sąd Administracyjny w Olsztynie – dla obszaru województwa warmińsko-mazurskiego;
 9)
 Wojewódzki Sąd Administracyjny w Opolu – dla obszaru województwa opolskiego;
-10)
+10Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.)
 Wojewódzki Sąd Administracyjny w Poznaniu – dla obszaru województwa wielkopolskiego;
 11)
 Wojewódzki Sąd Administracyjny w Rzeszowie – dla obszaru województwa podkarpackiego;
@@ -73,5 +71,5 @@ Wojewódzki Sąd Administracyjny w Warszawie – dla obszaru województwa mazowi
 14)
 Wojewódzki Sąd Administracyjny we Wrocławiu – dla obszaru województwa dolnośląskiego.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2004 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2004 r. 1) Dodany przez § 1 pkt 1 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 13 sierpnia 2004 r. zmieniającego rozporządzenie w sprawie utworzenia wojewódzkich sądów administracyjnych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. poz. 1927), które weszło w życie z dniem 11 września 2004 r. 2) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 6 lutego 2018 r. w sprawie użyczania Służbie Ochrony Państwa rzeczy lub dokumentów
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 6 lutego 2018 r. w sprawie użyczania Służbie Ochrony Państwa rzeczy lub dokumentów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-02-06 |
 | Data wydania | 2018-02-09 |
-| Wejście w życie | 2018-02-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000336) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/336/text.pdf) |
 
@@ -84,6 +83,5 @@ Jeżeli osoba, o której mowa w § 4 pkt 3, zgłosi zastrzeżenia do ustalonej w
 § 6.
 Rzeczy lub dokumenty nieodebrane przez posiadacza lub właściciela w uzgodnionym terminie przechowuje się w depozycie właściwej komórki organizacyjnej Służby Ochrony Państwa.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 

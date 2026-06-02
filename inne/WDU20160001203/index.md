@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-22 |
 | Data wydania | 2016-08-09 |
-| Wejście w życie | 2016-09-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001203) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1203/text.pdf) |
 
@@ -80,15 +79,17 @@ source: "eli-html"
 
 1. Minister właściwy do spraw rybołówstwa określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania, wypłaty lub zwrotu pomocy na realizację operacji w ramach priorytetów, o których mowa w art. 3 ust. 1 pkt 1–5, lub wysokość stawek tej pomocy, uwzględniając koszty kwalifikowalne oraz kierując się potrzebą zapewnienia prawidłowej realizacji programu operacyjnego, w szczególności przyznawania, wypłaty i zwrotu pomocy zgodnie z warunkami wynikającymi z programu operacyjnego, oraz biorąc pod uwagę istotę i cel poszczególnych działań w ramach tych priorytetów.
 
-2. Minister właściwy do spraw rybołówstwa w porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania, wypłaty lub zwrotu pomocy na realizację operacji w ramach priorytetu, o którym mowa w art. 3 ust. 1 pkt 6, uwzględniając koszty kwalifikowalne oraz kierując się potrzebą zapewnienia prawidłowej realizacji programu operacyjnego, w szczególności przyznawania, wypłaty i zwrotu pomocy zgodnie z warunkami wynikającymi z programu operacyjnego, oraz biorąc pod uwagę istotę i cel poszczególnych działań w ramach tego priorytetu. ” , w ust. 3: – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) katalog beneficjentów; ” , – pkt 4 otrzymuje brzmienie: „ 4) tryb, warunki, termin zawierania umowy o dofinansowanie oraz szczegółowe wymagania, jakim powinna odpowiadać umowa o dofinansowanie; ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+2. Minister właściwy do spraw rybołówstwa w porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania, wypłaty lub zwrotu pomocy na realizację operacji w ramach priorytetu, o którym mowa w art. 3 ust. 1 pkt 6, uwzględniając koszty kwalifikowalne oraz kierując się potrzebą zapewnienia prawidłowej realizacji programu operacyjnego, w szczególności przyznawania, wypłaty i zwrotu pomocy zgodnie z warunkami wynikającymi z programu operacyjnego, oraz biorąc pod uwagę istotę i cel poszczególnych działań w ramach tego priorytetu. ” , w ust. 3: po pkt 3 dodaje się pkt 3a w brzmieniu: „
 
 - **b)**
-- **c)**
+- **3a)** katalog beneficjentów; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** tryb, warunki, termin zawierania umowy o dofinansowanie oraz szczegółowe wymagania, jakim powinna odpowiadać umowa o dofinansowanie; ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+    - **c)**
 
 3a. Minister, wydając rozporządzenie, o którym mowa w ust. 1, w zakresie priorytetu, o którym mowa w art. 3 ust. 1 pkt 2, może wskazać:
 
 - **1)** szkoły wyższe, instytuty badawcze, o których mowa w ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2016 r. poz. 371 i 1079), instytuty naukowe, o których mowa w ustawie z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2016 r. poz. 572), lub fundacje, posiadające niezbędne kompetencje w zakresie realizacji operacji lub zatwierdzania wyników operacji lub określi kryteria w zakresie uznawania tych podmiotów lub
-- **2)** osoby prawne i osoby fizyczne, a także podmioty zapewniające doradztwo prawne lub ekonomiczne, posiadające niezbędne kompetencje w zakresie usług doradczych lub określi kryteria w zakresie uznawania tych podmiotów w zależności od charakteru i zakresu operacji, o których mowa w art. 39, art. 47 i art. 49 rozporządzenia nr 508/2014. ” , ust. 4 otrzymuje brzmienie: „
+- **2)** osoby prawne i osoby fizyczne, a także podmioty zapewniające doradztwo prawne lub ekonomiczne, posiadające niezbędne kompetencje w zakresie usług doradczych lub określi kryteria w zakresie uznawania tych podmiotów – w zależności od charakteru i zakresu operacji, o których mowa w art. 39, art. 47 i art. 49 rozporządzenia nr 508/2014. ” , ust. 4 otrzymuje brzmienie: „
     - **d)**
 
 4. Minister właściwy do spraw rybołówstwa określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania, wypłaty lub zwrotu pomocy technicznej, w tym katalog beneficjentów, tryb i termin składania wniosków o dofinansowanie oraz wniosków o płatność, szczegółowe wymagania, jakim powinny odpowiadać te wnioski oraz umowa o dofinansowanie, uwzględniając koszty kwalifikowalne oraz kierując się potrzebą zapewnienia prawidłowej realizacji programu operacyjnego, w szczególności przyznawania, wypłaty i zwrotu pomocy zgodnie z warunkami wynikającymi z programu operacyjnego, oraz biorąc pod uwagę specyfikę pomocy technicznej. ” ;

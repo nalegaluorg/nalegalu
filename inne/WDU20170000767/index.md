@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-24 |
 | Data wydania | 2017-04-12 |
-| Wejście w życie | 2017-04-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000767) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/767/text.pdf) |
 
@@ -44,7 +43,7 @@ source: "eli-html"
 1. Stwierdzenie:
 
 - **1)** trwałego nieodwracalnego ustania czynności mózgu (śmierci mózgu),
-- **2)** nieodwracalnego zatrzymania krążenia poprzedzającego pobranie narządów następuje po przeprowadzeniu przez specjalistów, o których mowa w ust. 5 albo 6, postępowania zgodnego z aktualną wiedzą medyczną, z uwzględnieniem sposobu i kryteriów, o których mowa w ust. 3.
+- **2)** nieodwracalnego zatrzymania krążenia poprzedzającego pobranie narządów – następuje po przeprowadzeniu przez specjalistów, o których mowa w ust. 5 albo 6, postępowania zgodnego z aktualną wiedzą medyczną, z uwzględnieniem sposobu i kryteriów, o których mowa w ust. 3.
 
 2. Sposób i kryteria, o których mowa w ust. 3, są ustalane zgodnie z aktualną wiedzą medyczną przez specjalistów w odpowiednich dziedzinach medycyny powoływanych i odwoływanych przez ministra właściwego do spraw zdrowia.
 

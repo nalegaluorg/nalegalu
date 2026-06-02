@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 12 listopada 2024 r. w sprawie trybu i warunków postępowania firm inwestycyjnych, banków państwowych prowadzących działalność maklerską, banków, o których mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, oraz banków powierniczych
+# Rozporządzenie Ministra Finansówz dnia 12 listopada 2024 r. w sprawie trybu i warunków postępowania firm inwestycyjnych, banków państwowych prowadzących działalność maklerską, banków, o których mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, oraz banków powierniczych Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-12 |
 | Data wydania | 2024-11-26 |
-| Wejście w życie | 2024-11-27 |
 | Ostatnia zmiana | 2024-11-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001735) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1735/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Tryb i warunki postępowania firm inwestycyjnych w kontaktach z klientami Rozdział 3 – Zawieranie transakcji i dokonywanie rozliczeń Rozdział 4 – Ustanawianie i realizacja zabezpieczeń spłaty kredytów i pożyczek udzielonych na nabycie instrumentów finansowych Rozdział 5 – Tryb i warunki postępowania w przypadku zabezpieczenia wierzytelności na instrumentach finansowych Rozdział 6 – Sprawozdania przekazywane klientom Rozdział 7 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 94 ust. 1 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie: 1) w zakresie swojej regulacji wdraża: – dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającą dyrektywę 2002/92/WE i dyrektywę 2011/61/UE (Dz. Urz. UE L 173 z 12.06.2014, str. 349, Dz. Urz. UE L 257 z 28.08.2014, str. 1, Dz. Urz. UE L 26 z 02.02.2016, str. 19, Dz. Urz. UE L 175 z 30.06.2016, str. 8, Dz. Urz. UE L 188 z 13.07.2016, str. 28, Dz. Urz. UE L 273 z 08.10.2016, str. 35, Dz. Urz. UE L 64 z 10.03.2017, str. 116, Dz. Urz. UE L 231 z 14.09.2018, str. 39, Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 320 z 11.12.2019, str. 1, Dz. Urz. UE L 334 z 27.12.2019, str. 155, Dz. Urz. UE L 347 z 20.10.2020, str. 50, Dz. Urz. UE L 68 z 26.02.2021, str. 14, Dz. Urz. UE L 151 z 02.06.2022, str. 1 oraz Dz. Urz. UE L 333 z 27.12.2022, str. 153), – dyrektywę delegowaną Komisji (UE) 2017/593 z dnia 7 kwietnia 2016 r. uzupełniającą dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do zabezpieczenia instrumentów finansowych i środków pieniężnych należących do klientów, zobowiązań w zakresie zarządzania produktami oraz zasad mających zastosowanie do oferowania lub przyjmowania wynagrodzeń, prowizji bądź innych korzyści pieniężnych lub niepieniężnych (Dz. Urz. UE L 87 z 31.03.2017, str. 500 oraz Dz. Urz. UE L 277 z 02.08.2021, str. 137); 2) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1, Dz. Urz. UE L 257 z 28.08.2014, str. 1, Dz. Urz. UE L 6 z 11.01.2022, str. 9, Dz. Urz. UE L 2023/2869 z 20.12.2023 oraz Dz. Urz. UE L 2023/2845 z 27.12.2023). Na podstawie art. 94 ust. 1 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa tryb i warunki postępowania firm inwestycyjnych, banków państwowych prowadzących działalność maklerską, banków, o których mowa w art. 70 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, zwanej dalej „ustawą”, oraz banków powierniczych w zakresie:
 1)
@@ -46,15 +46,14 @@ przyjmowania lub przekazywania jakichkolwiek świadczeń pieniężnych lub niepi
 7)
 przekazywania sprawozdań, o których mowa w art. 83j ust. 1 ustawy, w przypadku świadczenia usługi maklerskiej, o której mowa w art. 69 ust. 2 pkt 1 i 5 oraz ust. 4 pkt 6 i 8 ustawy, o ile dotyczy wykonywania czynności, o których mowa w art. 69 ust. 2 pkt 1, 2, 4 i 5 oraz ust. 4 pkt 1 i 6 ustawy, a także wymogi dotyczące treści tych sprawozdań oraz terminy ich przekazywania klientowi,
 8)
-emitowania lub wystawiania instrumentów finansowych lub udzielania porad w zakresie emitowania lub wystawiania instrumentu finansowego albo rekomendowania lub oferowania albo w inny sposób umożliwiania nabycia lub objęcia instrumentu finansowego
-w odniesieniu do wykonywania przez te podmioty czynności, o których mowa w art. 69 ust. 2 i 4 i art. 119 ust. 1 ustawy.
+emitowania lub wystawiania instrumentów finansowych lub udzielania porad w zakresie emitowania lub wystawiania instrumentu finansowego albo rekomendowania lub oferowania albo w inny sposób umożliwiania nabycia lub objęcia instrumentu finansowego – w odniesieniu do wykonywania przez te podmioty czynności, o których mowa w art. 69 ust. 2 i 4 i art. 119 ust. 1 ustawy.
 § 2.
 1.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
 blokadzie finansowej – rozumie się przez to zabezpieczenie, o którym mowa w art. 5 ust. 1 pkt 3 ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych (Dz. U. z 2024 r. poz. 294), zwanej dalej „ustawą o niektórych zabezpieczeniach finansowych”;
 2)
-czynnikach zrównoważonego rozwoju – rozumie się przez to czynniki, o których mowa w art. 2 pkt 24 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2088 z dnia 27 listopada 2019 r. w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usług finansowych (Dz. Urz. UE L 317 z 09.12.2019, str. 1, z późn. zm.);
+czynnikach zrównoważonego rozwoju – rozumie się przez to czynniki, o których mowa w art. 2 pkt 24 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2088 z dnia 27 listopada 2019 r. w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usług finansowych (Dz. Urz. UE L 317 z 09.12.2019, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 198 z 22.06.2020, str. 13, Dz. Urz. UE L 48 z 11.02.2021, str. 10 oraz Dz. Urz. UE L 2023/2869 z 20.12.2023.;
 3)
 derywatach – rozumie się przez to instrumenty pochodne dopuszczone do obrotu zorganizowanego;
 4)
@@ -142,7 +141,7 @@ Krajowy Depozyt oraz spółkę, której Krajowy Depozyt powierzył wykonywanie c
 b)
 izbę rozliczeniową,
 c)
-CCP, o którym mowa w art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.),
+CCP, o którym mowa w art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 27.06.2013, str. 1, Dz. Urz. UE L 279 z 19.10.2013, str. 2, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 173 z 12.06.2014, str. 84, Dz. Urz. UE L 141 z 05.06.2015, str. 73, Dz. Urz. UE L 239 z 15.09.2015, str. 63, Dz. Urz. UE L 337 z 23.12.2015, str. 1, Dz. Urz. UE L 86 z 31.03.2017, str. 3, Dz. Urz. UE L 148 z 10.06.2017, str. 1, Dz. Urz. UE L 347 z 28.12.2017, str. 35, Dz. Urz. UE L 80 z 22.03.2019, str. 8, Dz. Urz. UE L 141 z 28.05.2019, str. 42, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 322 z 12.12.2019, str. 1, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 49 z 12.02.2021, str. 6 oraz Dz. Urz. UE L 333 z 27.12.2022, str. 1.,
 d)
 podmiot uprawniony do prowadzenia rozliczeń transakcji, inny niż określony w lit. a-c;
 26)
@@ -152,7 +151,7 @@ Krajowy Depozyt oraz spółkę, której Krajowy Depozyt powierzył wykonywanie c
 b)
 izbę rozrachunkową,
 c)
-centralny depozyt papierów wartościowych, centralny depozyt papierów wartościowych z państwa trzeciego oraz oddział centralnego depozytu papierów wartościowych, o których mowa odpowiednio w art. 2 pkt 1, 2 i 25 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 909/2014 z dnia 23 lipca 2014 r. w sprawie usprawnienia rozrachunku papierów wartościowych w Unii Europejskiej i w sprawie centralnych depozytów papierów wartościowych, zmieniającego dyrektywy 98/26/WE i 2014/65/UE oraz rozporządzenie (UE) nr 236/2012 (Dz. Urz. UE L 257 z 28.08.2014, str. 1, z późn. zm.);
+centralny depozyt papierów wartościowych, centralny depozyt papierów wartościowych z państwa trzeciego oraz oddział centralnego depozytu papierów wartościowych, o których mowa odpowiednio w art. 2 pkt 1, 2 i 25 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 909/2014 z dnia 23 lipca 2014 r. w sprawie usprawnienia rozrachunku papierów wartościowych w Unii Europejskiej i w sprawie centralnych depozytów papierów wartościowych, zmieniającego dyrektywy 98/26/WE i 2014/65/UE oraz rozporządzenie (UE) nr 236/2012 (Dz. Urz. UE L 257 z 28.08.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 349 z 21.12.2016, str. 8, Dz. Urz. UE L 151 z 02.06.2022, str. 1, Dz. Urz. UE L 333 z 27.12.2022, str. 1 oraz Dz. Urz. UE L 2023/2845 z 27.12.2023.;
 27)
 zabezpieczeniach finansowych – rozumie się przez to zabezpieczenia, o których mowa w art. 5 ust. 1 ustawy o niektórych zabezpieczeniach finansowych;
 28)
@@ -167,9 +166,11 @@ zleceniu brokerskim – rozumie się przez to zlecenie lub ofertę, a także odp
 Ilekroć w rozporządzeniu jest mowa o zarządzie firmy inwestycyjnej, w przypadku banku prowadzącego działalność maklerską lub banku państwowego prowadzącego działalność maklerską, rozumie się przez to władze jednostki organizacyjnej banku prowadzącego działalność maklerską lub banku państwowego prowadzącego działalność maklerską, wydzieloną organizacyjnie zgodnie z art. 111 ust. 5 ustawy.
 3.
 Przepisy rozporządzenia, które mają zastosowanie do firm inwestycyjnych, stosuje się do banku państwowego prowadzącego działalność maklerską w takim zakresie, w jakim stosuje się je do banku prowadzącego działalność maklerską.
+Tryb i warunki postępowania firm inwestycyjnych w kontaktach z klientami
+Przepisy ogólne
 § 3.
 1.
-Firma inwestycyjna przed zawarciem umowy o świadczenie usługi maklerskiej z klientem profesjonalnym informuje go o zasadach traktowania przez firmę inwestycyjną klientów profesjonalnych oraz o możliwości przedstawienia pisemnego żądania traktowania go jak klienta detalicznego, o którym mowa w art. 45 ust. 3 lit. b rozporządzenia delegowanego Komisji (UE) 2017/565 z dnia 25 kwietnia 2016 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do wymogów organizacyjnych i warunków prowadzenia działalności przez firmy inwestycyjne oraz pojęć zdefiniowanych na potrzeby tej dyrektywy (Dz. Urz. UE L 87 z 31.03.2017, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2017/565”.
+Firma inwestycyjna przed zawarciem umowy o świadczenie usługi maklerskiej z klientem profesjonalnym informuje go o zasadach traktowania przez firmę inwestycyjną klientów profesjonalnych oraz o możliwości przedstawienia pisemnego żądania traktowania go jak klienta detalicznego, o którym mowa w art. 45 ust. 3 lit. b rozporządzenia delegowanego Komisji (UE) 2017/565 z dnia 25 kwietnia 2016 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do wymogów organizacyjnych i warunków prowadzenia działalności przez firmy inwestycyjne oraz pojęć zdefiniowanych na potrzeby tej dyrektywy (Dz. Urz. UE L 87 z 31.03.2017, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 246 z 26.09.2017, str. 12, Dz. Urz. UE L 329 z 13.12.2017, str. 4, Dz. Urz. UE L 113 z 29.04.2019, str. 18, Dz. Urz. UE L 165 z 21.06.2019, str. 1, Dz. Urz. UE L 190 z 16.07.2019, str. 18, Dz. Urz. UE L 106 z 26.03.2021, str. 30, Dz. Urz. UE L 277 z 02.08.2021, str. 1 oraz Dz. Urz. UE L 277 z 02.08.2021, str. 6., zwanego dalej „rozporządzeniem 2017/565”.
 2.
 Żądanie klienta profesjonalnego o traktowanie go jak klienta detalicznego określa zakres usług maklerskich, transakcji lub instrumentów finansowych, na których potrzeby klient chciałby być traktowany jak klient detaliczny.
 3.
@@ -222,6 +223,7 @@ Firma inwestycyjna zobowiązuje klientów do przekazywania informacji o zmianach
 W przypadku powzięcia informacji, że klient przestał spełniać warunki, o których mowa w § 5 ust. 1, z uwzględnieniem kryteriów ustalenia znacznej wartości, o których mowa w § 5 ust. 2, obowiązujących na dzień powzięcia informacji, firma inwestycyjna podejmuje działania zmierzające do zmiany statusu klienta na potrzeby świadczenia na jego rzecz usług maklerskich.
 4.
 W przypadku powzięcia informacji, że klient przestał spełniać warunki pozwalające na traktowanie go jak klienta profesjonalnego w rozumieniu art. 3 pkt 39b lit. a-m ustawy, firma inwestycyjna podejmuje działania zmierzające do zmiany statusu klienta na potrzeby świadczenia na jego rzecz usług maklerskich, chyba że klient złoży żądanie, o którym mowa w art. 3a ust. 1 ustawy, i spełnia warunki, o których mowa w § 5 ust. 1. Sposób postępowania firmy inwestycyjnej określa procedura, o której mowa w ust. 1.
+Tryb i warunki postępowania firm inwestycyjnych przyjmujących lub przekazujących świadczenia pieniężne, w tym opłaty i prowizje, lub świadczenie niepieniężne
 § 7.
 1.
 Świadczenia pieniężne, w tym opłaty i prowizje, lub świadczenia niepieniężne uznaje się za mające na celu podniesienie jakości odpowiedniej usługi świadczonej na rzecz klienta lub potencjalnego klienta, jeżeli:
@@ -393,6 +395,7 @@ usługi badawcze dotyczą emitentów o średniej rynkowej kapitalizacji niższej
 Średnią rynkową kapitalizację, o której mowa w ust. 1 pkt 3, wyznacza się na podstawie notowań z ostatniego dnia sesyjnego w danym roku w okresie trzech ostatnich lat poprzedzających przeprowadzenie badań, a w przypadku lat obrotowych, w których emitent nie był notowany na rynku regulowanym – na podstawie wysokości kapitału własnego.
 § 21.
 Przepisów niniejszego oddziału nie stosuje się do świadczenia usług maklerskich, o których mowa w art. 69 ust. 2 pkt 1, 2 lub 3 ustawy, na rzecz klientów końcowych będących uprawnionymi kontrahentami.
+Świadczenie usług maklerskich
 § 22.
 1.
 W przypadku gdy informacje kierowane przez firmę inwestycyjną do klientów lub potencjalnych klientów, w tym informacje upowszechniane przez firmę inwestycyjną w celu reklamy lub promocji świadczonych przez nią usług, wskazują korzyści, które można osiągnąć w przypadku skorzystania z usług maklerskich, o których mowa w art. 69 ust. 2 ustawy, świadczonych przez firmę inwestycyjną, określają również poziom ryzyka inwestycyjnego związanego z tymi danymi usługami zgodnie z art. 44 ust. 2 lit. b rozporządzenia 2017/565.
@@ -644,7 +647,16 @@ a)
 obligacje i inne dłużne papiery wartościowe o elemencie lub elementach konstrukcji niepozwalających klientowi lub potencjalnemu klientowi na zrozumienie istoty ryzyka związanego z nabyciem lub objęciem takiego papieru wartościowego ze względu na niepewność, nietypowość, złożoność, nieprecyzyjność lub dowolność kształtowania tych elementów,
 b)
 papiery wartościowe, których konstrukcja przewiduje, że:
-– wypłata świadczenia pieniężnego (stopa zwrotu) lub przekazanie świadczenia niepieniężnego są uzależnione od: – – ustalanej jednorazowo lub regularnie wartości określonego portfela aktywów, w szczególności papiery wartościowe zabezpieczone aktywami, w tym spłatą kredytów lub pożyczek, albo – – zaspokojenia wierzytelności przez podmioty trzecie, w szczególności obligacje podporządkowane lub inne podporządkowane dłużne papiery wartościowe oraz certyfikaty, o których mowa w art. 2 ust. 1 pkt 27 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 84, z późn. zm.) , zwanego dalej „rozporządzeniem 600/2014”, – emitent papieru wartościowego posiada dowolność, w szczególności przez samodzielne określanie jednej zmiennej albo kilku zmiennych, w ustalaniu przekazywanego świadczenia pieniężnego (stopy zwrotu) lub świadczenia niepieniężnego, – nie istnieje ściśle oznaczony termin ich wykupu lub okres zapadalności lub nie podlegają one wykupowi, w szczególności obligacje wieczyste, – przekazanie świadczenia pieniężnego (stopa zwrotu) lub świadczenia niepieniężnego jest uzależnione od nietypowej lub nieznanej klientowi detalicznemu lub potencjalnemu klientowi detalicznemu jednej zmiennej albo kilku zmiennych, w szczególności dłużne papiery wartościowe, których wartość jest uzależniona od wartości wskaźników niepodanych do publicznej wiadomości, wskaźników o specjalistycznym charakterze lub od zdarzenia katastroficznego, – wysokość i termin wypłaty świadczenia pieniężnego (stopa zwrotu) lub niepieniężnego jest ustalana w sposób skomplikowany, w szczególności w wyniku częstych zmian w okresie do terminu ich wykupu lub zapadalności albo w wyniku osiągnięcia określonych wartości progowych albo punktów w czasie, – nie nastąpi zwrot całości albo części wartości nominalnej papieru wartościowego, w szczególności obligacje podporządkowane i inne podporządkowane papiery wartościowe podlegające konwersji na udział w kapitale lub majątku emitenta wskutek wystąpienia jego uporządkowanej restrukturyzacji, – identyfikacja dłużnego papieru wartościowego emitenta lub podmiotu zabezpieczającego emisję jest utrudniona albo może wprowadzać w błąd, w szczególności ze względu na nazwę instrumentu, firmę emitenta lub podmiotu zabezpieczającego emisję, – wysokość, forma i warunki zabezpieczenia wierzytelności wynikających z dłużnego papieru wartościowego jest określona w sposób utrudniający właściwe zrozumienie, w jaki sposób ustanowione zabezpieczenie może wpływać na ryzyko związane z nabyciem tego papieru wartościowego, w szczególności w przypadku, gdy zaspokojenie z zabezpieczenia jest uzależnione od jednego warunku albo kilku warunków innych niż niewykonanie zobowiązań przez emitenta lub zaspokojenie z zabezpieczenia w całości albo części jest ograniczone w czasie.
+wypłata świadczenia pieniężnego (stopa zwrotu) lub przekazanie świadczenia niepieniężnego są uzależnione od:
+– – ustalanej jednorazowo lub regularnie wartości określonego portfela aktywów, w szczególności papiery wartościowe zabezpieczone aktywami, w tym spłatą kredytów lub pożyczek, albo
+– – zaspokojenia wierzytelności przez podmioty trzecie, w szczególności obligacje podporządkowane lub inne podporządkowane dłużne papiery wartościowe oraz certyfikaty, o których mowa w art. 2 ust. 1 pkt 27 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 84, z późn. zm.) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 4, Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 334 z 27.12.2019, str. 1, Dz. Urz. UE L 20 z 24.01.2020, str. 26, Dz. Urz. UE L 405 z 02.12.2020, str. 79, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 131 z 05.05.2022, str. 11, Dz. Urz. UE L 151 z 02.06.2022, str. 1, Dz. Urz. UE L 283 z 03.11.2022, str. 17, Dz. Urz. UE L 333 z 27.12.2022, str. 1, Dz. Urz. UE L 2023/2869 z 20.12.2023 oraz Dz. Urz. UE L 2024/791 z 08.03.2024., zwanego dalej „rozporządzeniem 600/2014”,
+– emitent papieru wartościowego posiada dowolność, w szczególności przez samodzielne określanie jednej zmiennej albo kilku zmiennych, w ustalaniu przekazywanego świadczenia pieniężnego (stopy zwrotu) lub świadczenia niepieniężnego,
+– nie istnieje ściśle oznaczony termin ich wykupu lub okres zapadalności lub nie podlegają one wykupowi, w szczególności obligacje wieczyste,
+– przekazanie świadczenia pieniężnego (stopa zwrotu) lub świadczenia niepieniężnego jest uzależnione od nietypowej lub nieznanej klientowi detalicznemu lub potencjalnemu klientowi detalicznemu jednej zmiennej albo kilku zmiennych, w szczególności dłużne papiery wartościowe, których wartość jest uzależniona od wartości wskaźników niepodanych do publicznej wiadomości, wskaźników o specjalistycznym charakterze lub od zdarzenia katastroficznego,
+– wysokość i termin wypłaty świadczenia pieniężnego (stopa zwrotu) lub niepieniężnego jest ustalana w sposób skomplikowany, w szczególności w wyniku częstych zmian w okresie do terminu ich wykupu lub zapadalności albo w wyniku osiągnięcia określonych wartości progowych albo punktów w czasie,
+– nie nastąpi zwrot całości albo części wartości nominalnej papieru wartościowego, w szczególności obligacje podporządkowane i inne podporządkowane papiery wartościowe podlegające konwersji na udział w kapitale lub majątku emitenta wskutek wystąpienia jego uporządkowanej restrukturyzacji,
+– identyfikacja dłużnego papieru wartościowego emitenta lub podmiotu zabezpieczającego emisję jest utrudniona albo może wprowadzać w błąd, w szczególności ze względu na nazwę instrumentu, firmę emitenta lub podmiotu zabezpieczającego emisję,
+– wysokość, forma i warunki zabezpieczenia wierzytelności wynikających z dłużnego papieru wartościowego jest określona w sposób utrudniający właściwe zrozumienie, w jaki sposób ustanowione zabezpieczenie może wpływać na ryzyko związane z nabyciem tego papieru wartościowego, w szczególności w przypadku, gdy zaspokojenie z zabezpieczenia jest uzależnione od jednego warunku albo kilku warunków innych niż niewykonanie zobowiązań przez emitenta lub zaspokojenie z zabezpieczenia w całości albo części jest ograniczone w czasie.
 3.
 Przez instrumenty finansowe, o których mowa w ust. 1 pkt 3, rozumie się w szczególności:
 1)
@@ -652,16 +664,14 @@ akcje lub certyfikaty inwestycyjne, które mają wbudowany instrument pochodny,
 2)
 obligacje lub inne dłużne papiery wartościowe, które mają wbudowany instrument pochodny lub których struktura utrudnia klientowi lub potencjalnemu klientowi zrozumienie związanego z nimi ryzyka,
 3)
-instrumenty rynku pieniężnego, które mają wbudowany instrument pochodny lub których struktura utrudnia klientowi lub potencjalnemu klientowi zrozumienie związanego z nimi ryzyka
-lub zawierające w swojej strukturze element powodujący, że część lub całość wypłaty środków pieniężnych z tytułu wierzytelności przysługujących posiadaczowi tego instrumentu finansowego ulega modyfikacji w zależności od jednej zmiennej albo kilku określonych zmiennych.
+instrumenty rynku pieniężnego, które mają wbudowany instrument pochodny lub których struktura utrudnia klientowi lub potencjalnemu klientowi zrozumienie związanego z nimi ryzyka – lub zawierające w swojej strukturze element powodujący, że część lub całość wypłaty środków pieniężnych z tytułu wierzytelności przysługujących posiadaczowi tego instrumentu finansowego ulega modyfikacji w zależności od jednej zmiennej albo kilku określonych zmiennych.
 § 31.
 1.
 W przypadku gdy przedmiotem umowy, o której mowa w art. 69h ust. 1 ustawy, są lokaty strukturyzowane, których:
 1)
 konstrukcja utrudnia klientowi lub potencjalnemu klientowi zrozumienie ryzyka związanego ze stopą zwrotu,
 2)
-konstrukcja utrudnia klientowi lub potencjalnemu klientowi zrozumienie kosztów likwidacji lokaty przed terminem
-dom maklerski stosuje przepisy art. 83h ust. 1–4 ustawy, z uwzględnieniem ust. 5 pkt 2–4 tego artykułu.
+konstrukcja utrudnia klientowi lub potencjalnemu klientowi zrozumienie kosztów likwidacji lokaty przed terminem – dom maklerski stosuje przepisy art. 83h ust. 1–4 ustawy, z uwzględnieniem ust. 5 pkt 2–4 tego artykułu.
 2.
 Przez lokaty strukturyzowane, o których mowa w ust. 1:
 1)
@@ -686,6 +696,7 @@ c)
 kwotą odsetek lub wartości świadczeń dodatkowych, w szczególności lokaty strukturyzowane przewidujące wyłącznie zwrot depozytu w przypadku rozwiązania umowy.
 § 32.
 Przepisów § 22, § 26–29 i § 31 nie stosuje się do świadczenia usług maklerskich, o których mowa w art. 69 ust. 2 pkt 1, 2 lub 3 ustawy, na rzecz klientów końcowych będących uprawnionymi kontrahentami.
+Tryb i warunki postępowania firm inwestycyjnych emitujących lub wystawiających instrumenty finansowe lub udzielających porad w zakresie emitowania lub wystawiania instrumentu finansowego
 § 33.
 1.
 Firma inwestycyjna emitująca lub wystawiająca instrumenty finansowe lub udzielająca porad w zakresie emitowania lub wystawiania instrumentu finansowego uwzględnia charakter instrumentu finansowego, usługi inwestycyjnej i grupy docelowej.
@@ -721,7 +732,7 @@ ustalenia i precyzyjnego opisania przez firmę inwestycyjną kategorii ryzyka zw
 b)
 określenia przez firmę inwestycyjną ogólnego podejścia klienta docelowego do ryzyka związanego z inwestycją w instrumenty finansowe przez przypisanie klienta docelowego do kategorii, o których mowa w lit. a,
 c)
-zastosowania w stosownych przypadkach wskaźnika syntetycznego, o którym mowa w art. 8 ust. 1 rozporządzenia Komisji (UE) nr 583/2010 z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie kluczowych informacji dla inwestorów i warunków, które należy spełnić w przypadku dostarczania kluczowych informacji dla inwestorów lub prospektu emisyjnego na trwałym nośniku innym niż papier lub za pośrednictwem strony internetowej (Dz. Urz. UE L 176 z 10.07.2010, str. 1), lub ogólnego wskaźnika ryzyka, o którym mowa w art. 8 ust. 3 lit. d pkt ii rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1, z późn. zm.);
+zastosowania w stosownych przypadkach wskaźnika syntetycznego, o którym mowa w art. 8 ust. 1 rozporządzenia Komisji (UE) nr 583/2010 z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie kluczowych informacji dla inwestorów i warunków, które należy spełnić w przypadku dostarczania kluczowych informacji dla inwestorów lub prospektu emisyjnego na trwałym nośniku innym niż papier lub za pośrednictwem strony internetowej (Dz. Urz. UE L 176 z 10.07.2010, str. 1), lub ogólnego wskaźnika ryzyka, o którym mowa w art. 8 ust. 3 lit. d pkt ii rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 358 z 13.12.2014, str. 50, Dz. Urz. UE L 354 z 23.12.2016, str. 35, Dz. Urz. UE L 40 z 12.02.2019, str. 109, Dz. Urz. UE L 188 z 12.07.2019, str. 55, Dz. Urz. UE L 455 z 20.12.2021, str. 1 oraz Dz. Urz. UE L 2023/2869 z 20.12.2023.;
 5)
 cele inwestycyjne klientów, w tym związane z czynnikami zrównoważonego rozwoju, oraz ich potrzeby inwestycyjne, które mają być zaspokojone przez dany instrument finansowy, z uwzględnieniem ogólnej strategii inwestycyjnej klienta docelowego, obejmującej w szczególności horyzont czasowy inwestycji, przy czym cele i potrzeby klienta mogą zostać uszczegółowione przez wskazanie określonych aspektów inwestycji oraz oczekiwań klientów docelowych w odniesieniu do tych aspektów inwestycji.
 5.
@@ -834,6 +845,7 @@ Firma inwestycyjna udostępnia sprawozdania, o których mowa w ust. 1, Komisji N
 Funkcja zgodności z przepisami, o której mowa w art. 22 ust. 2 rozporządzenia 2017/565, monitoruje zmiany i okresowe przeglądy procesu emitowania lub wystawiania instrumentów finansowych lub udzielania porad w zakresie emitowania lub wystawiania instrumentu finansowego w celu wykrycia ryzyka niewywiązania się przez firmę inwestycyjną z obowiązków określonych w niniejszym oddziale.
 § 39.
 Przepisów niniejszego oddziału nie stosuje się do świadczenia usług maklerskich, o których mowa w art. 69 ust. 2 pkt 1, 2 lub 3 ustawy, na rzecz klientów końcowych będących uprawnionymi kontrahentami.
+Tryb i warunki postępowania firm inwestycyjnych rekomendujących, oferujących albo w inny sposób umożliwiających nabycie lub objęcie instrumentu finansowego
 § 40.
 1.
 Firma inwestycyjna, przy podejmowaniu decyzji o zakresie instrumentów finansowych wyemitowanych lub wystawionych przez tę firmę lub przez inną firmę inwestycyjną, jakie zamierza oferować lub rekomendować albo w inny sposób umożliwiać ich nabycie lub objęcie oraz o rodzaju usług, jakie zamierza świadczyć, uwzględnia charakter instrumentu finansowego, usługi inwestycyjnej oraz grupy docelowej.
@@ -951,8 +963,7 @@ przekazano klientowi informacje,
 2)
 przeprowadzono ocenę odpowiedniości,
 3)
-określono konflikty interesu i sposób zarządzania nimi
-jest przez firmę inwestycyjną oferowany lub rekomendowany albo w inny sposób udostępniony do nabycia albo objęcia przez klienta nienależącego do grupy docelowej, firma inwestycyjna w sprawozdaniu na temat odpowiedniości tego instrumentu finansowego uzasadnia takie przypadki przez wskazanie szczególnych okoliczności faktycznych oraz ich udokumentowanie.
+określono konflikty interesu i sposób zarządzania nimi – jest przez firmę inwestycyjną oferowany lub rekomendowany albo w inny sposób udostępniony do nabycia albo objęcia przez klienta nienależącego do grupy docelowej, firma inwestycyjna w sprawozdaniu na temat odpowiedniości tego instrumentu finansowego uzasadnia takie przypadki przez wskazanie szczególnych okoliczności faktycznych oraz ich udokumentowanie.
 2.
 W przypadku gdy instrument finansowy jest przez firmę inwestycyjną oferowany lub rekomendowany albo w inny sposób udostępniony do nabycia bądź objęcia przez klienta należącego do negatywnej grupy docelowej, uzasadnienie, o którym mowa w ust. 1, powinno być odpowiednio istotne oraz bardziej szczegółowo umotywowane niż w przypadkach, o których mowa w § 43 ust. 1.
 § 47.
@@ -1002,6 +1013,7 @@ przekazują emitentowi lub wystawcy instrumentu finansowego informacje dotycząc
 stosują rozwiązania, o których mowa w art. 83b ust. 8 i 12 ustawy, oraz w oddziale 4 niniejszego rozdziału – w przypadku gdy jest to niezbędne dla zapewnienia, że instrument finansowy lub usługa będą odpowiednie dla grupy docelowej.
 § 52.
 Przepisów niniejszego oddziału nie stosuje się do świadczenia usług maklerskich, o których mowa w art. 69 ust. 2 pkt 1, 2 lub 3 ustawy, na rzecz klientów końcowych będących uprawnionymi kontrahentami.
+Stosowanie przepisów niniejszego rozdziału do banków prowadzących działalność maklerską, banków państwowych prowadzących działalność maklerską, banków, o których mowa w art. 70 ust. 2 ustawy, oraz banków powierniczych
 § 53.
 1.
 Przepisy niniejszego rozdziału stosuje się do banków, o których mowa w art. 70 ust. 2 ustawy.
@@ -1013,6 +1025,8 @@ Przepisy:
 § 7–9, § 12–20, § 26–30, § 40, § 41 ust. 1–12 i 14, § 42–44, § 45 ust. 2 oraz § 46–51 stosuje się odpowiednio do banku powierniczego w zakresie działalności polegającej na wykonywaniu czynności pośrednictwa w pożyczkach papierów wartościowych.
 3.
 Przepisu § 24 ust. 2 pkt 2 nie stosuje się do banków prowadzących działalność maklerską, banków państwowych prowadzących działalność maklerską oraz banków, o których mowa w art. 70 ust. 2 ustawy, w zakresie środków pieniężnych klientów, które przechowują.
+Zawieranie transakcji i dokonywanie rozliczeń
+Przyjmowanie i przekazywanie zleceń oraz zasady wykonywania zleceń
 § 54.
 1.
 Firma inwestycyjna przyjmuje zlecenia zawierające co najmniej:
@@ -1082,6 +1096,7 @@ Zgoda, o której mowa w ust. 1, może być udzielona w formie ogólnej albo w od
 Przepisy niniejszego oddziału stosuje się do banków, o których mowa w art. 70 ust. 2 ustawy.
 2.
 Przepisy § 54 stosuje się odpowiednio do banków powierniczych w zakresie wykonywania czynności pośrednictwa w pożyczkach papierów wartościowych.
+Szczególne zasady wykonywania zleceń
 § 59.
 Upoważniony pracownik firmy inwestycyjnej potwierdza przyjęcie przez firmę inwestycyjną zlecenia do wykonania w sposób uzgodniony z klientem w umowie o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych. W przypadku zleceń składanych w formie pisemnej potwierdzenie następuje przez złożenie przez upoważnionego pracownika podpisu na dokumencie zawierającym zlecenie lub zlecenia.
 § 60.
@@ -1176,6 +1191,7 @@ Przepis ust. 1 stosuje się odpowiednio do dokonywania zapisów na rachunku klie
 Firma inwestycyjna, wykonując czynności polegające na nabywaniu lub zbywaniu instrumentów finansowych na własny rachunek, w celu realizacji zadań związanych z funkcją animatora rynku, składa oferty kupna lub sprzedaży instrumentów finansowych i wykonuje zawarte transakcje na warunkach określonych na danym rynku lub w danym systemie obrotu instrumentami finansowymi.
 § 74.
 Przepisy § 59–71 stosuje się odpowiednio do banków powierniczych w zakresie wykonywania czynności pośrednictwa w pożyczkach papierów wartościowych.
+Transakcje derywatami
 § 75.
 Do zleceń, których przedmiotem jest nabycie lub zbycie derywatów, stosuje się przepisy § 59–61 i § 73.
 § 76.
@@ -1184,8 +1200,7 @@ Firma inwestycyjna wystawia zlecenie brokerskie na podstawie zlecenia, którego 
 1)
 firmę inwestycyjną – w regulaminie wykonywania zleceń nabycia lub zbycia derywatów,
 2)
-bank powierniczy – w regulaminie prowadzenia rachunków papierów wartościowych
-zarejestrowane zgodnie z zasadami odrębnej rejestracji, o których mowa w przepisach wydanych na podstawie art. 94 ust. 1 pkt 5 ustawy.
+bank powierniczy – w regulaminie prowadzenia rachunków papierów wartościowych – zarejestrowane zgodnie z zasadami odrębnej rejestracji, o których mowa w przepisach wydanych na podstawie art. 94 ust. 1 pkt 5 ustawy.
 2.
 Wysokość zabezpieczenia, o którym mowa w ust. 1, zapewnia wykonanie zobowiązań klienta z tytułu transakcji terminowej, z uwzględnieniem obowiązków firmy inwestycyjnej lub banku powierniczego wynikających z uczestnictwa w systemie zabezpieczania płynności rozliczania transakcji organizowanym przez właściwą izbę rozliczeniową.
 3.
@@ -1214,6 +1229,7 @@ Przepisy niniejszego oddziału stosuje się odpowiednio do wykonywania zleceń n
 praw majątkowych oraz instrumentów rynku niepublicznego, którymi obrót jest związany z obowiązkiem ustanowienia zabezpieczenia;
 2)
 zagranicznych instrumentów finansowych, którymi obrót związany jest z obowiązkiem ustanowienia zabezpieczenia, o ile co innego nie wynika z przepisów regulujących obrót na danym zagranicznym rynku regulowanym.
+Szczególne zasady postępowania w przypadku, gdy instrumenty finansowe klienta są rejestrowane w podmiocie innym niż podmiot wykonujący zlecenia
 § 80.
 1.
 Firma inwestycyjna, która nie prowadzi rachunku klienta, z którym zawarła umowę o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych, zawiera z podmiotem prowadzącym rachunek klienta umowę o dostarczanie instrumentów finansowych.
@@ -1261,6 +1277,7 @@ W przypadku gdy rachunek klienta jest prowadzony przez Krajowy Depozyt lub spó�
 umowy, o których mowa w § 80 ust. 1 i § 81 ust. 1, firma inwestycyjna zawiera z takim klientem;
 2)
 umowa, o której mowa w § 80 ust. 1, zawiera co najmniej zobowiązanie takiego klienta do złożenia w Krajowym Depozycie lub spółce, której Krajowy Depozyt przekazał czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1 i 2 ustawy, dyspozycji blokady instrumentów finansowych na żądanie firmy inwestycyjnej.
+Wykonywanie przez firmę inwestycyjną zleceń w sposób, o którym mowa w art. 73 ust. 2 ustawy
 § 85.
 1.
 Firma inwestycyjna uzależnia zawarcie umowy o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych w sposób, o którym mowa w art. 73 ust. 2 ustawy, od złożenia przez klienta, w formie pisemnej, oświadczenia o jego sytuacji finansowej.
@@ -1274,6 +1291,7 @@ Kryteria, o których mowa w ust. 2, powinny umożliwiać firmie inwestycyjnej og
 Przepisów niniejszego oddziału nie stosuje się do wykonywania zleceń nabycia lub zbycia instrumentów finansowych w sposób, o którym mowa w art. 73 ust. 2 ustawy, polegających na przyjmowaniu zapisów na instrumenty finansowe emitowane lub wystawiane przez tę firmę inwestycyjną.
 § 87.
 Przepisy niniejszego oddziału stosuje się do banków, o których mowa w art. 70 ust. 2 ustawy, w zakresie papierów wartościowych emitowanych przez Skarb Państwa lub Narodowy Bank Polski dopuszczonych do obrotu na rynku regulowanym.
+Oferowanie instrumentów finansowych oraz przenoszenie instrumentów finansowych i środków pieniężnych klientów
 § 88.
 1.
 Firma inwestycyjna pośrednicząca w oferowaniu instrumentów finansowych, przyjmuje zapisy na instrumenty finansowe zgodnie z warunkami oferty.
@@ -1311,6 +1329,7 @@ Przeniesienie instrumentów finansowych i środków pieniężnych klienta albo u
 Przepisy niniejszego oddziału stosuje się odpowiednio do postępowania firmy inwestycyjnej, w przypadku gdy instrumenty finansowe są rejestrowane na rachunkach innych niż rachunki papierów wartościowych i rachunki zbiorcze lub są rejestrowane w ewidencji.
 § 93.
 Przepisy niniejszego oddziału stosuje się odpowiednio do postępowania banków, o których mowa w art. 70 ust. 2 ustawy.
+Postępowanie firm inwestycyjnych w przypadku ogłoszenia wezwań na nabywanie lub zamianę akcji
 § 94.
 1.
 W przypadku gdy zostało ogłoszone wezwanie do zapisywania się na sprzedaż lub zamianę akcji, firma inwestycyjna przyjmuje zapisy po sprawdzeniu, czy podmiot odpowiadający na wezwanie posiada akcje będące przedmiotem wezwania i czy zostały one zablokowane na jego rachunku.
@@ -1318,6 +1337,7 @@ W przypadku gdy zostało ogłoszone wezwanie do zapisywania się na sprzedaż lu
 W przypadku gdy akcje są zapisane na rachunku zbiorczym, firma inwestycyjna przyjmuje zapisy po uzyskaniu od posiadacza rachunku zbiorczego dokumentu, o którym mowa w art. 10 ust. 2 ustawy, potwierdzającego, że podmiot odpowiadający na wezwanie posiada akcje będące przedmiotem wezwania i zostały one zablokowane na rachunku zbiorczym.
 § 95.
 Firma inwestycyjna przyjmuje zapisy na sprzedaż lub zamianę akcji zgodnie z warunkami określonymi w treści wezwania.
+Ustanawianie i realizacja zabezpieczeń spłaty kredytów i pożyczek udzielonych na nabycie instrumentów finansowych
 § 96.
 1.
 Firma inwestycyjna wykonuje czynności związane z ustanawianiem i realizacją zabezpieczeń spłaty kredytów na nabycie instrumentów finansowych na podstawie umowy pomiędzy bankiem a klientem lub bankiem a uprawnionym z instrumentów finansowych zapisanych na rachunku zbiorczym, do której przystępuje, lub na podstawie odrębnej umowy pomiędzy bankiem a firmą inwestycyjną, zgodnie z którą firma inwestycyjna jest obowiązana dokonywać czynności zmierzających do ustanowienia i realizacji zabezpieczenia kredytu udzielonego przez bank.
@@ -1347,6 +1367,8 @@ Firma inwestycyjna przekazuje bankowi informacje, o których mowa w § 96 ust. 2
 Przepisy niniejszego rozdziału stosuje się odpowiednio do banków powierniczych oraz do postępowania firm inwestycyjnych i banków powierniczych, w przypadku ustanawiania i realizacji zabezpieczeń spłaty pożyczek na nabycie instrumentów finansowych.
 § 99.
 Przepisy niniejszego rozdziału stosuje się odpowiednio do banków, o których mowa w art. 70 ust. 2 ustawy.
+Tryb i warunki postępowania w przypadku zabezpieczenia wierzytelności na instrumentach finansowych
+Przepisy ogólne
 § 100.
 Firma inwestycyjna podejmuje czynności związane z ustanowieniem zabezpieczenia wierzytelności na instrumentach finansowych, w przypadku gdy są spełnione łącznie następujące warunki:
 1)
@@ -1374,6 +1396,7 @@ zostało ustanowione na papierach wartościowych zapisanych zgodnie z art. 4 ust
 do banku powierniczego, z zastrzeżeniem oddziału 4, którego przepisy dotyczące firmy inwestycyjnej stosuje się odpowiednio do banku powierniczego, oraz oddziału 5, którego przepisy stosuje się odpowiednio do banków powierniczych prowadzących rachunki zbiorcze.
 § 104.
 Przepisy niniejszego oddziału stosuje się odpowiednio do banków, o których mowa w art. 70 ust. 2 ustawy.
+Blokada instrumentów finansowych
 § 105.
 W przypadku gdy zabezpieczenie wierzytelności polega na ustanowieniu na rachunku prowadzonym dla klienta (dłużnika) blokady określonej liczby instrumentów finansowych, połączonej z ustanowieniem nieodwołalnego pełnomocnictwa dla osoby uprawnionej z tytułu blokady (wierzyciela) do sprzedaży zablokowanych instrumentów finansowych i zaspokojenia się z uzyskanych w ten sposób środków pieniężnych, firma inwestycyjna, na podstawie umowy o ustanowieniu blokady i złożeniu przez klienta dyspozycji blokady, w formie pisemnej, dokonuje blokady na rachunku klienta. Regulamin świadczenia usługi maklerskiej, o którym mowa w § 24 ust. 1, może określać dodatkowe warunki ustanawiania takiego pełnomocnictwa.
 § 106.
@@ -1425,6 +1448,7 @@ W przypadku gdy instrumenty finansowe będące zabezpieczeniem wierzytelności s
 Przepisy niniejszego oddziału stosuje się odpowiednio do trybu postępowania firmy inwestycyjnej w przypadku ustanawiania blokady na instrumentach finansowych niedopuszczonych do obrotu w systemie obrotu instrumentami finansowymi, jeżeli konstrukcja tych instrumentów umożliwia ustanowienie na nich blokady.
 § 113.
 Przepisy niniejszego oddziału stosuje się odpowiednio do trybu postępowania banków, o których mowa w art. 70 ust. 2 ustawy, w przypadku ustanawiania blokady na instrumentach finansowych ewidencjonowanych przez ten bank w związku z działalnością wykonywaną na podstawie art. 70 ust. 2 ustawy, jeżeli konstrukcja tych instrumentów umożliwia ustanowienie na nich blokady.
+Zastaw na instrumentach finansowych
 § 114.
 1.
 W przypadku gdy zabezpieczenie wierzytelności polega na ustanowieniu zastawu na określonej liczbie instrumentów finansowych zapisanych na rachunku, firma inwestycyjna, na podstawie umowy zastawu i złożeniu przez klienta dyspozycji blokady zastawionych instrumentów, w formie pisemnej, dokonuje na rachunku zastawcy blokady tych instrumentów.
@@ -1465,6 +1489,7 @@ W przypadku gdy zabezpieczenie wierzytelności polega na ustanowieniu zastawu na
 Przepisy niniejszego oddziału stosuje się odpowiednio do trybu postępowania firmy inwestycyjnej w przypadku ustanawiania zastawu lub zastawu rejestrowego na instrumentach finansowych niedopuszczonych do obrotu w systemie obrotu instrumentami finansowymi, jeżeli konstrukcja tych instrumentów umożliwia ustanowienie na nich tych zabezpieczeń.
 § 125.
 Przepisy niniejszego oddziału stosuje się odpowiednio do trybu postępowania banków, o których mowa w art. 70 ust. 2 ustawy, w przypadku ustanawiania zastawu lub zastawu rejestrowego na instrumentach finansowych ewidencjonowanych przez ten bank w związku z działalnością wykonywaną na podstawie art. 70 ust. 2 ustawy.
+Zabezpieczenia finansowe
 § 126.
 1.
 Po otrzymaniu umowy o ustanowieniu blokady finansowej firma inwestycyjna dokonuje na rachunku lub w ewidencji prowadzonej na rzecz dłużnika blokady instrumentów finansowych wskazanych w umowie.
@@ -1550,6 +1575,7 @@ W przypadku wystąpienia okoliczności, o których mowa w § 136, firma inwestyc
 Do sposobu postępowania firmy inwestycyjnej w przypadku zaspokajania roszczeń wynikających z zastawu finansowego przez kompensatę stosuje się odpowiednio § 131.
 § 140.
 Przepisy niniejszego oddziału stosuje się odpowiednio do banków, o których mowa w art. 70 ust. 2 ustawy.
+Szczególne zasady dotyczące ustanawiania zabezpieczeń na rachunkach zbiorczych
 § 141.
 1.
 Ustanowienie zabezpieczenia wierzytelności na rachunku zbiorczym może nastąpić przez podmiot uprawniony z instrumentów finansowych zarejestrowanych na tym rachunku, wskazany firmie inwestycyjnej zgodnie z art. 8a ust. 4 ustawy.
@@ -1567,6 +1593,7 @@ Firma inwestycyjna przyjmuje do wykonania zlecenie sprzedaży instrumentów fina
 W zakresie nieuregulowanym w niniejszym oddziale do ustanowienia zabezpieczenia na instrumentach finansowych rejestrowanych na rachunku zbiorczym stosuje się przepisy oddziału 1–4 niniejszego rozdziału.
 § 143.
 Przepisy niniejszego oddziału stosuje się odpowiednio do banków, o których mowa w art. 70 ust. 2 ustawy.
+Sprawozdania przekazywane klientom
 § 144.
 1.
 W przypadku świadczenia usługi maklerskiej, o której mowa w art. 69 ust. 2 pkt 1 ustawy, w sposób, o którym mowa w art. 74b ust. 1 pkt 1 ustawy, firma inwestycyjna przekazuje klientowi sprawozdanie obejmujące:
@@ -1682,61 +1709,74 @@ ust. 2 pkt 5 ustawy – przepis § 145,
 5)
 ust. 4 pkt 1 ustawy – przepis art. 63 rozporządzenia 2017/565,
 6)
-ust. 4 pkt 6 ustawy – przepis § 146
-stosuje się odpowiednio.
+ust. 4 pkt 6 ustawy – przepis § 146 – stosuje się odpowiednio.
 § 148.
 Przepisy § 144–147 stosuje się odpowiednio do banków, o których mowa w art. 70 ust. 2 ustawy.
+Przepis końcowy
 § 149.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie: 1) w zakresie swojej regulacji wdraża: – dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającą dyrektywę 2002/92/WE i dyrektywę 2011/61/UE (Dz. Urz. UE L 173 z 12.06.2014, str. 349, Dz. Urz. UE L 257 z 28.08.2014, str. 1, Dz. Urz. UE L 26 z 02.02.2016, str. 19, Dz. Urz. UE L 175 z 30.06.2016, str. 8, Dz. Urz. UE L 188 z 13.07.2016, str. 28, Dz. Urz. UE L 273 z 08.10.2016, str. 35, Dz. Urz. UE L 64 z 10.03.2017, str. 116, Dz. Urz. UE L 231 z 14.09.2018, str. 39, Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 320 z 11.12.2019, str. 1, Dz. Urz. UE L 334 z 27.12.2019, str. 155, Dz. Urz. UE L 347 z 20.10.2020, str. 50, Dz. Urz. UE L 68 z 26.02.2021, str. 14, Dz. Urz. UE L 151 z 02.06.2022, str. 1 oraz Dz. Urz. UE L 333 z 27.12.2022, str. 153), – dyrektywę delegowaną Komisji (UE) 2017/593 z dnia 7 kwietnia 2016 r. uzupełniającą dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do zabezpieczenia instrumentów finansowych i środków pieniężnych należących do klientów, zobowiązań w zakresie zarządzania produktami oraz zasad mających zastosowanie do oferowania lub przyjmowania wynagrodzeń, prowizji bądź innych korzyści pieniężnych lub niepieniężnych (Dz. Urz. UE L 87 z 31.03.2017, str. 500 oraz Dz. Urz. UE L 277 z 02.08.2021, str. 137); 2) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1, Dz. Urz. UE L 257 z 28.08.2014, str. 1, Dz. Urz. UE L 6 z 11.01.2022, str. 9, Dz. Urz. UE L 2023/2869 z 20.12.2023 oraz Dz. Urz. UE L 2023/2845 z 27.12.2023). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 198 z 22.06.2020, str. 13, Dz. Urz. UE L 48 z 11.02.2021, str. 10 oraz Dz. Urz. UE L 2023/2869 z 20.12.2023. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 27.06.2013, str. 1, Dz. Urz. UE L 279 z 19.10.2013, str. 2, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 173 z 12.06.2014, str. 84, Dz. Urz. UE L 141 z 05.06.2015, str. 73, Dz. Urz. UE L 239 z 15.09.2015, str. 63, Dz. Urz. UE L 337 z 23.12.2015, str. 1, Dz. Urz. UE L 86 z 31.03.2017, str. 3, Dz. Urz. UE L 148 z 10.06.2017, str. 1, Dz. Urz. UE L 347 z 28.12.2017, str. 35, Dz. Urz. UE L 80 z 22.03.2019, str. 8, Dz. Urz. UE L 141 z 28.05.2019, str. 42, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 322 z 12.12.2019, str. 1, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 49 z 12.02.2021, str. 6 oraz Dz. Urz. UE L 333 z 27.12.2022, str. 1. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 349 z 21.12.2016, str. 8, Dz. Urz. UE L 151 z 02.06.2022, str. 1, Dz. Urz. UE L 333 z 27.12.2022, str. 1 oraz Dz. Urz. UE L 2023/2845 z 27.12.2023. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 246 z 26.09.2017, str. 12, Dz. Urz. UE L 329 z 13.12.2017, str. 4, Dz. Urz. UE L 113 z 29.04.2019, str. 18, Dz. Urz. UE L 165 z 21.06.2019, str. 1, Dz. Urz. UE L 190 z 16.07.2019, str. 18, Dz. Urz. UE L 106 z 26.03.2021, str. 30, Dz. Urz. UE L 277 z 02.08.2021, str. 1 oraz Dz. Urz. UE L 277 z 02.08.2021, str. 6. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 4, Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 334 z 27.12.2019, str. 1, Dz. Urz. UE L 20 z 24.01.2020, str. 26, Dz. Urz. UE L 405 z 02.12.2020, str. 79, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 131 z 05.05.2022, str. 11, Dz. Urz. UE L 151 z 02.06.2022, str. 1, Dz. Urz. UE L 283 z 03.11.2022, str. 17, Dz. Urz. UE L 333 z 27.12.2022, str. 1, Dz. Urz. UE L 2023/2869 z 20.12.2023 oraz Dz. Urz. UE L 2024/791 z 08.03.2024. 8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 358 z 13.12.2014, str. 50, Dz. Urz. UE L 354 z 23.12.2016, str. 35, Dz. Urz. UE L 40 z 12.02.2019, str. 109, Dz. Urz. UE L 188 z 12.07.2019, str. 55, Dz. Urz. UE L 455 z 20.12.2021, str. 1 oraz Dz. Urz. UE L 2023/2869 z 20.12.2023. 9) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 30 maja 2018 r. w sprawie trybu i warunków postępowania firm inwestycyjnych, banków, o których mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, oraz banków powierniczych (Dz. U. z 2023 r. poz. 1464), które utraciło moc z dniem 30 września 2024 r. zgodnie z art. 50 ust. 2 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 30 maja 2018 r. w sprawie trybu i warunków postępowania firm inwestycyjnych, banków, o których mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, oraz banków powierniczych (Dz. U. z 2023 r. poz. 1464), które utraciło moc z dniem 30 września 2024 r. zgodnie z art. 50 ust. 2 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie: 1) w zakresie swojej regulacji wdraża: – dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającą dyrektywę 2002/92/WE i dyrektywę 2011/61/UE (Dz. Urz. UE L 173 z 12.06.2014, str. 349, Dz. Urz. UE L 257 z 28.08.2014, str. 1, Dz. Urz. UE L 26 z 02.02.2016, str. 19, Dz. Urz. UE L 175 z 30.06.2016, str. 8, Dz. Urz. UE L 188 z 13.07.2016, str. 28, Dz. Urz. UE L 273 z 08.10.2016, str. 35, Dz. Urz. UE L 64 z 10.03.2017, str. 116, Dz. Urz. UE L 231 z 14.09.2018, str. 39, Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 320 z 11.12.2019, str. 1, Dz. Urz. UE L 334 z 27.12.2019, str. 155, Dz. Urz. UE L 347 z 20.10.2020, str. 50, Dz. Urz. UE L 68 z 26.02.2021, str. 14, Dz. Urz. UE L 151 z 02.06.2022, str. 1 oraz Dz. Urz. UE L 333 z 27.12.2022, str. 153), – dyrektywę delegowaną Komisji (UE) 2017/593 z dnia 7 kwietnia 2016 r. uzupełniającą dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do zabezpieczenia instrumentów finansowych i środków pieniężnych należących do klientów, zobowiązań w zakresie zarządzania produktami oraz zasad mających zastosowanie do oferowania lub przyjmowania wynagrodzeń, prowizji bądź innych korzyści pieniężnych lub niepieniężnych (Dz. Urz. UE L 87 z 31.03.2017, str. 500 oraz Dz. Urz. UE L 277 z 02.08.2021, str. 137); 2) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1, Dz. Urz. UE L 257 z 28.08.2014, str. 1, Dz. Urz. UE L 6 z 11.01.2022, str. 9, Dz. Urz. UE L 2023/2869 z 20.12.2023 oraz Dz. Urz. UE L 2023/2845 z 27.12.2023). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 198 z 22.06.2020, str. 13, Dz. Urz. UE L 48 z 11.02.2021, str. 10 oraz Dz. Urz. UE L 2023/2869 z 20.12.2023. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 27.06.2013, str. 1, Dz. Urz. UE L 279 z 19.10.2013, str. 2, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 173 z 12.06.2014, str. 84, Dz. Urz. UE L 141 z 05.06.2015, str. 73, Dz. Urz. UE L 239 z 15.09.2015, str. 63, Dz. Urz. UE L 337 z 23.12.2015, str. 1, Dz. Urz. UE L 86 z 31.03.2017, str. 3, Dz. Urz. UE L 148 z 10.06.2017, str. 1, Dz. Urz. UE L 347 z 28.12.2017, str. 35, Dz. Urz. UE L 80 z 22.03.2019, str. 8, Dz. Urz. UE L 141 z 28.05.2019, str. 42, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 322 z 12.12.2019, str. 1, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 49 z 12.02.2021, str. 6 oraz Dz. Urz. UE L 333 z 27.12.2022, str. 1. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 349 z 21.12.2016, str. 8, Dz. Urz. UE L 151 z 02.06.2022, str. 1, Dz. Urz. UE L 333 z 27.12.2022, str. 1 oraz Dz. Urz. UE L 2023/2845 z 27.12.2023. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 246 z 26.09.2017, str. 12, Dz. Urz. UE L 329 z 13.12.2017, str. 4, Dz. Urz. UE L 113 z 29.04.2019, str. 18, Dz. Urz. UE L 165 z 21.06.2019, str. 1, Dz. Urz. UE L 190 z 16.07.2019, str. 18, Dz. Urz. UE L 106 z 26.03.2021, str. 30, Dz. Urz. UE L 277 z 02.08.2021, str. 1 oraz Dz. Urz. UE L 277 z 02.08.2021, str. 6. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 4, Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 334 z 27.12.2019, str. 1, Dz. Urz. UE L 20 z 24.01.2020, str. 26, Dz. Urz. UE L 405 z 02.12.2020, str. 79, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 131 z 05.05.2022, str. 11, Dz. Urz. UE L 151 z 02.06.2022, str. 1, Dz. Urz. UE L 283 z 03.11.2022, str. 17, Dz. Urz. UE L 333 z 27.12.2022, str. 1, Dz. Urz. UE L 2023/2869 z 20.12.2023 oraz Dz. Urz. UE L 2024/791 z 08.03.2024. 8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 358 z 13.12.2014, str. 50, Dz. Urz. UE L 354 z 23.12.2016, str. 35, Dz. Urz. UE L 40 z 12.02.2019, str. 109, Dz. Urz. UE L 188 z 12.07.2019, str. 55, Dz. Urz. UE L 455 z 20.12.2021, str. 1 oraz Dz. Urz. UE L 2023/2869 z 20.12.2023. 9) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 30 maja 2018 r. w sprawie trybu i warunków postępowania firm inwestycyjnych, banków, o których mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, oraz banków powierniczych (Dz. U. z 2023 r. poz. 1464), które utraciło moc z dniem 30 września 2024 r. zgodnie z art. 50 ust. 2 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Tryb i warunki postępowania firm inwestycyjnych w kontaktach z klientami
+#### Rozdział 2 – Tryb i warunki postępowania firm inwestycyjnych w kontaktach z klientami
 
-##### Oddział 1 Przepisy ogólne
+#### Rozdział 3 – Zawieranie transakcji i dokonywanie rozliczeń
 
-##### Oddział 2 Tryb i warunki postępowania firm inwestycyjnych przyjmujących lub przekazujących świadczenia pieniężne, w tym opłaty i prowizje, lub świadczenie niepieniężne
+#### Rozdział 4 – Ustanawianie i realizacja zabezpieczeń spłaty kredytów i pożyczek udzielonych na nabycie instrumentów finansowych
 
-##### Oddział 3 Świadczenie usług maklerskich
+#### Rozdział 5 – Tryb i warunki postępowania w przypadku zabezpieczenia wierzytelności na instrumentach finansowych
 
-##### Oddział 4 Tryb i warunki postępowania firm inwestycyjnych emitujących lub wystawiających instrumenty finansowe lub udzielających porad w zakresie emitowania lub wystawiania instrumentu finansowego
+#### Rozdział 6 – Sprawozdania przekazywane klientom
 
-##### Oddział 5 Tryb i warunki postępowania firm inwestycyjnych rekomendujących, oferujących albo w inny sposób umożliwiających nabycie lub objęcie instrumentu finansowego
+#### Rozdział 7 – Przepis końcowy
 
-##### Oddział 6 Stosowanie przepisów niniejszego rozdziału do banków prowadzących działalność maklerską, banków państwowych prowadzących działalność maklerską, banków, o których mowa w art. 70 ust. 2 ustawy, oraz banków powierniczych
+#### Rozdział 1
 
-#### Rozdział 3 Zawieranie transakcji i dokonywanie rozliczeń
+#### Rozdział 2
 
-##### Oddział 1 Przyjmowanie i przekazywanie zleceń oraz zasady wykonywania zleceń
+##### Oddział 1
 
-##### Oddział 2 Szczególne zasady wykonywania zleceń
+##### Oddział 2
 
-##### Oddział 3 Transakcje derywatami
+##### Oddział 3
 
-##### Oddział 4 Szczególne zasady postępowania w przypadku, gdy instrumenty finansowe klienta są rejestrowane w podmiocie innym niż podmiot wykonujący zlecenia
+##### Oddział 4
 
-##### Oddział 5 Wykonywanie przez firmę inwestycyjną zleceń w sposób, o którym mowa w art. 73 ust. 2 ustawy
+##### Oddział 5
 
-##### Oddział 6 Oferowanie instrumentów finansowych oraz przenoszenie instrumentów finansowych i środków pieniężnych klientów
+##### Oddział 6
 
-##### Oddział 7 Postępowanie firm inwestycyjnych w przypadku ogłoszenia wezwań na nabywanie lub zamianę akcji
+#### Rozdział 3
 
-#### Rozdział 4 Ustanawianie i realizacja zabezpieczeń spłaty kredytów i pożyczek udzielonych na nabycie instrumentów finansowych
+##### Oddział 1
 
-#### Rozdział 5 Tryb i warunki postępowania w przypadku zabezpieczenia wierzytelności na instrumentach finansowych
+##### Oddział 2
 
-##### Oddział 1 Przepisy ogólne
+##### Oddział 3
 
-##### Oddział 2 Blokada instrumentów finansowych
+##### Oddział 4
 
-##### Oddział 3 Zastaw na instrumentach finansowych
+##### Oddział 5
 
-##### Oddział 4 Zabezpieczenia finansowe
+##### Oddział 6
 
-##### Oddział 5 Szczególne zasady dotyczące ustanawiania zabezpieczeń na rachunkach zbiorczych
+##### Oddział 7
 
-#### Rozdział 6 Sprawozdania przekazywane klientom
+#### Rozdział 4
 
-#### Rozdział 7 Przepis końcowy
+#### Rozdział 5
+
+##### Oddział 1
+
+##### Oddział 2
+
+##### Oddział 3
+
+##### Oddział 4
+
+##### Oddział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
 

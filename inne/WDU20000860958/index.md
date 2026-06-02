@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2000-09-08 |
 | Data wydania | 2000-10-17 |
-| Wejście w życie | 2000-11-17 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000860958) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/958/text.pdf) |
 
@@ -331,8 +330,9 @@ source: "eli-html"
 - **2b)** warunki i zakres podziału zysku pomiędzy koncesjonariusza a Fundusz, ” pkt 4 otrzymuje brzmienie: „
     - **b)**
 
-- **4)** sposób, terminy i zasady odpłatności z tytułu udostępnienia koncesjonariuszowi przez Agencję gruntów pod budowę autostrady oraz warunki zagospodarowania znajdujących się na nich budynków, budowli, urządzeń, drzewostanu i upraw, ” w pkt 7: – w lit. d) wyrazy „Sił Zbrojnych” zastępuje się wyrazami „Sił Zbrojnych Rzeczypospolitej Polskiej” i dodaje się wyrazy „oraz sił zbrojnych państw sojuszniczych”, – po lit. d) dodaje się lit. e) w brzmieniu: „ e) zapewnienia Policji pomieszczeń w zakresie przewidzianym w przepisach techniczno-budowlanych dotyczących autostrad płatnych, umożliwiających skuteczne realizowanie przez nią zadań w zakresie czuwania nad bezpieczeństwem i porządkiem w ruchu drogowym oraz jego kontrolowania na obszarze autostrad płatnych, ” po pkt 8 dodaje się pkt 8a i 8b w brzmieniu: „
+- **4)** sposób, terminy i zasady odpłatności z tytułu udostępnienia koncesjonariuszowi przez Agencję gruntów pod budowę autostrady oraz warunki zagospodarowania znajdujących się na nich budynków, budowli, urządzeń, drzewostanu i upraw, ” w pkt 7: – w lit. d) wyrazy „Sił Zbrojnych” zastępuje się wyrazami „Sił Zbrojnych Rzeczypospolitej Polskiej” i dodaje się wyrazy „oraz sił zbrojnych państw sojuszniczych”, po lit. d) dodaje się lit. e) w brzmieniu: „ zapewnienia Policji pomieszczeń w zakresie przewidzianym w przepisach techniczno-budowlanych dotyczących autostrad płatnych, umożliwiających skuteczne realizowanie przez nią zadań w zakresie czuwania nad bezpieczeństwem i porządkiem w ruchu drogowym oraz jego kontrolowania na obszarze autostrad płatnych, ” po pkt 8 dodaje się pkt 8a i 8b w brzmieniu: „
     - **c)**
+    - **e)**
     - **d)**
 
 - **8a)** warunki dopuszczenia autostrady do eksploatacji,

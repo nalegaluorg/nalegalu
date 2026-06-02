@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-07 |
 | Data wydania | 2024-05-16 |
-| Wejście w życie | 2024-05-24 |
 | Ostatnia zmiana | 2024-05-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000734) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/734/text.pdf) |
 
@@ -102,6 +101,5 @@ Wnioski o pożyczkę oraz wnioski o umorzenie pożyczki, złożone i nierozpatrz
 2.
 Wnioski o pożyczkę oraz wnioski o umorzenie pożyczki, o których mowa w ust. 1, niedostosowane do wymogów rozporządzenia w terminie, o którym mowa w ust. 1, pozostawia się bez rozpatrzenia.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Zakres spraw uregulowany w niniejszym rozporządzeniu był poprzednio uregulowany w rozporządzeniu Rady Ministrów z dnia 3 lutego 2004 r. w sprawie warunków i trybu udzielania przez Skarb Państwa poręczeń kredytów bankowych zaciągniętych przez Korporację Ubezpieczeń Kredytów Eksportowych Spółka Akcyjna oraz udzielania i umarzania pożyczek ze środków budżetu państwa (Dz. U. poz. 210, z 2010 r. poz. 873 oraz z 2022 r. poz. 1449), które utraciło moc z dniem 28 września 2023 r. w związku z wejściem w życie ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych oraz niektórych innych ustaw (Dz. U. poz. 1859).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Zakres spraw uregulowany w niniejszym rozporządzeniu był poprzednio uregulowany w rozporządzeniu Rady Ministrów z dnia 3 lutego 2004 r. w sprawie warunków i trybu udzielania przez Skarb Państwa poręczeń kredytów bankowych zaciągniętych przez Korporację Ubezpieczeń Kredytów Eksportowych Spółka Akcyjna oraz udzielania i umarzania pożyczek ze środków budżetu państwa (Dz. U. poz. 210, z 2010 r. poz. 873 oraz z 2022 r. poz. 1449), które utraciło moc z dniem 28 września 2023 r. w związku z wejściem w życie ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych oraz niektórych innych ustaw (Dz. U. poz. 1859). 1) Zakres spraw uregulowany w niniejszym rozporządzeniu był poprzednio uregulowany w rozporządzeniu Rady Ministrów z dnia 3 lutego 2004 r. w sprawie warunków i trybu udzielania przez Skarb Państwa poręczeń kredytów bankowych zaciągniętych przez Korporację Ubezpieczeń Kredytów Eksportowych Spółka Akcyjna oraz udzielania i umarzania pożyczek ze środków budżetu państwa (Dz. U. poz. 210, z 2010 r. poz. 873 oraz z 2022 r. poz. 1449), które utraciło moc z dniem 28 września 2023 r. w związku z wejściem w życie ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych oraz niektórych innych ustaw (Dz. U. poz. 1859).
 

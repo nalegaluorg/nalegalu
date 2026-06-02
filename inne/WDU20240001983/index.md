@@ -31,13 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 29 września 2006 r. w sprawie oddelegowania funkcjonariusza Służby Kontrwywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Kontrwywiadu Wojskowego (Dz. U. z 2014 r. poz. 1036), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Obrony Narodowej z dnia 20 stycznia 2023 r. zmieniającym rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Kontrwywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Kontrwywiadu Wojskowego (Dz. U. poz. 232).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Obrony Narodowej z dnia 20 stycznia 2023 r. zmieniającego rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Kontrwywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Kontrwywiadu Wojskowego (Dz. U. poz. 232), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Obrony Narodowej z dnia 20 stycznia 2023 r. zmieniającego rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Kontrwywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Kontrwywiadu Wojskowego (Dz. U. poz. 232), które stanowią: „
 § 2.
 Do dnia wejścia w życie przepisów wydanych na podstawie art. 203 ust. 8 i art. 468 ust. 10 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305) w zakresie szczególnych uprawnień i obowiązków funkcjonariusza Służby Kontrwywiadu Wojskowego pełniącego służbę poza granicami państwa stosuje się odpowiednio przepisy wydane na podstawie art. 24 ust. 8 i art. 102 ust. 10 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2022 r. poz. 536) utrzymane czasowo w mocy na podstawie art. 822 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, jednak nie dłużej niż do upływu terminu określonego w tym przepisie.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 29 września 2006 r. w sprawie oddelegowania funkcjonariusza Służby Kontrwywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Kontrwywiadu Wojskowego
 Na podstawie art. 15 ust. 3 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2023 r. poz. 2098 oraz z 2024 r. poz. 1871) zarządza się, co następuje:
 § 1.
@@ -108,11 +106,11 @@ numer poświadczenia bezpieczeństwa wydanego oddelegowanemu funkcjonariuszowi, 
 stanowisko służbowe, które oddelegowany funkcjonariusz będzie zajmował;
 7)
 zakres zadań i obowiązków oddelegowanego funkcjonariusza.
-§ 7a.
+§ 7aDodany przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 20 stycznia 2023 r. zmieniającego rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Kontrwywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Kontrwywiadu Wojskowego (Dz. U. poz. 232), które weszło w życie z dniem 17 lutego 2023 r..
 Kierownik podmiotu oddelegowania wyznacza oddelegowanego funkcjonariusza SKW na stanowisko służbowe, zgodnie z porozumieniem, w formie przewidzianej dla tego stanowiska.
 § 8.
 Na czas oddelegowania funkcjonariusza przenosi się do dyspozycji Szefa SKW.
-§ 9.
+§ 9W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Oddelegowany funkcjonariusz SKW w czasie oddelegowania podlega Szefowi SKW, a w zakresie wykonywanych zadań i obowiązków określonych w porozumieniu – kierownikowi podmiotu oddelegowania.
 § 10.
 1.
@@ -132,8 +130,8 @@ b)
 nagrody roczne oraz uznaniowe, jeżeli podmiot oddelegowania wypłaca takie nagrody, oraz zapomogi,
 c)
 należności za podróże służbowe i przeniesienia,
-d)
-należności i świadczenia wynikające z przepisów wydanych na podstawie art. 203 ust. 8 pkt 4 i art. 468 ust. 10 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm.) – w przypadku pełnienia służby poza granicami państwa;
+dDodana przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.)
+należności i świadczenia wynikające z przepisów wydanych na podstawie art. 203 ust. 8 pkt 4 i art. 468 ust. 10 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1248, 1585, 1871 i 1907.) – w przypadku pełnienia służby poza granicami państwa;
 2)
 właściwą jednostkę organizacyjną SKW:
 a)
@@ -161,8 +159,8 @@ Oddelegowany funkcjonariusz SKW może być bez jego zgody odwołany z oddelegowa
 Szef SKW odwołuje funkcjonariusza SKW z oddelegowania na jego pisemny wniosek.
 3.
 W przypadku odwołania z oddelegowania lub upływu okresu, na który nastąpiło oddelegowanie, oddelegowany funkcjonariusz SKW jest obowiązany stawić się do służby w SKW.
-§ 14.
+§ 14W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1..
 W zakresie szczególnych uprawnień i obowiązków funkcjonariusza SKW pełniącego służbę poza granicami państwa stosuje się odpowiednio przepisy wydane na podstawie art. 203 ust. 8 i art. 468 ust. 10 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny.
 § 15.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 10 października 2006 r.. 1) Dodany przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 20 stycznia 2023 r. zmieniającego rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Kontrwywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Kontrwywiadu Wojskowego (Dz. U. poz. 232), które weszło w życie z dniem 17 lutego 2023 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Dodana przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1248, 1585, 1871 i 1907. 5) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1. 6) Rozporządzenie zostało ogłoszone w dniu 10 października 2006 r.
 

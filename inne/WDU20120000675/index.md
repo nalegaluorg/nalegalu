@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-06-08 |
 | Data wydania | 2012-06-15 |
-| Wejście w życie | 2012-06-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000675) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/675/text.pdf) |
 
@@ -57,7 +56,7 @@ kopie:
 a)
 odpisu z Krajowego Rejestru Sądowego, o ile wnioskodawca podlega wpisowi,
 b)
-bilansu, rachunku zysków i strat, rachunku przepływów pieniężnych kredytobiorcy oraz informacji dodatkowej, obejmującej wprowadzenie do sprawozdania finansowego, oraz dodatkowych informacji i objaśnień, sporządzonych w formie i treści zgodnej z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2009 r. Nr 152, poz. 1223, z późn. zm.) na ostatni dzień miesiąca poprzedzającego złożenie wniosku, a także za ostatnie trzy lata obrotowe, a jeżeli działalność jest prowadzona krócej niż trzy lata – za wszystkie okresy sprawozdawcze, wraz z kopiami zestawień wartości podstawowych wskaźników finansowych:
+bilansu, rachunku zysków i strat, rachunku przepływów pieniężnych kredytobiorcy oraz informacji dodatkowej, obejmującej wprowadzenie do sprawozdania finansowego, oraz dodatkowych informacji i objaśnień, sporządzonych w formie i treści zgodnej z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2009 r. Nr 152, poz. 1223, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 165, poz. 1316, z 2010 r. Nr 47, poz. 278 oraz z 2011 r. Nr 102, poz. 585, Nr 199, poz. 1175 i Nr 232, poz. 1378.) na ostatni dzień miesiąca poprzedzającego złożenie wniosku, a także za ostatnie trzy lata obrotowe, a jeżeli działalność jest prowadzona krócej niż trzy lata – za wszystkie okresy sprawozdawcze, wraz z kopiami zestawień wartości podstawowych wskaźników finansowych:
 – dochodowości, ryzyka działalności kredytowej, płynności, wypłacalności i ryzyka dewizowego – w przypadku banku,
 – płynności finansowej, rotacji majątku, struktury kapitałowej i majątkowej, rentowności, rozwoju – w przypadku pozostałych przedsiębiorców,
 oraz określeniem metodologii ich obliczania,
@@ -106,7 +105,7 @@ W przypadku wniosku o udzielenie poręczenia lub gwarancji bankowi lub międzyna
 5.
 W przypadku wniosku o udzielenie poręczenia lub gwarancji spłaty kredytu przeznaczonego na spłatę zobowiązania objętego już poręczeniem lub gwarancją Skarbu Państwa, wraz z odsetkami i innymi kosztami bezpośrednio związanymi z tym zobowiązaniem, do wniosku zamiast kopii dokumentu, o którym mowa w ust. 1 pkt 1 lit. d, dołącza się kopię aktualizacji analizy wykonalności przedsięwzięcia (biznesplanu) związanego ze zobowiązaniem objętym już poręczeniem lub gwarancją Skarbu Państwa.
 6.
-W przypadku wniosku o udzielenie poręczenia lub gwarancji spłaty zobowiązań zaciąganych przez Bank Gospodarstwa Krajowego na rzecz Krajowego Funduszu Drogowego na podstawie art. 39d ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2004 r. Nr 256, poz. 2571, z późn. zm.) lub na rzecz Funduszu Kolejowego na podstawie art. 7 ustawy z dnia 16 grudnia 2005 r. o Funduszu Kolejowym (Dz. U. z 2006 r. Nr 12, poz. 61, z późn. zm.), do wniosku nie dołącza się kopii: analizy wykonalności przedsięwzięcia, prognozy sytuacji ekonomiczno-finansowej kredytobiorcy i planu kredytowania przedsięwzięcia, o których mowa w ust. 1 pkt 1 lit. d.
+W przypadku wniosku o udzielenie poręczenia lub gwarancji spłaty zobowiązań zaciąganych przez Bank Gospodarstwa Krajowego na rzecz Krajowego Funduszu Drogowego na podstawie art. 39d ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2004 r. Nr 256, poz. 2571, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 155, poz. 1297 i Nr 172, poz. 1440, z 2006 r. Nr 12, poz. 61, z 2007 r. Nr 23, poz. 136 i Nr 99, poz. 666, z 2008 r. Nr 218, poz. 1391, z 2009 r. Nr 3, poz. 11, Nr 19, poz. 101, Nr 86, poz. 720, Nr 105, poz. 877, Nr 115, poz. 966, Nr 143, poz. 1164, Nr 157, poz. 1241 i Nr 223, poz. 1776 oraz z 2011 r. Nr 222, poz. 1321 i Nr 234, poz. 1387.) lub na rzecz Funduszu Kolejowego na podstawie art. 7 ustawy z dnia 16 grudnia 2005 r. o Funduszu Kolejowym (Dz. U. z 2006 r. Nr 12, poz. 61, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 115, poz. 966, z 2010 r. Nr 108, poz. 686 i Nr 247, poz. 1651 oraz z 2011 r. Nr 187, poz. 1113.), do wniosku nie dołącza się kopii: analizy wykonalności przedsięwzięcia, prognozy sytuacji ekonomiczno-finansowej kredytobiorcy i planu kredytowania przedsięwzięcia, o których mowa w ust. 1 pkt 1 lit. d.
 7.
 W przypadku, o którym mowa w ust. 6, Bank Gospodarstwa Krajowego dołącza do wniosku kopię długoterminowej projekcji przepływów finansowych Krajowego Funduszu Drogowego albo kopię długoterminowej projekcji przepływów finansowych Funduszu Kolejowego.
 § 4.
@@ -185,8 +184,7 @@ poręczenia lub gwarancji, o których mowa w § 2–5, w odniesieniu do poręcze
 2)
 poręczenia lub gwarancji, o których mowa w § 2–5, w odniesieniu do poręczeń i gwarancji, o których mowa w art. 3 ust. 6 ustawy, składa się do Banku Gospodarstwa Krajowego,
 3)
-poręczenia, o którym mowa w § 6, składa się do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego
-zwanego dalej „podmiotem rozpatrującym wniosek”.
+poręczenia, o którym mowa w § 6, składa się do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego – zwanego dalej „podmiotem rozpatrującym wniosek”.
 § 10.
 1.
 Rozpatrzenie kompletnego wniosku następuje niezwłocznie po jego złożeniu.
@@ -213,5 +211,5 @@ minister właściwy do spraw finansów publicznych, w odniesieniu do poręczeń 
 2)
 Prezes Banku Gospodarstwa Krajowego, w odniesieniu do poręczeń i gwarancji, o których mowa w art. 3 ust. 6 ustawy.
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 19 maja 2009 r. w sprawie udzielania przez Skarb Państwa poręczenia i gwarancji oraz opłaty prowizyjnej od poręczenia i gwarancji (Dz. U. Nr 77, poz. 650), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 93 ust. 1 ustawy z dnia 25 marca 2011 r. o ograniczaniu barier administracyjnych dla obywateli i przedsiębiorców (Dz. U. Nr 106, poz. 622, Nr 131, poz. 764, Nr 133, poz. 767 i Nr 187, poz. 1110). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 165, poz. 1316, z 2010 r. Nr 47, poz. 278 oraz z 2011 r. Nr 102, poz. 585, Nr 199, poz. 1175 i Nr 232, poz. 1378. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 155, poz. 1297 i Nr 172, poz. 1440, z 2006 r. Nr 12, poz. 61, z 2007 r. Nr 23, poz. 136 i Nr 99, poz. 666, z 2008 r. Nr 218, poz. 1391, z 2009 r. Nr 3, poz. 11, Nr 19, poz. 101, Nr 86, poz. 720, Nr 105, poz. 877, Nr 115, poz. 966, Nr 143, poz. 1164, Nr 157, poz. 1241 i Nr 223, poz. 1776 oraz z 2011 r. Nr 222, poz. 1321 i Nr 234, poz. 1387. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 115, poz. 966, z 2010 r. Nr 108, poz. 686 i Nr 247, poz. 1651 oraz z 2011 r. Nr 187, poz. 1113. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 19 maja 2009 r. w sprawie udzielania przez Skarb Państwa poręczenia i gwarancji oraz opłaty prowizyjnej od poręczenia i gwarancji (Dz. U. Nr 77, poz. 650), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 93 ust. 1 ustawy z dnia 25 marca 2011 r. o ograniczaniu barier administracyjnych dla obywateli i przedsiębiorców (Dz. U. Nr 106, poz. 622, Nr 131, poz. 764, Nr 133, poz. 767 i Nr 187, poz. 1110).
 

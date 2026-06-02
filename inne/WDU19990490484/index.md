@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1999-05-06 |
 | Data wydania | 1999-05-31 |
-| Wejście w życie | 1999-06-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990490484) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/484/text.pdf) |
 
@@ -101,7 +100,7 @@ source: "eli-html"
 - **3)** rozliczania wyników finansowych działalności gospodarczej, o której mowa w art. 24 ust. 1 pkt 4,
 - **4)** wyceny bilansowej majątku trwałego Zasobu,
 - **5)** tworzenia rezerw na zdarzenia dotyczące działalności statutowej,
-- **6)** sporządzania sprawozdań finansowych określonych w rozporządzeniu przez ministra właściwego do spraw finansów publicznych. ” ;
+- **6)** sporządzania sprawozdań finansowych – określonych w rozporządzeniu przez ministra właściwego do spraw finansów publicznych. ” ;
 - **11)** w art. 22: w ust. 1 skreśla się wyraz „krótkoterminowe”, skreśla się ust. 2;
     - **a)**
     - **b)**
@@ -261,7 +260,7 @@ source: "eli-html"
 
 - **1)** niezłożenia oświadczenia, o którym mowa w ust. 2 pkt 1, najpóźniej na trzy miesiące przed zakończeniem dzierżawy i nieuzgodnienia nowych warunków dzierżawy w terminie miesiąca od złożenia oświadczenia,
 - **2)** nieuzgodnienia warunków dzierżawy między Agencją a podmiotami, o których mowa w ust. 2 pkt 3 i 4, w terminie trzech miesięcy od dnia ogłoszenia wykazu nieruchomości przeznaczonych do dzierżawy,
-- **3)** niezawarcia umowy dzierżawy między Agencją a spółką, o której mowa w ust. 2 pkt 5, w terminie sześciu miesięcy od dnia ogłoszenia wykazu nieruchomości przeznaczonych do dzierżawy wydzierżawienie nieruchomości następuje na zasadach określonych w ust. 1.
+- **3)** niezawarcia umowy dzierżawy między Agencją a spółką, o której mowa w ust. 2 pkt 5, w terminie sześciu miesięcy od dnia ogłoszenia wykazu nieruchomości przeznaczonych do dzierżawy – wydzierżawienie nieruchomości następuje na zasadach określonych w ust. 1.
 
 5. Agencja może wypowiedzieć umowę dzierżawy, także zawartą na czas oznaczony, w celu wyłączenia z dzierżawy części lub całości nieruchomości, która w czasie trwania umowy została przeznaczona w planie zagospodarowania przestrzennego na cele publiczne w rozumieniu przepisów o gospodarce nieruchomościami. Wypowiedzenie umowy dzierżawy dotyczące części nieruchomości pociąga za sobą odpowiednie zmniejszenie czynszu. Art. 704 Kodeksu cywilnego stosuje się odpowiednio. ” ;
 

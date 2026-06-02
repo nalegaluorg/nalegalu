@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-11-07 |
 | Data wydania | 2008-12-05 |
-| Wejście w życie | 2009-01-27 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082161369) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1369/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 30 maja 1989 r. o izbach gospodarczych (Dz. U. Nr 35, poz. 195, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 30 maja 1989 r. o izbach gospodarczych (Dz. U. Nr 35, poz. 195, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 75, poz. 368, z 1996 r. Nr 43, poz. 189, z 1997 r. Nr 121, poz. 769 i 770 i Nr 139, poz. 934 oraz z 2000 r. Nr 88, poz. 983.) wprowadza się następujące zmiany:
 
 - **1)** art. 1 i 2 otrzymują brzmienie: „ Przedsiębiorcy mogą zrzeszać się w izby gospodarcze działające na podstawie niniejszej ustawy i statutów.
 
@@ -68,7 +67,7 @@ source: "eli-html"
 
 - **6)** w art. 121 ust. 4 otrzymuje brzmienie: „
 
-4. Członkami izb gospodarczych, o których mowa w ust. 1, mogą być przedsiębiorcy oraz przedsiębiorcy zagraniczni w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.). ” ;
+4. Członkami izb gospodarczych, o których mowa w ust. 1, mogą być przedsiębiorcy oraz przedsiębiorcy zagraniczni w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280 oraz z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888 i Nr 171, poz. 1056.). ” ;
 
 - **7)** w art. 13 ust. 5 otrzymuje brzmienie: „
 
@@ -76,6 +75,6 @@ source: "eli-html"
 
 - **8)** w art. 14 ust. 1 otrzymuje brzmienie: „
 
-1. Majątek izby gospodarczej, jednostki organizacyjnej i Krajowej Izby Gospodarczej powstaje ze składek członkowskich, darowizn, spadków, zapisów, z własnej działalności oraz z dochodów z majątku tych podmiotów. ” . Ustawa wchodzi w życie po upływie 45 dni od dnia ogłoszenia.
+1. Majątek izby gospodarczej, jednostki organizacyjnej i Krajowej Izby Gospodarczej powstaje ze składek członkowskich, darowizn, spadków, zapisów, z własnej działalności oraz z dochodów z majątku tych podmiotów. ” . Ustawa wchodzi w życie po upływie 45 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 75, poz. 368, z 1996 r. Nr 43, poz. 189, z 1997 r. Nr 121, poz. 769 i 770 i Nr 139, poz. 934 oraz z 2000 r. Nr 88, poz. 983. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280 oraz z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888 i Nr 171, poz. 1056.
 
 

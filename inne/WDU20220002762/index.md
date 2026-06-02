@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 20 grudnia 2022 r. zmieniające rozporządzenie w sprawie wykazu granicznych stacji sanitarno-epidemiologicznych
+# Rozporządzenie Ministra Zdrowiaz dnia 20 grudnia 2022 r. zmieniające rozporządzenie w sprawie wykazu granicznych stacji sanitarno-epidemiologicznych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-20 |
 | Data wydania | 2022-12-27 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2026-02-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002762) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2762/text.pdf) |
 
@@ -33,14 +32,11 @@ W rozporządzeniu Ministra Zdrowia z dnia 19 lipca 2002 r. w sprawie wykazu gran
 1)
 uchyla się pkt 15;
 2)
-pkt 16 otrzymuje brzmienie:
-„
+pkt 16 otrzymuje brzmienie: „
 16)
-Graniczna Stacja Sanitarno-Epidemiologiczna w Szczecinie kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Szczecinie właściwego dla województwa zachodniopomorskiego.
-” .
+Graniczna Stacja Sanitarno-Epidemiologiczna w Szczecinie kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Szczecinie właściwego dla województwa zachodniopomorskiego. ” .
 § 2.
 Sprawy wszczęte i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia prowadzone przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Świnoujściu są prowadzone przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Szczecinie.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 

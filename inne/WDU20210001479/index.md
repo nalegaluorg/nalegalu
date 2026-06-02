@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 3 sierpnia 2021 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje odtwarzające potencjał produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w odtwarzanie gruntów rolnych i przywracanie potencjału produkcji rolnej zniszczonego w wyniku klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 3 sierpnia 2021 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje odtwarzające potencjał produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w odtwarzanie gruntów rolnych i przywracanie potencjału produkcji rolnej zniszczonego w wyniku klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-03 |
 | Data wydania | 2021-08-13 |
-| Wejście w życie | 2021-08-14 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001479) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1479/text.pdf) |
 
@@ -37,6 +36,5 @@ w § 3 w ust. 2 w pkt 1 w części wspólnej i w ust. 4 w pkt 1 w lit. d oraz w 
 § 2.
 Do przyznania i wypłaty pomocy finansowej na operacje typu „Inwestycje odtwarzające potencjał produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w odtwarzanie gruntów rolnych i przywracanie potencjału produkcji rolnej zniszczonego w wyniku klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, w sprawach objętych postępowaniami wszczętymi i niezakończonymi przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
 

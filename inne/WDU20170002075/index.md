@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 30 października 2017 r. w sprawie gromadzenia i udostępniania informacji geologicznej
+# Rozporządzenie Ministra Środowiskaz dnia 30 października 2017 r. w sprawie gromadzenia i udostępniania informacji geologicznej Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-30 |
 | Data wydania | 2017-11-09 |
-| Wejście w życie | 2017-11-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002075) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2075/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 98 ust. 5 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2016 r. poz. 1131, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 98 ust. 5 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2016 r. poz. 1131, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1991 oraz z 2017 r. poz. 60, 202, 1089, 1215 i 1566.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -46,8 +45,7 @@ dokumentacjach geologicznych,
 2)
 innych dokumentach,
 3)
-zestawieniach danych geologicznych uporządkowanych w określonej strukturze, zwanych dalej „zbiorami danych geologicznych”
-uzyskanych w związku z wykonywaniem ich zadań.
+zestawieniach danych geologicznych uporządkowanych w określonej strukturze, zwanych dalej „zbiorami danych geologicznych” – uzyskanych w związku z wykonywaniem ich zadań.
 2.
 Państwowa służba geologiczna gromadzi w centralnym archiwum geologicznym informację geologiczną:
 1)
@@ -77,8 +75,7 @@ Archiwami geologicznymi kierują:
 1)
 kierownik jednostki organizacyjnej wykonującej zadania państwowej służby geologicznej,
 2)
-kierownicy organów administracji geologicznej, o których mowa w art. 156 ust. 1 pkt 2 i 3 ustawy
-zwani dalej „kierownikiem archiwum”. Kierownik archiwum może upoważnić inną osobę do wykonywania jego obowiązków.
+kierownicy organów administracji geologicznej, o których mowa w art. 156 ust. 1 pkt 2 i 3 ustawy – zwani dalej „kierownikiem archiwum”. Kierownik archiwum może upoważnić inną osobę do wykonywania jego obowiązków.
 § 4.
 1.
 Informację geologiczną zawartą w dokumentacjach geologicznych, dokumentacjach wynikowych otworów wiertniczych, dokumentacjach wynikowych wyrobisk rozpoznawczych, dokumentacjach wynikowych badań geofizycznych, seryjnych mapach geologicznych, innych dokumentach oraz dotyczącą parametrów wydobywania węglowodorów ze złóż, zwanych dalej „dokumentami geologicznymi”, gromadzi się w postaci dokumentów papierowych lub elektronicznych.
@@ -291,8 +288,7 @@ wykorzystywana w celu określonym w art. 100 ust. 2 ustawy,
 2)
 w postaci próbek,
 3)
-w postaci danych geologicznych, o których mowa w art. 100 ust. 3a ustawy
-do wniosku, o którym mowa w ust. 1, dołącza się umowę na korzystanie z informacji geologicznej wraz z dowodem wniesienia opłaty za korzystanie z informacji geologicznej.
+w postaci danych geologicznych, o których mowa w art. 100 ust. 3a ustawy – do wniosku, o którym mowa w ust. 1, dołącza się umowę na korzystanie z informacji geologicznej wraz z dowodem wniesienia opłaty za korzystanie z informacji geologicznej.
 4.
 W przypadku gdy prawo do informacji geologicznej określonej we wniosku, o którym mowa w ust. 1, przysługuje podmiotom innym niż Skarb Państwa lub gdy wniosek ten dotyczy informacji geologicznej objętej wyłącznym prawem do korzystania z informacji geologicznej, do wniosku dołącza się pisemną zgodę podmiotu, któremu takie prawo przysługuje.
 § 12.
@@ -323,6 +319,5 @@ potrzebę wykorzystania geologicznych materiałów archiwalnych lub próbek geol
 2.
 W przypadkach, o którym mowa w ust. 1, kierownik archiwum informuje o przyczynach wyłączenia lub ograniczenia wglądu albo pełnego udostępnienia, wskazując odpowiednio możliwy sposób lub przybliżony termin wglądu albo pełnego udostępnienia.
 § 15.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1991 oraz z 2017 r. poz. 60, 202, 1089, 1215 i 1566. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 15 grudnia 2011 r. w sprawie gromadzenia i udostępniania informacji geologicznej (Dz. U. poz. 1657), które zgodnie z art. 26 ust. 1 ustawy z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 1133 oraz z 2016 r. poz. 566 i 1991) utraciło moc z dniem 2 stycznia 2017 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 15 grudnia 2011 r. w sprawie gromadzenia i udostępniania informacji geologicznej (Dz. U. poz. 1657), które zgodnie z art. 26 ust. 1 ustawy z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 1133 oraz z 2016 r. poz. 566 i 1991) utraciło moc z dniem 2 stycznia 2017 r. 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1991 oraz z 2017 r. poz. 60, 202, 1089, 1215 i 1566. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 15 grudnia 2011 r. w sprawie gromadzenia i udostępniania informacji geologicznej (Dz. U. poz. 1657), które zgodnie z art. 26 ust. 1 ustawy z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 1133 oraz z 2016 r. poz. 566 i 1991) utraciło moc z dniem 2 stycznia 2017 r.
 

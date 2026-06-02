@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 7 lipca 2020 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 1. Promowanie rybołówstwa zrównoważonego środowiskowo, zasobooszczędnego, innowacyjnego, konkurencyjnego i opartego na wiedzy, zawartego w Programie Operacyjnym „Rybactwo i Morze”
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 7 lipca 2020 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 1. Promowanie rybołówstwa zrównoważonego środowiskowo, zasobooszczędnego, innowacyjnego, konkurencyjnego i opartego na wiedzy, zawartego w Programie Operacyjnym „Rybactwo i Morze” Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-07-07 |
 | Data wydania | 2020-07-15 |
-| Wejście w życie | 2020-07-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001245) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1245/text.pdf) |
 
@@ -31,22 +30,17 @@ Na podstawie art. 24 ust. 1 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównow
 § 1.
 W rozporządzeniu Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 27 lipca 2018 r. w sprawie szczegółowych warunków i trybu przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 1. Promowanie rybołówstwa zrównoważonego środowiskowo, zasobooszczędnego, innowacyjnego, konkurencyjnego i opartego na wiedzy, zawartego w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1493 i 2473) wprowadza się następujące zmiany:
 1)
-w § 1 w ust. 2 w pkt 14 kropkę zastępuje się średnikiem i dodaje pkt 15 w brzmieniu:
-„
+w § 1 w ust. 2 w pkt 14 kropkę zastępuje się średnikiem i dodaje pkt 15 w brzmieniu: „
 15)
-efektywność energetyczna i łagodzenie skutków zmiany klimatu – inwestycje na statkach rybackich, o których mowa w art. 41 ust. 1 lit. a rozporządzenia nr 508/2014.
-” ;
+efektywność energetyczna i łagodzenie skutków zmiany klimatu – inwestycje na statkach rybackich, o których mowa w art. 41 ust. 1 lit. a rozporządzenia nr 508/2014. ” ;
 2)
-w § 2 w ust. 1 pkt 5 otrzymuje brzmienie:
-„
+w § 2 w ust. 1 pkt 5 otrzymuje brzmienie: „
 5)
-dla której wykazano racjonalność kosztów – w przypadku operacji realizowanych w ramach działań, o których mowa w § 1 ust. 2 pkt 1–3, pkt 4 w zakresie poddziałań, o których mowa w art. 40 ust. 1 lit. b-g oraz i rozporządzenia nr 508/2014, a także pkt 5, 6–8 i 10–15;
-” ;
+dla której wykazano racjonalność kosztów – w przypadku operacji realizowanych w ramach działań, o których mowa w § 1 ust. 2 pkt 1–3, pkt 4 w zakresie poddziałań, o których mowa w art. 40 ust. 1 lit. b-g oraz i rozporządzenia nr 508/2014, a także pkt 5, 6–8 i 10–15; ” ;
 3)
 w § 31 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Pomoc na realizację operacji w ramach działania tymczasowe zaprzestanie działalności połowowej przyznaje się w formie rekompensaty armatorowi statku rybackiego, przy użyciu którego jest wykonywane rybołówstwo komercyjne, wpisanego do rejestru statków rybackich nie później niż do dnia 31 grudnia 2010 r. albo wprowadzonego do wykonywania rybołówstwa komercyjnego po dniu 31 grudnia 2010 r. na skutek wymiany tego statku rybackiego na inny i którego długość całkowita wynosi: ” ;
 4)
-po § 52 dodaje się § 52a w brzmieniu:
-„
+po § 52 dodaje się § 52a w brzmieniu: „
 § 52a.
 1.
 Pomoc na realizację operacji w ramach działania efektywność energetyczna i łagodzenie skutków zmiany klimatu – inwestycje na statkach rybackich, o których mowa w art. 41 ust. 1 lit. a rozporządzenia nr 508/2014, przyznaje się właścicielowi lub armatorowi statku rybackiego, przy użyciu którego jest wykonywane rybołówstwo komercyjne, którego długość całkowitą określa się zgodnie z danymi z rejestru statków rybackich na dzień złożenia wniosku o dofinansowanie.
@@ -65,46 +59,35 @@ Pomoc na realizację operacji w ramach działania efektywność energetyczna i �
 1)
 300 000 zł na operację – w przypadku gdy beneficjentem jest podmiot, o którym mowa w ust. 3 pkt 1;
 2)
-400 000 zł na operację – w przypadku gdy beneficjentem jest podmiot, o którym mowa w ust. 3 pkt 2 i 3.
-” ;
+400 000 zł na operację – w przypadku gdy beneficjentem jest podmiot, o którym mowa w ust. 3 pkt 2 i 3. ” ;
 5)
-w § 56 ust. 4 otrzymuje brzmienie:
-„
+w § 56 ust. 4 otrzymuje brzmienie: „
 4.
-Przepisów ust. 1–3 nie stosuje się do wniosków o dofinansowanie składanych w ramach działań, o których mowa w § 1 ust. 2 pkt 2, pkt 4 lit. c, pkt 6, 9 i 15.
-” ;
+Przepisów ust. 1–3 nie stosuje się do wniosków o dofinansowanie składanych w ramach działań, o których mowa w § 1 ust. 2 pkt 2, pkt 4 lit. c, pkt 6, 9 i 15. ” ;
 6)
 w § 57:
 a)
-w ust. 1 pkt 4 otrzymuje brzmienie:
-„
+w ust. 1 pkt 4 otrzymuje brzmienie: „
 4)
-zestawienie rzeczowo-finansowe operacji – w przypadku wniosków o dofinansowanie składanych w ramach działań, o których mowa w § 1 ust. 2 pkt 1–3, pkt 4 lit. a i b w zakresie operacji, o której mowa w art. 40 ust. 1 lit. b rozporządzenia nr 508/2014, oraz pkt 5–8 i 10–15;
-” ,
+zestawienie rzeczowo-finansowe operacji – w przypadku wniosków o dofinansowanie składanych w ramach działań, o których mowa w § 1 ust. 2 pkt 1–3, pkt 4 lit. a i b w zakresie operacji, o której mowa w art. 40 ust. 1 lit. b rozporządzenia nr 508/2014, oraz pkt 5–8 i 10–15; ” ,
 b)
 uchyla się ust. 3,
 c)
-ust. 4 i 5 otrzymują brzmienie:
-„
+ust. 4 i 5 otrzymują brzmienie: „
 4.
 Wnioskodawca przekazuje Agencji w formie pisemnej, w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344), zwanej dalej „ustawą o świadczeniu usług drogą elektroniczną”, informacje o zmianach w zakresie danych zawartych we wniosku o dofinansowanie, niezwłocznie po ich zaistnieniu.
 5.
-Wniosek o dofinansowanie wraz z załącznikami jest składany w formie pisemnej, w postaci papierowej, osobiście przez wnioskodawcę lub przez osobę upoważnioną przez wnioskodawcę albo przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2020 r. poz. 1041), zwanej dalej „ustawą – Prawo pocztowe”.
-” ;
+Wniosek o dofinansowanie wraz z załącznikami jest składany w formie pisemnej, w postaci papierowej, osobiście przez wnioskodawcę lub przez osobę upoważnioną przez wnioskodawcę albo przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2020 r. poz. 1041), zwanej dalej „ustawą – Prawo pocztowe”. ” ;
 7)
-w § 58 ust. 2 otrzymuje brzmienie:
-„
+w § 58 ust. 2 otrzymuje brzmienie: „
 2.
-W przypadkach, o których mowa w ust. 1, Agencja informuje wnioskodawcę w formie pisemnej, w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy o świadczeniu usług drogą elektroniczną, o pozostawieniu wniosku bez rozpatrzenia.
-” ;
+W przypadkach, o których mowa w ust. 1, Agencja informuje wnioskodawcę w formie pisemnej, w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy o świadczeniu usług drogą elektroniczną, o pozostawieniu wniosku bez rozpatrzenia. ” ;
 8)
 w § 59:
 a)
-w ust. 1 pkt 2 otrzymuje brzmienie:
-„
+w ust. 1 pkt 2 otrzymuje brzmienie: „
 2)
-pkt 2 i 3, pkt 4 lit. a i b, pkt 5, 7, 10, pkt 11 z wyłączeniem rybactwa śródlądowego, pkt 12, 13 i 15 – przy zastosowaniu kryteriów wyboru operacji, na podstawie sumy punktów przyznawanych za poszczególne kryteria wyboru operacji wskazane przez wnioskodawcę w tym wniosku.
-” ,
+pkt 2 i 3, pkt 4 lit. a i b, pkt 5, 7, 10, pkt 11 z wyłączeniem rybactwa śródlądowego, pkt 12, 13 i 15 – przy zastosowaniu kryteriów wyboru operacji, na podstawie sumy punktów przyznawanych za poszczególne kryteria wyboru operacji wskazane przez wnioskodawcę w tym wniosku. ” ,
 b)
 w ust. 2 w pkt 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ pkt 2, 10 i 15: ” ;
 9)
@@ -112,102 +95,75 @@ w § 61:
 a)
 w ust. 1 zdanie drugie otrzymuje brzmienie: „ W przypadku wniosków o dofinansowanie, które nie mieszczą się w limicie środków dla danego naboru, Agencja informuje wnioskodawcę w formie pisemnej, w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy o świadczeniu usług drogą elektroniczną, o wstrzymaniu biegu terminu rozpatrywania tego wniosku. ” ,
 b)
-ust. 2 i 3 otrzymują brzmienie:
-„
+ust. 2 i 3 otrzymują brzmienie: „
 2.
 W przypadku gdy wniosek o dofinansowanie wymaga uzupełnienia, wnioskodawcę wzywa się w formie pisemnej, w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy o świadczeniu usług drogą elektroniczną, do uzupełnienia wniosku w terminie 14 dni od dnia doręczenia wezwania.
 3.
-W przypadku gdy wnioskodawca mimo wezwania, o którym mowa w ust. 2, nie uzupełnił wniosku w wyznaczonym terminie, Agencja ponownie wzywa wnioskodawcę w formie pisemnej, w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy o świadczeniu usług drogą elektroniczną, do uzupełnienia wniosku w terminie 14 dni od dnia doręczenia wezwania, chyba że zachodzą niebudzące wątpliwości przesłanki nieprzyznania pomocy.
-” ,
+W przypadku gdy wnioskodawca mimo wezwania, o którym mowa w ust. 2, nie uzupełnił wniosku w wyznaczonym terminie, Agencja ponownie wzywa wnioskodawcę w formie pisemnej, w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy o świadczeniu usług drogą elektroniczną, do uzupełnienia wniosku w terminie 14 dni od dnia doręczenia wezwania, chyba że zachodzą niebudzące wątpliwości przesłanki nieprzyznania pomocy. ” ,
 c)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
-W przypadku wystąpienia we wniosku o dofinansowanie oczywistych omyłek pisarskich lub rachunkowych Agencja może dokonać ich poprawy, jednocześnie informując wnioskodawcę w formie pisemnej, w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy o świadczeniu usług drogą elektroniczną, o wprowadzonych zmianach.
-” ,
+W przypadku wystąpienia we wniosku o dofinansowanie oczywistych omyłek pisarskich lub rachunkowych Agencja może dokonać ich poprawy, jednocześnie informując wnioskodawcę w formie pisemnej, w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy o świadczeniu usług drogą elektroniczną, o wprowadzonych zmianach. ” ,
 d)
-ust. 8 otrzymuje brzmienie:
-„
+ust. 8 otrzymuje brzmienie: „
 8.
-Jeżeli w trakcie rozpatrywania wniosku o dofinansowanie jest niezbędne uzyskanie dodatkowych wyjaśnień lub opinii lub zajdą nowe okoliczności budzące wątpliwości co do możliwości przyznania pomocy, termin rozpatrywania wniosku o dofinansowanie wydłuża się o czas niezbędny do uzyskania tych wyjaśnień lub opinii lub wyjaśnienia tych okoliczności, o czym Agencja informuje wnioskodawcę w formie pisemnej, w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy o świadczeniu usług drogą elektroniczną.
-” ,
+Jeżeli w trakcie rozpatrywania wniosku o dofinansowanie jest niezbędne uzyskanie dodatkowych wyjaśnień lub opinii lub zajdą nowe okoliczności budzące wątpliwości co do możliwości przyznania pomocy, termin rozpatrywania wniosku o dofinansowanie wydłuża się o czas niezbędny do uzyskania tych wyjaśnień lub opinii lub wyjaśnienia tych okoliczności, o czym Agencja informuje wnioskodawcę w formie pisemnej, w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy o świadczeniu usług drogą elektroniczną. ” ,
 e)
-dodaje się ust. 9 w brzmieniu:
-„
+dodaje się ust. 9 w brzmieniu: „
 9.
-Wnioskodawca może uzupełnić wniosek o dofinansowanie w formie pisemnej, w postaci papierowej, osobiście lub przez osobę upoważnioną przez wnioskodawcę albo przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy – Prawo pocztowe.
-” ;
+Wnioskodawca może uzupełnić wniosek o dofinansowanie w formie pisemnej, w postaci papierowej, osobiście lub przez osobę upoważnioną przez wnioskodawcę albo przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy – Prawo pocztowe. ” ;
 10)
-w § 62 ust. 1 i 2 otrzymują brzmienie:
-„
+w § 62 ust. 1 i 2 otrzymują brzmienie: „
 1.
 Po zakończeniu oceny, o której mowa w § 61 ust. 1, w przypadku pozytywnego rozpatrzenia wniosku o dofinansowanie, Agencja niezwłocznie zawiadamia wnioskodawcę w formie pisemnej, w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy o świadczeniu usług drogą elektroniczną, o terminie zawarcia umowy o dofinansowanie, który nie może być dłuższy niż 14 dni od dnia doręczenia zawiadomienia, oraz o możliwości zawarcia umowy, w tym również poza siedzibą podmiotu przyznającego pomoc, w formie pisemnej, przez odesłanie przez wnioskodawcę podpisanej umowy o dofinansowanie do Agencji przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy – Prawo pocztowe.
 2.
-W przypadku gdy wnioskodawca nie stawił się w wyznaczonym przez Agencję terminie w celu zawarcia umowy o dofinansowanie albo nie odesłał podpisanej umowy w wyznaczonym terminie przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy – Prawo pocztowe, albo odmówił jej podpisania, Agencja odmawia przyznania pomocy, chyba że wnioskodawca podpisał umowę o dofinansowanie w innym terminie uzgodnionym z Agencją, nie dłuższym niż 21 dni od dnia, na który został wyznaczony poprzedni termin zawarcia tej umowy.
-” ;
+W przypadku gdy wnioskodawca nie stawił się w wyznaczonym przez Agencję terminie w celu zawarcia umowy o dofinansowanie albo nie odesłał podpisanej umowy w wyznaczonym terminie przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy – Prawo pocztowe, albo odmówił jej podpisania, Agencja odmawia przyznania pomocy, chyba że wnioskodawca podpisał umowę o dofinansowanie w innym terminie uzgodnionym z Agencją, nie dłuższym niż 21 dni od dnia, na który został wyznaczony poprzedni termin zawarcia tej umowy. ” ;
 11)
-w § 64 w ust. 1 w pkt 1 lit. c otrzymuje brzmienie:
-„
+w § 64 w ust. 1 w pkt 1 lit. c otrzymuje brzmienie: „
 c)
-osiągnięcia wskaźników realizacji celów operacji oraz przedłożenia dokumentów potwierdzających ich osiągnięcie w terminach określonych w umowie lub monitorowania wskaźników realizacji celów operacji w terminach określonych w umowie, jeżeli operacja przewiduje takie wskaźniki,
-” ;
+osiągnięcia wskaźników realizacji celów operacji oraz przedłożenia dokumentów potwierdzających ich osiągnięcie w terminach określonych w umowie lub monitorowania wskaźników realizacji celów operacji w terminach określonych w umowie, jeżeli operacja przewiduje takie wskaźniki, ” ;
 12)
 w § 65:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Weksel wraz z deklaracją wekslową, o których mowa w ust. 1, są składane we właściwym oddziale regionalnym Agencji najpóźniej w dniu złożenia wniosku o płatność.
-” ,
+Weksel wraz z deklaracją wekslową, o których mowa w ust. 1, są składane we właściwym oddziale regionalnym Agencji najpóźniej w dniu złożenia wniosku o płatność. ” ,
 b)
-dodaje się ust. 4 w brzmieniu:
-„
+dodaje się ust. 4 w brzmieniu: „
 4.
-W przypadku niezłożenia do podmiotu przyznającego pomoc zabezpieczenia, o którym mowa w ust. 1, pomocy nie wypłaca się.
-” ;
+W przypadku niezłożenia do podmiotu przyznającego pomoc zabezpieczenia, o którym mowa w ust. 1, pomocy nie wypłaca się. ” ;
 13)
 w § 66:
 a)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Wniosek o płatność wraz z załącznikami składa się na formularzu udostępnionym przez Agencję w formie pisemnej, w postaci papierowej, osobiście przez beneficjenta albo przez osobę upoważnioną przez beneficjenta, bezpośrednio w oddziale regionalnym Agencji właściwym ze względu na miejsce realizacji operacji, albo przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy – Prawo pocztowe.
-” ,
+Wniosek o płatność wraz z załącznikami składa się na formularzu udostępnionym przez Agencję w formie pisemnej, w postaci papierowej, osobiście przez beneficjenta albo przez osobę upoważnioną przez beneficjenta, bezpośrednio w oddziale regionalnym Agencji właściwym ze względu na miejsce realizacji operacji, albo przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy – Prawo pocztowe. ” ,
 b)
 uchyla się ust. 7,
 c)
-ust. 8 otrzymuje brzmienie:
-„
+ust. 8 otrzymuje brzmienie: „
 8.
-Wykonanie zakresu rzeczowego operacji zgodnie z umową o dofinansowanie, w tym poniesienie przez beneficjenta kosztów kwalifikowalnych operacji oraz złożenie wniosku o płatność końcową, nastąpi nie później niż do dnia 15 lipca 2023 r.
-” ;
+Wykonanie zakresu rzeczowego operacji zgodnie z umową o dofinansowanie, w tym poniesienie przez beneficjenta kosztów kwalifikowalnych operacji oraz złożenie wniosku o płatność końcową, nastąpi nie później niż do dnia 15 lipca 2023 r. ” ;
 14)
 w § 67:
 a)
-ust. 3 i 4 otrzymują brzmienie:
-„
+ust. 3 i 4 otrzymują brzmienie: „
 3.
 Jeżeli wniosek o płatność zawiera braki lub nie dołączono do niego co najmniej jednego z dokumentów określonych w załączniku nr 3 do rozporządzenia, Agencja wzywa beneficjenta w formie pisemnej, w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy o świadczeniu usług drogą elektroniczną, do uzupełnienia tego wniosku w terminie 14 dni od dnia doręczenia wezwania.
 4.
-Jeżeli beneficjent mimo wezwania, o którym mowa w ust. 3, nie uzupełnił wniosku o płatność w wyznaczonym terminie, Agencja ponownie wzywa beneficjenta w formie pisemnej, w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy o świadczeniu usług drogą elektroniczną, do uzupełnienia wniosku w terminie 14 dni od dnia doręczenia wezwania.
-” ,
+Jeżeli beneficjent mimo wezwania, o którym mowa w ust. 3, nie uzupełnił wniosku o płatność w wyznaczonym terminie, Agencja ponownie wzywa beneficjenta w formie pisemnej, w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy o świadczeniu usług drogą elektroniczną, do uzupełnienia wniosku w terminie 14 dni od dnia doręczenia wezwania. ” ,
 b)
-ust. 6 i 7 otrzymują brzmienie:
-„
+ust. 6 i 7 otrzymują brzmienie: „
 6.
 Jeżeli w trakcie rozpatrywania wniosku o płatność jest niezbędne uzyskanie dodatkowych wyjaśnień lub opinii innego podmiotu lub zajdą nowe okoliczności budzące wątpliwości co do wypłaty pomocy, termin rozpatrywania wniosku o płatność wydłuża się o czas niezbędny do uzyskania tych wyjaśnień lub opinii lub wyjaśnienia tych okoliczności, o czym Agencja informuje beneficjenta w formie pisemnej, w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy o świadczeniu usług drogą elektroniczną.
 7.
-W przypadku wystąpienia we wniosku o płatność oczywistych omyłek pisarskich lub rachunkowych Agencja dokonuje ich poprawy, informując niezwłocznie beneficjenta w formie pisemnej, w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy o świadczeniu usług drogą elektroniczną, o wprowadzonych zmianach.
-” ,
+W przypadku wystąpienia we wniosku o płatność oczywistych omyłek pisarskich lub rachunkowych Agencja dokonuje ich poprawy, informując niezwłocznie beneficjenta w formie pisemnej, w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy o świadczeniu usług drogą elektroniczną, o wprowadzonych zmianach. ” ,
 c)
-dodaje się ust. 9 w brzmieniu:
-„
+dodaje się ust. 9 w brzmieniu: „
 9.
-Beneficjent może uzupełnić wniosek o płatność w formie pisemnej, w postaci papierowej, osobiście lub przez osobę upoważnioną przez beneficjenta albo przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy – Prawo pocztowe.
-” ;
+Beneficjent może uzupełnić wniosek o płatność w formie pisemnej, w postaci papierowej, osobiście lub przez osobę upoważnioną przez beneficjenta albo przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy – Prawo pocztowe. ” ;
 15)
-w § 69 ust. 2–4 otrzymują brzmienie:
-„
+w § 69 ust. 2–4 otrzymują brzmienie: „
 2.
 Następca prawny beneficjenta składa wniosek do oddziału regionalnego Agencji, do którego wniosek o dofinansowanie złożył beneficjent, w terminie 2 miesięcy od dnia wystąpienia zdarzenia prawnego, w wyniku którego zaistniało następstwo prawne.
 3.
@@ -217,11 +173,9 @@ W przypadku następstwa prawnego będącego wynikiem śmierci beneficjenta, jeż
 1)
 potwierdzoną za zgodność z oryginałem przez sąd albo
 2)
-potwierdzoną za zgodność z oryginałem przez notariusza albo przez upoważnionego pracownika Agencji, wraz z potwierdzeniem nadania tego wniosku w placówce pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy – Prawo pocztowe, albo kopią tego potwierdzenia potwierdzoną za zgodność z oryginałem przez notariusza albo przez upoważnionego pracownika Agencji.
-” ;
+potwierdzoną za zgodność z oryginałem przez notariusza albo przez upoważnionego pracownika Agencji, wraz z potwierdzeniem nadania tego wniosku w placówce pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy – Prawo pocztowe, albo kopią tego potwierdzenia potwierdzoną za zgodność z oryginałem przez notariusza albo przez upoważnionego pracownika Agencji. ” ;
 16)
-po § 71 dodaje się § 71a w brzmieniu:
-„
+po § 71 dodaje się § 71a w brzmieniu: „
 § 71a.
 1.
 W przypadku gdy tymczasowe zaprzestanie działalności połowowej ma miejsce między dniem 1 lutego 2020 r. a dniem 31 grudnia 2020 r. w wyniku epidemii COVID-19, pomoc na realizację operacji przyznaje się w formie rekompensaty armatorowi statku rybackiego, przy użyciu którego jest wykonywane rybołówstwo komercyjne.
@@ -238,8 +192,7 @@ od 12 m do 18 m – w wysokości 1450 zł,
 4)
 od 18,01 m do 24 m – w wysokości 1750 zł,
 5)
-powyżej 24 m – w wysokości 2250 zł
-za każdy dzień tego zaprzestania.
+powyżej 24 m – w wysokości 2250 zł – za każdy dzień tego zaprzestania.
 4.
 Prezes Agencji podaje w ogłoszeniu o naborze wniosków o dofinansowanie na realizację operacji w ramach działania, o którym mowa w ust. 1, okres, za który można ubiegać się o dofinansowanie.
 5.
@@ -257,11 +210,9 @@ Termin składania wniosków o dofinansowanie, o którym mowa w ust. 7 pkt 1, nie
 9.
 Prezes Agencji udostępnia wzór wniosku o dofinasowanie operacji w ramach działania, o którym mowa w ust. 1, nie później niż 5 dni przed dniem rozpoczęcia terminu składania wniosków o dofinansowanie.
 10.
-Przepisów § 65 ust. 1, 2 i 4 nie stosuje się do wniosku o dofinasowanie operacji, o której mowa w ust. 1.
-” ;
+Przepisów § 65 ust. 1, 2 i 4 nie stosuje się do wniosku o dofinasowanie operacji, o której mowa w ust. 1. ” ;
 17)
-w załączniku nr 1 do rozporządzenia dodaje się ust. XVII w brzmieniu:
-„
+w załączniku nr 1 do rozporządzenia dodaje się ust. XVII w brzmieniu: „
 XVII.
 Kryteria wyboru operacji do dofinansowania ze środków EFMR w ramach działania efektywność energetyczna i łagodzenie skutków zmiany klimatu – inwestycje na statkach rybackich, o których mowa w art. 41 ust. 1 lit. a rozporządzenia nr 508/2014 O kolejności przyznania pomocy finansowej decyduje suma uzyskanych punktów ustalona na podstawie kryterium – długość całkowita statku rybackiego, przy użyciu którego jest wykonywane rybołówstwo komercyjne, którego dotyczy operacja, przy czym za statek rybacki o długości:
 1)
@@ -269,8 +220,7 @@ poniżej 12 m – przyznaje się 5 pkt;
 2)
 od 12 m do 18 m – przyznaje się 3 pkt;
 3)
-powyżej 18 m – przyznaje się 1 pkt.
-” ;
+powyżej 18 m – przyznaje się 1 pkt. ” ;
 18)
 w załączniku nr 2 do rozporządzenia:
 a)
@@ -300,8 +250,7 @@ w ust. 13 uchyla się pkt 2, 4 i 6,
 m)
 w ust. 14 uchyla się pkt 2,
 n)
-dodaje się ust. 15 w brzmieniu:
-„
+dodaje się ust. 15 w brzmieniu: „
 15.
 Działanie efektywność energetyczna i łagodzenie skutków zmiany klimatu – inwestycje na statkach rybackich, o których mowa w art. 41 ust. 1 lit. a rozporządzenia nr 508/2014:
 1)
@@ -311,23 +260,19 @@ kopia dokumentu potwierdzającego prawo własności statku rybackiego – w przy
 4)
 dokumenty potwierdzające planowane koszty operacji;
 5)
-oświadczenie współwłaścicieli albo współarmatorów statku rybackiego wskazanych we wniosku o wyrażeniu zgody na realizację operacji objętej wnioskiem o dofinansowanie.
-” ;
+oświadczenie współwłaścicieli albo współarmatorów statku rybackiego wskazanych we wniosku o wyrażeniu zgody na realizację operacji objętej wnioskiem o dofinansowanie. ” ;
 19)
-w załączniku nr 3 do rozporządzenia dodaje się ust. 15 w brzmieniu:
-„
+w załączniku nr 3 do rozporządzenia dodaje się ust. 15 w brzmieniu: „
 15.
 Działanie efektywność energetyczna i łagodzenie skutków zmiany klimatu – inwestycje na statkach rybackich, o których mowa w art. 41 ust. 1 lit. a rozporządzenia nr 508/2014:
 1)
 kopie faktur lub dokumentów księgowych o równoważnej wartości dowodowej wraz z dowodami zapłaty, zgodnie z zestawieniem dokumentów potwierdzających poniesione wydatki;
 2)
-dokumenty potwierdzające zastosowanie zasad konkurencyjnego trybu wyboru wykonawców – w przypadku gdy wymaga tego specyfika operacji.
-” .
+dokumenty potwierdzające zastosowanie zasad konkurencyjnego trybu wyboru wykonawców – w przypadku gdy wymaga tego specyfika operacji. ” .
 § 2.
 Do postępowań w sprawie o przyznanie pomocy finansowej na realizację działań objętych Priorytetem 1. Promowanie rybołówstwa zrównoważonego środowiskowo, zasobooszczędnego, innowacyjnego, konkurencyjnego i opartego na wiedzy, zawartego w Programie Operacyjnym „Rybactwo i Morze”, wszczętych przed dniem wejścia w życie niniejszego rozporządzenia i niezakończonych zawarciem umowy o dofinansowanie, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Pomoc na działanie, o którym mowa w § 71a ust. 1 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, przysługuje od dnia 1 lutego 2020 r., zgodnie z art. 33 ust. 1 lit. d rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.).
+Pomoc na działanie, o którym mowa w § 71a ust. 1 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, przysługuje od dnia 1 lutego 2020 r., zgodnie z art. 33 ust. 1 lit. d rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 256 z 04.10.2017, str. 1, Dz. Urz. UE L 172 z 26.06.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5 i Dz. Urz. UE L 130 z 24.04.2020, str. 11..
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 256 z 04.10.2017, str. 1, Dz. Urz. UE L 172 z 26.06.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5 i Dz. Urz. UE L 130 z 24.04.2020, str. 11.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 256 z 04.10.2017, str. 1, Dz. Urz. UE L 172 z 26.06.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5 i Dz. Urz. UE L 130 z 24.04.2020, str. 11.
 

@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1996-11-08 |
 | Data wydania | 1996-12-23 |
-| Wejście w życie | 1997-01-23 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961520723) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/723/text.pdf) |
+
+Odpowiedzialność dyscyplinarna strażaków
 
 **Art. 1.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. Nr 88, poz. 400, z 1992 r. Nr 21, poz. 86 i Nr 54, poz. 254, z 1994 r. Nr 53, poz. 214, z 1995 r. Nr 4, poz. 17 i Nr 34, poz. 163 oraz z 1996 r. Nr 106, poz. 496) wprowadza się następujące zmiany:
 
@@ -245,9 +246,16 @@ source: "eli-html"
 
 3. Minister Spraw Wewnętrznych i Administracji określi, w drodze rozporządzenia, zakres, szczegółowe zasady, tryb i częstotliwość przeprowadzania ocen, o których mowa w ust. 1 i 2. ” ;
 
-- **27)** w art. 43: w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) orzeczenia przez komisję lekarską całkowitej niezdolności do służby, ” – dodaje się pkt 6 w brzmieniu: „ 6) utraty obywatelstwa polskiego lub nabycia obywatelstwa innego państwa. ” , w ust. 3: – skreśla się pkt 1, – pkt 4 otrzymuje brzmienie: „ 4) likwidacji jednostki albo jej reorganizacji połączonej ze zmniejszeniem obsady etatowej, jeżeli przeniesienie strażaka za jego zgodą do innej jednostki lub na inne stanowisko nie jest możliwe, ” – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) niewywiązywania się z obowiązków służbowych w okresie odbywania służby stałej, stwierdzonego w dwóch kolejnych opiniach służbowych, między którymi upłynęło co najmniej 6 miesięcy, ” – pkt 5 otrzymuje brzmienie: „ 5) z innych niż określone w pkt 2–4a ważnych przyczyn, jeżeli dalsze pozostawanie w służbie nie gwarantuje należytego wykonywania obowiązków służbowych. ” , dodaje się ust. 4 w brzmieniu: „
+- **27)** w art. 43: w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** orzeczenia przez komisję lekarską całkowitej niezdolności do służby, ” dodaje się pkt 6 w brzmieniu: „
+- **6)** utraty obywatelstwa polskiego lub nabycia obywatelstwa innego państwa. ” , w ust. 3: – skreśla się pkt 1, pkt 4 otrzymuje brzmienie: „
     - **b)**
+
+- **4)** likwidacji jednostki albo jej reorganizacji połączonej ze zmniejszeniem obsady etatowej, jeżeli przeniesienie strażaka za jego zgodą do innej jednostki lub na inne stanowisko nie jest możliwe, ” po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** niewywiązywania się z obowiązków służbowych w okresie odbywania służby stałej, stwierdzonego w dwóch kolejnych opiniach służbowych, między którymi upłynęło co najmniej 6 miesięcy, ” pkt 5 otrzymuje brzmienie: „
+- **5)** z innych niż określone w pkt 2–4a ważnych przyczyn, jeżeli dalsze pozostawanie w służbie nie gwarantuje należytego wykonywania obowiązków służbowych. ” , dodaje się ust. 4 w brzmieniu: „
     - **c)**
 
 4. W przypadkach określonych w ust. 3 pkt 4 zwolnienie następuje po upływie 6 miesięcy, a w przypadku służby przygotowawczej – po upływie 3 miesięcy, od dnia ogłoszenia decyzji o likwidacji jednostki Państwowej Straży Pożarnej albo jej reorganizacji. ” ;
@@ -625,7 +633,7 @@ source: "eli-html"
 
 - **68)** rozdział 11 otrzymuje brzmienie: „
 
-#### Rozdział 11 Odpowiedzialność dyscyplinarna strażaków
+#### Rozdział 11
 
 **Art. 115.**
 

@@ -24,7 +24,6 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1933-03-28 |
 | Data wydania | 1933-05-30 |
-| Wejście w życie | 1933-05-30 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19330390311) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1933/311/text.pdf) |
 

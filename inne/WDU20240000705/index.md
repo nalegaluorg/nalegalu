@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 30 kwietnia 2024 r. w sprawie udzielania pomocy publicznej w zakresie transportu intermodalnego w ramach Krajowego Planu Odbudowy i Zwiększania Odporności
+# Rozporządzenie Ministra Infrastrukturyz dnia 30 kwietnia 2024 r. w sprawie udzielania pomocy publicznej w zakresie transportu intermodalnego w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-30 |
 | Data wydania | 2024-05-08 |
-| Wejście w życie | 2024-05-09 |
 | Ostatnia zmiana | 2025-10-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000705) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/705/text.pdf) |
 
@@ -48,7 +47,7 @@ usługach terminalowych – należy przez to rozumieć usługi polegające na za
 1.
 Pomoc może być udzielona przedsiębiorcy z jednego z państw członkowskich Unii Europejskiej lub Europejskiego Porozumienia o Wolnym Handlu (EFTA), mającemu siedzibę, oddział lub przedstawicielstwo na terytorium Rzeczypospolitej Polskiej, na realizację przedsięwzięcia w zakresie transportu intermodalnego na terytorium Rzeczypospolitej Polskiej, obejmującego:
 1)
-budowę lub przebudowę infrastruktury terminali intermodalnych, w tym infrastruktury dedykowanej w rozumieniu art. 2 pkt 33 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.) w zakresie infrastruktury drogowej, bocznic kolejowych lub linii kolejowych, które służą połączeniu terminali intermodalnych z siecią drogową lub siecią kolejową;
+budowę lub przebudowę infrastruktury terminali intermodalnych, w tym infrastruktury dedykowanej w rozumieniu art. 2 pkt 33 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. w zakresie infrastruktury drogowej, bocznic kolejowych lub linii kolejowych, które służą połączeniu terminali intermodalnych z siecią drogową lub siecią kolejową;
 2)
 zakup lub modernizację urządzeń niezbędnych do obsługi terminali intermodalnych;
 3)
@@ -62,7 +61,7 @@ Pomocy nie udziela się przedsiębiorcy:
 1)
 na którym ciąży obowiązek zwrotu pomocy publicznej, wynikający z decyzji Komisji Europejskiej uznającej pomoc publiczną za niezgodną z rynkiem wewnętrznym Unii Europejskiej;
 2)
-znajdującemu się w trudnej sytuacji w rozumieniu pkt 20 komunikatu Komisji – Wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1, z późn. zm.) .
+znajdującemu się w trudnej sytuacji w rozumieniu pkt 20 komunikatu Komisji – Wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1, z późn. zm.) Zmiany wymienionego komunikatu zostały ogłoszone w Dz. Urz. UE C 224 z 08.07.2020, str. 2 oraz Dz. Urz. UE C/2023/1212 z 29.11.2023..
 3.
 Przedsiębiorca otrzymuje pomoc, jeżeli:
 1)
@@ -207,6 +206,5 @@ Przedsiębiorca informuje CUPT o innej pomocy publicznej i pomocy de minimis ora
 § 8.
 Pomoc jest udzielana w okresie obowiązywania decyzji Komisji Europejskiej, o której mowa odpowiednio w art. 4 ust. 3 albo art. 9 ust. 3 i 4 rozporządzenia Rady (UE) 2015/1589 z dnia 13 lipca 2015 r. ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 248 z 24.09.2015, str. 9), nie dłużej jednak niż do dnia 30 czerwca 2026 r.
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 3) Zmiany wymienionego komunikatu zostały ogłoszone w Dz. Urz. UE C 224 z 08.07.2020, str. 2 oraz Dz. Urz. UE C/2023/1212 z 29.11.2023.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 3) Zmiany wymienionego komunikatu zostały ogłoszone w Dz. Urz. UE C 224 z 08.07.2020, str. 2 oraz Dz. Urz. UE C/2023/1212 z 29.11.2023.
 

@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-22 |
 | Data wydania | 2015-06-29 |
-| Wejście w życie | 2015-06-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000913) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/913/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 65 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 65 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 87, 211, 218, 396, 539 i 774.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 21 maja 2014 r. w sprawie sposobu ustalania i dokumentowania wydatków egzekucyjnych (Dz. U. poz. 668) w § 3 w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ przejazdu pracownika obsługującego organ egzekucyjny, niezależnie od liczby tytułów wykonawczych, do miejsca zamieszkania lub siedziby zobowiązanego lub miejsca położenia należących do niego składników majątkowych, gdzie dokonano czynności egzekucyjnych lub czynności te miały być dokonane: ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 87, 211, 218, 396, 539 i 774.
 

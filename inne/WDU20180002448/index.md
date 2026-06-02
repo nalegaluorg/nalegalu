@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 października 2018 r. o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych
+# Ustawa z dnia 23 października 2018 r. o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/103/WE z dnia 16 września 2009 r. w sprawie ubezpieczenia od odpowiedzialności cywilnej za szkody powstałe w związku z ruchem pojazdów mechanicznych i egzekwowania obowiązku ubezpieczania od takiej odpowiedzialności (wersja ujednolicona) (Dz. Urz. UE L 263 z 07.10.2009, str. 11).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-23 |
 | Data wydania | 2018-12-28 |
-| Wejście w życie | 2018-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002448) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2448/text.pdf) |
 
@@ -50,5 +49,5 @@ source: "eli-html"
 
 **Art. 3.** Do postępowań dotyczących roszczeń odszkodowawczych wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem 31 grudnia 2018 r.
+**Art. 4.** Ustawa wchodzi w życie z dniem 31 grudnia 2018 r. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/103/WE z dnia 16 września 2009 r. w sprawie ubezpieczenia od odpowiedzialności cywilnej za szkody powstałe w związku z ruchem pojazdów mechanicznych i egzekwowania obowiązku ubezpieczania od takiej odpowiedzialności (wersja ujednolicona) (Dz. Urz. UE L 263 z 07.10.2009, str. 11).
 

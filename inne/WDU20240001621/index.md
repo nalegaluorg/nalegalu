@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 23 października 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie trybu działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej
+# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 23 października 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie trybu działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 | Pole | Wartość |
 |---|---|
@@ -26,21 +26,19 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001621) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1621/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Środowiska z dnia 13 grudnia 2017 r. w sprawie trybu działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej Rozdział 1 – Przepisy ogólne Rozdział 2 – Rada nadzorcza Rozdział 3 – Zarząd dwuosobowy Rozdział 4 – Zarząd jednoosobowy Rozdział 5 – Udzielanie pełnomocnictw Rozdział 6 – Przepis końcowy
+Załącznik – Rozporządzenie Ministra Środowiska z dnia 13 grudnia 2017 r. w sprawie trybu działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Środowiska z dnia 13 grudnia 2017 r. w sprawie trybu działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej (Dz. U. z 2023 r. poz. 1861), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Klimatu i Środowiska z dnia 24 listopada 2023 r. zmieniającym rozporządzenie w sprawie trybu działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej (Dz. U. poz. 2579).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Klimatu i Środowiska z dnia 24 listopada 2023 r. zmieniającego rozporządzenie w sprawie trybu działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej (Dz. U. poz. 2579), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Klimatu i Środowiska z dnia 24 listopada 2023 r. zmieniającego rozporządzenie w sprawie trybu działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej (Dz. U. poz. 2579), które stanowią: „
 § 2.
 Do podejmowania uchwał przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość albo w trybie pisemnym zarządzonego przed dniem wejścia w życie niniejszego rozporządzenia, jeżeli termin podjęcia uchwały przypada w dniu wejścia w życie niniejszego rozporządzenia albo po tym dniu, stosuje się § 13 ust. 1a rozporządzenia zmienianego w § 1.
 § 3.
-Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
-” .
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
-Załącznik – Rozporządzenie Ministra Środowiska z dnia 13 grudnia 2017 r. w sprawie trybu działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej
+Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. ” . 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
+Załącznik – Rozporządzenie Ministra Środowiska z dnia 13 grudnia 2017 r. w sprawie trybu działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnejObecnie działem administracji rządowej – klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 Na podstawie art. 400p ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, 834, 1089 i 1222) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowy tryb działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej, zwanych dalej „wojewódzkimi funduszami”, oraz sposób udzielania pełnomocnictw.
 § 2.
@@ -138,6 +136,7 @@ Do protokołu dołącza się co najmniej listę obecności osób, o których mow
 Protokoły przechowuje biuro wojewódzkiego funduszu.
 5.
 Członkowie organów wojewódzkiego funduszu mają wgląd w protokoły z posiedzeń.
+Rada nadzorcza
 § 9.
 1.
 Pracami rady nadzorczej kieruje przewodniczący rady nadzorczej.
@@ -170,7 +169,7 @@ Rada nadzorcza podejmuje uchwały:
 na posiedzeniu albo przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość – w obecności co najmniej 3 członków rady nadzorczej;
 2)
 w trybie pisemnym – jeżeli w głosowaniu uczestniczy co najmniej 3 członków rady nadzorczej.
-1a.
+1aDodany przez § 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 24 listopada 2023 r. zmieniającego rozporządzenie w sprawie trybu działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej (Dz. U. poz. 2579), które weszło w życie z dniem 1 grudnia 2023 r..
 Jeżeli członek rady nadzorczej nie może wziąć udziału w podejmowaniu uchwały przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość albo w trybie pisemnym, przedkłada przewodniczącemu rady nadzorczej usprawiedliwienie tego faktu najpóźniej przed przystąpieniem do podejmowania uchwały przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość albo przed upływem terminu na podjęcie uchwały w trybie pisemnym.
 2.
 W czasie posiedzenia rady nadzorczej mogą być zgłaszane poprawki do projektów uchwał.
@@ -197,6 +196,7 @@ Na potrzeby realizacji swoich zadań rada nadzorcza, na wniosek przewodnicząceg
 powoływać zespoły doradcze lub ekspertów, których zadaniem jest sporządzenie opinii w zleconych im sprawach;
 2)
 upoważnić poszczególnych członków rady nadzorczej do przeprowadzenia kontroli działalności zarządu w określonym zakresie.
+Zarząd dwuosobowy
 § 16.
 Członkowie zarządu dwuosobowego wykonują swoje funkcje osobiście. Przepis § 11 ust. 2 stosuje się odpowiednio.
 § 17.
@@ -221,29 +221,43 @@ W posiedzeniach zarządu, na zaproszenie lub za zgodą prezesa zarządu, uczestn
 W posiedzeniach zarządu, w dyskusji nad wskazanym punktem porządku obrad, mogą uczestniczyć, na zaproszenie zarządu albo z własnej inicjatywy – przewodniczący rady nadzorczej lub wyznaczeni przez niego członkowie rady nadzorczej, a na zaproszenie zarządu – pracownicy biura wojewódzkiego funduszu, a także inne osoby, w szczególności eksperci, jeżeli ich udział może przyczynić się do wyjaśnienia sprawy i jest uzasadniony potrzebami zarządu. Prezes zarządu informuje przewodniczącego rady nadzorczej w terminie, o którym mowa w § 3 ust. 1, o zwołaniu posiedzenia zarządu.
 7.
 Przepisy ust. 6 stosuje się odpowiednio do podejmowania uchwał z wykorzystaniem środków bezpośredniego porozumiewania się na odległość.
+Zarząd jednoosobowy
 § 19.
 1.
 Zarząd jednoosobowy działa przez prezesa zarządu, podejmując rozstrzygnięcia w formie pisemnej.
 2.
 Do zarządu jednoosobowego nie stosuje się przepisów § 2–8.
+Udzielanie pełnomocnictw
 § 20.
 1.
 Prezes zarządu udziela pełnomocnictw do dokonywania czynności prawnych w zakresie praw i obowiązków majątkowych wojewódzkiego funduszu i określa zakres tych pełnomocnictw.
 2.
 Udzielenie pełnomocnictwa następuje w formie pisemnej, z zastrzeżeniem art. 99 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237).
+Przepis końcowy
 § 21.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Obecnie działem administracji rządowej – klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Dodany przez § 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 24 listopada 2023 r. zmieniającego rozporządzenie w sprawie trybu działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej (Dz. U. poz. 2579), które weszło w życie z dniem 1 grudnia 2023 r. 3) Rozporządzenie zostało ogłoszone w dniu 20 grudnia 2017 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 20 grudnia 2017 r.. 1) Obecnie działem administracji rządowej – klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Dodany przez § 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 24 listopada 2023 r. zmieniającego rozporządzenie w sprawie trybu działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej (Dz. U. poz. 2579), które weszło w życie z dniem 1 grudnia 2023 r. 3) Rozporządzenie zostało ogłoszone w dniu 20 grudnia 2017 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Rada nadzorcza
+#### Rozdział 2 – Rada nadzorcza
 
-#### Rozdział 3 Zarząd dwuosobowy
+#### Rozdział 3 – Zarząd dwuosobowy
 
-#### Rozdział 4 Zarząd jednoosobowy
+#### Rozdział 4 – Zarząd jednoosobowy
 
-#### Rozdział 5 Udzielanie pełnomocnictw
+#### Rozdział 5 – Udzielanie pełnomocnictw
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

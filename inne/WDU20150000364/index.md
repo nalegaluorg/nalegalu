@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-03-13 |
 | Data wydania | 2015-03-16 |
-| Wejście w życie | 2015-03-16 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000364) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/364/text.pdf) |
 
@@ -79,8 +78,7 @@ Płatność ONW jest przyznawana rolnikowi w wysokości:
 3)
 264 zł na 1 ha – na obszarze ONW typu ze specyficznymi utrudnieniami,
 4)
-450 zł na 1 ha – na obszarze ONW typu górskiego
-stanowiących stawki podstawowe.
+450 zł na 1 ha – na obszarze ONW typu górskiego – stanowiących stawki podstawowe.
 4.
 Płatność ONW jest przyznawana w wysokości:
 1)
@@ -98,8 +96,7 @@ W przypadku rolników realizujących 5-letnie zobowiązanie płatność ONW jest
 3)
 264 zł na 1 ha – na obszarze ONW typu ze specyficznymi utrudnieniami,
 4)
-320 zł na 1 ha – na obszarze ONW typu górskiego
-stanowiących stawki podstawowe.
+320 zł na 1 ha – na obszarze ONW typu górskiego – stanowiących stawki podstawowe.
 6.
 W przypadku rolników realizujących 5-letnie zobowiązanie płatność ONW jest przyznawana w wysokości:
 1)
@@ -109,7 +106,7 @@ W przypadku rolników realizujących 5-letnie zobowiązanie płatność ONW jest
 3)
 25% stawki podstawowej – za powierzchnię powyżej 100 ha do 300 ha.
 7.
-Wykaz obszarów ONW zaliczonych do poszczególnych typów jest określony w załączniku do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2009 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Wspieranie gospodarowania na obszarach górskich i innych obszarach o niekorzystnych warunkach gospodarowania (ONW)” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 40, poz. 329, z późn. zm.).
+Wykaz obszarów ONW zaliczonych do poszczególnych typów jest określony w załączniku do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2009 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Wspieranie gospodarowania na obszarach górskich i innych obszarach o niekorzystnych warunkach gospodarowania (ONW)” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 40, poz. 329, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 138, poz. 1127, z 2010 r. Nr 39, poz. 219 i Nr 175, poz. 1185, z 2011 r. Nr 55, poz. 286, z 2012 r. poz. 272, z 2014 r. poz. 323 oraz z 2015 r. poz. 347.).
 8.
 Płatność ONW przyznana do użytków rolnych położonych:
 1)
@@ -197,8 +194,7 @@ Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z zarejestrowan
 1)
 dołącza do wniosku, o którym mowa w ust. 2, albo
 2)
-składa wraz z postanowieniem sądu, o którym mowa w ust. 5
-oświadczenia pozostałych spadkobierców rolnika o wyrażeniu zgody na wstąpienie tego spadkobiercy na miejsce rolnika i przyznanie mu płatności ONW.
+składa wraz z postanowieniem sądu, o którym mowa w ust. 5 – oświadczenia pozostałych spadkobierców rolnika o wyrażeniu zgody na wstąpienie tego spadkobiercy na miejsce rolnika i przyznanie mu płatności ONW.
 7.
 Zgoda, o której mowa w ust. 6, nie jest wymagana, jeżeli miałaby być wyrażona przez małoletniego, a wniosek, o którym mowa w ust. 2, został złożony przez spadkobiercę będącego przedstawicielem ustawowym tego małoletniego.
 8.
@@ -257,8 +253,7 @@ Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z zarejestrowan
 1)
 dołącza do tego wniosku albo
 2)
-składa wraz z odpisem postanowienia sądu, o którym mowa w ust. 6
-oświadczenia pozostałych spadkobierców rolnika o wyrażeniu zgody na wypłatę mu płatności ONW.
+składa wraz z odpisem postanowienia sądu, o którym mowa w ust. 6 – oświadczenia pozostałych spadkobierców rolnika o wyrażeniu zgody na wypłatę mu płatności ONW.
 10.
 Zgoda, o której mowa w ust. 9, nie jest wymagana, jeżeli miałaby być wyrażona przez małoletniego, a wniosek, o którym mowa w ust. 5, został złożony przez spadkobiercę będącego przedstawicielem ustawowym tego małoletniego.
 11.
@@ -295,5 +290,5 @@ Do oświadczenia, o którym mowa w ust. 2 pkt 2 lit. a, rolnik dołącza dokumen
 4.
 Do ustalania dnia przeniesienia posiadania, o którym mowa w ust. 2, przepisy § 6 ust. 6 stosuje się odpowiednio.
 § 12.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 138, poz. 1127, z 2010 r. Nr 39, poz. 219 i Nr 175, poz. 1185, z 2011 r. Nr 55, poz. 286, z 2012 r. poz. 272, z 2014 r. poz. 323 oraz z 2015 r. poz. 347.
 

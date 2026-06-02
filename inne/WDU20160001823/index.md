@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich
+# Ustawa z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2013/11/UE z dnia 21 maja 2013 r. w sprawie alternatywnych metod rozstrzygania sporów konsumenckich oraz zmiany rozporządzenia (WE) nr 2006/2004 i dyrektywy 2009/22/WE (dyrektywa w sprawie ADR w sporach konsumenckich) (Dz. Urz. UE L 165 z 18.06.2013, str. 63).
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-23 |
 | Data wydania | 2016-11-09 |
-| Wejście w życie | 2017-01-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001823) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1823/text.pdf) |
 
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, ustawę z dnia 28 marca 2003 r. o transporcie kolejowym, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, ustawę z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, ustawę z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom rynkowym, ustawę z dnia 23 listopada 2012 r. – Prawo pocztowe, ustawę z dnia 9 maja 2014 r. o informowaniu o cenach towarów i usług, ustawę z dnia 30 maja 2014 r. o prawach konsumenta oraz ustawę z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym.
+Przepisy ogólne
+Obowiązki podmiotów uprawnionych
+Rejestr
+Obowiązki przedsiębiorców
+Postępowanie w sprawie pozasądowego rozwiązywania sporów konsumenckich
+Zadania Prezesa Urzędu w zakresie pozasądowego rozwiązywania sporów konsumenckich
+Zmiany w przepisach
+Koordynator do spraw negocjacji
 1.
 Przy Prezesie URE działa Koordynator do spraw negocjacji, zwany dalej „Koordynatorem”, prowadzący postępowania w sprawie pozasądowego rozwiązywania sporów między odbiorcami paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym a przedsiębiorstwami energetycznymi oraz między prosumentami będącymi konsumentami a przedsiębiorstwami energetycznymi wynikłych z umów:
 1)
@@ -151,10 +159,10 @@ szczegółowy tryb prowadzenia postępowania w sprawie pozasądowego rozwiązywa
 2)
 sposób wnoszenia wniosków o wszczęcie postępowania,
 3)
-sposób wymiany informacji między stronami postępowania za pomocą środków komunikacji elektronicznej lub przesyłką pocztową
-mając na uwadze konieczność zapewnienia łatwego dostępu do postępowania, sprawnego rozwiązywania sporów oraz bezstronnego i niezależnego prowadzenia postępowania.
+sposób wymiany informacji między stronami postępowania za pomocą środków komunikacji elektronicznej lub przesyłką pocztową – mając na uwadze konieczność zapewnienia łatwego dostępu do postępowania, sprawnego rozwiązywania sporów oraz bezstronnego i niezależnego prowadzenia postępowania.
 2.
 Minister właściwy do spraw energii może określić, w drodze rozporządzenia, wysokość progów finansowych wartości przedmiotu sporu, których przekroczenie uprawnia do odmowy rozpatrzenia sporu, uwzględniając określenie ich wysokości na poziomie, który nie utrudnia znacząco odbiorcy paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym albo prosumentowi będącemu konsumentem dostępu do postępowania.”
+Pozasądowe rozwiązywanie sporów konsumenckich
 1.
 Jeżeli przemawia za tym charakter sprawy, wojewódzki inspektor podejmuje działania mające na celu pozasądowe rozwiązanie sporu cywilnoprawnego między konsumentem a przedsiębiorcą przez:
 1)
@@ -207,7 +215,23 @@ choroby trwale uniemożliwiającej wykonywanie zadań;
 złożenia rezygnacji.
 11.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Obowiązki podmiotów uprawnionych
+
+#### Rozdział 3 – Rejestr
+
+#### Rozdział 4 – Obowiązki przedsiębiorców
+
+#### Rozdział 5 – Postępowanie w sprawie pozasądowego rozwiązywania sporów konsumenckich
+
+#### Rozdział 6 – Zadania Prezesa Urzędu w zakresie pozasądowego rozwiązywania sporów konsumenckich
+
+#### Rozdział 7 – Zmiany w przepisach
+
+#### Rozdział 8 – Przepisy przejściowe, dostosowujące i końcowe
+
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa:
 
@@ -260,7 +284,7 @@ złożenia rezygnacji.
 
 2. Podmiot wpisany do Rejestru, zwany dalej „podmiotem uprawnionym”, prowadzi postępowanie w sprawie pozasądowego rozwiązywania sporów konsumenckich w oparciu o obowiązujące w danym podmiocie uprawnionym procedury tego postępowania, zwane dalej „regulaminem”.
 
-#### Rozdział 2 Obowiązki podmiotów uprawnionych
+#### Rozdział 2
 
 **Art. 8.** Podmiot uprawniony rozpatruje zarówno spory krajowe, jak i transgraniczne, w tym spory objęte rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 524/2013 z dnia 21 maja 2013 r. w sprawie internetowego systemu rozstrzygania sporów konsumenckich oraz zmiany rozporządzenia (WE) nr 2006/2004 i dyrektywy 2009/22/WE (rozporządzenie w sprawie ODR w sporach konsumenckich) (Dz. Urz. UE L 165 z 18.06.2013, str. 1).
 
@@ -370,7 +394,7 @@ złożenia rezygnacji.
 
 2. Przepisu ust. 1 nie stosuje się do podmiotów uprawnionych utworzonych przez organizację przedsiębiorców, w których postępowania w sprawie pozasądowego rozwiązywania sporów konsumenckich każdorazowo prowadzone są przez organ kolegialny, w skład którego wchodzi równa liczba przedstawicieli organizacji przedsiębiorców oraz przedstawicieli organizacji konsumenckich.
 
-#### Rozdział 3 Rejestr
+#### Rozdział 3
 
 **Art. 20.**
 
@@ -451,7 +475,7 @@ złożenia rezygnacji.
 
 **Art. 30.** Prezes Urzędu przekazuje Komisji Europejskiej dane objęte Rejestrem oraz informacje o zmianach tych danych.
 
-#### Rozdział 4 Obowiązki przedsiębiorców
+#### Rozdział 4
 
 **Art. 31.**
 
@@ -473,7 +497,7 @@ złożenia rezygnacji.
 
 3. Jeżeli przedsiębiorca nie złożył żadnego oświadczenia, uznaje się, że wyraża zgodę na udział w postępowaniu w sprawie pozasądowego rozwiązywania sporów konsumenckich.
 
-#### Rozdział 5 Postępowanie w sprawie pozasądowego rozwiązywania sporów konsumenckich
+#### Rozdział 5
 
 **Art. 33.**
 
@@ -564,7 +588,7 @@ złożenia rezygnacji.
 
 2. Rozstrzygnięcie sporu według ogólnych zasad prawa lub zasad słuszności nie może prowadzić do pozbawienia konsumenta ochrony przyznanej mu bezwzględnie wiążącymi przepisami prawa właściwego dla danego stosunku.
 
-#### Rozdział 6 Zadania Prezesa Urzędu w zakresie pozasądowego rozwiązywania sporów konsumenckich
+#### Rozdział 6
 
 **Art. 43.** Prezes Urzędu monitoruje:
 
@@ -596,7 +620,7 @@ złożenia rezygnacji.
 
 **Art. 47.** Prezes Urzędu podejmuje działania edukacyjno-informacyjne mające na celu popularyzację wiedzy o możliwościach pozasądowego rozwiązywania sporów konsumenckich i dostępnych podmiotach uprawnionych.
 
-#### Rozdział 7 Zmiany w przepisach
+#### Rozdział 7
 
 **Art. 48.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822) wprowadza się następujące zmiany:
 
@@ -617,7 +641,7 @@ złożenia rezygnacji.
 - **4)** w art. 1214 w § 3 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 - **3)** wyrok sądu polubownego lub ugoda przed nim zawarta pozbawia konsumenta ochrony przyznanej mu bezwzględnie wiążącymi przepisami prawa właściwego dla umowy, której stroną jest konsument, a gdy prawem właściwym dla tej umowy jest prawo wybrane przez strony – ochrony przyznanej konsumentowi bezwzględnie wiążącymi przepisami prawa, które byłoby właściwe w braku wyboru prawa. ” .
 
-**Art. 49.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 49.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662, z 2015 r. poz. 151, 478, 942, 1618, 1893, 1960 i 2365 oraz z 2016 r. poz. 266, 831, 925, 1052 i 1165.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6c ust. 3 i 4 otrzymują brzmienie: „
 
@@ -634,7 +658,7 @@ złożenia rezygnacji.
 - **21d)** podejmowanie działań informacyjnych mających na celu ochronę uzasadnionych interesów odbiorców paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym, w szczególności publikowanie na stronie internetowej URE informacji dotyczących powtarzających się lub istotnych problemów prowadzących do sporów między przedsiębiorstwami energetycznymi a odbiorcami paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym, a także o przedsiębiorstwach energetycznych, na które zostały złożone uzasadnione skargi tych odbiorców dotyczące tych problemów; ” ;
 - **5)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
 
-#### Rozdział 4a Koordynator do spraw negocjacji
+#### Rozdział 4a
 
 **Art. 50.** W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2016 r. poz. 1059) wprowadza się następujące zmiany:
 
@@ -670,5 +694,5 @@ złożenia rezygnacji.
 
 - **6)** rozdziały 8 i 9 otrzymują brzmienie: „
 
-#### Rozdział 8 Pozasądowe rozwiązywanie sporów konsumenckich
+#### Rozdział 8
 

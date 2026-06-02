@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-22 |
 | Data wydania | 2022-10-03 |
-| Wejście w życie | 2022-10-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002034) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2034/text.pdf) |
 
@@ -33,14 +32,11 @@ W rozporządzeniu Ministra Sprawiedliwości z dnia 31 lipca 2009 r. w sprawie s�
 1)
 w § 3:
 a)
-w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
-„
+w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 3)
-Rektor-Komendant uczelni Służby Więziennej – dla funkcjonariuszy i pracowników tej uczelni oraz studentów studiów i studiów podyplomowych, a także uczestników szkoleń i kursów zawodowych.
-” ,
+Rektor-Komendant uczelni Służby Więziennej – dla funkcjonariuszy i pracowników tej uczelni oraz studentów studiów i studiów podyplomowych, a także uczestników szkoleń i kursów zawodowych. ” ,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
 Realizację zadań odpowiednich do zadań służby medycyny pracy w odniesieniu do funkcjonariuszy i pracowników:
 1)
@@ -54,8 +50,7 @@ Ośrodka Szkolenia Służby Więziennej w Suchej – zapewnia zakład opieki zdr
 5)
 Ośrodka Szkolenia Służby Więziennej w Popowie Oddziału Zamiejscowego w Kikitach – zapewnia zakład opieki zdrowotnej medycyny pracy SW utworzony przy Okręgowym Inspektoracie Służby Więziennej w Olsztynie;
 6)
-Ośrodka Doskonalenia Kadr Służby Więziennej w Olszanicy – zapewnia zakład opieki zdrowotnej medycyny pracy SW utworzony przy Okręgowym Inspektoracie Służby Więziennej w Rzeszowie.
-” ;
+Ośrodka Doskonalenia Kadr Służby Więziennej w Olszanicy – zapewnia zakład opieki zdrowotnej medycyny pracy SW utworzony przy Okręgowym Inspektoracie Służby Więziennej w Rzeszowie. ” ;
 2)
 w § 5 uchyla się ust. 3.
 § 2.

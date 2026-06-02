@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 24 listopada 2017 r. w sprawie pomocy publicznej na realizację projektów w zakresie transportu intermodalnego w ramach Programu Operacyjnego Infrastruktura i Środowisko na lata 2014–2020
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 24 listopada 2017 r. w sprawie pomocy publicznej na realizację projektów w zakresie transportu intermodalnego w ramach Programu Operacyjnego Infrastruktura i Środowisko na lata 2014–2020 Minister Rozwoju i Finansów kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-24 |
 | Data wydania | 2017-12-07 |
-| Wejście w życie | 2017-12-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002269) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2269/text.pdf) |
 
@@ -48,7 +47,7 @@ usługach terminalowych – należy przez to rozumieć usługi polegające na za
 1.
 Pomoc może być udzielona przedsiębiorcy mającemu siedzibę na terytorium jednego z państw członkowskich Unii Europejskiej lub Europejskiego Porozumienia o Wolnym Handlu (EFTA) na realizację projektu w zakresie transportu intermodalnego, zwanego dalej „projektem”, obejmującego:
 1)
-budowę lub przebudowę infrastruktury terminali intermodalnych, w tym infrastruktury dedykowanej, w rozumieniu art. 2 pkt 33 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), w zakresie infrastruktury drogowej, bocznic lub linii kolejowych, które służą połączeniu terminali intermodalnych z siecią drogową lub siecią kolejową;
+budowę lub przebudowę infrastruktury terminali intermodalnych, w tym infrastruktury dedykowanej, w rozumieniu art. 2 pkt 33 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1., w zakresie infrastruktury drogowej, bocznic lub linii kolejowych, które służą połączeniu terminali intermodalnych z siecią drogową lub siecią kolejową;
 2)
 zakup lub modernizację urządzeń niezbędnych do obsługi terminali intermodalnych;
 3)
@@ -73,7 +72,7 @@ wydatki kwalifikowalne na realizację projektu są ponoszone w zakresie określo
 3)
 wielkość pomocy nie przekracza wartości określonej na podstawie § 5 ust. 3;
 4)
-zobowiąże się, że projekt zachowa trwałość operacji, zgodnie z art. 71 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.);
+zobowiąże się, że projekt zachowa trwałość operacji, zgodnie z art. 71 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 338 z 13.12.2016, str. 34 oraz Dz. Urz. UE L 129 z 19.05.2017, str. 1.;
 5)
 zobowiąże się, że przedmiot realizacji projektu objęty pomocą będzie wykorzystywany wyłącznie na potrzeby transportu intermodalnego;
 6)
@@ -222,6 +221,5 @@ Przedsiębiorca informuje CUPT o każdej innej pomocy publicznej lub pomocy de m
 § 9.
 Pomoc może być udzielana w okresie obowiązywania decyzji Komisji Europejskiej, o której mowa odpowiednio w art. 4 ust. 3 albo art. 9 ust. 3 i 4 rozporządzenia Rady (UE) 2015/1589 z dnia 13 lipca 2015 r. ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 248 z 24.09.2015, str. 9), nie dłużej jednak niż do dnia 31 grudnia 2023 r.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 338 z 13.12.2016, str. 34 oraz Dz. Urz. UE L 129 z 19.05.2017, str. 1.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 338 z 13.12.2016, str. 34 oraz Dz. Urz. UE L 129 z 19.05.2017, str. 1.
 

@@ -22,25 +22,26 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-03-14 |
 | Data wydania | 2003-04-09 |
-| Wejście w życie | 2003-04-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030600536) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/536/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej oraz zasadach ich przemieszczania się przez to terytorium (Dz. U. Nr 93, poz. 1063) wprowadza się następujące zmiany:
 
-- **1)** w art. 3: w ust. 1: – w pkt 1 lit. a otrzymuje brzmienie: „ a) w przypadku wojsk Państw-Stron Traktatu Północnoatlantyckiego, sporządzonego w Waszyngtonie dnia 4 kwietnia 1949 r., wojsk pozostających pod dowództwem organów Organizacji Traktatu Północnoatlantyckiego albo wojsk uczestniczących w szkoleniu w ramach Partnerstwa dla Pokoju, jeżeli okres ich pobytu nie przekracza trzech miesięcy, ” , – w pkt 2 lit. a otrzymuje brzmienie: „ a) w przypadku wojsk, o których mowa w pkt 1 lit. a), jeżeli okres ich pobytu przekracza trzy miesiące albo jeżeli jej przedmiotem jest przedłużenie pobytu, ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **1)** w art. 3: w ust. 1: w pkt 1 lit. a otrzymuje brzmienie: „ w przypadku wojsk Państw-Stron Traktatu Północnoatlantyckiego, sporządzonego w Waszyngtonie dnia 4 kwietnia 1949 r., wojsk pozostających pod dowództwem organów Organizacji Traktatu Północnoatlantyckiego albo wojsk uczestniczących w szkoleniu w ramach Partnerstwa dla Pokoju, jeżeli okres ich pobytu nie przekracza trzech miesięcy, ” , w pkt 2 lit. a otrzymuje brzmienie: „ w przypadku wojsk, o których mowa w pkt 1 lit. a), jeżeli okres ich pobytu przekracza trzy miesiące albo jeżeli jej przedmiotem jest przedłużenie pobytu, ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **a)**
     - **a)**
     - **b)**
 
 1a. Minister Obrony Narodowej może upoważnić w przypadkach, o których mowa w ust. 1 pkt 1 lit. a):
 
-- **1)** Szefa Sztabu Generalnego do wyrażania zgody w sytuacji: klęski żywiołowej i likwidacji jej skutków, katastrofy lądowej, morskiej lub lotniczej, konieczności udzielenia pomocy humanitarnej, realizacji ćwiczenia wojskowego wynikającego z planu zatwierdzonego przez Ministra Obrony Narodowej jeżeli liczebność wojsk obcych nie przekracza pięciuset osób, a okres ich pobytu nie przekracza dwóch miesięcy,
+- **1)** Szefa Sztabu Generalnego do wyrażania zgody w sytuacji: klęski żywiołowej i likwidacji jej skutków, katastrofy lądowej, morskiej lub lotniczej, konieczności udzielenia pomocy humanitarnej, realizacji ćwiczenia wojskowego wynikającego z planu zatwierdzonego przez Ministra Obrony Narodowej – jeżeli liczebność wojsk obcych nie przekracza pięciuset osób, a okres ich pobytu nie przekracza dwóch miesięcy,
     - **a)**
     - **b)**
     - **c)**
     - **d)**
 
-- **2)** dowódcę rodzaju Sił Zbrojnych do wyrażania zgody w sytuacji: klęski żywiołowej i likwidacji jej skutków, katastrofy lądowej, morskiej lub lotniczej, konieczności udzielenia pomocy humanitarnej, realizacji ćwiczenia wojskowego wynikającego z planu zatwierdzonego przez Ministra Obrony Narodowej jeżeli wojska obce reprezentują rodzaj sił zbrojnych będący odpowiednikiem rodzaju sit zbrojnych, którym ten dowódca dowodzi, liczebność wojsk obcych nie przekracza pięciuset osób, a okres ich pobytu nie przekracza dwóch miesięcy. ” , ust. 3 otrzymuje brzmienie: „
+- **2)** dowódcę rodzaju Sił Zbrojnych do wyrażania zgody w sytuacji: klęski żywiołowej i likwidacji jej skutków, katastrofy lądowej, morskiej lub lotniczej, konieczności udzielenia pomocy humanitarnej, realizacji ćwiczenia wojskowego wynikającego z planu zatwierdzonego przez Ministra Obrony Narodowej – jeżeli wojska obce reprezentują rodzaj sił zbrojnych będący odpowiednikiem rodzaju sit zbrojnych, którym ten dowódca dowodzi, liczebność wojsk obcych nie przekracza pięciuset osób, a okres ich pobytu nie przekracza dwóch miesięcy. ” , ust. 3 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **c)**

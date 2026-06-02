@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-07 |
 | Data wydania | 2022-04-27 |
-| Wejście w życie | 2022-04-28 |
 | Ostatnia zmiana | 2026-04-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000903) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/903/text.pdf) |
 
@@ -31,9 +30,9 @@ Załącznik – Odmiany kukurydzy MON 810, których materiał siewny nie może b
 Treść rozporządzenia
 Na podstawie art. 104 ust. 9 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2021 r. poz. 129) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 2 stycznia 2013 r. w sprawie zakazu stosowania materiału siewnego odmian kukurydzy MON 810 (Dz. U. z 2014 r. poz. 1085, z późn. zm.) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+W rozporządzeniu Rady Ministrów z dnia 2 stycznia 2013 r. w sprawie zakazu stosowania materiału siewnego odmian kukurydzy MON 810 (Dz. U. z 2014 r. poz. 1085, z późn. zm.Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 688, z 2016 r. poz. 582, z 2017 r. poz. 830, z 2018 r. poz. 781, z 2019 r. poz. 1047, z 2020 r. poz. 675 oraz z 2021 r. poz. 789.) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 688, z 2016 r. poz. 582, z 2017 r. poz. 830, z 2018 r. poz. 781, z 2019 r. poz. 1047, z 2020 r. poz. 675 oraz z 2021 r. poz. 789.
 Załącznik – Odmiany kukurydzy MON 810, których materiał siewny nie może być stosowany
 1.
 Aliacan BT

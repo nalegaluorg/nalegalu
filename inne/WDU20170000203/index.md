@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 25 stycznia 2017 r. w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 25 stycznia 2017 r. w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-01-25 |
 | Data wydania | 2017-02-01 |
-| Wejście w życie | 2017-02-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000203) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/203/text.pdf) |
 
@@ -33,8 +32,7 @@ Na podstawie art. 3 ust. 4 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu 
 § 1.
 Bankowemu Funduszowi Gwarancyjnemu nadaje się statut, stanowiący załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 13 sierpnia 2013 r. w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu (Dz. U. poz. 967), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 386 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996 i 1997).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 13 sierpnia 2013 r. w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu (Dz. U. poz. 967), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 386 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996 i 1997). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 13 sierpnia 2013 r. w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu (Dz. U. poz. 967), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 386 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996 i 1997).
 Załącznik – Statut Bankowego Funduszu Gwarancyjnego
 I.
 Postanowienie ogólne
@@ -156,8 +154,7 @@ Zarząd Funduszu oblicza wysokość składek należnych na fundusz gwarancyjny b
 1)
 metodę wyznaczania składek wnoszonych przez banki na fundusz gwarancyjny banków, o której mowa w art. 289 ust. 3 ustawy,
 2)
-metodę wyznaczania składek wnoszonych przez oddziały banków zagranicznych na fundusz gwarancyjny banków, o której mowa w art. 289 ust. 3 ustawy
-z uwzględnieniem łącznej kwoty składek, o której mowa w art. 293 ust. 1 pkt 1 ustawy, określonej przez Radę Funduszu na dany rok kalendarzowy zgodnie z § 8.
+metodę wyznaczania składek wnoszonych przez oddziały banków zagranicznych na fundusz gwarancyjny banków, o której mowa w art. 289 ust. 3 ustawy – z uwzględnieniem łącznej kwoty składek, o której mowa w art. 293 ust. 1 pkt 1 ustawy, określonej przez Radę Funduszu na dany rok kalendarzowy zgodnie z § 8.
 2.
 Postanowienia ust. 1 stosuje się odpowiednio do obliczenia wysokości składek nadzwyczajnych, o których mowa w art. 291 ustawy.
 3.
@@ -173,8 +170,7 @@ Zarząd Funduszu przekazuje poszczególnym bankom, oddziałom banków zagraniczn
 3)
 10 września – dla składek należnych za trzeci kwartał,
 4)
-10 grudnia – dla składek należnych za czwarty kwartał
-wskazując termin ich wniesienia oraz udział składek wnoszonych w formie zobowiązań do zapłaty, zgodnie z uchwałą Rady Funduszu.
+10 grudnia – dla składek należnych za czwarty kwartał – wskazując termin ich wniesienia oraz udział składek wnoszonych w formie zobowiązań do zapłaty, zgodnie z uchwałą Rady Funduszu.
 6.
 Zarząd Funduszu, w terminach określonych w ust. 5, przedstawia uczestnikom systemu ochrony oraz organowi zarządzającemu systemem ochrony, w którym dany bank uczestniczy, wyliczoną różnicę pomiędzy składką obliczoną zgodnie z ust. 1 oraz oszacowaną wielkością składki w przypadku, gdyby bank ten nie uczestniczył w systemie ochrony.
 7.
@@ -183,7 +179,7 @@ Zarząd Funduszu przekazuje bez zbędnej zwłoki poszczególnym bankom, oddział
 1.
 Zarząd Funduszu dokonuje podziału łącznej kwoty składek, o której mowa w art. 301 ust. 1 pkt 1 ustawy, między banki, firmy inwestycyjne i oddziały banków zagranicznych, stosując:
 1)
-metodę wyznaczania składek wnoszonych przez banki i firmy inwestycyjne na fundusz przymusowej restrukturyzacji banków, o której mowa w rozporządzeniu delegowanym Komisji (UE) 2015/63 z dnia 21 października 2014 r. uzupełniającym dyrektywę Parlamentu Europejskiego i Rady 2014/59/UE w odniesieniu do składek ex ante wnoszonych na rzecz mechanizmów finansowania restrukturyzacji i uporządkowanej likwidacji (Dz. Urz. UE L 11 z 17.01.2015, str. 44, z późn. zm.), oraz zasady określone w drodze uchwały przez Radę Funduszu, zgodnie z art. 298 ust. 4 ustawy;
+metodę wyznaczania składek wnoszonych przez banki i firmy inwestycyjne na fundusz przymusowej restrukturyzacji banków, o której mowa w rozporządzeniu delegowanym Komisji (UE) 2015/63 z dnia 21 października 2014 r. uzupełniającym dyrektywę Parlamentu Europejskiego i Rady 2014/59/UE w odniesieniu do składek ex ante wnoszonych na rzecz mechanizmów finansowania restrukturyzacji i uporządkowanej likwidacji (Dz. Urz. UE L 11 z 17.01.2015, str. 44, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 233 z 30.08.2016, str. 1.), oraz zasady określone w drodze uchwały przez Radę Funduszu, zgodnie z art. 298 ust. 4 ustawy;
 2)
 zasady wyznaczania składek wnoszonych przez oddziały banków zagranicznych na fundusz przymusowej restrukturyzacji banków, określone w przepisach wydanych na podstawie art. 298 ust. 6 ustawy.
 2.
@@ -466,8 +462,7 @@ Wysokość stawek, o których mowa w ust. 1, na dany rok kalendarzowy jest okre�
 1)
 za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną za potwierdzeniem odbioru lub
 2)
-listem poleconym za potwierdzeniem odbioru
-podmiotom objętym systemem gwarantowania, o których mowa w art. 2 pkt 41 lit. a i b ustawy, w terminie 14 dni od dnia podjęcia uchwały przez Radę Funduszu, a także podawana do publicznej wiadomości przez publikację na stronie internetowej Funduszu.
+listem poleconym za potwierdzeniem odbioru – podmiotom objętym systemem gwarantowania, o których mowa w art. 2 pkt 41 lit. a i b ustawy, w terminie 14 dni od dnia podjęcia uchwały przez Radę Funduszu, a także podawana do publicznej wiadomości przez publikację na stronie internetowej Funduszu.
 § 31.
 W latach 2017–2023 Zarząd Funduszu, na podstawie art. 369 ust. 2 ustawy, nie później niż do dnia 15 listopada każdego roku kalendarzowego, przedstawia Radzie Funduszu wniosek w sprawie ustalenia na rok następny wysokości stawki funduszy ochrony środków gwarantowanych, o których mowa w art. 369 ustawy.
 § 32.
@@ -479,5 +474,5 @@ W przypadku spełnienia warunku gwarancji do dnia 31 grudnia 2024 r. środki pie
 § 35.
 W przypadku spełnienia warunku gwarancji do dnia 31 grudnia 2024 r. niewypłacone przez Fundusz środki pieniężne, przeznaczone na wypłatę środków gwarantowanych dla deponentów podmiotów objętych systemem gwarantowania, o których mowa w art. 2 pkt 41 lit. a i b ustawy, wraz z odsetkami, o których mowa w § 34, są przechowywane na rachunku specjalnym rozliczeń gwarancyjnych do upływu terminu przedawnienia roszczeń z tytułu gwarancji. Po tym terminie mogą być one przekazane na inny rachunek Funduszu.
 § 36.
-W przypadku spełnienia warunku gwarancji do dnia 31 grudnia 2024 r., do czasu dokonania wpłat z funduszy ochrony środków gwarantowanych przez podmioty objęte systemem gwarantowania, o których mowa w art. 2 pkt 41 lit. a i b ustawy, rachunek specjalny rozliczeń gwarancyjnych może być zasilany środkami z rachunku bieżącego Funduszu. Środki przekazane przez Fundusz na rachunek specjalny rozliczeń gwarancyjnych podlegają zwrotowi na rachunek bieżący Funduszu po wpłacie środków przez podmioty objęte systemem gwarantowania.
+W przypadku spełnienia warunku gwarancji do dnia 31 grudnia 2024 r., do czasu dokonania wpłat z funduszy ochrony środków gwarantowanych przez podmioty objęte systemem gwarantowania, o których mowa w art. 2 pkt 41 lit. a i b ustawy, rachunek specjalny rozliczeń gwarancyjnych może być zasilany środkami z rachunku bieżącego Funduszu. Środki przekazane przez Fundusz na rachunek specjalny rozliczeń gwarancyjnych podlegają zwrotowi na rachunek bieżący Funduszu po wpłacie środków przez podmioty objęte systemem gwarantowania. 1) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 233 z 30.08.2016, str. 1.
 

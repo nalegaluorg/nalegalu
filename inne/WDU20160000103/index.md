@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-01-15 |
 | Data wydania | 2016-01-21 |
-| Wejście w życie | 2016-01-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000103) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/103/text.pdf) |
 
@@ -53,15 +52,13 @@ uprawnień kwalifikowanych pracowników ochrony fizycznej z uwzględnieniem uży
 4)
 odpowiedzialności karnej kwalifikowanego pracownika ochrony fizycznej;
 5)
-odpowiedzialności cywilnej kwalifikowanego pracownika ochrony fizycznej.
-Tematyka określona w pkt I w minimalnym łącznym wymiarze 4 godzin jest realizowana w formie wykładów.
+odpowiedzialności cywilnej kwalifikowanego pracownika ochrony fizycznej. Tematyka określona w pkt I w minimalnym łącznym wymiarze 4 godzin jest realizowana w formie wykładów.
 II.
 Zasady udzielania pomocy przedlekarskiej w zakresie:
 1)
 zasad udzielania pomocy przedlekarskiej w przypadkach zranień bądź krwawień tętniczych i żylnych, złamań kości, oparzeń, porażenia przedmiotem przeznaczonym do obezwładniania osób za pomocą energii elektrycznej lub omdleń;
 2)
-praktycznego opatrywania ran postrzałowych, unieruchamiania kończyn, wykonywania sztucznego oddychania i pośredniego masażu serca, użycia automatycznego defibrylatora zewnętrznego AED.
-Tematyka określona w pkt II w minimalnym łącznym wymiarze 8 godzin jest realizowana w formie wykładów i zajęć praktycznych.
+praktycznego opatrywania ran postrzałowych, unieruchamiania kończyn, wykonywania sztucznego oddychania i pośredniego masażu serca, użycia automatycznego defibrylatora zewnętrznego AED. Tematyka określona w pkt II w minimalnym łącznym wymiarze 8 godzin jest realizowana w formie wykładów i zajęć praktycznych.
 III.
 Wyszkolenie strzeleckie w zakresie:
 1)
@@ -69,8 +66,7 @@ zasad bezpiecznego posługiwania się i obchodzenia z bronią oraz zasad bezpiec
 2)
 technik i postaw strzeleckich;
 3)
-strzelania z pistoletu, rewolweru, pistoletu maszynowego, karabinka, strzelby gładkolufowej.
-Tematyka określona w pkt III w minimalnym łącznym wymiarze 12 godzin jest realizowana w formie zajęć praktycznych.
+strzelania z pistoletu, rewolweru, pistoletu maszynowego, karabinka, strzelby gładkolufowej. Tematyka określona w pkt III w minimalnym łącznym wymiarze 12 godzin jest realizowana w formie zajęć praktycznych.
 IV.
 Samoobrona i techniki interwencyjne w zakresie:
 1)
@@ -100,6 +96,5 @@ obrony przed atakami nożem i niebezpiecznymi przedmiotami;
 13)
 obrony przed zagrożeniem bronią palną;
 14)
-podstawowych technik posługiwania się bronią w walce.
-Tematyka określona w pkt IV w minimalnym łącznym wymiarze 16 godzin jest realizowana w formie zajęć praktycznych.
+podstawowych technik posługiwania się bronią w walce. Tematyka określona w pkt IV w minimalnym łącznym wymiarze 16 godzin jest realizowana w formie zajęć praktycznych.
 

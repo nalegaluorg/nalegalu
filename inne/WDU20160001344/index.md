@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-06 |
 | Data wydania | 2016-08-26 |
-| Wejście w życie | 2016-09-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001344) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1344/text.pdf) |
 
@@ -38,11 +37,11 @@ source: "eli-html"
 
 1. Dysponent części budżetowej może zlecić Szkole realizację szkolenia dla pracowników urzędu obsługującego dysponenta lub jednostek podległych temu dysponentowi lub nadzorowanych przez niego.
 
-2. Szef Służby Cywilnej może zlecić Szkole realizację szkoleń centralnych, o których mowa w art. 106 ust. 2 pkt 1 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2014 r. poz. 1111, z późn. zm.).
+2. Szef Służby Cywilnej może zlecić Szkole realizację szkoleń centralnych, o których mowa w art. 106 ust. 2 pkt 1 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2014 r. poz. 1111, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1199, z 2015 r. poz. 211, 1220 i 1269 oraz z 2016 r. poz. 34.).
 
 3. Zlecenie szkolenia, o którym mowa w ust. 2, następuje po wcześniejszym zawarciu porozumienia między dyrektorem Szkoły a Szefem Służby Cywilnej, określającego zakres, warunki i tryb realizacji szkolenia.
 
 4. Na realizację szkoleń, o których mowa w ust. 1 i 2, Szkoła może otrzymać dotację celową ze środków, o których mowa w art. 111 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej, lub ze środków pochodzących z części budżetowej będącej w dyspozycji właściwego dysponenta części budżetowej. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1199, z 2015 r. poz. 211, 1220 i 1269 oraz z 2016 r. poz. 34.
 

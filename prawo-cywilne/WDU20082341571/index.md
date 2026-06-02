@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
+# Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 września 1986 r. – Prawo o aktach stanu cywilnego, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 23 listopada 2002 r. o Sądzie Najwyższym, ustawę z dnia 22 maja 2003 r. o działalności ubezpieczeniowej oraz ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-12-05 |
 | Data wydania | 2008-12-30 |
-| Wejście w życie | 2009-07-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082341571) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1571/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.) wprowadza się następujące zmiany:
+Europejskie postępowania w sprawach transgranicznych
+Europejskie postępowanie nakazowe
+Europejskie postępowanie w sprawie drobnych roszczeń
+Stwierdzenie wykonalności europejskiego nakazu zapłaty
+Zaświadczenie dotyczące orzeczenia wydanego w europejskim postępowaniu w sprawie drobnych roszczeń
+Jurysdykcja krajowa w postępowaniu zabezpieczającym i egzekucyjnym
+Wykonalność europejskich nakazów zapłaty wydanych przez sądy państw członkowskich Unii Europejskiej
+Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanych w europejskim postępowaniu w sprawie drobnych roszczeń
+
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699, z 2007 r. Nr 7, poz. 58, Nr 47, poz. 319, Nr 50, poz. 331, Nr 99, poz. 662, Nr 106, poz. 731, Nr 112, poz. 766 i 769, Nr 115, poz. 794, Nr 121, poz. 831, Nr 123, poz. 849, Nr 176, poz. 1243, Nr 181, poz. 1287, Nr 192, poz. 1378 i Nr 247, poz. 1845 oraz z 2008 r. Nr 59, poz. 367, Nr 96, poz. 609 i 619, Nr 110, poz. 706, Nr 116, poz. 731, Nr 119, poz. 772, Nr 120, poz. 779, Nr 122, poz. 796, Nr 171, poz. 1056, Nr 220, poz. 1431, Nr 228, poz. 1507 i Nr 231, poz. 1547.) wprowadza się następujące zmiany:
 
 - **1)** art. 41 otrzymuje brzmienie: „
 
@@ -76,9 +84,9 @@ source: "eli-html"
 
 - **12)** w części pierwszej w księdze pierwszej w tytule VII dodaje się dział VII w brzmieniu: „
 
-### Dział VII Europejskie postępowania w sprawach transgranicznych
+### Dział VII
 
-#### Rozdział 1. Europejskie postępowanie nakazowe
+#### Rozdział 1.
 
 **Art. 50515.**
 
@@ -122,7 +130,7 @@ source: "eli-html"
 
 § 4. Na postanowienie sądu w przedmiocie uchylenia europejskiego nakazu zapłaty przysługuje zażalenie.
 
-#### Rozdział 2. Europejskie postępowanie w sprawie drobnych roszczeń
+#### Rozdział 2.
 
 **Art. 50521.**
 
@@ -172,7 +180,7 @@ source: "eli-html"
 
 - **16)** w części trzeciej w tytule I po dziale IIa dodaje się działy llb i IIc w brzmieniu: „
 
-### Dział IIb. Stwierdzenie wykonalności europejskiego nakazu zapłaty
+### Dział IIb.
 
 **Art. 7956.**
 
@@ -182,7 +190,7 @@ source: "eli-html"
 
 **Art. 7957.** Na postanowienie w przedmiocie stwierdzenia wykonalności przysługuje zażalenie.
 
-### Dział IIc. Zaświadczenie dotyczące orzeczenia wydanego w europejskim postępowaniu w sprawie drobnych roszczeń
+### Dział IIc.
 
 **Art. 7958.**
 
@@ -441,7 +449,7 @@ source: "eli-html"
 
 - **37)** w części czwartej w księdze pierwszej po tytule IV dodaje się tytuł IVa w brzmieniu: „
 
-## Tytuł IVa. Jurysdykcja krajowa w postępowaniu zabezpieczającym i egzekucyjnym
+## Tytuł IVa.
 
 **Art. 11103.**
 
@@ -818,7 +826,7 @@ source: "eli-html"
 
 - **78)** w części czwartej w księdze trzeciej po tytule III dodaje tytuły IV i V w brzmieniu: „
 
-## Tytuł IV. Wykonalność europejskich nakazów zapłaty wydanych przez sądy państw członkowskich Unii Europejskiej
+## Tytuł IV.
 
 **Art. 11534.** Europejskie nakazy zapłaty wydane przez sądy państw członkowskich Unii Europejskiej, których wykonalność została stwierdzona w tych państwach na podstawie przepisów odrębnych, są tytułami egzekucyjnymi i podlegają wykonaniu w Rzeczypospolitej Polskiej po nadaniu klauzuli wykonalności.
 
@@ -826,7 +834,7 @@ source: "eli-html"
 
 **Art. 11536.** Przepisów art. 1150–1152 nie stosuje się.
 
-## Tytuł V. Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanych w europejskim postępowaniu w sprawie drobnych roszczeń
+## Tytuł V.
 
 **Art. 11537.** Orzeczenia sądów państw członkowskich Unii Europejskiej wydane w europejskim postępowaniu w sprawie drobnych roszczeń, opatrzone w tych państwach zaświadczeniem na podstawie przepisów odrębnych, są tytułami egzekucyjnymi i podlegają wykonaniu w Rzeczypospolitej Polskiej po nadaniu klauzuli wykonalności.
 
@@ -838,13 +846,13 @@ source: "eli-html"
 
 § 2. Wymaganie dotyczące formy zapisu na sąd polubowny jest spełnione także wtedy, gdy zapis zamieszczony został w wymienionych między stronami pismach lub oświadczeniach złożonych za pomocą środków porozumiewania się na odległość, które pozwalają utrwalić ich treść. Powołanie się w umowie na dokument zawierający postanowienie o poddaniu sporu pod rozstrzygnięcie sądu polubownego spełnia wymagania dotyczące formy zapisu na sąd polubowny, jeżeli umowa ta jest sporządzona na piśmie, a to powołanie się jest tego rodzaju, że czyni zapis częścią składową umowy. ” .
 
-**Art. 2.** W ustawie z dnia 29 września 1986 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2004 r. Nr 161, poz. 1688, z późn. zm.) w art. 73 ust. 2 otrzymuje brzmienie: „ 2. Wpisanie wzmianki dodatkowej lub zamieszczenia przypisku w akcie stanu cywilnego na podstawie orzeczenia sądu państwa obcego lub rozstrzygnięcia innego organu państwa obcego następuje, jeżeli orzeczenie to podlega uznaniu na podstawie przepisów Kodeksu postępowania cywilnego lub innych właściwych przepisów. ” .
+**Art. 2.** W ustawie z dnia 29 września 1986 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2004 r. Nr 161, poz. 1688, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 21, poz. 125 i Nr 181, poz. 1287 oraz z 2008 r. Nr 182, poz. 1121, Nr 195, poz. 1198 i Nr 220, poz. 1431.) w art. 73 ust. 2 otrzymuje brzmienie: „ 2. Wpisanie wzmianki dodatkowej lub zamieszczenia przypisku w akcie stanu cywilnego na podstawie orzeczenia sądu państwa obcego lub rozstrzygnięcia innego organu państwa obcego następuje, jeżeli orzeczenie to podlega uznaniu na podstawie przepisów Kodeksu postępowania cywilnego lub innych właściwych przepisów. ” .
 
-**Art. 3.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.) po art. 69 dodaje się art. 69a w brzmieniu: „
+**Art. 3.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903 oraz z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344 i Nr 225, poz. 1485.) po art. 69 dodaje się art. 69a w brzmieniu: „
 
 **Art. 69a.** Sąd karny orzekający o odpowiedzialności karnej za przestępstwo ma jurysdykcję w sprawie o roszczenia majątkowe wynikające z tego przestępstwa. Przepis ten stosuje się odpowiednio do prokuratora w postępowaniu przygotowawczym w sytuacji określonej w art. 69 § 2. ” .
 
-**Art. 4.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.) w art. 13 w § 2 pkt 5 otrzymuje brzmienie: „
+**Art. 4.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698 oraz z 2008 r. Nr 223, poz. 1457 i Nr 228, poz. 1507.) w art. 13 w § 2 pkt 5 otrzymuje brzmienie: „
 
 - **5)** cywilnych podlegających rozpoznaniu w postępowaniu uproszczonym, z wyjątkiem spraw rozpoznawanych w europejskim postępowaniu nakazowym, oraz dotyczących depozytów sądowych i przepadku rzeczy. ” .
 
@@ -852,9 +860,9 @@ source: "eli-html"
 
 **Art. 64.** Sąd Najwyższy na wniosek Prokuratora Generalnego unieważnia prawomocne orzeczenie wydane w sprawie, która w chwili orzekania ze względu na osobę nie podlegała orzecznictwu sądów polskich lub w której w chwili orzekania droga sądowa była niedopuszczalna, jeżeli orzeczenie to nie może być wzruszone w trybie przewidzianym w ustawach o postępowaniach sądowych. ” .
 
-**Art. 6.** W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.) w art. 106 uchyla się ust. 10.
+**Art. 6.** W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959, z 2005 r. Nr 83, poz. 719, Nr 143, poz. 1204, Nr 167, poz. 1396, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 50, poz. 331, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 112, poz. 769 oraz z 2008 r. Nr 171, poz. 1056.) w art. 106 uchyla się ust. 10.
 
-**Art. 7.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. Nr 167, poz. 1398, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. Nr 167, poz. 1398, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 126, poz. 876, 2007 r. Nr 21, poz. 123, Nr 82, poz. 560, Nr 123, poz. 849, Nr 125, poz. 873 i Nr 191, poz. 1371 oraz z 2008 r. Nr 228, poz. 1524.) wprowadza się następujące zmiany:
 
 - **1)** w art. 19 ust. 1 otrzymuje brzmienie: „
 
@@ -890,5 +898,5 @@ source: "eli-html"
 
 5. Uznaniu lub stwierdzeniu wykonalności na podstawie przepisów ustawy podlegają orzeczenia, rozstrzygnięcia lub ugody, które zostały wydane albo zawarte lub zatwierdzone po dniu wejścia w życie ustawy.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 5, 9, 12 i 15–18 oraz pkt 78 w zakresie dodawanych art. 11534, art. 11535, art. 11537 i art. 11538, a także art. 7 pkt 1 i 3–5, które wchodzą w życie z dniem 12 grudnia 2008 r.
+**Art. 9.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 5, 9, 12 i 15–18 oraz pkt 78 w zakresie dodawanych art. 11534, art. 11535, art. 11537 i art. 11538, a także art. 7 pkt 1 i 3–5, które wchodzą w życie z dniem 12 grudnia 2008 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 września 1986 r. – Prawo o aktach stanu cywilnego, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 23 listopada 2002 r. o Sądzie Najwyższym, ustawę z dnia 22 maja 2003 r. o działalności ubezpieczeniowej oraz ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699, z 2007 r. Nr 7, poz. 58, Nr 47, poz. 319, Nr 50, poz. 331, Nr 99, poz. 662, Nr 106, poz. 731, Nr 112, poz. 766 i 769, Nr 115, poz. 794, Nr 121, poz. 831, Nr 123, poz. 849, Nr 176, poz. 1243, Nr 181, poz. 1287, Nr 192, poz. 1378 i Nr 247, poz. 1845 oraz z 2008 r. Nr 59, poz. 367, Nr 96, poz. 609 i 619, Nr 110, poz. 706, Nr 116, poz. 731, Nr 119, poz. 772, Nr 120, poz. 779, Nr 122, poz. 796, Nr 171, poz. 1056, Nr 220, poz. 1431, Nr 228, poz. 1507 i Nr 231, poz. 1547. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 21, poz. 125 i Nr 181, poz. 1287 oraz z 2008 r. Nr 182, poz. 1121, Nr 195, poz. 1198 i Nr 220, poz. 1431. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903 oraz z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344 i Nr 225, poz. 1485. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698 oraz z 2008 r. Nr 223, poz. 1457 i Nr 228, poz. 1507. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959, z 2005 r. Nr 83, poz. 719, Nr 143, poz. 1204, Nr 167, poz. 1396, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 50, poz. 331, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 112, poz. 769 oraz z 2008 r. Nr 171, poz. 1056. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 126, poz. 876, 2007 r. Nr 21, poz. 123, Nr 82, poz. 560, Nr 123, poz. 849, Nr 125, poz. 873 i Nr 191, poz. 1371 oraz z 2008 r. Nr 228, poz. 1524.
 

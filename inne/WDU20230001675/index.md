@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 czerwca 2023 r. o zmianie ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta oraz niektórych innych ustaw
+# Ustawa z dnia 16 czerwca 2023 r. o zmianie ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia oraz ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-06-16 |
 | Data wydania | 2023-08-22 |
-| Wejście w życie | 2023-09-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001675) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1675/text.pdf) |
 
+Pełnomocnik do spraw praw pacjenta w podmiocie udzielającym świadczeń zdrowotnych
+Kompensacja szkód wynikających ze zdarzeń medycznych
+Świadczenie kompensacyjne
+Postępowanie w sprawie świadczenia kompensacyjnego
 1.
 Wniosek o przyznanie świadczenia kompensacyjnego, zwany dalej „wnioskiem”, składa się do Rzecznika.
 2.
@@ -150,8 +153,7 @@ regulamin Zespołu określający jego szczegółowy tryb pracy oraz organizację
 2)
 szczegółowe zadania sekretarza Zespołu,
 3)
-wysokość wynagrodzenia członków Zespołu
-mając na uwadze sprawność i terminowość działania Zespołu.
+wysokość wynagrodzenia członków Zespołu – mając na uwadze sprawność i terminowość działania Zespołu.
 1.
 Rzecznik ma dostęp do dokumentacji medycznej dotyczącej osoby, której dotyczy zdarzenie medyczne, niezbędnej do rozpatrzenia wniosku, w tym gromadzonej w systemie, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, oraz danych i informacji zawartych w rejestrach medycznych prowadzonych na podstawie tej ustawy, w zakresie niezbędnym do rozpatrzenia wniosku.
 2.
@@ -185,6 +187,7 @@ Złożenie oświadczenia o rezygnacji ze świadczenia kompensacyjnego lub niezł
 Rzecznik informuje podmiot wykonujący działalność leczniczą, z którego działalnością wiąże się wniosek, o wypłacie świadczenia kompensacyjnego.
 3.
 Podmiot wykonujący działalność leczniczą, który został poinformowany przez Rzecznika o wypłacie świadczenia kompensacyjnego, dokonuje analizy przyczyn źródłowych zdarzenia medycznego oraz formułuje i wdraża zalecenia podjęcia działań na rzecz poprawy jakości i bezpieczeństwa udzielanych świadczeń opieki zdrowotnej mających na celu zapobieżenie ponownemu wystąpieniu zdarzenia medycznego, chyba że w tym zakresie analiza ta została już przeprowadzona.
+Komisja Odwoławcza do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych
 1.
 Od decyzji Rzecznika, o której mowa w art. 67za ust. 1, wnioskodawcy przysługuje odwołanie do Komisji Odwoławczej do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych, zwanej dalej „Komisją”, działającej przy Rzeczniku.
 2.
@@ -261,6 +264,7 @@ Tryb pracy Komisji określa regulamin uchwalany przez Komisję.
 Członek Komisji podlega wyłączeniu na zasadach i w trybie określonych w art. 24 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Członek Komisji niezwłocznie informuje Rzecznika o zaistnieniu okoliczności stanowiących podstawę do wyłączenia.
 2.
 Członek Komisji jest obowiązany do zachowania w tajemnicy uzyskanych w toku postępowania informacji dotyczących wnioskodawcy, a także zmarłego pacjenta, w tym również po ustaniu członkostwa w Komisji.
+Fundusz Kompensacyjny Zdarzeń Medycznych
 1.
 Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Funduszem”, jest państwowym funduszem celowym tworzonym w celu wypłacania świadczeń kompensacyjnych w przypadku wystąpienia zdarzeń medycznych.
 2.
@@ -292,18 +296,16 @@ koszty związane z prowadzeniem postępowań oraz obsługi i funkcjonowania Zesp
 5.
 Roczny plan finansowy Funduszu, w terminie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej, opracowuje Rzecznik we współpracy z ministrem właściwym do spraw zdrowia, po zasięgnięciu opinii ministra właściwego do spraw finansów publicznych.
 6.
-Rzecznik sporządza sprawozdanie z wykonania rocznego planu finansowego Funduszu w terminie 2 miesięcy od dnia zakończenia okresu sprawozdawczego.
-” ;
+Rzecznik sporządza sprawozdanie z wykonania rocznego planu finansowego Funduszu w terminie 2 miesięcy od dnia zakończenia okresu sprawozdawczego. ” ;
 12)
-art. 69 otrzymuje brzmienie:
-„
+art. 69 otrzymuje brzmienie: „
 
 **Art. 1.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 pkt 6 otrzymuje brzmienie: „
 - **6)** zasady, wysokość oraz tryb przyznawania świadczenia kompensacyjnego w przypadku zdarzeń medycznych. ” ;
 - **2)** w art. 3 w ust. 1 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „
-- **11)** zdarzenie medyczne – zaistniałe w trakcie udzielania lub w efekcie udzielenia bądź zaniechania udzielenia świadczenia zdrowotnego: zakażenie pacjenta biologicznym czynnikiem chorobotwórczym, uszkodzenie ciała lub rozstrój zdrowia pacjenta, albo śmierć pacjenta którego z wysokim prawdopodobieństwem można było uniknąć w przypadku udzielenia świadczenia zdrowotnego zgodnie z aktualną wiedzą medyczną albo zastosowania innej dostępnej metody diagnostycznej lub leczniczej, chyba że doszło do dających się przewidzieć normalnych następstw zastosowania metody, na którą pacjent wyraził świadomą zgodę. ” ;
+- **11)** zdarzenie medyczne – zaistniałe w trakcie udzielania lub w efekcie udzielenia bądź zaniechania udzielenia świadczenia zdrowotnego: zakażenie pacjenta biologicznym czynnikiem chorobotwórczym, uszkodzenie ciała lub rozstrój zdrowia pacjenta, albo śmierć pacjenta – którego z wysokim prawdopodobieństwem można było uniknąć w przypadku udzielenia świadczenia zdrowotnego zgodnie z aktualną wiedzą medyczną albo zastosowania innej dostępnej metody diagnostycznej lub leczniczej, chyba że doszło do dających się przewidzieć normalnych następstw zastosowania metody, na którą pacjent wyraził świadomą zgodę. ” ;
     - **a)**
     - **b)**
     - **c)**
@@ -324,7 +326,7 @@ art. 69 otrzymuje brzmienie:
 
 - **7)** po rozdziale 11 dodaje się rozdział 11a w brzmieniu: „
 
-#### Rozdział 11a Pełnomocnik do spraw praw pacjenta w podmiocie udzielającym świadczeń zdrowotnych
+#### Rozdział 11a
 
 **Art. 40a.**
 
@@ -362,9 +364,9 @@ art. 69 otrzymuje brzmienie:
 - **10)** uchyla się rozdział 13a;
 - **11)** po rozdziale 13a dodaje się rozdział 13b w brzmieniu: „
 
-#### Rozdział 13b Kompensacja szkód wynikających ze zdarzeń medycznych
+#### Rozdział 13b
 
-##### Oddział 1 Świadczenie kompensacyjne
+##### Oddział 1
 
 **Art. 67q.** Przepisy niniejszego rozdziału stosuje się do zdarzeń medycznych zaistniałych w trakcie udzielania lub w efekcie udzielenia bądź zaniechania udzielenia świadczeń opieki zdrowotnej finansowanych ze środków publicznych na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych w szpitalu w rozumieniu art. 2 ust. 1 pkt 9 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej. 1. W przypadku zaistnienia zdarzenia medycznego, o którym mowa w art. 3 ust. 1 pkt 11 lit. a oraz b, pacjentowi przysługuje świadczenie kompensacyjne. 2. W przypadku zaistnienia zdarzenia medycznego, o którym mowa w art. 3 ust. 1 pkt 11 lit. c, świadczenie kompensacyjne przysługuje krewnemu pierwszego stopnia, niepozostającemu w separacji małżonkowi, osobie pozostającej w stosunku przysposobienia oraz osobie pozostającej z pacjentem we wspólnym pożyciu. 1. Wysokość świadczenia kompensacyjnego z tytułu jednego zdarzenia medycznego w odniesieniu do jednego wnioskodawcy wynosi w przypadku:
 
@@ -384,19 +386,19 @@ art. 69 otrzymuje brzmienie:
 
 5. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Rzecznika, określi, w drodze rozporządzenia, sposób ustalania wysokości świadczenia kompensacyjnego z tytułu zakażenia biologicznym czynnikiem chorobotwórczym, uszkodzenia ciała lub rozstroju zdrowia albo śmierci pacjenta, kierując się koniecznością przejrzystości w ustalaniu wysokości świadczenia kompensacyjnego oraz zapewnienia ochrony interesów wnioskodawców.
 
-##### Oddział 2 Postępowanie w sprawie świadczenia kompensacyjnego
+##### Oddział 2
 
-##### Oddział 3 Komisja Odwoławcza do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych
+##### Oddział 3
 
-##### Oddział 4 Fundusz Kompensacyjny Zdarzeń Medycznych
+##### Oddział 4
 
 **Art. 69.** W przypadku nieprzekazania na żądanie Rzecznika dokumentów oraz informacji, o których mowa w art. 61 lub art. 67z ust. 1 pkt 2, Rzecznik nakłada, w drodze decyzji, na podmiot, do którego skierowano żądanie, karę pieniężną do wysokości 50 000 złotych. ” .
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm.) w art. 21 w ust. 1 po pkt 4b dodaje się pkt 4c w brzmieniu: „
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658, 825, 1059, 1114, 1130, 1407, 1414, 1429, 1523, 1617 i 1667.) w art. 21 w ust. 1 po pkt 4b dodaje się pkt 4c w brzmieniu: „
 
 - **4c)** kwoty świadczeń kompensacyjnych wypłacanych na podstawie przepisów ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545 i 1675); ” .
 
-**Art. 3.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234 i 1429.) wprowadza się następujące zmiany:
 
 - **1)** w art. 47c w ust. 1 w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 w brzmieniu: „
 - **15)** osoby, które legitymują się zaświadczeniem, o którym mowa w art. 67zb ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, przez okres wskazany w tym zaświadczeniu, nie dłużej niż 5 lat od dnia wydania zaświadczenia. ” ;
@@ -423,8 +425,11 @@ art. 69 otrzymuje brzmienie:
 
 **Art. 5.** W ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991) wprowadza się następujące zmiany:
 
-- **1)** w art. 23a: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) ogólnodostępnych, jeżeli jest to niezbędne do zapewnienia bezpieczeństwa pacjentów lub pracowników, ” , – w pkt 2 na końcu dodaje się przecinek i dodaje się pkt 3 w brzmieniu: „ 3) w których są udzielane świadczenia zdrowotne, jeżeli jest to konieczne w procesie leczenia pacjentów lub do zapewnienia im bezpieczeństwa – w przypadku szpitali, zakładów opiekuńczo-leczniczych, zakładów pielęgnacyjno-opiekuńczych, zakładów rehabilitacji leczniczej i hospicjów ” , – część wspólna otrzymuje brzmienie: „ – za pomocą urządzeń umożliwiających rejestrację obrazu (monitoring), uwzględniając konieczność poszanowania intymności i godności pacjenta, w tym przekazywanie obrazu z monitoringu w sposób uniemożliwiający ukazywanie intymnych czynności fizjologicznych, potrzebę zastosowania monitoringu w danym pomieszczeniu oraz konieczność ochrony danych osobowych. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **1)** w art. 23a: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** ogólnodostępnych, jeżeli jest to niezbędne do zapewnienia bezpieczeństwa pacjentów lub pracowników, ” , w pkt 2 na końcu dodaje się przecinek i dodaje się pkt 3 w brzmieniu: „
+- **3)** w których są udzielane świadczenia zdrowotne, jeżeli jest to konieczne w procesie leczenia pacjentów lub do zapewnienia im bezpieczeństwa – w przypadku szpitali, zakładów opiekuńczo-leczniczych, zakładów pielęgnacyjno-opiekuńczych, zakładów rehabilitacji leczniczej i hospicjów ” , część wspólna otrzymuje brzmienie: „ – za pomocą urządzeń umożliwiających rejestrację obrazu (monitoring), uwzględniając konieczność poszanowania intymności i godności pacjenta, w tym przekazywanie obrazu z monitoringu w sposób uniemożliwiający ukazywanie intymnych czynności fizjologicznych, potrzebę zastosowania monitoringu w danym pomieszczeniu oraz konieczność ochrony danych osobowych. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Kierownik podmiotu wykonującego działalność leczniczą odpowiada za wykorzystywanie monitoringu zgodnie z przepisami prawa. ” , ust. 2 otrzymuje brzmienie: „
@@ -492,5 +497,5 @@ art. 69 otrzymuje brzmienie:
 
 3. Do postępowania w sprawie wniosku, o którym mowa w ust. 2, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 36 ust. 6 ustawy zmienianej w art. 5 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 36 ust. 6 ustawy zmienianej w art. 5, jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia oraz ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658, 825, 1059, 1114, 1130, 1407, 1414, 1429, 1523, 1617 i 1667. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234 i 1429.
 

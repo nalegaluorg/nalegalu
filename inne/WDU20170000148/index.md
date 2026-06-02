@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 17 stycznia 2017 r. w sprawie krajowej sieci obszarów wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 17 stycznia 2017 r. w sprawie krajowej sieci obszarów wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-01-17 |
 | Data wydania | 2017-01-24 |
-| Wejście w życie | 2017-01-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000148) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/148/text.pdf) |
 
@@ -31,7 +30,7 @@ Na podstawie art. 58 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszar
 § 1.
 Rozporządzenie określa:
 1)
-szczegółowy zakres zadań jednostki centralnej, jednostek regionalnych, Centrum Doradztwa Rolniczego z siedzibą w Brwinowie, zwanego dalej „CDR”, i wojewódzkich ośrodków doradztwa rolniczego, zwanych dalej „ODR”, w zakresie funkcjonowania krajowej sieci obszarów wiejskich, o której mowa w art. 54 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.) , zwanego dalej „rozporządzeniem nr 1305/2013”, oraz sposób wykonywania tych zadań;
+szczegółowy zakres zadań jednostki centralnej, jednostek regionalnych, Centrum Doradztwa Rolniczego z siedzibą w Brwinowie, zwanego dalej „CDR”, i wojewódzkich ośrodków doradztwa rolniczego, zwanych dalej „ODR”, w zakresie funkcjonowania krajowej sieci obszarów wiejskich, o której mowa w art. 54 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1 i Dz. Urz. UE L 28 z 04.02.2016, str. 8.) , zwanego dalej „rozporządzeniem nr 1305/2013”, oraz sposób wykonywania tych zadań;
 2)
 tryb opracowywania i zmiany:
 a)
@@ -129,8 +128,7 @@ partnerów KSOW,
 b)
 lokalnych grup działania, o których mowa w przepisach o rozwoju lokalnym z udziałem lokalnej społeczności,
 c)
-przykładów projektów realizujących priorytety Programu Rozwoju Obszarów Wiejskich na lata 2014–2020, zwanego dalej „Programem”
-i jej umieszczenie na portalu KSOW;
+przykładów projektów realizujących priorytety Programu Rozwoju Obszarów Wiejskich na lata 2014–2020, zwanego dalej „Programem” – i jej umieszczenie na portalu KSOW;
 4)
 przygotowywanie własnych operacji i ich realizowanie na poziomie krajowym w ramach dwuletnich planów operacyjnych;
 5)
@@ -465,6 +463,5 @@ Wterminie 6 miesięcy od dnia wejścia w życie rozporządzenia jednostka centra
 § 25.
 Ostatni dwuletni plan operacyjny jest realizowany do dnia 30 czerwca 2023 r.
 § 26.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1 i Dz. Urz. UE L 28 z 04.02.2016, str. 8. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2015 r. w sprawie funkcjonowania krajowej sieci obszarów wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1552), które utraciło moc z dniem 18 stycznia 2017 r. w związku z wejściem w życie ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 5).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2015 r. w sprawie funkcjonowania krajowej sieci obszarów wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1552), które utraciło moc z dniem 18 stycznia 2017 r. w związku z wejściem w życie ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 5). 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1 i Dz. Urz. UE L 28 z 04.02.2016, str. 8. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2015 r. w sprawie funkcjonowania krajowej sieci obszarów wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1552), które utraciło moc z dniem 18 stycznia 2017 r. w związku z wejściem w życie ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 5).
 

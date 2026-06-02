@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Zdrowiaz dnia 31 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie Krajowego Rejestru Nowotworów
+# Obwieszczenie Ministra Zdrowiaz dnia 31 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie Krajowego Rejestru Nowotworów Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -31,18 +31,15 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 14 czerwca 2018 r. w sprawie Krajowego Rejestru Nowotworów (Dz. U. poz. 1197), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 30 marca 2023 r. zmieniającym rozporządzenie w sprawie Krajowego Rejestru Nowotworów (Dz. U. poz. 661).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–4 rozporządzenia Ministra Zdrowia z dnia 30 marca 2023 r. zmieniającego rozporządzenie w sprawie Krajowego Rejestru Nowotworów (Dz. U. poz. 661), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–4 rozporządzenia Ministra Zdrowia z dnia 30 marca 2023 r. zmieniającego rozporządzenie w sprawie Krajowego Rejestru Nowotworów (Dz. U. poz. 661), które stanowią: „
 § 2.
 Podmioty, o których mowa w § 5a ust. 1 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mogą przekazywać dane i identyfikatory, o których mowa w § 5 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w postaci papierowej do dnia 30 września 2024 r.
 § 3.
 Podmiot prowadzący rejestr poinformuje podmioty, o których mowa w § 5a ust. 1 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, o terminie, w którym dane i identyfikatory, o których mowa w § 5 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, przekazuje się po raz pierwszy, jednak nie później niż w terminie do dnia 30 września 2023 r.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 14 czerwca 2018 r. w sprawie Krajowego Rejestru Nowotworów
-Na podstawie art. 20 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2023 r. poz. 2465) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 14 czerwca 2018 r. w sprawie Krajowego Rejestru NowotworówNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – zdrowie kieruje Minister Zdrowia, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Na podstawie art. 20 ust. 1Art. 20 ust. 1 zmieniony przez art. 57 pkt 3 ustawy z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta (Dz. U. poz. 1692), która weszła w życie z dniem 8 września 2023 r.; zgodnie z art. 65 tej ustawy dotychczasowe przepisy wykonawcze wydane na podstawie art. 20 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2023 r. poz. 2465) zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 20 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, w brzmieniu nadanym ustawą z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta, jednak nie dłużej niż do dnia 31 grudnia 2027 r. ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2023 r. poz. 2465) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -56,12 +53,12 @@ zakres i rodzaj danych przetwarzanych w rejestrze spośród danych określonych 
 5)
 rodzaje identyfikatorów przetwarzanych w rejestrze spośród identyfikatorów określonych w art. 17c ust. 2–5 ustawy.
 § 2.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Zdrowia z dnia 30 marca 2023 r. zmieniającego rozporządzenie w sprawie Krajowego Rejestru Nowotworów (Dz. U. poz. 661), które weszło w życie z dniem 21 kwietnia 2023 r..
 Podmiotem prowadzącym rejestr jest Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie – Państwowy Instytut Badawczy w Warszawie.
 2.
 Rejestr jest prowadzony za pośrednictwem wojewódzkich biur rejestracji nowotworów, uprawnionych do gromadzenia i przetwarzania danych, przekazywanych przez podmioty określone w art. 19 ust. 8 ustawy, o rozpoznaniach i podejrzeniach występowania nowotworów złośliwych na terenie województwa, w którym realizują swoje zadania, będących wyznaczonymi do tych zadań komórkami organizacyjnymi zakładów leczniczych w podmiotach leczniczych wyspecjalizowanych w zakresie onkologii, którymi są w województwie:
 1)
-dolnośląskim – Dolnośląskie Centrum Onkologii we Wrocławiu ;
+dolnośląskim – Dolnośląskie Centrum Onkologii we Wrocławiu Obecnie Dolnośląskie Centrum Onkologii, Pulmonologii i Hematologii.;
 2)
 kujawsko-pomorskim – Centrum Onkologii im. prof. Franciszka Łukaszczyka w Bydgoszczy;
 3)
@@ -70,24 +67,24 @@ lubelskim – Centrum Onkologii Ziemi Lubelskiej im. św. Jana z Dukli w Lublini
 lubuskim – Wielospecjalistyczny Szpital Wojewódzki w Gorzowie Wielkopolskim Sp. z o.o.;
 5)
 łódzkim – Wojewódzkie Wielospecjalistyczne Centrum Onkologii i Traumatologii im. M. Kopernika w Łodzi;
-6)
+6W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3.)
 małopolskim – Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie – Państwowy Instytut Badawczy Oddział w Krakowie;
-7)
+7W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3.)
 mazowieckim – Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie – Państwowy Instytut Badawczy w Warszawie;
 8)
 opolskim – Samodzielny Publiczny Zakład Opieki Zdrowotnej Opolskie Centrum Onkologii im. prof. Tadeusza Koszarowskiego w Opolu;
 9)
-podkarpackim – Kliniczny Szpital Wojewódzki Nr 1 im. Fryderyka Chopina w Rzeszowie  Podkarpackie Centrum Onkologii;
+podkarpackim – Kliniczny Szpital Wojewódzki Nr 1 im. Fryderyka Chopina w Rzeszowie Obecnie Uniwersytecki Szpital Kliniczny im. Fryderyka Chopina w Rzeszowie. Podkarpackie Centrum Onkologii;
 10)
 podlaskim – Białostockie Centrum Onkologii im. M. Skłodowskiej-Curie w Białymstoku;
 11)
 pomorskim – Copernicus Podmiot Leczniczy Sp. z o.o. w Gdańsku;
-12)
+12W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 3.)
 śląskim – Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie – Państwowy Instytut Badawczy Oddział w Gliwicach;
 13)
 świętokrzyskim – Świętokrzyskie Centrum Onkologii Samodzielny Publiczny Zakład Opieki Zdrowotnej w Kielcach;
 14)
-warmińsko-mazurskim – Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych i Administracji z Warmińsko-Mazurskim Centrum Onkologii w Olsztynie ;
+warmińsko-mazurskim – Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych i Administracji z Warmińsko-Mazurskim Centrum Onkologii w Olsztynie Obecnie Szpital Kliniczny Ministerstwa Spraw Wewnętrznych i Administracji z Warmińsko-Mazurskim Centrum Onkologii w Olsztynie.;
 15)
 wielkopolskim – Wielkopolskie Centrum Onkologii im. Marii Skłodowskiej-Curie w Poznaniu;
 16)
@@ -95,10 +92,10 @@ zachodniopomorskim – Zachodniopomorskie Centrum Onkologii w Szczecinie.
 3.
 Rejestr jest prowadzony z wykorzystaniem systemu teleinformatycznego.
 § 3.
-(uchylony).
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.
 § 4.
-(uchylony).
-§ 5.
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.
+§ 5W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3..
 W rejestrze przetwarza się dane i identyfikatory, które obejmują:
 1)
 dane osobowe dotyczące usługobiorcy:
@@ -111,7 +108,7 @@ obywatelstwo,
 d)
 wykształcenie,
 e)
-numer PESEL, a w przypadku osób, które nie mają nadanego numeru PESEL – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm.),
+numer PESEL, a w przypadku osób, które nie mają nadanego numeru PESEL – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 28 z 04.02.2016, str. 18.,
 f)
 status cudzoziemca, o którym mowa w art. 8 pkt 24a ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2022 r. poz. 1191 oraz z 2023 r. poz. 497, 1394 i 1941),
 g)
@@ -217,7 +214,7 @@ a)
 wprowadził dane do rejestru,
 b)
 wykonał dane świadczenie opieki zdrowotnej.
-§ 5a.
+§ 5aDodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3..
 1.
 Dane i identyfikatory, o których mowa w § 5, są przekazywane do rejestru za pośrednictwem systemu teleinformatycznego przez:
 1)
@@ -238,7 +235,7 @@ pkt 1 lit. f oraz pkt 2 lit. e tiret ósme – fakultatywnie.
 Podmioty, o których mowa w ust. 1 pkt 2, przekazują dane i identyfikatory, o których mowa w § 5 pkt 1 lit. a, b, e, g oraz h oraz pkt 2 lit. a tiret czwarte, piąte i ósme i lit. e tiret drugie i czwarte-ósme – co najmniej raz w tygodniu.
 5.
 Podmioty, o których mowa w ust. 1 pkt 3, przekazują dane i identyfikatory, o których mowa w § 5 pkt 1 lit. a-e oraz g-i, pkt 2 lit. a tiret pierwsze-ósme, lit. b-e, lit. f tiret pierwsze, drugie i czwarte-dziewiąte, lit. g tiret pierwsze, trzecie i czwarte i lit. h oraz pkt 3–5 – co najmniej raz w miesiącu.
-§ 5b.
+§ 5bDodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3..
 1.
 W przypadku nowotworów o kodach ICD-10: C81-C96 oraz nowotworów o niepewnym lub nieznanym charakterze o kodach ICD-10: D45-D47 podmioty, o których mowa w § 5a ust. 1 pkt 1, przekazują:
 1)
@@ -268,6 +265,5 @@ pkt 1 lit. f oraz pkt 2 lit. a tiret dziewiąte, lit. d. tiret trzecie-piąte i 
 § 6.
 Dane przekazane do Centrum Onkologii – Instytutu im. Marii Skłodowskiej-Curie w Warszawie w okresie od dnia 1 stycznia 2018 r. do dnia wejścia w życie niniejszego rozporządzenia zgodnie z wymaganiami określonymi w rozporządzeniu Ministra Zdrowia z dnia 24 sierpnia 2016 r. w sprawie Krajowego Rejestru Nowotworów (Dz. U. poz. 1362) uważa się za przekazane w sposób zgodny z wymaganiami niniejszego rozporządzenia.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – zdrowie kieruje Minister Zdrowia, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704). 2) Art. 20 ust. 1 zmieniony przez art. 57 pkt 3 ustawy z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta (Dz. U. poz. 1692), która weszła w życie z dniem 8 września 2023 r.; zgodnie z art. 65 tej ustawy dotychczasowe przepisy wykonawcze wydane na podstawie art. 20 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2023 r. poz. 2465) zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 20 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, w brzmieniu nadanym ustawą z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta, jednak nie dłużej niż do dnia 31 grudnia 2027 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Zdrowia z dnia 30 marca 2023 r. zmieniającego rozporządzenie w sprawie Krajowego Rejestru Nowotworów (Dz. U. poz. 661), które weszło w życie z dniem 21 kwietnia 2023 r. 4) Obecnie Dolnośląskie Centrum Onkologii, Pulmonologii i Hematologii. 5) W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 6) Obecnie Uniwersytecki Szpital Kliniczny im. Fryderyka Chopina w Rzeszowie. 7) W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 8) Obecnie Szpital Kliniczny Ministerstwa Spraw Wewnętrznych i Administracji z Warmińsko-Mazurskim Centrum Onkologii w Olsztynie. 9) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 10) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 11) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 28 z 04.02.2016, str. 18. 12) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 13) Rozporządzenie zostało ogłoszone w dniu 21 czerwca 2018 r. 14) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 24 sierpnia 2016 r. w sprawie Krajowego Rejestru Nowotworów (Dz. U. poz. 1362), które utraciło moc z dniem 1 stycznia 2018 r. zgodnie z art. 7 ustawy z dnia 20 lipca 2017 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw (Dz. U. poz. 1524).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 21 czerwca 2018 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 24 sierpnia 2016 r. w sprawie Krajowego Rejestru Nowotworów (Dz. U. poz. 1362), które utraciło moc z dniem 1 stycznia 2018 r. zgodnie z art. 7 ustawy z dnia 20 lipca 2017 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw (Dz. U. poz. 1524). 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – zdrowie kieruje Minister Zdrowia, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704). 2) Art. 20 ust. 1 zmieniony przez art. 57 pkt 3 ustawy z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta (Dz. U. poz. 1692), która weszła w życie z dniem 8 września 2023 r.; zgodnie z art. 65 tej ustawy dotychczasowe przepisy wykonawcze wydane na podstawie art. 20 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2023 r. poz. 2465) zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 20 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, w brzmieniu nadanym ustawą z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta, jednak nie dłużej niż do dnia 31 grudnia 2027 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Zdrowia z dnia 30 marca 2023 r. zmieniającego rozporządzenie w sprawie Krajowego Rejestru Nowotworów (Dz. U. poz. 661), które weszło w życie z dniem 21 kwietnia 2023 r. 4) Obecnie Dolnośląskie Centrum Onkologii, Pulmonologii i Hematologii. 5) W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 6) Obecnie Uniwersytecki Szpital Kliniczny im. Fryderyka Chopina w Rzeszowie. 7) W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 8) Obecnie Szpital Kliniczny Ministerstwa Spraw Wewnętrznych i Administracji z Warmińsko-Mazurskim Centrum Onkologii w Olsztynie. 9) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 10) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 11) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 28 z 04.02.2016, str. 18. 12) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 13) Rozporządzenie zostało ogłoszone w dniu 21 czerwca 2018 r. 14) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 24 sierpnia 2016 r. w sprawie Krajowego Rejestru Nowotworów (Dz. U. poz. 1362), które utraciło moc z dniem 1 stycznia 2018 r. zgodnie z art. 7 ustawy z dnia 20 lipca 2017 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw (Dz. U. poz. 1524).
 

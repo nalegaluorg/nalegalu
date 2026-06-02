@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 30 września 2015 r. w sprawie wymagań weterynaryjnych przy produkcji produktów pochodzenia zwierzęcego przeznaczonych do sprzedaży bezpośredniej
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 30 września 2015 r. w sprawie wymagań weterynaryjnych przy produkcji produktów pochodzenia zwierzęcego przeznaczonych do sprzedaży bezpośredniej Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 26 lutego 2015 r. pod numerem 2015/0082/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w zakresie norm i przepisów technicznych (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-30 |
 | Data wydania | 2015-10-26 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001703) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1703/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Wielkość, zakres i obszar produkcji produktów pochodzenia zwierzęcego przeznaczonych do sprzedaży bezpośredniej Rozdział 3 – Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji tusz lub podrobów pozyskanych z drobiu i zajęczaków przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów Rozdział 4 – Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji tusz lub podrobów pozyskanych ze zwierząt łownych przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów Rozdział 5 – Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji produktów rybołówstwa przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów Rozdział 6 – Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji żywych ślimaków lądowych przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów Rozdział 7 – Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji mleka surowego, siary i surowej śmietany przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów Rozdział 8 – Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji jaj przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów Rozdział 9 – Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji produktów pszczelich nieprzetworzonych przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów Rozdział 10 – Przepisy końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 12 ust. 2 ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2014 r. poz. 1577) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -39,6 +39,7 @@ wielkość, zakres i obszar produkcji produktów, o których mowa w pkt 1;
 wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej.
 § 2.
 Do sprzedaży bezpośredniej dopuszcza się wyłącznie produkty wyprodukowane z własnych surowców przez podmiot prowadzący działalność w zakresie produkcji produktów pochodzenia zwierzęcego przeznaczonych do sprzedaży bezpośredniej.
+Wielkość, zakres i obszar produkcji produktów pochodzenia zwierzęcego przeznaczonych do sprzedaży bezpośredniej
 § 3.
 Do sprzedaży bezpośredniej dopuszcza się:
 1)
@@ -46,8 +47,7 @@ tusze lub podroby, pozyskane z drobiu poddanego ubojowi w gospodarstwie rolnym p
 a)
 2500 sztuk indyków lub
 b)
-10 000 sztuk innych gatunków drobiu
-przeprowadzonemu zgodnie z przepisami o ochronie zwierząt oraz przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt;
+10 000 sztuk innych gatunków drobiu – przeprowadzonemu zgodnie z przepisami o ochronie zwierząt oraz przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt;
 2)
 tusze lub podroby, pozyskane z zajęczaków poddanych ubojowi w gospodarstwie rolnym podmiotu, w przypadku gdy roczna produkcja w tym gospodarstwie nie przekracza 5000 sztuk, a ubój został przeprowadzony zgodnie z przepisami o ochronie zwierząt oraz przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt;
 3)
@@ -55,8 +55,7 @@ tusze lub podroby, pozyskane przez koło łowieckie Polskiego Związku Łowiecki
 a)
 grubej zwierzyny łownej skórowanej albo nieoskórowanej lub
 b)
-drobnej zwierzyny łownej patroszonej albo niewypatroszonej lub opierzonej albo nieopierzonej, lub oskórowanej albo nieoskórowanej
-po odstrzale wykonanym zgodnie z przepisami prawa łowieckiego;
+drobnej zwierzyny łownej patroszonej albo niewypatroszonej lub opierzonej albo nieopierzonej, lub oskórowanej albo nieoskórowanej – po odstrzale wykonanym zgodnie z przepisami prawa łowieckiego;
 4)
 produkty rybołówstwa, pozyskane przez uprawnionego do rybactwa w rozumieniu przepisów o rybactwie śródlądowym lub przez wykonującego rybołówstwo morskie w rozumieniu przepisów o rybołówstwie morskim:
 a)
@@ -66,7 +65,7 @@ uśmiercone i:
 – niepoddane czynnościom naruszającym ich pierwotną budowę anatomiczną,
 – poddane czynnościom wykrwawiania, odgławiania, usuwania płetw lub patroszenia;
 5)
-żywe ślimaki lądowe z gatunków Helix pomatia, Cornu aspersum aspersum, Cornu aspersum maxima, Helix lucorum oraz z gatunków z rodziny Achatinidae ;
+żywe ślimaki lądowe z gatunków Helix pomatiaDawniej Helix pomatia Linné., Cornu aspersum aspersumDawniej Helix aspersa Müller., Cornu aspersum maximaDawniej Helix aspersum maxima lub Helix aspersa aspersa., Helix lucorum oraz z gatunków z rodziny Achatinidae ;
 6)
 mleko surowe, siarę, surową śmietanę, pozyskane w gospodarstwie produkcji mleka;
 7)
@@ -198,6 +197,7 @@ Powiatowy lekarz weterynarii właściwy ze względu na miejsce prowadzenia przez
 10 400 litrów – w przypadku surowej śmietany;
 6)
 127 400 sztuk – w przypadku jaj pozyskanych od drobiu.
+Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji tusz lub podrobów pozyskanych z drobiu i zajęczaków przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
 § 7.
 1.
 Pomieszczenia, w których produkuje się tusze lub podroby pozyskane z drobiu i zajęczaków lub w których prowadzi się sprzedaż bezpośrednią tych produktów, z wyjątkiem sprzedaży bezpośredniej, o której mowa w § 4 pkt 1 lit. a tiret trzecie:
@@ -290,8 +290,7 @@ Temperatura, o której mowa w ust. 1, może być wyższa o 2°C podczas transpor
 1)
 miejsc, w których prowadzi się sprzedaż bezpośrednią konsumentom końcowym, lub
 2)
-zakładu prowadzącego handel detaliczny bezpośrednio zaopatrującego konsumenta końcowego
-jeżeli ten transport trwa nie dłużej niż 2 godziny, a po jego zakończeniu produkty pochodzenia zwierzęcego zostaną schłodzone do temperatury określonej w ust. 1.
+zakładu prowadzącego handel detaliczny bezpośrednio zaopatrującego konsumenta końcowego – jeżeli ten transport trwa nie dłużej niż 2 godziny, a po jego zakończeniu produkty pochodzenia zwierzęcego zostaną schłodzone do temperatury określonej w ust. 1.
 § 16.
 1.
 Tusze pozyskane z nutrii przeznaczone do sprzedaży bezpośredniej poddaje się badaniu na włośnie przeprowadzanemu w sposób określony w załączniku I i III do rozporządzenia wykonawczego Komisji (UE) 2015/1375 z dnia 10 sierpnia 2015 r. ustanawiającego szczególne przepisy dotyczące urzędowych kontroli w odniesieniu do włośni ( Trichinella ) w mięsie (Dz. Urz. UE L 212 z 11.08.2015, str. 7).
@@ -317,14 +316,14 @@ ilości sprzedanych w danym tygodniu produktów;
 wynikach czynności sprawdzających, o których mowa w § 18, oraz przeprowadzonych badaniach, o których mowa w § 16.
 2.
 Dokumentację, o której mowa w ust. 1, przechowuje się przez rok następujący po roku, w którym została sporządzona, i udostępnia się na żądanie właściwego powiatowego lekarza weterynarii.
+Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji tusz lub podrobów pozyskanych ze zwierząt łownych przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
 § 20.
 1.
 Odstrzelone zwierzęta łowne, z których pozyskuje się tusze lub podroby przeznaczone do sprzedaży bezpośredniej, poddaje się:
 1)
 oględzinom przez osobę przeszkoloną zgodnie z przepisami rozporządzenia (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającego szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego (Dz. Urz. UE L 139 z 30.04.2004, str. 55, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14), zwanego dalej „rozporządzeniem nr 853/2004”,
 2)
-wytrzewieniu na łowisku – w przypadku grubej zwierzyny łownej
-w sposób określony w załączniku III do rozporządzenia nr 853/2004 w sekcji IV odpowiednio w rozdziale II i III.
+wytrzewieniu na łowisku – w przypadku grubej zwierzyny łownej – w sposób określony w załączniku III do rozporządzenia nr 853/2004 w sekcji IV odpowiednio w rozdziale II i III.
 2.
 Tusze lub podroby pozyskane ze zwierząt łownych mogą być przeznaczone do sprzedaży bezpośredniej, jeżeli w wyniku oględzin, o których mowa w ust. 1 pkt 1, nie stwierdzono występowania nietypowych cech, które mogłyby mieć wpływ na zdrowie konsumenta końcowego, a zwierzęta łowne zostały odstrzelone w miejscu, co do którego nie ma podejrzeń o skażenie środowiska, oraz bezpośrednio przed odstrzałem nie wykazywały nietypowego zachowania.
 § 21.
@@ -348,8 +347,7 @@ Temperatury, o których mowa w ust. 1, mogą być wyższe o 2°C podczas transpo
 1)
 miejsc, w których prowadzi się sprzedaż bezpośrednią konsumentom końcowym, lub
 2)
-zakładu prowadzącego handel detaliczny bezpośrednio zaopatrującego konsumenta końcowego
-jeżeli ten transport trwa nie dłużej niż 2 godziny, a po jego zakończeniu produkty zostaną schłodzone do temperatury określonej w ust. 1.
+zakładu prowadzącego handel detaliczny bezpośrednio zaopatrującego konsumenta końcowego – jeżeli ten transport trwa nie dłużej niż 2 godziny, a po jego zakończeniu produkty zostaną schłodzone do temperatury określonej w ust. 1.
 § 23.
 Do produkcji i sprzedaży bezpośredniej tusz lub podrobów pozyskanych ze zwierząt łownych stosuje się odpowiednio wymagania weterynaryjne, o których mowa w § 7–14, § 17 i § 18.
 § 24.
@@ -361,6 +359,7 @@ ilości sprzedanych w danym miesiącu produktów;
 wynikach czynności sprawdzających, o których mowa w § 18, oraz przeprowadzonych badaniach, o których mowa w § 21.
 2.
 Dokumentację, o której mowa w ust. 1, przechowuje się przez rok następujący po roku, w którym została sporządzona, i udostępnia się na żądanie właściwego powiatowego lekarza weterynarii.
+Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji produktów rybołówstwa przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
 § 25.
 1.
 Do produkcji i sprzedaży bezpośredniej produktów rybołówstwa stosuje się odpowiednio wymagania weterynaryjne, o których mowa w § 7 ust. 2 pkt 5, § 8–10, § 12–14 i § 17.
@@ -391,8 +390,7 @@ Temperatura, o której mowa w ust. 1, może być wyższa o 2°C podczas transpor
 1)
 miejsc, w których prowadzi się sprzedaż bezpośrednią konsumentom końcowym, lub
 2)
-zakładu prowadzącego handel detaliczny bezpośrednio zaopatrującego konsumenta końcowego
-jeżeli ten transport trwa nie dłużej niż 2 godziny, a po jego zakończeniu produkty zostaną schłodzone do temperatury określonej w ust. 1.
+zakładu prowadzącego handel detaliczny bezpośrednio zaopatrującego konsumenta końcowego – jeżeli ten transport trwa nie dłużej niż 2 godziny, a po jego zakończeniu produkty zostaną schłodzone do temperatury określonej w ust. 1.
 § 28.
 Podmiot prowadzący działalność w zakresie produkcji produktów rybołówstwa przeznaczonych do sprzedaży bezpośredniej sprawdza:
 1)
@@ -408,6 +406,7 @@ ilości sprzedanych w danym miesiącu produktów;
 wynikach czynności sprawdzających, o których mowa w § 28.
 2.
 Dokumentację, o której mowa w ust. 1, przechowuje się przez rok następujący po roku, w którym została sporządzona, i udostępnia się na żądanie właściwego powiatowego lekarza weterynarii.
+Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji żywych ślimaków lądowych przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
 § 30.
 Do produkcji i sprzedaży bezpośredniej żywych ślimaków lądowych stosuje się odpowiednio wymagania weterynaryjne, o których mowa w § 7 ust. 2 pkt 5, § 8–10, § 11 ust. 1, § 12–14, § 17 i § 18.
 § 31.
@@ -419,6 +418,7 @@ ilości sprzedanych w danym miesiącu produktów;
 wynikach czynności sprawdzających, o których mowa w § 18.
 2.
 Dokumentację, o której mowa w ust. 1, przechowuje się przez rok następujący po roku, w którym została sporządzona, i udostępnia się na żądanie właściwego powiatowego lekarza weterynarii.
+Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji mleka surowego, siary i surowej śmietany przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
 § 32.
 1.
 Mleko surowe i siarę przeznaczone do sprzedaży bezpośredniej pozyskuje się w sposób higieniczny, zgodnie z wymaganiami określonymi w załączniku III do rozporządzenia nr 853/2004 w sekcji IX w rozdziale I w podrozdziale I i II.
@@ -450,8 +450,7 @@ Temperatura, o której mowa w ust. 1, może być wyższa o 2°C podczas transpor
 1)
 miejsc, w których prowadzi się sprzedaż bezpośrednią konsumentom końcowym, lub
 2)
-zakładu prowadzącego handel detaliczny bezpośrednio zaopatrującego konsumenta końcowego
-jeżeli ten transport trwa nie dłużej niż 2 godziny, a po jego zakończeniu produkty zostaną schłodzone do temperatury określonej w ust. 1.
+zakładu prowadzącego handel detaliczny bezpośrednio zaopatrującego konsumenta końcowego – jeżeli ten transport trwa nie dłużej niż 2 godziny, a po jego zakończeniu produkty zostaną schłodzone do temperatury określonej w ust. 1.
 4.
 Temperatura mleka surowego lub siary przeznaczonych do sprzedaży bezpośredniej w gospodarstwie produkcji mleka przed upływem 2 godzin od udoju może być wyższa niż temperatura określona w ust. 1.
 § 35.
@@ -468,6 +467,7 @@ ilości sprzedanych w danym tygodniu produktów;
 wynikach czynności sprawdzających, o których mowa w § 18, oraz przeprowadzonych badaniach, o których mowa w § 32 ust. 2.
 2.
 Dokumentację, o której mowa w ust. 1, przechowuje się przez rok następujący po roku, w którym została sporządzona, i udostępnia się na żądanie właściwego powiatowego lekarza weterynarii.
+Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji jaj przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
 § 37.
 Jaja przeznaczone do sprzedaży bezpośredniej:
 1)
@@ -492,6 +492,7 @@ miesiącu – w przypadku jaj pozyskanych od ptaków bezgrzebieniowych;
 wynikach czynności sprawdzających, o których mowa w § 18.
 2.
 Dokumentację, o której mowa w ust. 1, przechowuje się przez rok następujący po roku, w którym została sporządzona, i udostępnia się na żądanie właściwego powiatowego lekarza weterynarii.
+Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji produktów pszczelich nieprzetworzonych przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
 § 40.
 1.
 Do produkcji i sprzedaży bezpośredniej produktów pszczelich nieprzetworzonych, z wyjątkiem sprzedaży bezpośredniej z urządzeń dystrybucyjnych do sprzedaży żywności, stosuje się odpowiednio wymagania weterynaryjne, o których mowa w § 7 ust. 2 pkt 5, § 8–10, § 11 ust. 1, § 12–14, § 17 i § 18.
@@ -506,28 +507,49 @@ ilości sprzedanych w danym miesiącu produktów;
 wynikach czynności sprawdzających, o których mowa w § 18.
 2.
 Dokumentację, o której mowa w ust. 1, przechowuje się przez rok następujący po roku, w którym została sporządzona, i udostępnia się na żądanie właściwego powiatowego lekarza weterynarii.
+Przepisy końcowe
 § 42.
 Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 grudnia 2006 r. w sprawie wymagań weterynaryjnych przy produkcji produktów pochodzenia zwierzęcego przeznaczonych do sprzedaży bezpośredniej (Dz. U. z 2007 r. Nr 5, poz. 38).
 § 43.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r. 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 26 lutego 2015 r. pod numerem 2015/0082/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w zakresie norm i przepisów technicznych (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). 3) Dawniej Helix pomatia Linné. 4) Dawniej Helix aspersa Müller. 5) Dawniej Helix aspersum maxima lub Helix aspersa aspersa.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Wielkość, zakres i obszar produkcji produktów pochodzenia zwierzęcego przeznaczonych do sprzedaży bezpośredniej
+#### Rozdział 2 – Wielkość, zakres i obszar produkcji produktów pochodzenia zwierzęcego przeznaczonych do sprzedaży bezpośredniej
 
-#### Rozdział 3 Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji tusz lub podrobów pozyskanych z drobiu i zajęczaków przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
+#### Rozdział 3 – Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji tusz lub podrobów pozyskanych z drobiu i zajęczaków przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
 
-#### Rozdział 4 Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji tusz lub podrobów pozyskanych ze zwierząt łownych przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
+#### Rozdział 4 – Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji tusz lub podrobów pozyskanych ze zwierząt łownych przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
 
-#### Rozdział 5 Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji produktów rybołówstwa przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
+#### Rozdział 5 – Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji produktów rybołówstwa przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
 
-#### Rozdział 6 Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji żywych ślimaków lądowych przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
+#### Rozdział 6 – Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji żywych ślimaków lądowych przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
 
-#### Rozdział 7 Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji mleka surowego, siary i surowej śmietany przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
+#### Rozdział 7 – Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji mleka surowego, siary i surowej śmietany przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
 
-#### Rozdział 8 Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji jaj przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
+#### Rozdział 8 – Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji jaj przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
 
-#### Rozdział 9 Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji produktów pszczelich nieprzetworzonych przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
+#### Rozdział 9 – Wymagania weterynaryjne, jakie powinny być spełnione przy produkcji produktów pszczelich nieprzetworzonych przeznaczonych do sprzedaży bezpośredniej, oraz wymagania weterynaryjne dla miejsc prowadzenia sprzedaży bezpośredniej tych produktów
 
-#### Rozdział 10 Przepisy końcowe
+#### Rozdział 10 – Przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
 

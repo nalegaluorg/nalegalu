@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1995-07-21 |
 | Data wydania | 1995-09-11 |
-| Wejście w życie | 1995-10-10 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951040515) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/515/text.pdf) |
+
+Bandera i znaki rozpoznawcze
 
 **Art. 1.** W ustawie z dnia 6 kwietnia 1990 r. o urzędzie Ministra Spraw Wewnętrznych (Dz. U. Nr 30, poz. 181) wprowadza się następujące zmiany:
 
@@ -51,9 +52,11 @@ source: "eli-html"
 
 - **b)**
 
-1a. Nazwa „Policja” przysługuje wyłącznie formacji, o której mowa w ust. 1. ” , w ust. 2: – w pkt 1 wyraz „obywateli” zastępuje się wyrazem „ludzi”, – pkt 2 otrzymuje brzmienie: „ 2) ochrona bezpieczeństwa i porządku publicznego, w tym zapewnienie spokoju w miejscach publicznych oraz w środkach publicznego transportu i komunikacji, w ruchu drogowym i na wodach przeznaczonych do powszechnego korzystania, ” – w pkt 3 skreśla się wyrazy „zainteresowanymi”, – pkt 5 otrzymuje brzmienie: „ 5) nadzór nad strażami gminnymi (miejskimi) tworzonymi na podstawie ustawy oraz nad specjalistycznymi uzbrojonymi formacjami ochronnymi w zakresie określonym w odrębnych przepisach, ” ;
+1a. Nazwa „Policja” przysługuje wyłącznie formacji, o której mowa w ust. 1. ” , w ust. 2: – w pkt 1 wyraz „obywateli” zastępuje się wyrazem „ludzi”, pkt 2 otrzymuje brzmienie: „
 
 - **c)**
+- **2)** ochrona bezpieczeństwa i porządku publicznego, w tym zapewnienie spokoju w miejscach publicznych oraz w środkach publicznego transportu i komunikacji, w ruchu drogowym i na wodach przeznaczonych do powszechnego korzystania, ” – w pkt 3 skreśla się wyrazy „zainteresowanymi”, pkt 5 otrzymuje brzmienie: „
+- **5)** nadzór nad strażami gminnymi (miejskimi) tworzonymi na podstawie ustawy oraz nad specjalistycznymi uzbrojonymi formacjami ochronnymi w zakresie określonym w odrębnych przepisach, ” ;
 - **2)** w art. 3 wyrazy „Organy terenowej administracji państwowej” zastępuje się wyrazami „Terenowe organy rządowej administracji ogólnej”;
 - **3)** art. 4 otrzymuje brzmienie: „
 
@@ -169,8 +172,12 @@ source: "eli-html"
 
 5. Minister Spraw Wewnętrznych określi zakres, warunki i tryb przekazywania Policji informacji o osobie, uzyskanych przez Urząd Ochrony Państwa i Straż Graniczną w czasie wykonywania czynności operacyjno-rozpoznawczych. ” ;
 
-- **13)** w art. 15: w ust. 1: – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) zatrzymywania osób pozbawionych wolności, które na podstawie zezwolenia właściwego organu opuściły areszt śledczy albo zakład karny i w wyznaczonym terminie nie powróciły do niego, ” – pkt 6 otrzymuje brzmienie: „ 6) żądania niezbędnej pomocy od instytucji państwowych, organów administracji rządowej i samorządu terytorialnego oraz jednostek gospodarczych prowadzących działalność w zakresie użyteczności publicznej; wymienione instytucje, organy i jednostki obowiązane są, w zakresie swojego działania, do udzielenia tej pomocy, w zakresie obowiązujących przepisów prawa, ” – dodaje się pkt 7 w brzmieniu: „ 7) zwracania się o niezbędną pomoc do innych jednostek gospodarczych i organizacji społecznych, jak również zwracania się w nagłych wypadkach do każdej osoby o udzielenie doraźnej pomocy, w ramach obowiązujących przepisów prawa. ” , w ust. 8 wyrazy „ust. 1 pkt 1, 3, 5 i 6” zastępuje się wyrazami „ust. 1 pkt 1, 2a, 3 i 5–7”, dodaje się ust. 9 i 10 w brzmieniu: „
+- **13)** w art. 15: w ust. 1: po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **a)**
+
+- **2a)** zatrzymywania osób pozbawionych wolności, które na podstawie zezwolenia właściwego organu opuściły areszt śledczy albo zakład karny i w wyznaczonym terminie nie powróciły do niego, ” pkt 6 otrzymuje brzmienie: „
+- **6)** żądania niezbędnej pomocy od instytucji państwowych, organów administracji rządowej i samorządu terytorialnego oraz jednostek gospodarczych prowadzących działalność w zakresie użyteczności publicznej; wymienione instytucje, organy i jednostki obowiązane są, w zakresie swojego działania, do udzielenia tej pomocy, w zakresie obowiązujących przepisów prawa, ” dodaje się pkt 7 w brzmieniu: „
+- **7)** zwracania się o niezbędną pomoc do innych jednostek gospodarczych i organizacji społecznych, jak również zwracania się w nagłych wypadkach do każdej osoby o udzielenie doraźnej pomocy, w ramach obowiązujących przepisów prawa. ” , w ust. 8 wyrazy „ust. 1 pkt 1, 3, 5 i 6” zastępuje się wyrazami „ust. 1 pkt 1, 2a, 3 i 5–7”, dodaje się ust. 9 i 10 w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -218,7 +225,7 @@ source: "eli-html"
 - **7)** przyjmowania lub wręczania korzyści majątkowej w wielkich rozmiarach w związku z pełnioną funkcją publiczną lub związaną ze szczególną odpowiedzialnością,
 - **8)** podrabiania, przerabiania pieniędzy i papierów wartościowych oraz puszczania ich w obieg,
 - **9)** określonych w art. 276 Kodeksu karnego,
-- **10)** ściganych na mocy umów i porozumień międzynarodowych Minister Spraw Wewnętrznych, po uzyskaniu pisemnej zgody Prokuratora Generalnego, może zarządzić, na czas określony, kontrolę korespondencji, a także stosowanie środków technicznych umożliwiających uzyskiwanie w sposób tajny informacji oraz utrwalanie dowodów. Minister Spraw Wewnętrznych bieżąco informuje Prokuratora Generalnego o przeprowadzanych czynnościach oraz o ich wyniku.
+- **10)** ściganych na mocy umów i porozumień międzynarodowych – Minister Spraw Wewnętrznych, po uzyskaniu pisemnej zgody Prokuratora Generalnego, może zarządzić, na czas określony, kontrolę korespondencji, a także stosowanie środków technicznych umożliwiających uzyskiwanie w sposób tajny informacji oraz utrwalanie dowodów. Minister Spraw Wewnętrznych bieżąco informuje Prokuratora Generalnego o przeprowadzanych czynnościach oraz o ich wyniku.
 
 2. W przypadkach nie cierpiących zwłoki, gdy mogłoby to spowodować utratę informacji lub zatarcie dowodów przestępstwa, Minister Spraw Wewnętrznych może, na czas określony, zarządzić kontrolę korespondencji lub stosowanie środków technicznych, o których mowa w ust. 1, jednocześnie zwracając się do Prokuratora Generalnego o wyrażenie na to zgody.
 
@@ -242,7 +249,7 @@ source: "eli-html"
 - **4)** gospodarcze, powodujące znaczną szkodę majątkową, przeciwko mieniu znacznej wartości lub skarbowe, polegające na uszczupleniu podatku lub innej należności Skarbu Państwa w znacznej wartości,
 - **5)** przyjmowania lub wręczania korzyści majątkowej w wielkich rozmiarach w związku z pełnioną funkcją publiczną lub związaną ze szczególną odpowiedzialnością,
 - **6)** podrabiania, przerabiania pieniędzy i papierów wartościowych oraz puszczania ich w obieg,
-- **7)** określone w art. 276 Kodeksu karnego czynności operacyjno-rozpoznawcze zmierzające do sprawdzenia uzyskanych wcześniej, wiarygodnych informacji o przestępstwie oraz wykrycia sprawców i uzyskania dowodów mogą polegać na dokonaniu w sposób niejawny nabycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi, albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, a także przyjęciu lub wręczeniu korzyści majątkowej.
+- **7)** określone w art. 276 Kodeksu karnego – czynności operacyjno-rozpoznawcze zmierzające do sprawdzenia uzyskanych wcześniej, wiarygodnych informacji o przestępstwie oraz wykrycia sprawców i uzyskania dowodów mogą polegać na dokonaniu w sposób niejawny nabycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi, albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, a także przyjęciu lub wręczeniu korzyści majątkowej.
 
 2. Minister Spraw Wewnętrznych bieżąco informuje Prokuratora Generalnego o przeprowadzanych czynnościach oraz o ich wyniku.
 
@@ -300,7 +307,7 @@ source: "eli-html"
 - **c)**
 - **23)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Bandera i znaki rozpoznawcze
+#### Rozdział 3a
 
 **Art. 22a.** Jednostki pływające Policji podnoszą jako banderę flagę państwową z godłem Rzeczypospolitej Polskiej, określoną w odrębnych przepisach. 1. W czasie wykonywania zadań określonych w ustawie jednostki pływające Policji, podnoszą, niezależnie od bandery, flagę Policji. 2. Minister Spraw Wewnętrznych określi wzór flagi Policji, okoliczności i warunki jej podnoszenia oraz sposób oznakowania jednostek pływających i statków powietrznych, a także znaki rozpoznawcze używane na nich przez Policję w nocy. ” ;
 
@@ -531,9 +538,13 @@ source: "eli-html"
 - **1)** w art. 1: po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
 
-1a. Nazwa Urząd Ochrony Państwa i jej skrót UOP przysługuje wyłącznie urzędowi, o którym mowa w ust. 1. ” , w ust. 2: – pkt 1 i 2 otrzymują brzmienie: „ 1) rozpoznawanie i przeciwdziałanie zagrożeniom godzącym w bezpieczeństwo, obronność, niezależność, całość i międzynarodową pozycję państwa, 2) zapobieganie i wykrywanie przestępstw szpiegostwa i terroryzmu oraz innych przestępstw godzących w bezpieczeństwo Państwa, a także ściganie ich sprawców ” , – po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „ 2a) rozpoznawanie i zapobieganie przestępstwom godzącym w podstawy ekonomiczne i ściganie ich sprawców, 2b) zapobieganie i wykrywanie mających charakter lub zasięg międzynarodowy przestępstw, w tym nielegalnego wytwarzania, posiadania i obrotu bronią, amunicją i materiałami wybuchowymi, środkami odurzającymi lub psychotropowymi oraz materiałami jądrowymi i promieniotwórczymi, a także ściganie ich sprawców, ” ;
+1a. Nazwa Urząd Ochrony Państwa i jej skrót UOP przysługuje wyłącznie urzędowi, o którym mowa w ust. 1. ” , w ust. 2: pkt 1 i 2 otrzymują brzmienie: „
 
 - **b)**
+- **1)** rozpoznawanie i przeciwdziałanie zagrożeniom godzącym w bezpieczeństwo, obronność, niezależność, całość i międzynarodową pozycję państwa,
+- **2)** zapobieganie i wykrywanie przestępstw szpiegostwa i terroryzmu oraz innych przestępstw godzących w bezpieczeństwo Państwa, a także ściganie ich sprawców ” , po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „
+- **2a)** rozpoznawanie i zapobieganie przestępstwom godzącym w podstawy ekonomiczne i ściganie ich sprawców,
+- **2b)** zapobieganie i wykrywanie mających charakter lub zasięg międzynarodowy przestępstw, w tym nielegalnego wytwarzania, posiadania i obrotu bronią, amunicją i materiałami wybuchowymi, środkami odurzającymi lub psychotropowymi oraz materiałami jądrowymi i promieniotwórczymi, a także ściganie ich sprawców, ” ;
 - **2)** art. 2 otrzymuje brzmienie: „ Przy zapobieganiu i zwalczaniu zbrodni szpiegostwa oraz innych przestępstw godzących w potencjał obronny państwa Urząd Ochrony Państwa współdziała z Wojskowymi Służbami Informacyjnymi. ” ;
 - **3)** w art. 4: w ust. 2 po wyrazach „Szefa Urzędu Ochrony Państwa powołuje” dodaje się wyrazy „i odwołuje”, dodaje się ust. 3–5 w brzmieniu: „
     - **a)**
@@ -557,8 +568,11 @@ source: "eli-html"
 
 2. Minister Spraw Wewnętrznych określi warunki i tryb przekazywania Urzędowi Ochrony Państwa informacji o osobie, uzyskanych przez Policję i Straż Graniczną w czasie wykonywania czynności operacyjno-rozpoznawczych. ” ;
 
-- **8)** w art. 7: w ust. 1: – pkt 5 otrzymuje brzmienie: „ 5) żądania niezbędnej pomocy od instytucji państwowych, organów administracji rządowej i samorządu terytorialnego oraz jednostek gospodarczych prowadzących działalność w zakresie użyteczności publicznej; wymienione instytucje, organy i jednostki obowiązane są, w zakresie swojego działania, do udzielenia tej pomocy, w zakresie obowiązujących przepisów prawa, ” ; – dodaje się pkt 6 w brzmieniu: „ 6) zwracania się o niezbędną pomoc do innych jednostek gospodarczych i organizacji społecznych, jak również zwracania się w nagłych wypadkach do każdej osoby o udzielenie doraźnej pomocy, w ramach obowiązujących przepisów prawa. ” , w ust. 6 wyrazy „4 i 5” zastępuje się wyrazami „i 4–6”;
+- **8)** w art. 7: w ust. 1: pkt 5 otrzymuje brzmienie: „
     - **a)**
+
+- **5)** żądania niezbędnej pomocy od instytucji państwowych, organów administracji rządowej i samorządu terytorialnego oraz jednostek gospodarczych prowadzących działalność w zakresie użyteczności publicznej; wymienione instytucje, organy i jednostki obowiązane są, w zakresie swojego działania, do udzielenia tej pomocy, w zakresie obowiązujących przepisów prawa, ” ; dodaje się pkt 6 w brzmieniu: „
+- **6)** zwracania się o niezbędną pomoc do innych jednostek gospodarczych i organizacji społecznych, jak również zwracania się w nagłych wypadkach do każdej osoby o udzielenie doraźnej pomocy, w ramach obowiązujących przepisów prawa. ” , w ust. 6 wyrazy „4 i 5” zastępuje się wyrazami „i 4–6”;
     - **b)**
 
 - **9)** w art. 9 ust. 1 otrzymuje brzmienie: „
@@ -600,7 +614,7 @@ source: "eli-html"
 
 - **1)** określone w art. 122–133 Kodeksu karnego,
 - **2)** nielegalnego wytwarzania, posiadania albo obrotu bronią, amunicją lub materiałami wybuchowymi, środkami odurzającymi oraz psychotropowymi lub materiałami jądrowymi i promieniotwórczymi, mającymi charakter lub zasięg międzynarodowy, pozostającymi w związku z działalnością terrorystyczną, godzącą w bezpieczeństwo państwa,
-- **3)** przyjmowania lub wręczania korzyści majątkowej w celu podjęcia lub zaniechania czynności służbowej, którego następstwem może być zagrożenie bezpieczeństwa państwa lub jego podstaw ekonomicznych, czynności operacyjno-rozpoznawcze zmierzające do sprawdzenia uzyskanych wcześniej wiarygodnych informacji o przestępstwie oraz wykrycia sprawców i uzyskania dowodów mogą polegać na dokonaniu w sposób niejawny nabycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, a także przyjęciu lub wręczeniu korzyści majątkowej.
+- **3)** przyjmowania lub wręczania korzyści majątkowej w celu podjęcia lub zaniechania czynności służbowej, którego następstwem może być zagrożenie bezpieczeństwa państwa lub jego podstaw ekonomicznych, – czynności operacyjno-rozpoznawcze zmierzające do sprawdzenia uzyskanych wcześniej wiarygodnych informacji o przestępstwie oraz wykrycia sprawców i uzyskania dowodów mogą polegać na dokonaniu w sposób niejawny nabycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, a także przyjęciu lub wręczeniu korzyści majątkowej.
 
 2. Minister Spraw Wewnętrznych zarządza, na czas określony, czynności wymienione w ust. 1, po uzyskaniu zgody Prokuratora Generalnego oraz informuje Prokuratora Generalnego o wynikach tych czynności.
 
@@ -907,8 +921,11 @@ source: "eli-html"
 
 4. Minister Spraw Wewnętrznych określi, w porozumieniu z Ministrem Sprawiedliwości, sposób przeprowadzania i dokumentowania czynności, o których mowa w ust. 1. ” ;
 
-- **9)** w art. 11: w ust. 1: – w pkt 5 po wyrazach „popełniających przestępstwo” dodaje się przecinek i wyrazy „poszukiwanych przez organy ścigania”, oraz wyrazy „strażnicy lub granicznej placówki kontrolnej” zastępuje się wyrazami „właściwego terenowego organu”, – w pkt 7 po wyrazach „i cofania” dodaje się wyrazy „z granicy państwowej”, po wyrazach „szkodliwych materiałów” dodaje się wyrazy „jądrowych i”, po wyrazie „biologicznych” dodaje się wyrazy „jak również odpadów”, a wyrazy „z granicy państwa” na końcu punktu skreśla się, – pkt 9 otrzymuje brzmienie: „ 9) żądania niezbędnej pomocy od instytucji państwowych, organów administracji rządowej i samorządu terytorialnego oraz jednostek gospodarczych prowadzących działalność w zakresie użyteczności publicznej; wymienione instytucje, organy i jednostki obowiązane są, w zakresie swojego działania, do udzielenia tej pomocy, w zakresie obowiązujących przepisów prawa ” , – dodaje się pkt 10 w brzmieniu: „ 10) zwracania się o niezbędną pomoc do innych jednostek gospodarczych i organizacji społecznych, jak również zwracania się w nagłych wypadkach do każdej osoby o udzielenie doraźnej pomocy, w ramach obowiązujących przepisów prawa. ” , po ust. 2 dodaje się ust. 2a-2d w brzmieniu: „
+- **9)** w art. 11: w ust. 1: – w pkt 5 po wyrazach „popełniających przestępstwo” dodaje się przecinek i wyrazy „poszukiwanych przez organy ścigania”, oraz wyrazy „strażnicy lub granicznej placówki kontrolnej” zastępuje się wyrazami „właściwego terenowego organu”, – w pkt 7 po wyrazach „i cofania” dodaje się wyrazy „z granicy państwowej”, po wyrazach „szkodliwych materiałów” dodaje się wyrazy „jądrowych i”, po wyrazie „biologicznych” dodaje się wyrazy „jak również odpadów”, a wyrazy „z granicy państwa” na końcu punktu skreśla się, pkt 9 otrzymuje brzmienie: „
     - **a)**
+
+- **9)** żądania niezbędnej pomocy od instytucji państwowych, organów administracji rządowej i samorządu terytorialnego oraz jednostek gospodarczych prowadzących działalność w zakresie użyteczności publicznej; wymienione instytucje, organy i jednostki obowiązane są, w zakresie swojego działania, do udzielenia tej pomocy, w zakresie obowiązujących przepisów prawa ” , dodaje się pkt 10 w brzmieniu: „
+- **10)** zwracania się o niezbędną pomoc do innych jednostek gospodarczych i organizacji społecznych, jak również zwracania się w nagłych wypadkach do każdej osoby o udzielenie doraźnej pomocy, w ramach obowiązujących przepisów prawa. ” , po ust. 2 dodaje się ust. 2a-2d w brzmieniu: „
     - **b)**
 
 2a. Osobę zatrzymaną należy niezwłocznie poddać – w razie uzasadnionej potrzeby – badaniu lekarskiemu lub udzielić jej pierwszej pomocy medycznej.

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 24 listopada 2022 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 5. Wspieranie obrotu i przetwarzania, zawartego w Programie Operacyjnym „Rybactwo i Morze”
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 24 listopada 2022 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 5. Wspieranie obrotu i przetwarzania, zawartego w Programie Operacyjnym „Rybactwo i Morze” Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-24 |
 | Data wydania | 2022-11-30 |
-| Wejście w życie | 2022-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002458) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2458/text.pdf) |
 
@@ -35,15 +34,13 @@ w § 2 w ust. 2 w pkt 5 i 6, w § 4 w pkt 1, w § 5 w ust. 2 w pkt 1, w § 37 w 
 2)
 w § 4 w pkt 2 i w § 37 w ust. 1 w pkt 3 wyrazy „działania, o którym mowa w art. 67” zastępuje się wyrazami „działań, o których mowa w art. 67 i art. 68 ust. 3”;
 3)
-w § 5 ust. 3 otrzymuje brzmienie:
-„
+w § 5 ust. 3 otrzymuje brzmienie: „
 3.
 Wypłata rekompensaty, o której mowa w § 4 pkt 2, przysługuje od dnia:
 1)
 1 stycznia 2015 r. – w przypadku operacji realizowanych w ramach działania, o którym mowa w art. 67 rozporządzenia nr 508/2014;
 2)
-24 lutego 2022 r. – w przypadku operacji realizowanych w ramach działania, o którym mowa w art. 68 ust. 3 rozporządzenia nr 508/2014.
-” ;
+24 lutego 2022 r. – w przypadku operacji realizowanych w ramach działania, o którym mowa w art. 68 ust. 3 rozporządzenia nr 508/2014. ” ;
 4)
 w § 30:
 a)
@@ -55,18 +52,15 @@ w § 34 w ust. 6 skreśla się wyrazy „lub zmiany zestawienia rzeczowo-finanso
 6)
 w § 35 w ust. 1a i 2 oraz w § 39 w ust. 3 wyrazy „wyznaczonego w rozumieniu przepisów prawa pocztowego” zastępuje się wyrazami „pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej”;
 7)
-w § 38 ust. 2 otrzymuje brzmienie:
-„
+w § 38 ust. 2 otrzymuje brzmienie: „
 2.
-Podpisane przez beneficjenta weksel wraz z deklaracją wekslową, o których mowa w ust. 1, są składane we właściwym oddziale regionalnym Agencji albo odsyłane przesyłką rejestrowaną nadaną w placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej najpóźniej w dniu złożenia wniosku o płatność, a w przypadku działań, o których mowa w art. 67 i art. 68 ust. 3 rozporządzenia nr 508/2014 – najpóźniej w dniu zawarcia umowy o dofinansowanie.
-” ;
+Podpisane przez beneficjenta weksel wraz z deklaracją wekslową, o których mowa w ust. 1, są składane we właściwym oddziale regionalnym Agencji albo odsyłane przesyłką rejestrowaną nadaną w placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej najpóźniej w dniu złożenia wniosku o płatność, a w przypadku działań, o których mowa w art. 67 i art. 68 ust. 3 rozporządzenia nr 508/2014 – najpóźniej w dniu zawarcia umowy o dofinansowanie. ” ;
 8)
 w § 39:
 a)
 w ust. 1 w pkt 2 po wyrazach „art. 67” dodaje się wyrazy „i art. 68 ust. 3”,
 b)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
 Operacja może być realizowana nie więcej niż w pięciu etapach – w przypadku operacji realizowanych w ramach działania, o którym mowa w art. 66 rozporządzenia nr 508/2014, oraz nie więcej niż w czterech etapach – w przypadku operacji realizowanych w ramach działań, o których mowa w art. 67, art. 68 ust. 1 i 2 oraz art. 69 ust. 1 rozporządzenia nr 508/2014, przy czym:
 1)
@@ -76,16 +70,13 @@ a)
 b)
 48 miesięcy od dnia zawarcia umowy o dofinansowanie – w przypadku operacji realizowanych w kilku etapach w ramach działań, o których mowa w art. 67, art. 68 ust. 1 i 2 oraz art. 69 ust. 1 rozporządzenia nr 508/2014,
 c)
-36 miesięcy od dnia zawarcia umowy o dofinansowanie – w przypadku operacji realizowanych w jednym etapie w ramach działań, o których mowa w art. 67, art. 68 ust. 1 i 2 oraz art. 69 ust. 1 rozporządzenia nr 508/2014
-lecz nie później niż do dnia 31 grudnia 2023 r.;
+36 miesięcy od dnia zawarcia umowy o dofinansowanie – w przypadku operacji realizowanych w jednym etapie w ramach działań, o których mowa w art. 67, art. 68 ust. 1 i 2 oraz art. 69 ust. 1 rozporządzenia nr 508/2014 – lecz nie później niż do dnia 31 grudnia 2023 r.;
 2)
-złożenie wniosku o płatność końcową następuje w terminie określonym w umowie o dofinansowanie.
-” ;
+złożenie wniosku o płatność końcową następuje w terminie określonym w umowie o dofinansowanie. ” ;
 9)
 w § 43 w ust. 4 w pkt 2 wyrazy „polskiej placówce pocztowej operatora wyznaczonego w rozumieniu przepisów prawa pocztowego” zastępuje się wyrazami „placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej”;
 10)
-po § 43g dodaje się § 43h-43l w brzmieniu:
-„
+po § 43g dodaje się § 43h-43l w brzmieniu: „
 § 43h.
 1.
 Pomoc finansową, o której mowa w § 1, przyznaje się na realizację operacji w zakresie wsparcia za dodatkowe koszty poniesione przez podmioty w sektorze rybołówstwa i akwakultury w związku z zakłóceniami rynku spowodowanymi prowadzoną przez Rosję wojną napastniczą przeciwko Ukrainie i jej wpływem na łańcuch dostaw produktów rybołówstwa i akwakultury, o której mowa w art. 68 ust. 3 rozporządzenia nr 508/2014, zwanego dalej „wsparciem za dodatkowe koszty”:
@@ -98,8 +89,7 @@ od 5 m do 7,99 m – w wysokości 12 000 zł,
 c)
 od 8 m do 11,99 m – w wysokości 28 000 zł,
 d)
-od 12 m do 40,60 m – w wysokości 96 000 zł
-przy czym długość całkowitą statku rybackiego określa się zgodnie z danymi z rejestru statków rybackich według stanu na dzień 24 lutego 2022 r.;
+od 12 m do 40,60 m – w wysokości 96 000 zł – przy czym długość całkowitą statku rybackiego określa się zgodnie z danymi z rejestru statków rybackich według stanu na dzień 24 lutego 2022 r.;
 2)
 zakładom przetwórstwa produktów rybnych zgodnie z następującym wzorem: R = O × N gdzie: R – oznacza kwotę wsparcia za dodatkowe koszty, O – oznacza roczny przychód netto zakładu przetwórstwa produktów rybnych z tytułu sprzedaży produktów rybołówstwa lub akwakultury uzyskany z wykonywania działalności gospodarczej oznaczonej kodem PKD 10.20.Z. Przetwarzanie i konserwowanie ryb, skorupiaków i mięczaków, N – oznacza współczynnik wsparcia za dodatkowe koszty wynoszący 2,2123%;
 3)
@@ -196,13 +186,11 @@ przepisów § 28, § 30 ust. 1 pkt 4 i 9, § 31, § 37 ust. 1 pkt 1 lit. a-d i h
 4)
 stosuje się przepisy § 42, z tym że do wniosku o dofinansowanie następcy prawnego wnioskodawcy, trybu jego rozpatrywania oraz zawierania umowy o dofinansowanie przepisy § 30 ust. 1 pkt 1–3, 5–8 i 10, ust. 4–8 i ust. 9 pkt 2, § 32 ust. 2 pkt 1, § 33–35, § 43i ust. 6, § 43j oraz 43k stosuje się odpowiednio;
 5)
-stosuje się przepisy § 43, z tym że do wniosku następcy prawnego beneficjenta i trybu jego rozpatrywania nie stosuje się przepisów § 30 ust. 1 pkt 1–3, 5–8 i 10 oraz ust. 4–8, § 32 ust. 2 pkt 1, § 33–35, § 43i ust. 6, § 43j oraz 43k.
-” ;
+stosuje się przepisy § 43, z tym że do wniosku następcy prawnego beneficjenta i trybu jego rozpatrywania nie stosuje się przepisów § 30 ust. 1 pkt 1–3, 5–8 i 10 oraz ust. 4–8, § 32 ust. 2 pkt 1, § 33–35, § 43i ust. 6, § 43j oraz 43k. ” ;
 11)
 w załączniku nr 2 do rozporządzenia tytuł ust. 3 otrzymuje brzmienie: „ Działanie środki dotyczące obrotu, o których mowa w art. 68 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011: ” .
 § 2.
 Do przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 5. Wspieranie obrotu i przetwarzania, zawartego w Programie Operacyjnym „Rybactwo i Morze”, w sprawach objętych postępowaniami wszczętymi i niezakończonymi przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 

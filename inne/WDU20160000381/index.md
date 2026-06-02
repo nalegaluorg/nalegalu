@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-03-11 |
 | Data wydania | 2016-03-22 |
-| Wejście w życie | 2016-03-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000381) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/381/text.pdf) |
 
@@ -61,7 +60,7 @@ source: "eli-html"
 
 3c. Podmioty objęte systemem gwarantowania będące bankami krajowymi utworzonymi na podstawie art. 42a ust. 1 ustawy – Prawo bankowe są obowiązane do wniesienia po raz pierwszy opłaty na dany kwartał, o której mowa w ust. 1, w pełnej wysokości za kwartał, w którym wpisano bank do rejestru przedsiębiorców, nie później niż w terminie 30 dni od dnia wpisania banku do rejestru przedsiębiorców. Podstawę naliczenia pierwszej opłaty na dany kwartał stanowi kwota wskazana w ust. 1a, obliczona według stanu na dzień wpisania banku do rejestru przedsiębiorców. Do wnoszenia przez te podmioty opłaty na dany kwartał, o której mowa w ust. 1, w kolejnych kwartałach stosuje się przepis ust. 3.
 
-4. Wniesiona opłata na dany kwartał, o której mowa w ust. 1, stanowi koszt uzyskania przychodu w rozumieniu przepisów ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.).
+4. Wniesiona opłata na dany kwartał, o której mowa w ust. 1, stanowi koszt uzyskania przychodu w rozumieniu przepisów ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662, z 2015 r. poz. 73, 211, 933, 978, 1166, 1197, 1259, 1296, 1348, 1595, 1688, 1767, 1844 i 1932 oraz z 2016 r. poz. 68.).
 
 5. Z dniem spełnienia warunku gwarancji przez podmiot objęty systemem gwarantowania podmiot ten jest zwolniony z obowiązku wnoszenia opłat na dany kwartał, o których mowa w ust. 1. ” ;
 
@@ -129,5 +128,5 @@ source: "eli-html"
 
 4. Bankowy Fundusz Gwarancyjny, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy, zwraca podmiotom objętym obowiązkowym systemem gwarantowania w rozumieniu ustawy zmienianej w art. 1 oraz spółdzielczym kasom oszczędnościowo-kredytowym różnicę pomiędzy wniesionymi opłatami rocznymi, o których mowa w art. 13 ust. 1 i art. 13c ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, oraz opłatą ostrożnościową, o której mowa w art. 14a ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, a należnymi opłatami, o których mowa w ust. 1, bez odsetek.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662, z 2015 r. poz. 73, 211, 933, 978, 1166, 1197, 1259, 1296, 1348, 1595, 1688, 1767, 1844 i 1932 oraz z 2016 r. poz. 68.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Edukacji i Naukiz dnia 20 lipca 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie regulaminu konkursu na stanowisko dyrektora publicznego przedszkola, publicznej szkoły podstawowej, publicznej szkoły ponadpodstawowej lub publicznej placówki oraz trybu pracy komisji konkursowej
+# Obwieszczenie Ministra Edukacji i Naukiz dnia 20 lipca 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie regulaminu konkursu na stanowisko dyrektora publicznego przedszkola, publicznej szkoły podstawowej, publicznej szkoły ponadpodstawowej lub publicznej placówki oraz trybu pracy komisji konkursowej Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 
 | Pole | Wartość |
 |---|---|
@@ -31,15 +31,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji Narodowej z dnia 11 sierpnia 2017 r. w sprawie regulaminu konkursu na stanowisko dyrektora publicznego przedszkola, publicznej szkoły podstawowej, publicznej szkoły ponadpodstawowej lub publicznej placówki oraz trybu pracy komisji konkursowej (Dz. U. poz. 1587), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji Narodowej z dnia 19 sierpnia 2019 r. zmieniającym rozporządzenie w sprawie regulaminu konkursu na stanowisko dyrektora publicznego przedszkola, publicznej szkoły podstawowej, publicznej szkoły ponadpodstawowej lub publicznej placówki oraz trybu pracy komisji konkursowej (Dz. U. poz. 1634).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Edukacji Narodowej z dnia 19 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie regulaminu konkursu na stanowisko dyrektora publicznego przedszkola, publicznej szkoły podstawowej, publicznej szkoły ponadpodstawowej lub publicznej placówki oraz trybu pracy komisji konkursowej (Dz. U. poz. 1634), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Edukacji Narodowej z dnia 19 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie regulaminu konkursu na stanowisko dyrektora publicznego przedszkola, publicznej szkoły podstawowej, publicznej szkoły ponadpodstawowej lub publicznej placówki oraz trybu pracy komisji konkursowej (Dz. U. poz. 1634), które stanowią: „
 § 2.
 Konkursy na stanowiska dyrektorów publicznych przedszkoli, publicznych szkół lub publicznych placówek ogłoszone i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia są prowadzone według dotychczasowych przepisów.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-” .
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
-Załącznik – Tekst jednolity rozporządzenia Ministra Edukacji Narodowej z dnia 11 sierpnia 2017 r. w sprawie regulaminu konkursu na stanowisko dyrektora publicznego przedszkola, publicznej szkoły podstawowej, publicznej szkoły ponadpodstawowej lub publicznej placówki oraz trybu pracy komisji konkursowej
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. ” . 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
+Załącznik – Tekst jednolity rozporządzenia Ministra Edukacji Narodowej z dnia 11 sierpnia 2017 r. w sprawie regulaminu konkursu na stanowisko dyrektora publicznego przedszkola, publicznej szkoły podstawowej, publicznej szkoły ponadpodstawowej lub publicznej placówki oraz trybu pracy komisji konkursowejObecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 Na podstawie art. 63 ust. 20 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082) zarządza się, co następuje:
 § 1.
 1.
@@ -69,9 +66,9 @@ oświadczenia zawierającego następujące dane osobowe kandydata:
 – miejsce zamieszkania (adres do korespondencji),
 d)
 poświadczonych przez kandydata za zgodność z oryginałem kopii dokumentów potwierdzających posiadanie wymaganego stażu pracy, o którym mowa w lit. b: świadectw pracy, zaświadczeń o zatrudnieniu lub innych dokumentów potwierdzających okres zatrudnienia,
-e)
+eW brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji Narodowej z dnia 19 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie regulaminu konkursu na stanowisko dyrektora publicznego przedszkola, publicznej szkoły podstawowej, publicznej szkoły ponadpodstawowej lub publicznej placówki oraz trybu pracy komisji konkursowej (Dz. U. poz. 1634), które weszło w życie z dniem 1 września 2019 r.)
 poświadczonych przez kandydata za zgodność z oryginałem kopii dokumentów potwierdzających posiadanie wymaganego wykształcenia, w tym dyplomu ukończenia studiów pierwszego stopnia, studiów drugiego stopnia, jednolitych studiów magisterskich lub świadectwa ukończenia studiów podyplomowych, z zakresu zarządzania albo świadectwa ukończenia kursu kwalifikacyjnego z zakresu zarządzania oświatą,
-f)
+fW brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji Narodowej z dnia 19 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie regulaminu konkursu na stanowisko dyrektora publicznego przedszkola, publicznej szkoły podstawowej, publicznej szkoły ponadpodstawowej lub publicznej placówki oraz trybu pracy komisji konkursowej (Dz. U. poz. 1634), które weszło w życie z dniem 1 września 2019 r.)
 w przypadku cudzoziemca – poświadczonej przez kandydata za zgodność z oryginałem kopii:
 – dokumentu potwierdzającego znajomość języka polskiego, o którym mowa w ustawie z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2021 r. poz. 672), lub
 – dyplomu ukończenia studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich, na kierunku filologia polska, lub
@@ -90,12 +87,12 @@ l)
 poświadczonej przez kandydata za zgodność z oryginałem kopii aktu nadania stopnia nauczyciela mianowanego lub dyplomowanego – w przypadku nauczyciela,
 m)
 poświadczonej przez kandydata za zgodność z oryginałem kopii karty oceny pracy lub oceny dorobku zawodowego – w przypadku nauczyciela i nauczyciela akademickiego,
-n)
-w przypadku nauczyciela i nauczyciela akademickiego – oświadczenia, że kandydat nie był prawomocnie ukarany karą dyscyplinarną, o której mowa w art. 76 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2019 r. poz. 2215 oraz z 2021 r. poz. 4), lub karą dyscyplinarną, o której mowa w art. 276 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478 i 619), lub karą dyscyplinarną, o której mowa w art. 140 ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm.),
+nW brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
+w przypadku nauczyciela i nauczyciela akademickiego – oświadczenia, że kandydat nie był prawomocnie ukarany karą dyscyplinarną, o której mowa w art. 76 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2019 r. poz. 2215 oraz z 2021 r. poz. 4), lub karą dyscyplinarną, o której mowa w art. 276 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478 i 619), lub karą dyscyplinarną, o której mowa w art. 140 ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 650, 730, 912, 1000, 1115 i 1693.),
 o)
 oświadczenia, że kandydat ma pełną zdolność do czynności prawnych i korzysta z pełni praw publicznych;
 5)
-informację o:
+informację o:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
 a)
 sposobie i terminie składania ofert,
 b)
@@ -185,6 +182,5 @@ innych nieprawidłowości, które mogły mieć wpływ na wynik konkursu.
 § 9.
 Konkursy na stanowiska dyrektorów publicznych przedszkoli, publicznych szkół lub publicznych placówek ogłoszone i niezakończone przed dniem wejścia w życie rozporządzenia są prowadzone według dotychczasowych przepisów.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Obecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji Narodowej z dnia 19 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie regulaminu konkursu na stanowisko dyrektora publicznego przedszkola, publicznej szkoły podstawowej, publicznej szkoły ponadpodstawowej lub publicznej placówki oraz trybu pracy komisji konkursowej (Dz. U. poz. 1634), które weszło w życie z dniem 1 września 2019 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 650, 730, 912, 1000, 1115 i 1693. 5) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Obecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji Narodowej z dnia 19 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie regulaminu konkursu na stanowisko dyrektora publicznego przedszkola, publicznej szkoły podstawowej, publicznej szkoły ponadpodstawowej lub publicznej placówki oraz trybu pracy komisji konkursowej (Dz. U. poz. 1634), które weszło w życie z dniem 1 września 2019 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 650, 730, 912, 1000, 1115 i 1693. 5) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
 

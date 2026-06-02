@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-03-23 |
 | Data wydania | 2015-04-02 |
-| Wejście w życie | 2015-04-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000474) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/474/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 15 pkt 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2014 r. poz. 669, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 15 pkt 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2014 r. poz. 669, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1146, 1662 i 1722 oraz z 2015 r. poz. 211.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe wymagania dotyczące stosowania do napojów zawierających dwutlenek węgla, znajdujących się pod ciśnieniem powyżej 1 bara i w temperaturze 20°C, szklanych butelek i zamknięć typowych dla wina musującego.
 § 2.
@@ -35,5 +34,5 @@ Do napojów, o których mowa w § 1, można stosować szklane butelki i zamknię
 § 3.
 Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 kwietnia 2011 r. w sprawie szczegółowych wymagań jakości handlowej w zakresie opakowań niektórych wyrobów winiarskich (Dz. U. Nr 87, poz. 489).
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1146, 1662 i 1722 oraz z 2015 r. poz. 211.
 

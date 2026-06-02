@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 lutego 2017 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw
+# Ustawa z dnia 10 lutego 2017 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym i ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-10 |
 | Data wydania | 2017-02-13 |
-| Wejście w życie | 2017-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000244) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/244/text.pdf) |
 
@@ -39,7 +38,7 @@ source: "eli-html"
 
 - **c)**
 
-§ 14a. Fakturą jest dokument, o którym mowa w art. 2 pkt 31 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2016 r. poz. 710, z późn. zm.). ” ;
+§ 14a. Fakturą jest dokument, o którym mowa w art. 2 pkt 31 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2016 r. poz. 710, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 846, 960, 1052, 1206, 1228, 1579, 1948 i 2024 oraz z 2017 r. poz. 60.). ” ;
 
 - **2)** po art. 270 dodaje się art. 270a w brzmieniu: „
 
@@ -103,5 +102,5 @@ source: "eli-html"
 
 - **3a)** określonych w art. 270a § 1 i 2, art. 271a § 1 i 2 oraz art. 277a § 1 Kodeksu karnego, ” .
 
-**Art. 8.** Ustawa wchodzi w życie z dniem 1 marca 2017 r.
+**Art. 8.** Ustawa wchodzi w życie z dniem 1 marca 2017 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym i ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 846, 960, 1052, 1206, 1228, 1579, 1948 i 2024 oraz z 2017 r. poz. 60.
 

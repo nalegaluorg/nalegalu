@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-15 |
 | Data wydania | 2017-02-20 |
-| Wejście w życie | 2017-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000296) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/296/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 285 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, 1948, 1984 i 2260 oraz z 2017 r. poz. 60 i 191) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Finansów z dnia 4 września 2015 r. w sprawie audytu wewnętrznego oraz informacji o pracy i wynikach tego audytu (Dz. U. poz. 1480) § 29 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Finansów z dnia 4 września 2015 r. w sprawie audytu wewnętrznego oraz informacji o pracy i wynikach tego audytu (Dz. U. poz. 1480) § 29 otrzymuje brzmienie: „
 § 29.
-Przepisy § 26–28 stosuje się odpowiednio do audytu wewnętrznego zleconego przez Szefa Krajowej Administracji Skarbowej.
-” .
+Przepisy § 26–28 stosuje się odpowiednio do audytu wewnętrznego zleconego przez Szefa Krajowej Administracji Skarbowej. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
 

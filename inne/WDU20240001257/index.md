@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 12 sierpnia 2024 r. zmieniające rozporządzenie w sprawie leczenia uzdrowiskowego osób zatrudnionych przy produkcji wyrobów zawierających azbest
+# Rozporządzenie Ministra Zdrowiaz dnia 12 sierpnia 2024 r. zmieniające rozporządzenie w sprawie leczenia uzdrowiskowego osób zatrudnionych przy produkcji wyrobów zawierających azbest Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-08-12 |
 | Data wydania | 2024-08-20 |
-| Wejście w życie | 2024-09-20 |
 | Ostatnia zmiana | 2025-07-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001257) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1257/text.pdf) |
 
@@ -33,22 +32,17 @@ W rozporządzeniu Ministra Zdrowia z dnia 9 sierpnia 2004 r. w sprawie leczenia 
 1)
 w § 2:
 a)
-po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Skierowanie jest wystawiane w postaci elektronicznej – w Systemie Informacji Medycznej, o którym mowa w art. 10 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2023 r. poz. 2465), zwanym dalej „SIM”.
-” ,
+Skierowanie jest wystawiane w postaci elektronicznej – w Systemie Informacji Medycznej, o którym mowa w art. 10 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2023 r. poz. 2465), zwanym dalej „SIM”. ” ,
 b)
 uchyla się ust. 3,
 c)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-Skierowanie wystawione przez lekarza ubezpieczenia zdrowotnego jest przekazywane za pośrednictwem SIM do właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia z informacją „SKIEROWANIE NA LECZENIE UZDROWISKOWE (AZBEST)”.
-” ,
+Skierowanie wystawione przez lekarza ubezpieczenia zdrowotnego jest przekazywane za pośrednictwem SIM do właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia z informacją „SKIEROWANIE NA LECZENIE UZDROWISKOWE (AZBEST)”. ” ,
 d)
-po ust. 4 dodaje się ust. 4a-4e w brzmieniu:
-„
+po ust. 4 dodaje się ust. 4a-4e w brzmieniu: „
 4a.
 Skierowanie zawiera:
 1)
@@ -110,17 +104,13 @@ rejestracji skierowania;
 2)
 potwierdzeniu skierowania;
 3)
-przyczynie braku możliwości realizacji skierowania, o której mowa w § 5 ust. 1, i kolejności osoby uprawnionej na liście osób oczekujących na leczenie uzdrowiskowe.
-” ;
+przyczynie braku możliwości realizacji skierowania, o której mowa w § 5 ust. 1, i kolejności osoby uprawnionej na liście osób oczekujących na leczenie uzdrowiskowe. ” ;
 e)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
-W przypadku braku dostępu do systemu teleinformatycznego, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, uniemożliwiającego wystawienie i prowadzenie skierowania w postaci elektronicznej, lekarz ubezpieczenia zdrowotnego wystawia skierowanie na formularzu, którego wzór jest określony w załączniku nr 1 do rozporządzenia.
-” ;
+W przypadku braku dostępu do systemu teleinformatycznego, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, uniemożliwiającego wystawienie i prowadzenie skierowania w postaci elektronicznej, lekarz ubezpieczenia zdrowotnego wystawia skierowanie na formularzu, którego wzór jest określony w załączniku nr 1 do rozporządzenia. ” ;
 f)
-po ust. 5 dodaje się ust. 6–8 w brzmieniu:
-„
+po ust. 5 dodaje się ust. 6–8 w brzmieniu: „
 6.
 W przypadku skierowań w postaci papierowej potwierdzanie tych skierowań oraz prowadzenie list osób uprawnionych, które nie uzyskały potwierdzenia skierowania z powodu braku miejsc w odpowiednich zakładach lecznictwa uzdrowiskowego, dokonywane jest bez wykorzystania funkcjonalności SIM.
 7.
@@ -136,18 +126,14 @@ informacje o potwierdzeniu skierowania, o którym mowa w § 3 ust. 2, osoba upow
 5)
 właściwy oddział wojewódzki Narodowego Funduszu Zdrowia niezwłocznie doręcza osobie uprawnionej potwierdzone skierowanie wystawione w postaci papierowej.
 8.
-Do powiadamiania osoby uprawnionej, której wystawiono skierowanie w postaci papierowej, stosuje się odpowiednio przepis § 2 ust. 4d i 4e.
-” ;
+Do powiadamiania osoby uprawnionej, której wystawiono skierowanie w postaci papierowej, stosuje się odpowiednio przepis § 2 ust. 4d i 4e. ” ;
 2)
-§ 4 otrzymuje brzmienie:
-„
+§ 4 otrzymuje brzmienie: „
 § 4.
 1.
 2.
-” ;
 3)
-w § 5 ust. 2 otrzymuje brzmienie:
-„
+w § 5 ust. 2 otrzymuje brzmienie: „
 2.
 Lista, o której mowa w ust. 1, zawiera:
 1)
@@ -155,15 +141,13 @@ imię (imiona) i nazwisko osoby uprawnionej;
 2)
 identyfikator usługobiorcy, o którym mowa w art. 17c ust. 2 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
 3)
-numer skierowania nadany podczas rejestracji przez oddział wojewódzki Narodowego Funduszu Zdrowia.
-” .
+numer skierowania nadany podczas rejestracji przez oddział wojewódzki Narodowego Funduszu Zdrowia. ” .
 § 2.
 Skierowania na leczenie uzdrowiskowe, o których mowa w § 2 ust. 1 rozporządzenia zmienianego w § 1, wystawione przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność i są potwierdzane na podstawie przepisów dotychczasowych.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 ##### Oddział wojewódzki Narodowego Funduszu Zdrowia przekazuje do SIM informację o potwierdzeniu skierowania, wskazując jednocześnie zakład lecznictwa uzdrowiskowego i określając rodzaj leczenia uzdrowiskowego, datę jego rozpoczęcia i czas trwania.
 
-##### Oddział wojewódzki Narodowego Funduszu Zdrowia niezwłocznie zawiadamia osobę uprawnioną o potwierdzeniu skierowania i dokonuje w SIM odpowiedniej zmiany statusu tego skierowania.
+##### Oddział wojewódzki Narodowego Funduszu Zdrowia niezwłocznie zawiadamia osobę uprawnioną o potwierdzeniu skierowania i dokonuje w SIM odpowiedniej zmiany statusu tego skierowania. ” ;
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 27 listopada 2021 r. w sprawie oceny wniosków w postępowaniu rozstrzygającym
+# Rozporządzenie Ministra Infrastrukturyz dnia 27 listopada 2021 r. w sprawie oceny wniosków w postępowaniu rozstrzygającym Minister Infrastruktury kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-27 |
 | Data wydania | 2021-12-01 |
-| Wejście w życie | 2021-12-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002203) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2203/text.pdf) |
 
@@ -140,7 +139,7 @@ Gwarancja, o której mowa w ust. 5 pkt 1, może być udzielona przez instytucję
 1)
 ma siedzibę na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;
 2)
-posiada aktualny rating kredytowy w rozumieniu art. 3 pkt 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1060/2009 z dnia 16 września 2009 r. w sprawie agencji ratingowych (Dz. Urz. UE L 302 z 17.11.2009, str. 1, z późn. zm.) nadany przez agencję ratingową:
+posiada aktualny rating kredytowy w rozumieniu art. 3 pkt 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1060/2009 z dnia 16 września 2009 r. w sprawie agencji ratingowych (Dz. Urz. UE L 302 z 17.11.2009, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 350 z 29.12.2009, str. 59, Dz. Urz. UE L 145 z 31.05.2011, str. 30, Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 146 z 31.05.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1 oraz Dz. Urz. UE L 347 z 28.12.2017, str. 35. nadany przez agencję ratingową:
 a)
 Fitch – co najmniej na poziomie kategorii ratingowej BBB- lub
 b)
@@ -369,7 +368,7 @@ b)
 efektywność wykorzystania akwenu objętego wnioskiem, gdy zainstalowana moc morskiej farmy wiatrowej będzie wynosiła co najmniej 8 MW na km2, bez uwzględnienia obszaru z wyłączoną możliwością zabudowy, lub
 c)
 doświadczenie w realizacji projektów wodorowych polegające na:
-– prowadzeniu eksperymentalnych prac rozwojowych w rozumieniu art. 2 pkt 86 rozporządzenia Komisji (UE) 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanych dalej „pracami rozwojowymiˮ, w zakresie wytwarzania wodoru, w tym na potrzeby wytwarzania energii elektrycznej, innych nośników energii lub na potrzeby własne, przez okres co najmniej 6 miesięcy przed dniem złożenia informacji i dokumentów, o których mowa w art. 27d ust. 2 pkt 2 ustawy,
+– prowadzeniu eksperymentalnych prac rozwojowych w rozumieniu art. 2 pkt 86 rozporządzenia Komisji (UE) 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39., zwanych dalej „pracami rozwojowymiˮ, w zakresie wytwarzania wodoru, w tym na potrzeby wytwarzania energii elektrycznej, innych nośników energii lub na potrzeby własne, przez okres co najmniej 6 miesięcy przed dniem złożenia informacji i dokumentów, o których mowa w art. 27d ust. 2 pkt 2 ustawy,
 – innym niż określone w tiret pierwszym wytwarzaniu wodoru, w tym na potrzeby wytwarzania energii elektrycznej, innych nośników energii lub na potrzeby własne, przez okres co najmniej 6 miesięcy przed dniem złożenia informacji i dokumentów, o których mowa w art. 27d ust. 2 pkt 2 ustawy;
 2)
 w przypadku wniosku dotyczącego planowanego przedsięwzięcia innego niż określone w pkt 1 – optymalizacja wykorzystania korzyści gospodarczych przewidywanych do uzyskania z planowanego przedsięwzięcia przez:
@@ -461,6 +460,5 @@ Na potrzeby obliczenia sumy nakładów inwestycyjnych ( NI), o których mowa w �
 § 17.
 Do postępowań rozstrzygających wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 § 18.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 350 z 29.12.2009, str. 59, Dz. Urz. UE L 145 z 31.05.2011, str. 30, Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 146 z 31.05.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1 oraz Dz. Urz. UE L 347 z 28.12.2017, str. 35. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 350 z 29.12.2009, str. 59, Dz. Urz. UE L 145 z 31.05.2011, str. 30, Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 146 z 31.05.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1 oraz Dz. Urz. UE L 347 z 28.12.2017, str. 35. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39.
 

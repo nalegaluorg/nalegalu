@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 13 sierpnia 2019 r. w sprawie wynagradzania nauczycieli zatrudnionych w szkołach polskich oraz w publicznych szkołach i zespołach szkół przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 13 sierpnia 2019 r. w sprawie wynagradzania nauczycieli zatrudnionych w szkołach polskich oraz w publicznych szkołach i zespołach szkół przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-13 |
 | Data wydania | 2019-08-23 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001599) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1599/text.pdf) |
 
@@ -67,6 +66,5 @@ nauczycielowi, któremu powierzono stanowisko kierownika szkoły polskiej, dyrek
 § 9.
 Traci moc rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 9 września 2004 r. w sprawie wynagradzania nauczycieli zatrudnionych w publicznych szkołach i szkolnych punktach konsultacyjnych przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej (Dz. U. poz. 2138 i 2419 oraz z 2009 r. poz. 423).
 § 10.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
 

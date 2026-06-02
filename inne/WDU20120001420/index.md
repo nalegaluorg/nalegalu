@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-11 |
 | Data wydania | 2012-12-18 |
-| Wejście w życie | 2013-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001420) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1420/text.pdf) |
 
@@ -31,11 +30,11 @@ Załącznik – Wykaz specjalizacji uprawniających lekarza do samodzielnego wyk
 Treść rozporządzenia
 Na podstawie art. 16g ust. 3 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2011 r. Nr 277, poz. 1634 i Nr 291, poz. 1707 oraz z 2012 r. poz. 95) zarządza się, co następuje:
 § 1.
-Wykaz specjalizacji uprawniających lekarza do samodzielnego wykonywania czynności diagnostyki laboratoryjnej, o których mowa w art. 2 ustawy z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. z 2004 r. Nr 144, poz. 1529, z późn. zm.), w medycznym laboratorium diagnostycznym jest określony w załączniku do rozporządzenia.
+Wykaz specjalizacji uprawniających lekarza do samodzielnego wykonywania czynności diagnostyki laboratoryjnej, o których mowa w art. 2 ustawy z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. z 2004 r. Nr 144, poz. 1529, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 119, poz. 1015, z 2006 r. Nr 117, poz. 790, z 2009 r. Nr 76, poz. 641 oraz z 2011 r. Nr 112, poz. 654 i Nr 113, poz. 657.), w medycznym laboratorium diagnostycznym jest określony w załączniku do rozporządzenia.
 § 2.
 Lekarze, którzy na podstawie dotychczasowych przepisów nabyli uprawnienia do samodzielnego wykonywania czynności diagnostyki laboratoryjnej w medycznym laboratorium diagnostycznym, zachowują te uprawnienia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 10 sierpnia 2007 r. w sprawie wykazu specjalizacji uprawniających lekarza do samodzielnego wykonywania czynności diagnostyki laboratoryjnej w medycznym laboratorium diagnostycznym (Dz. U. Nr 150, poz. 1073 oraz z 2010 r. Nr 121, poz. 822), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 10 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty (Dz. U. Nr 113, poz. 658). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 119, poz. 1015, z 2006 r. Nr 117, poz. 790, z 2009 r. Nr 76, poz. 641 oraz z 2011 r. Nr 112, poz. 654 i Nr 113, poz. 657. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 10 sierpnia 2007 r. w sprawie wykazu specjalizacji uprawniających lekarza do samodzielnego wykonywania czynności diagnostyki laboratoryjnej w medycznym laboratorium diagnostycznym (Dz. U. Nr 150, poz. 1073 oraz z 2010 r. Nr 121, poz. 822), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 10 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty (Dz. U. Nr 113, poz. 658).
 Załącznik – Wykaz specjalizacji uprawniających lekarza do samodzielnego wykonywania czynności diagnostyki laboratoryjnej w medycznym laboratorium diagnostycznym
 1)
 analityka II stopnia, analityka lekarska II stopnia, diagnostyka laboratoryjna II stopnia, diagnostyka laboratoryjna – w zakresie medycznej diagnostyki laboratoryjnej;

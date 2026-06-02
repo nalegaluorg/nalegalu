@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-01-23 |
 | Data wydania | 2012-01-27 |
-| Wejście w życie | 2012-01-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000108) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/108/text.pdf) |
 
@@ -51,5 +50,5 @@ dysponującej nieckami basenowymi o długości powyżej 50 m – trzech ratownik
 4)
 w przypadku innych obiektów dysponujących nieckami basenowymi o łącznej powierzchni powyżej 100 m2 i głębokości ponad 0,4 m w najgłębszym miejscu lub głębokości powyżej 1,2 m – co najmniej jeden ratownik wodny.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 6 maja 1997 r. w sprawie określenia warunków bezpieczeństwa osób przebywających w górach, pływających, kąpiących się i uprawiających sporty wodne (Dz. U. Nr 57, poz. 358), które z dniem wejścia w życie niniejszego rozporządzenia traci moc w zakresie dotyczącym minimalnych wymagań dotyczących liczby ratowników wodnych zapewniających stałą kontrolę wyznaczonego obszaru wodnego. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 6 maja 1997 r. w sprawie określenia warunków bezpieczeństwa osób przebywających w górach, pływających, kąpiących się i uprawiających sporty wodne (Dz. U. Nr 57, poz. 358), które z dniem wejścia w życie niniejszego rozporządzenia traci moc w zakresie dotyczącym minimalnych wymagań dotyczących liczby ratowników wodnych zapewniających stałą kontrolę wyznaczonego obszaru wodnego.
 

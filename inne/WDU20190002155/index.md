@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 10 października 2019 r. w sprawie wymagań dla ogrodzeń lotnisk użytku publicznego
+# Rozporządzenie Ministra Infrastrukturyz dnia 10 października 2019 r. w sprawie wymagań dla ogrodzeń lotnisk użytku publicznego Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-10 |
 | Data wydania | 2019-11-07 |
-| Wejście w życie | 2019-11-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002155) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2155/text.pdf) |
 
@@ -64,6 +63,5 @@ Ze względu na ukształtowanie terenu, istniejące obiekty budowlane lub koniecz
 § 3.
 Zarządzający lotniskami, którzy do dnia wejścia w życie niniejszego rozporządzenia stosowali na podstawie § 3 ust. 2 rozporządzenia Ministra Infrastruktury z dnia 13 sierpnia 2018 r. w sprawie wymagań technicznych i eksploatacyjnych dla lotnisk użytku publicznego podlegających obowiązkowi certyfikacji (Dz. U. poz. 1661) sposób zabezpieczenia lotniska określony w programie ochrony lotniska, dostosują sposób zabezpieczenia lotniska do wymagań określonych w niniejszym rozporządzeniu w terminie roku od dnia wejścia w życie niniejszego rozporządzenia.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 13 sierpnia 2018 r. w sprawie wymagań technicznych i eksploatacyjnych dla lotnisk użytku publicznego podlegających obowiązkowi certyfikacji (Dz. U. poz. 1661), które zgodnie z art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 13 sierpnia 2018 r. w sprawie wymagań technicznych i eksploatacyjnych dla lotnisk użytku publicznego podlegających obowiązkowi certyfikacji (Dz. U. poz. 1661), które zgodnie z art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 13 sierpnia 2018 r. w sprawie wymagań technicznych i eksploatacyjnych dla lotnisk użytku publicznego podlegających obowiązkowi certyfikacji (Dz. U. poz. 1661), które zgodnie z art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

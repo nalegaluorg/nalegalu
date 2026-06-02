@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 6 marca 2018 r. zmieniające rozporządzenie w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług
+# Rozporządzenie Ministra Finansówz dnia 6 marca 2018 r. zmieniające rozporządzenie w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-06 |
 | Data wydania | 2018-03-20 |
-| Wejście w życie | 2018-04-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000579) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/579/text.pdf) |
 
@@ -31,18 +30,15 @@ Na podstawie art. 28o i art. 92 ust. 1 pkt 3 ustawy z dnia 11 marca 2004 r. o po
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 16 grudnia 2013 r. w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług (Dz. U. z 2017 r. poz. 1686) wprowadza się następujące zmiany:
 1)
-w § 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4–6 w brzmieniu:
-„
+w § 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4–6 w brzmieniu: „
 4)
 Umowie w sprawie siedziby Frontex – rozumie się przez to Umowę w sprawie siedziby między Rzecząpospolitą Polską a Europejską Agencją Straży Granicznej i Przybrzeżnej (Frontex), podpisaną w Warszawie dnia 9 marca 2017 r. (Dz. U. poz. 1939 i 1940);
 5)
 Agencji – rozumie się przez to Europejską Agencję Straży Granicznej i Przybrzeżnej (Frontex), o której mowa w Umowie w sprawie siedziby Frontex;
 6)
-członkach personelu Agencji – rozumie się przez to osoby wymienione w art. 1 ust. 3 Umowy w sprawie siedziby Frontex, z wyłączeniem obywateli polskich oraz osób posiadających prawo stałego pobytu w Rzeczypospolitej Polskiej.
-” ;
+członkach personelu Agencji – rozumie się przez to osoby wymienione w art. 1 ust. 3 Umowy w sprawie siedziby Frontex, z wyłączeniem obywateli polskich oraz osób posiadających prawo stałego pobytu w Rzeczypospolitej Polskiej. ” ;
 2)
-po § 6 dodaje się § 6a w brzmieniu:
-„
+po § 6 dodaje się § 6a w brzmieniu: „
 § 6a.
 1.
 Zwrot podatku przysługuje członkom personelu Agencji, zatrudnionym na okres roku lub dłużej, z tytułu nabycia na terytorium kraju, przeznaczonych do ich użytku osobistego w Rzeczypospolitej Polskiej:
@@ -59,25 +55,19 @@ Zwrot podatku, o którym mowa w ust. 1, przysługuje pod warunkiem, że wartoś�
 5.
 Dokumentem stanowiącym podstawę do obliczenia podatku podlegającego zwrotowi członkom personelu Agencji jest faktura wystawiona przy zakupie towarów, potwierdzająca ich nabycie przez członków personelu Agencji uprawnionych do skorzystania ze zwrotu podatku.
 6.
-Zwrot podatku, o którym mowa w ust. 1 pkt 1, przysługuje do kwoty 20 000 złotych.
-” ;
+Zwrot podatku, o którym mowa w ust. 1 pkt 1, przysługuje do kwoty 20 000 złotych. ” ;
 3)
 w § 7:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Z zastrzeżeniem § 7a, zwrot podatku, o którym mowa w § 6 ust. 1, jest dokonywany na wniosek składany do Naczelnika Drugiego Urzędu Skarbowego Warszawa-Śródmieście.
-” ,
+Z zastrzeżeniem § 7a, zwrot podatku, o którym mowa w § 6 ust. 1, jest dokonywany na wniosek składany do Naczelnika Drugiego Urzędu Skarbowego Warszawa-Śródmieście. ” ,
 b)
-po ust. 3 dodaje się ust. 3a w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a w brzmieniu: „
 3a.
-W przypadku faktur w formie elektronicznej wnioskodawca przesyła lub udostępnia te faktury w formie elektronicznej w dniu złożenia wniosku, o którym mowa w ust. 1.
-” ;
+W przypadku faktur w formie elektronicznej wnioskodawca przesyła lub udostępnia te faktury w formie elektronicznej w dniu złożenia wniosku, o którym mowa w ust. 1. ” ;
 4)
-po § 7 dodaje się § 7a w brzmieniu:
-„
+po § 7 dodaje się § 7a w brzmieniu: „
 § 7a.
 1.
 Zwrot podatku, o którym mowa w § 6 ust. 1, Agencji oraz zwrot podatku członkom personelu Agencji jest dokonywany na wniosek składany przez Agencję do Naczelnika Drugiego Urzędu Skarbowego Warszawa-Śródmieście.
@@ -98,8 +88,7 @@ Przepisy § 7 ust. 3a oraz ust. 4–8 stosuje się odpowiednio.
 5.
 Po dokonaniu zwrotu podatku Drugi Urząd Skarbowy Warszawa-Śródmieście zwraca faktury, o których mowa w ust. 3 pkt 2.
 6.
-W przypadku gdy członek personelu Agencji był zatrudniony krócej niż rok od podjęcia zatrudnienia w Agencji i otrzymał zwrot podatku, o którym mowa w § 6a ust. 1, kwotę tego zwrotu zwraca do Drugiego Urzędu Skarbowego Warszawa-Śródmieście nie później niż w terminie 6 miesięcy od dnia ustania zatrudnienia w Agencji.
-” .
+W przypadku gdy członek personelu Agencji był zatrudniony krócej niż rok od podjęcia zatrudnienia w Agencji i otrzymał zwrot podatku, o którym mowa w § 6a ust. 1, kwotę tego zwrotu zwraca do Drugiego Urzędu Skarbowego Warszawa-Śródmieście nie później niż w terminie 6 miesięcy od dnia ustania zatrudnienia w Agencji. ” .
 § 2.
 1.
 Zwrot podatku, o którym mowa w § 6a ust. 1 rozporządzenia zmienianego w § 1, przysługuje z tytułu nabycia towarów i pojazdów silnikowych po dniu 31 października 2017 r.
@@ -135,6 +124,5 @@ po dniu 31 grudnia 2017 r. stosuje się przepisy § 6a i § 7a rozporządzenia z
 § 4.
 Do zwrotu podatku z tytułu nabycia towarów i usług w 2017 r. przez Agencję do jej celów służbowych mają zastosowanie przepisy rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 

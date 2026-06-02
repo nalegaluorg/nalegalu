@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-04-24 |
 | Data wydania | 2015-06-23 |
-| Wejście w życie | 2015-07-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000860) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/860/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.) po art. 42 dodaje się art. 42a w brzmieniu: „
+**Art. 1.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650, z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198 oraz z 2015 r. poz. 357.) po art. 42 dodaje się art. 42a w brzmieniu: „
 
 **Art. 42a.**
 
@@ -37,7 +36,7 @@ source: "eli-html"
 3. Uczestnikami programu mogą być obywatele polscy lub obywatele Unii Europejskiej i członkowie ich rodzin w rozumieniu ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2014 r. poz. 1525), którym przysługuje prawo pobytu na terytorium Rzeczypospolitej Polskiej przez okres dłuższy niż trzy miesiące w rozumieniu tej ustawy, oraz osoby posiadające status rezydenta długoterminowego na terytorium Rzeczypospolitej Polskiej, będący:
 
 - **1)** absolwentami studiów pierwszego stopnia, którzy ukończyli studia nie wcześniej niż w roku poprzedzającym zgłoszenie do udziału w programie,
-- **2)** studentami, którzy nie wcześniej niż w roku poprzedzającym zgłoszenie do udziału w programie ukończyli trzeci rok jednolitych studiów magisterskich nieposiadający tytułu zawodowego magistra lub równorzędnego i zakwalifikowani na studia magisterskie w jednej z zagranicznych uczelni, których lista jest ustalana w sposób określony w przepisach wydanych na podstawie ust. 12.
+- **2)** studentami, którzy nie wcześniej niż w roku poprzedzającym zgłoszenie do udziału w programie ukończyli trzeci rok jednolitych studiów magisterskich – nieposiadający tytułu zawodowego magistra lub równorzędnego i zakwalifikowani na studia magisterskie w jednej z zagranicznych uczelni, których lista jest ustalana w sposób określony w przepisach wydanych na podstawie ust. 12.
 
 4. Pomoc finansowa udzielana w ramach programu może obejmować środki na pokrycie kosztów rekrutacyjnych, czesnego, zakwaterowania, utrzymania, przejazdów oraz ubezpieczeń.
 
@@ -65,11 +64,11 @@ source: "eli-html"
 - **3)** istotne elementy umowy, o której mowa w ust. 10,
 - **4)** przypadki, o których mowa w ust. 6 pkt 2,
 - **5)** sposób dokumentowania i potwierdzania okoliczności, o których mowa w ust. 6,
-- **6)** sposób ustalania listy zagranicznych uczelni, do których zakwalifikowanie uprawnia do uczestnictwa w programie uwzględniając konieczność właściwej oceny merytorycznej wniosków przez ekspertów, pierwszeństwo w dostępie do programu osób posiadających wybitne osiągnięcia naukowe, szczególne okoliczności niezależne od uczestników programu uniemożliwiające im lub w znaczny sposób utrudniające uczestnictwo w programie, potrzebę wnikliwej oceny każdej z przesłanek stanowiących podstawę do zwolnienia z obowiązku zwrotu pomocy finansowej udzielonej w ramach programu, rankingi zagranicznych uczelni oraz możliwości budżetu państwa. ” .
+- **6)** sposób ustalania listy zagranicznych uczelni, do których zakwalifikowanie uprawnia do uczestnictwa w programie – uwzględniając konieczność właściwej oceny merytorycznej wniosków przez ekspertów, pierwszeństwo w dostępie do programu osób posiadających wybitne osiągnięcia naukowe, szczególne okoliczności niezależne od uczestników programu uniemożliwiające im lub w znaczny sposób utrudniające uczestnictwo w programie, potrzebę wnikliwej oceny każdej z przesłanek stanowiących podstawę do zwolnienia z obowiązku zwrotu pomocy finansowej udzielonej w ramach programu, rankingi zagranicznych uczelni oraz możliwości budżetu państwa. ” .
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) w art. 21 w ust. 1 po pkt 40c dodaje się pkt 40d w brzmieniu: „
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863 oraz z 2015 r. poz. 73, 211, 251, 478, 693 i 699.) w art. 21 w ust. 1 po pkt 40c dodaje się pkt 40d w brzmieniu: „
 
-- **40d)** świadczenia otrzymane w ramach rządowego programu ustanowionego na podstawie art. 42a ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.) w związku z kształceniem w zagranicznych uczelniach na pokrycie kosztów rekrutacyjnych, czesnego, zakwaterowania, utrzymania, przejazdów i ubezpieczeń; ” .
+- **40d)** świadczenia otrzymane w ramach rządowego programu ustanowionego na podstawie art. 42a ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650, z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198 oraz z 2015 r. poz. 357 i 860.) w związku z kształceniem w zagranicznych uczelniach na pokrycie kosztów rekrutacyjnych, czesnego, zakwaterowania, utrzymania, przejazdów i ubezpieczeń; ” .
 
 **Art. 3.**
 
@@ -90,5 +89,5 @@ source: "eli-html"
 
 3. W przypadku gdy wydatki z budżetu państwa na realizację programu w danym roku powodowałyby zagrożenie przekroczenia limitu określonego w ust. 1, w roku tym ogranicza się liczbę nowych uczestników programu w stopniu gwarantującym zapewnienie finansowania świadczeń dla uczestników programu.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650, z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198 oraz z 2015 r. poz. 357. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863 oraz z 2015 r. poz. 73, 211, 251, 478, 693 i 699. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650, z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198 oraz z 2015 r. poz. 357 i 860.
 

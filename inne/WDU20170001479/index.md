@@ -22,35 +22,33 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-01 |
 | Data wydania | 2017-08-02 |
-| Wejście w życie | 2017-08-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001479) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1479/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2016 r. poz. 1512 i 2048 oraz z 2017 r. poz. 624) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912 oraz z 2017 r. poz. 166.) wprowadza się następujące zmiany:
 1)
 w § 13:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, dla producentów rolnych, którym został nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, w których gospodarstwach rolnych lub działach specjalnych produkcji rolnej powstały szkody w wysokości co najmniej 70% danej uprawy na powierzchni występowania tej uprawy lub szkody powstały na powierzchni co najmniej 70% upraw w szklarniach i tunelach foliowych, spowodowane wystąpieniem niekorzystnych zjawisk atmosferycznych, o których mowa w § 2 ust. 1 pkt 3.
-” ,
+Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, dla producentów rolnych, którym został nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, w których gospodarstwach rolnych lub działach specjalnych produkcji rolnej powstały szkody w wysokości co najmniej 70% danej uprawy na powierzchni występowania tej uprawy lub szkody powstały na powierzchni co najmniej 70% upraw w szklarniach i tunelach foliowych, spowodowane wystąpieniem niekorzystnych zjawisk atmosferycznych, o których mowa w § 2 ust. 1 pkt 3. ” ,
 b)
 w ust. 6:
-– w pkt 1 lit. a otrzymuje brzmienie: „ a) kopię protokołu oszacowania szkód, o którym mowa w § 5 ust. 5, zawierającego informacje o powierzchni upraw, w których powstały szkody w wysokości co najmniej 70%, lub informacje o powierzchni upraw w szklarniach i tunelach foliowych, na której powstały szkody co najmniej na 70% powierzchni tych upraw, ” ,
-– w pkt 2 lit. a otrzymuje brzmienie: „ a) kopię protokołu oszacowania szkód, o którym mowa w § 5 ust. 5, zawierającego informacje o powierzchni upraw, w których powstały szkody w wysokości co najmniej 70%, lub informacje o powierzchni upraw w szklarniach i tunelach foliowych, na której powstały szkody co najmniej na 70% powierzchni tych upraw, ” ,
+w pkt 1 lit. a otrzymuje brzmienie: „
+a)
+kopię protokołu oszacowania szkód, o którym mowa w § 5 ust. 5, zawierającego informacje o powierzchni upraw, w których powstały szkody w wysokości co najmniej 70%, lub informacje o powierzchni upraw w szklarniach i tunelach foliowych, na której powstały szkody co najmniej na 70% powierzchni tych upraw, ” ,
+w pkt 2 lit. a otrzymuje brzmienie: „
+a)
+kopię protokołu oszacowania szkód, o którym mowa w § 5 ust. 5, zawierającego informacje o powierzchni upraw, w których powstały szkody w wysokości co najmniej 70%, lub informacje o powierzchni upraw w szklarniach i tunelach foliowych, na której powstały szkody co najmniej na 70% powierzchni tych upraw, ” ,
 c)
-ust. 8 otrzymuje brzmienie:
-„
+ust. 8 otrzymuje brzmienie: „
 8.
-Termin składania wniosków, o których mowa w ust. 4, oraz wysokość stawki pomocy, o której mowa w ust. 7, wraz ze wskazaniem niekorzystnego zjawiska atmosferycznego, wskutek którego powstała szkoda objęta pomocą, o której mowa w ust. 1, minister właściwy do spraw rolnictwa ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu, z tym że wysokość stawki ogłasza najpóźniej 14 dni przed rozpoczęciem terminu składania wniosków o przyznanie pomocy.
-” ;
+Termin składania wniosków, o których mowa w ust. 4, oraz wysokość stawki pomocy, o której mowa w ust. 7, wraz ze wskazaniem niekorzystnego zjawiska atmosferycznego, wskutek którego powstała szkoda objęta pomocą, o której mowa w ust. 1, minister właściwy do spraw rolnictwa ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu, z tym że wysokość stawki ogłasza najpóźniej 14 dni przed rozpoczęciem terminu składania wniosków o przyznanie pomocy. ” ;
 2)
-po § 13k dodaje się § 13l w brzmieniu:
-„
+po § 13k dodaje się § 13l w brzmieniu: „
 § 13l.
 1.
 W 2017 r. i 2018 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi świń:
@@ -61,10 +59,9 @@ będącemu mikroprzedsiębiorstwem, małym albo średnim przedsiębiorstwem w ro
 3)
 który utrzymywał świnie w siedzibie stada, której nadano numer na podstawie ustawy z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2017 r. poz. 546), zwanej dalej „ustawą”, położonej na terytorium Rzeczypospolitej Polskiej, na obszarze:
 a)
-wymienionym w części II lub III załącznika do decyzji wykonawczej Komisji 2014/709/UE z dnia 9 października 2014 r. w sprawie środków kontroli w zakresie zdrowia zwierząt w odniesieniu do afrykańskiego pomoru świń w niektórych państwach członkowskich i uchylającej decyzję wykonawczą 2014/178/UE (Dz. Urz. UE L 295 z 11.10.2014, str. 63, z późn. zm.) , zwanej dalej „decyzją 2014/709/UE”, lub
+wymienionym w części II lub III załącznika do decyzji wykonawczej Komisji 2014/709/UE z dnia 9 października 2014 r. w sprawie środków kontroli w zakresie zdrowia zwierząt w odniesieniu do afrykańskiego pomoru świń w niektórych państwach członkowskich i uchylającej decyzję wykonawczą 2014/178/UE (Dz. Urz. UE L 295 z 11.10.2014, str. 63, z późn. zm.Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 41 z 17.02.2015, str. 46, Dz. Urz. UE L 92 z 08.04.2015, str. 109, Dz. Urz. UE L 129 z 27.05.2015, str. 41, Dz. Urz. UE L 188 z 16.07.2015, str. 45, Dz. Urz. UE L 203 z 31.07.2015, str. 14, Dz. Urz. UE L 211 z 08.08.2015, str. 34, Dz. Urz. UE L 218 z 19.08.2015, str. 16, Dz. Urz. UE L 224 z 27.08.2015, str. 39, Dz. Urz. UE L 259 z 06.10.2015, str. 27, Dz. Urz. UE L 334 z 22.12.2015, str. 46, Dz. Urz. UE L 35 z 11.02.2016, str. 12, Dz. Urz. UE L 80 z 31.03.2016, str. 36, Dz. Urz. UE L 142 z 31.05.2016, str. 14, Dz. Urz. UE L 202 z 28.07.2016, str. 45, Dz. Urz. UE L 217 z 12.08.2016, str. 38, Dz. Urz. UE L 228 z 23.08.2016, str. 33, Dz. Urz. UE L 234 z 31.08.2016, str. 12, Dz. Urz. UE L 270 z 05.10.2016, str. 17, Dz. Urz. UE L 293 z 28.10.2016, str. 46, Dz. Urz. UE L 334 z 09.12.2016, str. 40, Dz. Urz. UE L 32 z 07.02.2017, str. 40, Dz. Urz. UE L 50 z 28.02.2017, str. 82, Dz. Urz. UE L 80 z 25.03.2017, str. 35, Dz. Urz. UE L 114 z 03.05.2017, str. 26, Dz. Urz. UE L 172 z 05.07.2017, str. 16 oraz Dz. Urz. UE L 182 z 13.07.2017, str. 42.) , zwanej dalej „decyzją 2014/709/UE”, lub
 b)
-zapowietrzonym lub zagrożonym w związku z wystąpieniem afrykańskiego pomoru świń, ustanowionym zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt
-zwanemu dalej „producentem świń”, który sprzedał te świnie z przeznaczeniem do uboju.
+zapowietrzonym lub zagrożonym w związku z wystąpieniem afrykańskiego pomoru świń, ustanowionym zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt – zwanemu dalej „producentem świń”, który sprzedał te świnie z przeznaczeniem do uboju.
 2.
 Ilekroć w przepisach rozporządzenia jest mowa o siedzibie stada producenta świń, rozumie się przez to wszystkie siedziby stad tego producenta położone na obszarze kwalifikującym się do pomocy, o którym mowa w ust. 1 pkt 3.
 3.
@@ -96,7 +93,7 @@ prowadzenia miejsc gromadzenia zwierząt, o którym mowa w art. 1 pkt 1 lit. e u
 d)
 prowadzenia rzeźni, lub
 e)
-prowadzenia zakładu przetwórczego w rozumieniu pkt 58 załącznika I do rozporządzenia Komisji (UE) nr 142/2011 z dnia 25 lutego 2011 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, oraz w sprawie wykonania dyrektywy Rady 97/78/WE w odniesieniu do niektórych próbek i przedmiotów zwolnionych z kontroli weterynaryjnych na granicach w myśl tej dyrektywy (Dz. Urz. UE L 54 z 26.02.2011, str. 1, z późn. zm.) , lub
+prowadzenia zakładu przetwórczego w rozumieniu pkt 58 załącznika I do rozporządzenia Komisji (UE) nr 142/2011 z dnia 25 lutego 2011 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, oraz w sprawie wykonania dyrektywy Rady 97/78/WE w odniesieniu do niektórych próbek i przedmiotów zwolnionych z kontroli weterynaryjnych na granicach w myśl tej dyrektywy (Dz. Urz. UE L 54 z 26.02.2011, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 198 z 30.07.2011, str. 3, Dz. Urz. UE L 314 z 14.11.2012, str. 5, Dz. Urz. UE L 326 z 24.11.2012, str. 3, Dz. Urz. UE L 98 z 06.04.2013, str. 1, Dz. Urz. UE L 164 z 18.06.2013, str. 11, Dz. Urz. UE L 201 z 26.07.2013, str. 31, Dz. Urz. UE L 57 z 27.02.2014, str. 21, Dz. Urz. UE L 138 z 13.05.2014, str. 52, Dz. Urz. UE L 165 z 04.06.2014, str. 33, Dz. Urz. UE L 3 z 07.01.2015, str. 10, Dz. Urz. UE L 28 z 02.02.2017, str. 1, Dz. Urz. UE L 119 z 09.05.2017, str. 1, Dz. Urz. UE L 138 z 25.05.2017, str. 92 oraz Dz. Urz. UE L 182 z 13.07.2017, str. 31 i 34.) , lub
 f)
 prowadzenia spalarni w rozumieniu pkt 56 załącznika I do rozporządzenia Komisji wymienionego w lit. e.
 5.
@@ -134,8 +131,7 @@ informację o świniach, na które zostały wystawione faktury, o których mowa 
 a)
 wadze żywej lub
 b)
-masie poubojowej ciepłej
-sporządzaną przez rzeźnię lub wystawcę faktury;
+masie poubojowej ciepłej – sporządzaną przez rzeźnię lub wystawcę faktury;
 3)
 zgodę, o której mowa w ust. 13 – w przypadku gdy gospodarstwo jest przedmiotem współposiadania;
 4)
@@ -155,10 +151,9 @@ W przypadku gdy na podstawie faktur lub faktur VAT RR nie można ustalić masy t
 12.
 W przypadku siedziby stada, znajdującej się na obszarze, o którym mowa w ust. 3 pkt 1 lit. b, w odniesieniu do producentów świń, którzy sprzedali świnie w 2014 r., 2015 r. lub 2016 r., liczba świń, do której jest udzielana pomoc, nie może być większa niż liczba świń sprzedanych przez producenta świń z przeznaczeniem do uboju obliczona jako średnia liczba świń sprzedanych przez tego producenta w latach 2014, 2015 i 2016 w okresie od dnia 1 lipca do dnia 31 grudnia, które zostały poddane ubojowi w rzeźni – według danych zawartych w rejestrze zwierząt gospodarskich.
 13.
-Jeżeli gospodarstwo jest przedmiotem współposiadania, pomoc jest udzielana temu ze współposiadaczy, co do którego pozostali współposiadacze wyrazili pisemną zgodę.
-” .
+Jeżeli gospodarstwo jest przedmiotem współposiadania, pomoc jest udzielana temu ze współposiadaczy, co do którego pozostali współposiadacze wyrazili pisemną zgodę. ” .
 § 2.
 Pomoc, o której mowa w § 13l ust. 1 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, może być udzielana od dnia ogłoszenia pozytywnej decyzji Komisji Europejskiej o zgodności ze wspólnym rynkiem pomocy publicznej określonej w tym przepisie.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912 oraz z 2017 r. poz. 166. 2) Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 41 z 17.02.2015, str. 46, Dz. Urz. UE L 92 z 08.04.2015, str. 109, Dz. Urz. UE L 129 z 27.05.2015, str. 41, Dz. Urz. UE L 188 z 16.07.2015, str. 45, Dz. Urz. UE L 203 z 31.07.2015, str. 14, Dz. Urz. UE L 211 z 08.08.2015, str. 34, Dz. Urz. UE L 218 z 19.08.2015, str. 16, Dz. Urz. UE L 224 z 27.08.2015, str. 39, Dz. Urz. UE L 259 z 06.10.2015, str. 27, Dz. Urz. UE L 334 z 22.12.2015, str. 46, Dz. Urz. UE L 35 z 11.02.2016, str. 12, Dz. Urz. UE L 80 z 31.03.2016, str. 36, Dz. Urz. UE L 142 z 31.05.2016, str. 14, Dz. Urz. UE L 202 z 28.07.2016, str. 45, Dz. Urz. UE L 217 z 12.08.2016, str. 38, Dz. Urz. UE L 228 z 23.08.2016, str. 33, Dz. Urz. UE L 234 z 31.08.2016, str. 12, Dz. Urz. UE L 270 z 05.10.2016, str. 17, Dz. Urz. UE L 293 z 28.10.2016, str. 46, Dz. Urz. UE L 334 z 09.12.2016, str. 40, Dz. Urz. UE L 32 z 07.02.2017, str. 40, Dz. Urz. UE L 50 z 28.02.2017, str. 82, Dz. Urz. UE L 80 z 25.03.2017, str. 35, Dz. Urz. UE L 114 z 03.05.2017, str. 26, Dz. Urz. UE L 172 z 05.07.2017, str. 16 oraz Dz. Urz. UE L 182 z 13.07.2017, str. 42. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 198 z 30.07.2011, str. 3, Dz. Urz. UE L 314 z 14.11.2012, str. 5, Dz. Urz. UE L 326 z 24.11.2012, str. 3, Dz. Urz. UE L 98 z 06.04.2013, str. 1, Dz. Urz. UE L 164 z 18.06.2013, str. 11, Dz. Urz. UE L 201 z 26.07.2013, str. 31, Dz. Urz. UE L 57 z 27.02.2014, str. 21, Dz. Urz. UE L 138 z 13.05.2014, str. 52, Dz. Urz. UE L 165 z 04.06.2014, str. 33, Dz. Urz. UE L 3 z 07.01.2015, str. 10, Dz. Urz. UE L 28 z 02.02.2017, str. 1, Dz. Urz. UE L 119 z 09.05.2017, str. 1, Dz. Urz. UE L 138 z 25.05.2017, str. 92 oraz Dz. Urz. UE L 182 z 13.07.2017, str. 31 i 34.
 

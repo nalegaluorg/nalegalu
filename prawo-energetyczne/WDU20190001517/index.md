@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym oraz ustawy – Prawo energetyczne
+# Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym oraz ustawy – Prawo energetyczne Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę wykonawczą Komisji (UE) 2018/1581 z dnia 19 października 2018 r. zmieniającą dyrektywę Rady 2009/119/WE w odniesieniu do metod obliczania obowiązkowej ilości zapasów (Dz. Urz. UE L 263 z 22.10.2018, str. 57).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,40 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-19 |
 | Data wydania | 2019-08-12 |
-| Wejście w życie | 2019-08-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001517) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1517/text.pdf) |
 
+Przepisy epizodyczne
+
 **Art. 1.** W ustawie z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2018 r. poz. 1323 oraz z 2019 r. poz. 1495) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: dotychczasową treść oznacza się jako ust. 1, w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) produkty naftowe: a) kondensat gazu ziemnego (NGL), b) półprodukty rafineryjne, c) inne węglowodory, d) gaz rafineryjny, e) etan, f) gaz płynny (LPG), g) benzyny silnikowe, h) benzyny lotnicze, i) paliwa typu benzynowego do silników odrzutowych, j) paliwa typu nafty do silników odrzutowych, k) inne rodzaje nafty, l) oleje napędowe, w tym lekkie oleje opałowe, m) ciężkie oleje opałowe, n) benzyny lakowe i przemysłowe, o) smary, p) asfalty, q) parafiny, r) koks naftowy, s) inne produkty – określone w załączniku A rozdział 3 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1099/2008 z dnia 22 października 2008 r. w sprawie statystyki energii (Dz. Urz. UE L 304 z 14.11.2008, str. 1, z późn. zm.); ” , – pkt 3 otrzymuje brzmienie: „ 3) paliwa – produkty naftowe określone w pkt 2 lit. f-m, w tym również zawierające dodatki bez względu na ich ilość; ” , – w pkt 29 kropkę zastępuje się średnikiem i dodaje się pkt 30 w brzmieniu: „ 30) magazyn – zbiorniki magazynowe wraz z instalacjami przeładunkowymi wykorzystywane do przechowywania oraz przeładunku paliw, z wyłączeniem stacji paliw ciekłych, lub ropy naftowej, a także bezzbiornikowe pojemności wykorzystywane do magazynowania ropy naftowej lub paliw. ” , dodaje się ust. 2 w brzmieniu: „
+- **1)** w art. 2: dotychczasową treść oznacza się jako ust. 1, w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+
+- **2)** produkty naftowe: kondensat gazu ziemnego (NGL), półprodukty rafineryjne, inne węglowodory, gaz rafineryjny, etan, gaz płynny (LPG), benzyny silnikowe, benzyny lotnicze, paliwa typu benzynowego do silników odrzutowych, paliwa typu nafty do silników odrzutowych, inne rodzaje nafty, oleje napędowe, w tym lekkie oleje opałowe, ciężkie oleje opałowe, benzyny lakowe i przemysłowe, smary, asfalty, parafiny, koks naftowy, inne produkty – określone w załączniku A rozdział 3 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1099/2008 z dnia 22 października 2008 r. w sprawie statystyki energii (Dz. Urz. UE L 304 z 14.11.2008, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 258 z 30.09.2010, str. 1, Dz. Urz. UE L 50 z 22.02.2013, str. 1, Dz. Urz. UE L 131 z 01.05.2014, str. 1, Dz. Urz. UE L 235 z 09.09.2015, str. 24, Dz. Urz. UE L 292 z 10.11.2017, str. 3 oraz Dz. Urz. UE L 279 z 09.11.2018, str. 38.); ” , pkt 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
+    - **m)**
+    - **n)**
+    - **o)**
+    - **p)**
+    - **q)**
+    - **r)**
+    - **s)**
+
+- **3)** paliwa – produkty naftowe określone w pkt 2 lit. f-m, w tym również zawierające dodatki bez względu na ich ilość; ” , w pkt 29 kropkę zastępuje się średnikiem i dodaje się pkt 30 w brzmieniu: „
+- **30)** magazyn – zbiorniki magazynowe wraz z instalacjami przeładunkowymi wykorzystywane do przechowywania oraz przeładunku paliw, z wyłączeniem stacji paliw ciekłych, lub ropy naftowej, a także bezzbiornikowe pojemności wykorzystywane do magazynowania ropy naftowej lub paliw. ” , dodaje się ust. 2 w brzmieniu: „
     - **c)**
 
 2. Ilekroć w ustawie jest mowa o właścicielu magazynu, należy przez to rozumieć także podmiot magazynujący paliwa lub ropę naftową na własne potrzeby lub na rzecz innych podmiotów na podstawie umowy, o której mowa w art. 10 ust. 1 lub art. 11 ust. 1, w podziemnym magazynie przeznaczonym do bezzbiornikowego magazynowania ropy naftowej lub paliw. ” ;
@@ -169,8 +194,13 @@ source: "eli-html"
 
 - **17)** w art. 44 w ust. 1 pkt 4 otrzymuje brzmienie: „
 - **4)** wykaz podmiotów o szczególnym znaczeniu dla funkcjonowania państwa lub gospodarki, ochrony życia, zdrowia lub bezpieczeństwa obywateli, mających prawo pierwszeństwa do zaopatrywania się w paliwa pochodzące z zapasów obowiązkowych ropy naftowej lub paliw, mających siedzibę na obszarze ich właściwości, wraz z przewidywaną wielkością zapotrzebowania miesięcznego tych podmiotów na paliwa z uwzględnieniem podziału na poszczególne gatunki paliw. ” ;
-- **18)** w art. 63: w ust. 1: – pkt 2a otrzymuje brzmienie: „ 2a) będąc właścicielem instalacji magazynowej lub magazynu, dopuścił do niespełnienia przez daną instalację magazynową lub magazyn, w których są przechowywane zapasy interwencyjne, wymagań, o których mowa w art. 3 ust. 12–14; ” , – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) nie przekaże w terminie informacji, o których mowa w art. 22a ust. 1, albo przedstawi nieprawdziwe informacje na temat realizowanych zmian infrastruktury sektora naftowego w zakresie, o którym mowa w art. 22a ust. 1; ” , – pkt 6a otrzymuje brzmienie: „ 6a) nie przekaże w terminie, o którym mowa w art. 31 ust. 4, procedur, o których mowa w art. 31 ust. 1, potwierdzenia ich aktualności lub nie dokona ich aktualizacji w terminie, o którym mowa w art. 31 ust. 5; ” , – po pkt 6a dodaje się pkt 6aa w brzmieniu: „ 6aa) nie dopełnia w terminie obowiązku, o którym mowa w art. 31 ust. 4a; ” , – pkt 18b otrzymuje brzmienie: „ 18b) będąc właścicielem magazynu, w którym utrzymywane są zapasy interwencyjne, lub związanej z tym magazynem infrastruktury przesyłowej, utrudnia przeprowadzenie lub nie przeprowadza w terminie próby technicznej, o której mowa w art. 29d ust. 1; ” , w ust. 2b wyrazy „art. 3 ust. 12 i 13” zastępuje się wyrazami „art. 3 ust. 12–14”, ust. 4a otrzymuje brzmienie: „
+- **18)** w art. 63: w ust. 1: pkt 2a otrzymuje brzmienie: „
     - **a)**
+
+- **2a)** będąc właścicielem instalacji magazynowej lub magazynu, dopuścił do niespełnienia przez daną instalację magazynową lub magazyn, w których są przechowywane zapasy interwencyjne, wymagań, o których mowa w art. 3 ust. 12–14; ” , po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** nie przekaże w terminie informacji, o których mowa w art. 22a ust. 1, albo przedstawi nieprawdziwe informacje na temat realizowanych zmian infrastruktury sektora naftowego w zakresie, o którym mowa w art. 22a ust. 1; ” , pkt 6a otrzymuje brzmienie: „
+- **6a)** nie przekaże w terminie, o którym mowa w art. 31 ust. 4, procedur, o których mowa w art. 31 ust. 1, potwierdzenia ich aktualności lub nie dokona ich aktualizacji w terminie, o którym mowa w art. 31 ust. 5; ” , po pkt 6a dodaje się pkt 6aa w brzmieniu: „ 6aa) nie dopełnia w terminie obowiązku, o którym mowa w art. 31 ust. 4a; ” , pkt 18b otrzymuje brzmienie: „
+- **18b)** będąc właścicielem magazynu, w którym utrzymywane są zapasy interwencyjne, lub związanej z tym magazynem infrastruktury przesyłowej, utrudnia przeprowadzenie lub nie przeprowadza w terminie próby technicznej, o której mowa w art. 29d ust. 1; ” , w ust. 2b wyrazy „art. 3 ust. 12 i 13” zastępuje się wyrazami „art. 3 ust. 12–14”, ust. 4a otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -189,7 +219,7 @@ source: "eli-html"
 
 - **21)** po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „
 
-#### Rozdział 8a Przepisy epizodyczne
+#### Rozdział 8a
 
 **Art. 70a.**
 
@@ -227,6 +257,6 @@ source: "eli-html"
 **Art. 8.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 2 lit. a, pkt 3 lit. b, pkt 6 i 9, które wchodzą w życie z dniem 1 stycznia 2020 r.;
-- **2)** art. 1 pkt 7, który wchodzi w życie z dniem 30 czerwca 2029 r.
+- **2)** art. 1 pkt 7, który wchodzi w życie z dniem 30 czerwca 2029 r. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę wykonawczą Komisji (UE) 2018/1581 z dnia 19 października 2018 r. zmieniającą dyrektywę Rady 2009/119/WE w odniesieniu do metod obliczania obowiązkowej ilości zapasów (Dz. Urz. UE L 263 z 22.10.2018, str. 57). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 258 z 30.09.2010, str. 1, Dz. Urz. UE L 50 z 22.02.2013, str. 1, Dz. Urz. UE L 131 z 01.05.2014, str. 1, Dz. Urz. UE L 235 z 09.09.2015, str. 24, Dz. Urz. UE L 292 z 10.11.2017, str. 3 oraz Dz. Urz. UE L 279 z 09.11.2018, str. 38.
 
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji i Naukiz dnia 12 stycznia 2021 r. zmieniające rozporządzenie w sprawie statutu Narodowej Agencji Wymiany Akademickiej
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 12 stycznia 2021 r. zmieniające rozporządzenie w sprawie statutu Narodowej Agencji Wymiany Akademickiej Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-01-12 |
 | Data wydania | 2021-01-15 |
-| Wejście w życie | 2021-01-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000096) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/96/text.pdf) |
 
@@ -39,28 +38,21 @@ w pkt 7 wyrazy „ministra właściwego do spraw szkolnictwa wyższego lub do mi
 2)
 w § 6:
 a)
-po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
 Posiedzenia Rady mogą odbywać się przy użyciu środków komunikacji elektronicznej, zapewniających w szczególności:
 1)
 transmisję posiedzenia w czasie rzeczywistym,
 2)
-wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy posiedzenia mogą wypowiadać się w jego toku
-z zachowaniem niezbędnych zasad bezpieczeństwa.
-” ,
+wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy posiedzenia mogą wypowiadać się w jego toku – z zachowaniem niezbędnych zasad bezpieczeństwa. ” ,
 b)
-po ust. 3 dodaje się ust. 3a w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a w brzmieniu: „
 3a.
-W uzasadnionym przypadku przewodniczący Rady może zwołać posiedzenie Rady w terminie późniejszym niż określony w ust. 3.
-” ,
+W uzasadnionym przypadku przewodniczący Rady może zwołać posiedzenie Rady w terminie późniejszym niż określony w ust. 3. ” ,
 c)
-po ust. 5 dodaje się ust. 5a w brzmieniu:
-„
+po ust. 5 dodaje się ust. 5a w brzmieniu: „
 5a.
-W uzasadnionych przypadkach przewodniczący Rady może zwołać posiedzenie Rady i przekazać dokumenty wymienione w ust. 5, z pominięciem terminu, o którym mowa w tym przepisie.
-” ;
+W uzasadnionych przypadkach przewodniczący Rady może zwołać posiedzenie Rady i przekazać dokumenty wymienione w ust. 5, z pominięciem terminu, o którym mowa w tym przepisie. ” ;
 3)
 w § 7 i w § 9 w ust. 3 po wyrazach „do spraw szkolnictwa wyższego” dodaje się wyrazy „i nauki”;
 4)
@@ -68,13 +60,16 @@ w § 10:
 a)
 w ust. 1 w pkt 1:
 – po lit. f dodaje się lit. fa w brzmieniu: „ fa) współpracy międzynarodowej, ” ,
-– lit. i otrzymuje brzmienie: „ i) organizacyjnych, ” ,
-– po lit. i dodaje się lit. ia w brzmieniu: „ ia) administracyjnych, ” ,
+lit. i otrzymuje brzmienie: „
+i)
+organizacyjnych, ” ,
+po lit. i dodaje się lit. ia w brzmieniu: „
+ia)
+administracyjnych, ” ,
 b)
 w ust. 2 i w ust. 3 w pkt 1 wyrazy „lit. a-i” zastępuje się wyrazami „lit. a-ia”;
 5)
 w § 11 uchyla się ust. 2.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 

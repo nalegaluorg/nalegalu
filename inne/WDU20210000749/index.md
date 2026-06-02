@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 20 kwietnia 2021 r. zmieniające rozporządzenie w sprawie szczegółowych kryteriów wyboru ofert w postępowaniu w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej
+# Rozporządzenie Ministra Zdrowiaz dnia 20 kwietnia 2021 r. zmieniające rozporządzenie w sprawie szczegółowych kryteriów wyboru ofert w postępowaniu w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-20 |
 | Data wydania | 2021-04-23 |
-| Wejście w życie | 2021-05-08 |
 | Ostatnia zmiana | 2025-03-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000749) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/749/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 148 ust. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 148 ust. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97, 159 i 694.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 5 sierpnia 2016 r. w sprawie szczegółowych kryteriów wyboru ofert w postępowaniu w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 1372, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Ministra Zdrowia z dnia 5 sierpnia 2016 r. w sprawie szczegółowych kryteriów wyboru ofert w postępowaniu w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 1372, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 1555, z 2017 r. poz. 498, 852, 1279, 2364 i 2484, z 2018 r. poz. 385 i 1383, z 2019 r. poz. 832, 1887 i 2316, z 2020 r. poz. 1841 i 2428 oraz z 2021 r. poz. 307 i 637.) wprowadza się następujące zmiany:
 1)
 w załączniku nr 1 do rozporządzenia w tabeli „PODSTAWOWA OPIEKA ZDROWOTNA – NOCNA I ŚWIĄTECZNA OPIEKA ZDROWOTNA”:
 a)
@@ -70,8 +69,11 @@ w załączniku nr 6 do rozporządzenia w tabeli nr 2 „ŚWIADCZENIA PIELĘGNACY
 w załączniku nr 7 do rozporządzenia:
 a)
 w tabeli nr 1 „LECZENIE STOMATOLOGICZNE” w części 2:
-– tytuł otrzymuje brzmienie: „ 2. Przedmiot postępowania: Świadczenia ogólnostomatologiczne dla dzieci i młodzieży/Świadczenia ogólnostomatologiczne dla dzieci i młodzieży udzielane w gabinecie dentystycznym zlokalizowanym w szkole ” ,
-– w lp. II „Kompleksowość” w pkt 1 „Sposób wykonania umowy” po ppkt 1.2 dodaje się ppkt 1.3 i ppkt 1.4 w brzmieniu: 1.3. Realizacja umowy w zakresie: świadczenia ogólnostomatologiczne dla dzieci i młodzieży. 12 Dotyczy przedmiotu postępowania: Świadczenia ogólnostomatologiczne dla dzieci i młodzieży udzielane w gabinecie dentystycznym zlokalizowanym w szkole 1.4. Realizacja umowy w zakresie: świadczenia ogólnostomatologiczne dla dzieci i młodzieży udzielane w gabinecie dentystycznym zlokalizowanym w szkole. 12 Dotyczy przedmiotu postępowania: Świadczenia ogólnostomatologiczne dla dzieci i młodzieży
+tytuł otrzymuje brzmienie: „
+2.
+Przedmiot postępowania: Świadczenia ogólnostomatologiczne dla dzieci i młodzieży/Świadczenia ogólnostomatologiczne dla dzieci i młodzieży udzielane w gabinecie dentystycznym zlokalizowanym w szkole ” ,
+w lp. II „Kompleksowość” w pkt 1 „Sposób wykonania umowy” po ppkt 1.2 dodaje się ppkt 1.3 i ppkt 1.4 w brzmieniu:
+1.3. Realizacja umowy w zakresie: świadczenia ogólnostomatologiczne dla dzieci i młodzieży. 12 Dotyczy przedmiotu postępowania: Świadczenia ogólnostomatologiczne dla dzieci i młodzieży udzielane w gabinecie dentystycznym zlokalizowanym w szkole 1.4. Realizacja umowy w zakresie: świadczenia ogólnostomatologiczne dla dzieci i młodzieży udzielane w gabinecie dentystycznym zlokalizowanym w szkole. 12 Dotyczy przedmiotu postępowania: Świadczenia ogólnostomatologiczne dla dzieci i młodzieży
 – w lp. III „Dostępność” w pkt 1 „Organizacja udzielania świadczeń” uchyla się ppkt 1.3,
 b)
 w tabeli nr 2 „LECZENIE STOMATOLOGICZNE – CZĘŚĆ WSPÓLNA” w części V „Inne” uchyla się lp. 2;
@@ -102,6 +104,5 @@ Do postępowań w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowot
 § 3.
 W postępowaniu w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej w przedmiocie: świadczenia ogólnostomatologiczne dla dzieci i młodzieży udzielane w gabinecie dentystycznym zlokalizowanym w szkole, które jest przeprowadzane w 2021 r. po raz pierwszy na danym obszarze, do oferenta, który w dniu złożenia oferty realizuje na podstawie umowy o udzielanie świadczeń zdrowotnych w zakresie: świadczenia ogólnostomatologiczne dla dzieci i młodzieży proces leczenia świadczeniobiorców w gabinecie stomatologicznym zlokalizowanym w szkole, szkole specjalnej lub innej placówce specjalnej w ramach obszaru, którego dotyczy postępowanie, przepisy określone w tabeli nr 2 „LECZENIE STOMATOLOGICZNE – CZĘŚĆ WSPÓLNA” w części IV „Ciągłość” załącznika nr 7 do rozporządzenia zmienianego w § 1, stosuje się odpowiednio.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 1–6, pkt 7 lit. b i pkt 8–16, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97, 159 i 694. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 1555, z 2017 r. poz. 498, 852, 1279, 2364 i 2484, z 2018 r. poz. 385 i 1383, z 2019 r. poz. 832, 1887 i 2316, z 2020 r. poz. 1841 i 2428 oraz z 2021 r. poz. 307 i 637.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 1–6, pkt 7 lit. b i pkt 8–16, które wchodzą w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97, 159 i 694. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 1555, z 2017 r. poz. 498, 852, 1279, 2364 i 2484, z 2018 r. poz. 385 i 1383, z 2019 r. poz. 832, 1887 i 2316, z 2020 r. poz. 1841 i 2428 oraz z 2021 r. poz. 307 i 637.
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-28 |
 | Data wydania | 2005-09-20 |
-| Wejście w życie | 2005-10-05 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051801492) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1492/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 93, poz. 889, Nr 191, poz. 1956 i Nr 243, poz. 2442 oraz z 2005 r. Nr 157, poz. 1316 i Nr 178, poz. 1479.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 ust. 1 otrzymuje brzmienie: „
 
@@ -49,14 +48,18 @@ source: "eli-html"
 
 - **6)** w art. 9 ust. 3 otrzymuje brzmienie: „
 
-3. Zakazu, o którym mowa w ust. 1 pkt 5, nie orzeka się, jeżeli jego orzeczenie mogłoby doprowadzić do upadłości albo likwidacji podmiotu zbiorowego lub zwolnień, o których mowa w art. 1 ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. Nr 90, poz. 844, z późn. zm.). ” ;
+3. Zakazu, o którym mowa w ust. 1 pkt 5, nie orzeka się, jeżeli jego orzeczenie mogłoby doprowadzić do upadłości albo likwidacji podmiotu zbiorowego lub zwolnień, o których mowa w art. 1 ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. Nr 90, poz. 844, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 213, poz. 2081 i Nr 223, poz. 2217, z 2004 r. Nr 96, poz. 959 oraz z 2005 r. Nr 62, poz. 551.). ” ;
 
 - **7)** art. 10 otrzymuje brzmienie: „
 
 **Art. 10.** Orzekając karę pieniężną, zakazy lub podanie wyroku do publicznej wiadomości, sąd uwzględnia w szczególności wagę nieprawidłowości w wyborze lub nadzorze, o których mowa w art. 5, rozmiary korzyści uzyskanej lub możliwej do uzyskania przez podmiot zbiorowy, jego sytuację majątkową, społeczne następstwa ukarania oraz wpływ ukarania na dalsze funkcjonowanie podmiotu zbiorowego. ” ;
 
-- **8)** w art. 16 w ust. 1: w pkt 1: – lit. a otrzymuje brzmienie: „ a) art. 296, art. 297–306 oraz art. 308 Kodeksu karnego, ” , – lit. b otrzymuje brzmienie: „ b) art. 224–232 ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.), ” , – lit. e otrzymuje brzmienie: „ e) art. 303–305 ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2003 r. Nr 119, poz. 1117, z późn. zm.), ” , – lit. g otrzymuje brzmienie: „ g) art. 33 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2004 r. Nr 229, poz. 2315), ” , pkt 3 otrzymuje brzmienie: „
+- **8)** w art. 16 w ust. 1: w pkt 1: lit. a otrzymuje brzmienie: „ art. 296, art. 297–306 oraz art. 308 Kodeksu karnego, ” , lit. b otrzymuje brzmienie: „ art. 224–232 ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959 oraz z 2005 r. Nr 83, poz. 719, Nr 143, poz. 1204 i Nr 167, poz. 1396.), ” , lit. e otrzymuje brzmienie: „ art. 303–305 ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2003 r. Nr 119, poz. 1117, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 33, poz. 286 oraz z 2005 r. Nr 10, poz. 68, Nr 163, poz. 1362 i Nr 167, poz. 1398.), ” , lit. g otrzymuje brzmienie: „ art. 33 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2004 r. Nr 229, poz. 2315), ” , pkt 3 otrzymuje brzmienie: „
     - **a)**
+    - **a)**
+    - **b)**
+    - **e)**
+    - **g)**
     - **b)**
 
 - **3)** łapownictwa i płatnej protekcji, określone w art. 228–230a, art. 250a, art. 296a i art. 296b Kodeksu karnego; ” , pkt 7 otrzymuje brzmienie: „
@@ -65,7 +68,7 @@ source: "eli-html"
 - **7)** przeciwko wolności seksualnej i obyczajności, określone w art. 199–200 i art. 203–204 Kodeksu karnego; ” , pkt 10 otrzymuje brzmienie: „
     - **d)**
 
-- **10)** określone w art. 23–24b ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. Nr 153, poz. 1503, z późn. zm.); ” ;
+- **10)** określone w art. 23–24b ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. Nr 153, poz. 1503, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 162, poz. 1693 i Nr 172, poz. 1804 oraz z 2005 r. Nr 10, poz. 68.); ” ;
 - **9)** uchyla się art. 17–20;
 - **10)** art. 21 otrzymuje brzmienie: „
 
@@ -105,5 +108,5 @@ source: "eli-html"
 
 6. W razie niewyznaczenia w terminie innej osoby, o której mowa w ust. 5, albo gdy nie działają organy uprawnione do reprezentowania podmiotu zbiorowego, sąd wyznacza temu podmiotowi obrońcę z urzędu, spośród osób wymienionych w ust. 2. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 93, poz. 889, Nr 191, poz. 1956 i Nr 243, poz. 2442 oraz z 2005 r. Nr 157, poz. 1316 i Nr 178, poz. 1479. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 213, poz. 2081 i Nr 223, poz. 2217, z 2004 r. Nr 96, poz. 959 oraz z 2005 r. Nr 62, poz. 551. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959 oraz z 2005 r. Nr 83, poz. 719, Nr 143, poz. 1204 i Nr 167, poz. 1396. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 33, poz. 286 oraz z 2005 r. Nr 10, poz. 68, Nr 163, poz. 1362 i Nr 167, poz. 1398. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 162, poz. 1693 i Nr 172, poz. 1804 oraz z 2005 r. Nr 10, poz. 68.
 

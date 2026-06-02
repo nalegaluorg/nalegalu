@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-08 |
 | Data wydania | 2013-12-13 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001543) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1543/text.pdf) |
 
@@ -31,7 +30,7 @@ source: "eli-html"
 - **1)** zadań inwestycyjnych związanych z poprawą bezpieczeństwa ruchu drogowego na drogach krajowych;
 - **2)** budowy lub przebudowy dróg krajowych. ” .
 
-**Art. 2.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 oraz z 2013 r. poz. 433 i 843.) wprowadza się następujące zmiany:
 
 - **1)** w art. 39b: w ust. 1 po pkt 11d dodaje się pkt 11e w brzmieniu: „
     - **a)**
@@ -48,5 +47,5 @@ source: "eli-html"
 - **3)** w art. 39l pkt 5 otrzymuje brzmienie: „
 - **5)** sposób gromadzenia w ramach Funduszu środków, o których mowa w art. 39n ust. 2 pkt 2, oraz wpływów, o których mowa w art. 39b ust. 1 pkt 11b i 11e; ” .
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2014 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2014 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 oraz z 2013 r. poz. 433 i 843.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-03-10 |
 | Data wydania | 2006-04-13 |
-| Wejście w życie | 2006-04-13 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060630441) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/441/text.pdf) |
 

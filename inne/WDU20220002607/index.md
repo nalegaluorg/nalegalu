@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 11 grudnia 2022 r. w sprawie udzielania pomocy na inwestycje wspierające efektywność energetyczną w ramach regionalnych programów na lata 2021–2027
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 11 grudnia 2022 r. w sprawie udzielania pomocy na inwestycje wspierające efektywność energetyczną w ramach regionalnych programów na lata 2021–2027 Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-11 |
 | Data wydania | 2022-12-14 |
-| Wejście w życie | 2022-12-29 |
 | Ostatnia zmiana | 2025-02-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002607) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2607/text.pdf) |
 
@@ -35,8 +34,7 @@ pomocy inwestycyjnej na środki wspierające efektywność energetyczną,
 2)
 pomocy inwestycyjnej na projekty wspierające efektywność energetyczną w budynkach,
 3)
-pomocy na badania środowiska
-zwanych dalej „pomocą”, do których mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”, a także podmioty udzielające tej pomocy.
+pomocy na badania środowiska – zwanych dalej „pomocą”, do których mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39., zwanego dalej „rozporządzeniem nr 651/2014”, a także podmioty udzielające tej pomocy.
 § 2.
 1.
 Przepisów rozporządzenia nie stosuje się do pomocy, o której mowa w art. 1 ust. 2 lit. c i d, ust. 3 lit. a, c i d, ust. 4 lit. c oraz ust. 5 rozporządzenia nr 651/2014.
@@ -62,7 +60,7 @@ Pomoc nie może zostać udzielona ani wypłacona przedsiębiorcy, na którym ci�
 1.
 Podmiotami udzielającymi pomocy, o której mowa w § 1 pkt 1 i 3, są instytucje zarządzające, instytucje pośredniczące lub instytucje wdrażające, o których mowa w art. 30 ust. 2 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027, zwanej dalej „ustawą”.
 2.
-Podmiotami udzielającymi pomocy, o której mowa w § 1 pkt 1 i 3, mogą być również podmioty wdrażające instrument finansowy w rozumieniu art. 2 pkt 22 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm.), zwanego dalej „rozporządzeniem nr 2021/1060”.
+Podmiotami udzielającymi pomocy, o której mowa w § 1 pkt 1 i 3, mogą być również podmioty wdrażające instrument finansowy w rozumieniu art. 2 pkt 22 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 261 z 22.07.2021, str. 58 oraz Dz. Urz. UE L 241 z 19.09.2022, str. 16., zwanego dalej „rozporządzeniem nr 2021/1060”.
 3.
 Podmiotami udzielającymi pomocy, o której mowa w § 1 pkt 2, są podmioty wdrażające instrument finansowy w rozumieniu art. 2 pkt 22 rozporządzenia nr 2021/1060.
 § 6.
@@ -146,8 +144,7 @@ Pomoc, o której mowa w § 1:
 1)
 pkt 1 i 3 – w przypadku, o którym mowa w art. 4 ust. 1 lit. s rozporządzenia nr 651/2014,
 2)
-pkt 2 – w przypadku, o którym mowa w art. 4 ust. 1 lit. t rozporządzenia nr 651/2014
-stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielona po zatwierdzeniu tej pomocy przez Komisję Europejską.
+pkt 2 – w przypadku, o którym mowa w art. 4 ust. 1 lit. t rozporządzenia nr 651/2014 – stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielona po zatwierdzeniu tej pomocy przez Komisję Europejską.
 § 16.
 Pomoc może być udzielona, jeżeli przedsiębiorca złożył wniosek o udzielenie pomocy, zwany dalej „wnioskiem”, zgodnie z art. 6 ust. 2 zdanie pierwsze rozporządzenia nr 651/2014.
 § 17.
@@ -166,6 +163,5 @@ Po przeprowadzeniu oceny wniosku pomoc może być udzielona przedsiębiorcy na p
 § 18.
 Pomoc jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze, w związku z art. 59 rozporządzenia nr 651/2014.
 § 19.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 261 z 22.07.2021, str. 58 oraz Dz. Urz. UE L 241 z 19.09.2022, str. 16.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 261 z 22.07.2021, str. 58 oraz Dz. Urz. UE L 241 z 19.09.2022, str. 16.
 

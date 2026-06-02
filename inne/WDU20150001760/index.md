@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-20 |
 | Data wydania | 2015-11-02 |
-| Wejście w życie | 2015-11-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001760) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1760/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 378, 1130 i 1240.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom pomocy de minimis oraz pomocy publicznej, w ramach następujących programów Europejskiej Współpracy Terytorialnej na lata 2014–2020:
 1)
@@ -35,8 +34,7 @@ Programu Współpracy Transgranicznej Interreg V-A Polska – Słowacja (2014–
 2)
 Programu Współpracy Interreg Polska – Saksonia 2014–2020,
 3)
-Programu Współpracy Interreg V-A – Polska-Dania-Niemcy-Litwa-Szwecja (Południowy Bałtyk) 2014–2020
-a także podmioty udzielające tej pomocy.
+Programu Współpracy Interreg V-A – Polska-Dania-Niemcy-Litwa-Szwecja (Południowy Bałtyk) 2014–2020 – a także podmioty udzielające tej pomocy.
 § 2.
 Pomoc de minimis jest udzielana na zasadach określonych w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1), zwanym dalej „rozporządzeniem nr 1407/2013”.
 § 3.
@@ -67,8 +65,7 @@ Podmiotem udzielającym pomocy de minimis ipomocy publicznej może być:
 1)
 instytucja zarządzająca,
 2)
-beneficjent
-o których mowa w art. 27 ust. 2 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, zwanej dalej „ustawą”.
+beneficjent – o których mowa w art. 27 ust. 2 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, zwanej dalej „ustawą”.
 2.
 W przypadku gdy podmiotem udzielającym pomocy de minimis lub pomocy publicznej jest beneficjent, pomoc de minimis ipomoc publiczna może być udzielona, jeżeli możliwość jej udzielenia przewiduje umowa o dofinansowanie projektu, o której mowa w art. 2 pkt 26 lit. c ustawy.
 § 6.
@@ -303,7 +300,7 @@ inne informacje, niezbędne do dokonania oceny wniosku, wskazane przez podmiot u
 3.
 Przedsiębiorca ubiegający się o pomoc de minimis do wniosku załącza dodatkowo:
 1)
-kopie zaświadczeń o pomocy de minimis lub zaświadczeń o pomocy de minimis w rolnictwie lub zaświadczeń o pomocy de minimis w rybołówstwie, albo oświadczenie o nieotrzymaniu pomocy de minimis , o których mowa w art. 37 ust. 1 pkt 1 oraz ust. 2 pkt 1 i 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.);
+kopie zaświadczeń o pomocy de minimis lub zaświadczeń o pomocy de minimis w rolnictwie lub zaświadczeń o pomocy de minimis w rybołówstwie, albo oświadczenie o nieotrzymaniu pomocy de minimis , o których mowa w art. 37 ust. 1 pkt 1 oraz ust. 2 pkt 1 i 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.);
 2)
 informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy, o której mowa w pkt 1.
 4.
@@ -320,12 +317,11 @@ Przedsiębiorca przed podpisaniem umowy przedstawia podmiotowi udzielającemu po
 1)
 kopie zaświadczeń o pomocy de minimis lub zaświadczeń o pomocy de minimis w rolnictwie lub zaświadczeń o pomocy de minimis w rybołówstwie, albo oświadczenie o nieotrzymaniu pomocy de minimis , o których mowa w art. 37 ust. 1 pkt 1 oraz ust. 2 pkt 1 i 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej,
 2)
-informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy, o której mowa w pkt 1
-dotyczące okresu od dnia złożenia wniosku do dnia podpisania umowy.
+informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy, o której mowa w pkt 1 – dotyczące okresu od dnia złożenia wniosku do dnia podpisania umowy.
 § 24.
 Pomoc de minimis jest udzielana do końca okresu, o którym mowa w art. 7 ust. 4 w związku z art. 8 rozporządzenia nr 1407/2013.
 § 25.
 Pomoc publiczna jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze w związku z art. 59 rozporządzenia nr 651/2014.
 § 26.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 378, 1130 i 1240. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.
 

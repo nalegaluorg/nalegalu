@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 24 czerwca 2016 r. w sprawie sposobu przesyłania za pomocą środków komunikacji elektronicznej ksiąg podatkowych oraz wymagań technicznych dla informatycznych nośników danych, na których te księgi mogą być zapisane i przekazywane
+# Rozporządzenie Ministra Finansówz dnia 24 czerwca 2016 r. w sprawie sposobu przesyłania za pomocą środków komunikacji elektronicznej ksiąg podatkowych oraz wymagań technicznych dla informatycznych nośników danych, na których te księgi mogą być zapisane i przekazywane Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-24 |
 | Data wydania | 2016-06-29 |
-| Wejście w życie | 2016-07-01 |
 | Ostatnia zmiana | 2025-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000932) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/932/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Sposób opatrywania ksiąg kwalifikowanym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu
 Treść rozporządzenia
-Na podstawie art. 193a § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 193a § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184 oraz z 2016 r. poz. 195, 615 i 846.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -63,8 +62,7 @@ dostosowane do przechowywania w temperaturze 18–22oC przy wilgotności względ
 2.
 Informatyczne nośniki danych, o których mowa w ust. 1, powinny zapewniać możliwość wiernego odczytywania danych w urządzeniach produkowanych przez różnych producentów, właściwych dla danego typu nośnika.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184 oraz z 2016 r. poz. 195, 615 i 846.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184 oraz z 2016 r. poz. 195, 615 i 846.
 Załącznik – Sposób opatrywania ksiąg kwalifikowanym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu
 Przyjmuje się następujące zasady opatrywania kwalifikowanym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu ksiąg:
 1)

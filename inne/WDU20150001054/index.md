@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378 oraz z 2015 r. poz. 1045) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 18 października 2006 r. w sprawie udzielania ochrony i pomocy świadkom koronnym i innym uprawnionym osobom (Dz. U. Nr 201, poz. 1480), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 6 października 2014 r. zmieniającym rozporządzenie w sprawie udzielania ochrony i pomocy świadkom koronnym i innym uprawnionym osobom (Dz. U. poz. 1369).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 6 października 2014 r. zmieniającego rozporządzenie w sprawie udzielania ochrony i pomocy świadkom koronnym i innym uprawnionym osobom (Dz. U. poz. 1369), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 6 października 2014 r. zmieniającego rozporządzenie w sprawie udzielania ochrony i pomocy świadkom koronnym i innym uprawnionym osobom (Dz. U. poz. 1369), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 9 października 2014 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 9 października 2014 r. ” .
 Załącznik – Rozporządzenie Rady Ministrów z dnia 18 października 2006 r. w sprawie udzielania ochrony i pomocy świadkom koronnym i innym uprawnionym osobom
 Na podstawie art. 22 ustawy z dnia 25 czerwca 1997 r. o świadku koronnym (Dz. U. z 2014 r. poz. 1801) zarządza się, co następuje:
 § 1.
@@ -54,15 +52,15 @@ Wniosek o udzielenie ochrony lub pomocy, o którym mowa w art. 17 ust. 1 i 2 ust
 We wniosku o udzielenie ochrony lub pomocy, o którym mowa w art. 17 ust. 1 i 2 ustawy, wskazuje się okoliczności uprawdopodobniające zagrożenie życia lub zdrowia każdej osoby, która ma być chroniona.
 § 3.
 1.
-Komendant Centralnego Biura Śledczego Policji lub Dyrektor Generalny Służby Więziennej przedstawia osobie wnioskującej o udzielenie ochrony zasady i zalecenia w zakresie ochrony oraz odbiera od tej osoby pisemne zobowiązania do wykonywania obowiązków oraz do przestrzegania zasad i zaleceń w zakresie ochrony, o których mowa w art. 16 ust. 1 ustawy.
+Komendant Centralnego Biura Śledczego PolicjiZe zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 6 października 2014 r. zmieniającego rozporządzenie w sprawie udzielania ochrony i pomocy świadkom koronnym i innym uprawnionym osobom (Dz. U. poz. 1369), które weszło w życie z dniem 9 października 2014 r. lub Dyrektor Generalny Służby Więziennej przedstawia osobie wnioskującej o udzielenie ochrony zasady i zalecenia w zakresie ochrony oraz odbiera od tej osoby pisemne zobowiązania do wykonywania obowiązków oraz do przestrzegania zasad i zaleceń w zakresie ochrony, o których mowa w art. 16 ust. 1 ustawy.
 2.
-Komendant Centralnego Biura Śledczego Policjilub Dyrektor Generalny Służby Więziennej przesyła prokuratorowi prowadzącemu postępowanie kopię zasad i zaleceń oraz pisemnych zobowiązań, o których mowa w ust. 1, wraz z informacją o planowanych formach ochrony lub pomocy.
+Komendant Centralnego Biura Śledczego PolicjiZe zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 6 października 2014 r. zmieniającego rozporządzenie w sprawie udzielania ochrony i pomocy świadkom koronnym i innym uprawnionym osobom (Dz. U. poz. 1369), które weszło w życie z dniem 9 października 2014 r.lub Dyrektor Generalny Służby Więziennej przesyła prokuratorowi prowadzącemu postępowanie kopię zasad i zaleceń oraz pisemnych zobowiązań, o których mowa w ust. 1, wraz z informacją o planowanych formach ochrony lub pomocy.
 § 4.
 W zasadach i zaleceniach, o których mowa w § 3 ust. 1, w szczególności określa się:
 1)
 działania, które ze względów bezpieczeństwa osoba chroniona musi podejmować oraz których z tych samych względów nie może podejmować;
 2)
-informacje, które osoba chroniona przekazuje Komendantowi Centralnego Biura Śledczego Policji, dotyczące w szczególności kontaktów rodzinnych, towarzyskich i przestępczych, stanu majątkowego, stanu zdrowia i innych okoliczności istotnych dla wykonywania ochrony lub pomocy.
+informacje, które osoba chroniona przekazuje Komendantowi Centralnego Biura Śledczego PolicjiZe zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 6 października 2014 r. zmieniającego rozporządzenie w sprawie udzielania ochrony i pomocy świadkom koronnym i innym uprawnionym osobom (Dz. U. poz. 1369), które weszło w życie z dniem 9 października 2014 r., dotyczące w szczególności kontaktów rodzinnych, towarzyskich i przestępczych, stanu majątkowego, stanu zdrowia i innych okoliczności istotnych dla wykonywania ochrony lub pomocy.
 § 5.
 Przed udzieleniem ochrony lub pomocy oraz w trakcie udzielania można przeprowadzać badania psychofizjologiczne i psychologiczne osób obejmowanych ochroną lub pomocą, za ich pisemną zgodą.
 § 6.
@@ -104,7 +102,7 @@ załatwienia innych ważnych spraw życiowych związanych ze zmianą miejsca pob
 § 8.
 1.
 Pomocy, o której mowa w art. 14 ust. 1b ustawy, udziela się, jeżeli ze względu na warunki wykonywania ochrony lub brak ubezpieczenia zdrowotnego osoba chroniona nie może korzystać ze świadczeń opieki zdrowotnej według procedur ustalonych w ramach finansowania tych świadczeń ze środków publicznych.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 W przypadku przyznania osobie chronionej pomocy, o której mowa w art. 14 ust. 1b ustawy, Komendant Centralnego Biura Śledczego Policji może wskazywać podmioty wykonujące działalność leczniczą, od których osoba chroniona powinna uzyskiwać świadczenia opieki zdrowotnej.
 3.
 Osoba chroniona jest obowiązana stosować się do warunków korzystania z pomocy, o których mowa w ust. 2.
@@ -124,7 +122,7 @@ uzyskiwaniu i przekazywaniu informacji o możliwościach zatrudnienia;
 2)
 umożliwieniu uzyskania nowych kwalifikacji lub podniesienia poziomu wykształcenia.
 3.
-Przy udzielaniu pomocy, o której mowa w ust. 1, Komendant Centralnego Biura Śledczego Policji uwzględnia, w miarę możliwości, kwalifikacje zawodowe i inne warunki osobiste osoby chronionej.
+Przy udzielaniu pomocy, o której mowa w ust. 1, Komendant Centralnego Biura Śledczego PolicjiZe zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 6 października 2014 r. zmieniającego rozporządzenie w sprawie udzielania ochrony i pomocy świadkom koronnym i innym uprawnionym osobom (Dz. U. poz. 1369), które weszło w życie z dniem 9 października 2014 r. uwzględnia, w miarę możliwości, kwalifikacje zawodowe i inne warunki osobiste osoby chronionej.
 § 10.
 1.
 Osobie chronionej można wydać dokumenty umożliwiające używanie innych niż własne danych osobowych w przypadku szczególnego zagrożenia jej życia lub zdrowia, a także w przypadkach:
@@ -146,12 +144,12 @@ Osoba chroniona nie ponosi kosztów wydania dokumentów, o których mowa w ust. 
 Wydanie dokumentów, o których mowa w § 10, następuje po przeprowadzeniu czynności niezbędnych do wprowadzenia nowych danych osobowych do odpowiednich dokumentów urzędowych, w zakresie koniecznym do skutecznej ochrony.
 § 12.
 1.
-Przed wydaniem dokumentów umożliwiających używanie innych niż własne danych osobowych osoba chroniona jest obowiązana przekazać Komendantowi Centralnego Biura Śledczego Policji dotychczas posiadane dokumenty pozwalające na określenie tożsamości tej osoby.
+Przed wydaniem dokumentów umożliwiających używanie innych niż własne danych osobowych osoba chroniona jest obowiązana przekazać Komendantowi Centralnego Biura Śledczego PolicjiZe zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 6 października 2014 r. zmieniającego rozporządzenie w sprawie udzielania ochrony i pomocy świadkom koronnym i innym uprawnionym osobom (Dz. U. poz. 1369), które weszło w życie z dniem 9 października 2014 r. dotychczas posiadane dokumenty pozwalające na określenie tożsamości tej osoby.
 2.
-Komendant Centralnego Biura Śledczego Policji zapewnia wydanie dokumentów umożliwiających używanie innych niż własne danych osobowych oraz przyjmuje do depozytu dokumenty dotychczas posiadane przez osobę chronioną, pozwalające na określenie tożsamości tej osoby.
+Komendant Centralnego Biura Śledczego PolicjiZe zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 6 października 2014 r. zmieniającego rozporządzenie w sprawie udzielania ochrony i pomocy świadkom koronnym i innym uprawnionym osobom (Dz. U. poz. 1369), które weszło w życie z dniem 9 października 2014 r. zapewnia wydanie dokumentów umożliwiających używanie innych niż własne danych osobowych oraz przyjmuje do depozytu dokumenty dotychczas posiadane przez osobę chronioną, pozwalające na określenie tożsamości tej osoby.
 3.
 W przypadkach uzasadnionych udziałem w czynnościach postępowania prowadzonego na podstawie ustawy lub czynnościach cywilnoprawnych i w innych sytuacjach szczególnych, wydaje się osobie chronionej, na czas trwania tych czynności lub sytuacji, dokumenty pozwalające na określenie tożsamości tej osoby.
-§ 13.
+§ 13W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1..
 1.
 W przypadku udzielenia pomocy w zakresie zmiany miejsca pobytu lub wydania dokumentów umożliwiających używanie innych niż własne danych osobowych Komendant Centralnego Biura Śledczego Policji zapewnia osobie chronionej odbieranie przesyłek pocztowych, których osoba chroniona jest adresatem, przez policjanta posiadającego upoważnienie osoby chronionej lub Komendanta Centralnego Biura Śledczego Policji:
 1)
@@ -172,7 +170,7 @@ Jeżeli osoba chroniona odmawia pokwitowania odbioru przesyłki pocztowej, polic
 W przypadku gdy osoba chroniona odmówi odbioru przesyłki pocztowej, policjant sprawujący ochronę zwraca tę przesyłkę operatorowi pocztowemu z pokwitowaniem odbioru zawierającym adnotację, o której mowa w ust. 5.
 7.
 Przepisy ust. 1 6 stosuje się odpowiednio do przekazów pocztowych w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. poz. 1529) lub przekazów pieniężnych doręczanych przez operatora pocztowego na podstawie Działu IV Krajowe instytucje płatnicze ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2014 r. poz. 873 i 1916).
-§ 14.
+§ 14W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1..
 W przypadku udzielenia pomocy w zakresie zmiany miejsca pobytu wysyłanie przesyłek pocztowych, przekazów pocztowych lub przekazów pieniężnych przez osobę chronioną następuje, w razie potrzeby, za pośrednictwem policjanta upoważnionego przez Komendanta Centralnego Biura Śledczego Policji.
 § 15.
 1.
@@ -187,16 +185,16 @@ Osobom pełnoletnim można przyznać pomoc finansową do wysokości przeciętneg
 Osobom małoletnim można przyznać pomoc finansową do wysokości 50% kwoty, o której mowa w ust. 2.
 4.
 W szczególnie uzasadnionych przypadkach wysokość pomocy może być inna niż określona w ust. 2 i 3.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1..
 Pomoc finansowa przyznana osobie chronionej może być wypłacana w gotówce za pokwitowaniem, przekazem pocztowym, przekazem pieniężnym, przelewem lub w inny sposób uzgodniony z osobą chronioną.
 6.
-Przed zakończeniem ochrony i pomocy Komendant Centralnego Biura Śledczego Policji może przyznać osobie chronionej pomoc finansową na zagospodarowanie.
+Przed zakończeniem ochrony i pomocy Komendant Centralnego Biura Śledczego PolicjiZe zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 6 października 2014 r. zmieniającego rozporządzenie w sprawie udzielania ochrony i pomocy świadkom koronnym i innym uprawnionym osobom (Dz. U. poz. 1369), które weszło w życie z dniem 9 października 2014 r. może przyznać osobie chronionej pomoc finansową na zagospodarowanie.
 § 16.
 W przypadku udzielenia pomocy polegającej na zmianie miejsca pobytu osoba chroniona ma obowiązek pokrywania ze środków uzyskanych w ramach pomocy finansowej kosztów użytkowania lokalu mieszkalnego i szkód przez nią wyrządzonych w tym lokalu.
 § 17.
 1.
 Pomoc polegająca na przeprowadzeniu zabiegu chirurgicznego usuwającego charakterystyczne elementy wyglądu lub operacji plastycznej może być udzielona, jeżeli jest niezbędna do zapewnienia bezpieczeństwa osobie chronionej i pozwoli na istotną zmianę wyglądu tej osoby.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1..
 Udzielenie pomocy, o której mowa w ust. 1, polega na zorganizowaniu i sfinansowaniu przeprowadzenia zabiegu lub operacji w podmiocie wykonującym działalność leczniczą.
 § 18.
 1.
@@ -207,15 +205,15 @@ Wydanie dokumentów umożliwiających używanie innych niż własne danych osobo
 Jeżeli zagrożenie życia lub zdrowia osoby chronionej nie ustało, prokurator na wniosek tej osoby lub z urzędu, za jej zgodą, może wydać postanowienie o udzieleniu ochrony lub pomocy na dalszy czas oznaczony.
 § 20.
 1.
-Komendant Centralnego Biura Śledczego Policji lub Dyrektor Generalny Służby Więziennej może wystąpić do prokuratora o:
+Komendant Centralnego Biura Śledczego PolicjiZe zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 6 października 2014 r. zmieniającego rozporządzenie w sprawie udzielania ochrony i pomocy świadkom koronnym i innym uprawnionym osobom (Dz. U. poz. 1369), które weszło w życie z dniem 9 października 2014 r. lub Dyrektor Generalny Służby Więziennej może wystąpić do prokuratora o:
 1)
 cofnięcie ochrony lub pomocy w przypadku naruszenia przez osobę chronioną zasad i zaleceń w zakresie ochrony albo niewykonywania obowiązków, o których mowa w art. 16 ust. 1 pkt 2 ustawy;
 2)
 zakończenie ochrony lub pomocy w razie ustania przesłanek, które uzasadniały ich udzielenie.
 2.
-Komendant Centralnego Biura Śledczego Policji przekazuje prokuratorowi zarządzenia wydane w przedmiocie ochrony lub pomocy.
+Komendant Centralnego Biura Śledczego PolicjiZe zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 6 października 2014 r. zmieniającego rozporządzenie w sprawie udzielania ochrony i pomocy świadkom koronnym i innym uprawnionym osobom (Dz. U. poz. 1369), które weszło w życie z dniem 9 października 2014 r. przekazuje prokuratorowi zarządzenia wydane w przedmiocie ochrony lub pomocy.
 3.
-Komendant Centralnego Biura Śledczego Policji współdziała z innymi organami oraz instytucjami państwowymi i samorządowymi, w tym szkołami i uczelniami, w celu zapewnienia bezpieczeństwa osobie chronionej.
+Komendant Centralnego Biura Śledczego PolicjiZe zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 6 października 2014 r. zmieniającego rozporządzenie w sprawie udzielania ochrony i pomocy świadkom koronnym i innym uprawnionym osobom (Dz. U. poz. 1369), które weszło w życie z dniem 9 października 2014 r. współdziała z innymi organami oraz instytucjami państwowymi i samorządowymi, w tym szkołami i uczelniami, w celu zapewnienia bezpieczeństwa osobie chronionej.
 § 21.
 Cofnięcie ochrony lub pomocy następuje:
 1)
@@ -232,7 +230,7 @@ d)
 korzysta z pomocy niezgodnie z jej przeznaczeniem.
 § 22.
 1.
-W razie wydania przez Komendanta Centralnego Biura Śledczego Policji, w trybie art. 18 ustawy, zarządzenia o zmianie formy pomocy, polegającej na wydaniu dokumentów umożliwiających używanie innych niż własne danych osobowych, osoba, której wydano dokumenty, jest obowiązana zwrócić je w terminie 7 dni od dnia uprawomocnienia się zarządzenia.
+W razie wydania przez Komendanta Centralnego Biura Śledczego PolicjiZe zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 6 października 2014 r. zmieniającego rozporządzenie w sprawie udzielania ochrony i pomocy świadkom koronnym i innym uprawnionym osobom (Dz. U. poz. 1369), które weszło w życie z dniem 9 października 2014 r., w trybie art. 18 ustawy, zarządzenia o zmianie formy pomocy, polegającej na wydaniu dokumentów umożliwiających używanie innych niż własne danych osobowych, osoba, której wydano dokumenty, jest obowiązana zwrócić je w terminie 7 dni od dnia uprawomocnienia się zarządzenia.
 2.
 Jeżeli wydanie dokumentów umożliwiających używanie innych niż własne danych osobowych nastąpiło na czas oznaczony, osoba, której wydano dokumenty, jest obowiązana zwrócić je w terminie 7 dni od dnia ustania tej formy pomocy.
 3.
@@ -253,6 +251,5 @@ Wniosek, o którym mowa w ust. 1 pkt 1, może być cofnięty do czasu wydania po
 § 25.
 Traci moc rozporządzenie Rady Ministrów z dnia 30 grudnia 1998 r. w sprawie szczegółowych warunków, zakresu i sposobu udzielania oraz cofania ochrony i pomocy świadkom koronnym i innym osobom (Dz. U. Nr 165, poz. 1196).
 § 26.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 6 października 2014 r. zmieniającego rozporządzenie w sprawie udzielania ochrony i pomocy świadkom koronnym i innym uprawnionym osobom (Dz. U. poz. 1369), które weszło w życie z dniem 9 października 2014 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 4) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1. 5) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1. 6) Rozporządzenie zostało ogłoszone w dniu 8 listopada 2006 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 8 listopada 2006 r.. 1) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 6 października 2014 r. zmieniającego rozporządzenie w sprawie udzielania ochrony i pomocy świadkom koronnym i innym uprawnionym osobom (Dz. U. poz. 1369), które weszło w życie z dniem 9 października 2014 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 4) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1. 5) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1. 6) Rozporządzenie zostało ogłoszone w dniu 8 listopada 2006 r.
 

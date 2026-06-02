@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 18 maja 2017 r. w sprawie sposobu oraz zakresu archiwizacji danych związanych z urządzanymi grami hazardowymi przez sieć Internet
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 18 maja 2017 r. w sprawie sposobu oraz zakresu archiwizacji danych związanych z urządzanymi grami hazardowymi przez sieć Internet Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-05-18 |
 | Data wydania | 2017-05-25 |
-| Wejście w życie | 2017-05-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001018) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1018/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 15d ust. 8 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2016 r. poz. 471, 1948 i 2260 oraz z 2017 r. poz. 88 i 379) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 grudnia 2016 r. pod numerem 2016/699/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 15d ust. 8 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2016 r. poz. 471, 1948 i 2260 oraz z 2017 r. poz. 88 i 379) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -191,6 +190,5 @@ udostępnianie zarchiwizowanych danych, w szczególności informacje o osobach, 
 § 7.
 Podmioty posiadające w dniu wejścia w życie niniejszego rozporządzenia zezwolenie na urządzanie gier hazardowych przez sieć Internet lub urządzające gry hazardowe przez sieć Internet na podstawie zatwierdzonego regulaminu dostosują sposób oraz zakres archiwizacji danych w okresie 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 grudnia 2016 r. pod numerem 2016/699/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 9 lipca 2012 r. w sprawie sposobu archiwizacji danych oraz zakresu danych związanych z urządzaniem zakładów wzajemnych przez sieć Internet podlegających archiwizacji (Dz. U. poz. 833), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 11 ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o grach hazardowych oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 88).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 9 lipca 2012 r. w sprawie sposobu archiwizacji danych oraz zakresu danych związanych z urządzaniem zakładów wzajemnych przez sieć Internet podlegających archiwizacji (Dz. U. poz. 833), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 11 ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o grach hazardowych oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 88). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 grudnia 2016 r. pod numerem 2016/699/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 9 lipca 2012 r. w sprawie sposobu archiwizacji danych oraz zakresu danych związanych z urządzaniem zakładów wzajemnych przez sieć Internet podlegających archiwizacji (Dz. U. poz. 833), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 11 ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o grach hazardowych oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 88).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 25 czerwca 2013 r. w sprawie Systemu Statystyki w Ochronie Zdrowia
+# Rozporządzenie Ministra Zdrowiaz dnia 25 czerwca 2013 r. w sprawie Systemu Statystyki w Ochronie Zdrowia Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 7 lutego 2013 r. pod numerem 2013/0080/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-06-25 |
 | Data wydania | 2013-07-03 |
-| Wejście w życie | 2013-07-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000770) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/770/text.pdf) |
 
@@ -67,13 +66,12 @@ PN-EN ISO 13606–1:2013 Informatyka w ochronie zdrowia – Przesyłanie elektro
 2)
 PN-EN 13606:2–4:2009 Informatyka w ochronie zdrowia – Przesyłanie elektronicznej dokumentacji zdrowotnej,
 3)
-PN-EN ISO 13606–5:2010 Informatyka w ochronie zdrowia – Przesyłanie elektronicznej dokumentacji zdrowotnej
-albo normami lub wersjami norm je zastępującymi.
+PN-EN ISO 13606–5:2010 Informatyka w ochronie zdrowia – Przesyłanie elektronicznej dokumentacji zdrowotnej – albo normami lub wersjami norm je zastępującymi.
 § 4.
 1.
 Administrator systemu w zakresie niezbędnym dla właściwego działania przypisanego mu systemu opracowuje i ustanawia, wdraża i eksploatuje, monitoruje i przegląda oraz utrzymuje i doskonali system zarządzania bezpieczeństwem informacji zapewniający poufność, dostępność i integralność informacji.
 2.
 System zarządzania bezpieczeństwem informacji spełnia wymagania określone w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne dla systemu zarządzania bezpieczeństwem informacji oraz uwzględnia, w zakresie zarządzania bezpieczeństwem informacji w ochronie zdrowia, normę PN-EN ISO 27799:2010 Informatyka w ochronie zdrowia – Zarządzanie bezpieczeństwem informacji w ochronie zdrowia z wykorzystaniem ISO/IEC 27002 albo normę lub wersję normy ją zastępującą.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 7 lutego 2013 r. pod numerem 2013/0080/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337).
 

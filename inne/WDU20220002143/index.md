@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-12 |
 | Data wydania | 2022-10-19 |
-| Wejście w życie | 2022-10-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002143) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2143/text.pdf) |
 
@@ -99,5 +98,5 @@ informację o osobie przeprowadzającej wywiad, jej czytelny podpis, datę przep
 § 7.
 Jeżeli przeprowadzenie wywiadu zostało powierzone społecznemu kuratorowi sądowemu, przedkłada on sprawozdanie z wywiadu zawodowemu kuratorowi sądowemu w terminie 7 dni od dnia jego przeprowadzenia. Zawodowy kurator sądowy po zaakceptowaniu sprawozdania społecznego kuratora sądowego składa je niezwłocznie sądowi rodzinnemu.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 16 sierpnia 2001 r. w sprawie szczegółowych zasad i trybu przeprowadzania wywiadów środowiskowych o nieletnich (Dz. U. poz. 1010), które utraciło moc z dniem wejścia w życie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 16 sierpnia 2001 r. w sprawie szczegółowych zasad i trybu przeprowadzania wywiadów środowiskowych o nieletnich (Dz. U. poz. 1010), które utraciło moc z dniem wejścia w życie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700).
 

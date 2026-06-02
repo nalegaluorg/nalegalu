@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-12-03 |
 | Data wydania | 2010-12-21 |
-| Wejście w życie | 2011-01-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102401603) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1603/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2007 r. Nr 42, poz. 275, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2007 r. Nr 42, poz. 275, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 116, poz. 730 i 732 i Nr 227, poz. 1505 oraz z 2010 r. Nr 96, poz. 620.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3: ust. 2 otrzymuje brzmienie: „
     - **a)**
@@ -37,15 +36,19 @@ source: "eli-html"
 
 3. Ilekroć w ustawie, w zakresie udzielanej przez Agencję pomocy finansowej, jest mowa o pracowniku, należy przez to rozumieć:
 
-- **1)** pracownika w rozumieniu art. 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.);
+- **1)** pracownika w rozumieniu art. 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704 oraz z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228 i Nr 224, poz. 1459.);
 - **2)** osobę wykonującą pracę na podstawie umowy agencyjnej, umowy zlecenia lub innej umowy o świadczenie usług, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia albo umowy o dzieło, jeżeli umowę taką zawarła z pracodawcą, z którym pozostaje w stosunku pracy, lub jeżeli w ramach takiej umowy wykonuje pracę na rzecz pracodawcy, z którym pozostaje w stosunku pracy;
 - **3)** właściciela pełniącego funkcje kierownicze;
 - **4)** wspólnika w tym partnera prowadzącego regularną działalność w przedsiębiorstwie i czerpiącego z niego korzyści finansowe. ” ;
 - **2)** w art. 6 w ust. 1: pkt 8 otrzymuje brzmienie: „
     - **a)**
 
-- **8)** prowadzenie pod nazwą „Krajowy System Usług dla Małych i Średnich Przedsiębiorstw”, zwanego dalej „KSU”, rejestru podmiotów, które zapewniają należyte świadczenie usług doradczych, szkoleniowych, informacyjnych lub finansowych mikroprzedsiębiorcom, małym i średnim przedsiębiorcom oraz podmiotom podejmującym działalność gospodarczą; ” , w pkt 10: – lit. b otrzymuje brzmienie: „ b) szkolenia, usługi doradcze lub wspomaganie inwestycji przedsiębiorców, w szczególności sprzyjających wzrostowi ich konkurencyjności lub innowacyjności, ” , – dodaje się lit. g-i w brzmieniu: „ g) przygotowanie przez mikroprzedsiębiorców, małych i średnich przedsiębiorców wniosków o dofinansowanie projektów realizowanych w ramach międzynarodowych programów innowacyjnych lub udział w tych programach, h) dostosowanie działalności przedsiębiorcy do zmieniających się warunków rynkowych, w szczególności wywołanych kryzysem gospodarczym i finansowym, i) odtworzenie zdolności prowadzenia działalności gospodarczej przez przedsiębiorców dotkniętych skutkami klęski żywiołowej; ” ;
+- **8)** prowadzenie pod nazwą „Krajowy System Usług dla Małych i Średnich Przedsiębiorstw”, zwanego dalej „KSU”, rejestru podmiotów, które zapewniają należyte świadczenie usług doradczych, szkoleniowych, informacyjnych lub finansowych mikroprzedsiębiorcom, małym i średnim przedsiębiorcom oraz podmiotom podejmującym działalność gospodarczą; ” , w pkt 10: lit. b otrzymuje brzmienie: „ szkolenia, usługi doradcze lub wspomaganie inwestycji przedsiębiorców, w szczególności sprzyjających wzrostowi ich konkurencyjności lub innowacyjności, ” , dodaje się lit. g-i w brzmieniu: „ przygotowanie przez mikroprzedsiębiorców, małych i średnich przedsiębiorców wniosków o dofinansowanie projektów realizowanych w ramach międzynarodowych programów innowacyjnych lub udział w tych programach, dostosowanie działalności przedsiębiorcy do zmieniających się warunków rynkowych, w szczególności wywołanych kryzysem gospodarczym i finansowym, odtworzenie zdolności prowadzenia działalności gospodarczej przez przedsiębiorców dotkniętych skutkami klęski żywiołowej; ” ;
     - **b)**
+    - **b)**
+    - **g)**
+    - **h)**
+    - **i)**
 
 - **3)** art. 6a otrzymuje brzmienie: „
 
@@ -60,8 +63,13 @@ source: "eli-html"
 
 2. Minister właściwy do spraw gospodarki określa, w drodze rozporządzenia, szczegółowe wymagania w zakresie określonym w ust. 1 i tryb ich weryfikacji przez Agencję, a także standardy świadczenia usług doradczych, szkoleniowych, informacyjnych i finansowych mikroprzedsiębiorcom, małym i średnim przedsiębiorcom oraz podmiotom podejmującym działalność gospodarczą przez podmioty zarejestrowane w KSU, kierując się potrzebą zapewnienia należytej jakości tych usług. ” ;
 
-- **4)** w art. 6b: w ust. 3: – pkt 2 otrzymuje brzmienie: „ 2) podmiotowi określonemu w ust. 1 pkt 1 -3 oraz 5–9, niebędącemu osobą fizyczną, jeżeli członek jego organów zarządzających bądź wspólnik spółki osobowej został skazany prawomocnym wyrokiem za przestępstwa, o których mowa w pkt 1; ” , – w pkt 3 lit. c otrzymuje brzmienie: „ c) naruszył w sposób istotny umowę zawartą z Agencją – przez okres 3 lat od dnia rozwiązania tej umowy; ” , – dodaje się pkt 4 w brzmieniu: „ 4) podmiotowi zbiorowemu, wobec którego sąd orzekł zakaz korzystania z dotacji, subwencji lub innych form wsparcia finansowego środkami publicznymi. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+- **4)** w art. 6b: w ust. 3: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** podmiotowi określonemu w ust. 1 pkt 1 -3 oraz 5–9, niebędącemu osobą fizyczną, jeżeli członek jego organów zarządzających bądź wspólnik spółki osobowej został skazany prawomocnym wyrokiem za przestępstwa, o których mowa w pkt 1; ” , w pkt 3 lit. c otrzymuje brzmienie: „ naruszył w sposób istotny umowę zawartą z Agencją – przez okres 3 lat od dnia rozwiązania tej umowy; ” , dodaje się pkt 4 w brzmieniu: „
+    - **c)**
+
+- **4)** podmiotowi zbiorowemu, wobec którego sąd orzekł zakaz korzystania z dotacji, subwencji lub innych form wsparcia finansowego środkami publicznymi. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
     - **b)**
 
 3a. Przepisu ust. 3 pkt 3 lit. a nie stosuje się do przedsiębiorcy posiadającego zaległości z tytułu należności publicznoprawnych, ubiegającego się lub otrzymującego wsparcie lub pożyczkę na działanie określone w art. 6 ust. 1 pkt 10 lit. h, jeżeli przedsiębiorca ten zawarł porozumienie w sprawie spłaty zadłużenia i terminowo spłaca raty lub korzysta z odroczenia terminu płatności. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
@@ -106,7 +114,7 @@ source: "eli-html"
 - **9)** w art. 14: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Agencja działa zgodnie z rocznym planem działania oraz rocznym planem finansowym, o którym mowa w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.). ” , ust. 4 i 4a otrzymują brzmienie: „
+1. Agencja działa zgodnie z rocznym planem działania oraz rocznym planem finansowym, o którym mowa w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620, Nr 123, poz. 835, Nr 152, poz. 1020 i Nr 238, poz. 1578.). ” , ust. 4 i 4a otrzymują brzmienie: „
 
 - **b)**
 
@@ -124,13 +132,13 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-- **6)** przychody z tytułu przekazania środków, o których mowa w art. 34d ust. 4 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2003 r. Nr 174, poz. 1689, z późn. zm.); ” ;
+- **6)** przychody z tytułu przekazania środków, o których mowa w art. 34d ust. 4 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2003 r. Nr 174, poz. 1689, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 123, poz. 1291, Nr 145, poz. 1537 i Nr 281, poz. 2785, z 2005 r. Nr 78, poz. 684 i Nr 183, poz. 1538, z 2009 r. Nr 65, poz. 545 oraz z 2010 r. Nr 28, poz. 144.); ” ;
 - **11)** w art. 15a: ust. 1 i 2 otrzymują brzmienie: „
     - **a)**
 
 1. Prezes Agencji może umorzyć w całości lub w części, odroczyć lub rozłożyć na raty spłatę należności i wierzytelności Agencji z tytułu udzielonej pomocy finansowej ze środków:
 
-- **1)** innych niż: pochodzące z funduszy strukturalnych, z wyłączeniem Sektorowego Programu Operacyjnego Wzrost konkurencyjności przedsiębiorstw, lata 2004–2006 oraz Sektorowego Programu Operacyjnego Rozwój Zasobów Ludzkich 2004–2006 przyjętych w przepisach wydanych na podstawie art. 17 ust. 5 ustawy z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. Nr 116, poz. 1206, z późn. zm.), określone w art. 5 ust. 3 pkt 2, 5 i 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
+- **1)** innych niż: pochodzące z funduszy strukturalnych, z wyłączeniem Sektorowego Programu Operacyjnego Wzrost konkurencyjności przedsiębiorstw, lata 2004–2006 oraz Sektorowego Programu Operacyjnego Rozwój Zasobów Ludzkich 2004–2006 przyjętych w przepisach wydanych na podstawie art. 17 ust. 5 ustawy z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. Nr 116, poz. 1206, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 90, poz. 759 i Nr 267, poz. 2251, z 2006 r. Nr 149, poz. 1074 i Nr 249, poz. 1832, z 2008 r. Nr 216, poz. 1370 oraz z 2009 r. Nr 161, poz. 1277.), określone w art. 5 ust. 3 pkt 2, 5 i 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
     - **a)**
     - **b)**
 
@@ -138,10 +146,12 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-2. Umorzenie należności i wierzytelności Agencji z tytułu pomocy finansowej udzielonej przedsiębiorcy w przypadku, o którym mowa w ust. 3 pkt 1, 2a i 4, stanowi pomoc dla tego podmiotu i jest dokonywane zgodnie z przepisami rozporządzenia Komisji (WE) nr 1998/2006 z dnia 15 grudnia 2006 r. w sprawie stosowania art. 87 i 88 Traktatu do pomocy de minimis (Dz. Urz. UE L 379 z 28.12.2006, str. 5). ” , w ust. 3: – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) łączna kwota należności lub wierzytelności przypadających Agencji od jednego podmiotu nie przekracza 100 zł, lub ” , – pkt 4 otrzymuje brzmienie: „ 4) egzekucja należności i wierzytelności Agencji zagraża ważnym interesom dłużnika, w tym jego egzystencji, lub jeżeli dłużnik stał się niezdolny do prowadzenia działalności gospodarczej, lub ” , po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
+2. Umorzenie należności i wierzytelności Agencji z tytułu pomocy finansowej udzielonej przedsiębiorcy w przypadku, o którym mowa w ust. 3 pkt 1, 2a i 4, stanowi pomoc dla tego podmiotu i jest dokonywane zgodnie z przepisami rozporządzenia Komisji (WE) nr 1998/2006 z dnia 15 grudnia 2006 r. w sprawie stosowania art. 87 i 88 Traktatu do pomocy de minimis (Dz. Urz. UE L 379 z 28.12.2006, str. 5). ” , w ust. 3: po pkt 2 dodaje się pkt 2a w brzmieniu: „
 
 - **b)**
-- **c)**
+- **2a)** łączna kwota należności lub wierzytelności przypadających Agencji od jednego podmiotu nie przekracza 100 zł, lub ” , pkt 4 otrzymuje brzmienie: „
+- **4)** egzekucja należności i wierzytelności Agencji zagraża ważnym interesom dłużnika, w tym jego egzystencji, lub jeżeli dłużnik stał się niezdolny do prowadzenia działalności gospodarczej, lub ” , po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
+    - **c)**
 
 3a. Termin spłaty całości lub części należności i wierzytelności Agencji może być odroczony albo spłata całości lub części tych należności i wierzytelności rozłożona na raty, jeżeli ich egzekucja okresowo zagraża ważnym interesom dłużnika, w tym jego egzystencji, przy czym istnieje uzasadnione przypuszczenie, że dłużnik te należności i wierzytelności w późniejszym terminie zwróci.
 
@@ -163,5 +173,5 @@ source: "eli-html"
 
 **Art. 3.** Z dniem wejścia w życie niniejszej ustawy, podmiot, który ubiega się o udzielenie wsparcia przeznaczonego na zakup towarów lub usług lub otrzymał od Polskiej Agencji Rozwoju Przedsiębiorczości takie wsparcie jest zobowiązany do wyboru wykonawcy z zastosowaniem przepisów ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 116, poz. 730 i 732 i Nr 227, poz. 1505 oraz z 2010 r. Nr 96, poz. 620. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704 oraz z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228 i Nr 224, poz. 1459. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620, Nr 123, poz. 835, Nr 152, poz. 1020 i Nr 238, poz. 1578. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 123, poz. 1291, Nr 145, poz. 1537 i Nr 281, poz. 2785, z 2005 r. Nr 78, poz. 684 i Nr 183, poz. 1538, z 2009 r. Nr 65, poz. 545 oraz z 2010 r. Nr 28, poz. 144. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 90, poz. 759 i Nr 267, poz. 2251, z 2006 r. Nr 149, poz. 1074 i Nr 249, poz. 1832, z 2008 r. Nr 216, poz. 1370 oraz z 2009 r. Nr 161, poz. 1277.
 

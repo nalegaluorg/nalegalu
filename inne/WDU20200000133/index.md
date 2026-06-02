@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-09 |
 | Data wydania | 2020-01-28 |
-| Wejście w życie | 2020-01-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000133) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/133/text.pdf) |
+
+Finansowanie i gospodarka finansowa Krajowej Szkoły
 
 **Art. 1.** W ustawie z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2019 r. poz. 1042 i 2020) wprowadza się następujące zmiany:
 
@@ -49,7 +50,7 @@ source: "eli-html"
 
 - **5)** po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
 
-#### Rozdział 5a Finansowanie i gospodarka finansowa Krajowej Szkoły
+#### Rozdział 5a
 
 **Art. 55a.**
 
@@ -95,7 +96,7 @@ source: "eli-html"
 2. Środki finansowe z przychodów własnych oraz środki finansowe, o których mowa w art. 55d ust. 1 pkt 8, Krajowa Szkoła gromadzi na odrębnych rachunkach bankowych, których obsługę prowadzi bank mający siedzibę na terytorium Rzeczypospolitej Polskiej. Wykonywanie obowiązków wykładowcy Krajowej Szkoły stanowi:
 
 - **1)** działalność twórczą o indywidualnym charakterze, o której mowa w art. 1 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2019 r. poz. 1231);
-- **2)** działalność, o której mowa w art. 22 ust. 9b pkt 8 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, z późn. zm.).
+- **2)** działalność, o której mowa w art. 22 ust. 9b pkt 8 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473.).
 
 1. Krajowa Szkoła posiada:
 
@@ -116,7 +117,7 @@ source: "eli-html"
 - **2)** równowartość sfinansowanych z dotacji celowej oraz ze środków z innych źródeł, zakończonych i oddanych do użytkowania inwestycji budowlanych w zakresie budynków i lokali oraz obiektów inżynierii lądowej i wodnej;
 - **3)** równowartość nieodpłatnie otrzymanych od Skarbu Państwa lub jednostek samorządu terytorialnego budynków i lokali, obiektów inżynierii lądowej i wodnej oraz gruntów;
 - **4)** równowartość udziałów w przyjętych do użytkowania budynkach i lokalach oraz obiektach inżynierii lądowej i wodnej, zrealizowanych w ramach inwestycji wspólnych;
-- **5)** kwotę zwiększenia wartości majątku Krajowej Szkoły, wynikającą z aktualizacji wyceny środków trwałych, przeprowadzonej zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 15 ust. 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2019 r. poz. 865, z późn. zm.).
+- **5)** kwotę zwiększenia wartości majątku Krajowej Szkoły, wynikającą z aktualizacji wyceny środków trwałych, przeprowadzonej zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 15 ust. 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2019 r. poz. 865, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751, 1798, 1978, 2020, 2200, 2217 i 2473.).
 
 4. Fundusz zasadniczy zmniejsza się o:
 
@@ -131,5 +132,5 @@ source: "eli-html"
 
 **Art. 2.** Niewykorzystane środki finansowe pochodzące z dotacji podmiotowych, udzielonych w latach ubiegłych, będące w dyspozycji Krajowej Szkoły Sądownictwa i Prokuratury na dzień wejścia w życie niniejszej ustawy nie podlegają zwrotowi.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751, 1798, 1978, 2020, 2200, 2217 i 2473.
 

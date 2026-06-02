@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-07-20 |
 | Data wydania | 2020-08-10 |
-| Wejście w życie | 2020-08-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001358) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1358/text.pdf) |
 
@@ -91,8 +90,7 @@ włączenia instytutu badawczego do instytutu naukowego PAN,
 7)
 dyrektor instytutu naukowego PAN – w przypadku planowanego włączenia instytutu badawczego do instytutu naukowego PAN,
 8)
-przedstawiciel Prezesa Centrum Łukasiewicz – w przypadku planowanego przekształcenia instytutu badawczego w instytut Sieci Łukasiewicz
-i wyznacza jej przewodniczącego.
+przedstawiciel Prezesa Centrum Łukasiewicz – w przypadku planowanego przekształcenia instytutu badawczego w instytut Sieci Łukasiewicz – i wyznacza jej przewodniczącego.
 2.
 Obsługę prac komisji, o której mowa w ust. 1, zapewnia instytut badawczy.
 3.
@@ -144,8 +142,7 @@ W przypadku gdy przekształcenie instytutu badawczego w instytut naukowy PAN alb
 1)
 rekomendację dokonania przekształcenia albo włączenia ze wskazaniem nazwy i siedziby instytutu naukowego PAN, który powstanie w wyniku przekształcenia albo do którego nastąpi włączenie, albo instytutu Sieci Łukasiewicz, który powstanie w wyniku przekształcenia, albo
 2)
-opinię o braku zasadności dokonywania przekształcenia albo włączenia
-z uwzględnieniem oceny spełnienia warunków, o których mowa w § 5.
+opinię o braku zasadności dokonywania przekształcenia albo włączenia – z uwzględnieniem oceny spełnienia warunków, o których mowa w § 5.
 2.
 Do analizy, o której mowa w ust. 1, minister nadzorujący dołącza opinię dyrektora i opinię rady naukowej instytutu badawczego oraz:
 1)
@@ -246,5 +243,5 @@ dyrektorowi instytutu naukowego PAN i Prezesowi PAN – w przypadku włączenia 
 3.
 W przypadku włączenia instytutu badawczego do instytutu naukowego PAN wykazy, o których mowa w ust. 1 pkt 1, sporządza się w formie protokołu zdawczo-odbiorczego.
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie w zakresie dotyczącym przekształcania instytutów badawczych w instytuty naukowe Polskiej Akademii Nauk i włączania instytutów badawczych do instytutów naukowych Polskiej Akademii Nauk było poprzedzone rozporządzeniem Rady Ministrów z dnia 17 listopada 2010 r. w sprawie tworzenia, łączenia, podziału, reorganizacji, przekształcania, włączania lub likwidacji instytutów badawczych (Dz. U. poz. 1512), które utraciło moc z dniem 1 października 2018 r. w związku z wejściem w życie ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z 2019 r. poz. 39 i 534 oraz z 2020 r. poz. 695, 875 i 1086). 1) Niniejsze rozporządzenie w zakresie dotyczącym przekształcania instytutów badawczych w instytuty naukowe Polskiej Akademii Nauk i włączania instytutów badawczych do instytutów naukowych Polskiej Akademii Nauk było poprzedzone rozporządzeniem Rady Ministrów z dnia 17 listopada 2010 r. w sprawie tworzenia, łączenia, podziału, reorganizacji, przekształcania, włączania lub likwidacji instytutów badawczych (Dz. U. poz. 1512), które utraciło moc z dniem 1 października 2018 r. w związku z wejściem w życie ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z 2019 r. poz. 39 i 534 oraz z 2020 r. poz. 695, 875 i 1086).
 

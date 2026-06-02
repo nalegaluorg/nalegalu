@@ -22,25 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-09 |
 | Data wydania | 2021-08-20 |
-| Wejście w życie | 2021-08-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001528) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1528/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2019 r. poz. 1505) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354 oraz z 2021 r. poz. 926, 1311 i 1387.) wprowadza się następujące zmiany:
 1)
-w § 7 ust. 1 otrzymuje brzmienie:
-„
+w § 7 ust. 1 otrzymuje brzmienie: „
 1.
-Kredyty bankowe objęte pomocą, o której mowa w § 3–6, § 13g, § 13h, § 13q i § 13zm, są udzielane przez banki w ramach przyznanych tym bankom limitów finansowych.
-” ;
+Kredyty bankowe objęte pomocą, o której mowa w § 3–6, § 13g, § 13h, § 13q i § 13zm, są udzielane przez banki w ramach przyznanych tym bankom limitów finansowych. ” ;
 2)
 w § 13x w ust. 5 dodaje się zdanie drugie w brzmieniu: „ W celu potwierdzenia wystąpienia u producentów rolnych szkód powstałych w wyniku suszy Instytut Uprawy, Nawożenia i Gleboznawstwa – Państwowy Instytut Badawczy przekazuje, na wniosek wojewody, dodatkowe informacje potwierdzające wystąpienie zagrożenia suszą na obszarze wskazanym przez izby rolnicze. ” ;
 3)
-po § 13zk dodaje § 13zl i § 13zm w brzmieniu:
-„
+po § 13zk dodaje § 13zl i § 13zm w brzmieniu: „
 § 13zl.
 1.
 Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi świń:
@@ -51,7 +47,7 @@ będącemu mikroprzedsiębiorstwem, małym albo średnim przedsiębiorstwem w ro
 3)
 który utrzymuje lub utrzymywał świnie w siedzibie stada, położonej na terytorium Rzeczypospolitej Polskiej, na obszarze:
 a)
-wymienionym w części II lub III załącznika do decyzji wykonawczej Komisji 2014/709/UE z dnia 9 października 2014 r. w sprawie środków kontroli w zakresie zdrowia zwierząt w odniesieniu do afrykańskiego pomoru świń w niektórych państwach członkowskich i uchylającej decyzję wykonawczą 2014/178/UE lub w części II lub III załącznika I do rozporządzenia wykonawczego Komisji (UE) 2021/605 z dnia 7 kwietnia 2021 r. ustanawiającego szczególne środki zwalczania afrykańskiego pomoru świń (Dz. Urz. UE L 129 z 15.04.2021, str. 1, z późn. zm.) lub
+wymienionym w części II lub III załącznika do decyzji wykonawczej Komisji 2014/709/UE z dnia 9 października 2014 r. w sprawie środków kontroli w zakresie zdrowia zwierząt w odniesieniu do afrykańskiego pomoru świń w niektórych państwach członkowskich i uchylającej decyzję wykonawczą 2014/178/UE lub w części II lub III załącznika I do rozporządzenia wykonawczego Komisji (UE) 2021/605 z dnia 7 kwietnia 2021 r. ustanawiającego szczególne środki zwalczania afrykańskiego pomoru świń (Dz. Urz. UE L 129 z 15.04.2021, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 131 z 16.04.2021, str. 137, Dz. Urz. UE L 143 z 27.04.2021, str. 12, Dz. Urz. UE L 180 z 21.05.2021, str. 114, Dz. Urz. UE L 197 z 04.06.2021, str. 76, Dz. Urz. UE L 209 z 14.06.2021, str. 95, Dz. Urz. UE L 219 z 21.06.2021, str. 1, Dz. Urz. UE L 236 z 05.07.2021, str. 10, Dz. Urz. UE L 247 z 13.07.2021, str. 55, Dz. Urz. UE L 261 z 22.07.2021, str. 8 oraz Dz. Urz. UE L 277 z 02.08.2021, str. 99.) lub
 b)
 zapowietrzonym lub zagrożonym w związku z wystąpieniem afrykańskiego pomoru świń, ustanowionym zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.
 2.
@@ -176,8 +172,7 @@ nie udokumentował, w terminie 3 miesięcy od dnia pobrania środków finansowyc
 2)
 nie przysługują, a już udzielone nie podlegają zwrotowi od dnia trwałego zaprzestania przez kredytobiorcę działalności rolniczej przed upływem okresu kredytowania lub trwałego zaprzestania spłaty kredytu bankowego i odsetek.
 7.
-Pomoc, o której mowa w ust. 1, ma charakter pomocy de minimis w rolnictwie i jest udzielana zgodnie z przepisami rozporządzenia nr 1408/2013 oraz przepisami o postępowaniu w sprawach dotyczących pomocy publicznej.
-” .
+Pomoc, o której mowa w ust. 1, ma charakter pomocy de minimis w rolnictwie i jest udzielana zgodnie z przepisami rozporządzenia nr 1408/2013 oraz przepisami o postępowaniu w sprawach dotyczących pomocy publicznej. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354 oraz z 2021 r. poz. 926, 1311 i 1387. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 131 z 16.04.2021, str. 137, Dz. Urz. UE L 143 z 27.04.2021, str. 12, Dz. Urz. UE L 180 z 21.05.2021, str. 114, Dz. Urz. UE L 197 z 04.06.2021, str. 76, Dz. Urz. UE L 209 z 14.06.2021, str. 95, Dz. Urz. UE L 219 z 21.06.2021, str. 1, Dz. Urz. UE L 236 z 05.07.2021, str. 10, Dz. Urz. UE L 247 z 13.07.2021, str. 55, Dz. Urz. UE L 261 z 22.07.2021, str. 8 oraz Dz. Urz. UE L 277 z 02.08.2021, str. 99.
 

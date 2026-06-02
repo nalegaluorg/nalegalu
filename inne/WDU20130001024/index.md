@@ -33,7 +33,7 @@ a) zmiany przewidywanej daty rozpoczęcia działalności pocztowej,
 b) zmiany danych w zakresie objętym wnioskiem o wpis do rejestru operatorów pocztowych,
 c) zawieszenia albo zakończenia wykonywania działalności pocztowej stanowiący załącznik nr 2 do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Administracji i Cyfryzacji: M. Boni Minister Administracji i Cyfryzacji kieruje działem administracji rządowej łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Administracji i Cyfryzacji PREZES URZĘDU KOMUNIKACJI ELEKTRONICZNEJ …..….………………………………………….
+Minister Administracji i Cyfryzacji: M. Boni Minister Administracji i Cyfryzacji kieruje działem administracji rządowej łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Administracji i Cyfryzacji z dnia … (poz. …) Załącznik nr 1 WZÓR PREZES URZĘDU KOMUNIKACJI ELEKTRONICZNEJ …..….………………………………………….
 (adres urzędu) WNIOSEK O WPIS DO REJESTRU OPERATORÓW POCZTOWYCH A. DANE WNIOSKODAWCY
 1. Firma przedsiębiorcy
 2. Siedziba i adres przedsiębiorcy albo miejsce zamieszkania przedsiębiorcy i adres głównego miejsca wykonywania działalności pocztowej
@@ -96,7 +96,7 @@ Opłatę za złożenie wniosku o wpis do rejestru operatorów pocztowych należy
 OBJAŚNIENIA: Wypełnienie rubryki nie jest obowiązkowe.
 Wypełnić, jeżeli wnioskodawca zamierza wykonywać działalność pocztową na terytorium Rzeczypospolitej Polskiej na obszarze mniejszym niż obszar całego kraju, np. na obszarze województwa.
 Wypełnić, jeżeli miejsce zamieszkania znajduje się na terytorium Rzeczypospolitej Polskiej.
-PREZES URZĘDU KOMUNIKACJI ELEKTRONICZNEJ ………………………………………………….
+WZÓR PREZES URZĘDU KOMUNIKACJI ELEKTRONICZNEJ ………………………………………………….
 (adres urzędu) ZGŁOSZENIE * : zmiany przewidywanej daty rozpoczęcia działalności pocztowej albo zmiany danych w zakresie objętym wnioskiem o wpis do rejestru operatorów pocztowych albo zawieszenia wykonywania działalności pocztowej albo zakończenia wykonywania działalności pocztowej pod numerem: w rejestrze operatorów pocztowych prowadzonym przez Prezesa Urzędu Komunikacji Elektronicznej .....................................................
 A. DANE WNIOSKODAWCY
 1. Firma przedsiębiorcy

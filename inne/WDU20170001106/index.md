@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 24 maja 2017 r. w sprawie przeprowadzenia szkolenia specjalistycznego do mianowania na pierwszy stopień w korpusie aspirantów Służby Celno-Skarbowej oraz w korpusie oficerów młodszych Służby Celno-Skarbowej
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 24 maja 2017 r. w sprawie przeprowadzenia szkolenia specjalistycznego do mianowania na pierwszy stopień w korpusie aspirantów Służby Celno-Skarbowej oraz w korpusie oficerów młodszych Służby Celno-Skarbowej Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-05-24 |
 | Data wydania | 2017-06-07 |
-| Wejście w życie | 2017-06-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001106) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1106/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 192 ust. 11 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 192 ust. 11 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768 i 1086.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -182,6 +181,5 @@ Funkcjonariusz, który z uzasadnionych przyczyn nie przystąpił do egzaminu, ma
 2.
 Zasadność przyczyny nieprzystąpienia do egzaminu przez funkcjonariusza bada kierownik jednostki organizacyjnej.
 § 25.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768 i 1086. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 4 stycznia 2010 r. w sprawie przeprowadzenia szkolenia specjalistycznego do mianowania na pierwszy stopień w korpusie aspirantów Służby Celnej oraz w korpusie oficerów młodszych Służby Celnej (Dz. U. z 2013 r. poz. 266), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 4 stycznia 2010 r. w sprawie przeprowadzenia szkolenia specjalistycznego do mianowania na pierwszy stopień w korpusie aspirantów Służby Celnej oraz w korpusie oficerów młodszych Służby Celnej (Dz. U. z 2013 r. poz. 266), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768 i 1086. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 4 stycznia 2010 r. w sprawie przeprowadzenia szkolenia specjalistycznego do mianowania na pierwszy stopień w korpusie aspirantów Służby Celnej oraz w korpusie oficerów młodszych Służby Celnej (Dz. U. z 2013 r. poz. 266), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379).
 

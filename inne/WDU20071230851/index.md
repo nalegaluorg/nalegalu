@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-06-15 |
 | Data wydania | 2007-07-09 |
-| Wejście w życie | 2007-07-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071230851) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/851/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2004 r. Nr 208, poz. 2128, z późn. zm.) w art. 39 po ust. 4 dodaje się ust. 4a w brzmieniu: „ 4a. W razie nieprzedstawienia przez Agencją dotychczasowemu dzierżawcy nieruchomości stanowiska odnośnie warunków dalszego dzierżawienia tej nieruchomości, w terminie miesiąca od dnia złożenia oświadczenia, o którym mowa w ust. 2 pkt 1, domniemywa się, że Agencja wyraziła zgodę na dalsze dzierżawienie nieruchomości na dotychczasowych warunkach przez okres roku. ” .
+**Art. 1.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2004 r. Nr 208, poz. 2128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2772, z 2005 r. Nr 132, poz. 1110, Nr 163, poz. 1362, Nr 167, poz. 1398, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 104, poz. 708, Nr 141, poz. 997, Nr 170, poz. 1217, Nr 195, poz. 1437 i Nr 249, poz. 1832 oraz z 2007 r. Nr 35, poz. 218.) w art. 39 po ust. 4 dodaje się ust. 4a w brzmieniu: „ 4a. W razie nieprzedstawienia przez Agencją dotychczasowemu dzierżawcy nieruchomości stanowiska odnośnie warunków dalszego dzierżawienia tej nieruchomości, w terminie miesiąca od dnia złożenia oświadczenia, o którym mowa w ust. 2 pkt 1, domniemywa się, że Agencja wyraziła zgodę na dalsze dzierżawienie nieruchomości na dotychczasowych warunkach przez okres roku. ” .
 
 **Art. 2.**
 
@@ -39,5 +38,5 @@ source: "eli-html"
 
 3. Zobowiązania dotychczasowego dzierżawcy, o którym mowa w ust. 1, z tytułu dodatkowych opłat lub kar umownych za okres, o którym mowa w ust. 2, wygasają z dniem zawarcia nowej umowy dzierżawy, a w przypadku ich uiszczenia podlegają zwrotowi bez odsetek.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2772, z 2005 r. Nr 132, poz. 1110, Nr 163, poz. 1362, Nr 167, poz. 1398, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 104, poz. 708, Nr 141, poz. 997, Nr 170, poz. 1217, Nr 195, poz. 1437 i Nr 249, poz. 1832 oraz z 2007 r. Nr 35, poz. 218.
 

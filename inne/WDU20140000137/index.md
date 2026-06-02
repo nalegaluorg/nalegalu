@@ -38,8 +38,7 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 5 lipca 2012 r. zmienia
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2–5 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 31 maja 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 102, poz. 650), które stanowią:
-„
+§ 2–5 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 31 maja 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 102, poz. 650), które stanowią: „
 § 2.
 Jeżeli zdarzenie prawne określone w § 19 ust. 1 rozporządzenia wymienionego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem zaistniało przed dniem wejścia w życie rozporządzenia, wniosek o wstąpienie do toczącego się postępowania w sprawie przyznania pomocy finansowej w ramach działania „Szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 składa się w terminie 21 dni od dnia wejścia w życie rozporządzenia.
 § 3.
@@ -47,19 +46,16 @@ Agencja Restrukturyzacji i Modernizacji Rolnictwa opracuje, w uzgodnieniu z podm
 § 4.
 Do spraw dotyczących przyznania pomocy finansowej w ramach działania „Szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy rozporządzenia wymienionego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, z wyłączeniem § 4 ust. 1 pkt 4, który stosuje się w brzmieniu dotychczasowym.
 § 5.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. ” ;
 2)
-§ 2–4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 5 lipca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 818), które stanowią:
-„
+§ 2–4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 5 lipca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 818), które stanowią: „
 § 2.
 Do spraw dotyczących przyznawania pomocy finansowej w ramach działania „Szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia, stosuje się przepisy dotychczasowe.
 § 3.
 W przypadku podmiotów, które są obowiązane do prowadzenia ksiąg rachunkowych, przepisy § 6 ust. 7 i 8 rozporządzenia wymienionego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem stosuje się od nowego roku obrotowego w rozumieniu przepisów o rachunkowości.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Tekst jednolity rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 lipca 2009 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 lipca 2009 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486).
 Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. z 2013 r. poz. 173) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb przyznawania, wypłaty lub zwracania pomocy finansowej w ramach działania „Szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, zwanej dalej „pomocą”, a także przestrzenny zasięg wdrażania tego działania, w szczególności:
@@ -97,13 +93,13 @@ podmiotom, które, na podstawie umowy, innej niż umowa spółki cywilnej, zawar
 W umowie, o której mowa w ust. 1:
 1)
 określa się podział zadań zaplanowanych w ramach operacji odpowiednio między wspólników spółki cywilnej lub podmioty wchodzące w skład konsorcjum;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 5 lipca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 818), które weszło w życie z dniem 1 sierpnia 2012 r.)
 wskazuje się odpowiednio wspólnika spółki cywilnej lub podmiot wchodzący w skład konsorcjum:
 a)
 upoważniony do reprezentowania wnioskodawcy w zakresie przyznawania i wypłaty pomocy,
 b)
 odpowiedzialny za przechowywanie dokumentów związanych z przyznaną pomocą przez okres 5 lat od dnia dokonania płatności ostatecznej;
-3)
+3Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 miejsce przechowywania dokumentów związanych z przyznaną pomocą przez okres wskazany w pkt 2 lit. b.
 § 4.
 1.
@@ -115,7 +111,7 @@ szkolenie realizowane w ramach operacji nie zastępuje zajęć edukacyjnych prze
 3)
 szkolenie realizowane w ramach operacji jest bezpłatne dla uczestniczących w nim osób zatrudnionych w rolnictwie lub leśnictwie, zwanych dalej „uczestnikami szkolenia”;
 4)
-(uchylony).
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
 2.
 Operacja może być realizowana w jednym albo w więcej niż jednym etapie.
 3.
@@ -131,9 +127,9 @@ a)
 naboru uczestników szkolenia,
 b)
 zakupu artykułów biurowo-kancelaryjnych i papierniczych do przeprowadzenia szkolenia,
-c)
+cW brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 opracowania, powielania i drukowania materiałów szkoleniowych oraz materiałów związanych z przygotowaniem i przeprowadzeniem szkolenia,
-d)
+dW brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 najmu pomieszczeń do przeprowadzenia szkolenia,
 e)
 udostępnienia do celów związanych z przeprowadzeniem szkolenia budynków, urządzeń i innych obiektów, a także gruntów, przeznaczonych do prowadzenia działalności rolniczej lub leśnej,
@@ -161,9 +157,9 @@ c)
 usług telekomunikacyjnych,
 d)
 usług księgowych,
-e)
+eDodana przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 usług pocztowych,
-f)
+fDodana przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 usług prawnych.
 2.
 Koszty szkoleń, o których mowa w ust. 1 pkt 2, mogą być objęte pomocą w wysokości nieprzekraczającej 15% bezpośrednich kosztów szkoleń, o których mowa w ust. 1 pkt 1.
@@ -174,7 +170,7 @@ Pomoc jest przyznawana w formie refundacji kosztów szkoleń, o których mowa w 
 Koszty szkoleń, o których mowa w § 5 ust. 1, uznaje się za koszty kwalifikowalne, jeżeli zostały:
 1)
 udokumentowane;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 31 maja 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 102, poz. 650), które weszło w życie z dniem 11 czerwca 2010 r.)
 poniesione od dnia zawarcia umowy.
 3.
 Koszty szkoleń, o których mowa w § 5 ust. 1 pkt 2, uznaje się za koszty kwalifikowalne w wysokości nieprzekraczającej 15% pozostałych kosztów szkoleń, o których mowa w § 5 ust. 1 pkt 1.
@@ -182,23 +178,22 @@ Koszty szkoleń, o których mowa w § 5 ust. 1 pkt 2, uznaje się za koszty kwal
 Do kosztów kwalifikowalnych zalicza się także podatek od towarów i usług (VAT) na zasadach określonych w art. 71 ust. 3 lit. a rozporządzenia nr 1698/2005.
 5.
 Refundacji podlegają koszty kwalifikowalne w wysokości do 100% tych kosztów.
-6.
+6Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Do kosztów kwalifikowalnych nie zalicza się kosztów poniesionych w związku z prowadzeniem szkolenia realizowanego w ramach operacji, w którym udział bierze kadra dydaktyczna jako uczestnik szkolenia realizowanego w ramach tej operacji.
-7.
+7Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku gdy zdarzenie powodujące poniesienie kosztów kwalifikowalnych:
 1)
 nie zostało uwzględnione w oddzielnym systemie rachunkowości albo
 2)
-do jego identyfikacji nie wykorzystano odpowiedniego kodu rachunkowego
-o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005, koszty te podlegają refundacji w wysokości określonej w ust. 5 pomniejszonej o 10%.
-8.
+do jego identyfikacji nie wykorzystano odpowiedniego kodu rachunkowego – o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005, koszty te podlegają refundacji w wysokości określonej w ust. 5 pomniejszonej o 10%.
+8Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego, o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005, odbywa się w ramach prowadzonych ksiąg rachunkowych albo – w przypadku gdy na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych – przez prowadzenie, na formularzu opracowanym i udostępnionym w sposób określony w § 9 ust. 3, zestawienia faktur lub równoważnych dokumentów księgowych.
 § 7.
 1.
 Pomoc jest przyznawana na operację wybraną w drodze konkursu.
 2.
 Minister właściwy do spraw rozwoju wsi określa warunki konkursu obejmujące:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.)
 temat szkolenia realizowanego w ramach operacji, zgodnie z wykazem zagadnień określonych w Programie Rozwoju Obszarów Wiejskich na lata 2007–2013, zwanym dalej „Programem”, oraz ramowy program tego szkolenia;
 2)
 formę i warunki przeprowadzenia szkolenia realizowanego w ramach operacji;
@@ -250,8 +245,7 @@ wymagań określonych w § 5 ust. 2,
 3)
 warunków konkursu określonych na podstawie § 7 ust. 2,
 4)
-wymagań określonych w § 9 ust. 1 i 2
-w terminie 60 dni od dnia upływu terminu określonego na podstawie § 7 ust. 2 pkt 7.
+wymagań określonych w § 9 ust. 1 i 2 – w terminie 60 dni od dnia upływu terminu określonego na podstawie § 7 ust. 2 pkt 7.
 2.
 Wniosek o przyznanie pomocy złożony po upływie terminu określonego na podstawie § 7 ust. 2 pkt 7 lub niezawierający adresu wnioskodawcy, jeżeli niemożliwe jest ustalenie tego adresu na podstawie posiadanych danych, pozostawia się bez rozpatrzenia.
 3.
@@ -302,7 +296,7 @@ Podmiot wdrażający ogłasza niezwłocznie, na stronie internetowej administrow
 Podmiot wdrażający wzywa niezwłocznie, na piśmie, wnioskodawcę, którego operacja uzyskała najwyższą liczbę punktów przyznanych na podstawie szczegółowych kryteriów oceny merytorycznej operacji i z uwzględnieniem § 11 ust. 6 i 7, do zawarcia umowy, wyznaczając termin jej zawarcia nie dłuższy niż 14 dni od dnia otrzymania wezwania.
 3.
 W przypadku gdy wnioskodawca nie stawił się w wyznaczonym przez podmiot wdrażający terminie w celu zawarcia umowy albo odmówił jej zawarcia, podmiot wdrażający nie przyznaje pomocy, chyba że wnioskodawca stawił się w celu zawarcia umowy i zawarł ją w innym terminie:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2.)
 uzgodnionym z podmiotem wdrażającym przed upływem terminu wyznaczonego w wezwaniu, nie dłuższym niż 28 dni od dnia otrzymania wezwania, albo
 2)
 wyznaczonym przez podmiot wdrażający, nie dłuższym niż 14 dni od dnia, na który został wyznaczony poprzedni termin zawarcia umowy.
@@ -315,15 +309,15 @@ W przypadku gdy nie została zawarta umowa z wnioskodawcą, którego operacja uz
 Umowa, poza postanowieniami określonymi w art. 23 ust. 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, może zawierać inne postanowienia dotyczące realizacji operacji, w szczególności zobowiązania dotyczące:
 1)
 osiągnięcia celu operacji w terminie określonym w umowie;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 ograniczeń lub warunków w zakresie przenoszenia własności lub posiadania rzeczy nabytych w ramach realizacji operacji lub sposobu ich wykorzystywania przez okres 5 lat od dnia przyznania pomocy;
 3)
 sposobu lub miejsca realizacji operacji;
-4)
+4W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 umożliwienia przeprowadzania kontroli związanych z przyznaną pomocą przez okres 5 lat od dnia przyznania pomocy;
-5)
+5W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 przechowywania dokumentów związanych z przyznaną pomocą przez okres 5 lat od dnia dokonania płatności ostatecznej;
-6)
+6W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 informowania podmiotu wdrażającego o okolicznościach mogących mieć wpływ na wykonanie umowy przez okres 5 lat od dnia przyznania pomocy.
 2.
 Wnioskodawca będący osobą fizyczną dołącza do umowy oświadczenie o niepozostawaniu w związku małżeńskim albo oświadczenie o ustanowionej małżeńskiej rozdzielności majątkowej, albo oświadczenie małżonka o wyrażeniu zgody na zawarcie umowy.
@@ -354,7 +348,7 @@ Jeżeli wniosek o płatność został wypełniony nieprawidłowo lub zawiera bra
 Jeżeli beneficjent pomimo wezwania, o którym mowa w ust. 2, nie usunął w terminie nieprawidłowości lub braków, wzywa się go ponownie, na piśmie, do usunięcia tych nieprawidłowości lub braków w terminie 7 dni od dnia doręczenia wezwania.
 4.
 Jeżeli beneficjent, pomimo ponownego wezwania, o którym mowa w ust. 3, nie usunął w terminie nieprawidłowości lub braków, wniosek o płatność rozpatruje się w zakresie, w jakim został on wypełniony, oraz na podstawie dołączonych do niego dokumentów.
-5.
+5Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 7..
 Podmiot wdrażający, na uzasadnioną prośbę wnioskodawcy, może wyrazić zgodę na przedłużenie terminu wykonania przez wnioskodawcę określonych czynności w toku rozpatrywania wniosku o płatność, jednak nie dłużej niż o 2 miesiące, przy czym przedłużenie terminu o więcej niż miesiąc wymaga udokumentowania przez wnioskodawcę przyczyny uzasadniającej jego prośbę.
 § 17.
 1.
@@ -368,9 +362,9 @@ Do wniosku o płatność i trybu jego rozpatrywania przepisy § 9 ust. 4 stosuje
 Podmiot wdrażający rozpatruje wniosek o płatność w terminie 2 miesięcy od dnia jego złożenia.
 2.
 Agencja dokonuje wypłaty środków finansowych z tytułu pomocy w terminie 30 dni od dnia otrzymania polecenia wypłaty pomocy od podmiotu wdrażającego.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 7..
 Bieg terminu rozpatrywania wniosku o płatność wstrzymuje się do czasu wykonania czynności, o których mowa w § 16 ust. 2, 3 i 5.
-§ 19.
+§ 19W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 7..
 1.
 W razie śmierci, rozwiązania lub przekształcenia wnioskodawcy, połączenia wnioskodawcy z innym podmiotem lub innego zdarzenia, w wyniku którego zaistnieje następstwo prawne, albo nabycia całości lub części przedsiębiorstwa wnioskodawcy przez inny podmiot, przed zawarciem umowy, następca prawny wnioskodawcy albo nabywca całości albo części przedsiębiorstwa wnioskodawcy, zwany dalej „następcą wnioskodawcy”, może wstąpić do toczącego się postępowania na miejsce wnioskodawcy, jeżeli:
 1)
@@ -416,7 +410,7 @@ W razie śmierci, rozwiązania lub przekształcenia beneficjenta, połączenia b
 Wniosek o przyznanie pomocy następca składa do podmiotu wdrażającego w terminie 2 miesięcy od dnia zaistnienia zdarzenia określonego w ust. 1.
 3.
 Do wniosku o przyznanie pomocy następca dołącza dokument potwierdzający zaistnienie następstwa prawnego lub nabycia całości lub części przedsiębiorstwa.
-3a.
+3aDodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 7..
 W przypadku następstwa prawnego będącego wynikiem śmierci beneficjenta, przepisy § 19 ust. 4–6 stosuje się odpowiednio.
 4.
 W przypadku złożenia przez następcę wniosku o przyznanie pomocy po upływie terminu, o którym mowa w ust. 2, lub niezawierającego adresu wnioskodawcy, jeżeli niemożliwe jest ustalenie tego adresu na podstawie posiadanych danych, wniosek ten pozostawia się bez rozpatrzenia.
@@ -446,10 +440,9 @@ Termin wykonania określonych czynności w toku postępowania o przyznanie pomoc
 § 24.
 Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 maja 2008 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 95, poz. 604).
 § 25.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 5 lipca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 818), które weszło w życie z dniem 1 sierpnia 2012 r. 3) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 6) Dodana przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 31 maja 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 102, poz. 650), które weszło w życie z dniem 11 czerwca 2010 r. 8) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2. 12) W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2. 13) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 7. 14) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 7. 15) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 7. 16) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 7. 17) Rozporządzenie zostało ogłoszone w dniu 17 lipca 2009 r.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 17 lipca 2009 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 5 lipca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 818), które weszło w życie z dniem 1 sierpnia 2012 r. 3) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 6) Dodana przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 31 maja 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 102, poz. 650), które weszło w życie z dniem 11 czerwca 2010 r. 8) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2. 12) W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2. 13) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 7. 14) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 7. 15) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 7. 16) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 7. 17) Rozporządzenie zostało ogłoszone w dniu 17 lipca 2009 r.
 Załącznik – Szczegółowe kryteria oceny merytorycznej operacji
-1.
+1W brzmieniu ustalonym przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Szczegółowy program szkolenia realizowanego w ramach operacji (od 1 do 20 pkt):
 1)
 jakość merytoryczna operacji, w tym stopień uszczegółowienia ramowego programu szkolenia, sposób ujęcia poszczególnych zagadnień określonych w ogłoszeniu o konkursie, poprawność i konsekwencja terminologiczna – 1–6 pkt;
@@ -469,7 +462,7 @@ b)
 wykształcenie wyższe niekierunkowe – 5 pkt,
 c)
 wykształcenie średnie – 1 pkt;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 8 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
 doświadczenie kadry dydaktycznej (od 1 do 10 pkt):
 a)
 powyżej 90% do 100% kadry z doświadczeniem w organizacji szkoleń w zakresie tematu szkolenia realizowanego w ramach operacji – 10 pkt,
@@ -482,8 +475,7 @@ powyżej 60% do 70% kadry z doświadczeniem w organizacji szkoleń w zakresie te
 e)
 powyżej 50% do 60% kadry z doświadczeniem w organizacji szkoleń w zakresie tematu szkolenia realizowanego w ramach operacji – 2 pkt,
 f)
-do 50% kadry z doświadczeniem w organizacji szkoleń w zakresie tematu szkolenia realizowanego w ramach operacji – 1 pkt.
-Za dysponującego odpowiednią kadrą dydaktyczną do prowadzenia szkoleń uznaje się wnioskodawcę, który uzyskał co najmniej 7 punktów.
+do 50% kadry z doświadczeniem w organizacji szkoleń w zakresie tematu szkolenia realizowanego w ramach operacji – 1 pkt. Za dysponującego odpowiednią kadrą dydaktyczną do prowadzenia szkoleń uznaje się wnioskodawcę, który uzyskał co najmniej 7 punktów.Zdanie stanowiące część wspólną w brzmieniu ustalonym przez § 1 pkt 8 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2.
 3.
 Baza dydaktyczno-lokalowa, która będzie wykorzystana do przeprowadzenia szkolenia realizowanego w ramach operacji (od 1 do 10 pkt):
 1)
@@ -491,10 +483,10 @@ zapewnienie pomieszczeń dydaktycznych w ilości adekwatnej do planowanej liczby
 2)
 wyposażenie pomieszczeń dydaktycznych w środki dydaktyczne (na podstawie planowanej liczby szkoleń oraz harmonogramu realizacji operacji z uwzględnieniem liczby dni szkolenia i dostępnych środków dydaktycznych) – 1–4 pkt;
 3)
-zapewnienie zaplecza socjalnego (na podstawie planowanej liczby szkoleń oraz harmonogramu realizacji operacji z uwzględnieniem liczby dni szkolenia i dostępnego zaplecza socjalnego) – 0–3 pkt.
-Za dysponującego odpowiednią bazą dydaktyczno-lokalową, która będzie wykorzystana do prowadzenia szkoleń, uznaje się wnioskodawcę, który uzyskał co najmniej 3 punkty.
-4.
-Koszt osobogodziny szkolenia realizowanego w ramach operacji (od 1 do 30 pkt) , gdzie liczba punktów za koszt osobogodziny szkolenia realizowanego w ramach operacji obliczona jest według wzoru: liczba punktów = minimalny koszt osobogodziny w konkursie × 30 pkt koszt osobogodziny dla badanej operacji
+zapewnienie zaplecza socjalnego (na podstawie planowanej liczby szkoleń oraz harmonogramu realizacji operacji z uwzględnieniem liczby dni szkolenia i dostępnego zaplecza socjalnego) – 0–3 pkt. Za dysponującego odpowiednią bazą dydaktyczno-lokalową, która będzie wykorzystana do prowadzenia szkoleń, uznaje się wnioskodawcę, który uzyskał co najmniej 3 punkty.
+4W brzmieniu ustalonym przez § 1 pkt 8 lit. c rozporządzenia, o którym mowa w odnośniku 2..
+Koszt osobogodziny szkolenia realizowanego w ramach operacji (od 1 do 30 pkt) , gdzie liczba punktów za koszt osobogodziny szkolenia realizowanego w ramach operacji obliczona jest według wzoru:
+liczba punktów = minimalny koszt osobogodziny w konkursie × 30 pkt koszt osobogodziny dla badanej operacji
 – przyjmując, że w ogłoszeniu o konkursie określono minimalne warunki realizacji operacji, w tym: minimalną liczbę osób do przeszkolenia w ramach operacji, wymagania w zakresie jakości realizacji szkoleń, tj. maksymalną liczbę osób w grupie szkoleniowej, jakość materiałów szkoleniowych, warunki zakwaterowania i wyżywienia.
 5.
 Doświadczenie w organizacji szkoleń dla osób zatrudnionych w rolnictwie lub leśnictwie (od 1 do 20 pkt):
@@ -509,8 +501,7 @@ c)
 d)
 2 lata aktywności w organizacji szkoleń o charakterze i złożoności porównywalnych z zakresem usług będących przedmiotem operacji – 5 pkt,
 e)
-1 rok aktywności w organizacji szkoleń o charakterze i złożoności porównywalnych z zakresem usług będących przedmiotem operacji – 1 pkt
-gdzie za aktywność w organizacji szkoleń uznaje się organizację minimum jednego szkolenia w roku. Za posiadającego odpowiednie doświadczenie w organizacji szkoleń uznaje się wnioskodawcę, który uzyskał co najmniej 5 punktów;
+1 rok aktywności w organizacji szkoleń o charakterze i złożoności porównywalnych z zakresem usług będących przedmiotem operacji – 1 pkt – gdzie za aktywność w organizacji szkoleń uznaje się organizację minimum jednego szkolenia w roku. Za posiadającego odpowiednie doświadczenie w organizacji szkoleń uznaje się wnioskodawcę, który uzyskał co najmniej 5 punktów;
 2)
-w przypadku konsorcjum, w skład którego wchodzi organizacja rolnicza, przyznaje się 3 pkt z tytułu dzielenia się doświadczeniem w przeprowadzaniu szkoleń dla osób zatrudnionych w rolnictwie lub leśnictwie przez organizacje rolnicze z pozostałymi podmiotami wchodzącymi w skład konsorcjum.
+w przypadku konsorcjum, w skład którego wchodzi organizacja rolnicza, przyznaje się 3 pkt z tytułu dzielenia się doświadczeniem w przeprowadzaniu szkoleń dla osób zatrudnionych w rolnictwie lub leśnictwie przez organizacje rolnicze z pozostałymi podmiotami wchodzącymi w skład konsorcjum. 18) W brzmieniu ustalonym przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 pkt 8 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 20) Zdanie stanowiące część wspólną w brzmieniu ustalonym przez § 1 pkt 8 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 21) W brzmieniu ustalonym przez § 1 pkt 8 lit. c rozporządzenia, o którym mowa w odnośniku 2.
 

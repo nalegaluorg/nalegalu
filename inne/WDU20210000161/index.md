@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 21 stycznia 2021 r. w sprawie wyznaczenia dyrektora izby administracji skarbowej właściwego w sprawach Centralnego Rejestru Podmiotów Akcyzowych
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 21 stycznia 2021 r. w sprawie wyznaczenia dyrektora izby administracji skarbowej właściwego w sprawach Centralnego Rejestru Podmiotów Akcyzowych Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-01-21 |
 | Data wydania | 2021-01-26 |
-| Wejście w życie | 2021-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000161) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/161/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 14 ust. 14 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym
 § 1.
 Wyznacza się Dyrektora Izby Administracji Skarbowej w Poznaniu jako organ właściwy w sprawach Centralnego Rejestru Podmiotów Akcyzowych.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lutego 2021 r.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Rozporządzenie wchodzi w życie z dniem 1 lutego 2021 r. 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 

@@ -26,12 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000385) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/385/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 21 listopada 1996 r. o muzeach Rozdział 1 – Przepisy ogólne Rozdział 2 – Organizacja muzeów Rozdział 3 – Muzeum rejestrowane Rozdział 4 – Muzealia Rozdział 4a – Ochrona prawna rzeczy ruchomych o wartości historycznej, artystycznej lub naukowej wypożyczonych z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej Rozdział 5 – Pracownicy muzeów Rozdział 5a – Przepis karny Rozdział 6 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 21 listopada 1996 r. o muzeach
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2020 r. poz. 902), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 lutego 2022 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 58 ust. 1 i art. 63 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641), które stanowią: „ 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1024 z dnia 20 czerwca 2019 r. w sprawie otwartych danych i ponownego wykorzystywania informacji sektora publicznego (Dz. Urz. UE L 172 z 26.06.2019, str. 56). ”
+Przepisy ogólne
+Organizacja muzeów
+Muzeum rejestrowane
+Muzealia
+Ochrona prawna rzeczy ruchomych o wartości historycznej, artystycznej lub naukowej wypożyczonych z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej
 1.
 Rzecz ruchoma o wartości historycznej, artystycznej lub naukowej wypożyczana z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, zwana dalej „rzeczą ruchomą”, może zostać objęta ochroną prawną, jeżeli:
 1)
@@ -49,8 +54,7 @@ wystawa czasowa będzie organizowana przez:
 a)
 instytucję kultury w rozumieniu ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej lub
 b)
-muzeum niebędące instytucją kultury, wpisane do wykazu, o którym mowa w art. 5b ust. 1
-zwane dalej „organizatorem wystawy”.
+muzeum niebędące instytucją kultury, wpisane do wykazu, o którym mowa w art. 5b ust. 1 – zwane dalej „organizatorem wystawy”.
 2.
 Ochrona prawna rzeczy ruchomej obejmuje okres nie dłuższy niż 12 miesięcy od dnia jej wwiezienia na terytorium Rzeczypospolitej Polskiej.
 3.
@@ -114,6 +118,8 @@ informację o ustaniu ochrony prawnej rzeczy ruchomej z przyczyn określonych w 
 W Biuletynie Informacji Publicznej udostępnia się informacje określone w ust. 2 pkt 1 i 3–6.
 4.
 Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, wzór karty ewidencyjnej, uwzględniając zakres danych objętych ewidencją, w tym potrzebę umożliwienia skutecznej identyfikacji rzeczy ruchomej objętej ochroną prawną.
+Pracownicy muzeów
+Przepis karny
 1.
 Kto bez pozwolenia wywozi za granicę muzealium, które nie stanowi zabytku w rozumieniu art. 3 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, wpisane do inwentarza muzealiów w muzeum będącym instytucją kultury lub po wywiezieniu go za granicę nie sprowadza do kraju w okresie ważności pozwolenia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
 2.
@@ -122,14 +128,31 @@ Jeżeli sprawca czynu określonego w ust. 1 działa nieumyślnie, podlega grzywn
 W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 4.
 W razie skazania za przestępstwo określone w ust. 1 sąd orzeka, a w razie skazania za przestępstwo określone w ust. 2 sąd może orzec, nawiązkę na wskazany cel społeczny związany z opieką nad zabytkami w wysokości od trzykrotnego do trzydziestokrotnego minimalnego wynagrodzenia przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę.
+Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 Art. 35–39.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Organizacja muzeów
+
+#### Rozdział 3 – Muzeum rejestrowane
+
+#### Rozdział 4 – Muzealia
+
+#### Rozdział 4a – Ochrona prawna rzeczy ruchomych o wartości historycznej, artystycznej lub naukowej wypożyczonych z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej
+
+#### Rozdział 5 – Pracownicy muzeów
+
+#### Rozdział 5a – Przepis karny
+
+#### Rozdział 6 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 **Art. 58.** „1. Do spraw z zakresu przekazywania informacji sektora publicznego w celu ponownego wykorzystywania, wszczętych i niezakończonych w dniu wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe. ” „
 
 **Art. 63.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 24, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 21 listopada 1996 r. o muzeach
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Muzeum jest jednostką organizacyjną nienastawioną na osiąganie zysku, której celem jest gromadzenie i trwała ochrona dóbr naturalnego i kulturalnego dziedzictwa ludzkości o charakterze materialnym i niematerialnym, informowanie o wartościach i treściach gromadzonych zbiorów, upowszechnianie podstawowych wartości historii, nauki i kultury polskiej oraz światowej, kształtowanie wrażliwości poznawczej i estetycznej oraz umożliwianie korzystania ze zgromadzonych zbiorów.
 
@@ -151,7 +174,7 @@ Art. 35–39.
 
 **Art. 4.** W sprawach nieuregulowanych w ustawie mają zastosowanie przepisy ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2020 r. poz. 194).
 
-#### Rozdział 2 Organizacja muzeów
+#### Rozdział 2
 
 **Art. 5.**
 
@@ -170,7 +193,7 @@ Art. 35–39.
 5. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi w drodze rozporządzenia:
 
 - **1)** szczegółowy zakres i tryb zabezpieczania zbiorów przed pożarem, kradzieżą i innym niebezpieczeństwem grożącym zniszczeniem lub utratą zbiorów,
-- **2)** sposoby przygotowania zbiorów do ewakuacji w razie powstania zagrożenia mając na względzie niedopuszczenie do sytuacji, w której zbiory mogą być utracone, uszkodzone lub zniszczone, oraz ochronę miejsca przechowywania i eksponowania zbiorów oraz ich ochronę w czasie transportu.
+- **2)** sposoby przygotowania zbiorów do ewakuacji w razie powstania zagrożenia – mając na względzie niedopuszczenie do sytuacji, w której zbiory mogą być utracone, uszkodzone lub zniszczone, oraz ochronę miejsca przechowywania i eksponowania zbiorów oraz ich ochronę w czasie transportu.
 
 6. Muzea państwowe i rejestrowane muzea samorządowe mają prawo używania okrągłej pieczęci z wizerunkiem orła ustalonym dla godła Rzeczypospolitej Polskiej oraz nazwą muzeum w otoku.
 
@@ -246,7 +269,7 @@ Art. 35–39.
 - **2)** tryb postępowania w sprawach o nadanie medalu, okoliczności wręczania odznaki medalu oraz legitymacji potwierdzającej nadanie medalu,
 - **3)** sposób noszenia i przechowywania odznaki medalu,
 - **4)** tryb i sposób wydawania duplikatu legitymacji potwierdzającej nadanie medalu,
-- **5)** wzory odznaki medalu oraz legitymacji potwierdzającej nadanie medalu uwzględniając konieczność zapewnienia sprawności postępowania w sprawach o nadanie medalu oraz godnego i uroczystego uhonorowania osób oraz jednostek organizacyjnych, którym jest nadawany medal.
+- **5)** wzory odznaki medalu oraz legitymacji potwierdzającej nadanie medalu – uwzględniając konieczność zapewnienia sprawności postępowania w sprawach o nadanie medalu oraz godnego i uroczystego uhonorowania osób oraz jednostek organizacyjnych, którym jest nadawany medal.
 
 **Art. 7.**
 
@@ -352,7 +375,7 @@ Art. 35–39.
 
 2. Tryb działania kolegiów doradczych, skład osobowy i organizację określa statut muzeum.
 
-#### Rozdział 3 Muzeum rejestrowane
+#### Rozdział 3
 
 **Art. 13.**
 
@@ -365,7 +388,7 @@ Art. 35–39.
 - **1)** sposób prowadzenia Rejestru,
 - **2)** wzór wniosku o wpis do Rejestru,
 - **3)** warunki i tryb dokonywania wpisów w Rejestrze,
-- **4)** okoliczności, w jakich można zarządzić kontrolę w celu ustalenia, czy muzeum spełnia nadal warunki wpisu do Rejestru biorąc pod uwagę uprawnienia nadzorcze ministra nad muzeami.
+- **4)** okoliczności, w jakich można zarządzić kontrolę w celu ustalenia, czy muzeum spełnia nadal warunki wpisu do Rejestru – biorąc pod uwagę uprawnienia nadzorcze ministra nad muzeami.
 
 4. Z dniem wpisu do Rejestru muzeum jest uprawnione do używania nazwy „muzeum rejestrowane”.
 
@@ -420,7 +443,7 @@ Art. 35–39.
 4. W przypadku przyznania wynagrodzenia, o którym mowa w ust. 1, nie może być ono wyższe niż:
 
 - **1)** dla przewodniczącego rady – 50%,
-- **2)** dla pozostałych członków rady – 45% minimalnego wynagrodzenia przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę.
+- **2)** dla pozostałych członków rady – 45% – minimalnego wynagrodzenia przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę.
 
 **Art. 20.**
 
@@ -432,7 +455,7 @@ Art. 35–39.
 
 4. Sprzedaż dokonana z naruszeniem prawa pierwszeństwa, o którym mowa w ust. 1, oraz prawa pierwokupu, o którym mowa w ust. 2, jest nieważna.
 
-#### Rozdział 4 Muzealia
+#### Rozdział 4
 
 **Art. 21.**
 
@@ -474,9 +497,7 @@ Art. 35–39.
 
 2. Wysokość opłat, o których mowa w ust. 1, ustala dyrektor muzeum. W uzasadnionych przypadkach dyrektor muzeum może ustalić opłatę ulgową lub zwolnić z opłaty.
 
-3. Nie pobiera się opłat za wypożyczenia muzealiów między muzeami krajowymi oraz, pod warunkiem wzajemności, między muzeami z siedzibą w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym.
-
-4. W przypadku ustalania i pobierania opłat za czynności, o których mowa w ust. 1, podejmowane w ramach udostępniania informacji sektora publicznego do ponownego wykorzystywania stosuje się przepisy ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641).
+3. Nie pobiera się opłat za wypożyczenia muzealiów między muzeami krajowymi oraz, pod warunkiem wzajemności, między muzeami z siedzibą w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym. 4Ze zmianą wprowadzoną przez art. 47 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641), która weszła w życie z dniem 8 grudnia 2021 r.. W przypadku ustalania i pobierania opłat za czynności, o których mowa w ust. 1, podejmowane w ramach udostępniania informacji sektora publicznego do ponownego wykorzystywania stosuje się przepisy ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641).
 
 1. Wizerunki muzealiów mogą być utrwalone i przechowywane na informatycznych nośnikach danych w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070).
 
@@ -525,15 +546,15 @@ Art. 35–39.
 
 - **1)** zakres danych, które zawierają wnioski o wydanie pozwoleń, o których mowa w ust. 2,
 - **2)** dokumenty dołączane do wniosków, o których mowa w ust. 2 pkt 1 i 2,
-- **3)** wzory pozwoleń, o których mowa w ust. 2 uwzględniając potrzebę zapewnienia skutecznej identyfikacji muzealiów, o których mowa w ust. 2, oraz konieczność wskazania we wniosku o wydanie pozwolenia, o którym mowa w ust. 2 pkt 3, imienia i nazwiska przynajmniej 2 osób uprawnionych do podpisania wykazu wywożonych muzealiów dołączanego do tego pozwolenia.
+- **3)** wzory pozwoleń, o których mowa w ust. 2 – uwzględniając potrzebę zapewnienia skutecznej identyfikacji muzealiów, o których mowa w ust. 2, oraz konieczność wskazania we wniosku o wydanie pozwolenia, o którym mowa w ust. 2 pkt 3, imienia i nazwiska przynajmniej 2 osób uprawnionych do podpisania wykazu wywożonych muzealiów dołączanego do tego pozwolenia.
 
 **Art. 30.** Muzealia wpisane do inwentarzy muzeów państwowych lub samorządowych nie podlegają egzekucji na podstawie tytułu wykonawczego w sądowym lub administracyjnym postępowaniu egzekucyjnym. Dostęp do informacji służących zapewnieniu bezpieczeństwa muzealiom ze względu na ochronę przed zagrożeniem pożarowym, kradzieżą i innego rodzaju niebezpieczeństwem, które grozi zniszczeniem lub utratą zbiorów, podlega ograniczeniu.
 
 **Art. 31.** Przepisy rozdziału 4 nie naruszają przepisów dotyczących ochrony narodowego zasobu archiwalnego oraz przepisów regulujących zasady zbywania mienia komunalnego. (uchylony)
 
-#### Rozdział 4a Ochrona prawna rzeczy ruchomych o wartości historycznej, artystycznej lub naukowej wypożyczonych z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej
+#### Rozdział 4a
 
-#### Rozdział 5 Pracownicy muzeów
+#### Rozdział 5
 
 **Art. 32.**
 
@@ -542,7 +563,7 @@ Art. 35–39.
 - **1)** gromadzeniem i naukowym opracowywaniem zbiorów,
 - **2)** urządzaniem wystaw i udostępnianiem zbiorów do celów edukacyjnych i naukowych,
 - **3)** organizowaniem badań i ekspedycji naukowych, w tym archeologicznych,
-- **4)** prowadzeniem działalności edukacyjnej, artystycznej, upowszechniającej kulturę lub wydawniczej tworzą zawodową grupę muzealników.
+- **4)** prowadzeniem działalności edukacyjnej, artystycznej, upowszechniającej kulturę lub wydawniczej – tworzą zawodową grupę muzealników.
 
 2. Pracowników, którzy tworzą zawodową grupę muzealników, zatrudnia się na stanowiskach kustosza dyplomowanego, kustosza, adiunkta i asystenta.
 
@@ -615,7 +636,7 @@ Art. 35–39.
 
 10. Na stanowisku renowatora przyuczonego może być zatrudniona osoba, która posiada wykształcenie średnie, średnie branżowe, zasadnicze zawodowe lub zasadnicze branżowe oraz co najmniej 2-letni staż pracy.
 
-**Art. 33.** Muzea prowadzące lub koordynujące prace naukowe mogą zatrudniać pracowników naukowych i badawczo-technicznych, na zasadach określonych w ustawie z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz. U. z 2008 r. poz. 993 oraz z 2009 r. poz. 1323). Do pracowników tych przepis art. 34 stosuje się odpowiednio. 1. Posiadanie kwalifikacji wymaganych na poszczególnych stanowiskach w muzeach stwierdza pracodawca na podstawie świadectw pracy, dyplomów poświadczających zdobyte wykształcenie, świadectw lub zaświadczeń o ukończeniu kursów, szkoleń specjalistycznych, praktyk zawodowych, a w przypadku stanowiska kustosza dyplomowanego i kustosza – także zaświadczenia o posiadaniu dorobku zawodowego. 2. Do stażu pracy zalicza się okresy zatrudnienia na stanowiskach, na których realizuje się zadania związane z działalnością muzealniczą, naukową, upowszechnianiem kultury lub ochroną zabytków i opieką nad zabytkami w:
+**Art. 33.** Muzea prowadzące lub koordynujące prace naukowe mogą zatrudniać pracowników naukowych i badawczo-technicznych, na zasadach określonych w ustawie z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz. U. z 2008 r. poz. 993 oraz z 2009 r. poz. 1323)Ustawa utraciła moc z dniem 1 października 2010 r. na podstawie art. 8 ustawy z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620), która weszła w życie z dniem 1 października 2010 r.. Do pracowników tych przepis art. 34 stosuje się odpowiednio. 1. Posiadanie kwalifikacji wymaganych na poszczególnych stanowiskach w muzeach stwierdza pracodawca na podstawie świadectw pracy, dyplomów poświadczających zdobyte wykształcenie, świadectw lub zaświadczeń o ukończeniu kursów, szkoleń specjalistycznych, praktyk zawodowych, a w przypadku stanowiska kustosza dyplomowanego i kustosza – także zaświadczenia o posiadaniu dorobku zawodowego. 2. Do stażu pracy zalicza się okresy zatrudnienia na stanowiskach, na których realizuje się zadania związane z działalnością muzealniczą, naukową, upowszechnianiem kultury lub ochroną zabytków i opieką nad zabytkami w:
 
 - **1)** muzeach, instytucjach kultury innych niż muzea, archiwach, uczelniach, instytutach naukowych, instytutach badawczych, urzędach administracji publicznej, państwowych lub samorządowych jednostkach organizacyjnych;
 - **2)** podmiotach znajdujących się poza terytorium Rzeczypospolitej Polskiej, które prowadzą działalność taką jak podmioty, o których mowa w pkt 1.
@@ -653,12 +674,9 @@ Art. 35–39.
 
 **Art. 34.** Muzealnik w czasie pozostawania w stosunku pracy w muzeum przestrzega ogólnie przyjętych norm etyki zawodowej, a w szczególności nie prowadzi handlu przedmiotami pozostającymi w zakresie zainteresowania muzeum i nie podejmuje działań, jak kolekcjonerskich, wykonywania ekspertyz i wycen przedmiotów, mogących powodować konflikt interesów z zatrudniającym go muzeum.
 
-#### Rozdział 5a Przepis karny
+#### Rozdział 5a
 
-#### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+#### Rozdział 6
 
-**Art. 40.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-
-- **1)** Ze zmianą wprowadzoną przez art. 47 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641), która weszła w życie z dniem 8 grudnia 2021 r. 2) Ustawa utraciła moc z dniem 1 października 2010 r. na podstawie art. 8 ustawy z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620), która weszła w życie z dniem 1 października 2010 r. 3) Ustawa została ogłoszona w dniu 20 stycznia 1997 r.
-
+**Art. 40.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 20 stycznia 1997 r.. 1) Ze zmianą wprowadzoną przez art. 47 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641), która weszła w życie z dniem 8 grudnia 2021 r. 2) Ustawa utraciła moc z dniem 1 października 2010 r. na podstawie art. 8 ustawy z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620), która weszła w życie z dniem 1 października 2010 r. 3) Ustawa została ogłoszona w dniu 20 stycznia 1997 r.
 

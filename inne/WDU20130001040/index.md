@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-08-06 |
 | Data wydania | 2013-09-09 |
-| Wejście w życie | 2013-09-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001040) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1040/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 124 ust. 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 124 ust. 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371, z 2012 r. poz. 627, 664, 769 i 951 oraz z 2013 r. poz. 628, 675 i 829.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 czerwca 2002 r. w sprawie warunków pokrywania kosztów pogrzebu funkcjonariusza Straży Granicznej ze środków właściwego organu Straży Granicznej oraz określenia członków rodziny, na których przysługuje zasiłek pogrzebowy (Dz. U. Nr 86, poz. 791) w § 9 w ust. 2 pkt 1 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 czerwca 2002 r. w sprawie warunków pokrywania kosztów pogrzebu funkcjonariusza Straży Granicznej ze środków właściwego organu Straży Granicznej oraz określenia członków rodziny, na których przysługuje zasiłek pogrzebowy (Dz. U. Nr 86, poz. 791) w § 9 w ust. 2 pkt 1 otrzymuje brzmienie: „
 1)
-wyciąg z aktu zgonu (do wglądu), a w przypadku pogrzebu dziecka martwo urodzonego – oświadczenie, że dziecko urodziło się martwe,
-” .
+wyciąg z aktu zgonu (do wglądu), a w przypadku pogrzebu dziecka martwo urodzonego – oświadczenie, że dziecko urodziło się martwe, ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371, z 2012 r. poz. 627, 664, 769 i 951 oraz z 2013 r. poz. 628, 675 i 829.
 

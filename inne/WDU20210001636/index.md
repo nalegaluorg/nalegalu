@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 12 sierpnia 2021 r. w sprawie kontroli celno-skarbowej niektórych wyrobów akcyzowych
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 12 sierpnia 2021 r. w sprawie kontroli celno-skarbowej niektórych wyrobów akcyzowych Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,20 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-12 |
 | Data wydania | 2021-09-07 |
-| Wejście w życie | 2021-09-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001636) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1636/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowy zakres i sposób kontroli niektórych wyrobów akcyzowych Rozdział 3 – Tryb przekazywania oraz zakres informacji o terminach czynności podlegających kontroli Rozdział 4 – Tryb niszczenia wyrobów akcyzowych objętych kontrolą Rozdział 5 – Szczegółowe sposoby i warunki przyjmowania, magazynowania, wydawania i przewożenia wyrobów akcyzowych Rozdział 6 – Przepisy przejściowe Rozdział 7 – Przepisy końcowe
 Treść rozporządzenia
-Na podstawie art. 90 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2021 r. poz. 422, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 90 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2021 r. poz. 422, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 464, 694, 802, 815, 954, 1003 i 1005.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
 szczegółowy zakres i sposób kontroli celno-skarbowej wyrobów akcyzowych:
 a)
 objętych procedurą zawieszenia poboru podatku akcyzowego, zwanego dalej „akcyzą”, lub objętych zwolnieniem od akcyzy ze względu na przeznaczenie:
-– piwa, o którym mowa w art. 94 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2020 r. poz. 722, z późn. zm.), zwanej dalej „ustawą”,
+– piwa, o którym mowa w art. 94 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2020 r. poz. 722, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1747, 2320 i 2419 oraz z 2021 r. poz. 72, 255, 694, 802 i 1093.), zwanej dalej „ustawą”,
 – wina, napojów fermentowanych oraz wyrobów pośrednich, o których mowa w art. 95 ust. 1, art. 96 ust. 1 i art. 97 ust. 1 ustawy,
 – alkoholu etylowego, o którym mowa w art. 93 ust. 1 ustawy, objętego pozycją CN 2207,
 – alkoholu etylowego, o którym mowa w art. 93 ust. 1 ustawy, objętego pozycją CN 2208,
@@ -52,8 +52,7 @@ wymienionych w załączniku nr 2 do ustawy, opodatkowanych zerową stawką akcyz
 e)
 produkowanych poza składem podatkowym na podstawie art. 47 ust. 1 pkt 1, 2, 4 i 5 ustawy,
 f)
-objętego zwolnieniem od akcyzy alkoholu etylowego skażonego mieszaniną alkoholu izopropylowego (propan-2-ol) i benzoesanu denatonium lub mieszaniną alkoholu tert-butylowego i benzoesanu denatonium, lub alkoholem izopropylowym, zawartego w wyrobach nieprzeznaczonych do spożycia przez ludzi bez względu na ich kod CN, zawierających w swoim składzie alkohol etylowy skażony o mocy objętościowej alkoholu etylowego powyżej 50%
-w zakresie przestrzegania przepisów o podatku akcyzowym w zakresie produkcji, przemieszczania i zużycia wyrobów akcyzowych, w szczególności ich wytwarzania, uszlachetniania, przerabiania, skażania, rozlewu, przyjmowania, magazynowania, wydawania, przewozu i niszczenia, oraz w zakresie stosowania znaków akcyzy i oznaczania znakami akcyzy tych wyrobów, zwanej dalej „kontrolą”;
+objętego zwolnieniem od akcyzy alkoholu etylowego skażonego mieszaniną alkoholu izopropylowego (propan-2-ol) i benzoesanu denatonium lub mieszaniną alkoholu tert-butylowego i benzoesanu denatonium, lub alkoholem izopropylowym, zawartego w wyrobach nieprzeznaczonych do spożycia przez ludzi bez względu na ich kod CN, zawierających w swoim składzie alkohol etylowy skażony o mocy objętościowej alkoholu etylowego powyżej 50% – w zakresie przestrzegania przepisów o podatku akcyzowym w zakresie produkcji, przemieszczania i zużycia wyrobów akcyzowych, w szczególności ich wytwarzania, uszlachetniania, przerabiania, skażania, rozlewu, przyjmowania, magazynowania, wydawania, przewozu i niszczenia, oraz w zakresie stosowania znaków akcyzy i oznaczania znakami akcyzy tych wyrobów, zwanej dalej „kontrolą”;
 2)
 tryb przekazywania oraz zakres informacji o terminach czynności podlegających kontroli;
 3)
@@ -83,13 +82,14 @@ skażanie – rozumie się dodanie do alkoholu etylowego:
 a)
 środków skażających w ilości i na warunkach określonych w przepisach wydanych na podstawie art. 38 ust. 1 ustawy, spośród środków dopuszczonych do skażania alkoholu etylowego zgodnie z przepisami wydanymi na podstawie ustawy z dnia 2 marca 2001 r. o wyrobie alkoholu etylowego oraz wytwarzaniu wyrobów tytoniowych (Dz. U. z 2018 r. poz. 2352),
 b)
-substancji skażających w ilości i na warunkach określonych w załączniku do rozporządzenia Komisji (WE) nr 3199/93 z dnia 22 listopada 1993 r. w sprawie wzajemnego uznawania procedur całkowitego skażenia alkoholu etylowego do celów zwolnienia z podatku akcyzowego (Dz. Urz. WE L 288 z 23.11.1993, str. 12, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, str. 249, z późn. zm.);
+substancji skażających w ilości i na warunkach określonych w załączniku do rozporządzenia Komisji (WE) nr 3199/93 z dnia 22 listopada 1993 r. w sprawie wzajemnego uznawania procedur całkowitego skażenia alkoholu etylowego do celów zwolnienia z podatku akcyzowego (Dz. Urz. WE L 288 z 23.11.1993, str. 12, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. WE L 260 z 31.10.1995, str. 45 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, str. 281, Dz. Urz. WE L 320 z 28.11.1998, str. 27 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, str. 319, Dz. Urz. UE L 374 z 22.12.2004, str. 42, Dz. Urz. UE L 208 z 11.08.2005, str. 12, Dz. Urz. UE L 326 z 13.12.2005, str. 8, Dz. Urz. UE L 23 z 26.01.2008, str. 13, Dz. Urz. UE L 231 z 29.08.2008, str. 11, Dz. Urz. UE L 200 z 03.08.2011, str. 14, Dz. Urz. UE L 49 z 22.02.2013, str. 55, Dz. Urz. UE L 286 z 21.10.2016, str. 32, Dz. Urz. UE L 162 z 23.06.2017, str. 22, Dz. Urz. UE L 320 z 06.12.2017, str. 6 oraz Dz. Urz. UE L 307 z 03.12.2018, str. 24. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, str. 249, z późn. zm.);
 8)
 właściwy naczelnik urzędu celno-skarbowego – rozumie się naczelnika urzędu celno-skarbowego:
 a)
 którego terytorialny zasięg działania obejmuje miejsce wykonywania podlegających kontroli czynności lub wystąpienia podlegającego kontroli stanu faktycznego,
 b)
 który objął podmiot kontrolą stałą.
+Szczegółowy zakres i sposób kontroli niektórych wyrobów akcyzowych
 § 3.
 Kontrola jest wykonywana doraźnie albo jako kontrola stała i polega na:
 1)
@@ -157,8 +157,7 @@ Przepisu ust. 1 nie stosuje się do:
 1)
 produkcji wyrobów energetycznych, piwa, wina, napojów fermentowanych, wyrobów pośrednich, wyrobów tytoniowych, płynu do papierosów elektronicznych i wyrobów nowatorskich, a także do wyrobów akcyzowych produkowanych poza składem podatkowym na podstawie art. 47 ust. 1 pkt 1, 2, 4 i 5 ustawy oraz wyrobów, o których mowa w § 1 pkt 1 lit. f,
 2)
-magazynowania wyrobów energetycznych w zbiornikach niepodlegających prawnej kontroli metrologicznej, o której mowa w art. 4 pkt 9 ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2020 r. poz. 2166 oraz z 2021 r. poz. 1093)
-z wyłączeniem obrachunków stosowania znaków akcyzy i oznaczania wyrobów akcyzowych znakami akcyzy.
+magazynowania wyrobów energetycznych w zbiornikach niepodlegających prawnej kontroli metrologicznej, o której mowa w art. 4 pkt 9 ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2020 r. poz. 2166 oraz z 2021 r. poz. 1093) – z wyłączeniem obrachunków stosowania znaków akcyzy i oznaczania wyrobów akcyzowych znakami akcyzy.
 3.
 W toku obrachunków stanu zapasów wyrobów akcyzowych i obrotu wyrobami akcyzowymi dokonuje się ustalenia rzeczywistych ubytków oraz rzeczywistego zużycia wyrobów akcyzowych i porównuje się je z dopuszczalnymi normami ustalonymi przez naczelnika urzędu skarbowego lub określonymi w przepisach wydanych na podstawie art. 85 ust. 7 ustawy.
 4.
@@ -213,8 +212,7 @@ podmioty lecznicze i apteki zużywające alkohol etylowy do celów medycznych,
 b)
 podmioty zużywające alkohol etylowy wyłącznie jako próbki do analiz, do niezbędnych prób produkcyjnych lub do celów naukowych,
 c)
-podmioty zużywające alkohol etylowy wyłącznie do badań naukowych
-pod warunkiem, że jego zużycie w ciągu roku nie przekracza ilości 3000 dm3alkoholu etylowego 100% vol. w stanie nieskażonym;
+podmioty zużywające alkohol etylowy wyłącznie do badań naukowych – pod warunkiem, że jego zużycie w ciągu roku nie przekracza ilości 3000 dm3alkoholu etylowego 100% vol. w stanie nieskażonym;
 2)
 magazynowanego przez podmioty zużywające alkohol etylowy w ilościach nieprzekraczających w ciągu roku 1000 dm3 alkoholu etylowego 100% vol. w stanie nieskażonym;
 3)
@@ -224,8 +222,7 @@ W przypadku podmiotów, o których mowa w ust. 3 pkt 1 i 2, zużywających alkoh
 1)
 nałożenia zamknięć urzędowych na magazyn lub naczynia, w których znajduje się ten alkohol etylowy,
 2)
-wydawania lub zużycia tego alkoholu etylowego w obecności kontrolującego
-biorąc pod uwagę ryzyko.
+wydawania lub zużycia tego alkoholu etylowego w obecności kontrolującego – biorąc pod uwagę ryzyko.
 5.
 W przypadku, o którym mowa w ust. 4, naczelnik urzędu celno-skarbowego informuje podmiot o odstąpieniu od nałożenia zamknięć urzędowych lub wydawania lub zużycia alkoholu etylowego w obecności kontrolującego, wskazując ilość dm3alkoholu etylowego 100% vol., którą podmiot może zużyć w określonym terminie. Przepisy § 4 ust. 4 i 5 oraz § 8 ust. 4 stosuje się odpowiednio.
 6.
@@ -303,6 +300,7 @@ W przypadku gdy podmiot poinformował właściwego naczelnika urzędu celno-skar
 Zdjęcie, kasowanie lub niszczenie znaków akcyzy odbywa się w obecności kontrolującego.
 2.
 W przypadku zdjęcia znaków akcyzy naniesionych na wyroby, o których mowa w § 1 pkt 1 lit. a tiret drugie, naczelnik urzędu celno-skarbowego, biorąc pod uwagę ryzyko, może odstąpić od wymogu obecności kontrolującego podczas tych czynności. Przepisy § 8 ust. 3 i 4 stosuje się odpowiednio.
+Tryb przekazywania oraz zakres informacji o terminach czynności podlegających kontroli
 § 20.
 Podmiot informuje właściwego naczelnika urzędu celno-skarbowego, a w przypadku wykonywania kontroli stałej – komórkę kontroli stałej, co najmniej na dzień przed zamierzonym ustalaniem rzeczywistego stanu zapasów wyrobów akcyzowych, o których mowa w § 1 pkt 1 lit. a-d, o terminie tych czynności, podając datę i godzinę.
 § 21.
@@ -311,8 +309,7 @@ Podmiot przesyła właściwemu naczelnikowi urzędu celno-skarbowego, a w przypa
 1)
 planowanej ilości i rodzaju surowców lub innych produktów, z których alkohol etylowy ma być wytworzony lub odzyskany – w przypadku wytwarzania lub odzyskiwania alkoholu etylowego,
 2)
-planowanej ilości odwodnionego lub oczyszczonego alkoholu etylowego – w przypadku odwadniania lub oczyszczania alkoholu etylowego
-z podaniem przewidywanego terminu przeprowadzenia tych czynności.
+planowanej ilości odwodnionego lub oczyszczonego alkoholu etylowego – w przypadku odwadniania lub oczyszczania alkoholu etylowego – z podaniem przewidywanego terminu przeprowadzenia tych czynności.
 2.
 Przepis ust. 1 stosuje się odpowiednio do podmiotów wytwarzających alkohol etylowy, o którym mowa w § 1 pkt 1 lit. a tiret czwarte, w procesie destylacji lub procesie innym niż proces destylacji.
 3.
@@ -479,8 +476,7 @@ zdjęcia znaków akcyzy, w przypadkach określonych w przepisach wydanych na pod
 2)
 wprowadzenia obowiązku kasowania znaków akcyzy, na podstawie art. 124 ustawy,
 3)
-niszczenia znaków akcyzy zdjętych z opakowań jednostkowych wyrobów akcyzowych oraz uszkodzonych albo zniszczonych przed ich naniesieniem na wyroby akcyzowe lub w procesie oznaczania wyrobów akcyzowych
-podmiot informuje właściwego naczelnika urzędu celno-skarbowego, co najmniej na 3 dni przed zamierzonym zdjęciem, kasowaniem lub zniszczeniem, o planowanym terminie przeprowadzenia tych czynności oraz o rodzaju i ilości zdejmowanych, kasowanych lub niszczonych znaków akcyzy.
+niszczenia znaków akcyzy zdjętych z opakowań jednostkowych wyrobów akcyzowych oraz uszkodzonych albo zniszczonych przed ich naniesieniem na wyroby akcyzowe lub w procesie oznaczania wyrobów akcyzowych – podmiot informuje właściwego naczelnika urzędu celno-skarbowego, co najmniej na 3 dni przed zamierzonym zdjęciem, kasowaniem lub zniszczeniem, o planowanym terminie przeprowadzenia tych czynności oraz o rodzaju i ilości zdejmowanych, kasowanych lub niszczonych znaków akcyzy.
 § 35.
 1.
 Podmiot przed dniem planowanego niszczenia:
@@ -489,8 +485,7 @@ nieprzydatnego do dalszego przerobu lub zużycia suszu tytoniowego,
 2)
 nieprzydatnych do spożycia, dalszego przerobu lub zużycia wyrobów akcyzowych, o których mowa w § 1 pkt 1 lit. a-c i e,
 3)
-wyrobów akcyzowych innych niż wymienione w § 1 pkt 1 lit. a-c i e, jeżeli przepisy o podatku akcyzowym wymagają obecności przedstawiciela naczelnika urzędu celno-skarbowego przy wykonywaniu tej czynności
-informuje właściwego naczelnika urzędu celno-skarbowego o zamiarze ich niszczenia, podając datę, godzinę, rodzaj i planowaną ilość niszczonych wyrobów.
+wyrobów akcyzowych innych niż wymienione w § 1 pkt 1 lit. a-c i e, jeżeli przepisy o podatku akcyzowym wymagają obecności przedstawiciela naczelnika urzędu celno-skarbowego przy wykonywaniu tej czynności – informuje właściwego naczelnika urzędu celno-skarbowego o zamiarze ich niszczenia, podając datę, godzinę, rodzaj i planowaną ilość niszczonych wyrobów.
 2.
 W przypadku gdy podmiot zamierza dokonać niszczenia wyrobów akcyzowych poza składem podatkowym, w informacji podaje również nazwę i adres miejsca niszczenia wyrobów akcyzowych.
 § 36.
@@ -498,6 +493,7 @@ W przypadku gdy podmiot zamierza dokonać niszczenia wyrobów akcyzowych poza sk
 Podmiot wysyłający wyroby akcyzowe, o których mowa w § 1 pkt 1 lit. a-d, przed dniem dokonania wysyłki informuje właściwego naczelnika urzędu celno-skarbowego o zamiarze dokonania wysyłki, podając datę i godzinę wysyłki oraz odbiorcę, rodzaj i planowaną ilość wysyłanych wyrobów akcyzowych.
 2.
 Podmiot przyjmujący wyroby akcyzowe, o których mowa w § 1 pkt 1 lit. a-d, informuje właściwego naczelnika urzędu celno-skarbowego, co najmniej na dzień przed planowanym przyjęciem przesyłki, o planowanym przyjęciu, podając datę i godzinę planowanego przyjęcia przesyłki oraz rodzaj i planowaną ilość przyjmowanych wyrobów akcyzowych.
+Tryb niszczenia wyrobów akcyzowych objętych kontrolą
 § 37.
 1.
 Niszczenie wyrobów akcyzowych, o których mowa w § 1 pkt 1 lit. a tiret trzecie i czwarte oraz w lit. b i c, nieprzydatnych do spożycia, dalszego przerobu lub zużycia odbywa się w obecności kontrolującego.
@@ -506,10 +502,10 @@ Niszczenie nieprzydatnych do spożycia, dalszego przerobu lub zużycia:
 1)
 suszu tytoniowego,
 2)
-wyrobów akcyzowych, o których mowa w § 1 pkt 1 lit. a tiret pierwsze i drugie oraz w lit. e
-odbywa się bez obecności kontrolującego, jeżeli podmiot poinformował właściwego naczelnika urzędu celno-skarbowego o planowanym niszczeniu, a kontrolujący nie przybył do podmiotu we wskazanym w informacji terminie.
+wyrobów akcyzowych, o których mowa w § 1 pkt 1 lit. a tiret pierwsze i drugie oraz w lit. e – odbywa się bez obecności kontrolującego, jeżeli podmiot poinformował właściwego naczelnika urzędu celno-skarbowego o planowanym niszczeniu, a kontrolujący nie przybył do podmiotu we wskazanym w informacji terminie.
 3.
 Naczelnik urzędu celno-skarbowego, biorąc pod uwagę ryzyko, może odstąpić od obecności kontrolującego przy niszczeniu wyrobów akcyzowych, o których mowa w ust. 1, jeżeli przepisy o podatku akcyzowym nie wymagają obecności przedstawiciela naczelnika urzędu celno-skarbowego przy przeprowadzeniu czynności podlegającej kontroli. Przepisy § 8 ust. 3 i 4 stosuje się odpowiednio.
+Szczegółowe sposoby i warunki przyjmowania, magazynowania, wydawania i przewożenia wyrobów akcyzowych
 § 38.
 W magazynie wyroby akcyzowe, o których mowa w § 1 pkt 1 lit. a-c i e, w opakowaniach jednostkowych powinny być ustawione według ich rodzaju oraz w miarę możliwości według stawek podatkowych, gramatury, pojemności i w sposób umożliwiający sprawne ustalenie ich stanu rzeczywistego i porównanie ze stanem wynikającym z dokumentacji, z zastrzeżeniem art. 47 ust. 3 i 3a ustawy.
 § 39.
@@ -520,8 +516,7 @@ alkoholu etylowego, o którym mowa w § 1 pkt 1 lit. a tiret trzecie, w stanie n
 2)
 alkoholu etylowego, o którym mowa w § 1 pkt 1 lit. a tiret trzecie, skażonego środkami skażającymi, o których mowa w § 2 pkt 7 lit. a,
 3)
-przemieszczanego luzem alkoholu etylowego, o którym mowa w § 1 pkt 1 lit. a tiret czwarte
-odbywa się w obecności kontrolującego.
+przemieszczanego luzem alkoholu etylowego, o którym mowa w § 1 pkt 1 lit. a tiret czwarte – odbywa się w obecności kontrolującego.
 2.
 Kontrola wysyłki wyrobów akcyzowych, o których mowa w § 1 pkt 1 lit. a-d, innych niż wymienione w ust. 1 jest wykonywana z uwzględnieniem ryzyka.
 3.
@@ -561,8 +556,7 @@ alkoholu etylowego, o którym mowa w § 1 pkt 1 lit. a tiret trzecie, w stanie n
 2)
 alkoholu etylowego, o którym mowa w § 1 pkt 1 lit. a tiret trzecie, skażonego środkami skażającymi, o których mowa w § 2 pkt 7 lit. a,
 3)
-przemieszczanego luzem alkoholu etylowego, o którym mowa w § 1 pkt 1 lit. a tiret czwarte
-odbywa się w obecności kontrolującego.
+przemieszczanego luzem alkoholu etylowego, o którym mowa w § 1 pkt 1 lit. a tiret czwarte – odbywa się w obecności kontrolującego.
 2.
 Przepisów ust. 1 oraz § 36 ust. 2 nie stosuje się do przyjęcia przesyłki alkoholu etylowego w przypadkach, o których mowa w § 9 ust. 3.
 3.
@@ -589,27 +583,42 @@ Podmiot objęty kontrolą stałą wydający alkohol etylowy skażony, o którym 
 W przypadku wysyłki wyrobów akcyzowych, o których mowa w § 1 pkt 1 lit. a-d, rurociągiem przepisy § 36 ust. 1 oraz § 39 ust. 1–3 i 7 stosuje się odpowiednio.
 2.
 W przypadku przyjęcia wyrobów akcyzowych, o których mowa w § 1 pkt 1 lit. a-d, przesyłanych rurociągiem przepisy § 36 ust. 2 oraz § 41 ust. 1, 3, 4 i 6 stosuje się odpowiednio.
+Przepisy przejściowe
 § 44.
 Do kontroli, z wyjątkiem kontroli stałych, rozpoczętych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 45.
 Do dnia 31 stycznia 2022 r. przepisów § 36, § 39 ust. 2–4 i § 41 ust. 3 i 4 nie stosuje się do wyrobów akcyzowych, o których mowa w § 1 pkt 1 lit. d, przemieszczanych na podstawie dokumentu dostawy.
+Przepisy końcowe
 § 46.
 Traci moc rozporządzenie Ministra Rozwoju i Finansów z dnia 10 maja 2017 r. w sprawie kontroli celno-skarbowej niektórych wyrobów akcyzowych (Dz. U. z 2020 r. poz. 262).
 § 47.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 464, 694, 802, 815, 954, 1003 i 1005. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1747, 2320 i 2419 oraz z 2021 r. poz. 72, 255, 694, 802 i 1093. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. WE L 260 z 31.10.1995, str. 45 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, str. 281, Dz. Urz. WE L 320 z 28.11.1998, str. 27 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, str. 319, Dz. Urz. UE L 374 z 22.12.2004, str. 42, Dz. Urz. UE L 208 z 11.08.2005, str. 12, Dz. Urz. UE L 326 z 13.12.2005, str. 8, Dz. Urz. UE L 23 z 26.01.2008, str. 13, Dz. Urz. UE L 231 z 29.08.2008, str. 11, Dz. Urz. UE L 200 z 03.08.2011, str. 14, Dz. Urz. UE L 49 z 22.02.2013, str. 55, Dz. Urz. UE L 286 z 21.10.2016, str. 32, Dz. Urz. UE L 162 z 23.06.2017, str. 22, Dz. Urz. UE L 320 z 06.12.2017, str. 6 oraz Dz. Urz. UE L 307 z 03.12.2018, str. 24.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 464, 694, 802, 815, 954, 1003 i 1005. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1747, 2320 i 2419 oraz z 2021 r. poz. 72, 255, 694, 802 i 1093. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. WE L 260 z 31.10.1995, str. 45 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, str. 281, Dz. Urz. WE L 320 z 28.11.1998, str. 27 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, str. 319, Dz. Urz. UE L 374 z 22.12.2004, str. 42, Dz. Urz. UE L 208 z 11.08.2005, str. 12, Dz. Urz. UE L 326 z 13.12.2005, str. 8, Dz. Urz. UE L 23 z 26.01.2008, str. 13, Dz. Urz. UE L 231 z 29.08.2008, str. 11, Dz. Urz. UE L 200 z 03.08.2011, str. 14, Dz. Urz. UE L 49 z 22.02.2013, str. 55, Dz. Urz. UE L 286 z 21.10.2016, str. 32, Dz. Urz. UE L 162 z 23.06.2017, str. 22, Dz. Urz. UE L 320 z 06.12.2017, str. 6 oraz Dz. Urz. UE L 307 z 03.12.2018, str. 24.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowy zakres i sposób kontroli niektórych wyrobów akcyzowych
+#### Rozdział 2 – Szczegółowy zakres i sposób kontroli niektórych wyrobów akcyzowych
 
-#### Rozdział 3 Tryb przekazywania oraz zakres informacji o terminach czynności podlegających kontroli
+#### Rozdział 3 – Tryb przekazywania oraz zakres informacji o terminach czynności podlegających kontroli
 
-#### Rozdział 4 Tryb niszczenia wyrobów akcyzowych objętych kontrolą
+#### Rozdział 4 – Tryb niszczenia wyrobów akcyzowych objętych kontrolą
 
-#### Rozdział 5 Szczegółowe sposoby i warunki przyjmowania, magazynowania, wydawania i przewożenia wyrobów akcyzowych
+#### Rozdział 5 – Szczegółowe sposoby i warunki przyjmowania, magazynowania, wydawania i przewożenia wyrobów akcyzowych
 
-#### Rozdział 6 Przepisy przejściowe
+#### Rozdział 6 – Przepisy przejściowe
 
-#### Rozdział 7 Przepisy końcowe
+#### Rozdział 7 – Przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Energiiz dnia 26 czerwca 2019 r. w sprawie wymagań technicznych dla stacji ładowania i punktów ładowania stanowiących element infrastruktury ładowania drogowego transportu publicznego
+# Rozporządzenie Ministra Energiiz dnia 26 czerwca 2019 r. w sprawie wymagań technicznych dla stacji ładowania i punktów ładowania stanowiących element infrastruktury ładowania drogowego transportu publicznego Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-26 |
 | Data wydania | 2019-07-15 |
-| Wejście w życie | 2019-07-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001316) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1316/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowe wymagania techniczne dotyczące bezpieczeństwa eksploatacji, naprawy i modernizacji Rozdział 3 – Szczegółowe wymagania techniczne dla gniazd wyjściowych lub złączy pojazdowych dla ogólnodostępnych stacji ładowania Rozdział 4 – Rodzaje, terminy oraz sposób przeprowadzania badań Rozdział 5 – Dokumenty dołączane do wniosku o przeprowadzenie badań Rozdział 6 – Opłaty Rozdział 7 – Przepis końcowy
+Treść rozporządzenia
 Załącznik – Poświadczenie prawidłowości montażu (wzór)
 Treść rozporządzenia
-Na podstawie art. 17 ust. 1 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2019 r. poz. 1124) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 11 marca 2019 r. pod numerem 2019/111/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 17 ust. 1 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2019 r. poz. 1124) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -64,6 +64,7 @@ tryb ładowania – sposób ładowania pojazdu z rozróżnieniem na rodzaj prąd
 eksploatujący – operatora ogólnodostępnej stacji ładowania, podmiot eksploatujący stację ładowania inną niż ogólnodostępna oraz podmiot eksploatujący punkt ładowania stanowiący element infrastruktury ładowania drogowego transportu publicznego;
 7)
 pojazd – pojazd elektryczny lub pojazd hybrydowy.
+Szczegółowe wymagania techniczne dotyczące bezpieczeństwa eksploatacji, naprawy i modernizacji
 § 3.
 1.
 Wymagania określone w niniejszym rozporządzeniu oraz instrukcji eksploatacji, opracowanej przez producenta lub jego upoważnionego przedstawiciela, zwanej dalej „instrukcją eksploatacji”, stosuje się do:
@@ -138,8 +139,7 @@ konserwacji,
 2)
 przeglądów serwisowych,
 3)
-wykonywania pomiarów elektrycznych
-zgodnie z wymaganiami określonymi w instrukcji eksploatacji.
+wykonywania pomiarów elektrycznych – zgodnie z wymaganiami określonymi w instrukcji eksploatacji.
 2.
 Przegląd serwisowy obejmuje sprawdzenie, czy urządzenie i wszystkie elementy jego wyposażenia znajdują się w stanie pozwalającym na ich użycie.
 3.
@@ -161,6 +161,7 @@ Przeglądy serwisowe, konserwacje, naprawy i modernizacje wykonują osoby posiad
 Wszelkie prace w ramach przeglądów serwisowych, konserwacji oraz napraw wykonuje się zgodnie z instrukcją eksploatacji i dokumentuje się w sposób potwierdzający ich przebieg.
 3.
 Wszelkie prace w ramach modernizacji dokumentuje się w sposób potwierdzający ich przebieg.
+Szczegółowe wymagania techniczne dla gniazd wyjściowych lub złączy pojazdowych dla ogólnodostępnych stacji ładowania
 § 15.
 Punkty ładowania o normalnej mocy na prąd przemienny wyposaża się co najmniej w gniazda wyjściowe lub złącza pojazdowe typu 2 określone w normie PN-EN 62196–2. Gniazda wyjściowe, o których mowa w zdaniu pierwszym, można wyposażać w pokrywy mechaniczne.
 § 16.
@@ -168,6 +169,7 @@ Punkty ładowania o normalnej mocy na prąd przemienny wyposaża się co najmnie
 Punkty ładowania o dużej mocy na prąd przemienny wyposaża się co najmniej w złącza pojazdowe typu 2 określone w normie PN-EN 62196–2.
 2.
 Punkty ładowania o dużej mocy na prąd stały wyposaża się co najmniej w złącza uniwersalnego systemu ładowania „Combo 2” określone w normie PN-EN 62196–3.
+Rodzaje, terminy oraz sposób przeprowadzania badań
 § 17.
 Urządzenia podlegają następującym badaniom technicznym:
 1)
@@ -200,6 +202,7 @@ Badania, o których mowa w § 17, inspektor UDT wykonuje w obecności eksploatuj
 UDT wykonuje badania, o których mowa w § 17, w terminie 30 dni od dnia złożenia kompletnego wniosku o ich przeprowadzenie.
 4.
 Z przeprowadzonych badań, o których mowa w § 17, sporządza się protokół.
+Dokumenty dołączane do wniosku o przeprowadzenie badań
 § 20.
 Do wniosku o przeprowadzenie badania, o którym mowa w § 17 pkt 1, eksploatujący dołącza:
 1)
@@ -309,6 +312,7 @@ opis dokonanej naprawy lub modernizacji urządzenia;
 dokumentację potwierdzającą zmiany wprowadzone w wyniku naprawy lub modernizacji urządzenia;
 3)
 protokoły pomiarów elektrycznych, o których mowa w § 13 ust. 3, zatwierdzone przez osobę spełniającą wymagania kwalifikacyjne dla stanowiska dozoru, o której mowa w przepisach wydanych na podstawie art. 54 ust. 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, wraz z kopią świadectwa kwalifikacyjnego tej osoby poświadczoną przez nią za zgodność z oryginałem.
+Opłaty
 § 24.
 Wysokość opłaty, o której mowa w art. 15 ust. 3 oraz art. 16 ust. 5 ustawy, jest ustalana w odniesieniu do przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej w roku poprzednim, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, zgodnie z art. 5 ust. 7 ustawy z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2018 r. poz. 1316, 1608, 1669 i 2435 oraz z 2019 r. poz. 730), obowiązującego w dniu złożenia wniosku, i wynosi:
 1)
@@ -317,23 +321,37 @@ Wysokość opłaty, o której mowa w art. 15 ust. 3 oraz art. 16 ust. 5 ustawy, 
 4% tego wynagrodzenia za każdą rozpoczętą godzinę badania, o którym mowa w § 17 pkt 2, jednakże nie więcej niż 20% tego wynagrodzenia;
 3)
 4% tego wynagrodzenia za każdą rozpoczętą godzinę opracowania opinii, o której mowa w art. 15 ust. 1 ustawy, jednakże nie więcej niż 100% tego wynagrodzenia.
+Przepis końcowy
 § 25.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 11 marca 2019 r. pod numerem 2019/111/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 11 marca 2019 r. pod numerem 2019/111/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 Załącznik – Poświadczenie prawidłowości montażu (wzór)
 Poświadczenie prawidłowości montażu Poświadczam, że stacja ładowania / punkt ładowania stanowiący element infrastruktury ładowania drogowego transportu publicznego*) o numerze fabrycznym: ... zlokalizowana(y)w ... został(a) zamontowana(y) zgodnie z instrukcją producenta lub jego upoważnionego przedstawiciela nr ... Nazwa i adres siedziby podmiotu wykonującego montaż urządzenia: ... ... Imię i nazwisko osoby upoważnionej do wystawienia poświadczenia: ...miejscowość, data... ...podpis.. *) Niepotrzebne skreślić.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowe wymagania techniczne dotyczące bezpieczeństwa eksploatacji, naprawy i modernizacji
+#### Rozdział 2 – Szczegółowe wymagania techniczne dotyczące bezpieczeństwa eksploatacji, naprawy i modernizacji
 
-#### Rozdział 3 Szczegółowe wymagania techniczne dla gniazd wyjściowych lub złączy pojazdowych dla ogólnodostępnych stacji ładowania
+#### Rozdział 3 – Szczegółowe wymagania techniczne dla gniazd wyjściowych lub złączy pojazdowych dla ogólnodostępnych stacji ładowania
 
-#### Rozdział 4 Rodzaje, terminy oraz sposób przeprowadzania badań
+#### Rozdział 4 – Rodzaje, terminy oraz sposób przeprowadzania badań
 
-#### Rozdział 5 Dokumenty dołączane do wniosku o przeprowadzenie badań
+#### Rozdział 5 – Dokumenty dołączane do wniosku o przeprowadzenie badań
 
-#### Rozdział 6 Opłaty
+#### Rozdział 6 – Opłaty
 
-#### Rozdział 7 Przepis końcowy
+#### Rozdział 7 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
 

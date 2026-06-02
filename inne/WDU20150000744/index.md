@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-05-15 |
 | Data wydania | 2015-05-29 |
-| Wejście w życie | 2015-06-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000744) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/744/text.pdf) |
 
@@ -31,16 +30,14 @@ Na podstawie art. 44 ust. 6 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach o
 § 1.
 W rozporządzeniu Ministra Obrony Narodowej z dnia 26 marca 2012 r. w sprawie szczegółowych warunków i trybu ubiegania się o dofinansowanie kosztów zaopatrzenia w produkty lecznicze stosowane u uprawnionego żołnierza lub pracownika (Dz. U. poz. 340) wprowadza się następujące zmiany:
 1)
-§ 3 otrzymuje brzmienie:
-„
+§ 3 otrzymuje brzmienie: „
 § 3.
 1.
 Dyrektor departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia przekazuje Prezesowi Narodowego Funduszu Zdrowia dane dotyczące osób, o których mowa w § 2, obejmujące:
 1)
 numer PESEL osoby, której przysługuje zaopatrzenie, a w przypadku gdy nie posiada ona numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość oraz datę urodzenia,
 2)
-okres przysługującego prawa do zaopatrzenia
-w terminie 7 dni od uzyskania lub utraty prawa do zaopatrzenia.
+okres przysługującego prawa do zaopatrzenia – w terminie 7 dni od uzyskania lub utraty prawa do zaopatrzenia.
 2.
 Dyrektor właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia przekazuje dyrektorowi departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia dokument w formie zestawienia, zawierający informacje o wysokości należnej kwoty dofinansowania za zrealizowane w poprzednim kwartale zaopatrzenie uprawnionych żołnierzy lub pracowników w produkty lecznicze, których cena jest wyższa od limitu finansowania ze środków publicznych.
 3.
@@ -62,11 +59,9 @@ nazwę oraz numer rachunku bankowego właściwego oddziału wojewódzkiego Narod
 7)
 podpis dyrektora właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia;
 8)
-kod uprawnienia dodatkowego pacjenta, określony w rozporządzeniu wydanym na podstawie art. 45 ust. 5 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2015 r. poz. 464).
-” ;
+kod uprawnienia dodatkowego pacjenta, określony w rozporządzeniu wydanym na podstawie art. 45 ust. 5 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2015 r. poz. 464). ” ;
 2)
-§ 4 otrzymuje brzmienie:
-„
+§ 4 otrzymuje brzmienie: „
 § 4.
 1.
 Dyrektor departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia dokonuje weryfikacji zestawienia, sporządzonego zgodnie z § 3, w zakresie:
@@ -77,8 +72,7 @@ kosztów leków i wysokości limitu ich dofinansowania ze środków publicznych.
 2.
 Dyrektor departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia po wykonaniu czynności, o których mowa w ust. 1, wystawia dokument potwierdzający wysokość przyznanego dofinansowania oraz zawierający zobowiązanie do przekazania środków finansowych na rachunek bankowy właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia.
 3.
-Środki finansowe, o których mowa w ust. 2, są przekazywane na wskazany rachunek bankowy właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia przez właściwego dysponenta środków budżetu państwa realizującego płatności z tego tytułu, ustanowionego przez Ministra Obrony Narodowej w sposób określony w przepisach w sprawie szczegółowego sposobu wykonywania budżetu państwa wydanych na podstawie art. 198 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.)- w terminie 30 dni od dnia otrzymania przez dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia zestawienia sporządzonego zgodnie z § 3.
-” .
+Środki finansowe, o których mowa w ust. 2, są przekazywane na wskazany rachunek bankowy właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia przez właściwego dysponenta środków budżetu państwa realizującego płatności z tego tytułu, ustanowionego przez Ministra Obrony Narodowej w sposób określony w przepisach w sprawie szczegółowego sposobu wykonywania budżetu państwa wydanych na podstawie art. 198 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238 i 532.)- w terminie 30 dni od dnia otrzymania przez dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia zestawienia sporządzonego zgodnie z § 3. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238 i 532.
 

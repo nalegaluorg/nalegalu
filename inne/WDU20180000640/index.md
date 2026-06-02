@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Energiiz dnia 15 marca 2018 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń w obrocie paliwami gazowymi
+# Rozporządzenie Ministra Energiiz dnia 15 marca 2018 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń w obrocie paliwami gazowymi Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-15 |
 | Data wydania | 2018-03-30 |
-| Wejście w życie | 2018-03-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000640) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/640/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowe zasady kształtowania taryf Rozdział 3 – Szczegółowe zasady kalkulacji cen i stawek opłat Rozdział 4 – Szczegółowe zasady rozliczenia z odbiorcami oraz między przedsiębiorstwami energetycznymi Rozdział 5 – Przepisy epizodyczne, przejściowe i końcowe
 Treść rozporządzenia
-Na podstawie art. 46 ust. 1 i 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2017 r. poz. 220, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/73/WE z dnia 13 lipca 2009 r. dotyczącą wspólnych zasad rynku wewnętrznego gazu ziemnego i uchylającą dyrektywę 2003/55/WE (Dz. Urz. UE L 211 z 14.08.2009, str. 94). Na podstawie art. 46 ust. 1 i 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2017 r. poz. 220, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 791, 1089, 1387 i 1566 oraz z 2018 r. poz. 9, 138 i 317.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe zasady:
 1)
@@ -64,8 +64,7 @@ o świadczenie usług przesyłania lub dystrybucji paliw gazowych,
 c)
 o świadczenie usług skraplania gazu ziemnego,
 d)
-kompleksowej
-na okres od godziny 600 dnia 1 października danego roku do godziny 600 dnia 1 października kolejnego roku, w przypadku umowy zawartej na czas nieokreślony lub umowy zawartej na czas określony co najmniej jednego roku, albo na czas trwania umowy w przypadku umowy krótkookresowej;
+kompleksowej – na okres od godziny 600 dnia 1 października danego roku do godziny 600 dnia 1 października kolejnego roku, w przypadku umowy zawartej na czas nieokreślony lub umowy zawartej na czas określony co najmniej jednego roku, albo na czas trwania umowy w przypadku umowy krótkookresowej;
 7)
 moc zatłaczania – maksymalną ilość energii zawartej w paliwie gazowym, którą można zatłoczyć do instalacji magazynowej w ciągu jednej godziny;
 8)
@@ -102,6 +101,7 @@ usługa krótkoterminowa – usługę świadczoną w okresie krótszym niż rok;
 usługa wirtualnej dystrybucji zwrotnej – usługę świadczoną przez przedsiębiorstwo energetyczne zajmujące się dystrybucją paliw gazowych, polegającą na umownym transporcie paliw gazowych z miejsca ich wydobycia lub wytwarzania lub z instalacji skroplonego gazu ziemnego, przyłączonych do sieci dystrybucyjnej, do punktu wirtualnego w sieci przesyłowej;
 24)
 usługa wirtualnego przesyłania zwrotnego – usługę świadczoną przez przedsiębiorstwo energetyczne zajmujące się przesyłaniem paliw gazowych, polegającą na umownym przesyłaniu paliw gazowych w kierunku przeciwnym do fizycznego przepływu paliw gazowych w fizycznych punktach wejścia do sieci przesyłowej lub punktów wyjścia z sieci przesyłowej.
+Szczegółowe zasady kształtowania taryf
 § 3.
 1.
 Określone w taryfie ceny lub stawki opłat dla poszczególnych grup taryfowych różnicuje się odpowiednio do kosztów uzasadnionych wykonywanej działalności gospodarczej związanej z dostarczaniem paliw gazowych, z uwzględnieniem eliminowania subsydiowania skrośnego.
@@ -243,6 +243,7 @@ ilości energii zawartej w paliwie gazowym nabywanym w punkcie wirtualnym;
 odbioru paliw gazowych z użyciem przedpłatowego układu pomiarowego.
 2.
 Odbiorca, który z sieci gazowej odbiera paliwa gazowe z kilku miejsc, jest zaliczany do grup taryfowych oddzielnie w każdym z tych miejsc odbioru, o ile umowa nie stanowi inaczej.
+Szczegółowe zasady kalkulacji cen i stawek opłat
 § 6.
 1.
 Ceny lub stawki opłat zawarte w taryfie kalkuluje się na okres 12 miesięcy kalendarzowych.
@@ -449,11 +450,9 @@ Ilość energii zawartej w dystrybuowanych paliwach gazowych w okresie rozliczen
 6.
 Opłatę za świadczoną usługę dystrybucji paliw gazowych dla odbiorców, którzy pobierają paliwa z wykorzystaniem przedpłatowego układu pomiarowego, oblicza się według wzoru:
 1)
-\( O_d = S_{zd} \cdot Q/100 \)
-gdzie poszczególne symbole oznaczają: Od – opłatę za świadczoną usługę dystrybucji paliw gazowych w [zł], Szd – stawkę opłaty zmiennej w [gr/kWh], Q – ilość energii zawartej w dystrybuowanych paliwach gazowych w okresie rozliczeniowym w [kWh] obliczaną zgodnie z wzorem określonym w ust. 5 albo
+\( O_d = S_{zd} \cdot Q/100 \) gdzie poszczególne symbole oznaczają: Od – opłatę za świadczoną usługę dystrybucji paliw gazowych w [zł], Szd – stawkę opłaty zmiennej w [gr/kWh], Q – ilość energii zawartej w dystrybuowanych paliwach gazowych w okresie rozliczeniowym w [kWh] obliczaną zgodnie z wzorem określonym w ust. 5 albo
 2)
-\( O_d = S_{zd} \cdot Q \)
-gdzie poszczególne symbole oznaczają: Od – opłatę za świadczoną usługę dystrybucji paliw gazowych w [zł], Szd – stawkę opłaty zmiennej w [zł/MWh], Q – ilość energii zawartej w dystrybuowanych paliwach gazowych w okresie rozliczeniowym w [MWh] obliczaną zgodnie z wzorem określonym w ust. 5.
+\( O_d = S_{zd} \cdot Q \) gdzie poszczególne symbole oznaczają: Od – opłatę za świadczoną usługę dystrybucji paliw gazowych w [zł], Szd – stawkę opłaty zmiennej w [zł/MWh], Q – ilość energii zawartej w dystrybuowanych paliwach gazowych w okresie rozliczeniowym w [MWh] obliczaną zgodnie z wzorem określonym w ust. 5.
 § 22.
 Opłatę za usługę wirtualnej dystrybucji zwrotnej stanowi iloczyn średniej stawki opłaty dystrybucyjnej ustalonej w taryfie przedsiębiorstwa zajmującego się dystrybucją paliw gazowych, wyrażonej w [gr/kWh], ilości energii zawartej w paliwach gazowych [kWh], która objęta jest tą usługą, i współczynnika korekcyjnego, którego wartość wynosi 0,2.
 § 23.
@@ -480,8 +479,7 @@ pojemności czynnej w okresie rozliczeniowym albo
 b)
 mocy zatłaczania, albo
 c)
-mocy odbioru
-według wzoru: Om = Sv · Vc · k – w przypadku umowy polegającej na udostępnieniu pojemności czynnej, Om = Smz · Mz · T – w przypadku umowy polegającej na udostępnieniu mocy zatłaczania, Om = Smo · Mo · T – w przypadku umowy polegającej na udostępnieniu mocy odbioru, gdzie poszczególne symbole oznaczają: Om – opłatę za usługę magazynowania w [zł], Sv – stawkę opłaty za zamówioną pojemność czynną w okresie rozliczeniowym w [zł/MWh], Vc – zamówioną pojemność czynną w okresie rozliczeniowym w [MWh], k – liczbę miesięcy w okresie rozliczeniowym, Smz – stawkę opłaty za zamówioną moc zatłaczania za każdą godzinę okresu rozliczeniowego w [zł/MWh/h], Mz – zamówioną moc zatłaczania w okresie rozliczeniowym w [MWh/h], Smo – stawkę opłaty za zamówioną moc odbioru za każdą godzinę okresu rozliczeniowego w [zł/MWh/h], Mo – zamówioną moc odbioru w okresie rozliczeniowym w [MWh/h], T – liczbę godzin w okresie rozliczeniowym.
+mocy odbioru – według wzoru: Om = Sv · Vc · k – w przypadku umowy polegającej na udostępnieniu pojemności czynnej, Om = Smz · Mz · T – w przypadku umowy polegającej na udostępnieniu mocy zatłaczania, Om = Smo · Mo · T – w przypadku umowy polegającej na udostępnieniu mocy odbioru, gdzie poszczególne symbole oznaczają: Om – opłatę za usługę magazynowania w [zł], Sv – stawkę opłaty za zamówioną pojemność czynną w okresie rozliczeniowym w [zł/MWh], Vc – zamówioną pojemność czynną w okresie rozliczeniowym w [MWh], k – liczbę miesięcy w okresie rozliczeniowym, Smz – stawkę opłaty za zamówioną moc zatłaczania za każdą godzinę okresu rozliczeniowego w [zł/MWh/h], Mz – zamówioną moc zatłaczania w okresie rozliczeniowym w [MWh/h], Smo – stawkę opłaty za zamówioną moc odbioru za każdą godzinę okresu rozliczeniowego w [zł/MWh/h], Mo – zamówioną moc odbioru w okresie rozliczeniowym w [MWh/h], T – liczbę godzin w okresie rozliczeniowym.
 § 25.
 1.
 Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie magazynowania paliw gazowych wykonuje na dodatkowe zlecenie odbiorcy usługę badania jakości paliw gazowych.
@@ -498,11 +496,9 @@ stawki opłaty zmiennej – na podstawie uzasadnionych kosztów zmiennych zależ
 § 27.
 Opłatę za świadczoną usługę skraplania gazu ziemnego lub regazyfikacji skroplonego gazu ziemnego oblicza się według wzoru:
 1)
-Or = Ssr · Mr · T + Szr · Qr
-gdzie poszczególne symbole oznaczają: Or- opłatę za usługę skraplania gazu ziemnego lub regazyfikacji skroplonego gazu ziemnego w [zł], Ssr – stawkę opłaty stałej za moc umowną w [zł/MWh/h], Mr – zamówioną moc umowną instalacji skroplonego gazu ziemnego w okresie rozliczeniowym w [MWh/h], T – liczbę godzin w okresie rozliczeniowym, Szr – stawkę opłaty zmiennej w [zł/MWh], Qr – ilość skroplonego gazu ziemnego lub zregazyfikowanego gazu ziemnego w okresie rozliczeniowym w [MWh] albo
+Or = Ssr · Mr · T + Szr · Qr gdzie poszczególne symbole oznaczają: Or- opłatę za usługę skraplania gazu ziemnego lub regazyfikacji skroplonego gazu ziemnego w [zł], Ssr – stawkę opłaty stałej za moc umowną w [zł/MWh/h], Mr – zamówioną moc umowną instalacji skroplonego gazu ziemnego w okresie rozliczeniowym w [MWh/h], T – liczbę godzin w okresie rozliczeniowym, Szr – stawkę opłaty zmiennej w [zł/MWh], Qr – ilość skroplonego gazu ziemnego lub zregazyfikowanego gazu ziemnego w okresie rozliczeniowym w [MWh] albo
 2)
-Or = (Ssr · Mr · T + Szr · Qr)/100
-gdzie poszczególne symbole oznaczają: Or – opłatę za usługę skraplania gazu ziemnego lub regazyfikacji skroplonego gazu ziemnego w [zł], Ssr – stawkę opłaty stałej za moc umowną w [gr/kWh/h], Mr – zamówioną moc umowną instalacji skroplonego gazu ziemnego w okresie rozliczeniowym w [kWh/h], T – liczbę godzin w okresie rozliczeniowym, Szr – stawkę opłaty zmiennej w [gr/kWh], Qr – ilość skroplonego gazu ziemnego lub zregazyfikowanego gazu ziemnego, w okresie rozliczeniowym w [kWh].
+Or = (Ssr · Mr · T + Szr · Qr)/100 gdzie poszczególne symbole oznaczają: Or – opłatę za usługę skraplania gazu ziemnego lub regazyfikacji skroplonego gazu ziemnego w [zł], Ssr – stawkę opłaty stałej za moc umowną w [gr/kWh/h], Mr – zamówioną moc umowną instalacji skroplonego gazu ziemnego w okresie rozliczeniowym w [kWh/h], T – liczbę godzin w okresie rozliczeniowym, Szr – stawkę opłaty zmiennej w [gr/kWh], Qr – ilość skroplonego gazu ziemnego lub zregazyfikowanego gazu ziemnego, w okresie rozliczeniowym w [kWh].
 § 28.
 1.
 Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie skraplania gazu ziemnego lub regazyfikacji skroplonego gazu ziemnego wykonuje na dodatkowe zlecenie odbiorcy następujące usługi:
@@ -611,7 +607,7 @@ opłaty za budowę odcinka przyłącza o długości powyżej 15 m, stanowiącej 
 2.
 Opłatę za przyłączenie do sieci gazowej, o której mowa w ust. 1, oblicza się według wzoru: \( O_p = O_R + S_p \cdot L_p \) gdzie poszczególne symbole oznaczają: Op – opłatę za przyłączenie do sieci gazowej w [zł], OR – opłatę ryczałtową za budowę przyłącza o długości nie większej niż 15 m w [zł], Sp – stawkę opłaty za każdy metr przyłącza powyżej 15 m w [zł/m], Lp – długość przyłącza powyżej 15 m w [m] z zaokrągleniem do 1 m.
 3.
-Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie dystrybucji paliw gazowych może ustalić na zasadach określonych w taryfie niższą stawkę opłat za przyłączenie do sieci gazowej podmiotów zaliczanych do grupy przyłączeniowej B podgrupy I, będących odbiorcami paliw gazowych w gospodarstwach domowych do sieci gazowej, na obszarze, dla którego na podstawie art. 91 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519, z późn. zm.) uchwalono program ochrony powietrza.
+Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie dystrybucji paliw gazowych może ustalić na zasadach określonych w taryfie niższą stawkę opłat za przyłączenie do sieci gazowej podmiotów zaliczanych do grupy przyłączeniowej B podgrupy I, będących odbiorcami paliw gazowych w gospodarstwach domowych do sieci gazowej, na obszarze, dla którego na podstawie art. 91 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 785, 898, 1089, 1529, 1566, 1888, 1999, 2056, 2180 i 2290 oraz z 2018 r. poz. 9, 88 i 534.) uchwalono program ochrony powietrza.
 § 35.
 1.
 Sposób wnoszenia opłat za przyłączenie określa umowa.
@@ -625,6 +621,7 @@ Za przebudowę przyłącza, zmianę lokalizacji, rozbudowę sieci lub przebudow�
 rzeczywistych nakładów poniesionych z tego tytułu – w przypadku grupy przyłączeniowej C.
 4.
 Za montaż reduktora ciśnienia gazu i układu pomiarowego w istniejącym przyłączu, przy wykorzystaniu którego nie było dotychczas dostarczane paliwo gazowe, w celu uruchomienia odbioru paliw gazowych przez odbiorcę zaliczanego do grupy przyłączeniowej B podgrupy I, nie pobiera się opłaty za przyłączenie, o ile nie zachodzi konieczność przebudowy przyłącza lub budowy albo przebudowy punktu lub zespołu gazowego lub stacji gazowej.
+Szczegółowe zasady rozliczenia z odbiorcami oraz między przedsiębiorstwami energetycznymi
 § 36.
 1.
 W przypadku zmiany sprzedawcy oraz na potrzeby dokonania rozliczeń lub ich korekt w standardowych okresach między kolejnymi odczytami układu pomiarowego przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie przesyłania lub dystrybucji paliw gazowych przekazuje nieodpłatnie przedsiębiorstwu energetycznemu wykonującemu działalność gospodarczą w zakresie obrotu paliwami gazowymi lub odbiorcy tych paliw dane dotyczące wykonania tej usługi, w szczególności dane dotyczące odczytów układów pomiarowych lub ich korekty.
@@ -778,8 +775,7 @@ Odbiorca, który:
 1)
 przekroczył moc umowną w miejscach odbioru paliw gazowych z sieci przesyłowej lub dystrybucyjnej bez zgody przedsiębiorstwa energetycznego świadczącego usługę przesyłania lub dystrybucji paliw gazowych,
 2)
-nie dostosował się do ograniczenia wprowadzonego przez przedsiębiorstwo energetyczne w związku z prowadzonymi pracami przyłączeniowymi, remontowo-konserwacyjnymi lub związanymi ze zmianą paliw gazowych lub usuwaniem awarii
-jest obciążany opłatami, które są obliczane jako iloczyn mocy maksymalnej zarejestrowanej w okresie rozliczeniowym przez układ pomiarowy ponad moc umowną lub moc wynikającą z ograniczenia, liczby godzin w okresie rozliczeniowym i trzykrotnej stałej stawki opłaty przesyłowej lub dystrybucyjnej, określonej w taryfie dla grupy taryfowej, do której odbiorca jest zakwalifikowany.
+nie dostosował się do ograniczenia wprowadzonego przez przedsiębiorstwo energetyczne w związku z prowadzonymi pracami przyłączeniowymi, remontowo-konserwacyjnymi lub związanymi ze zmianą paliw gazowych lub usuwaniem awarii – jest obciążany opłatami, które są obliczane jako iloczyn mocy maksymalnej zarejestrowanej w okresie rozliczeniowym przez układ pomiarowy ponad moc umowną lub moc wynikającą z ograniczenia, liczby godzin w okresie rozliczeniowym i trzykrotnej stałej stawki opłaty przesyłowej lub dystrybucyjnej, określonej w taryfie dla grupy taryfowej, do której odbiorca jest zakwalifikowany.
 2.
 Opłaty za przekroczenie mocy umownej nie są naliczane w przypadku, gdy odbiorca nie został powiadomiony o ograniczeniach wprowadzonych przez przedsiębiorstwo energetyczne, o których mowa w ust. 1 pkt 2.
 3.
@@ -789,8 +785,7 @@ awarii w sieci dystrybucyjnej lub uszkodzenia tej sieci spowodowanego działanie
 2)
 prac prowadzonych przez przedsiębiorstwo energetyczne w obrębie sieci dystrybucyjnej, których termin został wcześniej przez strony uzgodniony,
 3)
-udokumentowanego przypadku wystąpienia siły wyższej
-opłaty za przekroczenia mocy nie są naliczane.
+udokumentowanego przypadku wystąpienia siły wyższej – opłaty za przekroczenia mocy nie są naliczane.
 4.
 Za przedłużone procesowe składowanie odbiorca ponosi opłatę w wysokości stanowiącej iloczyn trzykrotności stawki za rozdzielone procesowe składowanie i ilości gazu ziemnego składowanego niezgodnie z harmonogramem określającym minimalną i maksymalną ilość tego gazu w określonych dobach.
 § 43.
@@ -828,6 +823,7 @@ Wysokość stawki opłaty dystrybucyjnej obliczanej w sposób określony w ust. 
 W przypadku gdy upłynął okres ważności cech legalizacyjnych układu pomiarowego należącego do odbiorcy paliw gazowych i odbiorca ten nie poddał go ponownej legalizacji, przedsiębiorstwo energetyczne, jako podstawę do prowadzonych rozliczeń z tym odbiorcą przyjmuje oszacowane ilości paliw gazowych oraz moc umowną wynikającą z umowy.
 2.
 W przypadku uniemożliwienia, przez odbiorcę paliw gazowych, przedsiębiorstwu energetycznemu dostępu do układu pomiarowego stanowiącego własność tego przedsiębiorstwa przepis ust. 1 stosuje się odpowiednio.
+Przepisy epizodyczne, przejściowe i końcowe
 § 48.
 1.
 Do dnia 30 maja 2019 r. stawki opłat przesyłowych za usługi krótkoterminowe stanowią iloczyn ustalonych w taryfie stawek opłaty stałej, o których mowa w § 12, oraz współczynnika korekcyjnego. Maksymalna wartość współczynnika korekcyjnego nie może przekroczyć:
@@ -855,16 +851,25 @@ Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z w
 1)
 § 38 ust. 8 pkt 7 i 9, które wchodzą w życie z dniem 1 kwietnia 2019 r.;
 2)
-§ 10 ust. 5, który wchodzi w życie z dniem 31 maja 2019 r.
-1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/73/WE z dnia 13 lipca 2009 r. dotyczącą wspólnych zasad rynku wewnętrznego gazu ziemnego i uchylającą dyrektywę 2003/55/WE (Dz. Urz. UE L 211 z 14.08.2009, str. 94). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 791, 1089, 1387 i 1566 oraz z 2018 r. poz. 9, 138 i 317. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 785, 898, 1089, 1529, 1566, 1888, 1999, 2056, 2180 i 2290 oraz z 2018 r. poz. 9, 88 i 534. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 28 czerwca 2013 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń w obrocie paliwami gazowymi (Dz. U. poz. 820), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 58 ust. 2 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. poz. 831).
+§ 10 ust. 5, który wchodzi w życie z dniem 31 maja 2019 r. Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 28 czerwca 2013 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń w obrocie paliwami gazowymi (Dz. U. poz. 820), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 58 ust. 2 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. poz. 831). 1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/73/WE z dnia 13 lipca 2009 r. dotyczącą wspólnych zasad rynku wewnętrznego gazu ziemnego i uchylającą dyrektywę 2003/55/WE (Dz. Urz. UE L 211 z 14.08.2009, str. 94). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 791, 1089, 1387 i 1566 oraz z 2018 r. poz. 9, 138 i 317. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 785, 898, 1089, 1529, 1566, 1888, 1999, 2056, 2180 i 2290 oraz z 2018 r. poz. 9, 88 i 534. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 28 czerwca 2013 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń w obrocie paliwami gazowymi (Dz. U. poz. 820), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 58 ust. 2 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. poz. 831).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowe zasady kształtowania taryf
+#### Rozdział 2 – Szczegółowe zasady kształtowania taryf
 
-#### Rozdział 3 Szczegółowe zasady kalkulacji cen i stawek opłat
+#### Rozdział 3 – Szczegółowe zasady kalkulacji cen i stawek opłat
 
-#### Rozdział 4 Szczegółowe zasady rozliczenia z odbiorcami oraz między przedsiębiorstwami energetycznymi
+#### Rozdział 4 – Szczegółowe zasady rozliczenia z odbiorcami oraz między przedsiębiorstwami energetycznymi
 
-#### Rozdział 5 Przepisy epizodyczne, przejściowe i końcowe
+#### Rozdział 5 – Przepisy epizodyczne, przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

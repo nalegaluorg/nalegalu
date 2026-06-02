@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-15 |
 | Data wydania | 2020-12-22 |
-| Wejście w życie | 2020-12-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002337) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2337/text.pdf) |
 
@@ -35,22 +34,17 @@ użyte w § 2, w § 3 w ust. 3, w § 7 w ust. 2 w pkt 2, w § 10 w ust. 2 i 3 or
 2)
 w § 11:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
 Na podstawie:
 1)
 wniosków kierowników państwowych jednostek budżetowych o przekazanie środków – w przypadku zadań nowych, na realizację których nie zostały zawarte umowy, o których mowa w ust. 6, w tym zadań nowych będących zadaniami wieloletnimi,
 2)
-zawartych umów, o których mowa w ust. 6 – w przypadku zadań, których realizacja ma być kontynuowana w następnym roku budżetowym, będących zadaniami wieloletnimi
-Narodowy Fundusz lub wojewódzkie fundusze uzgadniają z właściwymi dysponentami części budżetowych listy zadań zakwalifikowanych do dofinansowania.
-” ,
+zawartych umów, o których mowa w ust. 6 – w przypadku zadań, których realizacja ma być kontynuowana w następnym roku budżetowym, będących zadaniami wieloletnimi – Narodowy Fundusz lub wojewódzkie fundusze uzgadniają z właściwymi dysponentami części budżetowych listy zadań zakwalifikowanych do dofinansowania. ” ,
 b)
-ust. 6 otrzymuje brzmienie:
-„
+ust. 6 otrzymuje brzmienie: „
 6.
-Narodowy Fundusz i wojewódzkie fundusze zawierają z państwowymi jednostkami budżetowymi umowy o realizację zadań znajdujących się na listach zadań zakwalifikowanych do dofinansowania, o których mowa w ust. 2, w przypadku zadań nowych, w tym zadań nowych będących zadaniami wieloletnimi.
-” .
+Narodowy Fundusz i wojewódzkie fundusze zawierają z państwowymi jednostkami budżetowymi umowy o realizację zadań znajdujących się na listach zadań zakwalifikowanych do dofinansowania, o których mowa w ust. 2, w przypadku zadań nowych, w tym zadań nowych będących zadaniami wieloletnimi. ” .
 § 2.
 W umowach, o których mowa w § 11 ust. 6 rozporządzenia zmienianego w § 1, zawartych przed dniem wejścia w życie niniejszego rozporządzenia, rachunkiem właściwym do przekazania środków przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej oraz wojewódzkie fundusze ochrony środowiska i gospodarki wodnej w celu dofinansowania zadań z zakresu ochrony środowiska i gospodarki wodnej realizowanych przez państwowe jednostki budżetowe staje się rachunek bieżący dochodów budżetowych ministra właściwego do spraw klimatu, bez konieczności zmiany tych umów.
 § 3.

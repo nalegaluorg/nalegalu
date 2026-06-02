@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-07 |
 | Data wydania | 2019-02-21 |
-| Wejście w życie | 2019-02-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000332) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/332/text.pdf) |
 
@@ -109,5 +108,5 @@ zastępcy przewodniczącego wynosi 9000 zł;
 3)
 członków zespołu wynosi 8000 zł.
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 12 grudnia 2013 r. w sprawie zespołu do przygotowywania pytań testowych i zadań pisemnych na egzaminy konkursowy i komorniczy (Dz. U. z 2017 r. poz. 2296) oraz rozporządzeniem Ministra Sprawiedliwości z dnia 17 grudnia 2014 r. w sprawie wynagrodzenia przewodniczącego i członków komisji do spraw przeprowadzenia egzaminów konkursowego i komorniczego oraz przewodniczącego i członków zespołu do przygotowywania pytań testowych oraz zadań pisemnych na egzamin konkursowy i komorniczy (Dz. U. poz. 1925), które w zakresie uregulowanym w niniejszym rozporządzeniu tracą moc z dniem jego wejścia w życie, na podstawie art. 300 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244 oraz z 2019 r. poz. 55). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 12 grudnia 2013 r. w sprawie zespołu do przygotowywania pytań testowych i zadań pisemnych na egzaminy konkursowy i komorniczy (Dz. U. z 2017 r. poz. 2296) oraz rozporządzeniem Ministra Sprawiedliwości z dnia 17 grudnia 2014 r. w sprawie wynagrodzenia przewodniczącego i członków komisji do spraw przeprowadzenia egzaminów konkursowego i komorniczego oraz przewodniczącego i członków zespołu do przygotowywania pytań testowych oraz zadań pisemnych na egzamin konkursowy i komorniczy (Dz. U. poz. 1925), które w zakresie uregulowanym w niniejszym rozporządzeniu tracą moc z dniem jego wejścia w życie, na podstawie art. 300 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244 oraz z 2019 r. poz. 55).
 

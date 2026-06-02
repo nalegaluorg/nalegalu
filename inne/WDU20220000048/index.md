@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 5 stycznia 2022 r. zmieniające rozporządzenie w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjantów
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 5 stycznia 2022 r. zmieniające rozporządzenie w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjantów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-05 |
 | Data wydania | 2022-01-11 |
-| Wejście w życie | 2022-01-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000048) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/48/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 81 ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, 2333, 2447 i 2448) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 14 maja 2013 r. w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjantów (Dz. U. z 2020 r. poz. 1113) w § 1 pkt 3 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 14 maja 2013 r. w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjantów (Dz. U. z 2020 r. poz. 1113) w § 1 pkt 3 otrzymuje brzmienie: „
 3)
-komórka organizacyjna właściwa w sprawach osobowych – komórkę organizacyjną właściwą do spraw kadr w Komendzie Głównej Policji, Centralnym Biurze Śledczym Policji, Biurze Spraw Wewnętrznych Policji, Centralnym Biurze Zwalczania Cyberprzestępczości, Komendzie Stołecznej Policji, komendzie wojewódzkiej Policji, komendzie powiatowej, miejskiej i rejonowej Policji, instytucie badawczym, Wyższej Szkole Policji w Szczytnie oraz szkole policyjnej;
-” .
+komórka organizacyjna właściwa w sprawach osobowych – komórkę organizacyjną właściwą do spraw kadr w Komendzie Głównej Policji, Centralnym Biurze Śledczym Policji, Biurze Spraw Wewnętrznych Policji, Centralnym Biurze Zwalczania Cyberprzestępczości, Komendzie Stołecznej Policji, komendzie wojewódzkiej Policji, komendzie powiatowej, miejskiej i rejonowej Policji, instytucie badawczym, Wyższej Szkole Policji w Szczytnie oraz szkole policyjnej; ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

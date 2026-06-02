@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-06 |
 | Data wydania | 2018-04-04 |
-| Wejście w życie | 2018-04-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000663) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/663/text.pdf) |
 
@@ -53,14 +52,14 @@ source: "eli-html"
 
 - **1)** wykonywania wszelkich lub określonych zawodów,
 - **2)** prowadzenia wszelkiej lub określonej działalności lub
-- **3)** wykonywania wszelkich lub określonych czynności wymagających zezwolenia które są związane z wykorzystywaniem zwierząt lub oddziaływaniem na nie. ” , po ust. 4 dodaje się ust. 4a-4c w brzmieniu: „
+- **3)** wykonywania wszelkich lub określonych czynności wymagających zezwolenia – które są związane z wykorzystywaniem zwierząt lub oddziaływaniem na nie. ” , po ust. 4 dodaje się ust. 4a-4c w brzmieniu: „
     - **f)**
 
 4a. Jeżeli sprawca popełnił przestępstwo, o którym mowa w ust. 2, w związku z wykonywaniem zawodu, prowadzeniem działalności lub wykonywaniem czynności wymagających zezwolenia, które są związane z wykorzystywaniem zwierząt lub oddziaływaniem na nie, sąd orzeka tytułem środka karnego zakaz:
 
 - **1)** wykonywania wszelkich lub określonych zawodów,
 - **2)** prowadzenia wszelkiej lub określonej działalności lub
-- **3)** wykonywania wszelkich lub określonych czynności wymagających zezwolenia które są związane z wykorzystywaniem zwierząt lub oddziaływaniem na nie.
+- **3)** wykonywania wszelkich lub określonych czynności wymagających zezwolenia – które są związane z wykorzystywaniem zwierząt lub oddziaływaniem na nie.
 
 4b. Zakazy wymienione w ust. 3a-4a orzeka się w latach, od roku do lat 15.
 

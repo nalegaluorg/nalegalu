@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 7 grudnia 2017 r. w sprawie postępowania wyjaśniającego i dyscyplinarnego w stosunku do funkcjonariuszy Służby Celno-Skarbowej
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 7 grudnia 2017 r. w sprawie postępowania wyjaśniającego i dyscyplinarnego w stosunku do funkcjonariuszy Służby Celno-Skarbowej Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-07 |
 | Data wydania | 2018-01-12 |
-| Wejście w życie | 2018-01-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000115) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/115/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 274 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 274 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy tryb przeprowadzania postępowania wyjaśniającego, dyscyplinarnego, postępowania odwoławczego w sprawach dyscyplinarnych, orzekania kar dyscyplinarnych oraz ich wykonywania.
 § 2.
@@ -90,6 +89,5 @@ obniżenia stopnia służbowego, pozbawienia stopnia oficerskiego lub generalski
 4)
 wydalenia ze Służby Celno-Skarbowej – polega na pisemnym poinformowaniu ukaranego, że zwolnienie ze służby następuje z dniem uprawomocnienia się orzeczenia.
 § 13.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 11 lutego 2010 r. w sprawie postępowania wyjaśniającego i dyscyplinarnego w stosunku do funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 159 oraz z 2017 r. poz. 369), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 11 lutego 2010 r. w sprawie postępowania wyjaśniającego i dyscyplinarnego w stosunku do funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 159 oraz z 2017 r. poz. 369), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 11 lutego 2010 r. w sprawie postępowania wyjaśniającego i dyscyplinarnego w stosunku do funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 159 oraz z 2017 r. poz. 369), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409).
 

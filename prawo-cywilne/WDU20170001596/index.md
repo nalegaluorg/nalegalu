@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-20 |
 | Data wydania | 2017-08-25 |
-| Wejście w życie | 2017-09-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001596) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1596/text.pdf) |
 
@@ -303,7 +302,7 @@ source: "eli-html"
 
 5. Wysokość kaucji mieszkaniowej waloryzuje się proporcjonalnie do wartości rynkowej lokalu. ” .
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.) w art. 831:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933, 1133, 1136, 1452 i 1475.) w art. 831:
 
 - **1)** w § 1 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
 - **10)** wierzytelności przysługujące spółdzielni mieszkaniowej wobec członków spółdzielni i osób niebędących członkami spółdzielni, którym przysługuje spółdzielcze prawo do lokalu albo własność lokalu, z tytułu opłat, o których mowa w art. 4 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2013 r. poz. 1222, z 2015 r. poz. 201 oraz z 2017 r. poz. 1442 i 1596), jak również środki, będące w dyspozycji spółdzielni w związku z wnoszeniem tych opłat, chyba że wierzytelność egzekwowana powstała w związku z wykonaniem przez wierzyciela zobowiązań, które miały być zaspokojone z opłat, o których mowa w art. 4 tej ustawy. ” ;
@@ -359,5 +358,5 @@ source: "eli-html"
 
 **Art. 11.** Do czynności podjętych na podstawie art. 93a ustawy zmienianej w art. 3 po dniu wejścia w życie niniejszej ustawy, w sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy art. 93a ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 12.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 12.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933, 1133, 1136, 1452 i 1475.
 

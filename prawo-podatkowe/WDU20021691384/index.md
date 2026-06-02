@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-08-30 |
 | Data wydania | 2002-10-11 |
-| Wejście w życie | 2002-10-26 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021691384) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1384/text.pdf) |
 
@@ -79,12 +78,38 @@ source: "eli-html"
     - **d)**
     - **e)**
 
-- **2)** w art. 12: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) wartość zwróconych wierzytelności, które uprzednio, zgodnie z art. 16 ust. 1 pkt 25 lub 43, zostały odpisane jako nieściągalne lub umorzone i zaliczone do kosztów uzyskania przychodów, ” , – pkt 6 otrzymuje brzmienie: „ 6) w bankach – kwota stanowiąca równowartość: a) rezerwy na ryzyko ogólne, utworzonej zgodnie z ustawą z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208 i Nr 153, poz. 1271), rozwiązanej lub wykorzystanej w inny sposób, b) rozwiązanych lub zmniejszonych rezerw, o których mowa w art. 16 ust. 1 pkt 26, zaliczonych uprzednio do kosztów uzyskania przychodów, z zastrzeżeniem ust. 4 pkt 15 lit. b), ” , w ust. 4: – pkt 8 otrzymuje brzmienie: „ 8) kwot stanowiących równowartość umorzonych zobowiązań, w tym także z tytułu pożyczek (kredytów), jeżeli umorzenie zobowiązań jest związane z: a) bankowym postępowaniem ugodowym w rozumieniu przepisów o restrukturyzacji finansowej przedsiębiorstw i banków lub b) postępowaniem układowym w rozumieniu przepisów o postępowaniu układowym, lub c) realizacją programu restrukturyzacji na podstawie odrębnych ustaw, ” , – w pkt 14 kropkę zastępuje się przecinkiem i dodaje się pkt 15 w brzmieniu: „ 15) w bankach: a) nominalnej wartości akcji (udziałów) przedsiębiorców objętych programem restrukturyzacji realizowanym na podstawie odrębnych ustaw, objętych za wierzytelności z tytułu kredytów (pożyczek) udzielonych tym przedsiębiorcom, na które utworzono rezerwy zaliczone uprzednio do kosztów uzyskania przychodów; w przypadku odpłatnego zbycia tych akcji (udziałów) nie ustala się kosztów uzyskania przychodów, b) rezerw zaliczonych do kosztów uzyskania przychodów, rozwiązanych lub zmniejszonych w wyniku zamiany wierzytelności z tytułu kredytów (pożyczek) na akcje (udziały) przedsiębiorców objętych programem restrukturyzacji na podstawie odrębnych ustaw. ” ;
+- **2)** w art. 12: w ust. 1: pkt 4 otrzymuje brzmienie: „
+    - **a)**
+
+- **4)** wartość zwróconych wierzytelności, które uprzednio, zgodnie z art. 16 ust. 1 pkt 25 lub 43, zostały odpisane jako nieściągalne lub umorzone i zaliczone do kosztów uzyskania przychodów, ” , pkt 6 otrzymuje brzmienie: „
+- **6)** w bankach – kwota stanowiąca równowartość: rezerwy na ryzyko ogólne, utworzonej zgodnie z ustawą z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208 i Nr 153, poz. 1271), rozwiązanej lub wykorzystanej w inny sposób, rozwiązanych lub zmniejszonych rezerw, o których mowa w art. 16 ust. 1 pkt 26, zaliczonych uprzednio do kosztów uzyskania przychodów, z zastrzeżeniem ust. 4 pkt 15 lit. b), ” , w ust. 4: pkt 8 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **b)**
+
+- **8)** kwot stanowiących równowartość umorzonych zobowiązań, w tym także z tytułu pożyczek (kredytów), jeżeli umorzenie zobowiązań jest związane z: bankowym postępowaniem ugodowym w rozumieniu przepisów o restrukturyzacji finansowej przedsiębiorstw i banków lub postępowaniem układowym w rozumieniu przepisów o postępowaniu układowym, lub realizacją programu restrukturyzacji na podstawie odrębnych ustaw, ” , w pkt 14 kropkę zastępuje się przecinkiem i dodaje się pkt 15 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **15)** w bankach: nominalnej wartości akcji (udziałów) przedsiębiorców objętych programem restrukturyzacji realizowanym na podstawie odrębnych ustaw, objętych za wierzytelności z tytułu kredytów (pożyczek) udzielonych tym przedsiębiorcom, na które utworzono rezerwy zaliczone uprzednio do kosztów uzyskania przychodów; w przypadku odpłatnego zbycia tych akcji (udziałów) nie ustala się kosztów uzyskania przychodów, rezerw zaliczonych do kosztów uzyskania przychodów, rozwiązanych lub zmniejszonych w wyniku zamiany wierzytelności z tytułu kredytów (pożyczek) na akcje (udziały) przedsiębiorców objętych programem restrukturyzacji na podstawie odrębnych ustaw. ” ;
     - **a)**
     - **b)**
 
-- **3)** w art. 16: w ust. 1: – pkt 26 otrzymuje brzmienie: „ 26) rezerw tworzonych na pokrycie wierzytelności, których nieściągalność została uprawdopodobniona, z wyjątkiem tych rezerw utworzonych na pokrycie: a) w jednostkach organizacyjnych, o których mowa w pkt 25 lit. b): – wymagalnych, a nieściągalnych kredytów (pożyczek), – kredytów (pożyczek) zakwalifikowanych do kategorii straconych, udzielonych przedsiębiorcom realizującym program restrukturyzacji na podstawie odrębnych ustaw, b) wymagalnych, a nieściągalnych należności z tytułu udzielonych przez bank po dniu 1 stycznia 1997 r. gwarancji (poręczeń) spłaty kredytów i pożyczek, c) zakwalifikowanych do kategorii straconych należności z tytułu udzielonych przez bank po dniu 1 stycznia 1997 r. gwarancji (poręczeń) spłaty kredytów i pożyczek, udzielonych przedsiębiorcom realizującym program restrukturyzacji na podstawie odrębnych ustaw, d) 25% kwoty kredytów (pożyczek) zakwalifikowanych do kategorii wątpliwych oraz 25% zakwalifikowanych do kategorii wątpliwych należności z tytułu gwarancji (poręczeń) spłaty kredytów i pożyczek – udzielonych przez bank po dniu 1 stycznia 1997 r., e) 50% kwoty kredytów (pożyczek) zakwalifikowanych do kategorii wątpliwych oraz 50% zakwalifikowanych do kategorii wątpliwych należności z tytułu gwarancji (poręczeń) spłaty kredytów i pożyczek – udzielonych przez bank przedsiębiorcom realizującym program restrukturyzacji na podstawie odrębnych ustaw, ” , – pkt 43 otrzymuje brzmienie: „ 43) umorzonych kredytów (pożyczek) bankowych, jeżeli ich umorzenie nie jest związane z: a) bankowym postępowaniem ugodowym w rozumieniu przepisów o restrukturyzacji finansowej przedsiębiorstw i banków lub b) postępowaniem układowym w rozumieniu przepisów o postępowaniu układowym, lub c) realizacją programu restrukturyzacji na podstawie odrębnych ustaw, ” , w ust. 2a w pkt 2 zdanie wstępne otrzymuje brzmienie: „ w przypadku określonym w ust. 1 pkt 26 lit. a) tiret pierwsze i lit. b), jeżeli: ” , ust. 2b otrzymuje brzmienie: „
+- **3)** w art. 16: w ust. 1: pkt 26 otrzymuje brzmienie: „
     - **a)**
+
+- **26)** rezerw tworzonych na pokrycie wierzytelności, których nieściągalność została uprawdopodobniona, z wyjątkiem tych rezerw utworzonych na pokrycie: w jednostkach organizacyjnych, o których mowa w pkt 25 lit. b): – wymagalnych, a nieściągalnych kredytów (pożyczek), – kredytów (pożyczek) zakwalifikowanych do kategorii straconych, udzielonych przedsiębiorcom realizującym program restrukturyzacji na podstawie odrębnych ustaw, wymagalnych, a nieściągalnych należności z tytułu udzielonych przez bank po dniu 1 stycznia 1997 r. gwarancji (poręczeń) spłaty kredytów i pożyczek, zakwalifikowanych do kategorii straconych należności z tytułu udzielonych przez bank po dniu 1 stycznia 1997 r. gwarancji (poręczeń) spłaty kredytów i pożyczek, udzielonych przedsiębiorcom realizującym program restrukturyzacji na podstawie odrębnych ustaw, 25% kwoty kredytów (pożyczek) zakwalifikowanych do kategorii wątpliwych oraz 25% zakwalifikowanych do kategorii wątpliwych należności z tytułu gwarancji (poręczeń) spłaty kredytów i pożyczek – udzielonych przez bank po dniu 1 stycznia 1997 r., 50% kwoty kredytów (pożyczek) zakwalifikowanych do kategorii wątpliwych oraz 50% zakwalifikowanych do kategorii wątpliwych należności z tytułu gwarancji (poręczeń) spłaty kredytów i pożyczek – udzielonych przez bank przedsiębiorcom realizującym program restrukturyzacji na podstawie odrębnych ustaw, ” , pkt 43 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **43)** umorzonych kredytów (pożyczek) bankowych, jeżeli ich umorzenie nie jest związane z: bankowym postępowaniem ugodowym w rozumieniu przepisów o restrukturyzacji finansowej przedsiębiorstw i banków lub postępowaniem układowym w rozumieniu przepisów o postępowaniu układowym, lub realizacją programu restrukturyzacji na podstawie odrębnych ustaw, ” , w ust. 2a w pkt 2 zdanie wstępne otrzymuje brzmienie: „ w przypadku określonym w ust. 1 pkt 26 lit. a) tiret pierwsze i lit. b), jeżeli: ” , ust. 2b otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
     - **b)**
     - **c)**
 
@@ -99,11 +124,11 @@ source: "eli-html"
 - **7)** gwarancji lub poręczeń Banku Gospodarstwa Krajowego ze środków Krajowego Funduszu Poręczeń Kredytowych wydanych na podstawie przepisów o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne,
 - **8)** gwarancji lub poręczeń jednostki samorządu terytorialnego Rzeczypospolitej Polskiej (gmin, powiatów i województw) o dobrej sytuacji ekonomiczno-finansowej, przy czym uwzględniana kwota zabezpieczenia powinna wynikać z uchwały właściwego organu jednostki samorządu terytorialnego w sprawie ustalania maksymalnej wysokości pożyczek, gwarancji i poręczeń udzielanych przez zarząd w roku budżetowym,
 - **9)** wpłaty określonej kwoty w złotych lub w innej walucie wymienialnej na rachunek banku, który zobowiąże się, że zwróci tę kwotę po uzyskaniu spłaty zadłużenia wraz z należnymi odsetkami i prowizją, do wysokości tej kwoty, przy czym przeliczenia na złote należy dokonać według kursu średniego ustalonego przez Narodowy Bank Polski na dzień dokonywania klasyfikacji,
-- **10)** zastawu rejestrowego na wierzytelności z rachunku lokaty złożonej w banku: posiadającym ekspozycję kredytową lub mającym siedzibę w kraju będącym członkiem OECD, w przypadku gdy sytuacja ekonomiczno-finansowa tego banku nie budzi obaw wraz z oświadczeniem o blokadzie lokaty oraz pełnomocnictwem do pobrania środków z rachunku lokaty,
+- **10)** zastawu rejestrowego na wierzytelności z rachunku lokaty złożonej w banku: posiadającym ekspozycję kredytową lub mającym siedzibę w kraju będącym członkiem OECD, w przypadku gdy sytuacja ekonomiczno-finansowa tego banku nie budzi obaw – wraz z oświadczeniem o blokadzie lokaty oraz pełnomocnictwem do pobrania środków z rachunku lokaty,
     - **a)**
     - **b)**
 
-- **11)** przeniesienia na bank przez dłużnika, do czasu spłaty zadłużenia wraz z należnymi odsetkami i prowizją, prawa własności: papierów wartościowych emitowanych przez Skarb Państwa lub Narodowy Bank Polski, papierów wartościowych emitowanych przez banki centralne lub rządy krajów będących członkiem OECD, bankowych papierów wartościowych emitowanych przez inne banki według ich wartości godziwej,
+- **11)** przeniesienia na bank przez dłużnika, do czasu spłaty zadłużenia wraz z należnymi odsetkami i prowizją, prawa własności: papierów wartościowych emitowanych przez Skarb Państwa lub Narodowy Bank Polski, papierów wartościowych emitowanych przez banki centralne lub rządy krajów będących członkiem OECD, bankowych papierów wartościowych emitowanych przez inne banki – według ich wartości godziwej,
     - **a)**
     - **b)**
     - **c)**
@@ -158,7 +183,7 @@ source: "eli-html"
 11. Podatnicy będący, od dnia rozpoczęcia prowadzenia działalności gospodarczej do pierwszego dnia miesiąca roku podatkowego, w którym rozpoczynają korzystanie ze zwolnienia, małymi przedsiębiorcami w rozumieniu przepisów o działalności gospodarczej są zwolnieni z obowiązków wynikających z ust. 1 w roku podatkowym następującym bezpośrednio po:
 
 - **1)** pierwszym roku podatkowym, o którym mowa w art. 8 ust. 2 i 2a – w przypadku gdy ten rok podatkowy trwał co najmniej pełnych 10 miesięcy kalendarzowych albo
-- **2)** drugim roku podatkowym – w przypadkach innych niż wymienione w pkt 1 pod warunkiem złożenia we właściwym urzędzie skarbowym oświadczenia o korzystaniu z tego zwolnienia; oświadczenie to składa się w formie pisemnej w terminie do 20 dnia pierwszego miesiąca roku podatkowego objętego tym zwolnieniem.
+- **2)** drugim roku podatkowym – w przypadkach innych niż wymienione w pkt 1 – pod warunkiem złożenia we właściwym urzędzie skarbowym oświadczenia o korzystaniu z tego zwolnienia; oświadczenie to składa się w formie pisemnej w terminie do 20 dnia pierwszego miesiąca roku podatkowego objętego tym zwolnieniem.
 
 12. Podatnicy korzystający ze zwolnienia, o którym mowa w ust. 11, są obowiązani do złożenia zeznania, o którym mowa w art. 27 ust. 1, oraz do uiszczenia należnego podatku za rok objęty tym zwolnieniem w pięciu kolejnych latach podatkowych następujących bezpośrednio po roku, w którym korzystali ze zwolnienia – w wysokości 20% należnego podatku wykazanego w zeznaniu składanym za rok objęty zwolnieniem; podatek ten płatny jest w terminach określonych dla złożenia zeznań za pięć kolejnych lat podatkowych następujących bezpośrednio po roku objętym tym zwolnieniem.
 

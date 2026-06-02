@@ -22,16 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-28 |
 | Data wydania | 2015-10-07 |
-| Wejście w życie | 2015-10-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001560) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1560/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 10aa ust. 5 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2014 r. poz. 1402, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 10aa ust. 5 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2014 r. poz. 1402, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822 oraz z 2015 r. poz. 529, 1045, 1066, 1217, 1268, 1322 i 1336.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
-sposób informowania Policji o odnalezieniu przez Straż Graniczną osób poszukiwanych, o których mowa w art. 20 ust. 2a pkt 5 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2015 r. poz. 355, z późn. zm.), zwanych dalej „osobami poszukiwanymi”;
+sposób informowania Policji o odnalezieniu przez Straż Graniczną osób poszukiwanych, o których mowa w art. 20 ust. 2a pkt 5 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2015 r. poz. 355, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 529, 1045, 1066, 1217 i 1268.), zwanych dalej „osobami poszukiwanymi”;
 2)
 sposób przekazywania przez Policję informacji o aktualności czynności zleconych przez właściwe organy państwowe oraz innych informacji uzupełniających lub dokumentów umożliwiających wykonanie czynności zleconych.
 § 2.
@@ -55,5 +54,5 @@ W uzasadnionych przypadkach pisemna informacja o odnalezieniu osoby poszukiwanej
 3.
 W przypadku otrzymania wniosku, o którym mowa w ust. 2, jednostka Policji prowadząca poszukiwania, przy użyciu środków komunikacji elektronicznej, niezwłocznie potwierdza aktualność czynności zleconych przez właściwe organy państwowe lub przekazuje informacje uzupełniające.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 10 października 2015 r.
+Rozporządzenie wchodzi w życie z dniem 10 października 2015 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822 oraz z 2015 r. poz. 529, 1045, 1066, 1217, 1268, 1322 i 1336. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 529, 1045, 1066, 1217 i 1268.
 

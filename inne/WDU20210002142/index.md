@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-01 |
 | Data wydania | 2021-11-25 |
-| Wejście w życie | 2022-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002142) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2142/text.pdf) |
 
@@ -70,7 +69,7 @@ source: "eli-html"
 
 - **5)** w art. 33 ust. 1 otrzymuje brzmienie: „
 
-1. Osoby pobierające stypendia sportowe, o których mowa w art. 5, art. 31 ust. 1 i 2, art. 32 ust. 1, art. 32a ust. 1, art. 32b ust. 1 oraz art. 32c ust. 1, są stypendystami sportowymi w rozumieniu przepisów ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2021 r. poz. 423, z późn. zm.), a okres ich pobierania zalicza się do okresu zatrudnienia w rozumieniu przepisów ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2021 r. poz. 1100, 1162 i 1621) oraz do okresu zatrudnienia, od którego zależą uprawnienia pracownicze. Podstawę zaliczenia okresu pobierania stypendium sportowego stanowi zaświadczenie wydane przez podmiot wypłacający stypendium. ” ;
+1. Osoby pobierające stypendia sportowe, o których mowa w art. 5, art. 31 ust. 1 i 2, art. 32 ust. 1, art. 32a ust. 1, art. 32b ust. 1 oraz art. 32c ust. 1, są stypendystami sportowymi w rozumieniu przepisów ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2021 r. poz. 423, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 432, 619, 1621, 1834, 1981 i 2105.), a okres ich pobierania zalicza się do okresu zatrudnienia w rozumieniu przepisów ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2021 r. poz. 1100, 1162 i 1621) oraz do okresu zatrudnienia, od którego zależą uprawnienia pracownicze. Podstawę zaliczenia okresu pobierania stypendium sportowego stanowi zaświadczenie wydane przez podmiot wypłacający stypendium. ” ;
 
 - **6)** w art. 36: w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
@@ -109,5 +108,5 @@ source: "eli-html"
 
 2. W roku 2022 nie stosuje się ograniczenia wynikającego z art. 21 ust. 6 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2020 r. poz. 1383 oraz z 2021 r. poz. 1192) w zakresie wysokości dotacji celowej dla Instytutu Sportu – Państwowego Instytutu Badawczego.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r.
+**Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 432, 619, 1621, 1834, 1981 i 2105.
 

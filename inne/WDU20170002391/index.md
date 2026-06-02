@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 15 grudnia 2017 r. w sprawie obligatoryjnego doskonalenia zawodowego biegłych rewidentów
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 15 grudnia 2017 r. w sprawie obligatoryjnego doskonalenia zawodowego biegłych rewidentów Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-15 |
 | Data wydania | 2017-12-21 |
-| Wejście w życie | 2017-12-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002391) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2391/text.pdf) |
 
@@ -162,6 +161,5 @@ W przypadku zmiany powstałej po stronie jednostki uprawnionej, w wyniku której
 § 12.
 Do oświadczeń o samokształceniu zawodowym składanych za okres rozliczeniowy kończący się w 2017 roku stosuje się przepisy dotychczasowe.
 § 13.
-Rozporządzenie wchodzi w życie z dniem 22 grudnia 2017 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 21 listopada 2014 r. w sprawie obligatoryjnego doskonalenia zawodowego biegłych rewidentów (Dz. U. poz. 1730), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 295 pkt 1 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. poz. 1089).
+Rozporządzenie wchodzi w życie z dniem 22 grudnia 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 21 listopada 2014 r. w sprawie obligatoryjnego doskonalenia zawodowego biegłych rewidentów (Dz. U. poz. 1730), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 295 pkt 1 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. poz. 1089). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 21 listopada 2014 r. w sprawie obligatoryjnego doskonalenia zawodowego biegłych rewidentów (Dz. U. poz. 1730), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 295 pkt 1 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. poz. 1089).
 

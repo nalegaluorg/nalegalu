@@ -50,7 +50,7 @@ b) o konieczności przeniesienia pracownika do innej pracy ze względu na stwier
 c) (uchylona),
 d) stwierdzających, że dana praca zagraża zdrowiu młodocianego (art. 201 § 2 Kodeksu pracy),
 e) o braku przeciwwskazań do wykonywania pracy na określonym stanowisku (art. 229 § 4 Kodeksu pracy),
-f) stwierdzających u pracownika objawy wskazujące na powstawanie choroby zawodowej (art. 230 § 1 Kodeksu pracy),
+f) stwierdzających u pracownika objawy wskazujące na powstawanie choroby zawodowej (art. 230 § 1 Kodeksu pracy) ,
 g) stwierdzających niezdolność do wykonywania dotychczasowej pracy u pracownika, który uległ wypadkowi przy pracy lub u którego stwierdzono chorobę zawodową, lecz nie został uznany za niezdolnego do pracy w rozumieniu przepisów o emeryturach rentach z Funduszu Ubezpieczeń Społecznych (art. 231 Kodeksu pracy);
 5) dodatkowe wymagania kwalifikacyjne, jakie powinni spełniać lekarze przeprowadzający badania profilaktyczne oraz sprawujący profilaktyczną opiekę zdrowotną nad pracownikami, niezbędną z uwagi na warunki pracy.
 2. Rozporządzenie określa ponadto tryb wydawania zaświadczeń świadectw lekarskich do celów przewidzianych w art. 92 § 1, art. 177 § 1 3, art. 178 § 1, art. 180 § 3 4, art. 185 Kodeksu pracy oraz w przepisach o urlopach wychowawczych.

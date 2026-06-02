@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 25 kwietnia 2019 r. w sprawie rocznego audytu zewnętrznego organizacji odzysku sprzętu elektrycznego i elektronicznego oraz zakładu przetwarzania
+# Rozporządzenie Ministra Środowiskaz dnia 25 kwietnia 2019 r. w sprawie rocznego audytu zewnętrznego organizacji odzysku sprzętu elektrycznego i elektronicznego oraz zakładu przetwarzania Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-25 |
 | Data wydania | 2019-04-29 |
-| Wejście w życie | 2019-05-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000798) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/798/text.pdf) |
 
@@ -66,7 +65,7 @@ dokumentację zawierającą w szczególności:
 a)
 w zakresie gospodarki odpadami – decyzje, o których mowa w art. 41 ust. 1 ustawy o odpadach,
 b)
-pozwolenia, o których mowa w art. 181 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799, z późn. zm.),
+pozwolenia, o których mowa w art. 181 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1356, 1479, 1564, 1590, 1592, 1648, 1722, 2161 i 2533 oraz z 2019 r. poz. 42, 412 i 452.),
 c)
 ewidencję odpadów,
 d)
@@ -133,6 +132,5 @@ ustalenie stanu faktycznego, w tym wskazanie stwierdzonych uchybień;
 14)
 podpis audytora sporządzającego sprawozdanie oraz podpis prawomocnego przedstawiciela weryfikatora.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 1 maja 2019 r.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1356, 1479, 1564, 1590, 1592, 1648, 1722, 2161 i 2533 oraz z 2019 r. poz. 42, 412 i 452. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 14 grudnia 2016 r. w sprawie rocznego audytu zewnętrznego organizacji odzysku sprzętu elektrycznego i elektronicznego oraz zakładu przetwarzania (Dz. U. poz. 2133), które utraciło moc zgodnie z art. 234 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650).
+Rozporządzenie wchodzi w życie z dniem 1 maja 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 14 grudnia 2016 r. w sprawie rocznego audytu zewnętrznego organizacji odzysku sprzętu elektrycznego i elektronicznego oraz zakładu przetwarzania (Dz. U. poz. 2133), które utraciło moc zgodnie z art. 234 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650). 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1356, 1479, 1564, 1590, 1592, 1648, 1722, 2161 i 2533 oraz z 2019 r. poz. 42, 412 i 452. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 14 grudnia 2016 r. w sprawie rocznego audytu zewnętrznego organizacji odzysku sprzętu elektrycznego i elektronicznego oraz zakładu przetwarzania (Dz. U. poz. 2133), które utraciło moc zgodnie z art. 234 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650).
 

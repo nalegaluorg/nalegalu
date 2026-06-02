@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-04-18 |
 | Data wydania | 2016-04-27 |
-| Wejście w życie | 2016-04-28 |
 | Ostatnia zmiana | 2026-04-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000582) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/582/text.pdf) |
 
@@ -63,70 +62,51 @@ n)
 o)
 „217. SF1036T”;
 2)
-po poz. 67 dodaje się poz. 67a w brzmieniu:
-„
+po poz. 67 dodaje się poz. 67a w brzmieniu: „
 67a.
-DKC6631YG
-” ;
+DKC6631YG ” ;
 3)
-po poz. 69 dodaje się poz. 69a i 69b w brzmieniu:
-„
+po poz. 69 dodaje się poz. 69a i 69b w brzmieniu: „
 69a.
 DKC6718YG
 69b.
-DKC6729YG
-” ;
+DKC6729YG ” ;
 4)
-po poz. 72ab dodaje się poz. 72ac w brzmieniu:
-„
+po poz. 72ab dodaje się poz. 72ac w brzmieniu: „
 72ac.
-EH6206KDDZ
-” ;
+EH6206KDDZ ” ;
 5)
-po poz. 83 dodaje się poz. 83a w brzmieniu:
-„
+po poz. 83 dodaje się poz. 83a w brzmieniu: „
 83a.
-ES Motocross YG
-” ;
+ES Motocross YG ” ;
 6)
-po poz. 84 dodaje się poz. 84a w brzmieniu:
-„
+po poz. 84 dodaje się poz. 84a w brzmieniu: „
 84a.
-ES Radiant YG
-” ;
+ES Radiant YG ” ;
 7)
-poz. 122a i 122b otrzymują brzmienie:
-„
+poz. 122a i 122b otrzymują brzmienie: „
 122a.
 LG30617 YG
 122b.
-LG30690YG
-” ;
+LG30690YG ” ;
 8)
-po poz. 122b dodaje się poz. 122c i 122d w brzmieniu:
-„
+po poz. 122b dodaje się poz. 122c i 122d w brzmieniu: „
 122c.
 LG30707YG
 122d.
-LG30712YG
-” ;
+LG30712YG ” ;
 9)
-po poz. 142 dodaje się poz. 142a w brzmieniu:
-„
+po poz. 142 dodaje się poz. 142a w brzmieniu: „
 142a.
-Miloxan YG
-” ;
+Miloxan YG ” ;
 10)
-poz. 148a i 148b otrzymują brzmienie:
-„
+poz. 148a i 148b otrzymują brzmienie: „
 148a.
 P0216Y
 148b.
-P0222Y
-” ;
+P0222Y ” ;
 11)
-po poz. 148b dodaje się poz. 148c 148g w brzmieniu:
-„
+po poz. 148b dodaje się poz. 148c 148g w brzmieniu: „
 148c.
 P0837Y
 148d.
@@ -136,8 +116,7 @@ P1570Y
 148f.
 P1921Y
 148g.
-P9400Y
-” .
+P9400Y ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

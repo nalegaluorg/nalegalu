@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. z 2023 r. poz. 2692), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 16 stycznia 2024 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024 (Dz. U. poz. 123) oraz zmian wynikających z przepisów ogłoszonych przed dniem 17 lipca 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 42 ustawy z dnia 16 stycznia 2024 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024 (Dz. U. poz. 123), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 42 ustawy z dnia 16 stycznia 2024 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024 (Dz. U. poz. 123), który stanowi: „
 
 **Art. 42.** Ustawa wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 stycznia 2024 r., z wyjątkiem art. 1 i art. 2, które wchodzą w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw
 
@@ -40,7 +39,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 2.** Przez użyte w ustawie określenia:
 
-- **1)** państwowa sfera budżetowa – rozumie się państwowe jednostki budżetowe, które prowadzą gospodarkę finansową na zasadach określonych w art. 11 i 12 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.), zwanej dalej „ustawą o finansach publicznych”;
+- **1)** państwowa sfera budżetowa – rozumie się państwowe jednostki budżetowe, które prowadzą gospodarkę finansową na zasadach określonych w art. 11 i 12 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858.), zwanej dalej „ustawą o finansach publicznych”;
 - **2)** pracownicy – rozumie się osoby zatrudnione w jednostkach, o których mowa w pkt 1, oraz żołnierzy zawodowych, funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej i Służby Więziennej – z wyjątkiem pełniących służbę kandydacką – oraz funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego i Służby Celno-Skarbowej;
 - **3)** wynagrodzenia – rozumie się wynagrodzenia i inne świadczenia wynikające ze stosunku pracy osób zatrudnionych w jednostkach, o których mowa w pkt 1, oraz uposażenia, nagrody roczne i uznaniowe oraz dodatkowe uposażenia roczne, a także zapomogi przysługujące na podstawie odrębnych ustaw żołnierzom i funkcjonariuszom, o których mowa w pkt 2;
 - **4)** średnioroczny wskaźnik wzrostu wynagrodzeń – rozumie się wzrost wynagrodzeń na dany rok budżetowy w stosunku do roku poprzedniego;
@@ -100,7 +99,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 5. Jeżeli w terminie 30 dni od dnia otrzymania propozycji nie nastąpi uzgodnienie stanowiska Rady Dialogu Społecznego, Rada Ministrów przyjmie do projektu ustawy budżetowej średnioroczne wskaźniki wzrostu wynagrodzeń w państwowej sferze budżetowej na rok następny, z tym że nie mogą być one niższe od wskaźników zawartych w propozycji, o której mowa w ust. 2.
 
-6. Terminy, o których mowa w ust. 2, 3 i 5, Rada Dialogu Społecznego zmienia na wniosek przedstawiciela Rady Ministrów w jej składzie, odpowiednio do zmiany terminu dokonanej na podstawie art. 19 ust. 2 ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm.).
+6. Terminy, o których mowa w ust. 2, 3 i 5, Rada Dialogu Społecznego zmienia na wniosek przedstawiciela Rady Ministrów w jej składzie, odpowiednio do zmiany terminu dokonanej na podstawie art. 19 ust. 2 ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 568 i 2157, z 2021 r. poz. 2445, z 2022 r. poz. 2666 oraz z 2023 r. poz. 1586 i 1723.).
 
 **Art. 8.**
 
@@ -133,7 +132,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 30.** (pominięty)
 
-**Art. 31.** Traci moc ustawa z dnia 23 grudnia 1994 r. o kształtowaniu środków na wynagrodzenia w państwowej sferze budżetowej (Dz. U. z 1995 r. poz. 163, z późn. zm.).
+**Art. 31.** Traci moc ustawa z dnia 23 grudnia 1994 r. o kształtowaniu środków na wynagrodzenia w państwowej sferze budżetowej (Dz. U. z 1995 r. poz. 163, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. poz. 496 i 647, z 1997 r. poz. 883, z 1998 r. poz. 756, 1014, 1016 i 1059 oraz z 1999 r. poz. 684 i 802.).
 
-**Art. 32.** Ustawa wchodzi w życie z dniem 1 stycznia 2000 r.
+**Art. 32.** Ustawa wchodzi w życie z dniem 1 stycznia 2000 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 568 i 2157, z 2021 r. poz. 2445, z 2022 r. poz. 2666 oraz z 2023 r. poz. 1586 i 1723. 3) Dodany przez art. 33 ustawy z dnia 16 stycznia 2024 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024 (Dz. U. poz. 123), która weszła w życie z dniem 1 lutego 2024 r., z mocą od dnia 1 stycznia 2024 r. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. poz. 496 i 647, z 1997 r. poz. 883, z 1998 r. poz. 756, 1014, 1016 i 1059 oraz z 1999 r. poz. 684 i 802.
 

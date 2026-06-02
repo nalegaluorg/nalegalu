@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-08 |
 | Data wydania | 2014-04-24 |
-| Wejście w życie | 2014-04-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000522) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/522/text.pdf) |
 
@@ -127,5 +126,5 @@ Wniosek o przyznanie nagrody rzeczowej zawiera: imię i nazwisko pacjenta, imię
 4.
 Kierownik szpitala psychiatrycznego zatwierdza wniosek o przyznanie nagrody rzeczowej i określa jej wartość.
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia i Opieki Społecznej z dnia 20 października 1995 r. w sprawie organizowania zajęć rehabilitacyjnych w szpitalach psychiatrycznych i nagradzania uczestników tych zajęć (Dz. U. Nr 127, poz. 614), które utraciło moc z dniem 12 lutego 2013 r. na podstawie art. 3 pkt 1 ustawy z dnia 3 grudnia 2010 r. o zmianie ustawy o ochronie zdrowia psychicznego (Dz. U. z 2011 r. Nr 6, poz. 19). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia i Opieki Społecznej z dnia 20 października 1995 r. w sprawie organizowania zajęć rehabilitacyjnych w szpitalach psychiatrycznych i nagradzania uczestników tych zajęć (Dz. U. Nr 127, poz. 614), które utraciło moc z dniem 12 lutego 2013 r. na podstawie art. 3 pkt 1 ustawy z dnia 3 grudnia 2010 r. o zmianie ustawy o ochronie zdrowia psychicznego (Dz. U. z 2011 r. Nr 6, poz. 19).
 

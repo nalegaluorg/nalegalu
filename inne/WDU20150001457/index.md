@@ -31,16 +31,14 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378 oraz z 2015 r. poz. 1045 i 1224) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 20 grudnia 2012 r. w sprawie szczegółowych zasad planowania i prowadzenia gospodarki finansowej oraz działalności inwestycyjnej sądów wojskowych (Dz. U. z 2013 r. poz. 36), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Obrony Narodowej z dnia 15 października 2014 r. zmieniającym rozporządzenie w sprawie szczegółowych zasad planowania i prowadzenia gospodarki finansowej oraz działalności inwestycyjnej sądów wojskowych (Dz. U. poz. 1530).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 15 października 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad planowania i prowadzenia gospodarki finansowej oraz działalności inwestycyjnej sądów wojskowych (Dz. U. poz. 1530), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 15 października 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad planowania i prowadzenia gospodarki finansowej oraz działalności inwestycyjnej sądów wojskowych (Dz. U. poz. 1530), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 20 grudnia 2012 r. w sprawie szczegółowych zasad planowania i prowadzenia gospodarki finansowej oraz działalności inwestycyjnej sądów wojskowych
 Na podstawie art. 4 § 6 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2015 r. poz. 1198) zarządza się, co następuje:
 § 1.
 Podstawę planowania dochodów i wydatków budżetowych związanych z działalnością sądów wojskowych stanowią założenia projektu budżetu państwa przedstawione przez Ministra Finansów wraz z wytycznymi Ministra Obrony Narodowej do planowania budżetowego.
-§ 2.
+§ 2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 15 października 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad planowania i prowadzenia gospodarki finansowej oraz działalności inwestycyjnej sądów wojskowych (Dz. U. poz. 1530), które weszło w życie z dniem 21 listopada 2014 r..
 1.
 Prezes sądu wojskowego zgłasza potrzeby do jednostek budżetowych, o których mowa w § 3.
 2.
@@ -58,7 +56,7 @@ Realizacja dochodów i wydatków budżetowych związanych z działalnością są
 Prezes sądu wojskowego akceptuje dokumenty dotyczące realizacji wydatków związanych z działalnością sądu wojskowego w zakresie celowości ich dokonania.
 2.
 Kierownik jednostki budżetowej, o której mowa w § 3, akceptuje dokumenty dotyczące realizacji wydatków związanych z działalnością sądu wojskowego w zakresie ich zgodności z planem finansowym.
-§ 5.
+§ 5W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 1.
 Zmian w planie finansowym sądu wojskowego w trakcie roku budżetowego dokonuje kierownik jednostki budżetowej, o której mowa w § 3, na wniosek lub za zgodą prezesa sądu wojskowego.
 2.
@@ -68,5 +66,5 @@ Kierownicy jednostek budżetowych, o których mowa w § 3, przekazują prezesom 
 § 7.
 Działalność inwestycyjna sądów wojskowych realizowana jest przez właściwe jednostki organizacyjne podległe Ministrowi Obrony Narodowej.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 10 stycznia 2013 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 26 maja 2003 r. w sprawie szczegółowych zasad planowania i prowadzenia gospodarki finansowej oraz działalności inwestycyjnej sądów wojskowych (Dz. U. Nr 104, poz. 974), które utraciło moc z dniem wejścia w życie ustawy z dnia 19 sierpnia 2011 r. o zmianie ustawy – Prawo o ustroju sądów wojskowych oraz ustawy o służbie wojskowej żołnierzy zawodowych (Dz. U. Nr 236, poz. 1396). 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 15 października 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad planowania i prowadzenia gospodarki finansowej oraz działalności inwestycyjnej sądów wojskowych (Dz. U. poz. 1530), które weszło w życie z dniem 21 listopada 2014 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Rozporządzenie zostało ogłoszone w dniu 10 stycznia 2013 r. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 26 maja 2003 r. w sprawie szczegółowych zasad planowania i prowadzenia gospodarki finansowej oraz działalności inwestycyjnej sądów wojskowych (Dz. U. Nr 104, poz. 974), które utraciło moc z dniem wejścia w życie ustawy z dnia 19 sierpnia 2011 r. o zmianie ustawy – Prawo o ustroju sądów wojskowych oraz ustawy o służbie wojskowej żołnierzy zawodowych (Dz. U. Nr 236, poz. 1396).
 

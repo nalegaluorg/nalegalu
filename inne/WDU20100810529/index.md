@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-04-08 |
 | Data wydania | 2010-05-14 |
-| Wejście w życie | 2010-11-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100810529) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/529/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. z 1996 r. Nr 10, poz. 55, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. z 1996 r. Nr 10, poz. 55, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 96, poz. 1107 oraz z 2003 r. Nr 229, poz. 2274.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2: pkt 2 i 3 otrzymują brzmienie: „
     - **a)**
@@ -123,11 +122,11 @@ source: "eli-html"
 
 2. W razie popełnienia czynu określonego w art. 12 pkt 5, sąd może orzec przepadek przedmiotów imitujących opakowania wyrobów tytoniowych stanowiących przedmiot czynu zabronionego, choćby nie stanowiły one własności sprawcy. ” .
 
-**Art. 2.** W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2006 r. Nr 122, poz. 851, z późn. zm.) w art. 4 w ust. 1 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
+**Art. 2.** W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2006 r. Nr 122, poz. 851, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 143, poz. 1032, Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 220, poz. 1600, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 20, poz. 106, Nr 92, poz. 753 i Nr 157, poz. 1241 oraz z 2010 r. Nr 21, poz. 105.) w art. 4 w ust. 1 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
 
 - **10)** wymagań określonych w przepisach o zawartości niektórych substancji w dymie papierosowym. ” .
 
 **Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 5 ust. 3 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 5a ust. 2 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 6, który wchodzi w życie po upływie 2 lat od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 6, który wchodzi w życie po upływie 2 lat od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 96, poz. 1107 oraz z 2003 r. Nr 229, poz. 2274. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 143, poz. 1032, Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 220, poz. 1600, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 20, poz. 106, Nr 92, poz. 753 i Nr 157, poz. 1241 oraz z 2010 r. Nr 21, poz. 105.
 

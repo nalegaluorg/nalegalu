@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-04 |
 | Data wydania | 2014-05-28 |
-| Wejście w życie | 2014-06-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000696) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/696/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2013 r. poz. 666, z późn. zm.) w art. 45:
+**Art. 1.** W ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2013 r. poz. 666, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 1355, 1623 i 1717 oraz z 2014 r. poz. 502.) w art. 45:
 
 - **1)** ust. 1 otrzymuje brzmienie: „
 
@@ -36,7 +35,7 @@ source: "eli-html"
 
 1a. W przypadkach określonych w art. 44 ust. 1 pkt 2 lit. b wypłatę świadczeń wznawia się od miesiąca, w którym ją wstrzymano, jednak za okres nie dłuższy niż trzy lata wstecz, licząc od miesiąca, w którym zgłoszono wniosek o wznowienie wypłaty. ” .
 
-**Art. 2.** W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2013 r. poz. 667, z późn. zm.) w art. 46:
+**Art. 2.** W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2013 r. poz. 667, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 1623 i 1717 oraz z 2014 r. poz. 502.) w art. 46:
 
 - **1)** ust. 1 otrzymuje brzmienie: „
 
@@ -48,5 +47,5 @@ source: "eli-html"
 
 **Art. 3.** Do wniosków o wznowienie wypłaty świadczeń wstrzymanych na podstawie art. 44 ust. 1 pkt 2 lit. b ustawy, o której mowa w art. 1, albo na podstawie art. 45 ust. 1 pkt 2 lit. b ustawy, o której mowa w art. 2, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy stosuje się odpowiednio przepisy ustawy, o której mowa w art. 1 albo art. 2, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 1355, 1623 i 1717 oraz z 2014 r. poz. 502. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 1623 i 1717 oraz z 2014 r. poz. 502.
 

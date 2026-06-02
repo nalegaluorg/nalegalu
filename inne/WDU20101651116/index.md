@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-07-23 |
 | Data wydania | 2010-09-08 |
-| Wejście w życie | 2010-09-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101651116) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1116/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374 oraz z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842 i Nr 127, poz. 857.) wprowadza się następujące zmiany:
 
 - **1)** w art. 31c: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -72,7 +71,7 @@ source: "eli-html"
 2. W dodatkowym postępowaniu mogą brać udział świadczeniodawcy spełniający warunki dotyczące:
 
 - **1)** personelu medycznego lub
-- **2)** wyposażenia w sprzęt i aparaturę medyczną w zakresie warunków wymaganych od świadczeniodawców, określonych w przepisach wydanych na podstawie art. 31d, oraz pozostałe warunki realizacji świadczeń gwarantowanych, określone w tych przepisach.
+- **2)** wyposażenia w sprzęt i aparaturę medyczną – w zakresie warunków wymaganych od świadczeniodawców, określonych w przepisach wydanych na podstawie art. 31d, oraz pozostałe warunki realizacji świadczeń gwarantowanych, określone w tych przepisach.
 
 3. W wyniku rozstrzygnięcia dodatkowego postępowania, o którym mowa w ust. 1, może być zawarta ze świadczeniodawcą, o którym mowa w ust. 2, umowa o udzielanie świadczeń opieki zdrowotnej, w danym zakresie świadczeń gwarantowanych:
 
@@ -91,5 +90,5 @@ source: "eli-html"
 
 2. Zachowane w mocy akty wykonawcze, o których mowa w ust. 1, wydane na podstawie art. 31d ustawy, o której mowa w art. 1, mogą być zmienione przez ministra właściwego do spraw zdrowia, w drodze rozporządzenia, w granicach określonych w art. 31d ustawy, o której mowa w art. 1.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374 oraz z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842 i Nr 127, poz. 857.
 

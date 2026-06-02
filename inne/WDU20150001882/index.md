@@ -8,10 +8,10 @@ pos: 1882
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Rozporządzenie Prezesa Rady Ministrówz dnia 12 listopada 2015 r. w sprawie dokonania przeniesień niektórych planowanych wydatków budżetu państwa, w tym kwot wynagrodzeń, określonych w ustawie budżetowej na rok 2015
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 listopada 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,82 +22,36 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-11-12 |
 | Data wydania | 2015-11-16 |
-| Wejście w życie | 2015-11-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001882) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1882/text.pdf) |
 
-Treść rozporządzenia
-
-## Załącznik nr 1 — – Szczegółowy podział przenoszonych kwot wydatków budżetowych
-
-## Załącznik nr 2 — – Szczegółowy podział przenoszonych kwot wynagrodzeń
-
-Treść rozporządzenia
-Na podstawie art. 29 ust. 5 ustawy z dnia 5 grudnia 2014 r. o zmianie niektórych ustaw w związku z realizacją ustawy budżetowej (Dz. U. poz. 1877) zarządza się, co następuje:
-§ 1.
-Rozporządzenie określa przeniesienie niektórych planowanych wydatków budżetu państwa, w tym kwot wynagrodzeń, między częściami budżetu państwa w podziale na części, działy i rozdziały, w zakresie dotyczącym Ministerstwa Spraw Zagranicznych oraz Ministerstwa Infrastruktury i Rozwoju, Ministerstwa Kultury i Dziedzictwa Narodowego, Ministerstwa Administracji i Cyfryzacji, Ministerstwa Nauki i Szkolnictwa Wyższego, Ministerstwa Pracy i Polityki Społecznej, Ministerstwa Środowiska, Ministerstwa Spraw Wewnętrznych, Ministerstwa Zdrowia i Agencji Bezpieczeństwa Wewnętrznego, na finansowanie zadań, o których mowa w art. 29 ust. 1 i 3 ustawy z dnia 5 grudnia 2014 r. o zmianie niektórych ustaw w związku z realizacją ustawy budżetowej.
-§ 2.
-1.
-Przenosi się planowane wydatki budżetowe, o których mowa w § 1, w kwocie 10 238 249 zł, do części 45 – Sprawy zagraniczne i członkostwo Rzeczypospolitej Polskiej w Unii Europejskiej z części:
-1)
-21 – Gospodarka morska w kwocie 1 037 212 zł;
-2)
-24 – Kultura i ochrona dziedzictwa narodowego w kwocie 331 711 zł;
-3)
-26 – Łączność w kwocie 140 178 zł;
-4)
-27 – Informatyzacja w kwocie 260 000 zł;
-5)
-28 – Nauka w kwocie 255 927 zł;
-6)
-31 – Praca w kwocie 1 433 699 zł;
-7)
-34 – Rozwój regionalny w kwocie 717 212 zł;
-8)
-39 – Transport w kwocie 666 212 zł;
-9)
-41 – Środowisko w kwocie 944 117 zł;
-10)
-42 – Sprawy wewnętrzne w kwocie 697 292 zł;
-11)
-46 – Zdrowie w kwocie 698 204 zł;
-12)
-57 – Agencja Bezpieczeństwa Wewnętrznego w kwocie 3 056 485 zł.
-2.
-Szczegółowy podział przenoszonych kwot wydatków budżetowych, o których mowa w ust. 1, określa załącznik nr 1 do rozporządzenia.
-§ 3.
-1.
-W ramach kwoty wymienionej w § 2 ust. 1 przenosi się kwoty wynagrodzeń w łącznej wysokości 1 955 507 zł do części 45 – Sprawy zagraniczne i członkostwo Rzeczypospolitej Polskiej w Unii Europejskiej z części:
-1)
-21 – Gospodarka morska w kwocie 170 425 zł;
-2)
-24 – Kultura i ochrona dziedzictwa narodowego w kwocie 70 202 zł;
-3)
-26 – Łączność w kwocie 84 064 zł;
-4)
-34 – Rozwój regionalny w kwocie 184 424 zł;
-5)
-39 – Transport w kwocie 154 424 zł;
-6)
-41 – Środowisko w kwocie 201 955 zł;
-7)
-42 – Sprawy wewnętrzne w kwocie 300 771 zł;
-8)
-46 – Zdrowie w kwocie 145 168 zł;
-9)
-57 – Agencja Bezpieczeństwa Wewnętrznego w kwocie 644 074 zł.
-2.
-Szczegółowy podział przenoszonych kwot wynagrodzeń, o których mowa w ust. 1, określa załącznik nr 2 do rozporządzenia.
-§ 4.
-Przepisy § 2 i § 3 stosuje się od dnia 1 stycznia 2015 r.
-§ 5.
-Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
-
-## Załącznik nr 1 — – Szczegółowy podział przenoszonych kwot wydatków budżetowych
-
-patrz oryginał
-
-## Załącznik nr 2 — – Szczegółowy podział przenoszonych kwot wynagrodzeń
-
-patrz oryginał
+ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 12 listopada 2015 r.
+w sprawie dokonania przeniesień niektórych planowanych wydatków budżetu państwa, w tym kwot wynagrodzeń, określonych w ustawie budżetowej na rok 2015 Na podstawie art. 29 ust. ustawy z dnia grudnia 2014 r. o zmianie niektórych ustaw w związku z realizacją ustawy budżetowej (Dz. U. poz. 1877) zarządza się, co następuje: § 1. Rozporządzenie określa przeniesienie niektórych planowanych wydatków budżetu państwa, w tym kwot wynagrodzeń, między częściami budżetu państwa w podziale na części, działy i rozdziały, w zakresie dotyczącym Ministerstwa Spraw Zagranicznych oraz Ministerstwa Infrastruktury i Rozwoju, Ministerstwa Kultury i Dziedzictwa Narodowego, Ministerstwa Administracji i Cyfryzacji, Ministerstwa Nauki i Szkolnictwa Wyższego, Ministerstwa Pracy i Polityki Społecznej, Ministerstwa Środowiska, Ministerstwa Spraw Wewnętrznych, Ministerstwa Zdrowia i Agencji Bezpieczeństwa Wewnętrznego, na finansowanie zadań, o których mowa w art. 29 ust. i ustawy z dnia grudnia 2014 r. o zmianie niektórych ustaw w związku z realizacją ustawy budżetowej.
+§ 2. 1. Przenosi się planowane wydatki budżetowe, o których mowa w § 1, w kwocie 10 238 249 zł, do części 45 Sprawy zagraniczne i członkostwo Rzeczypospolitej Polskiej w Unii Europejskiej z części:
+1) 21 Gospodarka morska w kwocie 037 212 zł;
+2) 24 Kultura i ochrona dziedzictwa narodowego w kwocie 331 711 zł;
+3) 26 Łączność w kwocie 140 178 zł;
+4) 27 Informatyzacja w kwocie 260 000 zł;
+5) 28 Nauka w kwocie 255 927 zł;
+6) 31 Praca w kwocie 433 699 zł;
+7) 34 Rozwój regionalny w kwocie 717 212 zł;
+8) 39 Transport w kwocie 666 212 zł;
+9) 41 Środowisko w kwocie 944 117 zł;
+10) 42 Sprawy wewnętrzne w kwocie 697 292 zł;
+11) 46 Zdrowie w kwocie 698 204 zł;
+12) 57 Agencja Bezpieczeństwa Wewnętrznego w kwocie 056 485 zł.
+2. Szczegółowy podział przenoszonych kwot wydatków budżetowych, o których mowa w ust. 1, określa załącznik nr do rozporządzenia.
+§ 3. 1. W ramach kwoty wymienionej w § ust. przenosi się kwoty wynagrodzeń w łącznej wysokości 955 507 zł do części 45 Sprawy zagraniczne i członkostwo Rzeczypospolitej Polskiej w Unii Europejskiej z części:
+1) 21 Gospodarka morska w kwocie 170 425 zł;
+3) 26 Łączność w kwocie 84 064 zł;
+4) 34 Rozwój regionalny w kwocie 184 424 zł;
+5) 39 Transport w kwocie 154 424 zł;
+6) 41 Środowisko w kwocie 201 955 zł;
+7) 42 Sprawy wewnętrzne w kwocie 300 771 zł;
+8) 46 Zdrowie w kwocie 145 168 zł;
+9) 57 Agencja Bezpieczeństwa Wewnętrznego w kwocie 644 074 zł.
+2. Szczegółowy podział przenoszonych kwot wynagrodzeń, o których mowa w ust. 1, określa załącznik nr do rozporządzenia.
+§ 4. Przepisy § i § stosuje się od dnia stycznia 2015 r.
+§ 5. Rozporządzenie wchodzi w życie po upływie dni od dnia ogłoszenia.
+Prezes Rady Ministrów: E. Kopacz SZCZEGÓŁOWY PODZIAŁ PRZENOSZONYCH KWOT WYDATKÓW BUDŻETOWYCH Część Dział Rozdział Paragraf Wyszczególnienie Kwota w zł zmniejszenie zwiększenie 21 Gospodarka morska 037 212 750 Administracja publiczna 037 212 75057 Placówki zagraniczne 037 212 3020 Wydatki osobowe niezaliczone 319 787 do wynagrodzeń 4010 Wynagrodzenia osobowe pra- 157 425 cowników 4040 Dodatkowe wynagrodzenie 13 000 roczne 4110 Składki na ubezpieczenia spo- 35 000 łeczne 4120 Składki na Fundusz Pracy 000 4210 Zakup materiałów i wyposażenia 8 000 4260 Zakup energii 14 000 4280 Zakup usług zdrowotnych 000 4300 Zakup usług pozostałych 230 000 4360 Opłaty z tytułu zakupu usług 000 telekomunikacyjnych 4400 Opłaty za administrowanie 230 000 i czynsze za budynki, lokale i pomieszczenia garażowe 4420 Podróże służbowe zagraniczne 8 000 4430 Różne opłaty i składki 8 000 24 Kultura i ochrona dziedzictwa 331 711 narodowego 750 Administracja publiczna 331 711 75001 Urzędy naczelnych i centralnych 331 711 organów administracji rządowej 3020 Wydatki osobowe niezaliczone 146 666 do wynagrodzeń 4020 Wynagrodzenia osobowe człon- 64 850 ków korpusu służby cywilnej 4040 Dodatkowe wynagrodzenie 352 roczne 4110 Składki na ubezpieczenia społeczne 12 068 4120 Składki na Fundusz Pracy 719 4210 Zakup materiałów i wyposażenia 323 4220 Zakup środków żywności 370 4260 Zakup energii 502 4300 Zakup usług pozostałych 484 4360 Opłaty z tytułu zakupu usług 385 telekomunikacyjnych 4400 Opłaty za administrowanie i 75 514 czynsze za budynki, lokale i pomieszczenia garażowe 4420 Podróże służbowe zagraniczne 608 4430 Różne opłaty i składki 870 26 Łączność 140 178 750 Administracja publiczna 140 178 75001 Urzędy naczelnych i centralnych 140 178 organów administracji rządowej 3020 Wydatki osobowe niezaliczone 39 634 do wynagrodzeń 4020 Wynagrodzenia osobowe członków korpusu służby cywilnej 84 064 4110 Składki na ubezpieczenia spo- 14 226 łeczne 4120 Składki na Fundusz Pracy 254 27 Informatyzacja 260 000 750 Administracja publiczna 260 000 75001 Urzędy naczelnych i centralnych 260 000 organów administracji rządowej 3020 Wydatki osobowe niezaliczone 120 090 do wynagrodzeń 4300 Zakup usług pozostałych 139 910 28 Nauka 255 927 750 Administracja publiczna 255 927 75001 Urzędy naczelnych i centralnych 255 927 organów administracji rządowej 3020 Wydatki osobowe niezaliczone 155 055 do wynagrodzeń 4110 Składki na ubezpieczenia spo- 13 300 łeczne 4120 Składki na Fundusz Pracy 896 4210 Zakup materiałów i wyposażenia 078 4220 Zakup środków żywności 370 4260 Zakup energii 9 820 4300 Zakup usług pozostałych 392 4360 Opłaty z tytułu zakupu usług 689 telekomunikacyjnych 4400 Opłaty za administrowanie i 55 849 czynsze za budynki, lokale i pomieszczenia garażowe 4420 Podróże służbowe zagraniczne 608 4430 Różne opłaty i składki 870 31 Praca 433 699 750 Administracja publiczna 433 699 75095 Pozostała działalność 433 699 3020 Wydatki osobowe niezaliczone 648 771 do wynagrodzeń 4110 Składki na ubezpieczenia spo- 48 707 łeczne 4120 Składki na Fundusz Pracy 976 4210 Zakup materiałów i wyposażenia 33 529 4220 Zakup środków żywności 485 4260 Zakup energii 28 525 4270 Zakup usług remontowych 431 4300 Zakup usług pozostałych 292 280 4360 Opłaty z tytułu zakupu usług 24 240 telekomunikacyjnych 4400 Opłaty za administrowanie i 308 596 czynsze za budynki, lokale i pomieszczenia garażowe 4420 Podróże służbowe zagraniczne 30 515 4430 Różne opłaty i składki 644 34 Rozwój regionalny 717 212 750 Administracja publiczna 717 212 75057 Placówki zagraniczne 717 212 3020 Wydatki osobowe niezaliczone 348 200 do wynagrodzeń 4010 Wynagrodzenia osobowe pra- 167 424 cowników 4040 Dodatkowe wynagrodzenie 17 000 roczne 4110 Składki na ubezpieczenia spo- 38 000 łeczne 4120 Składki na Fundusz Pracy 000 4210 Zakup materiałów i wyposażenia 000 4260 Zakup energii 25 000 4270 Zakup usług remontowych 000 4300 Zakup usług pozostałych 000 4360 Opłaty z tytułu zakupu usług 13 000 telekomunikacyjnych 4400 Opłaty za administrowanie i 66 588 czynsze za budynki, lokale i pomieszczenia garażowe 4420 Podróże służbowe zagraniczne 25 000 4430 Różne opłaty i składki 000 39 Transport 666 212 750 Administracja publiczna 666 212 75057 Placówki zagraniczne 666 212 3020 Wydatki osobowe niezaliczone 343 199 do wynagrodzeń 4010 Wynagrodzenia osobowe pra- 137 424 cowników 4040 Dodatkowe wynagrodzenie 17 000 roczne 4110 Składki na ubezpieczenia spo- 33 000 łeczne 4120 Składki na Fundusz Pracy 000 4210 Zakup materiałów i wyposażenia 000 4260 Zakup energii 14 000 4280 Zakup usług zdrowotnych 000 4300 Zakup usług pozostałych 71 000 4360 Opłaty z tytułu zakupu usług 10 000 telekomunikacyjnych 4400 Opłaty za administrowanie i 589 czynsze za budynki, lokale i pomieszczenia garażowe 4420 Podróże służbowe zagraniczne 12 000 4430 Różne opłaty i składki 000 41 Środowisko 944 117 750 Administracja publiczna 944 117 75001 Urzędy naczelnych i centralnych 944 117 organów administracji rządowej 3020 Wydatki osobowe niezaliczone 422 081 do wynagrodzeń 4020 Wynagrodzenia osobowe człon- 183 955 ków korpusu służby cywilnej 4040 Dodatkowe wynagrodzenie 18 000 roczne 4110 Składki na ubezpieczenia spo- 34 716 łeczne 4120 Składki na Fundusz Pracy 948 4300 Zakup usług pozostałych 280 417 42 Sprawy wewnętrzne 697 292 754 Bezpieczeństwo publiczne i 697 292 ochrona przeciwpożarowa 75402 Komenda Główna Policji 167 945 4020 Wynagrodzenia osobowe człon- 167 945 ków korpusu służby cywilnej 75404 Komendy wojewódzkie Policji 396 521 6060 Wydatki na zakupy inwestycyjne jednostek budżetowych 396 521 75406 Straż Graniczna 132 826 4020 Wynagrodzenia osobowe człon- 132 826 ków korpusu służby cywilnej 46 Zdrowie 698 204 851 Ochrona Zdrowia 698 204 85195 Pozostała działalność 698 204 3020 Wydatki osobowe niezaliczone 377 016 do wynagrodzeń 4010 Wynagrodzenia osobowe pra- 145 168 cowników 4110 Składki na ubezpieczenia spo- 24 954 łeczne 4120 Składki na Fundusz Pracy 557 4300 Zakup usług pozostałych 147 509 57 Agencja Bezpieczeństwa We- 056 485 wnętrznego 754 Bezpieczeństwo publiczne 056 485 i ochrona przeciwpożarowa 75418 Agencja Bezpieczeństwa We- 056 485 wnętrznego 3020 Wydatki osobowe niezaliczone 625 235 do wynagrodzeń 4050 Uposażenia żołnierzy zawodo- 644 074 wych oraz funkcjonariuszy 4300 Zakup usług pozostałych 787 176 45 Sprawy zagraniczne i członko- 10 238 249 stwo Rzeczypospolitej Polskiej w Unii Europejskiej 750 Administracja publiczna 10 238 249 75069 Zadania realizowane w placów- 10 238 249 kach zagranicznych przez przedstawicieli organów administracji rządowej 3020 Wydatki osobowe niezaliczone do wynagrodzeń 545 734 4020 Wynagrodzenia osobowe człon- 571 184 ków korpusu służby cywilnej 4040 Dodatkowe wynagrodzenie 384 323 roczne 4110 Składki na ubezpieczenia spo- 346 187 łeczne 4120 Składki na Fundusz Pracy 46 190 4210 Zakup materiałów i wyposażenia 100 970 4220 Zakup środków żywności 38 639 4260 Zakup energii 225 603 4270 Zakup usług remontowych 21 682 4300 Zakup usług pozostałych 361 993 4360 Opłaty z tytułu zakupu usług 142 943 telekomunikacyjnych 4400 Opłaty za administrowanie i 845 950 czynsze za budynki, lokale i pomieszczenia garażowe 4420 Podróże służbowe zagraniczne 172 499 4430 Różne opłaty i składki 37 831 6060 Wydatki na zakupy inwestycyjne 396 521 jednostek budżetowych SZCZEGÓŁOWY PODZIAŁ PRZENOSZONYCH KWOT WYNAGRODZEŃ Część Dział Roz- Wyszczególnie- Kwota w zł dział nie zmniejszenie zwiększenie wyna- dodatkogro- we dzenia wynagrodzenie roczne wynagro- dodatkodzenia we wynagrodzenie roczne 8 9 10 21 Gospodarka 170 425 157 425 13 000 morska 750 Administracja 170 425 157 425 13 000 publiczna 75057 Placówki zagra- 170 425 157 425 13 000 niczne członkowie służby zagranicznej niebędący członkami korpusu służby cywilnej 170 425 157 425 13 000 24 Kultura i ochro- 70 202 64 850 352 na dziedzictwa narodowego 750 Administracja 70 202 64 805 352 publiczna 75001 Urzędy naczel- 70 202 64 850 352 nych i centralnych organów administracji rządowej członkowie kor- 70 202 64 850 352 pusu służby cywilnej 26 Łączność 84 064 84 064 0 750 Administracja publiczna 84 064 84 064 0 75001 Urzędy naczel- 84 064 84 064 0 nych i centralnych organów administracji rządowej członkowie kor- 84 064 84 064 0 pusu służby cywilnej 34 Rozwój regio- 184 424 167 424 17 000 nalny 750 Administracja 184 424 167 424 17 000 publiczna 75057 Placówki zagra- 184 424 167 424 17 000 niczne członkowie służ- 184 424 167 424 17 000 by zagranicznej niebędący członkami korpusu służby cywilnej 39 Transport 154 424 137 424 17 000 750 Administracja 154 424 137 424 17 000 publiczna 75057 Placówki zagra- 154 424 137 424 17 000 niczne członkowie służ- 154 424 137 424 17 000 by zagranicznej niebędący członkami korpusu służby cywilnej 41 Środowisko 201 955 183 955 18 000 750 Administracja 201 955 183 955 18 000 publiczna 75001 Urzędy naczel- 201 955 183 955 18 000 nych i centralnych organów administracji rządowej członkowie kor- 201 955 183 955 18 000 pusu służby cywilnej 42 Sprawy wew- 300 771 300 771 0 nętrzne 754 Bezpieczeństwo 300 771 300 771 0 publiczne i ochrona przeciwpożarowa 75402 Komenda Główna 167 945 167 945 0 Policji członkowie korpu- 167 945 167 945 0 su służby cywilnej 75406 Straż Graniczna 132 826 132 826 0 członkowie kor- 132 826 132 826 0 pusu służby cywilnej 46 Zdrowie 145 168 145 168 0 851 Ochrona zdrowia 145 168 145 168 0 85195 Pozostała działal- 145 168 145 168 0 ność osoby nieobjęte 145 168 145 168 0 mnożnikowymi systemami wynagrodzeń 57 Agencja Bezpie- 644 074 644 074 0 czeństwa Wewnętrznego 754 Bezpieczeństwo 644 074 644 074 0 publiczne i ochrona przeciwpożarowa 75418 Agencja Bezpie- 644 074 644 074 0 czeństwa Wewnętrznego funkcjonariusze 644 074 644 074 0 45 Sprawy zagra- 955 507 571 184 384 323 niczne i członkostwo Rzeczypospolitej Polskiej w Unii Europejskiej 750 Administracja publiczna 955 507 571 184 384 323 75069 Zadania realizo- 955 507 571 184 384 323 wane w placówkach zagranicznych przez przedstawicieli organów administracji rządowej członkowie kor- 955 507 571 184 384 323 pusu służby cywilnej
 

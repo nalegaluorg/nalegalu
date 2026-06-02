@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-09-15 |
 | Data wydania | 2014-10-02 |
-| Wejście w życie | 2014-10-17 |
 | Ostatnia zmiana | 2025-01-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001317) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1317/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 20 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 20 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 353, z 2012 r. poz. 908 oraz z 2013 r. poz. 1635.) zarządza się, co następuje:
 § 1.
 Do krajowego systemu ratowniczo-gaśniczego, zwanego dalej „systemem”, mogą być włączane jednostki ochrony przeciwpożarowej, zwane dalej „jednostkami”, których siły i środki są przewidziane do użycia w powiatowym lub wojewódzkim planie ratowniczym, które zostały uwzględnione w zbiorczym planie sieci podmiotów systemu oraz spełniają warunki, o których mowa w § 2.
 § 2.
@@ -98,5 +97,5 @@ Jednostki włączone do systemu zgodnie z przepisami dotychczas obowiązującymi
 § 8.
 Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 września 1998 r. w sprawie zakresu, szczegółowych warunków i trybu włączania jednostek ochrony przeciwpożarowej do krajowego systemu ratowniczo-gaśniczego (Dz. U. Nr 121, poz. 798).
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 353, z 2012 r. poz. 908 oraz z 2013 r. poz. 1635.
 

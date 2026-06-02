@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 27 sierpnia 2004 r. o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 27 sierpnia 2004 r. o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych oraz z dnia 18 grudnia 1998 r. o wspieraniu przedsięwzięć termomodernizacyjnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-08-27 |
 | Data wydania | 2004-09-30 |
-| Wejście w życie | 2004-10-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042132157) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2157/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. Nr 98, poz. 1070, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. Nr 98, poz. 1070, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 4, poz. 27, Nr 16, poz. 167 i Nr 154, poz. 1800, z 2002 r. Nr 153, poz. 1271, Nr 216, poz. 1824 i Nr 240, poz. 2058, z 2003 r. Nr 65, poz. 594 oraz z 2004 r. Nr 141, poz. 1492 i Nr 146, poz. 1546.) wprowadza się następujące zmiany:
 
 - **1)** w art. 17: w ust. 1 po pkt 4a dodaje się pkt 4b w brzmieniu: „
     - **a)**
@@ -56,7 +55,7 @@ source: "eli-html"
 2d. Koszt przedsięwzięcia inwestycyjno-budowlanego polegającego na:
 
 - **1)** zakupie nieruchomości wraz z budynkiem i adaptacji tego budynku na cele mieszkalne lub adaptacji na cele mieszkalne budynku wniesionego jako wkład niepieniężny,
-- **2)** zakupie nieruchomości wraz z inwestycją będącą w trakcie realizacji i dokończeniu tej inwestycji lub dokończeniu inwestycji będącej w trakcie realizacji wniesionej jako wkład niepieniężny w przeliczeniu na 1 m2 powierzchni użytkowej budynku, nie może być wyższy niż 70% wskaźnika przeliczeniowego kosztu odtworzenia 1 m2 powierzchni użytkowej budynków mieszkalnych, ustalonego na podstawie ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. Nr 71, poz. 733, z późn. zm.), właściwego dla miejsca położenia nieruchomości wraz z inwestycją w trakcie realizacji lub nieruchomości wraz z budynkiem przeznaczonym do adaptacji na cele mieszkalne. ” , uchyla się ust. 9, ust. 10 otrzymuje brzmienie: „
+- **2)** zakupie nieruchomości wraz z inwestycją będącą w trakcie realizacji i dokończeniu tej inwestycji lub dokończeniu inwestycji będącej w trakcie realizacji wniesionej jako wkład niepieniężny – w przeliczeniu na 1 m2 powierzchni użytkowej budynku, nie może być wyższy niż 70% wskaźnika przeliczeniowego kosztu odtworzenia 1 m2 powierzchni użytkowej budynków mieszkalnych, ustalonego na podstawie ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. Nr 71, poz. 733, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 168, poz. 1383, z 2003 r. Nr 113, poz. 1069 oraz z 2004 r. Nr 116, poz. 1203.), właściwego dla miejsca położenia nieruchomości wraz z inwestycją w trakcie realizacji lub nieruchomości wraz z budynkiem przeznaczonym do adaptacji na cele mieszkalne. ” , uchyla się ust. 9, ust. 10 otrzymuje brzmienie: „
     - **c)**
     - **d)**
 
@@ -155,22 +154,24 @@ source: "eli-html"
 - **1)** uzyskaniem spółdzielczego prawa do lokalu mieszkalnego lub prawa odrębnej własności lokalu mieszkalnego w spółdzielni mieszkaniowej, z wyłączeniem uzyskania prawa odrębnej własności w trybie art. 1714 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2003 r. Nr 119, poz. 1116 oraz z 2004 r. Nr 19, poz. 177 i Nr 63, poz. 591), zwanej dalej „ustawą o spółdzielniach mieszkaniowych”; ” , pkt 9 otrzymuje brzmienie: „
     - **b)**
 
-- **9)** dokonaniem wpłaty na podstawie umowy w sprawie partycypacji, o której mowa w art. 29a ust. 1 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. Nr 98, poz. 1070, z późn. zm.), w wysokości nie niższej niż 20% ostatecznych kosztów budowy, przypadających na dany lokal mieszkalny. ” ;
-- **2)** w art. 3a: w ust. 1 w pkt 2 w lit. b kropkę zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ wniesienia co najmniej 50% kwoty partycypacji, o której mowa w art. 3 ust. 1 pkt 9. ” , w ust. 3: – zdanie wstępne otrzymuje brzmienie: „ Warunkiem udzielenia premii gwarancyjnej na zasadach określonych w ust. 1 pkt 2 lub w związku z dokonaniem czynności, o której mowa w art. 3 ust. 1 pkt 9, jest złożenie przez właściciela książeczki mieszkaniowej: ” , – pkt 2 otrzymuje brzmienie: „ 2) pisemnego upoważnienia udzielonego inwestorowi, o którym mowa w ust. 1 pkt 2, do zwrócenia, za pośrednictwem banku określonego w art. 3 ust. 3, równowartości przekazanej premii gwarancyjnej w przypadku wycofania przez właściciela książeczki mieszkaniowej środków na wymagany przez spółdzielnię wkład lub sfinansowanie kosztów budowy domu jednorodzinnego lub lokalu mieszkalnego budowanych na warunkach, o których mowa w art. 3 ust. 1 pkt 5, lub wycofania przez właściciela książeczki mieszkaniowej wpłaty, o której mowa w ust. 1 pkt 2 lit. c oraz w art. 3 ust. 1 pkt 9. ” , ust. 4 otrzymuje brzmienie: „
+- **9)** dokonaniem wpłaty na podstawie umowy w sprawie partycypacji, o której mowa w art. 29a ust. 1 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. Nr 98, poz. 1070, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 4, poz. 27, Nr 16, poz. 167 i Nr 154, poz. 1800, z 2002 r. Nr 153, poz. 1271, Nr 216, poz. 1824 i Nr 240, poz. 2058, z 2003 r. Nr 65, poz. 594 oraz z 2004 r. Nr 141, poz. 1492, Nr 146, poz. 1546 i Nr 213, poz. 2157.), w wysokości nie niższej niż 20% ostatecznych kosztów budowy, przypadających na dany lokal mieszkalny. ” ;
+- **2)** w art. 3a: w ust. 1 w pkt 2 w lit. b kropkę zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ wniesienia co najmniej 50% kwoty partycypacji, o której mowa w art. 3 ust. 1 pkt 9. ” , w ust. 3: – zdanie wstępne otrzymuje brzmienie: „ Warunkiem udzielenia premii gwarancyjnej na zasadach określonych w ust. 1 pkt 2 lub w związku z dokonaniem czynności, o której mowa w art. 3 ust. 1 pkt 9, jest złożenie przez właściciela książeczki mieszkaniowej: ” , pkt 2 otrzymuje brzmienie: „
     - **a)**
     - **c)**
     - **b)**
+
+- **2)** pisemnego upoważnienia udzielonego inwestorowi, o którym mowa w ust. 1 pkt 2, do zwrócenia, za pośrednictwem banku określonego w art. 3 ust. 3, równowartości przekazanej premii gwarancyjnej w przypadku wycofania przez właściciela książeczki mieszkaniowej środków na wymagany przez spółdzielnię wkład lub sfinansowanie kosztów budowy domu jednorodzinnego lub lokalu mieszkalnego budowanych na warunkach, o których mowa w art. 3 ust. 1 pkt 5, lub wycofania przez właściciela książeczki mieszkaniowej wpłaty, o której mowa w ust. 1 pkt 2 lit. c oraz w art. 3 ust. 1 pkt 9. ” , ust. 4 otrzymuje brzmienie: „
     - **c)**
 
 4. Inwestor na podstawie upoważnienia, o którym mowa w ust. 3 pkt 2, dokonuje zwrotu równowartości przekazanej premii gwarancyjnej w dniu wycofania przez właściciela książeczki mieszkaniowej środków na wymagany przez spółdzielnię wkład lub sfinansowanie kosztów budowy domu jednorodzinnego lub lokalu mieszkalnego budowanych na warunkach, o których mowa w art. 3 ust. 1 pkt 5, lub wycofania przez właściciela książeczki mieszkaniowej wpłaty, o której mowa w ust. 1 pkt 2 lit. c oraz w art. 3 ust. 1 pkt 9. ” , w ust. 5 pkt 1 otrzymuje brzmienie: „
 
 - **d)**
-- **1)** w okresie 6 miesięcy od dnia: zbycia ekspektatywy odrębnej własności lokalu, o której mowa w art. 19 ustawy o spółdzielniach mieszkaniowych, wycofania środków na wymagany przez spółdzielnię wkład lub sfinansowanie kosztów budowy domu jednorodzinnego lub lokalu mieszkalnego budowanych na warunkach, o których mowa w art. 3 ust. 1 pkt 5, wycofania wpłaty, o której mowa w ust. 1 pkt 2 lit. c oraz w art. 3 ust. 1 pkt 9 zostaną spełnione warunki określone w ust. 1 lub w art. 3 ust. 1 oraz ” .
+- **1)** w okresie 6 miesięcy od dnia: zbycia ekspektatywy odrębnej własności lokalu, o której mowa w art. 19 ustawy o spółdzielniach mieszkaniowych, wycofania środków na wymagany przez spółdzielnię wkład lub sfinansowanie kosztów budowy domu jednorodzinnego lub lokalu mieszkalnego budowanych na warunkach, o których mowa w art. 3 ust. 1 pkt 5, wycofania wpłaty, o której mowa w ust. 1 pkt 2 lit. c oraz w art. 3 ust. 1 pkt 9 – zostaną spełnione warunki określone w ust. 1 lub w art. 3 ust. 1 oraz ” .
     - **a)**
     - **b)**
     - **c)**
 
-**Art. 3.** W ustawie z dnia 18 grudnia 1998 r. o wspieraniu przedsięwzięć termomodernizacyjnych (Dz. U. Nr 162, poz. 1121, z późn. zm.) w art. 12 uchyla się ust. 1a.
+**Art. 3.** W ustawie z dnia 18 grudnia 1998 r. o wspieraniu przedsięwzięć termomodernizacyjnych (Dz. U. Nr 162, poz. 1121, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 48, poz. 550, z 2001 r. Nr 76, poz. 808 i Nr 154, poz. 1800 oraz z 2004 r. Nr 146, poz. 1546.) w art. 12 uchyla się ust. 1a.
 
 **Art. 4.**
 
@@ -184,5 +185,5 @@ source: "eli-html"
 
 **Art. 5.** Rozliczenia banków z tytułu refundacji, ze środków budżetu państwa, premii gwarancyjnych, o których mowa w ustawie wymienionej w art. 2, wypłaconych na wnioski właścicieli książeczek mieszkaniowych, złożone w okresie od dnia 1 stycznia do dnia 11 sierpnia 2002 r., nie podlegają korekcie.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych oraz z dnia 18 grudnia 1998 r. o wspieraniu przedsięwzięć termomodernizacyjnych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 4, poz. 27, Nr 16, poz. 167 i Nr 154, poz. 1800, z 2002 r. Nr 153, poz. 1271, Nr 216, poz. 1824 i Nr 240, poz. 2058, z 2003 r. Nr 65, poz. 594 oraz z 2004 r. Nr 141, poz. 1492 i Nr 146, poz. 1546. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 168, poz. 1383, z 2003 r. Nr 113, poz. 1069 oraz z 2004 r. Nr 116, poz. 1203. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 4, poz. 27, Nr 16, poz. 167 i Nr 154, poz. 1800, z 2002 r. Nr 153, poz. 1271, Nr 216, poz. 1824 i Nr 240, poz. 2058, z 2003 r. Nr 65, poz. 594 oraz z 2004 r. Nr 141, poz. 1492, Nr 146, poz. 1546 i Nr 213, poz. 2157. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 48, poz. 550, z 2001 r. Nr 76, poz. 808 i Nr 154, poz. 1800 oraz z 2004 r. Nr 146, poz. 1546.
 

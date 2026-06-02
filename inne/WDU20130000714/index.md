@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-04-19 |
 | Data wydania | 2013-06-24 |
-| Wejście w życie | 2013-06-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000714) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/714/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644 oraz z 2012 r. poz. 1237.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 uchyla się pkt 11;
 - **2)** po art. 13 dodaje się art. 13a w brzmieniu: „
@@ -89,7 +88,7 @@ source: "eli-html"
 - **1)** po terminie,
 - **2)** do niewłaściwej instytucji,
 - **3)** przez podmiot inny niż wskazany w art. 29 ust. 2 pkt 2,
-- **4)** bez spełnienia wymogów określonych w ust. 6 o czym właściwa instytucja informuje wnioskodawcę na piśmie. ” ;
+- **4)** bez spełnienia wymogów określonych w ust. 6 – o czym właściwa instytucja informuje wnioskodawcę na piśmie. ” ;
 - **7)** w art. 30c: ust. 1 i 2 otrzymują brzmienie: „
     - **a)**
 
@@ -104,7 +103,7 @@ source: "eli-html"
 - **1)** wniosek o dofinansowanie,
 - **2)** informację o wynikach oceny projektu, o której mowa w art. 30a ust. 3,
 - **3)** wniesiony protest,
-- **4)** informację, o której mowa w art. 30b ust. 9 albo art. 30i pkt 1 wraz z ewentualnymi załącznikami.
+- **4)** informację, o której mowa w art. 30b ust. 9 albo art. 30i pkt 1 – wraz z ewentualnymi załącznikami.
 
 2b. Kompletna dokumentacja jest wnoszona w oryginale lub w uwierzytelnionej kopii. ” , w ust. 5 pkt 2 i 3 otrzymują brzmienie: „
 
@@ -168,5 +167,5 @@ source: "eli-html"
 
 5. W przypadku, o którym mowa w ust. 4 pkt 1 i 4, właściwa instytucja, o której mowa w ust. 2, informując wnioskodawcę o rozstrzygnięciu podjętym w wyniku wznowienia przeprowadzenia oceny jego projektu, poucza go jednocześnie o możliwości wniesienia skargi do wojewódzkiego sądu administracyjnego. Przepisy art. 30c, art. 30d, art. 30h i art. 30i ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 28 czerwca 2013 r., z wyjątkiem art. 2 ust. 2, który wchodzi w życie z dniem ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie z dniem 28 czerwca 2013 r., z wyjątkiem art. 2 ust. 2, który wchodzi w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644 oraz z 2012 r. poz. 1237.
 

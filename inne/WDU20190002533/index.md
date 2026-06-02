@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 23 grudnia 2019 r. zmieniające rozporządzenie w sprawie wyznaczenia naczelnika urzędu skarbowego do dysponowania środkami pieniężnymi zgromadzonymi na wspólnym rachunku bankowym oraz określenia rodzaju należności pieniężnych obsługiwanych przy użyciu tego rachunku
+# Rozporządzenie Ministra Finansówz dnia 23 grudnia 2019 r. zmieniające rozporządzenie w sprawie wyznaczenia naczelnika urzędu skarbowego do dysponowania środkami pieniężnymi zgromadzonymi na wspólnym rachunku bankowym oraz określenia rodzaju należności pieniężnych obsługiwanych przy użyciu tego rachunku Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-23 |
 | Data wydania | 2019-12-30 |
-| Wejście w życie | 2020-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002533) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2533/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 11 ust. 8 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2019 r. poz. 768, 730, 1520, 1556 i 2200) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Rozwoju i Finansów z dnia 13 lutego 2017 r. w sprawie wyznaczenia naczelnika urzędu skarbowego do dysponowania środkami pieniężnymi zgromadzonymi na wspólnym rachunku bankowym oraz określenia rodzaju należności pieniężnych obsługiwanych przy użyciu tego rachunku (Dz. U. poz. 302) § 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Rozwoju i Finansów z dnia 13 lutego 2017 r. w sprawie wyznaczenia naczelnika urzędu skarbowego do dysponowania środkami pieniężnymi zgromadzonymi na wspólnym rachunku bankowym oraz określenia rodzaju należności pieniężnych obsługiwanych przy użyciu tego rachunku (Dz. U. poz. 302) § 2 otrzymuje brzmienie: „
 § 2.
 Należnościami pieniężnymi obsługiwanymi przy użyciu wspólnego rachunku bankowego są należności z tytułu:
 1)
@@ -48,7 +46,7 @@ grzywien nałożonych w drodze mandatu karnego na podstawie przepisów ustawy z 
 7)
 niepodatkowych należności budżetowych, z wyłączeniem należności budżetowych z tytułu:
 a)
-opłat za wydanie zezwolenia na przejazd pojazdów nienormatywnych, o których mowa w art. 64c ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.),
+opłat za wydanie zezwolenia na przejazd pojazdów nienormatywnych, o których mowa w art. 64c ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501, 1556, 1579, 1818, 2020 i 2202.),
 b)
 kary pieniężnej za przejazd po drogach publicznych pojazdów nienormatywnych bez zezwolenia lub niezgodnie z warunkami określonymi dla zezwolenia, o której mowa w art. 140aa ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym,
 c)
@@ -74,9 +72,7 @@ kaucji, o której mowa w art. 15 ust. 4 i art. 31 ust. 1 ustawy z dnia 9 marca 2
 m)
 kary pieniężnej, o której mowa w art. 21 ust. 1 i 2, art. 22 ust. 1 i 2 i art. 24 ust. 1 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi,
 n)
-kary pieniężnej, o której mowa w art. 138u ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2019 r. poz. 864, z późn. zm.).
-” .
+kary pieniężnej, o której mowa w art. 138u ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2019 r. poz. 864, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1123, 1495, 1501, 1520, 1556, 2116 i 2523.). ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501, 1556, 1579, 1818, 2020 i 2202. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1123, 1495, 1501, 1520, 1556, 2116 i 2523.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501, 1556, 1579, 1818, 2020 i 2202. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1123, 1495, 1501, 1520, 1556, 2116 i 2523.
 

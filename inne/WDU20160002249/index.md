@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-16 |
 | Data wydania | 2016-12-30 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002249) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2249/text.pdf) |
 
@@ -38,8 +37,16 @@ source: "eli-html"
 
 6. Niewyrażenie stanowiska w terminie 30 dni, a w przypadku przeprowadzenia postępowania wyjaśniającego – 60 dni, od dnia otrzymania projektu zezwolenia, o którym mowa w ust. 3, przez organ, do którego zwrócono się o zajęcie stanowiska, uznaje się za uzgodnienie zezwolenia. ” ;
 
-- **2)** w art. 83f: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) krzewu albo krzewów rosnących w skupisku, o powierzchni do 25 m2; ” , – pkt 3 otrzymuje brzmienie: „ 3) drzew, których obwód pnia na wysokości 130 cm nie przekracza: a) 100 cm – w przypadku topoli, wierzb, kasztanowca zwyczajnego, klonu jesionolistnego, klonu srebrzystego, robinii akacjowej oraz platanu klonolistnego, b) 50 cm – w przypadku pozostałych gatunków drzew; ” , – po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „ 3a) drzew lub krzewów, które rosną na nieruchomościach stanowiących własność osób fizycznych i są usuwane na cele niezwiązane z prowadzeniem działalności gospodarczej; 3b) drzew lub krzewów usuwanych w celu przywrócenia gruntów nieużytkowanych do użytkowania rolniczego; ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+- **2)** w art. 83f: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** krzewu albo krzewów rosnących w skupisku, o powierzchni do 25 m2; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** drzew, których obwód pnia na wysokości 130 cm nie przekracza: 100 cm – w przypadku topoli, wierzb, kasztanowca zwyczajnego, klonu jesionolistnego, klonu srebrzystego, robinii akacjowej oraz platanu klonolistnego, 50 cm – w przypadku pozostałych gatunków drzew; ” , po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **3a)** drzew lub krzewów, które rosną na nieruchomościach stanowiących własność osób fizycznych i są usuwane na cele niezwiązane z prowadzeniem działalności gospodarczej;
+- **3b)** drzew lub krzewów usuwanych w celu przywrócenia gruntów nieużytkowanych do użytkowania rolniczego; ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
     - **b)**
 
 1a. Rada gminy, w drodze uchwały stanowiącej akt prawa miejscowego, może określić, że przepisów art. 83 ust. 1 nie stosuje się także do innych drzew lub krzewów wskazanych w oparciu o następujące kryteria:
@@ -85,8 +92,14 @@ source: "eli-html"
 
 8. Stawki, o których mowa w ust. 5 i 6, podlegają z dniem 1 stycznia każdego roku waloryzacji o prognozowany średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem, przyjęty w ustawie budżetowej. ” ;
 
-- **4)** w art. 86: w ust. 1: – uchyla się pkt 2, – pkt 7 i 8 otrzymują brzmienie: „ 7) drzew, których obwód pnia mierzony na wysokości 130 cm nie przekracza: a) 120 cm – w przypadku topoli, wierzb, kasztanowca zwyczajnego, klonu jesionolistnego, klonu srebrzystego, robinii akacjowej oraz platanu klonolistnego, b) 80 cm – w przypadku pozostałych gatunków drzew – w celu przywrócenia gruntów nieużytkowanych do użytkowania innego niż rolnicze, zgodnego z przeznaczeniem terenu, określonym w miejscowym planie zagospodarowania przestrzennego lub decyzji o warunkach zabudowy i zagospodarowania terenu; 8) krzewu lub krzewów rosnących w skupiskach, pokrywających grunt o powierzchni do 50 m2, w celu przywrócenia gruntów nieużytkowanych do użytkowania innego niż rolnicze, zgodnego z przeznaczeniem terenu, określonym w miejscowym planie zagospodarowania przestrzennego lub decyzji o warunkach zabudowy i zagospodarowania terenu; ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **4)** w art. 86: w ust. 1: – uchyla się pkt 2, pkt 7 i 8 otrzymują brzmienie: „
     - **a)**
+
+- **7)** drzew, których obwód pnia mierzony na wysokości 130 cm nie przekracza: 120 cm – w przypadku topoli, wierzb, kasztanowca zwyczajnego, klonu jesionolistnego, klonu srebrzystego, robinii akacjowej oraz platanu klonolistnego, 80 cm – w przypadku pozostałych gatunków drzew – w celu przywrócenia gruntów nieużytkowanych do użytkowania innego niż rolnicze, zgodnego z przeznaczeniem terenu, określonym w miejscowym planie zagospodarowania przestrzennego lub decyzji o warunkach zabudowy i zagospodarowania terenu;
+    - **a)**
+    - **b)**
+
+- **8)** krzewu lub krzewów rosnących w skupiskach, pokrywających grunt o powierzchni do 50 m2, w celu przywrócenia gruntów nieużytkowanych do użytkowania innego niż rolnicze, zgodnego z przeznaczeniem terenu, określonym w miejscowym planie zagospodarowania przestrzennego lub decyzji o warunkach zabudowy i zagospodarowania terenu; ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Rada gminy, w drodze uchwały stanowiącej akt prawa miejscowego, może określić, że opłat za usunięcie drzewa lub krzewu nie nalicza się także w przypadku innych drzew lub krzewów, wskazanych w oparciu o kryteria, o których mowa w art. 83f ust. 1a. ” ;
@@ -95,7 +108,7 @@ source: "eli-html"
 
 1. Administracyjną karę pieniężną, o której mowa w art. 88 ust. 1 pkt 1–3, ustala się w wysokości dwukrotnej opłaty za usunięcie drzewa lub krzewu, o której mowa w art. 84 ust. 1, a w przypadku, w którym usunięcie drzewa lub krzewu jest zwolnione z obowiązku uiszczenia opłaty, administracyjną karę pieniężną ustala się w wysokości takiej opłaty, która byłaby ponoszona gdyby takiego zwolnienia nie było. ” .
 
-**Art. 2.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2015 r. poz. 2100, z późn. zm.) po art. 14a dodaje się art. 14b w brzmieniu: „
+**Art. 2.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2015 r. poz. 2100, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 422, 586, 903, 1020, 1948 i 2138.) po art. 14a dodaje się art. 14b w brzmieniu: „
 
 **Art. 14b.**
 
@@ -116,5 +129,5 @@ source: "eli-html"
 
 2. Do postępowań w sprawach, o których mowa w art. 88 i art. 89 ustawy zmienianej w art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy nowe, chyba że kara pieniężna wymierzona na podstawie przepisów ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, byłaby względniejsza.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 422, 586, 903, 1020, 1948 i 2138.
 

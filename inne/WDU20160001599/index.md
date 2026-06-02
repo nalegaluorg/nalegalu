@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-28 |
 | Data wydania | 2016-09-30 |
-| Wejście w życie | 2016-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001599) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1599/text.pdf) |
 
@@ -206,5 +205,5 @@ W wykazie, o którym mowa w ust. 2 pkt 7, umieszcza się protokół zdawczo-odbi
 4.
 W przypadku braku możliwości zagospodarowania mienia, o którym mowa w ust. 1, Agencji przysługuje prawo rozwiązania za porozumieniem stron umowy użyczenia, o której mowa w ust. 1, lub przy braku porozumienia – wypowiedzenia tej umowy z zachowaniem trzymiesięcznego okresu wypowiedzenia.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 1 czerwca 2004 r. w sprawie szczegółowego trybu przekazywania mienia Skarbu Państwa Agencji Mienia Wojskowego (Dz. U. poz. 1482) oraz rozporządzeniem Ministra Obrony Narodowej z dnia 3 lutego 2005 r. w sprawie trybu przekazywania mienia Wojskowej Agencji Mieszkaniowej (Dz. U. poz. 223 oraz z 2010 r. poz. 569), które na podstawie art. 136 ust. 1 i 3 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2016 r. poz. 614 i 1202) tracą moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 1 czerwca 2004 r. w sprawie szczegółowego trybu przekazywania mienia Skarbu Państwa Agencji Mienia Wojskowego (Dz. U. poz. 1482) oraz rozporządzeniem Ministra Obrony Narodowej z dnia 3 lutego 2005 r. w sprawie trybu przekazywania mienia Wojskowej Agencji Mieszkaniowej (Dz. U. poz. 223 oraz z 2010 r. poz. 569), które na podstawie art. 136 ust. 1 i 3 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2016 r. poz. 614 i 1202) tracą moc z dniem wejścia w życie niniejszego rozporządzenia.
 

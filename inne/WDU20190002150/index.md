@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 4 października 2019 r. w sprawie szczegółowego zakresu opracowywania planów gospodarowania wodami na obszarach dorzeczy
+# Rozporządzenie Rady Ministrówz dnia 4 października 2019 r. w sprawie szczegółowego zakresu opracowywania planów gospodarowania wodami na obszarach dorzeczy Niniejsze rozporządzenie w zakresie swojej regulacji wdraża: 1) dyrektywę 2000/60/WE Parlamentu Europejskiego i Rady z dnia 23 października 2000 r. ustanawiającą ramy wspólnotowego działania w dziedzinie polityki wodnej (Dz. Urz. WE L 327 z 22.12.2000, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 5, str. 275, Dz. Urz. WE L 331 z 15.12.2001, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 358, Dz. Urz. UE L 81 z 20.03.2008, str. 60, Dz. Urz. UE L 348 z 24.12.2008, str. 84, z późn. zm., Dz. Urz. UE L 140 z 05.06.2009, str. 114, z późn. zm., Dz. Urz. UE L 226 z 24.08.2013, str. 1, Dz. Urz. UE L 353 z 28.12.2013, str. 8 i Dz. Urz. UE L 311 z 31.10.2014, str. 32); 2) dyrektywę 2006/118/WE Parlamentu Europejskiego i Rady z dnia 12 grudnia 2006 r. w sprawie ochrony wód podziemnych przed zanieczyszczeniem i pogorszeniem ich stanu (Dz. Urz. UE L 372 z 27.12.2006, str. 19 i Dz. Urz. UE L 182 z 21.06.2014, str. 52); 3) dyrektywę Parlamentu Europejskiego i Rady 2008/105/WE z dnia 16 grudnia 2008 r. w sprawie środowiskowych norm jakości w dziedzinie polityki wodnej, zmieniającą i w następstwie uchylającą dyrektywy Rady 82/176/EWG, 83/513/EWG, 84/156/EWG, 84/491/EWG i 86/280/EWG oraz zmieniającą dyrektywę 2000/60/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 348 z 24.12.2008, str. 84 i Dz. Urz. UE L 226 z 24.08.2013, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-04 |
 | Data wydania | 2019-11-07 |
-| Wejście w życie | 2019-11-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002150) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2150/text.pdf) |
 
@@ -77,8 +76,7 @@ wyniki państwowego monitoringu środowiska wraz z przedstawieniem ich na mapie 
 a)
 stanu ekologicznego, potencjału ekologicznego i stanu chemicznego jednolitych części wód powierzchniowych oraz wypełnienia dodatkowych wymagań ustanowionych dla spełnienia celów środowiskowych dla obszarów chronionych, uwzględnionych w wykazach obszarów chronionych, o których mowa w art. 317 ust. 4 ustawy,
 b)
-stanu chemicznego i ilościowego jednolitych części wód podziemnych
-wraz z podaniem elementów, grup wskaźników lub poszczególnych wskaźników oceny stanu wód, które spowodowały nieosiągnięcie dobrego stanu wód;
+stanu chemicznego i ilościowego jednolitych części wód podziemnych – wraz z podaniem elementów, grup wskaźników lub poszczególnych wskaźników oceny stanu wód, które spowodowały nieosiągnięcie dobrego stanu wód;
 4)
 dane o wartościach progowych elementów fizykochemicznych i ich zmianach dla oceny stanu chemicznego jednolitych części wód podziemnych, ustalonych zgodnie z przepisami wydanymi na podstawie art. 53 ust. 1 ustawy;
 5)
@@ -122,8 +120,7 @@ magazynowanie wód,
 c)
 wprowadzanie ścieków do wód,
 d)
-regulację wód
-w tym informacje o pozwoleniach wodnoprawnych zawarte w systemie informacyjnym gospodarowania wodami;
+regulację wód – w tym informacje o pozwoleniach wodnoprawnych zawarte w systemie informacyjnym gospodarowania wodami;
 17)
 informacje o przypadkach, w których udzielono zezwolenia na wprowadzanie zanieczyszczeń bezpośrednio do wód podziemnych, rozumiane jako wprowadzanie w inny sposób niż przez przesiąkanie przez glebę i podglebie;
 18)
@@ -194,8 +191,7 @@ Przy ustalaniu celów środowiskowych, o których mowa w art. 56, art. 57, art. 
 1)
 zmian właściwości fizycznych jednolitych części wód powierzchniowych oraz
 2)
-działań człowieka, zgodnych z zasadą zrównoważonego rozwoju i niezbędnych dla rozwoju społeczeństwa
-o których mowa w art. 66 i art. 67 ustawy, ustalonych w ramach oceny oddziaływania przedsięwzięcia na środowisko, zgodnie z art. 81 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2018 r. poz. 2081, z późn. zm.), lub ustalonych przez organy właściwe w sprawach ocen wodnoprawnych w postępowaniu o wydanie oceny wodnoprawnej.
+działań człowieka, zgodnych z zasadą zrównoważonego rozwoju i niezbędnych dla rozwoju społeczeństwa – o których mowa w art. 66 i art. 67 ustawy, ustalonych w ramach oceny oddziaływania przedsięwzięcia na środowisko, zgodnie z art. 81 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2018 r. poz. 2081, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 630, 1501, 1589, 1712, 1815 i 1924.), lub ustalonych przez organy właściwe w sprawach ocen wodnoprawnych w postępowaniu o wydanie oceny wodnoprawnej.
 § 5.
 1.
 Zakres analiz ekonomicznych, o których mowa w art. 324 ust. 6 ustawy, związanych z korzystaniem z wód obejmuje:
@@ -212,11 +208,12 @@ ocenę inwestycji związanych z gospodarką wodną, obejmującą prognozowanie t
 § 6.
 Weryfikacji pozyskiwanych informacji i sporządzanych dokumentów dokonuje się nie rzadziej niż co 6 lat.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 29 marca 2013 r. w sprawie szczegółowego zakresu opracowywania planów gospodarowania wodami na obszarach dorzeczy (Dz. U. poz. 578 oraz z 2016 r. poz. 1973), które zgodnie z art. 566 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r. poz. 125, 534 i 1495) utraciło moc z dniem 1 lipca 2019 r. 1) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża: 1) dyrektywę 2000/60/WE Parlamentu Europejskiego i Rady z dnia 23 października 2000 r. ustanawiającą ramy wspólnotowego działania w dziedzinie polityki wodnej (Dz. Urz. WE L 327 z 22.12.2000, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 5, str. 275, Dz. Urz. WE L 331 z 15.12.2001, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 358, Dz. Urz. UE L 81 z 20.03.2008, str. 60, Dz. Urz. UE L 348 z 24.12.2008, str. 84, z późn. zm., Dz. Urz. UE L 140 z 05.06.2009, str. 114, z późn. zm., Dz. Urz. UE L 226 z 24.08.2013, str. 1, Dz. Urz. UE L 353 z 28.12.2013, str. 8 i Dz. Urz. UE L 311 z 31.10.2014, str. 32); 2) dyrektywę 2006/118/WE Parlamentu Europejskiego i Rady z dnia 12 grudnia 2006 r. w sprawie ochrony wód podziemnych przed zanieczyszczeniem i pogorszeniem ich stanu (Dz. Urz. UE L 372 z 27.12.2006, str. 19 i Dz. Urz. UE L 182 z 21.06.2014, str. 52); 3) dyrektywę Parlamentu Europejskiego i Rady 2008/105/WE z dnia 16 grudnia 2008 r. w sprawie środowiskowych norm jakości w dziedzinie polityki wodnej, zmieniającą i w następstwie uchylającą dyrektywy Rady 82/176/EWG, 83/513/EWG, 84/156/EWG, 84/491/EWG i 86/280/EWG oraz zmieniającą dyrektywę 2000/60/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 348 z 24.12.2008, str. 84 i Dz. Urz. UE L 226 z 24.08.2013, str. 1). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 630, 1501, 1589, 1712, 1815 i 1924. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 29 marca 2013 r. w sprawie szczegółowego zakresu opracowywania planów gospodarowania wodami na obszarach dorzeczy (Dz. U. poz. 578 oraz z 2016 r. poz. 1973), które zgodnie z art. 566 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r. poz. 125, 534 i 1495) utraciło moc z dniem 1 lipca 2019 r.
 
 ## Załącznik nr 1 — – Metody wykorzystywane przy opracowywaniu ogólnej charakterystyki obszaru dorzecza
 
-Część A. CHARAKTERYSTYKA TYPÓW JEDNOLITYCH CZĘŚCI WÓD POWIERZCHNIOWYCH
+Część A.
+CHARAKTERYSTYKA TYPÓW JEDNOLITYCH CZĘŚCI WÓD POWIERZCHNIOWYCH
 Położenie i granice oraz wstępna charakterystyka wszystkich jednolitych części wód powierzchniowych jest wykonywana według następującej metody:
 1.
 W granicach obszaru dorzecza jednolitą część wód powierzchniowych zalicza się do jednej z następujących kategorii wód powierzchniowych: rzeki, jeziora, wody przejściowe lub wody przybrzeżne. W ramach każdej z kategorii można wyróżnić naturalne, sztuczne lub silnie zmienione części wód.
@@ -228,16 +225,122 @@ Przy zastosowaniu systemu A jednolite części wód powierzchniowych w granicach
 Przy zastosowaniu systemu B należy uzyskać co najmniej taki sam stopień zróżnicowania, jaki zostałby osiągnięty przy użyciu systemu A. Zgodnie z tym jednolite części wód powierzchniowych w granicach obszaru dorzecza są różnicowane na typy przy użyciu wartości dla takich parametrów, które są wymagane do zapewnienia wiarygodnego określenia specyficznych biologicznych warunków referencyjnych dla danego typu jednolitych części wód powierzchniowych, ustalonych zgodnie z częścią C załącznika.
 5.
 W przypadku sztucznych i silnie zmienionych jednolitych części wód powierzchniowych dokonuje się różnicowania zgodnie z parametrami stosowanymi do takiej kategorii wód powierzchniowych, która przypomina najbardziej daną sztuczną lub silnie zmienioną jednolitą część wód powierzchniowych.
-Część B. EKOREGIONY I TYPY JEDNOLITYCH CZĘŚCI WÓD POWIERZCHNIOWYCH
+Część B.
+EKOREGIONY I TYPY JEDNOLITYCH CZĘŚCI WÓD POWIERZCHNIOWYCH
 1.
-Rzeki SYSTEM A USTALONA TYPOLOGIA PARAMETRY Ekoregion Równiny Centralne, Równiny Wschodnie, Wyżyny Centralne, Karpaty Typ Typologia wysokościowa (m n.p.m.)górski: > 800 mwyżynny: od 200 do 800 mnizinny: < 200 m Typologia wielkościowa oparta na obszarze zlewnimały: od 10 do 100 km2średni: od > 100 do 1000 km2duży: od >1000 do 10 000 km2bardzo duży: >10 000 km2 Geologiawapiennykrzemionkowyorganiczny SYSTEM B CHARAKTERYSTYKA ALTERNATYWNA CZYNNIKI FIZYCZNE I CHEMICZNE, KTÓRE OKREŚLAJĄ CHARAKTERYSTYKĘ RZEKI LUB DCINKA RZEKI ORAZ W KONSEKWENCJI STRUKTURĘ POPULACJI BIOLOGICZNEJ I JEJ SKŁAD Czynniki obowiązkowe wysokość n.p.m.szerokość geograficznadługość geograficznageologiawielkość Czynniki fakultatywne odległość od źródeł rzekienergia przepływu (funkcja przepływu i spadku)średnia szerokość wodyśrednia głębokość wodyśredni spadek korytaforma i kształt koryta głównego rzekikategoria przepływukształt dolinytransport materiału stałegozdolność neutralizacji kwasówśredni skład podłożachlorkizakres temperatur powietrzaśrednia temperatura powietrzaopady
+Rzeki SYSTEM A
+USTALONA TYPOLOGIA PARAMETRY Ekoregion Równiny Centralne, Równiny Wschodnie, Wyżyny Centralne, Karpaty Typ Typologia wysokościowa (m n.p.m.)
+górski: > 800 m
+wyżynny: od 200 do 800 m
+nizinny: < 200 m Typologia wielkościowa oparta na obszarze zlewni
+mały: od 10 do 100 km2
+średni: od > 100 do 1000 km2
+duży: od >1000 do 10 000 km2
+bardzo duży: >10 000 km2 Geologia
+wapienny
+krzemionkowy
+organiczny
+SYSTEM B
+CHARAKTERYSTYKA ALTERNATYWNA CZYNNIKI FIZYCZNE I CHEMICZNE, KTÓRE OKREŚLAJĄ CHARAKTERYSTYKĘ RZEKI LUB DCINKA RZEKI ORAZ W KONSEKWENCJI STRUKTURĘ POPULACJI BIOLOGICZNEJ I JEJ SKŁAD Czynniki obowiązkowe wysokość n.p.m.
+szerokość geograficzna
+długość geograficzna
+geologia
+wielkość Czynniki fakultatywne odległość od źródeł rzeki
+energia przepływu (funkcja przepływu i spadku)
+średnia szerokość wody
+średnia głębokość wody
+średni spadek koryta
+forma i kształt koryta głównego rzeki
+kategoria przepływu
+kształt doliny
+transport materiału stałego
+zdolność neutralizacji kwasów
+średni skład podłoża
+chlorki
+zakres temperatur powietrza
+średnia temperatura powietrza
+opady
 2.
-Jeziora SYSTEM A USTALONA TYPOLOGIA PARAMETRY Ekoregion Równiny Centralne, Równiny Wschodnie, Wyżyny Centralne, Karpaty Typ Typologia wysokościowa (m n.p.m.)górski: > 800 mwyżynny: od 200 do 800 mnizinny: < 200 m Typologia głębokościowa oparta na średniej głębokości<3mod 3 do 15 m>15m Typologia wielkościowa oparta na wielkości powierzchniod 0,5 do 1 km2od > 1 do 10 km2od > 10 do 100 km2>100 km2 Geologiawapiennykrzemionkowyorganiczny SYSTEM B CHARAKTERYSTYKA ALTERNATYWNA CZYNNIKI FIZYCZNE I CHEMICZNE, KTÓRE OKREŚLAJĄ CHARAKTERYSTYKĘ JEZIORA ORAZ W KONSEKWENCJI STRUKTURĘ POPULACJI BIOLOGICZNEJ I JEJ SKŁAD Czynniki obowiązkowe wysokość n.p.m.szerokość geograficznadługość geograficznagłębokośćgeologiawielkość Czynniki fakultatywne średnia głębokość wodykształt jezioraczas retencjiśrednia temperatura powietrzazakres temperatur powietrzacharakterystyka typów mieszania wód (np. monomiktyczne, dimiktyczne, polimiktyczne)zdolność neutralizacji kwasówpoziom tła substancji biogennychśredni skład podłożazmiany poziomu wody
+Jeziora SYSTEM A
+USTALONA TYPOLOGIA PARAMETRY Ekoregion Równiny Centralne, Równiny Wschodnie, Wyżyny Centralne, Karpaty Typ Typologia wysokościowa (m n.p.m.)
+górski: > 800 m
+wyżynny: od 200 do 800 m
+nizinny: < 200 m Typologia głębokościowa oparta na średniej głębokości
+<3m
+od 3 do 15 m
+>15m Typologia wielkościowa oparta na wielkości powierzchni
+od 0,5 do 1 km2
+od > 1 do 10 km2
+od > 10 do 100 km2
+>100 km2 Geologia
+wapienny
+krzemionkowy
+organiczny
+SYSTEM B
+CHARAKTERYSTYKA ALTERNATYWNA CZYNNIKI FIZYCZNE I CHEMICZNE, KTÓRE OKREŚLAJĄ CHARAKTERYSTYKĘ JEZIORA ORAZ W KONSEKWENCJI STRUKTURĘ POPULACJI BIOLOGICZNEJ I JEJ SKŁAD Czynniki obowiązkowe wysokość n.p.m.
+szerokość geograficzna
+długość geograficzna
+głębokość
+geologia
+wielkość Czynniki fakultatywne średnia głębokość wody
+kształt jeziora
+czas retencji
+średnia temperatura powietrza
+zakres temperatur powietrza
+charakterystyka typów mieszania wód (np. monomiktyczne, dimiktyczne, polimiktyczne)
+zdolność neutralizacji kwasów
+poziom tła substancji biogennych
+średni skład podłoża
+zmiany poziomu wody
 3.
-Wody przejściowe SYSTEM A USTALONA TYPOLOGIA PARAMETRY Ekoregion Morze Bałtyckie Typ W oparciu o średnie roczne zasolenie< 0,5‰: słodkieod 0,5 do < 5‰: oligohalinoweod 5 do < 18‰: mezohalinoweod 18 do < 30‰: polihalinoweod 30 do < 40‰: euhalinowe W oparciu o średni zakres pływów< 2 m: mikropływoweod 2 do 4 m: mezopływowe> 4 m: makropływowe SYSTEM B CHARAKTERYSTYKA ALTERNATYWNA CZYNNIKI FIZYCZNE I CHEMICZNE, KTÓRE OKREŚLAJĄ CHARAKTERYSTYKĘ WÓD PRZEJŚCIOWYCH ORAZ W KONSEKWENCJI STRUKTURĘ POPULACJI BIOLOGICZNEJ I JEJ SKŁAD Czynniki obowiązkowe szerokość geograficznadługość geograficznazakres pływówzasolenie Czynniki fakultatywne głębokośćprędkość prądówekspozycja na faleczas retencjiśrednia temperatura wodycharakterystyka typów mieszania wódmętnośćśredni skład podłoża kształtzakres temperatury wody
+Wody przejściowe SYSTEM A
+USTALONA TYPOLOGIA PARAMETRY Ekoregion Morze Bałtyckie Typ W oparciu o średnie roczne zasolenie
+< 0,5‰: słodkie
+od 0,5 do < 5‰: oligohalinowe
+od 5 do < 18‰: mezohalinowe
+od 18 do < 30‰: polihalinowe
+od 30 do < 40‰: euhalinowe W oparciu o średni zakres pływów
+< 2 m: mikropływowe
+od 2 do 4 m: mezopływowe
+> 4 m: makropływowe
+SYSTEM B
+CHARAKTERYSTYKA ALTERNATYWNA CZYNNIKI FIZYCZNE I CHEMICZNE, KTÓRE OKREŚLAJĄ CHARAKTERYSTYKĘ WÓD PRZEJŚCIOWYCH ORAZ W KONSEKWENCJI STRUKTURĘ POPULACJI BIOLOGICZNEJ I JEJ SKŁAD Czynniki obowiązkowe szerokość geograficzna
+długość geograficzna
+zakres pływów
+zasolenie Czynniki fakultatywne głębokość
+prędkość prądów
+ekspozycja na fale
+czas retencji
+średnia temperatura wody
+charakterystyka typów mieszania wód
+mętność
+średni skład podłoża kształt
+zakres temperatury wody
 4.
-Wody przybrzeżne SYSTEM A USTALONA TYPOLOGIA PARAMETRY Ekoregion Morze Bałtyckie Typ W oparciu o średnie roczne zasolenie< 0,5‰: słodkieod 0,5 do < 5‰: oligohalinoweod 5 do < 18‰: mezohalinoweod 18 do < 30‰: polihalinoweod 30 do < 40‰: euhalinowe W oparciu o średnią głębokośćwody płytkie: < 30 mśredniogłebokie: (30–200 m)głębokie: > 200 m SYSTEM B CHARAKTERYSTYKA ALTERNATYWNA CZYNNIKI FIZYCZNE I CHEMICZNE, KTÓRE OKREŚLAJĄ CHARAKTERYSTYKĘ WÓD PRZYBRZEŻNYCH ORAZ W KONSEKWENCJI STRUKTURĘ POPULACJI BIOLOGICZNEJ I JEJ SKŁAD Czynniki obowiązkowe szerokość geograficznadługość geograficznazakres pływówzasolenie Czynniki fakultatywne prędkość prądówekspozycja na faleśrednia temperatura wodycharakterystyka typów mieszania wódmętnośćczas retencji (zamkniętych zatok)średni skład podłożazakres temperatury wody
-Część C. USTALENIE WARUNKÓW REFERENCYJNYCH SPECYFICZNYCH DLA DANEGO TYPU JEDNOLITYCH CZĘŚCI WÓD POWIERZCHNIOWYCH
+Wody przybrzeżne SYSTEM A
+USTALONA TYPOLOGIA PARAMETRY Ekoregion Morze Bałtyckie Typ W oparciu o średnie roczne zasolenie
+< 0,5‰: słodkie
+od 0,5 do < 5‰: oligohalinowe
+od 5 do < 18‰: mezohalinowe
+od 18 do < 30‰: polihalinowe
+od 30 do < 40‰: euhalinowe W oparciu o średnią głębokość
+wody płytkie: < 30 m
+średniogłebokie: (30–200 m)
+głębokie: > 200 m
+SYSTEM B
+CHARAKTERYSTYKA ALTERNATYWNA CZYNNIKI FIZYCZNE I CHEMICZNE, KTÓRE OKREŚLAJĄ CHARAKTERYSTYKĘ WÓD PRZYBRZEŻNYCH ORAZ W KONSEKWENCJI STRUKTURĘ POPULACJI BIOLOGICZNEJ I JEJ SKŁAD Czynniki obowiązkowe szerokość geograficzna
+długość geograficzna
+zakres pływów
+zasolenie Czynniki fakultatywne prędkość prądów
+ekspozycja na fale
+średnia temperatura wody
+charakterystyka typów mieszania wód
+mętność
+czas retencji (zamkniętych zatok)
+średni skład podłoża
+zakres temperatury wody
+Część C.
+USTALENIE WARUNKÓW REFERENCYJNYCH SPECYFICZNYCH DLA DANEGO TYPU JEDNOLITYCH CZĘŚCI WÓD POWIERZCHNIOWYCH
 1.
 Dla każdego typu jednolitych części wód powierzchniowych, określonego zgodnie z częścią A załącznika, ustala się hydromorfologiczne i fizykochemiczne warunki charakterystyczne, reprezentujące wartości elementów hydromorfologicznych i fizykochemicznych dla danego typu jednolitych części wód powierzchniowych przy bardzo dobrym stanie ekologicznym, jaki określono w przepisach wydanych na podstawie art. 53 ust. 4 ustawy. Ustala się biologiczne warunki referencyjne charakterystyczne dla danego typu jednolitych części wód powierzchniowych, reprezentujące wartości elementów biologicznych dla danego typu jednolitych części wód powierzchniowych przy bardzo dobrym stanie ekologicznym, jaki określono w przepisach wydanych na podstawie art. 53 ust. 4 ustawy.
 2.
@@ -250,7 +353,8 @@ Dla opartych na bazie przestrzennej biologicznych warunków referencyjnych chara
 Biologiczne warunki referencyjne charakterystyczne dla danego typu jednolitych części wód powierzchniowych oparte na modelowaniu mogą być uzyskane zarówno przez zastosowanie metod prognostycznych, jak również metod opartych na badaniu przeszłości. W metodach tych są wykorzystywane dane historyczne, paleologiczne i inne dostępne dane, które powinny zapewniać dostateczny poziom ufności dla poziomów wartości w ramach warunków referencyjnych w celu zapewnienia, że otrzymane w ten sposób warunki są wiarygodne i równoważne wynikom badań dla każdego typu jednolitych części wód powierzchniowych.
 6.
 Jeżeli nie jest możliwe ustalenie wiarygodnych warunków referencyjnych dla danego typu jednolitych części wód powierzchniowych, w odniesieniu do danego elementu z uwagi na wysoki stopień jego naturalnej zmienności, w odróżnieniu od zmienności sezonowej, element ten może zostać wyłączony z oceny stanu ekologicznego dla danego typu jednolitych części wód powierzchniowych. W takich okolicznościach powody takiego wyłączenia podaje się w planie gospodarowania wodami na obszarze dorzecza.
-Część D. CHARAKTERYSTYKA WSTĘPNA JEDNOLITYCH CZĘŚCI WÓD PODZIEMNYCH
+Część D.
+CHARAKTERYSTYKA WSTĘPNA JEDNOLITYCH CZĘŚCI WÓD PODZIEMNYCH
 Charakterystyka wstępna jest wykonywana w celu oceny wykorzystania jednolitych części wód podziemnych i oceny stopnia ryzyka niespełnienia celów środowiskowych ustalonych dla każdej jednolitej części wód podziemnych na podstawie art. 55 ust. 1 pkt 3 ustawy. Można grupować jednolite części wód podziemnych do celów charakterystyki wstępnej. Przy tworzeniu charakterystyki wstępnej można wykorzystywać w szczególności dane z zakresu hydrogeologii, geologii, gleboznawstwa, przeznaczenia gruntów, zrzutów, poboru wód. Przy tworzeniu charakterystyki wstępnej uwzględnia się:
 1)
 położenie i granice jednolitych części wód podziemnych lub grupy jednolitych części wód podziemnych;
@@ -268,7 +372,8 @@ sztuczne odnawianie zasobów;
 ogólną charakterystykę warstw, z których jest zasilana jednolita część wód podziemnych, położonych w zlewni;
 4)
 jednolite części wód podziemnych, dla których istnieją bezpośrednio od nich zależne ekosystemy wód powierzchniowych lub ekosystemy lądowe.
-Część E. DALSZA CHARAKTERYSTYKA JEDNOLITYCH CZĘŚCI WÓD PODZIEMNYCH
+Część E.
+DALSZA CHARAKTERYSTYKA JEDNOLITYCH CZĘŚCI WÓD PODZIEMNYCH
 Po wykonaniu charakterystyki wstępnej wykonuje się dalszą charakterystykę jednolitych części wód podziemnych lub grup jednolitych części wód podziemnych, które wykazano jako zagrożone, w celu bardziej precyzyjnej oceny znaczenia tych zagrożeń i określenia środków wymaganych zestawem działań, o którym mowa w art. 318 ust. 1 pkt 7 ustawy. Charakterystyka ta powinna zawierać informacje na temat wpływu działalności człowieka na jednolite części wód podziemnych oraz informacje obejmujące:
 1)
 charakterystykę geologiczną jednolitych części wód podziemnych, w tym zasięg i rodzaj jednostek geologicznych;
@@ -328,7 +433,8 @@ Każdy przypadek braku wykorzystania w planach gospodarowania wodami na obszarac
 
 ## Załącznik nr 3 — – Zakres identyfikacji znaczących oddziaływań antropogenicznych i oceny ich wpływu na stan jednolitych części wód powierzchniowych
 
-Część A. IDENTYFIKACJA ODDZIAŁYWAŃ ANTROPOGENICZNYCH
+Część A.
+IDENTYFIKACJA ODDZIAŁYWAŃ ANTROPOGENICZNYCH
 Do opracowania planów gospodarowania wodami na obszarach dorzeczy wykorzystuje się informacje o rodzajach i wielkościach znacznych oddziaływań antropogenicznych, na które narażone są jednolite części wód powierzchniowych na danym obszarze dorzecza, obejmujące:
 1)
 oszacowanie i identyfikację znaczących źródeł punktowej emisji zanieczyszczeń, w szczególności substancji wymienionych w przepisach wydanych na podstawie art. 99 ust. 1 pkt 1 i 2 ustawy, z instalacji komunalnych, przemysłowych, rolniczych i innych instalacji oraz działalności;
@@ -344,7 +450,8 @@ identyfikację znaczących morfologicznych zmian jednolitych części wód powie
 oszacowanie i identyfikację innych znaczących oddziaływań antropogenicznych na stan wód powierzchniowych;
 7)
 oszacowanie sposobu użytkowania gruntów, w tym identyfikację głównych obszarów zabudowanych, przemysłowych i rolniczych oraz, gdy jest to stosowne – rybołówstwa oraz lasów.
-Część B. OCENA WPŁYWU
+Część B.
+OCENA WPŁYWU
 1.
 Dokonuje się oceny podatności stanu jednolitych części wód powierzchniowych na oddziaływania określone w części A załącznika.
 2.
@@ -354,7 +461,8 @@ Dla jednolitych części wód powierzchniowych, dla których stwierdzono zagroż
 
 ## Załącznik nr 4 — – Zakres identyfikacji znaczących oddziaływań antropogenicznych i oceny ich wpływu na stan jednolitych części wód podziemnych
 
-Część A. PRZEGLĄD ODDZIAŁYWAŃ ANTROPOGENICZNYCH NA WODY PODZIEMNE
+Część A.
+PRZEGLĄD ODDZIAŁYWAŃ ANTROPOGENICZNYCH NA WODY PODZIEMNE
 Dla każdej jednolitej części wód podziemnych, w obrębie której przepływ wód podziemnych przekracza granicę państwa z innym państwem członkowskim Unii Europejskiej lub która została uznana, w ramach charakterystyki wstępnej wykonanej zgodnie z częścią D załącznika nr 1 do rozporządzenia, za zagrożoną niespełnieniem określonych dla niej celów środowiskowych na podstawie art. 55 ust. 1 pkt 3 ustawy, wykorzystuje się następujące informacje:
 1)
 dotyczące położenia punktów, w których z jednolitej części wód podziemnych jest pobierana woda, z wyłączeniem punktów poboru wody:
@@ -374,7 +482,8 @@ o wielkości zrzutów wody w punktach, o których mowa w pkt 4;
 o składzie chemicznym zrzutów do jednolitej części wód podziemnych oraz
 7)
 o przeznaczeniu lub zagospodarowaniu gruntów w zlewni lub zlewniach z terenu, z którego odnawiane są zasoby jednolitej części wód podziemnych, w tym dopływy zanieczyszczeń i zmiany antropogeniczne w charakterystyce odnawialności zasobów, np. wody opadowe i zróżnicowanie odpływu powierzchniowego przez szczelne pokrycie gruntu, sztuczne zasilanie, tamowanie lub drenowanie.
-Część B. PRZEGLĄD ODDZIAŁYWAŃ ZMIAN POZIOMÓW WÓD PODZIEMNYCH
+Część B.
+PRZEGLĄD ODDZIAŁYWAŃ ZMIAN POZIOMÓW WÓD PODZIEMNYCH
 Wyznacza się jednolite części wód podziemnych, dla których zostaną ustalone mniej rygorystyczne cele środowiskowe, uwzględniając wpływ stanu jednolitych części wód podziemnych na:
 1)
 wody powierzchniowe i ekosystemy lądowe bezpośrednio zależne od jednolitych części wód podziemnych;
@@ -382,6 +491,7 @@ wody powierzchniowe i ekosystemy lądowe bezpośrednio zależne od jednolitych c
 regulację wód, ochronę przeciwpowodziową i drenowanie terenu;
 3)
 rozwój społeczny.
-Część C. PRZEGLĄD ODDZIAŁYWAŃ ZANIECZYSZCZENIA NA JAKOŚĆ WÓD PODZIEMNYCH
+Część C.
+PRZEGLĄD ODDZIAŁYWAŃ ZANIECZYSZCZENIA NA JAKOŚĆ WÓD PODZIEMNYCH
 Wyznacza się jednolite części wód podziemnych, dla których na podstawie art. 63 ust. 1 ustawy zostaną określone mniej rygorystyczne cele środowiskowe, jeżeli w wyniku wpływu działalności człowieka jednolita część wód podziemnych jest tak zanieczyszczona, że osiągnięcie dobrego stanu chemicznego wód podziemnych jest niewykonalne lub rodziłoby nieproporcjonalnie wysokie koszty w stosunku do spodziewanych korzyści.
 

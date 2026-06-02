@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 8 marca 2012 r. w sprawie Morskiej Służby Asysty Telemedycznej
+# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 8 marca 2012 r. w sprawie Morskiej Służby Asysty Telemedycznej Przepisy rozporządzenia wdrażają postanowienia dyrektywy Rady 92/29/EWG z dnia 31 marca 1992 r. dotyczącej minimalnych wymagań w dziedzinie bezpieczeństwa i ochrony zdrowia w celu poprawy opieki medycznej na statkach (Dz. Urz. WE L 113 z 30.04.1992, str. 19).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-03-08 |
 | Data wydania | 2012-03-26 |
-| Wejście w życie | 2012-06-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000320) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/320/text.pdf) |
 
@@ -46,7 +45,7 @@ zdolność ustnego i pisemnego komunikowania się w języku polskim i angielskim
 3)
 wiedzę o zasadach funkcjonowania oraz wyposażeniu w leki i sprzęt medyczny Morskiej Służby Poszukiwania i Ratownictwa, zwanej dalej „Służbą SAR”;
 4)
-wiedzę o zakresie wyposażenia statków w leki i sprzęt medyczny zgodnie z rekomendacjami Międzynarodowej Organizacji Morskiej (IMO), Światowej Organizacji Zdrowia (WHO) i Unii Europejskiej oraz o zakresie wiedzy kapitanów i członków załogi statku na temat udzielania pomocy medycznej.
+wiedzę o zakresie wyposażenia statków w leki i sprzęt medyczny zgodnie z rekomendacjami Międzynarodowej Organizacji Morskiej (IMO), Światowej Organizacji Zdrowia (WHO) i Unii EuropejskiejDokumenty, o których mowa w § 2 ust. 1 pkt 4, są dostępne pod adresem: www.sar.gov.pl. oraz o zakresie wiedzy kapitanów i członków załogi statku na temat udzielania pomocy medycznej.
 2.
 Służba TMAS realizuje swoje zadania przy pomocy lekarzy dyżurnych znajdujących się na liście lekarzy Służby TMAS, zawierającej imiona, nazwiska oraz numery prawa wykonywania zawodu lekarza.
 3.
@@ -67,10 +66,9 @@ Porady udzielane przez lekarzy Służby TMAS mają wspomóc i ułatwić decyzje,
 3.
 Służba TMAS współdziała w zakresie wymiany informacji ze służbami asysty telemedycznej innych państw.
 § 4.
-Procedury łączności i przekazywania informacji pomiędzy Służbą TMAS a Służbą SAR oraz między Służbą TMAS a służbami asysty telemedycznej innych państw ustala i aktualizuje Służba SAR w porozumieniu ze Służbą TMAS, zgodnie z wytycznymi Międzynarodowej Organizacji Morskiej.
+Procedury łączności i przekazywania informacji pomiędzy Służbą TMAS a Służbą SAR oraz między Służbą TMAS a służbami asysty telemedycznej innych państw ustala i aktualizuje Służba SAR w porozumieniu ze Służbą TMAS, zgodnie z wytycznymi Międzynarodowej Organizacji Morskiej.Cyrkularz MSC.1/Circ.1218 w sprawie wymiany informacji medycznej między Morskimi Służbami Asysty Telemedycznej został podany do publicznej wiadomości w obwieszczeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 29 grudnia 2011 r. w sprawie podania do publicznej wiadomości niektórych przepisów Międzynarodowej Organizacji Morskiej (IMO) dotyczących bezpieczeństwa morskiego (Dz. Urz. MTBiGM Nr 2, poz. 9).
 § 5.
 Służba TMAS prowadzi dokumentację działalności i statystykę udzielonych porad medycznych drogą radiową.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
-2) Przepisy rozporządzenia wdrażają postanowienia dyrektywy Rady 92/29/EWG z dnia 31 marca 1992 r. dotyczącej minimalnych wymagań w dziedzinie bezpieczeństwa i ochrony zdrowia w celu poprawy opieki medycznej na statkach (Dz. Urz. WE L 113 z 30.04.1992, str. 19). 3) Dokumenty, o których mowa w § 2 ust. 1 pkt 4, są dostępne pod adresem: www.sar.gov.pl. 4) Cyrkularz MSC.1/Circ.1218 w sprawie wymiany informacji medycznej między Morskimi Służbami Asysty Telemedycznej został podany do publicznej wiadomości w obwieszczeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 29 grudnia 2011 r. w sprawie podania do publicznej wiadomości niektórych przepisów Międzynarodowej Organizacji Morskiej (IMO) dotyczących bezpieczeństwa morskiego (Dz. Urz. MTBiGM Nr 2, poz. 9).
+Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 2) Przepisy rozporządzenia wdrażają postanowienia dyrektywy Rady 92/29/EWG z dnia 31 marca 1992 r. dotyczącej minimalnych wymagań w dziedzinie bezpieczeństwa i ochrony zdrowia w celu poprawy opieki medycznej na statkach (Dz. Urz. WE L 113 z 30.04.1992, str. 19). 3) Dokumenty, o których mowa w § 2 ust. 1 pkt 4, są dostępne pod adresem: www.sar.gov.pl. 4) Cyrkularz MSC.1/Circ.1218 w sprawie wymiany informacji medycznej między Morskimi Służbami Asysty Telemedycznej został podany do publicznej wiadomości w obwieszczeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 29 grudnia 2011 r. w sprawie podania do publicznej wiadomości niektórych przepisów Międzynarodowej Organizacji Morskiej (IMO) dotyczących bezpieczeństwa morskiego (Dz. Urz. MTBiGM Nr 2, poz. 9).
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-04 |
 | Data wydania | 2014-05-08 |
-| Wejście w życie | 2014-11-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000579) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/579/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247 oraz z 2014 r. poz. 486.) wprowadza się następujące zmiany:
 
 - **1)** w art. 35 § 2 otrzymuje brzmienie: „
 
@@ -107,5 +106,5 @@ source: "eli-html"
 
 § 2a. Jeżeli przebieg rozprawy utrwala się za pomocą urządzenia rejestrującego dźwięk albo obraz i dźwięk, uzasadnienie wyroku może być z urzędu przedstawione wyłącznie w formie ustnej, bezpośrednio po ogłoszeniu wyroku. Przepisu art. 418 § 3 Kodeksu postępowania karnego nie stosuje się. Przed przedstawieniem uzasadnienia wyroku w formie ustnej należy uprzedzić o tym strony. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247 oraz z 2014 r. poz. 486.
 

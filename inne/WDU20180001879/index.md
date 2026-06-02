@@ -34,19 +34,15 @@ Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów 
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 12 rozporządzenia Ministra Finansów z dnia 30 kwietnia 2013 r. w sprawie zawierania przez fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne (Dz. U. poz. 537), który stanowi:
-„
+§ 12 rozporządzenia Ministra Finansów z dnia 30 kwietnia 2013 r. w sprawie zawierania przez fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne (Dz. U. poz. 537), który stanowi: „
 § 12.
-Do czasu dostosowania przez towarzystwo zarządzające funduszem prowadzonej działalności do przepisów wydanych na podstawie art. 48a pkt 1 ustawy w zakresie systemu zarządzania ryzykiem maksymalne zaangażowanie funduszu w instrumenty pochodne wyznacza się na podstawie przepisów dotychczasowych, nie dłużej jednak niż do dnia 31 lipca 2013 r.
-” ;
+Do czasu dostosowania przez towarzystwo zarządzające funduszem prowadzonej działalności do przepisów wydanych na podstawie art. 48a pkt 1 ustawy w zakresie systemu zarządzania ryzykiem maksymalne zaangażowanie funduszu w instrumenty pochodne wyznacza się na podstawie przepisów dotychczasowych, nie dłużej jednak niż do dnia 31 lipca 2013 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 9 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie zawierania przez fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne (Dz. U. poz. 1552), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 9 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie zawierania przez fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne (Dz. U. poz. 1552), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Finansów z dnia 30 kwietnia 2013 r. w sprawie zawierania przez fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne
-Na podstawie art. 94 ust. 7 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2018 r. poz. 1355) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Finansów z dnia 30 kwietnia 2013 r. w sprawie zawierania przez fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodneMinister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
+Niniejsze rozporządzenie, w zakresie swojej regulacji, wdraża dyrektywy: – dyrektywę Komisji 2007/16/WE z dnia 19 marca 2007 r. dotyczącą wykonania dyrektywy Rady 85/611/EWG w sprawie koordynacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) w zakresie wyjaśnienia niektórych definicji (Dz. Urz. UE L 79 z 20.03.2007, str. 11), – dyrektywę Komisji 2010/43/UE z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie wymogów organizacyjnych, konfliktów interesów, prowadzenia działalności, zarządzania ryzykiem i treści umowy pomiędzy depozytariuszem a spółką zarządzającą (Dz. Urz. UE L 176 z 10.07.2010, str. 42). Na podstawie art. 94 ust. 7 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2018 r. poz. 1355) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -65,14 +61,14 @@ warunki, jakie muszą spełniać uznane indeksy;
 warunki, jakie muszą spełniać indeksy stanowiące bazę instrumentów pochodnych, w tym niewystandaryzowanych instrumentów pochodnych.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rozwoju i Finansów z dnia 9 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie zawierania przez fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne (Dz. U. poz. 1552), które weszło w życie z dniem 2 września 2017 r.)
 ustawie – rozumie się przez to ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi;
 2)
 funduszu – rozumie się przez to fundusz inwestycyjny otwarty, a w przypadku funduszu inwestycyjnego otwartego z wydzielonymi subfunduszami – subfundusz;
 3)
 kontrahencie – rozumie się przez to podmiot będący stroną umowy z funduszem, której przedmiotem są niewystandaryzowane instrumenty pochodne;
-4)
-CCP – rozumie się przez to podmiot, o którym mowa w art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.), prowadzący działalność na podstawie zezwolenia, o którym mowa w art. 14 tego rozporządzenia, albo uznany przez Europejski Organ Nadzoru Giełd i Papierów Wartościowych na podstawie art. 25 tego rozporządzenia.
+4Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3.)
+CCP – rozumie się przez to podmiot, o którym mowa w art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 27.06.2013, str. 1, Dz. Urz. UE L 279 z 19.10.2013, str. 2, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 173 z 12.06.2014, str. 84 i 190, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz. UE L 239 z 15.09.2015, str. 63, Dz. Urz. UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 337 z 23.12.2015, str. 1, Dz. Urz. UE L 151 z 08.06.2016, str. 4, Dz. Urz. UE L 336 z 10.12.2016, str. 36, Dz. Urz. UE L 86 z 31.03.2017, str. 3, Dz. Urz. UE L 144 z 07.06.2017, str. 14 oraz Dz. Urz. UE L 148 z 10.06.2017, str. 1., prowadzący działalność na podstawie zezwolenia, o którym mowa w art. 14 tego rozporządzenia, albo uznany przez Europejski Organ Nadzoru Giełd i Papierów Wartościowych na podstawie art. 25 tego rozporządzenia.
 § 3.
 1.
 Fundusz może zawierać transakcje, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne, pod warunkiem że utrzymuje część aktywów na poziomie zapewniającym realizację tych transakcji, przy czym aktywa te obejmują:
@@ -87,7 +83,7 @@ W przypadku gdy bazę instrumentu pochodnego stanowią indeksy, fundusz może za
 § 4.
 1.
 Fundusz może zawierać umowy, których przedmiotem są niewystandaryzowane instrumenty pochodne, pod warunkiem że:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.)
 kontrahentem jest podmiot z siedzibą w Rzeczypospolitej Polskiej, państwie członkowskim lub państwie należącym do OECD, podlegający nadzorowi właściwego organu nadzoru nad rynkiem finansowym lub kapitałowym w tym państwie, lub podmiot z siedzibą w innym państwie, podlegający nadzorowi właściwego organu nadzoru nad rynkiem finansowym lub kapitałowym w tym państwie w zakresie co najmniej takim, jak określony w prawie Unii Europejskiej oraz wskazany w statucie funduszu;
 2)
 instrumenty te podlegają w każdym dniu roboczym możliwej do zweryfikowania, rzetelnej wycenie według wiarygodnie oszacowanej wartości godziwej;
@@ -117,8 +113,8 @@ Wartość ryzyka kontrahenta stanowi wartość ustalonego przez fundusz niezreal
 3.
 Na potrzeby wyznaczania wartości ryzyka kontrahenta, przy ustalaniu niezrealizowanego zysku nie uwzględnia się opłat ani świadczeń ponoszonych przez fundusz przy zawarciu transakcji, w szczególności wartości premii zapłaconej przy zakupie opcji.
 4.
-Jeżeli fundusz posiada otwarte pozycje w instrumentach pochodnych z tytułu kilku transakcji z tym samym kontrahentem, wartość ryzyka kontrahenta może być wyznaczana jako dodatnia różnica niezrealizowanych zysków i strat na wszystkich takich transakcjach, o ile:
-1)
+Jeżeli fundusz posiada otwarte pozycje w instrumentach pochodnych z tytułu kilku transakcji z tym samym kontrahentem, wartość ryzyka kontrahenta może być wyznaczana jako dodatnia różnica niezrealizowanych zysków i strat na wszystkich takich transakcjach, o ile:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 3.
+1W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 3.)
 transakcje te zostały zawarte na podstawie umowy ramowej, spełniającej kryteria określone w art. 85 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2017 r. poz. 2344 i 2491 oraz z 2018 r. poz. 398, 685, 1544 i 1629);
 2)
 umowa ramowa przewiduje, że w przypadku jej rozwiązania zostanie wypłacona wyłącznie jedna kwota stanowiąca równoważność salda wartości rynkowych wszystkich tych transakcji niezależnie od tego, czy wynikające z nich zobowiązania są już wymagalne;
@@ -127,7 +123,7 @@ niewypłacalność jednej ze stron umowy ramowej powoduje lub może powodować r
 4)
 warunki, o których mowa w pkt 1–3, nie naruszają przepisów prawa właściwego dla każdej ze stron umowy ramowej.
 § 6.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 3..
 Wartość ryzyka danego kontrahenta w odniesieniu do wszystkich transakcji, których przedmiotem są niewystandaryzowane instrumenty pochodne, zawartych z tym kontrahentem, nie może przekroczyć:
 1)
 10% wartości aktywów funduszu – w przypadku transakcji rozliczanych przez CCP;
@@ -141,11 +137,11 @@ Wartość ryzyka kontrahenta może podlegać redukcji o wielkość odpowiadając
 w związku z tą transakcją kontrahent ustanowi na rzecz funduszu zabezpieczenie w środkach pieniężnych, zbywalnych papierach wartościowych lub instrumentach rynku pieniężnego;
 2)
 suma wartości rynkowej zbywalnych papierów wartościowych, instrumentów rynku pieniężnego i wartości środków pieniężnych przyjętych przez fundusz jako zabezpieczenie będzie ustalana w każdym dniu roboczym i będzie stanowić co najmniej równowartość wartości ryzyka kontrahenta w tej transakcji;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 3.)
 środki pieniężne stanowiące zabezpieczenie będą lokowane wyłącznie w papiery wartościowe lub instrumenty rynku pieniężnego emitowane, poręczone lub gwarantowane przez Skarb Państwa, Narodowy Bank Polski, państwo członkowskie, państwo należące do OECD, bank centralny państwa członkowskiego lub Europejski Bank Centralny lub w depozyty, o których mowa w art. 93 ust. 1 pkt 3 ustawy.
 3.
 Papier wartościowy i instrument rynku pieniężnego mogą stanowić zabezpieczenie, jeżeli łącznie zostaną spełnione następujące warunki:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 4 lit. c tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3.)
 ich emitentem jest Skarb Państwa, Narodowy Bank Polski, państwo członkowskie, państwo należące do OECD, bank centralny państwa członkowskiego lub Europejski Bank Centralny;
 2)
 podaż i popyt umożliwiają ich nabywanie i zbywanie w sposób ciągły;
@@ -155,11 +151,11 @@ a)
 nie należy do grupy kapitałowej kontrahenta albo
 b)
 należy do grupy kapitałowej kontrahenta, pod warunkiem że zabezpieczenia przed skutkami niewypłacalności tego podmiotu kształtują ryzyko posiadacza tego papieru wartościowego lub instrumentu rynku pieniężnego na takim samym poziomie, jak w przypadku zapisania papieru wartościowego lub instrumentu rynku pieniężnego na rachunku prowadzonym przez podmiot, o którym mowa w lit. a;
-4)
+4W brzmieniu ustalonym przez § 1 pkt 4 lit. c tiret drugie rozporządzenia, o którym mowa w odnośniku 3.)
 ewentualne nabycie przez fundusz praw z papieru wartościowego lub instrumentu rynku pieniężnego w wyniku realizacji zabezpieczeń na dzień przyjęcia zabezpieczenia nie spowoduje naruszenia art. 96–100 oraz art. 104 ustawy.
 § 7.
 Maksymalne zaangażowanie funduszu w instrumenty pochodne wyznacza się z zastosowaniem metody przyjętej do obliczania całkowitej ekspozycji funduszu, zgodnie z przepisami wydanymi na podstawie art. 48a pkt 1 ustawy.
-§ 8.
+§ 8W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3..
 1.
 Przy stosowaniu limitów inwestycyjnych, o których mowa w art. 96–101 oraz art. 104 ustawy, fundusz jest obowiązany uwzględniać kwotę zaangażowania w instrumenty pochodne w ten sposób, że:
 1)
@@ -192,9 +188,9 @@ Indeksy stanowiące bazę instrumentów pochodnych, w tym niewystandaryzowanych 
 skład indeksu uwzględnia odpowiednio wymogi rozproszenia ryzyka inwestycyjnego, w szczególności:
 a)
 zmiany ceny lub aktywność transakcyjna w odniesieniu do jednego składnika indeksu nie wpływa w sposób istotny na wartość indeksu,
-b)
+bW brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3.)
 jeżeli w skład indeksu wchodzą składniki, o których mowa w art. 93 ust. 1 pkt 1, 2 i 4, art. 94 i art. 101 ustawy, jest on zdywersyfikowany co najmniej w stopniu określonym w art. 96–100 oraz art. 104 ustawy,
-c)
+cW brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3.)
 jeżeli w skład indeksu wchodzą składniki inne niż określone w art. 93 ust. 1 pkt 1, 2 i 4, art. 94 i art. 101 ustawy, jest on zdywersyfikowany w sposób równoważny sposobowi określonemu w art. 96–100 oraz art. 104 ustawy;
 2)
 indeks stanowi miarodajny wskaźnik charakteryzujący rynek, do którego się odnosi, w szczególności:
@@ -211,11 +207,10 @@ ustalanie wartości i składu indeksu jest prowadzone na podstawie odpowiednich 
 b)
 informacje dotyczące zasad obliczania indeksu, metodologii wprowadzania zmian w składzie indeksu, zmiany indeksu oraz trudności operacyjnych z terminowym dostarczeniem informacji albo poprawnością informacji są udostępniane niezwłocznie i w sposób wyczerpujący.
 § 12.
-(pominięty).
+(pominięty).Zamieszczony w obwieszczeniu.
 § 13.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie, w zakresie swojej regulacji, wdraża dyrektywy: – dyrektywę Komisji 2007/16/WE z dnia 19 marca 2007 r. dotyczącą wykonania dyrektywy Rady 85/611/EWG w sprawie koordynacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) w zakresie wyjaśnienia niektórych definicji (Dz. Urz. UE L 79 z 20.03.2007, str. 11), – dyrektywę Komisji 2010/43/UE z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie wymogów organizacyjnych, konfliktów interesów, prowadzenia działalności, zarządzania ryzykiem i treści umowy pomiędzy depozytariuszem a spółką zarządzającą (Dz. Urz. UE L 176 z 10.07.2010, str. 42). 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rozwoju i Finansów z dnia 9 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie zawierania przez fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne (Dz. U. poz. 1552), które weszło w życie z dniem 2 września 2017 r. 4) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 27.06.2013, str. 1, Dz. Urz. UE L 279 z 19.10.2013, str. 2, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 173 z 12.06.2014, str. 84 i 190, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz. UE L 239 z 15.09.2015, str. 63, Dz. Urz. UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 337 z 23.12.2015, str. 1, Dz. Urz. UE L 151 z 08.06.2016, str. 4, Dz. Urz. UE L 336 z 10.12.2016, str. 36, Dz. Urz. UE L 86 z 31.03.2017, str. 3, Dz. Urz. UE L 144 z 07.06.2017, str. 14 oraz Dz. Urz. UE L 148 z 10.06.2017, str. 1. 6) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 3. 8) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 3. 9) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 3. 10) W brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 3. 11) W brzmieniu ustalonym przez § 1 pkt 4 lit. c tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 12) W brzmieniu ustalonym przez § 1 pkt 4 lit. c tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 13) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3. 14) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3. 15) Zamieszczony w obwieszczeniu. 16) Rozporządzenie zostało ogłoszone w dniu 8 maja 2013 r. 17) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 20 stycznia 2009 r. w sprawie zawierania przez fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne (Dz. U. poz. 87), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 8 ustawy z dnia 23 listopada 2012 r. o zmianie ustawy o funduszach inwestycyjnych oraz ustawy o nadzorze nad rynkiem finansowym (Dz. U. z 2013 r. poz. 70).
-Załącznik – Wykaz indeksów
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 8 maja 2013 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 20 stycznia 2009 r. w sprawie zawierania przez fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne (Dz. U. poz. 87), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 8 ustawy z dnia 23 listopada 2012 r. o zmianie ustawy o funduszach inwestycyjnych oraz ustawy o nadzorze nad rynkiem finansowym (Dz. U. z 2013 r. poz. 70). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie, w zakresie swojej regulacji, wdraża dyrektywy: – dyrektywę Komisji 2007/16/WE z dnia 19 marca 2007 r. dotyczącą wykonania dyrektywy Rady 85/611/EWG w sprawie koordynacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) w zakresie wyjaśnienia niektórych definicji (Dz. Urz. UE L 79 z 20.03.2007, str. 11), – dyrektywę Komisji 2010/43/UE z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie wymogów organizacyjnych, konfliktów interesów, prowadzenia działalności, zarządzania ryzykiem i treści umowy pomiędzy depozytariuszem a spółką zarządzającą (Dz. Urz. UE L 176 z 10.07.2010, str. 42). 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rozwoju i Finansów z dnia 9 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie zawierania przez fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne (Dz. U. poz. 1552), które weszło w życie z dniem 2 września 2017 r. 4) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 27.06.2013, str. 1, Dz. Urz. UE L 279 z 19.10.2013, str. 2, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 173 z 12.06.2014, str. 84 i 190, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz. UE L 239 z 15.09.2015, str. 63, Dz. Urz. UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 337 z 23.12.2015, str. 1, Dz. Urz. UE L 151 z 08.06.2016, str. 4, Dz. Urz. UE L 336 z 10.12.2016, str. 36, Dz. Urz. UE L 86 z 31.03.2017, str. 3, Dz. Urz. UE L 144 z 07.06.2017, str. 14 oraz Dz. Urz. UE L 148 z 10.06.2017, str. 1. 6) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 3. 8) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 3. 9) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 3. 10) W brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 3. 11) W brzmieniu ustalonym przez § 1 pkt 4 lit. c tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 12) W brzmieniu ustalonym przez § 1 pkt 4 lit. c tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 13) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3. 14) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3. 15) Zamieszczony w obwieszczeniu. 16) Rozporządzenie zostało ogłoszone w dniu 8 maja 2013 r. 17) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 20 stycznia 2009 r. w sprawie zawierania przez fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne (Dz. U. poz. 87), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 8 ustawy z dnia 23 listopada 2012 r. o zmianie ustawy o funduszach inwestycyjnych oraz ustawy o nadzorze nad rynkiem finansowym (Dz. U. z 2013 r. poz. 70).
+Załącznik – Wykaz indeksówW brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3.
 1)
 All Ords – w Związku Australijskim;
 2)
@@ -271,5 +266,5 @@ WIG20 – w Rzeczypospolitej Polskiej;
 27)
 WIG20TR – w Rzeczypospolitej Polskiej;
 28)
-mWIG40 – w Rzeczypospolitej Polskiej.
+mWIG40 – w Rzeczypospolitej Polskiej. 18) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3.
 

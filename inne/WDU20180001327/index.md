@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 29 czerwca 2018 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych
+# Rozporządzenie Ministra Cyfryzacjiz dnia 29 czerwca 2018 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-29 |
 | Data wydania | 2018-07-10 |
-| Wejście w życie | 2018-07-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001327) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1327/text.pdf) |
 
@@ -33,22 +32,17 @@ W rozporządzeniu Ministra Administracji i Cyfryzacji z dnia 19 marca 2014 r. w 
 1)
 w ust. 3:
 a)
-pkt 3 i 4 otrzymują brzmienie:
-„
+pkt 3 i 4 otrzymują brzmienie: „
 3)
 minimalny przydzielony blok numerów powinien składać się z 10 000 NN o tych samych cyfrach ABSPQ;
 4)
-przydzielony zakres numeracji powinien stanowić wielokrotność 10 000 NN.
-” ,
+przydzielony zakres numeracji powinien stanowić wielokrotność 10 000 NN. ” ,
 b)
 uchyla się pkt 5;
 2)
-ust. 16 otrzymuje brzmienie:
-„
+ust. 16 otrzymuje brzmienie: „
 16.
-Cofnięcie przydziału numeracji dotyczy minimalnych bloków numerów przydzielanych zgodnie z wymaganiami dla odpowiedniego rodzaju numeracji lub ich wielokrotności.
-” .
+Cofnięcie przydziału numeracji dotyczy minimalnych bloków numerów przydzielanych zgodnie z wymaganiami dla odpowiedniego rodzaju numeracji lub ich wielokrotności. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761).
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-08-27 |
 | Data wydania | 2009-09-30 |
-| Wejście w życie | 2009-10-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091611280) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1280/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 7 października 1999 r. o języku polskim (Dz. U. Nr 90, poz. 999, z późn. zm.) w art. 8:
+**Art. 1.** W ustawie z dnia 7 października 1999 r. o języku polskim (Dz. U. Nr 90, poz. 999, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 29, poz. 358, z 2002 r. Nr 144, poz. 1204, z 2003 r. Nr 73, poz. 661, z 2004 r. Nr 92, poz. 878, z 2005 r. Nr 17, poz. 141, Nr 164, poz. 1365 i Nr 186, poz. 1567 oraz z 2008 r. Nr 157, poz. 976.) w art. 8:
 
 - **1)** ust. 1 otrzymuje brzmienie: „
 
@@ -38,5 +37,5 @@ source: "eli-html"
 
 1b. Umowa o pracę lub inny dokument wynikający z zakresu prawa pracy, a także umowa, której stroną jest konsument lub inne niż umowa dokumenty stosowane w obrocie z udziałem konsumentów, mogą być sporządzone w języku obcym na wniosek osoby świadczącej pracę lub konsumenta, władających tym językiem, niebędących obywatelami polskimi, pouczonych uprzednio o prawie do sporządzenia umowy lub innego dokumentu w języku polskim. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 29, poz. 358, z 2002 r. Nr 144, poz. 1204, z 2003 r. Nr 73, poz. 661, z 2004 r. Nr 92, poz. 878, z 2005 r. Nr 17, poz. 141, Nr 164, poz. 1365 i Nr 186, poz. 1567 oraz z 2008 r. Nr 157, poz. 976.
 

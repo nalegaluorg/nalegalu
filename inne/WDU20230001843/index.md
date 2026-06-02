@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym
+# Ustawa z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym Niniejsza ustawa: 1) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1238 z dnia 20 czerwca 2019 r. w sprawie ogólnoeuropejskiego indywidualnego produktu emerytalnego (OIPE) (Dz. Urz. UE L 198 z 25.07.2019, str. 1); 2) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniającego dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014 (Dz. Urz. UE L 171 z 29.06.2016, str. 1, Dz. Urz. UE L 137 z 24.05.2017, str. 41, Dz. Urz. UE L 317 z 09.12.2019, str. 17, Dz. Urz. UE L 334 z 27.12.2019, str. 1, Dz. Urz. UE L 49 z 12.02.2021, str. 6 oraz Dz. Urz. UE L 333 z 27.12.2022, str. 1); 3) w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE z dnia 25 listopada 2009 r. w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 335 z 17.12.2009, str. 1, Dz. Urz. UE L 326 z 08.12.2011, str. 113, Dz. Urz. UE L 249 z 14.09.2012, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 362, Dz. Urz. UE L 341 z 18.12.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1, Dz. Urz. UE L 219 z 25.07.2014, str. 66, Dz. Urz. UE L 108 z 28.04.2015, str. 8, Dz. Urz. UE L 354 z 23.12.2016, str. 37, Dz. Urz. UE L 347 z 28.12.2017, str. 35, Dz. Urz. UE L 156 z 19.06.2018, str. 43 oraz Dz. Urz. UE L 334 z 27.12.2019, str. 155).
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-07 |
 | Data wydania | 2023-09-11 |
-| Wejście w życie | 2023-09-26 |
 | Ostatnia zmiana | 2025-11-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001843) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1843/text.pdf) |
 
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, ustawę z dnia 28 lipca 1983 r. o podatku od spadków i darowizn, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym, ustawę z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego, ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej, ustawę z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, ustawę z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, ustawę z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym, ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, ustawę z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym, ustawę z dnia 8 lipca 2021 r. o zmianie ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz niektórych innych ustaw, ustawę z dnia 7 kwietnia 2022 r. o zmianie ustawy o listach zastawnych i bankach hipotecznych oraz niektórych innych ustaw oraz ustawę z dnia 14 kwietnia 2023 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawy o obligacjach, ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz niektórych innych ustaw.
+Udziały inwestorskie
 1.
 Na warunkach określonych w ustawie i jeżeli statut kasy tak stanowi, w kasie mogą być obejmowane udziały inwestorskie, z którymi nie jest związane członkostwo w kasie.
 2.
@@ -79,17 +80,13 @@ groźbę niespełnienia lub niespełnianie wymogu minimalnego poziomu funduszy w
 2)
 kwota wypowiedzianych udziałów inwestorskich jest wyższa od nadwyżki bilansowej kasy za rok, w którym posiadacz udziału inwestorskiego wystąpił o zwrot wpłat, w części przewyższającej nadwyżkę bilansową.
 5.
-O wypowiedzeniu udziałów inwestorskich i wystąpieniu o zwrot wpłat dokonanych na udziały inwestorskie kasa niezwłocznie informuje Komisję Nadzoru Finansowego.
-” ;
+O wypowiedzeniu udziałów inwestorskich i wystąpieniu o zwrot wpłat dokonanych na udziały inwestorskie kasa niezwłocznie informuje Komisję Nadzoru Finansowego. ” ;
 8)
-w art. 24 w ust. 2 pkt 1 otrzymuje brzmienie:
-„
+w art. 24 w ust. 2 pkt 1 otrzymuje brzmienie: „
 1)
-fundusz udziałowy – powstający z wpłat udziałów członkowskich oraz z wpłat udziałów inwestorskich;
-” ;
+fundusz udziałowy – powstający z wpłat udziałów członkowskich oraz z wpłat udziałów inwestorskich; ” ;
 9)
-w art. 26 dodaje się ust. 5–11 w brzmieniu:
-„
+w art. 26 dodaje się ust. 5–11 w brzmieniu: „
 5.
 Statut kasy może przewidywać, że część nadwyżki bilansowej za dany rok obrotowy może być przeznaczona do proporcjonalnego podziału między posiadaczy udziałów inwestorskich, którzy w pełni je opłacili.
 6.
@@ -117,30 +114,22 @@ W przypadku, o którym mowa w ust. 5, część nadwyżki bilansowej podlegające
 10.
 W przypadku niespełnienia warunków, o których mowa w ust. 7 albo 8, część nadwyżki bilansowej podlegającej podziałowi, o którym mowa w ust. 5, zasila fundusz zasobowy kasy.
 11.
-Środki zgromadzone na funduszu zasobowym z tytułu zasilenia, o którym mowa w ust. 10, są przeznaczane do proporcjonalnego podziału między posiadaczy udziałów inwestorskich, którzy w pełni je opłacili, w przypadku spełnienia warunków, o których mowa w ust. 7 albo 8.
-” ;
+Środki zgromadzone na funduszu zasobowym z tytułu zasilenia, o którym mowa w ust. 10, są przeznaczane do proporcjonalnego podziału między posiadaczy udziałów inwestorskich, którzy w pełni je opłacili, w przypadku spełnienia warunków, o których mowa w ust. 7 albo 8. ” ;
 10)
-art. 34 otrzymuje brzmienie:
-„
-Kasa uzależnia przyjęcie poręczenia kredytu lub pożyczki przez jej członka od jego zdolności kredytowej. Przepisy art. 70 oraz art. 74–78 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe stosuje się odpowiednio.
-” ;
+art. 34 otrzymuje brzmienie: „
+Kasa uzależnia przyjęcie poręczenia kredytu lub pożyczki przez jej członka od jego zdolności kredytowej. Przepisy art. 70 oraz art. 74–78 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe stosuje się odpowiednio. ” ;
 11)
 w art. 44:
 a)
-w ust. 2 pkt 8 otrzymuje brzmienie:
-„
+w ust. 2 pkt 8 otrzymuje brzmienie: „
 8)
-pośredniczeniu w przeprowadzaniu rozliczeń, o których mowa w art. 3 ust. 1, oraz wydawaniu instrumentów płatniczych, jeżeli kasa nie wybierze innego sposobu prowadzenia tej działalności;
-” ,
+pośredniczeniu w przeprowadzaniu rozliczeń, o których mowa w art. 3 ust. 1, oraz wydawaniu instrumentów płatniczych, jeżeli kasa nie wybierze innego sposobu prowadzenia tej działalności; ” ,
 b)
-ust. 6 otrzymuje brzmienie:
-„
+ust. 6 otrzymuje brzmienie: „
 6.
-Kasa Krajowa, w zakresie wydawanych instrumentów płatniczych, prowadzi działalność także na rzecz członków kas na podstawie umowy zawartej z kasą, o czym informuje Komisję Nadzoru Finansowego.
-” ,
+Kasa Krajowa, w zakresie wydawanych instrumentów płatniczych, prowadzi działalność także na rzecz członków kas na podstawie umowy zawartej z kasą, o czym informuje Komisję Nadzoru Finansowego. ” ,
 c)
-dodaje się ust. 9–15 w brzmieniu:
-„
+dodaje się ust. 9–15 w brzmieniu: „
 9.
 Kasa Krajowa może również świadczyć na rzecz krajowych instytucji płatniczych, krajowych instytucji pieniądza elektronicznego, małych instytucji płatniczych oraz biur usług płatniczych usługi w zakresie:
 1)
@@ -162,11 +151,9 @@ Kasa Krajowa jest obowiązana posiadać plan działania zapewniający prowadzeni
 14.
 W przypadku zagrożenia realizacji planu, o którym mowa w ust. 13, zagrożenia stabilności finansowej, trudnej sytuacji makroekonomicznej lub innych zdarzeń mających negatywny wpływ na rynek finansowy lub Kasę Krajową Kasa Krajowa może powierzyć, w drodze umowy zawartej na piśmie, bankowi krajowemu lub instytucji kredytowej wykonywanie czynności służących realizacji przez Kasę Krajową umów o wykonywanie na rzecz kas czynności, o których mowa w ust. 2 pkt 7, 8 i 10.
 15.
-Powierzenie wykonywania czynności, o których mowa w ust. 14, i innych czynności służących realizacji planu, o którym mowa w ust. 13, nie może prowadzić do naruszenia przepisów prawa ani wpływać niekorzystnie na ostrożne i stabilne zarządzanie Kasą Krajową i kasą oraz ochronę tajemnicy prawnie chronionej.
-” ;
+Powierzenie wykonywania czynności, o których mowa w ust. 14, i innych czynności służących realizacji planu, o którym mowa w ust. 13, nie może prowadzić do naruszenia przepisów prawa ani wpływać niekorzystnie na ostrożne i stabilne zarządzanie Kasą Krajową i kasą oraz ochronę tajemnicy prawnie chronionej. ” ;
 12)
-po art. 55 dodaje się art. 55a i art. 55b w brzmieniu:
-„
+po art. 55 dodaje się art. 55a i art. 55b w brzmieniu: „
 
 **Art. 1.** Ustawa określa:
 
@@ -232,7 +219,7 @@ po art. 55 dodaje się art. 55a i art. 55b w brzmieniu:
 - **1)** towarzystwem funduszy inwestycyjnych,
 - **2)** spółką zarządzającą w rozumieniu art. 2 pkt 10 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2023 r. poz. 681, 825 i 1723), prowadzącą działalność na terytorium Rzeczypospolitej Polskiej,
 - **3)** zarządzającym ASI, który uzyskał zezwolenie na wykonywanie działalności przez zarządzającego ASI, o którym mowa w art. 70a ust. 1 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi,
-- **4)** zarządzającym z UE w rozumieniu art. 2 pkt 10c ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, prowadzącym działalność na terytorium Rzeczypospolitej Polskiej umowa o prowadzenie OIPE może przewidywać lokowanie aktywów oszczędzającego w więcej niż jednym funduszu lub alternatywnej spółce inwestycyjnej zarządzanych przez to samo towarzystwo funduszy inwestycyjnych, tę samą spółkę zarządzającą, tego samego zarządzającego ASI lub tego samego zarządzającego z UE, z zastrzeżeniem że łączna suma wpłat do funduszy składających się na subkonto OIPE w roku kalendarzowym nie przekroczy limitu wpłat, o którym mowa w art. 12 ust. 1.
+- **4)** zarządzającym z UE w rozumieniu art. 2 pkt 10c ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, prowadzącym działalność na terytorium Rzeczypospolitej Polskiej – umowa o prowadzenie OIPE może przewidywać lokowanie aktywów oszczędzającego w więcej niż jednym funduszu lub alternatywnej spółce inwestycyjnej zarządzanych przez to samo towarzystwo funduszy inwestycyjnych, tę samą spółkę zarządzającą, tego samego zarządzającego ASI lub tego samego zarządzającego z UE, z zastrzeżeniem że łączna suma wpłat do funduszy składających się na subkonto OIPE w roku kalendarzowym nie przekroczy limitu wpłat, o którym mowa w art. 12 ust. 1.
 
 2. Oszczędzający może dokonać konwersji jednostek uczestnictwa funduszu na jednostki uczestnictwa innych funduszy inwestycyjnych zarządzanych przez to samo towarzystwo funduszy inwestycyjnych prowadzące OIPE.
 
@@ -260,7 +247,7 @@ po art. 55 dodaje się art. 55a i art. 55b w brzmieniu:
 
 8. W przypadku niedotrzymania przez oszczędzającego terminu, o którym mowa w ust. 7, środki zgromadzone na OIPE podlegają zwrotowi.
 
-**Art. 9.** W przypadku OIPE prowadzonego przez dostawcę, którym jest bank krajowy, oddział instytucji kredytowej lub oddział banku zagranicznego w rozumieniu odpowiednio art. 4 ust. 1 pkt 1, 18 lub 20 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm.), oszczędzający zawiera umowę o prowadzenie OIPE w formie rachunku oszczędnościowego, zgodnie z zasadami określonymi w przepisach tej ustawy.
+**Art. 9.** W przypadku OIPE prowadzonego przez dostawcę, którym jest bank krajowy, oddział instytucji kredytowej lub oddział banku zagranicznego w rozumieniu odpowiednio art. 4 ust. 1 pkt 1, 18 lub 20 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996, 1059, 1394, 1407 i 1723.), oszczędzający zawiera umowę o prowadzenie OIPE w formie rachunku oszczędnościowego, zgodnie z zasadami określonymi w przepisach tej ustawy.
 
 **Art. 10.**
 
@@ -409,7 +396,7 @@ po art. 55 dodaje się art. 55a i art. 55b w brzmieniu:
 - **1)** otwarcia likwidacji dostawcy,
 - **2)** ogłoszenia upadłości albo prawomocnego oddalenia wniosku o ogłoszenie upadłości na podstawie art. 13 ust. 1 lub 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe lub prawomocnego umorzenia postępowania upadłościowego dostawcy na podstawie art. 361 ust. 1 pkt 1 tej ustawy albo otwarcia postępowania restrukturyzacyjnego,
 - **3)** wydania przez organ nadzoru decyzji o cofnięciu zezwolenia albo wygaśnięcia zezwolenia na prowadzenie działalności przez dostawcę,
-- **4)** wydania przez organ nadzoru decyzji o zawieszeniu działalności dostawcy i ustanowieniu zarządu komisarycznego, o ile nie został on ustanowiony wcześniej, oraz wystąpienia do właściwego sądu z wnioskiem o ogłoszenie upadłości lub otwarcie postępowania restrukturyzacyjnego, a także wydania decyzji przez organ nadzoru o wyrejestrowaniu OIPE dostawca, zarząd komisaryczny lub syndyk są obowiązani w terminie 30 dni od dnia wystąpienia zdarzenia powiadomić o tym oszczędzającego.
+- **4)** wydania przez organ nadzoru decyzji o zawieszeniu działalności dostawcy i ustanowieniu zarządu komisarycznego, o ile nie został on ustanowiony wcześniej, oraz wystąpienia do właściwego sądu z wnioskiem o ogłoszenie upadłości lub otwarcie postępowania restrukturyzacyjnego, a także wydania decyzji przez organ nadzoru o wyrejestrowaniu OIPE – dostawca, zarząd komisaryczny lub syndyk są obowiązani w terminie 30 dni od dnia wystąpienia zdarzenia powiadomić o tym oszczędzającego.
 
 2. Powiadomienie, o którym mowa w ust. 1, zawiera poza informacjami, o których mowa w ust. 1, co najmniej informacje o:
 
@@ -524,7 +511,7 @@ po art. 55 dodaje się art. 55a i art. 55b w brzmieniu:
 
 - **6a)** nabycie w drodze spadku środków zgromadzonych na subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym (Dz. U. poz. 1843) oraz na subkoncie w rozumieniu art. 2 pkt 23 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1238 z dnia 20 czerwca 2019 r. w sprawie ogólnoeuropejskiego indywidualnego produktu emerytalnego (OIPE) (Dz. Urz. UE L 198 z 25.07.2019, str. 1) prowadzonym zgodnie z przepisami obowiązującymi na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej; ” .
 
-**Art. 30.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm.)wprowadza się następujące zmiany:
+**Art. 30.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658, 825, 1059, 1114, 1130, 1407, 1414, 1429, 1523, 1617, 1667, 1675, 1705, 1723 i 1787.)wprowadza się następujące zmiany:
 
 - **1)** w art. 5a w pkt 50 kropkę zastępuje się średnikiem i dodaje się pkt 51 i 52 w brzmieniu: „
 - **51)** ustawie o OIPE – oznacza to ustawę z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym (Dz. U. poz. 1843);
@@ -534,14 +521,17 @@ po art. 55 dodaje się art. 55a i art. 55b w brzmieniu:
 1h. Za przychody z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, uważa się również przychody z tytułu gromadzenia oszczędności na:
 
 - **1)** subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy o OIPE,
-- **2)** subkoncie w rozumieniu art. 2 pkt 23 rozporządzenia 2019/1238, prowadzonym zgodnie z przepisami obowiązującymi na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej otrzymane przez beneficjenta OIPE w rozumieniu art. 2 pkt 6 rozporządzenia 2019/1238, w tym również osobę uprawnioną do otrzymania środków zgromadzonych na tych subkontach po śmierci oszczędzającego w rozumieniu art. 2 pkt 7 ustawy o OIPE. ” ;
-- **3)** w art. 21 w ust. 1 po pkt 58a dodaje się pkt 58aa-58ac w brzmieniu: „ 58aa) dochody z tytułu gromadzenia oszczędności na subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy o OIPE uzyskane w związku z: gromadzeniem oszczędności i wypłatą środków przez oszczędzającego w rozumieniu art. 2 pkt 7 ustawy o OIPE, wypłatą środków dokonaną na rzecz osób uprawnionych do tych środków po śmierci oszczędzającego w rozumieniu art. 2 pkt 7 ustawy o OIPE, wypłatą transferową na podstawie przepisów ustawy o OIPE, z tym że zwolnienie nie ma zastosowania w przypadku, gdy oszczędzający jednocześnie gromadził oszczędności na więcej niż jednym subkoncie OIPE, chyba że przepisy te przewidują taką możliwość; 58ab) przychody otrzymane przez małżonka z tytułu zwrotu środków na podstawie art. 20–22 ustawy o OIPE; 58ac) przychody z tytułu gromadzenia oszczędności na subkoncie w rozumieniu art. 2 pkt 23 rozporządzenia 2019/1238, prowadzonym zgodnie z przepisami obowiązującymi na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, jeżeli przychody (dochody) z tytułu takich świadczeń nie podlegałyby w całości opodatkowaniu podatkiem dochodowym od osób fizycznych lub byłyby zwolnione z tego podatku w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, zgodnie z którego przepisami prowadzone jest takie subkonto, gdyby wypłata została dokonana na rzecz osoby mającej miejsce zamieszkania w tym państwie; ” ;
+- **2)** subkoncie w rozumieniu art. 2 pkt 23 rozporządzenia 2019/1238, prowadzonym zgodnie z przepisami obowiązującymi na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej – otrzymane przez beneficjenta OIPE w rozumieniu art. 2 pkt 6 rozporządzenia 2019/1238, w tym również osobę uprawnioną do otrzymania środków zgromadzonych na tych subkontach po śmierci oszczędzającego w rozumieniu art. 2 pkt 7 ustawy o OIPE. ” ;
+- **3)** w art. 21 w ust. 1 po pkt 58a dodaje się pkt 58aa-58ac w brzmieniu: „ 58aa) dochody z tytułu gromadzenia oszczędności na subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy o OIPE uzyskane w związku z: gromadzeniem oszczędności i wypłatą środków przez oszczędzającego w rozumieniu art. 2 pkt 7 ustawy o OIPE, wypłatą środków dokonaną na rzecz osób uprawnionych do tych środków po śmierci oszczędzającego w rozumieniu art. 2 pkt 7 ustawy o OIPE, wypłatą transferową – na podstawie przepisów ustawy o OIPE, z tym że zwolnienie nie ma zastosowania w przypadku, gdy oszczędzający jednocześnie gromadził oszczędności na więcej niż jednym subkoncie OIPE, chyba że przepisy te przewidują taką możliwość; 58ab) przychody otrzymane przez małżonka z tytułu zwrotu środków na podstawie art. 20–22 ustawy o OIPE; 58ac) przychody z tytułu gromadzenia oszczędności na subkoncie w rozumieniu art. 2 pkt 23 rozporządzenia 2019/1238, prowadzonym zgodnie z przepisami obowiązującymi na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, jeżeli przychody (dochody) z tytułu takich świadczeń nie podlegałyby w całości opodatkowaniu podatkiem dochodowym od osób fizycznych lub byłyby zwolnione z tego podatku w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, zgodnie z którego przepisami prowadzone jest takie subkonto, gdyby wypłata została dokonana na rzecz osoby mającej miejsce zamieszkania w tym państwie; ” ;
     - **a)**
     - **b)**
     - **c)**
 
-- **4)** w art. 30: w ust. 1: – po pkt 7a dodaje się pkt 7b w brzmieniu: „ 7b) z tytułu gromadzenia oszczędności na więcej niż jednym subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy o OIPE, jeżeli przepisy ustawy o OIPE nie przewidują takiej możliwości – w wysokości 75% uzyskanego dochodu z tytułu gromadzenia oszczędności na każdym subkoncie OIPE; ” , – po pkt 14 dodaje się pkt 14a w brzmieniu: „ 14a) od kwoty świadczeń z tytułu gromadzenia oszczędności na subkoncie w rozumieniu art. 2 pkt 23 rozporządzenia 2019/1238, prowadzonym zgodnie z przepisami obowiązującymi na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej – w wysokości 10% przychodu; ” , po ust. 3a dodaje się ust. 3b w brzmieniu: „
+- **4)** w art. 30: w ust. 1: po pkt 7a dodaje się pkt 7b w brzmieniu: „
     - **a)**
+
+- **7b)** z tytułu gromadzenia oszczędności na więcej niż jednym subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy o OIPE, jeżeli przepisy ustawy o OIPE nie przewidują takiej możliwości – w wysokości 75% uzyskanego dochodu z tytułu gromadzenia oszczędności na każdym subkoncie OIPE; ” , po pkt 14 dodaje się pkt 14a w brzmieniu: „
+- **14a)** od kwoty świadczeń z tytułu gromadzenia oszczędności na subkoncie w rozumieniu art. 2 pkt 23 rozporządzenia 2019/1238, prowadzonym zgodnie z przepisami obowiązującymi na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej – w wysokości 10% przychodu; ” , po ust. 3a dodaje się ust. 3b w brzmieniu: „
     - **b)**
 
 3b. Dochodem, o którym mowa w ust. 1 pkt 7b, jest różnica między kwotą stanowiącą wartość środków zgromadzonych na subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy o OIPE a sumą wpłat na to subkonto. Dochodu tego nie pomniejsza się o straty z innych źródeł poniesione w roku podatkowym oraz latach poprzednich. ” , w ust. 9 wyrazy „ust. 1 pkt 2, 4–4b, 5a, 7a i 17” zastępuje się wyrazami „ust. 1 pkt 2, 4–4b, 5a, 7a, 7b, 14a i 17”;
@@ -556,7 +546,7 @@ po art. 55 dodaje się art. 55a i art. 55b w brzmieniu:
 
 8f. Dochodem, o którym mowa w ust. 1 pkt 10a, jest różnica między kwotą stanowiącą wartość środków zgromadzonych na subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy o OIPE a sumą wpłat dokonanych na to subkonto. Dochodu tego nie pomniejsza się o straty z innych źródeł poniesione w roku podatkowym oraz latach poprzednich. ” .
 
-**Art. 31.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2587, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 31.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2587, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2640 i 2745 oraz z 2023 r. poz. 185, 326, 412, 825, 1059, 1130, 1414, 1705, 1723 i 1787.) wprowadza się następujące zmiany:
 
 - **1)** w art. 16 w ust. 1: pkt 58 otrzymuje brzmienie: „
     - **a)**
@@ -570,9 +560,9 @@ po art. 55 dodaje się art. 55a i art. 55b w brzmieniu:
 - **56l)** środki przekazane z funduszu stabilizacyjnego, o którym mowa w art. 55 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, na rzecz spółdzielczej kasy oszczędnościowo-kredytowej przejmującej inną spółdzielczą kasę oszczędnościowo-kredytową, w części przeznaczonej na realizację celu, o którym mowa w art. 42 tej ustawy;
 - **56m)** wartość umorzonych zobowiązań z tytułu kredytów lub pożyczek zaciągniętych przez spółdzielczą kasę oszczędnościowo-kredytową ze środków funduszu stabilizacyjnego, o którym mowa w art. 55 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, w części przeznaczonej na realizację celu, o którym mowa w art. 42 tej ustawy; ” .
 
-**Art. 32.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm.) w art. 105 w ust. 1 w pkt 2 lit. i otrzymuje brzmienie: „
+**Art. 32.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996, 1059, 1394, 1407 i 1723.) w art. 105 w ust. 1 w pkt 2 lit. i otrzymuje brzmienie: „
 
-biegłego rewidenta: – upoważnionego do badania sprawozdań finansowych banku na podstawie zawartej z bankiem umowy, – przeprowadzającego audyty zewnętrzne, o których mowa w ust. 4 lub 12 załącznika I lub ust. 18 załącznika II do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniającego dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014 (Dz. Urz. UE L 171 z 29.06.2016, str. 1, z późn. zm.), na podstawie zawartej z bankiem umowy, ” .
+biegłego rewidenta: – upoważnionego do badania sprawozdań finansowych banku na podstawie zawartej z bankiem umowy, – przeprowadzającego audyty zewnętrzne, o których mowa w ust. 4 lub 12 załącznika I lub ust. 18 załącznika II do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniającego dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014 (Dz. Urz. UE L 171 z 29.06.2016, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 137 z 24.05.2017, str. 41, Dz. Urz. UE L 317 z 09.12.2019, str. 17, Dz. Urz. UE L 334 z 27.12.2019, str. 1, Dz. Urz. UE L 49 z 12.02.2021, str. 6 oraz Dz. Urz. UE L 333 z 27.12.2022, str. 1., na podstawie zawartej z bankiem umowy, ” .
 
 - **i)**
 
@@ -723,7 +713,7 @@ biegłego rewidenta: – upoważnionego do badania sprawozdań finansowych banku
 
 - **7)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Udziały inwestorskie
+#### Rozdział 2a
 
 **Art. 55a.**
 
@@ -741,8 +731,11 @@ biegłego rewidenta: – upoważnionego do badania sprawozdań finansowych banku
 
 3. Statut Kasy Krajowej może określać również inne niż roczna składka źródła zasilania funduszu, o którym mowa w ust. 1. ” ;
 
-- **13)** w art. 62c: w ust. 1: – pkt 12 otrzymuje brzmienie: „ 12) zobowiązaniach pozabilansowych udzielonych, zobowiązaniach pozabilansowych otrzymanych oraz należnościach nieściągalnych przeniesionych na konta pozabilansowe; ” , – w pkt 20 kropkę zastępuje się średnikiem i dodaje się pkt 21 w brzmieniu: „ 21) wykonanych transakcjach płatniczych, w tym ich wartości i liczbie. ” , w ust. 2 w pkt 21 kropkę zastępuje się średnikiem i dodaje się pkt 22–24 w brzmieniu: „
+- **13)** w art. 62c: w ust. 1: pkt 12 otrzymuje brzmienie: „
     - **a)**
+
+- **12)** zobowiązaniach pozabilansowych udzielonych, zobowiązaniach pozabilansowych otrzymanych oraz należnościach nieściągalnych przeniesionych na konta pozabilansowe; ” , w pkt 20 kropkę zastępuje się średnikiem i dodaje się pkt 21 w brzmieniu: „
+- **21)** wykonanych transakcjach płatniczych, w tym ich wartości i liczbie. ” , w ust. 2 w pkt 21 kropkę zastępuje się średnikiem i dodaje się pkt 22–24 w brzmieniu: „
     - **b)**
 
 - **22)** środkach zgromadzonych na rachunku funduszu wsparcia edukacji i promocji;
@@ -802,7 +795,7 @@ biegłego rewidenta: – upoważnionego do badania sprawozdań finansowych banku
 
 **Art. 41.** W ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2023 r. poz. 1015 i 1723) w art. 136 w ust. 2 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
 
-- **10)** audyty zewnętrzne, o których mowa w ust. 4 lub 12 załącznika I lub ust. 18 załącznika II do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniającego dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014 (Dz. Urz. UE L 171 z 29.06.2016, str. 1, z późn. zm.). ” .
+- **10)** audyty zewnętrzne, o których mowa w ust. 4 lub 12 załącznika I lub ust. 18 załącznika II do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniającego dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014 (Dz. Urz. UE L 171 z 29.06.2016, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 137 z 24.05.2017, str. 41, Dz. Urz. UE L 317 z 09.12.2019, str. 17, Dz. Urz. UE L 334 z 27.12.2019, str. 1, Dz. Urz. UE L 49 z 12.02.2021, str. 6 oraz Dz. Urz. UE L 333 z 27.12.2022, str. 1.. ” .
 
 **Art. 42.** W ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124, 1285 i 1723) w art. 42 w ust. 2 pkt 3 otrzymuje brzmienie: „
 
@@ -811,7 +804,7 @@ biegłego rewidenta: – upoważnionego do badania sprawozdań finansowych banku
 **Art. 43.** W ustawie z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. poz. 1177 oraz z 2023 r. poz. 1114 i 1688) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 pkt 9 i 10 otrzymują brzmienie: „
-- **9)** otwarty mieszkaniowy rachunek powierniczy – należący do dewelopera rachunek powierniczy, o którym mowa w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm.) lub ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2023 r. poz. 1278, 1394, 1407, 1723 i 1843), służący gromadzeniu środków pieniężnych wpłacanych przez nabywcę na cele określone w umowie deweloperskiej albo w jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2, z którego wypłata zdeponowanych środków następuje zgodnie z harmonogramem przedsięwzięcia deweloperskiego lub zadania inwestycyjnego, określonym w jednej z tych umów;
+- **9)** otwarty mieszkaniowy rachunek powierniczy – należący do dewelopera rachunek powierniczy, o którym mowa w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996, 1059, 1394, 1404, 1723 i 1843.) lub ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2023 r. poz. 1278, 1394, 1407, 1723 i 1843), służący gromadzeniu środków pieniężnych wpłacanych przez nabywcę na cele określone w umowie deweloperskiej albo w jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2, z którego wypłata zdeponowanych środków następuje zgodnie z harmonogramem przedsięwzięcia deweloperskiego lub zadania inwestycyjnego, określonym w jednej z tych umów;
 - **10)** zamknięty mieszkaniowy rachunek powierniczy – należący do dewelopera rachunek powierniczy, o którym mowa w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe lub ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, służący gromadzeniu środków pieniężnych wpłacanych przez nabywcę na cele określone w umowie deweloperskiej albo w jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2, z którego wypłata zdeponowanych środków następuje jednorazowo, po przeniesieniu na nabywcę każdego z praw wynikających z tych umów; ” ;
 - **2)** w art. 7 ust. 4 otrzymuje brzmienie: „
 
@@ -855,8 +848,9 @@ biegłego rewidenta: – upoważnionego do badania sprawozdań finansowych banku
 
 5. Deweloper dokonuje wyliczenia wysokości składki na Fundusz i wpłaca ją do banku lub kasy prowadzących mieszkaniowy rachunek powierniczy w terminie 7 dni od dnia dokonania wpłaty, o której mowa w ust. 1, i nie później niż przed wypłatą środków na rzecz dewelopera. Bank lub kasa odprowadza tę składkę do Funduszu w terminie 7 dni od dnia wpłaty składki przez dewelopera i nie później niż w dniu wypłaty środków na rzecz dewelopera. ” ;
 
-- **11)** w art. 50 w ust. 2: w pkt 3: – we wprowadzeniu do wyliczenia wyrazy „bankach prowadzących” zastępuje się wyrazami „bankach lub kasach prowadzących”, – lit. b otrzymuje brzmienie: „ b) numer banku lub kasy oraz jednostki organizacyjnej banku lub kasy, ” , – w lit. e wyrazy „art. 2 pkt 57 lit. a lub b” zastępuje się wyrazami „art. 2 pkt 57 lit. a, b lub c”, w pkt 4 w lit. f wyrazy „banku prowadzącego” zastępuje się wyrazami „banku lub kasy prowadzących”, w pkt 6: – w lit. b wyrazy „banku prowadzącego” zastępuje się wyrazami „banku lub kasy prowadzących”, – w lit. i wyraz „bank” zastępuje się wyrazami „bank lub kasę”, – w lit. j wyrazy „banku prowadzącego” zastępuje się wyrazami „banku lub kasy prowadzących”, użyty w pkt 7 w lit. c i d, w różnym przypadku, wyraz „bank” zastępuje się użytymi w odpowiednim przypadku wyrazami „bank lub kasa”;
+- **11)** w art. 50 w ust. 2: w pkt 3: – we wprowadzeniu do wyliczenia wyrazy „bankach prowadzących” zastępuje się wyrazami „bankach lub kasach prowadzących”, lit. b otrzymuje brzmienie: „ numer banku lub kasy oraz jednostki organizacyjnej banku lub kasy, ” , – w lit. e wyrazy „art. 2 pkt 57 lit. a lub b” zastępuje się wyrazami „art. 2 pkt 57 lit. a, b lub c”, w pkt 4 w lit. f wyrazy „banku prowadzącego” zastępuje się wyrazami „banku lub kasy prowadzących”, w pkt 6: – w lit. b wyrazy „banku prowadzącego” zastępuje się wyrazami „banku lub kasy prowadzących”, – w lit. i wyraz „bank” zastępuje się wyrazami „bank lub kasę”, – w lit. j wyrazy „banku prowadzącego” zastępuje się wyrazami „banku lub kasy prowadzących”, użyty w pkt 7 w lit. c i d, w różnym przypadku, wyraz „bank” zastępuje się użytymi w odpowiednim przypadku wyrazami „bank lub kasa”;
     - **a)**
+    - **b)**
     - **b)**
     - **c)**
     - **d)**
@@ -932,6 +926,6 @@ biegłego rewidenta: – upoważnionego do badania sprawozdań finansowych banku
 - **2)** art. 27 ust. 2 pkt 1, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia;
 - **3)** art. 46, który wchodzi w życie z dniem 1 października 2023 r.;
 - **4)** art. 37 pkt 13, który wchodzi w życie z dniem 1 stycznia 2024 r.;
-- **5)** art. 37 pkt 7 w zakresie art. 16e ust. 4 pkt 1 lit. b oraz pkt 9 w zakresie art. 26 ust. 7 pkt 4 i 5, które wchodzą w życie z dniem 1 stycznia 2032 r.
+- **5)** art. 37 pkt 7 w zakresie art. 16e ust. 4 pkt 1 lit. b oraz pkt 9 w zakresie art. 26 ust. 7 pkt 4 i 5, które wchodzą w życie z dniem 1 stycznia 2032 r. 1) Niniejsza ustawa: 1) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1238 z dnia 20 czerwca 2019 r. w sprawie ogólnoeuropejskiego indywidualnego produktu emerytalnego (OIPE) (Dz. Urz. UE L 198 z 25.07.2019, str. 1); 2) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniającego dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014 (Dz. Urz. UE L 171 z 29.06.2016, str. 1, Dz. Urz. UE L 137 z 24.05.2017, str. 41, Dz. Urz. UE L 317 z 09.12.2019, str. 17, Dz. Urz. UE L 334 z 27.12.2019, str. 1, Dz. Urz. UE L 49 z 12.02.2021, str. 6 oraz Dz. Urz. UE L 333 z 27.12.2022, str. 1); 3) w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE z dnia 25 listopada 2009 r. w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 335 z 17.12.2009, str. 1, Dz. Urz. UE L 326 z 08.12.2011, str. 113, Dz. Urz. UE L 249 z 14.09.2012, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 362, Dz. Urz. UE L 341 z 18.12.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1, Dz. Urz. UE L 219 z 25.07.2014, str. 66, Dz. Urz. UE L 108 z 28.04.2015, str. 8, Dz. Urz. UE L 354 z 23.12.2016, str. 37, Dz. Urz. UE L 347 z 28.12.2017, str. 35, Dz. Urz. UE L 156 z 19.06.2018, str. 43 oraz Dz. Urz. UE L 334 z 27.12.2019, str. 155). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, ustawę z dnia 28 lipca 1983 r. o podatku od spadków i darowizn, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym, ustawę z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego, ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej, ustawę z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, ustawę z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, ustawę z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym, ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, ustawę z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym, ustawę z dnia 8 lipca 2021 r. o zmianie ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz niektórych innych ustaw, ustawę z dnia 7 kwietnia 2022 r. o zmianie ustawy o listach zastawnych i bankach hipotecznych oraz niektórych innych ustaw oraz ustawę z dnia 14 kwietnia 2023 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawy o obligacjach, ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz niektórych innych ustaw. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996, 1059, 1394, 1407 i 1723. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658, 825, 1059, 1114, 1130, 1407, 1414, 1429, 1523, 1617, 1667, 1675, 1705, 1723 i 1787. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2640 i 2745 oraz z 2023 r. poz. 185, 326, 412, 825, 1059, 1130, 1414, 1705, 1723 i 1787. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996, 1059, 1394, 1407 i 1723. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 137 z 24.05.2017, str. 41, Dz. Urz. UE L 317 z 09.12.2019, str. 17, Dz. Urz. UE L 334 z 27.12.2019, str. 1, Dz. Urz. UE L 49 z 12.02.2021, str. 6 oraz Dz. Urz. UE L 333 z 27.12.2022, str. 1. 8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 137 z 24.05.2017, str. 41, Dz. Urz. UE L 317 z 09.12.2019, str. 17, Dz. Urz. UE L 334 z 27.12.2019, str. 1, Dz. Urz. UE L 49 z 12.02.2021, str. 6 oraz Dz. Urz. UE L 333 z 27.12.2022, str. 1. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996, 1059, 1394, 1404, 1723 i 1843.
 
 

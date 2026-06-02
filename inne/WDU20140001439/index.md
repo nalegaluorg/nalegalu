@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-10-10 |
 | Data wydania | 2014-10-23 |
-| Wejście w życie | 2014-11-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001439) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1439/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 95d ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 95d ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351 oraz z 2014 r. poz. 502 i 616.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -99,5 +98,5 @@ Przez przeciętne planowane uposażenie, o którym mowa w ust. 1, należy rozumi
 § 7.
 Wysokość funduszu nagród i zapomóg dla strażaków na nagrody i zapomogi, o których mowa w art. 95a ust. 1 i 2 ustawy, niezależnie od zwiększenia, o którym mowa w art. 105g ust. 1 ustawy, może być zwiększona przez jego dysponenta o niewykorzystane środki na uposażenia zasadnicze wraz z dodatkami, o których mowa w art. 87 ustawy, i na nagrody roczne.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 7 grudnia 2007 r. w sprawie nagród i zapomóg dla strażaków Państwowej Straży Pożarnej (Dz. U. Nr 234, poz. 1725), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 17 pkt 3 ustawy z dnia 24 stycznia 2014 r. o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej, ustawy o Biurze Ochrony Rządu, ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawy o służbie wojskowej żołnierzy zawodowych, ustawy o Centralnym Biurze Antykorupcyjnym, ustawy o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 502). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351 oraz z 2014 r. poz. 502 i 616. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 7 grudnia 2007 r. w sprawie nagród i zapomóg dla strażaków Państwowej Straży Pożarnej (Dz. U. Nr 234, poz. 1725), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 17 pkt 3 ustawy z dnia 24 stycznia 2014 r. o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej, ustawy o Biurze Ochrony Rządu, ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawy o służbie wojskowej żołnierzy zawodowych, ustawy o Centralnym Biurze Antykorupcyjnym, ustawy o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 502).
 

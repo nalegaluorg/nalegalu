@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-08-29 |
 | Data wydania | 2014-09-02 |
-| Wejście w życie | 2014-09-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001170) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1170/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 22 ust. 2 pkt 5 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 22 ust. 2 pkt 5 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650 oraz z 2014 r. poz. 7, 290, 538, 598, 642, 811 i 1146.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób prowadzenia przez publiczne przedszkola, szkoły podstawowe, gimnazja, szkoły ponadgimnazjalne, a także przez publiczne placówki, dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzaje tej dokumentacji.
 § 2.
@@ -158,23 +157,17 @@ Dyrektor szkoły specjalnej zorganizowanej w:
 1)
 podmiocie leczniczym,
 2)
-jednostce pomocy społecznej
-przesyła dyrektorowi szkoły, do której uczeń wraca, pisemną informację o ocenach bieżących uzyskanych przez ucznia w czasie pobytu w szkole specjalnej, jeżeli w tym okresie uczeń nie był klasyfikowany, a także informację o jego zachowaniu.
+jednostce pomocy społecznej – przesyła dyrektorowi szkoły, do której uczeń wraca, pisemną informację o ocenach bieżących uzyskanych przez ucznia w czasie pobytu w szkole specjalnej, jeżeli w tym okresie uczeń nie był klasyfikowany, a także informację o jego zachowaniu.
 § 16.
 1.
 Szkoła zakłada księgi arkuszy ocen.
 2.
 3.
-Na końcu księgi arkuszy ocen umieszcza się adnotację:
-„
+Na końcu księgi arkuszy ocen umieszcza się adnotację: „ Księga zawiera:
 1).
-................... arkuszy ocen uczniów albo słuchaczy, (podać liczbę)
-którzy ukończyli szkołę;
+................... arkuszy ocen uczniów albo słuchaczy, (podać liczbę) którzy ukończyli szkołę;
 2).
-................. arkuszy ocen uczniów albo słuchaczy, (podać liczbę)
-którzy z różnych przyczyn opuścili szkołę.
-” .
-Adnotację na końcu księgi arkuszy ocen opatruje się pieczęcią szkoły oraz pieczątką i podpisem dyrektora szkoły.
+................. arkuszy ocen uczniów albo słuchaczy, (podać liczbę) którzy z różnych przyczyn opuścili szkołę. ” . Adnotację na końcu księgi arkuszy ocen opatruje się pieczęcią szkoły oraz pieczątką i podpisem dyrektora szkoły.
 § 17.
 Słuchaczom szkoły dla dorosłych oraz uczniom szkoły policealnej dla młodzieży mogą być wydawane indeksy.
 § 18.
@@ -276,15 +269,13 @@ Do dnia 31 sierpnia 2016 r. informacje, o których mowa w § 4 ust. 2 pkt 2 lit.
 4.
 Do dnia 31 sierpnia 2016 r. dokumentację przebiegu nauczania stanowi również zezwolenie na spełnianie przez dziecko obowiązku rocznego przygotowania przedszkolnego poza oddziałem przedszkolnym zorganizowanym w szkole podstawowej.
 § 29.
-Dotychczasowa księga ewidencji dzieci podlegających obowiązkowi, o którym mowa w art. 14 ust. 3 ustawy, i obowiązkowi szkolnemu, prowadzona zgodnie z § 3a rozporządzenia Ministra Edukacji Narodowej i Sportu z dnia 19 lutego 2002 r. w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji (Dz. U. Nr 23, poz. 225, z późn. zm.) staje się, z dniem wejścia w życie rozporządzenia, księgą ewidencji dzieci podlegających obowiązkowi rocznego przygotowania przedszkolnego i obowiązkowi szkolnemu, o której mowa w § 4.
+Dotychczasowa księga ewidencji dzieci podlegających obowiązkowi, o którym mowa w art. 14 ust. 3 ustawy, i obowiązkowi szkolnemu, prowadzona zgodnie z § 3a rozporządzenia Ministra Edukacji Narodowej i Sportu z dnia 19 lutego 2002 r. w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji (Dz. U. Nr 23, poz. 225, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2003 r. Nr 107, poz. 1003, z 2009 r. Nr 116, poz. 977 oraz z 2010 r. Nr 156, poz. 1047.) staje się, z dniem wejścia w życie rozporządzenia, księgą ewidencji dzieci podlegających obowiązkowi rocznego przygotowania przedszkolnego i obowiązkowi szkolnemu, o której mowa w § 4.
 § 30.
 Dotychczasowy dziennik zajęć wychowawczych prowadzony zgodnie z § 9 rozporządzenia Ministra Edukacji Narodowej i Sportu z dnia 19 lutego 2002 r. w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji staje się, z dniem wejścia w życie rozporządzenia, dziennikiem zajęć, o którym mowa w § 12.
 § 31.
-Traci moc rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 19 lutego 2002 r. w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji (Dz. U. Nr 23, poz. 225, z późn. zm.).
+Traci moc rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 19 lutego 2002 r. w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji (Dz. U. Nr 23, poz. 225, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2003 r. Nr 107, poz. 1003, z 2009 r. Nr 116, poz. 977 oraz z 2010 r. Nr 156, poz. 1047.).
 § 32.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650 oraz z 2014 r. poz. 7, 290, 538, 598, 642, 811 i 1146. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2003 r. Nr 107, poz. 1003, z 2009 r. Nr 116, poz. 977 oraz z 2010 r. Nr 156, poz. 1047. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2003 r. Nr 107, poz. 1003, z 2009 r. Nr 116, poz. 977 oraz z 2010 r. Nr 156, poz. 1047.
 
 # Księga arkuszy ocen zawiera ułożone w porządku alfabetycznym wykazy uczniów, a w przypadku szkoły dla dorosłych – wykazy słuchaczy, wszystkich oddziałów, którzy w danym roku szkolnym ukończyli lub opuścili szkołę, oraz ich arkusze ocen. Na pierwszej stronie księgi arkuszy ocen umieszcza się adnotację: „Księga arkuszy ocen uczniów albo słuchaczy, którzy w ………… roku szkolnym ukończyli lub opuścili szkołę”.
-
-# Księga zawiera:
 

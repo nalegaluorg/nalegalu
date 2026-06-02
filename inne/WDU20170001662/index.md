@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 22 sierpnia 2017 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej w ramach poddziałania „Wsparcie na przystępowanie do systemów jakości” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 22 sierpnia 2017 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej w ramach poddziałania „Wsparcie na przystępowanie do systemów jakości” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-22 |
 | Data wydania | 2017-08-31 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001662) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1662/text.pdf) |
 
@@ -33,11 +32,9 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 6 sierpnia 2015 r. w s
 1)
 w § 3 uchyla się pkt 1;
 2)
-w § 5 ust. 1 otrzymuje brzmienie:
-„
+w § 5 ust. 1 otrzymuje brzmienie: „
 1.
-Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa, zwanego dalej „Krajowym Ośrodkiem”, podaje do publicznej wiadomości na stronie internetowej administrowanej przez Krajowy Ośrodek, w co najmniej jednym dzienniku o zasięgu krajowym oraz w siedzibie biura Krajowego Ośrodka i oddziałów terenowych Krajowego Ośrodka ogłoszenie o naborze wniosków o przyznanie pomocy, na co najmniej 30 dni przed planowanym rozpoczęciem terminu składania tych wniosków.
-” ;
+Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa, zwanego dalej „Krajowym Ośrodkiem”, podaje do publicznej wiadomości na stronie internetowej administrowanej przez Krajowy Ośrodek, w co najmniej jednym dzienniku o zasięgu krajowym oraz w siedzibie biura Krajowego Ośrodka i oddziałów terenowych Krajowego Ośrodka ogłoszenie o naborze wniosków o przyznanie pomocy, na co najmniej 30 dni przed planowanym rozpoczęciem terminu składania tych wniosków. ” ;
 3)
 w § 5 ust. 4, § 6 ust. 1, 3 i 4, § 8 ust. 1, § 9 ust. 1, 2 i 6, § 11 ust. 1, § 12 ust. 1, § 14 we wprowadzeniu do wyliczenia oraz § 15 ust. 1 pkt 5 użyty w różnym przypadku wyraz „Agencja” zastępuje się użytymi w odpowiednim przypadku wyrazami „Krajowy Ośrodek”;
 4)
@@ -47,14 +44,11 @@ w ust. 1 uchyla się pkt 2,
 b)
 w ust. 2 uchyla się pkt 4;
 5)
-w § 9 ust. 3 i 4 otrzymują brzmienie:
-„
+w § 9 ust. 3 i 4 otrzymują brzmienie: „
 3.
 Dyrektor Generalny Krajowego Ośrodka, w terminie 60 dni od dnia, w którym upłynął termin, o którym mowa w § 5 ust. 2, ustala kolejność przysługiwania pomocy.
 4.
-Dyrektor Generalny Krajowego Ośrodka, w terminie 7 dni od dnia ustalenia kolejności przyznania pomocy, o której mowa w ust. 3, podaje do publicznej wiadomości na stronie internetowej administrowanej przez Krajowy Ośrodek informację o tej kolejności w województwie mazowieckim i łącznie w pozostałych województwach, wraz ze wskazaniem numerów identyfikacyjnych oraz liczby przyznanych punktów.
-” .
+Dyrektor Generalny Krajowego Ośrodka, w terminie 7 dni od dnia ustalenia kolejności przyznania pomocy, o której mowa w ust. 3, podaje do publicznej wiadomości na stronie internetowej administrowanej przez Krajowy Ośrodek informację o tej kolejności w województwie mazowieckim i łącznie w pozostałych województwach, wraz ze wskazaniem numerów identyfikacyjnych oraz liczby przyznanych punktów. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 

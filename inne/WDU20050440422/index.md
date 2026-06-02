@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-01-21 |
 | Data wydania | 2005-03-21 |
-| Wejście w życie | 2005-03-21 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050440422) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/422/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. Nr 123, poz. 776, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. Nr 123, poz. 776, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1082, z 1998 r. Nr 99, poz. 628, Nr 106, poz. 668, Nr 137, poz. 887, Nr 156, poz. 1019 i Nr 162, poz. 1118 i 1126, z 1999 r. Nr 49, poz. 486, Nr 90, poz. 1001, Nr 95, poz. 1101 i Nr 111, poz. 1280, z 2000 r. Nr 48, poz. 550 i Nr 119, poz. 1249, z 2001 r. Nr 39, poz. 459, Nr 100, poz. 1080, Nr 125, poz. 1368, Nr 129, poz. 1444 i Nr 154, poz. 1792 i 1800, z 2002 r. Nr 169, poz. 1387, Nr 200, poz. 1679 i 1683 i Nr 241, poz. 2074, z 2003 r. Nr 7, poz. 79, Nr 90, poz. 844, Nr 223, poz. 2217 i Nr 228, poz. 2262 oraz z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001 i Nr 240, poz. 2407.) wprowadza się następujące zmiany:
 
 - **1)** w art. 10b w ust. 2 wyrazy „z zastrzeżeniem ust. 3 i 4” zastępuje się wyrazami „z zastrzeżeniem ust. 3 i 4 oraz art. 68c ust. 1”;
 - **2)** w art. 29 w ust. 3 zdanie pierwsze otrzymuje brzmienie: „ Koszty utworzenia i działania zakładów aktywności zawodowej są finansowane ze środków Funduszu, samorządu terytorialnego lub z innych źródeł, z zastrzeżeniem art. 68c ust. 2. ” ;
@@ -63,5 +62,5 @@ w ust. 1: – uchyla się pkt 1, – w pkt 2 uchyla się lit. c i d, uchyla się
 - **a)**
 - **b)**
 
-**Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 2005 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 2005 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1082, z 1998 r. Nr 99, poz. 628, Nr 106, poz. 668, Nr 137, poz. 887, Nr 156, poz. 1019 i Nr 162, poz. 1118 i 1126, z 1999 r. Nr 49, poz. 486, Nr 90, poz. 1001, Nr 95, poz. 1101 i Nr 111, poz. 1280, z 2000 r. Nr 48, poz. 550 i Nr 119, poz. 1249, z 2001 r. Nr 39, poz. 459, Nr 100, poz. 1080, Nr 125, poz. 1368, Nr 129, poz. 1444 i Nr 154, poz. 1792 i 1800, z 2002 r. Nr 169, poz. 1387, Nr 200, poz. 1679 i 1683 i Nr 241, poz. 2074, z 2003 r. Nr 7, poz. 79, Nr 90, poz. 844, Nr 223, poz. 2217 i Nr 228, poz. 2262 oraz z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001 i Nr 240, poz. 2407.
 

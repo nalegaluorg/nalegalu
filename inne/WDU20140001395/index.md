@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 października 2014 r. o zmianie ustawy o systemie monitorowania i kontrolowania jakości paliw oraz niektórych innych ustaw
+# Ustawa z dnia 10 października 2014 r. o zmianie ustawy o systemie monitorowania i kontrolowania jakości paliw oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego w latach 2008–2015 oraz ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-10-10 |
 | Data wydania | 2014-10-14 |
-| Wejście w życie | 2014-11-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001395) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1395/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. Nr 169, poz. 1200, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. Nr 169, poz. 1200, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 18, poz. 97, z 2011 r. Nr 153, poz. 902 oraz z 2014 r. poz. 1088.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
@@ -53,7 +52,7 @@ source: "eli-html"
 
 - **5)** art. 10 otrzymuje brzmienie: „
 
-**Art. 10.** W działalności badawczej prowadzonej przez jednostki naukowe, o których mowa w art. 2 pkt 9 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. Nr 96, poz. 615, z późn. zm.), dopuszcza się stosowanie:
+**Art. 10.** W działalności badawczej prowadzonej przez jednostki naukowe, o których mowa w art. 2 pkt 9 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. Nr 96, poz. 615, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 84, poz. 455 i Nr 185, poz. 1092, z 2013 r. poz. 675 oraz z 2014 r. poz. 379, 423 i 1198.), dopuszcza się stosowanie:
 
 - **1)** biopaliw ciekłych oraz innych paliw odnawialnych niespełniających wymagań jakościowych określonych w przepisach wydanych na podstawie art. 3 ust. 2 pkt 2 i 6 oraz art. 4 ust. 2;
 - **2)** paliw stałych niespełniających wymagań jakościowych określonych w przepisach wydanych na podstawie art. 3a ust. 2. ” ;
@@ -122,10 +121,10 @@ source: "eli-html"
 
 - **2)** art. 10 otrzymuje brzmienie: „ Przedsiębiorstwo górnicze, które nabyło likwidowaną kopalnię przed dniem 1 stycznia 2015 r. oraz spółkę, o której mowa w art. 9 ust. 1, zwalnia się z obowiązku zapłaty bieżących wpłat wobec Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, opłat i kar wobec Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej w części dotyczącej tych funduszy, z wyjątkiem opłat i kar stanowiących dochody jednostek samorządu terytorialnego. ” ;
 - **3)** w art. 13 w ust. 1 pkt 1 otrzymuje brzmienie: „
-- **1)** byłemu pracownikowi kopalni postawionej w stan likwidacji przed dniem 1 stycznia 2015 r.; ” . W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2013 r. poz. 1404, z późn. zm.) w art. 2 w ust. 1 po pkt 9 dodaje się pkt 9a w brzmieniu: „
-- **9a)** wykonywanie zadań wynikających z zakazu obejmowania procedurą celną dopuszczenia do obrotu paliw stałych niespełniających wymagań określonych w ustawie z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. Nr 169, poz. 1200, z późn. zm.); ” .
+- **1)** byłemu pracownikowi kopalni postawionej w stan likwidacji przed dniem 1 stycznia 2015 r.; ” . W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2013 r. poz. 1404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 1055 i 1215.) w art. 2 w ust. 1 po pkt 9 dodaje się pkt 9a w brzmieniu: „
+- **9a)** wykonywanie zadań wynikających z zakazu obejmowania procedurą celną dopuszczenia do obrotu paliw stałych niespełniających wymagań określonych w ustawie z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. Nr 169, poz. 1200, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 18, poz. 97, z 2011 r. Nr 153, poz. 902 oraz z 2014 r. poz. 1088 i 1395.); ” .
 
 **Art. 4.** Minister właściwy do spraw gospodarki, w terminie do dnia 31 grudnia 2014 r., przekaże przedsiębiorstwu górniczemu, o którym mowa w art. 8 ust. 1 ustawy wymienionej w art. 2 w brzmieniu nadanym niniejszą ustawą, środki finansowe na podwyższenie kapitałów własnych tego przedsiębiorstwa.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 2 i art. 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 2 i art. 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego w latach 2008–2015 oraz ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 18, poz. 97, z 2011 r. Nr 153, poz. 902 oraz z 2014 r. poz. 1088. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 84, poz. 455 i Nr 185, poz. 1092, z 2013 r. poz. 675 oraz z 2014 r. poz. 379, 423 i 1198. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 1055 i 1215. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 18, poz. 97, z 2011 r. Nr 153, poz. 902 oraz z 2014 r. poz. 1088 i 1395.
 

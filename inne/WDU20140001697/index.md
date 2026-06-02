@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-20 |
 | Data wydania | 2014-12-02 |
-| Wejście w życie | 2014-12-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001697) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1697/text.pdf) |
 
@@ -35,8 +34,7 @@ regionalnej pomocy inwestycyjnej,
 2)
 pomocy na usługi doradcze związane z przygotowaniem inwestycji początkowej,
 3)
-pomocy na usługi doradcze związane z realizacją inwestycji początkowej
-zwanych dalej „pomocą”, do których mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1), zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”.
+pomocy na usługi doradcze związane z realizacją inwestycji początkowej – zwanych dalej „pomocą”, do których mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1), zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”.
 § 2.
 Przepisów rozporządzenia nie stosuje się w przypadkach, o których mowa w art. 1 ust. 2–5 rozporządzenia Komisji (UE) nr 651/2014.
 § 3.
@@ -70,8 +68,7 @@ Regionalna pomoc inwestycyjna może być udzielana w odniesieniu do:
 1)
 inwestycyjnych kosztów kwalifikowalnych związanych z realizacją inwestycji początkowej,
 2)
-kosztów kwalifikowalnych ponoszonych na tworzenie nowych miejsc pracy związanych z realizacją inwestycji początkowej
-zgodnie z art. 14 ust. 4 rozporządzenia Komisji (UE) nr 651/2014.
+kosztów kwalifikowalnych ponoszonych na tworzenie nowych miejsc pracy związanych z realizacją inwestycji początkowej – zgodnie z art. 14 ust. 4 rozporządzenia Komisji (UE) nr 651/2014.
 2.
 Do inwestycyjnych kosztów kwalifikowalnych związanych z realizacją inwestycji początkowej zalicza się niezbędne do jej realizacji koszty ponoszone na:
 1)
@@ -115,8 +112,7 @@ wynagrodzenia brutto,
 2)
 obowiązkowe składki, w tym składki na ubezpieczenia społeczne,
 3)
-koszty opieki nad dziećmi i nad rodzicami
-jeżeli są spełnione warunki określone w art. 14 ust. 9 rozporządzenia Komisji (UE) nr 651/2014.
+koszty opieki nad dziećmi i nad rodzicami – jeżeli są spełnione warunki określone w art. 14 ust. 9 rozporządzenia Komisji (UE) nr 651/2014.
 § 7.
 1.
 Pomoc na usługi doradcze związane z przygotowaniem inwestycji początkowej oraz pomoc na usługi doradcze związane z realizacją inwestycji początkowej jest udzielana na rzecz mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy, na zasadach określonych w art. 18 rozporządzenia Komisji (UE) nr 651/2014.
@@ -160,7 +156,7 @@ Regionalna pomoc inwestycyjna, udzielana zgodnie z warunkami określonymi w rozp
 1)
 11,25 mln euro – dla inwestycji realizowanych na obszarze należącym do miasta stołecznego Warszawy;
 2)
-15 mln euro – dla inwestycji realizowanych na obszarze należącym do podregionu warszawskiego zachodniego, o którym mowa w rozporządzeniu Rady Ministrów z dnia 14 listopada 2007 r. w sprawie wprowadzenia Nomenklatury Jednostek Terytorialnych do Celów Statystycznych (NTS) (Dz. U. Nr 214, poz. 1573, z późn. zm.);
+15 mln euro – dla inwestycji realizowanych na obszarze należącym do podregionu warszawskiego zachodniego, o którym mowa w rozporządzeniu Rady Ministrów z dnia 14 listopada 2007 r. w sprawie wprowadzenia Nomenklatury Jednostek Terytorialnych do Celów Statystycznych (NTS) (Dz. U. Nr 214, poz. 1573, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 215, poz. 1359, z 2009 r. Nr 202, poz. 1558, z 2010 r. Nr 249, poz. 1658, z 2012 r. poz. 1390 oraz z 2013 r. poz. 1587.);
 3)
 18,75 mln euro – dla inwestycji realizowanych na obszarach należących do województw: dolnośląskiego, śląskiego, wielkopolskiego;
 4)
@@ -209,7 +205,7 @@ Po przeprowadzeniu oceny, o której mowa w ust. 4, pomoc przeznaczona na pokryci
 6.
 W przypadku regionalnej pomocy inwestycyjnej przedsiębiorca, zawierając umowę o dofinansowanie projektu, zobowiązuje się do utrzymania inwestycji na zasadach określonych w art. 14 ust. 5 rozporządzenia Komisji (UE) nr 651/2014.
 7.
-Podmiot udzielający pomocy przekazuje przedsiębiorcy informacje, o których mowa w art. 38 ust. 1 i 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.).
+Podmiot udzielający pomocy przekazuje przedsiębiorcy informacje, o których mowa w art. 38 ust. 1 i 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.).
 § 14.
 Pomoc jest udzielana do dnia 31 grudnia 2015 r.
 § 15.
@@ -222,5 +218,5 @@ Wnioski, o których mowa w ust. 2, wymagające uzupełnienia w zakresie wynikaj�
 § 16.
 Traci moc rozporządzenie Ministra Rozwoju Regionalnego z dnia 15 grudnia 2010 r. w sprawie udzielania regionalnej pomocy inwestycyjnej w ramach regionalnych programów operacyjnych (Dz. U. Nr 239, poz. 1599 oraz z 2013 r. poz. 1431).
 § 17.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 215, poz. 1359, z 2009 r. Nr 202, poz. 1558, z 2010 r. Nr 249, poz. 1658, z 2012 r. poz. 1390 oraz z 2013 r. poz. 1587. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.
 

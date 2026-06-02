@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-12 |
 | Data wydania | 2012-12-27 |
-| Wejście w życie | 2012-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001470) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1470/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 58 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. Nr 217, poz. 1427, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 58 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. Nr 217, poz. 1427, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593, z 2011 r. Nr 133, poz. 768, Nr 204, poz. 1195 i Nr 288, poz. 1689 oraz z 2012 r. poz. 921 i 1407.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2011 r. w sprawie kontroli korzystania z dostępu do danych z rejestru PESEL w drodze weryfikacji danych (Dz. U. Nr 224, poz. 1348 i Nr 295, poz. 1750) § 11 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2011 r. w sprawie kontroli korzystania z dostępu do danych z rejestru PESEL w drodze weryfikacji danych (Dz. U. Nr 224, poz. 1348 i Nr 295, poz. 1750) § 11 otrzymuje brzmienie: „
 § 11.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 31 grudnia 2012 r.
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2012 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593, z 2011 r. Nr 133, poz. 768, Nr 204, poz. 1195 i Nr 288, poz. 1689 oraz z 2012 r. poz. 921 i 1407.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-08 |
 | Data wydania | 2015-12-28 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2025-07-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002205) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2205/text.pdf) |
 
@@ -43,7 +42,7 @@ Treść rozporządzenia
 ## Załącznik nr 7 — – Zakres danych wniosku o zasiłek chorobowy
 
 Treść rozporządzenia
-Na podstawie art. 61b ust. 6 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2014 r. poz. 159, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 61b ust. 6 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2014 r. poz. 159, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1066, 1217, 1220 i 1268.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -69,8 +68,7 @@ Jeżeli za okres orzeczonej niezdolności do pracy z powodu choroby objęty zaś
 1)
 wynagrodzenie za czas niezdolności do pracy z powodu choroby, a następnie zasiłek chorobowy wypłacany przez Zakład,
 2)
-zasiłek chorobowy wypłacany przez płatnika składek, a następnie zasiłek chorobowy wypłacany przez Zakład
-dokumentem niezbędnym do wypłaty zasiłku po wypłaceniu wynagrodzenia za czas niezdolności do pracy lub zasiłku chorobowego przez płatnika składek jest przekazane przez niego do Zakładu zaświadczenie płatnika składek, o którym mowa w § 2 ust. 1 pkt 1 albo 2, zawierające identyfikator zaświadczenia lekarskiego, na podstawie którego dokonano wypłaty zasiłku.
+zasiłek chorobowy wypłacany przez płatnika składek, a następnie zasiłek chorobowy wypłacany przez Zakład – dokumentem niezbędnym do wypłaty zasiłku po wypłaceniu wynagrodzenia za czas niezdolności do pracy lub zasiłku chorobowego przez płatnika składek jest przekazane przez niego do Zakładu zaświadczenie płatnika składek, o którym mowa w § 2 ust. 1 pkt 1 albo 2, zawierające identyfikator zaświadczenia lekarskiego, na podstawie którego dokonano wypłaty zasiłku.
 2.
 Jeżeli w przypadku, o którym mowa w ust. 1, wypłaty dokonano na podstawie zaświadczenia lekarskiego wystawionego na formularzu zaświadczenia lekarskiego wydrukowanym z systemu teleinformatycznego, o którym mowa w art. 55a ust. 7 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, zwanej dalej „ustawą”, płatnik składek dołącza to zaświadczenie, pozostawiając w aktach kopię potwierdzoną za zgodność z oryginałem.
 3.
@@ -166,7 +164,7 @@ złożone w formie papierowej lub w formie dokumentu elektronicznego uwierzyteln
 złożone w formie papierowej lub w formie dokumentu elektronicznego uwierzytelnionego z wykorzystaniem kwalifikowanego certyfikatu lub profilu zaufanego ePUAP na elektroniczną skrzynkę podawczą Zakładu, oświadczenie ubezpieczonej, że nie zapewniono jej innego zatrudnienia.
 § 14.
 1.
-Dokumentami niezbędnymi do zaniechania wypłaty zasiłku macierzyńskiego w związku z rezygnacją z pobierania zasiłku macierzyńskiego przez ubezpieczoną matkę dziecka za okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego w przypadku, o którym mowa w art. 180 § 5 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.), są:
+Dokumentami niezbędnymi do zaniechania wypłaty zasiłku macierzyńskiego w związku z rezygnacją z pobierania zasiłku macierzyńskiego przez ubezpieczoną matkę dziecka za okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego w przypadku, o którym mowa w art. 180 § 5 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662 oraz z 2015 r. poz. 1066, 1220,), są:
 1)
 złożone w formie papierowej lub w formie dokumentu elektronicznego uwierzytelnionego z wykorzystaniem kwalifikowanego certyfikatu lub profilu zaufanego ePUAP na elektroniczną skrzynkę podawczą Zakładu, oświadczenie ubezpieczonej, od kiedy ubezpieczony ojciec dziecka będzie korzystał z uprawnień do zasiłku macierzyńskiego;
 2)
@@ -337,7 +335,7 @@ Dokumentem niezbędnym do wszczęcia postępowania o wypłatę zasiłku chorobow
 § 32.
 Za dokumenty niezbędne do przyznania i wypłaty świadczeń pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, o których mowa w § 2, § 3, § 8 ust. 1 pkt 1 oraz § 27 i § 31, uznaje się również dokumenty przekazane na elektroniczną skrzynkę podawczą Zakładu przez zagraniczną instytucję ubezpieczeniową państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej albo państwa strony umowy międzynarodowej w zakresie zabezpieczenia społecznego, której stroną jest Rzeczpospolita Polska.
 § 33.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 2 kwietnia 2012 r. w sprawie określenia dowodów stanowiących podstawę przyznania i wypłaty zasiłków z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2014 r. poz. 1594), które traci moc z dniem 1 stycznia 2016 r., w związku z wejściem w życie ustawy z dnia 15 maja 2015 r. o zmianie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa oraz niektórych innych ustaw (Dz. U. poz. 1066 i 1735). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1066, 1217, 1220 i 1268. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662 oraz z 2015 r. poz. 1066, 1220, 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 2 kwietnia 2012 r. w sprawie określenia dowodów stanowiących podstawę przyznania i wypłaty zasiłków z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2014 r. poz. 1594), które traci moc z dniem 1 stycznia 2016 r., w związku z wejściem w życie ustawy z dnia 15 maja 2015 r. o zmianie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa oraz niektórych innych ustaw (Dz. U. poz. 1066 i 1735).
 
 ## Załącznik nr 1 — – Zakres danych zaświadczenia płatnika składek w przypadku ubezpieczonego będącego pracownikiem
 

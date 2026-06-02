@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-17 |
 | Data wydania | 2017-11-03 |
-| Wejście w życie | 2017-11-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002035) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2035/text.pdf) |
 
@@ -31,17 +30,13 @@ Na podstawie art. 19a ust. 5 ustawy z dnia 16 października 1992 r. o orderach i
 § 1.
 W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 12 lutego 2010 r. w sprawie nazw, wstążek, okuć oraz wzorów rysunkowych Gwiazdy Konga, Gwiazdy Czadu i Gwiazdy Morza Śródziemnego (Dz. U. poz. 170) wprowadza się następujące zmiany:
 1)
-w § 3 ust. 1 otrzymuje brzmienie:
-„
+w § 3 ust. 1 otrzymuje brzmienie: „
 1.
-Odznaczeniem wojskowym o charakterze pamiątkowym dla uczestników polskiego kontyngentu wojskowego, biorących udział w operacji wojskowej w rejonie Morza Śródziemnego, Morza Czarnego lub Morza Egejskiego, oraz dla uczestników polskiego kontyngentu wojskowego, biorących udział w operacji ACTIVE ENDEAVOUR na Morzu Śródziemnym i Morzu Czarnym, jest Gwiazda Morza Śródziemnego.
-” ;
+Odznaczeniem wojskowym o charakterze pamiątkowym dla uczestników polskiego kontyngentu wojskowego, biorących udział w operacji wojskowej w rejonie Morza Śródziemnego, Morza Czarnego lub Morza Egejskiego, oraz dla uczestników polskiego kontyngentu wojskowego, biorących udział w operacji ACTIVE ENDEAVOUR na Morzu Śródziemnym i Morzu Czarnym, jest Gwiazda Morza Śródziemnego. ” ;
 2)
-w § 4 ust. 2 otrzymuje brzmienie:
-„
+w § 4 ust. 2 otrzymuje brzmienie: „
 2.
-Na wstążce, o której mowa w § 3 ust. 2, nakłada się okucie z napisem, odpowiednio, ACTIVE ENDEAVOUR albo nazwą innej operacji wojskowej, prowadzonej w rejonie Morza Śródziemnego, Morza Czarnego lub Morza Egejskiego.
-” .
+Na wstążce, o której mowa w § 3 ust. 2, nakłada się okucie z napisem, odpowiednio, ACTIVE ENDEAVOUR albo nazwą innej operacji wojskowej, prowadzonej w rejonie Morza Śródziemnego, Morza Czarnego lub Morza Egejskiego. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

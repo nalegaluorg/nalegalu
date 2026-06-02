@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-09-22 |
 | Data wydania | 2006-11-07 |
-| Wejście w życie | 2006-11-07 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062001472) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1472/text.pdf) |
 
@@ -63,7 +62,7 @@ source: "eli-html"
 5. Rada Ministrów określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy zakres i tryb udzielania oraz sposób rozliczania dofinansowania kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych oraz społeczno-zawodowych organizacji rolników w organizacjach, o których mowa w ust. 1,
-- **2)** konieczne elementy umowy o udzielenie dofinansowania kosztów, o których mowa w ust. 1 mając na względzie zapewnienie prawidłowości i przejrzystości wydatkowania środków publicznych. Środki pochodzące z budżetu państwa przeznaczone na pokrycie kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych oraz społeczno-zawodowych organizacji rolników w organizacjach, o których mowa w art. 35b ust. 1, nie podlegają egzekucji, z wyjątkiem przypadku gdy zostały wykorzystane niezgodnie z przeznaczeniem, pobrane nienależnie lub w nadmiernej wysokości. ” .
+- **2)** konieczne elementy umowy o udzielenie dofinansowania kosztów, o których mowa w ust. 1 – mając na względzie zapewnienie prawidłowości i przejrzystości wydatkowania środków publicznych. Środki pochodzące z budżetu państwa przeznaczone na pokrycie kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych oraz społeczno-zawodowych organizacji rolników w organizacjach, o których mowa w art. 35b ust. 1, nie podlegają egzekucji, z wyjątkiem przypadku gdy zostały wykorzystane niezgodnie z przeznaczeniem, pobrane nienależnie lub w nadmiernej wysokości. ” .
 
 **Art. 4.**
 

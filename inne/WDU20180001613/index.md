@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-05 |
 | Data wydania | 2018-08-23 |
-| Wejście w życie | 2018-10-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001613) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1613/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544 i 1577.) wprowadza się następujące zmiany:
 
 - **1)** w art. 58 w ust. 2 pkt 4a otrzymuje brzmienie: „
 - **4a)** aktywami pochodzącymi z przeniesienia aktywów, o których mowa w art. 23 ust. 2 pkt 2–4 ustawy z dnia 6 grudnia 2013 r. o zmianie niektórych ustaw w związku z określeniem zasad wypłaty emerytur ze środków zgromadzonych w otwartych funduszach emerytalnych (Dz. U. poz. 1717); ” ;
@@ -47,5 +46,5 @@ source: "eli-html"
 
 1a. Należności z tytułu poniesionych kosztów, o których mowa w ust. 1 pkt 2 i 3, Zakład pobiera w formie potrącenia z dokonanych wpłat. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 23 października 2018 r., z wyjątkiem art. 1 pkt 5, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie z dniem 23 października 2018 r., z wyjątkiem art. 1 pkt 5, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544 i 1577.
 

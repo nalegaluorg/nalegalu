@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-04-30 |
 | Data wydania | 2013-05-08 |
-| Wejście w życie | 2013-05-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000536) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/536/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 154 ust. 6 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 154 ust. 6 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 596, 1385 i 1529 oraz z 2013 r. poz. 70 i 433.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -127,5 +126,5 @@ wartość i ogólne zasady konstrukcji indeksu są udostępniane do publicznej w
 § 10.
 Do czasu dostosowania przez towarzystwo zarządzające funduszem prowadzonej działalności do przepisów wydanych na podstawie art. 48a pkt 1 ustawy w zakresie systemu zarządzania ryzykiem maksymalne zaangażowanie funduszu w lokaty, o których mowa w art. 145 ust. 1 pkt 5 i 6 ustawy, wyznacza się na podstawie przepisów dotychczasowych, nie dłużej jednak niż do dnia 31 lipca 2013 r.
 § 11.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 30 stycznia 2012 r. w sprawie dokonywania przez fundusz inwestycyjny zamknięty lokat, których przedmiotem są instrumenty pochodne oraz niektóre prawa majątkowe (Dz. U. poz. 144), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 8 ustawy z dnia 23 listopada 2012 r. o zmianie ustawy o funduszach inwestycyjnych oraz ustawy o nadzorze nad rynkiem finansowym (Dz. U. z 2013 r. poz. 70). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 596, 1385 i 1529 oraz z 2013 r. poz. 70 i 433. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 30 stycznia 2012 r. w sprawie dokonywania przez fundusz inwestycyjny zamknięty lokat, których przedmiotem są instrumenty pochodne oraz niektóre prawa majątkowe (Dz. U. poz. 144), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 8 ustawy z dnia 23 listopada 2012 r. o zmianie ustawy o funduszach inwestycyjnych oraz ustawy o nadzorze nad rynkiem finansowym (Dz. U. z 2013 r. poz. 70).
 

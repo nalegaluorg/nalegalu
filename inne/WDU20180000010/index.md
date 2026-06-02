@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-24 |
 | Data wydania | 2018-01-03 |
-| Wejście w życie | 2018-01-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000010) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/10/text.pdf) |
 
@@ -33,7 +32,7 @@ source: "eli-html"
 - **2)** pkt 11 otrzymuje brzmienie: „
 - **11)** podejmowanie innych działań, które mogłyby prowadzić do naruszenia substancji lub zmiany wyglądu zabytku wpisanego do rejestru, z wyłączeniem działań polegających na usuwaniu drzew lub krzewów z terenu nieruchomości lub jej części niebędącej wpisanym do rejestru parkiem, ogrodem albo inną formą zaprojektowanej zieleni; ” .
 
-**Art. 2.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2016 r. poz. 2134, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2016 r. poz. 2134, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2249 i 2260 oraz z 2017 r. poz. 60, 132, 1074, 1566 i 1595.) wprowadza się następujące zmiany:
 
 - **1)** w art. 83: w ust. 1 po wyrazach „z terenu nieruchomości lub jej części” skreśla się wyrazy „niewpisanej do rejestru zabytków”, uchyla się ust. 1a;
     - **a)**
@@ -58,5 +57,5 @@ source: "eli-html"
 
 2. W przypadku zezwoleń na usunięcie drzewa lub krzewu, wydanych przed dniem wejścia w życie niniejszej ustawy, decyzje w sprawach, o których mowa w art. 84 ust. 4, 5 i 7 ustawy zmienianej w art. 2, wydaje organ, który wydał zezwolenie.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2249 i 2260 oraz z 2017 r. poz. 60, 132, 1074, 1566 i 1595.
 

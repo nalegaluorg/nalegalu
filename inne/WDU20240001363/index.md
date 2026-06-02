@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 11 września 2024 r. w sprawie pozbawienia dróg kategorii dróg krajowych
+# Rozporządzenie Ministra Infrastrukturyz dnia 11 września 2024 r. w sprawie pozbawienia dróg kategorii dróg krajowych Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-11 |
 | Data wydania | 2024-09-16 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2024-09-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001363) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1363/text.pdf) |
 
@@ -33,8 +32,7 @@ Na podstawie art. 5 ust. 2 i art. 10 ust. 1 i 2 ustawy z dnia 21 marca 1985 r. o
 § 1.
 Pozbawia się kategorii dróg krajowych odcinki dróg określone w załączniku do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
 Załącznik – Wykaz odcinków dróg pozbawionych kategorii dróg krajowych
 1.
 Odcinek drogi krajowej nr 1 – al. Wojska Polskiego (od węzła Częstochowa Północ do ul. Warszawskiej) w mieście Częstochowa.

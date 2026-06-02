@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-02 |
 | Data wydania | 2015-07-30 |
-| Wejście w życie | 2015-08-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001073) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1073/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Udzielanie pomocy de minimis Rozdział 3 – Udzielanie pomocy publicznej na szkolenia Rozdział 4 – Udzielanie pomocy publicznej na usługi doradcze Rozdział 5 – Udzielanie pomocy publicznej na subsydiowanie zatrudnienia Rozdział 6 – Przepisy końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146 oraz z 2015 r. poz. 378) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom pomocy de minimis oraz pomocy publicznej w ramach programów operacyjnych finansowanych z Europejskiego Funduszu Społecznego na lata 2014–2020, do których mają zastosowanie odpowiednio przepisy:
 1)
@@ -46,7 +46,7 @@ personelu przedsiębiorstwa, należy przez to rozumieć:
 a)
 pracownika w rozumieniu art. 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502 i 1662 oraz z 2015 r. poz. 1066),
 b)
-osobę świadczącą usługi na podstawie umowy agencyjnej, umowy zlecenia lub innej umowy o świadczenie usług, do której zgodnie z ustawą z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.) stosuje się przepisy dotyczące zlecenia albo umowy o dzieło,
+osobę świadczącą usługi na podstawie umowy agencyjnej, umowy zlecenia lub innej umowy o świadczenie usług, do której zgodnie z ustawą z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4, 397 i 539.) stosuje się przepisy dotyczące zlecenia albo umowy o dzieło,
 c)
 właściciela, pełniącego funkcje kierownicze,
 d)
@@ -109,9 +109,10 @@ kryteria pomocy przejrzystej, o których mowa odpowiednio w art. 4 rozporządzen
 warunki kumulacji pomocy, o których mowa odpowiednio w art. 5 rozporządzenia Komisji (UE) nr 1407/2013 oraz w art. 8 rozporządzenia Komisji (UE) nr 651/2014.
 § 6.
 1.
-Pomoc de minimis oraz pomoc publiczna mogą być udzielone przedsiębiorcy przez instytucję zarządzającą, instytucję pośredniczącą, instytucję wdrażającą, beneficjenta lub inne podmioty, o których mowa w art. 2 pkt 12 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.), a także przez partnera projektu, o którym mowa w art. 33 ust. 1 ustawy, oraz przez podmiot wdrażający instrument finansowy, o którym mowa w art. 28 ust. 2 ustawy.
+Pomoc de minimis oraz pomoc publiczna mogą być udzielone przedsiębiorcy przez instytucję zarządzającą, instytucję pośredniczącą, instytucję wdrażającą, beneficjenta lub inne podmioty, o których mowa w art. 2 pkt 12 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.), a także przez partnera projektu, o którym mowa w art. 33 ust. 1 ustawy, oraz przez podmiot wdrażający instrument finansowy, o którym mowa w art. 28 ust. 2 ustawy.
 2.
 Pomoc de minimis oraz pomoc publiczna mogą być udzielone na podstawie umowy o dofinansowanie projektu, decyzji o dofinansowaniu projektu lub innego dokumentu będącego podstawą jej udzielenia, który określa szczegółowe przeznaczenie, warunki i tryb udzielania pomocy publicznej lub pomocy de minimis na rzecz przedsiębiorcy.
+Udzielanie pomocy de minimis
 § 7.
 Pomoc de minimis jest udzielana z zachowaniem warunków dotyczących kumulacji określonych w art. 5 rozporządzenia Komisji (UE) nr 1407/2013.
 § 8.
@@ -166,6 +167,7 @@ Wartość pomocy, o której mowa w § 10 ust. 1 pkt 8, udzielanej w formie poży
 Wartość pomocy, o której mowa w § 10 ust. 1 pkt 8, udzielanej w formie gwarancji jest wyrażana za pomocą ekwiwalentu dotacji brutto, zgodnie z art. 4 ust. 6 rozporządzenia Komisji (UE) nr 1407/2013.
 3.
 Wartość pomocy, o której mowa w § 10 ust. 1 pkt 8, udzielanej w formie pożyczek jest obliczana zgodnie z metodologią, o której mowa w § 4 pkt 5 rozporządzenia Rady Ministrów z dnia 11 sierpnia 2004 r. w sprawie szczegółowego sposobu obliczania wartości pomocy publicznej udzielanej w różnych formach (Dz. U. Nr 194, poz. 1983, z 2006 r. Nr 183, poz. 1355 oraz z 2009 r. Nr 122, poz. 1008).
+Udzielanie pomocy publicznej na szkolenia
 § 12.
 Pomoc publiczna na szkolenia jest udzielana z zachowaniem warunków określonych w art. 31 rozporządzenia Komisji (UE) nr 651/2014.
 § 13.
@@ -188,6 +190,7 @@ o 20 punktów procentowych – w przypadku szkoleń skierowanych do personelu mi
 Uznaje się, że pomoc publiczna na szkolenia wywołuje efekt zachęty, jeżeli przedsiębiorca złożył pisemny wniosek o udzielenie pomocy przed podjęciem prawnie wiążącego zobowiązania do udziału w szkoleniu przedsiębiorcy lub personelu przedsiębiorstwa.
 2.
 Wniosek o udzielenie pomocy, o którym mowa w ust. 1, powinien zawierać co najmniej informacje, o których mowa w art. 6 ust. 2 rozporządzenia Komisji (UE) nr 651/2014.
+Udzielanie pomocy publicznej na usługi doradcze
 § 17.
 Pomoc publiczna na usługi doradcze jest udzielana na rzecz mikro-, małych i średnich przedsiębiorstw z zachowaniem warunków określonych w art. 18 rozporządzenia Komisji (UE) nr 651/2014.
 § 18.
@@ -200,6 +203,7 @@ Intensywność pomocy publicznej na usługi doradcze wynosi maksymalnie 50% wart
 Uznaje się, że pomoc publiczna na usługi doradcze wywołuje efekt zachęty, jeżeli przedsiębiorca złożył pisemny wniosek o udzielenie pomocy przed podjęciem prawnie wiążącego zobowiązania do udziału w usłudze doradczej świadczonej przez doradców zewnętrznych.
 2.
 Wniosek o udzielenie pomocy, o którym mowa w ust. 1, powinien zawierać co najmniej informacje, o których mowa w art. 6 ust. 2 rozporządzenia Komisji (UE) nr 651/2014.
+Udzielanie pomocy publicznej na subsydiowanie zatrudnienia
 § 20.
 Pomoc publiczna na subsydiowanie zatrudnienia pracowników znajdujących się w szczególnie niekorzystnej sytuacji oraz pracowników znajdujących się w bardzo niekorzystnej sytuacji jest udzielana z zachowaniem warunków określonych w art. 32 rozporządzenia Komisji (UE) nr 651/2014.
 § 21.
@@ -232,23 +236,36 @@ okresu zatrudnienia;
 intensywności pomocy;
 3)
 zapewnienia wzrostu netto liczby pracowników zatrudnionych u danego przedsiębiorcy w porównaniu ze średnią z ostatnich 12 miesięcy.
+Przepisy końcowe
 § 27.
 1.
 Pomoc de minimis jest udzielana do końca okresu, o którym mowa w art. 7 ust. 4 w związku z art. 8 rozporządzenia Komisji (UE) nr 1407/2013.
 2.
 Pomoc publiczna na szkolenia, pomoc publiczna na usługi doradcze oraz pomoc publiczna na subsydiowanie zatrudnienia jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze w związku z art. 59 rozporządzenia Komisji (UE) nr 651/2014.
 § 28.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4, 397 i 539. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Udzielanie pomocy de minimis
+#### Rozdział 2 – Udzielanie pomocy de minimis
 
-#### Rozdział 3 Udzielanie pomocy publicznej na szkolenia
+#### Rozdział 3 – Udzielanie pomocy publicznej na szkolenia
 
-#### Rozdział 4 Udzielanie pomocy publicznej na usługi doradcze
+#### Rozdział 4 – Udzielanie pomocy publicznej na usługi doradcze
 
-#### Rozdział 5 Udzielanie pomocy publicznej na subsydiowanie zatrudnienia
+#### Rozdział 5 – Udzielanie pomocy publicznej na subsydiowanie zatrudnienia
 
-#### Rozdział 6 Przepisy końcowe
+#### Rozdział 6 – Przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

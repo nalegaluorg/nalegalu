@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 29 sierpnia 2018 r. w sprawie powierzenia zarządzającemu Słupską Specjalną Strefą Ekonomiczną wydawania decyzji o wsparciu oraz wykonywania kontroli realizacji decyzji o wsparciu
+# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 29 sierpnia 2018 r. w sprawie powierzenia zarządzającemu Słupską Specjalną Strefą Ekonomiczną wydawania decyzji o wsparciu oraz wykonywania kontroli realizacji decyzji o wsparciu Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-08-29 |
 | Data wydania | 2018-09-04 |
-| Wejście w życie | 2018-09-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001700) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1700/text.pdf) |
 
@@ -35,6 +34,5 @@ wydawanie w imieniu ministra właściwego do spraw gospodarki decyzji, o której
 2)
 wykonywanie w imieniu ministra właściwego do spraw gospodarki kontroli realizacji warunków zawartych w decyzji, o której mowa w pkt 1.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 

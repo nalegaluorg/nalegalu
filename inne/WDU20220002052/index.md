@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-29 |
 | Data wydania | 2022-10-05 |
-| Wejście w życie | 2022-10-06 |
 | Ostatnia zmiana | 2026-03-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002052) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2052/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 38a ust. 8 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 38a ust. 8 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1728 i 2448 oraz z 2022 r. poz. 655, 1115, 1855 i 1933.) zarządza się, co następuje:
 § 1.
 1.
 Rozporządzenie określa:
@@ -179,5 +178,5 @@ Uznaje się, że posiadanie kwalifikacji zawodowych wymaganych na stanowisku, na
 2.
 W przypadkach innych niż wskazane w ust. 1 kwalifikacje zawodowe uzyskane w dotychczasowych jednostkach organizacyjnych przez funkcjonariusza przeniesionego do służby w Służbie Więziennej uznaje się za równorzędne z kwalifikacjami zawodowymi wymaganymi na stanowisku, na którym jest wymagane ukończenie szkolenia wstępnego.
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 ust. 2 pkt 3, § 3 ust. 1 i 2 w zakresie IWSW, § 4 w zakresie IWSW, § 5 w zakresie IWSW, § 6 ust. 1 w zakresie IWSW, § 7 ust. 1 w zakresie IWSW, § 8 w zakresie IWSW, § 9 w zakresie IWSW, które wchodzą w życie z dniem 14 grudnia 2022 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 ust. 2 pkt 3, § 3 ust. 1 i 2 w zakresie IWSW, § 4 w zakresie IWSW, § 5 w zakresie IWSW, § 6 ust. 1 w zakresie IWSW, § 7 ust. 1 w zakresie IWSW, § 8 w zakresie IWSW, § 9 w zakresie IWSW, które wchodzą w życie z dniem 14 grudnia 2022 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1728 i 2448 oraz z 2022 r. poz. 655, 1115, 1855 i 1933.
 

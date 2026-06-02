@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 lutego 2015 r. o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw
+# Ustawa z dnia 20 lutego 2015 r. o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw Przepisy niniejszej ustawy wykonują postanowienia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 181/2011 z dnia 16 lutego 2011 r. dotyczącego praw pasażerów w transporcie autobusowym i autokarowym oraz zmieniającego rozporządzenie (WE) nr 2006/2004 (Dz. Urz. UE L 55 z 28.02.2011, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,17 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-02-20 |
 | Data wydania | 2015-03-20 |
-| Wejście w życie | 2015-04-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000390) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/390/text.pdf) |
 
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. o usługach turystycznych oraz ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym.
+Wyznaczanie dworców, w których jest udzielana pomoc osobom niepełnosprawnym i osobom o ograniczonej sprawności ruchowej
 1.
 Dworzec:
 1)
 którego właścicielem lub współwłaścicielem w części większej niż połowa udziałów we współwłasności jest jednostka samorządu terytorialnego oraz
 2)
-który jest zlokalizowany w mieście powyżej 50 000 mieszkańców, oraz z którego rocznie odjeżdża powyżej 500 000 pasażerów
-podlega obowiązkowi dostosowania do udzielania pomocy osobom niepełnosprawnym i osobom o ograniczonej sprawności ruchowej w zakresie określonym w załączniku I lit. a do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 181/2011 z dnia 16 lutego 2011 r. dotyczącego praw pasażerów w transporcie autobusowym i autokarowym i zmieniającego rozporządzenie (WE) nr 2006/2004 (Dz. Urz. UE L 55 z 28.02.2011, str. 1), zwanego dalej „rozporządzeniem nr 181/2011”.
+który jest zlokalizowany w mieście powyżej 50 000 mieszkańców, oraz z którego rocznie odjeżdża powyżej 500 000 pasażerów – podlega obowiązkowi dostosowania do udzielania pomocy osobom niepełnosprawnym i osobom o ograniczonej sprawności ruchowej w zakresie określonym w załączniku I lit. a do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 181/2011 z dnia 16 lutego 2011 r. dotyczącego praw pasażerów w transporcie autobusowym i autokarowym i zmieniającego rozporządzenie (WE) nr 2006/2004 (Dz. Urz. UE L 55 z 28.02.2011, str. 1), zwanego dalej „rozporządzeniem nr 181/2011”.
 2.
 Jednostka, o której mowa w ust. 1 pkt 1, jest obowiązana corocznie do dnia 31 marca przeprowadzić analizę dotyczącą spełniania przez dworzec, którego jest właścicielem lub współwłaścicielem w części większej niż połowa udziałów we współwłasności, kryteriów określonych w ust. 1 pkt 2. Wyniki analizy przekazuje się niezwłocznie wojewodzie.
 3.
@@ -50,8 +50,7 @@ Minister właściwy do spraw transportu może zawrzeć z podmiotem zarządzając
 1)
 jednostką samorządu terytorialnego, o której mowa w art. 47b ust. 1 pkt 1 lub
 2)
-właścicielem dworca, o którym mowa w art. 47c ust. 1, który wystąpił z wnioskiem, o którym mowa w tym przepisie
-porozumienie na podstawie którego podmiot zarządzający dworcem dostosuje ten dworzec do udzielania pomocy w terminie określonym w tym porozumieniu.
+właścicielem dworca, o którym mowa w art. 47c ust. 1, który wystąpił z wnioskiem, o którym mowa w tym przepisie – porozumienie na podstawie którego podmiot zarządzający dworcem dostosuje ten dworzec do udzielania pomocy w terminie określonym w tym porozumieniu.
 2.
 Po dostosowaniu dworca, o którym mowa w ust. 1, do udzielania pomocy minister właściwy do spraw transportu wyznacza ten dworzec jako dworzec, w którym jest udzielana pomoc, poprzez jego zamieszczenie w wykazie, o którym mowa w art. 47g.
 W przypadku gdy dworzec wyznaczony do udzielania pomocy przestał spełniać kryteria określone w art. 47b ust. 1 pkt 1 lub 2, utrzymuje on status dworca wyznaczonego do jej udzielania, o ile jego właściciel lub współwłaściciel w części większej niż połowa udziałów we współwłasności nie wystąpi do ministra właściwego do spraw transportu, za pośrednictwem wojewody, z wnioskiem o pozbawienie tego dworca statusu dworca wyznaczonego do udzielania pomocy. Do wniosku dołącza się dokumenty potwierdzające, że dworzec przestał spełniać kryteria określone w art. 47b ust. 1 pkt 1 lub 2.
@@ -81,13 +80,12 @@ odmawia, w drodze decyzji administracyjnej, pozbawienia dworca statusu dworca wy
 3.
 Minister właściwy do spraw transportu zamieszcza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej i na bieżąco aktualizuje „Wykaz dworców wyznaczonych do udzielania pomocy osobom niepełnosprawnym i osobom o ograniczonej sprawności ruchowej”.
 4.
-Minister właściwy do spraw transportu przekazuje Komisji Europejskiej zgodnie z art. 12 rozporządzenia nr 181/2011 „Wykaz dworców wyznaczonych do udzielania pomocy osobom niepełnosprawnym i osobom o ograniczonej sprawności ruchowej” i jego aktualizacje.
-” ;
+Minister właściwy do spraw transportu przekazuje Komisji Europejskiej zgodnie z art. 12 rozporządzenia nr 181/2011 „Wykaz dworców wyznaczonych do udzielania pomocy osobom niepełnosprawnym i osobom o ograniczonej sprawności ruchowej” i jego aktualizacje. ” ;
 7)
-po art. 54b dodaje się art. 54c w brzmieniu:
-„
+po art. 54b dodaje się art. 54c w brzmieniu: „
+Ochrona praw pasażerów
 
-**Art. 1.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805, 915 i 1310 oraz z 2015 r. poz. 211.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w ust. 2 w pkt 2 w lit. d kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „
 - **3)** zasady i tryb wyznaczania dworców, w których jest udzielana pomoc osobom niepełnosprawnym i osobom o ograniczonej sprawności ruchowej;
@@ -103,13 +101,13 @@ po art. 54b dodaje się art. 54c w brzmieniu:
 
 - **6)** po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „
 
-#### Rozdział 8a Wyznaczanie dworców, w których jest udzielana pomoc osobom niepełnosprawnym i osobom o ograniczonej sprawności ruchowej
+#### Rozdział 8a
 
 **Art. 54c.** Główny Inspektor Transportu Drogowego wykonuje określone w ustawie zadania związane z ochroną praw pasażerów korzystających z przewozu drogowego w ramach usług, o których mowa w art. 2 ust. 1 i 2 rozporządzenia nr 181/2011. ” ;
 
 - **8)** po rozdziale 9 dodaje się rozdział 9a w brzmieniu: „
 
-#### Rozdział 9a Ochrona praw pasażerów
+#### Rozdział 9a
 
 **Art. 82a.** Przepisy rozdziału stosuje się do pasażerów korzystających z przewozu drogowego w ramach usług, o których mowa w art. 2 ust. 1 i 2 rozporządzenia nr 181/2011. 1. W przypadku gdy pasażer został zawiadomiony przez przewoźnika drogowego o nieuwzględnieniu wniesionej do niego skargi na podstawie art. 27 rozporządzenia nr 181/2011 albo nie uzyskał odpowiedzi na taką skargę w terminie określonym w art. 27 tego rozporządzenia, może wnieść skargę na przewoźnika drogowego w sprawie naruszenia przez niego przepisów rozporządzenia nr 181/2011. 2. Organem właściwym do rozpatrzenia skargi jest:
 
@@ -122,7 +120,7 @@ po art. 54b dodaje się art. 54c w brzmieniu:
 4. Do skargi pasażer dołącza kopię skargi skierowanej do przewoźnika drogowego, kopię odpowiedzi na tę skargę albo oświadczenie, że odpowiedź nie została udzielona w terminie określonym w art. 27 rozporządzenia nr 181/2011, a ponadto:
 
 - **1)** kopię biletu lub potwierdzonej rezerwacji na daną trasę,
-- **2)** inne dokumenty potwierdzające naruszenie przepisów rozporządzenia nr 181/2011 o ile je posiada.
+- **2)** inne dokumenty potwierdzające naruszenie przepisów rozporządzenia nr 181/2011 – o ile je posiada.
 
 1. Pasażer może wnieść skargę na niewłaściwe wykonywanie obowiązków wynikających z rozporządzenia nr 181/2011 przez podmiot zarządzający dworcem, o którym mowa w art. 3 lit. o tego rozporządzenia.
 
@@ -133,7 +131,7 @@ po art. 54b dodaje się art. 54c w brzmieniu:
 4. Do skargi pasażer dołącza:
 
 - **1)** kopię biletu lub potwierdzonej rezerwacji na daną trasę,
-- **2)** dokumenty potwierdzające niewłaściwe wykonywanie obowiązków wynikających z przepisów rozporządzenia nr 181/2011 przez podmiot zarządzający dworcem, o którym mowa w art. 3 lit. o tego rozporządzenia o ile je posiada.
+- **2)** dokumenty potwierdzające niewłaściwe wykonywanie obowiązków wynikających z przepisów rozporządzenia nr 181/2011 przez podmiot zarządzający dworcem, o którym mowa w art. 3 lit. o tego rozporządzenia – o ile je posiada.
 
 1. Skargi, o których mowa w art. 82b i art. 82c, składa się na piśmie lub w postaci elektronicznej, za pomocą środków komunikacji elektronicznej w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2014 r. poz. 1114).
 
@@ -214,7 +212,7 @@ po art. 54b dodaje się art. 54c w brzmieniu:
 
 3. Kary pieniężne, o których mowa w ust. 1 i 1a, ustala marszałek województwa, w drodze decyzji administracyjnej. ” .
 
-**Art. 3.** W ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2011 r. Nr 5, poz. 13, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2011 r. Nr 5, poz. 13, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 228, poz. 1368 oraz z 2014 r. poz. 423 i 915.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
 - **8)** rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 181/2011 z dnia 16 lutego 2011 r. dotyczącego praw pasażerów w transporcie autobusowym i autokarowym i zmieniającego rozporządzenie (WE) nr 2006/2004 (Dz. Urz. UE L 55 z 28.02.2011, str. 1). ” ;
@@ -253,7 +251,7 @@ po art. 54b dodaje się art. 54c w brzmieniu:
 - **1)** wyznaczy dworce do udzielania pomocy osobom niepełnosprawnym i osobom o ograniczonej sprawności ruchowej w zakresie określonym w załączniku I lit. a do rozporządzenia nr 181/2011 albo odmówi wyznaczenia dworca do jej udzielania, zgodnie z art. 47h ust. 1 pkt 1 albo 2 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą;
 - **2)** przekaże Komisji Europejskiej informację o dworcach wyznaczonych do udzielania pomocy osobom niepełnosprawnym i osobom o ograniczonej sprawności ruchowej w zakresie określonym w załączniku I lit. a do rozporządzenia nr 181/2011.
 
-**Art. 9.** W terminie do dnia 31 grudnia 2016 r. w przewozach regularnych w krajowym transporcie drogowym niebędących przewozami o charakterze użyteczności publicznej, zadania przewidziane w ustawie, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, dla organizatora publicznego transportu zbiorowego wykonuje właściwy organ, określony w art. 18 ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm.).
+**Art. 9.** W terminie do dnia 31 grudnia 2016 r. w przewozach regularnych w krajowym transporcie drogowym niebędących przewozami o charakterze użyteczności publicznej, zadania przewidziane w ustawie, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, dla organizatora publicznego transportu zbiorowego wykonuje właściwy organ, określony w art. 18 ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805, 915 i 1310 oraz z 2015 r. poz. 211.).
 
 **Art. 10.**
 
@@ -287,8 +285,5 @@ po art. 54b dodaje się art. 54c w brzmieniu:
 
 4. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, oraz wdrożenia mechanizmów korygujących, o których mowa w ust. 3, jest minister właściwy do spraw transportu.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2, który wchodzi w życie z dniem 1 stycznia 2016 r.
-
-- **1)** Przepisy niniejszej ustawy wykonują postanowienia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 181/2011 z dnia 16 lutego 2011 r. dotyczącego praw pasażerów w transporcie autobusowym i autokarowym oraz zmieniającego rozporządzenie (WE) nr 2006/2004 (Dz. Urz. UE L 55 z 28.02.2011, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. o usługach turystycznych oraz ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805, 915 i 1310 oraz z 2015 r. poz. 211. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 228, poz. 1368 oraz z 2014 r. poz. 423 i 915. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805, 915 i 1310 oraz z 2015 r. poz. 211.
-
+**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2, który wchodzi w życie z dniem 1 stycznia 2016 r. 1) Przepisy niniejszej ustawy wykonują postanowienia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 181/2011 z dnia 16 lutego 2011 r. dotyczącego praw pasażerów w transporcie autobusowym i autokarowym oraz zmieniającego rozporządzenie (WE) nr 2006/2004 (Dz. Urz. UE L 55 z 28.02.2011, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. o usługach turystycznych oraz ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805, 915 i 1310 oraz z 2015 r. poz. 211. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 228, poz. 1368 oraz z 2014 r. poz. 423 i 915. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805, 915 i 1310 oraz z 2015 r. poz. 211.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-01-25 |
 | Data wydania | 2017-02-07 |
-| Wejście w życie | 2017-02-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000232) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/232/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 8 ust. 5 ustawy z dnia 24 marca 1920 r. o nabywaniu nieruchomo
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 23 listopada 2004 r. w sprawie trybu postępowania i szczegółowych zasad prowadzenia rejestrów nieruchomości, udziałów i akcji nabytych lub objętych przez cudzoziemców (Dz. U. poz. 2556) wprowadza się następujące zmiany:
 1)
-§ 4 i 5 otrzymują brzmienie:
-„
+§ 4 i 5 otrzymują brzmienie: „
 § 4.
 Wpisu do rejestrów dokonuje się nie później niż w ciągu dwóch miesięcy od dnia wpływu dokumentu będącego podstawą do dokonania wpisu lub od dnia zakończenia czynności wyjaśniających.
 § 5.
@@ -46,11 +44,9 @@ odpisu prawomocnego orzeczenia sądu o stwierdzeniu nabycia spadku oraz odpisu p
 4)
 kopii dokumentów złożonych do akt rejestrowych, z których wynika, że cudzoziemiec nabył lub objął udziały, akcje lub ogół praw i obowiązków w spółce handlowej będącej właścicielem lub wieczystym użytkownikiem nieruchomości położonych na terytorium Rzeczypospolitej Polskiej, a w szczególności kopii umów, orzeczeń sądowych, aktów poświadczenia dziedziczenia wraz z protokołami dziedziczenia, list wspólników, a w przypadku gdy nabycie lub objęcie podlega wpisowi do rejestru przedsiębiorców – także na podstawie odpisu wydanego w tym przedmiocie postanowienia;
 5)
-odpisu ostatecznej decyzji administracyjnej, jeżeli na jej mocy doszło do nabycia nieruchomości położonej na terytorium Rzeczypospolitej Polskiej.
-” ;
+odpisu ostatecznej decyzji administracyjnej, jeżeli na jej mocy doszło do nabycia nieruchomości położonej na terytorium Rzeczypospolitej Polskiej. ” ;
 2)
-w § 6 w ust. 1 pkt 3 otrzymuje brzmienie:
-„
+w § 6 w ust. 1 pkt 3 otrzymuje brzmienie: „
 3)
 oznaczenie katalogu danych:
 a)
@@ -62,8 +58,7 @@ sądu rejestrowego, sygnatury akt, daty dokumentu złożonego do akt rejestrowyc
 d)
 sądu rejestrowego, sygnatury sprawy, daty dokonania wpisu do rejestru przedsiębiorców,
 e)
-organu administracji publicznej, sygnatury akt, daty wydania decyzji;
-” .
+organu administracji publicznej, sygnatury akt, daty wydania decyzji; ” .
 § 2.
 W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 października 2019 r. zmieniające rozporządzenie w sprawie warunków i trybu dokonywania zamiany nieruchomości
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 października 2019 r. zmieniające rozporządzenie w sprawie warunków i trybu dokonywania zamiany nieruchomości Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-07 |
 | Data wydania | 2019-10-17 |
-| Wejście w życie | 2019-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001977) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1977/text.pdf) |
 
@@ -31,17 +30,13 @@ Na podstawie art. 24 ust. 8 ustawy z dnia 19 października 1991 r. o gospodarowa
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 2 marca 2009 r. w sprawie warunków i trybu dokonywania zamiany nieruchomości (Dz. U. poz. 367 oraz z 2018 r. poz. 1377) wprowadza się następujące zmiany:
 1)
-§ 1 otrzymuje brzmienie:
-„
+§ 1 otrzymuje brzmienie: „
 § 1.
-Rozporządzenie określa warunki i tryb zawierania umów zamiany nieruchomości, na mocy których osoby fizyczne, osoby prawne oraz jednostki organizacyjne nieposiadające osobowości prawnej przenoszą na Skarb Państwa własność nieruchomości w zamian za przeniesienie przez Krajowy Ośrodek Wsparcia Rolnictwa, zwany dalej „Krajowym Ośrodkiem”, własności nieruchomości Zasobu Własności Rolnej Skarbu Państwa na te podmioty.
-” ;
+Rozporządzenie określa warunki i tryb zawierania umów zamiany nieruchomości, na mocy których osoby fizyczne, osoby prawne oraz jednostki organizacyjne nieposiadające osobowości prawnej przenoszą na Skarb Państwa własność nieruchomości w zamian za przeniesienie przez Krajowy Ośrodek Wsparcia Rolnictwa, zwany dalej „Krajowym Ośrodkiem”, własności nieruchomości Zasobu Własności Rolnej Skarbu Państwa na te podmioty. ” ;
 2)
-w § 4 w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
-„
+w § 4 w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 3)
-na wniosek osoby fizycznej, osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, jeżeli zamiana dotyczy przeniesienia przez ten podmiot własności nieruchomości w zamian za przeniesienie na ten podmiot przez Krajowy Ośrodek własności nieruchomości wchodzącej w skład Zasobu Własności Rolnej Skarbu Państwa, która w miejscowym planie zagospodarowania przestrzennego, miejscowym planie rewitalizacji albo miejscowym planie odbudowy jest przeznaczona na cele inne niż rolne lub w przypadku której w ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu sposób zagospodarowania i warunki zabudowy terenu, na którym ta nieruchomość jest położona, określony został jako inny niż rolny, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu – która jest położona na terenie określonym w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy jako niezwiązany z kierunkami i zasadami kształtowania rolniczej przestrzeni produkcyjnej.
-” ;
+na wniosek osoby fizycznej, osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, jeżeli zamiana dotyczy przeniesienia przez ten podmiot własności nieruchomości w zamian za przeniesienie na ten podmiot przez Krajowy Ośrodek własności nieruchomości wchodzącej w skład Zasobu Własności Rolnej Skarbu Państwa, która w miejscowym planie zagospodarowania przestrzennego, miejscowym planie rewitalizacji albo miejscowym planie odbudowy jest przeznaczona na cele inne niż rolne lub w przypadku której w ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu sposób zagospodarowania i warunki zabudowy terenu, na którym ta nieruchomość jest położona, określony został jako inny niż rolny, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu – która jest położona na terenie określonym w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy jako niezwiązany z kierunkami i zasadami kształtowania rolniczej przestrzeni produkcyjnej. ” ;
 3)
 w § 6 w ust. 2 po wyrazach „§ 4 ust. 1 pkt 2” dodaje się wyrazy „i 3”;
 4)
@@ -61,18 +56,13 @@ w § 11 w ust. 1:
 a)
 we wprowadzeniu do wyliczenia skreśla się wyraz „rolnika”,
 b)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
-imię, nazwisko i adres osoby fizycznej albo nazwę, siedzibę i adres osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej;
-” ;
+imię, nazwisko i adres osoby fizycznej albo nazwę, siedzibę i adres osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej; ” ;
 7)
-w § 13 ust. 4 otrzymuje brzmienie:
-„
+w § 13 ust. 4 otrzymuje brzmienie: „
 4.
-W przypadku gdy osoba fizyczna albo osoba uprawniona do działania w imieniu osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej bez uzasadnionej przyczyny nie stawiła się w wyznaczonym terminie i miejscu zawarcia umowy, Krajowy Ośrodek może odstąpić od zawarcia umowy zamiany nieruchomości.
-” .
+W przypadku gdy osoba fizyczna albo osoba uprawniona do działania w imieniu osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej bez uzasadnionej przyczyny nie stawiła się w wyznaczonym terminie i miejscu zawarcia umowy, Krajowy Ośrodek może odstąpić od zawarcia umowy zamiany nieruchomości. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 

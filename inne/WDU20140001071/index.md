@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-07-11 |
 | Data wydania | 2014-08-11 |
-| Wejście w życie | 2014-08-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001071) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1071/text.pdf) |
 
@@ -83,7 +82,7 @@ source: "eli-html"
 - **10)** w art. 52 pkt 2 otrzymuje brzmienie: „
 - **2)** organizację, szczegółowe warunki i tryb odbywania aplikacji ogólnej, sędziowskiej i prokuratorskiej, jak również sposób ustalania systemu punktowego oceny zaliczania sprawdzianów i ich poprawek oraz praktyk, objętych programem poszczególnych aplikacji, mając na względzie zakres wiedzy teoretycznej i praktycznej niezbędnej do zajmowania stanowiska, odpowiednio, asystenta sędziego, asystenta prokuratora, referendarza sądowego, sędziego i prokuratora oraz konieczność jednolitej i obiektywnej oceny wiedzy i kwalifikacji aplikantów, a także wzór dyplomu ukończenia aplikacji ogólnej; ” .
 
-**Art. 2.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2013 r. poz. 427, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2013 r. poz. 427, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 662, 1165, 1247, 1433 i 1623 oraz z 2014 r. poz. 31, 481, 504, 512 i 619.) wprowadza się następujące zmiany:
 
 - **1)** w art. 61: w § 1 pkt 7 otrzymuje brzmienie: „
     - **a)**
@@ -99,5 +98,5 @@ source: "eli-html"
 
 **Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 49 ust. 2 i 3 oraz art. 52 pkt 2 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 49 ust. 2 i 3 oraz art. 52 pkt 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 662, 1165, 1247, 1433 i 1623 oraz z 2014 r. poz. 31, 481, 504, 512 i 619.
 

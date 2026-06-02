@@ -26,22 +26,33 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000994) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/994/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 13 kwietnia 2016 r. o bezpieczeństwie obrotu prekursorami materiałów wybuchowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Ogólnopolski system zgłaszania podejrzanych transakcji lub prób dokonania takich transakcji, zniknięć i kradzieży Rozdział 3 – Przepisy karne Rozdział 4 – Zmiany w przepisach obowiązujących i przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 13 kwietnia 2016 r. o bezpieczeństwie obrotu prekursorami materiałów wybuchowych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 13 kwietnia 2016 r. o bezpieczeństwie obrotu prekursorami materiałów wybuchowych (Dz. U. z 2018 r. poz. 410), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125) oraz zmian wynikających z przepisów ogłoszonych przez dniem 16 maja 2019 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 108 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 108 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), który stanowi: „
+Przepisy ogólne
+Ogólnopolski system zgłaszania podejrzanych transakcji lub prób dokonania takich transakcji, zniknięć i kradzieży
+Przepisy karne
+Zmiany w przepisach obowiązujących i przepis końcowy
 Art. 15–18.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Ogólnopolski system zgłaszania podejrzanych transakcji lub prób dokonania takich transakcji, zniknięć i kradzieży
+
+#### Rozdział 3 – Przepisy karne
+
+#### Rozdział 4 – Zmiany w przepisach obowiązujących i przepis końcowy
 
 **Art. 108.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 58 pkt 12, który wchodzi w życie z dniem 1 listopada 2019 r.;
-- **2)** art. 82 pkt 5 w zakresie art. 25c-25h, które wchodzą w życie po upływie roku od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 13 kwietnia 2016 r. o bezpieczeństwie obrotu prekursorami materiałów wybuchowych
+- **2)** art. 82 pkt 5 w zakresie art. 25c-25h, które wchodzą w życie po upływie roku od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 13 kwietnia 2016 r. o bezpieczeństwie obrotu prekursorami materiałów wybuchowychNiniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 98/2013 z dnia 15 stycznia 2013 r. w sprawie wprowadzania do obrotu i używania prekursorów materiałów wybuchowych (Dz. Urz. UE L 39 z 09.02.2013, str. 1).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa:
 
@@ -67,7 +78,7 @@ Art. 15–18.
 
 **Art. 4.** Minister właściwy do spraw gospodarki ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykaz aktów delegowanych wydanych na podstawie art. 12 rozporządzenia (UE) nr 98/2013.
 
-#### Rozdział 2 Ogólnopolski system zgłaszania podejrzanych transakcji lub prób dokonania takich transakcji, zniknięć i kradzieży
+#### Rozdział 2
 
 **Art. 5.**
 
@@ -124,7 +135,7 @@ Art. 15–18.
 - **6)** Służbie Wywiadu Wojskowego,
 - **7)** Straży Granicznej,
 - **8)** Żandarmerii Wojskowej,
-- **9)** Służbie Ochrony Państwa o ile są one niezbędne do realizacji ich ustawowych zadań.
+- **9)** Służbie Ochrony Państwa – o ile są one niezbędne do realizacji ich ustawowych zadań.
 
 2. Prowadzący system zgłaszania może zawierać z podmiotami, o których mowa w ust. 1, porozumienie o udostępnianiu im danych lub informacji zgromadzonych w systemie zgłaszania w drodze teletransmisji bez konieczności składania wniosku, pod warunkiem że:
 
@@ -133,16 +144,14 @@ Art. 15–18.
 
 3. W porozumieniu, o którym mowa w ust. 2, wskazuje się rozwiązania techniczne i organizacyjne zapewniające bezpieczeństwo, w szczególności w zakresie poufności i rozliczalności w odniesieniu do udostępnionych danych lub informacji.
 
-4. Dane lub informacje zgromadzone w systemie zgłaszania udostępnia się jednostkom organizacyjnym Policji w drodze teletransmisji, bez konieczności składania pisemnego wniosku, przy zachowaniu rozwiązań technicznych i organizacyjnych, zapewniających ich bezpieczeństwo.
-
-**Art. 9.** Do danych osobowych zgromadzonych w systemie zgłaszania stosuje się przepisy ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125).
+4. Dane lub informacje zgromadzone w systemie zgłaszania udostępnia się jednostkom organizacyjnym Policji w drodze teletransmisji, bez konieczności składania pisemnego wniosku, przy zachowaniu rozwiązań technicznych i organizacyjnych, zapewniających ich bezpieczeństwo. Art. 9W brzmieniu ustalonym przez art. 88 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), która weszła w życie z dniem 6 lutego 2019 r.. Do danych osobowych zgromadzonych w systemie zgłaszania stosuje się przepisy ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125).
 
 **Art. 10.** Komendant Główny Policji przekazuje ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw gospodarki, raz w roku, w terminie do dnia 1 marca za okres poprzedniego roku kalendarzowego raport zawierający:
 
 - **1)** informacje dotyczące zgłoszeń podejrzanych transakcji, prób dokonania takich transakcji, zniknięć i kradzieży znacznych ilości substancji wymienionych w załącznikach I i II do rozporządzenia (UE) nr 98/2013 lub w aktach delegowanych wydanych na podstawie art. 12 tego rozporządzenia oraz mieszanin lub substancji zawierających te substancje uzyskane na podstawie prowadzonej przez krajowy punkt kontaktowy ewidencji takich zgłoszeń;
 - **2)** informacje i wnioski dotyczące funkcjonowania krajowego punktu kontaktowego i systemu zgłaszania.
 
-#### Rozdział 3 Przepisy karne
+#### Rozdział 3
 
 **Art. 11.** Kto udostępnia prekursor materiałów wybuchowych podlegający ograniczeniom przeciętnemu użytkownikowi, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
@@ -156,9 +165,9 @@ Art. 15–18.
 
 **Art. 14.** Orzekanie w sprawach o czyny, o których mowa w art. 11–13, następuje w trybie przepisów Kodeksu postępowania karnego.
 
-#### Rozdział 4 Zmiany w przepisach obowiązujących i przepis końcowy
+#### Rozdział 4
 
 **Art. 19.** Tworzy się system zgłaszania.
 
-**Art. 20.** Ustawa wchodzi w życie po upływie 90 dni od dnia ogłoszenia.
+**Art. 20.** Ustawa wchodzi w życie po upływie 90 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 16 maja 2016 r.. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 98/2013 z dnia 15 stycznia 2013 r. w sprawie wprowadzania do obrotu i używania prekursorów materiałów wybuchowych (Dz. Urz. UE L 39 z 09.02.2013, str. 1). 2) W brzmieniu ustalonym przez art. 88 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), która weszła w życie z dniem 6 lutego 2019 r. 3) Ustawa została ogłoszona w dniu 16 maja 2016 r.
 

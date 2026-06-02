@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 8 maja 2017 r. w sprawie danych i informacji przekazywanych przez podmioty prowadzące depozyt papierów wartościowych, system rejestracji instrumentów finansowych niebędących papierami wartościowymi oraz system rozrachunku
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 8 maja 2017 r. w sprawie danych i informacji przekazywanych przez podmioty prowadzące depozyt papierów wartościowych, system rejestracji instrumentów finansowych niebędących papierami wartościowymi oraz system rozrachunku Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-05-08 |
 | Data wydania | 2017-05-16 |
-| Wejście w życie | 2017-05-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000948) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/948/text.pdf) |
 
@@ -33,8 +32,7 @@ Rozporządzenie określa:
 1)
 szczegółowy zakres danych, o których mowa w art. 68f ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, zwanej dalej „ustawą”,
 2)
-szczegółowy zakres informacji, o których mowa w art. 68f ust. 2 ustawy
-oraz terminy przekazywania tych danych i informacji przez podmioty prowadzące depozyt papierów wartościowych, system rejestracji instrumentów finansowych niebędących papierami wartościowymi oraz system rozrachunku.
+szczegółowy zakres informacji, o których mowa w art. 68f ust. 2 ustawy – oraz terminy przekazywania tych danych i informacji przez podmioty prowadzące depozyt papierów wartościowych, system rejestracji instrumentów finansowych niebędących papierami wartościowymi oraz system rozrachunku.
 § 2.
 1.
 Podmiot prowadzący depozyt papierów wartościowych lub system rejestracji instrumentów finansowych niebędących papierami wartościowymi przekazuje Prezesowi Narodowego Banku Polskiego, zwanemu dalej „Prezesem NBP”, dane o:
@@ -43,8 +41,7 @@ wartości zarejestrowanych instrumentów finansowych, z uwzględnieniem rodzaju 
 2)
 wartości zaewidencjonowanych operacji w depozycie papierów wartościowych lub systemie rejestracji instrumentów finansowych,
 3)
-liczbie zarejestrowanych emitentów papierów wartościowych, w podziale na emitentów krajowych i zagranicznych
-według stanu na ostatni dzień każdego miesiąca w danym kwartale.
+liczbie zarejestrowanych emitentów papierów wartościowych, w podziale na emitentów krajowych i zagranicznych – według stanu na ostatni dzień każdego miesiąca w danym kwartale.
 2.
 Wartość zarejestrowanych instrumentów finansowych, o której mowa w ust. 1, stanowi ich wartość rynkowa ustalona według zasad stosowanych w danym depozycie papierów wartościowych lub systemie rejestracji instrumentów finansowych niebędących papierami wartościowymi.
 3.
@@ -92,8 +89,7 @@ gwarantowanej przepustowości systemu rozrachunku,
 2)
 liście uczestników pośrednich,
 3)
-wartości ekspozycji kredytowych poszczególnych uczestników bezpośrednich na ten podmiot, według stanu na ostatni dzień kwartału
-w zakresie działalności rozliczeniowej.
+wartości ekspozycji kredytowych poszczególnych uczestników bezpośrednich na ten podmiot, według stanu na ostatni dzień kwartału – w zakresie działalności rozliczeniowej.
 3.
 Dane, o których mowa w ust. 1:
 1)
@@ -112,7 +108,7 @@ b)
 pkt 3 – są przekazywane w terminie do ostatniego dnia miesiąca następującego po miesiącu kończącym dany kwartał.
 § 5.
 1.
-Jeżeli podmiot prowadzący system rozrachunku w zakresie działalności rozliczeniowej stanowi CCP, przekazuje Prezesowi NBP dane o zmianach parametrów ryzyka wykorzystywanych przez CCP do wyznaczania wstępnych depozytów zabezpieczających, o których mowa w art. 1 pkt 5 rozporządzenia delegowanego Komisji (UE) nr 153/2013 z dnia 19 grudnia 2012 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 648/2012 w odniesieniu do regulacyjnych standardów technicznych dotyczących wymogów obowiązujących kontrahentów centralnych (Dz. Urz. UE L 52 z 23.02.2013, str. 41, z późn. zm.), zwanego dalej „rozporządzeniem delegowanym Komisji (UE) nr 153/2013”, oraz zmianach wskaźników redukcji wartości zabezpieczeń.
+Jeżeli podmiot prowadzący system rozrachunku w zakresie działalności rozliczeniowej stanowi CCP, przekazuje Prezesowi NBP dane o zmianach parametrów ryzyka wykorzystywanych przez CCP do wyznaczania wstępnych depozytów zabezpieczających, o których mowa w art. 1 pkt 5 rozporządzenia delegowanego Komisji (UE) nr 153/2013 z dnia 19 grudnia 2012 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 648/2012 w odniesieniu do regulacyjnych standardów technicznych dotyczących wymogów obowiązujących kontrahentów centralnych (Dz. Urz. UE L 52 z 23.02.2013, str. 41, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 137 z 26.05.2016, str. 1.), zwanego dalej „rozporządzeniem delegowanym Komisji (UE) nr 153/2013”, oraz zmianach wskaźników redukcji wartości zabezpieczeń.
 2.
 Jeżeli podmiot prowadzący system rozrachunku w zakresie działalności rozliczeniowej stanowi CCP, dane, o których mowa w § 4:
 1)
@@ -158,6 +154,5 @@ o których mowa w § 3 ust. 2, § 4 ust. 2 pkt 1 i 2, oraz dane o stosowanych pa
 2.
 Przepis § 7 stosuje się do incydentów, o których mowa w art. 68f ust. 2 ustawy, które miały miejsce po dniu wejścia w życie rozporządzenia.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 137 z 26.05.2016, str. 1.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 137 z 26.05.2016, str. 1.
 

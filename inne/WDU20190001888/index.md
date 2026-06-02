@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-17 |
 | Data wydania | 2019-10-04 |
-| Wejście w życie | 2019-10-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001888) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1888/text.pdf) |
 
@@ -33,8 +32,9 @@ Na podstawie art. 7 ust. 3 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu dział
 § 1.
 Klasyfikacja rodzajów materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym, na których wytwarzanie lub obrót jest wymagane uzyskanie koncesji, jest określona w załączniku do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 3 grudnia 2001 r. w sprawie rodzajów broni i amunicji oraz wykazu wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym, na których wytwarzanie lub obrót jest wymagana koncesja (Dz. U. poz. 1625, z 2003 r. poz. 2152 oraz z 2009 r. poz. 881), które utraciło moc z dniem 1 sierpnia 2019 r. na podstawie art. 174 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214 i 1495). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 3 grudnia 2001 r. w sprawie rodzajów broni i amunicji oraz wykazu wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym, na których wytwarzanie lub obrót jest wymagana koncesja (Dz. U. poz. 1625, z 2003 r. poz. 2152 oraz z 2009 r. poz. 881), które utraciło moc z dniem 1 sierpnia 2019 r. na podstawie art. 174 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214 i 1495).
 Załącznik – Klasyfikacja rodzajów materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym, na których wytwarzanie lub obrót jest wymagane uzyskanie koncesji
+DEFINICJE
 Użyte w niniejszym załączniku określenia oznaczają:
 1.
 Biokatalizatory – biologicznie aktywne substancje zwiększające lub zmniejszające szybkość reakcji (przemiany) biochemicznej, podczas której zmniejszeniu ulegają właściwości: toksyczne, mutagenne, teratogenne i kancerogenne substancji chemicznych, ze szczególnym uwzględnieniem toksycznych związków chemicznych, oraz decydujące o rodzaju przemiany, jakiej może ulec substancja chemiczna w wyniku reakcji biochemicznej.
@@ -70,6 +70,7 @@ Technologia – specyficzny rodzaj informacji, niezbędny do „rozwoju”, „p
 Technologia krytyczna – informacje zapisane za pomocą zamkniętego zbioru danych obejmujących: informację zawierającą zamknięty zbiór danych na temat metody przygotowania i wytwarzania wyrobu ujętego w niniejszym załączniku lub użytkowej wartości informacji w postaci przetworzonej za pomocą oprogramowania, bez której posiadania występują ograniczenia w realizacji poszczególnych faz cyklu: badania naukowe, rozwój, produkcja i eksploatacja.
 17.
 Toksyczny związek chemiczny – dowolny związek chemiczny, który przez swoje działanie na procesy życiowe może spowodować śmierć, czasowe obezwładnienie lub trwałą szkodę ludziom, zwierzętom lub środowisku. Toksyczne związki chemiczne mają właściwości (mogące występować łącznie lub rozdzielnie): toksyczne, mutagenne, teratogenne i kancerogenne lub zdolność do zakłócenia naturalnych procesów biochemicznych oraz wywoływania chorób, a także zmiany środowiska naturalnego. Obejmuje to wszystkie tego rodzaju związki chemiczne, niezależnie od ich pochodzenia lub metody ich produkcji, bez względu na zastosowanie ich w procesach przemysłowych, medycznych, ochronnych, w obiektach, amunicji lub improwizowanych ładunkach wybuchowych.
+RODZAJE MATERIAŁÓW WYBUCHOWYCH – MW
 1.
 Materiały wybuchowe inicjujące.
 2.
@@ -78,6 +79,7 @@ Materiały wybuchowe kruszące (w tym plastyczne materiały wybuchowe).
 Materiały wybuchowe miotające.
 4.
 Materiały pirotechniczne (w tym pirotechniczne mieszanki zapalające).
+RODZAJE BRONI I AMUNICJI – BA
 1.
 Artyleryjska broń palna (haubice, armaty, moździerze, armatomoździerze, armatohaubice i haubicoarmaty, działa bezodrzutowe), wyrzutnie pocisków rakietowych, zespoły bojowe wyrzutni ładunków wydłużonych, wojskowe miotacze ognia.
 2.
@@ -210,6 +212,7 @@ imitatory celów, strzałów i wybuchów;
 ładunki pozoracyjne, dymne, błyskowo-dymne;
 3)
 petardy hukowe i hukowo-błyskowe.
+RODZAJE WYROBÓW I TECHNOLOGII O PRZEZNACZENIU WOJSKOWYM LUB POLICYJNYM – WT
 WT I. Broń Masowego Rażenia
 1.
 Toksyczne związki chemiczne (TZC) i materiały promieniotwórcze przygotowane do: spowodowania utraty życia, zdrowia lub wywołania trwałego uszczerbku na zdrowiu, niekorzystnych zmian w środowisku naturalnym oraz wywoływania szkód materialnych. Obejmuje wszystkie substancje bez względu na pochodzenie lub sposób produkcji, takich rodzajów i w takich ilościach, które nie są przeznaczone do wykorzystania w celach: profilaktycznych, ochronnych lub w innych utylitarnych i pokojowych.
@@ -332,8 +335,7 @@ Dibenzo- (b, f)-1,4-oksazepina (CR) (CAS 257–07–8).
 3.
 Biokatalizatory i biomolekuły jako substancje stosowane do: produkcji, wytwarzania, identyfikacji i rozkładu TZC, w tym kultury specjalnych komórek, organizmów i drobnoustrojów pochodzące z ukierunkowanej selekcji laboratoryjnej lub manipulacji genetycznej systemów biologicznych, zawierające informację genetyczną.
 4.
-„Technologia krytyczna” dla „rozwoju”, „produkcji” lub „eksploatacji” TZC oraz odpowiedni sprzęt lub komponenty, które nie służą do celów cywilnych, takich jak: rolne, farmaceutyczne, medyczne, weterynaryjne, środowiskowe, związane z gospodarką odpadami lub produkcją żywności.
-Uwaga: Numery CAS zostały przedstawione jako przykłady. Nie obejmują one wszystkich środków chemicznych ani mieszanin wymienionych w pozycji WT I. WT II. Sprzęt kierowania ogniem i związany z nim sprzęt do ostrzegania i alarmowania, a także powiązane z nimi systemy, sprzęt kontrolno-pomiarowy, do strojenia i zakłócania specjalnie zaprojektowane do celów wojskowych, a także specjalnie zaprojektowane do nich elementy składowe i ich wyposażenie
+„Technologia krytyczna” dla „rozwoju”, „produkcji” lub „eksploatacji” TZC oraz odpowiedni sprzęt lub komponenty, które nie służą do celów cywilnych, takich jak: rolne, farmaceutyczne, medyczne, weterynaryjne, środowiskowe, związane z gospodarką odpadami lub produkcją żywności. Uwaga: Numery CAS zostały przedstawione jako przykłady. Nie obejmują one wszystkich środków chemicznych ani mieszanin wymienionych w pozycji WT I. WT II. Sprzęt kierowania ogniem i związany z nim sprzęt do ostrzegania i alarmowania, a także powiązane z nimi systemy, sprzęt kontrolno-pomiarowy, do strojenia i zakłócania specjalnie zaprojektowane do celów wojskowych, a także specjalnie zaprojektowane do nich elementy składowe i ich wyposażenie
 1.
 Celowniki, przeliczniki bombardierskie, sprzęt naprowadzania uzbrojenia i systemy kierowania ogniem.
 2.
@@ -345,8 +347,7 @@ Sprzęt kontrolno-pomiarowy lub do strojenia w warunkach polowych, specjalnie za
 5.
 Sprzęt do przeciwdziałania, wykorzystywany przeciwko dronom, niezależnie od jego sposobu działania.
 6.
-Urządzenia służące do lokalizacji miejsca wystrzału z broni palnej.
-WT III. Pojazdy naziemne, w tym ciągniki (z wyłączeniem cywilnych samochodów lub ciężarówek przeznaczonych do przewozu pieniędzy i przedmiotów o wysokiej wartości wyposażonych w osłony pancerne) i ich elementy, specjalnie zaprojektowane lub zmodyfikowane do celów wojskowych lub policyjnych
+Urządzenia służące do lokalizacji miejsca wystrzału z broni palnej. WT III. Pojazdy naziemne, w tym ciągniki (z wyłączeniem cywilnych samochodów lub ciężarówek przeznaczonych do przewozu pieniędzy i przedmiotów o wysokiej wartości wyposażonych w osłony pancerne) i ich elementy, specjalnie zaprojektowane lub zmodyfikowane do celów wojskowych lub policyjnych
 1.
 Czołgi i inne uzbrojone pojazdy wojskowe oraz pojazdy wojskowe wyposażone w podstawy montażowe uzbrojenia pokładowego lub sprzęt do kładzenia min lub wystrzeliwania amunicji wymienionej w Części III – BA.
 2.
@@ -354,8 +355,7 @@ Pojazdy opancerzone.
 3.
 Pojazdy pływające lub posiadające zdolność pokonywania w bród głębokich przeszkód wodnych.
 4.
-Pojazdy ratownictwa technicznego oraz specjalistyczne pojazdy przeznaczone do holowania lub przewozu amunicji lub systemów uzbrojenia oraz związanych z nimi urządzeń do manipulowania ładunkami.
-Uwaga: Ust. 1 nie obejmuje pojazdów wojskowych, które nie są już przeznaczone do celów wojskowych i nie są wyposażone w sprzęt zaprojektowany lub zmodyfikowany do celów wojskowych. Uwaga: WT III obejmuje również: modyfikacje pojazdu naziemnego do celów wojskowych lub policyjnych, polegające na zmianach konstrukcyjnych, elektrycznych lub mechanicznych, jednego lub więcej elementów specjalnie zaprojektowanych do celów wojskowych, obejmujących:
+Pojazdy ratownictwa technicznego oraz specjalistyczne pojazdy przeznaczone do holowania lub przewozu amunicji lub systemów uzbrojenia oraz związanych z nimi urządzeń do manipulowania ładunkami. Uwaga: Ust. 1 nie obejmuje pojazdów wojskowych, które nie są już przeznaczone do celów wojskowych i nie są wyposażone w sprzęt zaprojektowany lub zmodyfikowany do celów wojskowych. Uwaga: WT III obejmuje również: modyfikacje pojazdu naziemnego do celów wojskowych lub policyjnych, polegające na zmianach konstrukcyjnych, elektrycznych lub mechanicznych, jednego lub więcej elementów specjalnie zaprojektowanych do celów wojskowych, obejmujących:
 1)
 pneumatyczne opony specjalnie zaprojektowane w celu zapewnienia kuloodporności lub możliwości utrzymania jazdy pomimo braku powietrza;
 2)
@@ -363,8 +363,7 @@ systemy regulacji ciśnienia powietrza w oponach, sterowane z wnętrza pojazdu z
 3)
 opancerzone osłony kluczowych elementów, takich jak zbiorniki paliwa czy kabiny pojazdu;
 4)
-specjalne wzmocnienia dla uchwytów na broń.
-WT IV. Wojenne jednostki pływające, specjalny sprzęt morski i wyposażenie oraz ich części składowe specjalnie zaprojektowane do celów wojskowych
+specjalne wzmocnienia dla uchwytów na broń. WT IV. Wojenne jednostki pływające, specjalny sprzęt morski i wyposażenie oraz ich części składowe specjalnie zaprojektowane do celów wojskowych
 1.
 Bojowe jednostki pływające i jednostki (nawodne lub podwodne) przeznaczone do działań ofensywnych lub obronnych, niezależnie od tego, czy zostały przekształcone do celów wojskowych, niezależnie od aktualnego stanu technicznego lub zdolności do działania i niezależnie od tego, czy zawierają systemy obronne, opancerzenie, kadłuby lub części kadłubów takich jednostek pływających.
 2.
@@ -396,8 +395,7 @@ Sprzęt do kierowania i nawigacji.
 6.
 Przepusty kadłubowe i złącza, umożliwiające współdziałanie ze sprzętem znajdującym się na zewnątrz jednostki pływającej, w tym: złącza jednoprzewodowe, wieloprzewodowe, koncentryczne i falowodowe dla jednostek pływających oraz przepusty kadłubowe dla jednostek pływających, przy czym obydwa te rodzaje urządzeń są zdolne utrzymać nieprzepuszczalność dla przecieków z zewnątrz i są w stanie utrzymać wymagane parametry na głębokościach przekraczających 100 m, oraz światłowodowe łączniki i optyczne przepusty kadłubowe, specjalnie zaprojektowane do przesyłania wiązki laserowej niezależnie od głębokości.
 7.
-Łożyska cichobieżne lub bezdźwięczne o zawieszeniu gazowym lub magnetycznym, układy regulacji sygnatury aktywnej i wyciszania drgań oraz wyposażenie zawierające te łożyska zaprojektowane do celów wojskowych.
-Uwaga: Ust. 6 nie obejmuje przepustów do zwykłych wałów napędowych i przepustów kadłubowych hydrodynamicznych drążków sterowniczych. WT V. Załogowe i bezzałogowe statki powietrzne, lotnicze zespoły napędowe, sprzęt pokrewny i jego składniki, specjalnie zaprojektowane lub zmodyfikowane do celów wojskowych lub policyjnych
+Łożyska cichobieżne lub bezdźwięczne o zawieszeniu gazowym lub magnetycznym, układy regulacji sygnatury aktywnej i wyciszania drgań oraz wyposażenie zawierające te łożyska zaprojektowane do celów wojskowych. Uwaga: Ust. 6 nie obejmuje przepustów do zwykłych wałów napędowych i przepustów kadłubowych hydrodynamicznych drążków sterowniczych. WT V. Załogowe i bezzałogowe statki powietrzne, lotnicze zespoły napędowe, sprzęt pokrewny i jego składniki, specjalnie zaprojektowane lub zmodyfikowane do celów wojskowych lub policyjnych
 1.
 Bojowe załogowe statki powietrzne i ich wyposażenie.
 2.
@@ -435,18 +433,15 @@ Sprzęt do zobrazowania sygnałów czujników radarowych.
 10.
 Automatyczne systemy pilotujące ładunków zrzucanych na spadochronach; sprzęt zaprojektowany i zmodyfikowany do celów wojskowych do kontrolowanych skoków spadochronowych z dowolnej wysokości, włącznie z aparatami tlenowymi.
 11.
-Sprzęt do uzupełniania paliwa w powietrzu.
-Uwaga: Ust. 2 nie obejmuje statków powietrznych lub wariantów tych statków powietrznych i naziemnego sprzętu do obsługi tych statków, które:
+Sprzęt do uzupełniania paliwa w powietrzu. Uwaga: Ust. 2 nie obejmuje statków powietrznych lub wariantów tych statków powietrznych i naziemnego sprzętu do obsługi tych statków, które:
 1)
 nie są już przeznaczone do celów wojskowych i nie są wyposażone w sprzęt zaprojektowany lub zmodyfikowany do celów wojskowych;
 2)
-zostały dopuszczone do użytku cywilnego przez władze lotnictwa cywilnego.
-Ust. 4 nie obejmuje:
+zostały dopuszczone do użytku cywilnego przez władze lotnictwa cywilnego. Ust. 4 nie obejmuje:
 1)
 silników statków powietrznych, które zostały dopuszczone przez władze lotnictwa cywilnego do użytkowania w cywilnych statkach powietrznych lub ich składników;
 2)
-silników tłokowych o ruchu posuwisto-zwrotnym lub ich składników.
-WT VI. Sprzęt elektroniczny, specjalnie zaprojektowany do celów wojskowych lub policyjnych, nieujęty w pozycjach WT II-V niniejszego wykazu oraz specjalnie zaprojektowane do niego jego składniki
+silników tłokowych o ruchu posuwisto-zwrotnym lub ich składników. WT VI. Sprzęt elektroniczny, specjalnie zaprojektowany do celów wojskowych lub policyjnych, nieujęty w pozycjach WT II-V niniejszego wykazu oraz specjalnie zaprojektowane do niego jego składniki
 1.
 Sprzęt walki radioelektronicznej (to jest: urządzenia przeznaczone do wprowadzania sygnałów do odbiorników stacji radiolokacyjnych i systemów łączności lub w inny sposób utrudniające odbiór, działanie lub zmniejszające efektywność odbiorników elektronicznych przeciwnika), łącznie z urządzeniami zakłócającymi i przeciwdziałającymi zakłóceniom.
 2.
@@ -454,8 +449,7 @@ Lampy generacyjne o zmiennej częstotliwości.
 3.
 Systemy elektroniczne lub sprzęt przeznaczony do obserwacji i przeszukiwania widma elektromagnetycznego w celu wojskowego rozpoznania lub w celu przeciwdziałania takiej obserwacji i przeszukiwaniu.
 4.
-Systemy podwodne, włącznie z zakłócającymi akustycznie, magnetycznie oraz pozorującymi, urządzenia do wprowadzania sygnałów do odbiorników sonarów.
-WT VII. Sprzęt specjalistyczny do szkolenia, specjalnie zaprojektowany do celów wojskowych lub policyjnych, oraz specjalnie zaprojektowane do niego składniki i akcesoria Specjalistyczny sprzęt do szkolenia obejmuje wojskowe wersje:
+Systemy podwodne, włącznie z zakłócającymi akustycznie, magnetycznie oraz pozorującymi, urządzenia do wprowadzania sygnałów do odbiorników sonarów. WT VII. Sprzęt specjalistyczny do szkolenia, specjalnie zaprojektowany do celów wojskowych lub policyjnych, oraz specjalnie zaprojektowane do niego składniki i akcesoria Specjalistyczny sprzęt do szkolenia obejmuje wojskowe wersje:
 1)
 symulatorów lotu (łącznie z wirówkami do szkolenia pilotów lub astronautów);
 2)
@@ -485,8 +479,7 @@ imitatorów promieniotwórczych i chemicznych;
 14)
 symulatorów i trenażerów Zautomatyzowanych Systemów Dowodzenia i Kierowania Ogniem (ZSDiKO);
 15)
-symulatorów i trenażerów operatorów przeciwpancernych pocisków kierowanych (PPK).
-WT VIII. Sprzęt do odwzorowywania lub zabezpieczania przed ruchami przeciwnika, specjalnie zaprojektowany do celów wojskowych lub policyjnych oraz specjalnie zaprojektowane do niego składniki i akcesoria
+symulatorów i trenażerów operatorów przeciwpancernych pocisków kierowanych (PPK). WT VIII. Sprzęt do odwzorowywania lub zabezpieczania przed ruchami przeciwnika, specjalnie zaprojektowany do celów wojskowych lub policyjnych oraz specjalnie zaprojektowane do niego składniki i akcesoria
 1.
 Urządzenia do rejestracji i obróbki obrazu, w tym:
 1)
@@ -518,8 +511,7 @@ elektrycznie zwalniane migawki fotochromowe lub elektrooptyczne, umożliwiające
 9)
 światłowodowe przetworniki obrazu;
 10)
-złożone fotokatody półprzewodnikowe, gdy są one specjalnie zaprojektowane do celów wojskowych.
-Uwaga: Ust. 3 obejmuje sprzęt zaprojektowany do ograniczania działania lub skuteczności wojskowych systemów odwzorowywania lub minimalizacji efektów ograniczania. WT IX. Systemy broni o ukierunkowanej energii (ang. Directed Energy Weapon) i sprzęt pokrewny lub sprzęt do przeciwdziałania i modele badawcze (testowe) oraz specjalnie zaprojektowane do nich składniki
+złożone fotokatody półprzewodnikowe, gdy są one specjalnie zaprojektowane do celów wojskowych. Uwaga: Ust. 3 obejmuje sprzęt zaprojektowany do ograniczania działania lub skuteczności wojskowych systemów odwzorowywania lub minimalizacji efektów ograniczania. WT IX. Systemy broni o ukierunkowanej energii (ang. Directed Energy Weapon) i sprzęt pokrewny lub sprzęt do przeciwdziałania i modele badawcze (testowe) oraz specjalnie zaprojektowane do nich składniki
 1.
 Systemy laserowe specjalnie zaprojektowane do niszczenia celu lub zmuszania go do przerwania wykonywanego zadania.
 2.
@@ -533,8 +525,7 @@ Fizyczne modele badawcze (testowe) łącznie z wynikami testów, dotyczące syst
 6.
 Systemy „laserowe” zaprojektowane specjalnie w celu trwałego oślepienia nieuzbrojonego oka, to znaczy gołego oka lub oka z urządzeniami korygującymi wzrok.
 7.
-Systemy, urządzenia wykorzystujące fale akustyczne dużej mocy zdolne do obezwładniania ludzi lub zmuszania ich do przerwania wykonywanego działania.
-Uwaga: WT IX obejmuje:
+Systemy, urządzenia wykorzystujące fale akustyczne dużej mocy zdolne do obezwładniania ludzi lub zmuszania ich do przerwania wykonywanego działania. Uwaga: WT IX obejmuje:
 1)
 systemy broni o ukierunkowanej energii, których potencjał opiera się na kontrolowanym wykorzystaniu:
 a)
@@ -566,13 +557,11 @@ aparatura do skupiania strumieni jonów ujemnych,
 j)
 sprzęt do regulacji i przekierowywania strumienia jonów o wysokiej energii,
 k)
-folie do neutralizacji strumieni ujemnych izotopów wodoru, mające zastosowanie w technikach kosmicznych.
-WT X. Sprzęt wykorzystujący zjawisko kriogeniczności lub nadprzewodnictwa oraz zaprojektowane do niego składniki i akcesoria
+folie do neutralizacji strumieni ujemnych izotopów wodoru, mające zastosowanie w technikach kosmicznych. WT X. Sprzęt wykorzystujący zjawisko kriogeniczności lub nadprzewodnictwa oraz zaprojektowane do niego składniki i akcesoria
 1.
 Sprzęt do zainstalowania na pojazdach do wojskowych zastosowań lądowych, lotniczych, morskich czy kosmicznych, zdolny do działania w czasie ruchu pojazdu i wytwarzania lub utrzymywania temperatur poniżej 103 K (-170°C) obejmuje również ruchome systemy zawierające lub wykorzystujące akcesoria lub składniki wyprodukowane z materiałów niemetalowych lub nieprzewodzących elektrycznie, takich jak tworzywa sztuczne czy materiały impregnowane żywicami epoksydowymi.
 2.
-Elektryczny sprzęt nadprzewodzący (maszyny wirnikowe i transformatory), przeznaczony do zainstalowania na pojazdach do wojskowych zastosowań lądowych, lotniczych, morskich czy kosmicznych, zdolny do działania w ruchu, z wyłączeniem hybrydowych, jednobiegunowych prądnic prądu stałego, posiadających normalne, jednobiegunowe armatury metalowe, które wirują w polu magnetycznym wytwarzanym przez uzwojenie nadprzewodzące, pod warunkiem że uzwojenie takie jest jedynym nadprzewodzącym elementem prądnicy.
-WT XI. Wyroby i technologie związane z ochroną informacji niejawnych
+Elektryczny sprzęt nadprzewodzący (maszyny wirnikowe i transformatory), przeznaczony do zainstalowania na pojazdach do wojskowych zastosowań lądowych, lotniczych, morskich czy kosmicznych, zdolny do działania w ruchu, z wyłączeniem hybrydowych, jednobiegunowych prądnic prądu stałego, posiadających normalne, jednobiegunowe armatury metalowe, które wirują w polu magnetycznym wytwarzanym przez uzwojenie nadprzewodzące, pod warunkiem że uzwojenie takie jest jedynym nadprzewodzącym elementem prądnicy. WT XI. Wyroby i technologie związane z ochroną informacji niejawnych
 1.
 Systemy, urządzenia, narzędzia, inne środki i ich specjalnie zaprojektowane składniki przeznaczone do ochrony informacji niejawnych, które są planowane do zgłoszenia do certyfikacji (w tym będące na etapie rozwoju) lub uzyskały certyfikaty ochrony kryptograficznej, certyfikaty ochrony elektromagnetycznej lub certyfikaty bezpieczeństwa teleinformatycznego w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742) lub unormowań NATO i UE w kwestii ochrony informacji niejawnych NATO i EU:
 1)
@@ -584,8 +573,7 @@ przeznaczone lub zmodyfikowane w celu zapewnienia bezpieczeństwa teleinformatyc
 2.
 Dedykowane oprogramowanie urządzeń, narzędzi lub środków ochrony informacji niejawnych wymienionych w ust. 1, z wyłączeniem stosowanego w nich ogólnie dostępnego na rynku oprogramowania.
 3.
-Technologie o charakterze specjalnym, które są niezbędne do rozwoju, produkcji lub użytkowania wymienionych w ust. 1 i 2 urządzeń, narzędzi lub środków ochrony informacji niejawnych oraz ich oprogramowania.
-Uwaga: Ust. 1 i 2 nie obejmują wyrobów, które spełniają wszystkie niżej wymienione kryteria:
+Technologie o charakterze specjalnym, które są niezbędne do rozwoju, produkcji lub użytkowania wymienionych w ust. 1 i 2 urządzeń, narzędzi lub środków ochrony informacji niejawnych oraz ich oprogramowania. Uwaga: Ust. 1 i 2 nie obejmują wyrobów, które spełniają wszystkie niżej wymienione kryteria:
 1)
 są ogólnie dostępne dla klientów przez sprzedaż gotowego oprogramowania w punktach sprzedaży detalicznej bez żadnych ograniczeń;
 2)
@@ -593,8 +581,7 @@ ich funkcjonalność kryptograficzna nie może być łatwo zmieniona przez użyt
 3)
 są przeznaczone do zainstalowania przez użytkownika bez dalszej, znaczącej pomocy ze strony dostawcy;
 4)
-w przypadku konieczności szczegóły techniczne tych wyrobów są dostępne i zostaną dostarczone, na żądanie właściwych organów, w celu potwierdzenia zgodności z warunkami określonymi w punktach 1–3.
-WT XII. Sprzęt i konstrukcje opancerzone i ochronne oraz ich komponenty
+w przypadku konieczności szczegóły techniczne tych wyrobów są dostępne i zostaną dostarczone, na żądanie właściwych organów, w celu potwierdzenia zgodności z warunkami określonymi w punktach 1–3. WT XII. Sprzęt i konstrukcje opancerzone i ochronne oraz ich komponenty
 1.
 Płyty pancerne wyprodukowane według norm obronnych, określonych na podstawie rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie działalności normalizacyjnej związanej z obronnością i bezpieczeństwem państwa (Dz. U. poz. 2038) oraz wojskowych lub policyjnych warunków technicznych.
 2.
@@ -602,8 +589,7 @@ Konstrukcje lub budowle z materiałów metalowych lub niemetalowych, zaprojektow
 3.
 Hełmy wojskowe i policyjne, ochraniacze twarzy, kończyn i innych części ciała, z wyłączeniem konwencjonalnych hełmów stalowych niewyposażonych w żadnego typu akcesoria ani niezmodyfikowanych czy zaprojektowanych do zamontowania takich urządzeń.
 4.
-Kamizelki kuloodporne i odłamkoodporne.
-WT XIII. Sprzęt i technologia do produkcji wyrobów
+Kamizelki kuloodporne i odłamkoodporne. WT XIII. Sprzęt i technologia do produkcji wyrobów
 1.
 Specjalnie zaprojektowany lub zmodyfikowany sprzęt do „produkcji” wyrobów objętych niniejszym wykazem i ich specjalnie zaprojektowanych składników.
 2.
@@ -611,8 +597,7 @@ Specjalnie zaprojektowane obiekty do prowadzenia badań środowiskowych oraz spe
 3.
 Specyficzna technologia produkcyjna wyrobów objętych niniejszym wykazem i ich specjalnie zaprojektowanych składników, nawet jeżeli sprzęt, w którym ta technologia ma być wykorzystywana, nie jest objęty kontrolą.
 4.
-Specyficzna technologia używana lub wykorzystywana w projektowaniu, montażu składników, a także działaniu, konserwacji i naprawach pełnych instalacji produkcyjnych, nawet jeżeli ich poszczególne składniki nie są objęte kontrolą, z wyłączeniem technologii do celów cywilnych, takich jak technologie: rolne, farmaceutyczne, medyczne, weterynaryjne, środowiskowe, unieszkodliwiania odpadów czy przemysłu spożywczego.
-WT XIV. Wyroby nieujęte w WT I-XIII, a posiadające przeznaczenie wojskowe lub policyjne
+Specyficzna technologia używana lub wykorzystywana w projektowaniu, montażu składników, a także działaniu, konserwacji i naprawach pełnych instalacji produkcyjnych, nawet jeżeli ich poszczególne składniki nie są objęte kontrolą, z wyłączeniem technologii do celów cywilnych, takich jak technologie: rolne, farmaceutyczne, medyczne, weterynaryjne, środowiskowe, unieszkodliwiania odpadów czy przemysłu spożywczego. WT XIV. Wyroby nieujęte w WT I-XIII, a posiadające przeznaczenie wojskowe lub policyjne
 1.
 Tłumiki dźwięku, specjalne montaże karabinowe oraz celowniki do broni, o której mowa w ust. 1–9 Części III – BA.
 2.
@@ -648,14 +633,13 @@ Sprzęt do rozprzestrzeniania materiałów lub środków wymienionych w wykazie 
 11.
 Odzież ochronna do ochrony przed materiałami objętymi WT I Części IV – WT i ich komponentami oraz urządzenia filtrowentylacyjne do oczyszczania powietrza w warunkach skażeń: promieniotwórczych, biologicznych lub chemicznych.
 12.
-Sprzęt do wykrywania i identyfikacji materiałów wymienionych w wykazie WT I Część IV – WT i jego komponenty
-Uwaga: Wymienione w ust. 1 wyroby nie obejmują montaży oraz celowników do broni przeznaczonej na rynek cywilny i urządzeń wylotowych, w tym: tłumików płomienia, hamulców wylotowych, osłabiaczy podrzutu oraz wielofunkcyjnych urządzeń wylotowych.
+Sprzęt do wykrywania i identyfikacji materiałów wymienionych w wykazie WT I Część IV – WT i jego komponenty Uwaga: Wymienione w ust. 1 wyroby nie obejmują montaży oraz celowników do broni przeznaczonej na rynek cywilny i urządzeń wylotowych, w tym: tłumików płomienia, hamulców wylotowych, osłabiaczy podrzutu oraz wielofunkcyjnych urządzeń wylotowych.
 
-## Część I DEFINICJE
+## Część I
 
-## Część II RODZAJE MATERIAŁÓW WYBUCHOWYCH – MW
+## Część II
 
-## Część III RODZAJE BRONI I AMUNICJI – BA
+## Część III
 
-## Część IV RODZAJE WYROBÓW I TECHNOLOGII O PRZEZNACZENIU WOJSKOWYM LUB POLICYJNYM – WT
+## Część IV
 

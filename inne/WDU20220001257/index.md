@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 25 maja 2022 r. w sprawie szczegółowych wymagań dla elementów zespołu urządzeń służących do wyprowadzenia mocy oraz dla elementów stacji elektroenergetycznych zlokalizowanych na morzu
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 25 maja 2022 r. w sprawie szczegółowych wymagań dla elementów zespołu urządzeń służących do wyprowadzenia mocy oraz dla elementów stacji elektroenergetycznych zlokalizowanych na morzu Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-25 |
 | Data wydania | 2022-06-14 |
-| Wejście w życie | 2022-06-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001257) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1257/text.pdf) |
 
-Treść rozporządzenia § 1. Rozdział 1 – Szczegółowe wymagania dla elementów zespołu urządzeń służących do wyprowadzenia mocy Rozdział 2 – Minimalny operacyjny czas życia zespołu urządzeń służących do wyprowadzenia mocy Rozdział 3 – Minimalna dostępność i maksymalna utrata mocy zespołu urządzeń służących do wyprowadzenia mocy oraz szczegółowy sposób wyznaczania tej minimalnej dostępności Rozdział 4 – Wymagania dla elementów stacji elektroenergetycznych, w tym wymagania budowlane Rozdział 5 – Wymagania dla kablowej linii eksportowej służącej do wyprowadzenia mocy z morskich farm wiatrowych Rozdział 6 – Wymagania dla urządzeń i układów obwodów wtórnych oraz urządzeń i układów współpracujących z nimi Rozdział 7 – Wymagania dla urządzeń i systemów telekomunikacyjnych Rozdział 8 – Wymagania w zakresie ochrony urządzeń obwodów wtórnych, urządzeń współpracujących z nimi oraz urządzeń telekomunikacyjnych przed czynnikami środowiskowymi Rozdział 9 – Minimalny zakres ocen, analiz i raportów, o których mowa w art. 82 ust. 5 ustawy Rozdział 10 – Wymagania w zakresie zabiegów eksploatacyjnych i przeglądów
 Treść rozporządzenia
-Na podstawie art. 83 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych (Dz. U. z 2022 r. poz. 1050) zarządza się, co następuje:
+§ 1.
+Treść rozporządzenia
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 16 lutego 2022 r. pod numerem 2022/094/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parl amentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 83 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych (Dz. U. z 2022 r. poz. 1050) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe wymagania dla elementów zespołu urządzeń służących do wyprowadzenia mocy oraz dla elementów stacji elektroenergetycznych zlokalizowanych na morzu, w szczególności:
 1)
@@ -49,6 +49,8 @@ wymagania w zakresie ochrony urządzeń obwodów wtórnych, urządzeń współpr
 minimalny zakres ocen, analiz i raportów, o których mowa w art. 82 ust. 5 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych, zwanej dalej „ustawą”, oraz terminy ich sporządzania i przekazywania operatorowi systemu przesyłowego;
 9)
 wymagania w zakresie zabiegów eksploatacyjnych i przeglądów.
+Szczegółowe wymagania dla elementów zespołu urządzeń służących do wyprowadzenia mocy
+Wymagania w zakresie rozdzielnicy wysokiego napięcia izolowanej gazem
 § 2.
 Rozdzielnicę wysokiego napięcia izolowaną gazem, zwaną dalej „rozdzielnicą GIS”, wyposaża się w urządzenia i układy obwodów pierwotnych o napięciu, na którym został wybudowany zespół urządzeń służących do wyprowadzenia mocy.
 § 3.
@@ -84,6 +86,7 @@ przeprowadza się analizy możliwości łączenia obciążeń indukcyjnych, anal
 wyznacza się charakterystyki możliwych napięć powrotnych.
 § 9.
 W dokumentacji projektowej rozdzielnicy GIS wskazuje się jej elementy rezerwowe.
+Wymagania w zakresie urządzeń do kompensacji mocy biernej i regulacji napięcia
 § 10.
 Zespół urządzeń służących do wyprowadzenia mocy wyposaża się w urządzenia do kompensacji mocy biernej i regulacji napięcia oraz w filtry pozwalające uniknąć wprowadzania do sieci wyższych harmonicznych przez ten zespół urządzeń oraz morską farmę wiatrową i ograniczyć wystąpienie rezonansu w układzie elektrycznym.
 § 11.
@@ -105,10 +108,13 @@ W przypadku instalacji dławików z podobciążeniową regulacją mocy przeprowa
 Zespół urządzeń służących do wyprowadzenia mocy załącza się w sposób pozwalający na zminimalizowanie występowania szybkozmiennych przepięć, które mogą powstać w związku z ferrorezonansem między dławikami a kablowymi liniami eksportowymi.
 § 15.
 Działania podejmowane w celu ograniczenia zjawisk, o których mowa w § 10 i 14, poprzedza się analizami przeprowadzonymi na modelach układu odwzorowującego co najmniej zespół urządzeń służących do wyprowadzenia mocy, morską farmę wiatrową i fragment sieci przesyłowej w pobliżu miejsca przyłączenia morskiej farmy wiatrowej.
+Minimalny operacyjny czas życia zespołu urządzeń służących do wyprowadzenia mocy
 § 16.
 Minimalny operacyjny czas życia zespołu urządzeń służących do wyprowadzenia mocy wynosi 25 lat i jest wskazywany w projekcie wykonawczym tego zespołu urządzeń.
 § 17.
 Nie później niż 5 lat przed upływem projektowanego operacyjnego czasu życia zespołu urządzeń służących do wyprowadzenia mocy, na podstawie danych technicznych zebranych przez okres dotychczasowej eksploatacji tego zespołu urządzeń, w celu oceny możliwości wydłużenia jego operacyjnego czasu życia przeprowadza się ocenę tego zespołu urządzeń zgodnie z § 140.
+Minimalna dostępność i maksymalna utrata mocy zespołu urządzeń służących do wyprowadzenia mocy oraz szczegółowy sposób wyznaczania tej minimalnej dostępności
+Minimalna dostępność zespołu urządzeń służących do wyprowadzenia mocy oraz szczegółowy sposób jej wyznaczania
 § 18.
 1.
 Minimalną dostępność zespołu urządzeń służących do wyprowadzenia mocy określa się przez dostępność projektową, dostępność operacyjną w odniesieniu do mocy przyłączeniowej morskiej farmy wiatrowej i dostępność operacyjną w odniesieniu do wytwarzania energii elektrycznej w morskiej farmie wiatrowej.
@@ -147,8 +153,7 @@ zdarzeń w:
 a)
 systemie przesyłowym lub dystrybucyjnym lub
 b)
-zespole urządzeń służących do wyprowadzenia mocy
-wywołanych działaniem lub zaniechaniem osób trzecich, za które właściciel zespołu urządzeń lub wytwórca nie ponoszą odpowiedzialności.
+zespole urządzeń służących do wyprowadzenia mocy – wywołanych działaniem lub zaniechaniem osób trzecich, za które właściciel zespołu urządzeń lub wytwórca nie ponoszą odpowiedzialności.
 4.
 Dostępność operacyjną oblicza się po raz pierwszy dla części roku kalendarzowego następującej po dniu uzgodnienia planu, o którym mowa w § 22 ust. 3.
 § 22.
@@ -163,10 +168,9 @@ Plan, o którym mowa w ust. 1:
 1)
 wytwórca albo
 2)
-właściciel zespołu urządzeń niebędący wytwórcą, po uprzednim uzgodnieniu z wytwórcą
-uzgadnia z operatorem systemu przesyłowego w terminie do 30 dni przed końcem każdego roku kalendarzowego poprzedzającego rok, dla którego oblicza się minimalną dostępność operacyjną zespołu urządzeń służących do wyprowadzenia mocy.
+właściciel zespołu urządzeń niebędący wytwórcą, po uprzednim uzgodnieniu z wytwórcą – uzgadnia z operatorem systemu przesyłowego w terminie do 30 dni przed końcem każdego roku kalendarzowego poprzedzającego rok, dla którego oblicza się minimalną dostępność operacyjną zespołu urządzeń służących do wyprowadzenia mocy.
 3.
-Pierwszy plan, o którym mowa w ust. 1, uzgadnia się w terminie do 30 dni od dnia wydania przez operatora systemu przesyłowego ostatecznego pozwolenia na użytkowanie (FON) w rozumieniu art. 2 pkt 62 rozporządzenia Komisji (UE) 2016/631 z dnia 14 kwietnia 2016 r. ustanawiającego kodeks sieci dotyczący wymogów w zakresie przyłączenia jednostek wytwórczych do sieci (Dz. Urz. UE L 112 z 27.04.2016, str. 1, z późn. zm.) na pozostałą część roku, następującą po upływie 30 dni od daty wydania ostatecznego pozwolenia na użytkowanie (FON), jeżeli do końca tego roku pozostało więcej niż 60 dni.
+Pierwszy plan, o którym mowa w ust. 1, uzgadnia się w terminie do 30 dni od dnia wydania przez operatora systemu przesyłowego ostatecznego pozwolenia na użytkowanie (FON) w rozumieniu art. 2 pkt 62 rozporządzenia Komisji (UE) 2016/631 z dnia 14 kwietnia 2016 r. ustanawiającego kodeks sieci dotyczący wymogów w zakresie przyłączenia jednostek wytwórczych do sieci (Dz. Urz. UE L 112 z 27.04.2016, str. 1, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 118 z 06.05.2019, str. 10.) na pozostałą część roku, następującą po upływie 30 dni od daty wydania ostatecznego pozwolenia na użytkowanie (FON), jeżeli do końca tego roku pozostało więcej niż 60 dni.
 4.
 Plan, o którym mowa w ust. 1, może być aktualizowany na wniosek właściciela zespołu urządzeń, wytwórcy lub operatora systemu przesyłowego, przy czym nowa wartość parametru k, o którym mowa w § 21 ust. 1 pkt 1, nie może być niższa niż uzgodniona zgodnie z ust. 2.
 5.
@@ -182,6 +186,7 @@ Właściciel zespołu urządzeń niezwłocznie zgłasza do operatora systemu prz
 Wyniki obliczeń dostępności operacyjnej zespołu urządzeń służących do wyprowadzenia mocy oraz dane wejściowe do obliczeń, o których mowa w § 21, zamieszcza się w raporcie.
 2.
 Raport, o którym mowa w ust. 1, sporządza się za dany rok i przekazuje operatorowi systemu przesyłowego w terminie do 30 dni od rozpoczęcia roku kalendarzowego następującego po roku, za który jest sporządzany raport.
+Maksymalna utrata mocy zespołu urządzeń służących do wyprowadzenia mocy
 § 24.
 1.
 Maksymalna utrata mocy z morskiej farmy wiatrowej przez zespół urządzeń służących do wyprowadzenia mocy – w następstwie nieplanowanego lub planowanego wyłączenia pojedynczego urządzenia tego zespołu urządzeń – nie może przekraczać mniejszej z dwóch następujących wartości:
@@ -191,6 +196,8 @@ Maksymalna utrata mocy z morskiej farmy wiatrowej przez zespół urządzeń słu
 incydentalnej utraty generacji mocy czynnej (1100 MW).
 2.
 Przez utratę mocy zespołu urządzeń służących do wyprowadzenia mocy rozumie się ograniczenie zdolności tego zespołu urządzeń do wyprowadzania mocy czynnej z morskiej farmy wiatrowej.
+Wymagania dla elementów stacji elektroenergetycznych, w tym wymagania budowlane
+Projektowanie i budowa elementów stacji elektroenergetycznych
 § 25.
 Elementy stacji elektroenergetycznej zlokalizowanej na lądzie oraz elementy stacji elektroenergetycznej zlokalizowanej na morzu projektuje się i buduje w sposób pozwalający na:
 1)
@@ -212,10 +219,12 @@ Elementy stacji elektroenergetycznej zlokalizowanej na morzu projektuje się i b
 Jeżeli rozdzielnica GIS zainstalowana w stacji elektroenergetycznej zlokalizowanej na lądzie lub w stacji elektroenergetycznej zlokalizowanej na morzu jest wypełniona heksafluorkiem siarki (SF6) i pomieszczenie, w którym jest umieszczona, posiada kanały kablowe, w tych kanałach umieszcza się czujniki gazu SF6. Czujniki te lokalizuje się w sposób pozwalający objąć ich zasięgiem wszystkie miejsca, w których może gromadzić się gaz podczas wycieku z rozdzielnicy GIS.
 2.
 Wytwórca opracowuje sposób usunięcia gazu w przypadku, o którym mowa w ust. 1, oraz sporządza wykaz narzędzi niezbędnych do wykonania tej czynności.
+Minimalny operacyjny czas życia stacji elektroenergetycznej zlokalizowanej na morzu
 § 32.
 Minimalny operacyjny czas życia stacji elektroenergetycznej zlokalizowanej na morzu wynosi 25 lat i jest wskazany w projekcie wykonawczym tej stacji.
 § 33.
 Nie później niż 5 lat przed upływem projektowanego operacyjnego czasu życia stacji elektroenergetycznej zlokalizowanej na morzu wskazanego w projekcie wykonawczym, na podstawie danych technicznych zebranych przez okres dotychczasowej eksploatacji tej stacji oraz badania aktualnego stanu technicznego konstrukcji, w celu oceny możliwości wydłużenia operacyjnego czasu życia tej stacji przeprowadza się ocenę jej stanu technicznego.
+Potrzeby własne stacji elektroenergetycznych
 § 34.
 W stacji elektroenergetycznej zlokalizowanej na lądzie oraz w stacji elektroenergetycznej zlokalizowanej na morzu instaluje się co najmniej dwa w pełni redundantne i niezależne transformatory potrzeb własnych – lub inne urządzenia pełniące równoważną funkcję zasilającą – z których każdy musi być w stanie zasilić 100% potrzeb własnych takiej stacji niezależnie od miejsca ich przyłączenia.
 § 35.
@@ -231,6 +240,7 @@ Zastosowanie zewnętrznego systemu zasilania awaryjnego, w szczególności z wyk
 Jeżeli system zasilania awaryjnego wyposaża się w baterie akumulatorów, baterie te instaluje się w przeznaczonym do tego celu pomieszczeniu z wentylacją i środkami zabezpieczającymi przed pożarem lub wybuchem.
 § 37.
 Dla stacji elektroenergetycznej zlokalizowanej na lądzie oraz dla stacji elektroenergetycznej zlokalizowanej na morzu opracowuje się plan prób układu zasilania awaryjnego.
+System ochrony technicznej stacji elektroenergetycznych
 § 38.
 System ochrony technicznej stacji elektroenergetycznej zlokalizowanej na lądzie oraz stacji elektroenergetycznej zlokalizowanej na morzu projektuje się i wdraża w sposób zapewniający podniesienie poziomu bezpieczeństwa tej stacji oraz personelu przebywającego na terenie tej stacji, minimalizujący ryzyko uszkodzenia znajdującego się na niej wyposażenia oraz zwiększający poziom ochrony informacji wrażliwych i uwzględniający bezpieczeństwo ekip ratowniczych.
 § 39.
@@ -275,6 +285,8 @@ niebezpieczeństwo związane z pożarem, wybuchem lub innym miejscowym zagrożen
 Projektowanie systemu ochrony technicznej stacji elektroenergetycznej zlokalizowanej na lądzie oraz stacji elektroenergetycznej zlokalizowanej na morzu poprzedza się przeprowadzeniem analizy zagrożeń, identyfikacją ryzyka i podatności na te zagrożenia i ryzyka oraz określeniem ich potencjalnych skutków.
 § 43.
 Urządzenia stosowane w ramach systemu ochrony technicznej stacji elektroenergetycznej zlokalizowanej na lądzie lub stacji elektroenergetycznej zlokalizowanej na morzu mają wsparcie techniczne producentów przez okres nie krótszy niż 10 lat od dnia ich uruchomienia na stacji.
+Wymagania dla kablowej linii eksportowej służącej do wyprowadzenia mocy z morskich farm wiatrowych
+Wymagania wspólne dla kablowej linii eksportowej na odcinku lądowym i na odcinku morskim
 § 44.
 1.
 Kablowa linia eksportowa stanowi linię elektroenergetyczną wchodzącą w skład zespołu urządzeń służących do wyprowadzenia mocy.
@@ -306,6 +318,7 @@ eksploatuje się w sposób uniemożliwiający, z wyłączeniem zwarcia, przekroc
 Osprzęt kablowy dobiera się do stosowanego kabla oraz sposobu i miejsca ułożenia kabla.
 § 50.
 Kabel i elementy osprzętu kablowego przeznaczone do zakańczania i łączenia kabla tworzą system kablowy, którego eksploatację poprzedzają zakończone wynikiem pozytywnym badania prekwalifikacyjne i badania typu potwierdzające, że długoterminowe parametry eksploatacyjne systemu kablowego odpowiadają przewidzianemu zastosowaniu.
+Wymagania dla kablowej linii eksportowej na odcinku morskim
 § 51.
 W przypadku gdy jest to technologicznie możliwe, kablową linię eksportową wykonuje się z jednego odcinka kabla lub kabli, bez stosowania połączeń za pomocą osprzętu kablowego służącego do łączenia odcinków kabli, zwanego dalej „mufą kablową”.
 § 52.
@@ -324,6 +337,7 @@ W przypadku ułożenia odcinka przybrzeżnego kablowej linii eksportowej wychodz
 Kablową linię eksportową chroni się przed uszkodzeniami mechanicznymi. W miejscach skrzyżowania ze szlakami żeglugowymi oraz inną infrastrukturą morską stosuje się dodatkowe zabezpieczenie przed uszkodzeniami mechanicznymi, w szczególności przez zastosowanie osłon kablowej linii eksportowej lub zwiększenie głębokości jej pogrążenia w dnie morskim.
 § 57.
 Minimalną odległość między sąsiednimi kablowymi liniami eksportowymi ustala się w sposób umożliwiający wykonanie naprawy uszkodzonego odcinka kabla bez ingerencji w sąsiednią kablową linię eksportową oraz bez wpływu na jej warunki pracy lub możliwość naprawy.
+Wymagania dla kablowej linii eksportowej na odcinku lądowym
 § 58.
 Trasa projektowanej kablowej linii eksportowej uwzględnia istniejącą i planowaną infrastrukturę, a przy jej wyborze uwzględnia się aspekt minimalizacji ryzyka uszkodzenia kabli, swobodny dostęp do elementów kablowej linii eksportowej oraz wymaganą szerokość pasa technologicznego.
 § 59.
@@ -350,12 +364,15 @@ System uziemienia żył powrotnych kabla wybiera się na podstawie przeprowadzon
 Żyły powrotne kabla chroni się ogranicznikami przepięć.
 § 68.
 Kabel światłowodowy towarzyszący kablowej linii eksportowej układa się wzdłuż kablowej linii eksportowej w tym samym wykopie, nad kablową linią eksportową, po zewnętrznej stronie wykopu, chroniąc go przez umieszczenie w rurociągu kablowym. Nad rurociągiem, w połowie głębokości zakopania rurociągu, umieszcza się ostrzegawczą taśmę kablową koloru pomarańczowego z napisem ostrzegawczym powtarzającym się nie rzadziej niż co 1 m.
+Wymagania dla połączenia odcinka morskiego i odcinka lądowego kablowej linii eksportowej
 § 69.
 Połączenia odcinka morskiego i odcinka lądowego kablowej linii eksportowej wykonuje się w sposób zapewniający prawidłowe warunki pracy kabli i osprzętu kablowego.
 § 70.
 Do połączenia odcinka morskiego i odcinka lądowego kablowej linii eksportowej stosuje się mufy kablowe prefabrykowane.
 § 71.
 Mufa kablowa prefabrykowana zapewnia wodoszczelność, umożliwia połączenie kabla światłowodowego umieszczonego w konstrukcji kabla odcinka morskiego z kablem światłowodowym odcinka lądowego oraz umożliwia zamocowanie pancerza-zbrojenia kabla morskiego.
+Wymagania dla urządzeń i układów obwodów wtórnych oraz urządzeń i układów współpracujących z nimi
+Wymagania ogólne
 § 72.
 Urządzenia i układy obwodów wtórnych zapewniają co najmniej:
 1)
@@ -387,7 +404,7 @@ zmniejszenie zakłóceń technologicznych;
 5)
 bezpieczeństwo ludzi i urządzeń w obiektach sieci elektroenergetycznej.
 § 74.
-Całkowity czas eliminacji zwarcia nie może przekraczać czasu określonego w przepisach wykonawczych wydanych na podstawie art. 9 ust. 3 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, z późn. zm.).
+Całkowity czas eliminacji zwarcia nie może przekraczać czasu określonego w przepisach wykonawczych wydanych na podstawie art. 9 ust. 3 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873, 2269, 2271, 2376 i 2490 oraz z 2022 r. poz. 1, 200, 202 i 631.).
 § 75.
 Zapewnia się redundancję funkcjonalną krytycznych układów lub systemów automatyki elektroenergetycznej, w szczególności układów i urządzeń EAZ. W celu zapewnienia niezależności poszczególnych rezerwujących się układów lub systemów automatyki elektroenergetycznej każdy z nich musi być zasilany z oddzielnych obwodów zasilających oraz współpracować z oddzielnymi obwodami pomiarowymi prądowymi i napięciowymi, obwodami napięcia pomocniczego sterowniczego oraz obwodami wyłączającymi.
 § 76.
@@ -483,6 +500,7 @@ b)
 testom dopuszczającym do eksploatacji,
 c)
 okresowym testom w okres eksploatacji.
+Wymagania dotyczące funkcjonalności urządzeń i układów obwodów wtórnych
 § 90.
 1.
 Układy obwodów wtórnych stacji elektroenergetycznych wyposaża się w lokalne źródła czasu zapewniające urządzeniom obwodów wtórnych i urządzeniom z nimi współpracującym możliwość uzyskania synchronizacji czasu z wymaganą przez te urządzenia dokładnością, nie gorszą niż 1 ms.
@@ -689,6 +707,8 @@ System sterowania i regulacji napięcia i mocy biernej morskiej farmy wiatrowej 
 możliwość przyjmowania do realizacji przez system sterowania i regulacji napięcia i mocy biernej morskiej farmy wiatrowej wartości zadanych mocy biernej;
 2)
 kanał komunikacyjny przeznaczony dla nadrzędnego układu regulacji napięcia i mocy biernej.
+Wymagania dla urządzeń i systemów telekomunikacyjnych
+Wymagania ogólne
 § 125.
 1.
 Zespół urządzeń służących do wyprowadzenia mocy, w tym stacje elektroenergetyczne zlokalizowane na lądzie oraz kablowe linie eksportowe, a także stacje elektroenergetyczne zlokalizowane na morzu, wyposaża się w środki łączności umożliwiające realizację wszystkich potrzeb telekomunikacyjnych, w szczególności:
@@ -710,6 +730,7 @@ Urządzenia i systemy telekomunikacyjne w stacjach elektroenergetycznych zlokali
 W stacjach elektroenergetycznych instaluje się urządzenia do transmisji sygnałów elektroenergetycznej automatyki zabezpieczeniowej wykonane zgodnie ze standardami stosowanymi w sieci przesyłowej na obszarze ENTSO-E.
 § 128.
 Urządzenia i systemy telekomunikacyjne stosowane w stacji elektroenergetycznej zlokalizowanej na lądzie lub stacji elektroenergetycznej zlokalizowanej na morzu mają wsparcie techniczne producentów przez okres nie krótszy niż 10 lat od dnia ich uruchomienia na tej stacji.
+Wymagania w zakresie powiązań komunikacyjnych
 § 129.
 1.
 Stacja elektroenergetyczna zlokalizowana na morzu jest połączona ze stacją elektroenergetyczną zlokalizowaną na lądzie przynajmniej dwoma niezależnymi kablami światłowodowymi, z których dwa spełniają warunek redundancji połączeń światłowodowych, a każdy z nich jest zintegrowany z osobnym kablem eksportowym.
@@ -735,6 +756,7 @@ rezerwowej komunikacji ze stacją elektroenergetyczną zlokalizowaną na morzu w
 powiązań między stacjami elektroenergetycznymi zlokalizowanymi na morzu w oparciu o łącza radiowe.
 2.
 Komunikacja radiowa lub satelitarna nie stanowi pełnej redundancji dla połączeń światłowodowych.
+Wymagania w zakresie systemów łączności głosowej
 § 134.
 Stację elektroenergetyczną zlokalizowaną na lądzie oraz stację elektroenergetyczną zlokalizowaną na morzu wyposaża się w podstawowy i rezerwowy system łączności głosowej umożliwiający komunikację z centrami dyspozytorskimi i między stacjami elektroenergetycznymi.
 § 135.
@@ -744,6 +766,7 @@ Do budowy podstawowego systemu łączności głosowej wykorzystuje się przeznac
 Wraz z podstawowym systemem łączności instaluje się zintegrowany z systemem podstawowym system łączności bezprzewodowej wykorzystujący technologie radiowe, obejmujący zasięgiem obszar stacji elektroenergetycznej.
 § 136.
 Do budowy rezerwowego systemu łączności można wykorzystywać satelitarne systemy łączności głosowej, w tym terminale stacjonarne i noszone, lub systemy łączności radiowej przeznaczone dla służb elektroenergetyki.
+Wymagania w zakresie ochrony urządzeń obwodów wtórnych, urządzeń współpracujących z nimi oraz urządzeń telekomunikacyjnych przed czynnikami środowiskowymi
 § 137.
 Urządzenia obwodów wtórnych, urządzenia z nimi współpracujące oraz urządzenia telekomunikacyjne dobiera się do warunków środowiskowych panujących w miejscu ich zainstalowania lub przechowywania.
 § 138.
@@ -759,6 +782,7 @@ obejmuje w szczególności oczyszczanie i filtrowanie powietrza, klimatyzację, 
 zapewnia powstanie w pomieszczeniach warunków środowiskowych zgodnych z wymaganiami dla urządzeń przeznaczonych do pracy lub przechowywania w tych pomieszczeniach;
 3)
 jest wykonywane za pomocą podstawowych i dodatkowych układów kondycjonowania powietrza, przy czym układy dodatkowe zapewniają redundancję umożliwiającą zachowanie warunków środowiskowych, o których mowa w pkt 2, również w przypadku awarii podstawowych układów kondycjonowania powietrza.
+Minimalny zakres ocen, analiz i raportów, o których mowa w art. 82 ust. 5 ustawy
 § 140.
 Minimalny zakres ocen, o których mowa w art. 82 ust. 5 ustawy, obejmuje w szczególności:
 1)
@@ -805,8 +829,7 @@ spadki napięć,
 e)
 parametry oraz lokalizację instalacji urządzeń kompensacyjnych,
 f)
-odpowiedni zakres regulacji przełącznika zaczepów transformatorów instalowanych w stacjach elektroenergetycznych
-które przeprowadza się dla wszystkich odcinków kabla eksportowego, z uwzględnieniem odcinków podejścia kabla eksportowego na ląd oraz odcinka wprowadzenia kabla do stacji elektroenergetycznej zlokalizowanej na lądzie;
+odpowiedni zakres regulacji przełącznika zaczepów transformatorów instalowanych w stacjach elektroenergetycznych – które przeprowadza się dla wszystkich odcinków kabla eksportowego, z uwzględnieniem odcinków podejścia kabla eksportowego na ląd oraz odcinka wprowadzenia kabla do stacji elektroenergetycznej zlokalizowanej na lądzie;
 3)
 analizę zwarciową pozwalającą wyznaczyć:
 a)
@@ -851,6 +874,7 @@ sporządza się przed zakończeniem każdego projektu wykonawczego elementów st
 przekazuje się operatorowi systemu przesyłowego nie później niż 30 dni od dnia zakończenia analizy lub ostatniej analizy z grupy analiz, jeżeli są przeprowadzane równocześnie.
 § 144.
 Minimalny zakres raportów, o których mowa w art. 82 ust. 5 ustawy, oraz terminy ich sporządzania i przekazywania operatorowi systemu przesyłowego jest określony w § 23 i § 149.
+Wymagania w zakresie zabiegów eksploatacyjnych i przeglądów
 § 145.
 Na etapie projektowania zespołu urządzeń służących do wyprowadzenia mocy przeprowadza się ocenę możliwości niezawodnej eksploatacji tego zespołu urządzeń uwzględniającą:
 1)
@@ -880,60 +904,79 @@ plan, o którym mowa w § 146, obejmujący swoim zakresem cały projektowany ope
 2)
 plan, o którym mowa w § 146, oraz wyniki oceny, o której mowa w § 145 – sporządza się i przedkłada operatorowi systemu przesyłowego nie później niż 30 dni przed końcem każdego roku poprzedzającego rok planowanych zabiegów eksploatacyjnych.
 § 150.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 16 lutego 2022 r. pod numerem 2022/094/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parl amentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 118 z 06.05.2019, str. 10. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873, 2269, 2271, 2376 i 2490 oraz z 2022 r. poz. 1, 200, 202 i 631.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 16 lutego 2022 r. pod numerem 2022/094/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parl amentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 118 z 06.05.2019, str. 10. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873, 2269, 2271, 2376 i 2490 oraz z 2022 r. poz. 1, 200, 202 i 631.
 
-#### Rozdział 1 Szczegółowe wymagania dla elementów zespołu urządzeń służących do wyprowadzenia mocy
+#### Rozdział 1 – Szczegółowe wymagania dla elementów zespołu urządzeń służących do wyprowadzenia mocy
 
-##### Oddział 1 Wymagania w zakresie rozdzielnicy wysokiego napięcia izolowanej gazem
+#### Rozdział 2 – Minimalny operacyjny czas życia zespołu urządzeń służących do wyprowadzenia mocy
 
-##### Oddział 2 Wymagania w zakresie urządzeń do kompensacji mocy biernej i regulacji napięcia
+#### Rozdział 3 – Minimalna dostępność i maksymalna utrata mocy zespołu urządzeń służących do wyprowadzenia mocy oraz szczegółowy sposób wyznaczania tej minimalnej dostępności
 
-#### Rozdział 2 Minimalny operacyjny czas życia zespołu urządzeń służących do wyprowadzenia mocy
+#### Rozdział 4 – Wymagania dla elementów stacji elektroenergetycznych, w tym wymagania budowlane
 
-#### Rozdział 3 Minimalna dostępność i maksymalna utrata mocy zespołu urządzeń służących do wyprowadzenia mocy oraz szczegółowy sposób wyznaczania tej minimalnej dostępności
+#### Rozdział 5 – Wymagania dla kablowej linii eksportowej służącej do wyprowadzenia mocy z morskich farm wiatrowych
 
-##### Oddział 1 Minimalna dostępność zespołu urządzeń służących do wyprowadzenia mocy oraz szczegółowy sposób jej wyznaczania
+#### Rozdział 6 – Wymagania dla urządzeń i układów obwodów wtórnych oraz urządzeń i układów współpracujących z nimi
 
-##### Oddział 2 Maksymalna utrata mocy zespołu urządzeń służących do wyprowadzenia mocy
+#### Rozdział 7 – Wymagania dla urządzeń i systemów telekomunikacyjnych
 
-#### Rozdział 4 Wymagania dla elementów stacji elektroenergetycznych, w tym wymagania budowlane
+#### Rozdział 8 – Wymagania w zakresie ochrony urządzeń obwodów wtórnych, urządzeń współpracujących z nimi oraz urządzeń telekomunikacyjnych przed czynnikami środowiskowymi
 
-##### Oddział 1 Projektowanie i budowa elementów stacji elektroenergetycznych
+#### Rozdział 9 – Minimalny zakres ocen, analiz i raportów, o których mowa w art. 82 ust. 5 ustawy
 
-##### Oddział 2 Minimalny operacyjny czas życia stacji elektroenergetycznej zlokalizowanej na morzu
+#### Rozdział 10 – Wymagania w zakresie zabiegów eksploatacyjnych i przeglądów
 
-##### Oddział 3 Potrzeby własne stacji elektroenergetycznych
+#### Rozdział 1
 
-##### Oddział 4 System ochrony technicznej stacji elektroenergetycznych
+##### Oddział 1
 
-#### Rozdział 5 Wymagania dla kablowej linii eksportowej służącej do wyprowadzenia mocy z morskich farm wiatrowych
+##### Oddział 2
 
-##### Oddział 1 Wymagania wspólne dla kablowej linii eksportowej na odcinku lądowym i na odcinku morskim
+#### Rozdział 2
 
-##### Oddział 2 Wymagania dla kablowej linii eksportowej na odcinku morskim
+#### Rozdział 3
 
-##### Oddział 3 Wymagania dla kablowej linii eksportowej na odcinku lądowym
+##### Oddział 1
 
-##### Oddział 4 Wymagania dla połączenia odcinka morskiego i odcinka lądowego kablowej linii eksportowej
+##### Oddział 2
 
-#### Rozdział 6 Wymagania dla urządzeń i układów obwodów wtórnych oraz urządzeń i układów współpracujących z nimi
+#### Rozdział 4
 
-##### Oddział 1 Wymagania ogólne
+##### Oddział 1
 
-##### Oddział 2 Wymagania dotyczące funkcjonalności urządzeń i układów obwodów wtórnych
+##### Oddział 2
 
-#### Rozdział 7 Wymagania dla urządzeń i systemów telekomunikacyjnych
+##### Oddział 3
 
-##### Oddział 1 Wymagania ogólne
+##### Oddział 4
 
-##### Oddział 2 Wymagania w zakresie powiązań komunikacyjnych
+#### Rozdział 5
 
-##### Oddział 3 Wymagania w zakresie systemów łączności głosowej
+##### Oddział 1
 
-#### Rozdział 8 Wymagania w zakresie ochrony urządzeń obwodów wtórnych, urządzeń współpracujących z nimi oraz urządzeń telekomunikacyjnych przed czynnikami środowiskowymi
+##### Oddział 2
 
-#### Rozdział 9 Minimalny zakres ocen, analiz i raportów, o których mowa w art. 82 ust. 5 ustawy
+##### Oddział 3
 
-#### Rozdział 10 Wymagania w zakresie zabiegów eksploatacyjnych i przeglądów
+##### Oddział 4
+
+#### Rozdział 6
+
+##### Oddział 1
+
+##### Oddział 2
+
+#### Rozdział 7
+
+##### Oddział 1
+
+##### Oddział 2
+
+##### Oddział 3
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
 

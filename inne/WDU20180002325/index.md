@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 7 grudnia 2018 r. zmieniające rozporządzenie w sprawie zaświadczeń o uzyskanej wygranej oraz ewidencji zaświadczeń i ewidencji wypłaconych (wydanych) wygranych
+# Rozporządzenie Ministra Finansówz dnia 7 grudnia 2018 r. zmieniające rozporządzenie w sprawie zaświadczeń o uzyskanej wygranej oraz ewidencji zaświadczeń i ewidencji wypłaconych (wydanych) wygranych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-07 |
 | Data wydania | 2018-12-13 |
-| Wejście w życie | 2018-12-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002325) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2325/text.pdf) |
 
@@ -31,14 +30,11 @@ Na podstawie art. 20 ust. 9 ustawy z dnia 19 listopada 2009 r. o grach hazardowy
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 22 czerwca 2010 r. w sprawie zaświadczeń o uzyskanej wygranej oraz ewidencji zaświadczeń i ewidencji wypłaconych (wydanych) wygranych (Dz. U. z 2017 r. poz. 1723) w § 6:
 1)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Ewidencja zaświadczeń jest prowadzona w postaci książkowej. Ewidencja ta może być prowadzona w postaci elektronicznej.
-” ;
+Ewidencja zaświadczeń jest prowadzona w postaci książkowej. Ewidencja ta może być prowadzona w postaci elektronicznej. ” ;
 2)
-po ust. 1 dodaje się ust. 1a-1c w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a-1c w brzmieniu: „
 1a.
 Karty ewidencji prowadzonej w postaci książkowej numeruje się kolejno, przeszywa oraz oznacza danymi podmiotu prowadzącego ewidencję: jego nazwą, adresem i numerem identyfikacji podatkowej.
 1b.
@@ -56,18 +52,15 @@ uniemożliwiała usuwanie wpisów;
 6)
 uniemożliwiała zmianę zamieszczonych informacji bez wykrycia tego zdarzenia przez program.
 1c.
-Podmiot prowadzący ewidencję w postaci elektronicznej przechowuje kopię zapisaną na informatycznym nośniku danych w sposób zapewniający ochronę zamieszczonych informacji przed zniszczeniem lub utratą, z zachowaniem zasad poufności, integralności i dostępności, lub w postaci wydruku.
-” ;
+Podmiot prowadzący ewidencję w postaci elektronicznej przechowuje kopię zapisaną na informatycznym nośniku danych w sposób zapewniający ochronę zamieszczonych informacji przed zniszczeniem lub utratą, z zachowaniem zasad poufności, integralności i dostępności, lub w postaci wydruku. ” ;
 3)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
 Naczelnik urzędu skarbowego właściwy dla miejsca prowadzenia ewidencji zaświadczeń, zwany dalej „właściwym naczelnikiem urzędu skarbowego”, przed rozpoczęciem jej prowadzenia dokonuje poświadczenia ewidencji:
 1)
 przez zarejestrowanie i opatrzenie przeszycia zamknięciem urzędowym – w przypadku ewidencji w postaci książkowej;
 2)
-przez zarejestrowanie – w przypadku ewidencji prowadzonej w postaci elektronicznej.
-” .
+przez zarejestrowanie – w przypadku ewidencji prowadzonej w postaci elektronicznej. ” .
 § 2.
 Do ewidencji zaświadczeń oraz ewidencji wypłaconych (wydanych) wygranych w formie książkowej:
 1)
@@ -75,9 +68,7 @@ prowadzonych przed dniem wejścia w życie niniejszego rozporządzenia,
 2)
 udostępnionych naczelnikowi urzędu skarbowego w celu ich poświadczenia przed dniem wejścia w życie niniejszego rozporządzenia, które zostały sporządzone zgodnie z § 6 ust. 1 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym i nie zostały poświadczone przez opatrzenie przeszycia zamknięciem urzędowym przed dniem wejścia w życie niniejszego rozporządzenia,
 3)
-przedstawionych po zakończeniu wykonywania działalności przez podmiot naczelnikowi urzędu skarbowego przed dniem wejścia w życie niniejszego rozporządzenia, których zamknięcie nie zostało poświadczone przed dniem wejścia w życie niniejszego rozporządzenia
-stosuje się przepisy dotychczasowe.
+przedstawionych po zakończeniu wykonywania działalności przez podmiot naczelnikowi urzędu skarbowego przed dniem wejścia w życie niniejszego rozporządzenia, których zamknięcie nie zostało poświadczone przed dniem wejścia w życie niniejszego rozporządzenia – stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 

@@ -26,15 +26,26 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001464) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1464/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego Rozdział 1 – Przepisy ogólne Rozdział 2 – Postępowanie poprzedzające rozpoczęcie robót budowlanych Rozdział 3 – Nabywanie nieruchomości pod niektóre inwestycje w zakresie lotnisk użytku publicznego Rozdział 4 – Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2023 r. poz. 979), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 2029) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 września 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 60 i art. 76 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 2029), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 60 i art. 76 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 2029), które stanowią: „
+Przepisy ogólne
+Postępowanie poprzedzające rozpoczęcie robót budowlanych
+Nabywanie nieruchomości pod niektóre inwestycje w zakresie lotnisk użytku publicznego
+Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
 Art. 32–36.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Postępowanie poprzedzające rozpoczęcie robót budowlanych
+
+#### Rozdział 3 – Nabywanie nieruchomości pod niektóre inwestycje w zakresie lotnisk użytku publicznego
+
+#### Rozdział 4 – Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
 
 **Art. 60.** Do postępowań w sprawach o wydanie decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 15 w brzmieniu dotychczasowym. ” „
 
@@ -43,7 +54,7 @@ Art. 32–36.
 - **1)** art. 23 pkt 14 i 15, które wchodzą w życie z dniem 31 grudnia 2023 r.;
 - **2)** art. 1 pkt 15 lit. d i e, pkt 16 lit. a tiret pierwsze i drugie, pkt 30 lit. c, pkt 82 lit. c, pkt 99 lit. d, pkt 118 lit. b oraz pkt 121 lit. a i d, art. 3, art. 6 pkt 2, art. 7, art. 8, art. 21 pkt 4 oraz art. 23 pkt 1–13 i 16, które wchodzą w życie z dniem 1 stycznia 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -68,7 +79,7 @@ Art. 32–36.
 - **7)** inwestycja w zakresie lotniska użytku publicznego – budowę, przebudowę lub rozbudowę lotniska użytku publicznego lub urządzeń i obiektów do obsługi ruchu lotniczego;
 - **8)** urządzenia i obiekty do obsługi ruchu lotniczego – urządzenia i obiekty służące do realizacji przez Polską Agencję Żeglugi Powietrznej zadań w zakresie zapewnienia służb żeglugi powietrznej, zarządzania przestrzenią powietrzną oraz zarządzania przepływem ruchu lotniczego, a także lotnicze urządzenia naziemne zarządzającego lotniskiem.
 
-#### Rozdział 2 Postępowanie poprzedzające rozpoczęcie robót budowlanych
+#### Rozdział 2
 
 **Art. 3.** Właściwy wojewoda wydaje decyzję o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego nie później niż w terminie 3 miesięcy od dnia złożenia wniosku przez zakładającego lotnisko, zarządzającego lotniskiem lub Polską Agencję Żeglugi Powietrznej.
 
@@ -93,14 +104,13 @@ Art. 32–36.
 - **7)** decyzję o środowiskowych uwarunkowaniach w rozumieniu przepisów ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112);
 - **7a)** załącznik graficzny określający przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, na który będzie oddziaływać przedsięwzięcie, o ile dołączenie tego załącznika było wymagane przez przepisy obowiązujące w dniu złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, w szczególności mapę, o której mowa w art. 74 ust. 1 pkt 3a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko – w przypadku inwestycji, dla których wydano decyzję o środowiskowych uwarunkowaniach w postępowaniu wymagającym udziału społeczeństwa;
 - **8)** promesę zezwolenia na założenie lotniska, o której mowa w art. 57 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze – w przypadku inwestycji w zakresie lotniska użytku publicznego obejmującej budowę lotniska użytku publicznego;
-- **9)** opinie: Ministra Obrony Narodowej w zakresie realizacji potrzeb obronnych państwa, Prezesa Urzędu Lotnictwa Cywilnego, Polskiej Agencji Żeglugi Powietrznej dotyczącą prognozy, rodzaju i wielkości ruchu pasażerskiego i towarowego z tego lotniska, organizacji ruchu lotniczego na lotnisku i w jego rejonie ze wskazaniem wpływu na ruch prowadzony z istniejących sąsiednich lotnisk, a także odnośnie do rodzaju, sposobu i kosztów zapewniania służb żeglugi powietrznej – w przypadku, gdy wnioskodawcą jest zakładający lotnisko lub zarządzający lotniskiem, ministra właściwego do spraw zdrowia – w odniesieniu do lotnisk użytku publicznego lokalizowanych w miejscowościach uzdrowiskowych, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2023 r. poz. 151, 1688 i 1692) oraz lotnisk użytkowanych przez Samodzielny Publiczny Zakład Opieki Zdrowotnej „Lotnicze Pogotowie Ratunkowe”, dyrektora właściwego urzędu morskiego – w odniesieniu do obszarów pasa technicznego, pasa ochronnego, morskich portów i przystani, właściwego organu nadzoru górniczego – w odniesieniu do terenów górniczych, dyrektora właściwego regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie – w odniesieniu do inwestycji obejmujących wykonanie urządzeń wodnych oraz w odniesieniu do wykonywania obiektów budowlanych lub robót na obszarach bezpośredniego zagrożenia powodzią, dyrektora właściwej regionalnej dyrekcji Lasów Państwowych – w odniesieniu do nieruchomości leśnych stanowiących własność Skarbu Państwa, będących w zarządzie Lasów Państwowych, właściwego wojewódzkiego konserwatora zabytków – w odniesieniu do dóbr kultury chronionych na podstawie odrębnych przepisów, właściwego zarządcy infrastruktury kolejowej – w odniesieniu do linii kolejowej;
+- **9)** opinie: Ministra Obrony Narodowej w zakresie realizacji potrzeb obronnych państwa, Prezesa Urzędu Lotnictwa Cywilnego, Polskiej Agencji Żeglugi Powietrznej dotyczącą prognozy, rodzaju i wielkości ruchu pasażerskiego i towarowego z tego lotniska, organizacji ruchu lotniczego na lotnisku i w jego rejonie ze wskazaniem wpływu na ruch prowadzony z istniejących sąsiednich lotnisk, a także odnośnie do rodzaju, sposobu i kosztów zapewniania służb żeglugi powietrznej – w przypadku, gdy wnioskodawcą jest zakładający lotnisko lub zarządzający lotniskiem, ministra właściwego do spraw zdrowia – w odniesieniu do lotnisk użytku publicznego lokalizowanych w miejscowościach uzdrowiskowych, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2023 r. poz. 151, 1688 i 1692) oraz lotnisk użytkowanych przez Samodzielny Publiczny Zakład Opieki Zdrowotnej „Lotnicze Pogotowie Ratunkowe”, dyrektora właściwego urzędu morskiego – w odniesieniu do obszarów pasa technicznego, pasa ochronnego, morskich portów i przystani, właściwego organu nadzoru górniczego – w odniesieniu do terenów górniczych, fa)Dodana przez art. 15 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 2029), która weszła w życie z dniem 28 października 2023 r. ministra właściwego do spraw środowiska – w odniesieniu do złóż strategicznych, dyrektora właściwego regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie – w odniesieniu do inwestycji obejmujących wykonanie urządzeń wodnych oraz w odniesieniu do wykonywania obiektów budowlanych lub robót na obszarach bezpośredniego zagrożenia powodzią, dyrektora właściwej regionalnej dyrekcji Lasów Państwowych – w odniesieniu do nieruchomości leśnych stanowiących własność Skarbu Państwa, będących w zarządzie Lasów Państwowych, właściwego wojewódzkiego konserwatora zabytków – w odniesieniu do dóbr kultury chronionych na podstawie odrębnych przepisów, właściwego zarządcy infrastruktury kolejowej – w odniesieniu do linii kolejowej;
     - **a)**
     - **b)**
     - **c)**
     - **d)**
     - **e)**
     - **f)**
-    - **fa)** ministra właściwego do spraw środowiska – w odniesieniu do złóż strategicznych,
     - **g)**
     - **h)**
     - **i)**
@@ -222,7 +232,7 @@ Art. 32–36.
 
 2. W zakresie nieuregulowanym w niniejszym rozdziale do postępowania w sprawie decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
-#### Rozdział 3 Nabywanie nieruchomości pod niektóre inwestycje w zakresie lotnisk użytku publicznego
+#### Rozdział 3
 
 **Art. 20.** W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
@@ -335,12 +345,9 @@ Art. 32–36.
 
 3. Koszty, o których mowa w ust. 1, w przypadku inwestycji w zakresie lotniska użytku publicznego Polskiej Agencji Żeglugi Powietrznej pokrywa ta agencja.
 
-#### Rozdział 4 Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
+#### Rozdział 4
 
 **Art. 37.** Dla inwestycji w zakresie lotnisk użytku publicznego, w tym również polegającej na przebudowie lub rozbudowie, rozpoczętych na podstawie dotychczasowych przepisów, dla których przed dniem wejścia w życie niniejszej ustawy nie została wydana decyzja o pozwoleniu na budowę, stosuje się przepisy niniejszej ustawy, na wniosek zakładającego lotnisko, zarządzającego lotniskiem albo Polskiej Agencji Żeglugi Powietrznej złożony do właściwego wojewody nie później niż w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 38.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-
-- **1)** Dodana przez art. 15 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 2029), która weszła w życie z dniem 28 października 2023 r. 2) Ustawa została ogłoszona w dniu 17 marca 2009 r.
-
+**Art. 38.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 17 marca 2009 r.. 1) Dodana przez art. 15 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 2029), która weszła w życie z dniem 28 października 2023 r. 2) Ustawa została ogłoszona w dniu 17 marca 2009 r.
 

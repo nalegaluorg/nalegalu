@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 17 marca 2022 r. w sprawie formatu dokumentu zawierającego wyniki inwentaryzacji przyrodniczej oraz formatu raportu o oddziaływaniu przedsięwzięcia na środowisko
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 17 marca 2022 r. w sprawie formatu dokumentu zawierającego wyniki inwentaryzacji przyrodniczej oraz formatu raportu o oddziaływaniu przedsięwzięcia na środowisko Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-17 |
 | Data wydania | 2022-03-22 |
-| Wejście w życie | 2022-04-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000652) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/652/text.pdf) |
 
@@ -42,6 +41,5 @@ Dokument zawierający wyniki inwentaryzacji przyrodniczej w części kartografic
 § 2.
 Przepisów rozporządzenia nie stosuje się do dokumentów zawierających wyniki inwentaryzacji przyrodniczej oraz raportów o oddziaływaniu przedsięwzięcia na środowisko składanych w ramach postępowań, o których mowa w art. 61 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie miesiąca od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
+Rozporządzenie wchodzi w życie po upływie miesiąca od dnia ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 

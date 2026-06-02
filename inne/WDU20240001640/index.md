@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 5 listopada 2024 r. w sprawie udzielania pomocy publicznej w zakresie wyposażenia pojazdów kolejowych z napędem lub z kabiną sterowniczą w system ERTMS w ramach Krajowego Planu Odbudowy i Zwiększania Odporności
+# Rozporządzenie Ministra Infrastrukturyz dnia 5 listopada 2024 r. w sprawie udzielania pomocy publicznej w zakresie wyposażenia pojazdów kolejowych z napędem lub z kabiną sterowniczą w system ERTMS w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-05 |
 | Data wydania | 2024-11-08 |
-| Wejście w życie | 2024-11-09 |
 | Ostatnia zmiana | 2024-11-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001640) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1640/text.pdf) |
 
@@ -33,8 +32,7 @@ Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania 
 1)
 urządzenie pokładowe Europejskiego Systemu Sterowania Pociągiem (ETCS) oraz Globalnego Systemu Kolejowej Radiokomunikacji Ruchomej (GSM-R) łącznie albo
 2)
-tylko urządzenie pokładowe Europejskiego Systemu Sterowania Pociągiem (ETCS) – w przypadku gdy Globalny System Kolejowej Radiokomunikacji Ruchomej (GSM-R) jest już zainstalowany
-zwany dalej „systemem ERTMS”, w ramach inwestycji E2.2.2 „Cyfryzacja transportu” wskazanej w komponencie E „Zielona, inteligentna mobilność”, objętej Krajowym Planem Odbudowy i Zwiększania Odporności, zwanej dalej „pomocą”, a także podmiot udzielający pomocy.
+tylko urządzenie pokładowe Europejskiego Systemu Sterowania Pociągiem (ETCS) – w przypadku gdy Globalny System Kolejowej Radiokomunikacji Ruchomej (GSM-R) jest już zainstalowany – zwany dalej „systemem ERTMS”, w ramach inwestycji E2.2.2 „Cyfryzacja transportu” wskazanej w komponencie E „Zielona, inteligentna mobilność”, objętej Krajowym Planem Odbudowy i Zwiększania Odporności, zwanej dalej „pomocą”, a także podmiot udzielający pomocy.
 § 2.
 1.
 Pomoc może być udzielona przedsiębiorcy z jednego z państw członkowskich Unii Europejskiej lub Europejskiego Porozumienia o Wolnym Handlu (EFTA), mającemu siedzibę, oddział lub przedstawicielstwo na terytorium Rzeczypospolitej Polskiej, wpisanemu do europejskiego rejestru pojazdów kolejowych (EVR), będącemu właścicielem pojazdu kolejowego z napędem lub z kabiną sterowniczą lub posiadającemu prawo do korzystania z takiego pojazdu kolejowego jako środka transportu, na realizację przedsięwzięcia w zakresie wyposażenia według wzorca 3 (baseline 3) lub wyższego pojazdów kolejowych z napędem lub z kabiną sterowniczą w system ERTMS.
@@ -49,7 +47,7 @@ Pomocy nie udziela się przedsiębiorcy:
 1)
 na którym ciąży obowiązek zwrotu pomocy publicznej wynikający z decyzji Komisji Europejskiej uznającej pomoc publiczną za niezgodną z rynkiem wewnętrznym Unii Europejskiej;
 2)
-znajdującemu się w trudnej sytuacji w rozumieniu pkt 20 komunikatu Komisji – Wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1, z późn. zm.).
+znajdującemu się w trudnej sytuacji w rozumieniu pkt 20 komunikatu Komisji – Wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1, z późn. zm.Zmiany wymienionego komunikatu zostały ogłoszone w Dz. Urz. UE C 224 z 08.07.2020, str. 2 oraz Dz. Urz. UE C/2023/1212 z 29.11.2023.).
 4.
 Przedsiębiorca otrzymuje pomoc, jeżeli:
 1)
@@ -100,6 +98,5 @@ Przedsiębiorca informuje CUPT o innej pomocy publicznej i pomocy de minimis ora
 § 7.
 Pomoc jest udzielana w okresie obowiązywania decyzji Komisji Europejskiej, o której mowa odpowiednio w art. 4 ust. 3 albo art. 9 ust. 3 i 4 rozporządzenia Rady (UE) 2015/1589 z dnia 13 lipca 2015 r. ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 248 z 24.09.2015, str. 9), nie dłużej jednak niż do dnia 30 czerwca 2026 r.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725). 2) Zmiany wymienionego komunikatu zostały ogłoszone w Dz. Urz. UE C 224 z 08.07.2020, str. 2 oraz Dz. Urz. UE C/2023/1212 z 29.11.2023.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725). 2) Zmiany wymienionego komunikatu zostały ogłoszone w Dz. Urz. UE C 224 z 08.07.2020, str. 2 oraz Dz. Urz. UE C/2023/1212 z 29.11.2023.
 

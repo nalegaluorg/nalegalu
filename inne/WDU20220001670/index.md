@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Rozwoju i Technologiiz dnia 12 lipca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju w sprawie standardów technicznych wykonywania geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz opracowywania i przekazywania wyników tych pomiarów do państwowego zasobu geodezyjnego i kartograficznego
+# Obwieszczenie Ministra Rozwoju i Technologiiz dnia 12 lipca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju w sprawie standardów technicznych wykonywania geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz opracowywania i przekazywania wyników tych pomiarów do państwowego zasobu geodezyjnego i kartograficznego Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838).
 
 | Pole | Wartość |
 |---|---|
@@ -26,30 +26,27 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001670) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1670/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Rozwoju z dnia 18 sierpnia 2020 r. w sprawie standardów technicznych wykonywania geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz opracowywania i przekazywania wyników tych pomiarów do państwowego zasobu geodezyjnego i kartograficznego Rozdział 1 – Przepisy ogólne Rozdział 2 – Osnowy pomiarowe Rozdział 3 – Geodezyjne pomiary sytuacyjne i wysokościowe Rozdział 4 – Pomiary dla potrzeb procesu budowlanego Rozdział 5 – Mapa do celów prawnych Rozdział 6 – Mapa do celów projektowych Rozdział 7 – Opracowanie i przekazywanie wyników geodezyjnych pomiarów sytuacyjnych i wysokościowych do zasobu Rozdział 8 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Rozwoju z dnia 18 sierpnia 2020 r. w sprawie standardów technicznych wykonywania geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz opracowywania i przekazywania wyników tych pomiarów do państwowego zasobu geodezyjnego i kartograficznego
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju z dnia 18 sierpnia 2020 r. w sprawie standardów technicznych wykonywania geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz opracowywania i przekazywania wyników tych pomiarów do państwowego zasobu geodezyjnego i kartograficznego (Dz. U. poz. 1429), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rozwoju, Pracy i Technologii z dnia 7 lipca 2021 r. zmieniającym rozporządzenie w sprawie standardów technicznych wykonywania geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz opracowywania i przekazywania wyników tych pomiarów do państwowego zasobu geodezyjnego i kartograficznego (Dz. U. poz. 1304).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–4 rozporządzenia Ministra Rozwoju, Pracy i Technologii z dnia 7 lipca 2021 r. zmieniającego rozporządzenie w sprawie standardów technicznych wykonywania geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz opracowywania i przekazywania wyników tych pomiarów do państwowego zasobu geodezyjnego i kartograficznego (Dz. U. poz. 1304), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–4 rozporządzenia Ministra Rozwoju, Pracy i Technologii z dnia 7 lipca 2021 r. zmieniającego rozporządzenie w sprawie standardów technicznych wykonywania geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz opracowywania i przekazywania wyników tych pomiarów do państwowego zasobu geodezyjnego i kartograficznego (Dz. U. poz. 1304), które stanowią: „
 § 2.
 Dokumentację geodezyjną opatrzoną podpisem zaufanym i przekazaną do państwowego zasobu geodezyjnego i kartograficznego przed dniem wejścia w życie niniejszego rozporządzenia uznaje się za podpisaną zgodnie z przepisami niniejszego rozporządzenia.
 § 3.
 Do zgłoszonych prac geodezyjnych, których wyniki nie zostały przyjęte do państwowego zasobu geodezyjnego i kartograficznego przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838).
-Załącznik – Rozporządzenie Ministra Rozwoju z dnia 18 sierpnia 2020 r. w sprawie standardów technicznych wykonywania geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz opracowywania i przekazywania wyników tych pomiarów do państwowego zasobu geodezyjnego i kartograficznego
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838).
+Załącznik – Rozporządzenie Ministra Rozwoju z dnia 18 sierpnia 2020 r. w sprawie standardów technicznych wykonywania geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz opracowywania i przekazywania wyników tych pomiarów do państwowego zasobu geodezyjnego i kartograficznegoMinister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838).
 Na podstawie art. 19 ust. 1 pkt 11 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa standardy techniczne:
 1)
 wykonywania geodezyjnych pomiarów sytuacyjnych i wysokościowych,
 2)
-opracowywania i przekazywania wyników geodezyjnych pomiarów sytuacyjnych i wysokościowych do państwowego zasobu geodezyjnego i kartograficznego, zwanego dalej „zasobem”
-na potrzeby: ewidencji gruntów i budynków, geodezyjnej ewidencji sieci uzbrojenia terenu, podziałów nieruchomości, typowych postępowań sądowych i administracyjnych, zagospodarowania przestrzennego, budownictwa, w tym geodezyjnej obsługi inwestycji budowlanych.
+opracowywania i przekazywania wyników geodezyjnych pomiarów sytuacyjnych i wysokościowych do państwowego zasobu geodezyjnego i kartograficznego, zwanego dalej „zasobem” – na potrzeby: ewidencji gruntów i budynków, geodezyjnej ewidencji sieci uzbrojenia terenu, podziałów nieruchomości, typowych postępowań sądowych i administracyjnych, zagospodarowania przestrzennego, budownictwa, w tym geodezyjnej obsługi inwestycji budowlanych.
 § 2.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
@@ -81,7 +78,7 @@ Wyniki pomiaru kierunków i kątów przy wykonywaniu geodezyjnych pomiarów sytu
 Geodezyjne pomiary sytuacyjne i wysokościowe wykonuje się w nawiązaniu do punktów poziomej i wysokościowej osnowy geodezyjnej.
 2.
 W przypadku gdy gęstość punktów osnów geodezyjnych jest niewystarczająca do wykonania geodezyjnych pomiarów sytuacyjnych i wysokościowych, pomiary można wykonać w oparciu o osnowę pomiarową nawiązaną do osnowy geodezyjnej.
-2a.
+2aDodany przez § 1 pkt 1 rozporządzenia Ministra Rozwoju, Pracy i Technologii z dnia 7 lipca 2021 r. zmieniającego rozporządzenie w sprawie standardów technicznych wykonywania geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz opracowywania i przekazywania wyników tych pomiarów do państwowego zasobu geodezyjnego i kartograficznego (Dz. U. poz. 1304), które weszło w życie z dniem 31 lipca 2021 r..
 Nie stanowią osnowy pomiarowej punkty pomierzone techniką GNSS, które są wykorzystywane wyłącznie do pomiaru punktu szczegółu terenowego niedostępnego do pomiaru bezpośredniego tą techniką.
 3.
 Przy wykonywaniu geodezyjnych pomiarów sytuacyjnych i wysokościowych związanych z obsługą inwestycji budowlanych może być stosowana osnowa realizacyjna dostosowana, pod względem konstrukcji geometrycznej oraz dokładności położenia jej punktów, do charakteru inwestycji oraz wymagań określonych w dokumentacji budowy.
@@ -135,6 +132,7 @@ Wyniki pomiaru kontrolnego muszą spełniać warunki: dx ≤ 0,12 m i dy ≤ 0,1
 W przypadku wystąpienia odchyłek przekraczających wartości określone w ust. 5, w celu sprawdzenia spójności państwowego systemu odniesień przestrzennych realizowanego przez sieć stacji referencyjnych z układem współrzędnych realizowanym przez punkty osnowy geodezyjnej, wykonuje się pomiar kontrolny na co najmniej dwóch punktach osnowy geodezyjnej.
 7.
 Jeżeli wyniki pomiaru kontrolnego, na co najmniej dwóch punktach osnowy geodezyjnej, wykazują systematyczne odchyłki pomiędzy współrzędnymi, wykonuje się odpowiednią transformację współrzędnych pomierzonych punktów do układu realizowanego przez osnowę geodezyjną, a informację o wykonanej transformacji umieszcza się w sprawozdaniu technicznym.
+Osnowy pomiarowe
 § 10.
 1.
 O geometrycznej konstrukcji osnowy pomiarowej i wyborze metody jej pomiaru decyduje kierownik prac geodezyjnych, biorąc pod uwagę wymagane parametry dokładnościowe punktów tej osnowy oraz cel i zakres wykonywanych pomiarów.
@@ -184,6 +182,7 @@ Podczas zakładania pomiarowej osnowy wysokościowej z wykorzystaniem techniki k
 Wyznaczenie wysokości z wykorzystaniem technik, o których mowa w § 13 pkt 4 i 5, realizowane jest przez wpasowanie matematyczne w oparciu o punkty łączne lub za pomocą przeliczenia wysokości elipsoidalnej do wysokości w państwowym układzie wysokościowym z uwzględnieniem obowiązującego modelu quasigeoidy.
 5.
 Miarą dokładności pomiarowej osnowy wysokościowej są błędy średnie wysokości jej punktów po wyrównaniu, a w przypadku zakładania osnowy pomiarowej technikami kinematycznymi GNSS – dokładność wykorzystanego serwisu pozycjonowania.
+Geodezyjne pomiary sytuacyjne i wysokościowe
 § 15.
 Przedmiotem geodezyjnych pomiarów sytuacyjnych i wysokościowych są szczegóły terenowe, w szczególności stanowiące treść mapy zasadniczej.
 § 16.
@@ -283,6 +282,7 @@ Geodezyjny pomiar wysokościowy wykonuje się w sposób zapewniający określeni
 0,05 m – dla obiektów budowlanych i urządzeń budowlanych oraz pikiet markowanych w terenie;
 3)
 0,1 m – dla budowli ziemnych, elastycznych lub mierzonych elektromagnetycznie podziemnych obiektów sieci uzbrojenia terenu oraz pikiet niemarkowanych w terenie.
+Pomiary dla potrzeb procesu budowlanego
 § 21.
 1.
 Tyczenie obiektów budowlanych oraz geodezyjną obsługę budowy i montażu obiektów budowlanych wykonuje się w szczególności na podstawie wyników geodezyjnego opracowania:
@@ -330,6 +330,7 @@ Wykonanie czynności, o których mowa ust. 1 pkt 1 i 2, geodeta uprawniony potwi
 W razie stwierdzenia rozbieżności między wynikami pomiarów a ustaleniami projektu budowlanego fakt ten należy odnotować w dzienniku budowy lub dzienniku montażu oraz udokumentować szkicami.
 5.
 Dokumentację geodezyjną sporządzaną na poszczególnych etapach budowy przekazuje się kierownikowi budowy, a jeżeli nie został ustanowiony – inwestorowi.
+Mapa do celów prawnych
 § 24.
 1.
 Na potrzeby podziałów nieruchomości, typowych postępowań sądowych i administracyjnych sporządza się:
@@ -357,7 +358,7 @@ inne opracowania geodezyjne do celów prawnych;
 rejestry lub wykazy zawierające dane dotyczące gruntów lub ich części składowych.
 2.
 Mapę do celów prawnych sporządza się w skali dostosowanej do obszaru objętego opracowaniem, zapewniającej czytelność rysunku mapy, nie mniejszej niż 1:5000.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Dokumenty, o których mowa w ust. 1, kierownik prac geodezyjnych opatruje podpisem własnoręcznym, a w przypadku sporządzenia opracowań w postaci elektronicznej – kwalifikowanym podpisem elektronicznym, podpisem osobistym albo podpisem zaufanym, jeżeli możliwości techniczne podpisu zaufanego na to pozwalają.
 § 25.
 Przy opracowywaniu dokumentów, o których mowa w § 24 ust. 1, wykorzystuje się wyniki wykonanych pomiarów geodezyjnych oraz informacje zawarte w:
@@ -379,7 +380,7 @@ Na treść mapy do celów prawnych składają się:
 informacje określające przebieg granic działek ewidencyjnych w powiązaniu z granicami działek sąsiednich oraz użytków gruntowych i konturów klasyfikacyjnych;
 2)
 numery działek ewidencyjnych, a także oznaczenia użytków gruntowych i konturów klasyfikacyjnych;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.)
 dane określające zasięg i rodzaj istniejących lub projektowanych służebności gruntowych, z wyłączeniem map, o których mowa w § 24 ust. 1 pkt 1 lit. f;
 4)
 istotne dla przedmiotu opracowania szczegóły terenowe.
@@ -424,6 +425,7 @@ imię, nazwisko oraz numer uprawnień zawodowych kierownika prac geodezyjnych;
 data opracowania mapy.
 § 29.
 Przepisy niniejszego rozdziału stosuje się przy opracowywaniu map, o których mowa w § 24 ust. 1 pkt 1 lit. a i b, w zakresie nieuregulowanym przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz przepisami wydanymi na podstawie art. 100 i art. 108 tej ustawy.
+Mapa do celów projektowych
 § 30.
 1.
 Mapę do celów projektowych wykonuje się dla obszaru wskazanego w zgłoszeniu prac geodezyjnych obejmującego obszar niezbędny do sporządzenia dokumentacji projektowej.
@@ -437,7 +439,7 @@ wyniki wykonanych pomiarów;
 opracowania planistyczne;
 4)
 inne dokumenty lub informacje dotyczące obszaru projektowanego zamierzenia budowlanego lub terenów sąsiednich, jeżeli mają znaczenie dla zamierzenia budowlanego.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Mapę do celów projektowych kierownik prac geodezyjnych opatruje podpisem własnoręcznym, a w przypadku sporządzenia mapy do celów projektowych w postaci elektronicznej – kwalifikowanym podpisem elektronicznym, podpisem osobistym albo podpisem zaufanym, jeżeli możliwości techniczne podpisu zaufanego na to pozwalają.
 § 31.
 1.
@@ -445,8 +447,7 @@ W przypadku gdy w zamierzeniu budowlanym przewiduje się usytuowanie:
 1)
 budynków w odległości mniejszej lub równej 4 m lub
 2)
-innych obiektów budowlanych w odległości mniejszej lub równej 3 m
-od granicy nieruchomości, a w zasobie brak jest danych określających położenie punktów granicznych tej granicy z dokładnością właściwą dla szczegółów terenowych I grupy, wykonawca określa położenie tych punktów w drodze pomiaru.
+innych obiektów budowlanych w odległości mniejszej lub równej 3 m – od granicy nieruchomości, a w zasobie brak jest danych określających położenie punktów granicznych tej granicy z dokładnością właściwą dla szczegółów terenowych I grupy, wykonawca określa położenie tych punktów w drodze pomiaru.Część wspólna ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
 2.
 W przypadku gdy punkty graniczne nie są oznaczone na gruncie znakami granicznymi lub nie stanowią jednoznacznie identyfikowalnych elementów szczegółów terenowych, pomiar, o którym mowa w ust. 1, wykonawca poprzedza czynnościami mającymi na celu ustalenie przebiegu granic działek ewidencyjnych w trybie przepisów wydanych na podstawie art. 26 ust. 2 ustawy.
 § 32.
@@ -480,6 +481,7 @@ oznaczenie układu współrzędnych prostokątnych płaskich oraz układu wysoko
 określenie obszaru, który był przedmiotem aktualizacji;
 11)
 data oraz imię i nazwisko osoby, która opracowała mapę.
+Opracowanie i przekazywanie wyników geodezyjnych pomiarów sytuacyjnych i wysokościowych do zasobu
 § 34.
 1.
 Opracowanie wyników geodezyjnych pomiarów sytuacyjnych i wysokościowych obejmuje wykonanie analiz i obliczeń niezbędnych do zrealizowania celu prac.
@@ -492,7 +494,7 @@ dokumentację sporządza się z zastosowaniem oznaczeń i symboli graficznych w�
 § 35.
 1.
 Dokumentację zawierającą wyniki geodezyjnych pomiarów sytuacyjnych i wysokościowych powstałą w wyniku prac geodezyjnych podlegających obowiązkowi zgłoszenia do organu Służby Geodezyjnej i Kartograficznej oraz wyniki opracowania tych pomiarów kompletuje się w postaci operatu technicznego i przekazuje do organu łącznie z plikami danych służących do aktualizacji odpowiednich baz danych zasobu.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2..
 Operat techniczny sporządza się w postaci jednego dokumentu elektronicznego w formacie PDF opatrzonego przez kierownika prac geodezyjnych kwalifikowanym podpisem elektronicznym, podpisem osobistym albo podpisem zaufanym, jeżeli możliwości techniczne podpisu zaufanego na to pozwalają.
 3.
 Podpisanie operatu przez kierownika prac geodezyjnych oznacza jednocześnie poświadczenie przez niego za zgodność z oryginałem kopii dokumentów wchodzących w skład operatu w rozumieniu art. 42 ust. 4 ustawy.
@@ -522,13 +524,13 @@ spis treści;
 sprawozdanie techniczne;
 3)
 dokumentację osnowy pomiarowej, jeżeli taka osnowa była założona;
-4)
+4W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 mapę porównania z terenem;
-5)
+5W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 wykazy pomierzonych lub obliczonych współrzędnych punktów szczegółów terenowych, a także szkice jednoznacznie ilustrujące rozmieszczenie tych punktów i powiązanych z nimi szczegółów terenowych;
 6)
 poświadczone za zgodność z oryginałem kopie protokołów, aktów ugody, dowodów doręczeń zawiadomień, dowodów doręczeń wezwań, jeżeli takie dokumenty powstały;
-7)
+7W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 w przypadku przeprowadzania gleboznawczej klasyfikacji gruntów – poświadczoną za zgodność z oryginałem kopię protokołu klasyfikacyjnego oraz opisy odkrywek glebowych;
 8)
 poświadczone za zgodność z oryginałem kopie innych dokumentów niepochodzących z zasobu, które zostały wykorzystane przez wykonawcę;
@@ -596,7 +598,7 @@ c)
 projektowanych i nowo utworzonych w ramach realizacji prac geodezyjnych;
 3)
 wykazu zmian danych ewidencyjnych.
-§ 40.
+§ 40W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Modyfikacji współrzędnych punktów granicznych dokonuje się w wyniku analizy dokumentacji zasobu stanowiącej podstawę wykazywania przebiegu granic działek ewidencyjnych w ewidencji gruntów i budynków, uzupełnionej czynnościami geodezyjnymi wykonanymi w terenie, uznanymi przez kierownika prac geodezyjnych za niezbędne do określenia współrzędnych punktów granicznych na podstawie tej dokumentacji.
 2.
@@ -614,6 +616,7 @@ Wykazanie w dokumentach będących wynikiem prac geodezyjnych pola powierzchni d
 Obliczone na podstawie wyników geodezyjnych pomiarów sytuacyjnych pola powierzchni użytków gruntowych i konturów klasyfikacyjnych w granicach działki ewidencyjnej wyrównuje się do pola powierzchni tej działki i wykazuje się z taką samą precyzją zapisu, jak pole powierzchni działki ewidencyjnej.
 3.
 Pola powierzchni zabudowy budynków przewidzianych do ujawnienia w ewidencji gruntów i budynków oblicza się na podstawie numerycznego opisu konturu tych budynków i podaje się w metrach kwadratowych z precyzją zapisu do 1 m2.
+Przepisy przejściowe i końcowe
 § 42.
 1.
 Dla prac geodezyjnych zgłoszonych od dnia 31 lipca 2020 r. dopuszcza się zamiast plików w formacie GML, o których mowa w § 35 ust. 4, przekazywanie danych do aktualizacji baz danych zasobu w postaci plików w formacie uzgodnionym między wykonawcą a organem prowadzącym zasób, nie dłużej jednak niż do dnia 31 grudnia 2022 r.
@@ -624,22 +627,37 @@ Dla prac geodezyjnych zgłoszonych od dnia 31 lipca 2020 r. dopuszcza się przek
 4.
 Do prac geodezyjnych zgłoszonych od dnia 31 lipca 2020 r., których wyniki nie zostały przyjęte do państwowego zasobu geodezyjnego i kartograficznego przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 43.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838). 2) Dodany przez § 1 pkt 1 rozporządzenia Ministra Rozwoju, Pracy i Technologii z dnia 7 lipca 2021 r. zmieniającego rozporządzenie w sprawie standardów technicznych wykonywania geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz opracowywania i przekazywania wyników tych pomiarów do państwowego zasobu geodezyjnego i kartograficznego (Dz. U. poz. 1304), które weszło w życie z dniem 31 lipca 2021 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) Część wspólna ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 11) Rozporządzenie zostało ogłoszone w dniu 21 sierpnia 2020 r. 12) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 9 listopada 2011 r. w sprawie standardów technicznych wykonywania geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz opracowywania i przekazywania wyników tych pomiarów do państwowego zasobu geodezyjnego i kartograficznego (Dz. U. poz. 1572), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 19 ustawy z dnia 16 kwietnia 2020 r. o zmianie ustawy – Prawo geodezyjne i kartograficzne oraz niektórych innych ustaw (Dz. U. poz. 782).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 21 sierpnia 2020 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 9 listopada 2011 r. w sprawie standardów technicznych wykonywania geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz opracowywania i przekazywania wyników tych pomiarów do państwowego zasobu geodezyjnego i kartograficznego (Dz. U. poz. 1572), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 19 ustawy z dnia 16 kwietnia 2020 r. o zmianie ustawy – Prawo geodezyjne i kartograficzne oraz niektórych innych ustaw (Dz. U. poz. 782). 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838). 2) Dodany przez § 1 pkt 1 rozporządzenia Ministra Rozwoju, Pracy i Technologii z dnia 7 lipca 2021 r. zmieniającego rozporządzenie w sprawie standardów technicznych wykonywania geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz opracowywania i przekazywania wyników tych pomiarów do państwowego zasobu geodezyjnego i kartograficznego (Dz. U. poz. 1304), które weszło w życie z dniem 31 lipca 2021 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) Część wspólna ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 11) Rozporządzenie zostało ogłoszone w dniu 21 sierpnia 2020 r. 12) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 9 listopada 2011 r. w sprawie standardów technicznych wykonywania geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz opracowywania i przekazywania wyników tych pomiarów do państwowego zasobu geodezyjnego i kartograficznego (Dz. U. poz. 1572), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 19 ustawy z dnia 16 kwietnia 2020 r. o zmianie ustawy – Prawo geodezyjne i kartograficzne oraz niektórych innych ustaw (Dz. U. poz. 782).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Osnowy pomiarowe
+#### Rozdział 2 – Osnowy pomiarowe
 
-#### Rozdział 3 Geodezyjne pomiary sytuacyjne i wysokościowe
+#### Rozdział 3 – Geodezyjne pomiary sytuacyjne i wysokościowe
 
-#### Rozdział 4 Pomiary dla potrzeb procesu budowlanego
+#### Rozdział 4 – Pomiary dla potrzeb procesu budowlanego
 
-#### Rozdział 5 Mapa do celów prawnych
+#### Rozdział 5 – Mapa do celów prawnych
 
-#### Rozdział 6 Mapa do celów projektowych
+#### Rozdział 6 – Mapa do celów projektowych
 
-#### Rozdział 7 Opracowanie i przekazywanie wyników geodezyjnych pomiarów sytuacyjnych i wysokościowych do zasobu
+#### Rozdział 7 – Opracowanie i przekazywanie wyników geodezyjnych pomiarów sytuacyjnych i wysokościowych do zasobu
 
-#### Rozdział 8 Przepisy przejściowe i końcowe
+#### Rozdział 8 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

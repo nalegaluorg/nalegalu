@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 29 października 2010 r. o zmianie ustawy o podatku akcyzowym
+# Ustawa z dnia 29 października 2010 r. o zmianie ustawy o podatku akcyzowym Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2010/12/UE z dnia 16 lutego 2010 r. zmieniającej dyrektywy 92/79/EWG, 92/80/EWG i 95/59/WE w zakresie struktury oraz stawek podatku akcyzowego stosowanego do wyrobów tytoniowych oraz dyrektywę 2008/118/WE (Dz. Urz. UE L 50 z 27.02.2010, str. 1, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-10-29 |
 | Data wydania | 2010-11-30 |
-| Wejście w życie | 2011-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102261477) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1477/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2009 r. Nr 3, poz. 11, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2009 r. Nr 3, poz. 11, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 98, poz. 819, Nr 168, poz. 1323 i Nr 215, poz. 1667 oraz z 2010 r. Nr 21, poz. 104 i Nr 151, poz. 1013.) wprowadza się następujące zmiany:
 
 - **1)** w art. 98: ust. 3 otrzymuje brzmienie: „
     - **a)**
@@ -46,7 +45,7 @@ source: "eli-html"
 4. Za cygara lub cygaretki, biorąc pod uwagę ich właściwości i zwykłe oczekiwania konsumentów, uznaje się:
 
 - **1)** tytoń zrolowany o zewnętrznym owinięciu z naturalnego tytoniu,
-- **2)** tytoń zrolowany z poszarpanym, wymieszanym wkładem, owinięty liściem tytoniu w naturalnym kolorze cygara z odtworzonego tytoniu pokrywającym produkt w całości, łącznie z filtrem, tam gdzie zachodzi taka konieczność, ale nie ustnik, w przypadku cygar z ustnikiem, gdzie waga sztuki, wyłączając filtr lub ustnik, wynosi nie mniej niż 2,3 grama i nie więcej niż 10 gramów, a obwód równy przynajmniej jednej trzeciej długości wynosi nie mniej niż 34 milimetry jeżeli są oraz mogą być przeznaczone wyłącznie do palenia w stanie niezmienionym. ” , w ust. 5 pkt 2 otrzymuje brzmienie: „
+- **2)** tytoń zrolowany z poszarpanym, wymieszanym wkładem, owinięty liściem tytoniu w naturalnym kolorze cygara z odtworzonego tytoniu pokrywającym produkt w całości, łącznie z filtrem, tam gdzie zachodzi taka konieczność, ale nie ustnik, w przypadku cygar z ustnikiem, gdzie waga sztuki, wyłączając filtr lub ustnik, wynosi nie mniej niż 2,3 grama i nie więcej niż 10 gramów, a obwód równy przynajmniej jednej trzeciej długości wynosi nie mniej niż 34 milimetry – jeżeli są oraz mogą być przeznaczone wyłącznie do palenia w stanie niezmienionym. ” , w ust. 5 pkt 2 otrzymuje brzmienie: „
     - **d)**
 
 - **2)** odpady tytoniowe będące pozostałościami liści tytoniu i produktami ubocznymi uzyskanymi podczas przetwarzania tytoniu lub produkcji wyrobów tytoniowych, oddane do sprzedaży detalicznej, niebędące papierosami, cygarami lub cygaretkami, a nadające się do palenia. ” , uchyla się ust. 6, ust. 7 otrzymuje brzmienie: „
@@ -89,7 +88,7 @@ source: "eli-html"
 11. Producent, importer, podmiot dokonujący nabycia wewnątrzwspólnotowego papierosów lub tytoniu do palenia są obowiązani do sporządzania i przekazywania ministrowi właściwemu do spraw finansów publicznych informacji o liczbie znajdujących się poza procedurą zawieszenia poboru akcyzy papierosów poszczególnych marek i ilości tytoniu do palenia oznaczonych maksymalną ceną detaliczną w okresie:
 
 - **1)** pierwszych 10 miesięcy roku kalendarzowego,
-- **2)** roku kalendarzowego poprzedzających rok kalendarzowy, na który są obliczane średnie ważone detaliczne ceny sprzedaży.
+- **2)** roku kalendarzowego – poprzedzających rok kalendarzowy, na który są obliczane średnie ważone detaliczne ceny sprzedaży.
 
 12. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, termin, formę przekazywania oraz zakres informacji, o których mowa w ust. 11, uwzględniając potrzebę ustalenia średniej ważonej detalicznej ceny sprzedaży papierosów oraz średniej ważonej detalicznej ceny sprzedaży tytoniu do palenia.
 
@@ -105,5 +104,5 @@ source: "eli-html"
 
 2. Minister właściwy do spraw finansów publicznych ogłosi do dnia 31 grudnia 2010 r., w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, średnią ważoną detaliczną cenę sprzedaży papierosów na potrzeby ustalenia minimalnej stawki akcyzy na papierosy na rok 2011.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2011 r., z wyjątkiem art. 1 pkt 2 lit. d w zakresie art. 99 ust. 5a-5c ustawy wymienionej w art. 1 oraz art. 2, które wchodzą w życie z dniem ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2011 r., z wyjątkiem art. 1 pkt 2 lit. d w zakresie art. 99 ust. 5a-5c ustawy wymienionej w art. 1 oraz art. 2, które wchodzą w życie z dniem ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2010/12/UE z dnia 16 lutego 2010 r. zmieniającej dyrektywy 92/79/EWG, 92/80/EWG i 95/59/WE w zakresie struktury oraz stawek podatku akcyzowego stosowanego do wyrobów tytoniowych oraz dyrektywę 2008/118/WE (Dz. Urz. UE L 50 z 27.02.2010, str. 1, z późn. zm.). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 98, poz. 819, Nr 168, poz. 1323 i Nr 215, poz. 1667 oraz z 2010 r. Nr 21, poz. 104 i Nr 151, poz. 1013.
 

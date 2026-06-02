@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 listopada 2014 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw
+# Ustawa z dnia 28 listopada 2014 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji oraz ustawę z dnia 14 grudnia 2012 r. o odpadach.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-28 |
 | Data wydania | 2015-01-17 |
-| Wejście w życie | 2015-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000087) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/87/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2013 r. poz. 1399 i 1593) wprowadza się następujące zmiany:
 
-- **1)** art. 1a otrzymuje brzmienie: „ W sprawach dotyczących postępowania z odpadami komunalnymi w zakresie nieuregulowanym w niniejszej ustawie stosuje się przepisy ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.). ” ;
+- **1)** art. 1a otrzymuje brzmienie: „ W sprawach dotyczących postępowania z odpadami komunalnymi w zakresie nieuregulowanym w niniejszej ustawie stosuje się przepisy ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238, z 2014 r. poz. 695, 1101 i 1322 oraz z 2015 r. poz. 87.). ” ;
 - **2)** w art. 2: po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **a)**
 
@@ -49,8 +48,12 @@ source: "eli-html"
 
 3b. Osoba, której służy spółdzielcze prawo do lokalu, lub osoba faktycznie zamieszkująca lokal należący do spółdzielni mieszkaniowej nie jest obowiązana do wykonywania obowiązków właściciela nieruchomości wynikających z ustawy. ” ;
 
-- **3)** w art. 3: w ust. 2: – w pkt 2 lit. a otrzymuje brzmienie: „ a) regionalnych instalacji do przetwarzania odpadów komunalnych – o ile obowiązek budowy takich instalacji wynika z wojewódzkiego planu gospodarki odpadami, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach, ” , – pkt 6 otrzymuje brzmienie: „ 6) tworzą punkty selektywnego zbierania odpadów komunalnych w sposób zapewniający łatwy dostęp dla wszystkich mieszkańców gminy, które zapewniają przyjmowanie co najmniej takich odpadów komunalnych jak: przeterminowane leki i chemikalia, zużyte baterie i akumulatory, zużyty sprzęt elektryczny i elektroniczny, meble i inne odpady wielkogabarytowe, zużyte opony, odpady zielone oraz odpady budowlane i rozbiórkowe stanowiące odpady komunalne, a także odpadów komunalnych określonych w przepisach wydanych na podstawie art. 4a; ” , – pkt 10 otrzymuje brzmienie: „ 10) dokonują corocznej analizy stanu gospodarki odpadami komunalnymi, w celu weryfikacji możliwości technicznych i organizacyjnych gminy w zakresie gospodarowania odpadami komunalnymi; ” , po ust. 2a dodaje się ust. 2b w brzmieniu: „
+- **3)** w art. 3: w ust. 2: w pkt 2 lit. a otrzymuje brzmienie: „ regionalnych instalacji do przetwarzania odpadów komunalnych – o ile obowiązek budowy takich instalacji wynika z wojewódzkiego planu gospodarki odpadami, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach, ” , pkt 6 otrzymuje brzmienie: „
     - **a)**
+    - **a)**
+
+- **6)** tworzą punkty selektywnego zbierania odpadów komunalnych w sposób zapewniający łatwy dostęp dla wszystkich mieszkańców gminy, które zapewniają przyjmowanie co najmniej takich odpadów komunalnych jak: przeterminowane leki i chemikalia, zużyte baterie i akumulatory, zużyty sprzęt elektryczny i elektroniczny, meble i inne odpady wielkogabarytowe, zużyte opony, odpady zielone oraz odpady budowlane i rozbiórkowe stanowiące odpady komunalne, a także odpadów komunalnych określonych w przepisach wydanych na podstawie art. 4a; ” , pkt 10 otrzymuje brzmienie: „
+- **10)** dokonują corocznej analizy stanu gospodarki odpadami komunalnymi, w celu weryfikacji możliwości technicznych i organizacyjnych gminy w zakresie gospodarowania odpadami komunalnymi; ” , po ust. 2a dodaje się ust. 2b w brzmieniu: „
     - **b)**
 
 2b. Gmina jest obowiązana utworzyć co najmniej jeden stacjonarny punkt selektywnego zbierania odpadów komunalnych, samodzielnie lub wspólnie z inną gminą lub gminami. ” ;
@@ -69,13 +72,13 @@ source: "eli-html"
 **Art. 4a.** Minister właściwy do spraw środowiska może określić, w drodze rozporządzenia:
 
 - **1)** szczegółowy sposób selektywnego zbierania wybranych frakcji odpadów oraz kiedy wymóg selektywnego zbierania uważa się za spełniony,
-- **2)** odpady komunalne podlegające obowiązkowi selektywnego zbierania spośród wskazanych w art. 3b ust. 1 i art. 3c ust. 1 kierując się potrzebą ujednolicenia wymagań w zakresie zbierania i odbierania odpadów komunalnych oraz uzyskania wymaganych poziomów recyklingu, przygotowania do ponownego użycia i odzysku innymi metodami odpadów komunalnych oraz ograniczenia masy odpadów komunalnych przekazywanych do składowania. ” ;
+- **2)** odpady komunalne podlegające obowiązkowi selektywnego zbierania spośród wskazanych w art. 3b ust. 1 i art. 3c ust. 1 – kierując się potrzebą ujednolicenia wymagań w zakresie zbierania i odbierania odpadów komunalnych oraz uzyskania wymaganych poziomów recyklingu, przygotowania do ponownego użycia i odzysku innymi metodami odpadów komunalnych oraz ograniczenia masy odpadów komunalnych przekazywanych do składowania. ” ;
 - **7)** w art. 5 w ust. 1 pkt 3 otrzymuje brzmienie: „
 - **3)** zbieranie powstałych na terenie nieruchomości odpadów komunalnych zgodnie z wymaganiami określonymi w regulaminie i przepisach wydanych na podstawie art. 4a; ” ;
 - **8)** w art. 6: ust. 1b otrzymuje brzmienie: „
     - **a)**
 
-1b. Jeżeli jest to podyktowane koniecznością ochrony informacji niejawnych, jednostki organizacyjne posiadające nieruchomości stanowiące teren zamknięty w rozumieniu ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2010 r. Nr 193, poz. 1287, z późn. zm.), ustalone przez Ministra Obrony Narodowej, mogą nie zawierać umowy na odbieranie odpadów komunalnych. W takim przypadku jednostka organizacyjna jest obowiązana do samodzielnego i zgodnego z regulaminem oraz przepisami wydanymi na podstawie art. 4a pozbywania się odpadów komunalnych wytworzonych na terenie zamkniętym. ” , ust. 4 otrzymuje brzmienie: „
+1b. Jeżeli jest to podyktowane koniecznością ochrony informacji niejawnych, jednostki organizacyjne posiadające nieruchomości stanowiące teren zamknięty w rozumieniu ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2010 r. Nr 193, poz. 1287, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 805, 829 i 1635 oraz z 2014 r. poz. 897.), ustalone przez Ministra Obrony Narodowej, mogą nie zawierać umowy na odbieranie odpadów komunalnych. W takim przypadku jednostka organizacyjna jest obowiązana do samodzielnego i zgodnego z regulaminem oraz przepisami wydanymi na podstawie art. 4a pozbywania się odpadów komunalnych wytworzonych na terenie zamkniętym. ” , ust. 4 otrzymuje brzmienie: „
 
 - **b)**
 
@@ -83,7 +86,7 @@ source: "eli-html"
 
 - **c)**
 
-12. Do opłat stosuje się przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.), z tym że uprawnienia organów podatkowych przysługują wójtowi, burmistrzowi lub prezydentowi miasta. ” ;
+12. Do opłat stosuje się przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289 oraz z 2014 r. poz. 183, 567, 915, 1171, 1215, 1328 i 1644.), z tym że uprawnienia organów podatkowych przysługują wójtowi, burmistrzowi lub prezydentowi miasta. ” ;
 
 - **9)** w art. 6c dodaje się ust. 3 i 4 w brzmieniu: „
 
@@ -147,7 +150,7 @@ source: "eli-html"
 
 3. Rada gminy określi wyższe stawki opłaty za gospodarowanie odpadami komunalnymi, jeżeli odpady komunalne nie są w sposób selektywny zbierane i odbierane, nie wyższe jednak niż maksymalne stawki opłat, które wynoszą odpowiednio dwukrotną wysokość maksymalnej stawki opłaty określonej w ust. 2a za odpady komunalne zbierane i odbierane w sposób selektywny.
 
-4. Rada gminy, w drodze uchwały, może zwolnić w całości lub w części z opłaty za gospodarowanie odpadami komunalnymi właścicieli nieruchomości, na których zamieszkują mieszkańcy, w części dotyczącej gospodarstw domowych, w których dochód nie przekracza kwoty uprawniającej do świadczeń pieniężnych z pomocy społecznej, o której mowa w art. 8 ust. 1 lub 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm.). ” , dodaje się ust. 5 w brzmieniu: „
+4. Rada gminy, w drodze uchwały, może zwolnić w całości lub w części z opłaty za gospodarowanie odpadami komunalnymi właścicieli nieruchomości, na których zamieszkują mieszkańcy, w części dotyczącej gospodarstw domowych, w których dochód nie przekracza kwoty uprawniającej do świadczeń pieniężnych z pomocy społecznej, o której mowa w art. 8 ust. 1 lub 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 509 i 1650 oraz z 2014 r. poz. 567, 598, 1004, 1146 i 1188. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2012 r. poz. 1544 i 1548.). ” , dodaje się ust. 5 w brzmieniu: „
 
 - **d)**
 
@@ -209,7 +212,7 @@ source: "eli-html"
 
 2. Przepis ust. 1 stosuje się odpowiednio do zarządu związku międzygminnego w przypadku przejęcia przez ten związek zadań gminy, o których mowa w art. 3 ust. 2, w zakresie gospodarowania odpadami komunalnymi.
 
-3. Do porozumień, o których mowa w ust. 1 i 2, stosuje się odpowiednio art. 8 ust. 2b-5 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2013 r. poz. 594, z późn. zm.).
+3. Do porozumień, o których mowa w ust. 1 i 2, stosuje się odpowiednio art. 8 ust. 2b-5 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2013 r. poz. 594, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 645 i 1318 oraz z 2014 r. poz. 379 i 1072.).
 
 4. Organy egzekucyjne właściwe w dniu wszczęcia postępowania egzekucyjnego pozostają właściwe do czasu zakończenia postępowania. ” ;
 
@@ -336,12 +339,12 @@ source: "eli-html"
 
 - **1)** recyklingu, lub
 - **2)** przygotowania do ponownego użycia, lub
-- **3)** odzysku oraz łącznej masy odpadów komunalnych przekazanych przez gminę.
+- **3)** odzysku – oraz łącznej masy odpadów komunalnych przekazanych przez gminę.
 
 4. Informacja o masie pozostałości z sortowania i pozostałości z mechaniczno-biologicznego przetwarzania odpadów komunalnych poddanych składowaniu może być podawana jako iloczyn średniego procentowego wskaźnika osiągniętego w danej instalacji dla poddanych składowaniu odpowiednio:
 
 - **1)** pozostałości z sortowania odpadów komunalnych, lub
-- **2)** pozostałości z mechaniczno-biologicznego przetwarzania odpadów komunalnych oraz łącznej masy odpadów komunalnych przekazanych przez gminę.
+- **2)** pozostałości z mechaniczno-biologicznego przetwarzania odpadów komunalnych – oraz łącznej masy odpadów komunalnych przekazanych przez gminę.
 
 5. Prowadzący regionalną instalację do przetwarzania odpadów komunalnych oraz instalację przewidzianą do zastępczej obsługi regionu przekazuje informację o odpadach, które poddał procesowi przygotowania do ponownego użycia, recyklingu lub odzysku innymi metodami lub przekazał w tym celu innemu posiadaczowi odpadów:
 
@@ -460,7 +463,7 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619) w art. 3a:
 
-- **1)** w § 1: wprowadzenie do wyliczenia otrzymuje brzmienie: „ W zakresie zobowiązań powstałych w przypadkach określonych w art. 8 i art. 21 § 1 pkt 1 ustawy – Ordynacja podatkowa, długów celnych powstałych w przypadkach określonych w art. 201 ust. 1 oraz art. 209 ust. 1 rozporządzenia Rady (EWG) nr 2913/92 z dnia 12 października 1992 r. ustanawiającego Wspólnotowy Kodeks Celny (Dz. Urz. WE L 302 z 19.10.1992, str. 1, z późn. zm.; Dz. Urz. UE Polskie Wydanie Specjalne, rozdz. 2, t. 4, str. 307, z późn. zm.), podatków wykazanych w zgłoszeniu celnym, składek na ubezpieczenie społeczne, opłat paliwowych, o których mowa w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm.), dopłat, o których mowa w ustawie z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. Nr 201, poz. 1540, z późn. zm.), a także opłat za gospodarowanie odpadami komunalnymi, o których mowa w art. 6h ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2013 r. poz. 1399 i 1593 oraz z 2015 r. poz. 87) stosuje się również egzekucję administracyjną, jeżeli wynikają one odpowiednio: ” , w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
+- **1)** w § 1: wprowadzenie do wyliczenia otrzymuje brzmienie: „ W zakresie zobowiązań powstałych w przypadkach określonych w art. 8 i art. 21 § 1 pkt 1 ustawy – Ordynacja podatkowa, długów celnych powstałych w przypadkach określonych w art. 201 ust. 1 oraz art. 209 ust. 1 rozporządzenia Rady (EWG) nr 2913/92 z dnia 12 października 1992 r. ustanawiającego Wspólnotowy Kodeks Celny (Dz. Urz. WE L 302 z 19.10.1992, str. 1, z późn. zm.; Dz. Urz. UE Polskie Wydanie Specjalne, rozdz. 2, t. 4, str. 307, z późn. zm.), podatków wykazanych w zgłoszeniu celnym, składek na ubezpieczenie społeczne, opłat paliwowych, o których mowa w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2013 r. poz. 433, 843, 1543 i 1646 oraz z 2014 r. poz. 805, 1310 i 1559.), dopłat, o których mowa w ustawie z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. Nr 201, poz. 1540, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 857, z 2011 r. Nr 106, poz. 622 i Nr 134, poz. 779, z 2013 r. poz. 1036 oraz z 2014 r. poz. 768 i 1717.), a także opłat za gospodarowanie odpadami komunalnymi, o których mowa w art. 6h ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2013 r. poz. 1399 i 1593 oraz z 2015 r. poz. 87) stosuje się również egzekucję administracyjną, jeżeli wynikają one odpowiednio: ” , w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
     - **a)**
     - **b)**
 
@@ -468,7 +471,7 @@ source: "eli-html"
 - **2)** w § 2 pkt 1 otrzymuje brzmienie: „
 - **1)** w deklaracji, w zeznaniu, w zgłoszeniu celnym, w deklaracji rozliczeniowej, w informacji o opłacie paliwowej, w informacji o dopłatach lub w deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi zostało zamieszczone pouczenie, że stanowią one podstawę do wystawienia tytułu wykonawczego; ” .
 
-**Art. 3.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238 oraz z 2014 r. poz. 695, 1101 i 1322.) wprowadza się następujące zmiany:
 
 - **1)** w art. 23: w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „
     - **a)**
@@ -489,9 +492,9 @@ source: "eli-html"
 
 **Art. 5.** Do czasu ogłoszenia przez Prezesa Głównego Urzędu Statystycznego przeciętnego miesięcznego dochodu rozporządzalnego na 1 osobę ogółem, przyjmuje się, że wynosi on 1299 zł. 1. Organy, o których mowa w art. 6qa i art. 6r ust. 1b ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, przekażą w terminie miesiąca od dnia wejścia w życie art. 1 pkt 20 niniejszej ustawy akta spraw w toczących się postępowaniach egzekucyjnych w egzekucji administracyjnej należności pieniężnych z tytułu opłaty za gospodarowanie odpadami komunalnymi organowi właściwemu w rozumieniu ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619 oraz z 2015 r. poz. 87). 2. Akta spraw, o których mowa w ust. 1, przekazuje się na podstawie protokołu zdawczo-odbiorczego zawierającego wykaz przekazywanych spraw oraz wykaz przekazywanych dokumentów. 3. Wydane postanowienia w postępowaniach egzekucyjnych wszczętych i niezakończonych przed dniem wejścia w życie art. 1 pkt 20 niniejszej ustawy oraz czynności egzekucyjne dokonane przed tym dniem z zachowaniem przepisów dotychczasowych, są skuteczne. 4. W postępowaniach wszczętych i niezakończonych przed dniem wejścia w życie art. 1 pkt 20 niniejszej ustawy, przekazanych naczelnikom urzędów skarbowych, nie stosuje się przepisów art. 64c § 11 i 12 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji. 5. Podania zobowiązanych wniesione w postępowaniach egzekucyjnych wszczętych i niezakończonych przed dniem wejścia w życie art. 1 pkt 20 niniejszej ustawy podlegają rozpatrzeniu na podstawie dotychczasowych przepisów. 6. Przekazaniu właściwym organom egzekucyjnym podlegają sprawy, w których nie toczą się postępowania określone w ust. 5.
 
-**Art. 7.** Przepisów art. 6 nie stosuje się, jeżeli przed dniem wejścia w życie art. 1 pkt 20 niniejszej ustawy zawarto na podstawie art. 8 ust. 2 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2013 r. poz. 594, z późn. zm.) porozumienie o przekazaniu wójtowi, burmistrzowi lub prezydentowi miasta zadań z zakresu egzekucji administracyjnej należności pieniężnych z tytułu opłaty za gospodarowanie odpadami komunalnymi. Przepis zdania pierwszego stosuje się odpowiednio do przekazania zadań zarządowi związku międzygminnego.
+**Art. 7.** Przepisów art. 6 nie stosuje się, jeżeli przed dniem wejścia w życie art. 1 pkt 20 niniejszej ustawy zawarto na podstawie art. 8 ust. 2 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2013 r. poz. 594, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 645 i 1318 oraz z 2014 r. poz. 379 i 1072.) porozumienie o przekazaniu wójtowi, burmistrzowi lub prezydentowi miasta zadań z zakresu egzekucji administracyjnej należności pieniężnych z tytułu opłaty za gospodarowanie odpadami komunalnymi. Przepis zdania pierwszego stosuje się odpowiednio do przekazania zadań zarządowi związku międzygminnego.
 
-**Art. 8.** Podmiot prowadzący punkt selektywnego zbierania odpadów komunalnych istniejący w dniu wejścia w życie niniejszej ustawy składa po raz pierwszy sprawozdanie, o którym mowa w art. 9na ustawy zmienianej w art. 1, za 2015 r. 1. Sprawozdania za 2014 r. składa się zgodnie z dotychczasowymi przepisami. 2. Przepisy art. 9q ust. 5 i art. 9s ust. 5 ustawy zmienianej w art. 1 stosuje się od dnia utworzenia Bazy danych o produktach i opakowaniach oraz o gospodarce odpadami ogłoszonego w komunikacie wydanym na podstawie art. 238 ust. 2 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.).
+**Art. 8.** Podmiot prowadzący punkt selektywnego zbierania odpadów komunalnych istniejący w dniu wejścia w życie niniejszej ustawy składa po raz pierwszy sprawozdanie, o którym mowa w art. 9na ustawy zmienianej w art. 1, za 2015 r. 1. Sprawozdania za 2014 r. składa się zgodnie z dotychczasowymi przepisami. 2. Przepisy art. 9q ust. 5 i art. 9s ust. 5 ustawy zmienianej w art. 1 stosuje się od dnia utworzenia Bazy danych o produktach i opakowaniach oraz o gospodarce odpadami ogłoszonego w komunikacie wydanym na podstawie art. 238 ust. 2 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238, z 2014 r. poz. 695, 1101 i 1322 oraz z 2015 r. poz. 87.).
 
 **Art. 10.** Do kar pieniężnych zawieszonych przed dniem wejścia w życie niniejszej ustawy na podstawie art. 9ze ust. 2 ustawy zmienianej w art. 1 stosuje się przepis art. 9ze ust. 3 ustawy zmienianej w art. 1.
 
@@ -499,5 +502,5 @@ source: "eli-html"
 
 **Art. 12.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9t ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 9t ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 2 lata od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 20 i pkt 21 lit. b, art. 6 i art. 7, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 20 i pkt 21 lit. b, art. 6 i art. 7, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji oraz ustawę z dnia 14 grudnia 2012 r. o odpadach. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238, z 2014 r. poz. 695, 1101 i 1322 oraz z 2015 r. poz. 87. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 805, 829 i 1635 oraz z 2014 r. poz. 897. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289 oraz z 2014 r. poz. 183, 567, 915, 1171, 1215, 1328 i 1644. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 509 i 1650 oraz z 2014 r. poz. 567, 598, 1004, 1146 i 1188. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2012 r. poz. 1544 i 1548. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 645 i 1318 oraz z 2014 r. poz. 379 i 1072. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2013 r. poz. 433, 843, 1543 i 1646 oraz z 2014 r. poz. 805, 1310 i 1559. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 857, z 2011 r. Nr 106, poz. 622 i Nr 134, poz. 779, z 2013 r. poz. 1036 oraz z 2014 r. poz. 768 i 1717. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238 oraz z 2014 r. poz. 695, 1101 i 1322. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 645 i 1318 oraz z 2014 r. poz. 379 i 1072. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238, z 2014 r. poz. 695, 1101 i 1322 oraz z 2015 r. poz. 87.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-01-17 |
 | Data wydania | 2012-01-20 |
-| Wejście w życie | 2012-01-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000079) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/79/text.pdf) |
 
@@ -152,7 +151,7 @@ posiadać ubezpieczenie od odpowiedzialności cywilnej obejmujące prowadzenie d
 II.
 Warunki dotyczące przepisów Podmiot upoważniony oraz występujący o upoważnienie powinien:
 1)
-posiadać zbiór przepisów technicznych dotyczących budowy, sposobu nadzoru nad budową oraz zasad przeprowadzania przeglądów okresowych jachtów morskich, zgodny z wymaganiami przepisów Unii Europejskiej w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych Państw Członkowskich odnoszących się do rekreacyjnych jednostek pływających oraz zharmonizowanymi normami europejskimi, sposoby publikacji tych przepisów i zasady ciągłego ich udoskonalania i rozwoju;
+posiadać zbiór przepisów technicznych dotyczących budowy, sposobu nadzoru nad budową oraz zasad przeprowadzania przeglądów okresowych jachtów morskich, zgodny z wymaganiami przepisów Unii Europejskiej w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych Państw Członkowskich odnoszących się do rekreacyjnych jednostek pływającychDyrektywa 94/25/WE Parlamentu Europejskiego i Rady z dnia 16 czerwca 1994 r. w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych Państw Członkowskich odnoszących się do rekreacyjnych jednostek pływających (Dz. Urz. UE L 164 z 30.06.1994, str. 15, Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 13, str. 196). oraz zharmonizowanymi normami europejskimi, sposoby publikacji tych przepisów i zasady ciągłego ich udoskonalania i rozwoju;
 2)
 systematycznie opracowywać i aktualizować przepisy techniczne i zasady nadzoru technicznego w zakresie konstrukcji kadłuba i jego wyposażenia, urządzeń maszynowych i elektrycznych jachtów morskich, ochrony przeciwpożarowej i ochrony środowiska morskiego oraz urządzeń radiowych;
 3)
@@ -174,6 +173,5 @@ realizować obowiązki bezpośrednio przez własnych inspektorów;
 7)
 posiadać system weryfikacji kwalifikacji inspektorów oraz zapewnić ciągłą aktualizację ich wiedzy;
 8)
-zapewnić wykonywanie przeglądów, do których inspektorzy są upoważnieni zgodnie z wewnętrznymi procedurami.
-1) Dyrektywa 94/25/WE Parlamentu Europejskiego i Rady z dnia 16 czerwca 1994 r. w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych Państw Członkowskich odnoszących się do rekreacyjnych jednostek pływających (Dz. Urz. UE L 164 z 30.06.1994, str. 15, Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 13, str. 196).
+zapewnić wykonywanie przeglądów, do których inspektorzy są upoważnieni zgodnie z wewnętrznymi procedurami. 1) Dyrektywa 94/25/WE Parlamentu Europejskiego i Rady z dnia 16 czerwca 1994 r. w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych Państw Członkowskich odnoszących się do rekreacyjnych jednostek pływających (Dz. Urz. UE L 164 z 30.06.1994, str. 15, Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 13, str. 196).
 

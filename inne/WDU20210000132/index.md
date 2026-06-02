@@ -26,18 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000132) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/132/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 16 marca 2010 r. w sprawie określenia wysokości i trybu przyznawania funkcjonariuszom Centralnego Biura Antykorupcyjnego należności za podróże służbowe i świadczeń z tytułu przeniesienia lub delegowania do czasowego pełnienia służby w innej miejscowości oraz sposobu ich wypłaty Rozdział I – Przepis ogólny Rozdział II – Podróże służbowe na obszarze kraju Rozdział III – Podróże służbowe za granicą Rozdział IV – Należności za przeniesienie do pełnienia służby w innej miejscowości Rozdział V – Należności za delegowanie do czasowego pełnienia służby w innej miejscowości Rozdział VI – Przepis końcowy
+Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 16 marca 2010 r. w sprawie określenia wysokości i trybu przyznawania funkcjonariuszom Centralnego Biura Antykorupcyjnego należności za podróże służbowe i świadczeń z tytułu przeniesienia lub delegowania do czasowego pełnienia służby w innej miejscowości oraz sposobu ich wypłaty
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 16 marca 2010 r. w sprawie określenia wysokości i trybu przyznawania funkcjonariuszom Centralnego Biura Antykorupcyjnego należności za podróże służbowe i świadczeń z tytułu przeniesienia lub delegowania do czasowego pełnienia służby w innej miejscowości oraz sposobu ich wypłaty (Dz. U. poz. 259), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Prezesa Rady Ministrów z dnia 3 lutego 2020 r. zmieniającym rozporządzenie w sprawie określenia wysokości i trybu przyznawania funkcjonariuszom Centralnego Biura Antykorupcyjnego należności za podróże służbowe i świadczeń z tytułu przeniesienia lub delegowania do czasowego pełnienia służby w innej miejscowości oraz sposobu ich wypłaty (Dz. U. poz. 209).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 3 lutego 2020 r. zmieniającego rozporządzenie w sprawie określenia wysokości i trybu przyznawania funkcjonariuszom Centralnego Biura Antykorupcyjnego należności za podróże służbowe i świadczeń z tytułu przeniesienia lub delegowania do czasowego pełnienia służby w innej miejscowości oraz sposobu ich wypłaty (Dz. U. poz. 209), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 3 lutego 2020 r. zmieniającego rozporządzenie w sprawie określenia wysokości i trybu przyznawania funkcjonariuszom Centralnego Biura Antykorupcyjnego należności za podróże służbowe i świadczeń z tytułu przeniesienia lub delegowania do czasowego pełnienia służby w innej miejscowości oraz sposobu ich wypłaty (Dz. U. poz. 209), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 16 marca 2010 r. w sprawie określenia wysokości i trybu przyznawania funkcjonariuszom Centralnego Biura Antykorupcyjnego należności za podróże służbowe i świadczeń z tytułu przeniesienia lub delegowania do czasowego pełnienia służby w innej miejscowości oraz sposobu ich wypłaty
 Na podstawie art. 94 ust. 2 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2019 r. poz. 1921 i 2020 oraz z 2020 r. poz. 1610 i 2320) zarządza się, co następuje:
+Przepis ogólny
 § 1.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
@@ -50,10 +49,11 @@ Szef CBA – Szefa Centralnego Biura Antykorupcyjnego;
 funkcjonariusz – funkcjonariusza CBA;
 5)
 właściwy przełożony – przełożonego właściwego w sprawach:
-a)
+aW brzmieniu ustalonym przez § 1 rozporządzenia Prezesa Rady Ministrów z dnia 3 lutego 2020 r. zmieniającego rozporządzenie w sprawie określenia wysokości i trybu przyznawania funkcjonariuszom Centralnego Biura Antykorupcyjnego należności za podróże służbowe i świadczeń z tytułu przeniesienia lub delegowania do czasowego pełnienia służby w innej miejscowości oraz sposobu ich wypłaty (Dz. U. poz. 209), które weszło w życie z dniem 25 lutego 2020 r.)
 podróży służbowych na obszarze kraju – kierownika jednostki organizacyjnej, w której funkcjonariusz pełni służbę,
 b)
 podróży służbowych za granicą – Szefa CBA albo upoważnionego przez niego zastępcę Szefa CBA.
+Podróże służbowe na obszarze kraju
 § 2.
 1.
 Dieta stanowiąca ekwiwalent pieniężny na pokrycie kosztów wyżywienia w czasie podróży służbowej na obszarze kraju przysługuje w wysokości określonej w przepisach dotyczących wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
@@ -94,6 +94,7 @@ Fakt zapewnienia funkcjonariuszowi odbywającemu podróż służbową na obszarz
 Należności z tytułu podróży służbowej na obszarze kraju wypłaca się w terminie 14 dni od dnia przedstawienia przez funkcjonariusza, zatwierdzonych przez właściwego przełożonego, rachunków, biletów lub innych dokumentów potwierdzających wysokość niezbędnych poniesionych kosztów.
 4.
 Jeżeli uzyskanie rachunków, biletów lub innych dokumentów nie było możliwe, funkcjonariusz jest obowiązany złożyć pisemne oświadczenie o dokonanym wydatku i przyczynach braku jego udokumentowania.
+Podróże służbowe za granicą
 § 7.
 1.
 Dieta stanowiąca ekwiwalent pieniężny na pokrycie kosztów wyżywienia w czasie podróży służbowej poza granicami kraju przysługuje w wysokości obowiązującej dla docelowego państwa tej podróży służbowej.
@@ -145,6 +146,7 @@ Funkcjonariusz odbywający podróż służbową za granicą otrzymuje zaliczkę 
 Należności z tytułu podróży służbowej za granicą wypłaca się w terminie 14 dni od dnia przedstawienia przez funkcjonariusza, zatwierdzonych przez właściwego przełożonego, rachunków, biletów lub innych dokumentów potwierdzających wysokość niezbędnych poniesionych kosztów.
 3.
 Jeżeli uzyskanie rachunków, biletów lub innych dokumentów nie było możliwe, funkcjonariusz jest obowiązany złożyć pisemne oświadczenie o dokonanym wydatku i przyczynach braku jego udokumentowania.
+Należności za przeniesienie do pełnienia służby w innej miejscowości
 § 13.
 Wysokość diet za czas przejazdu i pierwszą dobę pobytu w nowej miejscowości pełnienia służby, przysługujących funkcjonariuszowi przeniesionemu do pełnienia służby w innej miejscowości, ustala się według stawek obowiązujących w dniu przejazdu do nowego miejsca pełnienia służby. Przepisy § 2 stosuje się odpowiednio.
 § 14.
@@ -160,22 +162,36 @@ Funkcjonariuszowi przeniesionemu do pełnienia służby w innej miejscowości pr
 50% uposażenia – jeżeli funkcjonariusz jest samotny.
 § 16.
 Należności, o których mowa w § 13–15, wypłaca, na pisemny wniosek funkcjonariusza, jednostka organizacyjna właściwa w sprawach finansów, w formie bezpośredniej do rąk funkcjonariusza lub w formie bezgotówkowej na rachunek bankowy wskazany przez funkcjonariusza.
+Należności za delegowanie do czasowego pełnienia służby w innej miejscowości
 § 17.
 Funkcjonariuszowi delegowanemu do czasowego pełnienia służby w innej miejscowości przysługuje zwrot kosztów przejazdów, na trasie od stałego miejsca pełnienia służby do miejscowości określonej w decyzji personalnej o delegowaniu i z powrotem, publicznym środkiem komunikacji określonym przez kierownika jednostki organizacyjnej lub bezpłatny przejazd w razie dojazdu pojazdem pozostającym w dyspozycji CBA, bez względu na czas dojazdu.
 § 18.
 Należności przysługujące funkcjonariuszowi delegowanemu do czasowego pełnienia służby w innej miejscowości wypłaca jednostka organizacyjna właściwa w sprawach finansów, w formie bezpośredniej do rąk funkcjonariusza lub w formie bezgotówkowej na rachunek bankowy wskazany przez funkcjonariusza.
+Przepis końcowy
 § 19.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 24 marca 2010 r.. 1) W brzmieniu ustalonym przez § 1 rozporządzenia Prezesa Rady Ministrów z dnia 3 lutego 2020 r. zmieniającego rozporządzenie w sprawie określenia wysokości i trybu przyznawania funkcjonariuszom Centralnego Biura Antykorupcyjnego należności za podróże służbowe i świadczeń z tytułu przeniesienia lub delegowania do czasowego pełnienia służby w innej miejscowości oraz sposobu ich wypłaty (Dz. U. poz. 209), które weszło w życie z dniem 25 lutego 2020 r. 2) Rozporządzenie zostało ogłoszone w dniu 24 marca 2010 r.
 
-#### Rozdział I Przepis ogólny
+#### Rozdział I – Przepis ogólny
 
-#### Rozdział II Podróże służbowe na obszarze kraju
+#### Rozdział II – Podróże służbowe na obszarze kraju
 
-#### Rozdział III Podróże służbowe za granicą
+#### Rozdział III – Podróże służbowe za granicą
 
-#### Rozdział IV Należności za przeniesienie do pełnienia służby w innej miejscowości
+#### Rozdział IV – Należności za przeniesienie do pełnienia służby w innej miejscowości
 
-#### Rozdział V Należności za delegowanie do czasowego pełnienia służby w innej miejscowości
+#### Rozdział V – Należności za delegowanie do czasowego pełnienia służby w innej miejscowości
 
-#### Rozdział VI Przepis końcowy
+#### Rozdział VI – Przepis końcowy
+
+#### Rozdział I
+
+#### Rozdział II
+
+#### Rozdział III
+
+#### Rozdział IV
+
+#### Rozdział V
+
+#### Rozdział VI
 

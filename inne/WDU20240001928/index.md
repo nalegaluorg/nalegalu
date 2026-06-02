@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 18 grudnia 2024 r. w sprawie wykazu krajów i terytoriów stosujących szkodliwą konkurencję podatkową w zakresie podatku dochodowego od osób prawnych
+# Rozporządzenie Ministra Finansówz dnia 18 grudnia 2024 r. w sprawie wykazu krajów i terytoriów stosujących szkodliwą konkurencję podatkową w zakresie podatku dochodowego od osób prawnych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-18 |
 | Data wydania | 2024-12-24 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2025-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001928) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1928/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 11j ust. 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 11j ust. 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 1222, 1572, 1585, 1593, 1685 i 1717.) zarządza się, co następuje:
 § 1.
 Szkodliwa konkurencja podatkowa jest stosowana w następujących krajach i na następujących terytoriach:
 1)
@@ -89,6 +88,5 @@ W przypadku podatników podatku dochodowego od osób prawnych, których rok poda
 § 5.
 Traci moc rozporządzenie Ministra Finansów z dnia 28 marca 2019 r. w sprawie określenia krajów i terytoriów stosujących szkodliwą konkurencję podatkową w zakresie podatku dochodowego od osób prawnych (Dz. U. poz. 600).
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 1222, 1572, 1585, 1593, 1685 i 1717.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 1222, 1572, 1585, 1593, 1685 i 1717.
 

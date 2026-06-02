@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 31 sierpnia 2021 r. w sprawie szczegółowych warunków bezpieczeństwa i higieny służby strażaków Państwowej Straży Pożarnej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 31 sierpnia 2021 r. w sprawie szczegółowych warunków bezpieczeństwa i higieny służby strażaków Państwowej Straży Pożarnej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-31 |
 | Data wydania | 2021-09-13 |
-| Wejście w życie | 2021-10-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001681) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1681/text.pdf) |
 
-Treść rozporządzenia Dział I – Przepisy ogólne Dział II – Wymagania bezpieczeństwa i higieny służby dotyczące obiektów oraz wyposażenia jednostek ratowniczo-gaśniczych Państwowej Straży Pożarnej Rozdział 1 – Wymagania bezpieczeństwa i higieny służby w zakresie użytkowania obiektów przeznaczonych dla jednostek ratowniczo-gaśniczych Państwowej Straży Pożarnej Rozdział 2 – Wymagania bezpieczeństwa i higieny służby dotyczące wyposażenia technicznego obiektów przeznaczonych dla jednostek ratowniczo-gaśniczych Państwowej Straży Pożarnej Dział III – Wymagania bezpieczeństwa i higieny służby dotyczące strażaków pełniących służbę w Państwowej Straży Pożarnej Dział IV – Wymagania dotyczące szkoleń z zakresu bezpieczeństwa i higieny służby w Państwowej Straży Pożarnej Rozdział 1 – Przepis ogólny Rozdział 2 – Szkolenia wstępne w zakresie bezpieczeństwa i higieny służby Rozdział 3 – Szkolenia okresowe w zakresie bezpieczeństwa i higieny służby Rozdział 4 – Dokumentacja szkolenia z zakresu bezpieczeństwa i higieny służby Dział V – Wymagania bezpieczeństwa i higieny służby podczas obsługi oraz konserwacji pojazdów pożarniczych i sprzętu użytkowanego w Państwowej Straży Pożarnej Rozdział 1 – Wymagania bezpieczeństwa i higieny służby podczas obsługi pojazdów pożarniczych, sprzętu specjalistycznego, maszyn, urządzeń, instalacji i narzędzi Rozdział 2 – Wymagania bezpieczeństwa i higieny służby podczas używania sprzętu ochrony układu oddechowego Dział VI – Wymagania w zakresie zabezpieczenia medycznego strażaków podczas akcji ratowniczej, ćwiczeń lub szkolenia Dział VII – Wymagania bezpieczeństwa i higieny służby podczas ćwiczeń lub szkolenia Rozdział 1 – Wymagania bezpieczeństwa i higieny służby wobec organizatorów i uczestników ćwiczeń lub szkolenia Rozdział 2 – Wymagania bezpieczeństwa i higieny służby w trakcie realizacji zajęć sportowych Rozdział 3 – Wymagania bezpieczeństwa i higieny służby podczas ćwiczeń lub szkolenia z użyciem materiałów do pozoracji Dział VIII – Wymagania bezpieczeństwa i higieny służby podczas używania pojazdów pożarniczych i innych środków transportu Dział IX – Wymagania bezpieczeństwa i higieny służby podczas akcji ratowniczej Rozdział 1 – Wymagania ogólne Rozdział 2 – Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w czasie gaszenia pożarów i w warunkach ograniczonej widoczności Rozdział 3 – Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej z zakresu ratownictwa technicznego Rozdział 4 – Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w przypadku zagrożeń chemicznych, biologicznych, radiacyjnych, nuklearnych i wybuchowych, w tym zdarzeń o charakterze terrorystycznym Rozdział 5 – Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej na wysokości lub poniżej poziomu terenu oraz ćwiczeń i szkolenia na wysokości lub poniżej poziomu terenu Rozdział 6 – Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej, ćwiczeń lub szkolenia na wodzie (lodzie) i pod wodą (lodem) oraz na obszarach powodziowych, zalewowych i zalodzonych Rozdział 7 – Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w sytuacji zagrożenia porażeniem prądem elektrycznym Rozdział 8 – Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w czasie katastrof budowlanych Rozdział 9 – Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w czasie nadzwyczajnych zjawisk pogodowych Rozdział 10 – Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej, ćwiczeń lub szkolenia z wykorzystaniem statku powietrznego Rozdział 11 – Podejmowanie i prowadzenie akcji ratowniczej w szczególnych okolicznościach Dział X – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 29a ust. 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2020 r. poz. 1123, 1610 i 2112 oraz z 2021 r. poz. 464) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe warunki bezpieczeństwa i higieny służby strażaków, z uwzględnieniem wymagań:
 1)
@@ -65,6 +65,8 @@ sprzęcie detekcyjnym – rozumie się przez to sprzęt i urządzenia służące
 wspinalni – rozumie się przez to obiekt budowlany wykorzystywany jako stanowisko do prowadzenia szkoleń, ćwiczeń, zawodów w sporcie pożarniczym i innych form doskonalenia zawodowego;
 12)
 ześlizgu – rozumie się przez to stosowane w obiektach Państwowej Straży Pożarnej rozwiązanie konstrukcyjne umożliwiające podczas alarmu opuszczanie się strażaka po słupie w celu jak najszybszego wyjazdu do akcji ratowniczej.
+Wymagania bezpieczeństwa i higieny służby dotyczące obiektów oraz wyposażenia jednostek ratowniczo-gaśniczych Państwowej Straży Pożarnej
+Wymagania bezpieczeństwa i higieny służby w zakresie użytkowania obiektów przeznaczonych dla jednostek ratowniczo-gaśniczych Państwowej Straży Pożarnej
 § 3.
 W obiektach przeznaczonych dla jednostek ratowniczo-gaśniczych Państwowej Straży Pożarnej warunki bezpiecznej i higienicznej służby zapewnia kierownik jednostki organizacyjnej.
 § 4.
@@ -218,6 +220,7 @@ między łóżkami zachowuje się odległość co najmniej 0,8 m.
 Do pomieszczeń i urządzeń higieniczno-sanitarnych, o których mowa w ust. 1 pkt 1, stosuje się wymagania określone w rozporządzeniu Ministra Pracy i Polityki Socjalnej z dnia 26 września 1997 r. w sprawie ogólnych przepisów bezpieczeństwa i higieny pracy (Dz. U. z 2003 r. poz. 1650, z 2007 r. poz. 330, z 2008 r. poz. 690 oraz z 2011 r. poz. 1034).
 § 12.
 Obiekty przeznaczone dla jednostek ratowniczo-gaśniczych Państwowej Straży Pożarnej wyposaża się w środki niezbędne do udzielenia pierwszej pomocy.
+Wymagania bezpieczeństwa i higieny służby dotyczące wyposażenia technicznego obiektów przeznaczonych dla jednostek ratowniczo-gaśniczych Państwowej Straży Pożarnej
 § 13.
 1.
 Wspinalnia i inne stanowiska do ćwiczeń lub szkolenia są użytkowane zgodnie z instrukcją, zawierającą w szczególności warunki użytkowania i sposoby zabezpieczenia strażaka.
@@ -254,6 +257,7 @@ Szerokość i wysokość drzwi do tych komór dobiera się w sposób zapewniają
 Drzwi ewakuacyjne otwierają się na zewnątrz oraz zamykają się w sposób umożliwiający ich otwarcie od wewnątrz i z zewnątrz w każdej fazie ćwiczenia.
 4.
 Zajęcia z użyciem otwartego ognia prowadzone są wyłącznie przez osoby posiadające odpowiednie przeszkolenie w tym zakresie.
+Wymagania bezpieczeństwa i higieny służby dotyczące strażaków pełniących służbę w Państwowej Straży Pożarnej
 § 17.
 1.
 Strażak w ramach pełnienia służby:
@@ -279,8 +283,11 @@ W przypadku wystąpienia zagrożeń wypadkowych, związanych z niewłaściwym za
 przerywa wykonywane czynności i zwraca uwagę na istniejące zagrożenia;
 2)
 odsuwa od wykonywanych czynności osoby rażąco łamiące przepisy i zasady bezpieczeństwa.
+Wymagania dotyczące szkoleń z zakresu bezpieczeństwa i higieny służby w Państwowej Straży Pożarnej
+Przepis ogólny
 § 20.
 Organizatorem szkoleń z zakresu bezpieczeństwa i higieny służby jest kierownik jednostki organizacyjnej Państwowej Straży Pożarnej.
+Szkolenia wstępne w zakresie bezpieczeństwa i higieny służby
 § 21.
 1.
 Szkolenie wstępne w zakresie bezpieczeństwa i higieny służby realizuje się w formie:
@@ -300,6 +307,7 @@ Instruktaż stanowiskowy dla strażaków pełniących służbę w systemie codzi
 Instruktaż stanowiskowy dla strażaków pełniących służbę w systemie zmianowym, z wyłączeniem strażaków pełniących służbę na stanowiskach kierowania, stanowi formę szkolenia o czasie trwania nie krótszym niż 10 godzin lekcyjnych, ze szczególnym uwzględnieniem specyfiki pełnienia służby w jednostkach ratowniczo-gaśniczych Państwowej Straży Pożarnej.
 7.
 Instruktaż stanowiskowy prowadzą osoby kierujące komórkami organizacyjnymi, w których strażak będzie realizował zadania służbowe.
+Szkolenia okresowe w zakresie bezpieczeństwa i higieny służby
 § 22.
 1.
 Szkolenie okresowe strażaka jest organizowane nie rzadziej niż raz na 3 lata w formie seminarium lub instruktażu.
@@ -330,6 +338,7 @@ Dobór osób lub podmiotów, o których mowa w ust. 2, zapewnia właściwą real
 Ze szkolenia okresowego może być zwolniony strażak, który przedłoży aktualne zaświadczenie o odbyciu szkolenia okresowego w innej jednostce organizacyjnej Państwowej Straży Pożarnej o tej samej specyfice służby.
 § 24.
 Szkolenie okresowe kończy się egzaminem.
+Dokumentacja szkolenia z zakresu bezpieczeństwa i higieny służby
 § 25.
 1.
 Ukończenie szkolenia wstępnego w dziedzinie bezpieczeństwa i higieny służby jest potwierdzone kartą szkolenia wstępnego.
@@ -340,6 +349,8 @@ Kartę szkolenia wstępnego w dziedzinie bezpieczeństwa i higieny służby prze
 Potwierdzeniem ukończenia szkolenia okresowego z wynikiem pozytywnym jest zaświadczenie wydane przez organizatora szkolenia.
 2.
 Kopię zaświadczenia potwierdzającego ukończenie szkolenia okresowego przechowuje się w aktach osobowych strażaka.
+Wymagania bezpieczeństwa i higieny służby podczas obsługi oraz konserwacji pojazdów pożarniczych i sprzętu użytkowanego w Państwowej Straży Pożarnej
+Wymagania bezpieczeństwa i higieny służby podczas obsługi pojazdów pożarniczych, sprzętu specjalistycznego, maszyn, urządzeń, instalacji i narzędzi
 § 27.
 1.
 Sprzęt specjalistyczny, maszyny, urządzenia, instalacje i narzędzia, zwane dalej „sprzętem”, wprowadza się do użytkowania po:
@@ -417,6 +428,7 @@ Za bezpieczeństwo podczas pracy drabin, podnośników, dźwigów i żurawi samo
 Podczas obsługi samochodowej wyciągarki linowej należy stosować się do instrukcji bezpiecznej pracy wskazanej przez producenta.
 2.
 Nie należy przebywać w polu napiętej liny podczas pracy wyciągarki linowej.
+Wymagania bezpieczeństwa i higieny służby podczas używania sprzętu ochrony układu oddechowego
 § 36.
 Przed rozpoczęciem pracy w sprzęcie ochrony układu oddechowego strażak:
 1)
@@ -455,6 +467,7 @@ Dopuszcza się stosowanie sprzętu filtrującego po stwierdzeniu, że zawartoś�
 Sprzęt filtrujący dobiera się w zależności od występujących w atmosferze substancji, prowadząc stały monitoring stężenia tlenu oraz obecności gazów trujących.
 § 41.
 Maskę stanowiącą sprzęt ochrony układu oddechowego oraz sprzęt filtrujący zakłada się i zdejmuje wyłącznie w atmosferze niezanieczyszczonej substancjami szkodliwymi lub niebezpiecznymi, a jednocześnie w miejscu położonym jak najbliżej obszaru, na którym jest prowadzona akcja ratownicza.
+Wymagania w zakresie zabezpieczenia medycznego strażaków podczas akcji ratowniczej, ćwiczeń lub szkolenia
 § 42.
 1.
 Podczas prowadzenia medycznych czynności ratunkowych, strażak stosuje środki ochrony indywidualnej, w szczególności rękawiczki jednorazowego użytku, okulary ochronne oraz w miarę możliwości maseczkę ochronną.
@@ -472,6 +485,8 @@ W przypadku gdy strażak uległ ekspozycji na materiał potencjalnie zakaźny, n
 W przypadku gdy ekspozycji na materiał potencjalnie zakaźny ulegną środki ochrony indywidualnej, inne elementy umundurowania strażaka oraz sprzęt ratowniczy, należy je niezwłocznie zabezpieczyć w szczelnie zamkniętym opakowaniu na terenie prowadzonej akcji ratowniczej i przetransportować do miejsca ich odkażania lub utylizacji.
 2.
 W przypadku zaistnienia sytuacji, o której mowa w ust. 1, kierownik jednostki organizacyjnej Państwowej Straży Pożarnej zapewnia odkażanie odzieży i sprzętu, a w przypadku braku takiej możliwości – utylizację odzieży i sprzętu.
+Wymagania bezpieczeństwa i higieny służby podczas ćwiczeń lub szkolenia
+Wymagania bezpieczeństwa i higieny służby wobec organizatorów i uczestników ćwiczeń lub szkolenia
 § 46.
 Organizator ćwiczeń lub szkolenia zapewnia bezpieczne i higieniczne warunki ich prowadzenia.
 § 47.
@@ -545,6 +560,7 @@ nieprzestrzegania przepisów bezpieczeństwa i higieny służby.
 Nie stosuje się kryterium czasowego podczas ćwiczeń lub szkoleń.
 2.
 Zezwala się na stosowanie kryterium czasowego, o którym mowa w ust. 1, podczas egzaminów, inspekcji, testów lub zawodów sportowych.
+Wymagania bezpieczeństwa i higieny służby w trakcie realizacji zajęć sportowych
 § 55.
 1.
 Zajęcia sportowe odbywają się pod nadzorem przełożonego, wyznaczonego przez kierownika jednostki organizacyjnej.
@@ -578,12 +594,14 @@ przeprowadzić ćwiczenia ukierunkowane na uspokojenie organizmu po wysiłku;
 przypomnieć uczestnikom o konieczności niezwłocznego zgłaszania wszelkich urazów nabytych w trakcie zajęć;
 3)
 dokonać ich podsumowania.
+Wymagania bezpieczeństwa i higieny służby podczas ćwiczeń lub szkolenia z użyciem materiałów do pozoracji
 § 56.
 Do pozorowania zdarzeń podczas prowadzonych ćwiczeń lub szkolenia stosuje się środki dymotwórcze neutralne dla organizmu.
 § 57.
 W każdym przypadku użycia podczas ćwiczeń lub szkolenia ognia otwartego oraz materiałów pirotechnicznych, w tym dymotwórczych, należy zapewnić właściwe zabezpieczenie ludzi i obiektów, uwzględniając warunki terenowe i atmosferyczne w miejscu ćwiczeń lub szkolenia i jego najbliższym otoczeniu.
 § 58.
 Ćwiczenia lub szkolenia z użyciem materiałów zapalających i wybuchowych mogą prowadzić wyłącznie uprawnione i wyznaczone do tego osoby.
+Wymagania bezpieczeństwa i higieny służby podczas używania pojazdów pożarniczych i innych środków transportu
 § 59.
 Przed każdym wyjazdem kierowca pojazdu pożarniczego:
 1)
@@ -668,6 +686,8 @@ w pojazdach pożarniczych włącza się światła mijania oraz sygnały świetln
 do zabezpieczenia lub zamknięcia drogi używa się, w razie potrzeby, pojazdów pożarniczych.
 2.
 W przypadku ograniczonej widoczności należy w odpowiednich odległościach od pojazdów pożarniczych ustawić lampy sygnalizacyjne i znaki ostrzegawcze, zgodnie z zasadami określonymi w przepisach dotyczących ruchu drogowego.
+Wymagania bezpieczeństwa i higieny służby podczas akcji ratowniczej
+Wymagania ogólne
 § 66.
 Pojazd pożarniczy dysponowany do akcji ratowniczej jako pierwszy lub samodzielny ma obsadę zapewniającą bezpieczne podjęcie czynności ratowniczych.
 § 67.
@@ -776,6 +796,7 @@ Po wyjściu ze strefy zagrożenia, strażak melduje dowódcy o zrealizowanych za
 W miejscach zagrożonych bezpośrednim kontaktem z materiałami oraz czynnikami niebezpiecznymi i szkodliwymi dla życia i zdrowia, przed podjęciem oraz w trakcie czynności ratowniczych, stosuje się sprzęt i urządzenia specjalistyczne sygnalizujące zaistniałe zagrożenia.
 § 74.
 W przypadku gdy istnieje możliwość zastąpienia strażaka właściwym sprzętem, do strefy zagrożenia wprowadza się roboty, bezzałogowe statki powietrzne lub inny sprzęt.
+Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w czasie gaszenia pożarów i w warunkach ograniczonej widoczności
 § 75.
 Podczas gaszenia pożaru kierujący działaniem ratowniczym lub dowódca odcinka bojowego:
 1)
@@ -830,8 +851,10 @@ natychmiastową ewakuację;
 udzielenie pomocy;
 4)
 wprowadzenie roty asekuracyjnej.
+Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej z zakresu ratownictwa technicznego
 § 81.
 W pojazdach, środkach transportu i innych środkach lokomocji, które w wyniku zaistniałego zdarzenia uległy awarii lub uszkodzeniu, należy wyłączyć silniki i w miarę potrzeby odłączyć źródła ich zasilania, które mogą stanowić zagrożenie w miejscu prowadzonej akcji ratowniczej.
+Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w przypadku zagrożeń chemicznych, biologicznych, radiacyjnych, nuklearnych i wybuchowych, w tym zdarzeń o charakterze terrorystycznym
 § 82.
 Na miejscu akcji ratowniczej przeprowadza się dekontaminację wstępną ludzi oraz sprzętu narażonego na działanie substancji niebezpiecznych.
 § 83.
@@ -852,6 +875,7 @@ W przypadku zdarzeń o charakterze terrorystycznym akcję ratowniczą w strefie 
 W przypadku zdarzeń, w których występują zagrożenia chemiczne, biologiczne, radiacyjne, nuklearne i wybuchowe, akcję ratowniczą w strefie zagrożenia prowadzi się, współdziałając z właściwymi organami i podmiotami.
 2.
 Kierujący działaniem ratowniczym informuje strażaka o występującym zagrożeniu chemicznym, biologicznym, radiacyjnym, nuklearnym i wybuchowym.
+Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej na wysokości lub poniżej poziomu terenu oraz ćwiczeń i szkolenia na wysokości lub poniżej poziomu terenu
 § 87.
 1.
 Podczas prowadzenia akcji ratowniczej, ćwiczeń lub szkolenia na wysokości oraz poniżej poziomu terenu stosuje się sprzęt ochrony przed upadkiem z wysokości.
@@ -909,6 +933,7 @@ nawodnienie linii gaśniczej następuje po zbudowaniu stanowiska gaśniczego i p
 nie zwiększa się i nie zmniejsza w sposób gwałtowny ciśnienia wody w linii wężowej.
 § 92.
 Zarówno przed czynnościami ratowniczymi wykonywanymi w studniach, wykopach, podziemiach, usypiskach, jak i w trakcie tych czynności, miejsce akcji ratowniczej zabezpiecza się przed możliwością obsunięcia się lub zawalenia terenu oraz monitoruje się w tych miejscach zawartość tlenu w powietrzu i obecność gazów niebezpiecznych.
+Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej, ćwiczeń lub szkolenia na wodzie (lodzie) i pod wodą (lodem) oraz na obszarach powodziowych, zalewowych i zalodzonych
 § 93.
 Podczas akcji ratowniczej na wodzie używa się sprzętu pływającego wyposażonego w:
 1)
@@ -917,6 +942,7 @@ kamizelki asekuracyjne lub ratownicze w liczbie odpowiedniej do liczby przewożo
 wiosła lub silnik o mocy i masie dostosowanej do wytrzymałości kadłuba.
 § 94.
 W przypadku ratowania ludzi znajdujących się na lodzie strażak przed rozpoczęciem działań nakłada kamizelkę asekuracyjną lub ratowniczą, kask ochronny oraz zabezpiecza się linką ratowniczą. W zależności od sytuacji stosuje inne niezbędne środki ochrony osobistej, w szczególności chroniące przed wychłodzeniem i utonięciem.
+Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w sytuacji zagrożenia porażeniem prądem elektrycznym
 § 95.
 1.
 Przed rozpoczęciem akcji ratowniczej kierujący działaniem ratowniczym zapewnia:
@@ -962,6 +988,7 @@ stosuje się w szczególności sprzęt ochronny elektroizolacyjny.
 W razie pożaru palące się lub narażone na zapalenie części urządzeń elektroenergetycznych należy wyłączyć. Podczas gaszenia urządzeń i elementów instalacji, do których dopływ energii elektrycznej nie został wyłączony, stosuje się gaśnice i urządzenia gaśnicze przeznaczone do gaszenia urządzeń elektrycznych pod napięciem, zgodnie z instrukcją producenta, oraz inny sprzęt i środki gaśnicze, które nie stwarzają zagrożenia porażenia prądem elektrycznym.
 2.
 W przypadku akcji gaśniczych przy urządzeniach elektroenergetycznych oraz w ich pobliżu należy zachowywać od nich odpowiedni odstęp podczas gaszenia, zgodnie z informacją określoną na gaśnicach oraz urządzeniach gaśniczych lub aktualnym stanem wiedzy technicznej.
+Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w czasie katastrof budowlanych
 § 100.
 Podczas organizacji akcji ratowniczej w miejscu katastrofy budowlanej należy zapewnić współpracę odpowiednich służb technicznych, inspekcji i organów nadzoru budowlanego.
 § 101.
@@ -994,6 +1021,7 @@ W przypadku zrzucania z wysokości rozbieranych elementów budowlanych miejsce p
 Zrzucanie elementów budowlanych należy prowadzić z zapewnieniem bezpieczeństwa osób prowadzących działania ratownicze poniżej.
 § 104.
 Podczas pracy żurawi, dźwigów oraz innych maszyn i urządzeń przebywanie w bezpośrednim zasięgu ich pracy jest dozwolone wyłącznie za zgodą kierującego działaniem ratowniczym i operatora.
+Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w czasie nadzwyczajnych zjawisk pogodowych
 § 105.
 Podczas akcji ratowniczej w czasie burz lub silnych wiatrów:
 1)
@@ -1014,6 +1042,7 @@ przy wyznaczaniu stanowisk gaśniczych uwzględnia się przeciążenia konstrukc
 zachowuje się szczególną ostrożność w pobliżu linii wężowych i na stanowiskach gaśniczych w związku z możliwością powstania oblodzeń;
 5)
 w miarę potrzeby zapewnia się: ciepłe napoje i posiłki, rezerwę suchej odzieży oraz miejsce do ogrzania.
+Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej, ćwiczeń lub szkolenia z wykorzystaniem statku powietrznego
 § 107.
 Podczas prowadzenia akcji ratowniczej, ćwiczeń lub szkolenia z wykorzystaniem statku powietrznego przestrzega się następujących zasad bezpieczeństwa:
 1)
@@ -1042,6 +1071,7 @@ ustawia się pojazdy tak, aby w razie konieczności łatwo mogły zmienić pozyc
 Za warunki bezpieczeństwa podczas lotu bezzałogowego statku powietrznego odpowiada jego operator.
 § 111.
 Akcję ratowniczą na terenie lotniska prowadzi się zgodnie z przepisami wydanymi na podstawie art. 85 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze.
+Podejmowanie i prowadzenie akcji ratowniczej w szczególnych okolicznościach
 § 112.
 1.
 W przypadku uzyskania informacji o osobie poszkodowanej znajdującej się w strefie zagrożenia kierujący działaniem ratowniczym przyjmuje, że nastąpił stan bezpośredniego zagrożenia życia lub zdrowia ludzkiego.
@@ -1094,6 +1124,7 @@ W sytuacji bezpośredniego zagrożenia życia sygnał alarmowy „GEJZER” moż
 Strażak, który otrzymał rozkaz wycofania się ze strefy zagrożenia przekazany w formie sygnału alarmowego „GEJZER”, niezwłocznie potwierdza wykonanie tego rozkazu.
 5.
 Sygnał alarmowy „GEJZER” może być przekazany przez kontakt głosowy, drogą radiową lub przez użycie innych form komunikacji, ustalonych z kierującym działaniem ratowniczym: za pomocą gwizdka, przekazu głosowego nadawanego przez urządzenie akustyczne pojazdu pożarniczego, dźwięku o długości 10 sekund wydawanego za pomocą sygnału pneumatycznego pojazdu pożarniczego.
+Przepisy przejściowe i końcowe
 § 117.
 1.
 Wymagania wobec obiektów przeznaczonych dla jednostek ratowniczo-gaśniczych Państwowej Straży Pożarnej stosuje się do nowo budowanych obiektów budowlanych bądź obiektów przebudowywanych, rozbudowywanych, nadbudowywanych, remontowanych w zakresie prac objętych przebudową, rozbudową, nadbudową lub remontem.
@@ -1104,70 +1135,133 @@ Zaświadczenia o ukończeniu szkolenia z zakresu bezpieczeństwa i higieny słu�
 § 119.
 Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 września 2008 r. w sprawie szczegółowych warunków bezpieczeństwa i higieny służby strażaków Państwowej Straży Pożarnej (Dz. U. poz. 1115).
 § 120.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
-### Dział I Przepisy ogólne
+### Dział I – Przepisy ogólne
 
-### Dział II Wymagania bezpieczeństwa i higieny służby dotyczące obiektów oraz wyposażenia jednostek ratowniczo-gaśniczych Państwowej Straży Pożarnej
+### Dział II – Wymagania bezpieczeństwa i higieny służby dotyczące obiektów oraz wyposażenia jednostek ratowniczo-gaśniczych Państwowej Straży Pożarnej
 
-#### Rozdział 1 Wymagania bezpieczeństwa i higieny służby w zakresie użytkowania obiektów przeznaczonych dla jednostek ratowniczo-gaśniczych Państwowej Straży Pożarnej
+#### Rozdział 1 – Wymagania bezpieczeństwa i higieny służby w zakresie użytkowania obiektów przeznaczonych dla jednostek ratowniczo-gaśniczych Państwowej Straży Pożarnej
 
-#### Rozdział 2 Wymagania bezpieczeństwa i higieny służby dotyczące wyposażenia technicznego obiektów przeznaczonych dla jednostek ratowniczo-gaśniczych Państwowej Straży Pożarnej
+#### Rozdział 2 – Wymagania bezpieczeństwa i higieny służby dotyczące wyposażenia technicznego obiektów przeznaczonych dla jednostek ratowniczo-gaśniczych Państwowej Straży Pożarnej
 
-### Dział III Wymagania bezpieczeństwa i higieny służby dotyczące strażaków pełniących służbę w Państwowej Straży Pożarnej
+### Dział III – Wymagania bezpieczeństwa i higieny służby dotyczące strażaków pełniących służbę w Państwowej Straży Pożarnej
 
-### Dział IV Wymagania dotyczące szkoleń z zakresu bezpieczeństwa i higieny służby w Państwowej Straży Pożarnej
+### Dział IV – Wymagania dotyczące szkoleń z zakresu bezpieczeństwa i higieny służby w Państwowej Straży Pożarnej
 
-#### Rozdział 1 Przepis ogólny
+#### Rozdział 1 – Przepis ogólny
 
-#### Rozdział 2 Szkolenia wstępne w zakresie bezpieczeństwa i higieny służby
+#### Rozdział 2 – Szkolenia wstępne w zakresie bezpieczeństwa i higieny służby
 
-#### Rozdział 3 Szkolenia okresowe w zakresie bezpieczeństwa i higieny służby
+#### Rozdział 3 – Szkolenia okresowe w zakresie bezpieczeństwa i higieny służby
 
-#### Rozdział 4 Dokumentacja szkolenia z zakresu bezpieczeństwa i higieny służby
+#### Rozdział 4 – Dokumentacja szkolenia z zakresu bezpieczeństwa i higieny służby
 
-### Dział V Wymagania bezpieczeństwa i higieny służby podczas obsługi oraz konserwacji pojazdów pożarniczych i sprzętu użytkowanego w Państwowej Straży Pożarnej
+### Dział V – Wymagania bezpieczeństwa i higieny służby podczas obsługi oraz konserwacji pojazdów pożarniczych i sprzętu użytkowanego w Państwowej Straży Pożarnej
 
-#### Rozdział 1 Wymagania bezpieczeństwa i higieny służby podczas obsługi pojazdów pożarniczych, sprzętu specjalistycznego, maszyn, urządzeń, instalacji i narzędzi
+#### Rozdział 1 – Wymagania bezpieczeństwa i higieny służby podczas obsługi pojazdów pożarniczych, sprzętu specjalistycznego, maszyn, urządzeń, instalacji i narzędzi
 
-#### Rozdział 2 Wymagania bezpieczeństwa i higieny służby podczas używania sprzętu ochrony układu oddechowego
+#### Rozdział 2 – Wymagania bezpieczeństwa i higieny służby podczas używania sprzętu ochrony układu oddechowego
 
-### Dział VI Wymagania w zakresie zabezpieczenia medycznego strażaków podczas akcji ratowniczej, ćwiczeń lub szkolenia
+### Dział VI – Wymagania w zakresie zabezpieczenia medycznego strażaków podczas akcji ratowniczej, ćwiczeń lub szkolenia
 
-### Dział VII Wymagania bezpieczeństwa i higieny służby podczas ćwiczeń lub szkolenia
+### Dział VII – Wymagania bezpieczeństwa i higieny służby podczas ćwiczeń lub szkolenia
 
-#### Rozdział 1 Wymagania bezpieczeństwa i higieny służby wobec organizatorów i uczestników ćwiczeń lub szkolenia
+#### Rozdział 1 – Wymagania bezpieczeństwa i higieny służby wobec organizatorów i uczestników ćwiczeń lub szkolenia
 
-#### Rozdział 2 Wymagania bezpieczeństwa i higieny służby w trakcie realizacji zajęć sportowych
+#### Rozdział 2 – Wymagania bezpieczeństwa i higieny służby w trakcie realizacji zajęć sportowych
 
-#### Rozdział 3 Wymagania bezpieczeństwa i higieny służby podczas ćwiczeń lub szkolenia z użyciem materiałów do pozoracji
+#### Rozdział 3 – Wymagania bezpieczeństwa i higieny służby podczas ćwiczeń lub szkolenia z użyciem materiałów do pozoracji
 
-### Dział VIII Wymagania bezpieczeństwa i higieny służby podczas używania pojazdów pożarniczych i innych środków transportu
+### Dział VIII – Wymagania bezpieczeństwa i higieny służby podczas używania pojazdów pożarniczych i innych środków transportu
 
-### Dział IX Wymagania bezpieczeństwa i higieny służby podczas akcji ratowniczej
+### Dział IX – Wymagania bezpieczeństwa i higieny służby podczas akcji ratowniczej
 
-#### Rozdział 1 Wymagania ogólne
+#### Rozdział 1 – Wymagania ogólne
 
-#### Rozdział 2 Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w czasie gaszenia pożarów i w warunkach ograniczonej widoczności
+#### Rozdział 2 – Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w czasie gaszenia pożarów i w warunkach ograniczonej widoczności
 
-#### Rozdział 3 Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej z zakresu ratownictwa technicznego
+#### Rozdział 3 – Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej z zakresu ratownictwa technicznego
 
-#### Rozdział 4 Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w przypadku zagrożeń chemicznych, biologicznych, radiacyjnych, nuklearnych i wybuchowych, w tym zdarzeń o charakterze terrorystycznym
+#### Rozdział 4 – Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w przypadku zagrożeń chemicznych, biologicznych, radiacyjnych, nuklearnych i wybuchowych, w tym zdarzeń o charakterze terrorystycznym
 
-#### Rozdział 5 Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej na wysokości lub poniżej poziomu terenu oraz ćwiczeń i szkolenia na wysokości lub poniżej poziomu terenu
+#### Rozdział 5 – Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej na wysokości lub poniżej poziomu terenu oraz ćwiczeń i szkolenia na wysokości lub poniżej poziomu terenu
 
-#### Rozdział 6 Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej, ćwiczeń lub szkolenia na wodzie (lodzie) i pod wodą (lodem) oraz na obszarach powodziowych, zalewowych i zalodzonych
+#### Rozdział 6 – Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej, ćwiczeń lub szkolenia na wodzie (lodzie) i pod wodą (lodem) oraz na obszarach powodziowych, zalewowych i zalodzonych
 
-#### Rozdział 7 Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w sytuacji zagrożenia porażeniem prądem elektrycznym
+#### Rozdział 7 – Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w sytuacji zagrożenia porażeniem prądem elektrycznym
 
-#### Rozdział 8 Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w czasie katastrof budowlanych
+#### Rozdział 8 – Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w czasie katastrof budowlanych
 
-#### Rozdział 9 Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w czasie nadzwyczajnych zjawisk pogodowych
+#### Rozdział 9 – Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej w czasie nadzwyczajnych zjawisk pogodowych
 
-#### Rozdział 10 Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej, ćwiczeń lub szkolenia z wykorzystaniem statku powietrznego
+#### Rozdział 10 – Wymagania bezpieczeństwa i higieny służby podczas prowadzenia akcji ratowniczej, ćwiczeń lub szkolenia z wykorzystaniem statku powietrznego
 
-#### Rozdział 11 Podejmowanie i prowadzenie akcji ratowniczej w szczególnych okolicznościach
+#### Rozdział 11 – Podejmowanie i prowadzenie akcji ratowniczej w szczególnych okolicznościach
 
-### Dział X Przepisy przejściowe i końcowe
+### Dział X – Przepisy przejściowe i końcowe
+
+### Dział I
+
+### Dział II
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+### Dział III
+
+### Dział IV
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+### Dział V
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+### Dział VI
+
+### Dział VII
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+### Dział VIII
+
+### Dział IX
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
+
+#### Rozdział 11
+
+### Dział X
 

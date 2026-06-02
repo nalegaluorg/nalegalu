@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 10 sierpnia 2012 r. w sprawie szczegółowego zakresu przeprowadzania oceny terenu przeznaczonego pod lokalizację obiektu jądrowego, przypadków wykluczających możliwość uznania terenu za spełniający wymogi lokalizacji obiektu jądrowego oraz w sprawie wymagań dotyczących raportu lokalizacyjnego dla obiektu jądrowego
+# Rozporządzenie Rady Ministrówz dnia 10 sierpnia 2012 r. w sprawie szczegółowego zakresu przeprowadzania oceny terenu przeznaczonego pod lokalizację obiektu jądrowego, przypadków wykluczających możliwość uznania terenu za spełniający wymogi lokalizacji obiektu jądrowego oraz w sprawie wymagań dotyczących raportu lokalizacyjnego dla obiektu jądrowego Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2009/71/Euratom z dnia 25 czerwca 2009 r. ustanawiającej wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 172 z 02.07.2009, str. 18 oraz Dz. Urz. UE L 260 z 03.10.2009, str. 40).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-08-10 |
 | Data wydania | 2012-09-17 |
-| Wejście w życie | 2012-10-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001025) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1025/text.pdf) |
 
@@ -127,7 +126,7 @@ charakterystykę infrastruktury transportowej, w tym odległość granic planowa
 b)
 odległość obiektu jądrowego od czynnych i planowanych obiektów wojskowych, w szczególności lotnisk, poligonów, magazynów amunicji, z oceną potencjalnego zagrożenia obiektu jądrowego z ich strony,
 c)
-potencjalne zagrożenie obiektu jądrowego ze strony zakładów i instalacji przemysłowych mogących oddziaływać na obiekt jądrowy chemicznie, biologicznie bądź mechanicznie, w szczególności zakładów stwarzających zagrożenie wystąpienia poważnej awarii przemysłowej, o których mowa w art. 248 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.),
+potencjalne zagrożenie obiektu jądrowego ze strony zakładów i instalacji przemysłowych mogących oddziaływać na obiekt jądrowy chemicznie, biologicznie bądź mechanicznie, w szczególności zakładów stwarzających zagrożenie wystąpienia poważnej awarii przemysłowej, o których mowa w art. 248 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657, z 2011 r. Nr 32, poz. 159, Nr 63, poz. 322, Nr 94, poz. 551, Nr 99, poz. 569, Nr 122, poz. 695, Nr 152, poz. 897, Nr 178, poz. 1060 i Nr 224, poz. 1341 oraz z 2012 r. poz. 460 i 951.),
 d)
 potencjalne zagrożenie obiektu jądrowego przez emisję, pożar lub eksplozję w wyniku działalności człowieka,
 e)
@@ -234,8 +233,7 @@ działalność polegająca na wydobyciu kopalin lub
 b)
 działalność polegająca na podziemnym bezzbiornikowym magazynowaniu substancji lub podziemnym składowaniu odpadów, lub
 c)
-inna działalność
-mogąca spowodować zagrożenie bezpieczeństwa jądrowego obiektu jądrowego przez indukowanie wstrząsów sejsmicznych, powodowanie uaktywniania struktur uskokowych lub prze mieszczanie, zapadanie lub upłynnianie gruntów lub w regionie tym wystąpiły takie skutki tych działalności, które przy wystąpieniu w trakcie eksploatacji obiektu jądrowego zagrażałyby bezpieczeństwu jądrowemu obiektu jądrowego;
+inna działalność – mogąca spowodować zagrożenie bezpieczeństwa jądrowego obiektu jądrowego przez indukowanie wstrząsów sejsmicznych, powodowanie uaktywniania struktur uskokowych lub prze mieszczanie, zapadanie lub upłynnianie gruntów lub w regionie tym wystąpiły takie skutki tych działalności, które przy wystąpieniu w trakcie eksploatacji obiektu jądrowego zagrażałyby bezpieczeństwu jądrowemu obiektu jądrowego;
 8)
 nie będzie możliwe przeprowadzenie niezbędnych działań interwencyjnych w przypadku wystąpienia zdarzenia radiacyjnego w obiekcie jądrowym;
 9)
@@ -245,8 +243,7 @@ obiekt wojskowy lub wojskowy teren zamknięty wraz ze strefą ochronną terenu z
 b)
 zakład mogący oddziaływać na obiekt jądrowy chemicznie, biologicznie lub mechanicznie,
 c)
-urządzenie wodne w rozumieniu ustawy z dnia 18 lipca 2001 r. – Prawo wodne
-jeżeli ten negatywny wpływ nie może być skompensowany konstrukcyjnie;
+urządzenie wodne w rozumieniu ustawy z dnia 18 lipca 2001 r. – Prawo wodne – jeżeli ten negatywny wpływ nie może być skompensowany konstrukcyjnie;
 10)
 w odległości mniejszej niż 10 km od granic planowanego miejsca usytuowania obiektu jądrowego znajduje się lotnisko cywilne, chyba że prawdopodobieństwo uderzenia dużego samolotu cywilnego w obiekt jądrowy jest mniejsze niż raz na 10 000 000 lat.
 § 6.
@@ -407,5 +404,5 @@ ocenę zagrożenia dla ludności związanego z obecnością czynników, o który
 8)
 wyniki badań i pomiarów stanowiących podstawę sporządzenia analiz, o których mowa w pkt 2–7.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2009/71/Euratom z dnia 25 czerwca 2009 r. ustanawiającej wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 172 z 02.07.2009, str. 18 oraz Dz. Urz. UE L 260 z 03.10.2009, str. 40). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657, z 2011 r. Nr 32, poz. 159, Nr 63, poz. 322, Nr 94, poz. 551, Nr 99, poz. 569, Nr 122, poz. 695, Nr 152, poz. 897, Nr 178, poz. 1060 i Nr 224, poz. 1341 oraz z 2012 r. poz. 460 i 951.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy o warunkach zdrowotnych żywności i żywienia oraz niektórych innych ustaw
+# Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy o warunkach zdrowotnych żywności i żywienia oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej, ustawę z dnia 6 września 2001 r. o materiałach i wyrobach przeznaczonych do kontaktu z żywnością, ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej oraz ustawę z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-28 |
 | Data wydania | 2005-09-16 |
-| Wejście w życie | 2005-10-17 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051781480) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1480/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 11 maja 2001 r. o warunkach zdrowotnych żywności i żywienia (Dz. U. z 2005 r. Nr 31, poz. 265) wprowadza się następujące zmiany:
 
-- **1)** odnośnik nr 1 do ustawy otrzymuje brzmienie: „
+- **1)** odnośnik nr 1 do ustawy otrzymuje brzmienie: „ 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji transpozycji następujących dyrektyw Wspólnot Europejskich:
 - **1)** dyrektywy Rady 76/895/EWG z dnia 23 listopada 1976 r. odnoszącej się do ustalania najwyższych dopuszczalnych poziomów pozostałości pestycydów w owocach i warzywach oraz na ich powierzchni (Dz. Urz. WE L 340 z 09.12.1976, str. 26, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 3, str. 61);
 - **2)** dyrektywy Rady 80/777/EWG z dnia 15 lipca 1980 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich w zakresie wydobywania i wprowadzania do obrotu naturalnych wód mineralnych (Dz. Urz. WE L 229 z 30.08.1980, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 6, str. 50);
 - **3)** pierwszej dyrektywy Komisji 81/712/EWG z dnia 28 lipca 1981 r. ustanawiającej wspólnotowe metody analiz w celu kontroli spełniania kryteriów czystości przez niektóre dodatki stosowane w środkach spożywczych (Dz. Urz. WE L 257 z 10.09.1981, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 6, str. 176);
@@ -160,7 +159,7 @@ source: "eli-html"
 - **1)** szczegółowe wymagania, jakie powinny spełniać naturalne wody mineralne, naturalne wody źródlane i wody stołowe,
 - **2)** wzorcowy zakres badań oraz sposób przeprowadzania oceny i kwalifikacji rodzajowej wód, o których mowa w pkt 1,
 - **3)** szczególne wymagania dotyczące znakowania wód, o których mowa w pkt 1,
-- **4)** szczegółowe warunki sanitarne i wymagania w zakresie przestrzegania zasad higieny w procesie produkcji lub w obrocie wodami, o których mowa w pkt 1 mając na względzie zapewnienie bezpieczeństwa tej żywności oraz wymagania w tym zakresie obowiązujące w Unii Europejskiej. ” ;
+- **4)** szczegółowe warunki sanitarne i wymagania w zakresie przestrzegania zasad higieny w procesie produkcji lub w obrocie wodami, o których mowa w pkt 1 – mając na względzie zapewnienie bezpieczeństwa tej żywności oraz wymagania w tym zakresie obowiązujące w Unii Europejskiej. ” ;
 - **6)** po art. 9a dodaje się art. 9b w brzmieniu: „
 
 **Art. 9b.**
@@ -172,7 +171,7 @@ source: "eli-html"
     - **b)**
 
 - **2)** obniżyć maksymalne poziomy zanieczyszczeń chemicznych i biologicznych określonych w przepisach wydanych na podstawie art. 9 ust. 4b,
-- **3)** obniżyć najwyższe dopuszczalne poziomy pozostałości chemicznych środków ochrony roślin określonych w przepisach wydanych na podstawie art. 9 ust. 5 jeżeli na podstawie nowych dowodów lub po dokonaniu ponownej oceny uzyska dostateczne podstawy do stwierdzenia, że mogą one zagrażać zdrowiu lub życiu człowieka.
+- **3)** obniżyć najwyższe dopuszczalne poziomy pozostałości chemicznych środków ochrony roślin określonych w przepisach wydanych na podstawie art. 9 ust. 5 – jeżeli na podstawie nowych dowodów lub po dokonaniu ponownej oceny uzyska dostateczne podstawy do stwierdzenia, że mogą one zagrażać zdrowiu lub życiu człowieka.
 
 2. Rozporządzenia, o których mowa w ust. 1, minister właściwy do spraw zdrowia przekazuje niezwłocznie, wraz z uzasadnieniem, innym państwom członkowskim Unii Europejskiej oraz Komisji Europejskiej.
 
@@ -262,7 +261,7 @@ source: "eli-html"
 
 1. Badania laboratoryjne, o których mowa w art. 43, wykonują akredytowane:
 
-- **1)** laboratoria Państwowej Inspekcji Sanitarnej funkcjonujące w zintegrowanym systemie badań laboratoryjnych jakości zdrowotnej żywności określonym w art. 15a ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 1998 r. Nr 90, poz. 575, z późn. zm.);
+- **1)** laboratoria Państwowej Inspekcji Sanitarnej funkcjonujące w zintegrowanym systemie badań laboratoryjnych jakości zdrowotnej żywności określonym w art. 15a ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 1998 r. Nr 90, poz. 575, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 756, z 1999 r. Nr 70, poz. 778, z 2000 r. Nr 12, poz. 136 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 29, poz. 320, Nr 42, poz. 473, Nr 63, poz. 634, Nr 125, poz. 1367, Nr 126, poz. 1382 i Nr 128, poz. 1407 i 1408, z 2002 r. Nr 37, poz. 329, Nr 74, poz. 676 i Nr 135, poz. 1145, z 2003 r. Nr 80, poz. 717 i Nr 208, poz. 2020, z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 130, poz. 1086, Nr 163, poz. 1362 i Nr 178, poz. 1480.);
 - **2)** laboratoria referencyjne. ” ;
 - **21)** w art. 45 uchyla się ust. 2;
 - **22)** w art. 49 ust. 1 otrzymuje brzmienie: „
@@ -283,12 +282,12 @@ source: "eli-html"
 - **1)** nie umieszcza na wprowadzonej do obrotu żywności genetycznie zmodyfikowanej oznakowania w sposób określony w przepisach rozporządzenia nr 1829/2003/WE oraz rozporządzenia nr 1830/2003/WE albo dokonuje tych czynności niezgodnie z tymi przepisami,
 - **2)** nie wykonuje obowiązku monitorowania wprowadzonej do obrotu żywności genetycznie zmodyfikowanej w sposób określony w przepisach rozporządzenia nr 1829/2003/WE albo dokonuje tych czynności niezgodnie z tymi przepisami, podlega karze grzywny. Kto:
 - **1)** nie przekazuje Komisji Europejskiej informacji o wszelkich nowych danych naukowych lub technicznych, które mogą mieć wpływ na ocenę bezpieczeństwa używania żywności genetycznie zmodyfikowanej,
-- **2)** nie przekazuje niezwłocznie Komisji Europejskiej informacji o wszelkich zakazach lub ograniczeniach nałożonych przez właściwy organ państwa trzeciego, w którym żywność genetycznie zmodyfikowana jest wprowadzana do obrotu w sposób określony w rozporządzeniu nr 1829/2003/WE, podlega karze grzywny. Kto nie stosuje się do decyzji w sprawie przywozu organizmów genetycznie zmodyfikowanych przeznaczonych do bezpośredniego wykorzystania jako żywność lub do ich przetwarzania, o którym mowa w art. 10 ust. 1 rozporządzenia nr 1946/2003/WE, podlega karze grzywny. Kto dokonuje transgranicznego przemieszczania organizmów genetycznie zmodyfikowanych przeznaczonych do bezpośredniego wykorzystania jako żywność lub do ich przetwarzania w sposób niezgodny z art. 10 ust. 1 rozporządzenia nr 1946/2003/WE, podlega karze grzywny. ” ;
+- **2)** nie przekazuje niezwłocznie Komisji Europejskiej informacji o wszelkich zakazach lub ograniczeniach nałożonych przez właściwy organ państwa trzeciego, w którym żywność genetycznie zmodyfikowana jest wprowadzana do obrotu – w sposób określony w rozporządzeniu nr 1829/2003/WE, podlega karze grzywny. Kto nie stosuje się do decyzji w sprawie przywozu organizmów genetycznie zmodyfikowanych przeznaczonych do bezpośredniego wykorzystania jako żywność lub do ich przetwarzania, o którym mowa w art. 10 ust. 1 rozporządzenia nr 1946/2003/WE, podlega karze grzywny. Kto dokonuje transgranicznego przemieszczania organizmów genetycznie zmodyfikowanych przeznaczonych do bezpośredniego wykorzystania jako żywność lub do ich przetwarzania w sposób niezgodny z art. 10 ust. 1 rozporządzenia nr 1946/2003/WE, podlega karze grzywny. ” ;
 - **25)** art. 52 otrzymuje brzmienie: „
 
 **Art. 52.** Orzekanie w sprawach o czyny, o których mowa w art. 51–51d, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia. ” .
 
-**Art. 2.** W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 1998 r. Nr 90, poz. 575, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 1998 r. Nr 90, poz. 575, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 756, z 1999 r. Nr 70, poz. 778, z 2000 r. Nr 12, poz. 136 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 29, poz. 320, Nr 42, poz. 473, Nr 63, poz. 634, Nr 125, poz. 1367, Nr 126, poz. 1382 i Nr 128, poz. 1407 i 1408, z 2002 r. Nr 37, poz. 329, Nr 74, poz. 676 i Nr 135, poz. 1145, z 2003 r. Nr 80, poz. 717 i Nr 208, poz. 2020, z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 130, poz. 1086 i Nr 163, poz. 1362.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 w ust. 1 po pkt 3 dodaje się pkt 3a w brzmieniu: „
 - **3a)** nadzoru nad jakością zdrowotną żywności, ” ;
@@ -312,7 +311,7 @@ source: "eli-html"
 3. Minister właściwy do spraw zdrowia określi, w drodze zarządzenia:
 
 - **1)** wykaz stacji sanitarno-epidemiologicznych wykonujących badania wody w zintegrowanym systemie badań laboratoryjnych,
-- **2)** wykaz stacji sanitarno-epidemiologicznych wykonujących badania jakości zdrowotnej żywności w zintegrowanym systemie badań laboratoryjnych mając na względzie strukturę organizacyjną stacji sanitarno-epidemiologicznych oraz liczbę podmiotów objętych na danym terenie nadzorem sanitarnym i charakter prowadzonej przez te podmioty działalności gospodarczej.
+- **2)** wykaz stacji sanitarno-epidemiologicznych wykonujących badania jakości zdrowotnej żywności w zintegrowanym systemie badań laboratoryjnych – mając na względzie strukturę organizacyjną stacji sanitarno-epidemiologicznych oraz liczbę podmiotów objętych na danym terenie nadzorem sanitarnym i charakter prowadzonej przez te podmioty działalności gospodarczej.
 
 4. Stacje sanitarno-epidemiologiczne działające w zintegrowanym systemie badań laboratoryjnych, o których mowa w ust. 3 pkt 2, wykonują badania jakości zdrowotnej żywności zgodnie z rocznymi planami pobierania próbek żywności w Państwowej Inspekcji Sanitarnej zatwierdzanymi przez Głównego Inspektora Sanitarnego. ” ;
 
@@ -346,7 +345,7 @@ source: "eli-html"
 
 1. Kto wprowadza do obrotu materiały i wyroby niespełniające wymagań określonych w ustawie i rozporządzeniu 1935/2004, w tym oznakowane w sposób niezgodny z wymaganiami określonymi w art. 15 rozporządzenia 1935/2004, podlega karze grzywny lub aresztu. ” ;
 
-- **10)** uchyla się załącznik do ustawy. W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. Nr 33, poz. 287, z późn. zm.) wprowadza się następujące zmiany:
+- **10)** uchyla się załącznik do ustawy. W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. Nr 33, poz. 287, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 877 i Nr 273, poz. 2703 oraz z 2005 r. Nr 23, poz. 188, Nr 33, poz. 289 i Nr 163, poz. 1362.) wprowadza się następujące zmiany:
 - **1)** w art. 3 w ust. 2 w pkt 7 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
 - **8)** przyjmowanie informacji o niebezpiecznych produktach żywnościowych oraz środkach żywienia zwierząt od organów Państwowej Inspekcji Ochrony Roślin i Nasiennictwa, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, w zakresie kompetencji tych inspekcji, oraz od organów Inspekcji Handlowej o niebezpiecznych produktach żywnościowych pochodzenia zwierzęcego oraz ocena ryzyka i stopnia zagrożenia spowodowanego niebezpiecznym produktem żywnościowym lub środkiem żywienia zwierząt, a następnie przekazywanie tych informacji do kierującego siecią systemu RASFF, o którym mowa w art. 40b ustawy z dnia 11 maja 2001 r. o warunkach zdrowotnych żywności i żywienia (Dz. U. z 2005 r. Nr 31, poz. 265 i Nr 178, poz. 1480). ” ;
 - **2)** w art. 13 po ust. 1 dodaje się ust. 1a w brzmieniu: „
@@ -354,8 +353,8 @@ source: "eli-html"
 1a. Główny Lekarz Weterynarii:
 
 - **1)** tworzy podpunkt krajowego punktu kontaktowego (PKPK) sieci systemu RASFF realizującego zadania, o których mowa w art. 3 ust. 2 pkt 8, i kieruje pracami tego podpunktu;
-- **2)** jest odpowiedzialny za zbieranie informacji dotyczących wszystkich stwierdzonych przypadków niebezpiecznej żywności pochodzenia roślinnego, zwierzęcego i środków żywienia zwierząt – w zakresie objętym kompetencjami Inspekcji Weterynaryjnej, Państwowej Inspekcji Ochrony Roślin i Nasiennictwa, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Inspekcji Handlowej – i za przekazywanie tych informacji do krajowego punktu kontaktowego sieci systemu RASFF. ” . W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807, z późn. zm.) w art. 84 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
-- **7)** nadzorem sanitarnym na podstawie ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 1998 r. Nr 90, poz. 575, z późn. zm.) i ustawy z dnia 11 maja 2001 r. o warunkach zdrowotnych żywności i żywienia (Dz. U. z 2005 r. Nr 31, poz. 265 i Nr 178, poz. 1480), w zakresie dotyczącym bezpieczeństwa żywności. ” .
+- **2)** jest odpowiedzialny za zbieranie informacji dotyczących wszystkich stwierdzonych przypadków niebezpiecznej żywności pochodzenia roślinnego, zwierzęcego i środków żywienia zwierząt – w zakresie objętym kompetencjami Inspekcji Weterynaryjnej, Państwowej Inspekcji Ochrony Roślin i Nasiennictwa, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Inspekcji Handlowej – i za przekazywanie tych informacji do krajowego punktu kontaktowego sieci systemu RASFF. ” . W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2777 oraz z 2005 r. Nr 33, poz. 289 i Nr 94, poz. 788, Nr 143, poz. 1199, Nr 175, poz. 1460 i Nr 177, poz. 1468.) w art. 84 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
+- **7)** nadzorem sanitarnym na podstawie ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 1998 r. Nr 90, poz. 575, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 756, z 1999 r. Nr 70, poz. 778, z 2000 r. Nr 12, poz. 136 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 29, poz. 320, Nr 42, poz. 473, Nr 63, poz. 634, Nr 125, poz. 1367, Nr 126, poz. 1382 i Nr 128, poz. 1407 i 1408, z 2002 r. Nr 37, poz. 329, Nr 74, poz. 676 i Nr 135, poz. 1145, z 2003 r. Nr 80, poz. 717 i Nr 208, poz. 2020, z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 130, poz. 1086, Nr 163, poz. 1362 i Nr 178, poz. 1480.) i ustawy z dnia 11 maja 2001 r. o warunkach zdrowotnych żywności i żywienia (Dz. U. z 2005 r. Nr 31, poz. 265 i Nr 178, poz. 1480), w zakresie dotyczącym bezpieczeństwa żywności. ” .
 
 **Art. 6.** Przepisy wykonawcze wydane na podstawie art. 9 ust. 4a i art. 9a ust. 1 ustawy wymienionej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9 ust. 4b i art. 9a ust. 4 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
@@ -365,5 +364,5 @@ source: "eli-html"
 
 2. Oceny i kwalifikacje rodzajowe naturalnych wód mineralnych przeprowadzone do dnia wejścia w życie ustawy zachowują ważność.
 
-**Art. 8.** Materiały i wyroby przeznaczone do kontaktu z żywnością niespełniające wymagań określonych w ustawie, o której mowa w art. 3, w brzmieniu nadanym niniejszą ustawą, wprowadzone do obrotu przed dniem wejścia w życie ustawy mogą pozostać w obrocie do wyczerpania zapasów. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 8.** Materiały i wyroby przeznaczone do kontaktu z żywnością niespełniające wymagań określonych w ustawie, o której mowa w art. 3, w brzmieniu nadanym niniejszą ustawą, wprowadzone do obrotu przed dniem wejścia w życie ustawy mogą pozostać w obrocie do wyczerpania zapasów. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej, ustawę z dnia 6 września 2001 r. o materiałach i wyrobach przeznaczonych do kontaktu z żywnością, ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej oraz ustawę z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 756, z 1999 r. Nr 70, poz. 778, z 2000 r. Nr 12, poz. 136 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 29, poz. 320, Nr 42, poz. 473, Nr 63, poz. 634, Nr 125, poz. 1367, Nr 126, poz. 1382 i Nr 128, poz. 1407 i 1408, z 2002 r. Nr 37, poz. 329, Nr 74, poz. 676 i Nr 135, poz. 1145, z 2003 r. Nr 80, poz. 717 i Nr 208, poz. 2020, z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 130, poz. 1086, Nr 163, poz. 1362 i Nr 178, poz. 1480. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 756, z 1999 r. Nr 70, poz. 778, z 2000 r. Nr 12, poz. 136 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 29, poz. 320, Nr 42, poz. 473, Nr 63, poz. 634, Nr 125, poz. 1367, Nr 126, poz. 1382 i Nr 128, poz. 1407 i 1408, z 2002 r. Nr 37, poz. 329, Nr 74, poz. 676 i Nr 135, poz. 1145, z 2003 r. Nr 80, poz. 717 i Nr 208, poz. 2020, z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 130, poz. 1086 i Nr 163, poz. 1362. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 877 i Nr 273, poz. 2703 oraz z 2005 r. Nr 23, poz. 188, Nr 33, poz. 289 i Nr 163, poz. 1362. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2777 oraz z 2005 r. Nr 33, poz. 289 i Nr 94, poz. 788, Nr 143, poz. 1199, Nr 175, poz. 1460 i Nr 177, poz. 1468. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 756, z 1999 r. Nr 70, poz. 778, z 2000 r. Nr 12, poz. 136 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 29, poz. 320, Nr 42, poz. 473, Nr 63, poz. 634, Nr 125, poz. 1367, Nr 126, poz. 1382 i Nr 128, poz. 1407 i 1408, z 2002 r. Nr 37, poz. 329, Nr 74, poz. 676 i Nr 135, poz. 1145, z 2003 r. Nr 80, poz. 717 i Nr 208, poz. 2020, z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 130, poz. 1086, Nr 163, poz. 1362 i Nr 178, poz. 1480.
 

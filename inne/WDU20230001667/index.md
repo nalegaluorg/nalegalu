@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 lipca 2023 r. o zmianie ustawy o emeryturach pomostowych oraz niektórych innych ustaw
+# Ustawa z dnia 28 lipca 2023 r. o zmianie ustawy o emeryturach pomostowych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz ustawę z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-28 |
 | Data wydania | 2023-08-22 |
-| Wejście w życie | 2024-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001667) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1667/text.pdf) |
 
@@ -70,7 +69,7 @@ source: "eli-html"
 
 § 4. Na postanowienie w przedmiocie udzielenia zabezpieczenia przysługuje zażalenie do sądu drugiej instancji. ” .
 
-**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm.) w art. 26 w ust. 1 w pkt 2c wyraz „500” zastępuje się wyrazem „840”.
+**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658, 825, 1059, 1114, 1130, 1407, 1414, 1429, 1523 i 1617.) w art. 26 w ust. 1 w pkt 2c wyraz „500” zastępuje się wyrazem „840”.
 
 **Art. 4.** W ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207) wprowadza się następujące zmiany:
 
@@ -122,6 +121,6 @@ source: "eli-html"
 **Art. 12.** Ustawa wchodzi w życie z dniem 1 stycznia 2024 r., z wyjątkiem:
 
 - **1)** art. 2 i 6, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia;
-- **2)** art. 8–11, które wchodzą w życie z dniem 1 września 2023 r.
+- **2)** art. 8–11, które wchodzą w życie z dniem 1 września 2023 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz ustawę z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658, 825, 1059, 1114, 1130, 1407, 1414, 1429, 1523 i 1617.
 
 

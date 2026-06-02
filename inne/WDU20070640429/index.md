@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-03-07 |
 | Data wydania | 2007-04-11 |
-| Wejście w życie | 2007-04-26 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070640429) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/429/text.pdf) |
 
@@ -147,7 +146,7 @@ source: "eli-html"
 - **3)** poddaje ubojowi zwierzęta poza rzeźnią, wbrew przepisom art. 17,
 - **4)** wprowadza na rynek produkty pochodzenia zwierzęcego w sposób niezgodny z rodzajem działalności określonej dla danego podmiotu w rejestrze prowadzonym przez powiatowego lekarza weterynarii,
 - **5)** wywozi produkty pochodzenia zwierzęcego z terytorium Rzeczypospolitej Polskiej do państw trzecich środkami transportu, na które nie nałożono plomb w sposób określony w art. 9a,
-- **6)** usuwa lub niszczy plomby, o których mowa w art. 9a, nie będąc do tego uprawnionym podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. ” ;
+- **6)** usuwa lub niszczy plomby, o których mowa w art. 9a, nie będąc do tego uprawnionym – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. ” ;
 - **13)** w art. 26 w ust. 1 w pkt 2: wprowadzenie do wyliczenia otrzymuje brzmienie: „ prowadząc produkcję produktów pochodzenia zwierzęcego, powoduje zagrożenie dla zdrowia publicznego, nie zapewniając spełniania: ” , lit. a otrzymuje brzmienie: „ przez produkty pochodzenia zwierzęcego wprowadzane na rynek wymagań określonych dla tych produktów lub ” .
     - **a)**
     - **b)**

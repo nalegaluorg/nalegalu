@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 kwietnia 2015 r. o zmianie ustawy – Prawo o ruchu drogowym
+# Ustawa z dnia 9 kwietnia 2015 r. o zmianie ustawy – Prawo o ruchu drogowym Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy wykonawczej Komisji 2014/37/UE z dnia 27 lutego 2014 r. zmieniającej dyrektywę Rady 91/671/EWG odnoszącą się do obowiązkowego stosowania pasów bezpieczeństwa i urządzeń przytrzymujących dla dzieci w pojazdach (Dz. Urz. UE L 59 z 28.02.2014, str. 32).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,22 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-04-09 |
 | Data wydania | 2015-04-30 |
-| Wejście w życie | 2015-05-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000591) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/591/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970 oraz z 2015 r. poz. 211 i 541.) wprowadza się następujące zmiany:
 
 - **1)** w art. 39: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy, z zastrzeżeniem ust. 3, 3b i 3c. ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) osoby mającej zaświadczenie lekarskie o przeciwwskazaniu do używania pasów bezpieczeństwa; ” , – po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) żołnierza Żandarmerii Wojskowej podczas wykonywania czynności ochronnych; ” , – w pkt 9 kropkę zastępuje się średnikiem i dodaje pkt 10 i 11 w brzmieniu: „ 10) dziecka w wieku poniżej 3 lat przewożonego pojazdem kategorii M2 i M3; 11) dziecka przewożonego na zasadach przewidzianych w art. 2 ust. 2 ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2012 r. poz. 1138, z późn. zm.). ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+1. Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy, z zastrzeżeniem ust. 3, 3b i 3c. ” , w ust. 2: pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **1)** osoby mającej zaświadczenie lekarskie o przeciwwskazaniu do używania pasów bezpieczeństwa; ” , po pkt 6 dodaje się pkt 6a w brzmieniu: „
+- **6a)** żołnierza Żandarmerii Wojskowej podczas wykonywania czynności ochronnych; ” , w pkt 9 kropkę zastępuje się średnikiem i dodaje pkt 10 i 11 w brzmieniu: „
+- **10)** dziecka w wieku poniżej 3 lat przewożonego pojazdem kategorii M2 i M3;
+- **11)** dziecka przewożonego na zasadach przewidzianych w art. 2 ust. 2 ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2012 r. poz. 1138, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1421 i 1650 oraz z 2014 r. poz. 1863.). ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **c)**
 
 2a. Kierujący pojazdem kategorii M2 i M3, o których mowa w załączniku nr 2 do ustawy, wyposażonym w pasy bezpieczeństwa jest obowiązany do poinformowania osób przewożonych pojazdem o obowiązku korzystania z tych pasów podczas jazdy, chyba że zostały one o tym obowiązku poinformowane:
 
@@ -60,7 +63,7 @@ source: "eli-html"
 4. Przepis ust. 3 nie dotyczy przewozu dziecka:
 
 - **1)** taksówką;
-- **2)** specjalistycznym środkiem transportu sanitarnego, o którym mowa w art. 36 ust. 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2013 r. poz. 757, z późn. zm.);
+- **2)** specjalistycznym środkiem transportu sanitarnego, o którym mowa w art. 36 ust. 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2013 r. poz. 757, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1245 i 1635 oraz z 2014 r. poz. 1802.);
 - **3)** pojazdem Policji, Straży Granicznej lub straży gminnej (miejskiej);
 - **4)** mającego zaświadczenie lekarskie o przeciwwskazaniu do przewożenia w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci. ” , dodaje się ust. 5 i 6 w brzmieniu: „
     - **g)**
@@ -87,5 +90,5 @@ source: "eli-html"
 
 **Art. 2.** Orzeczenia lekarskie o przeciwwskazaniu do używania pasów, o których mowa w art. 39 ust. 2 pkt 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, zachowują ważność przez okres, na jaki zostały wydane, nie dłuższy jednak niż 18 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy wykonawczej Komisji 2014/37/UE z dnia 27 lutego 2014 r. zmieniającej dyrektywę Rady 91/671/EWG odnoszącą się do obowiązkowego stosowania pasów bezpieczeństwa i urządzeń przytrzymujących dla dzieci w pojazdach (Dz. Urz. UE L 59 z 28.02.2014, str. 32). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970 oraz z 2015 r. poz. 211 i 541. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1421 i 1650 oraz z 2014 r. poz. 1863. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1245 i 1635 oraz z 2014 r. poz. 1802.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-11-04 |
 | Data wydania | 2019-11-14 |
-| Wejście w życie | 2019-11-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002201) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2201/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 228 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz
 § 1.
 W rozporządzeniu Prezesa Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie powołania Międzyresortowej Komisji do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy (Dz. U. z 2015 r. poz. 1772 oraz z 2017 r. poz. 1731) wprowadza się następujące zmiany:
 1)
-w § 1 pkt 1–4 otrzymują brzmienie:
-„
+w § 1 pkt 1–4 otrzymują brzmienie: „
 1)
 przewodniczący – Dyrektor Centralnego Instytutu Ochrony Pracy – Państwowego Instytutu Badawczego;
 2)
@@ -73,11 +71,9 @@ po jednym przedstawicielu, wyznaczonym przez:
 – prezesa Wyższego Urzędu Górniczego.
 ” ;
 2)
-po § 1 dodaje się § 1a w brzmieniu:
-„
+po § 1 dodaje się § 1a w brzmieniu: „
 § 1a.
-Podmioty, o których mowa w § 1, informują Przewodniczącego Komisji, w formie pisemnej lub w formie dokumentu elektronicznego, na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2019 r. poz. 700, 730, 848 i 1590), o zmianie swoich przedstawicieli w składzie Komisji, wskazując ich imiona i nazwiska, dane kontaktowe oraz kwalifikacje w obszarze działalności Komisji, niezwłocznie po dokonaniu tej zmiany.
-” .
+Podmioty, o których mowa w § 1, informują Przewodniczącego Komisji, w formie pisemnej lub w formie dokumentu elektronicznego, na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2019 r. poz. 700, 730, 848 i 1590), o zmianie swoich przedstawicieli w składzie Komisji, wskazując ich imiona i nazwiska, dane kontaktowe oraz kwalifikacje w obszarze działalności Komisji, niezwłocznie po dokonaniu tej zmiany. ” .
 § 2.
 1.
 Podmioty, o których mowa w § 1 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 30 dni od dnia wejścia w życie niniejszego rozporządzenia przekazują Przewodniczącemu Międzyresortowej Komisji do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy, w formie pisemnej lub w formie dokumentu elektronicznego, na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2019 r. poz. 700, 730, 848 i 1590), informację o swoich przedstawicielach wyznaczonych do składu tej Komisji, wskazując ich imiona i nazwiska, dane kontaktowe oraz kwalifikacje w obszarze działalności tej Komisji.

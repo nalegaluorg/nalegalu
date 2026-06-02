@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 17 września 2021 r. o zmianie ustawy – Prawo lotnicze oraz ustawy o Straży Granicznej
+# Ustawa z dnia 17 września 2021 r. o zmianie ustawy – Prawo lotnicze oraz ustawy o Straży Granicznej Niniejsza ustawa służy stosowaniu rozporządzenia wykonawczego Komisji (UE) 2015/1998 z dnia 5 listopada 2015 r. ustanawiającego szczegółowe środki w celu wprowadzenia w życie wspólnych podstawowych norm ochrony lotnictwa cywilnego (Dz. Urz. UE L 299 z 14.11.2015, str. 1, Dz. Urz. UE L 334 z 22.12.2015, str. 5, Dz. Urz. UE L 165 z 23.06.2016, str. 23, Dz. Urz. UE L 122 z 13.05.2017, str. 1, Dz. Urz. UE L 125 z 18.05.2017, str. 3, Dz. Urz. UE L 10 z 13.01.2018, str. 5, Dz. Urz. UE L 21 z 24.01.2019, str. 13, Dz. Urz. UE L 73 z 15.03.2019, str. 98, Dz. Urz. UE L 246 z 26.09.2019, str. 15, Dz. Urz. UE L 21 z 27.01.2020, str. 1, Dz. Urz. UE L 208 z 01.07.2020, str. 43 oraz Dz. Urz. UE L 58 z 19.02.2021, str. 23.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-09-17 |
 | Data wydania | 2021-10-21 |
-| Wejście w życie | 2021-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001898) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1898/text.pdf) |
 
@@ -30,7 +29,7 @@ source: "eli-html"
 
 - **1)** w art. 22 ust. 9 otrzymuje brzmienie: „
 
-9. Przed upoważnieniem podmiotu, o którym mowa w ust. 3, do wykonywania czynności nadzoru i kontroli w zakresie ochrony lotnictwa cywilnego Prezes Urzędu przeprowadza rozszerzone sprawdzenie przeszłości, o którym mowa w pkt 11.1.3 załącznika do rozporządzenia wykonawczego Komisji (UE) 2015/1998 z dnia 5 listopada 2015 r. ustanawiającego szczegółowe środki w celu wprowadzenia w życie wspólnych podstawowych norm ochrony lotnictwa cywilnego (Dz. Urz. UE L 299 z 14.11.2015, str. 1, z późn. zm.), zwane dalej „rozszerzonym sprawdzeniem przeszłości”, w stosunku do osoby ubiegającej się o upoważnienie albo osoby mającej wykonywać czynności nadzoru i kontroli w zakresie ochrony lotnictwa cywilnego na rzecz organu albo wyspecjalizowanej jednostki organizacyjnej ubiegającej się o takie upoważnienie. ” ;
+9. Przed upoważnieniem podmiotu, o którym mowa w ust. 3, do wykonywania czynności nadzoru i kontroli w zakresie ochrony lotnictwa cywilnego Prezes Urzędu przeprowadza rozszerzone sprawdzenie przeszłości, o którym mowa w pkt 11.1.3 załącznika do rozporządzenia wykonawczego Komisji (UE) 2015/1998 z dnia 5 listopada 2015 r. ustanawiającego szczegółowe środki w celu wprowadzenia w życie wspólnych podstawowych norm ochrony lotnictwa cywilnego (Dz. Urz. UE L 299 z 14.11.2015, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 334 z 22.12.2015, str. 5, Dz. Urz. UE L 165 z 23.06.2016, str. 23, Dz. Urz. UE L 122 z 13.05.2017, str. 1, Dz. Urz. UE L 125 z 18.05.2017, str. 3, Dz. Urz. UE L 10 z 13.01.2018, str. 5, Dz. Urz. UE L 21 z 24.01.2019, str. 13, Dz. Urz. UE L 73 z 15.03.2019, str. 98, Dz. Urz. UE L 246 z 26.09.2019, str. 15, Dz. Urz. UE L 21 z 27.01.2020, str. 1, Dz. Urz. UE L 208 z 01.07.2020, str. 43 oraz Dz. Urz. UE L 58 z 19.02.2021, str. 23., zwane dalej „rozszerzonym sprawdzeniem przeszłości”, w stosunku do osoby ubiegającej się o upoważnienie albo osoby mającej wykonywać czynności nadzoru i kontroli w zakresie ochrony lotnictwa cywilnego na rzecz organu albo wyspecjalizowanej jednostki organizacyjnej ubiegającej się o takie upoważnienie. ” ;
 
 - **2)** w art. 186b: ust. 11 otrzymuje brzmienie: „
     - **a)**
@@ -79,7 +78,7 @@ source: "eli-html"
 - **4)** odpowiedzialnych za zapewnienie zgodności programu ochrony z przepisami prawa i jego wdrożenie w podmiocie prowadzącym działalność lotniczą (kierownicy do spraw ochrony) – innych niż wymienione w art. 189c ust. 2 pkt 5,
 - **5)** biorących udział w przewozie ładunku i poczty, poczty i materiałów przewoźnika lotniczego, zaopatrzenia pokładowego lub zaopatrzenia portu lotniczego, do których zastosowano wymagane środki kontroli w zakresie ochrony,
 - **6)** zatrudnionych w strefie operacyjnej lotniska, zatrudnionych w punktach handlowych lub usługowych zlokalizowanych w strefie ogólnodostępnej lotniska albo wykonujących w tych strefach obowiązki związane z funkcjonowaniem lotniska,
-- **7)** mających uprawnienia administratora lub nieograniczony dostęp bez nadzoru do krytycznych systemów technologii informacyjno-komunikacyjnych i danych wykorzystywanych do celów ochrony lotnictwa cywilnego z wyłączeniem osób podlegających rozszerzonemu sprawdzeniu przeszłości.
+- **7)** mających uprawnienia administratora lub nieograniczony dostęp bez nadzoru do krytycznych systemów technologii informacyjno-komunikacyjnych i danych wykorzystywanych do celów ochrony lotnictwa cywilnego – z wyłączeniem osób podlegających rozszerzonemu sprawdzeniu przeszłości.
 
 3. Standardowe sprawdzenie przeszłości przeprowadza:
 
@@ -154,7 +153,7 @@ source: "eli-html"
 1. W ramach rozszerzonego sprawdzenia przeszłości:
 
 - **1)** podmiot przeprowadzający rozszerzone sprawdzenie przeszłości, o którym mowa w art. 189c ust. 3 pkt 1–4,
-- **2)** Prezes Urzędu, na wniosek podmiotu przeprowadzającego rozszerzone sprawdzenie przeszłości, o którym mowa w art. 189c ust. 3 pkt 5–7 zwani dalej „podmiotami sprawdzającymi”, składają do komendanta oddziału Straży Granicznej właściwego miejscowo ze względu na siedzibę podmiotu sprawdzającego wniosek o udzielenie informacji o istnieniu negatywnych przesłanek albo o ich braku, zwany dalej „wnioskiem o sprawdzenie”.
+- **2)** Prezes Urzędu, na wniosek podmiotu przeprowadzającego rozszerzone sprawdzenie przeszłości, o którym mowa w art. 189c ust. 3 pkt 5–7 – zwani dalej „podmiotami sprawdzającymi”, składają do komendanta oddziału Straży Granicznej właściwego miejscowo ze względu na siedzibę podmiotu sprawdzającego wniosek o udzielenie informacji o istnieniu negatywnych przesłanek albo o ich braku, zwany dalej „wnioskiem o sprawdzenie”.
 
 2. Wniosek o sprawdzenie oraz wniosek, o którym mowa w ust. 1 pkt 2, zawierają:
 
@@ -205,7 +204,7 @@ source: "eli-html"
 1. Komendant oddziału Straży Granicznej stwierdza istnienie negatywnych przesłanek w przypadku wystąpienia zagrożenia dla obronności lub bezpieczeństwa państwa i porządku publicznego albo powzięcia wiadomości o aktualnie prowadzonym postępowaniu karnym przeciwko osobie lub o skazaniu jej prawomocnym wyrokiem w związku z:
 
 - **1)** przestępstwem o charakterze terrorystycznym, przestępstwem przeciwko pokojowi, ludzkości oraz przestępstwem wojennym, przestępstwem przeciwko Rzeczypospolitej Polskiej, przestępstwem przeciwko obronności, przestępstwem przeciwko życiu i zdrowiu, przestępstwem przeciwko bezpieczeństwu powszechnemu, przestępstwem przeciwko bezpieczeństwu w komunikacji, przestępstwem przeciwko środowisku, przestępstwem przeciwko wolności, przestępstwem przeciwko wolności seksualnej i obyczajności, przestępstwem przeciwko rodzinie i opiece, przestępstwem przeciwko działalności instytucji państwowych oraz samorządu terytorialnego, przestępstwem przeciwko wymiarowi sprawiedliwości, przestępstwem przeciwko porządkowi publicznemu, przestępstwem przeciwko ochronie informacji, przestępstwem przeciwko wiarygodności dokumentów, przestępstwem przeciwko mieniu, przestępstwem przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym, przestępstwem przeciwko obrotowi pieniędzmi i papierami wartościowymi, przestępstwem przeciwko zasadom dyscypliny wojskowej, przestępstwem przeciwko mieniu wojskowemu, przestępstwem skarbowym przeciwko obowiązkom celnym oraz zasadom obrotu z zagranicą towarami i usługami lub przestępstwem skarbowym przeciwko obowiązkom podatkowym i rozliczeniom z tytułu dotacji lub subwencji lub
-- **2)** przestępstwem określonym w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2020 r. poz. 1896, z późn. zm.), ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2021 r. poz. 324), ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2020 r. poz. 509), ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 974 i 981), ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2021 r. poz. 710 i 954), ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2021 r. poz. 1098 i 1718), ustawie z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2020 r. poz. 2134), ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050), ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2021 r. poz. 328, 355, 680, 1505 i 1595) lub ustawie z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2020 r. poz. 1545 oraz z 2021 r. poz. 1329) jeżeli przestępstwo to zostało popełnione umyślnie i górna granica ustawowego zagrożenia karą pozbawienia wolności za to przestępstwo wynosi co najmniej 3 lata.
+- **2)** przestępstwem określonym w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2020 r. poz. 1896, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2320 i 2419 oraz z 2021 r. poz. 432, 680, 815, 1177, 1598, 1626 i 1666.), ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2021 r. poz. 324), ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2020 r. poz. 509), ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 974 i 981), ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2021 r. poz. 710 i 954), ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2021 r. poz. 1098 i 1718), ustawie z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2020 r. poz. 2134), ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050), ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2021 r. poz. 328, 355, 680, 1505 i 1595) lub ustawie z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2020 r. poz. 1545 oraz z 2021 r. poz. 1329) – jeżeli przestępstwo to zostało popełnione umyślnie i górna granica ustawowego zagrożenia karą pozbawienia wolności za to przestępstwo wynosi co najmniej 3 lata.
 
 2. Komendant oddziału Straży Granicznej dokonuje ustaleń i udziela, w formie pisemnej, podmiotowi sprawdzającemu informacji o istnieniu negatywnych przesłanek albo o ich braku w terminie 30 dni od dnia otrzymania wniosku o sprawdzenie.
 
@@ -281,14 +280,14 @@ source: "eli-html"
 1. Zarządzający lotniskiem, przewoźnik lotniczy i Polska Agencja Żeglugi Powietrznej, którzy:
 
 - **1)** nie realizują obowiązku określonego w art. 189f ust. 5 zdanie pierwsze,
-- **2)** realizując obowiązek określony w art. 189f ust. 6, przekazują informację nieprawdziwą lub niepełną za dany kwartał podlegają karze pieniężnej w wysokości od 2000 do 20 000 zł.
+- **2)** realizując obowiązek określony w art. 189f ust. 6, przekazują informację nieprawdziwą lub niepełną za dany kwartał – podlegają karze pieniężnej w wysokości od 2000 do 20 000 zł.
 
 2. Karę pieniężną, o której mowa w ust. 1, nakłada, w drodze decyzji administracyjnej, Komendant Główny Straży Granicznej po stwierdzeniu uchybień w ramach kontroli.
 
 1. Podmiot, na którego wniosek Prezes Urzędu występuje o informację o istnieniu negatywnych przesłanek, który:
 
 - **1)** nie realizuje obowiązku określonego w art. 189f ust. 5 zdanie drugie,
-- **2)** nie realizuje obowiązku określonego w art. 189f ust. 8 lub realizując ten obowiązek, przekazuje informację nieprawdziwą lub niepełną za dany kwartał podlega karze pieniężnej w wysokości od 2000 do 20 000 zł.
+- **2)** nie realizuje obowiązku określonego w art. 189f ust. 8 lub realizując ten obowiązek, przekazuje informację nieprawdziwą lub niepełną za dany kwartał – podlega karze pieniężnej w wysokości od 2000 do 20 000 zł.
 
 2. Karę pieniężną, o której mowa w ust. 1, nakłada, w drodze decyzji administracyjnej, Prezes Urzędu po stwierdzeniu uchybień w ramach kontroli, o której mowa w art. 29b ust. 7. ” .
 
@@ -348,6 +347,6 @@ source: "eli-html"
 **Art. 7.** Ustawa wchodzi w życie z dniem 31 grudnia 2021 r., z wyjątkiem:
 
 - **1)** art. 1 pkt 9 w zakresie art. 189d ust. 6 i 7 i art. 5, które wchodzą w życie z dniem 15 listopada 2021 r.;
-- **2)** art. 4, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+- **2)** art. 4, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa służy stosowaniu rozporządzenia wykonawczego Komisji (UE) 2015/1998 z dnia 5 listopada 2015 r. ustanawiającego szczegółowe środki w celu wprowadzenia w życie wspólnych podstawowych norm ochrony lotnictwa cywilnego (Dz. Urz. UE L 299 z 14.11.2015, str. 1, Dz. Urz. UE L 334 z 22.12.2015, str. 5, Dz. Urz. UE L 165 z 23.06.2016, str. 23, Dz. Urz. UE L 122 z 13.05.2017, str. 1, Dz. Urz. UE L 125 z 18.05.2017, str. 3, Dz. Urz. UE L 10 z 13.01.2018, str. 5, Dz. Urz. UE L 21 z 24.01.2019, str. 13, Dz. Urz. UE L 73 z 15.03.2019, str. 98, Dz. Urz. UE L 246 z 26.09.2019, str. 15, Dz. Urz. UE L 21 z 27.01.2020, str. 1, Dz. Urz. UE L 208 z 01.07.2020, str. 43 oraz Dz. Urz. UE L 58 z 19.02.2021, str. 23. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 334 z 22.12.2015, str. 5, Dz. Urz. UE L 165 z 23.06.2016, str. 23, Dz. Urz. UE L 122 z 13.05.2017, str. 1, Dz. Urz. UE L 125 z 18.05.2017, str. 3, Dz. Urz. UE L 10 z 13.01.2018, str. 5, Dz. Urz. UE L 21 z 24.01.2019, str. 13, Dz. Urz. UE L 73 z 15.03.2019, str. 98, Dz. Urz. UE L 246 z 26.09.2019, str. 15, Dz. Urz. UE L 21 z 27.01.2020, str. 1, Dz. Urz. UE L 208 z 01.07.2020, str. 43 oraz Dz. Urz. UE L 58 z 19.02.2021, str. 23. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2320 i 2419 oraz z 2021 r. poz. 432, 680, 815, 1177, 1598, 1626 i 1666.
 
 

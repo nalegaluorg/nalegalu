@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 marca 2011 r. o zmianie ustawy o radiofonii i telewizji oraz niektórych innych ustaw
+# Ustawa z dnia 25 marca 2011 r. o zmianie ustawy o radiofonii i telewizji oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 stycznia 1984 r. – Prawo prasowe, ustawę z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną oraz ustawę z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-03-25 |
 | Data wydania | 2011-04-22 |
-| Wejście w życie | 2011-05-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110850459) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/459/text.pdf) |
+
+Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia postanowień dyrektywy Parlamentu Europejskiego i Rady 2010/13/UE z dnia 10 marca 2010 r. w sprawie koordynacji niektórych przepisów ustawowych, wykonawczych i administracyjnych państw członkowskich, dotyczących świadczenia audiowizualnych usług medialnych (dyrektywa o audiowizualnych usługach medialnych) (Dz. Urz. UE L 95 z 15.04.2010, str. 1).
 
 **Art. 1.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226) wprowadza się następujące zmiany:
 
@@ -61,7 +62,7 @@ source: "eli-html"
 4. Ustawę stosuje się także do dostawcy usługi medialnej, który:
 
 - **1)** korzysta ze stacji dosyłowej do satelity zlokalizowanej na terytorium Rzeczypospolitej Polskiej albo
-- **2)** nie korzysta z tej stacji, ale korzysta z łącza satelitarnego należącego do Rzeczypospolitej Polskiej mimo że nie odpowiada on warunkom określonym w ust. 2 i 3 i nie został uznany za dostawcę usługi medialnej ustanowionego w państwie członkowskim Unii Europejskiej na podstawie przepisów prawa tego państwa odpowiadających warunkom określonym w ust. 2 i 3. ” ;
+- **2)** nie korzysta z tej stacji, ale korzysta z łącza satelitarnego należącego do Rzeczypospolitej Polskiej – mimo że nie odpowiada on warunkom określonym w ust. 2 i 3 i nie został uznany za dostawcę usługi medialnej ustanowionego w państwie członkowskim Unii Europejskiej na podstawie przepisów prawa tego państwa odpowiadających warunkom określonym w ust. 2 i 3. ” ;
 - **3)** w art. 2: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -114,14 +115,22 @@ source: "eli-html"
 - **26)** producentem niezależnym wobec danego nadawcy jest producent niepozostający w stosunku pracy z danym nadawcą, niebędący sam nadawcą i nieposiadający udziałów w organizacji nadawcy oraz w którym nadawca ani żaden podmiot od niego zależny bądź należący do tej samej grupy kapitałowej nie posiada żadnych udziałów, a w zarządach nie zasiadają żadne osoby pozostające w stosunku pracy z danym nadawcą lub będące nadawcami;
 - **27)** przedsiębiorcą jest przedsiębiorca w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej;
 - **28)** audiodeskrypcją jest werbalny, dźwiękowy opis obrazu i treści wizualnych zawartych w audycji audiowizualnej przeznaczony dla osób niepełnosprawnych z powodu dysfunkcji narządu wzroku, umieszczony w audycji lub rozpowszechniany równocześnie z audycją;
-- **29)** systemem teleinformatycznym jest system teleinformatyczny w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. Nr 144, poz. 1204, z późn. zm.);
-- **30)** siecią telekomunikacyjną jest sieć telekomunikacyjna w rozumieniu ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.). ” ;
+- **29)** systemem teleinformatycznym jest system teleinformatyczny w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. Nr 144, poz. 1204, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808, z 2007 r. Nr 50, poz. 331, z 2008 r. Nr 171, poz. 1056 i Nr 216, poz. 1371 oraz z 2009 r. Nr 201, poz. 1540.);
+- **30)** siecią telekomunikacyjną jest sieć telekomunikacyjna w rozumieniu ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716 oraz z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 229, poz. 1499 i Nr 238, poz. 1578.). ” ;
 - **7)** w art. 6: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Krajowa Rada stoi na straży wolności słowa w radiu i telewizji, samodzielności dostawców usług medialnych i interesów odbiorców oraz zapewnia otwarty i pluralistyczny charakter radiofonii i telewizji. ” , w ust. 2: – pkt 2 i 3 otrzymują brzmienie: „ 2) określanie, w granicach upoważnień ustawowych, warunków prowadzenia działalności przez dostawców usług medialnych; 3) podejmowanie, w zakresie przewidzianym ustawą, rozstrzygnięć w sprawach koncesji na rozpowszechnianie programów, wpisu do rejestru programów, zwanego dalej „rejestrem”, oraz prowadzenie tego rejestru; ” , – pkt 4–5 otrzymują brzmienie: „ 4) sprawowanie w granicach określonych ustawą kontroli działalności dostawców usług medialnych; 5) organizowanie badań treści i odbioru programów radiowych i telewizyjnych; ” , – pkt 9 i 10 otrzymują brzmienie: „ 9) organizowanie i inicjowanie współpracy z zagranicą w dziedzinie radiofonii i telewizji, w tym współpracy z organami regulacyjnymi państw członkowskich Unii Europejskiej, właściwymi w sprawach usług medialnych; 10) współpraca z właściwymi organizacjami i instytucjami w zakresie ochrony praw autorskich, praw wykonawców, praw producentów oraz dostawców usług medialnych; ” , – w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 i 13 w brzmieniu: „ 12) propagowanie samoregulacji lub współregulacji w zakresie świadczenia usług medialnych objętych ustawą, w tym przedstawianie, na wniosek dostawcy usługi medialnej, opinii o kodeksie, o którym mowa w art. 3a; 13) upowszechnianie umiejętności świadomego korzystania z mediów (edukacji medialnej) oraz współpraca z innymi organami państwowymi, organizacjami pozarządowymi i innymi instytucjami w zakresie edukacji medialnej. ” ;
+1. Krajowa Rada stoi na straży wolności słowa w radiu i telewizji, samodzielności dostawców usług medialnych i interesów odbiorców oraz zapewnia otwarty i pluralistyczny charakter radiofonii i telewizji. ” , w ust. 2: pkt 2 i 3 otrzymują brzmienie: „
 
 - **b)**
+- **2)** określanie, w granicach upoważnień ustawowych, warunków prowadzenia działalności przez dostawców usług medialnych;
+- **3)** podejmowanie, w zakresie przewidzianym ustawą, rozstrzygnięć w sprawach koncesji na rozpowszechnianie programów, wpisu do rejestru programów, zwanego dalej „rejestrem”, oraz prowadzenie tego rejestru; ” , pkt 4–5 otrzymują brzmienie: „
+- **4)** sprawowanie w granicach określonych ustawą kontroli działalności dostawców usług medialnych;
+- **5)** organizowanie badań treści i odbioru programów radiowych i telewizyjnych; ” , pkt 9 i 10 otrzymują brzmienie: „
+- **9)** organizowanie i inicjowanie współpracy z zagranicą w dziedzinie radiofonii i telewizji, w tym współpracy z organami regulacyjnymi państw członkowskich Unii Europejskiej, właściwymi w sprawach usług medialnych;
+- **10)** współpraca z właściwymi organizacjami i instytucjami w zakresie ochrony praw autorskich, praw wykonawców, praw producentów oraz dostawców usług medialnych; ” , w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 i 13 w brzmieniu: „
+- **12)** propagowanie samoregulacji lub współregulacji w zakresie świadczenia usług medialnych objętych ustawą, w tym przedstawianie, na wniosek dostawcy usługi medialnej, opinii o kodeksie, o którym mowa w art. 3a;
+- **13)** upowszechnianie umiejętności świadomego korzystania z mediów (edukacji medialnej) oraz współpraca z innymi organami państwowymi, organizacjami pozarządowymi i innymi instytucjami w zakresie edukacji medialnej. ” ;
 - **8)** w art. 8 ust. 4 otrzymuje brzmienie: „
 
 4. Nie można łączyć funkcji członka Krajowej Rady z posiadaniem udziałów albo akcji spółki bądź w inny sposób uczestniczyć w podmiocie będącym dostawcą usługi medialnej lub producentem radiowym lub telewizyjnym oraz wszelką działalnością zarobkową, z wyjątkiem pracy dydaktyczno-naukowej w charakterze nauczyciela akademickiego lub pracy twórczej. ” ;
@@ -167,7 +176,7 @@ source: "eli-html"
 - **1)** nadawców w pierwszym roku rozpowszechniania przez nich programu,
 - **2)** programów wyspecjalizowanych, dla których brak jest wystarczającej liczby audycji, o których mowa w ust. 1 i 3, lub utworów, o których mowa w ust. 2,
 - **3)** programów, na których nadawanie przyznano koncesję określającą, że programy te są przeznaczone dla mniejszości narodowych i etnicznych oraz społeczności posługującej się językiem regionalnym,
-- **4)** programów rozpowszechnianych wyłącznie w systemach teleinformatycznych uwzględniając konieczność zachowania proporcji audycji wytworzonych pierwotnie w języku polskim i audycji europejskich oraz uwzględniając możliwość realizacji tych obowiązków w danych kategoriach programów. ” ;
+- **4)** programów rozpowszechnianych wyłącznie w systemach teleinformatycznych – uwzględniając konieczność zachowania proporcji audycji wytworzonych pierwotnie w języku polskim i audycji europejskich oraz uwzględniając możliwość realizacji tych obowiązków w danych kategoriach programów. ” ;
 - **12)** w art. 15a po ust. 2 dodaje się ust. 3 w brzmieniu: „
 
 3. Krajowa Rada określi, w drodze rozporządzenia, niższy udział audycji europejskich wytworzonych przez producentów niezależnych w okresie 5 lat przed rozpowszechnieniem w programie dla programów telewizyjnych, dla których ze względu na wyspecjalizowany charakter programu brak jest wystarczającej liczby tych audycji, uwzględniając wpływ charakteru programów na możliwość realizacji przez nadawców tych obowiązków. ” ;
@@ -208,7 +217,7 @@ source: "eli-html"
 - **2)** wymagania dotyczące osób, których głos lub wizerunek jest wykorzystywany w reklamach, z uwzględnieniem zakresu ograniczeń w prowadzeniu przez nie innych audycji w programach radiowych i telewizyjnych,
 - **3)** zakres udostępniania przez nadawcę czasu wykorzystywanego na reklamy i telesprzedaż, w tym maksymalny wymiar czasu w okresie rocznym dla jednego przedsiębiorcy lub ugrupowania gospodarczego,
 - **4)** sposób prowadzenia i przechowywania przez nadawcę ewidencji czasu nadawanych reklam i telesprzedaży oraz zakres danych objętych tą ewidencją,
-- **5)** szczegółowe wymagania dla ogłoszeń nadawców, o których mowa w ust. 4 pkt 1 i 2, oraz sposób ich oznaczania i umieszczania w programach kierując się ochroną interesu odbiorców i samodzielności nadawców oraz uwzględniając rozwój technik reklamowych.
+- **5)** szczegółowe wymagania dla ogłoszeń nadawców, o których mowa w ust. 4 pkt 1 i 2, oraz sposób ich oznaczania i umieszczania w programach – kierując się ochroną interesu odbiorców i samodzielności nadawców oraz uwzględniając rozwój technik reklamowych.
 
 1. Umieszczanie reklam lub telesprzedaży podczas audycji nie może naruszać integralności audycji, przy uwzględnieniu naturalnych przerw w audycji, jej czasu trwania i charakteru, ani uprawnień podmiotów praw do audycji.
 
@@ -229,10 +238,14 @@ source: "eli-html"
 
 7. Nie można przerywać w celu nadania reklam lub telesprzedaży audycji w programach publicznej radiofonii i telewizji, z wyjątkiem audycji, o których mowa w ust. 2. ” ;
 
-- **15)** w art. 16b: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zakazane jest nadawanie przekazu handlowego: ” , – w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „ 6) substancji psychotropowych lub środków odurzających oraz środków spożywczych lub innych produktów, w zakresie uregulowanym ustawą z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. Nr 179, poz. 1485, z późn. zm.). ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zakazane jest nadawanie przekazów handlowych: ” , w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przekaz handlowy nie może: ” , – pkt 2 otrzymuje brzmienie: „ 2) zawierać treści dyskryminujących ze względu na rasę, płeć, narodowość, pochodzenie etniczne, wyznanie lub światopogląd, niepełnosprawność, wiek czy orientację seksualną; ” , po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
+- **15)** w art. 16b: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zakazane jest nadawanie przekazu handlowego: ” , w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
     - **a)**
+
+- **6)** substancji psychotropowych lub środków odurzających oraz środków spożywczych lub innych produktów, w zakresie uregulowanym ustawą z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. Nr 179, poz. 1485, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 66, poz. 469 i Nr 120, poz. 826, z 2007 r. Nr 7, poz. 48 i Nr 82, poz. 558, z 2009 r. Nr 18, poz. 97, Nr 63, poz. 520, Nr 92, poz. 753 i Nr 98, poz. 817, z 2010 r. Nr 28, poz. 146, Nr 143, poz. 962, Nr 213, poz. 1396 i Nr 228, poz. 1486 oraz z 2011 r. Nr 63, poz. 322.). ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zakazane jest nadawanie przekazów handlowych: ” , w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przekaz handlowy nie może: ” , pkt 2 otrzymuje brzmienie: „
     - **b)**
     - **c)**
+
+- **2)** zawierać treści dyskryminujących ze względu na rasę, płeć, narodowość, pochodzenie etniczne, wyznanie lub światopogląd, niepełnosprawność, wiek czy orientację seksualną; ” , po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
     - **d)**
 
 3a. Audycjom dla dzieci nie powinny towarzyszyć przekazy handlowe dotyczące artykułów spożywczych lub napojów zawierających składniki, których obecność w nadmiernych ilościach w codziennej diecie jest niewskazana.
@@ -240,7 +253,7 @@ source: "eli-html"
 3b. Krajowa Rada, po zasięgnięciu opinii ministra właściwego do spraw zdrowia, może określić, w drodze rozporządzenia:
 
 - **1)** rodzaje artykułów spożywczych lub napojów zawierających składniki, których obecność w nadmiernych ilościach w codziennej diecie jest niewskazana,
-- **2)** sposób umieszczania w programach przekazów handlowych dotyczących tych artykułów, tak aby przekazy te nie towarzyszyły audycjom dla dzieci dążąc do zachęcenia nadawców do przeciwdziałania promowaniu niezdrowego odżywiania wśród dzieci oraz uwzględniając charakter programów, ich wpływ na kształtowanie opinii publicznej i oddziaływanie na interesy odbiorców, bez nakładania nieuzasadnionych obowiązków na nadawców. ” , uchyla się ust. 4;
+- **2)** sposób umieszczania w programach przekazów handlowych dotyczących tych artykułów, tak aby przekazy te nie towarzyszyły audycjom dla dzieci – dążąc do zachęcenia nadawców do przeciwdziałania promowaniu niezdrowego odżywiania wśród dzieci oraz uwzględniając charakter programów, ich wpływ na kształtowanie opinii publicznej i oddziaływanie na interesy odbiorców, bez nakładania nieuzasadnionych obowiązków na nadawców. ” , uchyla się ust. 4;
     - **e)**
 
 - **16)** art. 16c otrzymuje brzmienie: „ Zakazane są:
@@ -267,7 +280,7 @@ source: "eli-html"
 1. Lokowanie produktu jest dopuszczalne wyłącznie:
 
 - **1)** w filmach kinematograficznych, filmach lub serialach wytworzonych na użytek audiowizualnych usług medialnych, a także w audycjach sportowych oraz audycjach rozrywkowych, lub
-- **2)** w postaci nieodpłatnego udostępniania towaru lub usługi do wykorzystania w audycji, w szczególności w charakterze rekwizytu lub nagrody z wyłączeniem audycji dla dzieci.
+- **2)** w postaci nieodpłatnego udostępniania towaru lub usługi do wykorzystania w audycji, w szczególności w charakterze rekwizytu lub nagrody – z wyłączeniem audycji dla dzieci.
 
 2. Audycje, w których stosuje się lokowanie produktu, oznacza się w programach telewizyjnych za pomocą znaku graficznego, a w programach radiowych za pomocą sygnału dźwiękowego informujących o fakcie lokowania produktu, na początku, na końcu oraz w momencie wznowienia po przerwie na reklamę lub telesprzedaż.
 
@@ -289,7 +302,7 @@ source: "eli-html"
 9. Krajowa Rada określi, w drodze rozporządzenia:
 
 - **1)** szczegółowe warunki oznaczania przez nadawcę audycji, w których zastosowano lokowanie produktu, w tym wzór znaku graficznego oraz formę sygnału dźwiękowego, o których mowa w ust. 2,
-- **2)** sposób prowadzenia oraz przechowywania przez nadawcę ewidencji audycji, w których zastosowano lokowanie produktu, oraz zakres danych objętych tą ewidencją uwzględniając interesy odbiorców i możliwość prowadzenia przez nadawcę ewidencji w postaci elektronicznej, bez obciążania nadawców nadmiernymi utrudnieniami i kosztami. ” ;
+- **2)** sposób prowadzenia oraz przechowywania przez nadawcę ewidencji audycji, w których zastosowano lokowanie produktu, oraz zakres danych objętych tą ewidencją – uwzględniając interesy odbiorców i możliwość prowadzenia przez nadawcę ewidencji w postaci elektronicznej, bez obciążania nadawców nadmiernymi utrudnieniami i kosztami. ” ;
 - **19)** w art. 18 ust. 1 otrzymuje brzmienie: „
 
 1. Audycje lub inne przekazy nie mogą propagować działań sprzecznych z prawem, z polską racją stanu oraz postaw i poglądów sprzecznych z moralnością i dobrem społecznym, w szczególności nie mogą zawierać treści nawołujących do nienawiści lub dyskryminujących ze względu na rasę, niepełnosprawność, płeć, wyznanie lub narodowość. ” ;
@@ -335,9 +348,10 @@ source: "eli-html"
     - **a)**
 
 - **10)** zapewnianie dostępności programów lub ich części i innych usług dla osób niepełnosprawnych z powodu dysfunkcji narządu wzroku oraz osób niepełnosprawnych z powodu dysfunkcji narządu słuchu;
-- **11)** upowszechnianie edukacji medialnej. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Programy i inne usługi publicznej radiofonii i telewizji powinny: ” , – w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „ 10) służyć edukacji medialnej. ” ;
+- **11)** upowszechnianie edukacji medialnej. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Programy i inne usługi publicznej radiofonii i telewizji powinny: ” , w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
     - **b)**
 
+- **10)** służyć edukacji medialnej. ” ;
 - **25)** w art. 33 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
 1a. Nie wymaga uzyskania koncesji rozpowszechnianie programów telewizyjnych wyłącznie w systemach teleinformatycznych, chyba że program taki ma być rozprowadzany naziemnie, satelitarnie lub w sieciach kablowych. ” ;
@@ -434,7 +448,7 @@ source: "eli-html"
 **Art. 46.** Krajowa Rada określi, w drodze rozporządzenia, szczegółowy sposób i tryb prowadzenia rejestru programów rozpowszechnianych wyłącznie w systemie teleinformatycznym i programów rozprowadzanych, w tym:
 
 - **1)** wzór rejestru,
-- **2)** wzór zgłoszenia o wpis do rejestru uwzględniając możliwość prowadzenia rejestru oraz zgłaszania do niego wniosków w systemie teleinformatycznym, konieczność zapewnienia przejrzystości i kompletności zapisu informacji znajdujących się w rejestrze oraz sprawność postępowania rejestracyjnego, a także nieobciążanie dostawców usług medialnych utrudnieniami w zakresie wykonywanej działalności. ” ;
+- **2)** wzór zgłoszenia o wpis do rejestru – uwzględniając możliwość prowadzenia rejestru oraz zgłaszania do niego wniosków w systemie teleinformatycznym, konieczność zapewnienia przejrzystości i kompletności zapisu informacji znajdujących się w rejestrze oraz sprawność postępowania rejestracyjnego, a także nieobciążanie dostawców usług medialnych utrudnieniami w zakresie wykonywanej działalności. ” ;
 - **34)** po art. 46 dodaje się art. 46a i 46b w brzmieniu: „
 
 1. Jeżeli nadawca programu, o którym mowa w art. 45 ust. 3 pkt 1, jest ustanowiony w innym państwie członkowskim Unii Europejskiej, Krajowa Rada zawiadamia tego nadawcę i Komisję Europejską o stwierdzonych naruszeniach oraz o zamiarze wykreślenia rozprowadzanego programu z rejestru. Program jest wykreślany z rejestru, jeżeli w ciągu dwóch miesięcy od zawiadomienia, w wyniku konsultacji prowadzonych przez Krajową Radę z państwem, w którym jest ustanowiony nadawca, i z Komisją Europejską, nie nastąpi zaniechanie naruszeń.
@@ -481,9 +495,9 @@ source: "eli-html"
 
 1. Od decyzji Przewodniczącego Krajowej Rady wydanych na podstawie art. 10 ust. 4 oraz art. 53–54 służy odwołanie do Sądu Okręgowego w Warszawie – sądu gospodarczego. ” .
 
-**Art. 2.** W ustawie z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. Nr 5, poz. 24, z późn. zm.) art. 24 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. Nr 5, poz. 24, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 34, poz. 187, z 1990 r. Nr 29, poz. 173, z 1991 r. Nr 100, poz. 442, z 1996 r. Nr 114, poz. 542, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 90, poz. 999, z 2001 r. Nr 112, poz. 1198, z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 111, poz. 1181, z 2005 r. Nr 39, poz. 377, z 2007 r. Nr 89, poz. 590 oraz z 2010 r. Nr 182, poz. 1228 i Nr 235, poz. 1551.) art. 24 otrzymuje brzmienie: „
 
-**Art. 24.** Przepisy dotyczące rejestracji działalności prasowej nie mają zastosowania do działalności dostawców usług medialnych w rozumieniu ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226 i Nr 85, poz. 459) oraz do działalności Polskiej Agencji Prasowej, których działalność regulują odrębne przepisy. ” . W ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. Nr 144, poz. 1204, z późn. zm.) w art. 3 pkt 1 otrzymuje brzmienie: „
+**Art. 24.** Przepisy dotyczące rejestracji działalności prasowej nie mają zastosowania do działalności dostawców usług medialnych w rozumieniu ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226 i Nr 85, poz. 459) oraz do działalności Polskiej Agencji Prasowej, których działalność regulują odrębne przepisy. ” . W ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. Nr 144, poz. 1204, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808, z 2007 r. Nr 50, poz. 331, z 2008 r. Nr 171, poz. 1056 i Nr 216, poz. 1371 oraz z 2009 r. Nr 201, poz. 1540.) w art. 3 pkt 1 otrzymuje brzmienie: „
 
 - **1)** rozpowszechniania lub rozprowadzania programów radiowych lub programów telewizyjnych i związanych z nimi przekazów tekstowych w rozumieniu ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226 i Nr 85, poz. 459), z wyłączeniem programów rozpowszechnianych wyłącznie w systemie teleinformatycznym, ” . W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2010 r. Nr 220, poz. 1447 i Nr 239, poz. 1593) w art. 46 w ust. 1 pkt 5 otrzymuje brzmienie: „
 - **5)** rozpowszechniania programów radiowych i telewizyjnych, z wyłączeniem programów rozpowszechnianych wyłącznie w systemie teleinformatycznym, które nie są rozprowadzane naziemnie, satelitarnie lub w sieciach kablowych; ” .
@@ -515,6 +529,6 @@ source: "eli-html"
 
 - **1)** art. 1 pkt 13, który wchodzi w życie z pierwszym dniem kwartału następującego po dniu wejścia w życie ustawy;
 - **2)** art. 1 pkt 8 i 20, które wchodzą w życie z dniem 1 lipca 2011 r.;
-- **3)** art. 1 pkt 11, który wchodzi w życie z dniem 1 stycznia 2012 r.
+- **3)** art. 1 pkt 11, który wchodzi w życie z dniem 1 stycznia 2012 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 stycznia 1984 r. – Prawo prasowe, ustawę z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną oraz ustawę z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej. 2) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia postanowień dyrektywy Parlamentu Europejskiego i Rady 2010/13/UE z dnia 10 marca 2010 r. w sprawie koordynacji niektórych przepisów ustawowych, wykonawczych i administracyjnych państw członkowskich, dotyczących świadczenia audiowizualnych usług medialnych (dyrektywa o audiowizualnych usługach medialnych) (Dz. Urz. UE L 95 z 15.04.2010, str. 1). 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808, z 2007 r. Nr 50, poz. 331, z 2008 r. Nr 171, poz. 1056 i Nr 216, poz. 1371 oraz z 2009 r. Nr 201, poz. 1540. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716 oraz z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 229, poz. 1499 i Nr 238, poz. 1578. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 66, poz. 469 i Nr 120, poz. 826, z 2007 r. Nr 7, poz. 48 i Nr 82, poz. 558, z 2009 r. Nr 18, poz. 97, Nr 63, poz. 520, Nr 92, poz. 753 i Nr 98, poz. 817, z 2010 r. Nr 28, poz. 146, Nr 143, poz. 962, Nr 213, poz. 1396 i Nr 228, poz. 1486 oraz z 2011 r. Nr 63, poz. 322. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 34, poz. 187, z 1990 r. Nr 29, poz. 173, z 1991 r. Nr 100, poz. 442, z 1996 r. Nr 114, poz. 542, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 90, poz. 999, z 2001 r. Nr 112, poz. 1198, z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 111, poz. 1181, z 2005 r. Nr 39, poz. 377, z 2007 r. Nr 89, poz. 590 oraz z 2010 r. Nr 182, poz. 1228 i Nr 235, poz. 1551. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808, z 2007 r. Nr 50, poz. 331, z 2008 r. Nr 171, poz. 1056 i Nr 216, poz. 1371 oraz z 2009 r. Nr 201, poz. 1540.
 
 

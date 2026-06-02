@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-07 |
 | Data wydania | 2017-05-19 |
-| Wejście w życie | 2017-06-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000990) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/990/text.pdf) |
 
@@ -57,7 +56,7 @@ source: "eli-html"
 
 **Art. 4.** Inwestycje są celami publicznymi w rozumieniu ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 r. poz. 2147 i 2260 oraz z 2017 r. poz. 624 i 820).
 
-**Art. 5.** Do inwestycji nie stosuje się art. 64 ust. 2 pkt 3, art. 74 ust. 1 pkt 5, art. 77 ust. 2 pkt 3, art. 80 ust. 2 i art. 96 ust. 3 pkt 5 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2016 r. poz. 353, z późn. zm.).
+**Art. 5.** Do inwestycji nie stosuje się art. 64 ust. 2 pkt 3, art. 74 ust. 1 pkt 5, art. 77 ust. 2 pkt 3, art. 80 ust. 2 i art. 96 ust. 3 pkt 5 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2016 r. poz. 353, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 961, 1250, 1579 i 2003 oraz z 2017 r. poz. 820.).
 
 **Art. 6.**
 
@@ -92,5 +91,5 @@ source: "eli-html"
 
 **Art. 8.** Do postępowań w sprawach dotyczących inwestycji, wszczętych i niezakończonych do dnia wejścia w życie ustawy decyzją ostateczną, stosuje się przepisy dotychczasowe, z wyjątkiem art. 5, który stosuje się także do postępowań wszczętych przed dniem wejścia w życie ustawy.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 961, 1250, 1579 i 2003 oraz z 2017 r. poz. 820.
 

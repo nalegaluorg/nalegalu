@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-12-18 |
 | Data wydania | 2003-12-29 |
-| Wejście w życie | 2004-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032232220) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2220/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2001 r. Nr 5, poz. 44, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2001 r. Nr 5, poz. 44, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1802, z 2002 r. Nr 135, poz. 1145 i Nr 166, poz. 1360 oraz z 2003 r. Nr 208, poz. 2020.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3: pkt 1 otrzymuje brzmienie: „
     - **a)**
@@ -145,9 +144,17 @@ source: "eli-html"
 4. Minister właściwy do spraw rynków rolnych, w drodze rozporządzenia:
 
 - **1)** określi szczegółowy sposób oznaczania klasy jakości handlowej tusz wieprzowych oraz tusz wołowych,
-- **2)** może określić rodzaje tusz innych zwierząt oznaczanych znakiem klasy jakości handlowej oraz sposób ich oznaczania tym znakiem mając na względzie potrzebę zastosowania do tych czynności odpowiednich urządzeń, określenia warunków klasyfikacji umożliwiającej jednolitą rejestrację cen rynkowych oraz zapewnienia odpowiedniej zapłaty producentom. ” ;
-- **13)** w art. 17: w ust. 1: – w pkt 1 lit. b otrzymuje brzmienie: „ b) kontrola jakości handlowej artykułów rolno-spożywczych sprowadzanych z zagranicy, w tym kontrola graniczna tych artykułów, ” , – w pkt 1 po lit. d dodaje się lit. e w brzmieniu: „ e) kontrola artykułów rolno-spożywczych posiadających zarejestrowane, na podstawie odrębnych przepisów, chronione oznaczenia geograficzne, oznaczenia pochodzenia albo świadectwa dla artykułów rolno-spożywczych o szczególnym charakterze oraz współpraca z jednostkami sprawującymi taką kontrolę w innych państwach, ” , – pkt 4 otrzymuje brzmienie: „ 4) współpraca z właściwymi organami administracji rządowej w województwie, organami innych inspekcji, urzędami celnymi, Policją, jednostkami samorządu terytorialnego oraz państwowymi jednostkami organizacyjnymi realizującymi politykę rolną państwa, ” , – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) współpraca z jednostkami organizacyjnymi pełniącymi funkcję agencji płatniczych w zakresie realizacji Wspólnej Polityki Rolnej, ” , – pkt 6–8 otrzymują brzmienie: „ 6) prowadzenie szkoleń w zakresie przepisów i wymagań dotyczących jakości handlowej lub ustalania klas jakości handlowej oraz metod i badań artykułów rolno-spożywczych, 7) współpraca z urzędowymi jednostkami kontrolnymi w innych państwach w zakresie kontroli jakości handlowej artykułów rolno-spożywczych, w tym wymienianie informacji lub próbek artykułów rolno-spożywczych. 8) wykonywanie innych zadań określonych w przepisach odrębnych. ” , po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
+- **2)** może określić rodzaje tusz innych zwierząt oznaczanych znakiem klasy jakości handlowej oraz sposób ich oznaczania tym znakiem – mając na względzie potrzebę zastosowania do tych czynności odpowiednich urządzeń, określenia warunków klasyfikacji umożliwiającej jednolitą rejestrację cen rynkowych oraz zapewnienia odpowiedniej zapłaty producentom. ” ;
+- **13)** w art. 17: w ust. 1: w pkt 1 lit. b otrzymuje brzmienie: „ kontrola jakości handlowej artykułów rolno-spożywczych sprowadzanych z zagranicy, w tym kontrola graniczna tych artykułów, ” , w pkt 1 po lit. d dodaje się lit. e w brzmieniu: „ kontrola artykułów rolno-spożywczych posiadających zarejestrowane, na podstawie odrębnych przepisów, chronione oznaczenia geograficzne, oznaczenia pochodzenia albo świadectwa dla artykułów rolno-spożywczych o szczególnym charakterze oraz współpraca z jednostkami sprawującymi taką kontrolę w innych państwach, ” , pkt 4 otrzymuje brzmienie: „
     - **a)**
+    - **b)**
+    - **e)**
+
+- **4)** współpraca z właściwymi organami administracji rządowej w województwie, organami innych inspekcji, urzędami celnymi, Policją, jednostkami samorządu terytorialnego oraz państwowymi jednostkami organizacyjnymi realizującymi politykę rolną państwa, ” , po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** współpraca z jednostkami organizacyjnymi pełniącymi funkcję agencji płatniczych w zakresie realizacji Wspólnej Polityki Rolnej, ” , pkt 6–8 otrzymują brzmienie: „
+- **6)** prowadzenie szkoleń w zakresie przepisów i wymagań dotyczących jakości handlowej lub ustalania klas jakości handlowej oraz metod i badań artykułów rolno-spożywczych,
+- **7)** współpraca z urzędowymi jednostkami kontrolnymi w innych państwach w zakresie kontroli jakości handlowej artykułów rolno-spożywczych, w tym wymienianie informacji lub próbek artykułów rolno-spożywczych.
+- **8)** wykonywanie innych zadań określonych w przepisach odrębnych. ” , po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
     - **b)**
 
 2a. Kontrola jakości handlowej artykułów rolno-spożywczych w produkcji może dotyczyć również sposobu żywienia i warunków chowu zwierząt, jeżeli informacja w tym zakresie została zadeklarowana przy wprowadzaniu artykułu rolno-spożywczego do obrotu.
@@ -260,7 +267,7 @@ source: "eli-html"
 - **4)** Głównym Inspektoracie Inspekcji Skupu i Przetwórstwa Artykułów Rolnych – należy przez to rozumieć Główny Inspektorat Jakości Handlowej Artykułów Rolno-Spożywczych,
 - **5)** wojewódzkim inspektoracie skupu i przetwórstwa artykułów rolnych – należy przez to rozumieć wojewódzki inspektorat jakości handlowej artykułów rolno-spożywczych. ” .
 
-**Art. 2.** W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. Nr 78, poz. 461, z późn. zm.) w art. 17 ust. 1 otrzymuje brzmienie: „ 1. Organami obowiązanymi do stałego utrzymywania przejść granicznych w stanie umożliwiającym przeprowadzanie skutecznej kontroli granicznej, celnej, sanitarnej, weterynaryjnej, fitosanitarnej, chemicznej, radiometrycznej oraz jakości handlowej artykułów rolno-spożywczych są:
+**Art. 2.** W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. Nr 78, poz. 461, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 6, poz. 31 i Nr 43, poz. 271, z 2000 r. Nr 12, poz. 136 i Nr 120, poz. 1268 oraz z 2001 r. Nr 45, poz. 498.) w art. 17 ust. 1 otrzymuje brzmienie: „ 1. Organami obowiązanymi do stałego utrzymywania przejść granicznych w stanie umożliwiającym przeprowadzanie skutecznej kontroli granicznej, celnej, sanitarnej, weterynaryjnej, fitosanitarnej, chemicznej, radiometrycznej oraz jakości handlowej artykułów rolno-spożywczych są:
 
 - **1)** minister właściwy do spraw gospodarki morskiej i minister właściwy do spraw transportu – w odniesieniu do przejść granicznych kolejowych, lotniczych i morskich,
 - **2)** minister właściwy do spraw środowiska – w odniesieniu do rzecznych przejść granicznych oraz punktów nocnego postoju na rzekach granicznych,
@@ -275,6 +282,6 @@ source: "eli-html"
 **Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 15 pkt 3, art. 20 ust. 6, art. 31 ust. 8 pkt 2, art. 33 ust. 2, art. 39 ust. 3 ustawy, o której mowa w art. 1, zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 15 pkt 3, art. 20 ust. 6, art. 31 ust. 8 pkt 2, art. 33 ust. 2, art. 39 ust. 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą. Ustawa wchodzi w życie z dniem 1 stycznia 2004 r., z wyjątkiem:
 
 - **1)** art. 3 pkt 9 i art. 13 ust. 5 i 6 ustawy, o której mowa w art. 1, które wchodzą w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej;
-- **2)** art. 20 ust. 7 i 8 ustawy, o której mowa w art. 1, które wchodzą w życie z dniem 1 stycznia 2006 r.
+- **2)** art. 20 ust. 7 i 8 ustawy, o której mowa w art. 1, które wchodzą w życie z dniem 1 stycznia 2006 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1802, z 2002 r. Nr 135, poz. 1145 i Nr 166, poz. 1360 oraz z 2003 r. Nr 208, poz. 2020. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 6, poz. 31 i Nr 43, poz. 271, z 2000 r. Nr 12, poz. 136 i Nr 120, poz. 1268 oraz z 2001 r. Nr 45, poz. 498.
 
 

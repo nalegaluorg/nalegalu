@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-30 |
 | Data wydania | 2022-08-31 |
-| Wejście w życie | 2022-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001840) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1840/text.pdf) |
 
@@ -131,5 +130,5 @@ prowadzenie specjalistycznych zajęć logopedycznych w zakresie korygowania zabu
 3)
 współpraca z innymi specjalistami zatrudnionymi w zakładzie w zakresie udzielania pomocy psychologiczno-pedagogicznej.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.
+Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 2 października 2018 r. w sprawie wykazu zajęć prowadzonych przez nauczycieli w zakładach poprawczych i schroniskach dla nieletnich (Dz. U. poz. 1973), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 415 pkt 4 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 2 października 2018 r. w sprawie wykazu zajęć prowadzonych przez nauczycieli w zakładach poprawczych i schroniskach dla nieletnich (Dz. U. poz. 1973), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 415 pkt 4 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700).
 

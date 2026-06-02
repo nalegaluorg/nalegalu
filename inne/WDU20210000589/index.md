@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 8 marca 2021 r. w sprawie zbieranych danych rynkowych
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 8 marca 2021 r. w sprawie zbieranych danych rynkowych Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-03-08 |
 | Data wydania | 2021-03-31 |
-| Wejście w życie | 2021-04-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000589) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/589/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Artykuły rolno-spożywcze wchodzące w zakres poszczególnych rynków oraz szczegółowy zakres danych rynkowych zbieranych dla tych artykułów
 Treść rozporządzenia
-Na podstawie art. 9 ust. 1 ustawy z dnia 30 marca 2001 r. o rolniczych badaniach rynkowych (Dz. U. z 2015 r. poz. 1160) zarządza się, co następuje:
+Niniejsze rozporządzenie służy stosowaniu: 1) rozporządzenia delegowanego Komisji (UE) 2017/1182 z dnia 20 kwietnia 2017 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do unijnych skal klasyfikacji tusz wołowych, wieprzowych i baranich oraz raportowania cen rynkowych niektórych kategorii tusz i żywych zwierząt (Dz. Urz. UE L 171 z 04.07.2017, str. 74); 2) rozporządzenia wykonawczego Komisji (UE) 2017/1184 z dnia 20 kwietnia 2017 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do unijnych skal klasyfikacji tusz wołowych, wieprzowych i baranich oraz raportowania cen rynkowych niektórych kategorii tusz i żywych zwierząt (Dz. Urz. UE L 171 z 04.07.2017, str. 103); 3) rozporządzenia wykonawczego Komisji (UE) 2017/1185 z dnia 20 kwietnia 2017 r. ustanawiającego zasady stosowania rozporządzeń Parlamentu Europejskiego i Rady (UE) nr 1307/2013 i (UE) nr 1308/2013 w odniesieniu do przekazywanych Komisji powiadomień o informacjach i dokumentach oraz zmieniającego i uchylającego niektóre rozporządzenia Komisji (Dz. Urz. UE L 171 z 04.07.2017, str. 113 oraz Dz. Urz. UE L 268 z 22.10.2019, str. 6). Na podstawie art. 9 ust. 1 ustawy z dnia 30 marca 2001 r. o rolniczych badaniach rynkowych (Dz. U. z 2015 r. poz. 1160) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -113,7 +112,7 @@ Cena zakupu, o której mowa w § 2 ust. 1 pkt 1 lit. b, stanowi średnią cenę,
 1)
 tonę tusz bydła rzeźnego w wieku od 8. miesiąca życia:
 a)
-liczoną jako średnia cena z trzech podklas dla każdej klasy uformowania i okrywy tłuszczowej tusz wołowych schłodzonych określonych w § 1 ust. 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2018 r. w sprawie szczegółowych warunków ustalania i sposobu oznaczania klas jakości handlowej tusz wieprzowych oraz tusz wołowych (Dz. U. poz. 934) – w przypadku bydła rzeźnego zakupionego, dostarczonego do rzeźni i poddanego ubojowi, którego tusze zostały sklasyfikowane według klasyfikacji określonej w części A załącznika IV do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.), zwanego dalej „rozporządzeniem nr 1308/2013”,
+liczoną jako średnia cena z trzech podklas dla każdej klasy uformowania i okrywy tłuszczowej tusz wołowych schłodzonych określonych w § 1 ust. 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2018 r. w sprawie szczegółowych warunków ustalania i sposobu oznaczania klas jakości handlowej tusz wieprzowych oraz tusz wołowych (Dz. U. poz. 934) – w przypadku bydła rzeźnego zakupionego, dostarczonego do rzeźni i poddanego ubojowi, którego tusze zostały sklasyfikowane według klasyfikacji określonej w części A załącznika IV do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 1., zwanego dalej „rozporządzeniem nr 1308/2013”,
 b)
 liczoną jako średnia cena za tuszę bydła tej samej kategorii i klasy, zakupionego i poddanego ubojowi w rzeźni w tym samym tygodniu – w przypadku bydła rzeźnego pochodzącego z własnego chowu,
 c)
@@ -183,7 +182,7 @@ Masę tuszy wołowej koryguje się współczynnikami określonymi w załączniku
 5.
 Masę tuszy wołowej schłodzonej wylicza się przez pomniejszenie masy tuszy ciepłej o 2%.
 6.
-Dla ustalenia ceny zakupu tusz wieprzowych masę tuszy koryguje się wskaźnikami określonymi w art. 2 decyzji Komisji 2005/240/WE z dnia 11 marca 2005 r. zatwierdzającej metody klasyfikacji tusz wieprzowych w Polsce (Dz. Urz. UE L 74 z 19.03.2005, str. 62, z późn. zm.), jeżeli jest ważona tusza wieprzowa ciepła inna niż wzorcowa. Tusza wieprzowa wzorcowa jest określona w pkt I i III części B załącznika IV do rozporządzenia nr 1308/2013. Ważenie tuszy wieprzowej po uboju odbywa się w czasie określonym w art. 7 ust. 3 lit. b rozporządzenia 2017/1182, z tym że w przypadku gdy ustalenia masy tuszy wieprzowej dokonuje się po upływie 45 minut od przeprowadzenia kłucia, masę koryguje się w sposób określony w art. 7 ust. 4 lit. a rozporządzenia 2017/1182.
+Dla ustalenia ceny zakupu tusz wieprzowych masę tuszy koryguje się wskaźnikami określonymi w art. 2 decyzji Komisji 2005/240/WE z dnia 11 marca 2005 r. zatwierdzającej metody klasyfikacji tusz wieprzowych w Polsce (Dz. Urz. UE L 74 z 19.03.2005, str. 62, z późn. zm.Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 207 z 10.08.2005, str. 20, Dz. Urz. UE L 258 z 04.10.2005, str. 5,), jeżeli jest ważona tusza wieprzowa ciepła inna niż wzorcowa. Tusza wieprzowa wzorcowa jest określona w pkt I i III części B załącznika IV do rozporządzenia nr 1308/2013. Ważenie tuszy wieprzowej po uboju odbywa się w czasie określonym w art. 7 ust. 3 lit. b rozporządzenia 2017/1182, z tym że w przypadku gdy ustalenia masy tuszy wieprzowej dokonuje się po upływie 45 minut od przeprowadzenia kłucia, masę koryguje się w sposób określony w art. 7 ust. 4 lit. a rozporządzenia 2017/1182.
 7.
 Masę tuszy wieprzowej schłodzonej wylicza się w sposób określony w art. 14 ust. 3 rozporządzenia 2017/1182.
 8.
@@ -223,12 +222,11 @@ mleka i produktów mlecznych,
 b)
 preparatu mleczno-tłuszczowego,
 c)
-produktów rolnictwa ekologicznego, o których mowa w załączniku do rozporządzenia w sekcji IX pkt 5–7;
-Dz. Urz. UE L 209 z 17.08.2011, str. 43 oraz Dz. Urz. UE L 42 z 13.02.2019, str. 29.
+produktów rolnictwa ekologicznego, o których mowa w załączniku do rozporządzenia w sekcji IX pkt 5–7; Dz. Urz. UE L 209 z 17.08.2011, str. 43 oraz Dz. Urz. UE L 42 z 13.02.2019, str. 29.
 4)
 100 sztuk:
 a)
-jaj spożywczych według klas jakości handlowej określonych w art. 2 ust. 1 rozporządzenia Komisji (WE) nr 589/2008 z dnia 23 czerwca 2008 r. ustanawiającego szczegółowe zasady wykonywania rozporządzenia Rady (WE) nr 1234/2007 w sprawie norm handlowych w odniesieniu do jaj (Dz. Urz. UE L 163 z 24.06.2008, str. 6, z późn. zm.),
+jaj spożywczych według klas jakości handlowej określonych w art. 2 ust. 1 rozporządzenia Komisji (WE) nr 589/2008 z dnia 23 czerwca 2008 r. ustanawiającego szczegółowe zasady wykonywania rozporządzenia Rady (WE) nr 1234/2007 w sprawie norm handlowych w odniesieniu do jaj (Dz. Urz. UE L 163 z 24.06.2008, str. 6, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 164 z 25.06.2008, str. 14, Dz. Urz. UE L 159 z 25.06.2010, str. 13, Dz. Urz. UE L 107 z 17.04.2013, str. 4, Dz. Urz. UE L 133 z 17.05.2013, str. 17, Dz. Urz. UE L 158 z 10.06.2013, str. 74, Dz. Urz. UE L 171 z 04.07.2017, str. 113 oraz Dz. Urz. UE L 306 z 22.11.2017, str. 6.,
 b)
 produktów rolnictwa ekologicznego, o których mowa w załączniku do rozporządzenia w sekcji IX pkt 8,
 c)
@@ -264,7 +262,7 @@ tonę poszczególnych gatunków zbóż.
 § 8.
 Cena hurtowa, o której mowa w § 2 ust. 1 pkt 1 lit. f, stanowi średnią ważoną cenę (bez podatku od towarów i usług) uwzględniającą zastosowane do ceny produktu dodatki lub potrącenia (z wyjątkiem kosztów transportu, składowania, palet oraz ubezpieczenia) otrzymaną przez hurtowego sprzedawcę w okresie zbierania danych rynkowych w miejscach obrotu hurtowego, wyrażoną w złotych za:
 1)
-kilogram, sztukę lub pęczek owoców lub warzyw klasy jakości I określonej w załączniku I do rozporządzenia wykonawczego Komisji (UE) nr 543/2011 z dnia 7 czerwca 2011 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1234/2007 w odniesieniu do sektora owoców i warzyw oraz sektora przetworzonych owoców i warzyw (Dz. Urz. UE L 157 z 15.06.2011, str. 1, z późn. zm.);
+kilogram, sztukę lub pęczek owoców lub warzyw klasy jakości I określonej w załączniku I do rozporządzenia wykonawczego Komisji (UE) nr 543/2011 z dnia 7 czerwca 2011 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1234/2007 w odniesieniu do sektora owoców i warzyw oraz sektora przetworzonych owoców i warzyw (Dz. Urz. UE L 157 z 15.06.2011, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 194 z 26.07.2011, str. 25, Dz. Urz. UE L 199 z 02.08.2011, str. 76, Dz. Urz. UE L 231 z 08.09.2011, str. 11, Dz. Urz. UE L 264 z 08.10.2011, str. 25, Dz. Urz. UE L 270 z 15.10.2011, str. 14, Dz. Urz. UE L 283 z 29.10.2011, str. 32, Dz. Urz. UE L 335 z 17.12.2011, str. 66, Dz. Urz. UE L 26 z 28.01.2012, str. 26, Dz. Urz. UE L 99 z 05.04.2012, str. 21, Dz. Urz. UE L 116 z 28.04.2012, str. 10, Dz. Urz. UE L 140 z 30.05.2012, str. 53, Dz. Urz. UE L 203 z 31.07.2012, str. 60, Dz. Urz. UE L 223 z 21.08.2012, str. 6, Dz. Urz. UE L 232 z 29.08.2012, str. 5, Dz. Urz. UE L 297 z 26.10.2012, str. 9, Dz. Urz. UE L 109 z 19.04.2013, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 74, Dz. Urz. UE L 167 z 19.06.2013, str. 26, Dz. Urz. UE L 170 z 22.06.2013, str. 43, Dz. Urz. UE L 263 05.10.2013, str. 9, Dz. Urz. UE L 272 z 12.10.2013, str. 35, Dz. Urz. UE L 70 z 11.03.2014, str. 37, Dz. Urz. UE L 130 z 01.05.2014, str. 41, Dz. Urz. UE L 145 z 16.05.2014, str. 5, Dz. Urz. UE L 307 z 28.10.2014, str. 34, Dz. Urz. UE L 111 z 30.04.2015, str. 24, Dz. Urz. UE L 292 z 10.11.2015, str. 4, Dz. Urz. UE L 318 z 04.12.2015, str. 23, Dz. Urz. UE L 116 z 30.04.2016, str. 23, Dz. Urz. UE L 326 z 01.12.2016, str. 9, Dz. Urz. UE L 138 z 25.05.2017, str. 4, Dz. Urz. UE L 171 z 04.07.2017, str. 113, Dz. Urz. UE L 75 z 19.03.2019, str. 1 oraz Dz. Urz. UE L 425 z 16.12.2020, str. 84.;
 2)
 sztukę kwiatów ciętych.
 § 9.
@@ -561,10 +559,10 @@ W przypadku braku możliwości przesłania danych zgodnie z ust. 1 dopuszcza si�
 § 16.
 Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 lipca 2011 r. w sprawie zbieranych danych rynkowych (Dz. U. z 2015 r. poz. 1228 oraz z 2019 r. poz. 535).
 § 17.
-Rozporządzenie wchodzi w życie po upływie 21 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928). 2) Niniejsze rozporządzenie służy stosowaniu: 1) rozporządzenia delegowanego Komisji (UE) 2017/1182 z dnia 20 kwietnia 2017 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do unijnych skal klasyfikacji tusz wołowych, wieprzowych i baranich oraz raportowania cen rynkowych niektórych kategorii tusz i żywych zwierząt (Dz. Urz. UE L 171 z 04.07.2017, str. 74); 2) rozporządzenia wykonawczego Komisji (UE) 2017/1184 z dnia 20 kwietnia 2017 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do unijnych skal klasyfikacji tusz wołowych, wieprzowych i baranich oraz raportowania cen rynkowych niektórych kategorii tusz i żywych zwierząt (Dz. Urz. UE L 171 z 04.07.2017, str. 103); 3) rozporządzenia wykonawczego Komisji (UE) 2017/1185 z dnia 20 kwietnia 2017 r. ustanawiającego zasady stosowania rozporządzeń Parlamentu Europejskiego i Rady (UE) nr 1307/2013 i (UE) nr 1308/2013 w odniesieniu do przekazywanych Komisji powiadomień o informacjach i dokumentach oraz zmieniającego i uchylającego niektóre rozporządzenia Komisji (Dz. Urz. UE L 171 z 04.07.2017, str. 113 oraz Dz. Urz. UE L 268 z 22.10.2019, str. 6). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 1. 4) Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 207 z 10.08.2005, str. 20, Dz. Urz. UE L 258 z 04.10.2005, str. 5, 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 164 z 25.06.2008, str. 14, Dz. Urz. UE L 159 z 25.06.2010, str. 13, Dz. Urz. UE L 107 z 17.04.2013, str. 4, Dz. Urz. UE L 133 z 17.05.2013, str. 17, Dz. Urz. UE L 158 z 10.06.2013, str. 74, Dz. Urz. UE L 171 z 04.07.2017, str. 113 oraz Dz. Urz. UE L 306 z 22.11.2017, str. 6. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 194 z 26.07.2011, str. 25, Dz. Urz. UE L 199 z 02.08.2011, str. 76, Dz. Urz. UE L 231 z 08.09.2011, str. 11, Dz. Urz. UE L 264 z 08.10.2011, str. 25, Dz. Urz. UE L 270 z 15.10.2011, str. 14, Dz. Urz. UE L 283 z 29.10.2011, str. 32, Dz. Urz. UE L 335 z 17.12.2011, str. 66, Dz. Urz. UE L 26 z 28.01.2012, str. 26, Dz. Urz. UE L 99 z 05.04.2012, str. 21, Dz. Urz. UE L 116 z 28.04.2012, str. 10, Dz. Urz. UE L 140 z 30.05.2012, str. 53, Dz. Urz. UE L 203 z 31.07.2012, str. 60, Dz. Urz. UE L 223 z 21.08.2012, str. 6, Dz. Urz. UE L 232 z 29.08.2012, str. 5, Dz. Urz. UE L 297 z 26.10.2012, str. 9, Dz. Urz. UE L 109 z 19.04.2013, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 74, Dz. Urz. UE L 167 z 19.06.2013, str. 26, Dz. Urz. UE L 170 z 22.06.2013, str. 43, Dz. Urz. UE L 263 05.10.2013, str. 9, Dz. Urz. UE L 272 z 12.10.2013, str. 35, Dz. Urz. UE L 70 z 11.03.2014, str. 37, Dz. Urz. UE L 130 z 01.05.2014, str. 41, Dz. Urz. UE L 145 z 16.05.2014, str. 5, Dz. Urz. UE L 307 z 28.10.2014, str. 34, Dz. Urz. UE L 111 z 30.04.2015, str. 24, Dz. Urz. UE L 292 z 10.11.2015, str. 4, Dz. Urz. UE L 318 z 04.12.2015, str. 23, Dz. Urz. UE L 116 z 30.04.2016, str. 23, Dz. Urz. UE L 326 z 01.12.2016, str. 9, Dz. Urz. UE L 138 z 25.05.2017, str. 4, Dz. Urz. UE L 171 z 04.07.2017, str. 113, Dz. Urz. UE L 75 z 19.03.2019, str. 1 oraz Dz. Urz. UE L 425 z 16.12.2020, str. 84.
+Rozporządzenie wchodzi w życie po upływie 21 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928). 2) Niniejsze rozporządzenie służy stosowaniu: 1) rozporządzenia delegowanego Komisji (UE) 2017/1182 z dnia 20 kwietnia 2017 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do unijnych skal klasyfikacji tusz wołowych, wieprzowych i baranich oraz raportowania cen rynkowych niektórych kategorii tusz i żywych zwierząt (Dz. Urz. UE L 171 z 04.07.2017, str. 74); 2) rozporządzenia wykonawczego Komisji (UE) 2017/1184 z dnia 20 kwietnia 2017 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do unijnych skal klasyfikacji tusz wołowych, wieprzowych i baranich oraz raportowania cen rynkowych niektórych kategorii tusz i żywych zwierząt (Dz. Urz. UE L 171 z 04.07.2017, str. 103); 3) rozporządzenia wykonawczego Komisji (UE) 2017/1185 z dnia 20 kwietnia 2017 r. ustanawiającego zasady stosowania rozporządzeń Parlamentu Europejskiego i Rady (UE) nr 1307/2013 i (UE) nr 1308/2013 w odniesieniu do przekazywanych Komisji powiadomień o informacjach i dokumentach oraz zmieniającego i uchylającego niektóre rozporządzenia Komisji (Dz. Urz. UE L 171 z 04.07.2017, str. 113 oraz Dz. Urz. UE L 268 z 22.10.2019, str. 6). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 1. 4) Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 207 z 10.08.2005, str. 20, Dz. Urz. UE L 258 z 04.10.2005, str. 5, 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 164 z 25.06.2008, str. 14, Dz. Urz. UE L 159 z 25.06.2010, str. 13, Dz. Urz. UE L 107 z 17.04.2013, str. 4, Dz. Urz. UE L 133 z 17.05.2013, str. 17, Dz. Urz. UE L 158 z 10.06.2013, str. 74, Dz. Urz. UE L 171 z 04.07.2017, str. 113 oraz Dz. Urz. UE L 306 z 22.11.2017, str. 6. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 194 z 26.07.2011, str. 25, Dz. Urz. UE L 199 z 02.08.2011, str. 76, Dz. Urz. UE L 231 z 08.09.2011, str. 11, Dz. Urz. UE L 264 z 08.10.2011, str. 25, Dz. Urz. UE L 270 z 15.10.2011, str. 14, Dz. Urz. UE L 283 z 29.10.2011, str. 32, Dz. Urz. UE L 335 z 17.12.2011, str. 66, Dz. Urz. UE L 26 z 28.01.2012, str. 26, Dz. Urz. UE L 99 z 05.04.2012, str. 21, Dz. Urz. UE L 116 z 28.04.2012, str. 10, Dz. Urz. UE L 140 z 30.05.2012, str. 53, Dz. Urz. UE L 203 z 31.07.2012, str. 60, Dz. Urz. UE L 223 z 21.08.2012, str. 6, Dz. Urz. UE L 232 z 29.08.2012, str. 5, Dz. Urz. UE L 297 z 26.10.2012, str. 9, Dz. Urz. UE L 109 z 19.04.2013, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 74, Dz. Urz. UE L 167 z 19.06.2013, str. 26, Dz. Urz. UE L 170 z 22.06.2013, str. 43, Dz. Urz. UE L 263 05.10.2013, str. 9, Dz. Urz. UE L 272 z 12.10.2013, str. 35, Dz. Urz. UE L 70 z 11.03.2014, str. 37, Dz. Urz. UE L 130 z 01.05.2014, str. 41, Dz. Urz. UE L 145 z 16.05.2014, str. 5, Dz. Urz. UE L 307 z 28.10.2014, str. 34, Dz. Urz. UE L 111 z 30.04.2015, str. 24, Dz. Urz. UE L 292 z 10.11.2015, str. 4, Dz. Urz. UE L 318 z 04.12.2015, str. 23, Dz. Urz. UE L 116 z 30.04.2016, str. 23, Dz. Urz. UE L 326 z 01.12.2016, str. 9, Dz. Urz. UE L 138 z 25.05.2017, str. 4, Dz. Urz. UE L 171 z 04.07.2017, str. 113, Dz. Urz. UE L 75 z 19.03.2019, str. 1 oraz Dz. Urz. UE L 425 z 16.12.2020, str. 84.
 Załącznik – Artykuły rolno-spożywcze wchodzące w zakres poszczególnych rynków oraz szczegółowy zakres danych rynkowych zbieranych dla tych artykułów
-Sekcja I. Rynek wołowiny i cielęciny
+Sekcja I.
+Rynek wołowiny i cielęciny
 1.
 Tusze bydła rzeźnego, dla których jest ustalana cena zakupu:
 1)
@@ -609,7 +607,8 @@ jałówki cielne;
 krowy mleczne.
 5.
 Cielęta, młode bydło opasowe i roczne bydło opasowe, dla których jest ustalana cena zakupu lub cena sprzedaży.
-Sekcja II. Rynek wieprzowiny
+Sekcja II.
+Rynek wieprzowiny
 1.
 Tusze ciepłe o masie od 60 do 120 kg, sklasyfikowane w klasach jakości handlowej S, E, U, R, O i P, dla których jest ustalana cena zakupu.
 2.
@@ -638,7 +637,8 @@ mięso wieprzowe;
 tłuszcze wieprzowe.
 4.
 Prosię o masie żywej około 25 kg z przeznaczeniem do tuczu, dla którego jest ustalana cena zakupu, cena sprzedaży lub cena targowiskowa.
-Sekcja III. Rynek zbóż
+Sekcja III.
+Rynek zbóż
 1.
 Zboża, których ziarno powinno być zdrowe, czyste, dojrzałe, dobrze wykształcone, o swoistej barwie, bez obcych zapachów lub zapachów wskazujących na zepsucie, wolne od żywych owadów ( Insecta ) i roztoczy ( Acarina ), dla których jest ustalana cena zakupu, cena giełdowa lub cena targowiskowa:
 1)
@@ -667,7 +667,8 @@ otręby żytnie;
 śruta pszenna;
 6)
 śruta żytnia.
-Sekcja IV. Rynek drobiu
+Sekcja IV.
+Rynek drobiu
 1.
 Drób rzeźny, dla którego jest ustalana cena skupu:
 1)
@@ -720,7 +721,8 @@ z indyka:
 Jaja lęgowe brojlerów kurzych, dla których jest ustalana cena sprzedaży lub cena zakupu.
 4.
 Pisklęta brojlerów kurzych, dla których jest ustalana cena sprzedaży.
-Sekcja V. Rynek mleka i produktów mlecznych
+Sekcja V.
+Rynek mleka i produktów mlecznych
 1.
 Mleko surowe w klasie ekstra o rzeczywistej zawartości tłuszczu i białka obliczonych jako procent masy produktu, dla którego jest ustalana cena skupu.
 2.
@@ -815,14 +817,17 @@ kazeina i kazeiniany;
 maślanka w proszku;
 26)
 maślanka naturalna.
-Sekcja VI. Rynek preparatów mlekopodobnych
+Sekcja VI.
+Rynek preparatów mlekopodobnych
 Preparat mleczno-tłuszczowy w proszku o zawartości tłuszczu maksymalnie 30% i białka co najmniej 23%, dla którego jest ustalana cena sprzedaży lub cena zakupu.
-Sekcja VII. Rynek jaj spożywczych
+Sekcja VII.
+Rynek jaj spożywczych
 1.
 Jaja spożywcze do przetwórstwa spożywczego, dla których jest ustalana cena skupu.
 2.
 Jaja spożywcze klasy A, kategorie wagowe XL, L, M i S, w podziale na systemy chowu, dla których jest ustalana cena sprzedaży lub cena zakupu.
-Sekcja VIII. Rynek cukru białego
+Sekcja VIII.
+Rynek cukru białego
 1.
 Buraki cukrowe, dla których jest ustalana cena skupu.
 2.
@@ -831,7 +836,8 @@ Cukier biały, dla którego jest ustalana cena sprzedaży lub cena zakupu.
 Melasa, dla której jest ustalana cena sprzedaży lub cena zakupu.
 4.
 Syropy cukrowe, dla których jest ustalana cena sprzedaży lub cena zakupu.
-Sekcja IX. Rynek produktów rolnictwa ekologicznego
+Sekcja IX.
+Rynek produktów rolnictwa ekologicznego
 Produkty rolnictwa ekologicznego, dla których jest ustalana cena skupu, cena zakupu lub cena sprzedaży:
 1)
 tusze i kawałki wołowe zgodnie z klasyfikacją tusz wołowych na podstawie przepisów Unii Europejskiej (rozporządzenie nr 1308/2013);
@@ -849,7 +855,8 @@ produkty mleczne, w szczególności: masło, sery, śmietana, jogurt oraz kefir;
 owoce lub warzywa, z podziałem na poszczególne gatunki, w szczególności jabłka, pomidory;
 8)
 jaja spożywcze.
-Sekcja X. Rynek baraniny
+Sekcja X.
+Rynek baraniny
 1.
 Owce żywe, dla których jest ustalana cena zakupu:
 1)
@@ -886,9 +893,11 @@ a)
 tusze jagniąt do 12. miesiąca życia i o masie od 13 kg,
 b)
 tusze jagniąt powyżej 12. miesiąca życia.
-Sekcja XI. Rynek włókna lnianego i konopnego
+Sekcja XI.
+Rynek włókna lnianego i konopnego
 Długie włókno lniane, krótkie włókno lniane lub włókno konopne, dla których jest ustalana cena sprzedaży.
-Sekcja XII. Rynek roślin wysokobiałkowych
+Sekcja XII.
+Rynek roślin wysokobiałkowych
 Rośliny wysokobiałkowe, których nasiona powinny być zdrowe, czyste, dojrzałe, dobrze wykształcone, o swoistej barwie, bez obcych zapachów lub zapachów wskazujących na zepsucie, z wyjątkiem przeznaczonych do siewu, dla których jest ustalana cena zakupu lub cena sprzedaży:
 1)
 nasiona łubinu;
@@ -902,7 +911,8 @@ bób i bobik;
 lucerna (alfaalfa) oraz mączki i granulki z lucerny;
 6)
 soczewica.
-Sekcja XIII. Rynek owoców i warzyw
+Sekcja XIII.
+Rynek owoców i warzyw
 1.
 Owoce i warzywa, dla których jest ustalana cena producenta:
 1)
@@ -1187,7 +1197,8 @@ brzoskwinie – w okresie od dnia 1 czerwca do dnia 30 września;
 nektaryny – w okresie od dnia 1 czerwca do dnia 30 września;
 16)
 śliwki – w okresie od dnia 1 czerwca do dnia 30 września.
-Sekcja XIV. Rynek roślin oleistych
+Sekcja XIV.
+Rynek roślin oleistych
 1.
 Nasiona rzepaku o wilgotności 7% (+/-0,5%) oraz o zawartości kwasu erukowego do 2%, oleju minimum 40% i zanieczyszczeń do 2%, z wyjątkiem przeznaczonych do siewu, dla których jest ustalana cena zakupu lub cena giełdowa.
 2.
@@ -1202,13 +1213,15 @@ olej rzepakowy rafinowany o zawartości kwasu erukowego do 5%, substancji lotnyc
 makuch rzepakowy.
 3.
 Nasiona soi, nawet łamane, z wyjątkiem przeznaczonych do siewu, dla których jest ustalana cena zakupu.
-Sekcja XV. Rynek chmielu
+Sekcja XV.
+Rynek chmielu
 Szyszki chmielu w okresie od dnia 1 września do dnia 30 kwietnia, dla których jest ustalana cena skupu:
 1)
 szyszki chmielu aromatycznego według odmian, ze wskazaniem ich pochodzenia z rejonów uprawy, z podziałem na skup zrealizowany na podstawie umów kontraktacji i skup poza kontraktacją;
 2)
 szyszki chmielu goryczkowego według odmian, ze wskazaniem ich pochodzenia z rejonów uprawy, z podziałem na skup zrealizowany na podstawie umów kontraktacji i skup poza kontraktacją.
-Sekcja XVI. Rynek tytoniu
+Sekcja XVI.
+Rynek tytoniu
 Liście tytoniu (wysuszone, nieprzetworzone), dla których jest ustalana cena skupu, z podziałem na grupy odmian:
 1)
 grupa I – suszony ogniowo-rurowo: tytoń suszony w piecach o kontrolowanym przepływie powietrza, temperaturze i wilgotności, w szczególności Virginia;
@@ -1220,7 +1233,8 @@ grupa III – suszony powietrzem na ciemny: tytoń suszony na powietrzu pod osł
 grupa IV – suszony ogniowo-płomieniowo: tytoń suszony ogniem, w szczególności Kentucky oraz Salento;
 5)
 grupa V – suszony na słońcu: tytoń suszony na słońcu, zwany również „odmianami orientalnymi”, w szczególności Basmas, Katerini i Kaba-Koulak.
-Sekcja XVII. Rynek pasz
+Sekcja XVII.
+Rynek pasz
 1.
 Mieszanki paszowe pełnoporcjowe, dla których jest ustalana cena sprzedaży:
 1)
@@ -1307,7 +1321,8 @@ Preparaty mlekozastępcze, dla których jest ustalana cena sprzedaży:
 dla bydła – dla cieląt;
 2)
 dla trzody chlewnej – dla prosiąt.
-Sekcja XVIII. Rynek kwiatów
+Sekcja XVIII.
+Rynek kwiatów
 Kwiaty świeże cięte dobrej jakości i posiadające cechy charakterystyczne dla gatunku i odmiany (odmiana uprawna): wszystkie części kwiatu ciętego, całe, świeże, wolne od chorób i szkodników oraz od spowodowanych przez nie uszkodzeń, wolne od pozostałości pestycydów i innych obcych substancji wpływających na ich wygląd, bez uszkodzeń mechanicznych, wolne od wad rozwoju; pakowane oddzielnie w jednolite partie opakowania, odpowiednio oznakowane, pędy w zależności od gatunku i odmiany (odmiana uprawna) wystarczająco sztywne i silne, aby utrzymać kwiat, o długości od 40 cm do 100 cm, dla których jest ustalana cena hurtowa:
 1)
 goździki wielkokwiatowe – wszystkie odmiany;

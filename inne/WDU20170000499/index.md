@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-23 |
 | Data wydania | 2017-03-09 |
-| Wejście w życie | 2017-03-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000499) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/499/text.pdf) |
 
@@ -42,7 +41,7 @@ czystorasowego buhaja rasy mięsnej lub rasy dwukierunkowej, zwanego dalej „bu
 2)
 producentowi świń, któremu został nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, zwanemu dalej „producentem świń” – w formie refundacji kosztów zakupu loszek hodowlanych lub knurów hodowlanych;
 3)
-producentowi świń, który utrzymywał świnie w siedzibie stada, której nadano numer na podstawie ustawy z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2015 r. poz. 1172 i 1893, z 2016 r. poz. 588 i 1605 oraz z 2017 r. poz. 60), zwanej dalej „ustawą o systemie identyfikacji i rejestracji zwierząt” – położonej na obszarze znajdującym się na terytorium Rzeczypospolitej Polskiej wymienionym w części I, II lub III załącznika do decyzji wykonawczej Komisji 2014/709/UE z dnia 9 października 2014 r. w sprawie środków kontroli w zakresie zdrowia zwierząt w odniesieniu do afrykańskiego pomoru świń w niektórych państwach członkowskich i uchylającej decyzję wykonawczą 2014/178/UE (Dz. Urz. UE L 295 z 11.10.2014, str. 63, z późn. zm.) , zwanej dalej „decyzją 2014/709/UE” – w formie refundacji kosztów zakupu:
+producentowi świń, który utrzymywał świnie w siedzibie stada, której nadano numer na podstawie ustawy z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2015 r. poz. 1172 i 1893, z 2016 r. poz. 588 i 1605 oraz z 2017 r. poz. 60), zwanej dalej „ustawą o systemie identyfikacji i rejestracji zwierząt” – położonej na obszarze znajdującym się na terytorium Rzeczypospolitej Polskiej wymienionym w części I, II lub III załącznika do decyzji wykonawczej Komisji 2014/709/UE z dnia 9 października 2014 r. w sprawie środków kontroli w zakresie zdrowia zwierząt w odniesieniu do afrykańskiego pomoru świń w niektórych państwach członkowskich i uchylającej decyzję wykonawczą 2014/178/UE (Dz. Urz. UE L 295 z 11.10.2014, str. 63, z późn. zm.Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 41 z 17.02.2015, str. 46, Dz. Urz. UE L 92 z 08.04.2015, str. 109, Dz. Urz. UE L 129 z 27.05.2015, str. 41, Dz. Urz. UE L 188 z 16.07.2015, str. 45, Dz. Urz. UE L 203 z 31.07.2015, str. 14, Dz. Urz. UE L 211 z 08.08.2015, str. 34, Dz. Urz. UE L 218 z 19.08.2015, str. 16, Dz. Urz. UE L 224 z 27.08.2015, str. 39, Dz. Urz. UE L 259 z 06.10.2015, str. 27, Dz. Urz. UE L 334 z 22.12.2015, str. 46, Dz. Urz. UE L 35 z 11.02.2016, str. 12, Dz. Urz. UE L 80 z 31.03.2016, str. 36, Dz. Urz. UE L 142 z 31.05.2016, str. 14, Dz. Urz. UE L 202 z 28.07.2016, str. 45, Dz. Urz. UE L 217 z 12.08.2016, str. 38, Dz. Urz. UE L 228 z 23.08.2016, str. 33, Dz. Urz. UE L 234 z 31.08.2016, str. 12, Dz. Urz. UE L 270 z 05.10.2016, str. 17, Dz. Urz. UE L 293 z 28.10.2016, str. 46 oraz Dz. Urz. UE L 334 z 09.12.2016, str. 40.) , zwanej dalej „decyzją 2014/709/UE” – w formie refundacji kosztów zakupu:
 a)
 jałówek, mających powyżej 6 miesięcy i nie więcej niż 36 miesięcy, lub
 b)
@@ -127,8 +126,7 @@ dokonał, od dnia złożenia wniosku o udzielenie pomocy do dnia 30 czerwca 2017
 a)
 co najmniej jednej jałówki, mającej w dniu zakupu powyżej 6 miesięcy i nie więcej niż 36 miesięcy, lub
 b)
-buhaja, mającego w dniu zakupu powyżej 13 miesięcy
-dla których wystawiono świadectwo potwierdzające pochodzenie tych zwierząt, o którym mowa w art. 26 ustawy z dnia 29 czerwca 2007 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. poz. 921, z 2008 r. poz. 1056, z 2009 r. poz. 1775, z 2010 r. poz. 857, z 2011 r. poz. 622 oraz z 2016 r. poz. 2260), zwanej dalej „ustawą o organizacji hodowli i rozrodzie zwierząt gospodarskich”, urodzonych w stadach objętych oceną wartości użytkowej bydła;
+buhaja, mającego w dniu zakupu powyżej 13 miesięcy – dla których wystawiono świadectwo potwierdzające pochodzenie tych zwierząt, o którym mowa w art. 26 ustawy z dnia 29 czerwca 2007 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. poz. 921, z 2008 r. poz. 1056, z 2009 r. poz. 1775, z 2010 r. poz. 857, z 2011 r. poz. 622 oraz z 2016 r. poz. 2260), zwanej dalej „ustawą o organizacji hodowli i rozrodzie zwierząt gospodarskich”, urodzonych w stadach objętych oceną wartości użytkowej bydła;
 4)
 zobowiąże się do:
 a)
@@ -177,7 +175,7 @@ Kwota pomocy, o której mowa w ust. 1, nie może być wyższa niż:
 1)
 cena netto zakupu zwierzęcia wskazana na fakturze albo fakturze VAT RR albo
 2)
-cena zakupu zwierzęcia wskazana na fakturze, rachunku lub w umowie sprzedaży potwierdzającej jego zakup – w przypadku dokonywania sprzedaży między rolnikami ryczałtowymi, o których mowa w ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2016 r. poz. 710, z późn. zm.), zwanymi dalej „rolnikami ryczałtowymi”.
+cena zakupu zwierzęcia wskazana na fakturze, rachunku lub w umowie sprzedaży potwierdzającej jego zakup – w przypadku dokonywania sprzedaży między rolnikami ryczałtowymi, o których mowa w ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2016 r. poz. 710, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 846, 960, 1052, 1206, 1228, 1579, 1948 i 2024 oraz z 2017 r. poz. 60 i 379.), zwanymi dalej „rolnikami ryczałtowymi”.
 § 7.
 1.
 Wniosek o udzielenie pomocy, o której mowa w § 2 ust. 1 pkt 1, składany przez producenta mleka poza elementami, o których mowa w § 3 ust. 4, zawiera co najmniej:
@@ -381,8 +379,7 @@ dokonał, od dnia złożenia wniosku o udzielenie pomocy do dnia 30 czerwca 2017
 a)
 co najmniej jednej jałówki, mającej w dniu zakupu powyżej 6 miesięcy i nie więcej niż 36 miesięcy, lub
 b)
-buhaja, mającego w dniu zakupu powyżej 13 miesięcy
-dla których wystawiono świadectwo, o którym mowa w art. 26 ustawy o organizacji hodowli i rozrodzie zwierząt gospodarskich, potwierdzające pochodzenie tych zwierząt, urodzonych w stadach objętych oceną wartości użytkowej bydła;
+buhaja, mającego w dniu zakupu powyżej 13 miesięcy – dla których wystawiono świadectwo, o którym mowa w art. 26 ustawy o organizacji hodowli i rozrodzie zwierząt gospodarskich, potwierdzające pochodzenie tych zwierząt, urodzonych w stadach objętych oceną wartości użytkowej bydła;
 4)
 zobowiąże się do:
 a)
@@ -542,7 +539,7 @@ prowadzenia miejsc gromadzenia zwierząt, o którym mowa w art. 1 pkt 1 lit. e u
 4)
 prowadzenia rzeźni, lub
 5)
-prowadzenia zakładu przetwórczego w rozumieniu pkt 58 załącznika I do rozporządzenia Komisji (UE) nr 142/2011 z dnia 25 lutego 2011 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, oraz w sprawie wykonania dyrektywy Rady 97/78/WE w odniesieniu do niektórych próbek i przedmiotów zwolnionych z kontroli weterynaryjnych na granicach w myśl tej dyrektywy (Dz. Urz. UE L 54 z 26.02.2011, str. 1, z późn. zm.) , lub
+prowadzenia zakładu przetwórczego w rozumieniu pkt 58 załącznika I do rozporządzenia Komisji (UE) nr 142/2011 z dnia 25 lutego 2011 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, oraz w sprawie wykonania dyrektywy Rady 97/78/WE w odniesieniu do niektórych próbek i przedmiotów zwolnionych z kontroli weterynaryjnych na granicach w myśl tej dyrektywy (Dz. Urz. UE L 54 z 26.02.2011, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 198 z 30.07.2011, str. 3, Dz. Urz. UE L 314 z 14.11.2012, str. 5, Dz. Urz. UE L z 326 z 24.11.2012, str. 3, Dz. Urz. UE L 98 z 06.04.2013, str. 1, Dz. Urz. UE L 164 z 18.06.2013, str. 11, Dz. Urz. UE L 201 z 26.07.2013, str. 31, Dz. Urz. UE L 57 z 27.02.2014, str. 21, Dz. Urz. UE L 138 z 13.05.2014, str. 52, Dz. Urz. UE L 165 z 04.06.2014, str. 33 oraz Dz. Urz. UE L 3 z 07.01.2015, str. 10.) , lub
 6)
 prowadzenia spalarni w rozumieniu pkt 56 załącznika I do rozporządzenia wymienionego w pkt 5.
 § 19.
@@ -584,8 +581,7 @@ informację o świniach objętych kodem CN 0103 92 19 oraz o lochach objętych k
 a)
 wadze żywej lub
 b)
-masie poubojowej ciepłej, z podziałem na poszczególne klasy według klasyfikacji poubojowej
-sporządzaną przez wystawcę faktury;
+masie poubojowej ciepłej, z podziałem na poszczególne klasy według klasyfikacji poubojowej – sporządzaną przez wystawcę faktury;
 5)
 oświadczenie producenta świń, że:
 a)
@@ -620,8 +616,7 @@ buhajów,
 3)
 loszek hodowlanych w poszczególnych kategoriach, o których mowa w § 11 ust. 1,
 4)
-knurów hodowlanych
-do których producenci mleka lub producenci świń ubiegają się o pomoc.
+knurów hodowlanych – do których producenci mleka lub producenci świń ubiegają się o pomoc.
 § 23.
 1.
 Na podstawie informacji, o której mowa w § 22, Prezes Agencji oblicza łączną liczbę:
@@ -638,23 +633,20 @@ W przypadku gdy z rozpatrzonych wniosków o udzielenie pomocy, o której mowa w 
 1)
 pkt 1 i 3, jest mniejsze niż kwota pomocy, o której mowa w § 2 ust. 2 pkt 1, oraz
 2)
-pkt 2, jest większe od kwoty pomocy, o której mowa w § 2 ust. 2 pkt 2
-niewykorzystane środki przeznacza się na pomoc, o której mowa w § 2 ust. 1 pkt 2.
+pkt 2, jest większe od kwoty pomocy, o której mowa w § 2 ust. 2 pkt 2 – niewykorzystane środki przeznacza się na pomoc, o której mowa w § 2 ust. 1 pkt 2.
 3.
 W przypadku gdy z rozpatrzonych wniosków o udzielenie pomocy, o której mowa w § 2 ust. 1 pkt 2, wynika, że zapotrzebowanie na pomoc, o której mowa w § 2 ust. 1:
 1)
 pkt 2, jest mniejsze niż kwota pomocy, o której mowa w § 2 ust. 2 pkt 2, oraz
 2)
-pkt 1 i 3, jest większe od kwoty pomocy, o której mowa w § 2 ust. 2 pkt 1
-niewykorzystane środki przeznacza się na pomoc, o której mowa w § 2 ust. 1 pkt 1 i 3.
+pkt 1 i 3, jest większe od kwoty pomocy, o której mowa w § 2 ust. 2 pkt 1 – niewykorzystane środki przeznacza się na pomoc, o której mowa w § 2 ust. 1 pkt 1 i 3.
 § 24.
 1.
 W przypadku gdy z rozpatrzonych wniosków o udzielenie pomocy, o której mowa w § 2 ust. 1 pkt 1 i 3, wynika, że zapotrzebowanie na pomoc, o której mowa w § 2 ust. 1 pkt 1 i 3, jest większe niż:
 1)
 kwota pomocy, o której mowa w § 2 ust. 2 pkt 1, lub
 2)
-kwota niewykorzystanych środków ustalona w sposób, o którym mowa w § 23 ust. 3
-Prezes Agencji ustala współczynnik przydziału pomocy, o której mowa w § 2 ust. 1 pkt 1 i 3.
+kwota niewykorzystanych środków ustalona w sposób, o którym mowa w § 23 ust. 3 – Prezes Agencji ustala współczynnik przydziału pomocy, o której mowa w § 2 ust. 1 pkt 1 i 3.
 2.
 Współczynnik przydziału pomocy, o którym mowa w ust. 1, stanowi iloraz:
 1)
@@ -671,8 +663,7 @@ W przypadku gdy z rozpatrzonych wniosków o udzielenie pomocy, o której mowa w 
 1)
 kwota pomocy, o której mowa w § 2 ust. 2 pkt 2, lub
 2)
-kwota niewykorzystanych środków ustalona w sposób, o którym mowa w § 23 ust. 2
-Prezes Agencji ustala współczynnik przydziału pomocy, o której mowa w § 2 ust. 1 pkt 2.
+kwota niewykorzystanych środków ustalona w sposób, o którym mowa w § 23 ust. 2 – Prezes Agencji ustala współczynnik przydziału pomocy, o której mowa w § 2 ust. 1 pkt 2.
 2.
 Współczynnik przydziału pomocy, o którym mowa w ust. 1, stanowi iloraz:
 1)
@@ -688,8 +679,7 @@ Prezes Agencji, w terminie 21 dni od dnia zakończenia terminu składania wniosk
 1)
 jałówek w poszczególnych przedziałach wiekowych, o których mowa w § 6 ust. 1, oraz buhajów,
 2)
-loszek hodowlanych w poszczególnych kategoriach, o których mowa w § 11 ust. 1, oraz knurów hodowlanych
-do których może zostać wypłacona pomoc producentowi mleka lub producentowi świń, wraz z podaniem dla każdego wniosku numeru siedziby stada producenta mleka albo producenta świń ubiegającego się o pomoc, o którym mowa w § 3 ust. 4 pkt 4.
+loszek hodowlanych w poszczególnych kategoriach, o których mowa w § 11 ust. 1, oraz knurów hodowlanych – do których może zostać wypłacona pomoc producentowi mleka lub producentowi świń, wraz z podaniem dla każdego wniosku numeru siedziby stada producenta mleka albo producenta świń ubiegającego się o pomoc, o którym mowa w § 3 ust. 4 pkt 4.
 § 27.
 W przypadku gdy po rozpatrzeniu wniosków o udzielenie pomocy, o której mowa w § 2 ust. 1 pkt 1–3, pozostaną niewykorzystane środki finansowe na udzielenie tej pomocy, w tym po zastosowaniu współczynnika przydziału, o którym mowa w § 24 i 25, środki te przeznacza się na pomoc, o której mowa w § 2 ust. 1 pkt 4.
 § 28.
@@ -736,8 +726,7 @@ W przypadku niespełnienia przez producenta mleka lub producenta świń zobowią
 a)
 różnicy liczby świń sprzedanych przez producenta świń od dnia 1 stycznia 2017 r. do dnia 30 czerwca 2017 r. i liczby świń sprzedanych przez tego producenta od dnia 1 stycznia 2016 r. do dnia 30 czerwca 2016 r., ustalonej według danych zawartych w rejestrze zwierząt gospodarskich, oraz
 b)
-kwoty 50 zł
-nie więcej jednak niż 100% uzyskanej pomocy;
+kwoty 50 zł – nie więcej jednak niż 100% uzyskanej pomocy;
 5)
 § 9 ust. 1 pkt 3 lit. b, dotyczącego utrzymywania:
 a)
@@ -749,8 +738,7 @@ knurów hodowlanych, do których została udzielona pomoc, zwrotowi podlega 4,2%
 a)
 różnicy liczby świń objętych kodem CN 0103 92 19 lub loch objętych kodem CN 0103 92 11 sprzedanych przez producenta świń z przeznaczeniem do uboju od dnia 1 stycznia 2017 r. do dnia 31 lipca 2017 r. i liczby tych świń sprzedanych przez tego producenta od dnia 1 stycznia 2016 r. do dnia 31 lipca 2016 r., ustalonej według danych zawartych w rejestrze zwierząt gospodarskich, oraz
 b)
-kwoty 50 zł
-nie więcej jednak niż 100% uzyskanej pomocy.
+kwoty 50 zł – nie więcej jednak niż 100% uzyskanej pomocy.
 2.
 W przypadku ustalenia zwrotu 100% kwoty pomocy dyrektor oddziału terenowego Agencji, w drodze decyzji, stwierdza wygaśnięcie decyzji o przyznaniu pomocy.
 3.
@@ -761,8 +749,7 @@ Pomoc, o której mowa w § 2 ust. 1, nie podlega zwrotowi w sytuacji wystąpieni
 1)
 producenta mleka, którego dotyczy zobowiązanie, o którym mowa w § 5 ust. 1 pkt 4 lit. a lub b, albo
 2)
-producenta świń, którego dotyczy zobowiązanie, o którym mowa w § 9 ust. 1 pkt 3 lit. b albo w § 14 ust. 1 pkt 4 lit. a lub b
-przypadków siły wyższej w rozumieniu art. 2 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.) .
+producenta świń, którego dotyczy zobowiązanie, o którym mowa w § 9 ust. 1 pkt 3 lit. b albo w § 14 ust. 1 pkt 4 lit. a lub b – przypadków siły wyższej w rozumieniu art. 2 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865 oraz Dz. Urz. UE L 130 z 19.05.2016, str. 11.) .
 2.
 W przypadku gdy:
 1)
@@ -784,5 +771,5 @@ Do oświadczeń, w których następca prawny zobowiąże się do spełnienia zob
 § 36.
 W przypadku niespełnienia przez następcę prawnego, o którym mowa w § 35 ust. 4, zobowiązań określonych w § 5 ust. 1 pkt 4, § 9 ust. 1 pkt 3 lub w § 14 ust. 1 pkt 4, do zwrotu pomocy przez następcę prawnego stosuje się przepisy § 34 ust. 1 pkt 1–5.
 § 37.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 41 z 17.02.2015, str. 46, Dz. Urz. UE L 92 z 08.04.2015, str. 109, Dz. Urz. UE L 129 z 27.05.2015, str. 41, Dz. Urz. UE L 188 z 16.07.2015, str. 45, Dz. Urz. UE L 203 z 31.07.2015, str. 14, Dz. Urz. UE L 211 z 08.08.2015, str. 34, Dz. Urz. UE L 218 z 19.08.2015, str. 16, Dz. Urz. UE L 224 z 27.08.2015, str. 39, Dz. Urz. UE L 259 z 06.10.2015, str. 27, Dz. Urz. UE L 334 z 22.12.2015, str. 46, Dz. Urz. UE L 35 z 11.02.2016, str. 12, Dz. Urz. UE L 80 z 31.03.2016, str. 36, Dz. Urz. UE L 142 z 31.05.2016, str. 14, Dz. Urz. UE L 202 z 28.07.2016, str. 45, Dz. Urz. UE L 217 z 12.08.2016, str. 38, Dz. Urz. UE L 228 z 23.08.2016, str. 33, Dz. Urz. UE L 234 z 31.08.2016, str. 12, Dz. Urz. UE L 270 z 05.10.2016, str. 17, Dz. Urz. UE L 293 z 28.10.2016, str. 46 oraz Dz. Urz. UE L 334 z 09.12.2016, str. 40. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 846, 960, 1052, 1206, 1228, 1579, 1948 i 2024 oraz z 2017 r. poz. 60 i 379. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 198 z 30.07.2011, str. 3, Dz. Urz. UE L 314 z 14.11.2012, str. 5, Dz. Urz. UE L z 326 z 24.11.2012, str. 3, Dz. Urz. UE L 98 z 06.04.2013, str. 1, Dz. Urz. UE L 164 z 18.06.2013, str. 11, Dz. Urz. UE L 201 z 26.07.2013, str. 31, Dz. Urz. UE L 57 z 27.02.2014, str. 21, Dz. Urz. UE L 138 z 13.05.2014, str. 52, Dz. Urz. UE L 165 z 04.06.2014, str. 33 oraz Dz. Urz. UE L 3 z 07.01.2015, str. 10. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865 oraz Dz. Urz. UE L 130 z 19.05.2016, str. 11.
 

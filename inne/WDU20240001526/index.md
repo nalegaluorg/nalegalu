@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-15 |
 | Data wydania | 2024-10-15 |
-| Wejście w życie | 2024-10-16 |
 | Ostatnia zmiana | 2024-10-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001526) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1526/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2023 r. poz. 1199) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) po § 13zzr dodaje się § 13zzs i § 13zzt w brzmieniu:
-„
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354, z 2021 r. poz. 926, 1311, 1387, 1528, 1698 i 2087, z 2022 r. poz. 45, 642, 1000, 1172, 1536, 2117, 2315 i 2399, z 2023 r. poz. 308, 757, 761, 929, 1050, 1126, 1200, 1306, 1350, 1732, 1965, 2193, 2200, 2351, 2564 i 2667 oraz z 2024 r. poz. 657, 963, 1074 i 1506.) po § 13zzr dodaje się § 13zzs i § 13zzt w brzmieniu: „
 § 13zzs.
 1.
 W 2024 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, poszkodowanemu w rozumieniu art. 2 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654 i 1473) będącemu producentem rolnym:
@@ -69,8 +67,7 @@ Stawka, o której mowa w ust. 6, wynosi:
 1)
 5000 zł na 1 ha powierzchni uprawy kukurydzy, buraków cukrowych, ziemniaków, konopi włóknistych, tytoniu, chmielu, lnu, winorośli, ziół, słonecznika lub warzyw,
 2)
-4000 zł na 1 ha powierzchni uprawy soi
-na której powstały szkody spowodowane wystąpieniem powodzi, która miała miejsce we wrześniu 2024 r., w związku z którą wprowadzono stan klęski żywiołowej.
+4000 zł na 1 ha powierzchni uprawy soi – na której powstały szkody spowodowane wystąpieniem powodzi, która miała miejsce we wrześniu 2024 r., w związku z którą wprowadzono stan klęski żywiołowej.
 8.
 Powierzchnia uprawy kukurydzy, buraków cukrowych, ziemniaków, soi, konopi włóknistych, tytoniu, chmielu, lnu, winorośli, ziół, słonecznika lub warzyw, na której powstały szkody spowodowane wystąpieniem powodzi, która miała miejsce we wrześniu 2024 r., w związku z którą wprowadzono stan klęski żywiołowej, jest ustalana na podstawie danych udostępnionych przez Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy.
 9.
@@ -125,8 +122,7 @@ W przypadku gdy łączna wysokość pomocy, o której mowa w ust. 1, oraz pomocy
 10.
 Pomoc, o której mowa w ust. 1, nie przysługuje, jeżeli łączna kwota pomocy otrzymanej na podstawie odrębnych przepisów oraz otrzymanych odszkodowań przekracza kwotę, o której mowa w ust. 8.
 11.
-Pomoc, o której mowa w ust. 1, jest wypłacana na rachunek producenta rolnego wskazany w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
-” .
+Pomoc, o której mowa w ust. 1, jest wypłacana na rachunek producenta rolnego wskazany w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354, z 2021 r. poz. 926, 1311, 1387, 1528, 1698 i 2087, z 2022 r. poz. 45, 642, 1000, 1172, 1536, 2117, 2315 i 2399, z 2023 r. poz. 308, 757, 761, 929, 1050, 1126, 1200, 1306, 1350, 1732, 1965, 2193, 2200, 2351, 2564 i 2667 oraz z 2024 r. poz. 657, 963, 1074 i 1506.
 

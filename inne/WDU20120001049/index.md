@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 września 2012 r. w sprawie wprowadzania na terytorium Rzeczypospolitej Polskiej ziemniaków pochodzących z Arabskiej Republiki Egiptu
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 września 2012 r. w sprawie wprowadzania na terytorium Rzeczypospolitej Polskiej ziemniaków pochodzących z Arabskiej Republiki Egiptu Przepisy rozporządzenia wdrażają decyzję wykonawczą Komisji 2011/787/UE z dnia 29 listopada 2011 r. upoważniającą państwa członkowskie do tymczasowego podejmowania środków nadzwyczajnych przeciwko rozprzestrzenianiu się Ralstonia solanacearum (Smith) Yabuuchi et al. w odniesieniu do Egiptu (Dz. Urz. UE L 319 z 02.12.2011, str. 112).
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-09-07 |
 | Data wydania | 2012-09-21 |
-| Wejście w życie | 2012-10-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001049) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1049/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 8 ust. 5, art. 20 ust. 1 pkt 4 i art. 30 ust. 3 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2008 r. Nr 133, poz. 849, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 8 ust. 5, art. 20 ust. 1 pkt 4 i art. 30 ust. 3 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2008 r. Nr 133, poz. 849, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 20, poz. 106, Nr 31, poz. 206 i Nr 98, poz. 817, z 2010 r. Nr 47, poz. 278 oraz z 2011 r. Nr 54, poz. 278, Nr 63, poz. 322, Nr 106, poz. 622 i Nr 171, poz. 1016.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
-wymagania specjalne, jakie powinny spełniać bulwy roślin gatunku Solanum tuberosum L. pochodzące z Arabskiej Republiki Egiptu, inne niż bulwy roślin gatunku Solanum tuberosum L. przeznaczone do sadzenia, o których mowa w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lutego 2008 r. w sprawie zapobiegania wprowadzaniu i rozprzestrzenianiu się organizmów kwarantannowych (Dz. U. Nr 46, poz. 272, z późn. zm.) w załączniku nr 3 w części A w pkt 10, zwane dalej „ziemniakami”, wprowadzane na terytorium Rzeczypospolitej Polskiej, oraz informacje, które powinny być zawarte w świadectwie fitosanitarnym;
+wymagania specjalne, jakie powinny spełniać bulwy roślin gatunku Solanum tuberosum L. pochodzące z Arabskiej Republiki Egiptu, inne niż bulwy roślin gatunku Solanum tuberosum L. przeznaczone do sadzenia, o których mowa w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lutego 2008 r. w sprawie zapobiegania wprowadzaniu i rozprzestrzenianiu się organizmów kwarantannowych (Dz. U. Nr 46, poz. 272, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 221, poz. 1443 oraz z 2009 r. Nr 54, poz. 445, Nr 134, poz. 1106 i Nr 214, poz. 1660.) w załączniku nr 3 w części A w pkt 10, zwane dalej „ziemniakami”, wprowadzane na terytorium Rzeczypospolitej Polskiej, oraz informacje, które powinny być zawarte w świadectwie fitosanitarnym;
 2)
 szczegółowy sposób przeprowadzania granicznej kontroli fitosanitarnej ziemniaków, o których mowa w pkt 1;
 3)
@@ -39,7 +38,7 @@ nakazy stosowane w stosunku do ziemniaków, o których mowa w pkt 1, w związku 
 § 2.
 Dopuszcza się wprowadzanie na terytorium Rzeczypospolitej Polskiej ziemniaków pochodzących z Arabskiej Republiki Egiptu, jeżeli:
 1)
-pochodzą one z obszarów uznanych za wolne od bakterii Ralstonia solanacearum , zgodnie z Międzynarodowym Standardem w zakresie Środków Fitosanitarnych; obszary te obejmują grupę pól wspólnie nawadnianych, zwaną dalej „jednostką”, albo jednostkę administracyjną obejmującą grupę jednostek, zwaną dalej „strefą”, i są oznaczone indywidualnym numerem kodu, nadawanym przez urzędową służbę ochrony roślin Arabskiej Republiki Egiptu;
+pochodzą one z obszarów uznanych za wolne od bakterii Ralstonia solanacearum , zgodnie z Międzynarodowym Standardem w zakresie Środków FitosanitarnychMiędzynarodowy Standard w zakresie Środków Fitosanitarnych – International Standards for Phytosanitary Measures, Part 4 – Pest Surveillance, Requirements for the establishment of Pest Free Areas, Publication No 4, FAO, Rome, wydany na podstawie artykułu X Międzynarodowej konwencji ochrony roślin, sporządzonej w Rzymie dnia 6 grudnia 1951 r. (Dz. U. z 2007 r. Nr 73, poz. 485).; obszary te obejmują grupę pól wspólnie nawadnianych, zwaną dalej „jednostką”, albo jednostkę administracyjną obejmującą grupę jednostek, zwaną dalej „strefą”, i są oznaczone indywidualnym numerem kodu, nadawanym przez urzędową służbę ochrony roślin Arabskiej Republiki Egiptu;
 2)
 są wolne od organizmów kwarantannowych, o których mowa w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lutego 2008 r. w sprawie zapobiegania wprowadzaniu i rozprzestrzenianiu się organizmów kwarantannowych w załącznikach nr 1 i 2, oraz, oprócz wymagań określonych w załączniku nr 4 do tego rozporządzenia, spełniają następujące wymagania:
 a)
@@ -98,6 +97,5 @@ poddanie filtrowaniu lub procesowi osiadania w celu usunięcia resztek stałych,
 b)
 unieszkodliwienie w sposób inny niż wymieniony w lit. a, jeżeli wojewódzki inspektor stwierdzi, że nie istnieje ryzyko rozprzestrzeniania się bakterii Ralstonia solanacearum , w szczególności przeniknięcia jej do obszarów rolniczych lub źródeł wody, która może zostać użyta do nawadniania obszarów rolniczych.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-2) Przepisy rozporządzenia wdrażają decyzję wykonawczą Komisji 2011/787/UE z dnia 29 listopada 2011 r. upoważniającą państwa członkowskie do tymczasowego podejmowania środków nadzwyczajnych przeciwko rozprzestrzenianiu się Ralstonia solanacearum (Smith) Yabuuchi et al. w odniesieniu do Egiptu (Dz. Urz. UE L 319 z 02.12.2011, str. 112). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 20, poz. 106, Nr 31, poz. 206 i Nr 98, poz. 817, z 2010 r. Nr 47, poz. 278 oraz z 2011 r. Nr 54, poz. 278, Nr 63, poz. 322, Nr 106, poz. 622 i Nr 171, poz. 1016. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 221, poz. 1443 oraz z 2009 r. Nr 54, poz. 445, Nr 134, poz. 1106 i Nr 214, poz. 1660. 5) Międzynarodowy Standard w zakresie Środków Fitosanitarnych – International Standards for Phytosanitary Measures, Part 4 – Pest Surveillance, Requirements for the establishment of Pest Free Areas, Publication No 4, FAO, Rome, wydany na podstawie artykułu X Międzynarodowej konwencji ochrony roślin, sporządzonej w Rzymie dnia 6 grudnia 1951 r. (Dz. U. z 2007 r. Nr 73, poz. 485).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Przepisy rozporządzenia wdrażają decyzję wykonawczą Komisji 2011/787/UE z dnia 29 listopada 2011 r. upoważniającą państwa członkowskie do tymczasowego podejmowania środków nadzwyczajnych przeciwko rozprzestrzenianiu się Ralstonia solanacearum (Smith) Yabuuchi et al. w odniesieniu do Egiptu (Dz. Urz. UE L 319 z 02.12.2011, str. 112). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 20, poz. 106, Nr 31, poz. 206 i Nr 98, poz. 817, z 2010 r. Nr 47, poz. 278 oraz z 2011 r. Nr 54, poz. 278, Nr 63, poz. 322, Nr 106, poz. 622 i Nr 171, poz. 1016. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 221, poz. 1443 oraz z 2009 r. Nr 54, poz. 445, Nr 134, poz. 1106 i Nr 214, poz. 1660. 5) Międzynarodowy Standard w zakresie Środków Fitosanitarnych – International Standards for Phytosanitary Measures, Part 4 – Pest Surveillance, Requirements for the establishment of Pest Free Areas, Publication No 4, FAO, Rome, wydany na podstawie artykułu X Międzynarodowej konwencji ochrony roślin, sporządzonej w Rzymie dnia 6 grudnia 1951 r. (Dz. U. z 2007 r. Nr 73, poz. 485).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Sportuz dnia 15 maja 2020 r. zmieniające rozporządzenie w sprawie przekazywania środków z Funduszu Zajęć Sportowych dla Uczniów
+# Rozporządzenie Ministra Sportuz dnia 15 maja 2020 r. zmieniające rozporządzenie w sprawie przekazywania środków z Funduszu Zajęć Sportowych dla Uczniów Minister Sportu kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 grudnia 2019 r. w sprawie szczegółowego zakresu działania Ministra Sportu (Dz. U. poz. 2380).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-05-15 |
 | Data wydania | 2020-06-01 |
-| Wejście w życie | 2020-06-09 |
 | Ostatnia zmiana | 2025-03-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000973) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/973/text.pdf) |
 
@@ -33,6 +32,5 @@ W rozporządzeniu Ministra Sportu i Turystyki z dnia 18 grudnia 2015 r. w sprawi
 § 2.
 W przypadku zajęć realizowanych na podstawie umów zawartych przed dniem wejścia w życie niniejszego rozporządzenia oraz do rozliczania dofinansowania w tym zakresie stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Sportu kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 grudnia 2019 r. w sprawie szczegółowego zakresu działania Ministra Sportu (Dz. U. poz. 2380).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Minister Sportu kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 grudnia 2019 r. w sprawie szczegółowego zakresu działania Ministra Sportu (Dz. U. poz. 2380).
 

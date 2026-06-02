@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-10-29 |
 | Data wydania | 2003-12-08 |
-| Wejście w życie | 2003-12-23 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032082017) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2017/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 lipca 1950 r. o zawodzie felczera (Dz. U. Nr 36, poz. 336, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 lipca 1950 r. o zawodzie felczera (Dz. U. Nr 36, poz. 336, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1954 r. Nr 57, poz. 284, z 1998 r. Nr 143, poz. 916, z 1999 r. Nr 60, poz. 636 oraz z 2000 r. Nr 120, poz. 1268.) wprowadza się następujące zmiany:
 
 - **1)** art. 1 otrzymuje brzmienie: „
 
@@ -171,5 +170,5 @@ source: "eli-html"
 
 **Art. 3.** Do czasu wydania przepisów wykonawczych na podstawie niniejszej ustawy, zachowują moc dotychczasowe przepisy, o ile nie są sprzeczne z ustawą, nie dłużej jednak niż do dnia 31 grudnia 2004 r. Przepisy art. 1 ust. 2 pkt 3, ust. 3, art. 1a ust. 2, art. 1b ust. 2, ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się do obywateli państw członkowskich Unii Europejskiej z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1954 r. Nr 57, poz. 284, z 1998 r. Nr 143, poz. 916, z 1999 r. Nr 60, poz. 636 oraz z 2000 r. Nr 120, poz. 1268.
 

@@ -22,11 +22,24 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-07-05 |
 | Data wydania | 2012-07-13 |
-| Wejście w życie | 2012-07-14 |
 | Ostatnia zmiana | 2024-10-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000808) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/808/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Wymagania ogólnoprzestrzenne Rozdział 3 – Wymagania dla niektórych pomieszczeń i urządzeń Rozdział 4 – Wymagania ogólnobudowlane Rozdział 5 – Oświetlenie Rozdział 6 – Wymagania dotyczące instalacji Rozdział 7 – Przepis końcowy
+Treść rozporządzenia
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Wymagania ogólnoprzestrzenne
+
+#### Rozdział 3 – Wymagania dla niektórych pomieszczeń i urządzeń
+
+#### Rozdział 4 – Wymagania ogólnobudowlane
+
+#### Rozdział 5 – Oświetlenie
+
+#### Rozdział 6 – Wymagania dotyczące instalacji
+
+#### Rozdział 7 – Przepis końcowy
 
 ## Załącznik nr 1 — – Szczegółowe wymagania, jakim powinny odpowiadać pomieszczenia i urządzenia szpitala
 
@@ -37,8 +50,9 @@ Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Wymagan
 ## Załącznik nr 4 — – Szczegółowe wymagania, jakim powinny odpowiadać urządzenia i pomieszczenia, w których udziela się świadczeń zdrowotnych z zakresu rehabilitacji leczniczej
 
 Treść rozporządzenia
-Na podstawie art. 22 ust. 4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654, z późn. zm.) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Na podstawie art. 22 ust. 4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 149, poz. 887, Nr 174, poz. 1039 i Nr 185, poz. 1092 oraz z 2012 r. poz. 742.) zarządza się, co następuje:
+Rozdział 1
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa szczegółowe wymagania, jakim powinny odpowiadać pod względem fachowym i sanitarnym pomieszczenia i urządzenia podmiotu leczniczego dla osób pozbawionych wolności.
@@ -68,7 +82,8 @@ pomieszczenie higieniczno-sanitarne – pomieszczenie wyposażone co najmniej w 
 pomieszczenie porządkowe – pomieszczenie służące do przechowywania sprzętu stosowanego do utrzymywania czystości, środków czystości oraz preparatów myjąco-dezynfekcyjnych, a także do przygotowywania roztworów roboczych oraz mycia i dezynfekcji sprzętu stosowanego do utrzymywania czystości, wyposażone w zlew z baterią i dozownik ze środkiem dezynfekcyjnym;
 6)
 zakład karny – zakład karny lub areszt śledczy.
-Rozdział 2 Wymagania ogólnoprzestrzenne
+Rozdział 2
+Wymagania ogólnoprzestrzenne
 § 3.
 1.
 Szpital lub ambulatorium z izbą chorych mogą być zlokalizowane w samodzielnym budynku lub w zespole budynków o innym przeznaczeniu, będących w strukturze zakładu karnego, z możliwym maksymalnym zachowaniem odrębności od innych użytkowników budynku.
@@ -83,7 +98,8 @@ Kształt i powierzchnia poszczególnych pomieszczeń szpitala lub ambulatorium z
 W szpitalu nie mogą być stosowane zsypy.
 2.
 W uzasadnionych przypadkach, w szczególności wynikających z warunków technicznych, państwowy wojewódzki inspektor sanitarny może wyrazić zgodę na zastosowanie w szpitalu zsypów brudnej bielizny.
-Rozdział 3 Wymagania dla niektórych pomieszczeń i urządzeń
+Rozdział 3
+Wymagania dla niektórych pomieszczeń i urządzeń
 § 7.
 Łóżka w pokojach łóżkowych szpitala są dostępne przynajmniej z dwóch stron, w tym jednej dłuższej.
 § 8.
@@ -171,7 +187,8 @@ Meble w pomieszczeniach podmiotu wykonującego działalność leczniczą umożli
 Przepisu ust. 1 nie stosuje się do mebli w pomieszczeniach administracyjnych i socjalnych, poradni i gabinetów podmiotów wykonujących świadczenia z zakresu opieki psychiatrycznej i leczenia uzależnień.
 § 17.
 W zakładzie karnym, w którego strukturze funkcjonuje szpital lub ambulatorium z izbą chorych, zapewnia się co najmniej jedno pomieszczenie porządkowe umożliwiające dodatkowo mycie i dezynfekcję środków transportu.
-Rozdział 4 Wymagania ogólnobudowlane
+Rozdział 4
+Wymagania ogólnobudowlane
 § 18.
 1.
 W pomieszczeniach szpitala lub ambulatorium z izbą chorych podłogi, a także połączenia ścian z podłogami wykonuje się z materiałów umożliwiających ich mycie i dezynfekcję.
@@ -183,7 +200,8 @@ Pomieszczenia i urządzenia wymagające utrzymania aseptyki i wyposażenie tych 
 W przypadku konieczności zastosowania sufitów podwieszonych w pomieszczeniach o podwyższonych wymaganiach higienicznych, w szczególności w salach operacyjnych i porodowych, pokojach łóżkowych, w oddziale anestezjologii i intensywnej terapii, salach pooperacyjnych, sufity te są wykonane w sposób zapewniający szczelność powierzchni oraz umożliwiający ich mycie i dezynfekcję.
 § 21.
 Szerokość drzwi w pomieszczeniach, przez które odbywa się ruch pacjentów na łóżkach, umożliwia ten ruch.
-Rozdział 5 Oświetlenie
+Rozdział 5
+Oświetlenie
 § 22.
 W pokojach łóżkowych zapewnia się bezpośredni dostęp światła dziennego.
 § 23.
@@ -193,7 +211,8 @@ W przypadku nadmiernego naświetlenia pokoi łóżkowych instaluje się w nich o
 W salach operacyjnych i pomieszczeniach diagnostyki obrazowej stosuje się wyłącznie oświetlenie elektryczne.
 2.
 W przypadku gdy nie stanowi to utrudnienia przy wykonywaniu zabiegów operacyjnych i diagnostycznych, dopuszcza się zastosowanie w pomieszczeniach, o których mowa w ust. 1, oświetlenia dziennego.
-Rozdział 6 Wymagania dotyczące instalacji
+Rozdział 6
+Wymagania dotyczące instalacji
 § 25.
 1.
 Pomieszczenia, w których są wykonywane badania lub zabiegi, z wyjątkiem pomieszczeń, w których odbywa się badanie za pomocą rezonansu magnetycznego, wyposażone są w umywalki z baterią z ciepłą i zimną wodą, dozownik z mydłem w płynie, dozownik ze środkiem dezynfekcyjnym oraz pojemnik z ręcznikami jednorazowego użycia i pojemnik na zużyte ręczniki albo urządzenie do suszenia rąk.
@@ -217,9 +236,10 @@ Dokonanie czynności, o których mowa w ust. 1, wymaga udokumentowania.
 Szpital posiada rezerwowe źródło zaopatrzenia w energię elektryczną, którym jest agregat prądotwórczy wyposażony w funkcję autostartu, zapewniający co najmniej 30% potrzeb mocy szczytowej, a także urządzenie zapewniające odpowiedni poziom bezprzerwowego podtrzymania zasilania.
 2.
 Przepisu ust. 1 nie stosuje się w sytuacji, gdy zakład karny, na terenie którego funkcjonuje szpital, ma agregat prądotwórczy lub inne rezerwowe źródło zaopatrzenia w energię elektryczną, o ile ich wydolność zapewni szpitalowi co najmniej 30% potrzeb mocy szczytowej, a także urządzenie zapewniające odpowiedni poziom bezprzerwowego podtrzymania zasilania.
-Rozdział 7 Przepis końcowy
+Rozdział 7
+Przepis końcowy
 § 31.
-Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 2 lutego 2011 r. w sprawie wymagań, jakim powinny odpowiadać pod względem fachowym i sanitarnym pomieszczenia i urządzenia zakładu opieki zdrowotnej (Dz. U. Nr 31, poz. 158). 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 149, poz. 887, Nr 174, poz. 1039 i Nr 185, poz. 1092 oraz z 2012 r. poz. 742. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 2 lutego 2011 r. w sprawie wymagań, jakim powinny odpowiadać pod względem fachowym i sanitarnym pomieszczenia i urządzenia zakładu opieki zdrowotnej (Dz. U. Nr 31, poz. 158).
 
 ## Załącznik nr 1 — – Szczegółowe wymagania, jakim powinny odpowiadać pomieszczenia i urządzenia szpitala
 

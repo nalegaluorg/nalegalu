@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 czerwca 2016 r. o zmianie ustawy – Prawo o szkolnictwie wyższym oraz niektórych innych ustaw
+# Ustawa z dnia 23 czerwca 2016 r. o zmianie ustawy – Prawo o szkolnictwie wyższym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 lipca 1998 r. o pożyczkach i kredytach studenckich, ustawę z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki, ustawę z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki, ustawę z dnia 30 kwietnia 2010 r. o instytutach badawczych, ustawę z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk, ustawę z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo o szkolnictwie wyższym oraz niektórych innych ustaw oraz ustawę z dnia 25 września 2015 r. o zmianie niektórych ustaw w związku ze wspieraniem innowacyjności.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-23 |
 | Data wydania | 2016-08-23 |
-| Wejście w życie | 2016-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001311) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1311/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650, z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198, z 2015 r. poz. 357, 860, 1187, 1240, 1268, 1767 i 1923 oraz z 2016 r. poz. 64, 907, 908 i 1010.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w ust. 1: pkt 14b otrzymuje brzmienie: „
     - **a)**
@@ -219,7 +218,7 @@ source: "eli-html"
 - **1)** uczelnia publiczna nie wprowadzi programu naprawczego w trybie określonym w ust. 2–4 lub
 - **2)** ocena rezultatów programu naprawczego przedstawianych w okresowych sprawozdaniach, o których mowa w ust. 4, wskazuje, że nie zostaną osiągnięte jego cele, lub
 - **3)** w ostatnim roku realizacji programu naprawczego wystąpił warunek opracowania programu naprawczego, o którym mowa w ust. 1, lub
-- **4)** ocena rezultatów programu naprawczego przedstawionych w okresowym sprawozdaniu, o którym mowa w ust. 4, złożonym po zakończeniu ostatniego roku realizacji programu naprawczego, wskazuje, że nie zostały osiągnięte jego cele minister nadzorujący tę uczelnię powołuje, na okres nie dłuższy niż trzy lata, osobę pełniącą obowiązki rektora, powierzając jej zadania dotyczące opracowania i wdrożenia programu naprawczego. ” ;
+- **4)** ocena rezultatów programu naprawczego przedstawionych w okresowym sprawozdaniu, o którym mowa w ust. 4, złożonym po zakończeniu ostatniego roku realizacji programu naprawczego, wskazuje, że nie zostały osiągnięte jego cele – minister nadzorujący tę uczelnię powołuje, na okres nie dłuższy niż trzy lata, osobę pełniącą obowiązki rektora, powierzając jej zadania dotyczące opracowania i wdrożenia programu naprawczego. ” ;
 - **23)** w art. 115: ust. 1a otrzymuje brzmienie: „
     - **a)**
 
@@ -486,7 +485,7 @@ source: "eli-html"
 1. Programy kształcenia i zawarte w nich opisy efektów kształcenia, określone przez senaty uczelni dla kierunków studiów utworzonych przed dniem wejścia w życie niniejszej ustawy, zgodne z:
 
 - **1)** Krajowymi Ramami Kwalifikacji określonymi w przepisach wydanych na podstawie art. 9 ust. 1 pkt 2 ustawy, o której mowa w art. 1,
-- **2)** wzorcowymi efektami kształcenia określonymi w przepisach wydanych na podstawie art. 9 ust. 2 ustawy, o której mowa w art. 1 pozostają w mocy.
+- **2)** wzorcowymi efektami kształcenia określonymi w przepisach wydanych na podstawie art. 9 ust. 2 ustawy, o której mowa w art. 1 – pozostają w mocy.
 
 2. Do zmiany programów kształcenia i opisów efektów kształcenia, o których mowa w ust. 1, stosuje się przepisy obowiązujące w dniu dokonywania tej zmiany.
 
@@ -525,7 +524,7 @@ source: "eli-html"
 
 - **1)** art. 132 ust. 2 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą,
 - **2)** art. 44 ust. 4 i art. 50 ustawy, o której mowa w art. 5, w brzmieniu nadanym niniejszą ustawą,
-- **3)** art. 96 ust. 1 ustawy, o której mowa w art. 6, w brzmieniu nadanym niniejszą ustawą dokonają pierwszej oceny po dniu wejścia w życie niniejszej ustawy do końca roku poprzedzającego rok kompleksowej oceny jakości działalności naukowej lub badawczo-rozwojowej jednostek naukowych, o której mowa w art. 41 ust. 1 pkt 1 ustawy, o której mowa w art. 4, przeprowadzanej po raz drugi po dniu wejścia w życie niniejszej ustawy.
+- **3)** art. 96 ust. 1 ustawy, o której mowa w art. 6, w brzmieniu nadanym niniejszą ustawą – dokonają pierwszej oceny po dniu wejścia w życie niniejszej ustawy do końca roku poprzedzającego rok kompleksowej oceny jakości działalności naukowej lub badawczo-rozwojowej jednostek naukowych, o której mowa w art. 41 ust. 1 pkt 1 ustawy, o której mowa w art. 4, przeprowadzanej po raz drugi po dniu wejścia w życie niniejszej ustawy.
 
 2. Na wniosek kierownika jednostki organizacyjnej uczelni, w której jest zatrudniony nauczyciel akademicki, dyrektora instytutu naukowego Polskiej Akademii Nauk, w którym jest zatrudniony pracownik naukowy, albo dyrektora instytutu badawczego, w którym jest zatrudniony pracownik naukowy albo pracownik badawczo-techniczny, ocena okresowa może być dokonana w terminie wcześniejszym niż określony w ust. 1. W tym przypadku kolejna ocena jest dokonywana w terminie określonym w ust. 1. Wniosek składa się odpowiednio do:
 
@@ -564,12 +563,12 @@ source: "eli-html"
 
 - **1)** art. 9 ust. 3 pkt 3 i 4, art. 98 ust. 2 i art. 192 ust. 1 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 48a ust. 7, art. 98 ust. 2 i art. 192 ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą,
 - **2)** art. 31 ustawy, o której mowa w art. 3, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 31 ustawy, o której mowa w art. 3, w brzmieniu nadanym niniejszą ustawą,
-- **3)** art. 28a ust. 8 ustawy, o której mowa w art. 4, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 28a ust. 8 ustawy, o której mowa w art. 4, w brzmieniu nadanym niniejszą ustawą nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+- **3)** art. 28a ust. 8 ustawy, o której mowa w art. 4, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 28a ust. 8 ustawy, o której mowa w art. 4, w brzmieniu nadanym niniejszą ustawą – nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 15 ustawy, o której mowa w art. 2, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 15 ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 grudnia 2017 r. Ustawa wchodzi w życie z dniem 1 października 2016 r., z wyjątkiem:
 
 - **1)** art. 1 pkt 10 lit. a i b oraz pkt 21, 32 i 34,
 - **2)** art. 2 pkt 1 lit. a i pkt 2,
-- **3)** art. 4 pkt 8 które wchodzą w życie z dniem 1 stycznia 2017 r.
+- **3)** art. 4 pkt 8 – które wchodzą w życie z dniem 1 stycznia 2017 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 lipca 1998 r. o pożyczkach i kredytach studenckich, ustawę z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki, ustawę z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki, ustawę z dnia 30 kwietnia 2010 r. o instytutach badawczych, ustawę z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk, ustawę z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo o szkolnictwie wyższym oraz niektórych innych ustaw oraz ustawę z dnia 25 września 2015 r. o zmianie niektórych ustaw w związku ze wspieraniem innowacyjności. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650, z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198, z 2015 r. poz. 357, 860, 1187, 1240, 1268, 1767 i 1923 oraz z 2016 r. poz. 64, 907, 908 i 1010.
 
 

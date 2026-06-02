@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 8 lipca 2021 r. o zmianie ustawy o gospodarce nieruchomościami oraz niektórych innych ustaw
+# Ustawa z dnia 8 lipca 2021 r. o zmianie ustawy o gospodarce nieruchomościami oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawę z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej w województwie oraz ustawę z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-07-08 |
 | Data wydania | 2021-08-25 |
-| Wejście w życie | 2021-09-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001561) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1561/text.pdf) |
 
@@ -51,8 +50,10 @@ source: "eli-html"
 
 2. W przypadku niewykorzystania nieruchomości na cel, na który została darowana, lub wykorzystywania nieruchomości na inny cel niż cel, na który została darowana, darowizna podlega odwołaniu, chyba że odpowiednio wojewoda, sejmik województwa lub rada powiatu wyrazi zgodę na zmianę warunków umowy darowizny, w tym na zmianę celu, na który nieruchomość została darowana. ” ;
 
-- **8)** w art. 23: w ust. 1: – uchyla się pkt 3, – pkt 7a otrzymuje brzmienie: „ 7a) wydzierżawiają, wynajmują, użyczają oraz oddają w użytkowanie nieruchomości wchodzące w skład zasobu, przy czym umowa zawierana na czas oznaczony dłuższy niż 3 lata lub czas nieoznaczony wymaga zgody wojewody; zgoda wojewody jest wymagana również w przypadku, gdy po umowie zawartej na czas oznaczony nie dłuższy niż 3 lata strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość; ” , po ust. 1d dodaje się ust. 1da i 1db w brzmieniu: „ 1da. Starosta sporządza plan wykorzystania zasobu nieruchomości Skarbu Państwa oraz przedkłada go wojewodzie – do zatwierdzenia – najpóźniej na 2 miesiące przed zakończeniem okresu obowiązywania aktualnego planu. Wojewoda, rozstrzygając o zatwierdzeniu planu, bierze pod uwagę wyłącznie jego zgodność z przepisami prawa powszechnie obowiązującego. 1db. Plan wykorzystania zasobu nieruchomości Skarbu Państwa opracowuje się na okres 3 lat. Plan zawiera w szczególności:
+- **8)** w art. 23: w ust. 1: – uchyla się pkt 3, pkt 7a otrzymuje brzmienie: „
     - **a)**
+
+- **7a)** wydzierżawiają, wynajmują, użyczają oraz oddają w użytkowanie nieruchomości wchodzące w skład zasobu, przy czym umowa zawierana na czas oznaczony dłuższy niż 3 lata lub czas nieoznaczony wymaga zgody wojewody; zgoda wojewody jest wymagana również w przypadku, gdy po umowie zawartej na czas oznaczony nie dłuższy niż 3 lata strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość; ” , po ust. 1d dodaje się ust. 1da i 1db w brzmieniu: „ 1da. Starosta sporządza plan wykorzystania zasobu nieruchomości Skarbu Państwa oraz przedkłada go wojewodzie – do zatwierdzenia – najpóźniej na 2 miesiące przed zakończeniem okresu obowiązywania aktualnego planu. Wojewoda, rozstrzygając o zatwierdzeniu planu, bierze pod uwagę wyłącznie jego zgodność z przepisami prawa powszechnie obowiązującego. 1db. Plan wykorzystania zasobu nieruchomości Skarbu Państwa opracowuje się na okres 3 lat. Plan zawiera w szczególności:
     - **b)**
 
 - **1)** zestawienie nieruchomości zasobu na podstawie danych zawartych w ewidencji nieruchomości prowadzonej na podstawie ust. 1 pkt 1 oraz zestawienie nieruchomości oddanych w użytkowanie wieczyste, w tym wskazanie: miejscowości położenia nieruchomości, powierzchni nieruchomości, z uwzględnieniem powierzchni użytkowej budynków lub samodzielnych lokali wykazanej w katastrze nieruchomości, sposobu zagospodarowania nieruchomości;
@@ -75,9 +76,11 @@ source: "eli-html"
 
 - **1)** starostów wykonujących zadania z zakresu administracji rządowej,
 - **2)** jednostek organizacyjnych, na rzecz których został ustanowiony trwały zarząd w stosunku do nieruchomości Skarbu Państwa,
-- **3)** jednostek organizacyjnych, które władają nieruchomościami Skarbu Państwa bez tytułu prawnego a podmioty te przekazują żądane informacje w zakresie oraz formie określonych w wystąpieniu wojewody; w wystąpieniu wojewoda określa termin przekazania informacji – nie krótszy niż 7 dni od dnia otrzymania wystąpienia. ” ;
-- **9)** w art. 23a: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek o wyrażenie zgody, o której mowa w art. 13 ust. 2a i 2b, art. 14 ust. 5 lub art. 23 ust. 1 pkt 7 i 7a, powinien zawierać: ” , – pkt 2 otrzymuje brzmienie: „ 2) wartość nieruchomości i cenę nieruchomości, a w przypadku wniosku o wyrażenie zgody, o której mowa w art. 23 ust. 1 pkt 7a – wysokość opłat z tytułu użytkowania, najmu albo dzierżawy nieruchomości; ” , – w pkt 4 wyrazy „realizacji polityki gospodarowania nieruchomościami” zastępuje się wyrazami „wykorzystania zasobu nieruchomości”, w ust. 2: – uchyla się pkt 1, – w pkt 2 średnik zastępuje się przecinkiem i dodaje się wyrazy „z wyjątkiem wniosku o wyrażenie zgody, o której mowa w art. 23 ust. 1 pkt 7a;”;
+- **3)** jednostek organizacyjnych, które władają nieruchomościami Skarbu Państwa bez tytułu prawnego – a podmioty te przekazują żądane informacje w zakresie oraz formie określonych w wystąpieniu wojewody; w wystąpieniu wojewoda określa termin przekazania informacji – nie krótszy niż 7 dni od dnia otrzymania wystąpienia. ” ;
+- **9)** w art. 23a: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek o wyrażenie zgody, o której mowa w art. 13 ust. 2a i 2b, art. 14 ust. 5 lub art. 23 ust. 1 pkt 7 i 7a, powinien zawierać: ” , pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** wartość nieruchomości i cenę nieruchomości, a w przypadku wniosku o wyrażenie zgody, o której mowa w art. 23 ust. 1 pkt 7a – wysokość opłat z tytułu użytkowania, najmu albo dzierżawy nieruchomości; ” , – w pkt 4 wyrazy „realizacji polityki gospodarowania nieruchomościami” zastępuje się wyrazami „wykorzystania zasobu nieruchomości”, w ust. 2: – uchyla się pkt 1, – w pkt 2 średnik zastępuje się przecinkiem i dodaje się wyrazy „z wyjątkiem wniosku o wyrażenie zgody, o której mowa w art. 23 ust. 1 pkt 7a;”;
     - **b)**
 
 - **10)** w art. 25 w ust. 2a pkt 1 i 2 otrzymują brzmienie: „
@@ -158,7 +161,7 @@ source: "eli-html"
 - **2)** starostów wykonujących zadania z zakresu administracji rządowej,
 - **3)** wojewodów,
 - **4)** jednostek organizacyjnych, na rzecz których został ustanowiony trwały zarząd w stosunku do nieruchomości Skarbu Państwa,
-- **5)** jednostek organizacyjnych, które władają nieruchomościami Skarbu Państwa bez tytułu prawnego a podmioty te przekazują żądane informacje w zakresie oraz formie określonych w wystąpieniu ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa; w wystąpieniu minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określa termin przekazania informacji – nie krótszy niż 7 dni od dnia otrzymania wystąpienia. ” ;
+- **5)** jednostek organizacyjnych, które władają nieruchomościami Skarbu Państwa bez tytułu prawnego – a podmioty te przekazują żądane informacje w zakresie oraz formie określonych w wystąpieniu ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa; w wystąpieniu minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określa termin przekazania informacji – nie krótszy niż 7 dni od dnia otrzymania wystąpienia. ” ;
 - **24)** w art. 61 po ust. 3a dodaje się ust. 3b i 3c w brzmieniu: „
 
 3b. Minister właściwy do spraw zagranicznych może ustanowić nieodpłatnie, w drodze decyzji, trwały zarząd nieruchomości stanowiących własność Skarbu Państwa, znajdujących się poza terytorium Rzeczypospolitej Polskiej, w stosunku do których wykonuje uprawnienia, o których mowa w ust. 3a. Przepisy rozdziału 5 niniejszego działu stosuje się odpowiednio.
@@ -219,7 +222,7 @@ source: "eli-html"
 
 - **1)** ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa lub
 - **2)** organu założycielskiego lub organu nadzorującego państwową osobę prawną lub państwową jednostkę organizacyjną, lub
-- **3)** państwowej osoby prawnej lub państwowej jednostki organizacyjnej – w przypadku gdy organem założycielskim lub organem nadzorującym ten podmiot jest minister właściwy do spraw rozwoju wsi złożony do ministra właściwego do spraw rozwoju wsi za pośrednictwem Dyrektora Generalnego Krajowego Ośrodka.
+- **3)** państwowej osoby prawnej lub państwowej jednostki organizacyjnej – w przypadku gdy organem założycielskim lub organem nadzorującym ten podmiot jest minister właściwy do spraw rozwoju wsi – złożony do ministra właściwego do spraw rozwoju wsi za pośrednictwem Dyrektora Generalnego Krajowego Ośrodka.
 
 1b. Dyrektor Generalny Krajowego Ośrodka wydaje opinię w sprawie możliwości przekazania nieruchomości wchodzących w skład Zasobu na wyposażenie lub doposażenie państwowej osoby prawnej lub państwowej jednostki organizacyjnej, a następnie przekazuje ją wraz z wnioskiem, o którym mowa w ust. 1a, ministrowi właściwemu do spraw rozwoju wsi. ” .
 
@@ -263,6 +266,6 @@ source: "eli-html"
 
 1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 159 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 159 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie art. 159 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-2. Standardy zawodowe ustalone oraz ogłoszone na podstawie art. 175 ust. 6 ustawy zmienianej w art. 1 zachowują moc przez 24 miesiące od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+2. Standardy zawodowe ustalone oraz ogłoszone na podstawie art. 175 ust. 6 ustawy zmienianej w art. 1 zachowują moc przez 24 miesiące od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawę z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej w województwie oraz ustawę z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym.
 
 

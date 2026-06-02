@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 18 kwietnia 2013 r. w sprawie wymagań integrowanej ochrony roślin
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 18 kwietnia 2013 r. w sprawie wymagań integrowanej ochrony roślin Rozporządzenie wdraża częściowo postanowienia dyrektywy Parlamentu Europejskiego i Rady 2009/128/WE z dnia 21 października 2009 r. ustanawiającej ramy wspólnotowego działania na rzecz zrównoważonego stosowania pestycydów (Dz. Urz. UE L 309 z 24.11.2009, str. 71).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-04-18 |
 | Data wydania | 2013-04-26 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000505) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/505/text.pdf) |
 
@@ -42,8 +41,7 @@ stosowanie nawożenia, nawadniania i wapnowania, w sposób ograniczający wystę
 5)
 przeprowadzanie czyszczenia i dezynfekcji maszyn, opakowań i innych przedmiotów, zapobiegające występowaniu i rozprzestrzenianiu się organizmów szkodliwych,
 6)
-ochronę organizmów pożytecznych oraz stwarzanie warunków sprzyjających ich występowaniu, w szczególności dotyczy to owadów zapylających i naturalnych wrogów organizmów szkodliwych
-jeżeli stosowanie danego działania lub metody jest możliwe, pozwala na ograniczenie występowania organizmów szkodliwych lub efektywną ochronę roślin przed tymi organizmami, stwarza mniejsze zagrożenie dla środowiska niż działania lub metody chemiczne oraz jest ekonomicznie uzasadnione.
+ochronę organizmów pożytecznych oraz stwarzanie warunków sprzyjających ich występowaniu, w szczególności dotyczy to owadów zapylających i naturalnych wrogów organizmów szkodliwych – jeżeli stosowanie danego działania lub metody jest możliwe, pozwala na ograniczenie występowania organizmów szkodliwych lub efektywną ochronę roślin przed tymi organizmami, stwarza mniejsze zagrożenie dla środowiska niż działania lub metody chemiczne oraz jest ekonomicznie uzasadnione.
 2.
 W ramach integrowanej ochrony roślin, przeprowadzając zabiegi chemicznej ochrony roślin, należy uwzględnić:
 1)
@@ -63,6 +61,5 @@ informacji uzyskanych od osób świadczących usługi doradcze dotyczące metod 
 § 3.
 Ocenę skuteczności podejmowanych działań i metod ochrony roślin przeprowadza się w szczególności na podstawie prowadzonej dokumentacji, o której mowa w art. 67 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1107/2009 z dnia 21 października 2009 r. dotyczącego wprowadzania do obrotu środków ochrony roślin i uchylającego dyrektywy Rady 79/117/EWG i 91/414/EWG (Dz. Urz. UE L 309 z 24.11.2009, str. 1, z późn. zm.), oraz na podstawie wyników monitorowania występowania organizmów szkodliwych.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
-2) Rozporządzenie wdraża częściowo postanowienia dyrektywy Parlamentu Europejskiego i Rady 2009/128/WE z dnia 21 października 2009 r. ustanawiającej ramy wspólnotowego działania na rzecz zrównoważonego stosowania pestycydów (Dz. Urz. UE L 309 z 24.11.2009, str. 71).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r. 2) Rozporządzenie wdraża częściowo postanowienia dyrektywy Parlamentu Europejskiego i Rady 2009/128/WE z dnia 21 października 2009 r. ustanawiającej ramy wspólnotowego działania na rzecz zrównoważonego stosowania pestycydów (Dz. Urz. UE L 309 z 24.11.2009, str. 71).
 

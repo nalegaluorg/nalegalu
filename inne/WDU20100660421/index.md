@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 marca 2010 r. o zmianie ustawy – Prawo o miarach
+# Ustawa z dnia 5 marca 2010 r. o zmianie ustawy – Prawo o miarach Niniejsza ustawa w zakresie swojej regulacji dokonuje wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2009/3/WE z dnia 11 marca 2009 r. zmieniającej dyrektywę Rady 80/181/EWG w sprawie zbliżenia ustawodawstw państw członkowskich odnoszących się do jednostek miar (Dz. Urz. UE L 114 z 07.05.2009, str. 10).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-03-05 |
 | Data wydania | 2010-04-22 |
-| Wejście w życie | 2010-04-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100660421) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/421/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2004 r. Nr 243, poz. 2441, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2004 r. Nr 243, poz. 2441, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 163, poz. 1362 i Nr 180, poz. 1494, z 2006 r. Nr 170, poz. 1217 i Nr 249, poz. 1834, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 91, poz. 740.) wprowadza się następujące zmiany:
 
 - **1)** art. 6 otrzymuje brzmienie: „
 
@@ -43,5 +42,5 @@ source: "eli-html"
 - **3)** w art. 26 w ust. 1 pkt 1 otrzymuje brzmienie: „
 - **1)** wyraża wartości wielkości fizycznych w jednostkach miar innych niż legalne, ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia, z wyjątkiem art. 1 pkt 3, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia, z wyjątkiem art. 1 pkt 3, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji dokonuje wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2009/3/WE z dnia 11 marca 2009 r. zmieniającej dyrektywę Rady 80/181/EWG w sprawie zbliżenia ustawodawstw państw członkowskich odnoszących się do jednostek miar (Dz. Urz. UE L 114 z 07.05.2009, str. 10). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 163, poz. 1362 i Nr 180, poz. 1494, z 2006 r. Nr 170, poz. 1217 i Nr 249, poz. 1834, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 91, poz. 740.
 

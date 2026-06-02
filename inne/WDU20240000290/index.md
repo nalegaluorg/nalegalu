@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-23 |
 | Data wydania | 2024-03-01 |
-| Wejście w życie | 2024-03-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000290) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/290/text.pdf) |
 
@@ -72,8 +71,7 @@ wdrożenia lub uruchomienia właściwego środka reagowania kryzysowego NATO,
 3)
 wystąpienia katastrofy naturalnej, awarii technicznej lub działań terrorystycznych, mogących spowodować lub powodujących wystąpienie skażeń chemicznych, biologicznych lub promieniotwórczych na obszarze więcej niż jednego województwa i zagrażających życiu lub zdrowiu osób,
 4)
-prowadzenia treningów i ćwiczeń, o których mowa w § 10
-Minister Obrony Narodowej może uruchomić krajowy system wykrywania skażeń i alarmowania, zwany dalej „KSWSiA”.
+prowadzenia treningów i ćwiczeń, o których mowa w § 10 – Minister Obrony Narodowej może uruchomić krajowy system wykrywania skażeń i alarmowania, zwany dalej „KSWSiA”.
 2.
 Minister Obrony Narodowej, samodzielnie lub na uzasadniony wniosek organu lub jednostki organizacyjnej wymienionej w § 4 ust. 1 pkt 2, uruchamia KSWSiA, określając każdorazowo, stosownie do zagrożenia, zakres terytorialny i podmiotowy uruchomienia KSWSiA.
 3.
@@ -177,7 +175,18 @@ Minister Obrony Narodowej z ministrami właściwymi do spraw: wewnętrznych, zdr
 2.
 Koszty przygotowania i przeprowadzania treningów i ćwiczeń są pokrywane z budżetu państwa z części, których dysponentami są podmioty wymienione w ust. 1.
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 7 stycznia 2013 r. w sprawie systemów wykrywania skażeń i powiadamiania o ich wystąpieniu oraz właściwości organów w tych sprawach (Dz. U. poz. 96), które utraciło moc z dniem 24 października 2023 r. zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 7 stycznia 2013 r. w sprawie systemów wykrywania skażeń i powiadamiania o ich wystąpieniu oraz właściwości organów w tych sprawach (Dz. U. poz. 96), które utraciło moc z dniem 24 października 2023 r. zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248).
 Załącznik – Sygnały alarmowe i komunikaty ostrzegawcze obowiązujące na terytorium Rzeczypospolitej Polskiej
-SYGNAŁY ALARMOWE Lp. Czynności Sposób ogłoszenia alarmów akustyczny system alarmowy środki masowego przekazu wizualny sygnał alarmowy 1 Ogłoszenie alarmu Sygnał akustyczny -modulowany dźwięk syreny w okresie trzech minut Powtarzana trzykrotnie zapowiedź słowna:Uwaga! Uwaga! Uwaga! Ogłaszam alarm (podać przyczynę, rodzaj alarmu itp.)...................... dla...................... Znak koloru żółtego w kształcie trójkątalub, w uzasadnionych przypadkach, innej figury geometrycznej 2 Odwołanie alarmu Sygnał akustyczny – ciągły dźwięk syreny w okresie trzech minut Powtarzana trzykrotnie zapowiedź słowna:Uwaga! Uwaga! Uwaga! Odwołuję alarm (podać przyczynę, rodzaj alarmu itp.)...................... dla...................... KOMUNIKATY OSTRZEGAWCZE Lp. Rodzaj komunikatu Sposób ogłoszenia komunikatu Sposób odwołania komunikatu akustyczny system alarmowy środki masowego przekazu akustyczny system alarmowy środki masowego przekazu 1 Uprzedzenie o zagrożeniu skażeniami Powtarzana trzykrotnie zapowiedź słowna:Uwaga! Uwaga! Osoby znajdujące się na terenie.......................... około godz................ min........................... może nastąpić skażenie........................................................ (podać rodzaj skażenia) w kierunku............................................................... (podać kierunek) Powtarzana trzykrotnie zapowiedź słowna:Uwaga! Uwaga! Odwołuję uprzedzenie o zagrożeniu.......................... (podać rodzaj skażenia) dla................................................................... 2 Uprzedzenie o klęskach żywiołowych i zagrożeniu środowiska Powtarzana trzykrotnie zapowiedź słowna:Informacja o zagrożeniu i sposobie postępowania mieszkańców.................................. (podać rodzaj zagrożenia, spodziewany czas wystąpienia i wytyczne dla mieszkańców) Powtarzana trzykrotnie zapowiedź słowna:Uwaga! Uwaga! Odwołuję uprzedzenie o zagrożeniu.............................. (podać rodzaj klęski) dla...........................
+SYGNAŁY ALARMOWE
+Lp. Czynności Sposób ogłoszenia alarmów akustyczny system alarmowy środki masowego przekazu wizualny sygnał alarmowy 1 Ogłoszenie alarmu Sygnał akustyczny -modulowany dźwięk syreny w okresie trzech minut Powtarzana trzykrotnie zapowiedź słowna:
+Uwaga! Uwaga! Uwaga! Ogłaszam alarm (podać przyczynę, rodzaj alarmu itp.)...................... dla...................... Znak koloru żółtego w kształcie trójkąta
+lub,
+w uzasadnionych przypadkach, innej figury geometrycznej 2 Odwołanie alarmu Sygnał akustyczny – ciągły dźwięk syreny w okresie trzech minut Powtarzana trzykrotnie zapowiedź słowna:
+Uwaga! Uwaga! Uwaga! Odwołuję alarm (podać przyczynę, rodzaj alarmu itp.)...................... dla......................
+KOMUNIKATY OSTRZEGAWCZE
+Lp. Rodzaj komunikatu Sposób ogłoszenia komunikatu Sposób odwołania komunikatu akustyczny system alarmowy środki masowego przekazu akustyczny system alarmowy środki masowego przekazu 1 Uprzedzenie o zagrożeniu skażeniami Powtarzana trzykrotnie zapowiedź słowna:
+Uwaga! Uwaga! Osoby znajdujące się na terenie.......................... około godz................ min........................... może nastąpić skażenie........................................................ (podać rodzaj skażenia) w kierunku............................................................... (podać kierunek) Powtarzana trzykrotnie zapowiedź słowna:
+Uwaga! Uwaga! Odwołuję uprzedzenie o zagrożeniu.......................... (podać rodzaj skażenia) dla................................................................... 2 Uprzedzenie o klęskach żywiołowych i zagrożeniu środowiska Powtarzana trzykrotnie zapowiedź słowna:
+Informacja o zagrożeniu i sposobie postępowania mieszkańców.................................. (podać rodzaj zagrożenia, spodziewany czas wystąpienia i wytyczne dla mieszkańców) Powtarzana trzykrotnie zapowiedź słowna:
+Uwaga! Uwaga! Odwołuję uprzedzenie o zagrożeniu.............................. (podać rodzaj klęski) dla...........................
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 11 maja 2021 r. w sprawie sposobu uwierzytelniania korzystającego z dróg publicznych w celu dokonania rejestracji w rejestrze uiszczających opłatę elektroniczną
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 11 maja 2021 r. w sprawie sposobu uwierzytelniania korzystającego z dróg publicznych w celu dokonania rejestracji w rejestrze uiszczających opłatę elektroniczną Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-11 |
 | Data wydania | 2021-05-14 |
-| Wejście w życie | 2021-05-22 |
 | Ostatnia zmiana | 2025-09-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000901) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/901/text.pdf) |
 
@@ -37,6 +36,5 @@ certyfikatu, o którym mowa w art. 19e ust. 2a ustawy z dnia 17 lutego 2005 r. o
 3)
 unikatowego identyfikatora i hasła określonych przez osobę fizyczną korzystającą z Systemu Poboru Opłaty Elektronicznej KAS, o którym mowa w art. 13hb ust. 1bb ustawy z dnia 21 marca 1985 r. o drogach publicznych.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 

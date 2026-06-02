@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 31 grudnia 2021 r. w sprawie programu pilotażowego w zakresie wykorzystania elektronicznych spirometrów w podstawowej opiece zdrowotnej i ambulatoryjnej opiece specjalistycznej
+# Rozporządzenie Ministra Zdrowiaz dnia 31 grudnia 2021 r. w sprawie programu pilotażowego w zakresie wykorzystania elektronicznych spirometrów w podstawowej opiece zdrowotnej i ambulatoryjnej opiece specjalistycznej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-31 |
 | Data wydania | 2022-01-18 |
-| Wejście w życie | 2022-01-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000121) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/121/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa program pilotażowy w zakresie wykorzystania spirometrów w podstawowej opiece zdrowotnej i ambulatoryjnej opiece specjalistycznej, zwany dalej „programem pilotażowym”.
 § 2.
@@ -120,7 +119,7 @@ Program pilotażowy jest realizowany zgodnie z warunkami organizacji i realizacj
 1)
 rozporządzeniu Ministra Zdrowia z dnia 24 września 2013 r. w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej (Dz. U. z 2021 r. poz. 540) i rozporządzeniu Ministra Zdrowia z dnia 12 sierpnia 2020 r. w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 1395 oraz z 2021 r. poz. 95, 231 i 427) – w zakresie świadczeń podstawowej opieki zdrowotnej;
 2)
-rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357, z późn. zm.) – w zakresie świadczeń ambulatoryjnej opieki specjalistycznej.
+rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357, z późn. zm.Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 2164, z 2017 r. poz. 1244, 1766 i 2423, z 2018 r. poz. 657, z 2019 r. poz. 397, 1060 i 1864, z 2020 r. poz. 612 oraz z 2021 r. poz. 543 i 727.) – w zakresie świadczeń ambulatoryjnej opieki specjalistycznej.
 2.
 Sposób realizacji programu pilotażowego obejmuje wykonanie następujących czynności:
 1)
@@ -193,6 +192,5 @@ Minister przekazuje środki realizatorowi w terminie 30 dni od dnia otrzymania p
 § 15.
 Podmiotem obowiązanym do wdrożenia, monitorowania i ewaluacji programu pilotażowego jest minister.
 § 16.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64. 3) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 2164, z 2017 r. poz. 1244, 1766 i 2423, z 2018 r. poz. 657, z 2019 r. poz. 397, 1060 i 1864, z 2020 r. poz. 612 oraz z 2021 r. poz. 543 i 727.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64. 3) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 2164, z 2017 r. poz. 1244, 1766 i 2423, z 2018 r. poz. 657, z 2019 r. poz. 397, 1060 i 1864, z 2020 r. poz. 612 oraz z 2021 r. poz. 543 i 727.
 

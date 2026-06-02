@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Energiiz dnia 6 września 2019 r. w sprawie metodyki rozstrzygania naboru na premię kogeneracyjną indywidualną oraz wartości współczynników uwzględnianych przy naborze
+# Rozporządzenie Ministra Energiiz dnia 6 września 2019 r. w sprawie metodyki rozstrzygania naboru na premię kogeneracyjną indywidualną oraz wartości współczynników uwzględnianych przy naborze Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-06 |
 | Data wydania | 2019-09-16 |
-| Wejście w życie | 2019-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001764) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1764/text.pdf) |
 
@@ -64,6 +63,5 @@ Wartość współczynnika przypisanego parametrowi, o którym mowa w art. 49 ust
 2.
 W przypadku nowej lub znacznie zmodernizowanej jednostki, w której do wytworzenia energii elektrycznej i ciepła zużywa się więcej niż jeden rodzaj paliwa, wartość współczynnika przypisanego parametrowi, o którym mowa w art. 49 ust. 2 pkt 3 ustawy, jest sumą jednostkowych współczynników obliczonych dla poszczególnych paliw jako iloczyn wartości wskazanej w ust. 1 dla danego paliwa oraz udziału energii chemicznej tego paliwa w łącznej ilości energii chemicznej paliw zużywanych do wytwarzania energii elektrycznej i ciepła w tej jednostce.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
 

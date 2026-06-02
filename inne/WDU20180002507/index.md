@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-21 |
 | Data wydania | 2018-12-31 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002507) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2507/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 8 grudnia 2017 r. o Sądzie Najwyższym (Dz. U. z 2018 r. poz. 5, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 8 grudnia 2017 r. o Sądzie Najwyższym (Dz. U. z 2018 r. poz. 5, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 771, 847, 848, 1045 i 1443.) wprowadza się następujące zmiany:
 
 - **1)** w art. 14 w § 1 uchyla się pkt 4;
 - **2)** w art. 20 w pkt 1 wyrazy „art. 14 § 1 pkt 1, 4 i 7” zastępuje się wyrazami „art. 14 § 1 pkt 1 i 7”;
@@ -86,5 +85,5 @@ source: "eli-html"
 
 3. Sędzia Sądu Najwyższego, któremu Prezydent Rzeczypospolitej Polskiej powierzył kierowanie izbą na podstawie art. 111 § 4 ustawy zmienianej w art. 1 oraz sędzia Sądu Najwyższego, o którym mowa w art. 130 ustawy zmienianej w art. 1, niezwłocznie przedstawiają Prezydentowi Rzeczypospolitej Polskiej kandydatów, o których mowa w art. 15 § 2 ustawy zmienionej w art. 1. Przepisu art. 14 § 1 pkt 3 ustawy zmienianej w art. 1 nie stosuje się.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 771, 847, 848, 1045 i 1443.
 

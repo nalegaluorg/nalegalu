@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 19 sierpnia 2019 r. w sprawie ramowych procedur obsługi zgłoszeń alarmowych i powiadomień o zdarzeniach przez dyspozytora medycznego
+# Rozporządzenie Ministra Zdrowiaz dnia 19 sierpnia 2019 r. w sprawie ramowych procedur obsługi zgłoszeń alarmowych i powiadomień o zdarzeniach przez dyspozytora medycznego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-19 |
 | Data wydania | 2019-09-05 |
-| Wejście w życie | 2019-09-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001703) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1703/text.pdf) |
 
@@ -171,8 +170,7 @@ dokładny adres lub lokalizację miejsca zdarzenia,
 2)
 powód wezwania,
 3)
-wiek poszkodowanego, jeżeli ustalono
-nie powinien być dłuższy niż 120 sekund, po którym powinno nastąpić przekazanie zlecenia wyjazdu do zdarzenia do realizacji właściwemu zespołowi ratownictwa medycznego, a następnie uzupełnienie pozostałych danych, o których mowa w § 3.
+wiek poszkodowanego, jeżeli ustalono – nie powinien być dłuższy niż 120 sekund, po którym powinno nastąpić przekazanie zlecenia wyjazdu do zdarzenia do realizacji właściwemu zespołowi ratownictwa medycznego, a następnie uzupełnienie pozostałych danych, o których mowa w § 3.
 § 6.
 1.
 W przypadku podjęcia decyzji o odmowie przyjęcia zgłoszenia dyspozytor przyjmujący:
@@ -209,8 +207,7 @@ liczbę osób, wobec których podejrzewa się stan nagłego zagrożenia zdrowotn
 4)
 najkrótszy możliwy czas dotarcia zespołu ratownictwa medycznego na miejsce zdarzenia,
 5)
-najkrótszy czas transportu osoby będącej w stanie nagłego zagrożenia zdrowotnego z miejsca zdarzenia do właściwego podmiotu leczniczego
-decyduje o rodzaju i liczbie zespołów ratownictwa medycznego do zadysponowania.
+najkrótszy czas transportu osoby będącej w stanie nagłego zagrożenia zdrowotnego z miejsca zdarzenia do właściwego podmiotu leczniczego – decyduje o rodzaju i liczbie zespołów ratownictwa medycznego do zadysponowania.
 2.
 Przyjmuje się następujące zasady obsługi zgłoszeń w zależności od nadanego im kodu pilności:
 1)
@@ -303,6 +300,5 @@ Do dnia 31 grudnia 2019 r. zadania głównego dyspozytora medycznego są realizo
 § 15.
 Do dnia 31 grudnia 2020 r. dyspozytor przyjmujący w przypadku otrzymania elektronicznego formularza obsługi zgłoszenia bez połączenia głosowego obejmującego zgłoszenie z centrum powiadamiania ratunkowego dotyczącego zgłoszenia w formie krótkiej wiadomości tekstowej (sms), o którym mowa w art. 20 ust. 1 pkt 2 lit. b ustawy o systemie powiadamiania ratunkowego, uznaje zgłoszenie za zasadne i je przyjmuje.
 § 16.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 3 ust. 6, który wchodzi w życie z dniem 1 stycznia 2021 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 10 stycznia 2014 r. w sprawie ramowych procedur przyjmowania wezwań przez dyspozytora medycznego i dysponowania zespołami ratownictwa medycznego (Dz. U. poz. 66), które utraciło moc z dniem 1 stycznia 2019 r. zgodnie z art. 25 pkt 2 ustawy z dnia 10 maja 2018 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 1115, 1942 i 2130).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 3 ust. 6, który wchodzi w życie z dniem 1 stycznia 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 10 stycznia 2014 r. w sprawie ramowych procedur przyjmowania wezwań przez dyspozytora medycznego i dysponowania zespołami ratownictwa medycznego (Dz. U. poz. 66), które utraciło moc z dniem 1 stycznia 2019 r. zgodnie z art. 25 pkt 2 ustawy z dnia 10 maja 2018 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 1115, 1942 i 2130). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 10 stycznia 2014 r. w sprawie ramowych procedur przyjmowania wezwań przez dyspozytora medycznego i dysponowania zespołami ratownictwa medycznego (Dz. U. poz. 66), które utraciło moc z dniem 1 stycznia 2019 r. zgodnie z art. 25 pkt 2 ustawy z dnia 10 maja 2018 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 1115, 1942 i 2130).
 

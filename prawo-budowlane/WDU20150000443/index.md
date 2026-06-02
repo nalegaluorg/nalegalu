@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 lutego 2015 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw
+# Ustawa z dnia 20 lutego 2015 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej i ustawę z dnia 8 grudnia 2006 r. o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-02-20 |
 | Data wydania | 2015-03-27 |
-| Wejście w życie | 2015-06-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000443) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/443/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151 i 200.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3: pkt 1 otrzymuje brzmienie: „
     - **a)**
@@ -59,17 +58,53 @@ source: "eli-html"
 
 - **b)**
 
-4. Przepisów ust. 2 i 3 nie stosuje się w postępowaniu w sprawie pozwolenia na budowę wymagającym udziału społeczeństwa zgodnie z przepisami ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.). ” ;
+4. Przepisów ust. 2 i 3 nie stosuje się w postępowaniu w sprawie pozwolenia na budowę wymagającym udziału społeczeństwa zgodnie z przepisami ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200 i 277.). ” ;
 
-- **7)** w art. 29: w ust. 1: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) wolno stojących budynków mieszkalnych jednorodzinnych, których obszar oddziaływania mieści się w całości na działce lub działkach, na których zostały zaprojektowane; ” , – pkt 2 otrzymuje brzmienie: „ 2) wolno stojących parterowych budynków gospodarczych w tym garaży, altan oraz przydomowych ganków i oranżerii (ogrodów zimowych) o powierzchni zabudowy do 35 m2, przy czym łączna liczba tych obiektów na działce nie może przekraczać dwóch na każde 500 m2 powierzchni działki; ” , – po pkt 2 dodaje się pkt 2a-2c wbrzmieniu: „ 2a) wolno stojących parterowych budynków rekreacji indywidualnej, rozumianych jako budynki przeznaczone do okresowego wypoczynku, o powierzchni zabudowy do 35 m2, przy czym liczba tych obiektów na działce nie może przekraczać jednego na każde 500 m2 powierzchni działki; 2b) wolno stojących parterowych budynków stacji transformatorowych i kontenerowych stacji transformatorowych o powierzchni zabudowy do 35 m2; 2c) wiat o powierzchni zabudowy do 50 m2, sytuowanych na działce, na której znajduje się budynek mieszkalny lub przeznaczonej pod budownictwo mieszkaniowe, przy czym łączna liczba tych wiat na działce nie może przekraczać dwóch na każde 1000 m2 powierzchni działki; ” , – pkt 3 otrzymuje brzmienie: „ 3) przydomowych oczyszczalni ścieków o wydajności do 7,50 m3 na dobę; ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) zbiorników bezodpływowych na nieczystości ciekłe o pojemności do 10 m3; ” , – pkt 6 otrzymuje brzmienie: „ 6) parterowych budynków o powierzchni zabudowy do 35 m2, służących jako zaplecze do bieżącego utrzymania linii kolejowych, położonych na terenach stanowiących własność Skarbu Państwa; ” , – pkt 11 otrzymuje brzmienie: „ 11) zjazdów z dróg wojewódzkich, powiatowych i gminnych oraz zatok parkingowych na tych drogach; ” , – pkt 15 otrzymuje brzmienie: „ 15) przydomowych basenów i oczek wodnych o powierzchni do 50 m2; ” , – po pkt 19 dodaje się pkt 19a w brzmieniu: „ 19a) sieci: a) elektroenergetycznych obejmujących napięcie znamionowe nie wyższe niż 1 kV, b) wodociągowych, c) kanalizacyjnych, d) cieplnych, e) telekomunikacyjnych; ” , – pkt 27 otrzymuje brzmienie: „ 27) instalacji elektroenergetycznych, wodociągowych, kanalizacyjnych, cieplnych i telekomunikacyjnych wewnątrz budynku; ” , – w pkt 28 kropkę zastępuje się średnikiem i dodaje się pkt 29 w brzmieniu: „ 29) poligonowych obiektów budowlanych, w szczególności: stanowisk obronnych, przepraw, budowli ziemnych, budowli fortyfikacyjnych, instalacji tymczasowych oraz obiektów kontenerowych, lokalizowanych na terenach zamkniętych wyznaczonych przez Ministra Obrony Narodowej do prowadzenia ćwiczeń wojskowych z wykorzystaniem obozowisk polowych oraz umocnień terenu do pozoracji bezpośredniego prowadzenia walki. ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) remoncie obiektów budowlanych; ” , – po pkt 1 dodaje się pkt 1a-1c w brzmieniu: „ 1a) przebudowie obiektów, o których mowa w ust. 1; 1b) przebudowie budynków mieszkalnych jednorodzinnych, o ile nie prowadzi do zwiększenia dotychczasowego obszaru oddziaływania tych budynków; 1c) remoncie lub przebudowie urządzeń budowlanych; ” , – pkt 4 otrzymuje brzmienie: „ 4) dociepleniu budynków o wysokości do 25 m; ” , – pkt 9–11 otrzymują brzmienie: „ 9) wykonywaniu i przebudowie urządzeń melioracji wodnych szczegółowych; 10) wykonywaniu obudowy ujęć wód podziemnych; 11) przebudowie sieci gazowych oraz elektroenergetycznych innych niż wymienione w ust. 1 pkt 19a lit. a; ” , – uchyla się pkt 13 i 17, dodaje się ust. 4 w brzmieniu: „
+- **7)** w art. 29: w ust. 1: po pkt 1 dodaje się pkt 1a w brzmieniu: „
+    - **a)**
+
+- **1a)** wolno stojących budynków mieszkalnych jednorodzinnych, których obszar oddziaływania mieści się w całości na działce lub działkach, na których zostały zaprojektowane; ” , pkt 2 otrzymuje brzmienie: „
+- **2)** wolno stojących parterowych budynków gospodarczych w tym garaży, altan oraz przydomowych ganków i oranżerii (ogrodów zimowych) o powierzchni zabudowy do 35 m2, przy czym łączna liczba tych obiektów na działce nie może przekraczać dwóch na każde 500 m2 powierzchni działki; ” , po pkt 2 dodaje się pkt 2a-2c wbrzmieniu: „
+- **2a)** wolno stojących parterowych budynków rekreacji indywidualnej, rozumianych jako budynki przeznaczone do okresowego wypoczynku, o powierzchni zabudowy do 35 m2, przy czym liczba tych obiektów na działce nie może przekraczać jednego na każde 500 m2 powierzchni działki;
+- **2b)** wolno stojących parterowych budynków stacji transformatorowych i kontenerowych stacji transformatorowych o powierzchni zabudowy do 35 m2;
+- **2c)** wiat o powierzchni zabudowy do 50 m2, sytuowanych na działce, na której znajduje się budynek mieszkalny lub przeznaczonej pod budownictwo mieszkaniowe, przy czym łączna liczba tych wiat na działce nie może przekraczać dwóch na każde 1000 m2 powierzchni działki; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** przydomowych oczyszczalni ścieków o wydajności do 7,50 m3 na dobę; ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** zbiorników bezodpływowych na nieczystości ciekłe o pojemności do 10 m3; ” , pkt 6 otrzymuje brzmienie: „
+- **6)** parterowych budynków o powierzchni zabudowy do 35 m2, służących jako zaplecze do bieżącego utrzymania linii kolejowych, położonych na terenach stanowiących własność Skarbu Państwa; ” , pkt 11 otrzymuje brzmienie: „
+- **11)** zjazdów z dróg wojewódzkich, powiatowych i gminnych oraz zatok parkingowych na tych drogach; ” , pkt 15 otrzymuje brzmienie: „
+- **15)** przydomowych basenów i oczek wodnych o powierzchni do 50 m2; ” , po pkt 19 dodaje się pkt 19a w brzmieniu: „
+- **19a)** sieci: elektroenergetycznych obejmujących napięcie znamionowe nie wyższe niż 1 kV, wodociągowych, kanalizacyjnych, cieplnych, telekomunikacyjnych; ” , pkt 27 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **27)** instalacji elektroenergetycznych, wodociągowych, kanalizacyjnych, cieplnych i telekomunikacyjnych wewnątrz budynku; ” , w pkt 28 kropkę zastępuje się średnikiem i dodaje się pkt 29 w brzmieniu: „
+- **29)** poligonowych obiektów budowlanych, w szczególności: stanowisk obronnych, przepraw, budowli ziemnych, budowli fortyfikacyjnych, instalacji tymczasowych oraz obiektów kontenerowych, lokalizowanych na terenach zamkniętych wyznaczonych przez Ministra Obrony Narodowej do prowadzenia ćwiczeń wojskowych z wykorzystaniem obozowisk polowych oraz umocnień terenu do pozoracji bezpośredniego prowadzenia walki. ” , w ust. 2: pkt 1 otrzymuje brzmienie: „
+    - **b)**
+
+- **1)** remoncie obiektów budowlanych; ” , po pkt 1 dodaje się pkt 1a-1c w brzmieniu: „
+- **1a)** przebudowie obiektów, o których mowa w ust. 1;
+- **1b)** przebudowie budynków mieszkalnych jednorodzinnych, o ile nie prowadzi do zwiększenia dotychczasowego obszaru oddziaływania tych budynków;
+- **1c)** remoncie lub przebudowie urządzeń budowlanych; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** dociepleniu budynków o wysokości do 25 m; ” , pkt 9–11 otrzymują brzmienie: „
+- **9)** wykonywaniu i przebudowie urządzeń melioracji wodnych szczegółowych;
+- **10)** wykonywaniu obudowy ujęć wód podziemnych;
+- **11)** przebudowie sieci gazowych oraz elektroenergetycznych innych niż wymienione w ust. 1 pkt 19a lit. a; ” , – uchyla się pkt 13 i 17, dodaje się ust. 4 w brzmieniu: „
     - **c)**
 
 4. Pozwolenia na budowę wymagają roboty budowlane wykonywane przy obiekcie budowlanym wpisanym do rejestru zabytków lub na obszarze wpisanym do rejestru zabytków. ” ;
 
-- **8)** w art. 30: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zgłoszenia właściwemu organowi wymaga, z zastrzeżeniem art. 29 ust. 3 i 4: ” , – pkt 1 otrzymuje brzmienie: „ 1) budowa, o której mowa w art. 29 ust. 1 pkt 1–2b, 3, 3a, 9, 11, 12, 14–17, 19, 19a, 20b oraz 28; ” , – po pkt 1a dodaje się pkt 1b w brzmieniu: „ 1b) budowa obiektów, o których mowa w art. 29 ust. 1 pkt 6, 10 i 13, sytuowanych na obszarze Natura 2000; ” , – pkt 2 otrzymuje brzmienie: „ 2) wykonywanie robót budowlanych, o których mowa w art. 29 ust. 2 pkt 1b, 6, 9 oraz 11–12a; ” , – po pkt 2 dodaje się pkt 2a-2c w brzmieniu: „ 2a) wykonywanie remontu, o którym mowa w art. 29 ust. 2 pkt 1, z wyjątkiem remontu obiektów budowlanych, których budowa nie wymaga uzyskania pozwolenia na budowę; 2b) wykonywanie przebudowy obiektów, o których mowa w art. 29 ust. 1 pkt 1–2b, 3, 3a, 11, 12, 14–17, 19, 19a, 20b i 28 oraz przebudowy, o której mowa w art. 29 ust. 2 pkt 11 i 12; 2c) docieplenie budynków o wysokości powyżej 12 m i nie wyższych niż 25 m; ” , – w pkt 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ budowa ogrodzeń o wysokości powyżej 2,20 m i wykonywanie robót budowlanych polegających na instalowaniu: ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **8)** w art. 30: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zgłoszenia właściwemu organowi wymaga, z zastrzeżeniem art. 29 ust. 3 i 4: ” , pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** budowa, o której mowa w art. 29 ust. 1 pkt 1–2b, 3, 3a, 9, 11, 12, 14–17, 19, 19a, 20b oraz 28; ” , po pkt 1a dodaje się pkt 1b w brzmieniu: „
+- **1b)** budowa obiektów, o których mowa w art. 29 ust. 1 pkt 6, 10 i 13, sytuowanych na obszarze Natura 2000; ” , pkt 2 otrzymuje brzmienie: „
+- **2)** wykonywanie robót budowlanych, o których mowa w art. 29 ust. 2 pkt 1b, 6, 9 oraz 11–12a; ” , po pkt 2 dodaje się pkt 2a-2c w brzmieniu: „
+- **2a)** wykonywanie remontu, o którym mowa w art. 29 ust. 2 pkt 1, z wyjątkiem remontu obiektów budowlanych, których budowa nie wymaga uzyskania pozwolenia na budowę;
+- **2b)** wykonywanie przebudowy obiektów, o których mowa w art. 29 ust. 1 pkt 1–2b, 3, 3a, 11, 12, 14–17, 19, 19a, 20b i 28 oraz przebudowy, o której mowa w art. 29 ust. 2 pkt 11 i 12;
+- **2c)** docieplenie budynków o wysokości powyżej 12 m i nie wyższych niż 25 m; ” , – w pkt 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ budowa ogrodzeń o wysokości powyżej 2,20 m i wykonywanie robót budowlanych polegających na instalowaniu: ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Inwestor zamiast dokonania zgłoszenia dotyczącego robót budowlanych, o których mowa w ust. 1, może wystąpić z wnioskiem o wydanie decyzji o pozwoleniu na budowę. ” , w ust. 2 uchyla się zdanie trzecie, po ust. 4a dodaje się ust. 4b i 4c w brzmieniu: „
@@ -130,8 +165,11 @@ source: "eli-html"
 
 6. W przypadku wezwania do usunięcia braków innych niż braki, o których mowa w art. 35 ust. 1, stosuje się art. 64 § 2 Kodeksu postępowania administracyjnego, z tym że wezwanie wnoszącego do usunięcia braków nie powinno nastąpić później niż po upływie 14 dni od dnia wpływu wniosku. ” ;
 
-- **12)** w art. 34: w ust. 3: – pkt 3 otrzymuje brzmienie: „ 3) stosownie do potrzeb – w przypadku drogi krajowej lub wojewódzkiej, oświadczenie właściwego zarządcy drogi o możliwości połączenia działki z drogą, zgodnie z przepisami o drogach publicznych; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) informację o obszarze oddziaływania obiektu. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+- **12)** w art. 34: w ust. 3: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** stosownie do potrzeb – w przypadku drogi krajowej lub wojewódzkiej, oświadczenie właściwego zarządcy drogi o możliwości połączenia działki z drogą, zgodnie z przepisami o drogach publicznych; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+- **5)** informację o obszarze oddziaływania obiektu. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
     - **b)**
 
 4a. Zatwierdzeniu podlegają cztery egzemplarze projektu budowlanego, z których dwa egzemplarze przeznaczone są dla inwestora, jeden egzemplarz dla organu zatwierdzającego projekt oraz jeden egzemplarz dla właściwego organu nadzoru budowlanego. ” ;
@@ -148,7 +186,7 @@ source: "eli-html"
 2. W przypadku:
 
 - **1)** określonym w ust. 1 albo
-- **2)** stwierdzenia nieważności albo uchylenia decyzji o pozwoleniu na budowę rozpoczęcie albo wznowienie budowy może nastąpić po wydaniu decyzji o pozwoleniu na budowę, o której mowa w art. 28 ust. 1. ” , dodaje się ust. 3 w brzmieniu: „
+- **2)** stwierdzenia nieważności albo uchylenia decyzji o pozwoleniu na budowę – rozpoczęcie albo wznowienie budowy może nastąpić po wydaniu decyzji o pozwoleniu na budowę, o której mowa w art. 28 ust. 1. ” , dodaje się ust. 3 w brzmieniu: „
     - **b)**
 
 3. W przypadku, o którym mowa w art. 36a ust. 2, wznowienie budowy może nastąpić po wydaniu decyzji o pozwoleniu na wznowienie robót budowlanych, o której mowa w art. 51 ust. 4. ” ;
@@ -185,7 +223,7 @@ source: "eli-html"
 
 - **1)** kierownika budowy lub kierownika robót,
 - **2)** inspektora nadzoru inwestorskiego,
-- **3)** projektanta sprawującego nadzór autorski inwestor dołącza do dokumentacji budowy oświadczenia o przejęciu obowiązków przez osoby wymienione w pkt 1–3. ” ;
+- **3)** projektanta sprawującego nadzór autorski – inwestor dołącza do dokumentacji budowy oświadczenia o przejęciu obowiązków przez osoby wymienione w pkt 1–3. ” ;
 - **22)** w art. 48: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -202,8 +240,10 @@ source: "eli-html"
 
 3. W przypadku stwierdzenia naruszeń, w zakresie określonym w ust. 1, właściwy organ nakłada postanowieniem obowiązek usunięcia wskazanych nieprawidłowości, w określonym terminie, a po jego bezskutecznym upływie wydaje decyzję, o której mowa w art. 48 ust. 1. Decyzję tę wydaje się również w przypadku nieuiszczenia w terminie opłaty legalizacyjnej, z zastrzeżeniem art. 49c ust. 2. ” ;
 
-- **24)** w art. 49b: w ust. 2: – zdanie wstępne otrzymuje brzmienie: „ Jeżeli budowa, o której mowa w ust. 1, jest zgodna z przepisami o planowaniu i zagospodarowaniu przestrzennym, a w szczególności ustaleniami obowiązującego miejscowego planu zagospodarowania przestrzennego albo, w przypadku jego braku, decyzji o warunkach zabudowy i zagospodarowania terenu oraz nie narusza przepisów, w tym techniczno-budowlanych, właściwy organ wstrzymuje postanowieniem – gdy budowa nie została zakończona – prowadzenie robót budowlanych oraz nakłada na inwestora obowiązek przedłożenia w terminie 30 dni: ” , – pkt 3 otrzymuje brzmienie: „ 3) zaświadczenia wójta, burmistrza albo prezydenta miasta o zgodności budowy z ustaleniami obowiązującego miejscowego planu zagospodarowania przestrzennego albo decyzji o warunkach zabudowy i zagospodarowania terenu, w przypadku braku obowiązującego planu zagospodarowania przestrzennego. ” , w ust. 5 pkt 1 i 2 otrzymują brzmienie: „
+- **24)** w art. 49b: w ust. 2: – zdanie wstępne otrzymuje brzmienie: „ Jeżeli budowa, o której mowa w ust. 1, jest zgodna z przepisami o planowaniu i zagospodarowaniu przestrzennym, a w szczególności ustaleniami obowiązującego miejscowego planu zagospodarowania przestrzennego albo, w przypadku jego braku, decyzji o warunkach zabudowy i zagospodarowania terenu oraz nie narusza przepisów, w tym techniczno-budowlanych, właściwy organ wstrzymuje postanowieniem – gdy budowa nie została zakończona – prowadzenie robót budowlanych oraz nakłada na inwestora obowiązek przedłożenia w terminie 30 dni: ” , pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** zaświadczenia wójta, burmistrza albo prezydenta miasta o zgodności budowy z ustaleniami obowiązującego miejscowego planu zagospodarowania przestrzennego albo decyzji o warunkach zabudowy i zagospodarowania terenu, w przypadku braku obowiązującego planu zagospodarowania przestrzennego. ” , w ust. 5 pkt 1 i 2 otrzymują brzmienie: „
     - **b)**
 
 - **1)** art. 29 ust. 1 pkt 9–11, 14, 15, 17 oraz w art. 30 ust. 1 pkt 3 i 4 – wynosi 2500 zł;
@@ -216,7 +256,7 @@ source: "eli-html"
 
 **Art. 49c.**
 
-1. Do opłat legalizacyjnych, o których mowa w art. 49 ust. 1 i art. 49b ust. 4, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.), z tym że uprawnienia organu podatkowego przysługują wojewodzie.
+1. Do opłat legalizacyjnych, o których mowa w art. 49 ust. 1 i art. 49b ust. 4, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289, z 2014 r. poz. 183, 567, 915, 1171, 1215, 1328 i 1644 oraz z 2015 r. poz. 211 i 251.), z tym że uprawnienia organu podatkowego przysługują wojewodzie.
 
 2. Złożenie wniosku, o którym mowa w art. 67a § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, powoduje zawieszenie postępowania administracyjnego prowadzonego na podstawie art. 48, art. 49 i art. 49b do dnia rozstrzygnięcia wniosku. ” ;
 
@@ -234,7 +274,7 @@ source: "eli-html"
 
 1. Przed przystąpieniem do użytkowania obiektu budowlanego należy uzyskać decyzję o pozwoleniu na użytkowanie, jeżeli:
 
-- **1)** na budowę obiektu budowlanego jest wymagane pozwolenie na budowę i jest on zaliczony do kategorii: V, IX-XVI, XVII – z wyjątkiem warsztatów rzemieślniczych, stacji obsługi pojazdów, myjni samochodowych i garaży do pięciu stanowisk włącznie, XVIII – z wyjątkiem obiektów magazynowych: budynki składowe, chłodnie, hangary i wiaty, a także budynków kolejowych: nastawnie, podstacje trakcyjne, lokomotywownie, wagonownie, strażnice przejazdowe i myjnie taboru kolejowego, XX, XXII – z wyjątkiem placów składowych, postojowych i parkingów, XXIV – z wyjątkiem stawów rybnych, XXVII – z wyjątkiem jazów, wałów przeciwpowodziowych, opasek i ostróg brzegowych oraz rowów melioracyjnych, XXVIII-XXX o których mowa w załączniku do ustawy;
+- **1)** na budowę obiektu budowlanego jest wymagane pozwolenie na budowę i jest on zaliczony do kategorii: V, IX-XVI, XVII – z wyjątkiem warsztatów rzemieślniczych, stacji obsługi pojazdów, myjni samochodowych i garaży do pięciu stanowisk włącznie, XVIII – z wyjątkiem obiektów magazynowych: budynki składowe, chłodnie, hangary i wiaty, a także budynków kolejowych: nastawnie, podstacje trakcyjne, lokomotywownie, wagonownie, strażnice przejazdowe i myjnie taboru kolejowego, XX, XXII – z wyjątkiem placów składowych, postojowych i parkingów, XXIV – z wyjątkiem stawów rybnych, XXVII – z wyjątkiem jazów, wałów przeciwpowodziowych, opasek i ostróg brzegowych oraz rowów melioracyjnych, XXVIII-XXX – o których mowa w załączniku do ustawy;
     - **a)**
     - **b)**
     - **c)**
@@ -253,8 +293,11 @@ source: "eli-html"
 
 1a. Przepisy ust. 1 stosuje się również w przypadku, gdy projekt budowlany obiektu budowlanego nieobjętego obowiązkiem uzyskania pozwolenia na użytkowanie wymagał uzgodnienia pod względem ochrony przeciwpożarowej lub wymagań higienicznych i zdrowotnych. ” ;
 
-- **30)** w art. 57: w ust. 1: – w pkt 2 lit. a otrzymuje brzmienie: „ a) o zgodności wykonania obiektu budowlanego z projektem budowlanym lub warunkami pozwolenia na budowę oraz przepisami, ” , – pkt 5 otrzymuje brzmienie: „ 5) dokumentację geodezyjną, zawierającą wyniki geodezyjnej inwentaryzacji powykonawczej oraz informację o zgodności usytuowania obiektu budowlanego z projektem zagospodarowania działki lub terenu lub odstępstwach od tego projektu, sporządzoną przez osobę wykonującą samodzielne funkcje w dziedzinie geodezji i kartografii oraz posiadającą odpowiednie uprawnienia zawodowe; ” , ust. 3 otrzymuje brzmienie: „
+- **30)** w art. 57: w ust. 1: w pkt 2 lit. a otrzymuje brzmienie: „ o zgodności wykonania obiektu budowlanego z projektem budowlanym lub warunkami pozwolenia na budowę oraz przepisami, ” , pkt 5 otrzymuje brzmienie: „
     - **a)**
+    - **a)**
+
+- **5)** dokumentację geodezyjną, zawierającą wyniki geodezyjnej inwentaryzacji powykonawczej oraz informację o zgodności usytuowania obiektu budowlanego z projektem zagospodarowania działki lub terenu lub odstępstwach od tego projektu, sporządzoną przez osobę wykonującą samodzielne funkcje w dziedzinie geodezji i kartografii oraz posiadającą odpowiednie uprawnienia zawodowe; ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Inwestor jest obowiązany dołączyć do wniosku, o którym mowa w ust. 1, albo do zawiadomienia w przypadku, o którym mowa w art. 56 ust. 1a, oświadczenia o braku sprzeciwu lub uwag ze strony organów wymienionych w art. 56. ” ;
@@ -356,18 +399,25 @@ source: "eli-html"
 
 - **1)** w art. 50 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
-2a. W przypadku braku miejscowego planu zagospodarowania przestrzennego, budowa sieci, o których mowa w art. 29 ust. 1 pkt 19a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.), wymaga uzyskania decyzji o ustaleniu lokalizacji inwestycji celu publicznego. ” ;
+2a. W przypadku braku miejscowego planu zagospodarowania przestrzennego, budowa sieci, o których mowa w art. 29 ust. 1 pkt 19a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151, 200 i 443.), wymaga uzyskania decyzji o ustaleniu lokalizacji inwestycji celu publicznego. ” ;
 
 - **2)** w art. 59 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
 2a. W przypadku braku miejscowego planu zagospodarowania przestrzennego, budowa obiektów budowlanych, o których mowa w art. 29 ust. 1 pkt 1a i 2b ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, wymaga uzyskania decyzji o warunkach zabudowy i zagospodarowania terenu. ” .
 
-**Art. 3.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2014 r. poz. 1628, z późn. zm.) w części I załącznika wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2014 r. poz. 1628, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1741 i 1863 oraz z 2015 r. poz. 222 i 277.) w części I załącznika wprowadza się następujące zmiany:
 
-- **1)** po ust. 9 dodaje się ust. 9a-9d w brzmieniu: 9a. Przyjęcie zgłoszenia dotyczącego budowy, o której mowa w art. 29 ust. 1 pkt 1a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, od którego właściwy organ nie wniósł sprzeciwu – 1 zł za każdy m2 niemieszkalnej powierzchni użytkowej- nie więcej niż 539 zł przyjęcie zgłoszenia dotyczącego budynku zniszczonego lub uszkodzonego wskutek działalności spowodowanej ruchem zakładu górniczego lub klęsk żywiołowych 9b. Przyjęcie zgłoszenia dotyczącego budowy sieci, o których mowa w art. 29 ust. 1 pkt 19a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane:1) o długości powyżej 1 kilometra,2) o długości do 1 kilometra- od którego właściwy organ nie wniósł sprzeciwu 2143 zł 105 zł 9c. Przyjęcie zgłoszenia dotyczącego przebudowy, o której mowa w art. 29 ust. 2 pkt 1b ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, od którego właściwy organ nie wniósł sprzeciwu 50% stawki określonej w ust. 9a przyjęcie zgłoszenia dotyczącego budynku zniszczonego lub uszkodzonego wskutek działalności spowodowanej ruchem zakładu górniczego lub klęsk żywiołowych 9d. Przyjęcie zawiadomienia o zakończeniu budowy dotyczącego: 25% stawki określonej w części III ust. 9 pkt 1 lit. a przyjęcie zawiadomienia dotyczącego zakończenia budowy obiektu budowlanego zniszczonego lub uszkodzonego wskutek działalności spowodowanej ruchem zakładu górniczego lub klęsk żywiołowych 1) warsztatów rzemieślniczych, stacji obsługi pojazdów, myjni samochodowych, garaży do pięciu stanowisk włącznie, placów składowych, postojowych i parkingów oraz obiektów magazynowych będących budynkami składowymi, chłodniami, hangarami i wiatami – przeznaczonych na prowadzenie działalności gospodarczej innej niż rolnicza i leśna 2) placów składowych, postojowych i parkingów oraz obiektów magazynowych będących budynkami składowymi, chłodniami, hangarami i wiatami – służących celom gospodarczym w gospodarstwie rolnym 25% stawki określonej w części III ust. 9 pkt 1 lit. b 3) budynków kolejowych, takich jak: nastawnie, podstacje trakcyjne, lokomotywownie, wagonownie, strażnice przejazdowe i myjnie taboru kolejowego 25% stawki określonej w części III ust. 9 pkt 1 lit. c 4) stawów rybnych- od którego właściwy organ nie wniósł sprzeciwu 25% stawki określonej w części III ust. 9 pkt 1 lit. e
-- **2)** po ust. 11 dodaje się ust. 11a w brzmieniu: 11a. Decyzja o przeniesieniu na rzecz innego podmiotu praw i obowiązków wynikających ze zgłoszenia dotyczącego robót budowlanych, o których mowa w art. 29 ust. 1 pkt 1a i 19a oraz ust. 2 pkt 1b ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, od którego właściwy organ nie wniósł sprzeciwu 90 zł
+- **1)** po ust. 9 dodaje się ust. 9a-9d w brzmieniu:
 
-**Art. 4.** W ustawie z dnia 8 grudnia 2006 r. o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych (Dz. U. Nr 251, poz. 1844, z późn. zm.) w art. 16 w ust. 2 pkt 1 otrzymuje brzmienie: „
+9a. Przyjęcie zgłoszenia dotyczącego budowy, o której mowa w art. 29 ust. 1 pkt 1a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, od którego właściwy organ nie wniósł sprzeciwu – 1 zł za każdy m2 niemieszkalnej powierzchni użytkowej nie więcej niż 539 zł przyjęcie zgłoszenia dotyczącego budynku zniszczonego lub uszkodzonego wskutek działalności spowodowanej ruchem zakładu górniczego lub klęsk żywiołowych 9b. Przyjęcie zgłoszenia dotyczącego budowy sieci, o których mowa w art. 29 ust. 1 pkt 19a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane:
+
+- **1)** o długości powyżej 1 kilometra,
+- **2)** o długości do 1 kilometra od którego właściwy organ nie wniósł sprzeciwu 2143 zł 105 zł 9c. Przyjęcie zgłoszenia dotyczącego przebudowy, o której mowa w art. 29 ust. 2 pkt 1b ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, od którego właściwy organ nie wniósł sprzeciwu 50% stawki określonej w ust. 9a przyjęcie zgłoszenia dotyczącego budynku zniszczonego lub uszkodzonego wskutek działalności spowodowanej ruchem zakładu górniczego lub klęsk żywiołowych 9d. Przyjęcie zawiadomienia o zakończeniu budowy dotyczącego: 25% stawki określonej w części III ust. 9 pkt 1 lit. a przyjęcie zawiadomienia dotyczącego zakończenia budowy obiektu budowlanego zniszczonego lub uszkodzonego wskutek działalności spowodowanej ruchem zakładu górniczego lub klęsk żywiołowych 1) warsztatów rzemieślniczych, stacji obsługi pojazdów, myjni samochodowych, garaży do pięciu stanowisk włącznie, placów składowych, postojowych i parkingów oraz obiektów magazynowych będących budynkami składowymi, chłodniami, hangarami i wiatami – przeznaczonych na prowadzenie działalności gospodarczej innej niż rolnicza i leśna 2) placów składowych, postojowych i parkingów oraz obiektów magazynowych będących budynkami składowymi, chłodniami, hangarami i wiatami – służących celom gospodarczym w gospodarstwie rolnym 25% stawki określonej w części III ust. 9 pkt 1 lit. b 3) budynków kolejowych, takich jak: nastawnie, podstacje trakcyjne, lokomotywownie, wagonownie, strażnice przejazdowe i myjnie taboru kolejowego 25% stawki określonej w części III ust. 9 pkt 1 lit. c 4) stawów rybnych od którego właściwy organ nie wniósł sprzeciwu 25% stawki określonej w części III ust. 9 pkt 1 lit. e
+- **2)** po ust. 11 dodaje się ust. 11a w brzmieniu:
+
+11a. Decyzja o przeniesieniu na rzecz innego podmiotu praw i obowiązków wynikających ze zgłoszenia dotyczącego robót budowlanych, o których mowa w art. 29 ust. 1 pkt 1a i 19a oraz ust. 2 pkt 1b ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, od którego właściwy organ nie wniósł sprzeciwu 90 zł
+
+**Art. 4.** W ustawie z dnia 8 grudnia 2006 r. o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych (Dz. U. Nr 251, poz. 1844, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 39, poz. 309 i Nr 65, poz. 545 oraz z 2012 r. poz. 951.) w art. 16 w ust. 2 pkt 1 otrzymuje brzmienie: „
 
 - **1)** rozpoczęcie robót budowlanych – w przypadkach, o których mowa w art. 3 ust. 1 pkt 1–3 oraz art. 4; ” .
 
@@ -385,5 +435,5 @@ source: "eli-html"
 
 **Art. 7.** Dane wprowadzone do rejestrów wniosków o pozwolenie na budowę i decyzji o pozwoleniu na budowę przed dniem wejścia w życie niniejszej ustawy nie podlegają publikacji w trybie art. 82b ust. 7 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą. Dotychczasowe przepisy wykonawcze, wydane na podstawie upoważnień zawartych w art. 32 ust. 5 oraz art. 82b ust. 4 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 32 ust. 5 oraz art. 82b ust. 8 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 34, który wchodzi w życie w dniu 1 stycznia 2016 r.
+**Art. 9.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 34, który wchodzi w życie w dniu 1 stycznia 2016 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej i ustawę z dnia 8 grudnia 2006 r. o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151 i 200. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200 i 277. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289, z 2014 r. poz. 183, 567, 915, 1171, 1215, 1328 i 1644 oraz z 2015 r. poz. 211 i 251. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151, 200 i 443. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1741 i 1863 oraz z 2015 r. poz. 222 i 277. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 39, poz. 309 i Nr 65, poz. 545 oraz z 2012 r. poz. 951.
 

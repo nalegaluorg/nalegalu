@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-03-09 |
 | Data wydania | 2015-03-12 |
-| Wejście w życie | 2015-03-15 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000347) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/347/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 29 ust. 1 pkt 1 i ust. 1a pkt 2 i 3 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. z 2013 r. poz. 173) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2009 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Wspieranie gospodarowania na obszarach górskich i innych obszarach o niekorzystnych warunkach gospodarowania (ONW)” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 40, poz. 329, z późn. zm.) po § 15 dodaje się § 15a w brzmieniu:
-„
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2009 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Wspieranie gospodarowania na obszarach górskich i innych obszarach o niekorzystnych warunkach gospodarowania (ONW)” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 40, poz. 329, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 138, poz. 1127, z 2010 r. Nr 39, poz. 219 i Nr 175, poz. 1185, z 2011 r. Nr 55, poz. 286, z 2012 r. poz. 272 oraz z 2014 r. poz. 323.) po § 15 dodaje się § 15a w brzmieniu: „
 § 15a.
-Złożenie wniosku o przyznanie płatności ONW po dniu 14 marca 2015 r. jest niedopuszczalne.
-” .
+Złożenie wniosku o przyznanie płatności ONW po dniu 14 marca 2015 r. jest niedopuszczalne. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 15 marca 2015 r.
+Rozporządzenie wchodzi w życie z dniem 15 marca 2015 r. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 138, poz. 1127, z 2010 r. Nr 39, poz. 219 i Nr 175, poz. 1185, z 2011 r. Nr 55, poz. 286, z 2012 r. poz. 272 oraz z 2014 r. poz. 323.
 

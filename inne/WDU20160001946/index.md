@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 18 listopada 2016 r. zmieniające rozporządzenie w sprawie upoważnienia innych organów administracji rządowej do wykonywania niektórych zadań organów celnych
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 18 listopada 2016 r. zmieniające rozporządzenie w sprawie upoważnienia innych organów administracji rządowej do wykonywania niektórych zadań organów celnych Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-18 |
 | Data wydania | 2016-12-02 |
-| Wejście w życie | 2016-12-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001946) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1946/text.pdf) |
 
@@ -31,14 +30,11 @@ Na podstawie art. 13b ust. 1 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz.
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 31 marca 2010 r. w sprawie upoważnienia innych organów administracji rządowej do wykonywania niektórych zadań organów celnych (Dz. U. poz. 306) wprowadza się następujące zmiany:
 1)
-w § 1 w pkt 6 lit. a otrzymuje brzmienie:
-„
+w § 1 w pkt 6 lit. a otrzymuje brzmienie: „
 a)
-w art. 208 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.),
-” ;
+w art. 208 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90 oraz Dz. Urz. UE L 267 z 30.09.2016, str. 2.), ” ;
 2)
 w § 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zadania, o których mowa w § 1, terenowe organy Straży Granicznej wykonują przy wprowadzaniu towarów na obszar celny Unii Europejskiej i wyprowadzaniu towarów poza obszar celny Unii Europejskiej: ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90 oraz Dz. Urz. UE L 267 z 30.09.2016, str. 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90 oraz Dz. Urz. UE L 267 z 30.09.2016, str. 2.
 

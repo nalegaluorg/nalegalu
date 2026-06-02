@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 30 października 2018 r. w sprawie sposobu zapewnienia w uczelni bezpiecznych i higienicznych warunków pracy i kształcenia
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 30 października 2018 r. w sprawie sposobu zapewnienia w uczelni bezpiecznych i higienicznych warunków pracy i kształcenia Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-30 |
 | Data wydania | 2018-11-02 |
-| Wejście w życie | 2018-11-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002090) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2090/text.pdf) |
 
@@ -123,6 +122,5 @@ Osoba prowadząca zajęcia, o których mowa w ust. 3, zapoznaje uczestników zaj
 § 9.
 Rektorzy dostosują warunki pracy i kształcenia w uczelni do wymagań określonych w § 1 ust. 1 pkt 5 i 6, § 2, § 3 i § 6 w terminie do dnia 1 marca 2019 r.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 5 lipca 2007 r. w sprawie bezpieczeństwa i higieny pracy w uczelniach (Dz. U. poz. 897), które utraciło moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 5 lipca 2007 r. w sprawie bezpieczeństwa i higieny pracy w uczelniach (Dz. U. poz. 897), które utraciło moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669). 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 5 lipca 2007 r. w sprawie bezpieczeństwa i higieny pracy w uczelniach (Dz. U. poz. 897), które utraciło moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669).
 

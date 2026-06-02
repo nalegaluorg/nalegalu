@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 stycznia 2018 r. o zmianie niektórych ustaw w związku ze skróceniem okresu przechowywania akt pracowniczych oraz ich elektronizacją
+# Ustawa z dnia 10 stycznia 2018 r. o zmianie niektórych ustaw w związku ze skróceniem okresu przechowywania akt pracowniczych oraz ich elektronizacją Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-10 |
 | Data wydania | 2018-02-13 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000357) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/357/text.pdf) |
 
@@ -93,7 +92,7 @@ source: "eli-html"
 **Art. 9412.** Pracodawca wydaje kopię całości lub części dokumentacji pracowniczej na wniosek:
 
 - **1)** pracownika lub byłego pracownika albo
-- **2)** osób, o których mowa w art. 949§ 3, w przypadku śmierci pracownika lub byłego pracownika złożony w postaci papierowej lub elektronicznej. ” ;
+- **2)** osób, o których mowa w art. 949§ 3, w przypadku śmierci pracownika lub byłego pracownika – złożony w postaci papierowej lub elektronicznej. ” ;
 - **5)** w art. 281: pkt 6 otrzymuje brzmienie: „
     - **a)**
 
@@ -110,7 +109,7 @@ source: "eli-html"
 
 - **1)** zakres, sposób i warunki prowadzenia, przechowywania oraz zmiany postaci dokumentacji pracowniczej, z uwzględnieniem wymagań dotyczących dokumentacji w postaci elektronicznej w zakresie organizacji jej przetwarzania i przenoszenia pomiędzy systemami teleinformatycznymi,
 - **2)** sposób i tryb doręczania informacji lub zawiadomienia o możliwości odbioru dokumentacji pracowniczej w przypadku upływu okresu jej przechowywania oraz poprzedniej postaci tej dokumentacji w przypadku zmiany postaci jej prowadzenia i przechowywania, a także sposób odbioru dokumentacji pracowniczej,
-- **3)** sposób wydawania kopii całości lub części dokumentacji pracowniczej pracownikowi, byłemu pracownikowi lub osobom, o których mowa w art. 949§ 3 uwzględniając konieczność rzetelnego prowadzenia dokumentacji pracowniczej, zapewnienia realizacji prawa dostępu do tej dokumentacji, potrzebę przechowywania dokumentacji pracowniczej w sposób gwarantujący zachowanie jej poufności, integralności, kompletności oraz dostępności, w warunkach niegrożących jej uszkodzeniem lub zniszczeniem. ” .
+- **3)** sposób wydawania kopii całości lub części dokumentacji pracowniczej pracownikowi, byłemu pracownikowi lub osobom, o których mowa w art. 949§ 3 – uwzględniając konieczność rzetelnego prowadzenia dokumentacji pracowniczej, zapewnienia realizacji prawa dostępu do tej dokumentacji, potrzebę przechowywania dokumentacji pracowniczej w sposób gwarantujący zachowanie jej poufności, integralności, kompletności oraz dostępności, w warunkach niegrożących jej uszkodzeniem lub zniszczeniem. ” .
 
 **Art. 2.** W ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2018 r. poz. 217) wprowadza się następujące zmiany:
 
@@ -259,5 +258,5 @@ source: "eli-html"
 
 **Art. 12.** Przedsiębiorca, który do dnia 31 grudnia 2018 r. nie uzyska wpisu do rejestru, o którym mowa w art. 51a ustawy zmienianej w art. 2, zakończy wykonywanie działalności w zakresie przechowywania dokumentacji osobowej i płacowej pracodawców o czasowym okresie przechowywania i przekaże ją do dalszego przechowywania uprawnionemu podmiotowi, o którym mowa w art. 51a ust. 1 albo ust. 2 ustawy zmienianej w art. 2.
 
-**Art. 13.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 11 i art. 12, które wchodzą w życie z dniem ogłoszenia.
+**Art. 13.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 11 i art. 12, które wchodzą w życie z dniem ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 

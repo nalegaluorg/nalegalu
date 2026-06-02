@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 lutego 2022 r. o zmianie ustawy o Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz niektórych innych ustaw
+# Ustawa z dnia 24 lutego 2022 r. o zmianie ustawy o Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego oraz ustawę z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-02-24 |
 | Data wydania | 2022-03-21 |
-| Wejście w życie | 2022-03-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000646) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/646/text.pdf) |
 
@@ -65,7 +64,7 @@ source: "eli-html"
 1a. Nie wymaga przeprowadzenia naboru:
 
 - **1)** zatrudnienie osoby na zastępstwo w związku z usprawiedliwioną nieobecnością pracownika Agencji;
-- **2)** nawiązanie stosunku pracy na okres nie dłuższy niż 6 miesięcy z osobą, która ukończyła w Agencji staż w rozumieniu art. 2 ust. 1 pkt 34 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2021 r. poz. 1100, z późn. zm.).
+- **2)** nawiązanie stosunku pracy na okres nie dłuższy niż 6 miesięcy z osobą, która ukończyła w Agencji staż w rozumieniu art. 2 ust. 1 pkt 34 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2021 r. poz. 1100, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1162, 1621, 2270, 2317 i 2445 oraz z 2022 r. poz. 91.).
 
 1b. Po zakończeniu stosunku pracy z osobami, o których mowa w ust. 1a, dalsze zatrudnienie tych osób na wolnych stanowiskach pracy w Agencji wymaga przeprowadzenia naboru.
 
@@ -129,9 +128,9 @@ source: "eli-html"
 
 - **1)** budowę systemów lub rozwiązań teleinformatycznych,
 - **2)** rozbudowę lub unowocześnienie istniejących systemów lub rozwiązań teleinformatycznych,
-- **3)** utrzymanie systemów lub rozwiązań teleinformatycznych na rzecz podmiotów lub jednostek organizacyjnych nieposiadających osobowości prawnej innych niż Agencja, które realizują te zadania publiczne, na podstawie umów zawartych z tymi podmiotami lub jednostkami.
+- **3)** utrzymanie systemów lub rozwiązań teleinformatycznych – na rzecz podmiotów lub jednostek organizacyjnych nieposiadających osobowości prawnej innych niż Agencja, które realizują te zadania publiczne, na podstawie umów zawartych z tymi podmiotami lub jednostkami.
 
-3. Agencja może posiadać i obejmować udziały w spółce. Przepisu art. 49 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.) nie stosuje się.
+3. Agencja może posiadać i obejmować udziały w spółce. Przepisu art. 49 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583.) nie stosuje się.
 
 4. Do realizacji zadań spółki określonych w ust. 1 i 2, zwanych dalej „zadaniami spółki”, stosuje się przepisy o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
@@ -197,7 +196,7 @@ source: "eli-html"
 
 **Art. 27a.**
 
-1. Jeżeli wnioskodawcą jest dłużnik prowadzący działalność w zakresie podstawowej produkcji produktów rolnych, pomoc, o której mowa w art. 24 i art. 27 ust. 1a, stanowi pomoc de minimis w rolnictwie i może być udzielona zgodnie z przepisami rozporządzenia Komisji (UE) nr 1408/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rolnym (Dz. Urz. UE L 352 z 24.12.2013, str. 9, z późn. zm.), zwanego dalej „rozporządzeniem nr 1408/2013”, oraz przepisami o postępowaniu w sprawach dotyczących pomocy publicznej.
+1. Jeżeli wnioskodawcą jest dłużnik prowadzący działalność w zakresie podstawowej produkcji produktów rolnych, pomoc, o której mowa w art. 24 i art. 27 ust. 1a, stanowi pomoc de minimis w rolnictwie i może być udzielona zgodnie z przepisami rozporządzenia Komisji (UE) nr 1408/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rolnym (Dz. Urz. UE L 352 z 24.12.2013, str. 9, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 51 z 22.02.2019, str. 1., zwanego dalej „rozporządzeniem nr 1408/2013”, oraz przepisami o postępowaniu w sprawach dotyczących pomocy publicznej.
 
 2. W przypadku pomocy udzielanej zgodnie z przepisami rozporządzenia nr 1408/2013 do wniosku o pomoc dołącza się oświadczenie albo zaświadczenia dotyczące pomocy de minimis oraz informacje niezbędne do udzielenia tej pomocy, o których mowa w art. 37 ust. 2 pkt 1 i 3 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743). ” ;
 
@@ -220,7 +219,7 @@ source: "eli-html"
 1. Środki publiczne:
 
 - **1)** pochodzące z funduszy Unii Europejskiej,
-- **2)** krajowe, przeznaczone na: współfinansowanie wydatków realizowanych z funduszy Unii Europejskiej, finansowanie przez Agencję pomocy przyznawanej w drodze decyzji administracyjnej podlegają zwrotowi, jeżeli płatność lub pomoc finansowa wypłacone z tych środków zostały przyznane nienależnie lub zostały pobrane w nadmiernej wysokości w wyniku naruszenia prawa lub w przypadkach określonych w przepisach odrębnych dotyczących przyznawania lub wypłaty płatności lub pomocy finansowej lub zwrotu tych środków. ” , po ust. 1b dodaje się ust. 1c w brzmieniu: „
+- **2)** krajowe, przeznaczone na: współfinansowanie wydatków realizowanych z funduszy Unii Europejskiej, finansowanie przez Agencję pomocy przyznawanej w drodze decyzji administracyjnej – podlegają zwrotowi, jeżeli płatność lub pomoc finansowa wypłacone z tych środków zostały przyznane nienależnie lub zostały pobrane w nadmiernej wysokości w wyniku naruszenia prawa lub w przypadkach określonych w przepisach odrębnych dotyczących przyznawania lub wypłaty płatności lub pomocy finansowej lub zwrotu tych środków. ” , po ust. 1b dodaje się ust. 1c w brzmieniu: „
     - **a)**
     - **b)**
     - **b)**
@@ -240,7 +239,7 @@ source: "eli-html"
 1. Wierzytelności, o których mowa w art. 39, podlegają umorzeniu na wniosek:
 
 - **1)** osoby, która była stroną umowy o kredyt udzielony ze środków Funduszu Restrukturyzacji i Oddłużenia Rolnictwa, umowy o spłatę zrestrukturyzowanego długu, umowy o kredyt udzielony ze środków budżetowych lub umowy o kredyt z gwarancją Ministerstwa Rolnictwa i Gospodarki Żywnościowej, albo
-- **2)** następcy prawnego osoby, o której mowa w pkt 1 jeżeli na dzień złożenia wniosku mają ustalone prawo do emerytury lub renty z tytułu niezdolności do pracy na podstawie przepisów o ubezpieczeniu społecznym rolników lub prawo do emerytury lub renty z tytułu niezdolności do pracy z Funduszu Ubezpieczeń Społecznych oraz nie posiadają innej nieruchomości niż ta, którą zamieszkują.
+- **2)** następcy prawnego osoby, o której mowa w pkt 1 – jeżeli na dzień złożenia wniosku mają ustalone prawo do emerytury lub renty z tytułu niezdolności do pracy na podstawie przepisów o ubezpieczeniu społecznym rolników lub prawo do emerytury lub renty z tytułu niezdolności do pracy z Funduszu Ubezpieczeń Społecznych oraz nie posiadają innej nieruchomości niż ta, którą zamieszkują.
 
 2. Jeżeli warunki, o których mowa w ust. 1, nie są spełnione, wierzytelności, o których mowa w art. 39, podlegają umorzeniu na wniosek osoby, która była stroną umowy o kredyt udzielony ze środków Funduszu Restrukturyzacji i Oddłużenia Rolnictwa, umowy o spłatę zrestrukturyzowanego długu, umowy o kredyt udzielony ze środków budżetowych lub umowy o kredyt z gwarancją Ministerstwa Rolnictwa i Gospodarki Żywnościowej, albo jej następcy prawnego, jeżeli wyłączną wierzytelnością jest wierzytelność z tytułu odsetek.
 
@@ -272,7 +271,7 @@ source: "eli-html"
 
 9. Umorzenie wierzytelności, o których mowa w art. 39, wywołuje takie same skutki jak zwolnienie dłużnika z długu określone w przepisach Kodeksu cywilnego. ” .
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.) w art. 21 w ust. 1 w pkt 47e po wyrazach „art. 24” dodaje się wyrazy „i art. 39a”.
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558 i 583.) w art. 21 w ust. 1 w pkt 47e po wyrazach „art. 24” dodaje się wyrazy „i art. 39a”.
 
 **Art. 3.** W ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2021 r. poz. 1672, 1901 i 1927) po art. 70g dodaje się art. 70h w brzmieniu: „
 

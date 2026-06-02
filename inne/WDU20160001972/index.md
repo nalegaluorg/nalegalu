@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Rozwoju i Finansówz dnia 9 listopada 2016 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego i przeprowadzania egzaminu na doradcę podatkowego
+# Obwieszczenie Ministra Rozwoju i Finansówz dnia 9 listopada 2016 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego i przeprowadzania egzaminu na doradcę podatkowego Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -26,13 +26,12 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001972) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1972/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Finansów z dnia 2 listopada 2010 r. w sprawie Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego i przeprowadzania egzaminu na doradcę podatkowego Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowe zadania i regulamin działania Komisji Egzaminacyjnej Rozdział 3 – Szczegółowe zadania przewodniczącego i sekretarza Komisji Egzaminacyjnej, przewodniczących oraz sekretarzy składów egzaminacyjnych Rozdział 4 – Wniosek o dopuszczenie do egzaminu i opłata egzaminacyjna Rozdział 5 – Sposób organizowania egzaminu Rozdział 6 – Regulamin przeprowadzania egzaminu sprawdzającego kwalifikacje kandydatów na doradców podatkowych Rozdział 7 – Wynagrodzenia członków Komisji Egzaminacyjnej oraz warunki i tryb zwrotu kosztów podróży i noclegów członkom Komisji Egzaminacyjnej Rozdział 8 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Finansów z dnia 2 listopada 2010 r. w sprawie Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego i przeprowadzania egzaminu na doradcę podatkowego
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 2 listopada 2010 r. w sprawie Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego i przeprowadzania egzaminu na doradcę podatkowego (Dz. U. poz. 1390), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 29 października 2015 r. zmieniającym rozporządzenie w sprawie Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego i przeprowadzania egzaminu na doradcę podatkowego (Dz. U. poz. 1866).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–8 rozporządzenia Ministra Finansów z dnia 29 października 2015 r. zmieniającego rozporządzenie w sprawie Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego i przeprowadzania egzaminu na doradcę podatkowego (Dz. U. poz. 1866), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–8 rozporządzenia Ministra Finansów z dnia 29 października 2015 r. zmieniającego rozporządzenie w sprawie Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego i przeprowadzania egzaminu na doradcę podatkowego (Dz. U. poz. 1866), które stanowią: „
 § 2.
 Do kwalifikowania kandydatów na doradców podatkowych na termin części pisemnej egzaminu wyznaczony przed dniem wejścia w życie niniejszego rozporządzenia, a przypadający po dniu wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
@@ -51,11 +50,10 @@ Do wypłat wynagrodzenia w przypadku, o którym mowa w ust. 1, stosuje się odpo
 3.
 Z przeprowadzonych prac mających na celu zawarcie umowy, o której mowa w art. 22 ust. 13a ustawy z dnia 5 lipca 1996 r. o doradztwie podatkowym, członkowie Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego, o których mowa w ust. 1, sporządzają sprawozdanie, które jest akceptowane przez przewodniczącego tej Komisji.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-” .
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
-Załącznik – Rozporządzenie Ministra Finansów z dnia 2 listopada 2010 r. w sprawie Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego i przeprowadzania egzaminu na doradcę podatkowego
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. ” . 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Załącznik – Rozporządzenie Ministra Finansów z dnia 2 listopada 2010 r. w sprawie Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego i przeprowadzania egzaminu na doradcę podatkowegoObecnie działem administracji rządowej – finanse publiczne kieruje Minister Rozwoju i Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 Na podstawie art. 26 ustawy z dnia 5 lipca 1996 r. o doradztwie podatkowym (Dz. U. z 2016 r. poz. 794 i 1948) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -72,13 +70,14 @@ szczegółowe zadania Komisji Egzaminacyjnej, przewodniczącego i sekretarza Kom
 sposób organizowania i regulamin przeprowadzenia egzaminu sprawdzającego kwalifikacje kandydatów na doradców podatkowych, w tym szczegółowy tryb i sposób wyznaczania składów egzaminacyjnych, dokonywania oceny egzaminów i jej weryfikacji, ustalania terminów egzaminów i ich zmiany oraz zestawów pytań i zadań egzaminacyjnych;
 7)
 szczegółowe warunki i tryb przysługującego członkom Komisji Egzaminacyjnej zwrotu kosztów podróży i noclegów poniesionych w związku z udziałem w pracach Komisji Egzaminacyjnej.
+Szczegółowe zadania i regulamin działania Komisji Egzaminacyjnej
 § 2.
 Do zadań Komisji Egzaminacyjnej należy:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 29 października 2015 r. zmieniającego rozporządzenie w sprawie Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego i przeprowadzania egzaminu na doradcę podatkowego (Dz. U. poz. 1866), które weszło w życie z dniem 21 listopada 2015 r.)
 zamieszczanie w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych wykazu pytań i zadań egzaminacyjnych oraz zakresu tematycznego egzaminu dla osób, o których mowa w art. 20 ust. 2 i 5 ustawy z dnia 5 lipca 1996 r. o doradztwie podatkowym, zwanej dalej „ustawą”;
 2)
 opracowywanie wzorca odpowiedzi do pytań testowych wchodzących w skład wykazu pytań i zadań egzaminacyjnych;
-3)
+3Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 analiza programów kształcenia realizowanych przez uczelnie, o których mowa w art. 22 ust. 13a ustawy, pod kątem zgodności z zakresem wiedzy i umiejętności wymaganych w części pisemnej egzaminu.
 § 3.
 Komisja Egzaminacyjna obraduje na posiedzeniach, zwoływanych i prowadzonych przez przewodniczącego Komisji Egzaminacyjnej.
@@ -93,8 +92,9 @@ W trybie obiegowym Komisja Egzaminacyjna podejmuje uchwały w formie pisemnej, b
 W przypadku równej liczby głosów decyduje głos przewodniczącego Komisji Egzaminacyjnej.
 4.
 Uchwały podpisuje przewodniczący Komisji Egzaminacyjnej.
+Szczegółowe zadania przewodniczącego i sekretarza Komisji Egzaminacyjnej, przewodniczących oraz sekretarzy składów egzaminacyjnych
 § 6.
-1.
+1Oznaczenie ust. 1 nadane przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Do zadań przewodniczącego Komisji Egzaminacyjnej należy:
 1)
 organizowanie i koordynowanie prac Komisji Egzaminacyjnej;
@@ -108,12 +108,12 @@ przygotowywanie testów i zadań egzaminacyjnych do części pisemnej egzaminu o
 udzielanie kandydatom na doradców podatkowych, zwanym dalej „kandydatami”, wyjaśnień w sprawach należących do właściwości Komisji Egzaminacyjnej;
 6)
 podpisywanie zaświadczeń potwierdzających złożenie egzaminu z wynikiem pozytywnym.
-2.
+2Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Przewodniczący Komisji Egzaminacyjnej może powołać do prowadzenia prac mających na celu zawarcie umowy, o której mowa w art. 22 ust. 13a ustawy, trzyosobowy zespół spośród członków Komisji Egzaminacyjnej i wyznaczyć z jego składu przewodniczącego zespołu. Przewodniczący Komisji Egzaminacyjnej akceptuje sprawozdanie z przeprowadzonych prac sporządzone przez zespół.
 § 7.
 1.
 Do zadań sekretarza Komisji Egzaminacyjnej należy:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 ogłaszanie informacji o miesiącu, w którym zostanie przeprowadzona część pisemna egzaminu, i ustalanie terminów części pisemnej i ustnej egzaminu oraz podawanie ich do publicznej wiadomości;
 2)
 sporządzanie listy kandydatów zakwalifikowanych na wyznaczony termin egzaminu, zawierającej imiona i nazwiska kandydatów;
@@ -129,7 +129,7 @@ rozpatrywanie wniosków o zwrot opłaty egzaminacyjnej;
 rozpatrywanie wniosków o udostępnienie do wglądu pracy egzaminacyjnej oraz wyznaczanie członka Komisji Egzaminacyjnej obecnego przy wglądzie do prac egzaminacyjnych;
 8)
 akceptowanie wniosku przewodniczącego składu egzaminacyjnego o wypłatę wynagrodzeń dla członków składu egzaminacyjnego za przeprowadzenie egzaminu;
-9)
+9W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 przygotowanie wniosków o wypłatę wynagrodzeń dla członków Komisji Egzaminacyjnej za:
 a)
 udział w posiedzeniach Komisji Egzaminacyjnej,
@@ -151,7 +151,7 @@ sprawowanie nadzoru nad prawidłowym przebiegiem egzaminu;
 podejmowanie, w przypadkach określonych w § 23 ust. 1, decyzji o wykluczeniu kandydata z egzaminu;
 4)
 informowanie kandydata o wyniku części ustnej egzaminu;
-5)
+5W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.)
 dokonywanie ponownej oceny pracy egzaminacyjnej oraz sporządzanie uzasadnienia tej oceny;
 6)
 sporządzenie wniosku o wypłatę wynagrodzeń dla członków składu egzaminacyjnego za przeprowadzenie egzaminu.
@@ -161,8 +161,9 @@ Do zadań sekretarza składu egzaminacyjnego należy:
 sporządzenie protokołu z przebiegu części pisemnej i ustnej egzaminu;
 2)
 zapewnienie prawidłowego dokumentowania przebiegu egzaminu.
+Wniosek o dopuszczenie do egzaminu i opłata egzaminacyjna
 § 10.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2..
 Osoba ubiegająca się o zakwalifikowanie do egzaminu składa pisemnie do Komisji Egzaminacyjnej, w terminie 30 dni od dnia ogłoszenia przez sekretarza Komisji Egzaminacyjnej informacji o miesiącu, w którym zostanie przeprowadzona część pisemna egzaminu, wniosek o dopuszczenie do egzaminu.
 2.
 Do wniosku, o którym mowa w ust. 1, należy załączyć:
@@ -179,23 +180,23 @@ Osoby warunkowo wpisane na listę doradców podatkowych do wniosku, o którym mo
 4.
 Osoby, o których mowa w art. 20 ust. 2 i 5 ustawy, do wniosku, o którym mowa w ust. 1, załączają, oprócz dokumentów wymienionych w ust. 2, dokumenty stwierdzające ich uprawnienia.
 § 11.
-1.
+1Oznaczenie ust. 1 nadane przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2..
 Kandydat, który uzyskał pozytywny wynik z części pisemnej egzaminu, składa do Komisji Egzaminacyjnej, nie później niż do 15 dnia miesiąca poprzedzającego miesiąc, w którym deklaruje chęć zdawania części ustnej egzaminu, wniosek o wyznaczenie terminu tej części egzaminu.
-2.
+2Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2..
 Wniosek, o którym mowa w ust. 1, składa się pisemnie, drogą elektroniczną lub za pomocą telefaksu.
-§ 11a.
+§ 11aDodany przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Osoba, o której mowa w art. 24 ust. 5 ustawy, ubiegająca się o zakwalifikowanie do egzaminu, składa pisemnie do Komisji Egzaminacyjnej, nie później niż do 15 dnia miesiąca poprzedzającego miesiąc, w którym deklaruje chęć zdawania części ustnej egzaminu, wniosek o dopuszczenie do egzaminu i wyznaczenie terminu części ustnej egzaminu.
 2.
 Do wniosku, o którym mowa w ust. 1, załącza się również suplement do dyplomu dokumentującego ukończenie studiów wyższych. Przepisy § 10 ust. 2–4 stosuje się odpowiednio.
-§ 12.
+§ 12W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Kandydat, który uzyskał negatywny wynik z części pisemnej albo ustnej egzaminu i ubiega się o wyznaczenie terminu ponownego egzaminu z części pisemnej albo ustnej, składa do Komisji Egzaminacyjnej, w terminach określonych odpowiednio w § 10 ust. 1, § 11 ust. 1 albo § 11a ust. 1, wniosek o wyznaczenie ponownego terminu części pisemnej albo ustnej egzaminu.
 2.
 Do wniosku, o którym mowa w ust. 1, załącza się potwierdzenie dokonania opłaty egzaminacyjnej za ponowny egzamin, a w przypadku wniosku dotyczącego części pisemnej egzaminu także oświadczenie o spełnianiu warunków określonych w art. 6 ust. 1 pkt 2 i 3 ustawy.
 3.
 Wniosek o wyznaczenie ponownego terminu części pisemnej egzaminu składa się pisemnie, a wniosek o wyznaczenie ponownego terminu części ustnej egzaminu także drogą elektroniczną lub za pomocą telefaksu.
-§ 13.
+§ 13W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2..
 Opłatę egzaminacyjną, w wysokości określonej w odrębnych przepisach, wnosi się na rachunek bankowy urzędu obsługującego ministra właściwego do spraw finansów publicznych w terminach, o których mowa w § 10 ust. 1, § 11 ust. 1 i § 11a ust. 1.
 § 14.
 1.
@@ -206,18 +207,19 @@ Opłata egzaminacyjna może zostać zwrócona na pisemny wniosek kandydata, któ
 W przypadkach, o których mowa w ust. 1 i 2, wniosek o zwrot opłaty egzaminacyjnej składany jest do sekretarza Komisji Egzaminacyjnej, nie później niż w terminie 14 dni od dnia wyznaczonego terminu egzaminu.
 4.
 Złożenie wniosku o zwrot opłaty, w przypadku, o którym mowa w ust. 2, jest równoznaczne z rezygnacją z przystępowania do egzaminu na doradcę podatkowego.
+Sposób organizowania egzaminu
 § 15.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2..
 2.
-§ 16.
+§ 16W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Terminy części pisemnej egzaminu sekretarz Komisji Egzaminacyjnej ustala po upływie terminu na składanie wniosku o dopuszczenie do egzaminu, o którym mowa w § 10 ust. 1, a terminy części ustnej egzaminu po 15 dniu miesiąca poprzedzającego miesiąc, w którym zostanie przeprowadzona część ustna egzaminu.
 2.
 Terminy części pisemnej i ustnej egzaminu podawane są do publicznej wiadomości w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 § 17.
-1.
+1Oznaczenie ust. 1 nadane przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2..
 Terminy części pisemnej i ustnej egzaminu dla poszczególnych kandydatów są wyznaczane zgodnie z kolejnością złożonych wniosków.
-2.
+2Dodany przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2..
 Kandydaci, których wnioski o dopuszczenie do egzaminu albo wnioski o wyznaczenie ponownego terminu części pisemnej egzaminu wpłynęły do Komisji Egzaminacyjnej po terminie określonym w § 10 ust. 1:
 1)
 mogą zostać zakwalifikowani na terminy części pisemnej egzaminu wyznaczone w miesiącu ogłoszonym przez sekretarza Komisji Egzaminacyjnej, jeżeli w terminach tych pozostały wolne miejsca i kandydaci wyrażą na to zgodę, albo
@@ -235,24 +237,25 @@ Nieprzystąpienie do części pisemnej albo ustnej egzaminu przez kandydata jest
 W przypadku nieprzystąpienia do części pisemnej lub ustnej egzaminu z powodu ważnych, niezawinionych i udokumentowanych przyczyn losowych, na wniosek kandydata, zmienia się termin egzaminu.
 3.
 Wniosek o zmianę terminu części pisemnej lub ustnej egzaminu, wraz z dokumentami potwierdzającymi niemożność przystąpienia do danej części egzaminu powinien być złożony do sekretarza Komisji Egzaminacyjnej, nie później niż w terminie 14 dni od dnia wyznaczonego terminu egzaminu.
-3a.
+3aDodany przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2..
 Wniosek o zmianę terminu części pisemnej egzaminu składa się pisemnie, a wniosek o zmianę terminu części ustnej egzaminu także drogą elektroniczną lub za pomocą telefaksu.
-3b.
+3bDodany przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku, o którym mowa w ust. 3, termin części ustnej egzaminu może zostać wyznaczony na wnioskowany miesiąc, jeżeli wniosek o zmianę terminu egzaminu wpłynął do Komisji Egzaminacyjnej do 15 dnia poprzedniego miesiąca.
 4.
 Zmiana terminu części ustnej egzaminu, o której mowa w ust. 2, przysługuje tylko raz.
 § 20.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 13 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Skład egzaminacyjny przewodniczący Komisji Egzaminacyjnej wyznacza w sposób uwzględniający udział osób reprezentujących wszystkie grupy zawodowe, powołanych w skład Komisji Egzaminacyjnej, na co najmniej 10 dni przed wyznaczonym terminem egzaminu.
 2.
 Przed wyznaczeniem składu egzaminacyjnego Przewodniczący Komisji Egzaminacyjnej ustala z członkami Komisji Egzaminacyjnej terminy egzaminów, w których mogą uczestniczyć.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 13 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Członek składu egzaminacyjnego, który nie może z ważnych przyczyn uczestniczyć w egzaminie, niezwłocznie zawiadamia o tym przewodniczącego Komisji Egzaminacyjnej, który wyznacza w jego miejsce do składu egzaminacyjnego innego członka Komisji Egzaminacyjnej; wyznaczony w ten sposób skład egzaminacyjny może nie spełniać wymagań określonych w ust. 1.
 § 21.
 1.
 Testy, zestawy pytań i zadań egzaminacyjnych na dany dzień egzaminu przewodniczący Komisji Egzaminacyjnej przygotowuje w sposób zapewniający poufność i przekazuje sekretarzowi Komisji Egzaminacyjnej w terminie umożliwiającym ich powielenie.
 2.
 Testy, zestawy pytań i zadania przygotowane na dany dzień egzaminu lub na kolejne, bezpośrednio po sobie następujące dni egzaminów nie powinny się powtarzać.
+Regulamin przeprowadzania egzaminu sprawdzającego kwalifikacje kandydatów na doradców podatkowych
 § 22.
 1.
 2.
@@ -327,7 +330,7 @@ Z przebiegu części pisemnej egzaminu jest sporządzany protokół, który jest
 § 28.
 Wyniki części pisemnej egzaminu są ogłaszane, przy wykorzystaniu indywidualnego numeru kandydata, w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych, w terminie 14 dni od dnia przeprowadzenia egzaminu.
 § 29.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 2..
 W terminie 3 dni od dnia ogłoszenia wyników części pisemnej egzaminu kandydat może zwrócić się do sekretarza Komisji Egzaminacyjnej pisemnie, drogą elektroniczną lub za pomocą telefaksu, z wnioskiem o udostępnienie do wglądu pracy egzaminacyjnej.
 2.
 Praca egzaminacyjna jest udostępniana w urzędzie obsługującym ministra właściwego do spraw finansów publicznych, w obecności jednego z członków Komisji Egzaminacyjnej, w terminie 10 dni od dnia ogłoszenia wyników egzaminu.
@@ -336,7 +339,7 @@ Praca egzaminacyjna jest udostępniana w urzędzie obsługującym ministra wła�
 Kandydat może wystąpić do przewodniczącego składu egzaminacyjnego z pisemnym wnioskiem o dokonanie ponownej oceny pracy, w terminie 14 dni od dnia ogłoszenia wyników części pisemnej egzaminu.
 2.
 Ponownej oceny pracy dokonuje się w terminie 21 dni od dnia otrzymania wniosku, o którym mowa w ust. 1.
-3.
+3Dodany przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 2..
 Przewodniczący składu egzaminacyjnego sporządza uzasadnienie ponownej oceny pracy egzaminacyjnej.
 § 31.
 1.
@@ -353,6 +356,7 @@ Warunkiem zdania części ustnej egzaminu jest uzyskanie co najmniej 70% maksyma
 Przepis § 27 stosuje się odpowiednio.
 4.
 Wyniki części ustnej egzaminu ogłaszane są bezpośrednio po egzaminie.
+Wynagrodzenia członków Komisji Egzaminacyjnej oraz warunki i tryb zwrotu kosztów podróży i noclegów członkom Komisji Egzaminacyjnej
 § 33.
 1.
 Przewodniczącemu Komisji Egzaminacyjnej przysługuje stałe wynagrodzenie miesięczne w wysokości 3500 zł.
@@ -372,25 +376,25 @@ b)
 dla pozostałych członków składu egzaminacyjnego:
 – 1200 zł za część pisemną,
 – 1200 zł za część ustną egzaminu;
-2a)
+2aDodany przez § 1 pkt 16 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
 dokonanie ponownej oceny pracy egzaminacyjnej – 100 zł;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 16 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 opracowanie wykazu pytań i zadań egzaminacyjnych:
 a)
 za każde 10 pytań – 200 zł,
 b)
 za każde zadanie – 200 zł;
-4)
+4Dodany przez § 1 pkt 16 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2.)
 za udział w pracach zespołu, o którym mowa w § 6 ust. 2 – 1000 zł.
 4.
 Jeżeli w trakcie części ustnej lub pisemnej egzaminu skład egzaminacyjny ulegnie zmianie, wynagrodzenie za udział w tej części egzaminu przysługuje członkom składu egzaminacyjnego proporcjonalnie do udziału w pracach składu egzaminacyjnego, z tym że łączna wysokość należnego wynagrodzenia dla składu egzaminacyjnego nie może przekroczyć 7400 zł.
-4a.
+4aDodany przez § 1 pkt 16 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Wynagrodzenie określone w ust. 3 pkt 4 wypłacane jest po podjęciu przez Komisję Egzaminacyjną uchwały w sprawie zawarcia umowy, o której mowa w art. 22 ust. 13a ustawy, będącej przedmiotem prac zespołu.
-4b.
+4bDodany przez § 1 pkt 16 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Jeżeli w trakcie prac zespołu, o którym mowa w § 6 ust. 2, jego skład ulegnie zmianie, wynagrodzenie określone w ust. 3 pkt 4 przysługuje członkom zespołu proporcjonalnie do udziału w pracach zespołu, na podstawie informacji przewodniczącego zespołu. Łączna wysokość należnego wynagrodzenia dla zespołu nie może przekroczyć 3000 zł.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 16 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Wynagrodzenia, o których mowa w ust. 1–4 i 4b, wypłacane są ze środków urzędu obsługującego ministra właściwego do spraw finansów publicznych.
-§ 34.
+§ 34W brzmieniu ustalonym przez § 1 pkt 17 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Członkom Komisji Egzaminacyjnej przysługuje zwrot kosztów podróży i noclegów obejmujący świadczenia przewidziane w przepisach o należnościach przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju, w tym diety i ryczałty, na warunkach i w trybie określonych w tych przepisach.
 2.
@@ -401,6 +405,7 @@ Członkowi Komisji Egzaminacyjnej, na jego uzasadniony wniosek, może zostać zw
 Koszt podróży samochodem prywatnym jest zwracany członkom Komisji Egzaminacyjnej w wysokości stanowiącej iloczyn przejechanych kilometrów i stawki za jeden kilometr przebiegu, ustalonej przez pracodawcę dla pracowników urzędu obsługującego ministra właściwego do spraw finansów publicznych, która nie może być wyższa niż określona w przepisach wydanych na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2016 r. poz. 1907, 1935 i 1948).
 5.
 Świadczenia, o których mowa w ust. 1–3, wypłacane są ze środków urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+Przepisy przejściowe i końcowe
 § 35.
 W przypadku gdy zawiadomienie Komisji Egzaminacyjnej o rezygnacji ze zdawania egzaminu zostało dokonane przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 36.
@@ -415,24 +420,39 @@ Do ustalania wysokości wynagrodzeń członków Komisji Egzaminacyjnej za udzia�
 § 39.
 Zwrot kosztów noclegu członkom Komisji Egzaminacyjnej poniesionych przed dniem wejścia w życie niniejszego rozporządzenia następuje do wysokości kwoty określonej w przepisach dotychczasowych.
 § 40.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia, z wyjątkiem § 31 ust. 2 i 3, który wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – finanse publiczne kieruje Minister Rozwoju i Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 29 października 2015 r. zmieniającego rozporządzenie w sprawie Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego i przeprowadzania egzaminu na doradcę podatkowego (Dz. U. poz. 1866), które weszło w życie z dniem 21 listopada 2015 r. 3) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Oznaczenie ust. 1 nadane przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 10) Oznaczenie ust. 1 nadane przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 11) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 12) Dodany przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 14) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 15) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. 16) Oznaczenie ust. 1 nadane przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. 17) Dodany przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. 18) Dodany przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 pkt 13 lit. a rozporządzenia, o którym mowa w odnośniku 2. 20) W brzmieniu ustalonym przez § 1 pkt 13 lit. b rozporządzenia, o którym mowa w odnośniku 2. 21) W brzmieniu ustalonym przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 2. 22) Dodany przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 2. 23) Dodany przez § 1 pkt 16 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 24) W brzmieniu ustalonym przez § 1 pkt 16 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 25) Dodany przez § 1 pkt 16 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 26) Dodany przez § 1 pkt 16 lit. b rozporządzenia, o którym mowa w odnośniku 2. 27) W brzmieniu ustalonym przez § 1 pkt 16 lit. c rozporządzenia, o którym mowa w odnośniku 2. 28) W brzmieniu ustalonym przez § 1 pkt 17 rozporządzenia, o którym mowa w odnośniku 2. 29) Rozporządzenie zostało ogłoszone w dniu 9 listopada 2010 r. 30) Zakres spraw uregulowany niniejszym rozporządzeniem był poprzednio uregulowany w rozporządzeniu Ministra Finansów z dnia 10 lipca 2002 r. w sprawie wykonania niektórych przepisów ustawy o doradztwie podatkowym (Dz. U. poz. 940, z 2004 r. poz. 516 oraz z 2005 r. poz. 1616), które na podstawie art. 11 ust. 2 ustawy z dnia 10 czerwca 2010 r. o zmianie ustawy o doradztwie podatkowym oraz niektórych innych ustaw (Dz. U. poz. 826), w części dotyczącej Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego i przeprowadzania egzaminów na doradcę podatkowego, utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 9 listopada 2010 r., z wyjątkiem § 31 ust. 2 i 3, który wchodzi w życie po upływie 30 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 9 listopada 2010 r..Zakres spraw uregulowany niniejszym rozporządzeniem był poprzednio uregulowany w rozporządzeniu Ministra Finansów z dnia 10 lipca 2002 r. w sprawie wykonania niektórych przepisów ustawy o doradztwie podatkowym (Dz. U. poz. 940, z 2004 r. poz. 516 oraz z 2005 r. poz. 1616), które na podstawie art. 11 ust. 2 ustawy z dnia 10 czerwca 2010 r. o zmianie ustawy o doradztwie podatkowym oraz niektórych innych ustaw (Dz. U. poz. 826), w części dotyczącej Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego i przeprowadzania egzaminów na doradcę podatkowego, utraciło moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Obecnie działem administracji rządowej – finanse publiczne kieruje Minister Rozwoju i Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 29 października 2015 r. zmieniającego rozporządzenie w sprawie Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego i przeprowadzania egzaminu na doradcę podatkowego (Dz. U. poz. 1866), które weszło w życie z dniem 21 listopada 2015 r. 3) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Oznaczenie ust. 1 nadane przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 10) Oznaczenie ust. 1 nadane przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 11) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 12) Dodany przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 14) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 15) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. 16) Oznaczenie ust. 1 nadane przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. 17) Dodany przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. 18) Dodany przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 pkt 13 lit. a rozporządzenia, o którym mowa w odnośniku 2. 20) W brzmieniu ustalonym przez § 1 pkt 13 lit. b rozporządzenia, o którym mowa w odnośniku 2. 21) W brzmieniu ustalonym przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 2. 22) Dodany przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 2. 23) Dodany przez § 1 pkt 16 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 24) W brzmieniu ustalonym przez § 1 pkt 16 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 25) Dodany przez § 1 pkt 16 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 26) Dodany przez § 1 pkt 16 lit. b rozporządzenia, o którym mowa w odnośniku 2. 27) W brzmieniu ustalonym przez § 1 pkt 16 lit. c rozporządzenia, o którym mowa w odnośniku 2. 28) W brzmieniu ustalonym przez § 1 pkt 17 rozporządzenia, o którym mowa w odnośniku 2. 29) Rozporządzenie zostało ogłoszone w dniu 9 listopada 2010 r. 30) Zakres spraw uregulowany niniejszym rozporządzeniem był poprzednio uregulowany w rozporządzeniu Ministra Finansów z dnia 10 lipca 2002 r. w sprawie wykonania niektórych przepisów ustawy o doradztwie podatkowym (Dz. U. poz. 940, z 2004 r. poz. 516 oraz z 2005 r. poz. 1616), które na podstawie art. 11 ust. 2 ustawy z dnia 10 czerwca 2010 r. o zmianie ustawy o doradztwie podatkowym oraz niektórych innych ustaw (Dz. U. poz. 826), w części dotyczącej Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego i przeprowadzania egzaminów na doradcę podatkowego, utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowe zadania i regulamin działania Komisji Egzaminacyjnej
+#### Rozdział 2 – Szczegółowe zadania i regulamin działania Komisji Egzaminacyjnej
 
-#### Rozdział 3 Szczegółowe zadania przewodniczącego i sekretarza Komisji Egzaminacyjnej, przewodniczących oraz sekretarzy składów egzaminacyjnych
+#### Rozdział 3 – Szczegółowe zadania przewodniczącego i sekretarza Komisji Egzaminacyjnej, przewodniczących oraz sekretarzy składów egzaminacyjnych
 
-#### Rozdział 4 Wniosek o dopuszczenie do egzaminu i opłata egzaminacyjna
+#### Rozdział 4 – Wniosek o dopuszczenie do egzaminu i opłata egzaminacyjna
 
-#### Rozdział 5 Sposób organizowania egzaminu
+#### Rozdział 5 – Sposób organizowania egzaminu
+
+#### Rozdział 6 – Regulamin przeprowadzania egzaminu sprawdzającego kwalifikacje kandydatów na doradców podatkowych
+
+#### Rozdział 7 – Wynagrodzenia członków Komisji Egzaminacyjnej oraz warunki i tryb zwrotu kosztów podróży i noclegów członkom Komisji Egzaminacyjnej
+
+#### Rozdział 8 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 
 ## Część pisemna egzaminu jest przeprowadzana co najmniej raz w roku. Sekretarz Komisji Egzaminacyjnej ogłasza informację o miesiącu, w którym zostanie przeprowadzona część pisemna egzaminu, w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych, z co najmniej 4-miesięcznym wyprzedzeniem.
 
 ## Część ustna egzaminu jest przeprowadzana, jeżeli do egzaminu zostało dopuszczonych co najmniej 12 kandydatów, jednakże nie rzadziej niż co 3 miesiące.
 
-#### Rozdział 6 Regulamin przeprowadzania egzaminu sprawdzającego kwalifikacje kandydatów na doradców podatkowych
+#### Rozdział 6
 
 ## Część pisemną egzaminu przeprowadza się w wydzielonej sali, w warunkach umożliwiających kandydatom samodzielną pracę.
 
@@ -444,7 +464,7 @@ Rozporządzenie wchodzi w życie z dniem ogłoszenia, z wyjątkiem § 31 ust. 2 
 
 ## Część ustna egzaminu polega na udzieleniu odpowiedzi na pytania zamieszczone w wylosowanym zestawie pytań składającym się z dziesięciu pytań.
 
-#### Rozdział 7 Wynagrodzenia członków Komisji Egzaminacyjnej oraz warunki i tryb zwrotu kosztów podróży i noclegów członkom Komisji Egzaminacyjnej
+#### Rozdział 7
 
-#### Rozdział 8 Przepisy przejściowe i końcowe
+#### Rozdział 8
 

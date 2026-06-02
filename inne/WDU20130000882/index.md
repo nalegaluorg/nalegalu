@@ -22,18 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-07-15 |
 | Data wydania | 2013-08-02 |
-| Wejście w życie | 2013-08-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000882) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/882/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 21 ust. 3, art. 22 ust. 2, art. 23 ust. 2, art. 24 ust. 2 w związku z art. 43 ust. 1 i 2, art. 44, art. 46 i art. 53 ust. 3 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2013 r. poz. 269) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 2 lutego 2010 r. w sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej i pracowników innych jednostek (Dz. U. Nr 27, poz. 134, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 2 lutego 2010 r. w sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej i pracowników innych jednostek (Dz. U. Nr 27, poz. 134, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2011 r. Nr 134, poz. 782 i Nr 206, poz. 1214 oraz z 2012 r. poz. 1403.) wprowadza się następujące zmiany:
 1)
 w załączniku nr 1 tytuł tabeli C otrzymuje brzmienie: „ „Tabela C. Tabela miesięcznych stawek wynagrodzenia zasadniczego dla pracowników, o których mowa w tabeli VI części I i X, tabeli XII części IX i XII oraz tabeli XIII części IX załącznika nr 3 do rozporządzenia ” ;
 2)
-w załączniku nr 3 w tabeli XII dodaje się część XII w brzmieniu: XII. Agencja Wywiadu 1 Starszy operator systemu XIX-XXI 7 wyższe 3 2 Starszy logistyk XVIII-XX 6 wyższe 3 3 Starszy asystent XVII-XIX 5 wyższe 2 4 Operator systemu XV-XVII – wyższe 1 5 Logistyk XIV-XVI – wyższe 1 6 Asystent XIII-XV – wyższe – 7 Młodszy operator systemu XII-XIV – średnie – 8 Młodszy logistyk XI-XIII – średnie – 9 Młodszy asystent X-XII – średnie –
+w załączniku nr 3 w tabeli XII dodaje się część XII w brzmieniu:
+XII. Agencja Wywiadu 1 Starszy operator systemu XIX-XXI 7 wyższe 3 2 Starszy logistyk XVIII-XX 6 wyższe 3 3 Starszy asystent XVII-XIX 5 wyższe 2 4 Operator systemu XV-XVII – wyższe 1 5 Logistyk XIV-XVI – wyższe 1 6 Asystent XIII-XV – wyższe – 7 Młodszy operator systemu XII-XIV – średnie – 8 Młodszy logistyk XI-XIII – średnie – 9 Młodszy asystent X-XII – średnie –
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2011 r. Nr 134, poz. 782 i Nr 206, poz. 1214 oraz z 2012 r. poz. 1403.
 

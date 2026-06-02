@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-02-19 |
 | Data wydania | 2016-03-09 |
-| Wejście w życie | 2016-03-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000302) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/302/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 109 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 109 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 1083, z 1999 r. poz. 931, z 2000 r. poz. 701 i 1268, z 2001 r. poz. 1071 i 1194, z 2002 r. poz. 676 i 1679, z 2003 r. poz. 1061, 1380 i 1750, z 2004 r. poz. 889, 2135, 2405, poz. 2426 i 2703, z 2005 r. poz. 1363 i 1479, z 2006 r. poz. 708 i 1648, z 2007 r. poz. 849, z 2008 r. poz. 620 i 1344, z 2009 r. poz. 39, 119, 504, 817, 911, 963, 1475, 1540 i 1589, z 2010 r. poz. 191, 227, 842 i 1228, z 2011 r. poz. 201, 202, 654, 734, 1092, 1280 i 1431, z 2012 r. poz. 908, z 2013 r. poz. 628 i 1247, z 2014 r. poz. 287, 619 i 1707 oraz z 2015 r. poz. 21, 396, 431, 541, 1269 i 1573.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -139,5 +138,5 @@ Zmiana posiłków przygotowanych z uwzględnieniem wymogów religijnych lub kult
 3.
 Do określenia wartości odżywczej i energetycznej posiłków przygotowanych z uwzględnieniem wymogów religijnych lub kulturowych, a także ich minimalnego dziennego kosztu stosuje się przepisy § 3 i § 5.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 2 września 2003 r. w sprawie określenia wartości dziennej normy wyżywienia oraz rodzaju diet wydawanych osobom osadzonym w zakładach karnych i aresztach śledczych (Dz. U. poz. 1633, z 2005 r. poz. 457 oraz z 2011 r. poz. 1402), które traci moc na podstawie art. 27 pkt 1 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396) z dniem wejścia w życie niniejszego rozporządzenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 1083, z 1999 r. poz. 931, z 2000 r. poz. 701 i 1268, z 2001 r. poz. 1071 i 1194, z 2002 r. poz. 676 i 1679, z 2003 r. poz. 1061, 1380 i 1750, z 2004 r. poz. 889, 2135, 2405, poz. 2426 i 2703, z 2005 r. poz. 1363 i 1479, z 2006 r. poz. 708 i 1648, z 2007 r. poz. 849, z 2008 r. poz. 620 i 1344, z 2009 r. poz. 39, 119, 504, 817, 911, 963, 1475, 1540 i 1589, z 2010 r. poz. 191, 227, 842 i 1228, z 2011 r. poz. 201, 202, 654, 734, 1092, 1280 i 1431, z 2012 r. poz. 908, z 2013 r. poz. 628 i 1247, z 2014 r. poz. 287, 619 i 1707 oraz z 2015 r. poz. 21, 396, 431, 541, 1269 i 1573. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 2 września 2003 r. w sprawie określenia wartości dziennej normy wyżywienia oraz rodzaju diet wydawanych osobom osadzonym w zakładach karnych i aresztach śledczych (Dz. U. poz. 1633, z 2005 r. poz. 457 oraz z 2011 r. poz. 1402), które traci moc na podstawie art. 27 pkt 1 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396) z dniem wejścia w życie niniejszego rozporządzenia.
 

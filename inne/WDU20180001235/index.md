@@ -33,17 +33,15 @@ Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og�
 1)
 ustawą z dnia 8 maja 2003 r. o zmianie ustawy o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju (Dz. U. Nr 113, poz. 1068),
 2)
-ustawą z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 czerwca 2018 r.
+ustawą z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 czerwca 2018 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 2 ustawy z dnia 8 maja 2003 r. o zmianie ustawy o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju (Dz. U. Nr 113, poz. 1068), który stanowi:
-„
+art. 2 ustawy z dnia 8 maja 2003 r. o zmianie ustawy o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju (Dz. U. Nr 113, poz. 1068), który stanowi: „
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 
-- **2)** odnośnika nr 1 oraz art. 574 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566), które stanowią: „
+- **2)** odnośnika nr 1 oraz art. 574 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566), które stanowią: „ 1) Niniejsza ustawa w zakresie swojej regulacji wdraża:
 - **1)** dyrektywę Rady 91/271/EWG z dnia 21 maja 1991 r. dotyczącą oczyszczania ścieków komunalnych (Dz. Urz. WE L 135 z 30.05.1991, str. 40, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 26, Dz. Urz. WE L 67 z 07.03.1998, str. 29 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 4, str. 27, Dz. Urz. UE L 284 z 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447, Dz. Urz. UE L 311 z 21.11.2008, str. 1, z późn. zm. oraz Dz. Urz. UE L 353 z 28.12.2013, str. 8);
 - **2)** dyrektywę Rady 91/676/EWG z dnia 12 grudnia 1991 r. dotyczącą ochrony wód przed zanieczyszczeniami powodowanymi przez azotany pochodzenia rolniczego (Dz. Urz. WE L 375 z 31.12.1991, str. 1 z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 68, Dz. Urz. UE L 284 z 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447 oraz Dz. Urz. UE L 31 z 21.11.2008, str. 1, z późn. zm.);
 - **3)** dyrektywę 2000/60/WE Parlamentu Europejskiego i Rady z dnia 23 października 2000 r. ustanawiającą ramy wspólnotowego działania w dziedzinie polityki wodnej (Dz. Urz. WE L 327 z 22.12.2000, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 5, str. 275, Dz. Urz. WE L 331 z 15.12.2001, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 358, Dz. Urz. UE L 81 z 20.03.2008, str. 60, Dz. Urz. UE L 348 z 24.12.2008, str. 84, z późn. zm., Dz. Urz. UE L 140 z 05.06.2009, str. 114, z późn. zm., Dz. Urz. UE L 226 z 24.08.2013, str. 1, Dz. Urz. UE L 353 z 28.12.2013, str. 8 oraz Dz. Urz. UE L 311 z 31.10.2010, str. 32);
@@ -61,12 +59,11 @@ art. 2 ustawy z dnia 8 maja 2003 r. o zmianie ustawy o zachowaniu narodowego cha
 - **4)** art. 274 pkt 1, który wchodzi w życie z dniem 1 stycznia 2020 r.;
 - **5)** art. 36 ust. 1–3 oraz 6 i 7 oraz art. 303 ust. 1 i 4, które wchodzą w życie z dniem 1 stycznia 2021 r. ” . Załącznik – Tekst jednolity ustawy z dnia 6 lipca 2001 r. o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju
 
-**Art. 1.** Do strategicznych zasobów naturalnych kraju zalicza się:
+**Art. 1.** Do strategicznych zasobów naturalnych kraju zalicza się: 1W brzmieniu ustalonym przez art. 495 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566), która weszła w życie z dniem 1 stycznia 2018 r.) wody podziemne oraz wody powierzchniowe w ciekach naturalnych i w źródłach, z których te cieki biorą początek, w kanałach, w jeziorach i w zbiornikach wodnych o ciągłym dopływie w rozumieniu przepisów ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650 i 710);
 
-- **1)** wody podziemne oraz wody powierzchniowe w ciekach naturalnych i w źródłach, z których te cieki biorą początek, w kanałach, w jeziorach i w zbiornikach wodnych o ciągłym dopływie w rozumieniu przepisów ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650 i 710);
 - **2)** wody polskich obszarów morskich wraz z pasmem nadbrzeżnym i ich naturalnymi zasobami żywymi i mineralnymi, a także zasobami naturalnymi dna i wnętrza ziemi znajdującego się w granicach tych obszarów w rozumieniu ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2017 r. poz. 2205 oraz z 2018 r. poz. 317);
 - **3)** lasy państwowe;
-- **4)** złoża kopalin niestanowiące części składowych nieruchomości gruntowej w rozumieniu ustawy z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. z 2005 r. poz. 1947, z późn. zm.);
+- **4)** złoża kopalin niestanowiące części składowych nieruchomości gruntowej w rozumieniu ustawy z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. z 2005 r. poz. 1947, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. poz. 934, 1217, 1399 i 1834, z 2007 r. poz. 125 i 556, z 2008 r. poz. 865, 958, 1227 i 1505, z 2009 r. poz. 97, z 2010 r. poz. 278 i 489 oraz z 2011 r. poz. 622 i 766.)Obecnie ustawa z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2017 r. poz. 2126 oraz z 2018 r. poz. 650 i 723), która weszła w życie z dniem 1 stycznia 2012 r. na podstawie art. 225 tej ustawy.;
 - **5)** zasoby przyrodnicze parków narodowych. Zasoby naturalne wymienione w art. 1 stanowiące własność Skarbu Państwa nie podlegają przekształceniom własnościowym, z zastrzeżeniem przepisów zawartych w ustawach szczególnych.
 
 **Art. 3.** Gospodarowanie strategicznymi zasobami naturalnymi jest prowadzone zgodnie z zasadą zrównoważonego rozwoju w interesie dobra ogólnego.
@@ -80,7 +77,7 @@ art. 2 ustawy z dnia 8 maja 2003 r. o zmianie ustawy o zachowaniu narodowego cha
 
 1. Świadczenia pozaprodukcyjne zasobów naturalnych Skarbu Państwa na potrzeby własne ludności, szczególnie rekreacja oraz niekomercyjny zbiór runa leśnego, są nieodpłatne.
 
-2. (uchylony)
+2. (uchylony)Przez art. 1 pkt 2 ustawy z dnia 8 maja 2003 r. o zmianie ustawy o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju (Dz. U. poz. 1068), która weszła w życie z dniem 15 lipca 2003 r.
 
 **Art. 6.**
 
@@ -90,5 +87,5 @@ art. 2 ustawy z dnia 8 maja 2003 r. o zmianie ustawy o zachowaniu narodowego cha
 
 **Art. 7.** Roszczenia osób fizycznych, byłych właścicieli lub ich spadkobierców, z tytułu utraty własności zasobów wymienionych w art. 1, zaspokojone zostaną w formie rekompensat wypłaconych ze środków budżetu państwa na podstawie odrębnych przepisów.
 
-**Art. 8.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie z dniem ogłoszeniaUstawa została ogłoszona w dniu 11 września 2001 r.. 1) W brzmieniu ustalonym przez art. 495 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566), która weszła w życie z dniem 1 stycznia 2018 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. poz. 934, 1217, 1399 i 1834, z 2007 r. poz. 125 i 556, z 2008 r. poz. 865, 958, 1227 i 1505, z 2009 r. poz. 97, z 2010 r. poz. 278 i 489 oraz z 2011 r. poz. 622 i 766. 3) Obecnie ustawa z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2017 r. poz. 2126 oraz z 2018 r. poz. 650 i 723), która weszła w życie z dniem 1 stycznia 2012 r. na podstawie art. 225 tej ustawy. 4) Przez art. 1 pkt 2 ustawy z dnia 8 maja 2003 r. o zmianie ustawy o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju (Dz. U. poz. 1068), która weszła w życie z dniem 15 lipca 2003 r. 5) Ustawa została ogłoszona w dniu 11 września 2001 r.
 

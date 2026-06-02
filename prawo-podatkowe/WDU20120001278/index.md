@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-10-24 |
 | Data wydania | 2012-11-20 |
-| Wejście w życie | 2013-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001278) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1278/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596 i 769.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w ust. 1 pkt 2 otrzymuje brzmienie: „
 - **2)** przychodów z gospodarki leśnej w rozumieniu ustawy o lasach; ” ;
@@ -95,5 +94,5 @@ source: "eli-html"
 
 **Art. 3.** Ustawa ma zastosowanie do dochodów uzyskanych (strat poniesionych) od dnia 1 stycznia 2013 r.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2013 r.
+**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2013 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596 i 769.
 

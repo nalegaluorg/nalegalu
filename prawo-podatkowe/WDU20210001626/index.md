@@ -22,15 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-11 |
 | Data wydania | 2021-09-06 |
-| Wejście w życie | 2021-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001626) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1626/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2021 r. poz. 685, 694, 802, 1163, 1243 i 1598) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: w pkt 2 po wyrazach „Unii Europejskiej” dodaje się wyrazy „, a także Irlandię Północną w zakresie określonym w Protokole w sprawie Irlandii / Irlandii Północnej do Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm.)”, w pkt 3: – w lit. a skreśla się wyrazy „wyspę Man traktuje się jako terytorium Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej,”, – w lit. b uchyla się tiret siódme, – uchyla się lit. c, – dodaje się lit. d w brzmieniu: „ d) Irlandię Północną traktuje się jako terytorium Unii Europejskiej w zakresie określonym w Protokole w sprawie Irlandii / Irlandii Północnej do Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej; ” ;
+- **1)** w art. 2: w pkt 2 po wyrazach „Unii Europejskiej” dodaje się wyrazy „, a także Irlandię Północną w zakresie określonym w Protokole w sprawie Irlandii / Irlandii Północnej do Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm.Zmiany wymienionej umowy zostały ogłoszone w Dz. Urz. UE L 225 z 14.07.2020, str. 53 oraz Dz. Urz. UE L 443 z 30.12.2020, str. 3.)”, w pkt 3: – w lit. a skreśla się wyrazy „wyspę Man traktuje się jako terytorium Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej,”, – w lit. b uchyla się tiret siódme, – uchyla się lit. c, dodaje się lit. d w brzmieniu: „ Irlandię Północną traktuje się jako terytorium Unii Europejskiej w zakresie określonym w Protokole w sprawie Irlandii / Irlandii Północnej do Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej; ” ;
     - **a)**
     - **b)**
+    - **d)**
 
 - **2)** w art. 22: po ust. 2d dodaje się ust. 2e w brzmieniu: „
     - **a)**
@@ -58,7 +58,7 @@ source: "eli-html"
 - **6)** w art. 43: w ust. 10 pkt 2 otrzymuje brzmienie: „
     - **a)**
 
-- **2)** złożą: przed dniem dokonania dostawy tych obiektów właściwemu dla ich nabywcy naczelnikowi urzędu skarbowego lub w akcie notarialnym, do zawarcia którego dochodzi w związku z dostawą tych obiektów zgodne oświadczenie, że wybierają opodatkowanie dostawy budynku, budowli lub ich części. ” , w ust. 11 pkt 2 otrzymuje brzmienie: „
+- **2)** złożą: przed dniem dokonania dostawy tych obiektów właściwemu dla ich nabywcy naczelnikowi urzędu skarbowego lub w akcie notarialnym, do zawarcia którego dochodzi w związku z dostawą tych obiektów – zgodne oświadczenie, że wybierają opodatkowanie dostawy budynku, budowli lub ich części. ” , w ust. 11 pkt 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **b)**
@@ -74,7 +74,7 @@ source: "eli-html"
 13. Jeżeli podatnik nie dokonał obniżenia kwoty podatku należnego o kwotę podatku naliczonego w terminach, o których mowa w ust. 10, 10d, 10e i 11, może on obniżyć kwotę podatku należnego przez dokonanie korekty deklaracji podatkowej:
 
 - **1)** za okres, w którym powstało prawo do obniżenia kwoty podatku należnego, albo
-- **2)** za jeden z trzech następnych okresów rozliczeniowych, a w przypadku podatnika, o którym mowa w art. 99 ust. 2 i 3, za jeden z dwóch następnych okresów rozliczeniowych, po okresie rozliczeniowym, w którym powstało prawo do obniżenia kwoty podatku należnego nie później jednak niż w ciągu 5 lat, licząc od początku roku, w którym powstało prawo do obniżenia kwoty podatku należnego. ” , po ust. 19b dodaje się ust. 19c w brzmieniu: „
+- **2)** za jeden z trzech następnych okresów rozliczeniowych, a w przypadku podatnika, o którym mowa w art. 99 ust. 2 i 3, za jeden z dwóch następnych okresów rozliczeniowych, po okresie rozliczeniowym, w którym powstało prawo do obniżenia kwoty podatku należnego – nie później jednak niż w ciągu 5 lat, licząc od początku roku, w którym powstało prawo do obniżenia kwoty podatku należnego. ” , po ust. 19b dodaje się ust. 19c w brzmieniu: „
     - **e)**
 
 19c. W przypadkach obniżenia podstawy opodatkowania, o których mowa w art. 29a ust. 15a i art. 30a ust. 1a, nabywca towaru lub usługi jest obowiązany do zmniejszenia kwoty podatku naliczonego w rozliczeniu za okres rozliczeniowy, w którym dokonał korekty podstawy opodatkowania. ” ;
@@ -87,8 +87,11 @@ source: "eli-html"
 
 14. W przypadku zmiany wykorzystywania pojazdu samochodowego podatnik jest obowiązany do aktualizacji informacji, o której mowa w ust. 12, najpóźniej do końca miesiąca, w którym dokonał tej zmiany. ” ;
 
-- **10)** w art. 89a: w ust. 2: – uchyla się pkt 1, – w pkt 3: – – lit. a otrzymuje brzmienie: „ a) wierzyciel jest podatnikiem zarejestrowanym jako podatnik VAT czynny, ” , – – uchyla się lit. b, – pkt 5 otrzymuje brzmienie: „ 5) od daty wystawienia faktury dokumentującej wierzytelność nie upłynęły 3 lata, licząc od końca roku, w którym została wystawiona. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **10)** w art. 89a: w ust. 2: – uchyla się pkt 1, w pkt 3: – lit. a otrzymuje brzmienie: „ wierzyciel jest podatnikiem zarejestrowanym jako podatnik VAT czynny, ” , – – uchyla się lit. b, pkt 5 otrzymuje brzmienie: „
     - **a)**
+    - **a)**
+
+- **5)** od daty wystawienia faktury dokumentującej wierzytelność nie upłynęły 3 lata, licząc od końca roku, w którym została wystawiona. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. W przypadku dostawy towaru lub świadczenia usług dokonanych na rzecz podmiotu innego niż podatnik, o którym mowa w art. 15 ust. 1, zarejestrowany jako podatnik VAT czynny, korekta, o której mowa w ust. 1, może zostać dokonana, jeżeli:
@@ -125,11 +128,12 @@ source: "eli-html"
 - **2)** nieposiadający siedziby działalności gospodarczej lub stałego miejsca prowadzenia działalności gospodarczej na terytorium kraju, przy czym przepisy ust. 9 pkt 2, ust. 11 i 12 stosuje się odpowiednio. ” ;
 - **13)** w załączniku nr 15 do ustawy poz. 60 otrzymuje brzmienie: 60 26.20.1 Komputery i pozostałe maszyny do automatycznego przetwarzania danych oraz części i akcesoria do nich
 
-**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2020 r. poz. 1896, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2020 r. poz. 1896, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2320 i 2419 oraz z 2021 r. poz. 432, 680, 815, 1177 i 1598.) wprowadza się następujące zmiany:
 
-- **1)** w art. 62b: w ust. 1 w pkt 3 skreśla się wyrazy „prowadzonego w tym samym banku”, w ust. 2: – w pkt 2 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ c) należności z tytułu składek na ubezpieczenie społeczne rolników, o których mowa w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2021 r. poz. 266, 1535 i 1621), oraz należności z tytułu składek na ubezpieczenie zdrowotne, o których mowa w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, 1292 i 1559), do poboru których obowiązana jest Kasa Rolniczego Ubezpieczenia Społecznego; ” , – w pkt 6 we wprowadzeniu do wyliczenia skreśla się wyrazy „prowadzony w tym samym banku”;
+- **1)** w art. 62b: w ust. 1 w pkt 3 skreśla się wyrazy „prowadzonego w tym samym banku”, w ust. 2: w pkt 2 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ należności z tytułu składek na ubezpieczenie społeczne rolników, o których mowa w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2021 r. poz. 266, 1535 i 1621), oraz należności z tytułu składek na ubezpieczenie zdrowotne, o których mowa w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, 1292 i 1559), do poboru których obowiązana jest Kasa Rolniczego Ubezpieczenia Społecznego; ” , – w pkt 6 we wprowadzeniu do wyliczenia skreśla się wyrazy „prowadzony w tym samym banku”;
     - **a)**
     - **b)**
+    - **c)**
 
 - **2)** w art. 62c: ust. 12 i 13 otrzymują brzmienie: „
     - **a)**
@@ -161,6 +165,6 @@ source: "eli-html"
 **Art. 7.** Ustawa wchodzi w życie z dniem 1 października 2021 r., z wyjątkiem:
 
 - **1)** art. 1 pkt 5 i pkt 8 lit. a-c oraz art. 3, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 2 pkt 1 lit. b tiret pierwsze, który wchodzi w życie z dniem 1 stycznia 2022 r.
+- **2)** art. 2 pkt 1 lit. b tiret pierwsze, który wchodzi w życie z dniem 1 stycznia 2022 r. 1) Zmiany wymienionej umowy zostały ogłoszone w Dz. Urz. UE L 225 z 14.07.2020, str. 53 oraz Dz. Urz. UE L 443 z 30.12.2020, str. 3. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2320 i 2419 oraz z 2021 r. poz. 432, 680, 815, 1177 i 1598.
 
 

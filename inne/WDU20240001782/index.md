@@ -26,13 +26,19 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001782) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1782/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi Rozdział 1 – Przepisy ogólne Rozdział 2 – Dawcy krwi Rozdział 3 – Pobieranie krwi i jej składników oraz preparatyka Rozdział 4 – Wydawanie krwi i jej składników Rozdział 5 – Krwiolecznictwo Rozdział 6 – Organizacja publicznej służby krwi Rozdział 6a – Czuwanie nad bezpieczeństwem krwi i jej składników Rozdział 7 – Przepisy karne Rozdział 8 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2024 r. poz. 281), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 24 lipca 2024 r. o zmianie ustawy o publicznej służbie krwi (Dz. U. poz. 1229) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 listopada 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 24 lipca 2024 r. o zmianie ustawy o publicznej służbie krwi (Dz. U. poz. 1229), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 24 lipca 2024 r. o zmianie ustawy o publicznej służbie krwi (Dz. U. poz. 1229), który stanowi: „
+Przepisy ogólne
+Dawcy krwi
+Pobieranie krwi i jej składników oraz preparatyka
+Wydawanie krwi i jej składników
+Krwiolecznictwo
+Organizacja publicznej służby krwi
+Czuwanie nad bezpieczeństwem krwi i jej składników
 1.
 Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2–4, prowadzą system czuwania nad bezpieczeństwem krwi i jej składników pobranych, badanych, przetwarzanych, przechowywanych, wydawanych lub rozprowadzanych na terytorium Rzeczypospolitej Polskiej, zwany dalej „systemem czuwania”, który umożliwia prześledzenie drogi krwi i jej składników od dawcy krwi do biorcy krwi i odwrotnie. Systemem czuwania są objęte podmioty lecznicze, w których dokonuje się przetoczeń biorcom krwi.
 2.
@@ -57,10 +63,30 @@ Podmiot leczniczy dokonujący przetoczenia krwi lub jej składników jest obowi�
 W przypadku wystąpienia poważnego niepożądanego zdarzenia lub poważnej niepożądanej reakcji kierownik właściwej jednostki organizacyjnej publicznej służby krwi lub upoważniona przez niego osoba dokonuje kontroli postępowania w związku z zabiegiem przetoczenia oraz udziela wskazówek dotyczących postępowania po wystąpieniu poważnego niepożądanego zdarzenia lub poważnej niepożądanej reakcji. O wynikach kontroli i udzielonych wskazówkach właściwa jednostka organizacyjna publicznej służby krwi, o której mowa w art. 23 ust. 3a, 4a i 5a, informuje kontrolowany podmiot oraz jednostkę, która przygotowała dany składnik krwi.
 3.
 Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2–4, oraz podmioty lecznicze są obowiązane przechowywać dane niezbędne do monitorowania drogi krwi i jej składników przez okres 30 lat, licząc od końca roku kalendarzowego, w którym dokonano ostatniego wpisu, na zasadach określonych w ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581).
+Przepisy karne
+Przepisy przejściowe i końcowe
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 2 – Dawcy krwi
+
+#### Rozdział 3 – Pobieranie krwi i jej składników oraz preparatyka
+
+#### Rozdział 4 – Wydawanie krwi i jej składników
+
+#### Rozdział 5 – Krwiolecznictwo
+
+#### Rozdział 6 – Organizacja publicznej służby krwi
+
+#### Rozdział 6a – Czuwanie nad bezpieczeństwem krwi i jej składników
+
+#### Rozdział 7 – Przepisy karne
+
+#### Rozdział 8 – Przepisy przejściowe i końcowe
+
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwiNiniejsza ustawa w zakresie swojej regulacji wdraża: 1) dyrektywę 2002/98/WE Parlamentu Europejskiego i Rady z dnia 27 stycznia 2003 r. ustanawiającą normy jakości i bezpiecznego pobierania, badania, preparatyki, przechowywania, wydawania krwi ludzkiej i składników krwi oraz zmieniającą dyrektywę 2001/83/WE (Dz. Urz. UE L 33 z 08.02.2003, str. 30 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 346, Dz. Urz. UE L 230 z 04.08.2006, str. 12, Dz. Urz. UE L 188 z 18.07.2009, str. 14 oraz Dz. Urz. UE L 98 z 15.04.2015, str. 11); 2) dyrektywę Komisji 2004/33/WE z dnia 22 marca 2004 r. wykonującą dyrektywę 2002/98/WE Parlamentu Europejskiego i Rady w zakresie niektórych wymagań technicznych dotyczących krwi i składników krwi (Dz. Urz. UE L 91 z 30.03.2004, str. 25 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 272, Dz. Urz. UE L 288 z 04.11.2009, str. 7, Dz. Urz. UE L 97 z 12.04.2011, str. 28 oraz Dz. Urz. UE L 366 z 20.12.2014, str. 81); 3) dyrektywę Komisji 2005/61/WE z dnia 30 września 2005 r. wykonującą dyrektywę 2002/98/WE Parlamentu Europejskiego i Rady w zakresie wymogów dotyczących śledzenia losów krwi oraz powiadamiania o poważnych, niepożądanych reakcjach i zdarzeniach (Dz. Urz. UE L 256 z 01.10.2005, str. 32); 4) dyrektywę Komisji 2005/62/WE z dnia 30 września 2005 r. wykonującą dyrektywę 2002/98/WE Parlamentu Europejskiego i Rady w zakresie norm i specyfikacji wspólnotowych odnoszących się do systemu jakości obowiązującego w placówkach służby krwi (Dz. Urz. UE L 256 z 01.10.2005, str. 41 oraz Dz. Urz. UE L 199 z 26.07.2016, str. 14).
+
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa:
 
@@ -79,7 +105,7 @@ Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 
     - **c)**
 
 - **2)** testowania, przetwarzania, przechowywania i dystrybucji komórek i tkanek ludzkich;
-- **3)** pobierania krwi i jej składników w celu: wykonywania czynności diagnostycznych, naukowo-badawczym, leczniczym innym niż do przetoczenia biorcy krwi. Krew i jej składniki są pobierane, na zasadach określonych w ustawie, w celach leczniczych do przetoczenia biorcy krwi, przetworzenia w produkty krwiopochodne, o których mowa w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz. 686), lub jako materiał wyjściowy do produkcji wyrobów medycznych, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), oraz rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.), zwanych dalej „wyrobami medycznymi”.
+- **3)** pobierania krwi i jej składników w celu: wykonywania czynności diagnostycznych, naukowo-badawczym, leczniczym innym niż do przetoczenia biorcy krwi. Krew i jej składniki są pobierane, na zasadach określonych w ustawie, w celach leczniczych do przetoczenia biorcy krwi, przetworzenia w produkty krwiopochodne, o których mowa w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz. 686), lub jako materiał wyjściowy do produkcji wyrobów medycznych, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 9, Dz. Urz. UE L 334 z 27.12.2019, str. 165, Dz. Urz. UE L 130 z 24.04.2020, str. 18 i Dz. Urz. UE L 241 z 08.07.2021, str. 7., oraz rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 11, Dz. Urz. UE L 334 z 27.12.2019, str. 167 i Dz. Urz. UE L 233 z 01.07.2021, str. 9., zwanych dalej „wyrobami medycznymi”.
     - **a)**
     - **b)**
     - **c)**
@@ -130,7 +156,7 @@ Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 
 - **23)** system zapewnienia jakości – działania, od pobrania krwi lub jej składników do ich wydania, mające na celu zagwarantowanie, że jakość krwi i jej składników odpowiada wymaganym normom;
 - **24)** zarządzanie jakością – skoordynowane działania polegające na kierowaniu organizacją systemu jakości w jednostkach organizacyjnych publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2–4, oraz nadzorowaniu tych jednostek.
 
-#### Rozdział 2 Dawcy krwi
+#### Rozdział 2
 
 **Art. 6.**
 
@@ -141,17 +167,17 @@ Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 
 3. Dawcy krwi:
 
 - **1)** kobiecie, która oddała w dowolnym okresie co najmniej 5 litrów krwi lub odpowiadającą tej objętości ilość jej składników,
-- **2)** mężczyźnie, który oddał w dowolnym okresie co najmniej 6 litrów krwi lub odpowiadającą tej objętości ilość jej składników przysługuje tytuł „Zasłużony Honorowy Dawca Krwi III stopnia” i brązowa odznaka honorowa „Zasłużony Honorowy Dawca Krwi III stopnia”.
+- **2)** mężczyźnie, który oddał w dowolnym okresie co najmniej 6 litrów krwi lub odpowiadającą tej objętości ilość jej składników – przysługuje tytuł „Zasłużony Honorowy Dawca Krwi III stopnia” i brązowa odznaka honorowa „Zasłużony Honorowy Dawca Krwi III stopnia”.
 
 4. Dawcy krwi:
 
 - **1)** kobiecie, która oddała w dowolnym okresie co najmniej 10 litrów krwi lub odpowiadającą tej objętości ilość jej składników,
-- **2)** mężczyźnie, który oddał w dowolnym okresie co najmniej 12 litrów krwi lub odpowiadającą tej objętości ilość jej składników przysługuje tytuł „Zasłużony Honorowy Dawca Krwi II stopnia” i srebrna odznaka honorowa „Zasłużony Honorowy Dawca Krwi II stopnia”.
+- **2)** mężczyźnie, który oddał w dowolnym okresie co najmniej 12 litrów krwi lub odpowiadającą tej objętości ilość jej składników – przysługuje tytuł „Zasłużony Honorowy Dawca Krwi II stopnia” i srebrna odznaka honorowa „Zasłużony Honorowy Dawca Krwi II stopnia”.
 
 5. Dawcy krwi:
 
 - **1)** kobiecie, która oddała w dowolnym okresie co najmniej 15 litrów krwi lub odpowiadającą tej objętości ilość jej składników,
-- **2)** mężczyźnie, który oddał w dowolnym okresie co najmniej 18 litrów krwi lub odpowiadającą tej objętości ilość jej składników przysługuje tytuł „Zasłużony Honorowy Dawca Krwi I stopnia” i złota odznaka honorowa „Zasłużony Honorowy Dawca Krwi I stopnia”.
+- **2)** mężczyźnie, który oddał w dowolnym okresie co najmniej 18 litrów krwi lub odpowiadającą tej objętości ilość jej składników – przysługuje tytuł „Zasłużony Honorowy Dawca Krwi I stopnia” i złota odznaka honorowa „Zasłużony Honorowy Dawca Krwi I stopnia”.
 
 6. Odznakę, o której mowa w ust. 3–5, wraz z legitymacją „Zasłużonego Honorowego Dawcy Krwi”, wydaje Polski Czerwony Krzyż, na podstawie danych przekazanych przez jednostkę organizacyjną publicznej służby krwi, w której dawca krwi oddał krew lub jej składniki o objętości uprawniającej do nadania tej odznaki. O wydaniu odznaki wraz z legitymacją Polski Czerwony Krzyż zawiadamia jednostkę organizacyjną publicznej służby krwi, która przekazała dane, będące podstawą jej nadania. Przekazanie danych przez jednostkę organizacyjną publicznej służby krwi do Polskiego Czerwonego Krzyża wymaga zgody dawcy krwi wyrażonej w formie pisemnej.
 
@@ -172,7 +198,7 @@ Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 
 
 - **1)** wzory odznak, o których mowa w ust. 3–5,
 - **2)** wzory legitymacji, o których mowa w ust. 2 i 6,
-- **3)** zakres i sposób prowadzenia ewidencji, o której mowa w ust. 7 mając na celu zapewnienie sprawnego wydawania legitymacji i odznak, prawidłowego dokumentowania nadanych tytułów, prawdziwości danych i jednolitości tych wzorów oraz uwzględniając stopnie nadawanych odznak.
+- **3)** zakres i sposób prowadzenia ewidencji, o której mowa w ust. 7 – mając na celu zapewnienie sprawnego wydawania legitymacji i odznak, prawidłowego dokumentowania nadanych tytułów, prawdziwości danych i jednolitości tych wzorów oraz uwzględniając stopnie nadawanych odznak.
 
 **Art. 7.**
 
@@ -200,9 +226,7 @@ Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 
     - **a)**
     - **b)**
 
-- **2)** sposób dokumentowania objętości oddanej krwi lub równoważnej ilości jej składników do celów nadania odznaki „Honorowy Dawca Krwi – Zasłużony dla Zdrowia Narodu” mając na uwadze zapewnienie jednolitości tych wzorów oraz uwzględniając dane, które powinien zawierać wniosek, oraz objętość oddanej krwi lub równoważnej ilości jej składników, a także potrzebę zachowania jednolitości dokumentowania objętości oddanej krwi lub jej składników oraz sprawnego trybu nadawania odznaki.
-
-**Art. 8.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, ilość oddanych składników krwi odpowiadającą litrowi oddanej krwi, która uprawnia do tytułów i odznak, o których mowa w art. 6 ust. 3–5 i art. 7 ust. 1, mając na celu zapewnienie prawidłowego i jednolitego przeliczania donacji składników krwi na krew, przy uwzględnieniu rozwoju technologii w medycynie i nowych typów urządzeń do pobierania składników krwi.
+- **2)** sposób dokumentowania objętości oddanej krwi lub równoważnej ilości jej składników do celów nadania odznaki „Honorowy Dawca Krwi – Zasłużony dla Zdrowia Narodu” – mając na uwadze zapewnienie jednolitości tych wzorów oraz uwzględniając dane, które powinien zawierać wniosek, oraz objętość oddanej krwi lub równoważnej ilości jej składników, a także potrzebę zachowania jednolitości dokumentowania objętości oddanej krwi lub jej składników oraz sprawnego trybu nadawania odznaki. Art. 8W brzmieniu ustalonym przez art. 1 ustawy z dnia 24 lipca 2024 r. o zmianie ustawy o publicznej służbie krwi (Dz. U. poz. 1229), która weszła w życie z dniem 27 sierpnia 2024 r.. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, ilość oddanych składników krwi odpowiadającą litrowi oddanej krwi, która uprawnia do tytułów i odznak, o których mowa w art. 6 ust. 3–5 i art. 7 ust. 1, mając na celu zapewnienie prawidłowego i jednolitego przeliczania donacji składników krwi na krew, przy uwzględnieniu rozwoju technologii w medycynie i nowych typów urządzeń do pobierania składników krwi.
 
 **Art. 9.**
 
@@ -220,7 +244,7 @@ Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 
 1. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii:
 
 - **1)** (uchylony)
-- **2)** honorowemu dawcy krwi, który oddał co najmniej 3 donacje krwi lub jej składników, w tym osocze po chorobie COVID-19, przysługuje ulga w wysokości 33 % na przejazdy w komunikacji krajowej środkami publicznego transportu zbiorowego: kolejowego w 1 i 2 klasie pociągów osobowych i pospiesznych oraz autobusowego w komunikacji zwykłej i przyspieszonej, kolejowego w 2 klasie pociągów innych niż osobowe i pospieszne na podstawie biletów jednorazowych.
+- **2)** honorowemu dawcy krwi, który oddał co najmniej 3 donacje krwi lub jej składników, w tym osocze po chorobie COVID-19, przysługuje ulga w wysokości 33 % na przejazdy w komunikacji krajowej środkami publicznego transportu zbiorowego: kolejowego w 1 i 2 klasie pociągów osobowych i pospiesznych oraz autobusowego w komunikacji zwykłej i przyspieszonej, kolejowego w 2 klasie pociągów innych niż osobowe i pospieszne – na podstawie biletów jednorazowych.
     - **a)**
     - **b)**
 
@@ -256,7 +280,7 @@ Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 
 
 2. Oznakowanie opakowań krwi i opakowań składników krwi nie może zawierać danych umożliwiających identyfikację dawcy krwi przez biorcę krwi lub inną osobę albo jednostkę organizacyjną inną niż jednostka organizacyjna publicznej służby krwi. Nie dotyczy to pobrania autologicznego.
 
-#### Rozdział 3 Pobieranie krwi i jej składników oraz preparatyka
+#### Rozdział 3
 
 **Art. 14.**
 
@@ -338,7 +362,7 @@ Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 
 
 1. Pobieranie krwi lub jej składników jest dopuszczalne przy zachowaniu następujących warunków:
 
-- **1)** kandydat na dawcę krwi lub dawca krwi został w sposób dla niego zrozumiały poinformowany przez: lekarza albo pielęgniarkę posiadającą tytuł magistra pielęgniarstwa, która przeprowadziła, pod nadzorem lekarza, co najmniej 100 kwalifikacji dawców do oddania krwi lub jej składników którzy spełniają wymagania określone w przepisach wydanych na podstawie art. 14 ust. 1i, o istocie zabiegu pobrania i o możliwych następstwach dla jego stanu zdrowia oraz o możliwym sposobie wykorzystania krwi i jej składników, w tym o możliwości ich przetworzenia;
+- **1)** kandydat na dawcę krwi lub dawca krwi został w sposób dla niego zrozumiały poinformowany przez: lekarza albo pielęgniarkę posiadającą tytuł magistra pielęgniarstwa, która przeprowadziła, pod nadzorem lekarza, co najmniej 100 kwalifikacji dawców do oddania krwi lub jej składników – którzy spełniają wymagania określone w przepisach wydanych na podstawie art. 14 ust. 1i, o istocie zabiegu pobrania i o możliwych następstwach dla jego stanu zdrowia oraz o możliwym sposobie wykorzystania krwi i jej składników, w tym o możliwości ich przetworzenia;
     - **a)**
     - **b)**
 
@@ -385,7 +409,7 @@ Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 
 - **5)** przeciwwskazania do pobrania krwi i jej składników,
 - **6)** dopuszczalną ilość oddawanej krwi i jej składników oraz częstotliwość ich oddawania,
 - **7)** szczegółowe warunki dopuszczenia do zabiegu uodpornienia lub innych zabiegów wykonywanych w celu uzyskania osocza lub surowic diagnostycznych,
-- **8)** zakres informacji, które powinny być przekazane kandydatowi na dawcę krwi i dawcy krwi przed jej oddaniem, w szczególności dotyczących roli krwi w organizmie i jej znaczenia dla pacjenta, procedury pobrania krwi lub jej składników, konieczności przeprowadzenia badań kwalifikacyjnych i wywiadu medycznego, przebiegu pobrania krwi lub jej składników, możliwych następstw dla stanu zdrowia dawcy krwi, możliwości rezygnacji przez dawcę krwi z oddania krwi lub jej składników, możliwym sposobie wykorzystania krwi i jej składników, w tym o możliwości ich przetworzenia, umożliwiających wyrażenie zgody na oddanie krwi lub jej składników mając na uwadze zapewnienie bezpieczeństwa dawcy krwi i biorcy krwi, skuteczności informowania kandydata na dawcę krwi i dawcy krwi o dyskwalifikacji oraz jednolitości danych zbieranych w ramach przeprowadzania wywiadu medycznego. (uchylony)
+- **8)** zakres informacji, które powinny być przekazane kandydatowi na dawcę krwi i dawcy krwi przed jej oddaniem, w szczególności dotyczących roli krwi w organizmie i jej znaczenia dla pacjenta, procedury pobrania krwi lub jej składników, konieczności przeprowadzenia badań kwalifikacyjnych i wywiadu medycznego, przebiegu pobrania krwi lub jej składników, możliwych następstw dla stanu zdrowia dawcy krwi, możliwości rezygnacji przez dawcę krwi z oddania krwi lub jej składników, możliwym sposobie wykorzystania krwi i jej składników, w tym o możliwości ich przetworzenia, umożliwiających wyrażenie zgody na oddanie krwi lub jej składników – mając na uwadze zapewnienie bezpieczeństwa dawcy krwi i biorcy krwi, skuteczności informowania kandydata na dawcę krwi i dawcy krwi o dyskwalifikacji oraz jednolitości danych zbieranych w ramach przeprowadzania wywiadu medycznego. (uchylony)
 
 **Art. 17.**
 
@@ -494,13 +518,13 @@ Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 
 
 - **1)** sposób i format przekazywania danych objętych wpisem do systemu e-krew między systemem e-krew, systemami teleinformatycznymi podmiotów leczniczych oraz Systemem Monitorowania Zagrożeń,
 - **2)** sposób i format przekazywania danych pochodzących z urządzeń specjalistycznych funkcjonujących w jednostkach, o których mowa w art. 4 ust. 3, do systemu e-krew,
-- **3)** sposób rozstrzygania rozbieżności danych mając na celu zapewnienie jednolitości systemu e-krew, anonimowości kandydata na dawcę krwi lub dawców krwi oraz zabezpieczenie danych przed nieuprawnionym dostępem, nieuprawnionym ujawnieniem lub pozyskaniem, a także ich modyfikacją, uszkodzeniem, zniszczeniem lub utratą.
+- **3)** sposób rozstrzygania rozbieżności danych – mając na celu zapewnienie jednolitości systemu e-krew, anonimowości kandydata na dawcę krwi lub dawców krwi oraz zabezpieczenie danych przed nieuprawnionym dostępem, nieuprawnionym ujawnieniem lub pozyskaniem, a także ich modyfikacją, uszkodzeniem, zniszczeniem lub utratą.
 
 18. W przypadku pobierania krwi i jej składników od żołnierzy zawodowych pełniących służbę poza granicami państwa i osób zatrudnionych w jednostkach wykonujących zadania poza granicami państwa przepisy wydane na podstawie ust. 17 stosuje się w zakresie nieokreślonym w przepisach wydanych na podstawie ust. 19.
 
 19. Minister Obrony Narodowej określi, w drodze rozporządzenia, sposób przekazywania do systemu e-krew danych dotyczących żołnierzy zawodowych pełniących służbę poza granicami państwa i osób zatrudnionych w jednostkach wykonujących zadania poza granicami państwa, mając na celu zachowanie jednolitości systemu e-krew i ochronę danych dawców krwi przed nieuprawnionym dostępem.
 
-#### Rozdział 4 Wydawanie krwi i jej składników
+#### Rozdział 4
 
 **Art. 18.** (uchylony)
 
@@ -517,7 +541,7 @@ Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 
 
 2. Osobą, która odpowiada za zapewnienie warunków określonych w ust. 1, jest kierownik tej jednostki, chyba że wyznaczył do tego zadania inną osobę spośród osób zatrudnionych w jednostce.
 
-#### Rozdział 5 Krwiolecznictwo
+#### Rozdział 5
 
 **Art. 20.** Podmiot leczniczy wykonujący stacjonarne i całodobowe świadczenia zdrowotne nie może uzależnić zastosowania krwi lub jej składników w leczeniu od oddania krwi lub jej składników przez inną osobę.
 
@@ -550,7 +574,7 @@ Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 
 - **1)** sposób i organizację leczenia krwią w podmiotach leczniczych wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne, w których przebywają pacjenci ze wskazaniami do leczenia krwią i jej składnikami, w tym zadania: kierownika tego podmiotu, ordynatora albo lekarza kierującego oddziałem oraz lekarzy i pielęgniarek,
 - **2)** organizację banku krwi oraz pracowni serologii lub pracowni immunologii transfuzjologicznej podmiotu leczniczego, a także sposób sprawowania nadzoru nad działaniem banku krwi oraz pracowni serologii lub pracowni immunologii transfuzjologicznej w podmiocie leczniczym wykonującym działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne, w którym przebywają pacjenci ze wskazaniami do leczenia krwią i jej składnikami, w tym kwalifikacje i doświadczenie kierownika tego banku krwi albo pracowni serologii lub pracowni immunologii transfuzjologicznej oraz jego zadania,
 - **3)** sposób prowadzenia dokumentacji medycznej dotyczącej leczenia krwią i jej składnikami,
-- **4)** sposób zapewnienia dostępu do badań z zakresu serologii lub immunologii transfuzjologicznej mając na uwadze potrzebę zapewnienia odpowiedniego poziomu leczenia krwią i jej składnikami, zapewnienie bezpieczeństwa biorców krwi, sprawności i bezpieczeństwa wszystkich czynności związanych z leczeniem krwią oraz czytelności i jednolitości prowadzonej dokumentacji.
+- **4)** sposób zapewnienia dostępu do badań z zakresu serologii lub immunologii transfuzjologicznej – mając na uwadze potrzebę zapewnienia odpowiedniego poziomu leczenia krwią i jej składnikami, zapewnienie bezpieczeństwa biorców krwi, sprawności i bezpieczeństwa wszystkich czynności związanych z leczeniem krwią oraz czytelności i jednolitości prowadzonej dokumentacji.
 
 **Art. 22.**
 
@@ -558,7 +582,7 @@ Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 
 
 2. Jednostka organizacyjna publicznej służby krwi, o której mowa w art. 23 ust. 3a, 4a i 5a, jest obowiązana przeprowadzić, we współdziałaniu z podmiotem leczniczym wykonującym działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne, postępowanie wyjaśniające w celu ustalenia przyczyny wystąpienia przypadków, o których mowa w ust. 1, i podjąć działania zapobiegawcze.
 
-#### Rozdział 6 Organizacja publicznej służby krwi
+#### Rozdział 6
 
 **Art. 23.**
 
@@ -569,7 +593,7 @@ Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 
 3. Regionalne centra są:
 
 - **1)** spółkami kapitałowymi, o których mowa w przepisach o działalności leczniczej,
-- **2)** samodzielnymi publicznymi zakładami opieki zdrowotnej tworzonymi przez Skarb Państwa reprezentowany przez ministra właściwego do spraw zdrowia, i są dofinansowywane w formie dotacji z budżetu państwa, z części będącej w dyspozycji ministra właściwego do spraw zdrowia, w zakresie zadań określonych w art. 27 ust. 1 pkt 1, 3–5, 7, 8 i 11–13.
+- **2)** samodzielnymi publicznymi zakładami opieki zdrowotnej – tworzonymi przez Skarb Państwa reprezentowany przez ministra właściwego do spraw zdrowia, i są dofinansowywane w formie dotacji z budżetu państwa, z części będącej w dyspozycji ministra właściwego do spraw zdrowia, w zakresie zadań określonych w art. 27 ust. 1 pkt 1, 3–5, 7, 8 i 11–13.
 
 3a. Regionalne centrum jest jednostką organizacyjną publicznej służby krwi właściwą dla podmiotów leczniczych, innych niż regionalne centra, których miejsce udzielania świadczeń zdrowotnych znajduje się na obszarze działania danego regionalnego centrum, określonego w statucie nadanym przez ministra właściwego do spraw zdrowia.
 
@@ -583,7 +607,7 @@ Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 
 5. Centrum MSWiA jest:
 
 - **1)** samodzielnym publicznym zakładem opieki zdrowotnej, tworzonym przez ministra właściwego do spraw wewnętrznych albo
-- **2)** spółką kapitałową, o której mowa w przepisach o działalności leczniczej, tworzoną przez ministra właściwego do spraw wewnętrznych i jest dofinansowywane z budżetu państwa, z części będącej w dyspozycji ministra właściwego do spraw wewnętrznych, w zakresie zadań określonych w art. 27 ust. 1 pkt 1, 3–5, 7 i 11–13.
+- **2)** spółką kapitałową, o której mowa w przepisach o działalności leczniczej, tworzoną przez ministra właściwego do spraw wewnętrznych – i jest dofinansowywane z budżetu państwa, z części będącej w dyspozycji ministra właściwego do spraw wewnętrznych, w zakresie zadań określonych w art. 27 ust. 1 pkt 1, 3–5, 7 i 11–13.
 
 5a. Centrum MSWiA jest jednostką organizacyjną publicznej służby krwi właściwą dla podmiotów leczniczych, dla których podmiotem tworzącym jest minister właściwy do spraw wewnętrznych, oraz utworzonych i prowadzonych przez Skarb Państwa reprezentowany przez tego ministra.
 
@@ -716,9 +740,9 @@ Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 
 
 3. W przypadkach niecierpiących zwłoki, w szczególności związanych z zagrożeniem zdrowia lub życia pacjenta, któremu przetoczono krew lub jej składniki, dyrektor Instytutu może zlecić przeprowadzenie kontroli lub poszczególnych czynności w sposób zdalny, za pośrednictwem operatora pocztowego albo za pośrednictwem środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
 
-#### Rozdział 6a Czuwanie nad bezpieczeństwem krwi i jej składników
+#### Rozdział 6a
 
-#### Rozdział 7 Przepisy karne
+#### Rozdział 7
 
 **Art. 30.** Kto, w celu uzyskania korzyści majątkowej lub osobistej, wbrew przepisom ustawy, nabywa lub zbywa krew lub jej składniki, pośredniczy w ich nabyciu lub zbyciu albo bierze udział w przetaczaniu pozyskanej krwi lub jej składników, podlega karze pozbawienia wolności do lat 3.
 
@@ -730,7 +754,7 @@ Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 
 
 **Art. 34.** (uchylony)
 
-#### Rozdział 8 Przepisy przejściowe i końcowe
+#### Rozdział 8
 
 **Art. 35.** Do czasu wejścia w życie ustawy z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. poz. 153 i 468) zasłużonemu honorowemu dawcy krwi przysługują bezpłatne świadczenia zdrowotne publicznych zakładów opieki zdrowotnej oraz zaopatrzenie w leki i artykuły medyczne na zasadach określonych w odrębnych przepisach.
 
@@ -754,5 +778,5 @@ Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 
 
 **Art. 38.** Pracownicy wojewódzkich i rejonowych stacji krwiodawstwa oraz punktów krwiodawstwa stają się na zasadach, o których mowa w art. 231 Kodeksu pracy, pracownikami regionalnych centrów.
 
-**Art. 39.** Ustawa wchodzi w życie z dniem 1 stycznia 1999 r., z wyjątkiem art. 6–13, art. 23 ust. 1 pkt 1, art. 35 oraz art. 37 ust. 7, które wchodzą w życie z dniem ogłoszenia.
+**Art. 39.** Ustawa wchodzi w życie z dniem 1 stycznia 1999 r., z wyjątkiem art. 6–13, art. 23 ust. 1 pkt 1, art. 35 oraz art. 37 ust. 7, które wchodzą w życie z dniem ogłoszeniaUstawa została ogłoszona w dniu 11 września 1997 r.. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża: 1) dyrektywę 2002/98/WE Parlamentu Europejskiego i Rady z dnia 27 stycznia 2003 r. ustanawiającą normy jakości i bezpiecznego pobierania, badania, preparatyki, przechowywania, wydawania krwi ludzkiej i składników krwi oraz zmieniającą dyrektywę 2001/83/WE (Dz. Urz. UE L 33 z 08.02.2003, str. 30 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 346, Dz. Urz. UE L 230 z 04.08.2006, str. 12, Dz. Urz. UE L 188 z 18.07.2009, str. 14 oraz Dz. Urz. UE L 98 z 15.04.2015, str. 11); 2) dyrektywę Komisji 2004/33/WE z dnia 22 marca 2004 r. wykonującą dyrektywę 2002/98/WE Parlamentu Europejskiego i Rady w zakresie niektórych wymagań technicznych dotyczących krwi i składników krwi (Dz. Urz. UE L 91 z 30.03.2004, str. 25 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 272, Dz. Urz. UE L 288 z 04.11.2009, str. 7, Dz. Urz. UE L 97 z 12.04.2011, str. 28 oraz Dz. Urz. UE L 366 z 20.12.2014, str. 81); 3) dyrektywę Komisji 2005/61/WE z dnia 30 września 2005 r. wykonującą dyrektywę 2002/98/WE Parlamentu Europejskiego i Rady w zakresie wymogów dotyczących śledzenia losów krwi oraz powiadamiania o poważnych, niepożądanych reakcjach i zdarzeniach (Dz. Urz. UE L 256 z 01.10.2005, str. 32); 4) dyrektywę Komisji 2005/62/WE z dnia 30 września 2005 r. wykonującą dyrektywę 2002/98/WE Parlamentu Europejskiego i Rady w zakresie norm i specyfikacji wspólnotowych odnoszących się do systemu jakości obowiązującego w placówkach służby krwi (Dz. Urz. UE L 256 z 01.10.2005, str. 41 oraz Dz. Urz. UE L 199 z 26.07.2016, str. 14). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 9, Dz. Urz. UE L 334 z 27.12.2019, str. 165, Dz. Urz. UE L 130 z 24.04.2020, str. 18 i Dz. Urz. UE L 241 z 08.07.2021, str. 7. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 11, Dz. Urz. UE L 334 z 27.12.2019, str. 167 i Dz. Urz. UE L 233 z 01.07.2021, str. 9. 4) W brzmieniu ustalonym przez art. 1 ustawy z dnia 24 lipca 2024 r. o zmianie ustawy o publicznej służbie krwi (Dz. U. poz. 1229), która weszła w życie z dniem 27 sierpnia 2024 r. 5) Ustawa została ogłoszona w dniu 11 września 1997 r.
 

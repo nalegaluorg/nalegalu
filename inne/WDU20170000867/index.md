@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 11 kwietnia 2017 r. w sprawie kandydatów na przewodniczącego, zastępców przewodniczącego i egzaminatorów Centralnej Morskiej Komisji Egzaminacyjnej
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 11 kwietnia 2017 r. w sprawie kandydatów na przewodniczącego, zastępców przewodniczącego i egzaminatorów Centralnej Morskiej Komisji Egzaminacyjnej Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-11 |
 | Data wydania | 2017-04-28 |
-| Wejście w życie | 2017-05-13 |
 | Ostatnia zmiana | 2025-04-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000867) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/867/text.pdf) |
 
@@ -141,6 +140,5 @@ Do wniosków o wpis na listę egzaminatorów, które zostały złożone i nieroz
 2.
 Wpisy na listę egzaminatorów dokonane przed dniem wejścia w życie rozporządzenia zachowują ważność.
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 5 ust. 1 pkt 3 i ust. 2 pkt 2, które wchodzą w życie po upływie 15 miesięcy od dnia ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 27 sierpnia 2014 r. w sprawie kandydatów na przewodniczącego, zastępców przewodniczącego i egzaminatorów Centralnej Morskiej Komisji Egzaminacyjnej (Dz. U. poz. 1211), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 6 ust. 1 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy o bezpieczeństwie morskim oraz niektórych innych ustaw (Dz. U. poz. 1320 oraz z 2017 r. poz. 785).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 5 ust. 1 pkt 3 i ust. 2 pkt 2, które wchodzą w życie po upływie 15 miesięcy od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 27 sierpnia 2014 r. w sprawie kandydatów na przewodniczącego, zastępców przewodniczącego i egzaminatorów Centralnej Morskiej Komisji Egzaminacyjnej (Dz. U. poz. 1211), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 6 ust. 1 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy o bezpieczeństwie morskim oraz niektórych innych ustaw (Dz. U. poz. 1320 oraz z 2017 r. poz. 785). 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 27 sierpnia 2014 r. w sprawie kandydatów na przewodniczącego, zastępców przewodniczącego i egzaminatorów Centralnej Morskiej Komisji Egzaminacyjnej (Dz. U. poz. 1211), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 6 ust. 1 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy o bezpieczeństwie morskim oraz niektórych innych ustaw (Dz. U. poz. 1320 oraz z 2017 r. poz. 785).
 

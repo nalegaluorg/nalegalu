@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 14 marca 2019 r. w sprawie przyznawania, rozliczania i przekazywania środków finansowych na realizację inwestycji związanych z kształceniem oraz działalnością naukową
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 14 marca 2019 r. w sprawie przyznawania, rozliczania i przekazywania środków finansowych na realizację inwestycji związanych z kształceniem oraz działalnością naukową Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-14 |
 | Data wydania | 2019-03-21 |
-| Wejście w życie | 2019-03-29 |
 | Ostatnia zmiana | 2026-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000533) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/533/text.pdf) |
 
@@ -54,8 +53,7 @@ inwestycji współfinansowanej ze źródeł zagranicznych:
 a)
 związanej z kształceniem, której finansowanie zostało uzgodnione w trybie określonym w wytycznych, o których mowa w art. 5 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2018 r. poz. 1431 i 1544 oraz z 2019 r. poz. 60),
 b)
-związanej z działalnością naukową, której finansowanie zostało uzgodnione w trybie określonym w kontrakcie terytorialnym zawartym na podstawie ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2018 r. poz. 1307 i 1669)
-wniosek może zostać złożony bez zachowania terminów określonych w ust. 1.
+związanej z działalnością naukową, której finansowanie zostało uzgodnione w trybie określonym w kontrakcie terytorialnym zawartym na podstawie ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2018 r. poz. 1307 i 1669) – wniosek może zostać złożony bez zachowania terminów określonych w ust. 1.
 § 4.
 1.
 Wniosek zawiera:
@@ -106,8 +104,7 @@ W przypadku wniosku składanego do ministra część tego wniosku zawierającą 
 1)
 zgodności danych zawartych w systemie, o którym mowa w ust. 1, ze stanem faktycznym i prawnym,
 2)
-wyrażeniu zgody na przesyłanie korespondencji za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2019 r. poz. 123)
-składa się w formie dokumentu elektronicznego opatrzonego podpisem zaufanym, kwalifikowanym podpisem elektronicznym albo podpisem osobistym za pomocą elektronicznej skrzynki podawczej ministra albo w postaci papierowej.
+wyrażeniu zgody na przesyłanie korespondencji za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2019 r. poz. 123) – składa się w formie dokumentu elektronicznego opatrzonego podpisem zaufanym, kwalifikowanym podpisem elektronicznym albo podpisem osobistym za pomocą elektronicznej skrzynki podawczej ministra albo w postaci papierowej.
 § 7.
 Do rozpatrzenia są kierowane wyłącznie wnioski kompletne, spełniające wymagania określone w § 3–6. W przypadku złożenia wniosku niespełniającego tych wymagań wzywa się wnioskodawcę, za pośrednictwem systemu, o którym mowa w § 6 ust. 1, do usunięcia braków formalnych w terminie 14 dni od dnia otrzymania wezwania, z pouczeniem, że ich nieusunięcie spowoduje pozostawienie wniosku bez rozpoznania.
 § 8.
@@ -156,10 +153,9 @@ W przypadku wniosków składanych w trybie określonym w:
 1)
 § 3 ust. 1 – w terminie do dnia 30 czerwca roku następującego po roku ich złożenia,
 2)
-§ 3 ust. 2 – niezwłocznie po ich rozpatrzeniu
-minister albo minister nadzorujący przekazuje wnioskodawcy informację o przyznaniu albo odmowie przyznania środków finansowych na realizację inwestycji.
+§ 3 ust. 2 – niezwłocznie po ich rozpatrzeniu – minister albo minister nadzorujący przekazuje wnioskodawcy informację o przyznaniu albo odmowie przyznania środków finansowych na realizację inwestycji.
 2.
-Minister albo minister nadzorujący przekazuje środki finansowe na realizację inwestycji na podstawie umowy, o której mowa w art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077, z późn. zm.), zwanej dalej „umową dotacyjną”.
+Minister albo minister nadzorujący przekazuje środki finansowe na realizację inwestycji na podstawie umowy, o której mowa w art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 2500 oraz z 2019 r. poz. 303 i 326.), zwanej dalej „umową dotacyjną”.
 3.
 W terminie 30 dni od dnia doręczenia informacji o przyznaniu środków finansowych na realizację inwestycji podmiot, któremu środki te zostały przyznane, składa w urzędzie obsługującym ministra albo ministra nadzorującego 3 egzemplarze umowy dotacyjnej podpisanej przez uprawnione osoby oraz harmonogram płatności.
 4.
@@ -242,8 +238,7 @@ W przypadku nieprzyjęcia przez ministra albo ministra nadzorującego:
 1)
 raportu rocznego przepis § 17 ust. 2,
 2)
-raportu końcowego przepis § 18 ust. 2
-stosuje się odpowiednio.
+raportu końcowego przepis § 18 ust. 2 – stosuje się odpowiednio.
 § 20.
 Przy rozliczaniu środków finansowych na realizację inwestycji uwzględnia się następujące kryteria:
 1)
@@ -277,8 +272,7 @@ Do dnia 31 grudnia 2019 r. wnioski:
 1)
 dotyczące inwestycji związanych z kształceniem,
 2)
-o których mowa w § 3 ust. 2
-składa się do ministra w postaci papierowej.
+o których mowa w § 3 ust. 2 – składa się do ministra w postaci papierowej.
 § 25.
 Wnioski dotyczące inwestycji:
 1)
@@ -286,6 +280,5 @@ związanych z kształceniem, na podstawie których środki finansowe będą przy
 2)
 związanych z działalnością naukową, na podstawie których środki finansowe będą przyznawane w 2020 r., składa się do ministra w terminie do dnia 15 września 2019 r.
 § 26.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 2500 oraz z 2019 r. poz. 303 i 326. 3) Niniejsze rozporządzenie było poprzedzone: 1) rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 8 sierpnia 2011 r. w sprawie trybu udzielania oraz zasad i trybu rozliczania dotacji na dofinansowanie lub finansowanie kosztów realizacji inwestycji uczelni publicznej (Dz. U. poz. 1068 oraz z 2018 r. poz. 63), 2) rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 8 października 2015 r. w sprawie szczegółowych kryteriów i trybu przyznawania oraz rozliczania środków finansowych na inwestycje służące potrzebom badań naukowych lub prac rozwojowych (Dz. U. poz. 1693 oraz z 2018 r. poz. 1066) – które utraciły moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 i 4 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone: 1) rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 8 sierpnia 2011 r. w sprawie trybu udzielania oraz zasad i trybu rozliczania dotacji na dofinansowanie lub finansowanie kosztów realizacji inwestycji uczelni publicznej (Dz. U. poz. 1068 oraz z 2018 r. poz. 63), 2) rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 8 października 2015 r. w sprawie szczegółowych kryteriów i trybu przyznawania oraz rozliczania środków finansowych na inwestycje służące potrzebom badań naukowych lub prac rozwojowych (Dz. U. poz. 1693 oraz z 2018 r. poz. 1066) – które utraciły moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 i 4 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39). 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 2500 oraz z 2019 r. poz. 303 i 326. 3) Niniejsze rozporządzenie było poprzedzone: 1) rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 8 sierpnia 2011 r. w sprawie trybu udzielania oraz zasad i trybu rozliczania dotacji na dofinansowanie lub finansowanie kosztów realizacji inwestycji uczelni publicznej (Dz. U. poz. 1068 oraz z 2018 r. poz. 63), 2) rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 8 października 2015 r. w sprawie szczegółowych kryteriów i trybu przyznawania oraz rozliczania środków finansowych na inwestycje służące potrzebom badań naukowych lub prac rozwojowych (Dz. U. poz. 1693 oraz z 2018 r. poz. 1066) – które utraciły moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 i 4 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39).
 

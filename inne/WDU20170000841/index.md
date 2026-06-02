@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 21 kwietnia 2017 r. zmieniające rozporządzenie w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 21 kwietnia 2017 r. zmieniające rozporządzenie w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-21 |
 | Data wydania | 2017-04-26 |
-| Wejście w życie | 2017-05-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000841) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/841/text.pdf) |
 
@@ -33,20 +32,15 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w s
 1)
 w ust. 1:
 a)
-po pkt 2 dodaje się pkt 2a w brzmieniu:
-„
+po pkt 2 dodaje się pkt 2a w brzmieniu: „
 2a)
-Biuro Projektów i Procesów;
-” ,
+Biuro Projektów i Procesów; ” ,
 b)
-po pkt 18 dodaje się pkt 18a w brzmieniu:
-„
+po pkt 18 dodaje się pkt 18a w brzmieniu: „
 18a)
-Departament Rynków Rolnych;
-” ;
+Departament Rynków Rolnych; ” ;
 2)
 uchyla się ust. 3.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 1 lit. b, który wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 1 lit. b, który wchodzi w życie z dniem 1 września 2017 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 

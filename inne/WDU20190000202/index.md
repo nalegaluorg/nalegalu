@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 22 stycznia 2019 r. w sprawie współczynników kosztochłonności
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 22 stycznia 2019 r. w sprawie współczynników kosztochłonności Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-01-22 |
 | Data wydania | 2019-02-01 |
-| Wejście w życie | 2019-02-16 |
 | Ostatnia zmiana | 2024-10-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000202) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/202/text.pdf) |
 
@@ -62,8 +61,10 @@ Do ustalenia współczynnika kosztochłonności prowadzenia kształcenia na stud
 § 5.
 Współczynniki kosztochłonności prowadzenia kształcenia na studiach stacjonarnych dla poszczególnych kierunków, poziomów i profili ustala się na podstawie danych zawartych w Zintegrowanym Systemie Informacji o Szkolnictwie Wyższym i Nauce POL-on, o którym mowa w art. 342 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998). 2) Niniejsze rozporządzenie było poprzedzone:1) w zakresie określenia współczynników kosztochłonności prowadzenia kształcenia na studiach stacjonarnych w poszczególnych dyscyplinach naukowych lub dyscyplinach artystycznych oraz sposobu ich ustalania dla poszczególnych kierunków, poziomów i profili – rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 9 lutego 2012 r. w sprawie sposobu i trybu ustalania wskaźników kosztochłonności dla poszczególnych kierunków studiów stacjonarnych pierwszego i drugiego stopnia, jednolitych studiów magisterskich oraz obszarów kształcenia, a także dla stacjonarnych studiów doktoranckich (Dz. U. z 2015 r. poz. 998), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 349 pkt 7 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39);2) w zakresie określenia współczynników kosztochłonności prowadzenia działalności naukowej w poszczególnych dyscyplinach naukowych lub dyscyplinach artystycznych – rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 11 września 2015 r. w sprawie sposobu ustalania wysokości dotacji i rozliczania środków finansowych na utrzymanie potencjału badawczego oraz na badania naukowe lub prace rozwojowe oraz zadania z nimi związane, służące rozwojowi młodych naukowców oraz uczestników studiów doktoranckich (Dz. U. poz. 1443 oraz z 2017 r. poz. 1495), które utraciło moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 4 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone:
+1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998). 2) Niniejsze rozporządzenie było poprzedzone:
+1) w zakresie określenia współczynników kosztochłonności prowadzenia kształcenia na studiach stacjonarnych w poszczególnych dyscyplinach naukowych lub dyscyplinach artystycznych oraz sposobu ich ustalania dla poszczególnych kierunków, poziomów i profili – rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 9 lutego 2012 r. w sprawie sposobu i trybu ustalania wskaźników kosztochłonności dla poszczególnych kierunków studiów stacjonarnych pierwszego i drugiego stopnia, jednolitych studiów magisterskich oraz obszarów kształcenia, a także dla stacjonarnych studiów doktoranckich (Dz. U. z 2015 r. poz. 998), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 349 pkt 7 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39);
+2) w zakresie określenia współczynników kosztochłonności prowadzenia działalności naukowej w poszczególnych dyscyplinach naukowych lub dyscyplinach artystycznych – rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 11 września 2015 r. w sprawie sposobu ustalania wysokości dotacji i rozliczania środków finansowych na utrzymanie potencjału badawczego oraz na badania naukowe lub prace rozwojowe oraz zadania z nimi związane, służące rozwojowi młodych naukowców oraz uczestników studiów doktoranckich (Dz. U. poz. 1443 oraz z 2017 r. poz. 1495), które utraciło moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 4 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce.
 
 ## Załącznik nr 1 — – Współczynniki kosztochłonności prowadzenia kształcenia na studiach stacjonarnych w poszczególnych dyscyplinach naukowych lub dyscyplinach artystycznych
 

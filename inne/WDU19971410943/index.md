@@ -8,10 +8,12 @@ pos: 943
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 4 września 1997 r. o działach administracji rządowej
+# o administracji 1 Przepisy ogólne
+
+*USTAWA z dnia 4 1997 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -22,722 +24,661 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1997-09-04 |
 | Data wydania | 1997-11-24 |
-| Wejście w życie | 1999-04-01 |
 | Ostatnia zmiana | 2026-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971410943) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/943/text.pdf) |
 
-1)
-administracji,
-2)
-ewidencji ludności, dowodów osobistych i paszportów,
-3)
-budownictwa i architektury, państwowego nadzoru budowlanego, geodezji i kartografii oraz sprawy nieruchomości, w zakresie określonym w odrębnych przepisach.
-2.
-Minister właściwy do spraw administracji publicznej sprawuje nadzór nad działalnością Głównego Inspektora Nadzoru Budowlanego oraz Głównego Geodety Kraju.
-3.
-Ilekroć właściwy minister lub kierownik urzędu centralnego określa, na podstawie przepisów odrębnych, terytorialny zakres działania podległych mu lub nadzorowanych przez niego urzędów albo innych jednostek organizacyjnych, określenie to następuje w porozumieniu z ministrem właściwym do spraw administracji publicznej.
-1)
-opracowywania budżetu państwa, wykonywania – z wyjątkiem spraw zastrzeżonych do kompetencji ministra właściwego do spraw finansów publicznych – budżetu państwa, kontroli realizacji budżetu państwa, przygotowywania sprawozdań z wykonania budżetu państwa oraz nadzoru nad działalnością organów orzekających w sprawach o naruszenia dyscypliny budżetowej,
-2)
-systemu finansowania:
-a)
-samorządu terytorialnego,
-b)
-sfery budżetowej,
-c)
-bezpieczeństwa państwa,
-3)
-wynikające z zarządzania długiem publicznym.
-2.
-Minister właściwy do spraw finansów publicznych odpowiada, na zasadach, w trybie i w granicach określonych odrębnymi przepisami, w szczególności za:
-1)
-realizację dochodów z podatków bezpośrednich, pośrednich oraz opłat,
-2)
-koordynowanie i organizowanie współpracy finansowej, kredytowej i płatniczej z zagranicą, współdziałanie w opracowywaniu związanych z tym spraw oraz współpracę z międzynarodowymi organizacjami finansowymi,
-3)
-realizację przepisów dotyczących ceł,
-4)
-finansowanie jednostek realizujących zadania objęte budżetem państwa i finansowanie samorządu terytorialnego,
-5)
-dochodzenie należności Skarbu Państwa,
-6)
-gry losowe i zakłady wzajemne,
-7)
-rachunkowość,
-8)
-prawo dewizowe,
-9)
-bilans finansów sektora publicznego i prognozowanie bilansu płatniczego,
-10)
-kontrolę skarbową oraz nadzór nad organami kontroli skarbowej,
-11)
-ceny.
-3.
-Minister właściwy do spraw finansów publicznych sprawuje nadzór nad Prezesem Głównego Urzędu Ceł oraz nad Generalnym Inspektorem Celnym.
-4.
-Ministrowi właściwemu do spraw finansów publicznych podlega Główny Inspektor Kontroli Skarbowej oraz Generalny Inspektor Celny.
-2.
-Minister właściwy do spraw gospodarki odpowiada, na zasadach, w trybie i w granicach określonych odrębnymi przepisami, w szczególności za:
-1)
-funkcjonowanie krajowych systemów energetycznych, z uwzględnieniem zasad racjonalnej gospodarki i potrzeb bezpieczeństwa energetycznego kraju,
-2)
-kontrolę obrotu z zagranicą towarami i technologiami w związku z porozumieniami i zobowiązaniami międzynarodowymi.
-3.
-Minister właściwy do spraw gospodarki sprawuje nadzór nad działalnością Agencji Techniki i Technologii, Agencji Rezerw Materiałowych oraz Urzędu Dozoru Technicznego.
-1)
-transportu morskiego i żeglugi morskiej,
-2)
-obszarów morskich,
-3)
-portów i przystani morskich,
-4)
-rybołówstwa morskiego i racjonalnego korzystania z żywych zasobów morza,
-5)
-ochrony środowiska morskiego.
-2.
-Minister właściwy do spraw gospodarki morskiej jest organem administracji morskiej w rozumieniu przepisów odrębnych.
-2.
-Minister właściwy do spraw instytucji finansowych wykonuje określone w odrębnych przepisach zadania w zakresie obrotu papierami wartościowymi oraz inicjuje politykę Rządu dotyczącą papierów wartościowych.
-1)
-działalności twórczej i artystycznej oraz ich ochrony,
-2)
-działalności widowiskowej i rozrywkowej,
-3)
-wystaw artystycznych,
-4)
-wydawnictw, księgarstwa, bibliotek i czytelnictwa,
-5)
-ochrony dóbr kultury i muzeów, kultury ludowej i rękodzieła artystycznego,
-6)
-edukacji kulturalnej,
-7)
-amatorskiego ruchu artystycznego, organizacji i stowarzyszeń regionalnych i społeczno-kulturalnych,
-8)
-wymiany kulturalnej z zagranicą.
-2.
-Minister właściwy do spraw kultury sprawuje nadzór nad działalnością Komitetu Kinematografii.
-1)
-kultury fizycznej,
-2)
-sportu powszechnego i wyczynowego,
-3)
-zagospodarowania turystycznego kraju,
-4)
-promocji Polski za granicą w dziedzinie turystyki.
-2.
-Minister właściwy do spraw kultury fizycznej i turystyki sprawuje, na zasadach określonych w przepisach odrębnych, nadzór nad działalnością Prezesa Urzędu Kultury Fizycznej i Turystyki.
-2.
-Ministrowi właściwemu do spraw łączności podlega Państwowa Inspekcja Telekomunikacyjna i Pocztowa oraz Państwowa Agencja Radiokomunikacyjna.
-2.
-Minister właściwy do spraw mieszkalnictwa i rozwoju miast odpowiada, na zasadach, w trybie i w granicach określonych odrębnymi przepisami, w szczególności za:
-1)
-inicjowanie polityki mieszkaniowej,
-2)
-opracowywanie i wdrażanie systemów rozwoju miast i infrastruktury komunalnej.
-3.
-Minister właściwy do spraw mieszkalnictwa i rozwoju miast sprawuje, na zasadach określonych w przepisach odrębnych, nadzór nad działalnością Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast.
-2.
-Minister właściwy do spraw nauki jest przewodniczącym Komitetu Badań Naukowych działającego na podstawie przepisów odrębnych.
-1)
-obrony Państwa oraz Sił Zbrojnych Rzeczypospolitej Polskiej, zwanych dalej „Siłami Zbrojnymi”,
-2)
-udziału Rzeczypospolitej Polskiej w wojskowych przedsięwzięciach organizacji międzynarodowych oraz w zakresie wywiązywania się z zobowiązań militarnych, wynikających z umów międzynarodowych
-chyba że na mocy odrębnych przepisów określone sprawy należą do zakresu zadań i kompetencji Prezydenta Rzeczypospolitej Polskiej lub innych organów państwowych.
-2.
-Minister właściwy do spraw obrony narodowej wykonuje zadania i kompetencje Ministra Obrony Narodowej określone w art. 134 ust. 2 i 5 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. Nr 78, poz. 483).
-1)
-zatrudnienia i przeciwdziałania bezrobociu,
-2)
-stosunków pracy i warunków pracy,
-3)
-wynagrodzeń i świadczeń pracowniczych,
-4)
-zbiorowych stosunków pracy i sporów zbiorowych,
-5)
-związków zawodowych i organizacji pracodawców.
-2.
-Minister właściwy do spraw pracy sprawuje nadzór nad Prezesem Krajowego Urzędu Pracy.
-1)
-produkcji roślinnej i ochrony roślin uprawnych,
-2)
-nasiennictwa,
-3)
-produkcji zwierzęcej i hodowli zwierząt,
-4)
-ochrony zdrowia zwierząt, środków farmaceutycznych i materiałów medycznych przeznaczonych dla zwierząt,
-5)
-nadzoru nad zdrowotną jakością środków spożywczych pochodzenia zwierzęcego w miejscach ich pozyskiwania, wytwarzania, przetwarzania i składowania,
-6)
-przechowalnictwa i nadzoru nad jakością handlową towarów rolno-spożywczych w obrocie krajowym i zagranicznym,
-7)
-przetwórstwa rolno-spożywczego,
-8)
-mechanizmów regulacji rynku rolnego,
-9)
-izb rolniczych, związków zawodowych rolników i organizacji społeczno-zawodowych rolników,
-10)
-rybactwa śródlądowego.
-2.
-Minister właściwy do spraw rolnictwa sprawuje nadzór nad działalnością Centralnego Inspektoratu Standaryzacji.
-3.
-Ministrowi właściwemu do spraw rolnictwa podlegają: Inspekcja Nasienna, Państwowa Inspekcja Ochrony Roślin, Państwowa Inspekcja Skupu i Przetwórstwa Artykułów Rolnych oraz Państwowa Inspekcja Weterynaryjna.
-1)
-ochrony gruntów przeznaczonych na cele rolne,
-2)
-scalania i wymiany gruntów, gleboznawczej klasyfikacji gruntów oraz podziału i rozgraniczenia nieruchomości na obszarze wsi,
-3)
-infrastruktury wsi, w szczególności:
-a)
-melioracji, w zakresie spraw nie objętych działem gospodarka wodna, zaopatrzenia wsi i rolnictwa w wodę oraz oczyszczania ścieków i gospodarki odpadami,
-b)
-elektryfikacji i gazyfikacji w zakresie spraw nie objętych działem gospodarka oraz telefonizacji wsi w zakresie spraw nie objętych działem łączność,
-4)
-ubezpieczenia społecznego rolników.
-2.
-W zakresie ubezpieczenia społecznego rolników minister właściwy do spraw rozwoju wsi współdziała z ministrem właściwym do spraw zabezpieczenia społecznego.
-3.
-Minister właściwy do spraw rozwoju wsi sprawuje nadzór nad działalnością Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz Kasy Rolniczego Ubezpieczenia Społecznego.
-1)
-sądownictwa,
-2)
-prokuratury, notariatu, adwokatury i radców prawnych, w zakresie wynikającym z przepisów odrębnych,
-3)
-wykonywania kar oraz środków wychowawczych i środka poprawczego orzeczonego przez sądy oraz sprawy pomocy postpenitencjarnej.
-2.
-Minister właściwy do spraw sprawiedliwości zapewnia przygotowywanie projektów kodyfikacji prawa cywilnego, w tym rodzinnego, oraz prawa karnego.
-3.
-Minister właściwy do spraw sprawiedliwości jest właściwy w sprawach sądownictwa w zakresie spraw nie zastrzeżonych odrębnymi przepisami do kompetencji innych organów państwowych i z uwzględnieniem zasady niezawisłości sędziowskiej.
-4.
-Ministrowi właściwemu do spraw sprawiedliwości podlega Centralny Zarząd Służby Więziennej.
-2.
-Minister właściwy do spraw Skarbu Państwa reprezentuje Skarb Państwa w zakresie określonym w ust. 1, z uwzględnieniem przepisów odrębnych.
-3.
-Minister właściwy do spraw Skarbu Państwa może również inicjować politykę Państwa w zakresie przekształceń własnościowych mienia komunalnego.
-4.
-Minister właściwy do spraw Skarbu Państwa sprawuje nadzór nad Agencją Prywatyzacji oraz Agencją Własności Rolnej Skarbu Państwa.
-2.
-Minister właściwy do spraw szkolnictwa wyższego sprawuje nadzór nad Naczelnym Dyrektorem Archiwów Państwowych.
-1)
-funkcjonowania oraz rozwoju transportu, w szczególności budowy, modernizacji, utrzymania i ochrony dróg publicznych, w tym autostrad, oraz kolei, lotnisk i portów lotniczych,
-2)
-ruchu drogowego i lotniczego,
-3)
-żeglugi śródlądowej,
-4)
-przewozu osób i rzeczy środkami transportu,
-5)
-transportu zbiorowego w miastach.
-2.
-Minister właściwy do spraw transportu sprawuje nadzór nad Agencją Budowy i Eksploatacji Autostrad oraz Głównym Inspektoratem Kolejnictwa.
-3.
-Ministrowi właściwemu do spraw transportu podlegają: Generalny Dyrektor Dróg Publicznych i organy nadzoru nad lotnictwem cywilnym.
-4.
-Minister właściwy do spraw transportu jest władzą żeglugową w rozumieniu przepisów odrębnych.
-1)
-ochrony i kształtowania środowiska oraz racjonalnego wykorzystywania jego zasobów,
-2)
-ochrony przyrody, w tym w parkach narodowych i krajobrazowych, rezerwatach przyrody, oraz ochrony gatunków roślin i zwierząt, prawem chronionych lasów, zwierzyny i innych tworów przyrody,
-3)
-geologii,
-4)
-gospodarki zasobami naturalnymi,
-5)
-meteorologii,
-6)
-kontroli przestrzegania wymagań ochrony środowiska i badania stanu środowiska,
-7)
-leśnictwa,
-8)
-ochrony lasów i gruntów leśnych,
-9)
-łowiectwa.
-2.
-Ministrowi właściwemu do spraw środowiska podlega Główny Inspektor Ochrony Środowiska.
-3.
-Minister właściwy do spraw środowiska sprawuje nadzór nad Narodowym Funduszem Ochrony Środowiska i Gospodarki Wodnej oraz nad działalnością Państwowego Gospodarstwa Leśnego „Lasy Państwowe”.
-1)
-ochrony bezpieczeństwa i porządku publicznego,
-2)
-tajemnicy państwowej i służbowej,
-3)
-ochrony granicy Państwa, kontroli ruchu granicznego i cudzoziemców,
-4)
-obywatelstwa,
-5)
-obrony cywilnej,
-6)
-ochrony przeciwpożarowej,
-7)
-przeciwdziałania skutkom klęsk żywiołowych i innych podobnych zdarzeń zagrażających bezpieczeństwu powszechnemu,
-8)
-zbiórek publicznych.
-2.
-Jeżeli informacje uzyskane przez organy i jednostki organizacyjne nadzorowane, podległe lub podporządkowane ministrowi właściwemu do spraw wewnętrznych mogą mieć istotne znaczenie dla bezpieczeństwa Państwa, minister ten przekazuje je niezwłocznie do wiadomości Prezydenta Rzeczypospolitej Polskiej i Prezesa Rady Ministrów.
-3.
-Ministrowi właściwemu do spraw wewnętrznych mogą zostać podporządkowane jednostki wojskowe na zasadach określonych w odrębnych przepisach. Do zadań tych jednostek może należeć ochrona osób zajmujących kierownicze stanowiska państwowe oraz osób, które ze względu na dobro Państwa należy objąć ochroną, ochrona delegacji państw obcych przebywających na terenie Polski i przedstawicieli organizacji międzynarodowych w Polsce oraz ochrona i zapewnienie należytego funkcjonowania urządzeń i obiektów służących najwyższym organom państwowym.
-4.
-Minister właściwy do spraw wewnętrznych sprawuje nadzór nad działalnością Policji, Straży Granicznej, Państwowej Straży Pożarnej i Obrony Cywilnej Kraju.
-1)
-ubezpieczeń społecznych i zaopatrzenia społecznego,
-2)
-funduszy emerytalnych,
-3)
-pomocy społecznej i świadczeń na rzecz rodziny,
-4)
-świadczeń socjalnych, zatrudnienia, rehabilitacji społecznej i zawodowej osób niepełnosprawnych,
-5)
-kombatantów i osób represjonowanych.
-2.
-Ministrowi właściwemu do spraw zabezpieczenia społecznego podlega Zakład Ubezpieczeń Społecznych.
-3.
-Minister właściwy do spraw zabezpieczenia społecznego sprawuje nadzór nad Prezesem Urzędu do Spraw Kombatantów i Osób Represjonowanych.
-1)
-stosunków Rzeczypospolitej Polskiej z innymi państwami oraz z organizacjami międzynarodowymi,
-2)
-reprezentowania i ochrony interesów Rzeczypospolitej Polskiej i jej obywateli oraz polskich osób prawnych za granicą,
-3)
-współpracy z Polakami zamieszkałymi za granicą.
-2.
-Minister właściwy do spraw zagranicznych koordynuje, z zastrzeżeniem zadań i kompetencji Komitetu Integracji Europejskiej określonych w przepisach odrębnych, działalność innych organów i instytucji państwowych w dziedzinie stosunków z zagranicą.
-3.
-Minister właściwy do spraw zagranicznych ustala organizację i kieruje działalnością przedstawicielstw dyplomatycznych i urzędów konsularnych.
-1)
-ochrony zdrowia i organizacji opieki zdrowotnej,
-2)
-nadzoru nad środkami farmaceutycznymi i materiałami medycznymi, aparaturą i sprzętem medycznym,
-3)
-zawodów medycznych,
-4)
-warunków sanitarnych oraz nadzoru sanitarnego,
-5)
-lecznictwa uzdrowiskowego.
-2.
-Ministrowi właściwemu do spraw zdrowia podlega Główny Inspektor Sanitarny i Krajowy Inspektor Farmaceutyczny.
-3.
-Minister właściwy do spraw zdrowia sprawuje nadzór nad działalnością Agencji Rezerw Artykułów Sanitarnych.
+**Art. 1.** Ustawa zakres administracji zwanych dalej oraz ministra danym
 
-#### Rozdział 1 Przepisy ogólne
-
-**Art. 1.** Ustawa określa zakres działów administracji rządowej, zwanych dalej „działami”, oraz właściwość ministra kierującego danym działem.
-
-**Art. 2.** Ustawę stosuje się odpowiednio do przewodniczących określonych w ustawach komitetów, którzy są powołani w skład Rady Ministrów – z zastrzeżeniem przepisów tych ustaw dotyczących kierowania działem przez komitet oraz z zastrzeżeniem art. 18.
+**Art. 2.** Ustawę stosuje odpowiednio do prze w ustawach komitetów, którzy w Rady Ministrów z za przepisów tych ustaw kiero wania przez komitet oraz z art. 18.
 
 **Art. 3.**
 
-1. Ustalenie szczegółowego zakresu działania ministra kierującego określonym działem następuje na zasadach określonych w przepisach wydanych na podstawie art. 33 ust. 1 pkt 1 ustawy z dnia 8 sierpnia 1996 r. o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów (Dz. U. Nr 106, poz. 492 i Nr 156, poz. 775), z uwzględnieniem przepisów niniejszej ustawy.
+1. Ustalenie zakresu nia ministra je na zasadach w przepisach wydanych na podstawie art. 33 ust. 1 pkt 1 ustawy z dnia 8 sierpnia 1996 r. o organizacji i trybie pracy Rady Ministrów oraz o zakresie ministrów (Dz. U. 106, poz. 492 i 156, poz. 775), z przepisów niniej szej ustawy.
 
-2. Podział ministerstwa na komórki organizacyjne, dokonywany zgodnie z art. 39 ustawy, o której mowa w ust. 1, uwzględnia podział na działy w ten sposób, że działowi odpowiada w całości jeden lub więcej departamentów, chyba że za innym podziałem przemawiają szczególnie ważne okoliczności.
+2. ministerstwa na komórki organizacyjne, dokonywany zgodnie z art. 39 ustawy, o której mowa w ust. 1, na w ten sposób, odpowiada w jeden lub depar tamentów, chyba za innym szczególnie
 
 **Art. 4.**
 
-1. Ministra kierującego określonym działem określa się jako ministra właściwego do spraw oznaczonych nazwą danego działu, określoną w art. 5.
+1. Ministra jako ministra do spraw ozna czonych danego wart. 5.
 
-2. Ministrowie kierujący poszczególnymi działami administracji rządowej są właściwi w sprawach określonych w ustawie, z wyjątkiem spraw zastrzeżonych odrębnymi przepisami do kompetencji innych organów.
+2. Ministrowie poszczególnymi administracji w sprawach okre w ustawie, z spraw przepisami do kompetencji innych orga nów.
 
-3. Ministrowie właściwi do spraw oznaczonych nazwą danego działu mogą wykonywać inne zadania i kompetencje, jeżeli przewidują to przepisy odrębne.
+3. Ministrowie do spraw oznaczonych na danego inne zadania i kompetencje, to przepisy
 
-4. Kierowanie działami administracji rządowej, o których mowa w art. 5 pkt 2, 3 i 7, powierza się jednemu ministrowi.
+4. Kierowanie administracji o których mowa wart. 5 pkt 2, 3 i 7, powierza jed nemu ministrowi. 2 Klasyfikacja administracji
 
-#### Rozdział 2 Klasyfikacja działów administracji rządowej
-
-**Art. 5.** Ustala się następujące działy:
+**Art. 5.** Ustala
 
 - **1)** administracja publiczna,
-- **2)** budżet,
-- **3)** finanse publiczne,
-- **4)** gospodarka,
-- **5)** gospodarka morska,
-- **6)** gospodarka wodna,
-- **7)** instytucje finansowe,
-- **8)** integracja europejska,
-- **9)** kultura,
+- **2)** finanse publiczne, gospodarka, gospodarka morska, gospodarka wodna, instytucje finansowe, integracja europejska, kultura,
 - **10)** kultura fizyczna i turystyka,
-- **11)** łączność,
+- **11)**
 - **12)** mieszkalnictwo i rozwój miast,
 - **13)** nauka,
 - **14)** obrona narodowa,
-- **15)** oświata i wychowanie,
+- **15)** i wychowanie,
 - **16)** praca,
 - **17)** rolnictwo,
 - **18)** rozwój wsi,
-- **19)** Skarb Państwa,
-- **20)** sprawiedliwość,
-- **21)** szkolnictwo wyższe,
+- **19)** Skarb
+- **20)**
+- **21)** szkolnictwo
 - **22)** transport,
-- **23)** środowisko,
-- **24)** sprawy wewnętrzne,
+- **23)**
+- **24)** sprawy
 - **25)** wyznania religijne,
-- **26)** zabezpieczenie społeczne,
+- **26)** zabezpieczenie
 - **27)** sprawy zagraniczne,
 - **28)** zdrowie.
 
 **Art. 6.**
 
-1.
+1. Dział administracja publiczna obej muje sprawy:
 
-### Dział administracja publiczna obejmuje sprawy:
+- **1)** administracji,
+- **2)** ewidencji dowodów osobistych i pasz portów,
+- **3)** budownictwa i architektury, nadzoru budowlanego, geodezji i kartografii oraz sprawy w zakresie w nych przepisach.
 
-**Art. 7.**
+2. Minister do spraw administracji pu blicznej sprawuje nadzór nad Inspektora Nadzoru Budowlanego oraz Geodety Kraju.
 
-### Dział budżet obejmuje sprawy:
+3. minister lub kierownik centralnego na podstawie przepisów nych, terytorialny zakres mu lub nadzorowanych przez niego albo innych jed nostek organizacyjnych, to w po rozumieniu z ministrem do spraw admini stracji publicznej.
+
+**Art. 7.** Dział obejmuje sprawy:
+
+- **1)** opracowywania wykonywania z spraw do kompeten cji ministra do spraw finansów pu blicznych kontroli realizacji przygotowywania z wykonania oraz nadzoru nad organów w sprawach o naruszenia dyscypliny
+- **2)** systemu finansowania:
+    - **a)** terytorialnego,
+    - **b)** sfery
+    - **c)**
+
+- **3)** z publicznym.
 
 **Art. 8.**
 
-1.
+1. finanse publiczne obejmuje sprawy realizacji dochodów i wydatków stwa.
 
-### Dział finanse publiczne obejmuje sprawy realizacji dochodów i wydatków budżetu państwa.
+2. Minister do spraw finansów publicz nych odpowiada, na zasadach, w trybie i w granicach przepisami, w za:
+
+- **1)** dochodów z podatków oraz
+- **2)** koordynowanie i organizowanie finan sowej, kredytowej i z w opracowywaniu z tym spraw oraz z or ganizacjami finansowymi,
+- **3)** przepisów
+- **4)** finansowanie jednostek zadania te i finansowanie terytorialnego,
+- **5)** dochodzenie Skarbu
+- **6)** gry losowe i wzajemne,
+- **7)**
+- **10)** oraz nadzór nad organami kon troli skarbowej,
+- **11)** ceny.
+
+3. Minister do spraw finansów publicz nych sprawuje nadzór nad Prezesem du oraz nad Generalnym Inspektorem Celnym.
+
+4. Ministrowi do spraw finansów pu blicznych podlega Inspektor Kontroli Skarbo wej oraz Generalny Inspektor Celny.
 
 **Art. 9.**
 
-1.
+1. Dział gospodarka obejmuje sprawy go spodarki, w tym gospodarczej z energetyki, gospodarczej oraz z organizacjami gospodarczego.
 
-### Dział gospodarka obejmuje sprawy gospodarki, w tym współpracy gospodarczej z zagranicą, energetyki, działalności gospodarczej oraz współpracy z organizacjami samorządu gospodarczego.
+2. Minister do spraw gospodarki odpo wiada, na zasadach, w trybie i w granicach przepisami, w za:
+
+- **1)** funkcjonowanie krajowych systemów energetycz nych, z zasad racjonalnej gospo darki i potrzeb energetycznego kraju,
+- **2)** obrotu z towarami i technolo giami w z porozumieniami i mi
+
+3. Minister do spraw gospodarki sprawu je nadzór nad Agencji Techniki i Techno logii, Agencji Rezerw oraz Do zoru Technicznego.
 
 **Art. 10.**
 
-1.
+1. Dział gospodarka morska obejmuje sprawy:
 
-### Dział gospodarka morska obejmuje sprawy:
+- **1)** transportu morskiego i morskiej,
+- **2)** obszarów morskich,
+- **3)** portów i przystani morskich,
+- **4)** morskiego i racjonalnego korzystania z zasobów morza,
+- **5)** ochrony morskiego.
 
-**Art. 11.**
+2. Minister do spraw gospodarki morskiej jest organem administracji morskiej w rozumieniu przepisów
 
-### Dział gospodarka wodna obejmuje sprawy gospodarki wodnej, ochrony przeciwpowodziowej, hydrologii oraz budowy, modernizacji i utrzymania śródlądowych dróg wodnych.
+**Art. 11.** Dział gospodarka wodna obejmuje sprawy gospodarki wodnej, ochrony przeciwpowo dziowej, hydrologii oraz budowy, modernizacji i utrzy mania dróg wodnych.
 
 **Art. 12.**
 
-1.
+1. instytucje finansowe obejmu je sprawy banków, funduszy powierniczych i innych instytucji finansowych oraz funkcjonowania rynku finansowego.
 
-### Dział instytucje finansowe obejmuje sprawy banków, zakładów ubezpieczeń, funduszy powierniczych i innych instytucji finansowych oraz funkcjonowania rynku finansowego.
+- **8)** prawo dewizowe,
+- **9)** bilans finansów sektora publicznego wanie bilansu
 
-**Art. 13.** Zakres zadań i kompetencji Komitetu Integracji Europejskiej i jego przewodniczącego w zakresie działu, o którym mowa w art. 5 pkt 8, określają przepisy odrębne.
+2. Minister do spraw instytucji finanso prognozo- wych wykonuje w przepisach za dania w zakresie obrotu papierami oraz inicjuje rynku papierów
+
+**Art. 13.** Zakres i kompetencji Komitetu Inte gracji Europejskiej i jego w zakresie o którym mowa wart. 5 pkt 8, przepi
 
 **Art. 14.**
 
-1.
+1. kultura obejmuje sprawy kulturalnej, w tym mecenatu nad w w zakresie: twórczej i artystycznej oraz ich ochrony,
 
-### Dział kultura obejmuje sprawy działalności kulturalnej, w tym mecenatu państwowego nad działalnością kulturalną, w szczególności w zakresie:
+- **2)** widowiskowej i rozrywkowej,
+- **3)** wystaw artystycznych,
+- **4)** wydawnictw, bibliotek i czytelnictwa,
+- **5)** ochrony dóbr kultury i muzeów, kultury ludowej i artystycznego,
+- **6)** edukacji kulturalnej,
+- **7)** amatorskiego ruchu artystycznego, organizacji i regionalnych i nych,
+- **8)** wymiany kulturalnej z
+
+2. Minister do spraw kultury sprawuje nadzór nad Komitetu Kinematografii.
 
 **Art. 15.**
 
-1.
+1. kultura fizyczna i turystyka obejmuje sprawy:
 
-### Dział kultura fizyczna i turystyka obejmuje sprawy:
+- **1)** kultury fizycznej,
+- **2)** sportu powszechnego i wyczynowego,
+- **3)** zagospodarowania turystycznego kraju,
+- **4)** promocji Polski za w dziedzinie turystyki.
+
+2. Minister do spraw kultury fizycznej i tu rystyki sprawuje, na zasadach w przepi sach nadzór nad Prezesa Kultury Fizycznej i Turystyki.
 
 **Art. 16.**
 
-1.
+1. obejmuje sprawy pocz ty i telekomunikacji.
 
-### Dział łączność obejmuje sprawy poczty i telekomunikacji.
+2. Ministrowi do spraw pod lega Inspekcja Telekomunikacyjna i Pocz towa oraz Agencja Radiokomunikacyjna.
 
 **Art. 17.**
 
-1.
+1. mieszkalnictwo i rozwój miast obejmuje sprawy planowania przestrzennego, regulacji z zakresu wspierania budownictwa mieszka niowego i gospodarki nieruchomo oraz ogródków
 
-### Dział mieszkalnictwo i rozwój miast obejmuje sprawy planowania przestrzennego, regulacji z zakresu wspierania budownictwa mieszkaniowego i towarzyszącego, gospodarki nieruchomościami oraz ogródków działkowych.
+2. Minister do spraw mieszkalnictwa rozwoju miast odpowiada, na zasadach, w trybie i w granicach przepisami, w za:
+
+- **1)** inicjowanie polityki mieszkaniowej, opracowywanie i systemów rozwoju miast i infrastruktury komunalnej.
+
+3. Minister do spraw mieszkalnictwa i rozwoju miast sprawuje, na zasadach w przepisach nadzór nad Pre zesa Mieszkalnictwa i Rozwoju Miast.
 
 **Art. 18.**
 
-1.
+1. n a u ka obejmuje sprawy nauki, w tym naukowych i prac badawczo-rozwojo wych.
 
-### Dział nauka obejmuje sprawy nauki, w tym badań naukowych i prac badawczo-rozwojowych.
+2. Minister do spraw nauki jest przewod Komitetu Naukowych na podstawie przepisów
 
 **Art. 19.**
 
-1.
+1. obrona narodowa obejmuje, w czasie pokoju, sprawy:
 
-### Dział obrona narodowa obejmuje, w czasie pokoju, sprawy:
+- **1)** obrony oraz Zbrojnych Rzeczypospoli tej Polskiej, zwanych dalej Zbrojnymi",
+- **2)** Rzeczypospolitej Polskiej w wojskowych organizacji oraz w zakresie z militarnych, z umów wych chyba na mocy przepisów sprawy do zakresu i kompetencji Prezy denta Rzeczypospolitej Polskiej lub innych organów
 
-**Art. 20.**
+2. Minister do spraw obrony narodowej wykonuje zadania i kompetencje Ministra Obrony Na rodowej wart. 134 ust. 2 i 5 Konstytucji Rze czypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. 78, poz. 483).
 
-### Dział oświata i wychowanie obejmuje sprawy kształcenia, nauczania i wychowania dzieci i młodzieży, z wyjątkiem spraw zastrzeżonych do kompetencji innych organów administracji publicznej.
+**Art. 20.** Dział i wychowanie obejmuje sprawy nauczania i wychowania dzieci i z spraw do kom petencji innych organów administracji publicznej.
 
 **Art. 21.**
 
-1.
+1. Dział praca obejmuje sprawy:
 
-### Dział praca obejmuje sprawy:
+- **1)** zatrudnienia i bezrobociu,
+- **2)** stosunków pracy i warunków pracy,
+- **3)** i pracowniczych,
+- **4)** zbiorowych stosunków pracy i sporów zbiorowych,
+- **5)** zawodowych i organizacji pracodawców.
+
+2. Minister do spraw pracy sprawuje nad zór nad Prezesem Krajowego Pracy.
 
 **Art. 22.**
 
-1.
+1. Dział rolnictwo obejmuje sprawy:
 
-### Dział rolnictwo obejmuje sprawy:
+- **1)** produkcji i ochrony uprawnych,
+- **2)** nasiennictwa,
+- **3)** produkcji i hodowli
+- **4)** ochrony zdrowia farmaceutycz nych i medycznych przeznaczonych dla nadzoru nad czych pochodzenia w miejscach ich pozyskiwania, wytwarzania, przetwarzania i dowania, przechowalnictwa i nadzoru nad handlo towarów w obrocie krajo wym i zagranicznym, przetwórstwa mechanizmów regulacji rynku rolnego, izb rolniczych, zawodowych rolników i organizacji rolników,
+- **10)** rybactwa
+
+2. Minister do spraw rolnictwa sprawuje nadzór nad Centralnego Inspektoratu Standaryzacji.
+
+3. Ministrowi do spraw rolnictwa pod Inspekcja Nasienna, Inspekcja Ochrony Inspekcja Skupu i Prze twórstwa Rolnych oraz Inspek cja Weterynaryjna.
 
 **Art. 23.**
 
-1.
+1. Dział rozwój wsi obejmuje sprawy: ochrony gruntów przeznaczonych na cele rolne, scalania i wymiany gruntów, gleboznawczej klasy fikacji gruntów oraz i rozgraniczenia nie na obszarze wsi, infrastruktury wsi, w
 
-### Dział rozwój wsi obejmuje sprawy:
+- **a)** melioracji, w zakresie spraw nie dzia gospodarka wodna, zaopatrzenia wsi i rol nictwa w oraz oczyszczania i go spodarki odpadami,
+- **b)** elektryfikacji i gazyfikacji w zakresie spraw nie gospodarka oraz telefonizacji wsi w zakresie spraw nie ubezpieczenia rolników.
+
+2. W zakresie ubezpieczenia rolników minister do spraw rozwoju wsi z ministrem do spraw zabezpieczenia spo
+
+3. Minister do spraw rozwoju wsi spra wuje nadzór nad Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz Kasy Rolniczego Ubez pieczenia
 
 **Art. 24.**
 
-1.
+1. obejmuje spra wy:
 
-### Dział sprawiedliwość obejmuje sprawy:
+- **1)**
+- **2)** prokuratury, notariatu, adwokatury i radców praw nych, w zakresie z przepisów nych,
+- **3)** wykonywania kar oraz wychowawczych i poprawczego orzeczonego przez oraz sprawy pomocy postpenitencjarnej.
+
+2. Minister do spraw za pewnia przygotowywanie projektów kodyfikacji prawa cywilnego, w tym rodzinnego, oraz prawa karnego.
+
+3. Minister do spraw jest w sprawach w zakresie spraw nie przepisami do kompe tencji innych organów i z niem zasady
+
+4. Ministrowi do spraw sprawiedliwo podlega Centralny
 
 **Art. 25.**
 
-1.
+1. Skarb obejmuje spra wy gospodarowania mieniem Skarbu stwa, w tym komercjalizacji i prywatyzacji biorstw oraz narodowych funduszy in westycyjnych i ich prywatyzacji, jak ochrony interesów Skarbu z spraw, które na mocy przepisów przypisane innym
 
-### Dział Skarb Państwa obejmuje sprawy dotyczące gospodarowania mieniem Skarbu Państwa, w tym komercjalizacji i prywatyzacji przedsiębiorstw państwowych oraz narodowych funduszy inwestycyjnych i ich prywatyzacji, jak również ochrony interesów Skarbu Państwa – z wyjątkiem spraw, które na mocy odrębnych przepisów przypisane są innym działom.
+2. Minister do spraw Skarbu re prezentuje Skarb w zakresie w ust. 1, z przepisów
+
+3. Minister do spraw Skarbu w zakresie mienia komunalnego.
+
+4. Minister do spraw Skarbu sprawuje nadzór nad Prywatyzacji oraz Agen Rolnej Skarbu
 
 **Art. 26.**
 
-1.
+1. Dział szkolnictwo obejmuje sprawy szkolnictwa i archiwów.
 
-### Dział szkolnictwo wyższe obejmuje sprawy szkolnictwa wyższego i archiwów.
+2. Minister do spraw szkolnictwa go sprawuje nadzór nad Naczelnym Dyrektorem Archi wów
 
 **Art. 27.**
 
-1.
+1. Dział transport obejmuje sprawy: funkcjonowania oraz rozwoju transportu, w szcze budowy, modernizacji, utrzymania i ochrony dróg publicznych, w tym autostrad, oraz kolei, lotnisk i portów lotniczych, ruchu drogowego i lotniczego, przewozu osób i rzeczy transportu, transportu zbiorowego w miastach.
 
-### Dział transport obejmuje sprawy:
+2. Minister do spraw transportu sprawu je nadzór nad Budowy i Eksploatacji Auto stradoraz Inspektorem Kolejnictwa.
+
+3. Ministrowi do spraw transportu Generalny Dyrektor Dróg Publicznych i or gany nadzoru nad lotnictwem cywilnym.
+
+4. Minister do spraw transportu jest w rozumieniu przepisów
 
 **Art. 28.**
 
-1.
+1. Dział obejmuje sprawy: ochrony i oraz racjonal nego wykorzystywania jego zasobów, ochrony przyrody, w tym w parkach narodowych i krajobrazowych, rezerwatach przyrody, oraz ochrony gatunków roślin i zwierząt, prawem chro nionych lasów, zwierzyny i innych tworów przyro dy, geologii, gospodarki zasobami naturalnymi, meteorologii, kontroli przestrzegania ochrony wiska i badania stanu ochrony lasów i gruntów
 
-### Dział środowisko obejmuje sprawy:
+- **9)**
+
+2. Ministrowi do spraw podlega Główny Inspektor Ochrony Środowiska.
+
+3. Minister do spraw sprawu je nadzór nad Narodowym Funduszem Ochrony Śro dowiska i Gospodarki Wodnej oraz nad Gospodarstwa "Lasy stwowe".
 
 **Art. 29.**
 
-1.
+1. sprawy obejmuje sprawy:
 
-### Dział sprawy wewnętrzne obejmuje sprawy:
+- **1)** ochrony i publicznego,
+- **2)** tajemnicy i
+- **3)** ochrony granicy kontroli ruchu granicznego i cudzoziemców,
+- **4)** obywatelstwa,
+- **5)** obrony cywilnej,
+- **6)** ochrony
+- **7)** skutkom i in nych podobnych bezpie powszechnemu,
+- **8)** zbiórek publicznych.
 
-**Art. 30.**
+2. informacje uzyskane przez organy i jed nostki organizacyjne nadzorowane, lub pod ministrowi do spraw we istotne znaczenie dla bezpie minister ten przekazuje je nie do Prezydenta Rzeczypospolitej Polskiej i Prezesa Rady Ministrów.
 
-### Dział wyznania religijne obejmuje sprawy stosunków Państwa z Kościołem Katolickim oraz innymi kościołami i związkami wyznaniowymi.
+3. Ministrowi do spraw jednostki wojskowe na zasadach w przepisach. Do tych jednostek ochrona osób zaj kierownicze stanowiska oraz osób, które ze na dobro ochrona delegacji obcych przebywa na terenie Polski i przedstawicieli organizacji w Polsce oraz ochrona i zapewnie nie funkcjonowania i obiektów organom
+
+4. Minister do spraw spra wuje nadzór nad Policji, Granicz nej, i Obrony Cywilnej Kraju.
+
+**Art. 30.** Dział wyz n a n i a re I i g i j n e obejmuje spra wy stosunków z Katolickim oraz in nymi i wyznaniowymi.
 
 **Art. 31.**
 
-1.
+1. zabezpieczenie obejmuje sprawy: i zaopatrzenia go,
 
-### Dział zabezpieczenie społeczne obejmuje sprawy:
+- **2)** funduszy emerytalnych,
+- **3)** pomocy i na rzecz rodziny,
+- **4)** socjalnych, zatrudnienia, rehabilitacji i zawodowej osób
+- **5)** kombatantów i osób represjonowanych.
+
+2. Ministrowi do spraw zabezpiecze nia podlega nych.
+
+3. Minister do spraw zabezpieczenia spo sprawuje nadzór nad Prezesem do Spraw Kombatantów i Osób Represjonowanych.
 
 **Art. 32.**
 
-1.
+1. Dział sprawy zagraniczne obejmuje sprawy:
 
-### Dział sprawy zagraniczne obejmuje sprawy:
+- **1)** stosunków Rzeczypospolitej Polskiej z innymi stwami oraz z organizacjami
+- **2)** reprezentowania i ochrony interesów Rzeczypo spolitej Polskiej i jej obywateli oraz polskich osób prawnych za
+- **3)** z Polakami za
+
+2. Minister do spraw zagranicznych koor dynuje, z i kompetencji Komitetu Integracji Europejskiej w przepisach od innych organów i instytucji stwowych w dziedzinie stosunków z
+
+3. Minister do spraw zagranicznych usta la i kieruje przedstawicielstw dyplomatycznych i konsularnych.
 
 **Art. 33.**
 
-1.
+1. zd rowie obejmuje sprawy:
 
-### Dział zdrowie obejmuje sprawy:
+- **1)** ochrony zdrowia i organizacji opieki zdrowotnej,
+- **2)** nadzoru nad farmaceutycznymi i mate medycznymi, i me dycznym,
+- **3)** zawodów medycznych,
+- **4)** warunków sanitarnych oraz nadzoru sanitarnego,
+- **5)** lecznictwa uzdrowiskowego.
 
-#### Rozdział 3 Zadania ministra kierującego określonym działem administracji rządowej
+2. Ministrowi do spraw zdrowia pod lega Inspektor Sanitarny i Krajowy Inspektor Farmaceutyczny.
 
-**Art. 34.** Minister jest obowiązany do inicjowania i opracowywania polityki Rządu w odniesieniu do działu, którym kieruje, jak również do przedkładania w tym zakresie inicjatyw i odpowiednich projektów aktów normatywnych na posiedzenia Rady Ministrów. W zakresie działu, którym kieruje, minister realizuje politykę ustaloną przez Radę Ministrów i koordynuje jej wykonywanie przez inne organy administracji rządowej.
+3. Minister do spraw zdrowia sprawuje nadzór nad Agencji Rezerw Sanitarnych. 3 Zadania ministra administracji
 
-**Art. 35.** Minister w zakresie działu, którym kieruje, jest naczelnym organem administracji państwowej w rozumieniu przepisów o postępowaniu administracyjnym.
+**Art. 34.** Minister jest do inicjowania i opracowywania polityki w odniesieniu do dzia którym kieruje, jak do w tym zakresie inicjatyw i odpowiednich projektów aktów normatywnych na posiedzenia Rady Ministrów. W za kresie którym kieruje, minister realizuje polity przez Ministrów i koordynuje jej wy konywanie przez inne organy administracji
 
-**Art. 36.** Zadania i kompetencje ministra kierującego określonym działem w stosunku do organów, w tym terenowych organów administracji rządowej i jednostek organizacyjnych jemu podległych lub przez niego nadzorowanych, określają przepisy odrębne.
+**Art. 35.** Minister w zakresie którym kieruje, jest naczelnym organem administracji w rozumieniu przepisów o administra cyjnym.
 
-**Art. 37.** Minister kierujący określonym działem wykonuje określone w odrębnych przepisach zadania z dziedziny obronności i ochrony bezpieczeństwa Państwa, z wyjątkiem spraw, które na mocy odrębnych przepisów należą do innych organów administracji rządowej i państwowych jednostek organizacyjnych.
+**Art. 36.** Zadania i kompetencje ministra go w stosunku do organów, w tym terenowych organów administracji i jednostek organizacyjnych jemu lub przez niego nadzorowanych, przepisy
+
+**Art. 37.** Minister wy konuje w przepisach zadania z dziedziny i ochrony stwa, z spraw, które na mocy przepisów do innych organów administracji dowej i jednostek organizacyjnych.
 
 **Art. 38.**
 
-1. W celu realizacji swoich zadań minister kierujący określonym działem współdziała, na zasadach i w trybie określonych w odrębnych przepisach oraz w zakresie wynikającym z potrzeb danego działu, z innymi członkami Rady Ministrów, Rządowym Centrum Studiów Strategicznych, innymi organami administracji rządowej i państwowymi jednostkami organizacyjnymi, organami samorządu terytorialnego, jak również z organami samorządu gospodarczego, zawodowego, związków zawodowych i organizacji pracodawców oraz innych organizacji społecznych i przedstawicielstw środowisk zawodowych i twórczych.
+1. W celu realizacji swoich minister na zasa dach i w trybie w przepisach oraz w zakresie z potrzeb danego z innymi Rady Ministrów, Cen trum Studiów Strategicznych, innymi organami admi nistracji i jednostkami organi zacyjnymi, organami terytorialnego, jak z organami gospodarczego, zawo dowego, zawodowych i organizacji praco dawców oraz innych organizacji i przed stawicielstw zawodowych i twórczych.
 
-2. Minister kierujący działem podejmuje w odniesieniu do tego działu czynności w zakresie współpracy z zagranicą we współpracy z ministrem właściwym do spraw zagranicznych i, w zakresie jego zadań, z Komitetem Integracji Europejskiej.
+2. Minister podejmuje w odnie sieniu do tego w zakresie z we z ministrem do spraw zagranicznych i, w zakresie jego z Komi tetem Integracji Europejskiej. 4 Zmiany w przepisach
 
-#### Rozdział 4 Zmiany w przepisach obowiązujących
+**Art. 39.** W ustawie z dnia 7 marca 1950 r. o dze i na drogach wodnych (Dz. U. z 1952 r. 26, poz. 182, z 1960 r. 29, poz. 163, z 1988 r. 41, poz. 324 i z 1989 r. 35, poz. 192) wpro wadza zmiany:
 
-**Art. 39.** W ustawie z dnia 7 marca 1950 r. o żegludze i spławie na śródlądowych drogach wodnych (Dz. U. z 1952 r. Nr 26, poz. 182, z 1960 r. Nr 29, poz. 163, z 1988 r. Nr 41, poz. 324 i z 1989 r. Nr 35, poz. 192) wprowadza się następujące zmiany:
+- **1)** wart. 6 w ust. 3 wyrazy "wydanego za Prezesa Rady Ministrów";
+- **2)** w art. 9 w ust. 3 wyrazy "wydanego w porozumieniu z Ministrami: Obrony Narodowej, Publicznego i Zdrowia oraz za zgo Prezesa Rady Ministrów";
+- **3)** w art. 12 w ust. 3 wyrazy "w porozumie niu z Ministrami: Obrony Narodowej, stwa Publicznego i Zdrowia oraz za Prezesa Rady Ministrów";
+- **4)** w art. 12 ust. 4 otrzymuje brzmienie: ,,4. Przepisy w ust. 1 minister do spraw gospodarki wodnej wydaje w drodze przy czym przepisy w pkt 2 wydawane w porozumieniu z mini strem do spraw zdrowia i mini strem do spraw pracy, a w pkt 3-7, w porozumieniu z ministrem do spraw transportu."
 
-- **1)** w art. 6 w ust. 3 skreśla się wyrazy „wydanego za zgodą Prezesa Rady Ministrów”;
-- **2)** w art. 9 w ust. 3 skreśla się wyrazy „wydanego w porozumieniu z Ministrami: Obrony Narodowej, Bezpieczeństwa Publicznego i Zdrowia oraz za zgodą Prezesa Rady Ministrów”;
-- **3)** w art. 12 w ust. 3 skreśla się wyrazy „w porozumieniu z Ministrami: Obrony Narodowej, Bezpieczeństwa Publicznego i Zdrowia oraz za zgodą Prezesa Rady Ministrów”;
-- **4)** w art. 12 ust. 4 otrzymuje brzmienie: „
+**Art. 40.** W ustawie z dnia 31 stycznia 1959 r. o cmen tarzach i chowaniu (Dz. U. z 1972 r. 47, poz. 298, z 1989 r. 29, poz. 154, z 1990 r. 34, poz. 198, z 1991 r. 64, poz. 271 i z 1997 r. 126, poz. 805) wart. 3 ust. 2 otrzymuje brzmienie: ,,2. Minister do spraw administracji pu blicznej, w porozumieniu z ministrem wym do spraw finansów publicznych i mini strem do spraw religijnych, szczególne warunki gruntów Skarbu na no wych i rozszerzanie cmentarzy."
 
-4. Przepisy określone w ust. 1 minister właściwy do spraw gospodarki wodnej wydaje w drodze rozporządzenia, przy czym przepisy określone w pkt 2 wydawane są w porozumieniu z ministrem właściwym do spraw zdrowia i ministrem właściwym do spraw pracy, a określone w pkt 3–7, w porozumieniu z ministrem właściwym do spraw transportu. ”
+**Art. 41.** W ustawie z dnia 17 czerwca 1966 r. o po egzekucyjnym w administracji (Dz. U. z 1991 r. 36, poz. 161, z 1992 r. 20, poz. 78, z 1993 r. 28, poz. 127, z 1995 r. 85, poz. 426, z 1996 r. 43, poz. 189 i 146, poz. 680 oraz z 1997 r. 137, poz. 926) wart. 121 w 5 wyrazy "Ministra Gospodar ki Przestrzennej i Budownictwa" wyraza mi "ministra do spraw administracji pu blicznej" .
 
-**Art. 40.** W ustawie z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 1972 r. Nr 47, poz. 298, z 1989 r. Nr 29, poz. 154, z 1990 r. Nr 34, poz. 198, z 1991 r. Nr 64, poz. 271 i z 1997 r. Nr 126, poz. 805) w art. 3 ust. 2 otrzymuje brzmienie: „ 2. Minister właściwy do spraw administracji publicznej, w porozumieniu z ministrem właściwym do spraw finansów publicznych i ministrem właściwym do spraw wyznań religijnych, może ustalić szczególne warunki odstępowania gruntów Skarbu Państwa na zakładanie nowych i rozszerzanie istniejących cmentarzy. ”
+**Art. 42.** W ustawie z dnia 17 grudnia 1974 r. o upo (Dz. U. z 1992 r. 5, poz. 18, z 1995 r. 4, poz. 17 i 34, poz. 163, z 1996 r. 7, poz. 44 i 139, poz. 647 oraz z 1997 r. 80, poz. 496 i 106, poz. 678) wart. 4 ust. 2 otrzymuje brzmienie: ,,2. Zasady tworzenia i funduszów na na grody i zapomogi minister do spraw obrony narodowej w porozumieniu z mi nistrami do spraw zabezpieczenia i do spraw pracy."
 
-**Art. 41.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 1991 r. Nr 36, poz. 161, z 1992 r. Nr 20, poz. 78, z 1993 r. Nr 28, poz. 127, z 1995 r. Nr 85, poz. 426, z 1996 r. Nr 43, poz. 189 i Nr 146, poz. 680 oraz z 1997 r. Nr 137, poz. 926) w art. 121 w § 5 wyrazy „Ministra Gospodarki Przestrzennej i Budownictwa” zastępuje się wyrazami „ministra właściwego do spraw administracji publicznej”.
+**Art. 43.** W ustawie z dnia 31 stycznia 1980 r. o go dle, barwach i hymnie Polskiej Rzeczypospolitej Ludo wej (Dz. U. 7, poz. 18, z 1985 r. 23, poz. 100, z 1990 r. 10, poz. 60 i 34, poz. 199 oraz z 1996 r. 73, poz. 350) wprowadza zmiany:
 
-**Art. 42.** W ustawie z dnia 17 grudnia 1974 r. o uposażeniu żołnierzy (Dz. U. z 1992 r. Nr 5, poz. 18, z 1995 r. Nr 4, poz. 17 i Nr 34, poz. 163, z 1996 r. Nr 7, poz. 44 i Nr 139, poz. 647 oraz z 1997 r. Nr 80, poz. 496 i Nr 106, poz. 678) w art. 4 ust. 2 otrzymuje brzmienie: „ 2. Zasady tworzenia i wysokość funduszów na nagrody i zapomogi określa minister właściwy do spraw obrony narodowej w porozumieniu z ministrami właściwymi do spraw zabezpieczenia społecznego i do spraw pracy. ”
+- **1)** w ustawie, w tytule, wyrazy "Polskiej Rzeczypospolitej Ludowej" wyrazami "Rzeczypospolitej Polskiej";
+- **2)** w art. 9 w ust. 3 wyrazy "Minister Transportu i Go spodarki Morskiej" wyrazami "Mini ster do spraw gospodarki morskiej".
 
-**Art. 43.** W ustawie z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Polskiej Rzeczypospolitej Ludowej (Dz. U. Nr 7, poz. 18, z 1985 r. Nr 23, poz. 100, z 1990 r. Nr 10, poz. 60 i Nr 34, poz. 199 oraz z 1996 r. Nr 73, poz. 350) wprowadza się następujące zmiany:
+**Art. 44.** W ustawie z dnia 6 maja 1981 r. o pracow niczych ogrodach (Dz. U. z 1996 r. 85, poz. 390) wart. 30 w ust. 3 wyrazy Admini stracji, Gospodarki Terenowej i Ochrony Srodowiska" wyrazami "ministra do spraw mieszkalnictwa i rozwoju miast".
 
-- **1)** użyte w ustawie, także w tytule, wyrazy „Polskiej Rzeczypospolitej Ludowej” zastępuje się wyrazami „Rzeczypospolitej Polskiej”;
-- **2)** w art. 9 w ust. 3 wyrazy „Minister Transportu i Gospodarki Morskiej” zastępuje się wyrazami „Minister właściwy do spraw gospodarki morskiej”.
+**Art. 45.** W ustawie z dnia 26 maja 1982 r. Prawo o adwokaturze (Dz. U. 16, poz. 124 i 25, poz. 187, z 1983 r. 5, poz. 33, z 1986 r. 42, poz. 202, z 1990 r. 36, poz. 206, z 1995 r. 4, poz. 17, z 1996 r. 77, poz. 367 oraz z 1997 r. 28, poz. 153 i 75, poz. 471) wart. 24 w ust. 5 wyrazy "Minister Pracy i Polityki So cjalnej" wyrazami "Minister do spraw zabezpieczenia
 
-**Art. 44.** W ustawie z dnia 6 maja 1981 r. o pracowniczych ogrodach działkowych (Dz. U. z 1996 r. Nr 85, poz. 390) w art. 30 w ust. 3 wyrazy „Ministra Administracji, Gospodarki Terenowej i Ochrony Środowiska” zastępuje się wyrazami „ministra właściwego do spraw mieszkalnictwa i rozwoju miast”.
+**Art. 46.** W ustawie z dnia 16 1982 r. o pra cownikach (Dz. U. 31, poz. 214, z 1984 r. 35, poz. 187, z 1988 r. 19, poz. 132, z 1989 r. 4, poz. 24, 34, poz. 178 i 182, z 1990 r. 20, poz. 121, z 1991 r. 55, poz. 234, 88, poz. 400 i 95, poz. 425, z 1992 r. 54, poz. 254 i 90, poz. 451, z 1994 r. 136, poz. 704, z 1995 132, poz. 640, z 1996 r. 89, poz. 402 i 106, poz. 496 oraz z 1997 r. 98, poz. 604 i 133, poz. 882 i 883) wart. 43 w ust. 3 wyrazy "Ministrowi Spraw We wyrazami "ministrowi do spraw
 
-**Art. 45.** W ustawie z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. Nr 16, poz. 124 i Nr 25, poz. 187, z 1983 r. Nr 5, poz. 33, z 1986 r. Nr 42, poz. 202, z 1990 r. Nr 36, poz. 206, z 1995 r. Nr 4, poz. 17, z 1996 r. Nr 77, poz. 367 oraz z 1997 r. Nr 28, poz. 153 i Nr 75, poz. 471) w art. 24 w ust. 5 wyrazy „Minister Pracy i Polityki Socjalnej” zastępuje się wyrazami „Minister właściwy do spraw zabezpieczenia społecznego”.
+**Art. 47.** W ustawie z dnia 14 lipca 1983 r. o narodo wym zasobie archiwalnym i archiwach (Dz. U. 38, poz. 173, z 1989 r. 34, poz. 178, z 1996 r. 106, poz. 496 i 156, poz. 775 oraz z 1997 r. 88, poz. 554) wprowadza zmiany:
 
-**Art. 46.** W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. Nr 31, poz. 214, z 1984 r. Nr 35, poz. 187, z 1988 r. Nr 19, poz. 132, z 1989 r. Nr 4, poz. 24, Nr 34, poz. 178 i 182, z 1990 r. Nr 20, poz. 121, z 1991 r. Nr 55, poz. 234, Nr 88, poz. 400 i Nr 95, poz. 425, z 1992 r. Nr 54, poz. 254 i Nr 90, poz. 451, z 1994 r. Nr 136, poz. 704, z 1995 r. Nr 132, poz. 640, z 1996 r. Nr 89, poz. 402 i Nr 106, poz. 496 oraz z 1997 r. Nr 98, poz. 604 i Nr 133, poz. 882 i 883) w art. 43 w ust. 3 wyrazy „Ministrowi Spraw Wewnętrznych” zastępuje się wyrazami „ministrowi właściwemu do spraw wewnętrznych”.
+- **1)** wart. 29 w ust. 1 pkt 3 otrzymuje brzmienie: ,,3) archiwa jednostek organizacyjnych i nadzorowanych przez ministrów do spraw: obrony narodowej, spraw nych i spraw zagranicznych w zakresie tych administracji w przepisach
+- **2)** wart. 33: ,
+    - **a)** zdanie pierwsze otrzymuje oznaczenie ust. 1,
+    - **b)** zdanie drugie otrzymuje oznaczenie ust. 3,
+    - **c)** dodaje ust. 2 w brzmieniu: ,,2. o której mowa w ust. 1, jest ministerstwo, archiwum tworzy dla administra cji w przepisach od
 
-**Art. 47.** W ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. Nr 38, poz. 173, z 1989 r. Nr 34, poz. 178, z 1996 r. Nr 106, poz. 496 i Nr 156, poz. 775 oraz z 1997 r. Nr 88, poz. 554) wprowadza się następujące zmiany:
+- **3)** wart. 34 dodaje ust. 3 w brzmieniu: ,,3. jest admi nistracji kierownik jednostki wykonu je zadania w ust. 1 i 2 poprzez dyrek tora generalnego tego na podstawie przepisów
 
-- **1)** w art. 29 w ust. 1 pkt 3 otrzymuje brzmienie: „
-- **3)** archiwa jednostek organizacyjnych podległych i nadzorowanych przez ministrów właściwych do spraw: obrony narodowej, spraw wewnętrznych i spraw zagranicznych – w zakresie tych działów administracji rządowej, określonych w przepisach odrębnych, ” ;
-- **2)** w art. 33: zdanie pierwsze otrzymuje oznaczenie ust. 1, zdanie drugie otrzymuje oznaczenie ust. 3, dodaje się ust. 2 w brzmieniu: „
-    - **a)**
-    - **b)**
-    - **c)**
+**Art. 48.** W ustawie z dnia 25 lipca 1985 r. o jednost kach badawczo-rozwojowych (Dz. U. z 1991 r. 44, poz. 194 i 107, poz. 464, z 1992 r. 54, poz. 254, z 1994 r. 1, poz. 3 i 43, poz. 163, z 1996 r. 41, poz. 175 i 89, poz. 402 oraz z 1997 r. 43, poz. 272, 75, poz. 467 i 469, 104, poz. 661 i 121, poz. 769 i 770) wprowadza zmiany:
 
-2. Jeżeli jednostką, o której mowa w ust. 1, jest ministerstwo, archiwum zakładowe tworzy się odrębnie dla każdego działu administracji rządowej, określonego w przepisach odrębnych. ” ;
+- **1)** w ustawie w przypadkach wyrazy Komitetu Naukowych" za w tych samych przypadkach wyrazami "minister do spraw nauki";
+- **2)** wart. 31 ust. 2 otrzymuje brzmienie: ,,2. Jednostki, o których mowa w ust. 1, ustala mi nister do spraw nauki.";
+- **3)** wart. 74 w ust. 1 wyrazy "Ministra Edukacji Naro dowej" wyrazami "ministra wego do spraw szkolnictwa
+- **4)** wart. 75 ust. 1 otrzymuje brzmienie: ,,1. Na wniosek dyrektora jego organ za w porozumieniu z mini strami do spraw nauki i do spraw pracy, wszystkie lub niektóre przepisy 6-12 na badawczo -rozwojowy, jako organizacyjnie wy jednostka tego i o której mowa wart. 2."
 
-- **3)** w art. 34 dodaje się ust. 3 w brzmieniu: „
+**Art. 49.** W ustawie z dnia 19 listopada 1987 r. o do zorze technicznym (Dz. U. 36, poz. 202, z 1995 r. 104, poz. 515, z 1996 r. 106, poz. 496 oraz z 1997 r. 64, poz. 406 i 88, poz. 554) wart. 24 w ust. 2 skre wyrazy "w porozumieniu z Ministrem Spraw i Administracji".
 
-3. Jeżeli jednostką organizacyjną jest urząd administracji rządowej, kierownik jednostki wykonuje zadania określone w ust. 1 i 2 poprzez dyrektora generalnego tego urzędu, powołanego na podstawie przepisów odrębnych. ”
+**Art. 50.** W ustawie z dnia 17 maja 1989 r. o stosun ku do Katolickiego w Rzeczypospoli tej Polskiej (Dz. U. 29, poz. 154, z 1990 r. 51, poz. 297, 55, poz. 321 i 86, poz. 504, z 1991 r. 95, poz. 425 i 107, poz. 459, z 1993 r. 7, poz. 34, z 1994 r. 1, poz. 3 oraz z 1997 r. 28, poz. 153 i 96, poz. 590) wprowadza zmiany:
 
-**Art. 48.** W ustawie z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz. U. z 1991 r. Nr 44, poz. 194 i Nr 107, poz. 464, z 1992 r. Nr 54, poz. 254, z 1994 r. Nr 1, poz. 3 i Nr 43, poz. 163, z 1996 r. Nr 41, poz. 175 i Nr 89, poz. 402 oraz z 1997 r. Nr 43, poz. 272, Nr 75, poz. 467 i 469, Nr 104, poz. 661 i Nr 121, poz. 769 i 770) wprowadza się następujące zmiany:
+- **1)** wart. 9 w ust. 2 wyrazy "Minister Edukacji Naro dowej" wyrazami "minister wy do spraw szkolnictwa w porozumieniu z ministrem do spraw reli gijnych";
+- **2)** wart. 42 w ust. 5 wyrazy "Minister Gospodarki Przestrzennej i Budownictwa" wyra zami "minister do spraw administracji publicznej".
 
-- **1)** użyte w ustawie w różnych przypadkach wyrazy „Przewodniczący Komitetu Badań Naukowych” zastępuje się użytymi w tych samych przypadkach wyrazami „minister właściwy do spraw nauki”;
-- **2)** w art. 31 ust. 2 otrzymuje brzmienie: „
+**Art. 51.** W ustawie z dnia 6 kwietnia 1990 r. o Poli cji (Dz. U. 30, poz. 179, z 1991 r. 94, poz. 422 i 107, poz. 461, z 1992 r. 54, poz. 254, z 1994 r. 53, poz. 214, z 1995 r. 4, poz. 17, 34, poz. 163 i 104, poz. 515, z 1996 r. 59, poz. 269 i 106, poz. 496 oraz z 1997 r. 28, poz. 153, 80, poz. 499, 88, poz. 554, 106, poz. 680 i 123, poz. 779) wart. 73 w ust. 4 wyrazy "z Ministrem Pracy i Polityki Socjalnej" wyrazami "z ministrem do spraw zabezpieczenia
 
-2. Jednostki, o których mowa w ust. 1, ustala minister właściwy do spraw nauki. ” ;
+**Art. 52.** W ustawie z dnia 6 kwietnia 1990 r. o dzie Ochrony (Dz. U. 30, poz. 180, z 1991 r. 94, poz. 422 i 107, poz. 461, z 1992 r. 54, poz. 254, z 1994 r. 53, poz. 214, z 1995 r. 4, poz. 17, 34, poz. 163 i 104, poz. 515, z 1996 r. 59, poz. 269, 106, poz. 496 i 156, poz. 775 oraz z 1997 r. 28, poz. 153, 70, poz. 443 i 88 poz. 554) wprowadza zmiany:
 
-- **3)** w art. 74 w ust. 1 wyrazy „Ministra Edukacji Narodowej” zastępuje się wyrazami „ministra właściwego do spraw szkolnictwa wyższego”;
-- **4)** w art. 75 ust. 1 otrzymuje brzmienie: „
+- **1)** wart. 60 w ust. 4 wyrazy "z Ministrem Pracy i Po lityki Socjalnej" wyrazami "z mini strem do spraw zabezpieczenia spo
+- **2)** wart. 97 ust. 2 otrzymuje brzmienie: ,,2. funduszu na nagrody i zapomogi dla funkcjonariuszy Szef Ochrony w porozumieniu z ministrem wym do spraw pracy i ministrem do spraw zabezpieczenia
 
-1. Na wniosek dyrektora wielozakładowego przedsiębiorstwa państwowego jego organ założycielski, działając w porozumieniu z ministrami właściwymi do spraw nauki i do spraw pracy, może rozciągnąć wszystkie lub niektóre przepisy rozdziałów 6–12 na zakład badawczo-rozwojowy, działający jako organizacyjnie wyodrębniona jednostka tego przedsiębiorstwa i prowadzący działalność, o której mowa w art. 2. ”
+**Art. 53.** W ustawie z dnia 12 1990 r. o szkolnictwie (Dz. U. 65, poz. 385, z 1992 r. 54, poz. 254 i 63, poz. 314, z 1994 r. 1, poz. 3, 43, poz. 163, 105, poz. 509 i 121, poz. 591, z 1996 r. 5, poz. 34 i 24, poz. 110 oraz z 1997 r. 28, poz. 153, 96, poz. 590, 104, poz. 661 i 121, poz. 770) wart. 3 w ust. 6 wyrazy "Ministra Edukacji Narodowej" wyrazami "mini stra do spraw i wychowania".
 
-**Art. 49.** W ustawie z dnia 19 listopada 1987 r. o dozorze technicznym (Dz. U. Nr 36, poz. 202, z 1995 r. Nr 104, poz. 515, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 64, poz. 406 i Nr 88, poz. 554) w art. 24 w ust. 2 skreśla się wyrazy „w porozumieniu z Ministrem Spraw Wewnętrznych i Administracji”.
+**Art. 54.** W ustawie z dnia 5 stycznia 1991 r. Prawo (Dz. U. z 1993 r. 72, poz. 344, z 1994 r. 76, poz. 344, 121, poz. 591 i 133, poz. 685, z 1995 r. 78, poz. 390, 124, poz. 601 i 132, poz. 640, z 1996 r. 89, poz. 402, 106, poz. 496, 132, poz. 621 i 139, poz. 647 oraz z 1997 54, poz. 348, 79, poz. 484, 121, poz. 770, 123, poz. 775 i 778, 133, poz. 883 i 137, poz. 926) wprowadza zmiany,:
 
-**Art. 50.** W ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. Nr 29, poz. 154, z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425 i Nr 107, poz. 459, z 1993 r. Nr 7, poz. 34, z 1994 r. Nr 1, poz. 3 oraz z 1997 r. Nr 28, poz. 153 i Nr 96, poz. 590) wprowadza się następujące zmiany:
+- **1)** w ustawie w przypadkach wyrazy "Minister Szef Rady Ministrów" puje w tych samych przypadkach wy razami "minister do spraw administracji publicznej" ;
+- **2)** w art. 9 w ust. 5 po wyrazie "ustala," dodaje wy razy "z klasyfikacji admi nistracji
+- **3)** wart. 19 w ust. 5 wyrazy "Minister Edukacji Naro dowej" wyrazami "Minister wy do spraw i wychowania oraz minister do spraw szkolnictwa a wy razy i "ustala" odpowied nio wyrazami i
+- **4)** w art. 70:
+    - **a)** w ust. 1 wyrazy "Ministrowie Obrony Narodo wej, Spraw i Administracji" za wyrazami "Ministrowie: do spraw obrony narodowej, do spraw i do spraw admi nistracji publicznej",
+    - **b)** w ust. 2 wyrazy Komitetu Naukowych" wyrazami "ministrem do spraw nauki".
 
-- **1)** w art. 9 w ust. 2 wyrazy „Minister Edukacji Narodowej” zastępuje się wyrazami „minister właściwy do spraw szkolnictwa wyższego w porozumieniu z ministrem właściwym do spraw wyznań religijnych”;
-- **2)** w art. 42 w ust. 5 wyrazy „Minister Gospodarki Przestrzennej i Budownictwa” zastępuje się wyrazami „minister właściwy do spraw administracji publicznej”.
+**Art. 55.** W ustawie z dnia 24 stycznia 1991 o kom batantach oraz niektórych osobach ofiarami represji wojennych i okresu powojennego (Dz. U. 17, poz. 75 i 104, poz. 450, z 1992 21, poz. 85, z 1993 r. 29, poz. 133, 129, poz. 602 i 134, poz. 645, z 1994 r. 99, poz. 482, z 1995 r. 4, poz. 17 i 138, poz. 681 oraz z 1997 r. 15, poz. 83, 28, poz. 153, 64, poz. 405 i 68, poz. 436) wart. 7 wpro wadza zmiany:
 
-**Art. 51.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. Nr 30, poz. 179, z 1991 r. Nr 94, poz. 422 i Nr 107, poz. 461, z 1992 r. Nr 54, poz. 254, z 1994 r. Nr 53, poz. 214, z 1995 r. Nr 4, poz. 17, Nr 34, poz. 163 i Nr 104, poz. 515, z 1996 r. Nr 59, poz. 269 i Nr 106, poz. 496 oraz z 1997 r. Nr 28, poz. 153, Nr 80, poz. 499, Nr 88, poz. 554, Nr 106, poz. 680 i Nr 123, poz. 779) w art. 73 w ust. 4 wyrazy „z Ministrem Pracy i Polityki Socjalnej” zastępuje się wyrazami „z ministrem właściwym do spraw zabezpieczenia społecznego”.
+- **1)** w ust. 2 wyrazy "Prezesowi Rady Ministrów" puje wyrazami "ministrowi do spraw zabezpieczenia
+- **2)** w ust. 3 dodaje na wyrazy "na wniosek ministra do spraw zabezpieczenia spo
+- **3)** w ust. 4 wyrazy "Rada Ministrów" wyrazami "Prezes Rady Ministrów".
 
-**Art. 52.** W ustawie z dnia 6 kwietnia 1990 r. o Urzędzie Ochrony Państwa (Dz. U. Nr 30, poz. 180, z 1991 r. Nr 94, poz. 422 i Nr 107, poz. 461, z 1992 r. Nr 54, poz. 254, z 1994 r. Nr 53, poz. 214, z 1995 r. Nr 4, poz. 17, Nr 34, poz. 163 i Nr 104, poz. 515, z 1996 r. Nr 59, poz. 269, Nr 106, poz. 496 i Nr 156, poz. 775 oraz z 1997 r. Nr 28, poz. 153, Nr 70, poz. 443 i Nr 88, poz. 554) wprowadza się następujące zmiany:
+**Art. 56.** W ustawie z dnia 25 stycznia 1991 r. o utwo rzeniu Kultury Fizycznej i Turystyki (Dz. U. 16, poz. 74) wart. 1 ust. 4 otrzymuje brzmienie: ,,4. Prezesa i Prezes Ra dy Ministrów na wniosek ministra do spraw kultury fizycznej i turystyki. Nadzór nad Prezesem sprawuje minister do spraw kultury fizycznej i turystyki."
 
-- **1)** w art. 60 w ust. 4 wyrazy „z Ministrem Pracy i Polityki Socjalnej” zastępuje się wyrazami „z ministrem właściwym do spraw zabezpieczenia społecznego”;
-- **2)** w art. 97 ust. 2 otrzymuje brzmienie: „
+**Art. 57.** W ustawie z dnia 9 maja 1991 r. o zatrudnia niu i rehabilitacji zawodowej osób (Dz. U. 46, poz. 201, 80, poz. 350 i 110, poz. 472, z 1992 r. 21, poz. 85, z 1993 r. 11, poz. 50 i 28, poz. 127, z 1995 r. 1, poz. 1, 5, poz. 25 i 120, poz. 577 oraz z 1996 r. 100, poz. 461) wprowadza zmiany:
 
-2. Wysokość funduszu na nagrody i zapomogi dla funkcjonariuszy określa Szef Urzędu Ochrony Państwa, w porozumieniu z ministrem właściwym do spraw pracy i ministrem właściwym do spraw zabezpieczenia społecznego. ”
+- **1)** wart. 22 ust. 4 otrzymuje brzmienie: ,,4. Minister do spraw zabezpieczenia w porozumieniu z ministrami do spraw finansów publicznych i do spraw zdrowia w drodze nia, zasady wykorzystywania fundu szu rehabilitacji oraz tryb ustalania go regulaminu wykorzystywania tych ków.";
+- **2)** wart. 29: na podstawie przepisów mini stra do spraw zabezpieczenia "
+    - **a)** ust. 1 otrzymuje brzmienie: ,,1. Rada Ministrów ustanowi, z art. 10 ustawy z dnia 8 sierpnia 1996 r. o or ganizacji i trybie pracy Rady Ministrów oraz o zakresie ministrów (Dz. U. 106, poz. 492 i 156, poz. 775), do Spraw Osób zwanego dalej
+    - **b)** ust. 4 otrzymuje brzmienie: ,,4.
 
-**Art. 53.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110 oraz z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661 i Nr 121, poz. 770) w art. 3 w ust. 6 wyrazy „Ministra Edukacji Narodowej” zastępuje się wyrazami „ministra właściwego do spraw oświaty i wychowania”.
+**Art. 58.** W ustawie z dnia 7 1991 r. o sys temie (Dz. U. z 1996 r. 67, poz. 329 i 106, poz. 496 oraz z 1997 r. 28, poz. 153) wprowadza zmiany:
 
-**Art. 54.** W ustawie z dnia 5 stycznia 1991 r. – Prawo budżetowe (Dz. U. z 1993 r. Nr 72, poz. 344, z 1994 r. Nr 76, poz. 344, Nr 121, poz. 591 i Nr 133, poz. 685, z 1995 r. Nr 78, poz. 390, Nr 124, poz. 601 i Nr 132, poz. 640, z 1996 r. Nr 89, poz. 402, Nr 106, poz. 496, Nr 132, poz. 621 i Nr 139, poz. 647 oraz z 1997 r. Nr 54, poz. 348, Nr 79, poz. 484, Nr 121, poz. 770, Nr 123, poz. 775 i 778, Nr 133, poz. 883 i Nr 137, poz. 926) wprowadza się następujące zmiany:
+- **1)** wart. 3 w ust. 1 pkt 6 otrzymuje brzmienie: ,,6) ministrze przez to ministra do spraw i wychowania, z ministra na podsta wie art. 29 ust. 1,";
+- **2)** wart. 5 w ust. 10 wyrazy "ministrów i in ne";
+- **3)** w art. 9 ust. 3 otrzymuje brzmienie: ,,3. Minister do spraw i wycho wania w porozumieniu z ministrem do spraw kultury w drodze dzenia, typy artystycznych publicznych i niepublicznych oraz ustala zasady ich nia.";
+- **4)** wart. 10 ust. 2 otrzymuje brzmienie: ,,2. Minister do spraw i wycho wania w drodze szcze zasady i tryb przeprowadzania egzami nów eksternistycznych oraz zasa dy za ich przeprowadzanie.";
+- **5)** art. 25-27 i art. 29 ust. 2;
+- **6)** wart. 28 wyrazy "art. 25 i 26" wyra zem "ustawy";
+- **7)** w art. 35:
+    - **a)** w ust. 2: pkt 1-3, w pkt 4 wyraz "innymi",
+    - **b)** w ust. 6 wyrazy", a w stosunku do nauczycieli nadzór pedagogiczny nad i placówkami artystycznymi Mi nister Kultury i Sztuki w porozumieniu z Mini strem Edukacji Narodowej", a wyraz wyrazem
 
-- **1)** użyte w ustawie w różnych przypadkach wyrazy „Minister – Szef Urzędu Rady Ministrów” zastępuje się użytymi w tych samych przypadkach wyrazami „minister właściwy do spraw administracji publicznej”;
-- **2)** w art. 9 w ust. 5 po wyrazie „ustala,” dodaje się wyrazy „z uwzględnieniem klasyfikacji działów administracji rządowej”;
-- **3)** w art. 19 w ust. 5 wyrazy „Minister Edukacji Narodowej” zastępuje się wyrazami „Minister właściwy do spraw oświaty i wychowania oraz minister właściwy do spraw szkolnictwa wyższego”, a wyrazy „określa” i „ustala” zastępuje się odpowiednio wyrazami „określają” i „ustalają”;
-- **4)** w art. 70: w ust. 1 wyrazy „Ministrowie Obrony Narodowej, Spraw Wewnętrznych i Administracji” zastępuje się wyrazami: „Ministrowie: właściwy do spraw obrony narodowej, właściwy do spraw wewnętrznych i właściwy do spraw administracji publicznej”, w ust. 2 wyrazy „Przewodniczącemu Komitetu Badań Naukowych” zastępuje się wyrazami „ministrem właściwym do spraw nauki”.
-    - **a)**
-    - **b)**
+- **8)** w art. 36:
+    - **a)** w ust. 2 wyrazy "a w stosunku do arty stycznych Minister Kultury i Sztuki puje wyrazami "a w stosunku do arty stycznych w porozumieniu z ministrem wym do spraw kultury
+    - **b)** w ust. 3 wyrazy "a w stosunku do arty stycznych Minister Kultury i Sztuki wyrazami "a w stosunku do artystycznych w porozumieniu z ministrem do spraw kultury
 
-**Art. 55.** W ustawie z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. Nr 17, poz. 75, Nr 104, poz. 450, z 1992 r. Nr 21, poz. 85, z 1993 r. Nr 29, poz. 133, Nr 129, poz. 602 i Nr 134, poz. 645, z 1994 r. Nr 99, poz. 482, z 1995 r. Nr 4, poz. 17 i Nr 138, poz. 681 oraz z 1997 r. Nr 15, poz. 83, Nr 28, poz. 153, Nr 64, poz. 405 i Nr 68, poz. 436) w art. 7 wprowadza się następujące zmiany:
+- **9)** w art. 58 ust. 3 otrzymuje brzmienie: ,,3. publicznej przez praw lub z gminy i ko munalnego, wymaga zezwolenia kuratora po uzyskaniu opinii ze na ministra, z ministra do spraw i wychowania. Dotyczy to wymienionej w przepisach wydanych na podstawie art. 29.";
+- **10)** art. 87 otrzymuje brzmienie: "Art. 87. W stosunku do wymienionych w przepisach wydanych na podstawie art. 29 ministrom uprawnienia kuratora i Ministra Edukacji Narodowej, w art. 85 ust. 2 i 3 oraz art. 86.";
+- **11)** wart. 90 w ust. 5 wyrazy", a w odnie sieniu do artystycznych Minister Kultury i Sztuki,".
 
-- **1)** w ust. 2 wyrazy „Prezesowi Rady Ministrów” zastępuje się wyrazami „ministrowi właściwemu do spraw zabezpieczenia społecznego”,
-- **2)** w ust. 3 dodaje się na końcu wyrazy „na wniosek ministra właściwego do spraw zabezpieczenia społecznego”,
-- **3)** w ust. 4 wyrazy „Rada Ministrów” zastępuje się wyrazami „Prezes Rady Ministrów”.
+**Art. 59.** W ustawie z dnia 20 lipca 1991 r. o wej Inspekcji Ochrony Środowiska (Dz. U. 77, poz. 335, z 1996 r. 106, poz. 496 oraz z 1997 r. 121, poz. 770 i 133, poz. 885) art. 1 otrzymuje brzmienie: "Art. 1. Główny Inspektor Ochrony Środowiska jest centralnym organem administracji dowej, do kontroli przestrze gania przepisów o ochronie oraz badania stanu nadzoro wanym przez ministra do spraw
 
-**Art. 56.** W ustawie z dnia 25 stycznia 1991 r. o utworzeniu Urzędu Kultury Fizycznej i Turystyki (Dz. U. Nr 16, poz. 74) w art. 1 ust. 4 otrzymuje brzmienie: „ 4. Prezesa Urzędu powołuje i odwołuje Prezes Rady Ministrów na wniosek ministra właściwego do spraw kultury fizycznej i turystyki. Nadzór nad Prezesem Urzędu sprawuje minister właściwy do spraw kultury fizycznej i turystyki. ”
+**Art. 60.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 1993 r. 90, poz. 416 i 134, poz. 646, z 1994 r. 43, poz. 163, 90, poz. 419, 113, poz. 547, 123, poz. 602 i 126, poz. 626, z 1995 r. 5, poz. 25 i 133, poz. 654, z 1996 r. 25, poz. 113, 87, poz. 395, 137, poz. 638, 147, poz. 686 i 156, poz. 776 oraz z 1997 r. 28, poz. 153, 30, poz. 164, 71, poz. 449, 85, poz. 538, 96, poz. 592, 121, poz. 770, 123, poz. 776, 137, poz. 926 i 139, poz. 932-934) wprowadza zmiany:
 
-**Art. 57.** W ustawie z dnia 9 maja 1991 r. o zatrudnianiu i rehabilitacji zawodowej osób niepełnosprawnych (Dz. U. Nr 46, poz. 201, Nr 80, poz. 350 i Nr 110, poz. 472, z 1992 r. Nr 21, poz. 85, z 1993 r. Nr 11, poz. 50 i Nr 28, poz. 127, z 1995 r. Nr 1, poz. 1, Nr 5, poz. 25 i Nr 120, poz. 577 oraz z 1996 r. Nr 100, poz. 461) wprowadza się następujące zmiany:
+- **1)** wart. 26 w ust. 14 wyrazy "Ministrem Pracy i Poli tyki Socjalnej" wyrazami "ministrem do spraw zabezpieczenia
+- **2)** w art. 27a w ust. 19 wyrazy "Minister Gospodarki Przestrzennej i Budownictwa" wyrazami "Minister do spraw mieszkalnictwa i rozwoju miast".
 
-- **1)** w art. 22 ust. 4 otrzymuje brzmienie: „
+**Art. 61.** W ustawie z dnia 17 1991 r. o rewaloryzacji emerytur i rent, o zasadach ustalania emerytur i rent oraz o zmianie niektórych ustaw (Dz. U. 104, poz. 450 , z 1992 r. 21, poz. 84, z 1993 r. 127, poz. 583 i 129, poz. 602, z 1994 r. 84, poz. 385, z 1995 r. 4, poz. 17, 95, poz. 473 i 138, poz. 681, z 1996 r. 87, poz. 395, 100, poz. 461, 136, pot. 636 i 147, poz. 687 oraz z 1997 r. 30, poz. 164, 106, poz. 676 i 111, poz. 725) wprowa dza zmiany:
 
-4. Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z ministrami właściwymi do spraw finansów publicznych i do spraw zdrowia określa, w drodze rozporządzenia, zasady wykorzystywania środków funduszu rehabilitacji oraz tryb ustalania zakładowego regulaminu wykorzystywania tych środków. ” ;
+- **1)** wart. 15 ust. 6 otrzymuje brzmienie: ,,6. zasady o których mowa w ust. 5, minister do spraw zabezpieczenia oraz minister do spraw rolnictwa, w porozumieniu z ministrem do spraw finansów pu blicznych.";
+- **2)** wart. 25 ust. 4 otrzymuje brzmienie: ,,4. Minister do spraw zabezpieczenia w drodze zasady zawieszania pra wa do emerytury lub renty oraz zmniejszania tych
 
-- **2)** w art. 29: ust. 1 otrzymuje brzmienie: „
-    - **a)**
+**Art. 62.** W ustawie z dnia 25 1991 r. o organizowaniu i prowadzeniu kultural nej (Dz. U. z 1997 r. 110, poz. 721) wart. 39 ust. 1 otrzymuje brzmienie: " 1. Przepisów ustawy nie stosuje do kulturalnej prowadzonej przez ministrów do spraw obrony narodowej, do spraw i do spraw sprawiedliwo
 
-1. Rada Ministrów ustanowi, z uwzględnieniem art. 10 ustawy z dnia 8 sierpnia 1996 r. o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów (Dz. U. Nr 106, poz. 492 i Nr 156, poz. 775), Pełnomocnika Rządu do Spraw Osób Niepełnosprawnych, zwanego dalej Pełnomocnikiem. ” , ust. 4 otrzymuje brzmienie: „
+**Art. 63.** W ustawie z dnia 7 1992 r. o re gionalnych izbach obrachunkowych (Dz. U. 85, poz. 428, z 1994 r. 76, poz. 344, z 1995 r. 124, poz. 601, z 1996 r. 58, poz. 262 i 106, poz. 496 oraz z 1997 r. 28, poz. 153, 41, poz. 255, 106, poz. 679 i 113, poz. 734) wart. 7 ust. 3 otrzymuje brzmienie: ,,3. Krajowego Kas, kas regional nych i kas izby na wniosek ministrów: do spraw fi nansów publicznych, do spraw zdrowia, do spraw do spraw administracji publicznej, do spraw obrony narodowej oraz do spraw transportu."
 
-- **b)**
+**Art. 64.** W ustawie z dnia 7 stycznia 1993 r. o plano waniu rodziny, ochronie ludzkiego i warunkach przerywania (Dz. U. 17, poz. 78, z 1995 r. 66, poz. 334 i z 1996 r. 139, poz. 646) wart. 4a w ust. 10 wyrazy "Ministrem Pracy i Polityki Socjalnej" wyrazami "ministrem do spraw zabezpieczenia
 
-4. Pełnomocnika obsługuje urząd obsługujący, na podstawie przepisów odrębnych, ministra właściwego do spraw zabezpieczenia społecznego. ”
+**Art. 65.** W ustawie z dnia 8 stycznia 1993 r. o podat ku od towarów i oraz o podatku akcyzowym (Dz. U. 11, poz. 50, 28, poz. 127 i 129, poz. 599, z 1994 r. 132, poz. 670, z 1995 r. 44, poz. 231 i 142, poz. 702 i 703, z 1996 r. 137, poz. 640 oraz z 1997 r. 111, poz. 722, 123, poz. 776 i 780 i 137, poz. 926) wart. 51 w ust. 6 wyrazy "Ministrem Gospodarki Przestrzennej i Budownictwa" wyrazami "ministrem do spraw gospo darki".
 
-**Art. 58.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 1996 r. Nr 67, poz. 329 i Nr 106, poz. 496 oraz z 1997 r. Nr 28, poz. 153) wprowadza się następujące zmiany:
+**Art. 66.** W ustawie z dnia 3 lutego 1993 r. o restruk turyzacji finansowej i banków oraz o zmianie niektórych ustaw (Dz. U. 18, poz. 82, z 1996 r. 52, poz. 235, 106, poz. 496 i 118, poz. 561 oraz z 1997 r. 98, poz. 603) wart. 19 w ust. 2 wyrazy "Minister Finansów" wyrazami "minister do spraw finansów publicznych".
 
-- **1)** w art. 3 w ust. 1 pkt 6 otrzymuje brzmienie: „
-- **6)** ministrze – należy przez to rozumieć ministra właściwego do spraw oświaty i wychowania z wyjątkiem ministra określonego na podstawie art. 29 ust. 1, ” ;
-- **2)** w art. 5 w ust. 10 skreśla się wyrazy „ministrów i inne”;
-- **3)** w art. 9 ust. 3 otrzymuje brzmienie: „
+**Art. 67.** W ustawie z dnia 28 maja 1993 r. Ordy nacja wyborcza do Sejmu Rzeczypospolitej Polskiej (Dz. U. 45, poz. 205, z 1995 r. 132, poz. 640 oraz z 1997 r. 47, poz. 297, 70, poz. 443, 88, poz. 554, 98, poz. 604 i 121, poz. 770) w przy padkach wyrazy "Minister Transportu i Gospodarki Morskiej" w tych samych przy padkach wyrazami "minister do spraw go spodarki morskiej".
 
-3. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw kultury określa, w drodze rozporządzenia, typy szkół artystycznych publicznych i niepublicznych oraz ustala zasady ich działania. ” ;
+**Art. 68.** W ustawie z dnia 29 grudnia 1993 r. o utwo rzeniu Agencji Restrukturyzacji i Modernizacji Rolnic twa (Dz. U. z 1994 r. l, poz. 2, 80, poz. 369 i 98, poz. 473 oraz z 1997 r. 41, poz. 255 i 79, poz. 484) wprowadza zmiany:
 
-- **4)** w art. 10 ust. 2 otrzymuje brzmienie: „
+- **1)** w przypadkach wyrazy "Minister Rolnictwa i Gospodarki Żywnościowej" zastępuje w tych samych przypadkach wyrazami "minister do spraw rozwoju wsi";
+- **2)** w art. 5 w ust. 3 wyrazy "oraz Komisji Rolnictwa i Gospodarki Żywnościowej Sejmu Rze czypospolitej Polskiej".
 
-2. Minister właściwy do spraw oświaty i wychowania określa, w drodze rozporządzenia, szczegółowe zasady i tryb przeprowadzania egzaminów eksternistycznych oraz szczegółowe zasady odpłatności za ich przeprowadzanie. ” ;
+**Art. 69.** W ustawie z dnia 7 lipca 1994 r. o zagospo darowaniu przestrzennym (Dz. U. 89, poz. 415, z 1996 r. 106, poz. 496 oraz z 1997 r. 111, poz. 726 i 133, poz. 885) wprowadza zmiany:
 
-- **5)** skreśla się art. 25–27 i art. 29 ust. 2;
-- **6)** w art. 28 wyrazy „art. 25 i 26” zastępuje się wyrazem „ustawy”;
-- **7)** w art. 35: w ust. 2: – skreśla się pkt 1–3, – w pkt 4 skreśla się wyraz „innymi”, w ust. 6 skreśla się wyrazy „, a w stosunku do nauczycieli sprawujących nadzór pedagogiczny nad szkołami i placówkami artystycznymi – Minister Kultury i Sztuki w porozumieniu z Ministrem Edukacji Narodowej”, a wyraz „określają” zastępuje się wyrazem „określa”;
-    - **a)**
-    - **b)**
+- **1)** wart. 52 w ust. 4 wyrazy "Prezes Rady Ministrów" wyrazami "Minister do spraw mieszkalnictwa i rozwoju miast";
+- **2)** w art. 56 w ust. 3 i 4 po wyrazach " Prezes Rady Mini strów" dodaje wyrazy "na wniosek ministra do spraw mieszkalnictwa i rozwoju miast".
 
-- **8)** w art. 36: w ust. 2 wyrazy „a w stosunku do szkół artystycznych Minister Kultury i Sztuki mogą” zastępuje się wyrazami „a w stosunku do szkół artystycznych w porozumieniu z ministrem właściwym do spraw kultury może”, w ust. 3 wyrazy „a w stosunku do szkół artystycznych – Minister Kultury i Sztuki określają” zastępuje się wyrazami „a w stosunku do szkół artystycznych w porozumieniu z ministrem właściwym do spraw kultury określa”;
-    - **a)**
-    - **b)**
+**Art. 70.** W ustawie z dnia 26 1995 r. o niektórych formach popierania budownictwa miesz kaniowego oraz o zmianie niektórych ustaw (Dz. U. 133, poz. 654, z 1996 r. 106, poz. 496 i 156, poz. 775 oraz z 1997 r. 80, poz. 507, 103, poz. 651, 115, poz. 741 i 140, poz. 939) wprowadza na zmiany:
 
-- **9)** w art. 58 ust. 3 otrzymuje brzmienie: „
+- **1)** wart. 33b w pkt 1 i 3 wyrazy "inicjowa nie i";
+- **2)** w art. 33c w pkt 1 wyrazy "Radzie Ministrów" za wyrazami "ministrowi do spraw mieszkalnictwa i rozwoju miast".
 
-3. Założenie szkoły publicznej przez osobę prawną lub fizyczną, z wyjątkiem gminy i związku komunalnego, wymaga zezwolenia kuratora oświaty po uzyskaniu opinii właściwego, ze względu na dziedzinę kształcenia, ministra z wyłączeniem ministra właściwego do spraw oświaty i wychowania. Dotyczy to również szkoły wymienionej w przepisach wydanych na podstawie art. 29. ” ;
+**Art. 71.** W ustawie z dnia 21 czerwca 1996 r. o dzie Ministra Finansów oraz o i izbach skar bowych (Dz. U. 106, poz. 489 i z 1997 r. 121, poz. 770) wprowadza zmiany:
 
-- **10)** art. 87 otrzymuje brzmienie: „
+- **1)** w tytule ustawy wyrazy Mi nistra Finansów oraz";
+- **2)** art. 1-4 i art. 9;
+- **3)** wart. 5 ust. 9 otrzymuje brzmienie: ,,9. Minister do spraw finansów publicz nych w porozumieniu z ministrem do spraw administracji publicznej w drodze terytorialny zakres oraz siedziby i izb skarbo wych."
 
-**Art. 87.** W stosunku do szkół wymienionych w przepisach wydanych na podstawie art. 29 właściwym ministrom przysługują uprawnienia kuratora oświaty i Ministra Edukacji Narodowej, określone w art. 85 ust. 2 i 3 oraz art. 86. ” ;
+**Art. 72.** W ustawie z dnia 21 czerwca 1996 r. o dzie Ministra Spraw i Administracji (Dz. U. 106, poz. 491 i z 1997 r. 70, poz. 443) wpro wadza zmiany:
 
-- **11)** w art. 90 w ust. 5 skreśla się wyrazy „, a w odniesieniu do szkół artystycznych – Minister Kultury i Sztuki,”.
+- **1)** otrzymuje brzmienie: niektórych uprawnie niach pracowników mini stra do spraw oraz funkcjonariuszy i pracowników nadzoro wanych przez tego ministra";
+- **2)** art. 1-5, art. 6 ust. 1, art. 8 ust. 1, art. 10 i art. 11;
+- **3)** wart. 9 w ust. 1 i 2 wyrazy "resortu spraw we i administracji" wyraza mi "jednostek mu lub przez niego nadzorowanych".
 
-**Art. 59.** W ustawie z dnia 20 lipca 1991 r. o Państwowej Inspekcji Ochrony Środowiska (Dz. U. Nr 77, poz. 335, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 121, poz. 770 i Nr 133, poz. 885) art. 1 otrzymuje brzmienie: „ Główny Inspektor Ochrony Środowiska jest centralnym organem administracji rządowej, powołanym do kontroli przestrzegania przepisów o ochronie środowiska oraz badania stanu środowiska, nadzorowanym przez ministra właściwego do spraw środowiska. ”
+**Art. 73.** W ustawie z dnia 8 sierpnia 1996 r. o orga nizacji i trybie pracy Rady Ministrów oraz o zakresie ministrów (Dz. U. 106, poz. 492 i 156, poz. 775) wart. 33 dodaje ust. 1a w brzmieniu: ,,1a. Prezes Rady Ministrów wy zakres ministra, w wypadku mi nistra admi nistracji
 
-**Art. 60.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 1993 r. Nr 90, poz. 416 i Nr 134, poz. 646, z 1994 r. Nr 43, poz. 163, Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 126, poz. 626, z 1995 r. Nr 5, poz. 25 i Nr 133, poz. 654, z 1996 r. Nr 25, poz. 113, Nr 87, poz. 395, Nr 137, poz. 638, Nr 147, poz. 686 i Nr 156, poz. 776 oraz z 1997 r. Nr 28, poz. 153, Nr 30, poz. 164, Nr 71, poz. 449, Nr 85, poz. 538, Nr 96, poz. 592, Nr 121, poz. 770, Nr 123, poz. 776, Nr 137, poz. 926 i Nr 139, poz. 932, Nr 139, poz. 933, Nr 139, poz. 934) wprowadza się następujące zmiany:
+- **1)** wskazuje, z przepisów o administracji lub którymi kieruje minister,
+- **2)** obszar spraw na do danego zgodnie z przepi sami ustawy i te zadania innemu ministrowi z tym jednak, to nie za zmiany w zakresie:
+    - **a)** wydawania aktów normatywnych: rozpo i
+    - **b)** wydawania decyzji administracyjnych i innych aktów administracyjnych w toku administracyjnego,
+    - **c)** sprawowania nadzoru lub wykonywania nadzorczych w stosunku do osoby prawnej,
 
-- **1)** w art. 26 w ust. 14 wyrazy „Ministrem Pracy i Polityki Socjalnej” zastępuje się wyrazami „ministrem właściwym do spraw zabezpieczenia społecznego”;
-- **2)** w art. 27a w ust. 19 wyrazy „Minister Gospodarki Przestrzennej i Budownictwa” zastępuje wyrazami „Minister właściwy do spraw mieszkalnictwa i rozwoju miast”.
+- **3)** z przepisów nych, zakres ministra jako dys ponenta lub nych
 
-**Art. 61.** W ustawie z dnia 17 października 1991 r. o rewaloryzacji emerytur i rent, o zasadach ustalania emerytur i rent oraz o zmianie niektórych ustaw (Dz. U. Nr 104, poz. 450, z 1992 r. Nr 21, poz. 84, z 1993 r. Nr 127, poz. 583 i Nr 129, poz. 602, z 1994 r. Nr 84, poz. 385, z 1995 r. Nr 4, poz. 17, Nr 95, poz. 473 i Nr 138, poz. 681, z 1996 r. Nr 87, poz. 395, Nr 100, poz. 461, Nr 136, poz. 636 i Nr 147, poz. 687 oraz z 1997 r. Nr 30, poz. 164, Nr 106, poz. 676 i Nr 111, poz. 725) wprowadza się następujące zmiany:
+**Art. 74.** W ustawie z dnia 8 sierpnia 1996 r. o dzie Ministra Skarbu (Dz. U. 106, poz. 493 i 156, poz. 775 oraz z 1997 r. 106, poz. 673 i 115, poz. 741) wprowadza zmiany:
 
-- **1)** w art. 15 ust. 6 otrzymuje brzmienie: „
+- **1)** tytuł otrzymuje brzmienie: zasadach wykonywa nia Skarbowi stwa";
+- **2)** 1 otrzymuje "Uprawnienia ministra do spraw Skarbu
+- **3)** art. 1 otrzymuje brzmienie: "Art. 1. Ogólne zadania ministra do spraw Skarbu przepisy
+- **4)** art. 2 otrzymuje brzmienie: "Art. 2. Minister do spraw Skarbu stwa:
+- **1)** przygotowuje i Radzie Mini strów oraz, z jej Sejmowi coroczne sprawozdania o stanie mienia Skarbu oraz o ekonomicznych, finansowych i skutkach prywatyzacji,
+- **2)** przygotowuje i Radzie Mini strów projekty rocznych kierunków pry watyzacji i programów prywatyzacji ma oraz coroczne spra wozdania z realizacji kierunków prywa tyzacji,
+- **3)** prowadzi Skarbu
+- **4)** prowadzi podmiotów, w jedno stek organizacyjnych, którym je prawo wykonywania wyni z praw Skarbu lub do w imieniu Skarbu stwa,
+- **5)** wykonuje uprawnienia z praw Skarbu w
+    - **a)** w zakresie praw z akcji i na do Skarbu z z nich prawami oso bistymi,
+    - **b)** w stosunku do mienia po likwidacji jednostki organizacyjnej lub Skarbowi w wyniku likwida cji z jego chyba przepisy inaczej,
 
-6. Szczegółowe zasady rozliczeń, o których mowa w ust. 5, określa minister właściwy do spraw zabezpieczenia społecznego oraz minister właściwy do spraw rolnictwa, w porozumieniu z ministrem właściwym do spraw finansów publicznych. ” ;
+- **6)** w Imieniu Skarbu woli o utworzeniu prawa handlowego lub do takiej oraz o utworzeniu fundacji innej osoby prawnej, przewidzianej przepisami prawa, chyba przepisy inaczej, sprawuje wykonywania upraw z praw Skarbu przez jed nostki organizacyjne, o których mowa w pkt 4, sprawuje wykonywania przez inne organy administracji oraz osoby prawne w przepisach, w zakresie wych, realizuje inne zadania w prze pisach
+- **5)** art. 6 i 7; wart. 17:
+    - **a)** w ust. 1 po wyrazach "w rozumieniu przeplsow o pracownikach doda je wyrazy "w dyrektorzy gene ralni
+    - **b)** ust. 2 otrzymuje brzmienie: ,,2. Kierownicy w zakresie reprezentowania Skar bu z przepisów od do repre zentowania Skarbu kierownikom im jednostek organiza cyjnych.";
 
-- **2)** w art. 25 ust. 4 otrzymuje brzmienie: „
+- **7)** wart. 18 ust. 2 otrzymuje brzmienie: ,,2. Minister do spraw Skarbu w porozumieniu z organami admi nistracji kierownikom lub innych wych jednostek organizacyjnych nie posiada prawnej do wykonywania wart. 2 pkt 5-8."
 
-4. Minister właściwy do spraw zabezpieczenia społecznego, w drodze rozporządzenia, może określić szczegółowe zasady zawieszania prawa do emerytury lub renty oraz zmniejszania wysokości tych świadczeń. ”
+**Art. 75.** W ustawie z dnia 25 kwietnia 1997 r. o Pol skiej Akademii Nauk (Dz. U. 75, poz. 469) wart. 38 wyrazy Komitetu Nauko wych" wyrazami "ministrem do spraw nauki". 5 Przepisy szczególne, i
 
-**Art. 62.** W ustawie z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 1997 r. Nr 110, poz. 721) w art. 39 ust. 1 otrzymuje brzmienie: „ 1. Przepisów ustawy nie stosuje się do działalności kulturalnej prowadzonej przez ministrów właściwych do spraw obrony narodowej, do spraw wewnętrznych i do spraw sprawiedliwości. ”
+**Art. 76.** Prezes Rady Ministrów, na wniosek mini stra do spraw ministra do spraw obrony narodowej oraz Szefa Ochrony ustala, w drodze dzenia, kompetencji Poli Ochrony i Kraju oraz wojskowe organy i Wojskowe Infor macyjne ministrowi do spraw obrony narodowej oraz zasady ich
 
-**Art. 63.** W ustawie z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych (Dz. U. Nr 85, poz. 428, z 1994 r. Nr 76, poz. 344, z 1995 r. Nr 124, poz. 601, z 1996 r. Nr 58, poz. 262 i Nr 106, poz. 496 oraz z 1997 r. Nr 28, poz. 153, Nr 41, poz. 255, Nr 106, poz. 679 i Nr 113, poz. 734) w art. 7 ust. 3 otrzymuje brzmienie: „ 3. Kontrolę Krajowego Związku Kas, kas regionalnych i kas branżowych izby mogą prowadzić na wniosek ministrów: właściwego do spraw finansów publicznych, właściwego do spraw zdrowia, właściwego do spraw wewnętrznych, właściwego do spraw administracji publicznej, właściwego do spraw obrony narodowej oraz właściwego do spraw transportu. ”
+**Art. 77.**
 
-**Art. 64.** W ustawie z dnia 7 stycznia 1993 r. o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży (Dz. U. Nr 17, poz. 78, z 1995 r. Nr 66, poz. 334 i z 1996 r. Nr 139, poz. 646) w art. 4a w ust. 10 wyrazy „Ministrem Pracy i Polityki Socjalnej” zastępuje się wyrazami „ministrem właściwym do spraw zabezpieczenia społecznego”.
+1. Minister do spraw w drodze warunki emisji skar bowych papierów a w nominalne poszczególnych emisji, i sposób oprocentowania, ich terminy wykupu i odsetkowych, podmioty uprawnione do nabycia, sposób ustalenia ceny emisyjnej oraz terminy przedawnienia, z ust. 2.
 
-**Art. 65.** W ustawie z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym (Dz. U. Nr 11, poz. 50, Nr 28, poz. 127 i Nr 129, poz. 599, z 1994 r. Nr 132, poz. 670, z 1995 r. Nr 44, poz. 231 i Nr 142, poz. 702 i 703, z 1996 r. Nr 137, poz. 640 oraz z 1997 r. Nr 111, poz. 722, Nr 123, poz. 776 i 780 i Nr 137, poz. 926) w art. 51 w ust. 6 wyrazy „Ministrem Gospodarki Przestrzennej i Budownictwa” zastępuje się wyrazami „ministrem właściwym do spraw gospodarki”.
+2. Dopuszczalny stan Skarbu z skarbowych papierów przepisy
 
-**Art. 66.** W ustawie z dnia 3 lutego 1993 r. o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw (Dz. U. Nr 18, poz. 82, z 1996 r. Nr 52, poz. 235, Nr 106, poz. 496 i Nr 118, poz. 561 oraz z 1997 r. Nr 98, poz. 603) w art. 19 w ust. 2 wyrazy „Minister Finansów” zastępuje się wyrazami „minister właściwy do spraw finansów publicznych”.
+**Art. 78.** Minister do spraw finansów pu blicznych ustala: zasady ewidencji i Skarbu warunki prowadzenia zgroma dzonych na rachunkach likwidacyjnych, w tym za sady stosowania kursów walut dla jednostek rozli czeniowych.
 
-**Art. 67.** W ustawie z dnia 28 maja 1993 r. – Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej (Dz. U. Nr 45, poz. 205, z 1995 r. Nr 132, poz. 640 oraz z 1997 r. Nr 47, poz. 297, Nr 70, poz. 443, Nr 88, poz. 554, Nr 98, poz. 604 i Nr 121, poz. 770) użyte w różnych przypadkach wyrazy „Minister Transportu i Gospodarki Morskiej” zastępuje się użytymi w tych samych przypadkach wyrazami „minister właściwy do spraw gospodarki morskiej”.
+**Art. 79.** Ilekroć w przepisach jest mowa o ministrze: do spraw lub w nych sprawach przez to mini stra w sprawach oznaczonych danego z przepisów rozdzia 4,
 
-**Art. 68.** W ustawie z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 1994 r. Nr 1, poz. 2, Nr 80, poz. 369 i Nr 98, poz. 473 oraz z 1997 r. Nr 41, poz. 255 i Nr 79, poz. 484) wprowadza się następujące zmiany:
+- **2)** jego przez to ministra do spraw oznaczo nych jego i w odpo wiednich przepisach ustawy, z prze pisów 4, z tym
+    - **a)** minister do spraw finansów publicz nych wykonuje zadania i kompetencje dotychczas do Ministra Finansów z spraw, które do zakresu i kom petencji ministrów do spraw tu oraz do spraw instytucji finansowych,
+    - **b)** minister do spraw wyko nuje zadania i kompetencje dotychczas do Ministra Ochrony Środowiska, Zasobów Na turalnych i z spraw, któ re do zakresu ministra do spraw gospodarki wodnej,
+    - **c)** minister do spraw i wychowa nia wykonuje zadania i kompetencje dotychczas do Ministra Edukacji Narodowej z spraw, które do zakresu i kompetencji ministra do spraw szkolnictwa
+    - **d)** minister do spraw pracy wykonuje za dania i kompetencje do Ministra Pracy i Polityki Socjalnej z spraw, które do zakresu i kompetencji ministra do spraw zabezpieczenia spo
+    - **e)** minister do spraw rolnictwa wykonuje zadania i kompetencje dotychczas do Ministra Rolnictwa i Gospodarki Żywnościowej z spraw, które do za kresu i kompetencji ministrów wych do spraw gospodarki wodnej oraz do spraw rozwoju wsi,
+    - **f)** minister do spraw transportu wykonu je zadania i kompetencje dotychczas do Ministra Transportu i Gospodarki Morskiej z spraw, które do zakresu i kompetencji ministrów do spraw gospodarki morskiej oraz do spraw go spodarki wodnej,
+    - **g)** minister do spraw wy konuje zadania i kompetencje dotych czas do Ministra Spraw i Admini stracji z spraw, które do zakresu i kompetencji ministra wego do spraw administracji publicznej.
 
-- **1)** użyte w różnych przypadkach wyrazy „Minister Rolnictwa i Gospodarki Żywnościowej” zastępuje się użytymi w tych samych przypadkach wyrazami „minister właściwy do spraw rozwoju wsi”;
-- **2)** w art. 5 w ust. 3 skreśla się wyrazy „oraz Komisji Rolnictwa i Gospodarki Żywnościowej Sejmu Rzeczypospolitej Polskiej”.
+**Art. 80.** Do zakresu ministra do spraw administracji publicznej zadania i kompetencje dotychczas do Ministra Spraw i Administracji na podstawie przepi sów:
 
-**Art. 69.** W ustawie z dnia 7 lipca 1994 r. o zagospodarowaniu przestrzennym (Dz. U. Nr 89, poz. 415, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 111, poz. 726 i Nr 133, poz. 885) wprowadza się następujące zmiany:
+- **1)** o aktach stanu cywilnego,
+- **2)** o autostradach
+- **3)** o cenach,
+- **4)** o cmentarzach i chowaniu
+- **5)** o drogach publicznych,
+- **6)** o ewidencji i dowodach osobistych,
+- **7)** o gospodarce
+- **8)** o grobach i cmentarzach wojennych,
+- **9)** o paszportach,
+- **10)** o pracownikach z zastrze art. 46,
+- **11)** prawa budowlanego,
+- **12)** prawa geodezyjnego i kartograficznego,
+- **13)** prawa geologicznego i górniczego,
+- **14)** o Radzie Ochrony Walk i
+- **15)** o regionalnych izbach obrachunkowych,
+- **16)** o rybactwie
+- **17)** o terytorialnym i przepisów wprowa te przepisy,
+- **18)** o farmaceutycznych, me dycznych, aptekach, hurtowniach i nadzorze far maceutycznym.
 
-- **1)** w art. 52 w ust. 4 wyrazy „Prezes Rady Ministrów” zastępuje się wyrazami „Minister właściwy do spraw mieszkalnictwa i rozwoju miast”;
-- **2)** w art. 56 w ust. 3 i 4 po wyrazach „Prezes Rady Ministrów” dodaje się wyrazy „na wniosek ministra właściwego do spraw mieszkalnictwa i rozwoju miast”.
+**Art. 81.** Do zakresu ministra do spraw zadania i kompetencje dotychczas do Ministra Finansów na podsta wie przepisów prawa z art. 54.
 
-**Art. 70.** W ustawie z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego oraz o zmianie niektórych ustaw (Dz. U. Nr 133, poz. 654, z 1996 r. Nr 106, poz. 496 i Nr 156, poz. 775 oraz z 1997 r. Nr 80, poz. 507, Nr 103, poz. 651, Nr 115, poz. 741 i Nr 140, poz. 939) wprowadza się następujące zmiany:
+**Art. 82.** Do zakresu ministra do spraw gospodarki morskiej zadania i kompetencje dotychczas do Ministra Trans portu i Gospodarki Morskiej na podstawie przepisów:
 
-- **1)** w art. 33b w pkt 1 i 3 skreśla się wyrazy „inicjowanie i”;
-- **2)** w art. 33c w pkt 1 wyrazy „Radzie Ministrów” zastępuje się wyrazami „ministrowi właściwemu do spraw mieszkalnictwa i rozwoju miast”.
+- **1)** o izbach morskich, Kodeksu morskiego, o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, o portach i przystaniach morskich, o pracy na morskich statkach handlowych,
+- **6)** o powszechnym obrony Rzeczypospoli tej Polskiej, o morskim, o zapobieganiu zanieczyszczania morza przez stat ki.
 
-**Art. 71.** W ustawie z dnia 21 czerwca 1996 r. o urzędzie Ministra Finansów oraz o urzędach i izbach skarbowych (Dz. U. Nr 106, poz. 489 i z 1997 r. Nr 121, poz. 770) wprowadza się następujące zmiany:
+**Art. 83.** Do zakresu ministra do spraw gospodarki wodnej zadania i kompetencje dotychczas do:
 
-- **1)** w tytule ustawy skreśla się wyrazy „o urzędzie Ministra Finansów oraz”;
-- **2)** skreśla się art. 1–4 i art. 9;
-- **3)** w art. 5 ust. 9 otrzymuje brzmienie: „
+- **1)** Ministra Ochrony Środowiska, Zasobów Natural nych i na podstawie przepisów prawa wodnego,
+- **2)** Ministra Transportu i Gospodarki Morskiej na pod stawie przepisów:
+    - **a)** o ochronie i
+    - **b)** o i na drogach wodnych.
 
-9. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw administracji publicznej określa, w drodze rozporządzenia, terytorialny zakres działania oraz siedziby urzędów i izb skarbowych. ”
+**Art. 84.** Do zakresu ministra do spraw instytucji finansowych zadania i kompetencje dotychczas do Ministra Finan sów na podstawie przepisów:
 
-**Art. 72.** W ustawie z dnia 21 czerwca 1996 r. o urzędzie Ministra Spraw Wewnętrznych i Administracji (Dz. U. Nr 106, poz. 491 i z 1997 r. Nr 70, poz. 443) wprowadza się następujące zmiany:
+- **1)** o ubezpieczeniowej,
+- **2)** prawa bankowego,
+- **3)** o publicznym obrocie papierami i funduszach powierniczych,
+- **4)** o restrukturyzacji finansowej i ban ków, z art. 66.
 
-- **1)** tytuł otrzymuje brzmienie: „o niektórych uprawnieniach pracowników urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz funkcjonariuszy i pracowników urzędów nadzorowanych przez tego ministra”;
-- **2)** skreśla się art. 1–5, art. 6 ust. 1, art. 8 ust. 1, art. 10 i art. 11;
-- **3)** w art. 9 w ust. 1 i 2 wyrazy „resortu spraw wewnętrznych i administracji” zastępuje się wyrazami „jednostek mu podporządkowanych lub przez niego nadzorowanych”.
+**Art. 85.** Do zakresu ministra do spraw rozwoju wsi zadania i kompeten cje dotychczas do Ministra Rolnictwa i Go spodarki na podstawie przepisów:
 
-**Art. 73.** W ustawie z dnia 8 sierpnia 1996 r. o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów (Dz. U. Nr 106, poz. 492 i Nr 156, poz. 775) w art. 33 dodaje się ust. 1a w brzmieniu: „ 1a.
+- **1)** o ochronie gruntów rolnych i
+- **2)** o ochronie i
+- **3)** prawa geodezyjnego i kartograficznego, prawa wodnego, o powszechnej elektryfikacji wsi i osiedli, o ubezpieczeniu rolników, o zagospodarowaniu wspólnot gruntowych.
+
+**Art. 86.** Do zakresu ministra do spraw szkolnictwa zadania i kompetencje dotychczas do Ministra Eduka cji Narodowej na podstawie przepisów: o narodowym zasobie archiwalnym i archiwach,
+
+- **2)** o szkolnictwie z art. 53, o tytule naukowym i stopniach naukowych, o szkolnictwie wojskowym.
+
+**Art. 87.** Do zakresu ministra do spraw religijnych zadania i kompetencje dotychczas do Ministra Spraw i Administracji na podstawie przepi sów: o gwarancjach sumienia i wyznania, o stosunku do poszczególnych i innych wyznaniowych.
+
+**Art. 88.** Do zakresu ministra do spraw zabezpieczenia za dania i kompetencje dotychczas do Ministra Pracy i Polityki Socjalnej na podstawie przepisów: o funduszu alimentacyjnym, o kombatantach oraz niektórych osobach ofiarami represji wojennych i okresu powojenne go,
+
+- **3)** o organizacji i finansowaniu nych,
+- **4)** o pomocy
+- **5)** o z ubezpieczenia spow razie choroby i
+- **6)** o rewaloryzacji i waloryzacji emerytur i rent,
+- **7)** o ubezpieczeniach
+- **8)** o ubezpieczeniu duchownych,
+- **9)** o ubezpieczeniu osób oraz ich rodzin,
+- **10)** o ubezpieczeniu osób na podstawie umowy agencyjnej lub umowy zlecenia,
+- **11)** o zaopatrzeniu emerytalnym górników i ich rodzin,
+- **12)** o zaopatrzeniu emerytalnym pracowników i ich ro dzin,
+- **13)** o zaopatrzeniu emerytalnym twórców i ich rodzin,
+- **14)** o rodzinnych i
+- **15)** o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin,
+- **16)** o zatrudnianiu i rehabilitacji zawodowej osób nie
+
+**Art. 89.** Ministrowie w Rady Mini strów na zasadach przed dniem wej w ustawy swoje zadania i kompe tencje do czasu ustalenia zakresu dzia ministrów zgod nie z zasadami wart. 3 ust. 1 niniejszej ustawy. Do tego czasu moc przepisy ustaw wymienionych wart. 96.
+
+**Art. 90.** Ilekroć w przepisach jest mowa o ministerstwie, przez to ministra do danych spraw w rozumieniu ustawy.
+
+**Art. 91.**
+
+1. Ministerstwa utworzone lub na podstawie dotychczasowych przepisów na podstawie tych przepisów, z ust. 2, do czasu wydania nowych przepisów na podstawie art. 39 ust. 1 ustawy, o której mowa wart. 3 ust. 1.
+
+2. Statuty ministerstw wydane do dnia ustawy w moc do czasu wydania no wych statutów na podstawie art. 39 ust. 5 ustawy, o której mowa wart. 3 ust. 1.
+
+**Art. 92.** Pełnomocnik do Spraw Osób sprawnych, na podstawie dotychczasowych przepisów, staje do Spraw Osób w rozumieniu ustawy.
+
+**Art. 93.** Rada Ministrów w drodze dzenia, zasady i tryb przez mini stra do spraw i wychowania od innych ministrów i kierowników central nych.
+
+**Art. 94.** Prezes Rady Ministrów i ministrowie zobo do wydania jednolitych tekstów ustaw w tych tekstach oznaczenia do spraw ministrów zgodnie z wymogami z klasyfikacji administracji dowej.
+
+**Art. 95.** Ilekroć przepisy na naczelny lub centralny organ administracji aktu prawnego w wydawnictwie promulga cyjnym innym Rzeczypospolitej Polskiej, akt taki podlega w Dzienniku dowym Rzeczypospolitej Polskiej "Monitor Polski". 6 Przepisy
+
+**Art. 96.**
+
+1. moc, z art. 71, 72, 74 i art. 89, ustawy o ministrów, w szczególno ustawy:
+
+- **1)** z dnia 29 maja 1974 r. o Ministra Spraw Za granicznych (Dz. U. 21, poz. 115 i z 1984 r. 9, poz. 34),
+- **2)** z dnia 4 maja 1982 r. o Ministra Kultury i Sztuki (Dz. U. 14, poz. 112),
+- **3)** z dnia 23 1987 r. o utworzeniu Ministra Pracy i Polityki Socjalnej (Dz. U. 33, poz. 175 i z 1990 29, poz. 172),
+- **4)** z dnia 23 1987 r. o utworzeniu Ministra Edukacji Narodowej (Dz. U. 33, poz. 178, z 1990 r. 65, poz. 385, z 1991 r. 95, poz. 425 i z 1996 r. 106, poz. 496),
+- **5)** z dnia 1 grudnia 1989 r. o utworzeniu Mini stra Transportu i Gospodarki Morskiej (Dz. U. 67, poz. 407),
+- **6)** z dnia 1 grudnia 1989 r. o utworzeniu Mini stra (Dz. U. 67, poz. 408, z 1990 r. 86, poz. 504 i z 1995 r. 60, poz.
+- **7)**
+- **310)** , z dnia 20 grudnia 1989 r. o utworzeniu Mini stra Ochrony Środowiska, Zasobów Naturalnych i (Dz. U. 73, poz. 433 oraz z 1991 r. 101, poz. 444 i 114, poz. 492),
+- **8)** z dnia 20 grudnia 1989 r. o utworzeniu Mini stra Rolnictwa i Gospodarki Żywnościowej (Dz. U. 73, poz. 434, z 1991 r. 7, poz. 24 i z 1997 r. 121, poz. 770),
+- **9)** z dnia 21 czerwca 1996 r. o Ministra Gospo darki (Dz. U. 106, poz. 490).
+
+2. w mocy przepisy ustawy z dnia 14 grudnia 1995 r. o Ministra Obrony Narodo wej (Dz. U. z 1996 r. 10, poz. 56 i 102, poz. 474 oraz z 1997 r. 121, poz. 770).
+
+**Art. 97.** Ustawa wchodzi w z dniem 1 stycznia 1999 r.
 

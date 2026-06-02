@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-09-16 |
 | Data wydania | 2011-10-27 |
-| Wejście w życie | 2012-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112301373) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1373/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2003 r. Nr 106, poz. 1002, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2003 r. Nr 106, poz. 1002, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 625, Nr 92, poz. 880 i Nr 96, poz. 959, z 2005 r. Nr 33, poz. 289 i Nr 175, poz. 1462, z 2006 r. Nr 249, poz. 1830, z 2008 r. Nr 199, poz. 1227, z 2009 r. Nr 18, poz. 97, Nr 79, poz. 668 i Nr 92, poz. 753 oraz z 2010 r. Nr 47, poz. 278.) wprowadza się następujące zmiany:
 
 - **1)** art. 2 otrzymuje brzmienie: „
 
@@ -34,7 +33,7 @@ source: "eli-html"
 
 1. Ustawa reguluje postępowanie ze zwierzętami kręgowymi.
 
-2. Ustawy nie stosuje się do procedur stanowiących doświadczenie w rozumieniu art. 2 pkt 6 ustawy z dnia 21 stycznia 2005 r. o doświadczeniach na zwierzętach (Dz. U. Nr 33, poz. 289, z późn. zm.). ” ;
+2. Ustawy nie stosuje się do procedur stanowiących doświadczenie w rozumieniu art. 2 pkt 6 ustawy z dnia 21 stycznia 2005 r. o doświadczeniach na zwierzętach (Dz. U. Nr 33, poz. 289, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 171, poz. 1225 i Nr 220, poz. 1600, z 2009 r. Nr 18, poz. 97 oraz z 2011 r. Nr 63, poz. 322 i Nr 106, poz. 622.). ” ;
 
 - **2)** w art. 4: pkt 12 otrzymuje brzmienie: „
     - **a)**
@@ -54,12 +53,19 @@ source: "eli-html"
 - **4)** działań niezbędnych do usunięcia poważnego zagrożenia sanitarnego ludzi lub zwierząt,
 - **5)** usuwania osobników bezpośrednio zagrażających ludziom lub innym zwierzętom, jeżeli nie jest możliwy inny sposób usunięcia zagrożenia,
 - **6)** polowań, odstrzałów i ograniczania populacji zwierząt łownych,
-- **7)** usypiania ślepych miotów prowadzonych zgodnie z art. 33 oraz przepisami odrębnymi. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **7)** usypiania ślepych miotów – prowadzonych zgodnie z art. 33 oraz przepisami odrębnymi. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
-1a. Zabrania się znęcania nad zwierzętami. ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) umyślne zranienie lub okaleczenie zwierzęcia, niestanowiące dozwolonego prawem zabiegu lub doświadczenia na zwierzęciu, w tym znakowanie zwierząt stałocieplnych przez wypalanie lub wymrażanie, a także wszelkie zabiegi mające na celu zmianę wyglądu zwierzęcia i wykonywane w celu innym niż ratowanie jego zdrowia lub życia, a w szczególności przycinanie psom uszu i ogonów (kopiowanie); ” , – pkt 3 otrzymuje brzmienie: „ 3) używanie do pracy albo w celach sportowych lub rozrywkowych zwierząt chorych, a także zbyt młodych lub starych oraz zmuszanie ich do czynności, których wykonywanie może spowodować ból; ” , – pkt 10 otrzymuje brzmienie: „ 10) utrzymywanie zwierząt w niewłaściwych warunkach bytowania, w tym utrzymywanie ich w stanie rażącego zaniedbania lub niechlujstwa, bądź w pomieszczeniach albo klatkach uniemożliwiających im zachowanie naturalnej pozycji; ” , – uchyla się pkt 14, – w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16–19 w brzmieniu: „ 16) obcowanie płciowe ze zwierzęciem (zoofilia); 17) wystawianie zwierzęcia domowego lub gospodarskiego na działanie warunków atmosferycznych, które zagrażają jego zdrowiu lub życiu; 18) transport żywych ryb lub ich przetrzymywanie w celu sprzedaży bez dostatecznej ilości wody uniemożliwiającej oddychanie; 19) utrzymywanie zwierzęcia bez odpowiedniego pokarmu lub wody przez okres wykraczający poza minimalne potrzeby właściwe dla gatunku. ” ;
+1a. Zabrania się znęcania nad zwierzętami. ” , w ust. 2: pkt 1 otrzymuje brzmienie: „
 
 - **c)**
+- **1)** umyślne zranienie lub okaleczenie zwierzęcia, niestanowiące dozwolonego prawem zabiegu lub doświadczenia na zwierzęciu, w tym znakowanie zwierząt stałocieplnych przez wypalanie lub wymrażanie, a także wszelkie zabiegi mające na celu zmianę wyglądu zwierzęcia i wykonywane w celu innym niż ratowanie jego zdrowia lub życia, a w szczególności przycinanie psom uszu i ogonów (kopiowanie); ” , pkt 3 otrzymuje brzmienie: „
+- **3)** używanie do pracy albo w celach sportowych lub rozrywkowych zwierząt chorych, a także zbyt młodych lub starych oraz zmuszanie ich do czynności, których wykonywanie może spowodować ból; ” , pkt 10 otrzymuje brzmienie: „
+- **10)** utrzymywanie zwierząt w niewłaściwych warunkach bytowania, w tym utrzymywanie ich w stanie rażącego zaniedbania lub niechlujstwa, bądź w pomieszczeniach albo klatkach uniemożliwiających im zachowanie naturalnej pozycji; ” , – uchyla się pkt 14, w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16–19 w brzmieniu: „
+- **16)** obcowanie płciowe ze zwierzęciem (zoofilia);
+- **17)** wystawianie zwierzęcia domowego lub gospodarskiego na działanie warunków atmosferycznych, które zagrażają jego zdrowiu lub życiu;
+- **18)** transport żywych ryb lub ich przetrzymywanie w celu sprzedaży bez dostatecznej ilości wody uniemożliwiającej oddychanie;
+- **19)** utrzymywanie zwierzęcia bez odpowiedniego pokarmu lub wody przez okres wykraczający poza minimalne potrzeby właściwe dla gatunku. ” ;
 - **4)** w art. 7: w ust. 1 pkt 2 otrzymuje brzmienie: „
     - **a)**
 
@@ -212,9 +218,9 @@ source: "eli-html"
 - **2)** gospodarstwu rolnemu wskazanemu przez wójta (burmistrza, prezydenta miasta), jeżeli jest to zwierzę gospodarskie, lub ” ;
 - **17)** art. 39 otrzymuje brzmienie: „
 
-**Art. 39.** W sprawach o przestępstwa określone w art. 35 ust. 1, 1a lub 2 oraz wykroczenia określone w art. 37, a także w postępowaniu w sprawach nieletnich o czyn karalny określony w art. 35 ust. 1, 1a lub 2, prawa pokrzywdzonego może wykonywać organizacja społeczna, której statutowym celem działania jest ochrona zwierząt. ” . W ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2005 r. Nr 236, poz. 2008, z późn. zm.) w art. 3 w ust. 2 pkt 14 otrzymuje brzmienie: „
+**Art. 39.** W sprawach o przestępstwa określone w art. 35 ust. 1, 1a lub 2 oraz wykroczenia określone w art. 37, a także w postępowaniu w sprawach nieletnich o czyn karalny określony w art. 35 ust. 1, 1a lub 2, prawa pokrzywdzonego może wykonywać organizacja społeczna, której statutowym celem działania jest ochrona zwierząt. ” . W ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2005 r. Nr 236, poz. 2008, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1042, z 2008 r. Nr 223, poz. 1464, z 2009 r. Nr 18, poz. 97, Nr 79, poz. 666, Nr 92, poz. 753 i Nr 215, poz. 1664, z 2010 r. Nr 47, poz. 278 oraz z 2011 r. Nr 5, poz. 13, Nr 106, poz. 622, Nr 152, poz. 897, Nr 171, poz. 1016 i Nr 224, poz. 1337.) w art. 3 w ust. 2 pkt 14 otrzymuje brzmienie: „
 
 - **14)** zapobiegają bezdomności zwierząt na zasadach określonych w przepisach o ochronie zwierząt; ” .
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 625, Nr 92, poz. 880 i Nr 96, poz. 959, z 2005 r. Nr 33, poz. 289 i Nr 175, poz. 1462, z 2006 r. Nr 249, poz. 1830, z 2008 r. Nr 199, poz. 1227, z 2009 r. Nr 18, poz. 97, Nr 79, poz. 668 i Nr 92, poz. 753 oraz z 2010 r. Nr 47, poz. 278. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 171, poz. 1225 i Nr 220, poz. 1600, z 2009 r. Nr 18, poz. 97 oraz z 2011 r. Nr 63, poz. 322 i Nr 106, poz. 622. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1042, z 2008 r. Nr 223, poz. 1464, z 2009 r. Nr 18, poz. 97, Nr 79, poz. 666, Nr 92, poz. 753 i Nr 215, poz. 1664, z 2010 r. Nr 47, poz. 278 oraz z 2011 r. Nr 5, poz. 13, Nr 106, poz. 622, Nr 152, poz. 897, Nr 171, poz. 1016 i Nr 224, poz. 1337.
 

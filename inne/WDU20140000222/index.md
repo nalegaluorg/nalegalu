@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-01-24 |
 | Data wydania | 2014-02-19 |
-| Wejście w życie | 2014-03-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000222) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/222/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2011 r. Nr 12, poz. 59, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2011 r. Nr 12, poz. 59, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 34, poz. 170, Nr 106, poz. 622 i Nr 224, poz. 1337 oraz z 2013 r. poz. 628 i 1247.) wprowadza się następujące zmiany:
 
 - **1)** w art. 18 w ust. 4 w pkt 3 lit. a otrzymuje brzmienie: „ ilości przewidzianego do pozyskania drewna, określonego oddzielnie jako etat miąższościowy użytków rębnych oraz etat powierzchniowy użytków przedrębnych, ” ;
     - **a)**
@@ -73,5 +72,5 @@ source: "eli-html"
 
 2. Do planów urządzenia lasu sporządzonych ale niezatwierdzonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 34, poz. 170, Nr 106, poz. 622 i Nr 224, poz. 1337 oraz z 2013 r. poz. 628 i 1247.
 

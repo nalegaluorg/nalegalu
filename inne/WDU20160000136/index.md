@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 20 stycznia 2016 r. zmieniające rozporządzenie w sprawie wymagań, jakim powinna odpowiadać ochrona wartości pieniężnych przechowywanych i transportowanych przez przedsiębiorców i inne jednostki organizacyjne
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 20 stycznia 2016 r. zmieniające rozporządzenie w sprawie wymagań, jakim powinna odpowiadać ochrona wartości pieniężnych przechowywanych i transportowanych przez przedsiębiorców i inne jednostki organizacyjne Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 27 marca 2015 r. pod numerem 2015/147/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,22 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-01-20 |
 | Data wydania | 2016-02-02 |
-| Wejście w życie | 2016-02-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000136) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/136/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 6 ust. 2 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2014 r. poz. 1099, z 2015 r. poz. 1505 oraz z 2016 r. poz. 65) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 września 2010 r. w sprawie wymagań, jakim powinna odpowiadać ochrona wartości pieniężnych przechowywanych i transportowanych przez przedsiębiorców i inne jednostki organizacyjne (Dz. U. Nr 166, poz. 1128, z 2012 r. poz. 1262 oraz z 2013 r. poz. 1652) w § 12 ust. 1 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 września 2010 r. w sprawie wymagań, jakim powinna odpowiadać ochrona wartości pieniężnych przechowywanych i transportowanych przez przedsiębiorców i inne jednostki organizacyjne (Dz. U. Nr 166, poz. 1128, z 2012 r. poz. 1262 oraz z 2013 r. poz. 1652) w § 12 ust. 1 otrzymuje brzmienie: „
 1.
 Przedsiębiorcy i kierownicy innych jednostek organizacyjnych wykorzystują do przechowywania lub transportowania wartości pieniężnych pomieszczenia i urządzenia:
 1)
 posiadające wydany przez uprawnioną jednostkę certyfikującą certyfikat zgodności albo wydaną przez producenta lub importera deklarację zgodności, potwierdzające zgodność z zasadniczymi lub szczegółowymi wymaganiami w rozumieniu przepisów o systemie oceny zgodności – w przypadku gdy dla danego wyrobu wymagania takie zostały ustalone;
 2)
-posiadające wydane przez jednostkę certyfikującą akredytowaną przez Polskie Centrum Akredytacji poświadczenie zgodności z odpowiednimi Polskimi Normami lub poświadczenie zgodności wydane przez akredytowaną jednostkę certyfikującą w innym państwie członkowskim Unii Europejskiej, Republice Turcji lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, albo wyprodukowane lub wprowadzone do obrotu w innym państwie członkowskim Unii Europejskiej, Republice Turcji lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, pod warunkiem, że te pomieszczenia i urządzenia spełniają wymagania odpowiadające wymaganiom niniejszego rozporządzenia – jeżeli dla danego wyrobu nie ustalono wymagań, o których mowa w pkt 1.
-” .
+posiadające wydane przez jednostkę certyfikującą akredytowaną przez Polskie Centrum Akredytacji poświadczenie zgodności z odpowiednimi Polskimi Normami lub poświadczenie zgodności wydane przez akredytowaną jednostkę certyfikującą w innym państwie członkowskim Unii Europejskiej, Republice Turcji lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, albo wyprodukowane lub wprowadzone do obrotu w innym państwie członkowskim Unii Europejskiej, Republice Turcji lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, pod warunkiem, że te pomieszczenia i urządzenia spełniają wymagania odpowiadające wymaganiom niniejszego rozporządzenia – jeżeli dla danego wyrobu nie ustalono wymagań, o których mowa w pkt 1. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 27 marca 2015 r. pod numerem 2015/147/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).
 

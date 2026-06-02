@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 20 sierpnia 2024 r. w sprawie szczegółowego zakresu zadań realizowanych przez Krajowy Ośrodek Wsparcia Rolnictwa związanych z wdrożeniem na terytorium Rzeczypospolitej Polskiej programu dla szkół
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 20 sierpnia 2024 r. w sprawie szczegółowego zakresu zadań realizowanych przez Krajowy Ośrodek Wsparcia Rolnictwa związanych z wdrożeniem na terytorium Rzeczypospolitej Polskiej programu dla szkół Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-08-20 |
 | Data wydania | 2024-08-22 |
-| Wejście w życie | 2024-08-23 |
 | Ostatnia zmiana | 2024-09-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001276) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1276/text.pdf) |
 
@@ -41,9 +40,9 @@ szczegółowy zakres zadań realizowanych przez Krajowy Ośrodek Wsparcia Rolnic
 2)
 szczegółowe warunki uczestnictwa podmiotów w programie;
 3)
-szczegółowe warunki i tryb przyznawania pomocy finansowej z tytułu realizacji działań w ramach programu, w tym pomocy unijnej, o której mowa w art. 23 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.), zwanego dalej „rozporządzeniem 1308/2013”, oraz pomocy krajowej, o której mowa w art. 23a ust. 6 i art. 217 rozporządzenia 1308/2013;
+szczegółowe warunki i tryb przyznawania pomocy finansowej z tytułu realizacji działań w ramach programu, w tym pomocy unijnej, o której mowa w art. 23 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39, Dz. Urz. UE L 437 z 28.12.2020, str. 1, Dz. Urz. UE L 435 z 06.12.2021, str. 262 oraz Dz. Urz. UE L 2024/1143 z 23.04.2024., zwanego dalej „rozporządzeniem 1308/2013”, oraz pomocy krajowej, o której mowa w art. 23a ust. 6 i art. 217 rozporządzenia 1308/2013;
 4)
-sposób realizacji uprawnień i wykonywania obowiązków związanych z wdrożeniem programu, przyznanych określonym podmiotom lub nałożonych na te podmioty zgodnie z rozporządzeniem wykonawczym Komisji (UE) 2017/39 z dnia 3 listopada 2016 r. w sprawie zasad stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do pomocy unijnej na dostarczanie owoców i warzyw, bananów oraz mleka do placówek oświatowych (Dz. Urz. UE L 5 z 10.01.2017, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem 2017/39”, oraz rozporządzeniem delegowanym Komisji (UE) 2017/40 z dnia 3 listopada 2016 r. uzupełniającym rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do pomocy unijnej na dostarczanie owoców i warzyw, bananów oraz mleka do placówek oświatowych oraz zmieniającym rozporządzenie delegowane Komisji (UE) nr 907/2014 (Dz. Urz. UE L 5 z 10.01.2017, str. 11, z późn. zm.), zwanym dalej „rozporządzeniem 2017/40”.
+sposób realizacji uprawnień i wykonywania obowiązków związanych z wdrożeniem programu, przyznanych określonym podmiotom lub nałożonych na te podmioty zgodnie z rozporządzeniem wykonawczym Komisji (UE) 2017/39 z dnia 3 listopada 2016 r. w sprawie zasad stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do pomocy unijnej na dostarczanie owoców i warzyw, bananów oraz mleka do placówek oświatowych (Dz. Urz. UE L 5 z 10.01.2017, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 308 z 29.11.2019, str. 82, Dz. Urz. UE L 284 z 01.09.2020, str. 3, Dz. Urz. UE L 41 z 22.02.2022, str. 8, Dz. Urz. UE L 12 z 13.01.2023 oraz Dz. Urz. UE L 179 z 14.07.2023, str. 5., zwanym dalej „rozporządzeniem 2017/39”, oraz rozporządzeniem delegowanym Komisji (UE) 2017/40 z dnia 3 listopada 2016 r. uzupełniającym rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do pomocy unijnej na dostarczanie owoców i warzyw, bananów oraz mleka do placówek oświatowych oraz zmieniającym rozporządzenie delegowane Komisji (UE) nr 907/2014 (Dz. Urz. UE L 5 z 10.01.2017, str. 11, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 284 z 01.09.2020, str. 1 oraz Dz. Urz. UE L 41 z 22.02.2022, str. 5., zwanym dalej „rozporządzeniem 2017/40”.
 § 2.
 Krajowy Ośrodek realizuje zadania związane z wdrożeniem programu w zakresie udostępniania dzieciom uczęszczającym w roku szkolnym 2024/2025 do klas I-V szkół podstawowych i ogólnokształcących szkół muzycznych I stopnia oraz do klas I i II ogólnokształcących szkół baletowych, zwanych dalej „szkołami podstawowymi”, jabłek, gruszek, śliwek, truskawek, marchwi, rzodkiewek, papryki słodkiej, pomidorów, kalarepy i soków owocowych, zwanych dalej „owocami i warzywami”, oraz mleka bez dodatków smakowych, jogurtu naturalnego, kefiru naturalnego, maślanki naturalnej i serka twarogowego, zwanych dalej „mlekiem”:
 1)
@@ -145,8 +144,7 @@ Dostawcy, którzy uzyskali zatwierdzenie w odniesieniu do:
 1)
 owoców i warzyw, zawierają ze szkołami podstawowymi, o których mowa w § 6 pkt 1, umowę nieodpłatnego dostarczania owoców i warzyw do szkół podstawowych w celu udostępnienia ich dzieciom,
 2)
-mleka, zawierają ze szkołami podstawowymi, o których mowa w § 6 pkt 2, umowę nieodpłatnego dostarczania mleka do szkół podstawowych w celu udostępnienia go dzieciom
-w jednym z okresów, o których mowa w § 2.
+mleka, zawierają ze szkołami podstawowymi, o których mowa w § 6 pkt 2, umowę nieodpłatnego dostarczania mleka do szkół podstawowych w celu udostępnienia go dzieciom – w jednym z okresów, o których mowa w § 2.
 2.
 Szkoły podstawowe, które zawarły umowę, o której mowa w ust. 1:
 1)
@@ -210,8 +208,7 @@ Do wniosku o pomoc dostawca, który uzyskał zatwierdzenie w odniesieniu do:
 1)
 owoców i warzyw – dołącza oświadczenie szkoły podstawowej, z którą zawarł umowę, o której mowa w § 8 ust. 1 pkt 1, o liczbie porcji obejmujących poszczególne produkty należące do kategorii owoce i warzywa wymienione w § 2,
 2)
-mleka – dołącza oświadczenie szkoły podstawowej, z którą zawarł umowę, o której mowa w § 8 ust. 1 pkt 2, o liczbie porcji obejmujących poszczególne produkty należące do kategorii mleko wymienione w § 2
-udostępnionych dzieciom, o których mowa w § 8 ust. 3 pkt 1, w okresie, którego dotyczy ten wniosek, określonej na podstawie prowadzonej przez tę szkołę ewidencji dostarczanych i udostępnianych w ramach programu owoców i warzyw lub mleka, o której mowa w § 8 ust. 3 pkt 4 lit. a.
+mleka – dołącza oświadczenie szkoły podstawowej, z którą zawarł umowę, o której mowa w § 8 ust. 1 pkt 2, o liczbie porcji obejmujących poszczególne produkty należące do kategorii mleko wymienione w § 2 – udostępnionych dzieciom, o których mowa w § 8 ust. 3 pkt 1, w okresie, którego dotyczy ten wniosek, określonej na podstawie prowadzonej przez tę szkołę ewidencji dostarczanych i udostępnianych w ramach programu owoców i warzyw lub mleka, o której mowa w § 8 ust. 3 pkt 4 lit. a.
 4.
 Oświadczenia, o których mowa w ust. 3, sporządza się na formularzach udostępnionych na stronie internetowej administrowanej przez Krajowy Ośrodek.
 § 11.
@@ -228,8 +225,7 @@ różnicy minimalnej liczby porcji obejmujących dany produkt należący do kate
 a)
 pkt 1 załącznika nr 1 do rozporządzenia – w przypadku okresów, o których mowa w § 2 pkt 1 lit. a, pkt 2 lit. a, pkt 3 lit. a i pkt 4 lit. a, lub
 b)
-pkt 2 załącznika nr 1 do rozporządzenia – w przypadku okresów, o których mowa w § 2 pkt 1 lit. b, pkt 2 lit. b, pkt 3 lit. b i pkt 4 lit. b
-i liczby rzeczywiście udostępnionych porcji obejmujących dany produkt należący do tej kategorii oraz
+pkt 2 załącznika nr 1 do rozporządzenia – w przypadku okresów, o których mowa w § 2 pkt 1 lit. b, pkt 2 lit. b, pkt 3 lit. b i pkt 4 lit. b – i liczby rzeczywiście udostępnionych porcji obejmujących dany produkt należący do tej kategorii oraz
 2)
 kwoty stanowiącej:
 a)
@@ -253,8 +249,7 @@ różnicy minimalnej liczby porcji obejmujących dany produkt należący do kate
 a)
 pkt 1 załącznika nr 2 do rozporządzenia – w przypadku okresów, o których mowa w § 2 pkt 1 lit. a, pkt 2 lit. a, pkt 3 lit. a i pkt 4 lit. a, lub
 b)
-pkt 2 załącznika nr 2 do rozporządzenia – w przypadku okresów, o których mowa w § 2 pkt 1 lit. b, pkt 2 lit. b, pkt 3 lit. b i pkt 4 lit. b
-i liczby rzeczywiście udostępnionych porcji obejmujących dany produkt należący do tej kategorii oraz
+pkt 2 załącznika nr 2 do rozporządzenia – w przypadku okresów, o których mowa w § 2 pkt 1 lit. b, pkt 2 lit. b, pkt 3 lit. b i pkt 4 lit. b – i liczby rzeczywiście udostępnionych porcji obejmujących dany produkt należący do tej kategorii oraz
 2)
 kwoty stanowiącej:
 a)
@@ -273,8 +268,7 @@ Wykazy, o których mowa w § 7 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi 
 2.
 Podmioty wpisane do wykazów, o których mowa w § 7 rozporządzenia wymienionego w ust. 1, uznaje się za podmioty zatwierdzone w rozumieniu przepisów niniejszego rozporządzenia, z wyłączeniem tych podmiotów, które nie złożyły wniosku o pomoc z tytułu udostępniania dzieciom owoców i warzyw lub mleka w odniesieniu do działań, o których mowa w art. 5 ust. 1 lit. a rozporządzenia 2017/40, zrealizowanych w roku szkolnym 2022/2023 oraz w roku szkolnym 2023/2024.
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39, Dz. Urz. UE L 437 z 28.12.2020, str. 1, Dz. Urz. UE L 435 z 06.12.2021, str. 262 oraz Dz. Urz. UE L 2024/1143 z 23.04.2024. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 308 z 29.11.2019, str. 82, Dz. Urz. UE L 284 z 01.09.2020, str. 3, Dz. Urz. UE L 41 z 22.02.2022, str. 8, Dz. Urz. UE L 12 z 13.01.2023 oraz Dz. Urz. UE L 179 z 14.07.2023, str. 5. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 284 z 01.09.2020, str. 1 oraz Dz. Urz. UE L 41 z 22.02.2022, str. 5.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39, Dz. Urz. UE L 437 z 28.12.2020, str. 1, Dz. Urz. UE L 435 z 06.12.2021, str. 262 oraz Dz. Urz. UE L 2024/1143 z 23.04.2024. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 308 z 29.11.2019, str. 82, Dz. Urz. UE L 284 z 01.09.2020, str. 3, Dz. Urz. UE L 41 z 22.02.2022, str. 8, Dz. Urz. UE L 12 z 13.01.2023 oraz Dz. Urz. UE L 179 z 14.07.2023, str. 5. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 284 z 01.09.2020, str. 1 oraz Dz. Urz. UE L 41 z 22.02.2022, str. 5.
 
 ## Załącznik nr 1 — – Sposób udostępniania owoców i warzyw
 

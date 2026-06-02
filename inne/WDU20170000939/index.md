@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-05-11 |
 | Data wydania | 2017-05-13 |
-| Wejście w życie | 2017-05-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000939) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/939/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Współdziałanie przy wykonywaniu zastępstwa Rozdział 3 – Współdziałanie przy wydawaniu opinii prawnych Rozdział 4 – Współdziałanie przy tworzeniu rekomendacji i wzorów postanowień umów lub innych czynności prawnych Rozdział 5 – Współdziałanie w zakresie udziału w negocjacjach lub mediacji Rozdział 6 – Współdziałanie przy rozstrzyganiu sporów dotyczących praw i interesów Skarbu Państwa między państwowymi jednostkami organizacyjnymi nieposiadającymi osobowości prawnej Rozdział 7 – Współdziałanie przy rozstrzyganiu sporów kompetencyjnych w zakresie reprezentacji procesowej Skarbu Państwa Rozdział 8 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 37 ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. poz. 2261) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa zakres i tryb współdziałania Prokuratorii Generalnej Rzeczypospolitej Polskiej i Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej przy wykonywaniu zadań z organami władzy publicznej, państwowymi osobami prawnymi, osobami zastępowanymi, państwowymi jednostkami organizacyjnymi nieposiadającymi osobowości prawnej oraz organami jednostek samorządu terytorialnego i innymi podmiotami, którym powierzono wykonywanie zadań publicznych na podstawie ustaw lub porozumień.
 § 2.
@@ -87,6 +87,7 @@ Przepisy ust. 1–3 nie dotyczą informacji, dokumentów lub innych dowodów spo
 Prokuratoria Generalna umożliwia podmiotowi współdziałającemu wgląd do akt podręcznych oraz sporządzenie z nich kopii lub odpisów, a także na wniosek tego podmiotu udziela innych informacji dotyczących stanu sprawy.
 § 9.
 Po zakończeniu sprawy Prokuratoria Generalna zwraca podmiotowi współdziałającemu przekazane przez niego akta podręczne, z wyjątkiem przekazanych jej kopii i odpisów, a także, w miarę potrzeby lub na wniosek podmiotu współdziałającego, inne niezbędne dokumenty i dowody zgromadzone w postępowaniu.
+Współdziałanie przy wykonywaniu zastępstwa
 § 10.
 W toku postępowań sądowych, w których Prokuratoria Generalna wykonuje zastępstwo, podmiot współdziałający przekazuje Prokuratorii Generalnej, na jej wniosek lub z własnej inicjatywy, stanowisko w sprawie. Stanowisko obejmuje odniesienie się do zagadnień objętych sprawą oraz uzasadnienie.
 § 11.
@@ -206,6 +207,7 @@ konsultuje z Prokuratorią Generalną treść pism procesowych oraz podejmowanyc
 W przypadku wyznaczenia rozprawy w sprawie, w której Prokuratoria Generalna wskazywała na konieczność złożenia wniosku o jej wyznaczenie, minister właściwy do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej wzywa Prokuratorię Generalną do udziału w rozprawie.
 5.
 Do współpracy, o której mowa w art. 11 ust. 3 ustawy, nie stosuje się § 4–9.
+Współdziałanie przy wydawaniu opinii prawnych
 § 27.
 1.
 Wniosek podmiotu współdziałającego o wydanie przez Prokuratorię Generalną opinii prawnej w przypadkach, o których mowa w art. 17, art. 18 ust. 1 i art. 19 ustawy, zawiera co najmniej:
@@ -233,11 +235,13 @@ W przypadku gdy dokumenty, o których mowa w ust. 2, zostały zaopiniowane przez
 Wniosek podmiotu współdziałającego o wydanie przez Prokuratorię Generalną opinii prawnej w przypadku, o którym mowa w art. 20 ust. 1 ustawy, zawiera co najmniej uzasadnienie zawarcia umowy, a także informacje o sposobie wyboru usługodawcy.
 2.
 Do wniosku załącza się projekt umowy, którego ma dotyczyć opinia.
+Współdziałanie przy tworzeniu rekomendacji i wzorów postanowień umów lub innych czynności prawnych
 § 30.
 1.
 Prokuratoria Generalna może wystąpić do podmiotów współdziałających o wyrażenie stanowiska, w tym również zawierającego informacje co do stosowanej przez te podmioty praktyki, dotyczącego rekomendacji oraz wzorów postanowień umów lub innych czynności prawnych, o których mowa w art. 21 ustawy.
 2.
 Stanowisko podmiotu współdziałającego wymaga uzasadnienia, w którym podmiot ten w szczególności wskazuje na swoją praktykę stosowania określonej rekomendacji i postanowienia umowy lub innej czynności prawnej.
+Współdziałanie w zakresie udziału w negocjacjach lub mediacji
 § 31.
 1.
 Jeżeli podmiot współdziałający zwróci się do Prokuratorii Generalnej z wnioskiem o jej udział w negocjacjach lub mediacjach, w ramach realizacji zadania, o którym mowa w art. 4 ust. 1 pkt 12 ustawy, w celu zawarcia ugody przed wszczęciem postępowania sądowego, Prokuratoria Generalna, w terminie 14 dni od dnia złożenia wniosku, informuje podmiot współdziałający o jej udziale albo braku udziału w tych czynnościach.
@@ -248,6 +252,7 @@ We wniosku, o którym mowa w ust. 1, przekazuje się informacje o zakresie, term
 W przypadku, o którym mowa w art. 22 ustawy, podmiot współdziałający informuje o zamiarze podjęcia negocjacji lub mediacji, przekazując informacje o ich zakresie, terminach i ewentualnych propozycjach stron, a także propozycję co do zakresu i charakteru udziału Prokuratorii Generalnej w tych czynnościach.
 2.
 Prokuratoria Generalna w terminie 14 dni od dnia przekazania informacji, o których mowa w ust. 1, zawiadamia podmiot współdziałający o zakresie i charakterze jej udziału w negocjacjach lub mediacji.
+Współdziałanie przy rozstrzyganiu sporów dotyczących praw i interesów Skarbu Państwa między państwowymi jednostkami organizacyjnymi nieposiadającymi osobowości prawnej
 § 33.
 1.
 Wniosek państwowej jednostki organizacyjnej nieposiadającej osobowości prawnej o rozstrzygnięcie sporu, o którym mowa w art. 23 ust. 1 ustawy, zawiera:
@@ -282,6 +287,7 @@ W przypadku, o którym mowa w art. 23 ust. 2 ustawy, Prezes Prokuratorii General
 W razie potrzeby Prezes Prokuratorii Generalnej w celu rozpoznania sprawy wyznacza posiedzenie, o którym zawiadamia wnioskodawcę oraz zainteresowane państwowe jednostki organizacyjne nieposiadające osobowości prawnej. Z przebiegu posiedzenia sporządza się protokół.
 § 37.
 Rozstrzygnięcie Prezesa Prokuratorii Generalnej wraz z uzasadnieniem doręcza się państwowym jednostkom organizacyjnym nieposiadającym osobowości prawnej biorącym udział w postępowaniu.
+Współdziałanie przy rozstrzyganiu sporów kompetencyjnych w zakresie reprezentacji procesowej Skarbu Państwa
 § 38.
 1.
 Wniosek sądu o wskazanie organu właściwego do podejmowania czynności procesowych za Skarb Państwa, o którym mowa w art. 24 ustawy, zawiera co najmniej zwięzły opis sprawy.
@@ -296,26 +302,43 @@ W przypadku, w którym zgodnie z art. 24 ustawy wskazanie organu właściwego do
 Prezes Prokuratorii Generalnej wskazuje organ właściwy do podejmowania czynności procesowych za Skarb Państwa w terminie 14 dni od dnia upływu terminu do zajęcia stanowiska.
 § 40.
 Rozstrzygnięcie w sprawie wskazania organu właściwego do podejmowania czynności procesowych za Skarb Państwa wraz z uzasadnieniem Prokuratoria Generalna doręcza zainteresowanym organom.
+Przepisy przejściowe i końcowe
 § 41.
 W okresie od dnia ogłoszenia przepisów wydanych na podstawie art. 12 ust. 3 ustawy do dnia ich wejścia w życie osoby prawne wymienione w tych przepisach mogą przekazać do Prokuratorii Generalnej informacje o uczestnictwie w toczących się postępowaniach, o których mowa w art. 12 ust. 4 ustawy, obejmujące co najmniej krótki opis stanu faktycznego i prawnego sprawy, dotychczasowego przebiegu postępowania oraz wskazanie terminów procesowych w sprawie.
 § 42.
 Do osób zastępowanych przepisy § 3–20, § 22, § 27, § 29–32 stosuje się od dnia 1 lipca 2017 r.
 § 43.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 41, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 41, który wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 4 listopada 2009 r. w sprawie zakresu i trybu współdziałania Prokuratorii Generalnej Skarbu Państwa z właściwymi podmiotami przy wykonywaniu zastępstwa procesowego Skarbu Państwa i zastępstwa Rzeczypospolitej Polskiej oraz przy wydawaniu opinii prawnych (Dz. U. poz. 1477 oraz z 2016 r. poz. 373), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 132 ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. poz. 2261). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 4 listopada 2009 r. w sprawie zakresu i trybu współdziałania Prokuratorii Generalnej Skarbu Państwa z właściwymi podmiotami przy wykonywaniu zastępstwa procesowego Skarbu Państwa i zastępstwa Rzeczypospolitej Polskiej oraz przy wydawaniu opinii prawnych (Dz. U. poz. 1477 oraz z 2016 r. poz. 373), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 132 ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. poz. 2261).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Współdziałanie przy wykonywaniu zastępstwa
+#### Rozdział 2 – Współdziałanie przy wykonywaniu zastępstwa
 
-#### Rozdział 3 Współdziałanie przy wydawaniu opinii prawnych
+#### Rozdział 3 – Współdziałanie przy wydawaniu opinii prawnych
 
-#### Rozdział 4 Współdziałanie przy tworzeniu rekomendacji i wzorów postanowień umów lub innych czynności prawnych
+#### Rozdział 4 – Współdziałanie przy tworzeniu rekomendacji i wzorów postanowień umów lub innych czynności prawnych
 
-#### Rozdział 5 Współdziałanie w zakresie udziału w negocjacjach lub mediacji
+#### Rozdział 5 – Współdziałanie w zakresie udziału w negocjacjach lub mediacji
 
-#### Rozdział 6 Współdziałanie przy rozstrzyganiu sporów dotyczących praw i interesów Skarbu Państwa między państwowymi jednostkami organizacyjnymi nieposiadającymi osobowości prawnej
+#### Rozdział 6 – Współdziałanie przy rozstrzyganiu sporów dotyczących praw i interesów Skarbu Państwa między państwowymi jednostkami organizacyjnymi nieposiadającymi osobowości prawnej
 
-#### Rozdział 7 Współdziałanie przy rozstrzyganiu sporów kompetencyjnych w zakresie reprezentacji procesowej Skarbu Państwa
+#### Rozdział 7 – Współdziałanie przy rozstrzyganiu sporów kompetencyjnych w zakresie reprezentacji procesowej Skarbu Państwa
 
-#### Rozdział 8 Przepisy przejściowe i końcowe
+#### Rozdział 8 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

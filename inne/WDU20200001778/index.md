@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 17 września 2020 r. o zmianie ustawy o transporcie kolejowym
+# Ustawa z dnia 17 września 2020 r. o zmianie ustawy o transporcie kolejowym Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/797 z dnia 11 maja 2016 r. w sprawie interoperacyjności systemu kolei w Unii Europejskiej (Dz. Urz. UE L 138 z 26.05.2016, str. 44 oraz Dz. Urz. UE L 165 z 27.05.2020, str. 27).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-17 |
 | Data wydania | 2020-10-13 |
-| Wejście w życie | 2020-10-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001778) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1778/text.pdf) |
 
@@ -139,5 +138,5 @@ source: "eli-html"
 
 **Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 16 ust. 4 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 16 ust. 4 ustawy zmienianej w art. 1, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy i mogą być zmieniane na podstawie przepisów dotychczasowych.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/797 z dnia 11 maja 2016 r. w sprawie interoperacyjności systemu kolei w Unii Europejskiej (Dz. Urz. UE L 138 z 26.05.2016, str. 44 oraz Dz. Urz. UE L 165 z 27.05.2020, str. 27).
 

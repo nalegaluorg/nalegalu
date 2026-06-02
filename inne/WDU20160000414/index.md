@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 22 marca 2016 r. w sprawie uznawania praktyki zawodowej do wykonywania zawodów konserwatora zabytków ruchomych, konserwatora zabytków nieruchomych, konserwatora zabytkowej zieleni oraz archeologa
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 22 marca 2016 r. w sprawie uznawania praktyki zawodowej do wykonywania zawodów konserwatora zabytków ruchomych, konserwatora zabytków nieruchomych, konserwatora zabytkowej zieleni oraz archeologa Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-03-22 |
 | Data wydania | 2016-03-30 |
-| Wejście w życie | 2016-04-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000414) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/414/text.pdf) |
 
@@ -85,5 +84,5 @@ otrzymania wniosku albo
 2)
 uzupełnienia wniosku w przypadku otrzymania wniosku zawierającego braki formalne.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, z późn. zm.).
 

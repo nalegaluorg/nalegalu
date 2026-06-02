@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 11 października 2019 r. zmieniające rozporządzenie w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez fizjoterapeutów
+# Rozporządzenie Ministra Zdrowiaz dnia 11 października 2019 r. zmieniające rozporządzenie w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez fizjoterapeutów Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-11 |
 | Data wydania | 2019-11-05 |
-| Wejście w życie | 2019-11-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002132) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2132/text.pdf) |
 
@@ -37,13 +36,11 @@ Na podstawie art. 60 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeut
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 16 lutego 2017 r. w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez fizjoterapeutów (Dz. U. poz. 490) wprowadza się następujące zmiany:
 1)
-w § 16 ust. 6 i 7 otrzymują brzmienie:
-„
+w § 16 ust. 6 i 7 otrzymują brzmienie: „
 6.
 Duplikat dyplomu PESFZ jest oznaczony pieczęcią, nadrukiem lub naklejką o treści „Duplikat”.
 7.
-Odpis dyplomu PESFZ, w przypadku postaci papierowej, jest drukowany na miękkim papierze z napisem „Odpis” oraz sygnowany pieczęcią, nadrukiem lub naklejką „Za zgodność z oryginałem” i pieczątką, nadrukiem lub naklejką zawierającymi imię, nazwisko i funkcję dyrektora CEM oraz jego podpis.
-” ;
+Odpis dyplomu PESFZ, w przypadku postaci papierowej, jest drukowany na miękkim papierze z napisem „Odpis” oraz sygnowany pieczęcią, nadrukiem lub naklejką „Za zgodność z oryginałem” i pieczątką, nadrukiem lub naklejką zawierającymi imię, nazwisko i funkcję dyrektora CEM oraz jego podpis. ” ;
 2)
 w załączniku nr 1 do rozporządzenia:
 a)
@@ -55,8 +52,7 @@ w częściach IV-VI wyrazy „podpis i pieczęć kierownika specjalizacji” zas
 3)
 załącznik nr 5 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 ## Załącznik nr 1 — – Tekst załącznika
 

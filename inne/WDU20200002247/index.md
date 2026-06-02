@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 30 listopada 2020 r. w sprawie rodzajów działań interwencyjnych wprowadzanych w strefie zewnętrznej oraz wartości operacyjnych poziomów interwencyjnych stanowiących podstawę do wprowadzenia w strefie zewnętrznej tych działań
+# Rozporządzenie Rady Ministrówz dnia 30 listopada 2020 r. w sprawie rodzajów działań interwencyjnych wprowadzanych w strefie zewnętrznej oraz wartości operacyjnych poziomów interwencyjnych stanowiących podstawę do wprowadzenia w strefie zewnętrznej tych działań Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiającą podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywy 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-30 |
 | Data wydania | 2020-12-15 |
-| Wejście w życie | 2020-12-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002247) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2247/text.pdf) |
 
@@ -67,5 +66,5 @@ wskazań przyrządu do pomiaru skażeń beta promieniotwórczych powyżej 1000 z
 c)
 stwierdzenia obecności jakichkolwiek skażeń alfa promieniotwórczych na powierzchni skóry dłoni lub twarzy człowieka.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiającą podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywy 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, str. 1).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-10 |
 | Data wydania | 2015-08-13 |
-| Wejście w życie | 2015-08-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001154) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1154/text.pdf) |
 
@@ -31,7 +30,7 @@ source: "eli-html"
 - **1)** w art. 3: po ust. 4 dodaje się ust. 4a w brzmieniu: „
     - **a)**
 
-4a. Środki Funduszu w latach 2016–2020 przeznacza się na finansowanie lub współfinansowanie przez województwa, zadań w zakresie zakupu, modernizacji oraz napraw pojazdów kolejowych przeznaczonych do przewozów pasażerskich wykonywanych na podstawie umowy o świadczenie usług publicznych, w rozumieniu przepisu art. 4 pkt 19 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2013 r. poz. 1594, z późn. zm.). ” , dodaje się ust. 7 i 8 w brzmieniu: „
+4a. Środki Funduszu w latach 2016–2020 przeznacza się na finansowanie lub współfinansowanie przez województwa, zadań w zakresie zakupu, modernizacji oraz napraw pojazdów kolejowych przeznaczonych do przewozów pasażerskich wykonywanych na podstawie umowy o świadczenie usług publicznych, w rozumieniu przepisu art. 4 pkt 19 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2013 r. poz. 1594, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 644, 768 i 962 oraz z 2015 r. poz. 200 i 978.). ” , dodaje się ust. 7 i 8 w brzmieniu: „
 
 - **b)**
 
@@ -85,5 +84,5 @@ source: "eli-html"
 
 5. W przypadku gdy województwo nie uwzględni w planie rzeczowo-finansowym zastrzeżeń, o których mowa w ust. 3, minister właściwy do spraw transportu przyjmie plan rzeczowo-finansowy z pominięciem wydatków niezgodnych z zadaniami określonymi w art. 3 ust. 4a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, o czym poinformuje województwo w terminie 14 dni od dnia otrzymania skorygowanego planu, o którym mowa w ust. 4.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 644, 768 i 962 oraz z 2015 r. poz. 200 i 978.
 

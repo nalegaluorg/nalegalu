@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-03-15 |
 | Data wydania | 2012-03-22 |
-| Wejście w życie | 2012-04-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000304) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/304/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Szczegółowy opis granic i obszaru składu wolnocłowego na terenie Portu Lotniczego Gdańsk im. Lecha Wałęsy
 Treść rozporządzenia
-Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. Nr 68, poz. 622, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. Nr 68, poz. 622, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2008 r. Nr 209, poz. 1320 i Nr 215, poz. 1355, z 2009 r. Nr 168, poz. 1323, z 2010 r. Nr 106, poz. 673 oraz z 2011 r. Nr 106, poz. 622 i Nr 254, poz. 1529.) zarządza się, co następuje:
 § 1.
 Określa się, w załączniku do rozporządzenia, granice i obszar składu wolnocłowego na terenie Portu Lotniczego Gdańsk im. Lecha Wałęsy, ustanowionego rozporządzeniem Rady Ministrów z dnia 18 października 1999 r. w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Gdańsk-Trójmiasto (Dz. U. Nr 86, poz. 954, z 2007 r. Nr 107, poz. 734, z 2008 r. Nr 78, poz. 467 i Nr 207, poz. 1299 oraz z 2009 r. Nr 106, poz. 885).
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2008 r. Nr 209, poz. 1320 i Nr 215, poz. 1355, z 2009 r. Nr 168, poz. 1323, z 2010 r. Nr 106, poz. 673 oraz z 2011 r. Nr 106, poz. 622 i Nr 254, poz. 1529.
 Załącznik – Szczegółowy opis granic i obszaru składu wolnocłowego na terenie Portu Lotniczego Gdańsk im. Lecha Wałęsy
 Skład wolnocłowy jest zlokalizowany na poziomie pierwszego piętra Terminalu Pasażerskiego T1 oraz na poziomie piwnicy, parteru i pierwszego piętra Terminalu Pasażerskiego T2 Portu Lotniczego Gdańsk im. Lecha Wałęsy i stanowi strefę zamkniętą odcinkami ścian określonymi w poniższym opisie granicy składu wolnocłowego. Z uwagi na usytuowanie składu wolnocłowego wewnątrz budynku, odgraniczenie składu wolnocłowego stanowią trwałe elementy budowlane. Opis przebiegu granic składu wolnocłowego jest przedstawiony na mapie w skali 1:500. Dokument zawierający opis przebiegu granic składu wolnocłowego wraz z mapą jest przechowywany u zarządzającego składem wolnocłowym oraz w postaci kopii we właściwej miejscowo izbie celnej nadzorującej skład wolnocłowy i w Ministerstwie Finansów. Granicę obszaru składu wolnocłowego na pierwszym piętrze Terminalu Pasażerskiego T1 stanowią następujące odcinki ścian:
 1)
@@ -83,8 +82,7 @@ cztery odcinki ściany o długości: 2 m, 1,8 m, 2 m i 1,8 m, oddzielające skł
 23)
 trzy odcinki ściany o długości: 1,8 m, 2,5 m i 1,8 m, oddzielające skład wolnocłowy od szybu windowego;
 24)
-cztery odcinki ściany o długości: 1,9 m, z jednym otworem drzwiowym, 3,2 m, 6,3 m i 3,2 m, oddzielające skład wolnocłowy od klatki schodowej.
-Granicę obszaru składu wolnocłowego w piwnicy Terminalu Pasażerskiego T2 stanowią następujące odcinki ścian:
+cztery odcinki ściany o długości: 1,9 m, z jednym otworem drzwiowym, 3,2 m, 6,3 m i 3,2 m, oddzielające skład wolnocłowy od klatki schodowej. Granicę obszaru składu wolnocłowego w piwnicy Terminalu Pasażerskiego T2 stanowią następujące odcinki ścian:
 1)
 ściana o długości 15 m, z jednym otworem drzwiowym, oddzielająca skład wolnocłowy od korytarza;
 2)
@@ -94,8 +92,7 @@ dwa odcinki ściany o długości: 8 m i 4,26 m, oddzielające skład wolnocłowy
 4)
 dwa odcinki ściany o długości: 8 m i 4,26 m, oddzielające skład wolnocłowy od magazynu;
 5)
-dwa odcinki ściany o długości: 7,5 m, z jednym otworem drzwiowym, i 7,4 m, z jednym otworem drzwiowym, oddzielające skład wolnocłowy od korytarza.
-Granicę obszaru składu wolnocłowego na parterze Terminalu Pasażerskiego T2 stanowią następujące odcinki ścian:
+dwa odcinki ściany o długości: 7,5 m, z jednym otworem drzwiowym, i 7,4 m, z jednym otworem drzwiowym, oddzielające skład wolnocłowy od korytarza. Granicę obszaru składu wolnocłowego na parterze Terminalu Pasażerskiego T2 stanowią następujące odcinki ścian:
 1)
 ściana o długości 4,5 m, oddzielająca skład wolnocłowy od pomieszczenia rezerwowego;
 2)
@@ -119,8 +116,7 @@ dwa odcinki ściany o długości: 2,6 m i 4 m, oddzielające skład wolnocłowy 
 11)
 dwa odcinki ściany o długości: 7,3 m i 30 m, z dwoma otworami drzwiowymi, oddzielające skład wolnocłowy od płyty postojowej dla samolotów;
 12)
-ściana o długości 7,5 m, oddzielająca skład wolnocłowy od szybu instalacyjnego.
-Granicę obszaru składu wolnocłowego na pierwszym piętrze Terminalu Pasażerskiego T2 stanowią następujące odcinki ścian:
+ściana o długości 7,5 m, oddzielająca skład wolnocłowy od szybu instalacyjnego. Granicę obszaru składu wolnocłowego na pierwszym piętrze Terminalu Pasażerskiego T2 stanowią następujące odcinki ścian:
 1)
 ściana o długości 8,7 m, oddzielająca skład wolnocłowy od hali głównej Terminalu;
 2)
@@ -184,6 +180,5 @@ odcinek o długości 7,5 m, stanowiący połączenie z poziomem parteru Terminal
 31)
 dwa odcinki ściany o długości: 13 m i 7,5 m, oddzielające skład wolnocłowy od szachtu i klatki schodowej;
 32)
-osiem odcinków ściany o długości: 2,7 m, 2,3 m, 2,7 m, 2,3 m, z jednym otworem drzwiowym, 2,7 m, 2,3 m, z jednym otworem drzwiowym, 2,7 m i 2,3 m, oddzielające skład wolnocłowy od windy.
-Łączna powierzchnia składu wolnocłowego wynosi 11 784 m2.
+osiem odcinków ściany o długości: 2,7 m, 2,3 m, 2,7 m, 2,3 m, z jednym otworem drzwiowym, 2,7 m, 2,3 m, z jednym otworem drzwiowym, 2,7 m i 2,3 m, oddzielające skład wolnocłowy od windy. Łączna powierzchnia składu wolnocłowego wynosi 11 784 m2.
 

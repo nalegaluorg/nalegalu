@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 lipca 2010 r. o zmianie ustawy o zatrudnieniu socjalnym oraz niektórych innych ustaw
+# Ustawa z dnia 22 lipca 2010 r. o zmianie ustawy o zatrudnieniu socjalnym oraz niektórych innych ustaw Niniejszą ustawą zmienia się: ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych oraz ustawę z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-07-22 |
 | Data wydania | 2010-08-20 |
-| Wejście w życie | 2010-09-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101521020) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1020/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. Nr 122, poz. 1143, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. Nr 122, poz. 1143, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 624 i Nr 99, poz. 1001, z 2005 r. Nr 164, poz. 1366 i Nr 175, poz. 1462, z 2006 r. Nr 94, poz. 651, z 2007 r. Nr 115, poz. 793 oraz z 2009 r. Nr 6, poz. 33, Nr 91, poz. 742, Nr 97, poz. 800 i Nr 157, poz. 1241.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 ust. 2 otrzymuje brzmienie: „
 
@@ -36,7 +35,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** organizację pozarządową zwane dalej „instytucjami tworzącymi”. ” ;
+- **2)** organizację pozarządową – zwane dalej „instytucjami tworzącymi”. ” ;
 - **2)** w art. 5 w ust. 4 pkt 2 otrzymuje brzmienie: „
 - **2)** przedstawiać corocznie, nie później niż do dnia 31 marca, wojewodzie oraz jednostkom i podmiotom przyznającym dotacje Centrum, a także instytucji tworzącej sprawozdanie zawierające rozliczenie dotacji za rok poprzedni, efekty reintegracji zawodowej i społecznej, a także preliminarz wydatków i przychodów na rok bieżący związanych z wykonywaniem usług, o których mowa w art. 3 ust. 1. ” ;
 - **3)** w art. 7 w ust. 1: pkt 1 otrzymuje brzmienie: „
@@ -48,7 +47,7 @@ source: "eli-html"
 
 - **4)** w art. 9 ust. 2 otrzymuje brzmienie: „
 
-2. Działalność wytwórcza, handlowa i usługowa, o której mowa w ust. 1, nie jest działalnością gospodarczą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.) i może być prowadzona jako statutowa działalność odpłatna pożytku publicznego w rozumieniu przepisów o działalności pożytku publicznego i o wolontariacie. ” ;
+2. Działalność wytwórcza, handlowa i usługowa, o której mowa w ust. 1, nie jest działalnością gospodarczą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280, z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888, Nr 171, poz. 1056 i Nr 216, poz. 1367, z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 47, poz. 278 i Nr 107, poz. 679.) i może być prowadzona jako statutowa działalność odpłatna pożytku publicznego w rozumieniu przepisów o działalności pożytku publicznego i o wolontariacie. ” ;
 
 - **5)** w art. 10: w ust. 1 pkt 1 otrzymuje brzmienie: „
     - **a)**
@@ -99,5 +98,5 @@ source: "eli-html"
 
 3. W przypadku przekształcenia lub przejęcia, o których mowa w ust. 1 pkt 1 i 2, instytucja tworząca uzyskuje status centrum integracji społecznej na czas określony w poprzedniej decyzji po przedstawieniu informacji, o której mowa w art. 5 ust. 4 pkt 1 ustawy, o której mowa w art. 1.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się: ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych oraz ustawę z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 624 i Nr 99, poz. 1001, z 2005 r. Nr 164, poz. 1366 i Nr 175, poz. 1462, z 2006 r. Nr 94, poz. 651, z 2007 r. Nr 115, poz. 793 oraz z 2009 r. Nr 6, poz. 33, Nr 91, poz. 742, Nr 97, poz. 800 i Nr 157, poz. 1241. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280, z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888, Nr 171, poz. 1056 i Nr 216, poz. 1367, z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 47, poz. 278 i Nr 107, poz. 679.
 

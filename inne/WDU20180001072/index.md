@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 5 marca 2002 r. w sprawie sposobu współdziałania organów Inspekcji Handlowej z powiatowym (miejskim) rzecznikiem konsumentów, organami administracji rządowej i samorządowej, organami kontroli oraz organizacjami pozarządowymi reprezentującymi interesy konsumentów (Dz. U. poz. 243), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Rady Ministrów z dnia 9 maja 2017 r. zmieniającym rozporządzenie w sprawie sposobu współdziałania organów Inspekcji Handlowej z powiatowym (miejskim) rzecznikiem konsumentów, organami administracji rządowej i samorządowej, organami kontroli oraz organizacjami pozarządowymi reprezentującymi interesy konsumentów (Dz. U. poz. 991).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 9 maja 2017 r. zmieniającego rozporządzenie w sprawie sposobu współdziałania organów Inspekcji Handlowej z powiatowym (miejskim) rzecznikiem konsumentów, organami administracji rządowej i samorządowej, organami kontroli oraz organizacjami pozarządowymi reprezentującymi interesy konsumentów (Dz. U. poz. 991), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 9 maja 2017 r. zmieniającego rozporządzenie w sprawie sposobu współdziałania organów Inspekcji Handlowej z powiatowym (miejskim) rzecznikiem konsumentów, organami administracji rządowej i samorządowej, organami kontroli oraz organizacjami pozarządowymi reprezentującymi interesy konsumentów (Dz. U. poz. 991), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Rady Ministrów z dnia 5 marca 2002 r. w sprawie sposobu współdziałania organów Inspekcji Handlowej z powiatowym (miejskim) rzecznikiem konsumentów, organami administracji rządowej i samorządowej, organami kontroli oraz organizacjami pozarządowymi reprezentującymi interesy konsumentów
 Na podstawie art. 12 ust. 2 ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2017 r. poz. 1063 i 2056 oraz z 2018 r. poz. 650) zarządza się, co następuje:
 § 1.
@@ -46,7 +44,7 @@ Organy Inspekcji Handlowej współpracują z powiatowymi (miejskimi) rzecznikami
 wymiany wiedzy fachowej;
 2)
 wymiany informacji o praktykach rynkowych naruszających prawa konsumentów;
-3)
+3W brzmieniu ustalonym przez § 1 rozporządzenia Rady Ministrów z dnia 9 maja 2017 r. zmieniającego rozporządzenie w sprawie sposobu współdziałania organów Inspekcji Handlowej z powiatowym (miejskim) rzecznikiem konsumentów, organami administracji rządowej i samorządowej, organami kontroli oraz organizacjami pozarządowymi reprezentującymi interesy konsumentów (Dz. U. poz. 991), które weszło w życie z dniem 23 maja 2017 r.)
 pozasądowego rozwiązywania sporów konsumenckich i sądownictwa polubownego;
 4)
 lokalnych inicjatyw dotyczących ochrony konsumentów.
@@ -66,5 +64,5 @@ podejmowania wspólnych działań kontrolnych oraz innych wspólnych przedsięwz
 § 5.
 Traci moc rozporządzenie Rady Ministrów z dnia 19 października 1999 r. w sprawie zasad współpracy organów Inspekcji Handlowej z powiatowym (miejskim) rzecznikiem konsumentów, a także z innymi organami administracji publicznej i instytucjami kontrolnymi, w tym organizacjami pozarządowymi, działającymi w zakresie ochrony interesów konsumentów (Dz. U. poz. 969).
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 18 marca 2002 r.. 1) W brzmieniu ustalonym przez § 1 rozporządzenia Rady Ministrów z dnia 9 maja 2017 r. zmieniającego rozporządzenie w sprawie sposobu współdziałania organów Inspekcji Handlowej z powiatowym (miejskim) rzecznikiem konsumentów, organami administracji rządowej i samorządowej, organami kontroli oraz organizacjami pozarządowymi reprezentującymi interesy konsumentów (Dz. U. poz. 991), które weszło w życie z dniem 23 maja 2017 r. 2) Rozporządzenie zostało ogłoszone w dniu 18 marca 2002 r.
 

@@ -22,28 +22,23 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-02 |
 | Data wydania | 2016-09-22 |
-| Wejście w życie | 2016-10-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001522) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1522/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 57 § 10 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 57 § 10 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1595 i 1781 oraz z 2016 r. poz. 147, 437, 633 i 960.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 19 września 2014 r. w sprawie badań lekarskich i psychologicznych kandydatów do objęcia urzędu sędziego (Dz. U. poz. 1293) wprowadza się następujące zmiany:
 1)
-w § 2 pkt 2 otrzymuje brzmienie:
-„
+w § 2 pkt 2 otrzymuje brzmienie: „
 2)
-badania specjalistyczne, konsultacje lekarzy specjalistów i badania pomocnicze (w szczególności badania laboratoryjne, EKG, EEG, RTG), jeżeli lekarz uprawniony uzna je za niezbędne.
-” ;
+badania specjalistyczne, konsultacje lekarzy specjalistów i badania pomocnicze (w szczególności badania laboratoryjne, EKG, EEG, RTG), jeżeli lekarz uprawniony uzna je za niezbędne. ” ;
 2)
-§ 7 i 8 otrzymują brzmienie:
-„
+§ 7 i 8 otrzymują brzmienie: „
 § 7.
-Lekarzem uprawnionym jest lekarz, który został wpisany do rejestru lekarzy przeprowadzających badania profilaktyczne, prowadzonego na podstawie przepisów wydanych na podstawie art. 229 § 8 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.), i ma prawo wykonywania zawodu oraz co najmniej pięcioletni staż pracy w zawodzie.
+Lekarzem uprawnionym jest lekarz, który został wpisany do rejestru lekarzy przeprowadzających badania profilaktyczne, prowadzonego na podstawie przepisów wydanych na podstawie art. 229 § 8 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662, z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735 oraz z 2016 r. poz. 868, 910, 960 i 1053.), i ma prawo wykonywania zawodu oraz co najmniej pięcioletni staż pracy w zawodzie.
 § 8.
-Psychologiem uprawnionym jest psycholog, który został wpisany do rejestru prowadzonego przez komendanta wojewódzkiego Policji na podstawie art. 15c ust. 2 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2012 r. poz. 576, z 2013 r. poz. 829, z 2014 r. poz. 295 oraz z 2015 r. poz. 1505).
-” .
+Psychologiem uprawnionym jest psycholog, który został wpisany do rejestru prowadzonego przez komendanta wojewódzkiego Policji na podstawie art. 15c ust. 2 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2012 r. poz. 576, z 2013 r. poz. 829, z 2014 r. poz. 295 oraz z 2015 r. poz. 1505). ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1595 i 1781 oraz z 2016 r. poz. 147, 437, 633 i 960. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662, z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735 oraz z 2016 r. poz. 868, 910, 960 i 1053.
 

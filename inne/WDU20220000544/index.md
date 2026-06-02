@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-02-23 |
 | Data wydania | 2022-03-07 |
-| Wejście w życie | 2022-03-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000544) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/544/text.pdf) |
 

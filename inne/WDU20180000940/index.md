@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 27 kwietnia 2018 r. w sprawie przenoszenia do służby w Straży Granicznej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 27 kwietnia 2018 r. w sprawie przenoszenia do służby w Straży Granicznej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej − sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-04-27 |
 | Data wydania | 2018-05-18 |
-| Wejście w życie | 2018-05-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000940) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/940/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 31a ust. 5 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 31a ust. 5 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 650, 730 i 894.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy sposób i tryb prowadzenia postępowania w stosunku do funkcjonariusza Policji, Straży Marszałkowskiej, Służby Ochrony Państwa, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego lub Centralnego Biura Antykorupcyjnego, zwanego dalej „funkcjonariuszem”, który na podstawie art. 31a ust. 1 ustawy z dnia 12 października 1990 r. o Straży Granicznej, zwanej dalej „ustawą”, wystąpił z pisemną prośbą o przeniesienie do służby w Straży Granicznej, zwaną dalej „prośbą”.
 § 2.
@@ -372,6 +371,5 @@ Do postępowań w sprawie przeniesienia funkcjonariusza do służby w Straży Gr
 2.
 Wszczęte i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia postępowania w sprawie przeniesienia funkcjonariusza Policji, Służby Ochrony Państwa, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego lub Centralnego Biura Antykorupcyjnego do dalszego pełnienia służby w Biurze Spraw Wewnętrznych Straży Granicznej jako komórki organizacyjnej Komendy Głównej Straży Granicznej prowadzi się dalej jako postępowania w sprawie przeniesienia funkcjonariusza do służby w Biurze Spraw Wewnętrznych Straży Granicznej jako jednostki organizacyjnej Straży Granicznej, zachowując w mocy dotychczas podjęte w ich toku czynności.
 § 20.
-Rozporządzenie wchodzi w życie z dniem 20 maja 2018 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej − sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 650, 730 i 894. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 27 lutego 2017 r. w sprawie przenoszenia do służby w Straży Granicznej (Dz. U. poz. 445), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 389 ust. 2 pkt 5 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650 i 730).
+Rozporządzenie wchodzi w życie z dniem 20 maja 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 27 lutego 2017 r. w sprawie przenoszenia do służby w Straży Granicznej (Dz. U. poz. 445), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 389 ust. 2 pkt 5 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650 i 730). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej − sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 650, 730 i 894. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 27 lutego 2017 r. w sprawie przenoszenia do służby w Straży Granicznej (Dz. U. poz. 445), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 389 ust. 2 pkt 5 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650 i 730).
 

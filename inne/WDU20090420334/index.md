@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-01-09 |
 | Data wydania | 2009-03-17 |
-| Wejście w życie | 2009-04-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090420334) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/334/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2005 r. Nr 240, poz. 2027, z późn. zm.) w art. 24:
+**Art. 1.** W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2005 r. Nr 240, poz. 2027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505 oraz z 2009 r. Nr 31, poz. 206.) w art. 24:
 
 ust. 2 i 3 otrzymują brzmienie: „
 
@@ -48,5 +47,5 @@ ust. 2 i 3 otrzymują brzmienie: „
 - **3)** organów kontroli państwa w związku z wykonywaniem przez te organy ich ustawowych zadań;
 - **4)** organów administracji rządowej oraz jednostek samorządu terytorialnego, w związku z ich działaniami dotyczącymi praw do nieruchomości Skarbu Państwa i jednostek samorządu terytorialnego. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505 oraz z 2009 r. Nr 31, poz. 206.
 

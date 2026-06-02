@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 21 sierpnia 2024 r. w sprawie prowadzenia rejestru pośredników ubezpieczeniowych oraz udostępniania informacji z tego rejestru
+# Rozporządzenie Ministra Finansówz dnia 21 sierpnia 2024 r. w sprawie prowadzenia rejestru pośredników ubezpieczeniowych oraz udostępniania informacji z tego rejestru Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-08-21 |
 | Data wydania | 2024-08-27 |
-| Wejście w życie | 2024-09-11 |
 | Ostatnia zmiana | 2024-09-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001293) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1293/text.pdf) |
 
@@ -163,8 +162,7 @@ firmę, pod którą agent ubezpieczeniowy lub agent oferujący ubezpieczenia uzu
 2)
 numer wpisu w rejestrze, a także numer identyfikacji podatkowej (NIP) albo numer w rejestrze przedsiębiorców Krajowego Rejestru Sądowego.
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 grudnia 2018 r. w sprawie prowadzenia rejestru pośredników ubezpieczeniowych oraz udostępniania informacji z tego rejestru (Dz. U. z 2022 r. poz. 2040), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 50 ust. 3 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 grudnia 2018 r. w sprawie prowadzenia rejestru pośredników ubezpieczeniowych oraz udostępniania informacji z tego rejestru (Dz. U. z 2022 r. poz. 2040), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 50 ust. 3 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 grudnia 2018 r. w sprawie prowadzenia rejestru pośredników ubezpieczeniowych oraz udostępniania informacji z tego rejestru (Dz. U. z 2022 r. poz. 2040), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 50 ust. 3 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723).
 
 ### Dział pierwszy rozdział pierwszy obejmuje:
 

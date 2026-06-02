@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-07 |
 | Data wydania | 2024-11-13 |
-| Wejście w życie | 2024-11-14 |
 | Ostatnia zmiana | 2024-11-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001656) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1656/text.pdf) |
 
@@ -74,8 +73,7 @@ Dowódca jednostki wojskowej po otrzymaniu wniosku wraz z kompletem dokumentów 
 1)
 realnie poniesionych przez żołnierza kosztów oraz rozstrzygnięcia o kosztach procesu – niezwłocznie, nie później niż w ciągu 14 dni od dnia otrzymania wniosku wraz z kompletem dokumentów – w przypadku, o którym mowa w ust. 3, lub
 2)
-kosztów procesu, którymi zgodnie z umową o pomoc prawną ma zostać obciążony żołnierz – niezwłocznie po otrzymaniu wniosku wraz z kompletem dokumentów, przed przypadającym terminem płatności za udzieloną pomoc prawną – w przypadku, o którym mowa w ust. 4
-w granicach określonych w art. 316 ust. 2 ustawy.
+kosztów procesu, którymi zgodnie z umową o pomoc prawną ma zostać obciążony żołnierz – niezwłocznie po otrzymaniu wniosku wraz z kompletem dokumentów, przed przypadającym terminem płatności za udzieloną pomoc prawną – w przypadku, o którym mowa w ust. 4 – w granicach określonych w art. 316 ust. 2 ustawy.
 § 3.
 1.
 Zwrot kosztów pomocy prawnej, o którym mowa w art. 316 ust. 1 ustawy, następuje na wniosek żołnierza.

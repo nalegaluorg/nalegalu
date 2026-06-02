@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 grudnia 1996 r. o Polskim Instytucie Spraw Międzynarodowych (Dz. U. z 2015 r. poz. 1386), z uwzględnieniem zmian wprowadzonych ustawą z dnia 11 września 2019 r. o zmianie ustawy o Polskim Instytucie Spraw Międzynarodowych (Dz. U. poz. 1965) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 kwietnia 2020 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 11 września 2019 r. o zmianie ustawy o Polskim Instytucie Spraw Międzynarodowych (Dz. U. poz. 1965), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 11 września 2019 r. o zmianie ustawy o Polskim Instytucie Spraw Międzynarodowych (Dz. U. poz. 1965), który stanowi: „
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 20 grudnia 1996 r. o Polskim Instytucie Spraw Międzynarodowych
 
@@ -80,7 +79,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Członków Rady Instytutu powołuje i odwołuje minister właściwy do spraw zagranicznych.
 
-**Art. 7.** (uchylony) Zadania, o których mowa w art. 2, mogą być realizowane przy pomocy:
+**Art. 7.** (uchylony)Przez art. 1 pkt 1 ustawy z dnia 11 września 2019 r. o zmianie ustawy o Polskim Instytucie Spraw Międzynarodowych (Dz. U. poz. 1965), która weszła w życie z dniem 30 października 2019 r. Zadania, o których mowa w art. 2, mogą być realizowane przy pomocy:
 
 - **1)** oddziałów zamiejscowych będących wyodrębnionymi jednostkami organizacyjnymi lub komórkami organizacyjnymi Instytutu, w tym mających siedzibę poza terytorium Rzeczypospolitej Polskiej, zwanych dalej „oddziałami zamiejscowymi”;
 - **2)** podmiotów zależnych będących jednostkami organizacyjnymi mającymi siedzibę poza terytorium Rzeczypospolitej Polskiej, zwanych dalej „podmiotami zależnymi”.
@@ -107,7 +106,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 8. Instytut może przekształcać i likwidować, za zgodą Prezesa Rady Ministrów, po uzyskaniu pozytywnej opinii ministra właściwego do spraw zagranicznych, oddziały zamiejscowe.
 
-1. Instytut może tworzyć, za zgodą Prezesa Rady Ministrów, po uzyskaniu pozytywnej opinii ministra właściwego do spraw zagranicznych, podmioty zależne, w formie prawnej i organizacyjnej zależnej od miejsca ich utworzenia, w tym w formie spółki kapitałowej. Przepisów art. 45 i art. 49 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.) nie stosuje się.
+1. Instytut może tworzyć, za zgodą Prezesa Rady Ministrów, po uzyskaniu pozytywnej opinii ministra właściwego do spraw zagranicznych, podmioty zależne, w formie prawnej i organizacyjnej zależnej od miejsca ich utworzenia, w tym w formie spółki kapitałowej. Przepisów art. 45 i art. 49 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374 i 568.) nie stosuje się.
 
 2. Wniosek o wyrażenie zgody, o której mowa w ust. 1, określa:
 
@@ -143,5 +142,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 12.** W sprawach nieuregulowanych niniejszą ustawą do Instytutu stosuje się odpowiednio przepisy dotyczące instytutów badawczych. Ministrem właściwym w rozumieniu tych przepisów jest minister właściwy do spraw zagranicznych.
 
-**Art. 13.** Ustawa wchodzi w życie z dniem 1 stycznia 1997 r.
+**Art. 13.** Ustawa wchodzi w życie z dniem 1 stycznia 1997 r. 1) Przez art. 1 pkt 1 ustawy z dnia 11 września 2019 r. o zmianie ustawy o Polskim Instytucie Spraw Międzynarodowych (Dz. U. poz. 1965), która weszła w życie z dniem 30 października 2019 r. 2) Dodany przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374 i 568.
 

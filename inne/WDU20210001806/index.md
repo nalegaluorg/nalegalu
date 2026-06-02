@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 17 września 2021 r. w sprawie szczegółowego zakresu informacji zawartych w sprawozdaniach dotyczących prowadzenia ksiąg hodowlanych, rejestrów hodowlanych i rejestrów oraz sposobu składania tych sprawozdań
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 17 września 2021 r. w sprawie szczegółowego zakresu informacji zawartych w sprawozdaniach dotyczących prowadzenia ksiąg hodowlanych, rejestrów hodowlanych i rejestrów oraz sposobu składania tych sprawozdań Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-09-17 |
 | Data wydania | 2021-10-04 |
-| Wejście w życie | 2021-10-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001806) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1806/text.pdf) |
 
@@ -58,6 +57,5 @@ w postaci elektronicznej, opatrzonym kwalifikowanym podpisem elektronicznym, pod
 § 3.
 Sprawozdanie podpisuje osoba uprawniona do reprezentowania związku hodowców, przedsiębiorstwa hodowlanego lub innego podmiotu prowadzącego księgę hodowlaną lub rejestr hodowlany, lub rejestr.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 14 grudnia 2007 r. w sprawie zakresu informacji oraz sposobu składania sprawozdania z prowadzenia ksiąg hodowlanych i rejestrów (Dz. U. poz. 1789 oraz z 2010 r. poz. 1606), które utraciło moc z dniem 23 stycznia 2021 r. w związku z wejściem w życie ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 14 grudnia 2007 r. w sprawie zakresu informacji oraz sposobu składania sprawozdania z prowadzenia ksiąg hodowlanych i rejestrów (Dz. U. poz. 1789 oraz z 2010 r. poz. 1606), które utraciło moc z dniem 23 stycznia 2021 r. w związku z wejściem w życie ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36). 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 14 grudnia 2007 r. w sprawie zakresu informacji oraz sposobu składania sprawozdania z prowadzenia ksiąg hodowlanych i rejestrów (Dz. U. poz. 1789 oraz z 2010 r. poz. 1606), które utraciło moc z dniem 23 stycznia 2021 r. w związku z wejściem w życie ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36).
 

@@ -26,22 +26,33 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000985) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/985/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym Rozdział 1 – Podmiot i przedmiot opodatkowania Rozdział 2 – Podstawa opodatkowania i wysokość podatku Rozdział 3 – Pobór podatku Rozdział 4 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym (Dz. U. z 2020 r. poz. 1443), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 listopada 2020 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw (Dz. U. poz. 2123) oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 maja 2021 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje art. 24 ustawy z dnia 28 listopada 2020 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw (Dz. U. poz. 2123), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje art. 24 ustawy z dnia 28 listopada 2020 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw (Dz. U. poz. 2123), który stanowi: „
+Podmiot i przedmiot opodatkowania
+Podstawa opodatkowania i wysokość podatku
+Pobór podatku
+Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 Art. 14–18.
 (pominięte)
+
+#### Rozdział 1 – Podmiot i przedmiot opodatkowania
+
+#### Rozdział 2 – Podstawa opodatkowania i wysokość podatku
+
+#### Rozdział 3 – Pobór podatku
+
+#### Rozdział 4 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 **Art. 24.** Ustawa wchodzi w życie z dniem 1 stycznia 2021 r., z wyjątkiem:
 
 - **1)** art. 1 pkt 21–33, art. 2 pkt 25–35, art. 3 pkt 9–13, art. 9, art. 10, art. 12, art. 18, art. 19 oraz art. 23 ust. 3 i 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 - **2)** art. 4 i art. 8, które wchodzą w życie z dniem 1 marca 2021 r. ” . Załącznik – Tekst jednolity ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym
 
-#### Rozdział 1 Podmiot i przedmiot opodatkowania
+#### Rozdział 1
 
 **Art. 1.** Ustawa reguluje opodatkowanie podatkiem tonażowym niektórych dochodów (przychodów) osiąganych przez przedsiębiorców żeglugowych eksploatujących morskie statki handlowe w żegludze międzynarodowej.
 
@@ -49,7 +60,7 @@ Art. 14–18.
 
 - **1)** konwencji SOLAS – rozumie się przez to Międzynarodową konwencję o bezpieczeństwie życia na morzu, 1974, sporządzoną w Londynie dnia 1 listopada 1974 r. wraz z Protokołem z 1978 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 17 lutego 1978 r. oraz Protokołem z 1988 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 11 listopada 1988 r. (Dz. U. z 2016 r. poz. 869 oraz z 2017 r. poz. 142);
 - **2)** Dokumencie Zgodności – rozumie się przez to dokument wydany zgodnie z konwencją SOLAS przedsiębiorcy żeglugowemu, który spełnia wymagania Międzynarodowego kodeksu zarządzania bezpieczną eksploatacją statków i zapobieganiem zanieczyszczaniu (Kodeks ISM), określonego w rozdziale IX konwencji SOLAS;
-- **3)** przedsiębiorcy żeglugowym – rozumie się przez to: osobę fizyczną, osobę prawną i spółkę, o której mowa w art. 1 ust. 3 pkt 1 i 1a ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm.), mającą odpowiednio miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, która spełnia przynajmniej jeden z warunków: – we własnym imieniu uprawia żeglugę statkiem własnym lub cudzym oraz posiada ważny Dokument Zgodności, – jest właścicielem statku, ale nie uprawia równocześnie we własnym imieniu żeglugi statkiem własnym lub cudzym, – zarządza cudzym statkiem, w cudzym imieniu i na cudzą rzecz na podstawie umowy, oraz posiada ważny Dokument Zgodności, wspólnika spółki cywilnej i spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych, mającego siedzibę, zarząd lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, która spełnia przynajmniej jeden z warunków: – we własnym imieniu uprawia żeglugę statkiem własnym lub cudzym oraz posiada ważny Dokument Zgodności, – jest właścicielem statku, ale nie uprawia równocześnie we własnym imieniu żeglugi statkiem własnym lub cudzym, – zarządza cudzym statkiem, w cudzym imieniu i na cudzą rzecz na podstawie umowy, oraz posiada ważny Dokument Zgodności, przedsiębiorcę zagranicznego w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 1252 i 2255) prowadzącego na terytorium Rzeczypospolitej Polskiej działalność, o której mowa w art. 3 ust. 1 i 2, który spełnia przynajmniej jeden z warunków: – we własnym imieniu uprawia żeglugę statkiem własnym lub cudzym oraz posiada ważny Dokument Zgodności, – jest właścicielem statku, ale nie uprawia równocześnie we własnym imieniu żeglugi statkiem własnym lub cudzym, – zarządza cudzym statkiem, w cudzym imieniu i na cudzą rzecz na podstawie umowy, oraz posiada ważny Dokument Zgodności;
+- **3)** przedsiębiorcy żeglugowym – rozumie się przez to: osobę fizyczną, osobę prawną i spółkę, o której mowa w art. 1 ust. 3 pkt 1 i 1a ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1565, 2122, 2123 i 2320 oraz z 2021 r. poz. 11 i 255.), mającą odpowiednio miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, która spełnia przynajmniej jeden z warunków:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 6 pkt 1 lit. a ustawy z dnia 28 listopada 2020 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw (Dz. U. poz. 2123), która weszła w życie z dniem 1 stycznia 2021 r. – we własnym imieniu uprawia żeglugę statkiem własnym lub cudzym oraz posiada ważny Dokument Zgodności, – jest właścicielem statku, ale nie uprawia równocześnie we własnym imieniu żeglugi statkiem własnym lub cudzym, – zarządza cudzym statkiem, w cudzym imieniu i na cudzą rzecz na podstawie umowy, oraz posiada ważny Dokument Zgodności, wspólnika spółki cywilnej i spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych, mającego siedzibę, zarząd lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, która spełnia przynajmniej jeden z warunków:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 6 pkt 1 lit. b ustawy, o której mowa w odnośniku 2. – we własnym imieniu uprawia żeglugę statkiem własnym lub cudzym oraz posiada ważny Dokument Zgodności, – jest właścicielem statku, ale nie uprawia równocześnie we własnym imieniu żeglugi statkiem własnym lub cudzym, – zarządza cudzym statkiem, w cudzym imieniu i na cudzą rzecz na podstawie umowy, oraz posiada ważny Dokument Zgodności, przedsiębiorcę zagranicznego w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 1252 i 2255) prowadzącego na terytorium Rzeczypospolitej Polskiej działalność, o której mowa w art. 3 ust. 1 i 2, który spełnia przynajmniej jeden z warunków: – we własnym imieniu uprawia żeglugę statkiem własnym lub cudzym oraz posiada ważny Dokument Zgodności, – jest właścicielem statku, ale nie uprawia równocześnie we własnym imieniu żeglugi statkiem własnym lub cudzym, – zarządza cudzym statkiem, w cudzym imieniu i na cudzą rzecz na podstawie umowy, oraz posiada ważny Dokument Zgodności;
     - **a)**
     - **b)**
     - **c)**
@@ -77,7 +88,7 @@ Art. 14–18.
     - **a)**
     - **b)**
 
-- **2)** ratownictwa pełnomorskiego którzy dokonali wyboru tej formy opodatkowania.
+- **2)** ratownictwa pełnomorskiego – którzy dokonali wyboru tej formy opodatkowania.
 
 2. Opodatkowaniu podatkiem tonażowym podlega również działalność przedsiębiorcy żeglugowego w zakresie:
 
@@ -90,7 +101,7 @@ Art. 14–18.
 - **7)** przewozu ładunku lub pasażerów w transporcie multimodalnym,
 - **8)** zarządzania cudzym statkiem – jeżeli przedsiębiorca żeglugowy prowadzi tę działalność z terytorium państwa członkowskiego Unii Europejskiej i większość osób zatrudnionych przez niego na lądzie lub na statku stanowią obywatele państw członkowskich Unii Europejskiej,
 - **9)** świadczenia usług agentów i maklerów morskich, usług brokerskich i usług agencji zatrudnienia, związanych z załogą statku,
-- **10)** zawierania umów najmu, dzierżawy lub czarteru statków pod warunkiem że działalność ta jest związana ze świadczeniem usług, o których mowa w ust. 1.
+- **10)** zawierania umów najmu, dzierżawy lub czarteru statków – pod warunkiem że działalność ta jest związana ze świadczeniem usług, o których mowa w ust. 1.
 
 3. Opodatkowaniu podatkiem tonażowym nie podlega działalność w zakresie:
 
@@ -109,17 +120,17 @@ Art. 14–18.
 4. Jeżeli w okresie opodatkowania zmarł przedsiębiorca żeglugowy, podatnikiem podatku tonażowego w okresie od otwarcia spadku do dnia wygaśnięcia:
 
 - **1)** zarządu sukcesyjnego albo
-- **2)** uprawnienia do powołania zarządcy sukcesyjnego, jeżeli zarząd sukcesyjny nie został ustanowiony i dokonano zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2020 r. poz. 170 oraz z 2021 r. poz. 802) nie dłużej jednak niż do końca okresu opodatkowania, jest przedsiębiorstwo w spadku.
+- **2)** uprawnienia do powołania zarządcy sukcesyjnego, jeżeli zarząd sukcesyjny nie został ustanowiony i dokonano zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2020 r. poz. 170 oraz z 2021 r. poz. 802) – nie dłużej jednak niż do końca okresu opodatkowania, jest przedsiębiorstwo w spadku.
 
 5. Przedsiębiorstwo w spadku kontynuuje opodatkowanie podatkiem tonażowym na zasadach, jakie obowiązywały zmarłego przedsiębiorcę.
 
-#### Rozdział 2 Podstawa opodatkowania i wysokość podatku
+#### Rozdział 2
 
 **Art. 4.**
 
 1. Podstawę opodatkowania podatkiem tonażowym stanowi dochód przedsiębiorcy żeglugowego z działalności podlegającej opodatkowaniu na podstawie art. 3 ust. 1 i 2, odpowiadający iloczynowi dobowej stawki ustalonej zgodnie z art. 5 ust. 1–3 oraz okresu eksploatacji w danym miesiącu wszystkich statków przedsiębiorcy żeglugowego, z których dochód opodatkowany jest podatkiem tonażowym.
 
-2. W przypadku przedsiębiorców żeglugowych, o których mowa w art. 2 pkt 3 lit. b, podstawę opodatkowania podatkiem tonażowym stanowi dochód z działalności podlegającej opodatkowaniu na podstawie art. 3 ust. 1 i 2, odpowiadający iloczynowi dobowej stawki ustalonej zgodnie z art. 5 ust. 1–3 oraz okresu eksploatacji w danym miesiącu wszystkich statków spółki cywilnej lub spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych, z których dochód opodatkowany jest podatkiem tonażowym, określony proporcjonalnie do prawa takiego przedsiębiorcy żeglugowego w udziale w zysku spółki. W przypadku braku przeciwnego dowodu przyjmuje się, że prawa do udziału w zysku są równe.
+2. W przypadku przedsiębiorców żeglugowych, o których mowa w art. 2 pkt 3 lit. b, podstawę opodatkowania podatkiem tonażowym stanowi dochód z działalności podlegającej opodatkowaniu na podstawie art. 3 ust. 1 i 2, odpowiadający iloczynowi dobowej stawki ustalonej zgodnie z art. 5 ust. 1–3 oraz okresu eksploatacji w danym miesiącu wszystkich statków spółki cywilnej lub spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych, z których dochód opodatkowany jest podatkiem tonażowym, określony proporcjonalnie do prawa takiego przedsiębiorcy żeglugowego w udziale w zysku spółki.Zdanie pierwsze w brzmieniu ustalonym przez art. 6 pkt 2 ustawy, o której mowa w odnośniku 2. W przypadku braku przeciwnego dowodu przyjmuje się, że prawa do udziału w zysku są równe.
 
 **Art. 5.**
 
@@ -138,9 +149,7 @@ Art. 14–18.
 
 **Art. 7.**
 
-1. Dochodów przedsiębiorcy żeglugowego z działalności określonej w art. 3 ust. 1 i 2 oraz przychodów, o których mowa w art. 8, nie łączy się z innymi dochodami (przychodami) przedsiębiorcy żeglugowego podlegającymi opodatkowaniu podatkiem dochodowym na podstawie innych ustaw.
-
-2. W okresie opodatkowania podatkiem tonażowym przedsiębiorca żeglugowy jest obowiązany prowadzić odrębny wykaz środków trwałych oraz wartości niematerialnych i prawnych związanych z działalnością, o której mowa w art. 3 ust. 1 i 2, a w przypadku przedsiębiorcy żeglugowego, o którym mowa w art. 2 pkt 3 lit. b, wykaz obowiązana jest prowadzić spółka cywilna i spółka jawna niebędąca podatnikiem podatku dochodowego od osób prawnych.
+1. Dochodów przedsiębiorcy żeglugowego z działalności określonej w art. 3 ust. 1 i 2 oraz przychodów, o których mowa w art. 8, nie łączy się z innymi dochodami (przychodami) przedsiębiorcy żeglugowego podlegającymi opodatkowaniu podatkiem dochodowym na podstawie innych ustaw. 2W brzmieniu ustalonym przez art. 6 pkt 3 ustawy, o której mowa w odnośniku 2.. W okresie opodatkowania podatkiem tonażowym przedsiębiorca żeglugowy jest obowiązany prowadzić odrębny wykaz środków trwałych oraz wartości niematerialnych i prawnych związanych z działalnością, o której mowa w art. 3 ust. 1 i 2, a w przypadku przedsiębiorcy żeglugowego, o którym mowa w art. 2 pkt 3 lit. b, wykaz obowiązana jest prowadzić spółka cywilna i spółka jawna niebędąca podatnikiem podatku dochodowego od osób prawnych.
 
 3. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, w drodze rozporządzenia, sposób prowadzenia wykazu środków trwałych oraz wartości niematerialnych i prawnych, o którym mowa w ust. 2, kierując się koniecznością prawidłowego określenia, dla celów podatku dochodowego, wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych i stawki amortyzacyjnej.
 
@@ -150,7 +159,7 @@ Art. 14–18.
 
 2. Podatek z tytułu, o którym mowa w ust. 1, podlega wpłacie, bez wezwania, w terminie do 20. dnia miesiąca następującego po miesiącu, w którym upłynął termin do wydatkowania przychodu na cele wskazane w tym przepisie.
 
-#### Rozdział 3 Pobór podatku
+#### Rozdział 3
 
 **Art. 9.**
 
@@ -201,9 +210,9 @@ Art. 14–18.
 **Art. 13.** Minister właściwy do spraw gospodarki morskiej w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wzory:
 
 - **1)** zeznania, o którym mowa w art. 12 ust. 2,
-- **2)** oświadczenia wraz z objaśnieniami co do sposobu ich wypełniania, terminu i miejsca składania, uwzględniając zakres informacji niezbędnych do prawidłowego ustalenia zobowiązania podatkowego. Wyboru opodatkowania podatkiem tonażowym można dokonać w okresie obowiązywania pozytywnej decyzji Komisji Europejskiej o zgodności podatku tonażowego z rynkiem wewnętrznym.
+- **2)** oświadczenia – wraz z objaśnieniami co do sposobu ich wypełniania, terminu i miejsca składania, uwzględniając zakres informacji niezbędnych do prawidłowego ustalenia zobowiązania podatkowego. Wyboru opodatkowania podatkiem tonażowym można dokonać w okresie obowiązywania pozytywnej decyzji Komisji Europejskiej o zgodności podatku tonażowego z rynkiem wewnętrznym.
 
-#### Rozdział 4 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+#### Rozdział 4
 
-**Art. 19.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r.
+**Art. 19.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1565, 2122, 2123 i 2320 oraz z 2021 r. poz. 11 i 255. 2) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 6 pkt 1 lit. a ustawy z dnia 28 listopada 2020 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw (Dz. U. poz. 2123), która weszła w życie z dniem 1 stycznia 2021 r. 3) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 6 pkt 1 lit. b ustawy, o której mowa w odnośniku 2. 4) Zdanie pierwsze w brzmieniu ustalonym przez art. 6 pkt 2 ustawy, o której mowa w odnośniku 2. 5) W brzmieniu ustalonym przez art. 6 pkt 3 ustawy, o której mowa w odnośniku 2.
 

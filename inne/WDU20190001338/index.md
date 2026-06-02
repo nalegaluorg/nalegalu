@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 10 lipca 2019 r. zmieniające rozporządzenie w sprawie trybu i warunków postępowania towarowych domów maklerskich
+# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 10 lipca 2019 r. zmieniające rozporządzenie w sprawie trybu i warunków postępowania towarowych domów maklerskich Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-10 |
 | Data wydania | 2019-07-17 |
-| Wejście w życie | 2019-07-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001338) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1338/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 52 ust. 1 pkt 1 ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2019 r. poz. 312) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 3 września 2002 r. w sprawie trybu i warunków postępowania towarowych domów maklerskich (Dz. U. poz. 1352) w § 56 ust. 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Rady Ministrów z dnia 3 września 2002 r. w sprawie trybu i warunków postępowania towarowych domów maklerskich (Dz. U. poz. 1352) w § 56 ust. 2 otrzymuje brzmienie: „
 2.
-Stwierdzenie okoliczności, o których mowa w ust. 1, następuje także na podstawie stanu rachunku transakcji giełdowych lub rejestru ewidencyjnego klienta oraz przedstawionej umowy o ustanowieniu zabezpieczenia i dokumentu, z którego wynika zabezpieczona wierzytelność. W towarowym domu maklerskim pozostawia się kopię umowy o ustanowieniu zabezpieczenia, zaopatrzoną w podpis upoważnionego pracownika towarowego domu maklerskiego oraz datę.
-” .
+Stwierdzenie okoliczności, o których mowa w ust. 1, następuje także na podstawie stanu rachunku transakcji giełdowych lub rejestru ewidencyjnego klienta oraz przedstawionej umowy o ustanowieniu zabezpieczenia i dokumentu, z którego wynika zabezpieczona wierzytelność. W towarowym domu maklerskim pozostawia się kopię umowy o ustanowieniu zabezpieczenia, zaopatrzoną w podpis upoważnionego pracownika towarowego domu maklerskiego oraz datę. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 15 lutego 2021 r. zmieniające rozporządzenie w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania
+# Rozporządzenie Ministra Zdrowiaz dnia 15 lutego 2021 r. zmieniające rozporządzenie w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-02-15 |
 | Data wydania | 2021-02-17 |
-| Wejście w życie | 2021-02-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000302) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/302/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Zdrowia z dnia 6 kwietnia 2020 r. w sprawie rodzajów
 1)
 w § 68a:
 a)
-w ust. 1 pkt 4 otrzymuje brzmienie:
-„
+w ust. 1 pkt 4 otrzymuje brzmienie: „
 4)
 oznaczenie pacjenta kierowanego na szczepienie:
 a)
@@ -50,8 +48,7 @@ adres miejsca zamieszkania, adres miejsca pobytu na terytorium Rzeczypospolitej 
 f)
 numer PESEL, jeżeli został nadany, a w przypadku osób, które nie mają nadanego numeru PESEL – rodzaj i numer dokumentu potwierdzającego tożsamość,
 g)
-dane kontaktowe (numer telefonu lub adres poczty elektronicznej), jeżeli posiada;
-” ,
+dane kontaktowe (numer telefonu lub adres poczty elektronicznej), jeżeli posiada; ” ,
 b)
 uchyla się ust. 2,
 c)
@@ -59,22 +56,17 @@ uchyla się ust. 4 i 5;
 2)
 w § 68b:
 a)
-w ust. 1 pkt 1 otrzymuje brzmienie:
-„
+w ust. 1 pkt 1 otrzymuje brzmienie: „
 1)
-oznaczenie pacjenta, zgodnie z § 68a ust. 1 pkt 4;
-” ,
+oznaczenie pacjenta, zgodnie z § 68a ust. 1 pkt 4; ” ,
 b)
 uchyla się ust. 2,
 c)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Osoby, o których mowa w art. 21a ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, w zakresie szczepień przeciwko COVID-19, dokonują wpisów do Karty Szczepień.
-” ,
+Osoby, o których mowa w art. 21a ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, w zakresie szczepień przeciwko COVID-19, dokonują wpisów do Karty Szczepień. ” ,
 d)
 uchyla się ust. 5.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 

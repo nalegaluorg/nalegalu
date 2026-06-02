@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Energiiz dnia 18 sierpnia 2017 r. w sprawie minimalnej zawartości sprawozdania z realizacji planu ruchu zakładu górniczego
+# Rozporządzenie Ministra Energiiz dnia 18 sierpnia 2017 r. w sprawie minimalnej zawartości sprawozdania z realizacji planu ruchu zakładu górniczego Minister Energii kieruje działem administracji rządowej – gospodarka złożami kopalin, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-18 |
 | Data wydania | 2017-08-29 |
-| Wejście w życie | 2017-09-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001615) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1615/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 117b ust. 2 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2016 r. poz. 1131, z późn. zm.) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2013/30/UE z dnia 12 czerwca 2013 r. w sprawie bezpieczeństwa działalności związanej ze złożami ropy naftowej i gazu ziemnego na obszarach morskich oraz zmiany dyrektywy 2004/35/WE (Dz. Urz. UE L 178 z 28.06.2013, str. 66). Na podstawie art. 117b ust. 2 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2016 r. poz. 1131, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1991 oraz z 2017 r. poz. 60, 202, 1089, 1215 i 1566).) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa minimalną zawartość sprawozdania z realizacji planu ruchu zakładu górniczego służącego do wykonywania działalności polegającej na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej, zwanego dalej „sprawozdaniem”.
 § 2.
@@ -76,6 +75,5 @@ w przypadku operacji na istniejącym otworze wiertniczym – informację o obecn
 2.
 Dane lokalizacyjne, o których mowa w ust. 1 pkt 3 i 6, zawierają wykaz współrzędnych geocentrycznych geodezyjnych, określonych zgodnie z państwowym systemem odniesień przestrzennych.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Energii kieruje działem administracji rządowej – gospodarka złożami kopalin, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2013/30/UE z dnia 12 czerwca 2013 r. w sprawie bezpieczeństwa działalności związanej ze złożami ropy naftowej i gazu ziemnego na obszarach morskich oraz zmiany dyrektywy 2004/35/WE (Dz. Urz. UE L 178 z 28.06.2013, str. 66). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1991 oraz z 2017 r. poz. 60, 202, 1089, 1215 i 1566).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Energii kieruje działem administracji rządowej – gospodarka złożami kopalin, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2013/30/UE z dnia 12 czerwca 2013 r. w sprawie bezpieczeństwa działalności związanej ze złożami ropy naftowej i gazu ziemnego na obszarach morskich oraz zmiany dyrektywy 2004/35/WE (Dz. Urz. UE L 178 z 28.06.2013, str. 66). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1991 oraz z 2017 r. poz. 60, 202, 1089, 1215 i 1566).
 

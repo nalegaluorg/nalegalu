@@ -26,42 +26,68 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001037) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1037/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 5 lipca 2018 r. o tachografach Rozdział 1 – Przepisy ogólne Rozdział 2 – Homologacja typu Rozdział 3 – Prowadzenie działalności w zakresie instalacji, sprawdzania, przeglądów i napraw tachografów Rozdział 4 – Technik warsztatu Rozdział 5 – Opłaty za czynności organów administracji miar Rozdział 6 – Karty do tachografów cyfrowych Rozdział 7 – Przepisy karne oraz przepisy o karach pieniężnych Rozdział 8 – Zmiany w przepisach obowiązujących Rozdział 9 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 5 lipca 2018 r. o tachografach
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 lipca 2018 r. o tachografach (Dz. U. z 2023 r. poz. 324), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 czerwca 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 49 ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 49 ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523), który stanowi: „
+Przepisy ogólne
+Homologacja typu
+Prowadzenie działalności w zakresie instalacji, sprawdzania, przeglądów i napraw tachografów
+Technik warsztatu
+Opłaty za czynności organów administracji miar
+Karty do tachografów cyfrowych
+Przepisy karne oraz przepisy o karach pieniężnych
+Zmiany w przepisach obowiązujących
 Art. 58–62.
 (pominięte)
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Homologacja typu
+
+#### Rozdział 3 – Prowadzenie działalności w zakresie instalacji, sprawdzania, przeglądów i napraw tachografów
+
+#### Rozdział 4 – Technik warsztatu
+
+#### Rozdział 5 – Opłaty za czynności organów administracji miar
+
+#### Rozdział 6 – Karty do tachografów cyfrowych
+
+#### Rozdział 7 – Przepisy karne oraz przepisy o karach pieniężnych
+
+#### Rozdział 8 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 9 – Przepisy przejściowe i końcowe
 
 **Art. 49.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 4 ust. 2, który wchodzi w życie z dniem 21 sierpnia 2023 r.;
-- **2)** art. 39 pkt 4, 5, 8, pkt 11 lit. b, pkt 12–14, 18 i 19 oraz art. 43, które wchodzą w życie z dniem 1 stycznia 2025 r. ” . Załącznik – Tekst jednolity ustawy z dnia 5 lipca 2018 r. o tachografach
+- **2)** art. 39 pkt 4, 5, 8, pkt 11 lit. b, pkt 12–14, 18 i 19 oraz art. 43, które wchodzą w życie z dniem 1 stycznia 2025 r. ” . Załącznik – Tekst jednolity ustawy z dnia 5 lipca 2018 r. o tachografachNiniejsza ustawa w zakresie swojej regulacji służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 165/2014 z dnia 4 lutego 2014 r. w sprawie tachografów stosowanych w transporcie drogowym i uchylającego rozporządzenie Rady (EWG) nr 3821/85 w sprawie urządzeń rejestrujących stosowanych w transporcie drogowym oraz zmieniającego rozporządzenie (WE) nr 561/2006 Parlamentu Europejskiego i Rady w sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego (Dz. Urz. UE L 60 z 28.02.2014, str. 1).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
 1. Ustawa określa zadania organów administracji publicznej i innych podmiotów w sprawach tachografów stosowanych w transporcie drogowym wynikające z:
 
 - **1)** rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 165/2014 z dnia 4 lutego 2014 r. w sprawie tachografów stosowanych w transporcie drogowym i uchylającego rozporządzenie Rady (EWG) nr 3821/85 w sprawie urządzeń rejestrujących stosowanych w transporcie drogowym oraz zmieniającego rozporządzenie (WE) nr 561/2006 Parlamentu Europejskiego i Rady w sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego (Dz. Urz. UE L 60 z 28.02.2014, str. 1), zwanego dalej „rozporządzeniem (UE) nr 165/2014”;
-- **2)** aktów wykonawczych do rozporządzenia (UE) nr 165/2014: rozporządzenia wykonawczego Komisji (UE) 2016/799 z dnia 18 marca 2016 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 165/2014 ustanawiającego wymogi dotyczące budowy, sprawdzania, instalacji, użytkowania i naprawy tachografów oraz ich elementów składowych (Dz. Urz. UE L 139 z 26.05.2016, str. 1, Dz. Urz. UE L 146 z 03.06.2016, str. 31 oraz Dz. Urz. UE L 27 z 01.02.2017, str. 169), zwanego dalej „rozporządzeniem (UE) 2016/799”, załącznika 1B do rozporządzenia Rady (EWG) nr 3821/85 z dnia 20 grudnia 1985 r. w sprawie urządzeń rejestrujących stosowanych w transporcie drogowym (Dz. Urz. WE L 370 z 31.12.1985, str. 8, z późn. zm.), zwanego dalej „załącznikiem 1B do rozporządzenia Rady (EWG) nr 3821/85”.
+- **2)** aktów wykonawczych do rozporządzenia (UE) nr 165/2014: rozporządzenia wykonawczego Komisji (UE) 2016/799 z dnia 18 marca 2016 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 165/2014 ustanawiającego wymogi dotyczące budowy, sprawdzania, instalacji, użytkowania i naprawy tachografów oraz ich elementów składowych (Dz. Urz. UE L 139 z 26.05.2016, str. 1, Dz. Urz. UE L 146 z 03.06.2016, str. 31 oraz Dz. Urz. UE L 27 z 01.02.2017, str. 169), zwanego dalej „rozporządzeniem (UE) 2016/799”, załącznika 1B do rozporządzenia Rady (EWG) nr 3821/85 z dnia 20 grudnia 1985 r. w sprawie urządzeń rejestrujących stosowanych w transporcie drogowym (Dz. Urz. WE L 370 z 31.12.1985, str. 8, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. WE L 318 z 17.11.1990, str. 20, Dz. Urz. WE L 353 z 17.12.1990, str. 12, Dz. Urz. WE L 374 z 22.12.1992, str. 12, Dz. Urz. WE L 256 z 26.10.1995, str. 8, Dz. Urz. WE L 154 z 12.06.1997, str. 21, Dz. Urz. WE L 274 z 09.10.1998, str. 1, Dz. Urz. WE L 207 z 05.08.2002, str. 1, Dz. Urz. WE L 236 z 23.09.2003, str. 33, Dz. Urz. WE L 284 z 31.10.2003, str. 1, Dz. Urz. UE L 71 z 10.03.2004, str. 3, Dz. Urz. UE L 102 z 11.04.2006, str. 1, Dz. Urz. UE L 363 z 20.12.2006, str. 1, Dz. Urz. UE L 21 z 24.01.2009, str. 3, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 339 z 22.12.2009, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 311 z 31.10.2014, str. 19 oraz Dz. Urz. UE L 25 z 02.02.2016, str. 46.), zwanego dalej „załącznikiem 1B do rozporządzenia Rady (EWG) nr 3821/85”Zgodnie z art. 1 ust. 3 rozporządzenia wykonawczego Komisji (UE) 2016/799 z dnia 18 marca 2016 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 165/2014 ustanawiającego wymogi dotyczące budowy, sprawdzania, instalacji, użytkowania i naprawy tachografów oraz ich elementów składowych (Dz. Urz. UE L 139 z 26.05.2016, str. 1, z późn. zm.) tachografy inne niż tachografy inteligentne muszą nadal spełniać, jeśli chodzi o ich budowę, sprawdzanie, instalację, kontrolę, użytkowanie i naprawę, wymogi zawarte w załączniku 1 do rozporządzenia (UE) nr 165/2014 albo w załączniku 1B do rozporządzenia Rady (EWG) nr 3821/85 z dnia 20 grudnia 1985 r. w sprawie urządzeń rejestrujących stosowanych w transporcie drogowym (Dz. Urz. WE L 370 z 31.12.1985, str. 8, z późn. zm.), stosownie do przypadku..
     - **a)**
     - **b)**
 
 2. Ustawa reguluje:
 
 - **1)** warunki prowadzenia działalności w zakresie instalacji, sprawdzania, przeglądów i napraw tachografów,
-- **2)** zadania organów i jednostek właściwych w sprawach tachografów w zakresie nieuregulowanym rozporządzeniem (UE) nr 165/2014 i aktami wykonawczymi do tego rozporządzenia.
+- **2)** zadania organów i jednostek właściwych w sprawach tachografów – w zakresie nieuregulowanym rozporządzeniem (UE) nr 165/2014 i aktami wykonawczymi do tego rozporządzenia.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
 - **1)** elementy składowe tachografu – elementy składowe tachografu, wymienione w art. 2 pkt 8 rozporządzenia (UE) 2016/799, adapter oraz papier do tachografu cyfrowego, których typ podlega homologacji;
-- **2)** Europejska Sieć Praw Jazdy – sieć wymiany danych i informacji o prawach jazdy, o której mowa w art. 7 ust. 5 lit. d dyrektywy 2006/126/WE Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie praw jazdy (przekształcenie) (Dz. Urz. UE L 403 z 30.12.2006, str. 18, z późn. zm.);
-- **3)** instalator – przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236) lub jednostkę sektora finansów publicznych w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.), posiadających zezwolenie na prowadzenie działalności w zakresie instalacji i sprawdzania tachografów, o którym mowa w art. 10 ust. 2 pkt 2;
+- **2)** Europejska Sieć Praw Jazdy – sieć wymiany danych i informacji o prawach jazdy, o której mowa w art. 7 ust. 5 lit. d dyrektywy 2006/126/WE Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie praw jazdy (przekształcenie) (Dz. Urz. UE L 403 z 30.12.2006, str. 18, z późn. zm.Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 223 z 26.08.2009, str. 31, Dz. Urz. UE L 314 z 29.11.2011, str. 31, Dz. Urz. UE L 321 z 20.11.2012, str. 54, Dz. Urz. UE L 158 z 10.06.2013, str. 356, Dz. Urz. UE L 261 z 03.10.2013, str. 29, Dz. Urz. UE L 194 z 02.07.2014, str. 10, Dz. Urz. UE L 107 z 25.04.2015, str. 68, Dz. Urz. UE L 126 z 14.05.2016, str. 85 oraz Dz. Urz. UE L 183 z 08.07.2016, str. 159.);
+- **3)** instalator – przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236) lub jednostkę sektora finansów publicznych w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858.), posiadających zezwolenie na prowadzenie działalności w zakresie instalacji i sprawdzania tachografów, o którym mowa w art. 10 ust. 2 pkt 2;
 - **4)** karta – kartę do tachografu w rozumieniu art. 2 ust. 2 lit. d rozporządzenia (UE) nr 165/2014;
 - **5)** karta testowa – kartę do tachografu pełniącą funkcję karty kierowcy, karty przedsiębiorstwa, karty warsztatowej lub karty kontrolnej z kluczami testowymi, zgodnie z załącznikiem 1C do rozporządzenia (UE) 2016/799;
 - **6)** państwo członkowskie – państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym;
@@ -87,7 +113,7 @@ Art. 58–62.
 
 3. Jeżeli przepisy rozdziału V rozporządzenia (UE) nr 165/2014 zobowiązują do wykonania określonych czynności organy państwa członkowskiego, państwo członkowskie lub właściwe organy, w przypadku gdy nie zostało to odmiennie określone w przepisach niniejszej ustawy, czynności te wykonuje podmiot wydający karty.
 
-#### Rozdział 2 Homologacja typu
+#### Rozdział 2
 
 **Art. 4.**
 
@@ -180,7 +206,7 @@ Art. 58–62.
 - **1)** wykaz homologowanych typów tachografów i elementów składowych tachografu;
 - **2)** wykaz typów tachografów i elementów składowych tachografu homologowanych przez właściwe organy w państwach członkowskich.
 
-#### Rozdział 3 Prowadzenie działalności w zakresie instalacji, sprawdzania, przeglądów i napraw tachografów
+#### Rozdział 3
 
 **Art. 10.**
 
@@ -353,14 +379,14 @@ Art. 58–62.
     - **b)**
     - **c)**
 
-- **2)** rodzaje zabezpieczeń druków zezwoleń przed podrobieniem lub przerobieniem kierując się potrzebą zapewnienia jednolitości i przejrzystości wniosków i zezwoleń oraz koniecznością zagwarantowania odpowiedniego zabezpieczenia przed podrobieniem lub przerobieniem zezwoleń, a także nadawanej specjalnej cechy.
+- **2)** rodzaje zabezpieczeń druków zezwoleń przed podrobieniem lub przerobieniem – kierując się potrzebą zapewnienia jednolitości i przejrzystości wniosków i zezwoleń oraz koniecznością zagwarantowania odpowiedniego zabezpieczenia przed podrobieniem lub przerobieniem zezwoleń, a także nadawanej specjalnej cechy.
 
 **Art. 20.** Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
 
 - **1)** wykaz urządzeń niezbędnych do wykonywania instalacji, sprawdzania, przeglądów i napraw tachografów analogowych lub cyfrowych oraz szczegółowe wymagania, które muszą być spełnione przez te urządzenia,
 - **2)** dokumenty potwierdzające spełnianie wymagań, o których mowa w pkt 1,
 - **3)** zakres i sposób dokumentowania wykonywanych czynności w zakresie posiadanego zezwolenia,
-- **4)** zakres i sposób pobierania danych dotyczących każdego użycia karty warsztatowej oraz przechowywania tych danych w postaci elektronicznej kierując się koniecznością zagwarantowania stosowania urządzeń umożliwiających prawidłowe wykonywanie czynności objętych zezwoleniem oraz mając na uwadze konieczność zapewnienia jednolitego i należytego dokumentowania czynności objętych zezwoleniem, zagwarantowania regularnego pobierania danych z karty warsztatowej i przechowywania tych danych przez podmiot posiadający zezwolenie.
+- **4)** zakres i sposób pobierania danych dotyczących każdego użycia karty warsztatowej oraz przechowywania tych danych w postaci elektronicznej – kierując się koniecznością zagwarantowania stosowania urządzeń umożliwiających prawidłowe wykonywanie czynności objętych zezwoleniem oraz mając na uwadze konieczność zapewnienia jednolitego i należytego dokumentowania czynności objętych zezwoleniem, zagwarantowania regularnego pobierania danych z karty warsztatowej i przechowywania tych danych przez podmiot posiadający zezwolenie.
 
 **Art. 21.**
 
@@ -451,7 +477,7 @@ Art. 58–62.
     - **b)**
     - **c)**
 
-- **2)** zawieszeniu prowadzenia działalności przez podmiot posiadający zezwolenie i podjęciu zawieszonej działalności przez ten podmiot Prezes GUM niezwłocznie udostępnia w Biuletynie Informacji Publicznej na stronie podmiotowej Głównego Urzędu Miar.
+- **2)** zawieszeniu prowadzenia działalności przez podmiot posiadający zezwolenie i podjęciu zawieszonej działalności przez ten podmiot – Prezes GUM niezwłocznie udostępnia w Biuletynie Informacji Publicznej na stronie podmiotowej Głównego Urzędu Miar.
 
 **Art. 25.** Zabrania się produkcji, dystrybucji, reklamy, sprzedaży lub udostępniania w inny sposób urządzeń, przedmiotów lub oprogramowania wykonanych lub przeznaczonych do celów podrabiania lub przerabiania danych rejestrowanych przez tachograf.
 
@@ -491,9 +517,7 @@ Art. 58–62.
 - **7)** informacje o udzielonych, zmienionych, cofniętych, czasowo cofniętych i wygaśniętych zezwoleniach;
 - **8)** informacje o zawieszeniu prowadzenia działalności i podjęciu zawieszonej działalności.
 
-4. Podmiot posiadający zezwolenie jest obowiązany zgłaszać Prezesowi GUM zmianę danych i informacji, o których mowa w ust. 3 pkt 1, w terminie 14 dni od dnia zaistnienia zmiany.
-
-5. Dane i informacje zgromadzone w ewidencji udostępnia się:
+4. Podmiot posiadający zezwolenie jest obowiązany zgłaszać Prezesowi GUM zmianę danych i informacji, o których mowa w ust. 3 pkt 1, w terminie 14 dni od dnia zaistnienia zmiany. 5W brzmieniu ustalonym przez art. 44 pkt 1 ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523), która weszła w życie z dniem 19 sierpnia 2023 r.. Dane i informacje zgromadzone w ewidencji udostępnia się:
 
 - **1)** podmiotom uprawnionym do kontroli na podstawie art. 89 ust. 1 pkt 1–4 i 6 ustawy o transporcie drogowym;
 - **2)** podmiotowi wydającemu karty;
@@ -503,7 +527,7 @@ Art. 58–62.
 
 7. Okres przechowywania danych osobowych, o których mowa w ust. 2, ustala Prezes GUM zgodnie z celami ich przetwarzania, o ile nie wynikają one z przepisów odrębnych.
 
-#### Rozdział 4 Technik warsztatu
+#### Rozdział 4
 
 **Art. 28.**
 
@@ -578,7 +602,7 @@ Art. 58–62.
 - **1)** szczegółowy zakres i tryb przeprowadzania egzaminu z zakresu sprawdzania i przeglądów tachografów analogowych lub cyfrowych,
 - **2)** szczegółowy tryb działania komisji egzaminacyjnej,
 - **3)** wysokość wynagrodzenia przewodniczącego i członków komisji egzaminacyjnej,
-- **4)** wzór zaświadczenia potwierdzającego złożenie egzaminu z wynikiem pozytywnym kierując się potrzebą zapewnienia kompetencji techników warsztatu do wykonywania czynności w zakresie sprawdzania i przeglądów tachografów, właściwej organizacji egzaminu, rodzajem wykonywanych czynności i nakładem pracy przewodniczącego i członków komisji egzaminacyjnej oraz koniecznością zapewnienia jednolitości i przejrzystości zaświadczeń.
+- **4)** wzór zaświadczenia potwierdzającego złożenie egzaminu z wynikiem pozytywnym – kierując się potrzebą zapewnienia kompetencji techników warsztatu do wykonywania czynności w zakresie sprawdzania i przeglądów tachografów, właściwej organizacji egzaminu, rodzajem wykonywanych czynności i nakładem pracy przewodniczącego i członków komisji egzaminacyjnej oraz koniecznością zapewnienia jednolitości i przejrzystości zaświadczeń.
 
 **Art. 31.** Technik warsztatu składa i przekazuje do Prezesa GUM oświadczenia, o których mowa w art. 28 ust. 3 pkt 1 i 2:
 
@@ -698,9 +722,9 @@ Art. 58–62.
 - **1)** szczegółowe wymagania dotyczące wyposażenia dydaktycznego, jakie powinien posiadać podmiot szkolący,
 - **2)** szczegółowe wymagania dotyczące wiedzy teoretycznej i doświadczenia praktycznego wykładowcy prowadzącego podstawowe szkolenia i okresowe szkolenia,
 - **3)** szczegółowe programy i warunki techniczno-organizacyjne podstawowych szkoleń i okresowych szkoleń,
-- **4)** wzór zaświadczenia o ukończeniu podstawowych szkoleń i okresowych szkoleń kierując się koniecznością podniesienia kompetencji i rzetelności techników warsztatu, wykrywania podrabiania lub przerabiania danych rejestrowanych przez tachograf, potrzebą zmniejszenia ryzyka popełniania błędów przez techników warsztatu, potrzebą zapewnienia wysokiego poziomu merytorycznego prowadzonego podstawowego szkolenia i okresowego szkolenia, należytej ochrony dokumentacji, jednolitości i przejrzystości zaświadczeń o ukończeniu tych szkoleń oraz ograniczenia kosztów rzeczowych związanych z prowadzeniem tych szkoleń.
+- **4)** wzór zaświadczenia o ukończeniu podstawowych szkoleń i okresowych szkoleń – kierując się koniecznością podniesienia kompetencji i rzetelności techników warsztatu, wykrywania podrabiania lub przerabiania danych rejestrowanych przez tachograf, potrzebą zmniejszenia ryzyka popełniania błędów przez techników warsztatu, potrzebą zapewnienia wysokiego poziomu merytorycznego prowadzonego podstawowego szkolenia i okresowego szkolenia, należytej ochrony dokumentacji, jednolitości i przejrzystości zaświadczeń o ukończeniu tych szkoleń oraz ograniczenia kosztów rzeczowych związanych z prowadzeniem tych szkoleń.
 
-#### Rozdział 5 Opłaty za czynności organów administracji miar
+#### Rozdział 5
 
 **Art. 40.**
 
@@ -749,9 +773,9 @@ Art. 58–62.
 
 - **1)** stawki godzinowej za czas pracy pracownika administracji miar,
 - **2)** opłat za czynności, o których mowa w art. 40 ust. 2 pkt 2–5 i 7,
-- **3)** opłaty za przystąpienie do egzaminu, o którym mowa w art. 29 ust. 1 mając na uwadze koszty poszczególnych czynności, charakter wykonywanych czynności, stopień skomplikowania i czas trwania przeprowadzanych czynności.
+- **3)** opłaty za przystąpienie do egzaminu, o którym mowa w art. 29 ust. 1 – mając na uwadze koszty poszczególnych czynności, charakter wykonywanych czynności, stopień skomplikowania i czas trwania przeprowadzanych czynności.
 
-#### Rozdział 6 Karty do tachografów cyfrowych
+#### Rozdział 6
 
 **Art. 42.**
 
@@ -788,7 +812,7 @@ Art. 58–62.
 1. Kartę wydaje się na wniosek:
 
 - **1)** w przypadku karty kierowcy – kierowcy;
-- **2)** w przypadku karty przedsiębiorstwa: podmiotu wykonującego przewozy drogowe, będącego posiadaczem pojazdu objętego obowiązkiem instalacji i użytkowania tachografu cyfrowego, właściwych organów, o których mowa w art. 73 ust. 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.);
+- **2)** w przypadku karty przedsiębiorstwa: podmiotu wykonującego przewozy drogowe, będącego posiadaczem pojazdu objętego obowiązkiem instalacji i użytkowania tachografu cyfrowego, właściwych organów, o których mowa w art. 73 ust. 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720, 1723 i 2029 oraz z 2024 r. poz. 834.);
     - **a)**
     - **b)**
 
@@ -843,15 +867,13 @@ Art. 58–62.
 
 3. Do wniosku o wydanie, przedłużenie lub wymianę karty dołącza się:
 
-- **1)** w przypadku karty kierowcy: aktualną fotografię odzwierciedlającą, w sposób niebudzący uzasadnionych wątpliwości, wizerunek kierowcy, kopię prawa jazdy, jeżeli dokument ten był wydany w innym państwie niż Rzeczpospolita Polska, kopię karty kierowcy wydanej w innym państwie niż Rzeczpospolita Polska – w przypadku przedłużenia tej karty, oświadczenie kierowcy złożone pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia, że posiada swoje miejsce normalnego zamieszkania, w rozumieniu art. 26 ust. 2 rozporządzenia (UE) nr 165/2014, na terytorium Rzeczypospolitej Polskiej, w przypadku, o którym mowa w art. 26 ust. 1 rozporządzenia (UE) nr 165/2014, oświadczenie kierowcy złożone pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia, że posiada ważne prawo jazdy, w przypadku, w którym nie ma obowiązku dołączania kopii prawa jazdy; (uchylona)
+- **1)** w przypadku karty kierowcy: aktualną fotografię odzwierciedlającą, w sposób niebudzący uzasadnionych wątpliwości, wizerunek kierowcy, kopię prawa jazdy, jeżeli dokument ten był wydany w innym państwie niż Rzeczpospolita Polska, kopię karty kierowcy wydanej w innym państwie niż Rzeczpospolita Polska – w przypadku przedłużenia tej karty, oświadczenie kierowcy złożone pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia, że posiada swoje miejsce normalnego zamieszkania, w rozumieniu art. 26 ust. 2 rozporządzenia (UE) nr 165/2014, na terytorium Rzeczypospolitej Polskiej, w przypadku, o którym mowa w art. 26 ust. 1 rozporządzenia (UE) nr 165/2014, oświadczenie kierowcy złożone pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia, że posiada ważne prawo jazdy, w przypadku, w którym nie ma obowiązku dołączania kopii prawa jazdy; (uchylona)Przez art. 44 pkt 2 lit. a ustawy, o której mowa w odnośniku 6. 1aDodany przez art. 44 pkt 2 lit. b ustawy, o której mowa w odnośniku 6.) w przypadku czasowej i nieodnawialnej karty kierowcy, o której mowa w art. 26 ust. 4 rozporządzenia (UE) nr 165/2014: oświadczenie podmiotu wykonującego przewozy drogowe mającego siedzibę na terytorium Rzeczypospolitej Polskiej złożone pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia, potwierdzające spełnienie wymagania istnienia stosunku pracy z kierowcą, kopię świadectwa kierowcy, o którym mowa w art. 32a ustawy o transporcie drogowym, o ile do wykonywanych przez podmiot przewozów drogowych ma zastosowanie rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1072/2009 z dnia 21 października 2009 r. dotyczące wspólnych zasad dostępu do rynku międzynarodowych przewozów drogowych (Dz. Urz. UE L 300 z 14.11.2009, str. 72, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 112 z 24.04.2012, str. 6, Dz. Urz. UE L 178 z 10.07.2012, str. 5, Dz. Urz. UE L 158 z 10.06.2013, str. 1 oraz Dz. Urz. UE L 249 z 31.07.2020, str. 17.);
     - **a)**
     - **b)**
     - **c)**
     - **d)**
     - **e)**
     - **f)**
-
-- **1a)** w przypadku czasowej i nieodnawialnej karty kierowcy, o której mowa w art. 26 ust. 4 rozporządzenia (UE) nr 165/2014: oświadczenie podmiotu wykonującego przewozy drogowe mającego siedzibę na terytorium Rzeczypospolitej Polskiej złożone pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia, potwierdzające spełnienie wymagania istnienia stosunku pracy z kierowcą, kopię świadectwa kierowcy, o którym mowa w art. 32a ustawy o transporcie drogowym, o ile do wykonywanych przez podmiot przewozów drogowych ma zastosowanie rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1072/2009 z dnia 21 października 2009 r. dotyczące wspólnych zasad dostępu do rynku międzynarodowych przewozów drogowych (Dz. Urz. UE L 300 z 14.11.2009, str. 72, z późn. zm.);
     - **a)**
     - **b)**
 
@@ -934,12 +956,12 @@ Art. 58–62.
 3. Podmiot wydający karty po otrzymaniu informacji o:
 
 - **1)** cofnięciu, czasowym cofnięciu albo wygaśnięciu zezwolenia,
-- **2)** cofnięciu certyfikatu technika warsztatu umieszcza w ewidencji kart informację o unieważnieniu tej karty i wzywa podmiot posiadający zezwolenie do jej zwrotu w terminie 14 dni od dnia doręczenia wezwania. W przypadku gdy karta nie została zwrócona w wyznaczonym terminie, stosuje się przepisy o postępowaniu egzekucyjnym w administracji dotyczące obowiązków o charakterze niepieniężnym.
+- **2)** cofnięciu certyfikatu technika warsztatu – umieszcza w ewidencji kart informację o unieważnieniu tej karty i wzywa podmiot posiadający zezwolenie do jej zwrotu w terminie 14 dni od dnia doręczenia wezwania. W przypadku gdy karta nie została zwrócona w wyznaczonym terminie, stosuje się przepisy o postępowaniu egzekucyjnym w administracji dotyczące obowiązków o charakterze niepieniężnym.
 
 4. Podmiot wydający karty po otrzymaniu informacji o:
 
 - **1)** zawieszeniu prowadzenia działalności przez podmiot posiadający zezwolenie,
-- **2)** zawieszeniu certyfikatu technika warsztatu umieszcza w ewidencji kart informację o zawieszeniu karty warsztatowej.
+- **2)** zawieszeniu certyfikatu technika warsztatu – umieszcza w ewidencji kart informację o zawieszeniu karty warsztatowej.
 
 5. Podmiot wydający karty, po wymianie karty kierowcy z powodu zmiany danych zawartych w karcie, umieszcza w ewidencji kart informację o unieważnieniu karty podlegającej wymianie w terminie, w którym uzyskuje ważność nowo wydana karta, nie dłuższym niż 30 dni od dnia jej wydania.
 
@@ -962,14 +984,14 @@ Art. 58–62.
 
 3. Podmiot, o którym mowa w ust. 1, zapewnia zabezpieczenie danych, o których mowa w ust. 2, przed ich utratą oraz dostępem osób nieuprawnionych, a także zapewnia takie przechowywanie danych, aby były one czytelne i uporządkowane. Przetwarzanie danych osobowych w zakresie realizacji rozporządzenia (UE) nr 165/2014 odbywa się wyłącznie do celów kontroli oraz w zakresie i w sposób określony w art. 7 ust. 1 i 2 tego rozporządzenia.
 
-#### Rozdział 7 Przepisy karne oraz przepisy o karach pieniężnych
+#### Rozdział 7
 
 **Art. 50.** Kto, wbrew art. 25, produkuje, dystrybuuje, reklamuje, sprzedaje lub w inny sposób udostępnia urządzenia, przedmioty lub oprogramowanie wykonane lub przeznaczone do celów podrabiania lub przerabiania danych rejestrowanych przez tachograf – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 **Art. 51.** Kto:
 
 - **1)** wbrew art. 4 ust. 1 wprowadza do obrotu lub użytkowania tachograf lub element składowy tachografu bez świadectwa homologacji typu,
-- **2)** wbrew art. 10 ust. 1 prowadzi działalność w zakresie instalacji, sprawdzania, przeglądów lub napraw tachografów bez zezwolenia podlega karze pieniężnej w wysokości od 10 000 do 20 000 zł.
+- **2)** wbrew art. 10 ust. 1 prowadzi działalność w zakresie instalacji, sprawdzania, przeglądów lub napraw tachografów bez zezwolenia – podlega karze pieniężnej w wysokości od 10 000 do 20 000 zł.
 
 **Art. 52.** Producent, który, wbrew art. 7, nie bada i nie sprawdza zgodnie z art. 20 ust. 1 rozporządzenia (UE) nr 165/2014 wprowadzonych do produkcji przyrządów rejestrujących, czujników ruchu i kart do tachografu, co najmniej raz na 2 lata – podlega karze pieniężnej w wysokości od 2500 do 5000 zł.
 
@@ -981,7 +1003,7 @@ Art. 58–62.
 - **2)** wbrew art. 18 ust. 1 pkt 2 bez zachowania należytej staranności dopuścił do użytkowania nieprawidłowo działający tachograf,
 - **3)** wbrew art. 18 ust. 3 pkt 1 udostępnił kartę warsztatową osobie nieuprawnionej lub używał karty warsztatowej bez udokumentowania faktu jej użycia,
 - **4)** wbrew art. 18 ust. 3 pkt 5 używał karty warsztatowej niezgodnie z zakresem zezwolenia lub poza miejscem prowadzenia działalności określonym w tym zezwoleniu, z wyjątkiem przypadku, o którym mowa w art. 18 ust. 6,
-- **5)** wbrew art. 47 ust. 2 pkt 1 nie zawiadomił podmiotu wydającego karty o utracie lub uszkodzeniu karty warsztatowej podlega karze pieniężnej w wysokości od 2500 do 5000 zł.
+- **5)** wbrew art. 47 ust. 2 pkt 1 nie zawiadomił podmiotu wydającego karty o utracie lub uszkodzeniu karty warsztatowej – podlega karze pieniężnej w wysokości od 2500 do 5000 zł.
 
 **Art. 55.** Podmiot posiadający zezwolenie, który:
 
@@ -1011,7 +1033,7 @@ Art. 58–62.
     - **a)**
     - **b)**
 
-- **17)** wbrew art. 18 ust. 7 pkt 2: nie przechowuje protokołu przeglądu przez okres 4 lat od dnia jego sporządzenia, nie udostępnia protokołu przeglądu na żądanie Prezesa GUM lub podmiotów uprawnionych do kontroli na podstawie art. 89 ust. 1 pkt 1–4 i 6 ustawy o transporcie drogowym podlega karze pieniężnej w wysokości od 1000 do 2000 zł.
+- **17)** wbrew art. 18 ust. 7 pkt 2: nie przechowuje protokołu przeglądu przez okres 4 lat od dnia jego sporządzenia, nie udostępnia protokołu przeglądu na żądanie Prezesa GUM lub podmiotów uprawnionych do kontroli na podstawie art. 89 ust. 1 pkt 1–4 i 6 ustawy o transporcie drogowym – podlega karze pieniężnej w wysokości od 1000 do 2000 zł.
     - **a)**
     - **b)**
 
@@ -1029,13 +1051,13 @@ Art. 58–62.
 - **2)** wbrew art. 29 ust. 3 rozporządzenia (UE) nr 165/2014 nie zgłosił faktu utraty karty właściwym organom, o których mowa w tym artykule,
 - **3)** wbrew art. 47 ust. 2 pkt 1 nie zgłosił faktu uszkodzenia karty do podmiotu wydającego karty,
 - **4)** wbrew art. 47 ust. 2 pkt 2 lit. a nie zwrócił uszkodzonej karty do podmiotu wydającego karty,
-- **5)** wbrew art. 47 ust. 2 pkt 2 lit. c nie zwrócił wymienionej karty do podmiotu wydającego karty podlega karze grzywny w wysokości do 500 zł.
+- **5)** wbrew art. 47 ust. 2 pkt 2 lit. c nie zwrócił wymienionej karty do podmiotu wydającego karty – podlega karze grzywny w wysokości do 500 zł.
 
 2. Orzekanie w sprawach o czyny, o których mowa w ust. 1, następuje na zasadach i w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963). Grzywny, o których mowa w art. 57, pobierane przez organy Inspekcji Transportu Drogowego stanowią wpływy Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2024 r. poz. 402).
 
-#### Rozdział 8 Zmiany w przepisach obowiązujących
+#### Rozdział 8
 
-#### Rozdział 9 Przepisy przejściowe i końcowe
+#### Rozdział 9
 
 **Art. 63.**
 
@@ -1052,14 +1074,14 @@ Art. 58–62.
 - **3)** zatwierdzenia typu urządzenia rejestrującego stosowanego w transporcie drogowym – tachografu samochodowego lub wykresówki do urządzeń rejestrujących stosowanych w transporcie drogowym – tachografów samochodowych,
 - **4)** zezwolenia na prowadzenie warsztatu w zakresie instalacji, w tym aktywacji, napraw lub sprawdzania tachografów cyfrowych, w tym ich kalibracji,
 - **5)** zezwolenia na wykonywanie działalności gospodarczej w zakresie instalacji lub napraw oraz sprawdzania pod względem zgodności z wymaganiami okresowo, przed i po zainstalowaniu oraz po naprawie określonych rodzajów przyrządów pomiarowych,
-- **6)** zaświadczenia o posiadaniu uprawnienia do wykonywania czynności technika warsztatu wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+- **6)** zaświadczenia o posiadaniu uprawnienia do wykonywania czynności technika warsztatu – wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-2. W sprawach opłat za czynności organów administracji miar pobieranych na podstawie art. 24 ust. 2 pkt 1, 5 i 8 ustawy zmienianej w art. 59 oraz art. 17 ust. 2 ustawy, o której mowa w art. 62, nieuiszczonych do dnia wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+2. W sprawach opłat za czynności organów administracji miar pobieranych na podstawie art. 24 ust. 2 pkt 1, 5 i 8 ustawy zmienianej w art. 59Artykuł 59 zawiera zmiany do ustawy z dnia 11 maja 2001 r. – Prawo o miarach. oraz art. 17 ust. 2 ustawy, o której mowa w art. 62Artykuł 62 zawiera zmiany do ustawy z dnia 29 lipca 2005 r. o systemie tachografów cyfrowych., nieuiszczonych do dnia wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 65.** Do postępowań w sprawach o cofnięcie:
 
 - **1)** zezwolenia na prowadzenie warsztatu w zakresie instalacji, w tym aktywacji, napraw lub sprawdzania tachografów cyfrowych,
-- **2)** zezwolenia na wykonywanie działalności gospodarczej w zakresie instalacji lub napraw oraz sprawdzania pod względem zgodności z wymaganiami okresowo, przed i po zainstalowaniu oraz po naprawie określonych rodzajów przyrządów pomiarowych wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy niniejszej ustawy.
+- **2)** zezwolenia na wykonywanie działalności gospodarczej w zakresie instalacji lub napraw oraz sprawdzania pod względem zgodności z wymaganiami okresowo, przed i po zainstalowaniu oraz po naprawie określonych rodzajów przyrządów pomiarowych – wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy niniejszej ustawy.
 
 **Art. 66.**
 
@@ -1096,11 +1118,11 @@ Art. 58–62.
 
 **Art. 69.**
 
-1. Uprawnienia technika warsztatu nabyte na podstawie ustawy, o której mowa w art. 62, zachowują ważność pod warunkiem, że osoba posiadająca te uprawnienia nie była skazana prawomocnie za przestępstwa, o których mowa w art. 11 ust. 2 pkt 3 lit. a, oraz nie jest podmiotem, o którym mowa w art. 11 ust. 2 pkt 3 lit. b.
+1. Uprawnienia technika warsztatu nabyte na podstawie ustawy, o której mowa w art. 62Artykuł 62 zawiera zmiany do ustawy z dnia 29 lipca 2005 r. o systemie tachografów cyfrowych., zachowują ważność pod warunkiem, że osoba posiadająca te uprawnienia nie była skazana prawomocnie za przestępstwa, o których mowa w art. 11 ust. 2 pkt 3 lit. a, oraz nie jest podmiotem, o którym mowa w art. 11 ust. 2 pkt 3 lit. b.
 
 2. Przez okres 2 lat od dnia wejścia w życie niniejszej ustawy technik warsztatu posiadający uprawnienia, o których mowa w ust. 1, może wykonywać czynności, o których mowa w art. 28 ust. 1, w zakresie tachografów cyfrowych.
 
-3. Dokumentem potwierdzającym prawo wykonywania czynności na podstawie ust. 2 jest zaświadczenie wydane przez Prezesa GUM na podstawie ustawy, o której mowa w art. 62, ważne w dniu wejścia w życie niniejszej ustawy.
+3. Dokumentem potwierdzającym prawo wykonywania czynności na podstawie ust. 2 jest zaświadczenie wydane przez Prezesa GUM na podstawie ustawy, o której mowa w art. 62Artykuł 62 zawiera zmiany do ustawy z dnia 29 lipca 2005 r. o systemie tachografów cyfrowych., ważne w dniu wejścia w życie niniejszej ustawy.
 
 4. W okresie, o którym mowa w ust. 2, technik warsztatu posiadający uprawnienia, o których mowa w ust. 1, może wystąpić z wnioskiem o wydanie certyfikatu technika warsztatu w zakresie tachografów cyfrowych.
 
@@ -1110,11 +1132,11 @@ Art. 58–62.
 
 **Art. 70.**
 
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 89 ust. 5 ustawy zmienianej w art. 60 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 89 ust. 5 ustawy zmienianej w art. 60, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 89 ust. 5 ustawy zmienianej w art. 60Artykuł 60 zawiera zmiany do ustawy z dnia 6 września 2001 r. o transporcie drogowym. zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 89 ust. 5 ustawy zmienianej w art. 60Artykuł 60 zawiera zmiany do ustawy z dnia 6 września 2001 r. o transporcie drogowym., w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 24a ust. 4 ustawy zmienianej w art. 59 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 24a ust. 4 ustawy zmienianej w art. 59, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 24a ust. 4 ustawy zmienianej w art. 59Artykuł 59 zawiera zmiany do ustawy z dnia 11 maja 2001 r. – Prawo o miarach. zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 24a ust. 4 ustawy zmienianej w art. 59Artykuł 59 zawiera zmiany do ustawy z dnia 11 maja 2001 r. – Prawo o miarach., w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-3. Przepisy wykonawcze wydane na podstawie art. 8 ust. 6 ustawy zmienianej w art. 59 zachowują moc i mogą być zmieniane odpowiednio na podstawie tych przepisów.
+3. Przepisy wykonawcze wydane na podstawie art. 8 ust. 6 ustawy zmienianej w art. 59Artykuł 59 zawiera zmiany do ustawy z dnia 11 maja 2001 r. – Prawo o miarach. zachowują moc i mogą być zmieniane odpowiednio na podstawie tych przepisów.
 
 **Art. 71.** Do dnia 31 grudnia 2018 r.:
 
@@ -1133,9 +1155,9 @@ Art. 58–62.
 - **3)** roku – w przypadku karty warsztatowej;
 - **4)** 5 lat, nie dłuższy niż wskazany we wniosku o kartę – w przypadku karty kontrolnej.
 
-**Art. 73.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+**Art. 73.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 3 sierpnia 2018 r., z wyjątkiem:
 
 - **1)** art. 10–24, art. 27–34, art. 40, art. 41, art. 51 pkt 2, art. 53–55, art. 59, art. 64 ust. 1 pkt 4–6 i ust. 2 oraz art. 65–69, które wchodzą w życie z dniem 1 stycznia 2019 r.;
-- **2)** art. 62 pkt 2, który chodzi w życie z dniem 31 grudnia 2018 r.
+- **2)** art. 62 pkt 2, który chodzi w życie z dniem 31 grudnia 2018 r. 1) Niniejsza ustawa w zakresie swojej regulacji służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 165/2014 z dnia 4 lutego 2014 r. w sprawie tachografów stosowanych w transporcie drogowym i uchylającego rozporządzenie Rady (EWG) nr 3821/85 w sprawie urządzeń rejestrujących stosowanych w transporcie drogowym oraz zmieniającego rozporządzenie (WE) nr 561/2006 Parlamentu Europejskiego i Rady w sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego (Dz. Urz. UE L 60 z 28.02.2014, str. 1). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. WE L 318 z 17.11.1990, str. 20, Dz. Urz. WE L 353 z 17.12.1990, str. 12, Dz. Urz. WE L 374 z 22.12.1992, str. 12, Dz. Urz. WE L 256 z 26.10.1995, str. 8, Dz. Urz. WE L 154 z 12.06.1997, str. 21, Dz. Urz. WE L 274 z 09.10.1998, str. 1, Dz. Urz. WE L 207 z 05.08.2002, str. 1, Dz. Urz. WE L 236 z 23.09.2003, str. 33, Dz. Urz. WE L 284 z 31.10.2003, str. 1, Dz. Urz. UE L 71 z 10.03.2004, str. 3, Dz. Urz. UE L 102 z 11.04.2006, str. 1, Dz. Urz. UE L 363 z 20.12.2006, str. 1, Dz. Urz. UE L 21 z 24.01.2009, str. 3, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 339 z 22.12.2009, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 311 z 31.10.2014, str. 19 oraz Dz. Urz. UE L 25 z 02.02.2016, str. 46. 3) Zgodnie z art. 1 ust. 3 rozporządzenia wykonawczego Komisji (UE) 2016/799 z dnia 18 marca 2016 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 165/2014 ustanawiającego wymogi dotyczące budowy, sprawdzania, instalacji, użytkowania i naprawy tachografów oraz ich elementów składowych (Dz. Urz. UE L 139 z 26.05.2016, str. 1, z późn. zm.) tachografy inne niż tachografy inteligentne muszą nadal spełniać, jeśli chodzi o ich budowę, sprawdzanie, instalację, kontrolę, użytkowanie i naprawę, wymogi zawarte w załączniku 1 do rozporządzenia (UE) nr 165/2014 albo w załączniku 1B do rozporządzenia Rady (EWG) nr 3821/85 z dnia 20 grudnia 1985 r. w sprawie urządzeń rejestrujących stosowanych w transporcie drogowym (Dz. Urz. WE L 370 z 31.12.1985, str. 8, z późn. zm.), stosownie do przypadku. 4) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 223 z 26.08.2009, str. 31, Dz. Urz. UE L 314 z 29.11.2011, str. 31, Dz. Urz. UE L 321 z 20.11.2012, str. 54, Dz. Urz. UE L 158 z 10.06.2013, str. 356, Dz. Urz. UE L 261 z 03.10.2013, str. 29, Dz. Urz. UE L 194 z 02.07.2014, str. 10, Dz. Urz. UE L 107 z 25.04.2015, str. 68, Dz. Urz. UE L 126 z 14.05.2016, str. 85 oraz Dz. Urz. UE L 183 z 08.07.2016, str. 159. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858. 6) W brzmieniu ustalonym przez art. 44 pkt 1 ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523), która weszła w życie z dniem 19 sierpnia 2023 r. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720, 1723 i 2029 oraz z 2024 r. poz. 834. 8) Przez art. 44 pkt 2 lit. a ustawy, o której mowa w odnośniku 6. 9) Dodany przez art. 44 pkt 2 lit. b ustawy, o której mowa w odnośniku 6. 10) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 112 z 24.04.2012, str. 6, Dz. Urz. UE L 178 z 10.07.2012, str. 5, Dz. Urz. UE L 158 z 10.06.2013, str. 1 oraz Dz. Urz. UE L 249 z 31.07.2020, str. 17. 11) Artykuł 59 zawiera zmiany do ustawy z dnia 11 maja 2001 r. – Prawo o miarach. 12) Artykuł 62 zawiera zmiany do ustawy z dnia 29 lipca 2005 r. o systemie tachografów cyfrowych. 13) Artykuł 60 zawiera zmiany do ustawy z dnia 6 września 2001 r. o transporcie drogowym. 14) Ustawa została ogłoszona w dniu 3 sierpnia 2018 r.
 
 

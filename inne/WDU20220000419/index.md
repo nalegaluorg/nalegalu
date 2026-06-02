@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 15 lutego 2022 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego
+# Rozporządzenie Ministra Zdrowiaz dnia 15 lutego 2022 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,29 +22,183 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-02-15 |
 | Data wydania | 2022-02-18 |
-| Wejście w życie | 2022-02-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000419) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/419/text.pdf) |
 
 Treść rozporządzenia
 Załącznik –
 Treść rozporządzenia
-Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64 i 91.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 22 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego (Dz. U. z 2021 r. poz. 290, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Ministra Zdrowia z dnia 22 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego (Dz. U. z 2021 r. poz. 290, z późn. zm.Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2021 r. poz. 542, 638, 1429, 1764 i 2482 oraz z 2022 r. poz. 245.) wprowadza się następujące zmiany:
 1)
 w załączniku nr 1 do rozporządzenia w części II „Świadczenia scharakteryzowane rozpoznaniami”:
 a)
-po poz. C39.9 dodaje się poz. C40 w brzmieniu: C40 Nowotwór złośliwy kości i chrząstki stawowej kończyn
+po poz. C39.9 dodaje się poz. C40 w brzmieniu:
+C40 Nowotwór złośliwy kości i chrząstki stawowej kończyn
 b)
-po poz. C40.9 dodaje się poz. C41 w brzmieniu: C41 Nowotwór złośliwy kości i chrząstki stawowej o innym nieokreślonym umiejscowieniu
+po poz. C40.9 dodaje się poz. C41 w brzmieniu:
+C41 Nowotwór złośliwy kości i chrząstki stawowej o innym nieokreślonym umiejscowieniu
 2)
 w załączniku nr 4 do rozporządzenia po lp. 58 dodaje się lp. 59 i 60 w brzmieniu określonym w załączniku do niniejszego rozporządzenia.
 § 2.
 Świadczeniodawcy, którzy zamierzają realizować świadczenie gwarantowane „Leczenie rekonstrukcyjne z wykorzystaniem endoprotez onkologicznych u pacjentów do ukończenia 18. roku życia”, niespełniający w dniu wejścia w życie niniejszego rozporządzenia wymagań określonych w lp. 59 załącznika nr 4 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w części „Personel”, w kolumnie 4 w ust. 1 pkt 1 lit. a i b oraz ust. 2 pkt 1, w zakresie dotyczącym potwierdzenia doświadczenia przez konsultantów wojewódzkich w odpowiednich dziedzinach medycyny – są obowiązani dostosować się do tych wymagań w terminie do dnia 1 kwietnia 2022 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2022 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64 i 91. 3) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2021 r. poz. 542, 638, 1429, 1764 i 2482 oraz z 2022 r. poz. 245.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2022 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64 i 91. 3) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2021 r. poz. 542, 638, 1429, 1764 i 2482 oraz z 2022 r. poz. 245.
 Załącznik –
-59 Leczenie rekonstrukcyjne z wykorzystaniem endoprotez onkologicznych u pacjentów do ukończenia 18. roku życia Wymagania formalne 1) oddział szpitalny o profilu: chirurgia onkologiczna dla dzieci lub chirurgia urazowo-ortopedyczna dla dzieci, lub ortopedia i traumatologia narządu ruchu dla dzieci;2) blok operacyjny. Kryteria włączenia Świadczenie jest udzielane pacjentom do ukończenia 18. roku życia:1) z rozpoznaniem pierwotnym nowotworu kości (potwierdzonym badaniem histopatologicznym) według ICD-10: a) C40 Nowotwór złośliwy kości i chrząstki stawowej kończyn albob) C41 Nowotwór złośliwy kości i chrząstki stawowej o innym nieokreślonym umiejscowieniu;2) z co najmniej częściową remisją choroby nowotworowej. Kryteria wyłączenia 1) brak postępu leczeniu neoadjuwantowego przed planowanym leczeniem operacyjnym;2) brak możliwości radykalnego usunięcia guza. Zakres świadczenia Świadczenie w zależności od stanu klinicznego obejmuje:1) pełną diagnostykę radiologiczną;2) histopatologiczną ocenę śródoperacyjną;3) diagnostykę histopatologiczną i molekularną;4) chemioterapię przed- i pooperacyjną;5) znieczulenie do zabiegu;6) radykalne wycięcie nowotworu (potwierdzone badaniem histopatologicznym śródoperacyjnym) wraz z jednoczesnym uzupełnieniem dużego ubytku kości z wykorzystaniem endoprotezy dostosowanej do indywidualnych potrzeb pacjenta: a) endoprotezy resekcyjne rosnące, b) endoprotezy modularne (miednica, kość udowa, kolana), c) endoprotezy tzw. custom made, d) endoprotezy drukowane 3D;7) opiekę przed- i pooperacyjną;8) intensywną terapię; 9) leczenie bólu;10) leczenie powikłań;11) radioterapię w ramach ustalonego planu leczenia;12) wymianę endoprotezy (w przypadku planowanej konwersji endoprotezy lub wystąpienia powikłań);13) procedurę wydłużania endoprotez rosnących;14) rehabilitację leczniczą;15) poradę psychologa. Personel 1. Opiekę przed- i pooperacyjną zapewniają:1) lekarze specjaliści w dziedzinie: a) chirurgii onkologicznej oraz ortopedii i traumatologii narządu ruchu, z udokumentowanym doświadczeniem w przeprowadzaniu zabiegów onkologicznych w zakresie guzów kości u dzieci, lub zabiegów ortopedycznych u dzieci, potwierdzonym przez konsultanta wojewódzkiego w dziedzinie chirurgii onkologicznej lub ortopedii i traumatologii narządu ruchu, b) patomorfologii z udokumentowanym co najmniej 10-letnim doświadczeniem w ocenie mięsaków kości i tkanek miękkich, potwierdzonym przez konsultanta wojewódzkiego w dziedzinie patomorfologii, c) onkologii i hematologii dziecięcej, d) onkologii klinicznej;2) pielęgniarki – w wymiarze zgodnym z profilem komórki organizacyjnej, w tym równoważnik co najmniej 2 etatów specjalisty w dziedzinie pielęgniarstwa chirurgicznego lub onkologicznego;3) pozostały personel – zapewnienie udziału w zespole leczniczym: a) lekarza specjalisty w dziedzinie radioterapii, b) lekarza specjalisty w dziedzinie rehabilitacji medycznej lub fizjoterapeuty, c) psychologa lub psychoonkologa, d) osoby planującej dietę.2. W trakcie zabiegu:1) co najmniej dwóch lekarzy operatorów z udokumentowanym doświadczeniem w przeprowadzeniu zabiegów onkologicznych w zakresie guzów kości u dzieci, w tym co najmniej jeden lekarz specjalista w dziedzinie ortopedii i traumatologii narządu ruchu z doświadczeniem w chirurgii rekonstrukcyjnej układu ruchu u dzieci w okresie ostatnich 5 lat oraz w leczeniu pierwotnych nowotworów złośliwych kości u dzieci w okresie ostatnich 5 lat (uczestnik jako operator lub asysta w co najmniej 30 pierwotnych resekcjach z powodów złośliwych guzów kości u dzieci, w tym w resekcjach oszczędzających kończynę, z adekwatną rekonstrukcją ubytku poresekcyjnego), potwierdzonym przez konsultanta wojewódzkiego w dziedzinie ortopedii i traumatologii narządu ruchu;2) lekarz specjalista w anestezjologii i intensywnej terapii;3) pielęgniarka specjalista w dziedzinie pielęgniarstwa anestezjologicznego i intensywnej opieki lub pielęgniarka po kursie kwalifikacyjnym w dziedzinie pielęgniarstwa anestezjologicznego i intensywnej opieki, lub pielęgniarka w trakcie specjalizacji w dziedzinie pielęgniarstwa anestezjologicznego i intensywnej opieki;4) pielęgniarka specjalista w dziedzinie pielęgniarstwa operacyjnego lub pielęgniarka po kursie kwalifikacyjnym w dziedzinie pielęgniarstwa operacyjnego, lub będąca w trakcie tych szkoleń, lub pielęgniarka z co najmniej rocznym doświadczeniem w instrumentowaniu do zabiegów ortopedycznych. Wyposażenie w sprzęt i aparaturę medyczną 1) w miejscu udzielania świadczeń: a) diatermia, b) ramię C, c) piła oscylacyjna, d) dostęp do zasobów radiologicznych w obrębie sali operacyjnej, e) dostęp w trakcie zabiegu operacyjnego do pełnego asortymentu elementów rekonstrukcyjnych, f) pompy infuzyjne przepływowe i strzykawkowe, g) kardiomonitor, h) pompa do podawania leków zewnątrzoponowo, i) łóżka rehabilitacyjno-ortopedyczne z pozycją Trendelenburga i anty-Trendelenburga z materacami przeciwodleżynowymi, j) sprzęt do rehabilitacji: szyna CPM na różne stawy (skokowy, kolanowy, barkowy), platformy balansowe, G-walk, taśmy kinesiotyping, zaopatrzenie ortopedyczne (balkoniki, kule łokciowe, ortezy na stawy);2) w lokalizacji: a) przewoźny aparat do USG, b) USG dedykowane do kaniulacji naczyń, c) przewoźny aparat do RTG, d) piła dedykowana do cięcia kości, e) zestawy do śródoperacyjnej oceny patomorfologicznej (m.in. kriostat, sprzęt do szybkiego barwienia), f) mikroskop o powiększeniu xl0, x40, xl00, g) aparat EKG, h) echokardiograf, i) respirator, j) aparat do terapii nerkozastępczej, k) sprzęt do rehabilitacji: bieżnia, rowerek, lustro do kontroli posturalnej, waga mechaniczna do nauki obciążania kończyn dolnych i Uniwersalny Gabinet Usprawniania Leczniczego. Pozostałe wymagania 1) w lokalizacji – OAiIT;2) w lokalizacji lub w dostępie: a) oddział onkologii i hematologii dziecięcej lub onkologiczny dla dzieci, lub hematologiczny dla dzieci, b) zakład diagnostyki obrazowej z możliwością wykonania: USG lub USG Doppler, RTG, TK, MR1, c) pracownia lub zakład diagnostyki laboratoryjnej, d) pracownia patomorfologii z możliwością wykonania badania śródoperacyjnego, e) poradnia chirurgii onkologicznej dla dzieci lub chirurgii urazowo-ortopedycznej dla dzieci, f) poradnia onkologii i hematologii dziecięcej lub onkologiczna dla dzieci, lub hematologiczna dla dzieci, g) poradnia chirurgii onkologicznej, h) poradnia onkologiczna, i) poradnia psychologiczna, j) poradnia leczenia bólu;3) dostęp do świadczeń w zakresie: a) diagnostyki genetycznej i molekularnej, b) medycyny nuklearnej, w tym PET oraz scyntygrafii kości, c) radiologii inwazyjnej – zabiegi embolizacji lub ablacji, d) radioterapii. Organizacja udzielania świadczeń 1. Do świadczenia kwalifikuje wielodyscyplinarny zespół, w skład którego wchodzą: a) lekarz specjalista w dziedzinie chirurgii onkologicznej, b) lekarz specjalista w dziedzinie ortopedii i traumatologii narządu ruchu, c) lekarz specjalista w dziedzinie onkologii i hematologii dziecięcej, d) lekarz specjalista w dziedzinie radiologii, e) lekarz specjalista w dziedzinie patomorfologii, f) lekarz specjalista w dziedzinie anestezjologii i intensywnej terapii, g) psycholog lub psychoonkolog.2. Ośrodek realizujący świadczenie posiada doświadczenie w zakresie operacyjnego leczenia onkologicznych pierwotnych nowotworów złośliwych kości u dzieci. 3. Ośrodek realizujący świadczenie zapewnia możliwość postępowania z wykorzystaniem leczenia chirurgicznego, leczenia systemowego oraz świadczeń w zakresie radioterapii.4. Ośrodek realizujący świadczenie zapewnienia konsultacje wielospecjalistyczne, konieczne w procesie opieki nad pacjentem.5. Ośrodek realizujący świadczenie posiada sformalizowane procedury postępowania w przypadku powikłań septycznych, profilaktyki żylnej choroby zakrzepowo-zatorowej, profilaktyki antybiotykowej, leczenia przeciwbólowego oraz usprawniania pooperacyjnego.6. Ośrodek realizujący świadczenie zapewnienia koordynację rehabilitacji leczniczej, wymaganej stanem świadczeniobiorcy, po zakończonym leczeniu szpitalnym – w ramach własnej działalności świadczeniodawcy lub umowy z podmiotem leczniczym udzielającym świadczeń w zakresie rehabilitacji leczniczej.7. Ośrodek realizujący świadczenie zapewnienia kontynuację leczenia i opieki zgodnie ze stanem klinicznym w warunkach ambulatoryjnych, w tym monitorowanie następstw ewentualnych powikłań związanych z endoprotezoplastyką, także w okresie wczesnej dorosłości (do ukończenia 24. roku życia). Kryterium jakości Warunki monitorowania efektu, oceny skuteczności i bezpieczeństwa świadczenia:1) odsetek pacjentów z zachowaniem funkcjonalności operowanej kończyny lub innej części ciała;2) odsetek reoperacji z powodu powikłań;3) odsetek powikłań wczesnych i odległych;4) odsetek wznów, w tym odsetek wznów miejscowych w okresie 3 i 6 miesięcy po zabiegu;5) współczynnik przeżycia 2- i 5-letni;6) ocena sprawności w skali MSTS (Musculoskeletal Tumor Society Scale) w okresie 3 i 6 miesięcy po zabiegu;7) skala – Harrisa dla biodra;8) skala – KOOS (Knee Injury and Osteoarthritis Outcome Study) dla kolana;9) skala oceny subiektywnej chorych – PROMS (Patient Reported Outcome Measure Scale). 60 Monitorowanie minimalnej choroby resztkowej metodą molekularną i metodą wielokolorowej cytometrii przepływowej Wymagania formalne 1) oddział szpitalny o profilu onkologia i hematologia dziecięca;2) w dostępie: a) laboratorium genetyki molekularnej – do oceny rearanżacji genetycznych w komórkach białaczkowych ALL za pomocą wystandaryzowanych metod w wykrywaniu minimalnej choroby resztkowej metodami molekularnymi, posiadające europejski Certyfikat jakości oceny choroby resztkowej EURO-MRD, lubb) laboratorium cytogenetyki i genetyki molekularnej – do oceny rearanżacji genetycznych w komórkach białaczkowych AML przy pomocy wystandaryzowanych metod w wykrywaniu minimalnej choroby resztkowej metodami molekularnymi, lub w ostrych białaczkach u dzieci c) medyczne laboratorium diagnostyczne z pracownią wielokolorowej cytometrii przepływowej, posiadające Certyfikat iBFM lub EuroFlow – do monitorowania MRD metodą cytometrii przepływowej. Kryteria włączenia Do świadczenia kwalifikują się dzieci i młodzież do ukończenia 18. roku życia, u których zdiagnozowano ostrą białaczkę (nowe rozpoznania lub wznowa) – zgodnie z następującymi rozpoznaniami:1) C91.0 Ostra białaczka limfoblastyczna (ALL) albo2) C92.0 Ostra białaczka szpikowa (AML). Personel 1) lekarz specjalista w dziedzinie onkologii i hematologii dziecięcej;2) w laboratorium cytogenetyki i biologii molekularnej: diagności laboratoryjni, co najmniej 6 etatów, w tym: a) równoważnik co najmniej 2 etatów – ze stopniem magistra z analityki medycznej lub biotechnologii lub biologii oraz udokumentowanym co najmniej 3-letnim doświadczeniem w pracy w molekularnym laboratorium genetycznym, b) równoważnik co najmniej 2 etatów – ze specjalizacją w zakresie laboratoryjnej genetyki medycznej;3) w laboratorium wielokolorowej cytometrii przepływowej: diagności laboratoryjni, równoważnik co najmniej 2 etatów, posiadający co najmniej 3-letnie doświadczenie w wykonywaniu badań cytometrycznych, w zakresie immunofenotypowej diagnostyki rozrostów hematologicznych. Wyposażenie w sprzęt i aparaturę medyczną Urządzenia techniczne umożliwiające wykonywanie badań metodami molekularnymi lub wielokolorowej cytometrii przepływowej zgodnie ze standardami EURO-MRD, iBFM lub EuroFlow i programów AML-BFM-2019 lub AIEOP-BFM ALL 2017 dla dzieci z ostrymi białaczkami. Zakres świadczenia Monitorowanie minimalnej choroby resztkowej obejmuje:1) szczegółową diagnostykę immunofenotypową ALL (badanie wstępne);2) oznaczenie MRD w ALL metodą cytometrii przepływowej – ALL-MRD-FC;3) identyfikację rearanżacji genów do monitorowania PCR MRD w ALL – ALL-MRD-PCR1;4) oznaczenie MRD metodą PCR w ALL – ALL-MRD-PCR2;5) szczegółową diagnostykę immunofenotypową AML (badanie wstępne);6) oznaczenie MRD metodą cytometrii przepływowej – AML-MRD-FC;7) diagnostykę molekularną AML;8) oznaczenie MRD metodą RT-qPCR – AML-MRD-PCR. Pozostałe wymagania Monitorowanie minimalnej choroby resztkowej w ostrych białaczkach w trakcie leczenia przeciwnowotworowego (tryb hospitalizacja):1) C91.0 Ostra białaczka limfoblastyczna (ALL): a) nowe rozpoznanie:- FC: łącznie 4 do 6 razy w trakcie leczenia przeciwnowotworowego,- PCR: (ALL-MRD-PCR1) jednorazowo oraz (ALL-MRD-PCR2) – do 6 razy w trakcie leczenia przeciwnowotworowego, b) wznowa:- FC: łącznie 4 razy w trakcie leczenia przeciwnowotworowego,- PCR: (ALL-MRD-PCR1) jednorazowo w trakcie leczenia przeciwnowotworowego oraz (ALL-MRD-PCR2) – do 5 razy w trakcie leczenia przeciwnowotworowego, c) przeszczepienie komórek krwiotwórczych:- FC: łącznie do 5 razy w trakcie leczenia przeciwnowotworowego,- PCR: tylko (ALL-MRD-PCR2) – do 4 razy w trakcie leczenia przeciwnowotworowego;2) C92.0 Ostra białaczka szpikowa (AML), poza ostrą białaczką promielocytową (APL): a) nowe rozpoznanie:- diagnoza: oznaczenie pełnego immunofenotypu diagnostycznego (jednorazowo), ocena zmian genetycznych (jednorazowo),- FC: łącznie 4–6 razy w trakcie leczenia przeciwnowotworowego, b) PCR (wyłącznie u pacjentów z obecnym markerem molekularnym) 4–6 razy w trakcie intensywnego leczenia przeciwnowotworowego, c) wznowa:- oznaczenie pełnego immunofenotypu diagnostycznego (jednorazowo),- MRD FC: łącznie 3 razy w trakcie leczenia przeciwnowotworowego,- PCR: wstępne genotypowanie,- MRD PCR: łącznie 3 razy w trakcie leczenia przeciwnowotworowego, d) diagnostyka immunofenotypowa AML oraz diagnostyka molekularna AML są wykonywane w dniu diagnozy (jednorazowo), oraz po raz kolejny w przypadku ewentualnej wznowy;3) Ostra białaczka promielocytową (APL): a) nowe rozpoznanie:- diagnoza: oznaczenie pełnego immunofenotypu diagnostycznego (jednorazowo), ocena zmian genetycznych (jednorazowo),- FC: łącznie 6 razy w trakcie leczenia przeciwnowotworowego,- PCR: 6 razy w trakcie leczenia przeciwnowotworowego, a następnie co 3 miesiące przez 1 rok z krwi obwodowej (4 razy), b) wznowa:- oznaczenie pełnego immunofenotypu diagnostycznego (jednorazowo),- MRD FC: łącznie jednorazowo w trakcie leczenia przeciwnowotworowego,- PCR: wstępne genotypowanie,- MRD PCR: łącznie jednorazowo w trakcie leczenia przeciwnowotworowego, a następnie co 3 miesiące przez 1 rok z krwi obwodowej (4 razy), c) diagnostyka immunofenotypowa AML oraz diagnostyka molekularna AML są wykonywane w dniu diagnozy (jednorazowo), oraz po raz kolejny w przypadku ewentualnej wznowy. Organizacja udzielania świadczeń Ośrodek realizujący świadczenie posiada doświadczenie w diagnozowaniu i leczeniu dzieci z ostrą białaczką limfoblastyczną i ostrą białaczką szpikową według standardu ustalonego w programie:1) AIEOP-BFM ALL 2017 dla dzieci z ostrą białaczką ALL i prowadzi monitorowanie MRD metodą cytometrii przepływowej (FC, flow cytometry) lub PCR (polymerase chain reaction);2) AML-BFM-2019 dla dzieci z ostrą białaczką AML i prowadzi monitorowanie MRD metodą cytometrii przepływowej (FC, flow cytometry) lub PCR (polymerase chain reaction). Wskaźniki jakości 1) laboratorium diagnostyczne posiadające udokumentowane co najmniej 3-letnie doświadczenie w: a) wykonywaniu oznaczeń MRD-PCR (co najmniej 1500 wykonanych oznaczeń) i techniczne możliwości wykonania minimum 1000 oznaczeń tego typu rocznie lubb) wykonywaniu oznaczeń MRD-FC w ALL (co najmniej 2000 wykonanych oznaczeń) i techniczne możliwości wykonania co najmniej 1000 oznaczeń tego typu rocznie, lubc) diagnostyce immunofenotypowej białaczek oraz w ocenie AML-MRD-FC;2) badania molekularne w ALL przeprowadzone według standardu europejskiego konsorcjum EURO-MRD;3) badania immunofenotypowe według standardu europejskich konsorcjów iBFM;4) badania molekularne w AML przeprowadzone zgodnie z wymaganiami protokołu AML BFM-2019.
+59 Leczenie rekonstrukcyjne z wykorzystaniem endoprotez onkologicznych u pacjentów do ukończenia 18. roku życia Wymagania formalne 1) oddział szpitalny o profilu: chirurgia onkologiczna dla dzieci lub chirurgia urazowo-ortopedyczna dla dzieci, lub ortopedia i traumatologia narządu ruchu dla dzieci;
+2) blok operacyjny. Kryteria włączenia Świadczenie jest udzielane pacjentom do ukończenia 18. roku życia:
+1) z rozpoznaniem pierwotnym nowotworu kości (potwierdzonym badaniem histopatologicznym) według ICD-10:
+a) C40 Nowotwór złośliwy kości i chrząstki stawowej kończyn albo
+b) C41 Nowotwór złośliwy kości i chrząstki stawowej o innym nieokreślonym umiejscowieniu;
+2) z co najmniej częściową remisją choroby nowotworowej. Kryteria wyłączenia 1) brak postępu leczeniu neoadjuwantowego przed planowanym leczeniem operacyjnym;
+2) brak możliwości radykalnego usunięcia guza. Zakres świadczenia Świadczenie w zależności od stanu klinicznego obejmuje:
+1) pełną diagnostykę radiologiczną;
+2) histopatologiczną ocenę śródoperacyjną;
+3) diagnostykę histopatologiczną i molekularną;
+4) chemioterapię przed- i pooperacyjną;
+5) znieczulenie do zabiegu;
+6) radykalne wycięcie nowotworu (potwierdzone badaniem histopatologicznym śródoperacyjnym) wraz z jednoczesnym uzupełnieniem dużego ubytku kości z wykorzystaniem endoprotezy dostosowanej do indywidualnych potrzeb pacjenta:
+a) endoprotezy resekcyjne rosnące,
+b) endoprotezy modularne (miednica, kość udowa, kolana),
+c) endoprotezy tzw. custom made,
+d) endoprotezy drukowane 3D;
+7) opiekę przed- i pooperacyjną;
+8) intensywną terapię; 9) leczenie bólu;
+10) leczenie powikłań;
+11) radioterapię w ramach ustalonego planu leczenia;
+12) wymianę endoprotezy (w przypadku planowanej konwersji endoprotezy lub wystąpienia powikłań);
+13) procedurę wydłużania endoprotez rosnących;
+14) rehabilitację leczniczą;
+15) poradę psychologa. Personel 1. Opiekę przed- i pooperacyjną zapewniają:
+1) lekarze specjaliści w dziedzinie:
+a) chirurgii onkologicznej oraz ortopedii i traumatologii narządu ruchu, z udokumentowanym doświadczeniem w przeprowadzaniu zabiegów onkologicznych w zakresie guzów kości u dzieci, lub zabiegów ortopedycznych u dzieci, potwierdzonym przez konsultanta wojewódzkiego w dziedzinie chirurgii onkologicznej lub ortopedii i traumatologii narządu ruchu,
+b) patomorfologii z udokumentowanym co najmniej 10-letnim doświadczeniem w ocenie mięsaków kości i tkanek miękkich, potwierdzonym przez konsultanta wojewódzkiego w dziedzinie patomorfologii,
+c) onkologii i hematologii dziecięcej,
+d) onkologii klinicznej;
+2) pielęgniarki – w wymiarze zgodnym z profilem komórki organizacyjnej, w tym równoważnik co najmniej 2 etatów specjalisty w dziedzinie pielęgniarstwa chirurgicznego lub onkologicznego;
+3) pozostały personel – zapewnienie udziału w zespole leczniczym:
+a) lekarza specjalisty w dziedzinie radioterapii,
+b) lekarza specjalisty w dziedzinie rehabilitacji medycznej lub fizjoterapeuty,
+c) psychologa lub psychoonkologa,
+d) osoby planującej dietę.
+2. W trakcie zabiegu:
+1) co najmniej dwóch lekarzy operatorów z udokumentowanym doświadczeniem w przeprowadzeniu zabiegów onkologicznych w zakresie guzów kości u dzieci, w tym co najmniej jeden lekarz specjalista w dziedzinie ortopedii i traumatologii narządu ruchu z doświadczeniem w chirurgii rekonstrukcyjnej układu ruchu u dzieci w okresie ostatnich 5 lat oraz w leczeniu pierwotnych nowotworów złośliwych kości u dzieci w okresie ostatnich 5 lat (uczestnik jako operator lub asysta w co najmniej 30 pierwotnych resekcjach z powodów złośliwych guzów kości u dzieci, w tym w resekcjach oszczędzających kończynę, z adekwatną rekonstrukcją ubytku poresekcyjnego), potwierdzonym przez konsultanta wojewódzkiego w dziedzinie ortopedii i traumatologii narządu ruchu;
+2) lekarz specjalista w anestezjologii i intensywnej terapii;
+3) pielęgniarka specjalista w dziedzinie pielęgniarstwa anestezjologicznego i intensywnej opieki lub pielęgniarka po kursie kwalifikacyjnym w dziedzinie pielęgniarstwa anestezjologicznego i intensywnej opieki, lub pielęgniarka w trakcie specjalizacji w dziedzinie pielęgniarstwa anestezjologicznego i intensywnej opieki;
+4) pielęgniarka specjalista w dziedzinie pielęgniarstwa operacyjnego lub pielęgniarka po kursie kwalifikacyjnym w dziedzinie pielęgniarstwa operacyjnego, lub będąca w trakcie tych szkoleń, lub pielęgniarka z co najmniej rocznym doświadczeniem w instrumentowaniu do zabiegów ortopedycznych. Wyposażenie w sprzęt i aparaturę medyczną 1) w miejscu udzielania świadczeń:
+a) diatermia,
+b) ramię C,
+c) piła oscylacyjna,
+d) dostęp do zasobów radiologicznych w obrębie sali operacyjnej,
+e) dostęp w trakcie zabiegu operacyjnego do pełnego asortymentu elementów rekonstrukcyjnych,
+f) pompy infuzyjne przepływowe i strzykawkowe,
+g) kardiomonitor,
+h) pompa do podawania leków zewnątrzoponowo,
+i) łóżka rehabilitacyjno-ortopedyczne z pozycją Trendelenburga i anty-Trendelenburga z materacami przeciwodleżynowymi,
+j) sprzęt do rehabilitacji: szyna CPM na różne stawy (skokowy, kolanowy, barkowy), platformy balansowe, G-walk, taśmy kinesiotyping, zaopatrzenie ortopedyczne (balkoniki, kule łokciowe, ortezy na stawy);
+2) w lokalizacji:
+a) przewoźny aparat do USG,
+b) USG dedykowane do kaniulacji naczyń,
+c) przewoźny aparat do RTG,
+d) piła dedykowana do cięcia kości,
+e) zestawy do śródoperacyjnej oceny patomorfologicznej (m.in. kriostat, sprzęt do szybkiego barwienia),
+f) mikroskop o powiększeniu xl0, x40, xl00,
+g) aparat EKG,
+h) echokardiograf, i) respirator,
+j) aparat do terapii nerkozastępczej,
+k) sprzęt do rehabilitacji: bieżnia, rowerek, lustro do kontroli posturalnej, waga mechaniczna do nauki obciążania kończyn dolnych i Uniwersalny Gabinet Usprawniania Leczniczego. Pozostałe wymagania 1) w lokalizacji – OAiIT;
+2) w lokalizacji lub w dostępie:
+a) oddział onkologii i hematologii dziecięcej lub onkologiczny dla dzieci, lub hematologiczny dla dzieci,
+b) zakład diagnostyki obrazowej z możliwością wykonania: USG lub USG Doppler, RTG, TK, MR1,
+c) pracownia lub zakład diagnostyki laboratoryjnej,
+d) pracownia patomorfologii z możliwością wykonania badania śródoperacyjnego,
+e) poradnia chirurgii onkologicznej dla dzieci lub chirurgii urazowo-ortopedycznej dla dzieci,
+f) poradnia onkologii i hematologii dziecięcej lub onkologiczna dla dzieci, lub hematologiczna dla dzieci,
+g) poradnia chirurgii onkologicznej,
+h) poradnia onkologiczna,
+i) poradnia psychologiczna,
+j) poradnia leczenia bólu;
+3) dostęp do świadczeń w zakresie:
+a) diagnostyki genetycznej i molekularnej,
+b) medycyny nuklearnej, w tym PET oraz scyntygrafii kości,
+c) radiologii inwazyjnej – zabiegi embolizacji lub ablacji,
+d) radioterapii. Organizacja udzielania świadczeń 1. Do świadczenia kwalifikuje wielodyscyplinarny zespół, w skład którego wchodzą:
+a) lekarz specjalista w dziedzinie chirurgii onkologicznej,
+b) lekarz specjalista w dziedzinie ortopedii i traumatologii narządu ruchu,
+c) lekarz specjalista w dziedzinie onkologii i hematologii dziecięcej,
+d) lekarz specjalista w dziedzinie radiologii,
+e) lekarz specjalista w dziedzinie patomorfologii,
+f) lekarz specjalista w dziedzinie anestezjologii i intensywnej terapii,
+g) psycholog lub psychoonkolog.
+2. Ośrodek realizujący świadczenie posiada doświadczenie w zakresie operacyjnego leczenia onkologicznych pierwotnych nowotworów złośliwych kości u dzieci. 3. Ośrodek realizujący świadczenie zapewnia możliwość postępowania z wykorzystaniem leczenia chirurgicznego, leczenia systemowego oraz świadczeń w zakresie radioterapii.
+4. Ośrodek realizujący świadczenie zapewnienia konsultacje wielospecjalistyczne, konieczne w procesie opieki nad pacjentem.
+5. Ośrodek realizujący świadczenie posiada sformalizowane procedury postępowania w przypadku powikłań septycznych, profilaktyki żylnej choroby zakrzepowo-zatorowej, profilaktyki antybiotykowej, leczenia przeciwbólowego oraz usprawniania pooperacyjnego.
+6. Ośrodek realizujący świadczenie zapewnienia koordynację rehabilitacji leczniczej, wymaganej stanem świadczeniobiorcy, po zakończonym leczeniu szpitalnym – w ramach własnej działalności świadczeniodawcy lub umowy z podmiotem leczniczym udzielającym świadczeń w zakresie rehabilitacji leczniczej.
+7. Ośrodek realizujący świadczenie zapewnienia kontynuację leczenia i opieki zgodnie ze stanem klinicznym w warunkach ambulatoryjnych, w tym monitorowanie następstw ewentualnych powikłań związanych z endoprotezoplastyką, także w okresie wczesnej dorosłości (do ukończenia 24. roku życia). Kryterium jakości Warunki monitorowania efektu, oceny skuteczności i bezpieczeństwa świadczenia:
+1) odsetek pacjentów z zachowaniem funkcjonalności operowanej kończyny lub innej części ciała;
+2) odsetek reoperacji z powodu powikłań;
+3) odsetek powikłań wczesnych i odległych;
+4) odsetek wznów, w tym odsetek wznów miejscowych w okresie 3 i 6 miesięcy po zabiegu;
+5) współczynnik przeżycia 2- i 5-letni;
+6) ocena sprawności w skali MSTS (Musculoskeletal Tumor Society Scale) w okresie 3 i 6 miesięcy po zabiegu;
+7) skala – Harrisa dla biodra;
+8) skala – KOOS (Knee Injury and Osteoarthritis Outcome Study) dla kolana;
+9) skala oceny subiektywnej chorych – PROMS (Patient Reported Outcome Measure Scale). 60 Monitorowanie minimalnej choroby resztkowej metodą molekularną i metodą wielokolorowej cytometrii przepływowej Wymagania formalne 1) oddział szpitalny o profilu onkologia i hematologia dziecięca;
+2) w dostępie:
+a) laboratorium genetyki molekularnej – do oceny rearanżacji genetycznych w komórkach białaczkowych ALL za pomocą wystandaryzowanych metod w wykrywaniu minimalnej choroby resztkowej metodami molekularnymi, posiadające europejski Certyfikat jakości oceny choroby resztkowej EURO-MRD, lub
+b) laboratorium cytogenetyki i genetyki molekularnej – do oceny rearanżacji genetycznych w komórkach białaczkowych AML przy pomocy wystandaryzowanych metod w wykrywaniu minimalnej choroby resztkowej metodami molekularnymi, lub w ostrych białaczkach u dzieci c) medyczne laboratorium diagnostyczne z pracownią wielokolorowej cytometrii przepływowej, posiadające Certyfikat iBFM lub EuroFlow – do monitorowania MRD metodą cytometrii przepływowej. Kryteria włączenia Do świadczenia kwalifikują się dzieci i młodzież do ukończenia 18. roku życia, u których zdiagnozowano ostrą białaczkę (nowe rozpoznania lub wznowa) – zgodnie z następującymi rozpoznaniami:
+1) C91.0 Ostra białaczka limfoblastyczna (ALL) albo
+2) C92.0 Ostra białaczka szpikowa (AML). Personel 1) lekarz specjalista w dziedzinie onkologii i hematologii dziecięcej;
+2) w laboratorium cytogenetyki i biologii molekularnej: diagności laboratoryjni, co najmniej 6 etatów, w tym:
+a) równoważnik co najmniej 2 etatów – ze stopniem magistra z analityki medycznej lub biotechnologii lub biologii oraz udokumentowanym co najmniej 3-letnim doświadczeniem w pracy w molekularnym laboratorium genetycznym,
+b) równoważnik co najmniej 2 etatów – ze specjalizacją w zakresie laboratoryjnej genetyki medycznej;
+3) w laboratorium wielokolorowej cytometrii przepływowej: diagności laboratoryjni, równoważnik co najmniej 2 etatów, posiadający co najmniej 3-letnie doświadczenie w wykonywaniu badań cytometrycznych, w zakresie immunofenotypowej diagnostyki rozrostów hematologicznych. Wyposażenie w sprzęt i aparaturę medyczną Urządzenia techniczne umożliwiające wykonywanie badań metodami molekularnymi lub wielokolorowej cytometrii przepływowej zgodnie ze standardami EURO-MRD, iBFM lub EuroFlow i programów AML-BFM-2019 lub AIEOP-BFM ALL 2017 dla dzieci z ostrymi białaczkami. Zakres świadczenia Monitorowanie minimalnej choroby resztkowej obejmuje:
+1) szczegółową diagnostykę immunofenotypową ALL (badanie wstępne);
+2) oznaczenie MRD w ALL metodą cytometrii przepływowej – ALL-MRD-FC;
+3) identyfikację rearanżacji genów do monitorowania PCR MRD w ALL – ALL-MRD-PCR1;
+4) oznaczenie MRD metodą PCR w ALL – ALL-MRD-PCR2;
+5) szczegółową diagnostykę immunofenotypową AML (badanie wstępne);
+6) oznaczenie MRD metodą cytometrii przepływowej – AML-MRD-FC;
+7) diagnostykę molekularną AML;
+8) oznaczenie MRD metodą RT-qPCR – AML-MRD-PCR. Pozostałe wymagania Monitorowanie minimalnej choroby resztkowej w ostrych białaczkach w trakcie leczenia przeciwnowotworowego (tryb hospitalizacja):
+1) C91.0 Ostra białaczka limfoblastyczna (ALL):
+a) nowe rozpoznanie:
+FC: łącznie 4 do 6 razy w trakcie leczenia przeciwnowotworowego,
+PCR: (ALL-MRD-PCR1) jednorazowo oraz (ALL-MRD-PCR2) – do 6 razy w trakcie leczenia przeciwnowotworowego,
+b) wznowa:
+FC: łącznie 4 razy w trakcie leczenia przeciwnowotworowego,
+PCR: (ALL-MRD-PCR1) jednorazowo w trakcie leczenia przeciwnowotworowego oraz (ALL-MRD-PCR2) – do 5 razy w trakcie leczenia przeciwnowotworowego,
+c) przeszczepienie komórek krwiotwórczych:
+FC: łącznie do 5 razy w trakcie leczenia przeciwnowotworowego,
+PCR: tylko (ALL-MRD-PCR2) – do 4 razy w trakcie leczenia przeciwnowotworowego;
+2) C92.0 Ostra białaczka szpikowa (AML), poza ostrą białaczką promielocytową (APL):
+a) nowe rozpoznanie:
+diagnoza: oznaczenie pełnego immunofenotypu diagnostycznego (jednorazowo), ocena zmian genetycznych (jednorazowo),
+FC: łącznie 4–6 razy w trakcie leczenia przeciwnowotworowego,
+b) PCR (wyłącznie u pacjentów z obecnym markerem molekularnym) 4–6 razy w trakcie intensywnego leczenia przeciwnowotworowego,
+c) wznowa:
+oznaczenie pełnego immunofenotypu diagnostycznego (jednorazowo),
+MRD FC: łącznie 3 razy w trakcie leczenia przeciwnowotworowego,
+PCR: wstępne genotypowanie,
+MRD PCR: łącznie 3 razy w trakcie leczenia przeciwnowotworowego,
+d) diagnostyka immunofenotypowa AML oraz diagnostyka molekularna AML są wykonywane w dniu diagnozy (jednorazowo), oraz po raz kolejny w przypadku ewentualnej wznowy;
+3) Ostra białaczka promielocytową (APL):
+a) nowe rozpoznanie:
+diagnoza: oznaczenie pełnego immunofenotypu diagnostycznego (jednorazowo), ocena zmian genetycznych (jednorazowo),
+FC: łącznie 6 razy w trakcie leczenia przeciwnowotworowego,
+PCR: 6 razy w trakcie leczenia przeciwnowotworowego, a następnie co 3 miesiące przez 1 rok z krwi obwodowej (4 razy), b) wznowa:
+oznaczenie pełnego immunofenotypu diagnostycznego (jednorazowo),
+MRD FC: łącznie jednorazowo w trakcie leczenia przeciwnowotworowego,
+PCR: wstępne genotypowanie,
+MRD PCR: łącznie jednorazowo w trakcie leczenia przeciwnowotworowego, a następnie co 3 miesiące przez 1 rok z krwi obwodowej (4 razy),
+c) diagnostyka immunofenotypowa AML oraz diagnostyka molekularna AML są wykonywane w dniu diagnozy (jednorazowo), oraz po raz kolejny w przypadku ewentualnej wznowy. Organizacja udzielania świadczeń Ośrodek realizujący świadczenie posiada doświadczenie w diagnozowaniu i leczeniu dzieci z ostrą białaczką limfoblastyczną i ostrą białaczką szpikową według standardu ustalonego w programie:
+1) AIEOP-BFM ALL 2017 dla dzieci z ostrą białaczką ALL i prowadzi monitorowanie MRD metodą cytometrii przepływowej (FC, flow cytometry) lub PCR (polymerase chain reaction);
+2) AML-BFM-2019 dla dzieci z ostrą białaczką AML i prowadzi monitorowanie MRD metodą cytometrii przepływowej (FC, flow cytometry) lub PCR (polymerase chain reaction). Wskaźniki jakości 1) laboratorium diagnostyczne posiadające udokumentowane co najmniej 3-letnie doświadczenie w:
+a) wykonywaniu oznaczeń MRD-PCR (co najmniej 1500 wykonanych oznaczeń) i techniczne możliwości wykonania minimum 1000 oznaczeń tego typu rocznie lub
+b) wykonywaniu oznaczeń MRD-FC w ALL (co najmniej 2000 wykonanych oznaczeń) i techniczne możliwości wykonania co najmniej 1000 oznaczeń tego typu rocznie, lub
+c) diagnostyce immunofenotypowej białaczek oraz w ocenie AML-MRD-FC;
+2) badania molekularne w ALL przeprowadzone według standardu europejskiego konsorcjum EURO-MRD;
+3) badania immunofenotypowe według standardu europejskich konsorcjów iBFM;
+4) badania molekularne w AML przeprowadzone zgodnie z wymaganiami protokołu AML BFM-2019.
 

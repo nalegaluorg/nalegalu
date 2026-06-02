@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-04-25 |
 | Data wydania | 2013-05-15 |
-| Wejście w życie | 2013-05-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000562) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/562/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Szczegółowy opis granic i obszar składu wolnocłowego na terenie Międzynarodowego Portu Lotniczego „Katowice” w Pyrzowicach
 Treść rozporządzenia
-Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. Nr 68, poz. 622, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. Nr 68, poz. 622, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2008 r. Nr 209, poz. 1320 i Nr 215, poz. 1355, z 2009 r. Nr 168, poz. 1323, z 2010 r. Nr 106, poz. 673, z 2011 r. Nr 106, poz. 622 i Nr 254, poz. 1529 oraz z 2012 r. poz. 908, 1116 i 1529.) zarządza się, co następuje:
 § 1.
 Określa się, w załączniku do rozporządzenia, granice i obszar składu wolnocłowego na terenie Międzynarodowego Portu Lotniczego „Katowice” w Pyrzowicach, ustanowionego rozporządzeniem Rady Ministrów z dnia 18 października 1999 r. w sprawie ustanowienia składu wolnocłowego na terenie Międzynarodowego Portu Lotniczego „Katowice” w Pyrzowicach (Dz. U. Nr 86, poz. 955, z 2005 r. Nr 17, poz. 146, z 2008 r. Nr 72, poz. 421 oraz z 2009 r. Nr 63, poz. 524).
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2008 r. Nr 209, poz. 1320 i Nr 215, poz. 1355, z 2009 r. Nr 168, poz. 1323, z 2010 r. Nr 106, poz. 673, z 2011 r. Nr 106, poz. 622 i Nr 254, poz. 1529 oraz z 2012 r. poz. 908, 1116 i 1529.
 Załącznik – Szczegółowy opis granic i obszar składu wolnocłowego na terenie Międzynarodowego Portu Lotniczego „Katowice” w Pyrzowicach
 Skład wolnocłowy jest zlokalizowany na parterze Terminalu Pasażerskiego T1A oraz na parterze, pierwszym, drugim i trzecim piętrze Terminalu Pasażerskiego T1B, w części dostępnej dla pasażerów po odprawie biletowo-bagażowej i kontroli bezpieczeństwa. Skład wolnocłowy stanowi strefę zamkniętą odcinkami ścian określonymi w poniższym opisie granicy składu wolnocłowego. Z uwagi na usytuowanie składu wolnocłowego wewnątrz budynku odgraniczenie składu wolnocłowego stanowią trwałe elementy budowlane. Opis przebiegu granic składu wolnocłowego jest przedstawiony na mapie w skali 1:500. Dokument zawierający opis przebiegu granic składu wolnocłowego wraz z mapą jest przechowywany u zarządzającego składem wolnocłowym oraz – w postaci kopii – we właściwej miejscowo izbie celnej nadzorującej skład wolnocłowy oraz w Ministerstwie Finansów. Granicę składu wolnocłowego na parterze w Terminalu Pasażerskim T1A stanowią następujące odcinki ścian:
 1)
@@ -69,8 +68,7 @@ trzy odcinki ściany o długości: 4,12 m z jednym otworem drzwiowym, 2 m i 4,12
 16)
 cztery odcinki ściany o długości: 5,7 m z jednym otworem drzwiowym, 4,4 m, 5,9 m i 3,4 m wzdłuż Business Lounge;
 17)
-ściana zewnętrzna o długości 6 m z czterema otworami okiennymi.
-Granicę składu wolnocłowego na parterze w Terminalu Pasażerskim T1B stanowią następujące odcinki ścian:
+ściana zewnętrzna o długości 6 m z czterema otworami okiennymi. Granicę składu wolnocłowego na parterze w Terminalu Pasażerskim T1B stanowią następujące odcinki ścian:
 1)
 ściana o długości 4,7 m z dwoma otworami drzwiowymi od strony pomieszczenia służbowego;
 2)
@@ -110,8 +108,7 @@ dwa odcinki ściany o długości: 6 m od poziomu +5,60 do poziomu +2,80 i 6 m od
 19)
 ściana o długości 12,55 m z dwoma otworami okiennymi od poziomu +5,60 do poziomu 0,00 od strony schodów;
 20)
-ściana o długości 4,76 m od strony hallu.
-Granicę składu wolnocłowego na pierwszym piętrze w Terminalu Pasażerskim T1B stanowią następujące odcinki ścian:
+ściana o długości 4,76 m od strony hallu. Granicę składu wolnocłowego na pierwszym piętrze w Terminalu Pasażerskim T1B stanowią następujące odcinki ścian:
 1)
 ściana o długości 9,27 m z jednym otworem drzwiowym wzdłuż Fast Track’u;
 2)
@@ -141,8 +138,7 @@ dwa odcinki ściany zewnętrznej o długości: 3,86 m i 6,58 m z jednym otworem 
 14)
 trzy odcinki ściany o długości: 7,71 m z jednym otworem drzwiowym, 3,1 m i 7,71 m z jednym otworem drzwiowym od strony klatki schodowej;
 15)
-ściana o długości 3,7 m z jednym otworem drzwiowym od strony pomieszczenia technicznego.
-Granicę składu wolnocłowego na drugim i trzecim piętrze w Terminalu Pasażerskim T1B stanowią następujące odcinki ścian:
+ściana o długości 3,7 m z jednym otworem drzwiowym od strony pomieszczenia technicznego. Granicę składu wolnocłowego na drugim i trzecim piętrze w Terminalu Pasażerskim T1B stanowią następujące odcinki ścian:
 1)
 ściana o długości 23,9 m od poziomu +10,05 do dachu od strony placówek handlowych i pomieszczeń sanitarnych;
 2)
@@ -162,6 +158,5 @@ dwa odcinki ściany o długości: 18,3 m od poziomu +10,05 do dachu i 8,45 m od 
 9)
 ściana zewnętrzna o długości 23,9 m z czterema otworami okiennymi od poziomu +14,50 do dachu;
 10)
-ściana zewnętrzna o długości 23,9 m z czterema otworami okiennymi od poziomu +14,50 do dachu.
-Obszar składu wolnocłowego wynosi 4139,21 m2.
+ściana zewnętrzna o długości 23,9 m z czterema otworami okiennymi od poziomu +14,50 do dachu. Obszar składu wolnocłowego wynosi 4139,21 m2.
 

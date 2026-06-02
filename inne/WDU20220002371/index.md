@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-03 |
 | Data wydania | 2022-11-21 |
-| Wejście w życie | 2022-12-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002371) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2371/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Postępowanie w sprawach stosowania dyscyplinarnych środków zapobiegawczych Rozdział 3 – Sposób i tryb osadzania żołnierza w izbie zatrzymań Rozdział 4 – Rodzaje, zakres, przypadki, sposób i tryb dokonywania badań Rozdział 5 – Postępowanie w sytuacjach nadzwyczajnych Rozdział 6 – Przepisy przejściowy i końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 379 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -59,6 +59,7 @@ Ilekroć w rozporządzeniu jest mowa o:
 ustawie – należy przez to rozumieć ustawę z dnia 11 marca 2022 r. o obronie Ojczyzny;
 2)
 środku – należy przez to rozumieć dyscyplinarny środek zapobiegawczy.
+Postępowanie w sprawach stosowania dyscyplinarnych środków zapobiegawczych
 § 3.
 1.
 W sytuacji zaistnienia okoliczności mogących uzasadniać konieczność zastosowania środka wobec żołnierza zakres czynności podejmowanych przez stosującego środek wobec żołnierza, z uwzględnieniem ust. 2, obejmuje następujące czynności:
@@ -171,6 +172,7 @@ w pkt 4 – podmiot, który wydał postanowienie o zastosowaniu wobec żołnierz
 W sytuacji, o której mowa w ust. 7 pkt 1, odpis postanowienia przesyła się niezwłocznie do podmiotu, który wydał postanowienie o zastosowaniu środka wobec żołnierza.
 9.
 Uchylenie lub zmianę postanowienia o zastosowaniu środka stwierdza się w postanowieniu, które doręcza się żołnierzowi, wobec którego zastosowano ten środek. Postanowienie w tym zakresie zawiera elementy wymienione w ust. 1 w pkt 1–4 i 10 oraz informację stwierdzającą uchylenie lub zmianę postanowienia ze wskazaniem zakresu uchylenia lub zmiany treści pierwotnego postanowienia.
+Sposób i tryb osadzania żołnierza w izbie zatrzymań
 § 7.
 1.
 Osadzenie żołnierza w izbie zatrzymań w ramach wykonania postanowienia o zastosowaniu środka w postaci osadzenia w izbie zatrzymań wymaga uzyskania zaświadczenia lekarskiego stwierdzającego brak przeciwwskazań zdrowotnych do osadzenia tego żołnierza.
@@ -209,8 +211,7 @@ przedmioty, środki lub substancje zagrażające bezpieczeństwu jego i innych o
 b)
 wojskowy dokument tożsamości albo – w razie jego utraty lub zniszczenia – inny dokument ze zdjęciem, na podstawie którego można ustalić tożsamość doprowadzanego żołnierza,
 c)
-inne przedmioty, których posiadanie przez żołnierza w trakcie doprowadzenia oraz osadzenia jest niecelowe
-które to przedmioty osoba ta odbiera żołnierzowi na czas doprowadzenia i osadzenia w izbie zatrzymań;
+inne przedmioty, których posiadanie przez żołnierza w trakcie doprowadzenia oraz osadzenia jest niecelowe – które to przedmioty osoba ta odbiera żołnierzowi na czas doprowadzenia i osadzenia w izbie zatrzymań;
 3)
 sporządza notatkę służbową, w której określa stan żołnierza, w szczególności zamieszcza opis widocznych urazów tego żołnierza oraz swoje uwagi dotyczące jego stanu psychofizycznego.
 2.
@@ -278,6 +279,7 @@ Zwalniając żołnierza z izby zatrzymań, zwraca mu się depozyt, z zastrzeżen
 W razie braku możliwości osadzenia żołnierza w izbie zatrzymań komendant izby zatrzymań lub osoba przez niego upoważniona, w porozumieniu z osobą realizującą doprowadzenie żołnierza do izby zatrzymań, podejmuje decyzję o dalszym postępowaniu z osadzanym żołnierzem, mając na względzie okoliczności, o których mowa w ust. 2.
 2.
 Jeżeli żołnierz nie stwarza zagrożenia dla życia i zdrowia swojego i innych osób, to w przypadku, o którym mowa w ust. 1, osoba realizująca doprowadzenie, wykonując postanowienie, może podjąć decyzję o doprowadzeniu żołnierza do miejsca jego zamieszkania. Wówczas depozyt zwraca się żołnierzowi za pokwitowaniem w momencie zakończenia doprowadzenia.
+Rodzaje, zakres, przypadki, sposób i tryb dokonywania badań
 § 13.
 1.
 Badania przeprowadzane w celu ustalenia zawartości w organizmie żołnierza alkoholu, środków odurzających, substancji psychotropowych lub innych podobnie działających substancji lub środków, zwane dalej „badaniami”, dzielą się na badania laboratoryjne oraz nielaboratoryjne.
@@ -312,8 +314,7 @@ Badanie wydychanego powietrza przeprowadza się w sposób nieinwazyjny przy uży
 1)
 spektrometrii w podczerwieni lub
 2)
-utleniania elektrochemicznego
-zwanego dalej „analizatorem wydechu”.
+utleniania elektrochemicznego – zwanego dalej „analizatorem wydechu”.
 4.
 Badanie analizatorem wydechu przeprowadza się nie wcześniej niż po upływie 15 minut od chwili zakończenia spożywania alkoholu, palenia wyrobów tytoniowych, palenia elektronicznych papierosów lub używania wyrobów tytoniowych bezdymnych przez badanego żołnierza.
 5.
@@ -410,8 +411,7 @@ Oznaczanie zawartości alkoholu lub środków odurzających, substancji psychotr
 1)
 laboratoria (pracownie, zakłady) diagnostyczne,
 2)
-zakłady medycyny sądowej i zakłady wyższych uczelni medycznych lub inne jednostki
-na podstawie umowy zawartej z organami ścigania, wymiaru sprawiedliwości lub dowódcą jednostki wojskowej.
+zakłady medycyny sądowej i zakłady wyższych uczelni medycznych lub inne jednostki – na podstawie umowy zawartej z organami ścigania, wymiaru sprawiedliwości lub dowódcą jednostki wojskowej.
 2.
 Wyniki badań niezwłocznie przekazuje się dowódcy jednostki wojskowej, w której żołnierz objęty badaniem zajmuje stanowisko służbowe, w formie pisemnej albo elektronicznej.
 § 23.
@@ -448,25 +448,39 @@ Wyciąg z dokumentu, o którym mowa w ust. 1, doręcza się żołnierzowi bez zb
 Do rozpatrywania zażaleń, o których mowa w ust. 1, stosuje się odpowiednio przepisy § 6 ust. 3 i 4, przy czym rozpatrzenie zażalenia następuje w drodze postanowienia wydawanego przez rozpatrującego je wyższego przełożonego dyscyplinarnego, przełożonego wojskowego organu porządkowego albo komendanta jednostki organizacyjnej Żandarmerii Wojskowej, których żołnierz wydał polecenie poddania się badaniu.
 4.
 Postanowienie wydane w wyniku rozpatrzenia zażalenia, o którym mowa w ust. 1, może stanowić o uwzględnieniu bądź nieuwzględnieniu zażalenia.
+Postępowanie w sytuacjach nadzwyczajnych
 § 25.
 1.
 W przypadku realizacji czynności, o których mowa w niniejszym rozporządzeniu, po ogłoszeniu mobilizacji, w stanach nadzwyczajnych, w czasie wojny, a także podczas wykonywania zadań służbowych w strefie działań wojennych oraz w przypadku użycia Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa, jak również w przypadku udziału w akcjach humanitarnych, poszukiwawczych lub ratowniczych dopuszcza się odstąpienie od terminów i sposobu dokumentowania czynności, jeżeli ich dotrzymanie nie jest możliwe lub jest bardzo utrudnione.
 2.
 W sytuacji, o której mowa w ust. 1, należy jednak poinformować o tym żołnierza objętego środkami lub badaniami i wskazać powód odstąpienia.
+Przepisy przejściowy i końcowy
 § 26.
 Postanowienia o zastosowaniu środków sporządzone przed dniem wejścia w życie niniejszego rozporządzenia na podstawie przepisów dotychczasowych zachowują swoją ważność.
 § 27.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 2 kwietnia 2010 r. w sprawie dyscyplinarnych środków zapobiegawczych (Dz. U. poz. 415 oraz z 2017 r. poz. 33), które zgodnie z art. 822 ust. 7 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 2 kwietnia 2010 r. w sprawie dyscyplinarnych środków zapobiegawczych (Dz. U. poz. 415 oraz z 2017 r. poz. 33), które zgodnie z art. 822 ust. 7 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Postępowanie w sprawach stosowania dyscyplinarnych środków zapobiegawczych
+#### Rozdział 2 – Postępowanie w sprawach stosowania dyscyplinarnych środków zapobiegawczych
 
-#### Rozdział 3 Sposób i tryb osadzania żołnierza w izbie zatrzymań
+#### Rozdział 3 – Sposób i tryb osadzania żołnierza w izbie zatrzymań
 
-#### Rozdział 4 Rodzaje, zakres, przypadki, sposób i tryb dokonywania badań
+#### Rozdział 4 – Rodzaje, zakres, przypadki, sposób i tryb dokonywania badań
 
-#### Rozdział 5 Postępowanie w sytuacjach nadzwyczajnych
+#### Rozdział 5 – Postępowanie w sytuacjach nadzwyczajnych
 
-#### Rozdział 6 Przepisy przejściowy i końcowy
+#### Rozdział 6 – Przepisy przejściowy i końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

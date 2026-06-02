@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 maja 2021 r. o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz niektórych innych ustaw
+# Ustawa z dnia 28 maja 2021 r. o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego, ustawę z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej, ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków oraz ustawę z dnia 20 lipca 2018 r. o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania.
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-28 |
 | Data wydania | 2021-07-08 |
-| Wejście w życie | 2021-07-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001243) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1243/text.pdf) |
+
+Społeczne agencje najmu
 
 **Art. 1.** W ustawie z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11 i 1177) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 po wyrazie „mieszkalnych” dodaje się przecinek oraz wyrazy „zasady działania społecznych agencji najmu”;
 - **2)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Społeczne agencje najmu
+#### Rozdział 3a
 
 **Art. 22a.**
 
@@ -79,7 +80,7 @@ source: "eli-html"
 6. Do umowy dzierżawy dołącza się oświadczenie właściciela lokalu mieszkalnego lub budynku mieszkalnego jednorodzinnego, że znane są mu zasady dotyczące stosowania przepisów o pomocy publicznej, w tym wymogi spełnienia warunków udzielenia pomocy de minimis, określone w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1) oraz obowiązki wynikające z art. 37 ust. 1 oraz 5a ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743), powstające w związku ze wsparciem udzielonym w wyniku zawarcia umowy dzierżawy na podstawie:
 
 - **1)** art. 21 ust. 1 pkt 131a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, 1163 i 1243);
-- **2)** art. 17 ust. 1 pkt 61 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm.);
+- **2)** art. 17 ust. 1 pkt 61 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1565, 2122, 2123 i 2320 oraz z 2021 r. poz. 11, 255, 1163 i 1243.);
 - **3)** art. 10 ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2020 r. poz. 1905, 2123 i 2320 oraz z 2021 r. poz. 255, 1163 i 1243);
 - **4)** art. 43 ust. 1 pkt 36 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2021 r. poz. 685, 694, 802, 1163 i 1243).
 
@@ -113,12 +114,12 @@ source: "eli-html"
 2. Gmina informuje ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa o:
 
 - **1)** liczbie i łącznej powierzchni użytkowej lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych dzierżawionych przez SAN,
-- **2)** liczbie osób używających lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych dzierżawionych przez SAN na podstawie umowy najmu w terminie do dnia 31 stycznia roku następującego po roku, którego dotyczy informacja.
+- **2)** liczbie osób używających lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych dzierżawionych przez SAN na podstawie umowy najmu – w terminie do dnia 31 stycznia roku następującego po roku, którego dotyczy informacja.
 
 1. Wsparcie udzielane SAN w związku z działalnością, o której mowa w art. 22a ust. 1:
 
 - **1)** na zasadach określonych zgodnie z art. 22b ust. 1 pkt 2,
-- **2)** na podstawie art. 17 ust. 1 pkt 44 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych stanowi rekompensatę z tytułu świadczenia usługi publicznej w rozumieniu przepisów prawa Unii Europejskiej dotyczących pomocy publicznej z tytułu świadczenia usług w ogólnym interesie gospodarczym.
+- **2)** na podstawie art. 17 ust. 1 pkt 44 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych – stanowi rekompensatę z tytułu świadczenia usługi publicznej w rozumieniu przepisów prawa Unii Europejskiej dotyczących pomocy publicznej z tytułu świadczenia usług w ogólnym interesie gospodarczym.
 
 2. W przypadku udzielania SAN wsparcia, o którym mowa w ust. 1, gmina określa w umowie o współpracy rodzaj i okres realizacji rekompensowanej tym działaniem usługi publicznej.
 
@@ -138,7 +139,7 @@ source: "eli-html"
 
 - **131a)** przychody z dzierżawy lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych społecznym agencjom najmu, o których mowa w art. 22a ust. 1 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11, 1177 i 1243). ” .
 
-**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm.) w art. 17 w ust. 1:
+**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1565, 2122, 2123 i 2320 oraz z 2021 r. poz. 11, 255 i 1163.) w art. 17 w ust. 1:
 
 - **1)** pkt 44 otrzymuje brzmienie: „
 - **44)** dochody spółdzielni mieszkaniowych, wspólnot mieszkaniowych, społecznych inicjatyw mieszkaniowych, towarzystw budownictwa społecznego, samorządowych jednostek organizacyjnych prowadzących działalność w zakresie gospodarki mieszkaniowej oraz społecznych agencji najmu, o których mowa w art. 22a ust. 1 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11, 1177 i 1243), uzyskane z gospodarki zasobami mieszkaniowymi – w części przeznaczonej na cele związane z utrzymaniem tych zasobów, z wyłączeniem dochodów uzyskanych z innej działalności gospodarczej niż gospodarka zasobami mieszkaniowymi; ” ;
@@ -186,5 +187,5 @@ source: "eli-html"
 - **1)** wynajmującego lokale mieszkalne lub budynki mieszkalne jednorodzinne wniesione jako wkład niepieniężny do spółki zgodnie z art. 12 ust. 1 ustawy „lokal za grunt”;
 - **2)** SAN. ” .
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego, ustawę z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej, ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków oraz ustawę z dnia 20 lipca 2018 r. o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1565, 2122, 2123 i 2320 oraz z 2021 r. poz. 11, 255, 1163 i 1243. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1565, 2122, 2123 i 2320 oraz z 2021 r. poz. 11, 255 i 1163.
 

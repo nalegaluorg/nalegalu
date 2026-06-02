@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 1 lipca 2005 r. o zmianie ustawy o przewozie drogowym towarów niebezpiecznych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 1 lipca 2005 r. o zmianie ustawy o przewozie drogowym towarów niebezpiecznych oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 września 2001 r. o transporcie drogowym oraz ustawę z dnia 31 marca 2004 r. o przewozie koleją towarów niebezpiecznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-01 |
 | Data wydania | 2005-07-29 |
-| Wejście w życie | 2005-08-13 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051411184) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1184/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych (Dz. U. Nr 199, poz. 1671, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych (Dz. U. Nr 199, poz. 1671, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz.U. z 2004 r. Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808 oraz z 2005 r. Nr 90, poz. 757.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 w ust. 1 uchyla się pkt 1;
 - **2)** w art. 10 ust. 3 otrzymuje brzmienie: „
@@ -136,5 +135,5 @@ source: "eli-html"
 
 **Art. 5.** Do dnia 31 grudnia 2005 r. wojewódzcy inspektorzy transportu drogowego przekażą, w zakresie swojej właściwości, Głównemu Inspektorowi Transportu Drogowego dane dotyczące doradców w zakresie wynikającym z art. 24 ust. 8 ustawy, o której mowa w art. 1.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4 w zakresie art. 24 ust. 8, który wchodzi w życie z dniem 1 stycznia 2006 r.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4 w zakresie art. 24 ust. 8, który wchodzi w życie z dniem 1 stycznia 2006 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 września 2001 r. o transporcie drogowym oraz ustawę z dnia 31 marca 2004 r. o przewozie koleją towarów niebezpiecznych. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz.U. z 2004 r. Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808 oraz z 2005 r. Nr 90, poz. 757.
 

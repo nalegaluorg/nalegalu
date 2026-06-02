@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-26 |
 | Data wydania | 2019-05-15 |
-| Wejście w życie | 2019-05-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000914) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/914/text.pdf) |
 
@@ -36,7 +35,7 @@ source: "eli-html"
 
 2. Odwołanie wnosi się za pośrednictwem Przewodniczącego, w terminie dwutygodniowym od dnia doręczenia uchwały z uzasadnieniem.
 
-3. Do postępowania przed Sądem Najwyższym stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm.) o skardze kasacyjnej. Przepisu art. 871 tej ustawy nie stosuje się. ” , uchyla się ust. 4.
+3. Do postępowania przed Sądem Najwyższym stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693, 2385 i 2432 oraz z 2019 r. poz. 55 i 60.) o skardze kasacyjnej. Przepisu art. 871 tej ustawy nie stosuje się. ” , uchyla się ust. 4.
 
 - **d)**
 
@@ -44,5 +43,5 @@ source: "eli-html"
 
 **Art. 3.** Postępowania w sprawach odwołań od uchwał Krajowej Rady Sądownictwa w sprawach indywidualnych dotyczących powołania do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, podlegają umorzeniu z mocy prawa.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693, 2385 i 2432 oraz z 2019 r. poz. 55 i 60.
 

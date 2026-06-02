@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwojuz dnia 20 stycznia 2020 r. zmieniające rozporządzenie w sprawie wymagań, którym powinny odpowiadać zbiorniki pomiarowe, oraz szczegółowego zakresu badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych
+# Rozporządzenie Ministra Rozwojuz dnia 20 stycznia 2020 r. zmieniające rozporządzenie w sprawie wymagań, którym powinny odpowiadać zbiorniki pomiarowe, oraz szczegółowego zakresu badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-20 |
 | Data wydania | 2020-02-04 |
-| Wejście w życie | 2020-02-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000168) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/168/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 9a ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2020 r. poz. 140) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 27 września 2019 r. pod numerem 2019/473/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 9a ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2020 r. poz. 140) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Gospodarki z dnia 22 stycznia 2008 r. w sprawie wymagań, którym powinny odpowiadać zbiorniki pomiarowe, oraz szczegółowego zakresu badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych (Dz. U. z 2014 r. poz. 1094) § 25 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Gospodarki z dnia 22 stycznia 2008 r. w sprawie wymagań, którym powinny odpowiadać zbiorniki pomiarowe, oraz szczegółowego zakresu badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych (Dz. U. z 2014 r. poz. 1094) § 25 otrzymuje brzmienie: „
 § 25.
 1.
 Cieczowskazy rurkowe powinny być wyposażone w rurki cieczowskazowe:
@@ -67,9 +65,7 @@ być przytwierdzone do zbiorników w sposób uniemożliwiający zmianę ich poł
 3)
 być usytuowane względem rurek cieczowskazowych w sposób określony w załączniku nr 1 do rozporządzenia.
 10.
-W zbiorniku wyposażonym w cieczowskaz, w którym na skutek różnicy temperatury cieczy i otoczenia mogą powstać różnice między poziomem cieczy w zbiorniku a poziomem cieczy w cieczowskazie, należy bezpośrednio przed dokonaniem pomiaru wysokości napełnienia komory zbiornika opróżnić cieczowskazy i napełnić je, za pomocą zaworów odcinających, cieczą przechowywaną w zbiorniku w celu wyrównania temperatury.
-” .
+W zbiorniku wyposażonym w cieczowskaz, w którym na skutek różnicy temperatury cieczy i otoczenia mogą powstać różnice między poziomem cieczy w zbiorniku a poziomem cieczy w cieczowskazie, należy bezpośrednio przed dokonaniem pomiaru wysokości napełnienia komory zbiornika opróżnić cieczowskazy i napełnić je, za pomocą zaworów odcinających, cieczą przechowywaną w zbiorniku w celu wyrównania temperatury. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 27 września 2019 r. pod numerem 2019/473/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 27 września 2019 r. pod numerem 2019/473/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 

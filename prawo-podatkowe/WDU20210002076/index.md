@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 29 października 2021 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
+# Ustawa z dnia 29 października 2021 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa oraz ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-29 |
 | Data wydania | 2021-11-18 |
-| Wejście w życie | 2022-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002076) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2076/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2021 r. poz. 685, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2021 r. poz. 685, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 694, 802, 1163, 1243, 1598 i 1626.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 po pkt 32 dodaje się pkt 32a w brzmieniu: „
 - **32a)** fakturze ustrukturyzowanej – rozumie się przez to fakturę wystawioną przy użyciu Krajowego Systemu e-Faktur wraz z przydzielonym numerem identyfikującym tę fakturę w tym systemie; ” ;
@@ -49,13 +48,13 @@ source: "eli-html"
 
 5b. Urząd skarbowy jest obowiązany dokonać zwrotu różnicy podatku, o której mowa w ust. 2, w terminie 40 dni, licząc od dnia złożenia rozliczenia, w przypadku gdy łącznie są spełnione następujące warunki:
 
-- **1)** w związku z wykonywaniem czynności, dla których występował obowiązek wystawienia faktur na podstawie art. 106b ust. 1: pkt 1 lub pkt 3, lub pkt 4 – w zakresie, w jakim dotyczy otrzymania całości lub części zapłaty przed dokonaniem czynności, o których mowa w art. 106b ust. 1 pkt 1, uwzględnionych w rozliczeniu podatnika za dany okres rozliczeniowy podatnik wystawiał wyłącznie faktury ustrukturyzowane,
+- **1)** w związku z wykonywaniem czynności, dla których występował obowiązek wystawienia faktur na podstawie art. 106b ust. 1: pkt 1 lub pkt 3, lub pkt 4 – w zakresie, w jakim dotyczy otrzymania całości lub części zapłaty przed dokonaniem czynności, o których mowa w art. 106b ust. 1 pkt 1, uwzględnionych w rozliczeniu podatnika za dany okres rozliczeniowy – podatnik wystawiał wyłącznie faktury ustrukturyzowane,
     - **a)**
     - **b)**
     - **c)**
 
 - **2)** kwota podatku naliczonego lub różnicy podatku, o której mowa w ust. 1, nierozliczona w poprzednich okresach rozliczeniowych i wykazana w deklaracji, nie przekracza 3000 zł,
-- **3)** podatnik przez kolejne 12 miesięcy poprzedzających bezpośrednio okres, w rozliczeniu za który występuje z wnioskiem o zwrot: był zarejestrowany jako podatnik VAT czynny, składał za każdy okres rozliczeniowy deklaracje, o których mowa w art. 99 ust. 1–3, posiadał rachunek rozliczeniowy lub imienny rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, zawarty w wykazie, o którym mowa w art. 96b ust. 1 przy czym przepisy ust. 2 zdanie drugie i trzecie, ust. 2a-2c oraz ust. 4a-4f stosuje się odpowiednio.
+- **3)** podatnik przez kolejne 12 miesięcy poprzedzających bezpośrednio okres, w rozliczeniu za który występuje z wnioskiem o zwrot: był zarejestrowany jako podatnik VAT czynny, składał za każdy okres rozliczeniowy deklaracje, o których mowa w art. 99 ust. 1–3, posiadał rachunek rozliczeniowy lub imienny rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, zawarty w wykazie, o którym mowa w art. 96b ust. 1 – przy czym przepisy ust. 2 zdanie drugie i trzecie, ust. 2a-2c oraz ust. 4a-4f stosuje się odpowiednio.
     - **a)**
     - **b)**
     - **c)**
@@ -80,9 +79,15 @@ source: "eli-html"
 
 - **b)**
 - **9)** w art. 106i w ust. 7 we wprowadzeniu do wyliczenia wyrazy „30. dnia” zastępuje się wyrazami „60. dnia”;
-- **10)** w art. 106j: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) podstawa opodatkowania lub kwota podatku wskazana w fakturze uległa zmianie, ” , – uchyla się pkt 2, – pkt 5 otrzymuje brzmienie: „ 5) stwierdzono pomyłkę w jakiejkolwiek pozycji faktury ” , w ust. 2: – uchyla się pkt 1, – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) numer identyfikujący w Krajowym Systemie e-Faktur fakturę, której dotyczy faktura korygująca – w przypadku faktury korygującej w postaci faktury ustrukturyzowanej; ” , – w pkt 3 lit. a otrzymuje brzmienie: „ a) określone w art. 106e ust. 1 pkt 1–5, ” , – uchyla się pkt 4, po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **10)** w art. 106j: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** podstawa opodatkowania lub kwota podatku wskazana w fakturze uległa zmianie, ” , – uchyla się pkt 2, pkt 5 otrzymuje brzmienie: „
+- **5)** stwierdzono pomyłkę w jakiejkolwiek pozycji faktury ” , w ust. 2: – uchyla się pkt 1, po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **b)**
+
+- **2a)** numer identyfikujący w Krajowym Systemie e-Faktur fakturę, której dotyczy faktura korygująca – w przypadku faktury korygującej w postaci faktury ustrukturyzowanej; ” , w pkt 3 lit. a otrzymuje brzmienie: „ określone w art. 106e ust. 1 pkt 1–5, ” , – uchyla się pkt 4, po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **a)**
     - **c)**
 
 2a. Faktura korygująca może zawierać:
@@ -123,7 +128,7 @@ source: "eli-html"
 - **3)** podmioty, o których mowa w art. 106c,
 - **4)** osoby fizyczne wskazane przez podmioty, o których mowa w art. 106c,
 - **5)** osoby fizyczne wskazane w zawiadomieniu o nadaniu lub odebraniu uprawnień do korzystania z Krajowego Systemu e-Faktur, którym podatnik lub podmioty, o których mowa w art. 106c, nadali uprawnienia do korzystania z tego systemu,
-- **6)** podmioty inne, niż wymienione w pkt 1–5, wskazane przez osoby fizyczne korzystające z Krajowego Systemu e-Faktur, jeżeli prawo do wskazywania innego podmiotu wynika z uprawnień nadanych tym osobom fizycznym uwierzytelnieni w sposób określony w przepisach wydanych na podstawie art. 106r pkt 3.
+- **6)** podmioty inne, niż wymienione w pkt 1–5, wskazane przez osoby fizyczne korzystające z Krajowego Systemu e-Faktur, jeżeli prawo do wskazywania innego podmiotu wynika z uprawnień nadanych tym osobom fizycznym – uwierzytelnieni w sposób określony w przepisach wydanych na podstawie art. 106r pkt 3.
 
 1. Faktura ustrukturyzowana jest wystawiana i otrzymywana przy użyciu Krajowego Systemu e-Faktur za pomocą oprogramowania interfejsowego, w postaci elektronicznej i zgodnie z wzorem dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
@@ -154,7 +159,7 @@ source: "eli-html"
 - **1)** rodzaje uprawnień do korzystania z Krajowego Systemu e-Faktur,
 - **2)** sposoby nadawania, zmiany lub odbierania uprawnień do korzystania z Krajowego Systemu e-Faktur oraz wzór zawiadomienia o nadaniu lub odebraniu tych uprawnień,
 - **3)** sposoby uwierzytelnienia podmiotów korzystających z Krajowego Systemu e-Faktur,
-- **4)** dane faktury ustrukturyzowanej, których podanie umożliwia dostęp do tej faktury w Krajowym Systemie e-Faktur uwzględniając konieczność zapewnienia prawidłowej identyfikacji i weryfikacji podmiotów, o których mowa w art. 106nb, oraz zapewnienia dostępu do faktur ustrukturyzowanych i możliwości zapoznania się z ich treścią. ” ;
+- **4)** dane faktury ustrukturyzowanej, których podanie umożliwia dostęp do tej faktury w Krajowym Systemie e-Faktur – uwzględniając konieczność zapewnienia prawidłowej identyfikacji i weryfikacji podmiotów, o których mowa w art. 106nb, oraz zapewnienia dostępu do faktur ustrukturyzowanych i możliwości zapoznania się z ich treścią. ” ;
 - **15)** po art. 112a dodaje się art. 112aa w brzmieniu: „ Art. 112aa.
 
 1. Faktury ustrukturyzowane są przechowywane w Krajowym Systemie e-Faktur przez okres 10 lat, licząc od końca roku, w którym zostały wystawione. Przepisów art. 112 i art. 112a nie stosuje się.
@@ -165,7 +170,7 @@ source: "eli-html"
 
 § 1a. Przepisu § 1 nie stosuje się do faktur ustrukturyzowanych w rozumieniu art. 2 pkt 32a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. ” .
 
-**Art. 3.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2021 r. poz. 422, z późn. zm.) w art. 35:
+**Art. 3.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2021 r. poz. 422, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 464, 694, 802, 815, 954, 1003, 1005 i 1718.) w art. 35:
 
 - **1)** w ust. 3 w pkt 1 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „ Krajowego Systemu e-Faktur, o którym mowa w ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług; ” ;
     - **f)**
@@ -197,5 +202,5 @@ source: "eli-html"
 
 3. Organem właściwym, który monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz wdraża mechanizm korygujący, o którym mowa w ust. 2, jest minister właściwy do spraw finansów publicznych.
 
-**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r.
+**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa oraz ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 694, 802, 1163, 1243, 1598 i 1626. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 464, 694, 802, 815, 954, 1003, 1005 i 1718.
 

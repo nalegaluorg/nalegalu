@@ -48,13 +48,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 12 stycznia 2011 r. w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych do diagnostyki in vitro (Dz. U. Nr 16, poz. 75), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 10 kwietnia 2012 r. zmieniającym rozporządzenie w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych do diagnostyki in vitro (Dz. U. poz. 423).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 10 kwietnia 2012 r. zmieniającego rozporządzenie w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych do diagnostyki in vitro (Dz. U. poz. 423), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 10 kwietnia 2012 r. zmieniającego rozporządzenie w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych do diagnostyki in vitro (Dz. U. poz. 423), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2012 r., z wyjątkiem § 1 pkt 1, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Tekst jednolity rozporządzenia Ministra Zdrowia z dnia 12 stycznia 2011 r. w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych do diagnostyki in vitro
-Na podstawie art. 23 ust. 3 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. Nr 107, poz. 679 oraz z 2011 r. Nr 102, poz. 586 i Nr 113, poz. 657) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2012 r., z wyjątkiem § 1 pkt 1, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Zdrowia z dnia 12 stycznia 2011 r. w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych do diagnostyki in vitroMinister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. Nr 248, poz. 1495 i Nr 284, poz. 1672).
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy 98/79/WE Parlamentu Europejskiego i Rady z dnia 27 października 1998 r. w sprawie wyrobów medycznych używanych do diagnozy in vitro (Dz. Urz. WE L 331 z 07.12.1998, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 21, str. 319). Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy Komisji 2011/100/UE z dnia 20 grudnia 2011 r. zmieniającej dyrektywę 98/79/WE Parlamentu Europejskiego i Rady w sprawie wyrobów medycznych używanych do diagnozy in vitro (Dz. Urz. UE L 341 z 22.12.2011, str. 50). Na podstawie art. 23 ust. 3 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. Nr 107, poz. 679 oraz z 2011 r. Nr 102, poz. 586 i Nr 113, poz. 657) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -106,12 +104,12 @@ Autoryzowany przedstawiciel może przeprowadzić ocenę zgodności wyrobu medycz
 § 10.
 Certyfikaty zgodności, wydane przez jednostki notyfikowane zgodnie z załącznikami nr 3–5 do rozporządzenia, są ważne nie dłużej niż przez okres 5 lat i mogą być przedłużane, na wniosek wytwórcy lub autoryzowanego przedstawiciela złożony w terminie uzgodnionym umową, na kolejne okresy, nie dłuższe niż 5 lat.
 § 11.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. Nr 248, poz. 1495 i Nr 284, poz. 1672). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy 98/79/WE Parlamentu Europejskiego i Rady z dnia 27 października 1998 r. w sprawie wyrobów medycznych używanych do diagnozy in vitro (Dz. Urz. WE L 331 z 07.12.1998, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 21, str. 319). Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy Komisji 2011/100/UE z dnia 20 grudnia 2011 r. zmieniającej dyrektywę 98/79/WE Parlamentu Europejskiego i Rady w sprawie wyrobów medycznych używanych do diagnozy in vitro (Dz. Urz. UE L 341 z 22.12.2011, str. 50). 3) Rozporządzenie zostało ogłoszone w dniu 24 stycznia 2011 r.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 24 stycznia 2011 r.. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. Nr 248, poz. 1495 i Nr 284, poz. 1672). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy 98/79/WE Parlamentu Europejskiego i Rady z dnia 27 października 1998 r. w sprawie wyrobów medycznych używanych do diagnozy in vitro (Dz. Urz. WE L 331 z 07.12.1998, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 21, str. 319). Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy Komisji 2011/100/UE z dnia 20 grudnia 2011 r. zmieniającej dyrektywę 98/79/WE Parlamentu Europejskiego i Rady w sprawie wyrobów medycznych używanych do diagnozy in vitro (Dz. Urz. UE L 341 z 22.12.2011, str. 50). 3) Rozporządzenie zostało ogłoszone w dniu 24 stycznia 2011 r.
 
 ## Załącznik nr 1 — – Wymagania zasadnicze dla wyrobów medycznych do diagnostyki in vitro
 
-Część I. Wymagania ogólne
+Część I.
+Wymagania ogólne
 1.
 Wyroby medyczne do diagnostyki in vitro muszą być tak zaprojektowane i wytworzone, aby ich stosowanie w przewidzianych warunkach i zgodnie z przewidzianym zastosowaniem nie zagrażało bezpośrednio ani pośrednio zdrowiu i bezpieczeństwu pacjentów, użytkowników oraz innych osób. Ryzyko związane z używaniem wyrobu medycznego do diagnostyki in vitro może być dopuszczone pod warunkiem wyważenia korzyści wynikających z jego zastosowania dla pacjenta, z zachowaniem wysokich wymagań w zakresie bezpieczeństwa i ochrony zdrowia.
 2.
@@ -128,7 +126,8 @@ Wyroby medyczne do diagnostyki in vitro muszą być zaprojektowane i wytworzone 
 Właściwości i parametry działania, o których mowa w ust. 1–3, nie mogą ulec pogorszeniu w stopniu powodującym, że zdrowie i bezpieczeństwo pacjentów lub użytkowników oraz, jeżeli ma to zastosowanie, innych osób mogą być zagrożone podczas wskazanego przez wytwórcę okresu użytkowania wyrobu medycznego do diagnostyki in vitro, jeżeli wyrób ten podlega obciążeniom, które mogą wystąpić w normalnych warunkach używania. Jeżeli wytwórca nie określił okresu użytkowania wyrobu medycznego do diagnostyki in vitro, należy przyjąć taki okres, jaki jest przyjmowany dla tego rodzaju wyrobów, uwzględniając przewidziane zastosowanie i cel używania wyrobu.
 5.
 Wyroby medyczne do diagnostyki in vitro muszą być zaprojektowane, wytworzone i opakowane w sposób uniemożliwiający pogorszenie się ich właściwości i parametrów działania w przewidzianym okresie użytkowania, na skutek warunków transportu i składowania, z uwzględnieniem instrukcji i informacji dostarczanych przez wytwórcę.
-Część II. Wymagania dotyczące projektu i wykonania
+Część II.
+Wymagania dotyczące projektu i wykonania
 1.
 Właściwości chemiczne i fizyczne
 1.1.
@@ -162,8 +161,7 @@ Wyroby medyczne do diagnostyki in vitro muszą być zaprojektowane i wytworzone 
 1)
 urazu związane z ich właściwościami fizycznymi, w szczególności z parametrem objętość x ciśnienie, wymiarami i cechami ergonomicznymi;
 2)
-związane z dającymi się przewidzieć wpływami czynników zewnętrznych, takich jak: pola magnetyczne, zewnętrzne oddziaływania elektryczne, wyładowania elektrostatyczne, ciśnienie lub jego zmiany, wilgotność, temperatura, przyspieszenie i przypadkowe wniknięcie substancji obcych do wyrobu medycznego do diagnostyki in vitro.
-Wyroby medyczne do diagnostyki in vitro muszą być zaprojektowane i wytworzone w sposób zapewniający im odpowiedni poziom własnej odporności na zakłócenia elektromagnetyczne, umożliwiający ich działanie zgodne z przewidzianym zastosowaniem.
+związane z dającymi się przewidzieć wpływami czynników zewnętrznych, takich jak: pola magnetyczne, zewnętrzne oddziaływania elektryczne, wyładowania elektrostatyczne, ciśnienie lub jego zmiany, wilgotność, temperatura, przyspieszenie i przypadkowe wniknięcie substancji obcych do wyrobu medycznego do diagnostyki in vitro. Wyroby medyczne do diagnostyki in vitro muszą być zaprojektowane i wytworzone w sposób zapewniający im odpowiedni poziom własnej odporności na zakłócenia elektromagnetyczne, umożliwiający ich działanie zgodne z przewidzianym zastosowaniem.
 3.4.
 Wyroby medyczne do diagnostyki in vitro muszą być zaprojektowane i wytworzone w sposób minimalizujący ryzyko zapalenia się lub wybuchu podczas normalnego używania, w stanie normalnym i w stanie pojedynczego uszko dzenia, ze szczególnym uwzględnieniem wyrobów medycznych do diagnostyki in vitro, których przewidziane zastosowanie wiąże się z narażeniem na kontakt z substancjami łatwopalnymi lub mogącymi powodować zapłon, lub które są używane z tymi substancjami.
 3.5.
@@ -224,7 +222,7 @@ Informacje dostarczane przez wytwórcę
 Do każdego wyrobu medycznego do diagnostyki in vitro należy dołączyć informacje potrzebne do jego bezpiecznego i właściwego używania, zredagowane odpowiednio do poziomu wyszkolenia i wiedzy potencjalnych użytkowników, oraz informacje konieczne do identyfikacji wytwórcy. Informacje te obejmują dane zamieszczone w oznakowaniu i instrukcjach używania. Informacje potrzebne do bezpiecznego i właściwego używania wyrobu medycznego do diagnostyki in vitro powinny znajdować się na samym wyrobie lub opakowaniu handlowym, jeżeli jest to możliwe. Jeżeli osobne pełne oznakowanie każdej sztuki nie jest możliwe, informacje muszą być podane na opakowaniu lub w instrukcji używania dostarczanej z jednym lub większą liczbą wyrobów medycznych do diagnostyki in vitro. Instrukcje używania muszą towarzyszyć lub znajdować się w opakowaniu jednego lub większej liczby wyrobów medycznych do diagnostyki in vitro. W uzasadnionych i wyjątkowych przypadkach dopuszcza się niedołączanie instrukcji używania do wyrobów medycznych do diagnostyki in vitro, które można bezpiecznie i właściwie używać bez instrukcji. Wytwórca musi uwzględnić przepisy państwa członkowskiego, w którym wyroby medyczne do diagnostyki in vitro mają być używane, dotyczące języka lub języków, na które powinny być przetłumaczone oznakowania i instrukcje używania tych wyrobów, a w przypadku wyrobów do samokontroli, oznakowania i instrukcje używania muszą być przetłumaczone na urzędowy język lub urzędowe języki państwa członkowskiego, w którym wyrób do samokontroli ma dotrzeć do użytkownika końcowego.
 8.2.
 Zaleca się, aby informacje miały postać symboli. Każdy użyty symbol i kolor identyfikacyjny musi być zgodny z normami zharmonizowanymi. W przypadkach gdy normy zharmonizowane nie określają odpowiednich symboli lub kolorów identyfikacyjnych, zastosowane symbole i kolory opisuje się w dokumentacji dostarczanej z wyrobem medycznym do diagnostyki in vitro.
-8.3.
+8.3W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 10 kwietnia 2012 r. zmieniającego rozporządzenie w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych do diagnostyki in vitro (Dz. U. poz. 423), które weszło w życie z dniem 1 lipca 2012 r.; wszedł w życie z dniem 3 maja 2012 r..
 W przypadku wyrobów medycznych do diagnostyki in vitro, które zawierają substancję lub mieszaninę substancji, które można uznać za niebezpieczne z uwagi na ich rodzaj, ilość składników oraz postać, w jakiej występują, wyma gania dotyczące odpowiednich symboli i oznakowania określają przepisy dotyczące substancji chemicznych i ich mieszanin. W przypadku gdy na wyrobie medycznym do diagnostyki in vitro lub jego etykiecie nie ma miejsca, aby zamieścić wymagane informacje, na etykiecie umieszcza się odpowiednie symbole ostrzegawcze, a pozostałe informacje zamieszcza w instrukcji używania. Jeżeli wszystkie istotne informacje umieszczono w instrukcji używania wyrobu medycznego do diagnostyki in vitro, nie stosuje się do niego przepisów dotyczących karty charakterystyki określonych w przepisach dotyczących substancji chemicznych i ich mieszanin.
 8.4.
 Oznakowanie zawiera w szczególności następujące elementy, które mogą mieć także postać symboli:
@@ -319,7 +317,7 @@ informacje muszą zawierać wyraźne ostrzeżenie, że użytkownik nie powinien 
 d)
 w przypadku wyrobu medycznego do diagnostyki in vitro używanego do monitorowania istniejącego stanu chorobowego, informację o tym, że pacjent może wprowadzać zmiany do leczenia tylko wtedy, jeżeli odbył właściwe przeszkolenie;
 21)
-datę wydania albo ostatniej aktualizacji instrukcji używania.
+datę wydania albo ostatniej aktualizacji instrukcji używania. 4) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 10 kwietnia 2012 r. zmieniającego rozporządzenie w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych do diagnostyki in vitro (Dz. U. poz. 423), które weszło w życie z dniem 1 lipca 2012 r.; wszedł w życie z dniem 3 maja 2012 r.
 
 ## Załącznik nr 2 — – Wykaz A i wykaz B wyrobów medycznych do diagnostyki in vitro
 
@@ -328,9 +326,8 @@ Wykaz A
 Odczynniki oraz produkty odczynnikowe, łącznie z odpowiednimi kalibratorami i materiałami kontrolnymi, do oznaczania następujących grup krwi: układ AB0, układ Rh (C, c, D, E, e), antygeny Kell.
 2.
 Odczynniki oraz produkty odczynnikowe, łącznie z odpowiednimi kalibratorami i materiałami kontrolnymi, do wykrywania, potwierdzania i ilościowego oznaczania w ludzkich próbkach markerów zakażenia HIV (HIV 1 i 2), HTLV I i II oraz zapalenia wątroby typu B, C i D.
-3.
-Testy do przesiewowych, diagnostycznych i potwierdzających badań krwi w kierunku wariantu choroby Creutzfeldta-Jakoba (vCJD).
-Wykaz B
+3Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4..
+Testy do przesiewowych, diagnostycznych i potwierdzających badań krwi w kierunku wariantu choroby Creutzfeldta-Jakoba (vCJD). Wykaz B
 1.
 Odczynniki oraz produkty odczynnikowe, łącznie z odpowiednimi wzorcami kalibracyjnymi i materiałami kontrolnymi, do ustalania grup krwi – antygeny Duffy i Kidd.
 2.
@@ -348,7 +345,7 @@ Odczynniki oraz produkty odczynnikowe, łącznie z odpowiednimi kalibratorami i 
 8.
 Odczynniki oraz produkty odczynnikowe, łącznie z odpowiednimi kalibratorami i materiałami kontrolnymi oraz oprogramowaniem, przeznaczone specjalnie do oceny ryzyka trisomii 21.
 9.
-Wyrób do samokontroli, łącznie z odpowiednimi kalibratorami i materiałami kontrolnymi, służący do mierzenia stężenia cukru we krwi.
+Wyrób do samokontroli, łącznie z odpowiednimi kalibratorami i materiałami kontrolnymi, służący do mierzenia stężenia cukru we krwi. 5) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.
 
 ## Załącznik nr 3 — – Deklaracja zgodności WE
 
@@ -462,8 +459,7 @@ procedur dotyczących zaopatrzenia,
 c)
 procedur identyfikacji wyrobu medycznego do diagnostyki in vitro, opracowanych i aktualizowanych na podstawie rysunków, specyfikacji lub innych odpowiednich dokumentów na każdym etapie wytwarzania;
 5)
-odpowiednich prób i badań, które będą przeprowadzane przed, w trakcie i po wytworzeniu, określenia częstości, z jaką będą przeprowadzane, oraz opis używanego wyposażenia do badań; musi być możliwe wsteczne prześledzenie wzorcowania.
-Wytwórca przeprowadza kontrole i badania z uwzględnieniem aktualnego stanu wiedzy. Kontrole i badania powinny obejmować proces wytwarzania, łącznie z właściwościami surowców, i dotyczyć pojedynczych wyrobów lub każdej partii wytwarzanych wyrobów medycznych do diagnostyki in vitro. Przy badaniu wyrobów medycznych do diagnostyki in vitro wymienionych w wykazie A określonym w załączniku nr 2 do rozporządzenia wytwórca uwzględnia najnowsze dostępne informacje, w szczególności dotyczące biologicznej złożoności i zmienności próbek, które mają być badane za pomocą danych wyrobów medycznych do diagnostyki in vitro.
+odpowiednich prób i badań, które będą przeprowadzane przed, w trakcie i po wytworzeniu, określenia częstości, z jaką będą przeprowadzane, oraz opis używanego wyposażenia do badań; musi być możliwe wsteczne prześledzenie wzorcowania. Wytwórca przeprowadza kontrole i badania z uwzględnieniem aktualnego stanu wiedzy. Kontrole i badania powinny obejmować proces wytwarzania, łącznie z właściwościami surowców, i dotyczyć pojedynczych wyrobów lub każdej partii wytwarzanych wyrobów medycznych do diagnostyki in vitro. Przy badaniu wyrobów medycznych do diagnostyki in vitro wymienionych w wykazie A określonym w załączniku nr 2 do rozporządzenia wytwórca uwzględnia najnowsze dostępne informacje, w szczególności dotyczące biologicznej złożoności i zmienności próbek, które mają być badane za pomocą danych wyrobów medycznych do diagnostyki in vitro.
 3.3.
 Jednostka notyfikowana dokonuje audytu systemu jakości w celu ustalenia, czy spełnia wymagania, o których mowa w ust. 3.2, przyjmując przy tym domniemanie, że system jakości, w przypadku którego wdrożono odpowiednie normy zharmonizowane, jest zgodny z tymi wymaganiami. Zespół oceniający musi posiadać doświadczenie w ocenie danej technologii. Procedura oceny obejmuje inspekcję w zakładzie wytwórcy, a także, w uzasadnionych przypadkach, w zakładach dostawców lub podwykonawców wytwórcy w celu kontroli procesów wytwarzania. Jednostka notyfikowana powiadamia wytwórcę o wyniku inspekcji oraz przedstawia wnioski wraz z uzasadnieniami.
 3.4.

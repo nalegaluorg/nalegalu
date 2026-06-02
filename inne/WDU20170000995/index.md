@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 10 maja 2017 r. w sprawie funkcjonowania schematu płatniczego
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 10 maja 2017 r. w sprawie funkcjonowania schematu płatniczego Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-05-10 |
 | Data wydania | 2017-05-22 |
-| Wejście w życie | 2017-06-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000995) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/995/text.pdf) |
 
@@ -102,8 +101,7 @@ w zakresie działalności polegającej na przetwarzaniu transakcji płatniczych 
 a)
 struktury i procedur podejmowania decyzji,
 b)
-sposobu ustalania kosztów
-− jeżeli działalność ta nie została powierzona podmiotowi trzeciemu;
+sposobu ustalania kosztów − jeżeli działalność ta nie została powierzona podmiotowi trzeciemu;
 14)
 zasady i tryb nawiązywania współpracy z akceptantami w ramach schematu płatniczego;
 15)
@@ -226,6 +224,5 @@ Organizacja kartowa przekazuje pierwszą kwartalną informację w zakresie okre�
 3.
 Przepis § 6 ust. 2 stosuje się do incydentów, które wystąpiły po dniu wejścia w życie rozporządzenia.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 

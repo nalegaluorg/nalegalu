@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-04-19 |
 | Data wydania | 2016-04-29 |
-| Wejście w życie | 2016-04-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000606) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/606/text.pdf) |
 
@@ -39,8 +38,7 @@ W rozporządzeniu Ministra Infrastruktury z dnia 6 października 2004 r. w spraw
 1)
 w § 2 w ust. 2 uchyla się pkt 2;
 2)
-§ 3–5 otrzymują brzmienie:
-„
+§ 3–5 otrzymują brzmienie: „
 § 3.
 Oceny zdolności fizycznej i psychicznej do służby w straży ochrony kolei dokonuje się po przeprowadzeniu profilaktycznych badań lekarskich wstępnych, okresowych lub kontrolnych, obejmujących:
 1)
@@ -66,46 +64,35 @@ badanie psychologiczne.
 § 4.
 Zasady badania narządu wzroku oraz wymagania dotyczące narządu wzroku określa załącznik nr 1 do rozporządzenia.
 § 5.
-Zasady badania narządu słuchu i równowagi oraz wymagania dotyczące narządu słuchu i równowagi określa załącznik nr 2 do rozporządzenia.
-” ;
+Zasady badania narządu słuchu i równowagi oraz wymagania dotyczące narządu słuchu i równowagi określa załącznik nr 2 do rozporządzenia. ” ;
 3)
-w § 9 ust. 1 i 2 otrzymują brzmienie:
-„
+w § 9 ust. 1 i 2 otrzymują brzmienie: „
 1.
 Badania okresowe funkcjonariuszy straży ochrony kolei przeprowadza się co 3 lata do ukończenia 50. roku życia, a po ukończeniu 50. roku życia co 2 lata.
 2.
-Badania psychologiczne przeprowadza się w ramach badań wstępnych i okresowych w odstępach czasowych dwukrotnie dłuższych niż określone w ust. 1 oraz w innych przypadkach ustalonych przez lekarza orzekającego.
-” ;
+Badania psychologiczne przeprowadza się w ramach badań wstępnych i okresowych w odstępach czasowych dwukrotnie dłuższych niż określone w ust. 1 oraz w innych przypadkach ustalonych przez lekarza orzekającego. ” ;
 4)
 uchyla się § 13;
 5)
-w § 14 pkt 2 i 3 otrzymują brzmienie:
-„
+w § 14 pkt 2 i 3 otrzymują brzmienie: „
 2)
 spełnia wymagania dotyczące narządu wzroku oraz narządu słuchu i równowagi, określone w załącznikach nr 1 i 2 do rozporządzenia;
 3)
-w wyniku badania psychiatrycznego nie stwierdzono zaburzeń psychicznych, uzależnienia od alkoholu lub substancji psychoaktywnych, a w wyniku badania psychologicznego nie stwierdzono istotnych odchyleń.
-” ;
+w wyniku badania psychiatrycznego nie stwierdzono zaburzeń psychicznych, uzależnienia od alkoholu lub substancji psychoaktywnych, a w wyniku badania psychologicznego nie stwierdzono istotnych odchyleń. ” ;
 6)
-w § 16 ust. 2 i 3 otrzymują brzmienie:
-„
+w § 16 ust. 2 i 3 otrzymują brzmienie: „
 2.
 Lekarz orzekający, który wydał orzeczenie lekarskie, przekazuje odwołanie w terminie 7 dni od dnia złożenia odwołania do komisji lekarskiej orzekającej w trybie odwoławczym wraz z dokumentacją medyczną badania stanowiącego podstawę wydania orzeczenia.
 3.
-Komisją lekarską orzekającą w trybie odwoławczym jest komisja lekarska w Centrum Naukowym Medycyny Kolejowej.
-” ;
+Komisją lekarską orzekającą w trybie odwoławczym jest komisja lekarska w Centrum Naukowym Medycyny Kolejowej. ” ;
 7)
-w § 17 ust. 1 otrzymuje brzmienie:
-„
+w § 17 ust. 1 otrzymuje brzmienie: „
 1.
-Komisja lekarska orzekająca w trybie odwoławczym do udziału w pracach komisji może zaprosić psychologa.
-” ;
+Komisja lekarska orzekająca w trybie odwoławczym do udziału w pracach komisji może zaprosić psychologa. ” ;
 8)
-w § 18 w ust. 1 pkt 2 otrzymuje brzmienie:
-„
+w § 18 w ust. 1 pkt 2 otrzymuje brzmienie: „
 2)
-wyników badań określonych w § 3 pkt 2–10, których wykonanie komisja uzna za niezbędne;
-” ;
+wyników badań określonych w § 3 pkt 2–10, których wykonanie komisja uzna za niezbędne; ” ;
 9)
 załączniki nr 1 i 2 do rozporządzenia otrzymują brzmienie określone odpowiednio w załączniku nr 1 i 2 do niniejszego rozporządzenia;
 10)

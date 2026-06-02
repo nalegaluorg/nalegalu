@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000981) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/981/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Rozwoju Regionalnego z dnia 4 września 2012 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał Ludzki Rozdział 1 – Przepisy ogólne Rozdział 2 – Przepisy wspólne dotyczące udzielania przedsiębiorcom pomocy publicznej w ramach Priorytetu II Programu Operacyjnego Kapitał Ludzki Rozdział 3 – Szczegółowe przeznaczenie i warunki udzielania wsparcia na rozwój kapitału ludzkiego, wzmacnianie potencjału adaptacyjnego przedsiębiorców oraz wsparcia z przeznaczeniem na projekt innowacyjny Rozdział 4 – Szczegółowe przeznaczenie i warunki udzielania wsparcia na podnoszenie kwalifikacji kadry szkoleniowej Rozdział 4a – Szczegółowe przeznaczenie i warunki udzielania wsparcia na rozwój kapitału ludzkiego w formie staży u przedsiębiorcy Rozdział 5 – Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz rozwoju gospodarczego wsparcia na prowadzenie punktu konsultacyjnego Rozdział 6 – Szczegółowe przeznaczenie i warunki udzielania wsparcia na przetestowanie i wdrożenie usług pilotażowych lub na świadczenie usług uprzednio przetestowanych i wdrożonych jako usługi pilotażowe Rozdział 7 – Szczegółowe przeznaczenie i warunki udzielania wsparcia dla systemu adaptacyjności kadr poprzez promowanie postaw przedsiębiorczych Rozdział 7a – Szczegółowe przeznaczenie i warunki udzielania wsparcia na zindywidualizowane usługi doradcze w formie opieki mentorskiej dla kobiet planujących rozpoczęcie albo rozwój prowadzonej działalności gospodarczej Rozdział 8 – Szczegółowe przeznaczenie i warunki udzielania pomocy finansowej w formie finansowania kosztów usług świadczonych odbiorcom tych usług przez wykonawców wybranych przez Agencję Rozdział 9 – Szczegółowe przeznaczenie i warunki udzielania pomocy finansowej w formie pożyczek na pokrycie kosztów udziału w szkoleniach Rozdział 10 – Tryb udzielania pomocy finansowej Rozdział 11 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Rozwoju Regionalnego z dnia 4 września 2012 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał Ludzki
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju Regionalnego z dnia 4 września 2012 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 1064), z uwzględnieniem zmian wprowadzonych:
@@ -37,16 +37,13 @@ rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 30 czerwca 2014 r. zmi
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 i § 3 rozporządzenia Ministra Rozwoju Regionalnego z dnia 15 listopada 2013 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 1370), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Rozwoju Regionalnego z dnia 15 listopada 2013 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 1370), które stanowią: „
 § 2.
 Do umów o udzielenie wsparcia na rozwój kapitału ludzkiego oraz na wzmacnianie potencjału adaptacyjnego przedsiębiorców, zawieranych na podstawie wniosków o udzielenie wsparcia złożonych po dniu 25 września 2012 r., stosuje się przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2–4 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 30 czerwca 2014 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 901), które stanowią:
-„
+§ 2–4 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 30 czerwca 2014 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 901), które stanowią: „
 § 2.
 1.
 Do umów o udzielenie wsparcia zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe, z zastrzeżeniem ust. 3 i § 3.
@@ -57,10 +54,10 @@ Do pomocy de minimis udzielanej od dnia 1 lipca 2014 r. w ramach umów zawartych
 § 3.
 Przepisy § 6 ust. 2, § 8, § 9 ust. 6 i 7, § 14 ust. 1 pkt 2 i 3 oraz ust. 2, § 17 ust. 5, § 19 ust. 4, § 20 ust. 4, § 28 ust. 1 pkt 2 i ust. 5 pkt 1 rozporządzenia zmienianego w § 1 oraz przepisy § 14 ust. 7a i 7b rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie do umów o udzielenie pomocy finansowej zawartych do dnia 31 grudnia 2014 r.
 § 4.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 lipca 2014 r., z wyjątkiem przepisów § 1 pkt 3, 4 lit. a tiret pierwsze w zakresie dodawanego pkt 9, lit. b i lit. f oraz pkt 6, które wchodzą w życie z dniem 1 stycznia 2015 r.
-” .
-Załącznik – Rozporządzenie Ministra Rozwoju Regionalnego z dnia 4 września 2012 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał Ludzki
-Na podstawie art. 6b ust. 10 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2014 r. poz. 1804) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 lipca 2014 r., z wyjątkiem przepisów § 1 pkt 3, 4 lit. a tiret pierwsze w zakresie dodawanego pkt 9, lit. b i lit. f oraz pkt 6, które wchodzą w życie z dniem 1 stycznia 2015 r. ” .
+Załącznik – Rozporządzenie Ministra Rozwoju Regionalnego z dnia 4 września 2012 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał LudzkiObecnie działem administracji rządowej – rozwój regionalny kieruje Minister Infrastruktury i Rozwoju, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Rozwoju (Dz. U. poz. 1257).
+Zgodnie z art. 25 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2014 r. poz. 1649 oraz z 2015 r. poz. 349) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Kapitał Ludzki. Na podstawie art. 6b ust. 10 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2014 r. poz. 1804) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości, zwaną dalej „Agencją”, pomocy finansowej w ramach niektórych działań Priorytetu II Programu Operacyjnego Kapitał Ludzki.
 § 2.
@@ -69,13 +66,13 @@ Ilekroć w rozporządzeniu jest mowa o:
 1)
 leasingu – należy przez to rozumieć leasing w rozumieniu Międzynarodowych Standardów Rachunkowości, o których mowa w rozporządzeniu Komisji (WE) nr 1126/2008 z dnia 3 listopada 2008 r. przyjmującym określone międzynarodowe standardy rachunkowości zgodnie z rozporządzeniem (WE) nr 1606/2002 Parlamentu Europejskiego i Rady (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 320 z 29.11.2008, str. 1, z późn. zm.);
 2)
-mikroprzedsiębiorcy, małym lub średnim przedsiębiorcy – należy przez to rozumieć odpowiednio mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo spełniające warunki określone w załączniku I do rozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólne rozporządzenie w sprawie wyłączeń blokowych) (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 214 z 09.08.2008, str. 3), zwanego dalej „rozporządzeniem Komisji”;
-2a)
+mikroprzedsiębiorcy, małym lub średnim przedsiębiorcy – należy przez to rozumieć odpowiednio mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo spełniające warunki określone w załączniku I do rozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólne rozporządzenie w sprawie wyłączeń blokowych) (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 214 z 09.08.2008, str. 3)Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r., zwanego dalej „rozporządzeniem Komisji”;
+2aDodany przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 30 czerwca 2014 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 901), które weszło w życie z mocą od dnia 1 lipca 2014 r.)
 jednym przedsiębiorcy – należy przez to rozumieć jedno przedsiębiorstwo w rozumieniu art. 2 ust. 2 rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 352 z 24.12.2013, str. 1);
 3)
-beneficjencie pomocy – należy przez to rozumieć podmiot, o którym mowa w art. 2 pkt 16 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.);
+beneficjencie pomocy – należy przez to rozumieć podmiot, o którym mowa w art. 2 pkt 16 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.);
 4)
-osobie niepełnosprawnej – należy przez to rozumieć osobę, o której mowa w art. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.);
+osobie niepełnosprawnej – należy przez to rozumieć osobę, o której mowa w art. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645, z 2014 r. poz. 598, 877, 1198, 1457 i 1873 oraz z 2015 r. poz. 218 i 493.);
 5)
 podwykonawcy – należy przez to rozumieć podmiot wykonujący zadania zlecone w ramach projektu przez projektodawcę;
 6)
@@ -93,9 +90,9 @@ wykonuje pracę w branży lub zawodzie, w których różnica pomiędzy liczbą z
 f)
 jest członkiem mniejszości narodowej lub etnicznej w rozumieniu ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. z 2015 r. poz. 573), który w celu zwiększenia szans na uzyskanie dostępu do stałego zatrudnienia musi poprawić znajomość języka, uzupełnić szkolenia zawodowe lub zwiększyć doświadczenie zawodowe;
 7)
-szkoleniu ogólnym – należy przez to rozumieć szkolenie określone w art. 38 pkt 2 rozporządzenia Komisji ;
+szkoleniu ogólnym – należy przez to rozumieć szkolenie określone w art. 38 pkt 2 rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r.;
 8)
-szkoleniu specjalistycznym – należy przez to rozumieć szkolenie określone w art. 38 pkt 1 rozporządzenia Komisji ;
+szkoleniu specjalistycznym – należy przez to rozumieć szkolenie określone w art. 38 pkt 1 rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r.;
 9)
 środkach trwałych oraz wartościach niematerialnych i prawnych – należy przez to rozumieć środki trwałe oraz wartości niematerialne i prawne w rozumieniu przepisów o rachunkowości;
 10)
@@ -107,7 +104,7 @@ Kwoty pomocy publicznej i pomocy de minimis wyrażone w euro przelicza się na z
 § 3.
 1.
 Pomoc finansowa może być udzielona, z zachowaniem warunków określonych w rozporządzeniu, w formie:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rozwoju Regionalnego z dnia 15 listopada 2013 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 1370), które weszło w życie z dniem 26 listopada 2013 r.)
 bezzwrotnego wsparcia finansowego, zwanego dalej „wsparciem”, podmiotom określonym w § 9 ust. 2–4, § 18 ust. 1, § 21 ust. 1, § 23 ust. 1, § 24 ust. 1 oraz w § 26a ust. 1;
 2)
 finansowania kosztów usług świadczonych przez wykonawców bezpłatnie lub za odpłatnością niższą od ceny rynkowej odbiorcom tych usług;
@@ -120,24 +117,24 @@ udzielona na działalność związaną z wywozem, jeżeli pomoc ta jest bezpośr
 2)
 uwarunkowana pierwszeństwem użycia towarów produkcji krajowej w stosunku do towarów sprowadzanych z zagranicy;
 3)
-udzielona przedsiębiorcy zajmującemu się przetwarzaniem i wprowadzaniem do obrotu produktów rolnych określonych w art. 2 pkt 22 rozporządzenia Komisji , jeżeli:
+udzielona przedsiębiorcy zajmującemu się przetwarzaniem i wprowadzaniem do obrotu produktów rolnych określonych w art. 2 pkt 22 rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r., jeżeli:
 a)
 wartość pomocy byłaby ustalana na podstawie ceny lub ilości takich produktów nabytych od producentów surowców lub wprowadzonych na rynek przez przedsiębiorców objętych pomocą lub
 b)
 przyznanie pomocy zależałoby od przekazania jej w części lub w całości producentom surowców;
-4)
+4W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.)
 udzielona ani wypłacona podmiotowi, na którym ciąży obowiązek zwrotu pomocy wynikający z wcześniejszej decyzji Komisji Europejskiej, uznającej pomoc za niezgodną z prawem i wspólnym rynkiem, z wyjątkiem pomocy de minimis , o której mowa w § 6 ust. 1;
-5)
+5W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.)
 udzielona:
 a)
-mikroprzedsiębiorcy oraz małemu lub średniemu przedsiębiorcy, który spełnia warunki określone w art. 1 ust. 7 rozporządzenia Komisji , lub
+mikroprzedsiębiorcy oraz małemu lub średniemu przedsiębiorcy, który spełnia warunki określone w art. 1 ust. 7 rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r., lub
 b)
-przedsiębiorcy innemu niż mikroprzedsiębiorca, mały lub średni przedsiębiorca, który spełnia kryteria przedsiębiorcy w trudnej sytuacji ekonomicznej w rozumieniu pkt 9–11 Wytycznych wspólnotowych dotyczących pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Tekst mający znaczenie dla EOG) (Dz. Urz. UE C 244 z 01.10.2004, str. 2)
-z wyjątkiem pomocy de minimis , o której mowa w § 6 ust. 1.
+przedsiębiorcy innemu niż mikroprzedsiębiorca, mały lub średni przedsiębiorca, który spełnia kryteria przedsiębiorcy w trudnej sytuacji ekonomicznej w rozumieniu pkt 9–11 Wytycznych wspólnotowych dotyczących pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Tekst mający znaczenie dla EOG) (Dz. Urz. UE C 244 z 01.10.2004, str. 2)Wytyczne zostały zastąpione przez wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1). – z wyjątkiem pomocy de minimis , o której mowa w § 6 ust. 1.
+Przepisy wspólne dotyczące udzielania przedsiębiorcom pomocy publicznej w ramach Priorytetu II Programu Operacyjnego Kapitał Ludzki
 § 4.
-(uchylony).
+(uchylony).Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r.
 § 5.
-(uchylony).
+(uchylony).Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r.
 § 6.
 1.
 Pomoc finansowa uzyskana przez przedsiębiorców:
@@ -161,25 +158,24 @@ na pokrycie wydatków, o których mowa w § 14 ust. 4 oraz § 15 ust. 1 pkt 6–
 w ramach wsparcia na przetestowanie i wdrożenie usług pilotażowych lub na świadczenie usług uprzednio przetestowanych i wdrożonych jako usługi pilotażowe, o którym mowa w § 23 ust. 1, w zakresie usług doradczych, szkoleniowych lub finansowych,
 7)
 w ramach wsparcia dla systemu adaptacyjności kadr przez promowanie postaw przedsiębiorczych, o którym mowa w § 24 ust. 1, w zakresie usług szkoleniowych lub doradczych,
-8)
+8Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 7.)
 w ramach wsparcia na zindywidualizowane usługi doradcze w formie opieki mentorskiej dla kobiet planujących rozpoczęcie albo rozwój prowadzonej działalności gospodarczej, o którym mowa w § 26a ust. 1,
-9)
+9Dodany przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r.)
 w ramach wsparcia, o którym mowa w § 9 ust. 1, i na pokrycie kosztów usług szkoleniowych, o których mowa w § 27 ust. 1,
-10)
-w ramach wsparcia na prowadzenie punktu konsultacyjnego, o którym mowa w § 21
-stanowi pomoc de minimis i jest udzielana zgodnie z przepisami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis.
+10Dodany przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.)
+w ramach wsparcia na prowadzenie punktu konsultacyjnego, o którym mowa w § 21 – stanowi pomoc de minimis i jest udzielana zgodnie z przepisami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis. Część wspólna w brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4.
 2.
 Pomoc finansowa uzyskana przez przedsiębiorców na pokrycie kosztów, o których mowa w § 14 ust. 1 pkt 1, oraz pomoc udzielana przedsiębiorcom i ich pracownikom zgodnie z § 27 ust. 1 na usługi szkoleniowe mogą stanowić pomoc de minimis .
 3.
-(uchylony).
+(uchylony).Przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r.
 4.
 W przypadku gdy pomoc jest przekazywana przez wykonawców, o których mowa w § 27 ust. 1, lub projektodawców, o których mowa w § 9 ust. 2, przedsiębiorca wskazuje w zgłoszeniu do udziału w szkoleniu, że ubiega się w tym celu o pomoc de minimis .
-5.
+5W brzmieniu ustalonym przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 4..
 Pomoc de minimis , o której mowa w ust. 1 i 2, może być udzielona, jeżeli wartość tej pomocy brutto łącznie z wartością innej pomocy de minimis otrzymanej przez jednego przedsiębiorcę w okresie bieżącego roku i dwóch poprzedzających lat podatkowych nie przekracza kwoty stanowiącej równowartość w złotych 200 000 euro, a w przypadku przedsiębiorcy prowadzącego działalność w zakresie drogowego transportu towarów – kwoty 100 000 euro.
 6.
 Pomoc de minimis nie może być udzielona na działalność:
 1)
-w sektorze rybołówstwa i akwakultury w rozumieniu rozporządzenia Rady (WE) nr 104/2000 z dnia 17 grudnia 1999 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury;
+w sektorze rybołówstwa i akwakultury w rozumieniu rozporządzenia Rady (WE) nr 104/2000 z dnia 17 grudnia 1999 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakulturyUchylone przez art. 46 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającego rozporządzenia Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającego rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1), które weszło w życie z dniem 1 stycznia 2014 r.;
 2)
 związaną z produkcją pierwotną produktów rolnych wymienionych w załączniku I do Traktatu ustanawiającego Wspólnotę Europejską (Dz. Urz. UE C 321E z 29.12.2006, str. 37);
 3)
@@ -191,17 +187,17 @@ udzielenie pomocy zależy od przekazania jej w części lub w całości producen
 4)
 związaną z wywozem do państw członkowskich Unii Europejskiej lub państw trzecich, jeżeli pomoc ta jest bezpośrednio związana z ilością wywożonych produktów, tworzeniem i prowadzeniem sieci dystrybucyjnej lub innymi wydatkami bieżącymi związanymi z prowadzeniem działalności wywozowej, przy czym wsparcie obejmujące pokrycie kosztów uczestnictwa w targach i wystawach, badań lub usług doradczych z zakresu wprowadzenia nowego lub istniejącego produktu na nowy rynek nie stanowi pomocy publicznej na działalność związaną z wywozem;
 5)
-(uchylony).
+(uchylony).Przez § 1 pkt 4 lit. d rozporządzenia, o którym mowa w odnośniku 4.
 7.
 Pomoc de minimis nie może być udzielona przedsiębiorcy prowadzącemu działalność gospodarczą w zakresie towarowego transportu drogowego na nabycie pojazdów przeznaczonych do takiego transportu.
 8.
 Pomoc de minimis , o której mowa w ust. 1 i 2, nie może być uwarunkowana pierwszeństwem użycia towarów produkcji krajowej w stosunku do towarów sprowadzanych z zagranicy.
 9.
 Pomocy de minimis nie udziela się, jeżeli łącznie z inną pomocą udzieloną przedsiębiorcy w odniesieniu do tych samych wydatków kwalifikowalnych spowodowałaby przekroczenie dopuszczalnej wielkości pomocy określonej w przepisach mających zastosowanie przy udzielaniu pomocy innej niż pomoc de minimis .
-10.
+10W brzmieniu ustalonym przez § 1 pkt 4 lit. e rozporządzenia, o którym mowa w odnośniku 4..
 Podmioty, o których mowa w § 9 ust. 2 i 3, § 18 ust. 1, § 21 ust. 1, § 23 ust. 1, § 24 ust. 1, § 26a ust. 1, oraz wykonawcy świadczący usługi, o których mowa w § 27 ust. 1, w przypadku udzielania wsparcia objętego regułami pomocy de minimis wydają beneficjentom pomocy zaświadczenia o pomocy de minimis zgodnie z odrębnymi przepisami.
 11.
-(uchylony).
+(uchylony).Przez § 1 pkt 4 lit. f rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r.
 § 7.
 1.
 Wielkość pomocy de minimis udzielonej przedsiębiorcom w ramach:
@@ -215,21 +211,21 @@ projektu objętego wsparciem na podnoszenie kwalifikacji kadry szkoleniowej, rea
 wsparcia na przetestowanie i wdrożenie usług pilotażowych, o którym mowa w § 23 ust. 1,
 5)
 wsparcia dla systemu adaptacyjności kadr poprzez promowanie postaw przedsiębiorczych, o którym mowa w § 24 ust. 1,
-5a)
+5aDodany przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 7.)
 wsparcia na zindywidualizowane usługi doradcze w formie opieki mentorskiej dla kobiet planujących rozpoczęcie albo rozwój prowadzonej działalności gospodarczej, o którym mowa w § 26a ust. 1,
 6)
-pomocy finansowej, o której mowa w § 27 ust. 1
-może wynosić do 100% wydatków kwalifikowalnych, z zastrzeżeniem § 6 ust. 5.
+pomocy finansowej, o której mowa w § 27 ust. 1 – może wynosić do 100% wydatków kwalifikowalnych, z zastrzeżeniem § 6 ust. 5.
 2.
 Wielkość pomocy de minimis udzielonej przedsiębiorcom na pokrycie wydatków, o których mowa w § 14 ust. 4 i § 15 ust. 1 pkt 6–9, nie może przekroczyć 100% dopuszczalnej wartości tych wydatków wskazanej w tym przepisie.
 3.
 Wielkość pomocy de minimis udzielonej przedsiębiorcom w ramach wsparcia na świadczenie usług uprzednio przetestowanych i wdrożonych jako usługi pilotażowe, o którym mowa w § 23 ust. 1, może wynosić do 70% wydatków kwalifikowanych, z zastrzeżeniem § 6 ust. 5.
-4.
+4Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 7..
 Wielkość pomocy de minimis udzielonej przedsiębiorcom w ramach wsparcia na zindywidualizowane usługi doradcze w formie opieki mentorskiej dla kobiet planujących rozpoczęcie albo rozwój prowadzonej działalności gospodarczej, o którym mowa w § 26a ust. 1, może wynosić do 100% wydatków kwalifikowalnych, z zastrzeżeniem § 6 ust. 5.
-5.
+5Dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4..
 Wielkość pomocy de minimis udzielonej przedsiębiorcom w ramach wsparcia na prowadzenie punktu konsultacyjnego, o którym mowa w § 21 ust. 1, może wynosić do 90% wydatków kwalifikowalnych, z zastrzeżeniem § 6 ust. 5.
 § 8.
-(uchylony).
+(uchylony).Przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r.
+Szczegółowe przeznaczenie i warunki udzielania wsparcia na rozwój kapitału ludzkiego, wzmacnianie potencjału adaptacyjnego przedsiębiorców oraz wsparcia z przeznaczeniem na projekt innowacyjny
 § 9.
 1.
 Agencja może udzielić podmiotowi wskazanemu w ust. 2, który posiada niezbędny potencjał ekonomiczny i techniczny do realizacji projektu, wsparcia na pokrycie kosztów szkoleń lub zakupu usług doradczych oraz związanych z nimi wydatków inwestycyjnych, mającego na celu wzmocnienie konkurencyjności i rozwój przedsiębiorców przez nabycie lub podniesienie kwalifikacji i umiejętności ogólnych lub zawodowych przez przedsiębiorców lub pracowników przedsiębiorców, zwanego dalej „wsparciem na rozwój kapitału ludzkiego”.
@@ -238,10 +234,9 @@ O wsparcie na rozwój kapitału ludzkiego może ubiegać się:
 1)
 przedsiębiorca,
 2)
-podmiot działający na rzecz zatrudnienia, rozwoju zasobów ludzkich lub potencjału adaptacyjnego przedsiębiorców niebędący przedsiębiorcą
-zwany dalej „projektodawcą”.
-3.
-Agencja może udzielić projektodawcy będącemu organizacją pracodawców lub organizacją związkową w rozumieniu przepisów ustawy z dnia 23 maja 1991 r. o organizacjach pracodawców (Dz. U. Nr 55, poz. 235, z późn. zm.), ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2002 r. Nr 112, poz. 979, z późn. zm.) oraz ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2014 r. poz. 167 oraz z 2015 r. poz. 791) wsparcia z przeznaczeniem na realizację projektu mającego na celu zwiększenie zdolności adaptacyjnych pracowników i przedsiębiorstw lub tworzenie i rozwój, w szczególności poprzez zwiększenie wartości, funduszy szkoleniowych utworzonych przez pracodawców będących mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami, zwanego dalej „wsparciem na wzmacnianie potencjału adaptacyjnego przedsiębiorców”.
+podmiot działający na rzecz zatrudnienia, rozwoju zasobów ludzkich lub potencjału adaptacyjnego przedsiębiorców niebędący przedsiębiorcą – zwany dalej „projektodawcą”.
+3W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 7..
+Agencja może udzielić projektodawcy będącemu organizacją pracodawców lub organizacją związkową w rozumieniu przepisów ustawy z dnia 23 maja 1991 r. o organizacjach pracodawców (Dz. U. Nr 55, poz. 235, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 34, poz. 148, z 1997 r. Nr 121, poz. 769, z 2000 r. Nr 60, poz. 700 i Nr 107, poz. 1127, z 2001 r. Nr 100, poz. 1080 oraz z 2004 r. Nr 240, poz. 2407.), ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2002 r. Nr 112, poz. 979, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 137, poz. 1304, z 2009 r. Nr 6, poz. 33 oraz z 2011 r. Nr 205, poz. 1206 i Nr 207, poz. 1230.) oraz ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2014 r. poz. 167 oraz z 2015 r. poz. 791) wsparcia z przeznaczeniem na realizację projektu mającego na celu zwiększenie zdolności adaptacyjnych pracowników i przedsiębiorstw lub tworzenie i rozwój, w szczególności poprzez zwiększenie wartości, funduszy szkoleniowych utworzonych przez pracodawców będących mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami, zwanego dalej „wsparciem na wzmacnianie potencjału adaptacyjnego przedsiębiorców”.
 4.
 Agencja może udzielić projektodawcy, który posiada niezbędny potencjał ekonomiczny i techniczny do realizacji projektu, wsparcia z przeznaczeniem na projekt innowacyjny realizowany na podstawie wytycznych, o których mowa w art. 35 ust. 3 pkt 4c ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
 5.
@@ -260,7 +255,7 @@ inni przedsiębiorcy mający siedzibę na terytorium Rzeczypospolitej Polskiej;
 3)
 pracownicy delegowani przez przedsiębiorców, o których mowa w pkt 2.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 7.
 3.
 Projekt, o którym mowa w § 9 ust. 3, może być realizowany na rzecz:
 1)
@@ -316,8 +311,7 @@ raty spłat wartości początkowej środków trwałych, których wartość pocz�
 3)
 zakup lub raty spłat wartości początkowej mebli, należne finansującemu z tytułu umowy leasingu finansowego lub zwrotnego do wysokości ich wartości początkowej z dnia zawarcia umowy leasingu, poniesione do dnia zakończenia realizacji projektu,
 4)
-adaptację budynków, pomieszczeń i miejsc pracy, w których odbywa się szkolenie, na potrzeby osób niepełnosprawnych
-do wysokości określonej w ogłoszeniu o konkursie, o którym mowa w art. 29 ust. 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, jednakże nieprzekraczającej łącznie 10% wartości całkowitych wydatków kwalifikowalnych projektu objętego wsparciem na rozwój kapitału ludzkiego.
+adaptację budynków, pomieszczeń i miejsc pracy, w których odbywa się szkolenie, na potrzeby osób niepełnosprawnych – do wysokości określonej w ogłoszeniu o konkursie, o którym mowa w art. 29 ust. 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, jednakże nieprzekraczającej łącznie 10% wartości całkowitych wydatków kwalifikowalnych projektu objętego wsparciem na rozwój kapitału ludzkiego.
 5.
 Do wydatków kwalifikowalnych w ramach wsparcia na rozwój kapitału ludzkiego w zakresie kosztów ogólnych zalicza się, związane ze współfinansowaniem projektu ze środków Europejskiego Funduszu Społecznego, wydatki na:
 1)
@@ -328,13 +322,13 @@ promocję projektu;
 badania i analizy;
 4)
 zarządzanie i obsługę projektu.
-6.
+6W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 4..
 Podstawą wyliczenia wielkości pomocy de minimis dla przedsiębiorców na pokrycie kosztów uczestnictwa w szkoleniu tych przedsiębiorców lub pracowników przez nich delegowanych w ramach wsparcia na rozwój kapitału ludzkiego są wydatki wskazane w ust. 1.
-7.
+7W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 4..
 W przypadku projektów realizowanych wyłącznie na potrzeby danego przedsiębiorcy lub przedsiębiorców powiązanych z nim organizacyjnie, kapitałowo lub gospodarczo podstawą wyliczenia wielkości pomocy de minimis dla przedsiębiorców na pokrycie kosztów uczestnictwa w szkoleniu tych przedsiębiorców lub pracowników przez nich delegowanych w ramach wsparcia na rozwój kapitału ludzkiego są wydatki wskazane w ust. 1 i 5.
-7a.
+7aDodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 Podstawą wyliczenia wielkości pomocy publicznej dla przedsiębiorców na pokrycie kosztów uczestnictwa w szkoleniu tych przedsiębiorców lub pracowników przez nich delegowanych w ramach wsparcia na rozwój kapitału ludzkiego są wydatki wskazane w ust. 1, przy czym wydatki, o których mowa w ust. 1 pkt 3, kwalifikują się do wsparcia jedynie do wysokości sumy kwot wydatków kwalifikowalnych, o których mowa w ust. 1 pkt 1 i 2.
-7b.
+7bDodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 W przypadku projektów realizowanych wyłącznie na potrzeby danego przedsiębiorcy lub przedsiębiorców powiązanych z nim organizacyjnie, kapitałowo lub gospodarczo podstawą wyliczenia wielkości pomocy publicznej dla przedsiębiorców na pokrycie kosztów uczestnictwa w szkoleniu tych przedsiębiorców lub pracowników przez nich delegowanych w ramach wsparcia na rozwój kapitału ludzkiego są wydatki wskazane w ust. 1 i 5, przy czym wydatki, o których mowa w ust. 1 pkt 3 oraz ust. 5, kwalifikują się do wsparcia jedynie do wysokości sumy kwot wydatków kwalifikowalnych, o których mowa w ust. 1 pkt 1 i 2.
 8.
 Podstawą wyliczenia wielkości pomocy de minimis dla przedsiębiorców na pokrycie kosztów usług doradczych w ramach wsparcia na rozwój kapitału ludzkiego są wydatki wskazane w ust. 3.
@@ -353,7 +347,7 @@ c)
 inne wydatki bieżące, w tym wydatki na materiały i dostawy,
 d)
 amortyzację narzędzi i wyposażenia, wyłącznie w zakresie, w jakim są one wykorzystywane do realizacji szkolenia, i pod warunkiem, że do zakupu tych aktywów nie wykorzystano krajowych lub pochodzących z budżetu Unii Europejskiej środków publicznych;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 7 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 7.)
 tworzenie i zwiększenie wartości funduszy szkoleniowych utworzonych przez pracodawców będących mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami z przeznaczeniem na wydatki wskazane w pkt 1;
 3)
 świadczenie usług doradczych;
@@ -387,11 +381,11 @@ raty spłat wartości początkowej środków trwałych, których wartość pocz�
 zakup lub raty spłat wartości początkowej mebli, należne finansującemu z tytułu umowy leasingu finansowego lub zwrotnego do wysokości ich wartości początkowej z dnia zawarcia umowy leasingu, poniesione do dnia zakończenia realizacji projektu;
 9)
 adaptację budynków, pomieszczeń i miejsc pracy, w których odbywa się szkolenie, na potrzeby osób niepełnosprawnych;
-10)
+10W brzmieniu ustalonym przez § 1 pkt 7 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 7.)
 prowadzenie badań i analiz związanych z tworzeniem i funkcjonowaniem nowych rozwiązań dotyczących funduszy szkoleniowych utworzonych przez pracodawców będących mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami;
-11)
+11W brzmieniu ustalonym przez § 1 pkt 7 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 7.)
 prowadzenie działań promocyjnych związanych ze stworzonym rozwiązaniem dotyczącym funduszy szkoleniowych utworzonych przez pracodawców będących mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 7..
 Wydatki, o których mowa w ust. 1 pkt 6–9, są kwalifikowalne do wysokości określonej w ogłoszeniu o konkursie, o którym mowa w art. 29 ust. 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, jednakże nieprzekraczającej łącznie 10% wartości całkowitych wydatków kwalifikowalnych projektu objętego wsparciem na wzmacnianie potencjału adaptacyjnego przedsiębiorców, przy czym jeżeli wydatki te dotyczą przedsiębiorcy, wsparcie na wzmacnianie potencjału adaptacyjnego przedsiębiorców w części przeznaczonej na pokrycie tych wydatków stanowi pomoc de minimis dla tego przedsiębiorcy.
 3.
 Podstawą wyliczenia wielkości pomocy de minimis dla przedsiębiorców, na rzecz których świadczone są usługi szkoleniowe lub doradcze w ramach wsparcia na wzmacnianie potencjału adaptacyjnego przedsiębiorców, są wydatki wskazane w ust. 1 pkt 1–3.
@@ -460,7 +454,7 @@ wcześniej niż na 30 dni przed zawarciem umowy o udzielenie wsparcia lub przed 
 2)
 w wysokości niewspółmiernej do zrealizowanych zadań i osiągniętych rezultatów projektu objętego wsparciem.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 7.
 3.
 Poniesienie wydatków kwalifikowalnych powinno być udokumentowane odpowiednimi dowodami księgowymi, w szczególności fakturami lub rachunkami, wraz z dowodami zapłaty.
 4.
@@ -475,6 +469,7 @@ Wielkość wsparcia na rozwój kapitału ludzkiego dla projektodawcy, o którym 
 Wielkość wsparcia na wzmacnianie potencjału adaptacyjnego przedsiębiorców dla projektodawcy, o którym mowa w § 9 ust. 3, może wynosić do 100% dopuszczalnej wartości wydatków kwalifikowalnych, o których mowa w § 15 ust. 1.
 9.
 Wielkość wsparcia z przeznaczeniem na projekt innowacyjny, o którym mowa w § 9 ust. 4, może wynieść do 100% dopuszczalnej wartości wydatków kwalifikowalnych, o których mowa w § 16 ust. 1.
+Szczegółowe przeznaczenie i warunki udzielania wsparcia na podnoszenie kwalifikacji kadry szkoleniowej
 § 18.
 1.
 Agencja może udzielić podmiotowi działającemu na rzecz zatrudnienia, rozwoju zasobów ludzkich lub potencjału adaptacyjnego przedsiębiorców wsparcia na realizację projektu w zakresie nabywania lub podnoszenia kwalifikacji i umiejętności przez osoby prowadzące szkolenia lub świadczące usługi doradcze dla przedsiębiorców, zwanego dalej „wsparciem na podnoszenie kwalifikacji kadry szkoleniowej”.
@@ -554,6 +549,7 @@ Uczestnikami szkoleń lub odbiorcami usług doradczych realizowanych w ramach pr
 Wielkość wsparcia na podnoszenie kwalifikacji kadry szkoleniowej może wynosić do 100% wydatków kwalifikowalnych projektu.
 4.
 W przypadku organizowania szkolenia na potrzeby podmiotów, o których mowa w § 18 ust. 2 pkt 1, wielkość wsparcia na podnoszenie kwalifikacji kadry szkoleniowej pomniejsza się o należny wkład.
+Szczegółowe przeznaczenie i warunki udzielania wsparcia na rozwój kapitału ludzkiego w formie staży u przedsiębiorcyRozdział dodany przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 7.
 § 20a.
 Agencja może udzielić wsparcia mikroprzedsiębiorcy, małemu i średniemu przedsiębiorcy na organizację i prowadzenie staży skierowanych do studentów i absolwentów szkół ponadgimnazjalnych i wyższych, którzy nie ukończyli 30 roku życia, który:
 1)
@@ -586,8 +582,7 @@ szkoleń stażysty niezbędnych do efektywnego odbycia stażu; szczególnie koni
 8)
 związanych z przygotowaniem merytorycznym programu stażowego,
 9)
-zatrudnienia stażysty na umowę o pracę na czas odbycia stażu, w wysokości do 50% kosztów wynagrodzenia
-w łącznej wysokości nieprzekraczającej 3000 złotych w przeliczeniu na miesiąc dla 1 osoby odbywającej staż.
+zatrudnienia stażysty na umowę o pracę na czas odbycia stażu, w wysokości do 50% kosztów wynagrodzenia – w łącznej wysokości nieprzekraczającej 3000 złotych w przeliczeniu na miesiąc dla 1 osoby odbywającej staż.
 2.
 Koszt wynagrodzenia opiekuna stażysty, o którym mowa w ust. 1 pkt 4, stanowi:
 1)
@@ -596,22 +591,23 @@ refundację przedsiębiorcy całości lub części wynagrodzenia opiekuna staży
 refundację przedsiębiorcy dodatku do wynagrodzenia opiekuna stażysty w wysokości nieprzekraczającej 10% jego wynagrodzenia wynikającego ze zwiększonego zakresu zadań związanego z opieką nad stażystą, ale nie więcej niż 500 złotych miesięcznie.
 3.
 Podstawą wyliczenia wielkości pomocy de minimis dla przedsiębiorcy są wydatki bezpośrednio związane z organizacją stażu w przedsiębiorstwie, o których mowa w ust. 1.
-§ 21.
+Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz rozwoju gospodarczego wsparcia na prowadzenie punktu konsultacyjnego
+§ 21W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 7..
 1.
 Agencja może udzielić wsparcia na prowadzenie punktu konsultacyjnego podmiotowi działającemu na rzecz rozwoju gospodarczego, który:
 1)
 posiada wdrożony i zweryfikowany standard w zakresie świadczenia usług doradczych, spełniający wymagania świadczenia usług, o których mowa w przepisach wydanych na podstawie art. 6a ust. 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości, i posiada odpowiedni potencjał organizacyjny, techniczny i ekonomiczny oraz
 2)
 zobowiąże się do:
-a)
+aW brzmieniu ustalonym przez § 1 pkt 8 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.)
 świadczenia usług doradczych objętych wsparciem za częściową odpłatnością ponoszoną przez mikroprzedsiębiorców, małych lub średnich przedsiębiorców lub osoby zamierzające podjąć działalność gospodarczą w wysokości co najmniej 10% kosztów tej usługi,
 b)
-(uchylona),
+(uchylona),Przez § 1 pkt 8 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4.
 c)
 wykorzystania, w okresie realizacji projektu objętego wsparciem, nowych środków trwałych finansowanych w formie zakupu lub leasingu, o których mowa w § 22 ust. 1 pkt 14–16, wyłącznie w celach związanych z realizacją projektu,
 d)
 prowadzenia odrębnej ewidencji księgowej dla projektu objętego wsparciem.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 Wsparcie na prowadzenie punktu konsultacyjnego jest przeznaczone na finansowanie wydatków związanych z realizacją projektu polegającego na prowadzeniu punktu konsultacyjnego i świadczeniu usług doradczych w zakresie podejmowania lub wykonywania działalności gospodarczej dla mikroprzedsiębiorców, małych lub średnich przedsiębiorców lub osób zamierzających podjąć działalność gospodarczą zgodnie ze standardami w zakresie świadczenia tych usług, określonymi w przepisach wydanych na podstawie art. 6a ust. 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości.
 § 22.
 1.
@@ -634,13 +630,13 @@ tłumaczenia i druk materiałów oraz ich publikację;
 działania promocyjne i informacyjne, pod warunkiem że w działaniach tych przekazywana jest informacja, że projekt jest realizowany z udziałem wsparcia pochodzącego z budżetu Unii Europejskiej;
 9)
 obsługę księgową i usługi prawnicze oraz doradcze i eksperckie;
-10)
+10W brzmieniu ustalonym przez § 1 pkt 9 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.)
 pokrycie kosztów szkoleń pracowników świadczących usługi doradcze;
 11)
 ubezpieczenie środków trwałych, o których mowa w pkt 15;
 12)
 koszty administracyjne lub bieżącego zarządu, do wysokości 10% łącznej kwoty kosztów, o których mowa w pkt 1–11;
-13)
+13W brzmieniu ustalonym przez § 1 pkt 9 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4.)
 pokrycie kosztów adaptacji budynków, pomieszczeń i miejsc pracy, w których są świadczone usługi doradcze;
 14)
 zakup środków trwałych, których wartość początkowa jest równa lub wyższa od 10% kwoty określonej w przepisach podatkowych uprawniającej do dokonania jednorazowego odpisu amortyzacyjnego, z wyłączeniem mebli oraz pojazdów;
@@ -659,17 +655,18 @@ Wydatki, o których mowa w ust. 1 pkt 13–16, są kwalifikowalne do wysokości 
 3.
 Wydatki, o których mowa w ust. 1 pkt 5 i 18, zalicza się do wydatków kwalifikowalnych pod warunkiem, że do zakupu tych aktywów nie wykorzystano krajowych lub pochodzących z budżetu Unii Europejskiej środków publicznych.
 4.
-(uchylony).
-5.
+(uchylony).Przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 4.
+5W brzmieniu ustalonym przez § 1 pkt 9 lit. c rozporządzenia, o którym mowa w odnośniku 4..
 Wielkość wsparcia na świadczenie usług doradczych dla mikroprzedsiębiorców, małych lub średnich przedsiębiorców lub osób zamierzających podjąć działalność gospodarczą nie może przekroczyć różnicy pomiędzy kosztami usług doradczych a częściową odpłatnością ponoszoną przez mikroprzedsiębiorców, małych lub średnich przedsiębiorców lub osoby zamierzające podjąć działalność gospodarczą korzystających z tych usług oraz do 90% wydatków kwalifikowalnych w ramach wsparcia przeznaczonych na ten cel.
-6.
+6Dodany przez § 1 pkt 9 lit. d rozporządzenia, o którym mowa w odnośniku 4..
 Usługi doradcze świadczone mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom lub osobom zamierzającym podjąć działalność gospodarczą w ramach wsparcia na prowadzenie punktu konsultacyjnego są dostępne za częściową odpłatnością ponoszoną przez mikroprzedsiębiorców, małych lub średnich przedsiębiorców lub osoby zamierzające podjąć działalność gospodarczą w wysokości co najmniej 10% kosztów tej usługi. Różnica pomiędzy kosztem usługi a częściową odpłatnością poniesioną przez mikroprzedsiębiorców, małych lub średnich przedsiębiorców stanowi wartość pomocy de minimis dla tych przedsiębiorców.
-7.
+7Dodany przez § 1 pkt 9 lit. d rozporządzenia, o którym mowa w odnośniku 4..
 Jeżeli wsparcie na prowadzenie punktu konsultacyjnego dotyczy usług, które mogą być świadczone w ramach działalności gospodarczej prowadzonej przez podmiot, o którym mowa w § 21 ust. 1, wsparcie to stanowi dla tego podmiotu pomoc de minimis i jest udzielane zgodnie z § 6.
-8.
+8Dodany przez § 1 pkt 9 lit. d rozporządzenia, o którym mowa w odnośniku 4..
 Podstawą wyliczenia wielkości pomocy de minimis dla podmiotu, o którym mowa w § 21 ust. 1, jest kwota stanowiąca różnicę pomiędzy otrzymaną kwotą wsparcia a sumą pomocy de minimis udzielonej mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom.
-9.
+9Dodany przez § 1 pkt 9 lit. d rozporządzenia, o którym mowa w odnośniku 4..
 Podstawą wyliczenia wielkości pomocy de minimis dla mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy w ramach wsparcia na prowadzenie punktu konsultacyjnego są wydatki bezpośrednio związane ze świadczeniem usług, o których mowa w ust. 5, dla tego przedsiębiorcy.
+Szczegółowe przeznaczenie i warunki udzielania wsparcia na przetestowanie i wdrożenie usług pilotażowych lub na świadczenie usług uprzednio przetestowanych i wdrożonych jako usługi pilotażowe
 § 23.
 1.
 Agencja może udzielić wsparcia na przetestowanie i wdrożenie usług pilotażowych lub na świadczenie usług uprzednio przetestowanych i wdrożonych jako usługi pilotażowe podmiotowi działającemu na rzecz rozwoju gospodarczego, który posiada:
@@ -691,9 +688,10 @@ Jeżeli wsparcie na przetestowanie i wdrożenie usług pilotażowych lub na świ
 Podstawą wyliczenia wielkości pomocy de minimis dla podmiotu, o którym mowa w ust. 1, jest kwota stanowiąca różnicę pomiędzy otrzymaną kwotą wsparcia a sumą pomocy de minimis udzielonej przedsiębiorcom.
 8.
 Podstawą wyliczenia wielkości pomocy de minimis dla przedsiębiorcy są wydatki bezpośrednio związane ze świadczeniem usług, o których mowa w ust. 2 i 3, temu przedsiębiorcy.
+Szczegółowe przeznaczenie i warunki udzielania wsparcia dla systemu adaptacyjności kadr poprzez promowanie postaw przedsiębiorczych
 § 24.
 1.
-Agencja może udzielić wsparcia przeznaczonego na realizację inicjatyw promujących postawy przedsiębiorcze i wspierające rozwój przedsiębiorczości, w tym rozszerzenie oferty usług szkoleniowych, doradczych i informacyjnych, zwanego dalej „wsparciem dla systemu adaptacyjności kadr przez promowanie postaw przedsiębiorczych”, podmiotowi działającemu na rzecz rozwoju gospodarczego, podmiotowi działającemu na rzecz zatrudnienia, rozwoju zasobów ludzkich lub potencjału adaptacyjnego przedsiębiorców, podmiotowi działającemu na rzecz innowacyjności, organizacji pracodawców i reprezentatywnej organizacji związkowej w rozumieniu przepisów ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm.), jednostce naukowej w rozumieniu art. 2 pkt 9 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2014 r. poz. 1620 oraz z 2015 r. poz. 249), które:
+Agencja może udzielić wsparcia przeznaczonego na realizację inicjatyw promujących postawy przedsiębiorcze i wspierające rozwój przedsiębiorczości, w tym rozszerzenie oferty usług szkoleniowych, doradczych i informacyjnych, zwanego dalej „wsparciem dla systemu adaptacyjności kadr przez promowanie postaw przedsiębiorczych”, podmiotowi działającemu na rzecz rozwoju gospodarczego, podmiotowi działającemu na rzecz zatrudnienia, rozwoju zasobów ludzkich lub potencjału adaptacyjnego przedsiębiorców, podmiotowi działającemu na rzecz innowacyjności, organizacji pracodawców i reprezentatywnej organizacji związkowej w rozumieniu przepisów ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1793 i 1800, z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056, z 2004 r. Nr 240, poz. 2407 oraz z 2009 r. Nr 219, poz. 1707.), jednostce naukowej w rozumieniu art. 2 pkt 9 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2014 r. poz. 1620 oraz z 2015 r. poz. 249), które:
 1)
 nie działają dla zysku lub zysk przeznaczają na cele statutowe;
 2)
@@ -760,14 +758,14 @@ Jeżeli wsparcie dla systemu adaptacyjności kadr przez promowanie postaw przeds
 Podstawą wyliczenia wielkości pomocy de minimis dla podmiotów, o których mowa w § 24 ust. 1 i 2, w ramach wsparcia dla systemu adaptacyjności kadr przez promowanie postaw przedsiębiorczych, jest kwota stanowiąca różnicę pomiędzy otrzymaną kwotą wsparcia a sumą pomocy de minimis udzielonej przedsiębiorcom.
 4.
 Podstawą wyliczenia wielkości pomocy de minimis dla przedsiębiorcy w ramach wsparcia dla systemu adaptacyjności kadr przez promowanie postaw przedsiębiorczych są wydatki bezpośrednio związane ze świadczeniem usług szkoleniowych lub doradczych temu przedsiębiorcy.
+Szczegółowe przeznaczenie i warunki udzielania wsparcia na zindywidualizowane usługi doradcze w formie opieki mentorskiej dla kobiet planujących rozpoczęcie albo rozwój prowadzonej działalności gospodarczejRozdział dodany przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 7.
 § 26a.
 1.
 Agencja może udzielić podmiotowi działającemu na rzecz rozwoju gospodarczego lub podmiotowi działającemu na rzecz innowacyjności, spełniającemu warunki określone w ust. 2, wsparcia z przeznaczeniem na świadczenie zindywidualizowanych usług doradczych w formie opieki mentorskiej dla kobiet w zakresie rozpoczęcia albo rozwoju prowadzonej działalności gospodarczej, które mają miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej oraz:
 1)
 prowadzą działalność gospodarczą na terytorium Rzeczypospolitej Polskiej nie dłużej niż 36 miesięcy od dnia wystawienia pierwszej faktury sprzedaży produktu lub usługi albo
 2)
-zamierzają rozpocząć własną działalność gospodarczą na terytorium Rzeczypospolitej Polskiej
-zwanego dalej „wsparciem na usługi mentorskie dla kobiet”.
+zamierzają rozpocząć własną działalność gospodarczą na terytorium Rzeczypospolitej Polskiej – zwanego dalej „wsparciem na usługi mentorskie dla kobiet”.
 2.
 Wsparcie na usługi mentorskie dla kobiet może być udzielone podmiotowi działającemu na rzecz rozwoju gospodarczego lub innowacyjności, który spełnia łącznie następujące warunki:
 1)
@@ -820,6 +818,7 @@ Jeżeli wsparcie na usługi mentorskie dla kobiet dotyczy usług świadczonych p
 Podstawą wyliczenia wielkości pomocy de minimis dla przedsiębiorcy w ramach wsparcia na usługi mentorskie dla kobiet są wydatki bezpośrednio związane ze świadczeniem usług doradczych, o których mowa w § 26b ust. 1 pkt 1, dla tego przedsiębiorcy.
 4.
 Zaświadczenie o pomocy de minimis udzielonej przedsiębiorcy w ramach wsparcia na usługi mentorskie dla kobiet wydaje temu przedsiębiorcy podmiot otrzymujący wsparcie.
+Szczegółowe przeznaczenie i warunki udzielania pomocy finansowej w formie finansowania kosztów usług świadczonych odbiorcom tych usług przez wykonawców wybranych przez Agencję
 § 27.
 1.
 Pomoc finansowa może być udzielana przez Agencję w formie finansowania kosztów usług doradczych, informacyjnych, promocyjnych lub szkoleniowych świadczonych bezpłatnie lub za odpłatnością niższą od ceny rynkowej na rzecz podmiotów, o których mowa w ust. 2, za pośrednictwem wykonawców.
@@ -880,8 +879,7 @@ Agencja może udzielić podmiotowi działającemu na rzecz rozwoju gospodarczego
 1)
 wdrożony i zweryfikowany standard w zakresie świadczenia usług informacyjnych, doradczych, szkoleniowych lub finansowych, spełniający wymagania świadczenia usług, o których mowa w przepisach wydanych na podstawie art. 6a ust. 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości, oraz
 2)
-odpowiedni potencjał organizacyjny, techniczny i ekonomiczny
-pomocy finansowej na rozwój potencjału tego podmiotu.
+odpowiedni potencjał organizacyjny, techniczny i ekonomiczny – pomocy finansowej na rozwój potencjału tego podmiotu.
 2.
 Pomoc finansowa, o której mowa w ust. 1, jest udzielana w formie finansowania kosztów usług doradczych, szkoleniowych i informacyjnych oraz działań promocyjnych, świadczonych przez wykonawców bezpłatnie na rzecz podmiotów określonych w ust. 1.
 3.
@@ -891,10 +889,10 @@ Agencja może udzielić podmiotowi działającemu na rzecz rozwoju gospodarczego
 1)
 wdrożonego i zweryfikowanego standardu w zakresie świadczenia usług, o którym mowa w ust. 1 pkt 1, oraz
 2)
-odpowiedniego potencjału organizacyjnego, technicznego i ekonomicznego
-pomocy finansowej na osiągnięcie takiego standardu i odpowiedniego potencjału. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+odpowiedniego potencjału organizacyjnego, technicznego i ekonomicznego – pomocy finansowej na osiągnięcie takiego standardu i odpowiedniego potencjału. Przepisy ust. 2 i 3 stosuje się odpowiednio.
 § 30.
 Usługi realizowane przez wykonawców odbywają się w całości na terytorium Rzeczypospolitej Polskiej, z wyjątkiem szkoleń, usług doradczych, promocyjnych lub informacyjnych, które ze względu na swoją specyfikę wymagają realizacji poza terytorium Rzeczypospolitej Polskiej.
+Szczegółowe przeznaczenie i warunki udzielania pomocy finansowej w formie pożyczek na pokrycie kosztów udziału w szkoleniach
 § 31.
 1.
 Pomoc finansowa może być udzielana przez Agencję za pośrednictwem wykonawców w formie pożyczek udzielanych przez tych wykonawców pożyczkobiorcom na pokrycie kosztów udziału w szkoleniach.
@@ -915,6 +913,7 @@ koszty podróży i zakwaterowania pożyczkobiorców w związku z udziałem w szk
 koszty opieki nad dziećmi w wieku do lat 7 w przypadku pożyczkobiorców samotnie wychowujących dzieci oraz koszty opieki nad osobami zależnymi od pożyczkobiorców w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy za czas, w którym nie mogą sprawować opieki ze względu na udział w szkoleniach finansowanych ze środków pożyczki.
 2.
 Wydatki, o których mowa w ust. 1, powinny być udokumentowane odpowiednimi dowodami księgowymi, w szczególności fakturami lub rachunkami, wraz z dowodami zapłaty.
+Tryb udzielania pomocy finansowej
 § 33.
 Agencja udziela pomocy finansowej, o której mowa w rozporządzeniu, w trybie konkursu ogłaszanego dla:
 1)
@@ -927,7 +926,7 @@ podmiotów, o których mowa w § 21 ust. 1 – na prowadzenie punktu konsultacyj
 podmiotów, o których mowa w § 23 ust. 1 – w zakresie wsparcia na przetestowanie i wdrożenie usług pilotażowych lub na świadczenie usług uprzednio przetestowanych i wdrożonych jako usługi pilotażowe;
 5)
 podmiotów, o których mowa w § 24 ust. 1 – w zakresie wsparcia dla systemu adaptacyjności kadr przez promowanie postaw przedsiębiorczych;
-6)
+6Dodany przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 7.)
 podmiotów, o których mowa w § 26a ust. 1 – w zakresie wsparcia na usługi mentorskie dla kobiet.
 § 34.
 1.
@@ -935,7 +934,7 @@ Agencja przeprowadza konkurs, o którym mowa w § 33 pkt 1, zgodnie z przepisami
 2.
 Agencja zawiera umowę o udzielenie wsparcia z podmiotem wyłonionym w drodze konkursu lub w wyniku pozytywnego rozpatrzenia środków odwoławczych, o których mowa w ustawie wymienionej w ust. 1, w uzgodnionym między stronami terminie po złożeniu kompletnej dokumentacji niezbędnej do zawarcia umowy.
 § 35.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 7..
 Agencja przeprowadza konkurs, o którym mowa w § 33 pkt 2–6, informując o rozpoczęciu przyjmowania wniosków o udzielenie wsparcia i zamieszczając ogłoszenie, w szczególności na stronie internetowej Agencji.
 2.
 Ogłoszenie, o którym mowa w ust. 1, zawiera w szczególności:
@@ -970,46 +969,71 @@ w § 27 ust. 1 – do podmiotów wymienionych w § 27 ust. 2,
 2)
 w § 29 ust. 1 i 4 – do podmiotów wskazanych w tych przepisach,
 3)
-w § 31 ust. 1 – do pożyczkobiorców, o których mowa w § 31 ust. 2
-w sposób zapewniający równy dostęp tych podmiotów do pomocy oferowanej przez Agencję, w szczególności przez zamieszczenie na stronie internetowej Agencji lub wykonawcy ogłoszenia o możliwości korzystania z pomocy.
+w § 31 ust. 1 – do pożyczkobiorców, o których mowa w § 31 ust. 2 – w sposób zapewniający równy dostęp tych podmiotów do pomocy oferowanej przez Agencję, w szczególności przez zamieszczenie na stronie internetowej Agencji lub wykonawcy ogłoszenia o możliwości korzystania z pomocy.
 § 37.
 Do postępowania w sprawie udzielania pomocy finansowej stosuje się art. 37 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
-§ 38.
-Rozporządzenie stosuje się do pomocy publicznej, o której mowa w § 4 ust. 1 , udzielonej do dnia 31 grudnia 2014 r. oraz do pomocy de minimis , o której mowa w § 6 ust. 1, udzielonej do dnia 31 grudnia 2015 r.
+§ 38W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 4..
+Rozporządzenie stosuje się do pomocy publicznej, o której mowa w § 4 ust. 1 Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r., udzielonej do dnia 31 grudnia 2014 r. oraz do pomocy de minimis , o której mowa w § 6 ust. 1, udzielonej do dnia 31 grudnia 2015 r.
+Przepisy przejściowe i końcowe
 § 39.
 1.
 Do umów o udzielenie pomocy finansowej zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 2.
 Do wniosków składanych w ramach konkursów ogłoszonych przed dniem wejścia w życie niniejszego rozporządzenia oraz do umów o udzielenie wsparcia zawartych na podstawie tych wniosków stosuje się przepisy dotychczasowe.
 § 40.
-Traci moc rozporządzenie Ministra Rozwoju Regionalnego z dnia 20 czerwca 2008 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. Nr 111, poz. 710, z późn. zm.).
+Traci moc rozporządzenie Ministra Rozwoju Regionalnego z dnia 20 czerwca 2008 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. Nr 111, poz. 710, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 228, poz. 1517, z 2010 r. Nr 72, poz. 465 oraz z 2011 r. Nr 233, poz. 1384.).
 § 41.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Infrastruktury i Rozwoju, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Rozwoju (Dz. U. poz. 1257). 2) Zgodnie z art. 25 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2014 r. poz. 1649 oraz z 2015 r. poz. 349) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Kapitał Ludzki. 3) Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r. 4) Dodany przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 30 czerwca 2014 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 901), które weszło w życie z mocą od dnia 1 lipca 2014 r. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645, z 2014 r. poz. 598, 877, 1198, 1457 i 1873 oraz z 2015 r. poz. 218 i 493. 7) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rozwoju Regionalnego z dnia 15 listopada 2013 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 1370), które weszło w życie z dniem 26 listopada 2013 r. 8) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 9) Wytyczne zostały zastąpione przez wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1). 10) Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r. 11) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 7. 12) Dodany przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r. 13) Dodany przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 14) Część wspólna w brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 15) Przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r. 16) W brzmieniu ustalonym przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 4. 17) Uchylone przez art. 46 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającego rozporządzenia Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającego rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1), które weszło w życie z dniem 1 stycznia 2014 r. 18) Przez § 1 pkt 4 lit. d rozporządzenia, o którym mowa w odnośniku 4. 19) W brzmieniu ustalonym przez § 1 pkt 4 lit. e rozporządzenia, o którym mowa w odnośniku 4. 20) Przez § 1 pkt 4 lit. f rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r. 21) Dodany przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 7. 22) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 7. 23) Dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4. 24) Przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r. 25) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 7. 26) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 34, poz. 148, z 1997 r. Nr 121, poz. 769, z 2000 r. Nr 60, poz. 700 i Nr 107, poz. 1127, z 2001 r. Nr 100, poz. 1080 oraz z 2004 r. Nr 240, poz. 2407. 27) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 137, poz. 1304, z 2009 r. Nr 6, poz. 33 oraz z 2011 r. Nr 205, poz. 1206 i Nr 207, poz. 1230. 28) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 7. 29) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 4. 30) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 4. 31) W brzmieniu ustalonym przez § 1 pkt 7 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 7. 32) W brzmieniu ustalonym przez § 1 pkt 7 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 7. 33) W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 7. 34) Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 7. 35) Rozdział dodany przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 7. 36) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 7. 37) W brzmieniu ustalonym przez § 1 pkt 8 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 38) Przez § 1 pkt 8 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 39) W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 4. 40) W brzmieniu ustalonym przez § 1 pkt 9 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 41) W brzmieniu ustalonym przez § 1 pkt 9 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 42) Przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 4. 43) W brzmieniu ustalonym przez § 1 pkt 9 lit. c rozporządzenia, o którym mowa w odnośniku 4. 44) Dodany przez § 1 pkt 9 lit. d rozporządzenia, o którym mowa w odnośniku 4. 45) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1793 i 1800, z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056, z 2004 r. Nr 240, poz. 2407 oraz z 2009 r. Nr 219, poz. 1707. 46) Rozdział dodany przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 7. 47) Dodany przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 7. 48) W brzmieniu ustalonym przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 7. 49) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 4. 50) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 228, poz. 1517, z 2010 r. Nr 72, poz. 465 oraz z 2011 r. Nr 233, poz. 1384. 51) Rozporządzenie zostało ogłoszone w dniu 25 września 2012 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 25 września 2012 r.. 1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Infrastruktury i Rozwoju, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Rozwoju (Dz. U. poz. 1257). 2) Zgodnie z art. 25 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2014 r. poz. 1649 oraz z 2015 r. poz. 349) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Kapitał Ludzki. 3) Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r. 4) Dodany przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 30 czerwca 2014 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 901), które weszło w życie z mocą od dnia 1 lipca 2014 r. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645, z 2014 r. poz. 598, 877, 1198, 1457 i 1873 oraz z 2015 r. poz. 218 i 493. 7) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rozwoju Regionalnego z dnia 15 listopada 2013 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 1370), które weszło w życie z dniem 26 listopada 2013 r. 8) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 9) Wytyczne zostały zastąpione przez wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1). 10) Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r. 11) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 7. 12) Dodany przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r. 13) Dodany przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 14) Część wspólna w brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 15) Przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r. 16) W brzmieniu ustalonym przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 4. 17) Uchylone przez art. 46 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającego rozporządzenia Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającego rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1), które weszło w życie z dniem 1 stycznia 2014 r. 18) Przez § 1 pkt 4 lit. d rozporządzenia, o którym mowa w odnośniku 4. 19) W brzmieniu ustalonym przez § 1 pkt 4 lit. e rozporządzenia, o którym mowa w odnośniku 4. 20) Przez § 1 pkt 4 lit. f rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r. 21) Dodany przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 7. 22) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 7. 23) Dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4. 24) Przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4; wszedł w życie z dniem 1 stycznia 2015 r. 25) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 7. 26) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 34, poz. 148, z 1997 r. Nr 121, poz. 769, z 2000 r. Nr 60, poz. 700 i Nr 107, poz. 1127, z 2001 r. Nr 100, poz. 1080 oraz z 2004 r. Nr 240, poz. 2407. 27) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 137, poz. 1304, z 2009 r. Nr 6, poz. 33 oraz z 2011 r. Nr 205, poz. 1206 i Nr 207, poz. 1230. 28) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 7. 29) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 4. 30) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 4. 31) W brzmieniu ustalonym przez § 1 pkt 7 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 7. 32) W brzmieniu ustalonym przez § 1 pkt 7 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 7. 33) W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 7. 34) Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 7. 35) Rozdział dodany przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 7. 36) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 7. 37) W brzmieniu ustalonym przez § 1 pkt 8 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 38) Przez § 1 pkt 8 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 39) W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 4. 40) W brzmieniu ustalonym przez § 1 pkt 9 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 41) W brzmieniu ustalonym przez § 1 pkt 9 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 42) Przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 4. 43) W brzmieniu ustalonym przez § 1 pkt 9 lit. c rozporządzenia, o którym mowa w odnośniku 4. 44) Dodany przez § 1 pkt 9 lit. d rozporządzenia, o którym mowa w odnośniku 4. 45) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1793 i 1800, z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056, z 2004 r. Nr 240, poz. 2407 oraz z 2009 r. Nr 219, poz. 1707. 46) Rozdział dodany przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 7. 47) Dodany przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 7. 48) W brzmieniu ustalonym przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 7. 49) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 4. 50) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 228, poz. 1517, z 2010 r. Nr 72, poz. 465 oraz z 2011 r. Nr 233, poz. 1384. 51) Rozporządzenie zostało ogłoszone w dniu 25 września 2012 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Przepisy wspólne dotyczące udzielania przedsiębiorcom pomocy publicznej w ramach Priorytetu II Programu Operacyjnego Kapitał Ludzki
+#### Rozdział 2 – Przepisy wspólne dotyczące udzielania przedsiębiorcom pomocy publicznej w ramach Priorytetu II Programu Operacyjnego Kapitał Ludzki
 
-#### Rozdział 3 Szczegółowe przeznaczenie i warunki udzielania wsparcia na rozwój kapitału ludzkiego, wzmacnianie potencjału adaptacyjnego przedsiębiorców oraz wsparcia z przeznaczeniem na projekt innowacyjny
+#### Rozdział 3 – Szczegółowe przeznaczenie i warunki udzielania wsparcia na rozwój kapitału ludzkiego, wzmacnianie potencjału adaptacyjnego przedsiębiorców oraz wsparcia z przeznaczeniem na projekt innowacyjny
 
-#### Rozdział 4 Szczegółowe przeznaczenie i warunki udzielania wsparcia na podnoszenie kwalifikacji kadry szkoleniowej
+#### Rozdział 4 – Szczegółowe przeznaczenie i warunki udzielania wsparcia na podnoszenie kwalifikacji kadry szkoleniowej
 
-#### Rozdział 4a Szczegółowe przeznaczenie i warunki udzielania wsparcia na rozwój kapitału ludzkiego w formie staży u przedsiębiorcy
+#### Rozdział 4a – Szczegółowe przeznaczenie i warunki udzielania wsparcia na rozwój kapitału ludzkiego w formie staży u przedsiębiorcy
 
-#### Rozdział 5 Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz rozwoju gospodarczego wsparcia na prowadzenie punktu konsultacyjnego
+#### Rozdział 5 – Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz rozwoju gospodarczego wsparcia na prowadzenie punktu konsultacyjnego
 
-#### Rozdział 6 Szczegółowe przeznaczenie i warunki udzielania wsparcia na przetestowanie i wdrożenie usług pilotażowych lub na świadczenie usług uprzednio przetestowanych i wdrożonych jako usługi pilotażowe
+#### Rozdział 6 – Szczegółowe przeznaczenie i warunki udzielania wsparcia na przetestowanie i wdrożenie usług pilotażowych lub na świadczenie usług uprzednio przetestowanych i wdrożonych jako usługi pilotażowe
 
-#### Rozdział 7 Szczegółowe przeznaczenie i warunki udzielania wsparcia dla systemu adaptacyjności kadr poprzez promowanie postaw przedsiębiorczych
+#### Rozdział 7 – Szczegółowe przeznaczenie i warunki udzielania wsparcia dla systemu adaptacyjności kadr poprzez promowanie postaw przedsiębiorczych
 
-#### Rozdział 7a Szczegółowe przeznaczenie i warunki udzielania wsparcia na zindywidualizowane usługi doradcze w formie opieki mentorskiej dla kobiet planujących rozpoczęcie albo rozwój prowadzonej działalności gospodarczej
+#### Rozdział 7a – Szczegółowe przeznaczenie i warunki udzielania wsparcia na zindywidualizowane usługi doradcze w formie opieki mentorskiej dla kobiet planujących rozpoczęcie albo rozwój prowadzonej działalności gospodarczej
 
-#### Rozdział 8 Szczegółowe przeznaczenie i warunki udzielania pomocy finansowej w formie finansowania kosztów usług świadczonych odbiorcom tych usług przez wykonawców wybranych przez Agencję
+#### Rozdział 8 – Szczegółowe przeznaczenie i warunki udzielania pomocy finansowej w formie finansowania kosztów usług świadczonych odbiorcom tych usług przez wykonawców wybranych przez Agencję
 
-#### Rozdział 9 Szczegółowe przeznaczenie i warunki udzielania pomocy finansowej w formie pożyczek na pokrycie kosztów udziału w szkoleniach
+#### Rozdział 9 – Szczegółowe przeznaczenie i warunki udzielania pomocy finansowej w formie pożyczek na pokrycie kosztów udziału w szkoleniach
 
-#### Rozdział 10 Tryb udzielania pomocy finansowej
+#### Rozdział 10 – Tryb udzielania pomocy finansowej
 
-#### Rozdział 11 Przepisy przejściowe i końcowe
+#### Rozdział 11 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 4a
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 7a
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
+
+#### Rozdział 11
 

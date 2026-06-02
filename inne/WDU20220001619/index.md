@@ -22,23 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-29 |
 | Data wydania | 2022-08-02 |
-| Wejście w życie | 2022-08-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001619) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1619/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 36 § 1 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2022 r. poz. 1247 i 1259) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 7 kwietnia 2016 r. – Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury (Dz. U. z 2017 r. poz. 1206, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Ministra Sprawiedliwości z dnia 7 kwietnia 2016 r. – Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury (Dz. U. z 2017 r. poz. 1206, z późn. zm.Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2018 r. poz. 793 i 1470, z 2020 r. poz. 606 i 2090, z 2021 r. poz. 160, 976 i 1590 oraz z 2022 r. poz. 386.) wprowadza się następujące zmiany:
 1)
-w § 9 pkt 8 otrzymuje brzmienie:
-„
+w § 9 pkt 8 otrzymuje brzmienie: „
 8)
-Departament do Spraw Cyberprzestępczości i Informatyzacji;
-” ;
+Departament do Spraw Cyberprzestępczości i Informatyzacji; ” ;
 2)
-§ 19 otrzymuje brzmienie:
-„
+§ 19 otrzymuje brzmienie: „
 § 19.
 Do zadań Departamentu do Spraw Cyberprzestępczości i Informatyzacji należy w szczególności:
 1)
@@ -90,30 +86,23 @@ przygotowywanie budżetów projektów z funduszy pomocowych i rozliczanie tych p
 24)
 inicjowanie pozyskiwania środków z funduszy krajowych i europejskich oraz koordynacja działań w zakresie informatyzacji prowadzonych przez jednostki;
 25)
-pozyskiwanie i obsługa funduszy europejskich w zakresie informatyzacji w Prokuraturze Krajowej.
-” ;
+pozyskiwanie i obsługa funduszy europejskich w zakresie informatyzacji w Prokuraturze Krajowej. ” ;
 3)
-w § 20 pkt 8 otrzymuje brzmienie:
-„
+w § 20 pkt 8 otrzymuje brzmienie: „
 8)
-przygotowywanie projektów decyzji w zakresie uprawnienia Prokuratora Generalnego, o którym mowa w art. 328 k.p.k., w zakresie właściwości Departamentu;
-” ;
+przygotowywanie projektów decyzji w zakresie uprawnienia Prokuratora Generalnego, o którym mowa w art. 328 k.p.k., w zakresie właściwości Departamentu; ” ;
 4)
 w § 21:
 a)
 uchyla się pkt la,
 b)
-pkt 4 otrzymuje brzmienie:
-„
+pkt 4 otrzymuje brzmienie: „
 4)
-współpraca międzynarodowa w zakresie opracowywania strategii zwalczania międzynarodowej przestępczości przeciwko obrotowi gospodarczemu i finansowo-skarbowej oraz ścigania jej sprawców, współdziałanie z polskim przedstawicielem w EUROJUST w zakresie działań prokuratury oraz z przedstawicielami innych organizacji międzynarodowych i ponadnarodowych działających na podstawie umów międzynarodowych ratyfikowanych przez Rzeczpospolitą Polską w zakresie zwalczania przestępczości przeciwko obrotowi gospodarczemu i finansowo-skarbowej;
-” ,
+współpraca międzynarodowa w zakresie opracowywania strategii zwalczania międzynarodowej przestępczości przeciwko obrotowi gospodarczemu i finansowo-skarbowej oraz ścigania jej sprawców, współdziałanie z polskim przedstawicielem w EUROJUST w zakresie działań prokuratury oraz z przedstawicielami innych organizacji międzynarodowych i ponadnarodowych działających na podstawie umów międzynarodowych ratyfikowanych przez Rzeczpospolitą Polską w zakresie zwalczania przestępczości przeciwko obrotowi gospodarczemu i finansowo-skarbowej; ” ,
 c)
-w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu:
-„
+w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „
 11)
-wdrażanie systemu analizy kryminalnej w jednostkach oraz prowadzenie analiz kryminalnych w Prokuraturze Krajowej.
-” .
+wdrażanie systemu analizy kryminalnej w jednostkach oraz prowadzenie analiz kryminalnych w Prokuraturze Krajowej. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2018 r. poz. 793 i 1470, z 2020 r. poz. 606 i 2090, z 2021 r. poz. 160, 976 i 1590 oraz z 2022 r. poz. 386.
 

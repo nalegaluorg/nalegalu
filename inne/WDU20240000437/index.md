@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-15 |
 | Data wydania | 2024-03-25 |
-| Wejście w życie | 2024-03-26 |
 | Ostatnia zmiana | 2024-03-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000437) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/437/text.pdf) |
 
@@ -33,7 +32,8 @@ W rozporządzeniu Rady Ministrów z dnia 28 października 2022 r. w sprawie wyka
 1)
 uchyla się lp. 35;
 2)
-po lp. 158 dodaje się lp. 158a i 158b w brzmieniu: 158a Ośrodek Badawczy Ekonomiki Transportu Spółka z ograniczoną odpowiedzialnością z siedzibą w Warszawie minister właściwy do spraw transportu 0000288470 art. 8 ust. 1 pkt 1–2 158b Polskie Koleje Państwowe Spółka Akcyjna z siedzibą w Warszawie minister właściwy do spraw transportu 0000019193 art. 8 ust. 1 pkt 1–2
+po lp. 158 dodaje się lp. 158a i 158b w brzmieniu:
+158a Ośrodek Badawczy Ekonomiki Transportu Spółka z ograniczoną odpowiedzialnością z siedzibą w Warszawie minister właściwy do spraw transportu 0000288470 art. 8 ust. 1 pkt 1–2 158b Polskie Koleje Państwowe Spółka Akcyjna z siedzibą w Warszawie minister właściwy do spraw transportu 0000019193 art. 8 ust. 1 pkt 1–2
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

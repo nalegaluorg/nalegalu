@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Inwestycji i Rozwojuz dnia 8 kwietnia 2019 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Europejskiej Współpracy Terytorialnej na lata 2014–2020
+# Obwieszczenie Ministra Inwestycji i Rozwojuz dnia 8 kwietnia 2019 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Europejskiej Współpracy Terytorialnej na lata 2014–2020 Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
 
 | Pole | Wartość |
 |---|---|
@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 20 października 2015 r. w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Europejskiej Współpracy Terytorialnej na lata 2014–2020 (Dz. U. poz. 1760), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Inwestycji i Rozwoju z dnia 2 sierpnia 2018 r. zmieniającym rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Europejskiej Współpracy Terytorialnej na lata 2014–2020 (Dz. U. poz. 1589).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Inwestycji i Rozwoju z dnia 2 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Europejskiej Współpracy Terytorialnej na lata 2014–2020 (Dz. U. poz. 1589), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Inwestycji i Rozwoju z dnia 2 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Europejskiej Współpracy Terytorialnej na lata 2014–2020 (Dz. U. poz. 1589), które stanowią: „
 § 2.
 1.
 Do umów zawartych przed dniem wejścia w życie niniejszego rozporządzenia, na podstawie których udzielono pomocy de minimis lub pomocy publicznej, stosuje się przepisy dotychczasowe.
@@ -41,10 +40,8 @@ Do wniosków o udzielenie pomocy de minimis lub pomocy publicznej złożonych pr
 3.
 Wnioski, o których mowa w ust. 2, wymagające uzupełnienia w zakresie wynikającym z przepisów rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, uzupełnia się na wezwanie podmiotu udzielającego pomocy de minimis lub pomocy publicznej, w terminie wyznaczonym przez ten podmiot, nie krótszym niż 14 dni od dnia otrzymania wezwania przez wnioskodawcę.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
-Załącznik – Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 20 października 2015 r. w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Europejskiej Współpracy Terytorialnej na lata 2014–2020
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
+Załącznik – Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 20 października 2015 r. w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Europejskiej Współpracy Terytorialnej na lata 2014–2020Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Inwestycji i Rozwoju, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
 Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2018 r. poz. 1431 i 1544 oraz z 2019 r. poz. 60 i 730) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom pomocy de minimis oraz pomocy publicznej, w ramach następujących programów Europejskiej Współpracy Terytorialnej na lata 2014–2020:
@@ -53,8 +50,7 @@ Programu Współpracy Transgranicznej Interreg V-A Polska – Słowacja (2014–
 2)
 Programu Współpracy Interreg Polska – Saksonia 2014–2020,
 3)
-Programu Współpracy Interreg V-A – Polska-Dania-Niemcy-Litwa-Szwecja (Południowy Bałtyk) 2014–2020
-a także podmioty udzielające tej pomocy.
+Programu Współpracy Interreg V-A – Polska-Dania-Niemcy-Litwa-Szwecja (Południowy Bałtyk) 2014–2020 – a także podmioty udzielające tej pomocy.
 § 2.
 Pomoc de minimis jest udzielana na zasadach określonych w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1), zwanym dalej „rozporządzeniem nr 1407/2013”.
 § 3.
@@ -85,8 +81,7 @@ Podmiotem udzielającym pomocy de minimis i pomocy publicznej może być:
 1)
 instytucja zarządzająca,
 2)
-beneficjent
-o których mowa w art. 27 ust. 2 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, zwanej dalej „ustawą”.
+beneficjent – o których mowa w art. 27 ust. 2 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, zwanej dalej „ustawą”.
 2.
 W przypadku gdy podmiotem udzielającym pomocy de minimis lub pomocy publicznej jest beneficjent, pomoc de minimis i pomoc publiczna może być udzielona, jeżeli możliwość jej udzielenia przewiduje umowa o dofinansowanie projektu, o której mowa w art. 2 pkt 26 lit. c ustawy.
 § 6.
@@ -103,7 +98,7 @@ Pomoc de minimis może być udzielona przedsiębiorcy na pokrycie części lub c
 § 7.
 1.
 Przepisów rozporządzenia w zakresie pomocy publicznej nie stosuje się do pomocy, o której mowa w art. 1 ust. 2 lit. c i d, ust. 3 lit. a-d, ust. 4 lit. c i ust. 5 oraz art. 13 rozporządzenia nr 651/2014.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Inwestycji i Rozwoju z dnia 2 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Europejskiej Współpracy Terytorialnej na lata 2014–2020 (Dz. U. poz. 1589), które weszło w życie z dniem 21 sierpnia 2018 r..
 Pomoc publiczna nie może zostać udzielona ani wypłacona przedsiębiorcy, na którym ciąży obowiązek zwrotu pomocy publicznej, wynikający z decyzji Komisji Europejskiej uznającej taką pomoc przyznaną przez Rzeczpospolitą Polską za niezgodną z prawem oraz z rynkiem wewnętrznym.
 3.
 Niniejsze rozporządzenie stosuje się jedynie do pomocy publicznej, która wywołuje efekt zachęty w rozumieniu art. 6 ust. 2 z uwzględnieniem art. 6 ust. 5 lit. h rozporządzenia nr 651/2014.
@@ -136,9 +131,9 @@ Maksymalną intensywność regionalnej pomocy inwestycyjnej, z wyłączeniem pom
 20 punktów procentowych – w przypadku mikroprzedsiębiorcy lub małego przedsiębiorcy.
 8.
 Maksymalną intensywność regionalnej pomocy inwestycyjnej ustala się, uwzględniając warunki określone w art. 14 ust. 12–14 rozporządzenia nr 651/2014.
-9.
+9W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Przedsiębiorca, zawierając umowę, zobowiązuje się do spełnienia warunków określonych w art. 14 ust. 5 i 16 rozporządzenia nr 651/2014.
-10.
+10Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Regionalna pomoc inwestycyjna w sektorze rybołówstwa i akwakultury nie może zostać udzielona ani wypłacona przedsiębiorcy w przypadku, o którym mowa w art. 14 ust. 17 rozporządzenia nr 651/2014.
 § 9.
 1.
@@ -263,7 +258,7 @@ w formie określonej w art. 53 ust. 3 rozporządzenia nr 651/2014;
 na pokrycie kosztów kwalifikowalnych, o których mowa w art. 53 ust. 4 i 5 oraz ust. 9 zdanie trzecie rozporządzenia nr 651/2014.
 2.
 Wartość dopuszczalnej pomocy na kulturę i zachowanie dziedzictwa kulturowego ustala się zgodnie z art. 53 ust. 6 i 7 oraz ust. 9 zdanie pierwsze i drugie rozporządzenia nr 651/2014.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Wprzypadku pomocy na kulturę i zachowanie dziedzictwa kulturowego nieprzekraczającej równowartości 2 mln euro wartość dopuszczalnej pomocy może zostać ustalona zgodnie z art. 53 ust. 8 rozporządzenia nr 651/2014.
 § 20.
 1.
@@ -284,7 +279,7 @@ Pomoc na infrastrukturę sportową jest udzielana, jeżeli są spełnione warunk
 Powierzenie osobie trzeciej zadań, o których mowa w art. 55 ust. 6 rozporządzenia nr 651/2014, jest możliwe po spełnieniu warunków określonych w tym przepisie.
 6.
 Wartość dopuszczalnej pomocy na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną ustala się zgodnie z art. 55 ust. 10 i 11 rozporządzenia nr 651/2014.
-7.
+7W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku pomocy na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną nieprzekraczającej równowartości 2 mln euro wartość dopuszczalnej pomocy może zostać ustalona zgodnie z art. 55 ust. 12 rozporządzenia nr 651/2014.
 § 21.
 1.
@@ -295,19 +290,19 @@ Udostępnianie i powierzanie eksploatacji infrastruktury lokalnej objętej pomoc
 Pomoc inwestycyjna na infrastrukturę lokalną jest udzielana na pokrycie kosztów kwalifikowalnych, o których mowa w art. 56 ust. 5 rozporządzenia nr 651/2014.
 4.
 Wartość dopuszczalnej pomocy inwestycyjnej na infrastrukturę lokalną ustala się zgodnie z art. 56 ust. 6 rozporządzenia nr 651/2014.
-§ 21a.
+§ 21aDodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2..
 Pomoc na rzecz regionalnych portów lotniczych w rozumieniu art. 2 pkt 153 rozporządzenia nr 651/2014 jest udzielana:
 1)
 z zachowaniem warunków określonych w art. 56a rozporządzenia nr 651/2014;
 2)
 na pokrycie kosztów kwalifikowalnych, o których mowa w art. 56a ust. 12 rozporządzenia nr 651/2014.
-§ 21b.
+§ 21bDodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2..
 Pomoc na rzecz portów morskich w rozumieniu art. 2 pkt 155 rozporządzenia nr 651/2014 jest udzielana:
 1)
 z zachowaniem warunków określonych w art. 56b rozporządzenia nr 651/2014;
 2)
 na pokrycie kosztów kwalifikowalnych, o których mowa w art. 56b ust. 2 rozporządzenia nr 651/2014, z wyłączeniem kosztów, o których mowa w art. 56b ust. 3 rozporządzenia nr 651/2014.
-§ 21c.
+§ 21cDodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2..
 Pomoc na rzecz portów śródlądowych w rozumieniu art. 2 pkt 156 rozporządzenia nr 651/2014 jest udzielana:
 1)
 z zachowaniem warunków określonych w art. 56c rozporządzenia nr 651/2014;
@@ -358,13 +353,11 @@ Przedsiębiorca przed podpisaniem umowy przedstawia podmiotowi udzielającemu po
 1)
 kopie zaświadczeń o pomocy de minimis lub zaświadczeń o pomocy de minimis w rolnictwie lub zaświadczeń o pomocy de minimis w rybołówstwie, albo oświadczenie o nieotrzymaniu pomocy de minimis , o których mowa w art. 37 ust. 1 pkt 1 oraz ust. 2 pkt 1 i 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej,
 2)
-informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy, o której mowa w pkt 1
-dotyczące okresu od dnia złożenia wniosku do dnia podpisania umowy.
+informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy, o której mowa w pkt 1 – dotyczące okresu od dnia złożenia wniosku do dnia podpisania umowy.
 § 24.
 Pomoc de minimis jest udzielana do końca okresu, o którym mowa w art. 7 ust. 4 w związku z art. 8 rozporządzenia nr 1407/2013.
 § 25.
 Pomoc publiczna jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze w związku z art. 59 rozporządzenia nr 651/2014.
 § 26.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Inwestycji i Rozwoju, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Inwestycji i Rozwoju z dnia 2 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Europejskiej Współpracy Terytorialnej na lata 2014–2020 (Dz. U. poz. 1589), które weszło w życie z dniem 21 sierpnia 2018 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 7) Dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 8) Rozporządzenie zostało ogłoszone w dniu 2 listopada 2015 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 2 listopada 2015 r.. 1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Inwestycji i Rozwoju, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Inwestycji i Rozwoju z dnia 2 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Europejskiej Współpracy Terytorialnej na lata 2014–2020 (Dz. U. poz. 1589), które weszło w życie z dniem 21 sierpnia 2018 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 7) Dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 8) Rozporządzenie zostało ogłoszone w dniu 2 listopada 2015 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 grudnia 2020 r. w sprawie uznawania miejsc produkcji za wolne od bakterii Clavibacter sepedonicus
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 grudnia 2020 r. w sprawie uznawania miejsc produkcji za wolne od bakterii Clavibacter sepedonicus Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-07 |
 | Data wydania | 2020-12-18 |
-| Wejście w życie | 2021-01-02 |
 | Ostatnia zmiana | 2025-12-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002287) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2287/text.pdf) |
 
@@ -66,7 +65,7 @@ Miejsce produkcji nie może zostać uznane za miejsce produkcji wolne od bakteri
 1)
 znajduje się w obszarze wyznaczonym ustanowionym ze względu na stwierdzenie występowania bakterii Clavibacter sepedonicus lub
 2)
-wprowadzone zostały środki, o których mowa w art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/2031 z dnia 26 października 2016 r. w sprawie środków ochronnych przeciwko agrofagom roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 228/2013, (UE) nr 652/2014 i (UE) nr 1143/2014 oraz uchylającego dyrektywy Rady 69/464/EWG, 74/647/EWG, 93/85/EWG, 98/57/WE, 2000/29/WE, 2006/91/WE i 2007/33/WE (Dz. Urz. UE L 317 z 23.11.2016, str. 4, z późn. zm.), w celu potwierdzenia występowania w tym miejscu produkcji bakterii Clavibacter sepedonicus ‒ do czasu wykluczenia występowania w tym miejscu produkcji tej bakterii, lub
+wprowadzone zostały środki, o których mowa w art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/2031 z dnia 26 października 2016 r. w sprawie środków ochronnych przeciwko agrofagom roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 228/2013, (UE) nr 652/2014 i (UE) nr 1143/2014 oraz uchylającego dyrektywy Rady 69/464/EWG, 74/647/EWG, 93/85/EWG, 98/57/WE, 2000/29/WE, 2006/91/WE i 2007/33/WE (Dz. Urz. UE L 317 z 23.11.2016, str. 4, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 95 z 07.04.2017, str. 1 i Dz. Urz. UE L 91 z 29.03.2019, str. 77., w celu potwierdzenia występowania w tym miejscu produkcji bakterii Clavibacter sepedonicus ‒ do czasu wykluczenia występowania w tym miejscu produkcji tej bakterii, lub
 3)
 w tym miejscu produkcji zostały pobrane próbki do badań laboratoryjnych i są widoczne objawy wskazujące na możliwość porażenia bakterią Clavibacter sepedonicus lub wstępne wyniki badań laboratoryjnych wskazują na możliwość porażenia tą bakterią ‒ do czasu uzyskania ostatecznych wyników badań laboratoryjnych wykluczających występowanie tej bakterii.
 3.
@@ -74,8 +73,7 @@ Miejsce produkcji może zostać uznane za miejsce produkcji wolne od bakterii Cl
 1)
 w każdym roku trzyletniego okresu, o którym mowa w ust. 1, zostały pobrane przez wojewódzkiego inspektora próbki bulw lub roślin ziemniaka do badań laboratoryjnych na obecność bakterii Clavibacter sepedonicus co najmniej z 80% partii bulw ziemniaka lub z pól, na których była prowadzona uprawa ziemniaka, w wyniku których nie stwierdził on obecności tej bakterii,
 2)
-w roku następującym po zakończeniu trzyletniego okresu, o którym mowa w ust. 1, zostały pobrane przez wojewódzkiego inspektora próbki bulw lub roślin ziemniaka do badań laboratoryjnych na obecność bakterii Clavibacter sepedonicus ze wszystkich partii ziemniaka lub z pól, na których była prowadzona uprawa ziemniaka, w wyniku których nie stwierdził on obecności tej bakterii
-‒ przy czym pobieranie próbek do badań odbywało się na podstawie zatwierdzonej przez Głównego Inspektora Ochrony Roślin i Nasiennictwa metodyki, o której mowa w ust. 1 pkt 2.
+w roku następującym po zakończeniu trzyletniego okresu, o którym mowa w ust. 1, zostały pobrane przez wojewódzkiego inspektora próbki bulw lub roślin ziemniaka do badań laboratoryjnych na obecność bakterii Clavibacter sepedonicus ze wszystkich partii ziemniaka lub z pól, na których była prowadzona uprawa ziemniaka, w wyniku których nie stwierdził on obecności tej bakterii ‒ przy czym pobieranie próbek do badań odbywało się na podstawie zatwierdzonej przez Głównego Inspektora Ochrony Roślin i Nasiennictwa metodyki, o której mowa w ust. 1 pkt 2.
 § 3.
 1.
 W miejscu produkcji uznanym za miejsce produkcji wolne od bakterii Clavibacter sepedonicus :
@@ -114,6 +112,5 @@ Miejsca produkcji uznane za miejsca produkcji wolne od bakterii Clavibacter mich
 § 6.
 Do uznania miejsca produkcji za miejsce produkcji wolne od bakterii Clavibacter michiganensis ssp. sepedonicus na podstawie wniosku złożonego przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 95 z 07.04.2017, str. 1 i Dz. Urz. UE L 91 z 29.03.2019, str. 77.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 95 z 07.04.2017, str. 1 i Dz. Urz. UE L 91 z 29.03.2019, str. 77.
 

@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-11 |
 | Data wydania | 2015-08-11 |
-| Wejście w życie | 2015-08-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001136) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1136/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 11 ust. 7 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 11 ust. 7 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662 oraz z 2015 r. poz. 151, 478 i 942.) zarządza się, co następuje:
 § 1.
 Wprowadza się od dnia 11 sierpnia 2015 r. od godz. 2400 do dnia 31 sierpnia 2015 r. do godz. 2400 na terytorium Rzeczypospolitej Polskiej ograniczenia w dostarczaniu i poborze energii elektrycznej dla odbiorców energii elektrycznej o mocy umownej powyżej 300 kW.
 § 2.
@@ -35,5 +34,5 @@ Operator systemu przesyłowego elektroenergetycznego oraz operatorzy systemów d
 § 3.
 Ograniczenia, o których mowa w § 1, nie dotyczą odbiorców wymienionych w § 6 ust. 1 rozporządzenia wymienionego w § 2.
 § 4.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662 oraz z 2015 r. poz. 151, 478 i 942.
 

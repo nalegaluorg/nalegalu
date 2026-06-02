@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 12 lutego 2019 r. w sprawie doradztwa zawodowego
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 12 lutego 2019 r. w sprawie doradztwa zawodowego Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-12 |
 | Data wydania | 2019-02-20 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2026-01-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000325) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/325/text.pdf) |
 
@@ -98,8 +97,7 @@ terminy realizacji działań,
 e)
 osoby odpowiedzialne za realizację poszczególnych działań,
 2)
-podmioty, z którymi szkoła współpracuje przy realizacji działań, w tym podmioty, o których mowa w § 8 ust. 1
-z uwzględnieniem potrzeb uczniów, słuchaczy i rodziców oraz lokalnych lub regionalnych działań związanych z doradztwem zawodowym.
+podmioty, z którymi szkoła współpracuje przy realizacji działań, w tym podmioty, o których mowa w § 8 ust. 1 – z uwzględnieniem potrzeb uczniów, słuchaczy i rodziców oraz lokalnych lub regionalnych działań związanych z doradztwem zawodowym.
 3.
 Program, o którym mowa w ust. 1, opracowuje doradca zawodowy albo inny nauczyciel lub nauczyciele odpowiedzialni za realizację doradztwa zawodowego w szkole, wyznaczeni przez dyrektora szkoły.
 4.
@@ -140,8 +138,7 @@ W ramach współpracy z podmiotami, o których mowa w ust. 1, jednostki organiza
 § 9.
 W przypadku braku w szkole doradcy zawodowego, o którym mowa w § 6 ust. 2, do roku szkolnego 2021/2022 włącznie, dyrektor szkoły może powierzyć prowadzenie zajęć z zakresu doradztwa zawodowego, o których mowa w art. 109 ust. 1 pkt 7 ustawy, innemu nauczycielowi lub osobie, o której mowa w art. 15 ust. 2 ustawy.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 ## Załącznik nr 1 — – Treści programowe z zakresu doradztwa zawodowego dla przedszkoli, oddziałów przedszkolnych w szkołach podstawowych i innych form wychowania przedszkolnego
 
@@ -187,8 +184,7 @@ Planowanie własnego rozwoju i podejmowanie decyzji edukacyjno-zawodowych Dzieck
 A.
 Treści programowe z zakresu doradztwa zawodowego dla klas I-III szkół podstawowych
 1.
-Poznanie siebie
-Uczeń:
+Poznanie siebie Uczeń:
 1.
 1 opisuje swoje zainteresowania i określa, w jaki sposób może je rozwijać;
 1.
@@ -200,8 +196,7 @@ Uczeń:
 1.
 5 podejmuje działania w sytuacjach zadaniowych i opisuje, co z nich wyniknęło dla niego i dla innych.
 2.
-Świat zawodów i rynek pracy
-Uczeń:
+Świat zawodów i rynek pracy Uczeń:
 2.
 1 odgrywa różne role zawodowe w zabawie;
 2.
@@ -215,8 +210,7 @@ Uczeń:
 2.
 6 posługuje się przyborami i narzędziami zgodnie z ich przeznaczeniem oraz w sposób twórczy i niekonwencjonalny.
 3.
-Rynek edukacyjny i uczenie się przez całe życie
-Uczeń:
+Rynek edukacyjny i uczenie się przez całe życie Uczeń:
 3.
 1 uzasadnia potrzebę uczenia się i zdobywania nowych umiejętności;
 3.
@@ -224,8 +218,7 @@ Uczeń:
 3.
 3 wymienia różne źródła wiedzy i podejmuje próby korzystania z nich.
 4.
-Planowanie własnego rozwoju i podejmowanie decyzji edukacyjno-zawodowych
-Uczeń:
+Planowanie własnego rozwoju i podejmowanie decyzji edukacyjno-zawodowych Uczeń:
 4.
 1 opowiada, kim chciałby zostać i co chciałby robić;
 4.
@@ -235,8 +228,7 @@ Uczeń:
 B.
 Treści programowe z zakresu doradztwa zawodowego dla klas IV-VI szkół podstawowych
 1.
-Poznawanie własnych zasobów
-Uczeń:
+Poznawanie własnych zasobów Uczeń:
 1.
 1 określa własne zainteresowania i uzdolnienia oraz kompetencje;
 1.
@@ -246,8 +238,7 @@ Uczeń:
 1.
 4 prezentuje swoje zainteresowania i uzdolnienia wobec innych osób z zamiarem zaciekawienia odbiorców.
 2.
-Świat zawodów i rynek pracy
-Uczeń:
+Świat zawodów i rynek pracy Uczeń:
 2.
 1 wymienia różne grupy zawodów i podaje przykłady zawodów charakterystycznych dla poszczególnych grup, opisuje różne ścieżki ich uzyskiwania oraz podstawową specyfikę pracy w zawodach;
 2.
@@ -259,8 +250,7 @@ Uczeń:
 2.
 5 wyjaśnia rolę pieniądza we współczesnym świecie i jego związek z pracą.
 3.
-Rynek edukacyjny i uczenie się przez całe życie
-Uczeń:
+Rynek edukacyjny i uczenie się przez całe życie Uczeń:
 3.
 1 wskazuje różne sposoby zdobywania wiedzy, korzystając ze znanych mu przykładów, oraz omawia swój indywidualny sposób nauki;
 3.
@@ -268,8 +258,7 @@ Uczeń:
 3.
 3 samodzielnie dociera do informacji i korzysta z różnych źródeł wiedzy.
 4.
-Planowanie własnego rozwoju i podejmowanie decyzji edukacyjno-zawodowych
-Uczeń:
+Planowanie własnego rozwoju i podejmowanie decyzji edukacyjno-zawodowych Uczeń:
 4.
 1 opowiada o swoich planach edukacyjno-zawodowych;
 4.
@@ -280,8 +269,7 @@ Uczeń:
 ## Załącznik nr 3 — – Treści programowe z zakresu doradztwa zawodowego dla klas VII i VIII szkół podstawowych
 
 1.
-Poznawanie własnych zasobów
-Uczeń:
+Poznawanie własnych zasobów Uczeń:
 1.
 1 określa wpływ stanu zdrowia na wykonywanie zadań zawodowych;
 1.
@@ -297,8 +285,7 @@ Uczeń:
 1.
 7 określa własną hierarchię wartości i potrzeb.
 2.
-Świat zawodów i rynek pracy
-Uczeń:
+Świat zawodów i rynek pracy Uczeń:
 2.
 1 wyszukuje i analizuje informacje na temat zawodów oraz charakteryzuje wybrane zawody, uwzględniając kwalifikacje wyodrębnione w zawodach oraz możliwości ich uzyskiwania;
 2.
@@ -316,8 +303,7 @@ Uczeń:
 2.
 8 charakteryzuje instytucje wspomagające planowanie ścieżki edukacyjno-zawodowej, w tym instytucje rynku pracy.
 3.
-Rynek edukacyjny i uczenie się przez całe życie
-Uczeń:
+Rynek edukacyjny i uczenie się przez całe życie Uczeń:
 3.
 1 analizuje oferty szkół ponadpodstawowych i szkół wyższych pod względem możliwości dalszego kształcenia, korzystając z dostępnych źródeł informacji;
 3.
@@ -327,8 +313,7 @@ Uczeń:
 3.
 4 określa znaczenie uczenia się przez całe życie.
 4.
-Planowanie własnego rozwoju i podejmowanie decyzji edukacyjno-zawodowych
-Uczeń:
+Planowanie własnego rozwoju i podejmowanie decyzji edukacyjno-zawodowych Uczeń:
 4.
 1 dokonuje wyboru dalszej ścieżki edukacyjno-zawodowej samodzielnie lub przy wsparciu doradczym;
 4.
@@ -341,8 +326,7 @@ Uczeń:
 ## Załącznik nr 4 — – Treści programowe z zakresu doradztwa zawodowego dla branżowych szkół I stopnia
 
 1.
-Poznawanie własnych zasobów
-Uczeń:
+Poznawanie własnych zasobów Uczeń:
 1.
 1 sporządza bilans własnych zasobów na podstawie dokonanej autoanalizy („portfolio”);
 1.
@@ -356,8 +340,7 @@ Uczeń:
 1.
 6 określa własny system wartości, w tym wartości związanych z pracą i etyką zawodową.
 2.
-Świat zawodów i rynek pracy
-Uczeń:
+Świat zawodów i rynek pracy Uczeń:
 2.
 1 analizuje informacje o lokalnym, regionalnym, krajowym i europejskim rynku pracy oraz funkcjonujących na nim zasadach w kontekście wyborów edukacyjno-zawodowych;
 2.
@@ -377,8 +360,7 @@ Uczeń:
 2.
 9 charakteryzuje instytucje wspomagające planowanie ścieżki edukacyjno-zawodowej, w tym instytucje rynku pracy.
 3.
-Rynek edukacyjny i uczenie się przez całe życie
-Uczeń:
+Rynek edukacyjny i uczenie się przez całe życie Uczeń:
 3.
 1 korzysta ze źródeł informacji dotyczących dalszego kształcenia i doskonalenia zawodowego formalnego, pozaformalnego i nieformalnego;
 3.
@@ -388,8 +370,7 @@ Uczeń:
 3.
 4 analizuje możliwości kontynuowania nauki.
 4.
-Planowanie własnego rozwoju i podejmowanie decyzji edukacyjno-zawodowych
-Uczeń:
+Planowanie własnego rozwoju i podejmowanie decyzji edukacyjno-zawodowych Uczeń:
 4.
 1 ustala swoje cele, zadania i działania w kontekście planowania ścieżki edukacyjno-zawodowej;
 4.
@@ -400,8 +381,7 @@ Uczeń:
 ## Załącznik nr 5 — – Treści programowe z zakresu doradztwa zawodowego dla liceów ogólnokształcących
 
 1.
-Poznawanie własnych zasobów
-Uczeń:
+Poznawanie własnych zasobów Uczeń:
 1.
 1 sporządza bilans własnych zasobów na podstawie dokonanej autoanalizy („portfolio”);
 1.
@@ -415,8 +395,7 @@ Uczeń:
 1.
 6 określa własny system wartości, w tym wartości związanych z pracą i etyką zawodową.
 2.
-Świat zawodów i rynek pracy
-Uczeń:
+Świat zawodów i rynek pracy Uczeń:
 2.
 1 analizuje informacje o zawodach, kwalifikacjach i stanowiskach pracy oraz możliwościach ich uzyskiwania w kontekście wyborów edukacyjno-zawodowych;
 2.
@@ -436,8 +415,7 @@ Uczeń:
 2.
 9 charakteryzuje instytucje wspomagające planowanie ścieżki edukacyjno-zawodowej, w tym instytucje rynku pracy.
 3.
-Rynek edukacyjny i uczenie się przez całe życie
-Uczeń:
+Rynek edukacyjny i uczenie się przez całe życie Uczeń:
 3.
 1 korzysta ze źródeł informacji dotyczących dalszego kształcenia formalnego, pozaformalnego i nieformalnego;
 3.
@@ -447,8 +425,7 @@ Uczeń:
 3.
 4 wskazuje możliwości kontynuowania nauki.
 4.
-Planowanie własnego rozwoju i podejmowanie decyzji edukacyjno-zawodowych
-Uczeń:
+Planowanie własnego rozwoju i podejmowanie decyzji edukacyjno-zawodowych Uczeń:
 4.
 1 ustala swoje cele, zadania i działania w kontekście planowania ścieżki edukacyjno-zawodowej;
 4.
@@ -459,8 +436,7 @@ Uczeń:
 ## Załącznik nr 6 — – Treści programowe z zakresu doradztwa zawodowego dla techników
 
 1.
-Poznawanie własnych zasobów
-Uczeń:
+Poznawanie własnych zasobów Uczeń:
 1.
 1 sporządza bilans własnych zasobów na podstawie dokonanej autoanalizy („portfolio”);
 1.
@@ -474,8 +450,7 @@ Uczeń:
 1.
 6 określa własny system wartości, w tym wartości związanych z pracą i etyką zawodową.
 2.
-Świat zawodów i rynek pracy
-Uczeń:
+Świat zawodów i rynek pracy Uczeń:
 2.
 1 analizuje informacje o lokalnym, regionalnym, krajowym i europejskim rynku pracy oraz funkcjonujących na nim zasadach w kontekście wyborów edukacyjno-zawodowych;
 2.
@@ -495,8 +470,7 @@ Uczeń:
 2.
 9 charakteryzuje instytucje wspomagające planowanie ścieżki edukacyjno-zawodowej, w tym instytucje rynku pracy.
 3.
-Rynek edukacyjny i uczenie się przez całe życie
-Uczeń:
+Rynek edukacyjny i uczenie się przez całe życie Uczeń:
 3.
 1 korzysta ze źródeł informacji dotyczących dalszego kształcenia i doskonalenia zawodowego formalnego, pozaformalnego i nieformalnego;
 3.
@@ -506,8 +480,7 @@ Uczeń:
 3.
 4 analizuje możliwości kontynuowania nauki.
 4.
-Planowanie własnego rozwoju i podejmowanie decyzji edukacyjno-zawodowych
-Uczeń:
+Planowanie własnego rozwoju i podejmowanie decyzji edukacyjno-zawodowych Uczeń:
 4.
 1 ustala swoje cele, zadania i działania w kontekście planowania ścieżki edukacyjno-zawodowej;
 4.
@@ -518,8 +491,7 @@ Uczeń:
 ## Załącznik nr 7 — – Treści programowe z zakresu doradztwa zawodowego dla branżowych szkół II stopnia, szkół policealnych i szkół dla dorosłych
 
 1.
-Poznawanie własnych zasobów
-Słuchacz:
+Poznawanie własnych zasobów Słuchacz:
 1.
 1 weryfikuje własne zasoby (zainteresowania, zdolności, uzdolnienia, kompetencje, predyspozycje zawodowe) w kontekście planowania ścieżki edukacyjno-zawodowej;
 1.
@@ -533,8 +505,7 @@ Słuchacz:
 1.
 6 rozpoznaje swoje możliwości i ograniczenia w zakresie wykonywania zadań zawodowych i uwzględnia je w planowaniu ścieżki edukacyjno-zawodowej.
 2.
-Świat zawodów i rynek pracy
-Słuchacz:
+Świat zawodów i rynek pracy Słuchacz:
 2.
 1 określa zawody i stanowiska pracy, dla których bazę stanowią jego kwalifikacje, z uwzględnieniem zawodów przyszłości i zapotrzebowania rynku pracy;
 2.
@@ -554,8 +525,7 @@ Słuchacz:
 2.
 9 charakteryzuje instytucje wspomagające planowanie ścieżki edukacyjno-zawodowej, w tym instytucje rynku pracy.
 3.
-Rynek edukacyjny i uczenie się przez całe życie
-Słuchacz:
+Rynek edukacyjny i uczenie się przez całe życie Słuchacz:
 3.
 1 korzysta ze źródeł informacji dotyczących dalszego kształcenia i doskonalenia zawodowego formalnego, pozaformalnego i nieformalnego;
 3.
@@ -565,8 +535,7 @@ Słuchacz:
 3.
 4 określa korzyści wynikające z uczenia się przez całe życie w rozwoju osobistym i zawodowym.
 4.
-Planowanie własnego rozwoju i podejmowanie decyzji edukacyjno-zawodowych
-Słuchacz:
+Planowanie własnego rozwoju i podejmowanie decyzji edukacyjno-zawodowych Słuchacz:
 4.
 1 ustala swoje cele, zadania i działania w kontekście planowania ścieżki edukacyjno-zawodowej;
 4.

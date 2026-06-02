@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-06-28 |
 | Data wydania | 2022-07-04 |
-| Wejście w życie | 2022-07-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001397) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1397/text.pdf) |
 
@@ -172,8 +171,7 @@ dowódcy jednostki wojskowej, w której jest realizowane szkolenie praktyczne, a
 2)
 rektora-komendanta uczelni wojskowej, w której jest realizowane szkolenie w module oficerskim, albo
 3)
-rektora uczelni, w której jest realizowane szkolenie teoretyczne
-stosownie do etapu, na którym składa się ten wniosek.
+rektora uczelni, w której jest realizowane szkolenie teoretyczne – stosownie do etapu, na którym składa się ten wniosek.
 2.
 W przypadku złożenia wniosku, o którym mowa w art. 109 ust. 2 pkt 2 ustawy, zwolnienia ze szkolenia dokonuje w formie rozkazu dziennego:
 1)

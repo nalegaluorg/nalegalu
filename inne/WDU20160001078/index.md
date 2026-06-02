@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-20 |
 | Data wydania | 2016-07-21 |
-| Wejście w życie | 2016-07-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001078) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1078/text.pdf) |
 
@@ -124,8 +123,7 @@ stanowisko pracy lub stanowisko służbowe oraz wskazuje jednostkę organizacyjn
 2)
 zadania służbowe, które będzie wykonywał w ABW,
 3)
-czas oraz system pracy lub służby
-związane z realizacją przez Szefa ABW zadania wymienionego w art. 3 ust. 1 ustawy.
+czas oraz system pracy lub służby – związane z realizacją przez Szefa ABW zadania wymienionego w art. 3 ust. 1 ustawy.
 2.
 W przypadku, o którym mowa w ust. 1 pkt 3, realizacja zadań przez oddelegowanego może odbywać się również w systemie zmianowym w związku z potrzebą zabezpieczenia niezakłóconego wykonywania przez Szefa ABW zadania wymienionego w art. 3 ust. 1 ustawy oraz w celu efektywnego organizowania wykonywania pracy lub obowiązków służbowych.
 § 10.
@@ -157,8 +155,7 @@ nagrody uznaniowe,
 d)
 ekwiwalent za niewykorzystane urlopy wypoczynkowe, do których funkcjonariusz lub żołnierz nabył prawo w ABW,
 e)
-należności z tytułu podróży służbowych
-w wysokości określonej zgodnie z zasadami obowiązującymi w ABW;
+należności z tytułu podróży służbowych – w wysokości określonej zgodnie z zasadami obowiązującymi w ABW;
 2)
 podmiot oddelegowujący:
 a)
@@ -198,9 +195,9 @@ W zakresie nieuregulowanym w niniejszym rozporządzeniu do oddelegowania do ABW:
 1)
 funkcjonariuszy podmiotów oddelegowujących stosuje się przepisy wydane na podstawie:
 a)
-art. 36 ust. 5 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2015 r. poz. 355, z późn. zm.),
+art. 36 ust. 5 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2015 r. poz. 355, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 529, 1045, 1066, 1217, 1268, 1890, 2023 i 2281 oraz z 2016 r. poz. 147, 437, 669, 862, 904 i 960.),
 b)
-art. 41 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2014 r. poz. 1402, z późn. zm.),
+art. 41 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2014 r. poz. 1402, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822, z 2015 r. poz. 529, 1045, 1066, 1217, 1268, 1322, 1336, 1607, 1642, 1830, 1890, 2023 i 2281 oraz z 2016 r. poz. 147, 437, 615, 669, 904 i 960.),
 c)
 art. 28a ust. 3 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2016 r. poz. 603 i 960),
 d)
@@ -208,17 +205,17 @@ art. 31 ust. 4 ustawy z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz. U. z 
 e)
 art. 56 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2015 r. poz. 1929 i 2023 oraz z 2016 r. poz. 147, 437, 904 i 960),
 f)
-art. 60 ust. 3 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2014 r. poz. 1411, z późn. zm.),
+art. 60 ust. 3 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2014 r. poz. 1411, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822, z 2015 r. poz. 1066, 1217, 1224, 1268 i 2023 oraz z 2016 r. poz. 147, 437, 615, 904 i 960.),
 g)
 art. 15 ust. 3 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2016 r. poz. 740, 904 i 960),
 h)
-art. 87 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2015 r. poz. 990, z późn. zm.);
+art. 87 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2015 r. poz. 990, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1045, 1217, 1268, 1269, 1479, 1642, 1830, 1890 i 2023 oraz z 2016 r. poz. 147, 669 i 904.);
 2)
 żołnierzy podmiotów oddelegowujących stosuje się przepisy wydane na podstawie:
 a)
-art. 22 ust. 9 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2014 r. poz. 1414, z późn. zm.),
+art. 22 ust. 9 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2014 r. poz. 1414, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822, z 2015 r. poz. 1066, 1217, 1268 i 1830 oraz z 2016 r. poz. 178, 308, 904, 960 i 1053.),
 b)
-art. 50 ust. 3 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 253, z późn. zm.);
+art. 50 ust. 3 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 253, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 502 i 1055, z 2015 r. poz. 1066 i 1224 oraz z 2016 r. poz. 147, 437 i 904.);
 3)
 pracowników podmiotów oddelegowujących będących pracownikami jednostek i organów podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych stosuje się przepisy wydane na podstawie art. 5 ust. 5 ustawy z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2016 r. poz. 299 i 615);
 4)
@@ -226,5 +223,5 @@ pracowników Generalnego Inspektora Kontroli Skarbowej stosuje się przepisy wyd
 § 13.
 Do pracowników podmiotów oddelegowujących, innych niż wymienieni w § 12 pkt 3 i 4, stosuje się przepisy niniejszego rozporządzenia, przepisy prawa pracy, przepisy o pracownikach urzędów państwowych oraz przepisy o służbie cywilnej.
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 529, 1045, 1066, 1217, 1268, 1890, 2023 i 2281 oraz z 2016 r. poz. 147, 437, 669, 862, 904 i 960. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822, z 2015 r. poz. 529, 1045, 1066, 1217, 1268, 1322, 1336, 1607, 1642, 1830, 1890, 2023 i 2281 oraz z 2016 r. poz. 147, 437, 615, 669, 904 i 960. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822, z 2015 r. poz. 1066, 1217, 1224, 1268 i 2023 oraz z 2016 r. poz. 147, 437, 615, 904 i 960. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1045, 1217, 1268, 1269, 1479, 1642, 1830, 1890 i 2023 oraz z 2016 r. poz. 147, 669 i 904. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822, z 2015 r. poz. 1066, 1217, 1268 i 1830 oraz z 2016 r. poz. 178, 308, 904, 960 i 1053. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 502 i 1055, z 2015 r. poz. 1066 i 1224 oraz z 2016 r. poz. 147, 437 i 904.
 

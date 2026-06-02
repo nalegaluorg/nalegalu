@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 listopada 2016 r. o zmianie niektórych ustaw w związku z utworzeniem Ministerstwa Spraw Wewnętrznych i Administracji
+# Ustawa z dnia 16 listopada 2016 r. o zmianie niektórych ustaw w związku z utworzeniem Ministerstwa Spraw Wewnętrznych i Administracji Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej, ustawę z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, ustawę z dnia 30 maja 1996 r. o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 29 listopada 2000 r. – Prawo atomowe, ustawę z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, ustawę z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej, ustawę z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych, ustawę z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach, ustawę z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego, ustawę z dnia 11 września 2015 r. o zdrowiu publicznym oraz ustawę z dnia 9 października 2015 r. o produktach biobójczych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-16 |
 | Data wydania | 2016-12-12 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002003) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2003/text.pdf) |
 
@@ -53,11 +52,11 @@ source: "eli-html"
 
 2. Wydatki związane z ochroną są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw wewnętrznych. ” .
 
-**Art. 4.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r. poz. 543, z późn. zm.) w art. 12a w ust. 1 w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 w brzmieniu: „
+**Art. 4.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r. poz. 543, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948, 1954 i 1961.) w art. 12a w ust. 1 w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 w brzmieniu: „
 
 - **14)** infrastruktury informacji przestrzennej. ” .
 
-**Art. 5.** W ustawie z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2014 r. poz. 1512, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2014 r. poz. 1512, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1505 i 1893 oraz z 2016 r. poz. 266, 1343, 1579 i 1948.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 w ust. 4 w pkt 2, w art. 33e w ust. 2, w art. 33k w ust. 2, w art. 63 w ust. 2 w pkt 2 oraz w art. 124 w ust. 1 w pkt 2 użyte w różnych liczbach i różnych przypadkach wyrazy „państwowy inspektor sanitarny Ministerstwa Spraw Wewnętrznych” zastępuje się użytymi w odpowiednich liczbach i odpowiednich przypadkach wyrazami „państwowy inspektor sanitarny Ministerstwa Spraw Wewnętrznych i Administracji”;
 - **2)** w art. 33j w ust. 3 pkt 8 otrzymuje brzmienie: „
@@ -65,7 +64,7 @@ source: "eli-html"
 
 **Art. 6.** W ustawie z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2015 r. poz. 806) w art. 15p w ust. 1 w pkt 3 wyrazy „Głównemu Inspektorowi Sanitarnemu Ministerstwa Spraw Wewnętrznych” zastępuje się wyrazami „Głównemu Inspektorowi Sanitarnemu Ministerstwa Spraw Wewnętrznych i Administracji”.
 
-**Art. 7.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. poz. 271, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. poz. 271, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. poz. 1505 i 1570, z 2009 r. poz. 97, 206, 753, 788 i 817, z 2010 r. poz. 513 i 679, z 2011 r. poz. 322, 451, 622, 654, 657 i 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491, z 2015 r. poz. 28, 277, 788, 875, 1771, 1830, 1918, 1926 i 1991 oraz z 2016 r. poz. 823, 960, 1579 i 1948.) wprowadza się następujące zmiany:
 
 - **1)** w art. 36b w pkt 8 wyrazy „Państwowej Inspekcji Sanitarnej Ministerstwa Spraw Wewnętrznych” zastępuje się wyrazami „Państwowej Inspekcji Sanitarnej Ministerstwa Spraw Wewnętrznych i Administracji”;
 - **2)** w art. 36c w ust. 1 wyrazy „Państwowej Inspekcji Sanitarnej Ministerstwa Spraw Wewnętrznych” zastępuje się wyrazami „Państwowej Inspekcji Sanitarnej Ministerstwa Spraw Wewnętrznych i Administracji”.
@@ -167,8 +166,11 @@ source: "eli-html"
 
 5. Plan pracy Rady oraz sprawozdanie, o których mowa w ust. 4, udostępnia się w Biuletynie Informacji Publicznej ministra właściwego do spraw informatyzacji. ” ;
 
-- **6)** w art. 22: w ust. 1: – pkt 8 otrzymuje brzmienie: „ 8) przedstawiciele innych organów administracji rządowej w randze sekretarza lub podsekretarza stanu wyznaczeni przez Prezesa Rady Ministrów na wniosek ministra właściwego do spraw informatyzacji; ” , – pkt 10 otrzymuje brzmienie: „ 10) czterej przedstawiciele instytucji naukowych lub organizacji pozarządowych powołani przez ministra właściwego do spraw informatyzacji. ” , ust. 2–4 otrzymują brzmienie: „
+- **6)** w art. 22: w ust. 1: pkt 8 otrzymuje brzmienie: „
     - **a)**
+
+- **8)** przedstawiciele innych organów administracji rządowej w randze sekretarza lub podsekretarza stanu wyznaczeni przez Prezesa Rady Ministrów na wniosek ministra właściwego do spraw informatyzacji; ” , pkt 10 otrzymuje brzmienie: „
+- **10)** czterej przedstawiciele instytucji naukowych lub organizacji pozarządowych powołani przez ministra właściwego do spraw informatyzacji. ” , ust. 2–4 otrzymują brzmienie: „
     - **b)**
 
 2. Kandydaci na członków Rady, o których mowa w ust. 1 pkt 10, mogą być zgłaszani ministrowi właściwemu do spraw informatyzacji przez zainteresowane instytucje i organizacje.
@@ -241,7 +243,7 @@ source: "eli-html"
 1. Z dniem 1 stycznia 2017 r.:
 
 - **1)** członkowie korpusu służby cywilnej zatrudnieni w urzędzie obsługującym Głównego Geodetę Kraju, realizujący do tego dnia zadania, o których mowa w art. 13 ust. 1 i 2 ustawy zmienianej w art. 13 niniejszej ustawy,
-- **2)** członek korpusu służby cywilnej zatrudniony w urzędzie obsługującym ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, realizujący do tego dnia zadania, o których mowa w art. 19 ust. 1 ustawy zmienianej w art. 13 niniejszej ustawy stają się członkami korpusu służby cywilnej zatrudnionymi w urzędzie obsługującym ministra właściwego do spraw informatyzacji.
+- **2)** członek korpusu służby cywilnej zatrudniony w urzędzie obsługującym ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, realizujący do tego dnia zadania, o których mowa w art. 19 ust. 1 ustawy zmienianej w art. 13 niniejszej ustawy – stają się członkami korpusu służby cywilnej zatrudnionymi w urzędzie obsługującym ministra właściwego do spraw informatyzacji.
 
 2. Dotychczasowi pracodawcy są obowiązani, w terminie 7 dni od dnia ogłoszenia niniejszej ustawy, zawiadomić na piśmie członków korpusu służby cywilnej, o których mowa w ust. 1, o zmianach, jakie mają nastąpić w zakresie ich stosunków pracy. Przepis art. 231§ 4 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666) stosuje się odpowiednio.
 
@@ -250,7 +252,7 @@ source: "eli-html"
 4. Do pracowników zatrudnionych w urzędzie obsługującym:
 
 - **1)** Głównego Geodetę Kraju i realizujących do dnia 1 stycznia 2017 r. zadania, o których mowa w art. 13 ust. 1 i 2 ustawy zmienianej w art. 13 niniejszej ustawy,
-- **2)** ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa i realizujących do dnia 1 stycznia 2017 r. zadania, o których mowa w art. 19 ust. 1 ustawy zmienianej w art. 13 niniejszej ustawy stosuje się art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+- **2)** ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa i realizujących do dnia 1 stycznia 2017 r. zadania, o których mowa w art. 19 ust. 1 ustawy zmienianej w art. 13 niniejszej ustawy – stosuje się art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 **Art. 25.** W celu wykonania przepisów ustawy Prezes Rady Ministrów dokona, w drodze rozporządzenia, przeniesienia planowanych dochodów i wydatków budżetowych, w tym wynagrodzeń, między częściami, działami i rozdziałami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej.
 

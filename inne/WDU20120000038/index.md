@@ -91,7 +91,9 @@ Załączniki:
 2. ……………………………………………………………………………………………..
 ……………………………………………………………………………………………...
 ……………………………………….. ………………………………………..
-Kwestionariusz zebrania informacji przez SPECJALISTĘ TERAPII UZALEŻNIEŃ I . ZAPIS WYWIADU ZE SPECJALISTĄ TERAPII UZALEŻNIEŃ(STU).
+
+## Załącznik nr 2 — Wzór Kwestionariusz zebrania informacji przez SPECJALISTĘ TERAPII UZALEŻNIEŃ I . ZAPIS WYWIADU ZE SPECJALISTĄ TERAPII UZALEŻNIEŃ(STU).
+
 Przed przystąpieniem do rozmowy należy poinformować badanego o celu wywiadu, a także o przekazaniu uzyskanych informacji do akt prowadzonego postępowania i do wiadomości instytucji mającej prowadzić terapię.
 Warunkiem przystąpienia do wywiadu jest zgłoszenie przez badanego chęci uczestniczenia w wywiadzie.
 Dane zawarte w formularzu zapisane według oświadczenia badanego.
@@ -155,7 +157,6 @@ II.WNIOSKI.
 8. Zarys ewentualnego planu leczenia.
 9. Zalecane procedury.
 Szczegóły/dodatkowe informacje/kontakty/adresy Konsultacja w poradni Konsultacja psychiatryczna Detoksykacja Stały kontakt z terapeutą/ kontrola abstynencji Medyczne wsparcie terapii Terapia indywidualna Terapia grupowa
+Oddział dzienny Ośrodek stacjonarny Grupy AN Grupy zapobiegania nawrotom Leczenie substytucyjne Zapewnienie noclegu Badania w kierunku HIV/HCV Konsultacja internistyczna Udział w programie edukacyjno-profilaktycznym Inne (wymienić)
 10. Wydano skierowanie do ……………………………………………...……………………… ……………………………………………………………………………………………………… (nazwa, adres placówki, godzina, data, imię i nazwisko, telefon osoby do kontaktu) Data, podpis i pieczęć specjalisty
-
-##### Oddział dzienny Ośrodek stacjonarny Grupy AN Grupy zapobiegania nawrotom Leczenie substytucyjne Zapewnienie noclegu Badania w kierunku HIV/HCV Konsultacja internistyczna Udział w programie edukacyjno-profilaktycznym Inne (wymienić)
 

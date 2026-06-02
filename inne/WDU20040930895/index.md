@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 kwietnia 2004 r. o zmianie ustawy o bezpieczeństwie morskim oraz o zmianie niektórych innych ustaw
+# Ustawaz dnia 20 kwietnia 2004 r. o zmianie ustawy o bezpieczeństwie morskim oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki, ustawę z dnia 21 grudnia 2000 r. o żegludze śródlądowej oraz ustawę z dnia 18 września 2001 r. – Kodeks morski.Niniejsza ustawa wdraża postanowienia następujących dyrektyw:
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-04-20 |
 | Data wydania | 2004-04-30 |
-| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040930895) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/895/text.pdf) |
 
+-dyrektywę 2002/59/WE z dnia 27 czerwca 2002 r. ustanawiająca wspólnotowy system monitorowania i informacji o ruchu statków i uchylająca dyrektywę 93/75/EWG (Dz. Urz. WE L 208 z 5.08.2002 r.),
 Załącznik – Część I
 – dyrektywę 2001/25/WE z dnia 4 kwietnia 2001 r. w sprawie minimalnego poziomu wyszkolenia marynarzy (Dz. Urz. WE L 136 z 18.05.2001 r., z późn. zm.),
 – dyrektywę 98/41/WE z dnia 18 czerwca 1998 r. w sprawie rejestracji osób podróżujących na pokładzie statków pasażerskich płynących do portów Państw Członkowskich Wspólnoty lub z portów Państw Członkowskich Wspólnoty (Dz. Urz. WE L 188 z 2.07.1998 r., z późn. zm.),
@@ -34,7 +34,7 @@ Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w ninie
 
 **Art. 1.** W ustawie z dnia 9 listopada 2000 r. o bezpieczeństwie morskim (Dz. U. Nr 109, poz. 1156, z 2002 r. Nr 240, poz. 2060 oraz z 2003 r. Nr 199, poz. 1936 i Nr 229, poz. 2278 oraz z 2004 r. Nr 6, poz. 41) wprowadza się następujące zmiany:
 
-- **1)** do tytułu ustawy dodaje się odnośnik nr 1 w brzmieniu: „
+- **1)** do tytułu ustawy dodaje się odnośnik nr 1 w brzmieniu: „ 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji transpozycji następujących dyrektyw Wspólnot Europejskich:
 - **1)** dyrektywy 94/57/WE z dnia 22 listopada 1994 r. w sprawie wspólnych przepisów i norm dotyczących organizacji dokonujących inspekcji i przeglądów na statkach oraz odnośnych działań Administracji Morskiej (Dz. Urz. WE L 319 z 12.12.1994 r., z późn. zm.),
 - **2)** dyrektywy 95/21/WE z dnia 19 czerwca 1995 r. dotyczącej przestrzegania, w odniesieniu do żeglugi morskiej korzystającej ze wspólnotowych portów oraz żeglugi morskiej po wodach znajdujących się pod jurysdykcją państw członkowskich, międzynarodowych norm bezpieczeństwa statków i zapobiegania zanieczyszczeniom oraz pokładowych warunków życia i pracy (kontrola państwa portu) (Dz. Urz. WE L 157 z 07.07.1995 r., z późn. zm.),
 - **3)** dyrektywę 95/64/WE z dnia 8 grudnia 1995 r. w sprawie sprawozdań statystycznych w odniesieniu do przewozu rzeczy i osób drogą morską (Dz. Urz. L 320 z 30.12.95 r., z późn. zm.),
@@ -94,7 +94,7 @@ Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w ninie
 4. Dokumenty, o których mowa w ust. 1, wydają dyrektorzy urzędów morskich po złożeniu przez ubiegających się o uzyskanie tych dokumentów:
 
 - **1)** egzaminu z zakresu wymaganej wiedzy i umiejętności,
-- **2)** przedstawieniu przez nich zaświadczeń o odbyciu szkoleń i praktyk pływania jeżeli są wymagane dla danego dokumentu.
+- **2)** przedstawieniu przez nich zaświadczeń o odbyciu szkoleń i praktyk pływania – jeżeli są wymagane dla danego dokumentu.
 
 5. Świadectwa, o których mowa w ust. 3, wydają dyrektorzy urzędów morskich po przedstawieniu przez ubiegających się o uzyskanie tych świadectw pisemnych potwierdzeń o odbyciu wymaganych szkoleń i praktyk w ośrodkach, o których mowa w ust. 6.
 
@@ -232,7 +232,7 @@ Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w ninie
 - **3)** sposób przechowywania i przekazywania informacji o osobach znajdujących się na pokładzie w razie zagrożenia bezpieczeństwa pasażerów lub w razie wypadku,
 - **4)** treść wniosku o zatwierdzenie systemu rejestracji,
 - **5)** warunki i sposób zatwierdzania oraz kontrolowania systemu rejestracji,
-- **6)** warunki udzielania zwolnień od obowiązku liczenia lub rejestrowania pasażerów uwzględniając postanowienia dyrektywy 98/41/WE z dnia 18 czerwca 1998 r. w sprawie rejestracji osób podróżujących na pokładzie statków pasażerskich płynących do portów Państw Członkowskich Wspólnoty lub z portów Państw Członkowskich Wspólnoty (Dz. Urz. WE L 188 z 2.07.1998 r., z późn. zm.). ”
+- **6)** warunki udzielania zwolnień od obowiązku liczenia lub rejestrowania pasażerów – uwzględniając postanowienia dyrektywy 98/41/WE z dnia 18 czerwca 1998 r. w sprawie rejestracji osób podróżujących na pokładzie statków pasażerskich płynących do portów Państw Członkowskich Wspólnoty lub z portów Państw Członkowskich Wspólnoty (Dz. Urz. WE L 188 z 2.07.1998 r., z późn. zm.). ”
 - **18)** po art. 37 dodaje się art. 37a w brzmieniu: „
 
 **Art. 37a.**
@@ -244,10 +244,18 @@ Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w ninie
 - **19)** w art. 52 po pkt 3 kropkę zastępuje się przecinkiem i dodaje się pkt 4 i 5 w brzmieniu: „
 - **4)** nie dopełnia obowiązku liczenia lub rejestrowania osób odbywających podróż morską statkiem pasażerskim,
 - **5)** nie przekazuje, na żądanie właściwych organów, informacji w przypadkach, o których mowa w art. 27a. ” ;
-- **20)** w załączniku do ustawy wprowadza się następujące zmiany: treść części I zastępuje się treścią, określoną w załączniku do ustawy, w części II w pkt 3 skreśla się wyrazy „i karty żeglarskie” oraz pkt 3.1 i 3.3, w części III: – pkt 9., 9.1 i 9.2 otrzymują brzmienie: „ 9. Opłaty za czynności związane z uznaniem wyższych szkół morskich w zakresie objętym postanowieniami Konwencji STCW oraz uznaniem ośrodka szkoleniowego: 9.1 Opłata za kontrolę wyższej szkoły morskiej w zakresie objętym postanowieniami Konwencji STCW lub kontrolę ośrodka szkoleniowego na certyfikat uznania – 1.350 j.t. 9.2 Opłata za kontrolę ośrodka na rozszerzenie działalności – 800 j.t. ” , – dodaje się pkt 9.3 w brzmieniu: „ 9.3 Opłata za kontrolę ośrodka lub wyższej szkoły morskiej na potwierdzenie certyfikatu uznania – 800 j.t. ” . W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502 i Nr 170, poz. 1652 oraz z 2004 r. Nr 6, poz. 41) wprowadza się następujące zmiany:
+- **20)** w załączniku do ustawy wprowadza się następujące zmiany: treść części I zastępuje się treścią, określoną w załączniku do ustawy, w części II w pkt 3 skreśla się wyrazy „i karty żeglarskie” oraz pkt 3.1 i 3.3, w części III: pkt 9., 9.1 i 9.2 otrzymują brzmienie: „
     - **a)**
     - **b)**
     - **c)**
+
+9. Opłaty za czynności związane z uznaniem wyższych szkół morskich w zakresie objętym postanowieniami Konwencji STCW oraz uznaniem ośrodka szkoleniowego:
+
+9. 1 Opłata za kontrolę wyższej szkoły morskiej w zakresie objętym postanowieniami Konwencji STCW lub kontrolę ośrodka szkoleniowego na certyfikat uznania – 1.350 j.t.
+
+9. 2 Opłata za kontrolę ośrodka na rozszerzenie działalności – 800 j.t. ” , dodaje się pkt 9.3 w brzmieniu: „
+
+9. 3 Opłata za kontrolę ośrodka lub wyższej szkoły morskiej na potwierdzenie certyfikatu uznania – 800 j.t. ” . W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502 i Nr 170, poz. 1652 oraz z 2004 r. Nr 6, poz. 41) wprowadza się następujące zmiany:
 
 - **1)** w art. 39 w ust. 5 po pkt 1 dodaje się pkt 1a w brzmieniu: „
 - **1a)** Służba Kontroli Ruchu Statków (Służba VTS) – przy pomocy której dyrektor urzędu morskiego realizuje swoje zadania w zakresie monitorowania ruchu statków i przekazywania informacji; ” ;
@@ -333,200 +341,5 @@ Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w ninie
 
 2. Przepis wykonawczy, o którym mowa w art. 29a ust. 1 ustawy, o której mowa w art. 1, powinien zostać wydany do dnia 31 grudnia 2009 r.
 
-**Art. 7.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
-
-- **1)** Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki, ustawę z dnia 21 grudnia 2000 r. o żegludze śródlądowej oraz ustawę z dnia 18 września 2001 r. – Kodeks morski.Niniejsza ustawa wdraża postanowienia następujących dyrektyw: – dyrektywę 2002/59/WE z dnia 27 czerwca 2002 r. ustanawiająca wspólnotowy system monitorowania i informacji o ruchu statków i uchylająca dyrektywę 93/75/EWG (Dz. Urz. WE L 208 z 5.08.2002 r.), – dyrektywę 2001/25/WE z dnia 4 kwietnia 2001 r. w sprawie minimalnego poziomu wyszkolenia marynarzy (Dz. Urz. WE L 136 z 18.05.2001 r., z późn. zm.), – dyrektywę 98/41/WE z dnia 18 czerwca 1998 r. w sprawie rejestracji osób podróżujących na pokładzie statków pasażerskich płynących do portów Państw Członkowskich Wspólnoty lub z portów Państw Członkowskich Wspólnoty (Dz. Urz. WE L 188 z 2.07.1998 r., z późn. zm.), – dyrektywę 96/98/WE z dnia 20 grudnia 1996 r. w sprawie wyposażenia statków (Dz. Urz. WE L 046 z 17.02.1997 r., z późn. zm.). Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne. Załącznik – Część I I Opłaty za przeprowadzenie inspekcji i wystawienie dokumentów bezpieczeństwa żeglugi 1 Za certyfikat bezpieczeństwa statku pasażerskiego:
-
-1. 1 Statki o pojemności brutto do 500 – 1 200 j.t.
-
-1. 2 Statki o pojemności brutto powyżej 500 do 2.000 – 1 600 j.t.
-
-1. 3 Statki o pojemności brutto powyżej 2.000 do 10.000 – 2 400 j.t.
-
-1. 4 Statki o pojemności brutto powyżej 10.000 do 30.000 – 3 200 j.t.
-
-1. 5 Statki o pojemności brutto powyżej 30.000 – za każde następne 20.000 dodatkowo – 800 j.t. 2 Za certyfikat bezpieczeństwa statku towarowego:
-
-2. 1 Statki o pojemności brutto do 500 – 2 000 j.t.
-
-2. 2 Statki o pojemności brutto powyżej 500 do 2.000 – 3 000 j.t.
-
-2. 3 Statki o pojemności brutto powyżej 2.000 do 10.000 – 4 000 j.t.
-
-2. 4 Statki o pojemności brutto powyżej 10.000 do 30.000 – 5 000 j.t.
-
-2. 5 Statki o pojemności brutto powyżej 30.000 – za każde następne 20.000 dodatkowo – 1 000 j.t. 3 Za wystawienie certyfikatu bezpieczeństwa oraz pozwolenia na eksploatacje jednostki szybkiej (łącznie):
-
-3. 1 Statki o pojemności brutto do 500 – 2 000 j.t.
-
-3. 2 Statki o pojemności brutto powyżej 500 do 2.000 – 2 700 j.t.
-
-3. 3 Statki o pojemności brutto powyżej 2.000 do 10.000 – 4 000 j.t.
-
-3. 4 Statki o pojemności brutto powyżej 10.000 do 30.000 – 5 300 j.t.
-
-3. 5 Statki o pojemności brutto powyżej 30.000 – za każde następne 20.000 dodatkowo – 1 300 j.t. 4 Za certyfikat konstrukcji i wyposażenia oraz pozwolenie na eksploatacje jednostki dynamicznie unoszonej (łącznie):
-
-4. 1 Statki o pojemności brutto do 500 – 1 200 j.t.
-
-4. 2 Statki o pojemności brutto powyżej 500 do 2.000 – 1 600 j.t.
-
-4. 3 Statki o pojemności brutto powyżej 2.000 do 10.000 – 2 400 j.t.
-
-4. 4 Statki o pojemności brutto powyżej 10.000 do 30.000 – 3 200 j.t.
-
-4. 5 Statki o pojemności brutto powyżej 30.000 – za każde następne 20.000 dodatkowo – 800 j.t. 5 Za certyfikat bezpieczeństwa radiowego statku towarowego z wyposażeniem radiotelefonicznym dla statków o pojemności brutto do 500 z wyposażeniem GMDSS – 600 j.t. 6 Za certyfikat bezpieczeństwa statku specjalistycznego – 500 j.t. 7 Za certyfikat zarządzania bezpieczeństwem lub za tymczasowy certyfikat zarządzania bezpieczeństwem:
-
-7. 1 Statki o pojemności brutto do 500 – 1 500 j.t.
-
-7. 2 Statki o pojemności brutto powyżej 500 do 2.000 – 2 000 j.t.
-
-7. 3 Statki o pojemności brutto powyżej 2.000 do 10.000 – 2 500 j.t.
-
-7. 4 Statki o pojemności brutto powyżej 10.000 do 30.000 – 3 500 j.t.
-
-7. 5 Statki o pojemności brutto powyżej 30.000 – za każde następne 20.000 dodatkowo – 1 000 j.t. 8 Za dokument zgodności lub tymczasowy dokument zgodności – 1 200 j.t. 9 Za wykazy wyposażenia do certyfikatu bezpieczeństwa lub karty bezpieczeństwa – 150 j.t. 10 Za certyfikat zwolnienia lub zwolnienie od wymagań przepisów krajowych opłata wynosi 50% stawki opłaty podstawowej za dokument, którego zwolnienie dotyczy. 11 Za certyfikat bezpiecznej obsługi – 500 j.t. 12 Za certyfikat zdolności do przewozu stałych ładunków masowych – 1 000 j.t. 13 Za certyfikat zdolności dla statku przewożącego materiały niebezpieczne – 1 200 j.t. 14 Za kartę bezpieczeństwa, kartę bezpieczeństwa statku rybackiego i kartę bezpieczeństwa typu „Ł”:
-
-14. 1 Statki o pojemności brutto do 20 lub do 15 m długości – 100 j.t.
-
-14. 2 Statki o pojemności brutto powyżej 20 do 100 lub powyżej 15 m do 25 m długości – 200 j.t.
-
-14. 3 Statki o pojemności brutto powyżej 100 do 300 – 400 j.t.
-
-14. 4 Statki o pojemności brutto powyżej 300 do 500 – 600 j.t.
-
-14. 5 Statki o pojemności brutto powyżej 500 do 2.000 – 1 000 j.t.
-
-14. 6 Statki o pojemności brutto powyżej 2.000 do 10.000 – 2 000 j.t.
-
-14. 7 Statki o pojemności brutto powyżej 10.000 do 30.000 – 3 000 j.t.
-
-14. 8 Statki o pojemności brutto powyżej 30.000 – za każde następne 20.000 dodatkowo – 1 000 j.t.
-
-14. 9 Jeżeli parametry statku określone w pkt 14.1 i 14.2 wskazują na możliwość zastosowania dwóch stawek, stosuje się stawkę wg pojemności brutto 15 Za kartę bezpieczeństwa dla statku sportowego i rekreacyjnego:
-
-15. 1 Statki o długości do 6 m – 50 j.t.
-
-15. 2 Statki o długości powyżej 6 m do 9 m – 75 j.t.
-
-15. 3 Statki o długości powyżej 9 m do 12 m – 100 j.t.
-
-15. 4 Statki o długości powyżej 12 m do 15 m – 150 j.t.
-
-15. 5 Statki o długości powyżej 15 m do 24 m – 300 j.t.
-
-15. 6 Statki o długości powyżej 24 m – 500 j.t. 16 Zwyżki i zniżki opłat:
-
-16. 1 Za kartę bezpieczeństwa na jednorazową podróż pobiera się opłaty w wysokości 50% opłat wymienionych w pkt 14.1–14.8 oraz 15.1–15.6
-
-16. 2 Opłata za potwierdzenie ważności dokumentów bezpieczeństwa wynosi 50% wartości stawki określonej do wydania dokumentu bezpieczeństwa, na którym dokonano potwierdzenia ważności.
-
-16. 3 Jeżeli właścicielem jednostki sportowej lub rekreacyjnej jest: emeryt, rencista, uczeń lub student, opłatę za wydanie dokumentu bezpieczeństwa obniża się o 50%.
-
-16. 4 Opłaty określone w pkt 14.1–14.8 ulegają obniżeniu o: – 50% dla statku bez własnego napędu mechanicznego, – 20% dla statku bez własnego napędu mechanicznego wyposażonego w mechanizmy pomocnicze.
-
-16. 5 Za wystawienie dokumentu bezpieczeństwa dla statku morskiego po przeprowadzeniu inspekcji wstępnej – opłata wynosi 110% opłaty podstawowej dla danego dokumentu.
-
-16. 6 W przypadku gdy inspekcję pozytywną poprzedziła inspekcja negatywna, opłata za wystawienie dokumentu bezpieczeństwa wynosi 200% opłaty podstawowej dla danego dokumentu.
-
-16. 7 W przypadku gdy inspekcja poprzedzająca wydanie lub potwierdzenie dokumentu bezpieczeństwa statku – z powodów niezależnych od urzędu morskiego – zostanie w całości lub w części dokonana poza godzinami pracy urzędu morskiego, opłata za wydanie dokumentu bezpieczeństwa wynosi 130% opłaty podstawowej za dany dokument. 17 Inne opłaty:
-
-17. 1 Za reinspekcję statku obcej bandery zatrzymanego przez PSC – 4 000 j.t.
-
-17. 2 Za wymianę dokumentu bezpieczeństwa na wniosek armatora bez konieczności przeprowadzania inspekcji – 50 j.t.
-
-17. 3 Za wydanie duplikatu lub odpisu dokumentu bezpieczeństwa – 50 j.t.
-
-17. 4 Za przywrócenie ważności dokumentu bezpieczeństwa (w szczególności po awarii, zmianach konstrukcyjnych, po unieważnieniu na skutek inspekcji negatywnej) pobiera się opłatę w wysokości 50% opłaty podstawowej pobieranej przy wystawianiu tego dokumentu
-
-17. 5 Za przedłużenie ważności dokumentu bezpieczeństwa na okres do 1 miesiąca bez inspekcji – pobiera się za każdy dokument opłatę w wysokości – 50 j.t.
-
-17. 6 Za przedłużenie ważności dokumentu bezpieczeństwa na okres do 3 miesięcy – pobiera się opłatę w wysokości 30% opłaty podstawowej.
-
-17. 7 Za wystawienie nowego dokumentu bezpieczeństwa na okres powyżej 3 miesięcy do 6 miesięcy – pobiera się opłatę w wysokości 50% opłaty podstawowej.
-
-17. 8 Opłata za przeprowadzenie kontroli dla stacji atestacji: środków ratunkowych, urządzeń p.poż, urządzeń radiowych
-
-17. 8.1 Wydanie dokumentu uznania – 1 350 j.t.
-
-17. 8.2 Potwierdzenie dokumentu uznania – 650 j.t.
-
-17. 8.3 Rozszerzenie działalności, za każdą dodatkową usługę atestacji – 550 j.t.
-
-17. 9 Wynagrodzenie dla zespołu kontrolującego stacje atestacji:
-
-17. 9.1 Przewodniczący zespołu kontrolującego – 300 j.t.
-
-17. 9.2 Członek zespołu kontrolującego – 250 j.t.
-
-17. 10 Opłaty za zatwierdzenie planu ochrony pożarowej statków morskich oraz rozkładów alarmowych statków pasażerskich
-
-17. 10.1 Statki o pojemności brutto do 500 – 200 j.t.
-
-17. 10.2 Statki o pojemności brutto powyżej 500 do 2.000 – 400 j.t.
-
-17. 10.3 Statki o pojemności brutto powyżej 2.000 do 10.000 – 800 j.t.
-
-17. 10.4 Statki o pojemności brutto powyżej 10.000 do 30.000 – 1 200 j.t.
-
-17. 10.5 Statki o pojemności brutto powyżej 30.000 opłata jak w pkt 17.10.4 i dodatkowo za każde następne 20.000 – 400 j.t.
-
-17. 11 Za zatwierdzenie planu rozmieszczenia środków ratunkowych pobiera się 50% opłaty podstawowej jak za zatwierdzenie planu obrony pożarowej według stawek określonych w pkt. 17.10.1–17.10.5
-
-17. 12 Opłata za uznanie instytucji klasyfikacyjnej Za przeprowadzenie:
-
-17. 12.1 Audytu wstępnego – 50 000 j.t.
-
-17. 12.2 Audytu odnowieniowego – 40 000 j.t.
-
-17. 12.3 Audytu okresowego – 20 000 j.t.
-
-17. 12.4 Audytu dodatkowego – 20 000 j.t.
-
-17. 12.5 Za wydanie dokumentu świadectwa uznania instytucji klasyfikacyjnej – 500 j.t.
-
-17. 13 Za wydanie zaświadczenia o przedłużeniu ważności tratw lub zwalniaków hydrostatycznych (bez względu na ilość środków ratunkowych) – 300 j.t.
-
-17. 14 Za zatwierdzenie dokumentu, planu, poradnika nieujętego w niniejszym cenniku pobiera się opłatę w wysokości – 300 j.t.
-
-17. 15 Koszty przejazdów oraz pobytu inspektorów/audytorów poza miastami – siedzibami urzędów morskich, związane z przeprowadzaniem inspekcji lub audytu ponosi zleceniodawca. W przypadku gdy opłata netto wynosi poniżej 10 j.t., odstępuje się od jej pobrania.
-
-17. 16 Za świadectwo wolnej burty – 350 j.t. Opłata za wydanie świadectwa wolnej burty nie obejmuje opłaty za przeprowadzenie przeglądu
-
-17. 17 Za zatwierdzenie instrukcji bezpiecznej obsługi przeładunku materiałów niebezpiecznych – 400 j.t.
-
-17. 18 Za wydanie jednorazowego zwolnienia statku z asysty holowniczej – dotyczy jednorazowych manewrów (za każde: wejście, wyjście, przeholowanie) – 250 j.t.
-
-17. 19 Za wydanie zezwolenia na manewrowanie w porcie statkiem ze zmniejszoną ilością holowników lub bez asysty holowniczej (zezwolenie jest wydawane na okres 12 miesięcy) – 4 000 j.t.
-
-17. 20 Za wydanie zezwolenia jednorazowego na manewrowanie w porcie statkiem ze zmniejszoną ilością holowników lub bez asysty holowniczej (dotyczy wszystkich rodzajów manewrów) – w czasie jednej wizyty w porcie – 600 j.t.
-
-17. 21 Za wydanie zezwolenia dla kapitana statku morskiego żeglugi międzynarodowej na manewrowanie statkiem bez pilota, na obszarze określonego w zezwoleniu portu lub jego rejonie – 250 j.t.
-
-17. 22 Za wydanie zezwolenia dla kapitana statku morskiego żeglugi krajowej na manewrowanie statkiem na wodach morskich bez pilota – 150 j.t.
-
-17. 23 Za wydanie zezwolenia dla kapitana statku na jednorazowe manewrowanie statkiem bez pilota – 400 j.t.
-
-17. 24 Za wydanie zezwolenia dla kapitana statku żeglugi śródlądowej na samodzielne pilotowanie dowodzonego przez siebie statku na obszarze, określonego w zezwoleniu, portu lub jego rejonie – 150 j.t.
-
-17. 25 Za każdorazowe określenie warunków przeładunku materiałów niebezpiecznych w miejscach, dla których nie zatwierdzono instrukcji, o której mowa w pkt 17.17 – 100 j.t.
-
-17. 26 Za wydanie zezwolenia i określenie warunków wprowadzania/wyprowadzania do/z portu statków ponadgabarytowych – 200 j.t.
-
-17. 27 Za wydanie zezwolenia i określenie warunków żeglugi na obszarze portu dla trudnych w manewrowaniu zespołów holowniczych, w których skład wchodzą doki pływające, duże pontony o długości powyżej 50 m, wraki – 150 j.t.
-
-17. 28 Za wydanie zezwolenia i określenie warunków na przeładunek, bunkrowanie na redzie – 50 j.t.
-
-17. 29 Za zalegalizowanie dziennika okrętowego lub innego dokumentu (książki) podlegającego legalizacji – 10 j.t. 18 Objaśnienia uzupełniające:
-
-18. 1 Dla statków z nieudokumentowaną pojemnością brutto opłaty nalicza się według wzoru: \( V = 0,25 \times L \times B \times H, \) gdzie: B – szerokość maksymalna, H – wysokość boczna, L – długość całkowita. Uwaga: dla doków pływających H oznacza wysokość boczną łącznie z basztami.
-
-18. 2 Opłata za wystawienie lub potwierdzenie każdego dokumentu bezpieczeństwa zawiera opłatę za przeprowadzenie odpowiedniej inspekcji i sporządzenie dokumentu.
-
-18. 3 Opłaty za wystawienie, potwierdzenie, przedłużanie czy przywrócenie ważności wszystkich dokumentów bezpieczeństwa statku ponosi armator lub właściciel statku.
-
-18. 4 Wszystkie procenty wymienione w tekście należy liczyć od opłat podstawowych.
-
-18. 5 Ilekroć opłaty przewidziane taryfą są uzależnione od długości, należy przez to rozumieć długość całkowitą statku.”.
-
+**Art. 7.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. 1) Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki, ustawę z dnia 21 grudnia 2000 r. o żegludze śródlądowej oraz ustawę z dnia 18 września 2001 r. – Kodeks morski.Niniejsza ustawa wdraża postanowienia następujących dyrektyw: – dyrektywę 2002/59/WE z dnia 27 czerwca 2002 r. ustanawiająca wspólnotowy system monitorowania i informacji o ruchu statków i uchylająca dyrektywę 93/75/EWG (Dz. Urz. WE L 208 z 5.08.2002 r.), – dyrektywę 2001/25/WE z dnia 4 kwietnia 2001 r. w sprawie minimalnego poziomu wyszkolenia marynarzy (Dz. Urz. WE L 136 z 18.05.2001 r., z późn. zm.), – dyrektywę 98/41/WE z dnia 18 czerwca 1998 r. w sprawie rejestracji osób podróżujących na pokładzie statków pasażerskich płynących do portów Państw Członkowskich Wspólnoty lub z portów Państw Członkowskich Wspólnoty (Dz. Urz. WE L 188 z 2.07.1998 r., z późn. zm.), – dyrektywę 96/98/WE z dnia 20 grudnia 1996 r. w sprawie wyposażenia statków (Dz. Urz. WE L 046 z 17.02.1997 r., z późn. zm.). Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne. Załącznik – Część I I Opłaty za przeprowadzenie inspekcji i wystawienie dokumentów bezpieczeństwa żeglugi 1 Za certyfikat bezpieczeństwa statku pasażerskiego: 1.1 Statki o pojemności brutto do 500 – 1 200 j.t. 1.2 Statki o pojemności brutto powyżej 500 do 2.000 – 1 600 j.t. 1.3 Statki o pojemności brutto powyżej 2.000 do 10.000 – 2 400 j.t. 1.4 Statki o pojemności brutto powyżej 10.000 do 30.000 – 3 200 j.t. 1.5 Statki o pojemności brutto powyżej 30.000 – za każde następne 20.000 dodatkowo – 800 j.t. 2 Za certyfikat bezpieczeństwa statku towarowego: 2.1 Statki o pojemności brutto do 500 – 2 000 j.t. 2.2 Statki o pojemności brutto powyżej 500 do 2.000 – 3 000 j.t. 2.3 Statki o pojemności brutto powyżej 2.000 do 10.000 – 4 000 j.t. 2.4 Statki o pojemności brutto powyżej 10.000 do 30.000 – 5 000 j.t. 2.5 Statki o pojemności brutto powyżej 30.000 – za każde następne 20.000 dodatkowo – 1 000 j.t. 3 Za wystawienie certyfikatu bezpieczeństwa oraz pozwolenia na eksploatacje jednostki szybkiej (łącznie): 3.1 Statki o pojemności brutto do 500 – 2 000 j.t. 3.2 Statki o pojemności brutto powyżej 500 do 2.000 – 2 700 j.t. 3.3 Statki o pojemności brutto powyżej 2.000 do 10.000 – 4 000 j.t. 3.4 Statki o pojemności brutto powyżej 10.000 do 30.000 – 5 300 j.t. 3.5 Statki o pojemności brutto powyżej 30.000 – za każde następne 20.000 dodatkowo – 1 300 j.t. 4 Za certyfikat konstrukcji i wyposażenia oraz pozwolenie na eksploatacje jednostki dynamicznie unoszonej (łącznie): 4.1 Statki o pojemności brutto do 500 – 1 200 j.t. 4.2 Statki o pojemności brutto powyżej 500 do 2.000 – 1 600 j.t. 4.3 Statki o pojemności brutto powyżej 2.000 do 10.000 – 2 400 j.t. 4.4 Statki o pojemności brutto powyżej 10.000 do 30.000 – 3 200 j.t. 4.5 Statki o pojemności brutto powyżej 30.000 – za każde następne 20.000 dodatkowo – 800 j.t. 5 Za certyfikat bezpieczeństwa radiowego statku towarowego z wyposażeniem radiotelefonicznym dla statków o pojemności brutto do 500 z wyposażeniem GMDSS – 600 j.t. 6 Za certyfikat bezpieczeństwa statku specjalistycznego – 500 j.t. 7 Za certyfikat zarządzania bezpieczeństwem lub za tymczasowy certyfikat zarządzania bezpieczeństwem: 7.1 Statki o pojemności brutto do 500 – 1 500 j.t. 7.2 Statki o pojemności brutto powyżej 500 do 2.000 – 2 000 j.t. 7.3 Statki o pojemności brutto powyżej 2.000 do 10.000 – 2 500 j.t. 7.4 Statki o pojemności brutto powyżej 10.000 do 30.000 – 3 500 j.t. 7.5 Statki o pojemności brutto powyżej 30.000 – za każde następne 20.000 dodatkowo – 1 000 j.t. 8 Za dokument zgodności lub tymczasowy dokument zgodności – 1 200 j.t. 9 Za wykazy wyposażenia do certyfikatu bezpieczeństwa lub karty bezpieczeństwa – 150 j.t. 10 Za certyfikat zwolnienia lub zwolnienie od wymagań przepisów krajowych opłata wynosi 50% stawki opłaty podstawowej za dokument, którego zwolnienie dotyczy. 11 Za certyfikat bezpiecznej obsługi – 500 j.t. 12 Za certyfikat zdolności do przewozu stałych ładunków masowych – 1 000 j.t. 13 Za certyfikat zdolności dla statku przewożącego materiały niebezpieczne – 1 200 j.t. 14 Za kartę bezpieczeństwa, kartę bezpieczeństwa statku rybackiego i kartę bezpieczeństwa typu „Ł”: 14.1 Statki o pojemności brutto do 20 lub do 15 m długości – 100 j.t. 14.2 Statki o pojemności brutto powyżej 20 do 100 lub powyżej 15 m do 25 m długości – 200 j.t. 14.3 Statki o pojemności brutto powyżej 100 do 300 – 400 j.t. 14.4 Statki o pojemności brutto powyżej 300 do 500 – 600 j.t. 14.5 Statki o pojemności brutto powyżej 500 do 2.000 – 1 000 j.t. 14.6 Statki o pojemności brutto powyżej 2.000 do 10.000 – 2 000 j.t. 14.7 Statki o pojemności brutto powyżej 10.000 do 30.000 – 3 000 j.t. 14.8 Statki o pojemności brutto powyżej 30.000 – za każde następne 20.000 dodatkowo – 1 000 j.t. 14.9 Jeżeli parametry statku określone w pkt 14.1 i 14.2 wskazują na możliwość zastosowania dwóch stawek, stosuje się stawkę wg pojemności brutto 15 Za kartę bezpieczeństwa dla statku sportowego i rekreacyjnego: 15.1 Statki o długości do 6 m – 50 j.t. 15.2 Statki o długości powyżej 6 m do 9 m – 75 j.t. 15.3 Statki o długości powyżej 9 m do 12 m – 100 j.t. 15.4 Statki o długości powyżej 12 m do 15 m – 150 j.t. 15.5 Statki o długości powyżej 15 m do 24 m – 300 j.t. 15.6 Statki o długości powyżej 24 m – 500 j.t. 16 Zwyżki i zniżki opłat: 16.1 Za kartę bezpieczeństwa na jednorazową podróż pobiera się opłaty w wysokości 50% opłat wymienionych w pkt 14.1–14.8 oraz 15.1–15.6 16.2 Opłata za potwierdzenie ważności dokumentów bezpieczeństwa wynosi 50% wartości stawki określonej do wydania dokumentu bezpieczeństwa, na którym dokonano potwierdzenia ważności. 16.3 Jeżeli właścicielem jednostki sportowej lub rekreacyjnej jest: emeryt, rencista, uczeń lub student, opłatę za wydanie dokumentu bezpieczeństwa obniża się o 50%. 16.4 Opłaty określone w pkt 14.1–14.8 ulegają obniżeniu o: – 50% dla statku bez własnego napędu mechanicznego, – 20% dla statku bez własnego napędu mechanicznego wyposażonego w mechanizmy pomocnicze. 16.5 Za wystawienie dokumentu bezpieczeństwa dla statku morskiego po przeprowadzeniu inspekcji wstępnej – opłata wynosi 110% opłaty podstawowej dla danego dokumentu. 16.6 W przypadku gdy inspekcję pozytywną poprzedziła inspekcja negatywna, opłata za wystawienie dokumentu bezpieczeństwa wynosi 200% opłaty podstawowej dla danego dokumentu. 16.7 W przypadku gdy inspekcja poprzedzająca wydanie lub potwierdzenie dokumentu bezpieczeństwa statku – z powodów niezależnych od urzędu morskiego – zostanie w całości lub w części dokonana poza godzinami pracy urzędu morskiego, opłata za wydanie dokumentu bezpieczeństwa wynosi 130% opłaty podstawowej za dany dokument. 17 Inne opłaty: 17.1 Za reinspekcję statku obcej bandery zatrzymanego przez PSC – 4 000 j.t. 17.2 Za wymianę dokumentu bezpieczeństwa na wniosek armatora bez konieczności przeprowadzania inspekcji – 50 j.t. 17.3 Za wydanie duplikatu lub odpisu dokumentu bezpieczeństwa – 50 j.t. 17.4 Za przywrócenie ważności dokumentu bezpieczeństwa (w szczególności po awarii, zmianach konstrukcyjnych, po unieważnieniu na skutek inspekcji negatywnej) pobiera się opłatę w wysokości 50% opłaty podstawowej pobieranej przy wystawianiu tego dokumentu 17.5 Za przedłużenie ważności dokumentu bezpieczeństwa na okres do 1 miesiąca bez inspekcji – pobiera się za każdy dokument opłatę w wysokości – 50 j.t. 17.6 Za przedłużenie ważności dokumentu bezpieczeństwa na okres do 3 miesięcy – pobiera się opłatę w wysokości 30% opłaty podstawowej. 17.7 Za wystawienie nowego dokumentu bezpieczeństwa na okres powyżej 3 miesięcy do 6 miesięcy – pobiera się opłatę w wysokości 50% opłaty podstawowej. 17.8 Opłata za przeprowadzenie kontroli dla stacji atestacji: środków ratunkowych, urządzeń p.poż, urządzeń radiowych 17.8.1 Wydanie dokumentu uznania – 1 350 j.t. 17.8.2 Potwierdzenie dokumentu uznania – 650 j.t. 17.8.3 Rozszerzenie działalności, za każdą dodatkową usługę atestacji – 550 j.t. 17.9 Wynagrodzenie dla zespołu kontrolującego stacje atestacji: 17.9.1 Przewodniczący zespołu kontrolującego – 300 j.t. 17.9.2 Członek zespołu kontrolującego – 250 j.t. 17.10 Opłaty za zatwierdzenie planu ochrony pożarowej statków morskich oraz rozkładów alarmowych statków pasażerskich 17.10.1 Statki o pojemności brutto do 500 – 200 j.t. 17.10.2 Statki o pojemności brutto powyżej 500 do 2.000 – 400 j.t. 17.10.3 Statki o pojemności brutto powyżej 2.000 do 10.000 – 800 j.t. 17.10.4 Statki o pojemności brutto powyżej 10.000 do 30.000 – 1 200 j.t. 17.10.5 Statki o pojemności brutto powyżej 30.000 opłata jak w pkt 17.10.4 i dodatkowo za każde następne 20.000 – 400 j.t. 17.11 Za zatwierdzenie planu rozmieszczenia środków ratunkowych pobiera się 50% opłaty podstawowej jak za zatwierdzenie planu obrony pożarowej według stawek określonych w pkt. 17.10.1–17.10.5 17.12 Opłata za uznanie instytucji klasyfikacyjnej Za przeprowadzenie: 17.12.1 Audytu wstępnego – 50 000 j.t. 17.12.2 Audytu odnowieniowego – 40 000 j.t. 17.12.3 Audytu okresowego – 20 000 j.t. 17.12.4 Audytu dodatkowego – 20 000 j.t. 17.12.5 Za wydanie dokumentu świadectwa uznania instytucji klasyfikacyjnej – 500 j.t. 17.13 Za wydanie zaświadczenia o przedłużeniu ważności tratw lub zwalniaków hydrostatycznych (bez względu na ilość środków ratunkowych) – 300 j.t. 17.14 Za zatwierdzenie dokumentu, planu, poradnika nieujętego w niniejszym cenniku pobiera się opłatę w wysokości – 300 j.t. 17.15 Koszty przejazdów oraz pobytu inspektorów/audytorów poza miastami – siedzibami urzędów morskich, związane z przeprowadzaniem inspekcji lub audytu ponosi zleceniodawca. W przypadku gdy opłata netto wynosi poniżej 10 j.t., odstępuje się od jej pobrania. 17.16 Za świadectwo wolnej burty – 350 j.t. Opłata za wydanie świadectwa wolnej burty nie obejmuje opłaty za przeprowadzenie przeglądu 17.17 Za zatwierdzenie instrukcji bezpiecznej obsługi przeładunku materiałów niebezpiecznych – 400 j.t. 17.18 Za wydanie jednorazowego zwolnienia statku z asysty holowniczej – dotyczy jednorazowych manewrów (za każde: wejście, wyjście, przeholowanie) – 250 j.t. 17.19 Za wydanie zezwolenia na manewrowanie w porcie statkiem ze zmniejszoną ilością holowników lub bez asysty holowniczej (zezwolenie jest wydawane na okres 12 miesięcy) – 4 000 j.t. 17.20 Za wydanie zezwolenia jednorazowego na manewrowanie w porcie statkiem ze zmniejszoną ilością holowników lub bez asysty holowniczej (dotyczy wszystkich rodzajów manewrów) – w czasie jednej wizyty w porcie – 600 j.t. 17.21 Za wydanie zezwolenia dla kapitana statku morskiego żeglugi międzynarodowej na manewrowanie statkiem bez pilota, na obszarze określonego w zezwoleniu portu lub jego rejonie – 250 j.t. 17.22 Za wydanie zezwolenia dla kapitana statku morskiego żeglugi krajowej na manewrowanie statkiem na wodach morskich bez pilota – 150 j.t. 17.23 Za wydanie zezwolenia dla kapitana statku na jednorazowe manewrowanie statkiem bez pilota – 400 j.t. 17.24 Za wydanie zezwolenia dla kapitana statku żeglugi śródlądowej na samodzielne pilotowanie dowodzonego przez siebie statku na obszarze, określonego w zezwoleniu, portu lub jego rejonie – 150 j.t. 17.25 Za każdorazowe określenie warunków przeładunku materiałów niebezpiecznych w miejscach, dla których nie zatwierdzono instrukcji, o której mowa w pkt 17.17 – 100 j.t. 17.26 Za wydanie zezwolenia i określenie warunków wprowadzania/wyprowadzania do/z portu statków ponadgabarytowych – 200 j.t. 17.27 Za wydanie zezwolenia i określenie warunków żeglugi na obszarze portu dla trudnych w manewrowaniu zespołów holowniczych, w których skład wchodzą doki pływające, duże pontony o długości powyżej 50 m, wraki – 150 j.t. 17.28 Za wydanie zezwolenia i określenie warunków na przeładunek, bunkrowanie na redzie – 50 j.t. 17.29 Za zalegalizowanie dziennika okrętowego lub innego dokumentu (książki) podlegającego legalizacji – 10 j.t. 18 Objaśnienia uzupełniające: 18.1 Dla statków z nieudokumentowaną pojemnością brutto opłaty nalicza się według wzoru: \( V = 0,25 \times L \times B \times H, \) gdzie: B – szerokość maksymalna, H – wysokość boczna, L – długość całkowita. Uwaga: dla doków pływających H oznacza wysokość boczną łącznie z basztami. 18.2 Opłata za wystawienie lub potwierdzenie każdego dokumentu bezpieczeństwa zawiera opłatę za przeprowadzenie odpowiedniej inspekcji i sporządzenie dokumentu. 18.3 Opłaty za wystawienie, potwierdzenie, przedłużanie czy przywrócenie ważności wszystkich dokumentów bezpieczeństwa statku ponosi armator lub właściciel statku. 18.4 Wszystkie procenty wymienione w tekście należy liczyć od opłat podstawowych. 18.5 Ilekroć opłaty przewidziane taryfą są uzależnione od długości, należy przez to rozumieć długość całkowitą statku.”.
 

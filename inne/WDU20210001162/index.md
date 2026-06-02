@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 czerwca 2021 r. o zmianie niektórych ustaw związanych ze świadczeniami na rzecz rodziny
+# Ustawa z dnia 24 czerwca 2021 r. o zmianie niektórych ustaw związanych ze świadczeniami na rzecz rodziny Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, ustawę z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych, ustawę z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci, ustawę z dnia 4 kwietnia 2019 r. o jednorazowym świadczeniu pieniężnym dla emerytów i rencistów w 2019 r., ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz ustawę z dnia 19 czerwca 2020 r. o dodatku solidarnościowym przyznawanym w celu przeciwdziałania negatywnym skutkom COVID-19.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-24 |
 | Data wydania | 2021-06-28 |
-| Wejście w życie | 2021-07-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001162) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1162/text.pdf) |
 
@@ -36,7 +35,7 @@ source: "eli-html"
 
 § 3. Kto wbrew obowiązkowi wypłaca wynagrodzenie wyższe niż wynikające z zawartej umowy o pracę, bez dokonania potrąceń na zaspokojenie świadczeń alimentacyjnych, pracownikowi będącemu osobą, o której mowa w art. 2 ust. 1 pkt 4 ustawy z dnia 6 grudnia 2018 r. o Krajowym Rejestrze Zadłużonych, podlega karze grzywny od 1500 zł do 45 000 zł. ” .
 
-**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, z późn. zm.) w art. 411:
+**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802, 868 i 1047.) w art. 411:
 
 - **1)** ust. 10n otrzymuje brzmienie: „
 
@@ -78,9 +77,10 @@ source: "eli-html"
 - **2)** oświadczeń niezbędnych do ustalenia prawa do świadczeń rodzinnych, w tym oświadczeń o dochodach członków rodziny. ” , ust. 7 otrzymuje brzmienie: „
     - **d)**
 
-7. Organy właściwe do realizacji ustawy używają oprogramowania, które jest zgodne z wymaganiami określonymi w przepisach wydanych na podstawie ust. 6. Wojewoda oraz minister właściwy do spraw zabezpieczenia społecznego realizują ustawę za pomocą systemu teleinformatycznego udostępnionego nieodpłatnie przez ministra właściwego do spraw rodziny. ” , w ust. 8 w pkt 1: – po lit. jd dodaje się lit. je w brzmieniu: „ je) informacje o pobieraniu dodatku pielęgnacyjnego, ” , – w lit. p średnik zastępuje się przecinkiem i dodaje się lit. q w brzmieniu: „ q) informacje o zgonie; ” , dodaje się ust. 15 w brzmieniu: „
+7. Organy właściwe do realizacji ustawy używają oprogramowania, które jest zgodne z wymaganiami określonymi w przepisach wydanych na podstawie ust. 6. Wojewoda oraz minister właściwy do spraw zabezpieczenia społecznego realizują ustawę za pomocą systemu teleinformatycznego udostępnionego nieodpłatnie przez ministra właściwego do spraw rodziny. ” , w ust. 8 w pkt 1: – po lit. jd dodaje się lit. je w brzmieniu: „ je) informacje o pobieraniu dodatku pielęgnacyjnego, ” , w lit. p średnik zastępuje się przecinkiem i dodaje się lit. q w brzmieniu: „ informacje o zgonie; ” , dodaje się ust. 15 w brzmieniu: „
 
 - **e)**
+- **q)**
 - **f)**
 
 15. Minister właściwy do spraw informatyzacji po otrzymaniu od ministra właściwego do spraw rodziny informacji dotyczących osób uprawnionych do świadczeń rodzinnych i członków ich rodzin niezwłocznie przekazuje posiadane dane z rejestru PESEL w zakresie określonym w ust. 8 pkt 1 lit. q oraz informacje, o których mowa w art. 8 pkt 26 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2021 r. poz. 510 i 1000). ” ;
@@ -137,7 +137,7 @@ source: "eli-html"
 - **1a)** informacji o dochodzie, o którym mowa w art. 3 pkt 1 lit. c tiret dwudzieste dziewiąte i trzydzieste czwarte; ” , po pkt 1a dodaje się pkt 1b w brzmieniu: „
     - **b)**
 
-- **1b)** informacji o dochodzie podlegającym opodatkowaniu zryczałtowanym podatkiem dochodowym od niektórych przychodów (dochodów) osiąganych przez osoby fizyczne, każdego członka rodziny, zawierających dane odpowiednio o: formie opłacanego podatku, wysokości przychodu, stawce podatku, wysokości należnego podatku w roku kalendarzowym poprzedzającym okres zasiłkowy; ” , pkt 2 otrzymuje brzmienie: „
+- **1b)** informacji o dochodzie podlegającym opodatkowaniu zryczałtowanym podatkiem dochodowym od niektórych przychodów (dochodów) osiąganych przez osoby fizyczne, każdego członka rodziny, zawierających dane odpowiednio o: formie opłacanego podatku, wysokości przychodu, stawce podatku, wysokości należnego podatku – w roku kalendarzowym poprzedzającym okres zasiłkowy; ” , pkt 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **c)**
@@ -225,7 +225,7 @@ source: "eli-html"
 - **1a)** informacji o dochodzie, o którym mowa w art. 3 pkt 1 lit. c tiret dwudzieste dziewiąte i trzydzieste czwarte ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych; ” , po pkt 1a dodaje się pkt 1b w brzmieniu: „
     - **b)**
 
-- **1b)** informacji o dochodzie podlegającym opodatkowaniu zryczałtowanym podatkiem dochodowym od niektórych przychodów (dochodów) osiąganych przez osoby fizyczne każdego członka rodziny, zawierających dane odpowiednio o: formie opłacanego podatku, wysokości przychodu, stawce podatku, wysokości należnego podatku w roku kalendarzowym poprzedzającym okres świadczeniowy; ” , pkt 2 otrzymuje brzmienie: „
+- **1b)** informacji o dochodzie podlegającym opodatkowaniu zryczałtowanym podatkiem dochodowym od niektórych przychodów (dochodów) osiąganych przez osoby fizyczne każdego członka rodziny, zawierających dane odpowiednio o: formie opłacanego podatku, wysokości przychodu, stawce podatku, wysokości należnego podatku – w roku kalendarzowym poprzedzającym okres świadczeniowy; ” , pkt 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **c)**
@@ -364,7 +364,7 @@ source: "eli-html"
 
 2. W sprawach o świadczenie wychowawcze realizowane w związku z koordynacją systemów zabezpieczenia społecznego przez wojewodę przepisów art. 37 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się. ” .
 
-**Art. 9.** Wustawie z dnia 4 kwietnia 2019 r. o jednorazowym świadczeniu pieniężnym dla emerytów i rencistów w 2019 r. (Dz. U. poz. 743) w art. 8 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. W przypadku, o którym mowa w ust. 1 pkt 3 i 5, do dochodu członka rodziny nie wlicza się wypłaconej temu członkowi rodziny kwoty jednorazowego świadczenia pieniężnego. ” . Wustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.) art. 15oa otrzymuje brzmienie: „ Art. 15oa. 1. Obniżenie wynagrodzenia z tytułu zatrudnienia lub innej pracy zarobkowej lub obniżenie dochodu z pozarolniczej działalności gospodarczej w rozumieniu ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2020 r. poz. 111 oraz z 2021 r. poz. 1162) z powodu przeciwdziałania COVID-19, stanowi utratę dochodu w rozumieniu tej ustawy i jest uwzględniane przy ustalaniu prawa do świadczeń rodzinnych na okresy zasiłkowe od dnia 1 listopada 2019 r. do dnia 31 października 2022 r. 2. Obniżenie wynagrodzenia z tytułu zatrudnienia lub innej pracy zarobkowej lub obniżenie dochodu z pozarolniczej działalności gospodarczej w rozumieniu ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2021 r. poz. 877 i 1162) z powodu przeciwdziałania COVID-19, stanowi utratę dochodu w rozumieniu tej ustawy i jest uwzględniane przy ustalaniu prawa do świadczeń z funduszu alimentacyjnego na okresy świadczeniowe od dnia 1 października 2019 r. do dnia 30 września 2022 r. ” .
+**Art. 9.** Wustawie z dnia 4 kwietnia 2019 r. o jednorazowym świadczeniu pieniężnym dla emerytów i rencistów w 2019 r. (Dz. U. poz. 743) w art. 8 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. W przypadku, o którym mowa w ust. 1 pkt 3 i 5, do dochodu członka rodziny nie wlicza się wypłaconej temu członkowi rodziny kwoty jednorazowego świadczenia pieniężnego. ” . Wustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180, 694, 981, 1023 i 1090.) art. 15oa otrzymuje brzmienie: „ Art. 15oa. 1. Obniżenie wynagrodzenia z tytułu zatrudnienia lub innej pracy zarobkowej lub obniżenie dochodu z pozarolniczej działalności gospodarczej w rozumieniu ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2020 r. poz. 111 oraz z 2021 r. poz. 1162) z powodu przeciwdziałania COVID-19, stanowi utratę dochodu w rozumieniu tej ustawy i jest uwzględniane przy ustalaniu prawa do świadczeń rodzinnych na okresy zasiłkowe od dnia 1 listopada 2019 r. do dnia 31 października 2022 r. 2. Obniżenie wynagrodzenia z tytułu zatrudnienia lub innej pracy zarobkowej lub obniżenie dochodu z pozarolniczej działalności gospodarczej w rozumieniu ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2021 r. poz. 877 i 1162) z powodu przeciwdziałania COVID-19, stanowi utratę dochodu w rozumieniu tej ustawy i jest uwzględniane przy ustalaniu prawa do świadczeń z funduszu alimentacyjnego na okresy świadczeniowe od dnia 1 października 2019 r. do dnia 30 września 2022 r. ” .
 
 **Art. 11.** Wustawie z dnia 19 czerwca 2020 r. o dodatku solidarnościowym przyznawanym w celu przeciwdziałania negatywnym skutkom COVID-19 (Dz. U. poz. 1068) w art. 13 ust. 2–5 otrzymują brzmienie: „ 2. Utrata dodatku solidarnościowego stanowi utratę dochodu w rozumieniu ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych i jest uwzględniana przy ustalaniu prawa do świadczeń rodzinnych na okresy zasiłkowe od dnia 1 listopada 2019 r. do dnia 31 października 2022 r. 3. Uzyskanie dodatku solidarnościowego stanowi uzyskanie dochodu w rozumieniu ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych i jest uwzględniane przy ustalaniu prawa do świadczeń rodzinnych na okresy zasiłkowe od dnia 1 listopada 2019 r. do dnia 31 października 2022 r. 4. Utrata dodatku solidarnościowego stanowi utratę dochodu w rozumieniu ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2021 r. poz. 877 i 1162) i jest uwzględniana przy ustalaniu prawa do świadczeń z funduszu alimentacyjnego na okresy świadczeniowe od dnia 1 października 2019 r. do dnia 30 września 2022 r. 5. Uzyskanie dodatku solidarnościowego stanowi uzyskanie dochodu w rozumieniu ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów i jest uwzględniane przy ustalaniu prawa do świadczeń z funduszu alimentacyjnego na okresy świadczeniowe od dnia 1 października 2019 r. do dnia 30 września 2022 r. ” .
 
@@ -442,6 +442,6 @@ source: "eli-html"
 
 - **1)** art. 3 pkt 1, który wchodzi w życie z dniem 1 lipca 2021 r.;
 - **2)** art. 1, który wchodzi w życie z dniem 1 grudnia 2021 r.;
-- **3)** art. 7, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+- **3)** art. 7, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, ustawę z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych, ustawę z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci, ustawę z dnia 4 kwietnia 2019 r. o jednorazowym świadczeniu pieniężnym dla emerytów i rencistów w 2019 r., ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz ustawę z dnia 19 czerwca 2020 r. o dodatku solidarnościowym przyznawanym w celu przeciwdziałania negatywnym skutkom COVID-19. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802, 868 i 1047. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180, 694, 981, 1023 i 1090.
 
 

@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 maja 2023 r. o świadczeniu pieniężnym z tytułu pełnienia funkcji sołtysa (Dz. U. poz. 1073), z uwzględnieniem zmian wprowadzonych ustawą z dnia 24 lipca 2024 r. o zmianie ustawy o świadczeniu pieniężnym z tytułu pełnienia funkcji sołtysa oraz ustawy o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. poz. 1246) oraz zmian wynikających z przepisów ogłoszonych przed dniem 31 października 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 3 i art. 5 ustawy z dnia 24 lipca 2024 r. o zmianie ustawy o świadczeniu pieniężnym z tytułu pełnienia funkcji sołtysa oraz ustawy o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. poz. 1246), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 3 i art. 5 ustawy z dnia 24 lipca 2024 r. o zmianie ustawy o świadczeniu pieniężnym z tytułu pełnienia funkcji sołtysa oraz ustawy o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. poz. 1246), które stanowią: „
 
 **Art. 3.** W sprawach o przyznanie świadczenia pieniężnego z tytułu pełnienia funkcji sołtysa wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy:
 
@@ -45,16 +44,15 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 2.**
 
-1. Świadczenie przysługuje osobie, która spełnia łącznie następujące warunki:
+1. Świadczenie przysługuje osobie, która spełnia łącznie następujące warunki: 1W brzmieniu ustalonym przez art. 1 pkt 1 lit. a ustawy z dnia 24 lipca 2024 r. o zmianie ustawy o świadczeniu pieniężnym z tytułu pełnienia funkcji sołtysa oraz ustawy o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. poz. 1246), która weszła w życie z dniem 16 września 2024 r.) pełniła funkcję sołtysa przez okres co najmniej 7 lat;
 
-- **1)** pełniła funkcję sołtysa przez okres co najmniej 7 lat;
 - **2)** osiągnęła wiek: w przypadku kobiet – 60 lat, w przypadku mężczyzn – 65 lat.
     - **a)**
     - **b)**
 
 2. Przy ustalaniu okresu pełnienia funkcji sołtysa nie jest wymagane zachowanie ciągłości pełnienia tej funkcji.
 
-3. (uchylony)
+3. (uchylony)Przez art. 1 pkt 1 lit. b ustawy, o której mowa w odnośniku 1.
 
 4. Świadczenie nie przysługuje osobie skazanej prawomocnym wyrokiem za przestępstwo lub przestępstwo skarbowe popełnione w związku z pełnieniem funkcji sołtysa. Świadczenie przysługuje w wysokości 300 zł miesięcznie.
 
@@ -79,9 +77,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **1)** zaświadczenie wójta (burmistrza, prezydenta miasta) właściwego dla sołectwa, w którym wnioskodawca pełnił funkcję sołtysa, potwierdzające okres pełnienia tej funkcji;
 - **2)** oświadczenie wnioskodawcy o niekaralności za przestępstwo lub przestępstwo skarbowe popełnione w związku z pełnieniem funkcji sołtysa.
 
-4. Jeżeli organ, o którym mowa w ust. 3 pkt 1, nie dysponuje danymi potwierdzającymi okres pełnienia przez wnioskodawcę funkcji sołtysa, wydaje postanowienie o odmowie wydania zaświadczenia, o którym mowa w ust. 3 pkt 1, ze względu na brak danych potwierdzających okres pełnienia funkcji. Postanowienie należy dołączyć do wniosku o przyznanie świadczenia.
-
-5. W przypadku, o którym mowa w ust. 4, wraz z wnioskiem o przyznanie świadczenia wnioskodawca składa pisemne oświadczenie o spełnieniu wymogu, o którym mowa w art. 2 ust. 1 pkt 1, potwierdzone pisemnymi oświadczeniami złożonymi przez co najmniej 3 osoby zamieszkujące w sołectwie w czasie, w którym wnioskodawca pełnił w nim funkcję sołtysa.
+4. Jeżeli organ, o którym mowa w ust. 3 pkt 1, nie dysponuje danymi potwierdzającymi okres pełnienia przez wnioskodawcę funkcji sołtysa, wydaje postanowienie o odmowie wydania zaświadczenia, o którym mowa w ust. 3 pkt 1, ze względu na brak danych potwierdzających okres pełnienia funkcji. Postanowienie należy dołączyć do wniosku o przyznanie świadczenia. 5Ze zmianą wprowadzoną przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1.. W przypadku, o którym mowa w ust. 4, wraz z wnioskiem o przyznanie świadczenia wnioskodawca składa pisemne oświadczenie o spełnieniu wymogu, o którym mowa w art. 2 ust. 1 pkt 1, potwierdzone pisemnymi oświadczeniami złożonymi przez co najmniej 3 osoby zamieszkujące w sołectwie w czasie, w którym wnioskodawca pełnił w nim funkcję sołtysa.
 
 6. Oświadczenia, o których mowa w ust. 3 pkt 2 i ust. 5, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Oświadczenia te zawierają klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
@@ -141,5 +137,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Minister właściwy do spraw rozwoju wsi monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1.
 
-**Art. 13.** Ustawa wchodzi w życie z dniem 1 lipca 2023 r.
+**Art. 13.** Ustawa wchodzi w życie z dniem 1 lipca 2023 r. 1) W brzmieniu ustalonym przez art. 1 pkt 1 lit. a ustawy z dnia 24 lipca 2024 r. o zmianie ustawy o świadczeniu pieniężnym z tytułu pełnienia funkcji sołtysa oraz ustawy o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. poz. 1246), która weszła w życie z dniem 16 września 2024 r. 2) Przez art. 1 pkt 1 lit. b ustawy, o której mowa w odnośniku 1. 3) Ze zmianą wprowadzoną przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1.
 

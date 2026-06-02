@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 1 grudnia 2022 r. o zmianie ustawy o paszach oraz ustawy o odpadach
+# Ustawa z dnia 1 grudnia 2022 r. o zmianie ustawy o paszach oraz ustawy o odpadach Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/4 z dnia 11 grudnia 2018 r. w sprawie wytwarzania, wprowadzania na rynek i stosowania paszy leczniczej, zmieniającego rozporządzenie (WE) nr 183/2005 Parlamentu Europejskiego i Rady oraz uchylającego dyrektywę Rady 90/167/EWG (Dz. Urz. UE L 4 z 07.01.2019, str. 1 oraz Dz. Urz. UE L 108 z 07.04.2022, str. 69).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-01 |
 | Data wydania | 2022-12-22 |
-| Wejście w życie | 2023-01-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002722) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2722/text.pdf) |
 
@@ -34,8 +33,9 @@ source: "eli-html"
 - **18)** rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/4 z dnia 11 grudnia 2018 r. w sprawie wytwarzania, wprowadzania na rynek i stosowania paszy leczniczej, zmieniającego rozporządzenie (WE) nr 183/2005 Parlamentu Europejskiego i Rady oraz uchylającego dyrektywę Rady 90/167/EWG (Dz. Urz. UE L 4 z 07.01.2019, str. 1 oraz Dz. Urz. UE L 108 z 07.04.2022, str. 69). ” , w ust. 2 uchyla się pkt 2;
     - **b)**
 
-- **2)** w art. 1: w pkt 1: – we wprowadzeniu do wyliczenia po wyrazach „żywieniu zwierząt,” dodaje się wyrazy „a także w zakresie wytwarzania, wprowadzania do obrotu i stosowania pasz leczniczych oraz urzędowej kontroli tych pasz,”, – w lit. e na końcu dodaje się przecinek i lit. f w brzmieniu: „ f) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/4 z dnia 11 grudnia 2018 r. w sprawie wytwarzania, wprowadzania na rynek i stosowania paszy leczniczej, zmieniającego rozporządzenie (WE) nr 183/2005 Parlamentu Europejskiego i Rady oraz uchylającego dyrektywę Rady 90/167/EWG (Dz. Urz. UE L 4 z 07.01.2019, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2019/4 ”” , uchyla się pkt 4;
+- **2)** w art. 1: w pkt 1: – we wprowadzeniu do wyliczenia po wyrazach „żywieniu zwierząt,” dodaje się wyrazy „a także w zakresie wytwarzania, wprowadzania do obrotu i stosowania pasz leczniczych oraz urzędowej kontroli tych pasz,”, w lit. e na końcu dodaje się przecinek i lit. f w brzmieniu: „ rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/4 z dnia 11 grudnia 2018 r. w sprawie wytwarzania, wprowadzania na rynek i stosowania paszy leczniczej, zmieniającego rozporządzenie (WE) nr 183/2005 Parlamentu Europejskiego i Rady oraz uchylającego dyrektywę Rady 90/167/EWG (Dz. Urz. UE L 4 z 07.01.2019, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 108 z 07.04.2022, str. 69.), zwanego dalej „rozporządzeniem 2019/4 ”” , uchyla się pkt 4;
     - **a)**
+    - **f)**
     - **b)**
 
 - **3)** w art. 3a w pkt 1 i 2 skreśla się wyrazy „art. 17,”;
@@ -178,7 +178,7 @@ source: "eli-html"
 - **1)** w art. 45: w ust. 1 w pkt 11 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
     - **a)**
 
-- **12)** podmiot: zajmujący się wytwarzaniem, przechowywaniem, transportem lub wprowadzaniem na rynek pasz leczniczych lub produktów pośrednich, który jedynie transportuje lub przechowuje pasze lecznicze lub produkty pośrednie wyłącznie w zaplombowanych opakowaniach lub pojemnikach, prowadzący handel detaliczny paszami leczniczymi dla zwierząt domowych który zbiera niezużyte lub przeterminowane pasze lecznicze lub produkty pośrednie od podmiotów, które jedynie kupują, przechowują lub transportują pasze lecznicze do stosowania wyłącznie w swoim gospodarstwie, od posiadaczy zwierząt futerkowych oraz posiadaczy zwierząt domowych. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **12)** podmiot: zajmujący się wytwarzaniem, przechowywaniem, transportem lub wprowadzaniem na rynek pasz leczniczych lub produktów pośrednich, który jedynie transportuje lub przechowuje pasze lecznicze lub produkty pośrednie wyłącznie w zaplombowanych opakowaniach lub pojemnikach, prowadzący handel detaliczny paszami leczniczymi dla zwierząt domowych – który zbiera niezużyte lub przeterminowane pasze lecznicze lub produkty pośrednie od podmiotów, które jedynie kupują, przechowują lub transportują pasze lecznicze do stosowania wyłącznie w swoim gospodarstwie, od posiadaczy zwierząt futerkowych oraz posiadaczy zwierząt domowych. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
@@ -199,5 +199,5 @@ source: "eli-html"
 
 3. Wnioski o wpis na listę, o której mowa w art. 20 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, złożone do Głównego Lekarza Weterynarii przekazuje się właściwemu wojewódzkiemu lekarzowi weterynarii w terminie 14 dni od dnia wejścia w życie niniejszej ustawy. Właściwość wojewódzkiego lekarza weterynarii ustala się zgodnie z art. 20 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 15, który wchodzi w życie z dniem 1 stycznia 2023 r.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 15, który wchodzi w życie z dniem 1 stycznia 2023 r. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/4 z dnia 11 grudnia 2018 r. w sprawie wytwarzania, wprowadzania na rynek i stosowania paszy leczniczej, zmieniającego rozporządzenie (WE) nr 183/2005 Parlamentu Europejskiego i Rady oraz uchylającego dyrektywę Rady 90/167/EWG (Dz. Urz. UE L 4 z 07.01.2019, str. 1 oraz Dz. Urz. UE L 108 z 07.04.2022, str. 69). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 108 z 07.04.2022, str. 69.
 

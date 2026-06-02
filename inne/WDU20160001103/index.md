@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-18 |
 | Data wydania | 2016-07-26 |
-| Wejście w życie | 2016-08-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001103) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1103/text.pdf) |
 
@@ -31,18 +30,15 @@ Na podstawie art. 75e ust. 12 ustawy z dnia 26 maja 1982 r. – Prawo o adwokatu
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 9 czerwca 2009 r. w sprawie komisji egzaminacyjnej do spraw aplikacji adwokackiej oraz przeprowadzania egzaminu wstępnego (Dz. U. z 2016 r. poz. 105) wprowadza się następujące zmiany:
 1)
-w § 6 dodaje się ust. 3 w brzmieniu:
-„
+w § 6 dodaje się ust. 3 w brzmieniu: „
 3.
-Na wniosek kandydata będącego osobą niepełnosprawną, złożony wraz ze zgłoszeniem o przystąpieniu do egzaminu wstępnego, przewodniczący komisji kwalifikacyjnej lub jego zastępca może udzielić zgody na szczególny sposób rozwiązywania zestawu pytań testowych, nienaruszający zasad przeprowadzania egzaminu wstępnego, uwzględniający rodzaj niepełnosprawności oraz możliwości techniczne. Przepisy § 9 ust. 2–4 stosuje się odpowiednio.
-” ;
+Na wniosek kandydata będącego osobą niepełnosprawną, złożony wraz ze zgłoszeniem o przystąpieniu do egzaminu wstępnego, przewodniczący komisji kwalifikacyjnej lub jego zastępca może udzielić zgody na szczególny sposób rozwiązywania zestawu pytań testowych, nienaruszający zasad przeprowadzania egzaminu wstępnego, uwzględniający rodzaj niepełnosprawności oraz możliwości techniczne. Przepisy § 9 ust. 2–4 stosuje się odpowiednio. ” ;
 2)
-w § 9 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2–4 w brzmieniu:
-„
+w § 9 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2–4 w brzmieniu: „
 2.
 Na wniosek kandydata będącego osobą niepełnosprawną, złożony wraz ze zgłoszeniem o przystąpieniu do egzaminu wstępnego, czas na rozwiązanie zestawu pytań testowych zostaje wydłużony o połowę w stosunku do czasu określonego w ust. 1. Do wniosku załącza się:
 1)
-kopię orzeczenia potwierdzającego niepełnosprawność w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. poz. 721, z późn. zm.) w okresie przeprowadzania egzaminu;
+kopię orzeczenia potwierdzającego niepełnosprawność w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. poz. 721, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. poz. 1016, 1243, 1244 i 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645, z 2014 r. poz. 598, 877, 1198, 1457 i 1873, z 2015 r. poz. 218, 493, 1240, 1273, 1359, 1649 i 1886 oraz z 2016 r. poz. 195.) w okresie przeprowadzania egzaminu;
 2)
 zaświadczenie lekarskie wystawione przez lekarza specjalistę właściwego ze względu na charakter niepełnosprawności stwierdzające wynikające z niepełnosprawności trudności w dokonywaniu w toku egzaminu wstępnego czynności technicznych, takich jak:
 a)
@@ -54,20 +50,15 @@ oświadczenie o wyrażeniu zgody na przetwarzanie danych osobowych, o których m
 3.
 Przewodniczący komisji kwalifikacyjnej może wezwać kandydata do uzupełnienia wniosku, pod rygorem niewydłużenia czasu trwania egzaminu.
 4.
-W przypadku spełnienia warunków, o których mowa w ust. 2, przewodniczący komisji kwalifikacyjnej, wraz z zawiadomieniem, o którym mowa w art. 75c ust. 9 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze, informuje kandydata o wydłużeniu czasu trwania egzaminu wstępnego. O wydłużeniu tym przewodniczący komisji kwalifikacyjnej informuje Ministra Sprawiedliwości.
-” ;
+W przypadku spełnienia warunków, o których mowa w ust. 2, przewodniczący komisji kwalifikacyjnej, wraz z zawiadomieniem, o którym mowa w art. 75c ust. 9 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze, informuje kandydata o wydłużeniu czasu trwania egzaminu wstępnego. O wydłużeniu tym przewodniczący komisji kwalifikacyjnej informuje Ministra Sprawiedliwości. ” ;
 3)
-w § 19 ust. 1 otrzymuje brzmienie:
-„
+w § 19 ust. 1 otrzymuje brzmienie: „
 1.
-Właściwa rada nie później niż w terminie 35 dni przed wyznaczonym terminem egzaminu wstępnego przygotowuje i przedkłada Ministrowi Sprawiedliwości, po zaopiniowaniu przez przewodniczącego komisji kwalifikacyjnej, wstępny preliminarz, zawierający określone przez Ministra Sprawiedliwości pozycje wydatków związanych z obsługą administracyjną i techniczną komisji kwalifikacyjnej, zwany dalej „preliminarzem”, w celu zatwierdzenia.
-” ;
+Właściwa rada nie później niż w terminie 35 dni przed wyznaczonym terminem egzaminu wstępnego przygotowuje i przedkłada Ministrowi Sprawiedliwości, po zaopiniowaniu przez przewodniczącego komisji kwalifikacyjnej, wstępny preliminarz, zawierający określone przez Ministra Sprawiedliwości pozycje wydatków związanych z obsługą administracyjną i techniczną komisji kwalifikacyjnej, zwany dalej „preliminarzem”, w celu zatwierdzenia. ” ;
 4)
-w § 20 ust. 2 otrzymuje brzmienie:
-„
+w § 20 ust. 2 otrzymuje brzmienie: „
 2.
-Właściwa rada przekazuje, nie później niż w terminie 35 dni od zakończenia egzaminu wstępnego, po zaopiniowaniu przez przewodniczącego komisji kwalifikacyjnej, sprawozdanie finansowe z wykazem poniesionych wydatków na obsługę administracyjną i techniczną komisji kwalifikacyjnej oraz wystawia notę księgową na Ministerstwo Sprawiedliwości na kwotę poniesionych kosztów, nie wyższych niż wysokość zatwierdzonego preliminarza.
-” .
+Właściwa rada przekazuje, nie później niż w terminie 35 dni od zakończenia egzaminu wstępnego, po zaopiniowaniu przez przewodniczącego komisji kwalifikacyjnej, sprawozdanie finansowe z wykazem poniesionych wydatków na obsługę administracyjną i techniczną komisji kwalifikacyjnej oraz wystawia notę księgową na Ministerstwo Sprawiedliwości na kwotę poniesionych kosztów, nie wyższych niż wysokość zatwierdzonego preliminarza. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. poz. 1016, 1243, 1244 i 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645, z 2014 r. poz. 598, 877, 1198, 1457 i 1873, z 2015 r. poz. 218, 493, 1240, 1273, 1359, 1649 i 1886 oraz z 2016 r. poz. 195.
 

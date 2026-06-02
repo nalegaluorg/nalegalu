@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-06 |
 | Data wydania | 2013-12-30 |
-| Wejście w życie | 2013-12-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001653) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1653/text.pdf) |
 
@@ -35,7 +34,7 @@ Załącznik – Nakłady w poszczególnych latach na realizację zadań (w mln z
 
 1. Ustanawia się program wieloletni „Program budowy Zbiornika Wodnego Świnna Poręba w latach 2006–2015”, zwany dalej „Programem”.
 
-2. Program jest programem wieloletnim w rozumieniu art. 80 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. Nr 15, poz. 148, z późn. zm.) i będzie realizowany w latach 2006–2015. ” ;
+2. Program jest programem wieloletnim w rozumieniu art. 80 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. Nr 15, poz. 148, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851, z 2004 r. Nr 19, poz. 177, Nr 93, poz. 890, Nr 121, poz. 1264, Nr 123, poz. 1291, Nr 210, poz. 2135 i Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114, Nr 64, poz. 565 i Nr 180, poz. 1495.) i będzie realizowany w latach 2006–2015. ” ;
 
 - **3)** w art. 3: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -52,5 +51,5 @@ Załącznik – Nakłady w poszczególnych latach na realizację zadań (w mln z
 
 - **4)** załącznik do ustawy otrzymuje brzmienie określone w załączniku do niniejszej ustawy.
 
-**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia. Załącznik – Nakłady w poszczególnych latach na realizację zadań (w mln zł) Zadania 2006 r. 2007 r. 2008 r. 2009 r. 2010 r. 2011 r. 2012 r. 2013 r. 2014 r. 2015 r. Razem 2006–2015 poziom cen roku 2006 poziom cen roku 2007 poziom cen roku 2008 poziom cen roku 2009 poziom cen roku 2010 poziom cen roku 2011 poziom cen roku 2012 poziom cen roku 2013 1 2 3 4 5 6 7 8 9 10 11 12 ZADANIE I ZBIORNIK 123,3 138,8 50,3 59 142,7 154,6 63,5 97 57,8 25,3 912,3 ZADANIE IIPRZEBUDOWADRÓG 28,3 14 35,4 11,4 21 43,4 10,1 75 43,8 35 317,4 ZADANIE IIIPRZEBUDOWAKOLEI 0 29,5 3,2 5,5 1,3 1 40,4 110 119 0 309,9 ZADANIE IV OCHRONAZLEWNI ZBIORNIKA 18,9 30,3 4,3 0 0 0 0 0 0 0 53,5 RAZEM 170,5 212,6 93,2 75,9 165 199 114 282 220,6 60,3 1593,1 REZERWA 20,5 20,5 41 RAZEMZ REZERWĄ 170,5 212,6 93,2 75,9 165 199 114 282 241,1 80,8 1634,1
+**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851, z 2004 r. Nr 19, poz. 177, Nr 93, poz. 890, Nr 121, poz. 1264, Nr 123, poz. 1291, Nr 210, poz. 2135 i Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114, Nr 64, poz. 565 i Nr 180, poz. 1495. Załącznik – Nakłady w poszczególnych latach na realizację zadań (w mln zł) Zadania 2006 r. 2007 r. 2008 r. 2009 r. 2010 r. 2011 r. 2012 r. 2013 r. 2014 r. 2015 r. Razem 2006–2015 poziom cen roku 2006 poziom cen roku 2007 poziom cen roku 2008 poziom cen roku 2009 poziom cen roku 2010 poziom cen roku 2011 poziom cen roku 2012 poziom cen roku 2013 1 2 3 4 5 6 7 8 9 10 11 12 ZADANIE I ZBIORNIK 123,3 138,8 50,3 59 142,7 154,6 63,5 97 57,8 25,3 912,3 ZADANIE II PRZEBUDOWA DRÓG 28,3 14 35,4 11,4 21 43,4 10,1 75 43,8 35 317,4 ZADANIE III PRZEBUDOWA KOLEI 0 29,5 3,2 5,5 1,3 1 40,4 110 119 0 309,9 ZADANIE IV OCHRONA ZLEWNI ZBIORNIKA 18,9 30,3 4,3 0 0 0 0 0 0 0 53,5 RAZEM 170,5 212,6 93,2 75,9 165 199 114 282 220,6 60,3 1593,1 REZERWA 20,5 20,5 41 RAZEM Z REZERWĄ 170,5 212,6 93,2 75,9 165 199 114 282 241,1 80,8 1634,1
 

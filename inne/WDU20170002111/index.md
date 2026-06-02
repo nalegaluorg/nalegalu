@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 września 2017 r. o ochronie zdrowia przed następstwami korzystania z solarium
+# Ustawa z dnia 15 września 2017 r. o ochronie zdrowia przed następstwami korzystania z solarium Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej oraz ustawę z dnia 29 grudnia 1992 r. o radiofonii i telewizji.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-15 |
 | Data wydania | 2017-11-15 |
-| Wejście w życie | 2018-02-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002111) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2111/text.pdf) |
 
@@ -110,5 +109,5 @@ source: "eli-html"
 
 - **7)** usług w zakresie udostępniania solarium, w zakresie uregulowanym ustawą z dnia 15 września 2017 r. o ochronie zdrowia przed następstwami korzystania z solarium (Dz. U. poz. 2111). ” .
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej oraz ustawę z dnia 29 grudnia 1992 r. o radiofonii i telewizji.
 

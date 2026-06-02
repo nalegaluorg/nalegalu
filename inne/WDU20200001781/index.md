@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-10-05 |
 | Data wydania | 2020-10-13 |
-| Wejście w życie | 2020-10-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001781) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1781/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 103 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2020 r. poz. 121 i 288) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 14 grudnia 2018 r. w sprawie organizacji i przebiegu aplikacji komorniczej (Dz. U. poz. 2424) w § 5 ust. 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Sprawiedliwości z dnia 14 grudnia 2018 r. w sprawie organizacji i przebiegu aplikacji komorniczej (Dz. U. poz. 2424) w § 5 ust. 2 otrzymuje brzmienie: „
 2.
-Zajęcia seminaryjne są prowadzone na obszarze właściwej izby komorniczej, w szczególności jako konwersatoria, seminaria i ćwiczenia, przy czym zajęcia te mogą być prowadzone przy użyciu urządzeń technicznych umożliwiających obustronną komunikację na odległość między prowadzącym a aplikantami.
-” .
+Zajęcia seminaryjne są prowadzone na obszarze właściwej izby komorniczej, w szczególności jako konwersatoria, seminaria i ćwiczenia, przy czym zajęcia te mogą być prowadzone przy użyciu urządzeń technicznych umożliwiających obustronną komunikację na odległość między prowadzącym a aplikantami. ” .
 § 2.
 1.
 W 2020 r., w przypadku uzasadnionego braku możliwości prowadzenia zajęć seminaryjnych, zgodnie z określonym harmonogramem zajęć seminaryjnych dla każdego roku aplikacji, rada właściwej izby komorniczej może dokonać zmian w harmonogramie, w szczególności co do terminów zajęć seminaryjnych, formy zajęć i wykładowców. Zmiany w harmonogramie rada właściwej izby komorniczej ogłasza na swojej stronie internetowej oraz przesyła do wiadomości Krajowej Radzie Komorniczej i Ministrowi Sprawiedliwości w terminie 14 dni od dokonania zmiany.

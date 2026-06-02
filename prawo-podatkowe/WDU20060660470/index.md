@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-02-24 |
 | Data wydania | 2006-04-21 |
-| Wejście w życie | 2006-05-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060660470) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/470/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 594, Nr 91, poz. 868, Nr 171, poz. 1800 i Nr 173, poz. 1808 oraz z 2005 r. Nr 124, poz. 1042, Nr 132, poz. 1110 i Nr 183, poz. 1537.) wprowadza się następujące zmiany:
 
 - **1)** w art. 10 w ust. 2 pkt 7 otrzymuje brzmienie: „
 - **7)** upoważnia inspektorów i pracowników zatrudnionych w urzędach kontroli skarbowej do przeprowadzania czynności kontrolnych poza obszarem terytorialnego zasięgu działania danego urzędu; ” ;
@@ -49,5 +48,5 @@ source: "eli-html"
 
 **Art. 4.** Przepis art. 181 ustawy wymienionej w art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się również do materiałów zgromadzonych przed dniem wejścia w życie niniejszej ustawy w toku postępowania karnego albo postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe, które nie zostały prawomocnie zakończone.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 594, Nr 91, poz. 868, Nr 171, poz. 1800 i Nr 173, poz. 1808 oraz z 2005 r. Nr 124, poz. 1042, Nr 132, poz. 1110 i Nr 183, poz. 1537.
 

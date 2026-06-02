@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-08-08 |
 | Data wydania | 2013-08-22 |
-| Wejście w życie | 2013-08-23 |
 | Ostatnia zmiana | 2024-10-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000955) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/955/text.pdf) |
 
@@ -38,7 +37,7 @@ tryb przyznawania, zmieniania i wycofywania oraz sposób weryfikacji podpisu ele
 2.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
-system teleinformatyczny – system teleinformatyczny w rozumieniu art. 2 pkt 3 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. Nr 144, poz. 1204, z późn. zm.), w którym prowadzony jest Krajowy Rejestr Karny;
+system teleinformatyczny – system teleinformatyczny w rozumieniu art. 2 pkt 3 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. Nr 144, poz. 1204, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808, z 2007 r. Nr 50, poz. 331, z 2008 r. Nr 171, poz. 1056 i Nr 216, poz. 1371, z 2009 r. Nr 201, poz. 1540, z 2011 r. Nr 85, poz. 459 i Nr 134, poz. 779 oraz z 2012 r. poz. 1445.), w którym prowadzony jest Krajowy Rejestr Karny;
 2)
 dokument elektroniczny – dokument w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235);
 3)
@@ -77,5 +76,5 @@ Wniosek o wydanie bezpiecznych podpisów elektronicznych i certyfikatów, a tak�
 § 5.
 Biuro Informacyjne weryfikuje bezpieczny podpis elektroniczny, którym opatrzono kartę rejestracyjną lub zawiadomienie przesłane do systemu teleinformatycznego, wykorzystując dane udostępniane przez podmiot, o którym mowa w § 4 ust. 1.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808, z 2007 r. Nr 50, poz. 331, z 2008 r. Nr 171, poz. 1056 i Nr 216, poz. 1371, z 2009 r. Nr 201, poz. 1540, z 2011 r. Nr 85, poz. 459 i Nr 134, poz. 779 oraz z 2012 r. poz. 1445.
 

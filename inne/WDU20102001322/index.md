@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-09-24 |
 | Data wydania | 2010-10-27 |
-| Wejście w życie | 2010-11-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102001322) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1322/text.pdf) |
 
@@ -81,7 +80,7 @@ source: "eli-html"
 1. Zezwoleń wymagają następujące działania:
 
 - **1)** wprowadzenie ryb gatunku obcego, stanowiącego gatunek obcy w rozumieniu art. 3 pkt 6 rozporządzenia nr 708/2007, zwany dalej „gatunkiem obcym”, polegające na zarybieniu wód,
-- **2)** wprowadzenie w rozumieniu art. 3 pkt 10 rozporządzenia nr 708/2007 ryb gatunku obcego zwane dalej „działaniami z wykorzystaniem ryb gatunku uznanego za nierodzimy”.
+- **2)** wprowadzenie w rozumieniu art. 3 pkt 10 rozporządzenia nr 708/2007 ryb gatunku obcego – zwane dalej „działaniami z wykorzystaniem ryb gatunku uznanego za nierodzimy”.
 
 2. Zezwoleń, o których mowa w ust. 1, nie wymagają następujące działania:
 
@@ -93,7 +92,7 @@ source: "eli-html"
 4. W przypadku wystąpienia negatywnego wpływu na środowisko związanego z wprowadzaniem gatunków ryb, na które nie są wymagane zezwolenia, o których mowa w ust. 1, lub przenoszeniem ryb gatunków, dla których nie określono warunków ich przenoszenia na podstawie ust. 3, minister właściwy do spraw rybołówstwa może, w drodze rozporządzenia:
 
 - **1)** wprowadzić na terytorium Rzeczypospolitej Polskiej albo jego części zakaz wprowadzania lub przenoszenia tych ryb,
-- **2)** określić działania mające na celu wyeliminowanie zaistniałych negatywnych skutków uwzględniając ochronę różnorodności biologicznej. ” ;
+- **2)** określić działania mające na celu wyeliminowanie zaistniałych negatywnych skutków – uwzględniając ochronę różnorodności biologicznej. ” ;
 - **5)** po art. 3 dodaje się art. 3a-3i w brzmieniu: „
 
 1. Organem właściwym do wydawania zezwolenia, o którym mowa w art. 3 ust. 1, jest minister właściwy do spraw rybołówstwa. Zezwolenie, o którym mowa w art. 3 ust. 1 pkt 1, jest wydawane z uwzględnieniem stanowiska ministra właściwego do spraw środowiska.
@@ -139,7 +138,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** wykaz gatunków ryb uznanych za rodzinne mając na względzie potrzebę ochrony i utrzymania różnorodności biologicznej oraz konieczność zapobiegania negatywnemu wpływowi działań związanych z wprowadzeniem ryb gatunku obcego na środowisko, a także wyniki badań i dostępną wiedzę w zakresie stosowanych w rybactwie śródlądowym praktyk gospodarczych i ich potencjalnego wpływu na środowisko.
+- **2)** wykaz gatunków ryb uznanych za rodzinne – mając na względzie potrzebę ochrony i utrzymania różnorodności biologicznej oraz konieczność zapobiegania negatywnemu wpływowi działań związanych z wprowadzeniem ryb gatunku obcego na środowisko, a także wyniki badań i dostępną wiedzę w zakresie stosowanych w rybactwie śródlądowym praktyk gospodarczych i ich potencjalnego wpływu na środowisko.
 
 1. Tworzy się zespół ekspertów do spraw związanych z wydawaniem zezwoleń, o których mowa w art. 3 ust. 1, oraz innych spraw w zakresie wykorzystania ryb gatunków obcych oraz ryb gatunków niewystępujących miejscowo, zwany dalej „zespołem ekspertów”.
 
@@ -231,7 +230,7 @@ source: "eli-html"
 
 - **1)** strategii, polityki, planów lub programów w dziedzinie rybactwa śródlądowego, w tym programu ochrony i odbudowy zasobów ryb, opracowanych przez organy administracji publicznej,
 - **2)** nowych okoliczności, niewynikających z przyczyn leżących po stronie uprawnionego do rybactwa, których nie mógł on przewidzieć przed złożeniem operatu rybackiego do zaopiniowania, w szczególności klęsk żywiołowych, zmiany przebiegu granic obwodu rybackiego lub realizacji inwestycji znacząco oddziałującej na środowisko wodne w obwodzie rybackim,
-- **3)** warunków korzystania z wód regionu wodnego lub zlewni, o których mowa w przepisach ustawy – Prawo wodne przy czym, w przypadku uzasadnionych wątpliwości dotyczących celowości dokonania zmiany w operacie rybackim, organ administracji publicznej, przed wydaniem zgody, zwraca się o zajęcie stanowiska, odpowiednio, do organu administracji publicznej, który opracował projekt programu, planu, polityki lub strategii, w przypadku, o którym mowa w pkt 1, albo właściwego marszałka województwa, w przypadku, o którym mowa w pkt 2. ” , po ust. 5 dodaje się ust. 5a-5c w brzmieniu: „
+- **3)** warunków korzystania z wód regionu wodnego lub zlewni, o których mowa w przepisach ustawy – Prawo wodne – przy czym, w przypadku uzasadnionych wątpliwości dotyczących celowości dokonania zmiany w operacie rybackim, organ administracji publicznej, przed wydaniem zgody, zwraca się o zajęcie stanowiska, odpowiednio, do organu administracji publicznej, który opracował projekt programu, planu, polityki lub strategii, w przypadku, o którym mowa w pkt 1, albo właściwego marszałka województwa, w przypadku, o którym mowa w pkt 2. ” , po ust. 5 dodaje się ust. 5a-5c w brzmieniu: „
     - **b)**
 
 5a. Sporządzenie opinii, o której mowa w ust. 5, jest odpłatne.
@@ -331,7 +330,7 @@ source: "eli-html"
 1. Uprawniony do rybactwa, który:
 
 - **1)** nie wykonuje obowiązków, o których mowa w art. 4a ust. 1 lub w przepisach wykonawczych wydanych na podstawie art. 4a ust. 2,
-- **2)** korzysta z wód obwodu rybackiego bez wymaganego operatu rybackiego lub wbrew założeniom tego operatu lub prowadzi gospodarkę rybacką z naruszeniem przepisu art. 6c podlega karze grzywny nie niższej niż 100 zł.
+- **2)** korzysta z wód obwodu rybackiego bez wymaganego operatu rybackiego lub wbrew założeniom tego operatu lub prowadzi gospodarkę rybacką z naruszeniem przepisu art. 6c – podlega karze grzywny nie niższej niż 100 zł.
 
 2. W razie ukarania za wykroczenia określone w ust. 1, sąd orzeka o podaniu orzeczenia o ukaraniu do publicznej wiadomości, na koszt ukaranego.
 
@@ -350,7 +349,7 @@ source: "eli-html"
 - **4)** narusza przepis art. 16 lub przepisy wydane na podstawie art. 21 pkt 4, nie oznakowując obrębu hodowlanego albo ochronnego lub niewłaściwie je oznakowując, lub nie będąc do tego uprawnionym, umieszcza takie oznakowanie lub niszczy oznakowanie obrębu hodowlanego albo ochronnego,
 - **5)** wbrew obowiązkowi określonemu w art. 13 ust. 2 wstępuje do obrębu hodowlanego bez uzgodnienia terminu, miejsca lub sposobu wejścia do obrębu hodowlanego z uprawnionym do rybactwa w tym obrębie albo wstępuje do obrębu hodowlanego niezgodnie z tymi uzgodnieniami,
 - **6)** dokonuje połowu ryb, wykorzystując do tego sprzęt pływający niezarejestrowany lub nieoznakowany albo oznakowany niezgodnie z przepisami art. 20 ust. 2 lub art. 21 pkt 4,
-- **7)** dokonuje amatorskiego połowu ryb z naruszeniem art. 20 ust. 6 podlega karze grzywny albo karze nagany.
+- **7)** dokonuje amatorskiego połowu ryb z naruszeniem art. 20 ust. 6 – podlega karze grzywny albo karze nagany.
 
 2. Karę, o której mowa w ust. 1, wymierza się odpowiednio za usiłowanie, podżeganie i pomocnictwo w popełnieniu czynu, o którym mowa w ust. 1 pkt 3–7.
 
@@ -383,7 +382,7 @@ source: "eli-html"
 - **4)** dokonuje zarybień niezgodnie z art. 4b ust. 1,
 - **5)** nie stosuje się do nakazu, o którym mowa w art. 9 ust. 1 lub 2,
 - **6)** dokonuje połowu ryb na rzecz uprawnionego do rybactwa, nie posiadając dokumentu stwierdzającego upoważnienie, o którym mowa w art. 5,
-- **7)** narusza przepis art. 20 ust. 1, 4 lub 5 podlega karze ograniczenia wolności albo karze grzywny nie niższej niż 200 zł.
+- **7)** narusza przepis art. 20 ust. 1, 4 lub 5 – podlega karze ograniczenia wolności albo karze grzywny nie niższej niż 200 zł.
 
 2. Karę, o której mowa w ust. 1, wymierza się odpowiednio za usiłowanie, podżeganie i pomocnictwo w popełnieniu czynu, o którym mowa w ust. 1.
 
@@ -414,7 +413,7 @@ source: "eli-html"
 - **4)** narusza zakaz określony w art. 3i, art. 8 ust. 1 pkt 6–10 i ust. 2, art. 10 ust. 1 pkt 1, art. 11, art. 14 ust. 2 lub art. 19 ust. 1,
 - **5)** nie stosuje się do nakazu, o którym mowa w art. 10 ust. 2,
 - **6)** dokonuje połowu ryb niezgodnie z otrzymanym zezwoleniem, o którym mowa w art. 17 ust. 1 lub 2,
-- **7)** przegradza łożysko wody płynącej sieciowymi rybackimi narzędziami połowowymi bez zezwolenia, o którym mowa w art. 17a ust. 1 lub 2, albo przegradza to łożysko niezgodnie z tym zezwoleniem podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+- **7)** przegradza łożysko wody płynącej sieciowymi rybackimi narzędziami połowowymi bez zezwolenia, o którym mowa w art. 17a ust. 1 lub 2, albo przegradza to łożysko niezgodnie z tym zezwoleniem – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 2. W razie skazania za przestępstwa określone w ust. 1, sąd orzeka o podaniu orzeczenia o skazaniu do publicznej wiadomości, na koszt skazanego.
 

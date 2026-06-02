@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 19 listopada 2024 r. o likwidacji Fundacji Platforma Przemysłu Przyszłości
+# Ustawa z dnia 19 listopada 2024 r. o likwidacji Fundacji Platforma Przemysłu Przyszłości Niniejszą ustawą zmienia się ustawę z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym oraz uchyla się ustawę z dnia 17 stycznia 2019 r. o Fundacji Platforma Przemysłu Przyszłości.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-19 |
 | Data wydania | 2024-12-11 |
-| Wejście w życie | 2024-12-12 |
 | Ostatnia zmiana | 2024-12-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001823) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1823/text.pdf) |
 
@@ -109,5 +108,5 @@ source: "eli-html"
 
 **Art. 8.** Traci moc ustawa z dnia 17 stycznia 2019 r. o Fundacji Platforma Przemysłu Przyszłości.
 
-**Art. 9.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 6 i art. 8, które wchodzą w życie z dniem 1 stycznia 2025 r.
+**Art. 9.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 6 i art. 8, które wchodzą w życie z dniem 1 stycznia 2025 r. 1) Niniejszą ustawą zmienia się ustawę z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym oraz uchyla się ustawę z dnia 17 stycznia 2019 r. o Fundacji Platforma Przemysłu Przyszłości.
 

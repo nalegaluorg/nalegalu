@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw
+# Ustawa z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 29 listopada 2000 r. – Prawo atomowe, ustawę z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, ustawę z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia, ustawę z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej, ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, ustawę z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym, ustawę z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, ustawę z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej, ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ustawę z dnia 21 lutego 2019 r. o Agencji Badań Medycznych, ustawę z dnia 16 lipca 2020 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw, ustawę z dnia 10 grudnia 2020 r. o zawodzie farmaceuty, ustawę z dnia 17 grudnia 2021 r. o zmianie ustawy o zdrowiu publicznym oraz niektórych innych ustaw, ustawę z dnia 15 września 2022 r. o medycynie laboratoryjnej, ustawę z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych, ustawę z dnia 15 grudnia 2022 r. o Państwowym Instytucie Medycznym Ministerstwa Spraw Wewnętrznych i Administracji, ustawę z dnia 17 sierpnia 2023 r. o szczególnej opiece geriatrycznej oraz ustawę z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-27 |
 | Data wydania | 2024-12-20 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2025-04-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001897) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1897/text.pdf) |
 
@@ -168,9 +167,10 @@ source: "eli-html"
 - **9)** w art. 8: w ust. 2 pkt 2 otrzymuje brzmienie: „
     - **a)**
 
-- **2)** zastępca przewodniczącego, wybierany spośród osób, o których mowa w pkt 3; ” , w ust. 3: – w pkt 3 wyrazy „studiów doktoranckich” zastępuje się wyrazami „szkół doktorskich”, – po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) nadawanie tytułu doktora honoris causa; ” , – uchyla się pkt 9;
+- **2)** zastępca przewodniczącego, wybierany spośród osób, o których mowa w pkt 3; ” , w ust. 3: – w pkt 3 wyrazy „studiów doktoranckich” zastępuje się wyrazami „szkół doktorskich”, po pkt 6 dodaje się pkt 6a w brzmieniu: „
     - **b)**
 
+- **6a)** nadawanie tytułu doktora honoris causa; ” , – uchyla się pkt 9;
 - **10)** po art. 8 dodaje się art. 8a w brzmieniu: „
 
 **Art. 8a.**
@@ -192,8 +192,11 @@ source: "eli-html"
 
 5. CMKP opracowuje program naprawczy, jeżeli suma strat netto w okresie nie dłuższym niż 5 ostatnich lat przekracza 20% kwoty dotacji otrzymanej w roku poprzedzającym bieżący rok budżetowy ze środków finansowych, o których mowa w art. 10 ust. 1. Przepisy art. 418 ust. 2–11 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce stosuje się odpowiednio. ” ;
 
-- **12)** w art. 10: w ust. 1: – pkt 7 otrzymuje brzmienie: „ 7) utrzymanie i rozwój potencjału CMKP; ” , – po pkt 7 dodaje się pkt 8 w brzmieniu: „ 8) rozwój zawodowy pracowników CMKP. ” , po ust. 1 dodaje się ust. 1a-1c w brzmieniu: „
+- **12)** w art. 10: w ust. 1: pkt 7 otrzymuje brzmienie: „
     - **a)**
+
+- **7)** utrzymanie i rozwój potencjału CMKP; ” , po pkt 7 dodaje się pkt 8 w brzmieniu: „
+- **8)** rozwój zawodowy pracowników CMKP. ” , po ust. 1 dodaje się ust. 1a-1c w brzmieniu: „
     - **b)**
 
 1a. Wysokość dotacji, o której mowa w ust. 1, ustala minister właściwy do spraw zdrowia, na wniosek dyrektora. Dotacja na dany rok nie może być większa niż 110% kwoty dotacji z roku poprzedniego.
@@ -237,7 +240,7 @@ source: "eli-html"
 - **1)** towarzystwa naukowe o zasięgu krajowym właściwe dla danej umiejętności zawodowej prowadzące działalność naukową co najmniej przez 5 lat poprzedzających datę złożenia wniosku, o którym mowa w ust. 5,
 - **2)** instytuty badawcze, o których mowa w art. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534), prowadzące działalność medyczną i naukową właściwą dla danej umiejętności zawodowej,
 - **3)** Naczelna Izba Lekarska,
-- **4)** okręgowe izby lekarskie wpisane do rejestru prowadzonego w formie ewidencyjno-informatycznej przez dyrektora CMKP, zwane dalej „organizatorami certyfikacji”. ” , w ust. 4 – w pkt 2 i 3 wyrazy „towarzystwa naukowego albo instytutu badawczego” zastępuje się wyrazami „organizatora certyfikacji”, – w pkt 6 wyrazy „towarzystwo naukowe albo instytut badawczy” zastępuje się wyrazami „organizator certyfikacji”, w ust. 7 wyrazy „Towarzystwo naukowe oraz instytut badawczy wpisane do rejestru są obowiązane” zastępuje się wyrazami „Organizator certyfikacji jest obowiązany”, w ust. 8 wyrazy „towarzystw naukowych oraz instytutów badawczych wpisanych do rejestru” zastępuje się wyrazami „organizatorów certyfikacji”, w ust. 11 w pkt 1 wyrazy „towarzystwa naukowego albo instytutu badawczego wpisanego do rejestru” zastępuje się wyrazami „organizatora certyfikacji”, w ust. 12 wyrazy „uprawniony członek zarządu towarzystwa naukowego albo dyrektor instytutu badawczego” zastępuje się wyrazami „osoba reprezentująca organizatora certyfikacji”, w ust. 13 wyrazy „towarzystwo naukowe albo instytut badawczy” zastępuje się wyrazami „organizator certyfikacji”, w ust. 14 wyrazy „uprawnionego członka zarządu towarzystwa naukowego albo dyrektora instytutu badawczego” zastępuje się wyrazami „osobę reprezentującą organizatora certyfikacji”, w ust. 15 wyrazy „towarzystwu naukowemu albo instytutowi badawczemu” zastępuje się wyrazami „organizatorowi certyfikacji”, w ust. 16 wyrazy „Towarzystwo naukowe oraz instytut badawczy w terminie 7 dni od dnia otrzymania protokołu mają prawo” zastępuje się wyrazami „Organizator certyfikacji w terminie 7 dni od dnia otrzymania protokołu ma prawo”, ust. 18 otrzymuje brzmienie: „
+- **4)** okręgowe izby lekarskie – wpisane do rejestru prowadzonego w formie ewidencyjno-informatycznej przez dyrektora CMKP, zwane dalej „organizatorami certyfikacji”. ” , w ust. 4 – w pkt 2 i 3 wyrazy „towarzystwa naukowego albo instytutu badawczego” zastępuje się wyrazami „organizatora certyfikacji”, – w pkt 6 wyrazy „towarzystwo naukowe albo instytut badawczy” zastępuje się wyrazami „organizator certyfikacji”, w ust. 7 wyrazy „Towarzystwo naukowe oraz instytut badawczy wpisane do rejestru są obowiązane” zastępuje się wyrazami „Organizator certyfikacji jest obowiązany”, w ust. 8 wyrazy „towarzystw naukowych oraz instytutów badawczych wpisanych do rejestru” zastępuje się wyrazami „organizatorów certyfikacji”, w ust. 11 w pkt 1 wyrazy „towarzystwa naukowego albo instytutu badawczego wpisanego do rejestru” zastępuje się wyrazami „organizatora certyfikacji”, w ust. 12 wyrazy „uprawniony członek zarządu towarzystwa naukowego albo dyrektor instytutu badawczego” zastępuje się wyrazami „osoba reprezentująca organizatora certyfikacji”, w ust. 13 wyrazy „towarzystwo naukowe albo instytut badawczy” zastępuje się wyrazami „organizator certyfikacji”, w ust. 14 wyrazy „uprawnionego członka zarządu towarzystwa naukowego albo dyrektora instytutu badawczego” zastępuje się wyrazami „osobę reprezentującą organizatora certyfikacji”, w ust. 15 wyrazy „towarzystwu naukowemu albo instytutowi badawczemu” zastępuje się wyrazami „organizatorowi certyfikacji”, w ust. 16 wyrazy „Towarzystwo naukowe oraz instytut badawczy w terminie 7 dni od dnia otrzymania protokołu mają prawo” zastępuje się wyrazami „Organizator certyfikacji w terminie 7 dni od dnia otrzymania protokołu ma prawo”, ust. 18 otrzymuje brzmienie: „
     - **b)**
     - **c)**
     - **d)**
@@ -336,7 +339,7 @@ source: "eli-html"
 - **3)** zatrudnienie w opiece paliatywnej,
 - **4)** pobieranie krwi i jej składników,
 - **5)** kwalifikowanie do szczepień i ich wykonywanie,
-- **6)** zatrudnienie w komórkach organizacyjnych zakładu leczniczego o profilu zabiegowym zgodnie z posiadanymi kwalifikacjami i umiejętnościami zawodowymi. ” ;
+- **6)** zatrudnienie w komórkach organizacyjnych zakładu leczniczego o profilu zabiegowym – zgodnie z posiadanymi kwalifikacjami i umiejętnościami zawodowymi. ” ;
 - **3)** po art. 28 dodaje się art. 28a w brzmieniu: „
 
 **Art. 28a.** Prawo wykonywania zawodu pielęgniarki przysługuje obywatelowi państwa członkowskiego Unii Europejskiej, który posiada dyplom, świadectwo lub inny dokument potwierdzający posiadanie formalnych kwalifikacji do wykonywania zawodu pielęgniarki odpowiedzialnej za opiekę ogólną uzyskane przed dniem 1 stycznia 2021 r. w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej i tytuł zawodowy „Registered Nurse – Adult”, „Registered General Nurse” lub „State Registered Nurse” oraz spełnia warunki, o których mowa w art. 28 pkt 2–4. ” ;
@@ -566,13 +569,18 @@ source: "eli-html"
 
 6d. Jeżeli organ wezwał wnioskodawcę do uzupełnienia wniosku o wpis, termin, o którym mowa w ust. 6c, biegnie od dnia wpływu uzupełnienia wniosku.
 
-6e. Wnioskodawca uzupełnia wniosek o wpis w terminie 14 dni od dnia doręczenia wezwania. ” , w ust. 7: – pkt 2 otrzymuje brzmienie: „ 2) organizatora kształcenia, o którym mowa w art. 75 ust. 1 pkt 1–5, wykreślono z rejestru na podstawie ust. 8 pkt 1, 4 lub 5 w okresie 3 lat poprzedzających złożenie wniosku; ” , – po pkt 2 dodaje się pkt 3 w brzmieniu: „ 3) wnioskodawca nie spełnia warunków, o których mowa w art. 75 ust. 1 i 3 pkt 1–4. ” , w ust. 8: – we wprowadzeniu do wyliczenia wyrazy „art. 75 ust. 1 pkt 2” zastępuje się wyrazami „art. 75 ust. 1 pkt 1–5”, – pkt 4 otrzymuje brzmienie: „ 4) rażącego naruszenia warunków prowadzenia kształcenia podyplomowego określonych w art. 75 ust. 3; ” , – w pkt 6 wyrazy „art. 75 ust. 1 pkt 2” zastępuje się wyrazami „art. 75 ust. 1 pkt 1–5”, – w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „ 8) wykreślenia organizatora kształcenia z rejestru, o którym mowa w art. 100 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej. ” , w ust. 10 wyrazy „art. 75 ust. 1 pkt 2” zastępuje się wyrazami „art. 75 ust. 1 pkt 1–5”, w ust. 11 w zdaniu drugim skreśla się wyrazy „art. 76”, dodaje się ust. 12–16 w brzmieniu: „
+6e. Wnioskodawca uzupełnia wniosek o wpis w terminie 14 dni od dnia doręczenia wezwania. ” , w ust. 7: pkt 2 otrzymuje brzmienie: „
 
 - **h)**
-- **i)**
-- **j)**
-- **k)**
-- **l)**
+- **2)** organizatora kształcenia, o którym mowa w art. 75 ust. 1 pkt 1–5, wykreślono z rejestru na podstawie ust. 8 pkt 1, 4 lub 5 w okresie 3 lat poprzedzających złożenie wniosku; ” , po pkt 2 dodaje się pkt 3 w brzmieniu: „
+- **3)** wnioskodawca nie spełnia warunków, o których mowa w art. 75 ust. 1 i 3 pkt 1–4. ” , w ust. 8: – we wprowadzeniu do wyliczenia wyrazy „art. 75 ust. 1 pkt 2” zastępuje się wyrazami „art. 75 ust. 1 pkt 1–5”, pkt 4 otrzymuje brzmienie: „
+    - **i)**
+
+- **4)** rażącego naruszenia warunków prowadzenia kształcenia podyplomowego określonych w art. 75 ust. 3; ” , – w pkt 6 wyrazy „art. 75 ust. 1 pkt 2” zastępuje się wyrazami „art. 75 ust. 1 pkt 1–5”, w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
+- **8)** wykreślenia organizatora kształcenia z rejestru, o którym mowa w art. 100 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej. ” , w ust. 10 wyrazy „art. 75 ust. 1 pkt 2” zastępuje się wyrazami „art. 75 ust. 1 pkt 1–5”, w ust. 11 w zdaniu drugim skreśla się wyrazy „art. 76”, dodaje się ust. 12–16 w brzmieniu: „
+    - **j)**
+    - **k)**
+    - **l)**
 
 12. W przypadku zmiany danych zawartych w rejestrze podmiot, o którym mowa w art. 75 ust. 1 pkt 1–5, składa za pośrednictwem SMK wniosek w sprawie zmiany danych wpisanych do rejestru, zawierający dane, o których mowa w ust. 1, wskazując zakres wprowadzanej zmiany. Po dokonaniu zmiany organ prowadzący rejestr wydaje z urzędu zaświadczenie, o którym mowa w ust. 6a.
 
@@ -672,12 +680,16 @@ source: "eli-html"
 
 2b. Czynności kontrolne są wykonywane przez pracowników CMKP, krajowych i wojewódzkich konsultantów w dziedzinach pielęgniarstwa lub przez przedstawicieli Naczelnej Rady Pielęgniarek i Położnych posiadających tytuł specjalisty w danej dziedzinie lub dorobek naukowy lub zawodowy w tej dziedzinie, upoważnionych przez dyrektora CMKP do wykonywania tych czynności.
 
-2c. Dyrektor CMKP opracowuje roczny raport z przeprowadzonych czynności kontrolnych i przedstawia go ministrowi właściwemu do spraw zdrowia w terminie do dnia 31 marca roku następującego po roku, którego dotyczy raport. ” , uchyla się ust. 3 i 4, w ust. 5: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Osoby, o których mowa w ust. 2b, wykonując czynności kontrolne za okazaniem imiennego upoważnienia, mają prawo: ” , – w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „ 8) wglądu do dokumentacji wewnętrznego systemu oceny jakości kształcenia. ” , w ust. 6: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) potwierdzenie posiadania akredytacji, o której mowa w art. 75a ust. 1, w przypadku specjalizacji; ” , – po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) stwierdzone uchybienia lub nieprawidłowości albo informację o ich braku; ” , ust. 13 i 14 otrzymują brzmienie: „
+2c. Dyrektor CMKP opracowuje roczny raport z przeprowadzonych czynności kontrolnych i przedstawia go ministrowi właściwemu do spraw zdrowia w terminie do dnia 31 marca roku następującego po roku, którego dotyczy raport. ” , uchyla się ust. 3 i 4, w ust. 5: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Osoby, o których mowa w ust. 2b, wykonując czynności kontrolne za okazaniem imiennego upoważnienia, mają prawo: ” , w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
 
 - **d)**
 - **e)**
-- **f)**
-- **g)**
+- **8)** wglądu do dokumentacji wewnętrznego systemu oceny jakości kształcenia. ” , w ust. 6: po pkt 1 dodaje się pkt 1a w brzmieniu: „
+    - **f)**
+
+- **1a)** potwierdzenie posiadania akredytacji, o której mowa w art. 75a ust. 1, w przypadku specjalizacji; ” , po pkt 5 dodaje się pkt 5a w brzmieniu: „
+- **5a)** stwierdzone uchybienia lub nieprawidłowości albo informację o ich braku; ” , ust. 13 i 14 otrzymują brzmienie: „
+    - **g)**
 
 13. Na podstawie ustaleń zawartych w protokole dyrektor CMKP:
 
@@ -801,8 +813,12 @@ source: "eli-html"
 - **1)** ministrowi, ministrom nadzorującym uczelnie, ministrowi nadzorującemu CMKP, RDN, KEN, NAWA, NCN, NCBiR oraz Prezesowi PAN; ” ;
 - **21)** w art. 346 w ust. 7 pkt 1 otrzymuje brzmienie: „
 - **1)** ministrowi, ministrowi nadzorującemu uczelnię lub podmiot, o którym mowa w art. 7 ust. 1 pkt 5, 6c i 8, KEN, NCBiR i Prezesowi Głównego Urzędu Statystycznego; ” ;
-- **22)** w art. 350: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) plany rzeczowo-finansowe uczelni publicznych oraz CMKP; ” , – pkt 2 otrzymuje brzmienie: „ 2) sprawozdania z wykonania planów rzeczowo-finansowych uczelni publicznych oraz CMKP; ” , – pkt 4 otrzymuje brzmienie: „ 4) roczne sprawozdania finansowe uczelni publicznych oraz CMKP zbadane przez firmę audytorską; ” , w ust. 3 pkt 1 otrzymuje brzmienie: „
+- **22)** w art. 350: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** plany rzeczowo-finansowe uczelni publicznych oraz CMKP; ” , pkt 2 otrzymuje brzmienie: „
+- **2)** sprawozdania z wykonania planów rzeczowo-finansowych uczelni publicznych oraz CMKP; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** roczne sprawozdania finansowe uczelni publicznych oraz CMKP zbadane przez firmę audytorską; ” , w ust. 3 pkt 1 otrzymuje brzmienie: „
     - **b)**
 
 - **1)** ministrowi oraz ministrowi nadzorującemu podmiot, o którym mowa w art. 7 ust. 1 pkt 1, 5, 6c i 8; ” ;
@@ -859,7 +875,7 @@ source: "eli-html"
 - **2)** Centrum Medycznego Kształcenia Podyplomowego, o którym mowa w ustawie z dnia 13 września 2018 r. o Centrum Medycznego Kształcenia Podyplomowego (Dz. U. z 2024 r. poz. 570 i 1897);
 - **3)** podmioty lecznicze, dla których podmiotem tworzącym jest publiczna uczelnia medyczna albo uczelnia prowadząca działalność dydaktyczną i badawczą w dziedzinie nauk medycznych i nauk o zdrowiu, albo Centrum Medycznego Kształcenia Podyplomowego; ” .
 
-**Art. 15.** W ustawie z dnia 16 lipca 2020 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw (Dz. U. poz. 1291, z późn. zm.) w art. 14b w ust. 1–3 wyrazy „31 grudnia 2024 r.” zastępuje się wyrazami „28 lutego 2026 r.”.
+**Art. 15.** W ustawie z dnia 16 lipca 2020 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw (Dz. U. poz. 1291, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1493, 2112, 2345 i 2401, z 2021 r. poz. 2232 i 2459 oraz z 2022 r. poz. 2770.) w art. 14b w ust. 1–3 wyrazy „31 grudnia 2024 r.” zastępuje się wyrazami „28 lutego 2026 r.”.
 
 **Art. 16.** W ustawie z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2024 r. poz. 676) w art. 57 ust. 5 i 6 otrzymują brzmienie: „ 5. Do obowiązków kierownika specjalizacji należy:
 
@@ -974,7 +990,7 @@ source: "eli-html"
 5. Dane i dokumenty osoby:
 
 - **1)** która została wykreślona z rejestru,
-- **2)** której odmówiono wpisu do rejestru przechowuje się w rejestrze przez okres 5 lat, licząc od końca roku kalendarzowego, w którym nastąpił zgon tej osoby albo w którym nastąpiło znalezienie jej zwłok. ” ;
+- **2)** której odmówiono wpisu do rejestru – przechowuje się w rejestrze przez okres 5 lat, licząc od końca roku kalendarzowego, w którym nastąpił zgon tej osoby albo w którym nastąpiło znalezienie jej zwłok. ” ;
 - **2)** w art. 98 w ust. 1 wyrazy „5 lat” zastępuje się wyrazami „1 roku”;
 - **3)** w załączniku do ustawy w tabeli w lp. 6 w kolumnie 3 w pkt 5 dodaje się przecinek i wyraz „lub” oraz dodaje się pkt 6 w brzmieniu: „
 - **6)** rozpoczęcie przed dniem wejścia w życie ustawy zasadniczej szkoły zawodowej lub szkoły policealnej i uzyskanie tytułu zawodowego w zawodzie higienistki szpitalnej lub asystentki pielęgniarskiej ” .
@@ -1090,6 +1106,6 @@ source: "eli-html"
 - **1)** art. 12, art. 15, art. 19 i art. 40, które wchodzą w życie z dniem 30 grudnia 2024 r.;
 - **2)** art. 9 pkt 14 i 15 oraz art. 28 ust. 5 i 6, które wchodzą w życie z dniem 16 stycznia 2025 r.;
 - **3)** art. 2 pkt 3 i 4 oraz art. 35, które wchodzą w życie z dniem 1 września 2025 r.;
-- **4)** art. 9 pkt 7 lit. b-e i pkt 9, które wchodzą w życie z dniem 1 stycznia 2027 r.
+- **4)** art. 9 pkt 7 lit. b-e i pkt 9, które wchodzą w życie z dniem 1 stycznia 2027 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 29 listopada 2000 r. – Prawo atomowe, ustawę z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, ustawę z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia, ustawę z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej, ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, ustawę z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym, ustawę z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, ustawę z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej, ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ustawę z dnia 21 lutego 2019 r. o Agencji Badań Medycznych, ustawę z dnia 16 lipca 2020 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw, ustawę z dnia 10 grudnia 2020 r. o zawodzie farmaceuty, ustawę z dnia 17 grudnia 2021 r. o zmianie ustawy o zdrowiu publicznym oraz niektórych innych ustaw, ustawę z dnia 15 września 2022 r. o medycynie laboratoryjnej, ustawę z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych, ustawę z dnia 15 grudnia 2022 r. o Państwowym Instytucie Medycznym Ministerstwa Spraw Wewnętrznych i Administracji, ustawę z dnia 17 sierpnia 2023 r. o szczególnej opiece geriatrycznej oraz ustawę z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1493, 2112, 2345 i 2401, z 2021 r. poz. 2232 i 2459 oraz z 2022 r. poz. 2770.
 
 

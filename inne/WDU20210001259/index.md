@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 24 czerwca 2021 r. w sprawie dodatkowych danych podlegających wskazaniu w zgłoszeniu przewozu towarów
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 24 czerwca 2021 r. w sprawie dodatkowych danych podlegających wskazaniu w zgłoszeniu przewozu towarów Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej ‒ finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-24 |
 | Data wydania | 2021-07-09 |
-| Wejście w życie | 2021-07-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001259) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1259/text.pdf) |
 
@@ -58,6 +57,5 @@ innego miejsca niż stacja paliw, o której mowa w art. 3 pkt 10h ustawy z dnia 
 § 6.
 Traci moc rozporządzenie Ministra Finansów z dnia 14 sierpnia 2018 r. w sprawie dodatkowych danych podlegających wskazaniu w zgłoszeniu przewozu towarów (Dz. U. poz. 1663 oraz z 2019 r. poz. 301 i 1873).
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej ‒ finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej ‒ finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 

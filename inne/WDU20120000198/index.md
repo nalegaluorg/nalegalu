@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-02-14 |
 | Data wydania | 2012-02-21 |
-| Wejście w życie | 2012-03-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000198) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/198/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 7 ust. 7 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. Nr 85, poz. 539, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 7 ust. 7 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. Nr 85, poz. 539, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2001 r. Nr 129, poz. 1440, z 2002 r. Nr 113, poz. 984, z 2004 r. Nr 238, poz. 2390, z 2006 r. Nr 220, poz. 1600 oraz z 2011 r. Nr 112, poz. 654 i Nr 207, poz. 1230.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa organizację i tryb działania Krajowej Rady Bibliotecznej, zwanej dalej „Radą”, działającej przy ministrze właściwym do spraw kultury i ochrony dziedzictwa narodowego.
 § 2.
@@ -148,5 +147,5 @@ Przewodniczący Rady, w terminie do końca lutego każdego roku, przedkłada min
 2.
 Przewodniczący Rady dołącza do sprawozdania kopię uchwały, o której mowa w § 13 ust. 3.
 § 15.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Sztuki z dnia 19 marca 1998 r. w sprawie regulaminu Krajowej Rady Bibliotecznej (Dz. U. Nr 47, poz. 297). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2001 r. Nr 129, poz. 1440, z 2002 r. Nr 113, poz. 984, z 2004 r. Nr 238, poz. 2390, z 2006 r. Nr 220, poz. 1600 oraz z 2011 r. Nr 112, poz. 654 i Nr 207, poz. 1230. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Sztuki z dnia 19 marca 1998 r. w sprawie regulaminu Krajowej Rady Bibliotecznej (Dz. U. Nr 47, poz. 297).
 

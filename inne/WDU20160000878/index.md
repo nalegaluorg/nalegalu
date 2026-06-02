@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 17 czerwca 2016 r. w sprawie dokonywania oceny zgodności urządzeń radiowych z wymaganiami
+# Rozporządzenie Ministra Cyfryzacjiz dnia 17 czerwca 2016 r. w sprawie dokonywania oceny zgodności urządzeń radiowych z wymaganiami Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-17 |
 | Data wydania | 2016-06-20 |
-| Wejście w życie | 2016-06-21 |
 | Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000878) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/878/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Wewnętrzna kontrola produkcji Rozdział 3 – Badanie typu UE oraz zgodność z typem w oparciu o wewnętrzną kontrolę produkcji Rozdział 4 – Zgodność oparta na pełnym zapewnieniu jakości Rozdział 5 – Dokumentacja techniczna urządzeń radiowych Rozdział 6 – Sposób oznakowania urządzeń radiowych Rozdział 7 – Elementy deklaracji zgodności urządzeń radiowych Rozdział 8 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 12 pkt 1–5 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/53/UE z dnia 16 kwietnia 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich dotyczących udostępniania na rynku urządzeń radiowych i uchylającą dyrektywę 1999/5/WE (Dz. Urz. UE L 153 z 22.05.2014, str. 62). Na podstawie art. 12 pkt 1–5 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -42,7 +42,7 @@ sposób oznakowania urządzeń radiowych;
 5)
 elementy deklaracji zgodności urządzeń radiowych.
 § 2.
-Urządzenia radiowe wprowadzane do obrotu lub oddawane do użytku muszą spełniać wymagania, o których mowa w art. 153 ust. 1–1b ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.), zwane dalej „wymaganiami”.
+Urządzenia radiowe wprowadzane do obrotu lub oddawane do użytku muszą spełniać wymagania, o których mowa w art. 153 ust. 1–1b ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198, z 2015 r. poz. 1069, 1893 i 2281 oraz z 2016 r. poz. 147 i 542.), zwane dalej „wymaganiami”.
 § 3.
 Procedurami oceny zgodności urządzeń radiowych z wymaganiami są:
 1)
@@ -51,6 +51,7 @@ wewnętrzna kontrola produkcji;
 badanie typu UE oraz zgodność z typem w oparciu o wewnętrzną kontrolę produkcji;
 3)
 zgodność oparta na pełnym zapewnieniu jakości.
+Wewnętrzna kontrola produkcji
 § 4.
 1.
 Wewnętrznej kontroli produkcji dokonuje producent.
@@ -62,6 +63,7 @@ Producent umieszcza oznakowanie CE na urządzeniu radiowym zgodnym z wymaganiami
 Producent sporządza, w formie pisemnej, deklarację zgodności dla każdego typu urządzenia radiowego.
 § 5.
 Wewnętrznej kontroli produkcji nie stosuje się do oceny zgodności urządzenia radiowego z wymaganiami, o których mowa w art. 153 ust. 1 pkt 2 i ust. 1b ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, w przypadku gdy producent nie zastosował norm zharmonizowanych lub zastosował tylko częściowo normy zharmonizowane, lub jeżeli takie normy nie istnieją.
+Badanie typu UE oraz zgodność z typem w oparciu o wewnętrzną kontrolę produkcji
 § 6.
 1.
 Badanie typu UE to część procedury oceny zgodności, w której jednostka notyfikowana bada projekt techniczny urządzenia radiowego i wydaje certyfikat potwierdzający zgodność typu urządzenia radiowego z wymaganiami.
@@ -131,6 +133,7 @@ Jednostka notyfikowana przekazuje na żądanie Komisji Europejskiej i państw cz
 Jednostka notyfikowana przechowuje kopię certyfikatu badania typu UE, załączników i aneksów do niego, a także dokumentów dotyczących przeprowadzenia oceny zgodności urządzenia radiowego z wymaganiami, w tym dokumentację techniczną, przez 10 lat od dnia przeprowadzenia tej oceny lub do wygaśnięcia ważności tego certyfikatu.
 § 11.
 Dokumenty dotyczące przeprowadzenia oceny zgodności urządzenia radiowego z wymaganiami, w tym dokumentację techniczną oraz korespondencję między producentem a jednostką notyfikowaną sporządza się w języku urzędowym państwa członkowskiego, w którym ustanowiona jest jednostka notyfikowana, lub w innym języku zaakceptowanym przez tę jednostkę.
+Zgodność oparta na pełnym zapewnieniu jakości
 § 12.
 1.
 Zgodność oparta na pełnym zapewnieniu jakości to procedura, w której proces projektowania, produkcji i kontroli urządzeń radiowych odbywa się zgodnie z systemem pełnego zapewnienia jakości, zwanym dalej „systemem jakości”, po jego zatwierdzeniu przez jednostkę notyfikowaną.
@@ -235,6 +238,7 @@ informacji związanych z zatwierdzonym systemem jakości.
 Jednostka notyfikowana informuje ministra właściwego do spraw informatyzacji o wydanych lub cofniętych zatwierdzeniach systemów jakości, a na jego żądanie udostępnia wykaz zatwierdzeń systemów jakości, których wydania odmówiła, które zawiesiła lub poddała innym ograniczeniom.
 2.
 Jednostka notyfikowana informuje inne jednostki notyfikowane państw członkowskich Unii Europejskiej, prowadzące działalność w zakresie oceny zgodności urządzeń radiowych, o zatwierdzeniach systemów jakości, których wydania odmówiła, które cofnęła, zawiesiła lub poddała innym ograniczeniom, a na ich żądanie, o zatwierdzeniach systemów jakości, które wydała.
+Dokumentacja techniczna urządzeń radiowych
 § 20.
 1.
 Dokumentacja techniczna zawiera dane i informacje dotyczące środków zastosowanych przez producenta, mających na celu zapewnienie zgodności urządzenia radiowego z wymaganiami.
@@ -268,6 +272,7 @@ sprawozdania z badań;
 wyjaśnienie zgodności z wymogiem, o którym mowa w art. 158 ust. 5 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, oraz ewentualnego umieszczenia na opakowaniu informacji zgodnie z art. 154 ust. 1a ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne;
 11)
 inne dane i informacje mające na celu zapewnienie zgodności urządzenia radiowego z wymaganiami.
+Sposób oznakowania urządzeń radiowych
 § 21.
 1.
 Oznakowanie CE umieszcza się w sposób widoczny, czytelny i trwały na urządzeniu radiowym lub jego tablicy znamionowej, chyba że nie ma takiej możliwości lub jest to nieuzasadnione z uwagi na rodzaj urządzenia radiowego. Oznakowanie CE umieszcza się również w sposób widoczny i czytelny na opakowaniu.
@@ -275,6 +280,7 @@ Oznakowanie CE umieszcza się w sposób widoczny, czytelny i trwały na urządze
 Ze względu na rodzaj urządzeń radiowych wysokość oznakowania CE umieszczonego na urządzeniu radiowym może być mniejsza niż 5 mm, pod warunkiem że pozostaje ono widoczne i czytelne.
 3.
 Obok oznakowania CE mogą być umieszczone inne znaki, pod warunkiem że nie zmniejszają widoczności i czytelności oznakowania CE.
+Elementy deklaracji zgodności urządzeń radiowych
 § 22.
 W deklaracji zgodności zamieszcza się:
 1)
@@ -303,23 +309,39 @@ opis elementów dodatkowych lub komponentów, w tym oprogramowania, które umoż
 podpis, z podaniem imienia i nazwiska, wskazanie stanowiska osoby upoważnionej do składania podpisu w imieniu producenta lub jego upoważnionego przedstawiciela oraz wskazanie podmiotu, w imieniu którego deklaracja zgodności została podpisana.
 § 23.
 W uproszczonej deklaracji zgodności producent wskazuje swoją nazwę, typ urządzenia radiowego oraz oświadcza, że jest on zgodny z dyrektywą Parlamentu Europejskiego i Rady 2014/53/UE z dnia 16 kwietnia 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich dotyczących udostępniania na rynku urządzeń radiowych i uchylającą dyrektywę 1999/5/WE, wskazując jednocześnie adres internetowy, pod którym dostępny jest pełny tekst deklaracji zgodności.
+Przepis końcowy
 § 24.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/53/UE z dnia 16 kwietnia 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich dotyczących udostępniania na rynku urządzeń radiowych i uchylającą dyrektywę 1999/5/WE (Dz. Urz. UE L 153 z 22.05.2014, str. 62). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198, z 2015 r. poz. 1069, 1893 i 2281 oraz z 2016 r. poz. 147 i 542. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 15 kwietnia 2004 r. w sprawie dokonywania oceny zgodności telekomunikacyjnych urządzeń końcowych przeznaczonych do dołączania do zakończeń sieci publicznej i urządzeń radiowych z zasadniczymi wymaganiami oraz ich oznakowania (Dz. U. poz. 659, z 2006 r. poz. 177, z 2007 r. poz. 1071 oraz z 2010 r. poz. 174), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 131 ust. 1 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 15 kwietnia 2004 r. w sprawie dokonywania oceny zgodności telekomunikacyjnych urządzeń końcowych przeznaczonych do dołączania do zakończeń sieci publicznej i urządzeń radiowych z zasadniczymi wymaganiami oraz ich oznakowania (Dz. U. poz. 659, z 2006 r. poz. 177, z 2007 r. poz. 1071 oraz z 2010 r. poz. 174), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 131 ust. 1 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542). 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/53/UE z dnia 16 kwietnia 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich dotyczących udostępniania na rynku urządzeń radiowych i uchylającą dyrektywę 1999/5/WE (Dz. Urz. UE L 153 z 22.05.2014, str. 62). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198, z 2015 r. poz. 1069, 1893 i 2281 oraz z 2016 r. poz. 147 i 542. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 15 kwietnia 2004 r. w sprawie dokonywania oceny zgodności telekomunikacyjnych urządzeń końcowych przeznaczonych do dołączania do zakończeń sieci publicznej i urządzeń radiowych z zasadniczymi wymaganiami oraz ich oznakowania (Dz. U. poz. 659, z 2006 r. poz. 177, z 2007 r. poz. 1071 oraz z 2010 r. poz. 174), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 131 ust. 1 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Wewnętrzna kontrola produkcji
+#### Rozdział 2 – Wewnętrzna kontrola produkcji
 
-#### Rozdział 3 Badanie typu UE oraz zgodność z typem w oparciu o wewnętrzną kontrolę produkcji
+#### Rozdział 3 – Badanie typu UE oraz zgodność z typem w oparciu o wewnętrzną kontrolę produkcji
 
-#### Rozdział 4 Zgodność oparta na pełnym zapewnieniu jakości
+#### Rozdział 4 – Zgodność oparta na pełnym zapewnieniu jakości
 
-#### Rozdział 5 Dokumentacja techniczna urządzeń radiowych
+#### Rozdział 5 – Dokumentacja techniczna urządzeń radiowych
 
-#### Rozdział 6 Sposób oznakowania urządzeń radiowych
+#### Rozdział 6 – Sposób oznakowania urządzeń radiowych
 
-#### Rozdział 7 Elementy deklaracji zgodności urządzeń radiowych
+#### Rozdział 7 – Elementy deklaracji zgodności urządzeń radiowych
 
-#### Rozdział 8 Przepis końcowy
+#### Rozdział 8 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

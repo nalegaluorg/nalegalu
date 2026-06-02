@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 1 czerwca 2017 r. w sprawie systemu teleinformatycznego rejestrującego i archiwizującego dane dotyczące przebiegu gier na automatach do gier w salonach gier na automatach
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 1 czerwca 2017 r. w sprawie systemu teleinformatycznego rejestrującego i archiwizującego dane dotyczące przebiegu gier na automatach do gier w salonach gier na automatach Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-01 |
 | Data wydania | 2017-06-07 |
-| Wejście w życie | 2017-06-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001096) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1096/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 15ba ust. 7 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2016 r. poz. 471, 1948 i 2260 oraz z 2017 r. poz. 88, 379 i 1089) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 grudnia 2016 r. pod numerem 2016/698/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 15ba ust. 7 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2016 r. poz. 471, 1948 i 2260 oraz z 2017 r. poz. 88, 379 i 1089) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki prowadzenia i działania systemu teleinformatycznego rejestrującego i archiwizującego, o którym mowa w art. 15ba ust. 1 ustawy z dnia 19 listopada 2009 r. o grach hazardowych, zwanego dalej „systemem”.
 § 2.
@@ -111,6 +110,5 @@ dane dotyczące ingerencji i zmian dokonywanych w sposobie działania automatu d
 § 6.
 System umożliwia odbieranie danych, o których mowa w § 5, w postaci dokumentów elektronicznych, za pośrednictwem sieci Internet.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 grudnia 2016 r. pod numerem 2016/698/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 grudnia 2016 r. pod numerem 2016/698/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-06-10 |
 | Data wydania | 2014-08-07 |
-| Wejście w życie | 2014-08-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001062) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1062/text.pdf) |
 
@@ -38,7 +37,7 @@ source: "eli-html"
 
 1. Kto publicznie znieważa Znak Polski Walczącej, podlega karze grzywny.
 
-2. Do postępowania w sprawach, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.).
+2. Do postępowania w sprawach, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247 oraz z 2014 r. poz. 486, 579, 786 i 969.).
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247 oraz z 2014 r. poz. 486, 579, 786 i 969.
 

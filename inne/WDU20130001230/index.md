@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-10-15 |
 | Data wydania | 2013-10-22 |
-| Wejście w życie | 2013-11-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001230) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1230/text.pdf) |
 
@@ -71,6 +70,5 @@ dwa odcinki ściany o długości: 4,25 m z jednym otworem drzwiowym i 17,85 m od
 17)
 dwa odcinki ściany o długości: 6 m i 10 m od strony pomieszczeń służbowych;
 18)
-ściana o długości 26,87 m od strony korytarza.
-Obszar składu wolnocłowego wynosi 6297,85 m2.
+ściana o długości 26,87 m od strony korytarza. Obszar składu wolnocłowego wynosi 6297,85 m2.
 

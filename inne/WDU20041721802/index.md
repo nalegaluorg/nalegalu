@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-06-17 |
 | Data wydania | 2004-08-04 |
-| Wejście w życie | 2004-08-19 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041721802) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1802/text.pdf) |
 
@@ -48,7 +47,7 @@ source: "eli-html"
 3c. Roczne plany łowieckie dla:
 
 - **1)** obwodów łowieckich graniczących z parkami narodowymi opiniowane są dodatkowo przez dyrektora parku narodowego,
-- **2)** obwodów łowieckich, na terenie których znajdują się obręby hodowlane, opiniowane są dodatkowo, w zakresie pozyskania piżmaka i łyski przez uprawnionych do rybactwa w rozumieniu ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 1999 r. Nr 66, poz. 750, z późn. zm.).
+- **2)** obwodów łowieckich, na terenie których znajdują się obręby hodowlane, opiniowane są dodatkowo, w zakresie pozyskania piżmaka i łyski przez uprawnionych do rybactwa w rozumieniu ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 1999 r. Nr 66, poz. 750, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 120, poz. 1268, z 2001 r. Nr 81, poz. 875, Nr 110, poz. 1189 i Nr 115, poz. 1229 oraz z 2004 r. Nr 92, poz. 880.).
 
 3d. W przypadku odmowy zatwierdzenia lub uzgodnienia w całości lub części rocznego planu łowieckiego zainteresowanemu przysługuje odwołanie odpowiednio do dyrektora regionalnej dyrekcji lub Dyrektora Generalnego Państwowego Gospodarstwa Leśnego Lasy Państwowe.
 
@@ -244,10 +243,23 @@ source: "eli-html"
 - **23)** w art. 39: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Na terenach obwodów łowieckich ochroną zwierzyny oraz ochroną mienia dzierżawców i zarządców, zwalczaniem przestępstw i wykroczeń w zakresie szkodnictwa łowieckiego i szkodnictwa przyrodniczego, popełnianych w obwodach łowieckich polnych i leśnych, zajmują się strażnicy Państwowej Straży Łowieckiej, na zasadach określonych w Kodeksie postępowania karnego i Kodeksie postępowania w sprawach o wykroczenia. ” , w ust. 2: – pkt 3 i 4 otrzymują brzmienie: „ 3) zatrzymywania i dokonywania kontroli środków transportu w obwodach łowieckich oraz w ich bezpośrednim sąsiedztwie, w celu sprawdzenia ich ładunku oraz przeglądania zawartości bagaży, w razie zaistnienia uzasadnionego podejrzenia popełnienia przestępstwa lub wykroczenia, 4) przeszukania osób, pomieszczeń i innych miejsc w przypadkach uzasadnionego podejrzenia o popełnienie przestępstwa lub wykroczenia na zasadach określonych w Kodeksie postępowania karnego, ” , – pkt 6 otrzymuje brzmienie: „ 6) odbierania za pokwitowaniem przedmiotów pochodzących z przestępstwa lub wykroczenia oraz narzędzi i środków służących do ich popełnienia oraz ich zabezpieczenia, ” , – pkt 9 otrzymuje brzmienie: „ 9) dokonywania kontroli podmiotów prowadzących skup, przerób i sprzedaż tusz zwierzyny lub ich części w zakresie sprawdzenia źródeł jej pochodzenia, ” , – po pkt 9 dodaje się pkt 9a i 9b w brzmieniu: „ 9a) dokonywania kontroli podmiotów prowadzących obrót zwierzyną żywą oraz podmiotów prowadzących chów i hodowlę zwierząt łownych w zakresie sprawdzenia źródeł ich pochodzenia, 9b) dokonywania kontroli podmiotów prowadzących sprzedaż usług obejmujących polowania wykonywane przez cudzoziemców na terytorium Rzeczypospolitej Polskiej, ” , – pkt 10 i 11 otrzymują brzmienie: „ 10) noszenia broni palnej bojowej, broni myśliwskiej śrutowej, pałki wielofunkcyjnej i kajdanek oraz pocisków, w tym pocisków niepenetracyjnych, 11) noszenia miotacza gazu obezwładniającego, ” , w ust. 3: – pkt 2 otrzymuje brzmienie: „ 2) chemicznych środków obezwładniających w postaci miotacza gazu obezwładniającego, ” , – po pkt 2 dodaje się pkt 3–5 w brzmieniu: „ 3) pałki wielofunkcyjnej, 4) kajdanek, 5) pocisków niepenetracyjnych. ” ;
+1. Na terenach obwodów łowieckich ochroną zwierzyny oraz ochroną mienia dzierżawców i zarządców, zwalczaniem przestępstw i wykroczeń w zakresie szkodnictwa łowieckiego i szkodnictwa przyrodniczego, popełnianych w obwodach łowieckich polnych i leśnych, zajmują się strażnicy Państwowej Straży Łowieckiej, na zasadach określonych w Kodeksie postępowania karnego i Kodeksie postępowania w sprawach o wykroczenia. ” , w ust. 2: pkt 3 i 4 otrzymują brzmienie: „
 
 - **b)**
-- **c)**
+- **3)** zatrzymywania i dokonywania kontroli środków transportu w obwodach łowieckich oraz w ich bezpośrednim sąsiedztwie, w celu sprawdzenia ich ładunku oraz przeglądania zawartości bagaży, w razie zaistnienia uzasadnionego podejrzenia popełnienia przestępstwa lub wykroczenia,
+- **4)** przeszukania osób, pomieszczeń i innych miejsc w przypadkach uzasadnionego podejrzenia o popełnienie przestępstwa lub wykroczenia na zasadach określonych w Kodeksie postępowania karnego, ” , pkt 6 otrzymuje brzmienie: „
+- **6)** odbierania za pokwitowaniem przedmiotów pochodzących z przestępstwa lub wykroczenia oraz narzędzi i środków służących do ich popełnienia oraz ich zabezpieczenia, ” , pkt 9 otrzymuje brzmienie: „
+- **9)** dokonywania kontroli podmiotów prowadzących skup, przerób i sprzedaż tusz zwierzyny lub ich części w zakresie sprawdzenia źródeł jej pochodzenia, ” , po pkt 9 dodaje się pkt 9a i 9b w brzmieniu: „
+- **9a)** dokonywania kontroli podmiotów prowadzących obrót zwierzyną żywą oraz podmiotów prowadzących chów i hodowlę zwierząt łownych w zakresie sprawdzenia źródeł ich pochodzenia,
+- **9b)** dokonywania kontroli podmiotów prowadzących sprzedaż usług obejmujących polowania wykonywane przez cudzoziemców na terytorium Rzeczypospolitej Polskiej, ” , pkt 10 i 11 otrzymują brzmienie: „
+- **10)** noszenia broni palnej bojowej, broni myśliwskiej śrutowej, pałki wielofunkcyjnej i kajdanek oraz pocisków, w tym pocisków niepenetracyjnych,
+- **11)** noszenia miotacza gazu obezwładniającego, ” , w ust. 3: pkt 2 otrzymuje brzmienie: „
+    - **c)**
+
+- **2)** chemicznych środków obezwładniających w postaci miotacza gazu obezwładniającego, ” , po pkt 2 dodaje się pkt 3–5 w brzmieniu: „
+- **3)** pałki wielofunkcyjnej,
+- **4)** kajdanek,
+- **5)** pocisków niepenetracyjnych. ” ;
 - **24)** w art. 40: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -385,5 +397,5 @@ source: "eli-html"
 
 **Art. 3.** Umowy dzierżawy obwodów łowieckich zawarte przed dniem wejścia w życie ustawy zachowują swą ważność przez okres, na jaki zostały zawarte.
 
-**Art. 4.** Statut Polskiego Związku Łowieckiego oraz statuty kół łowieckich zachowują swą moc do czasu ich zastąpienia przez statut uchwalony w myśl art. 32 ust. 3 ustawy, nie dłużej jednak niż do dnia 31 grudnia 2005 r. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 27 w zakresie art. 42b ust. 2 oraz pkt 31 w zakresie art. 51 ust. 1 pkt 7, które wchodzą w życie z dniem 30 czerwca 2005 r.
+**Art. 4.** Statut Polskiego Związku Łowieckiego oraz statuty kół łowieckich zachowują swą moc do czasu ich zastąpienia przez statut uchwalony w myśl art. 32 ust. 3 ustawy, nie dłużej jednak niż do dnia 31 grudnia 2005 r. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 27 w zakresie art. 42b ust. 2 oraz pkt 31 w zakresie art. 51 ust. 1 pkt 7, które wchodzą w życie z dniem 30 czerwca 2005 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 120, poz. 1268, z 2001 r. Nr 81, poz. 875, Nr 110, poz. 1189 i Nr 115, poz. 1229 oraz z 2004 r. Nr 92, poz. 880.
 

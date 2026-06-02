@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-07-15 |
 | Data wydania | 2014-07-21 |
-| Wejście w życie | 2014-07-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000953) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/953/text.pdf) |
 
@@ -34,5 +33,5 @@ Dokumentem poświadczającym uprawnienie kombatantów oraz innych osób uprawnio
 2.
 Dokumentem poświadczającym uprawnienie członka Korpusu Weteranów Walk o Niepodległość Rzeczypospolitej Polskiej do korzystania na podstawie biletów jednorazowych z ulgi, o której mowa w art. 20 ust. 2 pkt 1 ustawy, jest legitymacja członka Korpusu Weteranów Walk o Niepodległość Rzeczypospolitej Polskiej.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 7 lipca 2003 r. w sprawie rodzajów dokumentów poświadczających uprawnienia kombatantów oraz innych osób do korzystania z ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. Nr 134, poz. 1259), które zgodnie z art. 13 ustawy z dnia 14 marca 2014 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego oraz niektórych innych ustaw (Dz. U. poz. 496) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 7 lipca 2003 r. w sprawie rodzajów dokumentów poświadczających uprawnienia kombatantów oraz innych osób do korzystania z ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. Nr 134, poz. 1259), które zgodnie z art. 13 ustawy z dnia 14 marca 2014 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego oraz niektórych innych ustaw (Dz. U. poz. 496) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

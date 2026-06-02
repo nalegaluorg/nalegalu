@@ -26,23 +26,46 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001773) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1773/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi Rozdział 1 – Przepisy ogólne Rozdział 2 – Praktyki nieuczciwie wykorzystujące przewagę kontraktową Rozdział 3 – Właściwość Prezesa Urzędu Ochrony Konkurencji i Konsumentów Rozdział 4 – Postępowanie przed Prezesem Urzędu Rozdział 5 – Sprawozdawczość Rozdział 6 – Przepisy o karach pieniężnych Rozdział 7 – Zmiany w przepisach obowiązujących Rozdział 8 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi (Dz. U. z 2023 r. poz. 351), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 852) oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 lipca 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 28 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 852), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 28 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 852), który stanowi: „
+Przepisy ogólne
+Praktyki nieuczciwie wykorzystujące przewagę kontraktową
+Właściwość Prezesa Urzędu Ochrony Konkurencji i Konsumentów
+Postępowanie przed Prezesem Urzędu
+Sprawozdawczość
+Przepisy o karach pieniężnych
+Zmiany w przepisach obowiązujących
 Art. 52–55.
 (pominięte)
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Praktyki nieuczciwie wykorzystujące przewagę kontraktową
+
+#### Rozdział 3 – Właściwość Prezesa Urzędu Ochrony Konkurencji i Konsumentów
+
+#### Rozdział 4 – Postępowanie przed Prezesem Urzędu
+
+#### Rozdział 5 – Sprawozdawczość
+
+#### Rozdział 6 – Przepisy o karach pieniężnych
+
+#### Rozdział 7 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 8 – Przepisy przejściowe i końcowe
 
 **Art. 28.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 5, art. 7 i art. 22, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 - **2)** art. 10 oraz art. 23–26, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-- **3)** art. 6, art. 8 i art. 27, które wchodzą w życie z dniem 1 stycznia 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi
+- **3)** art. 6, art. 8 i art. 27, które wchodzą w życie z dniem 1 stycznia 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymiNiniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/633 z dnia 17 kwietnia 2019 r. w sprawie nieuczciwych praktyk handlowych w relacjach między przedsiębiorcami w łańcuchu dostaw produktów rolnych i spożywczych (Dz. Urz. UE L 111 z 25.04.2019, str. 59).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -63,7 +86,7 @@ Art. 52–55.
 
 **Art. 4.** Ochrona przed praktykami nieuczciwie wykorzystującymi przewagę kontraktową w obrocie produktami rolnymi lub spożywczymi, zwanymi dalej „praktykami nieuczciwie wykorzystującymi przewagę kontraktową”, przewidziana w ustawie nie wyłącza ochrony wynikającej z innych ustaw.
 
-#### Rozdział 2 Praktyki nieuczciwie wykorzystujące przewagę kontraktową
+#### Rozdział 2
 
 **Art. 5.** Zakazane są praktyki nieuczciwie wykorzystujące przewagę kontraktową nabywcy względem dostawcy oraz dostawcy względem nabywcy.
 
@@ -94,7 +117,7 @@ Art. 52–55.
 
 5. W przypadku gdy dostawca albo nabywca, o którym mowa w ust. 2 lub 3, powstał w wyniku połączenia lub przekształcenia innych podmiotów, obliczając wysokość jego rocznego obrotu, uwzględnia się obrót osiągnięty przez te podmioty w roku obrotowym poprzedzającym rok obrotowy stosowania praktyki mogącej stanowić przedmiot postępowania w sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową.
 
-6. W przypadku gdy dostawca albo nabywca, o którym mowa w ust. 2 lub 3, działa jako przedsiębiorca prowadzący przedsiębiorstwo w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), obliczając wysokość jego rocznego obrotu, uwzględnia się przepisy tego załącznika dotyczące kategorii i rodzaju przedsiębiorstwa.
+6. W przypadku gdy dostawca albo nabywca, o którym mowa w ust. 2 lub 3, działa jako przedsiębiorca prowadzący przedsiębiorstwo w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 89 z 16.03.2021, str. 1., obliczając wysokość jego rocznego obrotu, uwzględnia się przepisy tego załącznika dotyczące kategorii i rodzaju przedsiębiorstwa.
 
 7. Wielkości, o których mowa w ust. 2 i 3, wyrażone w euro przelicza się na złote według średniego kursu ogłaszanego przez Narodowy Bank Polski w ostatnim dniu roku obrotowego poprzedzającego rok obrotowy stosowania praktyki mogącej stanowić przedmiot postępowania w sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową.
 
@@ -117,7 +140,7 @@ Art. 52–55.
 - **4)** nieuzasadnionym obniżaniu należności z tytułu dostarczenia produktów rolnych lub spożywczych po ich przyjęciu przez nabywcę w całości albo w umówionej części, w szczególności na skutek żądania udzielenia rabatu;
 - **5)** żądaniu przez nabywcę od dostawcy płatności niezwiązanych ze sprzedażą produktów rolnych lub spożywczych dostawcy;
 - **6)** żądaniu przez nabywcę od dostawcy zapłaty za pogorszenie się stanu lub utratę produktów rolnych lub spożywczych, do których doszło w obiektach nabywcy lub po przejściu własności tych produktów na nabywcę z przyczyn niezawinionych przez dostawcę;
-- **7)** odmowie przez nabywcę pisemnego potwierdzenia warunków umowy obowiązujących między nabywcą a dostawcą, o których pisemne potwierdzenie zwrócił się dostawca, chyba że umowa dotyczy produktów rolnych lub spożywczych, które mają być dostarczone przez członka uznanej: grupy producentów rolnych, o której mowa w przepisach ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2023 r. poz. 1145), który sprzedaje produkty rolne lub spożywcze do tej grupy, organizacji producentów owoców i warzyw, o której mowa w przepisach ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2022 r. poz. 2101 oraz z 2023 r. poz. 412, 533 i 588), który sprzedaje owoce lub warzywa do tej organizacji, organizacji producentów, o której mowa w przepisach ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2023 r. poz. 287 i 412), który sprzedaje produkty rolne lub spożywcze do tej organizacji, organizacji producentów, o której mowa w przepisach ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2023 r. poz. 1228), który sprzedaje produkty rolne lub spożywcze do tej organizacji jeżeli akt założycielski tej grupy lub tej organizacji albo umowa między członkiem tej grupy lub tej organizacji a grupą lub organizacją zawiera postanowienia o skutkach podobnych do warunków umowy;
+- **7)** odmowie przez nabywcę pisemnego potwierdzenia warunków umowy obowiązujących między nabywcą a dostawcą, o których pisemne potwierdzenie zwrócił się dostawca, chyba że umowa dotyczy produktów rolnych lub spożywczych, które mają być dostarczone przez członka uznanej: grupy producentów rolnych, o której mowa w przepisach ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2023 r. poz. 1145), który sprzedaje produkty rolne lub spożywcze do tej grupy, organizacji producentów owoców i warzyw, o której mowa w przepisach ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2022 r. poz. 2101 oraz z 2023 r. poz. 412, 533 i 588), który sprzedaje owoce lub warzywa do tej organizacji, organizacji producentów, o której mowa w przepisach ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2023 r. poz. 287 i 412), który sprzedaje produkty rolne lub spożywcze do tej organizacji, organizacji producentów, o której mowa w przepisach ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2023 r. poz. 1228), który sprzedaje produkty rolne lub spożywcze do tej organizacji – jeżeli akt założycielski tej grupy lub tej organizacji albo umowa między członkiem tej grupy lub tej organizacji a grupą lub organizacją zawiera postanowienia o skutkach podobnych do warunków umowy;
     - **a)**
     - **b)**
     - **c)**
@@ -151,12 +174,12 @@ Art. 52–55.
 
 **Art. 10.** Zakaz stosowania praktyk nieuczciwie wykorzystujących przewagę kontraktową, o których mowa w art. 8 ust. 1 pkt 1, nie ma:
 
-- **1)** wpływu na możliwość uzgodnienia przez nabywcę i dostawcę klauzuli dotyczącej podziału wartości w rozumieniu art. 172a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.);
+- **1)** wpływu na możliwość uzgodnienia przez nabywcę i dostawcę klauzuli dotyczącej podziału wartości w rozumieniu art. 172a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 091 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39 oraz Dz. Urz. UE L 437 z 28.12.2000, str. 1.;
 - **2)** zastosowania do płatności uiszczanych przez: nabywcę na rzecz dostawcy w ramach programu dla szkół, o którym mowa w art. 23 rozporządzenia, o którym mowa w pkt 1, podmioty lecznicze, o których mowa w art. 4 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991).
     - **a)**
     - **b)**
 
-#### Rozdział 3 Właściwość Prezesa Urzędu Ochrony Konkurencji i Konsumentów
+#### Rozdział 3
 
 **Art. 11.**
 
@@ -169,7 +192,7 @@ Art. 52–55.
 
 **Art. 12.** Jeżeli Prezes Urzędu uzna, że przemawia za tym interes publiczny, przedstawia sądowi istotny dla sprawy pogląd w sprawach roszczeń cywilnoprawnych związanych ze stosowaniem przez dostawców wobec nabywców lub przez nabywców wobec dostawców praktyk mogących stanowić praktyki nieuczciwie wykorzystujące przewagę kontraktową.
 
-#### Rozdział 4 Postępowanie przed Prezesem Urzędu
+#### Rozdział 4
 
 **Art. 13.**
 
@@ -235,9 +258,7 @@ Art. 52–55.
 
 4. Przedsiębiorca będący osobą fizyczną, do którego zostało skierowane żądanie, o którym mowa w ust. 1, może odmówić przekazania informacji lub dokumentów tylko wtedy, gdy naraziłoby to jego lub jego małżonka, wstępnych, zstępnych, rodzeństwo oraz powinowatych w tej samej linii lub stopniu, jak również osoby pozostające w stosunku przysposobienia, opieki lub kurateli, a także osobę pozostającą we wspólnym pożyciu, na odpowiedzialność karną. Prawo odmowy udzielenia informacji trwa po ustaniu małżeństwa lub rozwiązaniu stosunku przysposobienia, opieki lub kurateli.
 
-**Art. 19.** Prezes Urzędu może zlecić Inspekcji Handlowej przeprowadzenie kontroli lub realizację innych zadań należących do zakresu jego działania w sprawach praktyk nieuczciwie wykorzystujących przewagę kontraktową.
-
-**Art. 20.** W postępowaniu w sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową przepisy art. 51–53, art. 54–61, art. 69, art. 71–73, art. 74, art. 77, art. 78 i art. 80 ustawy o ochronie konkurencji i konsumentów stosuje się odpowiednio.
+**Art. 19.** Prezes Urzędu może zlecić Inspekcji Handlowej przeprowadzenie kontroli lub realizację innych zadań należących do zakresu jego działania w sprawach praktyk nieuczciwie wykorzystujących przewagę kontraktową. Art. 20Ze zmianą wprowadzoną przez art. 11 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 852), która weszła w życie z dniem 20 maja 2023 r.. W postępowaniu w sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową przepisy art. 51–53, art. 54–61, art. 69, art. 71–73, art. 74, art. 77, art. 78 i art. 80 ustawy o ochronie konkurencji i konsumentów stosuje się odpowiednio.
 
 **Art. 21.**
 
@@ -305,7 +326,7 @@ Art. 52–55.
 
 1. W sprawach nieuregulowanych w ustawie do postępowania przed Prezesem Urzędu stosuje się przepisy Kodeksu postępowania administracyjnego.
 
-2. W sprawach dotyczących dowodów w zakresie nieuregulowanym w niniejszym rozdziale do postępowania przed Prezesem Urzędu przepisy art. 227–315 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.) stosuje się odpowiednio.
+2. W sprawach dotyczących dowodów w zakresie nieuregulowanym w niniejszym rozdziale do postępowania przed Prezesem Urzędu przepisy art. 227–315 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535, 556, 614, 739, 803 i 852.) stosuje się odpowiednio.
 
 **Art. 30.** Postępowanie w sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową powinno być zakończone nie później niż w terminie 5 miesięcy od dnia jego wszczęcia.
 
@@ -392,7 +413,7 @@ Art. 52–55.
 
 **Art. 40.** Przepisy niniejszego rozdziału stosuje się odpowiednio w sprawach nakładania kar pieniężnych za naruszenie przepisów ustawy.
 
-#### Rozdział 5 Sprawozdawczość
+#### Rozdział 5
 
 **Art. 41.**
 
@@ -402,7 +423,7 @@ Art. 52–55.
 
 3. Prezes Urzędu, w terminie do dnia 15 marca każdego roku, przekazuje Komisji Europejskiej sprawozdanie dotyczące działań podjętych w celu przeciwdziałania praktykom nieuczciwie wykorzystującym przewagę kontraktową, w tym stosowania i egzekwowania przepisów ustawy w roku poprzednim.
 
-#### Rozdział 6 Przepisy o karach pieniężnych
+#### Rozdział 6
 
 **Art. 42.**
 
@@ -483,15 +504,15 @@ Art. 52–55.
 
 **Art. 51.** Kara pieniężna nie podlega egzekucji, jeżeli upłynęło 5 lat od końca roku, w którym uprawomocniła się decyzja o nałożeniu kary pieniężnej.
 
-#### Rozdział 7 Zmiany w przepisach obowiązujących
+#### Rozdział 7
 
-#### Rozdział 8 Przepisy przejściowe i końcowe
+#### Rozdział 8
 
 **Art. 56.** Do postępowań w sprawach określonych w:
 
-- **1)** art. 297 § 1 pkt 11 lit. b oraz art. 298 pkt 6f ustawy zmienianej w art. 53,
-- **2)** art. 105 ust. 1 pkt 2 lit. r tiret trzecie ustawy zmienianej w art. 54,
-- **3)** art. 15zzzm ustawy zmienianej w art. 55 wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+- **1)** art. 297 § 1 pkt 11 lit. b oraz art. 298 pkt 6f ustawy zmienianej w art. 53Artykuł 53 zawiera zmiany do ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.,
+- **2)** art. 105 ust. 1 pkt 2 lit. r tiret trzecie ustawy zmienianej w art. 54Artykuł 54 zawiera zmiany do ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.,
+- **3)** art. 15zzzm ustawy zmienianej w art. 55Artykuł 55 zawiera zmiany do ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych. – wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
 **Art. 57.** Do postępowań w sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową wszczętych na podstawie ustawy uchylanej w art. 61 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
@@ -507,5 +528,5 @@ Art. 52–55.
 
 **Art. 61.** Traci moc ustawa z dnia 15 grudnia 2016 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi (Dz. U. z 2020 r. poz. 1213).
 
-**Art. 62.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 62.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 8 grudnia 2021 r.. 1) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/633 z dnia 17 kwietnia 2019 r. w sprawie nieuczciwych praktyk handlowych w relacjach między przedsiębiorcami w łańcuchu dostaw produktów rolnych i spożywczych (Dz. Urz. UE L 111 z 25.04.2019, str. 59). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 89 z 16.03.2021, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 091 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39 oraz Dz. Urz. UE L 437 z 28.12.2000, str. 1. 4) Ze zmianą wprowadzoną przez art. 11 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 852), która weszła w życie z dniem 20 maja 2023 r. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535, 556, 614, 739, 803 i 852. 6) Artykuł 53 zawiera zmiany do ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa. 7) Artykuł 54 zawiera zmiany do ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe. 8) Artykuł 55 zawiera zmiany do ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych. 9) Ustawa została ogłoszona w dniu 8 grudnia 2021 r.
 

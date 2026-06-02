@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 26 marca 2019 r. w sprawie statutu Centrum Łukasiewicz
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 26 marca 2019 r. w sprawie statutu Centrum Łukasiewicz Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-26 |
 | Data wydania | 2019-03-29 |
-| Wejście w życie | 2019-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000592) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/592/text.pdf) |
 
@@ -33,8 +32,7 @@ Na podstawie art. 7 ust. 1 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łu
 § 1.
 Centrum Łukasiewicz nadaje się statut, stanowiący załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2019 r.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998).
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2019 r. 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998).
 Załącznik – Statut Centrum Łukasiewicz
 § 1.
 Centrum Łukasiewicz, zwane dalej „Centrum”, działa na podstawie ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. poz. 534), zwanej dalej „ustawą”, oraz niniejszego statutu.

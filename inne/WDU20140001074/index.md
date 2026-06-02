@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 8 sierpnia 2014 r. w sprawie opłat lotniskowych
+# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 8 sierpnia 2014 r. w sprawie opłat lotniskowych Rozporządzenie w zakresie swojej regulacji wdraża przepisy dyrektywy Parlamentu Europejskiego i Rady 2009/12/WE z dnia 11 marca 2009 r. w sprawie opłat lotniskowych (Dz. Urz. UE L 70 z 14.03.2009, str. 11).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-08-08 |
 | Data wydania | 2014-08-12 |
-| Wejście w życie | 2014-08-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001074) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1074/text.pdf) |
 
@@ -238,7 +237,7 @@ Zarządzający lotniskiem użytku publicznego, w ramach konsultacji oraz coroczn
 6.
 Do udziału w spotkaniach, o których mowa w ust. 4 i 5, zarządzający lotniskiem użytku publicznego zaprasza wszystkich użytkowników lotniska.
 7.
-Zarządzający lotniskiem użytku publicznego sporządza sprawozdanie ze spotkania, o którym mowa w ust. 4 lub 5, zawierające w szczególności zgłoszone w trakcie spotkania uwagi wraz z odniesieniem się zarządzającego lotniskiem do tych uwag. W sprawozdaniu nie umieszcza się informacji, które stanowią tajemnicę przedsiębiorstwa, w rozumieniu art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. Nr 153, poz. 1503, z późn. zm.). Kopia sprawozdania jest przekazywana użytkownikom lotniska uczestniczącym w spotkaniu, o którym mowa w ust. 4 lub 5, oraz użytkownikom lotniska, którzy nie brali udziału w tym spotkaniu.
+Zarządzający lotniskiem użytku publicznego sporządza sprawozdanie ze spotkania, o którym mowa w ust. 4 lub 5, zawierające w szczególności zgłoszone w trakcie spotkania uwagi wraz z odniesieniem się zarządzającego lotniskiem do tych uwag. W sprawozdaniu nie umieszcza się informacji, które stanowią tajemnicę przedsiębiorstwa, w rozumieniu art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. Nr 153, poz. 1503, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 162, poz. 1693 i Nr 172, poz. 1804, z 2005 r. Nr 10, poz. 68, z 2007 r. Nr 171, poz. 1206 oraz z 2009 r. Nr 201, poz. 1540.). Kopia sprawozdania jest przekazywana użytkownikom lotniska uczestniczącym w spotkaniu, o którym mowa w ust. 4 lub 5, oraz użytkownikom lotniska, którzy nie brali udziału w tym spotkaniu.
 § 15.
 1.
 Zarządzający lotniskiem użytku publicznego, o którym mowa w art. 77c ust. 1 ustawy, w ramach konsultacji oraz corocznych konsultacji przedstawia informacje na temat podstaw przyjętych do określenia systemu i wysokości wszystkich opłat lotniskowych na danym lotnisku. Informacje te obejmują w szczególności:
@@ -334,6 +333,5 @@ Do wniosków o zatwierdzenie taryfy opłat lotniskowych lub do taryf opłat lotn
 § 21.
 Opłaty lotniskowe na lotniskach użytku publicznego zatwierdzone zgodnie z dotychczasowymi przepisami pobiera się na zasadach dotychczasowych do dnia wejścia w życie nowej taryfy opłat lotniskowych, zatwierdzonej przez Prezesa Urzędu Lotnictwa Cywilnego albo przekazanej do wiadomości Prezesowi Urzędu Lotnictwa Cywilnego zgodnie z art. 77b albo art. 77c ustawy.
 § 22.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-2) Rozporządzenie w zakresie swojej regulacji wdraża przepisy dyrektywy Parlamentu Europejskiego i Rady 2009/12/WE z dnia 11 marca 2009 r. w sprawie opłat lotniskowych (Dz. Urz. UE L 70 z 14.03.2009, str. 11). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 162, poz. 1693 i Nr 172, poz. 1804, z 2005 r. Nr 10, poz. 68, z 2007 r. Nr 171, poz. 1206 oraz z 2009 r. Nr 201, poz. 1540. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 23 stycznia 2013 r. w sprawie opłat lotniskowych (Dz. U. poz. 114), które zgodnie z art. 3 ustawy z dnia 7 grudnia 2012 r. o zmianie ustawy – Prawo lotnicze (Dz. U. z 2013 r. poz. 134) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 23 stycznia 2013 r. w sprawie opłat lotniskowych (Dz. U. poz. 114), które zgodnie z art. 3 ustawy z dnia 7 grudnia 2012 r. o zmianie ustawy – Prawo lotnicze (Dz. U. z 2013 r. poz. 134) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Rozporządzenie w zakresie swojej regulacji wdraża przepisy dyrektywy Parlamentu Europejskiego i Rady 2009/12/WE z dnia 11 marca 2009 r. w sprawie opłat lotniskowych (Dz. Urz. UE L 70 z 14.03.2009, str. 11). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 162, poz. 1693 i Nr 172, poz. 1804, z 2005 r. Nr 10, poz. 68, z 2007 r. Nr 171, poz. 1206 oraz z 2009 r. Nr 201, poz. 1540. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 23 stycznia 2013 r. w sprawie opłat lotniskowych (Dz. U. poz. 114), które zgodnie z art. 3 ustawy z dnia 7 grudnia 2012 r. o zmianie ustawy – Prawo lotnicze (Dz. U. z 2013 r. poz. 134) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

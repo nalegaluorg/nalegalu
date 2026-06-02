@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 19 września 2019 r. w sprawie maksymalnych norm dopuszczalnych ubytków i dopuszczalnych norm zużycia wyrobów akcyzowych
+# Rozporządzenie Ministra Finansówz dnia 19 września 2019 r. w sprawie maksymalnych norm dopuszczalnych ubytków i dopuszczalnych norm zużycia wyrobów akcyzowych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-19 |
 | Data wydania | 2019-09-20 |
-| Wejście w życie | 2019-09-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001791) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1791/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Maksymalne normy dopuszczalnych ubytków alkoholu etylowego
 Treść rozporządzenia
-Na podstawie art. 85 ust. 5 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2019 r. poz. 864, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 85 ust. 5 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2019 r. poz. 864, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1123, 1495, 1501, 1520 i 1556.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -44,8 +43,7 @@ Ustala się maksymalne normy dopuszczalnych ubytków powstających w czasie wyko
 1)
 alkoholu etylowego nieskażonego o objętościowej mocy alkoholu 80% obj. lub większej, alkoholu etylowego i pozostałych wyrobów alkoholowych, o dowolnej mocy, skażonych, objętych pozycją CN 2207, zwanych dalej „alkoholem etylowym”,
 2)
-alkoholu etylowego nieskażonego o objętościowej mocy alkoholu mniejszej niż 80% obj.; wódek, likierów i pozostałych napojów spirytusowych, objętych pozycją CN 2208, zwanych dalej „napojami spirytusowymi”, oraz ich półproduktów
-w wysokości określonej w załączniku do rozporządzenia.
+alkoholu etylowego nieskażonego o objętościowej mocy alkoholu mniejszej niż 80% obj.; wódek, likierów i pozostałych napojów spirytusowych, objętych pozycją CN 2208, zwanych dalej „napojami spirytusowymi”, oraz ich półproduktów – w wysokości określonej w załączniku do rozporządzenia.
 2.
 Ubytki alkoholu etylowego wyraża się w jednostkach objętości alkoholu etylowego „100% vol.”, a w przypadku alkoholu etylowego skażonego, w jednostkach masy.
 § 3.
@@ -65,8 +63,7 @@ win ze świeżych winogron, włącznie z winami wzmocnionymi, moszczu gronowego 
 2)
 wermutu i pozostałych win ze świeżych winogron aromatyzowanych roślinami lub substancjami aromatycznymi, objętych pozycją CN 2205,
 3)
-pozostałych napojów fermentowanych (na przykład cydr (cidr), perry i miód pitny); mieszanek napojów fermentowanych oraz mieszanek napojów fermentowanych i napojów bezalkoholowych, gdzie indziej niewymienionych ani niewłączonych, objętych pozycją CN 2206 00
-zwanych dalej „wyrobami winiarskimi”, powstające w czasie ich przyjęcia do magazynu, magazynowania oraz wydania z magazynu rozlicza się za okresy kwartalne.
+pozostałych napojów fermentowanych (na przykład cydr (cidr), perry i miód pitny); mieszanek napojów fermentowanych oraz mieszanek napojów fermentowanych i napojów bezalkoholowych, gdzie indziej niewymienionych ani niewłączonych, objętych pozycją CN 2206 00 – zwanych dalej „wyrobami winiarskimi”, powstające w czasie ich przyjęcia do magazynu, magazynowania oraz wydania z magazynu rozlicza się za okresy kwartalne.
 2.
 Ubytki wyrobów winiarskich powstające w czasie ich przemieszczania rozlicza się oddzielnie dla każdej przesyłki.
 3.
@@ -85,8 +82,7 @@ niewymienionych w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku
 5)
 określonych w załączniku nr 2 do ustawy, opodatkowanych zerową stawką podatku akcyzowego ze względu na ich przeznaczenie,
 6)
-monoalkilowych estrów kwasów tłuszczowych, zawierających 96,5% lub więcej masy estrów (FAMAE) oznaczonych kodem CN 3826 00 10
-powstające w czasie ich przyjęcia do magazynu, magazynowania, przeładunku w składzie podatkowym oraz wydania z magazynu rozlicza się narastająco za okresy roczne.
+monoalkilowych estrów kwasów tłuszczowych, zawierających 96,5% lub więcej masy estrów (FAMAE) oznaczonych kodem CN 3826 00 10 – powstające w czasie ich przyjęcia do magazynu, magazynowania, przeładunku w składzie podatkowym oraz wydania z magazynu rozlicza się narastająco za okresy roczne.
 2.
 Ubytki wyrobów akcyzowych, o których mowa w ust. 1 pkt 1–3, zwanych dalej „paliwami ciekłymi”, powstające w czasie ich przemieszczania rurociągiem przesyłowym dalekosiężnym rozlicza się narastająco za okresy roczne, łącznie dla wszystkich wysłanych w tym okresie paliw ciekłych, uwzględniając sumę stwierdzonych nadwyżek, bez względu na odbiorcę i rodzaj paliwa ciekłego.
 § 6.
@@ -118,8 +114,7 @@ W przypadku rozpoczęcia przez podatnika działalności gospodarczej w zakresie 
 § 11.
 Do rozliczenia ubytków wyrobów akcyzowych, których okres rozliczeniowy rozpoczął się i nie zakończył przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 12.
-Rozporządzenie wchodzi w życie z dniem 20 września 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1123, 1495, 1501, 1520 i 1556. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 11 grudnia 2015 r. w sprawie maksymalnych norm dopuszczalnych ubytków i dopuszczalnych norm zużycia wyrobów akcyzowych (Dz. U. z 2018 r. poz. 445), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 ust. 1 ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o podatku akcyzowym oraz ustawy – Prawo celne (Dz. U. poz. 1697 i 2511 oraz z 2019 r. poz. 1520).
+Rozporządzenie wchodzi w życie z dniem 20 września 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 11 grudnia 2015 r. w sprawie maksymalnych norm dopuszczalnych ubytków i dopuszczalnych norm zużycia wyrobów akcyzowych (Dz. U. z 2018 r. poz. 445), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 ust. 1 ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o podatku akcyzowym oraz ustawy – Prawo celne (Dz. U. poz. 1697 i 2511 oraz z 2019 r. poz. 1520). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1123, 1495, 1501, 1520 i 1556. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 11 grudnia 2015 r. w sprawie maksymalnych norm dopuszczalnych ubytków i dopuszczalnych norm zużycia wyrobów akcyzowych (Dz. U. z 2018 r. poz. 445), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 ust. 1 ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o podatku akcyzowym oraz ustawy – Prawo celne (Dz. U. poz. 1697 i 2511 oraz z 2019 r. poz. 1520).
 Załącznik – Maksymalne normy dopuszczalnych ubytków alkoholu etylowego
 I.
 1.
@@ -176,7 +171,12 @@ dla likieru jajecznego (advocaat, avocat lub advokat) i likieru z dodatkiem prze
 12)
 dla spirytusu butelkowanego 2,0%.
 2.
-Dopuszczalne ubytki alkoholu etylowego, o których mowa w ust. 1, obejmują straty powstałe w cyklu produkcyjnym, niezależnie od ilości oddziałów produkcyjnych i ich lokalizacji, z wyłączeniem ubytków powstałych w czasie magazynowania (leżakowania) i wydawania półproduktów oraz maderyzacji alkoholu etylowego surowego. Poz. Napoje spirytusowe Sporządzeniezestawuw% Rozlaniezestawuw% 1 wódki, z wyłączeniem wymienionych w poz. 2 0,5 1,2 2 wódki smakowe i ziołowe 1,0 1,3 3 okowity (wódki naturalne) zbożowe 1,0 1,3 4 okowity (wódki naturalne) pozostałe 1,0 1,6 5 brandy (weinbrand), brandy zbożowa, rum i whisky (whiskey) 1,0 1,6 6 napoje spirytusowe jałowcowe, kminkowe, anyżowe i gorzkie (bitter) 1,0 1,6 7 napoje spirytusowe owocowe 1,5 1,8 8 likiery, z wyłączeniem wymienionych w poz. 10 i 11 1,8 1,8 9 kremy 1,75 2,55 10 likiery z dodatkiem jajka 2,0 2,8 11 likier jajeczny (advocaat, avocad lub advokat) i likier z dodatkiem przetworów mlecznych 2,5 3,3 12 spirytus butelkowany 0,5 1,5
+Dopuszczalne ubytki alkoholu etylowego, o których mowa w ust. 1, obejmują straty powstałe w cyklu produkcyjnym, niezależnie od ilości oddziałów produkcyjnych i ich lokalizacji, z wyłączeniem ubytków powstałych w czasie magazynowania (leżakowania) i wydawania półproduktów oraz maderyzacji alkoholu etylowego surowego.
+Poz. Napoje spirytusowe Sporządzenie
+zestawu
+w% Rozlanie
+zestawu
+w% 1 wódki, z wyłączeniem wymienionych w poz. 2 0,5 1,2 2 wódki smakowe i ziołowe 1,0 1,3 3 okowity (wódki naturalne) zbożowe 1,0 1,3 4 okowity (wódki naturalne) pozostałe 1,0 1,6 5 brandy (weinbrand), brandy zbożowa, rum i whisky (whiskey) 1,0 1,6 6 napoje spirytusowe jałowcowe, kminkowe, anyżowe i gorzkie (bitter) 1,0 1,6 7 napoje spirytusowe owocowe 1,5 1,8 8 likiery, z wyłączeniem wymienionych w poz. 10 i 11 1,8 1,8 9 kremy 1,75 2,55 10 likiery z dodatkiem jajka 2,0 2,8 11 likier jajeczny (advocaat, avocad lub advokat) i likier z dodatkiem przetworów mlecznych 2,5 3,3 12 spirytus butelkowany 0,5 1,5
 3.
 Do ubytków alkoholu etylowego w cyklu produkcyjnym zalicza się również:
 1)

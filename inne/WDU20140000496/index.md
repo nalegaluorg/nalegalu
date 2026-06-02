@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 marca 2014 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego oraz niektórych innych ustaw
+# Ustawa z dnia 14 marca 2014 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych, ustawę z dnia 31 maja 1996 r. o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 24 lipca 1999 r. o szczególnych zasadach, warunkach i trybie mianowania na wyższe stopnie wojskowe żołnierzy uczestniczących w walkach o wolność i niepodległość Polski podczas II wojny światowej i w okresie powojennym, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawę z dnia 7 maja 2009 r. o zadośćuczynieniu rodzinom ofiar zbiorowych wystąpień wolnościowych w latach 1956–1989.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-03-14 |
 | Data wydania | 2014-04-17 |
-| Wejście w życie | 2014-05-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000496) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/496/text.pdf) |
 
+Baza danych osób uprawnionych
 1.
 W celu zapewnienia możliwości weryfikacji udzielania świadczeń opieki zdrowotnej Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych prowadzi, w formie elektronicznej, bazę danych osób mających uprawnienia z tytułów określonych w art. 1–4, zwaną dalej „bazą danych osób uprawnionych”, zawierającą informacje posiadane przez Szefa Urzędu, w tym informacje udostępniane przez podmioty określone w ust. 3.
 2.
@@ -49,32 +49,25 @@ Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych aktualizuje bazę da
 2.
 Podczas aktualizowania bazy danych osób uprawnionych Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych usuwa z bazy danych informacje o danej osobie uprawnionej w razie zgonu tej osoby lub wydania decyzji o pozbawieniu jej uprawnień określonych w ustawie.
 3.
-W celu uzyskania informacji o zgonach Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych korzysta ze zbioru danych osobowych PESEL, na zasadach określonych w przepisach ustawy z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.).
-” ;
+W celu uzyskania informacji o zgonach Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych korzysta ze zbioru danych osobowych PESEL, na zasadach określonych w przepisach ustawy z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056, Nr 195, poz. 1198 i Nr 220, poz. 1414, z 2009 r. Nr 22, poz. 120, Nr 39, poz. 306, Nr 69, poz. 595 i Nr 223, poz. 1777, z 2010 r. Nr 239, poz. 1593, z 2011 r. Nr 204, poz. 1195, z 2012 r. poz. 161, 921 i 1407 oraz z 2013 r. poz. 1650.). ” ;
 23)
 w art. 25:
 a)
-ust. 4 i 5 otrzymują brzmienie:
-„
+ust. 4 i 5 otrzymują brzmienie: „
 4.
 Decyzje administracyjne w sprawie pozbawienia uprawnień kombatanckich podejmuje Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych.
 5.
-Decyzje, o których mowa w ust. 4, są wydawane, w tym w wyniku weryfikacji, z urzędu lub na wniosek stowarzyszeń kombatanckich, Ministra Sprawiedliwości, Ministra Obrony Narodowej albo ministra właściwego do spraw wewnętrznych.
-” ,
+Decyzje, o których mowa w ust. 4, są wydawane, w tym w wyniku weryfikacji, z urzędu lub na wniosek stowarzyszeń kombatanckich, Ministra Sprawiedliwości, Ministra Obrony Narodowej albo ministra właściwego do spraw wewnętrznych. ” ,
 b)
 uchyla się ust. 6,
 c)
-dodaje się ust. 7 w brzmieniu:
-„
+dodaje się ust. 7 w brzmieniu: „
 7.
-Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych zawiadamia niezwłocznie właściwy organ emerytalny lub rentowy albo właściwą jednostkę wypłacającą uposażenie w stanie spoczynku lub uposażenie rodzinne o pozbawieniu danej osoby uprawnień kombatanckich.
-” ;
+Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych zawiadamia niezwłocznie właściwy organ emerytalny lub rentowy albo właściwą jednostkę wypłacającą uposażenie w stanie spoczynku lub uposażenie rodzinne o pozbawieniu danej osoby uprawnień kombatanckich. ” ;
 24)
-w art. 30 ust. 2 otrzymuje brzmienie:
-„
+w art. 30 ust. 2 otrzymuje brzmienie: „
 2.
-Przepis ust. 1 nie narusza uprawnień ministra właściwego do spraw zagranicznych do przedstawiania wniosków o nadanie tych odznaczeń.
-” .
+Przepis ust. 1 nie narusza uprawnień ministra właściwego do spraw zagranicznych do przedstawiania wniosków o nadanie tych odznaczeń. ” .
 
 **Art. 1.** W ustawie z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2012 r. poz. 400) wprowadza się następujące zmiany:
 
@@ -124,7 +117,7 @@ Przepis ust. 1 nie narusza uprawnień ministra właściwego do spraw zagraniczny
 
 - **1)** miejsca odosobnienia, w których warunki pobytu nie różniły się od warunków w obozach koncentracyjnych i w których osadzone osoby pozostawały w dyspozycji hitlerowskich władz bezpieczeństwa,
 - **2)** więzienia i obozy NKWD lub więzienia i obozy będące pod nadzorem NKWD, w których były osadzone osoby narodowości polskiej lub obywatele polscy innych narodowości,
-- **3)** obozy, o których mowa w art. 3 pkt 2 i art. 4 ust. 1 pkt 1 lit. b i c oraz pkt 3 mając na względzie ustalenia historyczne oraz konieczność zapewnienia sprawnej i rzetelnej identyfikacji osób, które przebywały w tych miejscach odosobnienia, więzieniach i obozach. ” ;
+- **3)** obozy, o których mowa w art. 3 pkt 2 i art. 4 ust. 1 pkt 1 lit. b i c oraz pkt 3 – mając na względzie ustalenia historyczne oraz konieczność zapewnienia sprawnej i rzetelnej identyfikacji osób, które przebywały w tych miejscach odosobnienia, więzieniach i obozach. ” ;
 - **7)** w art. 9: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -219,12 +212,18 @@ Przepis ust. 1 nie narusza uprawnień ministra właściwego do spraw zagraniczny
 
 2. Wniosek o przyznanie pomocy pieniężnej składa się w ośrodku pomocy społecznej właściwym ze względu na miejsce zamieszkania osób, o których mowa w art. 19 ust. 1 i 4. W przypadkach osób pobierających rentę inwalidy wojennego wniosek składa się w Związku Inwalidów Wojennych RP. W szczególnie uzasadnionych przypadkach kombatantom i innym osobom uprawnionym, a także pozostałym po nich wdowom lub wdowcom – emerytom, rencistom, inwalidom, osobom pobierającym uposażenie w stanie spoczynku lub uposażenie rodzinne, na ich wniosek, Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych może przyznać pomoc pieniężną na innych warunkach, niż określone w art. 19a ust. 1–3.
 
-1. Do spraw związanych z przyznawaniem pomocy pieniężnej przez gminę stosuje się odpowiednio przepisy art. 6 pkt 3, 10, 14 i 16, art. 8 ust. 3–6 i ust. 9–13, art. 11 ust. 1, art. 12 i art. 13, art. 100, art. 101 ust. 2, 3, 6 i 7, art. 104 i art. 105, art. 106 ust. 1 i 3–6, art. 106a, art. 107, art. 109 i art. 110 ust. 7 i 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm.).
+1. Do spraw związanych z przyznawaniem pomocy pieniężnej przez gminę stosuje się odpowiednio przepisy art. 6 pkt 3, 10, 14 i 16, art. 8 ust. 3–6 i ust. 9–13, art. 11 ust. 1, art. 12 i art. 13, art. 100, art. 101 ust. 2, 3, 6 i 7, art. 104 i art. 105, art. 106 ust. 1 i 3–6, art. 106a, art. 107, art. 109 i art. 110 ust. 7 i 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 509 i 1650. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2012 r. poz. 1544 i 1548.).
 
 2. Do postępowania w sprawie przyznania pomocy pieniężnej przez Związek Inwalidów Wojennych RP lub Szefa Urzędu do Spraw Kombatantów i Osób Represjonowanych, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267 oraz z 2014 r. poz. 183). Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, dokumenty, które należy dołączyć do wniosku o przyznanie pomocy pieniężnej, mając na względzie konieczność zapewnienia sprawności postępowania przy jej przyznawaniu. ” ;
 
-- **15)** w art. 20: w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) ulga w wysokości 51% na przejazdy w komunikacji krajowej środkami publicznego transportu zbiorowego: a) kolejowego w 1 i 2 klasie pociągów osobowych i pospiesznych oraz autobusowego w komunikacji zwykłej i przyspieszonej – na podstawie biletów jednorazowych, b) kolejowego w 2 klasie pociągów innych niż osobowe i pospieszne – na podstawie biletów jednorazowych; ” , – pkt 3 otrzymuje brzmienie: „ 3) ryczałt energetyczny w wysokości 165,71 zł miesięcznie; ” , po ust. 3b dodaje się ust. 3c-3g w brzmieniu: „
+- **15)** w art. 20: w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** ulga w wysokości 51% na przejazdy w komunikacji krajowej środkami publicznego transportu zbiorowego: kolejowego w 1 i 2 klasie pociągów osobowych i pospiesznych oraz autobusowego w komunikacji zwykłej i przyspieszonej – na podstawie biletów jednorazowych, kolejowego w 2 klasie pociągów innych niż osobowe i pospieszne – na podstawie biletów jednorazowych; ” , pkt 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **3)** ryczałt energetyczny w wysokości 165,71 zł miesięcznie; ” , po ust. 3b dodaje się ust. 3c-3g w brzmieniu: „
     - **b)**
 
 3c. Ryczałt energetyczny, o którym mowa w ust. 2 pkt 3, podlega corocznie waloryzacji od dnia waloryzacji emerytur i rent.
@@ -275,11 +274,11 @@ Przepis ust. 1 nie narusza uprawnień ministra właściwego do spraw zagraniczny
 
 - **22)** po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „
 
-#### Rozdział 6a Baza danych osób uprawnionych
+#### Rozdział 6a
 
-**Art. 2.** W ustawie z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych (Dz. U. z 2001 r. Nr 60, poz. 622, z późn. zm.) w art. 2a ust. 1 otrzymuje brzmienie: „ 1. Osobom, o których mowa w art. 1 ust. 1, przysługuje ryczałt energetyczny określony w przepisach o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego. ” .
+**Art. 2.** W ustawie z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych (Dz. U. z 2001 r. Nr 60, poz. 622, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 89, poz. 968 i Nr 154, poz. 1788, z 2004 r. Nr 121, poz. 1264 oraz z 2005 r. Nr 85, poz. 725.) w art. 2a ust. 1 otrzymuje brzmienie: „ 1. Osobom, o których mowa w art. 1 ust. 1, przysługuje ryczałt energetyczny określony w przepisach o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego. ” .
 
-**Art. 3.** W ustawie z dnia 31 maja 1996 r. o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich (Dz. U. Nr 87, poz. 395, z późn. zm.) w art. 4 ust. 1 i 2 otrzymują brzmienie: „ 1. Uprawnienie do świadczenia jest przyznawane decyzją Szefa Urzędu do Spraw Kombatantów i Osób Represjonowanych na podstawie wniosku zainteresowanej osoby, zaopiniowanego przez właściwe stowarzyszenie osób poszkodowanych, i dokumentów oraz dowodów potwierdzających rodzaj i okres represji. 2. Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych może upoważnić inne osoby będące pracownikami Urzędu do Spraw Kombatantów i Osób Represjonowanych do wydawania decyzji, o których mowa w ust. 1. ” .
+**Art. 3.** W ustawie z dnia 31 maja 1996 r. o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich (Dz. U. Nr 87, poz. 395, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 162, poz. 1118, z 1999 r. Nr 28, poz. 257, z 2001 r. Nr 154, poz. 1788, z 2003 r. Nr 110, poz. 1060, z 2005 r. Nr 85, poz. 725, z 2009 r. Nr 219, poz. 1709 i Nr 220, poz. 1734 oraz z 2011 r. Nr 72, poz. 380.) w art. 4 ust. 1 i 2 otrzymują brzmienie: „ 1. Uprawnienie do świadczenia jest przyznawane decyzją Szefa Urzędu do Spraw Kombatantów i Osób Represjonowanych na podstawie wniosku zainteresowanej osoby, zaopiniowanego przez właściwe stowarzyszenie osób poszkodowanych, i dokumentów oraz dowodów potwierdzających rodzaj i okres represji. 2. Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych może upoważnić inne osoby będące pracownikami Urzędu do Spraw Kombatantów i Osób Represjonowanych do wydawania decyzji, o których mowa w ust. 1. ” .
 
 **Art. 4.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2013 r. poz. 743 i 984) w art. 31 ust. 3 otrzymuje brzmienie: „ 3. Ministrowi właściwemu do spraw zabezpieczenia społecznego podlega Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych. ” .
 
@@ -303,7 +302,7 @@ Przepis ust. 1 nie narusza uprawnień ministra właściwego do spraw zagraniczny
 
 7. Adnotacje Szefa Urzędu do Spraw Kombatantów i Osób Represjonowanych Data................... pieczęć podpis Szefa Urzędu do Spraw Kombatantów i Osób Represjonowanych ” .
 
-**Art. 7.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548, z 2013 r. poz. 154, 879, 983, 1290, 1623, 1646 i 1650 oraz z 2014 r. poz. 24 i 295.) wprowadza się następujące zmiany:
 
 - **1)** art. 47c otrzymuje brzmienie: „
 
@@ -378,6 +377,6 @@ Przepis ust. 1 nie narusza uprawnień ministra właściwego do spraw zagraniczny
 **Art. 14.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 21 w zakresie dotyczącym:
 
 - **1)** art. 24a ust. 1 i 2 ustawy, o której mowa w art. 1, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia;
-- **2)** art. 24a ust. 3 ustawy, o której mowa w art. 1, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
+- **2)** art. 24a ust. 3 ustawy, o której mowa w art. 1, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych, ustawę z dnia 31 maja 1996 r. o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 24 lipca 1999 r. o szczególnych zasadach, warunkach i trybie mianowania na wyższe stopnie wojskowe żołnierzy uczestniczących w walkach o wolność i niepodległość Polski podczas II wojny światowej i w okresie powojennym, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawę z dnia 7 maja 2009 r. o zadośćuczynieniu rodzinom ofiar zbiorowych wystąpień wolnościowych w latach 1956–1989. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 509 i 1650. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2012 r. poz. 1544 i 1548. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056, Nr 195, poz. 1198 i Nr 220, poz. 1414, z 2009 r. Nr 22, poz. 120, Nr 39, poz. 306, Nr 69, poz. 595 i Nr 223, poz. 1777, z 2010 r. Nr 239, poz. 1593, z 2011 r. Nr 204, poz. 1195, z 2012 r. poz. 161, 921 i 1407 oraz z 2013 r. poz. 1650. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 89, poz. 968 i Nr 154, poz. 1788, z 2004 r. Nr 121, poz. 1264 oraz z 2005 r. Nr 85, poz. 725. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 162, poz. 1118, z 1999 r. Nr 28, poz. 257, z 2001 r. Nr 154, poz. 1788, z 2003 r. Nr 110, poz. 1060, z 2005 r. Nr 85, poz. 725, z 2009 r. Nr 219, poz. 1709 i Nr 220, poz. 1734 oraz z 2011 r. Nr 72, poz. 380. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548, z 2013 r. poz. 154, 879, 983, 1290, 1623, 1646 i 1650 oraz z 2014 r. poz. 24 i 295.
 
 

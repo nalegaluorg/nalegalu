@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 2 maja 2024 r. w sprawie sposobu wyznaczania obszaru uzupełnienia zabudowy w planie ogólnym gminy
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 2 maja 2024 r. w sprawie sposobu wyznaczania obszaru uzupełnienia zabudowy w planie ogólnym gminy Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 2721).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-02 |
 | Data wydania | 2024-05-15 |
-| Wejście w życie | 2024-05-16 |
 | Ostatnia zmiana | 2024-05-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000729) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/729/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 13m ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 13m ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1506, 1597, 1688, 1890, 2029 i 2739.) zarządza się, co następuje:
 § 1.
 1.
 W celu wyznaczenia granic obszarów uzupełnienia zabudowy w planie ogólnym gminy:
@@ -72,6 +71,5 @@ Dopuszcza się rozszerzenie granic obszarów uzupełnienia zabudowy wyznaczonych
 6.
 Na użytkach rolnych klas I-III poza granicami administracyjnymi miast rozszerzenie granic, o którym mowa w ust. 5, jest dopuszczalne wyłącznie na obszarach wyznaczonych w wyniku wykonania czynności, o których mowa w ust. 1 pkt 1–3, położonych w odległości nie większej niż 50 m od granicy pasa drogowego drogi publicznej w rozumieniu przepisów ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2024 r. poz. 320), z wyłączeniem dróg ekspresowych i autostrad.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 2721). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1506, 1597, 1688, 1890, 2029 i 2739.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 2721). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1506, 1597, 1688, 1890, 2029 i 2739.
 

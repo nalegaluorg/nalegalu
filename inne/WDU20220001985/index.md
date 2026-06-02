@@ -33,13 +33,11 @@ Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og�
 1)
 ustawą z dnia 19 listopada 2020 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2021 (Dz. U. poz. 2400 oraz z 2021 r. poz. 1901),
 2)
-ustawą z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 1 września 2022 r.
+ustawą z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) oraz zmian wynikających z przepisów ogłoszonych przed dniem 1 września 2022 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 91 ustawy z dnia 19 listopada 2020 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2021 (Dz. U. poz. 2400 oraz z 2021 r. poz. 1901), który stanowi:
-„
+art. 91 ustawy z dnia 19 listopada 2020 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2021 (Dz. U. poz. 2400 oraz z 2021 r. poz. 1901), który stanowi: „
 
 **Art. 91.** Ustawa wchodzi w życie z dniem 1 stycznia 2021 r. ” ;
 
@@ -84,11 +82,7 @@ art. 91 ustawy z dnia 19 listopada 2020 r. o szczególnych rozwiązaniach służ
 
 3. W przypadku, o którym mowa w ust. 1, określenie zadań Agencji następuje w umowie. Art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, 1692, 1725, 1747 i 1768) stosuje się odpowiednio.
 
-**Art. 5.**
-
-1. W zakresie promocji polskiej gospodarki Agencja może udzielać pomocy finansowej związanej z programami finansowanymi z budżetu Unii Europejskiej, o których mowa w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) oraz w ustawie z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079), oraz innymi programami finansowanymi ze źródeł zagranicznych niepodlegających zwrotowi, do której zastosowanie znajdą szczegółowe warunki i tryb właściwe dla udzielania tej pomocy.
-
-2. W zakresie promocji polskiej gospodarki Agencja może także udzielać pomocy finansowej spełniającej przesłanki pomocy de minimis , dotyczącej promocji eksportu polskich przedsiębiorców, do której zastosowanie znajdą szczegółowe warunki i tryb właściwe dla udzielania tej pomocy.
+**Art. 5.** 1W brzmieniu ustalonym przez art. 121 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079), która weszła w życie z dniem 4 czerwca 2022 r.. W zakresie promocji polskiej gospodarki Agencja może udzielać pomocy finansowej związanej z programami finansowanymi z budżetu Unii Europejskiej, o których mowa w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) oraz w ustawie z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079), oraz innymi programami finansowanymi ze źródeł zagranicznych niepodlegających zwrotowi, do której zastosowanie znajdą szczegółowe warunki i tryb właściwe dla udzielania tej pomocy. 2. W zakresie promocji polskiej gospodarki Agencja może także udzielać pomocy finansowej spełniającej przesłanki pomocy de minimis , dotyczącej promocji eksportu polskich przedsiębiorców, do której zastosowanie znajdą szczegółowe warunki i tryb właściwe dla udzielania tej pomocy.
 
 **Art. 6.**
 
@@ -134,13 +128,12 @@ art. 91 ustawy z dnia 19 listopada 2020 r. o szczególnych rozwiązaniach służ
 
 **Art. 12.**
 
-1. W latach 2017–2026 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy wynosi 435 000 000 zł, w tym w:
+1. W latach 2017–2026 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy wynosi 435 000 000 zł, w tym w:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 88a pkt 1 lit. a ustawy z dnia 19 listopada 2020 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2021 (Dz. U. poz. 2400 oraz z 2021 r. poz. 1901), na podstawie art. 1 pkt 21 ustawy z dnia 14 października 2021 r. o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2021 oraz ustawy o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1901), która weszła w życie z dniem 22 października 2021 r.
 
 - **1)** 2017 r. – 135 000 000 zł;
 - **2)** 2018 r. – 0 zł;
 - **3)** 2019 r. – 0 zł;
-- **4)** 2020 r. – 0 zł;
-- **5)** 2021 r. – 300 000 000 zł;
+- **4)** 2020 r. – 0 zł; 5W brzmieniu ustalonym przez art. 88a pkt 1 lit. b ustawy wymienionej jako pierwsza w odnośniku 2, na podstawie art. 1 pkt 21 ustawy wymienionej jako druga w odnośniku 2.) 2021 r. – 300 000 000 zł;
 - **6)** 2022 r. – 0 zł;
 - **7)** 2023 r. – 0 zł;
 - **8)** 2024 r. – 0 zł;
@@ -151,5 +144,5 @@ art. 91 ustawy z dnia 19 listopada 2020 r. o szczególnych rozwiązaniach służ
 
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, oraz wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest minister właściwy do spraw gospodarki. W roku 2017 minister właściwy do spraw gospodarki przeznaczy środki w wysokości 100 000 tys. zł na zakup i objęcie akcji w podwyższonym kapitale zakładowym Agencji, w związku z realizacją zadań wynikających z ustawy. W roku 2021 minister właściwy do spraw gospodarki przeznaczy środki w wysokości 300 000 tys. zł na zakup i objęcie akcji w podwyższonym kapitale zakładowym Agencji, w związku z realizacją zadań wynikających z ustawy.
 
-**Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 3 sierpnia 2017 r.. 1) W brzmieniu ustalonym przez art. 121 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079), która weszła w życie z dniem 4 czerwca 2022 r. 2) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 88a pkt 1 lit. a ustawy z dnia 19 listopada 2020 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2021 (Dz. U. poz. 2400 oraz z 2021 r. poz. 1901), na podstawie art. 1 pkt 21 ustawy z dnia 14 października 2021 r. o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2021 oraz ustawy o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1901), która weszła w życie z dniem 22 października 2021 r. 3) W brzmieniu ustalonym przez art. 88a pkt 1 lit. b ustawy wymienionej jako pierwsza w odnośniku 2, na podstawie art. 1 pkt 21 ustawy wymienionej jako druga w odnośniku 2. 4) Dodany przez art. 88a pkt 2 ustawy wymienionej jako pierwsza w odnośniku 2, na podstawie art. 1 pkt 21 ustawy wymienionej jako druga w odnośniku 2. 5) Ustawa została ogłoszona w dniu 3 sierpnia 2017 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 21 lutego 2019 r. zmieniające rozporządzenie w sprawie opiniowania służbowego policjantów
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 21 lutego 2019 r. zmieniające rozporządzenie w sprawie opiniowania służbowego policjantów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-21 |
 | Data wydania | 2019-03-07 |
-| Wejście w życie | 2019-04-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000441) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/441/text.pdf) |
 
@@ -31,36 +30,27 @@ Na podstawie art. 35 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 sierpnia 2010 r. w sprawie opiniowania służbowego policjantów (Dz. U. z 2013 r. poz. 883, z 2014 r. poz. 1231 oraz z 2018 r. poz. 215) wprowadza się następujące zmiany:
 1)
-w § 3 w ust. 5 po pkt 3 dodaje się pkt 3a-3c w brzmieniu:
-„
+w § 3 w ust. 5 po pkt 3 dodaje się pkt 3a-3c w brzmieniu: „
 3a)
 urlopu na warunkach urlopu macierzyńskiego;
 3b)
 urlopu rodzicielskiego;
 3c)
-urlopu ojcowskiego;
-” ;
+urlopu ojcowskiego; ” ;
 2)
 w § 5:
 a)
-w pkt 2 w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu:
-„
+w pkt 2 w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „
 g)
-dowódcy Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”;
-” ,
+dowódcy Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”; ” ,
 b)
-po pkt 3 dodaje się pkt 3a w brzmieniu:
-„
+po pkt 3 dodaje się pkt 3a w brzmieniu: „
 3a)
-dowódca Centralnego Pododdziału Kontrterrorystycznego Policji „BOA” w stosunku do podległych mu policjantów;
-” ;
+dowódca Centralnego Pododdziału Kontrterrorystycznego Policji „BOA” w stosunku do podległych mu policjantów; ” ;
 3)
-w § 7 w ust. 2 w pkt 2 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu:
-„
+w § 7 w ust. 2 w pkt 2 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „
 f)
-dowódcę Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”;
-” .
+dowódcę Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”; ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 5 kwietnia 2019 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
+Rozporządzenie wchodzi w życie z dniem 5 kwietnia 2019 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 

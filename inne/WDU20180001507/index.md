@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 czerwca 2018 r. o zmianie ustawy – Prawo łowieckie oraz niektórych innych ustaw
+# Ustawa z dnia 15 czerwca 2018 r. o zmianie ustawy – Prawo łowieckie oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 28 września 1991 r. o lasach oraz ustawę z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-15 |
 | Data wydania | 2018-08-08 |
-| Wejście w życie | 2018-08-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001507) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1507/text.pdf) |
 
@@ -93,5 +92,5 @@ source: "eli-html"
 
 **Art. 4.** Do spraw z zakresu szkód wyrządzonych w uprawach i płodach rolnych przez dziki, łosie, jelenie, daniele i sarny oraz przy wykonywaniu polowania wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawę z dnia 28 września 1991 r. o lasach oraz ustawę z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego.
 

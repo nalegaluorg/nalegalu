@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 maja 2021 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
+# Ustawa z dnia 20 maja 2021 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady (UE) 2017/2455 z dnia 5 grudnia 2017 r. zmieniającej dyrektywę 2006/112/WE i dyrektywę 2009/132/WE w odniesieniu do niektórych obowiązków wynikających z podatku od wartości dodanej w przypadku świadczenia usług i sprzedaży towarów na odległość (Dz. Urz. UE L 348 z 29.12.2017, str. 7 oraz Dz. Urz. UE L 244 z 20.07.2020, str. 3) oraz dyrektywy Rady (UE) 2019/1995 z dnia 21 listopada 2019 r. zmieniającej dyrektywę 2006/112/WE w odniesieniu do przepisów dotyczących sprzedaży towarów na odległość oraz niektórych krajowych dostaw towarów (Dz. Urz. UE L 310 z 02.12.2019, str. 1 oraz Dz. Urz. UE L 244 z 20.07.2020, str. 3).
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-20 |
 | Data wydania | 2021-06-28 |
-| Wejście w życie | 2021-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001163) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1163/text.pdf) |
 
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 19 marca 2004 r. – Prawo celne, ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 18 listopada 2020 r. o doręczeniach elektronicznych oraz ustawę z dnia 30 marca 2021 r. o zmianie ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu oraz niektórych innych ustaw.
+Zawiadomienie o miejscu opodatkowania
+Szczególna procedura dotycząca sprzedaży na odległość towarów importowanych
+Szczególna procedura dotycząca deklarowania i zapłaty podatku z tytułu importu towarów
 1.
 W przypadku importu towarów, z wyjątkiem towarów podlegających opodatkowaniu podatkiem akcyzowym, będących przedmiotem sprzedaży na odległość towarów importowanych umieszczonych w przesyłkach o wartości rzeczywistej nieprzekraczającej wyrażonej w złotych kwoty odpowiadającej równowartości 150 euro, których wysyłka lub transport kończy się na terytorium kraju, osoba zgłaszająca towary organom celnym na terytorium kraju w imieniu własnym i na rzecz osoby, dla której towary są przeznaczone, zwana dalej „osobą odpowiedzialną za pobór podatku”, może wykazywać podatek pobrany z tytułu importu towarów w deklaracjach składanych za okresy miesięczne, zwanych dalej „deklaracjami miesięcznymi”.
 2.
@@ -65,8 +68,7 @@ ust. 9, w której określi różnicę podatku do zapłaty, albo
 b)
 ust. 11, lub
 2)
-podatek wykazany w deklaracji miesięcznej nie został wpłacony w terminie, o którym mowa w ust. 6
-osoba odpowiedzialna za pobór podatku może dokonywać importu towarów zgodnie z ust. 1, pod warunkiem złożenia zabezpieczenia kwoty podatku, który ma być wykazany w deklaracji miesięcznej, w trybie stosowanym przy zabezpieczeniu należności celnych na podstawie przepisów celnych.
+podatek wykazany w deklaracji miesięcznej nie został wpłacony w terminie, o którym mowa w ust. 6 – osoba odpowiedzialna za pobór podatku może dokonywać importu towarów zgodnie z ust. 1, pod warunkiem złożenia zabezpieczenia kwoty podatku, który ma być wykazany w deklaracji miesięcznej, w trybie stosowanym przy zabezpieczeniu należności celnych na podstawie przepisów celnych.
 15.
 Zabezpieczenie, o którym mowa w ust. 14, stosuje się przez 12 miesięcy, do towarów wpisywanych do ewidencji, począwszy od pierwszego dnia miesiąca następującego po miesiącu:
 1)
@@ -90,14 +92,11 @@ Do postępowania w sprawie ustalenia dodatkowego zobowiązania podatkowego, o kt
 1)
 przepis art. 33 ust. 6 stosuje się odpowiednio;
 2)
-przepisy Ordynacji podatkowej stosuje się.
-” ;
+przepisy Ordynacji podatkowej stosuje się. ” ;
 45)
-w art. 146 w ust. 1 pkt 1 otrzymuje brzmienie:
-„
+w art. 146 w ust. 1 pkt 1 otrzymuje brzmienie: „
 1)
-stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 i art. 138i ust. 4, wynosi 23%;
-” .
+stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 i art. 138i ust. 4, wynosi 23%; ” .
 
 **Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2021 r. poz. 685, 694 i 802) wprowadza się następujące zmiany:
 
@@ -105,12 +104,12 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
     - **a)**
     - **b)**
 
-- **22a)** wewnątrzwspólnotowej sprzedaży towarów na odległość – rozumie się przez to dostawę towarów wysyłanych lub transportowanych przez dostawcę lub na jego rzecz, w tym wtedy, gdy dostawca uczestniczy pośrednio w transporcie lub wysyłce towarów, z terytorium państwa członkowskiego innego niż terytorium państwa członkowskiego zakończenia wysyłki lub transportu towarów do nabywcy, który jest: podatnikiem podatku od towarów i usług lub osobą prawną niebędącą podatnikiem podatku od towarów i usług, którzy nie mają obowiązku rozliczania wewnątrzwspólnotowego nabycia towarów, o którym mowa w art. 9, lub podatnikiem podatku od wartości dodanej lub osobą prawną niebędącą podatnikiem podatku od wartości dodanej, którzy nie mają obowiązku rozliczania wewnątrzwspólnotowego nabycia towarów odpowiadającego wewnątrzwspólnotowemu nabyciu towarów, o którym mowa w art. 9, lub podmiotem niebędącym podatnikiem pod warunkiem że dostarczane towary nie są nowymi środkami transportu ani towarami, o których mowa w art. 22 ust. 1 pkt 2;
+- **22a)** wewnątrzwspólnotowej sprzedaży towarów na odległość – rozumie się przez to dostawę towarów wysyłanych lub transportowanych przez dostawcę lub na jego rzecz, w tym wtedy, gdy dostawca uczestniczy pośrednio w transporcie lub wysyłce towarów, z terytorium państwa członkowskiego innego niż terytorium państwa członkowskiego zakończenia wysyłki lub transportu towarów do nabywcy, który jest: podatnikiem podatku od towarów i usług lub osobą prawną niebędącą podatnikiem podatku od towarów i usług, którzy nie mają obowiązku rozliczania wewnątrzwspólnotowego nabycia towarów, o którym mowa w art. 9, lub podatnikiem podatku od wartości dodanej lub osobą prawną niebędącą podatnikiem podatku od wartości dodanej, którzy nie mają obowiązku rozliczania wewnątrzwspólnotowego nabycia towarów odpowiadającego wewnątrzwspólnotowemu nabyciu towarów, o którym mowa w art. 9, lub podmiotem niebędącym podatnikiem – pod warunkiem że dostarczane towary nie są nowymi środkami transportu ani towarami, o których mowa w art. 22 ust. 1 pkt 2;
     - **a)**
     - **b)**
     - **c)**
 
-- **22b)** sprzedaży na odległość towarów importowanych – rozumie się przez to dostawę towarów wysyłanych lub transportowanych przez dostawcę lub na jego rzecz, w tym wtedy, gdy dostawca uczestniczy pośrednio w transporcie lub wysyłce towarów, z terytorium państwa trzeciego do nabywcy na terytorium państwa członkowskiego, który jest: podatnikiem podatku od towarów i usług lub osobą prawną niebędącą podatnikiem podatku od towarów i usług, którzy nie mają obowiązku rozliczania wewnątrzwspólnotowego nabycia towarów, o którym mowa w art. 9, lub podatnikiem podatku od wartości dodanej lub osobą prawną niebędącą podatnikiem podatku od wartości dodanej, którzy nie mają obowiązku rozliczania wewnątrzwspólnotowego nabycia towarów odpowiadającego wewnątrzwspólnotowemu nabyciu towarów, o którym mowa w art. 9, lub podmiotem niebędącym podatnikiem pod warunkiem że dostarczane towary nie są nowymi środkami transportu ani towarami, o których mowa w art. 22 ust. 1 pkt 2; ” , uchyla się pkt 23 i 24, w pkt 26 wyrazy „za pomocą środków komunikacji elektronicznej” zastępuje się wyrazami „drogą elektroniczną”, po pkt 27b dodaje się pkt 27ba w brzmieniu: „ 27ba) wartości rzeczywistej – rozumie się przez to wartość rzeczywistą, o której mowa w art. 1 pkt 48 rozporządzenia delegowanego Komisji (UE) 2015/2446 z dnia 28 lipca 2015 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 w odniesieniu do szczegółowych zasad dotyczących niektórych przepisów unijnego kodeksu celnego (Dz. Urz. UE L 343 z 29.12.2015, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2015/2446”; ” ;
+- **22b)** sprzedaży na odległość towarów importowanych – rozumie się przez to dostawę towarów wysyłanych lub transportowanych przez dostawcę lub na jego rzecz, w tym wtedy, gdy dostawca uczestniczy pośrednio w transporcie lub wysyłce towarów, z terytorium państwa trzeciego do nabywcy na terytorium państwa członkowskiego, który jest: podatnikiem podatku od towarów i usług lub osobą prawną niebędącą podatnikiem podatku od towarów i usług, którzy nie mają obowiązku rozliczania wewnątrzwspólnotowego nabycia towarów, o którym mowa w art. 9, lub podatnikiem podatku od wartości dodanej lub osobą prawną niebędącą podatnikiem podatku od wartości dodanej, którzy nie mają obowiązku rozliczania wewnątrzwspólnotowego nabycia towarów odpowiadającego wewnątrzwspólnotowemu nabyciu towarów, o którym mowa w art. 9, lub podmiotem niebędącym podatnikiem – pod warunkiem że dostarczane towary nie są nowymi środkami transportu ani towarami, o których mowa w art. 22 ust. 1 pkt 2; ” , uchyla się pkt 23 i 24, w pkt 26 wyrazy „za pomocą środków komunikacji elektronicznej” zastępuje się wyrazami „drogą elektroniczną”, po pkt 27b dodaje się pkt 27ba w brzmieniu: „ 27ba) wartości rzeczywistej – rozumie się przez to wartość rzeczywistą, o której mowa w art. 1 pkt 48 rozporządzenia delegowanego Komisji (UE) 2015/2446 z dnia 28 lipca 2015 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 w odniesieniu do szczegółowych zasad dotyczących niektórych przepisów unijnego kodeksu celnego (Dz. Urz. UE L 343 z 29.12.2015, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 69 z 15.03.2016, str. 1, Dz. Urz. UE L 111 z 27.04.2016, str. 1, Dz. Urz. UE L 222 z 17.08.2016, str. 4, Dz. Urz. UE L 101 z 13.04.2017, str. 164, Dz. Urz. UE L 146 z 09.06.2017, str. 10 i 13, Dz. Urz. UE L 67 z 09.03.2018, str. 24, Dz. Urz. UE L 192 z 30.07.2018, str. 1 i 62, Dz. Urz. UE L 204 z 13.08.2018, str. 11, Dz. Urz. UE L 60 z 28.02.2019, str. 1, Dz. Urz. UE L 98 z 09.04.2019, str. 13 oraz Dz. Urz. UE L 108 z 23.04.2019, str. 1., zwanego dalej „rozporządzeniem 2015/2446”; ” ;
     - **a)**
     - **b)**
     - **c)**
@@ -122,13 +121,13 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
     - **a)**
     - **b)**
 
-- **2)** podatników: nieposiadających siedziby działalności gospodarczej lub stałego miejsca prowadzenia działalności gospodarczej na terytorium kraju, o których mowa w art. 109b, korzystających z procedur szczególnych, o których mowa w dziale XII w rozdziałach 6a, 7 i 9, działających w charakterze pośredników na rzecz podatników korzystających z procedury szczególnej, o której mowa w dziale XII w rozdziale 9 właściwym organem podatkowym jest Naczelnik Drugiego Urzędu Skarbowego Warszawa-Śródmieście, zwany dalej „naczelnikiem drugiego urzędu skarbowego”;
+- **2)** podatników: nieposiadających siedziby działalności gospodarczej lub stałego miejsca prowadzenia działalności gospodarczej na terytorium kraju, o których mowa w art. 109b, korzystających z procedur szczególnych, o których mowa w dziale XII w rozdziałach 6a, 7 i 9, działających w charakterze pośredników na rzecz podatników korzystających z procedury szczególnej, o której mowa w dziale XII w rozdziale 9 – właściwym organem podatkowym jest Naczelnik Drugiego Urzędu Skarbowego Warszawa-Śródmieście, zwany dalej „naczelnikiem drugiego urzędu skarbowego”;
     - **a)**
     - **b)**
     - **c)**
     - **d)**
 
-- **3)** podatników: o których mowa w art. 130a pkt 2 i art. 138b ust. 1, oraz podmiotów zagranicznych, o których mowa w art. 131 pkt 2, zidentyfikowanych na potrzeby procedur szczególnych, o których mowa w dziale XII w rozdziałach 6a, 7 i 9, dla których państwem członkowskim konsumpcji, o którym mowa w art. 130a pkt 2a, art. 131 pkt 3a i art. 138a pkt 4, jest Rzeczpospolita Polska, działających w charakterze pośredników na rzecz podatników korzystających z procedury szczególnej, o której mowa w dziale XII w rozdziale 9, dla których państwem członkowskim konsumpcji, o którym mowa w art. 130a pkt 2a, art. 131 pkt 3a i art. 138a pkt 4, jest Rzeczpospolita Polska właściwym organem podatkowym jest Naczelnik Łódzkiego Urzędu Skarbowego. ” ;
+- **3)** podatników: o których mowa w art. 130a pkt 2 i art. 138b ust. 1, oraz podmiotów zagranicznych, o których mowa w art. 131 pkt 2, zidentyfikowanych na potrzeby procedur szczególnych, o których mowa w dziale XII w rozdziałach 6a, 7 i 9, dla których państwem członkowskim konsumpcji, o którym mowa w art. 130a pkt 2a, art. 131 pkt 3a i art. 138a pkt 4, jest Rzeczpospolita Polska, działających w charakterze pośredników na rzecz podatników korzystających z procedury szczególnej, o której mowa w dziale XII w rozdziale 9, dla których państwem członkowskim konsumpcji, o którym mowa w art. 130a pkt 2a, art. 131 pkt 3a i art. 138a pkt 4, jest Rzeczpospolita Polska – właściwym organem podatkowym jest Naczelnik Łódzkiego Urzędu Skarbowego. ” ;
     - **a)**
     - **b)**
 
@@ -141,7 +140,7 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
 2. W przypadku gdy podatnik ułatwia, poprzez użycie interfejsu elektronicznego, dokonanie na terytorium Unii Europejskiej przez podatnika nieposiadającego siedziby działalności gospodarczej lub stałego miejsca prowadzenia działalności gospodarczej na terytorium Unii Europejskiej:
 
 - **1)** wewnątrzwspólnotowej sprzedaży towarów na odległość lub
-- **2)** dostawy towarów na rzecz podmiotu niebędącego podatnikiem uznaje się, że podatnik, który ułatwia tę dostawę, samodzielnie otrzymał towary i dokonał ich dostawy.
+- **2)** dostawy towarów na rzecz podmiotu niebędącego podatnikiem – uznaje się, że podatnik, który ułatwia tę dostawę, samodzielnie otrzymał towary i dokonał ich dostawy.
 
 3. Przez ułatwianie, o którym mowa w ust. 1 i 2, rozumie się ułatwianie w rozumieniu art. 5b rozporządzenia 282/2011. ” ;
 
@@ -219,7 +218,7 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
 8. Dowodami, o których mowa w ust. 7, są dokumenty:
 
 - **1)** przewozowe otrzymane od przewoźnika (spedytora) odpowiedzialnego za wywóz towarów z terytorium kraju – w przypadku gdy przewóz towarów jest zlecany przez dostawcę przewoźnikowi (spedytorowi),
-- **2)** potwierdzające odbiór towarów poza terytorium kraju jeżeli dokumenty te łącznie potwierdzają dostarczenie towarów do nabywcy na terytorium państwa członkowskiego zakończenia wysyłki lub transportu towarów.
+- **2)** potwierdzające odbiór towarów poza terytorium kraju – jeżeli dokumenty te łącznie potwierdzają dostarczenie towarów do nabywcy na terytorium państwa członkowskiego zakończenia wysyłki lub transportu towarów.
 
 9. W przypadku gdy dokumenty, o których mowa w ust. 8, nie potwierdzają jednoznacznie dostarczenia towarów do nabywcy na terytorium państwa członkowskiego zakończenia wysyłki lub transportu towarów, dokumentami wskazującymi, że dostawa towarów została dokonana na terytorium państwa członkowskiego zakończenia wysyłki lub transportu towarów, mogą być również inne dokumenty otrzymywane przez dostawcę w tego rodzaju dostawie towarów, w szczególności:
 
@@ -243,7 +242,7 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
 
 - **13)** w dziale V dodaje się rozdział 4 w brzmieniu: „
 
-#### Rozdział 4 Zawiadomienie o miejscu opodatkowania
+#### Rozdział 4
 
 **Art. 28p.**
 
@@ -316,7 +315,21 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
     - **c)**
 
 - **4)** sprzedaży na odległość towarów importowanych, rozliczanej w procedurze szczególnej, o której mowa w dziale XII w rozdziale 9, przez podatników zidentyfikowanych na potrzeby tej procedury, dla których państwem członkowskim identyfikacji w rozumieniu przepisów tego rozdziału jest Rzeczpospolita Polska. ” ;
-- **27)** w art. 106b: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) wewnątrzwspólnotową sprzedaż towarów na odległość, chyba że podatnik korzysta z procedury szczególnej, o której mowa w dziale XII w rozdziale 6a; ” , – pkt 4 otrzymuje brzmienie: „ 4) otrzymanie przez niego całości lub części zapłaty przed dokonaniem czynności, o których mowa w pkt 1 i 2, z wyjątkiem przypadku, gdy zapłata dotyczy: a) wewnątrzwspólnotowej dostawy towarów, b) czynności, dla których obowiązek podatkowy powstaje zgodnie z art. 19a ust. 5 pkt 4, c) dostaw towarów, dla których obowiązek podatkowy powstaje zgodnie z art. 19a ust. 1b. ” , w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) czynności, o których mowa w ust. 1 pkt 1, jeżeli obowiązek wystawienia faktury nie wynika z ust. 1, z wyjątkiem: a) czynności, o których mowa w art. 19a ust. 5 pkt 4, b) czynności, o których mowa w art. 106a pkt 3 i 4, ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) otrzymanie całości lub części zapłaty przed wykonaniem czynności, o których mowa w ust. 1 pkt 1, jeżeli obowiązek wystawienia faktury nie wynika z ust. 1, z wyjątkiem: a) przypadku, gdy zapłata dotyczy czynności, o których mowa w art. 19a ust. 1b i ust. 5 pkt 4 oraz art. 106a pkt 3 i 4, b) wewnątrzwspólnotowej dostawy towarów, ” , uchyla się ust. 4, po ust. 4 dodaje się ust. 4a w brzmieniu: „
+- **27)** w art. 106b: w ust. 1: pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** wewnątrzwspólnotową sprzedaż towarów na odległość, chyba że podatnik korzysta z procedury szczególnej, o której mowa w dziale XII w rozdziale 6a; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** otrzymanie przez niego całości lub części zapłaty przed dokonaniem czynności, o których mowa w pkt 1 i 2, z wyjątkiem przypadku, gdy zapłata dotyczy: wewnątrzwspólnotowej dostawy towarów, czynności, dla których obowiązek podatkowy powstaje zgodnie z art. 19a ust. 5 pkt 4, dostaw towarów, dla których obowiązek podatkowy powstaje zgodnie z art. 19a ust. 1b. ” , w ust. 3: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **b)**
+
+- **1)** czynności, o których mowa w ust. 1 pkt 1, jeżeli obowiązek wystawienia faktury nie wynika z ust. 1, z wyjątkiem: czynności, o których mowa w art. 19a ust. 5 pkt 4, czynności, o których mowa w art. 106a pkt 3 i 4, ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **1a)** otrzymanie całości lub części zapłaty przed wykonaniem czynności, o których mowa w ust. 1 pkt 1, jeżeli obowiązek wystawienia faktury nie wynika z ust. 1, z wyjątkiem: przypadku, gdy zapłata dotyczy czynności, o których mowa w art. 19a ust. 1b i ust. 5 pkt 4 oraz art. 106a pkt 3 i 4, wewnątrzwspólnotowej dostawy towarów, ” , uchyla się ust. 4, po ust. 4 dodaje się ust. 4a w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
@@ -344,7 +357,7 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
 
 - **1)** sprzedaży na odległość towarów importowanych innej niż dostawa towarów, o której mowa w art. 7a ust. 1, lub
 - **2)** wewnątrzwspólnotowej sprzedaży towarów na odległość lub dostawy towarów na rzecz podmiotu niebędącego podatnikiem innych niż dostawy towarów, o których mowa w art. 7a ust. 2, lub
-- **3)** świadczenia usług na rzecz podmiotu niebędącego podatnikiem innego niż świadczenie usług, w przypadku których przyjmuje się, że podatnik uczestniczący w świadczeniu tych usług działa w imieniu własnym zgodnie z art. 9a rozporządzenia 282/2011 jest obowiązany prowadzić ewidencję tych czynności w postaci elektronicznej, zgodnie z wymogami, o których mowa w art. 54c ust. 2 rozporządzenia 282/2011.
+- **3)** świadczenia usług na rzecz podmiotu niebędącego podatnikiem innego niż świadczenie usług, w przypadku których przyjmuje się, że podatnik uczestniczący w świadczeniu tych usług działa w imieniu własnym zgodnie z art. 9a rozporządzenia 282/2011 – jest obowiązany prowadzić ewidencję tych czynności w postaci elektronicznej, zgodnie z wymogami, o których mowa w art. 54c ust. 2 rozporządzenia 282/2011.
 
 2. Przez ułatwianie, o którym mowa w ust. 1, rozumie się ułatwianie w rozumieniu art. 54b rozporządzenia 282/2011.
 
@@ -410,18 +423,23 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
 - **d)**
 - **e)**
 
-5. Właściwy naczelnik urzędu skarbowego dokonuje identyfikacji podatnika na potrzeby procedury unijnej i potwierdza zgłoszenie, wykorzystując numer, za pomocą którego podatnik jest zidentyfikowany na potrzeby podatku. ” , w ust. 6 zdanie pierwsze otrzymuje brzmienie: „ W przypadku gdy podatnik nie spełnia warunków do korzystania z procedury unijnej, właściwy naczelnik urzędu skarbowego wydaje postanowienie o odmowie przyjęcia zgłoszenia, na które służy zażalenie. ” , w ust. 7: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podatnik zidentyfikowany na potrzeby procedury unijnej jest obowiązany do zawiadomienia właściwego naczelnika urzędu skarbowego za pomocą środków komunikacji elektronicznej o: ” , – w pkt 2 wyrazy „procedurą szczególną rozliczania VAT” zastępuje się wyrazami „procedurą unijną”, – pkt 3 otrzymuje brzmienie: „ 3) zaprzestaniu dokonywania dostaw towarów lub świadczenia usług objętych procedurą unijną ” , w ust. 8: – we wprowadzeniu do wyliczenia wyrazy „procedury szczególnej rozliczania VAT” zastępuje się wyrazami „procedury unijnej”, – pkt 1 i 2 otrzymują brzmienie: „ 1) zawiadomi właściwego naczelnika urzędu skarbowego o zaprzestaniu dokonywania dostaw towarów lub świadczenia usług objętych procedurą unijną lub 2) nie istnieje lub mimo udokumentowanych prób nie ma możliwości skontaktowania się z nim albo jego pełnomocnikiem, albo przez okres dwóch kolejnych lat nie świadczy usług ani nie dokonuje dostaw towarów objętych procedurą unijną, lub ” , – w pkt 3 wyrazy „procedury szczególnej rozliczania VAT” zastępuje się wyrazami „procedury unijnej”, – w pkt 4 wyrazy „procedury szczególnej rozliczania VAT” zastępuje się wyrazami „procedury unijnej”, – część wspólna otrzymuje brzmienie: „ – właściwy naczelnik urzędu skarbowego wydaje postanowienie o wygaśnięciu identyfikacji tego podatnika na potrzeby procedury unijnej, na które służy zażalenie. Podatnik jest powiadamiany o wydaniu postanowienia również za pomocą środków komunikacji elektronicznej. ” ;
+5. Właściwy naczelnik urzędu skarbowego dokonuje identyfikacji podatnika na potrzeby procedury unijnej i potwierdza zgłoszenie, wykorzystując numer, za pomocą którego podatnik jest zidentyfikowany na potrzeby podatku. ” , w ust. 6 zdanie pierwsze otrzymuje brzmienie: „ W przypadku gdy podatnik nie spełnia warunków do korzystania z procedury unijnej, właściwy naczelnik urzędu skarbowego wydaje postanowienie o odmowie przyjęcia zgłoszenia, na które służy zażalenie. ” , w ust. 7: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podatnik zidentyfikowany na potrzeby procedury unijnej jest obowiązany do zawiadomienia właściwego naczelnika urzędu skarbowego za pomocą środków komunikacji elektronicznej o: ” , – w pkt 2 wyrazy „procedurą szczególną rozliczania VAT” zastępuje się wyrazami „procedurą unijną”, pkt 3 otrzymuje brzmienie: „
 
 - **f)**
 - **g)**
-- **h)**
+- **3)** zaprzestaniu dokonywania dostaw towarów lub świadczenia usług objętych procedurą unijną ” , w ust. 8: – we wprowadzeniu do wyliczenia wyrazy „procedury szczególnej rozliczania VAT” zastępuje się wyrazami „procedury unijnej”, pkt 1 i 2 otrzymują brzmienie: „
+    - **h)**
+
+- **1)** zawiadomi właściwego naczelnika urzędu skarbowego o zaprzestaniu dokonywania dostaw towarów lub świadczenia usług objętych procedurą unijną lub
+- **2)** nie istnieje lub mimo udokumentowanych prób nie ma możliwości skontaktowania się z nim albo jego pełnomocnikiem, albo przez okres dwóch kolejnych lat nie świadczy usług ani nie dokonuje dostaw towarów objętych procedurą unijną, lub ” , – w pkt 3 wyrazy „procedury szczególnej rozliczania VAT” zastępuje się wyrazami „procedury unijnej”, – w pkt 4 wyrazy „procedury szczególnej rozliczania VAT” zastępuje się wyrazami „procedury unijnej”, część wspólna otrzymuje brzmienie: „ – właściwy naczelnik urzędu skarbowego wydaje postanowienie o wygaśnięciu identyfikacji tego podatnika na potrzeby procedury unijnej, na które służy zażalenie. Podatnik jest powiadamiany o wydaniu postanowienia również za pomocą środków komunikacji elektronicznej. ” ;
 - **37)** w art. 130c: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Podatnicy zidentyfikowani na potrzeby procedury unijnej są obowiązani składać za pomocą środków komunikacji elektronicznej deklaracje na potrzeby rozliczenia VAT, zwane dalej „deklaracjami VAT”, do właściwego urzędu skarbowego, niezależnie od tego, czy dostawy towarów i świadczenia usług objęte procedurą unijną miały miejsce. ” , w ust. 2 wyrazy „do 20. dnia miesiąca” zastępuje się wyrazami „do końca miesiąca”, w ust. 4: – we wprowadzeniu do wyliczenia wyrazy „powinna zawierać” zastępuje się wyrazem „zawiera”, – w pkt 2: – – lit. a otrzymuje brzmienie: „ a) całkowitą wartość, pomniejszoną o kwotę VAT, następujących transakcji: – wewnątrzwspólnotowej sprzedaży towarów na odległość, – dostawy towarów dokonywanej przez podatnika ułatwiającego takie dostawy zgodnie z art. 7a ust. 2, jeżeli wysyłka lub transport tych towarów rozpoczyna się i kończy na terytorium kraju, – świadczenia usług, ” , – – w lit. b wyraz „usługi” zastępuje się wyrazem „transakcje”, po ust. 4 dodaje się ust. 4a w brzmieniu: „
+1. Podatnicy zidentyfikowani na potrzeby procedury unijnej są obowiązani składać za pomocą środków komunikacji elektronicznej deklaracje na potrzeby rozliczenia VAT, zwane dalej „deklaracjami VAT”, do właściwego urzędu skarbowego, niezależnie od tego, czy dostawy towarów i świadczenia usług objęte procedurą unijną miały miejsce. ” , w ust. 2 wyrazy „do 20. dnia miesiąca” zastępuje się wyrazami „do końca miesiąca”, w ust. 4: – we wprowadzeniu do wyliczenia wyrazy „powinna zawierać” zastępuje się wyrazem „zawiera”, w pkt 2: – lit. a otrzymuje brzmienie: „ całkowitą wartość, pomniejszoną o kwotę VAT, następujących transakcji: – wewnątrzwspólnotowej sprzedaży towarów na odległość, – dostawy towarów dokonywanej przez podatnika ułatwiającego takie dostawy zgodnie z art. 7a ust. 2, jeżeli wysyłka lub transport tych towarów rozpoczyna się i kończy na terytorium kraju, – świadczenia usług, ” , – – w lit. b wyraz „usługi” zastępuje się wyrazem „transakcje”, po ust. 4 dodaje się ust. 4a w brzmieniu: „
 
 - **b)**
 - **c)**
+- **a)**
 - **d)**
 
 4a. W przypadku gdy towary są wysyłane lub transportowane z państw członkowskich innych niż państwo członkowskie identyfikacji, deklaracja VAT oprócz informacji, o których mowa w ust. 4, zawiera:
@@ -432,8 +450,10 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
     - **c)**
 
 - **2)** w przypadku dostaw, o których mowa w pkt 1 lit. a tiret pierwsze – numer, za pomocą którego podatnik jest zidentyfikowany na potrzeby podatku od wartości dodanej, a w przypadku jego braku – numer, za pomocą którego ten podatnik jest zidentyfikowany dla celów podatkowych w państwie członkowskim, z którego towary są wysyłane lub transportowane;
-- **3)** w przypadku dostaw, o których mowa w pkt 1 lit. a tiret drugie – numer, za pomocą którego podatnik jest zidentyfikowany na potrzeby podatku od wartości dodanej, a w przypadku jego braku – numer, za pomocą którego ten podatnik jest zidentyfikowany dla celów podatkowych w państwie członkowskim, z którego towary są wysyłane lub transportowane, o ile jest dostępny. ” , w ust. 5: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku gdy poza stałym miejscem prowadzenia działalności gospodarczej w państwie członkowskim identyfikacji podatnik świadczący usługi objęte procedurą unijną ma również inne stałe miejsce prowadzenia działalności gospodarczej znajdujące się w innym państwie członkowskim, z którego świadczone są te usługi, deklaracja VAT, oprócz informacji, o których mowa w ust. 4, zawiera: ” , – pkt 1 otrzymuje brzmienie: „ 1) całkowitą wartość tych usług, wraz z jej podziałem na państwa członkowskie konsumpcji – dla każdego państwa członkowskiego, w którym podatnik ma stałe miejsce prowadzenia działalności gospodarczej, ” , – w pkt 2 wyrazy „jakikolwiek numer, za pomocą którego ten podatnik jest zidentyfikowany w państwie członkowskim” zastępuje się wyrazami „numer, za pomocą którego ten podatnik jest zidentyfikowany dla celów podatkowych w państwie członkowskim”, po ust. 5 dodaje się ust. 5a w brzmieniu: „
+- **3)** w przypadku dostaw, o których mowa w pkt 1 lit. a tiret drugie – numer, za pomocą którego podatnik jest zidentyfikowany na potrzeby podatku od wartości dodanej, a w przypadku jego braku – numer, za pomocą którego ten podatnik jest zidentyfikowany dla celów podatkowych w państwie członkowskim, z którego towary są wysyłane lub transportowane, o ile jest dostępny. ” , w ust. 5: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku gdy poza stałym miejscem prowadzenia działalności gospodarczej w państwie członkowskim identyfikacji podatnik świadczący usługi objęte procedurą unijną ma również inne stałe miejsce prowadzenia działalności gospodarczej znajdujące się w innym państwie członkowskim, z którego świadczone są te usługi, deklaracja VAT, oprócz informacji, o których mowa w ust. 4, zawiera: ” , pkt 1 otrzymuje brzmienie: „
     - **e)**
+
+- **1)** całkowitą wartość tych usług, wraz z jej podziałem na państwa członkowskie konsumpcji – dla każdego państwa członkowskiego, w którym podatnik ma stałe miejsce prowadzenia działalności gospodarczej, ” , – w pkt 2 wyrazy „jakikolwiek numer, za pomocą którego ten podatnik jest zidentyfikowany w państwie członkowskim” zastępuje się wyrazami „numer, za pomocą którego ten podatnik jest zidentyfikowany dla celów podatkowych w państwie członkowskim”, po ust. 5 dodaje się ust. 5a w brzmieniu: „
     - **f)**
 
 5a. W przypadku stwierdzenia błędów w złożonej deklaracji VAT ich korekta dokonywana jest w deklaracji VAT składanej za bieżący okres rozliczeniowy, nie później jednak niż w ciągu 3 lat, licząc od dnia upływu terminu do złożenia deklaracji VAT, w której stwierdzono błędy. W deklaracji VAT, w której dokonuje się korekty, należy wskazać właściwe państwo członkowskie konsumpcji, okres rozliczeniowy i kwotę VAT, w odniesieniu do której dokonywana jest korekta. ” , w ust. 7 wyrazy „świadczenia usług telekomunikacyjnych, usług nadawczych lub usług elektronicznych” zastępuje się wyrazami „dostaw towarów lub świadczenia usług”, w ust. 8 wyraz „drugiego” zastępuje się wyrazem „właściwego”;
@@ -474,15 +494,17 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
 - **c)**
 - **d)**
 
-5. Właściwy naczelnik urzędu skarbowego, potwierdzając zgłoszenie, nadaje z wykorzystaniem środków komunikacji elektronicznej podmiotowi zagranicznemu numer identyfikacyjny na potrzeby rozliczania świadczonych przez niego usług. ” , w ust. 5a zdanie pierwsze otrzymuje brzmienie: „ W przypadku gdy podmiot zagraniczny nie spełnia warunków do korzystania z procedury nieunijnej, właściwy naczelnik urzędu skarbowego wydaje postanowienie o odmowie przyjęcia zgłoszenia, na które służy zażalenie. ” , w ust. 6: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podmiot zagraniczny zidentyfikowany na potrzeby procedury nieunijnej jest obowiązany do zawiadomienia właściwego naczelnika urzędu skarbowego za pomocą środków komunikacji elektronicznej o: ” , – w pkt 2 wyrazy „procedurą szczególną rozliczania VAT” zastępuje się wyrazami „procedurą nieunijną”, – w pkt 3 skreśla się wyrazy „telekomunikacyjnych, usług nadawczych i usług elektronicznych”, w ust. 7: – pkt 1 i 2 otrzymują brzmienie: „ 1) podmiot zagraniczny zidentyfikowany na potrzeby procedury nieunijnej zawiadomi właściwego naczelnika urzędu skarbowego o zaprzestaniu świadczenia usług objętych procedurą nieunijną lub 2) mimo udokumentowanych prób nie ma możliwości skontaktowania się z podmiotem zagranicznym zidentyfikowanym na potrzeby procedury nieunijnej albo jego pełnomocnikiem, albo przez okres dwóch kolejnych lat podmiot ten nie świadczy usług objętych procedurą nieunijną, lub ” , – w pkt 3 wyrazy „procedury szczególnej rozliczania VAT” zastępuje się wyrazami „procedury nieunijnej”, – w pkt 4 wyrazy „procedury szczególnej rozliczania VAT” zastępuje się wyrazami „procedury nieunijnej”, – część wspólna otrzymuje brzmienie: „ – właściwy naczelnik urzędu skarbowego wydaje postanowienie o wygaśnięciu identyfikacji tego podmiotu na potrzeby procedury nieunijnej, na które służy zażalenie. Podmiot zagraniczny jest powiadamiany o wydaniu postanowienia również za pomocą środków komunikacji elektronicznej. ” ;
+5. Właściwy naczelnik urzędu skarbowego, potwierdzając zgłoszenie, nadaje z wykorzystaniem środków komunikacji elektronicznej podmiotowi zagranicznemu numer identyfikacyjny na potrzeby rozliczania świadczonych przez niego usług. ” , w ust. 5a zdanie pierwsze otrzymuje brzmienie: „ W przypadku gdy podmiot zagraniczny nie spełnia warunków do korzystania z procedury nieunijnej, właściwy naczelnik urzędu skarbowego wydaje postanowienie o odmowie przyjęcia zgłoszenia, na które służy zażalenie. ” , w ust. 6: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podmiot zagraniczny zidentyfikowany na potrzeby procedury nieunijnej jest obowiązany do zawiadomienia właściwego naczelnika urzędu skarbowego za pomocą środków komunikacji elektronicznej o: ” , – w pkt 2 wyrazy „procedurą szczególną rozliczania VAT” zastępuje się wyrazami „procedurą nieunijną”, – w pkt 3 skreśla się wyrazy „telekomunikacyjnych, usług nadawczych i usług elektronicznych”, w ust. 7: pkt 1 i 2 otrzymują brzmienie: „
 
 - **e)**
 - **f)**
 - **g)**
+- **1)** podmiot zagraniczny zidentyfikowany na potrzeby procedury nieunijnej zawiadomi właściwego naczelnika urzędu skarbowego o zaprzestaniu świadczenia usług objętych procedurą nieunijną lub
+- **2)** mimo udokumentowanych prób nie ma możliwości skontaktowania się z podmiotem zagranicznym zidentyfikowanym na potrzeby procedury nieunijnej albo jego pełnomocnikiem, albo przez okres dwóch kolejnych lat podmiot ten nie świadczy usług objętych procedurą nieunijną, lub ” , – w pkt 3 wyrazy „procedury szczególnej rozliczania VAT” zastępuje się wyrazami „procedury nieunijnej”, – w pkt 4 wyrazy „procedury szczególnej rozliczania VAT” zastępuje się wyrazami „procedury nieunijnej”, część wspólna otrzymuje brzmienie: „ – właściwy naczelnik urzędu skarbowego wydaje postanowienie o wygaśnięciu identyfikacji tego podmiotu na potrzeby procedury nieunijnej, na które służy zażalenie. Podmiot zagraniczny jest powiadamiany o wydaniu postanowienia również za pomocą środków komunikacji elektronicznej. ” ;
 - **42)** w art. 133: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Podmioty zagraniczne zidentyfikowane na potrzeby procedury nieunijnej są obowiązane składać za pomocą środków komunikacji elektronicznej deklaracje VAT do właściwego urzędu skarbowego, niezależnie od tego, czy usługi objęte procedurą nieunijną były świadczone. ” , w ust. 2 wyrazy „do 20. dnia miesiąca” zastępuje się wyrazami „do końca miesiąca”, w ust. 4: – we wprowadzeniu do wyliczenia wyrazy „powinna zawierać” zastępuje się wyrazem „zawiera”, – w pkt 2: – – w lit. a skreśla się wyrazy „telekomunikacyjnych, usług nadawczych oraz usług elektronicznych”, – – w lit. b skreśla się wyrazy „, o których mowa w lit. a,”, po ust. 4 dodaje się ust. 4a w brzmieniu: „
+1. Podmioty zagraniczne zidentyfikowane na potrzeby procedury nieunijnej są obowiązane składać za pomocą środków komunikacji elektronicznej deklaracje VAT do właściwego urzędu skarbowego, niezależnie od tego, czy usługi objęte procedurą nieunijną były świadczone. ” , w ust. 2 wyrazy „do 20. dnia miesiąca” zastępuje się wyrazami „do końca miesiąca”, w ust. 4: – we wprowadzeniu do wyliczenia wyrazy „powinna zawierać” zastępuje się wyrazem „zawiera”, w pkt 2: – – w lit. a skreśla się wyrazy „telekomunikacyjnych, usług nadawczych oraz usług elektronicznych”, – – w lit. b skreśla się wyrazy „, o których mowa w lit. a,”, po ust. 4 dodaje się ust. 4a w brzmieniu: „
 
 - **b)**
 - **c)**
@@ -502,7 +524,7 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
 - **b)**
 - **44)** w dziale XII dodaje się rozdziały 9 i 10 w brzmieniu: „
 
-#### Rozdział 9 Szczególna procedura dotycząca sprzedaży na odległość towarów importowanych
+#### Rozdział 9
 
 **Art. 138a.** Ilekroć w niniejszym rozdziale jest mowa o:
 
@@ -521,7 +543,7 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
 
 - **1)** podatnik posiadający siedzibę działalności gospodarczej lub stałe miejsce prowadzenia działalności gospodarczej na terytorium Unii Europejskiej;
 - **2)** podatnik posiadający siedzibę działalności gospodarczej lub stałe miejsce prowadzenia działalności gospodarczej na terytorium Unii Europejskiej albo podatnik niemający siedziby na terytorium Unii Europejskiej, reprezentowany przez pośrednika;
-- **3)** podatnik posiadający siedzibę działalności gospodarczej na terytorium państwa trzeciego, z którym Unia Europejska zawarła porozumienie o wzajemnej pomocy o zakresie zbliżonym do zakresu dyrektywy Rady 2010/24/UE z dnia 16 marca 2010 r. w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności dotyczących podatków, ceł i innych obciążeń (Dz. Urz. UE L 84 z 31.03.2010, str. 1) oraz rozporządzenia Rady (UE) nr 904/2010 z dnia 7 października 2010 r. w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 268 z 12.10.2010, str. 1, z późn. zm.).
+- **3)** podatnik posiadający siedzibę działalności gospodarczej na terytorium państwa trzeciego, z którym Unia Europejska zawarła porozumienie o wzajemnej pomocy o zakresie zbliżonym do zakresu dyrektywy Rady 2010/24/UE z dnia 16 marca 2010 r. w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności dotyczących podatków, ceł i innych obciążeń (Dz. Urz. UE L 84 z 31.03.2010, str. 1) oraz rozporządzenia Rady (UE) nr 904/2010 z dnia 7 października 2010 r. w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 268 z 12.10.2010, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 348 z 29.12.2017, str. 1, Dz. Urz. UE L 259 z 16.10.2018, str. 1 oraz Dz. Urz. UE L 311 z 07.12.2018, str. 1..
 
 2. Podatnik korzystający z procedury importu stosuje ją do wszystkich transakcji sprzedaży na odległość towarów importowanych.
 
@@ -603,7 +625,7 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
 
 - **1)** zmianach danych objętych zgłoszeniami, o których mowa w ust. 6, z wyjątkiem tych, których aktualizacji podatnik dokonał na podstawie art. 96 ust. 12 lub na podstawie przepisów ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników,
 - **2)** zmianach działalności objętej procedurą importu, w wyniku których podatnik przestał spełniać warunki do korzystania z niej,
-- **3)** zaprzestaniu przez podatnika dokonywania sprzedaży na odległość towarów importowanych objętych procedurą importu nie później niż do 10. dnia miesiąca następującego po miesiącu, w którym wystąpiła okoliczność wymagająca zawiadomienia.
+- **3)** zaprzestaniu przez podatnika dokonywania sprzedaży na odległość towarów importowanych objętych procedurą importu – nie później niż do 10. dnia miesiąca następującego po miesiącu, w którym wystąpiła okoliczność wymagająca zawiadomienia.
 
 13. W przypadku gdy:
 
@@ -611,7 +633,7 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
 - **2)** podatnik nie istnieje lub mimo udokumentowanych prób nie ma możliwości skontaktowania się z nim, albo przez okres dwóch kolejnych lat podatnik nie dokonuje sprzedaży na odległość towarów importowanych objętych procedurą importu, lub
 - **3)** podatnik nie spełnia warunków do korzystania z procedury importu, lub
 - **4)** podatnik systematycznie nie przestrzega zasad dotyczących procedury importu, lub
-- **5)** pośrednik zawiadomi właściwego naczelnika urzędu skarbowego, że nie reprezentuje już podatnika właściwy naczelnik urzędu skarbowego wydaje postanowienie o wykluczeniu podatnika z procedury importu, na które służy zażalenie.
+- **5)** pośrednik zawiadomi właściwego naczelnika urzędu skarbowego, że nie reprezentuje już podatnika – właściwy naczelnik urzędu skarbowego wydaje postanowienie o wykluczeniu podatnika z procedury importu, na które służy zażalenie.
 
 14. Podatnik, a w przypadku podatnika reprezentowanego przez pośrednika – również pośrednik, jest powiadamiany o wydaniu postanowienia, o którym mowa w ust. 13, również za pomocą środków komunikacji elektronicznej.
 
@@ -619,7 +641,7 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
 
 - **1)** przez okres dwóch kolejnych kwartałów nie działał w charakterze pośrednika na rzecz podatnika korzystającego z procedury importu lub
 - **2)** nie spełnia warunków określonych w art. 138c ust. 2 i 3, lub
-- **3)** systematycznie nie przestrzega zasad dotyczących procedury importu właściwy naczelnik urzędu skarbowego wydaje postanowienie o wykreśleniu tego pośrednika z rejestru i wykluczeniu podatników reprezentowanych przez niego z procedury importu, na które służy zażalenie.
+- **3)** systematycznie nie przestrzega zasad dotyczących procedury importu – właściwy naczelnik urzędu skarbowego wydaje postanowienie o wykreśleniu tego pośrednika z rejestru i wykluczeniu podatników reprezentowanych przez niego z procedury importu, na które służy zażalenie.
 
 16. Pośrednik oraz podatnicy reprezentowani przez tego pośrednika są powiadamiani o wydaniu postanowienia, o którym mowa w ust. 15, również za pomocą środków komunikacji elektronicznej. Obowiązek podatkowy z tytułu sprzedaży na odległość towarów importowanych objętych procedurą importu powstaje w momencie dokonania dostawy towarów. Dostawę towarów uważa się za dokonaną w momencie zkceptowania płatności w rozumieniu art. 61b rozporządzenia 282/2011.
 
@@ -653,7 +675,7 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
 
 3. Ewidencję przechowuje się przez okres 10 lat od zakończenia roku podatkowego, w którym dokonano sprzedaży na odległość towarów importowanych.
 
-#### Rozdział 10 Szczególna procedura dotycząca deklarowania i zapłaty podatku z tytułu importu towarów
+#### Rozdział 10
 
 **Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128) wprowadza się następujące zmiany:
 
@@ -662,8 +684,8 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
 1. Podatnik może od dochodu z pozarolniczej działalności gospodarczej lub dochodu z działów specjalnych produkcji rolnej, ustalonego za 2021 r. zgodnie z art. 9, art. 23m-23u, art. 24 ust. 1–2b i 3b-3e lub art. 24b ust. 1 i 2, odliczyć poniesione w tym roku:
 
 - **1)** wydatki na nabycie zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego,
-- **2)** opłaty z tytułu umowy na obsługę zewnętrznego systemu lokalizacyjnego albo urządzenia pokładowego, o której mowa w art. 13i ust. 3b zdaniu drugim ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2020 r. poz. 470, z późn. zm.),
-- **3)** opłaty z tytułu umowy leasingu, najmu lub dzierżawy zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego lub innej umowy o podobnym charakterze, na podstawie której taki system albo takie urządzenie zostały oddane do używania pomniejszone o podatek od towarów i usług.
+- **2)** opłaty z tytułu umowy na obsługę zewnętrznego systemu lokalizacyjnego albo urządzenia pokładowego, o której mowa w art. 13i ust. 3b zdaniu drugim ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2020 r. poz. 470, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 471, 1087 i 2338 oraz z 2021 r. poz. 54, 720 i 1005.),
+- **3)** opłaty z tytułu umowy leasingu, najmu lub dzierżawy zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego lub innej umowy o podobnym charakterze, na podstawie której taki system albo takie urządzenie zostały oddane do używania – pomniejszone o podatek od towarów i usług.
 
 2. Odliczenie od dochodu z działów specjalnych produkcji rolnej stosuje się, jeżeli dochód ten został ustalony na podstawie ksiąg rachunkowych lub podatkowej księgi przychodów i rozchodów.
 
@@ -685,15 +707,15 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
 - **2)** w art. 52n w ust. 1 pkt 1 otrzymuje brzmienie: „
 - **1)** podmiotom wykonującym działalność leczniczą, wpisanym do ogłoszonego w Biuletynie Informacji Publicznej Narodowego Funduszu Zdrowia wykazu podmiotów udzielających świadczeń opieki zdrowotnej, w tym transportu sanitarnego, wykonywanych w związku z przeciwdziałaniem COVID-19; ” .
 
-**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1565, 2122, 2123 i 2320 oraz z 2021 r. poz. 11 i 255.) wprowadza się następujące zmiany:
 
 - **1)** po art. 38e dodaje się art. 38ea w brzmieniu: „ Art. 38ea.
 
 1. Podatnik może od dochodu z innych źródeł przychodów niż zyski kapitałowe, ustalonego zgodnie z art. 7, odliczyć poniesione w 2021 r.:
 
 - **1)** wydatki na nabycie zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego,
-- **2)** opłaty z tytułu umowy na obsługę zewnętrznego systemu lokalizacyjnego albo urządzenia pokładowego, o której mowa w art. 13i ust. 3b zdaniu drugim ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2020 r. poz. 470, z późn. zm.),
-- **3)** opłaty z tytułu umowy leasingu, najmu lub dzierżawy zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego lub innej umowy o podobnym charakterze, na podstawie której taki system albo takie urządzenie zostały oddane do używania pomniejszone o podatek od towarów i usług.
+- **2)** opłaty z tytułu umowy na obsługę zewnętrznego systemu lokalizacyjnego albo urządzenia pokładowego, o której mowa w art. 13i ust. 3b zdaniu drugim ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2020 r. poz. 470, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 471, 1087 i 2338 oraz z 2021 r. poz. 54, 720 i 1005.),
+- **3)** opłaty z tytułu umowy leasingu, najmu lub dzierżawy zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego lub innej umowy o podobnym charakterze, na podstawie której taki system albo takie urządzenie zostały oddane do używania – pomniejszone o podatek od towarów i usług.
 
 2. Wydatki i opłaty, o których mowa w ust. 1, podlegają odliczeniu do wysokości kwoty stanowiącej iloczyn 500 zł oraz liczby zewnętrznych systemów lokalizacyjnych lub urządzeń pokładowych, przy czym liczba tych systemów lub urządzeń nie może być większa niż liczba pojazdów, które wykonały w 2021 r. co najmniej jeden przejazd, za który podatnik, a w przypadku podatników będących wspólnikami spółki niebędącej osobą prawną – ta spółka, uiścili opłatę elektroniczną z wykorzystaniem tego zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego.
 
@@ -715,7 +737,7 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
 
 **Art. 4.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2020 r. poz. 170 oraz z 2021 r. poz. 802) w art. 2 ust. 4 otrzymuje brzmienie: „ 4. Obowiązkowi ewidencyjnemu nie podlegają podatnicy, którzy posiadają numer identyfikacyjny nadany na podstawie art. 132 ust. 5, art. 134a ust. 4 oraz art. 138e ust. 7 pkt 1 i 2 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2021 r. poz. 685, 694, 802 i 1163). ” .
 
-**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.) w art. 87 § 2 otrzymuje brzmienie: „
+**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72, 694, 802 i 1005.) w art. 87 § 2 otrzymuje brzmienie: „
 
 § 2. Obowiązek wystawienia rachunku, o którym mowa w § 1, nie dotyczy:
 
@@ -731,8 +753,8 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
 1. Podatnik może od przychodu z pozarolniczej działalności gospodarczej obliczonego za 2021 r. na podstawie art. 11, odliczyć poniesione w tym roku:
 
 - **1)** wydatki na nabycie zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego,
-- **2)** opłaty z tytułu umowy na obsługę zewnętrznego systemu lokalizacyjnego albo urządzenia pokładowego, o której mowa w art. 13i ust. 3b zdaniu drugim ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2020 r. poz. 470, z późn. zm.),
-- **3)** opłaty z tytułu umowy leasingu, najmu lub dzierżawy zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego lub innej umowy o podobnym charakterze, na podstawie której taki system albo takie urządzenie zostały oddane do używania pomniejszone o podatek od towarów i usług.
+- **2)** opłaty z tytułu umowy na obsługę zewnętrznego systemu lokalizacyjnego albo urządzenia pokładowego, o której mowa w art. 13i ust. 3b zdaniu drugim ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2020 r. poz. 470, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 471, 1087 i 2338 oraz z 2021 r. poz. 54, 720 i 1005.),
+- **3)** opłaty z tytułu umowy leasingu, najmu lub dzierżawy zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego lub innej umowy o podobnym charakterze, na podstawie której taki system albo takie urządzenie zostały oddane do używania – pomniejszone o podatek od towarów i usług.
 
 2. Wydatki i opłaty, o których mowa w ust. 1, podlegają odliczeniu do wysokości kwoty stanowiącej iloczyn 500 zł oraz liczby zewnętrznych systemów lokalizacyjnych lub urządzeń pokładowych, przy czym liczba tych systemów lub urządzeń nie może być większa niż liczba pojazdów, które wykonały w 2021 r. co najmniej jeden przejazd, za który podatnik, a w przypadku podatników będących wspólnikami spółki niebędącej osobą prawną – ta spółka, uiścili opłatę elektroniczną z wykorzystaniem tego zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego.
 
@@ -758,7 +780,7 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
 
 **Art. 12a.** W przypadku wyznaczenia organu Krajowej Administracji Skarbowej do wykonywania zadań ministra właściwego do spraw finansów publicznych określonych w ustawie przepis art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735) stosuje się odpowiednio, przy czym wyznaczony organ jest właściwy do rozpatrzenia wniosku o ponowne rozpatrzenie sprawy załatwionej przez ten organ. ” .
 
-**Art. 9.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.) skreśla się użyte w art. 15p w ust. 1 i w art. 15q w ust. 1 wyrazy „pierwszego półrocza”.
+**Art. 9.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180, 694, 981, 1023, 1090 i 1162.) skreśla się użyte w art. 15p w ust. 1 i w art. 15q w ust. 1 wyrazy „pierwszego półrocza”.
 
 **Art. 10.** W ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320 oraz z 2021 r. poz. 72, 802 i 1135) w art. 101 pkt 3 i 4 otrzymują brzmienie: „
 
@@ -805,10 +827,10 @@ stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 
 
 **Art. 18.** Ustawa wchodzi w życie z dniem 1 lipca 2021 r., z wyjątkiem:
 
-- **1)** przepisów: art. 1: – pkt 2 lit. a i lit. b w zakresie pkt 2 lit. c i d, – pkt 23, – pkt 36 lit. e, f, lit. g tiret pierwszego i drugiego oraz lit. h tiret pierwszego, trzeciego i piątego, – pkt 41 lit. d, e, lit. f tiret pierwszego i drugiego oraz lit. g tiret drugiego i czwartego, – pkt 44 w zakresie art. 138e ust. 6–8, 10, 11, ust. 12 pkt 1 i 2, ust. 13 i 14, art. 2, art. 3, art. 6, art. 8, art. 9 i art. 17 które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **1)** przepisów: art. 1: – pkt 2 lit. a i lit. b w zakresie pkt 2 lit. c i d, – pkt 23, – pkt 36 lit. e, f, lit. g tiret pierwszego i drugiego oraz lit. h tiret pierwszego, trzeciego i piątego, – pkt 41 lit. d, e, lit. f tiret pierwszego i drugiego oraz lit. g tiret drugiego i czwartego, – pkt 44 w zakresie art. 138e ust. 6–8, 10, 11, ust. 12 pkt 1 i 2, ust. 13 i 14, art. 2, art. 3, art. 6, art. 8, art. 9 i art. 17 – które wchodzą w życie z dniem następującym po dniu ogłoszenia;
     - **a)**
     - **b)**
 
-- **2)** art. 11, który wchodzi w życie z dniem 31 października 2021 r.
+- **2)** art. 11, który wchodzi w życie z dniem 31 października 2021 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady (UE) 2017/2455 z dnia 5 grudnia 2017 r. zmieniającej dyrektywę 2006/112/WE i dyrektywę 2009/132/WE w odniesieniu do niektórych obowiązków wynikających z podatku od wartości dodanej w przypadku świadczenia usług i sprzedaży towarów na odległość (Dz. Urz. UE L 348 z 29.12.2017, str. 7 oraz Dz. Urz. UE L 244 z 20.07.2020, str. 3) oraz dyrektywy Rady (UE) 2019/1995 z dnia 21 listopada 2019 r. zmieniającej dyrektywę 2006/112/WE w odniesieniu do przepisów dotyczących sprzedaży towarów na odległość oraz niektórych krajowych dostaw towarów (Dz. Urz. UE L 310 z 02.12.2019, str. 1 oraz Dz. Urz. UE L 244 z 20.07.2020, str. 3). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 19 marca 2004 r. – Prawo celne, ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 18 listopada 2020 r. o doręczeniach elektronicznych oraz ustawę z dnia 30 marca 2021 r. o zmianie ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu oraz niektórych innych ustaw. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 69 z 15.03.2016, str. 1, Dz. Urz. UE L 111 z 27.04.2016, str. 1, Dz. Urz. UE L 222 z 17.08.2016, str. 4, Dz. Urz. UE L 101 z 13.04.2017, str. 164, Dz. Urz. UE L 146 z 09.06.2017, str. 10 i 13, Dz. Urz. UE L 67 z 09.03.2018, str. 24, Dz. Urz. UE L 192 z 30.07.2018, str. 1 i 62, Dz. Urz. UE L 204 z 13.08.2018, str. 11, Dz. Urz. UE L 60 z 28.02.2019, str. 1, Dz. Urz. UE L 98 z 09.04.2019, str. 13 oraz Dz. Urz. UE L 108 z 23.04.2019, str. 1. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 348 z 29.12.2017, str. 1, Dz. Urz. UE L 259 z 16.10.2018, str. 1 oraz Dz. Urz. UE L 311 z 07.12.2018, str. 1. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 471, 1087 i 2338 oraz z 2021 r. poz. 54, 720 i 1005. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1565, 2122, 2123 i 2320 oraz z 2021 r. poz. 11 i 255. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 471, 1087 i 2338 oraz z 2021 r. poz. 54, 720 i 1005. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72, 694, 802 i 1005. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 471, 1087 i 2338 oraz z 2021 r. poz. 54, 720 i 1005. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180, 694, 981, 1023, 1090 i 1162.
 
 

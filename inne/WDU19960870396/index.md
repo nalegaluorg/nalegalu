@@ -22,9 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1996-06-14 |
 | Data wydania | 1996-07-23 |
-| Wejście w życie | 1996-08-07 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960870396) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/396/text.pdf) |
+
+Finansowanie dokształcania i doskonalenia zawodowego nauczycieli
+Przepisy szczególne
 
 **Art. 1.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. Nr 3, poz. 19, Nr 25, poz. 187 i Nr 31, poz. 214, z 1983 r. Nr 5, poz. 33, z 1988 r. Nr 19, poz. 132, z 1989 r. Nr 4, poz. 24 i Nr 35, poz. 192, z 1990 r. Nr 34, poz. 197 i 198, Nr 36, poz. 206 i Nr 72, poz. 423, z 1991 r. Nr 95, poz. 425 i Nr 104, poz. 450, z 1992 r. Nr 53, poz. 252, Nr 54, poz. 254 i Nr 90, poz. 451, z 1993 r. Nr 129, poz. 602, z 1994 r. Nr 43, poz. 163, Nr 105, poz. 509 i Nr 113, poz. 547, z 1995 r. Nr 138, poz. 681 oraz z 1996 r. Nr 25, poz. 113) wprowadza się następujące zmiany:
 
@@ -107,8 +109,10 @@ source: "eli-html"
 3. Nauczyciele, którym powierzone zostały stanowiska kierownicze w szkole, poza obowiązkami wymienionymi w ust. 2 i w art. 6 wykonują ponadto inne zadania związane z powierzonym stanowiskiem, określone w porozumieniu z zainteresowanymi ministrami przez Ministra Edukacji Narodowej, a w stosunku do nauczycieli szkół artystycznych – przez Ministra Kultury i Sztuki. ” ;
 
 - **8)** w art. 9 w ust. 1 w pkt 1 wyrazy „szkołę kształcącą nauczycieli” zastępuje się wyrazami „zakład kształcenia nauczycieli”;
-- **9)** w art. 10: w ust. 2: – pkt 7 otrzymuje brzmienie: „ 7) bezpośrednio przed mianowaniem wykonywał nieprzerwanie, zgodnie z wymaganymi kwalifikacjami, pracę pedagogiczną w szkole w pełnym wymiarze zajęć co najmniej przez 3 lata i w tym okresie uzyskał dwie oceny co najmniej wyróżniające, na zasadach i w trybie określonym w art. 6a, lub bezpośrednio przed mianowaniem wykonywał nieprzerwanie, zgodnie z wymaganymi kwalifikacjami, pracę pedagogiczną w szkole w pełnym wymiarze zajęć przez 4 lata pracy i na koniec czwartego roku pracy uzyskał co najmniej ocenę dobrą albo bezpośrednio przed mianowaniem wykonywał nieprzerwanie jako nauczyciel akademicki pracę dydaktyczną w szkole wyższej co najmniej przez 3 lata i uzyskał ocenę pozytywną w tym zakresie. ” – skreśla się pkt 8, po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „
+- **9)** w art. 10: w ust. 2: pkt 7 otrzymuje brzmienie: „
     - **a)**
+
+- **7)** bezpośrednio przed mianowaniem wykonywał nieprzerwanie, zgodnie z wymaganymi kwalifikacjami, pracę pedagogiczną w szkole w pełnym wymiarze zajęć co najmniej przez 3 lata i w tym okresie uzyskał dwie oceny co najmniej wyróżniające, na zasadach i w trybie określonym w art. 6a, lub bezpośrednio przed mianowaniem wykonywał nieprzerwanie, zgodnie z wymaganymi kwalifikacjami, pracę pedagogiczną w szkole w pełnym wymiarze zajęć przez 4 lata pracy i na koniec czwartego roku pracy uzyskał co najmniej ocenę dobrą albo bezpośrednio przed mianowaniem wykonywał nieprzerwanie jako nauczyciel akademicki pracę dydaktyczną w szkole wyższej co najmniej przez 3 lata i uzyskał ocenę pozytywną w tym zakresie. ” – skreśla się pkt 8, po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „
     - **b)**
 
 2a. Stosunek pracy z nauczycielem nawiązuje się przez mianowanie również w wypadku ponownego zatrudnienia nauczyciela mianowanego, jeżeli spełnia wymagania, o których mowa w ust. 2 pkt 1–6, a przerwa w pracy w szkole nie przekraczała 5 lat.
@@ -415,7 +419,7 @@ source: "eli-html"
 
 - **43)** po rozdziale 7 dodaje się rozdział 7a w brzmieniu: „
 
-#### Rozdział 7a Finansowanie dokształcania i doskonalenia zawodowego nauczycieli
+#### Rozdział 7a
 
 **Art. 70a.**
 
@@ -437,8 +441,10 @@ source: "eli-html"
 4. Minister Zdrowia i Opieki Społecznej w porozumieniu z Ministrem Edukacji Narodowej określa, w drodze zarządzenia, szczegółowe zasady powoływania komisji lekarskich w publicznych zakładach opieki zdrowotnej do orzekania w sprawach, o których mowa w ust. 1, oraz tryb postępowania przed komisjami. ” ;
 
 - **46)** w art. 75 w ust. 1 wyrazy „w art. 6 ust. 1” zastępuje się wyrazami „w art. 6”;
-- **47)** w art. 76: w ust. 1: – skreśla się pkt 2, – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) zwolnienie z pracy z zakazem przyjmowania ukaranego do pracy w zawodzie nauczycielskim w okresie 3 lat od ukarania, ” skreśla się ust. 4;
+- **47)** w art. 76: w ust. 1: – skreśla się pkt 2, po pkt 3 dodaje się pkt 3a w brzmieniu: „
     - **a)**
+
+- **3a)** zwolnienie z pracy z zakazem przyjmowania ukaranego do pracy w zawodzie nauczycielskim w okresie 3 lat od ukarania, ” skreśla się ust. 4;
     - **b)**
 
 - **48)** w art. 82 w ust. 2 wyrazy „i organie nadzorującym szkołę” zastępuje się wyrazami „i organie prowadzącym szkoły”;
@@ -475,7 +481,7 @@ source: "eli-html"
 - **d)**
 - **53)** po rozdziale 11 dodaje się rozdział 11a w brzmieniu: „
 
-#### Rozdział 11a Przepisy szczególne
+#### Rozdział 11a
 
 **Art. 91a.**
 

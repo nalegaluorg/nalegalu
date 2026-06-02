@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 4 października 2018 r. w sprawie przekazywania informacji o transakcjach oraz formularza identyfikującego instytucję obowiązaną
+# Rozporządzenie Ministra Finansówz dnia 4 października 2018 r. w sprawie przekazywania informacji o transakcjach oraz formularza identyfikującego instytucję obowiązaną Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-04 |
 | Data wydania | 2018-10-11 |
-| Wejście w życie | 2018-10-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001946) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1946/text.pdf) |
 
@@ -74,8 +73,7 @@ Papierowa kopia, o której mowa w ust. 3, jest doręczana:
 1)
 przez pracownika instytucji obowiązanej lub
 2)
-za pośrednictwem operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2017 r. poz. 1481 oraz z 2018 r. poz. 106, 138, 650, 1118 i 1629) przesyłką poleconą za zwrotnym potwierdzeniem odbioru
-w zamkniętym opakowaniu z umieszczonym w widocznym miejscu dopiskiem „w kancelarii nie otwierać”.
+za pośrednictwem operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2017 r. poz. 1481 oraz z 2018 r. poz. 106, 138, 650, 1118 i 1629) przesyłką poleconą za zwrotnym potwierdzeniem odbioru – w zamkniętym opakowaniu z umieszczonym w widocznym miejscu dopiskiem „w kancelarii nie otwierać”.
 5.
 Informacja o transakcjach i formularz identyfikujący przesyłane w sposób, o którym mowa w ust. 1, są zaszyfrowane. Opis sposobu szyfrowania jest udostępniany na stronie internetowej, której identyfikator URI jest zamieszczony w Biuletynie Informacji Publicznej oraz na stronie internetowej systemu teleinformatycznego.
 § 5.
@@ -95,8 +93,7 @@ przekazany dokument obejmujący informację o transakcjach lub formularz identyf
 2)
 informacja o transakcjach lub formularz identyfikujący zostały przekazane z naruszeniem art. 72 ust. 6, art. 73 ust. 1 lub art. 77 ust. 1 lub 2 ustawy, lub
 3)
-informacja o transakcjach lub formularz identyfikujący zawiera błędy
-instytucja obowiązana przekazuje ponownie albo koryguje odpowiednio informację o transakcjach albo formularz identyfikujący, w terminie trzech dni roboczych od dnia wpływu albo udostępnienia tej instytucji żądania ponownego ich przekazania albo skorygowania.
+informacja o transakcjach lub formularz identyfikujący zawiera błędy – instytucja obowiązana przekazuje ponownie albo koryguje odpowiednio informację o transakcjach albo formularz identyfikujący, w terminie trzech dni roboczych od dnia wpływu albo udostępnienia tej instytucji żądania ponownego ich przekazania albo skorygowania.
 2.
 Żądanie, o którym mowa w ust. 1, jest przekazywane w formie pisemnej w postaci papierowej albo w postaci elektronicznej przy użyciu środków komunikacji elektronicznej w formie informacji dostępnej na stronie internetowej, o której mowa w § 4 ust. 1 pkt 1, lub za pośrednictwem oprogramowania interfejsowego, o którym mowa w § 4 ust. 1 pkt 2.
 3.
@@ -104,6 +101,5 @@ W przypadku udostępnienia żądania, o którym mowa w ust. 1, w postaci elektro
 § 8.
 Do korygowania i ponownego przekazywania informacji o transakcjach i formularza identyfikującego na podstawie § 6 i § 7 stosuje się przepisy § 3–5.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 13 października 2018 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
+Rozporządzenie wchodzi w życie z dniem 13 października 2018 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 

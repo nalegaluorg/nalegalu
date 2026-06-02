@@ -22,16 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-07 |
 | Data wydania | 2019-05-10 |
-| Wejście w życie | 2019-05-11 |
 | Ostatnia zmiana | 2026-03-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000873) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/873/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 444 ust. 5 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 444 ust. 5 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa limit przyjęć na studia na kierunku „penitencjarystyka” dla funkcjonariuszy Służby Więziennej w służbie kandydackiej.
 § 2.
 Ustala się limit przyjęć na studia na kierunku „penitencjarystyka” dla funkcjonariuszy Służby Więziennej w służbie kandydackiej w liczbie 50 miejsc.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.
 

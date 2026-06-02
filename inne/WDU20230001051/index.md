@@ -25,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001051) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1051/text.pdf) |
 
-ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 29 maja 2023 r.
+11005511 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 29 maja 2023 r.
 w sprawie badań funkcjonariuszy Straży Marszałkowskiej na zawartość w organizmie alkoholu lub obecność środka działającego podobnie do alkoholu Na podstawie art. 50a ust. 15 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2022 r. poz. 1727 oraz z 2023 r. poz. 240, 347 i 641) zarządza się, co następuje: § 1. Rozporządzenie określa:
 1) warunki i metody przeprowadzania badania na zawartość w organizmie alkoholu lub badania na obecność w organizmie innego podobnie działającego środka;
 2) sposób dokumentowania badania na zawartość w organizmie alkoholu lub badania na obecność w organizmie innego podobnie działającego środka, w tym wzory protokołów z przeprowadzonych badań;
@@ -121,7 +121,7 @@ e) informację o żądaniu przez badanego funkcjonariusza przeprowadzenia badani
 2. Funkcjonariusza, jeżeli jest to możliwe, informuje się o możliwości odmowy złożenia oświadczenia o chorobach, na jakie choruje, oraz oświadczenia, o którym mowa w § 13 ust. 1 pkt 1.
 3. Wzór protokołu, o którym mowa w ust. 1, jest określony w załączniku nr 2 do rozporządzenia.
 § 15. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki PROTOKÓŁ z badania wydychanego powietrza / śliny / potu na zawartość w organizmie funkcjonariusza Straży Marszałkowskiej alkoholu lub obecność innego podobnie działającego środka , dnia 202 r.
+Prezes Rady Ministrów: M. Morawiecki Prezesa Rady Ministrów z dnia (Dz. U. poz. ) Załącznik nr 1 WZÓR PROTOKÓŁ z badania wydychanego powietrza / śliny / potu na zawartość w organizmie funkcjonariusza Straży Marszałkowskiej alkoholu lub obecność innego podobnie działającego środka , dnia 202 r.
 Działając na podstawie art. 50a ust. 3 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2022 r. poz. 1727 oraz z 2023 r. poz. 240, 347 i 641)
 1.
 2.
@@ -131,7 +131,8 @@ Działając na podstawie art. 50a ust. 3 ustawy z dnia 26 stycznia 2018 r. o Str
 6. Ilość, rodzaj, data i godzina spożycia napojów alkoholowych przez funkcjonariusza w ciągu ostatnich 24 godzin lub informacja o przyjęciu albo nieprzyjęciu środka działającego podobnie do alkoholu:
 7. Opis objawów i okoliczności uzasadniających przeprowadzenie badania, data, godzina i minuta ich stwierdzenia: WZÓR Część A BADANIE WYDYCHANEGO POWIETRZA
 8. Badanie na zawartość w organizmie funkcjonariusza alkoholu przeprowadzono analizatorem wydechu:
-9. Tabela pomiarów zawartości alkoholu w wydychanym powietrzu: 10 Płeć : mężczyzna kobieta
+9. Tabela pomiarów zawartości alkoholu w wydychanym powietrzu:
+10. Płeć : mężczyzna kobieta
 11. Wzrost: masa ciała:
 12. Badany funkcjonariusz żąda nie żąda badania analizatorem wydechu dokonującym pomiaru metodą spektrometrii w podczerwieni żąda nie żąda badania krwi Część B BADANIE ŚLINY
 13. Data, godzina i minuta oraz miejsce przeprowadzenia badania:
@@ -141,7 +142,13 @@ Działając na podstawie art. 50a ust. 3 ustawy z dnia 26 stycznia 2018 r. o Str
 17. Według instrukcji wynik testu należy odczytać w czasie od do
 18. Wynik testu odczytano po upływie minut
 19. Wynik badania próbek śliny : negatywny (ujemny) pozytywny (dodatni) wskazujący obecność substancji psychoaktywnej z grupy:
-20. Badany funkcjonariusz żąda nie żąda badania krwi żąda nie żąda badania moczu P gnij i t cyta m z m tym kluczow ą ś i le l cu s y zy atem me u c w , Część C BADANIE POTU
+20. Badany funkcjonariusz żąda nie żąda badania krwi żąda nie żąda badania moczu [Przycią gnij uwagę czytelni ka interesuj ącym [Przycią gnij uwagę czytelni ka interesuj [Przycią gnij uwagę czytelni ka interesuj ącym cytatem z dokume ntu lub podaj w tym miejscu kluczow ą kwestię.
+Aby umieści [Przycią gnij uwagę czytelni ka interesuj ącym cytatem z dokume ntu lub podaj w tym miejscu kluczow ą kwestię.
+Aby umieści [Przycią gnij uwagę czytelni ka interesuj ącym cytatem z dokume ntu lub podaj w tym miejscu kluczow ą kwestię.
+Aby umieści ć to pole w [Przycią gnij uwagę czytelni ka interesuj ącym cytatem z dokume ntu lub podaj w tym miejscu kluczow ą kwestię.
+Aby umieści ć to pole w [Przycią [Przycią [Przycią gnij uwagę [Przycią gnij uwagę [Przycią gnij uwagę czytelni ka interesuj ącym cytatem z dokume ntu lub podaj w tym miejscu kluczow ą kwestię.
+Aby umieści ć to pole w dowolny m miejscu strony, [Przycią gnij uwagę czytelni ka interesuj ącym cytatem z dokume ntu lub podaj w tym miejscu kluczow ą kwestię.
+Aby umieści ć to pole w dowolny m miejscu strony, Część C BADANIE POTU
 21. Data, godzina i minuta oraz miejsce przeprowadzenia badania:
 22. Część ciała z której pobrano próbkę potu:
 23. Nazwa handlowa zastosowanego testu:
@@ -153,7 +160,13 @@ Działając na podstawie art. 50a ust. 3 ustawy z dnia 26 stycznia 2018 r. o Str
 29. Badany funkcjonariusz żąda nie żąda badania krwi żąda nie żąda badania moczu
 30. Uwagi i zastrzeżenia do przeprowadzonego badania osoby przeprowadzającej badanie oraz funkcjonariusza poddanego badaniu:
 31. Badany funkcjonariusz został poinformowany o możliwości odmowy złożenia oświadczenia, o którym mowa w pkt 5 i 6.
-32. Załączniki do protokołu (wydruki z wynikami badań, jeżeli urządzenie użyte do przeprowadzenia badania umożliwia ich wykonanie oraz kopia ważnego dokumentu potwierdzającego kalibrację lub wzorcowanie urządzenia użytego do przeprowadzenia badania): PROTOKÓŁ z badania laboratoryjnego moczu/krwi na zawartość w organizmie funkcjonariusza Straży Marszałkowskiej alkoholu lub obecność innego podobnie działającego środka , dnia 202 r.
+32. Załączniki do protokołu (wydruki z wynikami badań, jeżeli urządzenie użyte do przeprowadzenia badania umożliwia ich wykonanie oraz kopia ważnego dokumentu potwierdzającego kalibrację lub wzorcowanie urządzenia użytego do przeprowadzenia badania): [Przycią gnij uwagę czytelni ka interesuj ącym cytatem z dokume ntu lub podaj w tym miejscu kluczow ą kwestię.
+Aby umieści ć to pole w dowolny m miejscu [Przycią gnij uwagę czytelni ka interesuj ącym cytatem z dokume ntu lub podaj w tym miejscu kluczow ą kwestię.
+Aby umieści ć to pole w dowolny m [Przycią gnij uwagę czytelni ka interesuj ącym cytatem z dokume ntu lub podaj w tym miejscu kluczow ą kwestię.
+Aby umieści [Przycią gnij uwagę czytelni ka interesuj ącym cytatem z dokume ntu lub podaj w tym miejscu kluczow ą kwestię.
+Aby umieści [Przycią gnij uwagę czytelni ka interesuj ącym cytatem z dokume ntu lub podaj w tym miejscu kluczow ą kwestię.
+Aby umieści ć to pole [Przycią gnij uwagę czytelni ka interesuj ącym cytatem z dokume ntu lub podaj w tym miejscu kluczow ą kwestię.
+Aby umieści ć to pole Załącznik nr 2 WZÓR PROTOKÓŁ z badania laboratoryjnego moczu/krwi na zawartość w organizmie funkcjonariusza Straży Marszałkowskiej alkoholu lub obecność innego podobnie działającego środka , dnia 202 r.
 Działając na podstawie art. 50a ust. 3 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2022 r. poz. 1727 oraz z 2023 r. poz. 240, 347 i 641) Część A POBRANIE MATERIAŁU BIOLOGICZNEGO DO BADAŃ
 1.
 2.
@@ -165,7 +178,9 @@ Działając na podstawie art. 50a ust. 3 ustawy z dnia 26 stycznia 2018 r. o Str
 8. Opis objawów i okoliczności uzasadniających przeprowadzenie badania, data, godzina i minuta ich stwierdzenia:
 9. Data, godzina i minuta oraz miejsce pobrania próbek materiału biologicznego do badań:
 10. W przypadku badań krwi rodzaj środka odkażającego użytego do dezynfekcji skóry
-11. W przypadku odstąpienia od pobrania krwi informacja o przyczynie odstąpienia: [P gnij u g in eresu cy tem z y j kwes ię ij a uj a m k e s u estię WZÓR
+11. W przypadku odstąpienia od pobrania krwi informacja o przyczynie odstąpienia: [Przycią gnij uwagę czytelni ka interesuj ącym cytatem z dokume ntu lub podaj w tym miejscu kluczow ą kwestię.
+Aby umieści [Przycią gnij uwagę czytelni ka interesuj ącym cytatem z dokume ntu lub podaj w tym miejscu kluczow ą kwestię.
+Aby umieści WZÓR
 12. Uwagi i zastrzeżenia do przeprowadzonego pobrania próbek materiału biologicznego do badań osoby pobierającej próbkę materiału biologicznego oraz funkcjonariusza, od którego pobrano próbkę materiału biologicznego:
 13. Badany został poinformowany o możliwości odmowy złożenia oświadczenia, o którym mowa w pkt 6 i 7.
 1. Wykonano badanie krwi/moczu metodą:

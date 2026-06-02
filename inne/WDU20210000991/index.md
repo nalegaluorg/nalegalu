@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 28 maja 2021 r. zmieniające rozporządzenie w sprawie szpitalnego oddziału ratunkowego
+# Rozporządzenie Ministra Zdrowiaz dnia 28 maja 2021 r. zmieniające rozporządzenie w sprawie szpitalnego oddziału ratunkowego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-28 |
 | Data wydania | 2021-05-31 |
-| Wejście w życie | 2021-06-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000991) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/991/text.pdf) |
 
@@ -33,22 +32,17 @@ W rozporządzeniu Ministra Zdrowia z dnia 27 czerwca 2019 r. w sprawie szpitalne
 1)
 w § 6 w ust. 4 w pkt 1 po wyrazie „nasłuch” dodaje się wyraz „radiowy”;
 2)
-w § 15 pkt 3a-5 otrzymują brzmienie:
-„
+w § 15 pkt 3a-5 otrzymują brzmienie: „
 3a)
 § 6 ust. 4 pkt 3 i ust. 6–15 – do dnia 1 lipca 2021 r.;
 4)
 § 4 ust. 1 pkt 5, § 5 ust. 2 oraz § 6 ust. 4 pkt 4 i 6 – do dnia 1 lipca 2022 r.;
 5)
-§ 3 ust. 7–10 – do dnia 1 lipca 2022 r.
-” ;
+§ 3 ust. 7–10 – do dnia 1 lipca 2022 r. ” ;
 3)
-w § 16 pkt 1 otrzymuje brzmienie:
-„
+w § 16 pkt 1 otrzymuje brzmienie: „
 1)
-30 czerwca 2022 r. ordynatorem oddziału (lekarzem kierującym oddziałem),
-” .
+30 czerwca 2022 r. ordynatorem oddziału (lekarzem kierującym oddziałem), ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 

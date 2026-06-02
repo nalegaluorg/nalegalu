@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-07-17 |
 | Data wydania | 2012-07-17 |
-| Wejście w życie | 2012-08-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000862) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/862/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 11 ust. 7a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 11 ust. 7a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371 oraz z 2012 r. poz. 627, 664 i 769.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa formy kontroli bezpieczeństwa przeprowadzanej przez funkcjonariuszy Straży Granicznej w zasięgu terytorialnym przejścia granicznego oraz w środkach komunikacji międzynarodowej.
 § 2.
@@ -87,5 +86,5 @@ Formami kontroli bezpieczeństwa przeprowadzanej w zasięgu terytorialnym lotnic
 § 5.
 Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 22 września 2005 r. w sprawie form kontroli bezpieczeństwa przeprowadzanej w zasięgu terytorialnym przejścia granicznego oraz w środkach komunikacji międzynarodowej przez funkcjonariuszy Straży Granicznej (Dz. U. Nr 197, poz. 1642).
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371 oraz z 2012 r. poz. 627, 664 i 769.
 

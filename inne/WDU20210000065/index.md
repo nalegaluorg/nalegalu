@@ -32,22 +32,19 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury z dnia 8 kwietnia 2011 r. w sprawie urządzenia do symulowania jazdy w warunkach specjalnych (Dz. U. poz. 444), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury z dnia 10 października 2019 r. zmieniającym rozporządzenie w sprawie urządzenia do symulowania jazdy w warunkach specjalnych (Dz. U. poz. 2018).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 10 października 2019 r. zmieniającego rozporządzenie w sprawie urządzenia do symulowania jazdy w warunkach specjalnych (Dz. U. poz. 2018), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 10 października 2019 r. zmieniającego rozporządzenie w sprawie urządzenia do symulowania jazdy w warunkach specjalnych (Dz. U. poz. 2018), które stanowią: „
 § 2.
 Urządzenia do symulowania jazdy w warunkach specjalnych, spełniające wymagania określone w § 1 pkt 3 oraz w § 2 pkt 1 i 2 w części I. „Ogólne wymagania techniczno-organizacyjne symulatora” w załączniku do rozporządzenia w brzmieniu dotychczasowym, użytkowane lub wprowadzane do obrotu przed dniem wejścia w życie niniejszego rozporządzenia, uznaje się za urządzenia spełniające wymagania określone w niniejszym rozporządzeniu.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Infrastruktury z dnia 8 kwietnia 2011 r. w sprawie urządzenia do symulowania jazdy w warunkach specjalnych
-Na podstawie art. 39g ust. 12 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2019 r. poz. 2140 oraz z 2020 r. poz. 875 i 1087) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Infrastruktury z dnia 8 kwietnia 2011 r. w sprawie urządzenia do symulowania jazdy w warunkach specjalnychMinister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257 oraz z 2020 r. poz. 1722, 1745, 1927 i 2006).
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 24 grudnia 2010 r., pod numerem 2010/0811/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). Na podstawie art. 39g ust. 12 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2019 r. poz. 2140 oraz z 2020 r. poz. 875 i 1087) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa wymagania techniczno-organizacyjne oraz zakres funkcjonalności realizowanej przez urządzenie do symulowania jazdy w warunkach specjalnych, zwane dalej „symulatorem”.
 § 2.
 Wymagania techniczno-organizacyjne oraz zakres funkcjonalności realizowanej przez symulator określa załącznik do rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257 oraz z 2020 r. poz. 1722, 1745, 1927 i 2006). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 24 grudnia 2010 r., pod numerem 2010/0811/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). 3) Rozporządzenie zostało ogłoszone w dniu 18 kwietnia 2011 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 18 kwietnia 2011 r.. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257 oraz z 2020 r. poz. 1722, 1745, 1927 i 2006). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 24 grudnia 2010 r., pod numerem 2010/0811/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę 98/34/WE z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). 3) Rozporządzenie zostało ogłoszone w dniu 18 kwietnia 2011 r.
 Załącznik – Wymagania techniczno-organizacyjne oraz zakres funkcjonalności realizowanej przez symulator
 I.
 Ogólne wymagania techniczno-organizacyjne symulatora
@@ -57,19 +54,19 @@ Symulator powinien spełniać wymagania określone w:
 ustawie z dnia 13 kwietnia 2007 r. o kompatybilności elekromagnetycznej (Dz. U. z 2019 r. poz. 2388);
 2)
 rozporządzeniu Ministra Gospodarki z dnia 21 października 2008 r. w sprawie zasadniczych wymagań dla maszyn (Dz. U. poz. 1228 oraz z 2011 r. poz. 701);
-3)
+3W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury z dnia 10 października 2019 r. zmieniającego rozporządzenie w sprawie urządzenia do symulowania jazdy w warunkach specjalnych (Dz. U. poz. 2018), które weszło w życie z dniem 8 listopada 2019 r.)
 rozporządzeniu Ministra Rozwoju z dnia 2 czerwca 2016 r. w sprawie wymagań dla sprzętu elektrycznego (Dz. U. poz. 806).
 § 2.
 Symulator powinien spełniać wymagania następujących norm:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.)
 przenoszącej normę EN 61010–1:2011;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.)
 przenoszącej normę ISO 7000:2012.
 § 3.
 1.
 System informatyczny symulatora, a w szczególności użyte w nim: wzory znaków i sygnałów drogowych, sytuacje drogowe, rodzaje dróg i zasady ruchu drogowego powinny odpowiadać przepisom określonym w:
 1)
-ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2020 r. poz. 110, z późn. zm.);
+ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2020 r. poz. 110, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 284, 568, 695, 1087 i 1517 oraz z 2021 r. poz. 54.);
 2)
 rozporządzeniu Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. z 2019 r. poz. 2310);
 3)
@@ -264,8 +261,7 @@ wykaz zarejestrowanych nieprawidłowości związanych z obsługą i prowadzeniem
 7)
 automatyczną ocenę wykonanego ćwiczenia;
 8)
-miejsce przeznaczone na wpis indywidualnej opinii instruktora oraz jego ostateczną ocenę wykonanego ćwiczenia.
-Funkcjonalność techniczna symulatora – wymagania techniczne pozwalające na realizację funkcjonalności metodycznej symulatora
+miejsce przeznaczone na wpis indywidualnej opinii instruktora oraz jego ostateczną ocenę wykonanego ćwiczenia. Funkcjonalność techniczna symulatora – wymagania techniczne pozwalające na realizację funkcjonalności metodycznej symulatora
 § 9.
 Właściwa realizacja funkcjonalności metodycznej symulatora jest zapewniana przez:
 1)
@@ -312,8 +308,7 @@ tachograf;
 9)
 pasy bezpieczeństwa;
 10)
-łatwo dostępny i wyraźnie oznaczony awaryjny wyłącznik układu ruchu symulatora.
-Dopuszcza się możliwość adaptacji kabiny i jej wyposażenia w zakresie uwarunkowanym wymaganiami konstrukcyjnymi symulatora, lecz niezmieniającym cech funkcjonalnych w zakresie układów sterowania i pól widzenia.
+łatwo dostępny i wyraźnie oznaczony awaryjny wyłącznik układu ruchu symulatora. Dopuszcza się możliwość adaptacji kabiny i jej wyposażenia w zakresie uwarunkowanym wymaganiami konstrukcyjnymi symulatora, lecz niezmieniającym cech funkcjonalnych w zakresie układów sterowania i pól widzenia.
 2.
 Symulator powinien umożliwiać jazdę z co najmniej 6-biegową ręczną albo automatyczną skrzynią biegów.
 3.
@@ -337,8 +332,7 @@ odgłosy innych pojazdów uczestniczących w ruchu;
 7)
 sygnały dźwiękowe i alarmowe;
 8)
-dźwięki charakterystyczne dla określonych awarii lub niesprawności.
-System powinien umożliwiać osobie szkolonej ocenę kierunku źródła emisji każdego z generowanych dźwięków.
+dźwięki charakterystyczne dla określonych awarii lub niesprawności. System powinien umożliwiać osobie szkolonej ocenę kierunku źródła emisji każdego z generowanych dźwięków.
 § 12.
 1.
 Symulator powinien być wyposażony w komputerowy układ generowania „trójwymiarowego”, barwnego obrazu wirtualnego środowiska widzianego z kabiny symulatora.
@@ -488,6 +482,5 @@ awarii silnika, uniemożliwiającej wytwarzanie efektywnego momentu obrotowego;
 6)
 awarii układów: przeciwdziałającego blokowaniu kół przy hamowaniu, kontroli trakcji oraz stabilizacji toru jazdy pojazdu;
 7)
-komunikatów, ostrzeżeń i usterek tachografu.
-Uwaga! Wszystkie wartości podane w niniejszym załączniku, dotyczące wymienionych w nim wielkości, powinny być określone z dokładnością ± 2,5%.
+komunikatów, ostrzeżeń i usterek tachografu. Uwaga! Wszystkie wartości podane w niniejszym załączniku, dotyczące wymienionych w nim wielkości, powinny być określone z dokładnością ± 2,5%. 4) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury z dnia 10 października 2019 r. zmieniającego rozporządzenie w sprawie urządzenia do symulowania jazdy w warunkach specjalnych (Dz. U. poz. 2018), które weszło w życie z dniem 8 listopada 2019 r. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 284, 568, 695, 1087 i 1517 oraz z 2021 r. poz. 54.
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-05-26 |
 | Data wydania | 2011-06-29 |
-| Wejście w życie | 2011-07-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111340778) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/778/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652, z 2004 r. Nr 6, poz. 41, Nr 93, poz. 895 i Nr 273, poz. 2703, z 2005 r. Nr 203, poz. 1683, z 2006 r. Nr 220, poz. 1600 i Nr 249, poz. 1834, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 171, poz. 1055, z 2009 r. Nr 92, poz. 753 i Nr 98, poz. 817 oraz z 2011 r. Nr 32, poz. 159 i Nr 106, poz. 622.) wprowadza się następujące zmiany:
 
 - **1)** w art. 23: po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
@@ -50,7 +49,7 @@ source: "eli-html"
 6c. Jeżeli w ciągu:
 
 - **1)** 3 lat od dnia, w którym decyzja o pozwoleniu na budowę stała się ostateczna, nie zostanie rozpoczęta budowa sztucznej wyspy, konstrukcji i urządzeń albo
-- **2)** 5 lat od dnia rozpoczęcia budowy nie zostanie podjęte wykorzystywanie sztucznej wyspy, konstrukcji i urządzeń organ, który wydał pozwolenie, o którym mowa w ust. 1, stwierdza, w drodze decyzji, wygaśnięcie tego pozwolenia.
+- **2)** 5 lat od dnia rozpoczęcia budowy nie zostanie podjęte wykorzystywanie sztucznej wyspy, konstrukcji i urządzeń – organ, który wydał pozwolenie, o którym mowa w ust. 1, stwierdza, w drodze decyzji, wygaśnięcie tego pozwolenia.
 
 6d. Organ, który wydał pozwolenie, o którym mowa w ust. 1, może, w drodze decyzji stwierdzić dla całości lub, w przypadku etapowanego przedsięwzięcia, dla części obszaru objętego pozwoleniem, jego wygaśnięcie, jeżeli wznoszenie lub wykorzystywanie sztucznej wyspy, konstrukcji i urządzeń, jest niezgodne z warunkami określonymi w pozwoleniu, jednocześnie nakładając karę pieniężną, o której mowa w art. 55 ust. 2.
 
@@ -65,8 +64,13 @@ source: "eli-html"
 
 - **1)** proponowanej lokalizacji określonej za pomocą współrzędnych geograficznych naniesionych na mapę morską, wyznaczających akwen przeznaczony na realizację i eksploatację przedsięwzięcia;
 - **2)** powierzchni akwenu przeznaczonego na realizację i eksploatację przedsięwzięcia oraz okresu niezbędnego do realizacji i eksploatacji przedsięwzięcia;
-- **3)** charakterystycznych parametrów technicznych i wartości planowanego przedsięwzięcia, łącznie z przedstawieniem etapów i harmonogramu realizacji przedsięwzięcia oraz z przedstawieniem sposobów przekazywania produktu na ląd; ” , w ust. 2: – pkt 3 i 4 otrzymują brzmienie: „ 3) informacje o środowisku znajdującym się w zasięgu oddziaływania planowanego przedsięwzięcia; 4) opis potencjalnych oddziaływań planowanego przedsięwzięcia na środowisko i jego zasoby naturalne zarówno żywe, jak i mineralne oraz ich ocenę; ” , – pkt 7 otrzymuje brzmienie: „ 7) projekt programu monitoringu, w tym monitoringu środowiska i zarządzania procesem inwestycyjnym i eksploatacyjnym; ” , – dodaje się pkt 8 w brzmieniu: „ 8) opis elementów środowiska objętych ochroną na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.), znajdujących się w zasięgu przewidywanego oddziaływania planowanego przedsięwzięcia. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **3)** charakterystycznych parametrów technicznych i wartości planowanego przedsięwzięcia, łącznie z przedstawieniem etapów i harmonogramu realizacji przedsięwzięcia oraz z przedstawieniem sposobów przekazywania produktu na ląd; ” , w ust. 2: pkt 3 i 4 otrzymują brzmienie: „
     - **b)**
+
+- **3)** informacje o środowisku znajdującym się w zasięgu oddziaływania planowanego przedsięwzięcia;
+- **4)** opis potencjalnych oddziaływań planowanego przedsięwzięcia na środowisko i jego zasoby naturalne zarówno żywe, jak i mineralne oraz ich ocenę; ” , pkt 7 otrzymuje brzmienie: „
+- **7)** projekt programu monitoringu, w tym monitoringu środowiska i zarządzania procesem inwestycyjnym i eksploatacyjnym; ” , dodaje się pkt 8 w brzmieniu: „
+- **8)** opis elementów środowiska objętych ochroną na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804 oraz z 2011 r. Nr 34, poz. 170 i Nr 94, poz. 549.), znajdujących się w zasięgu przewidywanego oddziaływania planowanego przedsięwzięcia. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **c)**
 
 2a. Wniosek wraz z załącznikami, o których mowa w ust. 2, należy złożyć w siedmiu egzemplarzach. ” , ust. 3 otrzymuje brzmienie: „
@@ -153,5 +157,5 @@ source: "eli-html"
 
 **Art. 2.** Do postępowań w sprawie wydania pozwoleń, o których mowa w art. 23 ust. 1 ustawy zmienianej w art. 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652, z 2004 r. Nr 6, poz. 41, Nr 93, poz. 895 i Nr 273, poz. 2703, z 2005 r. Nr 203, poz. 1683, z 2006 r. Nr 220, poz. 1600 i Nr 249, poz. 1834, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 171, poz. 1055, z 2009 r. Nr 92, poz. 753 i Nr 98, poz. 817 oraz z 2011 r. Nr 32, poz. 159 i Nr 106, poz. 622. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804 oraz z 2011 r. Nr 34, poz. 170 i Nr 94, poz. 549.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 listopada 2018 r. o europejskich partiach politycznych i europejskich fundacjach politycznych
+# Ustawa z dnia 22 listopada 2018 r. o europejskich partiach politycznych i europejskich fundacjach politycznych Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE, EURATOM) nr 1141/2014 z dnia 22 października 2014 r. w sprawie statusu i finansowania europejskich partii politycznych i europejskich fundacji politycznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,28 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-22 |
 | Data wydania | 2019-01-08 |
-| Wejście w życie | 2019-01-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000037) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/37/text.pdf) |
 
-#### Rozdział 1 Przepisy ogólne
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych oraz ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
+Przepisy ogólne
+Europejska partia polityczna
+Europejska fundacja polityczna
+Zmiany w przepisach i przepis końcowy
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Europejska partia polityczna
+
+#### Rozdział 3 – Europejska fundacja polityczna
+
+#### Rozdział 4 – Zmiany w przepisach i przepis końcowy
+
+#### Rozdział 1
 
 **Art. 1.** Ustawa:
 
-- **1)** reguluje powstanie, organizację, zasady działalności i likwidację europejskiej partii politycznej i europejskiej fundacji politycznej posiadających siedzibę w Rzeczypospolitej Polskiej, w zakresie nieuregulowanym w rozporządzeniu Parlamentu Europejskiego i Rady (UE, EURATOM) nr 1141/2014 z dnia 22 października 2014 r. w sprawie statusu i finansowania europejskich partii politycznych i europejskich fundacji politycznych (Dz. Urz. UE L 317 z 04.11.2014, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem 1141/2014”;
+- **1)** reguluje powstanie, organizację, zasady działalności i likwidację europejskiej partii politycznej i europejskiej fundacji politycznej posiadających siedzibę w Rzeczypospolitej Polskiej, w zakresie nieuregulowanym w rozporządzeniu Parlamentu Europejskiego i Rady (UE, EURATOM) nr 1141/2014 z dnia 22 października 2014 r. w sprawie statusu i finansowania europejskich partii politycznych i europejskich fundacji politycznych (Dz. Urz. UE L 317 z 04.11.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 114 I z 04.05.2018, str. 1., zwanym dalej „rozporządzeniem 1141/2014”;
 - **2)** reguluje zasady działalności na terytorium Rzeczypospolitej Polskiej europejskiej partii politycznej i europejskiej fundacji politycznej posiadających siedzibę w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, w zakresie nieuregulowanym w rozporządzeniu 1141/2014;
 - **3)** określa organy właściwe do wykonywania zadań wynikających z rozporządzenia 1141/2014.
 
@@ -45,7 +58,7 @@ source: "eli-html"
 - **7)** ewidencja – ewidencję partii politycznych, o której mowa w rozdziale 3 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych;
 - **8)** zaświadczenie – dokument, o którym mowa w art. 15 ust. 2 rozporządzenia 1141/2014, potwierdzający, że wnioskodawca spełnia wszystkie odpowiednie krajowe wymogi dotyczące wniosku, a jego statut jest zgodny z przepisami polskiego prawa.
 
-#### Rozdział 2 Europejska partia polityczna
+#### Rozdział 2
 
 **Art. 3.** W zakresie nieuregulowanym w rozporządzeniu 1141/2014 oraz w ustawie do europejskiej partii politycznej posiadającej siedzibę w Rzeczypospolitej Polskiej stosuje się odpowiednio przepisy dotyczące partii politycznej, z wyłączeniem:
 
@@ -73,7 +86,7 @@ source: "eli-html"
 
 **Art. 6.** Sąd właściwy do prowadzenia ewidencji wydaje zaświadczenie niezwłocznie po ustaleniu, że wnioskodawca spełnia wszystkie odpowiednie krajowe wymogi dotyczące wniosku, a jego statut jest zgodny z przepisami polskiego prawa.
 
-**Art. 7.** W zakresie nieuregulowanym w ustawie do postępowania o wydanie zaświadczenia stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm.) o postępowaniu nieprocesowym.
+**Art. 7.** W zakresie nieuregulowanym w ustawie do postępowania o wydanie zaświadczenia stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693, 2385 i 2432.) o postępowaniu nieprocesowym.
 
 **Art. 8.**
 
@@ -121,7 +134,7 @@ source: "eli-html"
 
 **Art. 16.** Do europejskiej partii politycznej posiadającej siedzibę w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, w zakresie, w jakim prowadzi ona działalność na terytorium Rzeczypospolitej Polskiej, stosuje się odpowiednio przepisy dotyczące europejskiej partii politycznej posiadającej siedzibę w Rzeczypospolitej Polskiej, z wyłączeniem art. 4–8 oraz art. 11–15.
 
-#### Rozdział 3 Europejska fundacja polityczna
+#### Rozdział 3
 
 **Art. 17.** W zakresie nieuregulowanym w rozporządzeniu 1141/2014 oraz w ustawie do europejskiej fundacji politycznej posiadającej siedzibę w Rzeczypospolitej Polskiej stosuje się odpowiednio przepisy dotyczące stowarzyszenia, z wyłączeniem:
 
@@ -257,9 +270,9 @@ source: "eli-html"
 
 **Art. 36.** Do europejskiej fundacji politycznej posiadającej siedzibę w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, w zakresie, w jakim prowadzi ona działalność na terytorium Rzeczypospolitej Polskiej, stosuje się odpowiednio przepisy dotyczące europejskiej fundacji politycznej posiadającej siedzibę w Rzeczypospolitej Polskiej, z wyłączeniem art. 18–28 oraz art. 31–35.
 
-#### Rozdział 4 Zmiany w przepisach i przepis końcowy
+#### Rozdział 4
 
-**Art. 37.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2018 r. poz. 1036, z późn. zm.) w art. 17 w ust. 1 pkt 39 otrzymuje brzmienie: „
+**Art. 37.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2018 r. poz. 1036, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215, 2243, 2244, 2245, 2429 i 2500.) w art. 17 w ust. 1 pkt 39 otrzymuje brzmienie: „
 
 - **39)** dochody związków zawodowych, społeczno-zawodowych organizacji rolników, izb rolniczych, izb gospodarczych, organizacji samorządu gospodarczego rzemiosła, spółdzielczych związków rewizyjnych, organizacji pracodawców, partii politycznych, europejskich partii politycznych i europejskich fundacji politycznych, działających na podstawie odrębnych przepisów – w części przeznaczonej na cele statutowe, z wyłączeniem działalności gospodarczej; ” .
 
@@ -270,5 +283,5 @@ source: "eli-html"
 - **2)** po pkt 5 dodaje się pkt 5a w brzmieniu: „
 - **5a)** europejskich fundacji politycznych. ” .
 
-**Art. 39.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 39.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE, EURATOM) nr 1141/2014 z dnia 22 października 2014 r. w sprawie statusu i finansowania europejskich partii politycznych i europejskich fundacji politycznych. 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych oraz ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 114 I z 04.05.2018, str. 1. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693, 2385 i 2432. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215, 2243, 2244, 2245, 2429 i 2500.
 

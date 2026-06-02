@@ -32,12 +32,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 30 października 2008 r. w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Łódź im. Władysława Reymonta (Dz. U. Nr 207, poz. 1300), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów z dnia 20 września 2012 r. zmieniającym rozporządzenie w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Łódź im. Władysława Reymonta (Dz. U. poz. 1089).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 20 września 2012 r. zmieniającego rozporządzenie w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Łódź im. Władysława Reymonta (Dz. U. poz. 1089), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 20 września 2012 r. zmieniającego rozporządzenie w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Łódź im. Władysława Reymonta (Dz. U. poz. 1089), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Tekst jednolity rozporządzenia Ministra Finansów z dnia 30 października 2008 r. w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Łódź im. Władysława Reymonta
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Finansów z dnia 30 października 2008 r. w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Łódź im. Władysława ReymontaMinister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 248, poz. 1481).
 Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2013 r. poz. 727) zarządza się, co następuje:
 § 1.
 1.
@@ -47,9 +45,8 @@ Szczegółowy opis granic i obszar składu wolnocłowego określa załącznik do
 § 2.
 Zarządzającym składem wolnocłowym na terenie Portu Lotniczego Łódź im. Władysława Reymonta ustanawia się Port Lotniczy Łódź im. Władysława Reymonta Spółka z ograniczoną odpowiedzialnością z siedzibą w Łodzi.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 248, poz. 1481). 2) Rozporządzenie zostało ogłoszone w dniu 26 listopada 2008 r.
-Załącznik do rozporządzenia Ministra Finansów z dnia 30 października 2008 r. – Szczegółowy opis granic i obszar składu wolnocłowego na terenie Portu Lotniczego Łódź im. Władysława Reymonta
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 26 listopada 2008 r.. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 248, poz. 1481). 2) Rozporządzenie zostało ogłoszone w dniu 26 listopada 2008 r.
+Załącznik do rozporządzenia Ministra Finansów z dnia 30 października 2008 r. – Szczegółowy opis granic i obszar składu wolnocłowego na terenie Portu Lotniczego Łódź im. Władysława ReymontaW brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów z dnia 20 września 2012 r. zmieniającego rozporządzenie w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Łódź im. Władysława Reymonta (Dz. U. poz. 1089), które weszło w życie z dniem 17 października 2012 r.
 Skład wolnocłowy jest usytuowany na parterze i na pierwszym piętrze Terminalu Pasażerskiego. Z uwagi na usytuowanie składu wolnocłowego wewnątrz budynku, ograniczenie składu stanowią trwałe elementy konstrukcyjne budynku z wyłączeniem przestrzeni wyznaczonej przez linię punktów kontroli bezpieczeństwa wewnątrz pomieszczenia ODL 0.05. Opis przebiegu granic składu wolnocłowego jest przedstawiony na mapie w skali 1:500. Dokument zawierający opis przebiegu granic składu wolnocłowego wraz z mapą jest przechowywany u zarządzającego składem wolnocłowym, a jego kopie w izbie celnej, kierowanej przez właściwego miejscowo dyrektora izby celnej nadzorującego skład wolnocłowy, a także w urzędzie obsługującym ministra właściwego do spraw finansów publicznych. Granicę obszaru składu wolnocłowego na parterze Terminalu Pasażerskiego stanowią następujące odcinki ścian:
 1)
 ściana o długości 36,58 m, wzdłuż pomieszczeń: PLL 0.02, PLL 0.03, PLL 0.04, ODL 0.07-A i ODL 0.05, oddzielająca skład wolnocłowy od przestrzeni nad wjazdem do sortowni bagażu;
@@ -104,8 +101,7 @@ trzy odcinki ściany o długości: 6,35 m, 4,15 m i 1,8 m, wzdłuż pomieszczeni
 26)
 ściana o długości 2,99 m, wzdłuż pomieszczenia ROD 0.05;
 27)
-ściana o długości 66,78 m, z czternastoma otworami drzwiowymi, wzdłuż pomieszczeń: ROD 0.05, ODL 0.011, ODL 0.09, H 0.02, ROD 0.04, PLL 0.01 i PLL 0.02, oddzielająca skład wolnocłowy od płyty postojowej dla samolotów.
-Granicę obszaru składu wolnocłowego na pierwszym piętrze Terminalu Pasażerskiego stanowią następujące odcinki ścian:
+ściana o długości 66,78 m, z czternastoma otworami drzwiowymi, wzdłuż pomieszczeń: ROD 0.05, ODL 0.011, ODL 0.09, H 0.02, ROD 0.04, PLL 0.01 i PLL 0.02, oddzielająca skład wolnocłowy od płyty postojowej dla samolotów. Granicę obszaru składu wolnocłowego na pierwszym piętrze Terminalu Pasażerskiego stanowią następujące odcinki ścian:
 1)
 ściana o długości 35,19 m, oddzielająca skład wolnocłowy od przestrzeni nad wjazdem do sortowni bagażu;
 2)
@@ -123,6 +119,5 @@ dwa odcinki ściany o długości 10,23 m i 1,11 m, wzdłuż pomieszczenia U 1.13
 8)
 ściana o długości 29,23 m, z jednym otworem drzwiowym, wzdłuż pomieszczeń: U 1.12, P 1.09 i U 1.10, oddzielająca skład wolnocłowy od korytarza na taras widokowy;
 9)
-ściana o długości 32,15 m, wzdłuż pomieszczeń: U 1.10, U 1.10A i U 1.11.
-Obszar składu wolnocłowego Obszar składu wolnocłowego wynosi 2704,08 m˛.
+ściana o długości 32,15 m, wzdłuż pomieszczeń: U 1.10, U 1.10A i U 1.11. Obszar składu wolnocłowego Obszar składu wolnocłowego wynosi 2704,08 m˛. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów z dnia 20 września 2012 r. zmieniającego rozporządzenie w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Łódź im. Władysława Reymonta (Dz. U. poz. 1089), które weszło w życie z dniem 17 października 2012 r.
 

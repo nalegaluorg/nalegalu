@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 1 grudnia 2016 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw
+# Ustawa z dnia 1 grudnia 2016 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 13 czerwca 2013 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw oraz ustawę z dnia 23 czerwca 2016 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-01 |
 | Data wydania | 2016-12-08 |
-| Wejście w życie | 2016-12-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001985) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1985/text.pdf) |
 
@@ -124,5 +123,5 @@ source: "eli-html"
 - **1)** ustalenia na rok 2017 części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego;
 - **2)** ustawy budżetowej i uchwał budżetowych na rok 2017.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 13 czerwca 2013 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw oraz ustawę z dnia 23 czerwca 2016 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw.
 

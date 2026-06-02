@@ -22,17 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-07-22 |
 | Data wydania | 2014-07-24 |
-| Wejście w życie | 2014-07-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000975) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/975/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 11a ust. 2 ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2006 r. Nr 17, poz. 127, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 11a ust. 2 ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2006 r. Nr 17, poz. 127, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 171, poz. 1225, z 2007 r. Nr 64, poz. 429, z 2008 r. Nr 145, poz. 916 i Nr 214, poz. 1346, z 2010 r. Nr 47, poz. 278 i Nr 81, poz. 528, z 2011 r. Nr 106, poz. 622, z 2013 r. poz. 1650 oraz z 2014 r. poz. 29.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 października 2010 r. w sprawie wymagań weterynaryjnych przy produkcji mięsa przeznaczonego na użytek własny (Dz. U. Nr 207, poz. 1370 oraz z 2014 r. poz. 356) wprowadza się następujące zmiany:
 1)
-§ 2a otrzymuje brzmienie:
-„
+§ 2a otrzymuje brzmienie: „
 § 2a.
 1.
 Dopuszcza się ubój na terenie gospodarstwa, w celu produkcji mięsa, świń utrzymywanych w gospodarstwie podlegającym ograniczeniom, nakazom lub zakazom, o których mowa w § 2 ust. 1 pkt 2, wydanym w związku z wystąpieniem na terytorium Rzeczypospolitej Polskiej afrykańskiego pomoru świń u dzików lub wystąpieniem afrykańskiego pomoru świń na terytorium państwa trzeciego lub państwa członkowskiego Unii Europejskiej, graniczących z terytorium Rzeczypospolitej Polskiej, pod warunkiem że były one utrzymywane w tym gospodarstwie co najmniej przez 30 dni przed ubojem, a ponadto gdy:
@@ -45,11 +43,9 @@ Próbki do badania laboratoryjnego w kierunku afrykańskiego pomoru świń pobie
 1)
 badania przedubojowego świń albo badania poubojowego mięsa – w przypadku gdy ubój świń jest dokonywany w gospodarstwie położonym na obszarze, o którym mowa w ust. 2 w części II załącznika do decyzji nr 2014/178/UE;
 2)
-badania poubojowego mięsa – w przypadku gdy ubój świń jest dokonywany w gospodarstwie położonym na obszarze, o którym mowa w ust. 2 w części I załącznika do decyzji nr 2014/178/UE, i istnieje podejrzenie wystąpienia afrykańskiego pomoru świń.
-” ;
+badania poubojowego mięsa – w przypadku gdy ubój świń jest dokonywany w gospodarstwie położonym na obszarze, o którym mowa w ust. 2 w części I załącznika do decyzji nr 2014/178/UE, i istnieje podejrzenie wystąpienia afrykańskiego pomoru świń. ” ;
 2)
-§ 8 otrzymuje brzmienie:
-„
+§ 8 otrzymuje brzmienie: „
 § 8.
 1.
 Mięso zwierząt poddanych ubojowi oraz mięso zwierząt łownych odstrzelonych, w celu produkcji mięsa, poddaje się badaniu poubojowemu przeprowadzanemu przez urzędowego lekarza weterynarii, w sposób właściwy dla danego gatunku zwierząt, określony w sekcji IV załącznika I do rozporządzenia nr 854/2004, na wniosek i na koszt:
@@ -62,8 +58,7 @@ W przypadku dokonywania uboju świń, o którym mowa w § 2a, badanie przedubojo
 1)
 z urzędu;
 2)
-na koszt posiadacza mięsa – w przypadku badania poubojowego mięsa.
-” .
+na koszt posiadacza mięsa – w przypadku badania poubojowego mięsa. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 171, poz. 1225, z 2007 r. Nr 64, poz. 429, z 2008 r. Nr 145, poz. 916 i Nr 214, poz. 1346, z 2010 r. Nr 47, poz. 278 i Nr 81, poz. 528, z 2011 r. Nr 106, poz. 622, z 2013 r. poz. 1650 oraz z 2014 r. poz. 29.
 

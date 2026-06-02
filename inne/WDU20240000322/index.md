@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-28 |
 | Data wydania | 2024-03-06 |
-| Wejście w życie | 2024-03-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000322) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/322/text.pdf) |
 
@@ -33,23 +32,17 @@ W rozporządzeniu Rady Ministrów z dnia 28 maja 1996 r. w sprawie przygotowania
 1)
 w § 10:
 a)
-w ust. 1 pkt 2 otrzymuje brzmienie:
-„
+w ust. 1 pkt 2 otrzymuje brzmienie: „
 2)
-kieruje ich na dokształcanie teoretyczne w formie turnusu dokształcania teoretycznego młodocianych, realizowane zgodnie z przepisami w sprawie kształcenia ustawicznego w formach pozaszkolnych, do centrum kształcenia zawodowego, branżowego centrum umiejętności lub do szkoły prowadzącej kształcenie zawodowe, albo
-” ,
+kieruje ich na dokształcanie teoretyczne w formie turnusu dokształcania teoretycznego młodocianych, realizowane zgodnie z przepisami w sprawie kształcenia ustawicznego w formach pozaszkolnych, do centrum kształcenia zawodowego, branżowego centrum umiejętności lub do szkoły prowadzącej kształcenie zawodowe, albo ” ,
 b)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Młodocianym zatrudnionym w celu nauki zawodu i dokształcającym się w formie turnusu dokształcania teoretycznego młodocianych w centrum kształcenia zawodowego, branżowym centrum umiejętności lub w szkole prowadzącej kształcenie zawodowe, które znajdują się w innej miejscowości niż miejsce zamieszkania i miejsce pracy młodocianych, pracodawca może sfinansować koszty dojazdu do centrum kształcenia zawodowego, branżowego centrum umiejętności lub szkoły prowadzącej kształcenie zawodowe i koszty pobytu w nich.
-” ;
+Młodocianym zatrudnionym w celu nauki zawodu i dokształcającym się w formie turnusu dokształcania teoretycznego młodocianych w centrum kształcenia zawodowego, branżowym centrum umiejętności lub w szkole prowadzącej kształcenie zawodowe, które znajdują się w innej miejscowości niż miejsce zamieszkania i miejsce pracy młodocianych, pracodawca może sfinansować koszty dojazdu do centrum kształcenia zawodowego, branżowego centrum umiejętności lub szkoły prowadzącej kształcenie zawodowe i koszty pobytu w nich. ” ;
 2)
-w § 11 ust. 3 otrzymuje brzmienie:
-„
+w § 11 ust. 3 otrzymuje brzmienie: „
 3.
-Młodociany zatrudniony u pracodawcy niebędącego rzemieślnikiem dokształcający się u pracodawcy albo na turnusie dokształcania teoretycznego młodocianych organizowanym przez centrum kształcenia zawodowego, branżowe centrum umiejętności lub szkołę prowadzącą kształcenie zawodowe zdaje egzamin eksternistyczny zawodowy, przeprowadzany przez okręgową komisję egzaminacyjną, zgodnie z przepisami rozdziału 3b ustawy z dnia 7 września 1991 r. o systemie oświaty.
-” .
+Młodociany zatrudniony u pracodawcy niebędącego rzemieślnikiem dokształcający się u pracodawcy albo na turnusie dokształcania teoretycznego młodocianych organizowanym przez centrum kształcenia zawodowego, branżowe centrum umiejętności lub szkołę prowadzącą kształcenie zawodowe zdaje egzamin eksternistyczny zawodowy, przeprowadzany przez okręgową komisję egzaminacyjną, zgodnie z przepisami rozdziału 3b ustawy z dnia 7 września 1991 r. o systemie oświaty. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

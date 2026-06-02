@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 30 czerwca 2022 r. zmieniające rozporządzenie w sprawie należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej
+# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 30 czerwca 2022 r. zmieniające rozporządzenie w sprawie należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-06-30 |
 | Data wydania | 2022-07-13 |
-| Wejście w życie | 2022-07-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001481) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1481/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320, z 2021 r. poz. 1162 oraz z 2022 r. poz. 655) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 29 stycznia 2013 r. w sprawie należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej (Dz. U. poz. 167) w § 7 ust. 1 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 29 stycznia 2013 r. w sprawie należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej (Dz. U. poz. 167) w § 7 ust. 1 otrzymuje brzmienie: „
 1.
-Dieta w czasie podróży krajowej jest przeznaczona na pokrycie zwiększonych kosztów wyżywienia i wynosi 38 zł za dobę podróży.
-” .
+Dieta w czasie podróży krajowej jest przeznaczona na pokrycie zwiększonych kosztów wyżywienia i wynosi 38 zł za dobę podróży. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416).
 

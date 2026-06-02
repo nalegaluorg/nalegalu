@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy – Kodeks karny skarbowy oraz niektórych innych ustaw
+# Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy – Kodeks karny skarbowy oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 listopada 1990 r. o paszportach, ustawę z dnia 29 lipca 1992 r. o grach i zakładach wzajemnych, ustawę z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych oraz ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-28 |
 | Data wydania | 2005-09-16 |
-| Wejście w życie | 2005-12-17 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051781479) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1479/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. Nr 83, poz. 930, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. Nr 83, poz. 930, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 703 i Nr 62, poz. 717, z 2001 r. Nr 11, poz. 82 i Nr 106, poz. 1149, z 2002 r. Nr 41, poz. 365, Nr 74, poz. 676, Nr 89, poz. 804, Nr 141, poz. 1178 i Nr 213, poz. 1803, z 2003 r. Nr 84, poz. 774, Nr 137, poz. 1302 i Nr 162, poz. 1569, z 2004 r. Nr 29, poz. 257, Nr 68, poz. 623, Nr 93, poz. 894, Nr 97, poz. 963 i Nr 173, poz. 1808 oraz z 2005 r. Nr 130, poz. 1090, Nr 143, poz. 1199 i Nr 177, poz. 1468.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 § 6 otrzymuje brzmienie: „
 
@@ -1314,15 +1313,15 @@ source: "eli-html"
 
 1. Osoby fizyczne będące wspólnikami spółki prowadzącej działalność w zakresie gier i zakładów wzajemnych, o których mowa w art. 5 ust. 1, przedstawiające sobą jedną setną kapitału, oraz osoby fizyczne będące członkami władz (zarządu, rady nadzorczej) spółki ubiegającej się o zezwolenie, a także osoby fizyczne zarządzające podmiotem lub reprezentujące podmiot ubiegający się o zezwolenie na urządzanie loterii fantowych i gry bingo fantowe powinny posiadać nienaganną opinię, w szczególności muszą przedstawić zaświadczenie, że nie były skazane prawomocnym wyrokiem za popełnione umyślnie przestępstwo lub przestępstwo skarbowe. ” .
 
-**Art. 4.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.) po art. 69d dodaje się art. 69e w brzmieniu: „
+**Art. 4.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722 oraz z 2005 Nr 167, poz. 1400 i Nr 169, poz. 1418.) po art. 69d dodaje się art. 69e w brzmieniu: „
 
 **Art. 69e.** Kto składa fałszywe oświadczenie w celu wyłudzenia od Skarbu Państwa nieodpłatnie zbywanych akcji spółek należących do Skarbu Państwa, innych papierów wartościowych lub innego świadczenia określonego w przepisach o prywatyzacji mienia Skarbu Państwa, do którego otrzymania nie jest uprawniony, podlega karze grzywny albo karze aresztu, albo obu tym karom łącznie. ” .
 
-**Art. 5.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.) w art. 115 w § 13 pkt 3 otrzymuje brzmienie: „
+**Art. 5.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426 oraz z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109 i Nr 163, poz. 1363.) w art. 115 w § 13 pkt 3 otrzymuje brzmienie: „
 
 - **3)** sędzia, ławnik, prokurator, funkcjonariusz finansowego organu postępowania przygotowawczego lub organu nadrzędnego nad finansowym organem postępowania przygotowawczego, notariusz, komornik, kurator sądowy, osoba orzekająca w organach dyscyplinarnych działających na podstawie ustawy, ” .
 
-**Art. 6.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641 oraz z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363 i Nr 169, poz. 1416.) wprowadza się następujące zmiany:
 
 - **1)** w art. 309 pkt 3 otrzymuje brzmienie: „
 - **3)** o występki – gdy osobą podejrzaną jest funkcjonariusz Straży Granicznej, Żandarmerii Wojskowej, finansowego organu postępowania przygotowawczego lub organu nadrzędnego nad finansowym organem postępowania przygotowawczego, w zakresie spraw należących do właściwości tych organów lub o występki popełnione przez tych funkcjonariuszy w związku z wykonywaniem czynności służbowych, ” ;
@@ -1339,7 +1338,7 @@ source: "eli-html"
 § 3. Określonego w § 1 zakazu orzekania na niekorzyść oskarżonego nie stosuje się w wypadkach określonych w art. 60 § 3 i 4 Kodeksu karnego lub w art. 36 § 3 Kodeksu karnego skarbowego oraz w wypadkach skazania z zastosowaniem art. 343 lub art. 387 Kodeksu postępowania karnego albo art. 156 Kodeksu karnego skarbowego. ” ;
 
 - **5)** w art. 540a pkt 1 otrzymuje brzmienie: „
-- **1)** skazany, do którego zastosowano przepis art. 60 § 3 lub 4 Kodeksu karnego lub art. 36 § 3 Kodeksu karnego skarbowego, nie potwierdził w postępowaniu karnym ujawnionych przez siebie informacji. ” . W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.) wprowadza się następujące zmiany:
+- **1)** skazany, do którego zastosowano przepis art. 60 § 3 lub 4 Kodeksu karnego lub art. 36 § 3 Kodeksu karnego skarbowego, nie potwierdził w postępowaniu karnym ujawnionych przez siebie informacji. ” . W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676, Nr 121, poz. 1033 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703 oraz z 2005 r. Nr 163, poz. 1363.) wprowadza się następujące zmiany:
 - **1)** w art. 29a § 2 otrzymuje brzmienie: „
 
 § 2. Osoba fizyczna, w stosunku do której działa domniemanie ustanowione w art. 45 § 4 Kodeksu karnego lub w art. 33 § 4 Kodeksu karnego skarbowego, może wnosić o wyłączenie z jego zakresu przedmiotów majątkowych, których łączna wartość według oszacowania organu egzekucyjnego nie przekracza przeciętnego sześciomiesięcznego dochodu tej osoby; wniosek o wyłączenie zgłasza się do tego organu. ” ;
@@ -1348,11 +1347,11 @@ source: "eli-html"
 
 § 1. Pozew przeciwko Skarbowi Państwa o obalenie domniemania ustanowionego w art. 45 § 4 Kodeksu karnego lub w art. 33 § 4 Kodeksu karnego skarbowego jest tymczasowo wolny od opłat sądowych, a w razie oddalenia powództwa powód jest obowiązany uiścić opłaty na zasadach ogólnych. ” .
 
-**Art. 8.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.) w art. 13 w § 2 pkt 2 otrzymuje brzmienie: „
+**Art. 8.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703 oraz z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398 i Nr 169, poz. 1410, 1413 i 1417.) w art. 13 w § 2 pkt 2 otrzymuje brzmienie: „
 
 - **2)** o wykroczenia skarbowe oraz o przestępstwa skarbowe, z wyjątkiem spraw podlegających rozpoznaniu w postępowaniu zwyczajnym, ” .
 
-**Art. 9.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 9.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 93, poz. 889, Nr 191, poz. 1956 i Nr 243, poz. 2442 oraz z 2005 r. Nr 157, poz. 1316.) wprowadza się następujące zmiany:
 
 - **1)** w art. 11 ust. 1 otrzymuje brzmienie: „
 
@@ -1377,5 +1376,5 @@ source: "eli-html"
 
 **Art. 15.** W razie wątpliwości, czy stosować prawo dotychczasowe, czy przepisy niniejszej ustawy, stosuje się tę ustawę.
 
-**Art. 16.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 16.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 listopada 1990 r. o paszportach, ustawę z dnia 29 lipca 1992 r. o grach i zakładach wzajemnych, ustawę z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych oraz ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 703 i Nr 62, poz. 717, z 2001 r. Nr 11, poz. 82 i Nr 106, poz. 1149, z 2002 r. Nr 41, poz. 365, Nr 74, poz. 676, Nr 89, poz. 804, Nr 141, poz. 1178 i Nr 213, poz. 1803, z 2003 r. Nr 84, poz. 774, Nr 137, poz. 1302 i Nr 162, poz. 1569, z 2004 r. Nr 29, poz. 257, Nr 68, poz. 623, Nr 93, poz. 894, Nr 97, poz. 963 i Nr 173, poz. 1808 oraz z 2005 r. Nr 130, poz. 1090, Nr 143, poz. 1199 i Nr 177, poz. 1468. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722 oraz z 2005 Nr 167, poz. 1400 i Nr 169, poz. 1418. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426 oraz z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109 i Nr 163, poz. 1363. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641 oraz z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363 i Nr 169, poz. 1416. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676, Nr 121, poz. 1033 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703 oraz z 2005 r. Nr 163, poz. 1363. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703 oraz z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398 i Nr 169, poz. 1410, 1413 i 1417. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 93, poz. 889, Nr 191, poz. 1956 i Nr 243, poz. 2442 oraz z 2005 r. Nr 157, poz. 1316.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-24 |
 | Data wydania | 2017-03-02 |
-| Wejście w życie | 2017-03-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000462) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/462/text.pdf) |
 
@@ -73,7 +72,7 @@ Wzór kwestionariusza informacji jest określony w załączniku do rozporządzen
 § 8.
 Uzyskiwanie informacji przez komendanta wojewódzkiego Policji o osobie ubiegającej się o zatrudnienie na stanowisku asystenta prokuratora rozpoczęte i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia odbywa się na podstawie przepisów dotychczasowych.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 4 marca 2017 r.
+Rozporządzenie wchodzi w życie z dniem 4 marca 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 28 stycznia 2008 r. w sprawie szczegółowego sposobu i trybu uzyskiwania informacji o osobie ubiegającej się o zatrudnienie na stanowisku asystenta prokuratora (Dz. U. poz. 141), które traci moc na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178 i 2103) z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 28 stycznia 2008 r. w sprawie szczegółowego sposobu i trybu uzyskiwania informacji o osobie ubiegającej się o zatrudnienie na stanowisku asystenta prokuratora (Dz. U. poz. 141), które traci moc na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178 i 2103) z dniem wejścia w życie niniejszego rozporządzenia.
 Załącznik – Kwestionariusz informacji o osobie ubiegającej się o zatrudnienie na stanowisku asystenta prokuratora (wzór)
 Oznaczenie podmiotu, któremu zlecono przeprowadzenie wywiadu środowiskowego ... Imię i nazwisko funkcjonariusza Policji przeprowadzającego wywiad środowiskowy ... Sygnatura akt sprawy, w której zarządzono przeprowadzenie wywiadu środowiskowego, oraz data i miejsce jego przeprowadzenia ...
 I.

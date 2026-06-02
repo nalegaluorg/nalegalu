@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-02-19 |
 | Data wydania | 2016-03-03 |
-| Wejście w życie | 2016-03-04 |
 | Ostatnia zmiana | 2026-03-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000270) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/270/text.pdf) |
 
@@ -997,5 +996,5 @@ Prokuraturę Rejonową w Żaganiu dla miast Gozdnica i Żagań oraz gmin: Brzeź
 g)
 Prokuraturę Rejonową w Żarach dla miast Łęknica i Żary oraz gmin: Brody, Jasień, Lipinki Łużyckie, Lubsko, Przewóz, Trzebiel, Tuplice i Żary.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 4 marca 2016 r.
+Rozporządzenie wchodzi w życie z dniem 4 marca 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 25 marca 2010 r. w sprawie utworzenia prokuratur apelacyjnych, okręgowych i rejonowych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. z 2014 r. poz. 1792 oraz z 2015 r. poz. 604, 884 i 2340), które traci moc z dniem wejścia w życie ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. poz. 177). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 25 marca 2010 r. w sprawie utworzenia prokuratur apelacyjnych, okręgowych i rejonowych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. z 2014 r. poz. 1792 oraz z 2015 r. poz. 604, 884 i 2340), które traci moc z dniem wejścia w życie ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. poz. 177).
 

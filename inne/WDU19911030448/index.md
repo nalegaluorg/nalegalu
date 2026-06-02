@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1991-10-11 |
 | Data wydania | 1991-11-14 |
-| Wejście w życie | 1991-11-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911030448) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/448/text.pdf) |
 
@@ -86,8 +85,10 @@ source: "eli-html"
 
 3. Zasiłek pogrzebowy przysługuje w wysokości określonej w przepisach emerytalnych. ” ,
 
-- **14)** w art. 54: w ust. 1: – w pkt 1 przecinek zastępuje się myślnikiem i dodaje się wyrazy „na zasadach i w wysokości określonych w ust. 2–4 i w przepisach wydanych na podstawie ust. 5,”, – pkt 2 otrzymuje brzmienie: „ 2) zasiłki pielęgnacyjne – na zasadach i w wysokości określonych w przepisach regulujących zasiłki pielęgnacyjne dla pracowników. ” , ust. 2 otrzymuje brzmienie: „
+- **14)** w art. 54: w ust. 1: – w pkt 1 przecinek zastępuje się myślnikiem i dodaje się wyrazy „na zasadach i w wysokości określonych w ust. 2–4 i w przepisach wydanych na podstawie ust. 5,”, pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** zasiłki pielęgnacyjne – na zasadach i w wysokości określonych w przepisach regulujących zasiłki pielęgnacyjne dla pracowników. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Zasiłek przewidziany w ust. 1 pkt 1 przysługuje ubezpieczonemu, jeżeli łączna kwota podatku rolnego i podatku dochodowego z działów specjalnych za okres pierwszego półrocza, podzielona przez liczbę osób, dla których dane gospodarstwo rolne stanowi podstawę utrzymania, nie przekracza kwoty podatku rolnego z dwóch hektarów przeliczeniowych, obowiązującej w tym półroczu. ” , dodaje się ust. 3–5 w brzmieniu: „

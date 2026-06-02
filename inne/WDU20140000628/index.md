@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-05-09 |
 | Data wydania | 2014-05-16 |
-| Wejście w życie | 2014-05-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000628) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/628/text.pdf) |
 
@@ -69,7 +68,7 @@ innych przedsięwzięć niezbędnych do realizacji szkolenia sportowego;
 10)
 kosztów pośrednich.
 § 4.
-Dofinansowania realizacji zadania udziela się po przeprowadzeniu otwartego konkursu, o którym mowa w art. 11 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm.), z uwzględnieniem przepisów niniejszego rozporządzenia.
+Dofinansowania realizacji zadania udziela się po przeprowadzeniu otwartego konkursu, o którym mowa w art. 11 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378 oraz z 2014 r. poz. 223 i 498.), z uwzględnieniem przepisów niniejszego rozporządzenia.
 § 5.
 1.
 Wniosek o dofinansowanie realizacji zadania, zwany dalej „wnioskiem”, powinien zawierać:
@@ -146,5 +145,5 @@ Osiągnięte przez wnioskodawcę dochody z tytułu kar umownych powinny być zwr
 § 10.
 Wnioskodawca realizujący zadanie może przeznaczyć na koszty pośrednie nie więcej niż 10% kosztów bezpośrednich związanych z realizacją zadania, dofinansowanych ze środków Funduszu, w tym na wynagrodzenia osób obsługujących to zadanie. Wysokość kosztów pośrednich pokrywanych ze środków Funduszu ustala się, po ich szczegółowej analizie, w drodze negocjacji przed zawarciem umowy, z uwzględnieniem rodzaju i specyfiki zadania.
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378 oraz z 2014 r. poz. 223 i 498.
 

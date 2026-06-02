@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Energiiz dnia 16 marca 2017 r. w sprawie ratownictwa górniczego
+# Rozporządzenie Ministra Energiiz dnia 16 marca 2017 r. w sprawie ratownictwa górniczego Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,24 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-16 |
 | Data wydania | 2017-05-31 |
-| Wejście w życie | 2017-07-01 |
 | Ostatnia zmiana | 2025-10-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001052) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1052/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Organizacja, szczegółowe zadania i wymagania dla służb ratownictwa górniczego przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym Rozdział 3 – Szczegółowe wymagania dotyczące specjalistycznych badań lekarskich, specjalistycznych badań psychologicznych oraz specjalistycznych szkoleń w zakresie ratownictwa górniczego, w tym przypadki, w których te szkolenia są przeprowadzane przez przedsiębiorcę Rozdział 4 – Szczegółowe wymagania dotyczące dokumentacji w zakresie ratownictwa górniczego oraz planu ratownictwa górniczego Rozdział 5 – Sposoby współpracy przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownic twem górniczym Rozdział 6 – Przypadki, w których wykonuje się prace profilaktyczne. Sposób prowadzenia akcji ratowniczych w zależności od rodzaju i natężeń zagrożeń występujących w zakładzie górniczym Rozdział 7 – Przepisy przejściowe i przepis końcowy
+Treść rozporządzenia
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Organizacja, szczegółowe zadania i wymagania dla służb ratownictwa górniczego przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym
+
+#### Rozdział 3 – Szczegółowe wymagania dotyczące specjalistycznych badań lekarskich, specjalistycznych badań psychologicznych oraz specjalistycznych szkoleń w zakresie ratownictwa górniczego, w tym przypadki, w których te szkolenia są przeprowadzane przez przedsiębiorcę
+
+#### Rozdział 4 – Szczegółowe wymagania dotyczące dokumentacji w zakresie ratownictwa górniczego oraz planu ratownictwa górniczego
+
+#### Rozdział 5 – Sposoby współpracy przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownic twem górniczym
+
+#### Rozdział 6 – Przypadki, w których wykonuje się prace profilaktyczne. Sposób prowadzenia akcji ratowniczych w zależności od rodzaju i natężeń zagrożeń występujących w zakładzie górniczym
+
+#### Rozdział 7 – Przepisy przejściowe i przepis końcowy
 
 ## Załącznik nr 1 — – Szczegółowe wymagania dotyczące specjalistycznych badań lekarskich i specjalistycznych badań psychologicznych
 
@@ -37,8 +50,9 @@ Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Organiz
 ## Załącznik nr 4 — – Szczegółowy sposób stosowania gazów inertnych
 
 Treść rozporządzenia
-Na podstawie art. 124 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2016 r. poz. 1131 i 1991 oraz z 2017 r. poz. 60 i 202) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża: 1) dyrektywę Rady 92/91/EWG z dnia 3 listopada 1992 r. dotyczącą minimalnych wymagań mających na celu poprawę warunków bezpieczeństwa i ochrony zdrowia pracowników w zakładach górniczych wydobywających kopaliny otworami wiertniczymi (jedenasta szczegółowa dyrektywa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 348 z 28.11.1992, str. 9, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 118, z późn. zm.); 2) dyrektywę Rady 92/104/EWG z dnia 3 grudnia 1992 r. w sprawie minimalnych wymagań w zakresie poprawy bezpieczeństwa i ochrony zdrowia pracowników odkrywkowego i podziemnego przemysłu wydobywczego (dwunasta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 404 z 31.12.1992, str. 10, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 134, z późn. zm.). Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 20 maja 2015 r. pod numerem 2015/258/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597). Na podstawie art. 124 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2016 r. poz. 1131 i 1991 oraz z 2017 r. poz. 60 i 202) zarządza się, co następuje:
+Rozdział 1
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -73,7 +87,8 @@ system niezwłocznego powiadamiania – zestaw urządzeń i łączy służący d
 dyżurujący zastęp ratowniczy – wyznaczony przez kierownika kopalnianej stacji ratownictwa górniczego lub kierownika jednostki ratownictwa zastęp ratowniczy, wyposażony w sprzęt umożliwiający natychmiastowy udział w akcji ratowniczej.
 § 4.
 Przedsiębiorca może zasięgać opinii związków zawodowych ratowników górniczych w przypadku organizowania stałej współpracy służb ratownictwa ze służbami ratownictwa innego przedsiębiorcy.
-Rozdział 2 Organizacja, szczegółowe zadania i wymagania dla służb ratownictwa górniczego przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym
+Rozdział 2
+Organizacja, szczegółowe zadania i wymagania dla służb ratownictwa górniczego przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym
 § 5.
 1.
 Jednostką organizacyjną służby ratownictwa górniczego przedsiębiorcy jest drużyna ratownicza.
@@ -594,7 +609,8 @@ przeprowadzają szkolenia medyczne ratowników górniczych.
 W jednostce ratownictwa dla zakładów górniczych wydobywających kopaliny otworami wiertniczymi pomoc medyczna ratownictwa górniczego może być zorganizowana w porozumieniu ze służbą medyczną zakładu górniczego lub z inną jednostką opieki zdrowotnej.
 § 50.
 Przepisy § 46, § 47 oraz § 49 stosuje się do jednostek ratownictwa dla zakładów górniczych prowadzących podziemne bezzbiornikowe magazynowanie substancji lub podziemne składowanie odpadów metodą otworową.
-Rozdział 3 Szczegółowe wymagania dotyczące specjalistycznych badań lekarskich, specjalistycznych badań psychologicznych oraz specjalistycznych szkoleń w zakresie ratownictwa górniczego, w tym przypadki, w których te szkolenia są przeprowadzane przez przedsiębiorcę
+Rozdział 3
+Szczegółowe wymagania dotyczące specjalistycznych badań lekarskich, specjalistycznych badań psychologicznych oraz specjalistycznych szkoleń w zakresie ratownictwa górniczego, w tym przypadki, w których te szkolenia są przeprowadzane przez przedsiębiorcę
 § 51.
 1.
 Przedsiębiorca zapewnia kandydatom na ratowników górniczych i ratownikom górniczym oraz ratownikom górniczym zespołów specjalistycznych przeprowadzanie specjalistycznych badań lekarskich i psychologicznych w celu stwierdzenia ich przydatności do służby w ratownictwie górniczym.
@@ -819,8 +835,7 @@ kopalnianej stacji ratownictwa górniczego,
 4)
 akcji ratowniczej i dyspozytorów ruchu,
 5)
-sztabu akcji
-nie uczestniczą w kursach dla osób dozoru niewchodzących w skład drużyn ratowniczych.
+sztabu akcji – nie uczestniczą w kursach dla osób dozoru niewchodzących w skład drużyn ratowniczych.
 § 61.
 W zakładach poszukujących węglowodorów oraz w zakładach górniczych wydobywających kopaliny otworami wiertniczymi osoby kierownictwa i dozoru ruchu o specjalności wiertniczej odbywają co dwa lata szkolenia z zakresu opanowywania erupcji płynu złożowego.
 § 62.
@@ -883,7 +898,8 @@ na wiertni szkoleniowej, stanowisku do ćwiczeń oraz symulatorze erupcji w zak�
 na otworze ćwiczebnym w zakładach górniczych wydobywających siarkę metodą otworową.
 12.
 Tematykę prowadzonych zajęć teoretycznych i praktycznych w trakcie ćwiczeń okresowych dostosowuje się do rodzaju zakładów górniczych i występujących w nich zagrożeń.
-Rozdział 4 Szczegółowe wymagania dotyczące dokumentacji w zakresie ratownictwa górniczego oraz planu ratownictwa górniczego
+Rozdział 4
+Szczegółowe wymagania dotyczące dokumentacji w zakresie ratownictwa górniczego oraz planu ratownictwa górniczego
 § 65.
 Szczegółowe wymagania dotyczące dokumentacji w zakresie ratownictwa górniczego określa załącznik nr 2 do rozporządzenia.
 § 66.
@@ -933,7 +949,8 @@ d)
 dokumentacji prowadzenia akcji ratowniczej.
 § 67.
 Kierownik ruchu zakładu górniczego ustala sposób i zakres zapoznawania osób kierownictwa i dozoru ruchu zakładu górniczego z planem ratownictwa górniczego oraz wprowadzonymi w nim zmianami.
-Rozdział 5 Sposoby współpracy przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownic twem górniczym
+Rozdział 5
+Sposoby współpracy przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownic twem górniczym
 § 68.
 1.
 Jeżeli zawarto umowę, o której mowa w art. 122 ust. 15 ustawy, zwaną dalej „umową”, z podmiotem zawodowo trudniącym się ratownictwem górniczym:
@@ -976,7 +993,8 @@ współpracuje z kierownikiem akcji ratowniczej i członkami sztabu akcji ratown
 doradza w zakresie zabezpieczenia medycznego akcji ratowniczej;
 3)
 koordynuje pracę pracowników jednostki ratownictwa biorących udział w akcji ratowniczej.
-Rozdział 6 Przypadki, w których wykonuje się prace profilaktyczne. Sposób prowadzenia akcji ratowniczych w zależności od rodzaju i natężeń zagrożeń występujących w zakładzie górniczym
+Rozdział 6
+Przypadki, w których wykonuje się prace profilaktyczne. Sposób prowadzenia akcji ratowniczych w zależności od rodzaju i natężeń zagrożeń występujących w zakładzie górniczym
 § 71.
 1.
 Prace profilaktyczne wykonuje się w przypadku:
@@ -1574,8 +1592,7 @@ prowadzącym podziemne bezzbiornikowe magazynowanie substancji,
 3)
 prowadzącym podziemne składowanie odpadów metodą otworową,
 4)
-prowadzącym podziemne składowanie dwutlenku węgla
-kierownik akcji ratowniczej może ustalić sprzęt ochrony układu oddechowego stosowany w trakcie wykonywania prac ratowniczych inny niż wymieniony w ust. 1.
+prowadzącym podziemne składowanie dwutlenku węgla – kierownik akcji ratowniczej może ustalić sprzęt ochrony układu oddechowego stosowany w trakcie wykonywania prac ratowniczych inny niż wymieniony w ust. 1.
 § 106.
 1.
 W podziemnym zakładzie górniczym zastęp ratowniczy wyruszający z bazy ratowniczej do miejsca wykonywania prac ratowniczych w atmosferze niezdatnej do oddychania wyposaża się, oprócz sprzętu, o którym mowa w § 105, także w:
@@ -1596,8 +1613,7 @@ prowadzących podziemne bezzbiornikowe magazynowanie substancji,
 3)
 prowadzących podziemne składowanie odpadów metodą otworową,
 4)
-prowadzących podziemne składowanie dwutlenku węgla
-zastęp ratowniczy wyruszający z bazy ratowniczej do miejsca wykonywania prac ratowniczych w aparatach powietrznych butlowych lub aparatach regeneracyjnych wyposaża się także w odzież ochronną, sprzęt kontrolno-pomiarowy, narzędzia i inne środki potrzebne do wykonania zadania, ustalone przez kierownika akcji ratowniczej.
+prowadzących podziemne składowanie dwutlenku węgla – zastęp ratowniczy wyruszający z bazy ratowniczej do miejsca wykonywania prac ratowniczych w aparatach powietrznych butlowych lub aparatach regeneracyjnych wyposaża się także w odzież ochronną, sprzęt kontrolno-pomiarowy, narzędzia i inne środki potrzebne do wykonania zadania, ustalone przez kierownika akcji ratowniczej.
 § 107.
 1.
 Ratownicy górniczy przed wyjściem z bazy ratowniczej do strefy zagrożenia kontrolują sprawność aparatów regeneracyjnych lub powietrznych butlowych, zgodnie z instrukcją ich używania.
@@ -1637,7 +1653,8 @@ zastępowy, po wyjściu zastępu ratowniczego ze strefy zagrożenia i po zdjęci
 kierownik bazy ratowniczej zabezpiecza i przekazuje do kopalnianej stacji ratownictwa górniczego lub jednostki ratownictwa aparat regeneracyjny lub powietrzny butlowy poszkodowanego, wraz z przyłączoną do niego maską twarzową używaną w trakcie wypadku;
 3)
 aparat, wraz z maską twarzową, a w przypadku aparatu regeneracyjnego – również z pochłaniaczem CO2, do czasu przekazania specjalistycznej jednostce jest zabezpieczony przez kierownika kopalnianej stacji ratownictwa górniczego lub jednostki ratownictwa w zamkniętym pomieszczeniu.
-Rozdział 7 Przepisy przejściowe i przepis końcowy
+Rozdział 7
+Przepisy przejściowe i przepis końcowy
 § 113.
 1.
 Opracowane na podstawie dotychczasowych przepisów dokumenty dotyczące ratownictwa górniczego, takie jak:
@@ -1708,15 +1725,13 @@ pracach profilaktycznych,
 7)
 karta ratownika górniczego,
 8)
-zobowiązanie kandydata na ratownika górniczego
-zachowują moc, nie dłużej jednak niż przez okres 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
+zobowiązanie kandydata na ratownika górniczego – zachowują moc, nie dłużej jednak niż przez okres 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 2.
 Świadectwa odbycia specjalistycznych szkoleń i kursów, wydane na podstawie przepisów dotychczasowych, zachowują moc przez okres w nich oznaczony.
 3.
 Zaświadczenia lekarskie potwierdzające zdolność do wykonywania pracy ratownika górniczego, wydane na podstawie przepisów dotychczasowych, zachowują moc przez okres w nich oznaczony.
 § 114.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża: 1) dyrektywę Rady 92/91/EWG z dnia 3 listopada 1992 r. dotyczącą minimalnych wymagań mających na celu poprawę warunków bezpieczeństwa i ochrony zdrowia pracowników w zakładach górniczych wydobywających kopaliny otworami wiertniczymi (jedenasta szczegółowa dyrektywa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 348 z 28.11.1992, str. 9, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 118, z późn. zm.); 2) dyrektywę Rady 92/104/EWG z dnia 3 grudnia 1992 r. w sprawie minimalnych wymagań w zakresie poprawy bezpieczeństwa i ochrony zdrowia pracowników odkrywkowego i podziemnego przemysłu wydobywczego (dwunasta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 404 z 31.12.1992, str. 10, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 134, z późn. zm.). 3) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 20 maja 2015 r. pod numerem 2015/258/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597). 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 12 czerwca 2002 r. w sprawie ratownictwa górniczego (Dz. U. poz. 838, z 2004 r. poz. 1073 oraz z 2007 r. poz. 1476), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 224 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2016 r. poz. 1131 i 1991 oraz z 2017 r. poz. 60 i 202).
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 12 czerwca 2002 r. w sprawie ratownictwa górniczego (Dz. U. poz. 838, z 2004 r. poz. 1073 oraz z 2007 r. poz. 1476), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 224 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2016 r. poz. 1131 i 1991 oraz z 2017 r. poz. 60 i 202). 1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża: 1) dyrektywę Rady 92/91/EWG z dnia 3 listopada 1992 r. dotyczącą minimalnych wymagań mających na celu poprawę warunków bezpieczeństwa i ochrony zdrowia pracowników w zakładach górniczych wydobywających kopaliny otworami wiertniczymi (jedenasta szczegółowa dyrektywa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 348 z 28.11.1992, str. 9, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 118, z późn. zm.); 2) dyrektywę Rady 92/104/EWG z dnia 3 grudnia 1992 r. w sprawie minimalnych wymagań w zakresie poprawy bezpieczeństwa i ochrony zdrowia pracowników odkrywkowego i podziemnego przemysłu wydobywczego (dwunasta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 404 z 31.12.1992, str. 10, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 134, z późn. zm.). 3) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 20 maja 2015 r. pod numerem 2015/258/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597). 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 12 czerwca 2002 r. w sprawie ratownictwa górniczego (Dz. U. poz. 838, z 2004 r. poz. 1073 oraz z 2007 r. poz. 1476), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 224 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2016 r. poz. 1131 i 1991 oraz z 2017 r. poz. 60 i 202).
 
 ## Załącznik nr 1 — – Szczegółowe wymagania dotyczące specjalistycznych badań lekarskich i specjalistycznych badań psychologicznych
 
@@ -2639,8 +2654,7 @@ Prace wykonywane przez ratowników górniczych w aparatach regeneracyjnych albo 
 1)
 25°C mierzonej termometrem suchym i wilgotności względnej powyżej 50%, w ubraniach z włókien chemicznych,
 2)
-30°C mierzonej termometrem suchym i wilgotności względnej powyżej 60%, w ubraniach z włókien naturalnych
-należy traktować jako akcje ratownicze prowadzone w trudnych warunkach mikroklimatu.
+30°C mierzonej termometrem suchym i wilgotności względnej powyżej 60%, w ubraniach z włókien naturalnych – należy traktować jako akcje ratownicze prowadzone w trudnych warunkach mikroklimatu.
 3.2.
 Podczas akcji ratowniczej prowadzonej w trudnych warunkach mikroklimatu kierownik akcji ratowniczej jest zobowiązany podjąć działania poprawiające zarówno komfort oddychania w aparatach regeneracyjnych, jak i warunki mikroklimatu w miejscu pracy ratowników. Zakres tych działań i środki techniczne do ich realizacji kierownik akcji ratowniczej powinien skonsultować z przedstawicielem właściwej jednostki ratownictwa pracującym w sztabie akcji ratowniczej i polecić ich odnotowanie w książce prowadzenia akcji ratowniczej.
 3.3.
@@ -2680,13 +2694,15 @@ W planie akcji ratowniczej należy wziąć pod uwagę zastosowanie środków zap
 3.18.
 W akcjach ratowniczych prowadzonych w trudnych warunkach mikroklimatu mogą być stosowane aparaty regeneracyjne i powietrzne butlowe, nieujęte w tabelach nr 2, 3 i 4 posiadające ocenę typu WE oraz oznakowanie znakiem CE wydanym przez jednostkę notyfikowaną.
 Tabela 1
-Tabela określająca wartości wydatków energetycznych u ratowników górniczych podczas wykonywania typowych czynności ratowniczych (praca w aparacie regeneracyjnym) Lp. Rodzaj czynności Wydatek energetyczny w (W/m2) przy wilgotności względnej w % 50 60 70 80 90 100 1 Budowa tamy murowej 180 195 210 226 241 256 2 Penetracja wyrobiska kąt 50 z prędkością 4 km/h 203 218 233 249 264 279 3 Penetracja niskiego i stromego wyrobiska 272 287 303 318 333 348 4 Transport kostki 278 293 308 324 339 354 5 Cięcie drewna 296 312 327 342 357 372 6 Transport na noszach 317 333 348 363 378 393 praca lekka: 100 ÷ 165 W/m2 praca umiarkowana: 165 ÷ 230 W/m2 praca ciężka: 230 ÷ 290 W/m2 praca bardzo ciężka: > 290 W/m2
+Tabela określająca wartości wydatków energetycznych u ratowników górniczych podczas wykonywania typowych czynności ratowniczych (praca w aparacie regeneracyjnym) Lp. Rodzaj czynności Wydatek energetyczny w (W/m2) przy wilgotności względnej w % 50 60 70 80 90 100 1 Budowa tamy murowej 180 195 210 226 241 256 2 Penetracja wyrobiska kąt 50 z prędkością 4 km/h 203 218 233 249 264 279 3 Penetracja niskiego i stromego wyrobiska 272 287 303 318 333 348 4 Transport kostki 278 293 308 324 339 354 5 Cięcie drewna 296 312 327 342 357 372 6 Transport na noszach 317 333 348 363 378 393
+praca lekka: 100 ÷ 165 W/m2 praca umiarkowana: 165 ÷ 230 W/m2 praca ciężka: 230 ÷ 290 W/m2 praca bardzo ciężka: > 290 W/m2
 Tabela 2
 Tabela bezpiecznego czasu pracy przy obciążeniu pracą umiarkowaną w ubraniu z włókien maturalnych Rodzaj aparatu W-70 W-70 + SAT+ kamizelka BG-4* + kamizelka Aparat powietrzny butlowy** W-70 W-70 + SAT+ kamizelka BG-4* + kamizelka Aparat powietrzny butlowy** W-70 W-70 + SAT+ kamizelka BG-4* + kamizelka Aparat powietrzny butlowy** wilgotność względna [Temperatura [°C] 95% 85% 70% 23 24 Maksymalny czas przebywania w akcji dla aparatów tlenowych 120 min, a dla aparatu powietrznego 90 min. 25 26 27 120 28 101 120 120 29 84 120 106 90 117 30 72 103 92 89 99 120 31 63 88 80 79 85 120 112 90 120 120 32 56 76 70 68 72 110 100 86 112 112 120 33 50 66 62 57 64 98 87 75 98 105 105 90 34 45 57 55 53 57 88 71 66 85 92 90 89 35 40 50 48 44 51 76 62 59 75 82 78 79 36 36 44 43 40 46 66 55 52 66 72 70 71 37 32 38 37 35 41 58 49 47 58 64 62 62 38 29 34 33 32 37 51 44 42 51 58 53 57 39 26 30 31 29 34 45 40 38 46 52 50 53 40 24 27 28 27 31 39 36 34 41 47 43 49 41 22 24 25 23 28 35 32 31 36 42 40 43 42 20 21 23 21 25 31 29 28 33 38 38 40 43 18 19 21 19 23 28 27 25 29 35 33 38 44 17 17 19 17 21 26 24 23 26 32 30 35 45 15 15 17 15 20 23 23 21 24 28 26 31 46 14 14 16 14 18 21 21 19 22 26 24 28 47 13 13 15 13 17 19 18 17 20 23 21 25 48 12 12 13 12 15 17 17 16 18 21 19 24 49 11 11 12 11 14 16 16 15 16 20 17 22 50 10 10 11 10 13 15 15 14 15 18 16 20
 Tabela 3
 Tabela bezpiecznego czasu pracy przy obciążeniu pracą ciężką w ubraniu z włókien naturalnych Rodzaj aparatu W-70 W-70 + SAT+ kamizelka BG-4* + kamizelka Aparat powietrzny butlowy** W-70 W-70 + SAT+ kamizelka BG-4* + kamizelka Aparat powietrzny butlowy** W-70 W-70 + SAT+ kamizelka BG-4* + kamizelka Aparat powietrzny butlowy** wilgotność względna Temperatura [°C] 95% 85% 70% 23 24 Maksymalny czas przebywania w akcji dla aparatów tlenowych 120 min, a dla aparatu powietrznego 90 min. 25 26 120 27 107 28 93 120 120 90 120 29 82 111 105 87 105 120 120 30 70 93 91 80 92 117 115 120 31 59 79 79 75 81 103 104 90 106 120 120 32 50 68 68 63 70 91 91 85 91 111 104 90 33 43 58 60 54 62 80 84 74 77 91 90 85 34 37 50 52 50 54 71 70 65 67 81 78 78 35 32 43 46 42 47 63 61 57 58 74 68 72 36 27 38 41 39 41 56 52 51 51 66 60 67 37 24 33 36 33 36 50 46 45 44 62 53 61 38 21 29 32 30 31 45 40 40 40 56 47 54 39 18 25 29 27 28 40 37 36 34 50 44 50 40 16 22 27 21 24 36 33 32 32 46 41 45 41 14 20 24 19 22 33 30 29 27 41 39 41 42 12 17 22 16 19 30 28 26 24 36 37 38 43 11 16 20 14 17 27 26 23 22 34 31 33 44 10 14 18 12 15 24 23 21 19 31 27 32 45 9 12 16 10 14 22 22 19 17 26 24 30 46 8 11 15 10 12 20 20 17 16 21 22 27 47 7 10 14 9 11 18 17 16 15 19 19 23 48 6 9 12 8 10 16 14 14 13 17 16 22 49 6 8 11 7 9 15 13 13 12 16 15 20 50 5 7 10 6 8 13 11 12 11 14 14 17
 Tabela 4
-Tabela bezpiecznego czasu pracy przy obciążeniu pracą ciężką w ubraniu z włókien chemicznych Rodzaj aparatu W-70 W-70 + SAT+ kamizelka BG-4* + kamizelka Aparat powietrzny butlowy** W-70 W-70 + SAT+ kamizelka BG-4* + kamizelka Aparat powietrzny butlo wy** W-70 W-70 + SAT+ kamizelka BG-4* + kamizelka Aparat powietrzny butlowy** wilgotność względna Temperatura [°C] 95% 90% 85% 23 24 Maksymalny czas przebywania w akcji dla aparatów tlenowych 120 min, a dla aparatu powietrznego 90 min. 25 120 06 115 27 105 120 120 90 28 89 118 114 87 120 120 120 90 120 29 73 105 96 77 103 114 110 89 120 120 118 30 61 86 80 71 87 99 97 87 117 119 106 31 51 72 68 68 73 86 86 81 101 107 97 90 32 43 60 58 59 62 75 76 76 87 91 88 89 33 37 51 52 50 53 66 68 61 75 82 80 81 34 31 43 47 41 45 58 61 55 65 76 75 73 35 27 36 43 34 39 51 55 49 57 68 67 67 36 23 31 38 28 34 45 49 42 50 60 59 63 37 20 27 34 25 29 41 45 38 43 58 51 58 38 17 23 31 22 26 36 38 35 39 52 42 51 39 15 20 28 18 22 32 33 30 33 49 40 49 40 13 17 26 16 20 29 29 28 31 45 39 42 41 11 15 23 14 17 26 25 25 26 40 36 39 42 10 13 21 12 15 24 22 22 23 35 33 37 43 9 11 19 11 14 21 20 20 21 33 30 31 44 8 10 17 10 12 19 18 17 18 30 26 28 45 7 9 15 9 11 18 16 15 16 24 19 25 46 6 8 14 8 10 16 15 12 15 20 18 21 47 5 7 13 7 9 15 14 11 14 18 16 20 48 5 6 10 6 8 13 12 10 12 15 13 19 49 4 5 9 5 7 12 10 10 11 13 11 17 50 4 5 8 5 6 10 9 8 9 11 10 16 * Dotyczy aparatów BR-4EP ze schładzaczem powietrza z wkładem lodowym. ** Aparat powietrzny z zapasem powietrza minimum 4000 dm3.
+Tabela bezpiecznego czasu pracy przy obciążeniu pracą ciężką w ubraniu z włókien chemicznych Rodzaj aparatu W-70 W-70 + SAT+ kamizelka BG-4* + kamizelka Aparat powietrzny butlowy** W-70 W-70 + SAT+ kamizelka BG-4* + kamizelka Aparat powietrzny butlo wy** W-70 W-70 + SAT+ kamizelka BG-4* + kamizelka Aparat powietrzny butlowy** wilgotność względna Temperatura [°C] 95% 90% 85% 23 24 Maksymalny czas przebywania w akcji dla aparatów tlenowych 120 min, a dla aparatu powietrznego 90 min. 25 120 06 115 27 105 120 120 90 28 89 118 114 87 120 120 120 90 120 29 73 105 96 77 103 114 110 89 120 120 118 30 61 86 80 71 87 99 97 87 117 119 106 31 51 72 68 68 73 86 86 81 101 107 97 90 32 43 60 58 59 62 75 76 76 87 91 88 89 33 37 51 52 50 53 66 68 61 75 82 80 81 34 31 43 47 41 45 58 61 55 65 76 75 73 35 27 36 43 34 39 51 55 49 57 68 67 67 36 23 31 38 28 34 45 49 42 50 60 59 63 37 20 27 34 25 29 41 45 38 43 58 51 58 38 17 23 31 22 26 36 38 35 39 52 42 51 39 15 20 28 18 22 32 33 30 33 49 40 49 40 13 17 26 16 20 29 29 28 31 45 39 42 41 11 15 23 14 17 26 25 25 26 40 36 39 42 10 13 21 12 15 24 22 22 23 35 33 37 43 9 11 19 11 14 21 20 20 21 33 30 31 44 8 10 17 10 12 19 18 17 18 30 26 28 45 7 9 15 9 11 18 16 15 16 24 19 25 46 6 8 14 8 10 16 15 12 15 20 18 21 47 5 7 13 7 9 15 14 11 14 18 16 20 48 5 6 10 6 8 13 12 10 12 15 13 19 49 4 5 9 5 7 12 10 10 11 13 11 17 50 4 5 8 5 6 10 9 8 9 11 10 16
+* Dotyczy aparatów BR-4EP ze schładzaczem powietrza z wkładem lodowym. ** Aparat powietrzny z zapasem powietrza minimum 4000 dm3.
 4.
 Akcja ratownicza prowadzona w sytuacji jednoczesnego występowania kilku zagrożeń:
 4.1.

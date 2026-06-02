@@ -22,17 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-12 |
 | Data wydania | 2013-11-25 |
-| Wejście w życie | 2013-12-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001377) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1377/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 17 ust. 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. Nr 79, poz. 523, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 17 ust. 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. Nr 79, poz. 523, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 112, poz. 654 i Nr 291, poz. 1707, z 2012 r. poz. 664 i 951 oraz z 2013 r. poz. 444, 628, 675 i 1351.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 16 listopada 2010 r. w sprawie uzbrojenia Służby Więziennej oraz rodzajów broni i środków ochrony stosowanych przez jej funkcjonariuszy w czasie pełnienia obowiązków służbowych (Dz. U. Nr 233, poz. 1532) wprowadza się następujące zmiany:
 1)
-§ 1 otrzymuje brzmienie:
-„
+§ 1 otrzymuje brzmienie: „
 § 1.
 Uzbrojenie Służby Więziennej obejmuje:
 1)
@@ -40,26 +38,21 @@ broń palną: karabiny, karabinki, pistolety maszynowe, pistolety i rewolwery, p
 2)
 amunicję do broni palnej, granaty łzawiące i pociski niepenetracyjne, miotane ręcznie lub z broni palnej;
 3)
-urządzenia przeznaczone do miotania środków obezwładniających i pocisków niepenetracyjnych.
-” ;
+urządzenia przeznaczone do miotania środków obezwładniających i pocisków niepenetracyjnych. ” ;
 2)
 w § 2:
 a)
-pkt 1 i 2 otrzymują brzmienie:
-„
+pkt 1 i 2 otrzymują brzmienie: „
 1)
 kajdanek: jednorazowych i szczękowych zakładanych na ręce lub na nogi oraz zespolonych zakładanych na ręce i nogi;
 2)
-pasów obezwładniających;
-” ,
+pasów obezwładniających; ” ,
 b)
-w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu:
-„
+w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
 8)
-ręcznych miotaczy substancji obezwładniających.
-” ;
+ręcznych miotaczy substancji obezwładniających. ” ;
 3)
 uchyla się § 3.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 112, poz. 654 i Nr 291, poz. 1707, z 2012 r. poz. 664 i 951 oraz z 2013 r. poz. 444, 628, 675 i 1351.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 12 maja 2016 r. zmieniające rozporządzenie w sprawie wysokości kar pieniężnych za naruszenia przepisów o organizacji rynku rybnego
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 12 maja 2016 r. zmieniające rozporządzenie w sprawie wysokości kar pieniężnych za naruszenia przepisów o organizacji rynku rybnego Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-05-12 |
 | Data wydania | 2016-05-30 |
-| Wejście w życie | 2016-06-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000726) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/726/text.pdf) |
 
@@ -37,8 +36,7 @@ w pkt 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „ wystawia i przekazuj
 3)
 uchyla się pkt 8 i 9;
 4)
-w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu:
-„
+w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „
 13)
 wprowadza do obrotu produkty rybołówstwa o wymiarach mniejszych od minimalnych wielkości określonych dla poszczególnych gatunków tych produktów w rozporządzeniu Rady (WE) nr 2406/96 z dnia 26 listopada 1996 r. ustanawiającym wspólne normy handlowe w odniesieniu do niektórych produktów rybołówstwa (Dz. Urz. WE L 334 z 23.12.1996, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 4, t. 2, str. 331), w przypadku nakładania kary po raz:
 a)
@@ -47,9 +45,7 @@ pierwszy za wprowadzenie:
 – powyżej 50 kg do 100 kg tych produktów w przeliczeniu na masę w relacji pełnej (żywą wagę) – pięciokrotność wynagrodzenia,
 – powyżej 100 kg tych produktów w przeliczeniu na masę w relacji pełnej (żywą wagę) – dziesięciokrotność wynagrodzenia,
 b)
-kolejny za wprowadzenie tych produktów – dziesięciokrotność wynagrodzenia.
-” .
+kolejny za wprowadzenie tych produktów – dziesięciokrotność wynagrodzenia. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 

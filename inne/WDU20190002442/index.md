@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 16 grudnia 2019 r. w sprawie przyznawania i rozliczania środków finansowych na działalność bieżącą instytutów działających w ramach Sieci Badawczej Łukasiewicz
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 16 grudnia 2019 r. w sprawie przyznawania i rozliczania środków finansowych na działalność bieżącą instytutów działających w ramach Sieci Badawczej Łukasiewicz Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2255).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-16 |
 | Data wydania | 2019-12-19 |
-| Wejście w życie | 2019-12-20 |
 | Ostatnia zmiana | 2025-05-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002442) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2442/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 402 pkt 2a ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 402 pkt 2a ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730, 823, 1655, 1818, 2020 i 2070.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe kryteria i tryb przyznawania instytutom działającym w ramach Sieci Badawczej Łukasiewicz, zwanym dalej „instytutami Sieci”, środków finansowych, o których mowa w art. 365 pkt 2a ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, zwanych dalej „środkami finansowymi”, w tym szczegółowy zakres informacji zawartych we wniosku o ich przyznanie, zwanym dalej „wnioskiem”, oraz warunki i tryb ich rozliczania, w tym szczegółowy zakres informacji zawartych w raporcie z ich wykorzystania, zwanym dalej „raportem”.
 § 2.
@@ -199,8 +198,7 @@ W przypadku wątpliwości co do:
 1)
 zgodności zakresu zrealizowanych działań, na które środki finansowe zostały przyznane, z treścią wniosku i decyzją o ich przyznaniu,
 2)
-prawidłowości wykorzystania środków finansowych
-minister wzywa dyrektora instytutu Sieci do przedłożenia wyjaśnień na piśmie w terminie 7 dni od dnia otrzymania wezwania, z pouczeniem, że ich nieprzedstawienie w tym terminie spowoduje nierozliczenie środków finansowych.
+prawidłowości wykorzystania środków finansowych – minister wzywa dyrektora instytutu Sieci do przedłożenia wyjaśnień na piśmie w terminie 7 dni od dnia otrzymania wezwania, z pouczeniem, że ich nieprzedstawienie w tym terminie spowoduje nierozliczenie środków finansowych.
 § 13.
 Minister dokonuje oceny raportu w terminie 90 dni od dnia:
 1)
@@ -224,6 +222,5 @@ Dyrektor instytutu Sieci, po zaopiniowaniu wniosku, o którym mowa w ust. 1, prz
 § 16.
 W decyzji o przyznaniu środków finansowych na 2020 r. minister wskazuje wysokość środków finansowych przekazanych instytutowi Sieci w transzach miesięcznych w wysokości 1/10 kwoty subwencji ze środków finansowych, o których mowa w art. 365 pkt 2 lit. a-d i g ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, przekazanej w 2019 r. instytutowi badawczemu, który stał się tym instytutem Sieci, lub temu instytutowi Sieci jako powstałemu z przekształcenia instytutu badawczego.
 § 17.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2255). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730, 823, 1655, 1818, 2020 i 2070.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2255). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730, 823, 1655, 1818, 2020 i 2070.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 kwietnia 2022 r. o zmianie ustawy o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu oraz niektórych innych ustaw
+# Ustawa z dnia 28 kwietnia 2022 r. o zmianie ustawy o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 10 lipca 2008 r. o odpadach wydobywczych, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz ustawę z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-28 |
 | Data wydania | 2022-06-14 |
-| Wejście w życie | 2022-06-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001261) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1261/text.pdf) |
 
@@ -133,10 +132,11 @@ source: "eli-html"
     - **a)**
 
 - **2)** wyraża zgodę na przyjęcie wszystkich warunków określonych w koncesji oraz w umowie o ustanowieniu użytkowania górniczego;
-- **3)** w zakresie niezbędnym do wykonywania zamierzonej działalności wykaże się użytkowaniem górniczym albo przyrzeczeniem uzyskania tego prawa; ” , uchyla się ust. 2, w ust. 11: – uchyla się pkt 1, – pkt 2 otrzymuje brzmienie: „ 2) nabywcę przedsiębiorstwa upadłego na podstawie art. 317 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2020 r. poz. 1228, z późn. zm.). ” , – uchyla się pkt 3;
+- **3)** w zakresie niezbędnym do wykonywania zamierzonej działalności wykaże się użytkowaniem górniczym albo przyrzeczeniem uzyskania tego prawa; ” , uchyla się ust. 2, w ust. 11: – uchyla się pkt 1, pkt 2 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
+- **2)** nabywcę przedsiębiorstwa upadłego na podstawie art. 317 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2020 r. poz. 1228, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2320, z 2021 r. poz. 1080, 1177, 1598 i 2140 oraz z 2022 r. poz. 655, 807 i 872.). ” , – uchyla się pkt 3;
 - **2)** po art. 36 dodaje się art. 36a i art. 36b w brzmieniu: „
 
 **Art. 36a.**
@@ -144,7 +144,7 @@ source: "eli-html"
 1. Podmiot, który zamierza wstąpić w prawa i obowiązki przedsiębiorcy, któremu została udzielona koncesja, zwany dalej „podmiotem przejmującym”, w zakresie przejścia koncesji, o których mowa w art. 22 ust. 1, w związku z planowanym:
 
 - **1)** połączeniem albo podziałem spółki, o których mowa odpowiednio w art. 492 i art. 529 Kodeksu spółek handlowych, z wyłączeniem przypadku łączenia się przez zawiązanie nowej spółki albo podziału przez zawiązanie nowych spółek lub przez przeniesienie całego lub części majątku spółki dzielonej na nowo zawiązaną spółkę lub spółki,
-- **2)** nabyciem przedsiębiorstwa albo jego zorganizowanej części na podstawie art. 552Kodeksu cywilnego w terminie co najmniej 60 dni przed planowanym połączeniem, podziałem albo nabyciem zgłasza organowi koncesyjnemu zamiar dokonania tej czynności, wskazując planowany termin jego realizacji, nie dłuższy niż 6 miesięcy.
+- **2)** nabyciem przedsiębiorstwa albo jego zorganizowanej części na podstawie art. 552Kodeksu cywilnego – w terminie co najmniej 60 dni przed planowanym połączeniem, podziałem albo nabyciem zgłasza organowi koncesyjnemu zamiar dokonania tej czynności, wskazując planowany termin jego realizacji, nie dłuższy niż 6 miesięcy.
 
 2. W przypadku, o którym mowa w ust. 1 pkt 1, do terminu realizacji zamiaru, o którym mowa w ust. 1, nie wlicza się okresu niezbędnego do rozpoznania przez właściwy sąd rejestrowy wniosku o wpis do rejestru przedsiębiorców, z zastrzeżeniem że okres ten nie będzie trwać dłużej niż 6 miesięcy. Podmiot przejmujący informuje organ koncesyjny o złożeniu wniosku o wpis do rejestru przedsiębiorców w terminie 7 dni od dnia dokonania tej czynności.
 
@@ -189,7 +189,7 @@ source: "eli-html"
 - **1)** bez dokonania zgłoszenia, o którym mowa w ust. 1, albo
 - **2)** mimo zgłoszenia sprzeciwu, o którym mowa w ust. 8, albo
 - **3)** przed upływem terminu do zgłoszenia sprzeciwu, o którym mowa w ust. 8, albo
-- **4)** po upływie 6 miesięcy od dokonania zgłoszenia, o którym mowa w ust. 1, z uwzględnieniem ust. 2 koncesja nie przechodzi na podmiot przejmujący.
+- **4)** po upływie 6 miesięcy od dokonania zgłoszenia, o którym mowa w ust. 1, z uwzględnieniem ust. 2 – koncesja nie przechodzi na podmiot przejmujący.
 
 14. Jeżeli organ koncesyjny nie zgłosił sprzeciwu, o którym mowa w ust. 8, podmiot przejmujący w wyniku dokonania czynności, o której mowa w ust. 1, wstępuje w prawa i obowiązki dotychczasowego przedsiębiorcy wynikające z koncesji objętych zgłoszeniem, o którym mowa w ust. 1. Podmiot przejmujący jest obowiązany w terminie 14 dni od dnia wstąpienia w prawa i obowiązki wynikające z koncesji przedstawić organowi koncesyjnemu oraz właściwemu organowi nadzoru górniczego dowody potwierdzające następstwo prawne.
 
@@ -269,5 +269,5 @@ source: "eli-html"
 
 **Art. 12.** Do projektów robót geologicznych, o których mowa w art. 80 ust. 1, art. 80a ust. 2 oraz art. 85a ust. 4 ustawy zmienianej w art. 5, zatwierdzonych decyzją wydaną przed dniem wejścia w życie niniejszej ustawy lub zgłoszeń, o których mowa w art. 85 ust. 1 lub art. 85a ust. 1 ustawy zmienianej w art. 5, dokonanych przed dniem wejścia w życie niniejszej ustawy stosuje się art. 85aa ustawy zmienianej w art. 5.
 
-**Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 10 lipca 2008 r. o odpadach wydobywczych, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz ustawę z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2320, z 2021 r. poz. 1080, 1177, 1598 i 2140 oraz z 2022 r. poz. 655, 807 i 872.
 

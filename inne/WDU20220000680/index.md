@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 25 marca 2022 r. w sprawie chorób zakaźnych powodujących powstanie obowiązku hospitalizacji
+# Rozporządzenie Ministra Zdrowiaz dnia 25 marca 2022 r. w sprawie chorób zakaźnych powodujących powstanie obowiązku hospitalizacji Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-25 |
 | Data wydania | 2022-03-25 |
-| Wejście w życie | 2022-03-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000680) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/680/text.pdf) |
 
@@ -129,13 +128,11 @@ Okresy obowiązkowej kwarantanny wynoszą:
 4)
 14 dni – w przypadku bliskowschodniego zespołu niewydolności oddechowej (MERS),
 5)
-21 dni – w przypadku Eboli (EVD), ospy prawdziwej oraz wirusowych gorączek krwotocznych
-licząc od dnia następującego po ostatnim dniu odpowiednio narażenia albo styczności.
+21 dni – w przypadku Eboli (EVD), ospy prawdziwej oraz wirusowych gorączek krwotocznych – licząc od dnia następującego po ostatnim dniu odpowiednio narażenia albo styczności.
 § 6.
 Osoby odbywające w dniu wejścia w życie niniejszego rozporządzenia izolację, izolację w warunkach domowych lub kwarantannę, na podstawie przepisów rozporządzenia, o którym mowa w § 7, odbywają ją na zasadach określonych w tym rozporządzeniu.
 § 7.
 Traci moc rozporządzenie Ministra Zdrowia z dnia 25 lutego 2021 r. w sprawie chorób zakaźnych powodujących powstanie obowiązku hospitalizacji, izolacji lub izolacji w warunkach domowych oraz obowiązku kwarantanny lub nadzoru epidemiologicznego (Dz. U. poz. 351, 853 i 1352 oraz z 2022 r. poz. 152, 235 i 354).
 § 8.
-Rozporządzenie wchodzi w życie z dniem 28 marca 2022 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
+Rozporządzenie wchodzi w życie z dniem 28 marca 2022 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 

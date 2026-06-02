@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-13 |
 | Data wydania | 2017-03-18 |
-| Wejście w życie | 2017-04-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000579) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/579/text.pdf) |
 
+Postępowanie w sprawach zgromadzeń organizowanych cyklicznie
 1.
 Jeżeli zgromadzenia są organizowane przez tego samego organizatora w tym samym miejscu lub na tej samej trasie co najmniej 4 razy w roku według opracowanego terminarza lub co najmniej raz w roku w dniach świąt państwowych i narodowych, a tego rodzaju wydarzenia odbywały się w ciągu ostatnich 3 lat, chociażby nie w formie zgromadzeń i miały na celu w szczególności uczczenie doniosłych i istotnych dla historii Rzeczypospolitej Polskiej wydarzeń, organizator może zwrócić się z wnioskiem do wojewody o wyrażenie zgody na cykliczne organizowanie tych zgromadzeń.
 2.
@@ -49,11 +49,9 @@ jeżeli co najmniej dwukrotnie, w terminach określonych w terminarzu, o którym
 2.
 Przepisu ust. 1 pkt 2 nie stosuje się, jeżeli zgromadzenie nie mogło zostać zorganizowane z przyczyn niezależnych od organizatora.
 Na podstawie jednej decyzji o wyrażeniu zgody na cykliczne organizowanie zgromadzeń zgromadzenia te mogą odbywać się w okresie nie dłuższym niż 3 lata od przeprowadzenia pierwszego z cyklu zgromadzeń.
-Do zgromadzeń organizowanych cyklicznie przepisy art. 8, art. 10–12 oraz art. 14–20 stosuje się odpowiednio.
-” ;
+Do zgromadzeń organizowanych cyklicznie przepisy art. 8, art. 10–12 oraz art. 14–20 stosuje się odpowiednio. ” ;
 5)
-art. 27 otrzymuje brzmienie:
-„
+art. 27 otrzymuje brzmienie: „
 
 **Art. 1.** W ustawie z dnia 24 lipca 2015 r. – Prawo o zgromadzeniach (Dz. U. poz. 1485) wprowadza się następujące zmiany:
 
@@ -69,7 +67,7 @@ art. 27 otrzymuje brzmienie:
 
 - **4)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Postępowanie w sprawach zgromadzeń organizowanych cyklicznie
+#### Rozdział 3a
 
 **Art. 27.** Uczestnicy zgromadzenia spontanicznego nie mogą zakłócać przebiegu zgromadzenia organizowanego w trybie przepisów rozdziału 2, 3 lub 3a. ” ;
 

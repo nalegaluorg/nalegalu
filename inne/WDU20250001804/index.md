@@ -22,13 +22,12 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-11-21 |
 | Data wydania | 2025-12-17 |
-| Wejście w życie | 2026-01-01 |
 | Ostatnia zmiana | 2026-01-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001804) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1804/text.pdf) |
 
-USTAWA dnia 21 listopada o zmianie ustawy o podatku od wydobycia niektórych kopalin niektórych innych ustaw
+USTAWA dnia 21 listopada o zmianie o podatku od wydobycia niektórych kopalin niektórych innych ustaw
 
-**Art. 1.** ustawie dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. 2022 poz. 1539) wprowadza się następujące zmiany:
+**Art. 1.** ustawie dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. 2022 1539) wprowadza się następujące zmiany:
 
 - **1)** tytuł działu III otrzymuje brzmienie: „Podstawa opodatkowania, stawka podatku, zwolnienia odliczenia od podatku”;
 - **2)** art. 8 otrzymuje brzmienie: „Art. 8. 1. Minister właściwy spraw finansów publicznych ogłasza, drodze obwieszczenia, 15. dnia każdego miesiąca, dzienniku urzędowym ministra właściwego spraw finansów publicznych:
@@ -77,7 +76,7 @@ USTAWA dnia 21 listopada o zmianie ustawy o podatku od wydobycia niektórych kop
 
 11. księgach rachunkowych podatnik jest obowiązany wyodrębnić szczególności:
 
-- **1)** rodzaj przedsięwzięcia inwestycyjnego zgodnie wykazem określonym załączniku ustawy poszczególne kwalifikowane nakłady inwestycyjne;
+- **1)** rodzaj przedsięwzięcia inwestycyjnego zgodnie wykazem określonym załączniku poszczególne kwalifikowane nakłady inwestycyjne;
 - **2)** łączną wysokość kwalifikowanych nakładów inwestycyjnych poniesionych danym miesięcznym okresie rozliczeniowym wysokość przysługującego tego tytułu odliczenia;
 - **3)** wysokość odliczenia tytułu kwalifikowanych nakładów inwestycyjnych dokonanego za miesięczny okres rozliczeniowy;
 - **4)** określoną narastająco na koniec każdego kolejnego miesięcznego okresu rozliczeniowego sumę kwalifikowanych nakładów inwestycyjnych, sumę przysługujących odliczeń sumę dokonanych odliczeń tego tytułu, a także sumę uprzednio dokonanych odliczeń zwiększających podatek, o których mowa ust. 8 9.
@@ -111,9 +110,9 @@ USTAWA dnia 21 listopada o zmianie ustawy o podatku od wydobycia niektórych kop
 
 11. Informację, o której mowa ust. 9, składa się za pomocą środków komunikacji elektronicznej.
 
-12. Pełnomocnictwo podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów działu III rozdziału 9a ustawy dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. poz. 111, późn. zm. ) obejmuje również upoważnienie podpisywania informacji, o której mowa ust. 9.
+12. Pełnomocnictwo podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów działu III rozdziału 9a dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. 111, późn. zm. ) obejmuje również upoważnienie podpisywania informacji, o której mowa ust. 9.
 
-13. Do korekty informacji, o której mowa ust. 9, stosuje się odpowiednio przepisy działu III rozdziału 10 ustawy dnia 29 sierpnia 1997 Ordynacja podatkowa.
+13. Do korekty informacji, o której mowa ust. 9, stosuje się odpowiednio przepisy działu III rozdziału 10 dnia 29 sierpnia 1997 Ordynacja podatkowa.
 
 14. zakresie nieuregulowanym ust. 1–13 stosuje się odpowiednio przepisy art. 10b ust. 2, 3, 6 8–11.
 
@@ -143,15 +142,18 @@ USTAWA dnia 21 listopada o zmianie ustawy o podatku od wydobycia niektórych kop
 
 4. okresie od dnia 1 stycznia 2027 dnia 31 grudnia 2028 stawkę podatku za kilogram wydobytego srebra, o której mowa art. 7 ust. 4, oblicza się według następującego wzoru: stawka podatku = [0,125 × średnia cena srebra + (0,001 × średnia cena srebra) ] × 0,68 przy czym maksymalna stawka podatku wynosi 2100 zł za kilogram.”;
 
-- **11)** dodaje się załącznik ustawy brzmieniu określonym załączniku niniejszej ustawy.
+- **11)** dodaje się załącznik brzmieniu określonym załączniku niniejszej ustawy.
 
-**Art. 2.** ustawie dnia 26 lipca 1991 o podatku dochodowym od osób fizycznych (Dz. poz. 163, późn. zm. ) art. 23 dodaje się ust. 11 brzmieniu: „11. Przepisu ust. 1 pkt 45 nie stosuje się wydatków dotyczących kwalifikowanych nakładów inwestycyjnych rozumieniu ustawy dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. 2022 poz. 1539 poz. 1804), wysokości dokonanego odliczenia, o którym mowa art. 10b ust. 1 tej ustawy.”. zm. ) art. 16 dodaje się ust. 10 brzmieniu: „10. Przepisu ust. 1 pkt 48 nie stosuje się wydatków dotyczących kwalifikowanych nakładów inwestycyjnych rozumieniu ustawy dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. 2022 poz. 1539 poz. 1804), wysokości dokonanego odliczenia, o którym mowa art. 10b ust. 1 tej ustawy.”.
+**Art. 2.** ustawie dnia 26 lipca 1991 o podatku dochodowym od osób fizycznych (Dz. 163, późn. zm. ) art. 23 dodaje się ust. 11 brzmieniu: „11. Przepisu ust. 1 pkt 45 nie stosuje się wydatków dotyczących kwalifikowanych nakładów inwestycyjnych rozumieniu dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. 2022 1539
 
-**Art. 4.** ustawie dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. poz. 111, późn. zm. ) art. 272 pkt 7 kropkę zastępuje się średnikiem dodaje się pkt 8 brzmieniu: „8) sprawdzenie terminowości składania informacji o wysokości kwalifikowanych nakładów inwestycyjnych zgodnie przepisami ustawy dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. 2022 poz. 1539 poz. 1804), stwierdzenie formalnej poprawności tych informacji weryfikację danych nich zawartych.”.
+- **1804)** , wysokości dokonanego odliczenia, o którym mowa art. 10b ust. 1 tej ustawy.”. zm. ) art. 16 dodaje się ust. 10 brzmieniu: „10. Przepisu ust. 1 pkt 48 nie stosuje się wydatków dotyczących kwalifikowanych nakładów inwestycyjnych rozumieniu dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. 2022 1539
+- **1804)** , wysokości dokonanego odliczenia, o którym mowa art. 10b ust. 1 tej ustawy.”.
+
+**Art. 4.** ustawie dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. 111, późn. zm. ) art. 272 pkt 7 kropkę zastępuje się średnikiem dodaje się pkt 8 brzmieniu: „8) sprawdzenie terminowości składania informacji o wysokości kwalifikowanych nakładów inwestycyjnych zgodnie przepisami dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. 2022 1539 1804), stwierdzenie formalnej poprawności tych informacji weryfikację danych nich zawartych.”.
 
 **Art. 5.**
 
-1. Przepis art. 10b art. 10c ustawy zmienianej art. 1 stosuje się kwalifikowanych nakładów inwestycyjnych poniesionych od dnia 1 stycznia 2026
+1. Przepis art. 10b art. 10c zmienianej art. 1 stosuje się kwalifikowanych nakładów inwestycyjnych poniesionych od dnia 1 stycznia 2026
 
 2. przypadku podmiotu będącego podatnikiem podatku od wydobycia niektórych kopalin tytułu wydobycia miedzi srebra kwalifikowane nakłady inwestycyjne poniesione okresie od dnia 1 stycznia 2026 dnia 31 grudnia 2028 mogą zostać odliczone od podatku od wydobycia niektórych kopalin przypadającego zapłaty najpóźniej za grudzień 2043 r., przy czym po raz pierwszy mogą być odliczone od podatku od wydobycia niektórych kopalin przypadającego zapłaty za styczeń 2029
 

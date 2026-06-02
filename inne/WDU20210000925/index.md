@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 kwietnia 2021 r. o zmianie ustawy o systemach oceny zgodności i nadzoru rynku
+# Ustawa z dnia 15 kwietnia 2021 r. o zmianie ustawy o systemach oceny zgodności i nadzoru rynku Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1020 z dnia 20 czerwca 2019 r. w sprawie nadzoru rynku i zgodności produktów oraz zmieniającego dyrektywę 2004/42/WE oraz rozporządzenia (WE) nr 765/2008 i (UE) nr 305/2011 (Dz. Urz. UE L 169 z 25.06.2019, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-15 |
 | Data wydania | 2021-05-20 |
-| Wejście w życie | 2021-07-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000925) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/925/text.pdf) |
 
@@ -40,5 +39,5 @@ source: "eli-html"
 
 **Art. 2.** Do dnia 15 lipca 2021 r. Prezes Urzędu Ochrony Konkurencji i Konsumentów uczestniczy w pracach Unijnej Sieci ds. Zgodności Produktów, ustanowionej na podstawie art. 29 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1020 z dnia 20 czerwca 2019 r. w sprawie nadzoru rynku i zgodności produktów oraz zmieniającego dyrektywę 2004/42/WE oraz rozporządzenia (WE) nr 765/2008 i (UE) nr 305/2011 (Dz. Urz. UE L 169 z 25.06.2019, str. 1).
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 16 lipca 2021 r., z wyjątkiem art. 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem 16 lipca 2021 r., z wyjątkiem art. 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1020 z dnia 20 czerwca 2019 r. w sprawie nadzoru rynku i zgodności produktów oraz zmieniającego dyrektywę 2004/42/WE oraz rozporządzenia (WE) nr 765/2008 i (UE) nr 305/2011 (Dz. Urz. UE L 169 z 25.06.2019, str. 1).
 

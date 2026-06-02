@@ -25,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002246) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2246/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 13 października 2023 r.
+22224466 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 13 października 2023 r.
 w sprawie trybu zawierania umów o odroczeniu, rozłożeniu na raty lub umorzeniu spłaty odszkodowań za szkody w mieniu wojskowym Na podstawie art. 506 ust. 7 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r.
 poz. 347, 641, 1615, 1834 i 1872) zarządza się, co następuje: § 1. Rozporządzenie określa tryb zawierania umów w sprawie odraczania, rozkładania na raty lub umarzania spłaty odszkodowań oraz wzory tych umów.
 § 2. 1. Wniosek, o którym mowa w art. 506 ust. 1 ustawy z dnia 11 marca 2023 r. o obronie Ojczyzny, zwanej dalej „ustawą”, żołnierz składa do:
@@ -35,7 +35,7 @@ poz. 347, 641, 1615, 1834 i 1872) zarządza się, co następuje: § 1. Rozporzą
 3. W przypadku, o którym mowa w ust. 1 pkt 2, dowódca jednostki organizacyjnej, w której żołnierz pełni służbę, opiniuje wniosek i przesyła go do właściwego dowódcy jednostki organizacyjnej zaopatrującej w mienie posiadającego uprawnienia dysponenta środków budżetowych.
 § 3. 1. Właściwy dowódca jednostki organizacyjnej zaopatrującej w mienie posiadający uprawnienia dysponenta środków budżetowych dokonuje, w formie pisemnej, weryfikacji sytuacji materialnej i rodzinnej żołnierza oraz oceny wystąpienia uzasadnionego interesu poszkodowanej jednostki organizacyjnej.
 2. W przypadku możliwości umorzenia w całości lub w części, odroczenia lub rozłożenia na raty spłaty odszkodowania właściwy dowódca jednostki organizacyjnej zaopatrującej w mienie posiadający uprawnienia dysponenta środków budżetowych podpisuje z żołnierzem umowę.
-§ 4. 1. W przypadku gdy właściwy do odroczenia, rozłożenia na raty lub umorzenia spłaty odszkodowania jest organ określony w art. 506 ust. 4 lub ust. 5 ustawy, właściwy dowódca jednostki organizacyjnej zaopatrującej w mienie posiada jący uprawnienia dysponenta środków budżetowych przekazuje niezwłocznie wniosek wraz ze swoim stanowiskiem i opinią dowódcy jednostki organizacyjnej, w której żołnierz pełni służbę, drogą służbową do właściwego organu.
+§ 4. 1. W przypadku gdy właściwy do odroczenia, rozłożenia na raty lub umorzenia spłaty odszkodowania jest organ określony w art. 506 ust. 4 lub ust. 5 ustawy, właściwy dowódca jednostki organizacyjnej zaopatrującej w mienie posiadający uprawnienia dysponenta środków budżetowych przekazuje niezwłocznie wniosek wraz ze swoim stanowiskiem i opinią dowódcy jednostki organizacyjnej, w której żołnierz pełni służbę, drogą służbową do właściwego organu.
 2. W przypadku gdy sprawcą szkody jest dowódca jednostki organizacyjnej lub jego zastępca, składa on wniosek o umorzenie w całości lub w części, odroczenie lub rozłożenie na raty spłaty odszkodowania do bezpośredniego przełożo3. Bezpośredni przełożony:
 1) jeżeli jest dowódcą jednostki organizacyjnej zaopatrującej w mienie posiadającym uprawnienia dysponenta środków budżetowych podejmuje czynności, o których mowa w § 3 ust. 1 i 2, albo,
 2) jeżeli nie jest dowódcą jednostki organizacyjnej zaopatrującej w mienie posiadającym uprawnienia dysponenta środków budżetowych uprawnionym do zawarcia umowy przekazuje wniosek wraz ze swoją opinią do właściwego organu, o którym mowa w art. 506 ust. 3–5 ustawy.

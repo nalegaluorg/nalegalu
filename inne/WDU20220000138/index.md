@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 grudnia 2021 r. o zmianie niektórych ustaw w celu ułatwienia prowadzenia przez rolników rolniczego handlu detalicznego
+# Ustawa z dnia 15 grudnia 2021 r. o zmianie niektórych ustaw w celu ułatwienia prowadzenia przez rolników rolniczego handlu detalicznego Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia oraz ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-15 |
 | Data wydania | 2022-01-20 |
-| Wejście w życie | 2022-02-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000138) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/138/text.pdf) |
+
+Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 5 sierpnia 2021 r. pod numerem 2021/0535/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 
 **Art. 1.** W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2020 r. poz. 2021 oraz z 2022 r. poz. 24) wprowadza się następujące zmiany:
 
@@ -69,11 +70,11 @@ source: "eli-html"
 - **3)** w art. 100 w ust. 1 pkt 17 otrzymuje brzmienie: „
 - **17)** nie umieszcza w miejscu zbywania żywności w ramach rolniczego handlu detalicznego oznaczenia, o którym mowa w art. 44a ust. 3, lub podaje w tym oznaczeniu informacje niepełne lub nieprawdziwe, ” .
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.) w art. 21 w ust. 1 w pkt 71a wyrazy „40 000 zł rocznie” zastępuje się wyrazami „100 000 zł rocznie”.
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24 i 64.) w art. 21 w ust. 1 w pkt 71a wyrazy „40 000 zł rocznie” zastępuje się wyrazami „100 000 zł rocznie”.
 
 **Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 44a ust. 3 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 44a ust. 4 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 4.** Przepis art. 21 ust. 1 pkt 71a ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, ma zastosowanie do przychodów uzyskanych od dnia 1 stycznia 2022 r.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia oraz ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. 2) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 5 sierpnia 2021 r. pod numerem 2021/0535/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24 i 64.
 

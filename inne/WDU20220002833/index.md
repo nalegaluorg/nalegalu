@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 28 grudnia 2022 r. zmieniające rozporządzenie w sprawie Krajowego Rejestru Pacjentów z COVID-19
+# Rozporządzenie Ministra Zdrowiaz dnia 28 grudnia 2022 r. zmieniające rozporządzenie w sprawie Krajowego Rejestru Pacjentów z COVID-19 Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-28 |
 | Data wydania | 2022-12-29 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002833) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2833/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 20 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2022 r. poz. 1555, 2280 i 2705) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 7 kwietnia 2020 r. w sprawie Krajowego Rejestru Pacjentów z COVID-19 (Dz. U. z 2021 r. poz. 1837 i 2240) § 2–5 otrzymują brzmienie:
-„
+W rozporządzeniu Ministra Zdrowia z dnia 7 kwietnia 2020 r. w sprawie Krajowego Rejestru Pacjentów z COVID-19 (Dz. U. z 2021 r. poz. 1837 i 2240) § 2–5 otrzymują brzmienie: „
 § 2.
 1.
 Podmiotem prowadzącym rejestr jest minister właściwy do spraw zdrowia.
@@ -52,7 +50,7 @@ dane osobowe dotyczące usługobiorcy obejmujące:
 a)
 imię (imiona) i nazwisko,
 b)
-numer PESEL, a w przypadku osób, które nie mają nadanego numeru PESEL – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość, albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm.),
+numer PESEL, a w przypadku osób, które nie mają nadanego numeru PESEL – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość, albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 28 z 04.02.2016, str. 18.,
 c)
 płeć, w przypadku osób, które nie mają nadanego numeru PESEL,
 d)
@@ -97,6 +95,5 @@ Przekazanie danych, o którym mowa w ust. 1, nastąpi drogą elektroniczną w fo
 3.
 Jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia może przetwarzać dane przekazane na podstawie ust. 1.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 28 z 04.02.2016, str. 18.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 28 z 04.02.2016, str. 18.
 

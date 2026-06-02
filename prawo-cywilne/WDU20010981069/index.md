@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-07-19 |
 | Data wydania | 2001-09-12 |
-| Wejście w życie | 2001-09-27 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010981069) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1069/text.pdf) |
+
+Sprawy o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką
 
 **Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934Nr 140, poz. 940i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319i 1322 oraz z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508i Nr 63, poz. 635) wprowadza się następujące zmiany:
 
@@ -32,7 +33,7 @@ source: "eli-html"
 - **2)** skreśla się art. 580;
 - **3)** w części pierwszej w księdze drugiej w tytule II w dziale II w rozdziale 2 po oddziale 4 dodaje się oddział 5 w brzmieniu: „
 
-##### Oddział 5 Sprawy o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką
+##### Oddział 5
 
 **Art. 5981.**
 

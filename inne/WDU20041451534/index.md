@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-04-30 |
 | Data wydania | 2004-06-25 |
-| Wejście w życie | 2004-07-10 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041451534) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1534/text.pdf) |
 
@@ -117,9 +116,9 @@ source: "eli-html"
 
 1. Wnioski kościelnych osób prawnych, o których mowa w:
 
-- **1)** art. 47 ust. 1 ustawy z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego (Dz. U. Nr 66, poz. 287, z późn. zm.),
+- **1)** art. 47 ust. 1 ustawy z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego (Dz. U. Nr 66, poz. 287, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1991 r. Nr 95, poz. 425, z 1993 r. Nr 7, poz. 34, z 1994 r. Nr 1, poz. 3, z 1998 r. Nr 59, poz. 375, Nr 106, poz. 668 i Nr 117, poz. 756 oraz z 2004 r. Nr 68, poz. 623.),
 - **2)** art. 24 ust. 1 ustawy z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej (Dz. U. Nr 73, poz. 324, z 1998 r. Nr 59, poz. 375 i Nr 106, poz. 668 oraz z 2004 r. Nr 68, poz. 623),
-- **3)** art. 40 ust. 1 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej (Dz. U. Nr 97, poz. 480, z późn. zm.) mogą być zgłaszane w terminie 2 lat od dnia wejścia w życie ustawy. Roszczenia niezgłoszone w tym terminie wygasają.
+- **3)** art. 40 ust. 1 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej (Dz. U. Nr 97, poz. 480, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 59, poz. 375, Nr 106, poz. 668 i Nr 117, poz. 756 oraz z 2004 r. Nr 68, poz. 623.) – mogą być zgłaszane w terminie 2 lat od dnia wejścia w życie ustawy. Roszczenia niezgłoszone w tym terminie wygasają.
 
 2. Wnioski, o których mowa w art. 47 ust. 1 ustawy powołanej w ust. 1 pkt 1, składa się do Komisji Regulacyjnej do Spraw Polskiego Autokefalicznego Kościoła Prawosławnego. Do wniosków stosuje się przepisy art. 47–50 ustawy powołanej w ust. 1 pkt 1.
 
@@ -127,5 +126,5 @@ source: "eli-html"
 
 **Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 23 i art. 38d nowelizowanej ustawy zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 23 i art. 38d w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1991 r. Nr 95, poz. 425, z 1993 r. Nr 7, poz. 34, z 1994 r. Nr 1, poz. 3, z 1998 r. Nr 59, poz. 375, Nr 106, poz. 668 i Nr 117, poz. 756 oraz z 2004 r. Nr 68, poz. 623. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 59, poz. 375, Nr 106, poz. 668 i Nr 117, poz. 756 oraz z 2004 r. Nr 68, poz. 623.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 1 lutego 2019 r. zmieniające rozporządzenie w sprawie stawek uposażenia zasadniczego funkcjonariuszy Służby Ochrony Państwa
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 1 lutego 2019 r. zmieniające rozporządzenie w sprawie stawek uposażenia zasadniczego funkcjonariuszy Służby Ochrony Państwa Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,21 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-01 |
 | Data wydania | 2019-02-06 |
-| Wejście w życie | 2019-02-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000230) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/230/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Stawki uposażenia zasadniczego według stanowiska służbowego z zaszeregowaniem stanowisk służbowych do poszczególnych grup uposażenia oraz stopni etatowych
 Treść rozporządzenia
-Na podstawie art. 163 ust. 2 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 163 ust. 2 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 730, 1544, 1562, 1669, 2245 i 2399 oraz z 2019 r. poz. 125.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 6 lutego 2018 r. w sprawie stawek uposażenia zasadniczego funkcjonariuszy Służby Ochrony Państwa (Dz. U. poz. 323, 816 i 1672) załącznik nr 2 otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.
 Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie od dnia 1 stycznia 2019 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 730, 1544, 1562, 1669, 2245 i 2399 oraz z 2019 r. poz. 125.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 730, 1544, 1562, 1669, 2245 i 2399 oraz z 2019 r. poz. 125.
 Załącznik – Stawki uposażenia zasadniczego według stanowiska służbowego z zaszeregowaniem stanowisk służbowych do poszczególnych grup uposażenia oraz stopni etatowych
 Lp. Nazwa stanowiska Stopień etatowy Grupa uposażenia Stawka w złotych 1 Komendant generał dywizji 01 9030 2 Zastępca Komendanta generał brygady 02 7530 3 Dyrektor Zarządu pułkownik 03 6010 4 Zastępca Dyrektora Zarządu podpułkownik 04 5650 5 Główny Księgowy podpułkownik 04 5650 6 Naczelnik Wydziału podpułkownik 05 4960 7 Zastępca Naczelnika Wydziału podpułkownik 06 4780 8 Radca Prawny major 07 4560 9 Główny Specjalista major 07 4560 10 Koordynator major 07 4560 11 Kierownik Sekcji major 08 4120 12 Psycholog kapitan 08 4120 13 Lekarz kapitan 08 4120 14 Rzecznik prasowy kapitan 09 3860 15 Kapelan kapitan 09 3860 16 Audytor Wewnętrzny major 09 3860 17 Starszy Specjalista kapitan 09 3860 18 Specjalista kapitan 10 3540 19 Ekspert starszy chorąży 11 3085 20 Ratownik Medyczny starszy chorąży 11 3085 21 Pielęgniarka / Pielęgniarz starszy chorąży 11 3085 22 Starszy Funkcjonariusz starszy sierżant 12 2920 23 Funkcjonariusz starszy sierżant 13 2760 24 Kursant szeregowy 14 2360
 

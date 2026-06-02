@@ -22,22 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-22 |
 | Data wydania | 2022-03-24 |
-| Wejście w życie | 2022-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000668) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/668/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 20 pkt 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072, z 2021 r. poz. 1080 i 1236 oraz z 2022 r. poz. 655) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającym rozporządzenie w sprawie przekazania niektórym sądom okręgowym i sądom rejonowym rozpoznawania spraw gospodarczych z obszarów właściwości innych sądów okręgowych i sądów rejonowych (Dz. U. poz. 527 i 1568) w § 1 pkt 1 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającym rozporządzenie w sprawie przekazania niektórym sądom okręgowym i sądom rejonowym rozpoznawania spraw gospodarczych z obszarów właściwości innych sądów okręgowych i sądów rejonowych (Dz. U. poz. 527 i 1568) w § 1 pkt 1 otrzymuje brzmienie: „
 1)
-w § 1 pkt 3 otrzymuje brzmienie:
-„
+w § 1 pkt 3 otrzymuje brzmienie: „
 3)
-Sądowi Okręgowemu w Katowicach – z obszaru właściwości Sądu Okręgowego w Sosnowcu;”;
-” .
-” .
+Sądowi Okręgowemu w Katowicach – z obszaru właściwości Sądu Okręgowego w Sosnowcu;”; ” . ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r.
 

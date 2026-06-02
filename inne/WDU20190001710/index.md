@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 6 września 2019 r. w sprawie wysokości kwot odpowiedzialności podmiotu odpowiedzialnego za system identyfikacji elektronicznej
+# Rozporządzenie Ministra Cyfryzacjiz dnia 6 września 2019 r. w sprawie wysokości kwot odpowiedzialności podmiotu odpowiedzialnego za system identyfikacji elektronicznej Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-06 |
 | Data wydania | 2019-09-06 |
-| Wejście w życie | 2019-09-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001710) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1710/text.pdf) |
 
@@ -46,6 +45,5 @@ Wysokość kwot odpowiedzialności, o której mowa w § 1, w odniesieniu do jedn
 2.
 Kwoty, o których mowa w ust. 1, są ustalane przy zastosowaniu kursu średniego euro ogłoszonego przez Narodowy Bank Polski po raz pierwszy w roku, w którym miało miejsce zdarzenie powodujące szkodę, o której mowa w § 1.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 7 września 2019 r.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761).
+Rozporządzenie wchodzi w życie z dniem 7 września 2019 r. 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761).
 

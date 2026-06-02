@@ -8,10 +8,12 @@ pos: 581
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 26 maja 2000 r. o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz o zmianie ustawy o pracowniczych ogrodach działkowych
+# Ustawa z dnia 26 maja 2000 r. o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz o zmianie ustawy o pracowniczych ogrodach działkowych.
+
+*USTAWA zdnia 26 maja 2000 ozmianie ustawy oniektórych formach popierania budownictwa mieszkaniowego oraz ozmianie ustawy opracowniczych ogrodach działkowych.*
 
 | Pole | Wartość |
 |---|---|
@@ -22,42 +24,31 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2000-05-26 |
 | Data wydania | 2000-06-21 |
-| Wejście w życie | 2000-07-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000500581) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/581/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. Nr 133, poz. 654, z 1996 r. Nr 106, poz. 496 i Nr 156, poz. 775, z 1997 r. Nr 80, poz. 507, Nr 103, poz. 651, Nr 115, poz. 741, Nr 140, poz. 939 i Nr 141, poz. 943, z 1998 r. Nr 162, poz. 1121, z 1999 r. Nr 108, poz. 1226 oraz z 2000 r. Nr 48, poz. 550) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 26 paêdziernika 1995 oniektórych formach popierania budownictwa mieszkaniowego (Dz. U. 133, 654, 1996 106, 496 156, 775, 1997 80, 507, 103, 651, 115, 741, 140, 939 iNr141, 943, z1998 162, 1121,z1999 108, 1226 oraz 2000 48, 550) wprowadza się następujące zmiany:
 
-- **1)** w art. 22: w ust. 2 wyrazy „Ministrem Finansów” zastępuje się wyrazami „ministrem właściwym do spraw finansów publicznych”, w ust. 4 wyrazy „ministrowi właściwemu do spraw gospodarki przestrzennej i mieszkaniowej” zastępuje się wyrazami „Prezesowi Urzędu Mieszkalnictwa i Rozwoju Miast”;
-    - **a)**
-    - **b)**
+- **1)** wart. 22:
+    - **a)** wust. 2 wyrazy ŃMinistrem Finansów” zastępuje się wyrazami Ńministrem właściwym do spraw finansów publicznych”,
+    - **b)** w ust. 4 wyrazy Ńministrowi właściwemu do wej” zastępuje się wyrazami ŃPrezesowi Urzędu Mieszkalnictwa iRozwoju Miast”;
 
-- **2)** art. 33a otrzymuje brzmienie: „
+- **2)** art. 33aotrzymuje brzmienie: ŃArt.33a. 1. Centralnym organem administracji rządowej właściwym w sprawach gospodarki przestrzennej mieszkaniowej jest Prezes Urzędu Mieszkalnictwa iRozwoju Miast.
 
-**Art. 33a.**
+2. Minister właściwy do spraw gospodarki przestrzennej imieszkaniowej sprawuje nadzór nad działalnością Prezesa UrzęArt. 27. W ustawie dnia 26 paêdziernika 1982 o postępowaniu w sprawach nieletnich (Dz. U. 35, 228, 1992 24, 101, 1995 89, 443, 1998 106, 668, 1999 83, poz.931 iz2000 12, 136) wart. 84 skreśla się § 4.
 
-1. Centralnym organem administracji rządowej właściwym w sprawach gospodarki przestrzennej i mieszkaniowej jest Prezes Urzędu Mieszkalnictwa i Rozwoju Miast.
+**Art. 28.** Wustawie zdnia 20 czerwca 1985 Prawo o ustroju sądów powszechnych (Dz. U. 1994 Nr7, 25, 77, 355, 91, 421 iNr 105, 509, 1995 34, 163 81, 406, z1996 77, 367, z1997 75, 471, 98, 604, 106, 679, 117, 751, 752 753, 121, 769, 124, 782 133, 882, 1998 98, 607, 160, 1064 162, 1118 1125, 1999 20, 180, 60, 636, 75, 853, 83, 931 110, 1255 oraz 2000 48, 551) skreśla się art.27.
 
-2. Minister właściwy do spraw gospodarki przestrzennej i mieszkaniowej sprawuje nadzór nad działalnością Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast.
+**Art. 29.** W ustawie dnia 29 sierpnia 1997 oochronie danych osobowych (Dz. U. 133, 883 iz2000 12, 136) wart. 43 wust. 1 pkt 2 otrzymuje brzmienie: informacji zrejestru oraz trybu zbierania danych wpostępowaniu karnym dotyczących tych osób (Dz. U. 82, 388), przejmuje Rejestr, jeżeli dane te podlegają gromadzeniu na podstawie niniejszej ustawy; wpozostałym zakresie dane te likwiduje się. 2. Istniejące zasoby danych osobowych oraz informacji zgromadzonych w Centralnym Rejestrze Nieletnich, prowadzonym na podstawie rozporządzenia Ministra Sprawiedliwości dnia 22 sierpnia 1996 w sprawie zasad gromadzenia danych dotyczących środków wychowawczych poprawczych stosowanych wobec nieletnich oraz sposobu udzielania informacji sądom prokuraturom o tych środkach (Dz. U. Nr107, poz.509), przejmuje Rejestr, jeżeli dane te podlegają gromadzeniu na podstawie niniejszej ustawy; wpozostałym zakresie dane te likwiduje się. 3. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowe zasady itryb przejęcia lub likwidacji danych osobowych, októrych mowa wust. 1 i2, mając na uwadze konieczność zapewnienia ciągłości dostępu do tych danych uprawnionym podmiotom oraz zasady ochrony danych osobowych. Ń2) przetwarzanych przez właściwe organy dla po- Art. 31. Ilekroć w przepisach prawa jest mowa trzeb postępowania sądowego oraz na podstawie oŃCentralnym Rejestrze Skazanych” lub ŃCentralnym przepisów oKrajowym Rejestrze Karnym,”. Rejestrze Nieletnich”, należy przez to rozumieć ŃKrajoArt. 30. 1. Istniejące zasoby danych osobowych wy Rejestr Karny”. oraz informacji zgromadzonych w Centralnym Reje- Art. 32. Ustawa wchodzi wżycie po upływie 12 miestrze Skazanych, prowadzonym na podstawie rozpo- sięcy od dnia ogłoszenia. rządzenia Ministrów Sprawiedliwości Obrony Narodowej dnia 30 sierpnia 1993 w sprawie prowadzenia rejestru osób prawomocnie skazanych, udzielania 582 KONWENCJA oprzeprowadzaniu dowodów za granicą wsprawach cywilnych lub handlowych, sporządzona wHadze dnia 18 marca 1970 Wimieniu Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Wdniu 18 marca 1970 r.została sporządzona wHadze Konwencja oprzeprowadzaniu dowodów za granicą wsprawach cywilnych lubhandlowych wnastępującym brzmieniu: Przekład KONWENCJA oprzeprowadzaniu dowodów za granicą wsprawach cywilnych lub handlowych Państwa-sygnatariusze niniejszej konwencji, pragnąc ułatwić przekazywanie CONVENTION on the taking of evidence abroad in civil or commercial matters The States signatory to the present Convention, Desiring to facilitate the transCONVENTION sur L’obtention des preuves ∫L’étranger en mati¯re civile ou commerciale Les Etats signataires de la présente Convention, Désirant faciliter la transmis3. Prezesa Urzędu Mieszkalnictwa Roz- 5) wart. 33dust. 2 otrzymuje brzmienie: woju Miast powołuje odwołuje Prezes Rady Ministrów na wniosek mini- Ń2. Prezes Rady Ministrów, na wniosek ministra stra właściwego do spraw gospodarki właściwego do spraw gospodarki przestrzenprzestrzennej imieszkaniowej. nej imieszkaniowej,nadaje, wdrodze rozporzą4. Wiceprezesów Urzędu Mieszkalnictwa dzenia, statut Urzędowi Mieszkalnictwa RozRozwoju Miast powołuje odwołuje woju Miast, uwzględniając jego organizację minister właściwy do spraw gospodar- wewnętrzną itryb pracy.” ki przestrzennej mieszkaniowej na Art.2. Wustawie zdnia 6 maja 1981 opracowniwniosek Prezesa Urzędu Mieszkalnic- czych ogrodach działkowych (Dz. U. 1996 85, twa iRozwoju Miast.”; 390, 1997 141, 943, 1998 106,
 
-3. Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast powołuje i odwołuje Prezes Rady Ministrów na wniosek ministra właściwego do spraw gospodarki przestrzennej i mieszkaniowej.
+- **3)** wart. 33b: poz.668 iz1999 86, 965) wprowadza się naa) w pkt 5 wyraz Ńprojektów” zastępuje się wyra- stępujące zmiany: zem Ńprogramów”, 1) wart. 17 wust. 2 i3:
+    - **b)** w pkt 6 kropkę zastępuje się przecinkiem oraz a) wyrazy ŃMinister Pracy Polityki Socjalnej” zadodaje się pkt 7 wbrzmieniu: stępuje się wyrazami Ńminister właściwy do Ń7) wykonywanie przewidzianych przepisami spraw pracy”, szczególnymi zadań związanych zfunkcjono- b) wyrazy ŃMinistrem Finansów” zastępuje się wywaniem pracowniczych ogrodów działko- razami Ńministrem właściwym do spraw finanwych.”; sów publicznych”;
 
-4. Wiceprezesów Urzędu Mieszkalnictwa i Rozwoju Miast powołuje i odwołuje minister właściwy do spraw gospodarki przestrzennej i mieszkaniowej na wniosek Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast. ” ;
+- **4)** wart. 33c:
+    - **a)** pkt 1 otrzymuje brzmienie: Ń1) przygotowuje przedstawia ministrowi właściwemu do spraw gospodarki przestrzennej mieszkaniowej projekty ustaw, rozporządzeń iuchwał dotyczących polityki mieszkaniowej irozwoju miast,”
+    - **b)** pkt 5 otrzymuje brzmienie: Ń5) wykonuje inne zadania zzakresu gospodarki przestrzennej mieszkaniowej, określone wodrębnych przepisach.”;
 
-- **3)** w art. 33b: w pkt 5 wyraz „projektów” zastępuje się wyrazem „programów”, w pkt 6 kropkę zastępuje się przecinkiem oraz dodaje się pkt 7 w brzmieniu: „
-    - **a)**
-    - **b)**
+- **2)** wart. 30 wust. 3 wyrazy Ńministra właściwego do spraw mieszkalnictwa rozwoju miast” zastępuje się wyrazami ŃPrezesa Urzędu Mieszkalnictwa iRozwoju Miast”.
 
-- **7)** wykonywanie przewidzianych przepisami szczególnymi zadań związanych z funkcjonowaniem pracowniczych ogrodów działkowych. ” ;
-- **4)** w art. 33c: pkt 1 otrzymuje brzmienie: „
-    - **a)**
-
-- **1)** przygotowuje i przedstawia ministrowi właściwemu do spraw gospodarki przestrzennej i mieszkaniowej projekty ustaw, rozporządzeń i uchwał dotyczących polityki mieszkaniowej i rozwoju miast, ” pkt 5 otrzymuje brzmienie: „
-    - **b)**
-
-- **5)** wykonuje inne zadania z zakresu gospodarki przestrzennej i mieszkaniowej, określone w odrębnych przepisach. ” ;
-- **5)** w art. 33d ust. 2 otrzymuje brzmienie: „
-
-2.
-
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

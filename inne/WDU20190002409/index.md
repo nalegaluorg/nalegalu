@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 3 grudnia 2019 r. w sprawie rejestru endoprotezoplastyk
+# Rozporządzenie Ministra Zdrowiaz dnia 3 grudnia 2019 r. w sprawie rejestru endoprotezoplastyk Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-03 |
 | Data wydania | 2019-12-16 |
-| Wejście w życie | 2019-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002409) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2409/text.pdf) |
 
@@ -242,6 +241,5 @@ Tworzy się rejestr endoprotezoplastyk.
 § 8.
 Podmiot prowadzący rejestr, nie później niż po upływie 6 miesięcy od dnia wejścia w życie rozporządzenia, poinformuje usługodawców o terminie, w którym dane i identyfikatory, o których mowa w § 5, przekazuje się po raz pierwszy.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 

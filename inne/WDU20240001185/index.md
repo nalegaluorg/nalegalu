@@ -26,13 +26,18 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001185) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1185/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 9 października 2015 r. o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA Rozdział 1 – Przepisy ogólne Rozdział 2 – Obowiązki raportujących polskich instytucji finansowych Rozdział 3 – Weryfikacja wypełniania obowiązków przez raportujące polskie instytucje finansowe Rozdział 4 – Ochrona i udostępnianie zgromadzonych danych Rozdział 5 – Zmiany w przepisach obowiązujących Rozdział 6 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 9 października 2015 r. o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 października 2015 r. o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA (Dz. U. z 2023 r. poz. 41), z uwzględnieniem zmian wprowadzonych ustawą z dnia 23 maja 2024 r. o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw (Dz. U. poz. 879) oraz zmian wynikających z przepisów ogłoszonych przed dniem 30 lipca 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 17 i art. 22 ustawy z dnia 23 maja 2024 r. o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw (Dz. U. poz. 879), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 17 i art. 22 ustawy z dnia 23 maja 2024 r. o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw (Dz. U. poz. 879), które stanowią: „
+Przepisy ogólne
+Obowiązki raportujących polskich instytucji finansowych
+Weryfikacja wypełniania obowiązków przez raportujące polskie instytucje finansowe
+Ochrona i udostępnianie zgromadzonych danych
+Zmiany w przepisach obowiązujących
+Przepisy przejściowe i końcowe
 1.
 Obowiązek przekazywania informacji o amerykańskich rachunkach raportowanych określony w art. 4 ust. 1 pkt 2 obejmuje w odniesieniu do roku:
 1)
@@ -42,6 +47,18 @@ Obowiązek przekazywania informacji o amerykańskich rachunkach raportowanych ok
 2.
 W odniesieniu do amerykańskich rachunków raportowanych prowadzonych przez raportującą polską instytucję finansową na dzień 30 czerwca 2014 r. informacje, o których mowa w art. 4 ust. 1 pkt 2, przekazywane za lata 2014–2019 nie muszą zawierać informacji o amerykańskim NIP, jeżeli numer ten nie jest dostępny w rejestrach raportującej polskiej instytucji finansowej. W takim przypadku raportująca polska instytucja finansowa jest obowiązana przekazać informacje o dacie urodzenia posiadacza rachunku, o ile instytucja ta posiada takie dane.
 
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Obowiązki raportujących polskich instytucji finansowych
+
+#### Rozdział 3 – Weryfikacja wypełniania obowiązków przez raportujące polskie instytucje finansowe
+
+#### Rozdział 4 – Ochrona i udostępnianie zgromadzonych danych
+
+#### Rozdział 5 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 6 – Przepisy przejściowe i końcowe
+
 **Art. 17.** Przepisy art. 71a ustawy zmienianej w art. 1 i art. 10a ustawy zmienianej w art. 6 stosuje się do obowiązków, o których mowa w tych przepisach, powstałych od dnia wejścia w życie niniejszej ustawy, choćby dotyczące ich porozumienia zostały zawarte przed tym dniem. ” „
 
 **Art. 22.** Ustawa wchodzi w życie z dniem 1 lipca 2024 r., z wyjątkiem:
@@ -49,7 +66,7 @@ W odniesieniu do amerykańskich rachunków raportowanych prowadzonych przez rapo
 - **1)** art. 6 pkt 1, który wchodzi w życie z dniem 1 września 2024 r.;
 - **2)** art. 1 pkt 25 w zakresie art. 75b ust. 5 i art. 75u ust. 10, który wchodzi w życie z dniem 1 lipca 2025 r. ” . Załącznik – Tekst jednolity ustawy z dnia 9 października 2015 r. o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa zasady wykonywania na terytorium Rzeczypospolitej Polskiej zobowiązań wynikających z Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA, oraz towarzyszących Uzgodnień Końcowych, podpisanych w Warszawie dnia 7 października 2014 r. (Dz. U. z 2015 r. poz. 1647 oraz z 2017 r. poz. 158), zwanych dalej „Umową FATCA”, w tym:
 
@@ -67,7 +84,7 @@ W odniesieniu do amerykańskich rachunków raportowanych prowadzonych przez rapo
 
 **Art. 3.** Do załatwiania spraw, o których mowa w ustawie, przez funkcjonariuszy Służby Celno-Skarbowej lub pracowników jednostek organizacyjnych Krajowej Administracji Skarbowej lub organy upoważnione, stosuje się odpowiednio przepisy art. 143 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879).
 
-#### Rozdział 2 Obowiązki raportujących polskich instytucji finansowych
+#### Rozdział 2
 
 **Art. 4.**
 
@@ -82,9 +99,7 @@ W odniesieniu do amerykańskich rachunków raportowanych prowadzonych przez rapo
 
 3. Jeżeli zgodnie z procedurami sprawdzającymi, o których mowa w ust. 2, polska instytucja finansowa jest obowiązana do uzyskania oświadczenia posiadacza rachunku w związku z otwarciem rachunku finansowego, uzyskuje ona to oświadczenie w trakcie procedur związanych z otwarciem takiego rachunku.
 
-4. (uchylony)
-
-4a. Oświadczenia, o których mowa w ust. 2, są składane pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń i zawierają klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń. Wymóg pouczenia o odpowiedzialności karnej za składanie fałszywych oświadczeń uważa się za spełniony także w przypadku oświadczeń o odpowiedzialności za składanie fałszywych oświadczeń składanych na formularzach W8 i W9, o których mowa w Umowie FATCA oraz załączniku I do Umowy FATCA.
+4. (uchylony) 4aDodany przez art. 6 pkt 1 ustawy z dnia 23 maja 2024 r. o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw (Dz. U. poz. 879), która weszła w życie z dniem 1 lipca 2024 r.; wejdzie w życie z dniem 1 września 2024 r.. Oświadczenia, o których mowa w ust. 2, są składane pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń i zawierają klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń. Wymóg pouczenia o odpowiedzialności karnej za składanie fałszywych oświadczeń uważa się za spełniony także w przypadku oświadczeń o odpowiedzialności za składanie fałszywych oświadczeń składanych na formularzach W8 i W9, o których mowa w Umowie FATCA oraz załączniku I do Umowy FATCA.
 
 5. Raportująca polska instytucja finansowa, która pośredniczy w wypłacie na rzecz wyłączonych instytucji finansowych płatności podlegającej amerykańskiemu podatkowi, na wniosek podmiotu, od którego otrzymuje taką płatność, informuje ten podmiot o jej tytule, kwocie oraz danych umożliwiających identyfikację posiadacza rachunku, na który dokonywana jest płatność, a także o nazwie i miejscu siedziby tych wyłączonych instytucji finansowych.
 
@@ -95,7 +110,7 @@ W odniesieniu do amerykańskich rachunków raportowanych prowadzonych przez rapo
 8. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
 - **1)** (uchylony)
-- **2)** format i tryb przekazywania informacji, o których mowa w ust. 1 pkt 2, w formie dokumentu elektronicznego mając na uwadze usprawnienie wypełniania, przekazywania i przetwarzania informacji, o których mowa w ust. 1 pkt 2, oraz uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych w nich zawartych, ich ochrony przed nieuprawnionym dostępem oraz wymogi dotyczące ich przekazywania przewidziane w Umowie FATCA, a także ustalenia wynikające z dwustronnego porozumienia lub dokonane w ramach procedury wzajemnego porozumiewania się, w zakresie określonym w art. 3 ust. 6 Umowy FATCA.
+- **2)** format i tryb przekazywania informacji, o których mowa w ust. 1 pkt 2, w formie dokumentu elektronicznego – mając na uwadze usprawnienie wypełniania, przekazywania i przetwarzania informacji, o których mowa w ust. 1 pkt 2, oraz uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych w nich zawartych, ich ochrony przed nieuprawnionym dostępem oraz wymogi dotyczące ich przekazywania przewidziane w Umowie FATCA, a także ustalenia wynikające z dwustronnego porozumienia lub dokonane w ramach procedury wzajemnego porozumiewania się, w zakresie określonym w art. 3 ust. 6 Umowy FATCA.
 
 9. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, szczegółowe warunki stosowania procedur sprawdzających określonych w załączniku I do Umowy FATCA, stosowanych na potrzeby identyfikacji opisanych w nim kategorii rachunków, oraz przypadki, w których możliwy jest wybór określonych sposobów postępowania stosownie do postanowień tego załącznika, mając na uwadze warunki i możliwości przewidziane w tym zakresie w Umowie FATCA, a także specyfikę działalności raportujących polskich instytucji finansowych.
 
@@ -114,13 +129,9 @@ W odniesieniu do amerykańskich rachunków raportowanych prowadzonych przez rapo
 
 3. Skorygowanie informacji w przypadku, o którym mowa w ust. 2 pkt 1, nie wywołuje skutków prawnych.
 
-#### Rozdział 3 Weryfikacja wypełniania obowiązków przez raportujące polskie instytucje finansowe
+#### Rozdział 3
 
-**Art. 7.**
-
-1. W przypadku wystąpienia uchybień mniejszej wagi lub pomyłek administracyjnych, o których mowa w art. 5 ust. 1 Umowy FATCA, raportujące polskie instytucje finansowe, na sporządzone na piśmie żądanie Szefa Krajowej Administracji Skarbowej lub organu upoważnionego są obowiązane do udzielenia informacji niezbędnych do wyjaśnienia takich uchybień lub pomyłek.
-
-2. W żądaniu, o którym mowa w ust. 1, określa się zakres wymaganych informacji oraz termin ich przekazania nie krótszy niż 14 dni od dnia otrzymania żądania.
+**Art. 7.** 1Ze zmianą wprowadzoną przez art. 6 pkt 2 ustawy, o której mowa w odnośniku 1.. W przypadku wystąpienia uchybień mniejszej wagi lub pomyłek administracyjnych, o których mowa w art. 5 ust. 1 Umowy FATCA, raportujące polskie instytucje finansowe, na sporządzone na piśmie żądanie Szefa Krajowej Administracji Skarbowej lub organu upoważnionego są obowiązane do udzielenia informacji niezbędnych do wyjaśnienia takich uchybień lub pomyłek. 2. W żądaniu, o którym mowa w ust. 1, określa się zakres wymaganych informacji oraz termin ich przekazania nie krótszy niż 14 dni od dnia otrzymania żądania.
 
 **Art. 8.**
 
@@ -130,9 +141,7 @@ W odniesieniu do amerykańskich rachunków raportowanych prowadzonych przez rapo
 
 3. Wraz z zawiadomieniem o zamiarze wszczęcia kontroli amerykańskich rachunków raportowanych kontrolujący informuje kontrolowanego o zakresie nieprawidłowości wskazanych w zawiadomieniu, o którym mowa w ust. 1.
 
-4. Kontrola amerykańskich rachunków raportowanych powinna zostać zakończona bez zbędnej zwłoki, nie później niż w terminie 7 miesięcy od dnia jej wszczęcia.
-
-5. W toku kontroli amerykańskich rachunków raportowanych kontrolujący jest uprawniony do żądania w szczególności udostępniania akt, ksiąg i wszelkiego rodzaju dokumentów związanych z przedmiotem kontroli oraz do sporządzania z nich odpisów, kopii, wyciągów, notatek, wydruków i udokumentowanego pobierania danych w postaci elektronicznej, w tym objętych tajemnicą prawnie chronioną, z wyłączeniem dokumentów i materiałów zawierających informacje niejawne.
+4. Kontrola amerykańskich rachunków raportowanych powinna zostać zakończona bez zbędnej zwłoki, nie później niż w terminie 7 miesięcy od dnia jej wszczęcia. 5Ze zmianą wprowadzoną przez art. 6 pkt 3 lit. a ustawy, o której mowa w odnośniku 1.. W toku kontroli amerykańskich rachunków raportowanych kontrolujący jest uprawniony do żądania w szczególności udostępniania akt, ksiąg i wszelkiego rodzaju dokumentów związanych z przedmiotem kontroli oraz do sporządzania z nich odpisów, kopii, wyciągów, notatek, wydruków i udokumentowanego pobierania danych w postaci elektronicznej, w tym objętych tajemnicą prawnie chronioną, z wyłączeniem dokumentów i materiałów zawierających informacje niejawne.
 
 6. Występując z żądaniem, o którym mowa w ust. 5, kontrolujący jest obowiązany zwracać szczególną uwagę na zasadę wzajemnego zaufania między instytucjami finansowymi a ich klientami.
 
@@ -153,8 +162,7 @@ W odniesieniu do amerykańskich rachunków raportowanych prowadzonych przez rapo
 - **5)** opis przebiegu kontroli amerykańskich rachunków raportowanych;
 - **6)** końcowe ustalenia i wnioski zawierające informację o stwierdzeniu nieprawidłowości albo o ich braku;
 - **7)** wskazanie terminu usunięcia nieprawidłowości, jeżeli zostały stwierdzone;
-- **8)** informację o możliwych skutkach określonych w art. 5 ust. 2 lit. b Umowy FATCA;
-- **9)** podpis osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego, a jeżeli wynik kontroli został wydany w formie dokumentu elektronicznego – kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty.
+- **8)** informację o możliwych skutkach określonych w art. 5 ust. 2 lit. b Umowy FATCA; 9W brzmieniu ustalonym przez art. 6 pkt 3 lit. b ustawy, o której mowa w odnośniku 1.) podpis osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego, a jeżeli wynik kontroli został wydany w formie dokumentu elektronicznego – kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty.
 
 12. Termin, o którym mowa w ust. 11 pkt 7, nie może być krótszy niż 1 miesiąc i dłuższy niż 6 miesięcy, licząc od dnia doręczenia wyniku kontroli.
 
@@ -180,7 +188,7 @@ W odniesieniu do amerykańskich rachunków raportowanych prowadzonych przez rapo
 
 3. Przez porozumienie, o którym mowa w ust. 1, rozumie się czynność podejmowaną lub zespół czynności podejmowanych w celu uniknięcia wykonywania obowiązków w zakresie identyfikowania amerykańskich rachunków raportowanych i przekazywania informacji o amerykańskich rachunkach raportowanych.
 
-#### Rozdział 4 Ochrona i udostępnianie zgromadzonych danych
+#### Rozdział 4
 
 **Art. 11.**
 
@@ -191,12 +199,11 @@ W odniesieniu do amerykańskich rachunków raportowanych prowadzonych przez rapo
 - **1)** informacjach, o których mowa w art. 4 ust. 1 pkt 2,
 - **2)** informacjach, o których mowa w art. 2 ust. 2 lit. b Umowy FATCA,
 - **3)** aktach dokumentujących czynności określone w art. 7,
-- **4)** aktach kontroli amerykańskich rachunków raportowanych są objęte tajemnicą skarbową.
+- **4)** aktach kontroli amerykańskich rachunków raportowanych – są objęte tajemnicą skarbową.
 
 3. Dane osobowe przetwarzane w celu wykonywania zadań wynikających z ustawy i Umowy FATCA podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
 
-- **1)** dopuszczeniu przez administratora danych do przetwarzania danych osobowych wyłącznie osób do tego uprawnionych;
-- **2)** sporządzonym na piśmie zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy;
+- **1)** dopuszczeniu przez administratora danych do przetwarzania danych osobowych wyłącznie osób do tego uprawnionych; 2W brzmieniu ustalonym przez art. 6 pkt 5 ustawy, o której mowa w odnośniku 1.) sporządzonym na piśmie zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy;
 - **3)** regularnym testowaniu i doskonaleniu stosowanych środków technicznych i organizacyjnych;
 - **4)** zapewnieniu bezpiecznej komunikacji w sieciach teleinformatycznych, w szczególności poprzez zagwarantowanie, by proces pozyskiwania i przekazywania danych osobowych podmiotom zewnętrznym wykorzystywał techniki kryptograficzne;
 - **5)** zapewnieniu ochrony przed nieuprawnionym dostępem do systemów informatycznych organów, o których mowa w ust. 1;
@@ -219,13 +226,13 @@ W odniesieniu do amerykańskich rachunków raportowanych prowadzonych przez rapo
 
 **Art. 14.** W zakresie nieuregulowanym w niniejszym rozdziale stosuje się odpowiednio przepisy art. 294, art. 296, art. 297a oraz art. 299b ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących
+#### Rozdział 5
 
 **Art. 15.** (pominięty)
 
 **Art. 16.** (pominięty)
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6
 
 **Art. 18.** W przypadku gdy na dzień 30 czerwca 2014 r. istniejący rachunek finansowy osoby fizycznej był rachunkiem o wysokiej wartości, o którym mowa w ust. D części II załącznika I do Umowy FATCA, raportująca polska instytucja finansowa jest obowiązana przeprowadzić rozszerzone procedury weryfikacji, opisane w ust. D części II załącznika I do tej umowy, w stosunku do takiego rachunku, w terminie do 31 marca 2016 r.
 
@@ -239,7 +246,7 @@ W odniesieniu do amerykańskich rachunków raportowanych prowadzonych przez rapo
 2. W ramach procedury, o której mowa w ust. 1, raportujące polskie instytucje finansowe stosują wyłączenia od weryfikacji, identyfikacji oraz raportowania rachunków finansowych określone:
 
 - **1)** w ust. A części III załącznika I do Umowy FATCA – w przypadku rachunków finansowych osób fizycznych,
-- **2)** w ust. A części V załącznika I do Umowy FATCA – w przypadku rachunków finansowych osób prawnych lub jednostek organizacyjnych nieposiadających osobowości prawnej przy czym wskazane w ust. A części III oraz w ust. A części V załącznika I do Umowy FATCA salda ustala się na dzień wejścia w życie ustawy.
+- **2)** w ust. A części V załącznika I do Umowy FATCA – w przypadku rachunków finansowych osób prawnych lub jednostek organizacyjnych nieposiadających osobowości prawnej – przy czym wskazane w ust. A części III oraz w ust. A części V załącznika I do Umowy FATCA salda ustala się na dzień wejścia w życie ustawy.
 
 3. Raportujące polskie instytucje finansowe są obowiązane do przeprowadzenia, określonej w ust. 1, procedury identyfikacji rachunków finansowych jako amerykańskich rachunków raportowanych, w terminie 12 miesięcy od dnia wejścia w życie ustawy, z tym że żądanie przedstawienia wymaganych oświadczeń powinno zostać skierowane do posiadacza rachunku nie później niż w terminie 120 dni od tego dnia.
 
@@ -296,5 +303,5 @@ W odniesieniu do amerykańskich rachunków raportowanych prowadzonych przez rapo
 
 **Art. 24.** Raportujące polskie instytucje finansowe mogą korzystać z usług innych podmiotów w zakresie wykonywania obowiązków, o których mowa w art. 18, art. 19 ust. 1–4 oraz art. 21. Odpowiedzialność za wykonanie obowiązków ponosi raportująca polska instytucja finansowa.
 
-**Art. 25.** Ustawa wchodzi w życie z dniem 1 grudnia 2015 r.
+**Art. 25.** Ustawa wchodzi w życie z dniem 1 grudnia 2015 r. 1) Dodany przez art. 6 pkt 1 ustawy z dnia 23 maja 2024 r. o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw (Dz. U. poz. 879), która weszła w życie z dniem 1 lipca 2024 r.; wejdzie w życie z dniem 1 września 2024 r. 2) Ze zmianą wprowadzoną przez art. 6 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Ze zmianą wprowadzoną przez art. 6 pkt 3 lit. a ustawy, o której mowa w odnośniku 1. 4) W brzmieniu ustalonym przez art. 6 pkt 3 lit. b ustawy, o której mowa w odnośniku 1. 5) Dodany przez art. 6 pkt 4 ustawy, o której mowa w odnośniku 1. 6) W brzmieniu ustalonym przez art. 6 pkt 5 ustawy, o której mowa w odnośniku 1.
 

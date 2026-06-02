@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia
+# Ustawa z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia Niniejsza ustawa służy stosowaniu następujących rozporządzeń Parlamentu Europejskiego i Rady (UE): 1) rozporządzenia nr 167/2013 z dnia 5 lutego 2013 r. w sprawie homologacji i nadzoru rynku pojazdów rolniczych i leśnych (Dz. Urz. UE L 60 z 02.03.2013, str. 1, Dz. Urz. UE L 364 z 18.12.2014, str. 1, Dz. Urz. UE L 252 z 16.09.2016, str. 53, Dz. Urz. UE L 277 z 13.10.2016, str. 1, Dz. Urz. UE L 140 z 06.06.2018, str. 15 oraz Dz. Urz. UE L 91 z 29.03.2019, str. 42); 2) rozporządzenia nr 168/2013 z dnia 15 stycznia 2013 r. w sprawie homologacji i nadzoru rynku pojazdów dwu- lub trzykołowych oraz czterokołowców (Dz. Urz. UE L 60 z 02.03.2013, str. 52, Dz. Urz. UE L 53 z 21.02.2014, str. 1, Dz. Urz. UE L 77 z 23.03.2016, str. 65, Dz. Urz. UE L 30 z 31.01.2019, str. 106 oraz Dz. Urz. UE L 381 z 13.11.2020, str. 4); 3) rozporządzenia 2018/858 z dnia 30 maja 2018 r. w sprawie homologacji i nadzoru rynku pojazdów silnikowych i ich przyczep oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, zmieniającego rozporządzenie (WE) nr 715/2007 i (WE) nr 595/2009 oraz uchylającego dyrektywę 2007/46/WE (Dz. Urz. UE L 151 z 14.06.2018, str. 1, Dz. Urz. UE L 325 z 16.12.2019, str. 1, Dz. Urz. UE L 19 z 21.01.2021, str. 2, Dz. Urz. UE L 272 z 30.07.2021, str. 16, Dz. Urz. UE L 313 z 06.09.2021, str. 4 oraz Dz. Urz. UE L 398 z 11.11.2021, str. 29).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,36 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-05-14 |
 | Data wydania | 2023-05-16 |
-| Wejście w życie | 2023-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000919) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/919/text.pdf) |
 
-#### Rozdział 1 Przepisy ogólne
+Niniejsza ustawa wdraża: 1) dyrektywę delegowaną Komisji (UE) 2021/1716 z dnia 29 czerwca 2021 r. zmieniającą dyrektywę Parlamentu Europejskiego i Rady 2014/47/UE w odniesieniu do zmian w oznaczeniach kategorii pojazdów wynikających ze zmian w prawodawstwie dotyczącym homologacji typu (Dz. Urz. UE L 342 z 27.09.2021, str. 45); 2) dyrektywę delegowaną Komisji (UE) 2021/1717 z dnia 9 lipca 2021 r. zmieniającą dyrektywę Parlamentu Europejskiego i Rady 2014/45/UE w odniesieniu do aktualizacji niektórych oznaczeń kategorii pojazdów i dodania systemu eCall do wykazu badanych elementów, metod, kryteriów uznania stanu technicznego za niezadowalający i oceny usterek w załącznikach I i III do tej dyrektywy (Dz. Urz. UE L 342 z 27.09.2021, str. 48). Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 21 grudnia 2000 r. o dozorze technicznym, ustawę z dnia 6 września 2001 r. o transporcie drogowym oraz ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej.
+Przepisy ogólne
+Służba techniczna
+Homologacja
+Indywidualne dopuszczenie pojazdu
+Opłaty
+Akcje serwisowe
+Zmiany w przepisach
+Przepisy przejściowe i przepis końcowy
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Służba techniczna
+
+#### Rozdział 3 – Homologacja
+
+#### Rozdział 4 – Indywidualne dopuszczenie pojazdu
+
+#### Rozdział 5 – Opłaty
+
+#### Rozdział 6 – Akcje serwisowe
+
+#### Rozdział 7 – Zmiany w przepisach
+
+#### Rozdział 8 – Przepisy przejściowe i przepis końcowy
+
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -46,15 +71,15 @@ source: "eli-html"
 
 2. Ustawa określa organ nadzoru rynku.
 
-3. Ustawę stosuje się do pojazdów w rozumieniu art. 2 pkt 31 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, z późn. zm.):
+3. Ustawę stosuje się do pojazdów w rozumieniu art. 2 pkt 31 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1002, 1768, 1783, 2589, 2600 i 2642 oraz z 2023 r. poz. 760 i 919.):
 
-- **1)** o których mowa w: art. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 167/2013 z dnia 5 lutego 2013 r. w sprawie homologacji i nadzoru rynku pojazdów rolniczych i leśnych (Dz. Urz. UE L 60 z 02.03.2013, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 167/2013”, art. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 168/2013 z dnia 15 stycznia 2013 r. w sprawie homologacji i nadzoru rynku pojazdów dwu- lub trzykołowych oraz czterokołowców (Dz. Urz. UE L 60 z 02.03.2013, str. 52, z późn. zm.), zwanego dalej „rozporządzeniem 168/2013”, art. 4 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/858 z dnia 30 maja 2018 r. w sprawie homologacji i nadzoru rynku pojazdów silnikowych i ich przyczep oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, zmieniającego rozporządzenie (WE) nr 715/2007 i (WE) nr 595/2009 oraz uchylającego dyrektywę 2007/46/WE (Dz. Urz. UE L 151 z 14.06.2018, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2018/858”, Porozumieniu dotyczącym przyjęcia zharmonizowanych regulaminów technicznych Organizacji Narodów Zjednoczonych dla pojazdów kołowych, wyposażenia i części, które mogą być montowane lub wykorzystywane w tych pojazdach, oraz warunków wzajemnego uznawania homologacji udzielonych na podstawie tych regulaminów Organizacji Narodów Zjednoczonych – Wersja 3, stanowiącym załącznik do decyzji Rady (UE) 2016/1790 z dnia 17 czerwca 2016 r. w sprawie przyjęcia 3. wersji Porozumienia Europejskiej Komisji Gospodarczej Organizacji Narodów Zjednoczonych dotyczącego przyjęcia jednolitych wymagań technicznych dla pojazdów kołowych, wyposażenia i części, które mogą być stosowane w tych pojazdach, oraz wzajemnego uznawania homologacji udzielonych na podstawie tych wymagań („Zrewidowane Porozumienie z 1958 r.”) (Dz. Urz. UE L 274 z 11.10.2016, str. 2 i 4 oraz Dz. Urz. UE L 269 z 23.10.2019, str. 12), zwanym dalej „Porozumieniem z 1958 r.”,
+- **1)** o których mowa w: art. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 167/2013 z dnia 5 lutego 2013 r. w sprawie homologacji i nadzoru rynku pojazdów rolniczych i leśnych (Dz. Urz. UE L 60 z 02.03.2013, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 364 z 18.12.2014, str. 1, Dz. Urz. UE L 252 z 16.09.2016, str. 53, Dz. Urz. UE L 277 z 13.10.2016, str. 1, Dz. Urz. UE L 140 z 06.06.2018, str. 15 oraz Dz. Urz. UE L 91 z 29.03.2019, str. 42., zwanego dalej „rozporządzeniem 167/2013”, art. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 168/2013 z dnia 15 stycznia 2013 r. w sprawie homologacji i nadzoru rynku pojazdów dwu- lub trzykołowych oraz czterokołowców (Dz. Urz. UE L 60 z 02.03.2013, str. 52, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 53 z 21.02.2014, str. 1, Dz. Urz. UE L 77 z 23.03.2016, str. 65, Dz. Urz. UE L 30 z 31.01.2019, str. 106 oraz Dz. Urz. UE L 381 z 13.11.2020, str. 4., zwanego dalej „rozporządzeniem 168/2013”, art. 4 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/858 z dnia 30 maja 2018 r. w sprawie homologacji i nadzoru rynku pojazdów silnikowych i ich przyczep oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, zmieniającego rozporządzenie (WE) nr 715/2007 i (WE) nr 595/2009 oraz uchylającego dyrektywę 2007/46/WE (Dz. Urz. UE L 151 z 14.06.2018, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 325 z 16.12.2019, str. 1, Dz. Urz. UE L 19 z 21.01.2021, str. 2, Dz. Urz. UE L 272 z 30.07.2021, str. 16, Dz. Urz. UE L 313 z 06.09.2021, str. 4 oraz Dz. Urz. UE L 398 z 11.11.2021, str. 29., zwanego dalej „rozporządzeniem 2018/858”, Porozumieniu dotyczącym przyjęcia zharmonizowanych regulaminów technicznych Organizacji Narodów Zjednoczonych dla pojazdów kołowych, wyposażenia i części, które mogą być montowane lub wykorzystywane w tych pojazdach, oraz warunków wzajemnego uznawania homologacji udzielonych na podstawie tych regulaminów Organizacji Narodów Zjednoczonych – Wersja 3, stanowiącym załącznik do decyzji Rady (UE) 2016/1790 z dnia 17 czerwca 2016 r. w sprawie przyjęcia 3. wersji Porozumienia Europejskiej Komisji Gospodarczej Organizacji Narodów Zjednoczonych dotyczącego przyjęcia jednolitych wymagań technicznych dla pojazdów kołowych, wyposażenia i części, które mogą być stosowane w tych pojazdach, oraz wzajemnego uznawania homologacji udzielonych na podstawie tych wymagań („Zrewidowane Porozumienie z 1958 r.”) (Dz. Urz. UE L 274 z 11.10.2016, str. 2 i 4 oraz Dz. Urz. UE L 269 z 23.10.2019, str. 12), zwanym dalej „Porozumieniem z 1958 r.”,
     - **a)**
     - **b)**
     - **c)**
     - **d)**
 
-- **2)** będących tramwajem lub trolejbusem oraz ich przedmiotów wyposażenia i części.
+- **2)** będących tramwajem lub trolejbusem – oraz ich przedmiotów wyposażenia i części.
 
 4. Ustawę stosuje się do montażu dodatkowej instalacji zasilania gazem pojazdu.
 
@@ -122,7 +147,7 @@ source: "eli-html"
 
 3. Dyrektor TDT jest na terytorium Rzeczypospolitej Polskiej organem nadzoru rynku w rozumieniu art. 3 pkt 45 rozporządzenia 167/2013, art. 3 pkt 57 rozporządzenia 168/2013 i art. 3 pkt 35 rozporządzenia 2018/858 oraz wykonuje funkcję organu nadzoru rynku w procedurach krajowej homologacji typu pojazdu i procedurach homologacji dodatkowej instalacji zasilania gazem pojazdu, zgodnie z zasadami i procedurami określonymi w art. 7, art. 9, art. 11 ust. 1–3 i 5–7, art. 14, art. 15, art. 16 ust. 1–4 i art. 17–19 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1020 z dnia 20 czerwca 2019 r. w sprawie nadzoru rynku i zgodności produktów oraz zmieniającego dyrektywę 2004/42/WE oraz rozporządzenia (WE) nr 765/2008 i (UE) nr 305/2011 (Dz. Urz. UE L 169 z 25.06.2019, str. 1), które stanowi ramy dla kontroli produktów.
 
-#### Rozdział 2 Służba techniczna
+#### Rozdział 2
 
 **Art. 4.**
 
@@ -137,7 +162,7 @@ source: "eli-html"
 5. Wyznaczenia dokonuje się na podstawie:
 
 - **1)** certyfikatu akredytacji wydanego zgodnie z art. 22 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854) lub
-- **2)** oceny dokonanej przez Dyrektora TDT, o której mowa w art. 73 ust. 2–4 rozporządzenia 2018/858, art. 62 ust. 1 rozporządzenia 167/2013, art. 66 ust. 1 rozporządzenia 168/2013 lub w części pierwszej załącznika 2 do Porozumienia z 1958 r. odpowiednio do zakresu wyznaczenia.
+- **2)** oceny dokonanej przez Dyrektora TDT, o której mowa w art. 73 ust. 2–4 rozporządzenia 2018/858, art. 62 ust. 1 rozporządzenia 167/2013, art. 66 ust. 1 rozporządzenia 168/2013 lub w części pierwszej załącznika 2 do Porozumienia z 1958 r. – odpowiednio do zakresu wyznaczenia.
 
 6. W przypadku służby technicznej wnioskującej o wyznaczenie w zakresie badań homologacyjnych tramwajów, trolejbusów oraz montażu dodatkowej instalacji zasilania gazem pojazdu, Dyrektor TDT dokonuje oceny, o której mowa w ust. 5 pkt 2, zgodnie z przepisami wydanymi na podstawie art. 11, odpowiednio do zakresu wyznaczenia.
 
@@ -212,7 +237,7 @@ source: "eli-html"
 - **2)** ujednolicenia wzorów dokumentów stosowanych w procedurze oceny służby technicznej;
 - **3)** zapewnienia sprawnego i skutecznego wykonywania zadań w zakresie badań homologacyjnych.
 
-#### Rozdział 3 Homologacja
+#### Rozdział 3
 
 **Art. 12.**
 
@@ -251,7 +276,7 @@ source: "eli-html"
 
 - **1)** świadectwo krajowego indywidualnego dopuszczenia pojazdu,
 - **2)** uznanie świadectwa krajowego indywidualnego dopuszczenia pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej albo
-- **3)** świadectwo unijnego indywidualnego dopuszczenia pojazdu które potwierdza spełnienie wymagań technicznych określonych dla tego pojazdu.
+- **3)** świadectwo unijnego indywidualnego dopuszczenia pojazdu – które potwierdza spełnienie wymagań technicznych określonych dla tego pojazdu.
 
 4. Pojazdy, o których mowa w art. 2 ust. 3 rozporządzenia 2018/858, nie podlegają obowiązkowi uzyskania świadectwa homologacji. Producent takiego pojazdu może wystąpić o wydanie świadectwa homologacji typu UE pojazdu albo świadectwa krajowej homologacji typu pojazdów produkowanych w małych seriach, jeżeli pojazd spełnia odpowiednie warunki lub wymagania techniczne określone w przepisach rozporządzenia 2018/858 albo przepisach wydanych na podstawie art. 54 ust. 1.
 
@@ -273,7 +298,7 @@ source: "eli-html"
 - **4)** świadectwo krajowej homologacji typu pojazdu,
 - **5)** świadectwo krajowej homologacji typu tramwaju,
 - **6)** świadectwo krajowej homologacji typu trolejbusu,
-- **7)** świadectwo krajowej homologacji typu pojazdów produkowanych w małych seriach albo odmawia ich wydania.
+- **7)** świadectwo krajowej homologacji typu pojazdów produkowanych w małych seriach – albo odmawia ich wydania.
 
 2. Wydanie, zmiana albo odmowa wydania dokumentów wskazanych w ust. 1 następuje w drodze decyzji administracyjnej.
 
@@ -444,7 +469,7 @@ source: "eli-html"
 1. Dyrektor TDT uznaje, w drodze decyzji administracyjnej, za opłatą, świadectwo krajowej homologacji typu pojazdu, wydane przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, jeżeli wymagania techniczne stanowiące podstawę do jego wydania są równoważne wymaganiom technicznym obowiązującym:
 
 - **1)** w procedurze uzyskania świadectwa homologacji typu UE pojazdu albo
-- **2)** na terytorium Rzeczypospolitej Polskiej w procedurze krajowej homologacji typu pojazdu albo odmawia jego uznania.
+- **2)** na terytorium Rzeczypospolitej Polskiej w procedurze krajowej homologacji typu pojazdu – albo odmawia jego uznania.
 
 2. Wydanie decyzji, o której mowa w ust. 1, następuje na wniosek producenta.
 
@@ -781,7 +806,7 @@ source: "eli-html"
 - **1)** badań homologacyjnych,
 - **2)** badań potwierdzających spełnienie wymagań technicznych przez typ przedmiotu wyposażenia lub części, które mogą stwarzać poważne zagrożenie dla właściwego funkcjonowania istotnych układów,
 - **3)** kontroli zgodności montażu dodatkowej instalacji zasilania gazem pojazdu,
-- **4)** kontroli zgodności produkcji pojazdu, przedmiotu wyposażenia lub części pokrywa producent albo podmiot dokonujący montażu dodatkowej instalacji zasilania gazem pojazdu.
+- **4)** kontroli zgodności produkcji pojazdu, przedmiotu wyposażenia lub części – pokrywa producent albo podmiot dokonujący montażu dodatkowej instalacji zasilania gazem pojazdu.
 
 **Art. 54.**
 
@@ -825,7 +850,7 @@ source: "eli-html"
 **Art. 57.** Minister właściwy do spraw transportu może określić, w drodze rozporządzenia:
 
 - **1)** warunki wydawania zezwolenia na wprowadzanie do obrotu przedmiotu wyposażenia lub części, które mogą stwarzać poważne zagrożenie dla właściwego funkcjonowania istotnych układów,
-- **2)** zakres i sposób przeprowadzania kontroli zgodności produkcji uwzględniając potrzebę zapewnienia właściwego poziomu bezpieczeństwa, ochrony zdrowia i środowiska.
+- **2)** zakres i sposób przeprowadzania kontroli zgodności produkcji – uwzględniając potrzebę zapewnienia właściwego poziomu bezpieczeństwa, ochrony zdrowia i środowiska.
 
 **Art. 58.**
 
@@ -845,7 +870,7 @@ source: "eli-html"
 - **3)** konieczność ujednolicenia dokumentów, znaków oraz tabliczek informacyjnych związanych z homologacją montażu dodatkowej instalacji zasilania gazem pojazdu oraz potrzebę zapewnienia ich funkcjonalności;
 - **4)** konieczność zapewnienia sprawnego i skutecznego wykonywania zadań w zakresie homologacji.
 
-#### Rozdział 4 Indywidualne dopuszczenie pojazdu
+#### Rozdział 4
 
 **Art. 59.**
 
@@ -870,7 +895,7 @@ source: "eli-html"
 1. Dyrektor TDT, w drodze decyzji administracyjnej, za opłatą, na wniosek producenta, przedstawiciela producenta, importera albo właściciela pojazdu wydaje:
 
 - **1)** świadectwo unijnego indywidualnego dopuszczenia pojazdu,
-- **2)** świadectwo krajowego indywidualnego dopuszczenia pojazdu albo odmawia jego wydania.
+- **2)** świadectwo krajowego indywidualnego dopuszczenia pojazdu – albo odmawia jego wydania.
 
 2. Do wniosku, o którym mowa w ust. 1, dołącza się:
 
@@ -961,7 +986,7 @@ source: "eli-html"
 - **3)** konieczność ujednolicenia wzorów dokumentów związanych z procedurą unijnego i krajowego indywidualnego dopuszczenia pojazdu oraz oświadczeń składanych w ramach rejestracji i ewidencji pojazdu, a także potrzebę zapewnienia ich funkcjonalności;
 - **4)** konieczność zapewnienia sprawnego i skutecznego wykonywania zadań w zakresie indywidualnego dopuszczenia pojazdu.
 
-#### Rozdział 5 Opłaty
+#### Rozdział 5
 
 **Art. 69.**
 
@@ -996,7 +1021,7 @@ source: "eli-html"
 4. Wnioskodawca lub poddany kontroli uiszcza:
 
 - **1)** opłaty, o których mowa w ust. 2 pkt 1–20 i ust. 3, w wysokości i terminie wskazanych na rachunku wystawionym przez Transportowy Dozór Techniczny,
-- **2)** opłatę, o której mowa w ust. 2 pkt 21 i ust. 3, w wysokości i terminie wskazanych na rachunku wystawionym przez Transportowy Dozór Techniczny, a w przypadku upoważnienia służby technicznej do przeprowadzenia kontroli zgodności – na rachunku wystawionym przez tę służbę przy czym termin nie może być krótszy niż 14 dni.
+- **2)** opłatę, o której mowa w ust. 2 pkt 21 i ust. 3, w wysokości i terminie wskazanych na rachunku wystawionym przez Transportowy Dozór Techniczny, a w przypadku upoważnienia służby technicznej do przeprowadzenia kontroli zgodności – na rachunku wystawionym przez tę służbę – przy czym termin nie może być krótszy niż 14 dni.
 
 5. Wpływy z tytułu opłat, o których mowa w ust. 2 i 3, wraz z odsetkami, stanowią przychód Transportowego Dozoru Technicznego.
 
@@ -1006,7 +1031,7 @@ source: "eli-html"
 
 8. W przypadku upoważnienia przez Dyrektora TDT służby technicznej do przeprowadzenia kontroli zgodności opłata, o której mowa w ust. 2 pkt 21 i ust. 3, za jej przeprowadzenie stanowi przychód służby technicznej.
 
-#### Rozdział 6 Akcje serwisowe
+#### Rozdział 6
 
 **Art. 70.** Jeżeli producent, który uzyskał świadectwo homologacji typu UE pojazdu, świadectwo homologacji typu UE albo świadectwo homologacji typu ONZ, stwierdził we wprowadzonym do obrotu pojeździe, przedmiocie wyposażenia lub części poważne zagrożenia dla bezpieczeństwa, ochrony zdrowia i środowiska albo brak zgodności pojazdu, przedmiotu wyposażenia lub części z homologowanym typem, jest obowiązany niezwłocznie powiadomić o tym Dyrektora TDT oraz podjąć działania zgodnie z przepisami rozdziału XII rozporządzenia 167/2013, rozdziału XII rozporządzenia 168/2013 lub rozdziału XI rozporządzenia 2018/858 – odpowiednio do kategorii pojazdu, przedmiotu wyposażenia lub części.
 
@@ -1035,9 +1060,9 @@ source: "eli-html"
 
 6. Obowiązki informacyjne importerów i dystrybutorów określone odpowiednio w rozporządzeniu 167/2013, rozporządzeniu 168/2013 albo rozporządzeniu 2018/858 dotyczą importerów i dystrybutorów pojazdów, przedmiotów wyposażenia lub części, które posiadają świadectwo krajowej homologacji typu pojazdu, tramwaju albo trolejbusu albo świadectwo homologacji typu ONZ.
 
-#### Rozdział 7 Zmiany w przepisach
+#### Rozdział 7
 
-**Art. 72.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 72.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1002, 1768, 1783, 2589, 2600 i 2642 oraz z 2023 r. poz. 760.) wprowadza się następujące zmiany:
 
 - **1)** w odnośniku nr 1 w pkt 13 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 14 i 15 w brzmieniu: „
 - **14)** dyrektywy delegowanej Komisji (UE) 2021/1716 z dnia 29 czerwca 2021 r. zmieniającej dyrektywę Parlamentu Europejskiego i Rady 2014/47/UE w odniesieniu do zmian w oznaczeniach kategorii pojazdów wynikających ze zmian w prawodawstwie dotyczącym homologacji typu (Dz. Urz. UE L 342 z 27.09.2021, str. 45);
@@ -1045,7 +1070,7 @@ source: "eli-html"
 - **2)** w art. 2: pkt 60 otrzymuje brzmienie: „
     - **a)**
 
-- **60)** kategoria pojazdu – klasyfikację pojazdu według wymagań homologacyjnych określonych w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 167/2013 z dnia 5 lutego 2013 r. w sprawie homologacji i nadzoru rynku pojazdów rolniczych i leśnych (Dz. Urz. UE L 60 z 02.03.2013, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem 167/2013”, rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 168/2013 z dnia 15 stycznia 2013 r. w sprawie homologacji i nadzoru rynku pojazdów dwu- lub trzykołowych oraz czterokołowców (Dz. Urz. UE L 60 z 02.03.2013, str. 52, z późn. zm.), zwanym dalej „rozporządzeniem 168/2013”, i rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2018/858 z dnia 30 maja 2018 r. w sprawie homologacji i nadzoru rynku pojazdów silnikowych i ich przyczep oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, zmieniającym rozporządzenie (WE) nr 715/2007 i (WE) nr 595/2009 oraz uchylającym dyrektywę 2007/46/WE (Dz. Urz. UE L 151 z 14.06.2018, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem 2018/858”, a także załączniku nr 2 do ustawy; ” , pkt 64 otrzymuje brzmienie: „
+- **60)** kategoria pojazdu – klasyfikację pojazdu według wymagań homologacyjnych określonych w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 167/2013 z dnia 5 lutego 2013 r. w sprawie homologacji i nadzoru rynku pojazdów rolniczych i leśnych (Dz. Urz. UE L 60 z 02.03.2013, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 364 z 18.12.2014, str. 1, Dz. Urz. UE L 252 z 16.09.2016, str. 53, Dz. Urz. UE L 277 z 13.10.2016, str. 1, Dz. Urz. UE L 140 z 06.06.2018, str. 15 oraz Dz. Urz. UE L 91 z 29.03.2019, str. 42., zwanym dalej „rozporządzeniem 167/2013”, rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 168/2013 z dnia 15 stycznia 2013 r. w sprawie homologacji i nadzoru rynku pojazdów dwu- lub trzykołowych oraz czterokołowców (Dz. Urz. UE L 60 z 02.03.2013, str. 52, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 53 z 21.02.2014, str. 1, Dz. Urz. UE L 77 z 23.03.2016, str. 65, Dz. Urz. UE L 30 z 31.01.2019, str. 106 oraz Dz. Urz. UE L 381 z 13.11.2020, str. 4., zwanym dalej „rozporządzeniem 168/2013”, i rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2018/858 z dnia 30 maja 2018 r. w sprawie homologacji i nadzoru rynku pojazdów silnikowych i ich przyczep oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, zmieniającym rozporządzenie (WE) nr 715/2007 i (WE) nr 595/2009 oraz uchylającym dyrektywę 2007/46/WE (Dz. Urz. UE L 151 z 14.06.2018, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 325 z 16.12.2019, str. 1, Dz. Urz. UE L 19 z 21.01.2021, str. 2, Dz. Urz. UE L 272 z 30.07.2021, str. 16, Dz. Urz. UE L 313 z 06.09.2021, str. 4 oraz Dz. Urz. UE L 398 z 11.11.2021, str. 29., zwanym dalej „rozporządzeniem 2018/858”, a także załączniku nr 2 do ustawy; ” , pkt 64 otrzymuje brzmienie: „
     - **b)**
 
 - **64)** pojazd kompletny – pojazd, o którym mowa w art. 3 pkt 15 rozporządzenia 167/2013, art. 3 pkt 14 rozporządzenia 168/2013 albo art. 3 pkt 27 rozporządzenia 2018/858; ” , uchyla się pkt 66, pkt 67–70 otrzymują brzmienie: „
@@ -1069,7 +1094,7 @@ source: "eli-html"
 - **3b)** protokół z ostatniej drogowej kontroli technicznej, jeżeli taka była przeprowadzona – w przypadku pojazdu kategorii M2, M3, N2 i N3, przyczepy kategorii O3 i O4 i ciągnika kołowego kategorii T1b, T2b, T3b, T4.1b, T4.2b, T4.3b i T5 użytkowanego na drodze publicznej do wykonywania zarobkowego przewozu rzeczy; ” , w ust. 2a wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku, o którym mowa w ust. 2, w odniesieniu do pojazdu kategorii M2, M3, N2 i N3, przyczepy kategorii O3 i O4 i ciągnika kołowego kategorii T1b, T2b, T3b, T4.1b, T4.2b, T4.3biT5 użytkowanego na drodze publicznej do wykonywania zarobkowego przewozu rzeczy kierujący pojazdem jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu również dokument potwierdzający przeprowadzenie badania technicznego, zawierający co najmniej: ” ;
     - **b)**
 
-- **4)** w art. 66: w ust. 4 w pkt 6 lit. a otrzymuje brzmienie: „ pojazdu, na którego typ zostały wydane: – świadectwo homologacji typu WE pojazdu, – świadectwo homologacji typu pojazdu, – świadectwo homologacji typu WE pojazdu dla pojazdów produkowanych w małych seriach, – świadectwo homologacji typu pojazdu dla pojazdów produkowanych w małych seriach, – dopuszczenie do ruchu drogowego pojazdu z końcowej partii produkcji, – uznanie świadectwa homologacji typu pojazdu wydanego zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – uznanie świadectwa homologacji typu pojazdu dla pojazdów produkowanych w małych seriach wydanego na dany typ pojazdu zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – dopuszczenie jednostkowe pojazdu, – uznanie dopuszczenia jednostkowego pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – świadectwo dopuszczenia indywidualnego WE pojazdu, – dokumenty, o których mowa w ustawie z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, w tym: – – świadectwo homologacji typu UE pojazdu, – – świadectwo homologacji typu ONZ wydane dla pojazdu, – – świadectwo krajowej homologacji typu pojazdu, – – świadectwo krajowej homologacji typu pojazdów produkowanych w małych seriach, – – zezwolenie na dopuszczenie do ruchu drogowego pojazdu z końcowej partii produkcji, – – uznanie świadectwa krajowej homologacji typu pojazdu wydanego zgodnie z procedurą krajowej homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – – uznanie świadectwa krajowej homologacji typu pojazdów produkowanych w małych seriach wydanego na dany typ pojazdu zgodnie z procedurą krajowej homologacji typu pojazdów produkowanych w małych seriach przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – – świadectwo krajowego indywidualnego dopuszczenia pojazdu, – – uznanie świadectwa krajowego indywidualnego dopuszczenia pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – – świadectwo unijnego indywidualnego dopuszczenia pojazdu, – – świadectwo krajowej homologacji typu tramwaju, – – świadectwo krajowej homologacji typu trolejbusu, ” , po ust. 4a dodaje się ust. 4b w brzmieniu: „
+- **4)** w art. 66: w ust. 4 w pkt 6 lit. a otrzymuje brzmienie: „ pojazdu, na którego typ zostały wydane: – świadectwo homologacji typu WE pojazdu, – świadectwo homologacji typu pojazdu, – świadectwo homologacji typu WE pojazdu dla pojazdów produkowanych w małych seriach, – świadectwo homologacji typu pojazdu dla pojazdów produkowanych w małych seriach, – dopuszczenie do ruchu drogowego pojazdu z końcowej partii produkcji, – uznanie świadectwa homologacji typu pojazdu wydanego zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – uznanie świadectwa homologacji typu pojazdu dla pojazdów produkowanych w małych seriach wydanego na dany typ pojazdu zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – dopuszczenie jednostkowe pojazdu, – uznanie dopuszczenia jednostkowego pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – świadectwo dopuszczenia indywidualnego WE pojazdu, dokumenty, o których mowa w ustawie z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, w tym: – – świadectwo homologacji typu UE pojazdu, – – świadectwo homologacji typu ONZ wydane dla pojazdu, – – świadectwo krajowej homologacji typu pojazdu, – – świadectwo krajowej homologacji typu pojazdów produkowanych w małych seriach, – – zezwolenie na dopuszczenie do ruchu drogowego pojazdu z końcowej partii produkcji, – – uznanie świadectwa krajowej homologacji typu pojazdu wydanego zgodnie z procedurą krajowej homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – – uznanie świadectwa krajowej homologacji typu pojazdów produkowanych w małych seriach wydanego na dany typ pojazdu zgodnie z procedurą krajowej homologacji typu pojazdów produkowanych w małych seriach przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – – świadectwo krajowego indywidualnego dopuszczenia pojazdu, – – uznanie świadectwa krajowego indywidualnego dopuszczenia pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – – świadectwo unijnego indywidualnego dopuszczenia pojazdu, – – świadectwo krajowej homologacji typu tramwaju, – – świadectwo krajowej homologacji typu trolejbusu, ” , po ust. 4a dodaje się ust. 4b w brzmieniu: „
     - **a)**
     - **a)**
     - **b)**
@@ -1082,7 +1107,7 @@ source: "eli-html"
 - **7)** w art. 72: w ust. 1 pkt 3 otrzymuje brzmienie: „
     - **a)**
 
-- **3)** jednego z dokumentów: świadectwa zgodności WE wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu, świadectwa zgodności wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu, świadectwa zgodności, o którym mowa w art. 27 ust. 1 pkt 2 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu, dopuszczenia jednostkowego pojazdu wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu, świadectwa krajowego indywidualnego dopuszczenia pojazdu, o którym mowa w art. 2 ust. 1 pkt 33 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu, uznania dopuszczenia jednostkowego pojazdu, uznania świadectwa krajowego indywidualnego dopuszczenia pojazdu, o którym mowa w art. 64 ust. 1 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, świadectwa dopuszczenia indywidualnego WE pojazdu, świadectwa unijnego indywidualnego dopuszczenia pojazdu, o którym mowa w art. 2 ust. 1 pkt 32 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu jeżeli są wymagane; świadectwa zgodności WE, świadectwa zgodności oraz oświadczenia zawierające dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu mogą być podpisane podpisem odbitym sposobem mechanicznym; ” , uchyla się ust. 3a;
+- **3)** jednego z dokumentów: świadectwa zgodności WE wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu, świadectwa zgodności wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu, świadectwa zgodności, o którym mowa w art. 27 ust. 1 pkt 2 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu, dopuszczenia jednostkowego pojazdu wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu, świadectwa krajowego indywidualnego dopuszczenia pojazdu, o którym mowa w art. 2 ust. 1 pkt 33 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu, uznania dopuszczenia jednostkowego pojazdu, uznania świadectwa krajowego indywidualnego dopuszczenia pojazdu, o którym mowa w art. 64 ust. 1 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, świadectwa dopuszczenia indywidualnego WE pojazdu, świadectwa unijnego indywidualnego dopuszczenia pojazdu, o którym mowa w art. 2 ust. 1 pkt 32 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu – jeżeli są wymagane; świadectwa zgodności WE, świadectwa zgodności oraz oświadczenia zawierające dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu mogą być podpisane podpisem odbitym sposobem mechanicznym; ” , uchyla się ust. 3a;
     - **a)**
     - **b)**
     - **c)**
@@ -1123,9 +1148,18 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **6)** pojeździe, dla którego zostało wydane przez Dyrektora Transportowego Dozoru Technicznego uznanie: dopuszczenia jednostkowego pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, świadectwa krajowego indywidualnego dopuszczenia pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, o którym mowa w art. 64 ust. 1 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia; ” , w ust. 4: – w pkt 1 lit. a-g otrzymują brzmienie: „ a) wydanego: – świadectwa homologacji typu WE pojazdu, – świadectwa homologacji typu pojazdu, – świadectwa homologacji typu WE pojazdu dla pojazdów produkowanych w małych seriach, – świadectwa homologacji typu pojazdu dla pojazdów produkowanych w małych seriach, – dokumentu, o którym mowa w ustawie z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia: – – świadectwa homologacji typu UE pojazdu, – – świadectwa homologacji typu ONZ wydanego dla pojazdu, – – świadectwa krajowej homologacji typu pojazdu, – – świadectwa krajowej homologacji typu pojazdów produkowanych w małych seriach, – – świadectwa krajowej homologacji typu tramwaju, – – świadectwa krajowej homologacji typu trolejbusu, b) udzielonego zezwolenia na dopuszczenie do ruchu drogowego pojazdu z końcowej partii produkcji, c) wydanego przez Dyrektora Transportowego Dozoru Technicznego: – uznania świadectwa homologacji typu pojazdu wydanego zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – uznania świadectwa homologacji typu pojazdu pojazdów produkowanych w małych seriach wydanego na dany typ pojazdu zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – dokumentu, o którym mowa w ustawie z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia: – – uznania świadectwa krajowej homologacji typu pojazdu wydanego zgodnie z procedurą krajowej homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – – uznania świadectwa krajowej homologacji typu pojazdów produkowanych w małych seriach wydanego na dany typ pojazdu zgodnie z procedurą krajowej homologacji typu pojazdów produkowanych w małych seriach przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, d) posiadanych informacji o wygaśnięciu albo cofnięciu dokumentów, o których mowa w lit. a, informacji o upływie terminu ważności zezwolenia, o którym mowa w lit. b, albo w przypadku uchylenia uznań, o których mowa w lit. c, e) udzielonego dopuszczenia jednostkowego pojazdu albo świadectwa krajowego indywidualnego dopuszczenia pojazdu, o którym mowa w art. 2 ust. 1 pkt 33 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, f) świadectwa dopuszczenia indywidualnego WE pojazdu albo świadectwa unijnego indywidualnego dopuszczenia pojazdu, o którym mowa w art. 2 ust. 1 pkt 32 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, g) wydanego przez Dyrektora Transportowego Dozoru Technicznego: – uznania dopuszczenia jednostkowego pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – uznania świadectwa krajowego indywidualnego dopuszczenia pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, o którym mowa w art. 64 ust. 1 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia; ” , – w pkt 3 lit. a i b otrzymują brzmienie: „ a) wydanego: – świadectwa homologacji typu WE pojazdu, – świadectwa homologacji typu pojazdu, – świadectwa homologacji typu WE pojazdu dla pojazdów produkowanych w małych seriach, – świadectwa homologacji typu pojazdu dla pojazdów produkowanych w małych seriach, – dokumentu, o którym mowa w ustawie z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia: – – świadectwa homologacji typu UE pojazdu, – – świadectwa homologacji typu ONZ dla pojazdu, – – świadectwa krajowej homologacji typu pojazdu, – – świadectwa krajowej homologacji typu pojazdów produkowanych w małych seriach, – – świadectwa krajowej homologacji typu trolejbusu, b) wydanego przez Dyrektora Transportowego Dozoru Technicznego uznania: – dopuszczenia jednostkowego pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – świadectwa krajowego indywidualnego dopuszczenia pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, o którym mowa w art. 64 ust. 1 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia. ” ;
+- **6)** pojeździe, dla którego zostało wydane przez Dyrektora Transportowego Dozoru Technicznego uznanie: dopuszczenia jednostkowego pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, świadectwa krajowego indywidualnego dopuszczenia pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, o którym mowa w art. 64 ust. 1 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia; ” , w ust. 4: w pkt 1 lit. a-g otrzymują brzmienie: „ wydanego: – świadectwa homologacji typu WE pojazdu, – świadectwa homologacji typu pojazdu, – świadectwa homologacji typu WE pojazdu dla pojazdów produkowanych w małych seriach, – świadectwa homologacji typu pojazdu dla pojazdów produkowanych w małych seriach, dokumentu, o którym mowa w ustawie z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia: – – świadectwa homologacji typu UE pojazdu, – – świadectwa homologacji typu ONZ wydanego dla pojazdu, – – świadectwa krajowej homologacji typu pojazdu, – – świadectwa krajowej homologacji typu pojazdów produkowanych w małych seriach, – – świadectwa krajowej homologacji typu tramwaju, – – świadectwa krajowej homologacji typu trolejbusu, udzielonego zezwolenia na dopuszczenie do ruchu drogowego pojazdu z końcowej partii produkcji, wydanego przez Dyrektora Transportowego Dozoru Technicznego: – uznania świadectwa homologacji typu pojazdu wydanego zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – uznania świadectwa homologacji typu pojazdu pojazdów produkowanych w małych seriach wydanego na dany typ pojazdu zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, dokumentu, o którym mowa w ustawie z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia: – – uznania świadectwa krajowej homologacji typu pojazdu wydanego zgodnie z procedurą krajowej homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – – uznania świadectwa krajowej homologacji typu pojazdów produkowanych w małych seriach wydanego na dany typ pojazdu zgodnie z procedurą krajowej homologacji typu pojazdów produkowanych w małych seriach przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, posiadanych informacji o wygaśnięciu albo cofnięciu dokumentów, o których mowa w lit. a, informacji o upływie terminu ważności zezwolenia, o którym mowa w lit. b, albo w przypadku uchylenia uznań, o których mowa w lit. c, udzielonego dopuszczenia jednostkowego pojazdu albo świadectwa krajowego indywidualnego dopuszczenia pojazdu, o którym mowa w art. 2 ust. 1 pkt 33 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, świadectwa dopuszczenia indywidualnego WE pojazdu albo świadectwa unijnego indywidualnego dopuszczenia pojazdu, o którym mowa w art. 2 ust. 1 pkt 32 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, wydanego przez Dyrektora Transportowego Dozoru Technicznego: – uznania dopuszczenia jednostkowego pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – uznania świadectwa krajowego indywidualnego dopuszczenia pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, o którym mowa w art. 64 ust. 1 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia; ” , w pkt 3 lit. a i b otrzymują brzmienie: „ wydanego: – świadectwa homologacji typu WE pojazdu, – świadectwa homologacji typu pojazdu, – świadectwa homologacji typu WE pojazdu dla pojazdów produkowanych w małych seriach, – świadectwa homologacji typu pojazdu dla pojazdów produkowanych w małych seriach, dokumentu, o którym mowa w ustawie z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia: – – świadectwa homologacji typu UE pojazdu, – – świadectwa homologacji typu ONZ dla pojazdu, – – świadectwa krajowej homologacji typu pojazdu, – – świadectwa krajowej homologacji typu pojazdów produkowanych w małych seriach, – – świadectwa krajowej homologacji typu trolejbusu, wydanego przez Dyrektora Transportowego Dozoru Technicznego uznania: – dopuszczenia jednostkowego pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – świadectwa krajowego indywidualnego dopuszczenia pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, o którym mowa w art. 64 ust. 1 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia. ” ;
     - **a)**
     - **b)**
+    - **b)**
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **a)**
     - **b)**
 
 - **12)** w art. 80s w ust. 2 pkt 2 otrzymuje brzmienie: „
@@ -1134,7 +1168,16 @@ source: "eli-html"
 - **2)** kopię dokumentu potwierdzającego uprawnienie podmiotu do przeprowadzania odpowiednich badań pojazdu, przedmiotu wyposażenia lub części – w przypadku podmiotów, o których mowa w art. 80s ust. 2 pkt 2; ” ;
 - **14)** w art. 80zb w ust. 1 pkt 2 otrzymuje brzmienie: „
 - **2)** służba techniczna, o której mowa w art. 4 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, albo jednostka badawcza producenta pojazdu, przedmiotu wyposażenia lub części przeprowadzająca badania pojazdu, przedmiotu wyposażenia lub części zaprzestała przeprowadzania odpowiednich badań pojazdu, przedmiotu wyposażenia lub części; ” ;
-- **15)** w art. 81: w ust. 4: – pkt 1 otrzymuje brzmienie: „ 1) nowy pojazd, dla którego wydano: a) świadectwo zgodności WE dla każdego pojazdu, na którego typ wydano odpowiednio: – świadectwo homologacji typu WE pojazdu, – świadectwo homologacji typu WE pojazdu dla pojazdów produkowanych w małych seriach, b) świadectwo zgodności dla każdego pojazdu, na którego typ wydano odpowiednio: – świadectwo homologacji typu pojazdu, – świadectwo homologacji typu pojazdu dla pojazdów produkowanych w małych seriach, c) dopuszczenie jednostkowe pojazdu, d) decyzję o uznaniu dopuszczenia jednostkowego pojazdu, e) świadectwo dopuszczenia indywidualnego WE pojazdu, f) dokumenty, o których mowa w ustawie z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia: – świadectwo zgodności, – deklarację zgodności, o której mowa w art. 27 ust. 2 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, – świadectwo krajowego indywidualnego dopuszczenia pojazdu, – świadectwo unijnego indywidualnego dopuszczenia pojazdu, – uznanie świadectwa krajowego indywidualnego dopuszczenia pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej; ” , – w pkt 2 lit. a otrzymuje brzmienie: „ a) na którego typ wydano świadectwo homologacji typu WE pojazdu, świadectwo homologacji typu WE pojazdu dla pojazdów produkowanych w małych seriach lub świadectwo homologacji typu UE pojazdu – w okresie od dnia pierwszej rejestracji za granicą do dnia terminu okresowego badania technicznego, ustalonego na podstawie ust. 5, lub ” , w ust. 11 w pkt 2a lit. b otrzymuje brzmienie: „ wniosku organu kontroli ruchu drogowego o konieczności przeprowadzenia dodatkowego badania technicznego pojazdu kategorii M2, M3, N2 i N3, przyczepy kategorii O3 i O4 i ciągnika kołowego kategorii T1b, T2b, T3b, T4.1b, T4.2b, T4.3b i T5 użytkowanego na drodze publicznej do wykonywania zarobkowego przewozu rzeczy; ” ;
+- **15)** w art. 81: w ust. 4: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** nowy pojazd, dla którego wydano: świadectwo zgodności WE dla każdego pojazdu, na którego typ wydano odpowiednio: – świadectwo homologacji typu WE pojazdu, – świadectwo homologacji typu WE pojazdu dla pojazdów produkowanych w małych seriach, świadectwo zgodności dla każdego pojazdu, na którego typ wydano odpowiednio: – świadectwo homologacji typu pojazdu, – świadectwo homologacji typu pojazdu dla pojazdów produkowanych w małych seriach, dopuszczenie jednostkowe pojazdu, decyzję o uznaniu dopuszczenia jednostkowego pojazdu, świadectwo dopuszczenia indywidualnego WE pojazdu, dokumenty, o których mowa w ustawie z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia: – świadectwo zgodności, – deklarację zgodności, o której mowa w art. 27 ust. 2 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, – świadectwo krajowego indywidualnego dopuszczenia pojazdu, – świadectwo unijnego indywidualnego dopuszczenia pojazdu, – uznanie świadectwa krajowego indywidualnego dopuszczenia pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej; ” , w pkt 2 lit. a otrzymuje brzmienie: „ na którego typ wydano świadectwo homologacji typu WE pojazdu, świadectwo homologacji typu WE pojazdu dla pojazdów produkowanych w małych seriach lub świadectwo homologacji typu UE pojazdu – w okresie od dnia pierwszej rejestracji za granicą do dnia terminu okresowego badania technicznego, ustalonego na podstawie ust. 5, lub ” , w ust. 11 w pkt 2a lit. b otrzymuje brzmienie: „ wniosku organu kontroli ruchu drogowego o konieczności przeprowadzenia dodatkowego badania technicznego pojazdu kategorii M2, M3, N2 i N3, przyczepy kategorii O3 i O4 i ciągnika kołowego kategorii T1b, T2b, T3b, T4.1b, T4.2b, T4.3b i T5 użytkowanego na drodze publicznej do wykonywania zarobkowego przewozu rzeczy; ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
     - **a)**
     - **b)**
     - **b)**
@@ -1162,7 +1205,7 @@ source: "eli-html"
 
 6. Do kar pieniężnych, o których mowa w art. 140ma i art. 140mb, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy działu IVa Kodeksu postępowania administracyjnego. ” ;
 
-- **19)** w załączniku nr 2: tytuł otrzymuje brzmienie: „ Kategorie pojazdów określone w dyrektywie 2002/24/WE Parlamentu Europejskiego i Rady z dnia 18 marca 2002 r. w sprawie homologacji typu dwu- lub trzykołowych pojazdów mechanicznych i uchylającej dyrektywę Rady 92/61/EWG (Dz. Urz. WE L 124 z 09.05.2002, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 29, str. 399, z późn. zm.), dyrektywie 2003/37/WE Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie homologacji typu ciągników rolniczych lub leśnych, ich przyczep i wymiennych holowanych maszyn, łącznie z ich układami, częściami i oddzielnymi zespołami technicznymi oraz uchylającej dyrektywę 74/150/EWG (Dz. Urz. UE L 171 z 09.07.2003, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 31, str. 311) oraz dyrektywie 2007/46/WE Parlamentu Europejskiego i Rady z dnia 5 września 2007 r. ustanawiającej ramy dla homologacji pojazdów silnikowych i ich przyczep oraz układów, części i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów („dyrektywa ramowa”) (Dz. Urz. UE L 263 z 09.10.2007, str. 1, z późn. zm.) ” , po pkt 7 dodaje się część wspólną w brzmieniu: „ – kategorie pojazdów według wymagań homologacyjnych określają przepisy rozporządzenia 2018/858, rozporządzenia 168/2013 oraz rozporządzenia 167/2013. ” .
+- **19)** w załączniku nr 2: tytuł otrzymuje brzmienie: „ Kategorie pojazdów określone w dyrektywie 2002/24/WE Parlamentu Europejskiego i Rady z dnia 18 marca 2002 r. w sprawie homologacji typu dwu- lub trzykołowych pojazdów mechanicznych i uchylającej dyrektywę Rady 92/61/EWG (Dz. Urz. WE L 124 z 09.05.2002, str. 1, z późn. zm.Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 211 z 21.08.2003, str. 24, Dz. Urz. UE L 236 z 23.09.2003, str. 33, Dz. Urz. UE L 106 z 24.04.2005, str. 17, Dz. Urz. UE L 363 z 20.12.2006, str. 81, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 172 oraz Dz. Urz. UE L 329 z 10.12.2013, str. 15. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 29, str. 399, z późn. zm.), dyrektywie 2003/37/WE Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie homologacji typu ciągników rolniczych lub leśnych, ich przyczep i wymiennych holowanych maszyn, łącznie z ich układami, częściami i oddzielnymi zespołami technicznymi oraz uchylającej dyrektywę 74/150/EWG (Dz. Urz. UE L 171 z 09.07.2003, str. 1, z późn. zm.Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 168 z 01.05.2004, str. 35, Dz. Urz. UE L 55 z 01.03.2005, str. 35, Dz. Urz. UE L 273 z 19.10.2005, str. 17, Dz. Urz. UE L 363 z 20.12.2006, str. 81, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 91 z 10.04.2010, str. 1, Dz. Urz. UE L 238 z 09.09.2010, str. 7, Dz. Urz. UE L 158 z 10.06.2013, str. 172 oraz Dz. Urz. UE L 82 z 20.03.2014, str. 20. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 31, str. 311) oraz dyrektywie 2007/46/WE Parlamentu Europejskiego i Rady z dnia 5 września 2007 r. ustanawiającej ramy dla homologacji pojazdów silnikowych i ich przyczep oraz układów, części i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów („dyrektywa ramowa”) (Dz. Urz. UE L 263 z 09.10.2007, str. 1, z późn. zm.)Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 292 z 31.10.2008, str. 1, Dz. Urz. UE L 35 z 04.02.2009, str. 1, Dz. Urz. UE L 35 z 04.02.2009, str. 32, Dz. Urz. UE L 118 z 13.05.2009, str. 13, Dz. Urz. UE L 188 z 18.07.2009, str. 1, Dz. Urz. UE L 200 z 31.07.2009, str. 1, Dz. Urz. UE L 320 z 05.12.2009, str. 36, Dz. Urz. UE L 339 z 22.12.2009, str. 60, Dz. Urz. UE L 72 z 20.03.2010, str. 17, Dz. Urz. UE L 110 z 01.05.2010, str. 1, Dz. Urz. UE L 53 z 26.02.2011, str. 4, Dz. Urz. UE L 167 z 25.06.2011, str. 1, Dz. Urz. UE L 185 z 15.07.2011, str. 30, Dz. Urz. UE L 185 z 15.07.2011, str. 76, Dz. Urz. UE L 28 z 31.01.2012, str. 24, Dz. Urz. UE L 126 z 15.05.2012, str. 15, Dz. Urz. UE L 353 z 21.12.2012, str. 1, Dz. Urz. UE L 353 z 21.12.2012, str. 31, Dz. Urz. UE L 47 z 20.02.2013, str. 51, Dz. Urz. UE L 55 z 27.02.2013, str. 9, Dz. Urz. UE L 65 z 08.03.2013, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 172, Dz. Urz. UE L 43 z 13.02.2014, str. 12, Dz. Urz. UE L 47 z 18.02.2014, str. 1, Dz. Urz. UE L 69 z 08.03.2014, str. 3, Dz. Urz. UE L 158 z 27.05.2014, str. 131, Dz. Urz. UE L 315 z 01.11.2014, str. 3, Dz. Urz. UE L 9 z 15.01.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2015, str. 3, Dz. Urz. UE L 123 z 19.05.2015, str. 77, Dz. Urz. UE L 308 z 25.11.2015, str. 11, Dz. Urz. UE L 175 z 07.07.2017, str. 1, Dz. Urz. UE L 175 z 07.07.2017, str. 708, Dz. Urz. UE L 192 z 24.07.2017, str. 1, Dz. Urz. UE L 349 z 29.12.2017, str. 1, Dz. Urz. UE L 301 z 27.11.2018, str. 1, Dz. Urz. UE L 58 z 26.02.2019, str. 1, Dz. Urz. UE L 95 z 04.04.2019, str. 1 oraz Dz. Urz. UE L 44 z 18.02.2020, str. 43. ” , po pkt 7 dodaje się część wspólną w brzmieniu: „ – kategorie pojazdów według wymagań homologacyjnych określają przepisy rozporządzenia 2018/858, rozporządzenia 168/2013 oraz rozporządzenia 167/2013. ” .
     - **a)**
     - **b)**
 
@@ -1188,7 +1231,7 @@ source: "eli-html"
 - **1)** w ust. 13 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zezwolenia oraz upoważnienia wydane na podstawie przepisów o ruchu drogowym: ” ;
 - **2)** uchyla się ust. 13a.
 
-#### Rozdział 8 Przepisy przejściowe i przepis końcowy
+#### Rozdział 8
 
 **Art. 76.**
 
@@ -1197,7 +1240,7 @@ source: "eli-html"
 2. Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy ostateczną decyzją administracyjną w sprawach związanych z:
 
 - **1)** wydaniem, zmianą lub uznaniem świadectwa homologacji typu pojazdu, świadectwa homologacji typu pojazdu dla pojazdów produkowanych w małych seriach, o których mowa w ustawie zmienianej w art. 72,
-- **2)** wydaniem decyzji w sprawie zezwolenia na dopuszczenie do ruchu drogowego pojazdu z końcowej partii produkcji, o których mowa w ustawie zmienianej w art. 72 stosuje się przepisy dotychczasowe.
+- **2)** wydaniem decyzji w sprawie zezwolenia na dopuszczenie do ruchu drogowego pojazdu z końcowej partii produkcji, o których mowa w ustawie zmienianej w art. 72 – stosuje się przepisy dotychczasowe.
 
 **Art. 77.**
 
@@ -1220,7 +1263,7 @@ source: "eli-html"
 - **1)** świadectw homologacji typu WE pojazdu,
 - **2)** świadectw homologacji typu WE pojazdu w odniesieniu do pojazdów produkowanych w małych seriach,
 - **3)** świadectw homologacji typu WE,
-- **4)** świadectw homologacji typu EKG ONZ stosuje się przepisy art. 73 rozporządzenia 167/2013, art. 77 rozporządzenia 168/2013, art. 89 ust. 1 i 2 rozporządzenia 2018/858 albo regulaminów ONZ.
+- **4)** świadectw homologacji typu EKG ONZ – stosuje się przepisy art. 73 rozporządzenia 167/2013, art. 77 rozporządzenia 168/2013, art. 89 ust. 1 i 2 rozporządzenia 2018/858 albo regulaminów ONZ.
 
 **Art. 79.**
 
@@ -1231,7 +1274,7 @@ source: "eli-html"
 - **3)** świadectwa homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem,
 - **4)** decyzje administracyjne zwalniające z obowiązku uzyskania świadectwa homologacji typu pojazdu,
 - **5)** decyzje administracyjne w sprawie uznania dopuszczenia jednostkowego pojazdu,
-- **6)** decyzje administracyjne w sprawie dopuszczenia jednostkowego pojazdu zachowują ważność.
+- **6)** decyzje administracyjne w sprawie dopuszczenia jednostkowego pojazdu – zachowują ważność.
 
 2. Wydane przed dniem wejścia w życie ustawy:
 
@@ -1239,7 +1282,7 @@ source: "eli-html"
 - **2)** decyzje administracyjne w sprawie uznania świadectwa homologacji typu pojazdu w odniesieniu do pojazdów produkowanych w małych seriach,
 - **3)** świadectwa zgodności WE wydane na podstawie świadectwa homologacji typu WE pojazdu albo świadectwa homologacji pojazdu w odniesieniu do pojazdów produkowanych w małych seriach,
 - **4)** świadectwa zgodności wydane na podstawie świadectwa homologacji typu pojazdu albo świadectwa homologacji typu pojazdu w odniesieniu pojazdów produkowanych w małych seriach,
-- **5)** wyciągi ze świadectw homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem zachowują ważność do czasu wygaśnięcia świadectwa, na podstawie którego zostały wydane.
+- **5)** wyciągi ze świadectw homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem – zachowują ważność do czasu wygaśnięcia świadectwa, na podstawie którego zostały wydane.
 
 3. Wydane przed dniem wejścia w życie ustawy decyzje administracyjne w sprawie zezwolenia na dopuszczenie do ruchu drogowego pojazdu z końcowej partii produkcji zachowują ważność przez okres, na jaki zostały wydane.
 
@@ -1259,6 +1302,6 @@ source: "eli-html"
 
 - **1)** art. 3 ust. 1 i 3, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
 - **2)** art. 3 ust. 2, który wchodzi w życie po upływie 3 lat od dnia ogłoszenia;
-- **3)** art. 43, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
+- **3)** art. 43, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa służy stosowaniu następujących rozporządzeń Parlamentu Europejskiego i Rady (UE): 1) rozporządzenia nr 167/2013 z dnia 5 lutego 2013 r. w sprawie homologacji i nadzoru rynku pojazdów rolniczych i leśnych (Dz. Urz. UE L 60 z 02.03.2013, str. 1, Dz. Urz. UE L 364 z 18.12.2014, str. 1, Dz. Urz. UE L 252 z 16.09.2016, str. 53, Dz. Urz. UE L 277 z 13.10.2016, str. 1, Dz. Urz. UE L 140 z 06.06.2018, str. 15 oraz Dz. Urz. UE L 91 z 29.03.2019, str. 42); 2) rozporządzenia nr 168/2013 z dnia 15 stycznia 2013 r. w sprawie homologacji i nadzoru rynku pojazdów dwu- lub trzykołowych oraz czterokołowców (Dz. Urz. UE L 60 z 02.03.2013, str. 52, Dz. Urz. UE L 53 z 21.02.2014, str. 1, Dz. Urz. UE L 77 z 23.03.2016, str. 65, Dz. Urz. UE L 30 z 31.01.2019, str. 106 oraz Dz. Urz. UE L 381 z 13.11.2020, str. 4); 3) rozporządzenia 2018/858 z dnia 30 maja 2018 r. w sprawie homologacji i nadzoru rynku pojazdów silnikowych i ich przyczep oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, zmieniającego rozporządzenie (WE) nr 715/2007 i (WE) nr 595/2009 oraz uchylającego dyrektywę 2007/46/WE (Dz. Urz. UE L 151 z 14.06.2018, str. 1, Dz. Urz. UE L 325 z 16.12.2019, str. 1, Dz. Urz. UE L 19 z 21.01.2021, str. 2, Dz. Urz. UE L 272 z 30.07.2021, str. 16, Dz. Urz. UE L 313 z 06.09.2021, str. 4 oraz Dz. Urz. UE L 398 z 11.11.2021, str. 29). 2) Niniejsza ustawa wdraża: 1) dyrektywę delegowaną Komisji (UE) 2021/1716 z dnia 29 czerwca 2021 r. zmieniającą dyrektywę Parlamentu Europejskiego i Rady 2014/47/UE w odniesieniu do zmian w oznaczeniach kategorii pojazdów wynikających ze zmian w prawodawstwie dotyczącym homologacji typu (Dz. Urz. UE L 342 z 27.09.2021, str. 45); 2) dyrektywę delegowaną Komisji (UE) 2021/1717 z dnia 9 lipca 2021 r. zmieniającą dyrektywę Parlamentu Europejskiego i Rady 2014/45/UE w odniesieniu do aktualizacji niektórych oznaczeń kategorii pojazdów i dodania systemu eCall do wykazu badanych elementów, metod, kryteriów uznania stanu technicznego za niezadowalający i oceny usterek w załącznikach I i III do tej dyrektywy (Dz. Urz. UE L 342 z 27.09.2021, str. 48). 3) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 21 grudnia 2000 r. o dozorze technicznym, ustawę z dnia 6 września 2001 r. o transporcie drogowym oraz ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1002, 1768, 1783, 2589, 2600 i 2642 oraz z 2023 r. poz. 760 i 919. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 364 z 18.12.2014, str. 1, Dz. Urz. UE L 252 z 16.09.2016, str. 53, Dz. Urz. UE L 277 z 13.10.2016, str. 1, Dz. Urz. UE L 140 z 06.06.2018, str. 15 oraz Dz. Urz. UE L 91 z 29.03.2019, str. 42. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 53 z 21.02.2014, str. 1, Dz. Urz. UE L 77 z 23.03.2016, str. 65, Dz. Urz. UE L 30 z 31.01.2019, str. 106 oraz Dz. Urz. UE L 381 z 13.11.2020, str. 4. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 325 z 16.12.2019, str. 1, Dz. Urz. UE L 19 z 21.01.2021, str. 2, Dz. Urz. UE L 272 z 30.07.2021, str. 16, Dz. Urz. UE L 313 z 06.09.2021, str. 4 oraz Dz. Urz. UE L 398 z 11.11.2021, str. 29. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1002, 1768, 1783, 2589, 2600 i 2642 oraz z 2023 r. poz. 760. 9) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 364 z 18.12.2014, str. 1, Dz. Urz. UE L 252 z 16.09.2016, str. 53, Dz. Urz. UE L 277 z 13.10.2016, str. 1, Dz. Urz. UE L 140 z 06.06.2018, str. 15 oraz Dz. Urz. UE L 91 z 29.03.2019, str. 42. 10) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 53 z 21.02.2014, str. 1, Dz. Urz. UE L 77 z 23.03.2016, str. 65, Dz. Urz. UE L 30 z 31.01.2019, str. 106 oraz Dz. Urz. UE L 381 z 13.11.2020, str. 4. 11) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 325 z 16.12.2019, str. 1, Dz. Urz. UE L 19 z 21.01.2021, str. 2, Dz. Urz. UE L 272 z 30.07.2021, str. 16, Dz. Urz. UE L 313 z 06.09.2021, str. 4 oraz Dz. Urz. UE L 398 z 11.11.2021, str. 29. 12) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 211 z 21.08.2003, str. 24, Dz. Urz. UE L 236 z 23.09.2003, str. 33, Dz. Urz. UE L 106 z 24.04.2005, str. 17, Dz. Urz. UE L 363 z 20.12.2006, str. 81, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 172 oraz Dz. Urz. UE L 329 z 10.12.2013, str. 15. 13) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 168 z 01.05.2004, str. 35, Dz. Urz. UE L 55 z 01.03.2005, str. 35, Dz. Urz. UE L 273 z 19.10.2005, str. 17, Dz. Urz. UE L 363 z 20.12.2006, str. 81, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 91 z 10.04.2010, str. 1, Dz. Urz. UE L 238 z 09.09.2010, str. 7, Dz. Urz. UE L 158 z 10.06.2013, str. 172 oraz Dz. Urz. UE L 82 z 20.03.2014, str. 20. 14) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 292 z 31.10.2008, str. 1, Dz. Urz. UE L 35 z 04.02.2009, str. 1, Dz. Urz. UE L 35 z 04.02.2009, str. 32, Dz. Urz. UE L 118 z 13.05.2009, str. 13, Dz. Urz. UE L 188 z 18.07.2009, str. 1, Dz. Urz. UE L 200 z 31.07.2009, str. 1, Dz. Urz. UE L 320 z 05.12.2009, str. 36, Dz. Urz. UE L 339 z 22.12.2009, str. 60, Dz. Urz. UE L 72 z 20.03.2010, str. 17, Dz. Urz. UE L 110 z 01.05.2010, str. 1, Dz. Urz. UE L 53 z 26.02.2011, str. 4, Dz. Urz. UE L 167 z 25.06.2011, str. 1, Dz. Urz. UE L 185 z 15.07.2011, str. 30, Dz. Urz. UE L 185 z 15.07.2011, str. 76, Dz. Urz. UE L 28 z 31.01.2012, str. 24, Dz. Urz. UE L 126 z 15.05.2012, str. 15, Dz. Urz. UE L 353 z 21.12.2012, str. 1, Dz. Urz. UE L 353 z 21.12.2012, str. 31, Dz. Urz. UE L 47 z 20.02.2013, str. 51, Dz. Urz. UE L 55 z 27.02.2013, str. 9, Dz. Urz. UE L 65 z 08.03.2013, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 172, Dz. Urz. UE L 43 z 13.02.2014, str. 12, Dz. Urz. UE L 47 z 18.02.2014, str. 1, Dz. Urz. UE L 69 z 08.03.2014, str. 3, Dz. Urz. UE L 158 z 27.05.2014, str. 131, Dz. Urz. UE L 315 z 01.11.2014, str. 3, Dz. Urz. UE L 9 z 15.01.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2015, str. 3, Dz. Urz. UE L 123 z 19.05.2015, str. 77, Dz. Urz. UE L 308 z 25.11.2015, str. 11, Dz. Urz. UE L 175 z 07.07.2017, str. 1, Dz. Urz. UE L 175 z 07.07.2017, str. 708, Dz. Urz. UE L 192 z 24.07.2017, str. 1, Dz. Urz. UE L 349 z 29.12.2017, str. 1, Dz. Urz. UE L 301 z 27.11.2018, str. 1, Dz. Urz. UE L 58 z 26.02.2019, str. 1, Dz. Urz. UE L 95 z 04.04.2019, str. 1 oraz Dz. Urz. UE L 44 z 18.02.2020, str. 43.
 
 

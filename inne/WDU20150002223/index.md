@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-17 |
 | Data wydania | 2015-12-29 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2026-05-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002223) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2223/text.pdf) |
 
@@ -33,10 +32,9 @@ Na podstawie art. 35a ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Są
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 17 listopada 2014 r. w sprawie szczegółowego sposobu prowadzenia rejestrów wchodzących w skład Krajowego Rejestru Sądowego oraz szczegółowej treści wpisów w tych rejestrach (Dz. U. z 2014 r. poz. 1667 oraz z 2015 r. poz. 67) wprowadza się następujące zmiany:
 1)
-w § 25 pkt 3 otrzymuje brzmienie:
-„
+w § 25 pkt 3 otrzymuje brzmienie: „
 3)
-w rubryce trzeciej – informacje o zabezpieczeniu majątku dłużnika w postępowaniu w przedmiocie ogłoszenia upadłości, w postępowaniu restrukturyzacyjnym oraz o oddaleniu wniosku o ogłoszenie upadłości na podstawie art. 13 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233, z późn. zm.), zwanej dalej „Prawem upadłościowym”, co obejmuje:
+w rubryce trzeciej – informacje o zabezpieczeniu majątku dłużnika w postępowaniu w przedmiocie ogłoszenia upadłości, w postępowaniu restrukturyzacyjnym oraz o oddaleniu wniosku o ogłoszenie upadłości na podstawie art. 13 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 978, 1166, 1259 i 1844.), zwanej dalej „Prawem upadłościowym”, co obejmuje:
 a)
 w polu pierwszym – informacje o oddaleniu wniosku o ogłoszenie upadłości na podstawie art. 13 Prawa upadłościowego, co obejmuje: nazwę sądu, datę postanowienia, sygnaturę sprawy; w polu pierwszym dokonuje się wpisów wynikających z Prawa upadłościowego,
 b)
@@ -44,21 +42,17 @@ w polu drugim – informacje o zabezpieczeniu majątku dłużnika w postępowani
 c)
 w polu trzecim – informacje o zabezpieczeniu majątku dłużnika w postępowaniu restrukturyzacyjnym, co obejmuje: nazwę sądu, datę postanowienia, sygnaturę sprawy, rodzaj postępowania i sposób zabezpieczenia,
 d)
-w polu czwartym – informacje o dalszym pełnieniu funkcji przez nadzorcę lub zarządcę po ukończeniu postępowania restrukturyzacyjnego, co obejmuje: nazwę sądu, sygnaturę sprawy, rodzaj postępowania i funkcję;
-” ;
+w polu czwartym – informacje o dalszym pełnieniu funkcji przez nadzorcę lub zarządcę po ukończeniu postępowania restrukturyzacyjnego, co obejmuje: nazwę sądu, sygnaturę sprawy, rodzaj postępowania i funkcję; ” ;
 2)
 w § 28:
 a)
-w pkt 4 lit. c i d otrzymują brzmienie:
-„
+w pkt 4 lit. c i d otrzymują brzmienie: „
 c)
 w polu trzecim – określenie sposobu prowadzenia postępowania upadłościowego, co obejmuje informacje o prowadzeniu upadłości z możliwością zawarcia układu lub upadłości obejmującej likwidację majątku dłużnika, a w przypadku ogłoszenia upadłości na podstawie Prawa upadłościowego w brzmieniu obowiązującym od dnia 1 stycznia 2016 r. – „upadłość”,
 d)
-w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania,
-” ,
+w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania, ” ,
 b)
-pkt 6 otrzymuje brzmienie:
-„
+pkt 6 otrzymuje brzmienie: „
 6)
 w rubryce szóstej – informacje o postępowaniach restrukturyzacyjnych lub o postępowaniu naprawczym:
 a)
@@ -78,16 +72,13 @@ w podrubryce pierwszej – dane nadzorcy sądowego, zarządcy, nadzorcy układu 
 3)
 w § 39:
 a)
-w pkt 3 lit. c i d otrzymują brzmienie:
-„
+w pkt 3 lit. c i d otrzymują brzmienie: „
 c)
 w polu trzecim – określenie sposobu prowadzenia postępowania upadłościowego, co obejmuje informacje o prowadzeniu upadłości z możliwością zawarcia układu lub upadłości obejmującej likwidację majątku dłużnika, a w przypadku ogłoszenia upadłości na podstawie Prawa upadłościowego w brzmieniu obowiązującym od dnia 1 stycznia 2016 r. – „upadłość”,
 d)
-w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania,
-” ,
+w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania, ” ,
 b)
-pkt 4 otrzymuje brzmienie:
-„
+pkt 4 otrzymuje brzmienie: „
 4)
 w rubryce czwartej – informacje o postępowaniach restrukturyzacyjnych lub o postępowaniu naprawczym:
 a)
@@ -97,21 +88,17 @@ w polu drugim – informacje o ukończeniu postępowania restrukturyzacyjnego al
 c)
 w polu trzecim – informacje o uchyleniu układu, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy,
 d)
-w podrubryce pierwszej – dane nadzorcy sądowego, zarządcy, nadzorcy układu wykonującego uprawnienia nadzorcy sądowego oraz osoby powołanej w toku postępowania restrukturyzacyjnego do reprezentowania dłużnika: – w polu pierwszym – nazwisko, nazwę lub firmę, – w polu drugim – imiona, – w polu trzecim – numer PESEL lub numer identyfikacyjny REGON, – w polu czwartym – numer KRS, – w polu piątym – funkcję;
-” ;
+w podrubryce pierwszej – dane nadzorcy sądowego, zarządcy, nadzorcy układu wykonującego uprawnienia nadzorcy sądowego oraz osoby powołanej w toku postępowania restrukturyzacyjnego do reprezentowania dłużnika: – w polu pierwszym – nazwisko, nazwę lub firmę, – w polu drugim – imiona, – w polu trzecim – numer PESEL lub numer identyfikacyjny REGON, – w polu czwartym – numer KRS, – w polu piątym – funkcję; ” ;
 4)
 w § 58:
 a)
-w pkt 5 lit. c i d otrzymują brzmienie:
-„
+w pkt 5 lit. c i d otrzymują brzmienie: „
 c)
 w polu trzecim – określenie sposobu prowadzenia postępowania upadłościowego, co obejmuje informacje o prowadzeniu upadłości z możliwością zawarcia układu lub upadłości obejmującej likwidację majątku dłużnika, a w przypadku ogłoszenia upadłości na podstawie Prawa upadłościowego w brzmieniu obowiązującym od dnia 1 stycznia 2016 r. – „upadłość”,
 d)
-w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania,
-” ,
+w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania, ” ,
 b)
-pkt 7 otrzymuje brzmienie:
-„
+pkt 7 otrzymuje brzmienie: „
 7)
 w rubryce siódmej – informacje o postępowaniach restrukturyzacyjnych lub o postępowaniu naprawczym:
 a)
@@ -121,21 +108,17 @@ w polu drugim – informacje o ukończeniu postępowania restrukturyzacyjnego al
 c)
 w polu trzecim – informacje o uchyleniu układu, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy,
 d)
-w podrubryce pierwszej – dane nadzorcy sądowego, zarządcy, nadzorcy układu wykonującego uprawnienia nadzorcy sądowego oraz osoby powołanej w toku postępowania restrukturyzacyjnego do reprezentowania dłużnika: – w polu pierwszym – nazwisko, nazwę lub firmę, – w polu drugim – imiona, – w polu trzecim – numer PESEL lub numer identyfikacyjny REGON, – w polu czwartym – numer KRS, – w polu piątym – funkcję;
-” ;
+w podrubryce pierwszej – dane nadzorcy sądowego, zarządcy, nadzorcy układu wykonującego uprawnienia nadzorcy sądowego oraz osoby powołanej w toku postępowania restrukturyzacyjnego do reprezentowania dłużnika: – w polu pierwszym – nazwisko, nazwę lub firmę, – w polu drugim – imiona, – w polu trzecim – numer PESEL lub numer identyfikacyjny REGON, – w polu czwartym – numer KRS, – w polu piątym – funkcję; ” ;
 5)
 w § 71:
 a)
-w pkt 5 lit. c i d otrzymują brzmienie:
-„
+w pkt 5 lit. c i d otrzymują brzmienie: „
 c)
 w polu trzecim – określenie sposobu prowadzenia postępowania upadłościowego, co obejmuje informacje o prowadzeniu upadłości z możliwością zawarcia układu lub upadłości obejmującej likwidację majątku dłużnika, a w przypadku ogłoszenia upadłości na podstawie Prawa upadłościowego w brzmieniu obowiązującym od dnia 1 stycznia 2016 r. – „upadłość”,
 d)
-w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania,
-” ,
+w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania, ” ,
 b)
-pkt 6 otrzymuje brzmienie:
-„
+pkt 6 otrzymuje brzmienie: „
 6)
 w rubryce szóstej – informacje o postępowaniach restrukturyzacyjnych lub o postępowaniu naprawczym:
 a)
@@ -155,16 +138,13 @@ w podrubryce pierwszej – dane nadzorcy sądowego, zarządcy, nadzorcy układu 
 6)
 w § 82:
 a)
-w pkt 4 lit. c i d otrzymują brzmienie:
-„
+w pkt 4 lit. c i d otrzymują brzmienie: „
 c)
 w polu trzecim – określenie sposobu prowadzenia postępowania upadłościowego, co obejmuje informacje o prowadzeniu upadłości z możliwością zawarcia układu lub upadłości obejmującej likwidację majątku dłużnika, a w przypadku ogłoszenia upadłości na podstawie Prawa upadłościowego w brzmieniu obowiązującym od dnia 1 stycznia 2016 r. – „upadłość”,
 d)
-w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania,
-” ,
+w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania, ” ,
 b)
-pkt 6 otrzymuje brzmienie:
-„
+pkt 6 otrzymuje brzmienie: „
 6)
 w rubryce szóstej – informacje o postępowaniach restrukturyzacyjnych lub o postępowaniu naprawczym: a) w polu pierwszym – informacje o otwarciu postępowania restrukturyzacyjnego albo wszczęciu postępowania naprawczego, co obejmuje: nazwę sądu, datę, sygnaturę sprawy i rodzaj postępowania, b) w polu drugim – informacje o ukończeniu postępowania restrukturyzacyjnego albo naprawczego, co obejmuje sposób ukończenia i datę ukończenia postępowania, c) w polu trzecim – informacje o uchyleniu układu, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy, d) w podrubryce pierwszej – dane nadzorcy sądowego, zarządcy, nadzorcy układu wykonującego uprawnienia nadzorcy sądowego oraz osoby powołanej w toku postępowania restrukturyzacyjnego do reprezentowania dłużnika:
 – w polu pierwszym – nazwisko, nazwę lub firmę,
@@ -176,16 +156,13 @@ w rubryce szóstej – informacje o postępowaniach restrukturyzacyjnych lub o p
 7)
 w § 94:
 a)
-w pkt 5 lit. c i d otrzymują brzmienie:
-„
+w pkt 5 lit. c i d otrzymują brzmienie: „
 c)
 w polu trzecim – określenie sposobu prowadzenia postępowania upadłościowego, co obejmuje informacje o prowadzeniu upadłości z możliwością zawarcia układu lub upadłości obejmującej likwidację majątku dłużnika, a w przypadku ogłoszenia upadłości na podstawie Prawa upadłościowego w brzmieniu obowiązującym od dnia 1 stycznia 2016 r. – „upadłość”,
 d)
-w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania,
-” ,
+w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania, ” ,
 b)
-pkt 6 otrzymuje brzmienie:
-„
+pkt 6 otrzymuje brzmienie: „
 6)
 w rubryce szóstej – informacje o postępowaniach restrukturyzacyjnych lub o postępowaniu naprawczym:
 a)
@@ -205,16 +182,13 @@ w podrubryce pierwszej – dane nadzorcy sądowego, zarządcy, nadzorcy układu 
 8)
 w § 105:
 a)
-w pkt 4 lit. c i d otrzymują brzmienie:
-„
+w pkt 4 lit. c i d otrzymują brzmienie: „
 c)
 w polu trzecim – określenie sposobu prowadzenia postępowania upadłościowego, co obejmuje informacje o prowadzeniu upadłości z możliwością zawarcia układu lub upadłości obejmującej likwidację majątku dłużnika, a w przypadku ogłoszenia upadłości na podstawie Prawa upadłościowego w brzmieniu obowiązującym od dnia 1 stycznia 2016 r. – „upadłość”,
 d)
-w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania,
-” ,
+w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania, ” ,
 b)
-pkt 6 otrzymuje brzmienie:
-„
+pkt 6 otrzymuje brzmienie: „
 6)
 w rubryce szóstej – informacje o postępowaniach restrukturyzacyjnych lub o postępowaniu naprawczym:
 a)
@@ -234,16 +208,13 @@ w podrubryce pierwszej – dane nadzorcy sądowego, zarządcy, nadzorcy układu 
 9)
 w § 115:
 a)
-w pkt 2 lit. c i d otrzymują brzmienie:
-„
+w pkt 2 lit. c i d otrzymują brzmienie: „
 c)
 w polu trzecim – określenie sposobu prowadzenia postępowania upadłościowego, co obejmuje informacje o prowadzeniu upadłości z możliwością zawarcia układu lub upadłości obejmującej likwidację majątku dłużnika, a w przypadku ogłoszenia upadłości na podstawie Prawa upadłościowego w brzmieniu obowiązującym od dnia 1 stycznia 2016 r. – „upadłość”,
 d)
-w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania,
-” ,
+w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania, ” ,
 b)
-pkt 4 otrzymuje brzmienie:
-„
+pkt 4 otrzymuje brzmienie: „
 4)
 w rubryce czwartej – informacje o postępowaniach restrukturyzacyjnych lub o postępowaniu naprawczym:
 a)
@@ -261,32 +232,25 @@ w podrubryce pierwszej – dane nadzorcy sądowego, zarządcy, nadzorcy układu 
 – w polu piątym – funkcję;
 ” ;
 10)
-§ 122 otrzymuje brzmienie:
-„
+§ 122 otrzymuje brzmienie: „
 § 122.
-W dziale 4 rejestru przedsiębiorców dla towarzystwa ubezpieczeń wzajemnych i towarzystwa reasekuracji wzajemnej wpisuje się informacje wskazane w § 25 i § 26, z tym zastrzeżeniem, że wpisów, o których mowa w § 25 pkt 3 dokonuje się wyłącznie w zakresie lit. a i b, przy czym przedsiębiorcę – spółkę jawną, spółkę komandytową i spółkę partnerską zastępują towarzystwo ubezpieczeń wzajemnych i towarzystwo reasekuracji wzajemnej.
-” ;
+W dziale 4 rejestru przedsiębiorców dla towarzystwa ubezpieczeń wzajemnych i towarzystwa reasekuracji wzajemnej wpisuje się informacje wskazane w § 25 i § 26, z tym zastrzeżeniem, że wpisów, o których mowa w § 25 pkt 3 dokonuje się wyłącznie w zakresie lit. a i b, przy czym przedsiębiorcę – spółkę jawną, spółkę komandytową i spółkę partnerską zastępują towarzystwo ubezpieczeń wzajemnych i towarzystwo reasekuracji wzajemnej. ” ;
 11)
-w § 124 w pkt 4 lit. c i d otrzymują brzmienie:
-„
+w § 124 w pkt 4 lit. c i d otrzymują brzmienie: „
 c)
 w polu trzecim – określenie sposobu prowadzenia postępowania upadłościowego, co obejmuje informacje o prowadzeniu upadłości z możliwością zawarcia układu lub upadłości obejmującej likwidację majątku dłużnika, a w przypadku ogłoszenia upadłości na podstawie Prawa upadłościowego w brzmieniu obowiązującym od dnia 1 stycznia 2016 r. – „upadłość”,
 d)
-w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania,
-” ;
+w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania, ” ;
 12)
 w § 134:
 a)
-w pkt 5 lit. c i d otrzymują brzmienie:
-„
+w pkt 5 lit. c i d otrzymują brzmienie: „
 c)
 w polu trzecim – określenie sposobu prowadzenia postępowania upadłościowego, co obejmuje informacje o prowadzeniu upadłości z możliwością zawarcia układu lub upadłości obejmującej likwidację majątku dłużnika, a w przypadku ogłoszenia upadłości na podstawie Prawa upadłościowego w brzmieniu obowiązującym od dnia 1 stycznia 2016 r. – „upadłość”,
 d)
-w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania,
-” ,
+w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania, ” ,
 b)
-pkt 7 otrzymuje brzmienie:
-„
+pkt 7 otrzymuje brzmienie: „
 7)
 w rubryce siódmej – informacje o postępowaniach restrukturyzacyjnych lub o postępowaniu naprawczym:
 a)
@@ -304,40 +268,35 @@ w podrubryce pierwszej – dane nadzorcy sądowego, zarządcy, nadzorcy układu 
 – w polu piątym – funkcję;
 ” ;
 13)
-w § 143 w pkt 5 lit. c i d otrzymują brzmienie:
-„
+w § 143 w pkt 5 lit. c i d otrzymują brzmienie: „
 c)
 w polu trzecim – określenie sposobu prowadzenia postępowania upadłościowego, co obejmuje informacje o prowadzeniu upadłości z możliwością zawarcia układu lub upadłości obejmującej likwidację majątku dłużnika, a w przypadku ogłoszenia upadłości na podstawie Prawa upadłościowego w brzmieniu obowiązującym od dnia 1 stycznia 2016 r. – „upadłość”,
 d)
-w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania,
-” ;
+w polu czwartym – informacje o uchyleniu układu zawartego w postępowaniu upadłościowym z możliwością zawarcia układu albo w postępowaniu upadłościowym, co obejmuje: nazwę sądu, datę orzeczenia, sygnaturę sprawy i rodzaj postępowania, ” ;
 14)
 w § 166:
 a)
-w pkt 2 lit. a otrzymuje brzmienie:
-„
+w pkt 2 lit. a otrzymuje brzmienie: „
 a)
 w polu pierwszym – podstawę wpisu:
 – ogłoszenie upadłości,
 – oddalenie wniosku o ogłoszenie upadłości na podstawie art. 13 Prawa upadłościowego,
-– zobowiązanie dłużnika do wyjawienia majątku w trybie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) o postępowaniu egzekucyjnym,
+– zobowiązanie dłużnika do wyjawienia majątku w trybie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587, 1595, 1634, 1635 i 1854.) o postępowaniu egzekucyjnym,
 – umorzenie egzekucji prowadzonej przeciwko dłużnikowi,
 – orzeczenie zakazu, o którym mowa w art. 373 Prawa upadłościowego w brzmieniu obowiązującym przed dniem 1 stycznia 2016 r.,
 – orzeczenie zakazu, o którym mowa w art. 373 Prawa upadłościowego w brzmieniu obowiązującym po dniu 1 stycznia 2016 r.,
 – wpis dłużnika, o którym mowa w art. 1086 § 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego,
 ” ,
 b)
-w pkt 2 lit. c i d otrzymują brzmienie:
-„
+w pkt 2 lit. c i d otrzymują brzmienie: „
 c)
 w polu trzecim – okres, na jaki orzeczono zakaz,
 d)
-w polu czwartym – zakres orzeczonego zakazu,
-” ;
+w polu czwartym – zakres orzeczonego zakazu, ” ;
 15)
 załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 978, 1166, 1259 i 1844. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587, 1595, 1634, 1635 i 1854.
 Załącznik – Maksymalna liczba znaków pisarskich w poszczególnych polach Krajowego Rejestru Sądowego
 Pole: liczba znaków:
 1.
@@ -423,8 +382,7 @@ wspólnikach spółek:
 – liczba udziałów posiadanych przez wspólnika oraz ich wartość: 1000
 – opis wierzytelności: 1000
 c)
-dla przedsiębiorstw zagranicznych
-zakres umocowania pełnomocnika: 250
+dla przedsiębiorstw zagranicznych – zakres umocowania pełnomocnika: 250
 8.
 W polach dotyczących emisji akcji:
 a)

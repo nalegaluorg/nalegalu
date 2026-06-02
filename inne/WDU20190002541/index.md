@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 30 grudnia 2019 r. zmieniające rozporządzenie w sprawie sposobu dokumentowania przeprowadzonej kontroli przewozu towarów oraz wzorów dokumentów
+# Rozporządzenie Ministra Finansówz dnia 30 grudnia 2019 r. zmieniające rozporządzenie w sprawie sposobu dokumentowania przeprowadzonej kontroli przewozu towarów oraz wzorów dokumentów Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-30 |
 | Data wydania | 2019-12-30 |
-| Wejście w życie | 2019-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002541) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2541/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 13 ust. 8 ustawy z dnia 9 marca 2017 r. o systemie monitorowan
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 13 sierpnia 2018 r. w sprawie sposobu dokumentowania przeprowadzonej kontroli przewozu towarów oraz wzorów dokumentów (Dz. U. poz. 1624) w § 11 wyrazy „do dnia 31 grudnia 2019 r.” zastępuje się wyrazami „do dnia 31 grudnia 2021 r.”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 31 grudnia 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2019 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 

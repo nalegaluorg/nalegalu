@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 16 grudnia 2022 r. w sprawie rodzajów przepływów pieniężnych uwzględnianych przy obliczeniu ceny skorygowanej i szczegółowego sposobu kalkulacji tej ceny
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 16 grudnia 2022 r. w sprawie rodzajów przepływów pieniężnych uwzględnianych przy obliczeniu ceny skorygowanej i szczegółowego sposobu kalkulacji tej ceny Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-16 |
 | Data wydania | 2022-12-23 |
-| Wejście w życie | 2022-12-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002753) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2753/text.pdf) |
 
@@ -78,6 +77,5 @@ modyfikując cenę wskazaną w decyzji, o której mowa w art. 18 ust. 1 ustawy, 
 § 4.
 Wprzypadku gdy pomoc inwestycyjna, o której mowa w art. 10 ust. 1 ustawy, została przyznana przed zbyciem zespołu urządzeń służących do wyprowadzenia mocy, cenę skorygowaną, o której mowa w art. 11 ust. 2 pkt 2 i ust. 3 ustawy, kalkuluje się na dzień wydania decyzji, o której mowa w art. 18 ust. 1 ustawy, albo decyzji zmieniającej tę decyzję na podstawie art. 20 ust. 5 ustawy albo na dzień złożenia oferty, o której mowa w art. 31 ust. 1 ustawy, przed ponownym wykonaniem obliczeń, o których mowa w art. 10 ust. 3, 4 i 6 ustawy.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 

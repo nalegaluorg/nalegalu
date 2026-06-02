@@ -31,13 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 21 grudnia 2017 r. w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin (Dz. U. poz. 2489), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 19 grudnia 2018 r. zmieniającym rozporządzenie w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin (Dz. U. poz. 2498).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Rady Ministrów z dnia 19 grudnia 2018 r. zmieniającego rozporządzenie w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin (Dz. U. poz. 2498), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Rady Ministrów z dnia 19 grudnia 2018 r. zmieniającego rozporządzenie w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin (Dz. U. poz. 2498), które stanowią: „
 § 2.
 Do spraw o przyznanie świadczeń niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. ” .
 Załącznik – Rozporządzenie Rady Ministrów z dnia 21 grudnia 2017 r. w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin
 Na podstawie art. 212 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2019 r. poz. 768, 730, 1520, 1556 i 2200) zarządza się, co następuje:
 § 1.
@@ -49,25 +47,23 @@ rodzaj i zakres,
 3)
 sposób obliczania i wysokość,
 4)
-terminy rozliczeń oraz wypłaty
-świadczeń socjalnych, zwanych dalej „świadczeniami”.
+terminy rozliczeń oraz wypłaty – świadczeń socjalnych, zwanych dalej „świadczeniami”.
 § 2.
 1.
-Funkcjonariuszowi Służby Celno-Skarbowej, zwanemu dalej „funkcjonariuszem”, który w związku z pełnieniem służby nabył w danym roku kalendarzowym prawo do urlopu wypoczynkowego, małżonkowi funkcjonariusza oraz dzieciom własnym funkcjonariusza, dzieciom małżonka funkcjonariusza, jak również dzieciom przysposobionym i dzieciom przyjętym na wychowanie przez funkcjonariusza lub małżonka funkcjonariusza:
+Funkcjonariuszowi Służby Celno-Skarbowej, zwanemu dalej „funkcjonariuszem”, który w związku z pełnieniem służby nabył w danym roku kalendarzowym prawo do urlopu wypoczynkowego, małżonkowi funkcjonariusza oraz dzieciom własnym funkcjonariusza, dzieciom małżonka funkcjonariusza, jak również dzieciom przysposobionym i dzieciom przyjętym na wychowanie przez funkcjonariusza lub małżonka funkcjonariusza:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Rady Ministrów z dnia 19 grudnia 2018 r. zmieniającego rozporządzenie w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin (Dz. U. poz. 2498), które weszło w życie z dniem 1 stycznia 2019 r.
 1)
 do ukończenia 18. roku życia, a jeżeli pobierają naukę w szkołach dla młodzieży – do czasu ukończenia nauki, nie dłużej jednak niż do ukończenia 24. roku życia, albo
 2)
 do ukończenia 24. roku życia albo 25. roku życia, jeżeli odbywają studia wyższe, a ukończenie 25 lat przypada na ostatni albo przedostatni rok studiów, albo
-3)
-bez względu na wiek, jeżeli są osobami całkowicie niezdolnymi do pracy albo całkowicie niezdolnymi do pracy oraz do samodzielnej egzystencji, albo niezdolnymi do samodzielnej egzystencji
-zwanym dalej „członkami rodziny funkcjonariusza”, przysługuje, na jego wniosek, raz w roku kalendarzowym świadczenie w postaci dopłaty do wypoczynku.
-2.
+3W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1.)
+bez względu na wiek, jeżeli są osobami całkowicie niezdolnymi do pracy albo całkowicie niezdolnymi do pracy oraz do samodzielnej egzystencji, albo niezdolnymi do samodzielnej egzystencji – zwanym dalej „członkami rodziny funkcjonariusza”, przysługuje, na jego wniosek, raz w roku kalendarzowym świadczenie w postaci dopłaty do wypoczynku.
+2Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 W przypadku członków rodziny funkcjonariusza, o których mowa w ust. 1 pkt 1, jeżeli po ukończeniu 18. roku życia pobierają naukę w szkołach dla młodzieży, oraz określonych w ust. 1 pkt 2 i 3, jest wymagane przedłożenie dokumentów potwierdzających odpowiednio pobieranie nauki w szkołach dla młodzieży, odbywanie studiów wyższych albo całkowitą niezdolność do pracy albo całkowitą niezdolność do pracy i niezdolność do samodzielnej egzystencji, albo niezdolność do samodzielnej egzystencji.
 3.
 Liczbę uprawnionych członków rodziny funkcjonariusza, na których przysługuje dopłata do wypoczynku, ustala się według stanu rodzinnego funkcjonariusza, istniejącego w dniu nabycia prawa do urlopu wypoczynkowego za dany rok kalendarzowy.
 4.
 W przypadku gdy liczba uprawnionych członków rodziny funkcjonariusza zwiększyła się po dniu, o którym mowa w ust. 3, dopłatę do wypoczynku przyznaje się według stanu rodzinnego funkcjonariusza ustalonego na dzień złożenia wniosku, nie później jednak niż na ostatni dzień służby pełnionej w danym roku kalendarzowym.
-5.
+5Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1..
 Dopłata do wypoczynku przysługuje na każdą uprawnioną osobę w wysokości 0,263 kwoty bazowej określonej w ustawie budżetowej na rok, w którym funkcjonariusz nabył prawo do urlopu wypoczynkowego, przy czym wyliczoną kwotę dopłaty zaokrągla się do pełnych dziesięciu groszy w górę.
 § 3.
 1.
@@ -131,6 +127,5 @@ W przypadku byłego funkcjonariusza Służby Celnej do wypłaty świadczenia jes
 § 9.
 Do spraw o przyznanie świadczeń niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-1) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Rady Ministrów z dnia 19 grudnia 2018 r. zmieniającego rozporządzenie w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin (Dz. U. poz. 2498), które weszło w życie z dniem 1 stycznia 2019 r. 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1. 3) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 4) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 16 lutego 2010 r. w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin (Dz. U. z 2016 r. poz. 1500 oraz z 2017 r. poz. 1203), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 16 lutego 2010 r. w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin (Dz. U. z 2016 r. poz. 1500 oraz z 2017 r. poz. 1203), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409). 1) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Rady Ministrów z dnia 19 grudnia 2018 r. zmieniającego rozporządzenie w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin (Dz. U. poz. 2498), które weszło w życie z dniem 1 stycznia 2019 r. 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1. 3) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 4) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 16 lutego 2010 r. w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin (Dz. U. z 2016 r. poz. 1500 oraz z 2017 r. poz. 1203), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409).
 

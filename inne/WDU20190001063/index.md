@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-12 |
 | Data wydania | 2019-06-07 |
-| Wejście w życie | 2019-06-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001063) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1063/text.pdf) |
 
@@ -38,7 +37,7 @@ source: "eli-html"
 - **1a)** TFUE – należy przez to rozumieć Traktat o funkcjonowaniu Unii Europejskiej; ” , pkt 2 otrzymuje brzmienie: „
     - **b)**
 
-- **2)** rozporządzeniu Rady – należy przez to rozumieć rozporządzenie Rady (UE) nr 2015/1589 z dnia 13 lipca 2015 r. ustanawiające szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 248 z 24.09.2015, str. 9); ” , w pkt 3 wyrazy „rozporządzenia Rady (WE) nr 994/98 z dnia 7 maja 1998 r. dotyczącego stosowania art. 92 i 93 Traktatu ustanawiającego Wspólnotę Europejską do niektórych kategorii horyzontalnej pomocy państwa (Dz. Urz. WE L 142 z 14.05.1998, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 1, str. 312)” zastępuje się wyrazami „rozporządzenia Rady (UE) nr 2015/1588 z dnia 13 lipca 2015 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do niektórych kategorii horyzontalnej pomocy państwa (Dz. Urz. UE L 248 z 24.09.2015, str. 1, z późn. zm.)”, pkt 15 otrzymuje brzmienie: „
+- **2)** rozporządzeniu Rady – należy przez to rozumieć rozporządzenie Rady (UE) nr 2015/1589 z dnia 13 lipca 2015 r. ustanawiające szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 248 z 24.09.2015, str. 9); ” , w pkt 3 wyrazy „rozporządzenia Rady (WE) nr 994/98 z dnia 7 maja 1998 r. dotyczącego stosowania art. 92 i 93 Traktatu ustanawiającego Wspólnotę Europejską do niektórych kategorii horyzontalnej pomocy państwa (Dz. Urz. WE L 142 z 14.05.1998, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 1, str. 312)” zastępuje się wyrazami „rozporządzenia Rady (UE) nr 2015/1588 z dnia 13 lipca 2015 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do niektórych kategorii horyzontalnej pomocy państwa (Dz. Urz. UE L 248 z 24.09.2015, str. 1, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 311 z 07.12.2018, str. 8.)”, pkt 15 otrzymuje brzmienie: „
     - **c)**
     - **d)**
 
@@ -56,7 +55,7 @@ source: "eli-html"
 - **5)** użyte w art. 6 w ust. 2, w art. 7 w ust. 4 oraz w art. 38 w ust. 1 wyrazy „art. 88 Traktatu WE” zastępuje się wyrazami „art. 108 TFUE”;
 - **6)** art. 9 otrzymuje brzmienie: „
 
-**Art. 9.** Notyfikacji podlega również zmiana, o której mowa w art. 4 ust. 1 rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. w sprawie wykonania rozporządzenia Rady (UE) nr 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 4, str. 3), zatwierdzonego przez Komisję zgodnie z art. 108 TFUE programu pomocowego, pomocy indywidualnej lub pomocy indywidualnej na restrukturyzację. ” ;
+**Art. 9.** Notyfikacji podlega również zmiana, o której mowa w art. 4 ust. 1 rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. w sprawie wykonania rozporządzenia Rady (UE) nr 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 01.11.2006, str. 10, Dz. Urz. UE L 407 z 30.12.2006, str. 1, Dz. Urz. UE L 82 z 25.03.2008, str. 1, Dz. Urz. UE L 313 z 22.11.2008, str. 1, Dz. Urz. UE L 81 z 27.03.2009, str. 15, Dz. Urz. UE L 308 z 24.11.2009, str. 5, Dz. Urz. UE L 109 z 12.04.2014, str. 14, Dz. Urz. UE L 325 z 10.12.2015, str. 1, Dz. Urz. UE L 51 z 26.02.2016, str. 1 oraz Dz. Urz. UE L 327 z 02.12.2016, str. 19. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 4, str. 3), zatwierdzonego przez Komisję zgodnie z art. 108 TFUE programu pomocowego, pomocy indywidualnej lub pomocy indywidualnej na restrukturyzację. ” ;
 
 - **7)** w art. 10: w ust. 1 wyrazy „art. 87 ust. 3 lit. a oraz lit. c Traktatu WE” zastępuje się wyrazami „art. 107 ust. 3 lit. a i c TFUE”, w ust. 2 w pkt 2 wyrazy „wspólnym rynku” zastępuje się wyrazami „rynku wewnętrznym”;
     - **a)**
@@ -151,8 +150,10 @@ source: "eli-html"
 - **26)** w art. 37: w ust. 1 pkt 1 otrzymuje brzmienie: „
     - **a)**
 
-- **1)** wszystkich zaświadczeń o pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie, jakie otrzymał w roku, w którym ubiega się o pomoc, oraz w ciągu 2 poprzedzających go lat podatkowych, albo oświadczenia o wielkości tej pomocy otrzymanej w tym okresie, albo oświadczenia o nieotrzymaniu takiej pomocy w tym okresie; ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) wszystkich zaświadczeń o pomocy de minimis w rolnictwie lub rybołówstwie oraz pomocy de minimis, jakie otrzymał w roku, w którym ubiega się o pomoc, oraz w ciągu 2 poprzedzających go lat podatkowych, albo oświadczenia o wielkości tej pomocy otrzymanej w tym okresie, albo oświadczenia o nieotrzymaniu takiej pomocy w tym okresie; ” , – uchyla się pkt 2, po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „
+- **1)** wszystkich zaświadczeń o pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie, jakie otrzymał w roku, w którym ubiega się o pomoc, oraz w ciągu 2 poprzedzających go lat podatkowych, albo oświadczenia o wielkości tej pomocy otrzymanej w tym okresie, albo oświadczenia o nieotrzymaniu takiej pomocy w tym okresie; ” , w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **b)**
+
+- **1)** wszystkich zaświadczeń o pomocy de minimis w rolnictwie lub rybołówstwie oraz pomocy de minimis, jakie otrzymał w roku, w którym ubiega się o pomoc, oraz w ciągu 2 poprzedzających go lat podatkowych, albo oświadczenia o wielkości tej pomocy otrzymanej w tym okresie, albo oświadczenia o nieotrzymaniu takiej pomocy w tym okresie; ” , – uchyla się pkt 2, po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „
     - **c)**
 
 5a. W przypadku pomocy publicznej przewidzianej w akcie normatywnym, o którym mowa w art. 6 ust. 2, zaświadczenia, oświadczenia lub informacje, o których mowa w ust. 1, 2 lub 5, beneficjent pomocy składa każdorazowo z deklaracją, zeznaniem rocznym lub innym dokumentem, z których wynika wartość pomocy.
@@ -169,5 +170,5 @@ source: "eli-html"
 
 **Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 32 ust. 11 oraz art. 32a ust. 4 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 32 ust. 11 oraz art. 32a ust. 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 31 grudnia 2019 r.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 311 z 07.12.2018, str. 8. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 01.11.2006, str. 10, Dz. Urz. UE L 407 z 30.12.2006, str. 1, Dz. Urz. UE L 82 z 25.03.2008, str. 1, Dz. Urz. UE L 313 z 22.11.2008, str. 1, Dz. Urz. UE L 81 z 27.03.2009, str. 15, Dz. Urz. UE L 308 z 24.11.2009, str. 5, Dz. Urz. UE L 109 z 12.04.2014, str. 14, Dz. Urz. UE L 325 z 10.12.2015, str. 1, Dz. Urz. UE L 51 z 26.02.2016, str. 1 oraz Dz. Urz. UE L 327 z 02.12.2016, str. 19.
 

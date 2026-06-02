@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-18 |
 | Data wydania | 2015-08-28 |
-| Wejście w życie | 2015-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001249) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1249/text.pdf) |
 
@@ -59,7 +58,7 @@ doskonalenie umiejętności nauczycieli i wychowawców w zakresie budowania podm
 6)
 wzmacnianie kompetencji wychowawczych nauczycieli i wychowawców oraz rodziców lub opiekunów;
 7)
-rozwijanie i wspieranie działalności wolontarystycznej oraz zaangażowania w działalność podmiotów, o których mowa w art. 2a ust. 1 oraz art. 56 ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.), zwanej dalej „ustawą o systemie oświaty”;
+rozwijanie i wspieranie działalności wolontarystycznej oraz zaangażowania w działalność podmiotów, o których mowa w art. 2a ust. 1 oraz art. 56 ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650, z 2014 r. poz. 7, 290, 538, 598, 642, 811, 1146, 1198 i 1877 oraz z 2015 r. poz. 357, 1045 i 1240.), zwanej dalej „ustawą o systemie oświaty”;
 8)
 wspieranie edukacji rówieśniczej i programów rówieśniczych mających na celu modelowanie postaw prozdrowotnych i prospołecznych.
 § 3.
@@ -134,7 +133,7 @@ zajęć, o których mowa w art. 64 ust. 1 pkt 6 i ust. 2 ustawy o systemie oświ
 3)
 zajęć edukacyjnych, o których mowa w przepisach wydanych na podstawie art. 12 ust. 2 ustawy o systemie oświaty;
 4)
-zajęć edukacyjnych, o których mowa w przepisach wydanych na podstawie art. 4 ust. 3 ustawy z dnia 7 stycznia 1993 r. o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży (Dz. U. Nr 17, poz. 78, z późn. zm.);
+zajęć edukacyjnych, o których mowa w przepisach wydanych na podstawie art. 4 ust. 3 ustawy z dnia 7 stycznia 1993 r. o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży (Dz. U. Nr 17, poz. 78, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1995 r. Nr 66, poz. 334, z 1996 r. Nr 139, poz. 646, z 1997 r. Nr 141, poz. 943 i Nr 157, poz. 1040, z 1999 r. Nr 5, poz. 32 oraz z 2001 r. Nr 154, poz. 1792.);
 5)
 zajęć z wychowawcą;
 6)
@@ -156,5 +155,5 @@ W oparciu o diagnozę, o której mowa w § 6 ust. 1, nauczyciel lub wychowawca w
 § 8.
 Szkoły i placówki dostosują, w terminie 6 miesięcy od dnia wejścia w życie rozporządzenia, program wychowawczy i program profilaktyki, o których mowa w art. 54 ust. 2 pkt 1 ustawy o systemie oświaty, do przepisów rozporządzenia.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 1 września 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 września 2015 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej i Sportu z dnia 31 stycznia 2003 r. w sprawie szczegółowych form działalności wychowawczej i zapobiegawczej wśród dzieci i młodzieży zagrożonych uzależnieniem (Dz. U. Nr 26, poz. 226), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 89 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2012 r. poz. 124 oraz z 2015 r. poz. 28 i 875). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650, z 2014 r. poz. 7, 290, 538, 598, 642, 811, 1146, 1198 i 1877 oraz z 2015 r. poz. 357, 1045 i 1240. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1995 r. Nr 66, poz. 334, z 1996 r. Nr 139, poz. 646, z 1997 r. Nr 141, poz. 943 i Nr 157, poz. 1040, z 1999 r. Nr 5, poz. 32 oraz z 2001 r. Nr 154, poz. 1792. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej i Sportu z dnia 31 stycznia 2003 r. w sprawie szczegółowych form działalności wychowawczej i zapobiegawczej wśród dzieci i młodzieży zagrożonych uzależnieniem (Dz. U. Nr 26, poz. 226), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 89 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2012 r. poz. 124 oraz z 2015 r. poz. 28 i 875).
 

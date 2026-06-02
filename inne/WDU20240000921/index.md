@@ -31,13 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 19 sierpnia 2020 r. w sprawie planu działań przedsiębiorcy telekomunikacyjnego w sytuacjach szczególnych zagrożeń (Dz. U. poz. 1464), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 13 marca 2023 r. zmieniającym rozporządzenie w sprawie planu działań przedsiębiorcy telekomunikacyjnego w sytuacjach szczególnych zagrożeń (Dz. U. poz. 580).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Rady Ministrów z dnia 13 marca 2023 r. zmieniającego rozporządzenie w sprawie planu działań przedsiębiorcy telekomunikacyjnego w sytuacjach szczególnych zagrożeń (Dz. U. poz. 580), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Rady Ministrów z dnia 13 marca 2023 r. zmieniającego rozporządzenie w sprawie planu działań przedsiębiorcy telekomunikacyjnego w sytuacjach szczególnych zagrożeń (Dz. U. poz. 580), które stanowią: „
 § 2.
 Plany działań w sytuacjach szczególnych zagrożeń sporządzone i uzgodnione przed dniem wejścia w życie niniejszego rozporządzenia przez przedsiębiorców telekomunikacyjnych, z którymi zawarto umowy, o których mowa w § 7 ust. 2 pkt 3 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, zachowują aktualność w zakresie, o którym mowa w § 7 ust. 2 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, do upływu terminu ważności umowy, o którym mowa w art. 807 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r. poz. 347), jeżeli termin, o którym mowa w § 10 ust. 1 rozporządzenia zmienianego w § 1, nie upłynie wcześniej.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Rady Ministrów z dnia 19 sierpnia 2020 r. w sprawie planu działań przedsiębiorcy telekomunikacyjnego w sytuacjach szczególnych zagrożeń
 Na podstawie art. 176a ust. 5 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2024 r. poz. 34, 731 i 834) zarządza się, co następuje:
 § 1.
@@ -49,8 +47,7 @@ sytuacji kryzysowych,
 b)
 stanów nadzwyczajnych,
 c)
-bezpośrednich zagrożeń dla bezpieczeństwa lub integralności infrastruktury telekomunikacyjnej przedsiębiorcy lub świadczonych przez niego usług
-zwanych dalej „sytuacjami szczególnych zagrożeń”;
+bezpośrednich zagrożeń dla bezpieczeństwa lub integralności infrastruktury telekomunikacyjnej przedsiębiorcy lub świadczonych przez niego usług – zwanych dalej „sytuacjami szczególnych zagrożeń”;
 2)
 organy uzgadniające plan działań w sytuacjach szczególnych zagrożeń, zwany dalej „planem”, oraz zakres tych uzgodnień;
 3)
@@ -80,7 +77,7 @@ f)
 polegającą wyłącznie na świadczeniu usług dostępu do sieci Internet za pośrednictwem sieci telekomunikacyjnej obsługującej do 1000 zakończeń sieci posiadających własny adres IP,
 g)
 wyłącznie za pośrednictwem sieci telekomunikacyjnej innego przedsiębiorcy telekomunikacyjnego.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 13 marca 2023 r. zmieniającego rozporządzenie w sprawie planu działań przedsiębiorcy telekomunikacyjnego w sytuacjach szczególnych zagrożeń (Dz. U. poz. 580), które weszło w życie z dniem 29 marca 2023 r..
 Wymienione w ust. 1 kryteria wyłączające obowiązek sporządzenia planu nie mają zastosowania do przedsiębiorców realizujących zadania na rzecz Sił Zbrojnych, o których mowa w art. 648 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248 i 834), w przypadku gdy organem nakładającym zadania jest minister właściwy do spraw informatyzacji lub Minister Obrony Narodowej.
 § 3.
 Przedsiębiorca sporządza plan:
@@ -122,8 +119,7 @@ podmiotów i służb wykonujących zadania w zakresie ratownictwa oraz niesienia
 b)
 podmiotów i służb wykonujących zadania na rzecz obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego,
 c)
-podmiotów właściwych w sprawach zarządzania kryzysowego
-zwanych dalej „właściwymi podmiotami i służbami”, na podstawie danych udostępnionych przez organy uzgadniające plan lub inne organy administracji rządowej wskazane przez organy uzgadniające plan, a także oceny możliwości zaspokojenia tych potrzeb.
+podmiotów właściwych w sprawach zarządzania kryzysowego – zwanych dalej „właściwymi podmiotami i służbami”, na podstawie danych udostępnionych przez organy uzgadniające plan lub inne organy administracji rządowej wskazane przez organy uzgadniające plan, a także oceny możliwości zaspokojenia tych potrzeb.
 2.
 Dokonując analiz i ocen, o których mowa w ust. 1, przedsiębiorca bierze również pod uwagę własne dane o zaistniałych w przeszłości naruszeniach bezpieczeństwa lub integralności infrastruktury telekomunikacyjnej lub świadczonych usług.
 § 7.
@@ -170,12 +166,12 @@ wykaz przedsięwzięć podejmowanych w zakresie przygotowań technicznych i orga
 15)
 informację, czy przedsiębiorca sporządza odrębny plan ochrony infrastruktury krytycznej w rozumieniu ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym.
 2.
-Plan sporządzany przez przedsiębiorcę realizującego zadania na rzecz Sił Zbrojnych, o którym mowa w art. 648 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, zawiera elementy określone w ust. 1 oraz:
+Plan sporządzany przez przedsiębiorcę realizującego zadania na rzecz Sił Zbrojnych, o którym mowa w art. 648 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, zawiera elementy określone w ust. 1 oraz:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1.
 1)
 wykaz elementów sieci telekomunikacyjnej oraz sposób ich przygotowania do zapewnienia telekomunikacji na potrzeby właściwych podmiotów i służb wraz z procedurami uruchamiania tych elementów;
 2)
 wykaz obiektów i elementów infrastruktury telekomunikacyjnej dostosowanych do współpracy z ruchomymi urządzeniami telekomunikacyjnymi używanymi przez podmioty, o których mowa w art. 4 pkt 1 ustawy, wraz z procedurami ich użycia;
-3)
+3Ze zmianą wprowadzoną przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1.)
 wykaz umów dotyczących realizacji zadań na rzecz Sił Zbrojnych.
 3.
 Plan zawiera wykazy, o których mowa w ust. 2 pkt 1 i 2, o ile potrzeby dotyczące elementów i obiektów zostały wskazane przez organy uzgadniające plan lub inne organy administracji rządowej, które zostały wskazane przez organy uzgadniające plan w udostępnionych danych dotyczących potrzeb, o których mowa w § 6 ust. 1 pkt 3.
@@ -189,14 +185,14 @@ ministrem właściwym do spraw informatyzacji i właściwymi terytorialnie wojew
 2)
 Prezesem UKE – w zakresie określonym w § 7 ust. 1 pkt 7 i 14.
 2.
-Przedsiębiorca realizujący zadania na rzecz Sił Zbrojnych, o którym mowa w art. 648 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, przesyła projekt planu i dokonuje jego uzgodnień z:
+Przedsiębiorca realizujący zadania na rzecz Sił Zbrojnych, o którym mowa w art. 648 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, przesyła projekt planu i dokonuje jego uzgodnień z:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 1.
 1)
 Ministrem Obrony Narodowej oraz ministrem właściwym do spraw wewnętrznych – w zakresie określonym w § 7 ust. 1 pkt 7 oraz ust. 2 pkt 1 i 2;
 2)
 ministrem właściwym do spraw informatyzacji, Szefem Agencji Bezpieczeństwa Wewnętrznego oraz właściwymi terytorialnie wojewodami – w zakresie określonym w § 7 ust. 1 pkt 7;
 3)
 Prezesem UKE – w zakresie określonym w § 7 ust. 1 pkt 7 i 14;
-4)
+4Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 1.)
 z właściwym szefem służby specjalnej, o ile Minister Obrony Narodowej nałożył w decyzji administracyjnej, o której mowa w art. 652 ust. 3 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, zadania na rzecz tej służby – w zakresie określonym w § 7 ust. 1 pkt 7.
 3.
 Projekt planu, o którym mowa w ust. 1 i 2, przesyłany jest w formie dokumentu elektronicznego, zapisanego w formacie. doc(x),. odt albo. pdf, a w przypadku braku takiej możliwości w postaci papierowej.
@@ -242,5 +238,5 @@ Przedsiębiorca sporządza i uzgadnia plan zgodnie z przepisami niniejszego rozp
 2.
 Plany przedsiębiorców sporządzone, uzgodnione i wprowadzone do stosowania przed dniem wejścia w życie niniejszego rozporządzenia zachowują aktualność do upływu terminu ich sporządzenia, o którym mowa w ust. 1.
 § 12.
-Rozporządzenie wchodzi w życie z dniem 28 sierpnia 2020 r.
+Rozporządzenie wchodzi w życie z dniem 28 sierpnia 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 4 stycznia 2010 r. w sprawie planu działań przedsiębiorcy telekomunikacyjnego w sytuacjach szczególnych zagrożeń (Dz. U. poz. 77, z 2016 r. poz. 1798 oraz z 2017 r. poz. 2307), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 92 ust. 2 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2020 r. poz. 1369). 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 13 marca 2023 r. zmieniającego rozporządzenie w sprawie planu działań przedsiębiorcy telekomunikacyjnego w sytuacjach szczególnych zagrożeń (Dz. U. poz. 580), które weszło w życie z dniem 29 marca 2023 r. 2) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1. 3) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1. 4) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 1. 5) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 1. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 4 stycznia 2010 r. w sprawie planu działań przedsiębiorcy telekomunikacyjnego w sytuacjach szczególnych zagrożeń (Dz. U. poz. 77, z 2016 r. poz. 1798 oraz z 2017 r. poz. 2307), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 92 ust. 2 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2020 r. poz. 1369).
 

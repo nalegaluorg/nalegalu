@@ -22,10 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-07-17 |
 | Data wydania | 2009-08-31 |
-| Wejście w życie | 2009-09-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091411149) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1149/text.pdf) |
 
+Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
+-dyrektywy 2004/23/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich(Dz. Urz. WE L 102 z 07.04.2004, str. 48; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 291),
+– dyrektywy 2006/17/WE Komisji z dnia 8 lutego 2006 r. wprowadzającej w życie dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w odniesieniu do niektórych wymagań technicznych dotyczących dawstwa, pobierania i badania tkanek i komórek ludzkich (Dz. Urz. UE L 38 z 09.02.2006, str. 40),
+– dyrektywy 2006/86/WE Komisji z dnia 24 października 2006 r. wykonującej dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w zakresie wymagań dotyczących możliwości śledzenia, powiadamiania o poważnych i niepożądanych reakcjach i zdarzeniach oraz niektórych wymagań technicznych dotyczących kodowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 294 z 25.10.2006, str. 32).
+Znakowanie, monitorowanie oraz kryteria bezpieczeństwa i jakości komórek, tkanek i narządów
 1.
 Bank tkanek i komórek, zakład opieki zdrowotnej, o którym mowa w art. 36 ust. 1 pkt 1, 2 i 5, oraz medyczne laboratorium diagnostyczne, o którym mowa w art. 37 ust. 1, oznaczają komórki, tkanki lub narządy w sposób umożliwiający identyfikację ich dawcy za pomocą niepowtarzalnego oznakowania.
 2.
@@ -58,54 +62,42 @@ prowadzić walidację wszystkich procesów,
 2)
 określać krytyczne momenty wszystkich procesów, które powinny być kontrolowane w oparciu o wyznaczone kryteria akceptacji,
 3)
-prowadzić kwalifikację sprzętu, urządzeń technicznych i środowiska przebiegającego procesu rozumianą jako udokumentowane działanie mające na celu wykazanie, że to środowisko, sprzęt lub urządzenia są odpowiednio zainstalowane i pracują właściwie
-w celu zapewnienia jakości i bezpieczeństwa wymaganego dla danego typu komórki, tkanki lub narządu oraz uzyskania oczekiwanych wyników.
+prowadzić kwalifikację sprzętu, urządzeń technicznych i środowiska przebiegającego procesu rozumianą jako udokumentowane działanie mające na celu wykazanie, że to środowisko, sprzęt lub urządzenia są odpowiednio zainstalowane i pracują właściwie – w celu zapewnienia jakości i bezpieczeństwa wymaganego dla danego typu komórki, tkanki lub narządu oraz uzyskania oczekiwanych wyników.
 Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 1)
 sposób tworzenia niepowtarzalnego oznakowania umożliwiającego identyfikację dawcy komórek, tkanek lub narządów, oraz sposób oznaczania komórek, tkanek lub narządów, za pomocą tego oznakowania,
 2)
-szczegółowe wymagania w zakresie monitorowania, o którym mowa w art. 37c ust. 3
-uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców.
-” .
+szczegółowe wymagania w zakresie monitorowania, o którym mowa w art. 37c ust. 3 – uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców. ” .
 18)
 w art. 38 w ust. 3:
 a)
-pkt 11 otrzymuje brzmienie:
-„
+pkt 11 otrzymuje brzmienie: „
 11)
-przyjmowanie wniosków od jednostek, o których mowa w art. 36 ust. 1 pkt 1, 4 i 5;
-” ,
+przyjmowanie wniosków od jednostek, o których mowa w art. 36 ust. 1 pkt 1, 4 i 5; ” ,
 b)
-dodaje się pkt 12–14 w brzmieniu:
-„
+dodaje się pkt 12–14 w brzmieniu: „
 12)
 organizowanie szkoleń, o których mowa w art. 40a ust. 1, w zakresie pobierania, przechowywania i przeszczepiania narządów oraz szpiku i komórek krwiotwórczych krwi obwodowej;
 13)
 prowadzenie listy osób, które odbyły szkolenia, o których mowa w art. 40a ust. 1, w zakresie pobierania, przechowywania i przeszczepiania narządów oraz szpiku i komórek krwiotwórczych krwi obwodowej;
 14)
-przekazywanie danych, o których mowa w art. 16 ust. 3 i 4, do europejskich i światowych rejestrów szpiku i krwi pępowinowej.
-” ;
+przekazywanie danych, o których mowa w art. 16 ust. 3 i 4, do europejskich i światowych rejestrów szpiku i krwi pępowinowej. ” ;
 19)
 w art. 39:
 a)
-w ust. 3 w pkt 4 kropkę zastępuje się średnikiem i dodaje pkt 5–7 w brzmieniu:
-„
+w ust. 3 w pkt 4 kropkę zastępuje się średnikiem i dodaje pkt 5–7 w brzmieniu: „
 5)
 organizowanie szkoleń, o których mowa w art. 40a ust. 1, w zakresie pobierania, gromadzenia, testowania, przetwarzania, sterylizacji, przechowywania i dystrybucji komórek i tkanek;
 6)
 prowadzenie listy osób, które odbyły szkolenia, o których mowa w art. 40a ust. 1, w zakresie pobierania, gromadzenia, testowania, przetwarzania, sterylizacji, przechowywania i dystrybucji komórek i tkanek;
 7)
-sprawowanie nadzoru merytorycznego nad działalnością zespołów pobierających.
-” ,
+sprawowanie nadzoru merytorycznego nad działalnością zespołów pobierających. ” ,
 b)
-po ust. 3 dodaje się ust. 3a w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a w brzmieniu: „
 3a.
-Krajowe Centrum Bankowania Tkanek i Komórek może w ośrodkach dawców szpiku refundować koszt wynagrodzenia osób, o których mowa w art. 16a ust. 4, na podstawie umowy.
-” ;
+Krajowe Centrum Bankowania Tkanek i Komórek może w ośrodkach dawców szpiku refundować koszt wynagrodzenia osób, o których mowa w art. 16a ust. 4, na podstawie umowy. ” ;
 20)
-po art. 40 dodaje się art. 40a w brzmieniu:
-„
+po art. 40 dodaje się art. 40a w brzmieniu: „
 
 **Art. 1.** W ustawie z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. Nr 169, poz. 1411) wprowadza się następujące zmiany:
 
@@ -200,7 +192,7 @@ po art. 40 dodaje się art. 40a w brzmieniu:
 12. Zwrotu zakładowi opieki zdrowotnej kosztów określonych w:
 
 - **1)** ust. 3 pkt 1–5 – dokonuje Narodowy Fundusz Zdrowia,
-- **2)** ust. 4, 7 i 8 – dokonuje Narodowy Fundusz Zdrowia albo minister właściwy do spraw zdrowia w ramach umowy o udzielanie świadczeń opieki zdrowotnej zawartej na podstawie przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+- **2)** ust. 4, 7 i 8 – dokonuje Narodowy Fundusz Zdrowia albo minister właściwy do spraw zdrowia – w ramach umowy o udzielanie świadczeń opieki zdrowotnej zawartej na podstawie przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
 13. Koszty, o których mowa w ust. 3 pkt 10, są kosztami działalności banku tkanek i komórek.
 
@@ -280,7 +272,7 @@ po art. 40 dodaje się art. 40a w brzmieniu:
 - **6)** warunki transportu próbek do badań potencjalnych dawców szpiku i komórek krwiotwórczych krwi obwodowej,
 - **7)** sposób i warunki organizowania opieki nad dawcami szpiku lub komórek krwiotwórczych krwi obwodowej,
 - **8)** tryb przekazywania danych, o których mowa w ust. 8, do rejestru szpiku i krwi pępowinowej,
-- **9)** standardowe procedury operacyjne obowiązujące w ośrodku dawców szpiku uwzględniając w szczególności prawidłową realizację zadań, o których mowa w ust. 2, oraz zapewnienie bezpieczeństwa dawców i biorców.
+- **9)** standardowe procedury operacyjne obowiązujące w ośrodku dawców szpiku – uwzględniając w szczególności prawidłową realizację zadań, o których mowa w ust. 2, oraz zapewnienie bezpieczeństwa dawców i biorców.
 
 1. Ośrodek dawców szpiku uzyskuje pozwolenie, o którym mowa w art. 16a ust. 1, jeżeli łącznie spełnia następujące warunki:
 
@@ -361,7 +353,7 @@ po art. 40 dodaje się art. 40a w brzmieniu:
 
 - **1)** sposób i tryb tworzenia i prowadzenia listy,
 - **2)** kryteria medyczne i sposób dokonywania wyboru potencjalnego biorcy,
-- **3)** sposób informowania potencjalnych biorców o kolejności wpisu na listę uwzględniając aktualny stan wiedzy medycznej i zachowanie równego dostępu do zabiegu przeszczepienia oraz możliwość prowadzenia listy w formie elektronicznej. ” ;
+- **3)** sposób informowania potencjalnych biorców o kolejności wpisu na listę – uwzględniając aktualny stan wiedzy medycznej i zachowanie równego dostępu do zabiegu przeszczepienia oraz możliwość prowadzenia listy w formie elektronicznej. ” ;
 - **7)** w art. 19 ust. 1 otrzymuje brzmienie: „
 
 1. Dane osobowe dotyczące potencjalnego dawcy, dawcy, potencjalnego biorcy i biorcy są objęte tajemnicą i podlegają ochronie przewidzianej w przepisach o tajemnicy zawodowej i służbowej oraz w przepisach dotyczących dokumentacji medycznej prowadzonej przez zakłady opieki zdrowotnej. ” ;
@@ -385,10 +377,15 @@ po art. 40 dodaje się art. 40a w brzmieniu:
 3. Bank tkanek i komórek informuje osoby, które oddały do przechowania komórki lub tkanki w tym banku tkanek i komórek, o cofnięciu pozwolenia przez ministra właściwego do spraw zdrowia. ” ;
 
 - **11)** uchyla się art. 33;
-- **12)** w art. 35: w ust. 1: – w pkt 2 w lit. b kropkę zastępuje się przecinkiem i dodaje lit. c w brzmieniu: „ c) spełniania wymagań dla banków tkanek i komórek określonych w przepisach wydanych na podstawie art. 29 ust. 3; ” , – dodaje się pkt 3 w brzmieniu: „ 3) podmiotach, o których mowa w art. 16a ust. 1 i art. 16c ust. 1 w zakresie wymagań określonych ustawą. ” w ust. 11: – pkt 2 otrzymuje brzmienie: „ 2) podmiotów, o których mowa w art. 16a ust. 1, art. 26 ust. 6 pkt 7, art. 36 ust. 1 i art. 37 ust. 1, w zakresie działalności objętej pozwoleniami wydanymi na podstawie przepisów ustawy ” , – dodaje się pkt 3 w brzmieniu: „ 3) ośrodków kwalifikujących, w zakresie spełnienia wymagań określonych ustawą i przepisami wydanymi na podstawie art. 16c ust. 10 ” ;
+- **12)** w art. 35: w ust. 1: w pkt 2 w lit. b kropkę zastępuje się przecinkiem i dodaje lit. c w brzmieniu: „ spełniania wymagań dla banków tkanek i komórek określonych w przepisach wydanych na podstawie art. 29 ust. 3; ” , dodaje się pkt 3 w brzmieniu: „
     - **a)**
+    - **c)**
+
+- **3)** podmiotach, o których mowa w art. 16a ust. 1 i art. 16c ust. 1 w zakresie wymagań określonych ustawą. ” w ust. 11: pkt 2 otrzymuje brzmienie: „
     - **b)**
 
+- **2)** podmiotów, o których mowa w art. 16a ust. 1, art. 26 ust. 6 pkt 7, art. 36 ust. 1 i art. 37 ust. 1, w zakresie działalności objętej pozwoleniami wydanymi na podstawie przepisów ustawy ” , dodaje się pkt 3 w brzmieniu: „
+- **3)** ośrodków kwalifikujących, w zakresie spełnienia wymagań określonych ustawą i przepisami wydanymi na podstawie art. 16c ust. 10 ” ;
 - **13)** tytuł rozdziału 7 otrzymuje brzmienie: „ Postępowanie z komórkami, tkankami oraz narządami ” ;
 - **14)** w art. 36: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -413,9 +410,11 @@ po art. 40 dodaje się art. 40a w brzmieniu:
 
 - **e)**
 
-6. Minister właściwy do spraw zdrowia przed wydaniem pozwolenia na działalność, o której mowa w ust. 1 pkt 1, 4 i 5, zasięga opinii Krajowej Rady Transplantacyjnej. ” , w ust. 7: – pkt 1 otrzymuje brzmienie: „ 1) kwalifikacje zawodowe osób pobierających komórki, tkanki i narządy oraz osób dokonujących ich przeszczepienia, uwzględniając w szczególności lekarzy specjalistów z następujących dziedzin medycyny: transplantologii klinicznej, chirurgii, chirurgii dziecięcej, hematologii, onkologii klinicznej, kardiochirurgii, chirurgii naczyń, urologii, jak również lekarzy innych specjalności, ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) kwalifikacje zawodowe koordynatorów pobierania i przeszczepiania komórek, tkanek i narządów, ” ;
+6. Minister właściwy do spraw zdrowia przed wydaniem pozwolenia na działalność, o której mowa w ust. 1 pkt 1, 4 i 5, zasięga opinii Krajowej Rady Transplantacyjnej. ” , w ust. 7: pkt 1 otrzymuje brzmienie: „
 
 - **f)**
+- **1)** kwalifikacje zawodowe osób pobierających komórki, tkanki i narządy oraz osób dokonujących ich przeszczepienia, uwzględniając w szczególności lekarzy specjalistów z następujących dziedzin medycyny: transplantologii klinicznej, chirurgii, chirurgii dziecięcej, hematologii, onkologii klinicznej, kardiochirurgii, chirurgii naczyń, urologii, jak również lekarzy innych specjalności, ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** kwalifikacje zawodowe koordynatorów pobierania i przeszczepiania komórek, tkanek i narządów, ” ;
 - **15)** po art. 36 dodaje się art. 36a w brzmieniu: „
 
 **Art. 36a.**
@@ -470,7 +469,7 @@ po art. 40 dodaje się art. 40a w brzmieniu:
 
 - **17)** po rozdziale 7 dodaje się rozdział 7a w brzmieniu: „
 
-#### Rozdział 7a Znakowanie, monitorowanie oraz kryteria bezpieczeństwa i jakości komórek, tkanek i narządów
+#### Rozdział 7a
 
 **Art. 40a.**
 
@@ -552,8 +551,5 @@ w § 1 uchyla się pkt 40; w § 2 uchyla się pkt 46. Do kosztów czynności zwi
 
 **Art. 7.** Banki tkanek i komórek dostosują umowy o przechowywanie komórek lub tkanek do wymagań określonych w art. 32a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 8.** Akty wykonawcze wydane na podstawie art. 3 ust. 5, art. 17 ust. 8, art. 30 ust. 3, art. 35 ust. 11 oraz art. 36 ust. 7 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie aktów wykonawczych wydanych na podstawie art. 3 ust. 14, art. 17 ust. 8, art. 35 ust. 11, art. 36 ust. 7 oraz art. 37e ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 2, który wchodzi w życie z dniem 1 stycznia 2010 r.
-
-- **1)** Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich: – dyrektywy 2004/23/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. WE L 102 z 07.04.2004, str. 48; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 291), – dyrektywy 2006/17/WE Komisji z dnia 8 lutego 2006 r. wprowadzającej w życie dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w odniesieniu do niektórych wymagań technicznych dotyczących dawstwa, pobierania i badania tkanek i komórek ludzkich (Dz. Urz. UE L 38 z 09.02.2006, str. 40), – dyrektywy 2006/86/WE Komisji z dnia 24 października 2006 r. wykonującej dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w zakresie wymagań dotyczących możliwości śledzenia, powiadamiania o poważnych i niepożądanych reakcjach i zdarzeniach oraz niektórych wymagań technicznych dotyczących kodowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 294 z 25.10.2006, str. 32).
-
+**Art. 8.** Akty wykonawcze wydane na podstawie art. 3 ust. 5, art. 17 ust. 8, art. 30 ust. 3, art. 35 ust. 11 oraz art. 36 ust. 7 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie aktów wykonawczych wydanych na podstawie art. 3 ust. 14, art. 17 ust. 8, art. 35 ust. 11, art. 36 ust. 7 oraz art. 37e ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 2, który wchodzi w życie z dniem 1 stycznia 2010 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich: – dyrektywy 2004/23/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. WE L 102 z 07.04.2004, str. 48; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 291), – dyrektywy 2006/17/WE Komisji z dnia 8 lutego 2006 r. wprowadzającej w życie dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w odniesieniu do niektórych wymagań technicznych dotyczących dawstwa, pobierania i badania tkanek i komórek ludzkich (Dz. Urz. UE L 38 z 09.02.2006, str. 40), – dyrektywy 2006/86/WE Komisji z dnia 24 października 2006 r. wykonującej dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w zakresie wymagań dotyczących możliwości śledzenia, powiadamiania o poważnych i niepożądanych reakcjach i zdarzeniach oraz niektórych wymagań technicznych dotyczących kodowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 294 z 25.10.2006, str. 32).
 

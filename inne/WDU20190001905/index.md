@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 11 września 2019 r. o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw
+# Ustawa z dnia 11 września 2019 r. o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw Niniejsza ustawa służy stosowaniu rozporządzenia delegowanego Komisji (UE) 2016/161 z dnia 2 października 2015 r. uzupełniającego dyrektywę 2001/83/WE Parlamentu Europejskiego i Rady przez określenie szczegółowych zasad dotyczących zabezpieczeń umieszczanych na opakowaniach produktów leczniczych stosowanych u ludzi (Dz. Urz. UE L 32 z 09.02.2016, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-11 |
 | Data wydania | 2019-10-08 |
-| Wejście w życie | 2019-10-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001905) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1905/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2019 r. poz. 499, z późn. zm.) wprowadza się następujące zmiany:
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 18 marca 2011 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawę z dnia 21 lutego 2019 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw.
+
+**Art. 1.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2019 r. poz. 499, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 399, 959, 1495, 1542, 1556, 1590 i 1818.) wprowadza się następujące zmiany:
 
 - **1)** w art. 23 w ust. 1 pkt 10 otrzymuje brzmienie: „
 - **10)** numer GTIN zgodny z systemem GS1; ” ;
@@ -168,6 +169,6 @@ numer GTIN zgodny z systemem GS1 przyznany dla produktów leczniczych stosowanyc
 **Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 7 w zakresie art. 77a ust. 4 oraz pkt 14 i 15, które wchodzą w życie z dniem 1 lipca 2020 r.;
-- **2)** art. 6, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 30 września 2019 r.
+- **2)** art. 6, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 30 września 2019 r. 1) Niniejsza ustawa służy stosowaniu rozporządzenia delegowanego Komisji (UE) 2016/161 z dnia 2 października 2015 r. uzupełniającego dyrektywę 2001/83/WE Parlamentu Europejskiego i Rady przez określenie szczegółowych zasad dotyczących zabezpieczeń umieszczanych na opakowaniach produktów leczniczych stosowanych u ludzi (Dz. Urz. UE L 32 z 09.02.2016, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 18 marca 2011 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawę z dnia 21 lutego 2019 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 399, 959, 1495, 1542, 1556, 1590 i 1818.
 
 

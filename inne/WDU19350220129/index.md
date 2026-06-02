@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1935-03-18 |
 | Data wydania | 1935-03-30 |
-| Wejście w życie | 1935-04-14 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19350220129) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1935/129/text.pdf) |
 

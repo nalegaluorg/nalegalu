@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 31 sierpnia 2012 r. o zmianie ustawy – Kodeks morski oraz ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej
+# Ustawa z dnia 31 sierpnia 2012 r. o zmianie ustawy – Kodeks morski oraz ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2009/20/WE z dnia 23 kwietnia 2009 r. w sprawie ubezpieczenia armatorów od roszczeń morskich (Dz. Urz. UE L 131 z 28.05.2009, str. 128) oraz wykonuje postanowienia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 392/2009 z dnia 23 kwietnia 2009 r. w sprawie odpowiedzialności przewoźników pasażerskich na morskich drogach wodnych z tytułu wypadków (Dz. Urz. UE L 131 z 28.05.2009, str. 24).
 
 | Pole | Wartość |
 |---|---|
@@ -22,45 +22,39 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-08-31 |
 | Data wydania | 2012-09-26 |
-| Wejście w życie | 2012-10-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001069) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1069/text.pdf) |
 
+Ograniczenie odpowiedzialności za roszczenia morskie i ubezpieczenie armatorów z tytułu roszczeń morskich”;
 2)
-w art. 97 § 1 otrzymuje brzmienie:
-„
+w art. 97 § 1 otrzymuje brzmienie: „
 § 1.
-Odpowiedzialność dłużnika za roszczenia morskie może być ograniczona zgodnie z postanowieniami Konwencji o ograniczeniu odpowiedzialności za roszczenia morskie, 1976, sporządzonej w Londynie dnia 19 listopada 1976 r. (Dz. U. z 1986 r. Nr 35, poz. 175), zmienionej Protokołem, sporządzonym w Londynie dnia 2 maja 1996 r. (Dz. U. z 2012 r. poz. 146), zwanej dalej „Konwencją o ograniczeniu odpowiedzialności”, wraz ze zmianami obowiązującymi od daty ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, podanymi do publicznej wiadomości we właściwy sposób.
-” ;
+Odpowiedzialność dłużnika za roszczenia morskie może być ograniczona zgodnie z postanowieniami Konwencji o ograniczeniu odpowiedzialności za roszczenia morskie, 1976, sporządzonej w Londynie dnia 19 listopada 1976 r. (Dz. U. z 1986 r. Nr 35, poz. 175), zmienionej Protokołem, sporządzonym w Londynie dnia 2 maja 1996 r. (Dz. U. z 2012 r. poz. 146), zwanej dalej „Konwencją o ograniczeniu odpowiedzialności”, wraz ze zmianami obowiązującymi od daty ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, podanymi do publicznej wiadomości we właściwy sposób. ” ;
 3)
 w art. 98:
 a)
-§ 1 otrzymuje brzmienie:
-„
+§ 1 otrzymuje brzmienie: „
 § 1.
-Dłużnik może powołać się na ograniczenie odpowiedzialności niezależnie od ustanowienia funduszu ograniczenia odpowiedzialności określonego w art. 11 Konwencji o ograniczeniu odpowiedzialności.
-” ,
+Dłużnik może powołać się na ograniczenie odpowiedzialności niezależnie od ustanowienia funduszu ograniczenia odpowiedzialności określonego w art. 11 Konwencji o ograniczeniu odpowiedzialności. ” ,
 b)
 uchyla się § 2;
 4)
-w art. 101 § 1 otrzymuje brzmienie:
-„
+w art. 101 § 1 otrzymuje brzmienie: „
 § 1.
 Dla statków o pojemności brutto poniżej 300, granica odpowiedzialności dłużnika wynosi:
 1)
 200 000 jednostek obliczeniowych – w odniesieniu do roszczeń z tytułu śmierci, uszkodzenia ciała lub rozstroju zdrowia;
 2)
-100 000 jednostek obliczeniowych – w odniesieniu do innych roszczeń.
-” ;
+100 000 jednostek obliczeniowych – w odniesieniu do innych roszczeń. ” ;
 5)
-po art. 102 dodaje się art. 102a-102g w brzmieniu:
-„
+po art. 102 dodaje się art. 102a-102g w brzmieniu: „
+Międzynarodowy Dodatkowy Fundusz Odszkodowań za Szkody Spowodowane Zanieczyszczeniem Olejami
 
-**Art. 1.** W ustawie z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2009 r. Nr 217, poz. 1689, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2009 r. Nr 217, poz. 1689, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 857, z 2011 r. Nr 80, poz. 432 i Nr 228, poz. 1368 oraz z 2012 r. poz. 1068.) wprowadza się następujące zmiany:
 
 - **1)** tytuł V otrzymuje brzmienie: „
 
-## Tytuł V Ograniczenie odpowiedzialności za roszczenia morskie i ubezpieczenie armatorów z tytułu roszczeń morskich”;
+## Tytuł V
 
 **Art. 102a.**
 
@@ -125,7 +119,7 @@ po art. 102 dodaje się art. 102a-102g w brzmieniu:
 § 3. Certyfikat ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera, wydaje lub poświadcza:
 
 - **1)** przewoźnikowi wykonującemu faktycznie przewóz statkiem o polskiej przynależności, na jego wniosek, dyrektor urzędu morskiego właściwy ze względu na port macierzysty statku,
-- **2)** przewoźnikowi wykonującemu faktycznie przewóz statkiem o obcej przynależności, na jego wniosek, dyrektor urzędu morskiego po stwierdzeniu, że spełnia on wymogi określone w art. 3 rozporządzenia nr 392/2009.
+- **2)** przewoźnikowi wykonującemu faktycznie przewóz statkiem o obcej przynależności, na jego wniosek, dyrektor urzędu morskiego – po stwierdzeniu, że spełnia on wymogi określone w art. 3 rozporządzenia nr 392/2009.
 
 § 4. Kopię wydanego lub poświadczonego certyfikatu ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera dyrektor urzędu morskiego przesyła:
 
@@ -181,7 +175,7 @@ po art. 102 dodaje się art. 102a-102g w brzmieniu:
 
 § 3. Każdy, kto nie dopełnia obowiązku określonego w § 2 podlega karze pieniężnej w wysokości 1 SDR od tony niezadeklarowanego oleju kontrybucyjnego.
 
-§ 4. Karę pieniężną, o której mowa w § 3, wymierza, w drodze decyzji administracyjnej, dyrektor urzędu morskiego właściwy ze względu na port wyładunku. Tryb wymierzania i ściągania kar pieniężnych regulują przepisy ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502, z późn. zm.).
+§ 4. Karę pieniężną, o której mowa w § 3, wymierza, w drodze decyzji administracyjnej, dyrektor urzędu morskiego właściwy ze względu na port wyładunku. Tryb wymierzania i ściągania kar pieniężnych regulują przepisy ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652, z 2004 r. Nr 6, poz. 41, Nr 93, poz. 895 i Nr 273, poz. 2703, z 2005 r. Nr 203, poz. 1683, z 2006 r. Nr 220, poz. 1600 i Nr 249, poz. 1834, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 171, poz. 1055, z 2009 r. Nr 92, poz. 753 i Nr 98, poz. 817, z 2011 r. Nr 32, poz. 159, Nr 106, poz. 622, Nr 134, poz. 778 i Nr 228, poz. 1368 oraz z 2012 r. poz. 951.).
 
 § 5. Minister właściwy do spraw finansów publicznych składa Międzynarodowemu Funduszowi corocznie sprawozdanie, podając nazwę i adres osób, o których mowa w § 1, oraz ilości przewiezionego przez każdą taką osobę drogą morską oleju kontrybucyjnego w ciągu poprzedniego roku kalendarzowego.
 
@@ -189,7 +183,7 @@ po art. 102 dodaje się art. 102a-102g w brzmieniu:
 
 - **13)** w tytule VII w dziale III, po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Międzynarodowy Dodatkowy Fundusz Odszkodowań za Szkody Spowodowane Zanieczyszczeniem Olejami
+#### Rozdział 3a
 
 **Art. 281a.** Do dochodzenia roszczeń wobec Międzynarodowego Dodatkowego Funduszu Odszkodowań za Szkody Spowodowane Zanieczyszczeniem Olejami, zwanego dalej „Dodatkowym Funduszem”, stosuje się postanowienia Konwencji, o której mowa w art. 279 § 1, uzupełnionej Protokołem, sporządzonym w Londynie dnia 16 maja 2003 r. (Dz. U. z 2009 r. Nr 49, poz. 392), zwanym dalej „Protokołem z 2003 r.”, wraz ze zmianami obowiązującymi od daty ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, podanymi do publicznej wiadomości we właściwy sposób.
 
@@ -210,12 +204,12 @@ po art. 102 dodaje się art. 102a-102g w brzmieniu:
 
 § 3. Przepisy § 1 i 2 stosuje się odpowiednio do orzeczeń wydanych na podstawie Konwencji, o której mowa w art. 279 § 1, oraz Protokołu z 2003 r. ” .
 
-**Art. 2.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502, z późn. zm.) w art. 56 wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652, z 2004 r. Nr 6, poz. 41, Nr 93, poz. 895 i Nr 273, poz. 2703, z 2005 r. Nr 203, poz. 1683, z 2006 r. Nr 220, poz. 1600 i Nr 249, poz. 1834, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 171, poz. 1055, z 2009 r. Nr 92, poz. 753 i Nr 98, poz. 817, z 2011 r. Nr 32, poz. 159, Nr 106, poz. 622, Nr 134, poz. 778 i Nr 228, poz. 1368 oraz z 2012 r. poz. 951.) w art. 56 wprowadza się następujące zmiany:
 
 - **1)** po pkt 19 dodaje się pkt 19a w brzmieniu: „
 - **19a)** uprawia żeglugę z naruszeniem obowiązku posiadania dokumentu ubezpieczenia odpowiedzialności za roszczenia morskie, o którym mowa w art. 102c Kodeksu morskiego, ” ;
 - **2)** pkt 20 otrzymuje brzmienie: „
 - **20)** podejmuje się przewozu pasażerów z naruszeniem obowiązku posiadania dokumentu ubezpieczenia odpowiedzialności cywilnej, o którym mowa w art. 182 § 3 lub art. 182a § 2 Kodeksu morskiego ” .
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 7, 9 i 10, które wchodzą w życie z dniem 31 grudnia 2012 r.
+**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 7, 9 i 10, które wchodzą w życie z dniem 31 grudnia 2012 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2009/20/WE z dnia 23 kwietnia 2009 r. w sprawie ubezpieczenia armatorów od roszczeń morskich (Dz. Urz. UE L 131 z 28.05.2009, str. 128) oraz wykonuje postanowienia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 392/2009 z dnia 23 kwietnia 2009 r. w sprawie odpowiedzialności przewoźników pasażerskich na morskich drogach wodnych z tytułu wypadków (Dz. Urz. UE L 131 z 28.05.2009, str. 24). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 857, z 2011 r. Nr 80, poz. 432 i Nr 228, poz. 1368 oraz z 2012 r. poz. 1068. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652, z 2004 r. Nr 6, poz. 41, Nr 93, poz. 895 i Nr 273, poz. 2703, z 2005 r. Nr 203, poz. 1683, z 2006 r. Nr 220, poz. 1600 i Nr 249, poz. 1834, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 171, poz. 1055, z 2009 r. Nr 92, poz. 753 i Nr 98, poz. 817, z 2011 r. Nr 32, poz. 159, Nr 106, poz. 622, Nr 134, poz. 778 i Nr 228, poz. 1368 oraz z 2012 r. poz. 951. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652, z 2004 r. Nr 6, poz. 41, Nr 93, poz. 895 i Nr 273, poz. 2703, z 2005 r. Nr 203, poz. 1683, z 2006 r. Nr 220, poz. 1600 i Nr 249, poz. 1834, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 171, poz. 1055, z 2009 r. Nr 92, poz. 753 i Nr 98, poz. 817, z 2011 r. Nr 32, poz. 159, Nr 106, poz. 622, Nr 134, poz. 778 i Nr 228, poz. 1368 oraz z 2012 r. poz. 951.
 

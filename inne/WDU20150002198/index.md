@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-16 |
 | Data wydania | 2015-12-28 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002198) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2198/text.pdf) |
 
@@ -36,7 +35,7 @@ source: "eli-html"
 
 2. Wniosek, o którym mowa w ust. 1, dyrektor właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia kieruje do wszystkich świadczeniodawców realizujących umowy o udzielanie świadczeń opieki zdrowotnej w poszczególnych zakresach udzielanych świadczeń opieki zdrowotnej, które nie zostały wypowiedziane na dzień nadania wniosku.
 
-3. W przypadku umów na wykonywanie medycznych czynności ratunkowych przez zespoły ratownictwa medycznego, o których mowa w przepisach ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2013 r. poz. 757, z późn. zm.), przedłużenie umowy wymaga uzyskania przez dyrektora właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia zgody właściwego miejscowo wojewody.
+3. W przypadku umów na wykonywanie medycznych czynności ratunkowych przez zespoły ratownictwa medycznego, o których mowa w przepisach ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2013 r. poz. 757, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1245 i 1635, z 2014 r. poz. 1802 oraz z 2015 r. poz. 1887 i 1991.), przedłużenie umowy wymaga uzyskania przez dyrektora właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia zgody właściwego miejscowo wojewody.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1245 i 1635, z 2014 r. poz. 1802 oraz z 2015 r. poz. 1887 i 1991.
 

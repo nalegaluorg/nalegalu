@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 2 października 2019 r. zmieniające rozporządzenie w sprawie postępowania ze środkami odurzającymi, substancjami psychotropowymi, ich preparatami, prekursorami kategorii 1, środkami zastępczymi lub nowymi substancjami psychoaktywnymi w przypadku prowadzenia badań lub szkoleń
+# Rozporządzenie Ministra Zdrowiaz dnia 2 października 2019 r. zmieniające rozporządzenie w sprawie postępowania ze środkami odurzającymi, substancjami psychotropowymi, ich preparatami, prekursorami kategorii 1, środkami zastępczymi lub nowymi substancjami psychoaktywnymi w przypadku prowadzenia badań lub szkoleń Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-02 |
 | Data wydania | 2019-10-14 |
-| Wejście w życie | 2019-10-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001947) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1947/text.pdf) |
 
@@ -35,6 +34,5 @@ w załączniku nr 1 do rozporządzenia wyrazy „pieczęć lub nazwa i adres jed
 2)
 w załączniku nr 2 do rozporządzenia wyrazy „pieczęć lub nazwa i adres zgłaszającego” zastępuje się wyrazami „nazwa i adres zgłaszającego”.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 

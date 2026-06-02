@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa
-
-*USTAWA z dnia 26 czerwca 2014 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 lipca 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +22,37 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2014-06-26 |
 | Data wydania | 2014-07-15 |
-| Wejście w życie | 2014-07-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000932) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/932/text.pdf) |
+
+USTAWA z dnia 26 czerwca 2014 r.
+o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa prawa i obowiązki stron oraz zasady zawierania umów w związku z realizacją zamówień dotyczących produkcji lub handlu bronią, amunicją lub materiałami wojennymi, stanowiących środki, o których mowa w art. 346 ust. 1 lit. b Traktatu o funkcjonowaniu Unii Europejskiej, zwanego dalej „TFUE”, konieczne do ochrony podstawowych interesów bezpieczeństwa państwa, których wykonanie wymaga offsetu.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** umowa offsetowa umowę zawartą między Skarbem Państwa a zagranicznym dostawcą, określającą w szczególności wartość, przedmiot i harmonogram wykonania zobowiązań offsetowych oraz warunki, na jakich te zobowiązania mają być wykonane, mającą na celu ochronę podstawowych interesów bezpieczeństwa państwa zgodnie z art. 346 ust. 1 lit. b TFUE;
+- **2)** zobowiązanie offsetowe zobowiązanie zagranicznego dostawcy wobec Skarbu Państwa i offsetobiorcy, polegające w szczególności na przekazaniu technologii lub know-how, wraz z przeniesieniem autorskich praw majątkowych lub praw do korzystania z utworu na podstawie udzielonej licencji, zapewniające wymaganą przez Skarb Państwa niezależność od zagranicznego dostawcy w celu utrzymania lub ustanowienia na terytorium Rzeczypospolitej Polskiej potencjału w zakresie przeniesienia zdolności produkcyjnych, serwisowych i obsługowo-naprawczych, a także innych, niezbędnych z punktu widzenia ochrony podstawowych interesów bezpieczeństwa państwa;
+- **3)** zagraniczny dostawca stronę umowy dostawy lub inny podmiot, który wykonuje umowę offsetową za stronę umowy dostawy, w tym konsorcjum, rząd innego państwa lub agendę rządową, które ubiegają się o udzielenie zamówienia mającego na celu ochronę podstawowych interesów bezpieczeństwa państwa, i złożyła ofertę offsetową;
+- **4)** offsetobiorca podmiot wykonujący działalność gospodarczą w zakresie, o którym mowa w art. 6 ust. 1 ustawy z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2012 r. poz. 1017 oraz z 2013 r. poz. 1650) z miejscem zamieszkania albo siedzibą na terytorium Rzeczypospolitej Polskiej, a także jednostkę sektora finansów publicznych oraz jednostkę naukową;
+- **5)** umowa dostawy umowę między zamawiającym a wykonawcą, mającą na celu realizację zamówienia dotyczącego produkcji lub handlu bronią, amunicją lub materiałami wojennymi, stanowiącego środek, o którym mowa w art. 346 ust. 1 lit. b TFUE, którego wykonanie wymaga offsetu;
+- **6)** dostawa realizację umowy dostawy, o której mowa w pkt 5;
+- **7)** wartość umowy offsetowej łączną wartość zobowiązań offsetowych zagranicznego dostawcy określoną w umowie offsetowej;
+- **8)** wartość zobowiązania offsetowego wartość nominalną zobowiązania offsetowego;
+- **9)** zamawiający podmiot uprawniony do prowadzenia postępowania o udzielenie zamówienia mającego na celu ochronę podstawowych interesów bezpieczeństwa państwa;
+- **10)** offsetodawca zagranicznego dostawcę lub podmioty przez niego wskazane do wykonania zobowiązań offsetowych, za które zagraniczny dostawca ponosi odpowiedzialność w przypadku niewykonania lub nienależytego wykonania zobowiązania offsetowego, niezależnie od winy;
+- **11)** podmiot dominujący podmiot, w przypadku gdy:
+    - **a)** posiada bezpośrednio lub pośrednio przez inne podmioty większość głosów w organach innego podmiotu, także na podstawie porozumień z innymi osobami lub
+    - **b)** jest uprawniony do powoływania lub odwoływania większości członków organów zarządzających innego podmiotu, lub
+    - **c)** więcej niż połowa członków organu zarządzającego drugiego podmiotu jest jednocześnie członkami organu zarządzającego, prokurentami lub osobami pełniącymi funkcje kierownicze pierwszego podmiotu bądź innego podmiotu pozostającego z pierwszym w stosunku zależności;
+
+- **12)** podmiot zależny podmiot, w stosunku do którego inny podmiot jest podmiotem dominującym, przy czym podmioty zależne od tego podmiotu zależnego uważa się również za podmioty zależne od tego podmiotu dominującego;
+- **13)** przekazanie technologii przekazanie dokumentacji zakupowej i listy dostawców, specjalistycznych narzędzi i urządzeń, oprogramowania, dokumentacji technicznej (produkcyjnej, obsługowej, remontowej i serwisowej), zapewnienie szkoleń, asysty technicznej, organizacji produkcji i kooperacji, udzielenie licencji do produkcji, sprzedaży, serwisu, remontów i obsługi, a także przekazanie innych składników materialnych i niematerialnych potrzebnych do utrzymania lub ustanowienia na terytorium Rzeczypospolitej Polskiej potencjału w zakresie zdolności produkcyjnych, serwisowych i obsługowo-naprawczych, niezbędnych z punktu widzenia ochrony podstawowych interesów bezpieczeństwa państwa;
+- **14)** offset kooperację między Skarbem Państwa i offsetobiorcą a zagranicznym dostawcą konieczną do utrzymania lub ustanowienia na terytorium Rzeczypospolitej Polskiej potencjału w zakresie zdolności produkcyjnych, serwisowych i obsługowo-naprawczych, a także innych, niezbędnych z punktu widzenia ochrony podstawowych interesów bezpieczeństwa państwa, polegającą w szczególności na przekazaniu technologii, know-how wraz z przeniesieniem autorskich praw majątkowych lub korzystania z utworu na podstawie udzielonej licencji w celu zapewnienia wymaganej przez Skarb Państwa niezależności od zagranicznego dostawcy;
+- **15)** oferta offsetowa dokument sporządzony przez zagranicznego dostawcę na potrzeby postępowania o zawarcie umowy offsetowej, w którym zagraniczny dostawca wyraża wolę zawarcia umowy offsetowej i potwierdza spełnianie wymagań dla utrzymania lub ustanowienia na terytorium Rzeczypospolitej Polskiej potencjału w zakresie zdolności produkcyjnych, serwisowych i obsługowo-naprawczych, a także innych, niezbędnych z punktu widzenia ochrony podstawowych interesów bezpieczeństwa państwa, określonych przez Ministra Obrony Narodowej.
 
 **Art. 3.**
 
@@ -56,17 +76,17 @@ source: "isap-pdf"
 
 1. Osoby wykonujące w imieniu Skarbu Państwa czynności w postępowaniu o zawarcie umowy offsetowej lub związane z wykonaniem umowy offsetowej podlegają wyłączeniu od tych czynności, jeżeli:
 
-- **1)** ubiegają się lub ubiegały o jej zawarcie po stronie zagranicznego dostawcy, offsetodawcy, offsetobiorcy lub jednostek powiązanych z nimi w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i 2106);
+- **1)** ubiegają się lub ubiegały o jej zawarcie po stronie zagranicznego dostawcy, offsetodawcy, offsetobiorcy lub jednostek powiązanych z nimi w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330 i 613 oraz z 2014 r. poz. 768);
 - **2)** pozostają w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub są związane z tytułu przysposobienia, opieki lub kurateli z członkami organów zarządzających lub nadzorczych zagranicznego dostawcy, offsetobiorcy, offsetodawcy, jednostek powiązanych z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości lub ich pełnomocnikiem;
 - **3)** w ciągu 3 lat przed dniem złożenia oferty offsetowej pozostawały z offsetodawcą lub offsetobiorcą w stosunku pracy lub wykonywały w ich imieniu lub na ich rzecz umowy odpłatne lub inne zajęcia zarobkowe, w tym w formie działalności gospodarczej, lub były członkami organów zarządzających lub organów nadzorczych zagranicznego dostawcy, offsetobiorcy, offsetodawcy, jednostek powiązanych z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości lub ich pełnomocnikiem;
 - **4)** w ciągu 3 lat przed dniem złożenia oferty offsetowej osoby pozostające z nimi w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub związane z nimi z tytułu przysposobienia, opieki lub kurateli pozostawały z offsetodawcą lub offsetobiorcą lub ich pełnomocnikiem w stosunku pracy lub wykonywały w ich imieniu lub na ich rzecz umowy odpłatne lub inne zajęcia zarobkowe, w tym w formie działalności gospodarczej lub były członkami organów zarządzających lub organów nadzorczych zagranicznego dostawcy, offsetobiorcy, offsetodawcy lub jednostek powiązanych z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości lub ich pełnomocnikiem;
 - **5)** posiadają udziały, akcje lub inne papiery wartościowe emitowane przez zagranicznego dostawcę, offsetobiorcę lub offsetodawcę albo jednostki powiązane z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości lub pozostają w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub są związane z tytułu przysposobienia, opieki lub kurateli z osobami posiadającymi takie udziały, akcje lub inne papiery wartościowe;
 - **6)** osoby te lub osoby pozostające z nimi w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub związane z nimi z tytułu przysposobienia, opieki lub kurateli pozostają z offsetodawcą lub offsetobiorcą w takim stosunku prawnym lub faktycznym, że może to budzić uzasadnione wątpliwości co do bezstronności tych osób;
-- **7)** zostały prawomocnie skazane za przestępstwo z art. 228 lub art. 229 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2021 r. poz. 2345 i 2447), przestępstwo przeciwko obrotowi gospodarczemu, o którym mowa w rozdziale XXXVI ustawy z dnia 6 czerwca 1997 r. – Kodeks karny lub inne przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej;
+- **7)** zostały prawomocnie skazane za przestępstwo z art. 228 lub art. 229 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm. ), przestępstwo przeciwko obrotowi gospodarczemu, o którym mowa w rozdziale XXXVI ustawy z dnia 6 czerwca 1997 r. Kodeks karny lub inne przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej;
 - **8)** osoby te lub osoby pozostające z nimi w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub związane z nimi z tytułu przysposobienia, opieki lub kurateli są członkami organów spółdzielni, fundacji lub stowarzyszeń, które w ciągu 3 lat przed dniem złożenia oferty offsetowej uzyskały wsparcie finansowe ze strony zagranicznego dostawcy, offsetobiorcy lub offsetodawcy, albo jednostek powiązanych z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości;
 - **9)** nie złożyły oświadczenia, o którym mowa w ust. 2.
 
-2. Osoby wykonujące w imieniu Skarbu Państwa czynności w postępowaniu o zawarcie umowy offsetowej lub związane z wykonaniem umowy offsetowej, składają Ministrowi Obrony Narodowej, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, o której mowa w art. 233 § 1 i 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, przed podjęciem czynności, oświadczenie o braku okoliczności wymienionych w ust. 1 pkt 1–8.
+2. Osoby wykonujące w imieniu Skarbu Państwa czynności w postępowaniu o zawarcie umowy offsetowej lub związane z wykonaniem umowy offsetowej, składają Ministrowi Obrony Narodowej, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, o której mowa w art. 233 § 1 i 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, przed podjęciem czynności, oświadczenie o braku okoliczności wymienionych w ust. 1 pkt 1–8.
 
 3. Oświadczenie, o którym mowa w ust. 2, zawiera w szczególności:
 
@@ -99,7 +119,7 @@ source: "isap-pdf"
 
 **Art. 8.**
 
-1. Zamawiający niezwłocznie informuje Ministra Obrony Narodowej o zamiarze wszczęcia postępowania o udzielenie zamówienia dotyczącego produkcji lub handlu bronią, amunicją lub materiałami wojennymi, o których mowa w art. 346 ust. 1 lit. b TFUE. Informacja obejmuje co najmniej przedmiot postępowania o udzielenie zamówienia oraz dokument zawierający ocenę występowania podstawowych interesów bezpieczeństwa państwa.
+1. Zamawiający niezwłocznie informuje Ministra Obrony Narodowej o zamiarze wszczęcia postępowania o udzielenie zamówienia dotyczącego produkcji lub handlu bronią, amunicją lub materiałami wojennymi, o których mowa w art. 346 ust. 1 lit. b TFUE. Informacja obejmuje co najmniej przedmiot postępowania o udzielenie zamówienia oraz dokument zawierający ocenę występowania podstawowych interesów bezpieczeństwa państwa, wykonaną na podstawie przepisów wykonawczych wydanych na podstawie art. 4c ustawy z dnia 29 stycznia 2004 r. Prawo zamówień publicznych (Dz. U. z 2013 r. poz. 907, z późn. zm. ).
 
 2. Minister Obrony Narodowej, na podstawie informacji, o której mowa w ust. 1, oraz uzasadnienia, o którym mowa w art. 7 ust. 5, po uzyskaniu opinii Komitetu Offsetowego, niezwłocznie przekazuje zamawiającemu założenia do oferty offsetowej wraz z projektem umowy offsetowej.
 
@@ -142,7 +162,7 @@ source: "isap-pdf"
 
 **Art. 11.**
 
-1. W przypadku gdy co najmniej jedna oferta na dostawę nie podlega obowiązkowi zawarcia umowy offsetowej, zamawiający dokonuje oceny wszystkich ofert bez uwzględniania kryterium offsetowego. W przypadku gdy w wyniku takiej oceny najkorzystniejsza okaże się oferta niepodlegająca obowiązkowi zawarcia umowy offsetowej, zamawiający zawiera umowę dostawy z pominięciem procedury, o której mowa w art. 8. W przypadku gdy w wyniku dokonanej oceny najlepsza okaże się oferta podlegająca obowiązkowi zawarcia umowy offsetowej, dalsze postępowanie jest prowadzone zgodnie z procedurą, o której mowa w art. 8.
+1. W przypadku gdy co najmniej jedna oferta na dostawę nie podlega obowiązkowi zawarcia umowy offsetowej, zamawiający dokonuje oceny wszystkich ofert bez uwzględniania kryterium offsetowego. W przypadku gdy w wyniku takiej oceny najkorzystniejsza okaże się oferta niepodlegająca obowiązkowi zawarcia umowy offsetowej, zamawiający zawiera umowę dostawy z pominięciem procedury, o której mowa w art. 8. W przypadku gdy w wyniku dokonanej oceny najlepsza okaże się oferta podlegająca obowiązkowi zawarcia umowy offsetowej, dalsze postępowanie jest prowadzone
 
 2. Jeżeli negocjacje oferty na dostawę nie doprowadzą do zawarcia umowy, dalsze postępowanie jest prowadzone z udziałem dostawcy, który przedstawił kolejną najkorzystniejszą ofertę, zgodnie z oceną zamawiającego. Przepis ust. 1 zdanie drugie i trzecie stosuje się odpowiednio.
 
@@ -187,7 +207,7 @@ source: "isap-pdf"
 6. Minister Obrony Narodowej, dokonując oceny wniosku, o którym mowa w ust. 1, może:
 
 - **1)** żądać przedstawienia przez zagranicznego dostawcę dodatkowych dokumentów oraz informacji niezbędnych do dokonania oceny zasadności wniosku;
-- **2)** zasięgać opinii biegłego rewidenta lub innej osoby niebędącej pracownikiem urzędu obsługującego Ministra Obrony Narodowej, dysponującej odpowiednią wiedzą specjalistyczną w sprawie wykonania zobowiązania offsetowego.
+- **2)** zasięgać opinii biegłego rewidenta lub innej osoby niebędącej pracownikiem urzędu obsługującego Ministra Obrony
 
 **Art. 14.**
 
@@ -198,6 +218,13 @@ source: "isap-pdf"
 #### Rozdział 3 Treść i wykonanie umowy offsetowej
 
 **Art. 15.** Umowa offsetowa zawiera w szczególności:
+
+- **1)** określenie stron oraz daty i miejsca jej zawarcia;
+- **2)** oznaczenie czasu jej obowiązywania;
+- **3)** oznaczenie jej wartości i wartości poszczególnych zobowiązań offsetowych;
+- **4)** oznaczenie przedmiotu zobowiązań offsetowych;
+- **5)** harmonogram wykonania zobowiązań offsetowych;
+- **6)** określenie zasad odpowiedzialności za niewykonanie lub nienależyte wykonanie zobowiązań offsetowych, w tym kary umowne.
 
 **Art. 16.**
 
@@ -240,7 +267,7 @@ source: "isap-pdf"
 
 - **1)** udostępnia na czas trwania kontroli oddzielne pomieszczenie z odpowiednim wyposażeniem,
 - **2)** niezwłocznie przedstawia żądane dokumenty i materiały oraz udziela wyjaśnień,
-- **3)** umożliwia dostęp do danych zapisywanych na elektronicznych nośnikach – z zachowaniem przepisów o tajemnicy prawnie chronionej.
+- **3)** umożliwia dostęp do danych zapisywanych na elektronicznych nośnikach z zachowaniem przepisów o tajemnicy prawnie chronionej.
 
 **Art. 18.**
 
@@ -254,7 +281,7 @@ source: "isap-pdf"
 - **4)** przedmiot kontroli;
 - **5)** termin rozpoczęcia i zakończenia kontroli;
 - **6)** wskazanie okresu objętego kontrolą;
-- **7)** imiona i nazwiska osób wchodzących w składu zespołu kontrolnego;
+- **7)** imiona i nazwiska osób wchodzących w skład zespołu kontrolnego;
 - **8)** opis sposobu przeprowadzenia kontroli;
 - **9)** imiona i nazwiska osób, które w trakcie kontroli udzielały informacji lub wyjaśnień w zakresie dotyczącym przedmiotu kontroli;
 - **10)** wykaz aktów prawnych i dokumentów dotyczących przedmiotu kontroli;
@@ -281,7 +308,7 @@ source: "isap-pdf"
 
 2. Zabezpieczeniem należytego wykonania umowy offsetowej może być w szczególności:
 
-- **1)** akt notarialny zawierający oświadczenie o poddaniu się egzekucji, o którym mowa w art. 777 § 1 pkt 5 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. );
+- **1)** akt notarialny zawierający oświadczenie o poddaniu się egzekucji, o którym mowa w art. 777 § 1 pkt 5 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm. );
 - **2)** gwarancja bankowa;
 - **3)** złożenie przez zagranicznego dostawcę weksla in blanco wraz z deklaracją wekslową.
 
@@ -330,11 +357,10 @@ source: "isap-pdf"
 - **3)** Ministra Obrony Narodowej;
 - **4)** ministra właściwego do spraw finansów publicznych;
 - **5)** ministra właściwego do spraw gospodarki;
-- **6)** ministra właściwego do spraw szkolnictwa wyższego i nauki;
-- **7)** (uchylony)
+- **6)** ministra właściwego do spraw nauki;
+- **7)** ministra właściwego do spraw Skarbu Państwa;
 - **8)** ministra właściwego do spraw wewnętrznych;
 - **9)** ministra właściwego do spraw zagranicznych;
-- **9a)** Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej;
 - **10)** Prezesa Urzędu Zamówień Publicznych;
 - **11)** Szefa Agencji Bezpieczeństwa Wewnętrznego;
 - **12)** Szefa Biura Bezpieczeństwa Narodowego;
@@ -365,17 +391,18 @@ source: "isap-pdf"
 
 **Art. 28.** Nadzór nad wykonywaniem umów offsetowych sprawuje Minister Obrony Narodowej.
 
-**Art. 29.** Wejście w życie umowy offsetowej oraz stwierdzenie jej wykonania wymaga zatwierdzenia przez Radę Ministrów.
-
 **Art. 30.** Minister Obrony Narodowej przedkłada Radzie Ministrów roczne sprawozdanie z wykonania zobowiązań offsetowych przez zagranicznych dostawców, które w szczególności prezentuje ocenę efektywności wykonania zobowiązań związanych z przekazaniem technologii o charakterze innowacyjnym i know-how, w terminie do końca drugiego kwartału po zakończeniu roku sprawozdawczego.
 
 **Art. 31.** Do umów offsetowych zawieranych w związku z umową dostawy nie stosuje się przepisów o ochronie konkurencji i konsumentów.
 
 #### Rozdział 6 Przepisy zmieniające
 
-**Art. 32.** (pominięty)
+**Art. 32.** W ustawie z dnia 14 grudnia 1995 r. o urzędzie Ministra Obrony Narodowej (Dz. U. z 2013 r. poz. 189 i 852) w art. 2 po pkt 22 dodaje się pkt 22a w brzmieniu: „22a) zawieranie i obsługa umów offsetowych, do których stosuje się przepisy ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. poz. 932);”.
 
-**Art. 33.** (pominięty)
+**Art. 33.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2013 r. poz. 743 i 984 oraz z 2014 r. poz. 496 i 829) wprowadza się następujące zmiany:
+
+- **1)** w art. 9 ust. 1 otrzymuje brzmienie: „1. Dział gospodarka obejmuje sprawy gospodarki, w tym konkurencyjności gospodarki, współpracy gospodarczej z zagranicą, energetyki, oceny zgodności, miar i probiernictwa, własności przemysłowej, innowacyjności, działalności gospodarczej, promocji gospodarki polskiej w kraju i za granicą, oraz współpracy z organizacjami samorządu gospodarczego.”;
+- **2)** w art. 19 w ust. 1 w pkt 2 kropkę zastępuje się przecinkiem i dodaje się pkt 3 w brzmieniu: „3) umów offsetowych”.
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 
@@ -397,5 +424,5 @@ source: "isap-pdf"
 
 **Art. 37.** Traci moc ustawa z dnia 10 września 1999 r. o niektórych umowach kompensacyjnych zawieranych w związku z umowami dostaw na potrzeby obronności i bezpieczeństwa państwa (Dz. U. z 2013 r. poz. 716).
 
-**Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

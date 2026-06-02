@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 grudnia 2016 r. o zmianie ustawy o nasiennictwie oraz ustawy o ochronie roślin
+# Ustawa z dnia 16 grudnia 2016 r. o zmianie ustawy o nasiennictwie oraz ustawy o ochronie roślin Niniejsza ustawa w zakresie swojej regulacji wdraża: 1) dyrektywę wykonawczą Komisji 2014/96/UE z dnia 15 października 2014 r. w sprawie wymagań dotyczących etykietowania, plombowania i pakowania materiału rozmnożeniowego roślin sadowniczych oraz roślin sadowniczych przeznaczonych do produkcji owoców, który to materiał i rośliny są objęte zakresem dyrektywy Rady 2008/90/WE (Dz. Urz. UE L 298 z 16.10.2014, str. 12); 2) dyrektywę wykonawczą Komisji 2014/97/UE z dnia 15 października 2014 r. w sprawie wykonania dyrektywy Rady 2008/90/WE w odniesieniu do rejestracji dostawców i odmian oraz w odniesieniu do wspólnego wykazu odmian (Dz. Urz. UE L 298 z 16.10.2014, str. 16); 3) dyrektywę wykonawczą Komisji 2014/98/UE z dnia 15 października 2014 r. w sprawie wykonania dyrektywy Rady 2008/90/WE w odniesieniu do szczegółowych wymogów dotyczących rodzajów i gatunków roślin sadowniczych, o których mowa w załączniku I do tej dyrektywy, szczegółowych wymogów wobec dostawców oraz szczegółowych zasad dotyczących inspekcji urzędowych (Dz. Urz. UE L 298 z 16.10.2014, str. 22).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-16 |
 | Data wydania | 2016-12-30 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002246) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2246/text.pdf) |
 
@@ -36,7 +35,8 @@ source: "eli-html"
 
 2. Przepisy ustawy w zakresie rejestracji odmian, wytwarzania, oceny i kontroli materiału siewnego oraz obrotu materiałem siewnym dotyczą również gatunków roślin stosowanych do uszlachetniania odmian gatunków roślin, o których mowa w ust. 1 pkt 1 i 1a. ” ;
 
-- **2)** w art. 3 w ust. 1: w pkt 8: – lit. a otrzymuje brzmienie: „ a) materiał siewny roślin rolniczych obejmujący nasiona roślin rolniczych odmian gatunków objętych przepisami dotyczącymi wytwarzania i jakości, a w przypadku ziemniaka – bulwy, zwane dalej „sadzeniakami ziemniaka”, ” , – uchyla się lit. c, w pkt 10 wprowadzenie do wyliczenia otrzymuje brzmienie: „ materiał siewny kategorii elitarny roślin rolniczych i warzywnych – oznacza: ” , po pkt 10 dodaje się pkt 10a w brzmieniu: „
+- **2)** w art. 3 w ust. 1: w pkt 8: lit. a otrzymuje brzmienie: „ materiał siewny roślin rolniczych obejmujący nasiona roślin rolniczych odmian gatunków objętych przepisami dotyczącymi wytwarzania i jakości, a w przypadku ziemniaka – bulwy, zwane dalej „sadzeniakami ziemniaka”, ” , – uchyla się lit. c, w pkt 10 wprowadzenie do wyliczenia otrzymuje brzmienie: „ materiał siewny kategorii elitarny roślin rolniczych i warzywnych – oznacza: ” , po pkt 10 dodaje się pkt 10a w brzmieniu: „
+    - **a)**
     - **a)**
     - **b)**
     - **c)**
@@ -148,8 +148,11 @@ source: "eli-html"
 
 3. Jeżeli nastąpiła zmiana informacji zawartych w opisie odmiany, zachowujący odmianę powiadamia na piśmie o tej zmianie dyrektora Centralnego Ośrodka, w terminie 30 dni od dnia, w którym nastąpiła ta zmiana. Do powiadomienia dołącza się kopię dokumentu potwierdzającego nastąpienie tej zmiany. ” ;
 
-- **12)** w art. 25: w ust. 1: – w pkt 5 w lit. b kropkę zastępuje się przecinkiem, dodaje wyraz „lub” i lit. c w brzmieniu: „ c) nie dostarczył bezpłatnie materiału siewnego odmiany w ilości wystarczającej do przeprowadzenia badań – w przypadku odmian roślin sadowniczych; ” , – dodaje się pkt 6 w brzmieniu: „ 6) informacje o odmianie zawarte w opisie odmiany uległy zmianie i nie zostały uzupełnione zgodnie z art. 23 ust. 3. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **12)** w art. 25: w ust. 1: w pkt 5 w lit. b kropkę zastępuje się przecinkiem, dodaje wyraz „lub” i lit. c w brzmieniu: „ nie dostarczył bezpłatnie materiału siewnego odmiany w ilości wystarczającej do przeprowadzenia badań – w przypadku odmian roślin sadowniczych; ” , dodaje się pkt 6 w brzmieniu: „
     - **a)**
+    - **c)**
+
+- **6)** informacje o odmianie zawarte w opisie odmiany uległy zmianie i nie zostały uzupełnione zgodnie z art. 23 ust. 3. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. We wniosku, o którym mowa w ust. 1 pkt 5 lit. a, zachowujący odmianę podaje informację o tym, czy materiał siewny skreślonej odmiany może znajdować się w obrocie do dnia 30 czerwca trzeciego roku, licząc od roku następującego po roku, w którym odmiana ta została skreślona z krajowego rejestru. Informację tę umieszcza się w krajowym rejestrze przy skreślonej odmianie. ” , w ust. 3 w pkt 1 lit. c otrzymuje brzmienie: „ nie dostarczył bezpłatnie materiału siewnego odmiany w ilości wystarczającej do przeprowadzenia badań – w przypadku odmian roślin rolniczych i warzywnych, lub ” ;
@@ -175,9 +178,16 @@ source: "eli-html"
 
 **Art. 32a.** Do odmian regionalnych i odmian amatorskich, w przypadku gdy odmiana jest zachowywana przez więcej niż jednego zachowującego odmianę, przepisy art. 22 stosuje się odpowiednio. ” ;
 
-- **16)** w art. 36: w ust. 8: – pkt 2 otrzymuje brzmienie: „ 2) opis składników odmiany mieszańcowej – w przypadku zgłaszania do oceny polowej odmiany mieszańcowej; w opisie nie uwzględnia się składników, którymi są odmiany wpisane do krajowego rejestru lub wspólnotowych katalogów; ” , – pkt 4 i 5 otrzymują brzmienie: „ 4) oryginał albo kopię dokumentu zakupu zawierającego w szczególności numer partii i stopień kwalifikacji – w przypadku zgłaszania do oceny polowej materiału siewnego na plantacji nasiennej obsianej albo obsadzonej materiałem siewnym kategorii elitarny albo kategorii kwalifikowany, z wyłączeniem plantacji nasiennej obsianej albo obsadzonej przez zachowującego odmianę materiałem siewnym własnej odmiany w gospodarstwie będącym w jego posiadaniu; 5) dla partii materiału siewnego wytworzonego poza terytorium Rzeczypospolitej Polskiej dokument potwierdzający spełnienie wymagań jakościowych, a w przypadku sadzeniaków ziemniaka – również wymagań zdrowotności, wystawiony przez właściwy dla danego państwa urząd kwalifikacyjny. ” , w ust. 10: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku plantacji nasiennych, na których odbywa się wytwarzanie materiału siewnego odmian roślin rolniczych pochodzących z państw trzecich, objętych systemami OECD, do wniosku o dokonanie oceny polowej materiału siewnego roślin rolniczych dołącza się: ” , – pkt 3 i 4 otrzymują brzmienie: „ 3) oświadczenie zachowującego odmianę, że materiał siewny został wyprodukowany zgodnie z metodyką hodowli przyjętą dla danej odmiany oraz własne oznaczenie odmiany identyfikujące materiał siewny użyty do siewu – w przypadku zgłaszania do oceny polowej materiału siewnego na plantacji obsianej albo obsadzonej materiałem matecznym; 4) pisemną zgodę właściwego urzędu kwalifikacyjnego państwa trzeciego, w którym odmiana jest wpisana do rejestru i której materiał siewny podlega wytwarzaniu. ” , ust. 11 otrzymuje brzmienie: „
+- **16)** w art. 36: w ust. 8: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** opis składników odmiany mieszańcowej – w przypadku zgłaszania do oceny polowej odmiany mieszańcowej; w opisie nie uwzględnia się składników, którymi są odmiany wpisane do krajowego rejestru lub wspólnotowych katalogów; ” , pkt 4 i 5 otrzymują brzmienie: „
+- **4)** oryginał albo kopię dokumentu zakupu zawierającego w szczególności numer partii i stopień kwalifikacji – w przypadku zgłaszania do oceny polowej materiału siewnego na plantacji nasiennej obsianej albo obsadzonej materiałem siewnym kategorii elitarny albo kategorii kwalifikowany, z wyłączeniem plantacji nasiennej obsianej albo obsadzonej przez zachowującego odmianę materiałem siewnym własnej odmiany w gospodarstwie będącym w jego posiadaniu;
+- **5)** dla partii materiału siewnego wytworzonego poza terytorium Rzeczypospolitej Polskiej dokument potwierdzający spełnienie wymagań jakościowych, a w przypadku sadzeniaków ziemniaka – również wymagań zdrowotności, wystawiony przez właściwy dla danego państwa urząd kwalifikacyjny. ” , w ust. 10: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku plantacji nasiennych, na których odbywa się wytwarzanie materiału siewnego odmian roślin rolniczych pochodzących z państw trzecich, objętych systemami OECD, do wniosku o dokonanie oceny polowej materiału siewnego roślin rolniczych dołącza się: ” , pkt 3 i 4 otrzymują brzmienie: „
     - **b)**
+
+- **3)** oświadczenie zachowującego odmianę, że materiał siewny został wyprodukowany zgodnie z metodyką hodowli przyjętą dla danej odmiany oraz własne oznaczenie odmiany identyfikujące materiał siewny użyty do siewu – w przypadku zgłaszania do oceny polowej materiału siewnego na plantacji obsianej albo obsadzonej materiałem matecznym;
+- **4)** pisemną zgodę właściwego urzędu kwalifikacyjnego państwa trzeciego, w którym odmiana jest wpisana do rejestru i której materiał siewny podlega wytwarzaniu. ” , ust. 11 otrzymuje brzmienie: „
     - **c)**
 
 11. Wnioskodawca, składając wniosek o dokonanie oceny polowej materiału siewnego roślin rolniczych lub warzywnych:
@@ -236,8 +246,10 @@ source: "eli-html"
     - **c)**
 
 - **22)** w art. 56 uchyla się pkt 2;
-- **23)** w art. 64: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) w trakcie produkcji identyfikuje i monitoruje zagrożenia dla danej uprawy wynikające w szczególności z czynników zewnętrznych (punkty krytyczne) określonych przez dostawcę; ” , – w pkt 2 uchyla się lit. a, po ust. 3 dodaje się ust. 3a w brzmieniu: „
+- **23)** w art. 64: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** w trakcie produkcji identyfikuje i monitoruje zagrożenia dla danej uprawy wynikające w szczególności z czynników zewnętrznych (punkty krytyczne) określonych przez dostawcę; ” , – w pkt 2 uchyla się lit. a, po ust. 3 dodaje się ust. 3a w brzmieniu: „
     - **b)**
 
 3a. Dostawca wytwarzający materiał szkółkarski prowadzi dokumentację dotyczącą identyfikacji i monitorowania punktów krytycznych oraz przechowuje ją przez 3 lata od zakończenia cyklu produkcyjnego tego materiału. ” , ust. 4 otrzymuje brzmienie: „
@@ -300,8 +312,9 @@ source: "eli-html"
     - **b)**
 
 - **4)** informację o wynikach oceny laboratoryjnej – w przypadku gdy materiał podlega ocenie laboratoryjnej lub zostały pobrane próby gleby i podłoża. ” ;
-- **31)** w art. 72: w pkt 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ wymagania w zakresie wytwarzania i jakości materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany oraz materiału szkółkarskiego CAC, z uwzględnieniem w szczególności: ” , – uchyla się lit. b, – lit. e otrzymuje brzmienie: „ e) sposobu oznaczania partii materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany oraz materiału szkółkarskiego CAC, ” , po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „
+- **31)** w art. 72: w pkt 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ wymagania w zakresie wytwarzania i jakości materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany oraz materiału szkółkarskiego CAC, z uwzględnieniem w szczególności: ” , – uchyla się lit. b, lit. e otrzymuje brzmienie: „ sposobu oznaczania partii materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany oraz materiału szkółkarskiego CAC, ” , po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „
     - **a)**
+    - **e)**
     - **b)**
 
 - **3a)** wymagania dla gleby i podłoża, w których jest uprawiany materiał szkółkarski kategorii elitarny lub kategorii kwalifikowany, oraz warunki i metody pobierania prób gleby i podłoża,
@@ -311,7 +324,7 @@ source: "eli-html"
 **Art. 72a.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
 - **1)** wymagania w zakresie wytwarzania i jakości materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych i roślin ozdobnych oraz sadzonek winorośli,
-- **2)** sposób oznaczania partii materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych i roślin ozdobnych oraz sadzonek winorośli biorąc pod uwagę cechy biologiczne poszczególnych grup lub gatunków roślin, specyfikę ich wytwarzania, zapewnienie wysokiej jakości materiału siewnego, a także zapewnienie właściwej identyfikacji wytworzonego materiału. ” ;
+- **2)** sposób oznaczania partii materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych i roślin ozdobnych oraz sadzonek winorośli – biorąc pod uwagę cechy biologiczne poszczególnych grup lub gatunków roślin, specyfikę ich wytwarzania, zapewnienie wysokiej jakości materiału siewnego, a także zapewnienie właściwej identyfikacji wytworzonego materiału. ” ;
 - **33)** w art. 78 uchyla się ust. 7–9;
 - **34)** w art. 79: ust. 3 i 4 otrzymują brzmienie: „
     - **a)**
@@ -332,7 +345,7 @@ source: "eli-html"
 - **35)** w art. 81: w ust. 3 pkt 1 otrzymuje brzmienie: „
     - **a)**
 
-- **1)** uczestniczyć w ocenie polowej, ocenie cech zewnętrznych, ocenie laboratoryjnej lub pobieraniu prób materiału siewnego, dokonywanych przez te podmioty lub sprawdzać prawidłowość wykonywania tych czynności; ” , w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Jeżeli w trakcie przeprowadzania kontroli wojewódzki inspektor stwierdzi, że akredytowani kwalifikatorzy, akredytowani próbobiorcy oraz akredytowane laboratoria nie spełniają warunków niezbędnych do wykonywania odpowiednio oceny polowej materiału siewnego, oceny cech zewnętrznych materiału siewnego albo oceny laboratoryjnej materiału siewnego, lub pobierania prób materiału siewnego, w szczególności: ” , – część wspólna otrzymuje brzmienie: „ – w zależności od zakresu i stopnia stwierdzonych uchybień, w drodze decyzji, cofa akredytację albo nakazuje usunięcie stwierdzonych uchybień w określonym terminie lub nakazuje odbycie szkolenia doskonalącego. ” , w ust. 7 pkt 1 otrzymuje brzmienie: „
+- **1)** uczestniczyć w ocenie polowej, ocenie cech zewnętrznych, ocenie laboratoryjnej lub pobieraniu prób materiału siewnego, dokonywanych przez te podmioty lub sprawdzać prawidłowość wykonywania tych czynności; ” , w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Jeżeli w trakcie przeprowadzania kontroli wojewódzki inspektor stwierdzi, że akredytowani kwalifikatorzy, akredytowani próbobiorcy oraz akredytowane laboratoria nie spełniają warunków niezbędnych do wykonywania odpowiednio oceny polowej materiału siewnego, oceny cech zewnętrznych materiału siewnego albo oceny laboratoryjnej materiału siewnego, lub pobierania prób materiału siewnego, w szczególności: ” , część wspólna otrzymuje brzmienie: „ – w zależności od zakresu i stopnia stwierdzonych uchybień, w drodze decyzji, cofa akredytację albo nakazuje usunięcie stwierdzonych uchybień w określonym terminie lub nakazuje odbycie szkolenia doskonalącego. ” , w ust. 7 pkt 1 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -363,8 +376,11 @@ source: "eli-html"
 
 6. Wojewódzki inspektor wydaje rolnikowi zaświadczenie o dokonaniu wpisu do ewidencji rolników albo zaświadczenie o zmianie wpisu w ewidencji, zawierające numer rolnika wynikający z ewidencji rolników, datę wpisu albo zmiany wpisu, w terminie 14 dni od dnia odpowiednio wpisu albo dokonania zmiany wpisu. ” ;
 
-- **40)** w art. 87: w ust. 4: – pkt 3 otrzymuje brzmienie: „ 3) wskazanie rodzaju działalności, której ma dotyczyć wpis do ewidencji dostawców, z podaniem grup roślin uprawnych, a w przypadku materiału szkółkarskiego – wskazanie przez dostawcę głównych rodzajów lub gatunków uprawnych objętych jego działalnością; ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) oświadczenie o tym, że dostawca będzie dokonywać pobierania prób, oceny cech zewnętrznych, oceny tożsamości i czystości odmianowej wytwarzanego przez siebie materiału oraz pobierania prób gleby i podłoża, w których jest wytwarzany ten materiał – w przypadku dostawców materiału szkółkarskiego kategorii elitarny i kategorii kwalifikowany, którzy będą dokonywać tych czynności; ” , ust. 7 otrzymuje brzmienie: „
+- **40)** w art. 87: w ust. 4: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** wskazanie rodzaju działalności, której ma dotyczyć wpis do ewidencji dostawców, z podaniem grup roślin uprawnych, a w przypadku materiału szkółkarskiego – wskazanie przez dostawcę głównych rodzajów lub gatunków uprawnych objętych jego działalnością; ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** oświadczenie o tym, że dostawca będzie dokonywać pobierania prób, oceny cech zewnętrznych, oceny tożsamości i czystości odmianowej wytwarzanego przez siebie materiału oraz pobierania prób gleby i podłoża, w których jest wytwarzany ten materiał – w przypadku dostawców materiału szkółkarskiego kategorii elitarny i kategorii kwalifikowany, którzy będą dokonywać tych czynności; ” , ust. 7 otrzymuje brzmienie: „
     - **b)**
 
 7. Wojewódzki inspektor wydaje dostawcy zaświadczenie o dokonaniu wpisu do ewidencji dostawców albo zaświadczenie o zmianie wpisu w ewidencji, zawierające numer dostawcy wynikający z ewidencji dostawców, datę wpisu albo zmiany wpisu, w terminie 14 dni od dnia odpowiednio wpisu albo dokonania zmiany wpisu. ” ;
@@ -476,9 +492,13 @@ source: "eli-html"
     - **b)**
 
 - **2)** informacje, które umieszcza się na szkółkarskim dokumencie dostawcy,
-- **3)** informacje, które umieszcza się na etykiecie dostawcy sadzonek winorośli mając na względzie zapewnienie identyfikacji materiału siewnego i rozwiązania stosowane w tym zakresie przez międzynarodowe organizacje nasienne oraz zapewnienie widocznych różnic między tymi dokumentami, a także biorąc pod uwagę rodzaj i gatunek roślin oraz kategorię materiału siewnego. ” ;
-- **46)** w art. 104: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) materiał szkółkarski kategorii elitarny, materiał szkółkarski kategorii kwalifikowany i materiał szkółkarski CAC odmian roślin chronionych wyłącznym prawem do odmiany, wpisanych do krajowego rejestru, lub odmian powszechnie znanych; ” , – pkt 7 otrzymuje brzmienie: „ 7) materiał szkółkarski kategorii elitarny, materiał szkółkarski kategorii kwalifikowany i materiał szkółkarski CAC podkładek nienależących do odmiany; ” , – pkt 21 otrzymuje brzmienie: „ 21) materiał siewny kategorii elitarny, a w przypadku koniczyny łąkowej – również materiał siewny kategorii elitarny oraz materiał siewny kategorii kwalifikowany, który nie spełnia określonych dla danej kategorii wymagań w zakresie zdolności kiełkowania. ” , ust. 2 otrzymuje brzmienie: „
+- **3)** informacje, które umieszcza się na etykiecie dostawcy sadzonek winorośli – mając na względzie zapewnienie identyfikacji materiału siewnego i rozwiązania stosowane w tym zakresie przez międzynarodowe organizacje nasienne oraz zapewnienie widocznych różnic między tymi dokumentami, a także biorąc pod uwagę rodzaj i gatunek roślin oraz kategorię materiału siewnego. ” ;
+- **46)** w art. 104: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** materiał szkółkarski kategorii elitarny, materiał szkółkarski kategorii kwalifikowany i materiał szkółkarski CAC odmian roślin chronionych wyłącznym prawem do odmiany, wpisanych do krajowego rejestru, lub odmian powszechnie znanych; ” , pkt 7 otrzymuje brzmienie: „
+- **7)** materiał szkółkarski kategorii elitarny, materiał szkółkarski kategorii kwalifikowany i materiał szkółkarski CAC podkładek nienależących do odmiany; ” , pkt 21 otrzymuje brzmienie: „
+- **21)** materiał siewny kategorii elitarny, a w przypadku koniczyny łąkowej – również materiał siewny kategorii elitarny oraz materiał siewny kategorii kwalifikowany, który nie spełnia określonych dla danej kategorii wymagań w zakresie zdolności kiełkowania. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Materiał siewny, o którym mowa w ust. 1 pkt 2, może znajdować się w obrocie w terminie podanym przy skreślonej odmianie w krajowym rejestrze, odpowiednich rejestrach innych niż Rzeczpospolita Polska państw członkowskich lub wspólnotowym katalogu lub rejestrze państwa stowarzyszonego. ” , ust. 7 otrzymuje brzmienie: „
@@ -581,5 +601,5 @@ source: "eli-html"
 
 **Art. 11.** Przepisy wykonawcze wydane na podstawie art. 118 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 118 ustawy zmienianej w art. 1, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy i mogą być zmieniane na podstawie tego przepisu.
 
-**Art. 12.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r.
+**Art. 12.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża: 1) dyrektywę wykonawczą Komisji 2014/96/UE z dnia 15 października 2014 r. w sprawie wymagań dotyczących etykietowania, plombowania i pakowania materiału rozmnożeniowego roślin sadowniczych oraz roślin sadowniczych przeznaczonych do produkcji owoców, który to materiał i rośliny są objęte zakresem dyrektywy Rady 2008/90/WE (Dz. Urz. UE L 298 z 16.10.2014, str. 12); 2) dyrektywę wykonawczą Komisji 2014/97/UE z dnia 15 października 2014 r. w sprawie wykonania dyrektywy Rady 2008/90/WE w odniesieniu do rejestracji dostawców i odmian oraz w odniesieniu do wspólnego wykazu odmian (Dz. Urz. UE L 298 z 16.10.2014, str. 16); 3) dyrektywę wykonawczą Komisji 2014/98/UE z dnia 15 października 2014 r. w sprawie wykonania dyrektywy Rady 2008/90/WE w odniesieniu do szczegółowych wymogów dotyczących rodzajów i gatunków roślin sadowniczych, o których mowa w załączniku I do tej dyrektywy, szczegółowych wymogów wobec dostawców oraz szczegółowych zasad dotyczących inspekcji urzędowych (Dz. Urz. UE L 298 z 16.10.2014, str. 22).
 

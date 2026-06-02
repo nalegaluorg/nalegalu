@@ -26,23 +26,22 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000191) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/191/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 2 lipca 2003 r. w sprawie przebiegu służby funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego Rozdział 1 – Przepisy ogólne Rozdział 2 – Nawiązanie stosunku służbowego Rozdział 3 – Mianowanie, przenoszenie, odwoływanie i zwalnianie ze stanowisk służbowych Rozdział 4 – Sposób usprawiedliwiania nieobecności w służbie Rozdział 5 – Rodzaje informacji udzielanych przez funkcjonariusza Rozdział 6 – Rozwiązanie i wygaśnięcie stosunku służbowego Rozdział 7 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 2 lipca 2003 r. w sprawie przebiegu służby funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 2 lipca 2003 r. w sprawie przebiegu służby funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. z 2013 r. poz. 862), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 6 listopada 2019 r. zmieniającym rozporządzenie w sprawie przebiegu służby funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 2245).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 listopada 2019 r. zmieniającego rozporządzenie w sprawie przebiegu służby funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 2245), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 listopada 2019 r. zmieniającego rozporządzenie w sprawie przebiegu służby funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 2245), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 2 lipca 2003 r. w sprawie przebiegu służby funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego
 Na podstawie art. 94 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2023 r. poz. 1136, 1834 i 1860) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
 ustawa – ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 listopada 2019 r. zmieniającego rozporządzenie w sprawie przebiegu służby funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 2245), które weszło w życie z dniem 3 grudnia 2019 r.)
 jednostka organizacyjna – jednostkę organizacyjną, o której mowa w statucie Agencji Bezpieczeństwa Wewnętrznego;
 3)
 funkcjonariusz – funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego;
@@ -74,15 +73,15 @@ przyznania, podwyższania, obniżania oraz zawieszania wypłaty uposażenia zasa
 zaliczania okresów służby, pracy i innych okresów do wysługi lat uwzględnianej przy ustalaniu wzrostu uposażenia zasadniczego oraz w celu ustalenia prawa do nagrody jubileuszowej,
 5)
 powierzenia i cofnięcia powierzenia obowiązków służbowych na innym stanowisku,
-6)
+6W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.)
 skierowania na przeszkolenie do Centralnego Ośrodka Szkolenia i Edukacji Agencji Bezpieczeństwa Wewnętrznego, kursy organizowane przez jednostki organizacyjne Agencji Bezpieczeństwa Wewnętrznego oraz inne służby,
 7)
 udzielenia urlopu bezpłatnego lub odmowy jego udzielenia,
 8)
 udzielenia urlopu wychowawczego lub przerwania tego urlopu,
 9)
-zmiany imienia, nazwiska funkcjonariusza albo zmiany ich pisowni, dokonywanych na podstawie akt stanu cywilnego, decyzji starosty lub innego uprawnionego organu
-załatwianych w formie rozkazu personalnego, stosuje się odpowiednio ust. 1, z wyjątkiem spraw, o których mowa w pkt 5–9.
+zmiany imienia, nazwiska funkcjonariusza albo zmiany ich pisowni, dokonywanych na podstawie akt stanu cywilnego, decyzji starosty lub innego uprawnionego organu – załatwianych w formie rozkazu personalnego, stosuje się odpowiednio ust. 1, z wyjątkiem spraw, o których mowa w pkt 5–9.
+Nawiązanie stosunku służbowego
 § 4.
 1.
 Stosunek służbowy funkcjonariusza nawiązuje się w drodze mianowania w terminie określonym w rozkazie personalnym.
@@ -113,6 +112,7 @@ Z rozkazem, o którym mowa w ust. 1, zapoznaje się funkcjonariusza. Rozkaz podl
 Przyjętego do służby funkcjonariusza bezpośredni przełożony niezwłocznie zapoznaje z przepisami regulującymi prawa i obowiązki wynikające ze stosunku służbowego.
 2.
 Funkcjonariusz jest obowiązany pisemnie potwierdzić fakt zapoznania się z przepisami, o których mowa w ust. 1. Potwierdzenie włącza się do akt osobowych funkcjonariusza.
+Mianowanie, przenoszenie, odwoływanie i zwalnianie ze stanowisk służbowych
 § 6.
 Mianowanie na stanowisko służbowe, przenoszenie, odwoływanie i zwalnianie ze stanowisk służbowych, delegowanie i oddelegowanie, jak również sprawy, o których mowa w § 3 ust. 2, określa się w kolejnych rozkazach personalnych. Przepisy § 4 ust. 3 stosuje się odpowiednio.
 § 7.
@@ -158,6 +158,7 @@ W czasie prowadzenia postępowania dyscyplinarnego lub karnego oraz w okresie pr
 Funkcjonariuszowi można powierzyć pełnienie obowiązków służbowych na innym stanowisku na okres do 12 miesięcy lub, za zgodą Szefa Agencji Bezpieczeństwa Wewnętrznego, na okres dłuższy. Przepisy § 9 stosuje się odpowiednio.
 § 13.
 W przypadku gdy komisja lekarska Agencji Bezpieczeństwa Wewnętrznego uzna funkcjonariusza za trwale niezdolnego do służby, niezwłocznie zwalnia się go od zajęć służbowych na okres do dnia zwolnienia ze służby.
+Sposób usprawiedliwiania nieobecności w służbie
 § 14.
 1.
 Funkcjonariusz jest obowiązany usprawiedliwić nieobecność lub spóźnienie do służby.
@@ -171,6 +172,7 @@ Usprawiedliwienia funkcjonariusz dokonuje osobiście lub przez inną osobę, tel
 Nieobecność w służbie z powodu swojej choroby albo konieczności sprawowania opieki nad chorym członkiem rodziny funkcjonariusz usprawiedliwia, przedstawiając, najpóźniej w dniu powrotu do służby, zaświadczenie lekarskie.
 § 16.
 Uprawnienie do usprawiedliwienia spóźnienia lub nieobecności funkcjonariusza w służbie przysługuje bezpośredniemu przełożonemu.
+Rodzaje informacji udzielanych przez funkcjonariusza
 § 17.
 Funkcjonariusz w toku służby informuje o:
 1)
@@ -181,6 +183,7 @@ urodzeniu się dziecka, jego przysposobieniu, wzięciu na wychowanie lub na utrz
 wszczęciu i zakończeniu postępowania karnego lub postępowania karnego skarbowego przeciwko niemu, małżonkowi lub dziecku pozostającemu na jego utrzymaniu.
 § 18.
 Funkcjonariusz informuje o zmianach lub przypadkach, o których mowa w § 17, składając pisemny raport i właściwe dokumenty, drogą służbową do przełożonego uprawnionego do załatwiania jego spraw osobowych.
+Rozwiązanie i wygaśnięcie stosunku służbowego
 § 19.
 1.
 Stosunek służbowy ulega rozwiązaniu z dniem określonym w rozkazie personalnym dotyczącym zwolnienia funkcjonariusza ze służby.
@@ -207,8 +210,7 @@ podpis, z podaniem stopnia, imienia i nazwiska oraz stanowiska służbowego osob
 10)
 pouczenie o przysługującym funkcjonariuszowi środku odwoławczym;
 11)
-termin, w którym funkcjonariusz jest obowiązany rozliczyć się z obowiązków służbowych.
-Przepis § 4 ust. 3 stosuje się odpowiednio.
+termin, w którym funkcjonariusz jest obowiązany rozliczyć się z obowiązków służbowych. Przepis § 4 ust. 3 stosuje się odpowiednio.
 3.
 Potwierdzeniem rozliczenia się funkcjonariusza z obowiązków służbowych jest karta zwolnienia, przedstawiona przez funkcjonariusza do dnia zwolnienia ze służby, odpowiednio we właściwej w sprawach kadrowych jednostce lub komórce organizacyjnej.
 § 20.
@@ -220,6 +222,7 @@ W razie przewidywanego zwolnienia ze służby z urzędu funkcjonariusza, który 
 W przypadku śmierci funkcjonariusza w rozkazie personalnym stwierdza się fakt wygaśnięcia stosunku służbowego i skreślenia z ewidencji funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, z dniem określonym w akcie zgonu.
 2.
 W przypadku, o którym mowa w art. 61 pkt 2 ustawy, w rozkazie personalnym o wygaśnięciu stosunku służbowego datą wygaśnięcia stosunku służbowego jest pierwszy dzień następujący po upływie 3 miesięcy, licząc od dnia zaprzestania służby z powodu tymczasowego aresztowania.
+Przepisy przejściowe i końcowe
 § 23.
 1.
 Funkcjonariusz zajmujący w dniu wejścia w życie rozporządzenia stanowisko, z którym jest związany etatowy stopień oficerski, a niespełniający warunków wykształcenia, zachowuje zajmowane stanowisko służbowe.
@@ -228,19 +231,33 @@ Mianowanie funkcjonariusza, o którym mowa w ust. 1, na wyższe stanowisko słu�
 § 24.
 Funkcjonariusz, któremu przed dniem wejścia w życie rozporządzenia powierzono pełnienie obowiązków służbowych na stanowisku, na które można mianować funkcjonariusza posiadającego wykształcenie wyższe, a który takiego warunku nie spełnia, pełni te obowiązki nadal, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie rozporządzenia.
 § 25.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 10 lipca 2003 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 12 listopada 2001 r. w sprawie przebiegu służby funkcjonariuszy Urzędu Ochrony Państwa (Dz. U. poz. 1490 oraz z 2002 r. poz. 313), zachowanym w mocy na podstawie art. 232 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 676). 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 listopada 2019 r. zmieniającego rozporządzenie w sprawie przebiegu służby funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 2245), które weszło w życie z dniem 3 grudnia 2019 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Rozporządzenie zostało ogłoszone w dniu 10 lipca 2003 r. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 12 listopada 2001 r. w sprawie przebiegu służby funkcjonariuszy Urzędu Ochrony Państwa (Dz. U. poz. 1490 oraz z 2002 r. poz. 313), zachowanym w mocy na podstawie art. 232 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 676).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Nawiązanie stosunku służbowego
+#### Rozdział 2 – Nawiązanie stosunku służbowego
 
-#### Rozdział 3 Mianowanie, przenoszenie, odwoływanie i zwalnianie ze stanowisk służbowych
+#### Rozdział 3 – Mianowanie, przenoszenie, odwoływanie i zwalnianie ze stanowisk służbowych
 
-#### Rozdział 4 Sposób usprawiedliwiania nieobecności w służbie
+#### Rozdział 4 – Sposób usprawiedliwiania nieobecności w służbie
 
-#### Rozdział 5 Rodzaje informacji udzielanych przez funkcjonariusza
+#### Rozdział 5 – Rodzaje informacji udzielanych przez funkcjonariusza
 
-#### Rozdział 6 Rozwiązanie i wygaśnięcie stosunku służbowego
+#### Rozdział 6 – Rozwiązanie i wygaśnięcie stosunku służbowego
 
-#### Rozdział 7 Przepisy przejściowe i końcowe
+#### Rozdział 7 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
 

@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 28 lutego 2011 r. w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. z 2018 r. poz. 1016), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Rady Ministrów z dnia 25 września 2019 r. zmieniającym rozporządzenie w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. poz. 1917).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 25 września 2019 r. zmieniającego rozporządzenie w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. poz. 1917), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 25 września 2019 r. zmieniającego rozporządzenie w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. poz. 1917), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Rady Ministrów z dnia 28 lutego 2011 r. w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji
 Na podstawie art. 174 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2020 r. poz. 1427 i 1492) zarządza się, co następuje:
 § 1.
@@ -88,7 +86,7 @@ b)
 towarów, które zostały przejęte na własność Skarbu Państwa na podstawie rozstrzygnięć wydanych przez sąd powszechny w postępowaniu w sprawach celnych,
 c)
 towarów, które znajdują się w dyspozycji organów celnych i podlegają likwidacji na podstawie art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o likwidacji niepodjętych depozytów (Dz. U. poz. 1537 oraz z 2009 r. poz. 1241),
-d)
+dDodana przez § 1 rozporządzenia Rady Ministrów z dnia 25 września 2019 r. zmieniającego rozporządzenie w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. poz. 1917), które weszło w życie z dniem 10 października 2019 r.)
 przedmiotów – które stały się własnością Skarbu Państwa na podstawie prawomocnego orzeczenia ich przepadku – innych niż określone w art. 179 § 5 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2020 r. poz. 19, 568, 695 i 1106) w prowadzonych przez naczelnika urzędu celno-skarbowego sprawach o przestępstwa skarbowe i wykroczenia skarbowe,
 2)
 starostów w zakresie:
@@ -97,8 +95,7 @@ a)
 b)
 likwidacji ruchomości, które zostały przejęte na rzecz powiatu na podstawie przepisów ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2020 r. poz. 110, 284, 568, 695, 1087 i 1517),
 3)
-naczelników urzędów skarbowych – w odniesieniu do przechowywania oraz likwidacji ruchomości innych niż określone w pkt 1 i 2
-zwanych dalej „organem likwidacyjnym”.
+naczelników urzędów skarbowych – w odniesieniu do przechowywania oraz likwidacji ruchomości innych niż określone w pkt 1 i 2 – zwanych dalej „organem likwidacyjnym”.
 2.
 Przepisy działu II rozdziału 6 ustawy dotyczące poborcy skarbowego stosuje się odpowiednio do pracownika obsługującego organ likwidacyjny, upoważnionego do likwidacji ruchomości.
 3.
@@ -127,7 +124,7 @@ Ruchomości stanowiące zabytki w rozumieniu przepisów o ochronie zabytków i o
 Do wydania opinii, czy ruchomość stanowi zabytek, oraz do wskazania państwowej albo samorządowej instytucji kultury, której ruchomość może być przekazana, jest właściwy wojewódzki konserwator zabytków, a w przypadku materiałów bibliotecznych – dyrektor Biblioteki Narodowej w Warszawie.
 § 9.
 1.
-Ruchomości nienadające się do obrotu handlowego, a przedstawiające wartość użytkową, mogą być przekazane nieodpłatnie zakładom opieki zdrowotnej , jednostkom organizacyjnym pomocy społecznej, szkołom i placówkom oświatowym, instytucjom kultury, organizacjom charytatywnym, organom administracji publicznej oraz szkołom wyższym, instytutom badawczym lub innym jednostkom organizacyjnym prowadzącym badania naukowe lub prace rozwojowe, jeżeli mogą być przez te podmioty wykorzystane przy realizacji ich zadań statutowych, z zastrzeżeniem ust. 2.
+Ruchomości nienadające się do obrotu handlowego, a przedstawiające wartość użytkową, mogą być przekazane nieodpłatnie zakładom opieki zdrowotnej Obecnie: zakładom leczniczym podmiotów leczniczych na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r., jednostkom organizacyjnym pomocy społecznej, szkołom i placówkom oświatowym, instytucjom kultury, organizacjom charytatywnym, organom administracji publicznej oraz szkołom wyższym, instytutom badawczym lub innym jednostkom organizacyjnym prowadzącym badania naukowe lub prace rozwojowe, jeżeli mogą być przez te podmioty wykorzystane przy realizacji ich zadań statutowych, z zastrzeżeniem ust. 2.
 2.
 Przekazanie ruchomości, które naruszałoby prawo autorskie lub prawo pokrewne albo prawo własności przemysłowej, może dojść do skutku, jeżeli właściciel prawa wyrazi na to zgodę lub gdy podmiot, o którym mowa w ust. 1, zobowiąże się do usunięcia z niej znamion naruszonego prawa, o ile jest to możliwe.
 3.
@@ -159,8 +156,7 @@ Wydatki, o których mowa w ust. 1, w części przekraczającej kwotę uzyskaną 
 1.
 Zbycia przedmiotów wartościowych, stanowiących własność Skarbu Państwa i przyjętych na przechowanie przez Narodowy Bank Polski przed dniem wejścia w życie rozporządzenia, dokonują organy likwidacyjne właściwe według miejsca przechowywania tych przedmiotów, z zastrzeżeniem ust. 2.
 2.
-Zbycia przedmiotów wartościowych przyjętych na przechowanie przez Centralę Narodowego Banku Polskiego dokonują organy likwidacyjne wyznaczone przez dyrektora Izby Skarbowej  w Warszawie.
+Zbycia przedmiotów wartościowych przyjętych na przechowanie przez Centralę Narodowego Banku Polskiego dokonują organy likwidacyjne wyznaczone przez dyrektora Izby Skarbowej Obecnie: izby administracji skarbowej na podstawie art. 160 ust. 2 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948), która weszła w życie z dniem 1 marca 2017 r.; wszedł w życie z dniem 2 grudnia 2016 r. w Warszawie.
 § 14.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Dodana przez § 1 rozporządzenia Rady Ministrów z dnia 25 września 2019 r. zmieniającego rozporządzenie w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. poz. 1917), które weszło w życie z dniem 10 października 2019 r. 2) Obecnie: zakładom leczniczym podmiotów leczniczych na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r. 3) Obecnie: izby administracji skarbowej na podstawie art. 160 ust. 2 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948), która weszła w życie z dniem 1 marca 2017 r.; wszedł w życie z dniem 2 grudnia 2016 r. 4) Rozporządzenie zostało ogłoszone w dniu 3 marca 2011 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 23 kwietnia 2002 r. w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. poz. 449), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 15 ustawy z dnia 22 lipca 2010 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1018 i 1466).
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 3 marca 2011 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 23 kwietnia 2002 r. w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. poz. 449), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 15 ustawy z dnia 22 lipca 2010 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1018 i 1466). 1) Dodana przez § 1 rozporządzenia Rady Ministrów z dnia 25 września 2019 r. zmieniającego rozporządzenie w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. poz. 1917), które weszło w życie z dniem 10 października 2019 r. 2) Obecnie: zakładom leczniczym podmiotów leczniczych na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r. 3) Obecnie: izby administracji skarbowej na podstawie art. 160 ust. 2 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948), która weszła w życie z dniem 1 marca 2017 r.; wszedł w życie z dniem 2 grudnia 2016 r. 4) Rozporządzenie zostało ogłoszone w dniu 3 marca 2011 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 23 kwietnia 2002 r. w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. poz. 449), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 15 ustawy z dnia 22 lipca 2010 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1018 i 1466).
 

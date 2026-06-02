@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Infrastrukturyz dnia 7 czerwca 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie obsługi naziemnej w portach lotniczych
+# Obwieszczenie Ministra Infrastrukturyz dnia 7 czerwca 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie obsługi naziemnej w portach lotniczych Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 
 | Pole | Wartość |
 |---|---|
@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001287) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1287/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 19 listopada 2013 r. w sprawie obsługi naziemnej w portach lotniczych Rozdział 1 – Przepisy ogólne Rozdział 2 – Wniosek o udzielenie zezwolenia na wykonywanie obsługi naziemnej Rozdział 3 – Szczegółowe warunki stosowane przy wprowadzaniu ograniczeń liczby zezwoleń dla agentów obsługi naziemnej oraz ograniczeniu liczby przewoźników lotniczych wykonujących własną obsługę naziemną Rozdział 4 – Szczegółowe warunki i sposób przeprowadzania konkursu w przypadku wprowadzenia ograniczeń Rozdział 5 – Szczegółowe warunki udostępniania i korzystania z infrastruktury lotniska oraz ustalania i pobierania opłat za dostęp do urządzeń i powierzchni lotniska oraz opłat za użytkowanie scentralizowanej infrastruktury Rozdział 6 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 19 listopada 2013 r. w sprawie obsługi naziemnej w portach lotniczych
 Załącznik – Wykaz usług obsługi naziemnej
 Treść obwieszczenia
 1.
@@ -38,20 +38,16 @@ rozporządzeniem Ministra Infrastruktury z dnia 19 kwietnia 2018 r. zmieniający
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 28 grudnia 2017 r. zmieniającego rozporządzenie w sprawie obsługi naziemnej w portach lotniczych (Dz. U. z 2018 r. poz. 28), który stanowi:
-„
+§ 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 28 grudnia 2017 r. zmieniającego rozporządzenie w sprawie obsługi naziemnej w portach lotniczych (Dz. U. z 2018 r. poz. 28), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Infrastruktury z dnia 19 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie obsługi naziemnej w portach lotniczych (Dz. U. poz. 788), który stanowi:
-„
+§ 2 rozporządzenia Ministra Infrastruktury z dnia 19 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie obsługi naziemnej w portach lotniczych (Dz. U. poz. 788), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2018 r.
-” .
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
-Załącznik – Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 19 listopada 2013 r. w sprawie obsługi naziemnej w portach lotniczych
-Na podstawie art. 182 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2018 r. poz. 1183) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2018 r. ” . 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
+Załącznik – Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 19 listopada 2013 r. w sprawie obsługi naziemnej w portach lotniczychObecnie działem administracji rządowej – transport kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy Rady nr 96/67/WE z dnia 15 października 1996 r. w sprawie dostępu do rynku usług obsługi naziemnej w portach lotniczych Wspólnoty (Dz. Urz. WE L 272 z 25.10.1996, str. 36 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 496, z późn. zm.). Na podstawie art. 182 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2018 r. poz. 1183) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -84,6 +80,7 @@ urządzeniach i powierzchni lotniska – rozumie się przez to wszystkie urządz
 kontroli – rozumie się przez to skuteczną kontrolę, o której mowa w art. 2 pkt 9 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1008/2008 z dnia 24 września 2008 r. w sprawie wspólnych zasad wykonywania przewozów lotniczych na terenie Wspólnoty (Dz. Urz. UE L 293 z 31.10.2008, str. 3);
 9)
 komitecie przewoźników lotniczych – rozumie się przez to komitet przewoźników lotniczych użytkujących port lotniczy, o którym mowa w przepisach wydanych na podstawie art. 67 ust. 6 ustawy.
+Wniosek o udzielenie zezwolenia na wykonywanie obsługi naziemnej
 § 3.
 Wniosek o udzielenie zezwolenia na wykonywanie obsługi naziemnej, o którym mowa w art. 173 ust. 1 pkt 2 ustawy, przez agenta obsługi naziemnej, zwany dalej „wnioskiem”, powinien zawierać:
 1)
@@ -97,7 +94,7 @@ określenie kategorii usług obsługi naziemnej lub rodzajów usług w poszczeg�
 5)
 numer identyfikacji podatkowej (NIP);
 6)
-(uchylony);
+(uchylony);Przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury z dnia 19 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie obsługi naziemnej w portach lotniczych (Dz. U. poz. 788), które weszło w życie z dniem 30 kwietnia 2018 r.
 7)
 miejsce wykonywania działalności (port lotniczy lub porty lotnicze);
 8)
@@ -119,7 +116,7 @@ oświadczenie o przestrzeganiu przez przedsiębiorcę standardów w zakresie bez
 oświadczenie o przestrzeganiu przez przedsiębiorcę wymagań dotyczących ochrony lotnictwa.
 2.
 W przypadku przedsiębiorców prowadzących działalność gospodarczą w okresie poprzedzającym złożenie wniosku, w celu potwierdzenia sytuacji ekonomicznej pozwalającej na prowadzenie działalności w zakresie obsługi naziemnej do wniosku dołącza się dodatkowo:
-1)
+1W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 28 grudnia 2017 r. zmieniającego rozporządzenie w sprawie obsługi naziemnej w portach lotniczych (Dz. U. z 2018 r. poz. 28), które weszło w życie z dniem 6 stycznia 2018 r.)
 zatwierdzone sprawozdanie finansowe za poprzedni rok obrotowy, jeżeli przedsiębiorca jest obowiązany do jego sporządzenia na podstawie przepisów o rachunkowości lub przepisów szczególnych dotyczących sprawozdań finansowych, a także sprawozdanie z badania, jeżeli obowiązek poddania sprawozdania finansowego badaniu wynika z przepisów o rachunkowości lub przepisów szczególnych dotyczących sprawozdań finansowych;
 2)
 roczną deklarację podatkową o podatku dochodowym za rok obrotowy poprzedzający złożenie wniosku – dla przedsiębiorców innych niż wymienieni w pkt 1 i prowadzących działalność w roku obrotowym poprzedzającym złożenie wniosku;
@@ -140,6 +137,7 @@ Przedsiębiorca może przedłożyć kopie dokumentów, o których mowa w § 4 us
 Dokumenty, o których mowa w § 4, powinny zawierać dane aktualne na dzień złożenia wniosku, przy czym dokumenty, o których mowa w § 4 ust. 1 pkt 3–5 oraz w ust. 3 pkt 1, powinny być ponadto wystawione nie wcześniej niż na 3 miesiące przed ich złożeniem.
 4.
 Dokumenty, o których mowa w § 4, sporządzone w języku obcym dołącza się wraz z tłumaczeniem na język polski.
+Szczegółowe warunki stosowane przy wprowadzaniu ograniczeń liczby zezwoleń dla agentów obsługi naziemnej oraz ograniczeniu liczby przewoźników lotniczych wykonujących własną obsługę naziemną
 § 6.
 W przypadku wprowadzenia ograniczeń, o których mowa w art. 179 ust. 1 pkt 1 ustawy, w portach lotniczych, o których mowa w art. 176b ust. 2 pkt 1 ustawy, co najmniej jeden agent obsługi naziemnej posiadający zezwolenie na wykonywanie obsługi naziemnej nie może bezpośrednio lub pośrednio znajdować się pod kontrolą:
 1)
@@ -176,6 +174,7 @@ maksymalną liczbę zezwoleń w kategoriach usług obsługi naziemnej lub rodzaj
 okres obowiązywania ograniczenia.
 § 12.
 Informacje o wprowadzeniu ograniczeń, o których mowa w § 11, podlegają publikacji w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego.
+Szczegółowe warunki i sposób przeprowadzania konkursu w przypadku wprowadzenia ograniczeń
 § 13.
 W przypadku wprowadzenia ograniczenia liczby udzielanych zezwoleń, o których mowa w art. 179 ust. 1 pkt 1 ustawy, bez przeprowadzania konkursu, zezwolenie na wykonywanie obsługi naziemnej może uzyskać zarządzający portem lotniczym albo inny podmiot przez niego upoważniony, jeżeli:
 1)
@@ -291,7 +290,7 @@ określenie terminu, w ciągu którego przedsiębiorca wybrany w drodze konkursu
 8)
 numer identyfikacji podatkowej (NIP);
 9)
-(uchylony).
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.
 § 20.
 1.
 W przypadku złożenia przez zarządzającego portem lotniczym oświadczenia o zamiarze skorzystania z uprawnienia, o którym mowa w art. 180 ust. 1 ustawy, w terminie, o którym mowa w § 17 pkt 4, w sytuacji gdy w konkursie, którego organizatorem jest Prezes Urzędu, dokonuje się wyboru tylko jednego przedsiębiorcy do wykonywania obsługi naziemnej, Prezes Urzędu zawiadamia pozostałych uczestników konkursu o złożeniu takiego oświadczenia oraz o możliwości uzyskania zezwolenia przez tego przedsiębiorcę albo przez podmiot przez niego upoważniony, po spełnieniu wymagań do uzyskania zezwolenia na wykonywanie obsługi naziemnej.
@@ -384,6 +383,7 @@ W przypadku uwzględnienia protestu Prezes Urzędu przeprowadza ponownie konkurs
 W przypadku niezłożenia lub pozostawienia bez rozpoznania wniosku, o którym mowa w art. 181b ust. 3 ustawy, albo odmowy wydania zezwolenia, o którym mowa w art. 173 ust. 1 pkt 2 ustawy, prawo do złożenia wniosku uzyskuje podmiot, którego zgłoszenie o przystąpieniu do konkursu uzyskało kolejną co do wysokości ocenę w konkursie. Prezes Urzędu jest obowiązany do poinformowania podmiotu o prawie do złożenia wniosku.
 § 31.
 W przypadku gdy agent obsługi naziemnej przestał wykonywać działalność objętą zezwoleniem przed upływem okresu, na jaki Prezes Urzędu udzielił mu zezwolenia, albo okresu, na który został wybrany jako podmiot wykonujący własną obsługę naziemną, przeprowadzany jest ponowny wybór przedsiębiorcy do wykonywania obsługi naziemnej, w drodze konkursu, o którym mowa w § 16 ust. 1 pkt 2.
+Szczegółowe warunki udostępniania i korzystania z infrastruktury lotniska oraz ustalania i pobierania opłat za dostęp do urządzeń i powierzchni lotniska oraz opłat za użytkowanie scentralizowanej infrastruktury
 § 32.
 Zarządzający portem lotniczym, co najmniej raz w roku, przeprowadza konsultacje z komitetem przewoźników lotniczych, o ile komitet taki został powołany w danym porcie lotniczym, oraz ze wszystkimi agentami obsługi naziemnej w danym porcie lotniczym, dotyczące w szczególności:
 1)
@@ -424,8 +424,7 @@ zapewniający im wykonywanie działalności,
 2)
 umożliwiający im efektywną i uczciwą konkurencję,
 3)
-zapewniający bezpieczne i prawidłowe funkcjonowanie portu lotniczego
-przy uwzględnieniu uwarunkowań technicznych występujących w porcie lotniczym.
+zapewniający bezpieczne i prawidłowe funkcjonowanie portu lotniczego – przy uwzględnieniu uwarunkowań technicznych występujących w porcie lotniczym.
 § 35.
 Scentralizowana infrastruktura oraz urządzenia i powierzchnia lotniska użytkowane są zgodnie z regulaminem użytkowania portu lotniczego ustalonym przez zarządzającego tym portem lotniczym po konsultacjach z agentami obsługi naziemnej oraz komitetem przewoźników lotniczych oraz umowami zawieranymi z agentami obsługi naziemnej.
 § 36.
@@ -468,13 +467,13 @@ W przypadku, o którym mowa w ust. 1, opłaty, o których mowa w § 36 ust. 1, s
 Podmiot, o którym mowa w ust. 1, ustala zasady użytkowania scentralizowanej infrastruktury oraz udostępniania urządzeń i powierzchni lotniska po konsultacjach z agentami obsługi naziemnej, komitetem przewoźników lotniczych oraz zarządzającym portem lotniczym i przekazuje je zarządzającemu portem lotniczym. Zarządzający portem lotniczym wprowadza te zasady do regulaminu użytkowania portu lotniczego nie później niż w terminie 14 dni od dnia ich otrzymania.
 § 38.
 Wykaz rodzajów usług w poszczególnych kategoriach usług obsługi naziemnej określa załącznik do rozporządzenia.
+Przepisy przejściowe i końcowe
 § 39.
 Zezwolenia udzielone przed dniem wejścia w życie rozporządzenia zachowują ważność przez okres, na jaki zostały wydane.
 § 40.
 Do postępowań administracyjnych prowadzonych na podstawie art. 179 ustawy, wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia, stosuje się przepisy dotychczasowe.
 § 41.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Obecnie działem administracji rządowej – transport kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy Rady nr 96/67/WE z dnia 15 października 1996 r. w sprawie dostępu do rynku usług obsługi naziemnej w portach lotniczych Wspólnoty (Dz. Urz. WE L 272 z 25.10.1996, str. 36 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 496, z późn. zm.). 3) Przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury z dnia 19 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie obsługi naziemnej w portach lotniczych (Dz. U. poz. 788), które weszło w życie z dniem 30 kwietnia 2018 r. 4) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 28 grudnia 2017 r. zmieniającego rozporządzenie w sprawie obsługi naziemnej w portach lotniczych (Dz. U. z 2018 r. poz. 28), które weszło w życie z dniem 6 stycznia 2018 r. 5) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) Rozporządzenie zostało ogłoszone w dniu 25 listopada 2013 r. 7) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 25 maja 2009 r. w sprawie obsługi naziemnej w portach lotniczych (Dz. U. poz. 695), które zgodnie z art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 1015) utraciło moc z dniem 19 marca 2013 r.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 25 listopada 2013 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 25 maja 2009 r. w sprawie obsługi naziemnej w portach lotniczych (Dz. U. poz. 695), które zgodnie z art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 1015) utraciło moc z dniem 19 marca 2013 r. 1) Obecnie działem administracji rządowej – transport kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy Rady nr 96/67/WE z dnia 15 października 1996 r. w sprawie dostępu do rynku usług obsługi naziemnej w portach lotniczych Wspólnoty (Dz. Urz. WE L 272 z 25.10.1996, str. 36 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 496, z późn. zm.). 3) Przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury z dnia 19 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie obsługi naziemnej w portach lotniczych (Dz. U. poz. 788), które weszło w życie z dniem 30 kwietnia 2018 r. 4) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 28 grudnia 2017 r. zmieniającego rozporządzenie w sprawie obsługi naziemnej w portach lotniczych (Dz. U. z 2018 r. poz. 28), które weszło w życie z dniem 6 stycznia 2018 r. 5) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) Rozporządzenie zostało ogłoszone w dniu 25 listopada 2013 r. 7) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 25 maja 2009 r. w sprawie obsługi naziemnej w portach lotniczych (Dz. U. poz. 695), które zgodnie z art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 1015) utraciło moc z dniem 19 marca 2013 r.
 Załącznik – Wykaz usług obsługi naziemnej
 1.
 Kategoria 1 – Obsługa w zakresie administracji naziemnej i nadzoru obejmująca:
@@ -503,7 +502,7 @@ prowadzenie statku powietrznego na ziemi po lądowaniu i przed startem*;
 5.2.
 pomoc w blokowaniu statku powietrznego i dostarczanie odpowiednich urządzeń*;
 5.3.
-łączność między statkiem powietrznym i podmiotem wykonującym usługi w części lotniczej portu lotniczego* O ile usługi te nie są wykonywane przez służbę ruchu lotniczego lub zarządzającego portem lotniczym.;
+łączność między statkiem powietrznym i podmiotem wykonującym usługi w części lotniczej portu lotniczego*O ile usługi te nie są wykonywane przez służbę ruchu lotniczego lub zarządzającego portem lotniczym.;
 5.4.
 załadunek i rozładunek statku powietrznego, w tym zapewnienie i obsługę odpowiednich urządzeń, jak również transport załogi i pasażerów między statkiem powietrznym i terminalem, transport bagażu między statkiem powietrznym i terminalem;
 5.5.
@@ -561,18 +560,29 @@ przechowywanie żywności i napojów oraz sprzętu niezbędnego do ich przygotow
 11.3.
 czyszczenie tego sprzętu;
 11.4.
-przygotowanie i dostawa sprzętu oraz zapasów pokładowych (żywność i napoje).
-* O ile usługi te nie są wykonywane przez służbę ruchu lotniczego lub zarządzającego portem lotniczym.
+przygotowanie i dostawa sprzętu oraz zapasów pokładowych (żywność i napoje). * O ile usługi te nie są wykonywane przez służbę ruchu lotniczego lub zarządzającego portem lotniczym.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Wniosek o udzielenie zezwolenia na wykonywanie obsługi naziemnej
+#### Rozdział 2 – Wniosek o udzielenie zezwolenia na wykonywanie obsługi naziemnej
 
-#### Rozdział 3 Szczegółowe warunki stosowane przy wprowadzaniu ograniczeń liczby zezwoleń dla agentów obsługi naziemnej oraz ograniczeniu liczby przewoźników lotniczych wykonujących własną obsługę naziemną
+#### Rozdział 3 – Szczegółowe warunki stosowane przy wprowadzaniu ograniczeń liczby zezwoleń dla agentów obsługi naziemnej oraz ograniczeniu liczby przewoźników lotniczych wykonujących własną obsługę naziemną
 
-#### Rozdział 4 Szczegółowe warunki i sposób przeprowadzania konkursu w przypadku wprowadzenia ograniczeń
+#### Rozdział 4 – Szczegółowe warunki i sposób przeprowadzania konkursu w przypadku wprowadzenia ograniczeń
 
-#### Rozdział 5 Szczegółowe warunki udostępniania i korzystania z infrastruktury lotniska oraz ustalania i pobierania opłat za dostęp do urządzeń i powierzchni lotniska oraz opłat za użytkowanie scentralizowanej infrastruktury
+#### Rozdział 5 – Szczegółowe warunki udostępniania i korzystania z infrastruktury lotniska oraz ustalania i pobierania opłat za dostęp do urządzeń i powierzchni lotniska oraz opłat za użytkowanie scentralizowanej infrastruktury
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

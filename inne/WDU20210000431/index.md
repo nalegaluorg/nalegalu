@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 4 marca 2021 r. w sprawie nadania statutu Zakładowi Ubezpieczeń Społecznych
+# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 4 marca 2021 r. w sprawie nadania statutu Zakładowi Ubezpieczeń Społecznych Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. poz. 1723).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-03-04 |
 | Data wydania | 2021-03-10 |
-| Wejście w życie | 2021-03-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000431) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/431/text.pdf) |
 
@@ -35,8 +34,7 @@ Zakładowi Ubezpieczeń Społecznych nadaje się statut, stanowiący załącznik
 § 2.
 Traci moc rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 13 stycznia 2011 r. w sprawie nadania statutu Zakładowi Ubezpieczeń Społecznych (Dz. U. poz. 93).
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. poz. 1723).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. poz. 1723).
 Załącznik – Statut Zakładu Ubezpieczeń Społecznych
 § 1.
 Zakład Ubezpieczeń Społecznych, zwany dalej „Zakładem”, działa na podstawie ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2021 r. poz. 423), zwanej dalej „ustawą”, oraz niniejszego statutu.

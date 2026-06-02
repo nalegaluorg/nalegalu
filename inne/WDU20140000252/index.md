@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-02-14 |
 | Data wydania | 2014-02-27 |
-| Wejście w życie | 2014-03-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000252) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/252/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 132o ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. Nr 199, poz. 1175, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 132o ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. Nr 199, poz. 1175, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 291, poz. 1707, z 2012 r. poz. 1166 oraz z 2013 r. poz. 1036 i 1271.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -44,7 +43,7 @@ Skarb Państwa lub Narodowy Bank Polski,
 b)
 rządy lub banki centralne państw członkowskich oraz organizacje międzynarodowe, których członkiem jest przynajmniej jedno państwo członkowskie;
 2)
-w listy zastawne emitowane na podstawie ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2003 r. Nr 99, poz. 919, z późn. zm.);
+w listy zastawne emitowane na podstawie ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2003 r. Nr 99, poz. 919, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 184, poz. 1539 i Nr 249, poz. 2104, z 2006 r. Nr 157, poz. 1119 oraz z 2009 r. Nr 157, poz. 1241.);
 3)
 w inne niż wymienione w pkt 1 i 2 instrumenty dłużne, o których mowa w art. 336 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych i firm inwestycyjnych, zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1), zwanego dalej „rozporządzeniem 575/2013”, z wyłączeniem innych kwalifikujących się pozycji, o których mowa w ust. 4 tego artykułu;
 4)
@@ -52,7 +51,7 @@ w jednostki uczestnictwa funduszy inwestycyjnych otwartych, o których mowa w ar
 5)
 w tytuły uczestnictwa funduszy inwestycyjnych otwartych lub spółek inwestycyjnych, które uzyskały zezwolenie właściwego organu w państwie członkowskim na prowadzenie działalności zgodnie z prawem regulującym zasady zbiorowego inwestowania w papiery wartościowe;
 6)
-na rachunkach lokat terminowych prowadzonych w bankach, oddziałach banków zagranicznych, a także w instytucjach kredytowych lub oddziałach instytucji kredytowych, pod warunkiem objęcia tych środków ochroną w ramach systemu gwarantowania lub oficjalnie uznanego systemu gwarantowania, o których mowa w art. 2 pkt 9 i 10 ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2009 r. Nr 84, poz. 711, z późn. zm.).
+na rachunkach lokat terminowych prowadzonych w bankach, oddziałach banków zagranicznych, a także w instytucjach kredytowych lub oddziałach instytucji kredytowych, pod warunkiem objęcia tych środków ochroną w ramach systemu gwarantowania lub oficjalnie uznanego systemu gwarantowania, o których mowa w art. 2 pkt 9 i 10 ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2009 r. Nr 84, poz. 711, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781, z 2012 r. poz. 596 i 1166 oraz z 2013 r. poz. 613 i 1012.).
 2.
 Środki pieniężne otrzymane przez krajową instytucję pieniądza elektronicznego w zamian za wydany pieniądz elektroniczny mogą być inwestowane w aktywa, o których mowa w ust. 1:
 1)
@@ -77,5 +76,5 @@ w instytucji kredytowej lub oddziale instytucji kredytowej nie może przekroczy�
 2.
 Jeżeli aktywa, o których mowa w § 2 ust. 1 pkt 3, nie są emitowane, gwarantowane lub poręczane przez podmioty wymienione w § 2 ust. 1 pkt 1, przepis ust. 1 pkt 1 stosuje się odpowiednio.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 291, poz. 1707, z 2012 r. poz. 1166 oraz z 2013 r. poz. 1036 i 1271. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 184, poz. 1539 i Nr 249, poz. 2104, z 2006 r. Nr 157, poz. 1119 oraz z 2009 r. Nr 157, poz. 1241. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781, z 2012 r. poz. 596 i 1166 oraz z 2013 r. poz. 613 i 1012.
 

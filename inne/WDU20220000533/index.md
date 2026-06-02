@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Cyfryzacjiz dnia 4 lutego 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Administracji i Cyfryzacji w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych
+# Obwieszczenie Ministra Cyfryzacjiz dnia 4 lutego 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Administracji i Cyfryzacji w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716).
 
 | Pole | Wartość |
 |---|---|
@@ -34,19 +34,15 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Administracji i Cyfryzacji z dnia 19 marca 2014 r. w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych (Dz. U. z 2019 r. poz. 1428), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Cyfryzacji z dnia 2 października 2020 r. zmieniającym rozporządzenie w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych (Dz. U. poz. 1808).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Cyfryzacji z dnia 2 października 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych (Dz. U. poz. 1808), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Cyfryzacji z dnia 2 października 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych (Dz. U. poz. 1808), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-” .
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716).
-Załącznik – Tekst jednolity rozporządzenia Ministra Administracji i Cyfryzacji z dnia 19 marca 2014 r. w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. ” . 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716).
+Załącznik – Tekst jednolity rozporządzenia Ministra Administracji i Cyfryzacji z dnia 19 marca 2014 r. w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnychObecnie działem administracji rządowej – informatyzacja kieruje Minister Cyfryzacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716).
 Na podstawie art. 126 ust. 12 pkt 2 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2021 r. poz. 576 oraz z 2022 r. poz. 501) zarządza się, co następuje:
 § 1.
 Określa się szczegółowe wymagania dotyczące gospodarowania numeracją w publicznych sieciach telekomunikacyjnych, stanowiące załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – informatyzacja kieruje Minister Cyfryzacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716). 2) Rozporządzenie zostało ogłoszone w dniu 10 kwietnia 2014 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 30 czerwca 2005 r. w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telefonicznych (Dz. U. z 2013 r. poz. 811), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 10 kwietnia 2014 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 30 czerwca 2005 r. w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telefonicznych (Dz. U. z 2013 r. poz. 811), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Obecnie działem administracji rządowej – informatyzacja kieruje Minister Cyfryzacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716). 2) Rozporządzenie zostało ogłoszone w dniu 10 kwietnia 2014 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 30 czerwca 2005 r. w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telefonicznych (Dz. U. z 2013 r. poz. 811), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
 
 ## Załącznik nr 1 — – Szczegółowe wymagania dotyczące gospodarowania numeracją w publicznych sieciach telekomunikacyjnych
 
@@ -56,7 +52,7 @@ Szczegółowe wymagania dotyczące gospodarowania numeracją w publicznych sieci
 abonenckiej w stacjonarnej publicznej sieci telekomunikacyjnej, w której świadczone są publicznie dostępne usługi telefoniczne;
 2)
 abonenckiej w ruchomej publicznej sieci telekomunikacyjnej, w której świadczone są publicznie dostępne usługi telefoniczne, w tym do wyróżników sieci;
-2a)
+2aDodany przez § 1 pkt 1 rozporządzenia Ministra Cyfryzacji z dnia 2 października 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych (Dz. U. poz. 1808), które weszło w życie z dniem 15 listopada 2020 r.)
 dla komunikacji maszyna-maszyna, w tym do wyróżników sieci w ruchomej publicznej sieci telekomunikacyjnej;
 3)
 skróconej, obejmującej numery abonenckich usług specjalnych, zwane dalej numerami „AUS”, i zharmonizowane europejskie numery skrócone (Harmonised European Short Codes), zwane dalej numerami „HESC”;
@@ -100,7 +96,7 @@ minimalny przydzielony blok numerów powinien składać się z 10 000 NN o tych 
 przydzielony zakres numeracji powinien stanowić wielokrotność 10 000 NN;
 5)
 (uchylony).
-3a.
+3aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4..
 Wymagania, jakim powinno odpowiadać gospodarowanie numeracją dla komunikacji maszyna-maszyna w ruchomej publicznej sieci telekomunikacyjnej:
 1)
 przydziela się wskaźnik (wyróżnik) sieci od 3 do 6 cyfr, wraz z pełnym zakresem numeracji objętej tym wskaźnikiem;
@@ -187,5 +183,5 @@ przydziela się 4-cyfrowy kod sieci ATM umieszczany w czterech pierwszych póło
 2)
 dwie pierwsze cyfry numeru międzynarodowego E.164 umieszczonego w polu Initial Domain Identifier (IDI) powinny odpowiadać kodowi kraju.
 16.
-Cofnięcie przydziału numeracji dotyczy minimalnych bloków numerów przydzielanych zgodnie z wymaganiami dla odpowiedniego rodzaju numeracji lub ich wielokrotności.
+Cofnięcie przydziału numeracji dotyczy minimalnych bloków numerów przydzielanych zgodnie z wymaganiami dla odpowiedniego rodzaju numeracji lub ich wielokrotności. 4) Dodany przez § 1 pkt 1 rozporządzenia Ministra Cyfryzacji z dnia 2 października 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych (Dz. U. poz. 1808), które weszło w życie z dniem 15 listopada 2020 r. 5) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.
 

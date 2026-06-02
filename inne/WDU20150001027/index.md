@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 10 lipca 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020
+# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 10 lipca 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885, przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia” w Polsce.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-10 |
 | Data wydania | 2015-07-23 |
-| Wejście w życie | 2015-08-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001027) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1027/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Regionalna pomoc inwestycyjna dla MŚP Rozdział 3 – Pomoc dla MŚP na finansowanie ryzyka Rozdział 4 – Pomoc dla przedsiębiorców rozpoczynających działalność Rozdział 5 – Pomoc na koszty rozpoznania Rozdział 6 – Pomoc na projekty badawczo-rozwojowe oraz studia wykonalności Rozdział 7 – Pomoc na innowacje procesowe i organizacyjne Rozdział 8 – Pomoc dla MŚP na wspieranie innowacyjności Rozdział 9 – Pomoc dla klastrów innowacyjnych Rozdział 10 – Pomoc na usługi doradcze dla MŚP Rozdział 11 – Pomoc na udział MŚP w targach Rozdział 12 – Pomoc szkoleniowa Rozdział 13 – Pomoc de minimis Rozdział 14 – Pomoc finansowa niestanowiąca pomocy publicznej Rozdział 15 – Tryb udzielania pomocy finansowej Rozdział 16 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 6b ust. 10a ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2014 r. poz. 1804 oraz z 2015 r. poz. 978) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości, zwaną dalej „Agencją”, pomocy finansowej w ramach następujących działań i poddziałań Programu Operacyjnego Inteligentny Rozwój 2014–2020:
 1)
@@ -166,11 +166,12 @@ Do celów ustalenia dopuszczalnego pułapu pomocy de minimis przez jednego przed
 Pomoc podlega indywidualnej notyfikacji Komisji Europejskiej, jeżeli jej wartość przekroczy progi określone w art. 4 rozporządzenia Komisji nr 651/2014.
 § 9.
 1.
-Pomoc jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 rozporządzenia Komisji nr 651/2014, z zastrzeżeniem art. 58 ust. 4 zdanie trzecie rozporządzenia Komisji nr 651/2014, a w przypadku regionalnej pomocy inwestycyjnej dla MŚP – do końca okresu obowiązywania mapy pomocy regionalnej na lata 2014–2020, określonej na podstawie art. 10 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.).
+Pomoc jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 rozporządzenia Komisji nr 651/2014, z zastrzeżeniem art. 58 ust. 4 zdanie trzecie rozporządzenia Komisji nr 651/2014, a w przypadku regionalnej pomocy inwestycyjnej dla MŚP – do końca okresu obowiązywania mapy pomocy regionalnej na lata 2014–2020, określonej na podstawie art. 10 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.).
 2.
 Pomoc de minimis jest udzielana do końca sześciomiesięcznego okresu następującego po upływie okresu, o którym mowa w art. 7 ust. 4 rozporządzenia Komisji nr 1407/2013.
 3.
 Pomoc finansowa niestanowiąca pomocy publicznej jest udzielana do końca okresu kwalifikowalności, o którym mowa w art. 65 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320), zwanego dalej „rozporządzeniem Parlamentu Europejskiego i Rady nr 1303/2013”.
+Regionalna pomoc inwestycyjna dla MŚP
 § 10.
 1.
 Regionalna pomoc inwestycyjna może być udzielana na inwestycję początkową w rozumieniu art. 2 pkt 49 rozporządzenia Komisji nr 651/2014.
@@ -212,6 +213,7 @@ Maksymalną intensywność regionalnej pomocy inwestycyjnej na pokrycie kosztów
 Maksymalną wielkość regionalnej pomocy inwestycyjnej oblicza się, uwzględniając warunki określone w art. 14 ust. 12–14 rozporządzenia Komisji nr 651/2014.
 § 13.
 Przedsiębiorca, zawierając umowę, zobowiązuje się do utrzymania inwestycji na zasadach określonych w art. 14 ust. 5 rozporządzenia Komisji nr 651/2014.
+Pomoc dla MŚP na finansowanie ryzyka
 § 14.
 Za przedsiębiorców kwalifikowalnych w ramach pomocy dla MŚP na finansowanie ryzyka uznaje się przedsiębiorców, którzy w momencie rozpoczęcia inwestycji początkowej w zakresie finansowania ryzyka są MŚP nienotowanymi na giełdzie i spełniają co najmniej jeden z następujących warunków:
 1)
@@ -288,6 +290,7 @@ pośrednik finansowy jest w stanie wykazać, że posiada mechanizm zapewniający
 nominalną kwotę pożyczki uwzględnia się przy obliczaniu maksymalnej kwoty pomocy na finansowanie ryzyka, o której mowa w § 20.
 § 20.
 Łączna kwota pomocy na finansowanie ryzyka nie przekracza 15 000 000 euro na kwalifikowalnego przedsiębiorcę w ramach dowolnej formy pomocy na finansowanie ryzyka.
+Pomoc dla przedsiębiorców rozpoczynających działalność
 § 21.
 Za przedsiębiorców kwalifikowalnych w ramach pomocy dla przedsiębiorców rozpoczynających działalność gospodarczą uznaje się mikro- lub małych przedsiębiorców nienotowanych na giełdzie w okresie do 5 lat od dnia ich rejestracji w odpowiednim rejestrze, którzy nie dokonali podziału zysków i nie zostali utworzeni w wyniku połączenia.
 § 22.
@@ -315,10 +318,12 @@ c)
 Przedsiębiorca kwalifikowalny może otrzymywać pomoc w ramach różnych form pomocy, o których mowa w ust. 1, jeżeli odsetek kwoty przyznanej w jednej formie, obliczony na podstawie maksymalnych kwot pomocy dozwolonych w ramach danej formy, jest uwzględniany do określenia pozostałego odsetka maksymalnej kwoty pomocy dozwolonej w ramach innych form wchodzących w skład takiej kombinacji.
 3.
 W przypadku kwalifikowalnych przedsiębiorców, którzy są przedsiębiorcami innowacyjnymi, określone w ust. 1 kwoty maksymalne mogą zostać podwojone.
+Pomoc na koszty rozpoznania
 § 23.
 Do kosztów kwalifikowalnych w ramach pomocy na koszty rozpoznania zalicza się koszty wstępnego rozpoznania i formalnej analizy due diligence podjętych przez podmiot zarządzający pośrednikiem finansowym lub przez inwestorów w celu identyfikacji przedsiębiorstw kwalifikowalnych na podstawie art. 21 i art. 22 rozporządzenia Komisji nr 651/2014.
 § 24.
 Intensywność pomocy na koszty rozpoznania nie przekracza 50% kosztów kwalifikowalnych.
+Pomoc na projekty badawczo-rozwojowe oraz studia wykonalności
 § 25.
 1.
 Do kosztów kwalifikowalnych na projekty badawczo-rozwojowe zalicza się koszty:
@@ -367,6 +372,7 @@ Intensywność pomocy na studium wykonalności zwiększa się o:
 10 punktów procentowych dla średnich przedsiębiorców;
 2)
 20 punktów procentowych dla mikro- i małych przedsiębiorców.
+Pomoc na innowacje procesowe i organizacyjne
 § 27.
 Do kosztów kwalifikowalnych w ramach pomocy na innowacje procesowe i organizacyjne zalicza się koszty:
 1)
@@ -387,6 +393,7 @@ Intensywność pomocy nie przekracza:
 15% kosztów kwalifikowalnych w przypadku przedsiębiorców innych niż MŚP;
 2)
 50% kosztów kwalifikowalnych w przypadku MŚP.
+Pomoc dla MŚP na wspieranie innowacyjności
 § 30.
 Do kosztów kwalifikowalnych w ramach pomocy dla MŚP na wspieranie innowacyjności zalicza się koszty:
 1)
@@ -400,6 +407,7 @@ koszty oddelegowania wysoko wykwalifikowanego personelu przedsiębiorcy innego n
 Intensywność pomocy dla MŚP na wspieranie innowacyjności nie przekracza 50% kosztów kwalifikowalnych.
 2.
 W przypadku usług, o których mowa w § 30 pkt 2, intensywność pomocy może być zwiększona do 85% kosztów kwalifikowalnych, z zastrzeżeniem że całkowita kwota pomocy na te usługi nie przekracza 200 000 euro dla jednego przedsiębiorcy w dowolnym trzyletnim okresie.
+Pomoc dla klastrów innowacyjnych
 § 32.
 1.
 Pomoc dla klastrów innowacyjnych jest udzielana koordynatorowi klastra.
@@ -420,6 +428,7 @@ Intensywność pomocy dla klastrów innowacyjnych nie przekracza 50% łącznych 
 Dostęp do działań klastra jest zapewniany członkom klastra na przejrzystych i niedyskryminacyjnych zasadach.
 2.
 Opłaty pobierane za udział w działaniach klastra odpowiadają cenom rynkowym lub odzwierciedlają ich koszty.
+Pomoc na usługi doradcze dla MŚP
 § 36.
 1.
 Kosztami kwalifikowalnymi w ramach pomocy na usługi doradcze dla MŚP są koszty usług doradczych świadczonych przez doradców zewnętrznych.
@@ -427,10 +436,12 @@ Kosztami kwalifikowalnymi w ramach pomocy na usługi doradcze dla MŚP są koszt
 Usługi, o których mowa w ust. 1, nie mogą mieć charakteru ciągłego ani okresowego oraz nie mogą być związane z bieżącą działalnością operacyjną MŚP, w szczególności w zakresie doradztwa podatkowego, stałej obsługi prawnej lub reklamy.
 § 37.
 Intensywność pomocy na usługi doradcze dla MŚP nie przekracza 50% kosztów kwalifikowalnych.
+Pomoc na udział MŚP w targach
 § 38.
 Do kosztów kwalifikowalnych w ramach pomocy na udział MŚP w targach zalicza się koszty wynajmu, budowy i obsługi stoiska wystawowego podczas uczestnictwa MŚP w danych targach lub danej wystawie.
 § 39.
 Intensywność pomocy na udział MŚP w targach nie przekracza 50% kosztów kwalifikowalnych.
+Pomoc szkoleniowa
 § 40.
 1.
 Pomoc szkoleniowa nie może być udzielana na szkolenia, których obowiązek przeprowadzenia wynika z przepisów prawa.
@@ -450,8 +461,8 @@ Intensywność pomocy, o której mowa w ust. 1, zwiększa się o:
 1)
 10 punktów procentowych w przypadku pomocy na rzecz średniego przedsiębiorcy i 20 punktów procentowych w przypadku pomocy na rzecz mikro- i małego przedsiębiorcy,
 2)
-10 punktów procentowych w przypadku pracowników niepełnosprawnych, o których mowa w art. 2 pkt 3 rozporządzenia Komisji nr 651/2014, lub szkoleń dla pracowników znajdujących się w szczególnie niekorzystnej sytuacji, o których mowa w art. 2 pkt 4 rozporządzenia Komisji nr 651/2014
-przy czym łącznie intensywność pomocy nie może przekroczyć 70% kosztów kwalifikowalnych.
+10 punktów procentowych w przypadku pracowników niepełnosprawnych, o których mowa w art. 2 pkt 3 rozporządzenia Komisji nr 651/2014, lub szkoleń dla pracowników znajdujących się w szczególnie niekorzystnej sytuacji, o których mowa w art. 2 pkt 4 rozporządzenia Komisji nr 651/2014 – przy czym łącznie intensywność pomocy nie może przekroczyć 70% kosztów kwalifikowalnych.
+Pomoc de minimis
 § 42.
 Do kosztów kwalifikowalnych objętych pomocą de minimis zalicza się koszty:
 1)
@@ -495,6 +506,7 @@ ustanowienia i utrzymania zabezpieczenia w formie, o której mowa w art. 131 ust
 Pomoc de minimis nie przekracza 85% wartości kosztów kwalifikowalnych, o których mowa w § 42.
 2.
 Jeżeli w ramach danego działania lub poddziałania pomoc de minimis jest udzielana razem z pomocą, wówczas stosuje się intensywność odpowiednią dla pomocy stanowiącej główne przeznaczenie w projekcie.
+Pomoc finansowa niestanowiąca pomocy publicznej
 § 44.
 1.
 Pomoc finansowa niestanowiąca pomocy publicznej może być udzielona:
@@ -539,6 +551,7 @@ realizację projektów badawczo-rozwojowych w ramach zamówień przedkomercyjnyc
 Zamówienie przedkomercyjne zawiera się na czas ograniczony. Zamówienie to może obejmować opracowanie prototypów lub ograniczonej ilości nowych produktów lub usług w formie serii testowej.
 3.
 Przedmiotem zamówienia przedkomercyjnego nie może być równocześnie nabycie produktów lub usług do komercyjnego rozpowszechniania.
+Tryb udzielania pomocy finansowej
 § 46.
 Pomoc finansowa jest udzielana przez Agencję w trybie konkursowym, o którym mowa w art. 38 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146 oraz z 2015 r. poz. 378), z zastrzeżeniem § 47 i § 49.
 § 47.
@@ -568,38 +581,71 @@ inne informacje, wskazane przez Agencję, niezbędne do dokonania oceny wniosku.
 Pośredników finansowych oraz inwestorów prywatnych lub podmioty zarządzające wybiera się w drodze otwartego, przejrzystego i niedyskryminującego zaproszenia do składania ofert, przeprowadzonego zgodnie z obowiązującymi przepisami prawa Unii Europejskiej i prawa polskiego oraz mającego na celu ustanowienie odpowiednich mechanizmów podziału zysków i ryzyka, a także z uwzględnieniem warunków określonych w rozdziale 3.
 2.
 Pomoc dla MŚP na finansowanie ryzyka jest udzielana przez co najmniej jednego pośrednika finansowego.
+Przepis końcowy
 § 50.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885, przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia” w Polsce. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Regionalna pomoc inwestycyjna dla MŚP
+#### Rozdział 2 – Regionalna pomoc inwestycyjna dla MŚP
 
-#### Rozdział 3 Pomoc dla MŚP na finansowanie ryzyka
+#### Rozdział 3 – Pomoc dla MŚP na finansowanie ryzyka
 
-#### Rozdział 4 Pomoc dla przedsiębiorców rozpoczynających działalność
+#### Rozdział 4 – Pomoc dla przedsiębiorców rozpoczynających działalność
 
-#### Rozdział 5 Pomoc na koszty rozpoznania
+#### Rozdział 5 – Pomoc na koszty rozpoznania
 
-#### Rozdział 6 Pomoc na projekty badawczo-rozwojowe oraz studia wykonalności
+#### Rozdział 6 – Pomoc na projekty badawczo-rozwojowe oraz studia wykonalności
 
-#### Rozdział 7 Pomoc na innowacje procesowe i organizacyjne
+#### Rozdział 7 – Pomoc na innowacje procesowe i organizacyjne
 
-#### Rozdział 8 Pomoc dla MŚP na wspieranie innowacyjności
+#### Rozdział 8 – Pomoc dla MŚP na wspieranie innowacyjności
 
-#### Rozdział 9 Pomoc dla klastrów innowacyjnych
+#### Rozdział 9 – Pomoc dla klastrów innowacyjnych
 
-#### Rozdział 10 Pomoc na usługi doradcze dla MŚP
+#### Rozdział 10 – Pomoc na usługi doradcze dla MŚP
 
-#### Rozdział 11 Pomoc na udział MŚP w targach
+#### Rozdział 11 – Pomoc na udział MŚP w targach
 
-#### Rozdział 12 Pomoc szkoleniowa
+#### Rozdział 12 – Pomoc szkoleniowa
 
-#### Rozdział 13 Pomoc de minimis
+#### Rozdział 13 – Pomoc de minimis
 
-#### Rozdział 14 Pomoc finansowa niestanowiąca pomocy publicznej
+#### Rozdział 14 – Pomoc finansowa niestanowiąca pomocy publicznej
 
-#### Rozdział 15 Tryb udzielania pomocy finansowej
+#### Rozdział 15 – Tryb udzielania pomocy finansowej
 
-#### Rozdział 16 Przepis końcowy
+#### Rozdział 16 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
+
+#### Rozdział 11
+
+#### Rozdział 12
+
+#### Rozdział 13
+
+#### Rozdział 14
+
+#### Rozdział 15
+
+#### Rozdział 16
 

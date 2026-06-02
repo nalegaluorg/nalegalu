@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-23 |
 | Data wydania | 2019-12-27 |
-| Wejście w życie | 2020-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002519) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2519/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 81b ust. 8 pkt 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 81b ust. 8 pkt 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501, 1556, 1579, 1818, 2020 i 2202.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa organ zobowiązany do przechowywania oświadczenia właściciela lub posiadacza pojazdu o wymianie drogomierza, zwanego dalej „oświadczeniem”, oraz sposób przekazywania oświadczenia.
 § 2.
@@ -85,5 +84,5 @@ komendant wojewódzki Policji terytorialnie właściwy dla stacji kontroli pojaz
 § 3.
 Stacja kontroli pojazdów, w której złożono oświadczenie, niezwłocznie przekazuje to oświadczenie właściwemu organowi, o którym mowa w § 2, bezpośrednio albo przesyłką poleconą za pośrednictwem operatora pocztowego.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501, 1556, 1579, 1818, 2020 i 2202.
 

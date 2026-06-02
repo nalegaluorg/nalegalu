@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 22 lipca 2024 r. w sprawie sposobu i trybu postępowania z wnioskiem o odstąpienie od wymierzenia kary pieniężnej i z wnioskiem o obniżenie kary pieniężnej
+# Rozporządzenie Rady Ministrówz dnia 22 lipca 2024 r. w sprawie sposobu i trybu postępowania z wnioskiem o odstąpienie od wymierzenia kary pieniężnej i z wnioskiem o obniżenie kary pieniężnej Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1 z dnia 11 grudnia 2018 r. mającą na celu nadanie organom ochrony konkurencji państw członkowskich uprawnień w celu skuteczniejszego egzekwowania prawa i zapewnienia należytego funkcjonowania rynku wewnętrznego (Dz. Urz. UE L 11 z 14.01.2019, str. 3).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-22 |
 | Data wydania | 2024-07-26 |
-| Wejście w życie | 2024-08-10 |
 | Ostatnia zmiana | 2024-07-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001127) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1127/text.pdf) |
 
@@ -68,15 +67,13 @@ Jeżeli na podstawie analizy wniosku, informacji lub dowodów Prezes Urzędu uzn
 1)
 w art. 113a i art. 113b ustawy – w przypadku złożenia wniosku o odstąpienie od wymierzenia kary pieniężnej, o którym mowa w § 1, lub
 2)
-w art. 113c ustawy – w przypadku złożenia wniosku o obniżenie kary pieniężnej, o którym mowa w § 1
-niezwłocznie zawiadamia o tym wnioskodawcę.
+w art. 113c ustawy – w przypadku złożenia wniosku o obniżenie kary pieniężnej, o którym mowa w § 1 – niezwłocznie zawiadamia o tym wnioskodawcę.
 2.
 W zawiadomieniu Prezes Urzędu informuje jednocześnie, że uznanie spełnienia warunków określonych:
 1)
 w art. 113a i art. 113b ustawy – w przypadku złożenia wniosku o odstąpienie od wymierzenia kary pieniężnej, o którym mowa w § 1, lub
 2)
-w art. 113c ustawy – w przypadku złożenia wniosku o obniżenie kary pieniężnej, o którym mowa w § 1
-ma charakter wstępny i będzie podlegać weryfikacji przez Prezesa Urzędu.
+w art. 113c ustawy – w przypadku złożenia wniosku o obniżenie kary pieniężnej, o którym mowa w § 1 – ma charakter wstępny i będzie podlegać weryfikacji przez Prezesa Urzędu.
 § 9.
 Jeżeli na podstawie analizy wniosku, informacji lub dowodów Prezes Urzędu uzna, że wnioskodawca nie spełnia warunków określonych w art. 113a ust. 1–3, 5, 8 i 9, art. 113b ust. 1 lub art. 113c ust. 1 i 2 ustawy lub podjął działania skutkujące nieuwzględnieniem wniosku, o których mowa w art. 113a ust. 6 ustawy, niezwłocznie zawiadamia wnioskodawcę o nieuwzględnieniu wniosku, wskazując przyczyny jego nieuwzględnienia.
 § 10.
@@ -85,8 +82,7 @@ Jeżeli istnieją podstawy do uznania, że wnioskodawca:
 1)
 od złożenia wniosku lub wniosku, o którym mowa w art. 113e ust. 1 ustawy, nie współpracuje z zachowaniem dobrej wiary, w sposób stały, sprawny i w pełnym zakresie z Prezesem Urzędu,
 2)
-nie spełnia warunków określonych w art. 113a, art. 113b lub art. 113c ust. 1 pkt 2 ustawy
-Prezes Urzędu zawiadamia o tym wnioskodawcę, wskazując jednocześnie, że może to skutkować brakiem odstąpienia od wymierzenia kary lub jej obniżenia, w stosunku do tego wnioskodawcy, w decyzji kończącej postępowanie antymonopolowe.
+nie spełnia warunków określonych w art. 113a, art. 113b lub art. 113c ust. 1 pkt 2 ustawy – Prezes Urzędu zawiadamia o tym wnioskodawcę, wskazując jednocześnie, że może to skutkować brakiem odstąpienia od wymierzenia kary lub jej obniżenia, w stosunku do tego wnioskodawcy, w decyzji kończącej postępowanie antymonopolowe.
 2.
 Zawiadomienie zawiera uzasadnienie.
 § 11.
@@ -105,5 +101,5 @@ Do wniosków złożonych przed dniem wejścia w życie rozporządzenia, a po dni
 § 15.
 Przepis § 12 stosuje się w sprawach, w których pierwszy wniosek dotyczący danego porozumienia został złożony nie wcześniej niż dnia 20 maja 2023 r.
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 23 grudnia 2014 r. w sprawie sposobu i trybu postępowania z wnioskiem o odstąpienie od wymierzenia kary pieniężnej lub jej obniżenie (Dz. U. z 2015 r. poz. 81), które utraciło moc z dniem 21 listopada 2023 r. zgodnie z art. 21 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 852, 1429 i 2768). 1) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1 z dnia 11 grudnia 2018 r. mającą na celu nadanie organom ochrony konkurencji państw członkowskich uprawnień w celu skuteczniejszego egzekwowania prawa i zapewnienia należytego funkcjonowania rynku wewnętrznego (Dz. Urz. UE L 11 z 14.01.2019, str. 3). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 23 grudnia 2014 r. w sprawie sposobu i trybu postępowania z wnioskiem o odstąpienie od wymierzenia kary pieniężnej lub jej obniżenie (Dz. U. z 2015 r. poz. 81), które utraciło moc z dniem 21 listopada 2023 r. zgodnie z art. 21 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 852, 1429 i 2768).
 

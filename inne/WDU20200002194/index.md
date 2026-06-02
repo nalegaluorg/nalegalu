@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 4 grudnia 2020 r. w sprawie danych zawartych w upomnieniu
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 4 grudnia 2020 r. w sprawie danych zawartych w upomnieniu Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-04 |
 | Data wydania | 2020-12-09 |
-| Wejście w życie | 2021-02-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002194) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2194/text.pdf) |
 
@@ -65,6 +64,5 @@ pouczenia, o których mowa w art. 15 § 1a i art. 36 § 4 ustawy z dnia 17 czerw
 8)
 dane, o których mowa w art. 15 § 1b ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, i podpis, o którym mowa w tym przepisie – jeżeli upomnienie nie jest generowane automatycznie.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 20 lutego 2021 r.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 lipca 2020 r. w sprawie postępowania wierzycieli należności pieniężnych (Dz. U. poz. 1294), które w zakresie określenia danych zawartych w upomnieniu traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 4 lipca 2019 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 1553 i 2070).
+Rozporządzenie wchodzi w życie z dniem 20 lutego 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 lipca 2020 r. w sprawie postępowania wierzycieli należności pieniężnych (Dz. U. poz. 1294), które w zakresie określenia danych zawartych w upomnieniu traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 4 lipca 2019 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 1553 i 2070). 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 lipca 2020 r. w sprawie postępowania wierzycieli należności pieniężnych (Dz. U. poz. 1294), które w zakresie określenia danych zawartych w upomnieniu traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 4 lipca 2019 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 1553 i 2070).
 

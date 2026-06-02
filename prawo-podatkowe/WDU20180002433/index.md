@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 listopada 2018 r. o zmianie ustawy o podatku od towarów i usług
+# Ustawa z dnia 22 listopada 2018 r. o zmianie ustawy o podatku od towarów i usług Niniejsza ustawa w zakresie swojej regulacji: 1) wdraża dyrektywę Rady (UE) 2016/1065 z dnia 27 czerwca 2016 r. zmieniającą dyrektywę 2006/112/WE w odniesieniu do bonów na towary lub usługi (Dz. Urz. UE L 177 z 01.07.2016, str. 9); 2) częściowo wdraża aaadyrektywę Rady (UE) 2017/2455 z aaadnia 5 grudnia 2017 r. zmieniającą dyrektywę 2006/112/WE i dyrektywę 2009/132/WE w odniesieniu do niektórych obowiązków wynikających z podatku od wartości dodanej w przypadku świadczenia usług i sprzedaży towarów na odległość (Dz. Urz. UE L 348 z 29.12.2017, str. 7).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-22 |
 | Data wydania | 2018-12-28 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002433) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2433/text.pdf) |
+
+Opodatkowanie w przypadku stosowania bonów
 
 **Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, 2193, 2215, 2244, 2354 i 2392) wprowadza się następujące zmiany:
 
@@ -36,7 +37,7 @@ source: "eli-html"
 - **45)** transferze bonu – rozumie się przez to emisję bonu oraz każde przekazanie tego bonu po jego emisji. ” ;
 - **2)** w dziale II po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Opodatkowanie w przypadku stosowania bonów
+#### Rozdział 2a
 
 **Art. 8a.**
 
@@ -143,5 +144,5 @@ source: "eli-html"
 
 **Art. 3.** W przypadku podatników posiadających siedzibę działalności gospodarczej, a w razie braku takiej siedziby – stałe miejsce zamieszkania lub zwykłe miejsce pobytu, tylko na terytorium kraju, zidentyfikowanych na potrzeby procedury szczególnej, o której mowa w dziale XII w rozdziale 6a ustawy zmienianej w art. 1, którzy w dniu wejścia w życie niniejszej ustawy spełniają warunki określone w art. 28k ust. 2 ustawy zmienianej w art. 1, uznaje się, że dokonali oni wyboru miejsca świadczenia usług zgodnie z art. 28k ust. 4 ustawy zmienianej w art. 1, chyba że do dnia 10 lutego 2019 r. złożą do Naczelnika Drugiego Urzędu Skarbowego Warszawa-Śródmieście zawiadomienie, że od dnia 1 stycznia 2019 r. nie korzystają z tej procedury szczególnej.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r.
+**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r. 1) Niniejsza ustawa w zakresie swojej regulacji: 1) wdraża dyrektywę Rady (UE) 2016/1065 z dnia 27 czerwca 2016 r. zmieniającą dyrektywę 2006/112/WE w odniesieniu do bonów na towary lub usługi (Dz. Urz. UE L 177 z 01.07.2016, str. 9); 2) częściowo wdraża aaadyrektywę Rady (UE) 2017/2455 z aaadnia 5 grudnia 2017 r. zmieniającą dyrektywę 2006/112/WE i dyrektywę 2009/132/WE w odniesieniu do niektórych obowiązków wynikających z podatku od wartości dodanej w przypadku świadczenia usług i sprzedaży towarów na odległość (Dz. Urz. UE L 348 z 29.12.2017, str. 7).
 

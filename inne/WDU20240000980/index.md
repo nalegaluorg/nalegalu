@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-27 |
 | Data wydania | 2024-07-03 |
-| Wejście w życie | 2024-07-18 |
 | Ostatnia zmiana | 2024-07-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000980) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/980/text.pdf) |
 
@@ -70,9 +69,9 @@ Jelenia Góra;
 19)
 Przylep k. Zielonej Góry.
 2.
-Starty i lądowania statków powietrznych odbywających loty z przekroczeniem granicy zewnętrznej w rozumieniu art. 2 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/399 z dnia 9 marca 2016 r. w sprawie unijnego kodeksu zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 77 z 23.03.2016, str. 1, z późn. zm.) na lotniskach, o których mowa w ust. 1 pkt 14–17, mogą być wykonywane wyłącznie w terminach i godzinach określonych w przepisach dotyczących ustalenia dodatkowych lotniczych przejść granicznych.
+Starty i lądowania statków powietrznych odbywających loty z przekroczeniem granicy zewnętrznej w rozumieniu art. 2 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/399 z dnia 9 marca 2016 r. w sprawie unijnego kodeksu zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 77 z 23.03.2016, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 251 z 16.09.2016, str. 1, Dz. Urz. UE L 74 z 18.03.2017, str. 1, Dz. Urz. UE L 327 z 09.12.2017, str. 1, Dz. Urz. UE L 312 z 07.12.2018, str. 107, Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11 oraz Dz. Urz. UE L 2024/1717 z 20.06.2024. na lotniskach, o których mowa w ust. 1 pkt 14–17, mogą być wykonywane wyłącznie w terminach i godzinach określonych w przepisach dotyczących ustalenia dodatkowych lotniczych przejść granicznych.
 § 2.
 Traci moc rozporządzenie Rady Ministrów z dnia 29 czerwca 2015 r. w sprawie określenia lotnisk międzynarodowych (Dz. U. poz. 1059).
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 251 z 16.09.2016, str. 1, Dz. Urz. UE L 74 z 18.03.2017, str. 1, Dz. Urz. UE L 327 z 09.12.2017, str. 1, Dz. Urz. UE L 312 z 07.12.2018, str. 107, Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11 oraz Dz. Urz. UE L 2024/1717 z 20.06.2024.
 

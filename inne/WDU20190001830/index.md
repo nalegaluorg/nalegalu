@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Energiiz dnia 28 sierpnia 2019 r. w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych
+# Rozporządzenie Ministra Energiiz dnia 28 sierpnia 2019 r. w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-28 |
 | Data wydania | 2019-09-25 |
-| Wejście w życie | 2020-10-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001830) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1830/text.pdf) |
 
@@ -53,7 +52,7 @@ prace pomocnicze przy urządzeniach energetycznych – prace niebędące pracami
 5)
 strefa pracy – odpowiednio przygotowane miejsce lub stanowisko pracy w zakresie niezbędnym do bezpiecznego wykonywania prac eksploatacyjnych;
 6)
-osoba uprawniona – osobę posiadającą kwalifikacje potwierdzone na podstawie przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm.);
+osoba uprawniona – osobę posiadającą kwalifikacje potwierdzone na podstawie przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524 i 1556.);
 7)
 osoba upoważniona – osobę uprawnioną, wyznaczoną pisemnie przez pracodawcę do wykonywania określonych przez niego czynności lub prac eksploatacyjnych;
 8)
@@ -79,7 +78,7 @@ przy urządzeniach energetycznych powszechnego użytku – w zakresie ich obsłu
 4)
 przy urządzeniach energetycznych związanych z:
 a)
-ruchem drogowym w zakresie uregulowanym ustawą z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.),
+ruchem drogowym w zakresie uregulowanym ustawą z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870,1123, 1180, 1466, 1501, 1556, 1579 i 1818.),
 b)
 żeglugą śródlądową i morską w zakresie uregulowanym ustawą z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2019 r. poz. 1568) oraz ustawą z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2018 r. poz. 2175);
 5)
@@ -134,8 +133,7 @@ w celu przyuczenia do zawodu z uwzględnieniem przepisów w sprawie zatrudnienia
 2)
 reprezentujące organy nadzoru,
 3)
-prowadzące specjalistyczne prace serwisowe
-wyłącznie pod nadzorem osoby upoważnionej.
+prowadzące specjalistyczne prace serwisowe – wyłącznie pod nadzorem osoby upoważnionej.
 3.
 Pracodawca określa wykaz prac pomocniczych przy urządzeniach lub grupach urządzeń energetycznych, które mogą być wykonywane przez osoby niebędące osobami uprawnionymi.
 4.
@@ -300,7 +298,8 @@ przy wyłączonym napięciu.
 2.
 Prace eksploatacyjne, o których mowa w ust. 1, wykonuje się z zastosowaniem metod i środków ochronnych zapewniających bezpieczeństwo pracy.
 3.
-Minimalne odstępy w powietrzu od nieosłoniętych urządzeń elektroenergetycznych lub ich części znajdujących się pod napięciem, wyznaczające zewnętrzne granice strefy pracy, mają następujące wartości: Napięcie znamionowe urządzenia Minimalny odstęp w powietrzu wyznaczający zewnętrzną granicę strefy pracy pod napięciem w pobliżu napięcia kV mm mm ≤1 bez dotyku 300 3 60 1120 6 90 1120 10 120 1150 15 160 1160 20 220 1220 30 320 1320 110 1000 2000 220 1600 3000 400 2500 4000 750 5300 8400
+Minimalne odstępy w powietrzu od nieosłoniętych urządzeń elektroenergetycznych lub ich części znajdujących się pod napięciem, wyznaczające zewnętrzne granice strefy pracy, mają następujące wartości:
+Napięcie znamionowe urządzenia Minimalny odstęp w powietrzu wyznaczający zewnętrzną granicę strefy pracy pod napięciem w pobliżu napięcia kV mm mm ≤1 bez dotyku 300 3 60 1120 6 90 1120 10 120 1150 15 160 1160 20 220 1220 30 320 1320 110 1000 2000 220 1600 3000 400 2500 4000 750 5300 8400
 4.
 Stosując minimalne odstępy, określone w ust. 3, uwzględnia się odstęp ergonomiczny.
 5.
@@ -540,6 +539,5 @@ określenie rodzaju zmian, jakie mogą być wprowadzone w poleceniu pisemnym wyk
 § 34.
 Traci moc rozporządzenie Ministra Gospodarki z dnia 28 marca 2013 r. w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych (Dz. U. poz. 492).
 § 35.
-Rozporządzenie wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
-1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524 i 1556. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870,1123, 1180, 1466, 1501, 1556, 1579 i 1818.
+Rozporządzenie wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524 i 1556. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870,1123, 1180, 1466, 1501, 1556, 1579 i 1818.
 

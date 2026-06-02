@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001632) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1632/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 15 maja 1996 r. w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy Rozdział 1 – Usprawiedliwianie nieobecności w pracy Rozdział 2 – Zwolnienia od pracy Rozdział 3 – Przepisy końcowe
+Załącznik – Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 15 maja 1996 r. w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 15 maja 1996 r. w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy (Dz. U. Nr 60, poz. 281), z uwzględnieniem zmian wprowadzonych:
@@ -39,25 +39,20 @@ rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 15 listopada 2013 
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 29 listopada 2007 r. zmieniającego rozporządzenie w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy (Dz. U. Nr 227, poz. 1678), który stanowi:
-„
+§ 2 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 29 listopada 2007 r. zmieniającego rozporządzenie w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy (Dz. U. Nr 227, poz. 1678), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 15 września 2011 r. zmieniającego rozporządzenie w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy (Dz. U. Nr 210, poz. 1253), który stanowi:
-„
+§ 2 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 15 września 2011 r. zmieniającego rozporządzenie w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy (Dz. U. Nr 210, poz. 1253), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 3)
-§ 2 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 15 listopada 2013 r. zmieniającego rozporządzenie w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy (Dz. U. poz. 1359), który stanowi:
-„
+§ 2 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 15 listopada 2013 r. zmieniającego rozporządzenie w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy (Dz. U. poz. 1359), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 15 maja 1996 r. w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy
 Na podstawie art. 2982ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502) zarządza się, co następuje:
+Usprawiedliwianie nieobecności w pracy
 § 1.
 Przyczynami usprawiedliwiającymi nieobecność pracownika w pracy są zdarzenia i okoliczności określone przepisami prawa pracy, które uniemożliwiają stawienie się pracownika do pracy i jej świadczenie, a także inne przypadki niemożności wykonywania pracy wskazane przez pracownika i uznane przez pracodawcę za usprawiedliwiające nieobecność w pracy.
 § 2.
@@ -69,18 +64,19 @@ W razie zaistnienia przyczyn uniemożliwiających stawienie się do pracy, praco
 Niedotrzymanie terminu przewidzianego w ust. 1 może być usprawiedliwione szczególnymi okolicznościami uniemożliwiającymi terminowe dopełnienie przez pracownika obowiązku określonego w tym przepisie, zwłaszcza jego obłożną chorobą połączoną z brakiem lub nieobecnością domowników albo innym zdarzeniem losowym. Przepis ust. 2 stosuje się odpowiednio po ustaniu przyczyn uniemożliwiających terminowe zawiadomienie pracodawcy o przyczynie i okresie nieobecności pracownika w pracy.
 § 3.
 Dowodami usprawiedliwiającymi nieobecność w pracy są:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 15 listopada 2013 r. zmieniającego rozporządzenie w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy (Dz. U. poz. 1359), które weszło w życie z dniem 22 listopada 2013 r.)
 zaświadczenie lekarskie, o którym mowa w art. 55 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2014 r. poz. 159);
 2)
 decyzja właściwego państwowego inspektora sanitarnego, wydana zgodnie z przepisami o zwalczaniu chorób zakaźnych – w razie odosobnienia pracownika z przyczyn przewidzianych tymi przepisami;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.)
 oświadczenie pracownika – w razie zaistnienia okoliczności uzasadniających konieczność sprawowania przez pracownika osobistej opieki nad zdrowym dzieckiem do lat 8 z powodu nieprzewidzianego zamknięcia żłobka, klubu dziecięcego, przedszkola lub szkoły, do których dziecko uczęszcza;
-3a)
+3aDodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.)
 oświadczenie pracownika o chorobie niani lub dziennego opiekuna oraz kopia zaświadczenia lekarskiego, o którym mowa w art. 55 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, albo kopia zaświadczenia lekarskiego wystawionego na zwykłym druku, stwierdzających niezdolność do pracy niani lub dziennego opiekuna, potwierdzone przez pracownika za zgodność z oryginałem – w przypadku choroby niani, z którą rodzice mają zawartą umowę uaktywniającą, o której mowa w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2013 r. poz. 1457), lub dziennego opiekuna, sprawujących opiekę nad dzieckiem;
 4)
 imienne wezwanie pracownika do osobistego stawienia się, wystosowane przez organ właściwy w sprawach powszechnego obowiązku obrony, organ administracji rządowej lub samorządu terytorialnego, sąd, prokuraturę, policję lub organ prowadzący postępowanie w sprawach o wykroczenia – w charakterze strony lub świadka w postępowaniu prowadzonym przed tymi organami, zawierające adnotację potwierdzającą stawienie się pracownika na to wezwanie;
 5)
 oświadczenie pracownika potwierdzające odbycie podróży służbowej w godzinach nocnych, zakończonej w takim czasie, że do rozpoczęcia pracy nie upłynęło 8 godzin, w warunkach uniemożliwiających odpoczynek nocny.
+Zwolnienia od pracy
 § 4.
 Pracodawca jest obowiązany zwolnić pracownika od pracy, jeżeli obowiązek taki wynika z Kodeksu pracy, z przepisów wykonawczych do Kodeksu pracy albo z innych przepisów prawa.
 § 5.
@@ -102,9 +98,9 @@ Pracodawca jest obowiązany zwolnić od pracy pracownika:
 będącego członkiem ochotniczej straży pożarnej – na czas niezbędny do uczestniczenia w działaniach ratowniczych i do wypoczynku koniecznego po ich zakończeniu, a także – w wymiarze nieprzekraczającym łącznie 6 dni w ciągu roku kalendarzowego – na szkolenie pożarnicze;
 2)
 będącego ratownikiem Górskiego Ochotniczego Pogotowia Ratunkowego – na czas niezbędny do uczestniczenia w akcji ratowniczej i do wypoczynku koniecznego po jej zakończeniu;
-2a)
+2aDodany przez § 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 29 listopada 2007 r. zmieniającego rozporządzenie w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy (Dz. U. Nr 227, poz. 1678), które weszło w życie z dniem 5 grudnia 2007 r.)
 będącego członkiem doraźnym Państwowej Komisji Badania Wypadków Kolejowych, ujętym na liście ministra właściwego do spraw transportu, na czas wyznaczenia przez przewodniczącego Państwowej Komisji Badania Wypadków Kolejowych do udziału w postępowaniu;
-2b)
+2bDodany przez § 1 pkt 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 15 września 2011 r. zmieniającego rozporządzenie w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy (Dz. U. Nr 210, poz. 1253), które weszło w życie z dniem 19 października 2011 r.)
 będącego członkiem ochotniczej drużyny ratowniczej działającej w brzegowej stacji ratowniczej Morskiej Służby Poszukiwania i Ratownictwa „Służba SAR” – na czas niezbędny do uczestniczenia w akcji ratowniczej i do wypoczynku koniecznego po jej zakończeniu oraz na czas udziału w szkoleniach organizowanych przez Morską Służbę Poszukiwania i Ratownictwa;
 3)
 na czas wykonywania obowiązku świadczeń osobistych, w trybie i na warunkach przewidzianych w odrębnych przepisach.
@@ -126,21 +122,28 @@ Pracodawca jest obowiązany zwolnić od pracy pracownika na czas obejmujący:
 2)
 1 dzień – w razie ślubu dziecka pracownika albo zgonu i pogrzebu jego siostry, brata, teściowej, teścia, babki, dziadka, a także innej osoby pozostającej na utrzymaniu pracownika lub pod jego bezpośrednią opieką.
 § 16.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5..
 Za czas zwolnienia od pracy, o którym mowa w § 8 zdanie drugie, § 9, § 11 ust. 1 pkt 2 i 2b, § 12 oraz § 15, pracownik zachowuje prawo do wynagrodzenia ustalonego w sposób określony w przepisach wydanych na podstawie art. 297 Kodeksu pracy.
 2.
 W razie skorzystania przez pracownika ze zwolnienia od pracy, o którym mowa w § 5–7, 10 oraz w § 11 ust. 1 pkt 1 i 3, pracodawca wydaje zaświadczenie określające wysokość utraconego wynagrodzenia za czas tego zwolnienia w celu uzyskania przez pracownika od właściwego organu rekompensaty pieniężnej z tego tytułu – w wysokości i na warunkach przewidzianych w odrębnych przepisach, chyba że obowiązujące u danego pracodawcy przepisy prawa pracy przewidują zachowanie przez pracownika prawa do wynagrodzenia za czas zwolnienia.
+Przepisy końcowe
 § 17.
 1.
-Traci moc rozporządzenie Rady Ministrów z dnia 20 grudnia 1974 r. w sprawie regulaminów pracy oraz zasad usprawiedliwiania nieobecności w pracy i udzielania zwolnień od pracy (Dz. U. Nr 49, poz. 299, z późn. zm.), z zastrzeżeniem ust. 2.
+Traci moc rozporządzenie Rady Ministrów z dnia 20 grudnia 1974 r. w sprawie regulaminów pracy oraz zasad usprawiedliwiania nieobecności w pracy i udzielania zwolnień od pracy (Dz. U. Nr 49, poz. 299, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1975 r. Nr 27, poz. 141, z 1976 r. Nr 35, poz. 209, z 1977 r. Nr 10, poz. 41, z 1981 r. Nr 22, poz. 110, z 1982 r. Nr 37, poz. 247, z 1983 r. Nr 40, poz. 181, z 1985 r. Nr 1, poz. 1, z 1989 r. Nr 49, poz. 272 oraz z 1991 r. Nr 92, poz. 409.), z zastrzeżeniem ust. 2.
 2.
 Do pracowników przebywających w areszcie tymczasowym w dniu wejścia w życie niniejszego rozporządzenia stosuje się uprawnienia wynikające z § 11 ust. 2 rozporządzenia, o którym w ust. 1 – do upływu terminu płatności wynagrodzenia przewidzianego w tym przepisie.
 § 18.
-Rozporządzenie wchodzi w życie z dniem 2 czerwca 1996 r.
+Rozporządzenie wchodzi w życie z dniem 2 czerwca 1996 r. 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 15 listopada 2013 r. zmieniającego rozporządzenie w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy (Dz. U. poz. 1359), które weszło w życie z dniem 22 listopada 2013 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 4) Dodany przez § 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 29 listopada 2007 r. zmieniającego rozporządzenie w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy (Dz. U. Nr 227, poz. 1678), które weszło w życie z dniem 5 grudnia 2007 r. 5) Dodany przez § 1 pkt 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 15 września 2011 r. zmieniającego rozporządzenie w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy (Dz. U. Nr 210, poz. 1253), które weszło w życie z dniem 19 października 2011 r. 6) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1975 r. Nr 27, poz. 141, z 1976 r. Nr 35, poz. 209, z 1977 r. Nr 10, poz. 41, z 1981 r. Nr 22, poz. 110, z 1982 r. Nr 37, poz. 247, z 1983 r. Nr 40, poz. 181, z 1985 r. Nr 1, poz. 1, z 1989 r. Nr 49, poz. 272 oraz z 1991 r. Nr 92, poz. 409.
 
-#### Rozdział 1 Usprawiedliwianie nieobecności w pracy
+#### Rozdział 1 – Usprawiedliwianie nieobecności w pracy
 
-#### Rozdział 2 Zwolnienia od pracy
+#### Rozdział 2 – Zwolnienia od pracy
 
-#### Rozdział 3 Przepisy końcowe
+#### Rozdział 3 – Przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 

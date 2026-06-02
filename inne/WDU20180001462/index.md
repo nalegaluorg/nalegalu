@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 20 lipca 2018 r. w sprawie kosztów związanych z wykonaniem decyzji o zobowiązaniu cudzoziemca do powrotu
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 20 lipca 2018 r. w sprawie kosztów związanych z wykonaniem decyzji o zobowiązaniu cudzoziemca do powrotu Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-07-31 |
-| Wejście w życie | 2018-08-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001462) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1462/text.pdf) |
 
@@ -47,6 +46,5 @@ Koszty pobytu cudzoziemca w pomieszczeniu Straży Granicznej lub Policji przezna
 2)
 26 zł za jeden dzień pobytu w strzeżonym ośrodku lub areszcie dla cudzoziemców.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 12 sierpnia 2018 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 17 kwietnia 2015 r. w sprawie szczegółowego sposobu obliczania kosztów związanych z wykonaniem decyzji o zobowiązaniu cudzoziemca do powrotu (Dz. U. poz. 580), które traci moc na podstawie art. 15 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. z 2018 r. poz. 107).
+Rozporządzenie wchodzi w życie z dniem 12 sierpnia 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 17 kwietnia 2015 r. w sprawie szczegółowego sposobu obliczania kosztów związanych z wykonaniem decyzji o zobowiązaniu cudzoziemca do powrotu (Dz. U. poz. 580), które traci moc na podstawie art. 15 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. z 2018 r. poz. 107). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 17 kwietnia 2015 r. w sprawie szczegółowego sposobu obliczania kosztów związanych z wykonaniem decyzji o zobowiązaniu cudzoziemca do powrotu (Dz. U. poz. 580), które traci moc na podstawie art. 15 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. z 2018 r. poz. 107).
 

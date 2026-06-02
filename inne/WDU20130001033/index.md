@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-07-12 |
 | Data wydania | 2013-09-06 |
-| Wejście w życie | 2013-10-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001033) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1033/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2007 r. Nr 16, poz. 94, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2007 r. Nr 16, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374, z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505, z 2009 r. Nr 1, poz. 3, Nr 18, poz. 97, Nr 19, poz. 100, Nr 98, poz. 817, Nr 115, poz. 966, Nr 157, poz. 1241 i Nr 214, poz. 1658, z 2011 r. Nr 5, poz. 13, Nr 102, poz. 586, Nr 106, poz. 622, Nr 187, poz. 1113, Nr 205, poz. 1209, Nr 227, poz. 1367, Nr 230, poz. 1372 i Nr 233, poz. 1381, z 2012 r. poz. 460 i 951 oraz z 2013 r. poz. 628.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4: po pkt 6e dodaje się pkt 6f w brzmieniu: „
     - **a)**
@@ -35,8 +34,14 @@ source: "eli-html"
     - **b)**
 
 - **9a)** usługa trakcyjna – działalność przewoźnika kolejowego polegającą na zapewnieniu pojazdu kolejowego z napędem wraz z obsługą maszynistów do wykonywania przewozu kolejowego albo zapewnienie obsługi maszynistów do prowadzenia pojazdu kolejowego z napędem; ” ;
-- **2)** w art. 13: w ust. 1a: – pkt 2 otrzymuje brzmienie: „ 2) wydawanie, przedłużanie ważności, zawieszanie, przywracanie i cofanie licencji maszynisty, aktualizacja danych zawartych w licencji maszynisty, wydawanie wtórników licencji maszynisty oraz prowadzenie i aktualizacja rejestru tych dokumentów; ” , – pkt 5 otrzymuje brzmienie: „ 5) nadzór nad ośrodkami szkolenia i egzaminowania maszynistów oraz kandydatów na maszynistów, zwanymi dalej „ośrodkami szkolenia i egzaminowania”, oraz podmiotami uprawnionymi do przeprowadzania badań lekarskich i psychologicznych oraz orzekania w celu sprawdzenia spełnienia wymagań zdrowotnych, fizycznych i psychicznych, niezbędnych do uzyskania licencji maszynisty oraz świadectwa maszynisty, a także zachowania ich ważności; ” , – po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) prowadzenie i aktualizacja: a) rejestru ośrodków szkolenia i egzaminowania, b) listy podmiotów uprawnionych do przeprowadzania badań lekarskich i psychologicznych oraz orzekania w celu sprawdzenia spełnienia wymagań zdrowotnych, fizycznych i psychicznych, niezbędnych do uzyskania licencji maszynisty oraz świadectwa maszynisty, a także zachowania ich ważności; ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
+- **2)** w art. 13: w ust. 1a: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** wydawanie, przedłużanie ważności, zawieszanie, przywracanie i cofanie licencji maszynisty, aktualizacja danych zawartych w licencji maszynisty, wydawanie wtórników licencji maszynisty oraz prowadzenie i aktualizacja rejestru tych dokumentów; ” , pkt 5 otrzymuje brzmienie: „
+- **5)** nadzór nad ośrodkami szkolenia i egzaminowania maszynistów oraz kandydatów na maszynistów, zwanymi dalej „ośrodkami szkolenia i egzaminowania”, oraz podmiotami uprawnionymi do przeprowadzania badań lekarskich i psychologicznych oraz orzekania w celu sprawdzenia spełnienia wymagań zdrowotnych, fizycznych i psychicznych, niezbędnych do uzyskania licencji maszynisty oraz świadectwa maszynisty, a także zachowania ich ważności; ” , po pkt 5 dodaje się pkt 5a w brzmieniu: „
+- **5a)** prowadzenie i aktualizacja: rejestru ośrodków szkolenia i egzaminowania, listy podmiotów uprawnionych do przeprowadzania badań lekarskich i psychologicznych oraz orzekania w celu sprawdzenia spełnienia wymagań zdrowotnych, fizycznych i psychicznych, niezbędnych do uzyskania licencji maszynisty oraz świadectwa maszynisty, a także zachowania ich ważności; ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
+    - **a)**
+    - **b)**
     - **b)**
 
 1b. Do zadań Prezesa UTK należy także inicjowanie projektów aktów prawnych i ich zmian oraz udział w ich przygotowaniu w zakresie bezpieczeństwa ruchu kolejowego i bezpieczeństwa eksploatacji kolei. ” , po ust. 7c dodaje się ust. 7d-7f w brzmieniu: „
@@ -54,14 +59,14 @@ source: "eli-html"
 7f. Z przeprowadzonej kontroli, o której mowa w ust. 7d, sporządza się wystąpienie pokontrolne, które zawiera opis stanu faktycznego, opis ewentualnych nieprawidłowości i wnioski pokontrolne z określeniem terminu usunięcia stwierdzonych nieprawidłowości. ” ;
 
 - **3)** w art. 16 w ust. 2 pkt 3 otrzymuje brzmienie: „
-- **3)** nadzoru nad: ośrodkami szkolenia i egzaminowania, podmiotami uprawnionymi do przeprowadzania badań lekarskich i psychologicznych oraz orzekania w celu sprawdzenia spełnienia wymagań zdrowotnych, fizycznych i psychicznych, niezbędnych do uzyskania licencji maszynisty oraz świadectwa maszynisty, a także zachowania ich ważności nie może być wyższa niż równowartość w złotych 2000 euro rocznie, ustalona przy zastosowaniu kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu sporządzenia dokumentu pokontrolnego; ” ;
+- **3)** nadzoru nad: ośrodkami szkolenia i egzaminowania, podmiotami uprawnionymi do przeprowadzania badań lekarskich i psychologicznych oraz orzekania w celu sprawdzenia spełnienia wymagań zdrowotnych, fizycznych i psychicznych, niezbędnych do uzyskania licencji maszynisty oraz świadectwa maszynisty, a także zachowania ich ważności – nie może być wyższa niż równowartość w złotych 2000 euro rocznie, ustalona przy zastosowaniu kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu sporządzenia dokumentu pokontrolnego; ” ;
     - **a)**
     - **b)**
 
 - **4)** w art. 18: w ust. 1 pkt 2 otrzymuje brzmienie: „
     - **a)**
 
-- **2)** przewoźnika kolejowego do: uzyskania dostępu do infrastruktury kolejowej, świadczenia usług trakcyjnych jest certyfikat bezpieczeństwa; ” , ust. 5 otrzymuje brzmienie: „
+- **2)** przewoźnika kolejowego do: uzyskania dostępu do infrastruktury kolejowej, świadczenia usług trakcyjnych – jest certyfikat bezpieczeństwa; ” , ust. 5 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **b)**
@@ -74,7 +79,7 @@ source: "eli-html"
 
 - **1)** postępowanie osób wykonujących czynności na poszczególnych stanowiskach związanych z bezpieczeństwem ruchu kolejowego,
 - **2)** sposób obsługi określonych urządzeń, pojazdów kolejowych lub ich elementów,
-- **3)** sposób przeprowadzania określonych czynności niezbędnych dla zapewnienia wykonywania przewozów kolejowych mając na uwadze potrzebę zapewnienia jednolitych warunków wykonywania działalności na sieci kolejowej Rzeczypospolitej Polskiej przez przewoźników kolejowych i zarządców oraz względy bezpieczeństwa transportu kolejowego. ” ;
+- **3)** sposób przeprowadzania określonych czynności niezbędnych dla zapewnienia wykonywania przewozów kolejowych – mając na uwadze potrzebę zapewnienia jednolitych warunków wykonywania działalności na sieci kolejowej Rzeczypospolitej Polskiej przez przewoźników kolejowych i zarządców oraz względy bezpieczeństwa transportu kolejowego. ” ;
 - **6)** w art. 22: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -94,7 +99,7 @@ source: "eli-html"
 2d. Badania, o których mowa w ust. 2c, przeprowadza się co:
 
 - **1)** 24 miesiące – do ukończenia 55. roku życia,
-- **2)** 12 miesięcy – po ukończeniu 55. roku życia chyba że orzeczenie lekarskie wskazuje krótszy okres.
+- **2)** 12 miesięcy – po ukończeniu 55. roku życia – chyba że orzeczenie lekarskie wskazuje krótszy okres.
 
 2e. Maszynista posiadający aktualne orzeczenie lekarskie potwierdzające spełnienie wymagań zdrowotnych, fizycznych i psychicznych, niezbędnych do uzyskania albo zachowania ważności świadectwa maszynisty, jest zwolniony z obowiązku, o którym mowa w ust. 2c. ” , ust. 5 otrzymuje brzmienie: „
 
@@ -162,8 +167,16 @@ source: "eli-html"
     - **b)**
 
 - **3)** przeprowadzanie szkoleń i sprawdzianów wiedzy i umiejętności maszynistów, lub
-- **4)** szkolenie i egzaminowanie maszynistów z innych państw członkowskich Unii Europejskiej w zakresie ogólnych kompetencji językowych, zasad ruchu kolejowego i sygnalizacji na sieci kolejowej Rzeczypospolitej Polskiej. ” , w ust. 5: – uchyla się pkt 1, – pkt 5 otrzymuje brzmienie: „ 5) który prowadzi szkolenia na podstawie programów szkoleń, o których mowa odpowiednio w przepisach wydanych na podstawie ust. 11 pkt 6 i art. 22b ust. 21 pkt 2; ” , – po pkt 5 dodaje się pkt 5a i 5b w brzmieniu: „ 5a) zapewniający prowadzenie: a) szkoleń przez instruktorów, którzy: – spełniają wymagania dotyczące instruktorów określone w przepisach wydanych na podstawie ust. 11 pkt 10, – są wpisani do wykazu, o którym mowa w ust. 8 pkt 1, b) egzaminów przez egzaminatorów, którzy: – spełniają wymagania określone w przepisach wydanych na podstawie ust. 11 pkt 10, – są wpisani do wykazu, o którym mowa w ust. 8 pkt 1, – złożyli pisemną deklarację prowadzenia egzaminów w sposób bezstronny i niedyskryminujący; 5b) który zawiadamia Prezesa UTK, nie później niż 14 dni przed planowanym egzaminem, o terminie i miejscu jego przeprowadzenia; ” , – pkt 6 otrzymuje brzmienie: „ 6) który spełnia szczegółowe wymagania określone w przepisach wydanych na podstawie ust. 11 pkt 9; ” , ust. 6–8 otrzymują brzmienie: „
+- **4)** szkolenie i egzaminowanie maszynistów z innych państw członkowskich Unii Europejskiej w zakresie ogólnych kompetencji językowych, zasad ruchu kolejowego i sygnalizacji na sieci kolejowej Rzeczypospolitej Polskiej. ” , w ust. 5: – uchyla się pkt 1, pkt 5 otrzymuje brzmienie: „
     - **e)**
+
+- **5)** który prowadzi szkolenia na podstawie programów szkoleń, o których mowa odpowiednio w przepisach wydanych na podstawie ust. 11 pkt 6 i art. 22b ust. 21 pkt 2; ” , po pkt 5 dodaje się pkt 5a i 5b w brzmieniu: „
+- **5a)** zapewniający prowadzenie: szkoleń przez instruktorów, którzy: – spełniają wymagania dotyczące instruktorów określone w przepisach wydanych na podstawie ust. 11 pkt 10, – są wpisani do wykazu, o którym mowa w ust. 8 pkt 1, egzaminów przez egzaminatorów, którzy: – spełniają wymagania określone w przepisach wydanych na podstawie ust. 11 pkt 10, – są wpisani do wykazu, o którym mowa w ust. 8 pkt 1, – złożyli pisemną deklarację prowadzenia egzaminów w sposób bezstronny i niedyskryminujący;
+    - **a)**
+    - **b)**
+
+- **5b)** który zawiadamia Prezesa UTK, nie później niż 14 dni przed planowanym egzaminem, o terminie i miejscu jego przeprowadzenia; ” , pkt 6 otrzymuje brzmienie: „
+- **6)** który spełnia szczegółowe wymagania określone w przepisach wydanych na podstawie ust. 11 pkt 9; ” , ust. 6–8 otrzymują brzmienie: „
     - **f)**
 
 6. Badania lekarskie i psychologiczne w celu sprawdzenia spełnienia wymagań zdrowotnych, fizycznych i psychicznych, niezbędnych do uzyskania licencji maszynisty oraz świadectwa maszynisty, a także zachowania ich ważności, mogą prowadzić podmioty uprawnione do wykonywania badań w służbie medycyny pracy, zajmujące się zadaniami medycyny kolejowej.
@@ -295,7 +308,7 @@ source: "eli-html"
 7a. Badania, o których mowa w ust. 7, przeprowadza się co:
 
 - **1)** 24 miesiące – do ukończenia 55. roku życia,
-- **2)** 12 miesięcy – po ukończeniu 55. roku życia chyba że orzeczenie lekarskie wskazuje krótszy okres.
+- **2)** 12 miesięcy – po ukończeniu 55. roku życia – chyba że orzeczenie lekarskie wskazuje krótszy okres.
 
 7b. Badania, o których mowa w ust. 7, przeprowadza się w okresach krótszych niż okresy, o których mowa w ust. 7a:
 
@@ -306,7 +319,7 @@ source: "eli-html"
 - **5)** w przypadku określonym w ust. 16;
 - **6)** w innych przypadkach określonych w przepisach dotyczących profilaktycznej ochrony zdrowia pracowników.
 
-7c. Badania, o których mowa w ust. 1a pkt 4, ust. 7 i 7b, są wykonywane, z zastrzeżeniem ust. 7a oraz przepisów wydanych na podstawie ust. 22, w zakresie i na zasadach określonych w ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.).
+7c. Badania, o których mowa w ust. 1a pkt 4, ust. 7 i 7b, są wykonywane, z zastrzeżeniem ust. 7a oraz przepisów wydanych na podstawie ust. 22, w zakresie i na zasadach określonych w ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700, z 2011 r. Nr 36, poz. 181, Nr 63, poz. 322, Nr 80, poz. 432, Nr 144, poz. 855, Nr 149, poz. 887 i Nr 232, poz. 1378, z 2012 r. poz. 908 i 1110 oraz z 2013 r. poz. 2, 675 i 896.).
 
 7d. Przejście przez maszynistę badań, o których mowa w ust. 1a pkt 4, ust. 7 i 7b, uznaje się za równoznaczne ze spełnieniem obowiązków pracownika w zakresie wykonywania wstępnych, okresowych i kontrolnych badań lekarskich, o których mowa w art. 229 § 1 i 2 Kodeksu pracy.
 
@@ -345,7 +358,7 @@ source: "eli-html"
 - **2)** jednorazowych przewozów kolejowych, za zgodą zarządcy,
 - **3)** dostawy lub prezentacji nowego pociągu lub pojazdu kolejowego,
 - **4)** szkolenia lub egzaminowania maszynistów oraz kandydatów na maszynistów,
-- **5)** wykonywania przewozów technologicznych jeżeli maszynista albo kandydat na maszynistę ubiegający się o świadectwo maszynisty nie posiadają znajomości odcinków linii kolejowych, na których mają prowadzić pojazd kolejowy lub pociąg, mogą go prowadzić, pod warunkiem że podczas jazdy obok nich znajduje się inny maszynista lub przedstawiciel zarządcy posiadający udokumentowaną znajomość tych odcinków.
+- **5)** wykonywania przewozów technologicznych – jeżeli maszynista albo kandydat na maszynistę ubiegający się o świadectwo maszynisty nie posiadają znajomości odcinków linii kolejowych, na których mają prowadzić pojazd kolejowy lub pociąg, mogą go prowadzić, pod warunkiem że podczas jazdy obok nich znajduje się inny maszynista lub przedstawiciel zarządcy posiadający udokumentowaną znajomość tych odcinków.
 
 19. W przypadkach, o których mowa w ust. 18, w razie braku możliwości zapewnienia obecności osób, o których mowa w tym przepisie, maszynista może prowadzić pojazd kolejowy lub pociąg po spełnieniu warunków określonych w przepisach wydanych na podstawie art. 17 ust. 7. ” , uchyla się ust. 20, po ust. 20 dodaje się ust. 20a i 20b w brzmieniu: „
 
@@ -365,13 +378,13 @@ source: "eli-html"
 - **3)** sposób, formę oraz tryb przygotowania i przeprowadzania egzaminów dla kandydatów na maszynistów ubiegających się o uzyskanie świadectwa maszynisty oraz tryb pracy komisji egzaminacyjnej przeprowadzającej te egzaminy,
 - **4)** tryb oraz szczegółowe warunki i minimalną częstotliwość przeprowadzania szkoleń oraz sprawdzianów wiedzy i umiejętności maszynistów,
 - **5)** zakres danych dotyczących infrastruktury kolejowej ujęty w świadectwie maszynisty,
-- **6)** szczegółowe warunki i sposób prowadzenia rejestru świadectw maszynistów, zakres danych w nim ujętych, a także okres ich przechowywania, wzór tego rejestru oraz tryb udostępniania danych ujętych w rejestrze podmiotom, o których mowa w ust. 14a mając na uwadze zakres wiedzy i umiejętności niezbędny do zapewnienia właściwych kwalifikacji maszynistów, konieczność dostosowania programu szkolenia do wykształcenia i doświadczenia zawodowego kandydatów na maszynistów, przy zapewnieniu niezbędnej liczby godzin stażu stanowiskowego, szkolenia teoretycznego i praktycznego oraz prowadzenia pojazdu kolejowego pod nadzorem, konieczność przeprowadzenia teoretycznej i praktycznej części egzaminu dla kandydatów na maszynistów ubiegających się o uzyskanie świadectwa maszynisty, zagwarantowania właściwej organizacji i odpowiedniego poziomu merytorycznego tych egzaminów, a także zapewnienia jednakowych warunków ich przeprowadzenia, konieczność zapewnienia ciągłości realizacji procesu doskonalenia zawodowego maszynistów i monitorowania posiadanych przez nich uprawnień oraz przepisy Unii Europejskiej dotyczące rejestru świadectw maszynistów.
+- **6)** szczegółowe warunki i sposób prowadzenia rejestru świadectw maszynistów, zakres danych w nim ujętych, a także okres ich przechowywania, wzór tego rejestru oraz tryb udostępniania danych ujętych w rejestrze podmiotom, o których mowa w ust. 14a – mając na uwadze zakres wiedzy i umiejętności niezbędny do zapewnienia właściwych kwalifikacji maszynistów, konieczność dostosowania programu szkolenia do wykształcenia i doświadczenia zawodowego kandydatów na maszynistów, przy zapewnieniu niezbędnej liczby godzin stażu stanowiskowego, szkolenia teoretycznego i praktycznego oraz prowadzenia pojazdu kolejowego pod nadzorem, konieczność przeprowadzenia teoretycznej i praktycznej części egzaminu dla kandydatów na maszynistów ubiegających się o uzyskanie świadectwa maszynisty, zagwarantowania właściwej organizacji i odpowiedniego poziomu merytorycznego tych egzaminów, a także zapewnienia jednakowych warunków ich przeprowadzenia, konieczność zapewnienia ciągłości realizacji procesu doskonalenia zawodowego maszynistów i monitorowania posiadanych przez nich uprawnień oraz przepisy Unii Europejskiej dotyczące rejestru świadectw maszynistów.
 
 22. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** wymagania zdrowotne, fizyczne i psychiczne, jakie powinny spełniać osoby ubiegające się o świadectwo maszynisty albo o zachowanie jego ważności,
 - **2)** zakres badań lekarskich i psychologicznych oraz sposób oceny zdolności fizycznej i psychicznej osób ubiegających się o świadectwo maszynisty albo o zachowanie jego ważności oraz tryb orzekania o tej zdolności,
-- **3)** wzory dokumentów potwierdzających zdolność fizyczną i psychiczną osób ubiegających się o świadectwo maszynisty albo o zachowanie jego ważności mając na uwadze konieczność przeprowadzenia badań niezbędnych dla właściwej oceny zdolności fizycznej i psychicznej do prowadzenia pojazdów kolejowych, konieczność uwzględnienia specyfiki pracy na stanowisku maszynisty przy określeniu wymagań zdrowotnych, sprawność procedury wydawania dokumentów potwierdzających zdolność fizyczną i psychiczną osób ubiegających się o świadectwo maszynisty albo o zachowanie jego ważności, a także konieczność ujednolicenia wydawanych dokumentów i ich zabezpieczenie przed podrobieniem lub przerobieniem. ” ;
+- **3)** wzory dokumentów potwierdzających zdolność fizyczną i psychiczną osób ubiegających się o świadectwo maszynisty albo o zachowanie jego ważności – mając na uwadze konieczność przeprowadzenia badań niezbędnych dla właściwej oceny zdolności fizycznej i psychicznej do prowadzenia pojazdów kolejowych, konieczność uwzględnienia specyfiki pracy na stanowisku maszynisty przy określeniu wymagań zdrowotnych, sprawność procedury wydawania dokumentów potwierdzających zdolność fizyczną i psychiczną osób ubiegających się o świadectwo maszynisty albo o zachowanie jego ważności, a także konieczność ujednolicenia wydawanych dokumentów i ich zabezpieczenie przed podrobieniem lub przerobieniem. ” ;
 - **9)** art. 22c otrzymuje brzmienie: „
 
 **Art. 22c.**
@@ -453,5 +466,5 @@ source: "eli-html"
 
 **Art. 7.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 22a ust. 11 i 13, art. 22b ust. 21 i 22 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 22a ust. 11 i 13, art. 22b ust. 21 i 22 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374, z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505, z 2009 r. Nr 1, poz. 3, Nr 18, poz. 97, Nr 19, poz. 100, Nr 98, poz. 817, Nr 115, poz. 966, Nr 157, poz. 1241 i Nr 214, poz. 1658, z 2011 r. Nr 5, poz. 13, Nr 102, poz. 586, Nr 106, poz. 622, Nr 187, poz. 1113, Nr 205, poz. 1209, Nr 227, poz. 1367, Nr 230, poz. 1372 i Nr 233, poz. 1381, z 2012 r. poz. 460 i 951 oraz z 2013 r. poz. 628. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700, z 2011 r. Nr 36, poz. 181, Nr 63, poz. 322, Nr 80, poz. 432, Nr 144, poz. 855, Nr 149, poz. 887 i Nr 232, poz. 1378, z 2012 r. poz. 908 i 1110 oraz z 2013 r. poz. 2, 675 i 896.
 

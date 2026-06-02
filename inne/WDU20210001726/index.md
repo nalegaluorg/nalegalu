@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001726) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1726/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity rozporządzenia Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie świadczeń przysługujących funkcjonariuszom Służby Wywiadu Wojskowego za podróże służbowe, przeniesienia lub delegowania Rozdział 1 – Przepisy ogólne Rozdział 2 – Krajowe podróże służbowe Rozdział 3 – Zagraniczne podróże służbowe Rozdział 4 – Należności za przeniesienia do pełnienia służby w innej miejscowości Rozdział 5 – Należności za delegowania do czasowego pełnienia służby w innej miejscowości Rozdział 6 – Przepis końcowy
+Załącznik – Tekst jednolity rozporządzenia Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie świadczeń przysługujących funkcjonariuszom Służby Wywiadu Wojskowego za podróże służbowe, przeniesienia lub delegowania
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie świadczeń przysługujących funkcjonariuszom Służby Wywiadu Wojskowego za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1280), z uwzględnieniem zmian wprowadzonych:
@@ -37,19 +37,16 @@ rozporządzeniem Ministra Obrony Narodowej z dnia 7 sierpnia 2020 r. zmieniając
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 6 września 2010 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Służby Wywiadu Wojskowego za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1124), który stanowi:
-„
+§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 6 września 2010 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Służby Wywiadu Wojskowego za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1124), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 7 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Służby Wywiadu Wojskowego za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1384), który stanowi:
-„
+§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 7 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Służby Wywiadu Wojskowego za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1384), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Tekst jednolity rozporządzenia Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie świadczeń przysługujących funkcjonariuszom Służby Wywiadu Wojskowego za podróże służbowe, przeniesienia lub delegowania
 Na podstawie art. 87 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2021 r. poz. 1362) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa rodzaje świadczeń przysługujących funkcjonariuszowi Służby Wywiadu Wojskowego w razie przeniesienia lub delegowania do czasowego pełnienia służby w innej miejscowości albo podróży służbowej poza stałe miejsce pełnienia służby.
 § 2.
@@ -75,12 +72,13 @@ przeniesienie do pełnienia służby w innej miejscowości – mianowanie funkcj
 10)
 delegowanie do czasowego pełnienia służby w innej miejscowości – wyznaczenie funkcjonariuszowi określonych w rozkazie personalnym o delegowaniu czasu oraz miejsca wykonywania czynności służbowych w miejscu innym niż jego dotychczasowe stałe miejsce pełnienia służby;
 11)
-(uchylony);
+(uchylony);Przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 7 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Służby Wywiadu Wojskowego za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1384), które weszło w życie z dniem 28 sierpnia 2020 r.
 12)
 uposażenie – uposażenie zasadnicze wraz z dodatkami o charakterze stałym, przysługujące funkcjonariuszowi od dnia przeniesienia do pełnienia służby w innej miejscowości.
+Krajowe podróże służbowe
 § 3.
 1.
-W przypadku funkcjonariusza zamieszkałego poza stałym miejscem pełnienia służby Szef Służby Wywiadu Wojskowego może uznać, w celu rozliczenia kosztów krajowej podróży służbowej, miejscowość zamieszkania za stałe miejsce pełnienia służby, jeżeli:
+W przypadku funkcjonariusza zamieszkałego poza stałym miejscem pełnienia służby Szef Służby Wywiadu WojskowegoZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. może uznać, w celu rozliczenia kosztów krajowej podróży służbowej, miejscowość zamieszkania za stałe miejsce pełnienia służby, jeżeli:
 1)
 funkcjonariusz wykonuje stale czynności służbowe poza stałym miejscem pełnienia służby albo
 2)
@@ -105,7 +103,7 @@ zwrot innych niezbędnych i udokumentowanych wydatków.
 2.
 Funkcjonariuszowi, którego obowiązki służbowe polegają na stałym wykonywaniu czynności służbowych na obszarze właściwości terytorialnej jednostki organizacyjnej, w przypadku odbywania krajowej podróży służbowej na tym obszarze przysługuje jedynie zwrot kosztów przejazdów, o których mowa w ust. 1 pkt 2 lit. a, z zastrzeżeniem ust. 3.
 3.
-W uzasadnionych przypadkach Szef Służby Wywiadu Wojskowego może wyrazić zgodę na wypłatę pozostałych należności, o których mowa w ust. 1, jeżeli przemawiają za tym ważne względy służbowe lub spowoduje to obniżenie kosztów krajowej podróży służbowej.
+W uzasadnionych przypadkach Szef Służby Wywiadu WojskowegoZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. może wyrazić zgodę na wypłatę pozostałych należności, o których mowa w ust. 1, jeżeli przemawiają za tym ważne względy służbowe lub spowoduje to obniżenie kosztów krajowej podróży służbowej.
 § 5.
 1.
 Kwotę diety ustala się w wysokości określonej w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
@@ -133,20 +131,20 @@ za czas pobytu w stałym miejscu pełnienia służby, miejscu zamieszkania lub z
 jeżeli na podstawie odrębnych przepisów funkcjonariusz z tytułu odbywania krajowej podróży służbowej otrzymał nieodpłatnie wyżywienie lub równoważnik pieniężny w zamian za wyżywienie.
 § 6.
 1.
-Publiczny środek transportu odpowiedni do odbycia krajowej podróży służbowej, z zastrzeżeniem ust. 2, określa Szef Służby Wywiadu Wojskowego, uwzględniając posiadane przez funkcjonariusza uprawnienia do przejazdów ulgowych, dogodność połączeń na danej trasie oraz pilność załatwianej sprawy.
+Publiczny środek transportu odpowiedni do odbycia krajowej podróży służbowej, z zastrzeżeniem ust. 2, określa Szef Służby Wywiadu WojskowegoZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1., uwzględniając posiadane przez funkcjonariusza uprawnienia do przejazdów ulgowych, dogodność połączeń na danej trasie oraz pilność załatwianej sprawy.
 2.
-W przypadku funkcjonariusza wykonującego czynności operacyjno-rozpoznawcze lub dochodzeniowo-śledcze Szef Służby Wywiadu Wojskowego może nie uwzględniać uprawnień, o których mowa w ust. 1.
+W przypadku funkcjonariusza wykonującego czynności operacyjno-rozpoznawcze lub dochodzeniowo-śledcze Szef Służby Wywiadu WojskowegoZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. może nie uwzględniać uprawnień, o których mowa w ust. 1.
 3.
-Szef Służby Wywiadu Wojskowego może wyrazić zgodę na przejazd w krajowej podróży służbowej pojazdem pozostającym w dyspozycji SWW.
+Szef Służby Wywiadu WojskowegoZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. może wyrazić zgodę na przejazd w krajowej podróży służbowej pojazdem pozostającym w dyspozycji SWW.
 4.
-W uzasadnionych przypadkach, na wniosek funkcjonariusza, Szef Służby Wywiadu Wojskowego może wyrazić zgodę na przejazdy w krajowej podróży służbowej pojazdem niepozostającym w dyspozycji SWW.
+W uzasadnionych przypadkach, na wniosek funkcjonariusza, Szef Służby Wywiadu WojskowegoZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. może wyrazić zgodę na przejazdy w krajowej podróży służbowej pojazdem niepozostającym w dyspozycji SWW.
 § 7.
 1.
 Zwrot kosztów przejazdu obejmuje cenę biletu określonego środka transportu, z uwzględnieniem posiadanej przez funkcjonariusza ulgi na dany środek transportu, bez względu na to, z jakiego tytułu ulga przysługuje.
 2.
 Zwrotu kosztów przejazdu wagonem sypialnym, z miejscem do leżenia lub opłat dodatkowych za przejazd oraz przelot samolotem dokonuje się w wysokości udokumentowanej biletami lub rachunkami.
 3.
-Funkcjonariuszowi odbywającemu, za zgodą Szefa Służby Wywiadu Wojskowego, przejazdy w krajowej podróży służbowej pojazdem prywatnym przysługuje zwrot kosztów przejazdu według stawek za 1 km przebiegu, określonych na podstawie przepisów, o których mowa w § 5 ust. 1.
+Funkcjonariuszowi odbywającemu, za zgodą Szefa Służby Wywiadu WojskowegoZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1., przejazdy w krajowej podróży służbowej pojazdem prywatnym przysługuje zwrot kosztów przejazdu według stawek za 1 km przebiegu, określonych na podstawie przepisów, o których mowa w § 5 ust. 1.
 § 8.
 Funkcjonariuszowi przebywającemu w krajowej podróży służbowej przysługuje zwrot kosztów przejazdu do miejscowości zamieszkania lub zameldowania na pobyt stały w czasie wolnym od służby tylko wtedy, gdy spowoduje to zmniejszenie łącznych kosztów tej podróży. Przepisy § 6 i 7 stosuje się odpowiednio.
 § 9.
@@ -158,7 +156,7 @@ Ryczałt, o którym mowa w ust. 1, nie przysługuje, jeżeli funkcjonariusz odby
 1.
 Za nocleg w hotelu funkcjonariuszowi przysługuje zwrot kosztów w wysokości stwierdzonej rachunkiem, jednak nie więcej za 1 dobę hotelową niż 50% minimalnego wynagrodzenia za pracę określonego w przepisach o minimalnym wynagrodzeniu za pracę, z zastrzeżeniem ust. 2.
 2.
-W uzasadnionych przypadkach Szef Służby Wywiadu Wojskowego może wyrazić zgodę na zwrot kosztów noclegu stwierdzonych rachunkiem, w wysokości przekraczającej limit, o którym mowa w ust. 1.
+W uzasadnionych przypadkach Szef Służby Wywiadu WojskowegoZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. może wyrazić zgodę na zwrot kosztów noclegu stwierdzonych rachunkiem, w wysokości przekraczającej limit, o którym mowa w ust. 1.
 3.
 Funkcjonariuszowi, który wobec braku możliwości skorzystania z noclegu w miejscowości stanowiącej cel krajowej podróży służbowej korzystał z noclegu w miejscowości, do której czas dojazdu nie przekracza jednej godziny, przysługuje również zwrot kosztów przejazdu publicznymi środkami komunikacji z miejscowości stanowiącej cel krajowej podróży służbowej do miejscowości, w której funkcjonariusz korzystał z noclegu, i z powrotem.
 4.
@@ -175,17 +173,18 @@ w przypadku gdy z miejscowości stanowiącej cel krajowej podróży służbowej 
 W przypadku braku możliwości zapewnienia noclegu w miejscowości stanowiącej cel krajowej podróży służbowej lub w miejscowości, od której czas dojazdu do miejscowości stanowiącej cel krajowej podróży służbowej nie przekracza jednej godziny, funkcjonariuszowi przysługuje zwrot kosztów noclegu w wysokości poniesionych kosztów noclegu stwierdzonych rachunkiem.
 § 12.
 1.
-Funkcjonariuszowi odbywającemu krajową podróż służbową, na jego wniosek, Szef Służby Wywiadu Wojskowego przyznaje zaliczkę na niezbędne koszty podróży, w wysokości wynikającej ze wstępnej kalkulacji tych kosztów.
+Funkcjonariuszowi odbywającemu krajową podróż służbową, na jego wniosek, Szef Służby Wywiadu WojskowegoZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. przyznaje zaliczkę na niezbędne koszty podróży, w wysokości wynikającej ze wstępnej kalkulacji tych kosztów.
 2.
 Funkcjonariusz jest obowiązany rozliczyć się z pobranej zaliczki nie później niż przed upływem 7 dni od dnia powrotu z krajowej podróży służbowej.
 3.
-Fakt zapewnienia funkcjonariuszowi odbywającemu krajową podróż służbową bezpłatnego noclegu lub zakwaterowania albo nieodpłatnego wyżywienia w naturze potwierdza Szef Służby Wywiadu Wojskowego w jednostce organizacyjnej zapewniającej te świadczenia lub funkcjonariusz, oświadczeniem złożonym na poleceniu wyjazdu służbowego.
+Fakt zapewnienia funkcjonariuszowi odbywającemu krajową podróż służbową bezpłatnego noclegu lub zakwaterowania albo nieodpłatnego wyżywienia w naturze potwierdza Szef Służby Wywiadu WojskowegoZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. w jednostce organizacyjnej zapewniającej te świadczenia lub funkcjonariusz, oświadczeniem złożonym na poleceniu wyjazdu służbowego.
 4.
 Rozliczenia kosztów i wypłaty należności z tytułu krajowej podróży służbowej dokonuje jednostka organizacyjna, w której funkcjonariusz pełni służbę, a w przypadku Szefa SWW i jego zastępcy oraz kierownika jednostki organizacyjnej i jego zastępcy jednostka organizacyjna właściwa w sprawach budżetu i finansów.
 5.
 Należności z tytułu krajowej podróży służbowej wypłaca się w terminie 14 dni od dnia przedstawienia przez funkcjonariusza dokumentów lub rachunków, potwierdzających wysokość poniesionych wydatków nieobjętych ryczałtami, oraz oświadczenia o okolicznościach mających wpływ na prawo do diet, ryczałtów lub zwrotu innych kosztów podróży bądź ich wysokość.
 § 13.
 W przypadku śmierci funkcjonariusza podczas odbywania krajowej podróży służbowej koszty transportu zwłok do miejscowości, w której zmarły funkcjonariusz ma być pochowany, pokrywa SWW.
+Zagraniczne podróże służbowe
 § 14.
 Czas zagranicznej podróży służbowej liczy się w razie odbywania jej środkami komunikacji:
 1)
@@ -241,9 +240,9 @@ Za każdą dobę pobytu w szpitalu lub innym zakładzie leczniczym za granicą f
 1.
 Za nocleg funkcjonariuszowi przysługuje zwrot poniesionych kosztów w wysokości stwierdzonej rachunkiem hotelowym, w granicach ustalonego na ten cel limitu.
 2.
-W uzasadnionych przypadkach Szef Służby Wywiadu Wojskowego może wyrazić zgodę na zwrot kosztów noclegu stwierdzonych rachunkiem, w wysokości przekraczającej limit, o którym mowa w ust. 1.
+W uzasadnionych przypadkach Szef Służby Wywiadu WojskowegoZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. może wyrazić zgodę na zwrot kosztów noclegu stwierdzonych rachunkiem, w wysokości przekraczającej limit, o którym mowa w ust. 1.
 3.
-W przypadkach uzasadnionych charakterem wykonywanych czynności służbowych Szef Służby Wywiadu Wojskowego może wyrazić zgodę na niekorzystanie przez funkcjonariusza z noclegu w hotelu i przyznać ryczałt za każdy nocleg w wysokości 25% limitu, o którym mowa w ust. 1.
+W przypadkach uzasadnionych charakterem wykonywanych czynności służbowych Szef Służby Wywiadu WojskowegoZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. może wyrazić zgodę na niekorzystanie przez funkcjonariusza z noclegu w hotelu i przyznać ryczałt za każdy nocleg w wysokości 25% limitu, o którym mowa w ust. 1.
 4.
 Zwrot kosztów noclegu lub ryczałt za nocleg nie przysługują za czas przejazdu oraz gdy funkcjonariuszowi zapewniono bezpłatny nocleg.
 § 18.
@@ -285,6 +284,7 @@ Rozliczenia kosztów zagranicznej podróży służbowej należy dokonać w waluc
 Do rozliczenia kosztów zagranicznej podróży służbowej należy załączyć dokumenty lub rachunki potwierdzające poszczególne wydatki; nie dotyczy to diet oraz wydatków objętych ryczałtami. Jeżeli uzyskanie dokumentu lub rachunku nie było możliwe, funkcjonariusz jest obowiązany złożyć pisemne oświadczenie o dokonanym wydatku i przyczynach braku jego udokumentowania.
 4.
 Rozliczenia kosztów i wypłaty należności z tytułu zagranicznej podróży służbowej dokonuje jednostka organizacyjna właściwa w sprawach budżetu i finansów, w terminie 14 dni od dnia przedstawienia przez funkcjonariusza dokumentów, o których mowa w ust. 1–3.
+Należności za przeniesienia do pełnienia służby w innej miejscowości
 § 25.
 Funkcjonariuszowi przeniesionemu z urzędu do pełnienia służby w innej miejscowości przysługują:
 1)
@@ -301,7 +301,7 @@ zwrot kosztów przewozu urządzenia domowego;
 w przypadku gdy członkowie rodziny, o których mowa w art. 63 ustawy, nie przesiedlają się wraz z nim:
 a)
 dodatek za rozłąkę,
-b)
+bW brzmieniu ustalonym przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 6 września 2010 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Służby Wywiadu Wojskowego za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1124), które weszło w życie z dniem 24 września 2010 r.)
 zwrot kosztów przejazdów raz w miesiącu, w celu odwiedzenia rodziny, publicznym środkiem transportu na zasadach, o których mowa w § 6 ust. 1, albo ryczałt w wysokości równej cenie biletu w klasie II pociągu pospiesznego, a w przypadku gdy na danej trasie nie kursują pociągi pospieszne – w wysokości równej cenie biletu w klasie II pociągu według taryfy pospiesznej; w przypadku gdy na danej trasie lub jej odcinku brak jest połączeń kolejowych – w wysokości ceny biletu za przejazd środkiem publicznego transportu autobusowego.
 § 26.
 Wysokość diet, o których mowa w § 25 pkt 1, ustala się według stawek obowiązujących w dniu przejazdu do nowego miejsca pełnienia służby. Przepisy § 5 ust. 1 i 2 stosuje się odpowiednio.
@@ -373,6 +373,7 @@ Funkcjonariuszowi przeniesionemu z urzędu do pełnienia służby w innej miejsc
 Należności, o których mowa w § 28–31, nie przysługują w przypadku przeniesienia funkcjonariusza z urzędu do poprzedniego miejsca pełnienia służby, w którym on sam lub członkowie jego rodziny, o których mowa w art. 63 ustawy, nadal posiadają dom lub samodzielny lokal mieszkalny, bądź do miejscowości, w której są oni zameldowani na pobyt stały.
 § 37.
 W uzasadnionych przypadkach Szef SWW, na wniosek funkcjonariusza przeniesionego do pełnienia służby w innej miejscowości na własną prośbę, może przyznać należności jak z tytułu przeniesienia z urzędu do pełnienia służby w innej miejscowości. Przepisy § 25–36 stosuje się odpowiednio.
+Należności za delegowania do czasowego pełnienia służby w innej miejscowości
 § 38.
 Funkcjonariuszowi delegowanemu do czasowego pełnienia służby w innej miejscowości, z zastrzeżeniem § 39, przysługują:
 1)
@@ -390,18 +391,31 @@ zwrot kosztów dojazdów środkami komunikacji miejscowej w formie ryczałtu.
 Funkcjonariuszowi, o którym mowa w ust. 1, nie przysługują świadczenia wymienione w § 38.
 § 40.
 Należności określone w § 38 i 39 wypłaca się funkcjonariuszowi w jednostce organizacyjnej, do której został czasowo delegowany, w formie bezpośredniej do rąk funkcjonariusza lub w formie bezgotówkowej na rachunek bankowy wskazany przez funkcjonariusza.
+Przepis końcowy
 § 41.
-Rozporządzenie wchodzi w życie z dniem 1 października 2006 r.
+Rozporządzenie wchodzi w życie z dniem 1 października 2006 r. 1) Przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 7 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Służby Wywiadu Wojskowego za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1384), które weszło w życie z dniem 28 sierpnia 2020 r. 2) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 6 września 2010 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Służby Wywiadu Wojskowego za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1124), które weszło w życie z dniem 24 września 2010 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Krajowe podróże służbowe
+#### Rozdział 2 – Krajowe podróże służbowe
 
-#### Rozdział 3 Zagraniczne podróże służbowe
+#### Rozdział 3 – Zagraniczne podróże służbowe
 
-#### Rozdział 4 Należności za przeniesienia do pełnienia służby w innej miejscowości
+#### Rozdział 4 – Należności za przeniesienia do pełnienia służby w innej miejscowości
 
-#### Rozdział 5 Należności za delegowania do czasowego pełnienia służby w innej miejscowości
+#### Rozdział 5 – Należności za delegowania do czasowego pełnienia służby w innej miejscowości
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-08-27 |
 | Data wydania | 2004-09-30 |
-| Wejście w życie | 2004-10-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042132156) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2156/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2001 r. Nr 110, poz. 1192, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2001 r. Nr 110, poz. 1192, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 25, poz. 253, z 2003 r. Nr 80, poz. 721, Nr 139, poz. 1325, Nr 162, poz. 1568 i Nr 217, poz. 2124 oraz z 2004 r. Nr 146, poz. 1546 i Nr 173, poz. 1808.) wprowadza się następujące zmiany:
 
 - **1)** art. 37h otrzymuje brzmienie: „
 
@@ -36,7 +35,9 @@ source: "eli-html"
 
 2. Przez wprowadzenie na rynek krajowy paliw silnikowych oraz gazu, o których mowa w ust. 1, rozumie się czynności podlegające opodatkowaniu podatkiem akcyzowym, których przedmiotem są te paliwa silnikowe oraz gaz.
 
-3. Paliwami silnikowymi oraz gazem, o których mowa w ust. 1, są produkty o następujących symbolach PKWiU i odpowiadających im kodach CN: Lp. Symbol PKWiU Nazwa produktu 1 bez względu na symbol PKWiU gaz płynny – propan, butan, mieszaniny propan-butan oraz inne gazy służące do napędu pojazdów samochodowych 2 23.20.11–00.123.20.11–00.2 paliwa silnikowe benzynowe 3 23.20.15 oleje napędowe 4 bez względu na symbol PKWiU wyroby przeznaczone do użycia jako paliwa do silników samochodowych”
+3. Paliwami silnikowymi oraz gazem, o których mowa w ust. 1, są produkty o następujących symbolach PKWiU i odpowiadających im kodach CN: Lp. Symbol PKWiU Nazwa produktu 1 bez względu na symbol PKWiU gaz płynny – propan, butan, mieszaniny propan-butan oraz inne gazy służące do napędu pojazdów samochodowych 2 23.20.11–00.1
+
+23. 20.11–00.2 paliwa silnikowe benzynowe 3 23.20.15 oleje napędowe 4 bez względu na symbol PKWiU wyroby przeznaczone do użycia jako paliwa do silników samochodowych”
 
 - **2)** art. 37j-37l otrzymują brzmienie: „
 
@@ -66,10 +67,10 @@ source: "eli-html"
 1. Podmioty, o których mowa w art. 37j ust. 1, są obowiązane składać informację o opłacie paliwowej właściwemu naczelnikowi urzędu celnego oraz obliczać i wpłacać opłatę paliwową w terminie:
 
 - **1)** do 25 dnia miesiąca następującego po miesiącu, w którym powstał obowiązek zapłaty – w przypadkach, o których mowa w art. 37j ust. 1 pkt 1, 3 i 4,
-- **2)** określonym dla należności celnych – w przypadku, o którym mowa w art. 37j ust. 1 pkt 2 na wyodrębniony rachunek bankowy izby celnej, którą kieruje dyrektor właściwy dla naczelnika tego urzędu celnego. ” ;
-- **5)** art. 37q otrzymuje brzmienie: „ Do opłaty paliwowej stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926, z późn. zm.), z zastrzeżeniem art. 37o ust. 3. ” .
+- **2)** określonym dla należności celnych – w przypadku, o którym mowa w art. 37j ust. 1 pkt 2 – na wyodrębniony rachunek bankowy izby celnej, którą kieruje dyrektor właściwy dla naczelnika tego urzędu celnego. ” ;
+- **5)** art. 37q otrzymuje brzmienie: „ Do opłaty paliwowej stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302, Nr 170, poz. 1660 i Nr 228, poz. 2255 i 2256 oraz z 2004 r. Nr 29, poz. 257, Nr 64, poz. 593, Nr 68, poz. 623, Nr 91, poz. 868, Nr 93, poz. 894, Nr 116, poz. 1205, Nr 122, poz. 1288, Nr 123, poz. 1291, Nr 146, poz. 1546, Nr 162, poz. 1692 i Nr 173, poz. 1808.), z zastrzeżeniem art. 37o ust. 3. ” .
 
 **Art. 2.** Do postępowań administracyjnych w sprawach objętych przepisami niniejszej ustawy wszczętych, a niezakończonych przed dniem jej wejścia w życie, stosuje się przepisy dotychczasowe.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 25, poz. 253, z 2003 r. Nr 80, poz. 721, Nr 139, poz. 1325, Nr 162, poz. 1568 i Nr 217, poz. 2124 oraz z 2004 r. Nr 146, poz. 1546 i Nr 173, poz. 1808. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302, Nr 170, poz. 1660 i Nr 228, poz. 2255 i 2256 oraz z 2004 r. Nr 29, poz. 257, Nr 64, poz. 593, Nr 68, poz. 623, Nr 91, poz. 868, Nr 93, poz. 894, Nr 116, poz. 1205, Nr 122, poz. 1288, Nr 123, poz. 1291, Nr 146, poz. 1546, Nr 162, poz. 1692 i Nr 173, poz. 1808.
 

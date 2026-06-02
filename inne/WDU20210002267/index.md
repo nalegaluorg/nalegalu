@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 8 grudnia 2021 r. w sprawie szacowania kapitału wewnętrznego i aktywów płynnych, systemu zarządzania ryzykiem, badania i oceny nadzorczej, a także polityki wynagrodzeń w domu maklerskim oraz małym domu maklerskim
+# Rozporządzenie Ministra Finansówz dnia 8 grudnia 2021 r. w sprawie szacowania kapitału wewnętrznego i aktywów płynnych, systemu zarządzania ryzykiem, badania i oceny nadzorczej, a także polityki wynagrodzeń w domu maklerskim oraz małym domu maklerskim Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-08 |
 | Data wydania | 2021-12-09 |
-| Wejście w życie | 2021-12-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002267) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2267/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – System zarządzania ryzykiem w domu maklerskim Rozdział 3 – Szacowanie kapitału wewnętrznego i aktywów płynnych Rozdział 4 – Badanie i ocena nadzorcza Rozdział 5 – Polityka wynagrodzeń Rozdział 6 – Przepisy przejściowe i końcowe
 Treść rozporządzenia
-Na podstawie art. 110x ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2021 r. poz. 328, 355, 680, 1505, 1595 i 2140) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie: 1) w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/2034 z dnia 27 listopada 2019 r. w sprawie nadzoru ostrożnościowego nad firmami inwestycyjnymi oraz zmieniającą dyrektywy 2002/87/WE, 2009/65/WE, 2011/61/UE, 2013/36/UE, 2014/59/UE i 2014/65/UE (Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 195 z 19.06.2020, str. 120 oraz Dz. Urz. UE L 405 z 02.12.2020, str. 84); 2) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 r. w sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniającego rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 20 z 24.01.2020, str. 26 oraz Dz. Urz. UE L 405 z 02.12.2020, str. 79). Na podstawie art. 110x ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2021 r. poz. 328, 355, 680, 1505, 1595 i 2140) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -52,15 +52,15 @@ grupie powiązanych kontrahentów – rozumie się przez to grupę powiązanych 
 5)
 kadrze kierowniczej wyższego szczebla – rozumie się przez to kadrę kierowniczą wyższego szczebla, o której mowa w art. 3 pkt 60 ustawy;
 6)
-kontrahencie centralnym – rozumie się przez to podmiot, o którym mowa w art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.);
+kontrahencie centralnym – rozumie się przez to podmiot, o którym mowa w art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 27.06.2013, str. 1, Dz. Urz. UE L 279 z 19.10.2013, str. 2, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 173 z 12.06.2014, str. 84, Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 141 z 05.06.2015, str. 73, Dz. Urz. UE L 239 z 15.09.2015, str. 63, Dz. Urz. UE L 337 z 23.12.2015, str. 1, Dz. Urz. UE L 86 z 31.03.2017, str. 3, Dz. Urz. UE L 148 z 10.06.2017, str. 1, Dz. Urz. UE L 347 z 28.12.2017, str. 35, Dz. Urz. UE L 80 z 22.03.2019, str. 8, Dz. Urz. UE L 141 z 28.05.2019, str. 42, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 322 z 12.12.2019, str. 1, Dz. Urz. UE L 22 z 22.01.2021, str. 1 oraz Dz. Urz. UE L 49 z 12.02.2021, str. 6.;
 7)
 portfelu niehandlowym – rozumie się przez to pozycje aktywów oraz pozycje pozabilansowe domu maklerskiego, które nie stanowią portfela handlowego domu maklerskiego w rozumieniu art. 4 ust. 1 pkt 54 rozporządzenia 2019/2033;
 8)
-rozporządzeniu 1093/2010 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komisji 2009/78/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 12, z późn. zm.);
+rozporządzeniu 1093/2010 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komisji 2009/78/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 12, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 5, Dz. Urz. UE L 60 z 28.02.2014, str. 34, Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 225 z 30.07.2014, str. 1, Dz. Urz. UE L 337 z 23.12.2015, str. 35, Dz. Urz. UE L 291 z 16.11.2018, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1 oraz Dz. Urz. UE L 334 z 27.12.2019, str. 1.;
 9)
-rozporządzeniu 2019/2033 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 r. w sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniające rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (Dz. Urz. UE L 314 z 05.12.2019, str. 1, z późn. zm.);
+rozporządzeniu 2019/2033 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 r. w sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniające rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (Dz. Urz. UE L 314 z 05.12.2019, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 20 z 24.01.2020, str. 26 oraz Dz. Urz. UE L 405 z 02.12.2020, str. 79.;
 10)
-rozporządzeniu 575/2013 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniające rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm.);
+rozporządzeniu 575/2013 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniające rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 183 z 09.07.2019, str. 14, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 84 z 11.03.2021, str. 1 oraz Dz. Urz. UE L 116 z 06.04.2021, str. 25.;
 11)
 ryzyku bazy – rozumie się przez to ryzyko straty powstałej w wyniku niedopasowania pomiędzy aktywem stanowiącym zabezpieczenie a aktywem zabezpieczanym, w szczególności w wyniku rozbieżności cen tych aktywów, w tym ryzyko straty w wyniku zmiany wartości kontraktu terminowego typu futures na indeks giełdowy lub w wyniku zmiany wartości innego produktu powiązanego z indeksem giełdowym, która nie byłaby w pełni zgodna ze zmianą kursów akcji wchodzących w skład indeksu;
 12)
@@ -72,6 +72,7 @@ zasadzie skonsolidowanej – rozumie się przez to zasadę skonsolidowaną, o kt
 Przepisy rozdziału 2 z wyjątkiem § 10 ust. 1 pkt 2, rozdziału 4 z wyjątkiem § 24 ust. 1 pkt 6 i ust. 2 oraz przepisy rozdziału 5 stosuje się do małego domu maklerskiego, przy czym przepisy § 8 stosuje się tylko do małego domu maklerskiego, o którym mowa w art. 110b ust. 3 ustawy.
 2.
 Przepisy rozdziału 3 stosuje się do małego domu maklerskiego objętego obowiązkami, o których mowa w art. 110e ust. 1–2 ustawy.
+System zarządzania ryzykiem w domu maklerskim
 § 4.
 1.
 Dom maklerski opracowuje i wdraża system zarządzania ryzykiem, na które jest lub może być narażony w związku z prowadzoną działalnością lub które stwarza lub mógłby stwarzać dla innych, uwzględniając w szczególności systemy i procesy stosowane w tej działalności oraz czynniki występujące w otoczeniu zewnętrznym domu maklerskiego, w szczególności wynikające ze stanu cyklu koniunkturalnego.
@@ -282,6 +283,7 @@ Dom maklerski określa przypadki, w których jest dopuszczalne przekroczenie lim
 W przypadku gdy dom maklerski, który jest podmiotem dominującym albo podmiotem zależnym, podlega obowiązkom, o których mowa w rozporządzeniu 2019/2033, na zasadzie skonsolidowanej, jest obowiązany spełniać wymogi określone w niniejszym rozdziale na zasadzie skonsolidowanej w celu zapewnienia spójności i wdrożenia stosowanych przez niego zasad i procedur wymaganych w niniejszym rozdziale oraz umożliwienia przedstawienia danych i informacji wymaganych do celów nadzoru ostrożnościowego sprawowanego przez Komisję Nadzoru Finansowego, zwaną dalej „Komisją”, lub właściwy organ nadzoru sprawujący nadzór na zasadzie skonsolidowanej.
 § 17.
 Dom maklerski zapewnia wdrożenie zasad i procedur określonych w niniejszym rozdziale odpowiednio w podmiotach zależnych. Dom maklerski zapewnia, aby podmioty zależne były w stanie przedstawić dane i informacje wymagane przez Komisję do celów nadzoru ostrożnościowego, chyba że przekazanie tych informacji jest sprzeczne z prawem państwa trzeciego, w którym podmiot zależny ma siedzibę.
+Szacowanie kapitału wewnętrznego i aktywów płynnych
 § 18.
 1.
 Zarząd domu maklerskiego zapewnia prawidłowość procesu szacowania kapitału wewnętrznego i aktywów płynnych przez przygotowanie i wdrożenie procesów oceny adekwatności kapitału wewnętrznego i oceny adekwatności aktywów płynnych, w tym zatwierdza szczegółowe polityki i procedury w tym zakresie.
@@ -376,6 +378,7 @@ Zarząd domu maklerskiego zapewnia przeprowadzanie, co najmniej raz w roku, prze
 Niezależnie od przeglądu, o którym mowa w ust. 1, proces szacowania kapitału wewnętrznego i aktywów płynnych jest na bieżąco dostosowywany przez zarząd domu maklerskiego do zmian w działalności prowadzonej przez dom maklerski, w szczególności w przypadkach wystąpienia nowych rodzajów ryzyka, znaczących zmian w strategii biznesowej i planach działania oraz w otoczeniu zewnętrznym domu maklerskiego.
 3.
 Proces szacowania kapitału wewnętrznego i aktywów płynnych oraz przegląd tego procesu podlegają, co najmniej raz w roku, niezależnej ocenie w ramach audytu wewnętrznego domu maklerskiego.
+Badanie i ocena nadzorcza
 § 23.
 1.
 Podstawowym instrumentem przeprowadzania badania i oceny nadzorczej jest nadzór analityczny.
@@ -426,6 +429,7 @@ zmiany w działalności domu maklerskiego;
 wdrożenie i stosowanie metod, o których mowa w art. 110u ustawy, w odniesieniu do nowych usług;
 3)
 właściwe stosowanie przez dom maklerski opracowanych i aktualnych technik i praktyk.
+Polityka wynagrodzeń
 § 25.
 1.
 Rada nadzorcza, co najmniej raz w roku, dokonuje przeglądów polityki wynagrodzeń i nadzoruje jej wdrożenie.
@@ -435,7 +439,7 @@ W przypadku gdy w domu maklerskim został powołany komitet do spraw wynagrodze�
 1.
 Polityka wynagrodzeń uwzględnia wielkość domu maklerskiego, ryzyko związane z jego działalnością, jego wewnętrzną organizację, a także zakres i stopień złożoności prowadzonej działalności.
 2.
-Polityka wynagrodzeń obejmuje osoby spełniające kryteria, o których mowa w rozporządzeniu delegowanym wydanym na podstawie art. 30 ust. 4 dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/2034 z dnia 27 listopada 2019 r. w sprawie nadzoru ostrożnościowego nad firmami inwestycyjnymi oraz zmieniającej dyrektywy 2002/87/WE, 2009/65/WE, 2011/61/UE, 2013/36/UE, 2014/59/UE i 2014/65/UE (Dz. Urz. UE L 314 z 05.12.2019, str. 64, z późn. zm.).
+Polityka wynagrodzeń obejmuje osoby spełniające kryteria, o których mowa w rozporządzeniu delegowanym wydanym na podstawie art. 30 ust. 4 dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/2034 z dnia 27 listopada 2019 r. w sprawie nadzoru ostrożnościowego nad firmami inwestycyjnymi oraz zmieniającej dyrektywy 2002/87/WE, 2009/65/WE, 2011/61/UE, 2013/36/UE, 2014/59/UE i 2014/65/UE (Dz. Urz. UE L 314 z 05.12.2019, str. 64, z późn. zm.)Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 195 z 19.06.2020, str. 120 oraz Dz. Urz. UE L 405 z 02.12.2020, str. 84..
 3.
 Dom maklerski prowadzi wykaz stanowisk obejmujących kategorie osób objętych polityką wynagrodzeń.
 4.
@@ -530,8 +534,7 @@ nie stanowi jednego z trzech największych domów maklerskich pod względem wiel
 2)
 nie jest domem maklerskim, o którym mowa w art. 110zi ust. 1 pkt 4 ustawy, albo jest domem maklerskim, o którym mowa w tym przepisie, w stosunku do którego została wydana decyzja, o której mowa w art. 110zp ust. 1 ustawy,
 3)
-posiada wielkość bilansową i pozabilansową działalności zaliczanej do portfela handlowego w wysokości nie wyższej niż równowartość w złotych 150 000 000 euro, ustalona według średniego kursu euro ogłaszanego przez Narodowy Bank Polski obowiązującego na koniec roku obrotowego, oraz wielkość bilansową i pozabilansową działalności na rynku instrumentów pochodnych w wysokości nie wyższej niż równowartość w złotych 100 000 000 euro, ustalona według średniego kursu euro ogłaszanego przez Narodowy Bank Polski obowiązującego na koniec roku obrotowego
-próg wartości aktywów bilansowych i pozabilansowych, o którym mowa w ust. 2 pkt 1, wynosi 300 000 000 euro.
+posiada wielkość bilansową i pozabilansową działalności zaliczanej do portfela handlowego w wysokości nie wyższej niż równowartość w złotych 150 000 000 euro, ustalona według średniego kursu euro ogłaszanego przez Narodowy Bank Polski obowiązującego na koniec roku obrotowego, oraz wielkość bilansową i pozabilansową działalności na rynku instrumentów pochodnych w wysokości nie wyższej niż równowartość w złotych 100 000 000 euro, ustalona według średniego kursu euro ogłaszanego przez Narodowy Bank Polski obowiązującego na koniec roku obrotowego – próg wartości aktywów bilansowych i pozabilansowych, o którym mowa w ust. 2 pkt 1, wynosi 300 000 000 euro.
 4.
 Komisja, w terminie do dnia 30 września danego roku kalendarzowego, podaje do publicznej wiadomości, w drodze komunikatu ogłaszanego w Dzienniku Urzędowym Komisji Nadzoru Finansowego, listę domów maklerskich, które posiadają aktywa na poziomie określonym zgodnie z ust. 3 pkt 1.
 5.
@@ -551,21 +554,33 @@ uwzględniały konieczność skutecznej realizacji polityki wynagrodzeń;
 zapewniały możliwość wstrzymania, ograniczenia, odmowy wypłaty lub realizacji zmiennych składników wynagrodzenia, w szczególności w przypadku gdy osoby objęte polityką wynagrodzeń uczestniczą w działaniach, których wynikiem są znaczne straty dla domu maklerskiego lub ponoszą odpowiedzialność za takie działania lub nie spełniają standardów dotyczących kompetencji i reputacji;
 3)
 zapobiegały unikaniu obowiązków wynikających z polityki wynagrodzeń.
+Przepisy przejściowe i końcowe
 § 32.
 Przepisy rozporządzenia nie mają zastosowania do zmiennych składników wynagrodzeń należnych za rok 2021 oraz za lata poprzednie.
 § 33.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947). 2) Niniejsze rozporządzenie: 1) w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/2034 z dnia 27 listopada 2019 r. w sprawie nadzoru ostrożnościowego nad firmami inwestycyjnymi oraz zmieniającą dyrektywy 2002/87/WE, 2009/65/WE, 2011/61/UE, 2013/36/UE, 2014/59/UE i 2014/65/UE (Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 195 z 19.06.2020, str. 120 oraz Dz. Urz. UE L 405 z 02.12.2020, str. 84); 2) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 r. w sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniającego rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 20 z 24.01.2020, str. 26 oraz Dz. Urz. UE L 405 z 02.12.2020, str. 79). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 27.06.2013, str. 1, Dz. Urz. UE L 279 z 19.10.2013, str. 2, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 173 z 12.06.2014, str. 84, Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 141 z 05.06.2015, str. 73, Dz. Urz. UE L 239 z 15.09.2015, str. 63, Dz. Urz. UE L 337 z 23.12.2015, str. 1, Dz. Urz. UE L 86 z 31.03.2017, str. 3, Dz. Urz. UE L 148 z 10.06.2017, str. 1, Dz. Urz. UE L 347 z 28.12.2017, str. 35, Dz. Urz. UE L 80 z 22.03.2019, str. 8, Dz. Urz. UE L 141 z 28.05.2019, str. 42, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 322 z 12.12.2019, str. 1, Dz. Urz. UE L 22 z 22.01.2021, str. 1 oraz Dz. Urz. UE L 49 z 12.02.2021, str. 6. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 5, Dz. Urz. UE L 60 z 28.02.2014, str. 34, Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 225 z 30.07.2014, str. 1, Dz. Urz. UE L 337 z 23.12.2015, str. 35, Dz. Urz. UE L 291 z 16.11.2018, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1 oraz Dz. Urz. UE L 334 z 27.12.2019, str. 1. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 20 z 24.01.2020, str. 26 oraz Dz. Urz. UE L 405 z 02.12.2020, str. 79. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 183 z 09.07.2019, str. 14, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 84 z 11.03.2021, str. 1 oraz Dz. Urz. UE L 116 z 06.04.2021, str. 25. 7) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 195 z 19.06.2020, str. 120 oraz Dz. Urz. UE L 405 z 02.12.2020, str. 84. 8) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 25 kwietnia 2017 r. w sprawie kapitału wewnętrznego, systemu zarządzania ryzykiem, programu oceny nadzorczej oraz badania i oceny nadzorczej, a także polityki wynagrodzeń w domu maklerskim (Dz. U. poz. 856), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 25 pkt 2 ustawy z dnia 25 lutego 2021 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 680 i 2140).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 25 kwietnia 2017 r. w sprawie kapitału wewnętrznego, systemu zarządzania ryzykiem, programu oceny nadzorczej oraz badania i oceny nadzorczej, a także polityki wynagrodzeń w domu maklerskim (Dz. U. poz. 856), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 25 pkt 2 ustawy z dnia 25 lutego 2021 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 680 i 2140). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947). 2) Niniejsze rozporządzenie: 1) w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/2034 z dnia 27 listopada 2019 r. w sprawie nadzoru ostrożnościowego nad firmami inwestycyjnymi oraz zmieniającą dyrektywy 2002/87/WE, 2009/65/WE, 2011/61/UE, 2013/36/UE, 2014/59/UE i 2014/65/UE (Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 195 z 19.06.2020, str. 120 oraz Dz. Urz. UE L 405 z 02.12.2020, str. 84); 2) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 r. w sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniającego rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 20 z 24.01.2020, str. 26 oraz Dz. Urz. UE L 405 z 02.12.2020, str. 79). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 27.06.2013, str. 1, Dz. Urz. UE L 279 z 19.10.2013, str. 2, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 173 z 12.06.2014, str. 84, Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 141 z 05.06.2015, str. 73, Dz. Urz. UE L 239 z 15.09.2015, str. 63, Dz. Urz. UE L 337 z 23.12.2015, str. 1, Dz. Urz. UE L 86 z 31.03.2017, str. 3, Dz. Urz. UE L 148 z 10.06.2017, str. 1, Dz. Urz. UE L 347 z 28.12.2017, str. 35, Dz. Urz. UE L 80 z 22.03.2019, str. 8, Dz. Urz. UE L 141 z 28.05.2019, str. 42, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 322 z 12.12.2019, str. 1, Dz. Urz. UE L 22 z 22.01.2021, str. 1 oraz Dz. Urz. UE L 49 z 12.02.2021, str. 6. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 5, Dz. Urz. UE L 60 z 28.02.2014, str. 34, Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 225 z 30.07.2014, str. 1, Dz. Urz. UE L 337 z 23.12.2015, str. 35, Dz. Urz. UE L 291 z 16.11.2018, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1 oraz Dz. Urz. UE L 334 z 27.12.2019, str. 1. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 20 z 24.01.2020, str. 26 oraz Dz. Urz. UE L 405 z 02.12.2020, str. 79. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 183 z 09.07.2019, str. 14, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 84 z 11.03.2021, str. 1 oraz Dz. Urz. UE L 116 z 06.04.2021, str. 25. 7) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 195 z 19.06.2020, str. 120 oraz Dz. Urz. UE L 405 z 02.12.2020, str. 84. 8) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 25 kwietnia 2017 r. w sprawie kapitału wewnętrznego, systemu zarządzania ryzykiem, programu oceny nadzorczej oraz badania i oceny nadzorczej, a także polityki wynagrodzeń w domu maklerskim (Dz. U. poz. 856), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 25 pkt 2 ustawy z dnia 25 lutego 2021 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 680 i 2140).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 System zarządzania ryzykiem w domu maklerskim
+#### Rozdział 2 – System zarządzania ryzykiem w domu maklerskim
 
-#### Rozdział 3 Szacowanie kapitału wewnętrznego i aktywów płynnych
+#### Rozdział 3 – Szacowanie kapitału wewnętrznego i aktywów płynnych
 
-#### Rozdział 4 Badanie i ocena nadzorcza
+#### Rozdział 4 – Badanie i ocena nadzorcza
 
-#### Rozdział 5 Polityka wynagrodzeń
+#### Rozdział 5 – Polityka wynagrodzeń
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

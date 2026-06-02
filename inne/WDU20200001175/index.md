@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 maja 2020 r. o zmianie ustawy o finansach publicznych
+# Ustawa z dnia 28 maja 2020 r. o zmianie ustawy o finansach publicznych Niniejsza ustawa uzupełnia wdrożenie dyrektywy Rady 2011/85/UE z dnia 8 listopada 2011 r. w sprawie wymogów dla ram budżetowych państw członkowskich (Dz. Urz. UE L 306 z 23.11.2011, str. 41).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-05-28 |
 | Data wydania | 2020-07-02 |
-| Wejście w życie | 2020-07-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001175) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1175/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568 i 695.) wprowadza się następujące zmiany:
 
 - **1)** w art. 104 w ust. 2 pkt 3 otrzymuje brzmienie: „
 - **3)** planowaną wstępną kwotę wydatków obliczoną zgodnie z art. 112aa ust. 1 albo art. 112d ust. 3; ” ;
@@ -41,7 +40,7 @@ source: "eli-html"
 - **1)** wprowadzenia stanu wojennego,
 - **2)** wprowadzenia stanu wyjątkowego na całym terytorium Rzeczypospolitej Polskiej,
 - **3)** wprowadzenia stanu klęski żywiołowej na całym terytorium Rzeczypospolitej Polskiej,
-- **4)** ogłoszenia stanu epidemii na całym obszarze Rzeczypospolitej Polskiej jeżeli prognozowana w projekcie ustawy budżetowej na rok, na który jest obliczana kwota wydatków, o której mowa w art. 112aa ust. 1, przedłożonym Sejmowi lub w projekcie ustawy zmieniającej ustawę budżetową na rok, na który jest obliczana kwota wydatków, o której mowa w art. 112aa ust. 1, przedłożonym Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych jest mniejsza o więcej niż dwa punkty procentowe od średniej dynamiki wartości produktu krajowego brutto obliczonej na podstawie ogłoszonej przez Prezesa Głównego Urzędu Statystycznego łącznej dynamiki wartości produktu krajowego brutto, o której mowa w art. 112aa ust. 1.
+- **4)** ogłoszenia stanu epidemii na całym obszarze Rzeczypospolitej Polskiej – jeżeli prognozowana w projekcie ustawy budżetowej na rok, na który jest obliczana kwota wydatków, o której mowa w art. 112aa ust. 1, przedłożonym Sejmowi lub w projekcie ustawy zmieniającej ustawę budżetową na rok, na który jest obliczana kwota wydatków, o której mowa w art. 112aa ust. 1, przedłożonym Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych jest mniejsza o więcej niż dwa punkty procentowe od średniej dynamiki wartości produktu krajowego brutto obliczonej na podstawie ogłoszonej przez Prezesa Głównego Urzędu Statystycznego łącznej dynamiki wartości produktu krajowego brutto, o której mowa w art. 112aa ust. 1.
 
 2. W przypadkach, o których mowa w ust. 1, Minister Finansów oblicza kwotę wydatków, o której mowa w art. 112aa ust. 1, oraz sumę, o której mowa w art. 112aa ust. 5.
 
@@ -62,5 +61,5 @@ source: "eli-html"
 
 **Art. 2.** Przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do projektu ustawy zmieniającej ustawę budżetową na rok 2020, jeżeli prognozowana w projekcie ustawy zmieniającej ustawę budże-tową na rok 2020 roczna dynamika wartości produktu krajowego brutto w cenach stałych na rok 2020 jest mniejsza o więcej niż dwa punkty procentowe od średniej dynamiki wartości produktu krajowego brutto obliczonej na podstawie ogłoszonej przez Prezesa Głównego Urzędu Statystycznego łącznej dynamiki wartości produktu krajowego brutto, o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa uzupełnia wdrożenie dyrektywy Rady 2011/85/UE z dnia 8 listopada 2011 r. w sprawie wymogów dla ram budżetowych państw członkowskich (Dz. Urz. UE L 306 z 23.11.2011, str. 41). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568 i 695.
 

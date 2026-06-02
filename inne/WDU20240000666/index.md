@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 22 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Klimatu i Środowiska w sprawie mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych
+# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 22 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Klimatu i Środowiska w sprawie mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 | Pole | Wartość |
 |---|---|
@@ -31,16 +31,13 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Klimatu i Środowiska z dnia 28 grudnia 2022 r. w sprawie mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych (Dz. U. z 2023 r. poz. 56), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Klimatu i Środowiska z dnia 17 listopada 2023 r. zmieniającym rozporządzenie w sprawie mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych (Dz. U. poz. 2524).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Klimatu i Środowiska z dnia 17 listopada 2023 r. zmieniającego rozporządzenie w sprawie mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych (Dz. U. poz. 2524), które stanowią: „ 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 11 sierpnia 2023 r. pod numerem 2023/0500/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę Parlamentu Europejskiego i Rady 2015/1535 z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). ”
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Klimatu i Środowiska z dnia 17 listopada 2023 r. zmieniającego rozporządzenie w sprawie mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych (Dz. U. poz. 2524), które stanowią: „ 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 11 sierpnia 2023 r. pod numerem 2023/0500/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę Parlamentu Europejskiego i Rady 2015/1535 z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). ” „
 § 2.
 Stosowane do dnia wejścia w życie rozporządzenia sita o wielkości oczek pozwalającej na wydzielanie frakcji podsitowej o granulometrii większej niż 100 mm mogą być stosowane nie dłużej niż do dnia 31 grudnia 2024 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
-Załącznik – Tekst jednolity rozporządzenia Ministra Klimatu i Środowiska z dnia 28 grudnia 2022 r. w sprawie mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych
-Na podstawie art. 33 ust. 3 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
+Załącznik – Tekst jednolity rozporządzenia Ministra Klimatu i Środowiska z dnia 28 grudnia 2022 r. w sprawie mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnychNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 12 września 2022 r. pod numerem 2022/609/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę Parlamentu Europejskiego i Rady 2015/1535 z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 33 ust. 3 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa wymagania dla:
 1)
@@ -53,7 +50,7 @@ odpadów powstających w wyniku procesu, o którym mowa w pkt 1.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
 instalacji – należy przez to rozumieć zespół stacjonarnych urządzeń technicznych, o którym mowa w art. 3 pkt 6 lit. b ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54);
-2)
+2Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 17 listopada 2023 r. zmieniającego rozporządzenie w sprawie mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych (Dz. U. poz. 2524), które weszło w życie z dniem 7 grudnia 2023 r.)
 kodzie – należy przez to rozumieć kod określony zgodnie z przepisami wydanymi na podstawie art. 4 ust. 3 ustawy z dnia 14 grudnia 2012 r. o odpadach, zwanej dalej „ustawą”.
 § 3.
 1.
@@ -61,17 +58,16 @@ Proces mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) od
 1)
 mechanicznego przetwarzania odpadów,
 2)
-biologicznego przetwarzania odpadów
-połączonych w jeden zintegrowany proces technologiczny przetwarzania tych odpadów prowadzony na terenie tego samego zakładu w celu ich przygotowania do recyklingu lub innych procesów odzysku lub do procesów unieszkodliwiania.
+biologicznego przetwarzania odpadów – połączonych w jeden zintegrowany proces technologiczny przetwarzania tych odpadów prowadzony na terenie tego samego zakładu w celu ich przygotowania do recyklingu lub innych procesów odzysku lub do procesów unieszkodliwiania.Część wspólna w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3.
 2.
 Proces mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych jest prowadzony w instalacji.
 3.
 Proces mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych nie może być prowadzony na kwaterze składowiska odpadów.
-4.
-Odpady kierowane do procesu mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych rozładowuje się w obiekcie budowlanym w rozumieniu art. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm.), który jest zamknięty w taki sposób, że co najmniej uniemożliwia oddziaływanie czynników atmosferycznych na te odpady, jest wyposażony w szczelne podłoże zapobiegające przedostawaniu się odcieków do środowiska i w urządzenia wentylacyjne oraz ograniczające emisje zanieczyszczeń, w szczególności przedostawanie się pyłów do powietrza.
+4W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3..
+Odpady kierowane do procesu mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych rozładowuje się w obiekcie budowlanym w rozumieniu art. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762, 1890, 1963 i 2029.), który jest zamknięty w taki sposób, że co najmniej uniemożliwia oddziaływanie czynników atmosferycznych na te odpady, jest wyposażony w szczelne podłoże zapobiegające przedostawaniu się odcieków do środowiska i w urządzenia wentylacyjne oraz ograniczające emisje zanieczyszczeń, w szczególności przedostawanie się pyłów do powietrza.
 § 4.
 1.
-Proces mechanicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych polegający na wydzieleniu z nich określonych frakcji dających się wykorzystać – w zależności od składu niesegregowanych (zmieszanych) odpadów komunalnych – materiałowo lub energetycznie oraz frakcji wymagającej dalszego biologicznego przetwarzania przebiega w obiekcie budowlanym w rozumieniu art. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, który jest zamknięty w taki sposób, że co najmniej uniemożliwia oddziaływanie czynników atmosferycznych na te odpady, jest wyposażony w szczelne podłoże zapobiegające przedostawaniu się odcieków do środowiska i w urządzenia wentylacyjne oraz ograniczające emisje zanieczyszczeń, w szczególności przedostawanie się pyłów do powietrza. Proces ten prowadzi do powstawania odpadów, w zależności od ich właściwości, o kodzie:
+Proces mechanicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych polegający na wydzieleniu z nich określonych frakcji dających się wykorzystać – w zależności od składu niesegregowanych (zmieszanych) odpadów komunalnych – materiałowo lub energetycznie oraz frakcji wymagającej dalszego biologicznego przetwarzania przebiega w obiekcie budowlanym w rozumieniu art. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, który jest zamknięty w taki sposób, że co najmniej uniemożliwia oddziaływanie czynników atmosferycznych na te odpady, jest wyposażony w szczelne podłoże zapobiegające przedostawaniu się odcieków do środowiska i w urządzenia wentylacyjne oraz ograniczające emisje zanieczyszczeń, w szczególności przedostawanie się pyłów do powietrza. Proces ten prowadzi do powstawania odpadów, w zależności od ich właściwości, o kodzie:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3.
 1)
 19 12 01 – Papier i tektura;
 2)
@@ -92,23 +88,23 @@ Proces mechanicznego przetwarzania niesegregowanych (zmieszanych) odpadów komun
 19 12 10 – Odpady palne (paliwo alternatywne);
 10)
 19 12 11* – Inne odpady (w tym zmieszane substancje i przedmioty) z mechanicznej obróbki odpadów zawierające substancje niebezpieczne;
-11)
+11W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3.)
 19 12 12 – Inne odpady (w tym zmieszane substancje i przedmioty) z mechanicznej obróbki odpadów inne niż wymienione w 19 12 11.
-1a.
+1aDodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 Wydzielenie frakcji wymagającej dalszego biologicznego przetwarzania odbywa się z wykorzystaniem sita o wielkości oczek nie większej niż 100 mm. Frakcję o granulometrii mniejszej niż zastosowane sito klasyfikuje się jako odpady o kodzie 19 12 12, zwane dalej „frakcją podsitową”.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 3.
 3.
-(uchylony).
-4.
+(uchylony).Przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 3.
+4W brzmieniu ustalonym przez § 1 pkt 3 lit. d rozporządzenia, o którym mowa w odnośniku 3..
 Dopuszcza się, aby po wydzieleniu na sicie odpady o kodzie 19 12 12 o frakcji o granulometrii nie większej niż 20 mm były przekazywane bez konieczności kierowania do biologicznego przetwarzania odpadów do składowania na składowisku odpadów zgodnie z przepisami wydanymi na podstawie art. 118 ustawy.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 3 lit. d rozporządzenia, o którym mowa w odnośniku 3..
 Dopuszcza się powstawanie z niesegregowanych (zmieszanych) odpadów komunalnych poddanych procesowi mechanicznego przetwarzania odpadów innych odpadów niż wskazane w ust. 1.
 6.
-(uchylony).
+(uchylony).Przez § 1 pkt 3 lit. e rozporządzenia, o którym mowa w odnośniku 3.
 7.
-(uchylony).
-8.
+(uchylony).Przez § 1 pkt 3 lit. e rozporządzenia, o którym mowa w odnośniku 3.
+8W brzmieniu ustalonym przez § 1 pkt 3 lit. f rozporządzenia, o którym mowa w odnośniku 3..
 W części instalacji, w której prowadzi się procesy mechanicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych, można prowadzić proces mechanicznego przetwarzania innych odpadów jako odrębne warianty eksploatacji instalacji, w szczególności można prowadzić:
 1)
 przetwarzanie odpadów selektywnie zebranych przez ich doczyszczanie lub rozsortowywanie;
@@ -116,88 +112,88 @@ przetwarzanie odpadów selektywnie zebranych przez ich doczyszczanie lub rozsort
 produkcję paliwa alternatywnego z odpadów innych niż odpady o kodzie 20 03 01.
 9.
 Odpady powstałe w procesie mechanicznego przetwarzania odpadów są kierowane zgodnie z hierarchią sposobów postępowania z odpadami do procesów odzysku albo do procesów unieszkodliwiania.
-10.
+10W brzmieniu ustalonym przez § 1 pkt 3 lit. g rozporządzenia, o którym mowa w odnośniku 3..
 Odpady powstałe w procesie mechanicznego przetwarzania odpadów klasyfikowane jako odpady o kodzie 19 12 10 są przetwarzane w procesie odzysku R1 albo procesie unieszkodliwiania D10. Procesy te mogą być poprzedzone odpowiednio procesem odzysku R12 albo procesem unieszkodliwiania D13.
-11.
+11Ze zmianą wprowadzoną przez § 1 pkt 3 lit. h rozporządzenia, o którym mowa w odnośniku 3..
 Mechaniczne przetwarzanie odpadów, o którym mowa w ust. 1, 1a i 4, stanowi proces odzysku R12 albo proces unieszkodliwiania D13.
 12.
-(uchylony).
+(uchylony).Przez § 1 pkt 3 lit. i rozporządzenia, o którym mowa w odnośniku 3.
 § 5.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 3..
 Frakcja podsitowa wymaga zastosowania procesu biologicznego przetwarzania odpadów, który stanowi proces prowadzony w warunkach tlenowych lub beztlenowych, z udziałem mikroorganizmów, w wyniku którego następuje zmiana właściwości fizycznych, chemicznych lub biologicznych tej frakcji.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 3.
 3.
 Frakcja podsitowa nie może być mieszana z odpadami zbieranymi w sposób selektywny.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 3..
 W części instalacji, w której prowadzi się proces biologicznego przetwarzania frakcji podsitowej, możliwe jest prowadzenie procesu biologicznego przetwarzania selektywnie zebranych bioodpadów, w wyniku którego powstają:
 1)
-produkty nawozowe, nawozy lub środki wspomagające uprawę roślin spełniające wymagania określone w przepisach rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1009 z dnia 5 czerwca 2019 r. ustanawiającego przepisy dotyczące udostępniania na rynku produktów nawozowych UE, zmieniającego rozporządzenia (WE) nr 1069/2009 i (WE) nr 1107/2009 oraz uchylającego rozporządzenie (WE) nr 2003/2003 (Dz. Urz. UE L 170 z 25.06.2019, str. 1, z późn. zm.) lub ustawy z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. z 2024 r. poz. 105), lub
+produkty nawozowe, nawozy lub środki wspomagające uprawę roślin spełniające wymagania określone w przepisach rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1009 z dnia 5 czerwca 2019 r. ustanawiającego przepisy dotyczące udostępniania na rynku produktów nawozowych UE, zmieniającego rozporządzenia (WE) nr 1069/2009 i (WE) nr 1107/2009 oraz uchylającego rozporządzenie (WE) nr 2003/2003 (Dz. Urz. UE L 170 z 25.06.2019, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 22.11.2019, str. 129, Dz. Urz. UE L 48 z 11.02.2021, str. 6, Dz. Urz. UE L 356 z 08.10.2021, str. 8, Dz. Urz. UE L 427 z 30.11.2021, str. 120, 130 i 140, Dz. Urz. UE L 83 z 10.03.2022, str. 66, Dz. Urz. UE L 161 z 16.06.2022, str. 121, Dz. Urz. UE L 183 z 08.07.2022, str. 2, Dz. Urz. UE L 233 z 08.09.2022, str. 91, Dz. Urz. UE L 236 z 13.09.2022, str. 5, Dz. Urz. UE L 59 z 24.02.2023, str. 1 oraz Dz. Urz. UE L z 16.10.2023.) lub ustawy z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. z 2024 r. poz. 105), lub
 2)
 odpady po procesie kompostowania lub fermentacji.
 5.
 Proces biologicznego przetwarzania odpadów, o którym mowa w ust. 4, prowadzi się jako odrębny wariant eksploatacji instalacji.
-6.
+6W brzmieniu ustalonym przez § 1 pkt 4 lit. d rozporządzenia, o którym mowa w odnośniku 3..
 Proces biologicznego przetwarzania odpadów frakcji podsitowej w warunkach tlenowych prowadzi się:
 1)
 w zamkniętym urządzeniu technicznym wykonanym z materiału wytrzymałego na uszkodzenia mechaniczne i zapewniającym szczelność prowadzonego procesu (reaktorze) lub w zamkniętej hali, z systemem odbierania odcieków, z aktywnym napowietrzaniem oraz z ujmowaniem i oczyszczaniem gazów powstałych w wyniku prowadzenia procesu (powietrze procesowe), oraz
 2)
 do czasu osiągnięcia przez odpady parametrów o wartościach: AT4 poniżej 10 mg O2/g suchej masy, straty prażenia mniejszej niż 35% i zawartości węgla organicznego mniejszej niż 20% suchej masy.
-6a.
+6aDodany przez § 1 pkt 4 lit. e rozporządzenia, o którym mowa w odnośniku 3..
 W stosunku do odpadów, które osiągnęły wartość parametru AT4 poniżej 20 mg O2/g suchej masy w wyniku procesu biologicznego przetwarzania odpadów w warunkach wskazanych w ust. 6 pkt 1, proces ten można kontynuować w pryzmach, które są usytuowane na szczelnym podłożu zapobiegającym przedostawaniu się odcieków do środowiska wyposażonym w system odbierania odcieków i które są aktywnie napowietrzane lub napowietrzane przez mechaniczne przerzucanie odpadów co najmniej raz w tygodniu, do czasu osiągnięcia parametrów, o których mowa w ust. 6 pkt 2.
 7.
-(uchylony).
-8.
+(uchylony).Przez § 1 pkt 4 lit. f rozporządzenia, o którym mowa w odnośniku 3.
+8W brzmieniu ustalonym przez § 1 pkt 4 lit. g rozporządzenia, o którym mowa w odnośniku 3..
 W przypadku procesu biologicznego przetwarzania odpadów frakcji podsitowej w warunkach beztlenowych powstałe odpady poddaje się stabilizacji w procesie biologicznego przetwarzania odpadów w warunkach tlenowych.
-8a.
+8aDodany przez § 1 pkt 4 lit. h rozporządzenia, o którym mowa w odnośniku 3..
 Z odpadów powstałych w procesie biologicznego przetwarzania odpadów wydziela się, o ile jest to możliwe, odpady nadające się w całości lub w części do recyklingu.
-9.
+9W brzmieniu ustalonym przez § 1 pkt 4 lit. i rozporządzenia, o którym mowa w odnośniku 3..
 Pozostałe po wydzieleniu odpady spełniające wymagania, o których mowa w ust. 6 pkt 2, klasyfikuje się jako odpady o kodzie 19 05 99 – Inne niewymienione odpady, zwane dalej „stabilizatem”.
 10.
 Stabilizat jest unieszkodliwiany przez składowanie na składowiskach odpadów innych niż niebezpieczne i obojętne albo termicznie przekształcany.
 11.
-Wydzielona na sicie frakcja stabilizatu o granulometrii nie większej niż 20 mm może być stosowana do procesu odzysku wyłącznie na składowisku odpadów lub w obiekcie unieszkodliwiania odpadów wydobywczych. Frakcja ta jest klasyfikowana jako odpady o kodzie 19 05 03 – Kompost nieodpowiadający wymaganiom (nienadający się do wykorzystania).
-12.
+Wydzielona na sicie frakcja stabilizatu o granulometrii nie większej niż 20 mm może być stosowana do procesu odzysku wyłącznie na składowisku odpadów lub w obiekcie unieszkodliwiania odpadów wydobywczych.Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 4 lit. j rozporządzenia, o którym mowa w odnośniku 3. Frakcja ta jest klasyfikowana jako odpady o kodzie 19 05 03 – Kompost nieodpowiadający wymaganiom (nienadający się do wykorzystania).
+12W brzmieniu ustalonym przez § 1 pkt 4 lit. k rozporządzenia, o którym mowa w odnośniku 3..
 Odpady pozostające po wydzieleniu frakcji stabilizatu, o której mowa w ust. 11, są nadal klasyfikowane jako odpady o kodzie 19 05 99.
-13.
+13Ze zmianą wprowadzoną przez § 1 pkt 4 lit. 1 rozporządzenia, o którym mowa w odnośniku 3..
 Biologiczne przetwarzanie odpadów, o którym mowa w ust. 1, stanowi proces odzysku R3 albo proces unieszkodliwiania D8.
 14.
 Biologiczne przetwarzanie odpadów, o którym mowa w ust. 4, stanowi proces odzysku R3.
-15.
+15W brzmieniu ustalonym przez § 1 pkt 4 lit. m rozporządzenia, o którym mowa w odnośniku 3..
 Mechaniczne przetwarzanie odpadów, o którym mowa w ust. 8a i 11, stanowi proces odzysku R12 albo proces unieszkodliwiania D13.
 § 6.
 1.
 Dopuszcza się proces biologicznego przetwarzania odpadów z wykorzystaniem procesu biologicznego suszenia niesegregowanych (zmieszanych) odpadów komunalnych lub frakcji podsitowej, polegający na biologicznym suszeniu odpadów przez co najmniej 7 dni w warunkach tlenowych w reaktorze lub w zamkniętej hali, z systemem odbierania odcieków, z aktywnym napowietrzaniem oraz z oczyszczaniem gazów powstałych w wyniku prowadzenia procesu (powietrze procesowe).
-2.
+2W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 3..
 Odpady powstałe w procesie biologicznego suszenia odpadów klasyfikuje się jako odpady o kodzie 19 05 01 – Nieprzekompostowane frakcje odpadów komunalnych i podobnych oraz poddaje się je dalszemu mechanicznemu przetwarzaniu odpadów. Przepisy § 4 stosuje się odpowiednio.
-2a.
+2aDodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 W przypadku poddania procesowi biologicznego suszenia frakcji podsitowej dopuszcza się zakwalifikowanie powstających odpadów jako odpadów o kodzie 19 12 10, o ile nie wymagają one wydzielenia z nich innych frakcji.
 3.
-(uchylony).
-4.
+(uchylony).Przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 3.
+4W brzmieniu ustalonym przez § 1 pkt 5 lit. d rozporządzenia, o którym mowa w odnośniku 3..
 Odpady powstałe w procesie biologicznego suszenia odpadów klasyfikowane jako odpady o kodzie 19 12 10 są przetwarzane w procesie odzysku R1 albo procesie unieszkodliwiania D10.
 5.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 lit. e rozporządzenia, o którym mowa w odnośniku 3.
 6.
 Biologiczne przetwarzanie odpadów z wykorzystaniem procesu biologicznego suszenia stanowi proces odzysku R3 albo proces unieszkodliwiania D8.
 7.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 lit. f rozporządzenia, o którym mowa w odnośniku 3.
 § 7.
-(uchylony).
-§ 8.
+(uchylony).Przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3.
+§ 8W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3..
 Odpady powstałe w procesie biologicznego przetwarzania odpadów frakcji podsitowej, w tym pozostałe po wydzieleniu odpadów zgodnie z § 5 ust. 8a, niebędące stabilizatem:
 1)
 wymagają dalszego przetwarzania w procesie biologicznego przetwarzania odpadów albo
 2)
 jeżeli proces biologicznego przetwarzania odpadów w warunkach tlenowych prowadzony przez co najmniej 4 tygodnie nie doprowadził do osiągnięcia parametrów o wartościach, o których mowa w § 5 ust. 6 pkt 2, mogą zostać przekazane do termicznego przekształcania odpadów.
-§ 9.
+§ 9W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3..
 1.
 Wymagania określone w § 5 ust. 6 pkt 2 uważa się za spełnione, jeżeli po zakończeniu każdego procesu biologicznego przetwarzania odpadów w warunkach tlenowych zostaną one potwierdzone badaniami laboratoryjnymi wykonanymi przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska. Badania przeprowadza się w celu wykazania, że odpady, które mają zostać przekazane do składowania odpadów lub termicznego przekształcania odpadów zgodnie z § 5 ust. 10, spełniają wymagania dla stabilizatu. Próbki odpadów do badań pobiera przedstawiciel tego laboratorium.
 2.
 Jeżeli w odniesieniu do procesów prowadzonych w takich samych warunkach technologicznych wyniki co najmniej 3 następujących po sobie badań potwierdziły spełnienie wymagań, o których mowa w § 5 ust. 6 pkt 2, dopuszcza się prowadzenie badań co najmniej raz na kwartał, jeżeli warunki technologiczne prowadzenia procesu nie uległy zmianie.
 § 10.
-(uchylony).
-§ 11.
+(uchylony).Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 3.
+§ 11W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 3..
 1.
 Do procesu mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych prowadzonego na podstawie zezwolenia na przetwarzanie odpadów albo pozwolenia na wytwarzanie odpadów obejmującego zezwolenie na przetwarzanie odpadów, wydanych przed dniem wejścia w życie rozporządzenia, do instalacji, w której ten proces jest prowadzony, oraz do odpadów powstających w tym procesie stosuje się wymagania określone w tym zezwoleniu albo pozwoleniu.
 2.
@@ -205,6 +201,5 @@ Instalacje, dla których nie jest wymagane uzyskanie pozwolenia zintegrowanego, 
 3.
 Do procesu mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych prowadzonego na podstawie pozwolenia zintegrowanego wydanego przed dniem wejścia w życie rozporządzenia, do instalacji, w której ten proces jest prowadzony, oraz do odpadów powstających w tym procesie, do czasu zmiany tego pozwolenia, stosuje się wymagania określone w tym pozwoleniu.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 12 września 2022 r. pod numerem 2022/609/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę Parlamentu Europejskiego i Rady 2015/1535 z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 17 listopada 2023 r. zmieniającego rozporządzenie w sprawie mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych (Dz. U. poz. 2524), które weszło w życie z dniem 7 grudnia 2023 r. 4) Część wspólna w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762, 1890, 1963 i 2029. 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 8) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 9) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 3. 10) Przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 3. 11) W brzmieniu ustalonym przez § 1 pkt 3 lit. d rozporządzenia, o którym mowa w odnośniku 3. 12) Przez § 1 pkt 3 lit. e rozporządzenia, o którym mowa w odnośniku 3. 13) W brzmieniu ustalonym przez § 1 pkt 3 lit. f rozporządzenia, o którym mowa w odnośniku 3. 14) W brzmieniu ustalonym przez § 1 pkt 3 lit. g rozporządzenia, o którym mowa w odnośniku 3. 15) Ze zmianą wprowadzoną przez § 1 pkt 3 lit. h rozporządzenia, o którym mowa w odnośniku 3. 16) Przez § 1 pkt 3 lit. i rozporządzenia, o którym mowa w odnośniku 3. 17) Ze zmianą wprowadzoną przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 3. 18) Przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 3. 19) W brzmieniu ustalonym przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 3. 20) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 22.11.2019, str. 129, Dz. Urz. UE L 48 z 11.02.2021, str. 6, Dz. Urz. UE L 356 z 08.10.2021, str. 8, Dz. Urz. UE L 427 z 30.11.2021, str. 120, 130 i 140, Dz. Urz. UE L 83 z 10.03.2022, str. 66, Dz. Urz. UE L 161 z 16.06.2022, str. 121, Dz. Urz. UE L 183 z 08.07.2022, str. 2, Dz. Urz. UE L 233 z 08.09.2022, str. 91, Dz. Urz. UE L 236 z 13.09.2022, str. 5, Dz. Urz. UE L 59 z 24.02.2023, str. 1 oraz Dz. Urz. UE L z 16.10.2023. 21) W brzmieniu ustalonym przez § 1 pkt 4 lit. d rozporządzenia, o którym mowa w odnośniku 3. 22) Dodany przez § 1 pkt 4 lit. e rozporządzenia, o którym mowa w odnośniku 3. 23) Przez § 1 pkt 4 lit. f rozporządzenia, o którym mowa w odnośniku 3. 24) W brzmieniu ustalonym przez § 1 pkt 4 lit. g rozporządzenia, o którym mowa w odnośniku 3. 25) Dodany przez § 1 pkt 4 lit. h rozporządzenia, o którym mowa w odnośniku 3. 26) W brzmieniu ustalonym przez § 1 pkt 4 lit. i rozporządzenia, o którym mowa w odnośniku 3. 27) Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 4 lit. j rozporządzenia, o którym mowa w odnośniku 3. 28) W brzmieniu ustalonym przez § 1 pkt 4 lit. k rozporządzenia, o którym mowa w odnośniku 3. 29) Ze zmianą wprowadzoną przez § 1 pkt 4 lit. 1 rozporządzenia, o którym mowa w odnośniku 3. 30) W brzmieniu ustalonym przez § 1 pkt 4 lit. m rozporządzenia, o którym mowa w odnośniku 3. 31) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 3. 32) Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 3. 33) Przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 3. 34) W brzmieniu ustalonym przez § 1 pkt 5 lit. d rozporządzenia, o którym mowa w odnośniku 3. 35) Przez § 1 pkt 5 lit. e rozporządzenia, o którym mowa w odnośniku 3. 36) Przez § 1 pkt 5 lit. f rozporządzenia, o którym mowa w odnośniku 3. 37) Przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3. 38) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3. 39) Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 3. 40) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 3. 41) Rozporządzenie zostało ogłoszone w dniu 9 stycznia 2023 r. 42) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 11 września 2012 r. w sprawie mechaniczno-biologicznego przetwarzania zmieszanych odpadów komunalnych (Dz. U. poz. 1052), które zgodnie z art. 250 ust. 2 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2022 r. poz. 699, 1250, 1726, 2127 i 2722) utraciło moc z dniem 24 stycznia 2016 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 9 stycznia 2023 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 11 września 2012 r. w sprawie mechaniczno-biologicznego przetwarzania zmieszanych odpadów komunalnych (Dz. U. poz. 1052), które zgodnie z art. 250 ust. 2 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2022 r. poz. 699, 1250, 1726, 2127 i 2722) utraciło moc z dniem 24 stycznia 2016 r. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 12 września 2022 r. pod numerem 2022/609/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę Parlamentu Europejskiego i Rady 2015/1535 z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 17 listopada 2023 r. zmieniającego rozporządzenie w sprawie mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych (Dz. U. poz. 2524), które weszło w życie z dniem 7 grudnia 2023 r. 4) Część wspólna w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762, 1890, 1963 i 2029. 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 8) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 9) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 3. 10) Przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 3. 11) W brzmieniu ustalonym przez § 1 pkt 3 lit. d rozporządzenia, o którym mowa w odnośniku 3. 12) Przez § 1 pkt 3 lit. e rozporządzenia, o którym mowa w odnośniku 3. 13) W brzmieniu ustalonym przez § 1 pkt 3 lit. f rozporządzenia, o którym mowa w odnośniku 3. 14) W brzmieniu ustalonym przez § 1 pkt 3 lit. g rozporządzenia, o którym mowa w odnośniku 3. 15) Ze zmianą wprowadzoną przez § 1 pkt 3 lit. h rozporządzenia, o którym mowa w odnośniku 3. 16) Przez § 1 pkt 3 lit. i rozporządzenia, o którym mowa w odnośniku 3. 17) Ze zmianą wprowadzoną przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 3. 18) Przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 3. 19) W brzmieniu ustalonym przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 3. 20) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 22.11.2019, str. 129, Dz. Urz. UE L 48 z 11.02.2021, str. 6, Dz. Urz. UE L 356 z 08.10.2021, str. 8, Dz. Urz. UE L 427 z 30.11.2021, str. 120, 130 i 140, Dz. Urz. UE L 83 z 10.03.2022, str. 66, Dz. Urz. UE L 161 z 16.06.2022, str. 121, Dz. Urz. UE L 183 z 08.07.2022, str. 2, Dz. Urz. UE L 233 z 08.09.2022, str. 91, Dz. Urz. UE L 236 z 13.09.2022, str. 5, Dz. Urz. UE L 59 z 24.02.2023, str. 1 oraz Dz. Urz. UE L z 16.10.2023. 21) W brzmieniu ustalonym przez § 1 pkt 4 lit. d rozporządzenia, o którym mowa w odnośniku 3. 22) Dodany przez § 1 pkt 4 lit. e rozporządzenia, o którym mowa w odnośniku 3. 23) Przez § 1 pkt 4 lit. f rozporządzenia, o którym mowa w odnośniku 3. 24) W brzmieniu ustalonym przez § 1 pkt 4 lit. g rozporządzenia, o którym mowa w odnośniku 3. 25) Dodany przez § 1 pkt 4 lit. h rozporządzenia, o którym mowa w odnośniku 3. 26) W brzmieniu ustalonym przez § 1 pkt 4 lit. i rozporządzenia, o którym mowa w odnośniku 3. 27) Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 4 lit. j rozporządzenia, o którym mowa w odnośniku 3. 28) W brzmieniu ustalonym przez § 1 pkt 4 lit. k rozporządzenia, o którym mowa w odnośniku 3. 29) Ze zmianą wprowadzoną przez § 1 pkt 4 lit. 1 rozporządzenia, o którym mowa w odnośniku 3. 30) W brzmieniu ustalonym przez § 1 pkt 4 lit. m rozporządzenia, o którym mowa w odnośniku 3. 31) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 3. 32) Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 3. 33) Przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 3. 34) W brzmieniu ustalonym przez § 1 pkt 5 lit. d rozporządzenia, o którym mowa w odnośniku 3. 35) Przez § 1 pkt 5 lit. e rozporządzenia, o którym mowa w odnośniku 3. 36) Przez § 1 pkt 5 lit. f rozporządzenia, o którym mowa w odnośniku 3. 37) Przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3. 38) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3. 39) Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 3. 40) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 3. 41) Rozporządzenie zostało ogłoszone w dniu 9 stycznia 2023 r. 42) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 11 września 2012 r. w sprawie mechaniczno-biologicznego przetwarzania zmieszanych odpadów komunalnych (Dz. U. poz. 1052), które zgodnie z art. 250 ust. 2 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2022 r. poz. 699, 1250, 1726, 2127 i 2722) utraciło moc z dniem 24 stycznia 2016 r.
 

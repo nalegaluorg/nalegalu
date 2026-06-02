@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-10 |
 | Data wydania | 2015-09-09 |
-| Wejście w życie | 2015-10-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001338) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1338/text.pdf) |
 
@@ -40,9 +39,9 @@ source: "eli-html"
 2a. Nie wymaga uzyskania zgody ministra właściwego do spraw rozwoju wsi przeznaczenie na cele nierolnicze i nieleśne gruntów rolnych stanowiących użytki rolne klas I-III, jeżeli grunty te spełniają łącznie następujące warunki:
 
 - **1)** co najmniej połowa powierzchni każdej zwartej części gruntu zawiera się w obszarze zwartej zabudowy;
-- **2)** położone są w odległości nie większej niż 50 m od granicy najbliższej działki budowlanej w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2015 r. poz. 782, z późn. zm.);
+- **2)** położone są w odległości nie większej niż 50 m od granicy najbliższej działki budowlanej w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2015 r. poz. 782, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 985, 1039, 1180, 1265 i 1322.);
 - **3)** położone są w odległości nie większej niż 50 metrów od drogi publicznej w rozumieniu przepisów ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460, 774 i 870);
 - **4)** ich powierzchnia nie przekracza 0,5 ha, bez względu na to, czy stanowią jedną całość, czy stanowią kilka odrębnych części. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 985, 1039, 1180, 1265 i 1322.
 

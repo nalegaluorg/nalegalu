@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 29 lutego 2024 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty płatności dla obszarów z ograniczeniami naturalnymi lub innymi szczególnymi ograniczeniami w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 29 lutego 2024 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty płatności dla obszarów z ograniczeniami naturalnymi lub innymi szczególnymi ograniczeniami w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-29 |
 | Data wydania | 2024-03-01 |
-| Wejście w życie | 2024-03-15 |
 | Ostatnia zmiana | 2025-08-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000299) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/299/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 10 marca 2023 r. w spr
 1)
 w § 3 w ust. 1:
 a)
-pkt 5 otrzymuje brzmienie :
-„
+pkt 5 otrzymuje brzmienie : „
 5)
 676 zł – na obszarze ONW typu specyficznego strefy II, w którym co najmniej 50% powierzchni użytków rolnych jest położonych powyżej 350 m n.p.m., jeżeli rolnik jest posiadaczem zwierząt gatunków:
 a)
@@ -58,18 +56,13 @@ muły ( Equus mule ),
 j)
 osły ( Equus asinus ),
 k)
-owce ( Ovis aries )
-których liczba w przeliczeniu na duże jednostki przeliczeniowe (DJP) wynosi co najmniej 0,3 DJP na hektar wszystkich użytków rolnych będących w posiadaniu rolnika;
-” ,
+owce ( Ovis aries ) – których liczba w przeliczeniu na duże jednostki przeliczeniowe (DJP) wynosi co najmniej 0,3 DJP na hektar wszystkich użytków rolnych będących w posiadaniu rolnika; ” ,
 b)
-pkt 7 otrzymuje brzmienie :
-„
+pkt 7 otrzymuje brzmienie : „
 7)
-829 zł – na obszarze ONW typu górskiego, jeżeli rolnik jest posiadaczem zwierząt gatunków wymienionych w pkt 5, których liczba w przeliczeniu na DJP wynosi co najmniej 0,3 DJP na hektar wszystkich użytków rolnych będących w posiadaniu tego rolnika.
-” ;
+829 zł – na obszarze ONW typu górskiego, jeżeli rolnik jest posiadaczem zwierząt gatunków wymienionych w pkt 5, których liczba w przeliczeniu na DJP wynosi co najmniej 0,3 DJP na hektar wszystkich użytków rolnych będących w posiadaniu tego rolnika. ” ;
 2)
-w § 4 w ust. 5 część wspólna otrzymuje brzmienie:
-„
+w § 4 w ust. 5 część wspólna otrzymuje brzmienie: „
 – których liczba w przeliczeniu na DJP wynosi co najmniej 0,3 DJP na hektar wszystkich użytków rolnych.
 ” .
 § 2.
@@ -77,9 +70,7 @@ Do przyznawania pomocy finansowej w ramach płatności dla obszarów określonyc
 1)
 wszczętymi i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszego rozporządzenia,
 2)
-zakończonymi ostateczną decyzją wydaną na podstawie przepisów dotychczasowych, w przypadku gdy zostały one wznowione od dnia wejścia w życie niniejszego rozporządzenia
-stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+zakończonymi ostateczną decyzją wydaną na podstawie przepisów dotychczasowych, w przypadku gdy zostały one wznowione od dnia wejścia w życie niniejszego rozporządzenia – stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 15 marca 2024 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
+Rozporządzenie wchodzi w życie z dniem 15 marca 2024 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 

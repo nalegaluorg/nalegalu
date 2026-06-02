@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 21 listopada 2024 r. o zmianie ustawy o transporcie drogowym
+# Ustawa z dnia 21 listopada 2024 r. o zmianie ustawy o transporcie drogowym Niniejsza ustawa: 1) wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2022/738 z dnia 6 kwietnia 2022 r. dotyczącą zmiany dyrektywy 2006/1/WE w sprawie użytkowania pojazdów najmowanych bez kierowców w celu przewozu drogowego rzeczy (Dz. Urz. UE L 137 z 16.05.2022, str. 1); 2) służy stosowaniu: a) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1055 z dnia 15 lipca 2020 r. zmieniającego rozporządzenia (WE) nr 1071/2009, (WE) nr 1072/2009 i (UE) nr 1024/2012 w celu dostosowania ich do zmian w transporcie drogowym (Dz. Urz. UE L 249 z 31.07.2020, str. 17), b) rozporządzenia wykonawczego Komisji (UE) 2022/694 z dnia 2 maja 2022 r. zmieniającego rozporządzenie (UE) 2016/403 w odniesieniu do nowych poważnych naruszeń przepisów unijnych, które mogą prowadzić do utraty dobrej reputacji przez przewoźnika drogowego (Dz. Urz. UE L 129 z 03.05.2022, str. 22).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-21 |
 | Data wydania | 2024-12-16 |
-| Wejście w życie | 2024-12-31 |
 | Ostatnia zmiana | 2025-10-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001855) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1855/text.pdf) |
 
@@ -36,7 +35,7 @@ source: "eli-html"
 - **1)** krajowy transport drogowy – podejmowanie i wykonywanie działalności gospodarczej w zakresie przewozu osób lub rzeczy pojazdami samochodowymi zarejestrowanymi w kraju oraz pojazdami najmowanymi, za które uważa się również zespoły pojazdów składające się z pojazdu samochodowego i przyczepy lub naczepy, na terytorium Rzeczypospolitej Polskiej, przy czym jazda pojazdu, miejsce rozpoczęcia i zakończenia podróży, a także cała trasa znajdują się na terytorium Rzeczypospolitej Polskiej; ” , pkt 12 otrzymuje brzmienie: „
     - **b)**
 
-- **12)** przewóz kabotażowy – przewóz: kabotażowy w rozumieniu art. 2 pkt 6 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1072/2009 z dnia 21 października 2009 r. dotyczącego wspólnych zasad dostępu do rynku międzynarodowych przewozów drogowych (Dz. Urz. UE L 300 z 14.11.2009, str. 72, z późn. zm.), kabotażowy w rozumieniu art. 2 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006 (Dz. Urz. UE L 300 z 14.11.2009, str. 88, z późn. zm.), wykonywany między miejscami położonymi na terytorium Rzeczypospolitej Polskiej przez przedsiębiorcę zagranicznego mającego siedzibę w państwie innym niż państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym, wykonywany między miejscami położonymi na terytorium Rzeczypospolitej Polskiej pojazdem samochodowym zarejestrowanym lub dopuszczonym do ruchu za granicą, innym niż pojazd najmowany; ” , w pkt 19a skreśla się wyrazy „(Dz. Urz. UE L 300 z 14.11.2009, str. 88, z późn. zm.)”, w pkt 22 w lit. e skreśla się wyrazy „(Dz. Urz. UE L 300 z 14.11.2009, str. 72, z późn. zm.)”, w pkt 24 w części wspólnej kropkę zastępuje się średnikiem i dodaje się pkt 25 w brzmieniu: „
+- **12)** przewóz kabotażowy – przewóz: kabotażowy w rozumieniu art. 2 pkt 6 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1072/2009 z dnia 21 października 2009 r. dotyczącego wspólnych zasad dostępu do rynku międzynarodowych przewozów drogowych (Dz. Urz. UE L 300 z 14.11.2009, str. 72, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 178 z 10.07.2012, str. 5, Dz. Urz. UE L 158 z 10.06.2013, str. 1 oraz Dz. Urz. UE L 249 z 31.07.2020, str. 17., kabotażowy w rozumieniu art. 2 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006 (Dz. Urz. UE L 300 z 14.11.2009, str. 88, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 48 z 23.02.2011, str. 19, Dz. Urz. UE L 178 z 10.07.2012, str. 4, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 293 z 09.10.2014, str. 60 oraz Dz. Urz. UE L 272 z 16.10.2015, str. 15., wykonywany między miejscami położonymi na terytorium Rzeczypospolitej Polskiej przez przedsiębiorcę zagranicznego mającego siedzibę w państwie innym niż państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym, wykonywany między miejscami położonymi na terytorium Rzeczypospolitej Polskiej pojazdem samochodowym zarejestrowanym lub dopuszczonym do ruchu za granicą, innym niż pojazd najmowany; ” , w pkt 19a skreśla się wyrazy „(Dz. Urz. UE L 300 z 14.11.2009, str. 88, z późn. zm.)”, w pkt 22 w lit. e skreśla się wyrazy „(Dz. Urz. UE L 300 z 14.11.2009, str. 72, z późn. zm.)”, w pkt 24 w części wspólnej kropkę zastępuje się średnikiem i dodaje się pkt 25 w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
@@ -124,7 +123,9 @@ source: "eli-html"
 2c. Komendant Główny Policji, Szef Krajowej Administracji Skarbowej oraz wojewódzki inspektor transportu drogowego przekazują Głównemu Inspektorowi Transportu Drogowego zbiorczą informację dotyczącą kontroli przestrzegania przepisów w zakresie przewozów kabotażowych, corocznie, w terminie do dnia 28 lutego roku następnego. ” ;
 
 - **12)** w art. 92a w ust. 2 wyrazy „200 złotych” zastępuje się wyrazami „50 złotych”;
-- **13)** w załączniku nr 3 do ustawy w lp. 1 po pkt 1.5 dodaje się pkt 1.5a i 1.5b w brzmieniu: 1.5a. Wykonywanie przewozu drogowego rzeczy z naruszeniem art. 11d ust. 1 ustawy o transporcie drogowym1) 5000 1.5b. Wykonywanie przewozu drogowego rzeczy z naruszeniem art. 11e ust. 1 ustawy o transporcie drogowym1) 5000
+- **13)** w załączniku nr 3 do ustawy w lp. 1 po pkt 1.5 dodaje się pkt 1.5a i 1.5b w brzmieniu:
+
+1. 5a. Wykonywanie przewozu drogowego rzeczy z naruszeniem art. 11d ust. 1 ustawy o transporcie drogowym1) 5000 1.5b. Wykonywanie przewozu drogowego rzeczy z naruszeniem art. 11e ust. 1 ustawy o transporcie drogowym1) 5000
 
 **Art. 2.** W terminie 60 dni od dnia wejścia w życie niniejszej ustawy Główny Inspektor Transportu Drogowego opracowuje po raz pierwszy jednolitą krajową strategię kontroli, o której mowa w art. 54 ust. 2 pkt 5a ustawy zmienianej w art. 1.
 
@@ -136,5 +137,5 @@ source: "eli-html"
 
 3. Do postępowań administracyjnych w zakresie uzyskania zaświadczenia, o którym mowa w art. 33 ust. 1 ustawy zmienianej w art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa: 1) wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2022/738 z dnia 6 kwietnia 2022 r. dotyczącą zmiany dyrektywy 2006/1/WE w sprawie użytkowania pojazdów najmowanych bez kierowców w celu przewozu drogowego rzeczy (Dz. Urz. UE L 137 z 16.05.2022, str. 1); 2) służy stosowaniu: a) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1055 z dnia 15 lipca 2020 r. zmieniającego rozporządzenia (WE) nr 1071/2009, (WE) nr 1072/2009 i (UE) nr 1024/2012 w celu dostosowania ich do zmian w transporcie drogowym (Dz. Urz. UE L 249 z 31.07.2020, str. 17), b) rozporządzenia wykonawczego Komisji (UE) 2022/694 z dnia 2 maja 2022 r. zmieniającego rozporządzenie (UE) 2016/403 w odniesieniu do nowych poważnych naruszeń przepisów unijnych, które mogą prowadzić do utraty dobrej reputacji przez przewoźnika drogowego (Dz. Urz. UE L 129 z 03.05.2022, str. 22). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 178 z 10.07.2012, str. 5, Dz. Urz. UE L 158 z 10.06.2013, str. 1 oraz Dz. Urz. UE L 249 z 31.07.2020, str. 17. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 48 z 23.02.2011, str. 19, Dz. Urz. UE L 178 z 10.07.2012, str. 4, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 293 z 09.10.2014, str. 60 oraz Dz. Urz. UE L 272 z 16.10.2015, str. 15.
 

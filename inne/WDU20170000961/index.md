@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 21 kwietnia 2017 r. o zmianie ustawy o kinematografii oraz niektórych innych ustaw
+# Ustawa z dnia 21 kwietnia 2017 r. o zmianie ustawy o kinematografii oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 lipca 1987 r. o państwowych instytucjach filmowych oraz ustawę z dnia 7 listopada 1996 r. o obowiązkowych egzemplarzach bibliotecznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-21 |
 | Data wydania | 2017-05-17 |
-| Wejście w życie | 2017-06-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000961) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/961/text.pdf) |
 
@@ -44,5 +43,5 @@ source: "eli-html"
 - **1)** w art. 6 wyrazy „Filmotece Narodowej w Warszawie” zastępuje się wyrazami „Państwowej instytucji kultury wyspecjalizowanej w zakresie ochrony narodowego dziedzictwa kulturalnego w dziedzinie kinematografii, o której mowa w art. 28 ust. 1 ustawy z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2016 r. poz. 438 oraz z 2017 r. poz. 961),”;
 - **2)** w art. 8 w ust. 1 wyrazy „Filmotece Narodowej w Warszawie” zastępuje się wyrazami „państwowej instytucji kultury wyspecjalizowanej w zakresie ochrony narodowego dziedzictwa kulturalnego w dziedzinie kinematografii, o której mowa w art. 28 ust. 1 ustawy z dnia 30 czerwca 2005 r. o kinematografii,”.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 lipca 1987 r. o państwowych instytucjach filmowych oraz ustawę z dnia 7 listopada 1996 r. o obowiązkowych egzemplarzach bibliotecznych.
 

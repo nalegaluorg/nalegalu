@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000483) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/483/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej Rozdział 1 – Przepisy ogólne Rozdział 2 – Osoby prawne Kościoła i ich organy Rozdział 3 – Działalność publiczna Kościoła Rozdział 4 – Sprawy majątkowe kościelnych osób prawnych Rozdział 5 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej
 Załącznik – Wykaz parafii Kościoła Ewangelicko-Reformowanego w Polsce
 Treść obwieszczenia
 1.
@@ -42,15 +42,28 @@ ustawą z dnia 29 kwietnia 2010 r. o zmianie ustawy – Prawo celne oraz niektó
 5)
 ustawą z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654),
 6)
-ustawą z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 marca 2015 r.
+ustawą z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 marca 2015 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 259 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557 i Nr 160, poz. 1083), który stanowi:
-„
+art. 259 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557 i Nr 160, poz. 1083), który stanowi: „
+Przepisy ogólne
+Osoby prawne Kościoła i ich organy
+Działalność publiczna Kościoła
+Sprawy majątkowe kościelnych osób prawnych
 Kościelnym osobom prawnym przysługuje prawo nabywania, posiadania i zbywania mienia ruchomego i nieruchomego, nabywania i zbywania innych praw majątkowych oraz swobodnego zarządzania swoim majątkiem.
 W razie zniesienia kościelnej osoby prawnej jej majątek przechodzi na własność Kościoła jako całości.
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Osoby prawne Kościoła i ich organy
+
+#### Rozdział 3 – Działalność publiczna Kościoła
+
+#### Rozdział 4 – Sprawy majątkowe kościelnych osób prawnych
+
+#### Rozdział 5 – Przepisy przejściowe i końcowe
 
 **Art. 259.** Ustawa wchodzi w życie z dniem 1 września 1998 r., z tym że przepisy art. 251–254 obowiązują nie dłużej niż przez 10 lat od dnia jej wejścia w życie. ” ;
 
@@ -84,7 +97,7 @@ W razie zniesienia kościelnej osoby prawnej jej majątek przechodzi na własno�
 
 **Art. 43.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -106,13 +119,13 @@ W razie zniesienia kościelnej osoby prawnej jej majątek przechodzi na własno�
 
 5. Kościół może otaczać opieką duszpasterską współwyznawców spośród osób innych narodowości zamieszkałych bądź przebywających czasowo na terytorium Rzeczypospolitej Polskiej.
 
-#### Rozdział 2 Osoby prawne Kościoła i ich organy
+#### Rozdział 2
 
 **Art. 3.**
 
 1. Kościół jako całość oraz poszczególne parafie mają osobowość prawną.
 
-2. Inne kościelne jednostki organizacyjne, na wniosek Konsystorza, mogą uzyskać osobowość prawną w drodze rozporządzenia Ministra-Szefa Urzędu Rady Ministrów .
+2. Inne kościelne jednostki organizacyjne, na wniosek Konsystorza, mogą uzyskać osobowość prawną w drodze rozporządzenia Ministra-Szefa Urzędu Rady Ministrów Obecnie: minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2013 r. poz. 743 i 984, z 2014 r. poz. 496, 829, 915, 932 i 1533 oraz z 2015 r. poz. 277), która weszła w życie z dniem 1 kwietnia 1999 r..
 
 **Art. 4.**
 
@@ -133,9 +146,9 @@ W razie zniesienia kościelnej osoby prawnej jej majątek przechodzi na własno�
 - **1)** dla Kościoła jako całości – Prezes Konsystorza lub Biskup;
 - **2)** dla parafii Prezes lub Wiceprezes Kolegium Kościelnego działający łącznie z proboszczem lub administratorem parafii.
 
-2. O powołaniu i odwołaniu osoby sprawującej funkcję organu Kościoła Konsystorz powiadamia Ministra-Szefa Urzędu Rady Ministrów , w odniesieniu zaś do innych kościelnych osób prawnych – właściwego wojewodę.
+2. O powołaniu i odwołaniu osoby sprawującej funkcję organu Kościoła Konsystorz powiadamia Ministra-Szefa Urzędu Rady Ministrów Obecnie: minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2013 r. poz. 743 i 984, z 2014 r. poz. 496, 829, 915, 932 i 1533 oraz z 2015 r. poz. 277), która weszła w życie z dniem 1 kwietnia 1999 r., w odniesieniu zaś do innych kościelnych osób prawnych – właściwego wojewodę.
 
-#### Rozdział 3 Działalność publiczna Kościoła
+#### Rozdział 3
 
 **Art. 8.**
 
@@ -153,9 +166,7 @@ W razie zniesienia kościelnej osoby prawnej jej majątek przechodzi na własno�
 
 1. Kościół prowadzi katechezę i nauczanie religii.
 
-2. Nauczanie religii w szkołach publicznych regulują odrębne przepisy.
-
-**Art. 10.** Kościół i jego osoby prawne mogą prowadzić działalność charytatywno-opiekuńczą, w szczególności placówki opiekuńczo-wychowawcze, oraz wykonywać działalność leczniczą w rozumieniu przepisów o działalności leczniczej.
+2. Nauczanie religii w szkołach publicznych regulują odrębne przepisy. Art. 10W brzmieniu ustalonym przez art. 138 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654), która weszła w życie z dniem 1 lipca 2011 r.. Kościół i jego osoby prawne mogą prowadzić działalność charytatywno-opiekuńczą, w szczególności placówki opiekuńczo-wychowawcze, oraz wykonywać działalność leczniczą w rozumieniu przepisów o działalności leczniczej.
 
 **Art. 11.**
 
@@ -163,35 +174,25 @@ W razie zniesienia kościelnej osoby prawnej jej majątek przechodzi na własno�
 
 2. Sposób realizacji uprawnień wymienionych w ust. 1 reguluje porozumienie między właściwą jednostką publicznej radiofonii lub telewizji a Kościołem.
 
-**Art. 12.**
-
-1. Osoby przebywające w placówkach opiekuńczo-wychowawczych oraz w podmiotach leczniczych w rozumieniu przepisów o działalności leczniczej mają prawo do praktyk religijnych i opieki duszpasterskiej.
-
-2. Osoby tymczasowo aresztowane wyznania ewangelicko-reformowanego mogą wykonywać praktyki religijne i wysłuchiwać nabożeństw transmitowanych przez środki masowego przekazu oraz za zgodą organu, do którego dyspozycji pozostają, korzystać z indywidualnej opieki duszpasterskiej.
-
-3. Osobom skazanym wyznania ewangelicko-reformowanego zapewnia się możliwość wykonywania praktyk religijnych, korzystania z opieki duszpasterskiej oraz uczestniczenia w nabożeństwach odprawianych w niedziele i święta ewangelickie w odpowiednio przystosowanym pomieszczeniu w zakładzie, w którym przebywają. Osobom, które na terenie zakładu nie mogą uczestniczyć w odprawianych nabożeństwach, należy zapewnić możliwość wysłuchania nabożeństw transmitowanych przez środki masowego przekazu.
-
-4. Żołnierzom pełniącym czynną służbę wojskową przysługuje prawo uczestniczenia w nabożeństwach i czynnościach religijnych poza terenem jednostek wojskowych, jeżeli w miejscowości stacjonowania jednostki wojskowej lub w jej pobliżu znajduje się kościół lub kaplica i jeżeli nie koliduje to z ważnymi obowiązkami służbowymi.
-
-5. Dzieciom i młodzieży, korzystającym ze zorganizowanych form wypoczynku wakacyjnego, zapewnia się prawo uczestniczenia w nabożeństwach i wykonywania innych praktyk religijnych.
+**Art. 12.** 1W brzmieniu ustalonym przez art. 138 pkt 2 ustawy, o której mowa w odnośniku 3.. Osoby przebywające w placówkach opiekuńczo-wychowawczych oraz w podmiotach leczniczych w rozumieniu przepisów o działalności leczniczej mają prawo do praktyk religijnych i opieki duszpasterskiej. 2Z dniem 1 września 1998 r. utraciły moc przepisy o stosunku Państwa do Kościołów dotyczące wykonywania praktyk religijnych osób skazanych i tymczasowo aresztowanych na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557 i Nr 160, poz. 1083).. Osoby tymczasowo aresztowane wyznania ewangelicko-reformowanego mogą wykonywać praktyki religijne i wysłuchiwać nabożeństw transmitowanych przez środki masowego przekazu oraz za zgodą organu, do którego dyspozycji pozostają, korzystać z indywidualnej opieki duszpasterskiej. 3Z dniem 1 września 1998 r. utraciły moc przepisy o stosunku Państwa do Kościołów dotyczące wykonywania praktyk religijnych osób skazanych i tymczasowo aresztowanych na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557 i Nr 160, poz. 1083).. Osobom skazanym wyznania ewangelicko-reformowanego zapewnia się możliwość wykonywania praktyk religijnych, korzystania z opieki duszpasterskiej oraz uczestniczenia w nabożeństwach odprawianych w niedziele i święta ewangelickie w odpowiednio przystosowanym pomieszczeniu w zakładzie, w którym przebywają. Osobom, które na terenie zakładu nie mogą uczestniczyć w odprawianych nabożeństwach, należy zapewnić możliwość wysłuchania nabożeństw transmitowanych przez środki masowego przekazu. 4. Żołnierzom pełniącym czynną służbę wojskową przysługuje prawo uczestniczenia w nabożeństwach i czynnościach religijnych poza terenem jednostek wojskowych, jeżeli w miejscowości stacjonowania jednostki wojskowej lub w jej pobliżu znajduje się kościół lub kaplica i jeżeli nie koliduje to z ważnymi obowiązkami służbowymi. 5. Dzieciom i młodzieży, korzystającym ze zorganizowanych form wypoczynku wakacyjnego, zapewnia się prawo uczestniczenia w nabożeństwach i wykonywania innych praktyk religijnych.
 
 **Art. 13.**
 
 1. Nie powołuje się absolwentów akademickich studiów teologicznych do odbywania przeszkolenia wojskowego w okresie przygotowań do ordynacji, w ciągu dwóch lat od zakończenia studiów.
 
-2. Ordynowani duchowni są przenoszeni do rezerwy i nie odbywają ćwiczeń wojskowych w czasie pokoju. W razie ogłoszenia mobilizacji oraz w czasie wojny mogą być oni powołani jedynie do pełnienia funkcji kapelanów lub do służby sanitarnej. Osobom należącym do Kościoła przysługuje prawo zwolnienia od nauki lub pracy w Wielki Piątek oraz Święto Wniebowstąpienia na warunkach określonych w ustawie z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. z 2005 r. Nr 231, poz. 1965, z późn. zm.). Instytucje państwowe, samorządowe i kościelne współdziałają w dokumentacji, ochronie, konserwacji, udostępnianiu i upowszechnianiu zabytków architektury kościelnej i sztuki sakralnej, muzeów, archiwów i bibliotek będących własnością kościelną, a także dzieł kultury i sztuki o motywach religijnych, stanowiących ważną część dziedzictwa kultury polskiej.
+2. Ordynowani duchowni są przenoszeni do rezerwy i nie odbywają ćwiczeń wojskowych w czasie pokoju. W razie ogłoszenia mobilizacji oraz w czasie wojny mogą być oni powołani jedynie do pełnienia funkcji kapelanów lub do służby sanitarnej. Osobom należącym do Kościoła przysługuje prawo zwolnienia od nauki lub pracy w Wielki Piątek oraz Święto Wniebowstąpienia na warunkach określonych w ustawie z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. z 2005 r. Nr 231, poz. 1965, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 98, poz. 817, z 2010 r. Nr 106, poz. 673 oraz z 2011 r. Nr 112, poz. 654.). Instytucje państwowe, samorządoweZe zmianą wprowadzoną przez art. 88 pkt 1 ustawy z dnia 24 lipca 1998 r. o zmianie niektórych ustaw określających kompetencje organów administracji publicznej – w związku z reformą ustrojową państwa (Dz. U. Nr 106, poz. 668), która weszła w życie z dniem 1 stycznia 1999 r. i kościelne współdziałają w dokumentacji, ochronie, konserwacji, udostępnianiu i upowszechnianiu zabytków architektury kościelnej i sztuki sakralnej, muzeów, archiwów i bibliotek będących własnością kościelną, a także dzieł kultury i sztuki o motywach religijnych, stanowiących ważną część dziedzictwa kultury polskiej.
 
-#### Rozdział 4 Sprawy majątkowe kościelnych osób prawnych
+#### Rozdział 4
 
 **Art. 18.**
 
-1. Grunty stanowiące własność Skarbu Państwa lub jednostek samorządu terytorialnego, przeznaczone w planach zagospodarowania przestrzennego na cele sakralne i kościelne, na wniosek kościelnej osoby prawnej mogą być jej sprzedawane lub oddawane w użytkowanie wieczyste.
+1. Grunty stanowiące własność Skarbu Państwa lub jednostek samorządu terytorialnegoZe zmianą wprowadzoną przez art. 88 pkt 2 ustawy, o której mowa w odnośniku 7., przeznaczone w planach zagospodarowania przestrzennego na cele sakralne i kościelne, na wniosek kościelnej osoby prawnej mogą być jej sprzedawane lub oddawane w użytkowanie wieczyste.
 
 2. Nie pobiera się opłat za użytkowanie wieczyste gruntów oddanych na potrzeby placówek opiekuńczo-wychowawczych i zakładów charytatywno-opiekuńczych oraz punktów katechetycznych.
 
 **Art. 19.**
 
-1. Majątek i przychody kościelnych osób prawnych podlegają ogólnym przepisom podatkowym, a w szczególności art. 17 ust. 1 pkt 4a i 4b ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.).
+1. Majątek i przychody kościelnych osób prawnych podlegają ogólnym przepisom podatkowym, a w szczególności art. 17 ust. 1 pkt 4a i 4b ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662 oraz z 2015 r. poz. 73, 211 i 226.).
 
 2. Darowizny na kościelną działalność charytatywno-opiekuńczą pochodzące od osób fizycznych są wyłączone z podstawy opodatkowania darczyńców podatkiem dochodowym, jeżeli kościelna osoba prawna przedstawi darczyńcy pokwitowanie odbioru oraz w – okresie dwóch lat od dnia przekazania darowizny – sprawozdanie o przeznaczeniu jej na tę działalność.
 
@@ -207,19 +208,15 @@ W razie zniesienia kościelnej osoby prawnej jej majątek przechodzi na własno�
 - **1)** rzeczy i prawa nieprzeznaczone do działalności gospodarczej;
 - **2)** sprowadzone z zagranicy maszyny, urządzenia i materiały poligraficzne oraz papier.
 
-6. Nabywanie rzeczy i praw majątkowych, o których mowa w ust. 5, jest zwolnione od opłat sądowych, z wyłączeniem opłat kancelaryjnych.
-
-**Art. 20.** Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze i oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla kościelnych osób prawnych, w granicach i na warunkach określonych w rozporządzeniu Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 324 z 10.12.2009, str. 23).
+6. Nabywanie rzeczy i praw majątkowych, o których mowa w ust. 5Ze zmianą wprowadzoną przez art. 5 pkt 2 ustawy, o której mowa w odnośniku 2., jest zwolnione od opłat sądowych, z wyłączeniem opłat kancelaryjnych. Art. 20W brzmieniu ustalonym przez art. 6 ustawy z dnia 29 kwietnia 2010 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw (Dz. U. Nr 106, poz. 673), która weszła w życie z dniem 1 lipca 2010 r.. Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze i oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla kościelnych osób prawnych, w granicach i na warunkach określonych w rozporządzeniu Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 324 z 10.12.2009, str. 23).
 
 **Art. 21.**
 
-1. Kościelne osoby prawne mają prawo do zbierania ofiar na cele kościelne, działalność charytatywno-opiekuńczą, naukową, oświatową i wychowawczą.
-
-2. Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz miejsc zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony.
+1. Kościelne osoby prawne mają prawo do zbierania ofiar na cele kościelne, działalność charytatywno-opiekuńczą, naukową, oświatową i wychowawczą. 2W brzmieniu ustalonym przez art. 27 ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498), która weszła w życie z dniem 18 lipca 2014 r.. Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz miejsc zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony.
 
 **Art. 22.** Niezależnie od ustawowego ubezpieczenia duchownych, kościelne osoby prawne mogą prowadzić wewnętrzną działalność ubezpieczeniową na rzecz duchownych, która w rozumieniu ustawy jest działalnością niegospodarczą.
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5
 
 **Art. 23.**
 
@@ -242,7 +239,7 @@ W razie zniesienia kościelnej osoby prawnej jej majątek przechodzi na własno�
 - **2)** wywłaszczonych, jeżeli odszkodowanie nie zostało wypłacone lub podjęte;
 - **3)** przejętych na podstawie dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze miasta stołecznego Warszawy (Dz. U. Nr 50, poz. 279), z zastrzeżeniem ust. 3.
 
-2. Jeżeli własność nieruchomości nie może zostać przywrócona, właściwej kościelnej osobie prawnej przyznaje się nieruchomość zamienną, a jeżeli przyznanie nieruchomości zamiennej nie jest możliwe – odszkodowanie według przepisów określonych w ustawie z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz. U. z 1991 r. Nr 30, poz. 127, z późn. zm.).
+2. Jeżeli własność nieruchomości nie może zostać przywrócona, właściwej kościelnej osobie prawnej przyznaje się nieruchomość zamienną, a jeżeli przyznanie nieruchomości zamiennej nie jest możliwe – odszkodowanie według przepisów określonych w ustawie z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz. U. z 1991 r. Nr 30, poz. 127, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1991 r. Nr 103, poz. 446 i Nr 107, poz. 464, z 1993 r. Nr 47, poz. 212 i Nr 131, poz. 629 oraz z 1994 r. Nr 27, poz. 96 i Nr 31, poz. 118.)Utraciła moc na podstawie art. 241 pkt 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. Nr 115, poz. 741), która weszła w życie z dniem 1 stycznia 1998 r..
 
 3. W odniesieniu do gruntów objętych dekretem określonym w ust. 1 pkt 3 przedmiotem postępowania jest ustanowienie użytkowania wieczystego.
 
@@ -252,7 +249,7 @@ W razie zniesienia kościelnej osoby prawnej jej majątek przechodzi na własno�
 
 6. Decyzje, o których mowa w ust. 1–3, nie mogą naruszać praw nabytych przez osoby trzecie, a w szczególności przez inne kościoły i związki wyznaniowe oraz rolników indywidualnych.
 
-**Art. 25.** Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. Nr 32, poz. 191, z późn. zm.), podlega postępowaniu, o którym mowa w art. 23 i 24.
+**Art. 25.** Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. Nr 32, poz. 191, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 43, poz. 253 i Nr 92, poz. 541, z 1991 r. Nr 34, poz. 151, z 1992 r. Nr 6, poz. 20, z 1993 r. Nr 40, poz. 180 oraz z 1994 r. Nr 1, poz. 3 i Nr 65, poz. 285.), podlega postępowaniu, o którym mowa w art. 23 i 24.
 
 **Art. 26.**
 
@@ -260,7 +257,7 @@ W razie zniesienia kościelnej osoby prawnej jej majątek przechodzi na własno�
 
 2. Kościelnym osobom prawnym mogą być, na ich wniosek, przekazane nieodpłatnie na własność nieruchomości lub ich części, których stan prawny nie jest możliwy do ustalenia, pozostające we władaniu tych osób w dniu wejścia w życie ustawy – o ile nie narusza to praw osób trzecich.
 
-3. Przepisy art. 23 ust. 2, 3 i 4 stosuje się odpowiednio. Wnioski kościelnych osób prawnych wniesione w trybie określonym w art. 24 i 26, w stosunku do których nie zostały zakończone postępowania administracyjne, na wniosek jednej ze stron w dotychczasowym postępowaniu stają się z mocy prawa przedmiotem postępowania regulacyjnego, określonego w dziale IIIa ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. Nr 29, poz. 155, z późn. zm.).
+3. Przepisy art. 23 ust. 2, 3 i 4 stosuje się odpowiednio. Wnioski kościelnych osób prawnych wniesione w trybie określonym w art. 24 i 26, w stosunku do których nie zostały zakończone postępowania administracyjne, na wniosek jednej ze stron w dotychczasowym postępowaniu stają się z mocy prawa przedmiotem postępowania regulacyjnego, określonego w dziale IIIa ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. Nr 29, poz. 155, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425, z 1993 r. Nr 7, poz. 34 oraz z 1998 r. Nr 59, poz. 375.).
 
 1. Na wniosek Kościoła lub jego osób prawnych wojewoda lub inny organ wykonujący w imieniu Skarbu Państwa prawa wynikające z własności nieruchomości albo organy gmin w zakresie swoich właściwości – mogą nieodpłatnie przekazać Kościołowi lub jego osobom prawnym własność nieruchomości lub ich części:
 
@@ -273,8 +270,5 @@ W razie zniesienia kościelnej osoby prawnej jej majątek przechodzi na własno�
 
 **Art. 28.** Traci moc dekret z dnia 5 września 1947 r. o uregulowaniu położenia prawnego Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej, Kościoła Mariawickiego i Kościoła Starokatolickiego (Dz. U. Nr 59, poz. 316), w części dotyczącej Kościoła Ewangelicko-Reformowanego.
 
-**Art. 29.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-
-- **1)** Obecnie: minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2013 r. poz. 743 i 984, z 2014 r. poz. 496, 829, 915, 932 i 1533 oraz z 2015 r. poz. 277), która weszła w życie z dniem 1 kwietnia 1999 r. 2) Dodany przez art. 5 pkt 1 ustawy z dnia 26 czerwca 1997 r. o zmianie ustawy o gwarancjach wolności sumienia i wyznania oraz o zmianie niektórych ustaw (Dz. U. z 1998 r. Nr 59, poz. 375), która weszła w życie z dniem 30 maja 1998 r. 3) W brzmieniu ustalonym przez art. 138 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654), która weszła w życie z dniem 1 lipca 2011 r. 4) W brzmieniu ustalonym przez art. 138 pkt 2 ustawy, o której mowa w odnośniku 3. 5) Z dniem 1 września 1998 r. utraciły moc przepisy o stosunku Państwa do Kościołów dotyczące wykonywania praktyk religijnych osób skazanych i tymczasowo aresztowanych na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557 i Nr 160, poz. 1083). 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 98, poz. 817, z 2010 r. Nr 106, poz. 673 oraz z 2011 r. Nr 112, poz. 654. 7) Ze zmianą wprowadzoną przez art. 88 pkt 1 ustawy z dnia 24 lipca 1998 r. o zmianie niektórych ustaw określających kompetencje organów administracji publicznej – w związku z reformą ustrojową państwa (Dz. U. Nr 106, poz. 668), która weszła w życie z dniem 1 stycznia 1999 r. 8) Ze zmianą wprowadzoną przez art. 88 pkt 2 ustawy, o której mowa w odnośniku 7. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662 oraz z 2015 r. poz. 73, 211 i 226. 10) Ze zmianą wprowadzoną przez art. 5 pkt 2 ustawy, o której mowa w odnośniku 2. 11) W brzmieniu ustalonym przez art. 6 ustawy z dnia 29 kwietnia 2010 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw (Dz. U. Nr 106, poz. 673), która weszła w życie z dniem 1 lipca 2010 r. 12) W brzmieniu ustalonym przez art. 27 ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498), która weszła w życie z dniem 18 lipca 2014 r. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1991 r. Nr 103, poz. 446 i Nr 107, poz. 464, z 1993 r. Nr 47, poz. 212 i Nr 131, poz. 629 oraz z 1994 r. Nr 27, poz. 96 i Nr 31, poz. 118. 14) Utraciła moc na podstawie art. 241 pkt 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. Nr 115, poz. 741), która weszła w życie z dniem 1 stycznia 1998 r. 15) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 43, poz. 253 i Nr 92, poz. 541, z 1991 r. Nr 34, poz. 151, z 1992 r. Nr 6, poz. 20, z 1993 r. Nr 40, poz. 180 oraz z 1994 r. Nr 1, poz. 3 i Nr 65, poz. 285. 16) Dodany przez art. 5 pkt 4 ustawy, o której mowa w odnośniku 2. 17) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425, z 1993 r. Nr 7, poz. 34 oraz z 1998 r. Nr 59, poz. 375. 18) Dodany przez art. 5 pkt 5 ustawy, o której mowa w odnośniku 2. 19) Ustawa została ogłoszona w dniu 27 czerwca 1994 r. Załącznik – Wykaz parafii Kościoła Ewangelicko-Reformowanego w Polsce Parafia Bełchatów Parafia Katowice Parafia Kleszczów Parafia Łódź Parafia Pstrążna Parafia Strzelin Parafia Warszawa Parafia Zelów Parafia Żychlin Parafia Żyrardów.
-
+**Art. 29.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 27 czerwca 1994 r.. 1) Obecnie: minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2013 r. poz. 743 i 984, z 2014 r. poz. 496, 829, 915, 932 i 1533 oraz z 2015 r. poz. 277), która weszła w życie z dniem 1 kwietnia 1999 r. 2) Dodany przez art. 5 pkt 1 ustawy z dnia 26 czerwca 1997 r. o zmianie ustawy o gwarancjach wolności sumienia i wyznania oraz o zmianie niektórych ustaw (Dz. U. z 1998 r. Nr 59, poz. 375), która weszła w życie z dniem 30 maja 1998 r. 3) W brzmieniu ustalonym przez art. 138 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654), która weszła w życie z dniem 1 lipca 2011 r. 4) W brzmieniu ustalonym przez art. 138 pkt 2 ustawy, o której mowa w odnośniku 3. 5) Z dniem 1 września 1998 r. utraciły moc przepisy o stosunku Państwa do Kościołów dotyczące wykonywania praktyk religijnych osób skazanych i tymczasowo aresztowanych na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557 i Nr 160, poz. 1083). 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 98, poz. 817, z 2010 r. Nr 106, poz. 673 oraz z 2011 r. Nr 112, poz. 654. 7) Ze zmianą wprowadzoną przez art. 88 pkt 1 ustawy z dnia 24 lipca 1998 r. o zmianie niektórych ustaw określających kompetencje organów administracji publicznej – w związku z reformą ustrojową państwa (Dz. U. Nr 106, poz. 668), która weszła w życie z dniem 1 stycznia 1999 r. 8) Ze zmianą wprowadzoną przez art. 88 pkt 2 ustawy, o której mowa w odnośniku 7. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662 oraz z 2015 r. poz. 73, 211 i 226. 10) Ze zmianą wprowadzoną przez art. 5 pkt 2 ustawy, o której mowa w odnośniku 2. 11) W brzmieniu ustalonym przez art. 6 ustawy z dnia 29 kwietnia 2010 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw (Dz. U. Nr 106, poz. 673), która weszła w życie z dniem 1 lipca 2010 r. 12) W brzmieniu ustalonym przez art. 27 ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498), która weszła w życie z dniem 18 lipca 2014 r. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1991 r. Nr 103, poz. 446 i Nr 107, poz. 464, z 1993 r. Nr 47, poz. 212 i Nr 131, poz. 629 oraz z 1994 r. Nr 27, poz. 96 i Nr 31, poz. 118. 14) Utraciła moc na podstawie art. 241 pkt 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. Nr 115, poz. 741), która weszła w życie z dniem 1 stycznia 1998 r. 15) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 43, poz. 253 i Nr 92, poz. 541, z 1991 r. Nr 34, poz. 151, z 1992 r. Nr 6, poz. 20, z 1993 r. Nr 40, poz. 180 oraz z 1994 r. Nr 1, poz. 3 i Nr 65, poz. 285. 16) Dodany przez art. 5 pkt 4 ustawy, o której mowa w odnośniku 2. 17) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425, z 1993 r. Nr 7, poz. 34 oraz z 1998 r. Nr 59, poz. 375. 18) Dodany przez art. 5 pkt 5 ustawy, o której mowa w odnośniku 2. 19) Ustawa została ogłoszona w dniu 27 czerwca 1994 r. Załącznik – Wykaz parafii Kościoła Ewangelicko-Reformowanego w Polsce Parafia Bełchatów Parafia Katowice Parafia Kleszczów Parafia Łódź Parafia Pstrążna Parafia Strzelin Parafia Warszawa Parafia Zelów Parafia Żychlin Parafia Żyrardów.
 

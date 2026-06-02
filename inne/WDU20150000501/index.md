@@ -22,27 +22,23 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-03-19 |
 | Data wydania | 2015-04-09 |
-| Wejście w życie | 2015-04-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000501) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/501/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 124 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 124 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200 i 277.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Środowiska z dnia 10 listopada 2008 r. w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Katowicach (Dz. U. Nr 202, poz. 1255 oraz z 2011 r. Nr 77, poz. 425) w załączniku wprowadza się następujące zmiany:
 1)
-w § 3 ust. 1–3 otrzymują brzmienie:
-„
+w § 3 ust. 1–3 otrzymują brzmienie: „
 1.
 Regionalny Dyrektor kieruje RDOŚ przy pomocy zastępców Regionalnego Dyrektora, naczelników komórek organizacyjnych oraz osób zajmujących stanowiska, o których mowa w § 4 ust. 1.
 2.
 Pierwszym zastępcą Regionalnego Dyrektora jest regionalny konserwator przyrody, który sprawuje nadzór nad komórkami organizacyjnymi, o których mowa w § 4 ust. 1 pkt 2 i 3.
 3.
-Zakresy czynności zastępców Regionalnego Dyrektora, naczelników komórek organizacyjnych oraz osób zajmujących stanowiska, o których mowa w § 4 ust. 1, ustala Regionalny Dyrektor.
-” ;
+Zakresy czynności zastępców Regionalnego Dyrektora, naczelników komórek organizacyjnych oraz osób zajmujących stanowiska, o których mowa w § 4 ust. 1, ustala Regionalny Dyrektor. ” ;
 2)
-w § 4 ust. 1 otrzymuje brzmienie:
-„
+w § 4 ust. 1 otrzymuje brzmienie: „
 1.
 W skład RDOŚ wchodzą następujące komórki organizacyjne i stanowiska:
 1)
@@ -58,8 +54,7 @@ Samodzielne stanowisko do spraw obsługi prawnej – radca prawny;
 6)
 Pełnomocnik do spraw ochrony informacji niejawnych;
 7)
-Samodzielne stanowisko do spraw bezpieczeństwa i higieny pracy.
-” .
+Samodzielne stanowisko do spraw bezpieczeństwa i higieny pracy. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200 i 277.
 

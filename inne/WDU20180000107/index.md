@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 listopada 2017 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw
+# Ustawa z dnia 24 listopada 2017 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2014/66/UE z dnia 15 maja 2014 r. w sprawie warunków wjazdu i pobytu obywateli państw trzecich w ramach przeniesienia wewnątrz przedsiębiorstwa (Dz. Urz. UE L 157 z 27.05.2014, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-24 |
 | Data wydania | 2018-01-12 |
-| Wejście w życie | 2018-02-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000107) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/107/text.pdf) |
 
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 2 kwietnia 2009 r. o obywatelstwie polskim, ustawę z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, ustawę z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci oraz ustawę z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług.
+Zezwolenie na pobyt czasowy w celu wykonywania pracy w ramach przeniesienia wewnątrz przedsiębiorstwa
+Pobyt cudzoziemców na terytorium Rzeczypospolitej Polskiej w celu korzystania z mobilności
 1.
 Warunkiem korzystania przez cudzoziemca z mobilności krótkoterminowej na terytorium Rzeczypospolitej Polskiej jest otrzymanie przez Szefa Urzędu zawiadomienia od jednostki przyjmującej mającej siedzibę w innym państwie członkowskim Unii Europejskiej, które wydało temu cudzoziemcowi dokument pobytowy, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, z adnotacją „ICT”, o zamiarze korzystania przez cudzoziemca z tej mobilności.
 2.
@@ -141,21 +143,17 @@ Do zezwolenia, o którym mowa w art. 139o ust. 1, stosuje się odpowiednio przep
 1.
 Wojewoda przekazuje Szefowi Urzędu kopię decyzji o udzieleniu lub cofnięciu zezwolenia, o którym mowa w art. 139o ust. 1.
 2.
-Szef Urzędu przekazuje wojewodzie, który udzielił zezwolenia, o którym mowa w art. 139o ust. 1, informacje dotyczące cudzoziemca, któremu zostało ono udzielone, o których mowa w art. 22 ust. 1 pkt 8a lit. d.
-” ;
+Szef Urzędu przekazuje wojewodzie, który udzielił zezwolenia, o którym mowa w art. 139o ust. 1, informacje dotyczące cudzoziemca, któremu zostało ono udzielone, o których mowa w art. 22 ust. 1 pkt 8a lit. d. ” ;
 45)
 w art. 142:
 a)
-w ust. 1 w pkt 3 lit. a otrzymuje brzmienie:
-„
+w ust. 1 w pkt 3 lit. a otrzymuje brzmienie: „
 a)
-w roku podatkowym poprzedzającym złożenie wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy w celu prowadzenia działalności gospodarczej osiągnął dochód nie niższy niż 12-krotność przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwie, w którym podmiot ten ma siedzibę lub miejsce zamieszkania, w roku poprzedzającym złożenie wniosku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 30 ust. 2 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego, lub zatrudnia na czas nieokreślony i w pełnym wymiarze czasu pracy co najmniej przez okres 1 roku poprzedzającego złożenie wniosku co najmniej 2 pracowników będących obywatelami polskimi lub cudzoziemcami, o których mowa w art. 87 ust. 1 pkt 1–9 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, lub
-” ,
+w roku podatkowym poprzedzającym złożenie wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy w celu prowadzenia działalności gospodarczej osiągnął dochód nie niższy niż 12-krotność przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwie, w którym podmiot ten ma siedzibę lub miejsce zamieszkania, w roku poprzedzającym złożenie wniosku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 30 ust. 2 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego, lub zatrudnia na czas nieokreślony i w pełnym wymiarze czasu pracy co najmniej przez okres 1 roku poprzedzającego złożenie wniosku co najmniej 2 pracowników będących obywatelami polskimi lub cudzoziemcami, o których mowa w art. 87 ust. 1 pkt 1–9 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, lub ” ,
 b)
 w ust. 2 po wyrazach „stosuje się” dodaje się wyraz „również”;
 46)
-po art. 142 dodaje się art. 142a w brzmieniu:
-„
+po art. 142 dodaje się art. 142a w brzmieniu: „
 
 **Art. 1.** W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2017 r. poz. 2206 i 2282) wprowadza się następujące zmiany:
 
@@ -173,7 +171,7 @@ po art. 142 dodaje się art. 142a w brzmieniu:
     - **b)**
     - **b)**
 
-- **7a)** mobilność – uprawnienie cudzoziemca do wjazdu i pobytu na terytorium państw członkowskich Unii Europejskiej w celu wykonywania pracy w jednostce przyjmującej mającej siedzibę w danym państwie członkowskim Unii Europejskiej w charakterze pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż, w ramach przeniesienia wewnątrz przedsiębiorstwa, wynikające z posiadania ważnego dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającego jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 3, z późn. zm.), zwanego dalej „rozporządzeniem nr 1030/2002”, z adnotacją „ICT”, wydanego przez inne państwo członkowskie Unii Europejskiej niż to, w którym cudzoziemiec korzysta z tego uprawnienia;
+- **7a)** mobilność – uprawnienie cudzoziemca do wjazdu i pobytu na terytorium państw członkowskich Unii Europejskiej w celu wykonywania pracy w jednostce przyjmującej mającej siedzibę w danym państwie członkowskim Unii Europejskiej w charakterze pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż, w ramach przeniesienia wewnątrz przedsiębiorstwa, wynikające z posiadania ważnego dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającego jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2008, str. 1. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 3, z późn. zm.), zwanego dalej „rozporządzeniem nr 1030/2002”, z adnotacją „ICT”, wydanego przez inne państwo członkowskie Unii Europejskiej niż to, w którym cudzoziemiec korzysta z tego uprawnienia;
 - **7b)** mobilność krótkoterminowa – korzystanie z mobilności przez okres do 90 dni w dowolnym okresie liczącym 180 dni w każdym państwie członkowskim Unii Europejskiej;
 - **7c)** mobilność długoterminowa – korzystanie z mobilności przez okres przekraczający 90 dni w danym państwie członkowskim Unii Europejskiej; ” , po pkt 11 dodaje się pkt 11a w brzmieniu: „
     - **c)**
@@ -224,14 +222,14 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 - **7)** w art. 28: ust. 3 otrzymuje brzmienie: „
     - **a)**
 
-3. Przepisów ust. 1 pkt 1–6 i 8–10 nie stosuje się do cudzoziemca, który przejeżdża przez terytorium Rzeczypospolitej Polskiej tranzytem w przypadku, o którym mowa w art. 6 ust. 5 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/399 z dnia 9 marca 2016 r. w sprawie unijnego kodeksu zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 77 z 23.03.2016, str. 1, z późn. zm.), zwanego dalej „kodeksem granicznym Schengen”. ” , dodaje się ust. 7 i 8 w brzmieniu: „
+3. Przepisów ust. 1 pkt 1–6 i 8–10 nie stosuje się do cudzoziemca, który przejeżdża przez terytorium Rzeczypospolitej Polskiej tranzytem w przypadku, o którym mowa w art. 6 ust. 5 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/399 z dnia 9 marca 2016 r. w sprawie unijnego kodeksu zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 77 z 23.03.2016, str. 1, z późn. zm.), zwanego dalejZmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 251 z 16.09.2016, str. 1 oraz Dz. Urz. UE L 74 z 18.03.2017, str. 1. „kodeksem granicznym Schengen”. ” , dodaje się ust. 7 i 8 w brzmieniu: „
 
 - **b)**
 
 7. Przepisu:
 
 - **1)** ust. 1 pkt 1 – w zakresie, w jakim odnosi się do braku posiadania ważnej wizy lub innych ważnych dokumentów uprawniających do wjazdu na terytorium Rzeczypospolitej Polskiej i do pobytu na tym terytorium,
-- **2)** ust. 1 pkt 3 nie stosuje się do cudzoziemca, który wjeżdża na terytorium Rzeczypospolitej Polskiej w celu korzystania z mobilności krótkoterminowej.
+- **2)** ust. 1 pkt 3 – nie stosuje się do cudzoziemca, który wjeżdża na terytorium Rzeczypospolitej Polskiej w celu korzystania z mobilności krótkoterminowej.
 
 8. Przepisu ust. 1 pkt 1 nie stosuje się do cudzoziemca, który bezpośrednio przed wjazdem na terytorium Rzeczypospolitej Polskiej korzystał z mobilności w innym państwie członkowskim Unii Europejskiej, które zażądało opuszczenia swojego terytorium, jeżeli posiadana przez niego karta pobytu z adnotacją „ICT” utraciła ważność. ” ;
 
@@ -261,8 +259,10 @@ po art. 142 dodaje się art. 142a w brzmieniu:
     - **b)**
 
 - **25)** innym niż określone w pkt 1–24a. ” ;
-- **14)** w art. 65: w ust. 1: – w pkt 9 kropkę zastępuje się przecinkiem i dodaje się wyraz „lub”, – dodaje się pkt 10 w brzmieniu: „ 10) zachodzą uzasadnione wątpliwości co do wiarygodności złożonych przez cudzoziemca oświadczeń odnośnie do celu jego pobytu na terytorium Rzeczypospolitej Polskiej z uwagi na dostępne organowi dowody lub obiektywne okoliczności wskazujące na to, że cel pobytu cudzoziemca mógłby być inny niż deklarowany. ” , dodaje się ust. 3 i 4 w brzmieniu: „
+- **14)** w art. 65: w ust. 1: – w pkt 9 kropkę zastępuje się przecinkiem i dodaje się wyraz „lub”, dodaje się pkt 10 w brzmieniu: „
     - **a)**
+
+- **10)** zachodzą uzasadnione wątpliwości co do wiarygodności złożonych przez cudzoziemca oświadczeń odnośnie do celu jego pobytu na terytorium Rzeczypospolitej Polskiej z uwagi na dostępne organowi dowody lub obiektywne okoliczności wskazujące na to, że cel pobytu cudzoziemca mógłby być inny niż deklarowany. ” , dodaje się ust. 3 i 4 w brzmieniu: „
     - **b)**
 
 3. Przepisu ust. 1 pkt 9 nie stosuje się, gdy celem pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej jest podjęcie lub kontynuacja stacjonarnych studiów wyższych lub stacjonarnych studiów doktoranckich, w tym kontynuacja lub uzupełnienie studiów podjętych na terytorium innego państwa członkowskiego Unii Europejskiej.
@@ -278,8 +278,12 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 
 1a. Zezwolenia, o którym mowa w art. 139a ust. 1 i art. 139o ust. 1, udziela się na wniosek jednostki przyjmującej. ” ;
 
-- **18)** w art. 99: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Cudzoziemcowi odmawia się wszczęcia postępowania w sprawie udzielenia zezwolenia na pobyt czasowy, gdy w dniu złożenia wniosku o udzielenie tego zezwolenia: ” , – pkt 1 otrzymuje brzmienie: „ 1) posiada zezwolenie na pobyt stały lub zezwolenie na pobyt rezydenta długoterminowego UE lub ” , – pkt 4 otrzymuje brzmienie: „ 4) przebywa na terytorium Rzeczypospolitej Polskiej na podstawie zgody na pobyt tolerowany lub zgody na pobyt ze względów humanitarnych albo w związku z udzieleniem mu azylu, ochrony uzupełniającej lub ochrony czasowej lub nadaniem mu statusu uchodźcy w Rzeczypospolitej Polskiej, lub ” , – pkt 8 otrzymuje brzmienie: „ 8) przebywa na terytorium Rzeczypospolitej Polskiej po tym, jak został zobowiązany do powrotu, i nie upłynął jeszcze termin dobrowolnego powrotu określony w decyzji o zobowiązaniu cudzoziemca do powrotu, także w przypadku przedłużenia tego terminu, lub ” , – w pkt 10: – – przecinek zastępuje się kropką, – – skreśla się wyraz „lub”, – uchyla się pkt 11, po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **18)** w art. 99: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Cudzoziemcowi odmawia się wszczęcia postępowania w sprawie udzielenia zezwolenia na pobyt czasowy, gdy w dniu złożenia wniosku o udzielenie tego zezwolenia: ” , pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** posiada zezwolenie na pobyt stały lub zezwolenie na pobyt rezydenta długoterminowego UE lub ” , pkt 4 otrzymuje brzmienie: „
+- **4)** przebywa na terytorium Rzeczypospolitej Polskiej na podstawie zgody na pobyt tolerowany lub zgody na pobyt ze względów humanitarnych albo w związku z udzieleniem mu azylu, ochrony uzupełniającej lub ochrony czasowej lub nadaniem mu statusu uchodźcy w Rzeczypospolitej Polskiej, lub ” , pkt 8 otrzymuje brzmienie: „
+- **8)** przebywa na terytorium Rzeczypospolitej Polskiej po tym, jak został zobowiązany do powrotu, i nie upłynął jeszcze termin dobrowolnego powrotu określony w decyzji o zobowiązaniu cudzoziemca do powrotu, także w przypadku przedłużenia tego terminu, lub ” , w pkt 10: – – przecinek zastępuje się kropką, – – skreśla się wyraz „lub”, – uchyla się pkt 11, po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Poza przypadkami, o których mowa w ust. 1, cudzoziemcowi odmawia się wszczęcia postępowania w sprawie udzielenia zezwolenia na pobyt czasowy, gdy przy składaniu wniosku o udzielenie mu tego zezwolenia albo w terminie, o którym mowa w art. 106 ust. 5, nie złożył odcisków linii papilarnych w celu wydania karty pobytu. ” ;
@@ -318,9 +322,11 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 
 4. Przy składaniu wniosku o udzielenie zezwolenia na pobyt czasowy cudzoziemcowi będącemu osobą małoletnią, która do dnia złożenia wniosku ukończyła 6. rok życia, jest wymagana jego obecność. Przepis ust. 2 stosuje się odpowiednio. ” ;
 
-- **22)** w art. 106: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek o udzielenie zezwolenia na pobyt czasowy, z wyjątkiem zezwoleń, o których mowa w art. 139a ust. 1 i art. 139o ust. 1, cudzoziemiec składa na formularzu zawierającym: ” , w ust. 1a: – we wprowadzeniu do wyliczenia po wyrazie „nabył” dodaje się wyrazy „lub prowadzenie spraw spółki komandytowej lub komandytowo-akcyjnej przez komplementariusza, lub działanie w charakterze prokurenta”, – pkt 3 otrzymuje brzmienie: „ 3) oświadczenie podmiotu powierzającego wykonywanie pracy, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, w przedmiocie niekaralności za przestępstwa i wykroczenia, o których mowa w art. 117 pkt 1. ” , dodaje się ust. 5 w brzmieniu: „
+- **22)** w art. 106: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek o udzielenie zezwolenia na pobyt czasowy, z wyjątkiem zezwoleń, o których mowa w art. 139a ust. 1 i art. 139o ust. 1, cudzoziemiec składa na formularzu zawierającym: ” , w ust. 1a: – we wprowadzeniu do wyliczenia po wyrazie „nabył” dodaje się wyrazy „lub prowadzenie spraw spółki komandytowej lub komandytowo-akcyjnej przez komplementariusza, lub działanie w charakterze prokurenta”, pkt 3 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+
+- **3)** oświadczenie podmiotu powierzającego wykonywanie pracy, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, w przedmiocie niekaralności za przestępstwa i wykroczenia, o których mowa w art. 117 pkt 1. ” , dodaje się ust. 5 w brzmieniu: „
     - **c)**
 
 5. W przypadku gdy z przyczyn zależnych od wojewody nie jest możliwe pobranie odcisków linii papilarnych od cudzoziemca w dniu, w którym nastąpiło jego osobiste stawiennictwo, wojewoda wyznacza termin na ich złożenie, nie krótszy niż 7 dni. ” ;
@@ -394,10 +400,12 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 - **4)** wynagrodzenie, które jest wskazane przez podmiot powierzający wykonywanie pracy w załączniku do wniosku o udzielenie zezwolenia, o którym mowa w art. 106 ust. 1a, nie jest niższe niż wynagrodzenie pracowników wykonujących w tym samym wymiarze czasu pracy pracę porównywalnego rodzaju lub na porównywalnym stanowisku. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
-1a. Zezwolenia na pobyt czasowy i pracę udziela się także wówczas, gdy celem pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej jest wykonywanie pracy w zawodzie pożądanym dla polskiej gospodarki, określonym w przepisach wydanych na podstawie ust. 5, cudzoziemiec posiada kwalifikacje zawodowe wymagane do wykonywania pracy w tym zawodzie i spełnione są łącznie warunki, o których mowa w ust. 1 pkt 1, 2, 4 i 5. ” , w ust. 3: – w pkt 2 po wyrazach „zezwolenie na pobyt” dodaje się wyraz „czasowy”, – po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „ 2a) cudzoziemiec w okresie 3 lat poprzedzających złożenie wniosku ukończył uczelnię z siedzibą na terytorium Rzeczypospolitej Polskiej albo innego państwa Europejskiego Obszaru Gospodarczego lub Konfederacji Szwajcarskiej lub jest uczestnikiem studiów doktoranckich w Rzeczypospolitej Polskiej, lub 2b) cudzoziemiec w okresie 3 lat poprzedzających złożenie wniosku przebywał legalnie i nieprzerwanie na terytorium Rzeczypospolitej Polskiej, lub ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+1a. Zezwolenia na pobyt czasowy i pracę udziela się także wówczas, gdy celem pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej jest wykonywanie pracy w zawodzie pożądanym dla polskiej gospodarki, określonym w przepisach wydanych na podstawie ust. 5, cudzoziemiec posiada kwalifikacje zawodowe wymagane do wykonywania pracy w tym zawodzie i spełnione są łącznie warunki, o których mowa w ust. 1 pkt 1, 2, 4 i 5. ” , w ust. 3: – w pkt 2 po wyrazach „zezwolenie na pobyt” dodaje się wyraz „czasowy”, po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „
 
 - **c)**
-- **d)**
+- **2a)** cudzoziemiec w okresie 3 lat poprzedzających złożenie wniosku ukończył uczelnię z siedzibą na terytorium Rzeczypospolitej Polskiej albo innego państwa Europejskiego Obszaru Gospodarczego lub Konfederacji Szwajcarskiej lub jest uczestnikiem studiów doktoranckich w Rzeczypospolitej Polskiej, lub
+- **2b)** cudzoziemiec w okresie 3 lat poprzedzających złożenie wniosku przebywał legalnie i nieprzerwanie na terytorium Rzeczypospolitej Polskiej, lub ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+    - **d)**
 
 3a. Do ustalenia, że pobyt cudzoziemca, o którym mowa w ust. 3 pkt 2b, jest nieprzerwany, stosuje się przepis art. 195 ust. 4. ” , dodaje się ust. 5 w brzmieniu: „
 
@@ -491,7 +499,7 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 - **43)** uchyla się art. 139;
 - **44)** w dziale V po rozdziale 3 dodaje się rozdziały 3a i 3b w brzmieniu: „
 
-#### Rozdział 3a Zezwolenie na pobyt czasowy w celu wykonywania pracy w ramach przeniesienia wewnątrz przedsiębiorstwa
+#### Rozdział 3a
 
 **Art. 139a.**
 
@@ -603,7 +611,7 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 
 2. Jeżeli zezwolenia, o którym mowa w art. 139a ust. 1, udzielił Szef Urzędu w drugiej instancji, zawiadomienie, o którym mowa w ust. 1, kieruje się do wojewody, który orzekał w sprawie udzielenia zezwolenia, o którym mowa w art. 139a ust. 1, w pierwszej instancji.
 
-#### Rozdział 3b Pobyt cudzoziemców na terytorium Rzeczypospolitej Polskiej w celu korzystania z mobilności
+#### Rozdział 3b
 
 **Art. 142a.**
 
@@ -728,8 +736,11 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 
 5. Do ustalenia, czy cudzoziemiec ubiegający się o udzielenie zezwolenia, o którym mowa w ust. 1, posiada dochód, o którym mowa w ust. 1 pkt 3, stosuje się przepis art. 114 ust. 2. ” ;
 
-- **69)** w art. 188: w ust. 3: – pkt 2 otrzymuje brzmienie: „ 2) pkt 1 lit. b lub pkt 8, posiada źródło stabilnego i regularnego dochodu wystarczającego na pokrycie kosztów utrzymania siebie i członków rodziny pozostających na jego utrzymaniu; ” , – pkt 5 otrzymuje brzmienie: „ 5) pkt 2 lub 5, ma zapewnione na terytorium Rzeczypospolitej Polskiej utrzymanie. ” , dodaje się ust. 6 w brzmieniu: „
+- **69)** w art. 188: w ust. 3: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** pkt 1 lit. b lub pkt 8, posiada źródło stabilnego i regularnego dochodu wystarczającego na pokrycie kosztów utrzymania siebie i członków rodziny pozostających na jego utrzymaniu; ” , pkt 5 otrzymuje brzmienie: „
+- **5)** pkt 2 lub 5, ma zapewnione na terytorium Rzeczypospolitej Polskiej utrzymanie. ” , dodaje się ust. 6 w brzmieniu: „
     - **b)**
 
 6. Wysokość miesięcznych środków finansowych, które cudzoziemiec posiada na pokrycie kosztów utrzymania, o których mowa w ust. 3 pkt 3, jest wyższa niż wysokość dochodu uprawniającego do świadczeń pieniężnych z pomocy społecznej określonych w ustawie z dnia 12 marca 2004 r. o pomocy społecznej w odniesieniu do cudzoziemca oraz każdego członka rodziny pozostającego na jego utrzymaniu. ” ;
@@ -742,8 +753,15 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 
 - **1)** minimalną wysokość środków finansowych, jakie będzie musiał posiadać cudzoziemiec, który zamierza na terytorium Rzeczypospolitej Polskiej podjąć lub kontynuować naukę, dla siebie i członków rodziny pozostających na jego utrzymaniu, na pokrycie kosztów podróży powrotnej do państwa pochodzenia lub zamieszkania albo kosztów tranzytu do państwa trzeciego, które udzieli pozwolenia na wjazd, uwzględniając zróżnicowanie wysokości tych środków w zależności od państwa, z którego cudzoziemiec przybył;
 - **2)** dokumenty mogące potwierdzić możliwość uzyskania środków finansowych, o których mowa w pkt 1, oraz środków finansowych na pokrycie kosztów utrzymania cudzoziemca oraz członków jego rodziny, o których mowa w art. 188 ust. 3 pkt 3, zgodnie z prawem, uwzględniając potrzebę skutecznej weryfikacji możliwości uzyskania tych środków. ” ;
-- **72)** w art. 195: w ust. 1: – w pkt 1 lit. b otrzymuje brzmienie: „ b) urodzonym w okresie ważności zezwolenia na pobyt czasowy udzielonego temu cudzoziemcowi lub w okresie pobytu tego cudzoziemca na terytorium Rzeczypospolitej Polskiej na podstawie zgody na pobyt ze względów humanitarnych lub zgody na pobyt tolerowany albo w związku z nadaniem mu statusu uchodźcy lub udzieleniem ochrony uzupełniającej, lub ” , – pkt 4 otrzymuje brzmienie: „ 4) pozostaje w uznawanym przez prawo Rzeczypospolitej Polskiej związku małżeńskim z obywatelem polskim i pozostawał w tym związku małżeńskim przez co najmniej 3 lata przed dniem, w którym złożył wniosek o udzielenie mu zezwolenia na pobyt stały, i bezpośrednio przed złożeniem tego wniosku przebywał nieprzerwanie na terytorium Rzeczypospolitej Polskiej przez okres nie krótszy niż 2 lata na podstawie zezwolenia na pobyt czasowy udzielonego w związku z pozostawaniem w związku małżeńskim z tym obywatelem polskim lub w związku z uzyskaniem statusu uchodźcy, ochrony uzupełniającej lub zgody na pobyt ze względów humanitarnych, lub ” , – w pkt 5 w lit. c skreśla się wyrazy „potwierdzone przez prokuratora prowadzącego postępowanie w sprawie o przestępstwo, o którym mowa w art. 189a § 1 Kodeksu karnego,”, – pkt 6 otrzymuje brzmienie: „ 6) bezpośrednio przed złożeniem wniosku o udzielenie mu zezwolenia na pobyt stały przebywał nieprzerwanie na terytorium Rzeczypospolitej Polskiej przez okres nie krótszy niż: a) 5 lat w związku z nadaniem mu statusu uchodźcy, udzieleniem ochrony uzupełniającej lub na podstawie zgody na pobyt ze względów humanitarnych lub b) 10 lat na podstawie zgody na pobyt tolerowany udzielonej na podstawie art. 351 pkt 1 lub 3, lub c) 4 lata na podstawie zezwolenia na pobyt czasowy i pracę udzielonego ze względu na cel, o którym mowa w art. 114 ust. 1a, i posiada źródło stabilnego i regularnego dochodu wystarczającego na pokrycie kosztów utrzymania siebie i członków rodziny pozostających na jego utrzymaniu, lub ” , – uchyla się pkt 7, ust. 2 otrzymuje brzmienie: „
+- **72)** w art. 195: w ust. 1: w pkt 1 lit. b otrzymuje brzmienie: „ urodzonym w okresie ważności zezwolenia na pobyt czasowy udzielonego temu cudzoziemcowi lub w okresie pobytu tego cudzoziemca na terytorium Rzeczypospolitej Polskiej na podstawie zgody na pobyt ze względów humanitarnych lub zgody na pobyt tolerowany albo w związku z nadaniem mu statusu uchodźcy lub udzieleniem ochrony uzupełniającej, lub ” , pkt 4 otrzymuje brzmienie: „
     - **a)**
+    - **b)**
+
+- **4)** pozostaje w uznawanym przez prawo Rzeczypospolitej Polskiej związku małżeńskim z obywatelem polskim i pozostawał w tym związku małżeńskim przez co najmniej 3 lata przed dniem, w którym złożył wniosek o udzielenie mu zezwolenia na pobyt stały, i bezpośrednio przed złożeniem tego wniosku przebywał nieprzerwanie na terytorium Rzeczypospolitej Polskiej przez okres nie krótszy niż 2 lata na podstawie zezwolenia na pobyt czasowy udzielonego w związku z pozostawaniem w związku małżeńskim z tym obywatelem polskim lub w związku z uzyskaniem statusu uchodźcy, ochrony uzupełniającej lub zgody na pobyt ze względów humanitarnych, lub ” , – w pkt 5 w lit. c skreśla się wyrazy „potwierdzone przez prokuratora prowadzącego postępowanie w sprawie o przestępstwo, o którym mowa w art. 189a § 1 Kodeksu karnego,”, pkt 6 otrzymuje brzmienie: „
+- **6)** bezpośrednio przed złożeniem wniosku o udzielenie mu zezwolenia na pobyt stały przebywał nieprzerwanie na terytorium Rzeczypospolitej Polskiej przez okres nie krótszy niż: 5 lat w związku z nadaniem mu statusu uchodźcy, udzieleniem ochrony uzupełniającej lub na podstawie zgody na pobyt ze względów humanitarnych lub 10 lat na podstawie zgody na pobyt tolerowany udzielonej na podstawie art. 351 pkt 1 lub 3, lub 4 lata na podstawie zezwolenia na pobyt czasowy i pracę udzielonego ze względu na cel, o którym mowa w art. 114 ust. 1a, i posiada źródło stabilnego i regularnego dochodu wystarczającego na pokrycie kosztów utrzymania siebie i członków rodziny pozostających na jego utrzymaniu, lub ” , – uchyla się pkt 7, ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
     - **b)**
 
 2. Do ustalenia polskiego pochodzenia osoby, o której mowa w ust. 1 pkt 3, stosuje się przepisy art. 5 ust. 1 oraz odpowiednio przepisy art. 6 ust. 1 i 2 ustawy z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2014 r. poz. 1392, z 2015 r. poz. 1274 oraz z 2017 r. poz. 60, 858 i 2282). ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
@@ -753,8 +771,10 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 2a. Do ustalenia, czy cudzoziemiec ubiegający się o udzielenie zezwolenia, o którym mowa w ust. 1, posiada dochód, o którym mowa w ust. 1 pkt 6 lit. c, stosuje się przepis art. 114 ust. 2. ” , w ust. 3 wyrazy „o których mowa w ust. 1 pkt 6 lub 7” zastępuje się wyrazami „o których mowa w ust. 1 pkt 6 lit. a lub b”;
 
 - **d)**
-- **73)** w art. 196: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Cudzoziemcowi odmawia się wszczęcia postępowania w sprawie udzielenia zezwolenia na pobyt stały, gdy w dniu złożenia wniosku o udzielenie tego zezwolenia: ” , – pkt 4 otrzymuje brzmienie: „ 4) przebywa na terytorium Rzeczypospolitej Polskiej po tym, jak został zobowiązany do powrotu i nie upłynął jeszcze termin dobrowolnego powrotu określony w decyzji w tej sprawie, także w przypadku przedłużenia tego terminu, lub ” , – uchyla się pkt 7, dodaje się ust. 5 w brzmieniu: „
+- **73)** w art. 196: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Cudzoziemcowi odmawia się wszczęcia postępowania w sprawie udzielenia zezwolenia na pobyt stały, gdy w dniu złożenia wniosku o udzielenie tego zezwolenia: ” , pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** przebywa na terytorium Rzeczypospolitej Polskiej po tym, jak został zobowiązany do powrotu i nie upłynął jeszcze termin dobrowolnego powrotu określony w decyzji w tej sprawie, także w przypadku przedłużenia tego terminu, lub ” , – uchyla się pkt 7, dodaje się ust. 5 w brzmieniu: „
     - **b)**
 
 5. Poza przypadkami, o których mowa w ust. 1, cudzoziemcowi odmawia się wszczęcia postępowania w sprawie udzielenia zezwolenia na pobyt stały, gdy przy składaniu wniosku o udzielenie mu tego zezwolenia albo w terminie, o którym mowa w art. 203 ust. 5, nie złożył odcisków linii papilarnych w celu wydania karty pobytu. ” ;
@@ -832,9 +852,12 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 - **7)** o którym mowa w art. 139a ust. 1, art. 139o ust. 1 lub art. 181 ust. 1; ” , w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przepisu ust. 3, w zakresie, w jakim przewiduje maksymalne dopuszczalne okresy przerw w pobycie cudzoziemca na terytorium Rzeczypospolitej Polskiej, nie stosuje się, jeżeli przerwa była spowodowana: ” ;
     - **b)**
 
-- **85)** w art. 213: dotychczasową treść oznacza się jako ust. 1, w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Cudzoziemcowi odmawia się wszczęcia postępowania w sprawie udzielenia zezwolenia na pobyt rezydenta długoterminowego UE, gdy w dniu złożenia wniosku o udzielenie tego zezwolenia: ” , – w pkt 1 lit. g otrzymuje brzmienie: „ g) na podstawie zezwolenia, o którym mowa w art. 139a ust. 1, art. 139o ust. 1 lub art. 181 ust. 1, lub ” , – pkt 5 otrzymuje brzmienie: „ 5) przebywa na terytorium Rzeczypospolitej Polskiej po tym, jak został zobowiązany do powrotu i nie upłynął jeszcze termin dobrowolnego powrotu określony w decyzji w tej sprawie, także w przypadku przedłużenia tego terminu, lub ” , – uchyla się pkt 8, dodaje się ust. 2 w brzmieniu: „
+- **85)** w art. 213: dotychczasową treść oznacza się jako ust. 1, w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Cudzoziemcowi odmawia się wszczęcia postępowania w sprawie udzielenia zezwolenia na pobyt rezydenta długoterminowego UE, gdy w dniu złożenia wniosku o udzielenie tego zezwolenia: ” , w pkt 1 lit. g otrzymuje brzmienie: „ na podstawie zezwolenia, o którym mowa w art. 139a ust. 1, art. 139o ust. 1 lub art. 181 ust. 1, lub ” , pkt 5 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+    - **g)**
+
+- **5)** przebywa na terytorium Rzeczypospolitej Polskiej po tym, jak został zobowiązany do powrotu i nie upłynął jeszcze termin dobrowolnego powrotu określony w decyzji w tej sprawie, także w przypadku przedłużenia tego terminu, lub ” , – uchyla się pkt 8, dodaje się ust. 2 w brzmieniu: „
     - **c)**
 
 2. Poza przypadkami, o których mowa w ust. 1, cudzoziemcowi odmawia się wszczęcia postępowania w sprawie udzielenia zezwolenia na pobyt rezydenta długoterminowego UE, gdy przy składaniu wniosku o udzielenie mu tego zezwolenia albo w terminie, o którym mowa w art. 219 ust. 6, nie złożył odcisków linii papilarnych w celu wydania karty pobytu. ” ;
@@ -905,13 +928,13 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 - **99)** w art. 299: po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
 
-1a. Cudzoziemiec, który nie spełnia warunków wjazdu lub pobytu na terytorium Rzeczypospolitej Polskiej lub przestał spełniać te warunki, posiadający zezwolenie pobytowe lub inne zezwolenie, udzielone przez inne państwo stosujące dyrektywę Parlamentu Europejskiego i Rady 2008/115/WE z dnia 16 grudnia 2008 r. w sprawie wspólnych norm i procedur stosowanych przez państwa członkowskie w odniesieniu do powrotów nielegalnie przebywających obywateli państw trzecich (Dz. Urz. UE L 348 z 24.12.2008, str. 98, z późn. zm.), zwaną dalej „dyrektywą 2008/115/WE”, uprawniające go do pobytu na terytorium tego państwa, jest obowiązany niezwłocznie opuścić terytorium Rzeczypospolitej Polskiej i udać się na terytorium państwa, które to zezwolenie wydało. ” , ust. 6 otrzymuje brzmienie: „
+1a. Cudzoziemiec, który nie spełnia warunków wjazdu lub pobytu na terytorium Rzeczypospolitej Polskiej lub przestał spełniać te warunki, posiadający zezwolenie pobytowe lub inne zezwolenie, udzielone przez inne państwo stosujące dyrektywę Parlamentu Europejskiego i Rady 2008/115/WE z dnia 16 grudnia 2008 r. w sprawie wspólnych norm i procedur stosowanych przez państwa członkowskie w odniesieniu do powrotów nielegalnie przebywających obywateli państw trzecich (Dz. Urz. UE L 348 z 24.12.2008, str. 98, z późn. zm.Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 180 z 29.06.2013, str. 31.), zwaną dalej „dyrektywą 2008/115/WE”, uprawniające go do pobytu na terytorium tego państwa, jest obowiązany niezwłocznie opuścić terytorium Rzeczypospolitej Polskiej i udać się na terytorium państwa, które to zezwolenie wydało. ” , ust. 6 otrzymuje brzmienie: „
 
 - **b)**
 
 6. Cudzoziemiec jest obowiązany opuścić terytorium Rzeczypospolitej Polskiej w terminie:
 
-- **1)** 30 dni od dnia, w którym decyzja: o odmowie przedłużenia mu wizy Schengen lub wizy krajowej, udzielenia mu zezwolenia na pobyt czasowy, zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego UE, decyzja o umorzeniu postępowania w tych sprawach lub decyzja o cofnięciu mu zezwolenia na pobyt czasowy, zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego UE lub o odmowie nadania mu statusu uchodźcy lub udzielenia ochrony uzupełniającej, o uznaniu wniosku o udzielenie ochrony międzynarodowej za niedopuszczalny, o umorzeniu postępowania w sprawie udzielenia mu ochrony międzynarodowej lub decyzja o pozbawieniu go statusu uchodźcy lub ochrony uzupełniającej, lub o cofnięciu zgody na pobyt ze względów humanitarnych stała się ostateczna, a w przypadku wydania decyzji przez organ wyższego stopnia – od dnia, w którym decyzja została cudzoziemcowi doręczona;
+- **1)** 30 dni od dnia, w którym decyzja: o odmowie przedłużenia mu wizy Schengen lub wizy krajowej, udzielenia mu zezwolenia na pobyt czasowy, zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego UE, decyzja o umorzeniu postępowania w tych sprawach lub decyzja o cofnięciu mu zezwolenia na pobyt czasowy, zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego UE lub o odmowie nadania mu statusu uchodźcy lub udzielenia ochrony uzupełniającej, o uznaniu wniosku o udzielenie ochrony międzynarodowej za niedopuszczalny, o umorzeniu postępowania w sprawie udzielenia mu ochrony międzynarodowej lub decyzja o pozbawieniu go statusu uchodźcy lub ochrony uzupełniającej, lub o cofnięciu zgody na pobyt ze względów humanitarnych – stała się ostateczna, a w przypadku wydania decyzji przez organ wyższego stopnia – od dnia, w którym decyzja została cudzoziemcowi doręczona;
     - **a)**
     - **b)**
     - **c)**
@@ -919,10 +942,11 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 - **2)** 7 dni od dnia, w którym ustały przyczyny nieprzekazania go do państwa trzeciego, o których mowa w art. 31 ust. 1. ” , po ust. 8 dodaje się ust. 8a w brzmieniu: „
     - **c)**
 
-8a. Przepisów ust. 6 pkt 1 lit. a i ust. 7 nie stosuje się w przypadku, gdy przed wydaniem decyzji o odmowie przedłużenia cudzoziemcowi wizy Schengen lub wizy krajowej, udzielenia mu zezwolenia na pobyt czasowy, zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego UE lub decyzji o umorzeniu postępowania w tych sprawach zostało wszczęte wobec cudzoziemca postępowanie w sprawie zobowiązania go do powrotu lub została mu wydana decyzja o zobowiązaniu cudzoziemca do powrotu. ” , w ust. 9: – we wprowadzeniu do wyliczenia wyrazy „ust. 6 pkt 2 i ust. 7” zastępuje się wyrazami „ust. 6 pkt 1 lit. b i ust. 7”, – w pkt 2 kropkę zastępuje się przecinkiem i dodaje się wyraz „lub”, – dodaje się pkt 3 w brzmieniu: „ 3) przed wydaniem decyzji o odmowie nadania cudzoziemcowi statusu uchodźcy lub udzielenia mu ochrony uzupełniającej lub decyzji o umorzeniu postępowania w sprawie udzielenia ochrony międzynarodowej zostało wszczęte wobec cudzoziemca postępowanie w sprawie zobowiązania go do powrotu lub została mu wydana decyzja o zobowiązaniu cudzoziemca do powrotu. ” , dodaje się ust. 10 i 11 w brzmieniu: „
+8a. Przepisów ust. 6 pkt 1 lit. a i ust. 7 nie stosuje się w przypadku, gdy przed wydaniem decyzji o odmowie przedłużenia cudzoziemcowi wizy Schengen lub wizy krajowej, udzielenia mu zezwolenia na pobyt czasowy, zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego UE lub decyzji o umorzeniu postępowania w tych sprawach zostało wszczęte wobec cudzoziemca postępowanie w sprawie zobowiązania go do powrotu lub została mu wydana decyzja o zobowiązaniu cudzoziemca do powrotu. ” , w ust. 9: – we wprowadzeniu do wyliczenia wyrazy „ust. 6 pkt 2 i ust. 7” zastępuje się wyrazami „ust. 6 pkt 1 lit. b i ust. 7”, – w pkt 2 kropkę zastępuje się przecinkiem i dodaje się wyraz „lub”, dodaje się pkt 3 w brzmieniu: „
 
 - **d)**
-- **e)**
+- **3)** przed wydaniem decyzji o odmowie nadania cudzoziemcowi statusu uchodźcy lub udzielenia mu ochrony uzupełniającej lub decyzji o umorzeniu postępowania w sprawie udzielenia ochrony międzynarodowej zostało wszczęte wobec cudzoziemca postępowanie w sprawie zobowiązania go do powrotu lub została mu wydana decyzja o zobowiązaniu cudzoziemca do powrotu. ” , dodaje się ust. 10 i 11 w brzmieniu: „
+    - **e)**
 
 10. Wojewoda, Szef Urzędu lub Rada do Spraw Uchodźców informuje organ Straży Granicznej właściwy ze względu na miejsce pobytu cudzoziemca o decyzji, o której mowa w ust. 6 pkt 1, gdy decyzja ta stanie się ostateczna, lub o innych rozstrzygnięciach, które skutkują tym, że pobyt cudzoziemca na terytorium Rzeczypospolitej Polskiej przestaje być legalny.
 
@@ -942,8 +966,15 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 
 6. Przepisu ust. 1 pkt 2 nie stosuje się w przypadku cudzoziemca, który przebywa na terytorium Rzeczypospolitej Polskiej na podstawie dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, z adnotacją „ICT”, wydanego przez inne państwo członkowskie Unii Europejskiej, i celem jego pobytu na terytorium Rzeczypospolitej Polskiej jest wykonywanie pracy w charakterze pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż, w ramach przeniesienia wewnątrz przedsiębiorstwa, przez okres nieprzekraczający 90 dni w okresie 180 dni. ” ;
 
-- **101)** w art. 303: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadkach, o których mowa w art. 302 ust. 1, nie wszczyna się postępowania w sprawie zobowiązania cudzoziemca do powrotu, a wszczęte postępowanie w tej sprawie umarza się, jeżeli cudzoziemiec: ” , – pkt 2 i 3 otrzymują brzmienie: „ 2) przebywa na terytorium Rzeczypospolitej Polskiej na podstawie zgody na pobyt ze względów humanitarnych lub zgody na pobyt tolerowany, lub 3) uzyskał zezwolenie, o którym mowa w art. 187 pkt 6 lub 7, lub ” , – w pkt 4 wyrazy „niniejszej ustawy” zastępuje się wyrazami „przepisów określających zasady i warunki wjazdu cudzoziemców na terytorium Rzeczypospolitej Polskiej, ich przejazdu przez to terytorium, pobytu na nim i wyjazdu z niego”, – pkt 6 i 7 otrzymują brzmienie: „ 6) uzyskał zezwolenie na pobyt stały lub zezwolenie na pobyt rezydenta długoterminowego UE na terytorium Rzeczypospolitej Polskiej, lub 7) posiada zezwolenie pobytowe lub inne zezwolenie uprawniające do pobytu, udzielone przez inne państwo stosujące dyrektywę 2008/115/WE, i nie sprzeciwiają się temu względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego, chyba że cudzoziemiec nie udał się niezwłocznie na terytorium tego państwa po pouczeniu go o obowiązku wyjazdu na terytorium tego państwa, o którym mowa w art. 314, lub ” , – w pkt 11 skreśla się wyraz „niezwłocznie”, – w pkt 13 kropkę zastępuje się przecinkiem i dodaje się wyraz „lub”, – dodaje się pkt 14 i 15 w brzmieniu: „ 14) jest przekazywany do państwa trzeciego na wniosek organów tego państwa o wydanie osoby ściganej, w celu przeprowadzenia przeciw niemu na terytorium tego państwa postępowania karnego lub wykonania orzeczonej kary albo środka zabezpieczającego, lub 15) jest przekazywany do innego państwa członkowskiego Unii Europejskiej jako osoba ścigana europejskim nakazem aresztowania w celu przeprowadzenia przeciw niemu na terytorium tego państwa postępowania karnego lub wykonania orzeczonej kary pozbawienia wolności albo innego środka polegającego na pozbawieniu wolności. ” , dodaje się ust. 7 w brzmieniu: „
+- **101)** w art. 303: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadkach, o których mowa w art. 302 ust. 1, nie wszczyna się postępowania w sprawie zobowiązania cudzoziemca do powrotu, a wszczęte postępowanie w tej sprawie umarza się, jeżeli cudzoziemiec: ” , pkt 2 i 3 otrzymują brzmienie: „
     - **a)**
+
+- **2)** przebywa na terytorium Rzeczypospolitej Polskiej na podstawie zgody na pobyt ze względów humanitarnych lub zgody na pobyt tolerowany, lub
+- **3)** uzyskał zezwolenie, o którym mowa w art. 187 pkt 6 lub 7, lub ” , – w pkt 4 wyrazy „niniejszej ustawy” zastępuje się wyrazami „przepisów określających zasady i warunki wjazdu cudzoziemców na terytorium Rzeczypospolitej Polskiej, ich przejazdu przez to terytorium, pobytu na nim i wyjazdu z niego”, pkt 6 i 7 otrzymują brzmienie: „
+- **6)** uzyskał zezwolenie na pobyt stały lub zezwolenie na pobyt rezydenta długoterminowego UE na terytorium Rzeczypospolitej Polskiej, lub
+- **7)** posiada zezwolenie pobytowe lub inne zezwolenie uprawniające do pobytu, udzielone przez inne państwo stosujące dyrektywę 2008/115/WE, i nie sprzeciwiają się temu względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego, chyba że cudzoziemiec nie udał się niezwłocznie na terytorium tego państwa po pouczeniu go o obowiązku wyjazdu na terytorium tego państwa, o którym mowa w art. 314, lub ” , – w pkt 11 skreśla się wyraz „niezwłocznie”, – w pkt 13 kropkę zastępuje się przecinkiem i dodaje się wyraz „lub”, dodaje się pkt 14 i 15 w brzmieniu: „
+- **14)** jest przekazywany do państwa trzeciego na wniosek organów tego państwa o wydanie osoby ściganej, w celu przeprowadzenia przeciw niemu na terytorium tego państwa postępowania karnego lub wykonania orzeczonej kary albo środka zabezpieczającego, lub
+- **15)** jest przekazywany do innego państwa członkowskiego Unii Europejskiej jako osoba ścigana europejskim nakazem aresztowania w celu przeprowadzenia przeciw niemu na terytorium tego państwa postępowania karnego lub wykonania orzeczonej kary pozbawienia wolności albo innego środka polegającego na pozbawieniu wolności. ” , dodaje się ust. 7 w brzmieniu: „
     - **b)**
 
 7. W przypadkach, o których mowa w ust. 1 pkt 9 i 11, z wyjątkiem przypadku, gdy cudzoziemcowi została wydana decyzja, o której mowa w art. 303a ust. 1, komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej właściwy ze względu na miejsce pobytu cudzoziemca:
@@ -996,7 +1027,7 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 
 - **2)** umorzeniu postępowania w sprawach, o których mowa w pkt 1,
 - **3)** odmowie nadania statusu uchodźcy lub udzielenia ochrony uzupełniającej,
-- **4)** umorzeniu postępowania w sprawie udzielenia ochrony międzynarodowej termin dobrowolnego powrotu jest liczony od dnia, w którym decyzja, o której mowa w pkt 1–4, stała się ostateczna, a w przypadku decyzji wydanej przez organ wyższego stopnia – od dnia, w którym decyzja ostateczna została cudzoziemcowi doręczona. ” ;
+- **4)** umorzeniu postępowania w sprawie udzielenia ochrony międzynarodowej – termin dobrowolnego powrotu jest liczony od dnia, w którym decyzja, o której mowa w pkt 1–4, stała się ostateczna, a w przypadku decyzji wydanej przez organ wyższego stopnia – od dnia, w którym decyzja ostateczna została cudzoziemcowi doręczona. ” ;
 - **108)** w art. 317: w ust. 1 w pkt 3 po wyrazach „dokumentu podróży” dodaje się wyrazy „albo innego dokumentu tożsamości”, po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **a)**
     - **b)**
@@ -1022,8 +1053,11 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 1a. Organ, rozpatrując wniosek o cofnięcie zakazu, o którym mowa w art. 318, uwzględnia, w szczególności:
 
 - **1)** okoliczności, w jakich cudzoziemcowi została wydana decyzja o zobowiązaniu cudzoziemca do powrotu;
-- **2)** okoliczności, ze względu na które ma nastąpić ponowny wjazd cudzoziemca na terytorium Rzeczypospolitej Polskiej lub innych państw obszaru Schengen. ” , w ust. 2: – we wprowadzeniu do wyliczenia wyrazy „art. 318 ust. 1” zastępuje się wyrazami „art. 318”, – w pkt 2 kropkę zastępuje się przecinkiem i dodaje się wyraz „lub”, – dodaje się pkt 3 i 4 w brzmieniu: „ 3) został on orzeczony po wydaniu cudzoziemcowi decyzji o cofnięciu zakazu, o którym mowa w art. 318, i od wydania tej decyzji nie upłynęły 2 lata, lub 4) nie upłynęła jeszcze połowa okresu, na jaki został orzeczony. ” , dodaje się ust. 3 w brzmieniu: „
+- **2)** okoliczności, ze względu na które ma nastąpić ponowny wjazd cudzoziemca na terytorium Rzeczypospolitej Polskiej lub innych państw obszaru Schengen. ” , w ust. 2: – we wprowadzeniu do wyliczenia wyrazy „art. 318 ust. 1” zastępuje się wyrazami „art. 318”, – w pkt 2 kropkę zastępuje się przecinkiem i dodaje się wyraz „lub”, dodaje się pkt 3 i 4 w brzmieniu: „
     - **c)**
+
+- **3)** został on orzeczony po wydaniu cudzoziemcowi decyzji o cofnięciu zakazu, o którym mowa w art. 318, i od wydania tej decyzji nie upłynęły 2 lata, lub
+- **4)** nie upłynęła jeszcze połowa okresu, na jaki został orzeczony. ” , dodaje się ust. 3 w brzmieniu: „
     - **d)**
 
 3. Przepisów ust. 2 pkt 3 i 4 nie stosuje się, jeżeli wjazd cudzoziemca na terytorium Rzeczypospolitej Polskiej ma nastąpić ze względów humanitarnych. ” ;
@@ -1056,9 +1090,14 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 
 3a. W przypadku, o którym mowa w ust. 3, jeżeli wykonywanie pracy lub pełnienie funkcji zostało cudzoziemcowi powierzone przez kilka podmiotów, ponoszą one solidarnie koszty, o których mowa w art. 336 ust. 1. ” ;
 
-- **120)** w art. 338: dotychczasową treść oznacza się jako ust. 1, w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) pobytu cudzoziemca w pomieszczeniu przeznaczonym dla osób zatrzymanych; ” , – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) zapewnienia cudzoziemcowi opieki medycznej i psychologicznej podczas pobytu w strzeżonym ośrodku lub areszcie dla cudzoziemców; ” , – po pkt 5 dodaje się pkt 5a i 5b w brzmieniu: „ 5a) doprowadzenia cudzoziemca do pomieszczenia przeznaczonego dla osób zatrzymanych, strzeżonego ośrodka lub aresztu dla cudzoziemców lub do organu Straży Granicznej, sądu, prokuratury, jednostki Policji, Szefa Urzędu, placówek opiekuńczo-wychowawczych lub podmiotów leczniczych; 5b) czynności, o których mowa w art. 325; ” , dodaje się ust. 2 w brzmieniu: „
+- **120)** w art. 338: dotychczasową treść oznacza się jako ust. 1, w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+
+- **2)** pobytu cudzoziemca w pomieszczeniu przeznaczonym dla osób zatrzymanych; ” , po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** zapewnienia cudzoziemcowi opieki medycznej i psychologicznej podczas pobytu w strzeżonym ośrodku lub areszcie dla cudzoziemców; ” , po pkt 5 dodaje się pkt 5a i 5b w brzmieniu: „
+- **5a)** doprowadzenia cudzoziemca do pomieszczenia przeznaczonego dla osób zatrzymanych, strzeżonego ośrodka lub aresztu dla cudzoziemców lub do organu Straży Granicznej, sądu, prokuratury, jednostki Policji, Szefa Urzędu, placówek opiekuńczo-wychowawczych lub podmiotów leczniczych;
+- **5b)** czynności, o których mowa w art. 325; ” , dodaje się ust. 2 w brzmieniu: „
     - **c)**
 
 2. Koszty, o których mowa w ust. 1 pkt 2 i 3, określa się w formie ryczałtu, a minimalna stawka za jeden dzień pobytu cudzoziemca w:
@@ -1168,7 +1207,7 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 - **1)** zgłaszania się w określonych odstępach czasu do organu Straży Granicznej wskazanego w postanowieniu,
 - **2)** wpłaty zabezpieczenia pieniężnego w wysokości określonej w postanowieniu, nie niższej niż dwukrotność minimalnego wynagrodzenia przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę,
 - **3)** przekazania dokumentu podróży do depozytu organowi wskazanemu w postanowieniu,
-- **4)** zamieszkiwania w miejscu wyznaczonym w postanowieniu do czasu wykonania decyzji o zobowiązaniu cudzoziemca do powrotu lub przekazania do innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej.
+- **4)** zamieszkiwania w miejscu wyznaczonym w postanowieniu – do czasu wykonania decyzji o zobowiązaniu cudzoziemca do powrotu lub przekazania do innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej.
 
 3. Do zabezpieczenia, o którym mowa w ust. 2 pkt 2, stosuje się przepisy ustawy z dnia 18 października 2006 r. o likwidacji niepodjętych depozytów (Dz. U. poz. 1537 oraz z 2009 r. poz. 1241), z tym że termin do odbioru depozytu wynosi 1 rok od dnia doręczenia cudzoziemcowi wezwania do odbioru albo dnia dokonania wezwania, o którym mowa w art. 6 ust. 5 tej ustawy.
 
@@ -1202,7 +1241,7 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 1. Komendant Główny Straży Granicznej zapewnia cudzoziemcowi, który:
 
 - **1)** z powodu okoliczności, o których mowa w art. 400, nie został umieszczony w strzeżonym ośrodku lub wobec którego nie zastosowano aresztu dla cudzoziemców,
-- **2)** w przypadku, o którym mowa w art. 406 ust. 1 pkt 2 lub 3, został zwolniony ze strzeżonego ośrodka lub aresztu dla cudzoziemców oraz członkom rodziny lub opiekunowi prawnemu tego cudzoziemca, w przypadku osoby małoletniej lub ubezwłasnowolnionej, świadczenia z zakresu pomocy socjalnej, opieki medycznej i psychologicznej.
+- **2)** w przypadku, o którym mowa w art. 406 ust. 1 pkt 2 lub 3, został zwolniony ze strzeżonego ośrodka lub aresztu dla cudzoziemców – oraz członkom rodziny lub opiekunowi prawnemu tego cudzoziemca, w przypadku osoby małoletniej lub ubezwłasnowolnionej, świadczenia z zakresu pomocy socjalnej, opieki medycznej i psychologicznej.
 
 2. Komendant Główny Straży Granicznej zleca organizację świadczeń, o których mowa w ust. 1, podmiotowi, do którego statutowych obowiązków należy udzielanie pomocy cudzoziemcom.
 
@@ -1236,7 +1275,7 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 
 - **1)** zgłaszania się w określonych odstępach czasu do organu Straży Granicznej wskazanego w decyzji,
 - **2)** przekazania dokumentu podróży do depozytu organowi wskazanemu w decyzji,
-- **3)** zamieszkiwania w miejscu wyznaczonym w decyzji do dnia wykonania decyzji o zobowiązaniu cudzoziemca do powrotu, przekazania go do innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej lub udzielenia mu zgody na pobyt ze względów humanitarnych lub zgody na pobyt tolerowany.
+- **3)** zamieszkiwania w miejscu wyznaczonym w decyzji – do dnia wykonania decyzji o zobowiązaniu cudzoziemca do powrotu, przekazania go do innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej lub udzielenia mu zgody na pobyt ze względów humanitarnych lub zgody na pobyt tolerowany.
 
 2. Cudzoziemca pozbawia się świadczeń, o których mowa w art. 400a ust. 1, w drodze decyzji, jeżeli:
 
@@ -1260,7 +1299,7 @@ po art. 142 dodaje się art. 142a w brzmieniu:
     - **b)**
     - **c)**
 
-- **2)** trwają czynności mające na celu umożliwienie: przymusowego wykonania decyzji o zobowiązaniu cudzoziemca do powrotu albo przekazania cudzoziemca zgodnie z art. 28 rozporządzenia 604/2013, albo przekazania cudzoziemca do innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej na podstawie umowy międzynarodowej o przekazywaniu i przyjmowaniu osób jeżeli jednocześnie zachodzi jedna z okoliczności, o których mowa w art. 398a.
+- **2)** trwają czynności mające na celu umożliwienie: przymusowego wykonania decyzji o zobowiązaniu cudzoziemca do powrotu albo przekazania cudzoziemca zgodnie z art. 28 rozporządzenia 604/2013, albo przekazania cudzoziemca do innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej na podstawie umowy międzynarodowej o przekazywaniu i przyjmowaniu osób – jeżeli jednocześnie zachodzi jedna z okoliczności, o których mowa w art. 398a.
     - **a)**
     - **b)**
     - **c)**
@@ -1287,9 +1326,17 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 4. Do okresów, o których mowa w ust. 1–3a i 5, nie wlicza się okresu pobytu cudzoziemca w strzeżonym ośrodku lub w areszcie dla cudzoziemców w związku ze złożonym przez niego wnioskiem o udzielenie ochrony międzynarodowej. ” , w ust. 7a wyrazy „art. 398 ust. 3” zastępuje się wyrazami „art. 398 ust. 2”;
 
 - **d)**
-- **137)** w art. 406: w ust. 1a i 1b wyrazy „art. 398 ust. 3” zastępuje się wyrazami „art. 398 ust. 2”, w ust. 5: – pkt 3a otrzymuje brzmienie: „ 3a) upływu terminu: a) o którym mowa w art. 24 ust. 2 rozporządzenia 604/2013, do złożenia wniosku o wtórne przejęcie cudzoziemca do odpowiedzialnego państwa członkowskiego w odniesieniu do cudzoziemca umieszczonego w strzeżonym ośrodku albo w areszcie dla cudzoziemców w przypadku, o którym mowa w art. 398 ust. 1 pkt 4, b) przekazania cudzoziemca do odpowiedzialnego państwa członkowskiego, o którym mowa w art. 28 ust. 3 zdanie szóste rozporządzenia 604/2013, w odniesieniu do cudzoziemca umieszczonego w strzeżonym ośrodku albo w areszcie dla cudzoziemców w przypadku, o którym mowa w art. 398 ust. 1 pkt 4 niniejszej ustawy lub art. 87 ust. 1 pkt 5 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, c) o którym mowa w art. 28 ust. 3 zdanie drugie rozporządzenia 604/2013, na złożenie wniosku o przejęcie lub wtórne przejęcie cudzoziemca do odpowiedzialnego państwa członkowskiego w odniesieniu do cudzoziemca umieszczonego w strzeżonym ośrodku albo w areszcie dla cudzoziemców w przypadku, o którym mowa w art. 87 ust. 1 pkt 5 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, lub ” , – po pkt 3a dodaje się pkt 3b w brzmieniu: „ 3b) przekazania cudzoziemca do innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej albo państwa trzeciego na podstawie umowy międzynarodowej o przekazywaniu i przyjmowaniu osób, lub ” , – w pkt 4 lit. a otrzymuje brzmienie: „ a) uchyleniu lub stwierdzeniu nieważności decyzji o zobowiązaniu cudzoziemca do powrotu, z wyjątkiem decyzji, zgodnie z którą sprawa została przekazana do ponownego rozpatrzenia, a cudzoziemiec został umieszczony w strzeżonym ośrodku lub areszcie dla cudzoziemców w związku z okolicznością, o której mowa w art. 398 ust. 1 pkt 1 lub art. 398a pkt 1, lub ” , ust. 6 otrzymuje brzmienie: „
+- **137)** w art. 406: w ust. 1a i 1b wyrazy „art. 398 ust. 3” zastępuje się wyrazami „art. 398 ust. 2”, w ust. 5: pkt 3a otrzymuje brzmienie: „
     - **a)**
     - **b)**
+
+- **3a)** upływu terminu: o którym mowa w art. 24 ust. 2 rozporządzenia 604/2013, do złożenia wniosku o wtórne przejęcie cudzoziemca do odpowiedzialnego państwa członkowskiego w odniesieniu do cudzoziemca umieszczonego w strzeżonym ośrodku albo w areszcie dla cudzoziemców w przypadku, o którym mowa w art. 398 ust. 1 pkt 4, przekazania cudzoziemca do odpowiedzialnego państwa członkowskiego, o którym mowa w art. 28 ust. 3 zdanie szóste rozporządzenia 604/2013, w odniesieniu do cudzoziemca umieszczonego w strzeżonym ośrodku albo w areszcie dla cudzoziemców w przypadku, o którym mowa w art. 398 ust. 1 pkt 4 niniejszej ustawy lub art. 87 ust. 1 pkt 5 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, o którym mowa w art. 28 ust. 3 zdanie drugie rozporządzenia 604/2013, na złożenie wniosku o przejęcie lub wtórne przejęcie cudzoziemca do odpowiedzialnego państwa członkowskiego w odniesieniu do cudzoziemca umieszczonego w strzeżonym ośrodku albo w areszcie dla cudzoziemców w przypadku, o którym mowa w art. 87 ust. 1 pkt 5 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, lub ” , po pkt 3a dodaje się pkt 3b w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3b)** przekazania cudzoziemca do innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej albo państwa trzeciego na podstawie umowy międzynarodowej o przekazywaniu i przyjmowaniu osób, lub ” , w pkt 4 lit. a otrzymuje brzmienie: „ uchyleniu lub stwierdzeniu nieważności decyzji o zobowiązaniu cudzoziemca do powrotu, z wyjątkiem decyzji, zgodnie z którą sprawa została przekazana do ponownego rozpatrzenia, a cudzoziemiec został umieszczony w strzeżonym ośrodku lub areszcie dla cudzoziemców w związku z okolicznością, o której mowa w art. 398 ust. 1 pkt 1 lub art. 398a pkt 1, lub ” , ust. 6 otrzymuje brzmienie: „
+    - **a)**
     - **c)**
 
 6. Organ Straży Granicznej, któremu podlega strzeżony ośrodek lub areszt dla cudzoziemców, niezwłocznie informuje sąd, który wydał postanowienie, o zwolnieniu cudzoziemca ze strzeżonego ośrodka albo z aresztu dla cudzoziemców. ” ;
@@ -1304,7 +1351,11 @@ po art. 142 dodaje się art. 142a w brzmieniu:
     - **n)**
 
 - **141)** w art. 429 w ust. 1 w pkt 9 wyrazy „w przypadku rejestru, o którym mowa w art. 428 ust. 1 pkt 2 lit. j” zastępuje się wyrazami „w przypadku rejestrów, o których mowa w art. 428 ust. 1 pkt 2 lit. j oraz n”;
-- **142)** w art. 430: w ust. 1 wyrazy „w art. 428 ust. 1 pkt 2 lit. a-k oraz m” zastępuje się wyrazami „w art. 428 ust. 1 pkt 2 lit. a-k oraz m i n”, w ust. 2: – we wprowadzeniu do wyliczenia wyrazy „w art. 428 ust. 1 pkt 2 lit. b-k oraz m” zastępuje się wyrazami „w art. 428 ust. 1 pkt 2 lit. b-k oraz m i n”, – po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) w rejestrze, o którym mowa w art. 428 ust. 1 pkt 2 lit. n, fotografię cudzoziemca oraz informacje o: a) dniu opuszczenia przez cudzoziemca terytorium Rzeczypospolitej Polskiej, b) decyzjach w sprawie wysokości kosztów wydania i przymusowego wykonania decyzji, o której mowa w art. 303a ust. 1; ” , w ust. 9 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **142)** w art. 430: w ust. 1 wyrazy „w art. 428 ust. 1 pkt 2 lit. a-k oraz m” zastępuje się wyrazami „w art. 428 ust. 1 pkt 2 lit. a-k oraz m i n”, w ust. 2: – we wprowadzeniu do wyliczenia wyrazy „w art. 428 ust. 1 pkt 2 lit. b-k oraz m” zastępuje się wyrazami „w art. 428 ust. 1 pkt 2 lit. b-k oraz m i n”, po pkt 6 dodaje się pkt 6a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **6a)** w rejestrze, o którym mowa w art. 428 ust. 1 pkt 2 lit. n, fotografię cudzoziemca oraz informacje o: dniu opuszczenia przez cudzoziemca terytorium Rzeczypospolitej Polskiej, decyzjach w sprawie wysokości kosztów wydania i przymusowego wykonania decyzji, o której mowa w art. 303a ust. 1; ” , w ust. 9 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
@@ -1361,7 +1412,7 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 
 1a. Jeżeli małoletniemu bez opieki towarzyszy dorosły krewny w linii prostej drugiego stopnia lub w linii bocznej drugiego lub trzeciego stopnia, organ Straży Granicznej we wniosku, o którym mowa w ust. 1 pkt 3 lit. b, może wskazać powierzenie pełnienia funkcji rodziny zastępczej temu krewnemu, jeżeli wyrazi on na to zgodę.
 
-1b. Wraz z wnioskiem, o którym mowa w ust. 1 pkt 3 lit. b, organ Straży Granicznej może wystąpić z wnioskiem o udzielenie zabezpieczenia, o którym mowa w art. 755 § 1 pkt 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.), w postaci roztoczenia pieczy nad małoletnim bez opieki przez krewnego, o którym mowa w ust. 1a, na czas prowadzenia postępowania o umieszczenie małoletniego bez opieki w pieczy zastępczej. ” , w ust. 2 wyrazy „ust. 1 pkt 3” zastępuje się wyrazami „ust. 1 pkt 3 lit. a”, w ust. 4 pkt 2 otrzymuje brzmienie: „
+1b. Wraz z wnioskiem, o którym mowa w ust. 1 pkt 3 lit. b, organ Straży Granicznej może wystąpić z wnioskiem o udzielenie zabezpieczenia, o którym mowa w art. 755 § 1 pkt 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261, z 2017 r. poz. 67, 85, 187, 768, 933, 1133, 1136, 1452, 1475, 1596, 1727, 1883, 2180, 2245 i 2491 oraz z 2018 r. poz. 5.), w postaci roztoczenia pieczy nad małoletnim bez opieki przez krewnego, o którym mowa w ust. 1a, na czas prowadzenia postępowania o umieszczenie małoletniego bez opieki w pieczy zastępczej. ” , w ust. 2 wyrazy „ust. 1 pkt 3” zastępuje się wyrazami „ust. 1 pkt 3 lit. a”, w ust. 4 pkt 2 otrzymuje brzmienie: „
 
 - **c)**
 - **d)**
@@ -1374,18 +1425,18 @@ po art. 142 dodaje się art. 142a w brzmieniu:
 
 **Art. 3.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2017 r. poz. 1952) w art. 1 w ust. 2 w pkt 2 w lit. d kropkę zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „
 
-przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie: – zezwolenia na pobyt czasowy, o którym mowa w art. 139a ust. 1 lub art. 139o ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub – dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającego jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 3, z późn. zm.), z adnotacją „ICT”, wydanego przez inne państwo członkowskie Unii Europejskiej, gdy celem ich pobytu na tym terytorium jest wykonywanie pracy w charakterze pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż w ramach przeniesienia wewnątrz przedsiębiorstwa, o którym mowa w art. 3 pkt 13b ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, przez okres nieprzekraczający 90 dni w okresie 180 dni – jeżeli zamieszkują na terytorium Rzeczypospolitej Polskiej z członkami rodzin, z wyłączeniem cudzoziemców, którym zezwolono na pobyt i pracę na okres nieprzekraczający dziewięciu miesięcy, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy międzynarodowe o zabezpieczeniu społecznym stanowią inaczej. ” .
+przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie: – zezwolenia na pobyt czasowy, o którym mowa w art. 139a ust. 1 lub art. 139o ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub – dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającego jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2008, str. 1. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 3, z późn. zm.), z adnotacją „ICT”, wydanego przez inne państwo członkowskie Unii Europejskiej, gdy celem ich pobytu na tym terytorium jest wykonywanie pracy w charakterze pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż w ramach przeniesienia wewnątrz przedsiębiorstwa, o którym mowa w art. 3 pkt 13b ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, przez okres nieprzekraczający 90 dni w okresie 180 dni – jeżeli zamieszkują na terytorium Rzeczypospolitej Polskiej z członkami rodzin, z wyłączeniem cudzoziemców, którym zezwolono na pobyt i pracę na okres nieprzekraczający dziewięciu miesięcy, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy międzynarodowe o zabezpieczeniu społecznym stanowią inaczej. ” .
 
 - **e)**
 
-**Art. 4.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2017 r. poz. 1065, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2017 r. poz. 1065, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1292, 1321, 1428, 1543, 2371 i 2494.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w ust. 3 w pkt 2 lit. ha otrzymuje brzmienie: „ ha) posiadających zezwolenie na pobyt czasowy, o którym mowa w art. 114 ust. 1 albo 1a albo art. 126 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, albo wizę wydaną w celu wykonywania pracy na terytorium Rzeczypospolitej Polskiej, ” ;
 - **2)** w art. 87 w ust. 1: w pkt 11a: – po wyrazach „art. 114 ust. 1” dodaje się wyrazy „lub 1a”, – po wyrazach „art. 127” dodaje się wyrazy „, art. 139a ust. 1, art. 139o ust. 1”, po pkt 11a dodaje się pkt 11b w brzmieniu: „
     - **a)**
     - **b)**
 
-- **11b)** przebywa na terytorium Rzeczypospolitej Polskiej na podstawie dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającego jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 3, z późn. zm.), z adnotacją „ICT”, wydanego przez inne państwo członkowskie Unii Europejskiej, i celem jego pobytu na terytorium Rzeczypospolitej Polskiej jest wykonywanie pracy w charakterze pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż w ramach przeniesienia wewnątrz przedsiębiorstwa, o którym mowa w art. 3 pkt 13b ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, przez okres nieprzekraczający 90 dni w okresie 180 dni; ” , w pkt 12 w lit. f kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „
+- **11b)** przebywa na terytorium Rzeczypospolitej Polskiej na podstawie dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającego jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2008, str. 1. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 3, z późn. zm.), z adnotacją „ICT”, wydanego przez inne państwo członkowskie Unii Europejskiej, i celem jego pobytu na terytorium Rzeczypospolitej Polskiej jest wykonywanie pracy w charakterze pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż w ramach przeniesienia wewnątrz przedsiębiorstwa, o którym mowa w art. 3 pkt 13b ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, przez okres nieprzekraczający 90 dni w okresie 180 dni; ” , w pkt 12 w lit. f kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „
     - **c)**
 
 - **13)** przebywa na terytorium Rzeczypospolitej Polskiej na podstawie art. 108 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach oraz: bezpośrednio przed złożeniem wniosku o udzielenie kolejnego zezwolenia na pobyt czasowy, o którym mowa w art. 139a ust. 1 lub art. 139o ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, przebywał na tym terytorium na podstawie tego zezwolenia i kontynuuje wykonywanie pracy, do której był uprawniony na jego podstawie, wykonuje pracę w charakterze pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż w ramach przeniesienia wewnątrz przedsiębiorstwa, o którym mowa w art. 3 pkt 13b ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, na rzecz jednostki przyjmującej, która złożyła wniosek o udzielenie zezwolenia na pobyt czasowy, o którym mowa w art. 139o ust. 1 tej ustawy, na warunkach określonych w tym wniosku. ” ;
@@ -1415,7 +1466,7 @@ przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie: – zezwole
 
 - **5)** art. 400a ust. 1 i art. 415 ust. 1 pkt 5 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach; ” .
 
-**Art. 7.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2016 r. poz. 1827, z późn. zm.) w załączniku do ustawy w części III w kolumnie 2 w ust. 2b:
+**Art. 7.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2016 r. poz. 1827, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 624, 1273, 1529, 1543, 1566, 2361 i 2486.) w załączniku do ustawy w części III w kolumnie 2 w ust. 2b:
 
 - **1)** po wyrazach „art. 114 ust. 1” dodaje się wyrazy „i 1a”;
 - **2)** po wyrazach „art. 127” dodaje się wyrazy „, art. 139a ust. 1 i art. 139o ust. 1”.
@@ -1429,13 +1480,13 @@ przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie: – zezwole
 
 **Art. 10.** W ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2017 r. poz. 1851) w art. 1 w ust. 2 w pkt 2 w lit. d kropkę zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „
 
-przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie: – zezwolenia na pobyt czasowy, o którym mowa w art. 139a ust. 1 lub 139o ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub – dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającego jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 3, z późn. zm.), z adnotacją „ICT”, wydanego przez inne państwo członkowskie Unii Europejskiej, i gdy celem ich pobytu na terytorium Rzeczypospolitej Polskiej jest wykonywanie pracy w charakterze pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż w ramach przeniesienia wewnątrz przedsiębiorstwa, o którym mowa w art. 3 pkt 13b ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach przez okres nieprzekraczający 90 dni w okresie 180 dni – jeżeli zamieszkują z członkami rodzin na terytorium Rzeczypospolitej Polskiej, z wyłączeniem cudzoziemców, którym zezwolono na pobyt i pracę na terytorium Rzeczypospolitej Polskiej przez okres nieprzekraczający dziewięciu miesięcy, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy międzynarodowe o zabezpieczeniu społecznym stanowią inaczej. ” .
+przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie: – zezwolenia na pobyt czasowy, o którym mowa w art. 139a ust. 1 lub 139o ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub – dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającego jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2008, str. 1. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 3, z późn. zm.), z adnotacją „ICT”, wydanego przez inne państwo członkowskie Unii Europejskiej, i gdy celem ich pobytu na terytorium Rzeczypospolitej Polskiej jest wykonywanie pracy w charakterze pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż w ramach przeniesienia wewnątrz przedsiębiorstwa, o którym mowa w art. 3 pkt 13b ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach przez okres nieprzekraczający 90 dni w okresie 180 dni – jeżeli zamieszkują z członkami rodzin na terytorium Rzeczypospolitej Polskiej, z wyłączeniem cudzoziemców, którym zezwolono na pobyt i pracę na terytorium Rzeczypospolitej Polskiej przez okres nieprzekraczający dziewięciu miesięcy, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy międzynarodowe o zabezpieczeniu społecznym stanowią inaczej. ” .
 
 - **e)**
 
 **Art. 11.** W ustawie z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług (Dz. U. poz. 868) art. 26 otrzymuje brzmienie: „
 
-**Art. 26.** Przepisy ustawy stosuje się odpowiednio w przypadku wykonywania pracy na terytorium Rzeczypospolitej Polskiej przez pracownika skierowanego do tej pracy przez pracodawcę mającego siedzibę w państwie niebędącym państwem członkowskim, z zastrzeżeniem przepisów art. 88 ust. 1 pkt 3 i 4, art. 88c ust. 6 pkt 2 i 3 oraz ust. 9 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2017 r. poz. 1065, z późn. zm.) oraz art. 139a ust. 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2017 r. poz. 2206 i 2282 oraz z 2018 r. poz. 107). ” .
+**Art. 26.** Przepisy ustawy stosuje się odpowiednio w przypadku wykonywania pracy na terytorium Rzeczypospolitej Polskiej przez pracownika skierowanego do tej pracy przez pracodawcę mającego siedzibę w państwie niebędącym państwem członkowskim, z zastrzeżeniem przepisów art. 88 ust. 1 pkt 3 i 4, art. 88c ust. 6 pkt 2 i 3 oraz ust. 9 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2017 r. poz. 1065, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1292, 1321, 1428, 1543, 2371 i 2494 oraz z 2018 r. poz. 107.) oraz art. 139a ust. 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2017 r. poz. 2206 i 2282 oraz z 2018 r. poz. 107). ” .
 
 **Art. 12.** Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe, z tym że przepis art. 100 ust. 1 pkt 4 ustawy zmienianej w art. 1 oraz przepis art. 88j ust. 2 ustawy zmienianej w art. 4 stosuje się w brzmieniu nadanym niniejszą ustawą.
 
@@ -1513,6 +1564,6 @@ przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie: – zezwole
 **Art. 18.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 28 lit. b i e, pkt 29, 31 lit. b, pkt 35, 38, 40, 44 w zakresie art. 139b i art. 139f ust. 1 pkt 5, pkt 46, 47, 72 lit. a tiret czwarte w zakresie art. 195 ust. 1 pkt 6 lit. c i pkt 72 lit. c, art. 4 pkt 1, 2 lit. a tiret pierwsze i pkt 3 oraz art. 7 pkt 1, które wchodzą w życie z dniem 1 stycznia 2019 r.;
-- **2)** art. 1 pkt 149, który wchodzi w życie z dniem 1 stycznia 2020 r.
+- **2)** art. 1 pkt 149, który wchodzi w życie z dniem 1 stycznia 2020 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2014/66/UE z dnia 15 maja 2014 r. w sprawie warunków wjazdu i pobytu obywateli państw trzecich w ramach przeniesienia wewnątrz przedsiębiorstwa (Dz. Urz. UE L 157 z 27.05.2014, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 2 kwietnia 2009 r. o obywatelstwie polskim, ustawę z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, ustawę z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci oraz ustawę z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2008, str. 1. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 251 z 16.09.2016, str. 1 oraz Dz. Urz. UE L 74 z 18.03.2017, str. 1. 5) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 180 z 29.06.2013, str. 31. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261, z 2017 r. poz. 67, 85, 187, 768, 933, 1133, 1136, 1452, 1475, 1596, 1727, 1883, 2180, 2245 i 2491 oraz z 2018 r. poz. 5. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2008, str. 1. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1292, 1321, 1428, 1543, 2371 i 2494. 9) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2008, str. 1. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 624, 1273, 1529, 1543, 1566, 2361 i 2486. 11) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2008, str. 1. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1292, 1321, 1428, 1543, 2371 i 2494 oraz z 2018 r. poz. 107.
 
 

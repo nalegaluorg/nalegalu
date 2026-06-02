@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-26 |
 | Data wydania | 2018-04-06 |
-| Wejście w życie | 2018-04-21 |
 | Ostatnia zmiana | 2026-03-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000681) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/681/text.pdf) |
 
@@ -39,11 +38,25 @@ Wykaz szkół i placówek, o którym mowa w ust. 1, jest określony w załączni
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Załącznik – Wykaz szkół i placówek, które prowadzą minister właściwy do spraw wewnętrznych i Minister Obrony Narodowej
 1.
-Minister właściwy do spraw wewnętrznych Lp. Województwo Nazwa i adres szkoły 1 2 3 1 małopolskie Szkoła Aspirantów Państwowej Straży Pożarnejos. Zgody 1831–951 Kraków 2 śląskie Centralna Szkoła Państwowej Straży Pożarnejul. Sabinowska 62/6442–200 Częstochowa 3 wielkopolskie Szkoła Aspirantów Państwowej Straży Pożarnejul. Czechosłowacka 2761–459 Poznań
+Minister właściwy do spraw wewnętrznych
+Lp. Województwo Nazwa i adres szkoły 1 2 3 1 małopolskie Szkoła Aspirantów Państwowej Straży Pożarnej
+os. Zgody 18
+31–951 Kraków 2 śląskie Centralna Szkoła Państwowej Straży Pożarnej
+ul. Sabinowska 62/64
+42–200 Częstochowa 3 wielkopolskie Szkoła Aspirantów Państwowej Straży Pożarnej
+ul. Czechosłowacka 27
+61–459 Poznań
 2.
 Minister Obrony Narodowej
 1)
-licea ogólnokształcące Lp. Województwo Nazwa i adres szkoły 1 2 3 1 lubelskie Ogólnokształcące Liceum Lotnicze im. Żwirki i Wiguryul. 2 Pułku Kraków 508–521 Dęblin
+licea ogólnokształcące
+Lp. Województwo Nazwa i adres szkoły 1 2 3 1 lubelskie Ogólnokształcące Liceum Lotnicze im. Żwirki i Wigury
+ul. 2 Pułku Kraków 5
+08–521 Dęblin
 2)
-przedszkola Lp. Województwo Nazwa i adres przedszkola 1 2 3 1 łódzkie Przedszkole Wojskowe nr 129Nowy Glinnik bl. 697–217 Lubochnia 2 łódzkie Przedszkole Wojskowe nr 14795–043 Leźnica Wielka-Osiedle 4
+przedszkola
+Lp. Województwo Nazwa i adres przedszkola 1 2 3 1 łódzkie Przedszkole Wojskowe nr 129
+Nowy Glinnik bl. 6
+97–217 Lubochnia 2 łódzkie Przedszkole Wojskowe nr 147
+95–043 Leźnica Wielka-Osiedle 4
 

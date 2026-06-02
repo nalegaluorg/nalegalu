@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-23 |
 | Data wydania | 2022-12-30 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2025-12-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002847) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2847/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Organizacja przyjęć do zakładu karnego Rozdział 3 – Sposoby rozmieszczania skazanych w celach mieszkalnych Rozdział 4 – Porządek wewnętrzny zakładu karnego Rozdział 5 – Organizacja przyjmowania korespondencji i organizacja widzeń w zakładach karnych Rozdział 6 – Warunki opieki zdrowotnej i bytowej Rozdział 7 – Organizacja komisji penitencjarnej w zakładzie karnym Rozdział 8 – Środki oddziaływania na skazanych oraz kierowanie skazanych do systemów wykonania kary Rozdział 9 – Przygotowywanie skazanych do zwolnienia z zakładu karnego
 Treść rozporządzenia
-Na podstawie art. 249 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 249 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 472, 1236 i 2054 oraz z 2022 r. poz. 22,) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa regulamin organizacyjno-porządkowy wykonywania kary pozbawienia wolności, który uwzględnia:
 1)
@@ -42,8 +42,8 @@ organizację przyjmowania korespondencji i organizację widzeń w zakładach kar
 5)
 warunki opieki zdrowotnej i bytowej w zakładach karnych,
 6)
-sposób przygotowywania skazanych do ich zwolnienia z zakładu karnego
-mając na uwadze potrzebę zapewnienia porządku wewnętrznego i bezpieczeństwa w zakładach karnych.
+sposób przygotowywania skazanych do ich zwolnienia z zakładu karnego – mając na uwadze potrzebę zapewnienia porządku wewnętrznego i bezpieczeństwa w zakładach karnych.
+Organizacja przyjęć do zakładu karnego
 § 2.
 Przy przyjęciu skazanego do zakładu karnego informuje się go o możliwości wystąpienia w czasie odbywania kary pozbawienia wolności zagrożeń dla jego bezpieczeństwa osobistego oraz zetknięcia się z przejawami negatywnych zachowań charakterystycznych dla środowisk przestępczych, a także o potrzebie powiadamiania przełożonych o zagrożeniach bezpieczeństwa osobistego swojego i innych skazanych.
 § 3.
@@ -59,6 +59,7 @@ Skazanego poddaje się niezwłocznie wstępnym badaniom lekarskim.
 Wychowawca przeprowadza ze skazanym rozmowę wstępną mającą na celu ustalenie niezbędnych informacji, zapewniających prawidłowe wykonanie kary pozbawienia wolności, nie później niż w ciągu dwóch dni od dnia przyjęcia do aresztu śledczego, niezależnie od rozmowy informacyjnej, o której mowa w § 4.
 3.
 Rozmowa wstępna ma na celu ustalenie niezbędnych informacji, zapewniających prawidłowe wykonanie kary pozbawienia wolności.
+Sposoby rozmieszczania skazanych w celach mieszkalnych
 § 7.
 Skazanych rozmieszcza się w celach mieszkalnych, uwzględniając w szczególności płeć, wiek oraz uprzednie odbywanie kary pozbawienia wolności.
 § 8.
@@ -71,6 +72,7 @@ W razie potrzeby skazany może być przeniesiony w każdym czasie z celi mieszka
 Jeżeli jest to uzasadnione potrzebami oddziaływania na młodocianych, skazany dorosły, który uprzednio nie odbywał kary pozbawienia wolności albo kary aresztu wojskowego, wyróżniający się dobrą postawą, może być umieszczony w celi mieszkalnej wspólnie ze skazanym młodocianym lub skazanymi młodocianymi.
 2.
 Skazany dorosły, o którym mowa w art. 88 § 3 Kodeksu lub w art. 197–203 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, 1726, 1855, 2339 i 2600), lub który popełnił zbrodnię, nie może być umieszczony w celi mieszkalnej wspólnie ze skazanym młodocianym lub skazanymi młodocianymi.
+Porządek wewnętrzny zakładu karnego
 § 10.
 1.
 Ustala się następujący porządek wewnętrzny zakładów karnych:
@@ -165,6 +167,7 @@ W obecności przełożonych oraz osób wizytujących zakład karny skazany przyj
 Wymogów, o których mowa w ust. 1, nie egzekwuje się, gdy skazany zostanie od nich zwolniony przez właściwego przełożonego, a ponadto w szpitalach i izbach chorych, w czasie pracy i nauczania oraz w trakcie zajęć terapeutycznych, kulturalno-oświatowych i sportowych oraz zorganizowanych praktyk i posług religijnych, widzeń, korzystania z aparatu telefonicznego lub innych środków łączności, posiłków, spaceru i spoczynku, których czas ustalono w porządku wewnętrznym.
 § 15.
 Wzakładach karnych przeprowadza się apel poranny i wieczorny, w czasie określonym w porządku wewnętrznym oraz w innym uzasadnionym przypadku, w trakcie którego ustala się w szczególności stan liczbowy skazanych.
+Organizacja przyjmowania korespondencji i organizacja widzeń w zakładach karnych
 § 16.
 1.
 Korespondencję skazanego administracja zakładu karnego przyjmuje w każdym dniu roboczym, a korespondencję urzędową – codziennie.
@@ -194,6 +197,7 @@ Potwierdzenie, o którym mowa w ust. 1, sporządza się w jednym egzemplarzu. Du
 Skazany ma prawo składać wnioski, skargi i prośby na piśmie oraz ustnie. Przełożeni i inne uprawnione osoby przyjmują je także w czasie bezpośrednich kontaktów ze skazanym, zwłaszcza w czasie wizytacji cel mieszkalnych i innych pomieszczeń, w których przebywają skazani.
 § 22.
 Wwypadku otrzymania od administracji zakładu karnego znaczków pocztowych na korespondencję z organami, o których mowa w art. 8a § 3 Kodeksu, skazany otrzymuje od administracji zakładu karnego także papier i koperty.
+Warunki opieki zdrowotnej i bytowej
 § 23.
 1.
 Wobec skazanych przebywających w szpitalach, izbach chorych oraz leczonych poza nimi, a także przewlekle chorych i rekonwalescentów, dyrektor może, na wniosek lub po zasięgnięciu opinii lekarza, dokonywać niezbędnych odstępstw od przewidzianego w regulaminie sposobu wykonywania kary pozbawienia wolności w zakresie uzasadnionym stanem zdrowia tych skazanych.
@@ -237,6 +241,7 @@ Paczki, o której mowa w art. 113a § 4 Kodeksu, niespełniającej warunków ora
 Stan sanitarny zakładu karnego, ogrzewanie, oświetlenie i wentylacja pomieszczeń, utrzymywanie czystości przez skazanych w celach mieszkalnych, stan i czystość odzieży, bielizny oraz pościeli, liczba i jakość posiłków oraz sposób ich przyrządzania i wydawania są kontrolowane przez pracownika lub funkcjonariusza służby kwatermistrzowskiej i służby zdrowia.
 § 31.
 Korzystając z przepustek lub zezwolenia na opuszczenie zakładu karnego, skazany używa własnej odzieży, bielizny i obuwia. Jeżeli są one zniszczone lub nieodpowiednie ze względu na porę roku, zakład karny wydaje w tym celu skazanemu do użytku odpowiednie odzież, bieliznę lub obuwie.
+Organizacja komisji penitencjarnej w zakładzie karnym
 § 32.
 1.
 Dyrektor powołuje w zakładzie karnym komisję penitencjarną, zwaną dalej „komisją”, o której mowa w art. 75 § 1 Kodeksu. W zależności od potrzeb zakładu karnego dyrektor może powołać kilka komisji.
@@ -258,6 +263,7 @@ Komisja ogłasza decyzje oraz wyraża opinie po wysłuchaniu skazanego i w jego 
 Decyzje i opinie sporządza się na piśmie wraz z uzasadnieniem i zamieszcza w teczce osobopoznawczej skazanego. W przypadkach, o których mowa w art. 76 § 1 pkt 2a Kodeksu, wykonalną decyzję przekazuje się właściwym organom za pośrednictwem sekretariatu zakładu karnego lub elektronicznie.
 3.
 Jeżeli przemawiają za tym względy wychowawcze, decyzje, oceny i opinie komisji penitencjarnej podaje się do wiadomości ogółu skazanych, za zgodą skazanego, którego sprawa dotyczy.
+Środki oddziaływania na skazanych oraz kierowanie skazanych do systemów wykonania kary
 § 35.
 Do środków oddziaływania na skazanych należą w szczególności praca, nauczanie, działalność kulturalno-oświatowa, społeczna i zajęcia sportowe, nagradzanie i karanie dyscyplinarne.
 § 36.
@@ -381,6 +387,7 @@ W celu przyjęcia właściwego trybu postępowania wobec osoby przyjętej z woln
 Dla skazanego, który odbył część kary pozbawienia wolności w oddziale terapeutycznym, wobec którego zespół terapeutyczny zakończył oddziaływania, opracowuje się zalecenia do realizacji w czasie wykonywania pozostałej części kary.
 § 51.
 Zważnych powodów, skazany zakwalifikowany do odbywania kary w zakładzie karnym typu otwartego może przebywać w zakładzie karnym typu półotwartego lub zamkniętego, a skazany zakwalifikowany do odbywania kary w zakładzie karnym typu półotwartego – w zakładzie karnym typu zamkniętego. Skazany taki korzysta z uprawnień wynikających z decyzji klasyfikacyjnej. Korzystanie z tych uprawnień nie może naruszać bezpieczeństwa ani zakłócać porządku w zakładzie karnym, w którym przebywa.
+Przygotowywanie skazanych do zwolnienia z zakładu karnego
 § 52.
 1.
 W celu przygotowania skazanego do życia po zwolnieniu z zakładu karnego, zebrane wcześniej, w trakcie badań osobopoznawczych, dane i informacje w zakresie jego potrzeb po zwolnieniu uaktualnia się co najmniej na 6 miesięcy przed przewidywanym warunkowym zwolnieniem skazanego lub przed wykonaniem kary.
@@ -402,23 +409,41 @@ Jeżeli zwolnienie z zakładu karnego następuje poza godzinami, o których mowa
 3.
 Czynności związanych ze zwolnieniem, które wymagają obecności osoby zwalnianej, dokonuje się bezpośrednio po noclegu.
 § 58.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 21 grudnia 2016 r. w sprawie regulaminu organizacyjno-porządkowego wykonywania kary pozbawienia wolności (Dz. U. poz. 2231), które traci moc z dniem wejścia w życie ustawy z dnia 5 sierpnia 2022 r. o zmianie ustawy – Kodeks karny wykonawczy oraz niektórych innych ustaw (Dz. U. poz. 1855 i 2770). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 472, 1236 i 2054 oraz z 2022 r. poz. 22, 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 21 grudnia 2016 r. w sprawie regulaminu organizacyjno-porządkowego wykonywania kary pozbawienia wolności (Dz. U. poz. 2231), które traci moc z dniem wejścia w życie ustawy z dnia 5 sierpnia 2022 r. o zmianie ustawy – Kodeks karny wykonawczy oraz niektórych innych ustaw (Dz. U. poz. 1855 i 2770).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Organizacja przyjęć do zakładu karnego
+#### Rozdział 2 – Organizacja przyjęć do zakładu karnego
 
-#### Rozdział 3 Sposoby rozmieszczania skazanych w celach mieszkalnych
+#### Rozdział 3 – Sposoby rozmieszczania skazanych w celach mieszkalnych
 
-#### Rozdział 4 Porządek wewnętrzny zakładu karnego
+#### Rozdział 4 – Porządek wewnętrzny zakładu karnego
 
-#### Rozdział 5 Organizacja przyjmowania korespondencji i organizacja widzeń w zakładach karnych
+#### Rozdział 5 – Organizacja przyjmowania korespondencji i organizacja widzeń w zakładach karnych
 
-#### Rozdział 6 Warunki opieki zdrowotnej i bytowej
+#### Rozdział 6 – Warunki opieki zdrowotnej i bytowej
 
-#### Rozdział 7 Organizacja komisji penitencjarnej w zakładzie karnym
+#### Rozdział 7 – Organizacja komisji penitencjarnej w zakładzie karnym
 
-#### Rozdział 8 Środki oddziaływania na skazanych oraz kierowanie skazanych do systemów wykonania kary
+#### Rozdział 8 – Środki oddziaływania na skazanych oraz kierowanie skazanych do systemów wykonania kary
 
-#### Rozdział 9 Przygotowywanie skazanych do zwolnienia z zakładu karnego
+#### Rozdział 9 – Przygotowywanie skazanych do zwolnienia z zakładu karnego
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
 

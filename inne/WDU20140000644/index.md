@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-24 |
 | Data wydania | 2014-05-20 |
-| Wejście w życie | 2014-06-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000644) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/644/text.pdf) |
 
@@ -66,9 +65,9 @@ source: "eli-html"
 - **6)** mechanizmy motywujące polegające na uwzględnieniu w kosztach zarządcy infrastruktury nagród i premii dla załogi za właściwą realizację celów jakościowych wskazanych w umowie oraz za optymalizację kosztów udostępniania infrastruktury i poziomu opłat za dostęp;
 - **7)** kary za nieutrzymanie poziomu kosztów założonych w umowie. ” .
 
-**Art. 2.** W ustawie z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2000 r. Nr 84, poz. 948, z późn. zm.) w art. 15 uchyla się ust. 7.
+**Art. 2.** W ustawie z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2000 r. Nr 84, poz. 948, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1086 i Nr 154, poz. 1802, z 2002 r. Nr 205, poz. 1730 i Nr 240, poz. 2055, z 2003 r. Nr 6, poz. 63, Nr 80, poz. 720 i Nr 203, poz. 1966, z 2004 r. Nr 96, poz. 959 i Nr 120, poz. 1252, z 2005 r. Nr 157, poz. 1315 i Nr 184, poz. 1539, z 2006 r. Nr 12, poz. 63 i Nr 157, poz. 1119, z 2008 r. Nr 97, poz. 624, Nr 193, poz. 1196 i Nr 206, poz. 1289, z 2009 r. Nr 6, poz. 33, z 2010 r. Nr 108, poz. 686 i Nr 247, poz. 1651 oraz z 2011 r. Nr 168, poz. 1002.) w art. 15 uchyla się ust. 7.
 
-**Art. 3.** W ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym (Dz. U. z 2006 r. Nr 12, poz. 61, z późn. zm.) uchyla się art. 3c.
+**Art. 3.** W ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym (Dz. U. z 2006 r. Nr 12, poz. 61, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 115, poz. 966, z 2010 r. Nr 108, poz. 686 i Nr 247, poz. 1651, z 2011 r. Nr 187, poz. 1113 oraz z 2013 r. poz. 1646.) uchyla się art. 3c.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1086 i Nr 154, poz. 1802, z 2002 r. Nr 205, poz. 1730 i Nr 240, poz. 2055, z 2003 r. Nr 6, poz. 63, Nr 80, poz. 720 i Nr 203, poz. 1966, z 2004 r. Nr 96, poz. 959 i Nr 120, poz. 1252, z 2005 r. Nr 157, poz. 1315 i Nr 184, poz. 1539, z 2006 r. Nr 12, poz. 63 i Nr 157, poz. 1119, z 2008 r. Nr 97, poz. 624, Nr 193, poz. 1196 i Nr 206, poz. 1289, z 2009 r. Nr 6, poz. 33, z 2010 r. Nr 108, poz. 686 i Nr 247, poz. 1651 oraz z 2011 r. Nr 168, poz. 1002. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 115, poz. 966, z 2010 r. Nr 108, poz. 686 i Nr 247, poz. 1651, z 2011 r. Nr 187, poz. 1113 oraz z 2013 r. poz. 1646.
 

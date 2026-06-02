@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 6 marca 2019 r. w sprawie przeprowadzania przez funkcjonariuszy Straży Granicznej czynności obserwowania i rejestrowania zdarzeń na drogach, w innych miejscach publicznych oraz w miejscach innych niż publiczne w trakcie interwencji
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 6 marca 2019 r. w sprawie przeprowadzania przez funkcjonariuszy Straży Granicznej czynności obserwowania i rejestrowania zdarzeń na drogach, w innych miejscach publicznych oraz w miejscach innych niż publiczne w trakcie interwencji Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-06 |
 | Data wydania | 2019-03-08 |
-| Wejście w życie | 2019-03-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000458) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/458/text.pdf) |
 
@@ -134,6 +133,5 @@ Obserwacja jest prowadzona jawnie lub niejawnie, z wyjątkiem obserwacji prowadz
 § 9.
 Funkcjonariusz, który udokumentował obserwację w postaci notatki służbowej, komunikatu lub na odpowiednim nośniku technicznym, przekazuje niezwłocznie tę dokumentację bezpośredniemu przełożonemu.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 8 września 2005 r. w sprawie przeprowadzania przez funkcjonariuszy Straży Granicznej czynności obserwowania i rejestrowania zdarzeń na drogach oraz w innych miejscach publicznych (Dz. U. poz. 1575, z 2014 r. poz. 238 oraz z 2018 r. poz. 231).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 8 września 2005 r. w sprawie przeprowadzania przez funkcjonariuszy Straży Granicznej czynności obserwowania i rejestrowania zdarzeń na drogach oraz w innych miejscach publicznych (Dz. U. poz. 1575, z 2014 r. poz. 238 oraz z 2018 r. poz. 231). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 8 września 2005 r. w sprawie przeprowadzania przez funkcjonariuszy Straży Granicznej czynności obserwowania i rejestrowania zdarzeń na drogach oraz w innych miejscach publicznych (Dz. U. poz. 1575, z 2014 r. poz. 238 oraz z 2018 r. poz. 231).
 

@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-05-08 |
 | Data wydania | 2012-05-15 |
-| Wejście w życie | 2012-05-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000520) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/520/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 95 § 5 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 95 § 5 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651, z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 182, poz. 1228, Nr 197, poz. 1307 i Nr 225, poz. 1466 oraz z 2011 r. Nr 217, poz. 1280, Nr 240, poz. 1431 i Nr 244, poz. 1454.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -41,7 +40,7 @@ Inspektorzy są uprawnieni do nakładania grzywien w drodze mandatu karnego za w
 1)
 art. 178, art. 179, art. 181, art. 183, art. 184 ust. 3, art. 187 oraz art. 188 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981);
 2)
-art. 93 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2010 r. Nr 243, poz. 1623, z późn. zm.), dotyczące obiektów budowlanych zakładu górniczego w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
+art. 93 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2010 r. Nr 243, poz. 1623, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 32, poz. 159, Nr 45, poz. 235, Nr 94, poz. 551, Nr 135, poz. 789, Nr 142, poz. 829, Nr 185, poz. 1092 i Nr 232, poz. 1377 oraz z 2012 r. poz. 472.), dotyczące obiektów budowlanych zakładu górniczego w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
 § 3.
 Upoważnienia do nakładania grzywien w drodze mandatu karnego wydaje:
 1)
@@ -69,5 +68,5 @@ podpis organu wydającego upoważnienie oraz pieczęć urzędową.
 § 5.
 Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 15 października 2002 r. w sprawie nadania pracownikom zatrudnionym na stanowiskach inspekcyjno-technicznych w okręgowych urzędach górniczych oraz specjalistycznych urzędach górniczych uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. Nr 174, poz. 1421).
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651, z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 182, poz. 1228, Nr 197, poz. 1307 i Nr 225, poz. 1466 oraz z 2011 r. Nr 217, poz. 1280, Nr 240, poz. 1431 i Nr 244, poz. 1454. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 32, poz. 159, Nr 45, poz. 235, Nr 94, poz. 551, Nr 135, poz. 789, Nr 142, poz. 829, Nr 185, poz. 1092 i Nr 232, poz. 1377 oraz z 2012 r. poz. 472.
 

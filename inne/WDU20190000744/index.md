@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 17 kwietnia 2019 r. w sprawie sposobu i trybu prowadzenia oraz udostępniania Rejestru Produktów Leczniczych Dopuszczonych do Obrotu na terytorium Rzeczypospolitej Polskiej oraz struktury danych udostępnianych z tego rejestru
+# Rozporządzenie Ministra Zdrowiaz dnia 17 kwietnia 2019 r. w sprawie sposobu i trybu prowadzenia oraz udostępniania Rejestru Produktów Leczniczych Dopuszczonych do Obrotu na terytorium Rzeczypospolitej Polskiej oraz struktury danych udostępnianych z tego rejestru Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-17 |
 | Data wydania | 2019-04-24 |
-| Wejście w życie | 2019-04-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000744) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/744/text.pdf) |
 
@@ -92,6 +91,5 @@ Wniosek w przedmiocie udostępnienia danych, o których mowa w ust. 1, Prezes Ur
 § 7.
 Dane wprowadzone do Rejestru w okresie od dnia 1 stycznia 2019 r. do dnia wejścia w życie niniejszego rozporządzenia zgodnie z wymaganiami rozporządzenia Ministra Zdrowia z dnia 4 listopada 2002 r. w sprawie sposobu i trybu prowadzenia Rejestru Produktów Leczniczych Dopuszczonych do Obrotu na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 1600) stają się danymi Rejestru i uważa się je za wprowadzone w sposób zgodny z wymaganiami niniejszego rozporządzenia.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 4 listopada 2002 r. w sprawie sposobu i trybu prowadzenia Rejestru Produktów Leczniczych Dopuszczonych do Obrotu na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 1600), które utraciło moc z dniem 1 stycznia 2019 r. zgodnie z art. 48 ust. 1 pkt 6 ustawy z dnia 9 października 2015 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw (Dz. U. poz. 1991, z 2016 r. poz. 65, 580, 652, 832, 1579 i 2020, z 2017 r. poz. 599 i 1524 oraz z 2018 r. poz. 697).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 4 listopada 2002 r. w sprawie sposobu i trybu prowadzenia Rejestru Produktów Leczniczych Dopuszczonych do Obrotu na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 1600), które utraciło moc z dniem 1 stycznia 2019 r. zgodnie z art. 48 ust. 1 pkt 6 ustawy z dnia 9 października 2015 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw (Dz. U. poz. 1991, z 2016 r. poz. 65, 580, 652, 832, 1579 i 2020, z 2017 r. poz. 599 i 1524 oraz z 2018 r. poz. 697). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 4 listopada 2002 r. w sprawie sposobu i trybu prowadzenia Rejestru Produktów Leczniczych Dopuszczonych do Obrotu na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 1600), które utraciło moc z dniem 1 stycznia 2019 r. zgodnie z art. 48 ust. 1 pkt 6 ustawy z dnia 9 października 2015 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw (Dz. U. poz. 1991, z 2016 r. poz. 65, 580, 652, 832, 1579 i 2020, z 2017 r. poz. 599 i 1524 oraz z 2018 r. poz. 697).
 

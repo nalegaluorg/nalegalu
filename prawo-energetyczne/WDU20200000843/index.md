@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 30 kwietnia 2020 r. o zmianie ustawy – Prawo energetyczne oraz ustawy o promowaniu energii elektrycznej z wysokosprawnej kogeneracji
+# Ustawa z dnia 30 kwietnia 2020 r. o zmianie ustawy – Prawo energetyczne oraz ustawy o promowaniu energii elektrycznej z wysokosprawnej kogeneracji Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/692 z dnia 17 kwietnia 2019 r. zmieniającą dyrektywę 2009/73/WE dotyczącą wspólnych zasad rynku wewnętrznego gazu ziemnego (Dz. Urz. UE L 117 z 03.05.2019, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-04-30 |
 | Data wydania | 2020-05-12 |
-| Wejście w życie | 2020-05-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000843) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/843/text.pdf) |
 
@@ -100,7 +99,7 @@ source: "eli-html"
 1. W przypadku gazociągu międzysystemowego, o którym mowa w art. 3 pkt 11d lit. b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, którego pierwszy punkt połączenia znajduje się na terytorium Rzeczypospolitej Polskiej oraz którego budowę ukończono do dnia 23 maja 2019 r. i do którego przed dniem wejścia w życie niniejszej ustawy:
 
 - **1)** nie miały zastosowania przepisy prawa Unii Europejskiej,
-- **2)** nie stosowało się obowiązków: świadczenia usług, o których mowa w art. 4 ust. 2 ustawy zmienianej w art. 1, przedkładania taryf do zatwierdzenia, o którym mowa w art. 47 ust. 1 ustawy zmienianej w art. 1, spełniania kryteriów niezależności, o których mowa w art. 9d ust. 1a ustawy zmienianej w art. 1, o których mowa w art. 9h-9h2 ustawy zmienianej w art. 1 Prezes Urzędu Regulacji Energetyki, na uzasadniony wniosek przedsiębiorstwa energetycznego, po uzyskaniu opinii ministra właściwego do spraw energii, może zwolnić to przedsiębiorstwo z wykonywania obowiązków, o których mowa w pkt 2.
+- **2)** nie stosowało się obowiązków: świadczenia usług, o których mowa w art. 4 ust. 2 ustawy zmienianej w art. 1, przedkładania taryf do zatwierdzenia, o którym mowa w art. 47 ust. 1 ustawy zmienianej w art. 1, spełniania kryteriów niezależności, o których mowa w art. 9d ust. 1a ustawy zmienianej w art. 1, o których mowa w art. 9h-9h2 ustawy zmienianej w art. 1 – Prezes Urzędu Regulacji Energetyki, na uzasadniony wniosek przedsiębiorstwa energetycznego, po uzyskaniu opinii ministra właściwego do spraw energii, może zwolnić to przedsiębiorstwo z wykonywania obowiązków, o których mowa w pkt 2.
     - **a)**
     - **b)**
     - **c)**
@@ -151,5 +150,5 @@ source: "eli-html"
 
 4. W przypadku gdy wielkość wydatków w poszczególnych miesiącach jest zgodna z planem finansowym, przepisu ust. 3 nie stosuje się.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/692 z dnia 17 kwietnia 2019 r. zmieniającą dyrektywę 2009/73/WE dotyczącą wspólnych zasad rynku wewnętrznego gazu ziemnego (Dz. Urz. UE L 117 z 03.05.2019, str. 1).
 

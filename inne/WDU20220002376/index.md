@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-09 |
 | Data wydania | 2022-11-21 |
-| Wejście w życie | 2022-11-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002376) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2376/text.pdf) |
 
@@ -103,5 +102,5 @@ Dotychczasowy sposób zapewnienia bezpośredniej łączności między zakładem 
 § 16.
 Plan zabezpieczenia zakładu lub schroniska opracowany na podstawie przepisów dotychczasowych zachowuje moc do dnia przyjęcia pierwszego planu zabezpieczenia zgodnie z § 8, nie dłużej niż przez 3 miesiące od dnia wejścia w życie niniejszego rozporządzenia.
 § 17.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 18 września 2001 r. w sprawie zakresu i trybu współdziałania zakładów poprawczych i schronisk dla nieletnich z Policją w wypadku zagrożenia bezpieczeństwa tych placówek (Dz. U. poz. 1205), które utraciło moc z dniem wejścia w życie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 18 września 2001 r. w sprawie zakresu i trybu współdziałania zakładów poprawczych i schronisk dla nieletnich z Policją w wypadku zagrożenia bezpieczeństwa tych placówek (Dz. U. poz. 1205), które utraciło moc z dniem wejścia w życie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 27 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie trybu postępowania oraz sposobu dokumentowania kosztów poniesionych na ochronę prawną policjanta, a także podmiotów właściwych w sprawie zwrotu tych kosztów
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 27 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie trybu postępowania oraz sposobu dokumentowania kosztów poniesionych na ochronę prawną policjanta, a także podmiotów właściwych w sprawie zwrotu tych kosztów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
 
 | Pole | Wartość |
 |---|---|
@@ -39,25 +39,18 @@ rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 19 lipca 20
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 15 lutego 2022 r. zmieniającego rozporządzenie w sprawie trybu postępowania oraz sposobu dokumentowania kosztów poniesionych na ochronę prawną policjanta, a także podmiotów właściwych w sprawie zwrotu tych kosztów (Dz. U. poz. 411), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 15 lutego 2022 r. zmieniającego rozporządzenie w sprawie trybu postępowania oraz sposobu dokumentowania kosztów poniesionych na ochronę prawną policjanta, a także podmiotów właściwych w sprawie zwrotu tych kosztów (Dz. U. poz. 411), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 1 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie trybu postępowania oraz sposobu dokumentowania kosztów poniesionych na ochronę prawną policjanta, a także podmiotów właściwych w sprawie zwrotu tych kosztów (Dz. U. poz. 735), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 1 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie trybu postępowania oraz sposobu dokumentowania kosztów poniesionych na ochronę prawną policjanta, a także podmiotów właściwych w sprawie zwrotu tych kosztów (Dz. U. poz. 735), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 3)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lipca 2023 r. zmieniającego rozporządzenie w sprawie trybu postępowania oraz sposobu dokumentowania kosztów poniesionych na ochronę prawną policjanta, a także podmiotów właściwych w sprawie zwrotu tych kosztów (Dz. U. poz. 1412), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lipca 2023 r. zmieniającego rozporządzenie w sprawie trybu postępowania oraz sposobu dokumentowania kosztów poniesionych na ochronę prawną policjanta, a także podmiotów właściwych w sprawie zwrotu tych kosztów (Dz. U. poz. 1412), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2023 r.
-” .
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 września 2020 r. w sprawie trybu postępowania oraz sposobu dokumentowania kosztów poniesionych na ochronę prawną policjanta, a także podmiotów właściwych w sprawie zwrotu tych kosztów
+Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2023 r. ” . 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 września 2020 r. w sprawie trybu postępowania oraz sposobu dokumentowania kosztów poniesionych na ochronę prawną policjanta, a także podmiotów właściwych w sprawie zwrotu tych kosztówNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
 Na podstawie art. 66b ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa tryb postępowania oraz sposób dokumentowania przez policjanta kosztów poniesionych na ochronę prawną w przypadkach, o których mowa w art. 66a ust. 1 i 3 oraz art. 66b ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji, zwanej dalej „ustawą”, a także podmioty właściwe w sprawie zwrotu kosztów ochrony prawnej, o których mowa w art. 66a ust. 2 oraz art. 66b ust. 3 ustawy.
@@ -70,7 +63,7 @@ Policjant składa wniosek, o którym mowa w ust. 1, drogą służbową do przeł
 Policjant oddelegowany do wykonywania zadań służbowych poza Policją składa wniosek, o którym mowa w ust. 1, drogą służbową do Komendanta Głównego Policji.
 4.
 Komendant Główny Policji i jego zastępcy oraz Komendant Biura Spraw Wewnętrznych Policji i jego zastępcy składają wniosek, o którym mowa w ust. 1, do ministra właściwego do spraw wewnętrznych.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lipca 2023 r. zmieniającego rozporządzenie w sprawie trybu postępowania oraz sposobu dokumentowania kosztów poniesionych na ochronę prawną policjanta, a także podmiotów właściwych w sprawie zwrotu tych kosztów (Dz. U. poz. 1412), które weszło w życie z dniem 1 sierpnia 2023 r..
 Komendant Centralnego Biura Śledczego Policji, dowódca Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”, Komendant Centralnego Biura Zwalczania Cyberprzestępczości, Dyrektor Centralnego Laboratorium Kryminalistycznego Policji, komendant wojewódzki Policji, Komendant Stołeczny Policji, Komendant-Rektor Akademii Policji w Szczytnie, komendant szkoły policyjnej oraz ich zastępcy składają wniosek, o którym mowa w ust. 1, do Komendanta Głównego Policji.
 § 3.
 Wniosek o zwrot kosztów poniesionych na ochronę prawną policjanta w przypadku, o którym mowa w art. 66a ust. 3 ustawy, policjant składa drogą służbową do Komendanta Głównego Policji.
@@ -93,13 +86,12 @@ Podmiotem właściwym w sprawach zwrotu kosztów poniesionych na ochronę prawn�
 Komendant Główny Policji lub wyznaczony przez niego kierownik jednostki organizacyjnej Policji;
 2)
 Komendant wojewódzki (Stołeczny) Policji;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 Komendant-Rektor Akademii Policji w Szczytnie;
 4)
 Komendant szkoły policyjnej;
 5)
 Dyrektor Centralnego Laboratorium Kryminalistycznego Policji.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 października 2020 r.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lipca 2023 r. zmieniającego rozporządzenie w sprawie trybu postępowania oraz sposobu dokumentowania kosztów poniesionych na ochronę prawną policjanta, a także podmiotów właściwych w sprawie zwrotu tych kosztów (Dz. U. poz. 1412), które weszło w życie z dniem 1 sierpnia 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
+Rozporządzenie wchodzi w życie z dniem 1 października 2020 r. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lipca 2023 r. zmieniającego rozporządzenie w sprawie trybu postępowania oraz sposobu dokumentowania kosztów poniesionych na ochronę prawną policjanta, a także podmiotów właściwych w sprawie zwrotu tych kosztów (Dz. U. poz. 1412), które weszło w życie z dniem 1 sierpnia 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
 

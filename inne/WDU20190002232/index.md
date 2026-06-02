@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-11-06 |
 | Data wydania | 2019-11-15 |
-| Wejście w życie | 2019-11-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002232) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2232/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 45 ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 45 ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 i 2399 oraz z 2019 r. poz. 53, 125, 1091 i 1726.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Prezesa Rady Ministrów z dnia 23 października 2003 r. w sprawie oceny zdolności fizycznej i psychicznej do służby w Agencji Wywiadu (Dz. U. poz. 1824, z 2006 r. poz. 337 oraz z 2007 r. poz. 759) w § 8 w ust. 2 pkt 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Prezesa Rady Ministrów z dnia 23 października 2003 r. w sprawie oceny zdolności fizycznej i psychicznej do służby w Agencji Wywiadu (Dz. U. poz. 1824, z 2006 r. poz. 337 oraz z 2007 r. poz. 759) w § 8 w ust. 2 pkt 2 otrzymuje brzmienie: „
 2)
-w przypadku kandydata, którym jest funkcjonariusz Policji, Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej, Służby Więziennej, Straży Marszałkowskiej oraz żołnierz zawodowy, pozostający aktualnie w stosunku służbowym – informację o rodzaju tej służby.
-” .
+w przypadku kandydata, którym jest funkcjonariusz Policji, Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej, Służby Więziennej, Straży Marszałkowskiej oraz żołnierz zawodowy, pozostający aktualnie w stosunku służbowym – informację o rodzaju tej służby. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 i 2399 oraz z 2019 r. poz. 53, 125, 1091 i 1726.
 

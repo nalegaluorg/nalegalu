@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 10 listopada 2021 r. w sprawie sposobu przeprowadzania oceny zagrożenia dla zdrowia ludzi i dla środowiska w przypadku zamierzonego uwolnienia GMO do środowiska lub wprowadzenia do obrotu
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 10 listopada 2021 r. w sprawie sposobu przeprowadzania oceny zagrożenia dla zdrowia ludzi i dla środowiska w przypadku zamierzonego uwolnienia GMO do środowiska lub wprowadzenia do obrotu Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-10 |
 | Data wydania | 2021-11-22 |
-| Wejście w życie | 2021-12-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002102) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2102/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 6 ust. 5a ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2021 r. poz. 117 i 1718) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2001/18/WE z dnia 12 marca 2001 r. w sprawie zamierzonego uwalniania do środowiska organizmów zmodyfikowanych genetycznie i uchylającą dyrektywę Rady 90/220/EWG (Dz. Urz. WE L 106 z 17.04.2001, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 77, Dz. Urz. UE L 268 z 18.10.2003, str. 1, Dz. Urz. UE L 268 z 18.10.2003, str. 24, Dz. Urz. UE L 81 z 20.03.2008, str. 45, Dz. Urz. UE L 68 z 13.03.2015, str. 1, Dz. Urz. UE L 67 z 09.03.2018, str. 30, Dz. Urz. UE L 198 z 25.07.2019, str. 241 oraz Dz. Urz. UE L 231 z 09.06.2019, str. 1). Na podstawie art. 6 ust. 5a ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2021 r. poz. 117 i 1718) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -35,8 +34,7 @@ sposób przeprowadzania oceny zagrożenia dla zdrowia ludzi i dla środowiska �
 2)
 szczegółowe wytyczne, metodologię oraz tryb przeprowadzania oceny zagrożenia,
 3)
-informacje wymagane w przypadku oceny zagrożenia GMO innych niż rośliny GMO oraz roślin GMO
-w przypadku zamierzonego uwolnienia GMO do środowiska lub wprowadzenia do obrotu.
+informacje wymagane w przypadku oceny zagrożenia GMO innych niż rośliny GMO oraz roślin GMO – w przypadku zamierzonego uwolnienia GMO do środowiska lub wprowadzenia do obrotu.
 § 2.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
@@ -194,8 +192,7 @@ W przypadku gdy w wyniku identyfikacji potencjalnych szkodliwych skutków, o kt�
 1)
 dane z poprzednich doświadczeń,
 2)
-dane naukowo-techniczne
-przy zastosowaniu modelowania matematycznego.
+dane naukowo-techniczne – przy zastosowaniu modelowania matematycznego.
 4.
 Drogi i inne mechanizmy narażenia, o których mowa w ust. 2 pkt 5, obejmują zwłaszcza:
 1)
@@ -235,8 +232,7 @@ zarządzanie ryzykiem, w tym:
 a)
 strategie zarządzania ryzykiem proponowane dla każdego rozpoznanego czynnika ryzyka,
 b)
-monitorowanie skuteczności proponowanych środków zarządzania ryzykiem
-w przypadku wskazania takich czynników ryzyka, które ze względu na swoją charakterystykę wymagają wskazania środków zarządzania ryzykiem.
+monitorowanie skuteczności proponowanych środków zarządzania ryzykiem – w przypadku wskazania takich czynników ryzyka, które ze względu na swoją charakterystykę wymagają wskazania środków zarządzania ryzykiem.
 10.
 Ogólna ocena ryzyka w przypadku wprowadzenia do obrotu zawiera ponadto uzasadnienie:
 1)
@@ -252,8 +248,7 @@ pkt 2, 3 i 5 – wyraża się metodą ilościową, a w przypadku braku możliwo�
 2)
 pkt 4 – wyraża się metodą ilościową lub półilościową, a w przypadku braku możliwości zastosowania tych metod – metodą jakościową,
 3)
-pkt 6 – wyraża się metodą jakościową, a jeżeli jest to możliwe – również metodą ilościową
-stosując w przypadku metody jakościowej kategorie opisowe: „wysokie”, „umiarkowane”, „niskie” lub „nieistotne”, wraz z podaniem wyjaśnienia powodu zastosowania danej kategorii.
+pkt 6 – wyraża się metodą jakościową, a jeżeli jest to możliwe – również metodą ilościową – stosując w przypadku metody jakościowej kategorie opisowe: „wysokie”, „umiarkowane”, „niskie” lub „nieistotne”, wraz z podaniem wyjaśnienia powodu zastosowania danej kategorii.
 § 9.
 W ocenie zagrożenia GMO innych niż rośliny GMO oraz roślin GMO oprócz informacji wynikających z § 3–8 zamieszcza się ponadto informacje dotyczące:
 1)
@@ -288,6 +283,5 @@ należących do gromady Gymnospermae albo Angiospermae :
 b)
 nienależących do gromady Gymnospermae albo Angiospermae – elementów, o których mowa w pkt 1.
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2001/18/WE z dnia 12 marca 2001 r. w sprawie zamierzonego uwalniania do środowiska organizmów zmodyfikowanych genetycznie i uchylającą dyrektywę Rady 90/220/EWG (Dz. Urz. WE L 106 z 17.04.2001, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 77, Dz. Urz. UE L 268 z 18.10.2003, str. 1, Dz. Urz. UE L 268 z 18.10.2003, str. 24, Dz. Urz. UE L 81 z 20.03.2008, str. 45, Dz. Urz. UE L 68 z 13.03.2015, str. 1, Dz. Urz. UE L 67 z 09.03.2018, str. 30, Dz. Urz. UE L 198 z 25.07.2019, str. 241 oraz Dz. Urz. UE L 231 z 09.06.2019, str. 1).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2001/18/WE z dnia 12 marca 2001 r. w sprawie zamierzonego uwalniania do środowiska organizmów zmodyfikowanych genetycznie i uchylającą dyrektywę Rady 90/220/EWG (Dz. Urz. WE L 106 z 17.04.2001, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 77, Dz. Urz. UE L 268 z 18.10.2003, str. 1, Dz. Urz. UE L 268 z 18.10.2003, str. 24, Dz. Urz. UE L 81 z 20.03.2008, str. 45, Dz. Urz. UE L 68 z 13.03.2015, str. 1, Dz. Urz. UE L 67 z 09.03.2018, str. 30, Dz. Urz. UE L 198 z 25.07.2019, str. 241 oraz Dz. Urz. UE L 231 z 09.06.2019, str. 1).
 

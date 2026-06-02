@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 27 maja 2024 r. zmieniające rozporządzenie w sprawie wymagań technicznych i eksploatacyjnych dla lotnisk, którym przyznano zwolnienie ze stosowania przepisów Unii Europejskiej, oraz lotnisk dla śmigłowców, o których mowa w przepisach Unii Europejskiej
+# Rozporządzenie Ministra Infrastrukturyz dnia 27 maja 2024 r. zmieniające rozporządzenie w sprawie wymagań technicznych i eksploatacyjnych dla lotnisk, którym przyznano zwolnienie ze stosowania przepisów Unii Europejskiej, oraz lotnisk dla śmigłowców, o których mowa w przepisach Unii Europejskiej Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-27 |
 | Data wydania | 2024-06-04 |
-| Wejście w życie | 2024-06-12 |
 | Ostatnia zmiana | 2025-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000827) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/827/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 59a ust. 5 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (D
 § 1.
 W rozporządzeniu Ministra Infrastruktury z dnia 10 października 2019 r. w sprawie wymagań technicznych i eksploatacyjnych dla lotnisk, którym przyznano zwolnienie ze stosowania przepisów Unii Europejskiej, oraz lotnisk dla śmigłowców, o których mowa w przepisach Unii Europejskiej (Dz. U. z 2023 r. poz. 1593) w § 5 uchyla się ust. 4.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
 

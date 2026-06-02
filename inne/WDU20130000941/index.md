@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-05-24 |
 | Data wydania | 2013-08-20 |
-| Wejście w życie | 2013-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000941) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/941/text.pdf) |
 
@@ -109,7 +108,7 @@ source: "eli-html"
 - **5)** tryb przeglądania księgi wieczystej,
 - **6)** cechy dokumentów mających moc dokumentów wydawanych przez sąd, wydrukowanych samodzielnie oraz sposób i tryb ich weryfikacji z danymi zawartymi w centralnej bazie danych ksiąg wieczystych,
 - **7)** warunki techniczne i organizacyjne wykonania decyzji, o której mowa w ust. 13,
-- **8)** tryb, sposób i kryteria wyszukiwania ksiąg wieczystych uwzględniając zasadę jawności ksiąg wieczystych i powszechność dostępu do nich, szybkość postępowania, zakres danych zawartych we wniosku, konieczność zapewnienia możliwości weryfikacji samodzielnie wydrukowanego dokumentu z danymi zawartymi w centralnej bazie danych ksiąg wieczystych oraz konieczność zapewnienia ochrony centralnej bazy danych ksiąg wieczystych przed nieuprawnionym dostępem osób trzecich, a także treść i strukturę księgi wieczystej.
+- **8)** tryb, sposób i kryteria wyszukiwania ksiąg wieczystych – uwzględniając zasadę jawności ksiąg wieczystych i powszechność dostępu do nich, szybkość postępowania, zakres danych zawartych we wniosku, konieczność zapewnienia możliwości weryfikacji samodzielnie wydrukowanego dokumentu z danymi zawartymi w centralnej bazie danych ksiąg wieczystych oraz konieczność zapewnienia ochrony centralnej bazy danych ksiąg wieczystych przed nieuprawnionym dostępem osób trzecich, a także treść i strukturę księgi wieczystej.
 
 **Art. 365.**
 
@@ -124,7 +123,7 @@ source: "eli-html"
 **Art. 58.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
 
 - **1)** sądy rejonowe prowadzące księgi wieczyste oraz obszary ich właściwości miejscowej,
-- **2)** czynności, które przy prowadzeniu i przechowywaniu ksiąg wieczystych mogą spełniać samodzielnie pracownicy sądowi uwzględniając zasady sprawności, racjonalności i szybkiego działania sądu oraz zasadę jawności ksiąg wieczystych. ” .
+- **2)** czynności, które przy prowadzeniu i przechowywaniu ksiąg wieczystych mogą spełniać samodzielnie pracownicy sądowi – uwzględniając zasady sprawności, racjonalności i szybkiego działania sądu oraz zasadę jawności ksiąg wieczystych. ” .
 
 **Art. 2.** Do sposobu prowadzenia ksiąg wieczystych i dokonywania wpisów w księgach wieczystych, których treść nie została przeniesiona do struktury księgi wieczystej prowadzonej w systemie informatycznym, stosuje się przepisy dotychczasowe.
 

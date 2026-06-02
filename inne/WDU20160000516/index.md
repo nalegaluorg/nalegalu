@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-04-11 |
 | Data wydania | 2016-04-14 |
-| Wejście w życie | 2016-04-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000516) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/516/text.pdf) |
 
@@ -48,8 +47,7 @@ Skład wolnocłowy jest zlokalizowany na parterze Terminalu Pasażerskiego w Reg
 3)
 ściana o długości 18,6 m, z czterema otworami wejściowymi, wzdłuż zachodniej ściany Terminalu;
 4)
-ściana o długości 4,2 m, z otworem wejściowym, wzdłuż pomieszczenia 0.80.
-Granicę obszaru składu wolnocłowego w pomieszczeniu 0.89 na terenie hali odlotów 0.81 stanowią następujące odcinki ścian:
+ściana o długości 4,2 m, z otworem wejściowym, wzdłuż pomieszczenia 0.80. Granicę obszaru składu wolnocłowego w pomieszczeniu 0.89 na terenie hali odlotów 0.81 stanowią następujące odcinki ścian:
 1)
 ściana o długości 4,84 m wzdłuż pomieszczeń: 0.97, 0.96 i 0.95;
 2)
@@ -57,8 +55,7 @@ Granicę obszaru składu wolnocłowego w pomieszczeniu 0.89 na terenie hali odlo
 3)
 ściana o długości 4,84 m, z otworem drzwiowym, wzdłuż pomieszczenia 0.81;
 4)
-ściana o długości 1,43 m wzdłuż pomieszczenia 0.86.
-Granicę obszaru składu wolnocłowego w pomieszczeniu 0.90 na terenie hali odlotów 0.109B stanowią następujące odcinki ścian:
+ściana o długości 1,43 m wzdłuż pomieszczenia 0.86. Granicę obszaru składu wolnocłowego w pomieszczeniu 0.90 na terenie hali odlotów 0.109B stanowią następujące odcinki ścian:
 1)
 ściana o długości 4 m wzdłuż pomieszczenia 0.91;
 2)
@@ -66,6 +63,5 @@ Granicę obszaru składu wolnocłowego w pomieszczeniu 0.90 na terenie hali odlo
 3)
 ściana o długości 4 m wzdłuż pomieszczenia 0.81;
 4)
-ściana o długości 3,06 m, z otworem wejściowym, wzdłuż pomieszczenia 0.109B.
-Obszar składu wolnocłowego wynosi 82,7 m2.
+ściana o długości 3,06 m, z otworem wejściowym, wzdłuż pomieszczenia 0.109B. Obszar składu wolnocłowego wynosi 82,7 m2.
 

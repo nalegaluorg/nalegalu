@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 2 września 2014 r. w sprawie zabezpieczania zbiorów muzeum przed pożarem, kradzieżą i innym niebezpieczeństwem grożącym ich zniszczeniem lub utratą
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 2 września 2014 r. w sprawie zabezpieczania zbiorów muzeum przed pożarem, kradzieżą i innym niebezpieczeństwem grożącym ich zniszczeniem lub utratą Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 9 maja 2014 r. pod numerem 2014/0217/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-09-02 |
 | Data wydania | 2014-09-19 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001240) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1240/text.pdf) |
 
@@ -63,7 +62,7 @@ Rodzaj środków gaśniczych oraz dobór urządzeń przeciwpożarowych i gaśnic
 § 5.
 W miejscu przechowywania i eksponowania zbiorów jest zabronione używanie otwartego ognia oraz stosowanie innych czynników mogących zainicjować ogień.
 § 6.
-Instrukcja bezpieczeństwa pożarowego oprócz elementów, o których mowa w przepisach wydanych na podstawie art. 13 ust. 1 i 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380, z późn. zm.), zawiera także wskazanie:
+Instrukcja bezpieczeństwa pożarowego oprócz elementów, o których mowa w przepisach wydanych na podstawie art. 13 ust. 1 i 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 353, z 2012 r. poz. 908 oraz z 2013 r. poz. 1635.), zawiera także wskazanie:
 1)
 potencjalnych zagrożeń pożarowych;
 2)
@@ -113,8 +112,7 @@ sygnalizacji włamania i napadu,
 3)
 telewizji dozorowej lub
 4)
-kontroli dostępu
-stanowiących zabezpieczenia elektroniczne poprzedza się opracowaniem projektów tych systemów.
+kontroli dostępu – stanowiących zabezpieczenia elektroniczne poprzedza się opracowaniem projektów tych systemów.
 2.
 Przy opracowaniu projektów systemów uwzględnia się charakterystykę muzeum i zbiorów, a także warunki ochrony przeciwpożarowej zawarte w instrukcji bezpieczeństwa pożarowego lub analizę stanu potencjalnych zagrożeń zawartą w planie ochrony muzeum.
 3.
@@ -159,8 +157,7 @@ dozorca,
 3)
 opiekun ekspozycji lub
 4)
-kwalifikowany pracownik ochrony fizycznej lub pracownik ochrony fizycznej
-będący pracownikami muzeum albo wykonujący zadania ochrony na rzecz przedsiębiorcy, który uzyskał koncesję na prowadzenie działalności gospodarczej w zakresie usług ochrony osób i mienia.
+kwalifikowany pracownik ochrony fizycznej lub pracownik ochrony fizycznej – będący pracownikami muzeum albo wykonujący zadania ochrony na rzecz przedsiębiorcy, który uzyskał koncesję na prowadzenie działalności gospodarczej w zakresie usług ochrony osób i mienia.
 § 19.
 1.
 W muzeum, w którym jest realizowana ochrona na podstawie ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2014 r. poz. 1099), zwanej dalej „ustawą o ochronie osób i mienia”, zapewnia się stałą bezpośrednią ochronę fizyczną:
@@ -195,8 +192,7 @@ Koordynację i nadzór nad organizacją ochrony zbiorów w czasie transportu zbi
 1)
 o wartości większej niż 15 jednostek obliczeniowych lub
 2)
-w odniesieniu do których zostało udzielone poręczenie, o którym mowa w art. 23 ust. 1 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne
-sprawuje instytucja kultury.
+w odniesieniu do których zostało udzielone poręczenie, o którym mowa w art. 23 ust. 1 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne – sprawuje instytucja kultury.
 2.
 Jednostka obliczeniowa, o której mowa w ust. 1 pkt 1, wynosi 120-krotność przeciętnego miesięcznego wynagrodzenia w kwartale poprzedzającym kwartał, w którym przypada termin rozpoczęcia transportu zbiorów, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego.
 § 24.
@@ -313,7 +309,7 @@ Do transportu zbiorów rozpoczętego i niezakończonego przed dniem wejścia w �
 § 36.
 Traci moc rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 1 grudnia 2008 r. w sprawie zabezpieczania zbiorów w muzeach przed pożarem, kradzieżą i innym niebezpieczeństwem grożącym zniszczeniem lub utratą zbiorów oraz sposobów przygotowania zbiorów do ewakuacji w razie powstania zagrożenia (Dz. U. Nr 229, poz. 1528).
 § 37.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 9 maja 2014 r. pod numerem 2014/0217/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 353, z 2012 r. poz. 908 oraz z 2013 r. poz. 1635.
 
 ## Załącznik nr 1 — – Wymagania w zakresie stosowania zabezpieczeń technicznych
 
@@ -406,8 +402,7 @@ System telewizji dozorowej zapewnia dodatkowo obserwację:
 1)
 ciągów komunikacyjnych służących do przemieszczania zbiorów oraz przemieszczania się zwiedzających,
 2)
-elewacji budynku muzeum i terenu muzeum
-jeżeli taka konieczność wynika z planu ochrony muzeum.
+elewacji budynku muzeum i terenu muzeum – jeżeli taka konieczność wynika z planu ochrony muzeum.
 9.
 Urządzenia systemu telewizji dozorowej, w szczególności rejestrujące, zasilające lub przełączające, zabezpiecza się przed przypadkowym albo celowym uszkodzeniem, wyłączeniem, nieuprawnioną zmianą konfiguracji lub kradzieżą.
 10.

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 5 lutego 2019 r. zmieniające rozporządzenie w sprawie określenia wysokości limitów środków dostępnych w ramach schematów pomocy technicznej Programu Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 5 lutego 2019 r. zmieniające rozporządzenie w sprawie określenia wysokości limitów środków dostępnych w ramach schematów pomocy technicznej Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-05 |
 | Data wydania | 2019-02-15 |
-| Wejście w życie | 2019-03-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000296) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/296/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 25 lutego 2016 r. w sp
 1)
 w § 2 w ust. 2:
 a)
-w pkt 1 lit. a otrzymuje brzmienie:
-„
+w pkt 1 lit. a otrzymuje brzmienie: „
 a)
 jeżeli środki te są przeznaczone na:
 – wsparcie struktury organizacyjnej niezbędnej do zapewnienia funkcjonowania krajowej sieci obszarów wiejskich, o którym mowa w art. 54 ust. 3 lit. a rozporządzenia nr 1305/2013, zwane dalej „wsparciem funkcjonowania”,
@@ -43,8 +41,7 @@ jeżeli środki te są przeznaczone na:
 – limit ten wynosi nie więcej niż 92% tych środków,
 ” ,
 b)
-po pkt 1c dodaje się pkt 1d w brzmieniu:
-„
+po pkt 1c dodaje się pkt 1d w brzmieniu: „
 1d)
 w przypadku Ministerstwa Rolnictwa i Rozwoju Wsi:
 a)
@@ -54,8 +51,7 @@ na realizację operacji własnych beneficjenta w ramach planu działania w zakre
 c)
 na realizację operacji własnych beneficjenta, realizowanych w ramach planu działania w zakresie innym niż ten, o którym mowa w lit. b – limit ten wynosi nie więcej niż 90% środków pozostałych po odjęciu środków na wsparcie funkcjonowania i środków, o których mowa w lit. b,
 d)
-na realizację operacji zgłoszonych przez partnerów krajowej sieci obszarów wiejskich, realizowanych w ramach planu działania w zakresie innym niż ten, o którym mowa w lit. b – limit ten wynosi co najmniej 10% środków pozostałych po odjęciu środków na wsparcie funkcjonowania i środków, o których mowa w lit. b;
-” ;
+na realizację operacji zgłoszonych przez partnerów krajowej sieci obszarów wiejskich, realizowanych w ramach planu działania w zakresie innym niż ten, o którym mowa w lit. b – limit ten wynosi co najmniej 10% środków pozostałych po odjęciu środków na wsparcie funkcjonowania i środków, o których mowa w lit. b; ” ;
 2)
 w załączniku nr 1 w kolumnie „Wysokość limitów dostępnych środków (w euro)”:
 a)
@@ -73,6 +69,5 @@ w lp. 22–37 liczbę „800 000” zastępuje się liczbą „866 065”.
 § 2.
 Do kosztów poniesionych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-02-29 |
 | Data wydania | 2008-03-27 |
-| Wejście w życie | 2008-03-27 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080520304) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/304/text.pdf) |
 
@@ -66,7 +65,7 @@ source: "eli-html"
 
 2. W przypadku działania: poprawianie i rozwijanie infrastruktury związanej z rozwojem i dostosowywaniem rolnictwa i leśnictwa przez scalanie gruntów i gospodarowanie rolniczymi zasobami wodnymi, jednostki samorządu terytorialnego je realizujące mogą otrzymać również środki na sfinansowanie kosztów przygotowania dokumentacji technicznej niezbędnej do realizacji operacji w ramach tego działania.
 
-3. Środki z budżetu państwa na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację zadań, o których mowa w ust. 1 i 2, mogą być przekazywane przez właściwego dysponenta w formie dotacji celowej, o której mowa w art. 108 pkt 1 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.), do wysokości:
+3. Środki z budżetu państwa na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację zadań, o których mowa w ust. 1 i 2, mogą być przekazywane przez właściwego dysponenta w formie dotacji celowej, o której mowa w art. 108 pkt 1 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832 oraz z 2007 r. Nr 82, poz. 560, Nr 88, poz. 587, Nr 115, poz. 791 i Nr 140, poz. 984.), do wysokości:
 
 - **1)** udziału refundowanego ze środków EFRROW;
 - **2)** udziału krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z udziałem środków EFRROW.
@@ -116,5 +115,5 @@ source: "eli-html"
 
 **Art. 2.** Przepisy wykonawcze wydane na podstawie art. 10 ust. 7 ustawy wymienionej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 ust. 9, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia jej wejścia w życie.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832 oraz z 2007 r. Nr 82, poz. 560, Nr 88, poz. 587, Nr 115, poz. 791 i Nr 140, poz. 984.
 

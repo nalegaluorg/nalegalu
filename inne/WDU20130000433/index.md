@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 8 marca 2013 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 8 marca 2013 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/73/UE z dnia 24 listopada 2010 r. zmieniającą dyrektywę 2003/71/WE w sprawie prospektu emisyjnego publikowanego w związku z publiczną ofertą lub dopuszczeniem do obrotu papierów wartościowych oraz dyrektywę 2004/109/WE w sprawie harmonizacji wymogów dotyczących przejrzystości informacji o emitentach, których papiery wartościowe dopuszczane są do obrotu na rynku regulowanym (Dz. Urz. UE L 327 z 11.12. 2010, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-03-08 |
 | Data wydania | 2013-04-08 |
-| Wejście w życie | 2013-04-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000433) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/433/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2009 r. Nr 185, poz. 1439, z późn. zm.) wprowadza się następujące zmiany:
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 29 czerwca 1995 r. o obligacjach, ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+
+**Art. 1.** W ustawie z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2009 r. Nr 185, poz. 1439, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 167, poz. 1129 oraz z 2012 r. poz. 836 i 1385.) wprowadza się następujące zmiany:
 
 - **1)** w odnośniku nr 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–8 w brzmieniu: „
 - **5)** dyrektywy 2004/25/WE Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie ofert przejęcia (Dz. Urz. UE L 142 z 30.04.2004; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 17, t. 2, str. 20);
@@ -39,7 +40,7 @@ source: "eli-html"
 
 1. Ofertą publiczną jest udostępnianie, co najmniej 150 osobom lub nieoznaczonemu adresatowi, w dowolnej formie i w dowolny sposób, informacji o papierach wartościowych i warunkach ich nabycia, stanowiących wystarczającą podstawę do podjęcia decyzji o nabyciu tych papierów wartościowych.
 
-2. Przedmiotem oferty publicznej dokonywanej na terytorium Rzeczypospolitej Polskiej nie mogą być papiery wartościowe emitowane przez instytucje wspólnego inwestowania typu otwartego, inne niż fundusze zagraniczne, o których mowa w art. 2 pkt 9 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.).
+2. Przedmiotem oferty publicznej dokonywanej na terytorium Rzeczypospolitej Polskiej nie mogą być papiery wartościowe emitowane przez instytucje wspólnego inwestowania typu otwartego, inne niż fundusze zagraniczne, o których mowa w art. 2 pkt 9 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 596, 1385 i 1592 oraz z 2013 r. poz. 70.).
 
 3. Nie stanowi oferty publicznej akcji udostępnianie, co najmniej 150 osobom lub nieoznaczonemu adresatowi, w dowolnej formie i w dowolny sposób, informacji o tych akcjach umożliwiających podjęcie decyzji o ich nabyciu lub objęciu, w ramach realizacji uprawnień inkorporowanych w innych papierach wartościowych, chyba że te inne papiery wartościowe nie były przedmiotem oferty publicznej. ” ;
 
@@ -72,7 +73,7 @@ source: "eli-html"
 
 3. Udostępnienia do publicznej wiadomości prospektu emisyjnego, pod warunkiem udostępnienia memorandum informacyjnego, o którym mowa w art. 41, nie wymaga oferta publiczna lub dopuszczenie do obrotu na rynku regulowanym:
 
-- **1)** papierów wartościowych emitowanych przez podmioty, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm.), prowadzące działalność statutową w zakresie wskazanym w art. 4 tej ustawy, lub przez podmioty o podobnym charakterze z siedzibą w państwie członkowskim innym niż Rzeczpospolita Polska, jeżeli środki z emisji będą przeznaczone wyłącznie na realizację celów statutowych;
+- **1)** papierów wartościowych emitowanych przez podmioty, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378.), prowadzące działalność statutową w zakresie wskazanym w art. 4 tej ustawy, lub przez podmioty o podobnym charakterze z siedzibą w państwie członkowskim innym niż Rzeczpospolita Polska, jeżeli środki z emisji będą przeznaczone wyłącznie na realizację celów statutowych;
 - **2)** papierów wartościowych o charakterze nieudziałowym, emitowanych przez instytucję kredytową w sposób ciągły lub powtarzający się w cyklach obejmujących co najmniej dwie emisje dokonywane w odstępie nie dłuższym niż 12 miesięcy, które nie są podporządkowane, zamienne lub wymienne, nie inkorporują prawa do subskrybowania lub nabycia innego rodzaju papierów wartościowych oraz nie są instrumentem bazowym dla papierów wartościowych, o których mowa w art. 3 pkt 1 lit. b ustawy o obrocie instrumentami finansowymi, jeżeli w wyniku ich emisji zakładane wpływy brutto emitenta na terytorium Unii Europejskiej, liczone według ich ceny emisyjnej z dnia jej ustalenia, stanowią mniej niż 75 000 000 euro, i wraz z wpływami, które emitent zamierzał uzyskać z tytułu takich ofert publicznych takich papierów wartościowych, dokonanych w okresie poprzednich 12 miesięcy, nie osiągną lub nie przekroczą tej kwoty.
 
 4. Udostępnienia do publicznej wiadomości prospektu emisyjnego nie wymaga oferta publiczna:
@@ -175,8 +176,10 @@ source: "eli-html"
 
 5. Uczestnik oferty kaskadowej przekazuje do Komisji informacje, o których mowa w ust. 4, nie później niż na 1 dzień roboczy przed dniem ich udostępnienia do publicznej wiadomości. ” ;
 
-- **10)** w art. 18: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Komisja może zastosować środki, o których mowa w art. 16 lub art. 17, także w przypadku gdy: ” , – pkt 1 otrzymuje brzmienie: „ 1) oferta publiczna, subskrypcja lub sprzedaż papierów wartościowych, dokonywane na podstawie tej oferty, lub ich dopuszczenie lub wprowadzenie do obrotu na rynku regulowanym w znaczący sposób naruszałyby interesy inwestorów; ” , uchyla się ust. 2;
+- **10)** w art. 18: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Komisja może zastosować środki, o których mowa w art. 16 lub art. 17, także w przypadku gdy: ” , pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** oferta publiczna, subskrypcja lub sprzedaż papierów wartościowych, dokonywane na podstawie tej oferty, lub ich dopuszczenie lub wprowadzenie do obrotu na rynku regulowanym w znaczący sposób naruszałyby interesy inwestorów; ” , uchyla się ust. 2;
     - **b)**
 
 - **11)** po art. 18 dodaje się art. 18a w brzmieniu: „
@@ -246,9 +249,19 @@ source: "eli-html"
 2. Podmiotem zamierzającym ubiegać się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym jest podmiot, który złożył wniosek o zatwierdzenie prospektu emisyjnego lub jego części, w którym – zgodnie z przepisami rozporządzenia 809/2004 – wskazał na zamiar ubiegania się o dopuszczenie papierów wartościowych objętych tym prospektem emisyjnym do obrotu na rynku regulowanym. Podmiotem ubiegającym się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym jest podmiot, który złożył wniosek o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym. ” ;
 
 - **18)** po art. 26 dodaje się art. 26a w brzmieniu: „ Prospekt emisyjny podlega zatwierdzeniu przez Komisję. ” ;
-- **19)** w art. 27: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W celu uzyskania zatwierdzenia prospektu emisyjnego w formie jednolitego dokumentu – w przypadku emitenta, dla którego Rzeczpospolita Polska jest państwem macierzystym – emitent lub sprzedający składa do Komisji, za pośrednictwem firmy inwestycyjnej, wniosek zawierający: ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) firmę (nazwę) i siedzibę sprzedającego, a w przypadku osoby fizycznej – imię, nazwisko i adres; ” , – pkt 2 otrzymuje brzmienie: „ 2) określenie rodzaju i oznaczenia papierów wartościowych objętych prospektem emisyjnym; ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) dane kontaktowe emitenta i sprzedającego lub ustanowionego w sprawie pełnomocnika emitenta lub sprzedającego, a w szczególności numer telefonu, numer telefaksu i adres poczty elektronicznej. ” , w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) statut, umowę spółki lub inny przewidziany przepisami prawa kraju siedziby emitenta dokument dotyczący jego działalności i organizacji; ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) akt założycielski lub inny równoważny dokument potwierdzający utworzenie emitenta, zgodnie z przepisami kraju jego siedziby, jeśli nie upłynęło 5 lat od dnia utworzenia emitenta; ” , – pkt 3, 3a i 3b otrzymują brzmienie: „ 3) uchwałę właściwego organu stanowiącego emitenta o emisji papierów wartościowych objętych prospektem emisyjnym; 3a) uchwałę walnego zgromadzenia spółki w sprawie ubiegania się o dopuszczenie akcji objętych prospektem emisyjnym do obrotu na rynku regulowanym – w przypadku spółki, której akcje nie są dopuszczone do obrotu na rynku regulowanym, a w przypadku emitenta z siedzibą poza terytorium Rzeczypospolitej Polskiej – uchwałę właściwego organu stanowiącego tego emitenta; 3b) uchwałę walnego zgromadzenia w sprawie upoważnienia do zawarcia umowy o rejestrację akcji objętych prospektem emisyjnym w depozycie papierów wartościowych, a w przypadku emitenta z siedzibą poza terytorium Rzeczypospolitej Polskiej – uchwałę właściwego organu stanowiącego tego emitenta, jeżeli emitent jest spółką, której akcje nie są zarejestrowane w depozycie papierów wartościowych; ” , ust. 4 otrzymuje brzmienie: „
+- **19)** w art. 27: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W celu uzyskania zatwierdzenia prospektu emisyjnego w formie jednolitego dokumentu – w przypadku emitenta, dla którego Rzeczpospolita Polska jest państwem macierzystym – emitent lub sprzedający składa do Komisji, za pośrednictwem firmy inwestycyjnej, wniosek zawierający: ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
+
+- **1a)** firmę (nazwę) i siedzibę sprzedającego, a w przypadku osoby fizycznej – imię, nazwisko i adres; ” , pkt 2 otrzymuje brzmienie: „
+- **2)** określenie rodzaju i oznaczenia papierów wartościowych objętych prospektem emisyjnym; ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** dane kontaktowe emitenta i sprzedającego lub ustanowionego w sprawie pełnomocnika emitenta lub sprzedającego, a w szczególności numer telefonu, numer telefaksu i adres poczty elektronicznej. ” , w ust. 2: pkt 2 otrzymuje brzmienie: „
     - **b)**
+
+- **2)** statut, umowę spółki lub inny przewidziany przepisami prawa kraju siedziby emitenta dokument dotyczący jego działalności i organizacji; ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** akt założycielski lub inny równoważny dokument potwierdzający utworzenie emitenta, zgodnie z przepisami kraju jego siedziby, jeśli nie upłynęło 5 lat od dnia utworzenia emitenta; ” , pkt 3, 3a i 3b otrzymują brzmienie: „
+- **3)** uchwałę właściwego organu stanowiącego emitenta o emisji papierów wartościowych objętych prospektem emisyjnym;
+- **3a)** uchwałę walnego zgromadzenia spółki w sprawie ubiegania się o dopuszczenie akcji objętych prospektem emisyjnym do obrotu na rynku regulowanym – w przypadku spółki, której akcje nie są dopuszczone do obrotu na rynku regulowanym, a w przypadku emitenta z siedzibą poza terytorium Rzeczypospolitej Polskiej – uchwałę właściwego organu stanowiącego tego emitenta;
+- **3b)** uchwałę walnego zgromadzenia w sprawie upoważnienia do zawarcia umowy o rejestrację akcji objętych prospektem emisyjnym w depozycie papierów wartościowych, a w przypadku emitenta z siedzibą poza terytorium Rzeczypospolitej Polskiej – uchwałę właściwego organu stanowiącego tego emitenta, jeżeli emitent jest spółką, której akcje nie są zarejestrowane w depozycie papierów wartościowych; ” , ust. 4 otrzymuje brzmienie: „
     - **c)**
 
 4. Pośrednictwo firmy inwestycyjnej, o którym mowa w ust. 1, nie jest wymagane w przypadku wniosku o zatwierdzenie prospektu emisyjnego w związku z ofertą publiczną, o której mowa w art. 7 ust. 4 pkt 4 i 5 oraz ust. 8. ” ;
@@ -367,7 +380,7 @@ source: "eli-html"
 
 2. Emitent lub sprzedający ma obowiązek określić w memorandum informacyjnym termin jego ważności, nie dłuższy niż 12 miesięcy od dnia jego zatwierdzenia, zapewniając należytą ochronę interesów inwestorów.
 
-3. Do wniosku o zatwierdzenie memorandum informacyjnego emitent załącza dokumenty i informacje wymienione w art. 505 § 1 albo art. 540 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.); przepisy art. 27 ust. 1 i ust. 2 pkt 2, 4 i 5 stosuje się odpowiednio.
+3. Do wniosku o zatwierdzenie memorandum informacyjnego emitent załącza dokumenty i informacje wymienione w art. 505 § 1 albo art. 540 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540, z 2008 r. Nr 86, poz. 524, Nr 118, poz. 747, Nr 217, poz. 1381 i Nr 231, poz. 1547, z 2009 r. Nr 13, poz. 69, Nr 42, poz. 341 i Nr 104, poz. 860, z 2011 r. Nr 92, poz. 531, Nr 102, poz. 585, Nr 106, poz. 622, Nr 133, poz. 767, Nr 201, poz. 1182 i Nr 234, poz. 1391 oraz z 2012 r. poz. 596, 1342 i 1529.); przepisy art. 27 ust. 1 i ust. 2 pkt 2, 4 i 5 stosuje się odpowiednio.
 
 4. W przypadku gdy wniosek o zatwierdzenie memorandum nie zawiera dokumentów i informacji, o których mowa w ust. 3, Komisja wzywa do ich przekazania w wyznaczonym terminie, nie dłuższym niż 2 miesiące.
 
@@ -471,7 +484,7 @@ source: "eli-html"
 1a. Ważność prospektu emisyjnego wygasa z upływem dnia:
 
 - **1)** przydziału papierów wartościowych w ostatniej z ofert publicznych przewidzianych przez emitenta lub sprzedającego do przeprowadzenia na podstawie prospektu emisyjnego albo
-- **2)** dopuszczenia do obrotu na rynku regulowanym wszystkich papierów wartościowych objętych prospektem emisyjnym w zależności od tego, który z tych dni przypadnie później.
+- **2)** dopuszczenia do obrotu na rynku regulowanym wszystkich papierów wartościowych objętych prospektem emisyjnym – w zależności od tego, który z tych dni przypadnie później.
 
 1b. Ważność prospektu emisyjnego wygasa z dniem:
 
@@ -592,7 +605,7 @@ source: "eli-html"
 - **3)** nie wykonuje albo wykonuje nienależycie obowiązki, o których mowa w art. 22 ust. 4 i 7, art. 26 ust. 5 i 7, art. 27, art. 29–31 i art. 33 rozporządzenia 809/2004,
 - **4)** udostępnia prospekt emisyjny w postaci drukowanej niezgodnie z art. 47 ust. 2,
 - **5)** wbrew obowiązkowi, wynikającemu z art. 38 ust. 7 w związku z art. 51 ust. 1, art. 38a ust. 5 w związku z art. 51 ust. 1, art. 38b ust. 10 w związku z art. 51 ust. 1, oraz obowiązkowi, o którym mowa w art. 51 ust. 1, nie przekazuje w terminie aneksu do prospektu emisyjnego lub memorandum informacyjnego,
-- **6)** wbrew obowiązkowi wynikającemu z art. 38 ust. 7 w związku z art. 51 ust. 5, art. 38a ust. 5 w związku z art. 51 ust. 5, i z art. 38b ust. 10 w związku z art. 51 ust. 5, oraz obowiązkowi, o którym mowa w art. 41 ust. 4 i art. 51 ust. 5, nie udostępnia do publicznej wiadomości w terminie aneksu do prospektu emisyjnego lub memorandum informacyjnego Komisja może wydać decyzję o wykluczeniu, na czas określony lub bezterminowo, papierów wartościowych z obrotu na rynku regulowanym albo nałożyć, biorąc pod uwagę w szczególności sytuację finansową podmiotu, na który kara jest nakładana, karę pieniężną do wysokości 1 000 000 zł, albo zastosować obie sankcje łącznie. ” , po ust. 1 dodaje się ust. 1a-1d w brzmieniu: „
+- **6)** wbrew obowiązkowi wynikającemu z art. 38 ust. 7 w związku z art. 51 ust. 5, art. 38a ust. 5 w związku z art. 51 ust. 5, i z art. 38b ust. 10 w związku z art. 51 ust. 5, oraz obowiązkowi, o którym mowa w art. 41 ust. 4 i art. 51 ust. 5, nie udostępnia do publicznej wiadomości w terminie aneksu do prospektu emisyjnego lub memorandum informacyjnego – Komisja może wydać decyzję o wykluczeniu, na czas określony lub bezterminowo, papierów wartościowych z obrotu na rynku regulowanym albo nałożyć, biorąc pod uwagę w szczególności sytuację finansową podmiotu, na który kara jest nakładana, karę pieniężną do wysokości 1 000 000 zł, albo zastosować obie sankcje łącznie. ” , po ust. 1 dodaje się ust. 1a-1d w brzmieniu: „
     - **b)**
 
 1a. W przypadku gdy uczestnik oferty kaskadowej, o którym mowa w art. 15a ust. 1, dokonuje sprzedaży objętych lub nabytych papierów wartościowych o charakterze nieudziałowym, w swoim imieniu i na swój rachunek, w drodze oferty publicznej, na podstawie prospektu emisyjnego emitenta, bez pisemnej zgody tego emitenta, Komisja może wydać decyzję o wykluczeniu, na czas określony lub bezterminowo, papierów wartościowych z obrotu na rynku regulowanym albo nałożyć, biorąc po uwagę w szczególności sytuację finansową podmiotu, na który kara jest nakładana, karę pieniężną do wysokości 1 000 000 zł, albo zastosować obie sankcje łącznie.
@@ -602,7 +615,7 @@ source: "eli-html"
 - **1)** emitent, sprzedający lub inne podmioty uczestniczące w ofercie publicznej, subskrypcji lub sprzedaży w imieniu lub na zlecenie emitenta lub sprzedającego nie wykonują albo nienależycie wykonują nakaz, o którym mowa w art. 16 ust. 1 pkt 1, albo naruszają zakaz, o którym mowa w art. 16 ust. 1 pkt 2,
 - **2)** emitent lub podmioty występujące w imieniu lub na zlecenie emitenta nie wykonują albo nienależycie wykonują nakaz, o którym mowa w art. 17 ust. 1 pkt 1, albo naruszają zakaz, o którym mowa w art. 17 ust. 1 pkt 2,
 - **3)** emitent, sprzedający lub inne osoby i podmioty, za pośrednictwem których emitent lub sprzedający prowadzą akcję promocyjną, nie wykonują albo nienależycie wykonują nakaz, o którym mowa w art. 53 ust. 12 pkt 1, albo naruszają zakaz, o którym mowa w art. 53 ust. 12 pkt 2,
-- **4)** emitent, sprzedający lub inne podmioty działające w imieniu lub na zlecenie emitenta lub sprzedającego naruszają zakaz, o którym mowa w art. 53 ust. 10 pkt 1 Komisja może nałożyć karę pieniężną do wysokości 5 000 000 zł.
+- **4)** emitent, sprzedający lub inne podmioty działające w imieniu lub na zlecenie emitenta lub sprzedającego naruszają zakaz, o którym mowa w art. 53 ust. 10 pkt 1 – Komisja może nałożyć karę pieniężną do wysokości 5 000 000 zł.
 
 1c. W przypadku gdy emitent lub sprzedający prowadzi akcję promocyjną z naruszeniem art. 53 ust. 3–7 lub 9 Komisja może nałożyć karę pieniężną do wysokości 1 000 000 zł.
 
@@ -629,7 +642,7 @@ source: "eli-html"
 
 - **1)** zatwierdzenia prospektu emisyjnego lub jego udostępnienia do publicznej wiadomości albo
 - **2)** zatwierdzenia memorandum informacyjnego albo stwierdzenia równoważności informacji w memorandum informacyjnym z informacjami wymaganymi w prospekcie emisyjnym lub udostępnienia memorandum informacyjnego do publicznej wiadomości lub osobom, do których skierowana jest oferta publiczna, albo
-- **3)** dokumentu informacyjnego, o którym mowa w art. 38a, lub bez jego złożenia do Komisji lub udostępnienia do publicznej wiadomości lub osobom, do których skierowana jest oferta publiczna podlega grzywnie do 10 000 000 zł albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
+- **3)** dokumentu informacyjnego, o którym mowa w art. 38a, lub bez jego złożenia do Komisji lub udostępnienia do publicznej wiadomości lub osobom, do których skierowana jest oferta publiczna – podlega grzywnie do 10 000 000 zł albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
 
 2. Tej samej karze podlega, kto udostępnia 150 osobom lub większej liczbie osób lub nieoznaczonemu adresatowi, w dowolnej formie i w dowolny sposób, informacje w celu promowania bezpośrednio lub pośrednio nabycia lub objęcia papierów wartościowych albo zachęca, bezpośrednio lub pośrednio, do nabycia lub objęcia tych papierów wartościowych, które nie są i nie będą przedmiotem oferty publicznej w rozumieniu art. 3 ust. 1.
 
@@ -660,18 +673,18 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931 i 951) art. 39r otrzymuje brzmienie: „ Sprzedaż obligacji może być dokonywana w trybie:
 
-- **1)** oferty publicznej, o której mowa w art. 3 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2009 r. Nr 185, poz. 1439, z późn. zm.);
+- **1)** oferty publicznej, o której mowa w art. 3 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2009 r. Nr 185, poz. 1439, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 167, poz. 1129, z 2012 r. poz. 836 i 1385 oraz z 2013 r. poz. 433.);
 - **2)** oferty publicznej, o której mowa w art. 3 ustawy, o której mowa w pkt 1, obligacji, do których nie stosuje się przepisów tej ustawy;
 - **3)** przetargów organizowanych przez Bank Gospodarstwa Krajowego albo inny podmiot na podstawie umowy zawartej przez Bank Gospodarstwa Krajowego z tym podmiotem;
-- **4)** proponowania nabycia obligacji w inny sposób niż określony w pkt 1–3. ” . W ustawie z dnia 29 czerwca 1995 r. o obligacjach (Dz. U. z 2001 r. Nr 120, poz. 1300, z późn. zm.) wprowadza się następujące zmiany:
+- **4)** proponowania nabycia obligacji w inny sposób niż określony w pkt 1–3. ” . W ustawie z dnia 29 czerwca 1995 r. o obligacjach (Dz. U. z 2001 r. Nr 120, poz. 1300, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 216, poz. 1824, z 2003 r. Nr 217, poz. 2124, z 2005 r. Nr 157, poz. 1316, Nr 183, poz. 1538, Nr 184, poz. 1539 i Nr 249, poz. 2104, z 2008 r. Nr 231, poz. 1547, z 2009 r. Nr 131, poz. 1075, Nr 157, poz. 1241 i Nr 165, poz. 1316 oraz z 2011 r. Nr 129, poz. 731.) wprowadza się następujące zmiany:
 - **1)** art. 9 otrzymuje brzmienie: „ Emisja obligacji może nastąpić w trybie:
-- **1)** oferty publicznej, o której mowa w art. 3 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2009 r. Nr 185, poz. 1439, z późn. zm.),
+- **1)** oferty publicznej, o której mowa w art. 3 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2009 r. Nr 185, poz. 1439, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 167, poz. 1129, z 2012 r. poz. 836 i 1385 oraz z 2013 r. poz. 433.),
 - **2)** oferty publicznej, o której mowa w art. 3 ustawy wymienionej w pkt 1, obligacji, do których nie stosuje się przepisów tej ustawy,
 - **3)** proponowania nabycia obligacji w inny sposób niż określony w pkt 1 i 2. ” ;
 - **2)** w art. 31 w ust. 2 pkt 2 otrzymuje brzmienie: „
 - **2)** będący sprzedającym papiery wartościowe danego emitenta w rozumieniu art. 4 pkt 7 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, ” .
 
-**Art. 4.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540, z 2008 r. Nr 86, poz. 524, Nr 118, poz. 747, Nr 217, poz. 1381 i Nr 231, poz. 1547, z 2009 r. Nr 13, poz. 69, Nr 42, poz. 341 i Nr 104, poz. 860, z 2011 r. Nr 92, poz. 531, Nr 102, poz. 585, Nr 106, poz. 622, Nr 133, poz. 767, Nr 201, poz. 1182 i Nr 234, poz. 1391 oraz z 2012 r. poz. 596, 1342 i 1529.) wprowadza się następujące zmiany:
 
 - **1)** w art. 441 § 3 otrzymuje brzmienie: „
 
@@ -683,7 +696,7 @@ source: "eli-html"
 
 - **3)** w art. 532 § 1 otrzymuje brzmienie: „
 
-§ 1. Do podziału spółki stosuje się przepis art. 441 § 3 oraz odpowiednio przepisy dotyczące powstania właściwego typu spółki przejmującej albo nowo zawiązanej, z wyłączeniem przepisów o wkładach niepieniężnych, jeżeli przepisy niniejszego działu nie stanowią inaczej. ” . W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.) wprowadza się następujące zmiany:
+§ 1. Do podziału spółki stosuje się przepis art. 441 § 3 oraz odpowiednio przepisy dotyczące powstania właściwego typu spółki przejmującej albo nowo zawiązanej, z wyłączeniem przepisów o wkładach niepieniężnych, jeżeli przepisy niniejszego działu nie stanowią inaczej. ” . W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 596, 1385 i 1529 oraz z 2013 r. poz. 70.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 ust. 2 otrzymuje brzmienie: „
 
@@ -697,7 +710,7 @@ source: "eli-html"
 
 8. Certyfikaty inwestycyjne nieposiadające formy dokumentu mogą być również rejestrowane, na podstawie umowy zawartej z Krajowym Depozytem Papierów Wartościowych S.A., albo spółką, której Krajowy Depozyt Papierów Wartościowych S.A. przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1 ustawy o obrocie instrumentami finansowymi, w depozycie papierów wartościowych prowadzonym zgodnie z przepisami tej ustawy. W takim przypadku do powstawania oraz przenoszenia praw z certyfikatów inwestycyjnych stosuje się przepisy tej ustawy dotyczące praw ze zdematerializowanych papierów wartościowych. ” .
 
-**Art. 6.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2010 r. Nr 211, poz. 1384, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2010 r. Nr 211, poz. 1384, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 106, poz. 622, Nr 131, poz. 763 i Nr 234, poz. 1391 oraz z 2012 r. poz. 836 i 1385.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3: w pkt 7 lit. b otrzymuje brzmienie: „ proponowanie w dowolnej formie i w dowolny sposób, przez podmiot inny niż wystawca, nabycia instrumentów finansowych niebędących papierami wartościowymi lub nabywanie ich od tego innego podmiotu, jeżeli propozycja skierowana jest do co najmniej 150 osób lub do nieoznaczonego adresata; ” , użyty w pkt 13, art. 72 ust. 1 pkt 3 i 4 oraz art. 176a w różnych przypadkach wyraz „wprowadzający” zastępuje się użytym w odpowiednim przypadku wyrazem „sprzedający”;
     - **a)**
@@ -719,7 +732,7 @@ source: "eli-html"
 
 - **1)** prospektu emisyjnego albo memorandum informacyjnego, zatwierdzonych przed dniem wejścia w życie niniejszej ustawy albo
 - **2)** memorandum informacyjnego, którego równoważność została stwierdzona przed dniem wejścia w życie niniejszej ustawy, albo
-- **3)** opublikowanego przed dniem wejścia w życie niniejszej ustawy memorandum informacyjnego niewymagającego zatwierdzenia przez Komisję albo stwierdzenia jego równoważności stosuje się przepisy dotychczasowe.
+- **3)** opublikowanego przed dniem wejścia w życie niniejszej ustawy memorandum informacyjnego niewymagającego zatwierdzenia przez Komisję albo stwierdzenia jego równoważności – stosuje się przepisy dotychczasowe.
 
 2. W okresie 6 miesięcy od dnia wejścia w życie niniejszej ustawy do subskrypcji lub sprzedaży papierów wartościowych oraz do pozostającej w związku z nią akcji promocyjnej rozpoczętych przed dniem wejścia w życie niniejszej ustawy, w przypadku gdy subskrypcja lub sprzedaż nie wymagała, zgodnie z przepisami ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym, dokumentów, o których mowa w ust. 1, stosuje się przepisy dotychczasowe.
 
@@ -729,5 +742,5 @@ source: "eli-html"
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 55 pkt 1 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych, wydanych na podstawie art. 55 pkt 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/73/UE z dnia 24 listopada 2010 r. zmieniającą dyrektywę 2003/71/WE w sprawie prospektu emisyjnego publikowanego w związku z publiczną ofertą lub dopuszczeniem do obrotu papierów wartościowych oraz dyrektywę 2004/109/WE w sprawie harmonizacji wymogów dotyczących przejrzystości informacji o emitentach, których papiery wartościowe dopuszczane są do obrotu na rynku regulowanym (Dz. Urz. UE L 327 z 11.12. 2010, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 29 czerwca 1995 r. o obligacjach, ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 167, poz. 1129 oraz z 2012 r. poz. 836 i 1385. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 596, 1385 i 1592 oraz z 2013 r. poz. 70. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540, z 2008 r. Nr 86, poz. 524, Nr 118, poz. 747, Nr 217, poz. 1381 i Nr 231, poz. 1547, z 2009 r. Nr 13, poz. 69, Nr 42, poz. 341 i Nr 104, poz. 860, z 2011 r. Nr 92, poz. 531, Nr 102, poz. 585, Nr 106, poz. 622, Nr 133, poz. 767, Nr 201, poz. 1182 i Nr 234, poz. 1391 oraz z 2012 r. poz. 596, 1342 i 1529. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 167, poz. 1129, z 2012 r. poz. 836 i 1385 oraz z 2013 r. poz. 433. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 216, poz. 1824, z 2003 r. Nr 217, poz. 2124, z 2005 r. Nr 157, poz. 1316, Nr 183, poz. 1538, Nr 184, poz. 1539 i Nr 249, poz. 2104, z 2008 r. Nr 231, poz. 1547, z 2009 r. Nr 131, poz. 1075, Nr 157, poz. 1241 i Nr 165, poz. 1316 oraz z 2011 r. Nr 129, poz. 731. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 167, poz. 1129, z 2012 r. poz. 836 i 1385 oraz z 2013 r. poz. 433. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540, z 2008 r. Nr 86, poz. 524, Nr 118, poz. 747, Nr 217, poz. 1381 i Nr 231, poz. 1547, z 2009 r. Nr 13, poz. 69, Nr 42, poz. 341 i Nr 104, poz. 860, z 2011 r. Nr 92, poz. 531, Nr 102, poz. 585, Nr 106, poz. 622, Nr 133, poz. 767, Nr 201, poz. 1182 i Nr 234, poz. 1391 oraz z 2012 r. poz. 596, 1342 i 1529. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 596, 1385 i 1529 oraz z 2013 r. poz. 70. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 106, poz. 622, Nr 131, poz. 763 i Nr 234, poz. 1391 oraz z 2012 r. poz. 836 i 1385.
 

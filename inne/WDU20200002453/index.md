@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-30 |
 | Data wydania | 2020-12-31 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2026-03-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002453) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2453/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Wnoszenie pism w postępowaniu odwoławczym i tryb postępowania z nimi oraz czynności wstępne i udostępnianie akt sprawy odwoławczej Rozdział 3 – Przygotowanie rozprawy Rozdział 4 – Postępowanie przy rozpoznawaniu odwołań Rozdział 5 – Orzeczenia Rozdział 6 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 544 ust. 4 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. poz. 2019 oraz z 2020 r. poz. 288, 1492, 1517, 2275 i 2320) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowy tryb postępowania przy rozpoznawaniu odwołań, szczegółowy sposób wnoszenia odwołania i innych pism w postępowaniu odwoławczym, tryb postępowania z wniesionym odwołaniem oraz sposób przygotowania rozprawy.
 § 2.
@@ -45,6 +45,7 @@ Urzędzie – należy przez to rozumieć Urząd Zamówień Publicznych;
 ustawie – należy przez to rozumieć ustawę z dnia 11 września 2019 r. – Prawo zamówień publicznych.
 § 3.
 Przepisy dotyczące rozprawy stosuje się odpowiednio do posiedzeń, w których dopuszcza się udział stron, uczestników postępowania odwoławczego, świadków lub biegłych.
+Wnoszenie pism w postępowaniu odwoławczym i tryb postępowania z nimi oraz czynności wstępne i udostępnianie akt sprawy odwoławczej
 § 4.
 1.
 Pisma w postępowaniu odwoławczym w postaci elektronicznej wnoszone przy użyciu środków komunikacji elektronicznej, zgodnie z art. 508 ust. 2 ustawy, przekazuje się na elektroniczną skrzynkę podawczą Urzędu lub na wskazany adres poczty elektronicznej, przy użyciu których obsługiwana jest korespondencja Izby, przy czym odwołanie i zgłoszenie przystąpienia do postępowania odwoławczego przekazuje się na elektroniczną skrzynkę podawczą Urzędu.
@@ -89,6 +90,7 @@ W przypadku udostępnienia, o którym mowa w ust. 1 pkt 2, dokumenty i materiał
 Udostępnienie stronie lub uczestnikowi postępowania odwoławczego akt sprawy odwoławczej prowadzonych w całości albo w części w postaci papierowej i zawartych w nich dokumentów, w celu przejrzenia lub samodzielnego utrwalenia ich obrazu, może nastąpić po wykazaniu przez nich tożsamości, a co do innych osób – po wykazaniu ponadto istnienia uprawnienia wynikającego z przepisów prawa.
 2.
 Przeglądanie akt spraw oraz samodzielne utrwalanie ich obrazu odbywa się w obecności pracownika Urzędu.
+Przygotowanie rozprawy
 § 11.
 1.
 Prezes Izby wyznacza w drodze zarządzenia skład orzekający oraz termin posiedzenia do dokonania niezbędnych czynności formalnoprawnych i sprawdzających.
@@ -154,6 +156,7 @@ pomieszczenie na archiwum, do którego przekazuje się akta spraw odwoławczych 
 Prezes Izby, wyznaczając termin rozpoznania odwołania, którego dokumentacja zawiera informacje niejawne w rozumieniu przepisów o ochronie informacji niejawnych, uwzględnia dostępność miejsca do rozpoznania takiego odwołania.
 § 19.
 Prezes Izby zarządza zawiadomienie strony oraz uczestników postępowania odwoławczego o terminie i miejscu rozprawy. Zawiadomienie o miejscu i terminie rozprawy przekazuje się co najmniej na 3 dni przed wyznaczonym terminem rozprawy, za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2020 r. poz. 1041 i 2320) albo za pośrednictwem posłańca, za potwierdzeniem odbioru, w przypadku zawiadomienia w formie pisemnej, albo na adres poczty elektronicznej wskazany zgodnie z § 5, w przypadku zawiadomienia w postaci elektronicznej. Zawiadomienie o terminie i miejscu rozprawy doręcza się również świadkom i biegłym, jeżeli skład orzekający postanowił o dopuszczeniu dowodu z zeznań świadków lub opinii biegłego, a stawiennictwo świadka lub biegłego jest konieczne.
+Postępowanie przy rozpoznawaniu odwołań
 § 20.
 1.
 Wykaz spraw odwoławczych skierowanych do rozpoznania na rozprawie, obejmujący również skład orzekający w tych sprawach (wokandę), podaje się do publicznej wiadomości przed rozpoczęciem rozpraw, w dniu, na który wyznaczono rozpoznanie odwołań objętych wykazem, przez jego zamieszczenie w miejscu publicznie dostępnym w siedzibie Urzędu, przy drzwiach sali rozpraw, w której sprawy będą rozpoznane, oraz bez podawania informacji dotyczącej składu orzekającego na stronie internetowej Urzędu.
@@ -231,6 +234,7 @@ Przewodniczący składu orzekającego może zarządzić sporządzenie transkrypc
 Z rozprawy sporządza się rozliczenie kosztów postępowania odwoławczego.
 2.
 Rozliczenie kosztów postępowania odwoławczego podpisują przewodniczący składu orzekającego i protokolant.
+Orzeczenia
 § 34.
 1.
 Po zamknięciu rozprawy lub zakończeniu posiedzenia skład orzekający wydaje orzeczenie.
@@ -294,18 +298,31 @@ Prezes Izby stwierdza na wniosek strony lub uczestnika postępowania odwoławcze
 Na odpisie zamieszcza się adnotację o prawomocności orzeczenia z podaniem daty, od której orzeczenie jest prawomocne, oraz z podpisem osoby sporządzającej adnotację.
 § 41.
 Po zakończeniu postępowania odwoławczego Prezes Izby przekazuje do archiwum akta sprawy odwoławczej.
+Przepis końcowy
 § 42.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 22 marca 2010 r. w sprawie regulaminu postępowania przy rozpoznawaniu odwołań (Dz. U. z 2020 r. poz. 1296), które utraciło moc z dniem 1 stycznia 2021 r. na podstawie art. 89 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020 oraz z 2020 r. poz. 1086 i 2275). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 22 marca 2010 r. w sprawie regulaminu postępowania przy rozpoznawaniu odwołań (Dz. U. z 2020 r. poz. 1296), które utraciło moc z dniem 1 stycznia 2021 r. na podstawie art. 89 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020 oraz z 2020 r. poz. 1086 i 2275).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Wnoszenie pism w postępowaniu odwoławczym i tryb postępowania z nimi oraz czynności wstępne i udostępnianie akt sprawy odwoławczej
+#### Rozdział 2 – Wnoszenie pism w postępowaniu odwoławczym i tryb postępowania z nimi oraz czynności wstępne i udostępnianie akt sprawy odwoławczej
 
-#### Rozdział 3 Przygotowanie rozprawy
+#### Rozdział 3 – Przygotowanie rozprawy
 
-#### Rozdział 4 Postępowanie przy rozpoznawaniu odwołań
+#### Rozdział 4 – Postępowanie przy rozpoznawaniu odwołań
 
-#### Rozdział 5 Orzeczenia
+#### Rozdział 5 – Orzeczenia
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-09-19 |
 | Data wydania | 2014-09-24 |
-| Wejście w życie | 2014-10-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001283) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1283/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 84 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.) zarządza się, co następuje:
+Na podstawie art. 84 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529, z 2013 r. poz. 628, 675, 1351, 1635 i 1650 oraz z 2014 r. poz. 24, 486, 502, 538, 616, 1055 i 1199. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371.) zarządza się, co następuje:
 § 1.
 Policjantom, którzy:
 1)
@@ -35,10 +34,9 @@ mają 15, 20 lub 25 lat służby,
 2)
 mają 10 lat służby i osiągnęli wiek 40, 45 lub 55 lat życia,
 3)
-pełnią służbę w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia
-przysługuje coroczny płatny urlop dodatkowy.
+pełnią służbę w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia – przysługuje coroczny płatny urlop dodatkowy.
 § 2.
 Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2002 r. w sprawie wprowadzenia płatnych urlopów dodatkowych dla policjantów (Dz. U. Nr 81, poz. 741).
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529, z 2013 r. poz. 628, 675, 1351, 1635 i 1650 oraz z 2014 r. poz. 24, 486, 502, 538, 616, 1055 i 1199. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371.
 

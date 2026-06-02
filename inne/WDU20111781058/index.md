@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-06-30 |
 | Data wydania | 2011-08-29 |
-| Wejście w życie | 2011-09-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111781058) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1058/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej (Dz. U. Nr 126, poz. 1069, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej (Dz. U. Nr 126, poz. 1069, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 150, poz. 1240 i Nr 163, poz. 1361, z 2007 r. Nr 121, poz. 831 i Nr 147, poz. 1028, z 2008 r. Nr 180, poz. 1112 oraz z 2010 r. Nr 47, poz. 278.) wprowadza się następujące zmiany:
 
 - **1)** art. 15 otrzymuje brzmienie: „
 
@@ -46,5 +45,5 @@ source: "eli-html"
     - **d)**
     - **e)**
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 150, poz. 1240 i Nr 163, poz. 1361, z 2007 r. Nr 121, poz. 831 i Nr 147, poz. 1028, z 2008 r. Nr 180, poz. 1112 oraz z 2010 r. Nr 47, poz. 278.
 

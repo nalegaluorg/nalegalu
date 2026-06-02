@@ -26,14 +26,15 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000378) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/378/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 14 września 2012 r. o etykietowaniu energetycznym produktów związanych z energią Rozdział 1 – Przepisy ogólne Rozdział 2 Rozdział 3 – Kontrola etykietowania energetycznego produktów związanych z energią Rozdział 3a – Kontrola realizacji programu znakowania efektywności energetycznej urządzeń biurowych Rozdział 4 – Kary pieniężne Rozdział 5 – Zmiany w przepisach obowiązujących Rozdział 6 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 14 września 2012 r. o etykietowaniu energetycznym produktów związanych z energią
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 14 września 2012 r. o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych (Dz. U. z 2016 r. poz. 1790), z uwzględnieniem zmian wprowadzonych ustawą z dnia 12 kwietnia 2019 r. o zmianie ustawy o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych oraz niektórych innych ustaw (Dz. U. poz. 1030) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 lutego 2020 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 5, art. 6 i art. 9 ustawy z dnia 12 kwietnia 2019 r. o zmianie ustawy o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych oraz niektórych innych ustaw (Dz. U. poz. 1030), które stanowią: „ 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1369 z dnia 4 lipca 2017 r. ustanawiającego ramy etykietowania energetycznego i uchylającego dyrektywę 2010/30/UE (Dz. Urz. UE L 198 z 28.07.2017, str. 1). ”
-„
-(uchylony)
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 5, art. 6 i art. 9 ustawy z dnia 12 kwietnia 2019 r. o zmianie ustawy o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych oraz niektórych innych ustaw (Dz. U. poz. 1030), które stanowią: „ 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1369 z dnia 4 lipca 2017 r. ustanawiającego ramy etykietowania energetycznego i uchylającego dyrektywę 2010/30/UE (Dz. Urz. UE L 198 z 28.07.2017, str. 1). ” „
+Przepisy ogólne
+(uchylony)Rozdział uchylony przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 2.
+Kontrola etykietowania energetycznego produktów związanych z energią
 1.
 Tworzy się system kontroli etykietowania energetycznego produktów związanych z energią, zwany dalej „systemem kontroli”, w celu przeciwdziałania wprowadzaniu do obrotu lub oddawaniu do użytku produktów związanych z energią, które nie spełniają wymagań określonych w rozporządzeniu (UE) 2017/1369 lub aktach delegowanych.
 2.
@@ -42,6 +43,7 @@ Do zadań systemu kontroli należy kontrolowanie wykonywania obowiązków:
 o których mowa w art. 3 ust. 1–3 i 5, art. 4 ust. 1, 2, 4 i 6, art. 5 ust. 1 i art. 6 lit. a oraz c-e rozporządzenia (UE) 2017/1369 oraz
 2)
 w zakresie projektu i treści etykiety, karty informacyjnej produktu oraz dokumentacji technicznej, sposobu eksponowania etykiety na produkcie w punkcie sprzedaży, w tym sprzedaży na odległość, sposobu, w jaki klasę energetyczną oraz zakres klas efektywności energetycznej dostępnych na etykiecie należy podawać w reklamach wizualnych i w technicznych materiałach promocyjnych – wynikających z aktów delegowanych wydanych na podstawie art. 16 rozporządzenia (UE) 2017/1369.
+Kontrola realizacji programu znakowania efektywności energetycznej urządzeń biurowych
 1.
 Kontrolę realizacji programu znakowania efektywności energetycznej urządzeń biurowych przeprowadza Prezes UKE u uczestnika programu w rozumieniu art. 3 lit. b rozporządzenia (WE) nr 106/2008, zwanego dalej „uczestnikiem programu”.
 2.
@@ -84,8 +86,25 @@ Wpływy z tytułu opłat, o których mowa w ust. 1, stanowią dochód budżetu p
 W przypadku stwierdzenia, że urządzenie biurowe spełnia wymagania określone w umowie, opłaty za przeprowadzenie badań, o których mowa w art. 16b ust. 2 pkt 3, ponosi Skarb Państwa.
 6.
 Do opłat, o których mowa w ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
+Kary pieniężne
+Zmiany w przepisach obowiązujących
 Art. 19–21.
 (pominięte)
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2
+
+#### Rozdział 3 – Kontrola etykietowania energetycznego produktów związanych z energią
+
+#### Rozdział 3a – Kontrola realizacji programu znakowania efektywności energetycznej urządzeń biurowych
+
+#### Rozdział 4 – Kary pieniężne
+
+#### Rozdział 5 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 6 – Przepisy przejściowe i końcowe
 
 **Art. 5.** W przypadku produktów związanych z energią wprowadzonych do obrotu i oddanych do użytku przed dniem 1 sierpnia 2017 r. dostawca przechowuje dokumentację techniczną produktu związanego z energią przez okres 5 lat po zakończeniu produkcji danego egzemplarza produktu i udostępnia ją w postaci elektronicznej na wniosek organu kontrolującego lub Komisji Europejskiej w terminie 10 dni od dnia otrzymania tego wniosku.
 
@@ -97,31 +116,26 @@ Art. 19–21.
 
 3. Do wszczęcia i prowadzenia postępowań w wyniku kontroli wszczętych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe. ” „
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 14 września 2012 r. o etykietowaniu energetycznym produktów związanych z energią
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 14 września 2012 r. o etykietowaniu energetycznym produktów związanych z energiąNiniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/30/UE z dnia 19 maja 2010 r. w sprawie wskazania poprzez etykietowanie oraz standardowe informacje o produkcie, zużycia energii oraz innych zasobów przez produkty związane z energią (Dz. Urz. UE L 153 z 18.06.2010, str. 1).
 
-#### Rozdział 1 Przepisy ogólne
+## Tytuł ustawy w brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 12 kwietnia 2019 r. o zmianie ustawy o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych oraz niektórych innych ustaw (Dz. U. poz. 1030), która weszła w życie z dniem 19 czerwca 2019 r.
+
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa:
 
-- **1)** (uchylony)
-- **2)** zasady organizacji i działania systemu kontroli etykietowania energetycznego produktów związanych z energią, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2017/1369 z dnia 4 lipca 2017 r. ustanawiającym ramy etykietowania energetycznego i uchylającym dyrektywę 2010/30/UE (Dz. Urz. UE L 198 z 28.07.2017, str. 1), zwanym dalej „rozporządzeniem (UE) 2017/1369”;
+- **1)** (uchylony)Przez art. 1 pkt 2 lit. a ustawy, o której mowa w odnośniku 2. 2W brzmieniu ustalonym przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 2.) zasady organizacji i działania systemu kontroli etykietowania energetycznego produktów związanych z energią, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2017/1369 z dnia 4 lipca 2017 r. ustanawiającym ramy etykietowania energetycznego i uchylającym dyrektywę 2010/30/UE (Dz. Urz. UE L 198 z 28.07.2017, str. 1), zwanym dalej „rozporządzeniem (UE) 2017/1369”;
 - **3)** zasady przeprowadzania kontroli realizacji programu znakowania efektywności energetycznej urządzeń biurowych, o którym mowa w art. 1 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 106/2008 z dnia 15 stycznia 2008 r. w sprawie unijnego programu znakowania efektywności energetycznej urządzeń biurowych (Dz. Urz. UE L 39 z 13.02.2008, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem (WE) nr 106/2008”.
 
-**Art. 2.**
+**Art. 2.** 1W brzmieniu ustalonym przez art. 1 pkt 3 lit. a ustawy, o której mowa w odnośniku 2.. Przepisy ustawy stosuje się do produktów związanych z energią, dla których wymagania dotyczące sporządzania dokumentacji technicznej oraz stosowania etykiet i kart informacyjnych produktów określają akty Komisji Europejskiej wydane na podstawie kompetencji delegowanych przez Parlament Europejski i Radę, zwane dalej „aktami delegowanymi”. 2. Minister właściwy do spraw energii ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykaz aktów delegowanych. 2a. Przepisy ustawy stosuje się także do urządzeń biurowych, dla których wymagania dotyczące efektywności energetycznej i ich znakowania określa umowa między rządem Stanów Zjednoczonych Ameryki a Unią Europejską w sprawie koordynacji programów znakowania efektywności energetycznej urządzeń biurowych (Dz. Urz. UE L 63 z 06.03.2013, str. 7), zwana dalej „umową”. 3W brzmieniu ustalonym przez art. 1 pkt 3 lit. b ustawy, o której mowa w odnośniku 2.. Przepisów ustawy nie stosuje się do produktów i środków transportu, o których mowa w art. 1 ust. 2 rozporządzenia (UE) 2017/1369. Minister właściwy do spraw energii prowadzi działania edukacyjno-informacyjne na temat etykietowania energetycznego produktów związanych z energią w rozumieniu rozporządzenia (UE) 2017/1369.
 
-1. Przepisy ustawy stosuje się do produktów związanych z energią, dla których wymagania dotyczące sporządzania dokumentacji technicznej oraz stosowania etykiet i kart informacyjnych produktów określają akty Komisji Europejskiej wydane na podstawie kompetencji delegowanych przez Parlament Europejski i Radę, zwane dalej „aktami delegowanymi”.
-
-2. Minister właściwy do spraw energii ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykaz aktów delegowanych.
-
-2a. Przepisy ustawy stosuje się także do urządzeń biurowych, dla których wymagania dotyczące efektywności energetycznej i ich znakowania określa umowa między rządem Stanów Zjednoczonych Ameryki a Unią Europejską w sprawie koordynacji programów znakowania efektywności energetycznej urządzeń biurowych (Dz. Urz. UE L 63 z 06.03.2013, str. 7), zwana dalej „umową”.
-
-3. Przepisów ustawy nie stosuje się do produktów i środków transportu, o których mowa w art. 1 ust. 2 rozporządzenia (UE) 2017/1369. Minister właściwy do spraw energii prowadzi działania edukacyjno-informacyjne na temat etykietowania energetycznego produktów związanych z energią w rozumieniu rozporządzenia (UE) 2017/1369.
-
-**Art. 3.** (uchylony)
+**Art. 3.** (uchylony)Przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 2.
 
 #### Rozdział 2
 
-#### Rozdział 3 Kontrola etykietowania energetycznego produktów związanych z energią
+#### Rozdział 3
+
+## Tytuł rozdziału w brzmieniu ustalonym przez art. 1 pkt 7 ustawy, o której mowa w odnośniku 2.
 
 **Art. 10.**
 
@@ -129,9 +143,8 @@ Art. 19–21.
 
 2. Organy kontrolujące:
 
-- **1)** przedstawiają Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, zwanemu dalej „Prezesem UOKiK”: w zakresie działania wojewódzkich inspektorów Inspekcji Handlowej – okresowe plany pracy sporządzone na podstawie planów kontroli, o których mowa w art. 11 ust. 2 pkt 4, w zakresie działania Prezesa Urzędu Komunikacji Elektronicznej, zwanego dalej „Prezesem UKE” – okresowe plany kontroli produktów związanych z energią wprowadzonych do obrotu lub oddanych do użytku;
+- **1)** przedstawiają Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, zwanemu dalej „Prezesem UOKiK”: w zakresie działania wojewódzkich inspektorów Inspekcji Handlowej – okresowe plany pracy sporządzone na podstawie planów kontroli, o których mowa w art. 11 ust. 2 pkt 4, bZe zmianą wprowadzoną przez art. 1 pkt 9 ustawy, o której mowa w odnośniku 2.) w zakresie działania Prezesa Urzędu Komunikacji Elektronicznej, zwanego dalej „Prezesem UKE” – okresowe plany kontroli produktów związanych z energią wprowadzonych do obrotu lub oddanych do użytku;
     - **a)**
-    - **b)**
 
 - **2)** informują Prezesa UOKiK o wynikach przeprowadzonych kontroli;
 - **3)** sporządzają i przekazują Prezesowi UOKiK roczne sprawozdania z przeprowadzonych kontroli do dnia 31 marca roku następnego.
@@ -142,26 +155,16 @@ Art. 19–21.
 
 1. Prezes UOKiK jest organem monitorującym system kontroli.
 
-2. Do zadań Prezesa UOKiK należy:
+2. Do zadań Prezesa UOKiK należy: 1Ze zmianą wprowadzoną przez art. 1 pkt 9 ustawy, o której mowa w odnośniku 2.) monitorowanie stosowania przepisów dotyczących informowania o zużyciu energii oraz innych podstawowych zasobów przez produkty związane z energią;
 
-- **1)** monitorowanie stosowania przepisów dotyczących informowania o zużyciu energii oraz innych podstawowych zasobów przez produkty związane z energią;
-- **2)** współpraca z organami kontrolującymi;
-- **3)** gromadzenie informacji o wynikach kontroli produktów związanych z energią;
-- **4)** przygotowywanie, zgodnie z przepisami ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2019 r. poz. 1668 i 2166), okresowych planów kontroli przeprowadzanych przez wojewódzkich inspektorów Inspekcji Handlowej.
-
-3. Prezes UOKiK na podstawie wyników monitorowania, o którym mowa w ust. 2 pkt 1, sporządza co cztery lata sprawozdanie z wykonania obowiązków określonych w rozporządzeniu (UE) 2017/1369 i przekazuje je Komisji Europejskiej w terminie do dnia 30 czerwca roku, w którym sprawozdanie to sporządzono.
-
-**Art. 12.** Kontrola może być prowadzona u dostawcy lub sprzedawcy.
+- **2)** współpraca z organami kontrolującymi; 3Ze zmianą wprowadzoną przez art. 1 pkt 9 ustawy, o której mowa w odnośniku 2.) gromadzenie informacji o wynikach kontroli produktów związanych z energią;
+- **4)** przygotowywanie, zgodnie z przepisami ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2019 r. poz. 1668 i 2166), okresowych planów kontroli przeprowadzanych przez wojewódzkich inspektorów Inspekcji Handlowej. 3Ze zmianą wprowadzoną przez art. 1 pkt 10 ustawy, o której mowa w odnośniku 2.. Prezes UOKiK na podstawie wyników monitorowania, o którym mowa w ust. 2 pkt 1, sporządza co cztery lata sprawozdanie z wykonania obowiązków określonych w rozporządzeniu (UE) 2017/1369 i przekazuje je Komisji Europejskiej w terminie do dnia 30 czerwca roku, w którym sprawozdanie to sporządzono. Art. 12W brzmieniu ustalonym przez art. 1 pkt 11 ustawy, o której mowa w odnośniku 2.. Kontrola może być prowadzona u dostawcy lub sprzedawcy.
 
 **Art. 13.**
 
-1. Do prowadzenia kontroli stosuje się odpowiednio przepisy art. 64 ust. 1 i 3, art. 65–71 oraz art. 73 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2019 r. poz. 544).
+1. Do prowadzenia kontroli stosuje się odpowiednio przepisy art. 64 ust. 1 i 3, art. 65–71 oraz art. 73 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2019 r. poz. 544). 2Ze zmianą wprowadzoną przez art. 1 pkt 9 ustawy, o której mowa w odnośniku 2.. Do pobierania i badania próbek produktów związanych z energią stosuje się odpowiednio przepisy ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej oraz akty delegowane.
 
-2. Do pobierania i badania próbek produktów związanych z energią stosuje się odpowiednio przepisy ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej oraz akty delegowane.
-
-3. Do czynności kontrolnych oraz badań przeprowadzanych podczas wykonywania czynności kontrolnych stosuje się przepisy o ochronie informacji niejawnych, a także o ochronie danych osobowych.
-
-**Art. 14.**
+3. Do czynności kontrolnych oraz badań przeprowadzanych podczas wykonywania czynności kontrolnych stosuje się przepisy o ochronie informacji niejawnych, a także o ochronie danych osobowych. Art. 14W brzmieniu ustalonym przez art. 1 pkt 12 ustawy, o której mowa w odnośniku 2..
 
 1. W przypadku stwierdzenia niewykonania obowiązków, o których mowa w art. 3 ust. 1–3 i 5, art. 4 ust. 1, 2, 4 i 6, art. 5 ust. 1 i art. 6 lit. a oraz c-e rozporządzenia (UE) 2017/1369, lub obowiązków, o których mowa w art. 9 ust. 2 pkt 2, organ kontrolujący zwraca się do dostawcy lub sprzedawcy o:
 
@@ -170,7 +173,7 @@ Art. 19–21.
 - **3)** wycofanie produktu związanego z energią z obrotu lub z użytku, lub
 - **4)** wycofanie produktu związanego z energią od użytkowników, lub
 - **5)** wstrzymanie się z udostępnianiem produktu związanego z energią, lub
-- **6)** zaprzestanie reklamowania produktu związanego z energią oraz przedstawienie dowodów podjętych działań w terminie określonym przez organ kontrolujący.
+- **6)** zaprzestanie reklamowania produktu związanego z energią – oraz przedstawienie dowodów podjętych działań w terminie określonym przez organ kontrolujący.
 
 2. Jeżeli dostawca lub sprzedawca nie przedstawi, w terminie ustalonym przez organ kontrolujący, dowodów podjętych działań lub w wyniku kontroli stwierdzono, że działania takie nie zostały podjęte, organ kontrolujący wydaje decyzję:
 
@@ -179,7 +182,7 @@ Art. 19–21.
 - **3)** nakazującą usunięcie niezgodności,
 - **4)** nakazującą wycofanie produktu związanego z energią od użytkowników,
 - **5)** zakazującą udostępniania produktu związanego z energią,
-- **6)** zakazującą reklamowania produktu związanego z energią w terminie określonym przez organ kontrolujący.
+- **6)** zakazującą reklamowania produktu związanego z energią – w terminie określonym przez organ kontrolujący.
 
 3. Organ kontrolujący może przeprowadzić kontrolę w celu ustalenia, czy dostawca lub sprzedawca wykonał decyzję, o której mowa w ust. 2.
 
@@ -189,29 +192,17 @@ Art. 19–21.
 
 2. Prezes UOKiK niezwłocznie informuje Komisję Europejską oraz inne państwa członkowskie Unii Europejskiej o decyzji wydanej przez organ kontrolujący, o której mowa w art. 14 ust. 2.
 
-**Art. 16.**
+**Art. 16.** 1W brzmieniu ustalonym przez art. 1 pkt 13 ustawy, o której mowa w odnośniku 2.. W przypadku stwierdzenia, że produkt związany z energią nie spełnia wymagań określonych w etykiecie lub w karcie informacyjnej produktu, opłaty związane z badaniami, o których mowa w art. 13 ust. 2 lub 3, oraz oceną dokumentacji ponosi dostawca. 2W brzmieniu ustalonym przez art. 1 pkt 13 ustawy, o której mowa w odnośniku 2.. Wysokość opłat, o których mowa w ust. 1, organ kontrolujący ustala, w drodze decyzji, na podstawie kosztów poniesionych w związku z badaniami produktu związanego z energią oraz oceną jego dokumentacji. 3. Opłaty, o których mowa w ust. 1, stanowią dochód budżetu państwa.
 
-1. W przypadku stwierdzenia, że produkt związany z energią nie spełnia wymagań określonych w etykiecie lub w karcie informacyjnej produktu, opłaty związane z badaniami, o których mowa w art. 13 ust. 2 lub 3, oraz oceną dokumentacji ponosi dostawca.
+#### Rozdział 3a
 
-2. Wysokość opłat, o których mowa w ust. 1, organ kontrolujący ustala, w drodze decyzji, na podstawie kosztów poniesionych w związku z badaniami produktu związanego z energią oraz oceną jego dokumentacji.
+#### Rozdział 4
 
-3. Opłaty, o których mowa w ust. 1, stanowią dochód budżetu państwa.
-
-#### Rozdział 3a Kontrola realizacji programu znakowania efektywności energetycznej urządzeń biurowych
-
-#### Rozdział 4 Kary pieniężne
-
-**Art. 17.**
-
-1. Karze pieniężnej podlega ten, kto:
+**Art. 17.** 1W brzmieniu ustalonym przez art. 1 pkt 14 ustawy, o której mowa w odnośniku 2.. Karze pieniężnej podlega ten, kto:
 
 - **1)** nie dopełnia obowiązku, o którym mowa w art. 3 ust. 1–3 i 5, art. 4 ust. 1, 2, 4 i 6, art. 5 ust. 1 i art. 6 lit. a oraz c-e rozporządzenia (UE) 2017/1369, lub obowiązków, o których mowa w art. 9 ust. 2 pkt 2;
 - **2)** uniemożliwia lub utrudnia organowi kontrolującemu przeprowadzenie kontroli, o której mowa w art. 12;
-- **3)** nie wykonał decyzji, o której mowa w art. 14 ust. 2, w terminie określonym przez organ kontrolujący.
-
-2. W przypadkach, o których mowa w ust. 1 pkt 1 i 2, kara pieniężna wynosi od jednokrotnego do dziesięciokrotnego przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
-
-3. W przypadku, o którym mowa w ust. 1 pkt 3, kara pieniężna wynosi od dwukrotnego do dziesięciokrotnego przeciętnego wynagrodzenia, o którym mowa w ust. 2.
+- **3)** nie wykonał decyzji, o której mowa w art. 14 ust. 2, w terminie określonym przez organ kontrolujący. 2W brzmieniu ustalonym przez art. 1 pkt 14 ustawy, o której mowa w odnośniku 2.. W przypadkach, o których mowa w ust. 1 pkt 1 i 2, kara pieniężna wynosi od jednokrotnego do dziesięciokrotnego przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. 3W brzmieniu ustalonym przez art. 1 pkt 14 ustawy, o której mowa w odnośniku 2.. W przypadku, o którym mowa w ust. 1 pkt 3, kara pieniężna wynosi od dwukrotnego do dziesięciokrotnego przeciętnego wynagrodzenia, o którym mowa w ust. 2.
 
 4. Kary pieniężne, o których mowa w ust. 1, wymierza, w drodze decyzji, organ kontrolujący.
 
@@ -223,13 +214,13 @@ Art. 19–21.
 
 8. Egzekucja kary pieniężnej następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji należności pieniężnych.
 
-9. W zakresie nieuregulowanym w ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.).
+9. W zakresie nieuregulowanym w ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200).
 
 **Art. 18.** Właściwość miejscową organu kontrolującego w sprawach, o których mowa w art. 14 ust. 2 i w art. 17, ustala się według miejsca przeprowadzenia kontroli.
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących
+#### Rozdział 5
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6
 
 **Art. 22.**
 
@@ -254,5 +245,5 @@ Art. 19–21.
 
 **Art. 23.** Wymagania dotyczące sporządzania dokumentacji technicznej oraz stosowania etykiet i kart dla urządzeń wykorzystujących energię, określone przed dniem wejścia w życie niniejszej ustawy w przepisach wydanych na podstawie art. 52 ust. 5 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne zachowują moc do dnia wejścia w życie aktu delegowanego.
 
-**Art. 24.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 24.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszeniaUstawa została ogłoszona w dniu 31 października 2012 r.. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/30/UE z dnia 19 maja 2010 r. w sprawie wskazania poprzez etykietowanie oraz standardowe informacje o produkcie, zużycia energii oraz innych zasobów przez produkty związane z energią (Dz. Urz. UE L 153 z 18.06.2010, str. 1). 2) Tytuł ustawy w brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 12 kwietnia 2019 r. o zmianie ustawy o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych oraz niektórych innych ustaw (Dz. U. poz. 1030), która weszła w życie z dniem 19 czerwca 2019 r. 3) Przez art. 1 pkt 2 lit. a ustawy, o której mowa w odnośniku 2. 4) W brzmieniu ustalonym przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 2. 5) W brzmieniu ustalonym przez art. 1 pkt 3 lit. a ustawy, o której mowa w odnośniku 2. 6) W brzmieniu ustalonym przez art. 1 pkt 3 lit. b ustawy, o której mowa w odnośniku 2. 7) Dodany przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 2. 8) Przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 2. 9) Rozdział uchylony przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 2. 10) Tytuł rozdziału w brzmieniu ustalonym przez art. 1 pkt 7 ustawy, o której mowa w odnośniku 2. 11) W brzmieniu ustalonym przez art. 1 pkt 8 ustawy, o której mowa w odnośniku 2. 12) Ze zmianą wprowadzoną przez art. 1 pkt 9 ustawy, o której mowa w odnośniku 2. 13) Ze zmianą wprowadzoną przez art. 1 pkt 10 ustawy, o której mowa w odnośniku 2. 14) W brzmieniu ustalonym przez art. 1 pkt 11 ustawy, o której mowa w odnośniku 2. 15) W brzmieniu ustalonym przez art. 1 pkt 12 ustawy, o której mowa w odnośniku 2. 16) W brzmieniu ustalonym przez art. 1 pkt 13 ustawy, o której mowa w odnośniku 2. 17) W brzmieniu ustalonym przez art. 1 pkt 14 ustawy, o której mowa w odnośniku 2. 18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 19) Ustawa została ogłoszona w dniu 31 października 2012 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 22 maja 2020 r. w sprawie określenia innego terminu podjęcia przez walne zgromadzenie spółki uchwały w sprawie polityki wynagrodzeń członków zarządu i rady nadzorczej
+# Rozporządzenie Ministra Finansówz dnia 22 maja 2020 r. w sprawie określenia innego terminu podjęcia przez walne zgromadzenie spółki uchwały w sprawie polityki wynagrodzeń członków zarządu i rady nadzorczej Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-05-22 |
 | Data wydania | 2020-05-26 |
-| Wejście w życie | 2020-05-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000934) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/934/text.pdf) |
 
@@ -33,6 +32,5 @@ Rozporządzenie określa inny termin podjęcia przez walne zgromadzenie spółki
 § 2.
 Termin określony w art. 36 ust. 1 ustawy, o której mowa w § 1, przedłuża się do dnia 31 sierpnia 2020 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 

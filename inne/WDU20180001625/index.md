@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-08-23 |
-| Wejście w życie | 2018-09-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001625) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1625/text.pdf) |
 
@@ -69,7 +68,7 @@ source: "eli-html"
 
 - **e)**
 
-**Art. 2.** Do postępowań w sprawach dotyczących wyboru operacji w rozumieniu art. 2 pkt 9 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12. 2013, str. 320, z późn. zm.) oraz udzielenia wsparcia, o którym mowa w art. 35 ust. 1 lit. b tego rozporządzenia, wszczętych w terminach składania wniosków o udzielenie tego wsparcia, które rozpoczęły bieg przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+**Art. 2.** Do postępowań w sprawach dotyczących wyboru operacji w rozumieniu art. 2 pkt 9 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12. 2013, str. 320, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1 oraz Dz. Urz. UE L 335 z 12.12.2017, str. 1. oraz udzielenia wsparcia, o którym mowa w art. 35 ust. 1 lit. b tego rozporządzenia, wszczętych w terminach składania wniosków o udzielenie tego wsparcia, które rozpoczęły bieg przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1 oraz Dz. Urz. UE L 335 z 12.12.2017, str. 1.
 

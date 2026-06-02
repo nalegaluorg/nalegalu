@@ -26,20 +26,36 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001170) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1170/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju Rozdział 1 – Przepisy ogólne Rozdział 2 – Organy i organizacja Centrum Rozdział 3 – Zadania Centrum oraz kompetencje nadzorcze Ministra Rozdział 4 – Tryb realizacji zadań Centrum Rozdział 5 – Gospodarka finansowa Centrum Rozdział 6 – Przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. z 2022 r. poz. 2279), z uwzględnieniem zmian wprowadzonych:
 1)
 ustawą z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz ustawy – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 227),
 2)
-ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 lipca 2024 r.
+ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 lipca 2024 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz ustawy – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 227), które stanowią:
-„
+art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz ustawy – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 227), które stanowią: „
+Przepisy ogólne
+Organy i organizacja Centrum
+Zadania Centrum oraz kompetencje nadzorcze Ministra
+Tryb realizacji zadań Centrum
+Gospodarka finansowa Centrum
+Przepis końcowy
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Organy i organizacja Centrum
+
+#### Rozdział 3 – Zadania Centrum oraz kompetencje nadzorcze Ministra
+
+#### Rozdział 4 – Tryb realizacji zadań Centrum
+
+#### Rozdział 5 – Gospodarka finansowa Centrum
+
+#### Rozdział 6 – Przepis końcowy
 
 **Art. 6.**
 
@@ -68,23 +84,23 @@ art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centr
 - **1)** art. 65 ust. 2 i art. 73 ust. 2, które wchodzą w życie z dniem ogłoszenia;
 - **2)** art. 47 i art. 82, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
 1. Ustawa określa zasady działania Narodowego Centrum Badań i Rozwoju, zwanego dalej „Centrum”.
 
-2. Centrum jest agencją wykonawczą w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.), powołaną do realizacji zadań z zakresu polityki naukowej państwa, o której mowa w art. 6 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.).
+2. Centrum jest agencją wykonawczą w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858 i 1089.), powołaną do realizacji zadań z zakresu polityki naukowej państwa, o której mowa w art. 6 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089.).
 
 3. Siedzibą Centrum jest miasto stołeczne Warszawa.
 
 4. Centrum działa na podstawie ustawy oraz statutu.
 
-5. Minister właściwy do spraw szkolnictwa wyższego i nauki, w drodze rozporządzenia, nadaje Centrum statut, w którym określa:
+5. Minister właściwy do spraw szkolnictwa wyższego i nauki, w drodze rozporządzenia, nadaje Centrum statut, w którym określa:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz ustawy – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 227), która weszła w życie z dniem 7 marca 2024 r.
 
 - **1)** szczegółowy zakres zadań i tryb pracy organów Centrum,
 - **2)** organizację Biura Centrum,
-- **3)** wartość majątku, powyżej której rozporządzanie nim przez Dyrektora Centrum wymaga zgody Rady Centrum mając na uwadze sprawne i efektywne zarządzanie środkami finansowymi na badania naukowe i prace rozwojowe.
+- **3)** wartość majątku, powyżej której rozporządzanie nim przez Dyrektora Centrum wymaga zgody Rady Centrum – mając na uwadze sprawne i efektywne zarządzanie środkami finansowymi na badania naukowe i prace rozwojowe.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
@@ -92,7 +108,7 @@ art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centr
 - **2)** programie – należy przez to rozumieć podstawowy instrument realizacji innych zadań Centrum, wyznaczający cele i działania niezbędne do ich osiągnięcia oraz definiujący w sposób mierzalny oczekiwane efekty;
 - **3)** strategicznym programie badań naukowych i prac rozwojowych – należy przez to rozumieć program określony w ramach jednego ze strategicznych kierunków badań naukowych lub prac rozwojowych, określonego w polityce naukowej państwa.
 
-#### Rozdział 2 Organy i organizacja Centrum
+#### Rozdział 2
 
 **Art. 3.** Organami Centrum są:
 
@@ -100,11 +116,7 @@ art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centr
 - **2)** Rada Centrum, zwana dalej „Radą”;
 - **3)** Komitet Sterujący do spraw badań naukowych i prac rozwojowych w obszarze bezpieczeństwa i obronności państwa, zwany dalej „Komitetem Sterującym”.
 
-**Art. 4.**
-
-1. Dyrektor jest powoływany przez ministra właściwego do spraw szkolnictwa wyższego i nauki, zwanego dalej „Ministrem”. Kandydata na stanowisko Dyrektora wyłania się w drodze konkursu przeprowadzonego przez Ministra.
-
-2. Minister ogłasza konkurs na stanowisko Dyrektora:
+**Art. 4.** 1Ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy, o której mowa w odnośniku 3.. Dyrektor jest powoływany przez ministra właściwego do spraw szkolnictwa wyższego i nauki, zwanego dalej „Ministrem”. Kandydata na stanowisko Dyrektora wyłania się w drodze konkursu przeprowadzonego przez Ministra. 2. Minister ogłasza konkurs na stanowisko Dyrektora:
 
 - **1)** co najmniej na 6 tygodni przed upływem kadencji Dyrektora;
 - **2)** niezwłocznie – w przypadku odwołania albo śmierci Dyrektora.
@@ -120,9 +132,7 @@ art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centr
 
 6. W przypadku niewyłonienia w drodze konkursu kandydata na stanowisko Dyrektora Minister przeprowadza nowy konkurs.
 
-7. W przypadku niewyłonienia w drodze konkursu kandydata na stanowisko zastępcy Dyrektora Dyrektor przeprowadza nowy konkurs.
-
-8. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, regulaminy konkursów na stanowiska, o których mowa w ust. 1 i 3, sposób wyłaniania komisji konkursowej, sposób publikacji informacji o konkursie oraz dokumentowania spełniania wymagań dotyczących doświadczenia i kwalifikacji zawodowych kandydatów, uwzględniając konieczność zapewnienia przejrzystości i rzetelności procedury konkursowej.
+7. W przypadku niewyłonienia w drodze konkursu kandydata na stanowisko zastępcy Dyrektora Dyrektor przeprowadza nowy konkurs. 8Ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy, o której mowa w odnośniku 3.. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, regulaminy konkursów na stanowiska, o których mowa w ust. 1 i 3, sposób wyłaniania komisji konkursowej, sposób publikacji informacji o konkursie oraz dokumentowania spełniania wymagań dotyczących doświadczenia i kwalifikacji zawodowych kandydatów, uwzględniając konieczność zapewnienia przejrzystości i rzetelności procedury konkursowej.
 
 **Art. 5.**
 
@@ -197,9 +207,7 @@ art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centr
 
 4. W terminie do dnia 31 marca roku następującego po roku obrotowym Dyrektor przedstawia Ministrowi do zatwierdzenia roczne sprawozdanie finansowe Centrum, obejmujące w szczególności informacje o stopniu wykorzystania środków przeznaczonych na finansowanie poszczególnych zadań Centrum, wraz z opinią Rady oraz sprawozdaniem z badania sporządzonym przez firmę audytorską, o której mowa w art. 50.
 
-5. W terminie do końca miesiąca następującego po zakończeniu każdego kwartału Dyrektor przedstawia Ministrowi kwartalne sprawozdanie finansowe Centrum, obejmujące w szczególności informacje o stopniu wykorzystania środków przeznaczonych na finansowanie poszczególnych zadań Centrum.
-
-6. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, niezbędne elementy rocznego sprawozdania z działalności Centrum, mając na uwadze zakres i skuteczność sprawowania przez Ministra nadzoru nad realizacją zadań Centrum.
+5. W terminie do końca miesiąca następującego po zakończeniu każdego kwartału Dyrektor przedstawia Ministrowi kwartalne sprawozdanie finansowe Centrum, obejmujące w szczególności informacje o stopniu wykorzystania środków przeznaczonych na finansowanie poszczególnych zadań Centrum. 6Ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy, o której mowa w odnośniku 3.. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, niezbędne elementy rocznego sprawozdania z działalności Centrum, mając na uwadze zakres i skuteczność sprawowania przez Ministra nadzoru nad realizacją zadań Centrum.
 
 **Art. 12.**
 
@@ -219,14 +227,13 @@ art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centr
 
 - **1)** budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa,
 - **2)** energii,
-- **3)** finansów publicznych,
-- **4)** gospodarki surowcami energetycznymi,
+- **3)** finansów publicznych, 4Ze zmianą wprowadzoną przez art. 31 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r.) gospodarki surowcami energetycznymi,
 - **5)** pracy,
 - **6)** rodziny,
 - **7)** (uchylony)
 - **8)** rybołówstwa,
 - **9)** zabezpieczenia społecznego,
-- **10)** żeglugi śródlądowej spośród osób będących pracownikami administracji rządowej, do których kompetencji należą sprawy nauki.
+- **10)** żeglugi śródlądowej – spośród osób będących pracownikami administracji rządowej, do których kompetencji należą sprawy nauki.
 
 4. Osoby, o których mowa w ust. 3, uczestniczą w pracach Rady, jeżeli przedmiotem posiedzenia są sprawy wchodzące w zakres zadań wyznaczających je ministrów.
 
@@ -280,9 +287,7 @@ art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centr
 
 6. Szczegółowy tryb działania Rady, wyboru przewodniczącego oraz powoływania komisji, o których mowa w ust. 5, i komisji odwoławczej, o której mowa w art. 40 ust. 2, określa regulamin ustanowiony przez Radę.
 
-7. Zamiejscowi członkowie Rady otrzymują zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie art. 775 § 2 Kodeksu pracy.
-
-8. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, wysokość miesięcznego wynagrodzenia przewodniczącego oraz członków Rady, mając na uwadze zakres wykonywanych przez nich zadań oraz znaczenie tych zadań dla efektywnego funkcjonowania Centrum.
+7. Zamiejscowi członkowie Rady otrzymują zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie art. 775 § 2 Kodeksu pracy. 8Ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy, o której mowa w odnośniku 3.. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, wysokość miesięcznego wynagrodzenia przewodniczącego oraz członków Rady, mając na uwadze zakres wykonywanych przez nich zadań oraz znaczenie tych zadań dla efektywnego funkcjonowania Centrum.
 
 **Art. 15.**
 
@@ -303,9 +308,8 @@ art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centr
 
 **Art. 16.**
 
-1. W skład Komitetu Sterującego wchodzą:
+1. W skład Komitetu Sterującego wchodzą: 1Ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy, o której mowa w odnośniku 3.) po jednym przedstawicielu Ministra Obrony Narodowej, ministra właściwego do spraw szkolnictwa wyższego i nauki, ministra właściwego do spraw wewnętrznych oraz Szefa Agencji Bezpieczeństwa Wewnętrznego;
 
-- **1)** po jednym przedstawicielu Ministra Obrony Narodowej, ministra właściwego do spraw szkolnictwa wyższego i nauki, ministra właściwego do spraw wewnętrznych oraz Szefa Agencji Bezpieczeństwa Wewnętrznego;
 - **2)** po jednym przedstawicielu środowisk gospodarczych reprezentujących przemysł obronny, sektor energetyczny oraz technologii informatycznych i komunikacyjnych, wskazanych przez Ministra Obrony Narodowej.
 
 2. Kandydatem na członka Komitetu Sterującego może być osoba, która spełnia kryteria określone w art. 12 ust. 2 oraz posiada poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych oznaczonych klauzulą „tajne”.
@@ -354,17 +358,13 @@ art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centr
 
 5. Szczegółowy tryb działania Komitetu Sterującego oraz wyboru przewodniczącego określa regulamin ustanowiony przez Komitet Sterujący.
 
-6. Zamiejscowi członkowie Komitetu Sterującego otrzymują zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie art. 775 § 2 Kodeksu pracy.
-
-7. Minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z Ministrem Obrony Narodowej określi, w drodze rozporządzenia, wysokość miesięcznego wynagrodzenia przewodniczącego oraz członków Komitetu Sterującego, mając na uwadze zakres wykonywanych przez nich zadań oraz znaczenie tych zadań dla efektywnego funkcjonowania Centrum.
+6. Zamiejscowi członkowie Komitetu Sterującego otrzymują zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie art. 775 § 2 Kodeksu pracy. 7Ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy, o której mowa w odnośniku 3.. Minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z Ministrem Obrony Narodowej określi, w drodze rozporządzenia, wysokość miesięcznego wynagrodzenia przewodniczącego oraz członków Komitetu Sterującego, mając na uwadze zakres wykonywanych przez nich zadań oraz znaczenie tych zadań dla efektywnego funkcjonowania Centrum.
 
 **Art. 19.**
 
 1. Obsługę administracyjną Centrum wykonuje Biuro Centrum, zwane dalej „Biurem”.
 
-2. Sposób działania Biura określa regulamin ustanawiany przez Dyrektora.
-
-3. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, szczegółowe kryteria wynagradzania pracowników Biura, mając na uwadze zakres zadań tych pracowników i kwalifikacje niezbędne do ich wykonywania.
+2. Sposób działania Biura określa regulamin ustanawiany przez Dyrektora. 3Ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy, o której mowa w odnośniku 3.. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, szczegółowe kryteria wynagradzania pracowników Biura, mając na uwadze zakres zadań tych pracowników i kwalifikacje niezbędne do ich wykonywania.
 
 **Art. 20.**
 
@@ -408,7 +408,7 @@ art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centr
 
 **Art. 26.** Jeżeli stosunek pracy osoby wyłonionej w drodze naboru ustał w terminie 3 miesięcy od dnia nawiązania stosunku pracy, można zatrudnić na tym samym stanowisku kolejną osobę spośród kandydatów, o których mowa w art. 24 ust. 2 pkt 3. Informację o zatrudnieniu tej osoby zamieszcza się zgodnie z przepisami art. 25.
 
-#### Rozdział 3 Zadania Centrum oraz kompetencje nadzorcze Ministra
+#### Rozdział 3
 
 **Art. 27.**
 
@@ -422,9 +422,7 @@ art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centr
 
 1. Centrum zarządza realizacją badań naukowych lub prac rozwojowych na rzecz obronności i bezpieczeństwa państwa oraz je finansuje lub współfinansuje.
 
-2. Badania naukowe lub prace rozwojowe na rzecz obronności i bezpieczeństwa państwa są realizowane w ramach strategicznych programów badań naukowych i prac rozwojowych, lub innych zadań Centrum.
-
-3. Minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z Ministrem Obrony Narodowej określi, w drodze rozporządzenia, sposób realizacji przez Centrum zadań, o których mowa w ust. 1, a także kryteria i warunki udziału w konkursach na wykonanie poszczególnych projektów, uwzględniając konieczność zapewnienia zgodności tych projektów z polityką naukową państwa oraz polityką obronności i bezpieczeństwa państwa.
+2. Badania naukowe lub prace rozwojowe na rzecz obronności i bezpieczeństwa państwa są realizowane w ramach strategicznych programów badań naukowych i prac rozwojowych, lub innych zadań Centrum. 3Ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy, o której mowa w odnośniku 3.. Minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z Ministrem Obrony Narodowej określi, w drodze rozporządzenia, sposób realizacji przez Centrum zadań, o których mowa w ust. 1, a także kryteria i warunki udziału w konkursach na wykonanie poszczególnych projektów, uwzględniając konieczność zapewnienia zgodności tych projektów z polityką naukową państwa oraz polityką obronności i bezpieczeństwa państwa.
 
 **Art. 29.** Do zadań Centrum należy pobudzanie inwestowania przez przedsiębiorców w działalność naukową, w szczególności przez:
 
@@ -458,12 +456,11 @@ art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centr
 
 1. W celu realizacji zadań, o których mowa w art. 29 i art. 30 ust. 1 i 2, Centrum może:
 
-- **1)** udzielać finansowania w formie: wsparcia bezzwrotnego, pomocy zwrotnej, o której mowa w art. 67 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), instrumentów finansowych, o których mowa w art. 2 lit. p rozporządzenia Parlamentu Europejskiego i Rady (UE, EURATOM) nr 966/2012 z dnia 25 października 2012 r. w sprawie zasad finansowych mających zastosowanie do budżetu ogólnego Unii oraz uchylającego rozporządzenie Rady (WE, Euratom) nr 1605/2002 (Dz. Urz. UE L 298 z 26.10.2012, str. 1, z późn. zm.);
+- **1)** udzielać finansowania w formie: wsparcia bezzwrotnego, pomocy zwrotnej, o której mowa w art. 67 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1 oraz Dz. Urz. UE L 176 z 07.07.2017, str. 1., instrumentów finansowych, o których mowa w art. 2 lit. p rozporządzenia Parlamentu Europejskiego i Rady (UE, EURATOM) nr 966/2012 z dnia 25 października 2012 r. w sprawie zasad finansowych mających zastosowanie do budżetu ogólnego Unii oraz uchylającego rozporządzenie Rady (WE, Euratom) nr 1605/2002 (Dz. Urz. UE L 298 z 26.10.2012, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 163 z 29.05.2014, str. 18, Dz. Urz. UE L 317 z 04.11.2014, str. 28 oraz Dz. Urz. UE L 286 z 30.10.2015, str. 1.; 2W brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 3.) za zgodą Ministra tworzyć spółki, obejmować oraz nabywać udziały i akcje, a także obejmować warranty subskrypcyjne uprawniające do zapisu lub objęcia akcji w spółkach mających siedzibę na terytorium Rzeczypospolitej Polskiej albo za granicą;
     - **a)**
     - **b)**
     - **c)**
 
-- **2)** za zgodą Ministra tworzyć spółki, obejmować oraz nabywać udziały i akcje, a także obejmować warranty subskrypcyjne uprawniające do zapisu lub objęcia akcji w spółkach mających siedzibę na terytorium Rzeczypospolitej Polskiej albo za granicą;
 - **3)** obejmować lub nabywać certyfikaty inwestycyjne, o których mowa w art. 117 ust. 1 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034).
 
 2. Przepisy ust. 1 mogą być odpowiednio stosowane w przypadku wsparcia udzielanego ze środków innych niż pochodzące z budżetu Unii Europejskiej.
@@ -483,7 +480,7 @@ art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centr
 1. W przypadku wyników:
 
 - **1)** badań naukowych będących wynalazkiem, wzorem użytkowym, wzorem przemysłowym lub topografią układu scalonego, wyhodowaną albo odkrytą i wyprowadzoną odmianą rośliny,
-- **2)** prac rozwojowych powstałych w ramach prac lub zadań finansowanych przez Centrum oraz know-how związanego z tymi wynikami, prawo do uzyskania patentu na wynalazek albo prawa ochronnego na wzór użytkowy, prawa z rejestracji wzoru przemysłowego lub układu scalonego oraz prawa do ochrony wyhodowanej albo odkrytej i wyprowadzonej przez hodowcę odmiany rośliny przysługuje podmiotowi, któremu Dyrektor przyznał środki finansowe, chyba że umowa między Centrum a podmiotem otrzymującym środki finansowe albo decyzja o przyznaniu środków stanowi inaczej.
+- **2)** prac rozwojowych – powstałych w ramach prac lub zadań finansowanych przez Centrum oraz know-how związanego z tymi wynikami, prawo do uzyskania patentu na wynalazek albo prawa ochronnego na wzór użytkowy, prawa z rejestracji wzoru przemysłowego lub układu scalonego oraz prawa do ochrony wyhodowanej albo odkrytej i wyprowadzonej przez hodowcę odmiany rośliny przysługuje podmiotowi, któremu Dyrektor przyznał środki finansowe, chyba że umowa między Centrum a podmiotem otrzymującym środki finansowe albo decyzja o przyznaniu środków stanowi inaczej.
 
 2. Do własności majątkowych praw autorskich powstałych w wyniku realizacji zadań finansowanych przez Centrum stosuje się przepisy ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2022 r. poz. 2509).
 
@@ -499,12 +496,12 @@ art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centr
 
 1. Za pośrednictwem Centrum może być udzielana pomoc publiczna w związku z realizacją zadań, o których mowa w art. 27, art. 29 i art. 30 ust. 1 i 2.
 
-2. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, warunki i tryb udzielania pomocy publicznej za pośrednictwem Centrum, w tym:
+2. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, warunki i tryb udzielania pomocy publicznej za pośrednictwem Centrum, w tym:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz ustawy – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 227), która weszła w życie z dniem 7 marca 2024 r.
 
 - **1)** przeznaczenie pomocy,
 - **2)** rodzaje kosztów kwalifikujących się do objęcia pomocą,
 - **3)** sposób kumulowania pomocy,
-- **4)** maksymalne wielkości pomocy z uwzględnieniem celów polityki naukowej państwa.
+- **4)** maksymalne wielkości pomocy – z uwzględnieniem celów polityki naukowej państwa.
 
 **Art. 34.**
 
@@ -526,7 +523,7 @@ art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centr
 
 3. Audyt obejmuje działalność Centrum w roku kalendarzowym z okresu, o którym mowa w ust. 2.
 
-#### Rozdział 4 Tryb realizacji zadań Centrum
+#### Rozdział 4
 
 **Art. 35.**
 
@@ -700,11 +697,9 @@ art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centr
 
 3. Do przyznawania środków finansowych w trybie, o którym mowa w ust. 1, nie stosuje się przepisów art. 35 ust. 2, art. 38 i art. 39 ust. 1 pkt 2 oraz ust. 2 pkt 1–3, 5 i 7.
 
-4. Dyrektor zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej Centrum informację o zawarciu umowy z podmiotem wybranym w trybie, o którym mowa w ust. 1, wraz ze wskazaniem danych wykonawcy projektu, ogólnym opisem projektu i uzasadnieniem wyboru tego projektu.
+4. Dyrektor zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej Centrum informację o zawarciu umowy z podmiotem wybranym w trybie, o którym mowa w ust. 1, wraz ze wskazaniem danych wykonawcy projektu, ogólnym opisem projektu i uzasadnieniem wyboru tego projektu. Art. 45Ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy, o której mowa w odnośniku 3.. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, szczegółowy tryb realizacji zadań Centrum, uwzględniając konieczność zapewnienia przejrzystości i bezstronności procedury oceny wniosków i wyboru projektów do finansowania.
 
-**Art. 45.** Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, szczegółowy tryb realizacji zadań Centrum, uwzględniając konieczność zapewnienia przejrzystości i bezstronności procedury oceny wniosków i wyboru projektów do finansowania.
-
-#### Rozdział 5 Gospodarka finansowa Centrum
+#### Rozdział 5
 
 **Art. 46.**
 
@@ -763,7 +758,7 @@ art. 6–10 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centr
 
 2. Minister dokonuje wyboru firmy audytorskiej w trybie przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720).
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6
 
-**Art. 51.** Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620 i 1036 oraz z 2012 r. poz. 756).
+**Art. 51.** Ustawa wchodzi w życie w terminieUstawa weszła w życie z dniem 1 października 2010 r. na podstawie art. 2 ustawy z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620), która weszła w życie z dniem 1 października 2010 r. i na zasadach określonych w ustawie z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620 i 1036 oraz z 2012 r. poz. 756). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858 i 1089. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089. 3) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz ustawy – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 227), która weszła w życie z dniem 7 marca 2024 r. 4) Ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy, o której mowa w odnośniku 3. 5) Ze zmianą wprowadzoną przez art. 31 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1 oraz Dz. Urz. UE L 176 z 07.07.2017, str. 1. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 163 z 29.05.2014, str. 18, Dz. Urz. UE L 317 z 04.11.2014, str. 28 oraz Dz. Urz. UE L 286 z 30.10.2015, str. 1. 8) W brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 3. 9) Ustawa weszła w życie z dniem 1 października 2010 r. na podstawie art. 2 ustawy z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620), która weszła w życie z dniem 1 października 2010 r.
 

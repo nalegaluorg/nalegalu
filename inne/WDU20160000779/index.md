@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-05-18 |
 | Data wydania | 2016-06-04 |
-| Wejście w życie | 2016-07-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000779) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/779/text.pdf) |
 
@@ -83,5 +82,5 @@ co najmniej 15% kwartalnego czasu nadawania programu na audycje europejskie, z w
 § 7.
 Nadawca programu radiowego, na którego nadawanie przyznano koncesję określającą, że program ten jest przeznaczony dla mniejszości narodowej i etnicznej oraz społeczności posługującej się językiem regionalnym, przeznacza co najmniej 10% miesięcznego czasu nadawania w programie utworów słowno-muzycznych na utwory wykonywane w języku polskim.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 5 lipca 2016 r.
+Rozporządzenie wchodzi w życie z dniem 5 lipca 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 6 grudnia 2012 r. w sprawie niższego udziału w programie telewizyjnym audycji wytworzonych pierwotnie w języku polskim i audycji europejskich oraz w programie radiowym utworów słowno-muzycznych wykonywanych w języku polskim (Dz. U. poz. 1411), które w następstwie art. 1 pkt 2 ustawy z dnia 25 lutego 2016 r. o zmianie ustawy o radiofonii i telewizji (Dz. U. poz. 443) traci moc z dniem 4 lipca 2016 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 6 grudnia 2012 r. w sprawie niższego udziału w programie telewizyjnym audycji wytworzonych pierwotnie w języku polskim i audycji europejskich oraz w programie radiowym utworów słowno-muzycznych wykonywanych w języku polskim (Dz. U. poz. 1411), które w następstwie art. 1 pkt 2 ustawy z dnia 25 lutego 2016 r. o zmianie ustawy o radiofonii i telewizji (Dz. U. poz. 443) traci moc z dniem 4 lipca 2016 r.
 

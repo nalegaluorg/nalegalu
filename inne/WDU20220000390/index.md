@@ -37,18 +37,14 @@ rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 25 kwietnia
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 16 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie dokonywania potrąceń z uposażenia funkcjonariuszy Straży Granicznej (Dz. U. poz. 829), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 16 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie dokonywania potrąceń z uposażenia funkcjonariuszy Straży Granicznej (Dz. U. poz. 829), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 kwietnia 2019 r. zmieniającego rozporządzenie w sprawie dokonywania potrąceń z uposażenia funkcjonariuszy Straży Granicznej (Dz. U. poz. 890), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 kwietnia 2019 r. zmieniającego rozporządzenie w sprawie dokonywania potrąceń z uposażenia funkcjonariuszy Straży Granicznej (Dz. U. poz. 890), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 6 maja 2002 r. w sprawie dokonywania potrąceń z uposażenia funkcjonariuszy Straży Granicznej
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 6 maja 2002 r. w sprawie dokonywania potrąceń z uposażenia funkcjonariuszy Straży GranicznejMinister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 Na podstawie art. 131 ust. 4 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2021 r. poz. 1486, 1728, 1898, 2191 i 2333) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa jednostki organizacyjne właściwe do dokonywania potrąceń z uposażenia funkcjonariusza Straży Granicznej, zwanego dalej „funkcjonariuszem”, oraz tryb postępowania w tych sprawach.
@@ -59,7 +55,7 @@ Potrąceń dokonuje właściwa komórka jednostki organizacyjnej, w której funk
 Potrąceń dokonuje się, odnotowując ten fakt na liście uposażeń.
 § 3.
 Za zgodą funkcjonariusza wyrażoną na piśmie mogą być dokonywane potrącenia z tytułu zobowiązań:
-1)
+1W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 kwietnia 2019 r. zmieniającego rozporządzenie w sprawie dokonywania potrąceń z uposażenia funkcjonariuszy Straży Granicznej (Dz. U. poz. 890), które weszło w życie z dniem 28 maja 2019 r.)
 zapłaty odszkodowania, przewidzianych w przepisach o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego;
 2)
 wobec pracowniczych kas zapomogowo-pożyczkowych;
@@ -93,8 +89,7 @@ samowolnego opuszczenia miejsca pełnienia służby albo pozostawania poza nim l
 2)
 zawinionej niemożności pełnienia obowiązków służbowych,
 3)
-rozpoczęcia urlopu bezpłatnego w ciągu miesiąca kalendarzowego
-stanowi rozkaz personalny.
+rozpoczęcia urlopu bezpłatnego w ciągu miesiąca kalendarzowego – stanowi rozkaz personalny.
 § 5.
 Zuposażenia funkcjonariusza, należnego mu w dniu wypłaty, nie dokonuje się potrąceń – jeżeli rozkaz personalny o zmniejszeniu uposażenia został wydany po terminie wypłaty.
 § 6.
@@ -111,6 +106,5 @@ Kwoty potrąceń właściwa jednostka organizacyjna przekazuje zgodnie z dyspozy
 § 8.
 Traci moc zarządzenie nr 43 Ministra Spraw Wewnętrznych z dnia 10 maja 1991 r. w sprawie właściwości i trybu dokonywania potrąceń z uposażenia policjantów i funkcjonariuszy Urzędu Ochrony Państwa oraz terminów wypłaty uposażenia (Dz. Urz. MSW poz. 41, 81 i 98, z 1992 r. poz. 23, z 1993 r. poz. 97 oraz z 1996 r. poz. 67) – w zakresie dotyczącym funkcjonariuszy Straży Granicznej.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 kwietnia 2019 r. zmieniającego rozporządzenie w sprawie dokonywania potrąceń z uposażenia funkcjonariuszy Straży Granicznej (Dz. U. poz. 890), które weszło w życie z dniem 28 maja 2019 r. 3) Rozporządzenie zostało ogłoszone w dniu 29 maja 2002 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 29 maja 2002 r.. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 kwietnia 2019 r. zmieniającego rozporządzenie w sprawie dokonywania potrąceń z uposażenia funkcjonariuszy Straży Granicznej (Dz. U. poz. 890), które weszło w życie z dniem 28 maja 2019 r. 3) Rozporządzenie zostało ogłoszone w dniu 29 maja 2002 r.
 

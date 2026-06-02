@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 4 sierpnia 2017 r. w sprawie bezpieczeństwa i higieny pracy przy obsłudze zwierząt gospodarskich
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 4 sierpnia 2017 r. w sprawie bezpieczeństwa i higieny pracy przy obsłudze zwierząt gospodarskich Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-04 |
 | Data wydania | 2017-09-05 |
-| Wejście w życie | 2018-03-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001692) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1692/text.pdf) |
 
@@ -188,7 +187,7 @@ przechodzenia przed wylotem ula;
 używania środków zapachowych.
 § 18.
 1.
-Do obsługi zwierząt przy ich załadunku, transporcie i wyładunku stosuje się przepisy załącznika nr 1 do rozporządzenia Rady (WE) nr 1/2005 z dnia 22 grudnia 2004 r. w sprawie ochrony zwierząt podczas transportu i związanych z tym działań oraz zmieniającego dyrektywy 64/432/EWG i 93/119/WE oraz rozporządzenie (WE) nr 1255/97 (Dz. Urz. UE L 3 z 05.01.2005, str. 1, z późn. zm.).
+Do obsługi zwierząt przy ich załadunku, transporcie i wyładunku stosuje się przepisy załącznika nr 1 do rozporządzenia Rady (WE) nr 1/2005 z dnia 22 grudnia 2004 r. w sprawie ochrony zwierząt podczas transportu i związanych z tym działań oraz zmieniającego dyrektywy 64/432/EWG i 93/119/WE oraz rozporządzenie (WE) nr 1255/97 (Dz. Urz. UE L 3 z 05.01.2005, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 95 z 07.04.2017, str. 1..
 2.
 Podczas przewozu zwierząt środkami transportu osoby konwojujące są obowiązane przebywać w miejscu oddzielonym od zwierząt, zapewniającym bezpieczeństwo tym osobom.
 § 19.
@@ -196,6 +195,5 @@ Osobom wykonującym prace przy obsłudze zwierząt, które zostały poszkodowane
 § 20.
 Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 września 2001 r. w sprawie bezpieczeństwa i higieny pracy przy obsłudze zwierząt gospodarskich (Dz. U. poz. 1268 oraz z 2005 r. poz. 2149).
 § 21.
-Rozporządzenie wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 95 z 07.04.2017, str. 1.
+Rozporządzenie wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 95 z 07.04.2017, str. 1.
 

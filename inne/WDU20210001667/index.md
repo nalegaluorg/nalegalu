@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 30 sierpnia 2021 r. w sprawie dokumentów wymaganych przy składaniu wniosku o wydanie zezwolenia na wykonywanie działalności związanej z narażeniem na działanie promieniowania jonizującego albo przy zgłoszeniu wykonywania tej działalności
+# Rozporządzenie Rady Ministrówz dnia 30 sierpnia 2021 r. w sprawie dokumentów wymaganych przy składaniu wniosku o wydanie zezwolenia na wykonywanie działalności związanej z narażeniem na działanie promieniowania jonizującego albo przy zgłoszeniu wykonywania tej działalności Niniejsze rozporządzenie w zakresie swojej regulacji wdraża: 1) dyrektywę Rady 2009/71/Euratom z dnia 25 czerwca 2009 r. ustanawiającą wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 172 z 02.07.2009, str. 18, Dz. Urz. UE L 260 z 03.10.2009, str. 40 oraz Dz. Urz. UE L 219 z 25.07.2014, str. 42); 2) dyrektywę Rady 2011/70/Euratom z dnia 19 lipca 2011 r. ustanawiającą ramy wspólnotowe w zakresie odpowiedzialnego i bezpiecznego gospodarowania wypalonym paliwem jądrowym i odpadami promieniotwórczymi (Dz. Urz. UE L 199 z 02.08.2011, str. 48); 3) dyrektywę Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiającą podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywę 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, str. 1, Dz. Urz. UE L 72 z 17.03.2016, str. 69, Dz. Urz. UE L 152 z 11.06.2019, str. 128 oraz Dz. Urz. UE L 324 z 13.12.2019, str. 80); 4) dyrektywę Rady 2014/87/Euratom z dnia 8 lipca 2014 r. zmieniającą dyrektywę 2009/71/Euratom ustanawiającą wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 219 z 25.07.2014, str. 42).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-30 |
 | Data wydania | 2021-09-10 |
-| Wejście w życie | 2021-09-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001667) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1667/text.pdf) |
 
@@ -41,8 +40,7 @@ Rozporządzenie określa dokumenty wymagane przy:
 1)
 składaniu wniosku o wydanie zezwolenia na wykonywanie działalności związanej z narażeniem, o której mowa w art. 4 ust. 1 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe, zwanej dalej „działalnością związaną z narażeniem”,
 2)
-zgłoszeniu wykonywania działalności związanej z narażeniem
-konieczne dla potwierdzenia przez wnioskodawcę spełnienia warunków bezpieczeństwa jądrowego i ochrony radiologicznej.
+zgłoszeniu wykonywania działalności związanej z narażeniem – konieczne dla potwierdzenia przez wnioskodawcę spełnienia warunków bezpieczeństwa jądrowego i ochrony radiologicznej.
 § 2.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
@@ -102,7 +100,7 @@ jeżeli działalność jest związana ze stosowaniem urządzenia zawierającego 
 § 5.
 Do złożonych wniosków o wydanie zezwolenia oraz do dokonanych zgłoszeń, przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 30 czerwca 2015 r. w sprawie dokumentów wymaganych przy składaniu wniosku o wydanie zezwolenia na wykonywanie działalności związanej z narażeniem na działanie promieniowania jonizującego albo przy zgłoszeniu wykonywania tej działalności (Dz. U. poz. 1355), które zgodnie z art. 37 ust. 1 pkt 2 ustawy z dnia 13 czerwca 2019 r. o zmianie ustawy – Prawo atomowe oraz ustawy o ochronie przeciwpożarowej (Dz. U. poz. 1593 oraz z 2020 r. poz. 284) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża: 1) dyrektywę Rady 2009/71/Euratom z dnia 25 czerwca 2009 r. ustanawiającą wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 172 z 02.07.2009, str. 18, Dz. Urz. UE L 260 z 03.10.2009, str. 40 oraz Dz. Urz. UE L 219 z 25.07.2014, str. 42); 2) dyrektywę Rady 2011/70/Euratom z dnia 19 lipca 2011 r. ustanawiającą ramy wspólnotowe w zakresie odpowiedzialnego i bezpiecznego gospodarowania wypalonym paliwem jądrowym i odpadami promieniotwórczymi (Dz. Urz. UE L 199 z 02.08.2011, str. 48); 3) dyrektywę Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiającą podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywę 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, str. 1, Dz. Urz. UE L 72 z 17.03.2016, str. 69, Dz. Urz. UE L 152 z 11.06.2019, str. 128 oraz Dz. Urz. UE L 324 z 13.12.2019, str. 80); 4) dyrektywę Rady 2014/87/Euratom z dnia 8 lipca 2014 r. zmieniającą dyrektywę 2009/71/Euratom ustanawiającą wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 219 z 25.07.2014, str. 42). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 30 czerwca 2015 r. w sprawie dokumentów wymaganych przy składaniu wniosku o wydanie zezwolenia na wykonywanie działalności związanej z narażeniem na działanie promieniowania jonizującego albo przy zgłoszeniu wykonywania tej działalności (Dz. U. poz. 1355), które zgodnie z art. 37 ust. 1 pkt 2 ustawy z dnia 13 czerwca 2019 r. o zmianie ustawy – Prawo atomowe oraz ustawy o ochronie przeciwpożarowej (Dz. U. poz. 1593 oraz z 2020 r. poz. 284) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 
 ## Załącznik nr 1 — – Dokumenty dołączane do wniosku o wydanie zezwolenia na wykonywanie działalności związanej z narażeniem, z wyłączeniem działalności polegającej na budowie, rozruchu, eksploatacji lub likwidacji obiektów jądrowych oraz działalności polegającej na budowie, eksploatacji lub zamknięciu składowisk odpadów promieniotwórczych
 
@@ -541,7 +539,7 @@ Krótkookresowy plan szkoleniowy pracowników oraz długookresowy plan szkolenia
 2.11.
 W przypadku elektrowni jądrowej – propozycja terminów szkoleń okresowych pracowników, zaktualizowany plan rekrutacji oraz opis programów szkolenia wstępnego i szkolenia okresowego pracowników przewidzianych na stanowiska w elektrowni jądrowej, na których na etapach jej rozruchu i eksploatacji są wykonywane czynności mające istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej, w szczególności z wykazaniem ich zgodności z przepisami wydanymi na podstawie art. 12d ust. 8 ustawy.
 2.12.
-Wskazanie uchwały sejmiku województwa o utworzeniu obszaru ograniczonego użytkowania, o której mowa w art. 135 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, z późn. zm.).
+Wskazanie uchwały sejmiku województwa o utworzeniu obszaru ograniczonego użytkowania, o której mowa w art. 135 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802, 868, 1047, 1162, 1535, 1642 i 1648.).
 2.13.
 Pozwolenie zintegrowane, o którym mowa w art. 201 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 2.14.
@@ -613,7 +611,7 @@ W przypadku gdy wnioskodawca wystąpił z wnioskiem o wydanie ogólnej opinii, o
 2.35.
 W przypadku obiektu energetyki jądrowej – postanowienie w sprawie uzgodnienia warunków realizacji przedsięwzięcia, o którym mowa w art. 90 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 2.36.
-Pozwolenie na budowę obiektu jądrowego, o którym mowa w ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2020 r. poz. 1333, z późn. zm.).
+Pozwolenie na budowę obiektu jądrowego, o którym mowa w ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2020 r. poz. 1333, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2127 i 2320 oraz z 2021 r. poz. 11, 234, 282 i 784.).
 3.
 Dokumenty dołączane do wniosku o wydanie zezwolenia na wykonywanie działalności związanej z narażeniem polegającej na eksploatacji obiektu jądrowego.
 3.1.
@@ -1065,7 +1063,7 @@ Dokumenty dodatkowo dołączane do wniosku o wydanie zezwolenia na wykonywanie d
 4.16.1.
 Dowód uiszczenia opłaty za rozpatrzenie wniosku, o której mowa w art. 39 ust. 2 pkt 4 ustawy.
 4.16.2.
-W przypadku elektrowni jądrowej – zaktualizowany plan rekrutacji pracowników przewidzianych na stanowiska w elektrowni jądrowej, na których, na etapie jej likwidacji, są wykonywane czynności mające istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej, w szczególności zgodnie z wymaganiami rozporządzenia Rady Ministrów z dnia 10 sierpnia 2012 r. w sprawie czynności mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej w jednostce organizacyjnej wykonującej działalność polegającą na rozruchu, eksploatacji lub likwidacji elektrowni jądrowej.
+W przypadku elektrowni jądrowej – zaktualizowany plan rekrutacji pracowników przewidzianych na stanowiska w elektrowni jądrowej, na których, na etapie jej likwidacji, są wykonywane czynności mające istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej, w szczególności zgodnie z wymaganiami rozporządzenia Rady Ministrów z dnia 10 sierpnia 2012 r. w sprawie czynności mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej w jednostce organizacyjnej wykonującej działalność polegającą na rozruchu, eksploatacji lub likwidacji elektrowni jądrowej. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802, 868, 1047, 1162, 1535, 1642 i 1648. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2127 i 2320 oraz z 2021 r. poz. 11, 234, 282 i 784.
 
 ## Załącznik nr 3 — – Dokumenty dołączane do wniosku o wydanie zezwolenia na wykonywanie działalności związanej z narażeniem polegającej na budowie, eksploatacji lub zamknięciu składowisk odpadów promieniotwórczych
 
@@ -1144,7 +1142,7 @@ W przypadku składowiska odpadów promieniotwórczych przeznaczonego do składow
 2.15.
 Postanowienie w sprawie uzgodnienia warunków realizacji przedsięwzięcia, o którym mowa w art. 90 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, o ile zostało wydane.
 2.16.
-Pozwolenie na budowę składowiska, o którym mowa w ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2020 r. poz. 1333, z późn. zm.).
+Pozwolenie na budowę składowiska, o którym mowa w ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2020 r. poz. 1333, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2127 i 2320 oraz z 2021 r. poz. 11, 234, 282 i 784.).
 2.17.
 Pozwolenie na użytkowanie składowiska, o którym mowa w ustawie z dnia 7 lipca 1994 r. – Prawo budowlane.
 2.18.
@@ -1174,5 +1172,5 @@ Decyzja o środowiskowych uwarunkowaniach, o której mowa w ustawie z dnia 3 pa�
 3.11.
 Program monitoringu radiacyjnego środowiska, o którym mowa w art. 86o ustawy.
 3.12.
-Program monitoringu radiacyjnego środowiska po zamknięciu składowiska.
+Program monitoringu radiacyjnego środowiska po zamknięciu składowiska. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2127 i 2320 oraz z 2021 r. poz. 11, 234, 282 i 784.
 

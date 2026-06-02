@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-01-02 |
 | Data wydania | 2013-01-17 |
-| Wejście w życie | 2013-01-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000079) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/79/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618 oraz z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092) zarządza się, co następuje:
 § 1.
-Instytut Optyki Stosowanej z siedzibą w Warszawie, numer identyfikacyjny REGON 000035725, numer identyfikacji podatkowej NIP 525–000–87–90 z dniem 1 stycznia 2013 r. otrzymuje nazwę Instytut Optyki Stosowanej imienia prof. Maksymiliana Pluty.
+Instytut Optyki Stosowanej z siedzibą w Warszawie, numer identyfikacyjny REGON 000035725, numer identyfikacji podatkowej NIP 525–000–87–90Instytut Optyki Stosowanej został utworzony zarządzeniem Ministra Przemysłu Maszynowego z dnia 1 października 1954 r. w sprawie utworzenia Centralnego Laboratorium Optyki, zmienionym zarządzeniem nr 69/Org/86 Ministra Hutnictwa i Przemysłu Maszynowego z dnia 26 marca 1986 r. w sprawie dostosowania organizacji centralnego laboratorium pod nazwą Centralne Laboratorium Optyki do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych, zmienionym zarządzeniem nr 405/Org/90 Ministra Przemysłu z dnia 10 października 1990 r., następnie zmienionym zarządzeniem nr 19/Org/91 Ministra Przemysłu i Handlu z dnia 7 września 1991 r. w sprawie zmiany nazwy Centralnego Laboratorium Optyki oraz wprowadzającym zmiany w zarządzeniu w sprawie dostosowania organizacji centralnego laboratorium pod nazwą Centralne Laboratorium Optyki do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych. z dniem 1 stycznia 2013 r. otrzymuje nazwę Instytut Optyki Stosowanej imienia prof. Maksymiliana Pluty.
 § 2.
 Nadzór nad Instytutem Optyki Stosowanej imienia prof. Maksymiliana Pluty, zwanym dalej „Instytutem”, sprawuje minister właściwy do spraw gospodarki.
 § 3.
@@ -86,6 +85,5 @@ upowszechnianie wyników prowadzonych badań, między innymi przez prowadzenie d
 4)
 świadczenie usług badawczych, technologicznych, pomiarowych oraz opracowywanie opinii i ekspertyz w zakresie prowadzonych badań naukowych i prac rozwojowych.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2013 r.
-1) Instytut Optyki Stosowanej został utworzony zarządzeniem Ministra Przemysłu Maszynowego z dnia 1 października 1954 r. w sprawie utworzenia Centralnego Laboratorium Optyki, zmienionym zarządzeniem nr 69/Org/86 Ministra Hutnictwa i Przemysłu Maszynowego z dnia 26 marca 1986 r. w sprawie dostosowania organizacji centralnego laboratorium pod nazwą Centralne Laboratorium Optyki do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych, zmienionym zarządzeniem nr 405/Org/90 Ministra Przemysłu z dnia 10 października 1990 r., następnie zmienionym zarządzeniem nr 19/Org/91 Ministra Przemysłu i Handlu z dnia 7 września 1991 r. w sprawie zmiany nazwy Centralnego Laboratorium Optyki oraz wprowadzającym zmiany w zarządzeniu w sprawie dostosowania organizacji centralnego laboratorium pod nazwą Centralne Laboratorium Optyki do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2013 r. 1) Instytut Optyki Stosowanej został utworzony zarządzeniem Ministra Przemysłu Maszynowego z dnia 1 października 1954 r. w sprawie utworzenia Centralnego Laboratorium Optyki, zmienionym zarządzeniem nr 69/Org/86 Ministra Hutnictwa i Przemysłu Maszynowego z dnia 26 marca 1986 r. w sprawie dostosowania organizacji centralnego laboratorium pod nazwą Centralne Laboratorium Optyki do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych, zmienionym zarządzeniem nr 405/Org/90 Ministra Przemysłu z dnia 10 października 1990 r., następnie zmienionym zarządzeniem nr 19/Org/91 Ministra Przemysłu i Handlu z dnia 7 września 1991 r. w sprawie zmiany nazwy Centralnego Laboratorium Optyki oraz wprowadzającym zmiany w zarządzeniu w sprawie dostosowania organizacji centralnego laboratorium pod nazwą Centralne Laboratorium Optyki do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych.
 

@@ -22,15 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2000-07-26 |
 | Data wydania | 2000-09-08 |
-| Wejście w życie | 2000-12-09 |
 | Ostatnia zmiana | 2025-09-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000740857) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/857/text.pdf) |
+
+Umowa leasingu
+Umowa agencyjna
 
 **Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532oraz z 2000 r. Nr 22, poz. 271i Nr 74, poz. 855) w księdze trzeciej „Zobowiązania” wprowadza się następujące zmiany:
 
 - **1)** po tytule XVII dodaje się tytuł XVII1 w brzmieniu: „
 
-## Tytuł XVII1 Umowa leasingu
+## Tytuł XVII1
 
 **Art. 7091.** Przez umowę leasingu finansujący zobowiązuje się, w zakresie działalności swego przedsiębiorstwa, nabyć rzecz od oznaczonego zbywcy na warunkach określonych w tej umowie i oddać tę rzecz korzystającemu do używania albo używania i pobierania pożytków przez czas oznaczony, a korzystający zobowiązuje się zapłacić finansującemu w uzgodnionych ratach wynagrodzenie pieniężne, równe co najmniej cenie lub wynagrodzeniu z tytułu nabycia rzeczy przez finansującego.
 
@@ -110,7 +112,7 @@ source: "eli-html"
 
 - **2)** tytuł XXIII „Umowa agencyjna” otrzymuje brzmienie: „
 
-## Tytuł XXIII Umowa agencyjna
+## Tytuł XXIII
 
 **Art. 758.**
 

@@ -31,13 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579 oraz z 2017 r. poz. 1139) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 14 lipca 2014 r. w sprawie regulaminu przeprowadzania testu umiejętności dla kandydatów ubiegających się o wpis na listę adwokatów albo radców prawnych (Dz. U. poz. 985), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 16 maja 2016 r. zmieniającym rozporządzenie w sprawie regulaminu przeprowadzania testu umiejętności dla kandydatów ubiegających się o wpis na listę adwokatów albo radców prawnych (Dz. U. poz. 768).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 16 maja 2016 r. zmieniającego rozporządzenie w sprawie regulaminu przeprowadzania testu umiejętności dla kandydatów ubiegających się o wpis na listę adwokatów albo radców prawnych (Dz. U. poz. 768), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 16 maja 2016 r. zmieniającego rozporządzenie w sprawie regulaminu przeprowadzania testu umiejętności dla kandydatów ubiegających się o wpis na listę adwokatów albo radców prawnych (Dz. U. poz. 768), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 14 lipca 2014 r. w sprawie regulaminu przeprowadzania testu umiejętności dla kandydatów ubiegających się o wpis na listę adwokatów albo radców prawnych
-I) Odnośnik nr 1 dodany do tytułu rozporządzenia przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 16 maja 2016 r. zmieniającego rozporządzenie w sprawie regulaminu przeprowadzania testu umiejętności dla kandydatów ubiegających się o wpis na listę adwokatów albo radców prawnych (Dz. U. poz. 768), które weszło w życie z dniem 17 czerwca 2016 r. Na podstawie art. 26 ust. 2 ustawy z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej (Dz. U. z 2016 r. poz. 1874) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 14 lipca 2014 r. w sprawie regulaminu przeprowadzania testu umiejętności dla kandydatów ubiegających się o wpis na listę adwokatów albo radców prawnychNiniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, L 363 z 20.12.2006, str. 141, L 271 z 16.10.2007, str. 18, L 320 z 06.12.2007, str. 3, L 93 z 04.04.2008, str. 28, L 205 z 01.08.2008, str. 10, L 311 z 21.11.2008, str. 1, L 93 z 07.04.2009, str. 11, L 59 z 04.03.2011, str. 4, L 180 z 12.07.2012, str. 9, L 112 z 24.04.2012, str. 21, L 158 z 10.06.2013, str. 368 i L 354 z 28.12.2013, str. 132).
+I)Odnośnik nr 1 dodany do tytułu rozporządzenia przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 16 maja 2016 r. zmieniającego rozporządzenie w sprawie regulaminu przeprowadzania testu umiejętności dla kandydatów ubiegających się o wpis na listę adwokatów albo radców prawnych (Dz. U. poz. 768), które weszło w życie z dniem 17 czerwca 2016 r. Na podstawie art. 26 ust. 2 ustawy z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej (Dz. U. z 2016 r. poz. 1874) zarządza się, co następuje:
 § 1.
 Rozporządzenie ustala regulamin przeprowadzania testu umiejętności dla kandydatów ubiegających się o wpis na listę adwokatów albo radców prawnych, zwanego dalej „testem umiejętności”, a w tym określa:
 1)
@@ -91,16 +89,16 @@ przechowywanie dokumentacji związanej z przeprowadzeniem testu umiejętności.
 § 4.
 1.
 Test umiejętności przeprowadza się nie później niż w ciągu 3 miesięcy od dnia złożenia przez kandydata ubiegającego się o wpis na listę adwokatów albo radców prawnych, zwanego dalej „kandydatem”, wniosku o wpis na listę adwokatów albo radców prawnych, spełniającego wymagania określone w art. 23 ust. 1 i 2 ustawy z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej, zwanej dalej „ustawą”.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia Ministra Sprawiedliwości z dnia 16 maja 2016 r. zmieniającego rozporządzenie w sprawie regulaminu przeprowadzania testu umiejętności dla kandydatów ubiegających się o wpis na listę adwokatów albo radców prawnych (Dz. U. poz. 768), które weszło w życie z dniem 17 czerwca 2016 r..
 Komisja kwalifikacyjna nie później niż w ciągu 14 dni od dnia otrzymania informacji o złożeniu wniosku, o którym mowa w ust. 1, ustala termin i miejsce przeprowadzenia testu umiejętności oraz sporządza i przekazuje okręgowej radzie adwokackiej albo radzie okręgowej izby radców prawnych, do której kandydat złożył wniosek o wpis na listę adwokatów albo radców prawnych, zwanej dalej „właściwą radą”, listę zagadnień, o której mowa w art. 26 ust. 1a ustawy, zwaną dalej „listą”, wraz z wykazem aktów prawnych obejmujących te zagadnienia, zwanym dalej „wykazem aktów prawnych”.
 3.
 Komisja kwalifikacyjna niezwłocznie ogłasza termin i miejsce przeprowadzenia testu umiejętności w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2016 r. poz. 1764 oraz z 2017 r. poz. 933), na stronie podmiotowej Ministra Sprawiedliwości oraz na stronie podmiotowej właściwej rady, nie później niż na 2 miesiące przed ustalonym terminem testu.
 4.
 W przypadku zaistnienia zdarzenia losowego uniemożliwiającego przeprowadzenie testu umiejętności przez komisję kwalifikacyjną w terminie ustalonym na podstawie przepisu ust. 2, komisja ta wyznacza dodatkowy termin testu, biorąc pod uwagę ograniczenie wynikające z art. 23 ust. 3 ustawy. Przepis ust. 3 stosuje się odpowiednio.
-§ 5.
+§ 5W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Komisja kwalifikacyjna niezwłocznie po ustaleniu terminu i miejsca przeprowadzenia testu umiejętności powiadamia o tym kandydata oraz doręcza mu przygotowaną listę oraz wykaz aktów prawnych.
 § 6.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Komisja kwalifikacyjna przygotowuje tematy zagadnień opracowywanych podczas części pisemnej testu umiejętności, uwzględniając listę oraz wykaz aktów prawnych, przekazane właściwej radzie zgodnie z § 4 ust. 2, a także zestawy pytań na część ustną testu umiejętności.
 2.
 Właściwa rada może zgłaszać komisji kwalifikacyjnej za pośrednictwem jej przewodniczącego propozycje tematów i pytań.
@@ -111,8 +109,8 @@ Przewodniczący komisji kwalifikacyjnej zapewnia zachowanie poufności opracowan
 2.
 3.
 Przed przystąpieniem do testu umiejętności kandydat okazuje komisji kwalifikacyjnej dokument potwierdzający jego tożsamość.
-4.
-5.
+4W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2..
+5W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2..
 § 8.
 1.
 Tematy są opracowywane odręcznie albo przy użyciu własnego sprzętu komputerowego.
@@ -136,7 +134,7 @@ Przewodniczący komisji kwalifikacyjnej wyklucza kandydata z testu umiejętnośc
 5.
 Wykluczenie kandydata z testu umiejętności zostaje odnotowane w protokole przebiegu części pisemnej testu umiejętności oraz na egzemplarzu opracowania tematu i stanowi podstawę do wydania przez komisję kwalifikacyjną uchwały o negatywnym wyniku testu umiejętności.
 § 10.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2..
 Czas opracowywania jednego tematu wynosi 360 minut, liczonych od chwili wskazanej przez przewodniczącego komisji kwalifikacyjnej lub jego zastępcę.
 2.
 Czas, o którym mowa w ust. 1, ulega wydłużeniu o połowę w przypadku kandydata będącego osobą niepełnosprawną, który wraz z wnioskiem o wpis na listę adwokatów lub radców prawnych złoży:
@@ -153,9 +151,9 @@ obsługa sprzętu komputerowego;
 3)
 oświadczenie o wyrażeniu zgody na przetwarzanie danych osobowych, o których mowa w pkt 1 i 2.
 3.
-W przypadku, o którym mowa w ust. 2, przewodniczący komisji kwalifikacyjnej wraz z powiadomieniem, o którym mowa w § 5 ust. 1 , przekazuje kandydatowi informację o wydłużeniu czasu trwania części pisemnej testu umiejętności. O wydłużeniu tym przewodniczący komisji kwalifikacyjnej informuje Ministra Sprawiedliwości.
+W przypadku, o którym mowa w ust. 2, przewodniczący komisji kwalifikacyjnej wraz z powiadomieniem, o którym mowa w § 5 ust. 1 Obecnie § 5 rozporządzenia nie zawiera ust. 1, zgodnie z § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2., przekazuje kandydatowi informację o wydłużeniu czasu trwania części pisemnej testu umiejętności. O wydłużeniu tym przewodniczący komisji kwalifikacyjnej informuje Ministra Sprawiedliwości.
 § 11.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2..
 Po upływie czasu opracowywania danego tematu przewodniczący komisji kwalifikacyjnej lub jego zastępca ogłasza zakończenie części pisemnej testu umiejętności, a członkowie komisji zbierają opracowania tematów sporządzone odręcznie. W przypadku opracowywania tematów przy użyciu własnego sprzętu komputerowego przewodniczący komisji kwalifikacyjnej lub jego zastępca informuje o sposobie odbioru opracowań od kandydatów.
 2.
 Każdego dnia kandydat otrzymuje pokwitowanie odbioru opracowania tematu z części pisemnej testu umiejętności.
@@ -178,7 +176,7 @@ dostateczna (3);
 ocena negatywna – niedostateczna (2).
 2.
 Każdy z członków komisji kwalifikacyjnej, o których mowa w ust. 1, wystawia ocenę cząstkową, sporządza pisemne uzasadnienie wystawionej oceny cząstkowej i przekazuje je niezwłocznie przewodniczącemu komisji kwalifikacyjnej, który załącza wszystkie uzasadnienia ocen cząstkowych do protokołu przebiegu testu umiejętności.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2..
 Ocenę danego opracowania tematu stanowi średnia arytmetyczna ocen cząstkowych, przy czym:
 1)
 oceny pozytywne to:
@@ -199,29 +197,29 @@ Wyniki części pisemnej testu umiejętności ogłasza się w siedzibie właści
 Przerwa między częścią pisemną a częścią ustną testu umiejętności nie może trwać dłużej niż 21 dni.
 § 14.
 1.
-2.
-3.
+2W brzmieniu ustalonym przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 2..
+3W brzmieniu ustalonym przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Czas przeznaczony na przygotowanie się do udzielenia odpowiedzi na zestaw pytań wynosi 30 minut.
 4.
 Czas, o którym mowa w ust. 3, ulega wydłużeniu o 15 minut w przypadku kandydata będącego osobą niepełnosprawną, który spełnia warunki określone w § 10 ust. 2 pkt 1 i 2 lit. a.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Czas trwania części ustnej testu umiejętności dla jednego kandydata jest sumą czasu przeznaczonego na przygotowanie się do udzielenia odpowiedzi na zestaw pytań i czasu przeznaczonego na udzielenie odpowiedzi. Czas przeznaczony na udzielenie odpowiedzi na zestaw pytań nie może przekroczyć 60 minut, a w przypadku, o którym mowa w ust. 4 – 90 minut.
 § 15.
 1.
 W trakcie części ustnej testu umiejętności kandydat nie może posługiwać się tekstami aktów prawnych ani mieć przy sobie urządzeń służących do przekazu lub odbioru informacji.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2..
 Członkowie komisji kwalifikacyjnej mogą zadawać kandydatowi pytania uzupełniające z zagadnień objętych częścią ustną testu umiejętności.
 § 16.
 1.
 Odpowiedzi kandydata na poszczególne pytania są oceniane oddzielnie przez każdego z członków komisji kwalifikacyjnej z zastosowaniem skali od 0 do 4 punktów. Członkowie komisji kwalifikacyjnej przekazują niezwłocznie przewodniczącemu komisji kwalifikacyjnej sporządzone na piśmie, umotywowane oceny odpowiedzi na każde z pytań.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2..
 Suma średnich ocen wystawionych przez członków komisji kwalifikacyjnej za odpowiedzi na poszczególne pytania stanowi ocenę z części ustnej testu umiejętności. Ocenę pozytywną wystawia się, jeżeli kandydat uzyskał co najmniej 16 punktów, ocenę negatywną – jeżeli uzyskał mniej niż 16 punktów.
 3.
 Komisja kwalifikacyjna ustala wynik testu umiejętności w drodze uchwały i ogłasza go bezpośrednio po przeprowadzeniu narady kończącej część ustną testu.
 § 17.
 1.
 Z przebiegu testu umiejętności sporządza się niezwłocznie protokół, który podpisują członkowie komisji kwalifikacyjnej obecni podczas testu. Członkowie komisji mogą zgłaszać uwagi do protokołu.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2..
 Do protokołu dołącza się tematy i opracowania sporządzone podczas części pisemnej testu umiejętności, zestawy pytań wylosowane podczas części ustnej oraz sporządzone na piśmie oceny ze wszystkich zagadnień objętych testem. W protokole mogą być zawarte dodatkowe uwagi i spostrzeżenia członków komisji kwalifikacyjnej.
 3.
 Przewodniczący komisji kwalifikacyjnej przesyła protokół odpowiednio Naczelnej Radzie Adwokackiej albo Krajowej Radzie Radców Prawnych w terminie 7 dni od dnia jego sporządzenia.
@@ -231,7 +229,7 @@ Do ustalania terminu powtarzanego testu umiejętności, o którym mowa w art. 30
 2.
 Do powtarzanego testu umiejętności stosuje się odpowiednio przepisy § 2–17.
 § 19.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 25 lipca 2014 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 grudnia 2005 r. w sprawie regulaminu przeprowadzania testu umiejętności dla kandydatów ubiegających się o wpis na listę adwokatów albo radców prawnych (Dz. U. z 2013 r. poz. 1116), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 49 ust. 2 ustawy z dnia 13 czerwca 2013 r. o zmianie ustaw regulujących wykonywanie niektórych zawodów (Dz. U. poz. 829). 1) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, L 363 z 20.12.2006, str. 141, L 271 z 16.10.2007, str. 18, L 320 z 06.12.2007, str. 3, L 93 z 04.04.2008, str. 28, L 205 z 01.08.2008, str. 10, L 311 z 21.11.2008, str. 1, L 93 z 07.04.2009, str. 11, L 59 z 04.03.2011, str. 4, L 180 z 12.07.2012, str. 9, L 112 z 24.04.2012, str. 21, L 158 z 10.06.2013, str. 368 i L 354 z 28.12.2013, str. 132). I) Odnośnik nr 1 dodany do tytułu rozporządzenia przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 16 maja 2016 r. zmieniającego rozporządzenie w sprawie regulaminu przeprowadzania testu umiejętności dla kandydatów ubiegających się o wpis na listę adwokatów albo radców prawnych (Dz. U. poz. 768), które weszło w życie z dniem 17 czerwca 2016 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia Ministra Sprawiedliwości z dnia 16 maja 2016 r. zmieniającego rozporządzenie w sprawie regulaminu przeprowadzania testu umiejętności dla kandydatów ubiegających się o wpis na listę adwokatów albo radców prawnych (Dz. U. poz. 768), które weszło w życie z dniem 17 czerwca 2016 r. 3) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 7) Obecnie § 5 rozporządzenia nie zawiera ust. 1, zgodnie z § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 2. 12) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. 14) W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2. 15) Rozporządzenie zostało ogłoszone w dniu 25 lipca 2014 r. 16) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 grudnia 2005 r. w sprawie regulaminu przeprowadzania testu umiejętności dla kandydatów ubiegających się o wpis na listę adwokatów albo radców prawnych (Dz. U. z 2013 r. poz. 1116), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 49 ust. 2 ustawy z dnia 13 czerwca 2013 r. o zmianie ustaw regulujących wykonywanie niektórych zawodów (Dz. U. poz. 829).
 
 ## Część pisemną testu umiejętności przeprowadza się w wydzielonej sali w warunkach gwarantujących kandydatom samodzielność pracy i prawidłowy przebieg testu.
 

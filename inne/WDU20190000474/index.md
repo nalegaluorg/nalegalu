@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Infrastrukturyz dnia 21 lutego 2019 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Administracji i Cyfryzacji w sprawie reklamacji usługi pocztowej
+# Obwieszczenie Ministra Infrastrukturyz dnia 21 lutego 2019 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Administracji i Cyfryzacji w sprawie reklamacji usługi pocztowej Minister Infrastruktury kieruje działem administracji rządowej ‒ łączność, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 
 | Pole | Wartość |
 |---|---|
@@ -31,15 +31,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Administracji i Cyfryzacji z dnia 26 listopada 2013 r. w sprawie reklamacji usługi pocztowej (Dz. U. z 2018 r. poz. 421), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury z dnia 21 sierpnia 2018 r. zmieniającym rozporządzenie w sprawie reklamacji usługi pocztowej (Dz. U. poz. 1649).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 21 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie reklamacji usługi pocztowej (Dz. U. poz. 1649), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 21 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie reklamacji usługi pocztowej (Dz. U. poz. 1649), które stanowią: „
 § 2.
 Do postępowań reklamacyjnych wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 12 września 2018 r.
-” .
-1) Minister Infrastruktury kieruje działem administracji rządowej ‒ łączność, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
-Załącznik – Tekst jednolity rozporządzenia Ministra Administracji i Cyfryzacji z dnia 26 listopada 2013 r. w sprawie reklamacji usługi pocztowej
+Rozporządzenie wchodzi w życie z dniem 12 września 2018 r. ” . 1) Minister Infrastruktury kieruje działem administracji rządowej ‒ łączność, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
+Załącznik – Tekst jednolity rozporządzenia Ministra Administracji i Cyfryzacji z dnia 26 listopada 2013 r. w sprawie reklamacji usługi pocztowejObecnie działem administracji rządowej – łączność kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 Na podstawie art. 92 ust. 4 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2018 r. poz. 2188) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -169,7 +166,7 @@ w przypadku przyznania odszkodowania – kwotę odszkodowania oraz informację o
 5)
 imię, nazwisko i stanowisko służbowe pracownika operatora pocztowego, upoważnionego do udzielenia odpowiedzi na reklamację;
 6)
-pouczenie o prawie do odwołania się oraz wskazanie adresu, na jaki należy złożyć odwołanie, a w przypadku usług pocztowych niebędących powszechnymi – informację o możliwości wcześniejszego, tj. przed wyczerpaniem drogi reklamacyjnej, dochodzenia roszczeń określonych w ustawie w postępowaniu: a) sądowym albo b) w sprawie pozasądowego rozwiązywania sporów konsumenckich przed Prezesem Urzędu Komunikacji Elektronicznej, c) (uchylona).
+pouczenie o prawie do odwołania się oraz wskazanie adresu, na jaki należy złożyć odwołanie, a w przypadku usług pocztowych niebędących powszechnymi – informację o możliwości wcześniejszego, tj. przed wyczerpaniem drogi reklamacyjnej, dochodzenia roszczeń określonych w ustawie w postępowaniu: a) sądowym albo b)W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury z dnia 21 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie reklamacji usługi pocztowej (Dz. U. poz. 1649), które weszło w życie z dniem 12 września 2018 r. w sprawie pozasądowego rozwiązywania sporów konsumenckich przed Prezesem Urzędu Komunikacji Elektronicznej, c) (uchylona).Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 2.
 Odpowiedź na reklamację powinna dodatkowo zawierać:
 1)
@@ -188,10 +185,10 @@ Operator pocztowy rozpatruje odwołanie niezwłocznie i informuje reklamującego
 Informacja o wyniku rozpatrzenia odwołania powinna zawierać pouczenie o wyczerpaniu drogi postępowania reklamacyjnego i o prawie do dochodzenia roszczeń określonych w ustawie w postępowaniu:
 1)
 sądowym albo
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 w sprawie pozasądowego rozwiązywania sporów konsumenckich przed Prezesem Urzędu Komunikacji Elektronicznej,
 3)
-(uchylony).
+(uchylony).Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 § 13.
 Wezwania, o których mowa w § 4 ust. 1, odpowiedź na reklamację, o której mowa w § 10, lub informację o wyniku rozpatrzenia odwołania, o której mowa w § 12 ust. 1, a także powiadomienia, o których mowa w § 6 ust. 3 i § 7, przesyła się przesyłką poleconą, z wyłączeniem przypadków, gdy reklamacja została wniesiona za pomocą środków komunikacji elektronicznej.
 § 14.
@@ -199,6 +196,5 @@ Nieudzielenie przez operatora pocztowego odpowiedzi na reklamację w terminie, o
 § 15.
 Postępowania reklamacyjne niezakończone przed dniem wejścia w życie rozporządzenia rozpatruje się na dotychczasowych zasadach.
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – łączność kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury z dnia 21 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie reklamacji usługi pocztowej (Dz. U. poz. 1649), które weszło w życie z dniem 12 września 2018 r. 3) Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 5) Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 6 grudnia 2013 r. 7) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 13 października 2003 r. w sprawie reklamacji powszechnej usługi pocztowej w zakresie przesyłki rejestrowanej i przekazu pocztowego (Dz. U. poz. 1795 oraz z 2005 r. poz. 595), które na mocy art. 190 ust. 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 6 grudnia 2013 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 13 października 2003 r. w sprawie reklamacji powszechnej usługi pocztowej w zakresie przesyłki rejestrowanej i przekazu pocztowego (Dz. U. poz. 1795 oraz z 2005 r. poz. 595), które na mocy art. 190 ust. 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Obecnie działem administracji rządowej – łączność kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury z dnia 21 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie reklamacji usługi pocztowej (Dz. U. poz. 1649), które weszło w życie z dniem 12 września 2018 r. 3) Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 5) Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 6 grudnia 2013 r. 7) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 13 października 2003 r. w sprawie reklamacji powszechnej usługi pocztowej w zakresie przesyłki rejestrowanej i przekazu pocztowego (Dz. U. poz. 1795 oraz z 2005 r. poz. 595), które na mocy art. 190 ust. 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
 

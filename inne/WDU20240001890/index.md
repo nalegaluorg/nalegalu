@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 17 grudnia 2024 r. w sprawie wynagrodzeń oraz zwrotu kosztów podróży i noclegów członków Rady do spraw Opodatkowania Wyrównawczego
+# Rozporządzenie Ministra Finansówz dnia 17 grudnia 2024 r. w sprawie wynagrodzeń oraz zwrotu kosztów podróży i noclegów członków Rady do spraw Opodatkowania Wyrównawczego Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-17 |
 | Data wydania | 2024-12-19 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2024-12-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001890) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1890/text.pdf) |
 
@@ -55,6 +54,5 @@ Koszty, o których mowa w ust. 2, są zwracane w wysokości stanowiącej iloczyn
 4.
 W zakresie nieuregulowanym w ust. 1–3 do zwrotu członkom Rady GLOBE kosztów podróży i noclegów stosuje się odpowiednio przepisy o należnościach przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 

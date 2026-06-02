@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-08-28 |
 | Data wydania | 2024-08-30 |
-| Wejście w życie | 2024-09-01 |
 | Ostatnia zmiana | 2024-09-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001322) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1322/text.pdf) |
 
@@ -96,5 +95,5 @@ W przypadku przekazywania środków odpowiadających wartości umorzonych jednos
 § 6.
 Informacje, o których mowa w § 3 i § 5, są przekazywane w postaci elektronicznej.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 września 2024 r.
+Rozporządzenie wchodzi w życie z dniem 1 września 2024 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 1 października 2014 r. w sprawie terminu, sposobu i trybu przekazywania środków zgromadzonych na rachunku członka otwartego funduszu emerytalnego na fundusz emerytalny Funduszu Ubezpieczeń Społecznych w związku z ukończeniem przez ubezpieczonego wieku niższego o 10 lat od wieku emerytalnego (Dz. U. poz. 1418), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1672 oraz z 2024 r. poz. 123). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 1 października 2014 r. w sprawie terminu, sposobu i trybu przekazywania środków zgromadzonych na rachunku członka otwartego funduszu emerytalnego na fundusz emerytalny Funduszu Ubezpieczeń Społecznych w związku z ukończeniem przez ubezpieczonego wieku niższego o 10 lat od wieku emerytalnego (Dz. U. poz. 1418), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1672 oraz z 2024 r. poz. 123).
 

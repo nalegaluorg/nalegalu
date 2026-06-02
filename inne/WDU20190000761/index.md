@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-25 |
 | Data wydania | 2019-04-26 |
-| Wejście w życie | 2019-04-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000761) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/761/text.pdf) |
 
@@ -44,7 +43,7 @@ source: "eli-html"
 
 3. W przypadku szkół prowadzonych przez jednostki samorządu terytorialnego zadania i kompetencje organu prowadzącego, określone w ust. 2, wykonuje odpowiednio wójt (burmistrz, prezydent miasta), zarząd powiatu, zarząd województwa. ” .
 
-**Art. 2.** W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, z późn. zm.) po art. 73 dodaje się art. 73a w brzmieniu: „
+**Art. 2.** W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1290, 1669 i 2245 oraz z 2019 r. poz. 534 i 730.) po art. 73 dodaje się art. 73a w brzmieniu: „
 
 **Art. 73a.**
 
@@ -64,5 +63,5 @@ source: "eli-html"
 - **2)** rozstrzygnięcie dyrektora szkoły lub nauczyciela wyznaczonego przez organ prowadzący szkołę o wynikach klasyfikacji i promocji uczniów klas (semestrów) programowo najwyższych liceów ogólnokształcących i techników może nastąpić po zakończeniu zajęć dydaktyczno-wychowawczych;
 - **3)** jako datę wydania świadectw szkolnych promocyjnych i świadectw ukończenia szkoły przyjmuje się datę rozstrzygnięcia przez dyrektora szkoły lub nauczyciela wyznaczonego przez organ prowadzący szkołę o wynikach klasyfikacji i promocji uczniów.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1290, 1669 i 2245 oraz z 2019 r. poz. 534 i 730.
 

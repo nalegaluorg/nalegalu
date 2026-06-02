@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1991-02-23 |
 | Data wydania | 1991-03-11 |
-| Wejście w życie | 1991-03-11 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910190082) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/82/text.pdf) |
 

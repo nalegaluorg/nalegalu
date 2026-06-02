@@ -44,18 +44,14 @@ rozporządzeniem Ministra Spraw Wewnętrznych z dnia 24 grudnia 2014 r. zmieniaj
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 12 grudnia 2012 r. zmieniającego rozporządzenie w sprawie nadania lub zmiany numeru PESEL (Dz. U. poz. 1462), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 12 grudnia 2012 r. zmieniającego rozporządzenie w sprawie nadania lub zmiany numeru PESEL (Dz. U. poz. 1462), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 31 grudnia 2012 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2012 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 24 grudnia 2014 r. zmieniającego rozporządzenie w sprawie nadania lub zmiany numeru PESEL (Dz. U. poz. 1961), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 24 grudnia 2014 r. zmieniającego rozporządzenie w sprawie nadania lub zmiany numeru PESEL (Dz. U. poz. 1961), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 31 grudnia 2014 r.
-” .
-Załącznik – Tekst jednolity rozporządzenia Ministra Spraw Wewnętrznych z dnia 4 stycznia 2012 r. w sprawie nadania lub zmiany numeru PESEL
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2014 r. ” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Spraw Wewnętrznych z dnia 4 stycznia 2012 r. w sprawie nadania lub zmiany numeru PESELMinister Spraw Wewnętrznych kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych (Dz. U. poz. 1265).
 Na podstawie art. 23 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2015 r. poz. 388, 1337 i 1864) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -76,7 +72,7 @@ O nadaniu lub zmianie numeru PESEL minister właściwy do spraw wewnętrznych ni
 W przypadku braku możliwości przekazania informacji o nadaniu lub zmianie numeru PESEL w sposób określony w ust. 1, minister właściwy do spraw wewnętrznych informuje organ, który wystąpił o nadanie lub zmianę numeru PESEL, w formie pisemnej, w terminie nie dłuższym niż 4 dni robocze od dnia nadania lub zmiany numeru PESEL.
 3.
 Przekazanie informacji, o której mowa w ust. 1 i 2, polega na przesłaniu do organu, który wystąpił o nadanie lub zmianę numeru PESEL, danych niezbędnych do nadania lub zmiany numeru PESEL uzupełnionych o ten numer.
-§ 4.
+§ 4W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 24 grudnia 2014 r. zmieniającego rozporządzenie w sprawie nadania lub zmiany numeru PESEL (Dz. U. poz. 1961), które weszło w życie z dniem 31 grudnia 2014 r..
 1.
 Organ, który wystąpił o nadanie lub zmianę numeru PESEL, powiadamia o jego nadaniu lub zmianie odpowiednio osobę, której nadano lub zmieniono numer PESEL, jej przedstawiciela ustawowego, opiekuna prawnego lub inną osobę sprawującą nad nią faktycznie opiekę – niezwłocznie po otrzymaniu informacji, o której mowa w § 3 ust. 1 albo 2.
 2.
@@ -87,7 +83,7 @@ Wzór powiadomienia o nadaniu numeru PESEL jest określony w załączniku nr 2 d
 Wzór powiadomienia o zmianie numeru PESEL jest określony w załączniku nr 3 do rozporządzenia.
 5.
 W przypadku gdy z wnioskiem o nadanie numeru PESEL wystąpił konsul, powiadomienie o nadaniu numeru PESEL następuje przez odbiór dokumentu paszportowego zawierającego nadany numer PESEL.
-§ 5.
+§ 5W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Sporządzenie nowego aktu urodzenia w wyniku przysposobienia albo obalenia domniemania ojcostwa męża matki skutkuje nadaniem nowego numeru PESEL i usunięciem z rejestru PESEL oraz z rejestrów mieszkańców prowadzonych przez organy gmin właściwe ze względu na aktualne lub poprzednie miejsca zameldowania na pobyt stały lub czasowy danych przysposobionego albo osoby, której dotyczy obalenie domniemania ojcostwa męża matki, zamieszczonych w tych rejestrach przed przysposobieniem albo przed obaleniem domniemania ojcostwa męża matki.
 2.
@@ -114,13 +110,12 @@ od liczby dziesięć należy odjąć liczbę występującą w rzędzie jedności
 wynik odejmowania uzyskany w pkt 3 stanowi liczbę kontrolną numeru PESEL.
 2.
 Jeżeli liczba w rzędzie jedności sumy obliczonej w ust. 1 pkt 2 jest równa zero, to liczba kontrolna numeru PESEL również jest równa zero.
-§ 8.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2015 r.
-1) Minister Spraw Wewnętrznych kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych (Dz. U. poz. 1265). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 24 grudnia 2014 r. zmieniającego rozporządzenie w sprawie nadania lub zmiany numeru PESEL (Dz. U. poz. 1961), które weszło w życie z dniem 31 grudnia 2014 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 27 grudnia 2010 r. w sprawie trybu przekazywania danych pomiędzy organami prowadzącymi ewidencję ludności oraz powiadamiania o nadaniu numeru PESEL (Dz. U. Nr 257, poz. 1742) oraz rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 27 grudnia 2010 r. w sprawie zgłaszania i przyjmowania danych niezbędnych do zameldowania i wymeldowania oraz prowadzenia ewidencji ludności i ewidencji wydanych i unieważnionych dowodów osobistych (Dz. U. Nr 257, poz. 1743).
+§ 8W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
+Rozporządzenie wchodzi w życie z dniem 1 marca 2015 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 27 grudnia 2010 r. w sprawie trybu przekazywania danych pomiędzy organami prowadzącymi ewidencję ludności oraz powiadamiania o nadaniu numeru PESEL (Dz. U. Nr 257, poz. 1742) oraz rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 27 grudnia 2010 r. w sprawie zgłaszania i przyjmowania danych niezbędnych do zameldowania i wymeldowania oraz prowadzenia ewidencji ludności i ewidencji wydanych i unieważnionych dowodów osobistych (Dz. U. Nr 257, poz. 1743). 1) Minister Spraw Wewnętrznych kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych (Dz. U. poz. 1265). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 24 grudnia 2014 r. zmieniającego rozporządzenie w sprawie nadania lub zmiany numeru PESEL (Dz. U. poz. 1961), które weszło w życie z dniem 31 grudnia 2014 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 27 grudnia 2010 r. w sprawie trybu przekazywania danych pomiędzy organami prowadzącymi ewidencję ludności oraz powiadamiania o nadaniu numeru PESEL (Dz. U. Nr 257, poz. 1742) oraz rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 27 grudnia 2010 r. w sprawie zgłaszania i przyjmowania danych niezbędnych do zameldowania i wymeldowania oraz prowadzenia ewidencji ludności i ewidencji wydanych i unieważnionych dowodów osobistych (Dz. U. Nr 257, poz. 1743).
 
-## Załącznik nr 1 — – Wniosek o nadanie numeru PESEL (wzór)
+## Załącznik nr 1 — – Wniosek o nadanie numeru PESEL (wzór)W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.
 
-## Załącznik nr 2 — – Powiadomienie o nadaniu numeru PESEL (wzór)
+## Załącznik nr 2 — – Powiadomienie o nadaniu numeru PESEL (wzór)W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
 
-## Załącznik nr 3 — – Powiadomienie o zmianie numeru PESEL (wzór)
+## Załącznik nr 3 — – Powiadomienie o zmianie numeru PESEL (wzór)Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2.
 

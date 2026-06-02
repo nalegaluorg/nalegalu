@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-12-22 |
 | Data wydania | 2004-12-29 |
-| Wejście w życie | 2005-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042812785) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2785/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. Nr 109, poz. 1158, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. Nr 109, poz. 1158, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 25, poz. 253, Nr 66, poz. 596 i Nr 216, poz. 1824 oraz z 2004 r. Nr 145, poz. 1537.) wprowadza się następujące zmiany:
 
 - **1)** art. 3 otrzymuje brzmienie: „
 
@@ -55,14 +54,14 @@ source: "eli-html"
 
 - **1)** udziela pożyczek, zwanego dalej „funduszem pożyczkowym”, lub
 - **2)** udziela poręczeń, zwanego dalej „funduszem poręczeniowym”, lub
-- **3)** obejmuje akcje lub udziały w mikroprzedsiębiorcach, małych lub średnich przedsiębiorcach znajdujących się we wczesnej fazie rozwoju, zwanego dalej „funduszem kapitału zalążkowego” uznaje się za wykorzystane w kwocie faktycznie wykorzystanej przez podmiot zgodnie z umową o udzieleniu wsparcia odpowiednio na udzielenie pożyczek, udzielenie poręczeń bądź objęcie akcji lub udziałów. ” , ust. 12 otrzymuje brzmienie: „
+- **3)** obejmuje akcje lub udziały w mikroprzedsiębiorcach, małych lub średnich przedsiębiorcach znajdujących się we wczesnej fazie rozwoju, zwanego dalej „funduszem kapitału zalążkowego” – uznaje się za wykorzystane w kwocie faktycznie wykorzystanej przez podmiot zgodnie z umową o udzieleniu wsparcia odpowiednio na udzielenie pożyczek, udzielenie poręczeń bądź objęcie akcji lub udziałów. ” , ust. 12 otrzymuje brzmienie: „
     - **b)**
 
 12. Minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia, szczegółowe warunki:
 
 - **1)** udzielania pożyczek,
 - **2)** udzielania poręczeń,
-- **3)** obejmowania akcji lub udziałów ze środków wsparcia, o którym mowa w ust. 5, uwzględniając konieczność efektywnego i skutecznego wykorzystania wsparcia oraz zapewnienia przejrzystości jego udzielania. ” .
+- **3)** obejmowania akcji lub udziałów – ze środków wsparcia, o którym mowa w ust. 5, uwzględniając konieczność efektywnego i skutecznego wykorzystania wsparcia oraz zapewnienia przejrzystości jego udzielania. ” .
 
 **Art. 2.** W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2003 r. Nr 174, poz. 1689 oraz z 2004 r. Nr 123, poz. 1291 i Nr 145, poz. 1537) wprowadza się następujące zmiany:
 
@@ -82,6 +81,6 @@ source: "eli-html"
 - **4)** spłatę zobowiązań z tytułu poręczeń i gwarancji Banku Gospodarstwa Krajowego za zobowiązania podmiotów z tytułu wspierania działalności mikroprzedsiębiorców, małych i średnich przedsiębiorców poręczeniami lub gwarancjami spłaty pożyczek udzielanych z udziałem środków publicznych lub kredytów;
 - **5)** obejmowanie lub nabywanie akcji (udziałów) podmiotów udzielających poręczeń lub gwarancji spłaty kredytów lub pożyczek dla mikroprzedsiębiorców, małych i średnich przedsiębiorców oraz obejmowanie akcji (udziałów) we współtworzonych przez Bank Gospodarstwa Krajowego podmiotach mających udzielać poręczeń lub gwarancji spłaty kredytów lub pożyczek zaciąganych przez mikroprzedsiębiorców, małych i średnich przedsiębiorców. ” ;
 - **5)** w art. 38 w ust. 1 pkt 9 otrzymuje brzmienie: „
-- **9)** finansowanie działalności gospodarczej mikroprzedsiębiorców, małych i średnich przedsiębiorców. ” . Ustawa wchodzi w życie z dniem 1 stycznia 2005 r.
+- **9)** finansowanie działalności gospodarczej mikroprzedsiębiorców, małych i średnich przedsiębiorców. ” . Ustawa wchodzi w życie z dniem 1 stycznia 2005 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 25, poz. 253, Nr 66, poz. 596 i Nr 216, poz. 1824 oraz z 2004 r. Nr 145, poz. 1537.
 
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 22 lutego 2019 r. w sprawie niezbędnych elementów rocznego sprawozdania z działalności Narodowego Centrum Badań i Rozwoju
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 22 lutego 2019 r. w sprawie niezbędnych elementów rocznego sprawozdania z działalności Narodowego Centrum Badań i Rozwoju Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-22 |
 | Data wydania | 2019-02-28 |
-| Wejście w życie | 2019-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000386) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/386/text.pdf) |
 
@@ -87,6 +86,5 @@ stanu zatrudnienia w Biurze Centrum, według stanu na koniec roku, za który jes
 3)
 stopnia realizacji rocznego planu finansowego Centrum.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 29 grudnia 2010 r. w sprawie niezbędnych elementów sprawozdania z działalności oraz rocznego i kwartalnego sprawozdania finansowego Narodowego Centrum Badań i Rozwoju (Dz. U. z 2011 r. poz. 44), które utraciło moc z dniem 1 października 2018 r. w związku z wejściem w życie ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 29 grudnia 2010 r. w sprawie niezbędnych elementów sprawozdania z działalności oraz rocznego i kwartalnego sprawozdania finansowego Narodowego Centrum Badań i Rozwoju (Dz. U. z 2011 r. poz. 44), które utraciło moc z dniem 1 października 2018 r. w związku z wejściem w życie ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39). 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 29 grudnia 2010 r. w sprawie niezbędnych elementów sprawozdania z działalności oraz rocznego i kwartalnego sprawozdania finansowego Narodowego Centrum Badań i Rozwoju (Dz. U. z 2011 r. poz. 44), które utraciło moc z dniem 1 października 2018 r. w związku z wejściem w życie ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39).
 

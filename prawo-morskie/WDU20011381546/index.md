@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-09-18 |
 | Data wydania | 2001-12-04 |
-| Wejście w życie | 2002-06-05 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011381546) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1546/text.pdf) |
 
@@ -76,7 +75,7 @@ source: "eli-html"
 **Art. 6.** W sprawach dotyczących:
 
 - **1)** stosowania przepisów ustawy – Kodeks morski do stosunków prawnych powstałych przed dniem jego wejścia w życie,
-- **2)** przedawnienia roszczeń stosuje się odpowiednio art. XXVI i XXXV Przepisów wprowadzających kodeks cywilny.
+- **2)** przedawnienia roszczeń – stosuje się odpowiednio art. XXVI i XXXV Przepisów wprowadzających kodeks cywilny.
 
 **Art. 7.** Ustawa wchodzi w życie z dniem wejścia w życie ustawy – Kodeks morski.
 

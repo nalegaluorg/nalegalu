@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-01-18 |
 | Data wydania | 2001-03-02 |
-| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010150148) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/148/text.pdf) |
 

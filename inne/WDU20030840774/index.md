@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-04-10 |
 | Data wydania | 2003-05-15 |
-| Wejście w życie | 2003-06-15 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030840774) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/774/text.pdf) |
 
@@ -30,8 +29,12 @@ source: "eli-html"
 
 - **1)** tytuł ustawy otrzymuje brzmienie: „ o grach i zakładach wzajemnych ” ;
 - **2)** art. 1 otrzymuje brzmienie: „ Ustawa określa warunki urządzania i zasady prowadzenia działalności w zakresie gier losowych, zakładów wzajemnych, gier na automatach i gier na automatach o niskich wygranych. ” ;
-- **3)** w art. 2: w ust. 1: – po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „ 2a) wideoloterie, które są urządzane w sieci terminali wideo połączonych z centralnym systemem sprawozdawczym i monitorującym, a uczestniczy się w nich poprzez nabycie losu lub innego dowodu udziału w grze, przy czym gracz może typować liczby, znaki lub inne wyróżniki, a podmiot urządzający wideoloterię oferuje wyłącznie wygrane pieniężne, 2b) gra telebingo, w której uczestniczy się przez nabycie dowodu udziału w grze zawierającego przypadkowe zestawy liczb lub znaków z góry ustalonego zbioru liczb lub znaków, przeprowadzana na skalę ogólnokrajową z losowaniem nadawanym jako audycja telewizyjna, a podmiot urządzający grę oferuje wygrane pieniężne lub rzeczowe, ” , – pkt 9 otrzymuje brzmienie: „ 9) loterie promocyjne, w których uczestniczy się przez nabycie towaru, usługi lub innego dowodu udziału w grze i tym samym nieodpłatnie uczestniczy się w loterii, a podmiot urządzający loterię oferuje wygrane pieniężne lub rzeczowe, ” , po ust. 2a dodaje się ust. 2b w brzmieniu: „
+- **3)** w art. 2: w ust. 1: po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „
     - **a)**
+
+- **2a)** wideoloterie, które są urządzane w sieci terminali wideo połączonych z centralnym systemem sprawozdawczym i monitorującym, a uczestniczy się w nich poprzez nabycie losu lub innego dowodu udziału w grze, przy czym gracz może typować liczby, znaki lub inne wyróżniki, a podmiot urządzający wideoloterię oferuje wyłącznie wygrane pieniężne,
+- **2b)** gra telebingo, w której uczestniczy się przez nabycie dowodu udziału w grze zawierającego przypadkowe zestawy liczb lub znaków z góry ustalonego zbioru liczb lub znaków, przeprowadzana na skalę ogólnokrajową z losowaniem nadawanym jako audycja telewizyjna, a podmiot urządzający grę oferuje wygrane pieniężne lub rzeczowe, ” , pkt 9 otrzymuje brzmienie: „
+- **9)** loterie promocyjne, w których uczestniczy się przez nabycie towaru, usługi lub innego dowodu udziału w grze i tym samym nieodpłatnie uczestniczy się w loterii, a podmiot urządzający loterię oferuje wygrane pieniężne lub rzeczowe, ” , po ust. 2a dodaje się ust. 2b w brzmieniu: „
     - **b)**
 
 2b. Grami na automatach o niskich wygranych są gry na urządzeniach mechanicznych, elektromechanicznych i elektronicznych o wygrane pieniężne lub rzeczowe, w których wartość jednorazowej wygranej nie może być wyższa niż równowartość 15 euro, a wartość maksymalnej stawki za udział w jednej grze nie może być wyższa niż 0,07 euro. Równowartość 15 euro i 0,07 euro ustala się według kursu kupna, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia poprzedniego roku kalendarzowego. ” , ust. 3 otrzymuje brzmienie: „
@@ -296,13 +299,21 @@ source: "eli-html"
 **Art. 30.** Punkty gry na automatach o niskich wygranych mogą być usytuowane w lokalach gastronomicznych, handlowych lub usługowych, oddalonych co najmniej 100 m od szkół, placówek oświatowo-wychowawczych, opiekuńczych oraz ośrodków kultu religijnego. ” ;
 
 - **29)** uchyla się art. 31 i 31a;
-- **30)** w art. 32: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Wniosek o udzielenie zezwolenia na prowadzenie działalności w zakresie gier cylindrycznych, gier w karty, gier w kości, gry bingo pieniężne, zakładów wzajemnych, gier na automatach oraz gier na automatach o niskich wygranych powinien zawierać: ” , – pkt 1 otrzymuje brzmienie: „ 1) odpis aktu notarialnego umowy spółki lub statutu spółki akcyjnej oraz aktualny odpis z Krajowego Rejestru Sądowego, ” , – pkt 5 otrzymuje brzmienie: „ 5) odpis dokumentów wskazujących na prawo do władania budynkiem (lokalem) lub umowy zobowiązującej do oddania we władanie budynku (lokalu), w którym będą urządzane gry, a w przypadku punktu przyjmowania zakładów wzajemnych – zgodę władającego budynkiem (lokalem) na korzystanie z budynku (lokalu), ” , – pkt 7 otrzymuje brzmienie: „ 7) przewidywany rodzaj gier lub zakładów, o których mowa w art. 2, oraz ich liczbę, wraz z informacją o planowanej kolejności ich uruchomienia, ” , – pkt 11 otrzymuje brzmienie: „ 11) projekty regulaminów gier, ” , – w pkt 18 kropkę zastępuje się przecinkiem i dodaje się pkt 19 w brzmieniu: „ 19) oświadczenia osób, o których mowa w art. 27b ust. 1 pkt 1 i 2, że nie toczy się przeciwko nim postępowanie przed organami wymiaru sprawiedliwości w sprawach przestępstw określonych w art. 299 Kodeksu karnego. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **30)** w art. 32: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Wniosek o udzielenie zezwolenia na prowadzenie działalności w zakresie gier cylindrycznych, gier w karty, gier w kości, gry bingo pieniężne, zakładów wzajemnych, gier na automatach oraz gier na automatach o niskich wygranych powinien zawierać: ” , pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** odpis aktu notarialnego umowy spółki lub statutu spółki akcyjnej oraz aktualny odpis z Krajowego Rejestru Sądowego, ” , pkt 5 otrzymuje brzmienie: „
+- **5)** odpis dokumentów wskazujących na prawo do władania budynkiem (lokalem) lub umowy zobowiązującej do oddania we władanie budynku (lokalu), w którym będą urządzane gry, a w przypadku punktu przyjmowania zakładów wzajemnych – zgodę władającego budynkiem (lokalem) na korzystanie z budynku (lokalu), ” , pkt 7 otrzymuje brzmienie: „
+- **7)** przewidywany rodzaj gier lub zakładów, o których mowa w art. 2, oraz ich liczbę, wraz z informacją o planowanej kolejności ich uruchomienia, ” , pkt 11 otrzymuje brzmienie: „
+- **11)** projekty regulaminów gier, ” , w pkt 18 kropkę zastępuje się przecinkiem i dodaje się pkt 19 w brzmieniu: „
+- **19)** oświadczenia osób, o których mowa w art. 27b ust. 1 pkt 1 i 2, że nie toczy się przeciwko nim postępowanie przed organami wymiaru sprawiedliwości w sprawach przestępstw określonych w art. 299 Kodeksu karnego. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
-1a. Oświadczenie, o którym mowa w ust. 1 pkt 19, jest składane pod rygorem stwierdzenia nieważności zezwolenia. ” , w ust. 2: – pkt 9 otrzymuje brzmienie: „ 9) projekt regulaminu gry, ” , – w pkt 12 kropkę zastępuje się przecinkiem i dodaje się pkt 13 w brzmieniu: „ 13) ekspertyzę losów, innych dowodów udziału w grze lub kartonów, potwierdzającą zabezpieczenie przed sfałszowaniem oraz przedwczesnym odczytaniem wyniku gry, w szczególności przed prześwietleniem, otwarciem lub zdrapaniem farby ochronnej i zamknięciem lub ponownym naniesieniem farby ochronnej bez naruszenia struktury papieru. ” ;
+1a. Oświadczenie, o którym mowa w ust. 1 pkt 19, jest składane pod rygorem stwierdzenia nieważności zezwolenia. ” , w ust. 2: pkt 9 otrzymuje brzmienie: „
 
 - **c)**
+- **9)** projekt regulaminu gry, ” , w pkt 12 kropkę zastępuje się przecinkiem i dodaje się pkt 13 w brzmieniu: „
+- **13)** ekspertyzę losów, innych dowodów udziału w grze lub kartonów, potwierdzającą zabezpieczenie przed sfałszowaniem oraz przedwczesnym odczytaniem wyniku gry, w szczególności przed prześwietleniem, otwarciem lub zdrapaniem farby ochronnej i zamknięciem lub ponownym naniesieniem farby ochronnej bez naruszenia struktury papieru. ” ;
 - **31)** w art. 33: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -321,8 +332,11 @@ source: "eli-html"
 
 2. Rozpatrzenie wniosków, o których mowa w ust. 1, odnoszących się do loterii promocyjnej i loterii audioteksowej następuje w terminie 2 miesięcy. ” ;
 
-- **33)** w art. 35: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Zezwolenie na urządzanie i prowadzenie działalności w zakresie gier cylindrycznych, gier w karty, gier w kości, gry bingo pieniężne, zakładów wzajemnych, gier na automatach oraz gier na automatach o niskich wygranych obejmuje: ” , – pkt 3 i 4 otrzymują brzmienie: „ 3) miejsce urządzania gier lub zakładów, 4) rodzaj i minimalną oraz maksymalną liczbę gier lub zakładów, ” , ust. 4 otrzymuje brzmienie: „
+- **33)** w art. 35: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Zezwolenie na urządzanie i prowadzenie działalności w zakresie gier cylindrycznych, gier w karty, gier w kości, gry bingo pieniężne, zakładów wzajemnych, gier na automatach oraz gier na automatach o niskich wygranych obejmuje: ” , pkt 3 i 4 otrzymują brzmienie: „
     - **a)**
+
+- **3)** miejsce urządzania gier lub zakładów,
+- **4)** rodzaj i minimalną oraz maksymalną liczbę gier lub zakładów, ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Do zezwoleń, o których mowa w ust. 1, 3 i 3a, dołącza się zatwierdzone regulaminy gier lub zakładów. ” ;
@@ -434,7 +448,7 @@ source: "eli-html"
 - **1)** za okres do dnia 31 grudnia 2003 r. – 50 euro,
 - **2)** za okres od dnia 1 stycznia 2004 r. do dnia 31 grudnia 2004 r. – 75 euro,
 - **3)** za okres od dnia 1 stycznia 2005 r. do dnia 31 grudnia 2005 r. – 100 euro,
-- **4)** za okres od dnia 1 stycznia 2006 r. – 125 euro miesięcznie od gier urządzanych na każdym automacie.
+- **4)** za okres od dnia 1 stycznia 2006 r. – 125 euro – miesięcznie od gier urządzanych na każdym automacie.
 
 2. Wartość euro ustala się przy zastosowaniu kursu kupna walut obcych, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia miesiąca poprzedzającego miesiąc, w którym następuje zapłata podatku. ” ;
 

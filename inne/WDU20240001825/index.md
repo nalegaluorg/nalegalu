@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 5 grudnia 2024 r. w sprawie udzielania pomocy publicznej na projekty inwestycyjne w zakresie wsparcia krajowego systemu energetycznego w ramach Krajowego Planu Odbudowy i Zwiększania Odporności
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 5 grudnia 2024 r. w sprawie udzielania pomocy publicznej na projekty inwestycyjne w zakresie wsparcia krajowego systemu energetycznego w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-05 |
 | Data wydania | 2024-12-11 |
-| Wejście w życie | 2024-12-12 |
 | Ostatnia zmiana | 2024-12-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001825) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1825/text.pdf) |
 
@@ -31,7 +30,7 @@ Na podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadz
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom pomocy publicznej na projekty inwestycyjne w zakresie inwestycji G3.1.4 „Wsparcie krajowego systemu energetycznego (Fundusz Wsparcia Energetyki)” w ramach Krajowego Planu Odbudowy i Zwiększania Odporności służące:
 1)
-wspieraniu efektywności energetycznej innej niż w budynkach – zgodnie z art. 38 rozporządzenia nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”,
+wspieraniu efektywności energetycznej innej niż w budynkach – zgodnie z art. 38 rozporządzenia nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1., zwanego dalej „rozporządzeniem nr 651/2014”,
 2)
 wspieraniu efektywności energetycznej w budynkach – zgodnie z art. 38a rozporządzenia nr 651/2014,
 3)
@@ -41,20 +40,17 @@ propagowaniu energii ze źródeł odnawialnych oraz propagowaniu wodoru odnawial
 a)
 produkcji lub magazynowania energii ze źródeł odnawialnych,
 b)
-produkcji wodoru odnawialnego
-zgodnie z art. 41 rozporządzenia nr 651/2014,
+produkcji wodoru odnawialnego – zgodnie z art. 41 rozporządzenia nr 651/2014,
 5)
 przedsięwzięciom w ramach efektywnego energetycznie systemu ciepłowniczego lub chłodniczego w zakresie:
 a)
 budowy lub modernizacji sieci ciepłowniczych,
 b)
-wytwarzania lub magazynowania energii
-zgodnie z art. 46 rozporządzenia nr 651/2014,
+wytwarzania lub magazynowania energii – zgodnie z art. 46 rozporządzenia nr 651/2014,
 6)
 budowie lub modernizacji infrastruktury energetycznej, w tym w zakresie wodoru – zgodnie z art. 48 rozporządzenia nr 651/2014,
 7)
-badaniom i usługom doradczym dotyczącym ochrony środowiska i kwestii energetycznych – zgodnie z art. 49 rozporządzenia nr 651/2014
-zwanej dalej „pomocą”, a także podmiot jej udzielający.
+badaniom i usługom doradczym dotyczącym ochrony środowiska i kwestii energetycznych – zgodnie z art. 49 rozporządzenia nr 651/2014 – zwanej dalej „pomocą”, a także podmiot jej udzielający.
 § 2.
 Pomoc jest udzielana na zasadach określonych w rozporządzeniu nr 651/2014.
 § 3.
@@ -143,7 +139,7 @@ Maksymalna intensywność pomocy, o której mowa w § 1 pkt 2, nie może przekro
 1)
 30 %;
 2)
-25 % – gdy projekt inwestycyjny polega na instalacji lub wymianie tylko jednego rodzaju elementu budynku w rozumieniu art. 2 pkt 9 dyrektywy Parlamentu Europejskiego i Rady 2010/31/UE z dnia 19 maja 2010 r. w sprawie charakterystyki energetycznej budynków (Dz. Urz. UE L 153 z 18.06.2010, str. 13, z późn. zm.);
+25 % – gdy projekt inwestycyjny polega na instalacji lub wymianie tylko jednego rodzaju elementu budynku w rozumieniu art. 2 pkt 9 dyrektywy Parlamentu Europejskiego i Rady 2010/31/UE z dnia 19 maja 2010 r. w sprawie charakterystyki energetycznej budynków (Dz. Urz. UE L 153 z 18.06.2010, str. 13, z późn. zm.)Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 156 z 19.06.2018, str. 75 oraz Dz. Urz. UE L 328 z 21.12.2018, str. 1.;
 3)
 w przypadku, o którym mowa w art. 38a ust. 13 rozporządzenia nr 651/2014:
 a)
@@ -265,6 +261,5 @@ Po przeprowadzeniu oceny wniosku pomocy udziela się przedsiębiorcy na podstawi
 § 20.
 Pomoc jest udzielana do dnia 31 sierpnia 2026 r.
 § 21.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 3) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 156 z 19.06.2018, str. 75 oraz Dz. Urz. UE L 328 z 21.12.2018, str. 1.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 3) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 156 z 19.06.2018, str. 75 oraz Dz. Urz. UE L 328 z 21.12.2018, str. 1.
 

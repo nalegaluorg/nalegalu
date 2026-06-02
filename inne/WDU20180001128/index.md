@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 12 kwietnia 2018 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 12 kwietnia 2018 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej oraz ustawę z dnia 21 lipca 2016 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-04-12 |
 | Data wydania | 2018-06-12 |
-| Wejście w życie | 2018-07-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001128) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1128/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697, 730, 771, 858, 912, 932 i 1115.) wprowadza się następujące zmiany:
 
 - **1)** w art. 95d: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -76,8 +75,12 @@ source: "eli-html"
 
 - **1)** wykonującego działalność leczniczą,
 - **2)** zamierzającego wykonywać działalność leczniczą,
-- **3)** zamierzającego utworzyć podmiot leczniczy zwanego dalej „podmiotem wnioskującym”. ” , w ust. 3: – po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) w przypadku inwestycji dotyczącej więcej niż jednej lekarskiej dziedziny medycyny wymienionej w przepisach wykonawczych wydanych na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej – informacje o częściach inwestycji, służących udzielaniu świadczeń opieki zdrowotnej w zakresie wskazanych dziedzin medycyny, oraz ich szacowaną wartość; ” , – pkt 6 otrzymuje brzmienie: „ 6) wypełniony formularz określony w przepisach wydanych na podstawie art. 95h ust. 1, w przypadku tworzenia nowego podmiotu leczniczego lub innej inwestycji skutkującej zmianą zakresu udzielanych świadczeń opieki zdrowotnej, wraz z jego numerem wygenerowanym za pośrednictwem systemu IOWISZ nie wcześniej niż w terminie miesiąca przed dniem złożenia wniosku; ” , – po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) wypełniony formularz określony w przepisach wydanych na podstawie art. 95h ust. 2, w przypadku inwestycji pozostających bez wpływu na zakres udzielanych świadczeń opieki zdrowotnej, wraz z jego numerem wygenerowanym za pośrednictwem systemu IOWISZ nie wcześniej niż w terminie miesiąca przed dniem złożenia wniosku; ” , ust. 6 otrzymuje brzmienie: „
+- **3)** zamierzającego utworzyć podmiot leczniczy – zwanego dalej „podmiotem wnioskującym”. ” , w ust. 3: po pkt 5 dodaje się pkt 5a w brzmieniu: „
     - **b)**
+
+- **5a)** w przypadku inwestycji dotyczącej więcej niż jednej lekarskiej dziedziny medycyny wymienionej w przepisach wykonawczych wydanych na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej – informacje o częściach inwestycji, służących udzielaniu świadczeń opieki zdrowotnej w zakresie wskazanych dziedzin medycyny, oraz ich szacowaną wartość; ” , pkt 6 otrzymuje brzmienie: „
+- **6)** wypełniony formularz określony w przepisach wydanych na podstawie art. 95h ust. 1, w przypadku tworzenia nowego podmiotu leczniczego lub innej inwestycji skutkującej zmianą zakresu udzielanych świadczeń opieki zdrowotnej, wraz z jego numerem wygenerowanym za pośrednictwem systemu IOWISZ nie wcześniej niż w terminie miesiąca przed dniem złożenia wniosku; ” , po pkt 6 dodaje się pkt 6a w brzmieniu: „
+- **6a)** wypełniony formularz określony w przepisach wydanych na podstawie art. 95h ust. 2, w przypadku inwestycji pozostających bez wpływu na zakres udzielanych świadczeń opieki zdrowotnej, wraz z jego numerem wygenerowanym za pośrednictwem systemu IOWISZ nie wcześniej niż w terminie miesiąca przed dniem złożenia wniosku; ” , ust. 6 otrzymuje brzmienie: „
     - **c)**
 
 6. Złożenie wniosku o wydanie opinii, o której mowa w art. 95d ust. 1, podlega opłacie:
@@ -96,7 +99,7 @@ source: "eli-html"
 
 - **1)** wzór wniosku zawierającego formularz Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia wraz ze wskazaniem kryteriów oceny inwestycji pozostających bez wpływu na zakres udzielanych świadczeń opieki zdrowotnej, przypisaniem im wagi oraz określeniem skali punktów możliwych do uzyskania w zakresie poszczególnych kryteriów,
 - **2)** sposób obliczania całkowitego wyniku punktowego w zakresie dokonywania oceny celowości, o której mowa w art. 95d ust. 1, w tym sposób obliczania tego wyniku przez każdy z podmiotów określonych w art. 95f ust. 9,
-- **3)** minimalną liczbę punktów wymaganą do uzyskania pozytywnej opinii, o której mowa w art. 95d ust. 1 mając na celu uwzględnienie w opinii map i priorytetów dla regionalnej polityki zdrowotnej, o których mowa w art. 95c, zapewnienie jednolitości wniosków, porównywalnej i spójnej metodyki dokonywania oceny celowości inwestycji i jej przejrzystości oraz jej zbieżności z potrzebami istotnymi z punktu widzenia ochrony zdrowia. ” ;
+- **3)** minimalną liczbę punktów wymaganą do uzyskania pozytywnej opinii, o której mowa w art. 95d ust. 1 – mając na celu uwzględnienie w opinii map i priorytetów dla regionalnej polityki zdrowotnej, o których mowa w art. 95c, zapewnienie jednolitości wniosków, porównywalnej i spójnej metodyki dokonywania oceny celowości inwestycji i jej przejrzystości oraz jej zbieżności z potrzebami istotnymi z punktu widzenia ochrony zdrowia. ” ;
 - **4)** w art. 95i: w ust. 3 pkt 5 otrzymuje brzmienie: „
     - **a)**
 
@@ -169,14 +172,14 @@ source: "eli-html"
 - **2)** 2 etaty, w przypadku złożenia co najmniej 250 wniosków lub protestów,
 - **3)** 3 etaty, w przypadku złożenia co najmniej 300 wniosków lub protestów,
 - **4)** 4 etaty, w przypadku złożenia co najmniej 350 wniosków lub protestów,
-- **5)** 5 etatów, w przypadku złożenia co najmniej 400 wniosków lub protestów o których mowa w art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+- **5)** 5 etatów, w przypadku złożenia co najmniej 400 wniosków lub protestów – o których mowa w art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 4. W ramach limitu, o którym mowa w ust. 2 pkt 2, zatrudnienie w urzędach wojewódzkich nie przekroczy 5 etatów na dany urząd, przy czym w 2018 r. wyniesie co najmniej 1 etat. W przypadku złożenia do danego wojewody w danym roku kalendarzowym określonej liczby wniosków lub protestów zatrudnienie ulega zwiększeniu o:
 
 - **1)** 1 etat, w przypadku złożenia co najmniej 75 wniosków lub protestów,
 - **2)** 2 etaty, w przypadku złożenia co najmniej 100 wniosków lub protestów,
 - **3)** 3 etaty, w przypadku złożenia co najmniej 150 wniosków lub protestów,
-- **4)** 4 etaty, w przypadku złożenia co najmniej 200 wniosków lub protestów o których mowa w art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+- **4)** 4 etaty, w przypadku złożenia co najmniej 200 wniosków lub protestów – o których mowa w art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 5. Wojewodowie i minister właściwy do spraw zdrowia monitorują wykorzystanie limitów wydatków, o których mowa w ust. 1, w częściach pozostających odpowiednio w ich dyspozycji.
 
@@ -191,5 +194,5 @@ source: "eli-html"
 
 2. Do postępowań w sprawie dotacji, o której mowa w art. 115 ust. 3 ustawy zmienianej w art. 2, na realizację zadań, o których mowa w art. 114 ust. 1 pkt 2 i 3 tej ustawy, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 95h ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 95h ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 95h ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 95h ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej oraz ustawę z dnia 21 lipca 2016 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107, 138, 650, 697, 730, 771, 858, 912, 932 i 1115.
 

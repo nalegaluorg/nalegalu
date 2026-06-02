@@ -31,12 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 28 października 2010 r. w sprawie trybu wyboru członków komisji do spraw etyki w nauce, trybu jej prac i sposobu wykorzystania wiążących opinii komisji oraz sposobu finansowania (Dz. U. Nr 215, poz. 1413), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 7 listopada 2012 r. zmieniającym rozporządzenie w sprawie trybu wyboru członków komisji do spraw etyki w nauce, trybu jej prac i sposobu wykorzystania wiążących opinii komisji oraz sposobu finansowania (Dz. U. poz. 1288).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 7 listopada 2012 r. zmieniającego rozporządzenie w sprawie trybu wyboru członków komisji do spraw etyki w nauce, trybu jej prac i sposobu wykorzystania wiążących opinii komisji oraz sposobu finansowania (Dz. U. poz. 1288), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 7 listopada 2012 r. zmieniającego rozporządzenie w sprawie trybu wyboru członków komisji do spraw etyki w nauce, trybu jej prac i sposobu wykorzystania wiążących opinii komisji oraz sposobu finansowania (Dz. U. poz. 1288), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Tekst jednolity rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 28 października 2010 r. w sprawie trybu wyboru członków komisji do spraw etyki w nauce, trybu jej prac i sposobu wykorzystania wiążących opinii komisji oraz sposobu finansowania
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 28 października 2010 r. w sprawie trybu wyboru członków komisji do spraw etyki w nauce, trybu jej prac i sposobu wykorzystania wiążących opinii komisji oraz sposobu finansowaniaMinister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – nauka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. Nr 248, poz. 1483).
 Na podstawie art. 40 ust. 6 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. Nr 96, poz. 619, z 2011 r. Nr 84, poz. 455 oraz z 2013 r. poz. 675) zarządza się, co następuje:
 § 1.
 W skład komisji do spraw etyki w nauce, zwanej dalej „komisją”, wchodzi nie więcej niż 9 członków wybranych przez Zgromadzenie Ogólne Polskiej Akademii Nauk, zwanej dalej „Akademią”.
@@ -58,7 +56,7 @@ Prezydium Akademii;
 5)
 Radę Główną Instytutów Badawczych;
 6)
-Radę Główną Szkolnictwa Wyższego;
+Radę Główną Szkolnictwa WyższegoObecnie: Rada Główna Nauki i Szkolnictwa Wyższego, stosownie do art. 19 ustawy z dnia 18 marca 2011 r. o zmianie ustawy – Prawo o szkolnictwie wyższym, ustawy o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki oraz o zmianie niektórych innych ustaw (Dz. U. Nr 84, poz. 455), która weszła w życie z dniem 1 października 2011 r.;
 7)
 inne podmioty reprezentujące środowisko nauki i szkolnictwa wyższego w Rzeczypospolitej Polskiej.
 § 4.
@@ -112,7 +110,7 @@ kieruje do zespołów orzekających sprawy dotyczące naruszeń zasad etyki w na
 zapewnia sprawne i terminowe załatwianie spraw i wyrażanie opinii w sprawach naruszeń zasad etyki w nauce;
 5)
 informuje Prezesa Akademii o pracach komisji;
-6)
+6W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 7 listopada 2012 r. zmieniającego rozporządzenie w sprawie trybu wyboru członków komisji do spraw etyki w nauce, trybu jej prac i sposobu wykorzystania wiążących opinii komisji oraz sposobu finansowania (Dz. U. poz. 1288), które weszło w życie z dniem 7 grudnia 2012 r.)
 przedstawia Zgromadzeniu Ogólnemu Akademii informację o działalności komisji, w terminie do dnia 31 maja każdego roku.
 § 10.
 1.
@@ -161,6 +159,5 @@ Koszty funkcjonowania komisji są pokrywane z wyodrębnionej części budżetu p
 § 18.
 Wyboru członków komisji pierwszej kadencji dokonuje się do dnia 30 czerwca 2011 r.
 § 19.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – nauka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. Nr 248, poz. 1483). 2) Obecnie: Rada Główna Nauki i Szkolnictwa Wyższego, stosownie do art. 19 ustawy z dnia 18 marca 2011 r. o zmianie ustawy – Prawo o szkolnictwie wyższym, ustawy o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki oraz o zmianie niektórych innych ustaw (Dz. U. Nr 84, poz. 455), która weszła w życie z dniem 1 października 2011 r. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 7 listopada 2012 r. zmieniającego rozporządzenie w sprawie trybu wyboru członków komisji do spraw etyki w nauce, trybu jej prac i sposobu wykorzystania wiążących opinii komisji oraz sposobu finansowania (Dz. U. poz. 1288), które weszło w życie z dniem 7 grudnia 2012 r. 4) Rozporządzenie zostało ogłoszone w dniu 16 listopada 2010 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 16 listopada 2010 r.. 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – nauka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. Nr 248, poz. 1483). 2) Obecnie: Rada Główna Nauki i Szkolnictwa Wyższego, stosownie do art. 19 ustawy z dnia 18 marca 2011 r. o zmianie ustawy – Prawo o szkolnictwie wyższym, ustawy o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki oraz o zmianie niektórych innych ustaw (Dz. U. Nr 84, poz. 455), która weszła w życie z dniem 1 października 2011 r. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 7 listopada 2012 r. zmieniającego rozporządzenie w sprawie trybu wyboru członków komisji do spraw etyki w nauce, trybu jej prac i sposobu wykorzystania wiążących opinii komisji oraz sposobu finansowania (Dz. U. poz. 1288), które weszło w życie z dniem 7 grudnia 2012 r. 4) Rozporządzenie zostało ogłoszone w dniu 16 listopada 2010 r.
 

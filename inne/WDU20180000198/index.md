@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 19 stycznia 2018 r. zmieniające rozporządzenie w sprawie testu sprawności fizycznej funkcjonariuszy Straży Granicznej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 19 stycznia 2018 r. zmieniające rozporządzenie w sprawie testu sprawności fizycznej funkcjonariuszy Straży Granicznej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-19 |
 | Data wydania | 2018-01-24 |
-| Wejście w życie | 2018-01-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000198) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/198/text.pdf) |
 
@@ -33,26 +32,19 @@ W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 maja 20
 1)
 w § 6:
 a)
-w ust. 1 pkt 2 otrzymuje brzmienie:
-„
+w ust. 1 pkt 2 otrzymuje brzmienie: „
 2)
-Biurze Spraw Wewnętrznych Straży Granicznej, oddziałach, ośrodkach szkolenia i ośrodkach Straży Granicznej, zwanych dalej „jednostkami”, dla funkcjonariuszy pełniących służbę w tych jednostkach.
-” ,
+Biurze Spraw Wewnętrznych Straży Granicznej, oddziałach, ośrodkach szkolenia i ośrodkach Straży Granicznej, zwanych dalej „jednostkami”, dla funkcjonariuszy pełniących służbę w tych jednostkach. ” ,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Komisje, o których mowa w ust. 1 pkt 2, z wyjątkiem komisji powołanej w Nadwiślańskim Oddziale Straży Granicznej im. Powstania Warszawskiego w Warszawie, przeprowadzają testy również dla pozostających na ich zaopatrzeniu funkcjonariuszy pełniących służbę w Komendzie Głównej i Biurze Spraw Wewnętrznych Straży Granicznej.
-” ;
+Komisje, o których mowa w ust. 1 pkt 2, z wyjątkiem komisji powołanej w Nadwiślańskim Oddziale Straży Granicznej im. Powstania Warszawskiego w Warszawie, przeprowadzają testy również dla pozostających na ich zaopatrzeniu funkcjonariuszy pełniących służbę w Komendzie Głównej i Biurze Spraw Wewnętrznych Straży Granicznej. ” ;
 2)
-w § 8 w ust. 1 pkt 5 otrzymuje brzmienie:
-„
+w § 8 w ust. 1 pkt 5 otrzymuje brzmienie: „
 5)
-oddelegowania do wykonywania zadań poza Strażą Graniczną;
-” .
+oddelegowania do wykonywania zadań poza Strażą Graniczną; ” .
 § 2.
 Komisja powołana w Komendzie Głównej Straży Granicznej do przeprowadzenia testu sprawności fizycznej funkcjonariuszy Straży Granicznej na rok 2017 przeprowadzi testy w terminach dodatkowych i terminie poprawkowym funkcjonariuszom Biura Spraw Wewnętrznych Straży Granicznej pełniącym służbę w siedzibie Komendanta Biura Spraw Wewnętrznych Straży Granicznej.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97).
+Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 17 listopada 2006 r. o zmianie ustawy o transporcie drogowym oraz o zmianie ustawy – Prawo o ruchu drogowym
+# Ustawa z dnia 17 listopada 2006 r. o zmianie ustawy o transporcie drogowym oraz o zmianie ustawy – Prawo o ruchu drogowym Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy nr 2003/59/WE Parlamentu Europejskiego i Rady z dnia 15 lipca 2003 r. w sprawie wstępnej kwalifikacji i okresowego szkolenia kierowców niektórych pojazdów drogowych do przewozu rzeczy lub osób, zmieniającej rozporządzenie Rady (EWG) nr 3820/85 oraz dyrektywę Rady 91/439/EWG i uchylającej dyrektywę Rady 76/914/EWG (Dz. Urz. UE L 226/4 z 10.09.2003, str. 4; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 441).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-11-17 |
 | Data wydania | 2006-12-19 |
-| Wejście w życie | 2007-01-03 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062351701) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1701/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2004 r. Nr 204, poz. 2088, z późn. zm.) wprowadza się następujące zmiany:
+Kierowcy wykonujący przewóz drogowy
+Doskonalenie umiejętności osób posiadających uprawnienia do kierowania pojazdem silnikowym
+
+**Art. 1.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2004 r. Nr 204, poz. 2088, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 141, poz. 1184, Nr 155, poz. 1297, Nr 163, poz. 1362, Nr 172, poz. 1440, Nr 175, poz. 1462 i Nr 180, poz. 1494 i 1497 oraz z 2006 r. Nr 170, poz. 1217 i 1218 i Nr 171, poz. 1225.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6 w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
@@ -37,14 +39,14 @@ source: "eli-html"
 
 - **2)** rozdział 7a otrzymuje brzmienie: „
 
-#### Rozdział 7a Kierowcy wykonujący przewóz drogowy
+#### Rozdział 7a
 
 **Art. 39a.**
 
 1. Przedsiębiorca lub inny podmiot wykonujący przewóz drogowy może zatrudnić kierowcę, jeżeli osoba ta:
 
 - **1)** ukończyła 21 lat;
-- **2)** posiada odpowiednie uprawnienie do kierowania pojazdem samochodowym, określone w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.);
+- **2)** posiada odpowiednie uprawnienie do kierowania pojazdem samochodowym, określone w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497 oraz z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400 i Nr 191, poz. 1410.);
 - **3)** nie ma przeciwwskazań zdrowotnych do wykonywania pracy na stanowisku kierowcy;
 - **4)** nie ma przeciwwskazań psychologicznych do wykonywania pracy na stanowisku kierowcy;
 - **5)** uzyskała kwalifikację wstępną;
@@ -189,7 +191,7 @@ source: "eli-html"
 
 9. W przypadku osoby zamieszkałej na terytorium Rzeczypospolitej Polskiej i wykonującej przewozy na rzecz podmiotu mającego siedzibę za granicą wymagania, o których mowa w art. 39a ust. 1 pkt 6, uznaje się za spełnione, gdy osoba ta posiada w prawie jazdy albo w karcie kwalifikacji kierowcy aktualny wpis potwierdzający ukończenie szkolenia okresowego w innym państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym.
 
-1. Działalność gospodarcza w zakresie prowadzenia ośrodka szkolenia stanowi działalność regulowaną w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807, z późn. zm.) i wymaga uzyskania wpisu do rejestru przedsiębiorców prowadzących ośrodek szkolenia.
+1. Działalność gospodarcza w zakresie prowadzenia ośrodka szkolenia stanowi działalność regulowaną w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2777, z 2005 r. Nr 33, poz. 289, Nr 94, poz. 788, Nr 143, poz. 1199, Nr 175, poz. 1460, Nr 177, poz. 1468, Nr 178, poz. 1480, Nr 179, poz. 1485, Nr 180, poz. 1494 i Nr 183, poz. 1538 oraz z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1043 i 1045, Nr 158, poz. 1121, Nr 171, poz. 1225 i Nr 235, poz. 1699.) i wymaga uzyskania wpisu do rejestru przedsiębiorców prowadzących ośrodek szkolenia.
 
 2. Warunki wykonywania działalności gospodarczej w zakresie prowadzenia ośrodka szkolenia spełnia przedsiębiorca, który:
 
@@ -299,7 +301,7 @@ source: "eli-html"
 
 1. Kierowca wykonujący przewóz drogowy podlega badaniom lekarskim przeprowadzanym w celu stwierdzenia istnienia lub braku przeciwwskazań zdrowotnych do wykonywania pracy na stanowisku kierowcy.
 
-2. Badania lekarskie, o których mowa w ust. 1, są wykonywane, z zastrzeżeniem ust. 3–6, w zakresie i na zasadach określonych w przepisach ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.), zwanej dalej „Kodeksem pracy”.
+2. Badania lekarskie, o których mowa w ust. 1, są wykonywane, z zastrzeżeniem ust. 3–6, w zakresie i na zasadach określonych w przepisach ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398 oraz z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615.), zwanej dalej „Kodeksem pracy”.
 
 3. Zakres badań lekarskich, o których mowa w ust. 1, obejmuje ponadto ustalenie istnienia lub braku przeciwwskazań zdrowotnych do kierowania pojazdami, zgodnie z ustawą z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
@@ -347,14 +349,17 @@ source: "eli-html"
 
 2. Podczas przewozu drogowego wykonywanego na potrzeby własne kontrolowany jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu kontroli, oprócz odpowiednich dokumentów wymaganych przy takim przewozie, określonych w ust. 1, wypis zaświadczenia, o którym mowa w art. 33 ust. 10. ” .
 
-**Art. 2.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497 oraz z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400 i Nr 191, poz. 1410.) wprowadza się następujące zmiany:
 
 - **1)** po art. 79a dodaje się art. 79b w brzmieniu: „
 
 **Art. 79b.** W przypadku gdy zmiana stanu faktycznego w zakresie adresu właściciela lub posiadacza pojazdu, wymagająca wydania nowego dowodu rejestracyjnego pojazdu, spowodowana została zmianami administracyjnymi, rada powiatu może, w drodze uchwały, zmniejszyć opłatę lub zwolnić od jej uiszczenia osoby obowiązane do ubiegania się o wydanie tego dokumentu. ” ;
 
-- **2)** w art. 80d: w ust. 4: – pkt 2 otrzymuje brzmienie: „ 2) opłata ewidencyjna, o której mowa w art. 75 ust. 2, art. 77 ust. 3, art. 82 ust. 2, art. 97 ust. 1, art. 115h ust. 6 pkt 2 i art. 150 ust. 1; ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) opłata ewidencyjna, o której mowa w art. 39g ust. 9 pkt 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2004 r. Nr 204, poz. 2088, z późn. zm.). ” , ust. 6 otrzymuje brzmienie: „
+- **2)** w art. 80d: w ust. 4: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** opłata ewidencyjna, o której mowa w art. 75 ust. 2, art. 77 ust. 3, art. 82 ust. 2, art. 97 ust. 1, art. 115h ust. 6 pkt 2 i art. 150 ust. 1; ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** opłata ewidencyjna, o której mowa w art. 39g ust. 9 pkt 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2004 r. Nr 204, poz. 2088, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 141, poz. 1184, Nr 155, poz. 1297, Nr 163, poz. 1362, Nr 172, poz. 1440, Nr 175, poz. 1462 i Nr 180, poz. 1494 i 1497 oraz z 2006 r. Nr 170, poz. 1217 i 1218, Nr 171, poz. 1225 i Nr 235, poz. 1701.). ” , ust. 6 otrzymuje brzmienie: „
     - **b)**
 
 6. Wysokość każdej opłaty ewidencyjnej, o której mowa w art. 75 ust. 2, art. 77 ust. 3, art. 82 ust. 2, art. 97 ust. 1, art. 115h ust. 6 pkt 2 i art. 150 ust. 1, a także w art. 39g ust. 9 pkt 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym, nie może przekroczyć równowartości w złotych 0,5 euro ustalonej przy zastosowaniu kursu średniego ustalonego przez Narodowy Bank Polski w dniu wydania rozporządzenia, o którym mowa w ust. 7. ” , w ust. 7 pkt 1 otrzymuje brzmienie: „
@@ -391,7 +396,7 @@ source: "eli-html"
 
 - **1)** świadectwa kwalifikacji zawodowej potwierdzającego uzyskanie kwalifikacji wstępnej albo świadectwa kwalifikacji zawodowej potwierdzającego ukończenie szkolenia okresowego;
 - **2)** orzeczenia lekarskiego stwierdzającego brak przeciwwskazań lekarskich do wykonywania pracy na stanowisku kierowcy;
-- **3)** orzeczenia psychologicznego stwierdzającego brak przeciwwskazań psychologicznych do wykonywania pracy na stanowisku kierowcy o których mowa w przepisach ustawy wymienionej w ust. 1.
+- **3)** orzeczenia psychologicznego stwierdzającego brak przeciwwskazań psychologicznych do wykonywania pracy na stanowisku kierowcy – o których mowa w przepisach ustawy wymienionej w ust. 1.
 
 3. Wpis dokonywany jest w formie wymiany prawa jazdy. Prawo jazdy w zakresie kategorii, której dotyczy wpis, wydaje się na okres 5 lat, liczony od daty wydania świadectwa kwalifikacji zawodowej, o którym mowa w ustawie z dnia 6 września 2001 r. o transporcie drogowym, przy czym termin ten nie może być dłuższy niż okres ważności orzeczenia, o którym mowa w art. 39j ust. 4 lub art. 39k ust. 3 tej ustawy.
 
@@ -401,13 +406,21 @@ source: "eli-html"
 
 **Art. 98a.** W przypadku gdy zmiana stanu faktycznego w zakresie adresu kierowcy wymagająca wydania nowego prawa jazdy, spowodowana została zmianami administracyjnymi, rada powiatu może, w drodze uchwały, zmniejszyć opłatę lub zwolnić od jej uiszczenia osoby obowiązane do ubiegania się o wydanie tego dokumentu. ” ;
 
-- **6)** w art. 100b: w ust. 1: – po pkt 8 dodaje się pkt 8a w brzmieniu: „ 8a) spełnianie wymagań dotyczących uprawnień; ” , – w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12–14 w brzmieniu: „ 12) zakres, numer i datę wydania świadectwa kwalifikacji zawodowej potwierdzającego uzyskanie kwalifikacji wstępnej, o którym mowa w art. 39c ust. 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym; 13) zakres, numer i datę wydania świadectwa kwalifikacji zawodowej potwierdzającego ukończenie szkolenia okresowego, o którym mowa w art. 39e ust. 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym; 14) zakres, numer i datę wydania karty kwalifikacji kierowcy, o której mowa w art. 39f ustawy z dnia 6 września 2001 r. o transporcie drogowym. ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) wymienione w pkt 1–9 i 14 – organ właściwy w sprawach wydawania dokumentów stwierdzających uprawnienia do kierowania pojazdami, niezwłocznie po wydaniu dokumentu stwierdzającego uprawnienie; ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „ 4) wymienione w pkt 12 – wojewoda lub dyrektor Okręgowej Komisji Egzaminacyjnej; 5) wymienione w pkt 13 – kierownik ośrodka szkolenia, o którym mowa w przepisach ustawy z dnia 6 września 2001 r. o transporcie drogowym. ” ;
+- **6)** w art. 100b: w ust. 1: po pkt 8 dodaje się pkt 8a w brzmieniu: „
     - **a)**
+
+- **8a)** spełnianie wymagań dotyczących uprawnień; ” , w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12–14 w brzmieniu: „
+- **12)** zakres, numer i datę wydania świadectwa kwalifikacji zawodowej potwierdzającego uzyskanie kwalifikacji wstępnej, o którym mowa w art. 39c ust. 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym;
+- **13)** zakres, numer i datę wydania świadectwa kwalifikacji zawodowej potwierdzającego ukończenie szkolenia okresowego, o którym mowa w art. 39e ust. 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym;
+- **14)** zakres, numer i datę wydania karty kwalifikacji kierowcy, o której mowa w art. 39f ustawy z dnia 6 września 2001 r. o transporcie drogowym. ” , w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **b)**
 
+- **1)** wymienione w pkt 1–9 i 14 – organ właściwy w sprawach wydawania dokumentów stwierdzających uprawnienia do kierowania pojazdami, niezwłocznie po wydaniu dokumentu stwierdzającego uprawnienie; ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „
+- **4)** wymienione w pkt 12 – wojewoda lub dyrektor Okręgowej Komisji Egzaminacyjnej;
+- **5)** wymienione w pkt 13 – kierownik ośrodka szkolenia, o którym mowa w przepisach ustawy z dnia 6 września 2001 r. o transporcie drogowym. ” ;
 - **7)** w dziale IV po rozdziale 2a dodaje się rozdział 2b w brzmieniu: „
 
-#### Rozdział 2b Doskonalenie umiejętności osób posiadających uprawnienia do kierowania pojazdem silnikowym
+#### Rozdział 2b
 
 **Art. 115f.**
 
@@ -418,11 +431,11 @@ source: "eli-html"
 - **1)** przedsiębiorcę;
 - **2)** jednostkę wojskową lub jednostkę organizacyjną resortu spraw wewnętrznych – w zakresie szkolenia kierowców na potrzeby jednostek organizacyjnych tych resortów.
 
-1. Działalność gospodarcza w zakresie prowadzenia ośrodka doskonalenia techniki jazdy stanowi działalność regulowaną w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807, z późn. zm.) i wymaga uzyskania wpisu do rejestru przedsiębiorców prowadzących ośrodek doskonalenia techniki jazdy.
+1. Działalność gospodarcza w zakresie prowadzenia ośrodka doskonalenia techniki jazdy stanowi działalność regulowaną w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2777, z 2005 r. Nr 33, poz. 289, Nr 94, poz. 788, Nr 143, poz. 1199, Nr 175, poz. 1460, Nr 177, poz. 1468, Nr 178, poz. 1480, Nr 179, poz. 1485, Nr 180, poz. 1494 i Nr 183, poz. 1538 oraz z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1043 i 1045, Nr 158, poz. 1121, Nr 171, poz. 1225 i Nr 235, poz. 1699.) i wymaga uzyskania wpisu do rejestru przedsiębiorców prowadzących ośrodek doskonalenia techniki jazdy.
 
 2. Ośrodek doskonalenia techniki jazdy może prowadzić przedsiębiorca, który:
 
-- **1)** posiada: infrastrukturę techniczną, pojazdy odpowiednie do prowadzenia zajęć, warunki lokalowe i wyposażenie dydaktyczne pozwalające na bezpieczne i zgodne z programem wykonywanie ćwiczeń praktycznych;
+- **1)** posiada: infrastrukturę techniczną, pojazdy odpowiednie do prowadzenia zajęć, warunki lokalowe i wyposażenie dydaktyczne – pozwalające na bezpieczne i zgodne z programem wykonywanie ćwiczeń praktycznych;
     - **a)**
     - **b)**
     - **c)**
@@ -613,7 +626,7 @@ source: "eli-html"
 1. Osoby, o których mowa w art. 3 ust. 1, zamierzające podjąć po raz pierwszy pracę na stanowisku kierowcy przed dniem 10 września 2010 r., obowiązane są ukończyć kurs dokształcający:
 
 - **1)** kierowców przewożących rzeczy – dla kierowców pojazdów samochodowych konstrukcyjnie przystosowanych do przewozu rzeczy,
-- **2)** kierowców przewożących osoby – dla kierowców pojazdów samochodowych konstrukcyjnie przystosowanych do przewozu osób, z wyłączeniem taksówek zgodnie z przepisami obowiązującymi przed dniem wejścia w życie niniejszej ustawy.
+- **2)** kierowców przewożących osoby – dla kierowców pojazdów samochodowych konstrukcyjnie przystosowanych do przewozu osób, z wyłączeniem taksówek – zgodnie z przepisami obowiązującymi przed dniem wejścia w życie niniejszej ustawy.
 
 2. Osoby, o których mowa w art. 3 ust. 1, zamierzające podjąć po raz pierwszy pracę na stanowisku kierowcy po dniu 10 września 2010 r., obowiązane są ukończyć szkolenie okresowe, o którym mowa w art. 39d ustawy określonej w art. 1.
 
@@ -638,5 +651,5 @@ source: "eli-html"
 - **1)** w zakresie kursów dokształcających dla prawa jazdy kategorii D i D1 nie dłużej niż do dnia 10 września 2009 r.;
 - **2)** w zakresie kursów dokształcających dla prawa jazdy kategorii C i C1 nie dłużej niż do dnia 10 września 2010 r.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy nr 2003/59/WE Parlamentu Europejskiego i Rady z dnia 15 lipca 2003 r. w sprawie wstępnej kwalifikacji i okresowego szkolenia kierowców niektórych pojazdów drogowych do przewozu rzeczy lub osób, zmieniającej rozporządzenie Rady (EWG) nr 3820/85 oraz dyrektywę Rady 91/439/EWG i uchylającej dyrektywę Rady 76/914/EWG (Dz. Urz. UE L 226/4 z 10.09.2003, str. 4; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 441). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 141, poz. 1184, Nr 155, poz. 1297, Nr 163, poz. 1362, Nr 172, poz. 1440, Nr 175, poz. 1462 i Nr 180, poz. 1494 i 1497 oraz z 2006 r. Nr 170, poz. 1217 i 1218 i Nr 171, poz. 1225. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497 oraz z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400 i Nr 191, poz. 1410. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2777, z 2005 r. Nr 33, poz. 289, Nr 94, poz. 788, Nr 143, poz. 1199, Nr 175, poz. 1460, Nr 177, poz. 1468, Nr 178, poz. 1480, Nr 179, poz. 1485, Nr 180, poz. 1494 i Nr 183, poz. 1538 oraz z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1043 i 1045, Nr 158, poz. 1121, Nr 171, poz. 1225 i Nr 235, poz. 1699. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398 oraz z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497 oraz z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400 i Nr 191, poz. 1410. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 141, poz. 1184, Nr 155, poz. 1297, Nr 163, poz. 1362, Nr 172, poz. 1440, Nr 175, poz. 1462 i Nr 180, poz. 1494 i 1497 oraz z 2006 r. Nr 170, poz. 1217 i 1218, Nr 171, poz. 1225 i Nr 235, poz. 1701. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2777, z 2005 r. Nr 33, poz. 289, Nr 94, poz. 788, Nr 143, poz. 1199, Nr 175, poz. 1460, Nr 177, poz. 1468, Nr 178, poz. 1480, Nr 179, poz. 1485, Nr 180, poz. 1494 i Nr 183, poz. 1538 oraz z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1043 i 1045, Nr 158, poz. 1121, Nr 171, poz. 1225 i Nr 235, poz. 1699.
 

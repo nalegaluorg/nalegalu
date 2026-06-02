@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 26 lutego 2018 r. w sprawie środków na finansowanie płatności w ramach wspólnej polityki rolnej
+# Rozporządzenie Ministra Finansówz dnia 26 lutego 2018 r. w sprawie środków na finansowanie płatności w ramach wspólnej polityki rolnej Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-02-26 |
 | Data wydania | 2018-03-14 |
-| Wejście w życie | 2018-03-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000541) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/541/text.pdf) |
 
@@ -91,7 +90,7 @@ Kwoty przejętych zabezpieczeń oraz kar i grzywien nieobjętych klasyfikacją b
 § 8.
 Środki odzyskane przez agencję płatniczą:
 1)
-w trybie art. 32 ust. 2 rozporządzenia Rady (WE) nr 1290/2005 z dnia 21 czerwca 2005 r. w sprawie finansowania wspólnej polityki rolnej (Dz. Urz. UE L 209 z 11.08.2005, str. 1, z późn. zm.),
+w trybie art. 32 ust. 2 rozporządzenia Rady (WE) nr 1290/2005 z dnia 21 czerwca 2005 r. w sprawie finansowania wspólnej polityki rolnej (Dz. Urz. UE L 209 z 11.08.2005, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 58 z 28.02.2006, str. 42, Dz. Urz. UE L 95 z 05.04.2007, str. 1, Dz. Urz. UE L 322 z 07.12.2007, str. 1, Dz. Urz. UE L 148 z 06.06.2008, str. 1, Dz. Urz. UE L 5 z 09.01.2009, str. 1, Dz. Urz. UE L 30 z 31.01.2009, str. 16, Dz. Urz. UE L 44 z 16.02.2012, str. 1 oraz Dz. Urz. UE L 347 z 20.12.2013, str. 549.),
 2)
 z tytułu:
 a)
@@ -99,15 +98,13 @@ zwrotu, wraz z odsetkami, nienależnie pobranych płatności, w części stanowi
 b)
 przejęcia zabezpieczeń oraz kar odnoszących się do wydatków nieobjętych klasyfikacją budżetową EFRG lub EFRROW,
 c)
-rozliczania z urzędem skarbowym podatku od towarów i usług – VAT
-stanowią dochód budżetu państwa i są przekazywane przez agencję płatniczą na rachunek bankowy właściwego dysponenta w terminie trzech dni od dnia następującego po dniu odzyskania środków, przy czym termin ten ustala się z wyłączeniem sobót oraz dni ustawowo wolnych od pracy, a dysponent ten przekazuje uzyskane od agencji płatniczej środki na rachunek dochodów budżetu państwa, w terminach jak dla dochodów budżetu państwa pobieranych przez państwowe jednostki budżetowe, określonych w przepisach o finansach publicznych.
+rozliczania z urzędem skarbowym podatku od towarów i usług – VAT – stanowią dochód budżetu państwa i są przekazywane przez agencję płatniczą na rachunek bankowy właściwego dysponenta w terminie trzech dni od dnia następującego po dniu odzyskania środków, przy czym termin ten ustala się z wyłączeniem sobót oraz dni ustawowo wolnych od pracy, a dysponent ten przekazuje uzyskane od agencji płatniczej środki na rachunek dochodów budżetu państwa, w terminach jak dla dochodów budżetu państwa pobieranych przez państwowe jednostki budżetowe, określonych w przepisach o finansach publicznych.
 § 9.
 Środki Europejskiego Funduszu Orientacji i Gwarancji Rolnej „Sekcja Gwarancji” odzyskane przez agencję płatniczą z tytułu:
 1)
 zwrotu, wraz z odsetkami, nienależnie pobranych płatności,
 2)
-przejęcia zabezpieczeń oraz kar
-stanowią dochód budżetu państwa w wysokości kwot rozliczonych z Komisją Europejską wynikających z przepisów Unii Europejskiej obowiązujących w tym zakresie i są przekazywane przez agencję płatniczą na rachunek bankowy właściwego dysponenta w terminie trzech dni od dnia następującego po dniu odzyskania środków, przy czym termin ten ustala się z wyłączeniem sobót oraz dni ustawowo wolnych od pracy, a dysponent ten przekazuje uzyskane od agencji płatniczej środki na rachunek dochodów budżetu państwa, w terminach jak dla dochodów budżetu państwa pobieranych przez państwowe jednostki budżetowe, określonych w przepisach o finansach publicznych.
+przejęcia zabezpieczeń oraz kar – stanowią dochód budżetu państwa w wysokości kwot rozliczonych z Komisją Europejską wynikających z przepisów Unii Europejskiej obowiązujących w tym zakresie i są przekazywane przez agencję płatniczą na rachunek bankowy właściwego dysponenta w terminie trzech dni od dnia następującego po dniu odzyskania środków, przy czym termin ten ustala się z wyłączeniem sobót oraz dni ustawowo wolnych od pracy, a dysponent ten przekazuje uzyskane od agencji płatniczej środki na rachunek dochodów budżetu państwa, w terminach jak dla dochodów budżetu państwa pobieranych przez państwowe jednostki budżetowe, określonych w przepisach o finansach publicznych.
 § 10.
 Środki odzyskane z tytułu sprzedaży towarów rolno-spożywczych realizowanej na podstawie przepisów Unii Europejskiej dotyczących działań interwencyjnych na wspólnotowych rynkach rolnych są przekazywane przez agencję płatniczą na rachunek właściwego dysponenta w terminie trzech dni roboczych od dnia następującego po dniu, w którym agencja płatnicza odzyskała te środki, przy czym dzień ten ustala się z wyłączeniem sobót oraz dni ustawowo wolnych od pracy, a dysponent ten przekazuje uzyskane od agencji płatniczej środki na rachunek dochodów budżetu środków europejskich, w terminach jak dla dochodów budżetu państwa pobieranych przez państwowe jednostki budżetowe, określonych w przepisach o finansach publicznych.
 § 11.
@@ -116,15 +113,13 @@ Agencja płatnicza przekazuje ministrowi właściwemu do spraw finansów publicz
 1)
 kwot środków, o których mowa w § 5 ust. 2 i 4 oraz § 8–10,
 2)
-płatności w ramach wspólnej polityki rolnej, zrealizowanych w danym miesiącu, z podziałem na prefinansowanie i współfinansowanie, w tym podatek od towarów i usług – VAT, oraz z podziałem na środki EFRG i EFRROW
-w terminie do końca miesiąca następującego po miesiącu, którego informacja dotyczy.
+płatności w ramach wspólnej polityki rolnej, zrealizowanych w danym miesiącu, z podziałem na prefinansowanie i współfinansowanie, w tym podatek od towarów i usług – VAT, oraz z podziałem na środki EFRG i EFRROW – w terminie do końca miesiąca następującego po miesiącu, którego informacja dotyczy.
 2.
 Minister właściwy do spraw rozwoju wsi przekazuje ministrowi właściwemu do spraw finansów publicznych, w postaci papierowej lub elektronicznej, zbiorcze zestawienie prognozowanych wydatków agencji płatniczej:
 1)
 na kolejny najbliższy miesiąc z podziałem na poszczególne dni miesiąca,
 2)
-na kolejne dwa miesiące z podziałem na poszczególne dekady miesiąca
-w terminie do dwudziestego dnia miesiąca poprzedzającego miesiąc, o którym mowa w pkt 1, przy czym prognozowane wydatki są sporządzane przez ministra właściwego do spraw rozwoju wsi na podstawie danych przekazanych przez agencję płatniczą z podziałem na prefinansowanie i współfinansowanie, w tym podatek od towarów i usług – VAT, oraz z podziałem na środki EFRG i EFRROW.
+na kolejne dwa miesiące z podziałem na poszczególne dekady miesiąca – w terminie do dwudziestego dnia miesiąca poprzedzającego miesiąc, o którym mowa w pkt 1, przy czym prognozowane wydatki są sporządzane przez ministra właściwego do spraw rozwoju wsi na podstawie danych przekazanych przez agencję płatniczą z podziałem na prefinansowanie i współfinansowanie, w tym podatek od towarów i usług – VAT, oraz z podziałem na środki EFRG i EFRROW.
 3.
 Minister właściwy do spraw rozwoju wsi przekazuje ministrowi właściwemu do spraw finansów publicznych, w postaci papierowej lub elektronicznej, zestawienia uznanych przez Komisję Europejską kwot wydatków agencji płatniczej:
 1)
@@ -140,6 +135,5 @@ miesięczne – w terminie do piętnastego dnia miesiąca następującego po mie
 2)
 roczne – w terminie do dnia 15 lutego roku następującego po roku, którego zestawienie dotyczy.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 58 z 28.02.2006, str. 42, Dz. Urz. UE L 95 z 05.04.2007, str. 1, Dz. Urz. UE L 322 z 07.12.2007, str. 1, Dz. Urz. UE L 148 z 06.06.2008, str. 1, Dz. Urz. UE L 5 z 09.01.2009, str. 1, Dz. Urz. UE L 30 z 31.01.2009, str. 16, Dz. Urz. UE L 44 z 16.02.2012, str. 1 oraz Dz. Urz. UE L 347 z 20.12.2013, str. 549. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 12 stycznia 2010 r. w sprawie środków na realizację wspólnej polityki rolnej (Dz. U. z 2015 r. poz. 633), które na podstawie art. 60 ust. 1 pkt 4 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 12 stycznia 2010 r. w sprawie środków na realizację wspólnej polityki rolnej (Dz. U. z 2015 r. poz. 633), które na podstawie art. 60 ust. 1 pkt 4 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 58 z 28.02.2006, str. 42, Dz. Urz. UE L 95 z 05.04.2007, str. 1, Dz. Urz. UE L 322 z 07.12.2007, str. 1, Dz. Urz. UE L 148 z 06.06.2008, str. 1, Dz. Urz. UE L 5 z 09.01.2009, str. 1, Dz. Urz. UE L 30 z 31.01.2009, str. 16, Dz. Urz. UE L 44 z 16.02.2012, str. 1 oraz Dz. Urz. UE L 347 z 20.12.2013, str. 549. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 12 stycznia 2010 r. w sprawie środków na realizację wspólnej polityki rolnej (Dz. U. z 2015 r. poz. 633), które na podstawie art. 60 ust. 1 pkt 4 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

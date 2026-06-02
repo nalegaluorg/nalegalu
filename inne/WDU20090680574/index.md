@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-04-03 |
 | Data wydania | 2009-05-06 |
-| Wejście w życie | 2009-05-21 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090680574) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/574/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2007 r. Nr 65, poz. 437, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2007 r. Nr 65, poz. 437, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 107, poz. 732, Nr 120, poz. 818 i Nr 173, poz. 1218, z 2008 r. Nr 63, poz. 394, Nr 199, poz. 1227, Nr 201, poz. 1237, Nr 216, poz. 1370 i Nr 227, poz. 1505 oraz z 2009 r. Nr 42, poz. 337.) wprowadza się następujące zmiany:
 
 - **1)** w art. 31 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
@@ -34,7 +33,7 @@ source: "eli-html"
 
 - **2)** w art. 33a w ust. 1 uchyla się pkt 14.
 
-**Art. 2.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 17, poz. 95, Nr 21, poz. 125, Nr 112, poz. 769, Nr 115, poz. 791, 792 i 793 i Nr 176, poz. 1243, z 2008 r. Nr 63, poz. 394, Nr 67, poz. 411, Nr 141, poz. 888, Nr 171, poz. 1056, Nr 209, poz. 1318, Nr 220, poz. 1417 i 1418, Nr 227, poz. 1505, Nr 228, poz. 1507 i Nr 237, poz. 1654 i 1656 oraz z 2009 r. Nr 6, poz. 33, Nr 8, poz. 38, Nr 14, poz. 75, Nr 18, poz. 97 i Nr 22, poz. 120.) wprowadza się następujące zmiany:
 
 - **1)** użyte w art. 60 w ust. 2, w art. 61 w ust. 4 i 5, w art. 74 w ust. 3 w pkt 4–5a, 8 i 9 w różnym przypadku wyrazy „Prezes Rady Ministrów” zastępuje się użytymi w odpowiednim przypadku wyrazami „minister właściwy do spraw zabezpieczenia społecznego”;
 - **2)** w art. 66: ust. 2 otrzymuje brzmienie: „
@@ -73,5 +72,5 @@ source: "eli-html"
 
 **Art. 6.** W celu wykonania przepisów ustawy Prezes Rady Ministrów może dokonać, w drodze rozporządzenia, przeniesienia niektórych planowanych wydatków budżetowych między częściami, działami i rozdziałami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikających z ustawy budżetowej.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 107, poz. 732, Nr 120, poz. 818 i Nr 173, poz. 1218, z 2008 r. Nr 63, poz. 394, Nr 199, poz. 1227, Nr 201, poz. 1237, Nr 216, poz. 1370 i Nr 227, poz. 1505 oraz z 2009 r. Nr 42, poz. 337. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 17, poz. 95, Nr 21, poz. 125, Nr 112, poz. 769, Nr 115, poz. 791, 792 i 793 i Nr 176, poz. 1243, z 2008 r. Nr 63, poz. 394, Nr 67, poz. 411, Nr 141, poz. 888, Nr 171, poz. 1056, Nr 209, poz. 1318, Nr 220, poz. 1417 i 1418, Nr 227, poz. 1505, Nr 228, poz. 1507 i Nr 237, poz. 1654 i 1656 oraz z 2009 r. Nr 6, poz. 33, Nr 8, poz. 38, Nr 14, poz. 75, Nr 18, poz. 97 i Nr 22, poz. 120.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-18 |
 | Data wydania | 2024-11-18 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2025-01-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001681) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1681/text.pdf) |
 
@@ -81,9 +80,19 @@ source: "eli-html"
 
 10. Znaki akcyzy odbierane na zasadach określonych w ust. 9 mogą być nanoszone na opakowania jednostkowe wyrobów nowatorskich, płynu do papierosów elektronicznych lub wyrobów tytoniowych, z wyłączeniem cygar i cygaretek, lub na wyroby nowatorskie, płyn do papierosów elektronicznych lub wyroby tytoniowe, z wyłączeniem cygar i cygaretek, przed dniem 1 stycznia roku kalendarzowego odpowiadającego rokowi wytworzenia znaków akcyzy nadrukowanemu na tych znakach, z tym że wyprowadzenie tak oznaczonych wyrobów ze składu podatkowego poza procedurą zawieszenia poboru akcyzy, import albo nabycie wewnątrzwspólnotowe nie może nastąpić przed dniem 1 stycznia roku kalendarzowego odpowiadającego rokowi wytworzenia znaków akcyzy nadrukowanemu na tych znakach. ” ;
 
-- **7)** w art. 165a: w ust. 2: – w pkt 1 lit. d i e otrzymują brzmienie: „ d) 2025 r. w okresie od dnia: – 1 stycznia 2025 r. do dnia 28 lutego 2025 r. – 276,00 zł za każde 1000 sztuk i 32,05 % maksymalnej ceny detalicznej, – 1 marca 2025 r. do dnia 31 grudnia 2025 r. – 345,00 zł za każde 1000 sztuk i 32,05 % maksymalnej ceny detalicznej, e) 2026 r. – 414,00 zł za każde 1000 sztuk i 32,05 % maksymalnej ceny detalicznej; ” , – w pkt 2 lit. d i e otrzymują brzmienie: „ d) 2025 r. w okresie od dnia: – 1 stycznia 2025 r. do dnia 28 lutego 2025 r. – 188,51 zł za każdy kilogram i 32,05 % maksymalnej ceny detalicznej, – 1 marca 2025 r. do dnia 31 grudnia 2025 r. – 260,14 zł za każdy kilogram i 32,05 % maksymalnej ceny detalicznej, e) 2026 r. – 338,18 zł za każdy kilogram i 32,05 % maksymalnej ceny detalicznej; ” , – w pkt 3 lit. d i e otrzymują brzmienie: „ d) 2025 r. w okresie od dnia: – 1 stycznia 2025 r. do dnia 28 lutego 2025 r. – 524,00 zł za każdy kilogram, – 1 marca 2025 r. do dnia 31 grudnia 2025 r. – 655,00 zł za każdy kilogram, e) 2026 r. – 786,00 zł za każdy kilogram. ” , w ust. 3: – w pkt 1 lit. d i e otrzymują brzmienie: „ d) 2025 r. w okresie od dnia: – 1 stycznia 2025 r. do dnia 28 lutego 2025 r. – 457,84 zł za każde 1000 sztuk, – 1 marca 2025 r. do dnia 31 grudnia 2025 r. – 572,30 zł za każde 1000 sztuk, e) 2026 r. – 686,76 zł za każde 1000 sztuk; ” , – w pkt 2 lit. d i e otrzymują brzmienie: „ d) 2025 r. w okresie od dnia: – 1 stycznia 2025 r. do dnia 28 lutego 2025 r. – 305,23 zł za każdy kilogram, – 1 marca 2025 r. do dnia 31 grudnia 2025 r. – 421,22 zł za każdy kilogram, e) 2026 r. – 547,59 zł za każdy kilogram. ” , w ust. 4 pkt 4 i 5 otrzymują brzmienie: „
+- **7)** w art. 165a: w ust. 2: w pkt 1 lit. d i e otrzymują brzmienie: „ 2025 r. w okresie od dnia: – 1 stycznia 2025 r. do dnia 28 lutego 2025 r. – 276,00 zł za każde 1000 sztuk i 32,05 % maksymalnej ceny detalicznej, – 1 marca 2025 r. do dnia 31 grudnia 2025 r. – 345,00 zł za każde 1000 sztuk i 32,05 % maksymalnej ceny detalicznej, 2026 r. – 414,00 zł za każde 1000 sztuk i 32,05 % maksymalnej ceny detalicznej; ” , w pkt 2 lit. d i e otrzymują brzmienie: „ 2025 r. w okresie od dnia: – 1 stycznia 2025 r. do dnia 28 lutego 2025 r. – 188,51 zł za każdy kilogram i 32,05 % maksymalnej ceny detalicznej, – 1 marca 2025 r. do dnia 31 grudnia 2025 r. – 260,14 zł za każdy kilogram i 32,05 % maksymalnej ceny detalicznej, 2026 r. – 338,18 zł za każdy kilogram i 32,05 % maksymalnej ceny detalicznej; ” , w pkt 3 lit. d i e otrzymują brzmienie: „ 2025 r. w okresie od dnia: – 1 stycznia 2025 r. do dnia 28 lutego 2025 r. – 524,00 zł za każdy kilogram, – 1 marca 2025 r. do dnia 31 grudnia 2025 r. – 655,00 zł za każdy kilogram, 2026 r. – 786,00 zł za każdy kilogram. ” , w ust. 3: w pkt 1 lit. d i e otrzymują brzmienie: „ 2025 r. w okresie od dnia: – 1 stycznia 2025 r. do dnia 28 lutego 2025 r. – 457,84 zł za każde 1000 sztuk, – 1 marca 2025 r. do dnia 31 grudnia 2025 r. – 572,30 zł za każde 1000 sztuk, 2026 r. – 686,76 zł za każde 1000 sztuk; ” , w pkt 2 lit. d i e otrzymują brzmienie: „ 2025 r. w okresie od dnia: – 1 stycznia 2025 r. do dnia 28 lutego 2025 r. – 305,23 zł za każdy kilogram, – 1 marca 2025 r. do dnia 31 grudnia 2025 r. – 421,22 zł za każdy kilogram, 2026 r. – 547,59 zł za każdy kilogram. ” , w ust. 4 pkt 4 i 5 otrzymują brzmienie: „
     - **a)**
+    - **d)**
+    - **e)**
+    - **d)**
+    - **e)**
+    - **d)**
+    - **e)**
     - **b)**
+    - **d)**
+    - **e)**
+    - **d)**
+    - **e)**
     - **c)**
 
 - **4)** 2025 r. w okresie od dnia: 1 stycznia 2025 r. do dnia 28 lutego 2025 r. – 305,23 zł za każdy kilogram, 1 marca 2025 r. do dnia 31 grudnia 2025 r. – 421,22 zł za każdy kilogram;

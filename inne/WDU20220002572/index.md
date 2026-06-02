@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 29 listopada 2022 r. zmieniające rozporządzenie w sprawie pracowników zatrudnionych na stanowiskach bezpośrednio związanych z prowadzeniem i bezpieczeństwem ruchu kolejowego oraz prowadzeniem określonych rodzajów pojazdów kolejowych
+# Rozporządzenie Ministra Infrastrukturyz dnia 29 listopada 2022 r. zmieniające rozporządzenie w sprawie pracowników zatrudnionych na stanowiskach bezpośrednio związanych z prowadzeniem i bezpieczeństwem ruchu kolejowego oraz prowadzeniem określonych rodzajów pojazdów kolejowych Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-29 |
 | Data wydania | 2022-12-12 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002572) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2572/text.pdf) |
 
@@ -33,11 +32,9 @@ Na podstawie art. 22d ust. 3 ustawy z dnia 28 marca 2003 r. o transporcie kolejo
 § 1.
 W rozporządzeniu Ministra Infrastruktury z dnia 11 stycznia 2021 r. w sprawie pracowników zatrudnionych na stanowiskach bezpośrednio związanych z prowadzeniem i bezpieczeństwem ruchu kolejowego oraz prowadzeniem określonych rodzajów pojazdów kolejowych (Dz. U. poz. 101) wprowadza się następujące zmiany:
 1)
-w § 41 ust. 3 otrzymuje brzmienie:
-„
+w § 41 ust. 3 otrzymuje brzmienie: „
 3.
-Dla stanowiska prowadzący pojazdy kolejowe pracodawca może zwolnić osoby posiadające ważną licencję maszynisty z obowiązku przechodzenia szkolenia teoretycznego i części teoretycznej egzaminu kwalifikacyjnego, a osoby posiadające zaświadczenie o ukończeniu szkolenia na licencję maszynisty – z obowiązku przechodzenia szkolenia teoretycznego.
-” ;
+Dla stanowiska prowadzący pojazdy kolejowe pracodawca może zwolnić osoby posiadające ważną licencję maszynisty z obowiązku przechodzenia szkolenia teoretycznego i części teoretycznej egzaminu kwalifikacyjnego, a osoby posiadające zaświadczenie o ukończeniu szkolenia na licencję maszynisty – z obowiązku przechodzenia szkolenia teoretycznego. ” ;
 2)
 załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia;
 3)
@@ -50,8 +47,7 @@ Orzeczenia stwierdzające brak przeciwwskazań zdrowotnych do pracy na określon
 3.
 Orzeczenia stwierdzające brak przeciwwskazań zdrowotnych do pracy na określonym stanowisku pracy albo istnienie takich przeciwwskazań wydane w trybie odwoławczym przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność do końca okresu, na który zostały wydane.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 Załącznik – Wymagania zdrowotne, fizyczne i psychiczne, jakie są obowiązani spełniać pracownicy oraz osoby przyjmowane do pracy na stanowiskach kolejowych
 1.
 Wymagania ogólne Pracownik oraz osoba przyjmowana do pracy na stanowiskach, o których mowa w art. 22d ust. 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2021 r. poz. 1984 oraz z 2022 r. poz. 727 i 1846), nie może cierpieć na żadne dolegliwości lub nie może przyjmować leków lub innych substancji, które mogą powodować:
@@ -120,6 +116,5 @@ zdolności poznawcze – pamięć, uwaga i koncentracja, percepcja i rozumowanie
 2)
 sprawność psychomotoryczna – czas reakcji i koordynacja rąk,
 3)
-komunikowanie się i osobowość
-umożliwiają bezpieczne wykonywanie obowiązków służbowych.
+komunikowanie się i osobowość – umożliwiają bezpieczne wykonywanie obowiązków służbowych.
 

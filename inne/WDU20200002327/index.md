@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 grudnia 2020 r. o zmianie ustawy o szczególnych rozwiązaniach wspierających realizację programów operacyjnych w związku z wystąpieniem COVID-19 w 2020 r. oraz niektórych innych ustaw
+# Ustawa z dnia 10 grudnia 2020 r. o zmianie ustawy o szczególnych rozwiązaniach wspierających realizację programów operacyjnych w związku z wystąpieniem COVID-19 w 2020 r. oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-10 |
 | Data wydania | 2020-12-22 |
-| Wejście w życie | 2020-12-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002327) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2327/text.pdf) |
 
+Plan rozwojowy
 1.
 Projekt planu rozwojowego opracowuje minister właściwy do spraw rozwoju regionalnego we współpracy z właściwymi ministrami, zarządami województw oraz partnerami społecznymi i gospodarczymi. Projekt planu rozwojowego jest przyjmowany przez Radę Ministrów, w drodze uchwały, na wniosek ministra właściwego do spraw rozwoju regionalnego.
 2.
@@ -43,14 +43,11 @@ Podmiotami udzielającymi pomocy mogą być również inne podmioty określone w
 5.
 Minister właściwy do spraw rozwoju regionalnego może określić, w drodze rozporządzenia, szczegółowe przeznaczenie, warunki i tryb udzielania pomocy, o której mowa w ust. 1, a także podmioty udzielające tej pomocy, uwzględniając konieczność zapewnienia zgodności tej pomocy z rynkiem wewnętrznym, efektywnego i skutecznego jej wykorzystania oraz przejrzystości jej udzielania, w przypadku gdy odrębne przepisy nie określają szczegółowego przeznaczenia, warunków lub trybu udzielania tej pomocy.
 6.
-Szczegółowe przeznaczenie, warunki i tryb udzielania pomocy, o której mowa w ust. 1, nieobjętej przepisami, o których mowa w ust. 5, lub innymi przepisami określa umowa o dofinansowanie projektu, decyzja o dofinansowaniu projektu lub akt będący podstawą jej udzielenia.
-” ;
+Szczegółowe przeznaczenie, warunki i tryb udzielania pomocy, o której mowa w ust. 1, nieobjętej przepisami, o których mowa w ust. 5, lub innymi przepisami określa umowa o dofinansowanie projektu, decyzja o dofinansowaniu projektu lub akt będący podstawą jej udzielenia. ” ;
 8)
-w art. 35 ust. 1 otrzymuje brzmienie:
-„
+w art. 35 ust. 1 otrzymuje brzmienie: „
 1.
-Minister właściwy do spraw rozwoju regionalnego odpowiada za koordynację wykorzystania środków zagranicznych, w tym z budżetu Unii Europejskiej, przeznaczonych na dofinansowanie programów operacyjnych, z wyjątkiem programów współfinansowanych z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich i Europejskiego Funduszu Rybackiego oraz programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej.
-” .
+Minister właściwy do spraw rozwoju regionalnego odpowiada za koordynację wykorzystania środków zagranicznych, w tym z budżetu Unii Europejskiej, przeznaczonych na dofinansowanie programów operacyjnych, z wyjątkiem programów współfinansowanych z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich i Europejskiego Funduszu Rybackiego oraz programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej. ” .
 
 **Art. 1.** W ustawie z dnia 3 kwietnia 2020 r. o szczególnych rozwiązaniach wspierających realizację programów operacyjnych w związku z wystąpieniem COVID-19 w 2020 r. (Dz. U. poz. 694) wprowadza się następujące zmiany:
 
@@ -118,11 +115,11 @@ Minister właściwy do spraw rozwoju regionalnego odpowiada za koordynację wyko
 
 - **7)** po rozdziale 2a dodaje się rozdział 2aa w brzmieniu: „
 
-#### Rozdział 2aa Plan rozwojowy
+#### Rozdział 2aa
 
-**Art. 4.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.) po art. 15d dodaje się art. 15da w brzmieniu: „ Art. 15da. W związku z przeciwdziałaniem negatywnym skutkom COVID-19 przy wyliczaniu średniego miesięcznego kosztu utrzymania w domu pomocy społecznej, o którym mowa w art. 6 pkt 15 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, na rok 2021, nie uwzględnia się wydatków i kosztów, które zostały pokryte ze środków finansowych pochodzących z programów finansowanych z udziałem środków europejskich, programów krajowych lub dotacji celowych z budżetu państwa udzielonych na podstawie art. 115 ustawy z dnia 12 marca 2004 r. o pomocy społecznej. ” .
+**Art. 4.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275 i 2320.) po art. 15d dodaje się art. 15da w brzmieniu: „ Art. 15da. W związku z przeciwdziałaniem negatywnym skutkom COVID-19 przy wyliczaniu średniego miesięcznego kosztu utrzymania w domu pomocy społecznej, o którym mowa w art. 6 pkt 15 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, na rok 2021, nie uwzględnia się wydatków i kosztów, które zostały pokryte ze środków finansowych pochodzących z programów finansowanych z udziałem środków europejskich, programów krajowych lub dotacji celowych z budżetu państwa udzielonych na podstawie art. 115 ustawy z dnia 12 marca 2004 r. o pomocy społecznej. ” .
 
 **Art. 5.** Wydłużenie terminów składania wniosków o płatność oraz terminów zakończenia realizacji projektów, dokonane na podstawie art. 13 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, pozostaje w mocy.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275 i 2320.
 

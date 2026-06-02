@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-06-25 |
 | Data wydania | 2009-07-21 |
-| Wejście w życie | 2010-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091150967) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/967/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2004 r. Nr 121, poz. 1266, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2004 r. Nr 121, poz. 1266, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 12, poz. 63, z 2007 r. Nr 75, poz. 493, Nr 80, poz. 541 i Nr 191, poz. 1374, z 2008 r. Nr 237, poz. 1657 oraz z 2009 r. Nr 1, poz. 3.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 pkt 13 otrzymuje brzmienie: „
 - **13)** opłacie rocznej – rozumie się przez to opłatę roczną z tytułu użytkowania na cele nierolnicze lub nieleśne gruntów wyłączonych z produkcji, w wysokości 10% należności, uiszczaną: w razie trwałego wyłączenia – przez lat 10, a w przypadku nietrwałego wyłączenia – przez okres tego wyłączenia, nie dłużej jednak niż przez 20 lat od chwili wyłączenia tych gruntów z produkcji; ” ;
@@ -48,7 +47,7 @@ source: "eli-html"
 - **2)** w odniesieniu do gruntów leśnych za podstawę ustalenia cenę 1 m3 drewna, stosowaną przy wymiarze podatku leśnego w danym roku. ” , dodaje się ust. 17 w brzmieniu: „
     - **e)**
 
-17. Na wniosek organu wykonawczego jednostki samorządu terytorialnego marszałek województwa może umorzyć całość lub część należności i opłat rocznych w odniesieniu do gruntów rolnych w przypadku inwestycji zmierzającej do osiągnięcia celów, o których mowa w art. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.), przeznaczonej na cele inne niż określone w ust. 16, jeżeli obszar gruntu podlegający wyłączeniu nie przekracza 1 ha i nie ma możliwości zrealizowania inwestycji na gruncie nieobjętym ochroną. ” ;
+17. Na wniosek organu wykonawczego jednostki samorządu terytorialnego marszałek województwa może umorzyć całość lub część należności i opłat rocznych w odniesieniu do gruntów rolnych w przypadku inwestycji zmierzającej do osiągnięcia celów, o których mowa w art. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 64, poz. 456, Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601, z 2007 r. Nr 173, poz. 1218, z 2008 r. Nr 59, poz. 369 i Nr 220, poz. 1412 oraz z 2009 r. Nr 19, poz. 100, Nr 42, poz. 335 i 340 i Nr 98, poz. 817.), przeznaczonej na cele inne niż określone w ust. 16, jeżeli obszar gruntu podlegający wyłączeniu nie przekracza 1 ha i nie ma możliwości zrealizowania inwestycji na gruncie nieobjętym ochroną. ” ;
 
 - **3)** w art. 14 ust. 2 otrzymuje brzmienie: „
 
@@ -64,5 +63,5 @@ source: "eli-html"
 
 2. Do spraw, w których wydano decyzję ostateczną o wyłączeniu z produkcji rolniczej gruntów rolnych do ustalenia kwoty należności oraz opłaty rocznej do uiszczenia w danym roku, stosuje się przepisy dotychczasowe.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2010 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2010 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 12, poz. 63, z 2007 r. Nr 75, poz. 493, Nr 80, poz. 541 i Nr 191, poz. 1374, z 2008 r. Nr 237, poz. 1657 oraz z 2009 r. Nr 1, poz. 3. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 64, poz. 456, Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601, z 2007 r. Nr 173, poz. 1218, z 2008 r. Nr 59, poz. 369 i Nr 220, poz. 1412 oraz z 2009 r. Nr 19, poz. 100, Nr 42, poz. 335 i 340 i Nr 98, poz. 817.
 

@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 maja 1989 r. o izbach gospodarczych (Dz. U. z 2017 r. poz. 1218), z uwzględnieniem zmian wprowadzonych ustawą z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 marca 2019 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 236 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 236 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650), który stanowi: „
 
 **Art. 236.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 
@@ -142,12 +141,10 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 4. W zakresie ustalonym w ust. 2 Krajowa Izba Gospodarcza poprzez Polską Izbę Handlu Zagranicznego w szczególności może:
 
-- **1)** organizować wystawy oraz międzynarodowe targi w kraju i za granicą;
-- **2)** współpracować z organizacjami międzynarodowymi i zagranicznymi oraz należeć do nich, jeżeli nie narusza to zobowiązań wynikających z umów międzynarodowych, w których Rzeczpospolita Polska jest stroną, a także tworzyć za zgodą ministra właściwego do spraw zagranicznych i ministra właściwego do spraw gospodarki swoje przedstawicielstwa zagraniczne;
-- **3)** wykonywać czynności izb przemysłowo-handlowych na podstawie umów między Rzecząpospolitą Polską lub kontrahentem polskim a obcymi państwami lub kontrahentami albo na podstawie międzynarodowych zwyczajów handlowych, a zwłaszcza uwierzytelniać dokumenty oraz wydawać certyfikaty, świadectwa i zaświadczenia;
+- **1)** organizować wystawy oraz międzynarodowe targi w kraju i za granicą; 2W brzmieniu ustalonym przez art. 18 pkt 1 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650), która weszła w życie z dniem 30 kwietnia 2018 r.) współpracować z organizacjami międzynarodowymi i zagranicznymi oraz należeć do nich, jeżeli nie narusza to zobowiązań wynikających z umów międzynarodowych, w których Rzeczpospolita Polska jest stroną, a także tworzyć za zgodą ministra właściwego do spraw zagranicznych i ministra właściwego do spraw gospodarki swoje przedstawicielstwa zagraniczne; 3W brzmieniu ustalonym przez art. 18 pkt 1 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650), która weszła w życie z dniem 30 kwietnia 2018 r.) wykonywać czynności izb przemysłowo-handlowych na podstawie umów między Rzecząpospolitą Polską lub kontrahentem polskim a obcymi państwami lub kontrahentami albo na podstawie międzynarodowych zwyczajów handlowych, a zwłaszcza uwierzytelniać dokumenty oraz wydawać certyfikaty, świadectwa i zaświadczenia;
 - **4)** organizować i stwarzać warunki do rozstrzygania sporów w drodze postępowania polubownego i pojednawczego, w tym powołać przy Polskiej Izbie Handlu Zagranicznego Kolegium Arbitrów do rozstrzygania sporów wynikłych w związku ze współpracą gospodarczą z zagranicą, poddanych orzecznictwu Kolegium Arbitrów, jak również opracowywać i doskonalić zasady etyki obowiązującej przedsiębiorców.
 
-5. Krajowa Izba Gospodarcza poprzez Polską Izbę Handlu Zagranicznego może wystawiać świadectwa potwierdzające niepreferencyjne pochodzenie towarów, o których mowa w art. 10 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2018 r. poz. 167, z późn. zm.).
+5. Krajowa Izba Gospodarcza poprzez Polską Izbę Handlu Zagranicznego może wystawiać świadectwa potwierdzające niepreferencyjne pochodzenie towarów, o których mowa w art. 10 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2018 r. poz. 167, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1544, 1669, 1697, 2227 i 2244 oraz z 2019 r. poz. 60.).
 
 **Art. 121.**
 
@@ -155,9 +152,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Zadaniem izb, o których mowa w ust. 1, jest działanie na rzecz promocji handlu zagranicznego i wspomagania rozwoju międzynarodowych stosunków gospodarczych, w granicach określonych w art. 3–5.
 
-3. Utworzenie i działalność izb, o których mowa w ust. 1, odbywa się na zasadach określonych w niniejszej ustawie, z zastrzeżeniem ust. 4 i 5.
-
-4. Członkami izb gospodarczych, o których mowa w ust. 1, mogą być przedsiębiorcy w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. poz. 646, 1479, 1629, 1633 i 2212) oraz przedsiębiorcy zagraniczni w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 649 i 1293).
+3. Utworzenie i działalność izb, o których mowa w ust. 1, odbywa się na zasadach określonych w niniejszej ustawie, z zastrzeżeniem ust. 4 i 5. 4W brzmieniu ustalonym przez art. 18 pkt 2 ustawy, o której mowa w odnośniku 1.. Członkami izb gospodarczych, o których mowa w ust. 1, mogą być przedsiębiorcy w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. poz. 646, 1479, 1629, 1633 i 2212) oraz przedsiębiorcy zagraniczni w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 649 i 1293).
 
 5. Izby, o których mowa w ust. 1, podlegają na wniosek Krajowej Izby Gospodarczej wpisowi do Krajowego Rejestru Sądowego stosownie do przepisów niniejszej ustawy.
 
@@ -193,5 +188,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Krajowa Izba Gospodarcza przejmuje wszelkie sprawy, zobowiązania i majątek dotychczasowej Polskiej Izby Handlu Zagranicznego, z wyjątkiem majątku jednostki organizacyjnej Polskiej Izby Handlu Zagranicznego pod nazwą „Międzynarodowe Targi Poznańskie”, której status określi minister Współpracy Gospodarczej z Zagranicą.
 
-**Art. 16.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 16.** Ustawa wchodzi w życie z dniem ogłoszeniaUstawa została ogłoszona w dniu 8 czerwca 1989 r.. 1) W brzmieniu ustalonym przez art. 18 pkt 1 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650), która weszła w życie z dniem 30 kwietnia 2018 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1544, 1669, 1697, 2227 i 2244 oraz z 2019 r. poz. 60. 3) W brzmieniu ustalonym przez art. 18 pkt 2 ustawy, o której mowa w odnośniku 1. 4) Ustawa została ogłoszona w dniu 8 czerwca 1989 r.
 

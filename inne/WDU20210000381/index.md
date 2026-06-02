@@ -22,11 +22,22 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-02-22 |
 | Data wydania | 2021-03-02 |
-| Wejście w życie | 2021-03-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000381) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/381/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Zgłoszenie kandydata na członka Krajowej Izby Odwoławczej Rozdział 3 – Tryb przeprowadzania postępowania kwalifikacyjnego oraz wnoszenie odwołania od wyniku tego postępowania Rozdział 4 – Powołanie komisji kwalifikacyjnej, organizacja jej pracy oraz wymagania wobec członków komisji Rozdział 5 – Uzupełniające postępowanie kwalifikacyjne Rozdział 6 – Przepis końcowy
+Treść rozporządzenia
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Zgłoszenie kandydata na członka Krajowej Izby Odwoławczej
+
+#### Rozdział 3 – Tryb przeprowadzania postępowania kwalifikacyjnego oraz wnoszenie odwołania od wyniku tego postępowania
+
+#### Rozdział 4 – Powołanie komisji kwalifikacyjnej, organizacja jej pracy oraz wymagania wobec członków komisji
+
+#### Rozdział 5 – Uzupełniające postępowanie kwalifikacyjne
+
+#### Rozdział 6 – Przepis końcowy
 
 ## Załącznik nr 1 — – Zakres zagadnień do przeprowadzenia postępowania kwalifikacyjnego
 
@@ -36,7 +47,8 @@ Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Zgłosz
 
 Treść rozporządzenia
 Na podstawie art. 477 ust. 10 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. poz. 2019 oraz z 2020 r. poz. 288, 1492, 1517, 2275 i 2320) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Rozdział 1
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -47,7 +59,8 @@ dokumenty, które należy dołączyć do zgłoszenia kandydata na członka Izby,
 szczegółowy zakres zagadnień, w oparciu o które przeprowadzane jest postępowanie kwalifikacyjne oraz uzupełniające postępowanie kwalifikacyjne;
 4)
 sposób powoływania komisji kwalifikacyjnej, szczegółowe wymagania wobec członków komisji kwalifikacyjnej oraz organizację jej pracy.
-Rozdział 2 Zgłoszenie kandydata na członka Krajowej Izby Odwoławczej
+Rozdział 2
+Zgłoszenie kandydata na członka Krajowej Izby Odwoławczej
 § 2.
 1.
 Zgłoszenie kandydata na członka Krajowej Izby Odwoławczej, zwanej dalej „Izbą”, jest składane w postępowaniu kwalifikacyjnym, w miejscu wskazanym w ogłoszeniu, o którym mowa w art. 477 ust. 4 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, zwanej dalej „ustawą”, w tym na adres tam wskazany. Za datę złożenia zgłoszenia uważa się datę jego wpływu na adres, o którym mowa w zdaniu pierwszym. Zgłoszenie uznaje się za złożone w terminie, jeżeli wpłynie ono na wskazany adres nie później niż w dniu, w którym upływa termin przyjmowania zgłoszeń.
@@ -104,7 +117,8 @@ oddala odwołanie i utrzymuje w mocy uchwałę komisji, albo
 uwzględnia odwołanie, zmienia uchwałę komisji i dopuszcza kandydata do udziału w postępowaniu kwalifikacyjnym.
 8.
 Minister właściwy do spraw gospodarki niezwłocznie, nie później niż w terminie 7 dni od dnia wniesienia odwołania, przekazuje kandydatowi rozstrzygnięcie odwołania za pośrednictwem operatora pocztowego, przesyłką poleconą, za pośrednictwem posłańca albo przy użyciu środków komunikacji elektronicznej, o ile kandydat złożył oświadczenie, o którym mowa w § 2 ust. 3.
-Rozdział 3 Tryb przeprowadzania postępowania kwalifikacyjnego oraz wnoszenie odwołania od wyniku tego postępowania
+Rozdział 3
+Tryb przeprowadzania postępowania kwalifikacyjnego oraz wnoszenie odwołania od wyniku tego postępowania
 § 4.
 1.
 Komisja przeprowadza egzamin pisemny w warunkach umożliwiających kandydatom samodzielną pracę, pod nadzorem przewodniczącego komisji oraz jej członków.
@@ -236,8 +250,7 @@ Po zakończeniu egzaminu pisemnego komisja ustala wyniki. Przewodniczący komisj
 1)
 wynikach egzaminu pisemnego z podziałem na sprawdzian wiedzy i pracę pisemną,
 2)
-terminie i miejscu przeprowadzenia rozmowy kwalifikacyjnej albo o odmowie dopuszczenia do rozmowy kwalifikacyjnej
-pouczając o prawie do wniesienia odwołania od wyników, terminie na jego wniesienie, organie, do którego należy je wnieść, oraz adresie, na który odwołanie powinno być wniesione.
+terminie i miejscu przeprowadzenia rozmowy kwalifikacyjnej albo o odmowie dopuszczenia do rozmowy kwalifikacyjnej – pouczając o prawie do wniesienia odwołania od wyników, terminie na jego wniesienie, organie, do którego należy je wnieść, oraz adresie, na który odwołanie powinno być wniesione.
 § 13.
 1.
 Do rozmowy kwalifikacyjnej dopuszcza się kandydatów, którzy uzyskali nie mniej niż 50 punktów ze sprawdzianu wiedzy oraz nie mniej niż 50 punktów z pracy pisemnej.
@@ -260,8 +273,7 @@ W przypadku wniesienia przez kandydata odwołania od uchwały komisji dotyczące
 1)
 egzaminu pisemnego,
 2)
-rozmowy kwalifikacyjnej
-termin 7 dni na wniesienie odwołania jest liczony od dnia otrzymania zawiadomienia o wyniku, o którym mowa odpowiednio w § 12 albo § 14 ust. 5.
+rozmowy kwalifikacyjnej – termin 7 dni na wniesienie odwołania jest liczony od dnia otrzymania zawiadomienia o wyniku, o którym mowa odpowiednio w § 12 albo § 14 ust. 5.
 2.
 Odwołanie wnosi się na adres wskazany w zawiadomieniu, o którym mowa odpowiednio w § 12 albo § 14 ust. 5. Odwołanie może być wniesione osobiście, za pośrednictwem operatora pocztowego, przesyłką poleconą albo za pośrednictwem posłańca, a także przy użyciu środków komunikacji elektronicznej, w tym na elektroniczną skrzynkę podawczą urzędu obsługującego ministra właściwego do spraw gospodarki lub na adres poczty elektronicznej, jeżeli został wskazany w zawiadomieniu, o którym mowa odpowiednio w § 12 albo § 14 ust. 5. Odwołanie wnoszone w postaci elektronicznej wymaga opatrzenia, przez wnoszącego, kwalifikowanym podpisem elektronicznym, podpisem osobistym albo podpisem zaufanym.
 3.
@@ -304,7 +316,8 @@ Po ustaleniu przez komisję wyników postępowania kwalifikacyjnego w Biuletynie
 Jeżeli dwóch lub więcej kandydatów uzyskało w postępowaniu kwalifikacyjnym taką samą liczbę punktów umożliwiającą powołanie na członka Izby, minister właściwy do spraw gospodarki powołuje tego kandydata lub tych kandydatów, którzy uzyskali wyższą liczbę punktów z pracy pisemnej, a jeżeli liczba punktów uzyskanych z pracy pisemnej jest taka sama – kandydatów, którzy uzyskali wyższą liczbę punktów z rozmowy kwalifikacyjnej.
 2.
 Jeżeli po przeprowadzeniu czynności określonych w ust. 1 nie jest możliwe wyłonienie kandydatów bez przekroczenia limitu osób określonego w ogłoszeniu o postępowaniu kwalifikacyjnym, żaden z kandydatów, którzy uzyskali taką samą liczbę punktów, nie jest powoływany.
-Rozdział 4 Powołanie komisji kwalifikacyjnej, organizacja jej pracy oraz wymagania wobec członków komisji
+Rozdział 4
+Powołanie komisji kwalifikacyjnej, organizacja jej pracy oraz wymagania wobec członków komisji
 § 18.
 1.
 Minister właściwy do spraw gospodarki powołuje komisję do przeprowadzenia postępowania kwalifikacyjnego niezwłocznie po upływie terminu przyjmowania zgłoszeń i podaje do publicznej wiadomości imiona i nazwiska jej członków. Informację o składzie komisji zamieszcza się w Biuletynie Informacji Publicznej, na stronie podmiotowej Urzędu, na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw gospodarki oraz na stronie podmiotowej Kancelarii Prezesa Rady Ministrów.
@@ -329,12 +342,14 @@ Komisja obraduje na posiedzeniach. Pierwsze posiedzenie komisji zwołuje ministe
 Komisja podejmuje uchwały jednomyślnie, przy obecności co najmniej 2/3 składu komisji. W przypadku nieosiągnięcia jednomyślności przewodniczący komisji zarządza przeprowadzenie imiennego głosowania za pomocą kart do głosowania, przy obecności co najmniej 2/3 składu komisji. W przypadku określonym w zdaniu drugim, uchwały są podejmowane większością głosów, a w razie równej liczby głosów rozstrzyga głos przewodniczącego komisji.
 3.
 Z posiedzenia komisji jest sporządzany protokół, który podpisują członkowie komisji obecni na posiedzeniu.
-Rozdział 5 Uzupełniające postępowanie kwalifikacyjne
+Rozdział 5
+Uzupełniające postępowanie kwalifikacyjne
 § 20.
 Do przeprowadzenia uzupełniającego postępowania kwalifikacyjnego stosuje się odpowiednio przepisy § 2–19.
-Rozdział 6 Przepis końcowy
+Rozdział 6
+Przepis końcowy
 § 21.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 2 lipca 2007 r. w sprawie trybu przeprowadzania postępowania kwalifikacyjnego na członków Krajowej Izby Odwoławczej, sposobu powoływania komisji kwalifikacyjnej, a także szczegółowego zakresu postępowania kwalifikacyjnego (Dz. U. z 2018 r. poz. 1126), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 97 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020 oraz z 2020 r. poz. 1086 i 2275). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 2 lipca 2007 r. w sprawie trybu przeprowadzania postępowania kwalifikacyjnego na członków Krajowej Izby Odwoławczej, sposobu powoływania komisji kwalifikacyjnej, a także szczegółowego zakresu postępowania kwalifikacyjnego (Dz. U. z 2018 r. poz. 1126), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 97 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020 oraz z 2020 r. poz. 1086 i 2275).
 
 ## Załącznik nr 1 — – Zakres zagadnień do przeprowadzenia postępowania kwalifikacyjnego
 

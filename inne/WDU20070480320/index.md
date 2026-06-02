@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 lutego 2007 r. o zmianie ustawy o pomocy społecznej
+# Ustawa z dnia 16 lutego 2007 r. o zmianie ustawy o pomocy społecznej Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2004/81/WE z dnia 29 kwietnia 2004 r. w sprawie dokumentu pobytowego wydawanego obywatelom państw trzecich, którzy są ofiarami handlu ludźmi lub wcześniej byli przedmiotem działań ułatwiających nielegalną imigrację, którzy współpracują z właściwymi organami (Dz. Urz. UE L 261 z 06.08.2004, str. 19; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 7, str. 69).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-02-16 |
 | Data wydania | 2007-03-19 |
-| Wejście w życie | 2007-04-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070480320) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/320/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. Nr 64, poz. 593, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. Nr 64, poz. 593, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 99, poz. 1001 i Nr 273, poz. 2703, z 2005 r. Nr 64, poz. 565, Nr 94, poz. 788, Nr 164, poz. 1366, Nr 179, poz. 1487 i Nr 180, poz. 1493, z 2006 r. Nr 144, poz. 1043, Nr 186, poz. 1380, Nr 249, poz. 1831 i Nr 251, poz. 1844 oraz z 2007 r. Nr 35, poz. 219 i Nr 36, poz. 226.) wprowadza się następujące zmiany:
 
 - **1)** po art. 5 dodaje się art. 5a w brzmieniu: „
 
@@ -124,7 +123,7 @@ source: "eli-html"
 
 - **1)** przestał spełniać warunki określone w niniejszej ustawie,
 - **2)** przestał spełniać standardy, o których mowa w art. 55 ust. 1 i 2,
-- **3)** nie przedstawi na żądanie wojewody w wyznaczonym terminie aktualnych dokumentów lub informacji, o których mowa w art. 57 ust. 3 pkt 3 wojewoda wyznacza dodatkowy termin na spełnienie warunków lub standardów albo na dostarczenie wymaganych dokumentów lub informacji.
+- **3)** nie przedstawi na żądanie wojewody w wyznaczonym terminie aktualnych dokumentów lub informacji, o których mowa w art. 57 ust. 3 pkt 3 – wojewoda wyznacza dodatkowy termin na spełnienie warunków lub standardów albo na dostarczenie wymaganych dokumentów lub informacji.
 
 2. Po bezskutecznym upływie terminu, o którym mowa w ust. 1, wojewoda cofa zezwolenie na prowadzenie domu pomocy społecznej.
 
@@ -169,7 +168,7 @@ source: "eli-html"
 
 - **22)** w art. 68 po ust. 5 dodaje się ust. 5a w brzmieniu: „
 
-5a. Placówki mieszczące się w budynkach wpisanych do rejestru zabytków są obowiązane spełnić warunki, o których mowa w ust. 4 i 5, w zakresie, w jakim nie narusza to przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. Nr 162, poz. 1568, z późn. zm.). ” ;
+5a. Placówki mieszczące się w budynkach wpisanych do rejestru zabytków są obowiązane spełnić warunki, o których mowa w ust. 4 i 5, w zakresie, w jakim nie narusza to przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. Nr 162, poz. 1568, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390 oraz z 2006 r. Nr 50, poz. 362 i Nr 126, poz. 875.). ” ;
 
 - **23)** w art. 73 ust. 2 otrzymuje brzmienie: „
 
@@ -205,7 +204,7 @@ source: "eli-html"
 11. Z wychowawcami w całodobowych placówkach opiekuńczo-wychowawczych typu rodzinnego mogą być zawierane:
 
 - **1)** umowy o pracę, albo
-- **2)** umowy, do których mają zastosowanie odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.) dotyczące umów zlecenia.
+- **2)** umowy, do których mają zastosowanie odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438 oraz z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166.) dotyczące umów zlecenia.
 
 12. Wychowawcy w całodobowych placówkach opiekuńczo-wychowawczych typu rodzinnego mogą być zatrudnieni w systemie zadaniowego czasu pracy w przeciętnie sześciodniowym tygodniu pracy w przyjętym okresie rozliczeniowym nieprzekraczającym 4 miesięcy. ” ;
 
@@ -238,7 +237,7 @@ source: "eli-html"
 
 - **1)** przestał spełniać warunki określone w niniejszej ustawie,
 - **2)** przestał spełniać standardy, o których mowa w art. 81 ust. 10 pkt 4 i 5,
-- **3)** nie przedstawi na żądanie wojewody w wyznaczonym terminie aktualnych dokumentów, o których mowa w ust. 3 pkt 3 wojewoda wyznacza dodatkowy termin na spełnienie warunków lub standardów albo na dostarczenie wymaganych dokumentów lub informacji.
+- **3)** nie przedstawi na żądanie wojewody w wyznaczonym terminie aktualnych dokumentów, o których mowa w ust. 3 pkt 3 – wojewoda wyznacza dodatkowy termin na spełnienie warunków lub standardów albo na dostarczenie wymaganych dokumentów lub informacji.
 
 7. Po bezskutecznym upływie terminu, o którym mowa w ust. 6, wojewoda cofa zezwolenie na prowadzenie placówki.
 
@@ -396,7 +395,7 @@ source: "eli-html"
 
 - **40)** po art. 123 dodaje się art. 123a w brzmieniu: „
 
-**Art. 123a.** Do osób kierujących jednostkami organizacyjnymi pomocy społecznej, a także osób kierujących komórkami organizacyjnymi w tych jednostkach, nie stosuje się warunku określonego w art. 3 ust. 4 pkt 1 ustawy z dnia 22 marca 1990 r. o pracownikach samorządowych (Dz. U. z 2001 r. Nr 142, poz. 1593, z późn. zm.). ” ;
+**Art. 123a.** Do osób kierujących jednostkami organizacyjnymi pomocy społecznej, a także osób kierujących komórkami organizacyjnymi w tych jednostkach, nie stosuje się warunku określonego w art. 3 ust. 4 pkt 1 ustawy z dnia 22 marca 1990 r. o pracownikach samorządowych (Dz. U. z 2001 r. Nr 142, poz. 1593, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 214, poz. 1806, z 2005 r. Nr 10, poz. 71, Nr 23, poz. 192 i Nr 122, poz. 1020 oraz z 2006 r. Nr 79, poz. 549, Nr 169, poz. 1201 i Nr 170, poz. 1218.). ” ;
 
 - **41)** po art. 127 dodaje się art. 127a w brzmieniu: „
 
@@ -447,5 +446,5 @@ source: "eli-html"
 
 **Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 81 ust. 10 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 81 ust. 10 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 7.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2004/81/WE z dnia 29 kwietnia 2004 r. w sprawie dokumentu pobytowego wydawanego obywatelom państw trzecich, którzy są ofiarami handlu ludźmi lub wcześniej byli przedmiotem działań ułatwiających nielegalną imigrację, którzy współpracują z właściwymi organami (Dz. Urz. UE L 261 z 06.08.2004, str. 19; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 7, str. 69). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 99, poz. 1001 i Nr 273, poz. 2703, z 2005 r. Nr 64, poz. 565, Nr 94, poz. 788, Nr 164, poz. 1366, Nr 179, poz. 1487 i Nr 180, poz. 1493, z 2006 r. Nr 144, poz. 1043, Nr 186, poz. 1380, Nr 249, poz. 1831 i Nr 251, poz. 1844 oraz z 2007 r. Nr 35, poz. 219 i Nr 36, poz. 226. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390 oraz z 2006 r. Nr 50, poz. 362 i Nr 126, poz. 875. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438 oraz z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 214, poz. 1806, z 2005 r. Nr 10, poz. 71, Nr 23, poz. 192 i Nr 122, poz. 1020 oraz z 2006 r. Nr 79, poz. 549, Nr 169, poz. 1201 i Nr 170, poz. 1218.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 2 sierpnia 2018 r. w sprawie prowadzenia prac konserwatorskich, prac restauratorskich i badań konserwatorskich przy zabytku wpisanym do rejestru zabytków albo na Listę Skarbów Dziedzictwa oraz robót budowlanych, badań architektonicznych i innych działań przy zabytku wpisanym do rejestru zabytków, a także badań archeologicznych i poszukiwań zabytków
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 2 sierpnia 2018 r. w sprawie prowadzenia prac konserwatorskich, prac restauratorskich i badań konserwatorskich przy zabytku wpisanym do rejestru zabytków albo na Listę Skarbów Dziedzictwa oraz robót budowlanych, badań architektonicznych i innych działań przy zabytku wpisanym do rejestru zabytków, a także badań archeologicznych i poszukiwań zabytków Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-08-02 |
 | Data wydania | 2018-08-22 |
-| Wejście w życie | 2018-08-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001609) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1609/text.pdf) |
 
@@ -252,8 +251,7 @@ plan z naniesionymi miejscami dotychczasowych i planowanych badań archeologiczn
 a)
 1:500, jeżeli badania archeologiczne będą prowadzone na terenie o powierzchni do 10 000 m2, albo
 b)
-1:1000, jeżeli badania archeologiczne będą prowadzone na terenie o powierzchni większej niż 10 000 m2
-w przypadku badań archeologicznych, które nie będą prowadzone na polskich obszarach morskich;
+1:1000, jeżeli badania archeologiczne będą prowadzone na terenie o powierzchni większej niż 10 000 m2 – w przypadku badań archeologicznych, które nie będą prowadzone na polskich obszarach morskich;
 6)
 plan batymetryczny z naniesionymi miejscami dotychczasowych i planowanych badań archeologicznych oraz dostępną dokumentację hydroakustyczną akwenu objętego planem, w przypadku badań archeologicznych, które będą prowadzone na polskich obszarach morskich;
 7)
@@ -646,8 +644,7 @@ Dyrektor urzędu morskiego może uznać za uzgodniony projekt, o którym mowa w 
 § 24.
 Do postępowań w sprawie wydawania pozwoleń, o których mowa w art. 36 ust. 1 i 1a ustawy, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy niniejszego rozporządzenia.
 § 25.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 22 czerwca 2017 r. w sprawie prowadzenia prac konserwatorskich, prac restauratorskich i badań konserwatorskich przy zabytku wpisanym do rejestru zabytków albo na Listę Skarbów Dziedzictwa oraz robót budowlanych, badań architektonicznych i innych działań przy zabytku wpisanym do rejestru zabytków, a także badań archeologicznych i poszukiwań zabytków (Dz. U. poz. 1265), które utraciło moc z dniem 18 lipca 2018 r. zgodnie z art. 3 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o ochronie przyrody (Dz. U. z 2018 r. poz. 10).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 22 czerwca 2017 r. w sprawie prowadzenia prac konserwatorskich, prac restauratorskich i badań konserwatorskich przy zabytku wpisanym do rejestru zabytków albo na Listę Skarbów Dziedzictwa oraz robót budowlanych, badań architektonicznych i innych działań przy zabytku wpisanym do rejestru zabytków, a także badań archeologicznych i poszukiwań zabytków (Dz. U. poz. 1265), które utraciło moc z dniem 18 lipca 2018 r. zgodnie z art. 3 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o ochronie przyrody (Dz. U. z 2018 r. poz. 10). 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 22 czerwca 2017 r. w sprawie prowadzenia prac konserwatorskich, prac restauratorskich i badań konserwatorskich przy zabytku wpisanym do rejestru zabytków albo na Listę Skarbów Dziedzictwa oraz robót budowlanych, badań architektonicznych i innych działań przy zabytku wpisanym do rejestru zabytków, a także badań archeologicznych i poszukiwań zabytków (Dz. U. poz. 1265), które utraciło moc z dniem 18 lipca 2018 r. zgodnie z art. 3 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o ochronie przyrody (Dz. U. z 2018 r. poz. 10).
 Załącznik –
 I.
 ELEMENTY, KTÓRE ZAWIERA DOKUMENTACJA PRAC KONSERWATORSKICH I PRAC RESTAURATORSKICH PROWADZONYCH PRZY ZABYTKU RUCHOMYM WPISANYM DO REJESTRU ZABYTKÓW ALBO NA LISTĘ SKARBÓW DZIEDZICTWA Dokumentacja prac konserwatorskich i prac restauratorskich prowadzonych przy zabytku ruchomym wpisanym do rejestru zabytków albo na Listę Skarbów Dziedzictwa zawiera:

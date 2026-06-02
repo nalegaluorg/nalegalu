@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Aktywów Państwowychz dnia 1 marca 2022 r. w sprawie określenia nazw, siedzib i właściwości miejscowej okręgowych urzędów górniczych oraz zniesienia Okręgowego Urzędu Górniczego w Gliwicach
+# Rozporządzenie Ministra Aktywów Państwowychz dnia 1 marca 2022 r. w sprawie określenia nazw, siedzib i właściwości miejscowej okręgowych urzędów górniczych oraz zniesienia Okręgowego Urzędu Górniczego w Gliwicach Minister Aktywów Państwowych kieruje działem administracji rządowej – gospodarka złożami kopalin, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-01 |
 | Data wydania | 2022-03-04 |
-| Wejście w życie | 2022-06-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000525) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/525/text.pdf) |
 
@@ -99,6 +98,5 @@ będących w toku w dniu wejścia w życie rozporządzenia – niezwłocznie po 
 § 7.
 Traci moc rozporządzenie Ministra Środowiska z dnia 27 marca 2015 r. w sprawie nazw, siedzib i właściwości miejscowej okręgowych urzędów górniczych (Dz. U. poz. 456).
 § 8.
-Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
-1) Minister Aktywów Państwowych kieruje działem administracji rządowej – gospodarka złożami kopalin, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943).
+Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Minister Aktywów Państwowych kieruje działem administracji rządowej – gospodarka złożami kopalin, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 23 grudnia 2016 r. zmieniające rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy pracach związanych z narażeniem na pole elektromagnetyczne
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 23 grudnia 2016 r. zmieniające rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy pracach związanych z narażeniem na pole elektromagnetyczne Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-23 |
 | Data wydania | 2016-12-30 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002284) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2284/text.pdf) |
 
@@ -33,6 +32,5 @@ W rozporządzeniu Ministra Rodziny, Pracy i Polityki Społecznej z dnia 29 czerw
 § 2.
 Podmioty, którym do dnia 31 grudnia 2016 r. wydano certyfikaty akredytacji laboratoriów badawczych do realizacji pomiaru pola-EM w środowisku pracy, mogą wykonywać pomiary, dostosowując dotychczasowe metody do oceny pola-EM, o której mowa w części III załącznika nr 3 do rozporządzenia zmienianego w § 1, w okresie do dnia 30 czerwca 2017 r., albo do czasu zaktualizowania zakresu akredytacji uwzględniającego metody, o których mowa w ust. 11 część III załącznika nr 3 do rozporządzenia w brzmieniu nadanym niniejszym rozporządzeniem, jeżeli do tego dnia podmiot wystąpi o taką aktualizację.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 listopada 2017 r. o zmianie niektórych ustaw w celu przeciwdziałania wykorzystywaniu sektora finansowego do wyłudzeń skarbowych
+# Ustawa z dnia 24 listopada 2017 r. o zmianie niektórych ustaw w celu przeciwdziałania wykorzystywaniu sektora finansowego do wyłudzeń skarbowych Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 26 października 2000 r. o giełdach towarowych, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-24 |
 | Data wydania | 2017-12-29 |
-| Wejście w życie | 2018-01-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002491) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2491/text.pdf) |
 
+Przeciwdziałanie wykorzystywaniu sektora finansowego do wyłudzeń skarbowych
+Przepisy ogólne
 Art. 119zg.
 Ilekroć w niniejszym dziale jest mowa o:
 1)
@@ -166,10 +167,10 @@ strony i kwoty transakcji dokonanych lub zleconych z wykorzystaniem rachunku pod
 6)
 informacje o blokadach rachunku podmiotu kwalifikowanego i zajęciach rachunku podmiotu kwalifikowanego objętego zawiadomieniem,
 7)
-informacje podatkowe dotyczące podmiotu kwalifikowanego objętego zawiadomieniem, w szczególności dane o jego rejestracji jako podatnika podatku od towarów i usług, złożonych deklaracjach podatkowych i uzyskanych zwrotach podatku
-jeżeli znajdują się w posiadaniu Szefa Krajowej Administracji Skarbowej.
+informacje podatkowe dotyczące podmiotu kwalifikowanego objętego zawiadomieniem, w szczególności dane o jego rejestracji jako podatnika podatku od towarów i usług, złożonych deklaracjach podatkowych i uzyskanych zwrotach podatku – jeżeli znajdują się w posiadaniu Szefa Krajowej Administracji Skarbowej.
 § 2.
 Prokurator, Policja albo inny właściwy organ uprawniony do prowadzenia postępowania przygotowawczego, który otrzymał zawiadomienie, o którym mowa w § 1, może żądać uzupełnienia informacji, także w toku czynności podejmowanych na podstawie art. 307 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904 i 2405).
+Analiza ryzyka
 § 1.
 Szef Krajowej Administracji Skarbowej dokonuje analizy ryzyka wykorzystywania działalności banków i spółdzielczych kas oszczędnościowo-kredytowych do celów mających związek z wyłudzeniami skarbowymi, uwzględniając posiadane dane, w tym wskaźnik ryzyka oraz informacje i zestawienia, o których mowa w art. 119zq oraz art. 119zs.
 § 2.
@@ -193,8 +194,7 @@ Izba rozliczeniowa przekazuje informacje o wskaźniku ryzyka niezwłocznie po je
 1)
 Szefowi Krajowej Administracji Skarbowej,
 2)
-bankom i spółdzielczym kasom oszczędnościowo-kredytowym – w zakresie rachunków podmiotów kwalifikowanych prowadzonych przez te banki i spółdzielcze kasy oszczędnościowo-kredytowe oraz w przypadku, o którym mowa w § 3
-chyba że wskaźnik ryzyka i istotność wpływu na wskaźnik ryzyka poszczególnych kryteriów uwzględnianych przy jego ustalaniu nie uległy zmianie.
+bankom i spółdzielczym kasom oszczędnościowo-kredytowym – w zakresie rachunków podmiotów kwalifikowanych prowadzonych przez te banki i spółdzielcze kasy oszczędnościowo-kredytowe oraz w przypadku, o którym mowa w § 3 – chyba że wskaźnik ryzyka i istotność wpływu na wskaźnik ryzyka poszczególnych kryteriów uwzględnianych przy jego ustalaniu nie uległy zmianie.
 § 2.
 Informacja o wskaźniku ryzyka zawiera:
 1)
@@ -363,6 +363,7 @@ Izba rozliczeniowa, która wykonywała obowiązki określone w niniejszym dziale
 Szef Krajowej Administracji Skarbowej jest obowiązany do przekazania danych i informacji, o których mowa w § 5, izbie rozliczeniowej, która przejęła realizację obowiązków wynikających z niniejszego działu, w zakresie koniecznym do ustalenia wskaźnika ryzyka, w terminie miesiąca, licząc od dnia ich otrzymania.
 § 7.
 Do okresu przechowywania danych, o którym mowa w § 3, przez izbę rozliczeniową, o której mowa w § 6, wlicza się okres przechowywania danych przez izbę rozliczeniową, o której mowa w § 5.
+Blokada rachunku podmiotu kwalifikowanego
 § 1.
 Szef Krajowej Administracji Skarbowej może wydać postanowienie o blokadzie rachunku podmiotu kwalifikowanego na okres nie dłuższy niż 72 godziny, jeżeli posiadane informacje, w szczególności wyniki analizy ryzyka, o której mowa w art. 119zn § 1, wskazują, że podmiot kwalifikowany może wykorzystywać działalność banków lub spółdzielczych kas oszczędnościowo-kredytowych do celów mających związek z wyłudzeniami skarbowymi lub do czynności zmierzających do wyłudzenia skarbowego, a blokada rachunku podmiotu kwalifikowanego jest konieczna, aby temu przeciwdziałać.
 § 2.
@@ -496,6 +497,7 @@ w przypadkach, o których mowa w § 1 pkt 1–3;
 w części wolnej od zajęcia – w przypadku, o którym mowa w § 1 pkt 4.
 Dokonanie przez bank lub spółdzielczą kasę oszczędnościowo-kredytową blokady rachunku podmiotu kwalifikowanego lub zmiany jej zakresu zgodnie z żądaniami Szefa Krajowej Administracji Skarbowej, o których mowa w niniejszym rozdziale, nie powoduje odpowiedzialności dyscyplinarnej, cywilnej, karnej ani innej określonej odrębnymi przepisami.
 Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, upoważnić inny organ Krajowej Administracji Skarbowej do wykonywania niektórych zadań Szefa Krajowej Administracji Skarbowej określonych w niniejszym rozdziale, mając na względzie zapewnienie sprawnego i skutecznego wykonywania tych zadań.
+Kontrola
 § 1.
 Kontrolę wypełniania obowiązków, o których mowa w niniejszym dziale, przez banki, spółdzielcze kasy oszczędnościowo-kredytowe, izbę rozliczeniową, banki zrzeszające oraz Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową sprawuje Szef Krajowej Administracji Skarbowej.
 § 2.
@@ -505,8 +507,9 @@ Kontrolę, o której mowa w § 1, przeprowadzają upoważnieni przez Szefa Krajo
 § 4.
 Kontrolę, o której mowa w § 1, przeprowadzają osoby posiadające poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych oznaczonych klauzulą „poufne”.
 § 5.
-Do kontroli, o której mowa w § 1, stosuje się odpowiednio przepisy art. 62 ust. 1–3, 8 i 10, art. 64 ust. 1 pkt 1, 2, 5, 7, 8, 10, 11 i 17 i ust. 3 i 4, art. 72 ust. 1 pkt 1–3 i 8–11 oraz ust. 3, art. 84 ust. 1, 2 i 4, art. 93 oraz art. 97 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.).
+Do kontroli, o której mowa w § 1, stosuje się odpowiednio przepisy art. 62 ust. 1–3, 8 i 10, art. 64 ust. 1 pkt 1, 2, 5, 7, 8, 10, 11 i 17 i ust. 3 i 4, art. 72 ust. 1 pkt 1–3 i 8–11 oraz ust. 3, art. 84 ust. 1, 2 i 4, art. 93 oraz art. 97 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321 i 2409.).
 Generalny Inspektor Ochrony Danych Osobowych przeprowadza, nie rzadziej niż raz na 2 lata, kontrolę izby rozliczeniowej w zakresie ochrony danych osobowych przy wypełnianiu obowiązków, o których mowa w niniejszym dziale.
+Kary pieniężne
 § 1.
 Bank, spółdzielcza kasa oszczędnościowo-kredytowa, bank zrzeszający oraz Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa, które nie dopełniają obowiązku przekazywania informacji i zestawień, o których mowa w art. 119zp, lub danych, o których mowa w art. 119zs § 2, przekazują je niezgodnie z posiadanymi informacjami, zestawieniami lub danymi, lub zatajają prawdziwe informacje, zestawienia lub dane, podlegają karze pieniężnej.
 § 2.
@@ -519,46 +522,36 @@ ustalenia wskaźnika ryzyka,
 3)
 przekazania informacji o wskaźniku ryzyka,
 4)
-pośredniczenia w przekazaniu danych, informacji i żądań pomiędzy Szefem Krajowej Administracji Skarbowej a bankami oraz spółdzielczymi kasami oszczędnościowo-kredytowymi
-podlega karze pieniężnej.
+pośredniczenia w przekazaniu danych, informacji i żądań pomiędzy Szefem Krajowej Administracji Skarbowej a bankami oraz spółdzielczymi kasami oszczędnościowo-kredytowymi – podlega karze pieniężnej.
 § 1.
 Karę pieniężną, o której mowa w art. 119zzh i art. 119zzi, nakłada Szef Krajowej Administracji Skarbowej, w drodze decyzji, w wysokości nie większej niż 1 000 000 zł.
 § 2.
-Od decyzji przysługuje odwołanie do ministra właściwego do spraw finansów publicznych w terminie 14 dni od dnia jej doręczenia.
-” ;
+Od decyzji przysługuje odwołanie do ministra właściwego do spraw finansów publicznych w terminie 14 dni od dnia jej doręczenia. ” ;
 4)
-w art. 293 w § 2 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu:
-„
+w art. 293 w § 2 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
 8)
-informacjach o wynikach analizy ryzyka, o której mowa w art. 119zn § 1, oraz innych informacjach i dokumentach, o których mowa w dziale IIIB.
-” ;
+informacjach o wynikach analizy ryzyka, o której mowa w art. 119zn § 1, oraz innych informacjach i dokumentach, o których mowa w dziale IIIB. ” ;
 5)
-w art. 296 § 2 otrzymuje brzmienie:
-„
+w art. 296 § 2 otrzymuje brzmienie: „
 § 2.
-Informacje, o których mowa w § 1, po ich wykorzystaniu są wyłączane z akt sprawy i przechowywane z zachowaniem zasad określonych dla informacji niejawnych o klauzuli „zastrzeżone”. Adnotacji o wyłączeniu dokonuje się w aktach sprawy.
-” ;
+Informacje, o których mowa w § 1, po ich wykorzystaniu są wyłączane z akt sprawy i przechowywane z zachowaniem zasad określonych dla informacji niejawnych o klauzuli „zastrzeżone”. Adnotacji o wyłączeniu dokonuje się w aktach sprawy. ” ;
 6)
-w art. 297 w § 1 pkt 8 otrzymuje brzmienie:
-„
+w art. 297 w § 1 pkt 8 otrzymuje brzmienie: „
 8)
 Centralnemu Biuru Antykorupcyjnemu w zakresie niezbędnym do:
 a)
 przeprowadzenia czynności kontrolnych określonych w rozdziale 4 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym,
 b)
-realizacji czynności operacyjno-rozpoznawczych i analityczno-informacyjnych, jeżeli mają związek z wyłudzeniem skarbowym w rozumieniu art. 119zg pkt 9 lub przestępstwem, o którym mowa w art. 231 lub art. 299 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny
-na zasadach i w trybie określonych w art. 22a ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym.
-” ;
+realizacji czynności operacyjno-rozpoznawczych i analityczno-informacyjnych, jeżeli mają związek z wyłudzeniem skarbowym w rozumieniu art. 119zg pkt 9 lub przestępstwem, o którym mowa w art. 231 lub art. 299 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny – na zasadach i w trybie określonych w art. 22a ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym. ” ;
 7)
-po art. 297b dodaje się art. 297c w brzmieniu:
-„
+po art. 297b dodaje się art. 297c w brzmieniu: „
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933, 1133, 1136, 1452, 1475, 1596, 1727, 1883, 2180 i 2245.) wprowadza się następujące zmiany:
 
 - **1)** w art. 890: po § 11dodaje się § 12 i 13 w brzmieniu: „
     - **a)**
 
-§ 12. Nie podlegają zajęciu wierzytelności z rachunku będącego przedmiotem blokady rachunku podmiotu kwalifikowanego w rozumieniu art. 119zg pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.).
+§ 12. Nie podlegają zajęciu wierzytelności z rachunku będącego przedmiotem blokady rachunku podmiotu kwalifikowanego w rozumieniu art. 119zg pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537, 2169 i 2491.).
 
 § 13. Przepisu § 12nie stosuje się do wierzytelności z tytułu:
 
@@ -609,7 +602,7 @@ po art. 297b dodaje się art. 297c w brzmieniu:
 
 5. CRP KEP przekazuje automatycznie do STIR w rozumieniu art. 119zg pkt 6 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa dane z Krajowego Rejestru Sądowego, NIP, numer identyfikacyjny REGON oraz dane z wykazów, o których mowa w art. 96b ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. W przypadku osób fizycznych wpisanych do Centralnej Ewidencji i Informacji o Działalności Gospodarczej i wykonujących działalność gospodarczą CRP KEP przekazuje również firmę, adres głównego miejsca wykonywania działalności, adresy dodatkowych miejsc wykonywania działalności oraz przedmiot wykonywanej działalności określony według obowiązujących standardów klasyfikacyjnych. Przepisu ust. 2b w zakresie danych objętych treścią wpisu w Krajowym Rejestrze Sądowym nie stosuje się. ” .
 
-**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537 i 2169.) wprowadza się następujące zmiany:
 
 - **1)** w art. 13 w § 2 pkt 5 otrzymuje brzmienie: „
 - **5)** organ właściwy w sprawach informacji przekazywanych przez banki i spółdzielcze kasy oszczędnościowo-kredytowe o otwartych i zamkniętych rachunkach bankowych związanych z prowadzeniem działalności gospodarczej; ” ;
@@ -622,17 +615,17 @@ po art. 297b dodaje się art. 297c w brzmieniu:
 - **2)** wzór informacji o otwartych i zamkniętych rachunkach bankowych oraz rachunkach w spółdzielczych kasach oszczędnościowo-kredytowych, o których mowa w § 2, uwzględniając numer rachunku, datę jego otwarcia albo zamknięcia, dane identyfikujące posiadacza rachunku, w tym nazwisko i imię lub nazwę posiadacza, miejsce zamieszkania lub adres siedziby, rodzaj i numer identyfikatora posiadacza rachunku, kod kraju posiadacza rachunku, numer identyfikacji podatkowej. ” ;
 - **3)** po dziale IIIA dodaje się dział IIIB w brzmieniu: „
 
-### Dział IIIB Przeciwdziałanie wykorzystywaniu sektora finansowego do wyłudzeń skarbowych
+### Dział IIIB
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
-#### Rozdział 2 Analiza ryzyka
+#### Rozdział 2
 
-#### Rozdział 3 Blokada rachunku podmiotu kwalifikowanego
+#### Rozdział 3
 
-#### Rozdział 4 Kontrola
+#### Rozdział 4
 
-#### Rozdział 5 Kary pieniężne
+#### Rozdział 5
 
 **Art. 297c.** Dane, informacje i dokumenty, o których mowa w dziale IIIB, w tym zawierające dane stanowiące tajemnicę bankową lub tajemnicę zawodową, Szef Krajowej Administracji Skarbowej udostępnia wyłącznie:
 
@@ -672,7 +665,7 @@ po art. 297b dodaje się art. 297c w brzmieniu:
 
 - **1)** po art. 54a dodaje się art. 54b w brzmieniu: „
 
-**Art. 54b.** Środki pieniężne znajdujące się na rachunku będącym przedmiotem blokady rachunku podmiotu kwalifikowanego w rozumieniu art. 119zg pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.) nie podlegają zajęciu na podstawie sądowego lub administracyjnego tytułu wykonawczego poza wyjątkami określonymi w przepisach o postępowaniu egzekucyjnym. ” ;
+**Art. 54b.** Środki pieniężne znajdujące się na rachunku będącym przedmiotem blokady rachunku podmiotu kwalifikowanego w rozumieniu art. 119zg pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537, 2169 i 2491.) nie podlegają zajęciu na podstawie sądowego lub administracyjnego tytułu wykonawczego poza wyjątkami określonymi w przepisach o postępowaniu egzekucyjnym. ” ;
 
 - **2)** art. 67 otrzymuje brzmienie: „
 
@@ -685,7 +678,7 @@ po art. 297b dodaje się art. 297c w brzmieniu:
 
 - **b)**
 
-4a. Przepis ust. 4 stosuje się odpowiednio do informacji udzielonych organom Krajowej Administracji Skarbowej na zasadach określonych w art. 127a ust. 1 i 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.) oraz do zawiadomienia, o którym mowa w art. 127a ust. 12 tej ustawy. ” ;
+4a. Przepis ust. 4 stosuje się odpowiednio do informacji udzielonych organom Krajowej Administracji Skarbowej na zasadach określonych w art. 127a ust. 1 i 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491.) oraz do zawiadomienia, o którym mowa w art. 127a ust. 12 tej ustawy. ” ;
 
 - **4)** w art. 105 w ust. 1: po pkt 1e dodaje się pkt 1f w brzmieniu: „
     - **a)**
@@ -700,13 +693,13 @@ po art. 297b dodaje się art. 297c w brzmieniu:
 
 **Art. 6.** W ustawie z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2017 r. poz. 1127 i 1089) w art. 54 w ust. 1 pkt 3 otrzymuje brzmienie: „
 
-- **3)** organu Krajowej Administracji Skarbowej: w związku z toczącym się postępowaniem w sprawie o przestępstwo skarbowe lub wykroczenie skarbowe: – przeciwko osobie fizycznej, będącej stroną umowy, czynności lub transakcji zawartej z podmiotem obowiązanym do zachowania tajemnicy zawodowej lub – popełnione w zakresie działalności osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, będącej stroną umowy, czynności lub transakcji zawartej z podmiotem obowiązanym do zachowania tajemnicy zawodowej, jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom lub przestępstwom skarbowym, ich wykrycia albo ustalenia ich sprawców i uzyskania dowodów ich popełnienia, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa lub przestępstwa skarbowego albo ich równowartości – w zakresie, o którym mowa w art. 127a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.); ” .
+- **3)** organu Krajowej Administracji Skarbowej: w związku z toczącym się postępowaniem w sprawie o przestępstwo skarbowe lub wykroczenie skarbowe: – przeciwko osobie fizycznej, będącej stroną umowy, czynności lub transakcji zawartej z podmiotem obowiązanym do zachowania tajemnicy zawodowej lub – popełnione w zakresie działalności osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, będącej stroną umowy, czynności lub transakcji zawartej z podmiotem obowiązanym do zachowania tajemnicy zawodowej, jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom lub przestępstwom skarbowym, ich wykrycia albo ustalenia ich sprawców i uzyskania dowodów ich popełnienia, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa lub przestępstwa skarbowego albo ich równowartości – w zakresie, o którym mowa w art. 127a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491.); ” .
     - **a)**
     - **b)**
 
 **Art. 7.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2017 r. poz. 2344) w art. 63 w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
 
-- **4)** środki pieniężne znajdujące się na rachunku będącym przedmiotem blokady rachunku podmiotu kwalifikowanego w rozumieniu art. 119zg pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.). ” .
+- **4)** środki pieniężne znajdujące się na rachunku będącym przedmiotem blokady rachunku podmiotu kwalifikowanego w rozumieniu art. 119zg pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537, 2169 i 2491.). ” .
 
 **Art. 8.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2017 r. poz. 1221) wprowadza się następujące zmiany:
 
@@ -759,15 +752,15 @@ po art. 297b dodaje się art. 297c w brzmieniu:
 
 7. Szef Krajowej Administracji Skarbowej wykreśla podmiot z wykazu po upływie 5 lat, licząc od końca roku kalendarzowego, w którym podmiot został umieszczony w wykazie. ” .
 
-**Art. 9.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2016 r. poz. 1896, z późn. zm.) w art. 281 w ust. 1 pkt 2 otrzymuje brzmienie: „
+**Art. 9.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2016 r. poz. 1896, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 724, 768, 791 i 1089.) w art. 281 w ust. 1 pkt 2 otrzymuje brzmienie: „
 
-- **2)** organu Krajowej Administracji Skarbowej: w związku z toczącym się postępowaniem w sprawie o przestępstwo skarbowe lub o wykroczenie skarbowe, jeżeli są niezbędne w toczącym się postępowaniu, lub jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom lub przestępstwom skarbowym, ich wykrycia albo ustalenia ich sprawców i uzyskania dowodów ich popełnienia, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa lub przestępstwa skarbowego albo ich równowartości – w zakresie, o którym mowa w art. 127a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.); ” .
+- **2)** organu Krajowej Administracji Skarbowej: w związku z toczącym się postępowaniem w sprawie o przestępstwo skarbowe lub o wykroczenie skarbowe, jeżeli są niezbędne w toczącym się postępowaniu, lub jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom lub przestępstwom skarbowym, ich wykrycia albo ustalenia ich sprawców i uzyskania dowodów ich popełnienia, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa lub przestępstwa skarbowego albo ich równowartości – w zakresie, o którym mowa w art. 127a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491.); ” .
     - **a)**
     - **b)**
 
 **Art. 10.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2017 r. poz. 1768 i 2486) w art. 149 pkt 4 otrzymuje brzmienie: „
 
-- **4)** organu Krajowej Administracji Skarbowej: w związku z toczącym się postępowaniem w sprawie o: – przestępstwo skarbowe lub o wykroczenie skarbowe przeciwko osobie fizycznej będącej stroną umowy lub innej czynności prawnej objętej tajemnicą zawodową – w zakresie informacji dotyczących tej osoby, – przestępstwo skarbowe popełnione przy wykonywaniu czynności związanych z działalnością osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, będącej stroną umowy lub innej czynności prawnej objętej tajemnicą zawodową – w zakresie informacji dotyczących tej osoby prawnej lub jednostki organizacyjnej; jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom lub przestępstwom skarbowym, ich wykrycia albo ustalenia ich sprawców i uzyskania dowodów ich popełnienia, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa lub przestępstwa skarbowego albo ich równowartości – w zakresie, o którym mowa w art. 127a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.); ” .
+- **4)** organu Krajowej Administracji Skarbowej: w związku z toczącym się postępowaniem w sprawie o: – przestępstwo skarbowe lub o wykroczenie skarbowe przeciwko osobie fizycznej będącej stroną umowy lub innej czynności prawnej objętej tajemnicą zawodową – w zakresie informacji dotyczących tej osoby, – przestępstwo skarbowe popełnione przy wykonywaniu czynności związanych z działalnością osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, będącej stroną umowy lub innej czynności prawnej objętej tajemnicą zawodową – w zakresie informacji dotyczących tej osoby prawnej lub jednostki organizacyjnej; jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom lub przestępstwom skarbowym, ich wykrycia albo ustalenia ich sprawców i uzyskania dowodów ich popełnienia, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa lub przestępstwa skarbowego albo ich równowartości – w zakresie, o którym mowa w art. 127a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491.); ” .
     - **a)**
     - **b)**
 
@@ -776,10 +769,10 @@ po art. 297b dodaje się art. 297c w brzmieniu:
 - **1)** w art. 9f w ust. 1: po pkt 5b dodaje się pkt 5c w brzmieniu: „
     - **a)**
 
-- **5c)** Szefowi Krajowej Administracji Skarbowej oraz izbie rozliczeniowej, o której mowa w art. 67 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, w zakresie niezbędnym do wykonywania odpowiednio zadań i obowiązków, o których mowa w dziale IIIB ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.); ” , pkt 16 otrzymuje brzmienie: „
+- **5c)** Szefowi Krajowej Administracji Skarbowej oraz izbie rozliczeniowej, o której mowa w art. 67 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, w zakresie niezbędnym do wykonywania odpowiednio zadań i obowiązków, o których mowa w dziale IIIB ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537, 2169 i 2491.); ” , pkt 16 otrzymuje brzmienie: „
     - **b)**
 
-- **16)** na żądanie organu Krajowej Administracji Skarbowej: w związku z prowadzoną sprawą o przestępstwo skarbowe lub o wykroczenie skarbowe przeciwko członkowi kasy, o ile informacje mają związek z tą sprawą, lub jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom lub przestępstwom skarbowym, ich wykrycia albo ustalenia ich sprawców i uzyskania dowodów ich popełnienia, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa lub przestępstwa skarbowego albo ich równowartości – w zakresie, o którym mowa w art. 127a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.); ” ;
+- **16)** na żądanie organu Krajowej Administracji Skarbowej: w związku z prowadzoną sprawą o przestępstwo skarbowe lub o wykroczenie skarbowe przeciwko członkowi kasy, o ile informacje mają związek z tą sprawą, lub jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom lub przestępstwom skarbowym, ich wykrycia albo ustalenia ich sprawców i uzyskania dowodów ich popełnienia, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa lub przestępstwa skarbowego albo ich równowartości – w zakresie, o którym mowa w art. 127a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491.); ” ;
     - **a)**
     - **b)**
 
@@ -807,12 +800,15 @@ po art. 297b dodaje się art. 297c w brzmieniu:
 
 3. Środki pieniężne znajdujące się na rachunku będącym przedmiotem blokady rachunku podmiotu kwalifikowanego w rozumieniu art. 119zg pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa nie podlegają zajęciu na podstawie sądowego lub administracyjnego tytułu wykonawczego, poza wyjątkami określonymi w przepisach o postępowaniu egzekucyjnym. ” .
 
-**Art. 12.** W ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2017 r. poz. 1937) w art. 54 ust. 1 otrzymuje brzmienie: „ 1. W przypadku gdy środki zdeponowane na rachunku zostały zablokowane na podstawie przepisów ustawy z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2017 r. poz. 1049) lub została dokonana blokada rachunku podmiotu kwalifikowanego w rozumieniu art. 119zg pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.), wypłatę środków gwarantowanych zawiesza się na czas trwania blokady. ” .
+**Art. 12.** W ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2017 r. poz. 1937) w art. 54 ust. 1 otrzymuje brzmienie: „ 1. W przypadku gdy środki zdeponowane na rachunku zostały zablokowane na podstawie przepisów ustawy z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2017 r. poz. 1049) lub została dokonana blokada rachunku podmiotu kwalifikowanego w rozumieniu art. 119zg pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537, 2169 i 2491.), wypłatę środków gwarantowanych zawiesza się na czas trwania blokady. ” .
 
-**Art. 13.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 13.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321 i 2409.) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: w ust. 1: – po pkt 12 dodaje się pkt 12a w brzmieniu: „ 12a) przeciwdziałanie wykorzystywaniu działalności banków w rozumieniu art. 119zg pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.), zwanej dalej „Ordynacją podatkową”, i spółdzielczych kas oszczędnościowo-kredytowych do celów mających związek z wyłudzeniami skarbowymi w rozumieniu art. 119zg pkt 9 Ordynacji podatkowej oraz nadzór nad wykonywaniem przez izbę rozliczeniową w rozumieniu art. 119zg pkt 3 Ordynacji podatkowej obowiązków, o których mowa w dziale IIIB Ordynacji podatkowej; ” , – pkt 15 otrzymuje brzmienie: „ 15) rozpoznawanie, wykrywanie i zwalczanie przestępstw określonych w art. 258, art. 270, art. 270a, art. 271, art. 271a, art. 273, art. 277a, art. 286 § 1 oraz art. 299 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2017 r. poz. 2204), zwanej dalej „Kodeksem karnym”, w związku z którymi nastąpiło uszczuplenie lub narażenie na uszczuplenie należności publicznoprawnej, zapobieganie tym przestępstwom oraz ściganie ich sprawców, jeżeli zostały ujawnione przez KAS; ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Kontrolę celno-skarbową w zakresie, o którym mowa w art. 54 ust. 1 pkt 2, wykonywaną w oddziałach celnych urzędów celno-skarbowych, art. 54 ust. 2 pkt 1 i 6–8, art. 62 ust. 5 pkt 1 lit. a-c, e i f oraz art. 64 ust. 2, czynności, o których mowa w art. 113–117, art. 118 ust. 1–17, art. 119 ust. 1–10, art. 120 ust. 1–6, art. 122–126, art. 127 ust. 1–5, art. 127a ust. 1, 2 i 6–12, art. 128 ust. 1, art. 131 ust. 1, 2 i 5 i art. 133, oraz: ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **1)** w art. 2: w ust. 1: po pkt 12 dodaje się pkt 12a w brzmieniu: „
     - **a)**
+
+- **12a)** przeciwdziałanie wykorzystywaniu działalności banków w rozumieniu art. 119zg pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537, 2169 i 2491.), zwanej dalej „Ordynacją podatkową”, i spółdzielczych kas oszczędnościowo-kredytowych do celów mających związek z wyłudzeniami skarbowymi w rozumieniu art. 119zg pkt 9 Ordynacji podatkowej oraz nadzór nad wykonywaniem przez izbę rozliczeniową w rozumieniu art. 119zg pkt 3 Ordynacji podatkowej obowiązków, o których mowa w dziale IIIB Ordynacji podatkowej; ” , pkt 15 otrzymuje brzmienie: „
+- **15)** rozpoznawanie, wykrywanie i zwalczanie przestępstw określonych w art. 258, art. 270, art. 270a, art. 271, art. 271a, art. 273, art. 277a, art. 286 § 1 oraz art. 299 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2017 r. poz. 2204), zwanej dalej „Kodeksem karnym”, w związku z którymi nastąpiło uszczuplenie lub narażenie na uszczuplenie należności publicznoprawnej, zapobieganie tym przestępstwom oraz ściganie ich sprawców, jeżeli zostały ujawnione przez KAS; ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Kontrolę celno-skarbową w zakresie, o którym mowa w art. 54 ust. 1 pkt 2, wykonywaną w oddziałach celnych urzędów celno-skarbowych, art. 54 ust. 2 pkt 1 i 6–8, art. 62 ust. 5 pkt 1 lit. a-c, e i f oraz art. 64 ust. 2, czynności, o których mowa w art. 113–117, art. 118 ust. 1–17, art. 119 ust. 1–10, art. 120 ust. 1–6, art. 122–126, art. 127 ust. 1–5, art. 127a ust. 1, 2 i 6–12, art. 128 ust. 1, art. 131 ust. 1, 2 i 5 i art. 133, oraz: ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -843,9 +839,11 @@ po art. 297b dodaje się art. 297c w brzmieniu:
 3. Czynności, o których mowa w ust. 1, przeprowadzają wyłącznie:
 
 - **1)** funkcjonariusze pełniący służbę w wyodrębnionych komórkach organizacyjnych urzędu obsługującego ministra albo urzędu celno-skarbowego,
-- **2)** funkcjonariusze, o których mowa w art. 2 ust. 2a, oddelegowani do wykonywania zadań służbowych w komórkach, o których mowa w pkt 1 zwani dalej „funkcjonariuszami wykonującymi czynności operacyjno-rozpoznawcze”. ” ;
-- **8)** w art. 122: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dane, o których mowa w art. 114 ust. 1 i art. 115 ust. 1, oraz materiały uzyskane w trybie art. 113 ust. 1, art. 117 ust. 1, art. 118 ust. 1 i 3, art. 119 ust. 1 i 2, art. 120 ust. 1 oraz art. 127a ust. 1 i 2, które: ” , – pkt 1 otrzymuje brzmienie: „ 1) zawierają informacje mające znaczenie dla kontroli celno-skarbowej, postępowania podatkowego, postępowania w sprawach celnych lub postępowania w sprawach o przestępstwa skarbowe oraz przestępstwa, o których mowa w art. 2 ust. 1 pkt 14–16, a także dla ujawniania i odzyskiwania mienia zagrożonego przepadkiem w związku z przestępstwami, o których mowa w art. 2 ust. 1 pkt 13–16 albo art. 33 § 2 Kodeksu karnego skarbowego, są przekazywane właściwemu miejscowo organowi KAS; ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **2)** funkcjonariusze, o których mowa w art. 2 ust. 2a, oddelegowani do wykonywania zadań służbowych w komórkach, o których mowa w pkt 1 – zwani dalej „funkcjonariuszami wykonującymi czynności operacyjno-rozpoznawcze”. ” ;
+- **8)** w art. 122: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dane, o których mowa w art. 114 ust. 1 i art. 115 ust. 1, oraz materiały uzyskane w trybie art. 113 ust. 1, art. 117 ust. 1, art. 118 ust. 1 i 3, art. 119 ust. 1 i 2, art. 120 ust. 1 oraz art. 127a ust. 1 i 2, które: ” , pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** zawierają informacje mające znaczenie dla kontroli celno-skarbowej, postępowania podatkowego, postępowania w sprawach celnych lub postępowania w sprawach o przestępstwa skarbowe oraz przestępstwa, o których mowa w art. 2 ust. 1 pkt 14–16, a także dla ujawniania i odzyskiwania mienia zagrożonego przepadkiem w związku z przestępstwami, o których mowa w art. 2 ust. 1 pkt 13–16 albo art. 33 § 2 Kodeksu karnego skarbowego, są przekazywane właściwemu miejscowo organowi KAS; ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Dane, o których mowa w art. 114 ust. 1 i art. 115 ust. 1, oraz materiały uzyskane w trybie art. 113 ust. 1, art. 117 ust. 1, art. 118 ust. 1 i 3, art. 119 ust. 1 i 2, art. 120 ust. 1 oraz art. 127a ust. 1 i 2 mogą być wykorzystywane w celu wykonywania zadania, o którym mowa w art. 14 ust. 1 pkt 5a. ” ;
@@ -1089,6 +1087,6 @@ po art. 297b dodaje się art. 297c w brzmieniu:
 **Art. 27.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 13 pkt 18–20, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-- **2)** art. 1, art. 2, art. 4 pkt 3 w zakresie przepisów art. 119zg pkt 2, art. 119zv-119zze i art. 119zzh § 2 oraz pkt 9 w zakresie art. 305q, art. 5 pkt 1, art. 7, art. 11 pkt 3, art. 12 oraz art. 24 ust. 2 pkt 2, które wchodzą w życie po upływie 4 miesięcy od dnia ogłoszenia.
+- **2)** art. 1, art. 2, art. 4 pkt 3 w zakresie przepisów art. 119zg pkt 2, art. 119zv-119zze i art. 119zzh § 2 oraz pkt 9 w zakresie art. 305q, art. 5 pkt 1, art. 7, art. 11 pkt 3, art. 12 oraz art. 24 ust. 2 pkt 2, które wchodzą w życie po upływie 4 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 26 października 2000 r. o giełdach towarowych, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933, 1133, 1136, 1452, 1475, 1596, 1727, 1883, 2180 i 2245. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537, 2169 i 2491. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537 i 2169. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321 i 2409. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537, 2169 i 2491. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537, 2169 i 2491. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 724, 768, 791 i 1089. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491. 12) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537, 2169 i 2491. 14) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537, 2169 i 2491. 16) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321 i 2409. 17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537, 2169 i 2491.
 
 

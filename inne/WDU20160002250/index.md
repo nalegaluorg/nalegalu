@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-02 |
 | Data wydania | 2016-12-30 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002250) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2250/text.pdf) |
 
@@ -36,7 +35,7 @@ source: "eli-html"
 1a. Składka na ubezpieczenie zdrowotne osób, o których mowa w art. 66 ust. 1 pkt 1 lit. b i pkt 34, oraz domowników rolników, którzy prowadzą działalność w zakresie działów specjalnych w rozumieniu art. 6 pkt 5 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, zwanych dalej „działami specjalnymi”, i dodatkowo w gospodarstwie rolnym, z wyłączeniem rolników prowadzących działalność:
 
 - **1)** wyłącznie w zakresie działów specjalnych i ich domowników,
-- **2)** w zakresie działów specjalnych i dodatkowo w gospodarstwie rolnym za każdą osobę podlegającą ubezpieczeniu wynosi 1 zł za każdy pełny hektar przeliczeniowy użytków rolnych w gospodarstwie rolnym, przyjęty dla celów ustalenia wymiaru składek na ubezpieczenie społeczne rolników. W gospodarstwach rolnych o powierzchni poniżej 1 hektara przeliczeniowego użytków rolnych składka wynosi 1 zł. ” , ust. 2 otrzymuje brzmienie: „
+- **2)** w zakresie działów specjalnych i dodatkowo w gospodarstwie rolnym – za każdą osobę podlegającą ubezpieczeniu wynosi 1 zł za każdy pełny hektar przeliczeniowy użytków rolnych w gospodarstwie rolnym, przyjęty dla celów ustalenia wymiaru składek na ubezpieczenie społeczne rolników. W gospodarstwach rolnych o powierzchni poniżej 1 hektara przeliczeniowego użytków rolnych składka wynosi 1 zł. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Rolnik prowadzący działalność w zakresie działów specjalnych opłaca składki na ubezpieczenie zdrowotne od deklarowanej podstawy wymiaru składki odpowiadającej:
@@ -93,8 +92,11 @@ source: "eli-html"
 
 4c. Przepisy ust. 4a i 4b nie dotyczą ubezpieczonych, którzy odrębnie deklarują kwotę dochodu z działów specjalnych. ” ;
 
-- **8)** w art. 106: w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W skład rady oddziału wojewódzkiego Funduszu wchodzi dziewięciu członków będących ubezpieczonymi zamieszkującymi na obszarze działania danego oddziału wojewódzkiego Funduszu, powoływanych przez właściwego wojewodę, w tym: ” , – pkt 2 otrzymuje brzmienie: „ 2) dwóch członków będących przedstawicielami właściwego wojewody; ” , – pkt 5 otrzymuje brzmienie: „ 5) jednego członka powołuje się spośród kandydatów wskazanych przez organizacje pacjentów działających na rzecz praw pacjenta, zgłoszonych w terminie 14 dni od dnia publikacji na stronach Biuletynu Informacji Publicznej urzędu obsługującego wojewodę ogłoszenia o zamiarze powołania członka rady; ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **8)** w art. 106: w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W skład rady oddziału wojewódzkiego Funduszu wchodzi dziewięciu członków będących ubezpieczonymi zamieszkującymi na obszarze działania danego oddziału wojewódzkiego Funduszu, powoływanych przez właściwego wojewodę, w tym: ” , pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** dwóch członków będących przedstawicielami właściwego wojewody; ” , pkt 5 otrzymuje brzmienie: „
+- **5)** jednego członka powołuje się spośród kandydatów wskazanych przez organizacje pacjentów działających na rzecz praw pacjenta, zgłoszonych w terminie 14 dni od dnia publikacji na stronach Biuletynu Informacji Publicznej urzędu obsługującego wojewodę ogłoszenia o zamiarze powołania członka rady; ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. W przypadku gdy podmioty, o których mowa w ust. 2 pkt 5, nie wskażą kandydatów na członka rady oddziału wojewódzkiego Funduszu, mimo dwukrotnej publikacji ogłoszenia o zamiarze powołania członka tej rady na stronach Biuletynu Informacji Publicznej urzędu obsługującego wojewodę, kandydata wskazuje właściwy wojewoda. ” , ust. 3 otrzymuje brzmienie: „

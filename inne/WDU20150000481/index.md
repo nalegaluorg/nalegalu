@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 26 marca 2015 r. w sprawie wysyłkowej sprzedaży produktów leczniczych
+# Rozporządzenie Ministra Zdrowiaz dnia 26 marca 2015 r. w sprawie wysyłkowej sprzedaży produktów leczniczych Niniejsze rozporządzenie wdraża w zakresie swojej regulacji dyrektywę Parlamentu Europejskiego i Rady 2011/62/UE z dnia 8 czerwca 2011 r. zmieniającą dyrektywę 2001/83/WE w sprawie wspólnotowego kodeksu odnoszącego się do produktów leczniczych stosowanych u ludzi – w zakresie zapobiegania wprowadzaniu sfałszowanych produktów leczniczych do legalnego łańcucha dystrybucji (Dz. Urz. UE L 174 z 01.07.2011, str. 74).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-03-26 |
 | Data wydania | 2015-04-03 |
-| Wejście w życie | 2015-05-04 |
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000481) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/481/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 68 ust. 3a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 68 ust. 3a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28 i 277.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -153,5 +152,5 @@ Podmiot prowadzący placówkę zajmującą się wysyłkową sprzedażą produkt�
 § 8.
 Formularz zamówienia, o którym mowa w § 2 ust. 2, jest przechowywany przez okres 3 lat, licząc od pierwszego dnia roku kalendarzowego następującego po roku, w którym złożono zamówienie.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 14 marca 2008 r. w sprawie warunków wysyłkowej sprzedaży produktów leczniczych wydawanych bez przepisu lekarza (Dz. U. Nr 60, poz. 374), które utraciło moc z dniem wejścia w życie ustawy z dnia 19 grudnia 2014 r. o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw (Dz. U. z 2015 r. poz. 28). 2) Niniejsze rozporządzenie wdraża w zakresie swojej regulacji dyrektywę Parlamentu Europejskiego i Rady 2011/62/UE z dnia 8 czerwca 2011 r. zmieniającą dyrektywę 2001/83/WE w sprawie wspólnotowego kodeksu odnoszącego się do produktów leczniczych stosowanych u ludzi – w zakresie zapobiegania wprowadzaniu sfałszowanych produktów leczniczych do legalnego łańcucha dystrybucji (Dz. Urz. UE L 174 z 01.07.2011, str. 74). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28 i 277. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 14 marca 2008 r. w sprawie warunków wysyłkowej sprzedaży produktów leczniczych wydawanych bez przepisu lekarza (Dz. U. Nr 60, poz. 374), które utraciło moc z dniem wejścia w życie ustawy z dnia 19 grudnia 2014 r. o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw (Dz. U. z 2015 r. poz. 28).
 

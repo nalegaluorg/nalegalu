@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 lipca 1999 r. o utworzeniu Uniwersytetu Warmińsko-Mazurskiego w Olsztynie (Dz. U. Nr 69, poz. 762), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 czerwca 2019 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi: „
 
 **Art. 350.** Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem:
 
@@ -57,11 +56,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Z dniem utworzenia Uniwersytetu właściwe władze Kościoła Katolickiego zniosą Warmiński Instytut Teologiczny w Olsztynie.
 
-**Art. 4.**
-
-1. Nadzór nad Uniwersytetem sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki.
-
-2. Status prawny Wydziału Teologii Uniwersytetu, o którym mowa w art. 7 ust. 3, reguluje umowa między Konferencją Episkopatu Polski a Rządem Rzeczypospolitej Polskiej. Zakres nadzoru Kościoła Katolickiego nad Wydziałem Teologii określa umowa oraz statut uczelni.
+**Art. 4.** 1W brzmieniu ustalonym przez art. 44 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r.. Nadzór nad Uniwersytetem sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki. 2. Status prawny Wydziału Teologii Uniwersytetu, o którym mowa w art. 7 ust. 3, reguluje umowa między Konferencją Episkopatu Polski a Rządem Rzeczypospolitej Polskiej. Zakres nadzoru Kościoła Katolickiego nad Wydziałem Teologii określa umowa oraz statut uczelni.
 
 **Art. 5.**
 
@@ -82,7 +77,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 1. Z dniem utworzenia Uniwersytetu:
 
 - **1)** pracownicy zatrudnieni w jednostkach, o których mowa w art. 3 ust. 1, stają się pracownikami Uniwersytetu;
-- **2)** studenci Akademii Rolniczo-Technicznej im. Michała Oczapowskiego w Olsztynie, Wyższej Szkoły Pedagogicznej w Olsztynie oraz studenci Warmińskiego Instytutu Teologicznego w Olsztynie, spełniający wymagania art. 140 ust. 1 ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. poz. 385, z późn. zm.), stają się studentami Uniwersytetu.
+- **2)** studenci Akademii Rolniczo-Technicznej im. Michała Oczapowskiego w Olsztynie, Wyższej Szkoły Pedagogicznej w Olsztynie oraz studenci Warmińskiego Instytutu Teologicznego w Olsztynie, spełniający wymagania art. 140 ust. 1 ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. poz. 385, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. poz. 254 i 314, z 1994 r. poz. 3, 163, 509 i 591, z 1996 r. poz. 34 i 110, z 1997 r. poz. 153, 590, 661, 770 i 943, z 1998 r. poz. 310, 668, 1115 i 1118, z 2000 r. poz. 1268 i 1314, z 2001 r. poz. 924, 1129, 1193, 1194 i 1383, z 2002 r. poz. 33, 34, 1239, 1271 i 1683, z 2003 r. poz. 595, 1176, 1304 i 2081, z 2004 r. poz. 959, 1206, 1598 i 1845 oraz z 2005 r. poz. 71, 187 i 788.)Ustawa utraciła moc z dniem 1 września 2005 r. na podstawie art. 276 pkt 2 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. poz. 1365), która weszła w życie z dniem 1 września 2005 r., stają się studentami Uniwersytetu.
 
 2. Osoby przyjęte na pierwszy rok studiów na rok akademicki 1999/2000 do Akademii Rolniczo-Technicznej im. Michała Oczapowskiego w Olsztynie i Wyższej Szkoły Pedagogicznej w Olsztynie oraz Warmińskiego Instytutu Teologicznego w Olsztynie z dniem utworzenia Uniwersytetu stają się jego studentami.
 
@@ -100,5 +95,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 4. Do dnia 31 grudnia 1999 r. zostaną przeprowadzone wybory do senatu Uniwersytetu, wybory dziekana i rady wydziału Wydziału Teologii oraz wydziałów, w skład których weszły instytuty znoszonych uczelni, w trybie i na okres ustalony w statucie Uniwersytetu.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 20 sierpnia 1999 r.. 1) W brzmieniu ustalonym przez art. 44 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. poz. 254 i 314, z 1994 r. poz. 3, 163, 509 i 591, z 1996 r. poz. 34 i 110, z 1997 r. poz. 153, 590, 661, 770 i 943, z 1998 r. poz. 310, 668, 1115 i 1118, z 2000 r. poz. 1268 i 1314, z 2001 r. poz. 924, 1129, 1193, 1194 i 1383, z 2002 r. poz. 33, 34, 1239, 1271 i 1683, z 2003 r. poz. 595, 1176, 1304 i 2081, z 2004 r. poz. 959, 1206, 1598 i 1845 oraz z 2005 r. poz. 71, 187 i 788. 3) Ustawa utraciła moc z dniem 1 września 2005 r. na podstawie art. 276 pkt 2 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. poz. 1365), która weszła w życie z dniem 1 września 2005 r. 4) Ustawa została ogłoszona w dniu 20 sierpnia 1999 r.
 

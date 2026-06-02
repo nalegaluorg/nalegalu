@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-01-29 |
 | Data wydania | 2004-03-05 |
-| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040350305) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/305/text.pdf) |
 

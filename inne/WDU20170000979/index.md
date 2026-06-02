@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 24 kwietnia 2017 r. zmieniające rozporządzenie w sprawie składu oraz oznakowania suplementów diety
+# Rozporządzenie Ministra Zdrowiaz dnia 24 kwietnia 2017 r. zmieniające rozporządzenie w sprawie składu oraz oznakowania suplementów diety Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-24 |
 | Data wydania | 2017-05-18 |
-| Wejście w życie | 2017-06-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000979) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/979/text.pdf) |
 
@@ -33,41 +32,31 @@ Treść rozporządzenia
 ## Załącznik nr 2 — – Wykaz form chemicznych witamin i składników mineralnych, które mogą być stosowane w produkcji suplementów diety
 
 Treść rozporządzenia
-Na podstawie art. 27 ust. 6 i 7 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2017 r. poz. 149 i 60) zarządza się, co następuje:
+Niniejsze rozporządzenie służy stosowaniu rozporządzenia Komisji (UE) nr 2015/414 z dnia 12 marca 2015 r. zmieniającego dyrektywę 2002/46/WE Parlamentu Europejskiego i Rady w odniesieniu do soli glukozaminowej kwasu (6S)-5-metylotetrahydrofoliowego stosowanej w produkcji suplementów diety (Dz. Urz. UE L 68 z 13.03.2015, str. 26). Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 9 stycznia 2017 r. pod numerem 2017/8/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 27 ust. 6 i 7 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2017 r. poz. 149 i 60) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 9 października 2007 r. w sprawie składu oraz oznakowania suplementów diety (Dz. U. z 2015 r. poz. 2032) wprowadza się następujące zmiany:
 1)
-§ 3 otrzymuje brzmienie:
-„
+§ 3 otrzymuje brzmienie: „
 § 3.
-Do kryteriów czystości dla substancji wymienionych w załączniku nr 2 do rozporządzenia stosuje się rozporządzenie Komisji (UE) nr 231/2012 z dnia 9 marca 2012 r. ustanawiające specyfikacje dla dodatków do żywności wymienionych w załącznikach II i III do rozporządzenia (WE) nr 1333/2008 Parlamentu Europejskiego i Rady (Dz. Urz. UE L 83 z 22.03.2012, str. 1, z późn. zm.).
-” ;
+Do kryteriów czystości dla substancji wymienionych w załączniku nr 2 do rozporządzenia stosuje się rozporządzenie Komisji (UE) nr 231/2012 z dnia 9 marca 2012 r. ustanawiające specyfikacje dla dodatków do żywności wymienionych w załącznikach II i III do rozporządzenia (WE) nr 1333/2008 Parlamentu Europejskiego i Rady (Dz. Urz. UE L 83 z 22.03.2012, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 310 z 09.11.2012, str. 45, Dz. Urz. UE L 13 z 17.01.2013, str. 1, Dz. Urz. UE L 143 z 30.05.2013, str. 20, Dz. Urz. UE L 145 z 31.05.2013, str. 37, Dz. Urz. UE L 202 z 27.07.2013, str. 11, Dz. Urz. UE L 204 z 31.07.2013, str. 35, Dz. Urz. UE L 230 z 29.08.2013, str. 1, Dz. Urz. UE L 230 z 29.08.2013, str. 7, Dz. Urz. UE L 328 z 07.12.2013, str. 79, Dz. Urz. UE L 76 z 15.03.2014, str. 22, Dz. Urz. UE L 89 z 25.03.2014, str. 36, Dz. Urz. UE L 143 z 15.05.2014, str. 6, Dz. Urz. UE L 145 z 16.05.2014, str. 35, Dz. Urz. UE L 182 z 21.06.2014, str. 23, Dz. Urz. UE L 252 z 26.08.2014, str. 11, Dz. Urz. UE L 270 z 11.09.2014, str. 1, Dz. Urz. UE L 272 z 13.09.2014, str. 1, Dz. Urz. UE L 76 z 20.03.2015, str. 42, Dz. Urz. UE L 107 z 25.04.2015, str. 17, Dz. Urz. UE L 252 z 29.09.2015, str. 12, Dz. Urz. UE L 253 z 30.09.2015, str. 3, Dz. Urz. UE L 278 z 14.10.2016, str. 37 oraz Dz. Urz. UE L 49 z 25.02.2017, str. 1.. ” ;
 2)
-w § 4 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
-„
+w § 4 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 2.
-Minimalna ilość witamin i składników mineralnych obecnych w suplementach diety w zalecanej porcji do spożycia w ciągu dnia wynosi nie mniej niż 15% referencyjnych wartości spożycia określonych w pkt 1 części A załącznika XIII do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1169/2011 z dnia 25 października 2011 r. w sprawie przekazywania konsumentom informacji na temat żywności, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 1924/2006 i (WE) nr 1925/2006 oraz uchylenia dyrektywy Komisji 87/250/EWG, dyrektywy Rady 90/496/EWG, dyrektywy Komisji 1999/10/WE, dyrektywy 2000/13/WE Parlamentu Europejskiego i Rady, dyrektyw Komisji 2002/67/WE i 2008/5/WE oraz rozporządzenia Komisji (WE) nr 608/2004 (Dz. Urz. UE L 304 z 22.11.2011, str. 18, z późn. zm.), zwanego dalej „rozporządzeniem nr 1169/2011”.
-” ;
+Minimalna ilość witamin i składników mineralnych obecnych w suplementach diety w zalecanej porcji do spożycia w ciągu dnia wynosi nie mniej niż 15% referencyjnych wartości spożycia określonych w pkt 1 części A załącznika XIII do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1169/2011 z dnia 25 października 2011 r. w sprawie przekazywania konsumentom informacji na temat żywności, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 1924/2006 i (WE) nr 1925/2006 oraz uchylenia dyrektywy Komisji 87/250/EWG, dyrektywy Rady 90/496/EWG, dyrektywy Komisji 1999/10/WE, dyrektywy 2000/13/WE Parlamentu Europejskiego i Rady, dyrektyw Komisji 2002/67/WE i 2008/5/WE oraz rozporządzenia Komisji (WE) nr 608/2004 (Dz. Urz. UE L 304 z 22.11.2011, str. 18, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 306 z 16.11.2013, str. 7, Dz. Urz. UE L 343 z 19.12.2013, str. 26, Dz. Urz. UE L 346 z 20.12.2013, str. 89, Dz. Urz. UE L 27 z 30.01.2014, str. 7, Dz. Urz. UE L 331 z 18.11.2014, str. 40, Dz. Urz. UE L 327 z 11.12.2015, str. 1 oraz Dz. Urz. UE L 266 z 30.09.2016, str. 7., zwanego dalej „rozporządzeniem nr 1169/2011”. ” ;
 3)
 w § 5:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Do znakowania suplementów diety stosuje się przepisy rozporządzenia nr 1169/2011, z uwzględnieniem ust. 2–7.
-” ,
+Do znakowania suplementów diety stosuje się przepisy rozporządzenia nr 1169/2011, z uwzględnieniem ust. 2–7. ” ,
 b)
-w ust. 2 pkt 2 otrzymuje brzmienie:
-„
+w ust. 2 pkt 2 otrzymuje brzmienie: „
 2)
-nazwy kategorii substancji odżywczych lub substancji charakteryzujących produkt lub wskazanie charakteru tych substancji;
-” ,
+nazwy kategorii substancji odżywczych lub substancji charakteryzujących produkt lub wskazanie charakteru tych substancji; ” ,
 c)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
-Informacje o zawartości witamin i składników mineralnych podaje się również w procentach w stosunku do referencyjnych wartości spożycia określonych w pkt 1 części A załącznika XIII do rozporządzenia nr 1169/2011.
-” ;
+Informacje o zawartości witamin i składników mineralnych podaje się również w procentach w stosunku do referencyjnych wartości spożycia określonych w pkt 1 części A załącznika XIII do rozporządzenia nr 1169/2011. ” ;
 4)
 załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 5)
@@ -77,8 +66,7 @@ uchyla się załącznik nr 3 do rozporządzenia.
 § 2.
 Suplementy diety wprowadzone do obrotu przed dniem wejścia w życie niniejszego rozporządzenia niespełniające wymagań określonych w § 4 ust. 2 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, lub oznakowane przed dniem wejścia w życie niniejszego rozporządzenia mogą być przedmiotem obrotu do czasu upływu terminu ich przydatności do spożycia lub daty minimalnej trwałości.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Komisji (UE) nr 2015/414 z dnia 12 marca 2015 r. zmieniającego dyrektywę 2002/46/WE Parlamentu Europejskiego i Rady w odniesieniu do soli glukozaminowej kwasu (6S)-5-metylotetrahydrofoliowego stosowanej w produkcji suplementów diety (Dz. Urz. UE L 68 z 13.03.2015, str. 26). 3) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 9 stycznia 2017 r. pod numerem 2017/8/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 310 z 09.11.2012, str. 45, Dz. Urz. UE L 13 z 17.01.2013, str. 1, Dz. Urz. UE L 143 z 30.05.2013, str. 20, Dz. Urz. UE L 145 z 31.05.2013, str. 37, Dz. Urz. UE L 202 z 27.07.2013, str. 11, Dz. Urz. UE L 204 z 31.07.2013, str. 35, Dz. Urz. UE L 230 z 29.08.2013, str. 1, Dz. Urz. UE L 230 z 29.08.2013, str. 7, Dz. Urz. UE L 328 z 07.12.2013, str. 79, Dz. Urz. UE L 76 z 15.03.2014, str. 22, Dz. Urz. UE L 89 z 25.03.2014, str. 36, Dz. Urz. UE L 143 z 15.05.2014, str. 6, Dz. Urz. UE L 145 z 16.05.2014, str. 35, Dz. Urz. UE L 182 z 21.06.2014, str. 23, Dz. Urz. UE L 252 z 26.08.2014, str. 11, Dz. Urz. UE L 270 z 11.09.2014, str. 1, Dz. Urz. UE L 272 z 13.09.2014, str. 1, Dz. Urz. UE L 76 z 20.03.2015, str. 42, Dz. Urz. UE L 107 z 25.04.2015, str. 17, Dz. Urz. UE L 252 z 29.09.2015, str. 12, Dz. Urz. UE L 253 z 30.09.2015, str. 3, Dz. Urz. UE L 278 z 14.10.2016, str. 37 oraz Dz. Urz. UE L 49 z 25.02.2017, str. 1. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 306 z 16.11.2013, str. 7, Dz. Urz. UE L 343 z 19.12.2013, str. 26, Dz. Urz. UE L 346 z 20.12.2013, str. 89, Dz. Urz. UE L 27 z 30.01.2014, str. 7, Dz. Urz. UE L 331 z 18.11.2014, str. 40, Dz. Urz. UE L 327 z 11.12.2015, str. 1 oraz Dz. Urz. UE L 266 z 30.09.2016, str. 7.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Komisji (UE) nr 2015/414 z dnia 12 marca 2015 r. zmieniającego dyrektywę 2002/46/WE Parlamentu Europejskiego i Rady w odniesieniu do soli glukozaminowej kwasu (6S)-5-metylotetrahydrofoliowego stosowanej w produkcji suplementów diety (Dz. Urz. UE L 68 z 13.03.2015, str. 26). 3) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 9 stycznia 2017 r. pod numerem 2017/8/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 310 z 09.11.2012, str. 45, Dz. Urz. UE L 13 z 17.01.2013, str. 1, Dz. Urz. UE L 143 z 30.05.2013, str. 20, Dz. Urz. UE L 145 z 31.05.2013, str. 37, Dz. Urz. UE L 202 z 27.07.2013, str. 11, Dz. Urz. UE L 204 z 31.07.2013, str. 35, Dz. Urz. UE L 230 z 29.08.2013, str. 1, Dz. Urz. UE L 230 z 29.08.2013, str. 7, Dz. Urz. UE L 328 z 07.12.2013, str. 79, Dz. Urz. UE L 76 z 15.03.2014, str. 22, Dz. Urz. UE L 89 z 25.03.2014, str. 36, Dz. Urz. UE L 143 z 15.05.2014, str. 6, Dz. Urz. UE L 145 z 16.05.2014, str. 35, Dz. Urz. UE L 182 z 21.06.2014, str. 23, Dz. Urz. UE L 252 z 26.08.2014, str. 11, Dz. Urz. UE L 270 z 11.09.2014, str. 1, Dz. Urz. UE L 272 z 13.09.2014, str. 1, Dz. Urz. UE L 76 z 20.03.2015, str. 42, Dz. Urz. UE L 107 z 25.04.2015, str. 17, Dz. Urz. UE L 252 z 29.09.2015, str. 12, Dz. Urz. UE L 253 z 30.09.2015, str. 3, Dz. Urz. UE L 278 z 14.10.2016, str. 37 oraz Dz. Urz. UE L 49 z 25.02.2017, str. 1. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 306 z 16.11.2013, str. 7, Dz. Urz. UE L 343 z 19.12.2013, str. 26, Dz. Urz. UE L 346 z 20.12.2013, str. 89, Dz. Urz. UE L 27 z 30.01.2014, str. 7, Dz. Urz. UE L 331 z 18.11.2014, str. 40, Dz. Urz. UE L 327 z 11.12.2015, str. 1 oraz Dz. Urz. UE L 266 z 30.09.2016, str. 7.
 
 ## Załącznik nr 1 — – Wykaz witamin i składników mineralnych, które mogą być stosowane w produkcji suplementów diety
 
@@ -145,8 +133,7 @@ Sód (mg);
 16)
 Bor (mg);
 17)
-Krzem (mg).
-Objaśnienie: 1) Obejmuje wszystkie formy folianów.
+Krzem (mg). Objaśnienie: 1) Obejmuje wszystkie formy folianów.
 
 ## Załącznik nr 2 — – Wykaz form chemicznych witamin i składników mineralnych, które mogą być stosowane w produkcji suplementów diety
 
@@ -553,8 +540,7 @@ kwas ortokrzemowy stabilizowany choliną;
 140)
 ditlenek krzemu;
 141)
-kwas krzemowy7).
-Objaśnienia: 1) Alfa-tokoferol < 20%, beta-tokoferol < 10%, gamma-tokoferol 50–70% oraz delta-tokoferol 10–30%. 2) Typowe poziomy poszczególnych tokoferoli i tokotrienoli:
+kwas krzemowy7). Objaśnienia: 1) Alfa-tokoferol < 20%, beta-tokoferol < 10%, gamma-tokoferol 50–70% oraz delta-tokoferol 10–30%. 2) Typowe poziomy poszczególnych tokoferoli i tokotrienoli:
 – 115 mg/g alfa-tokoferolu (co najmniej 101 mg/g),
 – 5 mg/g beta-tokoferolu (co najmniej < 1 mg/g),
 – 45 mg/g gamma-tokoferolu (co najmniej 25 mg/g),

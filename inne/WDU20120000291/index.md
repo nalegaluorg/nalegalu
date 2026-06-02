@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-03-12 |
 | Data wydania | 2012-03-19 |
-| Wejście w życie | 2012-03-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000291) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/291/text.pdf) |
 

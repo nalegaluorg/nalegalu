@@ -31,14 +31,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Środowiska z dnia 2 lipca 2010 r. w sprawie rodzajów instalacji, których eksploatacja wymaga zgłoszenia (Dz. U. poz. 880), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającym rozporządzenie w sprawie rodzajów instalacji, których eksploatacja wymaga zgłoszenia (Dz. U. poz. 2390).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającego rozporządzenie w sprawie rodzajów instalacji, których eksploatacja wymaga zgłoszenia (Dz. U. poz. 2390), które stanowią: „ 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2015/2193 z dnia 25 listopada 2015 r. w sprawie ograniczenia emisji niektórych zanieczyszczeń do powietrza ze średnich obiektów energetycznego spalania (Dz. Urz. UE L 313 z 28.11.2015, str. 1). ”
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającego rozporządzenie w sprawie rodzajów instalacji, których eksploatacja wymaga zgłoszenia (Dz. U. poz. 2390), które stanowią: „ 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2015/2193 z dnia 25 listopada 2015 r. w sprawie ograniczenia emisji niektórych zanieczyszczeń do powietrza ze średnich obiektów energetycznego spalania (Dz. Urz. UE L 313 z 28.11.2015, str. 1). ” „
 § 2.
 Zgłoszenia instalacji energetycznych o nominalnej mocy cieplnej wynoszącej 1 MW, a jeżeli na terenie jednego zakładu położonych jest kilka instalacji energetycznych, to o łącznej nominalnej mocy cieplnej wynoszącej 1 MW, w skład których wchodzą wyłącznie źródła spalania paliw oddane do użytkowania przed dniem 20 grudnia 2018 r., a w przypadku, gdy pozwolenia na budowę źródeł spalania paliw wydano przed dniem 19 grudnia 2017 r. – oddane do użytkowania nie później niż w dniu 20 grudnia 2018 r., należy dokonać organowi ochrony środowiska w terminie do dnia 31 grudnia 2028 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-” .
-Załącznik – Tekst jednolity rozporządzenia Ministra Środowiska z dnia 2 lipca 2010 r. w sprawie rodzajów instalacji, których eksploatacja wymaga zgłoszenia
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. ” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Środowiska z dnia 2 lipca 2010 r. w sprawie rodzajów instalacji, których eksploatacja wymaga zgłoszeniaMinister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96).
 Na podstawie art. 153 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2019 r. poz. 1396, 1403, 1495 i 1501) zarządza się, co następuje:
 § 1.
 Określa się rodzaje instalacji, z których emisja nie wymaga pozwolenia, a których eksploatacja wymaga zgłoszenia organowi ochrony środowiska.
@@ -65,7 +63,7 @@ b)
 w miejscu innym niż stała lokalizacja.
 4.
 Zgłoszenia z uwagi na wprowadzanie gazów lub pyłów do powietrza wymagają instalacje, z których emisja nie wymaga pozwolenia, określone w rozporządzeniu wydanym na podstawie art. 220 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, z wyjątkiem:
-1)
+1W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającego rozporządzenie w sprawie rodzajów instalacji, których eksploatacja wymaga zgłoszenia (Dz. U. poz. 2390), które weszło w życie z dniem 20 stycznia 2018 r.)
 instalacji energetycznych – o nominalnej mocy cieplnej mniejszej niż 1 MW;
 2)
 instalacji innych niż energetyczne – o nominalnej mocy cieplnej do 0,5 MW;
@@ -96,6 +94,5 @@ Parametry tego samego rodzaju, o których mowa w ust. 4, charakteryzujące skal�
 § 3.
 Traci moc rozporządzenie Ministra Środowiska z dnia 22 grudnia 2004 r. w sprawie rodzajów instalacji, których eksploatacja wymaga zgłoszenia (Dz. U. poz. 2839).
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2011 r., z wyjątkiem § 2 ust. 2, który w odniesieniu do instalacji przekazanych do użytkowania przed dniem 28 lipca 2005 r. wchodzi w życie z dniem 1 stycznia 2013 r.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającego rozporządzenie w sprawie rodzajów instalacji, których eksploatacja wymaga zgłoszenia (Dz. U. poz. 2390), które weszło w życie z dniem 20 stycznia 2018 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2011 r., z wyjątkiem § 2 ust. 2, który w odniesieniu do instalacji przekazanych do użytkowania przed dniem 28 lipca 2005 r. wchodzi w życie z dniem 1 stycznia 2013 r. 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającego rozporządzenie w sprawie rodzajów instalacji, których eksploatacja wymaga zgłoszenia (Dz. U. poz. 2390), które weszło w życie z dniem 20 stycznia 2018 r.
 

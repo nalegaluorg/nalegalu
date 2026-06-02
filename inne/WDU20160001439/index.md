@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej
+# Rozporządzenie Ministra Finansówz dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-09 |
 | Data wydania | 2016-09-09 |
-| Wejście w życie | 2016-09-10 |
 | Ostatnia zmiana | 2024-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001439) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1439/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 1 ustawy z dnia 27 maja 2015 r. o finansowaniu wspólnej polityki rolnej (Dz. U. poz. 1130 oraz z 2016 r. poz. 848) zarządza się, co następuje:
 § 1.
-Przyznaje się Agencji Restrukturyzacji i Modernizacji Rolnictwa, z siedzibą w Warszawie, działającej na podstawie ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2014 r. poz. 1438, z 2015 r. poz. 308 i 349 oraz z 2016 r. poz. 50), akredytację jako agencji płatniczej w rozumieniu art. 7 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549 i 865, z późn. zm.) .
+Przyznaje się Agencji Restrukturyzacji i Modernizacji Rolnictwa, z siedzibą w Warszawie, działającej na podstawie ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2014 r. poz. 1438, z 2015 r. poz. 308 i 349 oraz z 2016 r. poz. 50), akredytację jako agencji płatniczej w rozumieniu art. 7 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549 i 865, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 130 z 19.05.2016, str. 11, Dz. Urz. UE L 135 z 24.05.2016, str. 1.) .
 § 2.
 Akredytacja obejmuje obsługę pomocy w ramach wspólnej polityki rolnej w odniesieniu do:
 1)
@@ -45,6 +44,5 @@ Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2, udziela si�
 § 4.
 Traci moc rozporządzenie Ministra Finansów z dnia 1 lutego 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej, w zakresie uruchamiania środków pochodzących z Europejskiego Funduszu Rolniczego Gwarancji (Dz. U. poz. 144).
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 130 z 19.05.2016, str. 11, Dz. Urz. UE L 135 z 24.05.2016, str. 1.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 130 z 19.05.2016, str. 11, Dz. Urz. UE L 135 z 24.05.2016, str. 1.
 

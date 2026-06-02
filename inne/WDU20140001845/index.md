@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-19 |
 | Data wydania | 2014-12-19 |
-| Wejście w życie | 2014-12-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001845) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1845/text.pdf) |
 
@@ -33,8 +32,7 @@ Do dnia 31 sierpnia 2017 r. zezwala się na produkcję i wprowadzanie na rynek, 
 1)
 benzo(a)pirenu wynosi nie więcej niż 5 µg/kg,
 2)
-sumy WWA (suma benzo(a)pirenu, benz(a)antracenu, benzo(b)fluorantenu i chryzenu) wynosi nie więcej niż 30 µg/kg
-zgodnie z odstępstwem wskazanym w art. 7 ust. 6 rozporządzenia Komisji (WE) nr 1881/2006 z dnia 19 grudnia 2006 r. ustalającego najwyższe dopuszczalne poziomy niektórych zanieczyszczeń w środkach spożywczych (Dz. Urz. UE L 364 z 20.12.2006, str. 5, z późn. zm.).
+sumy WWA (suma benzo(a)pirenu, benz(a)antracenu, benzo(b)fluorantenu i chryzenu) wynosi nie więcej niż 30 µg/kg – zgodnie z odstępstwem wskazanym w art. 7 ust. 6 rozporządzenia Komisji (WE) nr 1881/2006 z dnia 19 grudnia 2006 r. ustalającego najwyższe dopuszczalne poziomy niektórych zanieczyszczeń w środkach spożywczych (Dz. Urz. UE L 364 z 20.12.2006, str. 5, z późn. zm.).
 § 2.
 1.
 Odstępstwo określone w § 1 ma zastosowanie:

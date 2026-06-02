@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 28 kwietnia 2020 r. w sprawie informacji udzielanych zakładom ubezpieczeń przez podmioty wykonujące działalność leczniczą oraz Narodowy Fundusz Zdrowia
+# Rozporządzenie Ministra Zdrowiaz dnia 28 kwietnia 2020 r. w sprawie informacji udzielanych zakładom ubezpieczeń przez podmioty wykonujące działalność leczniczą oraz Narodowy Fundusz Zdrowia Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-04-28 |
 | Data wydania | 2020-04-30 |
-| Wejście w życie | 2020-05-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000784) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/784/text.pdf) |
 
@@ -100,8 +99,7 @@ Udzielenie informacji, o których mowa w art. 38 ust. 7 i 8 ustawy, następuje z
 § 7.
 Do wystąpień zakładów ubezpieczeń o przekazanie informacji, o których mowa w art. 38 ust. 7 i 8 ustawy, złożonych przed dniem wejścia w życie niniejszego rozporządzenia mają zastosowanie przepisy dotychczasowe.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 4 maja 2020 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 13 października 2016 r. w sprawie informacji udzielanych zakładom ubezpieczeń przez podmioty wykonujące działalność leczniczą oraz Narodowy Fundusz Zdrowia (Dz. U. poz. 1754), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 164 pkt 5 ustawy z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730).
+Rozporządzenie wchodzi w życie z dniem 4 maja 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 13 października 2016 r. w sprawie informacji udzielanych zakładom ubezpieczeń przez podmioty wykonujące działalność leczniczą oraz Narodowy Fundusz Zdrowia (Dz. U. poz. 1754), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 164 pkt 5 ustawy z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 13 października 2016 r. w sprawie informacji udzielanych zakładom ubezpieczeń przez podmioty wykonujące działalność leczniczą oraz Narodowy Fundusz Zdrowia (Dz. U. poz. 1754), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 164 pkt 5 ustawy z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730).
 
 ##### Oddział wojewódzki Narodowego Funduszu Zdrowia udziela pisemnej odpowiedzi na wystąpienie w terminie 14 dni od dnia jego otrzymania, po otrzymaniu opłaty, o której mowa w § 5.
 

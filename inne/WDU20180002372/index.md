@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-30 |
 | Data wydania | 2018-12-20 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002372) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2372/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Czynności Krajowej Rady Komorniczej umożliwiające komornikom prowadzenie egzekucji na podstawie elektronicznego tytułu wykonawczego Rozdział 3 – Czynności komornika w egzekucji prowadzonej na podstawie elektronicznego tytułu wykonawczego Rozdział 4 – Sposób wykonywania czynności przy użyciu systemu teleinformatycznego obsługującego postępowanie egzekucyjne Rozdział 5 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 203 ust. 2 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -45,6 +45,7 @@ dokumencie weryfikacyjnym – rozumie się przez to dokument elektroniczny pobra
 odwzorowaniu cyfrowym – rozumie się przez to utrwalenie w dokumencie mającym postać elektroniczną treści pisma w postaci papierowej w sposób umożliwiający zapoznanie się z treścią tego pisma;
 3)
 pomocniczym zbiorze dokumentów – rozumie się przez to urządzenie ewidencyjne, w którym składa się wszystkie pisma i dokumenty mające postać papierową.
+Czynności Krajowej Rady Komorniczej umożliwiające komornikom prowadzenie egzekucji na podstawie elektronicznego tytułu wykonawczego
 § 3.
 1.
 Krajowa Rada Komornicza przekazuje sądom dane komornika umożliwiające udzielanie mu dostępu do systemu teleinformatycznego obsługującego elektroniczne postępowanie upominawcze w celu wykonywania czynności w tym systemie.
@@ -55,6 +56,7 @@ Komornik może samodzielnie lub za pośrednictwem Krajowej Rady Komorniczej doko
 Krajowa Rada Komornicza niezwłocznie, nie później jednak niż w terminie 3 dni od dnia zawiadomienia przez komornika o zamiarze dokonania zmiany, o której mowa w § 3 ust. 2, przekazuje zmienione dane sądowi prowadzącemu elektroniczne postępowanie upominawcze.
 2.
 W przypadku gdy Krajowa Rada Komornicza otrzymała wiadomość o uzyskaniu lub utracie możliwości wykonywania przez komornika czynności w systemie teleinformatycznym obsługującym elektroniczne postępowanie upominawcze, niezwłocznie, nie później jednak niż w terminie 3 dni od dnia otrzymania tej wiadomości, zawiadamia sądy o treści zmiany.
+Czynności komornika w egzekucji prowadzonej na podstawie elektronicznego tytułu wykonawczego
 § 5.
 1.
 Jeżeli wniosek o wszczęcie egzekucji na podstawie elektronicznego tytułu wykonawczego nie został złożony za pośrednictwem systemu teleinformatycznego, komornik podejmuje następujące czynności:
@@ -82,6 +84,7 @@ Komornik niezwłocznie zgłasza nieprawidłowość działania systemu teleinform
 W razie omyłkowego odnotowania faktu prowadzenia egzekucji w systemie teleinformatycznym komornik dokumentuje stwierdzoną omyłkę, sporządzając notatkę urzędową o następującej treści: „Komornik Sądowy (imię i nazwisko komornika) przy Sądzie Rejonowym w (oznaczenie sądu), Kancelaria Komornicza nr w (oznaczenie siedziby kancelarii i adresu kancelarii), w dniu (data) o godzinie (godzina i minuta) stwierdza, że na skutek omyłki komornika w systemie teleinformatycznym obsługującym postępowanie sądowe błędnie odnotowano fakt prowadzenia egzekucji w sprawie (oznaczyć wierzyciela oraz dłużnika) o sygnaturze akt egzekucyjnych (sygnatura akt). Omyłkowe odnotowanie nastąpiło z powodu (podać przyczynę omyłkowego wpisu, szczegółowo wskazując, w jakiej sprawie powinna być dokonana adnotacja).”. Notatkę sporządza się niezwłocznie po stwierdzeniu omyłkowego odnotowania. Notatka odpowiada wymogom, o których mowa w § 5 ust. 4.
 § 11.
 Komornik niezwłocznie zgłasza omyłkowe odnotowanie faktu prowadzenia egzekucji prezesowi właściwego sądu, przesyłając notatkę, o której mowa w § 10.
+Sposób wykonywania czynności przy użyciu systemu teleinformatycznego obsługującego postępowanie egzekucyjne
 § 12.
 1.
 Jeżeli pismo lub dokument są składane w postaci papierowej, sporządza się cyfrowe odwzorowanie pisma lub dokumentu i umieszcza się je w aktach sprawy.
@@ -91,16 +94,27 @@ Po sporządzeniu cyfrowego odwzorowania pismo lub dokument w postaci papierowej 
 Do udostępniania akt sprawy prowadzonych w systemie teleinformatycznym oraz pomocniczych zbiorów dokumentów stosuje się odpowiednio przepisy dotyczące udostępniania akt spraw sądowych.
 § 13.
 Postanowienia, zarządzenia i zawiadomienia sporządzone w postaci elektronicznej komornik opatruje kwalifikowanym podpisem elektronicznym i przechowuje w systemie teleinformatycznym.
+Przepis końcowy
 § 14.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 5 września 2016 r. w sprawie czynności Krajowej Rady Komorniczej umożliwiających komornikom prowadzenie egzekucji na podstawie elektronicznego tytułu wykonawczego oraz czynności komornika dokonywanych za pośrednictwem systemu teleinformatycznego w postępowaniu egzekucyjnym (Dz. U. poz. 1417), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 300 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 5 września 2016 r. w sprawie czynności Krajowej Rady Komorniczej umożliwiających komornikom prowadzenie egzekucji na podstawie elektronicznego tytułu wykonawczego oraz czynności komornika dokonywanych za pośrednictwem systemu teleinformatycznego w postępowaniu egzekucyjnym (Dz. U. poz. 1417), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 300 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Czynności Krajowej Rady Komorniczej umożliwiające komornikom prowadzenie egzekucji na podstawie elektronicznego tytułu wykonawczego
+#### Rozdział 2 – Czynności Krajowej Rady Komorniczej umożliwiające komornikom prowadzenie egzekucji na podstawie elektronicznego tytułu wykonawczego
 
-#### Rozdział 3 Czynności komornika w egzekucji prowadzonej na podstawie elektronicznego tytułu wykonawczego
+#### Rozdział 3 – Czynności komornika w egzekucji prowadzonej na podstawie elektronicznego tytułu wykonawczego
 
-#### Rozdział 4 Sposób wykonywania czynności przy użyciu systemu teleinformatycznego obsługującego postępowanie egzekucyjne
+#### Rozdział 4 – Sposób wykonywania czynności przy użyciu systemu teleinformatycznego obsługującego postępowanie egzekucyjne
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

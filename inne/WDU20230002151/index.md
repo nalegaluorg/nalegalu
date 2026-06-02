@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002151) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2151/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi Rozdział 1 – Przepisy ogólne Rozdział 2 – Postępowanie w stosunku do osób nadużywających alkoholu Rozdział 3 – Przepisy karne Rozdział 4 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 165), z uwzględnieniem zmian wprowadzonych:
@@ -35,19 +35,29 @@ ustawą z dnia 1 grudnia 2022 r. o zmianie ustawy – Kodeks pracy oraz niektór
 2)
 ustawą z dnia 26 stycznia 2023 r. o zmianie ustaw w celu likwidowania zbędnych barier administracyjnych i prawnych (Dz. U. poz. 803),
 3)
-ustawą z dnia 9 marca 2023 r. o zmianie ustawy o przeciwdziałaniu przemocy w rodzinie oraz niektórych innych ustaw (Dz. U. poz. 535)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 30 sierpnia 2023 r.
+ustawą z dnia 9 marca 2023 r. o zmianie ustawy o przeciwdziałaniu przemocy w rodzinie oraz niektórych innych ustaw (Dz. U. poz. 535) oraz zmian wynikających z przepisów ogłoszonych przed dniem 30 sierpnia 2023 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 16 i art. 21 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. z 2023 r. poz. 240), które stanowią:
-„
+art. 16 i art. 21 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. z 2023 r. poz. 240), które stanowią: „
+Przepisy ogólne
+Postępowanie w stosunku do osób nadużywających alkoholu
 1.
 Leczenie odwykowe osób uzależnionych od alkoholu prowadzi się w zakładach leczniczych podmiotów leczniczych wykonujących działalność leczniczą w rodzaju świadczenia stacjonarne i całodobowe oraz ambulatoryjne w rozumieniu przepisów o działalności leczniczej, zwanych dalej „zakładami leczniczymi”.
 2.
 Poddanie się leczeniu odwykowemu jest dobrowolne. Wyjątki od tej zasady określa ustawa.
 3.
 Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w zakresie leczenia odwykowego udzielane przez zakłady lecznicze.
+Przepisy karne
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Postępowanie w stosunku do osób nadużywających alkoholu
+
+#### Rozdział 3 – Przepisy karne
+
+#### Rozdział 4 – Przepisy przejściowe i końcowe
 
 **Art. 16.** Do badań krwi w celu ustalenia zawartości alkoholu w organizmie pracownika, których wyniku nie uzyskano przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe. ” „
 
@@ -63,7 +73,7 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 - **1)** art. 12, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 marca 2023 r.;
 - **2)** art. 13, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia ustawy zmienianej w art. 13. ” . Załącznik – Tekst jednolity ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie obywateli w trzeźwości za niezbędny warunek moralnego i materialnego dobra Narodu, stanowi się, co następuje:
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -82,8 +92,7 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 - **3)** ustalanie odpowiedniego poziomu i właściwej struktury produkcji napojów alkoholowych przeznaczanych do spożycia w kraju;
 - **4)** ograniczanie dostępności alkoholu;
 - **5)** leczenie, rehabilitację i reintegrację osób uzależnionych od alkoholu;
-- **6)** zapobieganie negatywnym następstwom nadużywania alkoholu i ich usuwanie;
-- **7)** przeciwdziałanie przemocy domowej;
+- **6)** zapobieganie negatywnym następstwom nadużywania alkoholu i ich usuwanie; 7Ze zmianą wprowadzoną przez art. 4 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o przeciwdziałaniu przemocy w rodzinie oraz niektórych innych ustaw (Dz. U. poz. 535), która weszła w życie z dniem 22 czerwca 2023 r.) przeciwdziałanie przemocy domowej;
 - **8)** wspieranie zatrudnienia socjalnego poprzez finansowanie centrów integracji społecznej.
 
 2. Zadania, o których mowa w ust. 1, są realizowane zgodnie z Narodowym Programem Zdrowia, o którym mowa w art. 9 ust. 1 ustawy z dnia 11 września 2015 r. o zdrowiu publicznym (Dz. U. z 2022 r. poz. 1608 oraz z 2023 r. poz. 1718), zwanym dalej „Narodowym Programem Zdrowia”.
@@ -155,8 +164,7 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 
 1. Prowadzenie działań związanych z profilaktyką i rozwiązywaniem problemów alkoholowych oraz integracji społecznej osób uzależnionych od alkoholu należy do zadań własnych gmin. W szczególności zadania te obejmują:
 
-- **1)** zwiększanie dostępności pomocy terapeutycznej i rehabilitacyjnej dla osób uzależnionych od alkoholu;
-- **2)** udzielanie rodzinom, w których występują problemy alkoholowe, pomocy psychospołecznej i prawnej, a w szczególności ochrony przed przemocą domową;
+- **1)** zwiększanie dostępności pomocy terapeutycznej i rehabilitacyjnej dla osób uzależnionych od alkoholu; 2Ze zmianą wprowadzoną przez art. 4 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o przeciwdziałaniu przemocy w rodzinie oraz niektórych innych ustaw (Dz. U. poz. 535), która weszła w życie z dniem 22 czerwca 2023 r.) udzielanie rodzinom, w których występują problemy alkoholowe, pomocy psychospołecznej i prawnej, a w szczególności ochrony przed przemocą domową;
 - **3)** prowadzenie profilaktycznej działalności informacyjnej i edukacyjnej oraz działalności szkoleniowej w zakresie rozwiązywania problemów alkoholowych, przeciwdziałania narkomanii oraz uzależnieniom behawioralnym, w szczególności dla dzieci i młodzieży, w tym prowadzenie pozalekcyjnych zajęć sportowych, a także działań na rzecz dożywiania dzieci uczestniczących w pozalekcyjnych programach opiekuńczo-wychowawczych i socjoterapeutycznych;
 - **4)** (uchylony)
 - **5)** wspomaganie działalności instytucji, stowarzyszeń i osób fizycznych, służącej rozwiązywaniu problemów alkoholowych;
@@ -247,9 +255,7 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 6. Do uzyskania zezwolenia na obrót hurtowy napojami alkoholowymi nie jest obowiązany:
 
 - **1)** drobny producent wina z upraw własnych w rozumieniu art. 2 pkt 24 ustawy z dnia 2 grudnia 2021 r. o wyrobach winiarskich (Dz. U. z 2023 r. poz. 550),
-- **2)** przedsiębiorca określony w art. 9 ust. 1 ustawy z dnia 2 grudnia 2021 r. o wyrobach winiarskich który zbywa wyprodukowane przez siebie napoje alkoholowe przedsiębiorcom posiadającym zezwolenie, o którym mowa w art. 18 ust. 1.
-
-6a. Do uzyskania zezwolenia na obrót hurtowy napojami alkoholowymi nie jest obowiązany przedsiębiorca, którego zezwolenie na sprzedaż napojów alkoholowych przeznaczonych do spożycia w miejscu lub poza miejscem sprzedaży wygasło z przyczyn wymienionych w art. 18 ust. 12 pkt 1–4 albo w związku z okolicznościami, o których mowa w art. 491, art. 528 § 1 albo art. 551 § 1, 2 i 5 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, z późn. zm.), i który posiadając zezwolenie, o którym mowa w art. 184 ust. 1, jednorazowo zbywa zinwentaryzowane zapasy napojów alkoholowych.
+- **2)** przedsiębiorca określony w art. 9 ust. 1 ustawy z dnia 2 grudnia 2021 r. o wyrobach winiarskich – który zbywa wyprodukowane przez siebie napoje alkoholowe przedsiębiorcom posiadającym zezwolenie, o którym mowa w art. 18 ust. 1. 6aDodany przez art. 4 ustawy z dnia 26 stycznia 2023 r. o zmianie ustaw w celu likwidowania zbędnych barier administracyjnych i prawnych (Dz. U. poz. 803), która weszła w życie z dniem 12 maja 2023 r.. Do uzyskania zezwolenia na obrót hurtowy napojami alkoholowymi nie jest obowiązany przedsiębiorca, którego zezwolenie na sprzedaż napojów alkoholowych przeznaczonych do spożycia w miejscu lub poza miejscem sprzedaży wygasło z przyczyn wymienionych w art. 18 ust. 12 pkt 1–4 albo w związku z okolicznościami, o których mowa w art. 491, art. 528 § 1 albo art. 551 § 1, 2 i 5 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1488, 2280 i 2436 oraz z 2023 r. poz. 739, 825 i 1705.), i który posiadając zezwolenie, o którym mowa w art. 184 ust. 1, jednorazowo zbywa zinwentaryzowane zapasy napojów alkoholowych.
 
 7. Producent oraz przedsiębiorca, o których mowa w ust. 6, jest obowiązany do składania w terminie do dnia 31 stycznia zawiadomienia o ilości zbytych przez siebie napojów alkoholowych przedsiębiorcom posiadającym zezwolenie, o którym mowa w art. 18 ust. 1, w poprzednim roku kalendarzowym.
 
@@ -297,7 +303,7 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 17. Przedsiębiorca posiadający zezwolenie, o którym mowa w art. 9 ust. 1 lub 2, lub zezwolenie na wyprzedaż, o którym mowa w art. 95 ust. 4, dokonujący zaopatrzenia w napoje alkoholowe w opakowaniach jednostkowych o ilości nominalnej napoju nieprzekraczającej 300 ml, jest obowiązany, odrębnie w odniesieniu do każdego zezwolenia, do:
 
 - **1)** złożenia w postaci elektronicznej informacji, opatrzonej podpisem kwalifikowanym, według wzoru, o którym mowa w ust. 30, organowi, o którym mowa w ust. 16, za pośrednictwem systemu informatycznego ministra właściwego do spraw finansów publicznych,
-- **2)** obliczenia i wniesienia na rachunek właściwego urzędu skarbowego opłaty w wysokości, o której mowa w ust. 11 do końca miesiąca następującego po zakończeniu półrocza.
+- **2)** obliczenia i wniesienia na rachunek właściwego urzędu skarbowego opłaty w wysokości, o której mowa w ust. 11 – do końca miesiąca następującego po zakończeniu półrocza.
 
 18. Informacja, o której mowa w ust. 17 pkt 1, zawiera następujące dane:
 
@@ -319,7 +325,7 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 - **9)** kwotę opłaty ustaloną na podstawie ust. 11;
 - **10)** kwotę pomniejszenia opłaty ustaloną na podstawie ust. 14;
 - **11)** kwotę opłaty do zapłaty;
-- **12)** pouczenie, że informacja stanowi podstawę do wystawienia tytułu wykonawczego na podstawie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.).
+- **12)** pouczenie, że informacja stanowi podstawę do wystawienia tytułu wykonawczego na podstawie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614, 852, 1059, 1130, 1193, 1369, 1429, 1523 i 1681.).
 
 19. Naczelnik Pierwszego Urzędu Skarbowego w Bydgoszczy do końca miesiąca następującego po terminie, o którym mowa w ust. 17, dokonuje podziału łącznych wpływów z opłaty w części, o której mowa w ust. 11, oraz z dodatkowej opłaty, o której mowa w ust. 21, proporcjonalnie do wpływów uzyskanych przez gminy za I i II kwartał z opłat, o których mowa w art. 111, na podstawie danych publikowanych w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych oraz przekazuje środki na rachunki bankowe Narodowego Funduszu Zdrowia i gmin.
 
@@ -332,7 +338,7 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 
 22. Dodatkową opłatę wnosi się na rachunek organu, o którym mowa w ust. 16.
 
-23. Do opłat, o których mowa w ust. 11 i 21, stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.), przy czym uprawnienia organów podatkowych przysługują odpowiednio naczelnikowi urzędu skarbowego, dyrektorowi izby administracji skarbowej, Dyrektorowi Krajowej Informacji Skarbowej, Szefowi Krajowej Administracji Skarbowej i ministrowi właściwemu do spraw finansów publicznych.
+23. Do opłat, o których mowa w ust. 11 i 21, stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556, 614, 1059, 1193, 1234, 1450, 1598, 1705 i 1723.), przy czym uprawnienia organów podatkowych przysługują odpowiednio naczelnikowi urzędu skarbowego, dyrektorowi izby administracji skarbowej, Dyrektorowi Krajowej Informacji Skarbowej, Szefowi Krajowej Administracji Skarbowej i ministrowi właściwemu do spraw finansów publicznych.
 
 23a. Organ właściwy w sprawie interpretacji ogólnych, objaśnień i interpretacji indywidualnych przepisów dotyczących opłat, o których mowa w ust. 11 i 21, może wystąpić do ministra właściwego do spraw zdrowia z wnioskiem o zajęcie stanowiska w sprawie. W przypadku interpretacji ogólnych wydawanych na wniosek i interpretacji indywidualnych minister właściwy do spraw zdrowia zajmuje stanowisko w terminie 21 dni od dnia doręczenia wniosku o zajęcie stanowiska, przy czym do terminu do wydania interpretacji ogólnej i interpretacji indywidualnej nie wlicza się okresu od dnia doręczenia tego wniosku do dnia otrzymania stanowiska.
 
@@ -369,7 +375,7 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 
 4. Gmina przeznacza środki, o których mowa w ust. 3 pkt 1, na działania mające na celu realizację lokalnej międzysektorowej polityki przeciwdziałania negatywnym skutkom spożywania alkoholu.
 
-5. Narodowy Fundusz Zdrowia przeznacza środki, o których mowa w ust. 3 pkt 2, na działania o charakterze edukacyjnym i profilaktycznym oraz na świadczenia opieki zdrowotnej w zakresie opieki psychiatrycznej i leczenia uzależnień oraz innych następstw zdrowotnych spożywania alkoholu, z uwzględnieniem art. 97 ust. 3h ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm.).
+5. Narodowy Fundusz Zdrowia przeznacza środki, o których mowa w ust. 3 pkt 2, na działania o charakterze edukacyjnym i profilaktycznym oraz na świadczenia opieki zdrowotnej w zakresie opieki psychiatrycznej i leczenia uzależnień oraz innych następstw zdrowotnych spożywania alkoholu, z uwzględnieniem art. 97 ust. 3h ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234, 1429, 1675, 1692 i 1733.).
 
 6. Prezes Narodowego Funduszu Zdrowia nie później niż do dnia 15 kwietnia przedstawia ministrowi właściwemu do spraw zdrowia informację o sposobie wykorzystania środków, o których mowa w ust. 3 pkt 2, w poprzednim roku kalendarzowym.
 
@@ -555,7 +561,7 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 
 5c. Minister właściwy do spraw kultury fizycznej na wniosek naczelnika urzędu skarbowego, o którym mowa w ust. 5, przekazuje w terminie 7 dni od dnia wpływu wniosku, na rachunek urzędu skarbowego, o którym mowa w ust. 5, środki niezbędne do realizacji kwoty nadpłaty, o której mowa w ust. 5b.
 
-6. Opłata, o której mowa w ust. 1, stanowi dla podmiotu zobowiązanego do jej wniesienia koszt uzyskania przychodów w rozumieniu art. 15 ust. 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2587, z późn. zm.) lub art. 22 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm.).
+6. Opłata, o której mowa w ust. 1, stanowi dla podmiotu zobowiązanego do jej wniesienia koszt uzyskania przychodów w rozumieniu art. 15 ust. 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2587, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2640 i 2745 oraz z 2023 r. poz. 185, 326, 412, 825, 1059, 1130, 1414, 1705 i 1723.) lub art. 22 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658, 825, 1059, 1114, 1130, 1407, 1414, 1429, 1523, 1617, 1667, 1675, 1705 i 1723.).
 
 7. W sprawach nieuregulowanych do opłaty, o której mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
@@ -580,7 +586,7 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 - **1)** warunki i tryb przyznawania środków z Funduszu na dofinansowanie zajęć sportowych dla uczniów oraz na zadania określone w przepisach o zdrowiu publicznym,
 - **2)** tryb składania wniosków i dane, jakie powinien zawierać wniosek o przyznanie środków Funduszu, uwzględniając zakres niezbędnych danych dotyczących podmiotu ubiegającego się o te środki, a także informacje o zajęciach sportowych dla uczniów albo realizowanych zadaniach określonych w przepisach o zdrowiu publicznym,
 - **3)** tryb przekazywania środków Funduszu, uwzględniając terminy, w jakich zostało zaplanowane przeprowadzenie zajęć sportowych dla uczniów albo realizacja zadań określonych w przepisach o zdrowiu publicznym,
-- **4)** wysokość dofinansowania zajęć sportowych dla uczniów, z tym że maksymalna wysokość tego dofinansowania w przypadku zajęć prowadzonych przez kluby sportowe działające w formie stowarzyszenia oraz inne organizacje pozarządowe nie może przekroczyć 80%, a w przypadku zajęć organizowanych przez jednostki samorządu terytorialnego – 50% planowanych kosztów realizacji zajęć kierując się koniecznością zapewnienia efektywnego wykorzystania środków Funduszu.
+- **4)** wysokość dofinansowania zajęć sportowych dla uczniów, z tym że maksymalna wysokość tego dofinansowania w przypadku zajęć prowadzonych przez kluby sportowe działające w formie stowarzyszenia oraz inne organizacje pozarządowe nie może przekroczyć 80%, a w przypadku zajęć organizowanych przez jednostki samorządu terytorialnego – 50% planowanych kosztów realizacji zajęć – kierując się koniecznością zapewnienia efektywnego wykorzystania środków Funduszu.
 
 **Art. 14.**
 
@@ -636,9 +642,7 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 
 3. (uchylony)
 
-4. (uchylony)
-
-**Art. 17.**
+4. (uchylony) Art. 17W brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. z 2023 r. poz. 240), która weszła w życie z dniem 21 lutego 2023 r..
 
 1. Przedsiębiorca niebędący pracodawcą organizujący pracę wykonywaną przez osoby fizyczne na innej podstawie niż stosunek pracy albo osoby fizyczne prowadzące na własny rachunek działalność gospodarczą może przeprowadzać kontrolę trzeźwości tych osób oraz kontrolę na obecność w ich organizmach środków działających podobnie do alkoholu.
 
@@ -755,7 +759,7 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 **Art. 182.** Dochody z opłat za zezwolenia wydane na podstawie art. 18 i art. 181 oraz dochody z opłat określonych w art. 111 będą wykorzystywane na realizację:
 
 - **1)** gminnych programów profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii, o których mowa w art. 41 ust. 2,
-- **2)** zadań realizowanych przez placówkę wsparcia dziennego, w której mowa w art. 9 pkt 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, w ramach gminnego programu profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii, o którym mowa w art. 41 ust. 2 i nie mogą być przeznaczone na inne cele.
+- **2)** zadań realizowanych przez placówkę wsparcia dziennego, w której mowa w art. 9 pkt 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, w ramach gminnego programu profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii, o którym mowa w art. 41 ust. 2 – i nie mogą być przeznaczone na inne cele.
 
 **Art. 183.** Do kontroli działalności gospodarczej przedsiębiorcy, o której mowa w art. 9, art. 18 i art. 181, stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414).
 
@@ -789,7 +793,7 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 
 **Art. 20.** (uchylony)
 
-#### Rozdział 2 Postępowanie w stosunku do osób nadużywających alkoholu
+#### Rozdział 2
 
 **Art. 22.**
 
@@ -1092,7 +1096,7 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 
 6. Osobie doprowadzonej do izby wytrzeźwień lub placówki, jednostki Policji, podmiotu leczniczego, w warunkach, o których mowa w ust. 1, przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce doprowadzenia. W zażaleniu osoba doprowadzona może domagać się zbadania zasadności i legalności doprowadzenia, jak również decyzji o przyjęciu albo zatrzymaniu oraz prawidłowości ich wykonania.
 
-7. W przypadku gdy zażalenie składa się za pośrednictwem izby wytrzeźwień lub placówki albo jednostki Policji, podmiot ten przekazuje zażalenie niezwłocznie sądowi określonemu w ust. 6. Do rozpoznania zażalenia stosuje się przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm.). Skarżący ma prawo wziąć udział w posiedzeniu sądu.
+7. W przypadku gdy zażalenie składa się za pośrednictwem izby wytrzeźwień lub placówki albo jednostki Policji, podmiot ten przekazuje zażalenie niezwłocznie sądowi określonemu w ust. 6. Do rozpoznania zażalenia stosuje się przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1855, 2582 i 2600 oraz z 2023 r. poz. 289, 535, 818 i 1606.). Skarżący ma prawo wziąć udział w posiedzeniu sądu.
 
 8. W przypadku stwierdzenia bezzasadności lub nielegalności doprowadzenia, przyjęcia albo zatrzymania, albo poważnych nieprawidłowości związanych z ich wykonywaniem sąd określony w ust. 6 zawiadamia o tym prokuratora i przełożonego doprowadzającego albo przełożonego osób dokonujących przyjęcia albo zatrzymania.
 
@@ -1141,7 +1145,7 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 
 - **1)** uszkodzenia ciała,
 - **2)** posiadania broni,
-- **3)** posiadania narzędzi lub innych przedmiotów, co do których może zachodzić podejrzenie, że służyły lub mogą być przeznaczone do popełnienia przestępstwa albo pochodzą z przestępstwa, oraz w razie powstania innych okoliczności uzasadniających podejrzenie, że popełniono przestępstwo izba lub placówka zawiadamia niezwłocznie jednostkę Policji, podając termin, do którego osoba będzie przebywać w izbie lub placówce.
+- **3)** posiadania narzędzi lub innych przedmiotów, co do których może zachodzić podejrzenie, że służyły lub mogą być przeznaczone do popełnienia przestępstwa albo pochodzą z przestępstwa, oraz w razie powstania innych okoliczności uzasadniających podejrzenie, że popełniono przestępstwo – izba lub placówka zawiadamia niezwłocznie jednostkę Policji, podając termin, do którego osoba będzie przebywać w izbie lub placówce.
 
 **Art. 404.** Osoba małoletnia doprowadzona do izby wytrzeźwień, placówki lub jednostki Policji może być zwolniona, niezwłocznie po udzieleniu jej niezbędnych świadczeń zdrowotnych, na pisemny wniosek rodziców lub opiekunów. Osobie przyjętej albo zatrzymanej w jednostce Policji odbiera się środki pieniężne lub inne przedmioty i przekazuje do depozytu.
 
@@ -1166,8 +1170,7 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 
 8. Przymus bezpośredni w formie:
 
-- **1)** przytrzymania – polega na doraźnym, krótkotrwałym unieruchomieniu osoby z użyciem siły fizycznej;
-- **2)** unieruchomienia – polega na dłużej trwającym obezwładnieniu osoby z użyciem pasów, uchwytów, prześcieradeł lub kaftana bezpieczeństwa;
+- **1)** przytrzymania – polega na doraźnym, krótkotrwałym unieruchomieniu osoby z użyciem siły fizycznej; 2Treść przepisu ustalona z uwzględnieniem wyroku Trybunału Konstytucyjnego z dnia 24 lipca 2013 r. sygn. akt Kp 1/13 (M. P. poz. 690), uznającego art. 1 pkt 6 ustawy z dnia 4 stycznia 2013 r. o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, w części dotyczącej art. 42 ust. 8 pkt 2 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2012 r. poz. 1356), w zakresie, w jakim umożliwia stosowanie przymusu bezpośredniego w formie unieruchomienia z użyciem „innych urządzeń technicznych”, za niezgodny z art. 41 ust. 1 w związku z art. 31 ust. 3 i z zasadą poprawnej legislacji wywodzoną z art. 2 Konstytucji Rzeczypospolitej Polskiej.) unieruchomienia – polega na dłużej trwającym obezwładnieniu osoby z użyciem pasów, uchwytów, prześcieradeł lub kaftana bezpieczeństwa;
 - **3)** przymusowego podania produktu leczniczego – polega na doraźnym lub przewidzianym w planie postępowania leczniczego wprowadzeniu produktu leczniczego do organizmu osoby;
 - **4)** izolacji – polega na umieszczeniu osoby pojedynczo w zamkniętym pomieszczeniu.
 
@@ -1213,7 +1216,7 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 
 5. Określając wysokość opłaty organ stanowiący jednostki samorządu terytorialnego albo wojewoda uwzględnia przeciętny koszt pobytu osoby przyjętej albo zatrzymanej w jednostce Policji.
 
-6. Maksymalna wysokość opłaty za pobyt w izbie wytrzeźwień, placówce lub jednostce Policji wynosi 300 zł .
+6. Maksymalna wysokość opłaty za pobyt w izbie wytrzeźwień, placówce lub jednostce Policji wynosi 300 zł Maksymalną wysokość opłaty za pobyt w izbie wytrzeźwień, placówce lub jednostce Policji ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, minister właściwy do spraw zdrowia, w terminie do dnia 15 lutego, na podstawie art. 422 ust. 9 niniejszej ustawy..
 
 7. Kwota maksymalnej wysokości opłaty za pobyt w izbie wytrzeźwień, placówce lub jednostce Policji podlega corocznej waloryzacji o średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem, w poprzednim roku kalendarzowym.
 
@@ -1247,9 +1250,9 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 - **4)** sposób przeprowadzenia kontroli stanu zdrowia, o którym mowa w art. 42 ust. 10,
 - **5)** sposób przeprowadzenia badania na zawartość alkoholu,
 - **6)** rodzaje i zakres prowadzonej ewidencji i dokumentacji, w tym wzór karty ewidencyjnej, uwzględniając zapewnienie rzetelnego prowadzenia ewidencji i dokumentacji oraz ochrony danych i informacji dotyczących osoby doprowadzonej lub przyjętej do izb wytrzeźwień i placówek,
-- **7)** wykaz produktów leczniczych oraz wyrobów medycznych, które są stosowane w izbach wytrzeźwień i placówkach biorąc pod uwagę konieczność zapewnienia poszanowania praw osób doprowadzonych do izb wytrzeźwień i placówek oraz do nich przyjętych, a także zapewnienia im należytej opieki, z uwzględnieniem specyfiki izb wytrzeźwień i placówek, w tym izb wytrzeźwień, w których stosuje się detoksykację.
+- **7)** wykaz produktów leczniczych oraz wyrobów medycznych, które są stosowane w izbach wytrzeźwień i placówkach – biorąc pod uwagę konieczność zapewnienia poszanowania praw osób doprowadzonych do izb wytrzeźwień i placówek oraz do nich przyjętych, a także zapewnienia im należytej opieki, z uwzględnieniem specyfiki izb wytrzeźwień i placówek, w tym izb wytrzeźwień, w których stosuje się detoksykację.
 
-#### Rozdział 3 Przepisy karne
+#### Rozdział 3
 
 **Art. 43.**
 
@@ -1314,11 +1317,9 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 
 **Art. 47.**
 
-1. Jeżeli zachodzi podejrzenie, że przestępstwo lub wykroczenie zostało popełnione po spożyciu alkoholu, osoba podejrzana może być poddana badaniu koniecznemu do ustalenia zawartości alkoholu w organizmie, w szczególności zabiegowi pobrania krwi. Zabiegu pobrania krwi dokonuje osoba posiadająca odpowiednie kwalifikacje zawodowe.
+1. Jeżeli zachodzi podejrzenie, że przestępstwo lub wykroczenie zostało popełnione po spożyciu alkoholu, osoba podejrzana może być poddana badaniu koniecznemu do ustalenia zawartości alkoholu w organizmie, w szczególności zabiegowi pobrania krwi. Zabiegu pobrania krwi dokonuje osoba posiadająca odpowiednie kwalifikacje zawodowe. 2W brzmieniu ustalonym przez art. 2 pkt 2 ustawy, o której mowa w odnośniku 9.. Minister właściwy do spraw zdrowia i minister właściwy do spraw wewnętrznych w porozumieniu z Ministrem Sprawiedliwości określą, w drodze rozporządzenia, warunki i sposób przeprowadzania badań w celu ustalenia zawartości alkoholu w organizmie, sposób ich dokumentowania oraz weryfikacji, mając na uwadze konieczność zapewnienia sprawnego przeprowadzania badań oraz zagwarantowania wiarygodności ich wyników.
 
-2. Minister właściwy do spraw zdrowia i minister właściwy do spraw wewnętrznych w porozumieniu z Ministrem Sprawiedliwości określą, w drodze rozporządzenia, warunki i sposób przeprowadzania badań w celu ustalenia zawartości alkoholu w organizmie, sposób ich dokumentowania oraz weryfikacji, mając na uwadze konieczność zapewnienia sprawnego przeprowadzania badań oraz zagwarantowania wiarygodności ich wyników.
-
-#### Rozdział 4 Przepisy przejściowe i końcowe
+#### Rozdział 4
 
 **Art. 48.**
 
@@ -1330,8 +1331,5 @@ Od osób uzależnionych od alkoholu nie pobiera się opłat za świadczenia w za
 
 **Art. 50.** (pominięty)
 
-**Art. 51.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia jej ogłoszenia.
-
-- **1)** Ze zmianą wprowadzoną przez art. 4 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o przeciwdziałaniu przemocy w rodzinie oraz niektórych innych ustaw (Dz. U. poz. 535), która weszła w życie z dniem 22 czerwca 2023 r. 2) Dodany przez art. 4 ustawy z dnia 26 stycznia 2023 r. o zmianie ustaw w celu likwidowania zbędnych barier administracyjnych i prawnych (Dz. U. poz. 803), która weszła w życie z dniem 12 maja 2023 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1488, 2280 i 2436 oraz z 2023 r. poz. 739, 825 i 1705. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614, 852, 1059, 1130, 1193, 1369, 1429, 1523 i 1681. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556, 614, 1059, 1193, 1234, 1450, 1598, 1705 i 1723. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234, 1429, 1675, 1692 i 1733. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2640 i 2745 oraz z 2023 r. poz. 185, 326, 412, 825, 1059, 1130, 1414, 1705 i 1723. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658, 825, 1059, 1114, 1130, 1407, 1414, 1429, 1523, 1617, 1667, 1675, 1705 i 1723. 9) W brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. z 2023 r. poz. 240), która weszła w życie z dniem 21 lutego 2023 r. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1855, 2582 i 2600 oraz z 2023 r. poz. 289, 535, 818 i 1606. 11) Treść przepisu ustalona z uwzględnieniem wyroku Trybunału Konstytucyjnego z dnia 24 lipca 2013 r. sygn. akt Kp 1/13 (M. P. poz. 690), uznającego art. 1 pkt 6 ustawy z dnia 4 stycznia 2013 r. o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, w części dotyczącej art. 42 ust. 8 pkt 2 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2012 r. poz. 1356), w zakresie, w jakim umożliwia stosowanie przymusu bezpośredniego w formie unieruchomienia z użyciem „innych urządzeń technicznych”, za niezgodny z art. 41 ust. 1 w związku z art. 31 ust. 3 i z zasadą poprawnej legislacji wywodzoną z art. 2 Konstytucji Rzeczypospolitej Polskiej. 12) Maksymalną wysokość opłaty za pobyt w izbie wytrzeźwień, placówce lub jednostce Policji ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, minister właściwy do spraw zdrowia, w terminie do dnia 15 lutego, na podstawie art. 422 ust. 9 niniejszej ustawy. 13) W brzmieniu ustalonym przez art. 2 pkt 2 ustawy, o której mowa w odnośniku 9. 14) Ustawa została ogłoszona w dniu 12 listopada 1982 r.
-
+**Art. 51.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia jej ogłoszeniaUstawa została ogłoszona w dniu 12 listopada 1982 r.. 1) Ze zmianą wprowadzoną przez art. 4 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o przeciwdziałaniu przemocy w rodzinie oraz niektórych innych ustaw (Dz. U. poz. 535), która weszła w życie z dniem 22 czerwca 2023 r. 2) Dodany przez art. 4 ustawy z dnia 26 stycznia 2023 r. o zmianie ustaw w celu likwidowania zbędnych barier administracyjnych i prawnych (Dz. U. poz. 803), która weszła w życie z dniem 12 maja 2023 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1488, 2280 i 2436 oraz z 2023 r. poz. 739, 825 i 1705. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614, 852, 1059, 1130, 1193, 1369, 1429, 1523 i 1681. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556, 614, 1059, 1193, 1234, 1450, 1598, 1705 i 1723. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234, 1429, 1675, 1692 i 1733. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2640 i 2745 oraz z 2023 r. poz. 185, 326, 412, 825, 1059, 1130, 1414, 1705 i 1723. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658, 825, 1059, 1114, 1130, 1407, 1414, 1429, 1523, 1617, 1667, 1675, 1705 i 1723. 9) W brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. z 2023 r. poz. 240), która weszła w życie z dniem 21 lutego 2023 r. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1855, 2582 i 2600 oraz z 2023 r. poz. 289, 535, 818 i 1606. 11) Treść przepisu ustalona z uwzględnieniem wyroku Trybunału Konstytucyjnego z dnia 24 lipca 2013 r. sygn. akt Kp 1/13 (M. P. poz. 690), uznającego art. 1 pkt 6 ustawy z dnia 4 stycznia 2013 r. o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, w części dotyczącej art. 42 ust. 8 pkt 2 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2012 r. poz. 1356), w zakresie, w jakim umożliwia stosowanie przymusu bezpośredniego w formie unieruchomienia z użyciem „innych urządzeń technicznych”, za niezgodny z art. 41 ust. 1 w związku z art. 31 ust. 3 i z zasadą poprawnej legislacji wywodzoną z art. 2 Konstytucji Rzeczypospolitej Polskiej. 12) Maksymalną wysokość opłaty za pobyt w izbie wytrzeźwień, placówce lub jednostce Policji ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, minister właściwy do spraw zdrowia, w terminie do dnia 15 lutego, na podstawie art. 422 ust. 9 niniejszej ustawy. 13) W brzmieniu ustalonym przez art. 2 pkt 2 ustawy, o której mowa w odnośniku 9. 14) Ustawa została ogłoszona w dniu 12 listopada 1982 r.
 

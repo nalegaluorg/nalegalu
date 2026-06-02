@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-07-20 |
 | Data wydania | 2020-08-24 |
-| Wejście w życie | 2020-08-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001435) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1435/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepis ogólny Rozdział 2 – Tworzenie instytutu badawczego Rozdział 3 – Łączenie instytutów badawczych, podział i przekształcenie instytutu badawczego w instytucję gospodarki budżetowej Rozdział 4 – Reorganizacja instytutu badawczego Rozdział 5 – Likwidacja instytutu badawczego Rozdział 6 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 8 ust. 6 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2020 r. poz. 1383) zarządza się, co następuje:
+Przepis ogólny
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb tworzenia, łączenia, podziału, reorganizacji, przekształcania w instytucje gospodarki budżetowej lub likwidacji instytutów badawczych, w tym:
 1)
@@ -39,6 +39,7 @@ uregulowanie zobowiązań;
 zabezpieczenie roszczeń pracowniczych;
 4)
 zagospodarowanie mienia.
+Tworzenie instytutu badawczego
 § 2.
 Minister właściwy ze względu na planowaną działalność instytutu badawczego, który ma zostać utworzony, przygotowuje wniosek, o którym mowa w art. 5 ust. 1 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych, zwanej dalej „ustawą”, zawierający:
 1)
@@ -71,6 +72,7 @@ Minister właściwy ze względu na planowaną działalność instytutu badawczeg
 zespołu roboczego, o której mowa w art. 8 ust. 2 ustawy;
 2)
 ministra właściwego do spraw szkolnictwa wyższego i nauki.
+Łączenie instytutów badawczych, podział i przekształcenie instytutu badawczego w instytucję gospodarki budżetowej
 § 5.
 1.
 Warunkami połączenia instytutów badawczych albo podziału instytutu badawczego są:
@@ -101,8 +103,7 @@ dyrektorzy tych instytutów albo dyrektor tego instytutu,
 3)
 przedstawiciel rady naukowej każdego z tych instytutów albo tego instytutu,
 4)
-ekspert w dziedzinie gospodarczych zastosowań wyników badań naukowych i prac rozwojowych prowadzonych w tych instytutach albo w tym instytucie wskazany przez ministra nadzorującego te instytuty albo ten instytut
-i wyznacza jej przewodniczącego.
+ekspert w dziedzinie gospodarczych zastosowań wyników badań naukowych i prac rozwojowych prowadzonych w tych instytutach albo w tym instytucie wskazany przez ministra nadzorującego te instytuty albo ten instytut – i wyznacza jej przewodniczącego.
 2.
 W pracach komisji może uczestniczyć z głosem doradczym przedstawiciel:
 1)
@@ -363,6 +364,7 @@ w przypadku przekształcenia instytutu badawczego w instytucję gospodarki budż
 – wykaz osób ubiegających się o nadanie stopnia naukowego doktora w trybie eksternistycznym, którym zapewniono możliwość kontynuowania postępowań w tej sprawie w innym podmiocie systemu szkolnictwa wyższego i nauki, wraz z informacją o wysokości kosztów tych postępowań.
 2.
 Przepisów ust. 1 nie stosuje się do instytutu badawczego, do którego ma nastąpić włączenie innego instytutu badawczego albo innych instytutów badawczych.
+Reorganizacja instytutu badawczego
 § 16.
 1.
 Reorganizacji instytutu badawczego polegającej na zmianie przedmiotu lub zakresu jego działalności można dokonać, jeżeli wystąpiła konieczność:
@@ -445,6 +447,7 @@ opiniami organów tego instytutu, o których mowa w art. 8 ust. 5 ustawy, albo w
 opiniami zakładowych organizacji związkowych, o których mowa w § 18;
 4)
 opinią ministra właściwego do spraw szkolnictwa wyższego i nauki.
+Likwidacja instytutu badawczego
 § 22.
 Warunkiem likwidacji instytutu badawczego jest brak możliwości podjęcia wobec tego instytutu działań o charakterze naprawczym albo nieskuteczność uprzednio podejmowanych działań o takim charakterze.
 § 23.
@@ -461,8 +464,7 @@ dwaj przedstawiciele tego ministra,
 2)
 dyrektor tego instytutu,
 3)
-dwaj przedstawiciele rady naukowej tego instytutu
-i wyznacza jej przewodniczącego.
+dwaj przedstawiciele rady naukowej tego instytutu – i wyznacza jej przewodniczącego.
 2.
 W pracach komisji mogą uczestniczyć z głosem doradczym:
 1)
@@ -590,18 +592,31 @@ dokonuje spłaty zobowiązań wobec pracowników;
 rozwiązuje z pracownikami stosunki pracy;
 3)
 składa wniosek o wykreślenie instytutu badawczego z Krajowego Rejestru Sądowego.
+Przepis końcowy
 § 35.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie w zakresie dotyczącym tworzenia, łączenia, podziału, reorganizacji, przekształcania w instytucje gospodarki budżetowej i likwidacji instytutów badawczych było poprzedzone rozporządzeniem Rady Ministrów z dnia 17 listopada 2010 r. w sprawie tworzenia, łączenia, podziału, reorganizacji, przekształcania, włączania lub likwidacji instytutów badawczych (Dz. U. poz. 1512), które utraciło moc z dniem 1 października 2018 r. w związku z wejściem w życie ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z 2019 r. poz. 39 i 534 oraz z 2020 r. poz. 695, 875 i 1086). 1) Niniejsze rozporządzenie w zakresie dotyczącym tworzenia, łączenia, podziału, reorganizacji, przekształcania w instytucje gospodarki budżetowej i likwidacji instytutów badawczych było poprzedzone rozporządzeniem Rady Ministrów z dnia 17 listopada 2010 r. w sprawie tworzenia, łączenia, podziału, reorganizacji, przekształcania, włączania lub likwidacji instytutów badawczych (Dz. U. poz. 1512), które utraciło moc z dniem 1 października 2018 r. w związku z wejściem w życie ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z 2019 r. poz. 39 i 534 oraz z 2020 r. poz. 695, 875 i 1086).
 
-#### Rozdział 1 Przepis ogólny
+#### Rozdział 1 – Przepis ogólny
 
-#### Rozdział 2 Tworzenie instytutu badawczego
+#### Rozdział 2 – Tworzenie instytutu badawczego
 
-#### Rozdział 3 Łączenie instytutów badawczych, podział i przekształcenie instytutu badawczego w instytucję gospodarki budżetowej
+#### Rozdział 3 – Łączenie instytutów badawczych, podział i przekształcenie instytutu badawczego w instytucję gospodarki budżetowej
 
-#### Rozdział 4 Reorganizacja instytutu badawczego
+#### Rozdział 4 – Reorganizacja instytutu badawczego
 
-#### Rozdział 5 Likwidacja instytutu badawczego
+#### Rozdział 5 – Likwidacja instytutu badawczego
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

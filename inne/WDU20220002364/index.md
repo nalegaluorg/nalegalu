@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 29 września 2022 r. o zmianie ustawy o nawozach i nawożeniu
+# Ustawa z dnia 29 września 2022 r. o zmianie ustawy o nawozach i nawożeniu Niniejsza ustawa w zakresie swojej regulacji służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1009 z dnia 5 czerwca 2019 r. ustanawiającego przepisy dotyczące udostępniania na rynku produktów nawozowych UE, zmieniającego rozporządzenia (WE) nr 1069/2009 i (WE) nr 1107/2009 oraz uchylającego rozporządzenie (WE) nr 2003/2003 (Dz. Urz. UE L 170 z 25.06.2019, str. 1, Dz. Urz. UE L 302 z 22.11.2019, str. 129, Dz. Urz. UE L 48 z 11.02.2021, str. 6, Dz. Urz. UE L 356 z 08.10.2021, str. 8, Dz. Urz. UE L 427 z 30.11.2021, str. 120, 130 i 140, Dz. Urz. UE L 83 z 10.03.2022, str. 66 oraz Dz. Urz. UE L 161 z 16.06.2022, str. 121).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-29 |
 | Data wydania | 2022-11-18 |
-| Wejście w życie | 2022-12-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002364) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2364/text.pdf) |
+
+Wykaz nawozowych produktów mikrobiologicznych
 
 **Art. 1.** W ustawie z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. z 2021 r. poz. 76 oraz z 2022 r. poz. 1370) wprowadza się następujące zmiany:
 
@@ -33,7 +34,7 @@ source: "eli-html"
 1. Ustawa reguluje:
 
 - **1)** warunki i tryb wprowadzania do obrotu nawozów i środków wspomagających uprawę roślin;
-- **2)** zadania i właściwość organów oraz jednostek organizacyjnych w zakresie: nadzoru nad wprowadzaniem do obrotu nawozów i środków wspomagających uprawę roślin, wprowadzania do obrotu i udostępniania na rynku produktów nawozowych UE określonym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2019/1009 z dnia 5 czerwca 2019 r. ustanawiającym przepisy dotyczące udostępniania na rynku produktów nawozowych UE, zmieniającym rozporządzenia (WE) nr 1069/2009 i (WE) nr 1107/2009 oraz uchylającym rozporządzenie (WE) nr 2003/2003 (Dz. Urz. UE L 170 z 25.06.2019, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem nr 2019/1009”, prowadzenia wykazu nawozowych produktów mikrobiologicznych;
+- **2)** zadania i właściwość organów oraz jednostek organizacyjnych w zakresie: nadzoru nad wprowadzaniem do obrotu nawozów i środków wspomagających uprawę roślin, wprowadzania do obrotu i udostępniania na rynku produktów nawozowych UE określonym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2019/1009 z dnia 5 czerwca 2019 r. ustanawiającym przepisy dotyczące udostępniania na rynku produktów nawozowych UE, zmieniającym rozporządzenia (WE) nr 1069/2009 i (WE) nr 1107/2009 oraz uchylającym rozporządzenie (WE) nr 2003/2003 (Dz. Urz. UE L 170 z 25.06.2019, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 22.11.2019, str. 129, Dz. Urz. UE L 48 z 11.02.2021, str. 6, Dz. Urz. UE L 356 z 08.10.2021, str. 8, Dz. Urz. UE L 427 z 30.11.2021, str. 120, 130 i 140, Dz. Urz. UE L 83 z 10.03.2022, str. 66, Dz. Urz. UE L 161 z 16.06.2022, str. 121 oraz Dz. Urz. UE L 183 z 08.07.2022, str. 2., zwanym dalej „rozporządzeniem nr 2019/1009”, prowadzenia wykazu nawozowych produktów mikrobiologicznych;
     - **a)**
     - **b)**
     - **c)**
@@ -41,8 +42,28 @@ source: "eli-html"
 - **3)** stosowanie nawozów i środków wspomagających uprawę roślin oraz produktów nawozowych UE w rolnictwie;
 - **4)** zapobieganie zagrożeniom zdrowia ludzi i zwierząt oraz środowiska, które mogą powstać w wyniku przewozu, przechowywania i stosowania nawozów, środków wspomagających uprawę roślin oraz produktów nawozowych UE;
 - **5)** agrochemiczną obsługę rolnictwa. ” ;
-- **2)** w art. 2: w ust. 1: – uchyla się pkt 2, – w pkt 3 przed wyrazami „nawozy nieorganiczne” dodaje się wyrazy „niebędące produktami nawozowymi UE”, – w pkt 5 przed wyrazami „nawozy wyprodukowane” dodaje się wyrazy „niebędące produktami nawozowymi UE”, – w pkt 6 przed wyrazem „mieszaniny” dodaje się wyrazy „niebędące produktami nawozowymi UE”, – w pkt 7 przed wyrazem „substancje” dodaje się wyrazy „niebędące produktami nawozowymi UE”, – w pkt 8 przed wyrazem „związek” dodaje się wyrazy „niebędący produktem nawozowym UE”, – w pkt 9 przed wyrazem „materiał” dodaje się wyrazy „niebędący produktem nawozowym UE”, – po pkt 10 dodaje się pkt 10a w brzmieniu: „ 10a) nawozowe produkty mikrobiologiczne – produkty zawierające wyłącznie mikroorganizmy, w tym mikroorganizmy martwe lub nieaktywne, lub konsorcja tych mikroorganizmów oraz substancje stanowiące pożywkę dla tych mikroorganizmów i ich metabolity, a także nieszkodliwe substancje resztkowe z pożywek, które poprawiają aktywność biologiczną gleby lub stymulują procesy odżywiania roślin lub grzybów, a wyłącznym celem ich zastosowania jest poprawa efektywności wykorzystania składników pokarmowych przez rośliny lub grzyby, ich odporności na stres abiotyczny, ich cech jakościowych lub przyswajalności przez nie składników pokarmowych z form trudno dostępnych w glebie; ” , – pkt 13 otrzymuje brzmienie: „ 13) wprowadzenie do obrotu – w przypadku: a) produktu nawozowego UE – wprowadzenie do obrotu w rozumieniu art. 2 pkt 10 rozporządzenia nr 2019/1009, b) nawozu, środka wspomagającego uprawę roślin i nawozowego produktu mikrobiologicznego: – oferowanie w celu zbycia, sprzedaż oraz inną odpłatną albo nieodpłatną formę zbycia nawozu, środka wspomagającego uprawę roślin lub nawozowego produktu mikrobiologicznego przez: – – producenta – w odniesieniu do nawozu, środka wspomagającego uprawę roślin lub nawozowego produktu mikrobiologicznego, wyprodukowanych na terytorium Rzeczypospolitej Polskiej, – – importera – w odniesieniu do nawozu, środka wspomagającego uprawę roślin lub nawozowego produktu mikrobiologicznego, przywiezionych z terytorium państw trzecich, – – producenta lub inny podmiot wprowadzający do obrotu na terytorium Rzeczypospolitej Polskiej nawóz, środek wspomagający uprawę roślin lub nawozowy produkt mikrobiologiczny – w odniesieniu do nawozu, środka wspomagającego uprawę roślin lub nawozowego produktu mikrobiologicznego, wyprodukowanych lub wprowadzonych do obrotu na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – przywóz na terytorium Rzeczypospolitej Polskiej nawozu, środka wspomagającego uprawę roślin lub nawozowego produktu mikrobiologicznego, przeznaczonych na potrzeby własne; ” , – dodaje się pkt 14–21 w brzmieniu: „ 14) produkt nawozowy UE – produkt nawozowy UE w rozumieniu art. 2 pkt 2 rozporządzenia nr 2019/1009; 15) udostępnianie na rynku – udostępnianie na rynku w rozumieniu art. 2 pkt 9 rozporządzenia nr 2019/1009; 16) producent – w przypadku: a) produktu nawozowego UE – producenta w rozumieniu art. 2 pkt 11 rozporządzenia nr 2019/1009, b) nawozu, środka wspomagającego uprawę roślin lub nawozowego produktu mikrobiologicznego – osobę fizyczną lub prawną, która: – wytwarza nawóz, środek wspomagający uprawę roślin lub nawozowy produkt mikrobiologiczny lub która zleca ich zaprojektowanie lub wytworzenie, lub która produkuje nawóz, środek wspomagający uprawę roślin lub nawozowy produkt mikrobiologiczny, które nie powstały w procesie wytwarzania, albo – modyfikuje nawóz, środek wspomagający uprawę roślin lub nawozowy produkt mikrobiologiczny już wprowadzone do obrotu w sposób, który mógłby mieć wpływ na ich zgodność z odpowiednimi przepisami niniejszej ustawy, albo – jest wskazana jako producent na opakowaniu nawozu, środka wspomagającego uprawę roślin lub nawozowego produktu mikrobiologicznego lub dołączonej do nich etykiecie, a w przypadku nawozu, środka wspomagającego uprawę roślin albo nawozowego produktu mikrobiologicznego luzem – w dokumentach, w które się je zaopatruje; 17) importer: a) importera w rozumieniu art. 2 pkt 13 rozporządzenia nr 2019/1009 – w przypadku produktu nawozowego UE, b) osobę fizyczną lub prawną, które mają miejsce zamieszkania lub siedzibę w Unii Europejskiej, wprowadzające do obrotu na terytorium Rzeczypospolitej Polskiej nawóz, środek wspomagający uprawę roślin lub nawozowy produkt mikrobiologiczny przywiezione z terytorium państw trzecich – w przypadku nawozu, środka wspomagającego uprawę roślin lub nawozowego produktu mikrobiologicznego; 18) dystrybutor – dystrybutora w rozumieniu art. 2 pkt 14 rozporządzenia nr 2019/1009; 19) specyfikacja techniczna – specyfikację techniczną w rozumieniu art. 2 pkt 16 rozporządzenia nr 2019/1009; 20) ocena zgodności – ocenę zgodności w rozumieniu art. 2 pkt 20 rozporządzenia nr 2019/1009; 21) oznakowanie CE – oznakowanie CE w rozumieniu art. 2 pkt 25 rozporządzenia nr 2019/1009. ” , uchyla się ust. 2;
+- **2)** w art. 2: w ust. 1: – uchyla się pkt 2, – w pkt 3 przed wyrazami „nawozy nieorganiczne” dodaje się wyrazy „niebędące produktami nawozowymi UE”, – w pkt 5 przed wyrazami „nawozy wyprodukowane” dodaje się wyrazy „niebędące produktami nawozowymi UE”, – w pkt 6 przed wyrazem „mieszaniny” dodaje się wyrazy „niebędące produktami nawozowymi UE”, – w pkt 7 przed wyrazem „substancje” dodaje się wyrazy „niebędące produktami nawozowymi UE”, – w pkt 8 przed wyrazem „związek” dodaje się wyrazy „niebędący produktem nawozowym UE”, – w pkt 9 przed wyrazem „materiał” dodaje się wyrazy „niebędący produktem nawozowym UE”, po pkt 10 dodaje się pkt 10a w brzmieniu: „
     - **a)**
+
+- **10a)** nawozowe produkty mikrobiologiczne – produkty zawierające wyłącznie mikroorganizmy, w tym mikroorganizmy martwe lub nieaktywne, lub konsorcja tych mikroorganizmów oraz substancje stanowiące pożywkę dla tych mikroorganizmów i ich metabolity, a także nieszkodliwe substancje resztkowe z pożywek, które poprawiają aktywność biologiczną gleby lub stymulują procesy odżywiania roślin lub grzybów, a wyłącznym celem ich zastosowania jest poprawa efektywności wykorzystania składników pokarmowych przez rośliny lub grzyby, ich odporności na stres abiotyczny, ich cech jakościowych lub przyswajalności przez nie składników pokarmowych z form trudno dostępnych w glebie; ” , pkt 13 otrzymuje brzmienie: „
+- **13)** wprowadzenie do obrotu – w przypadku: produktu nawozowego UE – wprowadzenie do obrotu w rozumieniu art. 2 pkt 10 rozporządzenia nr 2019/1009, nawozu, środka wspomagającego uprawę roślin i nawozowego produktu mikrobiologicznego: oferowanie w celu zbycia, sprzedaż oraz inną odpłatną albo nieodpłatną formę zbycia nawozu, środka wspomagającego uprawę roślin lub nawozowego produktu mikrobiologicznego przez: – – producenta – w odniesieniu do nawozu, środka wspomagającego uprawę roślin lub nawozowego produktu mikrobiologicznego, wyprodukowanych na terytorium Rzeczypospolitej Polskiej, – – importera – w odniesieniu do nawozu, środka wspomagającego uprawę roślin lub nawozowego produktu mikrobiologicznego, przywiezionych z terytorium państw trzecich, – – producenta lub inny podmiot wprowadzający do obrotu na terytorium Rzeczypospolitej Polskiej nawóz, środek wspomagający uprawę roślin lub nawozowy produkt mikrobiologiczny – w odniesieniu do nawozu, środka wspomagającego uprawę roślin lub nawozowego produktu mikrobiologicznego, wyprodukowanych lub wprowadzonych do obrotu na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – przywóz na terytorium Rzeczypospolitej Polskiej nawozu, środka wspomagającego uprawę roślin lub nawozowego produktu mikrobiologicznego, przeznaczonych na potrzeby własne; ” , dodaje się pkt 14–21 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **14)** produkt nawozowy UE – produkt nawozowy UE w rozumieniu art. 2 pkt 2 rozporządzenia nr 2019/1009;
+- **15)** udostępnianie na rynku – udostępnianie na rynku w rozumieniu art. 2 pkt 9 rozporządzenia nr 2019/1009;
+- **16)** producent – w przypadku: produktu nawozowego UE – producenta w rozumieniu art. 2 pkt 11 rozporządzenia nr 2019/1009, nawozu, środka wspomagającego uprawę roślin lub nawozowego produktu mikrobiologicznego – osobę fizyczną lub prawną, która: – wytwarza nawóz, środek wspomagający uprawę roślin lub nawozowy produkt mikrobiologiczny lub która zleca ich zaprojektowanie lub wytworzenie, lub która produkuje nawóz, środek wspomagający uprawę roślin lub nawozowy produkt mikrobiologiczny, które nie powstały w procesie wytwarzania, albo – modyfikuje nawóz, środek wspomagający uprawę roślin lub nawozowy produkt mikrobiologiczny już wprowadzone do obrotu w sposób, który mógłby mieć wpływ na ich zgodność z odpowiednimi przepisami niniejszej ustawy, albo – jest wskazana jako producent na opakowaniu nawozu, środka wspomagającego uprawę roślin lub nawozowego produktu mikrobiologicznego lub dołączonej do nich etykiecie, a w przypadku nawozu, środka wspomagającego uprawę roślin albo nawozowego produktu mikrobiologicznego luzem – w dokumentach, w które się je zaopatruje;
+    - **a)**
+    - **b)**
+
+- **17)** importer: importera w rozumieniu art. 2 pkt 13 rozporządzenia nr 2019/1009 – w przypadku produktu nawozowego UE, osobę fizyczną lub prawną, które mają miejsce zamieszkania lub siedzibę w Unii Europejskiej, wprowadzające do obrotu na terytorium Rzeczypospolitej Polskiej nawóz, środek wspomagający uprawę roślin lub nawozowy produkt mikrobiologiczny przywiezione z terytorium państw trzecich – w przypadku nawozu, środka wspomagającego uprawę roślin lub nawozowego produktu mikrobiologicznego;
+    - **a)**
+    - **b)**
+
+- **18)** dystrybutor – dystrybutora w rozumieniu art. 2 pkt 14 rozporządzenia nr 2019/1009;
+- **19)** specyfikacja techniczna – specyfikację techniczną w rozumieniu art. 2 pkt 16 rozporządzenia nr 2019/1009;
+- **20)** ocena zgodności – ocenę zgodności w rozumieniu art. 2 pkt 20 rozporządzenia nr 2019/1009;
+- **21)** oznakowanie CE – oznakowanie CE w rozumieniu art. 2 pkt 25 rozporządzenia nr 2019/1009. ” , uchyla się ust. 2;
     - **b)**
 
 - **3)** w art. 3: w ust. 1 uchyla się pkt 1, ust. 2 otrzymuje brzmienie: „
@@ -78,7 +99,7 @@ source: "eli-html"
 
 - **13)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
 
-#### Rozdział 4a Wykaz nawozowych produktów mikrobiologicznych
+#### Rozdział 4a
 
 **Art. 25a.**
 
@@ -105,8 +126,9 @@ source: "eli-html"
 - **14)** w art. 28: w ust. 1 po pkt 3 dodaje się pkt 3a w brzmieniu: „
     - **a)**
 
-- **3a)** wykonywanie badań produktów nawozowych UE; ” , w ust. 2: – w pkt 1: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ analizy biologiczne, fizyczne, fizykochemiczne i chemiczne: ” , – – w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „ g) produktów nawozowych UE; ” ;
+- **3a)** wykonywanie badań produktów nawozowych UE; ” , w ust. 2: w pkt 1: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ analizy biologiczne, fizyczne, fizykochemiczne i chemiczne: ” , – w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „ produktów nawozowych UE; ” ;
     - **b)**
+    - **g)**
 
 - **15)** tytuł rozdziału 6 otrzymuje brzmienie: „ Nadzór i kontrola w zakresie nawozów, nawożenia, środków wspomagających uprawę roślin oraz produktów nawozowych UE ” ;
 - **16)** art. 30 otrzymuje brzmienie: „
@@ -166,18 +188,18 @@ source: "eli-html"
 - **6)** nie mocuje etykiet dołączonych do danego nawozu albo środka w taki sposób, aby pozostały one tam, gdzie zostały zamocowane niezależnie od zastosowanego systemu zamknięcia opakowania tego nawozu lub środka,
 - **7)** nie dołącza do danego nawozu oraz środka luzem egzemplarza dokumentów zawierającego informacje określone w art. 9 ust. 2 lub 3 w sposób zapewniający dostęp do tych informacji,
 - **8)** nie dołącza do danego nawozu oraz środka w postaci płynnej informacji o temperaturze, w jakiej ten nawóz lub środek powinny być przechowywane, a także o środkach, jakie powinny być podjęte, aby zapobiec wypadkom podczas przechowywania tego nawozu lub środka,
-- **9)** deklaruje nieprawdziwe wymagania jakościowe danego nawozu albo środka podlega karze pieniężnej w wysokości od 2000 do 50 000 zł.
+- **9)** deklaruje nieprawdziwe wymagania jakościowe danego nawozu albo środka – podlega karze pieniężnej w wysokości od 2000 do 50 000 zł.
 
 2. Kto wprowadza do obrotu nawozy lub środki wspomagające uprawę roślin:
 
 - **1)** niespełniające wymagań jakościowych,
 - **2)** w których zanieczyszczenia przekraczają dopuszczalne wartości zanieczyszczeń określone w przepisach wydanych na podstawie art. 10 pkt 5 lub art. 11 pkt 5,
-- **3)** wbrew obowiązkowi, o którym mowa w art. 7 ust. 3 lub 4, art. 31 ust. 1 pkt 2 lub art. 37, nie wycofał danego nawozu lub środka wspomagającego uprawę roślin wprowadzonych do obrotu podlega karze pieniężnej w wysokości od 2000 do 100 000 zł.
+- **3)** wbrew obowiązkowi, o którym mowa w art. 7 ust. 3 lub 4, art. 31 ust. 1 pkt 2 lub art. 37, nie wycofał danego nawozu lub środka wspomagającego uprawę roślin wprowadzonych do obrotu – podlega karze pieniężnej w wysokości od 2000 do 100 000 zł.
 
 1. Kto, będąc producentem albo importerem, wprowadza do obrotu produkt nawozowy UE:
 
 - **1)** niezgodny z wymaganiami określonymi w załączniku I lub II do rozporządzenia nr 2019/1009 lub w art. 4 ust. 2 rozporządzenia nr 2019/1009,
-- **2)** bez przeprowadzenia procedury oceny zgodności produktu nawozowego UE, o której mowa w art. 15 ust. 1 rozporządzenia nr 2019/1009, albo po przeprowadzeniu tej procedury niezgodnie z wymaganiami określonymi w załączniku IV do rozporządzenia nr 2019/1009 podlega karze pieniężnej w wysokości do 100% kwoty należnej za sprzedany produkt nawozowy UE, a w przypadku innej formy zbycia tego produktu – do 100% wartości korzyści majątkowej, którą uzyskał lub którą mógłby uzyskać za wprowadzony do obrotu produkt nawozowy UE, jednak nie mniej niż 5000 zł.
+- **2)** bez przeprowadzenia procedury oceny zgodności produktu nawozowego UE, o której mowa w art. 15 ust. 1 rozporządzenia nr 2019/1009, albo po przeprowadzeniu tej procedury niezgodnie z wymaganiami określonymi w załączniku IV do rozporządzenia nr 2019/1009 – podlega karze pieniężnej w wysokości do 100% kwoty należnej za sprzedany produkt nawozowy UE, a w przypadku innej formy zbycia tego produktu – do 100% wartości korzyści majątkowej, którą uzyskał lub którą mógłby uzyskać za wprowadzony do obrotu produkt nawozowy UE, jednak nie mniej niż 5000 zł.
 
 2. Kto, będąc producentem:
 
@@ -187,7 +209,7 @@ source: "eli-html"
 - **4)** nie przeprowadza badania próby produktu nawozowego UE udostępnionego na rynku, który tego wymaga ze względu na jego działanie lub stwarzane przez ten produkt zagrożenie zdrowia ludzi i zwierząt oraz środowiska, albo nie informuje dystrybutorów o przeprowadzeniu tego badania,
 - **5)** nie sporządza specyfikacji technicznej lub deklaracji zgodności UE produktu nawozowego UE lub nie sporządza tej deklaracji w sposób określony w art. 16 ust. 2 i 3 rozporządzenia nr 2019/1009,
 - **6)** nie przechowuje specyfikacji technicznej lub deklaracji zgodności UE produktu nawozowego UE przez 5 lat od dnia wprowadzenia do obrotu tego produktu,
-- **7)** wbrew obowiązkom, o których mowa w art. 6 ust. 8 i 9 rozporządzenia nr 2019/1009, nie podejmuje czynności określonych w tych przepisach podlega karze pieniężnej w wysokości od 2000 do 50 000 zł.
+- **7)** wbrew obowiązkom, o których mowa w art. 6 ust. 8 i 9 rozporządzenia nr 2019/1009, nie podejmuje czynności określonych w tych przepisach – podlega karze pieniężnej w wysokości od 2000 do 50 000 zł.
 
 3. Kto, będąc importerem:
 
@@ -196,7 +218,7 @@ source: "eli-html"
 - **3)** nie przeprowadza badania próby udostępnionego na rynku produktu nawozowego UE, który tego wymaga ze względu na jego działanie lub stwarzane przez ten produkt zagrożenie zdrowia ludzi i zwierząt oraz środowiska, albo nie informuje dystrybutorów o przeprowadzeniu tego badania,
 - **4)** nie sporządza specyfikacji technicznej lub deklaracji zgodności UE produktu nawozowego UE lub nie sporządza tej deklaracji w sposób określony w art. 16 ust. 2 i 3 rozporządzenia nr 2019/1009,
 - **5)** nie przechowuje kopii deklaracji zgodności UE produktu nawozowego UE przez 5 lat od dnia wprowadzenia do obrotu tego produktu lub nie zapewnia sporządzenia przez producenta i udostępnienia jego specyfikacji technicznej,
-- **6)** wbrew obowiązkom, o których mowa w art. 8 ust. 7 i 9 rozporządzenia nr 2019/1009, nie podejmuje czynności określonych w tych przepisach podlega karze pieniężnej w wysokości od 2000 do 50 000 zł.
+- **6)** wbrew obowiązkom, o których mowa w art. 8 ust. 7 i 9 rozporządzenia nr 2019/1009, nie podejmuje czynności określonych w tych przepisach – podlega karze pieniężnej w wysokości od 2000 do 50 000 zł.
 
 4. Kto, będąc dystrybutorem:
 
@@ -204,12 +226,12 @@ source: "eli-html"
 - **2)** nie przekazuje producentowi, importerowi lub organowi nadzoru rynku informacji o niezgodności produktu nawozowego UE z wymaganiami określonymi w rozporządzeniu nr 2019/1009 lub o stwarzaniu przez ten produkt zagrożenia zdrowia ludzi i zwierząt oraz środowiska,
 - **3)** udostępnia na rynku produkt nawozowy UE mimo posiadania informacji o niezgodności tego produktu z wymaganiami określonymi w rozporządzeniu nr 2019/1009 lub o stwarzaniu przez ten produkt zagrożenia zdrowia ludzi i zwierząt oraz środowiska,
 - **4)** przechowuje lub transportuje produkt nawozowy UE niezgodnie z wymaganiami określonymi w załączniku I lub III do rozporządzenia nr 2019/1009,
-- **5)** wbrew obowiązkom, o których mowa w art. 9 ust. 4 i 5 rozporządzenia nr 2019/1009, nie podejmuje czynności określonych w tych przepisach podlega karze pieniężnej w wysokości od 2000 do 50 000 zł.
+- **5)** wbrew obowiązkom, o których mowa w art. 9 ust. 4 i 5 rozporządzenia nr 2019/1009, nie podejmuje czynności określonych w tych przepisach – podlega karze pieniężnej w wysokości od 2000 do 50 000 zł.
 
 5. Kto, będąc importerem lub dystrybutorem, który pakuje lub przepakowuje produkt nawozowy UE, nie będąc jego producentem:
 
 - **1)** nie zapewnia, aby na opakowaniu tego produktu były zamieszczone informacje, o których mowa w art. 11 lit. a rozporządzenia nr 2019/1009, lub podaje te informacje niepełne lub niezgodne ze stanem faktycznym,
-- **2)** nie przechowuje informacji, o których mowa w art. 6 ust. 7 lub art. 8 ust. 4 rozporządzenia nr 2019/1009, przez 5 lat od dnia udostępnienia na rynku tego produktu podlega karze pieniężnej w wysokości od 2000 do 50 000 zł.
+- **2)** nie przechowuje informacji, o których mowa w art. 6 ust. 7 lub art. 8 ust. 4 rozporządzenia nr 2019/1009, przez 5 lat od dnia udostępnienia na rynku tego produktu – podlega karze pieniężnej w wysokości od 2000 do 50 000 zł.
 
 6. Kto:
 
@@ -217,7 +239,7 @@ source: "eli-html"
 - **2)** nie umieszcza oznakowania CE na produkcie nawozowym UE przed wprowadzeniem do obrotu tego produktu,
 - **3)** nie przekazuje organom nadzoru rynku informacji, o których mowa w art. 12 ust. 1 lit. a i b rozporządzenia nr 2019/1009,
 - **4)** umieszcza oznakowanie CE na produkcie nawozowym UE, który nie spełnia wymagań określonych w załączniku I lub II do rozporządzenia nr 2019/1009 albo dla którego nie wystawiono deklaracji zgodności UE produktu nawozowego UE,
-- **5)** umieszcza na produkcie nawozowym UE znak podobny do oznakowania CE, który może wprowadzić w błąd użytkownika lub inny podmiot gospodarczy udostępniający na rynku ten produkt podlega karze pieniężnej w wysokości od 2000 do 150 000 zł.
+- **5)** umieszcza na produkcie nawozowym UE znak podobny do oznakowania CE, który może wprowadzić w błąd użytkownika lub inny podmiot gospodarczy udostępniający na rynku ten produkt – podlega karze pieniężnej w wysokości od 2000 do 150 000 zł.
 
 1. Kary pieniężne, o których mowa w art. 37–37b, wymierza oraz ustala termin wycofania nawozu lub środka wspomagającego uprawę roślin z obrotu, o którym mowa w art. 37, w drodze decyzji, wojewódzki inspektor przeprowadzający kontrolę.
 
@@ -242,7 +264,7 @@ source: "eli-html"
 
 **Art. 2.**
 
-1. Nawozy powstałe ze zmieszania nawozów, o których mowa w art. 52 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1009 z dnia 5 czerwca 2019 r. ustanawiającego przepisy dotyczące udostępniania na rynku produktów nawozowych UE, zmieniającego rozporządzenia (WE) nr 1069/2009 i (WE) nr 1107/2009 oraz uchylającego rozporządzenie (WE) nr 2003/2003 (Dz. Urz. UE L 170 z 25.06.2019, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 2019/1009”, mogą być wprowadzane do obrotu, ale nawozy te nie mogą być oznaczane znakiem „NAWÓZ WE”.
+1. Nawozy powstałe ze zmieszania nawozów, o których mowa w art. 52 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1009 z dnia 5 czerwca 2019 r. ustanawiającego przepisy dotyczące udostępniania na rynku produktów nawozowych UE, zmieniającego rozporządzenia (WE) nr 1069/2009 i (WE) nr 1107/2009 oraz uchylającego rozporządzenie (WE) nr 2003/2003 (Dz. Urz. UE L 170 z 25.06.2019, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 22.11.2019, str. 129, Dz. Urz. UE L 48 z 11.02.2021, str. 6, Dz. Urz. UE L 356 z 08.10.2021, str. 8, Dz. Urz. UE L 427 z 30.11.2021, str. 120, 130 i 140, Dz. Urz. UE L 83 z 10.03.2022, str. 66, Dz. Urz. UE L 161 z 16.06.2022, str. 121 oraz Dz. Urz. UE L 183 z 08.07.2022, str. 2., zwanego dalej „rozporządzeniem nr 2019/1009”, mogą być wprowadzane do obrotu, ale nawozy te nie mogą być oznaczane znakiem „NAWÓZ WE”.
 
 2. Na opakowaniu nawozu, o którym mowa w ust. 1, umieszcza się wyłącznie:
 
@@ -263,12 +285,12 @@ source: "eli-html"
 - **6)** umieszcza na opakowaniu lub na etykiecie tych nawozów, a w przypadku nawozów luzem – w dokumentach, w które się je zaopatruje, informacje inne niż określone w art. 9 ust. 2 lub 3 oraz 9 ustawy zmienianej w art. 1,
 - **7)** nie mocuje etykiet dołączonych do tych nawozów w taki sposób, aby pozostały one tam, gdzie zostały zamocowane niezależnie od zastosowanego systemu zamknięcia opakowania,
 - **8)** nie dołącza do tych nawozów luzem egzemplarza dokumentów zawierającego informacje określone w art. 9 ust. 2 lub 3 ustawy zmienianej w art. 1 w sposób zapewniający dostęp do tych informacji,
-- **9)** nie dołącza do tych nawozów w postaci płynnej informacji o temperaturze, w jakiej powinny być one przechowywane, a także informacji o środkach, jakie powinny być podjęte, aby zapobiec wypadkom podczas przechowywania tych nawozów podlega karze administracyjnej w wysokości od 2000 do 50 000 zł.
+- **9)** nie dołącza do tych nawozów w postaci płynnej informacji o temperaturze, w jakiej powinny być one przechowywane, a także informacji o środkach, jakie powinny być podjęte, aby zapobiec wypadkom podczas przechowywania tych nawozów – podlega karze administracyjnej w wysokości od 2000 do 50 000 zł.
 
 6. Kto wprowadza do obrotu nawozy, o których mowa w ust. 1:
 
 - **1)** niespełniające zadeklarowanych wymagań jakościowych,
-- **2)** w których zanieczyszczenia przekraczają dopuszczalne wartości zanieczyszczeń określone w przepisach wydanych na podstawie art. 10 pkt 5 lub art. 11 pkt 5 ustawy zmienianej w art. 1 podlega karze administracyjnej w wysokości od 2000 do 50 000 zł.
+- **2)** w których zanieczyszczenia przekraczają dopuszczalne wartości zanieczyszczeń określone w przepisach wydanych na podstawie art. 10 pkt 5 lub art. 11 pkt 5 ustawy zmienianej w art. 1 – podlega karze administracyjnej w wysokości od 2000 do 50 000 zł.
 
 7. Kary pieniężne, o których mowa w ust. 5 i 6, wymierza w drodze decyzji wojewódzki inspektor ochrony roślin i nasiennictwa przeprowadzający kontrolę.
 
@@ -280,7 +302,7 @@ source: "eli-html"
 
 **Art. 3.**
 
-1. Nadzór nad udostępnianiem na rynku nawozów, o których mowa w art. 52 rozporządzenia nr 2019/1009, zgodnie z wymaganiami określonymi w przepisach rozporządzenia (WE) nr 2003/2003 Parlamentu Europejskiego i Rady z dnia 13 października 2003 r. w sprawie nawozów (Dz. Urz. UE L 304 z 21.11.2003, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 467, z późn. zm.), zwanego dalej „rozporządzeniem nr 2003/2003”, sprawuje Państwowa Inspekcja Ochrony Roślin i Nasiennictwa w sposób określony w przepisach oddziałów 2–4 rozdziału 7 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854).
+1. Nadzór nad udostępnianiem na rynku nawozów, o których mowa w art. 52 rozporządzenia nr 2019/1009, zgodnie z wymaganiami określonymi w przepisach rozporządzenia (WE) nr 2003/2003 Parlamentu Europejskiego i Rady z dnia 13 października 2003 r. w sprawie nawozów (Dz. Urz. UE L 304 z 21.11.2003, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 168 z 01.05.2004, str. 1, Dz. Urz. UE L 359 z 04.12.2004, str. 25, Dz. Urz. UE L 363 z 20.12.2006, str. 1, Dz. Urz. UE L 51 z 20.02.2007, str. 51, Dz. Urz. UE L 179 z 07.07.2007, str. 57, Dz. Urz. UE L 299 z 08.11.2008, str. 13, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 282 z 29.10.2009, str. 7, Dz. Urz. UE L 43 z 17.02.2011, str. 1, Dz. Urz. UE L 75 z 15.03.2012, str. 12, Dz. Urz. UE L 134 z 18.05.2013, str. 1, Dz. Urz. UE L 337 z 25.11.2014, str. 53, Dz. Urz. UE L 242 z 09.09.2016, str. 24, Dz. Urz. UE L 175 z 28.06.2019, str. 25, Dz. Urz. UE L 377 z 11.11.2020, str. 3 oraz Dz. Urz. UE L 190 z 31.05.2021, str. 74. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 467, z późn. zm.), zwanego dalej „rozporządzeniem nr 2003/2003”, sprawuje Państwowa Inspekcja Ochrony Roślin i Nasiennictwa w sposób określony w przepisach oddziałów 2–4 rozdziału 7 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854).
 
 2. Minister właściwy do spraw gospodarki:
 
@@ -316,7 +338,7 @@ source: "eli-html"
 - **10)** nie gwarantuje, że nawozy proste o zawartości azotu powyżej 28% masowych w przeliczeniu na azotan amonu są zgodne z wymaganiami określonymi w sekcji 1 załącznika III do rozporządzenia nr 2003/2003,
 - **11)** nie posiada dokumentu stwierdzającego, że dany nawóz o zawartości azotu powyżej 28% masowych w przeliczeniu na azotan amonu przeszedł pomyślnie test odporności na detonację w laboratorium upoważnionym do przeprowadzenia tego testu,
 - **12)** podaje zawartość składników pokarmowych głównych, drugorzędnych i mikroskładników niezgodnie z tolerancjami określonymi w załączniku II do rozporządzenia nr 2003/2003 lub systematycznie wykorzystuje te tolerancje, lub stosuje je w odniesieniu do zawartości minimalnych i maksymalnych określonych w załączniku I do rozporządzenia nr 2003/2003,
-- **13)** udostępnia te nawozy: w opakowaniach, które nie są zamknięte w sposób lub przy zastosowaniu urządzenia, o których mowa w art. 12 rozporządzenia nr 2003/2003, lub nieopakowane, o zawartości azotu powyżej 28% masowych w przeliczeniu na azotan amonu podlega karze pieniężnej w wysokości od 2000 do 50 000 zł.
+- **13)** udostępnia te nawozy: w opakowaniach, które nie są zamknięte w sposób lub przy zastosowaniu urządzenia, o których mowa w art. 12 rozporządzenia nr 2003/2003, lub nieopakowane, o zawartości azotu powyżej 28% masowych w przeliczeniu na azotan amonu – podlega karze pieniężnej w wysokości od 2000 do 50 000 zł.
     - **a)**
     - **b)**
 
@@ -350,5 +372,5 @@ source: "eli-html"
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 38 ust. 2 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 32a ust. 3 ustawy zmienianej w art. 1, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1009 z dnia 5 czerwca 2019 r. ustanawiającego przepisy dotyczące udostępniania na rynku produktów nawozowych UE, zmieniającego rozporządzenia (WE) nr 1069/2009 i (WE) nr 1107/2009 oraz uchylającego rozporządzenie (WE) nr 2003/2003 (Dz. Urz. UE L 170 z 25.06.2019, str. 1, Dz. Urz. UE L 302 z 22.11.2019, str. 129, Dz. Urz. UE L 48 z 11.02.2021, str. 6, Dz. Urz. UE L 356 z 08.10.2021, str. 8, Dz. Urz. UE L 427 z 30.11.2021, str. 120, 130 i 140, Dz. Urz. UE L 83 z 10.03.2022, str. 66 oraz Dz. Urz. UE L 161 z 16.06.2022, str. 121). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 22.11.2019, str. 129, Dz. Urz. UE L 48 z 11.02.2021, str. 6, Dz. Urz. UE L 356 z 08.10.2021, str. 8, Dz. Urz. UE L 427 z 30.11.2021, str. 120, 130 i 140, Dz. Urz. UE L 83 z 10.03.2022, str. 66, Dz. Urz. UE L 161 z 16.06.2022, str. 121 oraz Dz. Urz. UE L 183 z 08.07.2022, str. 2. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 22.11.2019, str. 129, Dz. Urz. UE L 48 z 11.02.2021, str. 6, Dz. Urz. UE L 356 z 08.10.2021, str. 8, Dz. Urz. UE L 427 z 30.11.2021, str. 120, 130 i 140, Dz. Urz. UE L 83 z 10.03.2022, str. 66, Dz. Urz. UE L 161 z 16.06.2022, str. 121 oraz Dz. Urz. UE L 183 z 08.07.2022, str. 2. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 168 z 01.05.2004, str. 1, Dz. Urz. UE L 359 z 04.12.2004, str. 25, Dz. Urz. UE L 363 z 20.12.2006, str. 1, Dz. Urz. UE L 51 z 20.02.2007, str. 51, Dz. Urz. UE L 179 z 07.07.2007, str. 57, Dz. Urz. UE L 299 z 08.11.2008, str. 13, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 282 z 29.10.2009, str. 7, Dz. Urz. UE L 43 z 17.02.2011, str. 1, Dz. Urz. UE L 75 z 15.03.2012, str. 12, Dz. Urz. UE L 134 z 18.05.2013, str. 1, Dz. Urz. UE L 337 z 25.11.2014, str. 53, Dz. Urz. UE L 242 z 09.09.2016, str. 24, Dz. Urz. UE L 175 z 28.06.2019, str. 25, Dz. Urz. UE L 377 z 11.11.2020, str. 3 oraz Dz. Urz. UE L 190 z 31.05.2021, str. 74.
 

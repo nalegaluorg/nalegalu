@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 29 września 2017 r. w sprawie sposobu prowadzenia i trybu aktualizacji policyjnej mapy zagrożeń przestępstwami na tle seksualnym
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 29 września 2017 r. w sprawie sposobu prowadzenia i trybu aktualizacji policyjnej mapy zagrożeń przestępstwami na tle seksualnym Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088 oraz z 2017 r. poz. 1140).
 
 | Pole | Wartość |
 |---|---|
@@ -22,17 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-29 |
 | Data wydania | 2017-09-29 |
-| Wejście w życie | 2017-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001817) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1817/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 21o ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 21o ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 708, 768, 1086 i 1321.) zarządza się, co następuje:
 § 1.
 1.
 Na policyjnej mapie zagrożeń przestępstwami na tle seksualnym, zwanej dalej „mapą”, zamieszcza się informacje o:
 1)
-popełnionych w okresie dwóch poprzednich lat i w roku bieżącym przestępstwach przeciwko wolności seksualnej wymienionych w rozdziale XXV ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2016 r. poz. 1137, z późn. zm.), które w Krajowym Systemie Informacyjnym Policji (KSIP) są zarejestrowane w statusie „stwierdzone”, przez które należy rozumieć przestępstwa objęte postępowaniem przygotowawczym zakończonym:
+popełnionych w okresie dwóch poprzednich lat i w roku bieżącym przestępstwach przeciwko wolności seksualnej wymienionych w rozdziale XXV ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2016 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2138 oraz z 2017 r. poz. 244, 768, 773, 952, 966 i 1214.), które w Krajowym Systemie Informacyjnym Policji (KSIP) są zarejestrowane w statusie „stwierdzone”, przez które należy rozumieć przestępstwa objęte postępowaniem przygotowawczym zakończonym:
 a)
 skierowaniem wniosku o zatwierdzenie lub sporządzenie:
 – aktu oskarżenia, w tym o zatwierdzenie wniosku o rozpoznanie sprawy w postępowaniu przyśpieszonym,
@@ -71,6 +70,5 @@ do piątego dnia każdego miesiąca na podstawie danych uzyskanych w trybie § 2
 2)
 niezwłocznie po uzyskaniu danych z Rejestru – w zakresie danych, o których mowa w § 1 ust. 1 pkt 4 i 5.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 października 2017 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088 oraz z 2017 r. poz. 1140). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 708, 768, 1086 i 1321. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2138 oraz z 2017 r. poz. 244, 768, 773, 952, 966 i 1214.
+Rozporządzenie wchodzi w życie z dniem 1 października 2017 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088 oraz z 2017 r. poz. 1140). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 708, 768, 1086 i 1321. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2138 oraz z 2017 r. poz. 244, 768, 773, 952, 966 i 1214.
 

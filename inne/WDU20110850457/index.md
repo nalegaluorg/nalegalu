@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-02-03 |
 | Data wydania | 2011-04-22 |
-| Wejście w życie | 2011-05-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110850457) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/457/text.pdf) |
 

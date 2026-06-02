@@ -22,16 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-14 |
 | Data wydania | 2021-10-21 |
-| Wejście w życie | 2021-10-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001901) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1901/text.pdf) |
 
+Przepisy epizodyczne
+
 **Art. 1.** W ustawie z dnia 19 listopada 2020 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2021 (Dz. U. poz. 2400 oraz z 2021 r. poz. 1104) wprowadza się następujące zmiany:
 
-- **1)** w art. 7: w ust. 1 uchyla się pkt 3, uchyla się ust. 2, w ust. 3: – we wprowadzeniu do wyliczenia wyrazy „ust. 1 i 2” zastępuje się wyrazami „ust. 1”, – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) przeznaczonych na wypłaty specjalnych dodatków motywacyjnych, o których mowa w art. 46a ust. 1. ” , w ust. 4 wyrazy „ust. 1 i 2” zastępuje się wyrazami „ust. 1”, w ust. 5 wyrazy „ust. 1 i 2” zastępuje się wyrazami „ust. 1”;
+- **1)** w art. 7: w ust. 1 uchyla się pkt 3, uchyla się ust. 2, w ust. 3: – we wprowadzeniu do wyliczenia wyrazy „ust. 1 i 2” zastępuje się wyrazami „ust. 1”, w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
+
+- **4)** przeznaczonych na wypłaty specjalnych dodatków motywacyjnych, o których mowa w art. 46a ust. 1. ” , w ust. 4 wyrazy „ust. 1 i 2” zastępuje się wyrazami „ust. 1”, w ust. 5 wyrazy „ust. 1 i 2” zastępuje się wyrazami „ust. 1”;
     - **d)**
     - **e)**
 
@@ -48,7 +51,7 @@ source: "eli-html"
 - **2)** instytucjach gospodarki budżetowej,
 - **3)** państwowych funduszach celowych,
 - **4)** Zakładzie Ubezpieczeń Społecznych, Kasie Rolniczego Ubezpieczenia Społecznego i funduszach zarządzanych przez Prezesa Kasy Rolniczego Ubezpieczenia Społecznego,
-- **5)** innych państwowych osobach prawnych należących do sektora finansów publicznych, o których mowa w art. 9 pkt 14 ustawy o finansach publicznych wymagają zgody właściwego ministra lub innego organu nadzorującego oraz zgody ministra właściwego do spraw finansów publicznych, z zastrzeżeniem art. 9c. W roku 2021 zmiana planu finansowego Narodowego Funduszu Zdrowia powodująca przekroczenie wielkości wynagrodzeń ustalonych w planie finansowym na rok 2020 wymaga zgody ministra właściwego do spraw zdrowia oraz ministra właściwego do spraw finansów publicznych, z zastrzeżeniem art. 9c. W roku 2021 wielkość wynagrodzeń w podmiotach, o których mowa w art. 9a i art. 9b, finansowanych w ramach programów realizowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 lub 3 ustawy o finansach publicznych, lub z przychodów, których źródłem jest odpłatne wykonywanie zadań związanych z realizacją przez organ założycielski projektu finansowanego z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 lub 3 ustawy o finansach publicznych, może przekroczyć wielkość wynagrodzeń ustalonych w planach finansowych ujętych w projekcie ustawy budżetowej na rok 2021 przedłożonym Sejmowi albo wynikających z planów finansowych na rok 2021, w przypadku gdy plany te nie są ujmowane w ustawie budżetowej, w części finansowanej lub refundowanej z tych środków, zaś w części współfinansowania krajowego jedynie wówczas, gdy te zwiększane wynagrodzenia lub projekt realizowany przez organ założycielski są finansowane w wysokości co najmniej 70%, a w przypadku Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 – co najmniej 63%, ze środków, o których mowa w art. 5 ust. 1 pkt 2 lub 3 ustawy o finansach publicznych. Przepis art. 7 ust. 3 stosuje się odpowiednio. ” ;
+- **5)** innych państwowych osobach prawnych należących do sektora finansów publicznych, o których mowa w art. 9 pkt 14 ustawy o finansach publicznych – wymagają zgody właściwego ministra lub innego organu nadzorującego oraz zgody ministra właściwego do spraw finansów publicznych, z zastrzeżeniem art. 9c. W roku 2021 zmiana planu finansowego Narodowego Funduszu Zdrowia powodująca przekroczenie wielkości wynagrodzeń ustalonych w planie finansowym na rok 2020 wymaga zgody ministra właściwego do spraw zdrowia oraz ministra właściwego do spraw finansów publicznych, z zastrzeżeniem art. 9c. W roku 2021 wielkość wynagrodzeń w podmiotach, o których mowa w art. 9a i art. 9b, finansowanych w ramach programów realizowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 lub 3 ustawy o finansach publicznych, lub z przychodów, których źródłem jest odpłatne wykonywanie zadań związanych z realizacją przez organ założycielski projektu finansowanego z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 lub 3 ustawy o finansach publicznych, może przekroczyć wielkość wynagrodzeń ustalonych w planach finansowych ujętych w projekcie ustawy budżetowej na rok 2021 przedłożonym Sejmowi albo wynikających z planów finansowych na rok 2021, w przypadku gdy plany te nie są ujmowane w ustawie budżetowej, w części finansowanej lub refundowanej z tych środków, zaś w części współfinansowania krajowego jedynie wówczas, gdy te zwiększane wynagrodzenia lub projekt realizowany przez organ założycielski są finansowane w wysokości co najmniej 70%, a w przypadku Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 – co najmniej 63%, ze środków, o których mowa w art. 5 ust. 1 pkt 2 lub 3 ustawy o finansach publicznych. Przepis art. 7 ust. 3 stosuje się odpowiednio. ” ;
 - **5)** w art. 22: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
@@ -85,7 +88,7 @@ source: "eli-html"
 
 - **1)** pracowników zatrudnionych w podmiotach, o których mowa w art. 139 ust. 2 ustawy o finansach publicznych z wyłączeniem posłów, senatorów, sędziów, asesorów sądowych, referendarzy sądowych, prokuratorów, członków Biura Studiów i Analiz Sądu Najwyższego niebędących sędziami oraz członków Biura Orzecznictwa Naczelnego Sądu Administracyjnego niebędących sędziami,
 - **2)** pracowników zatrudnionych w powiatowych inspektoratach nadzoru budowlanego,
-- **3)** pracowników zatrudnionych oraz funkcjonariuszy pełniących służbę w komendach powiatowych (miejskich) Państwowej Straży Pożarnej przepisy ust. 1–7 stosuje się odpowiednio. ” ;
+- **3)** pracowników zatrudnionych oraz funkcjonariuszy pełniących służbę w komendach powiatowych (miejskich) Państwowej Straży Pożarnej – przepisy ust. 1–7 stosuje się odpowiednio. ” ;
 - **7)** w art. 56 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
 2. W roku 2021 źródłem przychodu Funduszu Wsparcia Policji – funduszu centralnego, o którym mowa w art. 13 ust. 4c ustawy o Policji, może być również wpłata z budżetu państwa przekazana przez ministra właściwego do spraw wewnętrznych. ” ;
@@ -203,7 +206,7 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2021 r. poz. 1672) po rozdziale 8a dodaje się rozdział 8b w brzmieniu: „
 
-#### Rozdział 8b Przepisy epizodyczne
+#### Rozdział 8b
 
 **Art. 70e.**
 

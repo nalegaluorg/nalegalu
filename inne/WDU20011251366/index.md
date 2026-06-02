@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-07-26 |
 | Data wydania | 2001-10-30 |
-| Wejście w życie | 2001-10-30 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011251366) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1366/text.pdf) |
+
+Zezwolenia
 
 **Art. 1.** W ustawie z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. Nr 147, poz. 713, z 1997 r. Nr 14, poz. 72, Nr 60, poz. 369, Nr 88, poz. 554, Nr 110, poz. 715i Nr 133, poz. 884, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 40, poz. 401, z 2000 r. Nr 120, poz. 1268oraz z 2001 r. Nr 81, poz. 875i Nr 110, poz. 1189) wprowadza się następujące zmiany:
 
@@ -32,7 +33,7 @@ source: "eli-html"
 - **2)** użyte w art. 5 i w art. 44 w ust. 1, w różnych przypadkach, wyrazy „Minister Rolnictwa i Gospodarki Żywnościowej” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw rolnictwa”;
 - **3)** rozdział 4 otrzymuje brzmienie: „
 
-#### Rozdział 4 Zezwolenia
+#### Rozdział 4
 
 **Art. 17.**
 

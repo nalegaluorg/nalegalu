@@ -22,23 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-13 |
 | Data wydania | 2022-10-14 |
-| Wejście w życie | 2022-10-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002117) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2117/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2019 r. poz. 1505 oraz z 2022 r. poz. 24, 88, 646 i 1079) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354, z 2021 r. poz. 926, 1311, 1387, 1528, 1698 i 2087 oraz z 2022 r. poz. 45, 642, 1000, 1172 i 1536.) wprowadza się następujące zmiany:
 1)
-po § 13xb dodaje się § 13xc w brzmieniu:
-„
+po § 13xb dodaje się § 13xc w brzmieniu: „
 § 13xc.
-W 2022 r. wniosek o oszacowanie szkód, o którym mowa w § 13x ust. 6, składa się do dnia 31 października.
-” ;
+W 2022 r. wniosek o oszacowanie szkód, o którym mowa w § 13x ust. 6, składa się do dnia 31 października. ” ;
 2)
-po § 13zr dodaje się § 13zs w brzmieniu:
-„
+po § 13zr dodaje się § 13zs w brzmieniu: „
 § 13zs.
 1.
 W 2022 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa, rozwoju wsi i rynków rolnych, o której mowa w § 2 ust. 1 pkt 6, w zakresie wsparcia finansowego rodziny, której zagraża utrata płynności finansowej w związku z wystąpieniem w gospodarstwie rolnym w rozumieniu przepisów o podatku rolnym szkód spowodowanych wystąpieniem w 2022 r.:
@@ -97,8 +93,7 @@ W przypadku gdy szkody, o których mowa w ust. 1:
 1)
 pkt 1, wynoszą powyżej 30% średniej rocznej produkcji rolnej w gospodarstwie rolnym w rozumieniu przepisów o podatku rolnym, a szkody, o których mowa w ust. 1 pkt 2, wynoszą do 30% średniej rocznej produkcji rolnej w gospodarstwie rolnym w rozumieniu przepisów o podatku rolnym albo
 2)
-pkt 2, wynoszą powyżej 30% średniej rocznej produkcji rolnej w gospodarstwie rolnym w rozumieniu przepisów o podatku rolnym, a szkody, o których mowa w ust. 1 pkt 1, wynoszą do 30% średniej rocznej produkcji rolnej w gospodarstwie rolnym w rozumieniu przepisów o podatku rolnym
-pomoc, o której mowa w ust. 1, przyznaje się w wysokości odpowiadającej wyższej ze stawek.
+pkt 2, wynoszą powyżej 30% średniej rocznej produkcji rolnej w gospodarstwie rolnym w rozumieniu przepisów o podatku rolnym, a szkody, o których mowa w ust. 1 pkt 1, wynoszą do 30% średniej rocznej produkcji rolnej w gospodarstwie rolnym w rozumieniu przepisów o podatku rolnym – pomoc, o której mowa w ust. 1, przyznaje się w wysokości odpowiadającej wyższej ze stawek.
 10.
 Średnia roczna produkcja rolna, o której mowa w ust. 8 pkt 1 lit. a, jest ustalana na podstawie danych rachunkowych lub dokumentów potwierdzających wielkość prowadzonej produkcji rolnej w danym gospodarstwie rolnym w rozumieniu przepisów o podatku rolnym, a w przypadku braku takich danych lub dokumentów – na podstawie danych Instytutu Ekonomiki Rolnictwa i Gospodarki Żywnościowej – Państwowego Instytutu Badawczego o średniej wielkości produkcji rolnej udostępnianych przez ministra właściwego do spraw rozwoju wsi na stronie internetowej urzędu obsługującego tego ministra.
 11.
@@ -108,8 +103,7 @@ W przypadku gdy ze złożonych wniosków, o których mowa w ust. 3, wynika, że 
 13.
 W przypadku gdy gospodarstwo rolne w rozumieniu przepisów o podatku rolnym jest przedmiotem współwłasności, pomoc, o której mowa w ust. 1, jest przyznawana temu ze współwłaścicieli, co do którego pozostali współwłaściciele wyrazili pisemną zgodę.
 14.
-Pomoc, o której mowa w ust. 1, jest wypłacana na rachunek członka rodziny, o której mowa w ust. 2, który złożył wniosek, o którym mowa w ust. 3, wskazany w systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
-” .
+Pomoc, o której mowa w ust. 1, jest wypłacana na rachunek członka rodziny, o której mowa w ust. 2, który złożył wniosek, o którym mowa w ust. 3, wskazany w systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354, z 2021 r. poz. 926, 1311, 1387, 1528, 1698 i 2087 oraz z 2022 r. poz. 45, 642, 1000, 1172 i 1536.
 

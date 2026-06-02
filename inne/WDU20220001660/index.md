@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 29 lipca 2022 r. w sprawie wykazu punktów wjazdu podróżnych oraz warunków i sposobu współpracy organów Inspekcji Weterynaryjnej z organami celnymi przy kontroli przemieszczanych w celach niehandlowych zwierząt domowych towarzyszących podróżnym
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 29 lipca 2022 r. w sprawie wykazu punktów wjazdu podróżnych oraz warunków i sposobu współpracy organów Inspekcji Weterynaryjnej z organami celnymi przy kontroli przemieszczanych w celach niehandlowych zwierząt domowych towarzyszących podróżnym Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-29 |
 | Data wydania | 2022-08-08 |
-| Wejście w życie | 2022-08-11 |
 | Ostatnia zmiana | 2024-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001660) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1660/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wykaz punktów wjazdu podróżnych w rozumieniu art. 3 lit. k rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 576/2013 z dnia 12 czerwca 2013 r. w sprawie przemieszczania o charakterze niehandlowym zwierząt domowych oraz uchylającego rozporządzenie (WE) nr 998/2003
 Treść rozporządzenia
-Na podstawie art. 24b ust. 10 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2020 r. poz. 1421 oraz z 2022 r. poz. 1570) zarządza się, co następuje:
+Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 576/2013 z dnia 12 czerwca 2013 r. w sprawie przemieszczania o charakterze niehandlowym zwierząt domowych oraz uchylającego rozporządzenie (WE) nr 998/2003 (Dz. Urz. UE L 178 z 28.06.2013, str. 1). Na podstawie art. 24b ust. 10 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2020 r. poz. 1421 oraz z 2022 r. poz. 1570) zarządza się, co następuje:
 § 1.
 Określa się wykaz punktów wjazdu podróżnych w rozumieniu art. 3 lit. k rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 576/2013 z dnia 12 czerwca 2013 r. w sprawie przemieszczania o charakterze niehandlowym zwierząt domowych oraz uchylającego rozporządzenie (WE) nr 998/2003 (Dz. Urz. UE L 178 z 28.06.2013, str. 1), stanowiący załącznik do rozporządzenia.
 § 2.
@@ -53,8 +52,7 @@ gatunków przemieszczanych zwierząt domowych,
 d)
 państw trzecich, z których są przemieszczane zwierzęta domowe.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 11 sierpnia 2022 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 576/2013 z dnia 12 czerwca 2013 r. w sprawie przemieszczania o charakterze niehandlowym zwierząt domowych oraz uchylającego rozporządzenie (WE) nr 998/2003 (Dz. Urz. UE L 178 z 28.06.2013, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 30 marca 2007 r. w sprawie warunków i sposobu współpracy organów Inspekcji Weterynaryjnej z organami celnymi (Dz. U. poz. 519) oraz rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 1 lutego 2016 r. w sprawie wykazu przejść granicznych, na których organy celne przeprowadzają kontrolę przemieszczanych w celach niehandlowych zwierząt domowych towarzyszących podróżnym (Dz. U. poz. 190), które tracą moc z dniem 11 sierpnia 2022 r. w związku z wejściem w życie ustawy z dnia 23 czerwca 2022 r. o zmianie ustawy o Inspekcji Weterynaryjnej oraz niektórych innych ustaw (Dz. U. poz. 1570).
+Rozporządzenie wchodzi w życie z dniem 11 sierpnia 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 30 marca 2007 r. w sprawie warunków i sposobu współpracy organów Inspekcji Weterynaryjnej z organami celnymi (Dz. U. poz. 519) oraz rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 1 lutego 2016 r. w sprawie wykazu przejść granicznych, na których organy celne przeprowadzają kontrolę przemieszczanych w celach niehandlowych zwierząt domowych towarzyszących podróżnym (Dz. U. poz. 190), które tracą moc z dniem 11 sierpnia 2022 r. w związku z wejściem w życie ustawy z dnia 23 czerwca 2022 r. o zmianie ustawy o Inspekcji Weterynaryjnej oraz niektórych innych ustaw (Dz. U. poz. 1570). 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 576/2013 z dnia 12 czerwca 2013 r. w sprawie przemieszczania o charakterze niehandlowym zwierząt domowych oraz uchylającego rozporządzenie (WE) nr 998/2003 (Dz. Urz. UE L 178 z 28.06.2013, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 30 marca 2007 r. w sprawie warunków i sposobu współpracy organów Inspekcji Weterynaryjnej z organami celnymi (Dz. U. poz. 519) oraz rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 1 lutego 2016 r. w sprawie wykazu przejść granicznych, na których organy celne przeprowadzają kontrolę przemieszczanych w celach niehandlowych zwierząt domowych towarzyszących podróżnym (Dz. U. poz. 190), które tracą moc z dniem 11 sierpnia 2022 r. w związku z wejściem w życie ustawy z dnia 23 czerwca 2022 r. o zmianie ustawy o Inspekcji Weterynaryjnej oraz niektórych innych ustaw (Dz. U. poz. 1570).
 Załącznik – Wykaz punktów wjazdu podróżnych w rozumieniu art. 3 lit. k rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 576/2013 z dnia 12 czerwca 2013 r. w sprawie przemieszczania o charakterze niehandlowym zwierząt domowych oraz uchylającego rozporządzenie (WE) nr 998/2003
 1.
 Na północno-wschodnim i wschodnim odcinku granicy państwowej z:

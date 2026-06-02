@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 lipca 2015 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych oraz niektórych innych ustaw
+# Ustawa z dnia 10 lipca 2015 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, ustawę z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku suszu paszowego oraz rynków lnu i konopi uprawianych na włókno, ustawę z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych, ustawę z dnia 22 maja 2009 r. o funduszach promocji produktów rolno-spożywczych oraz ustawę z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-10 |
 | Data wydania | 2015-09-18 |
-| Wejście w życie | 2015-10-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001419) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1419/text.pdf) |
 
+Zasady uznawania organizacji producentów i zrzeszeń organizacji producentów oraz organizacji międzybranżowych funkcjonujących na rynkach rolnych innych niż rynki mleka i przetworów mlecznych oraz owoców i warzyw
+Zakres, w jakim mogą być zawierane umowy na dostarczanie produktów rolnych należących do sektorów, o których mowa w art. 1 ust. 2 rozporządzenia nr 1308/2013
 1.
 Każde dostarczenie produktów rolnych należących do sektorów, o których mowa w art. 1 ust. 2 rozporządzenia nr 1308/2013, z wyłączeniem sprzedaży bezpośredniej, przez producentów, grupy producentów tych produktów, organizacje takich producentów albo zrzeszenia organizacji takich producentów do pierwszego nabywcy wymaga pisemnej umowy spełniającej warunki określone w:
 1)
@@ -43,13 +44,11 @@ Minister właściwy do spraw rynków rolnych może określić, w drodze rozporz�
 1.
 Minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informacje, o których mowa w art. 148 ust. 5 i art. 168 ust. 7 akapit drugi rozporządzenia nr 1308/2013.
 2.
-Prezes Agencji jest organem właściwym do gromadzenia i przekazywania ministrowi właściwemu do spraw rynków rolnych oraz Komisji Europejskiej informacji w zakresie negocjacji umownych, o których mowa w rozporządzeniu nr 1308/2013.
-” ;
+Prezes Agencji jest organem właściwym do gromadzenia i przekazywania ministrowi właściwemu do spraw rynków rolnych oraz Komisji Europejskiej informacji w zakresie negocjacji umownych, o których mowa w rozporządzeniu nr 1308/2013. ” ;
 19)
 uchyla się rozdział 9a;
 20)
-w art. 40c ust. 5 i 6 otrzymują brzmienie:
-„
+w art. 40c ust. 5 i 6 otrzymują brzmienie: „
 5.
 Dopłaty mają charakter pomocy de minimis w rolnictwie i są udzielane zgodnie z przepisami o postępowaniu w sprawach dotyczących pomocy publicznej.
 6.
@@ -57,39 +56,46 @@ Rada Ministrów określa, w drodze rozporządzenia:
 1)
 corocznie do dnia 30 września stawki dopłat do 1 ha powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany, uwzględniając powierzchnię gruntów ornych obsianych lub obsadzonych materiałem siewnym, gatunki roślin uprawnych objętych dopłatą oraz środki finansowe przeznaczone na te dopłaty;
 2)
-wykaz gatunków roślin uprawnych, do których materiału siewnego kategorii elitarny lub kwalifikowany przysługuje dopłata z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany, uwzględniając poziom wymiany kwalifikowanego materiału siewnego w produkcji roślinnej.
-” ;
+wykaz gatunków roślin uprawnych, do których materiału siewnego kategorii elitarny lub kwalifikowany przysługuje dopłata z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany, uwzględniając poziom wymiany kwalifikowanego materiału siewnego w produkcji roślinnej. ” ;
 21)
-w art. 40d po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+w art. 40d po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Decyzję, o której mowa w ust. 1, wydaje się w terminie 60 dni od dnia wejścia w życie przepisów wydanych na podstawie art. 40c ust. 6 pkt 1.
-” ;
+Decyzję, o której mowa w ust. 1, wydaje się w terminie 60 dni od dnia wejścia w życie przepisów wydanych na podstawie art. 40c ust. 6 pkt 1. ” ;
 22)
 uchyla się art. 40f-40h.
+Uznawanie organizacji producentów i zrzeszeń organizacji producentów oraz organizacji międzybranżowych
+Kontrole
 
 **Art. 1.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2012 r. poz. 633 i 1512 oraz z 2014 r. poz. 1146) wprowadza się następujące zmiany:
 
-- **1)** w art. 1: w ust. 1: – w pkt 3 lit. c otrzymuje brzmienie: „ c) cukru, ” , – po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „ 3a) zasady uznawania organizacji producentów i zrzeszeń organizacji producentów oraz organizacji międzybranżowych funkcjonujących na rynkach rolnych innych niż rynki mleka i przetworów mlecznych oraz owoców i warzyw; 3b) zakres, w jakim mogą być zawierane umowy na dostarczanie produktów rolnych należących do sektorów, o których mowa w art. 1 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.), zwanego dalej „rozporządzeniem nr 1308/2013”; ” , – uchyla się pkt 4, po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **1)** w art. 1: w ust. 1: w pkt 3 lit. c otrzymuje brzmienie: „ cukru, ” , po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „
     - **a)**
+    - **c)**
+
+- **3a)** zasady uznawania organizacji producentów i zrzeszeń organizacji producentów oraz organizacji międzybranżowych funkcjonujących na rynkach rolnych innych niż rynki mleka i przetworów mlecznych oraz owoców i warzyw;
+- **3b)** zakres, w jakim mogą być zawierane umowy na dostarczanie produktów rolnych należących do sektorów, o których mowa w art. 1 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.), zwanego dalej „rozporządzeniem nr 1308/2013”; ” , – uchyla się pkt 4, po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Agencja wykonuje zadania i czynności państwa członkowskiego, właściwego organu państwa członkowskiego lub agencji interwencyjnej w zakresie określonym przepisami rozporządzenia nr 1308/2013, przepisami Unii Europejskiej wydanymi w trybie tego rozporządzenia oraz innymi przepisami Unii Europejskiej dotyczącymi Wspólnej Polityki Rolnej, chyba że ustawa lub przepisy odrębne stanowią inaczej. ” ;
 
-- **2)** w art. 11: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) opracowuje i upowszechnia informacje związane z realizacją mechanizmów Wspólnej Polityki Rolnej i mechanizmów krajowych oraz innych mechanizmów na rynkach produktów rolnych i żywnościowych oraz warunki udziału w tych mechanizmach; ” , – po pkt 3a dodaje się pkt 3b w brzmieniu: „ 3b) prowadzi działania mające na celu wspieranie rozwoju współpracy handlowej sektora rolno-spożywczego z zagranicą; ” , – uchyla się pkt 7, ust. 5 i 6 otrzymują brzmienie: „
+- **2)** w art. 11: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** opracowuje i upowszechnia informacje związane z realizacją mechanizmów Wspólnej Polityki Rolnej i mechanizmów krajowych oraz innych mechanizmów na rynkach produktów rolnych i żywnościowych oraz warunki udziału w tych mechanizmach; ” , po pkt 3a dodaje się pkt 3b w brzmieniu: „
+- **3b)** prowadzi działania mające na celu wspieranie rozwoju współpracy handlowej sektora rolno-spożywczego z zagranicą; ” , – uchyla się pkt 7, ust. 5 i 6 otrzymują brzmienie: „
     - **b)**
 
 5. Szczegółowe zadania, o których mowa w ust. 1 pkt 1, na rynkach mleka, owoców i warzyw oraz wina są realizowane przez Agencję na podstawie odrębnych przepisów.
 
-6. Agencja może uczestniczyć w realizacji programów, o których mowa w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, z późn. zm.), jako instytucja pośrednicząca, instytucja wdrażająca lub jako beneficjent. Agencja realizuje także, na podstawie ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2015 r. poz. 163, z późn. zm.), zadania instytucji pośredniczącej w systemie zarządzania programem operacyjnym w ramach Europejskiego Funduszu Pomocy Najbardziej Potrzebującym, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 223/2014 z dnia 11 marca 2014 r. w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym (Dz. Urz. UE L 72 z 12.03.2014, str. 1). ” , dodaje się ust. 7 w brzmieniu: „
+6. Agencja może uczestniczyć w realizacji programów, o których mowa w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 378, 1130 i 1240.), jako instytucja pośrednicząca, instytucja wdrażająca lub jako beneficjent. Agencja realizuje także, na podstawie ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2015 r. poz. 163, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 693, 1045, 1240, 1310 i 1359.), zadania instytucji pośredniczącej w systemie zarządzania programem operacyjnym w ramach Europejskiego Funduszu Pomocy Najbardziej Potrzebującym, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 223/2014 z dnia 11 marca 2014 r. w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym (Dz. Urz. UE L 72 z 12.03.2014, str. 1). ” , dodaje się ust. 7 w brzmieniu: „
 
 - **c)**
 
 7. Podmioty sektora finansów publicznych mogą, za zgodą ministra właściwego do spraw rynków rolnych, powierzać Agencji realizację zadań dla nich określonych, zapewniając Agencji na ten cel odpowiednie środki finansowe. ” ;
 
 - **3)** w art. 12a w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Rada Ministrów, w przypadku gdy przepisy Unii Europejskiej dotyczące Wspólnej Polityki Rolnej określają obowiązek podjęcia działań lub przewidują możliwość realizacji uprawnień przez państwo członkowskie lub właściwy organ państwa członkowskiego, lub agencję płatniczą, lub agencję interwencyjną w zakresie rynków objętych Wspólną Polityką Rolną, może, w drodze rozporządzenia: ” ;
-- **4)** w art. 13: w ust. 1 w pkt 1: – lit. a otrzymuje brzmienie: „ a) opłat, o których mowa w art. 33 ust. 1 pkt 2 lit. b-d, ” , – uchyla się lit. b, w ust. 3a część wspólna otrzymuje brzmienie: „ – w przypadku gdy kwota każdej z tych należności nie jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu euro ustalonego zgodnie z art. 40 rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro (Dz. Urz. UE L 255 z 28.08.2014, str. 18, z późn. zm.). ” ;
+- **4)** w art. 13: w ust. 1 w pkt 1: lit. a otrzymuje brzmienie: „ opłat, o których mowa w art. 33 ust. 1 pkt 2 lit. b-d, ” , – uchyla się lit. b, w ust. 3a część wspólna otrzymuje brzmienie: „ – w przypadku gdy kwota każdej z tych należności nie jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu euro ustalonego zgodnie z art. 40 rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro (Dz. Urz. UE L 255 z 28.08.2014, str. 18, z późn. zm.). ” ;
+    - **a)**
     - **a)**
     - **b)**
 
@@ -118,9 +124,10 @@ uchyla się art. 40f-40h.
     - **a)**
     - **b)**
 
-2. Do kontroli, o której mowa w ust. 1 pkt 1 lit. d, stosuje się przepisy ustawy dotyczące czynności sprawdzających. ” , w ust. 3: – w pkt 1 lit. a otrzymuje brzmienie: „ a) zatwierdzenia lub odmowy zatwierdzenia, zawieszenia, cofnięcia lub wygaszenia zatwierdzenia producentów cukru, producentów izoglukozy i przedsiębiorstw przetwarzających te produkty, ” , – uchyla się pkt 2, ust. 4 otrzymuje brzmienie: „
+2. Do kontroli, o której mowa w ust. 1 pkt 1 lit. d, stosuje się przepisy ustawy dotyczące czynności sprawdzających. ” , w ust. 3: w pkt 1 lit. a otrzymuje brzmienie: „ zatwierdzenia lub odmowy zatwierdzenia, zawieszenia, cofnięcia lub wygaszenia zatwierdzenia producentów cukru, producentów izoglukozy i przedsiębiorstw przetwarzających te produkty, ” , – uchyla się pkt 2, ust. 4 otrzymuje brzmienie: „
 
 - **c)**
+- **a)**
 - **d)**
 
 4. Informacje, deklaracje i wnioski określone w przepisach Unii Europejskiej dotyczących rynku cukru składa się do Prezesa Agencji na formularzach opracowanych przez Agencję, udostępnionych na stronie internetowej Agencji. ” , w ust. 5 pkt 2 i 3 otrzymują brzmienie: „
@@ -144,7 +151,7 @@ uchyla się art. 40f-40h.
 
 - **18)** po rozdziale 7a dodaje się rozdziały 7b i 7c w brzmieniu: „
 
-#### Rozdział 7b Zasady uznawania organizacji producentów i zrzeszeń organizacji producentów oraz organizacji międzybranżowych funkcjonujących na rynkach rolnych innych niż rynki mleka i przetworów mlecznych oraz owoców i warzyw
+#### Rozdział 7b
 
 **Art. 38i.**
 
@@ -156,12 +163,12 @@ uchyla się art. 40f-40h.
 
 - **1)** minimalną liczbę członków organizacji producentów lub minimalną ilość lub wartość zbywalnej produkcji, o których mowa w art. 154 ust. 1 lit. b rozporządzenia nr 1308/2013,
 - **2)** informacje, jakie powinien zawierać wniosek, o którym mowa w ust. 2,
-- **3)** rodzaje lub zakres dokumentów potwierdzających spełnianie przez organizacje i zrzeszenia wymagań określonych w przepisach Unii Europejskiej dotyczących uznawania organizacji producentów, zrzeszeń organizacji producentów oraz organizacji międzybranżowych mając na względzie zapewnienie prawidłowego funkcjonowania organizacji i zrzeszeń oraz spełnienie wymagań określonych w przepisach Unii Europejskiej dotyczących uznawania organizacji producentów, zrzeszeń organizacji producentów oraz organizacji międzybranżowych.
+- **3)** rodzaje lub zakres dokumentów potwierdzających spełnianie przez organizacje i zrzeszenia wymagań określonych w przepisach Unii Europejskiej dotyczących uznawania organizacji producentów, zrzeszeń organizacji producentów oraz organizacji międzybranżowych – mając na względzie zapewnienie prawidłowego funkcjonowania organizacji i zrzeszeń oraz spełnienie wymagań określonych w przepisach Unii Europejskiej dotyczących uznawania organizacji producentów, zrzeszeń organizacji producentów oraz organizacji międzybranżowych.
 
 1. W przypadku gdy:
 
 - **1)** uznana organizacja producentów lub uznane zrzeszenie organizacji producentów nie spełnia wymagań określonych w art. 154 ust. 1 lit. a lub d rozporządzenia nr 1308/2013 lub w przepisach wydanych na podstawie art. 38i ust. 3 albo
-- **2)** uznana organizacja międzybranżowa nie spełnia wymagań określonych w art. 158 ust. 5 lit. c rozporządzenia nr 1308/2013 lub w przepisach wydanych na podstawie art. 38i ust. 3 dyrektor oddziału terenowego Agencji wzywa na piśmie do usunięcia naruszeń oraz określa termin ich usunięcia, nie dłuższy niż 12 miesięcy od dnia otrzymania wezwania przez organizację producentów lub zrzeszenie organizacji producentów, lub organizację międzybranżową, biorąc pod uwagę rodzaj naruszenia.
+- **2)** uznana organizacja międzybranżowa nie spełnia wymagań określonych w art. 158 ust. 5 lit. c rozporządzenia nr 1308/2013 lub w przepisach wydanych na podstawie art. 38i ust. 3 – dyrektor oddziału terenowego Agencji wzywa na piśmie do usunięcia naruszeń oraz określa termin ich usunięcia, nie dłuższy niż 12 miesięcy od dnia otrzymania wezwania przez organizację producentów lub zrzeszenie organizacji producentów, lub organizację międzybranżową, biorąc pod uwagę rodzaj naruszenia.
 
 2. Organizacja producentów albo zrzeszenie organizacji producentów, albo organizacja międzybranżowa, w terminie wyznaczonym przez dyrektora oddziału terenowego Agencji w wezwaniu, o którym mowa w ust. 1, informuje, na formularzu opracowanym przez Agencję, o usunięciu stwierdzonych naruszeń i przedkłada dokumenty potwierdzające usunięcie tych naruszeń.
 
@@ -219,17 +226,17 @@ uchyla się art. 40f-40h.
 
 3. W przypadku stwierdzenia spełniania warunków określonych w art. 164 rozporządzenia nr 1308/2013 oraz w przepisach wydanych na podstawie ust. 2, minister właściwy do spraw rynków rolnych wprowadza, w drodze rozporządzenia, porozumienia, decyzje lub praktyki uzgodnione w ramach uznanej organizacji producentów, uznanego zrzeszenia organizacji producentów lub uznanej organizacji międzybranżowej, podając zakres stosowania tych porozumień, decyzji lub praktyk oraz okres, przez jaki mają być stosowane te porozumienia, decyzje lub praktyki, a także obszar gospodarczy, na którym mają być one stosowane, mając na względzie zapewnienie prawidłowego funkcjonowania danego rynku oraz niezakłócania konkurencji na danym rynku, a także biorąc pod uwagę cele, jakich mogą dotyczyć te porozumienia, decyzje lub praktyki. Minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informacje, o których mowa w art. 164 ust. 6 rozporządzenia nr 1308/2013.
 
-#### Rozdział 7c Zakres, w jakim mogą być zawierane umowy na dostarczanie produktów rolnych należących do sektorów, o których mowa w art. 1 ust. 2 rozporządzenia nr 1308/2013
+#### Rozdział 7c
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) w art. 829 uchyla się pkt 7.
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311 i 1418.) w art. 829 uchyla się pkt 7.
 
-**Art. 3.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619, z późn. zm.) w art. 8 w § 1 uchyla się pkt 17.
+**Art. 3.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 87, 211, 218, 396, 539, 774, 978, 1269, 1311 i 1322.) w art. 8 w § 1 uchyla się pkt 17.
 
 **Art. 4.** W ustawie z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2015 r. poz. 807) w art. 3 pkt 4 otrzymuje brzmienie: „
 
 - **4)** organizacja producentów – grupę producentów rolnych, związek grup producentów rolnych, wstępnie uznaną organizację producentów owoców i warzyw oraz uznane na podstawie przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.) organizację producentów, zrzeszenie organizacji producentów, organizację międzybranżową, międzynarodową organizację producentów, międzynarodowe zrzeszenie organizacji producentów oraz międzynarodową organizację międzybranżową; ” .
 
-**Art. 5.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku suszu paszowego oraz rynków lnu i konopi uprawianych na włókno (Dz. U. z 2011 r. Nr 145, poz. 868, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku suszu paszowego oraz rynków lnu i konopi uprawianych na włókno (Dz. U. z 2011 r. Nr 145, poz. 868, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 243 i 1258, z 2014 r. poz. 1662 oraz z 2015 r. poz. 308.) wprowadza się następujące zmiany:
 
 - **1)** tytuł ustawy otrzymuje brzmienie: „o organizacji rynków owoców i warzyw oraz rynku chmielu”;
 - **2)** w art. 1 w ust. 1 w pkt 1 uchyla się lit. c i d;
@@ -294,15 +301,19 @@ uchyla się art. 40f-40h.
 3. W przypadku stwierdzenia spełniania warunków określonych w art. 164 rozporządzenia nr 1308/2013 oraz w przepisach wydanych na podstawie ust. 2, minister właściwy do spraw rynków rolnych wprowadza, w drodze rozporządzenia, porozumienia, decyzje lub praktyki uzgodnione w ramach uznanej organizacji producentów lub ich zrzeszenia, podając zakres stosowania tych porozumień, decyzji lub praktyk oraz okres, przez jaki mają być stosowane te porozumienia, decyzje lub praktyki, a także obszar gospodarczy, na którym mają być one stosowane, mając na względzie zapewnienie prawidłowego funkcjonowania rynku owoców i warzyw oraz niezakłócania konkurencji na tym rynku, a także biorąc pod uwagę cele, jakich mogą dotyczyć te porozumienia, decyzje lub praktyki. Minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informacje, o których mowa w art. 164 ust. 6 rozporządzenia nr 1308/2013. ” ;
 
 - **9)** uchyla się art. 4;
-- **10)** w art. 5: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek o wydanie decyzji, o której mowa w art. 2 ust. 1 pkt 1, składa się w terminie do: ” , – pkt 1 otrzymuje brzmienie: „ 1) końca okresu rozliczeniowego, którego dotyczy zmiana w planie dochodzenia do uznania – w przypadku zmian w harmonogramie realizacji planu dochodzenia do uznania lub zmian harmonogramu etapu inwestycji realizowanych z podziałem na etapy; ” , w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **10)** w art. 5: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek o wydanie decyzji, o której mowa w art. 2 ust. 1 pkt 1, składa się w terminie do: ” , pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** końca okresu rozliczeniowego, którego dotyczy zmiana w planie dochodzenia do uznania – w przypadku zmian w harmonogramie realizacji planu dochodzenia do uznania lub zmian harmonogramu etapu inwestycji realizowanych z podziałem na etapy; ” , w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
     - **b)**
 
 - **3)** numer wnioskodawcy w Krajowym Rejestrze Sądowym. ” , w ust. 3 uchyla się pkt 3;
     - **c)**
 
-- **11)** w art. 6: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek o wydanie decyzji, o których mowa w art. 2 ust. 1 pkt 2 i 3, zawiera: ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) numer wnioskodawcy w Krajowym Rejestrze Sądowym. ” , w ust. 2 uchyla się pkt 4;
+- **11)** w art. 6: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek o wydanie decyzji, o których mowa w art. 2 ust. 1 pkt 2 i 3, zawiera: ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
     - **a)**
+
+- **5)** numer wnioskodawcy w Krajowym Rejestrze Sądowym. ” , w ust. 2 uchyla się pkt 4;
     - **b)**
 
 - **12)** w art. 7: ust. 1 otrzymuje brzmienie: „
@@ -326,8 +337,11 @@ uchyla się art. 40f-40h.
 3a. Minister właściwy do spraw rynków rolnych, w zakresie określonym przepisami Unii Europejskiej, opracowuje projekt ram krajowych i strategii krajowej na rzecz programów operacyjnych. ” , uchyla się ust. 5;
 
 - **e)**
-- **14)** w art. 9: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W zakresie określonym przepisami Unii Europejskiej dyrektor oddziału regionalnego Agencji Restrukturyzacji właściwy ze względu na siedzibę wstępnie uznanej grupy producentów wydaje decyzje w sprawach: ” , – uchyla się pkt 1, 2, 4, 6 i 11, – pkt 12 i 13 otrzymują brzmienie: „ 12) wyłączenia z objęcia pomocą finansową kwalifikowalnego kosztu inwestycji ujętej w zatwierdzonym planie dochodzenia do uznania, ze wskazaniem okresu tego wyłączenia; 13) wyłączenia grupy producentów ze wsparcia w ramach planu dochodzenia do uznania w kolejnym roku. ” , ust. 1a otrzymuje brzmienie: „
+- **14)** w art. 9: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W zakresie określonym przepisami Unii Europejskiej dyrektor oddziału regionalnego Agencji Restrukturyzacji właściwy ze względu na siedzibę wstępnie uznanej grupy producentów wydaje decyzje w sprawach: ” , – uchyla się pkt 1, 2, 4, 6 i 11, pkt 12 i 13 otrzymują brzmienie: „
     - **a)**
+
+- **12)** wyłączenia z objęcia pomocą finansową kwalifikowalnego kosztu inwestycji ujętej w zatwierdzonym planie dochodzenia do uznania, ze wskazaniem okresu tego wyłączenia;
+- **13)** wyłączenia grupy producentów ze wsparcia w ramach planu dochodzenia do uznania w kolejnym roku. ” , ust. 1a otrzymuje brzmienie: „
     - **b)**
 
 1a. W decyzjach, o których mowa w ust. 1 pkt 3, określa się również obniżki pomocy, jeżeli wynikają one z przepisów Unii Europejskiej. ” , uchyla się ust. 1b-1d, ust. 2–7 otrzymują brzmienie: „
@@ -343,7 +357,7 @@ uchyla się art. 40f-40h.
 - **4)** harmonogramu wdrożenia tego planu,
 - **5)** zasadności czasu trwania tego planu,
 - **6)** kwalifikowalności zaproponowanych w planie inwestycji i zasadności wydatków z nimi związanych,
-- **7)** okresu członkostwa producenta w grupie producentów w terminie 45 dni od dnia złożenia zmiany tego planu.
+- **7)** okresu członkostwa producenta w grupie producentów – w terminie 45 dni od dnia złożenia zmiany tego planu.
 
 3. Odwołanie od decyzji, o których mowa w ust. 1 pkt 3, nie wstrzymuje ich wykonania.
 
@@ -496,8 +510,8 @@ uchyla się art. 40f-40h.
 
 2. Do kontroli handlowców, którzy nie prowadzą działalności gospodarczej w zakresie obrotu owocami lub warzywami objętymi normami jakości handlowej owoców i warzyw, przeprowadzanej przez:
 
-- **1)** wojewódzkiego inspektora Inspekcji Handlowej, stosuje się przepisy rozdziału 3 ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2014 r. poz. 148, z późn. zm.);
-- **2)** wojewódzkiego inspektora, stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.).
+- **1)** wojewódzkiego inspektora Inspekcji Handlowej, stosuje się przepisy rozdziału 3 ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2014 r. poz. 148, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1101 oraz z 2015 r. poz. 277 i 1069.);
+- **2)** wojewódzkiego inspektora, stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268 i 1272.).
 
 3. Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych udostępnia Inspekcji Handlowej nieodpłatnie informacje o handlowcach prowadzących sprzedaż detaliczną owoców i warzyw konsumentowi końcowemu, w zakresie niezbędnym do wykonywania statutowych zadań tej Inspekcji. ” ;
 
@@ -515,9 +529,14 @@ uchyla się art. 40f-40h.
 
 - **1)** wojewódzkiego inspektora Inspekcji Handlowej, stosuje się przepisy rozdziału 3 ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej;
 - **2)** wojewódzkiego inspektora, stosuje się przepisy rozdziału 4 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych. W oznakowaniu świeżych owoców i warzyw objętych ogólną normą handlową, o której mowa w art. 3 ust. 1 rozporządzenia nr 543/2011, nazwę produktu podaje się w przypadku, gdy produkt nie jest widoczny lub nazwa jest niezbędna do ustalenia rodzaju produktu. ” ;
-- **26)** w art. 19: uchyla się ust. 1, w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) warunki i tryb wprowadzania zmian w programie operacyjnym w trakcie jego realizacji, które nie wymagają zatwierdzenia przez dyrektora oddziału terenowego Agencji, mając na względzie zmieniającą się sytuację rynkową, konieczność ochrony interesów ekonomicznych organizacji producentów oraz zakres dokonywanych zmian; ” , – uchyla się pkt 7a, 9 i 10, – pkt 11 otrzymuje brzmienie: „ 11) sposób oznaczania i zabezpieczenia owoców i warzyw nieprzeznaczonych do sprzedaży, o których mowa w art. 15 ust. 1 pkt 4, mając na względzie skuteczne uniemożliwienie wprowadzenia tych owoców i warzyw do obrotu lub bezpośredniej konsumpcji; ” , – pkt 14 otrzymuje brzmienie: „ 14) terminy przekazywania informacji, o których mowa w art. 10 pkt 2 lit. b, art. 13 ust. 1 pkt 2 i 5 oraz ust. 1a, mając na względzie zapewnienie ich sprawnego i prawidłowego przekazania Komisji Europejskiej w zakresie wynikającym z przepisów Unii Europejskiej dotyczących funkcjonowania rynków owoców i warzyw; ” , – pkt 19 otrzymuje brzmienie: „ 19) zmiany do zatwierdzonych planów dochodzenia do uznania wprowadzane w trakcie okresu rocznego lub półrocznego, które nie wymagają wydania przez dyrektora oddziału terenowego Agencji właściwego ze względu na siedzibę grupy producentów decyzji w sprawie zmian do zatwierdzonych planów, oraz tryb przekazywania informacji o tych zmianach, mając na względzie uproszczenie trybu dokonywania takich zmian; ” , ust. 5 otrzymuje brzmienie: „
+- **26)** w art. 19: uchyla się ust. 1, w ust. 2: pkt 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+
+- **2)** warunki i tryb wprowadzania zmian w programie operacyjnym w trakcie jego realizacji, które nie wymagają zatwierdzenia przez dyrektora oddziału terenowego Agencji, mając na względzie zmieniającą się sytuację rynkową, konieczność ochrony interesów ekonomicznych organizacji producentów oraz zakres dokonywanych zmian; ” , – uchyla się pkt 7a, 9 i 10, pkt 11 otrzymuje brzmienie: „
+- **11)** sposób oznaczania i zabezpieczenia owoców i warzyw nieprzeznaczonych do sprzedaży, o których mowa w art. 15 ust. 1 pkt 4, mając na względzie skuteczne uniemożliwienie wprowadzenia tych owoców i warzyw do obrotu lub bezpośredniej konsumpcji; ” , pkt 14 otrzymuje brzmienie: „
+- **14)** terminy przekazywania informacji, o których mowa w art. 10 pkt 2 lit. b, art. 13 ust. 1 pkt 2 i 5 oraz ust. 1a, mając na względzie zapewnienie ich sprawnego i prawidłowego przekazania Komisji Europejskiej w zakresie wynikającym z przepisów Unii Europejskiej dotyczących funkcjonowania rynków owoców i warzyw; ” , pkt 19 otrzymuje brzmienie: „
+- **19)** zmiany do zatwierdzonych planów dochodzenia do uznania wprowadzane w trakcie okresu rocznego lub półrocznego, które nie wymagają wydania przez dyrektora oddziału terenowego Agencji właściwego ze względu na siedzibę grupy producentów decyzji w sprawie zmian do zatwierdzonych planów, oraz tryb przekazywania informacji o tych zmianach, mając na względzie uproszczenie trybu dokonywania takich zmian; ” , ust. 5 otrzymuje brzmienie: „
     - **c)**
 
 5. Minister właściwy do spraw rynków rolnych może określić, w drodze rozporządzenia:
@@ -552,8 +571,11 @@ uchyla się art. 40f-40h.
 
 3. W przypadku gdy w przepisach Unii Europejskiej określonym podmiotom zostały przyznane uprawnienia lub na określone podmioty zostały nałożone obowiązki związane z wdrożeniem programu „Owoce i warzywa w szkole”, minister właściwy do spraw rynków rolnych, w rozporządzeniu, o którym mowa w ust. 1, określi sposób realizacji tych uprawnień lub wykonania tych obowiązków, mając na względzie zapewnienie skutecznej realizacji tego programu. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, zakres i sposób realizacji środków towarzyszących, o których mowa w art. 3 ust. 4 rozporządzenia nr 288/2009, mając na względzie zapewnienie prawidłowej realizacji programu „Owoce i warzywa w szkole”, a także kierując się potrzebą upowszechniania wśród dzieci zdrowych nawyków żywieniowych. ” ;
 
-- **28)** w art. 20: w ust. 1: – uchyla się pkt 4, – pkt 5 otrzymuje brzmienie: „ 5) sprawuje urzędowy nadzór w zakresie określonym w rozporządzeniu Komisji (WE) nr 1850/2006 z dnia 14 grudnia 2006 r. ustanawiającym szczegółowe zasady certyfikacji chmielu i produktów chmielowych (Dz. Urz. UE L 355 z 15.12.2006, str. 72, z późn. zm.), zwanym dalej „rozporządzeniem nr 1850/2006”; ” , – w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „ 7) przyjmuje deklarację, o której mowa w art. 20 ust. 1 rozporządzenia nr 1850/2006. ” , uchyla się ust. 1a i 1b, ust. 3 otrzymuje brzmienie: „
+- **28)** w art. 20: w ust. 1: – uchyla się pkt 4, pkt 5 otrzymuje brzmienie: „
     - **a)**
+
+- **5)** sprawuje urzędowy nadzór w zakresie określonym w rozporządzeniu Komisji (WE) nr 1850/2006 z dnia 14 grudnia 2006 r. ustanawiającym szczegółowe zasady certyfikacji chmielu i produktów chmielowych (Dz. Urz. UE L 355 z 15.12.2006, str. 72, z późn. zm.), zwanym dalej „rozporządzeniem nr 1850/2006”; ” , w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
+- **7)** przyjmuje deklarację, o której mowa w art. 20 ust. 1 rozporządzenia nr 1850/2006. ” , uchyla się ust. 1a i 1b, ust. 3 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -592,9 +614,14 @@ uchyla się art. 40f-40h.
 3. Producent chmielu, a w przypadku gdy producent chmielu jest członkiem uznanej grupy producentów albo uznanej organizacji producentów chmielu – uznana grupa producentów albo uznana organizacja producentów chmielu, przekazują wojewódzkiemu inspektorowi do dnia 1 marca informacje, o których mowa w art. 5 ust. 1 lit. a, b, e oraz g rozporządzenia nr 1557/2006, z tym że informacje, o których mowa w art. 5 ust. 1 lit. b, e oraz g rozporządzenia nr 1557/2006, przekazuje się, z uwzględnieniem podziału chmielu na odmiany. ” ;
 
 - **33)** uchyla się rozdziały 5 i 5a;
-- **34)** w art. 40: uchyla się ust. 2, w ust. 4: – pkt 2 otrzymuje brzmienie: „ 2) będąc upoważnionym do reprezentowania browaru, wbrew obowiązkowi określonemu w art. 20 ust. 1 rozporządzenia nr 1850/2006, nie przekazuje informacji o chmielu zebranym z plantacji należących do browaru i zużytym przez ten browar w stanie świeżym lub po przetworzeniu, ” , – uchyla się pkt 3, – pkt 4–6 otrzymują brzmienie: „ 4) będąc producentem chmielu nienależącym do grupy albo uznanej organizacji producentów chmielu, albo będąc upoważnionym do reprezentowania grupy albo uznanej organizacji producentów chmielu, przekazuje wojewódzkiemu inspektorowi właściwemu ze względu na miejsce położenia uprawy chmielu nieprawdziwe dane, o których mowa w art. 5 ust. 1 lit. a, b, e oraz g rozporządzenia nr 1557/2006, lub nie przekazuje tych danych lub przekazuje je po terminie, 5) będąc producentem chmielu, przekazuje wojewódzkiemu inspektorowi właściwemu ze względu na miejsce położenia uprawy chmielu nieprawdziwe dane w deklaracji, o której mowa w art. 3 ust. 1 rozporządzenia nr 1850/2006, dołączanej do chmielu zgłoszonego do certyfikacji, 6) będąc podmiotem gospodarczym prowadzącym zakład przetwórstwa chmielu, wbrew obowiązkowi określonemu w art. 23 ust. 2, nie przekazuje informacji, o których mowa w art. 5 ust. 1 lit. f rozporządzenia nr 1557/2006 ” , ust. 4a otrzymuje brzmienie: „
+- **34)** w art. 40: uchyla się ust. 2, w ust. 4: pkt 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+
+- **2)** będąc upoważnionym do reprezentowania browaru, wbrew obowiązkowi określonemu w art. 20 ust. 1 rozporządzenia nr 1850/2006, nie przekazuje informacji o chmielu zebranym z plantacji należących do browaru i zużytym przez ten browar w stanie świeżym lub po przetworzeniu, ” , – uchyla się pkt 3, pkt 4–6 otrzymują brzmienie: „
+- **4)** będąc producentem chmielu nienależącym do grupy albo uznanej organizacji producentów chmielu, albo będąc upoważnionym do reprezentowania grupy albo uznanej organizacji producentów chmielu, przekazuje wojewódzkiemu inspektorowi właściwemu ze względu na miejsce położenia uprawy chmielu nieprawdziwe dane, o których mowa w art. 5 ust. 1 lit. a, b, e oraz g rozporządzenia nr 1557/2006, lub nie przekazuje tych danych lub przekazuje je po terminie,
+- **5)** będąc producentem chmielu, przekazuje wojewódzkiemu inspektorowi właściwemu ze względu na miejsce położenia uprawy chmielu nieprawdziwe dane w deklaracji, o której mowa w art. 3 ust. 1 rozporządzenia nr 1850/2006, dołączanej do chmielu zgłoszonego do certyfikacji,
+- **6)** będąc podmiotem gospodarczym prowadzącym zakład przetwórstwa chmielu, wbrew obowiązkowi określonemu w art. 23 ust. 2, nie przekazuje informacji, o których mowa w art. 5 ust. 1 lit. f rozporządzenia nr 1557/2006 ” , ust. 4a otrzymuje brzmienie: „
     - **c)**
 
 4a. Kto wprowadza do obrotu owoce i warzywa niezgodnie z wymaganiami w zakresie jakości handlowej, podlega karze grzywny. ” , ust. 5 otrzymuje brzmienie: „
@@ -692,11 +719,11 @@ uchyla się art. 40f-40h.
 - **1)** podmiotom dostarczającym mleko lub przetwory mleczne do szkół podstawowych, na zasadach określonych w rozporządzeniu, o którym mowa w pkt 6 załącznika, i zgodnie z warunkami określonymi w tym rozporządzeniu; ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
-3. Do kontroli, o których mowa w ust. 2, stosuje się przepisy art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2012 r. poz. 633, z późn. zm.). ” ;
+3. Do kontroli, o których mowa w ust. 2, stosuje się przepisy art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2012 r. poz. 633, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1512, z 2014 r. poz. 1146 oraz z 2015 r. poz. 1419.). ” ;
 
 - **12)** rozdziały 3a i 4 otrzymują brzmienie: „
 
-#### Rozdział 3a Uznawanie organizacji producentów i zrzeszeń organizacji producentów oraz organizacji międzybranżowych
+#### Rozdział 3a
 
 **Art. 48a.**
 
@@ -731,7 +758,7 @@ uchyla się art. 40f-40h.
 7. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia:
 
 - **1)** informacje, jakie powinien zawierać wniosek, o którym mowa w ust. 3,
-- **2)** rodzaje lub zakres dokumentów potwierdzających spełnienie przez organizacje i zrzeszenia warunków uznania określonych w ust. 2 i w części II w tytule II w rozdziale III rozporządzenia, o którym mowa w pkt 11 załącznika mając na względzie prawidłowe funkcjonowanie organizacji i zrzeszeń oraz spełnienie wymagań określonych w przepisach Unii Europejskiej dotyczących uznawania organizacji producentów, zrzeszeń organizacji producentów oraz organizacji międzybranżowych.
+- **2)** rodzaje lub zakres dokumentów potwierdzających spełnienie przez organizacje i zrzeszenia warunków uznania określonych w ust. 2 i w części II w tytule II w rozdziale III rozporządzenia, o którym mowa w pkt 11 załącznika – mając na względzie prawidłowe funkcjonowanie organizacji i zrzeszeń oraz spełnienie wymagań określonych w przepisach Unii Europejskiej dotyczących uznawania organizacji producentów, zrzeszeń organizacji producentów oraz organizacji międzybranżowych.
 
 1. Decyzję w sprawie uznania organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej wydaje się w terminie określonym w:
 
@@ -784,7 +811,7 @@ uchyla się art. 40f-40h.
 
 - **1)** uznana organizacja producentów nie spełnia warunków określonych w art. 161 ust. 1 lit. a lub d rozporządzenia, o którym mowa w pkt 11 załącznika, lub w art. 48a ust. 2 pkt 1 lit. a-e albo
 - **2)** uznane zrzeszenie organizacji producentów nie spełnia warunków określonych w art. 161 ust. 1 lit. a i d rozporządzenia, o którym mowa w pkt 11 załącznika, lub w art. 48a ust. 2 pkt 2 lit. a-c, albo
-- **3)** uznana organizacja międzybranżowa nie spełnia warunków określonych w art. 163 ust. 1 lit. c rozporządzenia, o którym mowa w pkt 11 załącznika dyrektor oddziału terenowego Agencji właściwy ze względu na siedzibę organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej wzywa, na piśmie, do usunięcia naruszeń oraz określa termin ich usunięcia, nie dłuższy niż 12 miesięcy, biorąc pod uwagę rodzaj naruszenia.
+- **3)** uznana organizacja międzybranżowa nie spełnia warunków określonych w art. 163 ust. 1 lit. c rozporządzenia, o którym mowa w pkt 11 załącznika – dyrektor oddziału terenowego Agencji właściwy ze względu na siedzibę organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej wzywa, na piśmie, do usunięcia naruszeń oraz określa termin ich usunięcia, nie dłuższy niż 12 miesięcy, biorąc pod uwagę rodzaj naruszenia.
 
 2. Organizacja producentów albo zrzeszenie organizacji producentów, albo organizacja międzybranżowa w terminie wyznaczonym w wezwaniu, o którym mowa w ust. 1, informuje, na formularzu opracowanym przez Agencję, udostępnionym na stronie internetowej Agencji, o usunięciu stwierdzonych naruszeń i przedkłada dokumenty potwierdzające usunięcie tych naruszeń.
 
@@ -821,7 +848,7 @@ uchyla się art. 40f-40h.
 
 3. W przypadku stwierdzenia spełniania warunków określonych w art. 164 rozporządzenia, o którym mowa w pkt 11 załącznika, oraz w przepisach wydanych na podstawie ust. 2, minister właściwy do spraw rynków rolnych wprowadza, w drodze rozporządzenia, porozumienia, decyzje lub praktyki uzgodnione w ramach uznanej organizacji producentów, uznanego zrzeszenia organizacji producentów lub uznanej organizacji międzybranżowej, podając zakres stosowania tych porozumień, decyzji lub praktyk oraz okres, przez jaki mają być stosowane te porozumienia, decyzje lub praktyki, a także obszar gospodarczy, na którym mają być one stosowane, mając na względzie zapewnienie prawidłowego funkcjonowania rynku mleka i przetworów mlecznych oraz niezakłócania konkurencji na tym rynku, a także biorąc pod uwagę cele, jakich mogą dotyczyć te porozumienia, decyzje lub praktyki. Minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informacje, o których mowa w art. 164 ust. 6 rozporządzenia, o którym mowa w pkt 11 załącznika.
 
-#### Rozdział 4 Kontrole
+#### Rozdział 4
 
 **Art. 49.**
 
@@ -872,7 +899,7 @@ uchyla się art. 40f-40h.
 1. Do wpłat na Fundusz Promocji Mleka są obowiązane pierwsze podmioty skupujące w rozumieniu art. 151 rozporządzenia nr 1308/2013, w wysokości 0,001 zł od każdego skupionego przez nie kilograma mleka. ” ;
 
 - **3)** w art. 4 w ust. 1 pkt 5 otrzymuje brzmienie: „
-- **5)** ustala, w drodze decyzji, wysokość wpłat na Fundusz Promocji Mleka na podstawie informacji, o których mowa w art. 2a ust. 1 ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2013 r. poz. 50, z późn. zm.). ” ;
+- **5)** ustala, w drodze decyzji, wysokość wpłat na Fundusz Promocji Mleka na podstawie informacji, o których mowa w art. 2a ust. 1 ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2013 r. poz. 50, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1272 oraz z 2015 r. poz. 165 i 1419.). ” ;
 - **4)** w art. 10 w pkt 1 lit. a i b otrzymują brzmienie: „ 4 członków reprezentujących producentów mleka, wybranych spośród kandydatów zgłoszonych przez ogólnokrajowe organizacje zrzeszające tych producentów, 4 członków reprezentujących pierwsze podmioty skupujące w rozumieniu art. 151 rozporządzenia nr 1308/2013 i zakłady prowadzące działalność w zakresie przetwórstwa mleka, niebędące pierwszymi podmiotami skupującymi, wybranych spośród kandydatów zgłoszonych przez ogólnokrajowe organizacje zrzeszające zakłady przetwórcze oraz pierwsze podmioty skupujące, niebędące zakładami przetwórczymi, ” .
     - **a)**
     - **b)**
@@ -1034,8 +1061,10 @@ uchyla się art. 40f-40h.
 
 5. Minister właściwy do spraw rynków rolnych, na wniosek Głównego Inspektora, wydaje decyzję o cofnięciu upoważnienia do przeprowadzania kontroli oraz do wydawania i cofania certyfikatów zgodności, w przypadku stwierdzenia, że upoważniona jednostka certyfikująca nie spełnia wymagań określonych w art. 23 rozporządzenia nr 251/2014. ” ;
 
-- **26)** w art. 79: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) wniosku o zatwierdzenie zmiany specyfikacji, o której mowa w art. 105 rozporządzenia nr 1308/2013 albo w art. 24 rozporządzenia nr 251/2014 ” , – część wspólna otrzymuje brzmienie: „ – pobiera się opłatę w wysokości nieprzekraczającej 20% przeciętnego wynagrodzenia w gospodarce narodowej, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego, w roku kalendarzowym poprzedzającym złożenie tych dokumentów. ” , ust. 3 otrzymuje brzmienie: „
+- **26)** w art. 79: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** wniosku o zatwierdzenie zmiany specyfikacji, o której mowa w art. 105 rozporządzenia nr 1308/2013 albo w art. 24 rozporządzenia nr 251/2014 ” , część wspólna otrzymuje brzmienie: „ – pobiera się opłatę w wysokości nieprzekraczającej 20% przeciętnego wynagrodzenia w gospodarce narodowej, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego, w roku kalendarzowym poprzedzającym złożenie tych dokumentów. ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Dowód wniesienia opłaty dołącza się do wniosku o objęcie ochroną, zastrzeżenia do wniosku o objęcie ochroną lub wniosku o zatwierdzenie zmiany specyfikacji, o której mowa w art. 105 rozporządzenia nr 1308/2013 albo w art. 24 rozporządzenia nr 251/2014. ” ;
@@ -1071,14 +1100,14 @@ uchyla się art. 40f-40h.
 - **9)** wymierzenia kary pieniężnej lub zastosowania innych sankcji – w odniesieniu do organizacji producentów owoców i warzyw,
 - **10)** wymierzenia kar pieniężnych jednostkom organizacyjnym lub osobom fizycznym, o których mowa w art. 12 ust. 1 pkt 1 lit. a i b ustawy zmienianej w art. 5,
 - **11)** wyłączenia z objęcia pomocą finansową działania zatwierdzonego w programie operacyjnym,
-- **12)** wyłączenia organizacji producentów owoców i warzyw lub zrzeszenia takich organizacji ze wsparcia w ramach programu operacyjnego w kolejnym roku wszczętych i niezakończonych ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+- **12)** wyłączenia organizacji producentów owoców i warzyw lub zrzeszenia takich organizacji ze wsparcia w ramach programu operacyjnego w kolejnym roku – wszczętych i niezakończonych ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
 **Art. 12.**
 
 1. Właściwy marszałek województwa przekazuje właściwemu dyrektorowi oddziału terenowego Agencji Rynku Rolnego:
 
 - **1)** akta prowadzonych spraw w zakresie wymienionym w art. 11 pkt 1–5, zakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy,
-- **2)** informacje o postępowaniach administracyjnych w sprawach wskazanych w art. 11 pkt 1–5, wszczętych i niezakończonych ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
+- **2)** informacje o postępowaniach administracyjnych w sprawach wskazanych w art. 11 pkt 1–5, wszczętych i niezakończonych ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy – w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
 
 2. W przypadku postępowań w sprawach wskazanych w art. 11 pkt 1–5, wszczętych i niezakończonych ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy, marszałek województwa, w terminie 14 dni od dnia, w którym decyzja w tych sprawach stała się ostateczna, przekazuje akta sprawy będącej przedmiotem takiej decyzji dyrektorowi oddziału terenowego Agencji Rynku Rolnego.
 
@@ -1087,7 +1116,7 @@ uchyla się art. 40f-40h.
 1. Właściwy dyrektor oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa przekazuje właściwemu dyrektorowi oddziału terenowego Agencji Rynku Rolnego:
 
 - **1)** akta prowadzonych spraw w zakresie wymienionym w art. 11 pkt 6–12, zakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy,
-- **2)** informacje o postępowaniach administracyjnych w sprawach wskazanych w art. 11 pkt 6–12, wszczętych i niezakończonych ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
+- **2)** informacje o postępowaniach administracyjnych w sprawach wskazanych w art. 11 pkt 6–12, wszczętych i niezakończonych ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy – w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
 
 2. W przypadku postępowań w sprawach wskazanych w art. 11 pkt 6–12, wszczętych i niezakończonych ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy, dyrektor oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa, w terminie 14 dni od dnia, w którym decyzja w tych sprawach stała się ostateczna, przekazuje akta sprawy będącej przedmiotem takiej decyzji dyrektorowi oddziału terenowego Agencji Rynku Rolnego.
 
@@ -1118,7 +1147,7 @@ uchyla się art. 40f-40h.
 1. Przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 19 ust. 2 pkt 2, 11, 14 i 19 oraz art. 19c ustawy zmienianej w art. 5 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie odpowiednio art. 19 ust. 2 pkt 2, 11, 14 i 19 oraz art. 19c ustawy zmienianej w art. 5,
-- **2)** art. 41 pkt 1 i 3 oraz art. 80 ustawy zmienianej w art. 8 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie odpowiednio art. 41 pkt 1 i 3 oraz art. 80 ustawy zmienianej w art. 8 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
+- **2)** art. 41 pkt 1 i 3 oraz art. 80 ustawy zmienianej w art. 8 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie odpowiednio art. 41 pkt 1 i 3 oraz art. 80 ustawy zmienianej w art. 8 – w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
 2. Przepisy wykonawcze wydane na podstawie art. 12a ust. 1 ustawy zmienianej w art. 1 zachowują moc i mogą być zmieniane na podstawie tego przepisu.
 
@@ -1133,5 +1162,5 @@ uchyla się art. 40f-40h.
 
 6. Przepisy wykonawcze wydane na podstawie art. 10 ust. 2, art. 11 ust. 4 i 5, art. 16a ust. 8, art. 17, art. 42a oraz art. 46 ust. 6 ustawy zmienianej w art. 6 zachowują moc.
 
-**Art. 22.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 6, który wchodzi w życie z dniem 1 grudnia 2015 r.
+**Art. 22.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 6, który wchodzi w życie z dniem 1 grudnia 2015 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, ustawę z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku suszu paszowego oraz rynków lnu i konopi uprawianych na włókno, ustawę z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych, ustawę z dnia 22 maja 2009 r. o funduszach promocji produktów rolno-spożywczych oraz ustawę z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 378, 1130 i 1240. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 693, 1045, 1240, 1310 i 1359. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311 i 1418. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 87, 211, 218, 396, 539, 774, 978, 1269, 1311 i 1322. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 243 i 1258, z 2014 r. poz. 1662 oraz z 2015 r. poz. 308. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1101 oraz z 2015 r. poz. 277 i 1069. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268 i 1272. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1512, z 2014 r. poz. 1146 oraz z 2015 r. poz. 1419. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1272 oraz z 2015 r. poz. 165 i 1419.
 

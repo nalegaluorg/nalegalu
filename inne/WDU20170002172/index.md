@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-23 |
 | Data wydania | 2017-11-24 |
-| Wejście w życie | 2017-11-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002172) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2172/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie łódzkiej specjalnej strefy ekonomicznej (Dz. U. z 2017 r. poz. 1024 i 1275) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 1754,6376 ha, położone na terenach miast: Bełchatów, Kalisz, Koło, Konstantynów Łódzki, Kutno, Łęczyca, Łowicz, Łódź, Ozorków, Piotrków Trybunalski, Płock, Pruszków, Raciąż, Radomsko, Rawa Mazowiecka, Sieradz, Skierniewice, Sochaczew, Tomaszów Mazowiecki, Turek, Warszawa, Zduńska Wola, Zgierz i Żyrardów oraz gmin: Aleksandrów Łódzki, Brójce, Kleszczów, Koluszki, Krośniewice, Ksawerów, Nowe Skalmierzyce, Opoczno, Ostrzeszów, Paradyż, Przykona, Rozprza, Sławno, Stryków, Tomaszów Mazowiecki, Ujazd, Widawa, Wieluń, Wola Krzysztoporska, Wolbórz, Wróblew, Zelów, Zgierz i Żychlin.
-” ;
+Strefa obejmuje grunty o powierzchni 1754,6376 ha, położone na terenach miast: Bełchatów, Kalisz, Koło, Konstantynów Łódzki, Kutno, Łęczyca, Łowicz, Łódź, Ozorków, Piotrków Trybunalski, Płock, Pruszków, Raciąż, Radomsko, Rawa Mazowiecka, Sieradz, Skierniewice, Sochaczew, Tomaszów Mazowiecki, Turek, Warszawa, Zduńska Wola, Zgierz i Żyrardów oraz gmin: Aleksandrów Łódzki, Brójce, Kleszczów, Koluszki, Krośniewice, Ksawerów, Nowe Skalmierzyce, Opoczno, Ostrzeszów, Paradyż, Przykona, Rozprza, Sławno, Stryków, Tomaszów Mazowiecki, Ujazd, Widawa, Wieluń, Wola Krzysztoporska, Wolbórz, Wróblew, Zelów, Zgierz i Żychlin. ” ;
 2)
 w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU ŁÓDZKIEJ SPECJALNEJ STREFY EKONOMICZNEJ:
 a)

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 8 sierpnia 2017 r. w sprawie sposobu organizacji zwalczania zagrożeń i zanieczyszczeń na morzu
+# Rozporządzenie Rady Ministrówz dnia 8 sierpnia 2017 r. w sprawie sposobu organizacji zwalczania zagrożeń i zanieczyszczeń na morzu Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2013/30/UE z dnia 12 czerwca 2013 r. w sprawie bezpieczeństwa działalności związanej ze złożami ropy naftowej i gazu ziemnego na obszarach morskich oraz zmiany dyrektywy 2004/35/WE (Dz. Urz. UE L 178 z 28.06.2013, str. 66).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-08 |
 | Data wydania | 2017-08-30 |
-| Wejście w życie | 2017-08-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001631) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1631/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 24 ust. 1 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2015 r. poz. 434, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 24 ust. 1 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2015 r. poz. 434, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 881, z 2016 r. poz. 1954 oraz z 2017 r. poz. 32, 785, 1215 i 1567.) zarządza się, co następuje:
 § 1.
 1.
 Rozporządzenie określa:
@@ -296,5 +295,5 @@ Informacje, o których mowa w ust. 1, Dyrektor Służby SAR udostępnia w szczeg
 § 20.
 Krajowy Plan sporządzony i zatwierdzony przez ministra właściwego do spraw gospodarki morskiej wraz z jego aktualizacjami, na podstawie dotychczasowych przepisów pozostaje w mocy do dnia zatwierdzenia Krajowego Planu sporządzonego na podstawie niniejszego rozporządzenia.
 § 21.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 3 grudnia 2002 r. w sprawie organizacji i sposobu zwalczania zagrożeń i zanieczyszczeń na morzu (Dz. U. z 2015 r. poz. 358), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 15 pkt 2 ustawy z dnia 25 maja 2017 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 1215). 1) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2013/30/UE z dnia 12 czerwca 2013 r. w sprawie bezpieczeństwa działalności związanej ze złożami ropy naftowej i gazu ziemnego na obszarach morskich oraz zmiany dyrektywy 2004/35/WE (Dz. Urz. UE L 178 z 28.06.2013, str. 66). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 881, z 2016 r. poz. 1954 oraz z 2017 r. poz. 32, 785, 1215 i 1567. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 3 grudnia 2002 r. w sprawie organizacji i sposobu zwalczania zagrożeń i zanieczyszczeń na morzu (Dz. U. z 2015 r. poz. 358), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 15 pkt 2 ustawy z dnia 25 maja 2017 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 1215).
 

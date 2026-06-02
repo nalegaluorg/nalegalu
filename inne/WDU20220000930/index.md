@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-27 |
 | Data wydania | 2022-04-29 |
-| Wejście w życie | 2022-04-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000930) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/930/text.pdf) |
 
@@ -57,7 +56,7 @@ source: "eli-html"
 - **1)** ministrowi właściwemu do spraw wewnętrznych,
 - **2)** ministrowi właściwemu do spraw rodziny,
 - **3)** wojewodom,
-- **4)** gminom w celu realizacji zadań związanych z pomocą obywatelom Ukrainy. ” .
+- **4)** gminom – w celu realizacji zadań związanych z pomocą obywatelom Ukrainy. ” .
 
 **Art. 2.** Minister właściwy do spraw informatyzacji ogłosi w Dzienniku Ustaw Rzeczypospolitej Polskiej komunikat określający dzień wdrożenia rozwiązań technicznych umożliwiających prowadzenie bazy danych, o której mowa w art. 13a ust. 1 ustawy zmienianej w art. 1.
 

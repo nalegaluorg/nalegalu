@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 2 lipca 2020 r. zmieniające rozporządzenie w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 2 lipca 2020 r. zmieniające rozporządzenie w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-07-02 |
 | Data wydania | 2020-07-02 |
-| Wejście w życie | 2020-07-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001183) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1183/text.pdf) |
 
@@ -33,16 +32,13 @@ W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2
 1)
 w § 3 w ust. 2:
 a)
-pkt 9 i 10 otrzymują brzmienie:
-„
+pkt 9 i 10 otrzymują brzmienie: „
 9)
 uczniowie pobierający naukę w Rzeczypospolitej Polskiej, po udokumentowaniu funkcjonariuszowi Straży Granicznej pobierania nauki w Rzeczypospolitej Polskiej;
 10)
-obywatele państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz ich małżonkowie i dzieci;
-” ,
+obywatele państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz ich małżonkowie i dzieci; ” ,
 b)
-w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12–14 w brzmieniu:
-„
+w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12–14 w brzmieniu: „
 12)
 studenci, uczestnicy studiów podyplomowych, kształcenia specjalistycznego i innych form kształcenia, a także doktoranci kształcący się w Rzeczypospolitej Polskiej, po udokumentowaniu funkcjonariuszowi Straży Granicznej kształcenia się w Rzeczypospolitej Polskiej;
 13)
@@ -60,13 +56,12 @@ Kanady,
 e)
 Republiki Albanii,
 f)
-Republiki Korei.
-” ;
+Republiki Korei. ” ;
 2)
 w załączniku nr 1 do rozporządzenia w lit. c „granica państwowa z Ukrainą” uchyla się lp. 4;
 3)
-w załączniku nr 2 do rozporządzenia w lit. c „granica państwowa z Ukrainą” dodaje się lp. 9 w brzmieniu: 9. Budomierz – Hruszew drogowe osobowy, towarowy – pojazdami o dopuszczalnej masie całkowitej do 3,5 t całodobowo
+w załączniku nr 2 do rozporządzenia w lit. c „granica państwowa z Ukrainą” dodaje się lp. 9 w brzmieniu:
+9. Budomierz – Hruszew drogowe osobowy, towarowy – pojazdami o dopuszczalnej masie całkowitej do 3,5 t całodobowo
 § 2.
-Rozporządzenie wchodzi w życie z dniem 3 lipca 2020 r. z wyjątkiem § 1 pkt 2 i 3, które wchodzą w życie z dniem 6 lipca 2020 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie z dniem 3 lipca 2020 r. z wyjątkiem § 1 pkt 2 i 3, które wchodzą w życie z dniem 6 lipca 2020 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

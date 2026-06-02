@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-01-27 |
 | Data wydania | 2015-02-06 |
-| Wejście w życie | 2015-02-14 |
 | Ostatnia zmiana | 2025-10-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000187) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/187/text.pdf) |
 
@@ -42,7 +41,7 @@ Rozporządzenie określa szczegółowy zakres i sposoby realizacji niektórych z
 1.
 Agencja udziela pomocy finansowej z przeznaczeniem na:
 1)
-realizację inwestycji w gospodarstwach rolnych, działach specjalnych produkcji rolnej, przetwórstwie produktów rolnych, przetwórstwie ryb, skorupiaków i mięczaków oraz w rybactwie śródlądowym w rozumieniu przepisów ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2009 r. Nr 189, poz. 1471, z późn. zm.);
+realizację inwestycji w gospodarstwach rolnych, działach specjalnych produkcji rolnej, przetwórstwie produktów rolnych, przetwórstwie ryb, skorupiaków i mięczaków oraz w rybactwie śródlądowym w rozumieniu przepisów ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2009 r. Nr 189, poz. 1471, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 200, poz. 1322 oraz z 2013 r. poz. 628 i 1158.);
 2)
 tworzenie lub powiększenie gospodarstw rolnych przez młodych rolników, o których mowa w art. 2 pkt 34 rozporządzenia Komisji (UE) nr 702/2014 z dnia 25 czerwca 2014 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 193 z 01.07.2014, str. 1), zwanego dalej „rozporządzeniem nr 702/2014”;
 3)
@@ -562,7 +561,7 @@ Pomoc, o której mowa w ust. 1, ma charakter pomocy de minimis w rolnictwie i je
 3.
 Pomoc, o której mowa w ust. 1, jest udzielana producentom rolnym za pośrednictwem podmiotów utylizacyjnych, z którymi Agencja zawarła umowę o udzielenie tej pomocy na dany rok.
 4.
-Warunkiem udzielenia pomocy, o której mowa w ust. 1, jest przedłożenie podmiotowi utylizacyjnemu, o którym mowa w ust. 3, dokumentów, o których mowa w art. 37 ust. 2 pkt 1 i 3 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.).
+Warunkiem udzielenia pomocy, o której mowa w ust. 1, jest przedłożenie podmiotowi utylizacyjnemu, o którym mowa w ust. 3, dokumentów, o których mowa w art. 37 ust. 2 pkt 1 i 3 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.).
 5.
 Wysokość pomocy, o której mowa w ust. 1, nie może przekroczyć 15 zł za materiały szczególnego ryzyka pochodzące od jednego zwierzęcia poddanego ubojowi w gospodarstwie rolnym.
 6.
@@ -639,17 +638,16 @@ w których gospodarstwach rolnych powstały szkody spowodowane przez ujemne skut
 b)
 w których gospodarstwach rolnych lub działach specjalnych produkcji rolnej powstały szkody spowodowane wystąpieniem powodzi, huraganu, gradu lub deszczu nawalnego w 2013 r.,
 c)
-którzy w 2014 r. ponieśli szkody wyrządzone przez dziki w uprawach rolnych położonych na obszarach ochronnych lub obszarach objętych ograniczeniami, o których mowa w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 31 marca 2014 r. w sprawie środków podejmowanych w związku z wystąpieniem u dzików afrykańskiego pomoru świń (Dz. U. poz. 420, z późn. zm.),
+którzy w 2014 r. ponieśli szkody wyrządzone przez dziki w uprawach rolnych położonych na obszarach ochronnych lub obszarach objętych ograniczeniami, o których mowa w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 31 marca 2014 r. w sprawie środków podejmowanych w związku z wystąpieniem u dzików afrykańskiego pomoru świń (Dz. U. poz. 420, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2014 r. poz. 1205, 1394 i 1846.),
 2)
 rolnikom, którzy w 2014 r. byli producentami owoców porzeczki czarnej, owoców wiśni, cebuli, kapusty lub jabłek,
 3)
-beneficjentom końcowym, o których mowa w art. 26 ust. 5 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.)
-wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia decyzją ostateczną albo zakończonych decyzją ostateczną wydaną na podstawie przepisów dotychczasowych, które zostały wznowione po dniu wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
+beneficjentom końcowym, o których mowa w art. 26 ust. 5 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.) – wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia decyzją ostateczną albo zakończonych decyzją ostateczną wydaną na podstawie przepisów dotychczasowych, które zostały wznowione po dniu wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 15.
 1.
 Do umów zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe, z zastrzeżeniem ust. 2–4.
 2.
-W przypadku zawieszenia przez bank, na wniosek kredytobiorcy, spłaty rat kapitału kredytu bankowego w ramach umów kredytu bankowego zawartych do dnia 30 kwietnia 2007 r. na warunkach i zgodnie z przepisami rozporządzenia Rady Ministrów z dnia 30 stycznia 1996 r. w sprawie szczegółowych kierunków działań Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz sposobów ich realizacji (Dz. U. Nr 16, poz. 82, z późn. zm.), w związku z wprowadzeniem ograniczeń handlowych:
+W przypadku zawieszenia przez bank, na wniosek kredytobiorcy, spłaty rat kapitału kredytu bankowego w ramach umów kredytu bankowego zawartych do dnia 30 kwietnia 2007 r. na warunkach i zgodnie z przepisami rozporządzenia Rady Ministrów z dnia 30 stycznia 1996 r. w sprawie szczegółowych kierunków działań Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz sposobów ich realizacji (Dz. U. Nr 16, poz. 82, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1996 r. Nr 63, poz. 295 i Nr 127, poz. 596, z 1997 r. Nr 34, poz. 204 i Nr 145, poz. 972, z 1999 r. Nr 21, poz. 183, z 2000 r. Nr 44, poz. 500, Nr 46, poz. 532, Nr 55, poz. 655 i Nr 86, poz. 961, z 2001 r. Nr 41, poz. 466, Nr 73, poz. 765, Nr 83, poz. 896, Nr 86, poz. 949, Nr 89, poz. 975 i Nr 138, poz. 1548, z 2002 r. Nr 21, poz. 203, Nr 46, poz. 427 i 429, Nr 150, poz. 1242 i Nr 231, poz. 1939, z 2003 r. Nr 159, poz. 1539 i Nr 204, poz. 1980 oraz z 2004 r. Nr 95, poz. 935 i Nr 157, poz. 1642.), w związku z wprowadzeniem ograniczeń handlowych:
 1)
 spłata oprocentowania kredytu bankowego za kredytobiorcę jest dokonywana przez Agencję przez okres nie dłuższy niż 2 lata, licząc od dnia zawieszenia przez bank spłaty rat kapitału kredytu bankowego;
 2)
@@ -657,10 +655,9 @@ po zakończeniu okresu zawieszenia, kredytobiorca zwraca zapłacone przez Agencj
 3.
 W przypadku zawieszenia przez bank, na wniosek kredytobiorcy, spłaty rat kapitału kredytu bankowego, w związku z wprowadzeniem ograniczeń handlowych, w ramach umów kredytu bankowego zawartych:
 1)
-od dnia 1 maja 2007 r. do dnia 25 lutego 2009 r. na warunkach i zgodnie z przepisami rozporządzenia Rady Ministrów z dnia 26 kwietnia 2007 r. w sprawie szczegółowego zakresu i kierunków działań Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz sposobów ich realizacji (Dz. U. Nr 77, poz. 514, z późn. zm.),
+od dnia 1 maja 2007 r. do dnia 25 lutego 2009 r. na warunkach i zgodnie z przepisami rozporządzenia Rady Ministrów z dnia 26 kwietnia 2007 r. w sprawie szczegółowego zakresu i kierunków działań Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz sposobów ich realizacji (Dz. U. Nr 77, poz. 514, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2007 r. Nr 250, poz. 1868 oraz z 2008 r. Nr 8, poz. 42 i Nr 107, poz. 680.),
 2)
-od dnia 26 lutego 2009 r. do dnia 31 grudnia 2014 r. na warunkach i zgodnie z przepisami rozporządzenia Rady Ministrów z dnia 22 stycznia 2009 r. w sprawie realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 22, poz. 121, z późn. zm.)
-spłata oprocentowania kredytu bankowego za kredytobiorcę jest dokonywana przez Agencję przez okres nie dłuższy niż 2 lata, licząc od dnia zawieszenia przez bank spłaty rat kapitału kredytu bankowego.
+od dnia 26 lutego 2009 r. do dnia 31 grudnia 2014 r. na warunkach i zgodnie z przepisami rozporządzenia Rady Ministrów z dnia 22 stycznia 2009 r. w sprawie realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 22, poz. 121, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 76, poz. 645 i Nr 95, poz. 793, z 2010 r. Nr 4, poz. 27, Nr 107, poz. 681 i 682 i Nr 208, poz. 1374, z 2012 r. poz. 408 i 988, z 2013 r. poz. 998 oraz z 2014 r. poz. 527, 1333, 1536, 1630 i 1904.) – spłata oprocentowania kredytu bankowego za kredytobiorcę jest dokonywana przez Agencję przez okres nie dłuższy niż 2 lata, licząc od dnia zawieszenia przez bank spłaty rat kapitału kredytu bankowego.
 4.
 Oprocentowanie zapłacone przez Agencję za kredytobiorcę, w okresie zawieszenia przez bank spłaty rat kapitału kredytu bankowego, o którym mowa w ust. 3, pomniejsza kwotę dopłat ustaloną w umowie kredytu bankowego.
 § 16.
@@ -669,16 +666,15 @@ Wnioski:
 1)
 o których mowa w § 10 ust. 7 pkt 3,
 2)
-na realizację pomocy polegającej na dofinansowaniu kosztów zbioru, transportu i unieszkodliwiania materiałów szczególnego ryzyka pochodzących od owiec, kóz i cieląt poddanych ubojowi w gospodarstwie rolnym
-dotyczące pomocy, która ma być udzielana na 2015 r., składa się w terminie 7 dni od dnia wejścia w życie rozporządzenia.
+na realizację pomocy polegającej na dofinansowaniu kosztów zbioru, transportu i unieszkodliwiania materiałów szczególnego ryzyka pochodzących od owiec, kóz i cieląt poddanych ubojowi w gospodarstwie rolnym – dotyczące pomocy, która ma być udzielana na 2015 r., składa się w terminie 7 dni od dnia wejścia w życie rozporządzenia.
 2.
 Agencja zawiera umowy, o których mowa w § 10 ust. 2 i § 12 ust. 3, dotyczące pomocy, która ma być udzielana na 2015 r., w terminie 37 dni od dnia wejścia w życie rozporządzenia.
 § 17.
 Dopłaty, o których mowa w § 3 ust. 1 pkt 1 i § 5 ust. 1 pkt 1, oraz gwarancje lub poręczenia, o których mowa w § 3 ust. 1 pkt 2 i § 5 ust. 1 pkt 2, mogą być udzielane dużym przedsiębiorstwom w rozumieniu art. 2 pkt 26 rozporządzenia nr 702/2014 w okresie obowiązywania pozytywnej decyzji Komisji Europejskiej o zgodności ze wspólnym rynkiem pomocy publicznej polegającej na udzielaniu tych dopłat oraz gwarancji lub poręczeń.
 § 18.
-Traci moc rozporządzenie Rady Ministrów z dnia 22 stycznia 2009 r. w sprawie realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 22, poz. 121, z późn. zm.).
+Traci moc rozporządzenie Rady Ministrów z dnia 22 stycznia 2009 r. w sprawie realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 22, poz. 121, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 76, poz. 645 i Nr 95, poz. 793, z 2010 r. Nr 4, poz. 27, Nr 107, poz. 681 i 682 i Nr 208, poz. 1374, z 2012 r. poz. 408 i 988, z 2013 r. poz. 998 oraz z 2014 r. poz. 527, 1333, 1536, 1630 i 1904.).
 § 19.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 200, poz. 1322 oraz z 2013 r. poz. 628 i 1158. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2014 r. poz. 1205, 1394 i 1846. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1996 r. Nr 63, poz. 295 i Nr 127, poz. 596, z 1997 r. Nr 34, poz. 204 i Nr 145, poz. 972, z 1999 r. Nr 21, poz. 183, z 2000 r. Nr 44, poz. 500, Nr 46, poz. 532, Nr 55, poz. 655 i Nr 86, poz. 961, z 2001 r. Nr 41, poz. 466, Nr 73, poz. 765, Nr 83, poz. 896, Nr 86, poz. 949, Nr 89, poz. 975 i Nr 138, poz. 1548, z 2002 r. Nr 21, poz. 203, Nr 46, poz. 427 i 429, Nr 150, poz. 1242 i Nr 231, poz. 1939, z 2003 r. Nr 159, poz. 1539 i Nr 204, poz. 1980 oraz z 2004 r. Nr 95, poz. 935 i Nr 157, poz. 1642. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2007 r. Nr 250, poz. 1868 oraz z 2008 r. Nr 8, poz. 42 i Nr 107, poz. 680. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 76, poz. 645 i Nr 95, poz. 793, z 2010 r. Nr 4, poz. 27, Nr 107, poz. 681 i 682 i Nr 208, poz. 1374, z 2012 r. poz. 408 i 988, z 2013 r. poz. 998 oraz z 2014 r. poz. 527, 1333, 1536, 1630 i 1904. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 76, poz. 645 i Nr 95, poz. 793, z 2010 r. Nr 4, poz. 27, Nr 107, poz. 681 i 682 i Nr 208, poz. 1374, z 2012 r. poz. 408 i 988, z 2013 r. poz. 998 oraz z 2014 r. poz. 527, 1333, 1536, 1630 i 1904.
 
 ## Załącznik nr 1 — – Wykaz działalności w zakresie rolnictwa, przetwórstwa produktów rolnych, przetwórstwa ryb, skorupiaków i mięczaków lub w zakresie rybactwa śródlądowego objętych pomocą, o której mowa w § 2 ust. 1 pkt 1–3 i 6 rozporządzenia
 
@@ -1063,7 +1059,8 @@ Hodowla dżdżownic.
 
 ## Załącznik nr 2 — – Zakres inwestycji objętych pomocą finansową przeznaczoną na realizację inwestycji w gospodarstwach rolnych, działach specjalnych produkcji rolnej, przetwórstwie produktów rolnych, przetwórstwie ryb, skorupiaków i mięczaków oraz w rybactwie śródlądowym
 
-Część A. INWESTYCJE W GOSPODARSTWACH ROLNYCH LUB DZIAŁACH SPECJALNYCH PRODUKCJI ROLNEJ
+Część A.
+INWESTYCJE W GOSPODARSTWACH ROLNYCH LUB DZIAŁACH SPECJALNYCH PRODUKCJI ROLNEJ
 Inwestycje w gospodarstwach rolnych lub działach specjalnych produkcji rolnej obejmują:
 1)
 budowę, przebudowę lub remont połączony z:
@@ -1099,11 +1096,12 @@ c)
 koszty nadzoru urbanistycznego, architektonicznego, budowlanego lub konserwatorskiego;
 12)
 koszty transportu materiałów do miejsca realizacji inwestycji, o których mowa w pkt 1 i 2 oraz 5–9, do wysokości 2% wartości tych inwestycji.
-Część B. INWESTYCJE W PRZETWÓRSTWIE PRODUKTÓW ROLNYCH
+Część B.
+INWESTYCJE W PRZETWÓRSTWIE PRODUKTÓW ROLNYCH
 Inwestycje w przetwórstwie produktów rolnych obejmują:
 1)
 budowę lub remont połączony z modernizacją budynków lub budowli, służących do przetwórstwa i magazynowania produktów rolnych, w tym infrastruktury technicznej stanowiącej integralną część tych budynków lub budowli;
-2* Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
+2*Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
 zakup lub zakup i instalację maszyn lub urządzeń służących do:
 a)
 magazynowania lub przygotowania produktów rolnych do przetwarzania, zapewniających utrzymanie jakości i bezpieczeństwo żywności,
@@ -1111,13 +1109,13 @@ b)
 przetwarzania produktów rolnych,
 c)
 magazynowania produktów lub półproduktów oraz ich przygotowania do sprzedaży;
-3* Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
+3*Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
 zakup lub zakup i instalację aparatury pomiarowej, kontrolnej oraz sprzętu do sterowania procesem produkcji lub magazynowania;
-4* Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
+4*Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
 zakup komputerów i oprogramowań służących do zarządzania przedsiębiorstwem oraz do sterowania procesem produkcji lub magazynowania;
-5* Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
+5*Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
 zakup środków transportu niezbędnych dla sprawnego przebiegu procesu technologicznego lub do magazynowania;
-6* Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
+6*Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
 zakup specjalistycznych środków transportu przeznaczonych do dostaw surowca lub zbytu produktów, zapewniających spełnienie warunków bezpieczeństwa żywności lub dobrostanu zwierząt;
 7)
 wdrażanie procedury systemów zarządzania jakością;
@@ -1131,11 +1129,12 @@ c)
 koszty nadzoru urbanistycznego, architektonicznego, budowlanego lub konserwatorskiego;
 9)
 koszty transportu materiałów do miejsca realizacji inwestycji, o których mowa w pkt 1–3, do wysokości 2% wartości tych inwestycji.
-Część C. INWESTYCJE W PRZETWÓRSTWIE RYB, SKORUPIAKÓW I MIĘCZAKÓW
+Część C.
+INWESTYCJE W PRZETWÓRSTWIE RYB, SKORUPIAKÓW I MIĘCZAKÓW
 Inwestycje w przetwórstwie ryb, skorupiaków i mięczaków obejmują:
 1)
 budowę, rozbudowę lub modernizację budynków lub budowli, służących do przetwórstwa i magazynowania ryb, skorupiaków i mięczaków, w tym infrastruktury technicznej stanowiącej integralną część tych budynków lub budowli;
-2* Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
+2*Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
 zakup lub zakup i instalację maszyn, urządzeń lub wyposażenia do:
 a)
 magazynowania lub przygotowania ryb, skorupiaków i mięczaków do przetwarzania, zapewniających utrzymanie jakości i bezpieczeństwa żywności,
@@ -1143,13 +1142,13 @@ b)
 przetwarzania ryb, skorupiaków i mięczaków,
 c)
 magazynowania produktów lub półproduktów oraz ich przygotowania do sprzedaży;
-3* Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
+3*Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
 zakup lub zakup i instalację aparatury pomiarowej, kontrolnej oraz sprzętu do sterowania procesem produkcji lub do magazynowania;
-4* Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
+4*Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
 zakup komputerów i oprogramowań służących do zarządzania przedsiębiorstwem oraz do sterowania procesem produkcji lub magazynowania;
-5* Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
+5*Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
 zakup środków transportu niezbędnych do sprawnego przebiegu procesu technologicznego lub do magazynowania;
-6* Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
+6*Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
 zakup specjalistycznych środków transportu przeznaczonych do dostaw surowca lub zbytu produktów, zapewniających spełnienie warunków bezpieczeństwa żywności lub dobrostanu zwierząt;
 7)
 wdrażanie procedury systemów zarządzania jakością;
@@ -1163,9 +1162,10 @@ c)
 koszty nadzoru urbanistycznego, architektonicznego, budowlanego lub konserwatorskiego;
 9)
 koszty transportu materiałów do miejsca realizacji inwestycji, o których mowa w pkt 1–3, do wysokości 2% wartości tych inwestycji.
-Część D. INWESTYCJE W RYBACTWIE ŚRÓDLĄDOWYM
+Część D.
+INWESTYCJE W RYBACTWIE ŚRÓDLĄDOWYM
 Inwestycje w rybactwie śródlądowym obejmują:
-1* Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
+1*Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
 budowę, rozbudowę, wyposażenie i modernizację instalacji, w tym budynków i budowli oraz urządzeń przeznaczonych do rybołówstwa śródlądowego, związanych z poprawą bezpieczeństwa i higieny pracy oraz jakości produktów rybnych, zdrowia ludzi i zwierząt, a także związanych z ochroną środowiska, w tym:
 a)
 zakup, budowę lub modernizację wyposażenia niezbędnego do odłowu ryb,
@@ -1175,7 +1175,7 @@ c)
 zakup komputerów i oprogramowań służących do zarządzania oraz do sterowania działaniami rybołówstwa śródlądowego,
 d)
 wdrażanie procedury systemów zarządzania jakością;
-2* Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
+2*Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
 budowę, rozbudowę, wyposażenie i modernizację instalacji produkcyjnych, obiektów stawowych, a także budynków lub budowli, służących do produkcji w zakresie rybactwa, w tym:
 a)
 zakup lub zakup i instalację aparatury pomiarowej, kontrolnej oraz sprzętu do sterowania procesem produkcji,
@@ -1189,9 +1189,9 @@ e)
 zakup sprzętu mającego na celu ochronę przed drapieżnikami obiektów przeznaczonych do chowu lub hodowli,
 f)
 wdrażanie procedury systemów zarządzania jakością, w szczególności mających na celu poprawę bezpieczeństwa i higieny pracy oraz jakości produktów, zdrowia ludzi lub zwierząt, związanych z ochroną środowiska, a także wspieranie tradycyjnych form chowu lub hodowli ryb;
-3* Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
+3*Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
 zakup lub modernizację łodzi wykorzystywanych do chowu lub hodowli ryb;
-4* Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
+4*Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.)
 budowę, modernizację lub zakup instalacji lub urządzeń ograniczających negatywny wpływ na środowisko lub wpływających na poprawę środowiska;
 5)
 koszty ogólne bezpośrednio związane z przygotowaniem i realizacją inwestycji, które nie przekraczają 12% kwoty kredytu bankowego, obejmujące:
@@ -1202,9 +1202,7 @@ opłaty za patenty lub licencje,
 c)
 koszty nadzoru urbanistycznego, architektonicznego, budowlanego lub konserwatorskiego;
 6)
-koszty transportu materiałów do miejsca realizacji inwestycji, o których mowa w pkt 1–4, do wysokości 2% wartości tych inwestycji.
-Objaśnienia:
-* Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.
+koszty transportu materiałów do miejsca realizacji inwestycji, o których mowa w pkt 1–4, do wysokości 2% wartości tych inwestycji. Objaśnienia: * Zakupione lub zakupione i zainstalowane maszyny i urządzenia nie mogą mieć w dniu sprzedaży więcej niż 5 lat oraz nie były nabyte z wykorzystaniem środków publicznych.
 
 ## Załącznik nr 3 — – Wykaz kierunków studiów wyższych i zawodów w zakresie rolnictwa oraz rodzaje dokumentów potwierdzających posiadanie kwalifikacji zawodowych
 
@@ -1217,8 +1215,7 @@ ogrodnictwa;
 3)
 techniki rolniczej i leśnej;
 4)
-zootechniki.
-W przypadku ukończenia studiów wyższych na kierunku innym niż wyżej wymienione, za kwalifikacje zawodowe przydatne do prowadzenia działalności rolniczej uznaje się kierunki studiów, których program obejmował zajęcia lub grupy zajęć umożliwiające nabycie wiedzy i umiejętności w zakresie rolnictwa w wymiarze 120 godzin lub pozwalające na uzyskanie co najmniej 12 punktów ECTS.
+zootechniki. W przypadku ukończenia studiów wyższych na kierunku innym niż wyżej wymienione, za kwalifikacje zawodowe przydatne do prowadzenia działalności rolniczej uznaje się kierunki studiów, których program obejmował zajęcia lub grupy zajęć umożliwiające nabycie wiedzy i umiejętności w zakresie rolnictwa w wymiarze 120 godzin lub pozwalające na uzyskanie co najmniej 12 punktów ECTS.
 2.
 Wykaz zawodów na poziomie kwalifikacji technika:
 1)

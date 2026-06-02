@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-28 |
 | Data wydania | 2024-10-31 |
-| Wejście w życie | 2024-11-01 |
 | Ostatnia zmiana | 2025-08-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001611) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1611/text.pdf) |
 
@@ -31,14 +30,11 @@ Na podstawie art. 23 ust. 3 ustawy z dnia 23 września 1999 r. o zasadach pobytu
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 27 grudnia 2000 r. w sprawie sposobu obliczania i rozliczania opłat wnoszonych przez wojska obce w związku z udostępnieniem im poligonów wojskowych (Dz. U. z 2024 r. poz. 679) wprowadza się następujące zmiany:
 1)
-w § 3 pkt 1 otrzymuje brzmienie:
-„
+w § 3 pkt 1 otrzymuje brzmienie: „
 1)
-kosztów osobowych, w skład których wchodzą uposażenia i wynagrodzenia wraz z pochodnymi oraz inne należności pieniężne żołnierzy pełniących służbę i pracowników cywilnych zatrudnionych w jednostce wojskowej zabezpieczającej poligon wojskowy;
-” ;
+kosztów osobowych, w skład których wchodzą uposażenia i wynagrodzenia wraz z pochodnymi oraz inne należności pieniężne żołnierzy pełniących służbę i pracowników cywilnych zatrudnionych w jednostce wojskowej zabezpieczającej poligon wojskowy; ” ;
 2)
-§ 6 otrzymuje brzmienie:
-„
+§ 6 otrzymuje brzmienie: „
 § 6.
 1.
 Podstawą wniesienia przez wojska obce opłat związanych z udostępnieniem im poligonu wojskowego są dowody księgowe wraz z załącznikami zawierającymi szczegółowe rozliczenie kosztów, wystawione przez:
@@ -47,24 +43,19 @@ jednostkę posiadającą uprawnienia dysponenta środków budżetowych, która p
 2)
 inną jednostkę organizacyjną niż wymieniona w pkt 1, która poniosła koszty bezpośrednio związane z pobytem wojsk obcych na udostępnionym poligonie wojskowym, w tym koszty związane z przewozem tych wojsk.
 2.
-Dowody księgowe, o których mowa w ust. 1, są przekazywane wojskom obcym w terminie 30 dni od dnia przekroczenia przez te wojska granicy państwowej Rzeczypospolitej Polskiej po zakończeniu ćwiczenia wojskowego przeprowadzonego przez nie na poligonie wojskowym.
-” ;
+Dowody księgowe, o których mowa w ust. 1, są przekazywane wojskom obcym w terminie 30 dni od dnia przekroczenia przez te wojska granicy państwowej Rzeczypospolitej Polskiej po zakończeniu ćwiczenia wojskowego przeprowadzonego przez nie na poligonie wojskowym. ” ;
 3)
-§ 8 otrzymuje brzmienie:
-„
+§ 8 otrzymuje brzmienie: „
 § 8.
-W przypadku uiszczenia przez wojska obce zaliczki na poczet opłat związanych z udostępnieniem im poligonu wojskowego zaliczka ta jest przekazywana na rachunek bankowy Funduszu Wsparcia Sił Zbrojnych, o którym mowa w art. 41 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222, 1248 i 1585).
-” ;
+W przypadku uiszczenia przez wojska obce zaliczki na poczet opłat związanych z udostępnieniem im poligonu wojskowego zaliczka ta jest przekazywana na rachunek bankowy Funduszu Wsparcia Sił Zbrojnych, o którym mowa w art. 41 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222, 1248 i 1585). ” ;
 4)
-§ 9 otrzymuje brzmienie:
-„
+§ 9 otrzymuje brzmienie: „
 § 9.
 Wniesione przez wojska obce opłaty związane z udostępnieniem im poligonu wojskowego:
 1)
 na podstawie dowodu księgowego wystawionego przez jednostkę, o której mowa w § 6 ust. 1 pkt 1, są przekazywane w całości na rachunek bankowy Funduszu Wsparcia Sił Zbrojnych, o którym mowa w art. 41 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny;
 2)
-na podstawie dowodu księgowego wystawionego przez jednostkę organizacyjną, o której mowa w § 6 ust. 1 pkt 2, są przekazywane przez wojska obce w całości na rachunek bankowy tej jednostki.
-” .
+na podstawie dowodu księgowego wystawionego przez jednostkę organizacyjną, o której mowa w § 6 ust. 1 pkt 2, są przekazywane przez wojska obce w całości na rachunek bankowy tej jednostki. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

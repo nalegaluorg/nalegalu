@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwojuz dnia 2 czerwca 2016 r. w sprawie wymagań dla sprzętu elektrycznego
+# Rozporządzenie Ministra Rozwojuz dnia 2 czerwca 2016 r. w sprawie wymagań dla sprzętu elektrycznego Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-02 |
 | Data wydania | 2016-06-08 |
-| Wejście w życie | 2016-06-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000806) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/806/text.pdf) |
 
@@ -33,7 +32,7 @@ Treść rozporządzenia
 ## Załącznik nr 2 — – Elementy deklaracji zgodności (NR XXXX)
 
 Treść rozporządzenia
-Na podstawie art. 12 pkt 1–5 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/35/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku sprzętu elektrycznego przewidzianego do stosowania w określonych granicach napięcia (Dz. Urz. UE L 96 z 29.03.2014, str. 357). Na podstawie art. 12 pkt 1–5 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -123,8 +122,7 @@ Elementy deklaracji zgodności określa załącznik nr 2 do rozporządzenia.
 § 13.
 Sprzęt elektryczny wprowadzony do obrotu na podstawie dotychczas obowiązujących przepisów może być nadal udostępniany na rynku.
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/35/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku sprzętu elektrycznego przewidzianego do stosowania w określonych granicach napięcia (Dz. Urz. UE L 96 z 29.03.2014, str. 357). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 21 sierpnia 2007 r. w sprawie zasadniczych wymagań dla sprzętu elektrycznego (Dz. U. poz. 1089), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 131 ust. 1 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzorze rynku (Dz. U. poz. 542).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 21 sierpnia 2007 r. w sprawie zasadniczych wymagań dla sprzętu elektrycznego (Dz. U. poz. 1089), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 131 ust. 1 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzorze rynku (Dz. U. poz. 542). 1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/35/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku sprzętu elektrycznego przewidzianego do stosowania w określonych granicach napięcia (Dz. Urz. UE L 96 z 29.03.2014, str. 357). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 21 sierpnia 2007 r. w sprawie zasadniczych wymagań dla sprzętu elektrycznego (Dz. U. poz. 1089), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 131 ust. 1 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzorze rynku (Dz. U. poz. 542).
 
 ## Załącznik nr 1 — – Procedura oceny zgodności
 
@@ -156,7 +154,7 @@ Producent sporządza pisemną deklarację zgodności dla modelu wyrobu i przecho
 5.
 Upoważniony przedstawiciel Zobowiązania producenta określone w pkt 4 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie.
 
-## Załącznik nr 2 — – Elementy deklaracji zgodności (NR XXXX)
+## Załącznik nr 2 — – Elementy deklaracji zgodności (NR XXXX)Producent może, ale nie musi nadawać numeru deklaracj i zgodności.
 
 1.
 Model wyrobu/wyrób (numer wyrobu, typu, partii lub serii):
@@ -171,6 +169,5 @@ Wymieniony powyżej przedmiot niniejszej deklaracji jest zgodny z odnośnymi wym
 6.
 Odniesienia do odnośnych norm zharmonizowanych, które zastosowano, lub do innych specyfikacji technicznych, w stosunku do których deklarowana jest zgodność:
 7.
-Informacje dodatkowe: Podpisano w imieniu: (miejsce i data wydania): (imię i nazwisko, stanowisko) (podpis):
-1) Producent może, ale nie musi nadawać numeru deklaracj i zgodności.
+Informacje dodatkowe: Podpisano w imieniu: (miejsce i data wydania): (imię i nazwisko, stanowisko) (podpis): 1) Producent może, ale nie musi nadawać numeru deklaracj i zgodności.
 

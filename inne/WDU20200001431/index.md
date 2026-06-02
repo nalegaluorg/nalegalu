@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatuz dnia 7 sierpnia 2020 r. zmieniające rozporządzenie w sprawie szczegółowego wykazu paliw ciekłych, których wytwarzanie, magazynowanie lub przeładunek, przesyłanie lub dystrybucja, obrót, w tym obrót z zagranicą, wymaga koncesji oraz których przywóz wymaga wpisu do rejestru podmiotów przywożących
+# Rozporządzenie Ministra Klimatuz dnia 7 sierpnia 2020 r. zmieniające rozporządzenie w sprawie szczegółowego wykazu paliw ciekłych, których wytwarzanie, magazynowanie lub przeładunek, przesyłanie lub dystrybucja, obrót, w tym obrót z zagranicą, wymaga koncesji oraz których przywóz wymaga wpisu do rejestru podmiotów przywożących Minister Klimatu kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 marca 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu (Dz. U. poz. 495).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-08-07 |
 | Data wydania | 2020-08-24 |
-| Wejście w życie | 2020-09-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001431) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1431/text.pdf) |
 
@@ -33,33 +32,25 @@ W rozporządzeniu Ministra Aktywów Państwowych z dnia 27 listopada 2019 r. w s
 1)
 w § 1:
 a)
-pkt 2 otrzymuje brzmienie:
-„
+pkt 2 otrzymuje brzmienie: „
 2)
 gaz płynny LPG:
 a)
 2711 12, 2711 13, 2711 14 00, 2711 19 00,
 b)
-2901 10 00 z wyłączeniem produktów przeznaczonych na cele inne niż opałowe, napędowe lub żeglugowe
-z wyłączeniem mieszanin propanu-butanu uzyskiwanych w procesach uzdatniania płynów złożowych;
-” ,
+2901 10 00 z wyłączeniem produktów przeznaczonych na cele inne niż opałowe, napędowe lub żeglugowe – z wyłączeniem mieszanin propanu-butanu uzyskiwanych w procesach uzdatniania płynów złożowych; ” ,
 b)
-pkt 8 i 9 otrzymują brzmienie:
-„
+pkt 8 i 9 otrzymują brzmienie: „
 8)
 oleje napędowe, w tym lekkie oleje opałowe: 2710 19 43, 2710 19 46, 2710 19 47, 2710 19 48, 2710 20 11, 2710 20 16, 2710 20 19;
 9)
-ciężkie oleje opałowe: 2707 99 19, 2707 99 91, 2707 99 99, 2710 19 62, 2710 19 66, 2710 19 67, 2710 20 32, 2710 20 38, 2710 20 90;
-” ;
+ciężkie oleje opałowe: 2707 99 19, 2707 99 91, 2707 99 99, 2710 19 62, 2710 19 66, 2710 19 67, 2710 20 32, 2710 20 38, 2710 20 90; ” ;
 2)
-w § 2 pkt 9 i 10 otrzymują brzmienie:
-„
+w § 2 pkt 9 i 10 otrzymują brzmienie: „
 9)
 oleje napędowe, w tym lekkie oleje opałowe: 2710 19 43, 2710 19 46, 2710 19 47, 2710 19 48, 2710 20 11, 2710 20 16, 2710 20 19;
 10)
-ciężkie oleje opałowe: 2707 99 19, 2707 99 91, 2707 99 99, 2710 19 62, 2710 19 66, 2710 19 67, 2710 20 32, 2710 20 38, 2710 20 90;
-” .
+ciężkie oleje opałowe: 2707 99 19, 2707 99 91, 2707 99 99, 2710 19 62, 2710 19 66, 2710 19 67, 2710 20 32, 2710 20 38, 2710 20 90; ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 marca 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu (Dz. U. poz. 495).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Klimatu kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 marca 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu (Dz. U. poz. 495).
 

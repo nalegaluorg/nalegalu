@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-06 |
 | Data wydania | 2019-08-19 |
-| Wejście w życie | 2019-09-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001550) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1550/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 10 ust. 3 ustawy z dnia 7 maja 1999 r. o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego (Dz. U. z 2018 r. poz. 2349) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Prezesa Rady Ministrów z dnia 3 kwietnia 2003 r. w sprawie zasad i trybu powierzania mienia funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 642) § 6 otrzymuje brzmienie:
-„
+W rozporządzeniu Prezesa Rady Ministrów z dnia 3 kwietnia 2003 r. w sprawie zasad i trybu powierzania mienia funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 642) § 6 otrzymuje brzmienie: „
 § 6.
-Przepisów rozporządzenia nie stosuje się do funkcjonariuszy ponoszących wspólną odpowiedzialność majątkową, o której mowa w art. 11 ustawy z dnia 7 maja 1999 r. o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego (Dz. U. z 2018 r. poz. 2349).
-” .
+Przepisów rozporządzenia nie stosuje się do funkcjonariuszy ponoszących wspólną odpowiedzialność majątkową, o której mowa w art. 11 ustawy z dnia 7 maja 1999 r. o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego (Dz. U. z 2018 r. poz. 2349). ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

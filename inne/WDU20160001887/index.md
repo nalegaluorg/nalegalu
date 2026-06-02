@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-04 |
 | Data wydania | 2016-11-23 |
-| Wejście w życie | 2016-11-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001887) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1887/text.pdf) |
 
@@ -37,7 +36,7 @@ source: "eli-html"
 2. W dziedzinach nieobjętych programem studiów wyższych, o których mowa w ust. 1, pracami konserwatorskimi, pracami restauratorskimi lub badaniami konserwatorskimi, prowadzonymi przy zabytkach wpisanych do rejestru albo na Listę Skarbów Dziedzictwa, kieruje osoba, która posiada:
 
 - **1)** świadectwo ukończenia szkoły średniej zawodowej oraz tytuł zawodowy albo wykształcenie średnie i dyplom potwierdzający posiadanie kwalifikacji zawodowych w zawodach odpowiadających danej dziedzinie lub
-- **2)** dyplom mistrza w zawodzie odpowiadającym danej dziedzinie oraz która przez co najmniej 4 lata brała udział w pracach konserwatorskich, pracach restauratorskich lub badaniach konserwatorskich, prowadzonych przy zabytkach wpisanych do rejestru, na Listę Skarbów Dziedzictwa, do inwentarza muzeum będącego instytucją kultury lub innych zabytkach zaliczanych do jednej z kategorii, o których mowa w art. 64 ust. 1. ” ;
+- **2)** dyplom mistrza w zawodzie odpowiadającym danej dziedzinie – oraz która przez co najmniej 4 lata brała udział w pracach konserwatorskich, pracach restauratorskich lub badaniach konserwatorskich, prowadzonych przy zabytkach wpisanych do rejestru, na Listę Skarbów Dziedzictwa, do inwentarza muzeum będącego instytucją kultury lub innych zabytkach zaliczanych do jednej z kategorii, o których mowa w art. 64 ust. 1. ” ;
 - **3)** art. 37f otrzymuje brzmienie: „
 
 **Art. 37f.** Przy ustalaniu udziału w pracach konserwatorskich, pracach restauratorskich lub badaniach konserwatorskich, robotach budowlanych lub badaniach architektonicznych, prowadzonych przy zabytkach wpisanych do rejestru albo na Listę Skarbów Dziedzictwa, uwzględnia się udział w tych pracach, badaniach lub robotach, prowadzonych przy zabytkach niewpisanych do rejestru, o ile były one prowadzone przed dniem 26 sierpnia 2011 r. ” ;

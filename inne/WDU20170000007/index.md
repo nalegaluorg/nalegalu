@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 21 grudnia 2016 r. w sprawie zasadniczych wymagań dotyczących ograniczenia stosowania niektórych niebezpiecznych substancji w sprzęcie elektrycznym i elektronicznym
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 21 grudnia 2016 r. w sprawie zasadniczych wymagań dotyczących ograniczenia stosowania niektórych niebezpiecznych substancji w sprzęcie elektrycznym i elektronicznym Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-21 |
 | Data wydania | 2017-01-03 |
-| Wejście w życie | 2017-01-18 |
 | Ostatnia zmiana | 2024-07-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000007) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/7/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 9 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2016 r. poz. 655 i 1228) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2011/65/UE z dnia 8 czerwca 2011 r. w sprawie ograniczenia stosowania niektórych niebezpiecznych substancji w sprzęcie elektrycznym i elektronicznym (Dz. Urz. UE L 174 z 01.07.2011, str. 88, Dz. Urz. UE L 209 z 04.08.2012, str. 18, Dz. Urz. UE L 348 z 18.12.2012, str. 16 i 18, Dz. Urz. UE L 4 z 09.01.2014, str. 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73 i 75, Dz. Urz. UE L 148 z 20.05.2014, str. 72, 74, 76, 78, 80, 82, 84 i 86, Dz. Urz. UE L 94 z 10.04.2015, str. 4 i 6, Dz. Urz. UE L 137 z 04.06.2015, str. 10, Dz. Urz. UE L 101 z 16.04.2016, str. 12 oraz Dz. Urz. UE L 168 z 25.06.2016, str. 13 i 15). Na podstawie art. 9 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2016 r. poz. 655 i 1228) zarządza się, co następuje:
 § 1.
 1.
 Rozporządzenie określa:
@@ -101,7 +100,7 @@ ftalanu diizobutylu oznaczonego symbolem „DIBP”;
 2)
 0,01% – w przypadku kadmu.
 2.
-Przepisu ust. 1 nie stosuje się w przypadkach określonych w załączniku III lub IV do dyrektywy Parlamentu Europejskiego i Rady 2011/65/UE z dnia 8 czerwca 2011 r. w sprawie ograniczenia stosowania niektórych niebezpiecznych substancji w sprzęcie elektrycznym i elektronicznym (Dz. Urz. UE L 174 z 01.07.2011, str. 88, z późn. zm.) , zwanej dalej „dyrektywą 2011/65/UE”.
+Przepisu ust. 1 nie stosuje się w przypadkach określonych w załączniku III lub IV do dyrektywy Parlamentu Europejskiego i Rady 2011/65/UE z dnia 8 czerwca 2011 r. w sprawie ograniczenia stosowania niektórych niebezpiecznych substancji w sprzęcie elektrycznym i elektronicznym (Dz. Urz. UE L 174 z 01.07.2011, str. 88, z późn. zm.Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 209 z 04.08.2012, str. 18, Dz. Urz. UE L 348 z 18.12.2012, str. 16 i 18, Dz. Urz. UE L 4 z 09.01.2014, str. 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73 i 75, Dz. Urz. UE L 148 z 20.05.2014, str. 72, 74, 76, 78, 80, 82, 84 i 86, Dz. Urz. UE L 94 z 10.04.2015, str. 4 i 6, Dz. Urz. UE L 137 z 04.06.2015, str. 10, Dz. Urz. UE L 101 z 16.04.2016, str. 12 oraz Dz. Urz. UE L 168 z 25.06.2016, str. 13 i 15.) , zwanej dalej „dyrektywą 2011/65/UE”.
 3.
 Ograniczenie substancji, o których mowa w ust. 1 pkt 1 lit. f-h, nie ma zastosowania do zabawek.
 § 5.
@@ -197,6 +196,5 @@ Udostępnianie SEE wprowadzonego do obrotu przed dniem 25 maja 2013 r. i niespe�
 § 11.
 Traci moc rozporządzenie Ministra Gospodarki z dnia 8 maja 2013 r. w sprawie zasadniczych wymagań dotyczących ograniczenia stosowania niektórych niebezpiecznych substancji w sprzęcie elektrycznym i elektronicznym (Dz. U. poz. 547).
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 4 ust. 1 pkt 1 lit. f-i, które wchodzą w życie z dniem 22 lipca 2019 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2011/65/UE z dnia 8 czerwca 2011 r. w sprawie ograniczenia stosowania niektórych niebezpiecznych substancji w sprzęcie elektrycznym i elektronicznym (Dz. Urz. UE L 174 z 01.07.2011, str. 88, Dz. Urz. UE L 209 z 04.08.2012, str. 18, Dz. Urz. UE L 348 z 18.12.2012, str. 16 i 18, Dz. Urz. UE L 4 z 09.01.2014, str. 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73 i 75, Dz. Urz. UE L 148 z 20.05.2014, str. 72, 74, 76, 78, 80, 82, 84 i 86, Dz. Urz. UE L 94 z 10.04.2015, str. 4 i 6, Dz. Urz. UE L 137 z 04.06.2015, str. 10, Dz. Urz. UE L 101 z 16.04.2016, str. 12 oraz Dz. Urz. UE L 168 z 25.06.2016, str. 13 i 15). 3) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 209 z 04.08.2012, str. 18, Dz. Urz. UE L 348 z 18.12.2012, str. 16 i 18, Dz. Urz. UE L 4 z 09.01.2014, str. 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73 i 75, Dz. Urz. UE L 148 z 20.05.2014, str. 72, 74, 76, 78, 80, 82, 84 i 86, Dz. Urz. UE L 94 z 10.04.2015, str. 4 i 6, Dz. Urz. UE L 137 z 04.06.2015, str. 10, Dz. Urz. UE L 101 z 16.04.2016, str. 12 oraz Dz. Urz. UE L 168 z 25.06.2016, str. 13 i 15.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 4 ust. 1 pkt 1 lit. f-i, które wchodzą w życie z dniem 22 lipca 2019 r. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2011/65/UE z dnia 8 czerwca 2011 r. w sprawie ograniczenia stosowania niektórych niebezpiecznych substancji w sprzęcie elektrycznym i elektronicznym (Dz. Urz. UE L 174 z 01.07.2011, str. 88, Dz. Urz. UE L 209 z 04.08.2012, str. 18, Dz. Urz. UE L 348 z 18.12.2012, str. 16 i 18, Dz. Urz. UE L 4 z 09.01.2014, str. 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73 i 75, Dz. Urz. UE L 148 z 20.05.2014, str. 72, 74, 76, 78, 80, 82, 84 i 86, Dz. Urz. UE L 94 z 10.04.2015, str. 4 i 6, Dz. Urz. UE L 137 z 04.06.2015, str. 10, Dz. Urz. UE L 101 z 16.04.2016, str. 12 oraz Dz. Urz. UE L 168 z 25.06.2016, str. 13 i 15). 3) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 209 z 04.08.2012, str. 18, Dz. Urz. UE L 348 z 18.12.2012, str. 16 i 18, Dz. Urz. UE L 4 z 09.01.2014, str. 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73 i 75, Dz. Urz. UE L 148 z 20.05.2014, str. 72, 74, 76, 78, 80, 82, 84 i 86, Dz. Urz. UE L 94 z 10.04.2015, str. 4 i 6, Dz. Urz. UE L 137 z 04.06.2015, str. 10, Dz. Urz. UE L 101 z 16.04.2016, str. 12 oraz Dz. Urz. UE L 168 z 25.06.2016, str. 13 i 15.
 

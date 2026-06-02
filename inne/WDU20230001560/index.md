@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o ochotniczych strażach pożarnych oraz niektórych innych ustaw
+# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o ochotniczych strażach pożarnych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej, ustawę z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym oraz ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-07 |
 | Data wydania | 2023-08-08 |
-| Wejście w życie | 2023-09-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001560) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1560/text.pdf) |
 
@@ -90,7 +89,7 @@ source: "eli-html"
 1a. Ekwiwalent pieniężny otrzymują również:
 
 - **1)** kandydat na strażaka ratownika OSP, o którym mowa w art. 9 ust. 2 pkt 1,
-- **2)** strażak ratownik OSP, który brał udział w działaniach, o których mowa w art. 3 pkt 7 stosownie do posiadanych przez gminę środków finansowych. ” , ust. 2 otrzymuje brzmienie: „
+- **2)** strażak ratownik OSP, który brał udział w działaniach, o których mowa w art. 3 pkt 7 – stosownie do posiadanych przez gminę środków finansowych. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Wysokość ekwiwalentu pieniężnego ustala, nie rzadziej niż raz na 2 lata, właściwa rada gminy w drodze uchwały. Wysokość ekwiwalentu pieniężnego nie może przekraczać 1/175 przeciętnego wynagrodzenia miesięcznego brutto, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251 i 1429) przed dniem ustalenia ekwiwalentu pieniężnego. Ekwiwalent pieniężny nalicza się za każdą rozpoczętą godzinę liczoną od zgłoszenia wyjazdu z jednostki ochotniczej straży pożarnej lub gotowości do wyjazdu w celu realizowania zadań, o których mowa w art. 3 pkt 7, bez względu na liczbę wyjazdów w ciągu jednej godziny, a w przypadku kandydata na strażaka ratownika OSP – za każdą rozpoczętą godzinę szkolenia. Ekwiwalent pieniężny jest wypłacany z budżetu właściwej gminy. ” ;
@@ -172,7 +171,7 @@ source: "eli-html"
 - **3)** wzór dyplomu stwierdzającego nadanie odznaki, o której mowa w ust. 1 pkt 1,
 - **4)** tryb przedstawiania wniosku o nadanie odznaki, o której mowa w ust. 1 pkt 1,
 - **5)** tryb wręczania odznaki, o której mowa w ust. 1 pkt 1, wraz z dyplomem,
-- **6)** sposób noszenia odznaki, o której mowa w ust. 1 pkt 1 kierując się uroczystym charakterem wręczania odznaki, potrzebą ujednolicenia sposobu składania wniosku oraz wzornictwem stosowanym w polskiej falerystyce. ” ;
+- **6)** sposób noszenia odznaki, o której mowa w ust. 1 pkt 1 – kierując się uroczystym charakterem wręczania odznaki, potrzebą ujednolicenia sposobu składania wniosku oraz wzornictwem stosowanym w polskiej falerystyce. ” ;
 - **15)** w art. 50: w ust. 5 dodaje się zdanie drugie w brzmieniu: „ Pełnienie funkcji publicznej lub zatrudnienie w urzędzie obsługującym organ administracji samorządowej, o którym mowa w zdaniu pierwszym, nie jest wymagane dla całego okresu, który ma potwierdzić. ” , ust. 6 otrzymuje brzmienie: „
     - **a)**
     - **b)**
@@ -221,7 +220,7 @@ source: "eli-html"
 **Art. 9.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 14 ust. 7 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 14 ust. 7 ustawy zmienianej w art. 1,
-- **2)** art. 30 ust. 2 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 30 ust. 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+- **2)** art. 30 ust. 2 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 30 ust. 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą – jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 10.**
 
@@ -229,5 +228,5 @@ source: "eli-html"
 
 2. W razie śmierci osoby, której przyznano prawo do świadczenia ratowniczego przed dniem wejścia w życie niniejszej ustawy i która nie pobrała należnej z tego tytułu wypłaty, termin na złożenie wniosku o wypłatę tego świadczenia przez osoby, o których mowa w art. 47 ust. 1 ustawy, o której mowa w ust. 1, wynosi 1 miesiąc od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej, ustawę z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym oraz ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 30 października 2018 r. w sprawie warunków technicznych dozoru technicznego w zakresie eksploatacji, napraw i modernizacji urządzeń transportu bliskiego
+# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 30 października 2018 r. w sprawie warunków technicznych dozoru technicznego w zakresie eksploatacji, napraw i modernizacji urządzeń transportu bliskiego Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,29 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-30 |
 | Data wydania | 2018-11-21 |
-| Wejście w życie | 2018-12-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002176) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2176/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Dokumentacja Rozdział 3 – Ogólne warunki eksploatacji, modernizacji i napraw UTB Rozdział 4 – Rodzaje i zakres badań technicznych Rozdział 5 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Dokumentacja
+
+#### Rozdział 3 – Ogólne warunki eksploatacji, modernizacji i napraw UTB
+
+#### Rozdział 4 – Rodzaje i zakres badań technicznych
+
+#### Rozdział 5 – Przepisy przejściowe i końcowe
 
 ## Załącznik nr 1 — – Formy dozoru technicznego utb oraz terminy badań okresowych i doraźnych kontrolnych
 
 ## Załącznik nr 2 — – Terminy wykonywania przeglądów konserwacyjnych UTB
 
 Treść rozporządzenia
-Na podstawie art. 8 ust. 4 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2018 r. poz. 1351 i 1356) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 28 czerwca 2018 r. pod numerem 2018/302/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę 2015/1535 (UE) Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 8 ust. 4 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2018 r. poz. 1351 i 1356) zarządza się, co następuje:
+Rozdział 1
+Przepisy ogólne
 § 1.
 Rozporządzenie określa warunki techniczne dozoru technicznego w zakresie eksploatacji, napraw i modernizacji następujących urządzeń transportu bliskiego:
 1)
@@ -68,8 +78,7 @@ przenośników kabinowych i krzesełkowych o ruchu obrotowym, przeznaczonych do 
 15)
 urządzeń technicznych służących do przemieszczania kontenerów przy pracach przeładunkowych,
 16)
-przeciągarek pojazdów szynowych
-zwanych dalej „UTB”.
+przeciągarek pojazdów szynowych – zwanych dalej „UTB”.
 § 2.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
@@ -91,7 +100,8 @@ Terminy badań okresowych i doraźnych kontrolnych UTB określa załącznik nr 1
 W przypadkach uzasadnionych stanem technicznym, mającym wpływ na bezpieczne funkcjonowanie UTB, termin kolejnego badania technicznego UTB może być skrócony na podstawie decyzji organu właściwej jednostki dozoru technicznego.
 3.
 Terminy badań doraźnych mogą wynikać również z bieżących potrzeb.
-Rozdział 2 Dokumentacja
+Rozdział 2
+Dokumentacja
 § 4.
 1.
 Eksploatujący, zgłaszając UTB do organu właściwej jednostki dozoru technicznego, dołącza dwa egzemplarze dokumentacji, o której mowa w ust. 2.
@@ -120,10 +130,11 @@ schematy zasilania UTB, ze wskazaniem w szczególności osprzętu, wielkości i 
 3)
 poświadczenie prawidłowości montażu i przeprowadzonych prób, z wyłączeniem dźwigów oraz ich elementów bezpieczeństwa, które spełniają wymagania dotyczące oceny zgodności określone w odrębnych przepisach;
 4)
-protokoły pomiarów rezystancji izolacji obwodów elektrycznych, uziemień roboczych i odgromowych oraz ochrony przeciwporażeniowej instalacji UTB, zatwierdzone przez osobę spełniającą wymagania kwalifikacyjne dla stanowiska dozoru, o której mowa w przepisach wydanych na podstawie art. 54 ust. 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2018 r. poz. 755, z późn. zm.);
+protokoły pomiarów rezystancji izolacji obwodów elektrycznych, uziemień roboczych i odgromowych oraz ochrony przeciwporażeniowej instalacji UTB, zatwierdzone przez osobę spełniającą wymagania kwalifikacyjne dla stanowiska dozoru, o której mowa w przepisach wydanych na podstawie art. 54 ust. 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2018 r. poz. 755, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 685, 771, 1000, 1356, 1629 i 1637.);
 5)
 poświadczenie prawidłowości wykonania części konstrukcyjno-budowlanej obiektu związanej z UTB, o ile ma to zastosowanie.
-Rozdział 3 Ogólne warunki eksploatacji, modernizacji i napraw UTB
+Rozdział 3
+Ogólne warunki eksploatacji, modernizacji i napraw UTB
 § 5.
 1.
 UTB eksploatuje się zgodnie z warunkami określonymi w dokumentacji, o której mowa w § 4 ust. 2.
@@ -138,8 +149,7 @@ eksploatacja UTB w warunkach kolizyjnych,
 4)
 brak możliwości obserwacji przez obsługującego całej drogi, jaką pokonuje ładunek,
 5)
-eksploatacja UTB w pobliżu napowietrznych linii elektroenergetycznych
-eksploatujący opracowuje szczegółowe warunki eksploatacji, opisujące czynności organizacyjno-techniczne podejmowane w celu zminimalizowania ryzyka związanego z eksploatacją UTB.
+eksploatacja UTB w pobliżu napowietrznych linii elektroenergetycznych – eksploatujący opracowuje szczegółowe warunki eksploatacji, opisujące czynności organizacyjno-techniczne podejmowane w celu zminimalizowania ryzyka związanego z eksploatacją UTB.
 3.
 W przypadku, o którym mowa w ust. 2 pkt 1, eksploatujący uzgadnia szczegółowe warunki eksploatacji z organem właściwej jednostki dozoru technicznego.
 § 6.
@@ -240,7 +250,8 @@ Konserwujący po dokonaniu sprawdzeń, o których mowa w ust. 1, jeżeli zakońc
 Wprzypadku modernizacji lub naprawy UTB ich zakres oraz dokumentację uzgadnia się z organem właściwej jednostki dozoru technicznego.
 2.
 Modernizację lub naprawę UTB rozpoczyna się po uzgodnieniu, o którym mowa w ust. 1.
-Rozdział 4 Rodzaje i zakres badań technicznych
+Rozdział 4
+Rodzaje i zakres badań technicznych
 § 12.
 1.
 Organ właściwej jednostki dozoru technicznego przeprowadza:
@@ -313,8 +324,7 @@ dźwigników przenośnych,
 5)
 wózków jezdniowych podnośnikowych z mechanicznym napędem podnoszenia,
 6)
-wyciągów towarowych przewoźnych i przenośnych
-które zostały wprowadzone do obrotu i nieoddane do użytku.
+wyciągów towarowych przewoźnych i przenośnych – które zostały wprowadzone do obrotu i nieoddane do użytku.
 § 15.
 1.
 Po zakończeniu badania odbiorczego jeden egzemplarz dokumentacji, o którym mowa w § 4 ust. 1, dołącza się do księgi rewizyjnej UTB, a drugi egzemplarz pozostaje w aktach organu właściwej jednostki dozoru technicznego.
@@ -407,8 +417,7 @@ sprawdzenie dokumentacji uzupełniającej, o której mowa w § 4 ust. 3,
 5)
 sprawdzenie prawidłowości zainstalowania i przeznaczenia UTB, zgodnie z instrukcją eksploatacji UTB,
 6)
-przeprowadzenie prób funkcjonowania UTB w zainstalowanej wersji montażowej, z obciążeniem wystarczającym do stwierdzenia, że sterowanie i ruchy robocze UTB, mechanizmy i urządzenia zabezpieczające i ochronne działają prawidłowo
-o ile nie uzgodniono z organem właściwej jednostki dozoru technicznego innego zakresu badania.
+przeprowadzenie prób funkcjonowania UTB w zainstalowanej wersji montażowej, z obciążeniem wystarczającym do stwierdzenia, że sterowanie i ruchy robocze UTB, mechanizmy i urządzenia zabezpieczające i ochronne działają prawidłowo – o ile nie uzgodniono z organem właściwej jednostki dozoru technicznego innego zakresu badania.
 § 18.
 1.
 Po zmianie miejsca pracy UTB związanej z jego demontażem i ponownym montażem nie wymagają badań doraźnych eksploatacyjnych:
@@ -446,7 +455,8 @@ Terminy badań wyznacza się, podając miesiąc i rok.
 W przypadku pierwszego badania okresowego lub doraźnego eksploatacyjnego termin badania ustala się, licząc od dnia wydania decyzji zezwalającej na eksploatację.
 3.
 W przypadku gdy badanie doraźne eksploatacyjne obejmowało pełny zakres odpowiedniego badania okresowego, za zgodą eksploatującego termin kolejnego badania okresowego może być ustalony od dnia wykonania badania doraźnego eksploatacyjnego.
-Rozdział 5 Przepisy przejściowe i końcowe
+Rozdział 5
+Przepisy przejściowe i końcowe
 § 23.
 Do czynności dozoru technicznego rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 24.
@@ -458,8 +468,7 @@ rozporządzenie Ministra Gospodarki z dnia 28 grudnia 2001 r. w sprawie warunkó
 3)
 rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 29 października 2003 r. w sprawie warunków technicznych dozoru technicznego w zakresie eksploatacji niektórych urządzeń transportu bliskiego (Dz. U. poz. 1890).
 § 25.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 28 czerwca 2018 r. pod numerem 2018/302/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę 2015/1535 (UE) Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 685, 771, 1000, 1356, 1629 i 1637.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 28 czerwca 2018 r. pod numerem 2018/302/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę 2015/1535 (UE) Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 685, 771, 1000, 1356, 1629 i 1637.
 
 ## Załącznik nr 1 — – Formy dozoru technicznego utb oraz terminy badań okresowych i doraźnych kontrolnych
 

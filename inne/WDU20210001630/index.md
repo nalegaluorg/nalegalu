@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-07-23 |
 | Data wydania | 2021-09-06 |
-| Wejście w życie | 2021-09-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001630) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1630/text.pdf) |
 
@@ -49,7 +48,7 @@ source: "eli-html"
 7. Zmiana nazwy niepublicznej uczelni zawodowej na nazwę zawierającą wyrazy „akademia nauk stosowanych” może nastąpić, jeżeli uczelnia spełnia łącznie warunki, o których mowa w ust. 1a, na dzień złożenia wniosku, o którym mowa w ust. 6, oraz spełniała je w zakresie ust. 1a:
 
 - **1)** pkt 2–5 – w okresie 2 lat akademickich,
-- **2)** pkt 6 – w okresie 3 lat akademickich poprzedzających rok akademicki, w którym złożono wniosek.
+- **2)** pkt 6 – w okresie 3 lat akademickich – poprzedzających rok akademicki, w którym złożono wniosek.
 
 8. W przypadku, o którym mowa w ust. 6, weryfikacja spełniania przez uczelnię niepubliczną warunków, o których mowa w ust. 1–3, jest przeprowadzana na podstawie danych zawartych w systemie, o którym mowa w art. 342 ust. 1, z tym że spełnianie warunków, o których mowa w:
 
@@ -62,7 +61,7 @@ source: "eli-html"
 2b. Zmiana nazwy publicznej uczelni zawodowej na nazwę zawierającą wyrazy „akademia nauk stosowanych” może nastąpić, jeżeli uczelnia spełnia łącznie warunki, o których mowa w art. 16 ust. 1a, na dzień przekazania informacji, o której mowa w ust. 2a, oraz spełniała je w zakresie art. 16 ust. 1a:
 
 - **1)** pkt 2–5 – w okresie 2 lat akademickich,
-- **2)** pkt 6 – w okresie 3 lat akademickich poprzedzających rok akademicki, w którym przekazano informację.
+- **2)** pkt 6 – w okresie 3 lat akademickich – poprzedzających rok akademicki, w którym przekazano informację.
 
 2c. W przypadku, o którym mowa w ust. 2a, weryfikacja spełniania przez uczelnię warunków, o których mowa w art. 16 ust. 1a, jest przeprowadzana na podstawie danych zawartych w systemie, o którym mowa w art. 342 ust. 1, według stanu na dzień przekazania informacji, o której mowa w ust. 2a, a w odniesieniu do lat akademickich w okresach wskazanych w ust. 2b – na podstawie danych wprowadzonych do tego systemu w poszczególnych latach. ” ;
 
@@ -77,12 +76,12 @@ source: "eli-html"
 5a. Uczelnia zawodowa, o której mowa w ust. 4 pkt 2, może uzyskać pozwolenie na utworzenie studiów przygotowujących do wykonywania zawodu nauczyciela bez konieczności zawarcia porozumienia, o którym mowa w ust. 5, jeżeli spełnia łącznie warunki, o których mowa w art. 16 ust. 1a, na dzień złożenia wniosku, o którym mowa w art. 54 ust. 1, oraz spełniała je w zakresie art. 16 ust. 1a:
 
 - **1)** pkt 2–5 – w okresie 2 lat akademickich,
-- **2)** pkt 6 – w okresie 3 lat akademickich poprzedzających rok akademicki, w którym złożono wniosek.
+- **2)** pkt 6 – w okresie 3 lat akademickich – poprzedzających rok akademicki, w którym złożono wniosek.
 
 5b. Uczelnia zawodowa prowadząca studia przygotowujące do wykonywania zawodu nauczyciela może je prowadzić bez konieczności posiadania porozumienia, o którym mowa w ust. 5, jeżeli zawiadomi ministra o łącznym spełnianiu warunków, o których mowa w art. 16 ust. 1a, na dzień złożenia tego zawiadomienia oraz o spełnianiu tych warunków w zakresie art. 16 ust. 1a:
 
 - **1)** pkt 2–5 – w okresie 2 lat akademickich,
-- **2)** pkt 6 – w okresie 3 lat akademickich poprzedzających rok akademicki, w którym złożono zawiadomienie.
+- **2)** pkt 6 – w okresie 3 lat akademickich – poprzedzających rok akademicki, w którym złożono zawiadomienie.
 
 5c. W przypadkach, o których mowa w ust. 5a i 5b, weryfikacja spełniania przez uczelnię warunków, o których mowa w art. 16 ust. 1a, jest przeprowadzana na podstawie danych zawartych w systemie, o którym mowa w art. 342 ust. 1, według stanu na dzień złożenia odpowiednio wniosku o pozwolenie albo zawiadomienia, a w odniesieniu do lat akademickich w okresach wskazanych w ust. 5a i 5b – na podstawie danych wprowadzonych do tego systemu w poszczególnych latach.
 
@@ -96,7 +95,7 @@ source: "eli-html"
 **Art. 2.** W ustawie z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z 2019 r. poz. 39 i 534 oraz z 2020 r. poz. 695, 875 i 1086) w art. 206 po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „ 2a. Do dnia 31 grudnia 2022 r. pozwolenie na utworzenie studiów przygotowujących do wykonywania zawodu nauczyciela bez konieczności zawarcia porozumienia, o którym mowa w ust. 2, może uzyskać uczelnia zawodowa, która nie posiada uprawnienia do nadawania stopnia doktora w dyscyplinie, do której jest przyporządkowany kierunek studiów, jeżeli spełnia łącznie warunki, o których mowa w art. 16 ust. 1a ustawy, o której mowa w art. 1, na dzień złożenia wniosku o to pozwolenie oraz spełniała je w zakresie art. 16 ust. 1a:
 
 - **1)** pkt 2–5 tej ustawy – w okresie 2 lat akademickich,
-- **2)** pkt 6 tej ustawy – w okresie 3 lat akademickich poprzedzających rok akademicki, w którym złożono wniosek.
+- **2)** pkt 6 tej ustawy – w okresie 3 lat akademickich – poprzedzających rok akademicki, w którym złożono wniosek.
 
 2b. W przypadku, o którym mowa w ust. 2a, weryfikacja spełniania przez uczelnię warunków, o których mowa w art. 16 ust. 1a ustawy, o której mowa w art. 1, jest przeprowadzana na podstawie danych zawartych w systemie, o którym mowa w art. 342 ust. 1 tej ustawy, według stanu na dzień złożenia wniosku o pozwolenie, a w odniesieniu do lat akademickich w okresach wskazanych w ust. 2a – na podstawie danych wprowadzonych do tego systemu w poszczególnych latach.
 
@@ -107,12 +106,12 @@ source: "eli-html"
 1. Uczelnia zawodowa prowadząca w dniu wejścia w życie niniejszej ustawy studia przygotowujące do wykonywania zawodu nauczyciela zgodnie z art. 212 ust. 2 pkt 1 albo na podstawie pozwolenia wydanego zgodnie z art. 206 ust. 2 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce może je prowadzić bez konieczności posiadania porozumienia, o którym mowa w art. 206 ust. 2 tej ustawy, jeżeli w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy zawiadomiła ministra właściwego do spraw szkolnictwa wyższego i nauki o łącznym spełnianiu warunków, o których mowa w art. 16 ust. 1a ustawy zmienianej w art. 1, na dzień złożenia tego zawiadomienia oraz o ich spełnianiu w zakresie art. 16 ust. 1a:
 
 - **1)** pkt 2–5 tej ustawy – w okresie 2 lat akademickich,
-- **2)** pkt 6 tej ustawy – w okresie 3 lat akademickich poprzedzających rok akademicki, w którym złożono zawiadomienie.
+- **2)** pkt 6 tej ustawy – w okresie 3 lat akademickich – poprzedzających rok akademicki, w którym złożono zawiadomienie.
 
 2. Uczelnia zawodowa prowadząca w dniu wejścia w życie niniejszej ustawy studia przygotowujące do wykonywania zawodu nauczyciela zgodnie z art. 212 ust. 2 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce może kontynuować przyjęcia na te studia bez ograniczenia, o którym mowa w tym przepisie, jeżeli w terminie do dnia 31 grudnia 2022 r. zawiadomi ministra właściwego do spraw szkolnictwa wyższego i nauki o łącznym spełnianiu warunków, o których mowa w art. 16 ust. 1a ustawy zmienianej w art. 1, na dzień złożenia tego zawiadomienia oraz o ich spełnianiu w zakresie art. 16 ust. 1a:
 
 - **1)** pkt 2–5 tej ustawy – w okresie 2 lat akademickich,
-- **2)** pkt 6 tej ustawy – w okresie 3 lat akademickich poprzedzających rok akademicki, w którym złożono zawiadomienie.
+- **2)** pkt 6 tej ustawy – w okresie 3 lat akademickich – poprzedzających rok akademicki, w którym złożono zawiadomienie.
 
 3. W przypadkach, o których mowa w ust. 1 i 2, przepisy art. 206 ust. 2b i 2c ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce stosuje się odpowiednio.
 

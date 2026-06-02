@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 27 września 2017 r. w sprawie audiowizyjnego systemu kontroli gier
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 27 września 2017 r. w sprawie audiowizyjnego systemu kontroli gier Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-27 |
 | Data wydania | 2017-10-03 |
-| Wejście w życie | 2017-10-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001833) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1833/text.pdf) |
 
@@ -58,6 +57,5 @@ System kontroli gier powinien umożliwiać wykorzystanie zapisu sygnału audiowi
 § 4.
 Traci moc rozporządzenie Ministra Finansów z dnia 6 kwietnia 2012 r. w sprawie audiowizyjnego systemu kontroli gier w kasynie gry (Dz. U. poz. 416).
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 grudnia 2019 r. o zmianie niektórych ustaw w celu ułatwienia zwalczania chorób zakaźnych zwierząt
+# Ustawa z dnia 20 grudnia 2019 r. o zmianie niektórych ustaw w celu ułatwienia zwalczania chorób zakaźnych zwierząt Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 13 października 1995 r. – Prawo łowieckie, ustawę z dnia 21 maja 1999 r. o broni i amunicji, ustawę z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, ustawę z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego, ustawę z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, ustawę z dnia 22 marca 2018 r. o zmianie ustawy – Prawo łowieckie oraz niektórych innych ustaw i ustawę z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-20 |
 | Data wydania | 2020-01-30 |
-| Wejście w życie | 2020-01-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000148) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/148/text.pdf) |
 
@@ -30,7 +29,7 @@ source: "eli-html"
 
 - **3)** działania związane z zapobieganiem dalszemu rozprzestrzenianiu się afrykańskiego pomoru świń, nakazane w trybie art. 46 ust. 3 pkt 8l ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2018 r. poz. 1967 oraz z 2020 r. poz. 148). ” .
 
-**Art. 2.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2019 r. poz. 1186, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2019 r. poz. 1186, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1309, 1524, 1696, 1712, 1815, 2166 i 2170.) wprowadza się następujące zmiany:
 
 - **1)** w art. 29 w ust. 1 w pkt 29 kropkę zastępuje się średnikiem i dodaje się pkt 30 w brzmieniu: „
 - **30)** niecek dezynfekcyjnych, w tym niecek dezynfekcyjnych z zadaszeniem. ” ;
@@ -127,8 +126,15 @@ source: "eli-html"
 
 1b. W przypadku wydania nakazów, o których mowa w ust. 1 pkt 8, 8g, 8i i 8j, właściciele lub posiadacze gruntów, których dotyczą te nakazy, oraz osoby trzecie są obowiązani do powstrzymania się od podejmowania czynności utrudniających lub uniemożliwiających realizację tych nakazów. ” ;
 
-- **2)** w art. 46: w ust. 3: – pkt 8d otrzymuje brzmienie: „ 8d) nakazuje zarządcom dróg publicznych: a) zamykanie znajdujących się w pasach drogowych przejść dla zwierząt lub b) wykonywanie przeszkód technicznych, w szczególności budowę ogrodzeń lub zabezpieczeń technicznych, lub c) wykładanie mat dezynfekcyjnych, a także ich utrzymywanie po wyłożeniu w stanie zapewniającym skuteczne działanie środka dezynfekcyjnego; ” , – po pkt 8k dodaje się pkt 8l w brzmieniu: „ 8l) nakazuje właściwemu nadleśniczemu Państwowego Gospodarstwa Leśnego Lasy Państwowe wykonywanie na określonym obszarze ogrodzeń ograniczających lub zatrzymujących migrację zwierząt z terenów leśnych; ” , ust. 3a otrzymuje brzmienie: „
+- **2)** w art. 46: w ust. 3: pkt 8d otrzymuje brzmienie: „
     - **a)**
+
+- **8d)** nakazuje zarządcom dróg publicznych: zamykanie znajdujących się w pasach drogowych przejść dla zwierząt lub wykonywanie przeszkód technicznych, w szczególności budowę ogrodzeń lub zabezpieczeń technicznych, lub wykładanie mat dezynfekcyjnych, a także ich utrzymywanie po wyłożeniu w stanie zapewniającym skuteczne działanie środka dezynfekcyjnego; ” , po pkt 8k dodaje się pkt 8l w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **8l)** nakazuje właściwemu nadleśniczemu Państwowego Gospodarstwa Leśnego Lasy Państwowe wykonywanie na określonym obszarze ogrodzeń ograniczających lub zatrzymujących migrację zwierząt z terenów leśnych; ” , ust. 3a otrzymuje brzmienie: „
     - **b)**
 
 3a. Podmiotowi, który poniósł koszty związane z realizacją nakazów, o których mowa w ust. 3 pkt 8b, 8d lit. c, pkt 8e i 9, przysługuje ze środków budżetu państwa zwrot kosztów faktycznie poniesionych w związku z realizacją tych nakazów. ” , po ust. 3a dodaje się ust. 3b i 3c w brzmieniu: „
@@ -215,5 +221,5 @@ source: "eli-html"
 
 2. Do budowli, o których mowa w ust. 1, stosuje się przepisy art. 58 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 12.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 12.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 13 października 1995 r. – Prawo łowieckie, ustawę z dnia 21 maja 1999 r. o broni i amunicji, ustawę z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, ustawę z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego, ustawę z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, ustawę z dnia 22 marca 2018 r. o zmianie ustawy – Prawo łowieckie oraz niektórych innych ustaw i ustawę z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1309, 1524, 1696, 1712, 1815, 2166 i 2170.
 

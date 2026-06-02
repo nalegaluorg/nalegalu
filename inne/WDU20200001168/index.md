@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 17 czerwca 2020 r. w sprawie badań lotniczo-lekarskich
+# Rozporządzenie Ministra Infrastrukturyz dnia 17 czerwca 2020 r. w sprawie badań lotniczo-lekarskich Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-17 |
 | Data wydania | 2020-07-01 |
-| Wejście w życie | 2020-07-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001168) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1168/text.pdf) |
 
@@ -59,7 +58,7 @@ orzeczeniu lekarskim – należy przez to rozumieć orzeczenie o zdolności lub 
 4)
 podmiocie uprawnionym – należy przez to rozumieć centrum medycyny lotniczej oraz lekarza orzecznika medycyny lotniczej;
 5)
-rozporządzeniu (UE) nr 1178/2011 – należy przez to rozumieć rozporządzenie Komisji (UE) nr 1178/2011 z dnia 3 listopada 2011 r. ustanawiające wymagania techniczne i procedury administracyjne odnoszące się do załóg w lotnictwie cywilnym zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 311 z 25.11.2011, str. 1, z późn. zm.);
+rozporządzeniu (UE) nr 1178/2011 – należy przez to rozumieć rozporządzenie Komisji (UE) nr 1178/2011 z dnia 3 listopada 2011 r. ustanawiające wymagania techniczne i procedury administracyjne odnoszące się do załóg w lotnictwie cywilnym zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 311 z 25.11.2011, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 100 z 05.04.2012, str. 1, Dz. Urz. UE L 23 z 28.01.2014, str. 25, Dz. Urz. UE L 74 z 14.03.2014, str. 33, Dz. Urz. UE L 74 z 18.03.2015, str. 1, Dz. Urz. UE L 91 z 07.04.2016, str. 1, Dz. Urz. UE L 149 z 13.06.2017, str. 98, Dz. Urz. UE L 192 z 30.07.2018, str. 31, Dz. Urz. UE L 204 z 13.08.2018, str. 13, Dz. Urz. UE L 326 z 20.12.2018, str. 1, Dz. Urz. UE L 8 z 10.01.2019, str. 1, Dz. Urz. UE L 75 z 19.03.2019, str. 66, Dz. Urz. UE L 268 z 22.10.2019, str. 23 oraz Dz. Urz. UE L 67 z 05.03.2020, str. 82.);
 6)
 rozporządzeniu (UE) nr 2015/340 – należy przez to rozumieć rozporządzenie Komisji (UE) 2015/340 z dnia 20 lutego 2015 r. ustanawiające wymagania techniczne i procedury administracyjne dotyczące licencji i certyfikatów kontrolerów ruchu lotniczego zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008, zmieniające rozporządzenie wykonawcze Komisji (UE) nr 923/2012 i uchylające rozporządzenie Komisji (UE) nr 805/2011 (Dz. Urz. UE L 63 z 06.03.2015, str. 1);
 7)
@@ -81,7 +80,7 @@ Badania przeprowadza się po potwierdzeniu tożsamości osoby, która ma być ba
 1.
 Badania przeprowadza się z uwzględnieniem wymagań w zakresie sprawności psychicznej i fizycznej, o których mowa odpowiednio w przepisach wydanych na podstawie art. 95 ust. 5 oraz art. 104 ust. 2 ustawy.
 2.
-Przeprowadzając badania nawigatorów lotniczych oraz mechaników pokładowych uwzględnia się pkt 6.1, 6.2 i 6.4 rozdziału 6 Załącznika 1 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212 i 214, z późn. zm.), ogłoszonego w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego zgodnie z art. 23 ust. 2 pkt 1 ustawy.
+Przeprowadzając badania nawigatorów lotniczych oraz mechaników pokładowych uwzględnia się pkt 6.1, 6.2 i 6.4 rozdziału 6 Załącznika 1 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212 i 214, z późn. zm.Zmiany wymienionej umowy zostały ogłoszone w Dz. U. z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371.), ogłoszonego w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego zgodnie z art. 23 ust. 2 pkt 1 ustawy.
 § 5.
 1.
 Po przeprowadzeniu badań podmiot uprawniony wydaje orzeczenie lekarskie.
@@ -123,8 +122,7 @@ pilotom balonowym,
 14)
 pilotom szybowcowym rekreacyjnym,
 15)
-pilotom szybowcowym
-określa ARA.MED.130 załącznika VI do rozporządzenia (UE) nr 1178/2011.
+pilotom szybowcowym – określa ARA.MED.130 załącznika VI do rozporządzenia (UE) nr 1178/2011.
 2.
 Wzór orzeczenia lekarskiego wydawanego:
 1)
@@ -152,8 +150,7 @@ nawigatorom lotniczym,
 12)
 mechanikom pokładowym,
 13)
-dyspozytorom lotniczym
-określa załącznik nr 1 do rozporządzenia.
+dyspozytorom lotniczym – określa załącznik nr 1 do rozporządzenia.
 3.
 Wzór orzeczenia lekarskiego wydawanego kontrolerom ruchu lotniczego oraz praktykantom-kontrolerom ruchu lotniczego określa ATCO.AR.F.005 załącznika II do rozporządzenia (UE) nr 2015/340.
 4.
@@ -175,8 +172,7 @@ Badania okresowe osób posiadających świadectwo kwalifikacji członka personel
 1)
 60 miesięcy – do ukończenia 40. roku życia,
 2)
-24 miesiące – po ukończeniu 40. roku życia
-chyba że w orzeczeniu lekarskim wyznaczono krótszy termin.
+24 miesiące – po ukończeniu 40. roku życia – chyba że w orzeczeniu lekarskim wyznaczono krótszy termin.
 2.
 Jeżeli osoba, o której mowa w ust. 1, nie podda się badaniom okresowym w okresie dwukrotnie dłuższym niż wynika to z częstotliwości wykonywania tych badań dla danego wieku albo z orzeczenia lekarskiego, podlega ona badaniom, które są przeprowadzane jak badania wstępne.
 § 9.
@@ -226,8 +222,7 @@ Orzeczenia lekarskie wydane przed dniem wejścia w życie rozporządzenia zachow
 § 12.
 Do kontroli przeprowadzania badań i orzekania wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 13.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 100 z 05.04.2012, str. 1, Dz. Urz. UE L 23 z 28.01.2014, str. 25, Dz. Urz. UE L 74 z 14.03.2014, str. 33, Dz. Urz. UE L 74 z 18.03.2015, str. 1, Dz. Urz. UE L 91 z 07.04.2016, str. 1, Dz. Urz. UE L 149 z 13.06.2017, str. 98, Dz. Urz. UE L 192 z 30.07.2018, str. 31, Dz. Urz. UE L 204 z 13.08.2018, str. 13, Dz. Urz. UE L 326 z 20.12.2018, str. 1, Dz. Urz. UE L 8 z 10.01.2019, str. 1, Dz. Urz. UE L 75 z 19.03.2019, str. 66, Dz. Urz. UE L 268 z 22.10.2019, str. 23 oraz Dz. Urz. UE L 67 z 05.03.2020, str. 82. 3) Zmiany wymienionej umowy zostały ogłoszone w Dz. U. z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 27 maja 2013 r. w sprawie badań lotniczo-lekarskich (Dz. U. z 2017 r. poz. 129), które zgodnie z art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 27 maja 2013 r. w sprawie badań lotniczo-lekarskich (Dz. U. z 2017 r. poz. 129), które zgodnie z art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 100 z 05.04.2012, str. 1, Dz. Urz. UE L 23 z 28.01.2014, str. 25, Dz. Urz. UE L 74 z 14.03.2014, str. 33, Dz. Urz. UE L 74 z 18.03.2015, str. 1, Dz. Urz. UE L 91 z 07.04.2016, str. 1, Dz. Urz. UE L 149 z 13.06.2017, str. 98, Dz. Urz. UE L 192 z 30.07.2018, str. 31, Dz. Urz. UE L 204 z 13.08.2018, str. 13, Dz. Urz. UE L 326 z 20.12.2018, str. 1, Dz. Urz. UE L 8 z 10.01.2019, str. 1, Dz. Urz. UE L 75 z 19.03.2019, str. 66, Dz. Urz. UE L 268 z 22.10.2019, str. 23 oraz Dz. Urz. UE L 67 z 05.03.2020, str. 82. 3) Zmiany wymienionej umowy zostały ogłoszone w Dz. U. z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 27 maja 2013 r. w sprawie badań lotniczo-lekarskich (Dz. U. z 2017 r. poz. 129), które zgodnie z art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 
 ## Załącznik nr 1 — – Orzeczenie o zdolności lub niezdolności do wykonywania lotów i innych czynności lotniczych dla specjalności personelu lotniczego, o których mowa w § 6 ust. 2 rozporządzenia Ministra Infrastruktury z dnia 17 czerwca 2020 r. w sprawie badań lotniczo-lekarskich (wzór)
 
@@ -255,8 +250,7 @@ data badania lotniczo-lekarskiego;
 11)
 data wydania orzeczenia lotniczo-lekarskiego i podpis lekarza, który wydał to orzeczenie;
 12)
-odcisk pieczęci lub stempla.
-Uwagi: Papier lub inny materiał wykorzystane do wydania orzeczenia lotniczo-lekarskiego uniemożliwiają wprowadzanie jakichkolwiek zmian lub pozwalają na łatwe rozpoznawanie wprowadzonych zmian. Datę wpisuje się w formacie: dd/mm/rrrr.
+odcisk pieczęci lub stempla. Uwagi: Papier lub inny materiał wykorzystane do wydania orzeczenia lotniczo-lekarskiego uniemożliwiają wprowadzanie jakichkolwiek zmian lub pozwalają na łatwe rozpoznawanie wprowadzonych zmian. Datę wpisuje się w formacie: dd/mm/rrrr.
 
 ## Załącznik nr 2 — – Raport medyczny wydawany członkom personelu pokładowego (wzór)
 
@@ -286,6 +280,5 @@ data wydania raportu medycznego i podpis lekarza, który wydał ten raport medyc
 12)
 data wygaśnięcia raportu medycznego;
 13)
-odcisk pieczęci lub stempla.
-Uwagi: Papier lub inny materiał wykorzystane do wydania raportu medycznego uniemożliwiają wprowadzanie jakichkolwiek zmian lub pozwalają na łatwe rozpoznawanie wprowadzonych zmian. Datę wpisuje się w formacie: dd/mm/rrrr.
+odcisk pieczęci lub stempla. Uwagi: Papier lub inny materiał wykorzystane do wydania raportu medycznego uniemożliwiają wprowadzanie jakichkolwiek zmian lub pozwalają na łatwe rozpoznawanie wprowadzonych zmian. Datę wpisuje się w formacie: dd/mm/rrrr.
 

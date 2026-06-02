@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-24 |
 | Data wydania | 2022-11-15 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002318) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2318/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 18b ust. 4 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 18b ust. 4 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1728 i 2448 oraz z 2022 r. poz. 655, 1115, 1855 i 1933.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -49,8 +48,7 @@ Badanie wydychanego powietrza przeprowadza się w sposób nieinwazyjny przy uży
 1)
 spektrometrii w podczerwieni lub
 2)
-utleniania elektrochemicznego
-zwanego dalej „analizatorem wydechu”.
+utleniania elektrochemicznego – zwanego dalej „analizatorem wydechu”.
 2.
 Badania analizatorem wydechu nie przeprowadza się przed upływem 15 minut od chwili zakończenia spożywania alkoholu, palenia wyrobów tytoniowych, w tym palenia nowatorskich wyrobów tytoniowych, palenia papierosów elektronicznych lub używania wyrobów tytoniowych bezdymnych przez osobę badaną.
 § 4.
@@ -147,5 +145,5 @@ Osobę badaną, jeżeli jest to możliwe, informuje się o możliwości odmowy z
 § 9.
 Protokoły, o których mowa w § 6 ust. 1 i § 8 ust. 1, przechowuje się przez 5 lat od dnia przeprowadzenia badania.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1728 i 2448 oraz z 2022 r. poz. 655, 1115, 1855 i 1933.
 

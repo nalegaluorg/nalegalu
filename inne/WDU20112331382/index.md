@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 września 2011 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 16 września 2011 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników oraz ustawę z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-09-16 |
 | Data wydania | 2011-11-02 |
-| Wejście w życie | 2011-12-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112331382) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1382/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2007 r. Nr 231, poz. 1700, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2007 r. Nr 231, poz. 1700, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 42, poz. 340, Nr 98, poz. 817 i Nr 157, poz. 1241 oraz z 2010 r. Nr 48, poz. 287, Nr 96, poz. 620, Nr 143, poz. 963, Nr 238, poz. 1578 i Nr 257, poz. 1726.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6 w ust. 1 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
 - **10)** wykonywania praw z udziałów i akcji w spółkach hodowli roślin uprawnych oraz hodowli zwierząt gospodarskich o szczególnym znaczeniu dla gospodarki narodowej. ” ;
@@ -34,7 +33,7 @@ source: "eli-html"
 
 **Art. 6a.**
 
-1. W celu realizacji zadań określonych w art. 6 Agencja uprawniona jest do wykorzystywania danych zgromadzonych w systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, o którym mowa w ustawie z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2004 r. Nr 10, poz. 76, z późn. zm.).
+1. W celu realizacji zadań określonych w art. 6 Agencja uprawniona jest do wykorzystywania danych zgromadzonych w systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, o którym mowa w ustawie z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2004 r. Nr 10, poz. 76, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 92, poz. 638, Nr 144, poz. 1045 i Nr 187, poz. 1381, z 2007 r. Nr 35, poz. 217, Nr 49, poz. 328 i Nr 64, poz. 427, z 2008 r. Nr 98, poz. 634 i Nr 145, poz. 918, z 2010 r. Nr 36, poz. 197 oraz z 2011 r. Nr 171, poz. 1016.).
 
 2. Agencja Restrukturyzacji i Modernizacji Rolnictwa udostępnia nieodpłatnie Agencji dane, o których mowa w ust. 1. ” ;
 
@@ -118,14 +117,14 @@ source: "eli-html"
 - **6)** zamiany nieruchomości. ” , w ust. 5 pkt 3 otrzymuje brzmienie: „
     - **b)**
 
-- **3)** osobom bezrobotnym bez prawa do zasiłku, które przez okres co najmniej 5 lat były pracownikami państwowych przedsiębiorstw gospodarki rolnej – nieruchomości rolne o powierzchni do 2 hektarów – na cele związane z zalesianiem, o którym mowa w przepisach ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.). ” , ust. 5a otrzymuje brzmienie: „
+- **3)** osobom bezrobotnym bez prawa do zasiłku, które przez okres co najmniej 5 lat były pracownikami państwowych przedsiębiorstw gospodarki rolnej – nieruchomości rolne o powierzchni do 2 hektarów – na cele związane z zalesianiem, o którym mowa w przepisach ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 76, poz. 490 i Nr 148, poz. 993 oraz z 2011 r. Nr 205, poz. 1202.). ” , ust. 5a otrzymuje brzmienie: „
     - **c)**
 
 5a. W przypadku zbycia lub przeznaczenia przez nabywcę nieruchomości na inne cele, niż określone w umowie, przed upływem 10 lat licząc od dnia jej nabycia Agencja występuje do podmiotu wymienionego w ust. 5 pkt 1 z żądaniem zwrotu aktualnej wartości pieniężnej tej nieruchomości, ustalonej według zasad określonych w art. 30 ust. 1, natomiast od osób wymienionych w ust. 5 pkt 3, Agencji zwrot taki przysługuje, o ile Lasy Państwowe nie skorzystają z prawa pierwokupu. W przypadku zamiaru zbycia gruntu przez osoby, o których mowa w ust. 5 pkt 3, Lasom Państwowym przysługuje prawo pierwokupu tej nieruchomości, na zasadach określonych w przepisach o gospodarce nieruchomościami. ” , po ust. 5a dodaje się ust. 5aa w brzmieniu: „ 5aa. Agencja może odstąpić od żądania, o którym mowa w ust. 5a, w przypadku gdy:
 
 - **d)**
 - **1)** nieruchomość zostanie wykorzystana przez jednostkę samorządu terytorialnego na inny cel niż określony w umowie, jeżeli cel ten mieści się w zakresie określonym w ust. 5 pkt 1 lub
-- **2)** nieruchomość zostanie przekazana na cele publiczne, o których mowa w art. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651, z późn. zm.) nieodpłatnie, albo za odpłatnością stanowiącą równowartość poniesionych przez jednostkę samorządu terytorialnego udokumentowanych nakładów na przekazaną nieruchomość, lub
+- **2)** nieruchomość zostanie przekazana na cele publiczne, o których mowa w art. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 106, poz. 675, Nr 143, poz. 963, Nr 155, poz. 1043, Nr 197, poz. 1307 i Nr 200, poz. 1323 oraz z 2011 r. Nr 64, poz. 341, Nr 106, poz. 622, Nr 115, poz. 673, Nr 129, poz. 732, Nr 130, poz. 762, Nr 135, poz. 789, Nr 163, poz. 981, Nr 187, poz. 1110 i Nr 224, poz. 1337.) nieodpłatnie, albo za odpłatnością stanowiącą równowartość poniesionych przez jednostkę samorządu terytorialnego udokumentowanych nakładów na przekazaną nieruchomość, lub
 - **3)** nastąpi zwrot do Zasobu nieruchomości będącej przedmiotem nieodpłatnego przekazania. ” , ust. 7 otrzymuje brzmienie: „
     - **e)**
 
@@ -219,13 +218,13 @@ source: "eli-html"
 
 - **1)** dokumenty, jakie nabywca nieruchomości składa w celu ustalenia, czy jego sytuacja pozwala na spłatę należności rozłożonej na raty i na zabezpieczenie spłaty kwoty tej należności,
 - **2)** szczegółowe warunki rozkładania spłaty należności na raty,
-- **3)** wysokość oprocentowania należności, której spłata została rozłożona na raty mając na względzie należyte zabezpieczenie spłaty należności rozłożonej na roczne lub półroczne raty.
+- **3)** wysokość oprocentowania należności, której spłata została rozłożona na raty – mając na względzie należyte zabezpieczenie spłaty należności rozłożonej na roczne lub półroczne raty.
 
 **Art. 32.** Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy tryb sprzedaży nieruchomości Zasobu i ich części składowych, w tym tryb sprzedaży nieruchomości na rzecz użytkowników wieczystych, na rzecz osób uprawnionych do pierwszeństwa nabycia, o którym mowa w art. 29 ust. 1, a także sposób przeprowadzania publicznych przetargów ustnych (licytacji) i przetargów ofert, w tym ograniczonych do osób, o których mowa w art. 29 ust. 3, obejmujący wymagania dotyczące wadium,
 - **2)** szczegółowe warunki obniżania ceny sprzedaży nieruchomości wpisanej do rejestru zabytków,
-- **3)** stawki szacunkowe, o których mowa w art. 30 ust. 2, z uwzględnieniem rodzaju gruntu, jego klasy oraz okręgu podatkowego mając na względzie zapewnienie prawidłowej sprzedaży nieruchomości Zasobu. ” ;
+- **3)** stawki szacunkowe, o których mowa w art. 30 ust. 2, z uwzględnieniem rodzaju gruntu, jego klasy oraz okręgu podatkowego – mając na względzie zapewnienie prawidłowej sprzedaży nieruchomości Zasobu. ” ;
 - **20)** w art. 35 ust. 3 otrzymuje brzmienie: „
 
 3. Jednostki, o których mowa w art. 34, jeżeli odrębne przepisy nie stanowią inaczej, ponoszą z tytułu wykonywania zarządu nieruchomości opłaty roczne w zależności od sposobu wykorzystywania tych nieruchomości w wysokości określonej w art. 17b ust. 1. ” ;
@@ -274,7 +273,7 @@ source: "eli-html"
 
 1. Grunty Zasobu niezbędne do korzystania z budynków i lokali, o których mowa w art. 42–44, oraz grunty zabudowane niesłużące prowadzeniu działalności wytwórczej w rolnictwie uważa się za grunty wyłączone z produkcji rolnej w rozumieniu przepisów ustawy o ochronie gruntów rolnych i leśnych. ” .
 
-**Art. 2.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2008 r. Nr 50, poz. 291, z późn. zm.) w art. 58 ust. 2a otrzymuje brzmienie: „ 2a. Należności za odpłatne przejmowanie nieruchomości na własność Skarbu Państwa są pokrywane w całości ze środków uzyskanych przez Agencję Nieruchomości Rolnych z gospodarowania mieniem Zasobu Własności Rolnej Skarbu Państwa. ” .
+**Art. 2.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2008 r. Nr 50, poz. 291, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 67, poz. 411, Nr 70, poz. 416, Nr 180, poz. 1112, Nr 227, poz. 1505, Nr 228, poz. 1507 i Nr 237, poz. 1654 i 1656, z 2009 r. Nr 69, poz. 595, Nr 79, poz. 667 i Nr 97, poz. 800 oraz z 2011 r. Nr 106, poz. 622, Nr 149, poz. 887 i Nr 232, poz. 1378.) w art. 58 ust. 2a otrzymuje brzmienie: „ 2a. Należności za odpłatne przejmowanie nieruchomości na własność Skarbu Państwa są pokrywane w całości ze środków uzyskanych przez Agencję Nieruchomości Rolnych z gospodarowania mieniem Zasobu Własności Rolnej Skarbu Państwa. ” .
 
 **Art. 3.** W ustawie z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. Nr 64, poz. 592, z 2008 r. Nr 180, poz. 1112 oraz z 2010 r. Nr 110, poz. 725 i Nr 217, poz. 1427) wprowadza się następujące zmiany:
 
@@ -322,7 +321,7 @@ source: "eli-html"
 - **2)** prowadziła działalność rolniczą w gospodarstwie rolnym o obszarze nie mniejszym niż 1 ha stanowiącym jej własność, przedmiot użytkowania wieczystego, przedmiot samoistnego posiadania lub dzierżawy, lub
 - **3)** była zatrudniona w gospodarstwie rolnym na podstawie umowy o pracę lub spółdzielczej umowy o pracę, wykonując pracę związaną z prowadzeniem działalności rolniczej, lub
 - **4)** wykonywała pracę związaną z prowadzeniem działalności rolniczej w charakterze członka spółdzielni produkcji rolnej, lub
-- **5)** odbyła staż, o którym mowa w art. 53 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.), obejmujący wykonywanie czynności związanych z prowadzeniem działalności rolniczej.
+- **5)** odbyła staż, o którym mowa w art. 53 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 69, poz. 595, Nr 91, poz. 742, Nr 97, poz. 800, Nr 115, poz. 964, Nr 125, poz. 1035, Nr 127, poz. 1052, Nr 161, poz. 1278 i Nr 219, poz. 1706, z 2010 r. Nr 28, poz. 146, Nr 81, poz. 531, Nr 238, poz. 1578, Nr 239, poz. 1593, Nr 254, poz. 1700 i Nr 257, poz. 1725 i 1726 oraz z 2011 r. Nr 45, poz. 235, Nr 106, poz. 622, Nr 171, poz. 1016 i Nr 205, poz. 1206 i 1211.), obejmujący wykonywanie czynności związanych z prowadzeniem działalności rolniczej.
 
 4. Przy ustalaniu powierzchni użytków rolnych, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 5 ust. 2 i 3. ” ;
 
@@ -342,7 +341,7 @@ source: "eli-html"
 - **2)** wykaz zawodów, których posiadanie uznaje się za wykształcenie średnie rolnicze lub wykształcenie zasadnicze zawodowe rolnicze,
 - **3)** zagadnienia objęte zakresem studiów podyplomowych, ze względu na które uznaje się te studia za studia podyplomowe, których zakres jest związany z rolnictwem,
 - **4)** wykaz tytułów kwalifikacyjnych, tytułów zawodowych oraz tytułów zawodowych mistrza w zawodzie przydatnym do prowadzenia działalności rolniczej,
-- **5)** rodzaje dowodów potwierdzających posiadanie kwalifikacji rolniczych, o których mowa w art. 6 ust. 2 pkt 2 mając na względzie wykonywanie działalności rolniczej przez osoby posiadające kwalifikacje rolnicze.
+- **5)** rodzaje dowodów potwierdzających posiadanie kwalifikacji rolniczych, o których mowa w art. 6 ust. 2 pkt 2 – mając na względzie wykonywanie działalności rolniczej przez osoby posiadające kwalifikacje rolnicze.
 
 9. Dowodem potwierdzającym posiadanie kwalifikacji rolniczych mogą być również odpowiednie dokumenty wydane przez właściwe organy lub instytucje państw członkowskich Europejskiego Obszaru Gospodarczego oraz Konfederacji Szwajcarskiej. ” .
 
@@ -378,7 +377,7 @@ source: "eli-html"
 12. W odniesieniu do nieruchomości rolnych lub ich części, których dzierżawa jest niezbędna do:
 
 - **1)** wykonania obowiązków lub zobowiązań związanych z przyznaną danemu dzierżawcy przed dniem wejścia w życie niniejszej ustawy pomocą finansową współfinansowaną lub finansowaną z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich lub Europejskiego Funduszu Orientacji i Gwarancji Rolnej, lub
-- **2)** spełnienia warunków przyznania pomocy, o której mowa w pkt 1, jeżeli wniosek o jej przyznanie został złożony przed dniem wejścia w życie niniejszej ustawy, oraz wykonania obowiązków lub zobowiązań związanych z tą pomocą po jej przyznaniu termin wyłączenia użytków rolnych określa się najwcześniej na dzień następujący po dniu zakończenia przez dzierżawcę wykonywania obowiązków, zobowiązań lub spełnienia warunków, o których mowa w pkt 1 i 2.
+- **2)** spełnienia warunków przyznania pomocy, o której mowa w pkt 1, jeżeli wniosek o jej przyznanie został złożony przed dniem wejścia w życie niniejszej ustawy, oraz wykonania obowiązków lub zobowiązań związanych z tą pomocą po jej przyznaniu – termin wyłączenia użytków rolnych określa się najwcześniej na dzień następujący po dniu zakończenia przez dzierżawcę wykonywania obowiązków, zobowiązań lub spełnienia warunków, o których mowa w pkt 1 i 2.
 
 13. Termin, o którym mowa w ust. 12, określa się na wniosek dzierżawcy składany łącznie z oświadczeniem, o którym mowa w ust. 3 pkt 1.
 
@@ -408,5 +407,5 @@ source: "eli-html"
 
 **Art. 11.** Przepisy wykonawcze wydane na podstawie art. 32 i 37 ustawy wymienionej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 32 i 37 tej ustawy, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 12.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 12.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników oraz ustawę z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 42, poz. 340, Nr 98, poz. 817 i Nr 157, poz. 1241 oraz z 2010 r. Nr 48, poz. 287, Nr 96, poz. 620, Nr 143, poz. 963, Nr 238, poz. 1578 i Nr 257, poz. 1726. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 92, poz. 638, Nr 144, poz. 1045 i Nr 187, poz. 1381, z 2007 r. Nr 35, poz. 217, Nr 49, poz. 328 i Nr 64, poz. 427, z 2008 r. Nr 98, poz. 634 i Nr 145, poz. 918, z 2010 r. Nr 36, poz. 197 oraz z 2011 r. Nr 171, poz. 1016. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 76, poz. 490 i Nr 148, poz. 993 oraz z 2011 r. Nr 205, poz. 1202. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 106, poz. 675, Nr 143, poz. 963, Nr 155, poz. 1043, Nr 197, poz. 1307 i Nr 200, poz. 1323 oraz z 2011 r. Nr 64, poz. 341, Nr 106, poz. 622, Nr 115, poz. 673, Nr 129, poz. 732, Nr 130, poz. 762, Nr 135, poz. 789, Nr 163, poz. 981, Nr 187, poz. 1110 i Nr 224, poz. 1337. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 67, poz. 411, Nr 70, poz. 416, Nr 180, poz. 1112, Nr 227, poz. 1505, Nr 228, poz. 1507 i Nr 237, poz. 1654 i 1656, z 2009 r. Nr 69, poz. 595, Nr 79, poz. 667 i Nr 97, poz. 800 oraz z 2011 r. Nr 106, poz. 622, Nr 149, poz. 887 i Nr 232, poz. 1378. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 69, poz. 595, Nr 91, poz. 742, Nr 97, poz. 800, Nr 115, poz. 964, Nr 125, poz. 1035, Nr 127, poz. 1052, Nr 161, poz. 1278 i Nr 219, poz. 1706, z 2010 r. Nr 28, poz. 146, Nr 81, poz. 531, Nr 238, poz. 1578, Nr 239, poz. 1593, Nr 254, poz. 1700 i Nr 257, poz. 1725 i 1726 oraz z 2011 r. Nr 45, poz. 235, Nr 106, poz. 622, Nr 171, poz. 1016 i Nr 205, poz. 1206 i 1211.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 23 stycznia 2020 r. w sprawie pomocy publicznej na realizację projektów w zakresie zmniejszenia emisji hałasu przez wagony towarowe w ramach Programu Operacyjnego Infrastruktura i Środowisko na lata 2014–2020
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 23 stycznia 2020 r. w sprawie pomocy publicznej na realizację projektów w zakresie zmniejszenia emisji hałasu przez wagony towarowe w ramach Programu Operacyjnego Infrastruktura i Środowisko na lata 2014–2020 Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2263).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-23 |
 | Data wydania | 2020-02-06 |
-| Wejście w życie | 2020-02-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000185) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/185/text.pdf) |
 
@@ -36,8 +35,7 @@ Pomoc może być udzielona:
 1)
 przewoźnikowi kolejowemu w rozumieniu art. 4 pkt 9 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2019 r. poz. 710, 730, 1214, 1979 i 2020), zwanej dalej „ustawą o transporcie kolejowym”,
 2)
-dysponentowi w rozumieniu art. 4 pkt 6b ustawy o transporcie kolejowym
-mającemu siedzibę na terytorium jednego z państw członkowskich Unii Europejskiej lub Europejskiego Porozumienia o Wolnym Handlu (EFTA), na realizację projektu w zakresie zmniejszenia emisji hałasu przez wagony towarowe, polegającego na zastąpieniu żeliwnych wstawek hamulcowych wstawkami kompozytowymi oraz dostosowaniu pozostałych elementów wagonów towarowych do tego zastąpienia, zwanego dalej „projektem”.
+dysponentowi w rozumieniu art. 4 pkt 6b ustawy o transporcie kolejowym – mającemu siedzibę na terytorium jednego z państw członkowskich Unii Europejskiej lub Europejskiego Porozumienia o Wolnym Handlu (EFTA), na realizację projektu w zakresie zmniejszenia emisji hałasu przez wagony towarowe, polegającego na zastąpieniu żeliwnych wstawek hamulcowych wstawkami kompozytowymi oraz dostosowaniu pozostałych elementów wagonów towarowych do tego zastąpienia, zwanego dalej „projektem”.
 2.
 Pomoc może być udzielona lub wypłacona wyłącznie beneficjentowi:
 1)
@@ -55,7 +53,7 @@ wydatki kwalifikowalne na realizację projektu są ponoszone w zakresie określo
 3)
 wysokość pomocy nie przekracza dopuszczalnej intensywności pomocy, o której mowa w § 6;
 4)
-zobowiąże się, że projekt zachowa trwałość operacji, zgodnie z art. 71 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.);
+zobowiąże się, że projekt zachowa trwałość operacji, zgodnie z art. 71 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5 oraz Dz. Urz. UE L 123 z 10.05.2019, str. 1.;
 5)
 zobowiąże się, że tabor kolejowy objęty pomocą będzie wykorzystywany wyłącznie do przewozów towarowych mających swój początek lub koniec na terytorium Rzeczypospolitej Polskiej lub przebiegających przez terytorium Rzeczypospolitej Polskiej.
 § 4.
@@ -78,7 +76,7 @@ imię, nazwisko i dane kontaktowe osoby reprezentującej przedsiębiorcę ubiega
 4)
 informację, czy przedsiębiorca ubiegający się o udzielenie pomocy jest:
 a)
-małym lub średnim przedsiębiorstwem w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.),
+małym lub średnim przedsiębiorstwem w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28.,
 b)
 przedsiębiorstwem znajdującym się w trudnej sytuacji zdefiniowanej w pkt 20 wytycznych;
 5)
@@ -168,6 +166,5 @@ Beneficjent informuje CUPT o każdej innej pomocy publicznej lub pomocy de minim
 § 8.
 Pomoc może być udzielona w okresie obowiązywania decyzji Komisji Europejskiej, o której mowa odpowiednio w art. 4 ust. 3 albo art. 9 ust. 3 i 4 rozporządzenia Rady (UE) 2015/1589 z dnia 13 lipca 2015 r. ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 248 z 24.09.2015, str. 9), nie dłużej jednak niż do dnia 31 grudnia 2023 r.
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2263). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5 oraz Dz. Urz. UE L 123 z 10.05.2019, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2263). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5 oraz Dz. Urz. UE L 123 z 10.05.2019, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28.
 

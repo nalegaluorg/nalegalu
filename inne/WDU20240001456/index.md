@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-25 |
 | Data wydania | 2024-10-02 |
-| Wejście w życie | 2024-10-17 |
 | Ostatnia zmiana | 2024-10-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001456) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1456/text.pdf) |
 
@@ -33,105 +32,77 @@ W rozporządzeniu Rady Ministrów z dnia 27 października 2023 r. w sprawie przy
 1)
 w § 2:
 a)
-pkt 2 otrzymuje brzmienie:
-„
+pkt 2 otrzymuje brzmienie: „
 2)
-potrzeby służb mundurowych – potrzeby przedstawione przez Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego albo Szefa Agencji Wywiadu w zakresie udzielania świadczeń szpitalnych żołnierzom Sił Zbrojnych Rzeczypospolitej Polskiej, wojskom sojuszniczym i ich personelowi cywilnemu oraz funkcjonariuszom w razie zewnętrznego zagrożenia bezpieczeństwa państwa i w czasie wojny;
-” ,
+potrzeby służb mundurowych – potrzeby przedstawione przez Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego albo Szefa Agencji Wywiadu w zakresie udzielania świadczeń szpitalnych żołnierzom Sił Zbrojnych Rzeczypospolitej Polskiej, wojskom sojuszniczym i ich personelowi cywilnemu oraz funkcjonariuszom w razie zewnętrznego zagrożenia bezpieczeństwa państwa i w czasie wojny; ” ,
 b)
-pkt 4 otrzymuje brzmienie:
-„
+pkt 4 otrzymuje brzmienie: „
 4)
-przedstawiciel resortowy – osobę wskazaną przez Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego albo Szefa Agencji Wywiadu, upoważnioną do reprezentowania tego organu w sprawach udzielania świadczeń szpitalnych na potrzeby służb mundurowych oraz świadczeń zdrowotnych na potrzeby systemu kierowania bezpieczeństwem narodowym;
-” ;
+przedstawiciel resortowy – osobę wskazaną przez Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego albo Szefa Agencji Wywiadu, upoważnioną do reprezentowania tego organu w sprawach udzielania świadczeń szpitalnych na potrzeby służb mundurowych oraz świadczeń zdrowotnych na potrzeby systemu kierowania bezpieczeństwem narodowym; ” ;
 2)
-w § 3 po pkt 4 dodaje się pkt 4a w brzmieniu:
-„
+w § 3 po pkt 4 dodaje się pkt 4a w brzmieniu: „
 4a)
-Szefa Agencji Wywiadu;
-” ;
+Szefa Agencji Wywiadu; ” ;
 3)
-w § 5 dodaje się ust. 7 w brzmieniu:
-„
+w § 5 dodaje się ust. 7 w brzmieniu: „
 7.
-Zadania, o których mowa w ust. 1 i 2, przedstawiciel resortowy wykonuje w zakresie właściwości reprezentowanego organu.
-” ;
+Zadania, o których mowa w ust. 1 i 2, przedstawiciel resortowy wykonuje w zakresie właściwości reprezentowanego organu. ” ;
 4)
 w § 6 w ust. 6:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
-decyzji administracyjnej – w odniesieniu do zadań nakładanych na podmioty lecznicze inne niż określone w pkt 3;
-” ,
+decyzji administracyjnej – w odniesieniu do zadań nakładanych na podmioty lecznicze inne niż określone w pkt 3; ” ,
 b)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
-zarządzenia lub polecenia właściwego organu – w odniesieniu do zadań nakładanych przez właściwy organ na podmioty lecznicze będące jednostkami organizacyjnie podległymi temu organowi.
-” ;
+zarządzenia lub polecenia właściwego organu – w odniesieniu do zadań nakładanych przez właściwy organ na podmioty lecznicze będące jednostkami organizacyjnie podległymi temu organowi. ” ;
 5)
-w § 7 dodaje się ust. 8 w brzmieniu:
-„
+w § 7 dodaje się ust. 8 w brzmieniu: „
 8.
-W opracowywanych przez wojewodę instrukcjach dotyczących sporządzania planów, o których mowa w ust. 1, ustala się zakres i sposób przekazywania informacji o zadaniach realizowanych na terenie danej jednostki samorządu terytorialnego do organów tych jednostek przez podmioty lecznicze lub organy uczestniczące w opracowywaniu, uzgadnianiu i zatwierdzaniu planów, o których mowa w ust. 1.
-” ;
+W opracowywanych przez wojewodę instrukcjach dotyczących sporządzania planów, o których mowa w ust. 1, ustala się zakres i sposób przekazywania informacji o zadaniach realizowanych na terenie danej jednostki samorządu terytorialnego do organów tych jednostek przez podmioty lecznicze lub organy uczestniczące w opracowywaniu, uzgadnianiu i zatwierdzaniu planów, o których mowa w ust. 1. ” ;
 6)
 w § 8 uchyla się ust. 8;
 7)
 w § 9:
 a)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Informacje o potrzebach służb mundurowych są przekazywane wojewodom oraz ministrowi właściwemu do spraw zdrowia przez Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego oraz Szefa Agencji Wywiadu lub ich przedstawicieli resortowych.
-” ,
+Informacje o potrzebach służb mundurowych są przekazywane wojewodom oraz ministrowi właściwemu do spraw zdrowia przez Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego oraz Szefa Agencji Wywiadu lub ich przedstawicieli resortowych. ” ,
 b)
-ust. 7 otrzymuje brzmienie:
-„
+ust. 7 otrzymuje brzmienie: „
 7.
-Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw wewnętrznych, Szefem Agencji Bezpieczeństwa Wewnętrznego oraz Szefem Agencji Wywiadu opracowuje i przekazuje wojewodom wymagania dotyczące zabezpieczenia potrzeb służb mundurowych.
-” ;
+Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw wewnętrznych, Szefem Agencji Bezpieczeństwa Wewnętrznego oraz Szefem Agencji Wywiadu opracowuje i przekazuje wojewodom wymagania dotyczące zabezpieczenia potrzeb służb mundurowych. ” ;
 8)
-w § 10 w ust. 1 pkt 6 otrzymuje brzmienie:
-„
+w § 10 w ust. 1 pkt 6 otrzymuje brzmienie: „
 6)
 jest uzgadniany z:
 a)
 podmiotem tworzącym, w przypadku gdy podmiot tworzący nie jest organem właściwym w sprawie nakładania zadań na ten podmiot leczniczy,
 b)
-właściwym ministrem, właściwym centralnym organem administracji rządowej albo właściwą uczelnią medyczną – w przypadku podmiotów leczniczych będących spółką kapitałową, w której co najmniej 51 % udziałów albo akcji należy do Skarbu Państwa lub uczelni medycznej;
-” ;
+właściwym ministrem, właściwym centralnym organem administracji rządowej albo właściwą uczelnią medyczną – w przypadku podmiotów leczniczych będących spółką kapitałową, w której co najmniej 51 % udziałów albo akcji należy do Skarbu Państwa lub uczelni medycznej; ” ;
 9)
 w § 11:
 a)
-po ust. 7 dodaje się ust. 7a w brzmieniu:
-„
+po ust. 7 dodaje się ust. 7a w brzmieniu: „
 7a.
-W ramach uzgodnień, o których mowa w ust. 7, starosta w uzgodnieniu z właściwym miejscowo wójtem, burmistrzem, prezydentem miasta przedstawia wojewodzie informację na temat liczby, wielkości i lokalizacji zespołów zastępczych miejsc szpitalnych możliwych do zorganizowania na terenie powiatu.
-” ,
+W ramach uzgodnień, o których mowa w ust. 7, starosta w uzgodnieniu z właściwym miejscowo wójtem, burmistrzem, prezydentem miasta przedstawia wojewodzie informację na temat liczby, wielkości i lokalizacji zespołów zastępczych miejsc szpitalnych możliwych do zorganizowania na terenie powiatu. ” ,
 b)
-w ust. 8 pkt 2 otrzymuje brzmienie:
-„
+w ust. 8 pkt 2 otrzymuje brzmienie: „
 2)
-wyznacza podmiot leczniczy właściwy w zakresie udzielania świadczeń zdrowotnych w zespole zastępczych miejsc szpitalnych, we współpracy z innymi organami jednostek samorządu terytorialnego.
-” ;
+wyznacza podmiot leczniczy właściwy w zakresie udzielania świadczeń zdrowotnych w zespole zastępczych miejsc szpitalnych, we współpracy z innymi organami jednostek samorządu terytorialnego. ” ;
 10)
-w § 14 w ust. 6 pkt 4 otrzymuje brzmienie:
-„
+w § 14 w ust. 6 pkt 4 otrzymuje brzmienie: „
 4)
 jest uzgadniany z:
 a)
 podmiotem tworzącym, w przypadku podmiotów leczniczych będących samodzielnym publicznym zakładem opieki zdrowotnej lub jednostką budżetową,
 b)
-właściwym ministrem, właściwym centralnym organem administracji rządowej albo właściwą jednostką samorządu terytorialnego – w przypadku podmiotów leczniczych będących spółką kapitałową, w której co najmniej 51 % udziałów albo akcji należy do Skarbu Państwa lub jednostki samorządu terytorialnego;
-” ;
+właściwym ministrem, właściwym centralnym organem administracji rządowej albo właściwą jednostką samorządu terytorialnego – w przypadku podmiotów leczniczych będących spółką kapitałową, w której co najmniej 51 % udziałów albo akcji należy do Skarbu Państwa lub jednostki samorządu terytorialnego; ” ;
 11)
-w § 18 ust. 6 otrzymuje brzmienie:
-„
+w § 18 ust. 6 otrzymuje brzmienie: „
 6.
-Skierowanie osób, o których mowa w ust. 5, do pracy w podmiocie leczniczym realizującym zadania na potrzeby obronne państwa następuje w drodze decyzji, na wniosek kierownika tego podmiotu leczniczego.
-” ;
+Skierowanie osób, o których mowa w ust. 5, do pracy w podmiocie leczniczym realizującym zadania na potrzeby obronne państwa następuje w drodze decyzji, na wniosek kierownika tego podmiotu leczniczego. ” ;
 12)
 w § 21 w ust. 1 wyrazy „do 12 miesięcy od dnia wejścia w życie niniejszego rozporządzenia” zastępuje się wyrazami „do dnia 31 sierpnia 2025 r.”.
 § 2.

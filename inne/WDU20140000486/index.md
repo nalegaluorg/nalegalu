@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 marca 2014 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw
+# Ustawa z dnia 14 marca 2014 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2011/82/UE z dnia 25 października 2011 r. w sprawie ułatwień w zakresie transgranicznej wymiany informacji dotyczących przestępstw lub wykroczeń związanych z bezpieczeństwem ruchu drogowego (Dz. Urz. UE L 288 z 05.11.2011, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-03-14 |
 | Data wydania | 2014-04-15 |
-| Wejście w życie | 2014-04-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000486) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/486/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) wprowadza się następujące zmiany:
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 29 sierpnia 1997 r. o strażach gminnych, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej oraz ustawę z dnia 23 października 2013 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw.
+Krajowy Punkt Kontaktowy
+
+**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312.) wprowadza się następujące zmiany:
 
 - **1)** odnośnik nr 1 otrzymuje brzmienie: „ Niniejsza ustawa wdraża postanowienia następujących dyrektyw Unii Europejskiej:
 - **1)** dyrektywy Rady z dnia 16 grudnia 1991 r. odnoszącej się do obowiązkowego stosowania pasów bezpieczeństwa i urządzeń przytrzymujących dla dzieci w pojazdach (91/671/EWG) (Dz. Urz. WE L 373 z 31.12.1991, str. 26, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 1, str. 353, z późn. zm.);
@@ -50,7 +52,7 @@ source: "eli-html"
 
 - **4)** w dziale III po rozdziale 2b dodaje się rozdział 2c w brzmieniu: „
 
-#### Rozdział 2c Krajowy Punkt Kontaktowy
+#### Rozdział 2c
 
 **Art. 80k.**
 
@@ -144,23 +146,23 @@ source: "eli-html"
 
 3. Każda zainteresowana osoba ma prawo do uzyskania informacji na temat własnych danych osobowych, które zostały przekazane innemu państwu członkowskiemu Unii Europejskiej, w tym informacji o dacie złożenia wniosku oraz o właściwym organie innego państwa członkowskiego Unii Europejskiej, który te dane osobowe uzyskał. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw transportu określi, w drodze rozporządzenia, wzór formularza do przekazywania informacji, o którym mowa w art. 80p ust. 4, kierując się zakresem informacji określonym w art. 80p ust. 1 oraz koniecznością ujednolicenia formy przekazywanych danych. ” .
 
-**Art. 2.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529, z 2013 r. poz. 628, 675, 1351, 1635 i 1650 oraz z 2014 r. poz. 24. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371.) wprowadza się następujące zmiany:
 
 - **1)** w art. 14 po ust. 5a dodaje się ust. 5b w brzmieniu: „
 
-5b. W celu wykonywania zadań w zakresie kontroli ruchu drogowego, o których mowa w art. 129 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), Policja może prowadzić wyszukiwania informacji za pośrednictwem Krajowego Punktu Kontaktowego, na zasadach określonych w art. 80k-80r tej ustawy. ” ;
+5b. W celu wykonywania zadań w zakresie kontroli ruchu drogowego, o których mowa w art. 129 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312 i 486.), Policja może prowadzić wyszukiwania informacji za pośrednictwem Krajowego Punktu Kontaktowego, na zasadach określonych w art. 80k-80r tej ustawy. ” ;
 
 - **2)** w art. 145j w ust. 4 w pkt 1 skreśla się wyrazy „(Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.)”.
 
-**Art. 3.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371, z 2012 r. poz. 627, 664, 769 i 951, z 2013 r. poz. 628, 675, 829, 1351 i 1650 oraz z 2014 r. poz. 463.) wprowadza się następujące zmiany:
 
 - **1)** po art. 10e dodaje się art. 10f w brzmieniu: „
 
-**Art. 10f.** W celu wykonywania zadań w zakresie kontroli ruchu drogowego, o których mowa w art. 129 ust. 4a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), Straż Graniczna może prowadzić wyszukiwania informacji za pośrednictwem Krajowego Punktu Kontaktowego, na zasadach określonych w art. 80k-80r tej ustawy. ” ;
+**Art. 10f.** W celu wykonywania zadań w zakresie kontroli ruchu drogowego, o których mowa w art. 129 ust. 4a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312 i 486.), Straż Graniczna może prowadzić wyszukiwania informacji za pośrednictwem Krajowego Punktu Kontaktowego, na zasadach określonych w art. 80k-80r tej ustawy. ” ;
 
 - **2)** w art. 11 w ust. 1 w pkt 8 skreśla się wyrazy „(Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.)”.
 
-**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. z 2013 r. poz. 1383) po art. 10a dodaje się art. 10b w brzmieniu: „ W celu wykonywania zadań w zakresie kontroli ruchu drogowego, o których mowa w art. 129b ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), straż może prowadzić wyszukiwania informacji za pośrednictwem Krajowego Punktu Kontaktowego, na zasadach określonych w art. 80k-80r tej ustawy. ” .
+**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. z 2013 r. poz. 1383) po art. 10a dodaje się art. 10b w brzmieniu: „ W celu wykonywania zadań w zakresie kontroli ruchu drogowego, o których mowa w art. 129b ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312 i 486.), straż może prowadzić wyszukiwania informacji za pośrednictwem Krajowego Punktu Kontaktowego, na zasadach określonych w art. 80k-80r tej ustawy. ” .
 
 **Art. 5.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, 765 i 1247) w art. 98 § 3 otrzymuje brzmienie: „
 
@@ -180,5 +182,5 @@ source: "eli-html"
 
 2. Następne sprawozdanie, o którym mowa w art. 80p ust. 1 ustawy zmienianej w art. 1, minister właściwy do spraw wewnętrznych przekazuje Komisji Europejskiej w terminie do dnia 6 maja 2016 r., za okres od dnia wejścia w życie ustawy do dnia 31 grudnia 2015 r. Krajowe podmioty uprawnione przekazują po raz pierwszy informacje, o których mowa w art. 80p ust. 4 ustawy zmienianej w art. 1, w terminie do dnia 15 marca 2016 r., za okres od dnia wejścia w życie ustawy do dnia 31 grudnia 2015 r.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2011/82/UE z dnia 25 października 2011 r. w sprawie ułatwień w zakresie transgranicznej wymiany informacji dotyczących przestępstw lub wykroczeń związanych z bezpieczeństwem ruchu drogowego (Dz. Urz. UE L 288 z 05.11.2011, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 29 sierpnia 1997 r. o strażach gminnych, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej oraz ustawę z dnia 23 października 2013 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529, z 2013 r. poz. 628, 675, 1351, 1635 i 1650 oraz z 2014 r. poz. 24. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312 i 486. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371, z 2012 r. poz. 627, 664, 769 i 951, z 2013 r. poz. 628, 675, 829, 1351 i 1650 oraz z 2014 r. poz. 463. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312 i 486. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611 oraz z 2014 r. poz. 312 i 486.
 

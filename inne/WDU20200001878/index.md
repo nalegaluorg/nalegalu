@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 21 października 2020 r. w sprawie wprowadzania do użytkowania w jednostkach ochrony przeciwpożarowej pojazdów pożarniczych używanych poza granicami kraju
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 21 października 2020 r. w sprawie wprowadzania do użytkowania w jednostkach ochrony przeciwpożarowej pojazdów pożarniczych używanych poza granicami kraju Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-10-21 |
 | Data wydania | 2020-10-26 |
-| Wejście w życie | 2020-10-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001878) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1878/text.pdf) |
 
@@ -107,15 +106,25 @@ Cofnięcie opinii jest poprzedzone analizą wyników kontroli, o której mowa w 
 § 6.
 Opłaty, o których mowa w art. 7a ust. 6 ustawy, ustala się na podstawie udokumentowanej liczby godzin pracy i stawki godzinowej instytutu badawczego Państwowej Straży Pożarnej, który wydał opinię lub przeprowadził kontrolę.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 Załącznik – Wymagania techniczno-użytkowe dla pojazdów
 1.
 WYMAGANIA TECHNICZNO-UŻYTKOWE DLA POJAZDÓW
 1.1.
 Wymagania ogólne Podział na klasy i kategorie oraz definicje pojazdów ustala się zgodnie z normą PN-EN 1846–1 oraz normą PN-EN 1846–2. Weryfikacja i badania przeprowadzone są dla w pełni wyposażonego pojazdu. Pojazd posiada dokument potwierdzający spełnienie wymagań odrębnych przepisów krajowych w sprawie warunków technicznych pojazdów. Pojazd oraz elementy jego wyposażenia są kompatybilne ze sprzętem, dla którego wydano dopuszczenie do użytkowania na podstawie art. 7 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej. Miejsce kierowcy jest zlokalizowane z przodu po lewej stronie kabiny – odpowiednio dla ruchu prawostronnego. Kolor pojazdu jest czerwony, z wyłączeniem ramy, żaluzji, błotników, zderzaków, podestów i przejść oraz wysięgników. Rama pojazdu, elementy konstrukcyjne zabudowy oraz kabiny nie mają żadnych widocznych oznak korozji wżerowej lub podobnej powodującej ubytki materiału. Elementy poszycia zewnętrznego kabiny oraz zabudowy nie mają pęknięć, ubytków oraz uszkodzeń. Wnętrze kabiny oraz elementy jego wyposażenia zapewniają bezpieczeństwo użytkowania, w szczególności są pozbawione ostrych krawędzi oraz innych uszkodzeń. Całość wyposażenia kabiny jest sprawna, a wszystkie przełączniki, dźwignie, cięgna oraz pozostałe elementy służące do obsługi wyposażenia pojazdu są oznakowane piktogramami lub napisami w języku polskim oraz działają płynnie, bez zacięć. Wszystkie elementy zabudowy są sprawne, pozbawione ostrych krawędzi, niepowodujące niebezpieczeństwa podczas normalnego użytkowania oraz innych uszkodzeń mogących powodować niebezpieczeństwo w trakcie normalnego użytkowania, a także widocznych oznak korozji wżerowej lub podobnej powodującej ubytki materiału. Żaluzje, drzwi, klapy, szuflady i tace ładunkowe są łatwe w obsłudze, działają bez zacięć. Szuflady, żaluzje, klapy i tace ładunkowe na sprzęt są blokowane automatycznie w pozycji zamkniętej, całkowicie otwartej oraz w pozycjach pośrednich, jeżeli jest to przewidziane. Jeśli wysokość uchwytów drzwi skrytek lub żaluzji w pozycji otwartej lub zamkniętej przekracza 2 m od poziomu podłoża dla pojazdu stojącego na poziomej powierzchni, to są zapewnione środki dostępu do uchwytów. Jeśli wyposażenie przeznaczone do przewożenia w pojeździe nie może być wyjęte bezpiecznie z poziomu podłoża, to są zapewnione środki dostępu. Skrytki są wentylowane, zabezpieczone przed działaniem warunków atmosferycznych i zapewniają odprowadzanie wody z ich wnętrza. Pojazd jest wyposażony w urządzenia ostrzegawcze świetlne i dźwiękowe pojazdu uprzywilejowanego. Jeśli istnieje możliwość uruchomienia pojazdu spoza miejsca kierowcy, to stosuje się blokadę zabezpieczającą pojazd przed ruszeniem. Dostęp do niebezpiecznych części ruchomych jest wyeliminowany przez konstrukcję pojazdu. Poziom płynów w pojeździe, a w szczególności oleju i płynu chłodniczego, w trakcie prowadzenia badań nie ulega widocznemu obniżeniu.
 1.2.
-Stateczność statyczna Przechył boczny wykonuje się dla pojazdu w pełni wyposażonego wraz ze środkami gaśniczymi oraz załogą. Pianotwórcze środki gaśnicze można zastąpić wodą, przyjmując jej gęstość 1 kg/dm3. Załogę zastępuje się masą zastępczą, przyjmując 90 kg na każdego członka załogi oraz kierowcę, wliczając w to ich wyposażenie. Minimalny statyczny kąt pochylenia pojazdu podano w tabeli poniżej*): Klasaw zależnościod masy(patrzPN-EN1846–1) L (lekka) M (średnia) S (ciężka) Kategoria (patrz PN-EN 1846–1) 1 (miejska) 2(uterenowiona) 3 (terenowa) 1 (miejska) 2(uterenowiona) 3 (terenowa) 1 (miejska) 2(uterenowiona) 3 (terenowa) Statyczny kątpochylenia δ (°) ≥32 ≥27 ≥27 ≥32 ≥27 ≥25 ≥32 ≥27 ≥25 *) Zmniejszenie kąta nachylenia dla poszczególnych pojazdów pożarniczych (patrz PN-EN 1846–1) ustala się po przeprowadzeniu oceny ryzyka.
+Stateczność statyczna Przechył boczny wykonuje się dla pojazdu w pełni wyposażonego wraz ze środkami gaśniczymi oraz załogą. Pianotwórcze środki gaśnicze można zastąpić wodą, przyjmując jej gęstość 1 kg/dm3. Załogę zastępuje się masą zastępczą, przyjmując 90 kg na każdego członka załogi oraz kierowcę, wliczając w to ich wyposażenie. Minimalny statyczny kąt pochylenia pojazdu podano w tabeli poniżej*):
+Klasa
+w zależności
+od masy
+(patrz
+PN-EN
+1846–1) L (lekka) M (średnia) S (ciężka) Kategoria (patrz PN-EN 1846–1) 1 (miejska) 2
+(uterenowiona) 3 (terenowa) 1 (miejska) 2
+(uterenowiona) 3 (terenowa) 1 (miejska) 2
+(uterenowiona) 3 (terenowa) Statyczny kąt
+pochylenia δ (°) ≥32 ≥27 ≥27 ≥32 ≥27 ≥25 ≥32 ≥27 ≥25
+*) Zmniejszenie kąta nachylenia dla poszczególnych pojazdów pożarniczych (patrz PN-EN 1846–1) ustala się po przeprowadzeniu oceny ryzyka.
 1.3.
 Sygnał cofania Pojazd jest wyposażony w sygnał dźwiękowy włączonego biegu wstecznego.
 1.4.

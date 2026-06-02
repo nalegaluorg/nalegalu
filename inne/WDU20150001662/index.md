@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-29 |
 | Data wydania | 2015-10-21 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001662) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1662/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 20 pkt 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 20 pkt 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418 i 1595.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom okręgowym i sądom rejonowym rozpoznawania spraw gospodarczych z obszarów właściwości innych sądów okręgowych i sądów rejonowych (Dz. U. poz. 1397, 1694 i 1783) § 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom okręgowym i sądom rejonowym rozpoznawania spraw gospodarczych z obszarów właściwości innych sądów okręgowych i sądów rejonowych (Dz. U. poz. 1397, 1694 i 1783) § 2 otrzymuje brzmienie: „
 § 2.
 Następującym sądom rejonowym przekazuje się rozpoznawanie spraw gospodarczych, spraw upadłościowych i restrukturyzacyjnych, spraw rejestru zastawów oraz spraw Krajowego Rejestru Sądowego z obszarów właściwości innych sądów rejonowych:
 1)
@@ -222,8 +220,7 @@ w obszarze właściwości Sądu Okręgowego w Zielonej Górze – Sądowi Rejono
 a)
 sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych: w Krośnie Odrzańskim, Nowej Soli, Świebodzinie, we Wschowie, w Żaganiu i Żarach,
 b)
-sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Gorzowie Wielkopolskim, Międzyrzeczu, Słubicach, Strzelcach Krajeńskich, Sulęcinie, Krośnie Odrzańskim, Nowej Soli, Świebodzinie, we Wschowie, w Żaganiu i Żarach.
-” .
+sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Gorzowie Wielkopolskim, Międzyrzeczu, Słubicach, Strzelcach Krajeńskich, Sulęcinie, Krośnie Odrzańskim, Nowej Soli, Świebodzinie, we Wschowie, w Żaganiu i Żarach. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418 i 1595.
 

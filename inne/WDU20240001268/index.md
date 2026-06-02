@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Finansówz dnia 14 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych, czynności dystrybucyjnych zakładu ubezpieczeń oraz czynności dystrybucyjnych zakładu reasekuracji
+# Obwieszczenie Ministra Finansówz dnia 14 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych, czynności dystrybucyjnych zakładu ubezpieczeń oraz czynności dystrybucyjnych zakładu reasekuracji Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -37,31 +37,25 @@ rozporządzeniem Ministra Finansów z dnia 20 listopada 2023 r. zmieniającym ro
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 i § 3 rozporządzenia Ministra Finansów z dnia 29 czerwca 2023 r. zmieniającego rozporządzenie w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych, czynności dystrybucyjnych zakładu ubezpieczeń oraz czynności dystrybucyjnych zakładu reasekuracji (Dz. U. poz. 1250), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Finansów z dnia 29 czerwca 2023 r. zmieniającego rozporządzenie w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych, czynności dystrybucyjnych zakładu ubezpieczeń oraz czynności dystrybucyjnych zakładu reasekuracji (Dz. U. poz. 1250), które stanowią: „
 § 2.
 1.
 Zakład ubezpieczeń albo zakład reasekuracji, który przed dniem wejścia w życie niniejszego rozporządzenia przekazał Komisji Nadzoru Finansowego opis funkcjonalności systemu teleinformatycznego, o którym mowa w § 8a ust. 4 rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, do czasu:
 1)
 przekazania Komisji Nadzoru Finansowego opisu funkcjonalności systemu teleinformatycznego oraz adresu strony internetowej na podstawie § 8a ust. 4 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, albo
 2)
-pozytywnej weryfikacji systemu teleinformatycznego oraz adresu strony internetowej przez Komisję Nadzoru Finansowego na podstawie § 8a ust. 4a rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem
-może przeprowadzać egzaminy, o których mowa w § 8a ust. 1 rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, zgodnie z przepisami dotychczasowymi, nie dłużej jednak niż w okresie 2 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
+pozytywnej weryfikacji systemu teleinformatycznego oraz adresu strony internetowej przez Komisję Nadzoru Finansowego na podstawie § 8a ust. 4a rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem – może przeprowadzać egzaminy, o których mowa w § 8a ust. 1 rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, zgodnie z przepisami dotychczasowymi, nie dłużej jednak niż w okresie 2 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 2.
 W przypadku, o którym mowa w ust. 1, przepisu § 8a ust. 5 rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, nie stosuje się.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2023 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2023 r. ” ;
 2)
-odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Finansów z dnia 20 listopada 2023 r. zmieniającego rozporządzenie w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych, czynności dystrybucyjnych zakładu ubezpieczeń oraz czynności dystrybucyjnych zakładu reasekuracji (Dz. U. poz. 2522), które stanowią: „ 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1238 z dnia 20 czerwca 2019 r. w sprawie ogólnoeuropejskiego indywidualnego produktu emerytalnego (OIPE) (Dz. Urz. UE L 198 z 25.07.2019, str. 1). ”
-„
+odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Finansów z dnia 20 listopada 2023 r. zmieniającego rozporządzenie w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych, czynności dystrybucyjnych zakładu ubezpieczeń oraz czynności dystrybucyjnych zakładu reasekuracji (Dz. U. poz. 2522), które stanowią: „ 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1238 z dnia 20 czerwca 2019 r. w sprawie ogólnoeuropejskiego indywidualnego produktu emerytalnego (OIPE) (Dz. Urz. UE L 198 z 25.07.2019, str. 1). ” „
 § 2.
 Przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem stosuje się po raz pierwszy do egzaminów dla osób ubiegających się o wykonywanie czynności agencyjnych albo czynności dystrybucyjnych zakładu ubezpieczeń przeprowadzanych po dniu 11 grudnia 2023 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
-Załącznik – Rozporządzenie Ministra Finansów z dnia 21 sierpnia 2018 r. w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych, czynności dystrybucyjnych zakładu ubezpieczeń oraz czynności dystrybucyjnych zakładu reasekuracji
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Załącznik – Rozporządzenie Ministra Finansów z dnia 21 sierpnia 2018 r. w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych, czynności dystrybucyjnych zakładu ubezpieczeń oraz czynności dystrybucyjnych zakładu reasekuracjiNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – instytucje finansowe kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 Na podstawie art. 19 ust. 6 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2024 r. poz. 1214) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -130,7 +124,7 @@ c)
 ustawa z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2023 r. poz. 2500),
 d)
 ustawa z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym (Dz. U. z 2024 r. poz. 583),
-e)
+eW brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 29 czerwca 2023 r. zmieniającego rozporządzenie w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych, czynności dystrybucyjnych zakładu ubezpieczeń oraz czynności dystrybucyjnych zakładu reasekuracji (Dz. U. poz. 1250), które weszło w życie z dniem 1 lipca 2023 r.)
 ustawa z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109);
 5)
 podstawowe zagadnienia z zakresu prawa cywilnego i gospodarczego:
@@ -219,12 +213,12 @@ ustawa z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z
 e)
 ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781),
 f)
-rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.),
+rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2.,
 g)
 ustawa z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124, 1285, 1723 i 1843 oraz z 2024 r. poz. 850 i 1222),
-h)
+hDodana przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 20 listopada 2023 r. zmieniającego rozporządzenie w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych, czynności dystrybucyjnych zakładu ubezpieczeń oraz czynności dystrybucyjnych zakładu reasekuracji (Dz. U. poz. 2522), które weszło w życie z dniem 7 grudnia 2023 r.)
 ustawa z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym (Dz. U. poz. 1843),
-i)
+iDodana przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 20 listopada 2023 r. zmieniającego rozporządzenie w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych, czynności dystrybucyjnych zakładu ubezpieczeń oraz czynności dystrybucyjnych zakładu reasekuracji (Dz. U. poz. 2522), które weszło w życie z dniem 7 grudnia 2023 r.)
 rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/1238 z dnia 20 czerwca 2019 r. w sprawie ogólnoeuropejskiego indywidualnego produktu emerytalnego (OIPE) (Dz. Urz. UE L 198 z 25.07.2019, str. 1);
 2)
 dział II – pozostałe ubezpieczenia osobowe oraz ubezpieczenia majątkowe:
@@ -332,7 +326,7 @@ Termin egzaminu jest ustalany przez zakład (zakłady) ubezpieczeń albo zakład
 O terminie i miejscu egzaminu oraz składzie komisji egzaminacyjnej zakład ubezpieczeń albo zakład reasekuracji powiadamia Komisję Nadzoru Finansowego nie później niż w terminie 10 dni przed ustalonym terminem.
 2.
 Powiadomienie zawiera datę, godzinę oraz adres, pod którym odbędzie się egzamin, oraz imiona i nazwiska osób wchodzących w skład komisji egzaminacyjnej.
-3.
+3Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Zakład ubezpieczeń albo zakład reasekuracji powiadamia Komisję Nadzoru Finansowego o każdej zmianie terminu oraz miejsca egzaminu niezwłocznie po dokonaniu zmiany, nie później niż na jeden dzień przed ustalonym terminem przeprowadzenia egzaminu.
 § 5.
 1.
@@ -405,24 +399,24 @@ Jeżeli egzamin dla osób ubiegających się o wykonywanie czynności dystrybucy
 Test dla osób, o których mowa w art. 19 ust. 3 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń, jeżeli osobiście nie wykonują one czynności agencyjnych, obejmuje zagadnienia, o których mowa w § 2 ust. 3 pkt 2 lit. a i d, pkt 4, 6 i w ust. 5 pkt 1 lit. e-g, i składa się z 40 pytań.
 10.
 Test dla osób ubiegających się o wykonywanie czynności agencyjnych albo czynności dystrybucyjnych zakładu ubezpieczeń, które zdały egzamin i zamierzają rozpocząć wykonywanie takich czynności na rzecz innego zakładu ubezpieczeń, obejmuje zagadnienia, o których mowa w § 2 ust. 6, i składa się z 30 pytań.
-11.
+11Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4..
 Test dla osób ubiegających się o wykonywanie czynności agencyjnych albo czynności dystrybucyjnych zakładu ubezpieczeń, które zdały egzamin i zamierzają rozpocząć wykonywanie takich czynności na rzecz innego zakładu ubezpieczeń wykonującego działalność ubezpieczeniową w innym dziale załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, obejmuje zagadnienia, o których mowa w § 2 ust. 6 oraz odpowiednio w § 2 ust. 5 pkt 1 lit. a-c, h oraz i albo § 2 ust. 5 pkt 2 lit. a-c, i składa się z 40 pytań.
 12.
 Test dla osób, o których mowa w ust. 6, które zdały egzamin i zamierzają rozpocząć wykonywanie na rzecz innego zakładu ubezpieczeń czynności agencyjnych w bankach lub spółdzielczych kasach oszczędnościowo-kredytowych jedynie w odniesieniu do umów ubezpieczenia lub umów gwarancji ubezpieczeniowych zawieranych przez te podmioty lub za ich pośrednictwem, obejmuje zagadnienia, o których mowa w § 2 ust. 6 pkt 1 i 2, i składa się z 20 pytań.
 § 8a.
 1.
-Zakład ubezpieczeń albo zakład reasekuracji, przeprowadzając egzamin z wykorzystaniem systemu teleinformatycznego, może nie stosować § 10 ust. 1, 2, 10 i 12, jeżeli wykorzystywany system teleinformatyczny zapewni:
-1)
+Zakład ubezpieczeń albo zakład reasekuracji, przeprowadzając egzamin z wykorzystaniem systemu teleinformatycznego, może nie stosować § 10 ust. 1, 2, 10 i 12, jeżeli wykorzystywany system teleinformatyczny zapewni:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.
+1Ze zmianą wprowadzoną przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 potwierdzenie przed egzaminem tożsamości osób przystępujących do egzaminu przez udostępnienie im zindywidualizowanego dostępu;
 2)
 samodzielność pracy osób przystępujących do egzaminu.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku przeprowadzania egzaminu przez zakład ubezpieczeń albo zakład reasekuracji zgodnie z ust. 1 nie stosuje się § 4, § 5, § 6 ust. 1 i 2, § 7, § 8 ust. 7 i 8, § 9 ust. 1 zdanie drugie, § 13 oraz § 14 ust. 2. Przepisy § 6 ust. 3–5 oraz § 9 ust. 4 stosuje się odpowiednio.
-2a.
+2aDodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku przeprowadzania egzaminu zgodnie z ust. 1 zakład ubezpieczeń albo zakład reasekuracji powołuje co najmniej jedną osobę odpowiedzialną za przygotowanie i przeprowadzenie takiego egzaminu, jeżeli do egzaminu przystępuje do 50 osób, oraz co najmniej jedną dodatkową osobę odpowiedzialną za przygotowanie i przeprowadzenie takiego egzaminu dla każdych kolejnych 50 osób przystępujących do egzaminu.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 3 lit. d rozporządzenia, o którym mowa w odnośniku 2..
 Zakład ubezpieczeń albo zakład reasekuracji powiadamia Komisję Nadzoru Finansowego o zamiarze przeprowadzenia egzaminu zgodnie z ust. 1, dacie egzaminu, adresie strony internetowej, przy pomocy której zamierza przeprowadzić egzamin, oraz imionach i nazwiskach osób, o których mowa w ust. 2a, nie później niż w terminie 3 dni przed ustalonym terminem przeprowadzenia egzaminu.
-3a.
+3aDodany przez § 1 pkt 3 lit. e rozporządzenia, o którym mowa w odnośniku 2..
 Zakład ubezpieczeń albo zakład reasekuracji powiadamia Komisję Nadzoru Finansowego o:
 1)
 zmianie terminu egzaminu przeprowadzanego zgodnie z ust. 1, niezwłocznie po dokonaniu zmiany, nie później niż na jeden dzień przed ustalonym terminem przeprowadzenia egzaminu;
@@ -430,18 +424,18 @@ zmianie terminu egzaminu przeprowadzanego zgodnie z ust. 1, niezwłocznie po dok
 zmianie osoby, o której mowa w ust. 2a, nie później niż w dniu dokonania zmiany;
 3)
 odwołaniu egzaminu przeprowadzanego zgodnie z ust. 1 niezwłocznie po podjęciu decyzji o jego odwołaniu.
-3b.
+3bDodany przez § 1 pkt 3 lit. e rozporządzenia, o którym mowa w odnośniku 2..
 Powiadomienie, o którym mowa w ust. 3 i 3a, jest przekazywane w formie elektronicznej w sposób wskazany na stronie internetowej Komisji Nadzoru Finansowego.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 3 lit. f rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku egzaminu przeprowadzanego zgodnie z ust. 1 zakład ubezpieczeń albo zakład reasekuracji przekazuje Komisji Nadzoru Finansowego opis funkcjonalności systemu teleinformatycznego oraz adres strony internetowej, przy pomocy której zamierza przeprowadzić taki egzamin, przed przeprowadzeniem pierwszego egzaminu z wykorzystaniem tego systemu.
-4a.
+4aDodany przez § 1 pkt 3 lit. g rozporządzenia, o którym mowa w odnośniku 2..
 Egzamin przeprowadzany zgodnie z ust. 1 może być przeprowadzony przez zakład ubezpieczeń albo zakład reasekuracji z wykorzystaniem systemu teleinformatycznego należącego do innego podmiotu po przekazaniu Komisji Nadzoru Finansowego przez zakład ubezpieczeń albo zakład reasekuracji opisu funkcjonalności tego systemu oraz adresu strony internetowej, przy pomocy której zamierza on przeprowadzić taki egzamin, oraz pozytywnej weryfikacji przez Komisję Nadzoru Finansowego tego systemu pod względem zgodności z przepisami ust. 1 oraz § 10 ust. 2a-2d, 8a i 13 oraz adresu strony internetowej, przed przeprowadzeniem pierwszego egzaminu z wykorzystaniem tego systemu.
-4b.
+4bDodany przez § 1 pkt 3 lit. g rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku, o którym mowa w ust. 4a, Komisja Nadzoru Finansowego informuje zakład ubezpieczeń albo zakład reasekuracji o wyniku weryfikacji systemu teleinformatycznego oraz adresu strony internetowej w terminie 21 dni od dnia otrzymania opisu funkcjonalności tego systemu oraz adresu strony internetowej.
-4c.
+4cDodany przez § 1 pkt 3 lit. g rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku egzaminu przeprowadzanego zgodnie z ust. 1 z wykorzystaniem systemu teleinformatycznego należącego do innego podmiotu odpowiedzialność za przeprowadzenie egzaminu zgodnie z ust. 1–4 oraz § 10 ust. 2a-2d, 8a i 13 ponosi zakład ubezpieczeń albo zakład reasekuracji.
 5.
-(uchylony).
+(uchylony).Przez § 1 pkt 3 lit. h rozporządzenia, o którym mowa w odnośniku 2.
 § 9.
 1.
 Test jest przygotowywany przez zakład ubezpieczeń albo zakład reasekuracji. W przypadku przeprowadzania egzaminu przez kilka zakładów ubezpieczeń albo kilka zakładów reasekuracji test jest przygotowywany, z zastrzeżeniem § 8 ust. 7 i 8, wspólnie przez te zakłady ubezpieczeń albo zakłady reasekuracji.
@@ -464,7 +458,7 @@ przepisach porządkowych obowiązujących w trakcie przeprowadzania egzaminu;
 zasadach dokonywania oceny udzielonych odpowiedzi;
 4)
 sposobie informowania o wynikach egzaminu.
-2a.
+2aW brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku egzaminu przeprowadzanego zgodnie z § 8a ust. 1 zakład ubezpieczeń albo zakład reasekuracji zapewnia, aby wykorzystywany system teleinformatyczny:
 1)
 umożliwiał osobom przystępującym do egzaminu zapoznanie się:
@@ -474,7 +468,7 @@ b)
 ze sposobem informowania o wynikach egzaminu, oraz
 2)
 wymagał złożenia przez osoby przystępujące do egzaminu oświadczenia potwierdzającego zapoznanie się z informacjami, o których mowa w pkt 1.
-2b.
+2bDodany przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku egzaminu przeprowadzanego zgodnie z § 8a ust. 1 zakład ubezpieczeń albo zakład reasekuracji zapewnia, aby wykorzystywany system teleinformatyczny umożliwiał:
 1)
 swobodne poruszanie się po teście;
@@ -484,9 +478,9 @@ zmianę udzielonej odpowiedzi;
 zakończenie egzaminu przed czasem;
 4)
 automatyczne wygenerowanie wyniku egzaminu ze wskazaniem liczby prawidłowych odpowiedzi lub ich braku.
-2c.
+2cDodany przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Po upływie czasu wyznaczonego na egzamin przeprowadzany z wykorzystaniem systemu teleinformatycznego następuje automatyczne zakończenie egzaminu.
-2d.
+2dDodany przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku przeprowadzania egzaminu z wykorzystaniem systemu teleinformatycznego zakład ubezpieczeń albo zakład reasekuracji zapewnia dostęp do indywidualnego wsparcia informatycznego (helpdesk) w razie wystąpienia problemów technicznych związanych z przeprowadzanym egzaminem.
 3.
 Egzamin trwa 120 minut, z zastrzeżeniem ust. 4–8.
@@ -500,21 +494,21 @@ Egzamin dla osób, o których mowa w § 8 ust. 6, trwa 60 minut.
 Egzamin dla osób, o których mowa w § 8 ust. 9 i 11, trwa 50 minut.
 8.
 Egzamin dla osób, o których mowa w § 8 ust. 12, trwa 25 minut.
-8a.
+8aDodany przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku egzaminu przeprowadzanego zgodnie z § 8a ust. 1 czas egzaminu nie ulega wydłużeniu na skutek przerwy wynikającej z zerwania połączenia z systemem teleinformatycznym, z wykorzystaniem którego jest przeprowadzany taki egzamin.
-8b.
+8bDodany przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Udzielenie odpowiedzi na wszystkie pytania nie jest wymagane do zakończenia egzaminu.
 9.
 Zdający podczas egzaminu nie mogą korzystać z tekstów aktów prawnych oraz innych pomocy, a także urządzeń służących do przekazu lub odbioru informacji.
 10.
 Osoba przystępująca do egzaminu przed wejściem do sali egzaminacyjnej okazuje dowód osobisty lub inny dokument ze zdjęciem potwierdzający tożsamość zdającego oraz podpisuje listę obecności.
-11.
+11W brzmieniu ustalonym przez § 1 pkt 4 lit. d rozporządzenia, o którym mowa w odnośniku 2..
 Przewodniczący komisji egzaminacyjnej albo osoba, o której mowa w § 8a ust. 2a, wyklucza z egzaminu zdającego, który podczas egzaminu korzystał z pomocy innej osoby, posługiwał się niedozwolonymi materiałami lub urządzeniami, pomagał pozostałym zdającym lub w inny sposób zakłócał przebieg egzaminu.
 12.
 W trakcie egzaminu zdający może opuścić salę jedynie w uzasadnionym przypadku, po uzyskaniu zgody przewodniczącego komisji egzaminacyjnej, pod nadzorem członka komisji egzaminacyjnej.
 13.
-W przypadku gdy egzamin jest przeprowadzany z wykorzystaniem właściwego systemu teleinformatycznego, odpowiedzi udzielone przez zdającego są zapisywane w systemie teleinformatycznym albo na zewnętrznych nośnikach danych. Zakład ubezpieczeń albo zakład reasekuracji zapewnia, aby system teleinformatyczny, z wykorzystaniem którego przeprowadza egzamin, posiadał możliwość tworzenia kopii zapasowej zawierającej dane identyfikacyjne osób uczestniczących w egzaminie i uzyskane przez nich wyniki ze wskazaniem liczby prawidłowych odpowiedzi lub ich braku.
-14.
+W przypadku gdy egzamin jest przeprowadzany z wykorzystaniem właściwego systemu teleinformatycznego, odpowiedzi udzielone przez zdającego są zapisywane w systemie teleinformatycznym albo na zewnętrznych nośnikach danych. Zakład ubezpieczeń albo zakład reasekuracji zapewnia, aby system teleinformatyczny, z wykorzystaniem którego przeprowadza egzamin, posiadał możliwość tworzenia kopii zapasowej zawierającej dane identyfikacyjne osób uczestniczących w egzaminie i uzyskane przez nich wyniki ze wskazaniem liczby prawidłowych odpowiedzi lub ich braku.Zdanie drugie dodane przez § 1 pkt 4 lit. e rozporządzenia, o którym mowa w odnośniku 2.
+14Dodany przez § 1 pkt 4 lit. f rozporządzenia, o którym mowa w odnośniku 2..
 Zakład ubezpieczeń albo zakład reasekuracji przeprowadza co najmniej raz w roku audyt bezpieczeństwa systemu teleinformatycznego, z wykorzystaniem którego przeprowadza egzamin.
 § 11.
 1.
@@ -548,10 +542,10 @@ W przypadku, o którym mowa w § 8 ust. 9 i 11, warunkiem zdania egzaminu jest u
 W przypadku, o którym mowa w § 8 ust. 12, warunkiem zdania egzaminu jest uzyskanie co najmniej 14 punktów.
 7.
 Zakład ubezpieczeń albo zakład reasekuracji ogłasza wyniki egzaminu w terminie 7 dni od dnia egzaminu.
-8.
+8W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Zakład ubezpieczeń albo zakład reasekuracji nie później niż w terminie 14 dni od dnia ogłoszenia albo uzyskania wyników egzaminu wydaje osobie, która zdała egzamin, w formie pisemnej albo elektronicznej, zaświadczenie o zdaniu egzaminu albo powiadamia osobę zainteresowaną o niezdaniu egzaminu w postaci papierowej lub, jeżeli wyrazi ona na to zgodę, na innym trwałym nośniku, wraz z informacją o uzyskanej liczbie punktów.
 8a.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 9.
 W przypadku utraty zaświadczenia o zdaniu egzaminu osoba, która zdała egzamin, może wystąpić do zakładu ubezpieczeń albo zakładu reasekuracji z wnioskiem o wydanie dokumentu potwierdzającego zdanie egzaminu.
 10.
@@ -575,10 +569,10 @@ wyniki egzaminu każdej z osób biorących udział w egzaminie;
 imiona i nazwiska pracowników Urzędu Komisji Nadzoru Finansowego upoważnionych do udziału w egzaminie, o ile brali w nim udział.
 2.
 Do protokołu dołącza się listę obecności podpisaną przez osoby biorące udział w egzaminie oraz oświadczenia, o których mowa w § 6 ust. 5.
-3.
+3Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2..
 Zakład ubezpieczeń albo zakład reasekuracji przechowuje protokół, o którym mowa w ust. 1, przez okres co najmniej 10 lat.
 § 13a.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Osoby odpowiedzialne za przeprowadzenie egzaminu, o których mowa w § 8a ust. 2a, sporządzają i podpisują protokół z egzaminu przeprowadzonego zgodnie z § 8a ust. 1.
 2.
 Protokół, o którym mowa w ust. 1, zawiera:
@@ -594,7 +588,7 @@ informację o zakresie przeprowadzonego egzaminu;
 wyniki egzaminu każdej z osób biorących udział w egzaminie.
 3.
 Protokół, o którym mowa w ust. 1, jest sporządzany w formie pisemnej albo formie elektronicznej.
-4.
+4Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Zakład ubezpieczeń albo zakład reasekuracji przechowuje protokół, o którym mowa w ust. 1, przez okres co najmniej 10 lat.
 § 14.
 1.
@@ -612,6 +606,5 @@ Zakład ubezpieczeń albo zakład reasekuracji rozpatruje odwołanie w terminie 
 § 15.
 (pominięty).
 § 16.
-Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – instytucje finansowe kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 29 czerwca 2023 r. zmieniającego rozporządzenie w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych, czynności dystrybucyjnych zakładu ubezpieczeń oraz czynności dystrybucyjnych zakładu reasekuracji (Dz. U. poz. 1250), które weszło w życie z dniem 1 lipca 2023 r. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2. 4) Dodana przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 20 listopada 2023 r. zmieniającego rozporządzenie w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych, czynności dystrybucyjnych zakładu ubezpieczeń oraz czynności dystrybucyjnych zakładu reasekuracji (Dz. U. poz. 2522), które weszło w życie z dniem 7 grudnia 2023 r. 5) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 6) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 8) Ze zmianą wprowadzoną przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 10) Dodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 3 lit. d rozporządzenia, o którym mowa w odnośniku 2. 12) Dodany przez § 1 pkt 3 lit. e rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 3 lit. f rozporządzenia, o którym mowa w odnośniku 2. 14) Dodany przez § 1 pkt 3 lit. g rozporządzenia, o którym mowa w odnośniku 2. 15) Przez § 1 pkt 3 lit. h rozporządzenia, o którym mowa w odnośniku 2. 16) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 2. 17) Dodany przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2. 18) Dodany przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 pkt 4 lit. d rozporządzenia, o którym mowa w odnośniku 2. 20) Zdanie drugie dodane przez § 1 pkt 4 lit. e rozporządzenia, o którym mowa w odnośniku 2. 21) Dodany przez § 1 pkt 4 lit. f rozporządzenia, o którym mowa w odnośniku 2. 22) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 23) Przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 24) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 25) Ze zmianą wprowadzoną przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2. 26) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2. 27) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 października 2014 r. w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych (Dz. U. poz. 1485), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. poz. 2486 oraz z 2018 r. poz. 378, 650 i 1629).
+Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 października 2014 r. w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych (Dz. U. poz. 1485), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. poz. 2486 oraz z 2018 r. poz. 378, 650 i 1629). 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – instytucje finansowe kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 29 czerwca 2023 r. zmieniającego rozporządzenie w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych, czynności dystrybucyjnych zakładu ubezpieczeń oraz czynności dystrybucyjnych zakładu reasekuracji (Dz. U. poz. 1250), które weszło w życie z dniem 1 lipca 2023 r. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2. 4) Dodana przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 20 listopada 2023 r. zmieniającego rozporządzenie w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych, czynności dystrybucyjnych zakładu ubezpieczeń oraz czynności dystrybucyjnych zakładu reasekuracji (Dz. U. poz. 2522), które weszło w życie z dniem 7 grudnia 2023 r. 5) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 6) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 8) Ze zmianą wprowadzoną przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 10) Dodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 3 lit. d rozporządzenia, o którym mowa w odnośniku 2. 12) Dodany przez § 1 pkt 3 lit. e rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 3 lit. f rozporządzenia, o którym mowa w odnośniku 2. 14) Dodany przez § 1 pkt 3 lit. g rozporządzenia, o którym mowa w odnośniku 2. 15) Przez § 1 pkt 3 lit. h rozporządzenia, o którym mowa w odnośniku 2. 16) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 2. 17) Dodany przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2. 18) Dodany przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 pkt 4 lit. d rozporządzenia, o którym mowa w odnośniku 2. 20) Zdanie drugie dodane przez § 1 pkt 4 lit. e rozporządzenia, o którym mowa w odnośniku 2. 21) Dodany przez § 1 pkt 4 lit. f rozporządzenia, o którym mowa w odnośniku 2. 22) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 23) Przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 24) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 25) Ze zmianą wprowadzoną przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2. 26) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2. 27) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 października 2014 r. w sprawie egzaminu dla osób ubiegających się o wykonywanie czynności agencyjnych (Dz. U. poz. 1485), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. poz. 2486 oraz z 2018 r. poz. 378, 650 i 1629).
 

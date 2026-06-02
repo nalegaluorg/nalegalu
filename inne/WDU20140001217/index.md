@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-09-08 |
 | Data wydania | 2014-09-15 |
-| Wejście w życie | 2014-09-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001217) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1217/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 83 ust. 5 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 83 ust. 5 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805 i 915.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -83,5 +82,5 @@ Na wniosek przewoźnika drogowego, uzasadniony ważnymi powodami, terminy, o kt�
 4.
 W celu monitorowania rynku przewozów drogowych minister właściwy do spraw transportu może zażądać, aby wskazany przez niego przewoźnik drogowy przedstawił dane i informacje, o których mowa w ust. 1, w określonym przedziale czasowym i ustalonym terminie, podanych w żądaniu, nie krótszym niż 7 dni od dnia doręczenia żądania.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 3 lipca 2002 r. w sprawie zakresu danych i informacji, które przewoźnik drogowy jest obowiązany przekazywać na żądanie właściwego organu udzielającego licencji lub zezwolenia (Dz. U. Nr 117, poz. 1010), które utraciło moc z dniem 16 sierpnia 2014 r. na podstawie art. 6 ustawy z dnia 5 kwietnia 2013 r. o zmianie ustawy o transporcie drogowym oraz ustawy o czasie pracy kierowców (Dz. U. poz. 567 i 914). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805 i 915. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 3 lipca 2002 r. w sprawie zakresu danych i informacji, które przewoźnik drogowy jest obowiązany przekazywać na żądanie właściwego organu udzielającego licencji lub zezwolenia (Dz. U. Nr 117, poz. 1010), które utraciło moc z dniem 16 sierpnia 2014 r. na podstawie art. 6 ustawy z dnia 5 kwietnia 2013 r. o zmianie ustawy o transporcie drogowym oraz ustawy o czasie pracy kierowców (Dz. U. poz. 567 i 914).
 

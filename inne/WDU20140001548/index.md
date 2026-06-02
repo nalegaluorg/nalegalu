@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-06 |
 | Data wydania | 2014-11-07 |
-| Wejście w życie | 2014-11-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001548) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1548/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 37b § 3 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 37b § 3 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247 oraz z 2014 r. poz. 486, 579, 786 i 969.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -70,5 +69,5 @@ Do trybu zakładania i udostępniania konta w systemie teleinformatycznym strono
 § 7.
 Za wydanie zapisu dźwięku na informatycznym nośniku danych pobierana jest opłata w wysokości 6 zł.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 9 listopada 2014 r.
+Rozporządzenie wchodzi w życie z dniem 9 listopada 2014 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247 oraz z 2014 r. poz. 486, 579, 786 i 969.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 21 maja 2019 r. w sprawie określenia zakresu danych zawartych w dokumencie płatniczym przekazywanym przez instytucję finansową do Zakładu Ubezpieczeń Społecznych oraz sposobu i trybu przeliczania przekazanych kwot na podstawę wymiaru świadczenia
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 21 maja 2019 r. w sprawie określenia zakresu danych zawartych w dokumencie płatniczym przekazywanym przez instytucję finansową do Zakładu Ubezpieczeń Społecznych oraz sposobu i trybu przeliczania przekazanych kwot na podstawę wymiaru świadczenia Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-21 |
 | Data wydania | 2019-06-04 |
-| Wejście w życie | 2019-06-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001034) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1034/text.pdf) |
 
@@ -77,6 +76,5 @@ Kwoty, o których mowa w ust. 1, podlegające przeliczeniu ustala się na podsta
 3.
 Kwotę uzyskaną w wyniku przeliczenia uwzględnia się przy ustalaniu podstawy wymiaru emerytury przez doliczenie tej kwoty do podstawy wymiaru składek na ubezpieczenie emerytalne za miesiąc, w którym kwota składki albo część kwoty składki przekazana została do oddziału Zakładu.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 20 października 2015 r. w sprawie rejestru dawców komórek rozrodczych i zarodków
+# Rozporządzenie Ministra Zdrowiaz dnia 20 października 2015 r. w sprawie rejestru dawców komórek rozrodczych i zarodków Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia:
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-20 |
 | Data wydania | 2015-10-30 |
-| Wejście w życie | 2015-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001745) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1745/text.pdf) |
 
@@ -77,12 +76,13 @@ przekazanie informatycznego nośnika danych,
 2)
 dokonanie elektronicznej transmisji danych,
 3)
-przekazanie papierowych wydruków
-na żądanie osób i podmiotów uprawnionych.
+przekazanie papierowych wydruków – na żądanie osób i podmiotów uprawnionych.
 2.
 W przypadkach, o których mowa w ust. 1 pkt 1 i 3, udostępnienie danych zawartych w rejestrze następuje w siedzibie administratora danych gromadzonych w rejestrze.
 3.
 Dane zawarte w rejestrze udostępnia się z zachowaniem ich integralności oraz ochrony danych osobowych.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 1 listopada 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 listopada 2015 r. 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia:
+1) dyrektywy 2004/23/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 102 z 07.04.2004, str. 48; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 291);
+2) dyrektywy Komisji 2006/86/WE z dnia 24 października 2006 r. wykonującej dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w zakresie wymagań dotyczących możliwości śledzenia, powiadamiania o poważnych i niepożądanych reakcjach i zdarzeniach oraz niektórych wymagań technicznych dotyczących kodowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L z 25.10.2006, str. 32).
 

@@ -26,15 +26,35 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000130) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/130/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 2005 r. o kinematografii Rozdział 1 – Przepisy ogólne Rozdział 2 – Polski Instytut Sztuki Filmowej Rozdział 3 – Dofinansowywanie przedsięwzięć z zakresu przygotowania projektów filmowych, produkcji filmów, dystrybucji filmów i rozpowszechniania filmów, promocji polskiej twórczości filmowej i upowszechniania kultury filmowej Rozdział 4 – Gromadzenie, ochrona i upowszechnianie zasobów sztuki filmowej Rozdział 5 – Zmiany w przepisach obowiązujących Rozdział 6 – Przepisy przejściowe i dostosowujące Rozdział 7 – Przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 2005 r. o kinematografii
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2022 r. poz. 1066), z uwzględnieniem zmian wprowadzonych ustawą z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 grudnia 2022 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 63 i art. 81 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 63 i art. 81 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), które stanowią: „
+Przepisy ogólne
+Polski Instytut Sztuki Filmowej
+Dofinansowywanie przedsięwzięć z zakresu przygotowania projektów filmowych, produkcji filmów, dystrybucji filmów i rozpowszechniania filmów, promocji polskiej twórczości filmowej i upowszechniania kultury filmowej
+Gromadzenie, ochrona i upowszechnianie zasobów sztuki filmowej
+Zmiany w przepisach obowiązujących
 Art. 31–33.
 (pominięte)
+Przepisy przejściowe i dostosowujące
+Przepis końcowy
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Polski Instytut Sztuki Filmowej
+
+#### Rozdział 3 – Dofinansowywanie przedsięwzięć z zakresu przygotowania projektów filmowych, produkcji filmów, dystrybucji filmów i rozpowszechniania filmów, promocji polskiej twórczości filmowej i upowszechniania kultury filmowej
+
+#### Rozdział 4 – Gromadzenie, ochrona i upowszechnianie zasobów sztuki filmowej
+
+#### Rozdział 5 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 6 – Przepisy przejściowe i dostosowujące
+
+#### Rozdział 7 – Przepis końcowy
 
 **Art. 63.** Do postępowań w sprawach należności z tytułu wpłat, o których mowa w art. 19 ust. 1–5, 6a i 7 ustawy zmienianej w art. 23, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe. ” „
 
@@ -47,7 +67,7 @@ Art. 31–33.
 - **5)** art. 5, który wchodzi w życie z dniem 1 stycznia 2023 r.;
 - **6)** art. 22 pkt 10–12 oraz art. 62 ust. 2, które wchodzą w życie z dniem 1 stycznia 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 2005 r. o kinematografii
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa zasady wspierania twórczości filmowej i innej działalności w dziedzinie kinematografii oraz ochrony zasobów sztuki filmowej.
 
@@ -103,7 +123,7 @@ Art. 31–33.
 - **5)** wspieranie edukacji i doskonalenia zawodowego oraz ochrony zawodów filmowych;
 - **6)** wspieranie upowszechniania kultury filmowej i działanie na rzecz rozwoju społecznego ruchu filmowego oraz piśmiennictwa filmowego.
 
-#### Rozdział 2 Polski Instytut Sztuki Filmowej
+#### Rozdział 2
 
 **Art. 7.**
 
@@ -156,7 +176,7 @@ Art. 31–33.
 
 - **1)** szczegółowy zakres działania Instytutu,
 - **2)** organizację wewnętrzną Instytutu,
-- **3)** szczegółowe zadania organów Instytutu oraz tryb ich działania uwzględniając stworzenie właściwych warunków do prawidłowej realizacji zadań przez Instytut.
+- **3)** szczegółowe zadania organów Instytutu oraz tryb ich działania – uwzględniając stworzenie właściwych warunków do prawidłowej realizacji zadań przez Instytut.
 
 3. (uchylony)
 
@@ -299,11 +319,7 @@ Art. 31–33.
 
 8c. Dyrektor może zwrócić się do Przewodniczącego Krajowej Rady Radiofonii i Telewizji z wnioskiem o przekazanie informacji, o których mowa w art. 37a ust. 3 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2022 r. poz. 1722), jeżeli informacje te są niezbędne dla ustalenia wysokości wpłaty, o której mowa w ust. 3 i 3a oraz 6a i 6b.
 
-8d. Dyrektor przekazuje Przewodniczącemu Krajowej Rady Radiofonii i Telewizji sprawozdanie z wykonywania obowiązku, o którym mowa w ust. 3 i 3a oraz 6a i 6b, w terminie 30 dni przed dniem upływu terminu na przekazanie Komisji Europejskiej sprawozdania, o którym mowa w art. 6 ust. 3 pkt 3 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji.
-
-9. Do należności z tytułu wpłat, o których mowa w ust. 1–5, 6a i 7, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm.), z tym że uprawnienia organu podatkowego przysługują Dyrektorowi.
-
-9a. Decyzje Dyrektora w sprawach należności z tytułu wpłat, o których mowa w ust. 1–5, 6a i 7, są ostateczne.
+8d. Dyrektor przekazuje Przewodniczącemu Krajowej Rady Radiofonii i Telewizji sprawozdanie z wykonywania obowiązku, o którym mowa w ust. 3 i 3a oraz 6a i 6b, w terminie 30 dni przed dniem upływu terminu na przekazanie Komisji Europejskiej sprawozdania, o którym mowa w art. 6 ust. 3 pkt 3 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji. 9Ze zmianą wprowadzoną przez art. 23 pkt 1 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), która weszła w życie z dniem 10 listopada 2022 r.. Do należności z tytułu wpłat, o których mowa w ust. 1–5, 6a i 7, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974, 1265, 1301, 1933 i 2180.), z tym że uprawnienia organu podatkowego przysługują Dyrektorowi. 9aDodany przez art. 23 pkt 2 ustawy, o której mowa odnośniku 1.. Decyzje Dyrektora w sprawach należności z tytułu wpłat, o których mowa w ust. 1–5, 6a i 7, są ostateczne.
 
 10. Wpłaty, o których mowa w ust. 1–5, 6a i 7, stanowią koszty uzyskania przychodów, w rozumieniu przepisów o podatku dochodowym, w dacie ich poniesienia.
 
@@ -317,14 +333,14 @@ Art. 31–33.
 3. Dane, o których mowa w ust. 1:
 
 - **1)** pkt 1, są przekazywane dwa razy w tygodniu: w pierwszym dniu, który nie jest dniem wolnym od pracy, następującym po każdej niedzieli – za piątek, sobotę i niedzielę, oraz w dniu, który nie jest dniem wolnym od pracy, poprzedzającym każdą sobotę – za poniedziałek, wtorek, środę i czwartek,
-- **2)** pkt 2, są przekazywane w pierwszym dniu miesiąca, który nie jest dniem wolnym od pracy, następującym po miesiącu, którego dotyczą za pośrednictwem systemu teleinformatycznego przy użyciu dokumentów elektronicznych w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070 oraz z 2022 r. poz. 1087) albo przez formularz elektroniczny udostępniony na stronie podmiotowej Instytutu w Biuletynie Informacji Publicznej.
+- **2)** pkt 2, są przekazywane w pierwszym dniu miesiąca, który nie jest dniem wolnym od pracy, następującym po miesiącu, którego dotyczą – za pośrednictwem systemu teleinformatycznego przy użyciu dokumentów elektronicznych w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070 oraz z 2022 r. poz. 1087) albo przez formularz elektroniczny udostępniony na stronie podmiotowej Instytutu w Biuletynie Informacji Publicznej.
 
 3a. W przypadku nieosiągania przez podmiot prowadzący kino przychodów, o których mowa w ust. 1, lub gdy wszystkie dane, o których mowa w ust. 1, jakie zobowiązany jest podmiot prowadzący kino przekazywać Instytutowi wynoszą 0, podmiot prowadzący kino jest zwolniony z konieczności przesyłania danych w okresach, o których mowa w ust. 3. W przypadku osiągnięcia przez podmiot prowadzący kino przychodów, o których mowa w ust. 1, lub gdy jakakolwiek dana, o której mowa w ust. 1, wynosi więcej niż 0, podmiot prowadzący kino jest zobowiązany niezwłocznie rozpocząć przekazywanie danych, o których mowa w ust. 1.
 
 4. Minister określi, w drodze rozporządzenia:
 
 - **1)** elektroniczny format przekazywania danych, o których mowa w ust. 1,
-- **2)** wzór formularzy służących do przekazywania Instytutowi danych, o których mowa w ust. 1, wraz z objaśnieniami co do sposobu ich wypełniania uwzględniając konieczność uproszczenia, usprawnienia i ujednolicenia procesu przekazywania danych.
+- **2)** wzór formularzy służących do przekazywania Instytutowi danych, o których mowa w ust. 1, wraz z objaśnieniami co do sposobu ich wypełniania – uwzględniając konieczność uproszczenia, usprawnienia i ujednolicenia procesu przekazywania danych.
 
 1. Podmiot prowadzący kino, który nie przekaże danych, o których mowa w art. 19a, albo nie przekaże ich w terminie – podlega karze pieniężnej w wysokości od 1000 do 100 000 zł.
 
@@ -384,7 +400,7 @@ Art. 31–33.
 
 6. Fundusz rezerwowy przeznacza się na pokrycie straty netto.
 
-#### Rozdział 3 Dofinansowywanie przedsięwzięć z zakresu przygotowania projektów filmowych, produkcji filmów, dystrybucji filmów i rozpowszechniania filmów, promocji polskiej twórczości filmowej i upowszechniania kultury filmowej
+#### Rozdział 3
 
 **Art. 22.**
 
@@ -422,7 +438,7 @@ Art. 31–33.
 6. Minister określi, w drodze rozporządzenia:
 
 - **1)** szczegółowe warunki i tryb udzielania dofinansowania przedsięwzięcia, a także istotne elementy wniosku o udzielenie dofinansowania przedsięwzięcia,
-- **2)** istotne elementy umów cywilnoprawnych, o których mowa w ust. 3 uwzględniając konieczność realizacji celów, określonych w art. 3 ust. 1, efektywnego i skutecznego wykorzystania dofinansowania przedsięwzięcia oraz zapewnienia przejrzystości jego udzielania.
+- **2)** istotne elementy umów cywilnoprawnych, o których mowa w ust. 3 – uwzględniając konieczność realizacji celów, określonych w art. 3 ust. 1, efektywnego i skutecznego wykorzystania dofinansowania przedsięwzięcia oraz zapewnienia przejrzystości jego udzielania.
 
 **Art. 24.**
 
@@ -446,7 +462,7 @@ Art. 31–33.
 
 2. Odstępując od umowy Instytut określa kwotę wykorzystaną niezgodnie z przeznaczeniem wraz z odsetkami ustawowymi za opóźnienie naliczanymi od dnia przekazania środków, termin jej zwrotu oraz nazwę i numer konta, na które należy dokonać wpłaty.
 
-#### Rozdział 4 Gromadzenie, ochrona i upowszechnianie zasobów sztuki filmowej
+#### Rozdział 4
 
 **Art. 28.**
 
@@ -476,11 +492,11 @@ Art. 31–33.
 
 **Art. 30.** Producent filmu przekazuje nieodpłatnie państwowej instytucji kultury wyspecjalizowanej w zakresie ochrony narodowego dziedzictwa kulturalnego w dziedzinie kinematografii jeden egzemplarz nieeksploatowanej kopii każdego wyprodukowanego filmu oraz materiały dokumentacyjne związane z produkcją filmu, w szczególności scenariusz, listę montażową i dialogową, fotosy, plakaty, listę napisów i materiały reklamowe – w terminie 30 dni po zakończeniu produkcji, nie później jednak niż w dniu rozpoczęcia dystrybucji filmu.
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących
+#### Rozdział 5
 
-#### Rozdział 6 Przepisy przejściowe i dostosowujące
+#### Rozdział 6
 
-**Art. 34.** Z dniem wejścia ustawy w życie podlegają umorzeniu postępowania w sprawie stwierdzenia kwalifikacji do wykonywania zawodów filmowych, prowadzone na podstawie ustawy, o której mowa w art. 31.
+**Art. 34.** Z dniem wejścia ustawy w życie podlegają umorzeniu postępowania w sprawie stwierdzenia kwalifikacji do wykonywania zawodów filmowych, prowadzone na podstawie ustawy, o której mowa w art. 31Artykuł 31 zawiera zmiany do ustawy z dnia 16 lipca 1987 r. o kinematografii..
 
 **Art. 35.**
 
@@ -492,7 +508,7 @@ Art. 31–33.
 
 4. Zmiana w księgach wieczystych wpisów dotyczących hipotek zabezpieczających wierzytelności, o których mowa w ust. 1 i 2, następuje na wniosek Dyrektora, a w odniesieniu do wierzytelności, o których mowa w ust. 3, na wniosek właściwego organu wykonawczego organizatora samorządowej instytucji kultury.
 
-**Art. 36.** Rozporządzenie wydane na podstawie art. 22 ust. 5 ustawy, o której mowa w art. 31, zachowuje moc do czasu wydania rozporządzenia na podstawie art. 22 ust. 5 ustawy, o której mowa w art. 31, w brzmieniu nadanym niniejszą ustawą.
+**Art. 36.** Rozporządzenie wydane na podstawie art. 22 ust. 5 ustawy, o której mowa w art. 31Artykuł 31 zawiera zmiany do ustawy z dnia 16 lipca 1987 r. o kinematografii., zachowuje moc do czasu wydania rozporządzenia na podstawie art. 22 ust. 5 ustawy, o której mowa w art. 31Artykuł 31 zawiera zmiany do ustawy z dnia 16 lipca 1987 r. o kinematografii., w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 37.**
 
@@ -516,10 +532,7 @@ Art. 31–33.
 
 6. Samorządowa instytucja kultury, o której mowa w art. 38, wstępuje we wszystkie stosunki prawne, których podmiotem była samorządowa instytucja filmowa, o której mowa w ust. 1, bez względu na charakter prawny tych stosunków.
 
-#### Rozdział 7 Przepis końcowy
+#### Rozdział 7
 
-**Art. 40.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 19 oraz art. 31 pkt 23 w zakresie art. 45b, które wchodzą w życie z dniem 1 stycznia 2006 r.
-
-- **1)** Ze zmianą wprowadzoną przez art. 23 pkt 1 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), która weszła w życie z dniem 10 listopada 2022 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974, 1265, 1301, 1933 i 2180. 3) Dodany przez art. 23 pkt 2 ustawy, o której mowa odnośniku 1. 4) Artykuł 31 zawiera zmiany do ustawy z dnia 16 lipca 1987 r. o kinematografii. 5) Ustawa została ogłoszona w dniu 19 lipca 2005 r.
-
+**Art. 40.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 19 lipca 2005 r., z wyjątkiem art. 19 oraz art. 31 pkt 23 w zakresie art. 45b, które wchodzą w życie z dniem 1 stycznia 2006 r. 1) Ze zmianą wprowadzoną przez art. 23 pkt 1 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), która weszła w życie z dniem 10 listopada 2022 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974, 1265, 1301, 1933 i 2180. 3) Dodany przez art. 23 pkt 2 ustawy, o której mowa odnośniku 1. 4) Artykuł 31 zawiera zmiany do ustawy z dnia 16 lipca 1987 r. o kinematografii. 5) Ustawa została ogłoszona w dniu 19 lipca 2005 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 17 lutego 2012 r. w sprawie warunków oraz sposobu przeprowadzenia akcji przeciwlodowych na wodach morskich
+# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 17 lutego 2012 r. w sprawie warunków oraz sposobu przeprowadzenia akcji przeciwlodowych na wodach morskich Przepisy niniejszego rozporządzenia dokonują w zakresie swojej regulacji wdrożenia postanowień: 1) dyrektywy 2002/59/WE Parlamentu Europejskiego i Rady z dnia 27 czerwca 2002 r. ustanawiającej wspólnotowy system monitorowania i informacji o ruchu statków i uchylającej dyrektywę Rady 93/75/EWG (Dz. Urz. WE L 208 z 05.08.2002, str. 10, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 12, z późn. zm.); 2) dyrektywy Parlamentu Europejskiego i Rady 2009/17/WE z dnia 23 kwietnia 2009 r. zmieniającej dyrektywę 2002/59/WE ustanawiającą wspólnotowy system monitorowania i informacji o ruchu statków (Dz. Urz. UE L 131 z 28.05.2009, str. 101).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-02-17 |
 | Data wydania | 2012-02-27 |
-| Wejście w życie | 2012-05-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000215) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/215/text.pdf) |
 
@@ -139,6 +138,5 @@ na torach wodnych, redach i kotwicowiskach, prowadzoną na polecenie dyrektora u
 2)
 w basenach portowych, kanałach i przy nabrzeżach, stanowiących infrastrukturę portową, o której mowa w § 6 ust. 2 pkt 3, prowadzi się na koszt podmiotu zarządzającego tą infrastrukturą.
 § 13.
-Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
-2) Przepisy niniejszego rozporządzenia dokonują w zakresie swojej regulacji wdrożenia postanowień: 1) dyrektywy 2002/59/WE Parlamentu Europejskiego i Rady z dnia 27 czerwca 2002 r. ustanawiającej wspólnotowy system monitorowania i informacji o ruchu statków i uchylającej dyrektywę Rady 93/75/EWG (Dz. Urz. WE L 208 z 05.08.2002, str. 10, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 12, z późn. zm.); 2) dyrektywy Parlamentu Europejskiego i Rady 2009/17/WE z dnia 23 kwietnia 2009 r. zmieniającej dyrektywę 2002/59/WE ustanawiającą wspólnotowy system monitorowania i informacji o ruchu statków (Dz. Urz. UE L 131 z 28.05.2009, str. 101).
+Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 2) Przepisy niniejszego rozporządzenia dokonują w zakresie swojej regulacji wdrożenia postanowień: 1) dyrektywy 2002/59/WE Parlamentu Europejskiego i Rady z dnia 27 czerwca 2002 r. ustanawiającej wspólnotowy system monitorowania i informacji o ruchu statków i uchylającej dyrektywę Rady 93/75/EWG (Dz. Urz. WE L 208 z 05.08.2002, str. 10, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 12, z późn. zm.); 2) dyrektywy Parlamentu Europejskiego i Rady 2009/17/WE z dnia 23 kwietnia 2009 r. zmieniającej dyrektywę 2002/59/WE ustanawiającą wspólnotowy system monitorowania i informacji o ruchu statków (Dz. Urz. UE L 131 z 28.05.2009, str. 101).
 

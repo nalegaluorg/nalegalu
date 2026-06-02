@@ -37,19 +37,15 @@ rozporządzeniem Ministra Spraw Wewnętrznych z dnia 24 lutego 2014 r. zmieniaj�
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 7 lutego 2013 r. zmieniającego rozporządzenie w sprawie wart ochronnych pełnionych przez funkcjonariuszy Straży Granicznej na pokładzie statku powietrznego (Dz. U. poz. 223), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 7 lutego 2013 r. zmieniającego rozporządzenie w sprawie wart ochronnych pełnionych przez funkcjonariuszy Straży Granicznej na pokładzie statku powietrznego (Dz. U. poz. 223), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 24 lutego 2014 r. zmieniającego rozporządzenie w sprawie wart ochronnych pełnionych przez funkcjonariuszy Straży Granicznej na pokładzie statku powietrznego (Dz. U. poz. 367), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 24 lutego 2014 r. zmieniającego rozporządzenie w sprawie wart ochronnych pełnionych przez funkcjonariuszy Straży Granicznej na pokładzie statku powietrznego (Dz. U. poz. 367), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 19 grudnia 2005 r. w sprawie wart ochronnych pełnionych przez funkcjonariuszy Straży Granicznej na pokładzie statku powietrznego
-Na podstawie art. 11 ust. 7b ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2016 r. poz. 1643, z późn. zm.) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 19 grudnia 2005 r. w sprawie wart ochronnych pełnionych przez funkcjonariuszy Straży Granicznej na pokładzie statku powietrznegoMinister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088 oraz z 2017 r. poz. 1140).
+Na podstawie art. 11 ust. 7b ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2016 r. poz. 1643, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 768, 1086 i 1321.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -61,31 +57,31 @@ wyposażenie funkcjonariuszy wchodzących w skład wart ochronnych.
 § 2.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
-(uchylony);
-2)
+(uchylony);Przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych z dnia 7 lutego 2013 r. zmieniającego rozporządzenie w sprawie wart ochronnych pełnionych przez funkcjonariuszy Straży Granicznej na pokładzie statku powietrznego (Dz. U. poz. 223), które weszło w życie z dniem 5 marca 2013 r.
+2W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3.)
 jednostka organizacyjna właściwa w sprawach wart ochronnych – jednostkę organizacyjną Straży Granicznej lub komórkę organizacyjną Komendy Głównej Straży Granicznej odpowiedzialną za realizację wart ochronnych lub koordynowanie spraw z tym związanych;
 3)
-(uchylony);
-4)
+(uchylony);Przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 3.
+4W brzmieniu ustalonym przez § 1 pkt 1 lit. d rozporządzenia, o którym mowa w odnośniku 3.)
 akt bezprawnej ingerencji – akt bezprawnej ingerencji w lotnictwie cywilnym, o którym mowa w art. 2 pkt 20 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2017 r. poz. 959 i 1089);
 5)
 interwencja – działania podjęte przez wartę ochronną lub poszczególnych funkcjonariuszy wchodzących w jej skład w związku z zaistnieniem na pokładzie statku powietrznego zdarzenia mogącego mieć wpływ na jego bezpieczeństwo, zmierzające bezpośrednio do zapewnienia bezpieczeństwa na pokładzie statku powietrznego, w tym polegające na użyciu środków przymusu bezpośredniego lub broni palnej.
 § 3.
 1.
-W skład wart ochronnych wyznacza się funkcjonariuszy pełniących służbę w jednostce organizacyjnej właściwej w sprawach wart ochronnych, którzy spełniają łącznie następujące warunki:
+W skład wart ochronnych wyznacza się funkcjonariuszy pełniących służbę w jednostce organizacyjnej właściwej w sprawach wart ochronnych, którzy spełniają łącznie następujące warunki:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3.
 1)
 ukończyli szkolenia specjalistyczne z zakresu pełnienia służby w składzie wart ochronnych, w tym szkolenie z zakresu znajomości pokładów statków powietrznych, procedur obowiązujących na pokładach statków powietrznych, skutków użycia broni palnej na pokładzie statku powietrznego oraz sposobów unieszkodliwiania osoby niebezpiecznej bez użycia broni palnej, a także szkolenie podstawowe z zakresu ochrony lotnictwa cywilnego oraz szkolenie z zakresu postępowania w sytuacjach kryzysowych;
 2)
 posługują się językiem angielskim na poziomie pozwalającym na swobodne porozumiewanie się;
 3)
 ukończyli szkolenie specjalistyczne z zakresu udzielania pierwszej pomocy;
-4)
+4W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3.)
 posiadają predyspozycje psychofizyczne stwierdzone orzeczeniem lekarskim przez lekarza uprawnionego, spełniającego warunki określone w przepisach wydanych na podstawie art. 27 ust. 2 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2014 r. poz. 1184 oraz z 2017 r. poz. 60);
 5)
 posiadają zaświadczenie lekarskie o braku przeciwwskazań do pełnienia służby na pokładach statków powietrznych oraz przebywania w zmiennych strefach klimatycznych;
 6)
 mają nieposzlakowaną opinię służbową.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 W szczególnie uzasadnionych przypadkach w skład wart ochronnych można wyznaczyć funkcjonariuszy niepełniących służby w jednostce organizacyjnej właściwej w sprawach wart ochronnych, jeżeli posiadają co najmniej trzyletni staż służby w Straży Granicznej oraz spełniają warunki określone w ust. 1.
 § 4.
 Warunkiem wyznaczenia funkcjonariuszy w skład wart ochronnych jest ponadto poinformowanie ich o:
@@ -126,8 +122,7 @@ przeciwdziałanie aktom niszczenia lub uszkodzenia statku powietrznego, które m
 4)
 dokonanie rozpoznania i zabezpieczenia urządzeń i substancji, które mogą spowodować zagrożenie dla bezpieczeństwa statku powietrznego, oraz, w miarę możliwości, przeprowadzenie jego neutralizacji,
 5)
-podejmowanie działań niezbędnych do osiągnięcia podporządkowania się dowódcy statku powietrznego pasażera, którego zachowanie stwarza bezpośrednie zagrożenie dla życia lub zdrowia członków załogi lub innych pasażerów lub w inny sposób zagraża porządkowi na pokładzie statku powietrznego
-z uwzględnieniem typu statku powietrznego oraz ilości funkcjonariuszy wchodzących w skład warty ochronnej i ilości pasażerów, lecących statkiem powietrznym.
+podejmowanie działań niezbędnych do osiągnięcia podporządkowania się dowódcy statku powietrznego pasażera, którego zachowanie stwarza bezpośrednie zagrożenie dla życia lub zdrowia członków załogi lub innych pasażerów lub w inny sposób zagraża porządkowi na pokładzie statku powietrznego – z uwzględnieniem typu statku powietrznego oraz ilości funkcjonariuszy wchodzących w skład warty ochronnej i ilości pasażerów, lecących statkiem powietrznym.
 3.
 Funkcjonariusze komunikują się i współpracują z członkami załogi statku powietrznego na zasadach określonych w porozumieniu z przewoźnikiem lotniczym i w sposób ustalony z dowódcą statku powietrznego.
 4.
@@ -144,7 +139,7 @@ Siły, środki i metody działań użyte podczas interwencji powinny być adekwa
 § 8.
 Podczas pełnienia wart ochronnych funkcjonariusze występują w ubiorach cywilnych.
 § 9.
-1.
+1W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 24 lutego 2014 r. zmieniającego rozporządzenie w sprawie wart ochronnych pełnionych przez funkcjonariuszy Straży Granicznej na pokładzie statku powietrznego (Dz. U. poz. 367), które weszło w życie z dniem 5 kwietnia 2014 r..
 Wyposażenie funkcjonariuszy wart ochronnych:
 1)
 obejmuje wyposażenie podstawowe składające się z:
@@ -181,6 +176,5 @@ O rodzaju oraz ilości używanego wyposażenia dodatkowego w czasie pełnienia w
 § 10.
 Ubiór oraz elementy wyposażenia, o których mowa w § 9, funkcjonariusze są obowiązani nosić w sposób niezwracający uwagi innych pasażerów oraz uniemożliwiający nieuzasadnione ujawnienie funkcjonariuszy.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2006 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088 oraz z 2017 r. poz. 1140). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 768, 1086 i 1321. 3) Przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych z dnia 7 lutego 2013 r. zmieniającego rozporządzenie w sprawie wart ochronnych pełnionych przez funkcjonariuszy Straży Granicznej na pokładzie statku powietrznego (Dz. U. poz. 223), które weszło w życie z dniem 5 marca 2013 r. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 5) Przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 1 lit. d rozporządzenia, o którym mowa w odnośniku 3. 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 8) W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 9) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 10) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 24 lutego 2014 r. zmieniającego rozporządzenie w sprawie wart ochronnych pełnionych przez funkcjonariuszy Straży Granicznej na pokładzie statku powietrznego (Dz. U. poz. 367), które weszło w życie z dniem 5 kwietnia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2006 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088 oraz z 2017 r. poz. 1140). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 768, 1086 i 1321. 3) Przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych z dnia 7 lutego 2013 r. zmieniającego rozporządzenie w sprawie wart ochronnych pełnionych przez funkcjonariuszy Straży Granicznej na pokładzie statku powietrznego (Dz. U. poz. 223), które weszło w życie z dniem 5 marca 2013 r. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 5) Przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 1 lit. d rozporządzenia, o którym mowa w odnośniku 3. 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 8) W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 9) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 10) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 24 lutego 2014 r. zmieniającego rozporządzenie w sprawie wart ochronnych pełnionych przez funkcjonariuszy Straży Granicznej na pokładzie statku powietrznego (Dz. U. poz. 367), które weszło w życie z dniem 5 kwietnia 2014 r.
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-04-23 |
 | Data wydania | 2009-06-19 |
-| Wejście w życie | 2009-07-04 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090950785) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/785/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 66, z późn. zm.) w art. 40 ust. 1 otrzymuje brzmienie: „ 1. W razie osiągania przychodu z tytułu działalności podlegającej obowiązkowi ubezpieczenia społecznego, emerytura lub renta inwalidzka ulega zmniejszeniu na zasadach określonych w przepisach art. 104 ust. 1a-6, ust. 8 pkt 1 i 2 oraz ust. 9 i 10 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, nie więcej jednak niż o 25 % wysokości tej emerytury lub renty inwalidzkiej, z zastrzeżeniem ust. 2 i 3. ” .
+**Art. 1.** W ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 66, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 559, z 2008 r. Nr 208, poz. 1308 oraz z 2009 r. Nr 24, poz. 145 i Nr 79, poz. 669.) w art. 40 ust. 1 otrzymuje brzmienie: „ 1. W razie osiągania przychodu z tytułu działalności podlegającej obowiązkowi ubezpieczenia społecznego, emerytura lub renta inwalidzka ulega zmniejszeniu na zasadach określonych w przepisach art. 104 ust. 1a-6, ust. 8 pkt 1 i 2 oraz ust. 9 i 10 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, nie więcej jednak niż o 25 % wysokości tej emerytury lub renty inwalidzkiej, z zastrzeżeniem ust. 2 i 3. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 559, z 2008 r. Nr 208, poz. 1308 oraz z 2009 r. Nr 24, poz. 145 i Nr 79, poz. 669.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 24 lutego 2017 r. w sprawie dodatków do uposażenia zasadniczego funkcjonariuszy Służby Celno-Skarbowej
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 24 lutego 2017 r. w sprawie dodatków do uposażenia zasadniczego funkcjonariuszy Służby Celno-Skarbowej Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-24 |
 | Data wydania | 2017-02-28 |
-| Wejście w życie | 2017-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000414) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/414/text.pdf) |
 
@@ -110,8 +109,7 @@ Dodatek, o którym mowa w § 5 pkt 3, jest wypłacany w ramach posiadanych środ
 § 9.
 Wysokość dodatków określonych w rozporządzeniu, po ich wyliczeniu, zaokrągla się do pełnych 10 groszy w górę.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 8 kwietnia 2011 r. w sprawie warunków otrzymywania dodatków do uposażenia zasadniczego funkcjonariuszy celnych oraz wysokości tych dodatków (Dz. U. z 2016 r. poz. 568 i 776), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379).
+Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 8 kwietnia 2011 r. w sprawie warunków otrzymywania dodatków do uposażenia zasadniczego funkcjonariuszy celnych oraz wysokości tych dodatków (Dz. U. z 2016 r. poz. 568 i 776), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 8 kwietnia 2011 r. w sprawie warunków otrzymywania dodatków do uposażenia zasadniczego funkcjonariuszy celnych oraz wysokości tych dodatków (Dz. U. z 2016 r. poz. 568 i 776), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379).
 
 ## Załącznik nr 1 — – Tabela stopni służbowych funkcjonariuszy służby celno-skarbowej i odpowiadające im mnożniki kwoty bazowej, służące do ustalenia wysokości dodatku za stopień służbowy
 
@@ -120,7 +118,16 @@ Lp. Stopień służbowy Mnożnik kwoty bazowej 1 Generał 0,892 2 Nadinspektor 0
 ## Załącznik nr 2 — – Tabela stanowisk służbowych i odpowiadających im mnożników kwoty bazowej służących do ustalenia wysokości dodatku funkcyjnego na stanowiskach kierowniczych
 
 I.
-MINISTERSTWO FINANSÓW Stanowisko służbowe Mnożnik kwoty bazowej Szef Krajowej Administracji Skarbowej 1,131 zastępca Szefa Krajowej Administracji Skarbowej 0,907 naczelnik wydziału 0,4270,320
+MINISTERSTWO FINANSÓW
+Stanowisko służbowe Mnożnik kwoty bazowej Szef Krajowej Administracji Skarbowej 1,131 zastępca Szefa Krajowej Administracji Skarbowej 0,907 naczelnik wydziału 0,427
+0,320
 II.
-IZBY ADMINISTRACJI SKARBOWEJ, URZĘDY SKARBOWE I URZĘDY CELNO-SKARBOWE Stanowisko służbowe Mnożnik kwoty bazowej dyrektor izby 0,7480,5880,481 zastępca dyrektora izby, naczelnik urzędu 0,4810,3740,267 zastępca naczelnika urzędu, kierownik oddziału, naczelnik wydziału, kierownik działu, zastępca kierownika oddziału, zastępca naczelnika wydziału, kierownik referatu, kierownik zmiany 0,4270,3210,214 dowódca jednostki pływającej 0,107
+IZBY ADMINISTRACJI SKARBOWEJ, URZĘDY SKARBOWE I URZĘDY CELNO-SKARBOWE
+Stanowisko służbowe Mnożnik kwoty bazowej dyrektor izby 0,748
+0,588
+0,481 zastępca dyrektora izby, naczelnik urzędu 0,481
+0,374
+0,267 zastępca naczelnika urzędu, kierownik oddziału, naczelnik wydziału, kierownik działu, zastępca kierownika oddziału, zastępca naczelnika wydziału, kierownik referatu, kierownik zmiany 0,427
+0,321
+0,214 dowódca jednostki pływającej 0,107
 

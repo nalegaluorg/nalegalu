@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 21 listopada 2024 r. o zmianie ustawy o odpadach oraz ustawy o zmianie ustawy o odpadach oraz niektórych innych ustaw
+# Ustawa z dnia 21 listopada 2024 r. o zmianie ustawy o odpadach oraz ustawy o zmianie ustawy o odpadach oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2008/98/WE z dnia 19 listopada 2008 r. w sprawie odpadów oraz uchylającą niektóre dyrektywy (Dz. Urz. UE L 312 z 22.11.2008, str. 3, Dz. Urz. UE L 365 z 19.12.2014, str. 89, Dz. Urz. UE L 21 z 28.01.2015, str. 22, Dz. Urz. UE L 184 z 11.07.2015, str. 13, Dz. Urz. UE L 297 z 13.11.2015, str. 9, Dz. Urz. UE L 42 z 18.02.2017, str. 43, Dz. Urz. UE L 150 z 14.06.2017, str. 1, Dz. Urz. UE L 150 z 14.06.2018, str. 109, Dz. Urz. UE L 191 z 28.07.2023, str. 1 oraz Dz. Urz. UE L 2024/90243 z 17.04.2024).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-21 |
 | Data wydania | 2024-12-12 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2024-12-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001834) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1834/text.pdf) |
+
+Odpady budowlane i rozbiórkowe
 
 **Art. 1.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029) po art. 226a dodaje się art. 226b w brzmieniu: „
 
@@ -35,7 +36,7 @@ source: "eli-html"
 - **1)** pkt 35 otrzymuje brzmienie: „
 - **35)** w dziale VII po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „
 
-#### Rozdział 6a Odpady budowlane i rozbiórkowe
+#### Rozdział 6a
 
 **Art. 101a.**
 
@@ -66,5 +67,5 @@ source: "eli-html"
 
 3. Minister właściwy do spraw klimatu monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz w razie potrzeby wdraża mechanizm korygujący, o którym mowa w ust. 2.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2025 r.
+**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2025 r. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2008/98/WE z dnia 19 listopada 2008 r. w sprawie odpadów oraz uchylającą niektóre dyrektywy (Dz. Urz. UE L 312 z 22.11.2008, str. 3, Dz. Urz. UE L 365 z 19.12.2014, str. 89, Dz. Urz. UE L 21 z 28.01.2015, str. 22, Dz. Urz. UE L 184 z 11.07.2015, str. 13, Dz. Urz. UE L 297 z 13.11.2015, str. 9, Dz. Urz. UE L 42 z 18.02.2017, str. 43, Dz. Urz. UE L 150 z 14.06.2017, str. 1, Dz. Urz. UE L 150 z 14.06.2018, str. 109, Dz. Urz. UE L 191 z 28.07.2023, str. 1 oraz Dz. Urz. UE L 2024/90243 z 17.04.2024).
 

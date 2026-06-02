@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Zagranicznychz dnia 26 czerwca 2019 r. w sprawie wewnętrznej organizacji i trybu pracy Rady do Spraw Polaków poza Granicami Kraju
+# Rozporządzenie Ministra Spraw Zagranicznychz dnia 26 czerwca 2019 r. w sprawie wewnętrznej organizacji i trybu pracy Rady do Spraw Polaków poza Granicami Kraju Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 98).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-26 |
 | Data wydania | 2019-07-04 |
-| Wejście w życie | 2019-07-14 |
 | Ostatnia zmiana | 2025-12-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001245) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1245/text.pdf) |
 
@@ -138,6 +137,5 @@ Wynagrodzenie, o którym mowa w ust. 1 pkt 1 i 2, ulega zmniejszeniu proporcjona
 § 12.
 Traci moc rozporządzenie Ministra Spraw Zagranicznych z dnia 16 września 2016 r. w sprawie wewnętrznej organizacji i trybu pracy Rady do Spraw Polaków na Wschodzie (Dz. U. poz. 1507).
 § 13.
-Rozporządzenie wchodzi w życie z dniem 14 lipca 2019 r.
-1) Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 98).
+Rozporządzenie wchodzi w życie z dniem 14 lipca 2019 r. 1) Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 98).
 

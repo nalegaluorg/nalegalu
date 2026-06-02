@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-20 |
 | Data wydania | 2017-08-21 |
-| Wejście w życie | 2017-09-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001557) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1557/text.pdf) |
 
@@ -33,8 +32,11 @@ source: "eli-html"
 
 **Art. 10.** Pracownikiem, o którym mowa w art. 9, jest osoba fizyczna, która zgodnie z przepisami polskiego prawa pozostaje z pracodawcą w stosunku pracy lub jest zatrudniona na podstawie umowy o pracę nakładczą albo wykonuje pracę na podstawie umowy agencyjnej lub umowy zlecenia albo innej umowy o świadczenie usług, do której, zgodnie z ustawą z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132), stosuje się przepisy dotyczące zlecenia, albo wykonuje pracę zarobkową na podstawie innej niż stosunek pracy na rzecz pracodawcy będącego rolniczą spółdzielnią produkcyjną, spółdzielnią kółek rolniczych lub inną spółdzielnią zajmującą się produkcją rolną – jeżeli z tego tytułu podlega obowiązkowi ubezpieczeń emerytalnego i rentowych, z wyjątkiem pomocy domowej zatrudnionej przez osobę fizyczną. ” ;
 
-- **3)** w art. 12: w ust. 2: – w pkt 2 lit. e otrzymuje brzmienie: „ e) ekwiwalentu pieniężnego za urlop wypoczynkowy, o którym mowa w art. 171 § 1 Kodeksu pracy, przysługującego za rok kalendarzowy, w którym ustał stosunek pracy, oraz za rok bezpośrednio go poprzedzający, ” , – pkt 3 otrzymuje brzmienie: „ 3) składek na ubezpieczenia społeczne należnych od pracodawców na podstawie przepisów o systemie ubezpieczeń społecznych, przysługujących od świadczeń wypłaconych ze środków Funduszu. ” , ust. 3 otrzymuje brzmienie: „
+- **3)** w art. 12: w ust. 2: w pkt 2 lit. e otrzymuje brzmienie: „ ekwiwalentu pieniężnego za urlop wypoczynkowy, o którym mowa w art. 171 § 1 Kodeksu pracy, przysługującego za rok kalendarzowy, w którym ustał stosunek pracy, oraz za rok bezpośrednio go poprzedzający, ” , pkt 3 otrzymuje brzmienie: „
     - **a)**
+    - **e)**
+
+- **3)** składek na ubezpieczenia społeczne należnych od pracodawców na podstawie przepisów o systemie ubezpieczeń społecznych, przysługujących od świadczeń wypłaconych ze środków Funduszu. ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Roszczenia z tytułów wymienionych w ust. 2 pkt 1, pkt 2 lit. a-c i lit. g podlegają zaspokojeniu za okres nie dłuższy niż 3 miesiące bezpośrednio poprzedzające datę wystąpienia niewypłacalności pracodawcy albo za okres nie dłuższy niż 3 miesiące bezpośrednio poprzedzające ustanie stosunku pracy, jeżeli ustanie stosunku pracy przypada w okresie nie dłuższym niż 12 miesięcy poprzedzających datę wystąpienia niewypłacalności pracodawcy, a w przypadku oddalenia przez sąd wniosku o ogłoszenie upadłości z przyczyn, o których mowa w art. 3 ust. 1 pkt 3 i 4, również w okresie nie dłuższym niż 4 miesiące następujące po dacie wystąpienia niewypłacalności. ” , uchyla się ust. 4, ust. 5 otrzymuje brzmienie: „
@@ -64,7 +66,7 @@ source: "eli-html"
 
 - **1)** nazwisko, imię (imiona), numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość, datę urodzenia, nazwisko rodowe, obywatelstwo i płeć, adres zameldowania na pobyt stały, adres zamieszkania, jeżeli jest inny niż adres zameldowania na pobyt stały, adres do korespondencji, jeżeli jest inny niż adres zameldowania na pobyt stały i adres zamieszkania, nazwę i kod oddziału wojewódzkiego Narodowego Funduszu Zdrowia, nazwę i adres właściwego urzędu skarbowego, informację o posiadanym stopniu niepełnosprawności, informację o posiadaniu ustalonego prawa do emerytury lub renty oraz informację o sposobie dokonania wypłaty świadczenia;
 - **2)** oświadczenie o zatrudnieniu u pracodawcy oraz rodzaju i wysokości niezaspokojonych roszczeń;
-- **3)** oświadczenie o osiągnięciu lub nieosiągnięciu kwoty ograniczenia rocznej podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe na dany rok kalendarzowy, ogłoszonej na podstawie art. 19 ust. 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.), z uwzględnieniem wnioskowanej kwoty świadczenia;
+- **3)** oświadczenie o osiągnięciu lub nieosiągnięciu kwoty ograniczenia rocznej podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe na dany rok kalendarzowy, ogłoszonej na podstawie art. 19 ust. 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921, 1948, 2138, 2255 i 2260 oraz z 2017 r. poz. 38, 60, 777, 962, 1027, 1321, 1428, 1475 i 1543.), z uwzględnieniem wnioskowanej kwoty świadczenia;
 - **4)** oświadczenie o ciążących na pracowniku potrąceniach z tytułu świadczeń alimentacyjnych.
 
 6. Do wniosku, o którym mowa w ust. 1, pracownik dołącza informacje lub dokumenty uprawdopodobniające fakt zaprzestania działalności przez pracodawcę.
@@ -172,7 +174,7 @@ source: "eli-html"
 - **2)** uzyskiwania pisemnych informacji i dokumentów dotyczących ustaleń dokonanych w ramach przeprowadzonych u pracodawcy kontroli, na wniosek składany do Państwowej Inspekcji Pracy,
 - **3)** uzyskiwania danych zgromadzonych przez Zakład Ubezpieczeń Społecznych na kontach płatników składek i kontach ubezpieczonych, na wniosek zawierający dane identyfikacyjne płatnika składek lub ubezpieczonego, określone w art. 50 ust. 7 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych,
 - **4)** wglądu do akt sądowych w postępowaniach w przedmiocie ogłoszenia upadłości pracodawcy, postępowaniach upadłościowych i postępowaniach restrukturyzacyjnych na wniosek składany do sądu upadłościowego lub restrukturyzacyjnego,
-- **5)** wglądu do akt egzekucyjnych dotyczących prowadzonych przeciwko pracodawcy postępowań egzekucyjnych na wniosek składany do organów egzekucyjnych w zakresie niezbędnym do prowadzonych postępowań. ” ;
+- **5)** wglądu do akt egzekucyjnych dotyczących prowadzonych przeciwko pracodawcy postępowań egzekucyjnych na wniosek składany do organów egzekucyjnych – w zakresie niezbędnym do prowadzonych postępowań. ” ;
 - **18)** w art. 23: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -264,5 +266,5 @@ source: "eli-html"
 
 2. W postępowaniach egzekucyjnych wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się dotychczasowe przepisy o kosztach sądowych do dnia zakończenia postępowania.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921, 1948, 2138, 2255 i 2260 oraz z 2017 r. poz. 38, 60, 777, 962, 1027, 1321, 1428, 1475 i 1543.
 

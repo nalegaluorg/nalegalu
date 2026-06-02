@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw Niniejsza ustawa uzupełnia wdrożenie dyrektywy Rady 2011/85/UE z dnia 8 listopada 2011 r. w sprawie wymogów dla ram budżetowych państw członkowskich (Dz. Urz. UE L 306 z 23.11.2011, str. 41 oraz Dz. Urz. UE L 2024/1265 z 30.04.2024).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-28 |
 | Data wydania | 2024-07-22 |
-| Wejście w życie | 2024-07-23 |
 | Ostatnia zmiana | 2024-12-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001089) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1089/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.) wprowadza się następujące zmiany:
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawę z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy, ustawę z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej, ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, ustawę z dnia 25 marca 2011 r. o Centrum Dialogu im. Juliusza Mieroszewskiego, ustawę z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, ustawę z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości, ustawę z dnia 20 lipca 2017 r. – Prawo wodne, ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ustawę z dnia 23 października 2018 r. o Funduszu Solidarnościowym, ustawę z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz, ustawę z dnia 4 kwietnia 2019 r. o wspieraniu działalności naukowej z Funduszu Polskiej Nauki, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, ustawę z dnia 1 października 2021 r. o rodzinnym kredycie mieszkaniowym i bezpiecznym kredycie 2 %, ustawę z dnia 11 marca 2022 r. o obronie Ojczyzny, ustawę z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, ustawę z dnia 7 października 2022 r. o Instytucie Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego oraz ustawę z dnia 13 lipca 2023 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw.
+
+**Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858.) wprowadza się następujące zmiany:
 
 - **1)** art. 21 otrzymuje brzmienie: „
 
@@ -36,7 +37,7 @@ source: "eli-html"
 
 - **1)** przychody z prowadzonej działalności;
 - **2)** dotacje z budżetu państwa;
-- **3)** koszty: funkcjonowania agencji wykonawczej, realizacji zadań ustawowych, z wyszczególnieniem kosztów realizacji tych zadań przez inne podmioty z wyszczególnieniem uposażeń i wynagrodzeń ze stosunku pracy oraz składek od nich naliczanych, płatności odsetkowych wynikających z zaciągniętych zobowiązań oraz zakupu towarów i usług;
+- **3)** koszty: funkcjonowania agencji wykonawczej, realizacji zadań ustawowych, z wyszczególnieniem kosztów realizacji tych zadań przez inne podmioty – z wyszczególnieniem uposażeń i wynagrodzeń ze stosunku pracy oraz składek od nich naliczanych, płatności odsetkowych wynikających z zaciągniętych zobowiązań oraz zakupu towarów i usług;
     - **a)**
     - **b)**
 
@@ -156,7 +157,7 @@ source: "eli-html"
 
 13. Zmiany, o których mowa w ust. 12, są dokonywane przez dysponenta państwowego funduszu celowego, a w przypadku gdy dysponentem państwowego funduszu celowego nie jest minister – po wyrażeniu zgody przez organ nadzorujący dysponenta funduszu, jeżeli dysponent funduszu jest nadzorowany przez taki organ, przy czym w przypadku zmian:
 
-- **1)** powodujących zwiększenie: łącznych kwot przychodów i kosztów lub łącznych kwot dochodów i wydatków, lub planowanych wydatków ponad planowane dochody, jednak nie więcej niż o wysokość środków pieniężnych z poprzednich okresów, pozostających w dyspozycji państwowego funduszu celowego, lub uposażeń i wynagrodzeń ze stosunku pracy za zgodą Ministra Finansów i następnie po uzyskaniu przez dysponenta państwowego funduszu celowego opinii sejmowej komisji właściwej do spraw budżetu;
+- **1)** powodujących zwiększenie: łącznych kwot przychodów i kosztów lub łącznych kwot dochodów i wydatków, lub planowanych wydatków ponad planowane dochody, jednak nie więcej niż o wysokość środków pieniężnych z poprzednich okresów, pozostających w dyspozycji państwowego funduszu celowego, lub uposażeń i wynagrodzeń ze stosunku pracy – za zgodą Ministra Finansów i następnie po uzyskaniu przez dysponenta państwowego funduszu celowego opinii sejmowej komisji właściwej do spraw budżetu;
     - **a)**
     - **b)**
     - **c)**
@@ -257,7 +258,7 @@ source: "eli-html"
 
 4. Wielkość korekty kwoty wydatków Kn, o której mowa w ust. 1:
 
-- **1)** w przypadku gdy najbardziej aktualne prognozy Komisji Europejskiej przewidują, że: wartość relacji wyniku nominalnego sektora instytucji rządowych i samorządowych w rozumieniu rozporządzenia Rady (WE) nr 479/2009 z dnia 25 maja 2009 r. o stosowaniu Protokołu w sprawie procedury dotyczącej nadmiernego deficytu załączonego do Traktatu ustanawiającego Wspólnotę Europejską (Dz. Urz. UE L 145 z 10.06.2009, str. 1, z późn. zm.) do produktu krajowego brutto w roku n – 1 lub roku n, o których mowa w ust. 1, jest niższa niż -3 %, lub wartość relacji długu sektora instytucji rządowych i samorządowych w rozumieniu rozporządzenia Rady (WE) nr 479/2009 z dnia 25 maja 2009 r. o stosowaniu Protokołu w sprawie procedury dotyczącej nadmiernego deficytu załączonego do Traktatu ustanawiającego Wspólnotę Europejską do produktu krajowego brutto w roku n – 1 lub w roku n, o których mowa w ust. 1, jest wyższa niż 60 % nie może być wyższa niż dostosowanie fiskalne, wspierające realizację celu fiskalnego w zakresie poziomu wydatków określonego w średniookresowym planie budżetowo-strukturalnym, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającym rozporządzenie Rady (WE) nr 1466/97, oraz przestrzeganie wartości odniesienia określonych w art. 126 ust. 2 Traktatu o funkcjonowaniu Unii Europejskiej sprecyzowanych w art. 1 Protokołu (nr 12) w sprawie procedury dotyczącej nadmiernego deficytu, załączonego do Traktatu o Unii Europejskiej i Traktatu o funkcjonowaniu Unii Europejskiej, obliczone według wzoru: \( DF_n = – 0,5\% \cdot E_n \left( {PKB_n^{CB} } \right) \) w którym poszczególne symbole oznaczają: DFn – dostosowanie fiskalne, En(PKBCBn) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n, o którym mowa w ust. 1, przedłożonego Sejmowi produkt krajowy brutto w cenach bieżących w roku n, o którym mowa w ust. 1;
+- **1)** w przypadku gdy najbardziej aktualne prognozy Komisji Europejskiej przewidują, że: wartość relacji wyniku nominalnego sektora instytucji rządowych i samorządowych w rozumieniu rozporządzenia Rady (WE) nr 479/2009 z dnia 25 maja 2009 r. o stosowaniu Protokołu w sprawie procedury dotyczącej nadmiernego deficytu załączonego do Traktatu ustanawiającego Wspólnotę Europejską (Dz. Urz. UE L 145 z 10.06.2009, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 198 z 30.07.2010, str. 1 oraz Dz. Urz. UE L 69 z 08.03.2014, str. 101. do produktu krajowego brutto w roku n – 1 lub roku n, o których mowa w ust. 1, jest niższa niż -3 %, lub wartość relacji długu sektora instytucji rządowych i samorządowych w rozumieniu rozporządzenia Rady (WE) nr 479/2009 z dnia 25 maja 2009 r. o stosowaniu Protokołu w sprawie procedury dotyczącej nadmiernego deficytu załączonego do Traktatu ustanawiającego Wspólnotę Europejską do produktu krajowego brutto w roku n – 1 lub w roku n, o których mowa w ust. 1, jest wyższa niż 60 % – nie może być wyższa niż dostosowanie fiskalne, wspierające realizację celu fiskalnego w zakresie poziomu wydatków określonego w średniookresowym planie budżetowo-strukturalnym, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającym rozporządzenie Rady (WE) nr 1466/97, oraz przestrzeganie wartości odniesienia określonych w art. 126 ust. 2 Traktatu o funkcjonowaniu Unii Europejskiej sprecyzowanych w art. 1 Protokołu (nr 12) w sprawie procedury dotyczącej nadmiernego deficytu, załączonego do Traktatu o Unii Europejskiej i Traktatu o funkcjonowaniu Unii Europejskiej, obliczone według wzoru: \( DF_n = – 0,5\% \cdot E_n \left( {PKB_n^{CB} } \right) \) w którym poszczególne symbole oznaczają: DFn – dostosowanie fiskalne, En(PKBCBn) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n, o którym mowa w ust. 1, przedłożonego Sejmowi produkt krajowy brutto w cenach bieżących w roku n, o którym mowa w ust. 1;
     - **a)**
     - **b)**
 
@@ -283,7 +284,7 @@ source: "eli-html"
 1a. Przez znaczne spowolnienie gospodarcze, o którym mowa w ust. 1 pkt 5, rozumie się sytuację, kiedy prognozowana w uzasadnieniu:
 
 - **1)** projektu ustawy budżetowej na rok, na który jest obliczana kwota wydatków, o której mowa w art. 112aa ust. 1, przedłożonego Sejmowi lub
-- **2)** projektu ustawy zmieniającej ustawę budżetową na rok, na który jest obliczana kwota wydatków, o której mowa w art. 112aa ust. 1, przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKBn, o którym mowa w art. 112aa ust. 1, określonego w uzasadnieniu projektu ustawy budżetowej na ostatni rok, na który w projekcie ustawy budżetowej określono kwotę wydatków obliczoną zgodnie z art. 112aa ust. 1, przedłożonego Sejmowi. ” ;
+- **2)** projektu ustawy zmieniającej ustawę budżetową na rok, na który jest obliczana kwota wydatków, o której mowa w art. 112aa ust. 1, przedłożonego Sejmowi – roczna dynamika wartości produktu krajowego brutto w cenach stałych jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKBn, o którym mowa w art. 112aa ust. 1, określonego w uzasadnieniu projektu ustawy budżetowej na ostatni rok, na który w projekcie ustawy budżetowej określono kwotę wydatków obliczoną zgodnie z art. 112aa ust. 1, przedłożonego Sejmowi. ” ;
 - **11)** w art. 122 w ust. 1 w pkt 1 lit. d otrzymuje brzmienie: „ państwowych osób prawnych, o których mowa w art. 9 pkt 8 i 14; ” ;
     - **d)**
 
@@ -294,9 +295,11 @@ source: "eli-html"
 - **1)** agencji wykonawczych,
 - **2)** instytucji gospodarki budżetowej,
 - **3)** państwowych funduszy celowych,
-- **4)** państwowych osób prawnych, o których mowa w art. 9 pkt 8 i 14 ujmuje się oddzielnie dla każdej z tych jednostek. ” ;
-- **13)** w art. 142 w ust. 1: w pkt 2: – lit. a otrzymuje brzmienie: „ a) produktu krajowego brutto i jego składowych, w tym: – eksportu netto, – popytu krajowego, w tym konsumpcji prywatnej i publicznej oraz nakładów brutto na środki trwałe, ” , – po lit. a dodaje się lit. aa w brzmieniu: „ aa) deflatora produktu krajowego brutto, ” , pkt 6b otrzymuje brzmienie: „
+- **4)** państwowych osób prawnych, o których mowa w art. 9 pkt 8 i 14 – ujmuje się oddzielnie dla każdej z tych jednostek. ” ;
+- **13)** w art. 142 w ust. 1: w pkt 2: lit. a otrzymuje brzmienie: „ produktu krajowego brutto i jego składowych, w tym: – eksportu netto, – popytu krajowego, w tym konsumpcji prywatnej i publicznej oraz nakładów brutto na środki trwałe, ” , po lit. a dodaje się lit. aa w brzmieniu: „ deflatora produktu krajowego brutto, ” , pkt 6b otrzymuje brzmienie: „
     - **a)**
+    - **a)**
+    - **aa)**
     - **b)**
 
 - **6b)** informacje o: wielkości wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto, o którym mowa w art. 112aa ust. 1, wielkości korekty kwoty wydatków, o której mowa w art. 112aa ust. 1, wartości klauzuli obronnej, o której mowa w art. 112aa ust. 4a, różnicach, o których mowa w art. 112aa ust. 4a pkt 1–3, każdym dyskrecjonalnym działaniu przekraczającym 0,03 % wartości produktu krajowego brutto, o którym mowa w art. 112aa ust. 1, aktualizacji wartości działań dyskrecjonalnych, o których mowa w art. 112aa ust. 1, każdym jednorazowym i tymczasowym działaniu po stronie dochodów przekraczającym 0,03 % wartości produktu krajowego brutto, o którym mowa w art. 112aa ust. 3; ” ;
@@ -358,7 +361,7 @@ source: "eli-html"
 
 **Art. 12.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2024 r. poz. 475, 742, 858 i 863) w art. 108 ust. 2 otrzymuje brzmienie: „ 2. Zmiany w planie Funduszu Pracy dokonywane na podstawie art. 29 ust. 12 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych powodujące zmniejszenie łącznej kwoty środków na finansowanie zadań na rzecz przeciwdziałania bezrobociu w celu jej przeznaczenia na inne cele wymagają uzyskania zgody ministra właściwego do spraw finansów publicznych i następnie uzyskania przez dysponenta Funduszu Pracy opinii sejmowej komisji właściwej do spraw budżetu. ” .
 
-**Art. 13.** W ustawie z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2023 r. poz. 1087) w art. 27 ust. 1a otrzymuje brzmienie: „ 1a. Środki Funduszu przeznacza się również na finansowanie zadań wynikających z innych ustaw. Zmiany w planie Funduszu dokonywane na podstawie art. 29 ust. 12 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.) powodujące zmniejszenie łącznej kwoty środków na finansowanie zadań wynikających z ochrony roszczeń pracowniczych w razie niewypłacalności pracodawcy w celu jej przeznaczenia na inne cele wymagają uzyskania zgody ministra właściwego do spraw finansów publicznych i następnie uzyskania przez dysponenta Funduszu opinii sejmowej komisji właściwej do spraw budżetu. ” .
+**Art. 13.** W ustawie z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2023 r. poz. 1087) w art. 27 ust. 1a otrzymuje brzmienie: „ 1a. Środki Funduszu przeznacza się również na finansowanie zadań wynikających z innych ustaw. Zmiany w planie Funduszu dokonywane na podstawie art. 29 ust. 12 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858 i 1089.) powodujące zmniejszenie łącznej kwoty środków na finansowanie zadań wynikających z ochrony roszczeń pracowniczych w razie niewypłacalności pracodawcy w celu jej przeznaczenia na inne cele wymagają uzyskania zgody ministra właściwego do spraw finansów publicznych i następnie uzyskania przez dysponenta Funduszu opinii sejmowej komisji właściwej do spraw budżetu. ” .
 
 **Art. 14.** W ustawie z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej (Dz. U. z 2024 r. poz. 78) w art. 9 w ust. 3 wyraz „korekty” zastępuje się wyrazem „zmiany”.
 
@@ -387,7 +390,7 @@ source: "eli-html"
 
 - **2)** w art. 44 uchyla się ust. 4. W ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087) w art. 252 uchyla się ust. 5.
 
-**Art. 20.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 20.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124 i 227.) wprowadza się następujące zmiany:
 
 - **1)** w art. 422: po ust. 4 dodaje się ust. 4a w brzmieniu: „
     - **a)**
@@ -395,8 +398,9 @@ source: "eli-html"
 4a. BGK przekazuje ministrowi oraz ministrowi właściwemu do spraw finansów publicznych, w terminach określonych w przepisach dotyczących sprawozdawczości budżetowej państwowych funduszy celowych, sprawozdanie miesięczne z realizacji planu finansowego Funduszu Kredytów Studenckich, narastająco za kolejne miesiące roku budżetowego, w szczegółowości nie mniejszej niż wynikająca z tego planu. ” , w ust. 5 w pkt 1 uchyla się lit. a;
 
 - **b)**
-- **2)** w art. 422b: w ust. 5 w pkt 1: – uchyla się lit. a, – lit. b otrzymuje brzmienie: „ b) sprawozdanie z działalności FKSM, które zawiera w szczególności informacje o kwocie i liczbie udzielonych w poprzednim roku kredytów na studia medyczne oraz kwocie umorzonych w poprzednim roku kredytów na studia medyczne, oraz sprawozdanie o wynikach FKSM za rok poprzedni, ” , ust. 6 otrzymuje brzmienie: „
+- **2)** w art. 422b: w ust. 5 w pkt 1: – uchyla się lit. a, lit. b otrzymuje brzmienie: „ sprawozdanie z działalności FKSM, które zawiera w szczególności informacje o kwocie i liczbie udzielonych w poprzednim roku kredytów na studia medyczne oraz kwocie umorzonych w poprzednim roku kredytów na studia medyczne, oraz sprawozdanie o wynikach FKSM za rok poprzedni, ” , ust. 6 otrzymuje brzmienie: „
     - **a)**
+    - **b)**
     - **b)**
 
 6. BGK przekazuje ministrowi właściwemu do spraw zdrowia oraz ministrowi właściwemu do spraw finansów publicznych, w terminach określonych w przepisach dotyczących sprawozdawczości budżetowej państwowych funduszy celowych, sprawozdanie miesięczne z realizacji planu finansowego FKSM, narastająco za kolejne miesiące roku budżetowego, w szczegółowości nie mniejszej niż wynikająca z tego planu. ” . W ustawie z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2024 r. poz. 296 i 863) wprowadza się następujące zmiany:
@@ -422,7 +426,7 @@ source: "eli-html"
 - **3)** w art. 31zy3 w ust. 5 wyrazy „art. 29 ust. 10 i 12” zastępuje się wyrazami „art. 29 ust. 13, 15 i 16”;
 - **4)** w art. 31zy12 w ust. 4 wyrazy „art. 29 ust. 10 i 12” zastępuje się wyrazami „art. 29 ust. 13, 15 i 16”.
 
-**Art. 25.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.) w art. 65:
+**Art. 25.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687, z 2023 r. poz. 295, 556, 803, 1641, 1785 i 2760 oraz z 2024 r. poz. 834 i 859.) w art. 65:
 
 - **1)** ust. 23 otrzymuje brzmienie: „
 
@@ -468,7 +472,7 @@ source: "eli-html"
 
 - **1)** agencji wykonawczej – mogą być dokonywane zmiany przychodów lub kosztów mimo niespełnienia wymogów określonych w art. 21 ust. 2 w zakresie planowanych wydatków oraz ust. 4–6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych,
 - **2)** instytucji gospodarki budżetowej – mogą być dokonywane zmiany przychodów lub kosztów mimo niespełnienia wymogów określonych w art. 24 ust. 7 i 8 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych,
-- **3)** państwowego funduszu celowego – mogą być dokonywane zmiany mimo niespełnienia wymogów określonych w art. 29 ust. 12–16 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych oraz innych przepisach regulujących zmianę planów finansowych tych jednostek. ” , ust. 29 otrzymuje brzmienie: „
+- **3)** państwowego funduszu celowego – mogą być dokonywane zmiany mimo niespełnienia wymogów określonych w art. 29 ust. 12–16 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych – oraz innych przepisach regulujących zmianę planów finansowych tych jednostek. ” , ust. 29 otrzymuje brzmienie: „
     - **b)**
 
 29. Bank Gospodarstwa Krajowego przekazuje ministrowi właściwemu do spraw finansów publicznych, w terminach określonych w przepisach dotyczących sprawozdawczości budżetowej państwowych funduszy celowych, sprawozdanie miesięczne z realizacji planu finansowego Funduszu, narastająco za kolejne miesiące roku budżetowego, w szczegółowości nie mniejszej niż wynikająca z tego planu. ” ;
@@ -508,7 +512,7 @@ source: "eli-html"
     - **d)**
 
 - **4)** bilansu i rachunku zysków i strat za rok 2024, o którym mowa w art. 33r ust. 7 pkt 1 lit. b ustawy zmienianej w art. 6,
-- **5)** sprawozdania z działalności oraz wyników za rok 2024, o których mowa w art. 422b ust. 5 pkt 1 lit. b ustawy zmienianej w art. 20 stosuje się przepisy dotychczasowe.
+- **5)** sprawozdania z działalności oraz wyników za rok 2024, o których mowa w art. 422b ust. 5 pkt 1 lit. b ustawy zmienianej w art. 20 – stosuje się przepisy dotychczasowe.
 
 **Art. 34.** Przepis art. 18 ust. 4 ustawy zmienianej w art. 8, w brzmieniu nadanym niniejszą ustawą, ma zastosowanie po raz pierwszy do rocznego sprawozdania finansowego Polskiej Organizacji Turystycznej za rok 2024.
 
@@ -536,5 +540,5 @@ source: "eli-html"
 
 **Art. 43.** Prezes Głównego Urzędu Statystycznego ogłasza po raz pierwszy deflator, o którym mowa w art. 38b pkt 2a ustawy zmienianej w art. 1, za rok 2025 w terminie do dnia 16 kwietnia 2026 r.
 
-**Art. 44.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 8 pkt 3 i 4 oraz art. 16 pkt 2, które wchodzą w życie z dniem 1 stycznia 2025 r.
+**Art. 44.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 8 pkt 3 i 4 oraz art. 16 pkt 2, które wchodzą w życie z dniem 1 stycznia 2025 r. 1) Niniejsza ustawa uzupełnia wdrożenie dyrektywy Rady 2011/85/UE z dnia 8 listopada 2011 r. w sprawie wymogów dla ram budżetowych państw członkowskich (Dz. Urz. UE L 306 z 23.11.2011, str. 41 oraz Dz. Urz. UE L 2024/1265 z 30.04.2024). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawę z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy, ustawę z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej, ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, ustawę z dnia 25 marca 2011 r. o Centrum Dialogu im. Juliusza Mieroszewskiego, ustawę z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, ustawę z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości, ustawę z dnia 20 lipca 2017 r. – Prawo wodne, ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ustawę z dnia 23 października 2018 r. o Funduszu Solidarnościowym, ustawę z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz, ustawę z dnia 4 kwietnia 2019 r. o wspieraniu działalności naukowej z Funduszu Polskiej Nauki, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, ustawę z dnia 1 października 2021 r. o rodzinnym kredycie mieszkaniowym i bezpiecznym kredycie 2 %, ustawę z dnia 11 marca 2022 r. o obronie Ojczyzny, ustawę z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, ustawę z dnia 7 października 2022 r. o Instytucie Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego oraz ustawę z dnia 13 lipca 2023 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 198 z 30.07.2010, str. 1 oraz Dz. Urz. UE L 69 z 08.03.2014, str. 101. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858 i 1089. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124 i 227. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687, z 2023 r. poz. 295, 556, 803, 1641, 1785 i 2760 oraz z 2024 r. poz. 834 i 859.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 11 stycznia 2013 r. w sprawie szczegółowych wymagań w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości
+# Rozporządzenie Ministra Środowiskaz dnia 11 stycznia 2013 r. w sprawie szczegółowych wymagań w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 17 maja 2012 r. pod numerem 2012/0322/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 204 z 21.07.1998, z późn. zm., str. 37; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-01-11 |
 | Data wydania | 2013-01-25 |
-| Wejście w życie | 2013-02-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000122) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/122/text.pdf) |
 
@@ -70,8 +69,7 @@ Na terenie bazy magazynowo-transportowej powinny znajdować się także:
 1)
 punkt bieżącej konserwacji i napraw pojazdów,
 2)
-miejsce do mycia i dezynfekcji pojazdów
-o ile czynności te nie są wykonywane przez uprawnione podmioty zewnętrzne poza terenem bazy magazynowo-transportowej.
+miejsce do mycia i dezynfekcji pojazdów – o ile czynności te nie są wykonywane przez uprawnione podmioty zewnętrzne poza terenem bazy magazynowo-transportowej.
 4.
 § 3.
 W zakresie posiadania wyposażenia umożliwiającego odbieranie odpadów komunalnych od właścicieli nieruchomości oraz jego odpowiedniego stanu technicznego należy zapewnić, aby:
@@ -103,8 +101,7 @@ pojazdy były wyposażone w system:
 a)
 monitoringu bazującego na systemie pozycjonowania satelitarnego, umożliwiający trwałe zapisywanie, przechowywanie i odczytywanie danych o położeniu pojazdu i miejscach postojów oraz
 b)
-czujników zapisujących dane o miejscach wyładunku odpadów
-umożliwiający weryfikację tych danych;
+czujników zapisujących dane o miejscach wyładunku odpadów – umożliwiający weryfikację tych danych;
 3)
 pojazdy były wyposażone w narzędzia lub urządzenia umożliwiające sprzątanie terenu po opróżnieniu pojemników.
 2.
@@ -112,7 +109,7 @@ Dopuszcza się wyposażenie pojazdów w urządzenie do ważenia odpadów komunal
 § 6.
 Podmioty, które przed dniem wejścia w życie rozporządzenia uzyskały wpis lub złożyły wniosek o wpis do rejestru, o którym mowa w art. 9b ust. 2 ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2012 r., poz. 391 i 951 oraz z 2013 r. poz. 21), lub gminne jednostki organizacyjne, które przed dniem wejścia w życie rozporządzenia prowadziły działalność w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości, powinny dostosować się do wymagań wynikających z rozporządzenia w terminie 3 miesięcy od dnia wejścia w życie rozporządzenia.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 17 maja 2012 r. pod numerem 2012/0322/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 204 z 21.07.1998, z późn. zm., str. 37; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337).
 
 ## Część transportowa oraz część magazynowa bazy mogą znajdować się na oddzielnych terenach, przy jednoczesnym spełnieniu warunków określonych w ust. 1–3.
 

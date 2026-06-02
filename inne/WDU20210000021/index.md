@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-10 |
 | Data wydania | 2021-01-05 |
-| Wejście w życie | 2021-01-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000021) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/21/text.pdf) |
 
@@ -73,7 +72,7 @@ source: "eli-html"
 5. W przypadku złożenia wniosku, o którym mowa w ust. 1, dwumiesięczny termin do zgłoszenia sprzeciwu przez Krajową Radę Sądownictwa wobec mianowania egzaminowanego aplikanta, o którym mowa w art. 33a ust. 14 lub art. 33b ust. 10 ustawy zmienianej w art. 1, na stanowisko asesora sądowego biegnie w przypadku:
 
 - **1)** wyrażenia zgody na zajmowanie stanowiska asesora sądowego pomimo posiadania obywatelstwa innego państwa – od dnia wydania uchwały przez Krajową Radę Sądownictwa,
-- **2)** odmowy wyrażenia zgody na zajmowanie stanowiska asesora sądowego pomimo posiadania obywatelstwa innego państwa – od dnia upływu terminu, o którym mowa w ust. 4 chyba że ten termin nie rozpoczął jeszcze biegu na podstawie art. 33a ust. 14 lub art. 33b ust. 10 ustawy zmienianej w art. 1.
+- **2)** odmowy wyrażenia zgody na zajmowanie stanowiska asesora sądowego pomimo posiadania obywatelstwa innego państwa – od dnia upływu terminu, o którym mowa w ust. 4 – chyba że ten termin nie rozpoczął jeszcze biegu na podstawie art. 33a ust. 14 lub art. 33b ust. 10 ustawy zmienianej w art. 1.
 
 6. Jeżeli w przypadku, o którym mowa w ust. 2 zdanie drugie, od uchwały Krajowej Rady Sądownictwa zostało wniesione odwołanie do Sądu Najwyższego, postępowanie przed Sądem Najwyższym podlega umorzeniu. Krajowa Rada Sądownictwa niezwłocznie zawiadamia Sąd Najwyższy o złożeniu wniosku, o którym mowa w ust. 1.
 

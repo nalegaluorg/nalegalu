@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-02-03 |
 | Data wydania | 2020-02-10 |
-| Wejście w życie | 2020-02-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000209) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/209/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 94 ust. 2 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2019 r. poz. 1921 i 2020) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Prezesa Rady Ministrów z dnia 16 marca 2010 r. w sprawie określenia wysokości i trybu przyznawania funkcjonariuszom Centralnego Biura Antykorupcyjnego należności za podróże służbowe i świadczeń z tytułu przeniesienia lub delegowania do czasowego pełnienia służby w innej miejscowości oraz sposobu ich wypłaty (Dz. U. poz. 259) w § 1 w pkt 5 lit. a otrzymuje brzmienie:
-„
+W rozporządzeniu Prezesa Rady Ministrów z dnia 16 marca 2010 r. w sprawie określenia wysokości i trybu przyznawania funkcjonariuszom Centralnego Biura Antykorupcyjnego należności za podróże służbowe i świadczeń z tytułu przeniesienia lub delegowania do czasowego pełnienia służby w innej miejscowości oraz sposobu ich wypłaty (Dz. U. poz. 259) w § 1 w pkt 5 lit. a otrzymuje brzmienie: „
 a)
-podróży służbowych na obszarze kraju – kierownika jednostki organizacyjnej, w której funkcjonariusz pełni służbę,
-” .
+podróży służbowych na obszarze kraju – kierownika jednostki organizacyjnej, w której funkcjonariusz pełni służbę, ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

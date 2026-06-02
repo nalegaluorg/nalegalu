@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 19 września 2014 r. w sprawie badań lekarskich i psychologicznych kandydatów do objęcia urzędu sędziego (Dz. U. poz. 1293), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 2 września 2016 r. zmieniającym rozporządzenie w sprawie badań lekarskich i psychologicznych kandydatów do objęcia urzędu sędziego (Dz. U. poz. 1522).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 2 września 2016 r. zmieniającego rozporządzenie w sprawie badań lekarskich i psychologicznych kandydatów do objęcia urzędu sędziego (Dz. U. poz. 1522), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 2 września 2016 r. zmieniającego rozporządzenie w sprawie badań lekarskich i psychologicznych kandydatów do objęcia urzędu sędziego (Dz. U. poz. 1522), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 19 września 2014 r. w sprawie badań lekarskich i psychologicznych kandydatów do objęcia urzędu sędziego
 Na podstawie art. 57 § 10 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, 3, 5, 106 i 138) zarządza się, co następuje:
 § 1.
@@ -50,7 +48,7 @@ termin wykorzystania zaświadczeń o zdolności do pełnienia obowiązków sędz
 Badania lekarskie kandydata obejmują:
 1)
 ogólną ocenę stanu zdrowia, ze szczególnym uwzględnieniem układu nerwowego i stanu psychicznego;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 2 września 2016 r. zmieniającego rozporządzenie w sprawie badań lekarskich i psychologicznych kandydatów do objęcia urzędu sędziego (Dz. U. poz. 1522), które weszło w życie z dniem 7 października 2016 r.)
 badania specjalistyczne, konsultacje lekarzy specjalistów i badania pomocnicze (w szczególności badania laboratoryjne, EKG, EEG, RTG), jeżeli lekarz uprawniony uzna je za niezbędne.
 § 3.
 1.
@@ -74,10 +72,10 @@ Zaświadczenie psychologiczne wraz z wynikami badań psychologicznych wydaje si�
 Zaświadczenie lekarskie i zaświadczenie psychologiczne mogą być wykorzystane przez kandydata w toku innych postępowań w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, w terminie 12 miesięcy od daty ich wystawienia.
 2.
 Dla oceny możliwości wykorzystania zaświadczeń, o których mowa w ust. 1, w innym postępowaniu w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim przyjmuje się datę zgłoszenia przez kandydata swojej kandydatury w tym postępowaniu.
-§ 7.
+§ 7W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Lekarzem uprawnionym jest lekarz, który został wpisany do rejestru lekarzy przeprowadzających badania profilaktyczne, prowadzonego na podstawie przepisów wydanych na podstawie art. 229 § 8 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 108, 4, 138, 305 i 357), i ma prawo wykonywania zawodu oraz co najmniej pięcioletni staż pracy w zawodzie.
-§ 8.
+§ 8W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Psychologiem uprawnionym jest psycholog, który został wpisany do rejestru prowadzonego przez komendanta wojewódzkiego Policji na podstawie art. 15c ust. 2 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2017 r. poz. 1839 oraz z 2018 r. poz. 106 i 138).
 § 9.
-Rozporządzenie wchodzi w życie z dniem 1 października 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 października 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 8 marca 2002 r. w sprawie badań lekarskich i psychologicznych kandydatów do objęcia urzędu sędziego (Dz. U. poz. 263), które utraciło moc na podstawie art. 6 ustawy z dnia 14 marca 2014 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 512) z dniem wejścia w życie niniejszego rozporządzenia. 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 2 września 2016 r. zmieniającego rozporządzenie w sprawie badań lekarskich i psychologicznych kandydatów do objęcia urzędu sędziego (Dz. U. poz. 1522), które weszło w życie z dniem 7 października 2016 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 8 marca 2002 r. w sprawie badań lekarskich i psychologicznych kandydatów do objęcia urzędu sędziego (Dz. U. poz. 263), które utraciło moc na podstawie art. 6 ustawy z dnia 14 marca 2014 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 512) z dniem wejścia w życie niniejszego rozporządzenia.
 

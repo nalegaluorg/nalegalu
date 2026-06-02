@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-16 |
 | Data wydania | 2019-11-25 |
-| Wejście w życie | 2020-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002303) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2303/text.pdf) |
+
+Postępowanie z wodami balastowymi i osadami
 
 **Art. 1.** W ustawie z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2017 r. poz. 2000) wprowadza się następujące zmiany:
 
@@ -52,8 +53,12 @@ source: "eli-html"
 
 - **5)** w art. 6 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
 - **8)** dla statków objętych Konwencją BWM – w postanowieniach tej Konwencji. ” ;
-- **6)** w art. 8: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) Konwencji MARPOL, ważne na najdłuższy dopuszczalny okres wynikający z tej Konwencji, oraz potwierdza ich ważność na podstawie inspekcji rocznych i pośrednich stosownie do wymogów Konwencji; ” , – w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „ 3) Konwencji BWM, ważne na okres 5 lat, oraz potwierdza ich ważność na podstawie inspekcji rocznych i pośrednich; 4) rozporządzeniu 1257/2013, ważne na najdłuższy dopuszczalny okres wynikający z tego rozporządzenia, oraz potwierdza ich ważność na podstawie przeglądów, o których mowa w art. 8 tego rozporządzenia. ” , w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **6)** w art. 8: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** Konwencji MARPOL, ważne na najdłuższy dopuszczalny okres wynikający z tej Konwencji, oraz potwierdza ich ważność na podstawie inspekcji rocznych i pośrednich stosownie do wymogów Konwencji; ” , w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „
+- **3)** Konwencji BWM, ważne na okres 5 lat, oraz potwierdza ich ważność na podstawie inspekcji rocznych i pośrednich;
+- **4)** rozporządzeniu 1257/2013, ważne na najdłuższy dopuszczalny okres wynikający z tego rozporządzenia, oraz potwierdza ich ważność na podstawie przeglądów, o których mowa w art. 8 tego rozporządzenia. ” , w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
     - **b)**
 
 - **3)** Konwencji BWM, statkowi o obcej przynależności – na wniosek właściwego organu państwa przynależności statku, będącego stroną tej Konwencji. ” , w ust. 4 wyrazy „w załączniku do ustawy” zastępuje się wyrazami „w załączniku nr 1 do ustawy”, po ust. 4 dodaje się ust. 4a w brzmieniu: „
@@ -94,7 +99,7 @@ source: "eli-html"
 
 2. Przed dokonaniem pierwszej dostawy dostawca jest obowiązany do zgłoszenia właściwemu dla miejsca dostawy dyrektorowi urzędu morskiego informacji dotyczących działalności w zakresie dostaw paliwa w polskich obszarach morskich.
 
-3. Zgłoszenie, o którym mowa w ust. 2, zawiera nazwę, siedzibę, adres korespondencyjny oraz numer telefonu dostawcy, a także określa rodzaje dostarczanych paliw z użyciem nomenklatury scalonej (kodów CN) oraz nazwy portów i przystani morskich, w których planowane jest dostarczanie poszczególnych paliw. Do zgłoszenia, o którym mowa w ust. 2, załącza się kopię koncesji na obrót paliwami oraz kopię pisemnego potwierdzenia zgłoszenia rejestracyjnego, o którym mowa w art. 16 ust. 3 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2019 r. poz. 864, z późn. zm.).
+3. Zgłoszenie, o którym mowa w ust. 2, zawiera nazwę, siedzibę, adres korespondencyjny oraz numer telefonu dostawcy, a także określa rodzaje dostarczanych paliw z użyciem nomenklatury scalonej (kodów CN) oraz nazwy portów i przystani morskich, w których planowane jest dostarczanie poszczególnych paliw. Do zgłoszenia, o którym mowa w ust. 2, załącza się kopię koncesji na obrót paliwami oraz kopię pisemnego potwierdzenia zgłoszenia rejestracyjnego, o którym mowa w art. 16 ust. 3 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2019 r. poz. 864, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1123, 1495, 1501, 1520, 1556 i 2116.).
 
 4. Dostawca informuje właściwego dla miejsca dostaw dyrektora urzędu morskiego o zmianie danych, o których mowa w ust. 3, w terminie 7 dni od dnia dokonania zmiany.
 
@@ -140,12 +145,12 @@ source: "eli-html"
 - **14)** art. 13i otrzymuje brzmienie: „ Podmiot, który nakłada lub usuwa szkodliwe pokrycia przeciwporostowe, ma obowiązek zapewnić, aby odpady powstałe podczas prac zostały zebrane i poddane procesom przetwarzania zgodnie z ustawą z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2019 r. poz. 701, 730, 1403 i 1579). ” ;
 - **15)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Postępowanie z wodami balastowymi i osadami
+#### Rozdział 3a
 
 **Art. 20a.** Przepisów dotyczących postępowania z wodami balastowymi i osadami nie stosuje się do statków wymienionych w art. 3 ust. 2 Konwencji BWM. 1. Zabroniony jest zrzut do morza wód balastowych niespełniających wymogów Konwencji BWM oraz osadów, z uwzględnieniem art. 20c. 2. W przypadku statku wskazanego w prawidle A-5 załącznika do Konwencji BWM, jeżeli:
 
 - **1)** cechy konstrukcyjne tego statku nie pozwalają na zastosowanie wymagań określonych w Konwencji BWM,
-- **2)** jest to uzasadnione ze względu na rejon lub warunki żeglugi możliwe jest, na wniosek armatora złożony do dyrektora urzędu morskiego właściwego ze względu na port macierzysty statku, zwolnienie tego statku z obowiązku spełniania wymagań określonych w Konwencji BWM i wyrażenie zgody na zastosowanie rozwiązań równoważnych z wymaganiami Konwencji BWM, określonych w przepisach wydanych na podstawie ust. 7.
+- **2)** jest to uzasadnione ze względu na rejon lub warunki żeglugi – możliwe jest, na wniosek armatora złożony do dyrektora urzędu morskiego właściwego ze względu na port macierzysty statku, zwolnienie tego statku z obowiązku spełniania wymagań określonych w Konwencji BWM i wyrażenie zgody na zastosowanie rozwiązań równoważnych z wymaganiami Konwencji BWM, określonych w przepisach wydanych na podstawie ust. 7.
 
 3. Wniosek, o którym mowa w ust. 2, zawiera:
 
@@ -291,16 +296,21 @@ source: "eli-html"
 
 13. Przepisu ust. 1 nie stosuje się do podmiotu prowadzącego działalność i użytkującego nabrzeże w granicach portu morskiego lub przystani morskiej, w przypadku gdy zagrożenia i działania związane z likwidacją zanieczyszczeń wynikających z działalności tego podmiotu zostały ujęte w planie zwalczania zagrożeń i zanieczyszczeń wód portowych opracowanym przez podmiot zarządzający portem lub przystanią morską, na terenie których prowadzona jest działalność i użytkowane jest nabrzeże. ” ;
 
-- **17)** w art. 26: w pkt 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ w stosunku do statku o przynależności do państwa strony Konwencji MARPOL, Konwencji Helsińskiej 1992 lub Konwencji BWM: ” , – lit. a i b otrzymują brzmienie: „ a) przeprowadzić, na statku w porcie lub bazie przeładunkowej na morzu, inspekcje w zakresie i trybie przewidzianym w art. 28 oraz kontrole książek zapisów olejowych, ładunkowych, odpadów powstających na statku, zapisów balastowych oraz zapisów o każdorazowym przejściu na zasilanie paliwem innym niż aktualnie używane, w celu ustalenia, czy ze statku nie dokonano zanieczyszczenia, z naruszeniem postanowień tych konwencji; wyniki inspekcji ujmuje się w sprawozdaniu, które przekazuje się kapitanowi statku, b) odmówić statkowi o obcej przynależności zezwolenia na wejście do portu lub do bazy przeładunkowej na morzu albo podjąć działania zapewniające, że uprawianie żeglugi tym statkiem nie będzie stanowiło istotnego zagrożenia dla środowiska morskiego, jeżeli statek nie odpowiada wymaganiom określonym w tych konwencjach; o odmowie dyrektor urzędu morskiego powiadamia konsula lub przedstawiciela dyplomatycznego państwa przynależności statku, a gdy jest to niemożliwe – inny właściwy organ tego państwa, ” , w pkt 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ w stosunku do statków o przynależności do obcego państwa niebędącego stroną Konwencji MARPOL lub Konwencji BWM: ” , – lit. a otrzymuje brzmienie: „ a) przeprowadzić inspekcję statku w celu sprawdzenia, czy stan statku odpowiada wymaganiom określonym w tych konwencjach; w razie stwierdzenia, że stan statku nie odpowiada tym wymaganiom, a uprawianie żeglugi tym statkiem stanowi istotne zagrożenie dla środowiska morskiego, może odmówić statkowi zezwolenia na wejście do portu lub do bazy przeładunkowej, ” ;
+- **17)** w art. 26: w pkt 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ w stosunku do statku o przynależności do państwa strony Konwencji MARPOL, Konwencji Helsińskiej 1992 lub Konwencji BWM: ” , lit. a i b otrzymują brzmienie: „ przeprowadzić, na statku w porcie lub bazie przeładunkowej na morzu, inspekcje w zakresie i trybie przewidzianym w art. 28 oraz kontrole książek zapisów olejowych, ładunkowych, odpadów powstających na statku, zapisów balastowych oraz zapisów o każdorazowym przejściu na zasilanie paliwem innym niż aktualnie używane, w celu ustalenia, czy ze statku nie dokonano zanieczyszczenia, z naruszeniem postanowień tych konwencji; wyniki inspekcji ujmuje się w sprawozdaniu, które przekazuje się kapitanowi statku, odmówić statkowi o obcej przynależności zezwolenia na wejście do portu lub do bazy przeładunkowej na morzu albo podjąć działania zapewniające, że uprawianie żeglugi tym statkiem nie będzie stanowiło istotnego zagrożenia dla środowiska morskiego, jeżeli statek nie odpowiada wymaganiom określonym w tych konwencjach; o odmowie dyrektor urzędu morskiego powiadamia konsula lub przedstawiciela dyplomatycznego państwa przynależności statku, a gdy jest to niemożliwe – inny właściwy organ tego państwa, ” , w pkt 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ w stosunku do statków o przynależności do obcego państwa niebędącego stroną Konwencji MARPOL lub Konwencji BWM: ” , lit. a otrzymuje brzmienie: „ przeprowadzić inspekcję statku w celu sprawdzenia, czy stan statku odpowiada wymaganiom określonym w tych konwencjach; w razie stwierdzenia, że stan statku nie odpowiada tym wymaganiom, a uprawianie żeglugi tym statkiem stanowi istotne zagrożenie dla środowiska morskiego, może odmówić statkowi zezwolenia na wejście do portu lub do bazy przeładunkowej, ” ;
+    - **a)**
     - **a)**
     - **b)**
+    - **b)**
+    - **a)**
 
 - **18)** w art. 28: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Inspekcja statku o przynależności do państwa strony Konwencji MARPOL lub Konwencji BWM ogranicza się do sprawdzenia świadectw i innych dokumentów przewidzianych w tych konwencjach. ” , w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) treść dokumentów nie jest wystarczająca do potwierdzenia lub sprawdzenia podejrzanego naruszenia; ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) na statku nie wdrożono procedur postępowania z wodami balastowymi i osadami wymaganych Konwencją BWM. ” ;
+1. Inspekcja statku o przynależności do państwa strony Konwencji MARPOL lub Konwencji BWM ogranicza się do sprawdzenia świadectw i innych dokumentów przewidzianych w tych konwencjach. ” , w ust. 2: pkt 2 otrzymuje brzmienie: „
 
 - **b)**
+- **2)** treść dokumentów nie jest wystarczająca do potwierdzenia lub sprawdzenia podejrzanego naruszenia; ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** na statku nie wdrożono procedur postępowania z wodami balastowymi i osadami wymaganych Konwencją BWM. ” ;
 - **19)** w art. 28a: po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
 
@@ -376,40 +386,37 @@ source: "eli-html"
 
 35. Za inspekcję dodatkową, ogólną lub częściową, po zmianie, wymianie lub znacznej naprawie konstrukcji kadłuba, wyposażenia, systemów, armatury, środków i materiałów niezbędnych do osiągnięcia pełnej zgodności z postanowieniami Konwencji BWM i wydanie świadectwa – 180 PLN za każdą godzinę przeprowadzonej inspekcji. ” ;
 
-- **30)** dodaje się załącznik nr 2 do ustawy w brzmieniu: „
+- **30)** dodaje się załącznik nr 2 do ustawy w brzmieniu: „ Załącznik nr 2 do ustawy z dnia 16 marca 1995 r. (Dz. U. z 2017 r. poz. 2000) OPŁATY ZA ZATWIERDZANIE DOKUMENTACJI TECHNICZNEJ I PLANÓW, ZATWIERDZANIE SYSTEMÓW OBRÓBKI WÓD BALASTOWYCH ORAZ WYDAWANIE ZWOLNIEŃ, O KTÓRYCH MOWA W ROZDZIALE 3A
 
-## Załącznik nr 2 — do ustawy z dnia 16 marca 1995 r. (Dz. U. z 2017 r. poz. 2000) OPŁATY ZA ZATWIERDZANIE DOKUMENTACJI TECHNICZNEJ I PLANÓW, ZATWIERDZANIE SYSTEMÓW OBRÓBKI WÓD BALASTOWYCH ORAZ WYDAWANIE ZWOLNIEŃ, O KTÓRYCH MOWA W ROZDZIALE 3A
+1. Za zatwierdzenie „Planu postępowania z wodami balastowymi bez wymiany wód balastowych” zgodnie z postanowieniami Konwencji BWM – 2000 PLN.
 
-1.
-Za zatwierdzenie „Planu postępowania z wodami balastowymi bez wymiany wód balastowych” zgodnie z postanowieniami Konwencji BWM – 2000 PLN.
-2.
-Za zatwierdzenie „Planu postępowania z wodami balastowymi z wymianą wód balastowych” zgodnie z postanowieniami Konwencji BWM – 6000 PLN.
-3.
-Za zatwierdzenie systemu obróbki wód balastowych zgodnie z postanowieniami Konwencji BWM oraz wydanie świadectwa pod nazwą „Certyfikat Zatwierdzenia Typu Systemu Obróbki Wód Balastowych” – 150 000 PLN.
-4.
-Za zatwierdzenie systemu obróbki wód balastowych, który wykorzystuje substancje aktywne zgodnie z postanowieniami Konwencji BWM – 300 000 PLN.
-5.
-Za zatwierdzenie zmian do systemu obróbki wód balastowych – 3000 PLN.
-6.
-Za udzielenie zwolnienia na podstawie prawidła A-4 załącznika do Konwencji BWM – 2000 PLN.
-7.
-Za udzielenie zwolnienia, o którym mowa w art. 20b ust. 2, i wyrażenie zgody na zastosowanie rozwiązań równoważnych z wymaganiami Konwencji BWM – 300 PLN.
-” .
-Art. 2.
-W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2019 r. poz. 1452, 1702 i 2197) w art. 5 w pkt 33 w lit. i średnik zastępuje się przecinkiem i dodaje się lit. j w brzmieniu:
-„
-j)
-Międzynarodową konwencję o kontroli i postępowaniu ze statkowymi wodami balastowymi i osadami, 2004, sporządzoną w dniu 13 lutego 2004 r. w Londynie;
-” .
-Art. 3.
-1.
-Do statków o pojemności brutto (GT) poniżej 400 standardy określone w prawidle D-2 załącznika do Międzynarodowej konwencji o kontroli i postępowaniu ze statkowymi wodami balastowymi i osadami, 2004, sporządzonej w dniu 13 lutego 2004 r. w Londynie, zwanej dalej „Konwencją BWM”, stosuje się od dnia 8 września 2024 r.
-2.
-Dla statków, o których mowa w art. 20c ustawy zmienianej w art. 1, standardy określone w prawidle D-2 załącznika do Konwencji BWM stosuje się zgodnie z harmonogramem określonym w prawidle B-3 załącznika do Konwencji BWM.
-Art. 4.
-Ustawa wchodzi w życie z dniem 1 stycznia 2020 r., z wyjątkiem:
-1)
-art. 1 pkt 16, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
-2)
-art. 1 pkt 24 lit. a, który wchodzi w życie z dniem 1 marca 2020 r.
+2. Za zatwierdzenie „Planu postępowania z wodami balastowymi z wymianą wód balastowych” zgodnie z postanowieniami Konwencji BWM – 6000 PLN.
+
+3. Za zatwierdzenie systemu obróbki wód balastowych zgodnie z postanowieniami Konwencji BWM oraz wydanie świadectwa pod nazwą „Certyfikat Zatwierdzenia Typu Systemu Obróbki Wód Balastowych” – 150 000 PLN.
+
+4. Za zatwierdzenie systemu obróbki wód balastowych, który wykorzystuje substancje aktywne zgodnie z postanowieniami Konwencji BWM – 300 000 PLN.
+
+5. Za zatwierdzenie zmian do systemu obróbki wód balastowych – 3000 PLN.
+
+6. Za udzielenie zwolnienia na podstawie prawidła A-4 załącznika do Konwencji BWM – 2000 PLN.
+
+7. Za udzielenie zwolnienia, o którym mowa w art. 20b ust. 2, i wyrażenie zgody na zastosowanie rozwiązań równoważnych z wymaganiami Konwencji BWM – 300 PLN. ” .
+
+**Art. 2.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2019 r. poz. 1452, 1702 i 2197) w art. 5 w pkt 33 w lit. i średnik zastępuje się przecinkiem i dodaje się lit. j w brzmieniu: „
+
+Międzynarodową konwencję o kontroli i postępowaniu ze statkowymi wodami balastowymi i osadami, 2004, sporządzoną w dniu 13 lutego 2004 r. w Londynie; ” .
+
+- **j)**
+
+**Art. 3.**
+
+1. Do statków o pojemności brutto (GT) poniżej 400 standardy określone w prawidle D-2 załącznika do Międzynarodowej konwencji o kontroli i postępowaniu ze statkowymi wodami balastowymi i osadami, 2004, sporządzonej w dniu 13 lutego 2004 r. w Londynie, zwanej dalej „Konwencją BWM”, stosuje się od dnia 8 września 2024 r.
+
+2. Dla statków, o których mowa w art. 20c ustawy zmienianej w art. 1, standardy określone w prawidle D-2 załącznika do Konwencji BWM stosuje się zgodnie z harmonogramem określonym w prawidle B-3 załącznika do Konwencji BWM.
+
+**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2020 r., z wyjątkiem:
+
+- **1)** art. 1 pkt 16, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
+- **2)** art. 1 pkt 24 lit. a, który wchodzi w życie z dniem 1 marca 2020 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1123, 1495, 1501, 1520, 1556 i 2116.
+
 

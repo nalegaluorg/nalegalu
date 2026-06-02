@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-09 |
 | Data wydania | 2015-08-17 |
-| Wejście w życie | 2015-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001192) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1192/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 stycznia 2000 r. o Rzeczniku Praw Dziecka (Dz. U. Nr 6, poz. 69, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 stycznia 2000 r. o Rzeczniku Praw Dziecka (Dz. U. Nr 6, poz. 69, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1345, z 2010 r. Nr 182, poz. 1228 i Nr 197, poz. 1307 oraz z 2011 r. Nr 168, poz. 1004.) wprowadza się następujące zmiany:
 
 - **1)** w art. 10: w ust. 1 pkt 2 otrzymuje brzmienie: „
     - **a)**
@@ -40,5 +39,5 @@ source: "eli-html"
 
 **Art. 10c.** Rzecznik może przetwarzać wszelkie informacje, w tym dane osobowe, o których mowa w art. 27 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2014 r. poz. 1182 i 1662), niezbędne do realizacji swoich ustawowych zadań. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1345, z 2010 r. Nr 182, poz. 1228 i Nr 197, poz. 1307 oraz z 2011 r. Nr 168, poz. 1004.
 

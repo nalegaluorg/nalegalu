@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-01 |
 | Data wydania | 2005-07-29 |
-| Wejście w życie | 2005-08-13 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051411183) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1183/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. Nr 111, poz. 535, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. Nr 111, poz. 535, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 88, poz. 554 i Nr 113, poz. 731, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 oraz z 2000 r. Nr 120, poz. 1268.) wprowadza się następujące zmiany:
 
 - **1)** art. 10 otrzymuje brzmienie: „
 
@@ -159,5 +158,5 @@ source: "eli-html"
 
 **Art. 2.** Biurem Praw Pacjenta, o którym mowa w art. 1 pkt 2, jest Biuro utworzone przez ministra właściwego do spraw zdrowia na podstawie zarządzenia Ministra Zdrowia z dnia 28 grudnia 2001 r. w sprawie utworzenia Biura Praw Pacjenta (Dz. Urz. Min. Zdrow. Nr 13, poz. 83 oraz z 2002 r. Nr 3, poz. 13).
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 10a-10d ustawy, o której mowa w art. 1 ustawy, które wchodzą w życie z dniem 1 stycznia 2006 r.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 10a-10d ustawy, o której mowa w art. 1 ustawy, które wchodzą w życie z dniem 1 stycznia 2006 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 88, poz. 554 i Nr 113, poz. 731, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 oraz z 2000 r. Nr 120, poz. 1268.
 

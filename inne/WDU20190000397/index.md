@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 27 lutego 2019 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej
+# Rozporządzenie Ministra Zdrowiaz dnia 27 lutego 2019 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,17 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-27 |
 | Data wydania | 2019-02-28 |
-| Wejście w życie | 2019-03-01 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000397) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/397/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60 i 303.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357 i 2164, z 2017 r. poz. 1244, 1766 i 2423 oraz z 2018 r. poz. 657) w załączniku nr 1 w lp. 60 w kolumnie 4 w części „Organizacja udzielania świadczeń” wprowadza się następujące zmiany:
 1)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
 Badania ogólne, specjalistyczne i diagnostyczne obejmują:
 1)
@@ -58,13 +56,11 @@ ogólne badanie lekarskie wraz z oceną stanu uzębienia i oceną ostrości wzro
 b)
 badanie ortopedyczne,
 c)
-konsultację neurologiczną.
-” ;
+konsultację neurologiczną. ” ;
 2)
 uchyla się ust. 3 i 4;
 3)
-ust. 6 i 7 otrzymują brzmienie:
-„
+ust. 6 i 7 otrzymują brzmienie: „
 6.
 Wstępne badania lekarskie dzieci i młodzieży do ukończenia 21. roku życia, ubiegających się o wydanie orzeczenia lekarskiego dopuszczającego do uprawniania danego sportu obejmują:
 1)
@@ -110,10 +106,7 @@ konsultację neurologiczną – w przypadku osób, które zamierzają uprawiać 
 b)
 badanie spirometryczne – w przypadku osób, które zamierzają uprawiać płetwonurkowanie;
 3)
-dodatkowo co 6 miesięcy – w przypadku badań, o których mowa w pkt 1 lit. a-c, u zawodników do ukończenia 16. roku życia, jeśli wymaga tego ich stan zdrowia lub specyfika współzawodnictwa sportowego.
-Okresowe badania lekarskie przeprowadza się przed upływem terminu ważności orzeczenia lekarskiego o zdolności do uprawiania danego sportu.
-” .
+dodatkowo co 6 miesięcy – w przypadku badań, o których mowa w pkt 1 lit. a-c, u zawodników do ukończenia 16. roku życia, jeśli wymaga tego ich stan zdrowia lub specyfika współzawodnictwa sportowego. Okresowe badania lekarskie przeprowadza się przed upływem terminu ważności orzeczenia lekarskiego o zdolności do uprawiania danego sportu. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60 i 303.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60 i 303.
 

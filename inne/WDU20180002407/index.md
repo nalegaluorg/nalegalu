@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-14 |
 | Data wydania | 2018-12-27 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002407) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2407/text.pdf) |
 
@@ -70,8 +69,7 @@ zasady wykonywania zawodu komornika sądowego i zasady etyki zawodowej komornika
 10)
 zasady prowadzenia indywidualnej kancelarii komorniczej, w tym zasady biurowości w indywidualnej kancelarii komorniczej,
 11)
-przepisy ustrojowe dotyczące samorządu komorniczego, sądownictwa, organów kontroli państwowej i ochrony prawa z elementami prawa konstytucyjnego
-ze wskazaniem minimalnej liczby jednostek szkoleniowych z poszczególnych zakresów.
+przepisy ustrojowe dotyczące samorządu komorniczego, sądownictwa, organów kontroli państwowej i ochrony prawa z elementami prawa konstytucyjnego – ze wskazaniem minimalnej liczby jednostek szkoleniowych z poszczególnych zakresów.
 § 6.
 W roku 2019 Krajowa Rada Komornicza ustala program w terminie 14 dni od dnia wejścia w życie niniejszego rozporządzenia. Terminy określone w § 2 i § 3 ust. 1 i 3 skraca się do 7 dni.
 § 7.

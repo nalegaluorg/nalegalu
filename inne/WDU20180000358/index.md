@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 6 lutego 2018 r. w sprawie kandydatów na przewodników psów służbowych oraz psów służbowych w Służbie Celno-Skarbowej
+# Rozporządzenie Ministra Finansówz dnia 6 lutego 2018 r. w sprawie kandydatów na przewodników psów służbowych oraz psów służbowych w Służbie Celno-Skarbowej Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,20 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-02-06 |
 | Data wydania | 2018-02-13 |
-| Wejście w życie | 2018-02-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000358) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/358/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Rekrutacja kandydatów Rozdział 3 – Hodowla i nabywanie psów Rozdział 4 – Szkolenie i wykorzystywanie psów Rozdział 5 – Żywienie, pielęgnacja i utrzymanie psów Rozdział 6 – Przepisy przejściowe i przepis końcowy
+Treść rozporządzenia
 Załącznik – Norma wyżywienia psa
 Treść rozporządzenia
-Na podstawie art. 89 ust. 1 pkt 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 89 ust. 1 pkt 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255, z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491 oraz z 2018 r. poz. 106 i 138.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
 warunki i sposób rekrutacji kandydatów na przewodników psów służbowych, zwanych dalej „kandydatami”;
 2)
 warunki hodowli, nabywania, szkolenia, wykorzystywania, żywienia, pielęgnacji i utrzymania psów służbowych, zwanych dalej „psami”, oraz pielęgnacji i utrzymania psów po wycofaniu ze służby.
+Rekrutacja kandydatów
 § 2.
 Kandydaci są wyłaniani w drodze dwustopniowej rekrutacji przeprowadzanej przez komisję regionalną i komisję centralną, powoływane do każdej rekrutacji.
 § 3.
@@ -129,6 +130,7 @@ e)
 Oceny kompetencji dokonuje się podczas rozmowy kwalifikacyjnej, przyznając punkty, o których mowa w ust. 1 pkt 2, w tym 0 pkt za brak kompetencji, 5 pkt za bardzo wysoki poziom kompetencji.
 § 10.
 Komisja centralna określa przydatność albo brak przydatności kandydata do pełnienia funkcji przewodnika psa. Przydatnym do pełnienia funkcji jest kandydat, który w wyniku rekrutacji otrzymał łącznie co najmniej 38 pkt, w tym z oceny komisji centralnej co najmniej 30 pkt.
+Hodowla i nabywanie psów
 § 11.
 1.
 Wielkość hodowli psów oraz ich nabycie przez izbę administracji skarbowej jest uzależnione od zapotrzebowania na psy wyszkolone w określonych profilach. Liczbę psów, na które istnieje zapotrzebowanie, określa komórka organizacyjna nadzorująca wykonywanie kontroli celno-skarbowej z użyciem psów w urzędzie obsługującym ministra właściwego do spraw finansów publicznych.
@@ -172,6 +174,7 @@ g)
 wady wzroku lub słuchu,
 h)
 innych wad niewymienionych w lit. a-g, a mających negatywny wpływ na pracę psa.
+Szkolenie i wykorzystywanie psów
 § 13.
 1.
 Pies przeznaczony do wykonywania kontroli celno-skarbowej, zwanej dalej „kontrolą”, przechodzi szkolenie o określonym profilu.
@@ -208,6 +211,7 @@ nieszczęśliwy wypadek;
 szkody wyrządzone przez psa.
 2.
 Umowę ubezpieczenia, o którym mowa w ust. 1, zawiera dyrektor izby administracji skarbowej.
+Żywienie, pielęgnacja i utrzymanie psów
 § 18.
 1.
 Normę wyżywienia psa, stanowiącą dzienną ilość karmy i artykułów spożywczych niezbędnych do prawidłowego żywienia jednego psa, zwaną dalej „normą”, dla psów ras dużych, takich jak owczarek niemiecki, owczarek belgijski Malinois, labrador retriever i ras zbliżonych do nich wielkością:
@@ -216,8 +220,7 @@ w wieku od 3 tygodni do 3 miesięcy,
 2)
 w wieku powyżej 3 miesięcy do 12 miesięcy,
 3)
-w wieku powyżej 12 miesięcy
-określa załącznik do rozporządzenia.
+w wieku powyżej 12 miesięcy – określa załącznik do rozporządzenia.
 2.
 Dla psów ras:
 1)
@@ -225,8 +228,7 @@ Dla psów ras:
 2)
 małych stosuje się normę zmniejszoną o 45%,
 3)
-miniaturowych stosuje się normę zmniejszoną o 60%
-w stosunku do normy ustalonej zgodnie z ust. 1.
+miniaturowych stosuje się normę zmniejszoną o 60% – w stosunku do normy ustalonej zgodnie z ust. 1.
 3.
 W przypadku suki karmiącej stosuje się normę zwiększoną o 30% w stosunku do normy ustalonej zgodnie z ust. 1 i 2.
 4.
@@ -311,6 +313,7 @@ dotychczasowy przewodnik psa, o ile zaprzestanie wykorzystywania psa w służbie
 inny funkcjonariusz albo pracownik tej samej izby administracji skarbowej dający rękojmię należytej opieki nad psem.
 2.
 Przepisy § 17–19, § 20 pkt 1–3 oraz § 21 stosuje się odpowiednio.
+Przepisy przejściowe i przepis końcowy
 § 26.
 1.
 Szkolenia i weryfikacje przeprowadzone od dnia 1 marca 2017 r. do dnia poprzedzającego dzień wejścia w życie rozporządzenia uznaje się za szkolenia i weryfikacje w rozumieniu odpowiednio § 13 i § 14.
@@ -327,20 +330,32 @@ W odniesieniu do psów wycofanych ze służby nie stosuje się przepisów ust. 3
 7.
 W przypadku gdy zawarta umowa ubezpieczenia nie obejmuje pełnego zakresu ubezpieczenia określonego w § 17 ust. 1, dyrektor izby administracji skarbowej, w terminie 2 miesięcy od dnia wejścia w życie rozporządzenia, zawiera dodatkową umowę ubezpieczenia.
 § 27.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255, z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491 oraz z 2018 r. poz. 106 i 138. 3) Zakres spraw regulowany niniejszym rozporządzeniem był uregulowany zarządzeniem nr 46 Ministra Finansów z dnia 23 listopada 2011 r. w sprawie szkolenia przewodników psów służbowych i psów służbowych w Służbie Celnej oraz utrzymania tych psów, które utraciło moc z dniem 1 marca 2017 r., w związku z wejściem w życie ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Zakres spraw regulowany niniejszym rozporządzeniem był uregulowany zarządzeniem nr 46 Ministra Finansów z dnia 23 listopada 2011 r. w sprawie szkolenia przewodników psów służbowych i psów służbowych w Służbie Celnej oraz utrzymania tych psów, które utraciło moc z dniem 1 marca 2017 r., w związku z wejściem w życie ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255, z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491 oraz z 2018 r. poz. 106 i 138. 3) Zakres spraw regulowany niniejszym rozporządzeniem był uregulowany zarządzeniem nr 46 Ministra Finansów z dnia 23 listopada 2011 r. w sprawie szkolenia przewodników psów służbowych i psów służbowych w Służbie Celnej oraz utrzymania tych psów, które utraciło moc z dniem 1 marca 2017 r., w związku z wejściem w życie ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409).
 Załącznik – Norma wyżywienia psa
-Lp. Nazwa artykułu Jednostka miary Wiek od 3 tygodni do 3 miesięcy powyżej 3 miesięcy do 12 miesięcy powyżej 12 miesięcy okres okres okres letni zimowy letni zimowy letni zimowy 1 karma sucha gram 350 400 450 550 500 600 2 dodatek do karmy* gram 50 50 50 50 50 50 3 dodatek – przysmak pochodzenia zwierzęcego szt. 0,5 0,5 0,5 0,5 0,5 0,5 * Dodatek do karmy stanowi: mięso wołowe bez kości, twaróg półtłusty, mleko pełne, jaja kurze, olej roślinny, kasza jęczmienna, ryż, marchew i chleb suchy – w formie zbilansowanej pod względem zawartości składników.
+Lp. Nazwa artykułu Jednostka miary Wiek od 3 tygodni do 3 miesięcy powyżej 3 miesięcy do 12 miesięcy powyżej 12 miesięcy okres okres okres letni zimowy letni zimowy letni zimowy 1 karma sucha gram 350 400 450 550 500 600 2 dodatek do karmy* gram 50 50 50 50 50 50 3 dodatek – przysmak pochodzenia zwierzęcego szt. 0,5 0,5 0,5 0,5 0,5 0,5
+* Dodatek do karmy stanowi: mięso wołowe bez kości, twaróg półtłusty, mleko pełne, jaja kurze, olej roślinny, kasza jęczmienna, ryż, marchew i chleb suchy – w formie zbilansowanej pod względem zawartości składników.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Rekrutacja kandydatów
+#### Rozdział 2 – Rekrutacja kandydatów
 
-#### Rozdział 3 Hodowla i nabywanie psów
+#### Rozdział 3 – Hodowla i nabywanie psów
 
-#### Rozdział 4 Szkolenie i wykorzystywanie psów
+#### Rozdział 4 – Szkolenie i wykorzystywanie psów
 
-#### Rozdział 5 Żywienie, pielęgnacja i utrzymanie psów
+#### Rozdział 5 – Żywienie, pielęgnacja i utrzymanie psów
 
-#### Rozdział 6 Przepisy przejściowe i przepis końcowy
+#### Rozdział 6 – Przepisy przejściowe i przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

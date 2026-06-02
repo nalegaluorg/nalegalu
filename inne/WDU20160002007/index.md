@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 4 listopada 2016 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych
+# Ustawa z dnia 4 listopada 2016 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 22 lipca 2016 r. pod numerem 2016/383/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-04 |
 | Data wydania | 2016-12-13 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002007) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2007/text.pdf) |
 
@@ -30,7 +29,7 @@ source: "eli-html"
 
 **Art. 7b.**
 
-1. Oznakowanie artykułu rolno-spożywczego będącego produktem nieprzetworzonym w rozumieniu art. 2 ust. 1 lit. n rozporządzenia (WE) nr 852/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie higieny środków spożywczych (Dz. Urz. UE L 139 z 30.04.2004, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 319) może zawierać informację „Produkt polski”, jeżeli produkcja podstawowa w rozumieniu art. 3 pkt 17 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności tego produktu odbyła się na terytorium Rzeczypospolitej Polskiej, a w przypadku:
+1. Oznakowanie artykułu rolno-spożywczego będącego produktem nieprzetworzonym w rozumieniu art. 2 ust. 1 lit. n rozporządzenia (WE) nr 852/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie higieny środków spożywczych (Dz. Urz. UE L 139 z 30.04.2004, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 153 z 12.06.2008, str. 42, Dz. Urz. UE L 277 z 18.10.2008, str. 7, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 160 z 12.06.2013, str. 19 oraz Dz. Urz. UE L 222 z 17.08.2016, str. 114. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 319) może zawierać informację „Produkt polski”, jeżeli produkcja podstawowa w rozumieniu art. 3 pkt 17 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności tego produktu odbyła się na terytorium Rzeczypospolitej Polskiej, a w przypadku:
 
 - **1)** mięsa – jeżeli zostało pozyskane ze zwierząt urodzonych na terytorium Rzeczypospolitej Polskiej oraz których chów i ubój odbyły się na terytorium Rzeczypospolitej Polskiej;
 - **2)** produktów pochodzenia zwierzęcego innych niż mięso – jeżeli zostały pozyskane od zwierząt, których chów odbywa się na terytorium Rzeczypospolitej Polskiej.
@@ -48,5 +47,5 @@ source: "eli-html"
 
 **Art. 2.** Artykuły rolno-spożywcze, które są oznakowane znakiem graficznym zawierającym informację „Produkt polski” niezgodnym z wzorem określonym w przepisach wydanych na podstawie art. 7b ust. 4 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, mogą pozostawać w obrocie do dnia 31 grudnia 2017 r.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r. 1) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 22 lipca 2016 r. pod numerem 2016/383/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 153 z 12.06.2008, str. 42, Dz. Urz. UE L 277 z 18.10.2008, str. 7, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 160 z 12.06.2013, str. 19 oraz Dz. Urz. UE L 222 z 17.08.2016, str. 114.
 

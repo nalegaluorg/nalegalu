@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-08 |
 | Data wydania | 2024-11-29 |
-| Wejście w życie | 2024-11-30 |
 | Ostatnia zmiana | 2024-12-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001755) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1755/text.pdf) |
 
@@ -39,7 +38,7 @@ source: "eli-html"
 
 - **1)** gminy,
 - **2)** powiaty,
-- **3)** województwa proporcjonalnie do wysokości udziału kwoty dochodów na rok 2024 z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych odpowiednio gmin, powiatów i województw w łącznej kwocie dochodów wszystkich jednostek samorządu terytorialnego z tego tytułu na rok 2024, ustalonych z uwzględnieniem kwot wynikających z korekty, o której mowa w art. 9c ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (w brzmieniu z dnia 26 października 2021 r., Dz. U. z 2021 r. poz. 1927).
+- **3)** województwa – proporcjonalnie do wysokości udziału kwoty dochodów na rok 2024 z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych odpowiednio gmin, powiatów i województw w łącznej kwocie dochodów wszystkich jednostek samorządu terytorialnego z tego tytułu na rok 2024, ustalonych z uwzględnieniem kwot wynikających z korekty, o której mowa w art. 9c ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (w brzmieniu z dnia 26 października 2021 r., Dz. U. z 2021 r. poz. 1927).
 
 3. Kwota przysługująca gminom zgodnie z ust. 2 pkt 1 podlega podziałowi między poszczególne gminy proporcjonalnie do wysokości udziału kwoty dochodów na rok 2024 z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych danej gminy w łącznej kwocie dochodów wszystkich gmin z tego tytułu na rok 2024, ustalonych z uwzględnieniem kwot wynikających z korekty, o której mowa w art. 9c ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (w brzmieniu z dnia 26 października 2021 r., Dz. U. z 2021 r. poz. 1927).
 
@@ -53,7 +52,7 @@ source: "eli-html"
 - **4)** 3 000 000 zł, a liczba mieszkańców powiatu nie przekracza 75 000,
 - **5)** 4 000 000 zł, a liczba mieszkańców powiatu przekracza 75 000,
 - **6)** 6 000 000 zł, a liczba mieszkańców województwa nie przekracza 1 250 000,
-- **7)** 8 000 000 zł, a liczba mieszkańców województwa przekracza 1 250 000 przy czym środki te są przekazywane w wysokości zapewniającej dodatkowe dochody nie niższe od kwot wskazanych odpowiednio w pkt 1–7.
+- **7)** 8 000 000 zł, a liczba mieszkańców województwa przekracza 1 250 000 – przy czym środki te są przekazywane w wysokości zapewniającej dodatkowe dochody nie niższe od kwot wskazanych odpowiednio w pkt 1–7.
 
 6. Kwota z tytułu uzupełnienia subwencji ogólnej podlega zmniejszeniu w przypadku, gdy suma dochodów jednostki samorządu terytorialnego, o których mowa w ust. 3–5, jest wyższa od dochodów tej jednostki na rok 2024 z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych, ustalonych z uwzględnieniem kwot wynikających z korekty, o której mowa w art. 9c ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (w brzmieniu z dnia 26 października 2021 r., Dz. U. z 2021 r. poz. 1927).
 

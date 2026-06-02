@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-08-09 |
 | Data wydania | 2012-08-22 |
-| Wejście w życie | 2012-09-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000949) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/949/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 25 pkt 2 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2011 r. Nr 12, poz. 59, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 25 pkt 2 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2011 r. Nr 12, poz. 59, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 34, poz. 170, Nr 106, poz. 622 i Nr 224, poz. 1337.) zarządza się, co następuje:
 § 1.
 Przedsiębiorca powinien dysponować odpowiednim wyposażeniem technicznym, umożliwiającym wykonywanie prac urządzeniowych przy sporządzaniu planów urządzenia lasu obejmującym:
 1)
@@ -56,5 +55,5 @@ wyższe o kierunku leśnictwo, geografia, biologia, geodezja i kartografia, gosp
 2.
 W okresie stażu pracy, o którym mowa w ust. 1, pracownik powinien brać udział w sporządzaniu co najmniej dwóch planów urządzenia lasu wraz z prognozami oddziaływania na środowisko, które zostały zatwierdzone przez ministra właściwego do spraw środowiska.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 34, poz. 170, Nr 106, poz. 622 i Nr 224, poz. 1337.
 

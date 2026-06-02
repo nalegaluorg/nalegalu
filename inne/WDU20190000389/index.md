@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 22 lutego 2019 r. w sprawie zawieszania wypłaty środków gwarantowanych deponentom w przypadku blokady środków zdeponowanych na rachunku
+# Rozporządzenie Ministra Finansówz dnia 22 lutego 2019 r. w sprawie zawieszania wypłaty środków gwarantowanych deponentom w przypadku blokady środków zdeponowanych na rachunku Minister Finansów kieruje działem administracji rządowej ‒ instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-22 |
 | Data wydania | 2019-02-28 |
-| Wejście w życie | 2019-03-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000389) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/389/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 54 ust. 4 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2017 r. poz. 1937, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 54 ust. 4 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2017 r. poz. 1937, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2491, z 2018 r. poz. 685, 723, 1637 i 2243 oraz z 2019 r. poz. 326.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
-szczegółowe warunki i tryb zawieszania wypłaty środków gwarantowanych deponentom, w przypadku gdy środki zdeponowane na rachunku zostały zablokowane na podstawie przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu lub została dokonana blokada rachunku podmiotu kwalifikowanego w rozumieniu art. 119zg pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.);
+szczegółowe warunki i tryb zawieszania wypłaty środków gwarantowanych deponentom, w przypadku gdy środki zdeponowane na rachunku zostały zablokowane na podstawie przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu lub została dokonana blokada rachunku podmiotu kwalifikowanego w rozumieniu art. 119zg pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629, 1693, 2126, 2193, 2244 i 2354 oraz z 2019 r. poz. 60.);
 2)
 dane, jakie powinno zawierać zawiadomienie przesyłane do Bankowego Funduszu Gwarancyjnego, zwanego dalej „Funduszem”, o prowadzonym postępowaniu karnym oraz zawiadomienie o jego zakończeniu;
 3)
@@ -52,8 +51,7 @@ Podmiot objęty systemem gwarantowania, wobec którego nastąpiło spełnienie w
 3)
 postanowienia o wstrzymaniu transakcji lub blokadzie rachunku deponenta, wydanego przez prokuratora w związku z postępowaniem karnym, na zasadach określonych w przepisach o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu,
 4)
-informacji o wystąpieniu innych okoliczności mających wpływ na zawieszenie wypłaty środków gwarantowanych, takich jak przedłużenie, zmiana zakresu lub uchylenie blokady rachunku albo wstrzymania transakcji, w tym w związku z postępowaniem karnym
-zawiadamia o tym Fundusz niezwłocznie, nie później jednak niż w terminie 1 dnia roboczego od dnia otrzymania tego żądania, postanowienia lub informacji o wystąpieniu okoliczności, o których mowa w pkt 4.
+informacji o wystąpieniu innych okoliczności mających wpływ na zawieszenie wypłaty środków gwarantowanych, takich jak przedłużenie, zmiana zakresu lub uchylenie blokady rachunku albo wstrzymania transakcji, w tym w związku z postępowaniem karnym – zawiadamia o tym Fundusz niezwłocznie, nie później jednak niż w terminie 1 dnia roboczego od dnia otrzymania tego żądania, postanowienia lub informacji o wystąpieniu okoliczności, o których mowa w pkt 4.
 2.
 Zawiadomienie jest dokonywane w sposób umożliwiający potwierdzenie jego odbioru.
 § 3.
@@ -103,6 +101,5 @@ datę przekazania deponentowi przez Fundusz informacji, o której mowa w § 5 us
 6)
 okres wstrzymania transakcji lub blokady rachunku albo termin ich uchylenia wynikający z zawiadomienia, o którym mowa w § 2 ust. 1.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej ‒ instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2491, z 2018 r. poz. 685, 723, 1637 i 2243 oraz z 2019 r. poz. 326. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629, 1693, 2126, 2193, 2244 i 2354 oraz z 2019 r. poz. 60. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 6 października 2016 r. w sprawie zawieszania wypłaty środków gwarantowanych deponentom w przypadku, gdy środki zdeponowane na rachunku zostały zablokowane na podstawie przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 1694), które utraciło moc z dniem 30 kwietnia 2018 r. w związku z wejściem w życie ustawy z dnia 24 listopada 2017 r. o zmianie niektórych ustaw w celu przeciwdziałania wykorzystywaniu sektora finansowego do wyłudzeń skarbowych (Dz. U. poz. 2491).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 6 października 2016 r. w sprawie zawieszania wypłaty środków gwarantowanych deponentom w przypadku, gdy środki zdeponowane na rachunku zostały zablokowane na podstawie przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 1694), które utraciło moc z dniem 30 kwietnia 2018 r. w związku z wejściem w życie ustawy z dnia 24 listopada 2017 r. o zmianie niektórych ustaw w celu przeciwdziałania wykorzystywaniu sektora finansowego do wyłudzeń skarbowych (Dz. U. poz. 2491). 1) Minister Finansów kieruje działem administracji rządowej ‒ instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2491, z 2018 r. poz. 685, 723, 1637 i 2243 oraz z 2019 r. poz. 326. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629, 1693, 2126, 2193, 2244 i 2354 oraz z 2019 r. poz. 60. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 6 października 2016 r. w sprawie zawieszania wypłaty środków gwarantowanych deponentom w przypadku, gdy środki zdeponowane na rachunku zostały zablokowane na podstawie przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 1694), które utraciło moc z dniem 30 kwietnia 2018 r. w związku z wejściem w życie ustawy z dnia 24 listopada 2017 r. o zmianie niektórych ustaw w celu przeciwdziałania wykorzystywaniu sektora finansowego do wyłudzeń skarbowych (Dz. U. poz. 2491).
 

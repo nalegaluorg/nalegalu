@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-09-04 |
 | Data wydania | 2013-09-18 |
-| Wejście w życie | 2013-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001098) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1098/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618 oraz z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092) zarządza się, co następuje:
 § 1.
-Branżowy Ośrodek Badawczo-Rozwojowy Maszyn Elektrycznych „Komel” z siedzibą w Katowicach, numer identyfikacyjny REGON 000038014, numer identyfikacji podatkowej NIP 634–013–31–63 z dniem 1 października 2013 r. otrzymuje nazwę Instytut Napędów i Maszyn Elektrycznych KOMEL.
+Branżowy Ośrodek Badawczo-Rozwojowy Maszyn Elektrycznych „Komel” z siedzibą w Katowicach, numer identyfikacyjny REGON 000038014, numer identyfikacji podatkowej NIP 634–013–31–63Branżowy Ośrodek Badawczo-Rozwojowy Maszyn Elektrycznych „Komel” został utworzony zarządzeniem nr 45/Org/73 Ministra Przemysłu Maszynowego z dnia 17 sierpnia 1973 r. w sprawie utworzenia Branżowego Ośrodka Badawczo-Rozwojowego Maszyn Elektrycznych „Ema-Komel”, zmienionym: zarządzeniem nr 27/Org/86 Ministra Hutnictwa i Przemysłu Maszynowego z dnia 24 marca 1986 r. w sprawie dostosowania organizacji jednostki badawczo-rozwojowej pod nazwą Branżowy Ośrodek Badawczo-Rozwojowy Maszyn Elektrycznych „Komel” do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych, zarządzeniem nr 64/Org/91 Ministra Przemysłu i Handlu z dnia 14 października 1991 r. zmieniającym zarządzenie w sprawie dostosowania organizacji ośrodka badawczo-rozwojowego pod nazwą Branżowy Ośrodek Badawczo-Rozwojowy Maszyn Elektrycznych „Komel” do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych. z dniem 1 października 2013 r. otrzymuje nazwę Instytut Napędów i Maszyn Elektrycznych KOMEL.
 § 2.
 Nadzór nad Instytutem Napędów i Maszyn Elektrycznych KOMEL, zwanym dalej „Instytutem”, sprawuje minister właściwy do spraw gospodarki.
 § 3.
@@ -86,6 +85,5 @@ upowszechnianie wyników prowadzonych badań, między innymi przez prowadzenie d
 6)
 świadczenie usług badawczych, technologicznych, pomiarowych oraz opracowywanie opinii i ekspertyz w zakresie prowadzonych badań naukowych i prac rozwojowych.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 października 2013 r.
-1) Branżowy Ośrodek Badawczo-Rozwojowy Maszyn Elektrycznych „Komel” został utworzony zarządzeniem nr 45/Org/73 Ministra Przemysłu Maszynowego z dnia 17 sierpnia 1973 r. w sprawie utworzenia Branżowego Ośrodka Badawczo-Rozwojowego Maszyn Elektrycznych „Ema-Komel”, zmienionym: zarządzeniem nr 27/Org/86 Ministra Hutnictwa i Przemysłu Maszynowego z dnia 24 marca 1986 r. w sprawie dostosowania organizacji jednostki badawczo-rozwojowej pod nazwą Branżowy Ośrodek Badawczo-Rozwojowy Maszyn Elektrycznych „Komel” do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych, zarządzeniem nr 64/Org/91 Ministra Przemysłu i Handlu z dnia 14 października 1991 r. zmieniającym zarządzenie w sprawie dostosowania organizacji ośrodka badawczo-rozwojowego pod nazwą Branżowy Ośrodek Badawczo-Rozwojowy Maszyn Elektrycznych „Komel” do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych.
+Rozporządzenie wchodzi w życie z dniem 1 października 2013 r. 1) Branżowy Ośrodek Badawczo-Rozwojowy Maszyn Elektrycznych „Komel” został utworzony zarządzeniem nr 45/Org/73 Ministra Przemysłu Maszynowego z dnia 17 sierpnia 1973 r. w sprawie utworzenia Branżowego Ośrodka Badawczo-Rozwojowego Maszyn Elektrycznych „Ema-Komel”, zmienionym: zarządzeniem nr 27/Org/86 Ministra Hutnictwa i Przemysłu Maszynowego z dnia 24 marca 1986 r. w sprawie dostosowania organizacji jednostki badawczo-rozwojowej pod nazwą Branżowy Ośrodek Badawczo-Rozwojowy Maszyn Elektrycznych „Komel” do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych, zarządzeniem nr 64/Org/91 Ministra Przemysłu i Handlu z dnia 14 października 1991 r. zmieniającym zarządzenie w sprawie dostosowania organizacji ośrodka badawczo-rozwojowego pod nazwą Branżowy Ośrodek Badawczo-Rozwojowy Maszyn Elektrycznych „Komel” do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-09-07 |
 | Data wydania | 2021-09-08 |
-| Wejście w życie | 2021-09-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001652) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1652/text.pdf) |
 
@@ -33,11 +32,9 @@ Na podstawie art. 21 ust. 3a ustawy z dnia 16 września 1982 r. o pracownikach u
 § 1.
 W rozporządzeniu Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie zasad wynagradzania pracowników Kancelarii Prezesa Rady Ministrów (Dz. U. poz. 1846) wprowadza się następujące zmiany:
 1)
-w § 3 ust. 2 otrzymuje brzmienie:
-„
+w § 3 ust. 2 otrzymuje brzmienie: „
 2.
-Dyrektor Generalny Kancelarii Prezesa Rady Ministrów może, w uzasadnionych przypadkach, skrócić pracownikowi okres doświadczenia zawodowego wymagany do zajmowania danego stanowiska.
-” ;
+Dyrektor Generalny Kancelarii Prezesa Rady Ministrów może, w uzasadnionych przypadkach, skrócić pracownikowi okres doświadczenia zawodowego wymagany do zajmowania danego stanowiska. ” ;
 2)
 załącznik otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.

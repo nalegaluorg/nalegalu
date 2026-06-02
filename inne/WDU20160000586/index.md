@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-04-13 |
 | Data wydania | 2016-04-27 |
-| Wejście w życie | 2016-04-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000586) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/586/text.pdf) |
 
@@ -59,12 +58,12 @@ source: "eli-html"
 
 - **1)** oznaczonego jako las w ewidencji gruntów i budynków lub
 - **2)** przeznaczonego do zalesienia określonego w miejscowym planie zagospodarowania przestrzennego albo w decyzji o warunkach zabudowy i zagospodarowania terenu, lub
-- **3)** o którym mowa w art. 3, objętego uproszczonym planem urządzenia lasu lub decyzją, o której mowa w art. 19 ust. 3 Skarbowi Państwa, reprezentowanemu przez Lasy Państwowe, przysługuje z mocy prawa prawo pierwokupu tego gruntu.
+- **3)** o którym mowa w art. 3, objętego uproszczonym planem urządzenia lasu lub decyzją, o której mowa w art. 19 ust. 3 – Skarbowi Państwa, reprezentowanemu przez Lasy Państwowe, przysługuje z mocy prawa prawo pierwokupu tego gruntu.
 
 2. Jeżeli nabycie gruntu, o którym mowa w ust. 1, następuje w wyniku:
 
 - **1)** zawarcia umowy innej niż umowa sprzedaży lub
-- **2)** jednostronnej czynności prawnej Lasy Państwowe reprezentujące Skarb Państwa mogą złożyć oświadczenie o nabyciu tego gruntu za zapłatą równowartości pieniężnej.
+- **2)** jednostronnej czynności prawnej – Lasy Państwowe reprezentujące Skarb Państwa mogą złożyć oświadczenie o nabyciu tego gruntu za zapłatą równowartości pieniężnej.
 
 3. Jeżeli równowartość pieniężna, o której mowa w ust. 2, nie wynika z treści czynności prawnej, Lasy Państwowe reprezentowane przez nadleśniczego ustalają ją w oparciu o wartość nieruchomości określoną zgodnie z przepisami o gospodarce nieruchomościami. Jeżeli podmiot, który dokonuje zbycia gruntów w przypadkach, o których mowa w ust. 2, nie zgadza się na równowartość pieniężną ustaloną przez Lasy Państwowe reprezentowane przez nadleśniczego w oparciu o wartość nieruchomości określoną zgodnie z przepisami o gospodarce nieruchomościami, może, w terminie 14 dni od dnia doręczenia oświadczenia, o którym mowa w art. 37d, wystąpić do sądu o jej ustalenie. Sąd ustala równowartość pieniężną w oparciu o wartość nieruchomości określoną zgodnie z przepisami o gospodarce nieruchomościami.
 

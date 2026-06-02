@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 29 kwietnia 2019 r. w sprawie odliczania lub zwrotu kwot wydanych na zakup kas rejestrujących oraz zwrotu tych kwot przez podatnika
+# Rozporządzenie Ministra Finansówz dnia 29 kwietnia 2019 r. w sprawie odliczania lub zwrotu kwot wydanych na zakup kas rejestrujących oraz zwrotu tych kwot przez podatnika Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-29 |
 | Data wydania | 2019-04-30 |
-| Wejście w życie | 2019-05-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000820) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/820/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 111 ust. 7 pkt 1 i 2 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 111 ust. 7 pkt 1 i 2 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa warunki, sposób i tryb odliczania od podatku należnego lub zwrotu kwot wydanych na zakup kas rejestrujących, a także warunki i tryb zwrotu przez podatnika kwot, o których mowa w art. 111 ust. 6 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, zwanej dalej „ustawą”, oraz inne przypadki naruszenia warunków związanych z ich odliczeniem albo zwrotem, powodujące konieczność dokonania przez podatnika zwrotu.
 § 2.
@@ -81,8 +80,7 @@ Zwrot odliczonych lub zwróconych kwot wydanych na zakup w przypadkach:
 1)
 niepoddania w obowiązujących terminach kas rejestrujących obowiązkowemu przeglądowi technicznemu przez właściwy serwis,
 2)
-wymienionych w ust. 1
-odnosi się tylko do tych kas, których te przypadki dotyczyły.
+wymienionych w ust. 1 – odnosi się tylko do tych kas, których te przypadki dotyczyły.
 3.
 Zwrotu odliczonych lub zwróconych kwot należy dokonać na rachunek właściwego urzędu skarbowego w terminie:
 1)
@@ -94,9 +92,7 @@ Do:
 1)
 odliczenia lub zwrotu kwot wydanych na zakup kas rejestrujących z elektronicznym lub papierowym zapisem kopii zakupionych przed dniem wejścia w życie niniejszego rozporządzenia oraz
 2)
-zwrotu przez podatnika odliczonych lub zwróconych kwot wydanych na zakup kas, o których mowa w pkt 1
-stosuje się rozporządzenie Ministra Finansów z dnia 27 grudnia 2010 r. w sprawie odliczania i zwrotu kwot wydatkowanych na zakup kas rejestrujących (Dz. U. z 2013 r. poz. 163).
+zwrotu przez podatnika odliczonych lub zwróconych kwot wydanych na zakup kas, o których mowa w pkt 1 – stosuje się rozporządzenie Ministra Finansów z dnia 27 grudnia 2010 r. w sprawie odliczania i zwrotu kwot wydatkowanych na zakup kas rejestrujących (Dz. U. z 2013 r. poz. 163).
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 maja 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 grudnia 2010 r. w sprawie odliczania i zwrotu kwot wydatkowanych na zakup kas rejestrujących (Dz. U. z 2013 r. poz. 163), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 10 ust. 1 ustawy z dnia 15 marca 2019 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy – Prawo o miarach (Dz. U. poz. 675).
+Rozporządzenie wchodzi w życie z dniem 1 maja 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 grudnia 2010 r. w sprawie odliczania i zwrotu kwot wydatkowanych na zakup kas rejestrujących (Dz. U. z 2013 r. poz. 163), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 10 ust. 1 ustawy z dnia 15 marca 2019 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy – Prawo o miarach (Dz. U. poz. 675). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 grudnia 2010 r. w sprawie odliczania i zwrotu kwot wydatkowanych na zakup kas rejestrujących (Dz. U. z 2013 r. poz. 163), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 10 ust. 1 ustawy z dnia 15 marca 2019 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy – Prawo o miarach (Dz. U. poz. 675).
 

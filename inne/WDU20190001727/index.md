@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 22 sierpnia 2019 r. zmieniające rozporządzenie w sprawie dodatków do uposażenia zasadniczego funkcjonariuszy Służby Celno-Skarbowej
+# Rozporządzenie Ministra Finansówz dnia 22 sierpnia 2019 r. zmieniające rozporządzenie w sprawie dodatków do uposażenia zasadniczego funkcjonariuszy Służby Celno-Skarbowej Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-22 |
 | Data wydania | 2019-09-10 |
-| Wejście w życie | 2019-09-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001727) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1727/text.pdf) |
 
@@ -45,6 +44,5 @@ w pkt 2 po wyrazach „psem służbowym” dodaje się wyrazy „wykorzystywanym
 § 2.
 Przepis § 4 ust. 3 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się po raz pierwszy do dodatków za opiekę nad psem służbowym wykorzystywanym w służbie, wypłacanych za miesiąc, w którym wchodzi w życie niniejsze rozporządzenie.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 

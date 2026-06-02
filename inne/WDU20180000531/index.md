@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 12 marca 2018 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Płatności dla obszarów z ograniczeniami naturalnymi lub innymi szczególnymi ograniczeniami” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 12 marca 2018 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Płatności dla obszarów z ograniczeniami naturalnymi lub innymi szczególnymi ograniczeniami” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-12 |
 | Data wydania | 2018-03-14 |
-| Wejście w życie | 2018-03-15 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000531) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/531/text.pdf) |
 
@@ -35,11 +34,9 @@ w § 4 uchyla się ust. 2;
 2)
 w § 5:
 a)
-po ust. 1a dodaje się ust. 1b w brzmieniu:
-„
+po ust. 1a dodaje się ust. 1b w brzmieniu: „
 1b.
-Rolnik uczestniczący w systemie dla małych gospodarstw, o którym mowa w art. 61 rozporządzenia nr 1307/2013, nie musi, zgodnie z art. 72 ust. 2 lit. b rozporządzenia nr 1306/2013, deklarować działek rolnych, w odniesieniu do których nie ubiega się o przyznanie płatności ONW, chyba że taka deklaracja jest wymagana do celów innej pomocy lub innego wsparcia.
-” ,
+Rolnik uczestniczący w systemie dla małych gospodarstw, o którym mowa w art. 61 rozporządzenia nr 1307/2013, nie musi, zgodnie z art. 72 ust. 2 lit. b rozporządzenia nr 1306/2013, deklarować działek rolnych, w odniesieniu do których nie ubiega się o przyznanie płatności ONW, chyba że taka deklaracja jest wymagana do celów innej pomocy lub innego wsparcia. ” ,
 b)
 w ust. 2 skreśla się wyrazy „w formie pisemnej,”,
 c)
@@ -49,9 +46,7 @@ Do przyznawania pomocy finansowej w ramach działania „Płatności dla obszar�
 1)
 wszczętymi i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszego rozporządzenia,
 2)
-zakończonymi ostateczną decyzją wydaną na podstawie przepisów dotychczasowych, w przypadku gdy zostały wznowione od dnia wejścia w życie niniejszego rozporządzenia
-stosuje się przepisy dotychczasowe.
+zakończonymi ostateczną decyzją wydaną na podstawie przepisów dotychczasowych, w przypadku gdy zostały wznowione od dnia wejścia w życie niniejszego rozporządzenia – stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 15 marca 2018 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325).
+Rozporządzenie wchodzi w życie z dniem 15 marca 2018 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325).
 

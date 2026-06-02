@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-03-18 |
 | Data wydania | 2008-04-21 |
-| Wejście w życie | 2008-05-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080660402) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/402/text.pdf) |
 
@@ -46,7 +45,7 @@ source: "eli-html"
 
 1. W razie śmierci funkcjonariusza pozostałej po nim rodzinie przysługują, niezależnie od zasiłku pogrzebowego, odprawa pośmiertna w wysokości określonej w art. 104 ust. 1–3, liczonej na dzień zgonu, oraz należności, o których mowa w art. 105 ust. 1 pkt 2.
 
-2. Odprawa oraz należności, o których mowa w ust. 1, przysługują małżonkowi, który w dniu śmierci funkcjonariusza pozostawał z nim we wspólności małżeńskiej, a w razie braku małżonka – dzieciom, wnukom, rodzeństwu i rodzicom, jeżeli w dniu śmierci funkcjonariusza spełniali warunki wymagane do uzyskania renty rodzinnej określone przepisami ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.).
+2. Odprawa oraz należności, o których mowa w ust. 1, przysługują małżonkowi, który w dniu śmierci funkcjonariusza pozostawał z nim we wspólności małżeńskiej, a w razie braku małżonka – dzieciom, wnukom, rodzeństwu i rodzicom, jeżeli w dniu śmierci funkcjonariusza spełniali warunki wymagane do uzyskania renty rodzinnej określone przepisami ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 558 oraz z 2008 r. Nr 66, poz. 402.).
 
 3. Szef BOR przyznaje należności, o których mowa w ust. 1, w przypadku zaginięcia funkcjonariusza. Zaginięcie funkcjonariusza oraz związek tego zaginięcia ze służbą stwierdza minister właściwy do spraw wewnętrznych w drodze decyzji. ” ;
 
@@ -58,14 +57,14 @@ source: "eli-html"
 
 3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania pomocy, o której mowa w ust. 1, uwzględniając tryb przyznawania i wysokość pomocy w zależności od poziomu kształcenia i rodzaju szkoły. ” .
 
-**Art. 2.** W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711 oraz z 2007 r. Nr 82, poz. 558.) wprowadza się następujące zmiany:
 
 - **1)** w art. 21 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „
 
 1. Komisje lekarskie podległe ministrowi właściwemu do spraw wewnętrznych orzekające w sprawach kandydatów do służby oraz funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Więziennej, Państwowej Straży Pożarnej, komisje lekarskie podległe Szefowi Agencji Bezpieczeństwa Wewnętrznego, Szefowi Agencji Wywiadu, a także wojskowe komisje lekarskie w stosunku do funkcjonariuszy Służby Kontrwywiadu Wojskowego lub Służby Wywiadu Wojskowego orzekają także o: ” ;
 
-- **2)** w art. 24 w pkt 1a po lit. c dodaje się przecinek oraz lit. d w brzmieniu: „ w czasie pełnienia służby poza granicami państwa, jeżeli funkcjonariusz wykonywał zadania w warunkach, o których mowa w art. 60a ustawy z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz. U. z 2004 r. Nr 163, poz. 1712, z późn. zm.) ” .
+- **2)** w art. 24 w pkt 1a po lit. c dodaje się przecinek oraz lit. d w brzmieniu: „ w czasie pełnienia służby poza granicami państwa, jeżeli funkcjonariusz wykonywał zadania w warunkach, o których mowa w art. 60a ustawy z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz. U. z 2004 r. Nr 163, poz. 1712, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2006 r. Nr 104, poz. 708 i 711 oraz z 2008 r. Nr 66, poz. 402.) ” .
     - **d)**
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 2, który wchodzi w życie z dniem 1 stycznia 2009 r.
+**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 2, który wchodzi w życie z dniem 1 stycznia 2009 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 558 oraz z 2008 r. Nr 66, poz. 402. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711 oraz z 2007 r. Nr 82, poz. 558. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2006 r. Nr 104, poz. 708 i 711 oraz z 2008 r. Nr 66, poz. 402.
 

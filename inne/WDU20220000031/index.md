@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 3 stycznia 2022 r. zmieniające rozporządzenie w sprawie badań okresowych i kontrolnych policjantów
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 3 stycznia 2022 r. zmieniające rozporządzenie w sprawie badań okresowych i kontrolnych policjantów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-03 |
 | Data wydania | 2022-01-10 |
-| Wejście w życie | 2022-01-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000031) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/31/text.pdf) |
 
@@ -33,22 +32,17 @@ W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 9 stycznia
 1)
 w § 2:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
-służby kryminalnej, śledczej, spraw wewnętrznych, prewencyjnej, zwalczania cyberprzestępczości oraz policji sądowej jest określony w załączniku nr 1 do rozporządzenia;
-” ,
+służby kryminalnej, śledczej, spraw wewnętrznych, prewencyjnej, zwalczania cyberprzestępczości oraz policji sądowej jest określony w załączniku nr 1 do rozporządzenia; ” ,
 b)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
-służby wspomagającej oraz policjantów Wyższej Szkoły Policji, szkół policyjnych i ośrodków szkolenia Policji, a także instytutów badawczych jest określony w załączniku nr 3 do rozporządzenia;
-” ;
+służby wspomagającej oraz policjantów Wyższej Szkoły Policji, szkół policyjnych i ośrodków szkolenia Policji, a także instytutów badawczych jest określony w załączniku nr 3 do rozporządzenia; ” ;
 2)
 w załączniku nr 1 do rozporządzenia tytuł otrzymuje brzmienie: „ RODZAJ, ZAKRES I CZĘSTOTLIWOŚĆ BADAŃ OKRESOWYCH POLICJANTÓW SŁUŻBY KRYMINALNEJ, ŚLEDCZEJ, SPRAW WEWNĘTRZNYCH, PREWENCYJNEJ, ZWALCZANIA CYBERPRZESTĘPCZOŚCI ORAZ POLICJI SĄDOWEJ ” ;
 3)
 w załączniku nr 3 do rozporządzenia tytuł otrzymuje brzmienie: „ RODZAJ, ZAKRES I CZĘSTOTLIWOŚĆ BADAŃ OKRESOWYCH POLICJANTÓW SŁUŻBY WSPOMAGAJĄCEJ ORAZ POLICJANTÓW WYŻSZEJ SZKOŁY POLICJI, SZKÓŁ POLICYJNYCH I OŚRODKÓW SZKOLENIA POLICJI, A TAKŻE INSTYTUTÓW BADAWCZYCH ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

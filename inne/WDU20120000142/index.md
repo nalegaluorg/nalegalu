@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 30 stycznia 2012 r. w sprawie kartonów do gry bingo pieniężne
+# Rozporządzenie Ministra Finansówz dnia 30 stycznia 2012 r. w sprawie kartonów do gry bingo pieniężne Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 29 września 2011 r. pod numerem 2011/0492/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-01-30 |
 | Data wydania | 2012-02-09 |
-| Wejście w życie | 2012-02-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000142) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/142/text.pdf) |
 
@@ -53,5 +52,5 @@ Na żądanie podmiotu, dla którego drukuje się kartony do gry bingo pieniężn
 § 5.
 Kartony do gry bingo pieniężne wyprodukowane przed dniem wejścia w życie rozporządzenia mogą być stosowane przez podmiot posiadający zezwolenie na prowadzenie salonu gry bingo pieniężne nie dłużej niż przez okres 30 dni od dnia wejścia w życie rozporządzenia.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Zakres spraw regulowany niniejszym rozporządzeniem był uregulowany w rozporządzeniu Ministra Finansów z dnia 3 czerwca 2003 r. w sprawie warunków urządzania gier i zakładów wzajemnych (Dz. U. Nr 102, poz. 946 oraz z 2009 r. Nr 36, poz. 280 i Nr 181, poz. 1416), które zgodnie z art. 16 ustawy z dnia 26 maja 2011 r. o zmianie ustawy o grach hazardowych oraz niektórych innych ustaw (Dz. U. Nr 134, poz. 779), w części dotyczącej warunków produkcji i sprzedaży kartonów do gry bingo pieniężne, sposobów zabezpieczenia uniemożliwiających podrobienie kartonu oraz jego treści, traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 29 września 2011 r. pod numerem 2011/0492/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). 3) Zakres spraw regulowany niniejszym rozporządzeniem był uregulowany w rozporządzeniu Ministra Finansów z dnia 3 czerwca 2003 r. w sprawie warunków urządzania gier i zakładów wzajemnych (Dz. U. Nr 102, poz. 946 oraz z 2009 r. Nr 36, poz. 280 i Nr 181, poz. 1416), które zgodnie z art. 16 ustawy z dnia 26 maja 2011 r. o zmianie ustawy o grach hazardowych oraz niektórych innych ustaw (Dz. U. Nr 134, poz. 779), w części dotyczącej warunków produkcji i sprzedaży kartonów do gry bingo pieniężne, sposobów zabezpieczenia uniemożliwiających podrobienie kartonu oraz jego treści, traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

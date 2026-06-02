@@ -26,15 +26,29 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001145) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1145/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw Rozdział 1 – Przepisy ogólne Rozdział 2 – Zasady organizowania i działania grup Rozdział 3 – Rejestracja grup i związków Rozdział 4 – Pomoc finansowa Rozdział 5 – Zmiany w przepisach obowiązujących, przepisy przejściowe i przepisy końcowe
+Załącznik – Tekst jednolity ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2022 r. poz. 395), z uwzględnieniem zmian wprowadzonych ustawą z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 maja 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 154–156 i art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 154–156 i art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), które stanowią: „
+Przepisy ogólne
+Zasady organizowania i działania grup
+Rejestracja grup i związków
+Pomoc finansowa
+Zmiany w przepisach obowiązujących, przepisy przejściowe i przepisy końcowe
 Art. 25–28.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Zasady organizowania i działania grup
+
+#### Rozdział 3 – Rejestracja grup i związków
+
+#### Rozdział 4 – Pomoc finansowa
+
+#### Rozdział 5 – Zmiany w przepisach obowiązujących, przepisy przejściowe i przepisy końcowe
 
 **Art. 154.** Do postępowań w sprawach określonych w art. 7 ust. 1 pkt 1 ustawy zmienianej w art. 122, wszczętych i niezakończonych ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 122 w brzmieniu nadanym niniejszą ustawą.
 
@@ -53,13 +67,9 @@ Art. 25–28.
 - **3)** art. 122 pkt 6 lit. b, art. 127 pkt 2, art. 129 pkt 1 i 5, art. 130 pkt 1 oraz art. 142, które wchodzą w życie z dniem 1 stycznia 2024 r.;
 - **4)** art. 56 ust. 8 pkt 2, który wchodzi w życie z dniem 1 stycznia 2025 r. ” . Załącznik – Tekst jednolity ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
-**Art. 1.** Ustawa określa zasady organizowania się producentów rolnych w grupy producentów rolnych i ich związki.
-
-**Art. 2.**
-
-1. Osoby fizyczne, jednostki organizacyjne nieposiadające osobowości prawnej oraz osoby prawne, które w ramach działalności rolniczej prowadzą gospodarstwo rolne w rozumieniu przepisów o podatku rolnym lub dział specjalny produkcji rolnej, mogą organizować się w grupy producentów rolnych do realizacji co najmniej jednego celu spośród następujących celów:
+**Art. 1.** Ustawa określa zasady organizowania się producentów rolnych w grupy producentów rolnych i ich związki. Art. 2W brzmieniu ustalonym przez art. 122 pkt 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), która weszła w życie z dniem 15 marca 2023 r.. 1. Osoby fizyczne, jednostki organizacyjne nieposiadające osobowości prawnej oraz osoby prawne, które w ramach działalności rolniczej prowadzą gospodarstwo rolne w rozumieniu przepisów o podatku rolnym lub dział specjalny produkcji rolnej, mogą organizować się w grupy producentów rolnych do realizacji co najmniej jednego celu spośród następujących celów:
 
 - **1)** dostosowanie produktów rolnych i procesu produkcyjnego do wymogów rynkowych;
 - **2)** wspólne wprowadzanie towarów do obrotu, w tym przygotowanie do sprzedaży, centralizacja sprzedaży i dostawy do odbiorców hurtowych;
@@ -80,13 +90,12 @@ Art. 25–28.
 
 3. Jeżeli przepisy ustawy przewidują złożenie na piśmie sprawozdania lub informacji do Prezesa Agencji albo do dyrektora oddziału regionalnego Agencji w sprawach, do których nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, odpowiednio sprawozdanie to lub informacja ta spełnia wymagania dla pisma kierowanego do organów administracji publicznej określone w przepisach ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-#### Rozdział 2 Zasady organizowania i działania grup
+#### Rozdział 2
 
 **Art. 3.**
 
-1. Grupa producentów rolnych, zwana dalej „grupą”, prowadzi działalność jako przedsiębiorca mający osobowość prawną, pod warunkiem że:
+1. Grupa producentów rolnych, zwana dalej „grupą”, prowadzi działalność jako przedsiębiorca mający osobowość prawną, pod warunkiem że: 1Ze zmianą wprowadzoną przez art. 122 pkt 2 ustawy, o której mowa w odnośniku 1.) została utworzona przez producentów jednego produktu rolnego, zwanego dalej „produktem”, lub grupy produktów do realizacji co najmniej jednego celu spośród celów, o których mowa w art. 2 ust. 1;
 
-- **1)** została utworzona przez producentów jednego produktu rolnego, zwanego dalej „produktem”, lub grupy produktów do realizacji co najmniej jednego celu spośród celów, o których mowa w art. 2 ust. 1;
 - **2)** działa na podstawie statutu lub umowy, zwanych dalej „aktem założycielskim”, spełniających wymagania określone w art. 4;
 - **3)** żaden z członków, udziałowców lub akcjonariuszy, zwanych dalej „członkami grupy”, nie może mieć więcej niż 20% głosów na walnym zgromadzeniu, zgromadzeniu wspólników lub walnym zebraniu członków, także pośrednio: przez dysponowanie bezpośrednio lub pośrednio większością głosów: – na walnym zgromadzeniu, zgromadzeniu wspólników albo walnym zebraniu członków, także jako zastawnik albo użytkownik, bądź w zarządzie innej osoby prawnej będącej członkiem grupy, także na podstawie porozumień z innymi osobami, lub – w spółce osobowej będącej członkiem grupy, także na podstawie porozumień z innymi osobami, gdy członkowie zarządu osoby prawnej będącej członkiem grupy stanowią więcej niż połowę członków zarządu innej osoby prawnej będącej członkiem grupy;
     - **a)**
@@ -98,16 +107,14 @@ Art. 25–28.
 - **7)** każdy z członków grupy przynależy tylko do jednej grupy w zakresie danego produktu lub grupy produktów, ze względu na które grupa została utworzona;
 - **8)** żaden z członków grupy nie przynależy do organizacji producentów, o której mowa w przepisach ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2023 r. poz. 287 i 412), zwanej dalej „ustawą o rynkach rolnych”, albo ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2022 r. poz. 381 oraz z 2023 r. poz. 412), zwanej dalej „ustawą o rynku mleka”, utworzonej w zakresie tego samego produktu lub grupy produktów, ze względu na które grupa została utworzona.
 
-2. (uchylony) Spółdzielnia może również prowadzić działalność jako grupa, jeżeli:
+2. (uchylony) Spółdzielnia może również prowadzić działalność jako grupa, jeżeli: 1Ze zmianą wprowadzoną przez art. 122 pkt 3 lit. a ustawy, o której mowa w odnośniku 1.) wszyscy wchodzący w jej skład producenci jednego produktu lub grupy produktów spełniają wymagania określone w art. 2 ust. 1 i 2; 2Ze zmianą wprowadzoną przez art. 122 pkt 3 lit. b ustawy, o której mowa w odnośniku 1.) jej przedmiot działalności jest zgodny z co najmniej jednym celem spośród celów, o których mowa w art. 2 ust. 1;
 
-- **1)** wszyscy wchodzący w jej skład producenci jednego produktu lub grupy produktów spełniają wymagania określone w art. 2 ust. 1 i 2;
-- **2)** jej przedmiot działalności jest zgodny z co najmniej jednym celem spośród celów, o których mowa w art. 2 ust. 1;
 - **3)** działa na podstawie aktu założycielskiego, który w stosunku do członków grupy wskazanych w pkt 1 spełnia wymagania określone w art. 4;
 - **4)** jej coroczne przychody ze sprzedaży produktów lub grup produktów wytworzonych w gospodarstwach lub działach specjalnych produkcji rolnej członków grupy wskazanych w pkt 1 stanowią więcej niż połowę przychodów spółdzielni ze sprzedaży tych produktów lub grup tych produktów;
 - **5)** określi, obowiązujące członków grupy wskazanych w pkt 1, zasady produkcji produktów lub grup produktów, w tym dotyczące ich jakości i ilości, oraz sposoby przygotowania ich do sprzedaży;
 - **6)** każdy z członków grupy wskazanych w pkt 1 w każdym roku działalności grupy produkuje oraz sprzedaje do grupy co najmniej 70% wyprodukowanych przez siebie produktów lub grup produktów, ze względu na które grupa została utworzona;
 - **7)** każdy z członków grupy wskazanych w pkt 1 przynależy tylko do jednej grupy w zakresie danego produktu lub grupy produktów, ze względu na które grupa została utworzona;
-- **8)** żaden z członków grupy wskazanych w pkt 1 nie przynależy do organizacji producentów, o której mowa w przepisach ustawy o rynkach rolnych albo ustawy o rynku mleka, utworzonej w zakresie tego samego produktu lub grupy produktów, ze względu na które grupa została utworzona. W przypadku gdy w danym roku działalności grupy nie każdy członek tej grupy jest w stanie spełnić warunek, o którym mowa w art. 3 ust. 1 pkt 6, a w przypadku grupy będącej spółdzielnią – nie każdy z członków grupy wskazanych w art. 3a pkt 1 jest w stanie spełnić warunek, o którym mowa w art. 3a pkt 6, uznaje się, że warunek ten jest spełniony, jeżeli w tym roku działalności grupy co najmniej 90% członków tej grupy, a w przypadku grupy będącej spółdzielnią – 90% członków grupy wskazanych w art. 3a pkt 1 wyprodukowało oraz sprzedało do grupy co najmniej 70% wyprodukowanych przez siebie produktów lub grup produktów, ze względu na które grupa została utworzona. Warunku, o którym mowa w art. 3 ust. 1 pkt 6 oraz art. 3a pkt 6, nie stosuje się w przypadku, gdy brak produkcji jest spowodowany działaniem siły wyższej lub wystąpieniem nadzwyczajnych okoliczności, o których mowa w art. 3 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, z późn. zm.).
+- **8)** żaden z członków grupy wskazanych w pkt 1 nie przynależy do organizacji producentów, o której mowa w przepisach ustawy o rynkach rolnych albo ustawy o rynku mleka, utworzonej w zakresie tego samego produktu lub grupy produktów, ze względu na które grupa została utworzona. W przypadku gdy w danym roku działalności grupy nie każdy członek tej grupy jest w stanie spełnić warunek, o którym mowa w art. 3 ust. 1 pkt 6, a w przypadku grupy będącej spółdzielnią – nie każdy z członków grupy wskazanych w art. 3a pkt 1 jest w stanie spełnić warunek, o którym mowa w art. 3a pkt 6, uznaje się, że warunek ten jest spełniony, jeżeli w tym roku działalności grupy co najmniej 90% członków tej grupy, a w przypadku grupy będącej spółdzielnią – 90% członków grupy wskazanych w art. 3a pkt 1 wyprodukowało oraz sprzedało do grupy co najmniej 70% wyprodukowanych przez siebie produktów lub grup produktów, ze względu na które grupa została utworzona. Warunku, o którym mowa w art. 3 ust. 1 pkt 6 oraz art. 3a pkt 6, nie stosuje się w przypadku, gdy brak produkcji jest spowodowany działaniem siły wyższej lub wystąpieniem nadzwyczajnych okoliczności, o których mowa w art. 3 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 29 z 10.02.2022, str. 45 oraz Dz. Urz. UE L 216 z 19.08.2022, str. 1..
 
 **Art. 4.**
 
@@ -119,11 +126,8 @@ Art. 25–28.
 - **4)** (uchylony)
 - **5)** zasady dostarczania przez członków grupy informacji dotyczących wielkości sprzedaży i cen uzyskiwanych za produkty, z uwagi na które grupa została powołana, a są sprzedawane poza grupą;
 - **6)** zasady tworzenia i wykorzystania funduszu specjalnego, o którym mowa w art. 5, jeżeli będzie on utworzony;
-- **7)** sankcje wobec członka grupy, który: nie wypełnia nałożonych na niego obowiązków, nie spełnia warunków określonych w art. 2 ust. 1 i 2 oraz art. 3 albo art. 2 ust. 1 i 2 oraz art. 3a;
+- **7)** sankcje wobec członka grupy, który: nie wypełnia nałożonych na niego obowiązków, bW brzmieniu ustalonym przez art. 122 pkt 5 lit. a ustawy, o której mowa w odnośniku 1.) nie spełnia warunków określonych w art. 2 ust. 1 i 2 oraz art. 3 albo art. 2 ust. 1 i 2 oraz art. 3a; 8W brzmieniu ustalonym przez art. 122 pkt 5 lit. b ustawy, o której mowa w odnośniku 1.) wskazanie celu albo celów realizowanych przez grupę.
     - **a)**
-    - **b)**
-
-- **8)** wskazanie celu albo celów realizowanych przez grupę.
 
 1a. Obowiązek złożenia na piśmie informacji o zamiarze wystąpienia z grupy co najmniej na 12 miesięcy przed końcem danego roku działalności grupy nie dotyczy członków grupy, którzy otrzymali postanowienie o spełnieniu warunków określonych w przepisach w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na uzyskiwanie rent strukturalnych objętej planem rozwoju obszarów wiejskich.
 
@@ -142,7 +146,7 @@ Art. 25–28.
 
 **Art. 6.** Minister właściwy do spraw rynków rolnych, po zasięgnięciu opinii Krajowej Rady Izb Rolniczych oraz organizacji rolniczych o zasięgu krajowym, określi, w drodze rozporządzenia, wykaz produktów i grup produktów, o których mowa w art. 3 ust. 1 pkt 1 oraz art. 3a pkt 1, minimalną roczną wielkość produkcji towarowej wyprodukowanej przez wszystkich członków grupy i sprzedanej do grupy oraz minimalną liczbę członków grupy, biorąc pod uwagę zróżnicowanie regionalne, koncentrację podaży oraz sytuację na rynku produktów rolnych, a także aktualny stan zorganizowania się producentów w grupy.
 
-#### Rozdział 3 Rejestracja grup i związków
+#### Rozdział 3
 
 **Art. 7.**
 
@@ -165,8 +169,7 @@ Art. 25–28.
 - **2)** dane osobowe osób upoważnionych do reprezentowania grupy zgodnie z jej aktem założycielskim;
 - **3)** oznaczenie produktu lub grupy produktów;
 - **4)** listę członków grupy;
-- **5)** numer grupy w Krajowym Rejestrze Sądowym;
-- **6)** numer nadany w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
+- **5)** numer grupy w Krajowym Rejestrze Sądowym; 6Dodany przez art. 122 pkt 6 lit. a ustawy, o której mowa w odnośniku 1.) numer nadany w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
 
 2. Wniosek o wydanie decyzji administracyjnej dla grupy, o której mowa w art. 3a, zawiera:
 
@@ -212,13 +215,9 @@ Art. 25–28.
 - **1)** dokumenty potwierdzające aktualny stan realizacji planu biznesowego albo ich kopie potwierdzone za zgodność z oryginałem przez osobę upoważnioną do reprezentowania grupy;
 - **2)** plan biznesowy zawierający proponowane zmiany, a w przypadku gdy ten wniosek został złożony w postaci papierowej, plan biznesowy przesyła się również w postaci elektronicznej za pomocą środków komunikacji elektronicznej albo dołącza się na informatycznym nośniku danych.
 
-7a. Wnioski o wydanie decyzji, o których mowa w art. 7 ust. 1, składa się na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji.
+7a. Wnioski o wydanie decyzji, o których mowa w art. 7 ust. 1, składa się na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji. 7bDodany przez art. 122 pkt 6 lit. b ustawy, o której mowa w odnośniku 1; wejdzie w życie z dniem 1 stycznia 2024 r.. Wnioski o wydanie decyzji, o których mowa w art. 7 ust. 1, można składać za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
-7b. Wnioski o wydanie decyzji, o których mowa w art. 7 ust. 1, można składać za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
-
-8. (uchylony)
-
-9. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wymagania, jakie powinien spełniać plan biznesowy, o którym mowa w ust. 3 pkt 3 oraz ust. 4 pkt 3, mając na względzie ujednolicenie zakresu informacji zawartych w planie biznesowym oraz sposobu jego tworzenia, a także zapewnienie właściwego funkcjonowania grup.
+8. (uchylony) 9Ze zmianą wprowadzoną przez art. 122 pkt 6 lit. c ustawy, o której mowa w odnośniku 1.. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wymagania, jakie powinien spełniać plan biznesowy, o którym mowa w ust. 3 pkt 3 oraz ust. 4 pkt 3, mając na względzie ujednolicenie zakresu informacji zawartych w planie biznesowym oraz sposobu jego tworzenia, a także zapewnienie właściwego funkcjonowania grup.
 
 **Art. 9.**
 
@@ -257,7 +256,7 @@ Art. 25–28.
 - **1)** mimo wezwania, o którym mowa w ust. 1, w terminie określonym w tym wezwaniu nie spełniła brakujących warunków lub
 - **2)** uniemożliwia albo utrudnia przeprowadzenie kontroli, o których mowa w art. 12 ust. 2 pkt 2 i 3, lub
 - **3)** mimo wezwania, o którym mowa w art. 9 ust. 5 lub art. 13 ust. 2, nie wypełniła obowiązku określonego w art. 9 ust. 4 lub art. 13 ust. 1, lub
-- **4)** przestała spełniać co najmniej jeden z warunków uznania określonych w art. 3 ust. 1 pkt 4 lub 6 albo art. 3a pkt 4 lub 6, lub art. 3aa, lub w przepisach wydanych na podstawie art. 6 wydaje decyzję o cofnięciu grupie uznania i skreśleniu jej z rejestru grup.
+- **4)** przestała spełniać co najmniej jeden z warunków uznania określonych w art. 3 ust. 1 pkt 4 lub 6 albo art. 3a pkt 4 lub 6, lub art. 3aa, lub w przepisach wydanych na podstawie art. 6 – wydaje decyzję o cofnięciu grupie uznania i skreśleniu jej z rejestru grup.
 
 2. (uchylony)
 
@@ -275,8 +274,7 @@ Art. 25–28.
 
 2a. Kontrole, o których mowa w ust. 2:
 
-- **1)** pkt 1 – przeprowadza się przed wydaniem decyzji, o której mowa w art. 7 ust. 1 pkt 1;
-- **2)** pkt 2 i 3 – przeprowadza się co najmniej raz na trzy lata, licząc od dnia wydania decyzji, o której mowa w art. 7 ust. 1 pkt 1.
+- **1)** pkt 1 – przeprowadza się przed wydaniem decyzji, o której mowa w art. 7 ust. 1 pkt 1; 2Ze zmianą wprowadzoną przez art. 122 pkt 7 ustawy, o której mowa w odnośniku 1.) pkt 2 i 3 – przeprowadza się co najmniej raz na trzy lata, licząc od dnia wydania decyzji, o której mowa w art. 7 ust. 1 pkt 1.
 
 3. Czynności kontrolne są wykonywane przez osoby posiadające imienne upoważnienie wydane przez dyrektora oddziału regionalnego Agencji.
 
@@ -372,7 +370,7 @@ Art. 25–28.
 - **1)** mimo wezwania, o którym mowa w ust. 5, w terminie określonym w tym wezwaniu nie spełnił brakujących warunków lub
 - **2)** uniemożliwia albo utrudnia przeprowadzenie kontroli, o których mowa w ust. 2, lub
 - **3)** mimo wezwania, o którym mowa w art. 17a ust. 1a, nie wypełnił obowiązku określonego w art. 17a ust. 1, lub
-- **4)** przestał spełniać co najmniej jeden z warunków uznania określonych w art. 14 lub art. 15 wydaje decyzję o cofnięciu związkowi uznania i skreśleniu go z rejestru związków.
+- **4)** przestał spełniać co najmniej jeden z warunków uznania określonych w art. 14 lub art. 15 – wydaje decyzję o cofnięciu związkowi uznania i skreśleniu go z rejestru związków.
 
 1. Związek składa Prezesowi Agencji na piśmie sprawozdanie z realizacji celów wybranych spośród celów, o których mowa w art. 14, w terminie 3 miesięcy od dnia zakończenia każdego roku jego działalności.
 
@@ -380,7 +378,7 @@ Art. 25–28.
 
 2. Prezes Agencji przekazuje zbiorcze zestawienie informacji, o których mowa w ust. 1, ministrowi właściwemu do spraw rynków rolnych.
 
-#### Rozdział 4 Pomoc finansowa
+#### Rozdział 4
 
 **Art. 18.** (uchylony)
 
@@ -396,7 +394,7 @@ Art. 25–28.
 
 **Art. 24.** (uchylony)
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i przepisy końcowe
+#### Rozdział 5
 
-**Art. 29.** Ustawa wchodzi w życie po upływie jednego miesiąca od dnia ogłoszenia.
+**Art. 29.** Ustawa wchodzi w życie po upływie jednego miesiąca od dnia ogłoszeniaUstawa została ogłoszona w dniu 20 października 2000 r.. 1) W brzmieniu ustalonym przez art. 122 pkt 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), która weszła w życie z dniem 15 marca 2023 r. 2) Ze zmianą wprowadzoną przez art. 122 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Ze zmianą wprowadzoną przez art. 122 pkt 3 lit. a ustawy, o której mowa w odnośniku 1. 4) Ze zmianą wprowadzoną przez art. 122 pkt 3 lit. b ustawy, o której mowa w odnośniku 1. 5) W brzmieniu ustalonym przez art. 122 pkt 4 ustawy, o której mowa w odnośniku 1. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 29 z 10.02.2022, str. 45 oraz Dz. Urz. UE L 216 z 19.08.2022, str. 1. 7) W brzmieniu ustalonym przez art. 122 pkt 5 lit. a ustawy, o której mowa w odnośniku 1. 8) W brzmieniu ustalonym przez art. 122 pkt 5 lit. b ustawy, o której mowa w odnośniku 1. 9) Dodany przez art. 122 pkt 6 lit. a ustawy, o której mowa w odnośniku 1. 10) Dodany przez art. 122 pkt 6 lit. b ustawy, o której mowa w odnośniku 1; wejdzie w życie z dniem 1 stycznia 2024 r. 11) Ze zmianą wprowadzoną przez art. 122 pkt 6 lit. c ustawy, o której mowa w odnośniku 1. 12) Ze zmianą wprowadzoną przez art. 122 pkt 7 ustawy, o której mowa w odnośniku 1. 13) Ustawa została ogłoszona w dniu 20 października 2000 r.
 

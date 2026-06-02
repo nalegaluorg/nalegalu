@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-28 |
 | Data wydania | 2019-07-02 |
-| Wejście w życie | 2019-07-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001223) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1223/text.pdf) |
 
@@ -61,5 +60,5 @@ W razie nierozpatrzenia odwołania w terminie albo nieuwzględnienia odwołania 
 § 10.
 W przypadku negatywnej oceny kwalifikacyjnej urzędnika poddaje się następnej ocenie kwalifikacyjnej po upływie trzech miesięcy, nie później jednak niż po upływie sześciu miesięcy, od dnia dokonania poprzedniej oceny kwalifikacyjnej.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 7 lipca 2019 r.
+Rozporządzenie wchodzi w życie z dniem 7 lipca 2019 r.Niniejsze rozporządzenie było poprzedzone zarządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 10 maja 1995 r. w sprawie określenia zasad i trybu odbywania aplikacji administracyjnej, wykazu stanowisk objętych aplikacją oraz ocen kwalifikacyjnych mianowanych urzędników Biura Krajowej Rady Radiofonii i Telewizji (M. P. poz. 285), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 3 ustawy z dnia 16 maja 2019 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1043). 1) Niniejsze rozporządzenie było poprzedzone zarządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 10 maja 1995 r. w sprawie określenia zasad i trybu odbywania aplikacji administracyjnej, wykazu stanowisk objętych aplikacją oraz ocen kwalifikacyjnych mianowanych urzędników Biura Krajowej Rady Radiofonii i Telewizji (M. P. poz. 285), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 3 ustawy z dnia 16 maja 2019 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1043).
 

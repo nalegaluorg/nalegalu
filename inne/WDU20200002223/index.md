@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 3 grudnia 2020 r. w sprawie składki członkowskiej płaconej na rzecz Polskiej Izby Ubezpieczeń
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 3 grudnia 2020 r. w sprawie składki członkowskiej płaconej na rzecz Polskiej Izby Ubezpieczeń Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-03 |
 | Data wydania | 2020-12-11 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002223) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2223/text.pdf) |
 
@@ -35,7 +34,5 @@ Wysokość składki, o której mowa w § 1, wynosi 0,026% składki przypisanej b
 § 3.
 Traci moc rozporządzenie Ministra Finansów z dnia 26 stycznia 2016 r. w sprawie składki członkowskiej płaconej na rzecz Polskiej Izby Ubezpieczeń (Dz. U. poz. 126).
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
-s
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r. s 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 

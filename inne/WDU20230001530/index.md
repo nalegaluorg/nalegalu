@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 lipca 2023 r. o zmianie ustawy o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027
+# Ustawaz dnia 13 lipca 2023 r. o zmianie ustawy o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 Niniejsza ustawa służy stosowaniu:
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-13 |
 | Data wydania | 2023-08-04 |
-| Wejście w życie | 2023-08-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001530) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1530/text.pdf) |
+
+Przepisy epizodyczne
 
 **Art. 1.** W ustawie z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) wprowadza się następujące zmiany:
 
@@ -34,7 +35,7 @@ source: "eli-html"
 
 - **2)** po rozdziale 11 dodaje się rozdział 11a w brzmieniu: „
 
-#### Rozdział 11a Przepisy epizodyczne
+#### Rozdział 11a
 
 **Art. 147a.**
 
@@ -70,7 +71,7 @@ source: "eli-html"
 
 - **1)** podstawowego wsparcia dochodów, mogą w terminie do dnia 31 sierpnia 2023 r. złożyć wniosek o przyznanie płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi do gruntów rolnych, do których ubiegają się o przyznanie podstawowego wsparcia dochodów;
 - **2)** płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi, mogą w terminie do dnia 31 sierpnia 2023 r. dokonać zmiany tego wniosku;
-- **3)** płatności ekologicznych, mogą w terminie do dnia 31 sierpnia 2023 r.: złożyć wniosek o przyznanie płatności ekologicznych do gruntów, do których nie ubiegali się o ich przyznanie, lecz wskazanych we wniosku o przyznanie płatności ekologicznych zgodnie z art. 59 ust. 1, dokonać zmiany tego wniosku w zakresie dotyczącym upraw paszowych na gruntach ornych, trwałych użytków zielonych i premii za zrównoważoną produkcję roślinno-zwierzęcą określonych w przepisach wydanych na podstawie art. 71 ust. 1 w odniesieniu do płatności ekologicznych.
+- **3)** płatności ekologicznych, mogą w terminie do dnia 31 sierpnia 2023 r.: złożyć wniosek o przyznanie płatności ekologicznych do gruntów, do których nie ubiegali się o ich przyznanie, lecz wskazanych we wniosku o przyznanie płatności ekologicznych zgodnie z art. 59 ust. 1, dokonać zmiany tego wniosku – w zakresie dotyczącym upraw paszowych na gruntach ornych, trwałych użytków zielonych i premii za zrównoważoną produkcję roślinno-zwierzęcą określonych w przepisach wydanych na podstawie art. 71 ust. 1 w odniesieniu do płatności ekologicznych.
     - **a)**
     - **b)**
 
@@ -84,7 +85,7 @@ source: "eli-html"
 4. Terminy:
 
 - **1)** złożenia wniosków o przyznanie płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi zgodnie z ust. 1 pkt 1 oraz wniosków o przyznanie płatności ekologicznych zgodnie z ust. 1 pkt 3 lit. a,
-- **2)** dokonania zmian wniosków o przyznanie płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi zgodnie z ust. 1 pkt 2 oraz zmian wniosków o przyznanie płatności ekologicznych zgodnie z ust. 1 pkt 3 lit. b nie podlegają przywróceniu. Kar, o których mowa w art. 60 ust. 1 i ust. 2 pkt 1, nie stosuje się w odniesieniu do wniosków o przyznanie:
+- **2)** dokonania zmian wniosków o przyznanie płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi zgodnie z ust. 1 pkt 2 oraz zmian wniosków o przyznanie płatności ekologicznych zgodnie z ust. 1 pkt 3 lit. b – nie podlegają przywróceniu. Kar, o których mowa w art. 60 ust. 1 i ust. 2 pkt 1, nie stosuje się w odniesieniu do wniosków o przyznanie:
 - **1)** płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi złożonych w 2023 r. lub ich zmian dokonanych w 2023 r.;
 - **2)** płatności ekologicznych złożonych w 2023 r. lub ich zmian dokonanych w 2023 r. w zakresie, o którym mowa w art. 147b ust. 1 pkt 3. ” .
 
@@ -94,5 +95,9 @@ source: "eli-html"
 
 2. Zmiany wniosków o przyznanie płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi, o których mowa w art. 147b ust. 1 pkt 2 ustawy zmienianej w art. 1, oraz zmiany wniosków o przyznanie płatności ekologicznych, o których mowa w art. 147b ust. 1 pkt 3 lit. b ustawy zmienianej w art. 1, dokonane przed dniem wejścia w życie niniejszej ustawy, uznaje się za dokonane w terminie.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa służy stosowaniu:
+
+- **1)** rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, Dz. Urz. UE L 119 z 21.04.2022, str. 1, Dz. Urz. UE L 181 z 07.07.2022, str. 35 oraz Dz. Urz. UE L 227 z 01.09.2022, str. 136);
+- **2)** rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, Dz. Urz. UE L 29 z 10.02.2022, str. 45 oraz Dz. Urz. UE L 216 z 19.08.2022, str. 1).
+
 

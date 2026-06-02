@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 11 września 2019 r. o uchyleniu ustawy o specjalnym podatku węglowodorowym oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 11 września 2019 r. o uchyleniu ustawy o specjalnym podatku węglowodorowym oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa oraz ustawę z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin.
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-11 |
 | Data wydania | 2019-10-17 |
-| Wejście w życie | 2019-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001978) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1978/text.pdf) |
 
 **Art. 1.** Traci moc ustawa z dnia 25 lipca 2014 r. o specjalnym podatku węglowodorowym (Dz. U. z 2018 r. poz. 2269).
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, z późn. zm.) w art. 23 w ust. 1 uchyla się pkt 63.
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834 i 1835.) w art. 23 w ust. 1 uchyla się pkt 63.
 
-**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2019 r. poz. 865, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2019 r. poz. 865, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751 i 1798.) wprowadza się następujące zmiany:
 
 - **1)** w art. 16 w ust. 1 uchyla się pkt 67a;
 - **2)** w art. 27: ust. 2 otrzymuje brzmienie: „
@@ -46,7 +45,7 @@ source: "eli-html"
 
 **Art. 27a.** Zeznanie, o którym mowa w art. 27 ust. 1, może być składane w postaci papierowej przez podatników, którzy osiągają wyłącznie dochody wolne od podatku na podstawie art. 17 ust. 1 oraz nie są obowiązani do sporządzenia deklaracji lub informacji, o których mowa w art. 35 ust. 10, art. 38 ust. 1a i 1b, art. 39 ust. 1–4, art. 42 ust. 1a-4, art. 42a ust. 1 i art. 42e ust. 5 i 6 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. ” .
 
-**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751 i 1818.) wprowadza się następujące zmiany:
 
 - **1)** w art. 53a § 2 otrzymuje brzmienie: „
 
@@ -69,7 +68,7 @@ source: "eli-html"
 
 - **1)** udzieleniu, zmianie treści, stwierdzeniu wygaśnięcia oraz cofnięciu koncesji na wydobycie miedzi, srebra, gazu ziemnego lub ropy naftowej oraz koncesji na poszukiwanie i rozpoznawanie złóż gazu ziemnego lub ropy naftowej, oraz o ich treści,
 - **2)** przeniesieniu, w drodze decyzji, na inny podmiot koncesji, o których mowa w pkt 1,
-- **3)** innym niż określone w pkt 1 i 2 przypadku utraty mocy koncesji, o których mowa w pkt 1 w terminie 7 dni od dnia udzielenia, zmiany treści, stwierdzenia wygaśnięcia, cofnięcia, przeniesienia koncesji lub innego przypadku utraty mocy koncesji. ” .
+- **3)** innym niż określone w pkt 1 i 2 przypadku utraty mocy koncesji, o których mowa w pkt 1 – w terminie 7 dni od dnia udzielenia, zmiany treści, stwierdzenia wygaśnięcia, cofnięcia, przeniesienia koncesji lub innego przypadku utraty mocy koncesji. ” .
 
 **Art. 6.** Obowiązek zapłaty podatku od wydobycia niektórych kopalin w zakresie wydobycia gazu ziemnego i ropy naftowej powstaje od gazu ziemnego i ropy naftowej wydobytych od dnia wejścia w życie niniejszej ustawy.
 
@@ -82,6 +81,6 @@ source: "eli-html"
 **Art. 10.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
 
 - **1)** art. 3 pkt 3 i art. 9, które wchodzą w życie z dniem 25 października 2019 r.;
-- **2)** art. 3 pkt 2 i art. 8, które wchodzą w życie z dniem 1 stycznia 2020 r.
+- **2)** art. 3 pkt 2 i art. 8, które wchodzą w życie z dniem 1 stycznia 2020 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa oraz ustawę z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834 i 1835. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751 i 1798. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751 i 1818.
 
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-06-03 |
 | Data wydania | 2013-06-04 |
-| Wejście w życie | 2013-06-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000641) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/641/text.pdf) |
 
@@ -37,7 +36,7 @@ okres przechowywania, sposób archiwizowania lub brakowania dokumentacji dotycz�
 3)
 organizację umieszczania cudzoziemca w pokoju izolacyjnym.
 § 2.
-Pokój izolacyjny jest wyodrębnionym pomieszczeniem wchodzącym w skład pomieszczeń mieszkalnych strzeżonego ośrodka, o którym mowa w ustawie z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2011 r. Nr 264, poz. 1573, z późn. zm.).
+Pokój izolacyjny jest wyodrębnionym pomieszczeniem wchodzącym w skład pomieszczeń mieszkalnych strzeżonego ośrodka, o którym mowa w ustawie z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2011 r. Nr 264, poz. 1573, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 589 i 769 oraz z 2013 r. poz. 628.).
 § 3.
 Pokój izolacyjny powinien być usytuowany, w miarę możliwości, na kondygnacji parterowej budynku.
 § 4.
@@ -98,5 +97,5 @@ Wybrakowanie dokumentacji niearchiwalnej odnotowuje się we właściwej ewidencj
 6.
 Dokumenty dotyczące wybrakowania dokumentacji niearchiwalnej są przechowywane odrębnie i stanowią materiał archiwalny.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 5 czerwca 2013 r.
+Rozporządzenie wchodzi w życie z dniem 5 czerwca 2013 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 589 i 769 oraz z 2013 r. poz. 628.
 

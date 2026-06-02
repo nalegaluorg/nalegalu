@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-05-09 |
 | Data wydania | 2012-05-18 |
-| Wejście w życie | 2012-06-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000547) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/547/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 115 § 10 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 115 § 10 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849, z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344, z 2009 r. Nr 8, poz. 39, Nr 22, poz. 119, Nr 62, poz. 504, Nr 98, poz. 817, Nr 108, poz. 911, Nr 115, poz. 963, Nr 190, poz. 1475, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 34, poz. 191, Nr 40, poz. 227, Nr 125, poz. 842 i Nr 182, poz. 1228 oraz z 2011 r. Nr 39, poz. 201 i 202, Nr 112, poz. 654, Nr 129, poz. 734, Nr 185, poz. 1092, Nr 217, poz. 1280 i Nr 240, poz. 1431.) zarządza się, co następuje:
 § 1.
 Użyte w rozporządzeniu skróty oznaczają:
 1)
@@ -54,7 +53,7 @@ W przypadku gdy udzielenie świadczenia zdrowotnego przez podmiot leczniczy, o k
 1.
 W przypadkach, o których mowa w art. 115 § 5 pkt 3 Kodeksu, podmiot leczniczy udziela świadczeń zdrowotnych osobie pozbawionej wolności:
 1)
-w stanie nagłego zagrożenia zdrowotnego, o którym mowa w art. 3 pkt 8 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm.);
+w stanie nagłego zagrożenia zdrowotnego, o którym mowa w art. 3 pkt 8 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 89, poz. 590 i Nr 166, poz. 1172, z 2008 r. Nr 17, poz. 101 i Nr 237, poz. 1653, z 2009 r. Nr 11, poz. 59 i Nr 122, poz. 1007, z 2010 r. Nr 107, poz. 679 i Nr 219, poz. 1443 oraz z 2011 r. Nr 30, poz. 151, Nr 112, poz. 654 i Nr 208, poz. 1240 i 1241.);
 2)
 w sytuacji innej niż określona w pkt 1:
 a)
@@ -71,5 +70,5 @@ Kierownik podmiotu leczniczego dla osób pozbawionych wolności uzgadnia z kiero
 § 7.
 Kierownik podmiotu leczniczego dla osób pozbawionych wolności bezzwłocznie informuje dyrektora zakładu karnego o ustaleniach, o których mowa w § 4 i § 6 ust. 2.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości i Ministra Zdrowia z dnia 10 września 2003 r. w sprawie szczegółowych zasad, zakresu i trybu współdziałania zakładów opieki zdrowotnej ze służbą zdrowia w zakładach karnych i aresztach śledczych w zapewnieniu świadczeń zdrowotnych osobom pozbawionym wolności (Dz. U. Nr 171, poz. 1665), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 219 ust. 1 pkt 9 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654, Nr 149, poz. 887, Nr 174, poz. 1039 i Nr 185, poz. 1092). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849, z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344, z 2009 r. Nr 8, poz. 39, Nr 22, poz. 119, Nr 62, poz. 504, Nr 98, poz. 817, Nr 108, poz. 911, Nr 115, poz. 963, Nr 190, poz. 1475, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 34, poz. 191, Nr 40, poz. 227, Nr 125, poz. 842 i Nr 182, poz. 1228 oraz z 2011 r. Nr 39, poz. 201 i 202, Nr 112, poz. 654, Nr 129, poz. 734, Nr 185, poz. 1092, Nr 217, poz. 1280 i Nr 240, poz. 1431. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 89, poz. 590 i Nr 166, poz. 1172, z 2008 r. Nr 17, poz. 101 i Nr 237, poz. 1653, z 2009 r. Nr 11, poz. 59 i Nr 122, poz. 1007, z 2010 r. Nr 107, poz. 679 i Nr 219, poz. 1443 oraz z 2011 r. Nr 30, poz. 151, Nr 112, poz. 654 i Nr 208, poz. 1240 i 1241. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości i Ministra Zdrowia z dnia 10 września 2003 r. w sprawie szczegółowych zasad, zakresu i trybu współdziałania zakładów opieki zdrowotnej ze służbą zdrowia w zakładach karnych i aresztach śledczych w zapewnieniu świadczeń zdrowotnych osobom pozbawionym wolności (Dz. U. Nr 171, poz. 1665), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 219 ust. 1 pkt 9 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654, Nr 149, poz. 887, Nr 174, poz. 1039 i Nr 185, poz. 1092).
 

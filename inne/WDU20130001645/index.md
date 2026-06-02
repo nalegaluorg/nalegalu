@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 8 listopada 2013 r. o zmianie niektórych ustaw w związku z realizacją ustawy budżetowej
+# Ustawa z dnia 8 listopada 2013 r. o zmianie niektórych ustaw w związku z realizacją ustawy budżetowej Niniejszą ustawą zmienia się ustawy: ustawę z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych, ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw, ustawę z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym oraz ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-08 |
 | Data wydania | 2013-12-27 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001645) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1645/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2012 r. poz. 592, z późn. zm.) po art. 5b dodaje się art. 5c w brzmieniu: „
+**Art. 1.** W ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2012 r. poz. 592, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 908 i 1456 oraz z 2013 r. poz. 747.) po art. 5b dodaje się art. 5c w brzmieniu: „
 
 **Art. 5c.** W 2014 r. przez przeciętne wynagrodzenie miesięczne w gospodarce narodowej, o którym mowa w art. 5 ust. 2, należy rozumieć przeciętne wynagrodzenie miesięczne w gospodarce narodowej w drugim półroczu 2010 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7. ” .
 
-**Art. 2.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2011 r. Nr 277, poz. 1634, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2011 r. Nr 277, poz. 1634, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 291, poz. 1707, z 2012 r. poz. 95 i 1456 oraz z 2013 r. poz. 1245 i 1287.) wprowadza się następujące zmiany:
 
 - **1)** w art. 15 po ust. 4e dodaje się ust. 4f w brzmieniu: „
 
@@ -44,7 +43,7 @@ source: "eli-html"
 
 1c. W roku 2014 szkolenie specjalizacyjne jest dofinansowywane przez ministra właściwego do spraw zdrowia ze środków Funduszu Pracy. ” .
 
-**Art. 3.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456 oraz z 2013 r. poz. 73, 675, 791 i 1446.) wprowadza się następujące zmiany:
 
 - **1)** w art. 26a: w ust. 1 zdanie drugie otrzymuje brzmienie: „ Miesięczne dofinansowanie do wynagrodzenia pracownika niepełnosprawnego, zwane dalej „miesięcznym dofinansowaniem”, przysługuje w kwocie:
     - **a)**
@@ -60,12 +59,12 @@ source: "eli-html"
 
 **Art. 29l.** Kwotę bazową dla osób zajmujących kierownicze stanowiska państwowe w 2014 r. ustala się w wysokości przysługującej tym osobom w 2008 r. W 2014 r. kwota bazowa dla osób zajmujących kierownicze stanowiska państwowe nie jest waloryzowana. ” . W ustawie z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2013 r. poz. 254) po art. 29d dodaje się art. 29e w brzmieniu: „ 1. Przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale 2009 r. stanowi w 2014 r. podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego, o którym mowa w art. 8, z zastrzeżeniem ust. 2. 2. W przypadku członków organów nadzorczych jednostek, o których mowa w art. 2 pkt 7, w jednostkach organizacyjnych wymienionych w art. 1 pkt 8, a w szczególności rad nadzorczych i komisji rewizyjnych, podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego stanowi w 2014 r. przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale 2011 r. ” .
 
-**Art. 6.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2013 r. poz. 674, z późn. zm.) w art. 108 po ust. 1e dodaje się ust. 1f w brzmieniu: „ 1f. Ze środków Funduszu Pracy w 2014 r. są finansowane:
+**Art. 6.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2013 r. poz. 674, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 829, 1291 i 1623.) w art. 108 po ust. 1e dodaje się ust. 1f w brzmieniu: „ 1f. Ze środków Funduszu Pracy w 2014 r. są finansowane:
 
 - **1)** staże podyplomowe oraz szkolenia specjalizacyjne lekarzy i lekarzy dentystów, o których mowa w przepisach o zawodach lekarza i lekarza dentysty;
 - **2)** staże podyplomowe oraz specjalizacje pielęgniarek i położnych, o których mowa w przepisach o zawodach pielęgniarki i położnej. ” .
 
-**Art. 7.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2011 r. Nr 108, poz. 626, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2011 r. Nr 108, poz. 626, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 120, poz. 690, Nr 171, poz. 1016, Nr 205, poz. 1208, Nr 232, poz. 1378 i Nr 291, poz. 1707, z 2012 r. poz. 1342 i 1456 oraz z 2013 r. poz. 939 i 1231.) wprowadza się następujące zmiany:
 
 - **1)** w art. 93 ust. 4 otrzymuje brzmienie: „
 
@@ -92,19 +91,19 @@ source: "eli-html"
 
 - **c)**
 
-**Art. 8.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039, z późn. zm.) po art. 96b dodaje się art. 96c w brzmieniu: „
+**Art. 8.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 291, poz. 1707, z 2012 r. poz. 1456 oraz z 2013 r. poz. 940, 1245 i 1287.) po art. 96b dodaje się art. 96c w brzmieniu: „
 
 **Art. 96c.** W roku 2014 środki przeznaczone na sfinansowanie stażu podyplomowego na podstawie art. 9 ustawy, o której mowa w art. 103, przekazuje marszałkowi województwa minister właściwy do spraw zdrowia ze środków Funduszu Pracy. ” .
 
 **Art. 9.** W roku 2014 środki, o których mowa:
 
-- **1)** w art. 70a ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, z późn. zm.), przeznaczone na dofinansowanie doskonalenia zawodowego nauczycieli, z uwzględnieniem doradztwa metodycznego, wyodrębnia się w budżetach organów prowadzących szkoły w wysokości do 1% planowanych rocznych środków przeznaczonych na wynagrodzenia osobowe nauczycieli, jednak nie mniej niż 0,5% tych środków;
+- **1)** w art. 70a ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1218 i Nr 220, poz. 1600, z 2007 r. Nr 17, poz. 95, Nr 80, poz. 542, Nr 102, poz. 689, Nr 158, poz. 1103, Nr 176, poz. 1238, Nr 191, poz. 1369 i Nr 247, poz. 1821, z 2008 r. Nr 145, poz. 917 i Nr 227, poz. 1505, z 2009 r. Nr 1, poz. 1, Nr 56, poz. 458, Nr 67, poz. 572, Nr 97, poz. 800, Nr 213, poz. 1650 i Nr 219, poz. 1706, z 2011 r. Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 908 i 1544 oraz z 2013 r. poz. 675 i 1421.), przeznaczone na dofinansowanie doskonalenia zawodowego nauczycieli, z uwzględnieniem doradztwa metodycznego, wyodrębnia się w budżetach organów prowadzących szkoły w wysokości do 1% planowanych rocznych środków przeznaczonych na wynagrodzenia osobowe nauczycieli, jednak nie mniej niż 0,5% tych środków;
 - **2)** w art. 70a ust. 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, przeznaczone na wspieranie na obszarze województwa doskonalenia zawodowego nauczycieli wyodrębnia się w budżetach wojewodów w łącznej wysokości do 5000 średnich wynagrodzeń nauczyciela stażysty ustalanego w oparciu o kwotę bazową, o której mowa w art. 30 ust. 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, obowiązującą w dniu 1 stycznia 2012 r.;
 - **3)** w art. 70a ust. 4 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, przeznaczone na realizację ogólnokrajowych zadań w zakresie doskonalenia zawodowego nauczycieli wyodrębnia się w budżecie ministra właściwego do spraw oświaty i wychowania w łącznej wysokości do 5000 średnich wynagrodzeń nauczyciela stażysty ustalanego w oparciu o kwotę bazową, o której mowa w art. 30 ust. 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, obowiązującą w dniu 1 stycznia 2012 r.
 
 **Art. 10.** W roku 2014 do ustalania odpisu na zakładowy fundusz świadczeń socjalnych dla nauczycieli, o którym mowa w art. 53 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, stosuje się kwotę bazową obowiązującą w dniu 1 stycznia 2012 r.
 
-**Art. 11.** W roku 2014 nie dokonuje się odpisu na zakładowy fundusz świadczeń socjalnych, o którym mowa w art. 157 ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.), od środków pochodzących z rezerwy celowej przeznaczonej na zwiększenie wynagrodzeń pracowników szkół wyższych, ujętej w ustawie budżetowej na rok 2014.
+**Art. 11.** W roku 2014 nie dokonuje się odpisu na zakładowy fundusz świadczeń socjalnych, o którym mowa w art. 157 ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544 oraz z 2013 r. poz. 675, 829, 1005 i 1588.), od środków pochodzących z rezerwy celowej przeznaczonej na zwiększenie wynagrodzeń pracowników szkół wyższych, ujętej w ustawie budżetowej na rok 2014.
 
 **Art. 12.**
 
@@ -181,7 +180,7 @@ source: "eli-html"
 
 1. W roku 2014 wielkość wynagrodzeń oraz wynagrodzeń bezosobowych w Narodowym Funduszu Zdrowia nie może przekroczyć wielkości:
 
-- **1)** wynagrodzeń oraz wynagrodzeń bezosobowych ustalonych w planie finansowym Narodowego Funduszu Zdrowia na rok 2014, o którym mowa w art. 121 ust. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.);
+- **1)** wynagrodzeń oraz wynagrodzeń bezosobowych ustalonych w planie finansowym Narodowego Funduszu Zdrowia na rok 2014, o którym mowa w art. 121 ust. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548 oraz z 2013 r. poz. 154, 879, 983 i 1290.);
 - **2)** wynagrodzeń zaplanowanych w rezerwie utworzonej w planie, o którym mowa w pkt 1, w związku z realizacją zadań wynikających z dyrektywy Parlamentu Europejskiego i Rady 2011/24/UE z dnia 9 marca 2011 r. w sprawie stosowania praw pacjentów w transgranicznej opiece zdrowotnej (Dz. Urz. UE L 88 z 04.04.2011, s. 45).
 
 2. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, wyrazić zgodę na zwiększenie wielkości wynagrodzeń o środki przyznane w ramach programów realizowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, uwzględniając stan finansów publicznych państwa, konieczność zapewnienia prawidłowej realizacji zadań publicznych oraz źródło finansowania zwiększenia wielkości wynagrodzeń.
@@ -229,7 +228,7 @@ source: "eli-html"
 
 **Art. 26.**
 
-1. W roku 2014 wydatki Funduszu Rozwoju Kultury Fizycznej, utworzonego na podstawie ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. Nr 201, poz. 1540, z późn. zm.), mogą być przeznaczone także na dofinansowanie zadań związanych z przygotowywaniem kadry narodowej do udziału w igrzyskach olimpijskich, igrzyskach paraolimpijskich, igrzyskach głuchych, mistrzostwach świata lub mistrzostwach Europy.
+1. W roku 2014 wydatki Funduszu Rozwoju Kultury Fizycznej, utworzonego na podstawie ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. Nr 201, poz. 1540, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 857, z 2011 r. Nr 106, poz. 622 i Nr 134, poz. 779 oraz z 2013 r. poz. 1036.), mogą być przeznaczone także na dofinansowanie zadań związanych z przygotowywaniem kadry narodowej do udziału w igrzyskach olimpijskich, igrzyskach paraolimpijskich, igrzyskach głuchych, mistrzostwach świata lub mistrzostwach Europy.
 
 2. Minister właściwy do spraw kultury fizycznej w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe warunki uzyskiwania dofinansowania realizacji zadań, o których mowa w ust. 1, tryb składania wniosków oraz przekazywania środków, z uwzględnieniem racjonalności i ciągłości finansowania zadań.
 
@@ -250,5 +249,5 @@ source: "eli-html"
 
 **Art. 32.** Przepisów art. 119 ust. 1 pkt 2 i ust. 2 pkt 2, art. 121 oraz art. 122 ust. 1 pkt 2 lit. b i c ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych nie stosuje się do ustawy budżetowej na rok 2014, w odniesieniu do środków w ramach Polityki Spójności oraz Wspólnej Polityki Rybackiej dla Perspektywy Finansowej Unii Europejskiej 2014–2020, a także do dochodów i wydatków w ramach Wspólnej Polityki Rolnej w latach 2015 i 2016.
 
-**Art. 33.** Ustawa wchodzi w życie z dniem 1 stycznia 2014 r., z wyjątkiem art. 3 pkt 1, który wchodzi w życie z dniem 1 kwietnia 2014 r.
+**Art. 33.** Ustawa wchodzi w życie z dniem 1 stycznia 2014 r., z wyjątkiem art. 3 pkt 1, który wchodzi w życie z dniem 1 kwietnia 2014 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych, ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw, ustawę z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym oraz ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 908 i 1456 oraz z 2013 r. poz. 747. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 291, poz. 1707, z 2012 r. poz. 95 i 1456 oraz z 2013 r. poz. 1245 i 1287. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456 oraz z 2013 r. poz. 73, 675, 791 i 1446. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 829, 1291 i 1623. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 120, poz. 690, Nr 171, poz. 1016, Nr 205, poz. 1208, Nr 232, poz. 1378 i Nr 291, poz. 1707, z 2012 r. poz. 1342 i 1456 oraz z 2013 r. poz. 939 i 1231. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 291, poz. 1707, z 2012 r. poz. 1456 oraz z 2013 r. poz. 940, 1245 i 1287. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1218 i Nr 220, poz. 1600, z 2007 r. Nr 17, poz. 95, Nr 80, poz. 542, Nr 102, poz. 689, Nr 158, poz. 1103, Nr 176, poz. 1238, Nr 191, poz. 1369 i Nr 247, poz. 1821, z 2008 r. Nr 145, poz. 917 i Nr 227, poz. 1505, z 2009 r. Nr 1, poz. 1, Nr 56, poz. 458, Nr 67, poz. 572, Nr 97, poz. 800, Nr 213, poz. 1650 i Nr 219, poz. 1706, z 2011 r. Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 908 i 1544 oraz z 2013 r. poz. 675 i 1421. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544 oraz z 2013 r. poz. 675, 829, 1005 i 1588. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548 oraz z 2013 r. poz. 154, 879, 983 i 1290. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 857, z 2011 r. Nr 106, poz. 622 i Nr 134, poz. 779 oraz z 2013 r. poz. 1036.
 

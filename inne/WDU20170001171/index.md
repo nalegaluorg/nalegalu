@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 8 czerwca 2017 r. w sprawie urządzeń losujących, urządzeń do gier i automatów do gier, zabezpieczenia informacji dotyczących urządzanej loterii oraz uzyskiwania, naliczania i wypłacania wygranych
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 8 czerwca 2017 r. w sprawie urządzeń losujących, urządzeń do gier i automatów do gier, zabezpieczenia informacji dotyczących urządzanej loterii oraz uzyskiwania, naliczania i wypłacania wygranych Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-08 |
 | Data wydania | 2017-06-20 |
-| Wejście w życie | 2017-06-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001171) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1171/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 23d ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2016 r. poz. 471, 1948 i 2260 oraz z 2017 r. poz. 88, 379 i 1089) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 grudnia 2016 r. pod numerem 2016/700/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 23d ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2016 r. poz. 471, 1948 i 2260 oraz z 2017 r. poz. 88, 379 i 1089) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -248,8 +247,7 @@ wpłat i wykupionych losów,
 3)
 uzyskanych wygranych wraz z przyporządkowaniem danego rodzaju nagrody do zwycięzcy,
 4)
-rodzaju, ilości i wartości nagród
-jednostka badająca sprawdza, czy dane te będą zabezpieczone przed ingerencją z zewnątrz w sposób uniemożliwiający dostęp osobom nieuprawnionym.
+rodzaju, ilości i wartości nagród – jednostka badająca sprawdza, czy dane te będą zabezpieczone przed ingerencją z zewnątrz w sposób uniemożliwiający dostęp osobom nieuprawnionym.
 § 5.
 1.
 Warunkiem rejestracji i eksploatacji urządzeń losujących, urządzeń do gier i automatów do gier jest ich zabezpieczenie przed ingerencją z zewnątrz przez założenie przez jednostkę badającą, po przeprowadzeniu badania technicznego, plomb zabezpieczających.
@@ -388,6 +386,5 @@ Urządzenie losujące lub urządzenie do gier nalicza i wypłaca wygrane w spos�
 § 19.
 Do badań technicznych automatów do gier i urządzeń do gier, które zostały zlecone jednostkom badającym przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 20.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 grudnia 2016 r. pod numerem 2016/700/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 9 marca 2012 r. w sprawie szczegółowych warunków rejestracji i eksploatacji automatów i urządzeń do gier (Dz. U. poz. 312 oraz z 2017 r. poz. 389), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 11 ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o grach hazardowych oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 88).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 9 marca 2012 r. w sprawie szczegółowych warunków rejestracji i eksploatacji automatów i urządzeń do gier (Dz. U. poz. 312 oraz z 2017 r. poz. 389), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 11 ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o grach hazardowych oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 88). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 grudnia 2016 r. pod numerem 2016/700/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 9 marca 2012 r. w sprawie szczegółowych warunków rejestracji i eksploatacji automatów i urządzeń do gier (Dz. U. poz. 312 oraz z 2017 r. poz. 389), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 11 ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o grach hazardowych oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 88).
 

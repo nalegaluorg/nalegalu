@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-31 |
 | Data wydania | 2022-11-17 |
-| Wejście w życie | 2022-12-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002348) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2348/text.pdf) |
 
@@ -187,5 +186,5 @@ Zadania związane z organizacją i realizacją szkolenia obronnego są finansowa
 4.
 Ćwiczenia organizowane przez podmioty, o których mowa w § 10 ust. 1 pkt 2, niebędące dysponentami środków budżetowych są finansowane z części budżetu państwa, której dysponentem jest organ sprawujący nadzór nad tymi podmiotami.
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 17 listopada 2021 r. w sprawie szkolenia obronnego (Dz. U. poz. 2259), które zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 17 listopada 2021 r. w sprawie szkolenia obronnego (Dz. U. poz. 2259), które zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

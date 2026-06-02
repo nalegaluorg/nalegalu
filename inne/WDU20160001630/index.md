@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 19 września 2016 r. zmieniające rozporządzenie w sprawie świadectw kwalifikacji
+# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 19 września 2016 r. zmieniające rozporządzenie w sprawie świadectw kwalifikacji Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-19 |
 | Data wydania | 2016-10-06 |
-| Wejście w życie | 2016-11-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001630) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1630/text.pdf) |
 
@@ -37,17 +36,13 @@ Na podstawie art. 94 ust. 8 i 9 oraz art. 104 ust. 1 ustawy z dnia 3 lipca 2002 
 § 1.
 W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 3 czerwca 2013 r. w sprawie świadectw kwalifikacji (Dz. U. poz. 664) wprowadza się następujące zmiany:
 1)
-w § 3 po pkt 6 dodaje się pkt 6a w brzmieniu:
-„
+w § 3 po pkt 6 dodaje się pkt 6a w brzmieniu: „
 6a)
-masie startowej – rozumie się przez to masę bezzałogowego statku powietrznego gotowego do lotu;
-” ;
+masie startowej – rozumie się przez to masę bezzałogowego statku powietrznego gotowego do lotu; ” ;
 2)
-w § 32 ust. 4 otrzymuje brzmienie:
-„
+w § 32 ust. 4 otrzymuje brzmienie: „
 4.
-Szkolenie lotnicze w celu uzyskania uprawnienia dodatkowego określającego kategorię oraz masę startową statku powietrznego, wpisanego do świadectwa kwalifikacji operatora bezzałogowego statku powietrznego używanego w celach innych niż rekreacyjne lub sportowe, może odbywać się metodą samokształcenia przy uwzględnieniu zakresu wiedzy i umiejętności wymaganych dla tego uprawnienia określonych w załączniku nr 6 do rozporządzenia.
-” ;
+Szkolenie lotnicze w celu uzyskania uprawnienia dodatkowego określającego kategorię oraz masę startową statku powietrznego, wpisanego do świadectwa kwalifikacji operatora bezzałogowego statku powietrznego używanego w celach innych niż rekreacyjne lub sportowe, może odbywać się metodą samokształcenia przy uwzględnieniu zakresu wiedzy i umiejętności wymaganych dla tego uprawnienia określonych w załączniku nr 6 do rozporządzenia. ” ;
 3)
 załącznik nr 6 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 4)
@@ -74,71 +69,61 @@ uprawnieniem podstawowym dotyczącym kategorii statku powietrznego samolot bezza
 a)
 od 2 kg do 7 kg lub
 b)
-od 7 kg do 25 kg
-podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i samolot bezzałogowy o masie startowej nie większej niż 25 kg (UAV(A) < 25 kg);
+od 7 kg do 25 kg – podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i samolot bezzałogowy o masie startowej nie większej niż 25 kg (UAV(A) < 25 kg);
 3)
 uprawnieniem podstawowym dotyczącym kategorii statku powietrznego śmigłowiec bezzałogowy (H) wraz z uprawnieniem podstawowym dotyczącym maksymalnej masy startowej (MTOM) bezzałogowego statku powietrznego:
 a)
 od 2 kg do 7 kg lub
 b)
-od 7 kg do 25 kg
-podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i śmigłowiec bezzałogowy o masie startowej nie większej niż 25 kg (UAV(H) < 25 kg);
+od 7 kg do 25 kg – podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i śmigłowiec bezzałogowy o masie startowej nie większej niż 25 kg (UAV(H) < 25 kg);
 4)
 uprawnieniem podstawowym dotyczącym kategorii statku powietrznego sterowiec bezzałogowy (AS) wraz z uprawnieniem podstawowym dotyczącym maksymalnej masy startowej (MTOM) bezzałogowego statku powietrznego:
 a)
 od 2 kg do 7 kg lub
 b)
-od 7 kg do 25 kg
-podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i aerostat bezzałogowy o masie startowej nie większej niż 25 kg (UAV(AS) < 25 kg);
+od 7 kg do 25 kg – podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i aerostat bezzałogowy o masie startowej nie większej niż 25 kg (UAV(AS) < 25 kg);
 5)
 uprawnieniem podstawowym dotyczącym kategorii statku powietrznego wielowirnikowiec bezzałogowy (MR) wraz z uprawnieniem podstawowym dotyczącym maksymalnej masy startowej (MTOM) bezzałogowego statku powietrznego:
 a)
 od 2 kg do 7 kg lub
 b)
-od 7 kg do 25 kg
-podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i wielowirnikowiec bezzałogowy o masie startowej nie większej niż 25 kg (UAV(MR) < 25 kg);
+od 7 kg do 25 kg – podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i wielowirnikowiec bezzałogowy o masie startowej nie większej niż 25 kg (UAV(MR) < 25 kg);
 6)
 uprawnieniem podstawowym dotyczącym kategorii statku powietrznego inny bezzałogowy statek powietrzny (O) wraz z uprawnieniem podstawowym dotyczącym maksymalnej masy startowej (MTOM) bezzałogowego statku powietrznego:
 a)
 od 2 kg do 7 kg lub
 b)
-od 7 kg do 25 kg
-podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i aerostat bezzałogowy o masie startowej nie większej niż 25 kg (UAV(AS) < 25 kg);
+od 7 kg do 25 kg – podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i aerostat bezzałogowy o masie startowej nie większej niż 25 kg (UAV(AS) < 25 kg);
 7)
 uprawnieniem podstawowym dotyczącym kategorii statku powietrznego samolot bezzałogowy (A) wraz z uprawnieniem podstawowym dotyczącym maksymalnej masy startowej (MTOM) bezzałogowego statku powietrznego:
 a)
 od 25 kg do 50 kg lub
 b)
-od 50 kg
-podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i samolot bezzałogowy o masie startowej nie większej niż 150 kg (UAV(A) < 150 kg);
+od 50 kg – podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i samolot bezzałogowy o masie startowej nie większej niż 150 kg (UAV(A) < 150 kg);
 8)
 uprawnieniem podstawowym dotyczącym kategorii statku powietrznego śmigłowiec bezzałogowy (H) wraz z uprawnieniem podstawowym dotyczącym maksymalnej masy startowej (MTOM) bezzałogowego statku powietrznego:
 a)
 od 25 kg do 50 kg lub
 b)
-od 50 kg
-podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i śmigłowiec bezzałogowy o masie startowej nie większej niż 150 kg (UAV(H) < 150 kg);
+od 50 kg – podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i śmigłowiec bezzałogowy o masie startowej nie większej niż 150 kg (UAV(H) < 150 kg);
 9)
 uprawnieniem podstawowym dotyczącym kategorii statku powietrznego sterowiec bezzałogowy (AS) wraz z uprawnieniem podstawowym dotyczącym maksymalnej masy startowej (MTOM) bezzałogowego statku powietrznego:
 a)
 od 25 kg do 50 kg lub
 b)
-od 50 kg
-podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i aerostat bezzałogowy o masie startowej nie większej niż 150 kg (UAV(AS) < 150 kg);
+od 50 kg – podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i aerostat bezzałogowy o masie startowej nie większej niż 150 kg (UAV(AS) < 150 kg);
 10)
 uprawnieniem podstawowym dotyczącym kategorii statku powietrznego wielowirnikowiec bezzałogowy (MR) wraz z uprawnieniem podstawowym dotyczącym maksymalnej masy startowej (MTOM) bezzałogowego statku powietrznego:
 a)
 od 25 kg do 50 kg lub
 b)
-od 50 kg
-podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i wielowirnikowiec bezzałogowy o masie startowej nie większej niż 150 kg (UAV(MR) < 150 kg);
+od 50 kg – podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i wielowirnikowiec bezzałogowy o masie startowej nie większej niż 150 kg (UAV(MR) < 150 kg);
 11)
 uprawnieniem podstawowym dotyczącym kategorii statku powietrznego inny bezzałogowy statek powietrzny (O) wraz z uprawnieniem podstawowym dotyczącym maksymalnej masy startowej (MTOM) bezzałogowego statku powietrznego:
 a)
 od 25 kg do 50 kg lub
 b)
-od 50 kg
-podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i aerostat bezzałogowy o masie startowej nie większej niż 150 kg (UAV(AS) < 150 kg);
+od 50 kg – podlega wymianie na świadectwo kwalifikacji operatora (UAVO) z uprawnieniami dodatkowymi określającymi kategorię oraz masę startową statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg (UAV < 5 kg) i aerostat bezzałogowy o masie startowej nie większej niż 150 kg (UAV(AS) < 150 kg);
 12)
 uprawnieniem podstawowym do wykonywania lotów jedynie w zasięgu wzroku operatora VLOS – podlega wymianie na uprawnienie podstawowe do wykonywania lotów jedynie w zasięgu wzroku;
 13)
@@ -168,8 +153,7 @@ Szkolenie lotnicze do uzyskania świadectwa kwalifikacji operatora (UAVO) rozpoc
 § 7.
 Podmioty szkolące, prowadzące działalność szkoleniową przed dniem wejścia w życie rozporządzenia, do czasu wprowadzenia do stosowania programów szkolenia, o których mowa w § 32 ust. 3 pkt 1 lit. a, prowadzą szkolenie lotnicze na dotychczasowych warunkach.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
 
 ## Załącznik nr 1 — – Szczegółowe wymagania dotyczące kwalifikacji lotniczych w zakresie wiedzy, umiejętności i praktyki dla świadectwa kwalifikacji operatora bezzałogowego statku powietrznego używanego w celach innych niż rekreacyjne lub sportowe (UAVO)
 
@@ -355,7 +339,13 @@ ważne uprawnienie instruktora (FI) wpisane do licencji, o której mowa w art. 9
 ## Załącznik nr 2 — – Skróty nazw specjalności członków personelu lotniczego i symbole świadectw kwalifikacji oraz uprawnień do nich wpisywanych
 
 Tabela 1
-Nazwa specjalności posiadacza świadectwa kwalifikacji Symbol literowy świadectwa kwalifikacji Symbol literowy uprawnień lotniczych, jakie są wpisywane do świadectwa kwalifikacji pilot lotni hang glider pilot HGP HG, INS, INS(G), TANDEM pilot paralotni paraglider pilot PGP PP, PPG, PPGG, INS, INS(G), TANDEM pilot motolotni powered hang glider pilot PHGP PHG(L), PHG(S), INS pilot statku powietrznego o maksymalnej masie startowej (MTOM) do 495 kg ultralight aircraft pilot UACP UAP(L), UAP(S), UHP(L), UHP(S), UGLP, INS(A), INS(H), INS(GL) operator bezzałogowego statku powietrznego używanego w celach innych niż rekreacyjne i sportowe unmanned aircraft vehicle operator UAVO VLOS, BVLOS, INS, UAV<5kg,UAV(A)<25kg, UAV(A)<150kg,UAV(H)<25kg, UAV(H)<150kg,UAV(AS)<25kg,UAV(AS)<150kg,UAV(MR)<25kg,UAV(MR)<150kg skoczek spadochronowy parachute jumper PJ PJ(B), PJ(C), PJ(D),TANDEM, INS, INS(SL), INS(AFF), INS(TANDEM), INS(G) pilot wiatrakowcowy o maksymalnej masie startowej (MTOM) do 560 kg ultralight autogyro pilot UAGP UAG(L), UAG(S), INS mechanik poświadczenia obsługi statków powietrznych aircraft maintenance mechanic MM Wszystkie z tabeli nr 3
+Nazwa specjalności posiadacza świadectwa kwalifikacji Symbol literowy świadectwa kwalifikacji Symbol literowy uprawnień lotniczych, jakie są wpisywane do świadectwa kwalifikacji pilot lotni hang glider pilot HGP HG, INS, INS(G), TANDEM pilot paralotni paraglider pilot PGP PP, PPG, PPGG, INS, INS(G), TANDEM pilot motolotni powered hang glider pilot PHGP PHG(L), PHG(S), INS pilot statku powietrznego o maksymalnej masie startowej (MTOM) do 495 kg ultralight aircraft pilot UACP UAP(L), UAP(S), UHP(L), UHP(S), UGLP, INS(A), INS(H), INS(GL) operator bezzałogowego statku powietrznego używanego w celach innych niż rekreacyjne i sportowe unmanned aircraft vehicle operator UAVO VLOS, BVLOS, INS, UAV<5kg,
+UAV(A)<25kg, UAV(A)<150kg,
+UAV(H)<25kg, UAV(H)<150kg,
+UAV(AS)<25kg,
+UAV(AS)<150kg,
+UAV(MR)<25kg,
+UAV(MR)<150kg skoczek spadochronowy parachute jumper PJ PJ(B), PJ(C), PJ(D),TANDEM, INS, INS(SL), INS(AFF), INS(TANDEM), INS(G) pilot wiatrakowcowy o maksymalnej masie startowej (MTOM) do 560 kg ultralight autogyro pilot UAGP UAG(L), UAG(S), INS mechanik poświadczenia obsługi statków powietrznych aircraft maintenance mechanic MM Wszystkie z tabeli nr 3
 Tabela 2
 Uprawnienia lotnicze wpisywane do świadectw kwalifikacji pilotów i skoczków spadochronowych Symbol literowy uprawnienia lotniczego wpisywanego do świadectwa kwalifikacji Nazwa w języku polskim Nazwa w języku angielskim Symbol literowy świadectwa kwalifikacji, do którego jest wpisywane uprawnienie lotnicze 1 2 3 4 TANDEM uprawnienie do wykonywania lotów albo skoków z pasażerem Tandem PJ, HGP, PGP INS uprawnienie instruktora Instructor rating HGP, PHGP, PGP, UACP, UAGP, UAVO, PJ INS(A) uprawnienie instruktora samolotu ultralekkiego Instructor rating (aeroplane) UACP INS(H) uprawnienie instruktora śmigłowca ultralekkiego Instructor rating (helicopter) UACP INS(GL) uprawnienie instruktora szybowca ultralekkiego Instructor rating (glider) UACP INS(SL) uprawnienie instruktora szkolenia metodą na linę Instructor rating/static line PJ INS(AFF) uprawnienie instruktora szkolenia metodą AFF Instructor rating/AFF PJ INS(TANDEM) uprawnienie instruktora szkolenia do uprawnienia TANDEM Instructor rating/TANDEM PJ INS(G) uprawnienie instruktora naziemnego Ground Instructor rating HGP, PGP, PJ PJ(B) uprawnienie klasy wyszkolenia B class B PJ PJ(C) uprawnienie klasy wyszkolenia C class C PJ PJ(D) uprawnienie klasy wyszkolenia D class D PJ PP uprawnienie podstawowe do pilotowania paralotni Paraglider (rating) PGP PPG uprawnienie podstawowe do pilotowania paralotni z napędem Powered paraglider (rating) PGP PPGG uprawnienie podstawowe do pilotowania motoparalotni Powered paraglider with gear (rating) PGP UAP(L) uprawnienie do pilotowania samolotu ultralekkiego lądowego ultralight aeroplane (Land) UACP UAP(S) uprawnienie do pilotowania samolotu ultralekkiego wodnego ultralight aeroplane (Sea) UACP UHP(L) uprawnienie do pilotowania śmigłowca ultralekkiego lądowego ultralight helicopter (Land) UACP UHP(S) uprawnienie do pilotowania śmigłowca ultralekkiego wodnego ultralight helicopter (Sea) UACP UGLP uprawnienie do pilotowania szybowca ultralekkiego (rodzaj startu będzie wpisywany do dokumentacji osobistej pilota) ultralight glider pilot UACP HG uprawnienie podstawowe do wykonywania lotów na lotni hang glider rating HGP PHG(L) uprawnienie podstawowe do wykonywania lotów na motolotni lądowej powered hang glider rating (Land) PHGP PHG(S) uprawnienie podstawowe do wykonywania lotów na motolotni wodnej powered hang glider rating (Sea) PHGP UAG(L) uprawnienie podstawowe do pilotowania wiatrakowca ultralekkiego lądowego ultralight autogyro (Land) rating UAGP UAG(S) uprawnienie podstawowe do pilotowania wiatrakowca ultralekkiego wodnego ultralight autogyro (Sea) rating UAGP VLOS uprawnienie podstawowe do wykonywania lotów w zasięgu wzroku visual line of sight operations UAVO BVLOS uprawnienie podstawowe do wykonywania lotów w zasięgu i poza zasięgiem wzroku beyond visual line of sight operations UAVO UAV<5kg uprawnienie dodatkowe na kategorię statku powietrznego bezzałogowy statek powietrzny o masie startowej nie większej niż 5 kg unmanned aerial vehicle up to 5kg UAVO UAV(A)<25kg uprawnienie dodatkowe na kategorię statku powietrznego samolot bezzałogowy o masie startowej nie większej niż 25 kg unmanned aeroplane up to 25 kg UAVO UAV(A)<150kg uprawnienie dodatkowe na kategorię statku powietrznego samolot bezzałogowy o masie startowej nie większej niż 150 kg unmanned aeroplane up to 150 kg UAVO UAV(H)<25kg uprawnienie dodatkowe na kategorię statku powietrznego śmigłowiec bezzałogowy o masie startowej nie większej niż 25 kg unmanned helicopter up to 25 kg UAVO UAV(H)<150kg uprawnienie dodatkowe na kategorię statku powietrznego śmigłowiec bezzałogowy o masie startowej nie większej niż 150 kg unmanned helicopter up to 150 kg UAVO UAV(AS)<25kg uprawnienie dodatkowe na kategorię statku powietrznego aerostat bezzałogowy o masie startowej nie większej niż 25 kg unmanned aerostat up to 25 kg UAVO UAV(AS)<150kg uprawnienie dodatkowe na kategorię statku powietrznego aerostat bezzałogowy o masie startowej nie większej niż 150 kg unmanned aerostat up to 150 kg UAVO UAV(MR)<25kg uprawnienie dodatkowe na kategorię statku powietrznego wielowirnikowiec bezzałogowy o masie startowej nie większej niż 25 kg unmanned multi rotor up to 25 kg UAVO UAV(MR)<150kg uprawnienie dodatkowe na kategorię statku powietrznego wielowirnikowiec bezzałogowy o masie startowej nie większej niż 150 kg unmanned multi rotor up to 150 kg UAVO
 Tabela 3

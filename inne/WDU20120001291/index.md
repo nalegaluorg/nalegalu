@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-11-13 |
 | Data wydania | 2012-11-23 |
-| Wejście w życie | 2012-12-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001291) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1291/text.pdf) |
 
@@ -52,5 +51,5 @@ współpracy przy prowadzeniu działalności edukacyjnej.
 § 6.
 W terminie 6 miesięcy od dnia wejścia w życie rozporządzenia porozumienia zawarte pomiędzy organizatorem a biblioteką publiczną dostosowuje się do wymogów przewidzianych w rozporządzeniu.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 24 lutego 2000 r. w sprawie zasad organizacji obsługi bibliotecznej w domach pomocy społecznej oraz zasad współdziałania bibliotek publicznych w wykonywaniu tej obsługi (Dz. U. Nr 15, poz. 191), które utraciło moc z dniem 2 lipca 2012 r. zgodnie z art. 13 pkt 3 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. Nr 207, poz. 1230). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 24 lutego 2000 r. w sprawie zasad organizacji obsługi bibliotecznej w domach pomocy społecznej oraz zasad współdziałania bibliotek publicznych w wykonywaniu tej obsługi (Dz. U. Nr 15, poz. 191), które utraciło moc z dniem 2 lipca 2012 r. zgodnie z art. 13 pkt 3 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. Nr 207, poz. 1230).
 

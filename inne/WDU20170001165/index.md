@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-19 |
 | Data wydania | 2017-06-19 |
-| Wejście w życie | 2017-07-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001165) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1165/text.pdf) |
 
@@ -64,9 +63,16 @@ Pracownik, który nie posiada kwalifikacji zawodowych przewidzianych dla stanowi
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Załącznik – Tabele stanowisk, kwalifikacji i wynagrodzenia zasadniczego pracowników instytutu zachodniego im. Zygmunta Wojciechowskiego
 I.
-Tabela stanowisk, kwalifikacji i wynagrodzenia zasadniczego pracowników zarządzających Lp. A. Stanowisko B. Wymagane kwalifikacje C.Wynagrodzenie zasadnicze w złotych 1 Dyrektor stopień doktora, 3-letnie doświadczenie w zarządzaniu zespołami pracowniczymi, znajomość języka obcego 10000–14000 2 Zastępca Dyrektora wykształcenie wyższe, 3-letnie doświadczenie w zarządzaniu zespołami pracowniczymi, znajomość języka obcego 8000–12000 3 Główny księgowy według odrębnych przepisów 5500–9500
+Tabela stanowisk, kwalifikacji i wynagrodzenia zasadniczego pracowników zarządzających
+Lp. A. Stanowisko B. Wymagane kwalifikacje C.Wynagrodzenie zasadnicze w złotych 1 Dyrektor stopień doktora, 3-letnie doświadczenie w zarządzaniu zespołami pracowniczymi, znajomość języka obcego 10000–14000 2 Zastępca Dyrektora wykształcenie wyższe, 3-letnie doświadczenie w zarządzaniu zespołami pracowniczymi, znajomość języka obcego 8000–12000 3 Główny księgowy według odrębnych przepisów 5500–9500
 II.
-Tabela stanowisk, kwalifikacji i wynagrodzenia zasadniczego pracowników pionu badawczego Lp. A.Stanowisko B.Wymagane kwalifikacje C.Wynagrodzenie zasadnicze w złotych 1 Kierownik Zespołu wykształcenie wyższe, 3 lata stażu pracy, znajomość języka obcego 5500–9500 2 Koordynator projektu wykształcenie wyższe, 3 lata stażu pracy, znajomość języka obcego 4500–8000 3 Główny analityk wykształcenie wyższe, 3 lata stażu pracy, znajomość języka obcego 4000–7000 4 Starszy analityk wykształcenie wyższe, 2 lata stażu pracy, znajomość języka obcego 3000–5000 5 Analityk wykształcenie wyższe, znajomość języka obcego 2500–4000
+Tabela stanowisk, kwalifikacji i wynagrodzenia zasadniczego pracowników pionu badawczego
+Lp. A.
+Stanowisko B.
+Wymagane kwalifikacje C.
+Wynagrodzenie zasadnicze w złotych 1 Kierownik Zespołu wykształcenie wyższe, 3 lata stażu pracy, znajomość języka obcego 5500–9500 2 Koordynator projektu wykształcenie wyższe, 3 lata stażu pracy, znajomość języka obcego 4500–8000 3 Główny analityk wykształcenie wyższe, 3 lata stażu pracy, znajomość języka obcego 4000–7000 4 Starszy analityk wykształcenie wyższe, 2 lata stażu pracy, znajomość języka obcego 3000–5000 5 Analityk wykształcenie wyższe, znajomość języka obcego 2500–4000
 III.
-Tabela stanowisk, kwalifikacji i wynagrodzenia zasadniczego pracowników pionu wsparcia Lp. A. Stanowisko B. Wymagane kwalifikacje C.Wynagrodzenie zasadnicze w złotych 1 Kierownik wykształcenie wyższe, 3 lata stażu pracy 4000–7000 2 Główny specjalista wykształcenie wyższe, 3 lata stażu pracy 3500–6000 3 Starszy specjalista wykształcenie wyższe, 2 lata stażu pracy 3000–5000 4 Specjalista wykształcenie wyższe 2500–4500 5 Starszy referent wykształcenie średnie 2000–4000 6 Referent wykształcenie średnie 2000–3000 7 Pracownik obsługi wykształcenie podstawowe 2000–3000
+Tabela stanowisk, kwalifikacji i wynagrodzenia zasadniczego pracowników pionu wsparcia
+Lp. A. Stanowisko B. Wymagane kwalifikacje C.
+Wynagrodzenie zasadnicze w złotych 1 Kierownik wykształcenie wyższe, 3 lata stażu pracy 4000–7000 2 Główny specjalista wykształcenie wyższe, 3 lata stażu pracy 3500–6000 3 Starszy specjalista wykształcenie wyższe, 2 lata stażu pracy 3000–5000 4 Specjalista wykształcenie wyższe 2500–4500 5 Starszy referent wykształcenie średnie 2000–4000 6 Referent wykształcenie średnie 2000–3000 7 Pracownik obsługi wykształcenie podstawowe 2000–3000
 

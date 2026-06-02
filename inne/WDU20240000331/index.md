@@ -31,13 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 2 listopada 2016 r. w sprawie przeprowadzania konkursu na stanowisko asystenta prokuratora (Dz. U. poz. 1838), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Sprawiedliwości z dnia 28 grudnia 2022 r. zmieniającym rozporządzenie w sprawie przeprowadzania konkursu na stanowisko asystenta prokuratora (Dz. U. z 2023 r. poz. 52).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Sprawiedliwości z dnia 28 grudnia 2022 r. zmieniającego rozporządzenie w sprawie przeprowadzania konkursu na stanowisko asystenta prokuratora (Dz. U. z 2023 r. poz. 52), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Sprawiedliwości z dnia 28 grudnia 2022 r. zmieniającego rozporządzenie w sprawie przeprowadzania konkursu na stanowisko asystenta prokuratora (Dz. U. z 2023 r. poz. 52), które stanowią: „
 § 2.
 Do konkursów ogłoszonych i nierozstrzygniętych przed dniem wejścia w życie rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 2 listopada 2016 r. w sprawie przeprowadzania konkursu na stanowisko asystenta prokuratora
 Na podstawie art. 180 § 7 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2023 r. poz. 1360, 1429 i 1860) zarządza się, co następuje:
 § 1.
@@ -170,12 +168,12 @@ Informacja o wynikach konkursu zawiera:
 imiona i nazwiska oraz wyniki kandydatów zakwalifikowanych do zatrudnienia na stanowisku, na które przeprowadzany był konkurs, albo imię i nazwisko oraz wynik kandydata zakwalifikowanego do zatrudnienia na tym stanowisku, albo informację, że żaden z kandydatów nie uzyskał wymaganej liczby punktów;
 2)
 rezerwową listę kandydatów obejmującą ich imiona i nazwiska oraz wyniki kandydatów znajdujących się na tej liście albo informację, że taka lista nie została sporządzona.
-3.
+3W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 28 grudnia 2022 r. zmieniającego rozporządzenie w sprawie przeprowadzania konkursu na stanowisko asystenta prokuratora (Dz. U. z 2023 r. poz. 52), które weszło w życie z dniem 24 stycznia 2023 r..
 Kandydatowi, po okazaniu dokumentu tożsamości, udostępnia się do wglądu w siedzibie prokuratury pracę konkursową oraz protokół przebiegu konkursu.
 § 14.
 Jeżeli żaden z kandydatów nie został zakwalifikowany do zatrudnienia na stanowisku asystenta prokuratora, przeprowadza się kolejny konkurs.
 § 15.
 Do konkursów rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 14 listopada 2016 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 10 września 2015 r. w sprawie szczegółowego sposobu i trybu przeprowadzania konkursów na stanowisko asystenta prokuratora (Dz. U. poz. 1436), które na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia. 1) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 28 grudnia 2022 r. zmieniającego rozporządzenie w sprawie przeprowadzania konkursu na stanowisko asystenta prokuratora (Dz. U. z 2023 r. poz. 52), które weszło w życie z dniem 24 stycznia 2023 r. 2) Rozporządzenie zostało ogłoszone w dniu 14 listopada 2016 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 10 września 2015 r. w sprawie szczegółowego sposobu i trybu przeprowadzania konkursów na stanowisko asystenta prokuratora (Dz. U. poz. 1436), które na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
 

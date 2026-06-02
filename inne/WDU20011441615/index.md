@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-11-21 |
 | Data wydania | 2001-12-17 |
-| Wejście w życie | 2002-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011441615) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1615/text.pdf) |
 
@@ -67,9 +66,12 @@ source: "eli-html"
 6. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, profile kształcenia ogólnozawodowego odpowiadające określonym dziedzinom gospodarki. ” ;
 
 - **7)** w art. 39 w ust. 4a po wyrazie „kształcenia” dodaje się wyraz „ogólnozawodowego”;
-- **8)** w art. 82: w ust. 2 w pkt 2 po wyrazie „kształcenia” dodaje się wyraz „ogólnozawodowego”, w ust. 3a: – pkt 6 otrzymuje brzmienie: „ 6) w przypadku szkoły prowadzącej kształcenie zawodowe – nazwę zawodu, w jakim szkoła kształci, ” – dodaje się pkt 7 w brzmieniu: „ 7) w przypadku liceum profilowanego – nazwę profilu albo profili kształcenia ogólnozawodowego. ”
+- **8)** w art. 82: w ust. 2 w pkt 2 po wyrazie „kształcenia” dodaje się wyraz „ogólnozawodowego”, w ust. 3a: pkt 6 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+
+- **6)** w przypadku szkoły prowadzącej kształcenie zawodowe – nazwę zawodu, w jakim szkoła kształci, ” dodaje się pkt 7 w brzmieniu: „
+- **7)** w przypadku liceum profilowanego – nazwę profilu albo profili kształcenia ogólnozawodowego. ”
 
 **Art. 3.** W ustawie z dnia 8 stycznia 1999 r. – Przepisy wprowadzające reformę ustroju szkolnego (Dz. U. Nr 12, poz. 96, z 2000 r. Nr 12, poz. 136, Nr 104, poz. 1104 i Nr 122, poz. 1312 oraz z 2001 r. Nr 111, poz. 1194) wprowadza się następujące zmiany:
 

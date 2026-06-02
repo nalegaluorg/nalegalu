@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-24 |
 | Data wydania | 2024-08-02 |
-| Wejście w życie | 2024-08-03 |
 | Ostatnia zmiana | 2024-08-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001165) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1165/text.pdf) |
 
@@ -50,7 +49,7 @@ source: "eli-html"
 
 **Art. 2.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, które dotyczą postępowań o ustalenie niepełnosprawności albo stopnia niepełnosprawności, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 3.** Karty parkingowe, o których mowa w art. 8 ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.), których termin ważności upływa do dnia 30 września 2024 r., zachowują ważność do dnia 31 marca 2025 r.
+**Art. 3.** Karty parkingowe, o których mowa w art. 8 ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720, 1723 i 2029 oraz z 2024 r. poz. 834.), których termin ważności upływa do dnia 30 września 2024 r., zachowują ważność do dnia 31 marca 2025 r.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720, 1723 i 2029 oraz z 2024 r. poz. 834.
 

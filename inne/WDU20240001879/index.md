@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 13 grudnia 2024 r. w sprawie szczegółowego zakresu danych, które powinny być zawarte w dokumentach związanych z rejestracją w zakresie podatku akcyzowego
+# Rozporządzenie Ministra Finansówz dnia 13 grudnia 2024 r. w sprawie szczegółowego zakresu danych, które powinny być zawarte w dokumentach związanych z rejestracją w zakresie podatku akcyzowego Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-13 |
 | Data wydania | 2024-12-19 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2026-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001879) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1879/text.pdf) |
 
@@ -237,8 +236,7 @@ pkt 1 ustawy,
 b)
 pkt 2 ustawy,
 c)
-pkt 3 ustawy
-w przypadku podmiotu nieprowadzącego działalności gospodarczej;
+pkt 3 ustawy – w przypadku podmiotu nieprowadzącego działalności gospodarczej;
 6)
 określenie rodzaju zużywanych wyrobów akcyzowych zwolnionych od podatku akcyzowego ze względu na ich przeznaczenie, o których mowa w:
 a)
@@ -248,8 +246,7 @@ art. 31b ust. 1 pkt 3 ustawy,
 c)
 art. 32 ust. 1 pkt 3 lub 4 ustawy,
 d)
-§ 6 pkt 1 lit. b lub pkt 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 28 czerwca 2021 r. w sprawie zwolnień od podatku akcyzowego (Dz. U. z 2023 r. poz. 1891)
-w przypadku podmiotu prowadzącego działalność gospodarczą i nieposiadającego numeru identyfikacji podatkowej (NIP);
+§ 6 pkt 1 lit. b lub pkt 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 28 czerwca 2021 r. w sprawie zwolnień od podatku akcyzowego (Dz. U. z 2023 r. poz. 1891) – w przypadku podmiotu prowadzącego działalność gospodarczą i nieposiadającego numeru identyfikacji podatkowej (NIP);
 7)
 określenie miejsc (adresów) zużywania wyrobów akcyzowych zwolnionych od podatku akcyzowego ze względu na ich przeznaczenie;
 8)
@@ -277,6 +274,5 @@ inna.
 § 5.
 Zgłoszenia, o których mowa w § 2–4, zawierają pouczenie o odpowiedzialności podmiotu przewidzianej w przepisach Kodeksu karnego skarbowego za podanie danych niezgodnych ze stanem rzeczywistym.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 29 marca 2022 r. w sprawie szczegółowego zakresu danych, które powinny być zawarte w dokumentach związanych z rejestracją w zakresie podatku akcyzowego (Dz. U. poz. 713), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ust. 1 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2707).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 29 marca 2022 r. w sprawie szczegółowego zakresu danych, które powinny być zawarte w dokumentach związanych z rejestracją w zakresie podatku akcyzowego (Dz. U. poz. 713), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ust. 1 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2707). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 29 marca 2022 r. w sprawie szczegółowego zakresu danych, które powinny być zawarte w dokumentach związanych z rejestracją w zakresie podatku akcyzowego (Dz. U. poz. 713), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ust. 1 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2707).
 

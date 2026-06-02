@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 kwietnia 2010 r. o uchyleniu ustawy o wyrobach stosowanych w medycynie weterynaryjnej oraz o zmianie innych ustaw
+# Ustawa z dnia 9 kwietnia 2010 r. o uchyleniu ustawy o wyrobach stosowanych w medycynie weterynaryjnej oraz o zmianie innych ustaw Ustawa wdraża postanowienia dyrektywy Parlamentu Europejskiego i Rady 2008/13/WE z dnia 11 marca 2008 r. uchylającej dyrektywę Rady 84/539/EWG w sprawie zbliżenia ustawodawstw państw członkowskich odnoszących się do sprzętu elektromedycznego stosowanego w weterynarii (Dz. Urz. UE L 76 z 19.03.2008, str. 41).
 
 | Pole | Wartość |
 |---|---|
@@ -22,20 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-04-09 |
 | Data wydania | 2010-05-11 |
-| Wejście w życie | 2010-06-11 |
 | Ostatnia zmiana | 2026-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100780513) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/513/text.pdf) |
 
+Zasady wprowadzania do obrotu i używania wyrobów do diagnostyki in vitro stosowanych w medycynie weterynaryjnej
+
 **Art. 1.** Uchyla się ustawę z dnia 20 kwietnia 2004 r. o wyrobach stosowanych w medycynie weterynaryjnej (Dz. U. Nr 93, poz. 893 oraz z 2008 r. Nr 157, poz. 976).
 
-**Art. 2.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.) w art. 72 w ust. 7:
+**Art. 2.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570 oraz z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817.) w art. 72 w ust. 7:
 
 - **1)** pkt 4 otrzymuje brzmienie: „
 - **4)** wyrobami do diagnostyki in vitro stosowanymi w medycynie weterynaryjnej w rozumieniu art. 2 pkt 40 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2008 r. Nr 213, poz. 1342 oraz z 2010 r. Nr 47, poz. 278, Nr 60, poz. 372 i Nr 78, poz. 513); ” ;
 - **2)** w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
 - **7)** wyrobami medycznymi w rozumieniu art. 3 pkt 17 ustawy z dnia 20 kwietnia 2004 r. o wyrobach medycznych (Dz. U. Nr 93, poz. 896, z 2005 r. Nr 64, poz. 565, z 2007 r. Nr 176, poz. 1238 oraz z 2008 r. Nr 157, poz. 976), które mają zastosowanie w medycynie weterynaryjnej. ” .
 
-**Art. 3.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2007 r. Nr 121, poz. 842, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2007 r. Nr 121, poz. 842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 145, poz. 916, Nr 195, poz. 1201, Nr 227, poz. 1505 i Nr 237, poz. 1655, z 2009 r. Nr 18, poz. 97, Nr 20, poz. 105 i Nr 157, poz. 1241 oraz z 2010 r. Nr 47, poz. 278 i Nr 60, poz. 372.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 w ust. 2 w pkt 4 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ kontroli wyrobów do diagnostyki in vitro stosowanych w medycynie weterynaryjnej, w rozumieniu art. 2 pkt 40 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2008 r. Nr 213, poz. 1342 oraz z 2010 r. Nr 47, poz. 278, Nr 60, poz. 372 i Nr 78, poz. 513), zwanych dalej „wyrobami do diagnostyki in vitro stosowanymi w medycynie weterynaryjnej”, mającej na celu ustalenie, czy wprowadzone do obrotu lub używania wyroby znajdują się w wykazie wyrobów do diagnostyki in vitro stosowanych w medycynie weterynaryjnej, o którym mowa w art. 76a ust. 1 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt; ” ;
     - **d)**
@@ -75,7 +76,7 @@ source: "eli-html"
 - **44)** wytwórca – osobę fizyczną, jednostkę organizacyjną nieposiadającą osobowości prawnej albo osobę prawną odpowiedzialną za projektowanie, wytwarzanie, pakowanie i oznakowanie wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej przed wprowadzeniem go do obrotu niezależnie od tego, czy powyższe czynności wykonuje ona sama czy w jej imieniu osoba trzecia. ” ;
 - **3)** po rozdziale 9 dodaje się rozdział 9a w brzmieniu: „
 
-#### Rozdział 9a Zasady wprowadzania do obrotu i używania wyrobów do diagnostyki in vitro stosowanych w medycynie weterynaryjnej
+#### Rozdział 9a
 
 **Art. 76a.**
 
@@ -143,8 +144,5 @@ source: "eli-html"
 
 2. Główny Lekarz Weterynarii zamieszcza w wykazie wyrobów do diagnostyki in vitro stosowanych w medycynie weterynaryjnej, o którym mowa w art. 76a ust. 1 ustawy, o której mowa w art. 4, w brzmieniu nadanym niniejszą ustawą, wyroby do diagnostyki in vitro stosowane w medycynie weterynaryjnej, które były wpisane do Rejestru, o którym mowa w art. 10 ustawy, o której mowa w art. 1, na podstawie danych przekazanych przez Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-
-- **1)** Ustawa wdraża postanowienia dyrektywy Parlamentu Europejskiego i Rady 2008/13/WE z dnia 11 marca 2008 r. uchylającej dyrektywę Rady 84/539/EWG w sprawie zbliżenia ustawodawstw państw członkowskich odnoszących się do sprzętu elektromedycznego stosowanego w weterynarii (Dz. Urz. UE L 76 z 19.03.2008, str. 41). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570 oraz z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 145, poz. 916, Nr 195, poz. 1201, Nr 227, poz. 1505 i Nr 237, poz. 1655, z 2009 r. Nr 18, poz. 97, Nr 20, poz. 105 i Nr 157, poz. 1241 oraz z 2010 r. Nr 47, poz. 278 i Nr 60, poz. 372.
-
+**Art. 8.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Ustawa wdraża postanowienia dyrektywy Parlamentu Europejskiego i Rady 2008/13/WE z dnia 11 marca 2008 r. uchylającej dyrektywę Rady 84/539/EWG w sprawie zbliżenia ustawodawstw państw członkowskich odnoszących się do sprzętu elektromedycznego stosowanego w weterynarii (Dz. Urz. UE L 76 z 19.03.2008, str. 41). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570 oraz z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 145, poz. 916, Nr 195, poz. 1201, Nr 227, poz. 1505 i Nr 237, poz. 1655, z 2009 r. Nr 18, poz. 97, Nr 20, poz. 105 i Nr 157, poz. 1241 oraz z 2010 r. Nr 47, poz. 278 i Nr 60, poz. 372.
 

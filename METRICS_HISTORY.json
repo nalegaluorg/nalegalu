@@ -81,5 +81,45 @@
       "eli-html": 15785,
       "isap-pdf": 864
     }
+  },
+  {
+    "date": "2026-06-02",
+    "published": 18266,
+    "rejected": 70,
+    "total_body_chars": 495166253,
+    "total_articles": 113743,
+    "sources": {
+      "isap-pdf": 3934,
+      "eli-html": 14332
+    },
+    "act_types": {
+      "Ustawa": 4064,
+      "Dekret": 3,
+      "Rozporządzenie": 10420,
+      "Umowa międzynarodowa": 328,
+      "Uchwała": 10,
+      "Obwieszczenie": 2051,
+      "Konwencja": 8,
+      "Orzeczenie": 1343,
+      "Traktat": 1,
+      "Postanowienie": 6,
+      "Protokół": 18,
+      "Porozumienie": 8,
+      "Decyzja": 1,
+      "Oświadczenie": 1,
+      "Oświadczenie rządowe": 4
+    },
+    "pdf_types": {
+      "U": 27,
+      "O": 12279,
+      "T": 2023,
+      "unknown": 3937
+    },
+    "unified_text_pdf_types": {
+      "U": 16,
+      "O": 2852,
+      "unknown": 3755,
+      "T": 5
+    }
   }
 ]

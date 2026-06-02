@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-07-03 |
 | Data wydania | 2012-07-17 |
-| Wejście w życie | 2012-08-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000821) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/821/text.pdf) |
 
@@ -96,5 +95,5 @@ orientacyjnej prognozy wiatru i stanu morza na następne 12 godzin.
 § 10.
 Szczegółowe ustalenia dotyczące technicznych sposobów przekazywania informacji, o których mowa w § 8, zostaną uzgodnione między Służbą SAR a służbą meteorologiczną.
 § 11.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 25 września 2001 r. w sprawie prowadzenia nasłuchu radiowego na potrzeby Morskiej Służby Poszukiwania i Ratownictwa (Dz. U. Nr 120, poz. 1282, z 2004 r. Nr 232, poz. 2330 oraz z 2007 r. Nr 179, poz. 1271) oraz rozporządzeniem Rady Ministrów z dnia 25 września 2001 r. w sprawie zasad i sposobu zapewnienia osłony meteorologicznej na potrzeby Morskiej Służby Poszukiwania i Ratownictwa (Dz. U. Nr 118, poz. 1252), które zgodnie z art. 149 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368) tracą moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 25 września 2001 r. w sprawie prowadzenia nasłuchu radiowego na potrzeby Morskiej Służby Poszukiwania i Ratownictwa (Dz. U. Nr 120, poz. 1282, z 2004 r. Nr 232, poz. 2330 oraz z 2007 r. Nr 179, poz. 1271) oraz rozporządzeniem Rady Ministrów z dnia 25 września 2001 r. w sprawie zasad i sposobu zapewnienia osłony meteorologicznej na potrzeby Morskiej Służby Poszukiwania i Ratownictwa (Dz. U. Nr 118, poz. 1252), które zgodnie z art. 149 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368) tracą moc z dniem wejścia w życie niniejszego rozporządzenia.
 

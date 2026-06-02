@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-30 |
 | Data wydania | 2024-12-31 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2025-01-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001984) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1984/text.pdf) |
 
@@ -33,27 +32,31 @@ W rozporządzeniu Rady Ministrów z dnia 13 maja 2003 r. w sprawie algorytmu prz
 1)
 w § 3 w objaśnieniu symbolu K:
 a)
-pkt 5 otrzymuje brzmienie:
-„
+pkt 5 otrzymuje brzmienie: „
 5)
-37 000 zł w 2024 r.;
-” ,
+37 000 zł w 2024 r.; ” ,
 b)
-dodaje się pkt 6 w brzmieniu:
-„
+dodaje się pkt 6 w brzmieniu: „
 6)
-38 000 zł w 2025 r. i w latach następnych.
-” ;
+38 000 zł w 2025 r. i w latach następnych. ” ;
 2)
 w § 5:
 a)
 w ust. 2:
-– pkt 5 otrzymuje brzmienie: „ 5) 37 000 zł w 2024 r.; ” ,
-– dodaje się pkt 6 w brzmieniu: „ 6) 38 000 zł w 2025 r. i w latach następnych. ” ,
+pkt 5 otrzymuje brzmienie: „
+5)
+37 000 zł w 2024 r.; ” ,
+dodaje się pkt 6 w brzmieniu: „
+6)
+38 000 zł w 2025 r. i w latach następnych. ” ,
 b)
 w ust. 4:
-– pkt 6 otrzymuje brzmienie: „ 6) w 2024 r. – 33 696 zł; ” ,
-– dodaje się pkt 8 w brzmieniu: „ 8) w 2025 r. i w latach następnych – 35 196 zł. ” .
+pkt 6 otrzymuje brzmienie: „
+6)
+w 2024 r. – 33 696 zł; ” ,
+dodaje się pkt 8 w brzmieniu: „
+8)
+w 2025 r. i w latach następnych – 35 196 zł. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-05-07 |
 | Data wydania | 2009-06-15 |
-| Wejście w życie | 2009-07-16 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090910742) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/742/text.pdf) |
 
@@ -68,8 +67,11 @@ source: "eli-html"
 
 6. W przypadku, o którym mowa w ust. 3, spółdzielnia socjalna założona przez jednostki samorządu terytorialnego, kościelne osoby prawne lub organizacje pozarządowe może udzielić poręczenia pożyczek, kredytów lub zabezpieczenia zwrotu otrzymanej refundacji lub środków na podjęcie działalności gospodarczej, założenie lub przystąpienie do spółdzielni socjalnej. ” ;
 
-- **4)** w art. 6: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) zaświadczenie potwierdzające spełnienie przez osoby zamierzające założyć spółdzielnię socjalną warunków, o których mowa w art. 4 ust. 1 pkt 2, lub ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) uchwałę organu stanowiącego jednostki samorządu terytorialnego, kościelnej osoby prawnej lub organizacji pozarządowej o powołaniu spółdzielni socjalnej, w przypadku gdy organem założycielskim jest organizacja pozarządowa, kościelna osoba prawna lub jednostka samorządu terytorialnego. ” , ust. 3 otrzymuje brzmienie: „
+- **4)** w art. 6: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** zaświadczenie potwierdzające spełnienie przez osoby zamierzające założyć spółdzielnię socjalną warunków, o których mowa w art. 4 ust. 1 pkt 2, lub ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** uchwałę organu stanowiącego jednostki samorządu terytorialnego, kościelnej osoby prawnej lub organizacji pozarządowej o powołaniu spółdzielni socjalnej, w przypadku gdy organem założycielskim jest organizacja pozarządowa, kościelna osoba prawna lub jednostka samorządu terytorialnego. ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Spółdzielnia socjalna nie uiszcza opłaty sądowej od wniosku o wpis tej spółdzielni do Krajowego Rejestru Sądowego, a także od wniosków o zmiany wpisu oraz nie uiszcza opłaty za ogłoszenie tych wpisów w Monitorze Sądowym i Gospodarczym. ” ;
@@ -148,11 +150,11 @@ source: "eli-html"
 
 3. W przypadku likwidacji spółdzielni socjalnej walne zgromadzenie może podjąć uchwałę o przekazaniu środków określonych w ust. 1 na rzecz organizacji pozarządowych, realizujących zadania określone ustawą z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, właściwego związku rewizyjnego spółdzielni socjalnych, lub innych spółdzielni socjalnych. ” .
 
-**Art. 2.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.) w art. 2 ust. 1 pkt 2 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155, z 2005 r. Nr 10, poz. 66, Nr 184, poz. 1539 i Nr 267, poz. 2252, z 2006 r. Nr 157, poz. 1119 i Nr 208, poz. 1540, z 2008 r. Nr 63, poz. 393, Nr 144, poz. 900, Nr 171, poz. 1056, Nr 214, poz. 1343 i Nr 223, poz. 1466 oraz z 2009 r. Nr 42, poz. 341 i Nr 77, poz. 649.) w art. 2 ust. 1 pkt 2 otrzymuje brzmienie: „
 
 - **2)** osób fizycznych, spółek cywilnych osób fizycznych, spółek jawnych osób fizycznych, spółek partnerskich oraz spółdzielni socjalnych, jeżeli ich przychody netto ze sprzedaży towarów, produktów i operacji finansowych za poprzedni rok obrotowy wyniosły co najmniej równowartość w walucie polskiej 1 200 000 euro, ” .
 
-**Art. 3.** W ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. Nr 122, poz. 1143, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. Nr 122, poz. 1143, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 624 i Nr 99, poz. 1001, z 2005 r. Nr 164, poz. 1366 i Nr 175, poz. 1462, z 2006 r. Nr 94, poz. 651, z 2007 r. Nr 115, poz. 793 oraz z 2009 r. Nr 6, poz. 33.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 pkt 8 otrzymuje brzmienie: „
 - **8)** zatrudnieniu wspieranym – oznacza to udzielanie wsparcia o charakterze doradczym i finansowym osobie, o której mowa w art. 1, w utrzymaniu aktywności zawodowej umożliwiającej podjęcie zatrudnienia, prac społecznie użytecznych w rozumieniu przepisów o promocji zatrudnienia i instytucjach rynku pracy, założenie lub przystąpienie do spółdzielni socjalnej lub podjęcie działalności gospodarczej; ” ;
@@ -183,13 +185,13 @@ source: "eli-html"
 
 - **6)** uchyla się art. 17.
 
-**Art. 4.** W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2007 r. Nr 223, poz. 1655, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2007 r. Nr 223, poz. 1655, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1058, Nr 220, poz. 1420 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 101 i Nr 65, poz. 545.) wprowadza się następujące zmiany:
 
 - **1)** w art. 29 dodaje się ust. 4 w brzmieniu: „
 
 4. Zamawiający może określić w opisie przedmiotu zamówienia wymagania związane z realizacją zamówienia, dotyczące:
 
-- **1)** zatrudnienia osób: bezrobotnych lub młodocianych w celu przygotowania zawodowego, o których mowa w przepisach o promocji zatrudnienia i instytucjach rynku pracy, niepełnosprawnych, o których mowa w przepisach o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, innych niż określone w lit. a lub b, o których mowa w przepisach o zatrudnieniu socjalnym lub we właściwych przepisach państw członkowskich Unii Europejskiej lub Europejskiego Obszaru Gospodarczego;
+- **1)** zatrudnienia osób: bezrobotnych lub młodocianych w celu przygotowania zawodowego, o których mowa w przepisach o promocji zatrudnienia i instytucjach rynku pracy, niepełnosprawnych, o których mowa w przepisach o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, innych niż określone w lit. a lub b, o których mowa w przepisach o zatrudnieniu socjalnym – lub we właściwych przepisach państw członkowskich Unii Europejskiej lub Europejskiego Obszaru Gospodarczego;
     - **a)**
     - **b)**
     - **c)**
@@ -197,7 +199,7 @@ source: "eli-html"
 - **2)** utworzenia funduszu szkoleniowego, w rozumieniu przepisów o promocji zatrudnienia i instytucjach rynku pracy, w którym wpłaty pracodawców stanowić będą co najmniej czterokrotność najniższej wpłaty określonej w tych przepisach;
 - **3)** zwiększenia wpłat pracodawców na rzecz funduszu szkoleniowego, w rozumieniu przepisów o promocji zatrudnienia i instytucjach rynku pracy, do wysokości określonej w pkt 2. ” ;
 - **2)** w art. 36 w ust. 2 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
-- **9)** jeżeli zamawiający przewiduje wymagania, o których mowa w art. 29 ust. 4, określenie w szczególności: liczby osób, o których mowa w art. 29 ust. 4 pkt 1, i okresu wymaganego zatrudnienia tych osób, sposobu dokumentowania zatrudnienia osób, o których mowa w art. 29 ust. 4 pkt 1, lub utworzenia albo zwiększenia funduszu szkoleniowego, uprawnienia zamawiającego w zakresie kontroli spełniania przez wykonawcę wymagań, o których mowa w art. 29 ust. 4, oraz sankcji z tytułu niespełnienia tych wymagań. ” . W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.) wprowadza się następujące zmiany:
+- **9)** jeżeli zamawiający przewiduje wymagania, o których mowa w art. 29 ust. 4, określenie w szczególności: liczby osób, o których mowa w art. 29 ust. 4 pkt 1, i okresu wymaganego zatrudnienia tych osób, sposobu dokumentowania zatrudnienia osób, o których mowa w art. 29 ust. 4 pkt 1, lub utworzenia albo zwiększenia funduszu szkoleniowego, uprawnienia zamawiającego w zakresie kontroli spełniania przez wykonawcę wymagań, o których mowa w art. 29 ust. 4, oraz sankcji z tytułu niespełnienia tych wymagań. ” . W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33 i Nr 69, poz. 595.) wprowadza się następujące zmiany:
     - **a)**
     - **b)**
     - **c)**
@@ -222,5 +224,5 @@ source: "eli-html"
 
 **Art. 7.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 17 ustawy wymienionej w art. 3 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 12 ust. 3d ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 9 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155, z 2005 r. Nr 10, poz. 66, Nr 184, poz. 1539 i Nr 267, poz. 2252, z 2006 r. Nr 157, poz. 1119 i Nr 208, poz. 1540, z 2008 r. Nr 63, poz. 393, Nr 144, poz. 900, Nr 171, poz. 1056, Nr 214, poz. 1343 i Nr 223, poz. 1466 oraz z 2009 r. Nr 42, poz. 341 i Nr 77, poz. 649. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 624 i Nr 99, poz. 1001, z 2005 r. Nr 164, poz. 1366 i Nr 175, poz. 1462, z 2006 r. Nr 94, poz. 651, z 2007 r. Nr 115, poz. 793 oraz z 2009 r. Nr 6, poz. 33. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1058, Nr 220, poz. 1420 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 101 i Nr 65, poz. 545. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33 i Nr 69, poz. 595.
 
